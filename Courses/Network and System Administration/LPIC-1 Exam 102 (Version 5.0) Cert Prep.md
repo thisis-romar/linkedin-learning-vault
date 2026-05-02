@@ -160,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980&t=0)** - [Instructor] Possessing credentials as well-known as the Linux Professional Institute's LPIC-1 certification will help secure a position in the IT industry as a Linux administrator.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980&t=0)** - [Instructor] Possessing credentials as well-known as the [[Linux]] Professional Institute's LPIC-1 certification will help secure a position in the IT industry as a Linux administrator.
 >
 > **[0:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980&t=9)** The LPIC-1 certification is a popular distribution neutral certification.
 >
@@ -190,12 +189,11 @@ created: 2026-05-02
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course we'll be using CentOS 7 Enterprise Linux, which is a clone of Red Hat Enterprise Linux 7 as well as Ubuntu 19.04 running in VirtualBox virtual machines.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course we'll be using CentOS 7 Enterprise [[Linux]], which is a clone of Red Hat Enterprise Linux 7 as well as [[Ubuntu]] 19.04 running in VirtualBox [[Virtual Machines]].
 >
 > **[0:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=11)** In this course, when I refer to Enterprise Linux 7, I mean Red Hat Enterprise Linux 7 or CentOS 7 Enterprise Linux.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=27)** For this course we'll install Linux in VirtualBox virtual machines.
 >
-> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=31)** There are versions of VirtualBox for Windows, macOS, Solaris, and various Linux distributions.
+> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=31)** There are versions of VirtualBox for [[Windows]], macOS, Solaris, and various Linux distributions.
 >
 > **[0:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=36)** For this course, I'll be running VirtualBox on a Linux host.
 >
@@ -235,13 +233,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=102)** If you're using Windows as a host OS, I recommend eight gigabytes of RAM minimum.
 >
-> **[1:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=107)** Notice that these hardware requirements are not that large.
+> **[1:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=107)** Notice that these [[Hardware]] requirements are not that large.
 >
 > **[1:50](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-you-should-know?u=76281980&t=110)** Most computers built in the last 10 years will work fine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (3), [[Virtual Machines]] (3), [[Windows]] (3), [[Virtualization]] (2)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (3), [[Virtual Machines]] (3), [[Windows]] (3), [[Hardware]] (1)
 > **Env Vars:** amd (3), cpu (1), iso (1), ram (1)
 > **Prerequisites:** you'll need (2), install (1), make sure you have (1)
 > **Versions:** 19.04 (2)
@@ -250,12 +248,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Exercise Files:** download the (1)
 
-#### About the LPIC 1 exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980)
+#### [About the LPIC 1 exam](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=0)** - [Narrator] The Linux Professional Institute created the LPIC-1 certification in 1999, about 10 years after the first Linux kernal was released as an entry level, distribution agnostic certification.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=0)** - [Narrator] The [[Linux]] Professional Institute created the LPIC-1 certification in 1999, about 10 years after the first Linux kernal was released as an entry level, distribution agnostic certification.
 >
 > **[0:12](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=12)** In 2010, the Linux Professional Institute teamed up with CompTIA and created a combined set of exams.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=108)** The LPIC-1 exam 102 has 60 questions, and you have 90 minutes to complete them.
 >
-> **[1:53](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=113)** The exam costs $200 U.S. dollars and the exam can be taken at many Pearson VUE testing centers around the world.
+> **[1:53](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=113)** The exam costs $200 U.S. dollars and the exam can be taken at many Pearson [[Vue.js|VUE]] testing centers around the world.
 >
 > **[2:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=120)** The certification is valid for five years.
 >
@@ -299,7 +296,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=135)** Check the LPI website for more information and available languages.
 >
-> **[2:19](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=139)** When you arrive at the Pearson VUE testing center, two forms of ID will be required and no personal items will be allowed in the testing room.
+> **[2:19](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=139)** When you arrive at the Pearson VUE testing center, two [[Forms]] of ID will be required and no personal items will be allowed in the testing room.
 >
 > **[2:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=146)** You must arrive at the testing center 15 minutes early, and if you're 17 years or younger you can take the test, but you need to have an adult with proper ID with you.
 >
@@ -313,13 +310,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=177)** In this course, we will be using CentOS 7 Enterprise Linux for all exam objectives.
 >
-> **[3:02](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=182)** You could however use Ubuntu or another distribution to learn the objectives of this certification exam as the only thing distribution specific on the LPIC-1 version 5.0 102 exam is the commands you'll use to solve socket packages and the package names themselves.
+> **[3:02](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=182)** You could however use [[Ubuntu]] or another distribution to learn the objectives of this certification exam as the only thing distribution specific on the LPIC-1 version 5.0 102 exam is the commands you'll use to solve socket packages and the package names themselves.
 >
 > **[3:18](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=198)** If you're using another distribution, just use then installation programs for that distribution to install the equivalent packages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), [[Scripting]] (2), [[Vue.js|Vue]] (2), product (1), dns (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Vue.js|Vue]] (2), [[Forms]] (1), [[Ubuntu]] (1)
 > **Env Vars:** lpic (7), lxo (2), vue (2), suse (1), dns (1)
 > **Versions:** version 5 (4), version 6 (1)
 > **Prerequisites:** you need to have (1), install (1)
@@ -328,12 +325,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Install CentOS 7
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980)
+#### [Install CentOS 7](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=0)** - [Instructor] For most of this course, we'll be using a CentOS 7 Enterprise Linux Virtual Machine running in VirtualBox.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=0)** - [Instructor] For most of this course, we'll be using a CentOS 7 Enterprise [[Linux]] Virtual Machine running in VirtualBox.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=5)** I won't walk through every step of the installation but instead we'll focus on the important parts.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=24)** To do so, go to [VirtualBox.org](https://VirtualBox.org) and click on the Download VirtualBox 6 icon.
 >
-> **[0:29](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=29)** I'll be using Linux on my host OS, but Windows, MacOS X and Solaris will also work.
+> **[0:29](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=29)** I'll be using Linux on my host OS, but [[Windows]], MacOS X and Solaris will also work.
 >
 > **[0:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=34)** If you're using Linux, you may be able to install VirtualBox through the package manager instead.
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=110)** This is nice shortcut, saving time.
 >
-> **[1:54](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=114)** Now click through the rest of the dialogs by taking the defaults.
+> **[1:54](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=114)** Now click through the [[Representational State Transfer (REST)|rest]] of the dialogs by taking the defaults.
 >
 > **[1:59](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-centos-7?u=76281980&t=119)** After the VM has been created, click on Settings to optimize the VM.
 >
@@ -477,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), next (2), [[Virtualization]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (21), go to (1), scroll down (1), checkbox (1)
 > **Env Vars:** iso (3), gui (3), bios (1), uefi (1), usb (1)
 > **Prerequisites:** install (11), required to (1)
@@ -486,8 +482,7 @@ created: 2026-05-02
 > **Versions:** version 7 (1)
 > **Exercise Files:** download the (1)
 
-#### Centos 7 Lab setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/centos-7-lab-setup?u=76281980)
+#### [Centos 7 Lab setup](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/centos-7-lab-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,7 +518,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=82)** and hit Enter, and enter your password if prompted.
 >
-> **[1:27](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=87)** This installs the software development tools.
+> **[1:27](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=87)** This installs the [[Software Development]] tools.
 >
 > **[1:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=90)** After they're done, we'll install the kernel headers.
 >
@@ -621,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (3), cd (3), power (3), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **UI Navigation:** click on (27), select the (1)
 > **CLI Commands:** make (7), yum (3), cd (3)
 > **Prerequisites:** install (7), configure (1), setup (1)
@@ -635,8 +630,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980)
+#### [Set environment variables](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,7 +730,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980&t=232)** Different files are processed depending on how the shell starts.
 >
-> **[3:56](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980&t=236)** When we log into Linux by typing in a password, Linux first executes the /etc/profile which in turn executes scripts in /etc/profile.d.
+> **[3:56](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980&t=236)** When we log into [[Linux]] by typing in a password, Linux first executes the /etc/profile which in turn executes scripts in /etc/profile.d.
 >
 > **[4:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980&t=247)** These two items are the system-wide file and directories holding our environment and shell variables.
 >
@@ -782,7 +776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), [[Linux]] (2), data (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** grep (6), make (1)
 > **Tools:** bash (5), terminal (1)
 > **Env Vars:** var (2), shell (1), test (1), gui (1)
@@ -790,8 +784,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Bash functions for frequent tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980)
+#### [Bash functions for frequent tasks](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +824,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=101)** Depending on the distribution, one or more of these scripts may spawn other scripts.
 >
-> **[1:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=105)** In the case of Enterprise Linux seven, the /etc/profile also executes all scripts in the /etc/profile.ddirectory that end in .sh, as well as the /etc/profile.d/sh.local script.
+> **[1:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=105)** In the case of Enterprise [[Linux]] seven, the /etc/profile also executes all scripts in the /etc/profile.ddirectory that end in .sh, as well as the /etc/profile.d/sh.local script.
 >
 > **[2:01](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=121)** If you want to create a shell function that would be available to all users, you would want to create a file in the /etc/profile.ddirectory and name the file with a .sh ending.
 >
@@ -861,7 +854,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=195)** And then viewing each file it reads and executes, and continuing to do the same for each of those files.
 >
-> **[3:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=201)** For an interactive non login shell, such as you'd get if you ran the bash command after you've logged in, bash will read and execute the .bashrc file in the user's home directory first, which then sources the /etc/bashrc file and skips the rest.
+> **[3:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=201)** For an interactive non login shell, such as you'd get if you ran the bash command after you've logged in, bash will read and execute the .bashrc file in the user's home directory first, which then sources the /etc/bashrc file and skips the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-functions-for-frequent-tasks?u=76281980&t=216)** If the shell is a non interactive non login shell, such as would get if he ran a script with bash then it only reads the value of the bash_env variable.
 >
@@ -927,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Linux]] (3), cd (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** bash (12), command line (1), terminal (1)
 > **CLI Commands:** cd (3), mkdir (2), make (1)
 > **Code Identifiers:** bash_profile (2), bash_login (1), bash_env (1)
@@ -936,8 +929,7 @@ created: 2026-05-02
 > **Warnings:** note that (2), troubleshoot (1)
 > **UI Navigation:** go to (1)
 
-#### Bash aliases as shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-aliases-as-shortcuts?u=76281980)
+#### [Bash aliases as shortcuts](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-aliases-as-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +1003,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-aliases-as-shortcuts?u=76281980&t=160)** However, this doesn't guarantee that a command will run as there may be a function or built in named ls as well.
 >
-> **[2:46](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-aliases-as-shortcuts?u=76281980&t=166)** If we want to force the execution of a command on disk, we can prefix it with the word command.
+> **[2:46](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-aliases-as-shortcuts?u=76281980&t=166)** If we want to force the execution of a command on disk, we can prefix it with the [[Microsoft Word|word]] command.
 >
 > **[2:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/bash-aliases-as-shortcuts?u=76281980&t=171)** For instance, type in command ls and hit enter.
 >
@@ -1025,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), cd (4), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ls (9), cd (4), make (1)
 > **Tools:** bash (6), terminal (1)
 > **Definitions:** is a  (2)
@@ -1034,8 +1026,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set command search path
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-command-search-path?u=76281980)
+#### [Set command search path](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-command-search-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1118,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Search]] (1), data (1)
 > **CLI Commands:** tar (3), make (2), find (1), mkdir (1), sudo (1)
 > **Env Vars:** path (8)
 > **Tools:** bash (6), terminal (1)
@@ -1135,8 +1125,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Maintain skeleton directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/maintain-skeleton-directories?u=76281980)
+#### [Maintain skeleton directories](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/maintain-skeleton-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,7 +1187,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), cd (1)
 > **CLI Commands:** sudo (4), ls (2), cat (2), cd (1), cp (1)
 > **Definitions:** is called (1)
 > **Warnings:** note that (1)
@@ -1209,12 +1197,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Bash
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980)
+#### [Introduction to Bash](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=0)** - Bash is the Default shell on Enterprise Linux, and as such, is the default vehicle for Shell Scripts.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=0)** - Bash is the Default shell on Enterprise [[Linux]], and as such, is the default vehicle for Shell Scripts.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=6)** As of this recording, the version of Bash that comes with Enterprise Linux seven, is four dot two.
 >
@@ -1238,7 +1225,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=97)** There are jobs like running multiple processes asynchronously, and waiting for all processes to finish before moving on, that are very simple in Bash, but complex and other languages.
 >
-> **[1:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=107)** There are times when you shouldn't use Bash, for instance, Bash does not handle complex data types like XML or JSON, nor can it handle floating point math internally, and relies on external commands for this.
+> **[1:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=107)** There are times when you shouldn't use Bash, for instance, Bash does not handle complex data types like XML or [[JSON]], nor can it handle floating point math internally, and relies on external commands for this.
 >
 > **[1:58](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980&t=118)** Bash, if written poorly, is difficult to troubleshoot, as it's loosely typed and often runs code, even if it doesn't work.
 >
@@ -1246,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[JSON]] (1)
 > **Tools:** bash (10), command line (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** xml (1), json (1)
@@ -1254,8 +1241,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - bash (1)
 
-#### What is a shell script?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-is-a-shell-script?u=76281980)
+#### [What is a shell script?](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-is-a-shell-script?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,7 +1287,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-is-a-shell-script?u=76281980&t=104)** The last thing we would do to make it seamless is to put our command in the system path.
 >
-> **[1:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-is-a-shell-script?u=76281980&t=108)** In Enterprise Linux seven we have a directive set aside for this, it just hasn't been created yet.
+> **[1:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-is-a-shell-script?u=76281980&t=108)** In Enterprise [[Linux]] seven we have a directive set aside for this, it just hasn't been created yet.
 >
 > **[1:53](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/what-is-a-shell-script?u=76281980&t=113)** Let's take a look at the contents of the path variable.
 >
@@ -1351,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Scripting]] (1), [[Debugging]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** make (5), cat (2), chmod (1), mkdir (1), mv (1)
 > **Tools:** bash (7), terminal (1)
 > **File Paths:** script.sh (5)
@@ -1360,8 +1346,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** required to (1)
 
-#### Execute compound commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/execute-compound-commands?u=76281980)
+#### [Execute compound commands](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/execute-compound-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1483,7 +1468,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), cd (4), prompt (2)
 > **CLI Commands:** cd (4), make (2), cat (2), ls (1), grep (1)
 > **Analogies:** for instance (2), similar to (1)
 > **Warnings:** note that (2)
@@ -1491,9 +1475,9 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [narrator] (1)
 
-#### Use Command and Variable substitution
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-command-and-variable-substitution?u=76281980)
+#### [Use Command and Variable substitution](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-command-and-variable-substitution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1579,7 +1563,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-command-and-variable-substitution?u=76281980&t=273)** Type in echo space, double quote.
 >
-> **[4:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-command-and-variable-substitution?u=76281980&t=276)** My Space name space is space dollar sign left parentheses, Who am I one word, right parentheses, double quote and hit enter.
+> **[4:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-command-and-variable-substitution?u=76281980&t=276)** My Space name space is space dollar sign left parentheses, Who am I one [[Microsoft Word|word]], right parentheses, double quote and hit enter.
 >
 > **[4:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-command-and-variable-substitution?u=76281980&t=288)** This is a very simple example that runs the Who am I command first, and then substitutes the output in place of the command.
 >
@@ -1601,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ls (11), find (7), mkdir (2)
 > **Tools:** terminal (2), bash (2), command line (1)
 > **Analogies:** for instance (2)
@@ -1609,8 +1593,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional flow with if, then if
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-if-then-if?u=76281980)
+#### [Conditional flow with if, then if](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-if-then-if?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1617,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-if-then-if?u=76281980&t=34)** Bash is very tightly integrated with the operating system.
 >
-> **[0:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-if-then-if?u=76281980&t=37)** In this example, we search etc password for the word root using grep.
+> **[0:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-if-then-if?u=76281980&t=37)** In this example, we search etc password for the [[Microsoft Word|word]] root using grep.
 >
 > **[0:41](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-if-then-if?u=76281980&t=41)** If it's found in grep, will return a zero to the if conditional and the first code block will run.
 >
@@ -1710,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Tools:** bash (6)
 > **CLI Commands:** grep (3), find (1)
 > **Env Vars:** posix (2)
@@ -1719,8 +1702,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** required to (1)
 
-#### Conditional flow with case
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-case?u=76281980)
+#### [Conditional flow with case](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/conditional-flow-with-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,15 +1748,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Tools:** bash (2), command line (1)
 > **Analogies:** similar to (2), for example (1)
 > **Env Vars:** age (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterate with for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-for-loops?u=76281980)
+#### [Iterate with for loops](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,7 +1786,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-for-loops?u=76281980&t=48)** There are times though when we will use command substitution to create the list.
 >
-> **[0:52](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-for-loops?u=76281980&t=52)** However, be very careful because the for loop uses the IFS or internal field separator to word split.
+> **[0:52](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-for-loops?u=76281980&t=52)** However, be very careful because the for loop uses the IFS or internal field separator to [[Microsoft Word|word]] split.
 >
 > **[0:59](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-for-loops?u=76281980&t=59)** The IFS by default splits on blank spaces so if a feel name has a space in it, your loop will break.
 >
@@ -1852,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** ifs (4)
 > **Tools:** bash (3)
 > **CLI Commands:** make (1)
@@ -1861,8 +1841,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Iterate with while loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-while-loops?u=76281980)
+#### [Iterate with while loops](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1882,7 +1861,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-while-loops?u=76281980&t=29)** The condition inside the single square brackets follows the same rules as an if conditional inside of single square brackets, which means you can match on wildcards, but not regular expressions.
 >
-> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-while-loops?u=76281980&t=39)** The simplest while loop we can make is the infinite loop by replacing the condition with the word true.
+> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-while-loops?u=76281980&t=39)** The simplest while loop we can make is the infinite loop by replacing the condition with the [[Microsoft Word|word]] true.
 >
 > **[0:44](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/iterate-with-while-loops?u=76281980&t=44)** This loop will keep iterating forever, unless the user kills the script or the condition inside of the if condition double square brackets is true and the break command runs.
 >
@@ -1910,8 +1889,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using return codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980)
+#### [Using return codes](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1953,7 +1931,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=82)** The reason we got two different codes when trying to access a file that doesn't exist is we used two different commands which had different codes.
 >
-> **[1:29](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=89)** Now let's type a command that does not exist, type in catfile, one word and hit Enter and list the return code again.
+> **[1:29](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=89)** Now let's type a command that does not exist, type in catfile, one [[Microsoft Word|word]] and hit Enter and list the return code again.
 >
 > **[1:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=96)** This time the value is 127.
 >
@@ -1973,7 +1951,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=127)** Error code 126 is a command that cannot be executed.
 >
-> **[2:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=130)** This may be for various reasons, including SC Linux permission denials.
+> **[2:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=130)** This may be for various reasons, including SC [[Linux]] permission denials.
 >
 > **[2:14](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-return-codes?u=76281980&t=134)** Code 127 is command not found which we just saw.
 >
@@ -2059,7 +2037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), hit (10), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** ls (7), cat (7), make (4)
 > **Tools:** bash (4), terminal (1)
 > **UI Navigation:** go to (5)
@@ -2068,8 +2046,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1), note that (1)
 > **Documentation:** man page (1)
 
-#### Create a monitor script
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/create-a-monitor-script?u=76281980)
+#### [Create a monitor script](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/create-a-monitor-script?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), data (1)
 > **CLI Commands:** sudo (1), make (1)
 > **Env Vars:** euid (1), cpu (1)
 > **Cross-References:** later in (1)
@@ -2147,20 +2123,20 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
+> **Speakers:** - [narrator] (1)
 
 
 ### 3. Install and Configure X11
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### X11 architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980)
+#### [X11 architecture](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=0)** - UNIC systems historically have used the X Windowing System to provide the constructs for graphical interface.
 >
-> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=6)** X supports screens, drawing and moving of windows, as well as input devices such as mice and keyboards.
+> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=6)** X supports screens, drawing and moving of [[Windows]], as well as input devices such as mice and keyboards.
 >
 > **[0:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=13)** The X Windowing System was created by MIT in 1984.
 >
@@ -2170,7 +2146,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=28)** In 2004, XFree86 distributed code that conflicted with a GPL license, so it was forked into [X.org](https://X.org).
 >
-> **[0:35](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=35)** Most Linux distributions switched to [X.org](https://X.org), and the last version of XFree86 was released in 2008.
+> **[0:35](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=35)** Most [[Linux]] distributions switched to [X.org](https://X.org), and the last version of XFree86 was released in 2008.
 >
 > **[0:41](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=41)** The development of XFree86 has stopped.
 >
@@ -2180,7 +2156,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=55)** X Windows is network-aware by default.
 >
-> **[0:58](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=58)** A service called the X server exists where the video card and input hardware is.
+> **[0:58](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=58)** A service called the X server exists where the video card and input [[Hardware]] is.
 >
 > **[1:02](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=62)** This means the X server is usually on the local work station.
 >
@@ -2228,7 +2204,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=156)** It supports direct rendering by the client.
 >
-> **[2:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=159)** Memory management, command scheduling and mode setting are in the kernel.
+> **[2:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=159)** [[Memory Management]], command scheduling and mode setting are in the kernel.
 >
 > **[2:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980&t=163)** Other functions are pushed into libraries, leaving Wayland much smaller and lighter.
 >
@@ -2238,7 +2214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Windows]] (2), [[Hardware]] (2), [[Linux]] (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2), [[Linux]] (1), [[Memory Management]] (1)
 > **Env Vars:** unic (1), mit (1), gpl (1), cpu (1)
 > **URLs:** [x.org](https://x.org) (3)
 > **Analogies:** such as (3)
@@ -2247,8 +2223,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** firefox (1)
 
-#### About desktop environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980)
+#### [About desktop environments](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2256,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=5)** This means we can change out the graphical interface and use a different one if we wish.
 >
-> **[0:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=9)** On Linux a system called X Windows provides the ability to have a GUI including mouse pointer, keyboard and screens.
+> **[0:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=9)** On [[Linux]] a system called X [[Windows]] provides the ability to have a GUI including mouse pointer, keyboard and screens.
 >
 > **[0:16](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=16)** On top of X-Windows will be a GUI Toolkit.
 >
@@ -2276,7 +2251,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=52)** It's important for us to find the desktop environment that fits our needs.
 >
-> **[0:56](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=56)** Desktops may also include extra applications including word processors, spreadsheets, application launchers, configuration tools, and more.
+> **[0:56](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=56)** Desktops may also include extra applications including [[Microsoft Word|word]] processors, spreadsheets, application launchers, configuration tools, and more.
 >
 > **[1:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-desktop-environments?u=76281980&t=66)** In this course, we will be using CentOS 7 Linux.
 >
@@ -2334,7 +2309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Linux]] (4), [[Windows]] (4), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Windows]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gnome (12), kde (6), mate (5), gui (2), gtk2 (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** install (2)
@@ -2343,12 +2318,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assistive technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980)
+#### [Assistive technologies](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=0)** - [Narrator] Most modern operating systems, including Linux, support assistive technologies for users with hearing, speech, vision, or mobility impairments.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=0)** - [Narrator] Most modern operating systems, including [[Linux]], support assistive technologies for users with hearing, speech, vision, or mobility impairments.
 >
 > **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=8)** Assistive technologies include applications for keyboard navigation, on-screen visual keyboards, screen readers, speech synthesizers, as well as visual and audio alerts.
 >
@@ -2378,7 +2352,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=70)** When done, choose the original cursor, close the dialog, and turn off high contrast, and large text.
 >
-> **[1:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=77)** Zoom has some additional settings.
+> **[1:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=77)** [[Zoom]] has some additional settings.
 >
 > **[1:19](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/assistive-technologies?u=76281980&t=79)** To see them, click on it.
 >
@@ -2484,7 +2458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Linux]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Linux]] (1)
 > **UI Navigation:** click on (15), go to (2), switch to (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** remember to (1), the key is (1)
@@ -2493,12 +2467,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Override specific aspects of Xorg configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980)
+#### [Override specific aspects of Xorg configuration](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=0)** - [Instructor] In the past with x386 we had to configure X Windows manually by editing the configuration file.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=0)** - [Instructor] In the past with x386 we had to configure X [[Windows]] manually by editing the configuration file.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=6)** When Xorg for was released it's ability to auto-configure the graphical interface and input settings improved and, in many cases, we no longer have a configuration file at all.
 >
@@ -2530,7 +2503,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=90)** The sections are used to provide configurations for entire classes of input devices as opposed to setting a specific device.
 >
-> **[1:38](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=98)** We can match on products, vendors, drivers, layouts, et cetera.
+> **[1:38](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=98)** We can match on [[Microsoft Products|products]], vendors, drivers, layouts, et cetera.
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/override-specific-aspects-of-xorg-configuration?u=76281980&t=102)** The config file may have multiple device sections.
 >
@@ -2582,7 +2555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Windows]] (1), [[Microsoft Products|Products]] (1), cd (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** cat (2), cd (1), ls (1)
 > **Prerequisites:** configure (4)
 > **Env Vars:** x11 (2), hal (1)
@@ -2591,18 +2564,17 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### About remote desktop protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980)
+#### [About remote desktop protocols](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=0)** - [Instructor] Linux operating systems are designed with remote access built in.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=0)** - [Instructor] [[Linux]] operating systems are designed with remote access built in.
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=4)** Most often that is via the SSH command line.
 >
 > **[0:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=7)** However, there are protocols to allow remote GUI access, as well.
 >
-> **[0:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=11)** X Windows is the de facto standard for remote desktop on Unix and Linux systems plus there is VNC, or Virtual Network Computing, RDP, or Remote Desktop Protocol, a protocol created by Microsoft and a new protocol named SPICE.
+> **[0:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=11)** X [[Windows]] is the de facto standard for remote desktop on Unix and Linux systems plus there is VNC, or Virtual Network Computing, RDP, or Remote Desktop Protocol, a protocol created by [[Microsoft]] and a new protocol named SPICE.
 >
 > **[0:25](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=25)** In most cases remote GUI access is accomplished by using an application on the client which connects to a service on the Remote Host via a remote desktop protocol.
 >
@@ -2640,7 +2612,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=121)** NX, a third-party extension, provides extra features that improve X including automatic encryption provided by SSH, bitmap compression, X Windows messages compression, session management and local data caching.
 >
-> **[2:15](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=135)** The end result is greatly improved speed and usability and X does not, however, support 3D desktops like GNOME 3 or Unity which calls into question its future in Linux.
+> **[2:15](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=135)** The end result is greatly improved speed and usability and X does not, however, support 3D desktops like GNOME 3 or [[Unity]] which calls into question its future in Linux.
 >
 > **[2:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=146)** For systems that don't support X Windows let's take a closer look at other remote desktop protocols such as VNC, RDP and SPICE.
 >
@@ -2670,9 +2642,9 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=216)** VNC is platform-dependent.
 >
-> **[3:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=217)** There are clients and servers for many GUI-based operating systems and for Java.
+> **[3:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=217)** There are clients and servers for many GUI-based operating systems and for [[Java]].
 >
-> **[3:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=222)** Popular uses for this technology include remote technical support and accessing files remotely.
+> **[3:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=222)** Popular uses for this technology include remote [[Technical Support]] and accessing files remotely.
 >
 > **[3:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=227)** With VNC each connection will be to a different VNC server port.
 >
@@ -2682,7 +2654,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=247)** RDP Version 10 supports 32-bit color space, 128-bit encryption, audio and file system redirection, printer, serial, and parallel port redirection, USB port redirection, shared clipboard between the local and remote systems, seamless windows in that you can send a window across instead of the entire desktop, multiple monitor support and virtualized GPU support.
 >
-> **[4:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=272)** RDP clients exist for many different operating systems besides Windows including Linux, Unix, macOS, iOS, Android and others.
+> **[4:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=272)** RDP clients exist for many different operating systems besides Windows including Linux, Unix, macOS, iOS, [[Android]] and others.
 >
 > **[4:41](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-remote-desktop-protocols?u=76281980&t=281)** RDP used to be called Terminal Services for Windows and is now called Remote Desktop Connection.
 >
@@ -2704,7 +2676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), [[Linux]] (8), data (3), [[Microsoft]] (2), application (2)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Linux]] (8), [[Microsoft]] (2), [[Unity]] (1), [[Java]] (1)
 > **Env Vars:** vnc (8), rdp (8), spice (5), ssh (4), gui (4)
 > **CLI Commands:** ssh (4)
 > **Definitions:** is a  (4)
@@ -2713,12 +2685,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Versions:** version 10 (1)
 
-#### Display applications on remote X servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980)
+#### [Display applications on remote X servers](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=0)** - [Instructor] It's fairly easy to utilize remote desktop using X Windows on Linux.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=0)** - [Instructor] It's fairly easy to utilize remote desktop using X [[Windows]] on [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=4)** For this exercise, you'll need to have both of your CentOS VM's booted up.
 >
@@ -2730,7 +2701,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=30)** Remember that the application runs on the remote CPU and it's Gooey is brought back for a localhost.
 >
-> **[0:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=36)** Before we can run an application remotely, we need to check the remote host ssh server configuration file.
+> **[0:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=36)** Before we can run an application remotely, we need to check the remote host ssh [[Server Configuration]] file.
 >
 > **[0:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/display-applications-on-remote-x-servers?u=76281980&t=42)** This will allow us to log into the remote host, then start a Gooey application and have the graphical interface, come back through the SSH tunnel.
 >
@@ -2802,7 +2773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), application (5), [[Windows]] (2), [[Linux]] (1), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), [[Server Configuration]] (1)
 > **CLI Commands:** ssh (8), sudo (2), make (1)
 > **Env Vars:** ssh (4), cpu (1), x11 (1), sshd (1), display (1)
 > **Versions:** 192.168.2 (2), 10.0 (1)
@@ -2816,12 +2787,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add and removing users
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980)
+#### [Add and removing users](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980&t=0)** - [Instructor] It's good to know which files to edit in order to manage user account settings on Linux.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980&t=0)** - [Instructor] It's good to know which files to edit in order to manage user account settings on [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980&t=4)** User accounts are stored in /etc/password, passwords and account aging are stored in /etc/shadow, and other account defaults are stored in /etc/login.defs and /etc/default/useradd.
 >
@@ -2951,7 +2921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (17), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** sudo (14), cat (9), ls (3), rm (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Cross-References:** later in (1)
@@ -2959,8 +2929,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modify users
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-users?u=76281980)
+#### [Modify users](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3072,7 +3041,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), next (1)
 > **CLI Commands:** sudo (10), cat (5)
 > **Tools:** bash (2), terminal (1)
 > **Env Vars:** sin (1)
@@ -3080,13 +3048,13 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is a  (1)
+> **Warnings:** note that (1)
 
-#### Manage groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-groups?u=76281980)
+#### [Manage groups](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-groups?u=76281980&t=0)** - [Instructor] Groups are an important part of the Linux User Management system.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-groups?u=76281980&t=0)** - [Instructor] Groups are an important part of the [[Linux]] [[User Management]] system.
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-groups?u=76281980&t=4)** However, groups have one major limitation, they can't be nested, so you can't have a group within a group.
 >
@@ -3134,19 +3102,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Linux]] (1), [[User Management]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[User Management]] (1)
 > **CLI Commands:** sudo (5), cat (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage special purpose and limited accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-special-purpose-and-limited-accounts?u=76281980)
+#### [Manage special purpose and limited accounts](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-special-purpose-and-limited-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-special-purpose-and-limited-accounts?u=76281980&t=0)** - [Instructor] Most accounts in Linux are the same in that the user accounts with user IDs higher than 500 or 1000 depending on how the system was set up.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-special-purpose-and-limited-accounts?u=76281980&t=0)** - [Instructor] Most accounts in [[Linux]] are the same in that the user accounts with user IDs higher than 500 or 1000 depending on how the system was set up.
 >
 > **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-special-purpose-and-limited-accounts?u=76281980&t=8)** You can see this configuration setting by viewing the /etc/login.defs file.
 >
@@ -3204,7 +3171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Linux]] (3), application (3), [[Security]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** sudo (3), cat (2)
 > **Tools:** bash (2), terminal (1)
 > **Prerequisites:** set up (2)
@@ -3213,8 +3180,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
 
-#### Awareness of shadow passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980)
+#### [Awareness of shadow passwords](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3226,7 +3192,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=23)** Note that for these slides, I've used an MD5 hash due to its shorter length.
 >
-> **[0:27](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=27)** Most modern Linux systems use a much longer and more secure SHA512 hash even though a one way hash cannot be reversed, it can be cracked by taking words from a dictionary one at a time, hashing them and comparing the output to the hashed password to see if they match.
+> **[0:27](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=27)** Most modern [[Linux]] systems use a much longer and more secure SHA512 hash even though a one way hash cannot be reversed, it can be cracked by taking words from a dictionary one at a time, hashing them and comparing the output to the hashed password to see if they match.
 >
 > **[0:44](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=44)** Linux has additional protection against dictionary attacks called a salt.
 >
@@ -3260,7 +3226,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=120)** If it's not installed, we can install it by opening a terminal by going to applications, favorites, terminal.
 >
-> **[2:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=125)** I'm going to make my terminal full screen and zoom the font.
+> **[2:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=125)** I'm going to make my terminal full screen and [[Zoom]] the font.
 >
 > **[2:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-shadow-passwords?u=76281980&t=129)** Now in the terminal, type in Sudo, space, yum install, space, shadow, dash, utils, and hit enter type in your password, and say yes to install.
 >
@@ -3330,7 +3296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), [[Linux]] (4), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Zoom]] (1)
 > **CLI Commands:** cat (11), sudo (10), make (1), yum (1)
 > **Env Vars:** md5 (2), sha (1), sha512 (1), unconv (1)
 > **Tools:** terminal (4)
@@ -3339,8 +3305,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Analogies:** such as (1)
 
-#### Change default password policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/change-default-password-policies?u=76281980)
+#### [Change default password policies](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/change-default-password-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3348,7 +3313,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/change-default-password-policies?u=76281980&t=5)** Administrators can tighten up password policies to require a minimum number of characters and character classes.
 >
-> **[0:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/change-default-password-policies?u=76281980&t=11)** Linux has a credit system that affects the minimum allowed characters for a password.
+> **[0:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/change-default-password-policies?u=76281980&t=11)** [[Linux]] has a credit system that affects the minimum allowed characters for a password.
 >
 > **[0:16](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/change-default-password-policies?u=76281980&t=16)** Credits are given if a user uses characters from different classes like lowercase, upper case, digits, and other characters.
 >
@@ -3440,7 +3405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), hit (4), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **CLI Commands:** sudo (3), find (1), cat (1)
 > **Analogies:** such as (5)
 > **Tools:** terminal (1)
@@ -3448,8 +3413,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Individual user account settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/individual-user-account-settings?u=76281980)
+#### [Individual user account settings](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/individual-user-account-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3593,7 +3557,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), next (3), prompt (1)
 > **CLI Commands:** sudo (7), cat (1), make (1), ssh (1)
 > **Speakers:** - m (2), - [instructor] (1), - e (1), - i (1), - w (1)
 > **Tools:** terminal (3)
@@ -3601,14 +3564,14 @@ created: 2026-05-02
 > **Warnings:** warning (1), note that (1)
 > **Env Vars:** ssh (1)
 > **Best Practices:** recommended (1)
+> **Prerequisites:** configure (1)
 
 
 ### 5. Automate System Administration Tasks by Scheduling Jobs
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reccuring user jobs using cron
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-user-jobs-using-cron?u=76281980)
+#### [Reccuring user jobs using cron](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-user-jobs-using-cron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3714,15 +3677,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6)
 > **CLI Commands:** systemctl (7), cat (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reccuring system jobs using cron
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-system-jobs-using-cron?u=76281980)
+#### [Reccuring system jobs using cron](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-system-jobs-using-cron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3788,18 +3749,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11)
 > **CLI Commands:** systemctl (18), sudo (7)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure user access to cron and at services
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-user-access-to-cron-and-at-services?u=76281980)
+#### [Configure user access to cron and at services](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-user-access-to-cron-and-at-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-user-access-to-cron-and-at-services?u=76281980&t=0)** - When a Linux system boots up, certain services are run automatically by system D.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-user-access-to-cron-and-at-services?u=76281980&t=0)** - When a [[Linux]] system boots up, certain services are run automatically by system D.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-user-access-to-cron-and-at-services?u=76281980&t=5)** We can enable services so they start automatically, or disable them so they don't.
 >
@@ -3835,13 +3794,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** systemctl (7), sudo (2)
 > **Tools:** terminal (1)
 > **Speakers:** - when (1)
 
-#### Systemd timer units
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/systemd-timer-units?u=76281980)
+#### [Systemd timer units](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/systemd-timer-units?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3849,7 +3807,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/systemd-timer-units?u=76281980&t=3)** Systemd timers are a powerful alternative to cron jobs.
 >
-> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/systemd-timer-units?u=76281980&t=7)** There are two different types of timer units: real-time timers and monotonic timers.
+> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/systemd-timer-units?u=76281980&t=7)** There are two different types of timer units: [[Real-Time]] timers and monotonic timers.
 >
 > **[0:12](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/systemd-timer-units?u=76281980&t=12)** Real-time timers activate on calendar events similar to cron jobs.
 >
@@ -3951,7 +3909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (4), hit (1), application (1)
+> **Frameworks & Libraries:** [[Real-Time]] (4)
 > **Analogies:** such as (2), similar to (1), for instance (1)
 > **File Paths:** backup.sh (1), root/bin/sysbackup.sh (1)
 > **CLI Commands:** systemctl (2)
@@ -3964,8 +3922,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set the system date, time, and timezone
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980)
+#### [Set the system date, time, and timezone](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3997,7 +3954,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980&t=67)** Type in timedatectl and hit enter.
 >
-> **[1:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980&t=70)** This will show us our local time for our timezone, Universal Time, Real Time Clock, the time of our PC hardware clock, our current timezone, whether automatic time synchronization is on or off, and whether we're in daylight savings time.
+> **[1:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980&t=70)** This will show us our local time for our timezone, Universal Time, Real Time Clock, the time of our PC [[Hardware]] clock, our current timezone, whether automatic time synchronization is on or off, and whether we're in daylight savings time.
 >
 > **[1:25](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980&t=85)** Before we set our timezone we might want to get a list of all time zones.
 >
@@ -4047,7 +4004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Hardware]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** ntp (10), gui (1), rtc (1)
 > **CLI Commands:** sudo (2), yum (2), make (1), grep (1), systemctl (1)
 > **Tools:** terminal (3), command line (1)
@@ -4056,8 +4013,7 @@ created: 2026-05-02
 > **Ports:** :20 (1)
 > **Definitions:** is a  (1)
 
-#### Configure locale settings and environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980)
+#### [Configure locale settings and environment variables](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4067,13 +4023,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=11)** Let's talk about locale settings for a moment.
 >
-> **[0:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=13)** The process of changing locale settings from the command line on the Linux OS that uses System D is very similar to changing time and date settings, except we're using the localectl command.
+> **[0:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=13)** The process of changing locale settings from the command line on the [[Linux]] OS that uses System D is very similar to changing time and date settings, except we're using the localectl command.
 >
 > **[0:24](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=24)** Let's close the Region and Language dialog and open the Terminal.
 >
 > **[0:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=28)** Application's favorites and click on Terminal.
 >
-> **[0:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=32)** I'm going to make my Terminal fullscreen and zoom my font.
+> **[0:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=32)** I'm going to make my Terminal fullscreen and [[Zoom]] my font.
 >
 > **[0:35](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-locale-settings-and-environment-variables?u=76281980&t=35)** Type in localectl and hit Enter.
 >
@@ -4191,7 +4147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (16), [[Linux]] (1), application (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Zoom]] (1)
 > **CLI Commands:** grep (5), find (2), make (1)
 > **Tools:** terminal (3), command line (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
@@ -4200,8 +4156,7 @@ created: 2026-05-02
 > **Documentation:** man page (2)
 > **Warnings:** note that (1)
 
-#### Install and start chrony
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-and-start-chrony?u=76281980)
+#### [Install and start chrony](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-and-start-chrony?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4247,15 +4202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4)
 > **CLI Commands:** sudo (4), systemctl (3), make (2), yum (1)
 > **Tools:** terminal (1), command line (1)
 > **Env Vars:** ctl (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure chrony server
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-chrony-server?u=76281980)
+#### [Configure chrony server](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-chrony-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4377,7 +4330,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), next (2)
 > **CLI Commands:** sudo (5), make (4), find (1), systemctl (1)
 > **Env Vars:** ntp (6), rhce (1)
 > **Versions:** 192.168.1 (4), 255.255.255 (2)
@@ -4385,9 +4337,9 @@ created: 2026-05-02
 > **Tools:** vim (2), terminal (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
-#### Configure chrony client
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-chrony-client?u=76281980)
+#### [Configure chrony client](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-chrony-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4429,7 +4381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **CLI Commands:** sudo (4), systemctl (1)
 > **Env Vars:** ntp (2), vim (2), actl (1)
 > **Tools:** vim (2), terminal (1)
@@ -4437,9 +4388,9 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [narrator] (1)
 
-#### Use cryonyc
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-cryonyc?u=76281980)
+#### [Use cryonyc](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-cryonyc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4473,7 +4424,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-cryonyc?u=76281980&t=70)** It will be an asterisk if it's synchronized.
 >
-> **[1:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-cryonyc?u=76281980&t=73)** The rest of the columns provide valuable source information.
+> **[1:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-cryonyc?u=76281980&t=73)** The [[Representational State Transfer (REST)|rest]] of the columns provide valuable source information.
 >
 > **[1:16](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-cryonyc?u=76281980&t=76)** Refer to the verbose output on the screen for more information.
 >
@@ -4489,15 +4440,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** sudo (3)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using ntpd for serving time
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-ntpd-for-serving-time?u=76281980)
+#### [Using ntpd for serving time](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/using-ntpd-for-serving-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4581,7 +4531,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), traffic (2), next (1), web (1), generic (1)
 > **Env Vars:** ntp (12), ntpd (3), gps (2), pps (2), ndbd (1)
 > **CLI Commands:** sudo (7), systemctl (2), find (1), yum (1), make (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
@@ -4589,14 +4538,14 @@ created: 2026-05-02
 > **Tools:** terminal (3)
 > **Versions:** 192.168.2 (2)
 > **Analogies:** for instance (2)
+> **Cross-References:** go back to (1)
 
 
 ### 7. System Logging
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Locate and interpret system log files
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
+#### [Locate and interpret system log files](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4658,7 +4607,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=156)** .This can be a very long file as most all system messages in it.
 >
-> **[2:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=160)** This is the goto file for troubleshooting and enterprise Linux.
+> **[2:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=160)** This is the goto file for troubleshooting and enterprise [[Linux]].
 >
 > **[2:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=163)** What I find useful in parsing this file since they can be so big is using the inverted search and grab it.
 >
@@ -4668,7 +4617,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=177)** Type in sudo space, grab space dash V for invert space, single quote, systemd colon, single quote, space slash var slash log slash messages and hit enter.
 >
-> **[3:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=190)** Now we see all lines excluding those containing the word systemd from this data we can get a better idea of what is happening.
+> **[3:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=190)** Now we see all lines excluding those containing the [[Microsoft Word|word]] systemd from this data we can get a better idea of what is happening.
 >
 > **[3:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=197)** If you want to remove more unwanted error messages, you can pipe this output back into grep again and filter out some more with the dash v option.
 >
@@ -4706,7 +4655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Search]] (3), data (3), [[Linux]] (3), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (4), systemctl (2), find (2), grep (2), make (1)
 > **Tools:** terminal (3)
 > **Env Vars:** tcp (1), udp (1)
@@ -4715,12 +4664,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 
-#### Read the system journal
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/read-the-system-journal?u=76281980)
+#### [Read the system journal](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/read-the-system-journal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/read-the-system-journal?u=76281980&t=0)** - [Narrator] The second method of logging data in Enterprise Linux is a service called journald which is part of systemd.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/read-the-system-journal?u=76281980&t=0)** - [Narrator] The second method of logging data in Enterprise [[Linux]] is a service called journald which is part of systemd.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/read-the-system-journal?u=76281980&t=6)** The journal is a binary file stored in slash var slash run which is a virtual file system in RAM.
 >
@@ -4810,7 +4758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), data (4), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** journalctl (8), make (3), sudo (2), systemctl (1), ls (1)
 > **Definitions:** is a  (4)
 > **Tools:** terminal (3)
@@ -4819,8 +4767,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configuration of logrotate
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configuration-of-logrotate?u=76281980)
+#### [Configuration of logrotate](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configuration-of-logrotate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4860,7 +4807,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configuration-of-logrotate?u=76281980&t=94)** For instance, :msg, contains, "openvpn"
 >
-> **[1:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configuration-of-logrotate?u=76281980&t=102)** This would filter any messages that contain the word openvpn.
+> **[1:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configuration-of-logrotate?u=76281980&t=102)** This would filter any messages that contain the [[Microsoft Word|word]] openvpn.
 >
 > **[1:46](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configuration-of-logrotate?u=76281980&t=106)** As well as contains we can also based on: Isequal, Startswith, Regex, Eregex, which is for extended regular expressions, and Isempty.
 >
@@ -4878,8 +4825,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter journal data by criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/filter-journal-data-by-criteria?u=76281980)
+#### [Filter journal data by criteria](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/filter-journal-data-by-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4921,13 +4867,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (1), cd (1)
 > **CLI Commands:** sudo (1), cd (1), ls (1), yum (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rsyslog actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/rsyslog-actions?u=76281980)
+#### [Rsyslog actions](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/rsyslog-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4977,7 +4921,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **Exercise Files:** template (4)
 > **Ports:** :10 (1)
 > **Env Vars:** ram (1)
@@ -4986,8 +4929,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clear old systemd journal data
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/clear-old-systemd-journal-data?u=76281980)
+#### [Clear old systemd journal data](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/clear-old-systemd-journal-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5053,15 +4995,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **CLI Commands:** sudo (5), journalctl (4), make (1), ls (1)
 > **Env Vars:** ram (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieve systemd journal data from a rescue system
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/retrieve-systemd-journal-data-from-a-rescue-system?u=76281980)
+#### [Retrieve systemd journal data from a rescue system](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/retrieve-systemd-journal-data-from-a-rescue-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5113,14 +5053,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Search]] (1)
 > **CLI Commands:** journalctl (8), sudo (3), grep (1), find (1), make (1)
 > **Env Vars:** uid (3), euid (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### About syslog, rsyslog, and syslog-ng
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980)
+#### [About syslog, rsyslog, and syslog-ng](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5130,7 +5068,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=14)** It could log to remote servers over UDP protocol, but did not have congestion control.
 >
-> **[0:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=20)** The syslog protocol became the de facto standard in the Linux and Unix world.
+> **[0:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=20)** The syslog protocol became the de facto standard in the [[Linux]] and Unix world.
 >
 > **[0:24](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=24)** Syslog had many limitations, so it needed to be replaced.
 >
@@ -5156,7 +5094,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=92)** From 2009 on, openSUSE has used rsyslog as well as Red Hat Enterprise Linux 5 and newer.
 >
-> **[1:38](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=98)** It's also the default in both Debian and Ubuntu.
+> **[1:38](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=98)** It's also the default in both Debian and [[Ubuntu]].
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-syslog-rsyslog-and-syslog-ng?u=76281980&t=102)** It's important to note that rsyslog is backwards compatible with sysklogd making it an easy transition for anyone who already knows how to administer sysklogd.
 >
@@ -5196,7 +5134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), database (2), api (1), [[Security]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Ubuntu]] (1)
 > **Env Vars:** tcp (2), udp (1), gss (1), api (1), tls (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** just like (1), for instance (1)
@@ -5210,8 +5148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About email
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980)
+#### [About email](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5247,7 +5184,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980&t=97)** However, for downloading mail from the MTA, there are two common protocols used by the mail user agent.
 >
-> **[1:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980&t=103)** The first is Post Office Protocol or POP.
+> **[1:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980&t=103)** The first is Post [[Microsoft Office|Office]] Protocol or POP.
 >
 > **[1:46](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980&t=106)** The last version of POP was POP3 and it uses port number 110.
 >
@@ -5275,13 +5212,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** mta (7), pop (6), smtp (3), imap (3), mua (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - email (1)
 
-#### How email works
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/how-email-works?u=76281980)
+#### [How email works](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/how-email-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5304,14 +5240,13 @@ created: 2026-05-02
 > **Env Vars:** smtp (2), mta (2), pop3 (1), imap (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowledge of common MTA programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-common-mta-programs?u=76281980)
+#### [Knowledge of common MTA programs](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-common-mta-programs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-common-mta-programs?u=76281980&t=0)** A Mail Transport Agent or MTA is a program which transports email between mail servers.
 >
-> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-common-mta-programs?u=76281980&t=6)** There are a lot of MTA's available for Linux.
+> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-common-mta-programs?u=76281980&t=6)** There are a lot of MTA's available for [[Linux]].
 >
 > **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-common-mta-programs?u=76281980&t=8)** In this video, we'll discuss a few.
 >
@@ -5383,7 +5318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Linux]] (2), application (1), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** mta (11), ibm (1)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** make (1), sudo (1)
@@ -5391,8 +5326,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (2)
 
-#### Install Postfix
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-postfix?u=76281980)
+#### [Install Postfix](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/install-postfix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5426,7 +5360,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), prompt (1), next (1)
 > **CLI Commands:** sudo (3), make (2), yum (2)
 > **Env Vars:** mta (2), usr (1)
 > **Prerequisites:** install (3)
@@ -5434,8 +5367,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage access to Postfix
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-access-to-postfix?u=76281980)
+#### [Manage access to Postfix](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-access-to-postfix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5525,7 +5457,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), database (1)
 > **Env Vars:** email (1), host (1), accept (1), regular (1), example (1)
 > **CLI Commands:** find (1), sudo (1), ls (1)
 > **URLs:** [example.com](https://example.com) (2)
@@ -5534,8 +5465,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure a local mail server
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-a-local-mail-server?u=76281980)
+#### [Configure a local mail server](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-a-local-mail-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5583,7 +5513,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-a-local-mail-server?u=76281980&t=92)** Type mynetworks and hit enter.
 >
-> **[1:35](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-a-local-mail-server?u=76281980&t=95)** You can press n multiple times to step through the instances of the word mynetworks or just scroll down.
+> **[1:35](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-a-local-mail-server?u=76281980&t=95)** You can press n multiple times to step through the instances of the [[Microsoft Word|word]] mynetworks or just scroll down.
 >
 > **[1:41](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-a-local-mail-server?u=76281980&t=101)** We need to change the values to 192.168.1.0 slash 24 comma space 127.0.0.0 slash 8.
 >
@@ -5675,7 +5605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), next (2), dns (2), [[Microsoft Word|Word]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (8), make (5)
 > **UI Navigation:** scroll down (3), go to (3)
 > **URLs:** [localnet.com](https://localnet.com) (4)
@@ -5684,8 +5614,7 @@ created: 2026-05-02
 > **Env Vars:** dns (1), smtp (1)
 > **Warnings:** keep in mind (1), troubleshoot (1)
 
-#### Create email aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/create-email-aliases?u=76281980)
+#### [Create email aliases](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/create-email-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5753,15 +5682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), database (1)
 > **CLI Commands:** sudo (1), ls (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forward mail as a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/forward-mail-as-a-user?u=76281980)
+#### [Forward mail as a user](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/forward-mail-as-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5797,7 +5724,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** mta (2)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -5809,8 +5735,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure local and remote printers with CUPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980)
+#### [Configure local and remote printers with CUPS](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5820,7 +5745,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=8)** The print queue or spool would line up print jobs from multiple computers and give them to the printer as the printer was available.
 >
-> **[0:14](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=14)** Initially Linux used BSD's printing system, which comprised of a service called LPD, or Line Printer Daemon.
+> **[0:14](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=14)** Initially [[Linux]] used BSD's printing system, which comprised of a service called LPD, or Line Printer Daemon.
 >
 > **[0:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=21)** There were clients such as LPR that would send print jobs to the print server using the LPD protocol.
 >
@@ -5836,7 +5761,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=43)** High end printers had PostScript engines in them called RIPS or raster image processors.
 >
-> **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=49)** That would take the code and run it just the same as we would with bash or Python code on a computer.
+> **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=49)** That would take the code and run it just the same as we would with bash or [[Python (Programming Language)|Python]] code on a computer.
 >
 > **[0:54](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=54)** The code would run and output the file in the printer's native language and the printer would print the page.
 >
@@ -5862,7 +5787,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=124)** For physical connections we have serial parallels USB and PDF backends.
 >
-> **[2:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=129)** In addition, there are network backends for IPP, Jet direct for HP printers, LPD for Line Printer Daemon compatible printers, and SMB protocol for Windows print spools.
+> **[2:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=129)** In addition, there are network backends for IPP, Jet direct for HP printers, LPD for Line Printer Daemon compatible printers, and SMB protocol for [[Windows]] print spools.
 >
 > **[2:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980&t=140)** Through the CUPS LPD helper application, the CUPS scheduler can accept LPD job requests as well.
 >
@@ -5968,7 +5893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), hit (4), data (3), next (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (1), [[Windows]] (1)
 > **Env Vars:** cups (12), lpd (6), ipp (5), gui (4), bsd (1)
 > **UI Navigation:** click on (11), open the (1), checkbox (1), select the (1)
 > **CLI Commands:** sudo (3), make (2), python (1), systemctl (1), yum (1)
@@ -5977,8 +5902,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1), short for (1)
 > **Code Identifiers:** boughtcups (1)
 
-#### Troubleshoot general printing problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/troubleshoot-general-printing-problems?u=76281980)
+#### [Troubleshoot general printing problems](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/troubleshoot-general-printing-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6010,15 +5934,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4)
 > **CLI Commands:** find (1), sudo (1), systemctl (1)
 > **Code Identifiers:** webgui (1)
 > **Tools:** terminal (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage user print jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-user-print-jobs?u=76281980)
+#### [Manage user print jobs](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manage-user-print-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6110,7 +6032,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), power (1), next (1)
 > **Env Vars:** gui (4), cups (1)
 > **UI Navigation:** click on (4)
 > **File Paths:** printfile.txt (3)
@@ -6124,8 +6045,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About private and public "dotted quad" IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-private-and-public-dotted-quad-ip-addresses?u=76281980)
+#### [About private and public "dotted quad" IP addresses](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-private-and-public-dotted-quad-ip-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6189,14 +6109,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), traffic (1), business (1)
 > **Versions:** 192.168.0 (1), 192.168.255 (1), 172.16.0 (1), 172.31.255 (1), 10.0.0 (1)
 > **Env Vars:** tcp (1), nat (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network masks and CIDR notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980)
+#### [Network masks and CIDR notation](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6210,7 +6128,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=40)** This means we had seven bits left for networks, which gave us 127 networks.
 >
-> **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=45)** The rest of the IP address space was used for hosts.
+> **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=45)** The [[Representational State Transfer (REST)|rest]] of the IP address space was used for hosts.
 >
 > **[0:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=48)** Since we have 24 bits for hosts, we have around 16 million hosts.
 >
@@ -6286,9 +6204,9 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=256)** Usable IPs would number from 129 to 254.
 >
-> **[4:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=260)** The subnet mask can be written in two different forms.
+> **[4:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=260)** The subnet mask can be written in two different [[Forms]].
 >
-> **[4:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=262)** As dotted-quad notation or CIDR, which is short for classless inter-domain routing.
+> **[4:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=262)** As dotted-quad notation or CIDR, which is short for classless inter-domain [[Routing]].
 >
 > **[4:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/network-masks-and-cidr-notation?u=76281980&t=268)** To convert to dotted notation, let's look at our last octet.
 >
@@ -6312,7 +6230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Forms]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1), [[Routing]] (1)
 > **Versions:** 192.168.2 (8), 255.255.255 (4), 11111111.11111111.11111111 (2), 0.0.0 (1), 00000000.00000000.00000000 (1)
 > **Env Vars:** cidr (4)
 > **Definitions:** defined as (1), means that (1), short for (1)
@@ -6321,8 +6239,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - with (1)
 
-#### Common TCP and UDP ports and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980)
+#### [Common TCP and UDP ports and services](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6342,7 +6259,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=37)** In our example, the web server.
 >
-> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=39)** The network socket for this combination would be, 192.168.2.100 colon 80, as port 80 is the default port for web servers.
+> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=39)** The network socket for this combination would be, 192.168.2.100 colon 80, as port 80 is the default port for [[Web Servers]].
 >
 > **[0:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=48)** Every packet has a source address, and a source port, a destination address and a destination port.
 >
@@ -6356,7 +6273,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=74)** For instance, ports 20 and 21 are used for FTP, port 22 is used for Secure Shell, port 23 is used for telnet, port 25 is used for SMTP mail, port 53 is used for DNS, and port 80 is used for web servers.
 >
-> **[1:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=90)** If you get tired of trying to remember these ports, you can just view the /etc/services file, in any Linux distribution.
+> **[1:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=90)** If you get tired of trying to remember these ports, you can just view the /etc/services file, in any [[Linux]] distribution.
 >
 > **[1:36](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/common-tcp-and-udp-ports-and-services?u=76281980&t=96)** Let's do that now.
 >
@@ -6374,7 +6291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), traffic (4), [[Linux]] (2), dns (1), hit (1)
+> **Frameworks & Libraries:** [[Web Servers]] (2), [[Linux]] (2)
 > **Ports:** port 80 (3), port 22 (1), port 23 (1), port 25 (1), port 53 (1)
 > **Env Vars:** iana (2), ftp (1), smtp (1), dns (1)
 > **Versions:** 192.168.2 (3)
@@ -6383,8 +6300,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Differences and major features of UDP, TCP, and ICMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/differences-and-major-features-of-udp-tcp-and-icmp?u=76281980)
+#### [Differences and major features of UDP, TCP, and ICMP](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/differences-and-major-features-of-udp-tcp-and-icmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6394,7 +6310,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/differences-and-major-features-of-udp-tcp-and-icmp?u=76281980&t=5)** Both TCP and UDP are used to transport payloads of data.
 >
-> **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/differences-and-major-features-of-udp-tcp-and-icmp?u=76281980&t=8)** Both use IP addressing, and are forwarded from host to host until they get to their destination.
+> **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/differences-and-major-features-of-udp-tcp-and-icmp?u=76281980&t=8)** Both use [[IP Addressing]], and are forwarded from host to host until they get to their destination.
 >
 > **[0:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/differences-and-major-features-of-udp-tcp-and-icmp?u=76281980&t=13)** You can think of TCP and UDP as the trucks that carry packages to destination addresses, although they are different in how they do it.
 >
@@ -6446,15 +6362,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1)
 > **Env Vars:** tcp (9), udp (8), icmp (7)
 > **Warnings:** troubleshoot (2), note that (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowledge of the major differences between IPv4 and IPv6
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980)
+#### [Knowledge of the major differences between IPv4 and IPv6](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6478,7 +6393,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=48)** IP version six also has other advantages over IP version four, including stateless address autoconfiguration, network renumbering, and router announcements when changing connectivity providers.
 >
-> **[0:59](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=59)** It places packet fragmentation into the endpoints and also network security was a design requirement.
+> **[0:59](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=59)** It places packet fragmentation into the endpoints and also [[Network Security]] was a design requirement.
 >
 > **[1:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=66)** You may be asking why we haven't moved to IP version six already if it's so much better.
 >
@@ -6498,7 +6413,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=92)** This is much easier to use and possibly remember but still not that user-friendly.
 >
-> **[1:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=97)** Linux has had IP version six turned on by default for at least a decade or more.
+> **[1:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=97)** [[Linux]] has had IP version six turned on by default for at least a decade or more.
 >
 > **[1:41](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/knowledge-of-the-major-differences-between-ipv4-and-ipv6?u=76281980&t=101)** It's good to take advantage of that capability if possible.
 
@@ -6514,12 +6429,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gather network information
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980)
+#### [Gather network information](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=0)** - [Instructor] Traditionally, Linux used the net tools commands including ifconfig, netstat, arp route and iptunnel.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=0)** - [Instructor] Traditionally, [[Linux]] used the net tools commands including ifconfig, netstat, arp route and iptunnel.
 >
 > **[0:09](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=9)** These commands have mostly been superceeded by the IP route T- suite of tools including the IP and SS commands as well as others.
 >
@@ -6527,7 +6441,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=23)** We will install the net tools package in this course so we have access to the legacy commands as well as the replacements which are installed by default.
 >
-> **[0:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=30)** You can do this on any of your three virtual machines or all of them.
+> **[0:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=30)** You can do this on any of your three [[Virtual Machines]] or all of them.
 >
 > **[0:33](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=33)** I'm going to use ARP Host one.
 >
@@ -6549,7 +6463,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=88)** If your network card is named something different enter that.
 >
-> **[1:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=92)** We can also see the network mask prefixed by the word net mask.
+> **[1:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=92)** We can also see the network mask prefixed by the [[Microsoft Word|word]] net mask.
 >
 > **[1:35](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980&t=95)** It's interesting to note that you can give ifconfig the network mask insider form, but it prints it back in dot notation.
 >
@@ -6613,7 +6527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), dns (3), [[Linux]] (2), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** eth (3), dns (3), arp (2), addr (2), ctl (2)
 > **CLI Commands:** find (1), sudo (1), yum (1), make (1)
 > **Definitions:** is a  (2), is called (1)
@@ -6622,8 +6536,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 
-#### Manual network interface configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980)
+#### [Manual network interface configuration](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6679,7 +6592,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=135)** The global DNS name server file is /etc/resolv.conf.
 >
-> **[2:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=140)** However, Enterprise Linux allows interface specific DNS servers using the DNS one equals or DNS two equals options.
+> **[2:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=140)** However, Enterprise [[Linux]] allows interface specific DNS servers using the DNS one equals or DNS two equals options.
 >
 > **[2:29](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manual-network-interface-configuration?u=76281980&t=149)** We would specify the DNS server addresses here.
 >
@@ -6709,7 +6622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), [[Linux]] (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **Env Vars:** dns (6), dhcp (2), ipaddr (1), ipv6addr (1), hwaddr (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 255.255.255 (1)
@@ -6717,12 +6630,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 
-#### Configure networking using Network Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980)
+#### [Configure networking using Network Manager](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=0)** - [Narrator] The preferred method of managing network connections on Enterprise Linux 7, is by way of NetworkManager.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=0)** - [Narrator] The preferred method of managing network connections on Enterprise [[Linux]] 7, is by way of NetworkManager.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=6)** If you want to manually control a connection you can keep NetworkManager running and have it ignore that connection.
 >
@@ -6816,7 +6728,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=287)** I will choose ethernet by typing in ethernet, and hit enter.
 >
-> **[4:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=291)** Now I can type in a question mark, or the word help, to get more possible options.
+> **[4:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=291)** Now I can type in a question mark, or the [[Microsoft Word|word]] help, to get more possible options.
 >
 > **[4:56](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-network-manager?u=76281980&t=296)** I typed in question mark and hit enter.
 >
@@ -6828,7 +6740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), [[Linux]] (1), generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nmcli (16), nmtui (5), ncmli (3), emp0s3 (2), tui (1)
 > **CLI Commands:** sudo (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -6837,8 +6749,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), install (1)
 > **Documentation:** man page (1)
 
-#### Configure networking using the GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980)
+#### [Configure networking using the GUI](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6910,11 +6821,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=153)** This tool gives a lot of power that is normally reserved for the command line.
 >
-> **[2:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=157)** Setting up each one of these connection types is beyond the scope of this course but I recommend checking out the Red Hat Enterprise Linux 7 Networking Guide on Red Hat's website.
+> **[2:37](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-networking-using-the-gui?u=76281980&t=157)** Setting up each one of these connection types is beyond the scope of this course but I recommend checking out the Red Hat Enterprise [[Linux]] 7 Networking Guide on Red Hat's website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), dns (2), vpn (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** gui (5), dns (2), vpn (2), mtu (1), dhcp (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Versions:** version 4 (3), version 6 (1)
@@ -6923,12 +6834,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Awareness of systemd-networkd
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980)
+#### [Awareness of systemd-networkd](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=0)** - [Instructor] Networking under Linux is very powerful, but managed by many different tools.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=0)** - [Instructor] Networking under [[Linux]] is very powerful, but managed by many different tools.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=5)** On Red Hat based distributions, we may edit ifcfg files in /ect/sysconfic/network-scripts.
 >
@@ -6964,7 +6874,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=105)** This is equivalent to the ifcfg configuration files.
 >
-> **[1:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=108)** The route section is for routing information.
+> **[1:48](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=108)** The route section is for [[Routing]] information.
 >
 > **[1:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/awareness-of-systemd-networkd?u=76281980&t=111)** The DHCP server section is for DHCP server information.
 >
@@ -6992,7 +6902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), management (1), data (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Routing]] (1)
 > **Env Vars:** dhcp (2), suse (1), wicd (1), mac (1), ssid (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** install (2), configure (1)
@@ -7006,12 +6916,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980)
+#### [About routing](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=0)** - [Instructor] Routing is the process that allows one system to find the network path to another.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=0)** - [Instructor] [[Routing]] is the process that allows one system to find the network path to another.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980&t=5)** Routing is often handled by devices on the network dedicated to routing traffic called routers.
 >
@@ -7035,17 +6944,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), traffic (3)
+> **Frameworks & Libraries:** [[Routing]] (5)
 > **CLI Commands:** find (2)
 > **Env Vars:** dhcp (2)
 > **Speakers:** - [instructor] (1)
 
-#### View the routing table
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980)
+#### [View the routing table](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=0)** - [Instructor] To view your routing table, you can be logged into either of your VMs.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=0)** - [Instructor] To view your [[Routing]] table, you can be logged into either of your VMs.
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=4)** I'm logged into my rhhost2 VM.
 >
@@ -7055,7 +6963,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=13)** The left hand column is the destination network address with subnet mask.
 >
-> **[0:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=17)** The word default signifies the default gateway address where traffic is sent if there's no available route.
+> **[0:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=17)** The [[Microsoft Word|word]] default signifies the default gateway address where traffic is sent if there's no available route.
 >
 > **[0:23](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/view-the-routing-table?u=76281980&t=23)** The second section encompasses two words, dev and the name of the device for the network.
 >
@@ -7083,13 +6991,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2), next (2), hit (1), [[Microsoft Word|Word]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** rt_protos (1), rt_scopes (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manually configure routing using iproute2
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manually-configure-routing-using-iproute2?u=76281980)
+#### [Manually configure routing using iproute2](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/manually-configure-routing-using-iproute2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7139,8 +7046,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Debug problems associated with the network configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980)
+#### [Debug problems associated with the network configuration](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7168,7 +7074,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=45)** For the IP address, we can either set it manually or use DHCP.
 >
-> **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=49)** If we're using DHCP, the rest of the settings will probably come along automatically if they're configured right on the DHCP server.
+> **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=49)** If we're using DHCP, the [[Representational State Transfer (REST)|rest]] of the settings will probably come along automatically if they're configured right on the DHCP server.
 >
 > **[0:55](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=55)** Whether we use static assignment or dynamic, we need to go over some tools to troubleshoot our configuration.
 >
@@ -7212,7 +7118,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=140)** Press control C.
 >
-> **[2:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=141)** Remember that if you have two hosts on the same switch, and they're on the same network, then there's no routing happening.
+> **[2:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=141)** Remember that if you have two hosts on the same switch, and they're on the same network, then there's no [[Routing]] happening.
 >
 > **[2:27](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=147)** It's just hosts sending data to a switch, and then the switch is sending it on, depending on the mac address.
 >
@@ -7256,7 +7162,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=218)** Press control C.
 >
-> **[3:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=220)** Let's ping something we know is outside of our network, such as Google DNS server.
+> **[3:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=220)** Let's ping something we know is outside of our network, such as [[Google]] DNS server.
 >
 > **[3:44](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=224)** We don't want to ping a DNS name, as we're trying to keep DNS out of it for now.
 >
@@ -7310,7 +7216,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=319)** Type in clear.
 >
-> **[5:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=320)** Type in ping space [LinkedIn.com](https://LinkedIn.com) and hit enter.
+> **[5:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=320)** Type in ping space [[[LinkedIn]].com](https://LinkedIn.com) and hit enter.
 >
 > **[5:25](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-problems-associated-with-the-network-configuration?u=76281980&t=325)** If you get a response, then you have proper DNS resolution.
 >
@@ -7360,7 +7266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (16), hit (11), traffic (5), [[Google]] (3), [[LinkedIn]] (3)
+> **Frameworks & Libraries:** [[Google]] (3), [[LinkedIn]] (3), [[Routing]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (16), dhcp (3), arp (3), enp0s3 (2)
 > **Versions:** 192.168.2 (8), 8.8.8 (2)
 > **Warnings:** troubleshoot (5)
@@ -7374,8 +7280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Query remote DNS servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980)
+#### [Query remote DNS servers](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7425,7 +7330,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980&t=130)** To view all records, replace MX with ANY.
 >
-> **[2:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980&t=133)** We'll bring our line back by pressing the up arrow key and then replace MX with the word ANY and hit Enter.
+> **[2:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980&t=133)** We'll bring our line back by pressing the up arrow key and then replace MX with the [[Microsoft Word|word]] ANY and hit Enter.
 >
 > **[2:20](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980&t=140)** If you just want the IP addresses which might be useful in the case of shell scripts, you can use the +short option.
 >
@@ -7485,7 +7390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (14), hit (10), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **URLs:** [redhat.com](https://redhat.com) (12), [ford.com](https://ford.com) (1), [centos.com](https://centos.com) (1)
 > **Env Vars:** dns (14)
 > **File Paths:** dnsnames.txt (3)
@@ -7494,12 +7399,11 @@ created: 2026-05-02
 > **Versions:** 209.132.183 (2)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Configure local name resolution with remote DNS servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980)
+#### [Configure local name resolution with remote DNS servers](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=0)** - There are two client-side name resolution files that we should be concerned with in Enterprise Linux 7.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=0)** - There are two client-side name resolution files that we should be concerned with in Enterprise [[Linux]] 7.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=6)** Resolve.conf and nsswitch.conf.
 >
@@ -7515,7 +7419,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=31)** That will be appended if you try and resolve something incomplete.
 >
-> **[0:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=34)** For instance, if you try to resolving the word test, and the search line included [localnet.com](https://localnet.com), [ford.com](https://ford.com) and [apple.com](https://apple.com), it would try to resolve test.[localnet.com](https://localnet.com), test.[ford.com](https://ford.com), test.[apple.com](https://apple.com) and lastly, test by itself.
+> **[0:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=34)** For instance, if you try to resolving the [[Microsoft Word|word]] test, and the search line included [localnet.com](https://localnet.com), [ford.com](https://ford.com) and [apple.com](https://apple.com), it would try to resolve test.[localnet.com](https://localnet.com), test.[ford.com](https://ford.com), test.[apple.com](https://apple.com) and lastly, test by itself.
 >
 > **[0:51](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=51)** One of these domains has to be a local domain name.
 >
@@ -7531,7 +7435,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=79)** For instance, if we had domain space [otherdomain.com](https://otherdomain.com) and we resolved test, it would try to resolve it to test.[otherdomain.com](https://otherdomain.com).
 >
-> **[1:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=88)** You only need to do this if your local domain is not the same as the rest of your network.
+> **[1:28](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=88)** You only need to do this if your local domain is not the same as the [[Representational State Transfer (REST)|rest]] of your network.
 >
 > **[1:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-name-resolution-with-remote-dns-servers?u=76281980&t=92)** The keyword we use the most is nameserver.
 >
@@ -7559,7 +7463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Search]] (5), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (8), etc (2), peerdns (1)
 > **URLs:** [localnet.com](https://localnet.com) (4), [ford.com](https://ford.com) (2), [apple.com](https://apple.com) (2), [otherdomain.com](https://otherdomain.com) (2)
 > **Analogies:** for instance (5), such as (1)
@@ -7568,8 +7472,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Modify the order in which name resolution is done
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-the-order-in-which-name-resolution-is-done?u=76281980)
+#### [Modify the order in which name resolution is done](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-the-order-in-which-name-resolution-is-done?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7583,7 +7486,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-the-order-in-which-name-resolution-is-done?u=76281980&t=17)** The remaining columns specify the order, in which to look up the data.
 >
-> **[0:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-the-order-in-which-name-resolution-is-done?u=76281980&t=21)** The following databases are understood.
+> **[0:21](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-the-order-in-which-name-resolution-is-done?u=76281980&t=21)** The following [[Databases]] are understood.
 >
 > **[0:23](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/modify-the-order-in-which-name-resolution-is-done?u=76281980&t=23)** aliases for mail aliases, ethers for Ethernet numbers, group for groups of users, posts for host names and numbers, initgroups, for supplementary group lists, netgroup for network groups, networks for network names and numbers, password for passwords, protocols for network protocols, publickey, for secretkeys, used by NFS, and NIS plus, rpc for remote procedure call numbers, services for network services, and lastly shadow, for shadow passwords.
 >
@@ -7615,12 +7518,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (7), database (2), next (2), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** dns (6), nfs (1), nis (1)
 > **Speakers:** - the (1)
 
-#### Debug errors related to name resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-errors-related-to-name-resolution?u=76281980)
+#### [Debug errors related to name resolution](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/debug-errors-related-to-name-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7678,7 +7580,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), hit (1), [[Troubleshooting]] (1)
 > **Env Vars:** dns (5)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -7686,12 +7587,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### About systemd-resolved
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980)
+#### [About systemd-resolved](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=0)** - [Instructor] Systemd - Networkd is the new stack to manage network configuration files on Linux.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=0)** - [Instructor] Systemd - Networkd is the new stack to manage network configuration files on [[Linux]].
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=5)** Along with this comes systemd that's resolvd.
 >
@@ -7711,7 +7611,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=49)** For instance, if we disconnect from the VPN but the DNS entries reflect devices on those networks.
 >
-> **[0:54](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=54)** We choose which forms of name resolution we use and in which order in the /etc/nsswitch.conf file.
+> **[0:54](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=54)** We choose which [[Forms]] of name resolution we use and in which order in the /etc/nsswitch.conf file.
 >
 > **[1:01](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=61)** Let's take a look at that.
 >
@@ -7725,7 +7625,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=78)** This means it consults the local /nc/host file first and then ask DNS to resolve the name and lastly, the NSS - my host name plug-in module which provides host name resolution for the locally configured system host name as returned by the get host name system call.
 >
-> **[1:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=94)** If you wanted to include the systemd - resolvd service in the action, we'd add the word resolv to this line.
+> **[1:34](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=94)** If you wanted to include the systemd - resolvd service in the action, we'd add the [[Microsoft Word|word]] resolv to this line.
 >
 > **[1:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-systemd-resolved?u=76281980&t=100)** We'd have to decide where we want to include it to determine the order.
 >
@@ -7739,7 +7639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), vpn (2), [[Linux]] (1), [[Forms]] (1), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (6), vpn (2), nss (1)
 > **CLI Commands:** cat (1), make (1)
 > **Analogies:** for instance (2)
@@ -7751,8 +7651,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Nmap and netstat to audit network services
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980)
+#### [Use Nmap and netstat to audit network services](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7760,7 +7659,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=4)** If it's not running, it's difficult to exploit.
 >
-> **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=8)** To get the status of services on the Linux system that uses system d, you can type in sudo systemctl list-units
+> **[0:08](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=8)** To get the status of services on the [[Linux]] system that uses system d, you can type in sudo systemctl list-units
 >
 > **[0:17](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=17)** - -type=service and hit enter.
 >
@@ -7818,7 +7717,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=152)** This shows I am allowing three different ports in through the firewall: dhcp, ntp, and ssh.
 >
-> **[2:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=159)** The last thing we'll do is use nmap to scan our own computer to see which ports are open.
+> **[2:39](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=159)** The last thing we'll do is use [[Nmap]] to scan our own computer to see which ports are open.
 >
 > **[2:43](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980&t=163)** Nmap may not be installed, so let's install it.
 >
@@ -7854,7 +7753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), next (2), [[Linux]] (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Nmap]] (5), [[Linux]] (1)
 > **CLI Commands:** sudo (7), systemctl (2), ssh (2), make (1), yum (1)
 > **Code Identifiers:** st (3), su (1)
 > **Versions:** 127.0.0 (1), 192.168.2 (1)
@@ -7862,12 +7761,11 @@ created: 2026-05-02
 > **Speakers:** - it (1), - y (1)
 > **Env Vars:** tcp (1)
 
-#### Set up limits on users
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-up-limits-on-users?u=76281980)
+#### [Set up limits on users](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-up-limits-on-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-up-limits-on-users?u=76281980&t=0)** - Linux has the ability to limit the amount of system resources available to user processes.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-up-limits-on-users?u=76281980&t=0)** - [[Linux]] has the ability to limit the amount of system resources available to user processes.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-up-limits-on-users?u=76281980&t=5)** These limits include the number of open files.
 >
@@ -7937,7 +7835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Security]] (2), [[Linux]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **URLs:** [limits.com](https://limits.com) (2)
 > **Tools:** terminal (2)
 > **Analogies:** for instance (2)
@@ -7946,8 +7844,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **UI Navigation:** go to (1)
 
-#### Determine which users have logged in
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/determine-which-users-have-logged-in?u=76281980)
+#### [Determine which users have logged in](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/determine-which-users-have-logged-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7969,7 +7866,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/determine-which-users-have-logged-in?u=76281980&t=22)** We see who is logged in and when they did so, as well as what screen they're on.
 >
-> **[0:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/determine-which-users-have-logged-in?u=76281980&t=26)** The next step is to go to the w command, perhaps the shortest command in Linux.
+> **[0:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/determine-which-users-have-logged-in?u=76281980&t=26)** The next step is to go to the w command, perhaps the shortest command in [[Linux]].
 >
 > **[0:30](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/determine-which-users-have-logged-in?u=76281980&t=30)** Type in w and hit Enter.
 >
@@ -8007,15 +7904,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), next (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (1)
 > **Env Vars:** cpu (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic sudo configuration and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/basic-sudo-configuration-and-usage?u=76281980)
+#### [Basic sudo configuration and usage](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/basic-sudo-configuration-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8035,7 +7931,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/basic-sudo-configuration-and-usage?u=76281980&t=40)** With Sudo, you elevate privileges for one command only.
 >
-> **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/basic-sudo-configuration-and-usage?u=76281980&t=45)** Also by switching to root, there's very little in the way of accountability.
+> **[0:45](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/basic-sudo-configuration-and-usage?u=76281980&t=45)** Also by switching to root, there's very little in the way of [[Accountability]].
 >
 > **[0:49](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/basic-sudo-configuration-and-usage?u=76281980&t=49)** All log messages say that the root user executed all commands.
 >
@@ -8101,7 +7997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Accountability]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** sudo (13), cat (3)
 > **UI Navigation:** switch to (2)
 > **Prerequisites:** set up (1), configure (1)
@@ -8109,8 +8005,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Find suid/sgid files
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/find-suid-sgid-files?u=76281980)
+#### [Find suid/sgid files](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/find-suid-sgid-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8220,7 +8115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), power (1), [[Security]] (1), [[Search]] (1)
 > **Env Vars:** suid (10), sgid (10), usr (7), bin (7), sudo (4)
 > **CLI Commands:** find (8), chmod (4), sudo (4), ls (3)
 > **Analogies:** such as (1), similar to (1), for instance (1)
@@ -8228,8 +8122,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### About TCP wrappers
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-tcp-wrappers?u=76281980)
+#### [About TCP wrappers](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-tcp-wrappers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8363,7 +8256,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), application (2), data (2), dns (2), next (1)
 > **Env Vars:** tcp (5), sshd (3), dns (2), local (1), known (1)
 > **CLI Commands:** sudo (2), make (1), ssh (1), find (1), grep (1)
 > **Warnings:** be aware (2), be careful (1), troubleshoot (1)
@@ -8371,20 +8263,20 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
+> **Analogies:** such as (2)
 
 
 ### 15. Securing Data with Encryption
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Perform basic OpenSSH 2 client configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980)
+#### [Perform basic OpenSSH 2 client configuration](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=0)** - SSH has many options, including which ciphers to use, which host a client can connect to and how it operates.
 >
-> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=7)** However, usually a client configuration uses the defaults and is much easier to work with in the SSH server configuration.
+> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=7)** However, usually a client configuration uses the defaults and is much easier to work with in the SSH [[Server Configuration]].
 >
 > **[0:13](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=13)** There are three ways of passing configuration options to the SSH client.
 >
@@ -8436,7 +8328,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=119)** If set to yes, the remote clients will have access to the full original display.
 >
-> **[2:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=124)** If set to no, the remote client will not have access to the entire display, and the security tokens will expire after 20 minutes.
+> **[2:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=124)** If set to no, the remote client will not have access to the entire display, and the security [[Tokens]] will expire after 20 minutes.
 >
 > **[2:11](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980&t=131)** After this time remote clients will be refused.
 >
@@ -8454,7 +8346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (2), api (2), generic (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Server Configuration]] (1), [[Tokens]] (1)
 > **Env Vars:** ssh (6), api (2), gss (1), ietf (1), x11 (1)
 > **CLI Commands:** ssh (8)
 > **Documentation:** man page (3)
@@ -8463,8 +8355,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** later in (1)
 
-#### About OpenSSH 2 server host keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-openssh-2-server-host-keys?u=76281980)
+#### [About OpenSSH 2 server host keys](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-openssh-2-server-host-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8542,7 +8433,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7)
 > **CLI Commands:** ssh (20), cat (4), ls (1), make (1)
 > **Env Vars:** ssh (12), rsa (1)
 > **Code Identifiers:** id_rsa (3), known_hosts (1), authorized_keys (1)
@@ -8550,13 +8440,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2), set up (1)
 > **Versions:** 192.168.0 (2)
 > **Tools:** terminal (1)
+> **Speakers:** - there (1)
 
-#### Perform basic GnuPG configuration and revocation
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-gnupg-configuration-and-revocation?u=76281980)
+#### [Perform basic GnuPG configuration and revocation](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-gnupg-configuration-and-revocation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-gnupg-configuration-and-revocation?u=76281980&t=0)** - [Instructor] GPG, or GNU Privacy Guard, is an implementation of the proprietary PGP, or Pretty Good Privacy program.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-gnupg-configuration-and-revocation?u=76281980&t=0)** - [Instructor] GPG, or GNU [[Privacy]] Guard, is an implementation of the proprietary PGP, or Pretty Good Privacy program.
 >
 > **[0:07](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-gnupg-configuration-and-revocation?u=76281980&t=7)** It's primarily used to encrypt emails but can be used to encrypt files as well.
 >
@@ -8638,7 +8528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Env Vars:** gpg (4), gnu (1), pgp (1), ascii (1)
 > **CLI Commands:** ls (1), make (1)
 > **URLs:** [gnupg.net](https://gnupg.net) (2)
@@ -8647,12 +8537,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GPG to encrypt, decrypt, sign, and verify files
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-gpg-to-encrypt-decrypt-sign-and-verify-files?u=76281980)
+#### [Use GPG to encrypt, decrypt, sign, and verify files](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-gpg-to-encrypt-decrypt-sign-and-verify-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-gpg-to-encrypt-decrypt-sign-and-verify-files?u=76281980&t=0)** - We can encrypt and decrypt files with GPG for privacy.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-gpg-to-encrypt-decrypt-sign-and-verify-files?u=76281980&t=0)** - We can encrypt and decrypt files with GPG for [[Privacy]].
 >
 > **[0:03](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-gpg-to-encrypt-decrypt-sign-and-verify-files?u=76281980&t=3)** We can also sign files as well, ensuring they haven't been tampered with.
 >
@@ -8688,20 +8577,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **CLI Commands:** cat (2)
 > **Env Vars:** gpg (2)
 > **Tools:** terminal (1)
 > **Speakers:** - we (1)
 
-#### SSH port tunnels
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980)
+#### [SSH port tunnels](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=0)** - [Instructor] We've talked about using different protocols for remote GUI access.
 >
-> **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=4)** If you want step-by-step instructions on how to install and configure programs for remote desktop on Linux, search for my desktops and remote access course in the course library.
+> **[0:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=4)** If you want step-by-step instructions on how to install and configure programs for remote desktop on [[Linux]], search for my desktops and remote access course in the course library.
 >
 > **[0:12](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=12)** In that course, I have separate videos for remote desktop protocols.
 >
@@ -8757,7 +8645,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=184)** It is important to understand that 127.0.0.1 is processed on the remote host because we can change it to something else known to the remote host, for instance, if we changed 127.0.0.12, ubhost1.[localnet.com](https://localnet.com), and rhhost knew of this host, it would forward the traffic to it.
 >
-> **[3:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=202)** In this sense, SSH is routing traffic inside the network for us.
+> **[3:22](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=202)** In this sense, SSH is [[Routing]] traffic inside the network for us.
 >
 > **[3:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/ssh-port-tunnels?u=76281980&t=206)** We're not limited to one port either, they forward multiple ports, we just include multiple segments.
 >
@@ -8805,7 +8693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), data (7), database (7), [[Linux]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Routing]] (1)
 > **Env Vars:** ssh (24), gui (1), scp (1), ftp (1), socks (1)
 > **CLI Commands:** ssh (24), cat (2)
 > **Ports:** port 3306 (2), :3306 (2), :22 (1), port
@@ -8820,8 +8708,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980)
+#### [Taking the exam](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8839,7 +8726,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=23)** The test really does follow the exam objectives.
 >
-> **[0:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=26)** The Linux Professional Institute has told you what is on the exam, so pay close attention to the objectives.
+> **[0:26](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=26)** The [[Linux]] Professional Institute has told you what is on the exam, so pay close attention to the objectives.
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=31)** Each LPI exam is ranked on a scale from 200 to 800 with a passing score of 500.
 >
@@ -8867,11 +8754,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=91)** Lastly, practice, practice, practice.
 >
-> **[1:33](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=93)** Walk through this course more than once, complete the assessment questions more than once without using Google or your notes, and good luck.
+> **[1:33](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980&t=93)** Walk through this course more than once, complete the assessment questions more than once without using [[Google]] or your notes, and good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Linux]] (1), [[Security]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Google]] (1)
 > **Env Vars:** lpi (3), lpic (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** required to (1)

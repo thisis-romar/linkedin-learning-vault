@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pair-programming with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980)
+#### [Pair-programming with AI](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980&t=7)** And in this course we'll focus on those crucial works carefully and with skill.
 >
-> **[0:13](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980&t=13)** You see, programming isn't just about writing code, it's about understanding what the code is supposed to do, what problem or task or goal it's meant to solve, and then how best to design and build code-based system to solve them so we can invest more of our time and uniquely human skills and knowledge and understanding on building the best applications and products possible.
+> **[0:13](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980&t=13)** You see, programming isn't just about writing code, it's about understanding what the code is supposed to do, what problem or task or goal it's meant to solve, and then how best to design and build code-based system to solve them so we can invest more of our time and uniquely human skills and knowledge and understanding on building the best applications and [[Microsoft Products|products]] possible.
 >
 > **[0:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980&t=35)** AI powered coding tools are the latest step in a long evolutionary chain of specialized developer tools that check our work and automate our processes and supercharge our human skills, and I'm here to help you use them with care and skill and get it right.
 >
@@ -110,11 +109,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Programming]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - ai (1)
 
-#### Prerequisites and how to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980)
+#### [Prerequisites and how to use the exercise files](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=9)** It's more of a, here's how I think you can do things with AI coding tools, and I invite you to try these techniques to see if they work for you, type course.
 >
-> **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=18)** Now, throughout the course, I'll be demoing GitHub Copilot, ChatGPT, Cursor, and Claude.
+> **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=18)** Now, throughout the course, I'll be demoing [[GitHub Copilot]], [[ChatGPT]], Cursor, and Claude.
 >
 > **[0:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=24)** And if you want to follow along in every demo, you need accounts for all these services.
 >
@@ -136,11 +134,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=50)** You know what you came here for and how best to reach your goal.
 >
-> **[0:54](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=54)** I say all this because, on first blush, the GitHub repository with exercise files for this course may appear a bit of a mishmash of unfinished and disconnected pieces, because it is.
+> **[0:54](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=54)** I say all this because, on first blush, the [[GitHub]] repository with exercise files for this course may appear a bit of a mishmash of unfinished and disconnected pieces, because it is.
 >
 > **[1:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=66)** What I've provided here are samples you can use if you want to, and ignore if you don't, that allow you to play along with me and then play around yourself later, without having to do a huge amount of setup.
 >
-> **[1:19](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=79)** A fair portion of the demos I go through in this course will use GitHub Copilot in GitHub Codespaces, and that's what this exercise file repo is mostly for.
+> **[1:19](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=79)** A fair portion of the demos I go through in this course will use GitHub Copilot in GitHub [[Codespaces]], and that's what this exercise file repo is mostly for.
 >
 > **[1:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=88)** So when you see me in this environment, you can spin up your own Codespace and jump right in to replicate what I'm doing, and I encourage you to do so, because what you'll find is something extraordinary that is central to the purpose of this course.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=115)** Realizing this and making it an expectation as you work with AI coding tools is essential to your success.
 >
-> **[2:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=123)** Right now, all AI coding tools are implementations of large language models, and these models are probabilistic and non-deterministic.
+> **[2:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=123)** Right now, all AI coding tools are implementations of [[Large Language Models (LLM)|large language models]], and these models are probabilistic and non-deterministic.
 >
 > **[2:12](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/prerequisites-and-how-to-use-the-exercise-files?u=76281980&t=132)** That means the same request can and will produce different results, because most coding problems have multiple different solutions.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[GitHub]] (3), [[GitHub Copilot]] (2), [[ChatGPT]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[GitHub Copilot]] (2), [[ChatGPT]] (1), [[Codespaces]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Tools:** github (5)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **Prerequisites:** prerequisite (1), setup (1)
@@ -171,8 +169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools, materials, and environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/tools-materials-and-environments?u=76281980)
+#### [Tools, materials, and environments](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/tools-materials-and-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,17 +231,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - here (1)
 
-#### AI as a chatty collaborator
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980)
+#### [AI as a chatty collaborator](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=0)** - When ChatGPT was first introduced to the world in November 2022, someone asked me how a language model could be so good at writing code?
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=0)** - When [[ChatGPT]] was first introduced to the world in November 2022, someone asked me how a language model could be so good at writing code?
 >
 > **[0:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=8)** It's a great question, though I don't think the person asking was particularly satisfied with my answer, so you be the judge.
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=104)** This can be useful and can also be really frustrating.
 >
-> **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=108)** In particular, when you use tools like ChatGPT that are configured to be chatty, and this is why specialized coding tools like GitHub Copilot and Cursor exist, to separate concerns between the chatty natural language part and the code-producing part.
+> **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=108)** In particular, when you use tools like ChatGPT that are configured to be chatty, and this is why specialized coding tools like [[GitHub Copilot]] and Cursor exist, to separate concerns between the chatty natural language part and the code-producing part.
 >
 > **[2:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=126)** That doesn't mean you can't get ChatGPT and its class of tools to do the same though, quite the contrary.
 >
@@ -276,7 +271,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=146)** First, basic prompting.
 >
-> **[2:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=148)** If you give ChatGPT task like, "Write a react component to display a product card with an image, title, product rating, description, price, and add to cart button," the completion will start with some chatty natural language like, "Certainly, here is a ReactJS component to blah, blah, blah, blah, blah," followed by the code snippet, some more language, then maybe another code snippet and a full explanation at the end.
+> **[2:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=148)** If you give ChatGPT task like, "Write a [[React.js|react]] component to display a product card with an image, title, product rating, description, price, and add to cart button," the completion will start with some chatty natural language like, "Certainly, here is a ReactJS component to blah, blah, blah, blah, blah," followed by the code snippet, some more language, then maybe another code snippet and a full explanation at the end.
 >
 > **[2:53](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=173)** If you're new to React or learning a new technique, this is useful.
 >
@@ -308,21 +303,20 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=239)** In other words, this technique is less helpful if you're trying to get the system to write code, but can be helpful if you're trying to get the system to do something with that code.
 >
-> **[4:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=249)** For example, if you input a JSON object providing instructions on how you want the system to behave, the spicy auto complete will likely complete the correct output as if the instructions in the JSON object were followed.
+> **[4:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=249)** For example, if you input a [[JSON]] object providing instructions on how you want the system to behave, the spicy auto complete will likely complete the correct output as if the instructions in the JSON object were followed.
 >
 > **[4:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-as-a-chatty-collaborator?u=76281980&t=264)** This has some really interesting applications and opens the door to a lot of experimentation that falls way outside the scope of this course, and it can also be super helpful as you work through complex challenges, so we'll check it out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (5), product (4), [[React.js|React]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[React.js|React]] (3), [[JSON]] (2), [[GitHub Copilot]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** json (2)
 > **Analogies:** just like (1), for example (1)
 > **Tools:** github (1)
 > **Speakers:** - when (1)
 
-#### AI in the IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980)
+#### [AI in the IDE](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,9 +324,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=16)** We're already seeing clear signs of this with how AI tools work in our IDEs today.
 >
-> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=22)** Extensions like GitHub Copilot add a wide range of deep integrations into existing IDEs and new IDEs like Cursor and Replit are built around AI tools to make them a natural part of the workflow.
+> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=22)** Extensions like [[GitHub Copilot]] add a wide range of deep integrations into existing IDEs and new IDEs like Cursor and Replit are built around AI tools to make them a natural part of the workflow.
 >
-> **[0:36](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=36)** AI interactions in the IDE can take many forms.
+> **[0:36](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=36)** AI interactions in the IDE can take many [[Forms]].
 >
 > **[0:39](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-ide?u=76281980&t=39)** At the code level, AI tools can work as supercharged code completion, not just finishing a variable name or a function declaration or providing a boiler plate or scaffolding, but proposing entire blocks of code with your variables and other elements already wired in and allowing you to iterate through different variations and proposals.
 >
@@ -344,14 +338,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[GitHub Copilot]] (1), [[Forms]] (1), prompt (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1), [[Forms]] (1)
 > **Env Vars:** ide (3)
 > **CLI Commands:** make (2)
 > **Tools:** github (1)
 > **Speakers:** - the (1)
 
-#### AI in the pilot seat
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980)
+#### [AI in the pilot seat](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,17 +358,17 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=44)** So first off, it is objectively demonstrably true that AI programming tools can build software, including websites, games, visualizations, and apps, from scratch, from a single or a few prompts, and that makes sense.
 >
-> **[1:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=60)** We've spent the past 20 years building tools, and templates, and frameworks, and integrations to streamline and automate as many steps of the software development process as humanly possible.
+> **[1:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=60)** We've spent the past 20 years building tools, and templates, and frameworks, and integrations to streamline and automate as many steps of the [[Software Development]] process as humanly possible.
 >
 > **[1:12](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=72)** The next logical step was always going to be to build a computer system sufficiently advanced to string all of those things together and produce the type of output they were intended to produce.
 >
-> **[1:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=84)** Now, in my own experience, and what I'm sure you'll also notice if you try to do this experiment for yourself, what the AI coding tools currently build are neutral, basic, unopinionated boilerplate products, prototypes in need of that elusive something.
+> **[1:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=84)** Now, in my own experience, and what I'm sure you'll also notice if you try to do this experiment for yourself, what the AI coding tools currently build are neutral, basic, unopinionated boilerplate [[Microsoft Products|products]], prototypes in need of that elusive something.
 >
 > **[1:43](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=103)** And if you try to get them to build anything more complex, things start going off the rails almost immediately, which is why some developers say AI coding tools are useless.
 >
 > **[1:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=115)** But where I stand, this ability to create basic software from scratch has enormous potential for how we think about, build, and use software, and is at the same time, less of a threat to professional developers than their marketing would have us believe.
 >
-> **[2:11](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=131)** The new AI powered Chat2 software path makes the ability to create custom throwaway software available to everyone, meaning those superpowers developers have had to quickly spin up a script to do some data cleaning or collect a bunch of info from a source or automate a repetitive task is becoming available to everyone, and I expect we'll see this space continue to expand, both in capabilities and usage, for a long time.
+> **[2:11](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=131)** The new AI powered Chat2 software path makes the ability to create custom throwaway software available to everyone, meaning those superpowers developers have had to quickly spin up a script to do some [[Data Cleaning]] or collect a bunch of info from a source or automate a repetitive task is becoming available to everyone, and I expect we'll see this space continue to expand, both in capabilities and usage, for a long time.
 >
 > **[2:39](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-in-the-pilot-seat?u=76281980&t=159)** At the same time, the inability of AI tools to build advanced applications, especially ones that involve complex user interactions and flows, or perform intricate data operations across large domains, not only highlights, but emphasizes the need for real human developers in the mix.
 >
@@ -385,13 +378,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2), data (2), prompt (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** find (1), rails (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - the (1)
 
-#### AI and rethinking what a developer is
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980)
+#### [AI and rethinking what a developer is](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,13 +427,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=134)** Because software developers have experienced similar transitions at a dramatically accelerated rate for the entire time we've had software to develop.
 >
-> **[2:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=143)** As hardware and infrastructure evolved from giant room-sized computers running off punch cards and tape reels, to tiny pocket-sized computers, permanently tethered to the mobile internet, so did every aspect of our work.
+> **[2:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=143)** As [[Hardware]] and infrastructure evolved from giant room-sized computers running off punch cards and tape reels, to tiny pocket-sized computers, permanently tethered to the mobile internet, so did every aspect of our work.
 >
 > **[2:39](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=159)** In fact, the only things that have not changed much since the information age began is our input and output surfaces.
 >
 > **[2:47](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=167)** We still primarily use keyboards for input and screens for output.
 >
-> **[2:52](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=172)** Artificial Intelligence both grew out of this evolution of information technology and is the natural progression of the tools we use to build information technology.
+> **[2:52](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=172)** [[Artificial Intelligence (AI)|Artificial Intelligence]] both grew out of this evolution of information technology and is the natural progression of the tools we use to build information technology.
 >
 > **[3:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=183)** And developers are already primed for this latest evolution because we built every stepping stone that brought us here and changed and expanded our skills with every step.
 >
@@ -469,7 +461,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=332)** And just to release that extra bit of tension I know I just created, this transition is not immediate and will take a long time to work itself out.
 >
-> **[5:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=342)** For now, and for the immediate future, my advice to you is this, accept the reality that the work and purpose of a developer is always in flux, and the true craft of our work is our ability to go where that flux takes us next.
+> **[5:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=342)** For now, and for the immediate future, my advice to you is this, accept the reality that the work and purpose of a developer is always in [[Flux]], and the true craft of our work is our ability to go where that flux takes us next.
 >
 > **[5:58](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-rethinking-what-a-developer-is?u=76281980&t=358)** So, as you step into this new paradigm of AI power development, embrace an always learning mindset and push hard into these new technologies to not just use them, but find out where they are actually useful, and lead your peers and the industry in those directions.
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), next (3), power (3), [[Flux]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Flux]] (2), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
@@ -494,8 +486,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to start and how to start
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980)
+#### [Where to start and how to start](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=41)** And the best tool to start with is therefore whatever is the most integrated tool you can find for that IDE.
 >
-> **[0:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=48)** I use VS Code and GitHub Codespaces and if you do the same, I'd say the most logical tool to start with is GitHub Copilot.
+> **[0:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=48)** I use VS Code and [[GitHub]] [[Codespaces]] and if you do the same, I'd say the most logical tool to start with is [[GitHub Copilot]].
 >
 > **[0:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=55)** If you're using a different IDE with its own preferred AI extension, pick that one.
 >
@@ -521,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=66)** And that will differ depending on where you are, what tools you're using, what you're building, and what services you rely on to build it.
 >
-> **[1:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=74)** If you're not ready for or comfortable with or able to use integrated coding tools, maybe your workplace has been blocked or they're not available in your region, or the cost is too high at the moment, standalone AI chat apps like ChatGPT and Claude provide robust coding support as well.
+> **[1:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=74)** If you're not ready for or comfortable with or able to use integrated coding tools, maybe your workplace has been blocked or they're not available in your region, or the cost is too high at the moment, standalone AI chat apps like [[ChatGPT]] and Claude provide robust coding support as well.
 >
 > **[1:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980&t=92)** And these supports are rapidly expanding and becoming more useful.
 >
@@ -553,21 +544,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[GitHub Copilot]] (2), prompt (1), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[GitHub]] (1), [[Codespaces]] (1), [[ChatGPT]] (1)
 > **Tools:** github (3), vs code (1)
 > **Env Vars:** ide (3)
 > **CLI Commands:** find (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - if (1)
 
-#### Inline generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980)
+#### [Inline generation](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=1)** - [Instructor] The most natural and unobtrusive way of using AI coding tools is an inline code generation in your IDE.
 >
-> **[0:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=8)** I'm using VS code in GitHub code spaces and I have GitHub copilot activated and that means I now have access to copilot inside every single file.
+> **[0:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=8)** I'm using VS code in [[GitHub]] code spaces and I have [[GitHub Copilot]] activated and that means I now have access to [[Microsoft Copilot|copilot]] inside every single file.
 >
 > **[0:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=17)** And I can access that in multiple different ways.
 >
@@ -619,7 +609,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=194)** But what you see is when it refactored, it ended up creating an error.
 >
-> **[3:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=197)** It swapped out my figure elements with a fictional figure component in react.
+> **[3:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=197)** It swapped out my figure elements with a fictional figure component in [[React.js|react]].
 >
 > **[3:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=204)** So this is not going to work.
 >
@@ -629,7 +619,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=223)** If I had given it more detailed instructions about what I want, it would be able to refactor it.
 >
-> **[3:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=228)** So for example, if I were to accept this, I could now highlight all of this component, go back and say, rewrite this as an HTML figure element
+> **[3:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=228)** So for example, if I were to accept this, I could now highlight all of this component, go back and say, rewrite this as an [[HTML]] figure element
 >
 > **[4:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/inline-generation?u=76281980&t=242)** with fig caption.
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), hit (4), [[Microsoft Copilot|Copilot]] (3), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub]] (1), [[GitHub Copilot]] (1), [[React.js|React]] (1), [[HTML]] (1)
 > **Tools:** github (2), vs code (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ide (1), html (1)
@@ -645,18 +635,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seeding, selecting, and expanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980)
+#### [Seeding, selecting, and expanding](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=0)** - [Instructor] This inline Copilot popup is really useful anytime you want Copilot to generate big blocks of code and you need to provide it with proper instructions, or if you want to highlight a section of code and ask for help to figure out what's wrong with it.
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=0)** - [Instructor] This inline [[Microsoft Copilot|Copilot]] popup is really useful anytime you want Copilot to generate big blocks of code and you need to provide it with proper instructions, or if you want to highlight a section of code and ask for help to figure out what's wrong with it.
 >
 > **[0:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=14)** But it's not the only way of engaging Copilot inside your project.
 >
 > **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=18)** Let me show you a different way that gives you far more control over what the AI generates.
 >
-> **[0:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=23)** In this example, I want to create a new React component called Responsive Images that outputs responsive images markup inside a figure just like you see here.
+> **[0:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=23)** In this example, I want to create a new [[React.js|React]] component called Responsive Images that outputs responsive images markup inside a figure just like you see here.
 >
 > **[0:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=32)** That way I can reuse it across my project.
 >
@@ -676,7 +665,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=106)** If I now start the component by writing Import, it'll say React from React.
 >
-> **[1:51](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=111)** Now here I can either hit Tab to accept the entire suggestion, or I can step through it word for word and symbol for symbol.
+> **[1:51](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=111)** Now here I can either hit Tab to accept the entire suggestion, or I can step through it [[Microsoft Word|word]] for word and symbol for symbol.
 >
 > **[2:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/seeding-selecting-and-expanding?u=76281980&t=120)** And I do that by holding down Command or Control and hitting the right arrow key.
 >
@@ -744,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (8), hit (7), [[Microsoft Copilot|Copilot]] (5), ai (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (8), [[Microsoft Copilot|Copilot]] (5), [[Microsoft Word|Word]] (2)
 > **File Paths:** respimg.tsx (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
@@ -752,8 +741,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980)
+#### [Generating documentation](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,9 +765,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=66)** First, I'll strip out what we already have in this file and just pair it down.
 >
-> **[1:12](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=72)** Then I'll go over to GitHub co-pilot in the sidebar this time, go down into the chat panel and say, document this component, hit return.
+> **[1:12](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=72)** Then I'll go over to [[GitHub]] co-pilot in the sidebar this time, go down into the chat panel and say, document this component, hit return.
 >
-> **[1:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=83)** Copilot now understands that I'm talking about the currently open file.
+> **[1:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=83)** [[Microsoft Copilot|Copilot]] now understands that I'm talking about the currently open file.
 >
 > **[1:27](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=87)** It goes in and analyzes the file, goes through to check what it does, documents the responsive images props interface, document the responsive images component.
 >
@@ -793,7 +781,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=123)** So I'll click on that.
 >
-> **[2:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=125)** Copilot now goes through the file in the editor and makes changes for me, and it does this using git.
+> **[2:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=125)** Copilot now goes through the file in the editor and makes changes for me, and it does this using [[Git]].
 >
 > **[2:12](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=132)** So here, because I'm only adding pieces, you can see everything is green, but in some cases, it may also change things or take things out, in which case, it would be red as well.
 >
@@ -829,7 +817,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=236)** Now I get an even more built out component with this new const for is value URL at the top.
 >
-> **[4:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=242)** I can accept the changes, accept these changes, which is where it gets called in, and at the top, it's reinserted, the import react that I don't need.
+> **[4:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=242)** I can accept the changes, accept these changes, which is where it gets called in, and at the top, it's reinserted, the import [[React.js|react]] that I don't need.
 >
 > **[4:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/generating-documentation?u=76281980&t=254)** So I'll take that out.
 >
@@ -849,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), hit (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1), [[Git]] (1), [[React.js|React]] (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** click on (2), in the sidebar (1)
 > **CLI Commands:** find (1), git (1)
@@ -858,8 +846,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [speaker] (1)
 
-#### Documentation-Driven Development (DDD?)
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980)
+#### [Documentation-Driven Development (DDD?)](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,13 +882,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=122)** Here's one example of how to do this.
 >
-> **[2:04](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=124)** In this React and TypeScript project, the AI coding tool keeps insisting on using explicit function components with the shorthand React.fc, even though this isn't a recommended pattern any longer.
+> **[2:04](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=124)** In this [[React.js|React]] and TypeScript project, the AI coding tool keeps insisting on using explicit function components with the shorthand React.fc, even though this isn't a recommended pattern any longer.
 >
 > **[2:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=137)** To get the AI to change its default bias and apply a new pattern, I'll grab some documentation about how to write function components without React.fc, then prompt the AI to write the code to match this new pattern.
 >
 > **[2:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=152)** And it does.
 >
-> **[2:33](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=153)** And if I'm using an integrated AI tool like GitHub, Copilot, or Cursor, it'll recognize this pattern going forward and use it for future function declarations most of the time.
+> **[2:33](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=153)** And if I'm using an integrated AI tool like [[GitHub]], [[Microsoft Copilot|Copilot]], or Cursor, it'll recognize this pattern going forward and use it for future function declarations most of the time.
 >
 > **[2:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-development-ddd?u=76281980&t=166)** My recommended best practice for you is to always stay on top of the latest standards and practices for whatever code language and application you're using, and monitor what the AI coding tool does.
 >
@@ -909,14 +896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (4), [[React.js|React]] (3), data (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Best Practices:** recommended (2), best practice (1)
 > **Tools:** github (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - you (1)
 
-#### Chatting with code
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980)
+#### [Chatting with code](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +910,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=8)** This is especially useful if you are inspecting code someone else has written or you're trying to maintain some larger thing where you need to pull in pieces from disparate parts and you're not fully aware of how they work together or what's actually going on.
 >
-> **[0:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=23)** This can be done with ChatGPT or any of the other chat tools, and it can also be done from Copilot and the process is exactly the same.
+> **[0:23](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=23)** This can be done with [[ChatGPT]] or any of the other chat tools, and it can also be done from [[Microsoft Copilot|Copilot]] and the process is exactly the same.
 >
 > **[0:31](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=31)** So in Copilot, I simply open the file that I want to discuss and then I say, explain what's going on here.
 >
@@ -942,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=79)** For example, up here I'm seeing it says constant, input value, input set value, use state, and then [error, setError] = useState.
 >
-> **[1:27](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=87)** And it's been a while since I did React maybe, so I'll say what exactly is useState?
+> **[1:27](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=87)** And it's been a while since I did [[React.js|React]] maybe, so I'll say what exactly is useState?
 >
 > **[1:34](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/chatting-with-code?u=76281980&t=94)** So I'll say, explain how useState works.
 >
@@ -974,14 +960,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[React.js|React]] (2), feature (2), ai (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[React.js|React]] (2), [[ChatGPT]] (1)
 > **Code Identifiers:** usestate (5), seterror (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code from a chat (ChatGPT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980)
+#### [Code from a chat (ChatGPT)](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=5)** And this is the most natural entry point, but it's not the only entry point for this.
 >
-> **[0:10](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=10)** You can also use standalone AI chat tools like ChatGPT to perform the same types of tasks.
+> **[0:10](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=10)** You can also use standalone AI chat tools like [[ChatGPT]] to perform the same types of tasks.
 >
 > **[0:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=17)** The main difference is you're no longer working inside an IDE so if you want any of this code to run, you need to copy and paste it into an IDE.
 >
@@ -1001,7 +986,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=44)** So first we can just ask ChatGPT to generate some code for us.
 >
-> **[0:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=48)** I'll say create a react component using TSX, using TypeScript that has an input field for latitude and longitude and submits button
+> **[0:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=48)** I'll say create a [[React.js|react]] component using TSX, using TypeScript that has an input field for latitude and longitude and submits button
 >
 > **[1:11](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=71)** and validates the values before submission, ask question.
 >
@@ -1031,7 +1016,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=161)** And this is the first thing I want to highlight.
 >
-> **[2:43](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=163)** Even though GitHub, Copilot and ChatGPT run off similar models, they behave quite differently and it's often useful to use them both in combination.
+> **[2:43](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=163)** Even though [[GitHub]], [[Microsoft Copilot|Copilot]] and ChatGPT run off similar models, they behave quite differently and it's often useful to use them both in combination.
 >
 > **[2:52](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=172)** For example, if I'm building out a new component, I may go to ChatGPT to build out the core elements of the component and then bring them into VS Code and then continue working there with GitHub, Copilot, because I find this chat interface to be more welcoming and also allow me to do a lot more iteration than I can do inside GitHub, Copilot.
 >
@@ -1051,7 +1036,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=248)** And because of this layout, I can now have the same type of behavior in ChatGPT that I did in VS Code with GitHub, Copilot.
 >
-> **[4:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=257)** So now that the code is built, I can go down into this section down here and get a code review.
+> **[4:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=257)** So now that the code is built, I can go down into this section down here and get a [[Code Review]].
 >
 > **[4:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/code-from-a-chat-chatgpt?u=76281980&t=262)** I can also port it to a different language.
 >
@@ -1065,19 +1050,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (4), ai (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (4), [[React.js|React]] (2), [[Code Review]] (1)
 > **Tools:** github (4), vs code (2)
 > **Env Vars:** ide (3), tsx (1)
 > **CLI Commands:** find (1), rails (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artifacts (Claude)
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980)
+#### [Artifacts (Claude)](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=0)** - [Instructor] When I say AI chat app, chances are, the first thing you think of is OpenAI's ChatGPT, but it's not the only option.
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=0)** - [Instructor] When I say AI chat app, chances are, the first thing you think of is OpenAI's [[ChatGPT]], but it's not the only option.
 >
 > **[0:07](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=7)** Claude is another very good option.
 >
@@ -1087,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=22)** Let me show you what I'm talking about.
 >
-> **[0:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=24)** In Claude, I'm asking it to spin up a simple React webpage using TypeScript that has a location input field.
+> **[0:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=24)** In Claude, I'm asking it to spin up a simple [[React.js|React]] webpage using TypeScript that has a location input field.
 >
 > **[0:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/artifacts-claude?u=76281980&t=32)** When I submit a location, the system should go look up a weather service, get the current weather, display a card with the location name, current temperature, and wind speed, along with an icon indicating the current weather.
 >
@@ -1135,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[ChatGPT]] (2), feature (2), [[React.js|React]] (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[React.js|React]] (2)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
@@ -1143,8 +1127,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowledge, trust, and conservative models
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/knowledge-trust-and-conservative-models?u=76281980)
+#### [Knowledge, trust, and conservative models](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/knowledge-trust-and-conservative-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1195,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (2), database (1), prompt (1), web (1)
 > **CLI Commands:** rails (1)
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
@@ -1225,8 +1207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Let's build an app together!
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980)
+#### [Let's build an app together!](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1234,7 +1215,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=5)** Let's build an AI-powered web app with some fancy functionality.
 >
-> **[0:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=9)** Now, be advised, this is not a normal LinkedIn Learning hands-on coding project.
+> **[0:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=9)** Now, be advised, this is not a normal [[LinkedIn]] Learning hands-on coding project.
 >
 > **[0:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=14)** So stick around to the end of this video for the full explanation of what you'll be doing.
 >
@@ -1264,7 +1245,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=102)** Next, I'll help you get started on a project by showing you how to get Cursor to set up a project from scratch.
 >
-> **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=108)** If you don't have Cursor, you can get the same results by using Claude or ChatGPT or by using GitHub Copilot.
+> **[1:48](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=108)** If you don't have Cursor, you can get the same results by using Claude or [[ChatGPT]] or by using [[GitHub Copilot]].
 >
 > **[1:54](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980&t=114)** It's just not as integrated and straightforward.
 >
@@ -1288,15 +1269,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (3), web (1), [[LinkedIn]] (1), product (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[ChatGPT]] (1), [[GitHub Copilot]] (1)
 > **Prerequisites:** set up (4), configure (1)
 > **Env Vars:** llm (1), api (1)
 > **Cross-References:** next chapter (1)
 > **Tools:** github (1)
 > **Speakers:** - to (1)
 
-#### Start with a prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980)
+#### [Start with a prompt](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,13 +1292,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=35)** That said, you can do the same thing you're seeing me do here in this chapter using other code editors with AI extensions as well.
 >
-> **[0:43](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=43)** For example, everything I'm doing here in this chapter can also be done using VS Code and GitHub Copilot.
+> **[0:43](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=43)** For example, everything I'm doing here in this chapter can also be done using VS Code and [[GitHub Copilot]].
 >
 > **[0:50](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=50)** But enough talk, let's get started.
 >
 > **[0:52](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=52)** In Cursor, I've opened a folder that is currently empty.
 >
-> **[0:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=55)** Inside this folder, I want to set up a React project using Vite and TypeScript and Tailwind.
+> **[0:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=55)** Inside this folder, I want to set up a [[React.js|React]] project using Vite and TypeScript and Tailwind.
 >
 > **[1:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=60)** Now of course, I could go online and find the instructions for this, or if I remember it, I can start the process manually, or I can get AI to do the setup for me.
 >
@@ -1346,7 +1326,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=148)** So let's build out that project.
 >
-> **[2:31](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=151)** In here, I'll say build me a new app using React.js,
+> **[2:31](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=151)** In here, I'll say build me a new app using [[React.js]],
 >
 > **[2:41](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=161)** Vite, TypeScript, and Tailwind, and I'll just hit return.
 >
@@ -1362,7 +1342,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=197)** Now run cd my-react-app, install, run dev, but if I got over here, you'll see it says the same thing.
 >
-> **[3:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=204)** So cd my-react-app already navigated in, the next step is npm install, so I'll click run again.
+> **[3:24](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=204)** So cd my-react-app already navigated in, the next step is [[npm]] install, so I'll click run again.
 >
 > **[3:31](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/start-with-a-prompt?u=76281980&t=211)** Now, all the dependencies are installed inside the folder.
 >
@@ -1398,7 +1378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[React.js|React]] (5), css (4), prompt (3), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (2), [[GitHub Copilot]] (1), [[React.js]] (1)
 > **CLI Commands:** composer (4), find (2), make (2), cd (2), npm (2)
 > **File Paths:** tailwind.config.js (3), react.js (1), src/index.css (1), index.css (1), src/app.tsx (1)
 > **Prerequisites:** install (4), setup (2), set up (1), configure (1)
@@ -1407,8 +1387,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Versions:** 3.5 (2)
 
-#### Use AI to build the layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980)
+#### [Use AI to build the layout](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,7 +1427,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=121)** So here it is.
 >
-> **[2:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=122)** Build out the React app in the folder using components and tailwind styles.
+> **[2:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=122)** Build out the [[React.js|React]] app in the folder using components and tailwind styles.
 >
 > **[2:07](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ai-to-build-the-layout?u=76281980&t=127)** The app has a full width responsive layout, and a full width header, and a full width main area.
 >
@@ -1492,7 +1471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), hit (2), next (2), prompt (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** tsx (10)
 > **CLI Commands:** composer (4), find (1), make (1)
 > **UI Navigation:** go to (1), open the (1), click on (1)
@@ -1500,8 +1479,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add an interactive map
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980)
+#### [Add an interactive map](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1513,7 +1491,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=19)** This is just one option.
 >
-> **[0:20](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=20)** You can use Google Maps or MapBox or whatever else you want to do this as well.
+> **[0:20](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=20)** You can use [[Google]] Maps or MapBox or whatever else you want to do this as well.
 >
 > **[0:25](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=25)** It works the same way and you'll see that if you try one of the other mapping services, the functionality and what the AI can do with it will match what you're seeing here.
 >
@@ -1521,7 +1499,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=39)** What I want to happen here is an interactive map appears that is already centered with a pin in Vancouver, Canada.
 >
-> **[0:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=46)** Then I should be able to zoom in and out in that map and move it around.
+> **[0:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=46)** Then I should be able to [[Zoom]] in and out in that map and move it around.
 >
 > **[0:49](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=49)** And I want to have an extension function that allows me to pass in a latitude and longitude at any time to animate the map to a new location.
 >
@@ -1539,7 +1517,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=79)** That warning is this at the top here because the cursor AI is doing the thing I've talked about previously in the course, which is surfacing old patterns.
 >
-> **[1:30](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=90)** Import React from 'react' is not necessary.
+> **[1:30](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=90)** Import [[React.js|React]] from 'react' is not necessary.
 >
 > **[1:32](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/add-an-interactive-map?u=76281980&t=92)** It hasn't been necessary for a long time, but the majority of React code that exists on the web still does this.
 >
@@ -1665,7 +1643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[React.js|React]] (6), api (2), [[Zoom]] (2), css (2)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Zoom]] (2), [[Google]] (1)
 > **File Paths:** mapbox.tsx (3), leaflet.js (1), app.tsx (1)
 > **Env Vars:** api (2), css (2)
 > **CLI Commands:** make (3)
@@ -1674,8 +1652,7 @@ created: 2026-05-02
 > **Warnings:** warning (3)
 > **Code Identifiers:** defaultcenter (1), defaultzoom (1)
 
-#### Use DDD to add an AI chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980)
+#### [Use DDD to add an AI chat](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,9 +1676,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=40)** And this is not straightforward, the assistant API is not well established on the web, so there's not a lot of training data about it.
 >
-> **[0:49](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=49)** Additionally, the documentation that's written for the assistant API is only available in Python, Node and Curl, none of which I'm using.
+> **[0:49](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=49)** Additionally, the documentation that's written for the assistant API is only available in [[Python (Programming Language)|Python]], Node and Curl, none of which I'm using.
 >
-> **[0:59](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=59)** Now I can choose node.js as the code example, but in my code I'm using TypeScript in React.
+> **[0:59](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=59)** Now I can choose [[Node.js]] as the code example, but in my code I'm using TypeScript in [[React.js|React]].
 >
 > **[1:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=65)** So the code examples that exist are fundamentally different from what I need.
 >
@@ -1767,7 +1744,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=241)** Build the chat using the OpenAI assistant API, the assistant is already configured.
 >
-> **[4:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=245)** The OpenAI API key and assistant ID are defined at the env file.
+> **[4:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=245)** The [[OpenAI API]] key and assistant ID are defined at the env file.
 >
 > **[4:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=249)** The chat must have an input field, a submit button, and a new chat button.
 >
@@ -1807,7 +1784,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=312)** There we go.
 >
-> **[5:13](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=313)** Oh, it actually suggested both NPM and Yarn and then it tried to run Yarn, but we only needed NPM.
+> **[5:13](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=313)** Oh, it actually suggested both [[npm]] and Yarn and then it tried to run Yarn, but we only needed NPM.
 >
 > **[5:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/use-ddd-to-add-an-ai-chat?u=76281980&t=318)** So, but that's fine. It got installed.
 >
@@ -1855,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), ai (10), [[npm]] (3), web (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (2), [[Python (Programming Language)|Python]] (1), [[React.js|React]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (14), npm (2), vite_openai_api_key (1), vite_assistant_id (1), uri (1)
 > **CLI Commands:** node (3), npm (3), make (2), yarn (2), python (1)
 > **File Paths:** node.js (2), chatbox.tsx (2)
@@ -1864,8 +1841,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 
-#### AI-driven code iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980)
+#### [AI-driven code iteration](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1879,7 +1855,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=26)** And then the interactive map sends further information about the address, including the geolocation, to the Information card over here.
 >
-> **[0:34](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=34)** So for this to work, we first need to capture the function call in the OpenAI API response.
+> **[0:34](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=34)** So for this to work, we first need to capture the function call in the [[OpenAI API]] response.
 >
 > **[0:40](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=40)** Then get the Chat box to interact with the Interactive Map box, and then get the Interactive Map box to interact with the Info box.
 >
@@ -1957,7 +1933,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=296)** But the point remains.
 >
-> **[4:58](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=298)** By using this AI tool, I was able to prototype an app without writing any code and get it up and running to the point where I can test the functionality and see, is this actually the user experience I'm looking for?
+> **[4:58](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=298)** By using this AI tool, I was able to prototype an app without writing any code and get it up and running to the point where I can test the functionality and see, is this actually the [[User Experience (UX)|user experience]] I'm looking for?
 >
 > **[5:10](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-driven-code-iteration?u=76281980&t=310)** And you can do a lot more than what I just showed you, which is why in the text article you found earlier in this chapter, I lay out some ideas for what you can do now that the app is working properly.
 >
@@ -1969,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), api (4), [[OpenAI API]] (1), css (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (5), css (1)
 > **Code Identifiers:** navigatetolocation (3)
 > **CLI Commands:** make (1)
@@ -1978,8 +1954,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Hallucinations, errors, and how to address them
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980)
+#### [Hallucinations, errors, and how to address them](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,7 +1966,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=25)** What's actually happening is far more interesting.
 >
-> **[0:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=28)** This thing we call hallucinations occur when we prompt a system and it returns strings of tokens that don't replicate existing patterns within the data it was built from.
+> **[0:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=28)** This thing we call hallucinations occur when we prompt a system and it returns strings of [[Tokens]] that don't replicate existing patterns within the data it was built from.
 >
 > **[0:38](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=38)** This could be because the prompt biases the system away from existing patterns mimicking the correct information, or because the prompt is requesting information there is no pattern for.
 >
@@ -2019,11 +1994,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=140)** This is an iterative approach, and you may have to go through multiple rounds to get it, right, so it's important to monitor what the AI tool does, so it doesn't take the whole project in an unhelpful direction as it's trying to fix the issue.
 >
-> **[2:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=155)** This is a place where the system can go really far off the rails, so use version control liberally as you do this.
+> **[2:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=155)** This is a place where the system can go really far off the rails, so use [[Version Control]] liberally as you do this.
 >
 > **[2:44](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=164)** Second, AI tools sometimes detect patterns and try to reproduce them even when they don't exist.
 >
-> **[2:50](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=170)** An example of this is, if you are using global JavaScript methods and asking for some new functionality, the language model may make up a new global method name following existing patterns, and then implement it in code as if that global method exists.
+> **[2:50](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=170)** An example of this is, if you are using global [[JavaScript]] methods and asking for some new functionality, the language model may make up a new global method name following existing patterns, and then implement it in code as if that global method exists.
 >
 > **[3:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=188)** When you then try to run the code, the method fails because it doesn't exist, and the code crashes without explanation.
 >
@@ -2035,13 +2010,13 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=217)** Third, and finally, because language models don't know or understand anything, if you uncritically accept every suggestion they provide, they may produce something that works, or they may produce something that only looks like it works.
 >
-> **[3:51](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=231)** This means, as you implement AI coding tools in your process, you also need to put an increased emphasis on testing your code, and for that, we already have a well-established practice, test-driven development.
+> **[3:51](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=231)** This means, as you implement AI coding tools in your process, you also need to put an increased emphasis on testing your code, and for that, we already have a well-established practice, [[Test-Driven Development]].
 >
 > **[4:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/hallucinations-errors-and-how-to-address-them?u=76281980&t=245)** We'll look at this in more detail in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), prompt (4), [[Tokens]] (2), data (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Version Control]] (1), [[JavaScript]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** ide (2)
@@ -2054,12 +2029,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and the renewed importance of tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980)
+#### [AI and the renewed importance of tests](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980&t=0)** - Test-driven development or TDD for short is a tried and true software development methodology that is heavily used in some circles and hardly ever used in others.
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980&t=0)** - [[Test-Driven Development]] or TDD for short is a tried and true [[Software Development]] methodology that is heavily used in some circles and hardly ever used in others.
 >
 > **[0:11](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980&t=11)** With the introduction of AI coding tools, TDD has become easier and more important than ever.
 >
@@ -2087,31 +2061,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Test-Driven Development]] (4), [[Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (4), [[Software Development]] (1)
 > **Env Vars:** tdd (4)
 > **CLI Commands:** make (2), rails (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - test (1)
 
-#### Writing tests with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980)
+#### [Writing tests with AI](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=0)** - [Instructor] Let's start by doing this backwards.
 >
-> **[0:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=2)** I already have a React component built out, and now I need to build tests to make sure my React component is working properly.
+> **[0:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=2)** I already have a [[React.js|React]] component built out, and now I need to build tests to make sure my React component is working properly.
 >
 > **[0:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=8)** This is something that happens to me all the time because I tend to forget to write tests as I'm building things.
 >
-> **[0:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=14)** And for whatever reason, my brain does not want to do test-driven development, so I often ignore it.
+> **[0:14](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=14)** And for whatever reason, my brain does not want to do [[Test-Driven Development]], so I often ignore it.
 >
 > **[0:20](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=20)** Now, in the past, this was a huge pain because writing tests can be really frustrating, but once you have code, it's easy to get an AI coding tool to write the tests for you.
 >
 > **[0:31](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=31)** And all you have to do is make sure those tests actually make sense to your code.
 >
-> **[0:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=35)** So here's how that's done using ChatGPT.
+> **[0:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=35)** So here's how that's done using [[ChatGPT]].
 >
 > **[0:37](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=37)** I'll start by grabbing the entire component, all its code.
 >
@@ -2161,7 +2134,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=179)** Then run the tests.
 >
-> **[3:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=181)** Then do some continuous integration if you want to.
+> **[3:01](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=181)** Then do some [[Continuous Integration (CI)|continuous integration]] if you want to.
 >
 > **[3:04](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/writing-tests-with-ai?u=76281980&t=184)** And then verify the output.
 >
@@ -2169,15 +2142,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[ChatGPT]] (3), [[Test-Driven Development]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[ChatGPT]] (3), [[Test-Driven Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** install (1), set up (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting AI to set up your test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980)
+#### [Getting AI to set up your test environment](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2195,7 +2167,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=35)** I'll show you what I mean right here.
 >
-> **[0:38](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=38)** This project uses React, TypeScript and Vite, so that means there's a lot of different pieces moving within the project.
+> **[0:38](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=38)** This project uses [[React.js|React]], TypeScript and Vite, so that means there's a lot of different pieces moving within the project.
 >
 > **[0:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=46)** Now I want to build a test for this component here, and to do that I'll open up my chat and say, "Help me build a test "for this component."
 >
@@ -2333,7 +2305,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=358)** So I think we need to install this one here.
 >
-> **[6:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=363)** So I'll say NPM install.
+> **[6:03](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=363)** So I'll say [[npm]] install.
 >
 > **[6:09](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=369)** Okay, and then we can try to run the test again and see what happens.
 >
@@ -2439,7 +2411,7 @@ created: 2026-05-02
 >
 > **[9:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=542)** So that means I might be using the wrong library.
 >
-> **[9:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=545)** So let's go back and give Copilot this error.
+> **[9:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=545)** So let's go back and give [[Microsoft Copilot|Copilot]] this error.
 >
 > **[9:11](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/getting-ai-to-set-up-your-test-environment?u=76281980&t=551)** It's saying, oh, I'm missing a piece.
 >
@@ -2467,7 +2439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), dom (5), [[React.js|React]] (3), next (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[npm]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **Prerequisites:** set up (13), install (5), setup (1)
 > **File Paths:** vitest.config.ts (3), vitest.config (3), test.ts (3), tests.ts (2), chatarea.test.tsx (1)
 > **CLI Commands:** make (3), find (2), npm (2), npx (1)
@@ -2476,12 +2448,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (2)
 > **Definitions:** is a  (2)
 
-#### Effective TDD with modern AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980)
+#### [Effective TDD with modern AI tools](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=0)** - [Instructor] All right, at this point our testing environment is working out properly and that means we can start testing out test-driven development using AI.
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=0)** - [Instructor] All right, at this point our testing environment is working out properly and that means we can start testing out [[Test-Driven Development]] using AI.
 >
 > **[0:08](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=8)** What I want to do is create a new component that displays a weather card similar to what we saw previously in the Claude Artifacts example.
 >
@@ -2489,7 +2460,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=39)** And I'll say, "Start by generating the tests."
 >
-> **[0:47](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=47)** What happens now is the AI notices, "Oh, you used the word test, so I want to run a test."
+> **[0:47](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=47)** What happens now is the AI notices, "Oh, you used the [[Microsoft Word|word]] test, so I want to run a test."
 >
 > **[0:53](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=53)** And then it says, "In the workspace, used /tests," meaning it's trying to run tests, but, "To generate tests, open a file and select code to test."
 >
@@ -2541,7 +2512,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=174)** I wonder if that's because I said NPX.
 >
-> **[2:56](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=176)** Let's quit this and say npm vitest instead and see if that's better.
+> **[2:56](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=176)** Let's quit this and say [[npm]] vitest instead and see if that's better.
 >
 > **[3:02](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=182)** Nope.
 >
@@ -2553,7 +2524,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=202)** Let's take a look at our test code.
 >
-> **[3:26](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=206)** So here we have React, React, render, screen, testing-library, and WeatherCard.
+> **[3:26](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=206)** So here we have [[React.js|React]], React, render, screen, testing-library, and WeatherCard.
 >
 > **[3:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/effective-tdd-with-modern-ai-tools?u=76281980&t=215)** So, oh, I think it's this one here that's the problem, so let's take that out, save, run the test again.
 >
@@ -2579,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Test-Driven Development]] (2), [[React.js|React]] (2), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[React.js|React]] (2), [[Microsoft Word|Word]] (1), [[npm]] (1)
 > **CLI Commands:** make (2), npx (1), npm (1)
 > **File Paths:** weathercard.test.js (1), weathercard.tsx (1)
 > **Env Vars:** tdd (1), npx (1)
@@ -2588,12 +2559,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Analogies:** similar to (1)
 
-#### The challenges of AI-powered TDD
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980)
+#### [The challenges of AI-powered TDD](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=0)** - Now that you've seen how AI can help with test-driven development, let me highlight the main challenges you'll encounter with this approach.
+> **[0:00](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=0)** - Now that you've seen how AI can help with [[Test-Driven Development]], let me highlight the main challenges you'll encounter with this approach.
 >
 > **[0:07](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=7)** First, if you're using AI coding tools to create tests either before you write your code or after the code is written, make sure the test actually tests something meaningful.
 >
@@ -2627,13 +2597,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=151)** And finally, remember the purpose of test-driven development.
 >
-> **[2:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=155)** When TDD is done right, it makes software development easier and prevents accidental problems from occurring.
+> **[2:35](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=155)** When TDD is done right, it makes [[Software Development]] easier and prevents accidental problems from occurring.
 >
 > **[2:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=162)** My go-to example for this is always name fields.
 >
 > **[2:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=166)** When creating a name input, it's vital to remember people's names come in all shapes and sizes and not all names use the same sets of symbols.
 >
-> **[2:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=175)** My name for example, often gets refused by online forms either because it's too long or because I have a hyphen in my last name or something else.
+> **[2:55](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=175)** My name for example, often gets refused by online [[Forms]] either because it's too long or because I have a hyphen in my last name or something else.
 >
 > **[3:05](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/the-challenges-of-ai-powered-tdd?u=76281980&t=185)** I have friends whose names include the Scandinavian letters Å, Ä, and Ö that are not supported by most name fields.
 >
@@ -2645,7 +2615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Test-Driven Development]] (2), application (1), prompt (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Software Development]] (1), [[Forms]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** tdd (2)
 > **Cross-References:** coming up (1), earlier in (1)
@@ -2658,8 +2628,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding bias in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980)
+#### [Understanding bias in LLMs](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2701,7 +2670,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=149)** And third, if you're going to experiment with something that you know might not work or falls outside the scope of your project, do it in a separate chat.
 >
-> **[2:37](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=157)** When I'm working in a project in GitHub, Copilot, or in Cursor, and I come across a weird problem or have an idea I want to test, I bring that problem over into ChatGPT immediately.
+> **[2:37](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=157)** When I'm working in a project in [[GitHub]], [[Microsoft Copilot|Copilot]], or in Cursor, and I come across a weird problem or have an idea I want to test, I bring that problem over into [[ChatGPT]] immediately.
 >
 > **[2:49](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980&t=169)** That way the chat is independent of the project and does not clutter up the AI context memory.
 >
@@ -2709,15 +2678,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), prompt (2), generic (2), data (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1), rails (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
 > **Speakers:** - language (1)
 
-#### Detecting amplified old patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980)
+#### [Detecting amplified old patterns](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2725,7 +2693,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=16)** That said, you can usually spot at least the most egregious examples of the AI amplifying older patterns by comparing the code the AI is outputting with, for example, the boilerplate code that comes from the application framework you're using.
 >
-> **[0:30](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=30)** One very obvious example of this is anytime you ask an AI tool to generate a React component, it always starts with import React from React.
+> **[0:30](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=30)** One very obvious example of this is anytime you ask an AI tool to generate a [[React.js|React]] component, it always starts with import React from React.
 >
 > **[0:40](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=40)** Now this is not necessary.
 >
@@ -2761,7 +2729,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=138)** And the way you do that is you copy it out and you go onto the internet.
 >
-> **[2:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=142)** The easiest thing to do is just to type it in to a search bar on, for example, Google and see what it says.
+> **[2:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=142)** The easiest thing to do is just to type it in to a search bar on, for example, [[Google]] and see what it says.
 >
 > **[2:27](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/detecting-amplified-old-patterns?u=76281980&t=147)** And the very first suggestion you get is JSX element deprecated.
 >
@@ -2787,7 +2755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[React.js|React]] (8), application (2), [[Search]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8), [[Google]] (1)
 > **Env Vars:** jsx (3)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -2796,8 +2764,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Exercise Files:** boilerplate (1)
 
-#### Coaching the AI to use modern standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/coaching-the-ai-to-use-modern-standards?u=76281980)
+#### [Coaching the AI to use modern standards](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/coaching-the-ai-to-use-modern-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2815,7 +2782,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/coaching-the-ai-to-use-modern-standards?u=76281980&t=44)** Let's see what the system says.
 >
-> **[0:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/coaching-the-ai-to-use-modern-standards?u=76281980&t=46)** So the plan is to replace JSX.Element with React.FC, but React.FC is also not recommended.
+> **[0:46](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/coaching-the-ai-to-use-modern-standards?u=76281980&t=46)** So the plan is to replace JSX.Element with [[React.js|React]].FC, but React.FC is also not recommended.
 >
 > **[0:54](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/coaching-the-ai-to-use-modern-standards?u=76281980&t=54)** So I'll say React.FC is also not recommended, suggest alternatives.
 >
@@ -2851,15 +2818,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), ai (4), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6)
 > **Env Vars:** jsx (5), dsx (1)
 > **Best Practices:** recommended (4)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documentation-driven AI assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-ai-assistance?u=76281980)
+#### [Documentation-driven AI assistance](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-ai-assistance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2873,7 +2839,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-ai-assistance?u=76281980&t=42)** To do that, you use what we talked about in an earlier chapter, documentation driven development, and to do that here, I'm going to clear out my chat, then go over to a webpage where I found an explanation for what's going on.
 >
-> **[0:56](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-ai-assistance?u=76281980&t=56)** So here we have a quick explanation, JSX.Element and React.ReactElement are functionally the same type, et cetera, et cetera, et cetera.
+> **[0:56](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-ai-assistance?u=76281980&t=56)** So here we have a quick explanation, JSX.Element and [[React.js|React]].ReactElement are functionally the same type, et cetera, et cetera, et cetera.
 >
 > **[1:04](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/documentation-driven-ai-assistance?u=76281980&t=64)** So I'm just going to copy some of this.
 >
@@ -2911,7 +2877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), ai (3)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Env Vars:** jsx (4)
 > **Cross-References:** previous video (2), as you saw (1), we talked about (1)
 > **CLI Commands:** find (2)
@@ -2920,8 +2886,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging pattern matching to push forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/leveraging-pattern-matching-to-push-forward?u=76281980)
+#### [Leveraging pattern matching to push forward](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/leveraging-pattern-matching-to-push-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2931,7 +2896,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/leveraging-pattern-matching-to-push-forward?u=76281980&t=18)** So I have these two files, LocationInput and WeatherCard.
 >
-> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/leveraging-pattern-matching-to-push-forward?u=76281980&t=22)** And in both cases, AI used this React.FC call here.
+> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/leveraging-pattern-matching-to-push-forward?u=76281980&t=22)** And in both cases, AI used this [[React.js|React]].FC call here.
 >
 > **[0:28](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/leveraging-pattern-matching-to-push-forward?u=76281980&t=28)** And I want it to stop doing this every time I create a new component.
 >
@@ -3003,7 +2968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[React.js|React]] (5), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** tsx (1)
@@ -3015,8 +2980,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upskilling is the new skill
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980)
+#### [Upskilling is the new skill](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3026,7 +2990,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980&t=10)** Authoritative sources with comprehensive documentation and code example, and a skilled and knowledgeable human developer to oversee the quality of the work and make sure the project is meeting its goals.
 >
-> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980&t=22)** In other words, the core elements of good software development remain the same even as the tools change and evolve.
+> **[0:22](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980&t=22)** In other words, the core elements of good [[Software Development]] remain the same even as the tools change and evolve.
 >
 > **[0:29](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980&t=29)** As you start working with AI coding tools, invest the time.
 >
@@ -3052,7 +3016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Software Development]] (1), data (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)

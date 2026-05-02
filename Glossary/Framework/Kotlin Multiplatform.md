@@ -26,13 +26,13 @@ created: 2026-05-02
 
 ## Courses
 
-1. [[Kotlin Multiplatform Development]] — 100 mentions
+1. [[Kotlin Multiplatform Development]] — 101 mentions
 2. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 8 mentions
 3. [[iOS 17 Development Essential Training]] — 1 mentions
 
 ## Learning Paths
 
-1. [[Kotlin Professional Certificate by JetBrains]] — 108 total mentions
+1. [[Kotlin Professional Certificate by JetBrains]] — 109 total mentions
 2. [[Get Started with iOS App Development]] — 1 total mentions
 
 ---

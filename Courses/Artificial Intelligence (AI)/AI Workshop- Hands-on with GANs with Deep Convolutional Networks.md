@@ -85,18 +85,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick overview of GANs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980)
+#### [A quick overview of GANs](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=0)** Hi, and welcome to this AI Workshop: Hands-On with GANs, that is Generative Adversarial Networks, Using Deep Convolutional Networks.
+> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=0)** Hi, and welcome to this AI Workshop: Hands-On with GANs, that is [[Generative Adversarial Networks (GANs)|Generative Adversarial Networks]], Using Deep Convolutional Networks.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=10)** Now, I'll do a quick overview of how generative adversarial networks work, but I'll make an assumption here that you have some basic understanding of GANs.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=18)** Now, generative adversarial networks belong to a class of machine learning models known as generative models.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=26)** A generative model trains on a large corpus of data, and it learns the probability distribution and features of that data, and can use this information to generate new data instances that do not belong to the training set.
+> **[0:26](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=26)** A generative model trains on a large corpus of data, and it learns the [[Probability]] distribution and features of that data, and can use this information to generate new data instances that do not belong to the training set.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=41)** These are entirely unique instances.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=47)** A generative adversarial network is one kind of generative model.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=51)** The term adversarial comes from the fact that a GAN has two neural network components within it, and these two neural networks compete with one another to become better at what they do, more accurate in their predictions.
+> **[0:51](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=51)** The term adversarial comes from the fact that a GAN has two neural network components within it, and these two [[Neural Networks]] compete with one another to become better at what they do, more accurate in their predictions.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=65)** The two networks are essentially playing a zero-sum game.
 >
@@ -136,7 +135,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=175)** Hopefully, you're already familiar with the basics of GANs from the previous AI Workshop: Hands-on with GANs Using Dense Neural Networks.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=184)** In this workshop, we'll work with convolutional neural networks.
+> **[3:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=184)** In this workshop, we'll work with [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 >
 > **[3:08](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980&t=188)** Convolutional neural networks, or CNNs, are a neural network architecture that is primarily used for image recognition and processing tasks.
 >
@@ -154,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Neural Networks]] (3), ai (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Probability]] (1)
 > **Env Vars:** gan (5), cnn (1), dcgan (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1)
@@ -165,8 +164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course outline and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980)
+#### [Course outline and prerequisites](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=10)** Now, I make the assumption that you have some basic knowledge of how GANs work.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=15)** So we'll start this workshop off by understanding how convolutional neural networks work.
+> **[0:15](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=15)** So we'll start this workshop off by understanding how [[Convolutional Neural Networks (CNN)|convolutional neural networks]] work.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=20)** We'll then understand the role of convolutional layers and pooling layers in a convolutional neural network.
 >
@@ -184,11 +182,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=45)** Here are some of the prereqs that you need to get the most out of this workshop.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=49)** You need to be comfortable programming in Python because we'll be writing all of our code in Python.
+> **[0:49](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=49)** You need to be comfortable programming in [[Python (Programming Language)|Python]] because we'll be writing all of our code in Python.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=54)** You need to be familiar with neural networks and how they work.
+> **[0:54](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=54)** You need to be familiar with [[Neural Networks]] and how they work.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=57)** This is not a basic neural network course, and you should be comfortable using the PyTorch framework to build and train neural networks.
+> **[0:57](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=57)** This is not a basic neural network course, and you should be comfortable using the [[PyTorch]] framework to build and train neural networks.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980&t=65)** I also assume that you know the fundamentals of how GANs are built and trained.
 >
@@ -198,20 +196,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[PyTorch]] (1), ai (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Python (Programming Language)|Python]] (2), [[PyTorch]] (1)
 > **CLI Commands:** make (2), python (2)
 > **Env Vars:** gan (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you need to have (1)
 
-#### Setting up Google Colab cloud-hosted notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980)
+#### [Setting up Google Colab cloud-hosted notebooks](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=0)** In this movie, we'll set up the environment that we'll be using to run the demos of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=6)** Now, all of the neural network training that we're going to be doing, we'll do on Google Colab.
+> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=6)** Now, all of the neural network training that we're going to be doing, we'll do on [[Google]] Colab.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=11)** So head over to colab..research.[google.com](https://google.com).
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=20)** Google Colab is short for Google Co-laboratory.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=24)** It's a free, cloud-based platform provided by Google that allows users to run and execute Python code in a web-based interactive environment.
+> **[0:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=24)** It's a free, cloud-based platform provided by Google that allows users to run and execute [[Python (Programming Language)|Python]] code in a web-based interactive environment.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=33)** Colab is based on Jupyter Notebooks, which are essentially interactive documents that combine code, text, and visualizations.
 >
@@ -231,11 +228,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=50)** Why is Colab special?
 >
-> **[0:51](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=51)** Well, Colab provides free access to GPUs, that is, graphics processing units and TPUs, tensor processing units, which are hardware accelerators used for training deep learning models.
+> **[0:51](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=51)** Well, Colab provides free access to GPUs, that is, graphics processing units and TPUs, tensor processing units, which are [[Hardware]] accelerators used for training [[Deep Learning]] models.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=64)** Access to these GPUs and TPUs are absolutely free on Colab, so long as you're within a certain limit, and we'll definitely not be exceeding those limits when we are doing the demos of this course.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=77)** Because we are going to be training deep convolutional generative adversarial networks that train on multi-channel or color images, well, we could do with a GPU.
+> **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=77)** Because we are going to be training deep convolutional [[Generative Adversarial Networks (GANs)|generative adversarial networks]] that train on multi-channel or color images, well, we could do with a GPU.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-google-colab-cloud-hosted-notebooks?u=76281980&t=87)** This code is going to run really slowly on our local machine.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), cloud (5), [[Python (Programming Language)|Python]] (2), [[Hardware]] (2), web (1)
+> **Frameworks & Libraries:** [[Google]] (9), [[Python (Programming Language)|Python]] (2), [[Hardware]] (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Tools:** colab (13), jupyter (3)
 > **Env Vars:** gpu (2), cpu (2), gan (1)
 > **UI Navigation:** select the (2), click on (1), right-click (1)
@@ -302,14 +299,13 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Versions:** python 3 (1)
 
-#### Understanding convolutional neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980)
+#### [Understanding convolutional neural networks](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=0)** Let's get a big picture understanding of how convolutional neural networks or CNNs work.
+> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=0)** Let's get a big picture understanding of how [[Convolutional Neural Networks (CNN)|convolutional neural networks]] or CNNs work.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=6)** CNNs are a class of deep learning models primarily used for computer vision tasks.
+> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=6)** CNNs are a class of [[Deep Learning]] models primarily used for [[Computer Vision]] tasks.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=12)** They are designed to automatically and adaptively learn hierarchical features from input images, making them well-suited to tasks such as image classification and object detection.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=33)** CNN are able to extract data from images in two dimensions, so they also get the spatial information present in an image.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=42)** Dense neural networks with fully connected layers can also be made to work with images.
+> **[0:42](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=42)** Dense [[Neural Networks]] with fully connected layers can also be made to work with images.
 >
 > **[0:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-convolutional-neural-networks?u=76281980&t=48)** Essentially, you flatten the image data that you will feed into a dense neural network.
 >
@@ -419,17 +415,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), feature (8), [[Neural Networks]] (4), cnn (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (3)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (3), [[Deep Learning]] (1), [[Computer Vision]] (1)
 > **Definitions:** refers to (5), is a  (1)
 > **Env Vars:** cnn (3)
 > **Analogies:** picture (1), such as (1)
 
-#### Transforming a multichannel image to tensor
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980)
+#### [Transforming a multichannel image to tensor](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=0)** You know that convolutional neural networks are made up of two types of layers; convolutional layers and pooling layers.
+> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=0)** You know that [[Convolutional Neural Networks (CNN)|convolutional neural networks]] are made up of two types of layers; convolutional layers and pooling layers.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=6)** Convolutional layers have a kernel that slides over the image input to that layer, and this kernel extracts features from the underlying image, and different kernels extract different kinds of features.
 >
@@ -439,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=33)** Let's set up the imports for some of the libraries that we'll be using.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=37)** We are using the PyTorch framework to train our neural network model, so the first four imports you see are all for libraries in PyTorch.
+> **[0:37](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=37)** We are using the [[PyTorch]] framework to train our neural network model, so the first four imports you see are all for libraries in PyTorch.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=46)** Notice I didn't have to install these libraries.
 >
@@ -457,7 +452,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=87)** Now with that done, let's go ahead and read in the car.jpeg file that's in my current working directory, and I read this in using the image object from the pillow library.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=100)** Neural networks operate on images represented as tensors.
+> **[1:40](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=100)** [[Neural Networks]] operate on images represented as tensors.
 >
 > **[1:43](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/transforming-multichannel-image-to-tensor?u=76281980&t=103)** This image is not in the tensor format, and we'll need to convert that to a tensor format.
 >
@@ -509,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (9), [[Neural Networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), functional (1), data (1)
+> **Frameworks & Libraries:** [[PyTorch]] (9), [[Neural Networks]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (2), refers to (2)
 > **Code Identifiers:** img_tensor (2)
 > **Env Vars:** rgb (2)
@@ -517,8 +512,7 @@ created: 2026-05-02
 > **Versions:** 2.0.1 (1)
 > **Tools:** colab (1)
 
-#### Applying convolutional and pooling layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980)
+#### [Applying convolutional and pooling layers](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=71)** I've called the resulting tensor the sharpen_filter because it performs a filtering operation on the underlying image, and you can see the dimensions of the sharpen_filter.
 >
-> **[1:21](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=81)** The F.conv2d function in PyTorch accepts custom filters that you can apply to images.
+> **[1:21](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=81)** The F.conv2d function in [[PyTorch]] accepts custom filters that you can apply to images.
 >
 > **[1:28](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=88)** We pass in the images of 4D tensor, we pass in our filter.
 >
@@ -608,17 +602,16 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=228)** And you can see the slight aggregation of the image, it's slightly blurred as compared to the previous image that was the output of the convolutional layer.
 >
-> **[3:57](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=237)** And this is how convolutional and pooling layers work, the building blocks of convolutional neural networks.
+> **[3:57](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/applying-convolutional-and-pooling-layers?u=76281980&t=237)** And this is how convolutional and pooling layers work, the building blocks of [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (3), [[PyTorch]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Code Identifiers:** sharpen_filter (2)
 > **Analogies:** for example (1)
 
-#### Viewing the effect of different filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/viewing-the-effect-of-different-filters?u=76281980)
+#### [Viewing the effect of different filters](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/viewing-the-effect-of-different-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,7 +717,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), next (2)
 > **Code Identifiers:** apply_kernel_and_show (1), img_tensor (1), vertical_edge_kernel (1)
 > **Analogies:** similar to (2)
 > **Definitions:** is a  (1)
@@ -734,8 +726,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of convolutional layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/types-of-convolutional-layers?u=76281980)
+#### [Types of convolutional layers](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/types-of-convolutional-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,11 +796,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), data (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 
-#### Training data for discriminator bad fakes and real images
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980)
+#### [Training data for discriminator bad fakes and real images](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +810,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=21)** Once we see how the discriminator works standalone, we'll see the discriminator and the generator work together in a generative adversarial network.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=30)** The data that I'm going to be using to train my discriminator is stored here on Google Drive.
+> **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=30)** The data that I'm going to be using to train my discriminator is stored here on [[Google Drive]].
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=36)** Within Google Drive, I have a folder called ai_workshop_dcgans.
 >
@@ -863,7 +852,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=150)** Our discriminator is going to have no trouble at all telling apart the fake images from the real anime faces in the dataset.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=158)** And that's what we'll observe first. We'll be training our discriminator in Google Colab.
+> **[2:38](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=158)** And that's what we'll observe first. We'll be training our discriminator in [[Google]] Colab.
 >
 > **[2:44](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=164)** So let's get set up with a Colab notebook.
 >
@@ -875,7 +864,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=187)** This is freely available for you to use, provided you don't go beyond a certain limit.
 >
-> **[3:12](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=192)** Now in Google Colab, PyTorch is installed by default.
+> **[3:12](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=192)** Now in Google Colab, [[PyTorch]] is installed by default.
 >
 > **[3:16](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-bad-fakes-and-real-images?u=76281980&t=196)** Let's import all of the PyTorch libraries that we'll be using to train our discriminator.
 >
@@ -901,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (7), [[Google]] (5), data (4), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Google Drive]] (7), [[Google]] (5), [[PyTorch]] (2)
 > **Code Identifiers:** bad_fake_images (3), real_images (2), ai_workshop_dcgans (1), anime_classification (1), bad_fake (1)
 > **Env Vars:** gan (6), gpu (2)
 > **Tools:** colab (7)
@@ -910,14 +899,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 
-#### Loading and transforming training image data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980)
+#### [Loading and transforming training image data](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=0)** In this movie, we'll load in and take a look at the data that we are going to be using to train the discriminator.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=7)** We've already mounted Google Drive that contains our training data to this notebook.
+> **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=7)** We've already mounted [[Google Drive]] that contains our training data to this notebook.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=11)** The next step is to indicate what device we are going to be using for training.
 >
@@ -971,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=157)** Next, let's set up the data loaders for the training and test data.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=162)** Data loaders in PyTorch allow us to iterate over the training and test data in batches.
+> **[2:42](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=162)** Data loaders in [[PyTorch]] allow us to iterate over the training and test data in batches.
 >
 > **[2:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=168)** Note that I've set shuffle = true in the train data loader, so the training data will be shuffled when we train the model.
 >
@@ -1005,7 +993,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=245)** PyTorch accepts a number of channels first, then height and width.
 >
-> **[4:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=249)** The rest of the code in the function is to just convert the image to a NumPy array and display it using matplotlib.
+> **[4:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=249)** The [[Representational State Transfer (REST)|rest]] of the code in the function is to just convert the image to a NumPy array and display it using matplotlib.
 >
 > **[4:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/loading-and-transforming-training-image-data?u=76281980&t=257)** and then on line 13, I invoke the display function by invoking make_grid on a batch of images.
 >
@@ -1023,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), next (5), [[PyTorch]] (4), [[Google Drive]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (4), [[Google Drive]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** make_grid (2), ai_workshop_dcgans (1), anime_classification (1), bad_fake_images (1), real_images (1)
 > **Env Vars:** gpu (2), cpu (1), cuda (1), rgb (1)
 > **Versions:** 0.5 (5)
@@ -1031,8 +1019,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1), is called (1)
 > **Warnings:** note that (1)
 
-#### Understanding the discriminator architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980)
+#### [Understanding the discriminator architecture](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,7 +1033,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=26)** The discriminator will not be using any pooling layers.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=30)** The implementation of the discriminator is taken from this PyTorch DCGANs Tutorial.
+> **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=30)** The implementation of the discriminator is taken from this [[PyTorch]] DCGANs Tutorial.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=36)** We'll be using the same architecture for the discriminator as in this tutorial, which in turn has been inspired from the original DCGANs paper.
 >
@@ -1132,7 +1119,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=363)** This is not followed by a batch normalization layer as per the original paper.
 >
-> **[6:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=369)** The out_channels here is equal to one because the classifier produces a single output, a probability score indicating whether the input image was real or fake.
+> **[6:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=369)** The out_channels here is equal to one because the classifier produces a single output, a [[Probability]] score indicating whether the input image was real or fake.
 >
 > **[6:20](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/understanding-the-discriminator-architecture?u=76281980&t=380)** Observe the Sigmoid activation at the final layer of the discriminator.
 >
@@ -1152,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[Probability]] (3), [[PyTorch]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[PyTorch]] (1)
 > **Code Identifiers:** out_channels (4), weights_init (2), in_channels (2)
 > **Prerequisites:** set up (4), initialization (1)
 > **Env Vars:** gan (2), gpu (1)
@@ -1161,8 +1148,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
 
-#### Training a discriminator on bad fakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-bad-fakes?u=76281980)
+#### [Training a discriminator on bad fakes](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-bad-fakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-bad-fakes?u=76281980&t=4)** The loss function that we'll use is the BCELoss or the Binary Cross Entropy loss.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-bad-fakes?u=76281980&t=10)** The BCELoss is a loss function that measures the difference between two probability distributions. In the context of binary classification, the two probability distributions are the predicted probabilities of the positive class and the negative class, as compared with the actual labels in the data.
+> **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-bad-fakes?u=76281980&t=10)** The BCELoss is a loss function that measures the difference between two [[Probability]] distributions. In the context of binary classification, the two probability distributions are the predicted probabilities of the positive class and the negative class, as compared with the actual labels in the data.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-bad-fakes?u=76281980&t=27)** Next, we use the Adam optimizer to train the discriminator.
 >
@@ -1288,15 +1274,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Probability]] (4), next (4)
+> **Frameworks & Libraries:** [[Probability]] (4)
 > **Env Vars:** gan (4), gpu (3)
 > **Code Identifiers:** correct_pred (2), total_pred (2), zero_grad (1), no_grad (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
 > **Definitions:** is a  (2)
 
-#### Training data for discriminator good fakes and real images
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-good-fakes-and-real-images?u=76281980)
+#### [Training data for discriminator good fakes and real images](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-good-fakes-and-real-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-good-fakes-and-real-images?u=76281980&t=9)** I've called them good_fake_images.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-good-fakes-and-real-images?u=76281980&t=11)** Here I am in the same Google Drive folder as before, My Drive, ai_workshop_dcgans, anime_classification.
+> **[0:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-good-fakes-and-real-images?u=76281980&t=11)** Here I am in the same [[Google Drive]] folder as before, My Drive, ai_workshop_dcgans, anime_classification.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-data-for-discriminator-good-fakes-and-real-images?u=76281980&t=18)** I have two sets of images here.
 >
@@ -1368,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Google Drive]] (2)
+> **Frameworks & Libraries:** [[Google Drive]] (2)
 > **Code Identifiers:** good_fake_images (4), ai_workshop_dcgans (1), anime_classification (1), make_grid (1)
 > **Env Vars:** gan (2), gpu (2)
 > **CLI Commands:** find (2), make (1)
@@ -1377,8 +1362,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Training a discriminator on good fakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-good-fakes?u=76281980)
+#### [Training a discriminator on good fakes](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/training-a-discriminator-on-good-fakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1470,7 +1454,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), feature (1)
 > **Code Identifiers:** all_predictions (4), all_labels (3)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** make (4)
@@ -1483,8 +1466,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generator and discriminator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980)
+#### [Generator and discriminator](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,7 +1488,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980&t=65)** Now the discriminator has to identify what images are real and what images are fake.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980&t=71)** It needs to output a probability score for each image, indicating whether it's real or fake.
+> **[1:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980&t=71)** It needs to output a [[Probability]] score for each image, indicating whether it's real or fake.
 >
 > **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980&t=77)** Essentially, the role of the discriminator is just that of a traditional classification model; identify real and fake images and categorize them as such.
 >
@@ -1514,13 +1496,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Env Vars:** gan (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 
-#### Deep convolutional GANs (DCGANs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980)
+#### [Deep convolutional GANs (DCGANs)](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,9 +1515,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=34)** They use the same principle as GANs, the generator and discriminator as adversaries.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=40)** The only difference is in the architecture for the neural networks that we use for the generator and the discriminator.
+> **[0:40](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=40)** The only difference is in the architecture for the [[Neural Networks]] that we use for the generator and the discriminator.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=47)** Both neural networks are architecturally constrained convolutional neural networks.
+> **[0:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=47)** Both neural networks are architecturally constrained [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 >
 > **[0:53](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=53)** The constraints introduced in these architectures help the CNN be more stable during the training process of the GAN.
 >
@@ -1612,18 +1593,17 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=354)** The architecture for the discriminator is a mirror image of that for the generator.
 >
-> **[5:59](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=359)** The discriminator takes in a multi-channel image at the input, it downsamples the input using strided convolutional layers till finally it produces a single output, the probability score of whether the input image was real.
+> **[5:59](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/deep-convolutional-gans-dcgans?u=76281980&t=359)** The discriminator takes in a multi-channel image at the input, it downsamples the input using strided convolutional layers till finally it produces a single output, the [[Probability]] score of whether the input image was real.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cnn (3), feature (3), data (2), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Probability]] (1)
 > **Env Vars:** gan (9), cnn (3)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1), initialization (1)
 > **URLs:** [arxive.org](https://arxive.org) (1)
 
-#### Setting up data for GAN training
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980)
+#### [Setting up data for GAN training](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1611,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=8)** Let me show you the data that we are working with.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=10)** Here I am in my ai_workshop_dcgans folder on Google Drive.
+> **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=10)** Here I am in my ai_workshop_dcgans folder on [[Google Drive]].
 >
 > **[0:15](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=15)** This is right under the home directory, My Drive, and I'm within the anime_classification subfolder.
 >
@@ -1647,7 +1627,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=46)** Make sure you have the selection on in your notebook before you run any code.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=51)** With that done, let's set up the imports for all of the PyTorch libraries that we'll be using.
+> **[0:51](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=51)** With that done, let's set up the imports for all of the [[PyTorch]] libraries that we'll be using.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=56)** You're familiar with most of the libraries here.
 >
@@ -1661,7 +1641,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=76)** You're familiar with this code.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=77)** You'll have to authenticate yourself with your Google account in order to be able to mount Drive.
+> **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=77)** You'll have to authenticate yourself with your [[Google]] account in order to be able to mount Drive.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-data-for-gan-training?u=76281980&t=84)** Once Drive is mounted, we'll need to extract the zip files to access the images training data, and you can do this using the unzip command.
 >
@@ -1725,7 +1705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Google Drive]] (3), [[PyTorch]] (1), [[Google]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Google Drive]] (3), [[PyTorch]] (1), [[Google]] (1)
 > **Env Vars:** gpu (3), gan (2), cpu (1), cuda (1)
 > **Code Identifiers:** ai_workshop_dcgans (1), anime_classification (1), anime_images (1), anime_faces_dataset (1), drop_last (1)
 > **Prerequisites:** set up (2), make sure you have (1), setup (1), before we start (1)
@@ -1734,12 +1714,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Tools:** colab (1)
 
-#### Setting up the generator and discriminator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980)
+#### [Setting up the generator and discriminator](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=1)** We'll now define the neural networks that make up the generator and the discriminator.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=1)** We'll now define the [[Neural Networks]] that make up the generator and the discriminator.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=5)** But before that, here is the weights_init function that we've seen earlier.
 >
@@ -1777,7 +1756,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=112)** Since we have a GPU, the device is cuda.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=116)** The GAN structure that we'll use for both the generator architecture and the discriminator architecture is from this PyTorch tutorial here at this link.
+> **[1:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=116)** The GAN structure that we'll use for both the generator architecture and the discriminator architecture is from this [[PyTorch]] tutorial here at this link.
 >
 > **[2:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=126)** And this tutorial is basically inspired from the GAN network used in the original deep convolutional GAN paper.
 >
@@ -1851,13 +1830,13 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=354)** Notice the strided convolutional layers with LeakyReLU activation and batch normalization.
 >
-> **[6:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=360)** The discriminator is the same discriminator that we've used before, and the output of the discriminator is a probability score indicating whether this is a real image or a fake one.
+> **[6:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=360)** The discriminator is the same discriminator that we've used before, and the output of the discriminator is a [[Probability]] score indicating whether this is a real image or a fake one.
 >
 > **[6:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-generator-and-discriminator?u=76281980&t=371)** I'll now instantiate the discriminator and initialize the weights of the discriminator as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (2), [[Neural Networks]] (1), data (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[PyTorch]] (1), [[Probability]] (1)
 > **Code Identifiers:** out_channels (6), in_channels (4), weights_init (2)
 > **Env Vars:** gan (4), gpu (3), cuda (1), cpu (1)
 > **Prerequisites:** set up (3), initialization (1)
@@ -1866,8 +1845,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 
-#### Output from an untrained generator and discriminator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/ouput-from-an-untrained-generator-and-discriminator?u=76281980)
+#### [Output from an untrained generator and discriminator](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/ouput-from-an-untrained-generator-and-discriminator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1921,7 +1899,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/ouput-from-an-untrained-generator-and-discriminator?u=76281980&t=119)** I'll just display the first 10 predictions here.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/ouput-from-an-untrained-generator-and-discriminator?u=76281980&t=122)** Remember, the predictions are in the form of probability scores.
+> **[2:02](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/ouput-from-an-untrained-generator-and-discriminator?u=76281980&t=122)** Remember, the predictions are in the form of [[Probability]] scores.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/ouput-from-an-untrained-generator-and-discriminator?u=76281980&t=127)** For an untrained discriminator, all of the prediction probabilities that you see here are close to 0.5.
 >
@@ -1934,8 +1912,7 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Prerequisites:** set up (1)
 
-#### Setting up the GAN training loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-gan-training-loop?u=76281980)
+#### [Setting up the GAN training loop](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-gan-training-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1947,7 +1924,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-gan-training-loop?u=76281980&t=19)** The loss function that we'll use is the binary cross entropy loss function, which will essentially mimic the minimax loss used to train a generative adversarial network.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-gan-training-loop?u=76281980&t=30)** We'll set up the loss functions in such a way that the discriminator will maximize the probability of classifying real images as real and fake images as fake, whereas the generator will maximize the probability of having the discriminator classify fake images as real.
+> **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-gan-training-loop?u=76281980&t=30)** We'll set up the loss functions in such a way that the discriminator will maximize the [[Probability]] of classifying real images as real and fake images as fake, whereas the generator will maximize the probability of having the discriminator classify fake images as real.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/setting-up-the-gan-training-loop?u=76281980&t=45)** I've initialized a batch of 64 fixed noise latent variables.
 >
@@ -2057,14 +2034,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (4), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Prerequisites:** set up (7)
 > **Code Identifiers:** real_score_list (1), fake_score_list (1), optimizerd (1), optimizerg (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gan (2)
 
-#### Viewing GAN training results
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/viewing-gan-training-results?u=76281980)
+#### [Viewing GAN training results](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/viewing-gan-training-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2170,7 +2146,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Versions:** 0.412 (1), 7.63 (1), 0.523 (1), 7.788 (1), 0.619 (1)
 > **Env Vars:** gan (4), gpu (1)
 > **Warnings:** keep in mind (2)
@@ -2181,8 +2156,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,15 +2164,15 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=2)** Let's take a quick look at what we covered here in this AI workshop.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=7)** We first understood how convolutional neural networks work, and we understood the working of the convolutional layer and the pooling layer.
+> **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=7)** We first understood how [[Convolutional Neural Networks (CNN)|convolutional neural networks]] work, and we understood the working of the convolutional layer and the pooling layer.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=15)** We then saw how we could use the discriminator as a classification model.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=20)** And then we put everything together and we built and trained the GAN using a deep convolutional network.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=27)** If generative AI is something that you're interested in, here is another course on LinkedIn that you might find interesting.
+> **[0:27](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=27)** If [[Generative AI]] is something that you're interested in, here is another course on [[LinkedIn]] that you might find interesting.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=33)** [[Generative AI- Working with Large Language Models]].
+> **[0:33](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=33)** [[Generative AI- Working with [[Large Language Models (LLM)|Large Language Models]]]].
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980&t=36)** Well, it's time for me to say goodbye.
 >
@@ -2208,7 +2182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), ai (1), [[LinkedIn]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gan (1)
 > **Cross-References:** we covered (1)

@@ -93,18 +93,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on Attention-based neural networks.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on Attention-based [[Neural Networks]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=5)** This is an introductory course on Attention-based models.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=8)** There are definitely some prereqs that you need to have to make the most of your learning.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=13)** This is definitely not a beginner deep learning course.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=13)** This is definitely not a beginner [[Deep Learning]] course.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=17)** Now, here is what I expect that you already know.
 >
@@ -114,18 +113,17 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=32)** It would also help for you to have some understanding of transfer learning using pre-trained models, specifically image classification models, because you'll be using those in our hands-on demos.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=44)** Now, as far as the demos are concerned, I hope you're comfortable programming in Python and you're comfortable building and training neural networks using the PyTorch framework.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980&t=44)** Now, as far as the demos are concerned, I hope you're comfortable programming in [[Python (Programming Language)|Python]] and you're comfortable building and training neural networks using the [[PyTorch]] framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Deep Learning]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), [[PyTorch]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are attention-based models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/what-are-attention-based-models?u=76281980)
+#### [What are attention-based models?](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/what-are-attention-based-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/what-are-attention-based-models?u=76281980&t=89)** And this, of course, made your task a lot easier.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/what-are-attention-based-models?u=76281980&t=92)** It's pretty clear that by allowing you to zoom in and focus attention on parts of the text, helped us improve the result that you produced.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/what-are-attention-based-models?u=76281980&t=92)** It's pretty clear that by allowing you to [[Zoom]] in and focus attention on parts of the text, helped us improve the result that you produced.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/what-are-attention-based-models?u=76281980&t=103)** Now, let's try this once again this time for an image.
 >
@@ -211,12 +209,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Attention in language generation and translation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980)
+#### [Attention in language generation and translation models](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=1)** - [Instructor] You now have a big picture, into the understanding of how attention may help you produce better results in neural networks.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=1)** - [Instructor] You now have a big picture, into the understanding of how attention may help you produce better results in [[Neural Networks]].
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=9)** Now, let's get a little more detail and talk about attention in language generation and translation models because this is where they're most widely used.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=43)** Let's dig a little deeper and see how language translation models are set up.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=48)** Language translation models operate on words one word at a time.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=48)** Language translation models operate on words one [[Microsoft Word|word]] at a time.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-in-language-generation-and-translation-models?u=76281980&t=54)** These models are sequence to sequence models.
 >
@@ -282,12 +279,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Feed forward networks and their limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980)
+#### [Feed forward networks and their limitations](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=1)** - The use of attention is widely prevalent in language generation or language translation models and these tend to be recurrent neural networks.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=1)** - The use of attention is widely prevalent in language generation or language translation models and these tend to be recurrent [[Neural Networks]].
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=10)** So, before you can understand attention based models, it's important that you understand how recurrent neural networks work.
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=247)** The order of the words change the meaning of the words.
 >
-> **[4:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=250)** If you think of autocomplete models, autocomplete models use the order of words that have been seen so far to predict the next word in the sequence.
+> **[4:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=250)** If you think of autocomplete models, autocomplete models use the order of words that have been seen so far to predict the next [[Microsoft Word|word]] in the sequence.
 >
 > **[4:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980&t=259)** Another example of sequential data is historical stock price data.
 >
@@ -393,19 +389,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Neural Networks]] (10), next (3), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (10), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### Recurrent neural networks for sequential data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/recurrent-neural-networks-for-sequential-data?u=76281980)
+#### [Recurrent neural networks for sequential data](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/recurrent-neural-networks-for-sequential-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/recurrent-neural-networks-for-sequential-data?u=76281980&t=1)** - [Instructor] If feedforward neural networks don't let you cope with sequential data, what do you do?
+> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/recurrent-neural-networks-for-sequential-data?u=76281980&t=1)** - [Instructor] If feedforward [[Neural Networks]] don't let you cope with sequential data, what do you do?
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/recurrent-neural-networks-for-sequential-data?u=76281980&t=6)** Well, you use recurrent neural networks whose very structure is meant for working with sequences.
 >
@@ -507,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), [[Neural Networks]] (3)
+> **Frameworks & Libraries:** [[Neural Networks]] (3)
 > **Env Vars:** rnn (3)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2)
@@ -516,14 +511,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The need for long memory cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980)
+#### [The need for long memory cells](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=1)** - RNN memory cells have a hidden state that allow the cell to remember the past.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=6)** However, the memory capacity of such a cell is not very big which is why, in order to get the best results from our recurrent neural networks, we need to use long memory cells.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=6)** However, the memory capacity of such a cell is not very big which is why, in order to get the best results from our recurrent [[Neural Networks]], we need to use long memory cells.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=18)** Now, the regular recurrent cell suffers from what we call short-term memory.
 >
@@ -581,7 +575,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=211)** Well, for a short sentence, it's super easy.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=215)** Finding the important word is simple when the sequence is short.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=215)** Finding the important [[Microsoft Word|word]] is simple when the sequence is short.
 >
 > **[3:39](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-need-for-long-memory-cells?u=76281980&t=219)** Your RNN, while processing this text one word at a time, just needs to look back a little way into the text to find the right word to determine the sentiment of this text.
 >
@@ -603,14 +597,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Microsoft Word|Word]] (5), next (1), data (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Microsoft Word|Word]] (5)
 > **Env Vars:** rnn (10), lstm (1), gru (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - rnn (1)
 
-#### LSTM and GRU cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/lstm-and-gru-cells?u=76281980)
+#### [LSTM and GRU cells](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/lstm-and-gru-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/lstm-and-gru-cells?u=76281980&t=85)** The information available to the LSTM cell at any point in time is processed using a number of different gates.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/lstm-and-gru-cells?u=76281980&t=92)** Each of these gates can be thought of as neural networks of their own.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/lstm-and-gru-cells?u=76281980&t=92)** Each of these gates can be thought of as [[Neural Networks]] of their own.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/lstm-and-gru-cells?u=76281980&t=96)** Each gate plays a different role in helping the cell figure out what information to remember and what to forget.
 >
@@ -710,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Env Vars:** lstm (14), gru (8), rns (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Analogies:** for example (1), similar to (1)
@@ -719,12 +712,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of RRNNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980)
+#### [Types of RRNNS](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=1)** - [Instructor] Now that we've understood recurrent neural networks, we are closer to discussing attention based models, but there are a few details to cover before that.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=1)** - [Instructor] Now that we've understood recurrent [[Neural Networks]], we are closer to discussing attention based models, but there are a few details to cover before that.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=8)** The first of these are the different types of RNN's, now, RNN's can be categorized based on whether they accept vectors or sequences as input and whether they generate vectors or sequences as output.
 >
@@ -734,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=53)** Vector in Sequence out, these are RNNs, this is where you start with a single input and generate a sequence.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=61)** An example of a Vector in Sequence out model is a text generation model, a text generation model, you might feed in the first word of a sentence and get the remaining words of the sequence.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=61)** An example of a Vector in Sequence out model is a text generation model, a text generation model, you might feed in the first [[Microsoft Word|word]] of a sentence and get the remaining words of the sequence.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/types-of-rrnns?u=76281980&t=73)** So this is the vector input, exactly one word that is the start of a sentence, the vector input is used to generate the next word in the sequence, the next word is then fed in as an input for the next layer, which generates the third word which is then fed into the next layer which generates the fourth word till we get a sequence at the output.
 >
@@ -764,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (5), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Neural Networks]] (1)
 > **Env Vars:** rnn (9)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -775,8 +767,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Language generation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980)
+#### [Language generation models](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=24)** The output is a sequence of words.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=27)** The word that is generated at some time instance t-1 is fed as an input to get the next word in the sequence at time t.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=27)** The [[Microsoft Word|word]] that is generated at some time instance t-1 is fed as an input to get the next word in the sequence at time t.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=36)** You'll find that this is a pretty standard set up for any language generation model.
 >
@@ -802,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=56)** Now, this is an unrolled RNN where we are feeding in different words as input at different time instances.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=65)** Neural networks only understand numeric input, which means your input words have to be converted to numeric form.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=65)** [[Neural Networks]] only understand numeric input, which means your input words have to be converted to numeric form.
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=72)** And the most common representation for input words is one-hot encoding.
 >
@@ -828,7 +819,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=148)** Because of the sequential nature of sentences and the feeding of this hidden state from one layer to the other, the output at each time step depends on all of the words that have been seen so far in the input sequence.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=162)** What the RNN outputs at every time step, that is any Y that you see here in this diagram, is actually a probability distribution over all of the words in the output vocabulary.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=162)** What the RNN outputs at every time step, that is any Y that you see here in this diagram, is actually a [[Probability]] distribution over all of the words in the output vocabulary.
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980&t=175)** And this probability distribution gives us the likelihood of what the next predicted word might be.
 >
@@ -868,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (22), next (11), [[Probability]] (8), data (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (22), [[Probability]] (8), [[Neural Networks]] (1)
 > **Env Vars:** rnn (10)
 > **Definitions:** is a  (5), is an  (2)
 > **CLI Commands:** find (1)
@@ -877,8 +868,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequence to sequence models for language translation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980)
+#### [Sequence to sequence models for language translation](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,9 +900,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=60)** Now the job of the encoder is to read in the sentence in the source language and capture the entire sentence in the form of a representation, so the end coder learns a representation of the input.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=75)** Let's zoom into the encoder RNN here.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=75)** Let's [[Zoom]] into the encoder RNN here.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=78)** Because it's a recurrent neural network, and it's operating on the sequence, a single word from the source language is fed in at each time instance.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=78)** Because it's a recurrent neural network, and it's operating on the sequence, a single [[Microsoft Word|word]] from the source language is fed in at each time instance.
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=87)** This is the sequence of the input sentence fed into the encoder recurrent neural network.
 >
@@ -950,7 +940,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=235)** As we discussed in the previous video when we spoke of language generation models, the output at each time instance is not a word.
 >
-> **[4:03](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=243)** It's actually a probability distribution over all the words in the target vocabulary.
+> **[4:03](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=243)** It's actually a [[Probability]] distribution over all the words in the target vocabulary.
 >
 > **[4:09](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/sequence-to-sequence-models-for-language-translation?u=76281980&t=249)** In order to train this encoder decoder network, we compute the loss using a loss function such as the cross entropy loss that we compute the divergence between the actual word in the training data and the word generated by our model.
 >
@@ -958,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (2), [[Zoom]] (1), [[Probability]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Zoom]] (1), [[Probability]] (1)
 > **Env Vars:** rnn (6)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** such as (2), picture (1)
@@ -970,8 +960,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role of attention in sequence to sequence models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980)
+#### [The role of attention in sequence to sequence models](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,7 +988,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980&t=75)** Well, that will cause an information overload in the hidden state.
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980&t=79)** If you have very long sentences for translation, the word generated in the target language might reference something very far back in time in the source language.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980&t=79)** If you have very long sentences for translation, the [[Microsoft Word|word]] generated in the target language might reference something very far back in time in the source language.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980&t=92)** The question then is will the hidden state remember the beginning of the original sentence in order to provide the right translation at the end of the output sentence?
 >
@@ -1066,8 +1055,7 @@ created: 2026-05-02
 > **Env Vars:** rnn (1)
 > **Speakers:** - attention (1)
 
-#### Attention mechanism in sequence to sequence models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-mechanism-in-sequence-to-sequence-models?u=76281980)
+#### [Attention mechanism in sequence to sequence models](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-mechanism-in-sequence-to-sequence-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1141,7 +1129,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-mechanism-in-sequence-to-sequence-models?u=76281980&t=235)** The hidden state of the previous decoder layer, that is St-1.
 >
-> **[4:00](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-mechanism-in-sequence-to-sequence-models?u=76281980&t=240)** The word that was generated in the previous time instance, that is yt-11.
+> **[4:00](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-mechanism-in-sequence-to-sequence-models?u=76281980&t=240)** The [[Microsoft Word|word]] that was generated in the previous time instance, that is yt-11.
 >
 > **[4:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-mechanism-in-sequence-to-sequence-models?u=76281980&t=246)** And then we have this additional context vector Ct, which tells that decoder layer what portions of the input to pay attention to at this time step.
 >
@@ -1189,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** rnn (4)
 > **Definitions:** is a  (2), is an  (1), refers to (1)
 > **Code Identifiers:** ht (2), hj (1)
@@ -1197,8 +1185,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alignment weights in attention models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/alignment-weights-in-attention-models?u=76281980)
+#### [Alignment weights in attention models](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/alignment-weights-in-attention-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1207,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/alignment-weights-in-attention-models?u=76281980&t=77)** The actual weights assigned to each input in the sequence are computed using the soft max function.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/alignment-weights-in-attention-models?u=76281980&t=86)** The output of the soft max layer is a probability distribution, which gives us the importance of each input state.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/alignment-weights-in-attention-models?u=76281980&t=86)** The output of the soft max layer is a [[Probability]] distribution, which gives us the importance of each input state.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/alignment-weights-in-attention-models?u=76281980&t=94)** Inputs that have higher probabilities at a certain time instance are more relevant to the output that is to be produced at that time instance.
 >
@@ -1234,12 +1221,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Bahdanau attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980)
+#### [Bahdanau attention](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1281,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=130)** Once we have the raw scores from our additive model, we can pass these raw scores through a soft max function to get alignment weights in terms of probabilities.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=141)** These probability weights are the attention weights.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=141)** These [[Probability]] weights are the attention weights.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=145)** Soft max generates the probabilities representing the weights associated with each input in the input sequence.
 >
@@ -1307,17 +1293,16 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=186)** So, for every layer of the decoder RNN, we feed in the decoder hidden state from the previous layer, the context vector at this current time instance, and the decoder output of the previous layer.
 >
-> **[3:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=199)** The decoder output of the previous layer is the last word generated in the sequence which is now used to generate the next word.
+> **[3:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/bahdanau-attention?u=76281980&t=199)** The decoder output of the previous layer is the last [[Microsoft Word|word]] generated in the sequence which is now used to generate the next word.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Probability]] (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 > **Env Vars:** rnn (1)
 > **Speakers:** - [narrator] (1)
 
-#### Attention models for image captioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-models-for-image-captioning?u=76281980)
+#### [Attention models for image captioning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-models-for-image-captioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,7 +1318,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-models-for-image-captioning?u=76281980&t=33)** You're actually focusing attention across a two dimensional representation, the image.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-models-for-image-captioning?u=76281980&t=38)** Also, we generate embeddings or representations of images using convolution neural networks.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-models-for-image-captioning?u=76281980&t=38)** Also, we generate embeddings or representations of images using convolution [[Neural Networks]].
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/attention-models-for-image-captioning?u=76281980&t=45)** So, we pass an image through a CNN, and we get a representation of the image at the output of the CNN.
 >
@@ -1385,13 +1370,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (10), cnn (4), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Env Vars:** cnn (4)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Speakers:** - now (1)
 
-#### Encoder decoder structure for image captioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/encoder-decoder-structure-for-image-captioning?u=76281980)
+#### [Encoder decoder structure for image captioning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/encoder-decoder-structure-for-image-captioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,7 +1441,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/encoder-decoder-structure-for-image-captioning?u=76281980&t=182)** Captions will be represented using one hot encodings, which are then converted to embeddings.
 >
-> **[3:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/encoder-decoder-structure-for-image-captioning?u=76281980&t=190)** So the embedding at time instance T is the word from the caption fed into the decoder network at time instance T.
+> **[3:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/encoder-decoder-structure-for-image-captioning?u=76281980&t=190)** So the embedding at time instance T is the [[Microsoft Word|word]] from the caption fed into the decoder network at time instance T.
 >
 > **[3:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/encoder-decoder-structure-for-image-captioning?u=76281980&t=199)** The context vector from the attention model will be concatenated with the embedding at time instance T, and that will be the input to our decoder RNN.
 >
@@ -1467,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (10), data (2), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), stands for (1)
 > **Env Vars:** rnn (1)
 > **Analogies:** picture (1)
@@ -1479,14 +1463,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Colab and Google Drive
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980)
+#### [Setting up Colab and Google Drive](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=1)** - We'll implement the code for all of the demos in this course using Colab notebooks.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=6)** And we'll have our data set loaded onto Google Drive.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=6)** And we'll have our data set loaded onto [[Google Drive]].
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=9)** So here I am, logged in with my user account on my Google Drive, And I've already uploaded the data set that we are going to be using.
 >
@@ -1538,7 +1521,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=126)** Now that we've seen what the dataset looks like, let's head over to Colab and log ourselves in.
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=131)** Colab is a project made freely available by Google for researchers and students to build and prototype their machine learning models or any kind of Python code, not just ml.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=131)** Colab is a project made freely available by [[Google]] for researchers and students to build and prototype their machine learning models or any kind of [[Python (Programming Language)|Python]] code, not just ml.
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980&t=143)** Colab offers cloud hosted Jupyter Notebooks, which can be run on CPUs or GPUs for absolutely free.
 >
@@ -1582,7 +1565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Google]] (4), [[Google Drive]] (3), [[Python (Programming Language)|Python]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Google Drive]] (3), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (9), jupyter (1)
 > **Env Vars:** gpu (4), jpg (1), cpu (1)
 > **UI Navigation:** click on (3), go to (1), select the (1)
@@ -1591,14 +1574,13 @@ created: 2026-05-02
 > **Code Identifiers:** flickr_dataset (3)
 > **Prerequisites:** set up (3)
 
-#### Loading in the Flickr8k dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980)
+#### [Loading in the Flickr8k dataset](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=1)** - We have CoLab set up.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=2)** We have our dataset uploaded to Google Drive.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=2)** We have our dataset uploaded to [[Google Drive]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=4)** We're ready to get started coding.
 >
@@ -1614,9 +1596,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=42)** Now let's set up our import statements.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=45)** You can see that I'm going to be building our neural network using PyTorch.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=45)** You can see that I'm going to be building our neural network using [[PyTorch]].
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=50)** You can see a number of imports for pandas and MAT plot lib.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=50)** You can see a number of imports for [[Pandas (Software)|pandas]] and MAT plot lib.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-in-the-flickr8k-dataset?u=76281980&t=53)** That is to load in, process and visualize our data and then we have all of the Torch related imports.
 >
@@ -1670,7 +1652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Google Drive]] (7), [[Pandas (Software)|Pandas]] (2), next (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (7), [[Pandas (Software)|Pandas]] (2), [[PyTorch]] (1)
 > **CLI Commands:** find (2), unzip (2), ls (1)
 > **Tools:** colab (5)
 > **Prerequisites:** set up (3), you'll need (1)
@@ -1679,8 +1661,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (3)
 > **UI Navigation:** click on (2)
 
-#### Constructing the vocabulary
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980)
+#### [Constructing the vocabulary](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,11 +1681,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=51)** This will allow us to limit our vocabulary to words that occur fairly frequently.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=57)** The counter object here will allow us to keep track of word frequencies in the training data.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=57)** The counter object here will allow us to keep track of [[Microsoft Word|word]] frequencies in the training data.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=62)** Let's see how the tokenizer works.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=64)** I invoke the tokenizer on some text and you can see that word tokens are generated at the output, a list of word tokens that make up the original sentence.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=64)** I invoke the tokenizer on some text and you can see that word [[Tokens]] are generated at the output, a list of word tokens that make up the original sentence.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/constructing-the-vocabulary?u=76281980&t=76)** Observe that some pre-processing has been applied to the word tokens before tokenization.
 >
@@ -1772,7 +1753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), data (9), [[Tokens]] (8), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Tokens]] (8)
 > **Code Identifiers:** unk_token (3), eos_token (3), min_freq (2), is_available (1), image_captions (1)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** rnn (2), gpu (1)
@@ -1780,20 +1761,19 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - now (1)
 
-#### Setting up the dataset class
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980)
+#### [Setting up the dataset class](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=1)** - Now that we've set up our vocabulary, the next step is to set up a dataset object that will allow our training data to access images and the corresponding captions in the right format, in batches.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=13)** Our Flickr dataset class here inherits from the base dataset class in the PyTorch library.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=13)** Our Flickr dataset class here inherits from the base dataset class in the [[PyTorch]] library.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=20)** The init method, we pass in a bunch of information, the directory where our training images are located, the pointer to the captions file, the vocabulary to generate captions, and transformations that we want to apply to the input images.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=35)** Now we assign these to variables of this object.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=40)** We have a pointer to the captions text file, we'll need to extract the contents of the captions file, so, I'm going to read it in as a pandas data frame.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=40)** We have a pointer to the captions text file, we'll need to extract the contents of the captions file, so, I'm going to read it in as a [[Pandas (Software)|pandas]] data frame.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=50)** The length of our training data is equal to the number of captions that we have in the file.
 >
@@ -1811,7 +1791,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=101)** That's where we extracted the image and we call Image.open to load the image into our program.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=108)** Image is a class available in the PIL library, a free open source library for Python.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=108)** Image is a class available in the PIL library, a free open source library for [[Python (Programming Language)|Python]].
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=115)** If you've specified any image transforms, make sure you apply the transformations to the input image.
 >
@@ -1819,7 +1799,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=126)** This tenser will be the captions represented in the form of one-hot encodings.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=133)** In this one-hot encoding, each word will be represented by its corresponding index, and that index represents the position of the one corresponding to that word in a one-hot encoded vector.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=133)** In this one-hot encoding, each [[Microsoft Word|word]] will be represented by its corresponding index, and that index represents the position of the one corresponding to that word in a one-hot encoded vector.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-dataset-class?u=76281980&t=147)** This lambda function converts an input text to a list of indices, where the indices correspond to the words in the caption.
 >
@@ -1833,7 +1813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Microsoft Word|Word]] (2), [[PyTorch]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[PyTorch]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** pil (1), eos (1)
@@ -1841,12 +1821,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Implementing utility functions for training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980)
+#### [Implementing utility functions for training data](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=1)** - [Instructor] Next, I set up a callable class that will be used by the PyTorch data loader to load the image as well as the corresponding caption for that image in batches.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=1)** - [Instructor] Next, I set up a callable class that will be used by the [[PyTorch]] data loader to load the image as well as the corresponding caption for that image in batches.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=12)** The data loader is what our training code is used to iterate over batches of training data.
 >
@@ -1936,7 +1915,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=288)** You can see the token IDs.
 >
-> **[4:49](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=289)** You can see that there are a few unknown words here in the caption text as well, so instead of the actual word, you can see the unknown token, the UNK.
+> **[4:49](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=289)** You can see that there are a few unknown words here in the caption text as well, so instead of the actual [[Microsoft Word|word]], you can see the unknown token, the UNK.
 >
 > **[4:59](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-utility-functions-for-training-data?u=76281980&t=299)** A word is likely to be unknown because it hasn't occurred more than five times in our vocabulary.
 >
@@ -1944,7 +1923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (3), [[PyTorch]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[PyTorch]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2), find (1), cat (1)
 > **Env Vars:** rnn (2), sos (1), unk (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1952,8 +1931,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building the encoder CNN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-encoder-cnn?u=76281980)
+#### [Building the encoder CNN](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-encoder-cnn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2049,14 +2027,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Definitions:** is a  (4), stands for (1), means that (1)
 > **Code Identifiers:** pad_idx (1), embed_size (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building the decoder RNN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-decoder-rnn?u=76281980)
+#### [Building the decoder RNN](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-decoder-rnn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2066,7 +2042,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-decoder-rnn?u=76281980&t=11)** The init method takes in a number of variables as input: The embed_size.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-decoder-rnn?u=76281980&t=16)** That is the size of the embedding for each word in the vocabulary.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-decoder-rnn?u=76281980&t=16)** That is the size of the embedding for each [[Microsoft Word|word]] in the vocabulary.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/building-the-decoder-rnn?u=76281980&t=20)** Hidden_size, the size of the hidden state of the RNN.
 >
@@ -2182,7 +2158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (15), next (5), cnn (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (15)
 > **Env Vars:** lstm (8), rnn (5), eos (2), cnn (1)
 > **Code Identifiers:** embed_size (2), num_layers (1), hidden_size (1), size_hidden (1), generate_captions (1)
 > **Prerequisites:** set up (3)
@@ -2190,8 +2166,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the sequence to sequence model
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980)
+#### [Setting up the sequence to sequence model](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2223,7 +2198,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=69)** The vocab size is the size of the words or the vocabulary in the flicker dataset.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=74)** This includes all the additional tokens, to start of sentence, end of sentence, pad and unknown.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=74)** This includes all the additional [[Tokens]], to start of sentence, end of sentence, pad and unknown.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=79)** We use two layer RNN, so num layers, I have set to 2.
 >
@@ -2237,7 +2212,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=107)** Remember, we want to train this model on the GPU so I call model to device, to place the model parameters on the GPU.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=117)** We'll use the cross entropy loss to compare the probability distribution of the output generated word with the probability distribution of the actual word in the vocabulary.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=117)** We'll use the cross entropy loss to compare the [[Probability]] distribution of the output generated [[Microsoft Word|word]] with the probability distribution of the actual word in the vocabulary.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-the-sequence-to-sequence-model?u=76281980&t=128)** Now, while computing the cross entropy loss we'll ignore all the extra padding that we've given the caption sentences.
 >
@@ -2251,14 +2226,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Probability]] (2), [[Microsoft Word|Word]] (2), data (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft Word|Word]] (2), [[Tokens]] (1)
 > **Env Vars:** rnn (3), gpu (2)
 > **Prerequisites:** set up (2), initialization (1)
 > **Versions:** 0.0001 (1)
 > **Speakers:** - having (1)
 
-#### Training the image captioning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/training-the-image-captioning-model?u=76281980)
+#### [Training the image captioning model](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/training-the-image-captioning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2384,7 +2358,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (2), next (1), cnn (1)
 > **Env Vars:** gpu (2), cnn (1), sos (1), eos (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2)
@@ -2396,8 +2369,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading the dataset and setting up utility functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980)
+#### [Loading the dataset and setting up utility functions](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2409,7 +2381,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=19)** Now, a lot of the code is exactly the same as before, you can see all of the import statements are the same.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=25)** We need to mount our Google Drive folder so that our data set is accessible within this notebook.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=25)** We need to mount our [[Google Drive]] folder so that our data set is accessible within this notebook.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=31)** The code for that is exactly the same.
 >
@@ -2427,7 +2399,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=68)** We'll see how the tokenizer works.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=70)** You can see that it extracts the individual word.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=70)** You can see that it extracts the individual [[Microsoft Word|word]].
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=73)** It also pre-process the words by converting all of the text to lowercase.
 >
@@ -2435,7 +2407,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=82)** We'll use only those words, which have occurred a minimum of five times in the training data frequency equal to five.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=90)** As before, we'll add in the special tokens to our vocabulary, the unknown, add start of sentence and end of sentence token.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=90)** As before, we'll add in the special [[Tokens]] to our vocabulary, the unknown, add start of sentence and end of sentence token.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980&t=98)** We'll insert each of these and we set the default index to the unknown token exactly as we did before.
 >
@@ -2477,14 +2449,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Google Drive]] (2), next (2), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Word|Word]] (1), [[Tokens]] (1)
 > **Env Vars:** sos (1), eos (1)
 > **Exercise Files:** zip file (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### The encoder CNN generating unrolled feature maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-encoder-cnn-generating-unrolled-feature-maps?u=76281980)
+#### [The encoder CNN generating unrolled feature maps](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-encoder-cnn-generating-unrolled-feature-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2558,13 +2529,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (19), cnn (3), data (1)
 > **Env Vars:** cnn (3)
 > **Prerequisites:** initialization (1), set up (1)
 > **Speakers:** - once (1)
 
-#### Implementing Bahdanau attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-bahdanau-attention?u=76281980)
+#### [Implementing Bahdanau attention](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/implementing-bahdanau-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2612,13 +2581,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (1)
 > **Env Vars:** rnn (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - next (1)
 
-#### The decoder RNN using attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980)
+#### [The decoder RNN using attention](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2628,7 +2595,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=11)** While initializing the decoder, you need to specify a number of parameters, the size of the embeddings for the words, the size of the vocabulary, the size of the attention, the size of the hidden state of the encoder and the size of the hidden state of the decoder.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=28)** These will all be inputs to the decoder R and N, and we also have the dropout probability set to 0.3.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=28)** These will all be inputs to the decoder R and N, and we also have the dropout [[Probability]] set to 0.3.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=36)** We'll use dropout in the final linear layer.
 >
@@ -2654,7 +2621,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=98)** And you'll see that in the forward path through our model.
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=102)** The input to the R and N at each time instance is a concatenation of the embedding of the current word in the sequence and the context vector.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=102)** The input to the R and N at each time instance is a concatenation of the embedding of the current [[Microsoft Word|word]] in the sequence and the context vector.
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-decoder-rnn-using-attention?u=76281980&t=113)** So that's why the size of the input is embedding size plus encoding hidden size.
 >
@@ -2728,15 +2695,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Microsoft Word|Word]] (4), [[Probability]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Probability]] (2)
 > **Definitions:** is a  (4)
 > **Env Vars:** lstm (1), sos (1)
 > **Versions:** 0.3 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating captions using attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/generating-captions-using-attention?u=76281980)
+#### [Generating captions using attention](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/generating-captions-using-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2762,7 +2728,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/generating-captions-using-attention?u=76281980&t=51)** We'll append this attention to the attention weights list so that we have all of the attentions for different time instances at the end of generating this caption.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/generating-captions-using-attention?u=76281980&t=60)** We'll use these attention weights to visualize how our model actually generated each word of X in the image caption.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/generating-captions-using-attention?u=76281980&t=60)** We'll use these attention weights to visualize how our model actually generated each [[Microsoft Word|word]] of X in the image caption.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/generating-captions-using-attention?u=76281980&t=68)** The LSTM input is a concatenation of the current word in the sequence and the current context vector.
 >
@@ -2780,14 +2746,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), cnn (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **Env Vars:** lstm (3), cnn (2), sos (1)
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Training the attention-based image captioning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/training-the-attention-based-image-captioning-model?u=76281980)
+#### [Training the attention-based image captioning model](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/training-the-attention-based-image-captioning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2935,7 +2900,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), feature (2), power (1), hit (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (3)
 > **Env Vars:** gpu (2)
@@ -2944,14 +2908,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [presenter] (1)
 
-#### Visualizing the model's attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/visualizing-the-model-s-attention?u=76281980)
+#### [Visualizing the model's attention](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/visualizing-the-model-s-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/visualizing-the-model-s-attention?u=76281980&t=0)** - [Narrator] Now we'll see something really cool.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/visualizing-the-model-s-attention?u=76281980&t=2)** In our image captioning model, you can actually see what part of the input image our model focuses on while generating a particular word in the caption.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/visualizing-the-model-s-attention?u=76281980&t=2)** In our image captioning model, you can actually see what part of the input image our model focuses on while generating a particular [[Microsoft Word|word]] in the caption.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/visualizing-the-model-s-attention?u=76281980&t=12)** For that, let's set up some utility functions first.
 >
@@ -2993,7 +2956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **CLI Commands:** cat (1)
 > **Env Vars:** lip (1)
 > **UI Navigation:** scroll down (1)
@@ -3006,8 +2969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3029,7 +2991,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=40)** Here is a quick summary of what we covered in this course.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=44)** We understood that we need recurrent neural networks to operate on sequences.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=44)** We understood that we need recurrent [[Neural Networks]] to operate on sequences.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=49)** Recurrent neurons suffer from short term memory which is why we need long memory cells such as the LSTM and GRU.
 >
@@ -3041,7 +3003,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=89)** We implemented image captioning with attention and without attention and compared results.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=95)** If you're interested in deep learning and you want to study further, here are some other resources on LinkedIn Learning that you might find interesting.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=95)** If you're interested in [[Deep Learning]] and you want to study further, here are some other resources on [[LinkedIn]] Learning that you might find interesting.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980&t=102)** Deep learning Image Recognition, Self-supervised Machine Learning, and GANS and Diffusion Models in Machine Learning.
 >

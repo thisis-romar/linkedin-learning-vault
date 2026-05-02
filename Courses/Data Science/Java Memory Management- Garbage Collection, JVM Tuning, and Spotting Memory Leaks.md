@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Java memory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980)
+#### [Java memory management](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,11 +90,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=5)** It also happens to be kind of my passion.
 >
-> **[0:07](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=7)** One of the toughest topics in Java is how the JVM deals with the memory.
+> **[0:07](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=7)** One of the toughest topics in [[Java]] is how the JVM deals with the memory.
 >
 > **[0:11](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=11)** This course helps you to truly understand the Java memory and garbage collection process.
 >
-> **[0:16](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=16)** (indistinct) in on the phrases of garbage collection, the various implementations of the garbage collector, and we'll also zoom in on the different parts of the heap.
+> **[0:16](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=16)** (indistinct) in on the phrases of garbage collection, the various implementations of the garbage collector, and we'll also [[Zoom]] in on the different parts of the heap.
 >
 > **[0:25](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/welcome?u=76281980&t=25)** We'll also dive into the non-heap space.
 >
@@ -119,14 +118,13 @@ created: 2026-05-02
 > **Env Vars:** jvm (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Before we get started to put this next step in memory management, let's first make sure that this is the course for you.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Before we get started to put this next step in [[Memory Management]], let's first make sure that this is the course for you.
 >
-> **[0:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980&t=6)** In order to be able to follow along, you'll have to know the basics of memory management in Java.
+> **[0:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980&t=6)** In order to be able to follow along, you'll have to know the basics of memory management in [[Java]].
 >
 > **[0:12](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-you-need-to-know?u=76281980&t=12)** If you're not familiar with your memory management yet please check out the first part of this series, [[Java Memory Management- Values and References]].
 >
@@ -134,12 +132,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (5), [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (5), [[Java]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the code challenge enviornment
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/explore-the-code-challenge-enviornment?u=76281980)
+#### [Explore the code challenge enviornment](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/explore-the-code-challenge-enviornment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/explore-the-code-challenge-enviornment?u=76281980&t=15)** These challenges are hosted by CoderPad, and they appear in the same area of the course where you watch the course's videos.
 >
-> **[0:22](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/explore-the-code-challenge-enviornment?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/explore-the-code-challenge-enviornment?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/explore-the-code-challenge-enviornment?u=76281980&t=30)** The code challenge has four areas: instructions in the top left, a code editor for your answers in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -204,12 +201,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the garbage collector
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980)
+#### [Introduction to the garbage collector](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980&t=0)** - [Instructor] So we have the stack memory and the heap memory in Java.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980&t=0)** - [Instructor] So we have the stack memory and the heap memory in [[Java]].
 >
 > **[0:04](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/introduction-to-the-garbage-collector?u=76281980&t=4)** On the stack, we store primitive values and references to objects.
 >
@@ -271,15 +267,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), application (3), next (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Env Vars:** jvm (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eligible for garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/eligible-for-garbage-collection?u=76281980)
+#### [Eligible for garbage collection](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/eligible-for-garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/eligible-for-garbage-collection?u=76281980&t=61)** It's up to the JVM to decide when the garbage collection processes will take place.
 >
-> **[1:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/eligible-for-garbage-collection?u=76281980&t=66)** You cannot influence this with the Java code.
+> **[1:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/eligible-for-garbage-collection?u=76281980&t=66)** You cannot influence this with the [[Java]] code.
 >
 > **[1:09](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/eligible-for-garbage-collection?u=76281980&t=69)** You may have seen that you can actually suggest to Java to start a garbage collection with system.gc but it doesn't guarantee anything.
 >
@@ -321,19 +316,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Env Vars:** jvm (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Garbage collection phase: Marking
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-marking?u=76281980)
+#### [Garbage collection phase: Marking](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-marking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-marking?u=76281980&t=0)** - [Narrator] So imagine we're having a heap full of objects that leave out the Java garbage collector for a while here, and try to think like garbage collectors ourselves.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-marking?u=76281980&t=0)** - [Narrator] So imagine we're having a heap full of objects that leave out the [[Java]] garbage collector for a while here, and try to think like garbage collectors ourselves.
 >
 > **[0:09](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-marking?u=76281980&t=9)** So how are we going to find out which objects don't have a connection to the stack?
 >
@@ -385,14 +379,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Garbage collection phase: Sweeping
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-sweeping?u=76281980)
+#### [Garbage collection phase: Sweeping](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-phase-sweeping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -466,14 +459,13 @@ created: 2026-05-02
 > **Env Vars:** jvm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Different generations on the heap
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980)
+#### [Different generations on the heap](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=0)** - [Instructor] Java actually distinguishes different types of heap memory.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=0)** - [Instructor] [[Java]] actually distinguishes different types of heap memory.
 >
-> **[0:04](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=4)** And this is relevant for the garbage collection algorithms Java splits up the heap memory and so it can manage it in a more efficient way.
+> **[0:04](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=4)** And this is relevant for the garbage collection [[Algorithms]] Java splits up the heap memory and so it can manage it in a more efficient way.
 >
 > **[0:11](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=11)** We have the young generation and the old generation on heap.
 >
@@ -535,7 +527,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=195)** So what is this metaspace for this?
 >
-> **[3:18](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=198)** The metaspace is actually storing the classes metadata such as the klass structure, and also the methods of the classes, constants, annotations and all sorts of optimizations are stored.
+> **[3:18](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=198)** The metaspace is actually storing the classes [[Metadata]] such as the klass structure, and also the methods of the classes, constants, annotations and all sorts of optimizations are stored.
 >
 > **[3:29](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-generations-on-the-heap?u=76281980&t=209)** So pretty much anything that's needed for the GVM to work with the Java classes, metadata pretty much.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (8), [[Java]] (6), [[Algorithms]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (8), [[Java]] (6), [[Algorithms]] (1)
 > **Definitions:** means that (3), is called (1), is a  (1)
 > **Env Vars:** gvm (3)
 > **Versions:** java 8 (2)
@@ -604,12 +596,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 
-#### Generational garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/generational-garbage-collection?u=76281980)
+#### [Generational garbage collection](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/generational-garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/generational-garbage-collection?u=76281980&t=0)** - [Instructor] Imagine that you have a Java application running.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/generational-garbage-collection?u=76281980&t=0)** - [Instructor] Imagine that you have a [[Java]] application running.
 >
 > **[0:03](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/generational-garbage-collection?u=76281980&t=3)** In order to mark every live object, you'd have to pause the application completely.
 >
@@ -679,15 +670,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Analogies:** imagine (3), for example (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Different garbage collection implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980)
+#### [Different garbage collection implementations](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -705,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=36)** This garbage collector is running on a single thread and it's stop-the-world implemented.
 >
-> **[0:41](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=41)** Meaning that the rest of the application is frozen until the garbage collection is done doing a full cycle.
+> **[0:41](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=41)** Meaning that the [[Representational State Transfer (REST)|rest]] of the application is frozen until the garbage collection is done doing a full cycle.
 >
 > **[0:46](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=46)** It is fine for small programs, but due to the stop-the-world, it's not what is typically chosen for larger programs.
 >
@@ -759,7 +749,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=215)** The Z garbage collector is the newest kit on a block in this list.
 >
-> **[3:38](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=218)** And it has production in status since Java 15.
+> **[3:38](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=218)** And it has production in status since [[Java]] 15.
 >
 > **[3:41](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=221)** The Z GC performs all the tough garbage collecting work concurrency without pausing for more than 10 milliseconds.
 >
@@ -785,7 +775,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=283)** They run whenever references from the heap is loaded.
 >
-> **[4:46](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=286)** It checks the metadata to make sure that these bits of the reference are based on the result.
+> **[4:46](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=286)** It checks the [[Metadata]] to make sure that these bits of the reference are based on the result.
 >
 > **[4:50](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/different-garbage-collection-implementations?u=76281980&t=290)** It may or may not do some processing before retrieving the result.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (10), application (10), parallel (8), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Analogies:** imagine (2), such as (1)
 > **Env Vars:** gvm (1), cms (1)
@@ -810,8 +800,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/monitoring-garbage-collection?u=76281980)
+#### [Monitoring garbage collection](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/monitoring-garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +886,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (4)
 > **Env Vars:** cpu (2), gvm (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -905,9 +893,9 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### Solution: Eligible for garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/solution-eligible-for-garbage-collection?u=76281980)
+#### [Solution: Eligible for garbage collection](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/solution-eligible-for-garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,12 +925,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is JVM tuning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980)
+#### [What is JVM tuning?](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980&t=0)** - The Java virtual machine, better known as the JVM, can be configured to optimize the performance of the application.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980&t=0)** - The [[Java]] virtual machine, better known as the JVM, can be configured to optimize the performance of the application.
 >
 > **[0:07](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-is-jvm-tuning?u=76281980&t=7)** Why is that you may wonder?
 >
@@ -998,15 +985,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** jvm (11)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - the (1)
 
-#### Getting JVM metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980)
+#### [Getting JVM metrics](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=20)** Profilers really get some insights of what's actually going on inside GVM by showing the GVM metrics.
 >
-> **[0:27](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=27)** It's doing so in monitoring the Java a bite code and it's seeing how it's really operating at the GVM level.
+> **[0:27](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=27)** It's doing so in monitoring the [[Java]] a bite code and it's seeing how it's really operating at the GVM level.
 >
 > **[0:33](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=33)** So for the purpose of this course, we're going to be diving into the first two.
 >
@@ -1032,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=44)** So first of all, jstat what is this?
 >
-> **[0:47](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=47)** Well, it's actually a GVM statistics monitoring tool, jstat.
+> **[0:47](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=47)** Well, it's actually a GVM [[Statistics]] monitoring tool, jstat.
 >
 > **[0:52](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=52)** How to use it?
 >
@@ -1190,11 +1176,11 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=396)** So this is VisualVM and you'll find yourself using this rather often when you want to know what's going on inside your memory real quick.
 >
-> **[6:44](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=404)** So this VisualVM is actually the one that I'm going to be using most for the rest of this chapter because this is going to be serving the purpose of showing you what's happening inside a memory.
+> **[6:44](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/getting-jvm-metrics?u=76281980&t=404)** So this VisualVM is actually the one that I'm going to be using most for the [[Representational State Transfer (REST)|rest]] of this chapter because this is going to be serving the purpose of showing you what's happening inside a memory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Statistics]] (3), next (3), data (3), [[Java]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gvm (7), pid (2), cpu (1)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (3), stands for (1)
@@ -1203,12 +1189,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Heap size and heap dumps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/heap-size-and-heap-dumps?u=76281980)
+#### [Heap size and heap dumps](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/heap-size-and-heap-dumps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/heap-size-and-heap-dumps?u=76281980&t=0)** - [Instructor] The heap size is where the objects of the Java application live there objects and free memory.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/heap-size-and-heap-dumps?u=76281980&t=0)** - [Instructor] The heap size is where the objects of the [[Java]] application live there objects and free memory.
 >
 > **[0:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/heap-size-and-heap-dumps?u=76281980&t=6)** The size of the heap influences garbage collection directly, a smaller heap size means that garbage collection have to take place more often.
 >
@@ -1286,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Java]] (4), next (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Env Vars:** gvm (5), cpu (2), ram (1), xmx (1)
 > **Analogies:** for example (5)
 > **Versions:** 0.0 (1), 0.1 (1), 1.6 (1)
@@ -1295,8 +1280,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 
-#### MetaSpace size
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/metaspace-size?u=76281980)
+#### [MetaSpace size](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/metaspace-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1308,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/metaspace-size?u=76281980&t=57)** Suddenly, maximum size for the metaspace can actually be very critical to your application.
 >
-> **[1:03](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/metaspace-size?u=76281980&t=63)** Migrating from Java 7 to Java 8 really was a disaster because of the changes in the perm gen versus the metaspace, and not setting the maximum size could actually make applications have a very, very heavy memory footprint.
+> **[1:03](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/metaspace-size?u=76281980&t=63)** Migrating from [[Java]] 7 to Java 8 really was a disaster because of the changes in the perm gen versus the metaspace, and not setting the maximum size could actually make applications have a very, very heavy memory footprint.
 >
 > **[1:16](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/metaspace-size?u=76281980&t=76)** Let's move over to IntelliJ and see how to adjust these variables.
 >
@@ -1364,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Java]] (6), next (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Versions:** java 7 (2), java 8 (2)
 > **Analogies:** for example (4)
 > **Tools:** terminal (2), intellij (1)
@@ -1373,8 +1357,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 
-#### Garbage collection tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-tuning?u=76281980)
+#### [Garbage collection tuning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,7 +1469,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-tuning?u=76281980&t=316)** Let's see what happens if we try to use the garbage first garbage collector.
 >
-> **[5:22](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-tuning?u=76281980&t=322)** So I'm going to be updating this to the G1 garbage collector so we don't need to use word here.
+> **[5:22](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-tuning?u=76281980&t=322)** So I'm going to be updating this to the G1 garbage collector so we don't need to use [[Microsoft Word|word]] here.
 >
 > **[5:29](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/garbage-collection-tuning?u=76281980&t=329)** We do need to use word there.
 >
@@ -1508,7 +1491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), parallel (7), concurrent (3), [[Microsoft Word|Word]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** for example (7)
 > **Env Vars:** cpu (1), gvm (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1522,12 +1505,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are memory leaks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980)
+#### [What are memory leaks?](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=0)** - [Instructor] Let's talk about one of the biggest problems that can come from poor memory management, memory leaks.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=0)** - [Instructor] Let's talk about one of the biggest problems that can come from poor [[Memory Management]], memory leaks.
 >
 > **[0:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=6)** Memory leaks are the accumulation of objects on a memory that are actually no longer needed.
 >
@@ -1545,7 +1527,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=39)** Memory leaks are a serious problem.
 >
-> **[0:41](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=41)** Even nowadays, when most applications are developed in a high level language at memory management, for example by the JVM in Java, there are still plenty of opportunities to create memory leaks in your code.
+> **[0:41](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=41)** Even nowadays, when most applications are developed in a high level language at memory management, for example by the JVM in [[Java]], there are still plenty of opportunities to create memory leaks in your code.
 >
 > **[0:53](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/what-are-memory-leaks?u=76281980&t=53)** And this can also happen on super fast servers.
 >
@@ -1569,7 +1551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Memory Management]] (2), cloud (2), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (2), [[Java]] (1)
 > **Env Vars:** jvm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1577,8 +1559,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spotting memory leaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/spotting-memory-leaks?u=76281980)
+#### [Spotting memory leaks](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/spotting-memory-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,7 +1619,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/spotting-memory-leaks?u=76281980&t=103)** Let's go ahead and do exactly that.
 >
-> **[1:46](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/spotting-memory-leaks?u=76281980&t=106)** So I'm going to say java -XX:+HeapDumpOnOutOfMemoryError.
+> **[1:46](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/spotting-memory-leaks?u=76281980&t=106)** So I'm going to say [[Java]] -XX:+HeapDumpOnOutOfMemoryError.
 >
 > **[1:57](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/spotting-memory-leaks?u=76281980&t=117)** All right, and then I also want to specify the path for a heap dump.
 >
@@ -1826,7 +1807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), [[Java]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Env Vars:** cpu (3), gvm (2)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (4)
@@ -1835,8 +1816,7 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Cross-References:** in the next (1)
 
-#### Avoiding and solving memory leaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/avoiding-and-solving-memory-leaks?u=76281980)
+#### [Avoiding and solving memory leaks](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/avoiding-and-solving-memory-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1846,7 +1826,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/avoiding-and-solving-memory-leaks?u=76281980&t=9)** This is really the most important part of solving memory leaks.
 >
-> **[0:13](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/avoiding-and-solving-memory-leaks?u=76281980&t=13)** Next, it's very important to realize how memory leaks are created in Java.
+> **[0:13](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/avoiding-and-solving-memory-leaks?u=76281980&t=13)** Next, it's very important to realize how memory leaks are created in [[Java]].
 >
 > **[0:18](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/avoiding-and-solving-memory-leaks?u=76281980&t=18)** Objects hold unnecessary connections to the stack.
 >
@@ -1918,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (1), database (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (3), for example (1)
 > **Code Identifiers:** hashcode (2)
@@ -1927,8 +1907,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
 
-#### Solution: Finding and fixing a memory leak
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/solution-finding-and-fixing-a-memory-leak?u=76281980)
+#### [Solution: Finding and fixing a memory leak](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/solution-finding-and-fixing-a-memory-leak?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1950,22 +1929,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=0)** - [Maaike] Congrats, you've done it.
 >
-> **[0:02](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=2)** You've worked your way through some rather complex memory management topics.
+> **[0:02](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=2)** You've worked your way through some rather complex [[Memory Management]] topics.
 >
-> **[0:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=6)** Next topics that would be very interesting for you would be logging, but also monitoring and, of course, testing and also other advanced Java topics might be interesting, such as design patterns and concurrency.
+> **[0:06](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=6)** Next topics that would be very interesting for you would be logging, but also monitoring and, of course, testing and also other advanced [[Java]] topics might be interesting, such as [[Design Patterns]] and concurrency.
 >
 > **[0:19](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=19)** Here are some courses that I've selected for you that would be great as a follow-up.
 >
 > **[0:22](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=22)** First of all, the Java Concurrency Troubleshooting: Latency and Throughput, but also the monitoring and logging course, which will tell you more about how to monitor and log an application.
 >
-> **[0:32](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=32)** Also, Parallel and Concurrent Programming with Java would be very interesting.
+> **[0:32](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=32)** Also, Parallel and [[Concurrent Programming]] with Java would be very interesting.
 >
 > **[0:36](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=36)** And, of course, Advanced Java Programming is always a good one to take because it will take your Java skills to the next level.
 >
@@ -1977,13 +1955,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=61)** I'd like to connect with you.
 >
-> **[1:02](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=62)** You can find my LinkedIn profile at this link.
+> **[1:02](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=62)** You can find my [[LinkedIn]] profile at this link.
 >
 > **[1:05](https://www.linkedin.com/learning/java-memory-management-garbage-collection-jvm-tuning-and-spotting-memory-leaks/conclusion?u=76281980&t=65)** Good luck and have fun managing the memory of your Java applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Design Patterns]] (3), next (2), [[Memory Management]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Design Patterns]] (3), [[Memory Management]] (1), [[Concurrent Programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** apache (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [maaike] (1)

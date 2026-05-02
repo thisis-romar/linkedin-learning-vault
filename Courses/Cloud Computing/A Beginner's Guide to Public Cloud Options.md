@@ -98,14 +98,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding public cloud platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980)
+#### [Understanding public cloud platforms](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980&t=0)** - The ability to secure and govern data processes and resources in the cloud has been a challenge for some organizations.
 >
-> **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980&t=7)** Cloud computing has redefined how we consume computing resources.
+> **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980&t=7)** [[Cloud Computing]] has redefined how we consume computing resources.
 >
 > **[0:11](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980&t=11)** Traditional tools and services you would find in a data center are now available on demand and with some guidance, you'll learn to pay for only what you use, cutting major costs.
 >
@@ -119,13 +118,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (2), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,15 +131,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980&t=9)** However, this is an introductory course, so you don't need deep knowledge.
 >
-> **[0:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980&t=15)** It's also good if you are already familiar with more advanced topics, including cloud security.
+> **[0:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980&t=15)** It's also good if you are already familiar with more advanced topics, including [[Cloud Security]].
 >
 > **[0:21](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980&t=21)** However, if those are not on your list of skills, I'll provide enough information in this course to help you keep up.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980&t=28)** If you're not yet comfortable with some of the topics mentioned, I suggest you watch my course on Cloud Computing: Core Concepts available in the library.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/what-you-should-know?u=76281980&t=28)** If you're not yet comfortable with some of the topics mentioned, I suggest you watch my course on [[Cloud Computing]]: Core Concepts available in the library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -150,14 +148,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Private versus public cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980)
+#### [Private versus public cloud](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=0)** - [Instructor] Let's start with the basics, including public and private clouds.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=0)** - [Instructor] Let's start with the basics, including public and [[Private Clouds]].
 >
-> **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=4)** Private clouds are software systems that provide cloud services, such as storage and compute servers, and are private to a specific company.
+> **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=4)** Private clouds are software systems that provide [[Cloud Services]], such as storage and compute servers, and are private to a specific company.
 >
 > **[0:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=14)** For example, a private cloud runs within an enterprise data center.
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=24)** As the name suggests, public clouds are software systems shared with many enterprises.
 >
-> **[0:29](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=29)** Examples of public clouds include Amazon Web Services, or AWS, Microsoft Azure, and Google Cloud Platform.
+> **[0:29](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=29)** Examples of public clouds include [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS, [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=37)** Of course, there are many others as well.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=70)** Public clouds are typically more feature-rich, meaning that they provide many capabilities that can be leveraged on demand.
 >
-> **[1:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=78)** These features include storage, computing, AI, databases, et cetera, which can be accessed for any number of purposes, are available any time for any reason, and can scale to any processing load required of them.
+> **[1:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=78)** These features include storage, computing, AI, [[Databases]], et cetera, which can be accessed for any number of purposes, are available any time for any reason, and can scale to any processing load required of them.
 >
 > **[1:33](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980&t=93)** For now, it's important that you understand the differences.
 >
@@ -189,19 +186,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Private Clouds]] (4), data (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public cloud deployment models
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980)
+#### [Public cloud deployment models](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=0)** - [Instructor] Deployment models are how public and private clouds and other systems are configured to solve specific problems.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=0)** - [Instructor] Deployment models are how public and [[Private Clouds]] and other systems are configured to solve specific problems.
 >
 > **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=7)** Leveraging only a public cloud or only a private cloud is also a deployment model.
 >
@@ -217,34 +213,33 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=54)** Multiclouds leverage more than a single public cloud provider, and can also include private clouds and traditional on-premises systems.
 >
-> **[1:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=64)** Examples of multiclouds are Amazon Web Services and Microsoft Azure, Microsoft Azure Google Cloud Platform and Amazon Web Services.
+> **[1:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=64)** Examples of multiclouds are [[Amazon Web Services (AWS)|Amazon Web Services]] and [[Microsoft Azure]], Microsoft Azure [[Google Cloud Platform (GCP)|Google Cloud Platform]] and Amazon Web Services.
 >
 > **[1:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=74)** Amazon Web Services, Google Cloud Platform, and OpenStack private cloud.
 >
-> **[1:20](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=80)** Google Cloud Platform, Amazon Web Services, and [Salesforce.com](https://Salesforce.com), a software as a service player.
+> **[1:20](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=80)** Google Cloud Platform, Amazon Web Services, and [Salesforce.com](https://Salesforce.com), a [[SaaS|software as a service]] player.
 >
 > **[1:27](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=87)** The common pattern here is that more than just a single public cloud brand is leveraged, and other systems are optional as well.
 >
-> **[1:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=95)** The idea is to provide more choices as to what cloud services to leverage, and better ability to find the best blend of solutions.
+> **[1:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/public-cloud-deployment-models?u=76281980&t=95)** The idea is to provide more choices as to what [[Cloud Services]] to leverage, and better ability to find the best blend of solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Private Clouds]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Microsoft Azure]] (2), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of public clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980)
+#### [Types of public clouds](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=0)** - [Instructor] Beyond public clouds and private clouds are cloud deployment models such as hybrid and multi-cloud deployments.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=0)** - [Instructor] Beyond public clouds and [[Private Clouds]] are cloud deployment models such as hybrid and multi-cloud deployments.
 >
 > **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=6)** There are other types of clouds to consider.
 >
-> **[0:08](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=8)** These include Software as a Service, or SaaS, Platform as a Service, or P-A-A-S or PaaS, and Infrastructure as a Service, or IaaS.
+> **[0:08](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=8)** These include [[SaaS|Software as a Service]], or [[SaaS]], [[PaaS|Platform as a Service]], or P-A-A-S or [[PaaS]], and [[IaaS|Infrastructure as a Service]], or [[IaaS]].
 >
 > **[0:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=18)** Let's take a quick look at these.
 >
@@ -252,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=27)** Thus, instead of focusing on a development platform or providing resources, they focus on providing a set of application services normally delivered through a user interface.
 >
-> **[0:38](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=38)** Chances are that you've leveraged a SaaS cloud today if you've leveraged Google Mail, Microsoft Outlook 365, or any application that you leverage via web browser.
+> **[0:38](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=38)** Chances are that you've leveraged a SaaS cloud today if you've leveraged [[Google]] Mail, [[Microsoft Outlook]] 365, or any application that you leverage via web browser.
 >
 > **[0:48](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=48)** Some of the more popular SaaS systems out there include [salesforce.com](https://salesforce.com), [netsuite.com](https://netsuite.com), and other enterprise systems that are delivered over the open internet.
 >
@@ -270,29 +265,28 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=101)** IaaS, or Infrastructure as a Service cloud, basically provides resources such as storage and computing that you would normally find in a traditional data center.
 >
-> **[1:51](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=111)** These resources are leveraged on-demand, and thus you're able to allocate and configure storage, compute databases and AI to allow you to build and deploy any number of solutions that you may need.
+> **[1:51](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=111)** These resources are leveraged on-demand, and thus you're able to allocate and configure storage, compute [[Databases]] and AI to allow you to build and deploy any number of solutions that you may need.
 >
-> **[2:03](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=123)** IaaS clouds are the fastest growing of the cloud types, and have major brands such as Amazon Web Services, Microsoft, and Google.
+> **[2:03](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=123)** IaaS clouds are the fastest growing of the cloud types, and have major brands such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]], and Google.
 >
 > **[2:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-public-clouds?u=76281980&t=132)** We'll cover each cloud type in more detail in the following videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[PaaS]] (5), [[IaaS]] (5), [[SaaS]] (4), application (3)
+> **Frameworks & Libraries:** [[PaaS]] (5), [[IaaS]] (5), [[SaaS]] (4), [[Google]] (3), [[SaaS|Software as a service]] (2)
 > **Analogies:** such as (3)
 > **URLs:** [salesforce.com](https://salesforce.com) (1), [netsuite.com](https://netsuite.com) (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software as a Service (SaaS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980)
+#### [Software as a Service (SaaS)](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=0)** - [Instructor] So, what is a SaaS cloud?
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=0)** - [Instructor] So, what is a [[SaaS]] cloud?
 >
-> **[0:02](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=2)** SaaS, or Software as a Service, is a delivery model in cloud computing in which applications are hosted by a third party provider and made available to customers over the internet.
+> **[0:02](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=2)** SaaS, or [[SaaS|Software as a Service]], is a delivery model in [[Cloud Computing]] in which applications are hosted by a third party provider and made available to customers over the internet.
 >
 > **[0:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=12)** This model eliminates the need for organizations to install and run applications on their own computers.
 >
@@ -300,69 +294,68 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=30)** SaaS clouds are so common that chances are, you've used them several times today without even thinking about it.
 >
-> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=37)** SaaS clouds are provided using subscriptions or pay per use model and provide almost unlimited scalability.
+> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=37)** SaaS clouds are provided using subscriptions or pay per use model and provide almost unlimited [[Scalability]].
 >
 > **[0:44](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=44)** Thus, enterprises find them easy to use since they're only paying for what they need.
 >
 > **[0:49](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=49)** As businesses scales up and add users, the cost goes up as well.
 >
-> **[0:53](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=53)** This is an advantage compared to traditional applications where the hardware needs to be purchased ahead of time, since SaaS avoids the capital expense of purchasing your own hardware and software.
+> **[0:53](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=53)** This is an advantage compared to traditional applications where the [[Hardware]] needs to be purchased ahead of time, since SaaS avoids the capital expense of purchasing your own hardware and software.
 >
 > **[1:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=64)** Examples of SaaS include [salesforce.com](https://salesforce.com), a customer relationship management SaaS provider.
 >
 > **[1:10](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=70)** FreshBooks is an accounting application delivered as a SaaS cloud.
 >
-> **[1:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=74)** Microsoft 365, productivity application including word processors, email, spreadsheets, et cetera.
+> **[1:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=74)** [[Microsoft 365]], productivity application including [[Microsoft Word|word]] processors, email, spreadsheets, et cetera.
 >
-> **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=82)** Many others including bail bonds management, supply chain management, online betting, et cetera.
+> **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=82)** Many others including bail bonds management, [[Supply Chain Management]], online betting, et cetera.
 >
 > **[1:27](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=87)** Pretty much anything that can be an application can be delivered as a SaaS cloud as well.
 >
-> **[1:33](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=93)** Next, we'll look a little closer at paas clouds, so stay tuned.
+> **[1:33](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/software-as-a-service-saas?u=76281980&t=93)** Next, we'll look a little closer at [[PaaS]] clouds, so stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SaaS]] (10), cloud (5), application (3), [[Hardware]] (2), management (2)
+> **Frameworks & Libraries:** [[SaaS]] (10), [[Cloud Computing]] (2), [[Hardware]] (2), [[SaaS|Software as a service]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** find (1)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Platform as a Service (PaaS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980)
+#### [Platform as a Service (PaaS)](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=0)** - [Instructor] Let's talk a little bit about PaaS.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=0)** - [Instructor] Let's talk a little bit about [[PaaS]].
 >
-> **[0:02](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=2)** PaaS, or platform as a service, is a cloud computing model that provides customers with a platform for developing, running, and managing applications without the complexity of building and maintaining the infrastructure normally needed for developing and launching an application or an app.
+> **[0:02](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=2)** PaaS, or [[PaaS|platform as a service]], is a [[Cloud Computing]] model that provides customers with a platform for developing, running, and managing applications without the complexity of building and maintaining the infrastructure normally needed for developing and launching an application or an app.
 >
 > **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=19)** PaaS offers development tools, libraries, and languages supported by the service provider, enabling developers to create applications.
 >
 > **[0:26](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=26)** Also, PaaS handles the middleware, allowing developers to focus only on the business logic and design of their applications.
 >
-> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=35)** Finally, PaaS offers built in scalability features that manage the scaling of the applications according to demand.
+> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=35)** Finally, PaaS offers built in [[Scalability]] features that manage the scaling of the applications according to demand.
 >
-> **[0:42](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=42)** PaaS is best summarized as a turnkey application development and deployment system delivered as a service in a public cloud.
+> **[0:42](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=42)** PaaS is best summarized as a turnkey [[Application Development]] and deployment system delivered as a service in a public cloud.
 >
 > **[0:50](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=50)** Here are a few examples of PaaS Cloud providers.
 >
-> **[0:53](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=53)** Heroku supports several programming languages, including Ruby, Java, PHP, and Node.js.
+> **[0:53](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=53)** Heroku supports several programming languages, including Ruby, [[Java]], [[PHP]], and [[Node.js]].
 >
 > **[1:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=60)** It abstracts or separates much of the infrastructure management tasks from its users.
 >
-> **[1:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=65)** IBM Cloud provides IBM Foundry and Open Source cloud-based platform as a service or PaaS that supports multiple programming languages and services and integrates DevOps to automate application development and scaling.
+> **[1:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=65)** IBM Cloud provides IBM Foundry and Open Source cloud-based platform as a service or PaaS that supports multiple programming languages and services and integrates [[DevOps]] to automate application development and scaling.
 >
 > **[1:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=79)** Oracle provides Oracle application container cloud service, which offers a lightweight infrastructure for building and deploying containerized applications.
 >
-> **[1:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=88)** One confusing aspect of PaaS is that most of the IaaS providers will cover next, also provide PaaS capabilities.
+> **[1:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=88)** One confusing aspect of PaaS is that most of the [[IaaS]] providers will cover next, also provide PaaS capabilities.
 >
 > **[1:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=95)** Examples are Oracle and IBM, which we discussed previously.
 >
-> **[1:40](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=100)** However, this list also includes Microsoft Azure, which started as a PaaS and then added IaaS features and AWS, which started as an IaaS cloud and then added PaaS features.
+> **[1:40](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=100)** However, this list also includes [[Microsoft Azure]], which started as a PaaS and then added IaaS features and AWS, which started as an IaaS cloud and then added PaaS features.
 >
-> **[1:52](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=112)** This can be a bit confusing considering that a single public cloud brand can provide IaaS, SaaS, and PaaS capabilities.
+> **[1:52](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=112)** This can be a bit confusing considering that a single public cloud brand can provide IaaS, [[SaaS]], and PaaS capabilities.
 >
 > **[2:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/platform-as-a-service-paas?u=76281980&t=120)** What's core here is that you understand what the patterns of a PaaS provider are and the features that make up a true PaaS offering.
 >
@@ -372,7 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PaaS]] (16), cloud (8), [[IaaS]] (5), [[PaaS|Platform as a service]] (2), application (2)
+> **Frameworks & Libraries:** [[PaaS]] (16), [[IaaS]] (5), [[PaaS|Platform as a service]] (2), [[Application Development]] (2), [[SaaS]] (2)
 > **CLI Commands:** ruby (1), php (1), node (1), aws (1), make (1)
 > **Env Vars:** ibm (3), php (1), aws (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -380,16 +373,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Infrastructure as a Service (IaaS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980)
+#### [Infrastructure as a Service (IaaS)](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=0)** - [Narrator] IaaS, or infrastructure as a service, is a fundamental cloud computing model that provides virtualized computing resources over the internet.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=0)** - [Narrator] [[IaaS]], or [[IaaS|infrastructure as a service]], is a fundamental [[Cloud Computing]] model that provides virtualized computing resources over the internet.
 >
-> **[0:09](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=9)** This is typically a resource you would normally find in a data center, such as storage, compute, databases, AI, and other common IT resources as well.
+> **[0:09](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=9)** This is typically a resource you would normally find in a data center, such as storage, compute, [[Databases]], AI, and other common IT resources as well.
 >
-> **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=19)** This is the fastest growing public cloud type with major brands in this market, including AWS, Microsoft, and Google.
+> **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=19)** This is the fastest growing public cloud type with major brands in this market, including AWS, [[Microsoft]], and [[Google]].
 >
 > **[0:27](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=27)** When people refer to the cloud, they're most likely referring to IaaS cloud providers and these big three.
 >
@@ -401,17 +393,17 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=55)** This includes the services a specific cloud brand provides as a native service, branded by them or a third party service that the cloud may support.
 >
-> **[1:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=65)** An example of this is using the Oracle database on an AWS IaaS cloud when Oracle's actually an IaaS public cloud provider, or using Red Hat Linux on Microsoft Azure IaaS cloud.
+> **[1:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=65)** An example of this is using the Oracle database on an AWS IaaS cloud when Oracle's actually an IaaS public cloud provider, or using [[Red Hat Linux]] on [[Microsoft Azure]] IaaS cloud.
 >
 > **[1:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=79)** This allows users to leverage whatever service they need on their IaaS cloud provider of choice, but can be a bit confusing for those new to this space.
 >
 > **[1:29](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=89)** The best way to think of IaaS public clouds is that they are most things found in a data center, but do so as virtualized services that you can leverage on demand.
 >
-> **[1:40](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=100)** Like PaaS and SaaS, this is another on-demand service that only charges you for the number of services that you leverage, provides almost unlimited scalability and avoids having enterprises purchasing their own hardware and software.
+> **[1:40](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/infrastructure-as-a-service-iaas?u=76281980&t=100)** Like [[PaaS]] and [[SaaS]], this is another on-demand service that only charges you for the number of services that you leverage, provides almost unlimited [[Scalability]] and avoids having enterprises purchasing their own [[Hardware]] and software.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[IaaS]] (9), data (2), [[Databases]] (2), ai (2)
+> **Frameworks & Libraries:** [[IaaS]] (9), [[Databases]] (2), [[IaaS|Infrastructure as a service]] (1), [[Cloud Computing]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2), aws (2)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (2)
@@ -423,8 +415,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980)
+#### [Understanding the business case](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +437,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980&t=39)** This can be a positive or negative for public clouds.
 >
-> **[0:42](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980&t=42)** It's a given that public cloud providers can be less expensive than purchasing your own hardware in building or renting your own data center space for many companies.
+> **[0:42](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980&t=42)** It's a given that public cloud providers can be less expensive than purchasing your own [[Hardware]] in building or renting your own data center space for many companies.
 >
 > **[0:53](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980&t=53)** An example, startups don't have a lot of money to purchase hardware and only want to pay for the amount of IT resources they leverage.
 >
@@ -472,14 +463,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Hardware]] (5), business (2), data (2), ai (2)
+> **Frameworks & Libraries:** [[Hardware]] (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2), known as (1)
 > **Cross-References:** in the last (2)
 > **Speakers:** - [narrator] (1)
 
-#### Considering costs of public clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980)
+#### [Considering costs of public clouds](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=5)** Let's quickly go over them here.
 >
-> **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=7)** While there are similar cost categories for PaaS and SaaS, we will just be looking at IaaS public cloud costs here.
+> **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=7)** While there are similar cost categories for [[PaaS]] and [[SaaS]], we will just be looking at [[IaaS]] public cloud costs here.
 >
 > **[0:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=15)** Subscription fees are how you're going to pay for public cloud usage.
 >
@@ -511,11 +501,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=71)** Networking costs.
 >
-> **[1:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=72)** What you pay to use a cloud network, such as a virtual private network, or VPN, virtual private clouds, or VPC, web service, et cetera.
+> **[1:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=72)** What you pay to use a cloud network, such as a [[Virtual Private Network (VPN)|virtual private network]], or VPN, virtual [[Private Clouds]], or VPC, web service, et cetera.
 >
 > **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=82)** Support and management services includes humans that the cloud provider offers to assist in managing and supporting your cloud deployments.
 >
-> **[1:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=90)** This also includes technical support plans that the cloud providers may charge for, as well as the use of management tools.
+> **[1:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=90)** This also includes [[Technical Support]] plans that the cloud providers may charge for, as well as the use of management tools.
 >
 > **[1:39](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs?u=76281980&t=99)** Compliance and security costs are the fees charged for using specific security services, such as encryption and identity access management, or IAM.
 >
@@ -527,39 +517,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), data (4), management (3), [[Security]] (2), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[PaaS]] (1), [[SaaS]] (1), [[IaaS]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Private Clouds]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **Env Vars:** vpn (1), vpc (1), iam (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evolving market
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980)
+#### [Evolving market](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=0)** - [Instructor] So what are the trends in the public cloud computing market?
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=0)** - [Instructor] So what are the trends in the public [[Cloud Computing]] market?
 >
 > **[0:03](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=3)** Let's discuss a few key ones that are good to know.
 >
 > **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=7)** First, move to hybrid and multi-cloud deployments.
 >
-> **[0:11](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=11)** Enterprises want to leverage best breed cloud services and thus end up with more than a single cloud brand.
+> **[0:11](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=11)** Enterprises want to leverage best breed [[Cloud Services]] and thus end up with more than a single cloud brand.
 >
-> **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=17)** For instance, they may want to leverage AI from AWS storage from Microsoft and data management from Google.
+> **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=17)** For instance, they may want to leverage AI from AWS storage from [[Microsoft]] and [[Data Management]] from [[Google]].
 >
 > **[0:24](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=24)** Used together, they are a multi-cloud deployment.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=28)** Cloud providers are embedding AI capabilities into their offerings, such as generative ai.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=28)** Cloud providers are embedding AI capabilities into their offerings, such as [[Generative AI]].
 >
 > **[0:33](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=33)** This provides more advanced analytics, improves operational efficiency, and enhances the decision making process.
 >
 > **[0:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=41)** Edge computing integration is also a trend.
 >
-> **[0:44](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=44)** Using this technology, enterprises can reduce latency to address the support of IOT, or Internet of Things, and real-time analytics.
+> **[0:44](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=44)** Using this technology, enterprises can reduce latency to address the support of [[IoT]], or [[IoT|Internet of Things]], and [[Real-Time]] analytics.
 >
 > **[0:53](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=53)** Cloud providers are integrating edge computing techniques that process data near the source, rather than relying entirely on a centralized data center.
 >
-> **[1:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=64)** Cloud providers continuously innovate to offer more cost effective solutions, including custom pricing models and automated cost management tools.
+> **[1:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=64)** Cloud providers continuously innovate to offer more cost effective solutions, including custom pricing models and automated [[Cost Management]] tools.
 >
 > **[1:13](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evolving-market?u=76281980&t=73)** Considering the growing environmental concerns, providers are focusing on green computing.
 >
@@ -575,19 +564,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), ai (3), data (3), [[Analytics]] (2), aws (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Cloud Services]] (1), [[Microsoft]] (1), [[Data Management]] (1), [[Google]] (1)
 > **Analogies:** for instance (2), such as (1)
 > **Env Vars:** aws (1), iot (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Value of agility
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980)
+#### [Value of agility](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=0)** - [Instructor] So, if agility is a major value of a public cloud computing, what is the value of agility?
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=0)** - [Instructor] So, if agility is a major value of a public [[Cloud Computing]], what is the value of agility?
 >
 > **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=6)** Let's examine a few major values.
 >
@@ -595,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=15)** This means that applications can be created, deployed, and operated in a short period of time.
 >
-> **[0:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=22)** Next, scalability and flexibility, or demand resource allocation for dynamic adjustment of IT infrastructure as needs change, such as expanding the use of an order entry system as business explodes in sales.
+> **[0:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=22)** Next, [[Scalability]] and flexibility, or demand resource allocation for dynamic adjustment of IT infrastructure as needs change, such as expanding the use of an order entry system as business explodes in sales.
 >
 > **[0:38](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-agility?u=76281980&t=38)** Innovation and experimentation encourages testing of new ideas with reduce costs and risk.
 >
@@ -611,21 +599,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), next (2), management (2), [[Scalability]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Scalability]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Value of innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980)
+#### [Value of innovation](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980&t=0)** - [Instructor] So what are the values of innovation in the context of cloud computing?
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980&t=0)** - [Instructor] So what are the values of innovation in the context of [[Cloud Computing]]?
 >
 > **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980&t=5)** Let's look at a few concepts.
 >
-> **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980&t=7)** Cost efficiency, where public cloud significantly reduced upfront hardware investment and operation costs through scalable and flexible resource usage, accessibility where public clouds provide easy access to computing resources and data from any location, facilitating remote work and global business operations, speed and agility, where the public clouds enhance the ability to rapidly deploy, manage, and scale applications, allowing businesses to respond swiftly to market changes, collaboration means simplifying collaboration across teams through shared environments and tools, ensuring all members have up-to-date access to project data and resources, innovation opportunity or the ability to free up resources and provide enhanced tools enables organizations
+> **[0:07](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980&t=7)** Cost efficiency, where public cloud significantly reduced upfront [[Hardware]] investment and operation costs through scalable and flexible resource usage, accessibility where public clouds provide easy access to computing resources and data from any location, facilitating remote work and global [[Business Operations]], speed and agility, where the public clouds enhance the ability to rapidly deploy, manage, and scale applications, allowing businesses to respond swiftly to market changes, collaboration means simplifying collaboration across teams through shared environments and tools, ensuring all members have up-to-date access to project data and resources, innovation opportunity or the ability to free up resources and provide enhanced tools enables organizations
 >
 > **[0:57](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/value-of-innovation?u=76281980&t=57)** to focus on innovation and development rather than infrastructure management.
 >
@@ -635,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (2), [[Hardware]] (1), business (1), teams (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Hardware]] (1), [[Business Operations]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -644,8 +631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluating public cloud platform offerings
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980)
+#### [Evaluating public cloud platform offerings](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,17 +651,17 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=26)** This includes any hidden costs such as data egress fees, considering whether the cost aligns with your budget and value it provides.
 >
-> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=35)** Security and compliance, meaning accessing security measures such as data encryption and cybersecurity practices, and ensuring compliance with relevant industry regulations.
+> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=35)** Security and compliance, meaning accessing security measures such as data encryption and [[Cybersecurity]] practices, and ensuring compliance with relevant industry regulations.
 >
 > **[0:49](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=49)** Reliability and performance, meaning evaluating the provider's service level agreements or SLAs concerning uptime guarantees and performance benchmarks.
 >
-> **[0:58](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=58)** Scalability and elasticity means verifying that the service can dynamically scale and manage fluctuations in demand without significant latency or disruption.
+> **[0:58](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=58)** [[Scalability]] and elasticity means verifying that the service can dynamically scale and manage fluctuations in demand without significant latency or disruption.
 >
-> **[1:10](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=70)** Data management and storage options, meaning considering the storage services offered, including options for object, block and file storage, and the respective performance metrics.
+> **[1:10](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=70)** [[Data Management]] and storage options, meaning considering the storage services offered, including options for object, block and file storage, and the respective [[Performance Metrics]].
 >
 > **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=82)** Integration and compatibility, meaning to check how well the cloud service integrates with existing systems and applications.
 >
-> **[1:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=90)** Technical and customer support means reviewing the support services offered, including the availability, the technical assistance, response times, and the competence of the support team.
+> **[1:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=90)** Technical and [[Customer Support]] means reviewing the support services offered, including the availability, the technical assistance, response times, and the competence of the support team.
 >
 > **[1:43](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=103)** Geographical coverage, meaning to consider the locations of the provider's data centers, which can affect data sovereignty, latency and redundancy.
 >
@@ -685,7 +671,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=131)** Service offerings and innovation, meaning to look at the range of sophistication of services offered.
 >
-> **[2:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=138)** Such as machine learning capabilities, IOT integration or advanced analytics.
+> **[2:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=138)** Such as machine learning capabilities, [[IoT]] integration or advanced analytics.
 >
 > **[2:25](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980&t=145)** Exit strategy and data portability, which means evaluating the ease of moving data to and from the cloud provider and understanding any associated costs or technical challenges with data migration and exit processes.
 >
@@ -695,14 +681,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (6), management (3), [[Security]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Scalability]] (1), [[Data Management]] (1), [[Performance Metrics]] (1), [[Customer Support]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** iot (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Common patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980)
+#### [Common patterns](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +699,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=8)** This means that infrastructure and computing resources are shared between multiple users.
 >
-> **[0:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=14)** Elastic scalability means that cloud providers provide elastic services that can be scaled up or down automatically.
+> **[0:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=14)** Elastic [[Scalability]] means that cloud providers provide elastic services that can be scaled up or down automatically.
 >
 > **[0:21](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=21)** This flexibility is useful for handling varying workloads.
 >
@@ -722,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=34)** This means that users can deploy services quickly without waiting for assistance from the provider.
 >
-> **[0:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=41)** Public cloud services usually include management and automation tools.
+> **[0:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=41)** Public [[Cloud Services]] usually include management and automation tools.
 >
 > **[0:45](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/common-patterns?u=76281980&t=45)** These tools help manage resources, deploy applications, monitor performance, and ensure security.
 >
@@ -742,21 +727,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Scalability]] (1), management (1), [[Automation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Cloud Services]] (1)
 > **Definitions:** means that (3), is a  (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Picking the right solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980)
+#### [Picking the right solution](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=0)** - [Instructor] So how do you pick the right public cloud providers?
 >
-> **[0:03](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=3)** For our purposes here, we'll focus on IaaS public clouds.
+> **[0:03](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=3)** For our purposes here, we'll focus on [[IaaS]] public clouds.
 >
-> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=6)** However, this could easily be used for picking SaaS and PaaS clouds as well.
+> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=6)** However, this could easily be used for picking [[SaaS]] and [[PaaS]] clouds as well.
 >
 > **[0:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=12)** Let's go through what's important.
 >
@@ -764,15 +748,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=16)** This means that you'll pick the specific things that are important to your enterprises for a specific cloud provider solution you're looking for.
 >
-> **[0:25](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=25)** Requirements can include, but are not limited to, storage, compute, performance, user interface, database, security, application development, cost and fees, support and service level agreements, et cetera.
+> **[0:25](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=25)** Requirements can include, but are not limited to, storage, compute, performance, user interface, database, security, [[Application Development]], cost and fees, support and service level agreements, et cetera.
 >
 > **[0:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=41)** You'll need to define these requirements in detail.
 >
 > **[0:44](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=44)** For example, for storage, you want to outline the type, size, performance, security parameters, and anything else that may be important to your usage of this public cloud resource.
 >
-> **[0:55](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=55)** Next, you'll need to look at available public cloud computing options.
+> **[0:55](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=55)** Next, you'll need to look at available public [[Cloud Computing]] options.
 >
-> **[0:59](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=59)** Considering we're just looking at IaaS, that normally means AWS or Amazon Web Services, Microsoft and Google, but there are others as well, such as IBM, Oracle, and Alibaba.
+> **[0:59](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=59)** Considering we're just looking at IaaS, that normally means AWS or [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] and [[Google]], but there are others as well, such as IBM, Oracle, and Alibaba.
 >
 > **[1:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/picking-the-right-solution?u=76281980&t=72)** Next, you'll need to compare your specific requirements with the available options, doing research to understand what the cloud providers offer in terms of features that meet or do not meet your requirements.
 >
@@ -782,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[IaaS]] (2), [[Security]] (2), next (2), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[IaaS]] (2), [[SaaS]] (1), [[PaaS]] (1), [[Application Development]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** aws (1), ibm (1)
@@ -790,8 +774,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering costs: Impact and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs-24110316?u=76281980)
+#### [Considering costs: Impact and management](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs-24110316?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,7 +802,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs-24110316?u=76281980&t=66)** Indirect costs may include management overhead, training, integration with existing systems, and potential downtime.
 >
-> **[1:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs-24110316?u=76281980&t=74)** Also, you may want to consider scalability and flexibility, data transfer fees, long-term contracts and exit costs, support costs, customization and add-on services, budget allocation, and cost monitoring.
+> **[1:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs-24110316?u=76281980&t=74)** Also, you may want to consider [[Scalability]] and flexibility, data transfer fees, long-term contracts and exit costs, support costs, customization and add-on services, budget allocation, and cost monitoring.
 >
 > **[1:29](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/considering-costs-24110316?u=76281980&t=89)** Be careful evaluating these cost-related factors.
 >
@@ -827,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), management (1), [[Scalability]] (1), data (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Env Vars:** tco (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
@@ -837,8 +820,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application and data compatibility: AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980)
+#### [Application and data compatibility: AWS](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,21 +836,21 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=27)** AWS Lambda, a serverless system, allows running code for virtually any type of application or back-end services with zero administration.
 >
-> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=37)** Lambda's the first of the serverless systems also provided by GCP and Microsoft.
+> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=37)** Lambda's the first of the serverless systems also provided by GCP and [[Microsoft]].
 >
 > **[0:43](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=43)** They're all basically systems that don't require you to provision resources you need.
 >
 > **[0:48](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=48)** They automatically allocate them for you.
 >
-> **[0:51](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=51)** If you want to look deeper into serverless computing, I recommend this course.
+> **[0:51](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=51)** If you want to look deeper into [[Serverless Computing]], I recommend this course.
 >
-> **[0:56](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=56)** Amazon RDS, Relational Database Service, simplifies the setup and operations and scaling of relational databases.
+> **[0:56](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=56)** Amazon RDS, Relational Database Service, simplifies the setup and operations and scaling of [[Relational Databases]].
 >
-> **[1:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=65)** It's also compatible with Oracle, MySQL, PostgreSQL, SQL Server, and MariaDB.
+> **[1:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=65)** It's also compatible with Oracle, [[MySQL]], [[PostgreSQL]], [[Microsoft SQL Server|SQL Server]], and MariaDB.
 >
-> **[1:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=75)** Elastic Beanstalk, which is their PaaS service, handles the deployment and scaling of applications.
+> **[1:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=75)** Elastic Beanstalk, which is their [[PaaS]] service, handles the deployment and scaling of applications.
 >
-> **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=82)** AWS Elastic Kubernetes Service, or EKS, and Elastic Container Service, or ECS, which supports containerized applications compatible with Kubernetes and Docker.
+> **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=82)** AWS Elastic [[Kubernetes]] Service, or EKS, and Elastic Container Service, or ECS, which supports containerized applications compatible with Kubernetes and Docker.
 >
 > **[1:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980&t=95)** Of course, these are just a few of the application and data compatibility services that AWS offers.
 >
@@ -876,14 +858,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), application (3), data (2), [[Kubernetes]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Microsoft]] (1), [[Serverless Computing]] (1), [[Relational Databases]] (1), [[MySQL]] (1)
 > **Env Vars:** aws (6), gcp (1), rds (1), sql (1), eks (1)
 > **CLI Commands:** aws (6), mysql (1), docker (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of services: AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980)
+#### [Types of services: AWS](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=19)** However, feel free to explore any of these items further on your own.
 >
-> **[0:24](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=24)** AWS offers compute services including EC2, Lambda, and Auto-Scaling.
+> **[0:24](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=24)** AWS offers compute services including [[Amazon EC2|EC2]], Lambda, and Auto-Scaling.
 >
 > **[0:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=30)** These are virtualized compute platforms that perform processing on demand.
 >
@@ -909,26 +890,25 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=47)** EBS is block storage, and Glacier, as the name implies, is storage that's used for massive amounts of data where performance of retrieval is not needed.
 >
-> **[0:57](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=57)** Database services include RDF, DynamoDB, and Redshift, which are relational, object, and columnar databases respectively.
+> **[0:57](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=57)** Database services include RDF, DynamoDB, and Redshift, which are relational, object, and columnar [[Databases]] respectively.
 >
-> **[1:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=66)** Machine learning and artificial intelligence services include SageMaker, Comprehend, and Lex.
+> **[1:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=66)** Machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] services include SageMaker, Comprehend, and Lex.
 >
-> **[1:13](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=73)** Internet of Things services include IoT core and IoT analytics.
+> **[1:13](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=73)** [[IoT|Internet of Things]] services include [[IoT]] core and IoT analytics.
 >
-> **[1:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=78)** Blockchain services are provided by Amazon Managed Blockchain.
+> **[1:18](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=78)** [[Blockchain]] services are provided by Amazon Managed Blockchain.
 >
-> **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=82)** Now that you know about the types of services AWS offers, in the next movie, we'll discuss AWS security and governance.
+> **[1:22](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services?u=76281980&t=82)** Now that you know about the types of services AWS offers, in the next movie, we'll discuss [[AWS Security]] and governance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), cloud (3), [[IoT]] (2), [[Blockchain]] (2), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Blockchain]] (2), [[Amazon EC2|Ec2]] (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** aws (4), ebs (2), ec2 (1), rdf (1)
 > **CLI Commands:** aws (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and governance: AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24114339?u=76281980)
+#### [Security and governance: AWS](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24114339?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,17 +932,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), management (2), [[Security]] (1), web application (1), web (1)
 > **Env Vars:** aws (8), iam (1), waf (1), kms (1)
 > **CLI Commands:** aws (8)
 > **Speakers:** - [instructor] (1)
 
-#### Operations: AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980)
+#### [Operations: AWS](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=0)** - [Instructor] here are many AWS Cloud services related to operations.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=0)** - [Instructor] here are many AWS [[Cloud Services]] related to operations.
 >
 > **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=4)** We'll list a few of them here.
 >
@@ -970,7 +948,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=13)** This allows you to spend less time managing resources.
 >
-> **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=17)** AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet for use in a DevOps tool chain.
+> **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=17)** AWS OpsWorks is a [[Configuration Management]] service that provides managed instances of Chef and Puppet for use in a [[DevOps]] tool chain.
 >
 > **[0:27](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations?u=76281980&t=27)** If you would like to learn more about DevOps, check out the course below.
 >
@@ -986,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[DevOps]] (2), data (2), cloud (1), [[Configuration Management]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Cloud Services]] (1), [[Configuration Management]] (1)
 > **CLI Commands:** aws (11), make (1)
 > **Env Vars:** aws (11)
 > **Definitions:** is a  (1)
@@ -998,87 +976,83 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application and data compatibility: Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980)
+#### [Application and data compatibility: Azure](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=0)** - [Instructor] Let's look at the application and data compatibility services for Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=0)** - [Instructor] Let's look at the application and data compatibility services for [[Microsoft Azure]].
 >
-> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=5)** Azure App Service is their service supporting deployment and scaling of web apps and APIs with support for .NET, .NET Core, Java, Ruby, Node.js, PHP, or Python.
+> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=5)** [[Microsoft Azure|Azure]] App Service is their service supporting deployment and scaling of web apps and APIs with support for .NET, .NET Core, [[Java]], Ruby, [[Node.js]], [[PHP]], or [[Python (Programming Language)|Python]].
 >
-> **[0:20](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=20)** Azure Kubernetes service, or AKS, provides managed Kubernetes environments for scaling and deploying containerized applications.
+> **[0:20](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=20)** Azure [[Kubernetes]] service, or AKS, provides managed Kubernetes environments for scaling and deploying containerized applications.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=28)** Azure SQL Database provides SQL Server compatibility, enabling existing SQL Server applications to migrate with minimal changes.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=28)** Azure [[SQL]] Database provides [[Microsoft SQL Server|SQL Server]] compatibility, enabling existing SQL Server applications to migrate with minimal changes.
 >
-> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=37)** Next, we'll take a look at Microsoft's types of service.
+> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980&t=37)** Next, we'll take a look at [[Microsoft]]'s types of service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Kubernetes]] (2), [[Microsoft SQL Server|Sql server]] (2), application (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Kubernetes]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Azure]] (1), [[Java]] (1)
 > **Env Vars:** sql (3), net (2), php (1), aks (1)
 > **CLI Commands:** ruby (1), node (1), php (1), python (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of services: Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980)
+#### [Types of services: Azure](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=0)** - [Instructor] Now let's look at the types of services that Microsoft Azure provides.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=0)** - [Instructor] Now let's look at the types of services that [[Microsoft Azure]] provides.
 >
-> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=5)** Compute services including virtual machines, Azure functions, Azure Kubernetes Service, storage services are blob storage, Q storage, file storage, and disk storage.
+> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=5)** Compute services including [[Virtual Machines]], [[Microsoft Azure|Azure]] functions, Azure [[Kubernetes]] Service, storage services are blob storage, Q storage, file storage, and disk storage.
 >
-> **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=17)** Database servers include Azure SQL database, Cosmos DB, MySQL, or my SQL, Postgres SQL, and Maria DB services.
+> **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=17)** Database servers include Azure [[SQL]] database, Cosmos DB, [[MySQL]], or my SQL, [[PostgreSQL|Postgres]] SQL, and Maria DB services.
 >
 > **[0:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=30)** And finally, AI and machine learning services, which include Azure Machine Learning, cognitive services, and bot services.
 >
-> **[0:38](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=38)** Next, we'll cover Microsoft security and governance options.
+> **[0:38](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113332?u=76281980&t=38)** Next, we'll cover [[Microsoft Security]] and governance options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), database (2), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), [[Microsoft Azure]] (1), [[Virtual Machines]] (1), [[Kubernetes]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and governance: Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980)
+#### [Security and governance: Azure](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=0)** - [Instructor] How about security and governance services for Microsoft Azure?
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=0)** - [Instructor] How about security and governance services for [[Microsoft Azure]]?
 >
 > **[0:03](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=3)** Let's discuss.
 >
-> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=5)** The first is Azure Active Directory, or AAD, which manages user identities and creates policies to control access to resources.
+> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=5)** The first is [[Microsoft Entra ID|Azure Active Directory]], or AAD, which manages user identities and creates policies to control access to resources.
 >
 > **[0:14](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=14)** This is core to using identity management systems for security, considering that the identities are tracked with AAD.
 >
-> **[0:21](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=21)** Next, Azure Policy Blueprints, which enforces organizational standards and assesses compliance at scale.
+> **[0:21](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=21)** Next, [[Microsoft Azure|Azure]] Policy Blueprints, which enforces organizational standards and assesses compliance at scale.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=28)** And finally, there's Azure Security Center, which provides unified security management and advanced threat protection across hybrid cloud workloads.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=28)** And finally, there's Azure Security Center, which provides unified [[Security Management]] and advanced threat protection across [[Hybrid Cloud]] workloads.
 >
-> **[0:36](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=36)** Stay tuned and we'll look at Microsoft operations in the next video.
+> **[0:36](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance?u=76281980&t=36)** Stay tuned and we'll look at [[Microsoft]] operations in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), management (2), next (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Security Management]] (1), [[Hybrid Cloud]] (1)
 > **Env Vars:** aad (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operations: Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980)
+#### [Operations: Azure](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=0)** - [Instructor] What do you know about Microsoft Azure Operations or Ops Services?
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=0)** - [Instructor] What do you know about [[Microsoft Azure]] Operations or Ops Services?
 >
 > **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=4)** Let's fill in the blanks.
 >
-> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=6)** First, we have Azure Automation, which automates processes using runbooks or PowerShell scripts to manage Azure resources, and third-party systems.
+> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=6)** First, we have [[Microsoft Azure|Azure]] Automation, which automates processes using runbooks or [[Powershell]] scripts to manage Azure resources, and third-party systems.
 >
 > **[0:16](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=16)** Next, we have Azure Monitor.
 >
@@ -1086,11 +1060,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=25)** And finally, Azure Resource Manager provides a management layer that enables you to create, update, and delete resources in your Azure account.
 >
-> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=35)** In the next chapter, we'll talk about Google Cloud Platforms or GCP, so stay with me.
+> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24112314?u=76281980&t=35)** In the next chapter, we'll talk about [[Google Cloud Platform (GCP)|Google Cloud]] Platforms or GCP, so stay with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), next (2), [[Microsoft Azure]] (1), [[Automation]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft Azure]] (1), [[Powershell]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (1)
 > **Cross-References:** in the next (1)
 > **Tools:** powershell (1)
@@ -1101,26 +1075,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application and data compatibility: GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980)
+#### [Application and data compatibility: GCP](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=0)** - [Instructor] For our last example of a public cloud, let's look at Google Cloud Platform or GCP.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=0)** - [Instructor] For our last example of a public cloud, let's look at [[Google Cloud Platform (GCP)|Google Cloud Platform]] or GCP.
 >
-> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=6)** Google App Engine allows you to automatically scale applications based on demand and supports popular languages such as Java, Node JS, Python, C#, Go, PHP and Ruby.
+> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=6)** [[Google]] App Engine allows you to automatically scale applications based on demand and supports popular languages such as [[Java]], Node JS, [[Python (Programming Language)|Python]], C#, Go, [[PHP]] and Ruby.
 >
-> **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=19)** Google Kubernetes Engine, or GKE, allows you to manage the deployment, scaling and operations of containerized applications using GCP infrastructure.
+> **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=19)** Google [[Kubernetes]] Engine, or GKE, allows you to manage the deployment, scaling and operations of containerized applications using GCP infrastructure.
 >
-> **[0:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=30)** Cloud functions, like AWS Lambda, is a serverless execution environment for building and connecting cloud services with support for Node JS, Python, Go and Java.
+> **[0:30](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=30)** Cloud functions, like AWS Lambda, is a serverless execution environment for building and connecting [[Cloud Services]] with support for Node JS, Python, Go and Java.
 >
-> **[0:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=41)** BigQuery is a managed data warehouse that offers compatibility with SQL and can ingest streaming data in real time.
+> **[0:41](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=41)** BigQuery is a managed data warehouse that offers compatibility with [[SQL]] and can ingest streaming data in real time.
 >
 > **[0:49](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980&t=49)** Stay with us and we'll talk about GCP services types in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), gcp (3), [[Google]] (2), [[Java]] (2), node (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Java]] (2), [[Python (Programming Language)|Python]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[PHP]] (1)
 > **CLI Commands:** node (2), python (2), php (1), ruby (1), aws (1)
 > **Env Vars:** gcp (3), php (1), gke (1), aws (1), sql (1)
 > **Definitions:** is a  (2)
@@ -1128,22 +1101,21 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of services: GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980)
+#### [Types of services: GCP](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=0)** - [Narrator] Let's talk about the types of services that GCP offers.
 >
-> **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=4)** Compute services like Amazon Web Services EC2 include Compute Engine, Kubernetes Engine, App Engine, and Cloud Functions.
+> **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=4)** Compute services like [[Amazon Web Services (AWS)|Amazon Web Services]] [[Amazon EC2|EC2]] include Compute Engine, [[Kubernetes]] Engine, App Engine, and Cloud Functions.
 >
-> **[0:13](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=13)** Storage services include Google Cloud Storage, Persistent Disk, and Filestore.
+> **[0:13](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=13)** Storage services include [[Google Cloud Platform (GCP)|Google Cloud]] Storage, Persistent Disk, and Filestore.
 >
-> **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=19)** Database services include Cloud SQL, Cloud Spanner, Firestore, and Bigtable.
+> **[0:19](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=19)** Database services include Cloud [[SQL]], Cloud Spanner, Firestore, and Bigtable.
 >
-> **[0:26](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=26)** AI, machine learning tools, and APIs include TensorFlow, AI Platform, AutoML, and Vertex AI.
+> **[0:26](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=26)** AI, machine learning tools, and APIs include [[TensorFlow]], AI Platform, AutoML, and [[Vertex]] AI.
 >
-> **[0:34](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=34)** There are also analytics services like BigQuery for analytics, Dataflow for stream/batch data processing, and Looker for business intelligence.
+> **[0:34](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=34)** There are also analytics services like BigQuery for analytics, Dataflow for stream/batch [[Data Processing]], and Looker for [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:44](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/types-of-services-24113331?u=76281980&t=44)** After this video, I encourage you to pick one or two of these services and read up on them in detail.
 >
@@ -1153,19 +1125,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), ai (3), [[Analytics]] (2), gcp (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Amazon EC2|Ec2]] (1), [[Kubernetes]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[SQL]] (1)
 > **Env Vars:** gcp (1), ec2 (1), sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security and governance: GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24108371?u=76281980)
+#### [Security and governance: GCP](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24108371?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24108371?u=76281980&t=0)** - [Narrator] Let's discuss GCP security and governance services.
 >
-> **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24108371?u=76281980&t=4)** Cloud Identity and Access Management, or IAM, manages access control and permissions for Google Cloud resources.
+> **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24108371?u=76281980&t=4)** Cloud Identity and Access Management, or IAM, manages access control and permissions for [[Google Cloud Platform (GCP)|Google Cloud]] resources.
 >
 > **[0:12](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/security-and-governance-24108371?u=76281980&t=12)** Security Command Center provides threat detection, IAM monitoring, security posture review, and risk assessment.
 >
@@ -1175,19 +1146,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), gcp (2), cloud (1), management (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (2), iam (2), api (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Operations: GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24108370?u=76281980)
+#### [Operations: GCP](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24108370?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24108370?u=76281980&t=0)** - [Instructor] Finally, let's find out what operations tools are available from GCP.
 >
-> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24108370?u=76281980&t=5)** Google Cloud Operations, formerly Stackdriver, provides monitoring, logging, and diagnostics, ensuring the performance and availability of cloud applications.
+> **[0:05](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24108370?u=76281980&t=5)** [[Google Cloud Platform (GCP)|Google Cloud]] Operations, formerly Stackdriver, provides monitoring, logging, and diagnostics, ensuring the performance and availability of cloud applications.
 >
 > **[0:15](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/operations-24108370?u=76281980&t=15)** Cloud Deployment Manager enables the management of cloud resources through declarative formats using templates.
 >
@@ -1199,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Google Cloud Platform (GCP)|Google cloud]] (2), gcp (1), management (1), web (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** gcp (1)
 > **Definitions:** is a  (1)
@@ -1210,20 +1180,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Oracle
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980)
+#### [Oracle](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=0)** - [Presenter] Oracle infrastructure as a service or IaaS is a comprehensive collection of cloud services.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=0)** - [Presenter] Oracle [[IaaS|infrastructure as a service]] or [[IaaS]] is a comprehensive collection of [[Cloud Services]].
 >
-> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=6)** Oracle IaaS provides virtualized computing, storage and networking resources, offering scalable platforms that support a variety of applications and data management solutions.
+> **[0:06](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=6)** Oracle IaaS provides virtualized computing, storage and networking resources, offering scalable platforms that support a variety of applications and [[Data Management]] solutions.
 >
 > **[0:17](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=17)** Here's an overview of the primary features and offerings within Oracle IaaS.
 >
 > **[0:23](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=23)** Compute services, provide full virtual machine and bare metal service.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=28)** Manage Kubernetes services for container orchestration.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=28)** Manage [[Kubernetes]] services for container orchestration.
 >
 > **[0:31](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=31)** Storage services.
 >
@@ -1237,7 +1206,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=54)** Database servers.
 >
-> **[0:56](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=56)** Oracle provides both autonomous and user managed databases on various server types, specialized exodata solutions for high performance requirements as well.
+> **[0:56](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=56)** Oracle provides both autonomous and user managed [[Databases]] on various server types, specialized exodata solutions for high performance requirements as well.
 >
 > **[1:08](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980&t=68)** This video is intended to be only a short overview.
 >
@@ -1247,17 +1216,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IaaS]] (3), cloud (3), [[IaaS|Infrastructure as a service]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[IaaS]] (3), [[IaaS|Infrastructure as a service]] (1), [[Cloud Services]] (1), [[Data Management]] (1), [[Kubernetes]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### IBM
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980)
+#### [IBM](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=0)** - [Instructor] IBM Cloud is a comprehensive suite of cloud computing services.
+> **[0:00](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=0)** - [Instructor] IBM Cloud is a comprehensive suite of [[Cloud Computing]] services.
 >
 > **[0:04](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=4)** This service facilitates the development, management, and deployment of applications across global, hybrid environments.
 >
@@ -1269,9 +1237,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=26)** AI and machine learning offerings are also included, which means integrating IBM Watson for advanced AI and machine learning capabilities.
 >
-> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=35)** IBM offers blockchain services for secure distributed ledger technology applications.
+> **[0:35](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=35)** IBM offers [[Blockchain]] services for secure distributed ledger technology applications.
 >
-> **[0:42](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=42)** And IBM provides access to quantum computing resources or experimental in research purposes.
+> **[0:42](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=42)** And IBM provides access to [[Quantum Computing]] resources or experimental in research purposes.
 >
 > **[0:51](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/ibm?u=76281980&t=51)** As far as security goes, IBM offers security that is able to provide focus on enterprise level compliance and data protection.
 >
@@ -1283,13 +1251,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), ai (3), [[Blockchain]] (2), [[Quantum Computing]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Quantum Computing]] (2), [[Cloud Computing]] (1)
 > **Env Vars:** ibm (8)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alibaba
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980)
+#### [Alibaba](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,9 +1268,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980&t=16)** Elastic Cloud Service, or ECS, similar to AWS's ECS, Compute Service provides scalable computing services with flexible configurations.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980&t=28)** Database services are also available, offering a variety of managed database services, including MySQL, SQL Server, and MongoDB.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980&t=28)** Database services are also available, offering a variety of managed database services, including [[MySQL]], [[Microsoft SQL Server|SQL Server]], and [[MongoDB]].
 >
-> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980&t=37)** Data security and privacy protections are offered to provide and implement comprehensive security controls, including encryption, identity access management, and DDoS protection, provides data storage solutions such as as Object Storage Services, OSS, file storage, and block storage.
+> **[0:37](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980&t=37)** [[Data Security]] and [[Privacy]] protections are offered to provide and implement comprehensive security controls, including encryption, identity access management, and DDoS protection, provides [[Data Storage]] solutions such as as Object Storage Services, OSS, file storage, and block storage.
 >
 > **[0:57](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/alibaba?u=76281980&t=57)** Networking solutions, providing network options like virtual private cloud or VPC, Express Connect, and server load balancer for network connectivity.
 >
@@ -1313,14 +1280,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), database (2), data (2), [[Security]] (2), aws (1)
+> **Frameworks & Libraries:** [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[MongoDB]] (1), [[Data Security]] (1), [[Privacy]] (1)
 > **Env Vars:** ecs (2), usa (1), aws (1), sql (1), oss (1)
 > **CLI Commands:** aws (1), mysql (1)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Other clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/other-clouds?u=76281980)
+#### [Other clouds](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/other-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1310,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), ai (1)
 > **Env Vars:** gpu (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1354,8 +1319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980&t=26)** Take an additional course.
 >
-> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980&t=28)** Here are some courses that we recommend that you consider to further your cloud computing journey.
+> **[0:28](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980&t=28)** Here are some courses that we recommend that you consider to further your [[Cloud Computing]] journey.
 >
 > **[0:33](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980&t=33)** As you can see from our catalog, you can continue your journey in any number of directions.
 >
@@ -1389,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), career (3), next (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)

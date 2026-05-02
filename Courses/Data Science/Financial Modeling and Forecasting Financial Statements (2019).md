@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Projecting the financial future
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980)
+#### [Projecting the financial future](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=6)** - I am also a professor of accounting at Brigham Young University.
 >
-> **[0:09](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=9)** - In this course we provide an introduction to and practice with financial modeling and financial statement forecasting.
+> **[0:09](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=9)** - In this course we provide an introduction to and practice with [[Financial Modeling]] and financial statement [[Forecasting]].
 >
 > **[0:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=17)** - Many people mistakenly believe that financial accounting reports are simply dry, historical summaries of the past.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=60)** When you buy a company, you're buying its future, not its past.
 >
-> **[1:04](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=64)** - [Jim] Now, in this course, we will show you how to use the historical financial statements as a platform for forecasting a company's future.
+> **[1:04](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=64)** - [Jim] Now, in this course, we will show you how to use the historical [[Financial Statements]] as a platform for forecasting a company's future.
 >
 > **[1:12](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980&t=72)** - [Kay] We will consider each of the important financial statement numbers, such as cost of goods sold, depreciation expense, and the levels of inventory and fixed assets.
 >
@@ -144,16 +143,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (5), [[Financial Statements]] (4), [[Financial Modeling]] (2), management (1), power (1)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Financial Statements]] (4), [[Financial Modeling]] (2)
 > **Speakers:** - in (2), - [jim] (2), - [kay] (2), - hi (1), - i (1)
 > **Analogies:** for example (1), such as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/what-you-should-know?u=76281980&t=1)** - Before taking this Financial Modeling and Forecasting Financial Statements course, you should consider taking our other courses, Accounting Foundations, and [[Running a Profitable Business- Understanding Financial Ratios]].
+> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/what-you-should-know?u=76281980&t=1)** - Before taking this [[Financial Modeling]] and [[Forecasting]] [[Financial Statements]] course, you should consider taking our other courses, Accounting Foundations, and [[Running a Profitable Business- Understanding Financial Ratios]].
 >
 > **[0:15](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/what-you-should-know?u=76281980&t=15)** Among other things, those courses introduce you to the basics of the financial statements and the importance of the numerical relations among the different items in the financial statements.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Financial Modeling]] (2), [[Forecasting]] (1), business (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Financial Modeling]] (2), [[Forecasting]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - before (1)
 
@@ -178,8 +176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the past to understand the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980)
+#### [Use the past to understand the future](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=10)** They want to know about the future.
 >
-> **[0:12](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=12)** - People say that looking at financial statements is like tryin' to drive your car by looking in the rear-view mirror to see where you have been.
+> **[0:12](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=12)** - People say that looking at [[Financial Statements]] is like tryin' to drive your car by looking in the rear-view mirror to see where you have been.
 >
 > **[0:19](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=19)** - Well, I'm going to go with Winston Churchill on this topic.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=42)** - We can make some reasonable assumptions about a company's future performance, and it is then fairly straight-forward to see what future financial statements might look like.
 >
-> **[0:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=52)** - To illustrate, let's discuss forecasting a company's income statement.
+> **[0:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=52)** - To illustrate, let's discuss [[Forecasting]] a company's income statement.
 >
 > **[0:55](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980&t=55)** Now, the same general concepts apply if we're looking at a balance sheet.
 >
@@ -265,14 +262,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (3), next (3), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Forecasting]] (1)
 > **Speakers:** - now (5), - for (2), - people (1), - well (1), - studying (1)
 > **Analogies:** for example (3), such as (1), picture (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 
-#### Keys to running a business
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980)
+#### [Keys to running a business](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=57)** Now let's compare this old company, General Electric, to a brand-new company, a startup company, a company that involves just two partners, 10 employees, and lots of exciting ideas.
 >
-> **[1:08](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=68)** Which one of these two companies, the old one or the new one, is likely to have a more comprehensive, sophisticated internal financial modeling and forecasting process to aid in both short-term and long-term planning?
+> **[1:08](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=68)** Which one of these two companies, the old one or the new one, is likely to have a more comprehensive, sophisticated internal [[Financial Modeling]] and [[Forecasting]] process to aid in both short-term and long-term planning?
 >
 > **[1:21](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=81)** Well, the old company, of course.
 >
@@ -308,11 +304,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=97)** Now think about which of these two companies really needs a financial plan, the old company, General Electric, or the new startup company.
 >
-> **[1:45](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=105)** Of course they both can benefit from financial planning and forecasting, but which one can benefit more?
+> **[1:45](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=105)** Of course they both can benefit from [[Financial Planning]] and forecasting, but which one can benefit more?
 >
 > **[1:51](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=111)** Let me put it this way.
 >
-> **[1:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=112)** If General Electric decided not to do any detailed financial forecasting this year, would the General Electric employees still know what to do?
+> **[1:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=112)** If General Electric decided not to do any detailed [[Financial Forecasting]] this year, would the General Electric employees still know what to do?
 >
 > **[2:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/keys-to-running-a-business?u=76281980&t=121)** Well, sure.
 >
@@ -356,14 +352,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (3), [[Financial Modeling]] (3), [[Forecasting]] (3), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Forecasting]] (3), [[Financial Planning]] (1), [[Financial Forecasting]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - running (1)
 
-#### Financial forecasts and loans
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980)
+#### [Financial forecasts and loans](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,9 +366,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=7)** And those payments will be made out of future cash flows.
 >
-> **[0:11](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=11)** So, success in the banking business is all about making accurate forecast of a borrowers' future cash flows.
+> **[0:11](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=11)** So, success in the [[Banking]] business is all about making accurate forecast of a borrowers' future cash flows.
 >
-> **[0:18](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=18)** When a business approaches a bank for a large loan, the bank starts the evaluation process by asking for the company's standard financial statements.
+> **[0:18](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=18)** When a business approaches a bank for a large loan, the bank starts the evaluation process by asking for the company's standard [[Financial Statements]].
 >
 > **[0:27](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=27)** A balance sheet, an income statement, and a statement of cash flows.
 >
@@ -395,7 +390,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=87)** So it's not too much of a stretch to forecast that sales for Walmart in 2019 will be about three percent higher than sales in 2018, or about 525 billion dollars.
 >
-> **[1:39](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=99)** Now this forecasting through linear extrapolation works fine for a relatively stable company such as Walmart, and over a relatively short time period.
+> **[1:39](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=99)** Now this [[Forecasting]] through linear extrapolation works fine for a relatively stable company such as Walmart, and over a relatively short time period.
 >
 > **[1:50](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-loans?u=76281980&t=110)** For example, back in the early 1990s, Walmart sales were growing at about 24% per year.
 >
@@ -441,14 +436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (4), business (3), [[Forecasting]] (2), [[Banking]] (1), data (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Forecasting]] (2), [[Banking]] (1)
 > **Analogies:** for example (4), such as (2)
 > **Versions:** 3.0 (1), 2.9 (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - banks (1)
 
-#### Financial forecasts and investment decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-investment-decisions?u=76281980)
+#### [Financial forecasts and investment decisions](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-investment-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,11 +524,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-investment-decisions?u=76281980&t=224)** And third, how risky are those cash flows?
 >
-> **[3:47](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-investment-decisions?u=76281980&t=227)** The estimation of all three of these things requires careful financial modeling and forecasting, so financial modeling is fundamental to investors.
+> **[3:47](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financial-forecasts-and-investment-decisions?u=76281980&t=227)** The estimation of all three of these things requires careful [[Financial Modeling]] and [[Forecasting]], so financial modeling is fundamental to investors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Financial Modeling]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (2), [[Forecasting]] (1)
 > **Env Vars:** dcf (6)
 > **Analogies:** for example (1), such as (1)
 > **Tools:** terminal (1)
@@ -542,8 +536,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - the (1)
 
-#### Use financial forecasts to understand new information
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-financial-forecasts-to-understand-new-information?u=76281980)
+#### [Use financial forecasts to understand new information](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-financial-forecasts-to-understand-new-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +618,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Versions:** 8.8 (2), 1.41 (2), 8.5 (1), 1.31 (1)
 > **Env Vars:** sec (2), alis (2)
 > **Definitions:** means that (1), is a  (1)
@@ -638,8 +630,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IBM and the famously bad sales forecast
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980)
+#### [IBM and the famously bad sales forecast](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=6)** - [Man In Pink Shirt] IBM's engineries were specialists in electromechanical devices and were uncomfortable working with vacuum tubes, diodes, and magnetic recording tapes.
 >
-> **[0:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=17)** - In addition there were many questions about the customer demand for electronics computers
+> **[0:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=17)** - In addition there were many questions about the customer demand for [[Electronics]] computers
 >
 > **[0:22](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=22)** - In fact, one IBM executive forecast that the size of the world-wide market for computers was no more than five.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=132)** - Additionally, when the IBM PC was released in 1981, IBM chose not to develop the operating system for its first PC.
 >
-> **[2:20](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=140)** Instead, electing to use a system called DOS, licensed from a small 32 person company named, Microsoft.
+> **[2:20](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=140)** Instead, electing to use a system called DOS, licensed from a small 32 person company named, [[Microsoft]].
 >
 > **[2:28](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980&t=148)** - [Man In Pink Shirt] And, as of May 2019, Microsoft is worth about $1 trillion.
 >
@@ -711,18 +702,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Electronics]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Electronics]] (1)
 > **Env Vars:** ibm (17), dos (1)
 > **Speakers:** - [man (7), - in (2), - now (1), - while (1), - through (1)
 
-#### Combine historical trends with current plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980)
+#### [Combine historical trends with current plans](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=1)** - Creating an accurate sales forecast is a topic all on its own.
 >
-> **[0:05](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=5)** This requires a good market and economic analysis, a good understanding of the expected impact of the marketing plan, intelligence about what the competitors expect you to do, and being familiar with time series statistical forecasting models.
+> **[0:05](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=5)** This requires a good market and [[Economic Analysis]], a good understanding of the expected impact of the marketing plan, intelligence about what the competitors expect you to do, and being familiar with time series statistical [[Forecasting]] models.
 >
 > **[0:21](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=21)** (chuckles) Hey, I'm a simple accountant, so the best I can do for you in this course is to make you aware of a few factors that should be remembered when creating a sales forecast.
 >
@@ -758,7 +748,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=160)** For example, let's say that near the end of last year, Spencer was caught up in a scandal involving dumping of company waste on environmentally-sensitive wetlands.
 >
-> **[2:51](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=171)** Preliminary analysis indicates that 40% of Spencer's customer base will now refuse to buy Spencer's products.
+> **[2:51](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=171)** Preliminary analysis indicates that 40% of Spencer's customer base will now refuse to buy Spencer's [[Microsoft Products|products]].
 >
 > **[2:58](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/combine-historical-trends-with-current-plans?u=76281980&t=178)** Yikes!
 >
@@ -776,18 +766,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Economic Analysis]] (1), [[Forecasting]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Economic Analysis]] (1), [[Forecasting]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - creating (1)
 
-#### Incorporate seasonal patterns and recent developments
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/incorporate-seasonal-patterns-and-recent-developments?u=76281980)
+#### [Incorporate seasonal patterns and recent developments](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/incorporate-seasonal-patterns-and-recent-developments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/incorporate-seasonal-patterns-and-recent-developments?u=76281980&t=0)** - Let's do some more practice with simple sales forecasting.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/incorporate-seasonal-patterns-and-recent-developments?u=76281980&t=0)** - Let's do some more practice with simple sales [[Forecasting]].
 >
 > **[0:04](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/incorporate-seasonal-patterns-and-recent-developments?u=76281980&t=4)** In this example, we'll see the importance of two additional factors.
 >
@@ -871,16 +860,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forecasting]] (4), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (4)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - let (1)
 
-#### The costs of being wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980)
+#### [The costs of being wrong](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=1)** - Sales forecasting is not an exact science.
+> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=1)** - Sales [[Forecasting]] is not an exact science.
 >
 > **[0:04](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=4)** Lots of things can go wrong.
 >
@@ -892,9 +880,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=16)** An example of data misinterpretation arose in the acquisition of Autonomy by Hewlett-Packard or HP.
 >
-> **[0:24](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=24)** HP is a hardware and software company based in Palo Alto, California.
+> **[0:24](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=24)** HP is a [[Hardware]] and software company based in Palo Alto, California.
 >
-> **[0:29](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=29)** In October 2011, HP purchased Autonomy, an enterprise software company founded in Cambridge, England.
+> **[0:29](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=29)** In October 2011, HP purchased Autonomy, an [[Enterprise Software]] company founded in Cambridge, England.
 >
 > **[0:36](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=36)** The purchase price was $11 billion.
 >
@@ -938,7 +926,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=178)** And if the original forecast was pessimistic enough, the forecast itself might have turned the company away from something that ultimately turned out to be very profitable.
 >
-> **[3:07](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=187)** Recall, that in the early 1980s, IBM made two fateful decisions to outsource microprocessor production to Intel and operating system software to Microsoft.
+> **[3:07](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=187)** Recall, that in the early 1980s, IBM made two fateful decisions to outsource microprocessor production to Intel and operating system software to [[Microsoft]].
 >
 > **[3:20](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=200)** Presumably, IBM executives had forecast that future sales and profits from personal computer microprocessors and operating systems weren't large enough to pursue.
 >
@@ -952,13 +940,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=236)** As with AOL and Time Warner, and with IBM, Intel and Microsoft.
 >
-> **[4:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=241)** As we learn the basics of financial modeling and forecasting, keep in mind that this is not an exact science.
+> **[4:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=241)** As we learn the basics of [[Financial Modeling]] and forecasting, keep in mind that this is not an exact science.
 >
 > **[4:09](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-costs-of-being-wrong?u=76281980&t=249)** Prudence, caution, and healthy skepticism are in order, in selecting the data to input into a forecasting model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forecasting]] (5), [[Microsoft]] (3), [[Hardware]] (1), [[Enterprise Software]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Microsoft]] (3), [[Hardware]] (1), [[Enterprise Software]] (1), [[Financial Modeling]] (1)
 > **Env Vars:** aol (6), ibm (4)
 > **Definitions:** is a  (2), is an  (1), means that (1), known as (1)
 > **Warnings:** keep in mind (1), caution (1)
@@ -970,8 +958,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Home Depot 1985: Three weeks to live
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980)
+#### [Home Depot 1985: Three weeks to live](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +998,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=88)** Cash from the personal savings of the founders, usually not much, cash from early investors, and maybe some cash from a local bank loan.
 >
-> **[1:36](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=96)** - The goal of the startup company is to start generating cash from profitable business operations before burning through all that initial pile of cash.
+> **[1:36](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=96)** - The goal of the startup company is to start generating cash from profitable [[Business Operations]] before burning through all that initial pile of cash.
 >
 > **[1:45](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=105)** The size of that initial pile of cash, combined with the cash burn rate, gives the company founders an idea of how long they can last before they have to go back out into the streets looking for additional financing.
 >
@@ -1039,19 +1026,18 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=170)** - Not so fast!
 >
-> **[2:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=172)** We first need some background in financial modeling and financial statement forecasting before we are ready to appreciate the beauty of what the managers of Home Depot did back in 1985 to save the company.
+> **[2:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980&t=172)** We first need some background in [[Financial Modeling]] and financial statement [[Forecasting]] before we are ready to appreciate the beauty of what the managers of Home Depot did back in 1985 to save the company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Financial Modeling]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Financial Modeling]] (1), [[Forecasting]] (1)
 > **Speakers:** - in (2), - not (2), - most (1), - an (1), - and (1)
 
-#### The impacts of natural changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980)
+#### [The impacts of natural changes](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=1)** - Using the historical financial statements as a starting point, we can systematically create a forecast of next year's financial statements.
+> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=1)** - Using the historical [[Financial Statements]] as a starting point, we can systematically create a forecast of next year's financial statements.
 >
 > **[0:09](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=9)** First, let's consider the balance sheet.
 >
@@ -1063,7 +1049,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=32)** Let's first talk about those items that increase naturally with an increase in sales volume.
 >
-> **[0:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=38)** By the way, this highlights the importance of starting the whole forecasting process with a reliable sales forecast.
+> **[0:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=38)** By the way, this highlights the importance of starting the whole [[Forecasting]] process with a reliable sales forecast.
 >
 > **[0:45](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-natural-changes?u=76281980&t=45)** For year two, a careful analysis of historical trends, economic conditions, and company plans, has led the financial planers of Derrald Company to agree that sales are expected to increase a whopping 50% in year two.
 >
@@ -1117,15 +1103,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Forecasting]] (2), business (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Forecasting]] (2)
 > **Versions:** 18.5 (3)
 > **Definitions:** in other words (1), means that (1)
 > **Warnings:** note that (2)
 > **Analogies:** such as (1)
 > **Speakers:** - using (1)
 
-#### The impacts of long-term planning decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-long-term-planning-decisions?u=76281980)
+#### [The impacts of long-term planning decisions](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-long-term-planning-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-long-term-planning-decisions?u=76281980&t=16)** Thus, a business anticipating an increase in sales in the coming of year of only 10% may expand its productive capacity by 50% as part of its long-term strategic plan.
 >
-> **[0:28](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-long-term-planning-decisions?u=76281980&t=28)** In a similar fashion, a business forecasting 25% sales growth may plan to use existing excess capacity to handle the entire sales increase without any increase in long-term assets.
+> **[0:28](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-long-term-planning-decisions?u=76281980&t=28)** In a similar fashion, a business [[Forecasting]] 25% sales growth may plan to use existing excess capacity to handle the entire sales increase without any increase in long-term assets.
 >
 > **[0:40](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-long-term-planning-decisions?u=76281980&t=40)** In short, forecasting future levels of long-term assets requires some knowledge of a company's strategic expansion plan.
 >
@@ -1175,13 +1160,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), business (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3)
 > **Versions:** 300.00 (3), 700.00 (3), 15.00 (2), 35.00 (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - long (1)
 
-#### The impacts of financing choices
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980)
+#### [The impacts of financing choices](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=48)** The level of long-term debt and of stockholder's equity is determined by management's decisions on how to best obtain financing.
 >
-> **[0:56](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=56)** In fact, management often uses forecasted financial statements prepared under a variety of different financing scenarios to help determine what financing choices to make.
+> **[0:56](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=56)** In fact, management often uses forecasted [[Financial Statements]] prepared under a variety of different financing scenarios to help determine what financing choices to make.
 >
 > **[1:08](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=68)** For now, we will make the simple assumption that Derrald is planning to partially finance its operations in Year 2 by increasing its bank loans payable from $300 to $400.
 >
@@ -1251,17 +1235,17 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=278)** Okay, what if now is not the right time to solicit new funds from shareholders?
 >
-> **[4:43](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=283)** Well the good news is that we haven't done it yet, this is just a forecasting exercise.
+> **[4:43](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=283)** Well the good news is that we haven't done it yet, this is just a [[Forecasting]] exercise.
 >
 > **[4:48](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=288)** If we don't like the implications, we can change the plan before the year ever begins.
 >
 > **[4:53](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=293)** Don't increase property, plant and equipment so much, increase the planned amount of borrowing.
 >
-> **[4:59](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=299)** Financial modeling in the preparation of forecasted financial statements allows us in advance to evaluate whether Derrald Company's operating, investing, and financing plans are feasible and internally consistent.
+> **[4:59](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-impacts-of-financing-choices?u=76281980&t=299)** [[Financial Modeling]] in the preparation of forecasted financial statements allows us in advance to evaluate whether Derrald Company's operating, investing, and financing plans are feasible and internally consistent.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Financial Statements]] (3), [[Forecasting]] (1), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Forecasting]] (1), [[Financial Modeling]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
@@ -1271,12 +1255,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Gap and predictable change
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980)
+#### [The Gap and predictable change](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=1)** - Okay, I know you're a bit of a nut about sports statistics.
+> **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=1)** - Okay, I know you're a bit of a nut about sports [[Statistics]].
 >
 > **[0:04](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=4)** - A nut? Well, absolutely.
 >
@@ -1298,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=46)** So, if you could go back in time to the end of the 2001 season, after Barry Bonds had hit his 73 home runs to set the record, what would you have predicted for the number of home runs he would hit the next season?
 >
-> **[1:00](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=60)** - Okay, so, I'm standing at the end of 2001, after he's hit 73 home runs, forecasting Barry Bonds' home run total for 2002?
+> **[1:00](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=60)** - Okay, so, I'm standing at the end of 2001, after he's hit 73 home runs, [[Forecasting]] Barry Bonds' home run total for 2002?
 >
 > **[1:09](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=69)** - Exactly. Let me refine my question.
 >
@@ -1314,11 +1297,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=94)** In other words, it is highly unlikely for you to set a record every year, year after year.
 >
-> **[1:41](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=101)** - Okay, fascinating, but how does this relate to financial modeling and financial statement forecasting?
+> **[1:41](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=101)** - Okay, fascinating, but how does this relate to [[Financial Modeling]] and financial statement forecasting?
 >
 > **[1:45](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=105)** - Okay, the same idea of reversion to the mean can be used when making financial forecasts.
 >
-> **[1:51](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=111)** - Okay, I see. Now, an example is the financial statement analysis case we teach using the numbers for the Gap in 1991.
+> **[1:51](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=111)** - Okay, I see. Now, an example is the [[Financial Statement Analysis]] case we teach using the numbers for the Gap in 1991.
 >
 > **[1:59](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980&t=119)** - When we teach our financial statement analysis class, we like to use some old cases.
 >
@@ -1354,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), hit (6), [[Forecasting]] (3), [[Financial Statement Analysis]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Financial Statement Analysis]] (2), [[Statistics]] (1), [[Financial Modeling]] (1)
 > **Speakers:** - okay (9), - well (3), - exactly (2), - when (2), - yeah (2)
 > **Cross-References:** in the next (5)
 > **Env Vars:** ops (3)
@@ -1362,8 +1345,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 
-#### Forecasting sales-based expenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-sales-based-expenses?u=76281980)
+#### [Forecasting sales-based expenses](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-sales-based-expenses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,7 +1373,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-sales-based-expenses?u=76281980&t=62)** Remember that these are preliminary forecasted decisions.
 >
-> **[1:05](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-sales-based-expenses?u=76281980&t=65)** The point of financial modeling and forecasting is to do a disciplined analysis of the implications of these forecasts and decisions.
+> **[1:05](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-sales-based-expenses?u=76281980&t=65)** The point of [[Financial Modeling]] and [[Forecasting]] is to do a disciplined analysis of the implications of these forecasts and decisions.
 >
 > **[1:14](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-sales-based-expenses?u=76281980&t=74)** Okay let's start with the income statement.
 >
@@ -1457,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), next (3), [[Financial Modeling]] (2), management (1), game (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Financial Modeling]] (2)
 > **Env Vars:** coo (4)
 > **CLI Commands:** make (2)
 > **Versions:** 18.5 (1), 42.9 (1)
@@ -1465,8 +1447,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Fixed costs and variable costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/fixed-costs-and-variable-costs?u=76281980)
+#### [Fixed costs and variable costs](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/fixed-costs-and-variable-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1483,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/fixed-costs-and-variable-costs?u=76281980&t=71)** More customers means more cost to buy the food to feed those customers.
 >
-> **[1:16](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/fixed-costs-and-variable-costs?u=76281980&t=76)** In forecasting these other operating expenses, there are two possible extreme approaches.
+> **[1:16](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/fixed-costs-and-variable-costs?u=76281980&t=76)** In [[Forecasting]] these other operating expenses, there are two possible extreme approaches.
 >
 > **[1:22](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/fixed-costs-and-variable-costs?u=76281980&t=82)** First, we can assume that all of the costs are fixed.
 >
@@ -1542,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Versions:** 18.5 (1), 1.5 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** coo (1)
@@ -1551,8 +1532,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### Forecasting interest and income taxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980)
+#### [Forecasting interest and income taxes](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1568,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=130)** In order to determine how much impact the assumptions can have, it's often useful to conduct a sensitivity analysis.
 >
-> **[2:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=137)** This involves repeating the forecasting exercise using a set of pessimistic and a set of optimistic assumptions.
+> **[2:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=137)** This involves repeating the [[Forecasting]] exercise using a set of pessimistic and a set of optimistic assumptions.
 >
 > **[2:24](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=144)** Thus one can construct a worse case, standard case, and best case scenario to use in making decisions with the forecasted numbers.
 >
@@ -1628,11 +1608,11 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=239)** What this means is that, in this example the forecasted income statement indicates that the expectation of greatly increased tax rates suggests that it might not make sense to go to all the trouble to increase sales by 50%.
 >
-> **[4:12](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=252)** You see, running though this financial modeling and forecasting exercise might cause us to change our plans completely.
+> **[4:12](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-interest-and-income-taxes?u=76281980&t=252)** You see, running though this [[Financial Modeling]] and forecasting exercise might cause us to change our plans completely.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), business (1), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Financial Modeling]] (1)
 > **Env Vars:** haan (6)
 > **CLI Commands:** make (2)
 > **Versions:** 42.9 (2)
@@ -1645,8 +1625,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of the accounting equation
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980)
+#### [The power of the accounting equation](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1675,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=96)** And we've been using this for five hundred years.
 >
-> **[1:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=98)** - Now the accounting equation also provides important discipline when constructing forecasted financial statements.
+> **[1:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=98)** - Now the accounting equation also provides important discipline when constructing forecasted [[Financial Statements]].
 >
 > **[1:45](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=105)** - Imagine that you want to forecast financing needs for next year.
 >
@@ -1706,7 +1685,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=122)** - Now, you need an analysis of operations to determine what other resources will be necessary to support that forecasted level of sales: inventory purchases, employee wages, overhead costs, and so forth.
 >
-> **[2:14](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=134)** - Now it's possible to do all of this forecasting and modeling in isolation.
+> **[2:14](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=134)** - Now it's possible to do all of this [[Forecasting]] and modeling in isolation.
 >
 > **[2:20](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980&t=140)** The sales people do their thing.
 >
@@ -1728,14 +1707,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Financial Statements]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Forecasting]] (1)
 > **Speakers:** - [man (5), - now (5), - the (2), - you (2), - it (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 
-#### Identifying the missing number
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/identifying-the-missing-number?u=76281980)
+#### [Identifying the missing number](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/identifying-the-missing-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1815,15 +1793,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (1)
 > **Versions:** 18.5 (1), 20.0 (1), 42.9 (1), 60.0 (1)
 > **Definitions:** in other words (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - okay (1)
 
-#### Easy "plugs": Cash, investments, paid-in capital
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/easy-plugs-cash-investments-paid-in-capital?u=76281980)
+#### [Easy "plugs": Cash, investments, paid-in capital](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/easy-plugs-cash-investments-paid-in-capital?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,13 +1885,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), management (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - here (1)
 
-#### Realistic but challenging "plug": Loans
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/realistic-but-challenging-plug-loans?u=76281980)
+#### [Realistic but challenging "plug": Loans](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/realistic-but-challenging-plug-loans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1989,11 +1963,11 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/realistic-but-challenging-plug-loans?u=76281980&t=250)** Finally, loans, yes, this makes the most sense because companies usually look to borrowing first in making their financing plans.
 >
-> **[4:20](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/realistic-but-challenging-plug-loans?u=76281980&t=260)** Yes, there are some mathematical challenges in using loans payable and creating forecasts of financial statements but it's nothing we can't handle.
+> **[4:20](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/realistic-but-challenging-plug-loans?u=76281980&t=260)** Yes, there are some mathematical challenges in using loans payable and creating forecasts of [[Financial Statements]] but it's nothing we can't handle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
@@ -2002,8 +1976,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Home Depot story revisited
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-home-depot-story-revisited?u=76281980)
+#### [The Home Depot story revisited](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-home-depot-story-revisited?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2069,11 +2042,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **Speakers:** - in (3), - well (2), - now (2), - home (2), - back (1)
 
-#### How to deduce cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980)
+#### [How to deduce cash flows](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,9 +2056,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980&t=28)** So let's learn how to do this.
 >
-> **[0:30](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980&t=30)** This skill is useful in and of itself, but this is also a useful exercise in that we learn how all three financial statements relate to one another.
+> **[0:30](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980&t=30)** This skill is useful in and of itself, but this is also a useful exercise in that we learn how all three [[Financial Statements]] relate to one another.
 >
-> **[0:39](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980&t=39)** By the way, if after this quick overview, you feel a little shaky with your cash flow computations, feel free to work through the cash flow analysis course that my brother Jim and I have created for the LinkedIn Learning library.
+> **[0:39](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980&t=39)** By the way, if after this quick overview, you feel a little shaky with your cash flow computations, feel free to work through the cash flow analysis course that my brother Jim and I have created for the [[LinkedIn]] Learning library.
 >
 > **[0:53](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/how-to-deduce-cash-flows?u=76281980&t=53)** Here are simple income statement data for EV Company.
 >
@@ -2165,11 +2136,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (1), [[Financial Statements]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[LinkedIn]] (1)
 > **Speakers:** - before (1)
 
-#### Forecasting operating cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-operating-cash-flow?u=76281980)
+#### [Forecasting operating cash flow](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-operating-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2213,7 +2183,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-operating-cash-flow?u=76281980&t=155)** Except through new loans from increasingly desperate bankers.
 >
-> **[2:40](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-operating-cash-flow?u=76281980&t=160)** The benefit of cold, clear financial modeling is that it shows you the future unvarnished and untainted with cheerful talk and overoptimism.
+> **[2:40](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-operating-cash-flow?u=76281980&t=160)** The benefit of cold, clear [[Financial Modeling]] is that it shows you the future unvarnished and untainted with cheerful talk and overoptimism.
 >
 > **[2:50](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-operating-cash-flow?u=76281980&t=170)** To be blunt, based on these cash flow projections, as of the end of 1985, Home Depot faced future death.
 >
@@ -2257,14 +2227,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (2)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 1.986 (1)
 > **Speakers:** - okay (1)
 
-#### Forecasting investing cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980)
+#### [Forecasting investing cash flow](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2326,9 +2295,9 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980&t=226)** Now consider, how is net income impacted by a change in fixed asset turnover ratio, which directly affects not the income statement, but the property, plant and equipment amount in the balance sheet?
 >
-> **[3:58](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980&t=238)** Well, this illustrates the importance of careful financial modeling.
+> **[3:58](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980&t=238)** Well, this illustrates the importance of careful [[Financial Modeling]].
 >
-> **[4:03](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980&t=243)** Casual unstructured thinking won't capture all of the interrelations within the financial statements.
+> **[4:03](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980&t=243)** Casual unstructured thinking won't capture all of the interrelations within the [[Financial Statements]].
 >
 > **[4:09](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/forecasting-investing-cash-flow?u=76281980&t=249)** The increase in the forecasted fixed asset turnover ratio directly reduces the forecasted amount of property, plant and equipment needed in each year.
 >
@@ -2348,20 +2317,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (2), business (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (2), [[Financial Statements]] (1)
 > **Versions:** 3.5 (4), 5.0 (3), 1.076 (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - capital (1)
 
-#### Financing cash flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980)
+#### [Financing cash flow](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=1)** - The two sources of cash from financing activities are borrowing and owner investment.
 >
-> **[0:07](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=7)** The most desirable sequence of decision-making with respect to cash from financing activities is as follows.
+> **[0:07](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=7)** The most desirable sequence of [[Decision-Making]] with respect to cash from financing activities is as follows.
 >
 > **[0:13](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=13)** First, forecast the level of activity, such as the level of sales.
 >
@@ -2373,9 +2341,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=52)** The exact decision this year of whether it's best to obtain financing cash inflow from borrowing or from owner investment depends on market conditions this year.
 >
-> **[1:02](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=62)** Detailed consideration of these decisions is part of the field of corporate finance.
+> **[1:02](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=62)** Detailed consideration of these decisions is part of the field of [[Corporate Finance]].
 >
-> **[1:08](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=68)** To put some structure on the Home Depot forecasting exercise, let's assume that it has been decided that the overall leverage of Home Depot should be such that the debt ratio, total liabilities divided by total assets, is 80%.
+> **[1:08](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=68)** To put some structure on the Home Depot [[Forecasting]] exercise, let's assume that it has been decided that the overall leverage of Home Depot should be such that the debt ratio, total liabilities divided by total assets, is 80%.
 >
 > **[1:22](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=82)** So, forecasting the required balance of long-term debt each year means, one, determining total assets needed, two, determining the amount of informal debt financing provided through suppliers, called accounts payable, and three, using the target debt ratio of 80% to compute the amount of additional financing that will need to come from long-term debt.
 >
@@ -2403,7 +2371,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=195)** How is net income impacted by a change in debt ratio, which directly affects not the income statement, but the long-term debt amount in the balance sheet?
 >
-> **[3:25](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=205)** Again, this illustrates the importance of careful financial modeling to capture all the interrelations within the financial statements.
+> **[3:25](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=205)** Again, this illustrates the importance of careful [[Financial Modeling]] to capture all the interrelations within the [[Financial Statements]].
 >
 > **[3:34](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/financing-cash-flow?u=76281980&t=214)** The decrease in the target debt ratio directly reduces the forecasted amount of new long-term debt needed in each year.
 >
@@ -2437,8 +2405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dynamic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980)
+#### [Dynamic modeling](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2452,7 +2419,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=35)** "Home Depot can't be fixed, hopeless."
 >
-> **[0:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=38)** I actually have a PowerPoint slide where the word hopeless twirls around on the screen.
+> **[0:38](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=38)** I actually have a [[Microsoft PowerPoint|PowerPoint]] slide where the [[Microsoft Word|word]] hopeless twirls around on the screen.
 >
 > **[0:43](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=43)** - But students know it can't be hopeless.
 >
@@ -2516,13 +2483,13 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=196)** - That's a good point.
 >
-> **[3:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=197)** Financial modeling and financial statement forecasting is a great starting point, a tool to explore various options.
+> **[3:17](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=197)** [[Financial Modeling]] and financial statement [[Forecasting]] is a great starting point, a tool to explore various options.
 >
 > **[3:24](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980&t=204)** - But in the end, the real work is done by real people in the real world, who then make the financial model come to life.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Word|Word]] (1), management (1), [[Financial Modeling]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Word|Word]] (1), [[Financial Modeling]] (1), [[Forecasting]] (1)
 > **Speakers:** - [speaker (11), - but (2), - so (2), - remember (1), - to (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3)

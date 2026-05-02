@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WordPress internationalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980)
+#### [WordPress internationalization](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980&t=4)** Hi.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980&t=4)** I'm Carrie Dills and I'd like to welcome you to WordPress Internationalization.
+> **[0:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980&t=4)** I'm Carrie Dills and I'd like to welcome you to [[WordPress]] [[Internationalization]].
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980&t=9)** WordPress is for everybody and I love its mission to democratize publishing through open source software.
 >
@@ -129,23 +128,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Internationalization]] (2), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Internationalization]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - konnichiwa (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you'll want to already be familiar with WordPress, how it works, some of the code behind it, and the basics of extending WordPress functionality with themes or plug-ins.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you'll want to already be familiar with [[WordPress]], how it works, some of the code behind it, and the basics of extending WordPress functionality with themes or plug-ins.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=13)** You should also have a good working knowledge of PHP.
+> **[0:13](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=13)** You should also have a good working knowledge of [[PHP]].
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=17)** While you certainly don't have to be a pro, we'll be working with some PHP in this course, and I'll be focused on explaining it as it relates to internationalization and not necessarily its broader principles.
+> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=17)** While you certainly don't have to be a pro, we'll be working with some PHP in this course, and I'll be focused on explaining it as it relates to [[Internationalization]] and not necessarily its broader principles.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=29)** The same goes for JavaScript.
+> **[0:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=29)** The same goes for [[JavaScript]].
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=31)** Don't let this scare you off.
 >
@@ -165,13 +163,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=77)** What I mean by that is websites whose content is translated into various languages.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=83)** For example, here on the LinkedIn website, they have a Language option to view the content in various languages.
+> **[1:23](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=83)** For example, here on the [[LinkedIn]] website, they have a Language option to view the content in various languages.
 >
 > **[1:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-you-need-to-know?u=76281980&t=91)** This is a different process than making your code translatable and is outside the scope of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (3), [[JavaScript]] (2), [[Internationalization]] (1), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[PHP]] (3), [[JavaScript]] (2), [[Internationalization]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Prerequisites:** install (1), you'll need (1), before we start (1)
@@ -179,14 +177,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project overview and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980)
+#### [Project overview and exercise files](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980&t=0)** - [Narrator] Later in the course, we'll build a simple WordPress plugin together to demonstrate the principles of internationalization and localization.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980&t=0)** - [Narrator] Later in the course, we'll build a simple [[WordPress]] plugin together to demonstrate the principles of [[Internationalization]] and localization.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980&t=9)** If you'd like to follow along with that, I've uploaded all the files I've used to a GitHub repository for this course where you can access them for reference.
+> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980&t=9)** If you'd like to follow along with that, I've uploaded all the files I've used to a [[GitHub]] repository for this course where you can access them for reference.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-internationalization-22343157/project-overview-and-exercise-files?u=76281980&t=18)** The branches are structured to correspond to the videos in this course.
 >
@@ -213,14 +210,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is internationalization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980)
+#### [What is internationalization?](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=0)** - [Instructor] As a theme or plugin developer, there will be many times that you have to hard-code strings of text.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=6)** As a matter of fact, in WordPress itself, there are many instances of these hard-coded strings.
+> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=6)** As a matter of fact, in [[WordPress]] itself, there are many instances of these hard-coded strings.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=12)** So take, for example, this simple WordPress login form.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=30)** Let me copy this.
 >
-> **[0:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=31)** And if we head over to the WordPress repository on GitHub, and we'll go to the file that handles that login form, and I'll search for that phrase, Username or Email Address, and it's here several times.
+> **[0:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=31)** And if we head over to the WordPress repository on [[GitHub]], and we'll go to the file that handles that login form, and I'll search for that phrase, Username or Email Address, and it's here several times.
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=46)** But this instance right here is actually where the text from that form is coming from.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=62)** Goodness, no.
 >
-> **[1:03](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=63)** That's where internationalization comes to the rescue.
+> **[1:03](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=63)** That's where [[Internationalization]] comes to the rescue.
 >
 > **[1:07](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=67)** Internationalization is the process of writing code in a way so that text strings are easily translatable.
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=82)** More on that later.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=83)** When discussing internationalization, you may come across its shorthand, i18n, where I indicates the first letter of the word, N the last, and 18 representing the number of letters between the I and the N.
+> **[1:23](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=83)** When discussing internationalization, you may come across its shorthand, i18n, where I indicates the first letter of the [[Microsoft Word|word]], N the last, and 18 representing the number of letters between the I and the N.
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980&t=99)** So if you see it written like i18n, you know that means internationalization.
 >
@@ -260,24 +256,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Internationalization]] (4), [[GitHub]] (1), [[Search]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Internationalization]] (4), [[GitHub]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why internationalize code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980)
+#### [Why internationalize code?](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=0)** - [Narrator] You can create a brilliant theme or plugin that's technically perfect in every way and it doesn't have to be translation ready.
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=8)** Internationalization is not a requirement, but it is a major enhancement.
+> **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=8)** [[Internationalization]] is not a requirement, but it is a major enhancement.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=14)** Why?
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=15)** Because WordPress powers over 43% of the web and of those millions of websites a huge number are located around the world not just in native English speaking countries.
+> **[0:15](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=15)** Because [[WordPress]] powers over 43% of the web and of those millions of websites a huge number are located around the world not just in native English speaking countries.
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=26)** WordPress is fully translated into dozens of languages with many more dozens in the process.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=60)** WordPress has made internationalization a high priority which means that as a developer, it should be on your list too.
 >
-> **[1:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=68)** In the broader scheme, internationalization plays a role in better web accessibility.
+> **[1:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=68)** In the broader scheme, internationalization plays a role in better [[Web Accessibility]].
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-internationalization-22343157/why-internationalize-code?u=76281980&t=74)** It provides a gateway or access for non-developers to translate code into their own language.
 >
@@ -299,17 +294,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), [[Internationalization]] (3), web (1), [[Web Accessibility]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[Internationalization]] (3), [[Web Accessibility]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Internationalization vs. localization
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980)
+#### [Internationalization vs. localization](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=0)** - [Instructor] If you're reading on the web about internationalization or maybe hearing other developers discuss it, you'll likely also come across the term localization.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=0)** - [Instructor] If you're reading on the web about [[Internationalization]] or maybe hearing other developers discuss it, you'll likely also come across the term localization.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=10)** While they go together like peanut butter and jelly they are two distinct things.
 >
@@ -319,19 +313,19 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=31)** It has its own fancy abbreviation structured in the same way.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=35)** L10n, where L is the first letter of the word.
+> **[0:35](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=35)** L10n, where L is the first letter of the [[Microsoft Word|word]].
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=40)** N is the last, and there are 10 letters in between.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=44)** We'll discuss both of these in a lot more detail throughout the course, but I wanted to highlight those terms and their meanings upfront.
 >
-> **[0:51](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=51)** Now, before we move forward, let's talk about jigsaw puzzles.
+> **[0:51](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=51)** Now, before we move forward, let's talk about [[Jigsaw]] puzzles.
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=55)** If you've ever worked on a puzzle, you know how important it is to look at the picture on the box.
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=60)** As a matter of fact, I always study the picture for a while before I ever even touch a single piece of the puzzle.
 >
-> **[1:07](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=67)** Likewise, before we look at the details of internationalization and localization, I want to zoom out and give you that big picture overview so that as we move through the course you'll already have a concept of where each piece fits.
+> **[1:07](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=67)** Likewise, before we look at the details of internationalization and localization, I want to [[Zoom]] out and give you that big picture overview so that as we move through the course you'll already have a concept of where each piece fits.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=81)** So here's the short version of how it works.
 >
@@ -343,9 +337,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=100)** The result is a PO or portable object file.
 >
-> **[1:44](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=104)** PO files are compiled according to whether they contain translated strings for JavaScript or for PHP.
+> **[1:44](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=104)** PO files are compiled according to whether they contain translated strings for [[JavaScript]] or for [[PHP]].
 >
-> **[1:51](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=111)** So we've got MO files for PHP and JSON for JavaScript.
+> **[1:51](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=111)** So we've got MO files for PHP and [[JSON]] for JavaScript.
 >
 > **[1:56](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-vs-localization?u=76281980&t=116)** The compiled files are then used to output the translated strings.
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internationalization]] (3), [[JavaScript]] (2), [[PHP]] (2), web (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Internationalization]] (3), [[JavaScript]] (2), [[PHP]] (2), [[Microsoft Word|Word]] (1), [[Jigsaw]] (1)
 > **Env Vars:** php (2), json (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** php (2)
@@ -368,8 +362,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is gettext?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980)
+#### [What is gettext?](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,19 +380,18 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980&t=32)** A few years later, the GNU project released an open source version of this called GNU gettext.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980&t=38)** gettext works with multiple programming languages, including PHP and is considered the standard internationalization system across programming languages.
+> **[0:38](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980&t=38)** gettext works with multiple programming languages, including [[PHP]] and is considered the standard [[Internationalization]] system across programming languages.
 >
-> **[0:48](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980&t=48)** And this is what WordPress uses for internationalization.
+> **[0:48](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980&t=48)** And this is what [[WordPress]] uses for internationalization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Internationalization]] (2), [[PHP]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Internationalization]] (2), [[PHP]] (1), [[WordPress]] (1)
 > **Env Vars:** gnu (2), php (1)
 > **CLI Commands:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using text domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980)
+#### [Using text domains](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=9)** Doing this enables translators to use automated tools to easily extract all the text that needs to be translated from your code.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=17)** If you intend to submit your plugin or theme to the [wordpress.org](https://wordpress.org) repository, there's a couple of things to be aware of.
+> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=17)** If you intend to submit your plugin or theme to the [[[WordPress]].org](https://wordpress.org) repository, there's a couple of things to be aware of.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=25)** First, stay away from underscores or special characters.
 >
@@ -429,7 +421,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=71)** I'll create a new folder, and give it the very creatively named sample plugin.
 >
-> **[1:20](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=80)** And then from the root of that folder, I'll create my main plugin file and call it sample-plugin.php.
+> **[1:20](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=80)** And then from the root of that folder, I'll create my main plugin file and call it sample-plugin.[[PHP]].
 >
 > **[1:30](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-text-domains?u=76281980&t=90)** If you've spent any time looking at the source code for themes or plugins, you note that at the very top of that main file, there's always a header that provides information about said theme or plugin.
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (10), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[PHP]] (1)
 > **Code Identifiers:** load_plugin_textdomain (3), load_theme_textdomain (1), load_child_theme_textdomain (1), plugin_rel_path (1)
 > **Prerequisites:** install (4), set up (1)
 > **CLI Commands:** make (2), php (1)
@@ -512,16 +504,15 @@ created: 2026-05-02
 > **Warnings:** be aware (1), note that (1)
 > **File Paths:** sample-plugin.php (1)
 
-#### Translation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980)
+#### [Translation functions](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=0)** - [Instructor] In this lesson, I'd like to give a quick introduction to creating translatable strings in WordPress.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=0)** - [Instructor] In this lesson, I'd like to give a quick introduction to creating translatable strings in [[WordPress]].
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=6)** PHP is the primary language of WordPress, with JavaScript following.
+> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=6)** [[PHP]] is the primary language of WordPress, with [[JavaScript]] following.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=11)** When it comes to internationalization, there are methods that we can use for translating PHP and methods we can use for translating JavaScript.
+> **[0:11](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=11)** When it comes to [[Internationalization]], there are methods that we can use for translating PHP and methods we can use for translating JavaScript.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translation-functions?u=76281980&t=21)** Because PHP is a server-side language and JavaScript is a client-side language, the approaches are a little bit different.
 >
@@ -564,12 +555,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Translating strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980)
+#### [Translating strings](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=0)** - [Instructor] In order to make a string translatable in PHP, you need to wrap it in a gettext function.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=0)** - [Instructor] In order to make a string translatable in [[PHP]], you need to wrap it in a gettext function.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=6)** Here we are in the PHP manual for gettext, and we can see exactly what this function looks like.
 >
@@ -579,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=26)** If we scroll down, here we go, you can use a underscore character as an alias for the gettext function.
 >
-> **[0:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=36)** Now on WordPress, we're not going to use either one of these, because WordPress has its own functions for translating strings.
+> **[0:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=36)** Now on [[WordPress]], we're not going to use either one of these, because WordPress has its own functions for translating strings.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=43)** Here's a page showing all of the available PHP translation functions in WordPress.
 >
@@ -593,9 +583,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=79)** I'll create a variable called greeting, and just set it equal to a string that says, "Hello", straightforward enough.
 >
-> **[1:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=91)** But the problem here is that I've hard coded the word "Hello", and if you wanted to translate this to say, Spanish, you'd have to go into the code, and manually change "Hello" to "Hola".
+> **[1:31](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=91)** But the problem here is that I've hard coded the [[Microsoft Word|word]] "Hello", and if you wanted to translate this to say, Spanish, you'd have to go into the code, and manually change "Hello" to "Hola".
 >
-> **[1:43](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=103)** That's the whole point of internationalization.
+> **[1:43](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=103)** That's the whole point of [[Internationalization]].
 >
 > **[1:46](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980&t=106)** We want to make this easy to change, without having to modify the source code.
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[WordPress]] (3), data (1), [[Microsoft Word|Word]] (1), [[Internationalization]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[WordPress]] (3), [[Microsoft Word|Word]] (1), [[Internationalization]] (1)
 > **CLI Commands:** php (4), make (3)
 > **Env Vars:** php (4)
 > **Cross-References:** go back to (1), we talked about (1)
@@ -654,8 +644,7 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Exercise Files:** source code (1)
 
-#### Translate HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980)
+#### [Translate HTML](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=13)** They're the counterparts to these two functions that we just looked at.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=17)** The difference is that you use these when there's HTML output involved.
+> **[0:17](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=17)** The difference is that you use these when there's [[HTML]] output involved.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=22)** Here, we're adding the escape_html to the beginning of either one of those functions to escape HTML output.
 >
@@ -675,7 +664,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=55)** The easiest way to explain this is by looking at an example.
 >
-> **[0:59](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=59)** And we've got one ready to go here in the WordPress docs.
+> **[0:59](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=59)** And we've got one ready to go here in the [[WordPress]] docs.
 >
 > **[1:03](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=63)** So here we've got a variable called $html and it contains a string with HTML markup.
 >
@@ -691,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=117)** So depending on the output that you're going for, you would or would not use an escape_html function.
 >
-> **[2:05](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=125)** So getting back to internationalization.
+> **[2:05](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=125)** So getting back to [[Internationalization]].
 >
 > **[2:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translate-html?u=76281980&t=128)** That's where the escape_html__ function or the escape_html_e functions come in.
 >
@@ -704,8 +693,7 @@ created: 2026-05-02
 > **Code Identifiers:** escape_html (2), escape_html_e (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use placeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980)
+#### [Use placeholders](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=27)** It's leaving an available spot for the code to come back and insert the dynamic data at runtime.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=33)** In PHP, placeholders are implemented using a combination of the sprintf or printf functions, along with something called a type specifier.
+> **[0:33](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=33)** In [[PHP]], placeholders are implemented using a combination of the sprintf or printf functions, along with something called a type specifier.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=43)** As we've already seen with some earlier functions that we've worked with, some functions, like double underscores, returns a value, while others, such as _e, outputs a value.
 >
@@ -749,7 +737,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=124)** So our greeting variable would actually hold, Hello, Carrie.
 >
-> **[2:10](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=130)** So that's how you would use the sprintf function with a placeholder, but at this point, we haven't done anything to make that word "hello" actually translatable.
+> **[2:10](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=130)** So that's how you would use the sprintf function with a placeholder, but at this point, we haven't done anything to make that [[Microsoft Word|word]] "hello" actually translatable.
 >
 > **[2:20](https://www.linkedin.com/learning/wordpress-internationalization-22343157/use-placeholders?u=76281980&t=140)** In order to do that, we need to wrap the formatted string inside of a translation function.
 >
@@ -787,7 +775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Analogies:** for instance (2), such as (1)
 > **URLs:** [w3schools.com](https://w3schools.com) (1)
@@ -795,12 +783,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Argument swapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/argument-swapping?u=76281980)
+#### [Argument swapping](https://www.linkedin.com/learning/wordpress-internationalization-22343157/argument-swapping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/argument-swapping?u=76281980&t=0)** - [Instructor] Word ordering in a sentence differs from language to language.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/argument-swapping?u=76281980&t=0)** - [Instructor] [[Microsoft Word|Word]] ordering in a sentence differs from language to language.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/argument-swapping?u=76281980&t=4)** For example, in English, the adjective typically goes before the noun so I might say the pretty flower.
 >
@@ -851,14 +838,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with plurals
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980)
+#### [Working with plurals](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=0)** - [Instructor] Plurals come into play when you have a string that changes with a number of items.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=5)** A basic example of this in WordPress is the comment.
+> **[0:05](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=5)** A basic example of this in [[WordPress]] is the comment.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=8)** In English, we have one comment where comment is singular, or two comments where comments is plural.
 >
@@ -918,7 +904,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=156)** I'll use %d and then this comments is going to be the value that I want to use to replace these placeholders.
 >
-> **[2:54](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=174)** Let me make sure we got word wrap on here so you can see this.
+> **[2:54](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=174)** Let me make sure we got [[Microsoft Word|word]] wrap on here so you can see this.
 >
 > **[2:58](https://www.linkedin.com/learning/wordpress-internationalization-22343157/working-with-plurals?u=76281980&t=178)** Okay, so let's break this down.
 >
@@ -945,8 +931,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding context
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980)
+#### [Adding context](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=26)** Let's take a look at an example.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=29)** So here I've got the word Lead, Lead, or Lead depending on how the word is being used.
+> **[0:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=29)** So here I've got the [[Microsoft Word|word]] Lead, Lead, or Lead depending on how the word is being used.
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=37)** With the _x function, the first parameter is going to be the string for the translation, in this case, Lead or Lead, and the second is going to be context.
 >
@@ -986,7 +971,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=98)** I guarantee you that your translator will appreciate it.
 >
-> **[1:42](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=102)** If your head is swimming from all the different translation functions for PHP that we've looked at so far, don't worry, just remember the WordPress docs are your friend.
+> **[1:42](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=102)** If your head is swimming from all the different translation functions for [[PHP]] that we've looked at so far, don't worry, just remember the [[WordPress]] docs are your friend.
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-internationalization-22343157/adding-context?u=76281980&t=111)** It has all of these functions documented complete with examples for each so that you can reference them anytime you need.
 
@@ -1004,14 +989,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Including wp-i18n
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980)
+#### [Including wp-i18n](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980&t=0)** - [Instructor] As of WordPress 5.0, it's possible to internationalize JavaScript files using functions that directly mirror those used in PHP.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980&t=0)** - [Instructor] As of [[WordPress]] 5.0, it's possible to internationalize [[JavaScript]] files using functions that directly mirror those used in [[PHP]].
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980&t=9)** There's an internationalization script that ships with WordPress, and to use those functions in your theme or plugin, you need to declare this script as a dependency.
+> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980&t=9)** There's an [[Internationalization]] script that ships with WordPress, and to use those functions in your theme or plugin, you need to declare this script as a dependency.
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980&t=19)** If you're using MPM in your project, you can install it as a dependency, and then you could import those functions that you need from that package, and then use them accordingly in your code.
 >
@@ -1033,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[JavaScript]] (3), [[PHP]] (1), [[Internationalization]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[JavaScript]] (3), [[PHP]] (1), [[Internationalization]] (1)
 > **Env Vars:** mpm (2), php (1)
 > **File Paths:** my-script.js (2)
 > **CLI Commands:** php (1)
@@ -1042,14 +1026,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using translation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980)
+#### [Using translation functions](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980&t=0)** - [Instructor] Once we've got the WP I18n script loaded as a dependency, we can start using translation functions in our JavaScript.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980&t=0)** - [Instructor] Once we've got the WP I18n script loaded as a dependency, we can start using translation functions in our [[JavaScript]].
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980&t=8)** Now, not all translation functions in PHP have JavaScript counterparts.
+> **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980&t=8)** Now, not all translation functions in [[PHP]] have JavaScript counterparts.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-internationalization-22343157/using-translation-functions?u=76281980&t=13)** These are the ones that we're limited to.
 >
@@ -1075,12 +1058,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading translations
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/loading-translations?u=76281980)
+#### [Loading translations](https://www.linkedin.com/learning/wordpress-internationalization-22343157/loading-translations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/loading-translations?u=76281980&t=0)** - [Instructor] To complete the circuit when it comes to using internationalization functions in JavaScript, the remaining bit is to tell WordPress to load those transactions, and we do that with the WP Set Script translations function.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/loading-translations?u=76281980&t=0)** - [Instructor] To complete the circuit when it comes to using [[Internationalization]] functions in [[JavaScript]], the remaining bit is to tell [[WordPress]] to load those transactions, and we do that with the WP Set Script translations function.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-internationalization-22343157/loading-translations?u=76281980&t=14)** This function takes three parameters.
 >
@@ -1104,12 +1086,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980)
+#### [Introducing the project](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=0)** - [Instructor] In this chapter, I want to take what we've learned about internationalization and apply it in the form of a basic WordPress plugin.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=0)** - [Instructor] In this chapter, I want to take what we've learned about [[Internationalization]] and apply it in the form of a basic [[WordPress]] plugin.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=8)** So here I've got WordPress running locally on my machine and in this particular install, if I go to Plugins, here is a plugin called To the Top.
 >
@@ -1117,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=25)** If we look at the front-end of the site, we'll see two instances of that link.
 >
-> **[0:30](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=30)** One is written in JavaScript and the other is in PHP.
+> **[0:30](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=30)** One is written in [[JavaScript]] and the other is in [[PHP]].
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=35)** Now, before we get started, I'll give you an introduction to the files and folders that make up this plugin.
 >
@@ -1127,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=50)** And here in the root directory, I have two folders, a js folder containing a JavaScript file, and my languages folder, which contains my files for translation.
 >
-> **[1:01](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=61)** I mentioned it at the beginning of the course, but as a refresher, you have access to these same files via GitHub.
+> **[1:01](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=61)** I mentioned it at the beginning of the course, but as a refresher, you have access to these same files via [[GitHub]].
 >
 > **[1:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980&t=69)** There's a branch for each video in this chapter.
 >
@@ -1152,8 +1133,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Best practices for internationalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/best-practices-for-internationalization?u=76281980)
+#### [Best practices for internationalization](https://www.linkedin.com/learning/wordpress-internationalization-22343157/best-practices-for-internationalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,7 +1153,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/best-practices-for-internationalization?u=76281980&t=36)** Write entire sentences.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-internationalization-22343157/best-practices-for-internationalization?u=76281980&t=38)** This is really important as many languages have a different word order than English.
+> **[0:38](https://www.linkedin.com/learning/wordpress-internationalization-22343157/best-practices-for-internationalization?u=76281980&t=38)** This is really important as many languages have a different [[Microsoft Word|word]] order than English.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-internationalization-22343157/best-practices-for-internationalization?u=76281980&t=44)** Next up, split your text at paragraphs.
 >
@@ -1193,19 +1173,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add text domain and set domain path
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980)
+#### [Add text domain and set domain path](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=0)** - [Instructor] So to get started, I have a local installation of WordPress up and running.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=0)** - [Instructor] So to get started, I have a local installation of [[WordPress]] up and running.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=5)** And you can see I have no plugins yet.
 >
@@ -1215,11 +1194,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=22)** And from there, I'll add my main plugin file by the same name.
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=28)** I'll start by opening up my PHP brackets.
+> **[0:28](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=28)** I'll start by opening up my [[PHP]] brackets.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=32)** The next thing I want to do from here is add a header block.
 >
-> **[0:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=36)** I will head over to the word WordPress docs and I'm going to actually go and just copy this header block here and paste that into my file.
+> **[0:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=36)** I will head over to the [[Microsoft Word|word]] WordPress docs and I'm going to actually go and just copy this header block here and paste that into my file.
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-text-domain-and-set-domain-path?u=76281980&t=48)** That way I don't have to type it all out.
 >
@@ -1251,7 +1230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), next (2), [[PHP]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (1), find (1)
 > **Warnings:** note that (2)
 > **Env Vars:** php (1)
@@ -1259,8 +1238,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add translation functions to PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980)
+#### [Add translation functions to PHP](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1268,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=86)** Let's not forget our semicolon.
 >
-> **[1:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=89)** And oops, I forgot to write the word function at the beginning of my function name.
+> **[1:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=89)** And oops, I forgot to write the [[Microsoft Word|word]] function at the beginning of my function name.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=93)** So let's go ahead and add that.
 >
@@ -1310,7 +1288,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=143)** And before I activate it, let's just go look at the site.
 >
-> **[2:27](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=147)** Okay, and this is just a default WordPress install I haven't done anything to.
+> **[2:27](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=147)** Okay, and this is just a default [[WordPress]] install I haven't done anything to.
 >
 > **[2:33](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-php?u=76281980&t=153)** Let's activate the plugin and when we reload the front end, there we see that back to top link.
 >
@@ -1326,18 +1304,17 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and enqueue a script with wp18n
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980)
+#### [Create and enqueue a script with wp18n](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=0)** - [Instructor] So far, I've shown you how to create a back to top link with translatable text and add it to the footer of a site using PHP.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=0)** - [Instructor] So far, I've shown you how to create a back to top link with translatable text and add it to the footer of a site using [[PHP]].
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=9)** Now I want to show you how you could do the same, but with JavaScript instead.
+> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=9)** Now I want to show you how you could do the same, but with [[JavaScript]] instead.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=13)** I'm going to start by creating a folder off the root of my plugin, and I'll call it js, and inside that folder, I'll create a file, and just call it to-the-top.js.
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=28)** I'll just create this as a placeholder for the custom code that we'll write in the next lesson, but I'd like to go ahead and tell WordPress to load this file.
+> **[0:28](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=28)** I'll just create this as a placeholder for the custom code that we'll write in the next lesson, but I'd like to go ahead and tell [[WordPress]] to load this file.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-and-enqueue-a-script-with-wp18n?u=76281980&t=39)** So to do that, I'm going to use the enqueue_script function.
 >
@@ -1385,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), next (2), [[WordPress]] (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[WordPress]] (2), [[PHP]] (1)
 > **Code Identifiers:** jquery (3), enqueue_script (1), ttt_load_scripts (1), wp_enqueue_script (1), to_the_top (1)
 > **Env Vars:** url (2), php (1)
 > **File Paths:** to-the-top.js (2)
@@ -1393,14 +1370,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add translation functions to JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980)
+#### [Add translation functions to JavaScript](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=0)** - [Instructor] With our script set to Load along with the dependencies that we'll need, let's add some JavaScript to our file.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=0)** - [Instructor] With our script set to Load along with the dependencies that we'll need, let's add some [[JavaScript]] to our file.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=6)** In this case, I'm going to replicate what I've already done with PHP, and do it with JavaScript.
+> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=6)** In this case, I'm going to replicate what I've already done with [[PHP]], and do it with JavaScript.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=12)** Now, while you wouldn't really bundle both of these together in a real-world scenario, my point is to show you how to create translatable strings in both PHP and JavaScript.
 >
@@ -1410,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=42)** We've got the link target, a CSS class, and then the text, Back to top.
 >
-> **[0:46](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=46)** And then this next bit here simply appends that link to the HTML footer in our site.
+> **[0:46](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=46)** And then this next bit here simply appends that link to the [[HTML]] footer in our site.
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=53)** So let me save that.
 >
@@ -1430,7 +1406,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=109)** Now, there's one more thing I need to do in addition to wrapping this in a text string.
 >
-> **[1:55](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=115)** Even though I've loaded the internationalization script as a dependency, I need to reference that object here in this JavaScript file.
+> **[1:55](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=115)** Even though I've loaded the [[Internationalization]] script as a dependency, I need to reference that object here in this JavaScript file.
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/add-translation-functions-to-javascript?u=76281980&t=124)** There's two ways I can do that, and I was just going to show you here from the documentation.
 >
@@ -1450,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), [[PHP]] (6), next (2), css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[PHP]] (6), [[HTML]] (1), [[Internationalization]] (1)
 > **CLI Commands:** php (6), make (2)
 > **Env Vars:** php (6), css (1), html (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1458,18 +1434,17 @@ created: 2026-05-02
 > **Documentation:** the documentation (1), the docs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a translation file
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980)
+#### [Create a translation file](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=0)** - [Instructor] The plugin we've built so far contains strings for translation in both JavaScript and PHP.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=0)** - [Instructor] The plugin we've built so far contains strings for translation in both [[JavaScript]] and [[PHP]].
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=7)** In this lesson I'd like to show you how to generate a POT file, that stands for portable objects template and that contains any translatable strings.
 >
-> **[0:16](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=16)** There are several ways that you can generate a POT file and I'm going to show you how using WP-CLI.
+> **[0:16](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=16)** There are several ways that you can generate a POT file and I'm going to show you how using WP-[[CLI]].
 >
-> **[0:22](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=22)** Now, if you're not familiar with WP-CLI this is the official command line interface for WordPress and it has all sorts of helpful utilities for managing WordPress via terminal.
+> **[0:22](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=22)** Now, if you're not familiar with WP-CLI this is the official command line interface for [[WordPress]] and it has all sorts of helpful utilities for managing WordPress via terminal.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=34)** If this sounds intimidating, it's actually pretty approachable and there's great documentation for installing it on your machine and running it.
 >
@@ -1479,7 +1454,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=57)** One quick comment I want to make before we get started.
 >
-> **[1:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=60)** If you happen to use local WP for your local WordPress development it automatically installs WP-CLI for you.
+> **[1:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=60)** If you happen to use local WP for your local [[Wordpress Development]] it automatically installs WP-CLI for you.
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/create-a-translation-file?u=76281980&t=68)** And to use those commands, all you have to do is go to your site in local and click open site shell.
 >
@@ -1542,8 +1517,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Include an additional translation with your plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/include-an-additional-translation-with-your-plugin?u=76281980)
+#### [Include an additional translation with your plugin](https://www.linkedin.com/learning/wordpress-internationalization-22343157/include-an-additional-translation-with-your-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1559,7 +1533,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-internationalization-22343157/include-an-additional-translation-with-your-plugin?u=76281980&t=39)** The POE file is where the translation happens.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-internationalization-22343157/include-an-additional-translation-with-your-plugin?u=76281980&t=43)** Then in order to use these translations in WordPress, these POE files need to be compiled for strings from PHP files, a MOE file is created, and for strings from JavaScript files, a JSON file is created.
+> **[0:43](https://www.linkedin.com/learning/wordpress-internationalization-22343157/include-an-additional-translation-with-your-plugin?u=76281980&t=43)** Then in order to use these translations in [[WordPress]], these POE files need to be compiled for strings from [[PHP]] files, a MOE file is created, and for strings from [[JavaScript]] files, a [[JSON]] file is created.
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-internationalization-22343157/include-an-additional-translation-with-your-plugin?u=76281980&t=57)** We've already got our POT file.
 >
@@ -1608,14 +1582,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate MO and JSON files
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980)
+#### [Generate MO and JSON files](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=0)** - [Instructor] With our PO file translated, it's time to compile it into a MO file and a JSON file.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=0)** - [Instructor] With our PO file translated, it's time to compile it into a MO file and a [[JSON]] file.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=6)** The MO file will hold translated strings for PHP and the JSON file has the strings for JavaScript.
+> **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=6)** The MO file will hold translated strings for [[PHP]] and the JSON file has the strings for [[JavaScript]].
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=13)** Let's start with the MO file.
 >
@@ -1623,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=18)** You could do it via the command line, you could do it via Poedit, or even a plugin like Loco Translate.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=29)** Since I've already shown you the wp i18n CLI command, I'm going to stick with that.
+> **[0:29](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=29)** Since I've already shown you the wp i18n [[CLI]] command, I'm going to stick with that.
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=36)** There's a make-mo sub command I can use.
 >
@@ -1681,13 +1654,13 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=219)** What is that about?
 >
-> **[3:41](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=221)** Well, that's a hash that WordPress uses to map this translation file back to the original JavaScript file.
+> **[3:41](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=221)** Well, that's a hash that [[WordPress]] uses to map this translation file back to the original JavaScript file.
 >
 > **[3:49](https://www.linkedin.com/learning/wordpress-internationalization-22343157/generate-mo-and-json-files?u=76281980&t=229)** And with that, we have now got our compiled files ready to go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (10), [[JavaScript]] (9), [[PHP]] (1), [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (10), [[JavaScript]] (9), [[PHP]] (1), [[CLI]] (1), [[WordPress]] (1)
 > **Env Vars:** json (7), pot (3), php (1), cli (1)
 > **CLI Commands:** make (7), php (1)
 > **Tools:** command line (2), terminal (1)
@@ -1696,16 +1669,15 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load translations
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980)
+#### [Load translations](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=0)** - [Instructor] Now that we have our translation files ready to go, the last piece of the puzzle is to let WordPress know that we want to load those translations.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=0)** - [Instructor] Now that we have our translation files ready to go, the last piece of the puzzle is to let [[WordPress]] know that we want to load those translations.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=9)** There are three functions available for loading translations in PHP, depending on whether you're working with a plugin, theme or child theme respectively.
+> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=9)** There are three functions available for loading translations in [[PHP]], depending on whether you're working with a plugin, theme or child theme respectively.
 >
-> **[0:18](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=18)** And then there's wp_set_script_translations for loading translations in JavaScript.
+> **[0:18](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=18)** And then there's wp_set_script_translations for loading translations in [[JavaScript]].
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=24)** Let's start with our PHP.
 >
@@ -1817,7 +1789,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=408)** And also looks like I forgot to mark this translation as coming from a JavaScript file.
 >
-> **[6:54](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=414)** I'm going to head back to my JSON file, this is a little easier to read if we wrap it.
+> **[6:54](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=414)** I'm going to head back to my [[JSON]] file, this is a little easier to read if we wrap it.
 >
 > **[7:02](https://www.linkedin.com/learning/wordpress-internationalization-22343157/load-translations?u=76281980&t=422)** And here we go.
 >
@@ -1827,7 +1799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[JavaScript]] (5), next (2), [[WordPress]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[JavaScript]] (5), [[WordPress]] (1), [[JSON]] (1)
 > **Code Identifiers:** load_plugin_textdomain (3), wp_set_script_translations (2), add_action (2), wp_enqueue_scripts (2), ttt_load_php_translations (1)
 > **CLI Commands:** php (5), make (1)
 > **Env Vars:** php (5), json (1)
@@ -1841,12 +1813,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automating text domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980)
+#### [Automating text domains](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=0)** - [Narrator] Learned to show you how you can go further with internationalization.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=0)** - [Narrator] Learned to show you how you can go further with [[Internationalization]].
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=4)** Let's start with adding text domains in bulk.
 >
@@ -1854,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=22)** And it only takes a few steps.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=25)** To start, you would download this PHP file and drop it into the root of the theme or plug-in folder with the files that you wanted to add the text domain to.
+> **[0:25](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=25)** To start, you would download this [[PHP]] file and drop it into the root of the theme or plug-in folder with the files that you wanted to add the text domain to.
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980&t=35)** From there, you would open up a terminal and move your command line to that theme or plug in directory where that file is.
 >
@@ -1877,12 +1848,11 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Speakers:** - [narrator] (1)
 
-#### Language packs
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/language-packs?u=76281980)
+#### [Language packs](https://www.linkedin.com/learning/wordpress-internationalization-22343157/language-packs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/language-packs?u=76281980&t=0)** - [Narrator] In WordPress, language packs refer to sets of language files that enable users to translate a site into their preferred language.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/language-packs?u=76281980&t=0)** - [Narrator] In [[WordPress]], language packs refer to sets of language files that enable users to translate a site into their preferred language.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/language-packs?u=76281980&t=9)** Language packs include translations for all the default WordPress files, including the themes and plugins that come bundled with WordPress.
 >
@@ -1903,18 +1873,17 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Internationalization Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980)
+#### [Internationalization Security](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=0)** - [Instructor] Anytime you're writing code, security is an important consideration and internationalization is no exception.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=0)** - [Instructor] Anytime you're writing code, security is an important consideration and [[Internationalization]] is no exception.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=7)** In this lesson, we'll look at some tips.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=10)** For starters, if you're going to bundle locales provided by other translators, you'll want to check those strings for spam or malicious words.
 >
-> **[0:19](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=19)** If you're not familiar with the translation language, you could use Google Translate to convert a translation into your native language so that you can compare the original strings to the translated strings just to make sure there's no spam or anything malicious.
+> **[0:19](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=19)** If you're not familiar with the translation language, you could use [[Google]] Translate to convert a translation into your native language so that you can compare the original strings to the translated strings just to make sure there's no spam or anything malicious.
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-internationalization-22343157/internationalization-security?u=76281980&t=35)** Next, you want to make sure to escape strings.
 >
@@ -1946,7 +1915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Internationalization]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Internationalization]] (1), [[Google]] (1)
 > **Best Practices:** best practice (2), make sure to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (2)
@@ -1959,12 +1928,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Translating for WordPress with GlotPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980)
+#### [Translating for WordPress with GlotPress](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980&t=0)** - [Instructor] I couldn't teach you about WordPress and internationalization and not mention the opportunities available to help translate.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980&t=0)** - [Instructor] I couldn't teach you about [[WordPress]] and [[Internationalization]] and not mention the opportunities available to help translate.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980&t=8)** WordPress is in the process of being translated into over 150 locales.
 >
@@ -2003,18 +1971,17 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contributing to GlotPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980)
+#### [Contributing to GlotPress](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980&t=0)** - [Narrator] Community contributions are at the heart of open source software projects like WordPress.
+> **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980&t=0)** - [Narrator] Community contributions are at the heart of open source [[Software Projects]] like [[WordPress]].
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980&t=6)** As I mentioned in the previous lesson, GlotPress is an open source tool that makes it easy for translators to collaborate on a code base.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980&t=14)** If you're not multilingual, or don't feel compelled to contribute to WordPress translations, you could always contribute your development skills directly to the GlotPress project, helping enable others to translate software.
 >
-> **[0:27](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980&t=27)** If you're interested, you can find contribution guidelines here in the GlotPress GitHub repo.
+> **[0:27](https://www.linkedin.com/learning/wordpress-internationalization-22343157/contributing-to-glotpress?u=76281980&t=27)** If you're interested, you can find contribution guidelines here in the GlotPress [[GitHub]] repo.
 
 > [!info]- Semantic Content
 >
@@ -2030,16 +1997,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980)
+#### [What next?](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980&t=0)** - Well, what do you think?
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980&t=3)** Are you ready to start writing code that others can translate or maybe even translate for the WordPress project?
+> **[0:03](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980&t=3)** Are you ready to start writing code that others can translate or maybe even translate for the [[WordPress]] project?
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980&t=9)** In this course, we've covered what you need to know to get started with internationalization.
+> **[0:09](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980&t=9)** In this course, we've covered what you need to know to get started with [[Internationalization]].
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980&t=15)** You know the variety of translation functions available to you.
 >

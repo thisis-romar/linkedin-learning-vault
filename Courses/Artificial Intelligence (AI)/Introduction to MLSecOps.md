@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of MLSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980)
+#### [The power of MLSecOps](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980&t=4)** We're going to be talking about a new approach to securing AI and ML, MLSecOps.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980&t=11)** MLSecOps is a flexible framework that compliments work like the NIST AI RMF.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980&t=11)** MLSecOps is a flexible framework that compliments work like the [[NIST]] AI RMF.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980&t=17)** This course details how to build security into your ML lifecycle at every phase, from scope to deployment.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Security]] (2), [[NIST]] (1), rmf (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **Env Vars:** nist (1), rmf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - is (1)
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is MLSecOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980)
+#### [What is MLSecOps?](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=16)** AI and machine learning, or ML for short, are susceptible to unique threats that can present serious risks.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=24)** In this course, we explore risks to AI and machine learning and explain how to improve reliability of those systems through machine learning security operations, or MLSecOps for short.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=24)** In this course, we explore risks to AI and machine learning and explain how to improve reliability of those systems through machine learning [[Security Operations]], or MLSecOps for short.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=36)** In this introductory video, we provide a foundation for the remainder of the course.
 >
@@ -141,13 +139,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=45)** Next, we'll learn the basics of how machine learning is developed, and compare the development of machine learning to that of traditional software.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=52)** In other words, MLOps versus DevOps, and explain why it is so important that practitioners adopt an MLSecOps mindset.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=52)** In other words, [[MLOps]] versus [[DevOps]], and explain why it is so important that practitioners adopt an MLSecOps mindset.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=60)** Although the terms artificial intelligence and machine learning are often used interchangeably, they're not synonymous.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=60)** Although the terms [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning are often used interchangeably, they're not synonymous.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=67)** AI is the development of computer systems or machines that can perform tasks that typically require human intelligence, like understanding natural language, recognizing patterns, making decisions, and solving problems.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=81)** Machine learning can be used to train AI algorithms to improve performance.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=81)** Machine learning can be used to train AI [[Algorithms]] to improve performance.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=86)** For example, a major financial institution may use AI for fraud detection.
 >
@@ -163,17 +161,17 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=138)** Therefore, securing ML assets becomes crucial as they underpin the functionality and reliability of AI systems, ensuring their integrity, performance, and protection against threats.
 >
-> **[2:31](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=151)** ML development involves creating and fine tuning algorithms that make predictions or decisions based on data.
+> **[2:31](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=151)** ML development involves creating and [[Fine Tuning]] algorithms that make predictions or decisions based on data.
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=158)** MLOps, AKA machine learning operations extends this process by adding a structured approach to ML model deployment, monitoring, and management.
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=168)** MLOps and DevOps share common principles, but they have distinct focuses.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=173)** DevOps concentrates on automating software development and deployment.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=173)** DevOps concentrates on automating [[Software Development]] and deployment.
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=178)** MLOps adapts DevOps practices to the unique challenges of machine learning.
 >
-> **[3:04](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=184)** Let's consider the evolution from DevOps to DevSecOps.
+> **[3:04](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=184)** Let's consider the evolution from DevOps to [[DevSecOps]].
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=189)** DevSecOps is a secure by design approach, meaning that security considerations are introduced early in the development process, starting with a requirements definition.
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=222)** We've also provided a handout of this model that you can use as a reference to understand where in the flow specific actions and functions are completed.
 >
-> **[3:51](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=231)** What's unique about this model is that it focuses on securing the entire machine learning pipeline from data collection and model development to deployment and monitoring, and it extends security practices to safeguard ML assets in production environments.
+> **[3:51](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=231)** What's unique about this model is that it focuses on securing the entire machine learning pipeline from [[Data Collection]] and model development to deployment and monitoring, and it extends security practices to safeguard ML assets in production environments.
 >
 > **[4:08](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980&t=248)** While we delve deeper into MLSecOps team dynamics later in this course, it's valuable to start contemplating how these practices are currently implemented within your organization and how you can initiate a culture of cross collaboration with security teams.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Security]] (7), [[MLOps]] (6), [[DevOps]] (6), data (4)
+> **Frameworks & Libraries:** [[MLOps]] (6), [[DevOps]] (6), [[Algorithms]] (2), [[DevSecOps]] (2), [[Security Operations]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** aka (1)
@@ -203,8 +201,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The benefits of AI risk awareness in organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980)
+#### [The benefits of AI risk awareness in organizations](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,17 +229,17 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=68)** Supply chain vulnerabilities can compromise an entire system's integrity.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=73)** Foundation models downloaded from open repositories, like Hugging Face, can contain malicious code and backdoors.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=73)** Foundation models downloaded from open repositories, like [[Hugging Face]], can contain malicious code and backdoors.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=80)** And adversarial machine learning threats, such as prompt injection and data poisoning attacks, can manipulate the outcomes of AI systems.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=90)** Consider, for instance, an autonomous vehicle relying on AI for navigation.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=95)** If hackers gain access and manipulate the AI's decision-making process, the consequences could be disastrous.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=95)** If hackers gain access and manipulate the AI's [[Decision-Making]] process, the consequences could be disastrous.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=102)** Or we could imagine a scenario in the healthcare field where an AI-based diagnostic system designed to identify medical conditions from medical images, like X-rays or MRIs, becomes a target for manipulation, potentially leading to incorrect treatments and severe health consequences.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=121)** In financial services, if an AI-driven algorithm used for automated trading were compromised, it could raise concerns about regulatory compliance and even legal consequences.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=121)** In financial services, if an AI-driven algorithm used for automated trading were compromised, it could raise concerns about [[Regulatory Compliance]] and even legal consequences.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/the-benefits-of-ai-risk-awareness-in-organizations?u=76281980&t=132)** Think about the use of AI and ML in your organization.
 >
@@ -260,12 +257,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Security]] (2), chatbot (1), [[Hugging Face]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[Decision-Making]] (1), [[Regulatory Compliance]] (1)
 > **Analogies:** imagine (2), such as (1), for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Key MLSecOps categories of assurance explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980)
+#### [Key MLSecOps categories of assurance explained](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=40)** The second category of MLSecOps assurance is model provenance.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=44)** ML practitioners use repositories of pre-trained open source models from hubs like Model Garden, Hugging Face, and MLflow.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=44)** ML practitioners use repositories of pre-trained open source models from hubs like Model Garden, [[Hugging Face]], and [[MLflow]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=53)** According to research from synopsis, 80% of artifacts in the ML and analytics ecosystem are open source.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=70)** The next category of assurance is governance, risk, and compliance, or GRC for short.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=76)** Strong governance supports responsible machine learning use, with regular audits to assess fairness, transparency, and accountability in ML models and algorithms.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=76)** Strong governance supports responsible machine learning use, with regular audits to assess fairness, transparency, and [[Accountability]] in ML models and [[Algorithms]].
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=88)** A key artifact for ML SecOps GRC is the machine learning bill of materials, or ML-BOM.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=154)** Adversarial ML is a field of study that focuses on attacks on machine learning models and systems.
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=160)** Attacks can take many forms, such as manipulating input data to cause a model to make incorrect predictions, or manipulating the model itself to reduce its accuracy or cause it to behave in unexpected ways.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=160)** Attacks can take many [[Forms]], such as manipulating input data to cause a model to make incorrect predictions, or manipulating the model itself to reduce its accuracy or cause it to behave in unexpected ways.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-mlsecops/key-mlsecops-categories-of-assurance-explained?u=76281980&t=174)** A goal of adversarial ML researchers is to develop techniques and strategies to detect and defend against these attacks, and to improve the robustness and security of ML models and systems.
 >
@@ -331,31 +327,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Security]] (3), data (3), [[Algorithms]] (2), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Hugging Face]] (1), [[MLflow]] (1), [[Accountability]] (1), [[Forms]] (1)
 > **Env Vars:** grc (3), bom (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the MLSecOps framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980)
+#### [Understanding the MLSecOps framework](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=0)** - [Instructor] The MLSecOps framework supports the integration of security practices throughout the entire AI and ML lifecycle.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=8)** It's built on the solid foundation of traditional cybersecurity pillars, people, process, and technology.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=8)** It's built on the solid foundation of traditional [[Cybersecurity]] pillars, people, process, and technology.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=15)** The rapid adoption of AI-powered technology has driven the evolution from MLOps to MLSecOps through a refined set of best practices.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=15)** The rapid adoption of AI-powered technology has driven the evolution from [[MLOps]] to MLSecOps through a refined set of best practices.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=24)** Let's talk about that evolution.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=27)** DevSecOps is the integration of development, security, and operations.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=27)** [[DevSecOps]] is the integration of development, security, and operations.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=32)** It's a widely-accepted practice for building security into the DevOps process from the outset.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=32)** It's a widely-accepted practice for building security into the [[DevOps]] process from the outset.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=39)** It embodies the Shift Left principle by addressing security issues early in the software development lifecycle, when they're often easier and less costly to resolve.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=39)** It embodies the Shift Left principle by addressing security issues early in the [[Software Development]] lifecycle, when they're often easier and less costly to resolve.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=49)** This proactive approach prevents security-related surprises at later stages, ensuring a smoother transition to production.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=194)** Implement policy as code for ML models.
 >
-> **[3:17](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=197)** Prioritize privacy and data security.
+> **[3:17](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=197)** Prioritize [[Privacy]] and [[Data Security]].
 >
 > **[3:20](https://www.linkedin.com/learning/introduction-to-mlsecops/understanding-the-mlsecops-framework?u=76281980&t=200)** And last, but not least, continuously monitor ML models in production.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Security]] (9), [[Software Development]] (5), data (5), [[DevSecOps]] (4)
+> **Frameworks & Libraries:** [[Software Development]] (5), [[DevSecOps]] (4), [[MLOps]] (2), [[DevOps]] (2), [[Cybersecurity]] (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
@@ -409,12 +404,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Map, measure, manage, and govern
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980)
+#### [Map, measure, manage, and govern](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=0)** - [Tutor] To help organizations adopt AI and ML safely, the National Institute of Standards and Technology, NIST released an AI Risk Framework, the AI RMF.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=0)** - [Tutor] To help organizations adopt AI and ML safely, the National Institute of Standards and Technology, [[NIST]] released an AI Risk Framework, the AI RMF.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=11)** This framework details four core functions that are fundamental to the deployment of risk managed AI, Map, Measure, Manage, and Govern.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=132)** Governance of AI and ML refers to the policies, processes, procedures, and practices across the organization related to the mapping, measuring and managing of AI risks that are in place.
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=145)** AI and ML governance includes understanding the legal and regulatory requirements for the locales where the systems are built and used, integrating AI and ML controls and processes into the organizational policy, incorporating accountability and diversity, equity and inclusion metrics, and ensuring that AI and ML risks hold parody with the risk tolerance of the organization.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=145)** AI and ML governance includes understanding the legal and regulatory requirements for the locales where the systems are built and used, integrating AI and ML controls and processes into the organizational policy, incorporating [[Accountability]] and diversity, equity and inclusion metrics, and ensuring that AI and ML risks hold parody with the risk tolerance of the organization.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980&t=169)** To help organizations adopt and implement concepts from the NIST AI RMF, NIST has released a companion Playbook, which provides constructive advice for putting the AI RMF into practice.
 >
@@ -462,13 +456,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[NIST]] (6), rmf (6), management (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[NIST]] (6), [[Accountability]] (1)
 > **Env Vars:** nist (6), rmf (6), ml2 (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [tutor] (1)
 
-#### AI attack vectors and vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980)
+#### [AI attack vectors and vulnerabilities](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,19 +473,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=28)** There are a number of frameworks of varying maturity that classify AI attacks.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=33)** I used one, Failure Modes in Machine Learning, as the basis for my other LinkedIn learning course on AI and ML security.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=33)** I used one, Failure Modes in Machine Learning, as the basis for my other [[LinkedIn]] learning course on AI and ML security.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=41)** More recently, NIST released a comprehensive taxonomy of attacks on machine learning.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=41)** More recently, [[NIST]] released a comprehensive taxonomy of attacks on machine learning.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=47)** The NIST taxonomy is divided into two categories.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=51)** First is attacks on predictive AI or pred-AI.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=51)** First is attacks on [[Predictive AI]] or pred-AI.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=55)** These are systems that ingest historical data in order to find previously unseen patterns and forecast potential outcomes.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=63)** For example, an AI that predicts the weather or if a stock's value is going to go up or down.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=70)** And the second is attacks on generative AI, gen AI.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=70)** And the second is attacks on [[Generative AI]], gen AI.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=75)** These are systems that ingest data in order to generate new content.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=93)** Prompt injection attacks.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=95)** These come in two forms.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=95)** These come in two [[Forms]].
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=97)** The first is direct prompt injection.
 >
@@ -518,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=146)** Another jailbreak example is the poem, poem, poem, injection attack.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=150)** In this case, researchers instructed the AI to repeat the word poem forever.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=150)** In this case, researchers instructed the AI to repeat the [[Microsoft Word|word]] poem forever.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-attack-vectors-and-vulnerabilities?u=76281980&t=155)** After repeating the word poem a lot, the AI also started to return sensitive information like phone numbers.
 >
@@ -534,19 +527,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), prompt (10), [[Security]] (3), [[NIST]] (3), data (2)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Microsoft Word|Word]] (2), [[LinkedIn]] (1), [[Predictive AI]] (1), [[Generative AI]] (1)
 > **Env Vars:** nist (3), llm (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to threat modeling for AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/intro-to-threat-modeling-for-ai-systems?u=76281980)
+#### [Introduction to threat modeling for AI systems](https://www.linkedin.com/learning/introduction-to-mlsecops/intro-to-threat-modeling-for-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/intro-to-threat-modeling-for-ai-systems?u=76281980&t=0)** - [Narrator] Threat modeling is an important activity for risk management.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/intro-to-threat-modeling-for-ai-systems?u=76281980&t=0)** - [Narrator] [[Threat Modeling]] is an important activity for risk management.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-mlsecops/intro-to-threat-modeling-for-ai-systems?u=76281980&t=4)** To threat model, you map out the components in a system and define risk factors and potential threats.
 >
@@ -598,17 +590,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (10), ai (7), data (3), hit (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Threat Modeling]] (10)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Customized threat models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980)
+#### [Customized threat models](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=0)** - [Instructor] So we know what a threat model is, and as we've seen, threat modeling is a critical activity in the MLSecOps lifecycle.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=0)** - [Instructor] So we know what a threat model is, and as we've seen, [[Threat Modeling]] is a critical activity in the MLSecOps lifecycle.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=8)** And just like MLSecOps itself, threat modeling is an ongoing and continuous process.
 >
@@ -618,11 +609,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=32)** The questions that are answered and the ways the threats are addressed and prioritized can change based on the goal of the threat model.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=39)** For example, if a company wants to add an entirely new offering to their SaaS platform, the threat assessment questions could include business risk concerns like time to market, in addition to technical concerns like testing for critical severity vulnerabilities before launch.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=39)** For example, if a company wants to add an entirely new offering to their [[SaaS]] platform, the threat assessment questions could include business risk concerns like time to market, in addition to technical concerns like testing for critical severity vulnerabilities before launch.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=56)** Creating custom threat models for ML and AI requires incorporating questions and risk analysis specific to those systems.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=65)** In traditional DevSecOps threat modeling, risks related to training data usually focuses on whether or not that data includes live customer or organizational information because training on live or production data is usually considered a DevSecOps threat.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=65)** In traditional [[DevSecOps]] threat modeling, risks related to training data usually focuses on whether or not that data includes live customer or organizational information because training on live or production data is usually considered a DevSecOps threat.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=82)** For ML however, training on live or real data is often a requirement, so concerns about using dummy versus live data may not be relevant for custom ML threat models.
 >
@@ -632,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=107)** Was the source trustworthy?
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=109)** Were proper privacy practices followed when preparing the data for training?
+> **[1:49](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=109)** Were proper [[Privacy]] practices followed when preparing the data for training?
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=113)** Has the data been checked for bias?
 >
@@ -642,29 +633,28 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=123)** In order to create custom ML/AI-aware threat models, incorporate specific threats and concerns around AI and ML.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=132)** Some common categories of threats to consider include technique and processes, accessibility, identifiability and linkability, security and safety, ethics and human rights, and compliance.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=132)** Some common categories of threats to consider include technique and processes, accessibility, identifiability and linkability, security and safety, [[Ethics]] and human rights, and compliance.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=146)** As we talked about earlier, threat models for your AI and ML will vary depending on the goals of the systems.
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=153)** As a practical exercise, why don't you pause the video now and try using an online threat assessment resource such as PLOT4ai, which offers a Quick Assessment feature where users can conduct threat models on relevant categories and focus on ML-specific lifecycle phases.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=171)** And if you'd like to check out more documentation on customized AI and ML threat models, check out the recent article from Microsoft on Threat Modeling AI and ML Systems and Dependencies.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=171)** And if you'd like to check out more documentation on customized AI and ML threat models, check out the recent article from [[Microsoft]] on Threat Modeling AI and ML Systems and Dependencies.
 >
-> **[3:02](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=182)** Or you can use existing frameworks like the OWASP threat modeling process and customize them to meet the goals of your AI applications and ML systems.
+> **[3:02](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=182)** Or you can use existing frameworks like the [[OWASP]] threat modeling process and customize them to meet the goals of your AI applications and ML systems.
 >
 > **[3:11](https://www.linkedin.com/learning/introduction-to-mlsecops/customized-threat-models?u=76281980&t=191)** For more on this topic, we've created a list of resources that you can dive into and read more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (8), [[Threat Modeling]] (5), [[DevSecOps]] (2), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (5), [[DevSecOps]] (2), [[SaaS]] (1), [[Privacy]] (1), [[Ethics]] (1)
 > **Analogies:** just like (1), for example (1), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** owasp (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategic threat analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/strategic-threat-analysis?u=76281980)
+#### [Strategic threat analysis](https://www.linkedin.com/learning/introduction-to-mlsecops/strategic-threat-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/strategic-threat-analysis?u=76281980&t=8)** This can include business risks that span a unit, cross-organization, or even into a larger ecosystem.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-mlsecops/strategic-threat-analysis?u=76281980&t=15)** Strategic threat models can incorporate cyber threat intelligence, CTI, that could impact business goals.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-mlsecops/strategic-threat-analysis?u=76281980&t=15)** Strategic threat models can incorporate [[Cyber Threat Intelligence (CTI)|cyber threat intelligence]], CTI, that could impact business goals.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-mlsecops/strategic-threat-analysis?u=76281980&t=22)** And this is often where the intersection between cyber information security and the success of the business come into play.
 >
@@ -708,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), business (7), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1), cti (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** we covered (1), in the last (1)
 > **Analogies:** picture (1), for example (1)
@@ -716,8 +706,7 @@ created: 2026-05-02
 > **Env Vars:** cti (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring adversarial robustness
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980)
+#### [Ensuring adversarial robustness](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,11 +722,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=41)** Threat models provide a strong foundation for understanding what those exposures are and the impacts they can have on the system and the organization.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=50)** Using the information from the threat modeling phase, you can create test plans and strategies to verify that AI and ML systems are robust and resilient, against adversarial attacks.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=50)** Using the information from the [[Threat Modeling]] phase, you can create test plans and strategies to verify that AI and ML systems are robust and resilient, against adversarial attacks.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=63)** A very important part of the MLS SecOps lifecycle is model selection and training.
 >
-> **[1:08](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=68)** In traditional DevSecOps, developers write code, call libraries or microservices and build systems to perform specific functions.
+> **[1:08](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=68)** In traditional [[DevSecOps]], developers write code, call libraries or [[Microservices]] and build systems to perform specific functions.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-mlsecops/ensuring-adversarial-robustness?u=76281980&t=77)** But an MLS SecOps data scientists train models to accomplish functions, whether the AI and ML will be used to alert drivers to an oncoming car in their blind spot or to classify a dark spot on a radiograph as cancerous or benign, it must be trained in a closed or sandboxed environment, before it is placed into production use.
 >
@@ -767,15 +756,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (2), [[Threat Modeling]] (1), [[DevSecOps]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[DevSecOps]] (1), [[Microservices]] (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Env Vars:** mls (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [tutor] (1)
 
-#### Secure model deployment and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/secure-model-deployment-and-monitoring?u=76281980)
+#### [Secure model deployment and monitoring](https://www.linkedin.com/learning/introduction-to-mlsecops/secure-model-deployment-and-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +809,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), next (3), teams (1)
 > **Analogies:** for example (2), such as (2)
 > **Env Vars:** opa (1)
 > **Speakers:** - [instructor] (1)
@@ -831,14 +818,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building the team: Ownership and roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980)
+#### [Building the team: Ownership and roles](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=0)** - [Instructor] Remember, the MLSecOps framework stands on the traditional security pillars of people, process, and technology.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=8)** Building security practices into your AI ecosystem requires a skilled cross-collaborative team, just like a team you might form for DevSecOps purposes.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=8)** Building security practices into your AI ecosystem requires a skilled cross-collaborative team, just like a team you might form for [[DevSecOps]] purposes.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=17)** The roster of what we might call the MLSecOps Dream Team differs from a DevSecOps team though due to some unique considerations for AI.
 >
@@ -862,13 +848,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=74)** They understand the industry or business context and help to align security measures with overall organizational goals.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=81)** One example role in this category is UX designers who will help ensure that security measures don't compromise the user experience.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=81)** One example role in this category is UX designers who will help ensure that security measures don't compromise the [[User Experience (UX)|user experience]].
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=89)** And our last group, regulatory experts, team members from legal and HR can help navigate the complex landscape of regulations and compliance, safeguarding your AI initiatives from legal pitfalls.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=102)** And you might be wondering, why do we need such a diverse team?
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=106)** Well, it's because each role brings a unique perspective and skillset to the table forming a comprehensive defense against potential AI security risks.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=106)** Well, it's because each role brings a unique perspective and skillset to the table forming a comprehensive defense against potential [[AI Security]] risks.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=117)** One key reason is that the MLSecOps team needs to include both security experts and ML practitioners to bridge the knowledge gap between these two major stakeholders.
 >
@@ -876,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=132)** Security experts are well-versed in identifying vulnerabilities, understanding threat landscapes, and implementing robust security measures.
 >
-> **[2:20](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=140)** On the other hand, ML engineers and data scientists possess a deep understanding of the intricacies of algorithms, data pipelines, and machine learning models, but not necessarily where those components are susceptible to threats.
+> **[2:20](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=140)** On the other hand, ML engineers and data scientists possess a deep understanding of the intricacies of [[Algorithms]], [[Data Pipelines]], and machine learning models, but not necessarily where those components are susceptible to threats.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980&t=155)** Another important call out is that this list is not comprehensive.
 >
@@ -900,28 +886,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), ai (9), data (3), [[DevSecOps]] (2), teams (2)
+> **Frameworks & Libraries:** [[DevSecOps]] (2), [[User Experience (UX)|User experience]] (1), [[AI Security]] (1), [[Algorithms]] (1), [[Data Pipelines]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to the Violet teaming integrative framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980)
+#### [Introduction to the Violet teaming integrative framework](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=0)** - [Instructor] If you're already familiar with the DevSecOps world, you've probably come across purple teaming.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=0)** - [Instructor] If you're already familiar with the [[DevSecOps]] world, you've probably come across purple teaming.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=6)** Purple teaming is like the dynamic duo of cybersecurity, combining offensive red team and defensive blue team strategies to get a comprehensive view of the threat landscape.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=6)** Purple teaming is like the dynamic duo of [[Cybersecurity]], combining offensive red team and defensive blue team strategies to get a comprehensive view of the threat landscape.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=17)** Now, imagine a refined version of this approach, tailored for the intricacies of AI security.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=17)** Now, imagine a refined version of this approach, tailored for the intricacies of [[AI Security]].
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=23)** That's where violet teaming comes into play.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=26)** Dr. Alexander Titus has introduced the concept of violet teaming in the realm of AI and ML, and it blends efficiently within the MLSecOps framework by bringing additional stakeholders to the table.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=39)** It's a helpful strategy to consider when building your MLSecOps dream team with considerations like impact, privacy, usability, and ethics.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=39)** It's a helpful strategy to consider when building your MLSecOps dream team with considerations like impact, [[Privacy]], usability, and [[Ethics]].
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-mlsecops/introduction-to-the-violet-teaming-integrative-framework?u=76281980&t=49)** Violet teaming extends beyond the traditional confines of red and blue by including the viewpoints and expertise from a wide variety of stakeholders.
 >
@@ -951,13 +936,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Security]] (3), [[Privacy]] (3), [[Cybersecurity]] (2), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Cybersecurity]] (2), [[Ethics]] (2), [[DevSecOps]] (1), [[AI Security]] (1)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Facilitating cross-collaboration for MLSecOps implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980)
+#### [Facilitating cross-collaboration for MLSecOps implementation](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,23 +949,23 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=12)** Let's first unpack the partnership of security in ML, a relationship that is pivotal to the success of MLSecOps.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=19)** Traditionally, security teams excel at understanding risk and defining security programs.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=19)** Traditionally, security teams [[Microsoft Excel|excel]] at understanding risk and defining security programs.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=25)** They analyze threats, deploy defensive measures, and help to safeguard organizational assets.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=31)** On the other hand, machine learning practitioners are focused on working with assets like data and algorithms.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=31)** On the other hand, machine learning practitioners are focused on working with assets like data and [[Algorithms]].
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=38)** They specialize in using those assets to build, train, and fine-tune ML models to perform specific tasks and analytics and solve particular problems.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=48)** To build resilient ML and AI solutions, organizations need to break down silos and foster collaboration and expertise between security and ML teams.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=48)** To build resilient ML and [[AI Solutions]], organizations need to break down silos and foster collaboration and expertise between security and ML teams.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=59)** I want to be really clear about this.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=61)** This isn't a one-sided process.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=63)** Security professionals can help ML engineers understand traditional cybersecurity practices.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=63)** Security professionals can help ML engineers understand traditional [[Cybersecurity]] practices.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=69)** While the ML team can help improve security threat modeling by helping security navigate the unfamiliar terrain and intricacies of the AI and ML attack surface.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=69)** While the ML team can help improve security [[Threat Modeling]] by helping security navigate the unfamiliar terrain and intricacies of the AI and ML attack surface.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=80)** Security can also work with ML and AI teams to explain the importance of supply chain vulnerabilities and how they can negatively impact AI and ML deployments.
 >
@@ -993,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=108)** Well, imagine security teams integrating ML expertise into their threat modeling process, foreseeing potential attacks to ML assets, and fortifying defenses accordingly.
 >
-> **[2:00](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=120)** Conversely, ML practitioners benefit from a security team's insight into things like regulatory compliance, data privacy, and incident response protocols.
+> **[2:00](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=120)** Conversely, ML practitioners benefit from a security team's insight into things like [[Regulatory Compliance]], [[Data Privacy]], and [[Incident Response]] protocols.
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=130)** The two teams should also work together to create a full inventory of ML assets, also known as a machine learning bill of materials.
 >
@@ -1001,7 +985,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=143)** But cross-collaboration shouldn't stop there.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=146)** You need to bring in additional MLSecOps team members from legal, HR, and procurement, who also have vital roles to play in improving an organization's overall AI security posture.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=146)** You need to bring in additional MLSecOps team members from legal, HR, and procurement, who also have vital roles to play in improving an organization's overall [[AI Security]] posture.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=159)** For example, the legal team provides insights into regulatory compliance.
 >
@@ -1009,13 +993,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=175)** Consultation with the legal team is essential to mitigate legal risks and ensure alignment with regulatory standards.
 >
-> **[3:03](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=183)** Another example is human resources.
+> **[3:03](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=183)** Another example is [[Human Resources (HR)|human resources]].
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=186)** The experts here can help to ensure that personnel are equipped with the necessary training to use AI and ML responsibly.
 >
-> **[3:14](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=194)** HR can help employees understand the ethical implications of AI technologies and how their actions can impact data privacy, fairness, transparency, and accountability.
+> **[3:14](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=194)** HR can help employees understand the ethical implications of AI technologies and how their actions can impact data privacy, fairness, transparency, and [[Accountability]].
 >
-> **[3:25](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=205)** This heightened awareness fosters a culture of responsible AI usage within the organization, reducing the likelihood of unintentional misuse or ethical breaches.
+> **[3:25](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=205)** This heightened awareness fosters a culture of [[Responsible AI]] usage within the organization, reducing the likelihood of unintentional misuse or ethical breaches.
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=215)** Additionally, well-trained employees are better equipped to recognize and respond to potential security risks associated with AI applications, contributing to a more proactive approach to security.
 >
@@ -1025,17 +1009,16 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=250)** As you can see, the effectiveness of MLSecOps hinges on more than individual departmental efforts in isolation.
 >
-> **[4:17](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=257)** By championing cross-collaboration in your organization, you're ensuring that your MLSecOps dream team can work with agility, clarity, and unity.
+> **[4:17](https://www.linkedin.com/learning/introduction-to-mlsecops/facilitating-cross-collaboration-for-mlsecops-implementation?u=76281980&t=257)** By championing cross-collaboration in your organization, you're ensuring that your MLSecOps dream team can work with agility, clarity, and [[Unity]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), ai (9), teams (6), data (4), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Data Privacy]] (3), [[Threat Modeling]] (2), [[Regulatory Compliance]] (2), [[Microsoft Excel|Excel]] (1), [[Algorithms]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Empowering MLSecOps stakeholders with team training
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980)
+#### [Empowering MLSecOps stakeholders with team training](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,25 +1030,25 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=43)** By the end of this training, your team should be able to see the threats to your AI systems, know the risks associated with those threats, and make a plan for managing those risks.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=53)** Next, consider interdisciplinary workshops, host workshops that bring together security, ML, legal, HR, and procurement teams to discuss AI security challenges and share best practices.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=53)** Next, consider interdisciplinary workshops, host workshops that bring together security, ML, legal, HR, and procurement teams to discuss [[AI Security]] challenges and share best practices.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=67)** These workshops can facilitate knowledge sharing and foster a deeper understanding of each other's roles and perspectives.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=75)** You could also hold regulatory compliance workshops led by the legal team or a third party legal expert if you don't have a full-time team.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=75)** You could also hold [[Regulatory Compliance]] workshops led by the legal team or a third party legal expert if you don't have a full-time team.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=84)** These workshops will help to educate MLSecOps team members on regulatory requirements and new laws related to AI.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=92)** Ethical AI training is a pivotal component for MLSecOps teams, although its contextual relevance may vary across organizations.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=101)** This training should encompass a spectrum of subjects including AI ethics, principles, responsible AI usage, and the impact of algorithmic decisions on individuals and society.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=101)** This training should encompass a spectrum of subjects including AI [[Ethics]], principles, [[Responsible AI]] usage, and the impact of algorithmic decisions on individuals and society.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=113)** Some instances of critical decisions made by algorithms span things like hiring algorithms to evaluating credit worthiness for a mortgage, or even potentially influencing admissions decisions to academic institutions.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=113)** Some instances of critical decisions made by [[Algorithms]] span things like hiring algorithms to evaluating credit worthiness for a mortgage, or even potentially influencing admissions decisions to academic institutions.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=128)** A few other types of training you can consider for your team include AI focused policy development and review sessions, procurement risk assessment training, and incident response drills, conducting joint incident response drills with various departments to simulate real world AI incidents is especially important and can help identify gaps in your AI ready incident response procedures.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-mlsecops/empowering-mlsecops-stakeholders-with-team-training?u=76281980&t=128)** A few other types of training you can consider for your team include AI focused policy development and review sessions, procurement risk assessment training, and [[Incident Response]] drills, conducting joint incident response drills with various departments to simulate real world AI incidents is especially important and can help identify gaps in your AI ready incident response procedures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Security]] (4), teams (3), [[Algorithms]] (2), [[Incident Response]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Incident Response]] (2), [[AI Security]] (1), [[Regulatory Compliance]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1075,30 +1058,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Step-by-step: Infusing MLSecOps into existing processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980)
+#### [Step-by-step: Infusing MLSecOps into existing processes](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=0)** - [Instructor] Recall that MLSecOps practices rest on the three pillars of cybersecurity, people, processes, and technology.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=0)** - [Instructor] Recall that MLSecOps practices [[Representational State Transfer (REST)|rest]] on the three pillars of [[Cybersecurity]], people, processes, and technology.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=8)** We've just discussed that people are critical to implementing MLSecOps successfully within your organization.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=15)** Now let's revisit the infinity loop as we think about how to begin building security processes into your ML Ops phases like scoping, engineering, data model development, and testing and release.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=28)** In the scope phase, we introduce activities such as threat modeling and policy considerations.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=28)** In the scope phase, we introduce activities such as [[Threat Modeling]] and policy considerations.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=34)** Threat modeling helps identify potential security threats and vulnerabilities specific to the AI or ML project while policy considerations ensure alignment with regulatory requirements and organizational security standards.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=48)** In the engineering data phase, we refine our security posture by integrating threat modeling refinement, privacy requirements, and ensuring security data delivery.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=48)** In the engineering data phase, we refine our security posture by integrating threat modeling refinement, [[Privacy]] requirements, and ensuring security data delivery.
 >
-> **[0:58](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=58)** Threat modeling provides a deeper analysis of identified threats and vulnerabilities, and privacy requirements ensure compliance with data protection regulations, and safeguard sensitive information during data processing and transmission.
+> **[0:58](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=58)** Threat modeling provides a deeper analysis of identified threats and vulnerabilities, and privacy requirements ensure compliance with data protection regulations, and safeguard sensitive information during [[Data Processing]] and transmission.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=73)** These enhancements support data integrity and confidentiality.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=73)** These enhancements support [[Data Integrity]] and confidentiality.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=79)** In the model development phase, model security becomes paramount.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=83)** Activities in this phase include securing notebooks, model security scanning, and embracing software composition analysis, also known as SCA, and [[Dynamic Application Security Testing]], also known as DAST, specifically tailored for ML environments.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=83)** Activities in this phase include securing notebooks, model security scanning, and embracing software composition analysis, also known as SCA, and [[Dynamic [[Application Security]] Testing]], also known as DAST, specifically tailored for ML environments.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=99)** Model scanning identify security flaws and vulnerabilities within machine learning models, and AI aware SCA and DAST tools analyze dependencies and detect potential security vulnerabilities and ML components.
 >
@@ -1106,35 +1088,34 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=123)** Model signing provides cryptographic signatures to verify the authenticity and integrity of ML models during deployment and distribution.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=132)** And ML-BOMs facilitate transparency, accountability, and risk management.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=132)** And ML-BOMs facilitate transparency, [[Accountability]], and risk management.
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980&t=137)** These steps are essential during the final phase to validate the security posture of ML models and ensure their safe and compliant deployment into production environments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), data (6), [[Threat Modeling]] (4), [[Engineering]] (2), ai (2)
+> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[Privacy]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1), [[Data Processing]] (1)
 > **Env Vars:** sca (2), dast (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Foundations for AI/ML risk assessments and assurance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980)
+#### [Foundations for AI/ML risk assessments and assurance](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=0)** - [Narrator] As we navigate through the security complexities of AI and ML the ML SecOps approach helps establish a framework for risk assessment and assurance.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=9)** As you might recall, ML SecOps compliments the NIST AI Risk Management Framework, which is organized into four functions, map, measure, manage, and govern.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=9)** As you might recall, ML SecOps compliments the [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]], which is organized into four functions, map, measure, manage, and govern.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=19)** So now, let's take a look at each function in the RMF and explain how to implement the framework via ML SecOps.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=27)** In the map function, NIST calls for building a robust context for understanding where the AI or ML will run, what it will do, and the risks associated with various kinds of failures throughout the lifecycle.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=40)** Activities in ML SecOps that contribute to a successful map function include scoping, data readiness, model training, and threat modeling.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=40)** Activities in ML SecOps that contribute to a successful map function include scoping, data readiness, model training, and [[Threat Modeling]].
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=49)** The measure function quantifies some of the information surfaced in the map function with tools and methodologies to benchmark and analyze AI and ML risks.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=59)** ML SecOp activities such as model scanning, software composition analysis, and SAST, [[Static Application Security Testing]], can be used for benchmarking in support of the measure function.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=59)** ML SecOp activities such as model scanning, software composition analysis, and SAST, [[Static [[Application Security]] Testing]], can be used for benchmarking in support of the measure function.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=71)** Once AI and ML risks have been mapped and measured, the manage function comes into play.
 >
@@ -1160,7 +1141,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=157)** Reflect on potential risks associated with your AI applications and ML systems.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=162)** Considering factors such as data quality, model integrity, and reliability of your ML supply chain.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=162)** Considering factors such as [[Data Quality]], model integrity, and reliability of your ML supply chain.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-mlsecops/foundations-for-ai-ml-risk-assessments-and-assurance?u=76281980&t=169)** Next, formulate action plans for integrating the principles discussed here into your organization's risk management process.
 >
@@ -1168,60 +1149,58 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Security]] (3), [[NIST]] (3), [[Risk Management Framework (RMF)|Risk management framework]] (2), rmf (2)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Risk Management Framework (RMF)|Risk management framework]] (2), [[Threat Modeling]] (1), [[Application Security]] (1), [[Data Quality]] (1)
 > **Env Vars:** nist (3), rmf (2), sast (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI incident response plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980)
+#### [AI incident response plans](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=0)** - [Instructor] Building upon our understanding of MLSecOps best practices, let's shift our focus to another critical aspect of AI security, incident response plans.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=0)** - [Instructor] Building upon our understanding of MLSecOps best practices, let's shift our focus to another critical aspect of [[AI Security]], [[Incident Response]] plans.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=11)** First, let's understand how incident response extends from plans for conventional software environments to include AI and ML environments.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=20)** Traditional incident response plans include basic steps, like preparation, detection and analysis, containment, eradication, and recovery, post-incident activity, and testing your plan.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=34)** AI incident response can be woven into your existing plans by including strategies to handle more AI-specific incidents, like model failures, data drift, and adversarial machine learning attacks In the NIST AI RMF, recommendations for AI incident response are included in the sections that cover manage and govern.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=34)** AI incident response can be woven into your existing plans by including strategies to handle more AI-specific incidents, like model failures, data drift, and adversarial machine learning attacks In the [[NIST]] AI RMF, recommendations for AI incident response are included in the sections that cover manage and govern.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=55)** A few of the suggested actions for proactively addressing AI-related incidents in your organization include policies for reporting and documenting incident response.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=66)** This means you have to establish policies and processes for the public disclosure of these incidents.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=72)** You'll also need to establish guidelines for incident handling that's specific to AI system risks and performance of those systems, and then have a mechanism to share information about errors, near misses, and attack patterns with incident databases or other organizations with similar systems and stakeholders.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=72)** You'll also need to establish guidelines for incident handling that's specific to AI system risks and performance of those systems, and then have a mechanism to share information about errors, near misses, and attack patterns with incident [[Databases]] or other organizations with similar systems and stakeholders.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=93)** One step in the incident response plan that is particularly important with regard to AI and ML is the recovery step.
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=101)** In the event of a compromised ML model, it's crucial to promptly address potential damages.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=108)** These damages may encompass a spectrum of harms, such as data breaches, loss of sensitive information, financial setbacks, or disruptions to business operations.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=108)** These damages may encompass a spectrum of harms, such as data breaches, loss of sensitive information, financial setbacks, or disruptions to [[Business Operations]].
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=118)** Effectively mitigating these risks involve swiftly removing affected models from production and initiating a rollback process to restore them to their uncompromised states.
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=130)** Rolling back to uncompromised versions of machine learning models requires meticulous planning and execution.
 >
-> **[2:16](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=136)** As part of this process, organizations should maintain version control mechanisms and regularly backup model configurations and datasets to facilitate seamless rollback procedures.
+> **[2:16](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=136)** As part of this process, organizations should maintain [[Version Control]] mechanisms and regularly backup model configurations and datasets to facilitate seamless rollback procedures.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=149)** As you can see, adapting incident response plans to consider the entire AI lifecycle is imperative for organizations leveraging machine learning technologies.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=159)** By extending traditional incident response frameworks to accommodate AI/ML risk scenarios, organizations can effectively see, know, and manage potential risks to their AI.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=171)** Proactive planning, continuous monitoring, and swift response are key to ensuring resilience and security of AI and ML.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=171)** Proactive planning, [[Continuous Monitoring]], and [[Swift (Programming Language)|swift]] response are key to ensuring resilience and security of AI and ML.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-mlsecops/ai-incident-response-plans?u=76281980&t=179)** It will also foster a culture of preparedness and resilience in the face of today's rapidly evolving AI threat landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Incident Response]] (9), [[Security]] (2), data (2), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (9), [[AI Security]] (1), [[NIST]] (1), [[Databases]] (1), [[Business Operations]] (1)
 > **Env Vars:** nist (1), rmf (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit, inventory, and supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980)
+#### [Audit, inventory, and supply chain](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1237,9 +1216,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=35)** An audit of your AI systems utilizes AI/ML inventory and supply information such as how these systems operate, where they're from, how they're built, what other systems they're connected to, and how they impact decision making processes for your organization.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=53)** ML-BOM information should include training data, algorithms in use, versioning, and who trained the model.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=53)** ML-BOM information should include training data, [[Algorithms]] in use, versioning, and who trained the model.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=61)** Auditing ensures accountability and transparency.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=61)** Auditing ensures [[Accountability]] and transparency.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=64)** Stakeholders need assurance that these systems are making decisions fairly and without bias.
 >
@@ -1257,15 +1236,15 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=116)** New standards and legislation serve as guideposts directing organizations toward best practices, and documentation and accountability.
 >
-> **[2:04](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=124)** Some key standards and acts to keep an eye on are the EU AI Act, the ISO/IEC 5338 on AI system lifecycle processes, OWASP's AI Security and Privacy Guide, and the US 2023 Executive Order on the safe, secure, and trustworthy development and use of artificial intelligence.
+> **[2:04](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=124)** Some key standards and acts to keep an eye on are the EU AI Act, the ISO/IEC 5338 on AI system lifecycle processes, [[OWASP]]'s [[AI Security]] and [[Privacy]] Guide, and the US 2023 Executive Order on the safe, secure, and trustworthy development and use of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=145)** To get started with AI and ML auditing, create an inventory of your entire supply chain, capturing everything from model training methodologies to dependencies, to data sources and version control.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=145)** To get started with AI and ML auditing, create an inventory of your entire supply chain, capturing everything from model training methodologies to dependencies, to data sources and [[Version Control]].
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-mlsecops/audit-inventory-and-supply-chain?u=76281980&t=158)** Consistently and frequently auditing your AI and ML systems, and supply chains provides immediate visibility into issues, enables proactive incident prevention and effective risk management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (2), [[Accountability]] (2), management (2), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Algorithms]] (1), [[OWASP]] (1), [[AI Security]] (1), [[Privacy]] (1)
 > **Env Vars:** bom (1), iso (1), iec (1), owasp (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -1276,8 +1255,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering MLSecOps: Safeguarding AI in the modern era
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980)
+#### [Mastering MLSecOps: Safeguarding AI in the modern era](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,13 +1273,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980&t=30)** From there, you can start creating policies and procedures that make your AI systems secure by design.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980&t=37)** If you want to know more or to take an active role, join the MLSecOps community right here on LinkedIn.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980&t=37)** If you want to know more or to take an active role, join the MLSecOps community right here on [[LinkedIn]].
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980&t=44)** Hope to see you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

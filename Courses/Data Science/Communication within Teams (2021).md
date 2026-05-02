@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How high-performing teams communicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/how-high-performing-teams-communicate?u=76281980)
+#### [How high-performing teams communicate](https://www.linkedin.com/learning/communication-within-teams-2021/how-high-performing-teams-communicate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), career (1), leadership (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - in (1)
@@ -114,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establish roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/establish-roles?u=76281980)
+#### [Establish roles](https://www.linkedin.com/learning/communication-within-teams-2021/establish-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,14 +160,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), functional (1), teams (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - whether (1)
 
-#### Delegate responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/delegate-responsibilities?u=76281980)
+#### [Delegate responsibilities](https://www.linkedin.com/learning/communication-within-teams-2021/delegate-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +209,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/communication-within-teams-2021/delegate-responsibilities?u=76281980&t=131)** The individuals who are informed are those who are aware of the decisions and actions.
 >
-> **[2:17](https://www.linkedin.com/learning/communication-within-teams-2021/delegate-responsibilities?u=76281980&t=137)** They are people who need to know what's happening but don't get involved in the decision-making process or implementation.
+> **[2:17](https://www.linkedin.com/learning/communication-within-teams-2021/delegate-responsibilities?u=76281980&t=137)** They are people who need to know what's happening but don't get involved in the [[Decision-Making]] process or implementation.
 >
 > **[2:24](https://www.linkedin.com/learning/communication-within-teams-2021/delegate-responsibilities?u=76281980&t=144)** By defining team roles and responsibilities, you're establishing the processes that'll make collaboration on your team run smoothly.
 >
@@ -222,15 +217,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), management (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Env Vars:** raci (5)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **Speakers:** - you (1)
 
-#### Collaborate to establish team goals and charter
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/collaborate-to-establish-team-goals-and-charter?u=76281980)
+#### [Collaborate to establish team goals and charter](https://www.linkedin.com/learning/communication-within-teams-2021/collaborate-to-establish-team-goals-and-charter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +244,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/communication-within-teams-2021/collaborate-to-establish-team-goals-and-charter?u=76281980&t=41)** Make sure your team collectively establishes shared goals for your work together.
 >
-> **[0:46](https://www.linkedin.com/learning/communication-within-teams-2021/collaborate-to-establish-team-goals-and-charter?u=76281980&t=46)** There are several great courses on this topic in the LinkedIn learning library if you need guidance on goal setting.
+> **[0:46](https://www.linkedin.com/learning/communication-within-teams-2021/collaborate-to-establish-team-goals-and-charter?u=76281980&t=46)** There are several great courses on this topic in the [[LinkedIn]] learning library if you need guidance on goal setting.
 >
 > **[0:53](https://www.linkedin.com/learning/communication-within-teams-2021/collaborate-to-establish-team-goals-and-charter?u=76281980&t=53)** Once you've established your goals, take a few minutes to discuss your conditions of satisfaction.
 >
@@ -284,15 +278,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (2), exercise files (1)
 > **Env Vars:** smart (1), smarter (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### Define expectations in your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/define-expectations-in-your-team?u=76281980)
+#### [Define expectations in your team](https://www.linkedin.com/learning/communication-within-teams-2021/define-expectations-in-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/communication-within-teams-2021/define-expectations-in-your-team?u=76281980&t=193)** - Text.
 >
-> **[3:14](https://www.linkedin.com/learning/communication-within-teams-2021/define-expectations-in-your-team?u=76281980&t=194)** - Phone call. - Slack.
+> **[3:14](https://www.linkedin.com/learning/communication-within-teams-2021/define-expectations-in-your-team?u=76281980&t=194)** - Phone call. - [[Slack]].
 >
 > **[3:16](https://www.linkedin.com/learning/communication-within-teams-2021/define-expectations-in-your-team?u=76281980&t=196)** - Sounds like you'll want to go back and have a discussion about that as well.
 >
@@ -416,7 +409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), product (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **Speakers:** - yeah (3), - i (3), - sounds (3), - oh (2), - reasonable (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
@@ -424,8 +417,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Build trust in your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/build-trust-in-your-team?u=76281980)
+#### [Build trust in your team](https://www.linkedin.com/learning/communication-within-teams-2021/build-trust-in-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,17 +503,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - trust (1)
 
-#### Manage accountability within teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980)
+#### [Manage accountability within teams](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=0)** - Imagine this scenario, you're leaving the office for the day and realize that one of your teammates forgot to complete part of your project that's due to the client the following morning.
+> **[0:00](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=0)** - Imagine this scenario, you're leaving the [[Microsoft Office|office]] for the day and realize that one of your teammates forgot to complete part of your project that's due to the client the following morning.
 >
 > **[0:11](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=11)** You finished your part and you have plans you want to keep.
 >
@@ -537,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=38)** There are a number of things that need to be clear to everyone on the team.
 >
-> **[0:43](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=43)** I think of these as the five W's of accountability for teams.
+> **[0:43](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=43)** I think of these as the five W's of [[Accountability]] for teams.
 >
 > **[0:47](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=47)** The first W is what.
 >
@@ -593,7 +583,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=165)** I'd like to close out my meetings and making sure we're all clear on the next steps.
 >
-> **[2:49](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=169)** Nicole, were you able to finalize the color palette and typography for our style guide?
+> **[2:49](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=169)** Nicole, were you able to finalize the color palette and [[Typography]] for our style guide?
 >
 > **[2:54](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=174)** - Yeah, I can have that by Wednesday.
 >
@@ -625,13 +615,13 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=229)** It's tricky.
 >
-> **[3:51](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=231)** If you want to take a deeper dive on the subject, I have a full course in the LinkedIn Learning library on holding teams accountable.
+> **[3:51](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=231)** If you want to take a deeper dive on the subject, I have a full course in the [[LinkedIn]] Learning library on holding teams accountable.
 >
 > **[3:58](https://www.linkedin.com/learning/communication-within-teams-2021/manage-accountability-within-teams?u=76281980&t=238)** In the meantime, remember to document expectations around the five W's to help keep your team accountable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (3), teams (3), [[Microsoft Office|Office]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Microsoft Office|Office]] (1), [[Typography]] (1), [[LinkedIn]] (1)
 > **Speakers:** - yeah (2), - imagine (1), - all (1), - great (1), - i (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -639,8 +629,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** remember to (1)
 
-#### Provide feedback within teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/provide-feedback-within-teams?u=76281980)
+#### [Provide feedback within teams](https://www.linkedin.com/learning/communication-within-teams-2021/provide-feedback-within-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,14 +705,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [woman] (3), - actionable (1), - [jeff] (1), - now (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sbi (2)
 > **Analogies:** think of it as (1)
 
-#### Manage conflict within teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/manage-conflict-within-teams?u=76281980)
+#### [Manage conflict within teams](https://www.linkedin.com/learning/communication-within-teams-2021/manage-conflict-within-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,18 +822,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - not (1)
 
-#### Communicating virtually within teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980)
+#### [Communicating virtually within teams](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=1)** - Virtual teams experience some unique benefits and challenges.
+> **[0:01](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=1)** - [[Virtual Teams]] experience some unique benefits and challenges.
 >
 > **[0:05](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=5)** Luckily, there are things we can do to improve the performance of virtual teams by focusing on our team's communication.
 >
@@ -856,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=27)** Three ways you can get to know your teammates virtually are, one, create virtual spaces or times for conversations.
 >
-> **[0:34](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=34)** Open office hours or town hall style meetings give people a chance to check in and voice ideas or concerns.
+> **[0:34](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=34)** Open [[Microsoft Office|office]] hours or town hall style meetings give people a chance to check in and voice ideas or concerns.
 >
 > **[0:42](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=42)** Two, post monthly or quarterly virtual socials.
 >
@@ -864,7 +849,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=54)** Three, ask good questions.
 >
-> **[0:57](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=57)** If I ask you how you're doing, you'll likely respond with a one-word answer.
+> **[0:57](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=57)** If I ask you how you're doing, you'll likely respond with a one-[[Microsoft Word|word]] answer.
 >
 > **[1:02](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=62)** In fact, it's become somewhat of an ignored greeting to ask someone how they're doing and for them to respond with good or okay.
 >
@@ -884,7 +869,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=111)** And keep in mind how the recipient of the information is likely to respond.
 >
-> **[1:56](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=116)** Emails are great for informational updates and chat is useful for real-time information, but remember to pick up the phone or turn on the video camera and have a live discussion when you need to talk about delicate or sensitive matters.
+> **[1:56](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=116)** Emails are great for informational updates and chat is useful for [[Real-Time]] information, but remember to pick up the phone or turn on the video camera and have a live discussion when you need to talk about delicate or sensitive matters.
 >
 > **[2:11](https://www.linkedin.com/learning/communication-within-teams-2021/communicating-virtually-within-teams?u=76281980&t=131)** This brings me to my final and most important tip.
 >
@@ -906,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (3), [[Microsoft Office|Office]] (1), game (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** crm (1)
 > **Definitions:** means that (1)
@@ -915,8 +900,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - virtual (1)
 
-#### Cross-cultural communication within teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/cross-cultural-communication-within-teams?u=76281980)
+#### [Cross-cultural communication within teams](https://www.linkedin.com/learning/communication-within-teams-2021/cross-cultural-communication-within-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +942,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/communication-within-teams-2021/cross-cultural-communication-within-teams?u=76281980&t=131)** In a low-context culture, communication is explicit.
 >
-> **[2:15](https://www.linkedin.com/learning/communication-within-teams-2021/cross-cultural-communication-within-teams?u=76281980&t=135)** Communicators are direct and verbalize every word they need to get their point across.
+> **[2:15](https://www.linkedin.com/learning/communication-within-teams-2021/cross-cultural-communication-within-teams?u=76281980&t=135)** Communicators are direct and verbalize every [[Microsoft Word|word]] they need to get their point across.
 >
 > **[2:21](https://www.linkedin.com/learning/communication-within-teams-2021/cross-cultural-communication-within-teams?u=76281980&t=141)** In a high-context culture, communication is implicit and relies more on non-verbal cues, silence, and the unsaid.
 >
@@ -996,14 +980,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (3), business (2), [[Microsoft Word|Word]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** lescant (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - it (1)
 
-#### Measure success within teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/measure-success-within-teams?u=76281980)
+#### [Measure success within teams](https://www.linkedin.com/learning/communication-within-teams-2021/measure-success-within-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1080,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), teams (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** aar (2)
 > **Speakers:** - right (1)
@@ -1107,8 +1089,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The imperative of effective teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980)
+#### [The imperative of effective teams](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,7 +1107,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=46)** There's also a phenomenon at play in the background called social loafing.
 >
-> **[0:50](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=50)** The easiest way to describe it is when people on teams slack off because they know someone else will pick up the slack.
+> **[0:50](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=50)** The easiest way to describe it is when people on teams [[Slack]] off because they know someone else will pick up the slack.
 >
 > **[0:58](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=58)** You can combat social loafing in your teams by implementing best practices for team communication.
 >
@@ -1134,7 +1115,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=78)** Thanks for joining me for this course.
 >
-> **[1:20](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=80)** I welcome your feedback, and please check out some of my other courses in the LinkedIn Learning library.
+> **[1:20](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=80)** I welcome your feedback, and please check out some of my other courses in the [[LinkedIn]] Learning library.
 >
 > **[1:26](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980&t=86)** I hope our paths will cross again.
 >
@@ -1144,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Slack]] (2), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Slack]] (2), [[LinkedIn]] (1)
 > **Tools:** slack (2)
 > **Speakers:** - most (1)
 

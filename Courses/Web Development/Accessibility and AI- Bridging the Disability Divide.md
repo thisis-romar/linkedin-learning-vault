@@ -59,18 +59,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Breaking barriers in accessibility and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980)
+#### [Breaking barriers in accessibility and AI](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=0)** Are you excluding a potential 1.3 billion customers from using your product and 13 trillion in disposable income?
 >
-> **[0:09](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=9)** Whether you want to use AI to create products in an accessible way or you're just getting started, you're in the right place.
+> **[0:09](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=9)** Whether you want to use AI to create [[Microsoft Products|products]] in an accessible way or you're just getting started, you're in the right place.
 >
 > **[0:16](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=16)** I'm Ioana Tanase an accessibility and innovation program manager focusing on AI and inclusion. And I'm Kartik Sawhney, an innovator and entrepreneur, having worked with startups and corporate products in the AI and accessibility space.
 >
-> **[0:30](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=30)** This course will empower you with design and innovation tools to make products more accessible, use responsible AI practices and bridge the disability divide.
+> **[0:30](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=30)** This course will empower you with design and innovation tools to make products more accessible, use [[Responsible AI]] practices and bridge the disability divide.
 >
 > **[0:41](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980&t=41)** You don't need to be an accessibility or AI expert.
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (4), product (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.3 (1)
 > **Prerequisites:** getting started (1)
@@ -90,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The case for AI innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980)
+#### [The case for AI innovation](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,15 +97,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=4)** It's essential that we build a future where everyone benefits from technology regardless of their abilities.
 >
-> **[0:10](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=10)** Breakthroughs such as generative AI can be a real game changer for people with disabilities, if done in an accessible manner.
+> **[0:10](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=10)** Breakthroughs such as [[Generative AI]] can be a real game changer for people with disabilities, if done in an accessible manner.
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=18)** I'm dyslexic, and I often struggle with long documents.
 >
 > **[0:22](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=22)** Capabilities such as summarization and querying in natural language helps me access information quickly.
 >
-> **[0:30](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=30)** Rapid changes and the accelerated pace of digital transformation are also bringing new opportunities to empower people and organizations.
+> **[0:30](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=30)** Rapid changes and the accelerated pace of [[Digital Transformation]] are also bringing new opportunities to empower people and organizations.
 >
-> **[0:39](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=39)** Accessibility makes good business sense by designing products and services.
+> **[0:39](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=39)** Accessibility makes good business sense by designing [[Microsoft Products|products]] and services.
 >
 > **[0:44](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=44)** With accessibility in mind, companies can reach wider audience and even tap into new markets.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=70)** This can look like hiring people with disabilities or external consultation through focus groups and community partnerships.
 >
-> **[1:17](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=77)** You can then design and deploy AI solutions that benefit the community and directly address what they're looking for.
+> **[1:17](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=77)** You can then design and deploy [[AI Solutions]] that benefit the community and directly address what they're looking for.
 >
 > **[1:25](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=85)** By harnessing the ideas, skills, and perspective of this great talent pool, you can drive inclusive innovation.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=101)** you can push the boundaries of what's possible and make technology even more accessible.
 >
-> **[1:47](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=107)** Let's take speech recognition systems on your mobile phones or smart devices.
+> **[1:47](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=107)** Let's take [[Speech Recognition]] systems on your mobile phones or smart devices.
 >
 > **[1:53](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980&t=113)** These are developed with AI and machine learning, trained on a narrow range of voices and speech patterns.
 >
@@ -147,21 +145,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (2), [[Speech Recognition]] (2), [[Generative AI]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Speech Recognition]] (2), [[Generative AI]] (1), [[Digital Transformation]] (1), [[AI Solutions]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Env Vars:** als (1)
 
-#### Adopting an innovation framework, part one
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980)
+#### [Adopting an innovation framework, part one](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=0)** One useful tool to ensure great product design and inclusiveness is an innovation framework.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=0)** One useful tool to ensure great [[Product Design]] and inclusiveness is an innovation framework.
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=6)** A framework is a structured strategy that guides organizations through developing, implementing and measuring innovative ideas to create real business solutions.
 >
-> **[0:18](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=18)** You can make use of an existing one, such as Microsoft's Garage Growth Framework or you can build your own.
+> **[0:18](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=18)** You can make use of an existing one, such as [[Microsoft]]'s Garage Growth Framework or you can build your own.
 >
 > **[0:25](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=25)** Choose what works for you.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=166)** Another wave happens when people are overserved because solutions provide things they don't want or need.
 >
-> **[2:55](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=175)** In Mentra's case, they found the job search market was oversaturated with coaching resources and products that promised to crack the code on hiring, even though practices haven't changed.
+> **[2:55](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=175)** In Mentra's case, they found the job search market was oversaturated with coaching resources and [[Microsoft Products|products]] that promised to crack the code on hiring, even though practices haven't changed.
 >
 > **[3:10](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=190)** Lastly, another wave comes when a disrupting event like a new technology regulation or trend changes how things are done.
 >
@@ -225,7 +222,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=264)** Think about how your solution could be broadened.
 >
-> **[4:28](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=268)** For example, Read Aloud and dictation software were originally designed for people with disabilities, and now they're using everything from word processing to navigation apps. To keep future users at the forefront of your processes, consider these questions: Does this person have any distinguishing traits, such as where they live, the language they speak, or a job where they work?
+> **[4:28](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=268)** For example, Read Aloud and dictation software were originally designed for people with disabilities, and now they're using everything from [[Microsoft Word|word]] processing to navigation apps. To keep future users at the forefront of your processes, consider these questions: Does this person have any distinguishing traits, such as where they live, the language they speak, or a job where they work?
 >
 > **[4:56](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-1?u=76281980&t=296)** These characteristics can help you with your market segmentation.
 >
@@ -243,14 +240,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), product (2), next (2), [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Design]] (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (4), for example (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** next video (1), in the next (1)
 
-#### Adopting an innovation framework, part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-2?u=76281980)
+#### [Adopting an innovation framework, part two](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/adopting-an-innovation-framework-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +308,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1), product (1)
 > **Cross-References:** previous video (1)
 > **Exercise Files:** exercise files (1)
 
@@ -321,8 +316,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980)
+#### [Integrating APIs](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -334,11 +328,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=12)** Depending on the needs and complexities of solutions you're building, there are several AI strategies you can consider. From a tech perspective, the lowest effort is to use out-of-the-box services and APIs.
 >
-> **[0:23](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=23)** For example, Azure AI services helps developers add powerful AI capabilities to their applications without extensive expertise or development effort.
+> **[0:23](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=23)** For example, [[Microsoft Azure|Azure]] AI services helps developers add powerful AI capabilities to their applications without extensive expertise or development effort.
 >
-> **[0:33](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=33)** Instead of training your own models, you can select from a suite of tools covering speech, computer vision, language understanding, and much more.
+> **[0:33](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=33)** Instead of training your own models, you can select from a suite of tools covering speech, [[Computer Vision]], language understanding, and much more.
 >
-> **[0:41](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=41)** Large language models are also now available through APIs, specifically through Azure AI studio.
+> **[0:41](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=41)** [[Large Language Models (LLM)|Large language models]] are also now available through APIs, specifically through [[Azure AI Studio]].
 >
 > **[0:47](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=47)** This can be integrated out of the box without needing to host the models, or worrying about the infrastructure required to do so.
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=185)** So the key consideration for selecting between a model and an API comes down to the level of customization required for achieving the outcome.
 >
-> **[3:12](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=192)** Fortunately, even if you require customization, model training, deployment and management and fine-tuning models are now easily available and can be directly managed through cloud services.
+> **[3:12](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=192)** Fortunately, even if you require customization, model training, deployment and management and fine-tuning models are now easily available and can be directly managed through [[Cloud Services]].
 >
 > **[3:24](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980&t=204)** For instance, Azure AI Studio allows you to train or fine-tune models, deploy them, and use them as APIs.
 >
@@ -400,14 +394,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), api (5), [[Microsoft Azure|Azure]] (2), [[Azure AI Studio]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Azure AI Studio]] (2), [[Computer Vision]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Cloud Services]] (1)
 > **Env Vars:** api (5), stem (1), ocr (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Prerequisites:** required to (2)
 > **Cross-References:** in the next (1)
 
-#### Enriching APIs with your own data
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980)
+#### [Enriching APIs with your own data](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,13 +436,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=77)** For instance, if you're training a model to support an accessibility chatbot, the training data should include content and accessibility, specifically focusing on the kinds of questions that a user might ask.
 >
-> **[1:28](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=88)** Once data is available, you can use tools such as the Azure AI Studio to fine-tune base models such as GPT on this data.
+> **[1:28](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=88)** Once data is available, you can use tools such as the [[Azure AI Studio]] to fine-tune base models such as GPT on this data.
 >
 > **[1:36](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=96)** Let's look at an example.
 >
 > **[1:37](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=97)** The Northwest Evaluation Association, now part of Houghton Mifflin Harcourt, is a research-based nonprofit that develops new methods to improve math accessibility for students who are blind or low vision.
 >
-> **[1:49](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=109)** So NWEA developed a solution which allows students to interact with equations that are converted into accessible HTML.
+> **[1:49](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=109)** So NWEA developed a solution which allows students to interact with equations that are converted into accessible [[HTML]].
 >
 > **[1:57](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/enriching-apis-with-your-own-data?u=76281980&t=117)** With more than 36,000 equations in their training data, they fine-tuned GPT-3 with this data to allow for better conversion results.
 >
@@ -467,21 +460,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (1), feature (1), chatbot (1), [[Azure AI Studio]] (1)
+> **Frameworks & Libraries:** [[Azure AI Studio]] (1), [[HTML]] (1)
 > **Env Vars:** gpt (4), nwea (1), html (1)
 > **Definitions:** known as (2), is a  (2)
 > **Analogies:** such as (3), for instance (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 
-#### Harnessing generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980)
+#### [Harnessing generative AI](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=0)** Now that we've discussed how to develop AI solutions using APIs or by training on your data, let's talk about generative AI specifically.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=0)** Now that we've discussed how to develop [[AI Solutions]] using APIs or by training on your data, let's talk about [[Generative AI]] specifically.
 >
-> **[0:08](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=8)** This is the same technology that powers solutions such as ChatGPT or Bing Chat.
+> **[0:08](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=8)** This is the same technology that powers solutions such as [[ChatGPT]] or Bing Chat.
 >
 > **[0:13](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=13)** I personally use it every day to get detailed descriptions of visual content around me.
 >
@@ -489,11 +481,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=21)** Generative AI uses advanced machine learning techniques to analyze, answer, or create original content, from text to images to audio and more.
 >
-> **[0:30](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=30)** Let's explore how you can harness the power of generative AI to create inclusive products and services tailored to the needs of people with disabilities.
+> **[0:30](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=30)** Let's explore how you can harness the power of generative AI to create inclusive [[Microsoft Products|products]] and services tailored to the needs of people with disabilities.
 >
 > **[0:39](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=39)** Start by ensuring that the AI system is effective for your use case by providing the model with a data set that is inclusive and representative of the communities that will use the solution.
 >
-> **[0:50](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=50)** For example, Azure OpenAI enables developers to run models with their own data without needing to train or fine-tune these models.
+> **[0:50](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=50)** For example, [[Microsoft Azure|Azure]] OpenAI enables developers to run models with their own data without needing to train or fine-tune these models.
 >
 > **[0:59](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=59)** When you gather and provide the data yourself, citations trace the response of the large language model or LLM to the appropriate source, thereby avoiding hallucinations.
 >
@@ -507,13 +499,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=96)** Since this data is usually chunked and indexed to facilitate fast lookup, make sure to organize the data well as well.
 >
-> **[1:43](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=103)** Alternatively, depending on the size of your data, you may also use prompt engineering to expose additional data to your model right within the prompt.
+> **[1:43](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=103)** Alternatively, depending on the size of your data, you may also use [[Prompt Engineering]] to expose additional data to your model right within the prompt.
 >
 > **[1:52](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=112)** This is becoming particularly promising given the increases in context length.
 >
 > **[1:57](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=117)** In this process, relevant data is included right into the prompt and it can be used suitably by the LLM.
 >
-> **[2:03](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=123)** Whichever approach you take, evaluate your model using manual red teaming or automated tools, and incorporate a feedback mechanism into your app to get regular feedback from your users.
+> **[2:03](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=123)** Whichever approach you take, evaluate your model using manual [[Red Teaming]] or automated tools, and incorporate a feedback mechanism into your app to get regular feedback from your users.
 >
 > **[2:16](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=136)** Now, I want to cover another interesting aspect here; the multimodality of several models, which is the ability of these models to consume and generate different kinds of inputs and outputs such as text, images, audio, and video.
 >
@@ -525,19 +517,19 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=173)** Here's another example of this technology in action.
 >
-> **[2:56](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=176)** [Zammo.ai](https://Zammo.ai) reduces barrier to employment through the use of conversational AI.
+> **[2:56](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=176)** [Zammo.ai](https://Zammo.ai) reduces barrier to employment through the use of [[Conversational AI]].
 >
 > **[3:01](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=181)** Conversational AI-driven chatbots are common, but they sometimes exclude people who can't see, don't read, or don't have the mobility or dexterity to navigate a webpage.
 >
-> **[3:14](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=194)** Zammo, which offers a no-code conversational AI software platform, offers an alternate interface through natural language processing and voice-enabled control.
+> **[3:14](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=194)** Zammo, which offers a no-code conversational AI software platform, offers an alternate interface through [[Natural Language Processing (NLP)|natural language processing]] and voice-enabled control.
 >
 > **[3:23](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=203)** This enables people with disabilities to interact with semi-structured data on job search websites through their voice, and have greater access to career opportunities.
 >
-> **[3:32](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=212)** Lastly, generative AI models can be combined with other APIs to create copilot experiences.
+> **[3:32](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=212)** Lastly, generative AI models can be combined with other APIs to create [[Microsoft Copilot|copilot]] experiences.
 >
 > **[3:39](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=219)** This enables people to not only generate text or images, but also perform actions or tasks based on the results from these models.
 >
-> **[3:46](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=226)** For example, Microsoft's copilot platform is fast evolving and can be leveraged to create intelligent workflows across the Microsoft ecosystem, which can be particularly helpful for people with disabilities to enhance efficiency and productivity.
+> **[3:46](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=226)** For example, [[Microsoft]]'s copilot platform is fast evolving and can be leveraged to create intelligent workflows across the Microsoft ecosystem, which can be particularly helpful for people with disabilities to enhance efficiency and productivity.
 >
 > **[4:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/harnessing-generative-ai?u=76281980&t=240)** But again, at its core, to ensure that people with disabilities get the most value from your tools, it's important to build accessible, inclusive, and intuitive solutions grounded in relevant data.
 >
@@ -551,7 +543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Generative AI]] (6), ai (5), [[Conversational AI]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Conversational AI]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (2)
 > **Env Vars:** llm (2), rag (1), gpt (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2), find (1)
@@ -565,12 +557,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Copilot accessibility considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980)
+#### [Copilot accessibility considerations](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=0)** In developing generative AI solutions such as a copilot or an AI agent, it's important to build with accessibility in mind from the start.
+> **[0:00](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=0)** In developing [[Generative AI]] solutions such as a [[Microsoft Copilot|copilot]] or an AI agent, it's important to build with accessibility in mind from the start.
 >
 > **[0:10](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=10)** Your design and development should be inclusive of people with disabilities and ensure your services are usable by the widest possible audience.
 >
@@ -578,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=26)** A developer with limited mobility in their arms prefers to use keyboards to navigate their computer.
 >
-> **[0:33](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=33)** They attempt to use copilot in Microsoft Word to generate a document outline.
+> **[0:33](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=33)** They attempt to use copilot in [[Microsoft Word]] to generate a document outline.
 >
 > **[0:39](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=39)** So they use the tab key to navigate to various controls to move to the desired location.
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=234)** So have a disclaimer or tag to help users be in control of the content and ensure the human is in the loop.
 >
-> **[4:02](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=242)** You can use simple statements such as "AI-generated content may be incorrect" or such from Microsoft Copilot that currently says "Bing is powered by AI, so surprises and mistakes are possible.
+> **[4:02](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=242)** You can use simple statements such as "AI-generated content may be incorrect" or such from [[Microsoft Copilot]] that currently says "Bing is powered by AI, so surprises and mistakes are possible.
 >
 > **[4:15](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980&t=255)** Please share feedback so that we can improve."
 >
@@ -642,14 +633,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (6), prompt (5), [[Generative AI]] (2), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Generative AI]] (2), [[Microsoft Word]] (1), [[Microsoft Copilot]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** navigate to (1)
 > **Definitions:** refers to (1)
 
-#### Applying responsible AI practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980)
+#### [Applying responsible AI practices](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,11 +647,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=5)** That's why it's so important to build AI systems that are responsible by design.
 >
-> **[0:11](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=11)** Responsible AI principles and practices help organizations address risk, innovate, and create value.
+> **[0:11](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=11)** [[Responsible AI]] principles and practices help organizations address risk, innovate, and create value.
 >
 > **[0:20](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=20)** Let's look at some principles of responsible AI and considerations to keep in mind.
 >
-> **[0:27](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=27)** First, accountability.
+> **[0:27](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=27)** First, [[Accountability]].
 >
 > **[0:29](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=29)** How can you create oversight so that humans are accountable and in control?
 >
@@ -677,13 +667,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=61)** How might the system function well for people across different use conditions and contexts, including ones that it was not originally intended for?
 >
-> **[1:11](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=71)** And privacy and security: How might the system, be developed to support privacy and security of the users and the system itself?
+> **[1:11](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=71)** And [[Privacy]] and security: How might the system, be developed to support privacy and security of the users and the system itself?
 >
 > **[1:20](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=80)** Lastly, inclusiveness.
 >
 > **[1:23](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=83)** How can the system be designed to be inclusive of people of all abilities?
 >
-> **[1:29](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=89)** This also serve as Microsoft's guide for the development of AI technology.
+> **[1:29](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=89)** This also serve as [[Microsoft]]'s guide for the development of AI technology.
 >
 > **[1:35](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/applying-responsible-ai-practices?u=76281980&t=95)** I want to bring something to your attention.
 >
@@ -723,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), product (4), [[Responsible AI]] (3), next (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Privacy]] (2), [[Accountability]] (1), [[Microsoft]] (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -735,8 +725,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bridging the disability divide
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980)
+#### [Bridging the disability divide](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,17 +739,17 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=13)** The time and effort you invest into this space will lead to better experiences for all of your customers.
 >
-> **[0:20](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=20)** As you continue on your innovation path, start thinking today about how you can make your products more accessible to people with disabilities.
+> **[0:20](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=20)** As you continue on your innovation path, start thinking today about how you can make your [[Microsoft Products|products]] more accessible to people with disabilities.
 >
 > **[0:27](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=27)** Ask yourself how you will engage the community and ensure co-creation.
 >
 > **[0:32](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=32)** We encourage you to check the course Q&A feature to share your experience and pick up insights from those also taking the course.
 >
-> **[0:40](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=40)** And connect with us on LinkedIn so that we can learn from you as well.
+> **[0:40](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=40)** And connect with us on [[LinkedIn]] so that we can learn from you as well.
 >
 > **[0:43](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=43)** Remember, the course doesn't just end here.
 >
-> **[0:46](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=46)** We also invite you to explore the additional resources to deepen your learning and check out Microsoft's Accessibility Innovation Toolkit.
+> **[0:46](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=46)** We also invite you to explore the additional resources to deepen your learning and check out [[Microsoft]]'s Accessibility Innovation Toolkit.
 >
 > **[0:53](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980&t=53)** We share more innovation examples and information on how companies are using AI to enhance their products and ensure accessibility.
 >
@@ -768,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), feature (1), [[LinkedIn]] (1), [[Microsoft]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 

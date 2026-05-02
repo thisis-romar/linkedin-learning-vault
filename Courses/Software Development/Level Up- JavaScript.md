@@ -71,14 +71,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Put your JavaScript skills to the test
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980)
+#### [Put your JavaScript skills to the test](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=0)** (tinny upbeat music) (text shinging) (pixels chiming)
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=6)** - Whether you're new to JavaScript or an experienced developer, it's really important to sharpen your skills so you can stay up to date on what's going on in the industry.
+> **[0:06](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=6)** - Whether you're new to [[JavaScript]] or an experienced developer, it's really important to sharpen your skills so you can stay up to date on what's going on in the industry.
 >
 > **[0:17](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=17)** I'm Emma Bostian and these are a series of JavaScript challenges.
 >
@@ -88,22 +87,21 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=32)** Most videos can be watched on their own and don't require you to have completed the previous challenges.
 >
-> **[0:37](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=37)** Each challenge can be solved using native JavaScript functions and data structures.
+> **[0:37](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=37)** Each challenge can be solved using native JavaScript functions and [[Data Structures]].
 >
 > **[0:42](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980&t=42)** So good luck, and I hope you enjoy these JavaScript challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Data Structures]] (1)
 > **Speakers:** - whether (1)
 > **Non-Speech:** (tinny upbeat music) (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] In this video, I'll show you how to use GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] In this video, I'll show you how to use [[GitHub]] [[Codespaces]].
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=4)** Codespaces is an instant cloud-based development environment that uses a container to provide you with common languages, tools, and utilities for development.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=155)** Just open the file from the start folder that corresponds to the video you're currently watching.
 >
-> **[2:41](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=161)** You'll notice for this course we have a mixture of HTML and JavaScript files.
+> **[2:41](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=161)** You'll notice for this course we have a mixture of [[HTML]] and [[JavaScript]] files.
 >
 > **[2:46](https://www.linkedin.com/learning/level-up-javascript/using-github-codespaces-with-this-course?u=76281980&t=166)** Let's first learn how to work with the HTML files.
 >
@@ -243,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), [[Codespaces]] (10), [[HTML]] (9), hit (5), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Codespaces]] (10), [[HTML]] (9), [[JavaScript]] (3)
 > **Tools:** github (10), terminal (4), visual studio (2), vs code (1)
 > **Env Vars:** html (9), dom (1)
 > **CLI Commands:** make (2), node (2), cd (1)
@@ -257,14 +255,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Available books
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980)
+#### [Available books](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=0)** (electronic beeping)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=3)** - Unlike classical programming languages like Java or C++, JavaScript uses objects within a prototypal inheritance model.
+> **[0:03](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=3)** - Unlike classical programming languages like [[Java]] or C++, [[JavaScript]] uses objects within a prototypal inheritance model.
 >
 > **[0:12](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=12)** In ES2015 or ES6, the class keyword was introduced, but the class keyword is solely syntactical sugar, and does not change JavaScript's prototypal inheritance model.
 >
@@ -370,11 +367,11 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=340)** (keyboard clacking) Lastly, we can add our sell and restock functions directly within the class as well.
 >
-> **[5:51](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=351)** (keyboard clacking) (cheerful beeping) JavaScript's class keyword is becoming more and more prevalent in the world of web development, so understanding how it works and why you would use it over function notation is going to be vital to your career as a JavaScript developer.
+> **[5:51](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980&t=351)** (keyboard clacking) (cheerful beeping) JavaScript's class keyword is becoming more and more prevalent in the world of [[Web Development]], so understanding how it works and why you would use it over function notation is going to be vital to your career as a JavaScript developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), next (2), [[Programming]] (1), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Java]] (1), [[Web Development]] (1)
 > **Code Identifiers:** getavailability (3), numcopies (2), numcopiessold (1), numcopiesstocked (1)
 > **Non-Speech:** (electronic beeping) (2), (cheery chiptune music) (1), (cheerful beeping) (1)
 > **CLI Commands:** make (1), cd (1), node (1)
@@ -383,14 +380,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** navigate to (1)
 
-#### Movie object
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980)
+#### [Movie object](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=0)** (video game music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=3)** - For this JavaScript challenge, we're going back to the basics, the prototype chain.
+> **[0:03](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=3)** - For this [[JavaScript]] challenge, we're going back to the basics, the prototype chain.
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=8)** Unlike other programming languages, JavaScript uses objects to construct inheritance.
 >
@@ -452,7 +448,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=231)** Instead of using the function keyword, we can use the class keyword.
 >
-> **[3:55](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=235)** This class keyword is simply syntactical sugar and isn't comparable to object-oriented programming languages like Java.
+> **[3:55](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=235)** This class keyword is simply syntactical sugar and isn't comparable to [[Object-Oriented Programming (OOP)|object-oriented programming]] languages like [[Java]].
 >
 > **[4:10](https://www.linkedin.com/learning/level-up-javascript/movie-object?u=76281980&t=250)** To set our properties, we use a constructor function inside of our movie class.
 >
@@ -472,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), game (3), [[Programming]] (2), next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Java]] (1)
 > **Exercise Files:** template (4)
 > **Non-Speech:** (video game music) (2), (video game sound effect) (1)
 > **Tools:** terminal (2)
@@ -480,8 +476,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - for (1)
 
-#### Vegetarian dinner
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/vegetarian-dinner?u=76281980)
+#### [Vegetarian dinner](https://www.linkedin.com/learning/level-up-javascript/vegetarian-dinner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,11 +522,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/level-up-javascript/vegetarian-dinner?u=76281980&t=174)** (electronic music) The array.filter method is just one method we can use on arrays to manipulate data.
 >
-> **[3:00](https://www.linkedin.com/learning/level-up-javascript/vegetarian-dinner?u=76281980&t=180)** And arrays are one of the most common data types in JavaScript, so it's important to have a strong understanding of these different functions and methods that allow us to manipulate data.
+> **[3:00](https://www.linkedin.com/learning/level-up-javascript/vegetarian-dinner?u=76281980&t=180)** And arrays are one of the most common data types in [[JavaScript]], so it's important to have a strong understanding of these different functions and methods that allow us to manipulate data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), dom (1), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Non-Speech:** (electronic music) (5)
 > **Code Identifiers:** createelement (1)
 > **Env Vars:** dom (1)
@@ -539,8 +534,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - arrays (1)
 
-#### Technical books
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/technical-books?u=76281980)
+#### [Technical books](https://www.linkedin.com/learning/level-up-javascript/technical-books?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,11 +580,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/level-up-javascript/technical-books?u=76281980&t=129)** If we run our file in the terminal, we can see that our technical book is being console logged with the correct data.
 >
-> **[2:23](https://www.linkedin.com/learning/level-up-javascript/technical-books?u=76281980&t=143)** Inheritance is one of the foundational concepts of programming, so understanding JavaScript's prototypal inheritance is imperative to your understanding of the programming language.
+> **[2:23](https://www.linkedin.com/learning/level-up-javascript/technical-books?u=76281980&t=143)** Inheritance is one of the foundational concepts of programming, so understanding [[JavaScript]]'s prototypal inheritance is imperative to your understanding of the programming language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** getedition (2), numcopies (2)
 > **Env Vars:** isbn (4)
 > **Exercise Files:** template (3)
@@ -599,14 +593,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
 
-#### Private object
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/private-object?u=76281980)
+#### [Private object](https://www.linkedin.com/learning/level-up-javascript/private-object?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-javascript/private-object?u=76281980&t=0)** (lively game music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-javascript/private-object?u=76281980&t=3)** - [Instructor] JavaScript symbols were a new primitive data type introduced with ES6.
+> **[0:03](https://www.linkedin.com/learning/level-up-javascript/private-object?u=76281980&t=3)** - [Instructor] [[JavaScript]] symbols were a new primitive data type introduced with ES6.
 >
 > **[0:08](https://www.linkedin.com/learning/level-up-javascript/private-object?u=76281980&t=8)** Every value returned from a symbol is unique, meaning that we can use them as identifiers for object properties.
 >
@@ -636,13 +629,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), game (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Non-Speech:** (lively game music) (1), (lively music) (1), (beeping music) (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ticking time
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980)
+#### [Ticking time](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,13 +642,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=3)** - Callback functions are functions that get passed to other functions as arguments and get called at a later point in time.
 >
-> **[0:10](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=10)** Set timeout is one JavaScript function which requires a callback function.
+> **[0:10](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=10)** Set timeout is one [[JavaScript]] function which requires a callback function.
 >
 > **[0:15](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=15)** We pass, set, timeout a function, and after a certain amount of time, our function gets executed.
 >
 > **[0:20](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=20)** (electronic beeps) In this challenge, you'll create a ticking clock in the document body.
 >
-> **[0:25](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=25)** The index.HTML file contains a div with an ID of clock.
+> **[0:25](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=25)** The index.[[HTML]] file contains a div with an ID of clock.
 >
 > **[0:29](https://www.linkedin.com/learning/level-up-javascript/ticking-time?u=76281980&t=29)** Using callback functions and DOM manipulation, output a ticking digital clock which displays the current hours, minutes, and seconds.
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (3), [[JavaScript]] (2), data (2), [[Programming]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** dom (3), html (1)
 > **Non-Speech:** (electronic beeps) (3), (video game music) (1)
 > **File Paths:** index.html (1)
@@ -696,8 +688,7 @@ created: 2026-05-02
 > **Code Identifiers:** queryselector (1)
 > **Speakers:** - callback (1)
 
-#### Classroom attendance
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/classroom-attendance?u=76281980)
+#### [Classroom attendance](https://www.linkedin.com/learning/level-up-javascript/classroom-attendance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/level-up-javascript/classroom-attendance?u=76281980&t=117)** If there is a teaching assistant, we want to destructure the first value into the teacher variable and the second value into the teaching assistant variable.
 >
-> **[2:06](https://www.linkedin.com/learning/level-up-javascript/classroom-attendance?u=76281980&t=126)** The rest of the values will be spread into the students array.
+> **[2:06](https://www.linkedin.com/learning/level-up-javascript/classroom-attendance?u=76281980&t=126)** The [[Representational State Transfer (REST)|rest]] of the values will be spread into the students array.
 >
 > **[2:16](https://www.linkedin.com/learning/level-up-javascript/classroom-attendance?u=76281980&t=136)** Otherwise, we will spread the first value into the teacher variable and the rest of the values into the student's array.
 >
@@ -759,15 +750,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** getstudents (3), hasteachingassistant (2)
 > **Definitions:** is an  (2), is a  (1)
 > **Non-Speech:** (bright music) (2)
 > **Tools:** terminal (1)
 > **Speakers:** - destructuring (1)
 
-#### Dynamic colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/dynamic-colors?u=76281980)
+#### [Dynamic colors](https://www.linkedin.com/learning/level-up-javascript/dynamic-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,14 +837,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2)
 > **Code Identifiers:** changecolor (4), eventlisteners (4)
 > **Non-Speech:** (video game music) (2)
 > **Analogies:** for example (1)
 > **Speakers:** - closures (1)
 
-#### Coffee calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/coffee-calculations?u=76281980)
+#### [Coffee calculations](https://www.linkedin.com/learning/level-up-javascript/coffee-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/level-up-javascript/coffee-calculations?u=76281980&t=56)** You should use template literals for your return value.
 >
-> **[1:00](https://www.linkedin.com/learning/level-up-javascript/coffee-calculations?u=76281980&t=60)** Template literals, also known as template strings, allow you to combine JavaScript expressions and strings into one.
+> **[1:00](https://www.linkedin.com/learning/level-up-javascript/coffee-calculations?u=76281980&t=60)** Template literals, also known as template strings, allow you to combine [[JavaScript]] expressions and strings into one.
 >
 > **[1:06](https://www.linkedin.com/learning/level-up-javascript/coffee-calculations?u=76281980&t=66)** Where you previously had to use the plus scientific concatenate strings with values, you can now use back ticks.
 >
@@ -923,8 +911,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Food truck
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/food-truck?u=76281980)
+#### [Food truck](https://www.linkedin.com/learning/level-up-javascript/food-truck?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/level-up-javascript/food-truck?u=76281980&t=34)** We'll take this unique menu and use dom manipulation to create an unordered list containing these unique menu items.
 >
-> **[0:41](https://www.linkedin.com/learning/level-up-javascript/food-truck?u=76281980&t=41)** You should have an unordered list with an idea of combined menu in your HTML that you can use to append the list node children too.
+> **[0:41](https://www.linkedin.com/learning/level-up-javascript/food-truck?u=76281980&t=41)** You should have an unordered list with an idea of combined menu in your [[HTML]] that you can use to append the list node children too.
 >
 > **[0:48](https://www.linkedin.com/learning/level-up-javascript/food-truck?u=76281980&t=48)** Pause the video here, develop your solution, and when you come back, I'll walk you through how I solved the challenge.
 >
@@ -974,15 +961,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), data (1), dom (1), [[HTML]] (1), game (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** html (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - sets (1)
 > **Non-Speech:** (video game music) (1)
 
-#### Train generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/train-generator?u=76281980)
+#### [Train generator](https://www.linkedin.com/learning/level-up-javascript/train-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-javascript/train-generator?u=76281980&t=3)** - Generators are functions that can be exited and at a later point in time reentered while maintaining their context.
 >
-> **[0:10](https://www.linkedin.com/learning/level-up-javascript/train-generator?u=76281980&t=10)** Generator functions used to be really great in solving problems with asynchronous programming, but recently they've kind of been replaced by JavaScript'qs async await.
+> **[0:10](https://www.linkedin.com/learning/level-up-javascript/train-generator?u=76281980&t=10)** Generator functions used to be really great in solving problems with asynchronous programming, but recently they've kind of been replaced by [[JavaScript]]'qs async await.
 >
 > **[0:20](https://www.linkedin.com/learning/level-up-javascript/train-generator?u=76281980&t=20)** We declare generator functions with an asterisk following the function keyword.
 >
@@ -1052,14 +1038,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), node (2), [[Programming]] (1), [[JavaScript]] (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** nyctrainline (1), queryselector (1), nextstopbutton (1)
 > **CLI Commands:** node (2)
 > **Non-Speech:** (gaming music) (2)
 > **Speakers:** - generators (1)
 
-#### String permutation
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980)
+#### [String permutation](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,7 +1074,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=75)** We start at one and until we surpass the total number of letters, multiply the current total with the remaining number of letters.
 >
-> **[1:36](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=96)** Let's run this file in the terminal with a word to see if it works.
+> **[1:36](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=96)** Let's run this file in the terminal with a [[Microsoft Word|word]] to see if it works.
 >
 > **[1:48](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=108)** Now let's refactor this into a recursive algorithm.
 >
@@ -1097,7 +1082,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=117)** We first need a base case.
 >
-> **[1:59](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=119)** This is the case that tells JavaScript when to quit our recursive calls and return all of our previous values.
+> **[1:59](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=119)** This is the case that tells [[JavaScript]] when to quit our recursive calls and return all of our previous values.
 >
 > **[2:05](https://www.linkedin.com/learning/level-up-javascript/string-permutation?u=76281980&t=125)** In our case, we want to stop when there is only one letter remaining in the set of letters.
 >
@@ -1117,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Non-Speech:** (lively music) (2), (lively game music) (1)
 > **CLI Commands:** make (1)
 > **Documentation:** stack overflow (1)
@@ -1126,8 +1111,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - recursion (1)
 
-#### Five friends
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980)
+#### [Five friends](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,13 +1119,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=3)** - Functions declared with the async keyword allow us to write asynchronous code in a synchronous manner.
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=9)** And together with the fetch API, we can make asynchronous API requests.
+> **[0:09](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=9)** And together with the [[Fetch]] API, we can make asynchronous API requests.
 >
 > **[0:14](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=14)** (electronic tones) In this challenge, you're building a new component for Your Space, a brand new social media application that allows you to find friends.
 >
 > **[0:21](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=21)** This component displays a user's top five friends.
 >
-> **[0:25](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=25)** Given some JSON data returned from the random user API, you should dynamically generate image thumbnails for the top five friends.
+> **[0:25](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=25)** Given some [[JSON]] data returned from the random user API, you should dynamically generate image thumbnails for the top five friends.
 >
 > **[0:32](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=32)** You should use the fetch API to call the random user API.
 >
@@ -1199,13 +1183,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=205)** If we head back to the browser, we can see our five friends' profile photos being rendered correctly.
 >
-> **[3:31](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=211)** (electronic tones) Asynchronous programming and making API requests are two foundational concepts in JavaScript.
+> **[3:31](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=211)** (electronic tones) Asynchronous programming and making API requests are two foundational concepts in [[JavaScript]].
 >
 > **[3:38](https://www.linkedin.com/learning/level-up-javascript/five-friends?u=76281980&t=218)** I still struggle with them to this day, but the more you practice, the easier they'll get.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), data (6), [[Fetch]] (5), [[JSON]] (3), game (2)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[JSON]] (3), [[JavaScript]] (1)
 > **Env Vars:** api (11), json (3), url (1), dom (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Analogies:** picture (2)
@@ -1214,14 +1198,13 @@ created: 2026-05-02
 > **URLs:** [https://randomuser.me/api/?results=5](https://randomuser.me/api/?results=5) (1)
 > **Speakers:** - functions (1)
 
-#### URLify
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980)
+#### [URLify](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=0)** (rhythmic gaming music)
 >
-> **[0:04](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=4)** - Strings are one of the core data types in JavaScript so understanding how to manipulate them is a vital skill for all front end developers.
+> **[0:04](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=4)** - Strings are one of the core data types in [[JavaScript]] so understanding how to manipulate them is a vital skill for all front end developers.
 >
 > **[0:13](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=13)** The string data type comes with many utility functions which we can use to find and replace characters.
 >
@@ -1255,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=100)** a G flag to the regex constructor to indicate that we should apply this regex to the entire string.
 >
-> **[1:57](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=117)** You'll notice we didn't use the /W redux to select all non-word characters.
+> **[1:57](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=117)** You'll notice we didn't use the /W redux to select all non-[[Microsoft Word|word]] characters.
 >
 > **[2:02](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=122)** This is because this regex will also remove spaces and we must preserve the individual words so we can replace the spaces with hyphens in a later step.
 >
@@ -1289,13 +1272,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=218)** When we run our file in the terminal, we can see that our blog post titles have been urlified.
 >
-> **[3:43](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=223)** String manipulation is extremely common in web development.
+> **[3:43](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=223)** String manipulation is extremely common in [[Web Development]].
 >
 > **[3:48](https://www.linkedin.com/learning/level-up-javascript/urlify?u=76281980&t=228)** So learning how to use regular expressions and string utility functions is extremely important.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Microsoft Word|Word]] (1), [[Web Development]] (1)
 > **Non-Speech:** (rhythmic gaming music) (2), (beeping sounding) (1)
 > **Code Identifiers:** tolowercase (1), replaceall (1)
 > **Env Vars:** url (2)
@@ -1304,8 +1287,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - strings (1)
 
-#### Password strength
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/password-strength?u=76281980)
+#### [Password strength](https://www.linkedin.com/learning/level-up-javascript/password-strength?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1365,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/level-up-javascript/password-strength?u=76281980&t=286)** So if this challenge is difficult for you, don't get discouraged.
 >
-> **[4:50](https://www.linkedin.com/learning/level-up-javascript/password-strength?u=76281980&t=290)** They're really difficult to learn but they are a core foundation of JavaScript so it is important to be familiar with how and when you would use them.
+> **[4:50](https://www.linkedin.com/learning/level-up-javascript/password-strength?u=76281980&t=290)** They're really difficult to learn but they are a core foundation of [[JavaScript]] so it is important to be familiar with how and when you would use them.
 
 > [!info]- Semantic Content
 >

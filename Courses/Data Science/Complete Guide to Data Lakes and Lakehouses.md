@@ -145,8 +145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data lakes, lakehouses, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980)
+#### [Data lakes, lakehouses, and more](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,11 +153,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=7)** And I'm not just talking about CSV files.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=9)** What about JSON, PDFs, Images?
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=9)** What about [[JSON]], PDFs, Images?
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=13)** That's where a data lake comes in.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=15)** This course is a complete guide to data lakes and link houses.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=15)** This course is a complete guide to [[Data Lakes]] and link houses.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980&t=19)** We will go from the very basics of architecture all the way through building your own data lake and actually using it to gain insights.
 >
@@ -170,18 +169,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Data Lakes]] (1)
 > **Env Vars:** csv (1), json (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - we (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=0)** - The goal of this course is taking you from beginner to expert in data lakes and lakehouses.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=0)** - The goal of this course is taking you from beginner to expert in [[Data Lakes]] and lakehouses.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=6)** There is a lot of information, and I want you to really understand this well.
 >
@@ -193,9 +191,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=24)** As we get started, you would benefit from having some prior knowledge.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=29)** First, you need to have an understanding of databases.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=29)** First, you need to have an understanding of [[Databases]].
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=32)** You also need knowledge of Python and SQL.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=32)** You also need knowledge of [[Python (Programming Language)|Python]] and [[SQL]].
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-you-should-know-24325627?u=76281980&t=36)** Additionally, you will have an advantage if you have previous experience working with data applications and software infrastructure.
 >
@@ -205,19 +203,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - the (1)
 
-#### Final project preview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980)
+#### [Final project preview](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=0)** - At the end of this course, we are going to do a capstone project together.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=0)** - At the end of this course, we are going to do a [[Capstone]] project together.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=5)** This is an opportunity to apply all of the concepts you learned throughout the course.
 >
@@ -229,19 +226,19 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=26)** We are going to build a data lakehouse from scratch using state-of-the-art open-source technologies.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=33)** We will use MinIO as our S3-compatible storage layer, Apache Iceberg as our table format, Dremio as our query engine, DBT for data transformation, and Dagster for data orchestration.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=33)** We will use MinIO as our S3-compatible storage layer, Apache Iceberg as our table format, Dremio as our query engine, DBT for [[Data Transformation]], and Dagster for data orchestration.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=49)** We will build a Medallion Architecture, where we will create different data layers from raw to highly-curated data sets.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=56)** Then we will put the lakehouse into action by connecting it to analytics and VI tools, like Apache Superset and Jupyter Notebooks.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=65)** You'll get to use different language to query the lakehouse, such as SQL and Python, and then we will build some beautiful dashboards and run advanced analytics as well.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=65)** You'll get to use different language to query the lakehouse, such as [[SQL]] and [[Python (Programming Language)|Python]], and then we will build some beautiful [[Dashboards]] and run advanced analytics as well.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=76)** In the end, we we will build a small generative AI application using our structured text data from our lakehouse.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=76)** In the end, we we will build a small [[Generative AI]] application using our structured text data from our lakehouse.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=83)** Yes, we will build our own sales Copilot together.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=83)** Yes, we will build our own sales [[Microsoft Copilot|Copilot]] together.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=87)** Data lakes, as their name suggests, need data.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=87)** [[Data Lakes]], as their name suggests, need data.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=91)** So, to practice, we are going to be using some data from a fictional company called Kinetico.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=104)** As a result, they have lots of different kinds of data.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=108)** There are PDFs with specifications for each vehicle, CSV files with sales transactions, customers and vehicles, and JSON files with product reviews and logs.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=108)** There are PDFs with specifications for each vehicle, CSV files with sales transactions, customers and vehicles, and [[JSON]] files with product reviews and logs.
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-preview-24327498?u=76281980&t=120)** Our job is to get this data in and out of our data lake, combine them all together and gain insights.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Capstone]] (2), [[Analytics]] (2), hit (1), open-source (1)
+> **Frameworks & Libraries:** [[Capstone]] (2), [[Data Transformation]] (1), [[SQL]] (1), [[Python (Programming Language)|Python]] (1), [[Dashboards]] (1)
 > **CLI Commands:** apache (2), python (1), make (1)
 > **Env Vars:** dbt (1), sql (1), csv (1), json (1)
 > **Definitions:** is an  (2)
@@ -279,8 +276,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a data lake?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980)
+#### [What is a data lake?](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,17 +284,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=5)** But what exactly is a data lake?
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=8)** A data lake is a centralized repository that allows you to store all of your structured and unstructured data at any scale.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=8)** A data lake is a centralized repository that allows you to store all of your structured and [[Unstructured Data]] at any scale.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=17)** That means however much data you have, whether it is gigabytes or petabytes, you can add it all to the centralized repository.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=25)** In a data lake, you can store data as is without having to first structure it and run different types of analytics, from dashboards and visualizations to real-time analytics, machine learning, artificial intelligence, and more.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=25)** In a data lake, you can store data as is without having to first structure it and run different types of analytics, from [[Dashboards]] and visualizations to [[Real-Time]] analytics, machine learning, [[Artificial Intelligence (AI)|artificial intelligence]], and more.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=41)** Now, let's take a look at the specific key characteristics of a data lake.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=46)** First is scalability.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=46)** First is [[Scalability]].
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=48)** Data lakes can store petabytes of data and scale as needed without significant performance degradation.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=48)** [[Data Lakes]] can store petabytes of data and scale as needed without significant performance degradation.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=56)** This capability is essential in today's data-driven world, where the volume of data we generate and analyze continues to grow.
 >
@@ -308,29 +304,29 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=77)** Also, flexibility.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=80)** Unlike traditional databases that require data to be formatted and structured in a predefined way, data lakes can hold data in diverse formats, including logs, XML, JSON, images, and more.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=80)** Unlike traditional [[Databases]] that require data to be formatted and structured in a predefined way, data lakes can hold data in diverse formats, including logs, XML, [[JSON]], images, and more.
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=94)** This flexibility allows you to store data from diverse sources.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=99)** And finally, accessibility.
 >
-> **[1:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=102)** By centralizing data storage, data lakes makes it easier for different data consumers, like data scientists and analysts, to access and analyze large amounts of data quickly using tools and frameworks that integrate into the data lake environment.
+> **[1:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=102)** By centralizing [[Data Storage]], data lakes makes it easier for different data consumers, like data scientists and analysts, to access and analyze large amounts of data quickly using tools and frameworks that integrate into the data lake environment.
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=119)** So when may you want to use a data lake?
 >
 > **[2:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=122)** Data lakes serve as a foundation for advanced analytics, providing data scientists with the flexibility to access and analyze a variety of data formats.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=132)** This environment is ideal for developing and refining machine learning models and algorithms.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=132)** This environment is ideal for developing and refining machine learning models and [[Algorithms]].
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=138)** Similarly, data lakes are increasingly being used for AI-driven applications.
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=146)** The ability to store and manage large datasets from diverse data enables data teams to train more effective AI models.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=154)** Data lakes are often used to help with real-time data processing and analytics, enabling teams to quickly respond to business and market conditions.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=154)** Data lakes are often used to help with real-time [[Data Processing]] and analytics, enabling teams to quickly respond to business and market conditions.
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=164)** For example, retail companies analyze customer interactions and transactions as they happen to offer personalized promotions or dynamic pricing.
 >
-> **[2:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=175)** In the era of AI and advanced analytics, traditional data management systems often cannot handle the scale or provide the flexibility you need.
+> **[2:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=175)** In the era of AI and advanced analytics, traditional [[Data Management]] systems often cannot handle the scale or provide the flexibility you need.
 >
 > **[3:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980&t=185)** Data lakes address challenges, offering a more flexible and scalable approach to their storage and analysis.
 >
@@ -338,36 +334,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Analytics]] (5), ai (3), [[Real-Time]] (2), teams (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (8), [[Real-Time]] (2), [[Unstructured Data]] (1), [[Dashboards]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** xml (1), json (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Origins and evolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980)
+#### [Origins and evolution](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=0)** - Imagine stepping back in time to the early days of the internet, a world blooming with data, but confined by the limited storage and processing power of traditional systems.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=11)** How did we transition from there to today's sophisticated data lakes?
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=11)** How did we transition from there to today's sophisticated [[Data Lakes]]?
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=16)** In the late 1990s and early 2000s, the digital universe began to expand at an unprecedented rate.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=24)** With the rise of the internet, e-commerce, and social media, traditional data storage and processing systems were overwhelmed.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=24)** With the rise of the internet, [[E-Commerce]], and social media, traditional [[Data Storage]] and processing systems were overwhelmed.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=33)** The need for a technology that could handle not only the volume, but also the variety and velocity of data became obvious, but there were significant challenges behind it.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=44)** Traditional databases and data warehouses were structured for consistent, predictable loads of structured data, things like customer names and contact information, financial transactions, and stock information, et cetera.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=44)** Traditional [[Databases]] and data warehouses were structured for consistent, predictable loads of structured data, things like customer names and contact information, financial transactions, and stock information, et cetera.
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=60)** However, the new types of data, like emails, videos, social media posts, sensor data, et cetera were unstructured and didn't really fit into rows and columns.
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=72)** We needed a solution that was agile and diverse as the data itself.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=72)** We needed a solution that was [[Agile Development|agile]] and diverse as the data itself.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=78)** Enter Apache Hadoop.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=78)** Enter Apache [[Hadoop]].
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=80)** Inspired by the Google MapReduce and Google File System papers, Hadoop was designed to store and process huge amounts of data across clusters of commodity servers.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=80)** Inspired by the [[Google]] MapReduce and Google File System papers, Hadoop was designed to store and process huge amounts of data across clusters of commodity servers.
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=93)** It democratized data storage for many, allowing for the storage of data in its rawest form across distributed environments.
 >
@@ -379,21 +374,21 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=121)** Unlike data warehouses, which we will talk about a bit later in this chapter, data lakes were designed to be agile, scalable, and capable of handling the complexity and nature of real-world data.
 >
-> **[2:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=136)** The evolution of data lakes is also closely tied to the rapid advancement of cloud computing.
+> **[2:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=136)** The evolution of data lakes is also closely tied to the rapid advancement of [[Cloud Computing]].
 >
-> **[2:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=142)** As cloud services like Amazon Web Services, Microsoft Azure, and Google Cloud became more robust, they provided the perfect ecosystem for data lakes.
+> **[2:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=142)** As [[Cloud Services]] like [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud]] became more robust, they provided the perfect ecosystem for data lakes.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=153)** These platforms offer scalable, secure, and cost-effective storage solutions, allowing companies and teams of all sizes to set up data lakes without the need for expensive on-premise infrastructure.
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=167)** The concept of data democratization, making data accessible to everyone without gatekeepers, is another key factor in the rise of data lakes.
 >
-> **[2:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=178)** By allowing data to be stored in a central location that is accessible to different stakeholders within a company, data lakes enable a collaborative environment where insights and decision-making are available across departments.
+> **[2:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=178)** By allowing data to be stored in a central location that is accessible to different stakeholders within a company, data lakes enable a collaborative environment where insights and [[Decision-Making]] are available across departments.
 >
 > **[3:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/origins-and-evolution-24326594?u=76281980&t=192)** So there you have it, a little bit of history to understand how we arrived here and maybe even think about what the future may hold.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Agile Development|Agile]] (2), [[Hadoop]] (2), [[Google]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (7), [[Data Storage]] (2), [[Agile Development|Agile]] (2), [[Hadoop]] (2), [[Google]] (2)
 > **CLI Commands:** apache (1)
 > **Env Vars:** cto (1)
 > **Cross-References:** later in (1)
@@ -401,8 +396,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - imagine (1)
 
-#### Architecture core components
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980)
+#### [Architecture core components](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=13)** These ledges go from the least actionable at the bottom to the most actionable at the top.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=18)** This is so important that I actually have structured the rest of the course to go in this order.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=18)** This is so important that I actually have structured the [[Representational State Transfer (REST)|rest]] of the course to go in this order.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=24)** The storage layer is a foundation of a data lake.
 >
@@ -450,19 +444,19 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=135)** It must be optimized for fast processing of large data sets.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=139)** It should support several processing needs from batch processing large data sets to real-time analytics.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=139)** It should support several processing needs from [[Batch Processing]] large data sets to [[Real-Time]] analytics.
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=147)** Lastly, it must be capable of scaling out to meet your processing demands as data volume or complexity increases.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=155)** Second to the top, as its name suggests, the management and governance layer ensures that data lake remains organized, secure, and well-managed environment.
 >
-> **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=167)** It includes aspects like metadata management, data cataloging, security, and compliance.
+> **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=167)** It includes aspects like [[Metadata]] management, data cataloging, security, and compliance.
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=173)** The following are characteristics of a solid governance layer.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=177)** It should provide mechanisms for data access and authorization to secure sensitive data.
 >
-> **[3:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=183)** It also should allow you to track data lineage and metadata for transparency and auditability, and its must ensure data management practices meet regulatory requirements.
+> **[3:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=183)** It also should allow you to track [[Data Lineage]] and metadata for transparency and auditability, and its must ensure [[Data Management]] practices meet regulatory requirements.
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/architecture-core-components-24327500?u=76281980&t=195)** And finally, the analytics layer is where data becomes actionable, providing tools and interfaces for end users to query, visualize, and analyze the data stored in the lake.
 >
@@ -478,14 +472,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), management (4), [[Analytics]] (3), [[Metadata]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Data Management]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Real-Time]] (1), [[Data Lineage]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - ever (1)
 
-#### Data lake vs. data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980)
+#### [Data lake vs. data warehouse](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,15 +488,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=10)** First, let's formally define what a data warehouse is.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=15)** A data warehouse is a system used for reporting and data analysis, and it's a core component of business intelligence.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=15)** A data warehouse is a system used for reporting and data analysis, and it's a core component of [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=23)** It stores current and historical data in one single place.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=28)** This data is typically loaded from transactional systems and other relational databases and is structured in a way that makes it easy to query and generate reports.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=28)** This data is typically loaded from transactional systems and other [[Relational Databases]] and is structured in a way that makes it easy to query and generate reports.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=40)** Now, let's review some of the key architectural differences of data lakes versus data warehouses.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=40)** Now, let's review some of the key architectural differences of [[Data Lakes]] versus data warehouses.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=46)** In terms of data structure, data warehouses are highly structured and use a defined schema to organize data into tables, rows, and columns, which enable really fast access through SQL queries.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=46)** In terms of data structure, data warehouses are highly structured and use a defined schema to organize data into tables, rows, and columns, which enable really fast access through [[SQL]] queries.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=61)** This structure is ideal for complex queries and generating reports, as I mentioned before.
 >
@@ -511,35 +504,35 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=74)** They use a schema-on-read approach where data is structured when queries are executed, and not when data is stored.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=83)** This allows for more flexibility when working with diverse data types from structured data to unstructured data like emails, images, and social media content.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=83)** This allows for more flexibility when working with diverse data types from structured data to [[Unstructured Data]] like emails, images, and social media content.
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=94)** In terms of storage philosophy, data warehouses normally require data to undergo extensive cleaning and transformation before or after it is stored.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=105)** This helps with data quality and consistency, but it can be time consuming and inflexible.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=105)** This helps with [[Data Quality]] and consistency, but it can be time consuming and inflexible.
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=111)** Data lakes often allow for the storage of data in its raw format with no upfront cleaning.
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=118)** This means they can quickly ingest huge amounts of raw data, providing flexibility, but requiring more processing power to access the data than a data warehouse would.
 >
-> **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=129)** Regarding storage, technology and cost, data warehouses typically use relational database management systems that are optimized for fast retrieval of structured data.
+> **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=129)** Regarding storage, technology and cost, data warehouses typically use relational [[Database Management]] systems that are optimized for fast retrieval of structured data.
 >
-> **[2:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=140)** Data lakes are often built on technologies like Hadoop or cloud-based object storage solutions like Amazon S3.
+> **[2:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=140)** Data lakes are often built on technologies like [[Hadoop]] or cloud-based object storage solutions like Amazon S3.
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=148)** Object storage can be significantly cheaper than traditional database storage.
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=152)** Regarding data accessibility and use cases, data warehouses are accessed through SQL queries, making them suitable to business intelligence professionals who need data in a readily consumable format for decision making and reporting.
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=169)** Data lakes, on the other hand, require additional processing tools to organize and analyze the data stored in them, such as Apache Hadoop or Apache Spark, making them more suitable to data scientists.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=169)** Data lakes, on the other hand, require additional processing tools to organize and analyze the data stored in them, such as Apache Hadoop or [[Apache Spark]], making them more suitable to data scientists.
 >
-> **[3:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=182)** Data lakes are better suited for exploratory data analysis, machine learning, and artificial intelligence.
+> **[3:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=182)** Data lakes are better suited for exploratory data analysis, machine learning, and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[3:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=189)** I hope things are more clear now.
 >
-> **[3:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=192)** In the next video, we will compare data lakes to another modern data management concept, data mesh.
+> **[3:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-warehouse-24331168?u=76281980&t=192)** In the next video, we will compare data lakes to another modern [[Data Management]] concept, data [[Mesh]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Business Intelligence (BI)|Business intelligence]] (2), [[SQL]] (2), database (2), management (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (7), [[Business Intelligence (BI)|Business intelligence]] (2), [[SQL]] (2), [[Hadoop]] (2), [[Relational Databases]] (1)
 > **CLI Commands:** apache (2)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the next (1)
@@ -547,12 +540,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - by (1)
 
-#### Data lake vs. data mesh
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980)
+#### [Data lake vs. data mesh](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=0)** - [Instructor] A term that has gained popularity in the last few years is data mesh.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=0)** - [Instructor] A term that has gained popularity in the last few years is data [[Mesh]].
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=4)** But what is it and how does it compare to the data lake?
 >
@@ -562,15 +554,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=16)** Data mesh is a relatively new architecture concept that views data as a product.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=21)** Unlike traditional data management approaches that centralize data governance and architecture, data mesh promotes the centralized approach.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=21)** Unlike traditional [[Data Management]] approaches that centralize [[Data Governance]] and architecture, data mesh promotes the centralized approach.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=30)** Here, data is owned and managed by domain-specific teams who treat their data as a product, ensuring it's usable, accessible, invaluable to the rest of the company.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=30)** Here, data is owned and managed by domain-specific teams who treat their data as a product, ensuring it's usable, accessible, invaluable to the [[Representational State Transfer (REST)|rest]] of the company.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=41)** So a data mesh is not a specific technology like the data warehouse or the data lake, but a complete methodology for data management inside a company, which involves technology and people.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=55)** Now let's compare a data lake to a data mesh on different levels.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=60)** In terms of data governance, a data lake is centrally governed, typically by data engineering teams that manage access, security, and quality.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=60)** In terms of data governance, a data lake is centrally governed, typically by [[Data Engineering]] teams that manage access, security, and quality.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=69)** This can potentially create delays and inefficiencies in data access and use.
 >
@@ -584,15 +576,15 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=115)** It aims to avoid bottlenecks and governance issues that can arise with centralized systems.
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=121)** Regarding use cases, a data lake is ideal for centralizing data storage where everyone can access and analyze it.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=121)** Regarding use cases, a data lake is ideal for centralizing [[Data Storage]] where everyone can access and analyze it.
 >
-> **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=129)** Data lakes are better suited for companies that need a large repository to perform analytics, and want a centralized control over their data environment.
+> **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=129)** [[Data Lakes]] are better suited for companies that need a large repository to perform analytics, and want a centralized control over their data environment.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=138)** A data mesh is normally adopted by organizations with complex data from different business domains, where domain expertise is essential for managing and analyzing data effectively.
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=150)** This could be a large retail company with separate teams handling inventory, sales, marketing, and customer data; each team needing a specialized knowledge to manage and make sense of their specific datasets.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=164)** Because of this, a data mesh is more suitable for large distributed organizations with autonomous teams that need to manage and use their own data in an agile way.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=164)** Because of this, a data mesh is more suitable for large distributed organizations with autonomous teams that need to manage and use their own data in an [[Agile Development|agile]] way.
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lake-vs-data-mesh-24332093?u=76281980&t=176)** I hope this short description and comparison has clarified doubts about data mesh.
 >
@@ -602,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[Mesh]] (11), teams (5), product (3), management (2)
+> **Frameworks & Libraries:** [[Mesh]] (11), [[Data Management]] (2), [[Data Governance]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Engineering]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -613,8 +605,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980)
+#### [Storage types](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,23 +613,23 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=8)** Understanding these types is very important, because it can help you optimize your data strategy to balance cost, accessibility, and performance.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=17)** Let's explore the main types of storage used in data lakes.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=17)** Let's explore the main types of storage used in [[Data Lakes]].
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=21)** Object Storage is by far the most important storage type for data lakes, especially in cloud environments.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=28)** Here, data is stored as distinct units or objects, each with a unique identifier, which allows you to retrieve from a distributed pool of storage resources.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=38)** These type of storage is highly scalable and cost-effective, making it ideal for storing huge amounts of unstructured data, like photos, video, and large datasets.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=38)** These type of storage is highly scalable and cost-effective, making it ideal for storing huge amounts of [[Unstructured Data]], like photos, video, and large datasets.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=49)** Examples include Amazon S3, Google Cloud Storage, and Microsoft Azure Blob Storage.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=49)** Examples include Amazon S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, and [[Microsoft Azure]] Blob Storage.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=57)** File storage organizes data in a hierarchy of files and directories, allowing you to access and manage data in a way that is familiar to most computer users.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=67)** While it is not as scalable as object storage, file storage systems, like network-attached storage or NAS, are often used for smaller scale or legacy applications that require traditional file system interfaces.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=84)** Block Storage divides data into evenly sized blocks, each with its own unique address, but without any metadata to provide more context about the content.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=84)** Block Storage divides data into evenly sized blocks, each with its own unique address, but without any [[Metadata]] to provide more context about the content.
 >
-> **[1:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=95)** This type of storage is often used for performance-intensive applications, like databases or ERP systems.
+> **[1:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=95)** This type of storage is often used for performance-intensive applications, like [[Databases]] or ERP systems.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=103)** It can be more expensive and more complex to manage though, making it less common for general data lake usage.
 >
@@ -646,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=119)** These solutions are designed to offer the flexibility of object storage with the performance benefits of block storage.
 >
-> **[2:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=127)** For example, Hadoop Distributed File System or HDFS, or other software-defined storage solutions can manage data across different storage types effectively.
+> **[2:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=127)** For example, [[Hadoop]] Distributed File System or HDFS, or other software-defined storage solutions can manage data across different storage types effectively.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980&t=138)** As you can see, each type of storage in a data lake has its own set of advantages and ideal use cases.
 >
@@ -654,19 +645,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (1), [[Unstructured Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (3), [[Unstructured Data]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1), [[Metadata]] (1)
 > **Env Vars:** nas (1), erp (1), hdfs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Storage hosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980)
+#### [Storage hosting](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=0)** - [Instructor] So far, we have talked about how to store data in a data lake, and now it's time to talk about where.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=7)** As diverse as the data they hold, storage hosting solutions for data lakes may come in different forms, each offering unique benefits to different requirements.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=7)** As diverse as the data they hold, storage hosting solutions for [[Data Lakes]] may come in different [[Forms]], each offering unique benefits to different requirements.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=18)** Let's explore the different hosting solutions available.
 >
@@ -674,13 +664,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=30)** On-premises offers full control over storage environment, which is relevant for industries with high security and compliance requirements.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=40)** The strengths of this approach are enhanced security and control over hardware, potentially better performance for localized data processing.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=40)** The strengths of this approach are enhanced security and control over [[Hardware]], potentially better performance for localized [[Data Processing]].
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=50)** In terms of use cases, this is most often seen in highly regulated industries like finance and healthcare, where data sovereignty and security are the number one priority.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=62)** Cloud storage provides scalable and flexible data storage options hosted on external platforms provided by vendors such as Amazon Web Services, Microsoft Azure or Google Cloud platform.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=62)** [[Cloud Storage]] provides scalable and flexible [[Data Storage]] options hosted on external platforms provided by vendors such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]] or [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=76)** The strengths of this approach are scalability, cost-effectiveness, and accessibility from anywhere.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=76)** The strengths of this approach are [[Scalability]], cost-effectiveness, and accessibility from anywhere.
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-hosting-24323775?u=76281980&t=84)** Cloud storage also offers various services that can be integrated such as AI and analytics tools.
 >
@@ -710,30 +700,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (10), [[Security]] (4), strengths (4), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Cloud Storage]] (5), [[Scalability]] (3), [[Data Lakes]] (1), [[Forms]] (1), [[Hardware]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Storage solutions: S3, GCS and Azure Blob Storage and HDFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980)
+#### [Storage solutions: S3, GCS and Azure Blob Storage and HDFS](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=0)** - [Instructor] When it comes to storage solutions for Data Lake, Amazon S3, Google Cloud Storage, and Azure Blob Storage lead the market for cloud-based options.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=0)** - [Instructor] When it comes to storage solutions for Data Lake, Amazon S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, and [[Microsoft Azure|Azure]] Blob Storage lead the market for cloud-based options.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=10)** For on-premises setups, Hadoop HDFS is a popular choice.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=10)** For on-premises setups, [[Hadoop]] HDFS is a popular choice.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=15)** Let's explore these technologies in detail.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=18)** Let's start with the most popular solution for data lakes, Amazon S3.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=18)** Let's start with the most popular solution for [[Data Lakes]], Amazon S3.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=23)** S3 is a scalable object storage service that offers industry-leading durability, availability, and scalability.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=23)** S3 is a scalable object storage service that offers industry-leading durability, availability, and [[Scalability]].
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=30)** It is designed to store and retrieve any amount of data from anywhere on the web.
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=36)** S3 provides comprehensive security and compliance capabilities that meet even the most strict regulatory requirements.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=44)** It supports data lifecycle management and automated archiving features, making it highly cost effective for long-term data storage.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=44)** It supports data lifecycle management and automated archiving features, making it highly cost effective for long-term [[Data Storage]].
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=53)** It is ideal for companies of all sizes that require high availability and robust data protection.
 >
@@ -745,31 +734,31 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=83)** It offers a straightforward pricing model and its network infrastructure ensures excellent data transfer speeds.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=90)** Google Storage is quite versatile, supporting both SQL and NoSQL databases for diverse application needs.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=90)** [[Google]] Storage is quite versatile, supporting both [[SQL]] and [[NoSQL]] [[Databases]] for diverse application needs.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=99)** It is suitable for companies looking to run advanced data analytics and machine learning directly on the stored data.
 >
 > **[1:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=106)** It is also great for storing and distributing large media files due to its high speed and low latency network.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=114)** Azure Blob Storage is Microsoft Object storage solution for the cloud.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=114)** Azure Blob Storage is [[Microsoft]] Object storage solution for the cloud.
 >
-> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=119)** Blob storage is optimized for storing massive amounts of unstructured data, such as text or binary data.
+> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=119)** Blob storage is optimized for storing massive amounts of [[Unstructured Data]], such as text or binary data.
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=127)** Azure Blob Storage offers multiple data redundancy options, and then excellent security model that includes managed identity and access management solutions.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=137)** It is also integrated with the Azure Active Directory and Microsoft extensive analytics and AI tools.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=137)** It is also integrated with the [[Microsoft Entra ID|Azure Active Directory]] and Microsoft extensive analytics and AI tools.
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=145)** It is ideal for enterprises embedded in the Microsoft ecosystem and is particularly beneficial for storing huge volumes of unstructured data, backup and restore services, and serving images or documents directly to a browser.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=160)** Hadoop HDFS is an open-source distributed file system that is designed to run on commodity hardware.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=160)** Hadoop HDFS is an open-source distributed file system that is designed to run on commodity [[Hardware]].
 >
-> **[2:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=168)** It is a component of the Apache Hadoop ecosystem and is tailored for handling large scale data processing.
+> **[2:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=168)** It is a component of the Apache Hadoop ecosystem and is tailored for handling large scale [[Data Processing]].
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=176)** HDFS excels in its full tolerance and scalability.
 >
 > **[3:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=180)** It is designed to store very large files and distribute them across multiple machines, ensuring high availability.
 >
-> **[3:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=188)** It also integrates with other Hadoop ecosystem tools, such as MapReduce and Hive, making it a versatile solution for big data analytics.
+> **[3:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=188)** It also integrates with other Hadoop ecosystem tools, such as MapReduce and Hive, making it a versatile solution for [[Big Data Analytics]].
 >
 > **[3:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-solutions-s3-gcs-and-azure-blob-storage-and-hdfs-24328458?u=76281980&t=198)** It is ideal for organizations dealing with massive data sets that need to be processed in parallel across many servers.
 >
@@ -781,15 +770,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Hadoop]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Azure|Azure]] (3), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Hadoop]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Azure|Azure]] (3), [[Microsoft]] (3), [[Data Lakes]] (2)
 > **Env Vars:** hdfs (3), sql (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
-#### Folder structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980)
+#### [Folder structures](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=8)** Folder hierarchies help you organize data in a structured way, making it easier to navigate, manage, and retrieve.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=16)** A well-thought structure is so important in environments like data lakes where data diversity and volume can quickly lead to chaos.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=16)** A well-thought structure is so important in environments like [[Data Lakes]] where data diversity and volume can quickly lead to chaos.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=24)** Let's take a closer look at some of the benefits of applying folder hierarchies in your data lake.
 >
@@ -815,11 +803,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=78)** You can use the following criteria for grouping.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=81)** Organize data based on where it originates, such as from internal applications, social media feeds, or IoT devices.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=81)** Organize data based on where it originates, such as from internal applications, social media feeds, or [[IoT]] devices.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=90)** You may also group data according to business functions it supports such as sales, HR, or operations.
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=97)** It's also important to think about separating data based on confidentiality and access requirements to streamline security management.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=97)** It's also important to think about separating data based on confidentiality and access requirements to streamline [[Security Management]].
 >
 > **[1:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=106)** Another powerful concept to consider when designing your data lake is a medallion architecture.
 >
@@ -833,9 +821,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=132)** Transformations are applied here to make the data more usable for analysis, and the gold layer is the final highly curated data layer.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=141)** It is optimized for business intelligence and analytics, often containing aggregated and business specific data.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=141)** It is optimized for [[Business Intelligence (BI)|business intelligence]] and analytics, often containing aggregated and business specific data.
 >
-> **[2:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=148)** This is the structure we will use for our capstone project.
+> **[2:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=148)** This is the structure we will use for our [[Capstone]] project.
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=152)** Another aspect you should take into account is to design hierarchies that are flexible enough to accommodate future changes in data volume, new data types, and evolving business needs.
 >
@@ -847,7 +835,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=195)** These are some of the strategies you can apply.
 >
-> **[3:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=198)** Establish and enforce standard naming conventions that include clear descriptive names for folders and subfolders, and integrate metadata tagging practices within the folder hierarchy to help with data discovery and governance.
+> **[3:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=198)** Establish and enforce standard naming conventions that include clear descriptive names for folders and subfolders, and integrate [[Metadata]] tagging practices within the folder hierarchy to help with data discovery and governance.
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/folder-structures-24328455?u=76281980&t=213)** Let's see how some subfolder strategies may look in practice.
 >
@@ -863,18 +851,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), management (5), business (3), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (1), [[IoT]] (1), [[Security Management]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Capstone]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### File formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980)
+#### [File formats](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=0)** - [Instructor] In data lakes, file formats determine how data is stored, accessed, and analyzed.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=0)** - [Instructor] In [[Data Lakes]], file formats determine how data is stored, accessed, and analyzed.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=6)** The choice of file format can affect everything from costs to query performance.
 >
@@ -884,11 +871,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=23)** I'm sure you have used it in one way or another.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=27)** It is text-based, easy to understand, and supported by almost all data processing applications.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=27)** It is text-based, easy to understand, and supported by almost all [[Data Processing]] applications.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=33)** However, because CSV files lack any type of data compression or schema enforcement, they are not optimized for large datasets or complex queries.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=44)** JSON files are highly flexible and support a hierarchical, semi-structured data format, which is ideal for data in varying schemas.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=44)** [[JSON]] files are highly flexible and support a hierarchical, semi-structured data format, which is ideal for data in varying schemas.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=54)** JSON is extensively used in web applications and for exchanging data between servers and web clients.
 >
@@ -898,9 +885,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=74)** It offers excellent compression and encoding schemes, which reduce storage overhead and improve query performance by allowing efficient reads for specific columns.
 >
-> **[1:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=85)** Parquet is particularly well-suited for complex, nested data structures and is widely used in big data processing frameworks like Apache Hadoop, Spark, and Presto.
+> **[1:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=85)** Parquet is particularly well-suited for complex, nested [[Data Structures]] and is widely used in [[Big Data]] processing frameworks like Apache [[Hadoop]], Spark, and Presto.
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=97)** We will use this format with a twist in our capstone project.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=97)** We will use this format with a twist in our [[Capstone]] project.
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=101)** ORC is another columnar storage format that provides a highly efficient way to store and process data.
 >
@@ -912,7 +899,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=136)** It also supports a schema evolution where schemas are stored within the data, allowing serialized data to be easily integrated with applications.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=146)** Avro is a good choice for data pipelines that require robust, complex data structures and fast data ingestion.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=146)** Avro is a good choice for [[Data Pipelines]] that require robust, complex data structures and fast [[Data Ingestion]].
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/file-formats-24331167?u=76281980&t=153)** Choosing the right file format in a data lake is so important.
 >
@@ -928,27 +915,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[JSON]] (4), web (2), [[Big Data]] (1), [[Hadoop]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Data Lakes]] (3), [[Data Structures]] (2), [[Data Processing]] (1), [[Big Data]] (1)
 > **Env Vars:** json (4), orc (4), csv (3)
 > **CLI Commands:** apache (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data compression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980)
+#### [Data compression](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=0)** - [Instructor] With the volume of data stored in data lakes, we certainly need to think about data compression.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=0)** - [Instructor] With the volume of data stored in [[Data Lakes]], we certainly need to think about data compression.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=6)** Data compression is a technique used to maximize storage efficiency, reduce cost, and speed up data processing.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=6)** Data compression is a technique used to maximize storage efficiency, reduce cost, and speed up [[Data Processing]].
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=14)** By compressing data, you can store more information in less space and enhance the speed of the data transfer across networks.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=22)** Let me explain how data compression works in data lakes.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=26)** Data compression reduces the size of data files without losing the original data integrity.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=26)** Data compression reduces the size of data files without losing the original [[Data Integrity]].
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=32)** It can be performed using two main methods.
 >
@@ -976,7 +962,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=119)** It is ideal for text and numerical data, which are common in corporate environments.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=125)** Snappy and LZO are fast compression and decompression algorithms, making them suitable for real-time data processing in data lakes.
+> **[2:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=125)** Snappy and LZO are fast compression and decompression [[Algorithms]], making them suitable for [[Real-Time]] data processing in data lakes.
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=135)** And finally, GZIP provides a good balance between compression ratio and speed.
 >
@@ -984,7 +970,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=145)** When implementing data compression in a data lake, it is very important to choose the right format based on your data type and processing needs.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=154)** For instance, columnar formats, like Parquet or ORC, compress data by default and are optimized for analytical querying, making them excellent choices for data lakes used for business intelligence and analytics.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=154)** For instance, columnar formats, like Parquet or ORC, compress data by default and are optimized for analytical querying, making them excellent choices for data lakes used for [[Business Intelligence (BI)|business intelligence]] and analytics.
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-compression-24326595?u=76281980&t=170)** Of course, there are also some considerations to think about regarding compression.
 >
@@ -1010,14 +996,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), cloud (1), [[Algorithms]] (1), [[Real-Time]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (6), [[Data Processing]] (2), [[Data Integrity]] (2), [[Algorithms]] (1), [[Real-Time]] (1)
 > **Env Vars:** zip (1), lzo (1), gzip (1), orc (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980)
+#### [Data partitioning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1016,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=21)** Efficiently organizing data by partitioning can ultimately lead to reduced storage and computational costs.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=29)** These are the different types of partitioning that can be applied in data lakes.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=29)** These are the different types of partitioning that can be applied in [[Data Lakes]].
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=33)** The first one is horizontal partitioning or data sharding.
 >
@@ -1059,7 +1044,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=111)** This strategy can be useful for multi-tenant systems where data is segmented by customer or business unit.
 >
-> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=119)** This type of partitioning enhances data security and access control by isolating data relevant to a specific business unit or customer group.
+> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=119)** This type of partitioning enhances [[Data Security]] and access control by isolating data relevant to a specific business unit or customer group.
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=129)** For example, a multinational corporation may partition sales data by country or region, and this can improve access speed and relevancy for regional analysts.
 >
@@ -1071,17 +1056,17 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=165)** Also, be mindful of data skew where some partitions may end up significantly larger than others and could potentially degrade performance.
 >
-> **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=176)** In the context of a data lake, especially one using file system like HDFS or cloud storage, like Amazon S3 or Azure blob storage, partitions are often represented as folders in the underlying file system.
+> **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=176)** In the context of a data lake, especially one using file system like HDFS or [[Cloud Storage]], like Amazon S3 or [[Microsoft Azure|Azure]] blob storage, partitions are often represented as folders in the underlying file system.
 >
 > **[3:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=193)** Each partition may correspond to a specific folder containing files relevant to that partition.
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=199)** Now, let's take a look at how this is implemented when using some of the most common technologies.
 >
-> **[3:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=205)** Apache Hadoop HDFS supports partitioning at the directory level where data files can be organized into folders that represent different partitions.
+> **[3:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=205)** Apache [[Hadoop]] HDFS supports partitioning at the directory level where data files can be organized into folders that represent different partitions.
 >
 > **[3:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=215)** This means it allows for manual partitioning by creating directory structures that reflect partitioning logic such as by date or region.
 >
-> **[3:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=224)** Hive is a data warehousing tool built on top of Apache Hadoop, providing a SQL-like interface for querying data stored in HDFS.
+> **[3:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=224)** Hive is a [[Data Warehousing]] tool built on top of Apache Hadoop, providing a [[SQL]]-like interface for querying data stored in HDFS.
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=234)** Hive supports automatic partitioning by allowing you to specify partition keys when creating tables.
 >
@@ -1095,9 +1080,9 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=267)** With this method, data belonging to the same partition, in this case, all data from the 25th of December, 2021 is stored in the same folder.
 >
-> **[4:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=278)** Tools like AWS Glue can be used to manage metadata and optimize how data is queried from S3.
+> **[4:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=278)** Tools like AWS Glue can be used to manage [[Metadata]] and optimize how data is queried from S3.
 >
-> **[4:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=286)** Spark is a unified analytics engine designed for large scale data processing.
+> **[4:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=286)** Spark is a unified analytics engine designed for large scale [[Data Processing]].
 >
 > **[4:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-partitioning-24332089?u=76281980&t=292)** Spark supports dynamic partitioning during data processing which can be configured through its data frame and data set APIs.
 >
@@ -1113,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (45), business (5), next (2), [[Hadoop]] (2), functional (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (2), [[Hadoop]] (2), [[Data Processing]] (2), [[Data Security]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** hdfs (3), sql (1), aws (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** apache (2), make (1), aws (1)
@@ -1125,8 +1110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data ingestion methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980)
+#### [Data ingestion methods](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=8)** Let's discuss that in this chapter.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=10)** Data ingestion is the process of moving data from where it's originated into a system where it can be stored, analyzed, and obviously, in this case, that system is our data lake.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=10)** [[Data Ingestion]] is the process of moving data from where it's originated into a system where it can be stored, analyzed, and obviously, in this case, that system is our data lake.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=21)** We are going to explore the main methods for data ingestion in terms of frequency and amount of data that gets moved.
 >
@@ -1150,7 +1134,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=60)** Use cases include daily sales, data aggregation, or regular updates from a customer relationship management system.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=69)** A method that is a bit less common is real-time data ingestion.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=69)** A method that is a bit less common is [[Real-Time]] data ingestion.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=73)** Sometimes called streaming ingestion, this method involves continuously ingesting data as soon as it's generated.
 >
@@ -1158,7 +1142,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=87)** It enables immediate data availability, making it ideal for applications that require quick response times, such as fraud detection or live customer interaction.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=98)** Use case examples include monitoring IoT devices streams, tracking live transactions for immediate fraud detection, or real-time analytics for online user behavior.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=98)** Use case examples include monitoring [[IoT]] devices streams, tracking live transactions for immediate fraud detection, or real-time analytics for online user behavior.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=110)** Another method is near-real-time data ingestion, which is a compromise between batch and real-time methods, where data is ingested in micro batches at short time intervals, often minutes.
 >
@@ -1168,7 +1152,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=136)** It reduces a computational overhead compared to true real-time processing, and it is also easier to implement.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=144)** Use case examples include log monitoring for system health, stock market trend analysis, and periodic sync from operational databases.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=144)** Use case examples include log monitoring for system health, stock market trend analysis, and periodic sync from operational [[Databases]].
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980&t=154)** Choosing the right data ingestion method depends on your specific needs, including how timely the data needs to be processed, and what resources you have available at your disposal.
 >
@@ -1180,18 +1164,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Real-Time]] (8), management (1), [[IoT]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (8), [[Data Ingestion]] (6), [[IoT]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### ETL vs. ELT
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980)
+#### [ETL vs. ELT](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=0)** - We talked about data ingestion in the previous video, and now I think it is important to clarify what are the steps involved for such data movement to happen.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=0)** - We talked about [[Data Ingestion]] in the previous video, and now I think it is important to clarify what are the steps involved for such data movement to happen.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=9)** Sure, there is some type of extraction from the source and loading data in the data lake happening, but is there any more processing involved?
 >
@@ -1201,9 +1184,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=23)** ETL, which stands for extract, transform, and load, involves extracting data from source systems, transforming it into a structured format, and then loading it into a target database, data warehouse or data lake.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=38)** In ETL, the heavy lifting of data transformation occurs before data enters the data warehouse or data lake.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=38)** In ETL, the heavy lifting of [[Data Transformation]] occurs before data enters the data warehouse or data lake.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=46)** This approach is preferred when data integrity and cleanliness are priorities.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=46)** This approach is preferred when [[Data Integrity]] and cleanliness are priorities.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=51)** ETL is ideal for scenarios where data needs to be aggregated and transformed from various sources in a uniform way before storing it, or when we need to handle sensitive information so it doesn't make it to the target system, for example.
 >
@@ -1211,11 +1194,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=76)** ELT uses the processing power of modern data platforms to transform data.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=81)** It allows for more flexibility and scalability in handling huge amounts of raw data.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=81)** It allows for more flexibility and [[Scalability]] in handling huge amounts of raw data.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=87)** ELT is effective in environments where data volumes are massive and the variety of data is broad, such as big data analytics, real-time data processing, and machine learning scenarios.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=87)** ELT is effective in environments where data volumes are massive and the variety of data is broad, such as [[Big Data Analytics]], [[Real-Time]] [[Data Processing]], and machine learning scenarios.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=99)** ELT is normally the preferred method for data lakes because of the following reasons.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=99)** ELT is normally the preferred method for [[Data Lakes]] because of the following reasons.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/etl-vs-elt-24325631?u=76281980&t=105)** It can be more scalable and performant in data lake environment due to the computational power available in modern data platforms.
 >
@@ -1227,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), etl (3), power (2), database (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (1), [[Data Transformation]] (1), [[Data Integrity]] (1), [[Scalability]] (1), [[Big Data Analytics]] (1)
 > **Env Vars:** elt (7), etl (3)
 > **Cross-References:** we talked about (1), previous video (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -1235,14 +1218,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Data transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980)
+#### [Data transformation](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=0)** - [Instructor] Data lakes are ideal architectures for holding raw data, but raw data still needs to be prepared for advanced analytics more often than not.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=0)** - [Instructor] [[Data Lakes]] are ideal architectures for holding raw data, but raw data still needs to be prepared for advanced analytics more often than not.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=10)** That's where data transformation comes in.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=10)** That's where [[Data Transformation]] comes in.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=13)** Data transformation in data lakes involves changing the format, structure, or values of the data.
 >
@@ -1250,7 +1232,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=26)** Transforming data has several additional benefits.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=30)** It can improve data quality by correcting errors, filling missing values, and standardizing formats.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=30)** It can improve [[Data Quality]] by correcting errors, filling missing values, and standardizing formats.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=38)** It can also enhance data consistency, making it easier to integrate with other data sources.
 >
@@ -1278,9 +1260,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=123)** This technique also helps speed up and simplify analytical queries because the joints are not performed on every analysis.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=132)** An example would be merging customer information from CRM systems with transaction data from sales databases.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=132)** An example would be merging customer information from CRM systems with transaction data from sales [[Databases]].
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=139)** As data processing needs become more sophisticated, advanced techniques are often used to handle complex scenarios.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=139)** As [[Data Processing]] needs become more sophisticated, advanced techniques are often used to handle complex scenarios.
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=147)** Let's review a couple of them.
 >
@@ -1288,7 +1270,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=156)** For example, incorporating demographic information into an existing data set to help analyze buying patterns across different customer segments.
 >
-> **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=167)** Machine learning algorithms can also be applied to transform or enrich data based on learned patterns and predictions.
+> **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=167)** Machine learning [[Algorithms]] can also be applied to transform or enrich data based on learned patterns and predictions.
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-transformation-24325640?u=76281980&t=175)** An example will be using clustering techniques to segment customers based on behavior.
 >
@@ -1300,17 +1282,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Data Transformation]] (3), [[Analytics]] (2), [[Databases]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (3), [[Data Transformation]] (3), [[Data Quality]] (1), [[Databases]] (1), [[Data Processing]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980)
+#### [Data quality](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=0)** - Data lakes can quickly become data swamps if data quality is not actively managed.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=0)** - [[Data Lakes]] can quickly become data swamps if [[Data Quality]] is not actively managed.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=6)** Unfortunately, this topic is often overlooked in practice, but I think it is important to address it head on to ensure the success of any data-driven initiative.
 >
@@ -1324,7 +1305,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=43)** Much of the data in lakes is unstructured or semi-structured, which can make data quality checks technically more difficult to implement.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=52)** And to add more complexity, schema-on-read systems like data lakes often have flexible schemas that can evolve, which can complicate data management and quality unless carefully controlled.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=52)** And to add more complexity, schema-on-read systems like data lakes often have flexible schemas that can evolve, which can complicate [[Data Management]] and quality unless carefully controlled.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=67)** Some strategies that can be implemented in data lakes in order to increase the quality of data involve some type of transformation, as we discussed in a previous video.
 >
@@ -1338,17 +1319,17 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=108)** We can even use more advanced techniques that can further enhance data quality.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=112)** For example, using machine learning to predict and correct data anomalies and to validate the data automatically, or implementing real-time checks during data ingestion to prevent poor quality data from entering the lake in the first place.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=112)** For example, using machine learning to predict and correct data anomalies and to validate the data automatically, or implementing [[Real-Time]] checks during [[Data Ingestion]] to prevent poor quality data from entering the lake in the first place.
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=129)** Fortunately, there are several tools at our disposal that can help in maintaining and improving the quality of data.
 >
-> **[2:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=137)** ETL and data integration platforms like Talend, Informatica or Apache NiFi provide powerful data quality modules for validation, cleansing, and monitoring.
+> **[2:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=137)** ETL and [[Data Integration]] platforms like Talend, Informatica or Apache NiFi provide powerful data quality modules for validation, cleansing, and monitoring.
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=150)** As data environments grow in complexity, some modern data quality tools have emerged.
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=156)** These are some of the most notable ones.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=159)** Developed by Amazon, Deequ is an open source library built on top of Apache Spark for defining unit tests for data, which allows for large scale data quality validation in scalable and efficient manner.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=159)** Developed by Amazon, Deequ is an open source library built on top of [[Apache Spark]] for defining unit tests for data, which allows for large scale data quality validation in scalable and efficient manner.
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-quality-24330334?u=76281980&t=173)** Great Expectations is an open source tool that allows teams to write assertions about data, which are called expectations.
 >
@@ -1366,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (46), management (1), [[Real-Time]] (1), etl (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (11), [[Data Lakes]] (7), [[Data Management]] (1), [[Real-Time]] (1), [[Data Ingestion]] (1)
 > **CLI Commands:** apache (2), make (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** we discussed (1), previous video (1)
@@ -1374,16 +1355,15 @@ created: 2026-05-02
 > **Env Vars:** etl (1)
 > **Speakers:** - data (1)
 
-#### Error handling, logging, and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980)
+#### [Error handling, logging, and monitoring](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=0)** - Sooner or later, our data pipelines will break.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=0)** - Sooner or later, our [[Data Pipelines]] will break.
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=4)** If you've been a data engineer for some time, you know that it's just the reality.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=9)** Error handling in data ingestion involves anticipating, catching, and resolving errors that occur during the data loading process.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=9)** Error handling in [[Data Ingestion]] involves anticipating, catching, and resolving errors that occur during the data loading process.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=16)** It prevents corrupt data from entering the data lake and ensures that ingestion processes are not disrupted.
 >
@@ -1413,23 +1393,23 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=107)** You can also use log management tools to aggregate, store, and analyze log data.
 >
-> **[1:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=113)** Tools like Elasticsearch, Logstash, and Kibana, the ELK Stack, can provide powerful logging insights.
+> **[1:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=113)** Tools like [[Elasticsearch]], Logstash, and Kibana, the ELK Stack, can provide powerful logging insights.
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=121)** Lastly, ensure that logs contain enough information to be useful, but do not violate privacy laws or data protection regulations.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=121)** Lastly, ensure that logs contain enough information to be useful, but do not violate [[Privacy]] laws or data protection regulations.
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=131)** Securely store logs to prevent unauthorized access.
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=134)** Once our new shiny data ingestion pipeline is in place and you have implemented great logging mechanisms, we want to keep an eye on it.
 >
-> **[2:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=143)** Continuous monitoring of the data ingestion process helps detect and address issues such as data loss, delays, or inaccuracies before they have a greater impact.
+> **[2:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=143)** [[Continuous Monitoring]] of the data ingestion process helps detect and address issues such as data loss, delays, or inaccuracies before they have a greater impact.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=155)** A best practice here is to implement real-time monitoring tools that can provide alerts and dashboards to visualize the health and performance of the data ingestion pipelines.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=155)** A best practice here is to implement [[Real-Time]] monitoring tools that can provide alerts and [[Dashboards]] to visualize the health and performance of the data ingestion pipelines.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=166)** This proactive approach helps identify bottlenecks or failures early in the process.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=172)** These tools for monitoring can make your life easier.
 >
-> **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=176)** Apache NiFi offers a real-time data flow system with built-in dashboards for monitoring data throughput, latency, and system health, and the Elastic Stack comprising Elasticsearch, Logstash, and Kibana is ideal for logging data ingestion processes and visualizing data flows and performance metrics.
+> **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=176)** Apache NiFi offers a real-time data flow system with built-in dashboards for monitoring data throughput, latency, and system health, and the Elastic Stack comprising Elasticsearch, Logstash, and Kibana is ideal for logging data ingestion processes and visualizing data flows and [[Performance Metrics]].
 >
 > **[3:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/error-handling-logging-and-monitoring-24325633?u=76281980&t=197)** Prometheus and Grafana are tools that are commonly used to monitor the performance of data ingestion systems by scrapping metrics from your data pipelines and displaying them in intuitive dashboards.
 >
@@ -1441,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Dashboards]] (3), [[Elasticsearch]] (2), [[Real-Time]] (2), management (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (7), [[Data Pipelines]] (4), [[Dashboards]] (3), [[Elasticsearch]] (2), [[Real-Time]] (2)
 > **CLI Commands:** make (1), apache (1)
 > **Analogies:** such as (2)
 > **Env Vars:** elk (1)
@@ -1449,14 +1429,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - sooner (1)
 
-#### Orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980)
+#### [Orchestration](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=0)** - [Instructor] Orchestration is one of my favorite topics because it is the element that puts everything together into a coherent flow, and scheduling it, automating it, and letting us incorporate some of the best ingestion practices described before.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=15)** Data orchestration refers to the automated configuration and management of complex data pipelines.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=15)** Data orchestration refers to the automated configuration and management of complex [[Data Pipelines]].
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=21)** It involves managing the flow of data and the execution of tasks based on predefined rules and dependencies, ensuring everything is executed efficiently and in the correct order.
 >
@@ -1500,7 +1479,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=156)** Let's explore three popular ones.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=159)** Apache Airflow is an open source tool created by Airbnb.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=159)** [[Apache Airflow]] is an open source tool created by Airbnb.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=163)** It is designed to track the progress and outcomes of data workflows.
 >
@@ -1508,7 +1487,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=170)** It has a robust scheduler that manages the timing of job executions, ensuring that jobs run at their scheduled times or in response to certain triggers.
 >
-> **[3:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=180)** It allows pipelines to be defined in Python, enabling dynamic generation and extensive parameterization.
+> **[3:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=180)** It allows pipelines to be defined in [[Python (Programming Language)|Python]], enabling dynamic generation and extensive parameterization.
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=187)** It supports custom operations, sensors, and hooks for integration with third-party systems, making it highly adaptable to different environments.
 >
@@ -1522,7 +1501,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=223)** And it supports deployment to multiple environments, helping manage workflows across development, staging, and production.
 >
-> **[3:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=231)** And by the way, we will use Dagster in our Capstone project.
+> **[3:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=231)** And by the way, we will use Dagster in our [[Capstone]] project.
 >
 > **[3:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=236)** And lastly, Prefect is a modern data workflow orchestration tool designed to handle the needs of complex, data-centric workflows.
 >
@@ -1530,7 +1509,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=250)** These are some of the best features of Prefect.
 >
-> **[4:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=253)** It allows workflows to be executed on local resources or in the cloud, providing flexibility and scalability.
+> **[4:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=253)** It allows workflows to be executed on local resources or in the cloud, providing flexibility and [[Scalability]].
 >
 > **[4:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/orchestration-24325636?u=76281980&t=260)** It's designed to gracefully handle and recover from failures with detailed tracking of pipeline state and history.
 >
@@ -1546,14 +1525,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Orchestration]] (8), management (2), [[Troubleshooting]] (1), [[Apache Airflow]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (2), [[Apache Airflow]] (1), [[Python (Programming Language)|Python]] (1), [[Capstone]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **CLI Commands:** make (2), apache (1), python (1)
 > **Env Vars:** dag (3), dad (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data ingestion platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980)
+#### [Data ingestion platforms](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,29 +1539,29 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=11)** Building your own pipelines with something like Spark or Kafka provides flexibility, but something that may put your mind at ease is knowing that there are tools that can handle most of it for us.
 >
-> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=25)** Now, we will explore some of the leading data ingestion tools that provide powerful, ready-made solutions for moving data into data lakes.
+> **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=25)** Now, we will explore some of the leading [[Data Ingestion]] tools that provide powerful, ready-made solutions for moving data into [[Data Lakes]].
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=34)** These tools are designed to reduce complexity, increase efficiency, and support scalable data ingestion processes.
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=42)** Apache NiFi is an open-source data ingestion platform, which provides a web-based interface for designing, monitoring, and managing data flows.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=51)** It supports robust and scalable directed graphs for data routing, transformation, and system mediation logic.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=51)** It supports robust and scalable directed graphs for data [[Routing]], transformation, and system mediation logic.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=60)** Its features includes a drag-and-drop interface, data lineage, and support for real-time data streaming.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=60)** Its features includes a drag-and-drop interface, [[Data Lineage]], and support for [[Real-Time]] [[Data Streaming]].
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=67)** This makes it ideal for streaming from various sources into a data lake, including IoT devices, logs, and transactional data.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=67)** This makes it ideal for streaming from various sources into a data lake, including [[IoT]] devices, logs, and transactional data.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=76)** AWS Glue is a serverless data integration service that makes it easy to prepare and load data for analytics.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=76)** AWS Glue is a serverless [[Data Integration]] service that makes it easy to prepare and load data for analytics.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=84)** It provides both visual-based and code-based interfaces to create data pipelines.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=84)** It provides both visual-based and code-based interfaces to create [[Data Pipelines]].
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=90)** Its features includes a serverless architecture, automated data discovery, and built-in machine learning capabilities.
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=98)** It is perfect for AWS-centric environments, simplifying their integration, ETL, and data discovery activities.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=106)** Informatica is an enterprise cloud data management platform for data integration based on the ETL architecture.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=106)** Informatica is an enterprise cloud [[Data Management]] platform for data integration based on the ETL architecture.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=114)** It provides high availability, broad connectivity to cloud and on-premise applications, and advanced data transformation capabilities.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=114)** It provides high availability, broad connectivity to cloud and on-premise applications, and advanced [[Data Transformation]] capabilities.
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=123)** It is best for enterprises requiring reliable and secure integration of large volumes of data from a variety of sources into a data lake.
 >
@@ -1595,17 +1573,17 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=154)** It is great for companies looking to consolidate numerous data sources into a data lake without extensive engineering effort, and it is particularly useful for startups and mid-size companies needing quick setup and minimal maintenance.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=170)** Talend is a comprehensive cloud and big data integration software that allows you to ingest, transform, and share data.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=170)** Talend is a comprehensive cloud and [[Big Data]] integration software that allows you to ingest, transform, and share data.
 >
-> **[2:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=178)** Its features include extensive connectivity options, built-in data quality functions and support for ETL and ELT processes.
+> **[2:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=178)** Its features include extensive connectivity options, built-in [[Data Quality]] functions and support for ETL and ELT processes.
 >
-> **[3:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=189)** It is suitable for batch processing large data sets from traditional data sources like databases and ERP systems into a data lake.
+> **[3:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=189)** It is suitable for [[Batch Processing]] large data sets from traditional data sources like [[Databases]] and ERP systems into a data lake.
 >
 > **[3:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=198)** And lastly, Fivetran is a fully managed data pipeline service that automates data integration from various sources into your warehouse or lake.
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=208)** It includes previous connectors from a wide range of data sources, automatic schema migration, and minimal maintenance with continuous syncing.
 >
-> **[3:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=218)** It is suitable for continuously replicating data from diverse sources like SaaS applications, databases, and cloud services into your data lake for real-time analytics and reporting.
+> **[3:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=218)** It is suitable for continuously replicating data from diverse sources like [[SaaS]] applications, databases, and [[Cloud Services]] into your data lake for real-time analytics and reporting.
 >
 > **[3:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-platforms-24325629?u=76281980&t=230)** This is by no means an exhaustive list, but I wanted to provide you with an overview of different tools.
 >
@@ -1613,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), cloud (4), etl (3), open-source (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Data Ingestion]] (4), [[Data Integration]] (4), [[Data Lakes]] (2), [[Real-Time]] (2), [[Databases]] (2)
 > **Env Vars:** etl (3), aws (2), elt (1), erp (1)
 > **Definitions:** is an  (3), is a  (3)
 > **CLI Commands:** aws (2), apache (1)
@@ -1625,18 +1603,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data management and governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980)
+#### [Introduction to data management and governance](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=0)** - Data governance and management are core elements of a well-structured data lake.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=0)** - [[Data Governance]] and management are core elements of a well-structured data lake.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=5)** They make sure the data not only serves its purpose today, but is also secure and optimized for future use.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=13)** Let's have a quick overview of some of the important concepts around governance and management.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=18)** Data governance and data management are related and often confused.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=18)** Data governance and [[Data Management]] are related and often confused.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=23)** So what does each of them really mean?
 >
@@ -1656,15 +1633,15 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=84)** Honestly, there's no point in building the robust data lake if stakeholders cannot trust the data in it.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=91)** It can also increase data quality and consistency, which as we saw before, is so important for accurate analytics and decision making.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=91)** It can also increase [[Data Quality]] and consistency, which as we saw before, is so important for accurate analytics and decision making.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=100)** Basically, it prevents us from creating data swamps and last, but certainly not least, it enhances security and privacy.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=100)** Basically, it prevents us from creating data swamps and last, but certainly not least, it enhances security and [[Privacy]].
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=109)** By protecting sensitive data and making sure that privacy standards are met, you can avoid data breaches and unauthorized access.
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=119)** Now let's see some of the key components of a data governance and management strategy.
 >
-> **[2:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=124)** The first is developing clear policies and procedures that govern the data ingestion, storage, distribution, and archiving.
+> **[2:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=124)** The first is developing clear policies and procedures that govern the [[Data Ingestion]], storage, distribution, and archiving.
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980&t=132)** Then building and maintaining robust infrastructure that supports data governance, including tools for data cataloging, quality and security.
 >
@@ -1676,18 +1653,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), management (7), [[Security]] (2), [[Privacy]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (8), [[Data Management]] (3), [[Privacy]] (2), [[Data Quality]] (1), [[Data Ingestion]] (1)
 > **Definitions:** refers to (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - data (1)
 
-#### Metadata management
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980)
+#### [Metadata management](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=0)** - [Instructor] Metadata is often described as data about data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=0)** - [Instructor] [[Metadata]] is often described as data about data.
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=4)** Now, you may be wondering, isn't managing the data lake enough?
 >
@@ -1695,7 +1671,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=14)** Absolutely yes!
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=17)** Metadata enhances the way we discover and use data, and also plays a role in data governance and compliance.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=17)** Metadata enhances the way we discover and use data, and also plays a role in [[Data Governance]] and compliance.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=23)** Let's discover why.
 >
@@ -1713,13 +1689,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=74)** This type of metadata is for end users who need to understand data sets within a business context.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=81)** And lastly, we have operational metadata, which is related to operations and processes, such as data lineage, audit trails, and logs of data processing activities.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=81)** And lastly, we have operational metadata, which is related to operations and processes, such as [[Data Lineage]], audit trails, and logs of [[Data Processing]] activities.
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=92)** This type of metadata is important for monitoring and managing the data lake effectively, so it's mainly used by data engineers.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=100)** Here are some of the strategies you can apply regarding metadata.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=104)** You can use automated tools to collect it at the point of data ingestion and throughout the data life cycle.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=104)** You can use automated tools to collect it at the point of [[Data Ingestion]] and throughout the data life cycle.
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=111)** This ensures the metadata remains accurate and up to date as the data evolves.
 >
@@ -1727,30 +1703,29 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=127)** The catalog should be accessible and queryable for different user needs.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=132)** Then you can also integrate metadata management tools with other data management systems to make sure it's linked to the data it describes.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=132)** Then you can also integrate metadata management tools with other [[Data Management]] systems to make sure it's linked to the data it describes.
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=141)** This integration is important for maintaining consistency and accuracy across the whole data environment.
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=148)** As we have seen, a solid metadata strategy is incredibly important.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=153)** It improves user experience while also streamlining operation.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=153)** It improves [[User Experience (UX)|user experience]] while also streamlining operation.
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/metadata-management-24327502?u=76281980&t=158)** It is a key piece of the puzzle of making your data lake work effectively.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Metadata]] (16), business (3), management (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (16), [[Data Governance]] (2), [[Data Lineage]] (1), [[Data Processing]] (1), [[Data Ingestion]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data cataloging
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980)
+#### [Data cataloging](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=0)** - [Instructor] In the previous video, I talk about the importance of metadata.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=0)** - [Instructor] In the previous video, I talk about the importance of [[Metadata]].
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=4)** Now I'd like to expand on the topic and explore how metadata is made accessible through data catalogs.
 >
@@ -1766,7 +1741,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=52)** Catalogs are also used for search and discovery, since they can offer advanced edge capabilities to help users quickly find relevant data based on attributes and text.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=64)** Another important aspect that catalogs provide is data lineage and provenance visibility.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=64)** Another important aspect that catalogs provide is [[Data Lineage]] and provenance visibility.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=70)** They track the origin and lifecycle of data, offering insights into its transformations and dependencies.
 >
@@ -1774,7 +1749,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=82)** In particular, they enhance data discoverability by making it easy for users to find the data they need quickly and efficiently, reducing time spent searching for information.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=94)** They also improve data governance by giving us a visual way to make sure data is properly categorized, described, and aligned with policies and regulations.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=94)** They also improve [[Data Governance]] by giving us a visual way to make sure data is properly categorized, described, and aligned with policies and regulations.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=105)** And they facilitate collaboration among data users by providing tools to share insights, annotate data sets, and discuss data-related issues.
 >
@@ -1786,27 +1761,26 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=140)** And from a people perspective, it's a good idea to promote the adoption of the data catalog among data users through training and my demonstrating its value.
 >
-> **[2:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=151)** As you can see, data catalogs are super important for handling all the data in data lakes.
+> **[2:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=151)** As you can see, data catalogs are super important for handling all the data in [[Data Lakes]].
 >
 > **[2:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-cataloging-24332096?u=76281980&t=158)** They help manage metadata, make searching easy, and tie in governance to boost the usability, compliance, and overall value of the data lake investments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Metadata]] (7), management (2), [[Search]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[Data Governance]] (2), [[Data Lineage]] (1), [[Data Lakes]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lineage
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980)
+#### [Data lineage](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=0)** - [Instructor] It's pretty clear now that having a good visibility is very important for managing large scale data lakes, especially when the data comes from many sources and goes through lots of transformations.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=0)** - [Instructor] It's pretty clear now that having a good visibility is very important for managing large scale [[Data Lakes]], especially when the data comes from many sources and goes through lots of transformations.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=12)** Data lineage is another tool we can use to boost observability and simplify our lives.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=12)** [[Data Lineage]] is another tool we can use to boost observability and simplify our lives.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=18)** Data lineage is a process of tracking data from its source to its destination, documenting all the transformation it undergoes along the way.
 >
@@ -1814,13 +1788,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=31)** It provides you with a clear understanding of how data is modified and processed.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=36)** It also helps you with the identification and correction of errors in data processing workflows.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=36)** It also helps you with the identification and correction of errors in [[Data Processing]] workflows.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=42)** And it can also support compliance with data governance standards and regulatory requirements by providing you with a clear audit trail.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=42)** And it can also support compliance with [[Data Governance]] standards and regulatory requirements by providing you with a clear audit trail.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=51)** So, what exactly do we track in data lineage?
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=55)** First, the source of the data, which could be in the form of internal databases, external data services, or APIs, files, or real time data streams.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=55)** First, the source of the data, which could be in the form of internal [[Databases]], external data services, or APIs, files, or real time data streams.
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lineage-24325628?u=76281980&t=66)** Then data transformations, which are any processes that alter the data, such as cleansing, aggregations, or more complex analytical transformations.
 >
@@ -1836,23 +1810,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (5), [[Data Lakes]] (1), [[Data Processing]] (1), [[Data Governance]] (1), [[Databases]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data security, privacy, and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980)
+#### [Data security, privacy, and compliance](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=0)** - As data lakes hold more and more sensitive and critical data, the need for a strong security and compliance measure is more important than ever.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=0)** - As [[Data Lakes]] hold more and more sensitive and critical data, the need for a strong security and compliance measure is more important than ever.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=8)** First, let's define some important concepts around security, privacy, and compliance to make sure we are on the same page.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=8)** First, let's define some important concepts around security, [[Privacy]], and compliance to make sure we are on the same page.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=16)** Security involves protecting data from unauthorized access or breaches.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=20)** Security measures include physical security, network security, application security, and data encryption.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=20)** Security measures include physical security, [[Network Security]], [[Application Security]], and data encryption.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=28)** Privacy refers to ensuring that personal data is collected, stored, and using compliance with data protection laws and regulations, and compliance involves adhering to laws, regulations, and guidelines that relate to data protection and management.
 >
@@ -1860,7 +1833,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=51)** With this in mind, these are some of the strategies that you should consider implementing in your data lake.
 >
-> **[0:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=57)** The first is to implement data encryption at rest and in transit to protect data from unauthorized access.
+> **[0:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=57)** The first is to implement data encryption at [[Representational State Transfer (REST)|rest]] and in transit to protect data from unauthorized access.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=64)** This includes using advanced encryption standards and managing encryption key securely.
 >
@@ -1872,11 +1845,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=88)** We cover these models in more detail in the Data Consumption Chapter.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=93)** Another relevant strategy is to use data masking and anonymization techniques to hide sensitive information and remove personally identifiable information when it is not necessary for data processing.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=93)** Another relevant strategy is to use data masking and anonymization techniques to hide sensitive information and remove personally identifiable information when it is not necessary for [[Data Processing]].
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=108)** Regarding compliance, you should consider the following.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=112)** Understand and implement regulatory frameworks relevant to the data lake operational geography, and industry, such as GDPR for data protection, HIPAA for healthcare protection, and PCI DSS for payment data security.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=112)** Understand and implement regulatory frameworks relevant to the data lake operational geography, and industry, such as GDPR for data protection, HIPAA for healthcare protection, and PCI DSS for payment [[Data Security]].
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=129)** Run regular audits to help keep continuous compliance, and identify potential security threats.
 >
@@ -1884,45 +1857,44 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=141)** Develop and enforce data retention policies that comply with legal and regulatory requirements, so that data is not kept longer than necessary.
 >
-> **[2:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=152)** And lastly, make sure you collaborate with legal and compliance teams to make sure the data management practices continuously align with the regulatory changes and legal obligations.
+> **[2:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=152)** And lastly, make sure you collaborate with legal and compliance teams to make sure the [[Data Management]] practices continuously align with the regulatory changes and legal obligations.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=164)** Managing security, privacy and compliance in a data lake is not as fun designing and implementing state-of-the-art data architecture, but trust me, it is crucial for protecting the data and keeping trust with stakeholders and regulators, so it should definitely be part of their data strategy.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-security-privacy-and-compliance-24332095?u=76281980&t=164)** Managing security, privacy and compliance in a data lake is not as fun designing and implementing state-of-the-art [[Data Architecture]], but trust me, it is crucial for protecting the data and keeping trust with stakeholders and regulators, so it should definitely be part of their data strategy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Security]] (9), [[Privacy]] (3), management (2), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Lakes]] (1), [[Network Security]] (1), [[Application Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gdpr (1), hipaa (1), pci (1), dss (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
 
-#### Data management tools and platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980)
+#### [Data management tools and platforms](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=0)** - [Instructor] As data management techniques like metadata, cataloging, lineage and compliance are related and interconnected, there are some advanced tools at our disposal that can help us implement all of these and more.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=0)** - [Instructor] As [[Data Management]] techniques like [[Metadata]], cataloging, lineage and compliance are related and interconnected, there are some advanced tools at our disposal that can help us implement all of these and more.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=12)** Let's take a look.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=14)** Apache Atlas is a scalable and extensible set of core foundational governance services that enable companies to meet their compliance requirements.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=23)** It offers metadata management, data lineage, data classification and integration with Apache Hadoop and other data processing tools.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=23)** It offers metadata management, [[Data Lineage]], [[Data Classification]] and integration with Apache [[Hadoop]] and other [[Data Processing]] tools.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=33)** It is ideal for organizations using the Hadoop ecosystem.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=37)** Azure Purview is a unified data governance solution for managing and governing data across on-premises, multi-cloud and SaaS environments.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=37)** [[Microsoft Azure|Azure]] Purview is a unified [[Data Governance]] solution for managing and governing data across on-premises, multi-cloud and [[SaaS]] environments.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=47)** It includes data cataloging, data lineage, data classification and integration with Azure services.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=54)** Its features make it ideal for organizations using Azure services and looking for a native solution.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=60)** Google Cloud Data Catalog is a fully managed and scalable metadata management service in Google Cloud.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=60)** [[Google Cloud Platform (GCP)|Google Cloud]] Data Catalog is a fully managed and scalable metadata management service in Google Cloud.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=67)** It offers automated metadata ingestion, data lineage, search and discovery and policy management.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=74)** It is best for organizations leveraging Google Cloud Platform services.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=74)** It is best for organizations leveraging [[Google Cloud Platform (GCP)|Google Cloud Platform]] services.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=80)** AWS Glue Data Catalog is a fully managed metadata repository that allows you to catalog, search and manage data stored in the AWS Cloud.
 >
@@ -1930,7 +1902,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=100)** It is ideal for organizations using AWS services to manage and analyze their data, providing a centralized catalog and lineage tracking.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=110)** Databricks offers Unity Catalog, a unified governance solution for all data and AI assets in Databricks.
+> **[1:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=110)** Databricks offers [[Unity]] Catalog, a unified governance solution for all data and AI assets in Databricks.
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=118)** This solution offers data lineage, fine-grained access control, metadata management and integration with Databricks.
 >
@@ -1942,7 +1914,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=147)** It is suitable for enterprises looking to enhance data discovery and governance across various data sources.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=155)** Collibra is a data governance and catalog tool that helps organizations manage data assets and maintain data quality.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=155)** Collibra is a data governance and catalog tool that helps organizations manage data assets and maintain [[Data Quality]].
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=163)** It offers data lineage, data cataloging and policy management.
 >
@@ -1958,7 +1930,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=211)** It offers automated data discovery, metadata management, data lineage and collaboration features.
 >
-> **[3:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=218)** It is suitable for companies using talent for ETL and data integration tasks.
+> **[3:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=218)** It is suitable for companies using talent for ETL and [[Data Integration]] tasks.
 >
 > **[3:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-management-tools-and-platforms-24330330?u=76281980&t=224)** And last but not least, Atlan is a modern data collaboration workspace that includes data lineage, data cataloging features.
 >
@@ -1974,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (51), management (10), [[Metadata]] (10), aws (4), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Data Lineage]] (13), [[Metadata]] (10), [[Data Governance]] (4), [[Microsoft Azure|Azure]] (3), [[Hadoop]] (2)
 > **CLI Commands:** aws (4), apache (2), make (1), find (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** aws (4), emr (1), etl (1)
@@ -1985,8 +1957,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a data lakehouse?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980)
+#### [What is a data lakehouse?](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1994,19 +1965,19 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=8)** That's what a data lakehouse is all about.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=11)** A data lakehouse is an innovative data architecture that combines the best elements of data lakes and data warehouses.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=11)** A data lakehouse is an innovative [[Data Architecture]] that combines the best elements of [[Data Lakes]] and data warehouses.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=18)** This hybrid model is designed to capitalize on the data storage and flexibility of data lakes, while incorporating the management features and analytics capabilities of data warehouses.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=18)** This hybrid model is designed to capitalize on the [[Data Storage]] and flexibility of data lakes, while incorporating the management features and analytics capabilities of data warehouses.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=32)** It represents a shift in how data is stored, processed, and used, offering a single cohesive environment for all types of data analysis.
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=43)** But why did we need the data lakehouse in the first place?
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=47)** Data teams normally rely on data warehouses for structured data analytics and data lakes for storing raw, unstructured data.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=47)** Data teams normally rely on data warehouses for structured data analytics and data lakes for storing raw, [[Unstructured Data]].
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=55)** While they're quite effective in the respective roles, and they may perfectly fit certain use cases and specific needs, both systems have their own limitations.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=66)** Data warehouses sometimes struggle with scalability and cost effectiveness when dealing with large volumes of data.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=66)** Data warehouses sometimes struggle with [[Scalability]] and cost effectiveness when dealing with large volumes of data.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=73)** This is in part due to the types and relationship between storage and compute, which is difficult to independently scale in some platforms.
 >
@@ -2034,13 +2005,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=181)** An important architectural component of data lakehouses is implementation of dynamic schema management, which enforces schema-on-write and at the same time supports schema-on-read operations.
 >
-> **[3:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=196)** Schema-on-write means that the data is structured as it is ingested, which makes it automatically usable for analytics and business intelligence similar to data warehouses.
+> **[3:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=196)** Schema-on-write means that the data is structured as it is ingested, which makes it automatically usable for analytics and [[Business Intelligence (BI)|business intelligence]] similar to data warehouses.
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=208)** Schema-on-read means that the lakehouse maintains flexibility for data scientists to apply different schemas for advanced analytics characteristic of data lakes.
 >
 > **[3:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=219)** To be able to execute complex queries directly on diverse data sets, data lakehouses include advanced query engines.
 >
-> **[3:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=227)** These engines can support both batch and real-time data processing.
+> **[3:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=227)** These engines can support both batch and [[Real-Time]] [[Data Processing]].
 >
 > **[3:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980&t=232)** Because of the architecture, data lakehouses are able to support business intelligence, machine learning, and AI use cases, effectively creating a unified analytics platform.
 >
@@ -2050,7 +2021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[Analytics]] (6), management (2), [[Unstructured Data]] (2), [[Business Intelligence (BI)|Business intelligence]] (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (5), [[Unstructured Data]] (2), [[Business Intelligence (BI)|Business intelligence]] (2), [[Data Architecture]] (1), [[Data Storage]] (1)
 > **Definitions:** is a  (2), means that (2), is an  (1), known as (1)
 > **CLI Commands:** apache (2), make (1)
 > **Analogies:** imagine (1), such as (1), similar to (1)
@@ -2058,8 +2029,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - imagine (1)
 
-#### ACID transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/acid-transactions-24323780?u=76281980)
+#### [ACID transactions](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/acid-transactions-24323780?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,7 +2065,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/acid-transactions-24323780?u=76281980&t=108)** For example, in a sales data set, this would mean making sure each sale is associated with a valid product and customer.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/acid-transactions-24323780?u=76281980&t=117)** Some of the ways consistency is implemented are using constraints like foreign keys or unique keys that are strictly enforced during transaction and implementing data validation rules, defined according to business logic to make sure that all transformations meet specific criteria before being committed.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/acid-transactions-24323780?u=76281980&t=117)** Some of the ways consistency is implemented are using constraints like foreign keys or unique keys that are strictly enforced during transaction and implementing [[Data Validation]] rules, defined according to business logic to make sure that all transformations meet specific criteria before being committed.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/acid-transactions-24323780?u=76281980&t=136)** Isolation provides each transaction with the illusion that it is the only operation being executed in the system.
 >
@@ -2131,15 +2101,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (6), power (1), management (1), product (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **Definitions:** is an  (1), stands for (1), is a  (1), means that (1)
 > **Env Vars:** acid (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### Schema management
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980)
+#### [Schema management](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2118,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=14)** Schema management essentially involves defining the way data is structured within a database.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=20)** It includes using specific methods and tools to create, maintain, and update the descriptions of such data structures, also known as schemas.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=20)** It includes using specific methods and tools to create, maintain, and update the descriptions of such [[Data Structures]], also known as schemas.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=30)** You can think of schemas as the blueprints of a database.
 >
@@ -2159,7 +2128,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=55)** Or UML diagrams, Unified Modeling Language, which can be used for designing database schemas as well.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=63)** In data lakehouses, schemas are normally defined using DDL, or data definition language, which is part of SQL, and includes commands such as CREATE TABLE, ALTER TABLE, and DROP TABLE.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=63)** In data lakehouses, schemas are normally defined using DDL, or data definition language, which is part of [[SQL]], and includes commands such as CREATE TABLE, ALTER TABLE, and DROP TABLE.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=76)** These commands allow you to specify the columns, data types, constraints, and relationships of tables within the database.
 >
@@ -2167,7 +2136,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=92)** So let's review some of the aspects involving managing schemas in data lakehouses.
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=97)** Remembering that the goal is to ensure the lakehouse remains flexible to accommodate evolving data needs while maintaining strict governance and data integrity.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=97)** Remembering that the goal is to ensure the lakehouse remains flexible to accommodate evolving data needs while maintaining strict governance and [[Data Integrity]].
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=107)** Schema evolution is a process by which the database schema adapts over time without significantly disrupting existing data and operations.
 >
@@ -2187,15 +2156,15 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=179)** Once a schema is defined, enforcing it guarantees that all incoming data conforms to this predefined structure.
 >
-> **[3:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=186)** Schema validation techniques can be used during data ingestion to check data against the schema.
+> **[3:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=186)** Schema validation techniques can be used during [[Data Ingestion]] to check data against the schema.
 >
-> **[3:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=193)** Tools that perform JSON schema validation or XML schema validation are examples of how incoming data batches can be automatically checked and validated against existing schema rules.
+> **[3:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=193)** Tools that perform [[JSON]] schema validation or XML schema validation are examples of how incoming data batches can be automatically checked and validated against existing schema rules.
 >
 > **[3:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=206)** Lastly, these are some of the technologies that can help us with dynamic schema management in data lakehouses.
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=213)** The most common one is using a schema registry.
 >
-> **[3:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=217)** This tool acts as a central system for managing schema versions and their metadata.
+> **[3:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=217)** This tool acts as a central system for managing schema versions and their [[Metadata]].
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=222)** It allows systems to reference and get different schema versions as needed, making sure to maintain compatibility across the data ecosystem.
 >
@@ -2203,7 +2172,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=238)** There are also some platforms that automatically identify and adapt to changes in data schema.
 >
-> **[4:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=244)** They use machine learning or rule-based algorithms to analyze incoming data streams, detect new patterns or changes, and dynamically adjust schemas.
+> **[4:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=244)** They use machine learning or rule-based [[Algorithms]] to analyze incoming data streams, detect new patterns or changes, and dynamically adjust schemas.
 >
 > **[4:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/schema-management-24332091?u=76281980&t=253)** Some platforms with this capability are Apache NiFi, StreamSets, Informatica, Confluent, and AWS Glue.
 >
@@ -2215,7 +2184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), database (7), management (3), aws (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[SQL]] (1), [[Data Integrity]] (1), [[Data Ingestion]] (1), [[JSON]] (1)
 > **Env Vars:** table (3), aws (2), uml (1), ddl (1), sql (1)
 > **Definitions:** known as (1), is a  (1), in other words (1), means that (1)
 > **CLI Commands:** aws (2), apache (1)
@@ -2223,8 +2192,7 @@ created: 2026-05-02
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table formats: Delta Lake, Apache Iceberg, Apache Hudi
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980)
+#### [Table formats: Delta Lake, Apache Iceberg, Apache Hudi](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2240,7 +2208,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=34)** Table formats like Delta Lake, Apache Iceberg, or Apache Hudi are data formats that behave similarly to tables in a data warehouse.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=43)** These table formats manage and store data in a way that combines the scalability of file systems with the structure query capabilities of warehouse tables.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=43)** These table formats manage and store data in a way that combines the [[Scalability]] of file systems with the structure query capabilities of warehouse tables.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=54)** So what can these table formats offer and why are they so relevant in data lakehouses?
 >
@@ -2250,15 +2218,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=79)** They also offer transaction support as they can handle ACID transactions.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=84)** Table formats also excel at performance optimization by organizing data in ways that are optimal for reading and writing operations.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=84)** Table formats also [[Microsoft Excel|excel]] at performance optimization by organizing data in ways that are optimal for reading and writing operations.
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=94)** This includes features like indexing and partitioning, which help in quickly locating and returning data without scanning the entire dataset.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=103)** Now let's review the unique features and capabilities of each one of these table formats.
 >
-> **[1:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=109)** Delta Lake is an open source storage layer by Databricks that brings ACID transactions to Apache Spark and big data workloads.
+> **[1:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=109)** Delta Lake is an open source storage layer by Databricks that brings ACID transactions to [[Apache Spark]] and [[Big Data]] workloads.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=117)** It provides a robust data management and governance capabilities directly on top of existing data lake file storage.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=117)** It provides a robust [[Data Management]] and governance capabilities directly on top of existing data lake file storage.
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=125)** These are some of the key features of Delta Lake.
 >
@@ -2268,7 +2236,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=139)** With this time travel features it allows you to access previous versions of data, enabling easy audit trail, rollbacks, and full historical analysis.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=150)** Delta Lake is ideal for scenarios requiring robust data governance, complex transaction management, and detailed version control.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=150)** Delta Lake is ideal for scenarios requiring robust [[Data Governance]], complex transaction management, and detailed [[Version Control]].
 >
 > **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=159)** Apache Iceberg is an open source table format designed for huge analytic datasets, aiming to improve on the limitations of all their file formats like Parquet.
 >
@@ -2276,21 +2244,21 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=173)** It supports adding, dropping, updating, and renaming columns while maintaining compatibility with all data and queries.
 >
-> **[3:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=181)** Its hidden partitioning capabilities simplify data management by allowing complex partition strategies without altering SQL queries.
+> **[3:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=181)** Its hidden partitioning capabilities simplify data management by allowing complex partition strategies without altering [[SQL]] queries.
 >
 > **[3:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=190)** And it also provides consistent snapshots of data at a point in time for both read and write operations, enabling concurrent transactions without lagging.
 >
 > **[3:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=201)** Iceberg is particularly effective in environments where large datasets require frequent schema changes, and where performance optimization across large scale data is critical.
 >
-> **[3:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=212)** We will use this format in our capstone project.
+> **[3:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=212)** We will use this format in our [[Capstone]] project.
 >
-> **[3:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=215)** Apache Hudi is an open source data management framework for managing storage of large analytical datasets on Hadoop-compatible file systems.
+> **[3:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=215)** Apache Hudi is an open source data management framework for managing storage of large analytical datasets on [[Hadoop]]-compatible file systems.
 >
 > **[3:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=225)** Hudi's features include upsert and incremental processing, which enables updating, observing, and deleting records in large datasets quickly and effectively.
 >
-> **[3:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=235)** It supports capturing changes in the dataset at regular intervals, facilitating incremental data processing, and it also maintains indexes on data to support fast updates and query performance.
+> **[3:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=235)** It supports capturing changes in the dataset at regular intervals, facilitating incremental [[Data Processing]], and it also maintains indexes on data to support fast updates and query performance.
 >
-> **[4:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=248)** Hudi is suitable for applications that require frequent updates to existing records, real-time data feeds, and optimize query performance.
+> **[4:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=248)** Hudi is suitable for applications that require frequent updates to existing records, [[Real-Time]] data feeds, and optimize query performance.
 >
 > **[4:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/table-formats-delta-lake-apache-iceberg-apache-hudi-24330328?u=76281980&t=257)** Table formats are just amazing.
 >
@@ -2298,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), management (5), [[Scalability]] (1), [[Microsoft Excel|Excel]] (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (3), [[Scalability]] (1), [[Microsoft Excel|Excel]] (1), [[Apache Spark]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (6), make (1)
 > **Env Vars:** acid (3), orc (1), sql (1)
 > **Definitions:** is an  (3)
@@ -2310,8 +2278,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980)
+#### [Introduction to data consumption](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2319,21 +2286,21 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=8)** Only by implementing the right data consumption integrations can we unlock the full potential of our data infrastructure.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=15)** That's why the rest of this chapter will be all about accessing and consuming data in the data lake or lakehouse, and turning it into actionable insights.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=15)** That's why the [[Representational State Transfer (REST)|rest]] of this chapter will be all about accessing and consuming data in the data lake or lakehouse, and turning it into actionable insights.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=26)** Data consumption refers to all activities involved in accessing, retrieving, and analyzing data from storage systems.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=34)** It forms the basis of making data actionable.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=34)** It [[Forms]] the basis of making data actionable.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=37)** In data lakes, which as we know store enormous amounts of raw unstructured data, consumption involves querying datasets using large-scale query engines.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=37)** In [[Data Lakes]], which as we know store enormous amounts of raw [[Unstructured Data]], consumption involves querying datasets using large-scale query engines.
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=48)** In data lakehouses, which blend features of lakes and traditional warehouses, consumption involves using more structured, normally SQL-based frameworks.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=48)** In data lakehouses, which blend features of lakes and traditional warehouses, consumption involves using more structured, normally [[SQL]]-based frameworks.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=59)** Now let's take a look at some of the different types of tools that we can use to access the insights hidden in our data lakes and lakehouses.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=67)** Query engines are the most widely used tools for data consumption, enabling you to execute SQL and SQL-like queries across the stored data.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=77)** They can be used for performing complex analytical queries and allow for both batch and real-time processing.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=77)** They can be used for performing complex analytical queries and allow for both batch and [[Real-Time]] processing.
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=85)** Query engines are highly scalable and designed to handle very large datasets efficiently.
 >
@@ -2341,25 +2308,25 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=96)** They can be easily integrated with data lakes and lakehouses.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=100)** Integrated data platforms offer comprehensive services that include data ingestion, storage, management, and analysis, all within a single framework.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=100)** Integrated data platforms offer comprehensive services that include [[Data Ingestion]], storage, management, and analysis, all within a single framework.
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=111)** They simplify the data consumption pipeline by integrating multiple functionalities.
 >
-> **[1:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=116)** They provide an all-in-one solution with tools and services for end-to-end data management and analysis.
+> **[1:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=116)** They provide an all-in-one solution with tools and services for end-to-end [[Data Management]] and analysis.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=124)** And they are often designed with a focus on ease of use, aiming to be accessible to users with different levels of technical expertise.
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=132)** They are also flexible enough to serve specific business needs and scalable as those needs grow.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=139)** Streaming processing tools are used for analyzing and acting on real-time data streams, supporting applications that require immediate data processing.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=139)** Streaming processing tools are used for analyzing and acting on real-time data streams, supporting applications that require immediate [[Data Processing]].
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=149)** They are capable of processing data as it is ingested.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=153)** They're designed to handle high throughput and low latency operations on continuously flowing data.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=159)** These tools also support complex event processing features to detect patterns and react to events in real time.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=159)** These tools also support complex event processing features to detect patterns and [[React.js|react]] to events in real time.
 >
-> **[2:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=168)** Business intelligence tools specialize in creating data visualizations, reports, and dashboards to help you derive insights from complex datasets.
+> **[2:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=168)** [[Business Intelligence (BI)|Business intelligence]] tools specialize in creating data visualizations, reports, and [[Dashboards]] to help you derive insights from complex datasets.
 >
 > **[2:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980&t=178)** BI and visualization tools offer several features for creating interactive and static visuals.
 >
@@ -2391,15 +2358,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[SQL]] (3), [[Unstructured Data]] (2), [[Real-Time]] (2), management (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (3), [[SQL]] (3), [[Unstructured Data]] (2), [[Real-Time]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Unified data analysis: Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980)
+#### [Unified data analysis: Spark](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2407,11 +2373,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=7)** Actually, many modern data technologies are built on top of it.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=11)** Apache Spark is an open source unified analytics engine designed for large scale data processing.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=11)** [[Apache Spark]] is an open source unified analytics engine designed for large scale [[Data Processing]].
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=18)** It is known for its speed, ease of use, and sophisticated analytics features.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=24)** Spark can handle batch processing, real-time processing and interactive queries, making it a versatile choice for modern data infrastructures.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=24)** Spark can handle [[Batch Processing]], [[Real-Time]] processing and interactive queries, making it a versatile choice for modern data infrastructures.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=33)** These are some of the key features of Spark.
 >
@@ -2421,11 +2387,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=45)** Spark is also known for being versatile.
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=48)** With APIs available in Java, Scala, Python and R, Spark is accessible to a wide range of developers.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=48)** With APIs available in [[Java]], [[Scala]], [[Python (Programming Language)|Python]] and R, Spark is accessible to a wide range of developers.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=56)** It also enables advanced analytics.
 >
-> **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=59)** It supports SQL queries, machine learning, graph processing and more.
+> **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=59)** It supports [[SQL]] queries, machine learning, graph processing and more.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=64)** And as mentioned before, it can handle batch and real-time data, reducing the complexity of managing separate systems.
 >
@@ -2433,15 +2399,15 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=84)** A cluster manager that allocates resources across applications.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=88)** For example, Yarn or Kubernetes, and executors that run on worker notes to execute tasks and store data.
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=88)** For example, Yarn or [[Kubernetes]], and executors that run on worker notes to execute tasks and store data.
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=98)** Similar to some orchestrator, spark uses a DAG to schedule tasks.
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=104)** This structure ensures full tolerance, and optimizes the execution plan by breaking down jobs into stages and tasks.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=112)** Spark can read from and write to multiple data sources such as HDFS, Amazon S3, and Azure Block Storage.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=112)** Spark can read from and write to multiple data sources such as HDFS, Amazon S3, and [[Microsoft Azure|Azure]] Block Storage.
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=121)** It allows you to perform complex queries, unstructured and unstructured data alike.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=121)** It allows you to perform complex queries, unstructured and [[Unstructured Data]] alike.
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=127)** Let's review some of the most important interfaces of Spark.
 >
@@ -2453,7 +2419,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=150)** While Spark SQL provides a familiar interface, the data frame and dataset APIs may offer more control and efficiency.
 >
-> **[2:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=158)** The data frame API offers a high level abstraction, similar to a table in a relational database or a PANDAS data frame.
+> **[2:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=158)** The data frame API offers a high level abstraction, similar to a table in a relational database or a [[Pandas (Software)|PANDAS]] data frame.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=166)** It is optimized for in-memory processing, and it easily integrates with Spark SQL.
 >
@@ -2473,7 +2439,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=208)** Spark MLlib is a library that brings machine learning capabilities to your data.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=214)** It includes algorithms for classification, regression, clustering and more.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=214)** It includes [[Algorithms]] for classification, regression, clustering and more.
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-data-analysis-spark-24323774?u=76281980&t=218)** And it simplifies the process of building, and tuning machine learning models.
 >
@@ -2491,37 +2457,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[SQL]] (7), [[Analytics]] (4), api (3), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Data Processing]] (2), [[Real-Time]] (2), [[Algorithms]] (2), [[Apache Spark]] (1)
 > **Env Vars:** sql (7), api (3), dag (1), hdfs (1), pandas (1)
 > **CLI Commands:** apache (1), python (1), yarn (1), make (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (2), for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL on Hadoop: Hive and Impala
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980)
+#### [SQL on Hadoop: Hive and Impala](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=0)** - [Instructor] Hive and Impala are two technologies that meet a specific need by enabling high performance SQL querying directly on data stored in Hadoop clusters.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=0)** - [Instructor] Hive and Impala are two technologies that meet a specific need by enabling high performance [[SQL]] querying directly on data stored in [[Hadoop]] clusters.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=10)** Even though these technologies may not be state of the art and are actively being replaced by newer cloud solutions, which we will discuss later, it is important to mention them given they could still be used in legacy Hadoop data lakes.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=10)** Even though these technologies may not be state of the art and are actively being replaced by newer cloud solutions, which we will discuss later, it is important to mention them given they could still be used in legacy Hadoop [[Data Lakes]].
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=25)** Developed by Facebook and later on open-sourced Apache Hive is designed to provide a SQL-like interface for querying data stored in the Hadoop Distributed File System, HDFS.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=38)** It is ideal for data warehousing applications with its schema on read and table-like abstraction.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=38)** It is ideal for [[Data Warehousing]] applications with its schema on read and table-like abstraction.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=45)** These are the features that make Hive special.
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=48)** It is particularly well suited for long running batch processing jobs that requires complex SQL queries over large dataset.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=48)** It is particularly well suited for long running [[Batch Processing]] jobs that requires complex SQL queries over large dataset.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=56)** Hive Query Language, HiveQL translates SQL-like queries into MapReduce, Tez, or Spark jobs, allowing you to execute SQL commands to manipulate and retrieve data.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=69)** Additionally, it integrates well with other data processing frameworks like Spark and supports custom user defined functions, UDFs, to handle different data types and formats.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=69)** Additionally, it integrates well with other [[Data Processing]] frameworks like Spark and supports custom user defined functions, UDFs, to handle different data types and formats.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=82)** Developed by Cloudera, Impala provides a high performance, low latency SQL queries on data stored in HDFS, Apache HBase, and Amazon S3.
 >
-> **[1:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=95)** It is designed to overcome the latency limitations of Hive for scenarios requiring near real-time query performance.
+> **[1:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=95)** It is designed to overcome the latency limitations of Hive for scenarios requiring near [[Real-Time]] query performance.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=102)** Apache Impala is quite interesting because of the following features.
 >
@@ -2529,7 +2494,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=121)** Impala is also optimized for interactive analysis, providing fast on the fly query execution that enables more fluid data exploration and dashboarding experiences.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=133)** And lastly, Impala shares the same metadata, SQL syntax, ODBC driver and user interface as Hive, making it easy for users to switch between the two based on their performance needs.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=133)** And lastly, Impala shares the same [[Metadata]], SQL syntax, ODBC driver and user interface as Hive, making it easy for users to switch between the two based on their performance needs.
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/sql-on-hadoop-hive-and-impala-24332090?u=76281980&t=148)** Let's see how tools like Hive and Impala compare.
 >
@@ -2549,13 +2514,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[SQL]] (8), [[Hadoop]] (3), [[Real-Time]] (2), cloud (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Hadoop]] (3), [[Real-Time]] (2), [[Data Lakes]] (1), [[Data Warehousing]] (1)
 > **Env Vars:** sql (8), hdfs (2), mpp (1), odbc (1)
 > **CLI Commands:** apache (3), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive query engines: Presto and Trino
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980)
+#### [Interactive query engines: Presto and Trino](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2563,17 +2527,17 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=9)** They enable real time analysis, which is super important for dynamic business environments.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=15)** These technologies represent a significant evolution in the data processing landscape.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=15)** These technologies represent a significant evolution in the [[Data Processing]] landscape.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=22)** Originally developed by Facebook to allow querying massive amounts of data by using in-memory processing, Presto is an open-source distributed SQL query engine.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=22)** Originally developed by Facebook to allow querying massive amounts of data by using in-memory processing, Presto is an open-source distributed [[SQL]] query engine.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=33)** It is designed for interactive analytics and supports a variety of data sources, including HDFS, Cassandra, relational databases and proprietary data stores like Amazon in-stream.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=33)** It is designed for interactive analytics and supports a variety of data sources, including HDFS, Cassandra, [[Relational Databases]] and proprietary data stores like Amazon in-stream.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=48)** Presto includes some really nice and advanced features.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=51)** For example, its ability to perform queries across multiple data sources within a single query statement, making it an ideal tool for federated data analysis.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=64)** Apart from that, by processing queries in memory and minimizing data movement, Presto significantly reduces query latency, compared to engines that rely on this based storage or batch processing methods.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=64)** Apart from that, by processing queries in memory and minimizing data movement, Presto significantly reduces query latency, compared to engines that rely on this based storage or [[Batch Processing]] methods.
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-query-engines-presto-and-trino-24326590?u=76281980&t=78)** And most importantly, Presto can scale out to manage enormous amount of data across multiple nodes, maintaining high performance and false tolerance.
 >
@@ -2605,20 +2569,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SQL]] (2), business (1), open-source (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Processing]] (1), [[Relational Databases]] (1), [[Batch Processing]] (1)
 > **Env Vars:** sql (2), hdfs (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980)
+#### [Data indexing](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=0)** - [Instructor] Now that we reviewed some query engines, let's talk about how to make our queries faster and more efficient.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=6)** One of the techniques we can use in data lakes and lake houses is indexing.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=6)** One of the techniques we can use in [[Data Lakes]] and lake houses is indexing.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=12)** Indexing is a process of creating a searchable data reference that allows for quick retrieval.
 >
@@ -2630,11 +2593,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=47)** Data lakes as we know it can store all types of data.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=52)** While structured data can be easily indexed using traditional relational database techniques, unstructured data like files, images, videos, et cetera, requires different approaches.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=52)** While structured data can be easily indexed using traditional relational database techniques, [[Unstructured Data]] like files, images, videos, et cetera, requires different approaches.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=65)** With this in mind, let's review some indexing strategies for unstructured data.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=70)** One common approach is to use metadata to create indexes.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=70)** One common approach is to use [[Metadata]] to create indexes.
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-indexing-24332092?u=76281980&t=74)** Metadata that describes the content of unstructured data files, such as the creation date, source, or file type can be indexed to improve query performance.
 >
@@ -2678,20 +2641,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Metadata]] (4), [[Unstructured Data]] (3), [[Search]] (2), database (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Data Lakes]] (3), [[Unstructured Data]] (3)
 > **CLI Commands:** apache (2), make (1)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing query performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980)
+#### [Optimizing query performance](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=0)** - [Instructor] No matter what query engine you use, optimizing query performance is important for getting the most out of data lakes and lake houses.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=0)** - [Instructor] No matter what query engine you use, optimizing query performance is important for getting the most out of [[Data Lakes]] and lake houses.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=9)** As data volumes increase and queries get more complicated, optimizing performance is essential to keep your data platform agile and responsive.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=9)** As data volumes increase and queries get more complicated, optimizing performance is essential to keep your data platform [[Agile Development|agile]] and responsive.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=20)** Surprisingly, one of the most important aspects of query optimization isn't about the query itself.
 >
@@ -2699,7 +2661,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=32)** A structuring data in a way that aligns with common query patterns can significantly enhance query efficiency.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=39)** This includes using appropriate schema designs like star schema or snowflake schema, particularly in like houses.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=39)** This includes using appropriate schema designs like star schema or [[Snowflake]] schema, particularly in like houses.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=47)** Properly partitioning data and implementing indexes can dramatically reduce the amount of data scan during queries, speeding up the response times.
 >
@@ -2707,7 +2669,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=63)** Once organization partitioning and indexing are taken care of, we can look into more fine-grained query optimization techniques like the following.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=74)** Crafting efficient SQL queries is fundamental to performance optimization.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=74)** Crafting efficient [[SQL]] queries is fundamental to performance optimization.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=80)** Here are some tips to optimize your queries.
 >
@@ -2727,7 +2689,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=139)** Effective use of caching can significantly impact performance.
 >
-> **[2:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=143)** Some databases and frameworks allow caching the results of a particular query so that the same data doesn't need to be recomputed with each request.
+> **[2:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=143)** Some [[Databases]] and frameworks allow caching the results of a particular query so that the same data doesn't need to be recomputed with each request.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=153)** Tools like Spark allow you to cache data in memory across the distributed nodes, which is highly beneficial for data that is accessed frequently.
 >
@@ -2737,7 +2699,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=179)** Depending on the platform, materialized views can often be set to refresh during periods of low activity so they don't interfere with peak operational times.
 >
-> **[3:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=189)** Modern data processing frameworks offer unique optimization opportunities.
+> **[3:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=189)** Modern [[Data Processing]] frameworks offer unique optimization opportunities.
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=195)** Let's take a look at them.
 >
@@ -2747,7 +2709,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=216)** Spark is known for its in-memory data processing capabilities, and it optimizes iterative operations common in data analytics.
 >
-> **[3:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=225)** It also allows for extensive tuning, including custom partitioning strategies, persistence levels, and memory management.
+> **[3:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=225)** It also allows for extensive tuning, including custom partitioning strategies, persistence levels, and [[Memory Management]].
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=234)** Presto and Trino are optimized for concurrent querying for multiple data sources and are capable of performing high speed data retrieval operations without the need for data movement.
 >
@@ -2755,7 +2717,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=252)** Proper allocation of resources like CPU, memory, and input output operations per task or per note can drastically affect performance.
 >
-> **[4:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=262)** Tools like YARN or Kubernetes can be used to dynamically allocate resources based on workload demands.
+> **[4:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=262)** Tools like YARN or [[Kubernetes]] can be used to dynamically allocate resources based on workload demands.
 >
 > **[4:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/optimizing-query-performance-24330320?u=76281980&t=270)** Adjusting the level of parallelism, meaning how data is partitioned across nodes and how many concurrent tasks are run can optimize the processing time significantly.
 >
@@ -2783,7 +2745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), concurrent (2), [[Agile Development|Agile]] (1), [[Snowflake]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Processing]] (4), [[Data Lakes]] (2), [[Agile Development|Agile]] (1), [[Snowflake]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), yarn (1), apache (1)
 > **Env Vars:** sql (1), select (1), cpu (1), yarn (1)
 > **Analogies:** for instance (1), for example (1), such as (1)
@@ -2792,8 +2754,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data consumption security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980)
+#### [Data consumption security considerations](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2803,7 +2764,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=9)** Good security measures are essential to protecting sensitive information and complying with global data protection laws.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=17)** As organizations rely more on data lakes and lake houses for storage and analysis, keeping data secure during querying becomes a top priority.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=17)** As organizations rely more on [[Data Lakes]] and lake houses for storage and analysis, keeping data secure during querying becomes a top priority.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=26)** In terms of data access controls, there are two types that are widely used in data lakes and lake houses.
 >
@@ -2815,9 +2776,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=51)** Then we have attribute-based access controls, which provides a flexible approach to access control by using policies that evaluate attributes or characteristics, including the context of access, the sensitivity of the data, and user attributes.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=69)** Another very important aspect of data security is encryption.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=69)** Another very important aspect of [[Data Security]] is encryption.
 >
-> **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=73)** Here, we can identify two main types, encryption at rest and encryption in transit.
+> **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=73)** Here, we can identify two main types, encryption at [[Representational State Transfer (REST)|rest]] and encryption in transit.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=80)** Encryption at rest implies encrypting data stored within data lakes and lake house to prevent unauthorized users from reading it, even if they gain physical access to the storage.
 >
@@ -2843,7 +2804,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=176)** And lastly, it is not a bad idea to be prepared to prevent malicious attacks.
 >
-> **[3:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=181)** Make sure all inputs in SQL queries are validated to prevent SQL injection, a common attack where malicious SQL statements are inserted into an entry field for execution.
+> **[3:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=181)** Make sure all inputs in [[SQL]] queries are validated to prevent SQL injection, a common attack where malicious SQL statements are inserted into an entry field for execution.
 >
 > **[3:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-consumption-security-considerations-24330324?u=76281980&t=193)** Using prepared statements with parameterized queries can also help SQL injection, because it distinguishes between code and data.
 >
@@ -2859,7 +2820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Security]] (8), [[SQL]] (4), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (4), [[SQL]] (4), [[Data Security]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2870,32 +2831,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unified analytics platforms: Databricks and Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980)
+#### [Unified analytics platforms: Databricks and Snowflake](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=0)** - Now we enter the world of advanced unified data platforms.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=4)** Databricks and Snowflake are definitely the leaders in this area as they streamline the complexities of data processing and analysis in data lakes and lake houses, integrating several functionalities into a single, cohesive platform.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=4)** Databricks and [[Snowflake]] are definitely the leaders in this area as they streamline the complexities of [[Data Processing]] and analysis in [[Data Lakes]] and lake houses, integrating several functionalities into a single, cohesive platform.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=19)** Databricks provides a unified analytics platform built around Apache Spark.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=19)** Databricks provides a unified analytics platform built around [[Apache Spark]].
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=24)** It enhances Spark's capabilities with a collaborative notebook interface, optimized cloud infrastructure, and integrated data management tools.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=24)** It enhances Spark's capabilities with a collaborative notebook interface, optimized [[Cloud Infrastructure]], and integrated [[Data Management]] tools.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=35)** Databricks includes many, many nice features that make it ideal for implementing a lake house architecture.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=41)** I tried to capture the most important ones.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=43)** For example, Databricks unifies data ingestion, transformation, real-time streaming, and machine learning into a single platform, reducing complexity and enhancing productivity.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=43)** For example, Databricks unifies [[Data Ingestion]], transformation, [[Real-Time]] streaming, and machine learning into a single platform, reducing complexity and enhancing productivity.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=55)** Databricks developed Delta Lake to bring reliability to data lakes.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=60)** As we saw before, Delta Lake provides ACID transactions, scalable metadata handling, and time travel capabilities.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=60)** As we saw before, Delta Lake provides ACID transactions, scalable [[Metadata]] handling, and time travel capabilities.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=69)** It also provides interactive notebooks, which enable data teams to collaborate in real-time, share insights, and integrate their workflows directly in both batch and streaming data pipelines.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=69)** It also provides interactive notebooks, which enable data teams to collaborate in real-time, share insights, and integrate their workflows directly in both batch and streaming [[Data Pipelines]].
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=81)** Snowflake is a cloud-based data warehousing platform that supports many features of a data lake house, such as handling semi-structured data and scaling compute and storage independently.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=81)** Snowflake is a cloud-based [[Data Warehousing]] platform that supports many features of a data lake house, such as handling semi-structured data and scaling compute and storage independently.
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=93)** These are some of the most important Snowflake features.
 >
@@ -2903,7 +2863,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=105)** It offers a unique architecture that consists of a central data repository accessible from multiple compute clusters.
 >
-> **[1:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=113)** This architecture increases data consistency and provides robust data governance.
+> **[1:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=113)** This architecture increases data consistency and provides robust [[Data Governance]].
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=119)** Snowflake's data-sharing capabilities allow you to securely share data in real-time, enhancing collaboration and data monetization opportunities.
 >
@@ -2913,7 +2873,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=146)** Databricks uses Spark for high-performance analytics, which is particularly effective for complex data transformations and machine learning workflows.
 >
-> **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=156)** On the other hand, Snowflake optimizes SQL query performance, making it ideal for rapid, ad-hoc querying across large datasets.
+> **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=156)** On the other hand, Snowflake optimizes [[SQL]] query performance, making it ideal for rapid, ad-hoc querying across large datasets.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980&t=166)** Both platforms integrate with existing data management tools and ecosystems, with Databricks offering extensive support for open-source tools and Snowflake providing extensive SQL support with additional enhancements for handling semi-structured data.
 >
@@ -2923,7 +2883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Snowflake]] (8), [[Real-Time]] (3), [[Analytics]] (2), management (2)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Real-Time]] (3), [[Data Lakes]] (2), [[SQL]] (2), [[Data Processing]] (1)
 > **CLI Commands:** make (2), apache (1)
 > **Env Vars:** sql (2), acid (1)
 > **Analogies:** for example (1), such as (1)
@@ -2932,20 +2892,19 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Cloud data warehouses: BigQuery, Azure Synapse, and Redshift
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980)
+#### [Cloud data warehouses: BigQuery, Azure Synapse, and Redshift](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=0)** - I know what you're thinking: Why are we talking about cloud data warehouses now?
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=6)** Well, it turns out modern data warehouses all have mechanisms to connect and access data from data lakes, effectively creating a lakehouse-like architecture.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=6)** Well, it turns out modern data warehouses all have mechanisms to connect and access data from [[Data Lakes]], effectively creating a lakehouse-like architecture.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=16)** That's why data warehouses, like Google BigQuery, Azure Synapse, and Amazon Redshift are transforming the landscape of data analytics, and blurring the lines between types of their infrastructures.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=16)** That's why data warehouses, like [[Google]] BigQuery, [[Microsoft Azure|Azure]] Synapse, and Amazon Redshift are transforming the landscape of data analytics, and blurring the lines between types of their infrastructures.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=28)** Let's take a closer look at their features.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=30)** BigQuery's a fully managed serverless data warehouse that enables super-fast SQL queries using the processing power of Google's infrastructure.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=30)** BigQuery's a fully managed serverless data warehouse that enables super-fast [[SQL]] queries using the processing power of Google's infrastructure.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=40)** It is designed to be highly scalable and cost-effective, handling petabytes of data with ease.
 >
@@ -2955,9 +2914,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=57)** Its ability to scale automatically makes it a perfect fit for variable workloads, typical of data lakes.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=65)** BigQuery allows querying directly on external data sources, such as Google Cloud Storage, which can be used to store raw data in data lake environments, bridging the gap between the data lake and the cloud data warehouse.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=65)** BigQuery allows querying directly on external data sources, such as [[Google Cloud Platform (GCP)|Google Cloud]] Storage, which can be used to store raw data in data lake environments, bridging the gap between the data lake and the cloud data warehouse.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=79)** Azure Synapse Analytics offers an integrated analytics platform that brings together big data and data warehousing.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=79)** Azure Synapse Analytics offers an integrated analytics platform that brings together [[Big Data]] and [[Data Warehousing]].
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=86)** It provides a unified experience to ingest, prepare, manage, and serve data for immediate BI and machine-learning needs.
 >
@@ -2975,22 +2934,21 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=145)** Redshift Spectrum allows you to directly query and join data in S3 with data in Redshift, effectively providing a lakehouse environment where users can manage all their data across the data lake and the data warehouse seamlessly.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=160)** Redshift also facilitates sharing data across different instances, and can run queries that span both operational databases and the warehouse, enhancing the lakehouse's analytical capabilities.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=160)** Redshift also facilitates sharing data across different instances, and can run queries that span both operational [[Databases]] and the warehouse, enhancing the lakehouse's analytical capabilities.
 >
 > **[2:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=174)** Impressive, isn't it?
 >
-> **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=176)** Cloud data warehouses not only provide massive scale and performance, but they also offer integrations with existing data lakes so we can maintain flexibility in data storage and support all types of data analysis, machine learning, and AI.
+> **[2:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/cloud-data-warehouses-bigquery-azure-synapse-and-redshift-24323776?u=76281980&t=176)** Cloud data warehouses not only provide massive scale and performance, but they also offer integrations with existing data lakes so we can maintain flexibility in [[Data Storage]] and support all types of data analysis, machine learning, and AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Microsoft Azure|Azure]] (5), [[Analytics]] (4), cloud (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Data Lakes]] (5), [[Microsoft Azure|Azure]] (5), [[Google]] (2), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### Self-service data platforms: Dremio and Starburst
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980)
+#### [Self-service data platforms: Dremio and Starburst](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3002,17 +2960,17 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=24)** It does this by minimizing data movement and maximizing query performance through advanced caching and optimization techniques.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=32)** By the way, did I mention that we will use Dremio in our capstone project?
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=32)** By the way, did I mention that we will use Dremio in our [[Capstone]] project?
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=36)** Don't worry, we are almost there.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=38)** These are some of the nicest features of Dremio.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=42)** It uses Apache Arrow for in-memory data processing to speed up data queries, making it ideal for high-performance analytics.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=42)** It uses Apache Arrow for in-memory [[Data Processing]] to speed up data queries, making it ideal for high-performance analytics.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=50)** Dremio uses data reflections to create optimized representations of data queries, which accelerates subsequent analysis without the need for additional processing power.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=60)** It also offers a logical abstraction layer that simplifies data management, and enhances security by abstracting the underlying data structure and storage details.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=60)** It also offers a logical abstraction layer that simplifies [[Data Management]], and enhances security by abstracting the underlying data structure and storage details.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=71)** Starburst is a data lakehouse platform based on the open-source PrestoSQL query engine.
 >
@@ -3020,7 +2978,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=86)** StarBurst includes some cool features as well.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=89)** For example, it allows querying across multiple data sources, including SQL and NoSQL databases, data lakes, and other storage systems, enabling a unified analytics approach without data duplication.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=89)** For example, it allows querying across multiple data sources, including [[SQL]] and [[NoSQL]] [[Databases]], [[Data Lakes]], and other storage systems, enabling a unified analytics approach without data duplication.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=105)** It uses a sophisticated query optimizer that schedules execution based on query cost estimations, optimizing resource use, and improving overall query performance.
 >
@@ -3038,27 +2996,26 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=173)** While Dremio offers significant flexibility with its virtual datasets and extensive Apache Arrow integration, Starburst's ability to query across multiple platforms without moving data makes it highly valuable in hybrid data ecosystems.
 >
-> **[3:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=191)** As you can see, both of these modern self-service platforms offer distinctive advantages that can be used to enhance data accessibility and decision-making processes in data lakehouses.
+> **[3:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=191)** As you can see, both of these modern self-service platforms offer distinctive advantages that can be used to enhance data accessibility and [[Decision-Making]] processes in data lakehouses.
 >
-> **[3:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=204)** This helps many end users without the need for extensive technical support.
+> **[3:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/self-service-data-platforms-dremio-and-starburst-24327496?u=76281980&t=204)** This helps many end users without the need for extensive [[Technical Support]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Security]] (4), [[Analytics]] (3), [[SQL]] (2), ai (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[SQL]] (2), [[Capstone]] (1), [[Data Management]] (1), [[NoSQL]] (1)
 > **CLI Commands:** apache (2), make (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive notebooks: Jupyter, Zeppelin, Databricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980)
+#### [Interactive notebooks: Jupyter, Zeppelin, Databricks](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=0)** - I just love notebooks.
 >
-> **[0:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=2)** They make querying data lakes and lake houses easy, and lets you create great looking documents at the same time.
+> **[0:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=2)** They make querying [[Data Lakes]] and lake houses easy, and lets you create great looking documents at the same time.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=9)** It is easy to understand why data scientists love them too.
 >
@@ -3066,47 +3023,47 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=21)** Interactive notebooks are applications where you can write and execute code, visualize results, and annotate with text, normally using a web browser.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=31)** This functionality team makes them ideal for exploratory data analysis, prototyping, and educational purposes.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=31)** This functionality team makes them ideal for exploratory data analysis, [[Prototyping]], and educational purposes.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=39)** Notebooks provide direct access to store data, allowing analysts and data scientists to run queries, build models, and generate reports.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=49)** Their integration with data lakes and lake house makes real-time analysis and immediate insight generation possible.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=49)** Their integration with data lakes and lake house makes [[Real-Time]] analysis and immediate insight generation possible.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=56)** Let's explore some of the most popular ones.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=59)** Jupyter Notebook is one of the most popular open source notebook applications.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=64)** It supports over 40 programming languages, including Python, R, and Scala.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=64)** It supports over 40 programming languages, including [[Python (Programming Language)|Python]], R, and [[Scala]].
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=70)** It is widely used in the data science community for developing machine learning models and conducting statistical modeling.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=70)** It is widely used in the [[Data Science]] community for developing machine learning models and conducting statistical modeling.
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=78)** Jupyter Notebooks offer a set of really nice features.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=82)** For example, they support rich text elements, like Markdown, LaTeX, and HTML, which makes them a great documentation environment that combines executable code with detailed narratives.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=82)** For example, they support rich text elements, like Markdown, LaTeX, and [[HTML]], which makes them a great documentation environment that combines executable code with detailed narratives.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=95)** Jupyter also has an extensive ecosystem with a vast range of extensions that enhances its functionality, from interactive widgets to tools for code formatting and linting.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=106)** Additionally, Jupyter can connect directly to databases and data lakes via JDBC or ODBC or APIs, enabling queries and manipulations.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=106)** Additionally, Jupyter can connect directly to [[Databases]] and data lakes via [[Java Database Connectivity (JDBC)|JDBC]] or ODBC or APIs, enabling queries and manipulations.
 >
-> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=119)** Zeppelin is another interactive notebook that caters particularly to data engineering, data exploration, visualization, and sharing of computational work flows.
+> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=119)** Zeppelin is another interactive notebook that caters particularly to [[Data Engineering]], data exploration, visualization, and sharing of computational work flows.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=130)** The most interesting features of Zeppelin are, first of all, its built-in visualizations.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=136)** Unlike Jupyter, Zeppelin includes built-in visualization charts, which can be created without additional coding.
 >
-> **[2:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=144)** Zeppelin also supports multiple languages within the same notebook, including Spark integrations, which are commonly used in data lake environments for large scale data processing.
+> **[2:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=144)** Zeppelin also supports multiple languages within the same notebook, including Spark integrations, which are commonly used in data lake environments for large scale [[Data Processing]].
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=156)** Zeppelin also has great collaborative features.
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=160)** The web-based notebooks allow multiple users to collaborate on documents simultaneously, making it suitable for team-based data projects.
 >
-> **[2:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=169)** Last but certainly not least, we have Databricks, which, as we have seen before, offers a cloud-based notebook platform optimized for machine learning and big data processing, built around Apache Spark.
+> **[2:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=169)** Last but certainly not least, we have Databricks, which, as we have seen before, offers a cloud-based notebook platform optimized for machine learning and [[Big Data]] processing, built around [[Apache Spark]].
 >
 > **[3:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=183)** These are the amazing features of Databricks Notebooks.
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=186)** They directly integrate with Apache Spark, enabling powerful processing capabilities for data stored in lakes and lake houses.
 >
-> **[3:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=194)** Databricks notebooks also support collaborative programming and integrate with Git for version control, enhancing team development workflows.
+> **[3:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=194)** Databricks notebooks also support collaborative programming and integrate with [[Git]] for [[Version Control]], enhancing team development workflows.
 >
 > **[3:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/interactive-notebooks-jupyter-zeppelin-databricks-24323784?u=76281980&t=204)** And lastly, they provide great security features, including role-based access control, and automated cluster management, tailored for enterprise needs.
 >
@@ -3120,19 +3077,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), web (2), [[Programming]] (2), [[Apache Spark]] (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (4), [[Apache Spark]] (2), [[Prototyping]] (1), [[Real-Time]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** jupyter (7)
 > **CLI Commands:** make (2), apache (2), python (1), git (1)
 > **Env Vars:** html (1), jdbc (1), odbc (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### BI tools: Tableau, Power BI, Superset, Metabase
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980)
+#### [BI tools: Tableau, Power BI, Superset, Metabase](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=0)** - [Instructor] Business intelligence tools are just indispensable for making data actionable with powerful visualizations and interactive dashboards.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=0)** - [Instructor] [[Business Intelligence (BI)|Business intelligence]] tools are just indispensable for making data actionable with powerful visualizations and interactive [[Dashboards]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=8)** They meet the needs for everyone, from business users to advanced data analysts.
 >
@@ -3144,7 +3100,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=39)** BI tools connect directly to the data stored in lakes and lakehouses, allowing data analysis and reporting without the need for data movement.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=49)** One of the most popular proprietary BI tools, Tableau, is known for its powerful data visualization capabilities.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=49)** One of the most popular proprietary BI tools, [[Tableau]], is known for its powerful data visualization capabilities.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=57)** It allows you to create a wide range of interactive and shareable dashboards.
 >
@@ -3152,27 +3108,27 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=65)** Tableau's intuitive drag and drop interface makes it accessible to users with varying levels of technical expertise.
 >
-> **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=73)** It connects to a variety of data sources, including data warehouses like Amazon Redshift, Google BigQuery, and directly to data lakes in Amazon S3 or even Hadoop.
+> **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=73)** It connects to a variety of data sources, including data warehouses like Amazon Redshift, [[Google]] BigQuery, and directly to [[Data Lakes]] in Amazon S3 or even [[Hadoop]].
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=84)** It also provides features like trend analysis, regressions, and correlations directly within the tool.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=91)** Developed by Microsoft, Power Bi is a suite of business analytics tools that deliver insights.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=91)** Developed by [[Microsoft]], [[Microsoft Power BI|Power Bi]] is a suite of [[Business Analytics]] tools that deliver insights.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=98)** The most important features that Power BI offers are, first of all, it naturally integrates with other Microsoft products, making it a strong candidate for companies embedded within the Microsoft ecosystem.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=98)** The most important features that Power BI offers are, first of all, it naturally integrates with other [[Microsoft Products]], making it a strong candidate for companies embedded within the Microsoft ecosystem.
 >
-> **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=111)** It also offers real-time updates to dashboards, which is relevant for monitoring live data streams.
+> **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=111)** It also offers [[Real-Time]] updates to dashboards, which is relevant for monitoring live data streams.
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=119)** It uses machine learning to automatically identify patterns and help you find valuable insights.
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=125)** An open source option that is gaining a lot of traction is Apache Superset, a data exploration and visualization web application.
 >
-> **[2:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=134)** The key features of a Apache Superset are: it offers a wider range of visualizations, including options for charts, pivot tables, and more, all within an easy-to-use interface.
+> **[2:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=134)** The key features of a Apache Superset are: it offers a wider range of visualizations, including options for charts, [[Pivot Tables]], and more, all within an easy-to-use interface.
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=147)** It is also highly extensible.
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=149)** Being open source, it can be extended with additional plugins and features developed by the community.
 >
-> **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=156)** Additionally, it is capable of connecting to most SQL-speaking databases, including sophisticated analytical databases like BigQuery, Postgres, and MySQL, and advanced data platforms like lakes and lakehouses via ODBC.
+> **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=156)** Additionally, it is capable of connecting to most [[SQL]]-speaking [[Databases]], including sophisticated analytical databases like BigQuery, [[PostgreSQL|Postgres]], and [[MySQL]], and advanced data platforms like lakes and lakehouses via ODBC.
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/bi-tools-tableau-powerbi-superset-metabase-24323782?u=76281980&t=173)** Metabase is another open source BI tool that is particularly notable for its simplicity and ease of use, making analytics accessible to non-technical users.
 >
@@ -3190,7 +3146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), bi (8), [[Dashboards]] (6), [[Tableau]] (4), business (3)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Tableau]] (4), [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (2), [[SQL]] (2)
 > **CLI Commands:** apache (3), make (1), find (1), mysql (1)
 > **Env Vars:** sql (2), odbc (1)
 > **UI Navigation:** drag and drop (1)
@@ -3198,8 +3154,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### APIs and services for data consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980)
+#### [APIs and services for data consumption](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3211,9 +3166,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=24)** Data APIs are software intermediaries that allow applications to interact with data sources through a set of defined protocols and tools.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=33)** APIs offer ways to directly interact with the storage layer of lakes and lake houses, allowing for operations such as data ingestion, retrieval, and deletion.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=33)** APIs offer ways to directly interact with the storage layer of lakes and lake houses, allowing for operations such as [[Data Ingestion]], retrieval, and deletion.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=44)** APIs also enable performing complex queries and analytics directly on the data stored in lakes and lake houses, often exposing SQL-like interfaces.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=44)** APIs also enable performing complex queries and analytics directly on the data stored in lakes and lake houses, often exposing [[SQL]]-like interfaces.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=55)** They even enable building, training, and deploying machine learning models directly on the data within the lake houses.
 >
@@ -3225,31 +3180,31 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=77)** They're stateless, reliable, and can scale quickly, making them ideal for interacting with data and lakes and lake houses.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=86)** GraphQL APIs allow you to request exactly the data you need, making them efficient for a complex system with large data sets typical of lakes and lake houses.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=86)** [[GraphQL]] APIs allow you to request exactly the data you need, making them efficient for a complex system with large data sets typical of lakes and lake houses.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=97)** Simple object access protocol APIs are way less common for new applications, but they provide a strict specification and built-in error handling, which can be useful for legacy systems integrating with modern data architectures.
 >
-> **[1:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=113)** Data APIs and services offer some advantages when integrating with data management tools.
+> **[1:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=113)** Data APIs and services offer some advantages when integrating with [[Data Management]] tools.
 >
-> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=119)** For example, data APIs provide a unified interface to access data stored across different storage systems, such as HDFS, S3, or distributed SQL databases.
+> **[1:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=119)** For example, data APIs provide a unified interface to access data stored across different storage systems, such as HDFS, S3, or distributed SQL [[Databases]].
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=132)** By doing so, they facilitate the interaction between different platforms and analytic tools.
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=138)** Many modern data platforms come with their own APIs that are optimized for performance and functionality.
 >
-> **[2:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=145)** For example, the APIs provided by platforms like Databricks or Snowflake are tailored to their unique architectures, offering functions that are specific to their environment, which may include optimizing a query or machine learning model deployment.
+> **[2:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=145)** For example, the APIs provided by platforms like Databricks or [[Snowflake]] are tailored to their unique architectures, offering functions that are specific to their environment, which may include optimizing a query or machine learning model deployment.
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=160)** In terms of security and compliance, some APIs offer robust authentication and authorization mechanisms to ensure data is protected, and that access is compliant with regulations such as GDPR and HIPAA.
 >
-> **[2:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=174)** And lastly, by abstracting the complexity of the data storage and processing layers, APIs make it easier for a non-specialist user and third party applications to consume data without understanding the underlying data architecture.
+> **[2:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=174)** And lastly, by abstracting the complexity of the [[Data Storage]] and processing layers, APIs make it easier for a non-specialist user and third party applications to consume data without understanding the underlying [[Data Architecture]].
 >
-> **[3:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=190)** As you can see, APIs are key to modern data strategies, especially for data lakes and lake houses.
+> **[3:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=190)** As you can see, APIs are key to modern [[Data Strategies]], especially for [[Data Lakes]] and lake houses.
 >
 > **[3:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/apis-and-services-for-data-consumption-24328457?u=76281980&t=197)** They make their access both efficient and secure, while also allowing for flexible and scalable data management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), api (2), [[SQL]] (2), management (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Management]] (2), [[Data Ingestion]] (1), [[GraphQL]] (1), [[Databases]] (1)
 > **Env Vars:** api (2), sql (2), http (1), hdfs (1), gdpr (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (3)
@@ -3261,8 +3216,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980)
+#### [Final project overview](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3270,13 +3224,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=3)** We have covered a lot of theory so far, and now we're about to enter the most interactive and hands-on section of the course.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=11)** For our capstone project, we will build a data lakehouse from scratch.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=11)** For our [[Capstone]] project, we will build a data lakehouse from scratch.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=16)** I will provide you with a GitHub repo with the source data, main infrastructure components, ingestion scripts, data models, and orchestration, and then we will deploy and configure and run it together.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=16)** I will provide you with a [[GitHub]] repo with the source data, main infrastructure components, ingestion scripts, data models, and orchestration, and then we will deploy and configure and run it together.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=29)** We will use open-source technologies to build our lakehouse, and everything can be deployed in GitHub Codespaces or on your own computer.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=29)** We will use open-source technologies to build our lakehouse, and everything can be deployed in GitHub [[Codespaces]] or on your own computer.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=37)** There's no need for cloud subscriptions like AWS or Azure.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=37)** There's no need for cloud subscriptions like AWS or [[Microsoft Azure|Azure]].
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=42)** By the end of the project, you will understand every detail in the codebase and be able to customize it to your needs, and I really do encourage you to do so.
 >
@@ -3288,9 +3242,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=68)** In the first part of the project, we will focus on deploying and configuring the lakehouse, putting all infrastructure elements together.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=76)** Then we will use the lakehouse by building some dashboards and running some advanced analytics in an interactive notebook.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=76)** Then we will use the lakehouse by building some [[Dashboards]] and running some advanced analytics in an interactive notebook.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=83)** In the end, we will build a small generative AI application, a sales copilot.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=83)** In the end, we will build a small [[Generative AI]] application, a sales [[Microsoft Copilot|copilot]].
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=90)** This project focuses on a fictional company called KinetEco and uses mock data related to that company.
 >
@@ -3308,11 +3262,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=130)** Then we have Project Nessie as our data catalog.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=133)** We'll use Dremio as our SQL query engine for our lakehouse, and we will run our analytics and machine learning applications on top of it, and for data management or ELT, we will use PySpark scripts for the first ingestion and then dbt for further transformations in SQL.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=133)** We'll use Dremio as our [[SQL]] query engine for our lakehouse, and we will run our analytics and machine learning applications on top of it, and for [[Data Management]] or ELT, we will use [[PySpark]] scripts for the first ingestion and then dbt for further transformations in SQL.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=153)** All of this is orchestrated by Dagster.
 >
-> **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=156)** For analytics, we will use Apache Superset as our BI tool and Jupyter Notebooks to run advanced analytics using Python.
+> **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=156)** For analytics, we will use Apache Superset as our BI tool and Jupyter Notebooks to run advanced analytics using [[Python (Programming Language)|Python]].
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=163)** We will deploy all of the services with Docker.
 >
@@ -3324,7 +3278,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=179)** All row and transform data is stored in a MinIO bucket named Lakehouse.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=184)** MinIO provides S3-compatible storage, making it ideal for scalable and secure data storage that is accessible by our data processing tools.
+> **[3:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=184)** MinIO provides S3-compatible storage, making it ideal for scalable and secure [[Data Storage]] that is accessible by our [[Data Processing]] tools.
 >
 > **[3:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=194)** Apache Iceberg is used as a table format for the data stored in MinIO, offering advanced data management features such as schema evolution, hidden partitioning, and efficient data access, as we have discussed in previous videos.
 >
@@ -3334,11 +3288,11 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=218)** Dremio integrates with both MinIO and Nessie, allowing us to execute SQL queries across the different layers of data stored in the Iceberg format.
 >
-> **[3:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=227)** Nessie acts as the data catalog and version control system for the data, similar to Git for code.
+> **[3:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=227)** Nessie acts as the data catalog and [[Version Control]] system for the data, similar to [[Git]] for code.
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=234)** It helps manage different versions of the data, allowing for rollbacks, branch creations, and maintaining a history of changes.
 >
-> **[4:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=242)** We use Data Build Tool, or dbt, to transform data stored in the bronze layer into more refined models in the silver and gold layers using SQL.
+> **[4:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=242)** We use [[Data Build Tool (DBT)|Data Build Tool]], or dbt, to transform data stored in the bronze layer into more refined models in the silver and gold layers using SQL.
 >
 > **[4:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=252)** dbt is used for defining, testing, and documenting data transformations.
 >
@@ -3350,7 +3304,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=276)** It ensures that each step is executed in the correct order and only when its dependencies are met, providing reliability to the data pipeline.
 >
-> **[4:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=286)** Docker Compose manages the deployment of MinIO, Nessie, Dremio, Superset, and JupyterLab.
+> **[4:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=286)** Docker [[Jetpack Compose|Compose]] manages the deployment of MinIO, Nessie, Dremio, Superset, and JupyterLab.
 >
 > **[4:52](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=292)** Using Docker Compose simplifies the process of setting up and maintaining the services for the data lakehouse.
 >
@@ -3360,7 +3314,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=314)** Superset allows us to create interactive dashboards and visualize data in a user-friendly way.
 >
-> **[5:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=320)** We will connect Superset to our lakehouse, explore the data, and build dashboards that provide a clear view of our business metrics.
+> **[5:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=320)** We will connect Superset to our lakehouse, explore the data, and build dashboards that provide a clear view of our [[Business Metrics]].
 >
 > **[5:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980&t=329)** For advanced analytics, we will use Jupyter Notebooks.
 >
@@ -3380,7 +3334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Analytics]] (6), [[SQL]] (5), dbt (4), [[Capstone]] (3)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Capstone]] (3), [[Dashboards]] (3), [[GitHub]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** apache (4), docker (3), python (2), aws (1), find (1)
 > **Env Vars:** sql (5), aws (1), elt (1)
 > **Tools:** jupyter (3), github (2)
@@ -3389,8 +3343,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - congratulations (1)
 
-#### Data model overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980)
+#### [Data model overview](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3400,7 +3353,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=11)** This means we have three layers, bronze, silver, and gold.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=15)** The benefit of having this architecture is that we can separate the raw data ingestion from the transformation.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=15)** The benefit of having this architecture is that we can separate the raw [[Data Ingestion]] from the transformation.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=23)** In case we need to reprocess anything in the silver or gold layers, we don't need to ingest everything again.
 >
@@ -3410,11 +3363,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=41)** As you saw previously, the data for our project originates from different structures, semi-structured, and unstructured files.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=49)** In this case, CSV, JSON, and in PDF format.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=49)** In this case, CSV, [[JSON]], and in PDF format.
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=53)** The purpose of the bronze layer is to act as an immutable source of truth for raw data within the lakehouse.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=60)** To build this layer, we will use data ingestion scripts written in PySpark to load the source data into the MinIO bucket.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=60)** To build this layer, we will use data ingestion scripts written in [[PySpark]] to load the source data into the MinIO bucket.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=67)** The data is stored in Iceberg format.
 >
@@ -3432,33 +3385,32 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=116)** Using views for the Gold Layer is beneficial because they provide a flexible and efficient way to access the latest data, without the need for physical storage.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=126)** This allows for real-time updates and reduces storage costs.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=126)** This allows for [[Real-Time]] updates and reduces storage costs.
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=130)** And this is how our final data model looks.
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=134)** This diagram is actually the global asset lineage view from Dagster.
 >
-> **[2:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=138)** It's pulled right from the end of the capstone, so you'll be able to interact with these and see it in detail once you've completed the project.
+> **[2:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=138)** It's pulled right from the end of the [[Capstone]], so you'll be able to interact with these and see it in detail once you've completed the project.
 >
 > **[2:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-model-overview-24327497?u=76281980&t=146)** Now that we have an understanding of the data model, let's get started with the code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), dbt (2), [[JSON]] (1), [[PySpark]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (2), [[JSON]] (1), [[PySpark]] (1), [[Real-Time]] (1), [[Capstone]] (1)
 > **Env Vars:** csv (1), json (1), pdf (1)
 > **Analogies:** such as (2)
 > **Cross-References:** as you saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project installation and code walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980)
+#### [Project installation and code walkthrough](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=0)** - Let's finally get our project up and running.
 >
-> **[0:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=3)** We will use GitHub codespaces as it provides us with a virtual machine with all the tools we need preinstalled.
+> **[0:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=3)** We will use [[GitHub]] [[Codespaces]] as it provides us with a virtual machine with all the tools we need preinstalled.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=9)** If you don't want to use codespaces for any reason, I've given you some local installation instructions after this video.
 >
@@ -3508,7 +3460,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=145)** I know it looks like a lot, but trust me, it's not as complex as it seems.
 >
-> **[2:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=151)** Let's start with the Docker Compose YAML file.
+> **[2:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=151)** Let's start with the Docker [[Jetpack Compose|Compose]] YAML file.
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=156)** This file defines the configurations necessary to launch some of the components we will use to build our lakehouse using Docker.
 >
@@ -3520,11 +3472,11 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=183)** Now, let's open the data folder.
 >
-> **[3:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=186)** Here, we can see all of the source data files used for initial data ingestion into the bronze layer of the lakehouse that we talked about earlier.
+> **[3:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=186)** Here, we can see all of the source data files used for initial [[Data Ingestion]] into the bronze layer of the lakehouse that we talked about earlier.
 >
 > **[3:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=193)** Inside of the documents folder, you can find all of the PDFs we will use for our AI application.
 >
-> **[3:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=203)** Then, the ingestion folder holds all of the PySpark scripts responsible for loading data into the bronze layer.
+> **[3:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=203)** Then, the ingestion folder holds all of the [[PySpark]] scripts responsible for loading data into the bronze layer.
 >
 > **[3:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=210)** Inside of the bronze folder, you can find all of the specific scripts for each business unit like chargenet, ecoride, and vehicle_health.
 >
@@ -3550,7 +3502,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=296)** Finally, the notebooks folder is a space to store the Jupyter Notebooks for analyzing data in the lakehouse.
 >
-> **[5:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=303)** And the rag folder holds all of the generative AI application script.
+> **[5:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=303)** And the rag folder holds all of the [[Generative AI]] application script.
 >
 > **[5:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-installation-and-code-walkthrough-24323779?u=76281980&t=308)** That's it.
 >
@@ -3560,7 +3512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Codespaces]] (7), [[GitHub]] (3), application (3), dbt (3)
+> **Frameworks & Libraries:** [[Codespaces]] (7), [[GitHub]] (3), [[Jetpack Compose|Compose]] (2), [[Data Ingestion]] (2), [[PySpark]] (1)
 > **UI Navigation:** click on (5), go to (2), open the (2), in the sidebar (1)
 > **Tools:** github (3), visual studio (1), terminal (1), jupyter (1)
 > **CLI Commands:** docker (3), find (2)
@@ -3569,20 +3521,19 @@ created: 2026-05-02
 > **Code Identifiers:** jupyterlab (1), vehicle_health (1)
 > **Cross-References:** we talked about (1), later in (1)
 
-#### Infrastructure setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980)
+#### [Infrastructure setup](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=0)** - [Narrator] We are ready to spin up our data lakehouse components.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=4)** To do that, let's run the following command in the terminal, docker-compose up, and then in the detached option.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=4)** To do that, let's run the following command in the terminal, docker-[[Jetpack Compose|compose]] up, and then in the detached option.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=14)** This is pulling all of the Docker images and creating a container for us.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=18)** This operation could take a while.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=21)** Once all the containers are ready, we will see that Codespaces has forwarded some ports for us.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=21)** Once all the containers are ready, we will see that [[Codespaces]] has forwarded some ports for us.
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/insfrastructure-setup-24331169?u=76281980&t=27)** This means we can access the services in our browser by going to the provided URL.
 >
@@ -3724,7 +3675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Jetpack Compose|Compose]] (3), aws (3), [[Codespaces]] (1), product (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (3), [[Codespaces]] (1)
 > **UI Navigation:** click on (11), go to (1), open the (1), right-click (1)
 > **CLI Commands:** docker (4), aws (3), find (2), make (1)
 > **Env Vars:** aws (3), url (2), aws_access_key_id (1), aws_secret_access_key (1)
@@ -3733,12 +3684,11 @@ created: 2026-05-02
 > **Ports:** port 9000 (2)
 > **Cross-References:** go back to (2)
 
-#### Raw data ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980)
+#### [Raw data ingestion](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=0)** - [Instructor] It is time to ingest data in our lakehouse, but before we do that, let's do a quick walkthrough of the PySpark scripts that handle the ingestion.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=0)** - [Instructor] It is time to ingest data in our lakehouse, but before we do that, let's do a quick walkthrough of the [[PySpark]] scripts that handle the ingestion.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=9)** Here is what each script is doing.
 >
@@ -3752,19 +3702,19 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=36)** Once it has those variables, the script defines the base data directory, which is two levels up.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=42)** The DataIngestor class is the core of the data ingestion process.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=42)** The DataIngestor class is the core of the [[Data Ingestion]] process.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=47)** It starts by initializing the Spark session.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=50)** One of its main jobs is to create or replace Iceberg tables with the method defined from line 8 to 22.
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=58)** It takes a data frame and constructs a SQL statement based on each schema of the data frame.
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=58)** It takes a data frame and constructs a [[SQL]] statement based on each schema of the data frame.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=64)** Then execute this statement to ensure the table is created or updated in the right namespace.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=70)** If anything goes wrong during the process, it logs an error and raises an exception, making sure you are aware of any issues.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=78)** Then they ingest file to bronze defined from line 24 to 50, read data from either CSV or JSON files, ensuring the correct format is used.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=78)** Then they ingest file to bronze defined from line 24 to 50, read data from either CSV or [[JSON]] files, ensuring the correct format is used.
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=88)** Before loading the data, it verifies that the corresponding Iceberg table exists by calling the table creation function.
 >
@@ -3810,7 +3760,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=244)** Let's execute one by one with the following commands.
 >
-> **[4:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=248)** Let's run python, and then the path to the script, and then just hit Enter.
+> **[4:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=248)** Let's run [[Python (Programming Language)|python]], and then the path to the script, and then just hit Enter.
 >
 > **[4:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=257)** So we see we got an error here.
 >
@@ -3822,13 +3772,13 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=279)** So I think the error is actually, our services are not running.
 >
-> **[4:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=283)** This may happen to you if you leave your Codespaces for some time and then you need to restart.
+> **[4:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=283)** This may happen to you if you leave your [[Codespaces]] for some time and then you need to restart.
 >
 > **[4:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=289)** I just restarted mine and I did not restart the services with Docker.
 >
 > **[4:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=293)** So let's do that now.
 >
-> **[4:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=296)** I'm going to clear this, and then just rerun docker-compose up.
+> **[4:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=296)** I'm going to clear this, and then just rerun docker-[[Jetpack Compose|compose]] up.
 >
 > **[5:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=305)** These started all the containers we were running earlier.
 >
@@ -3866,7 +3816,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=389)** For example, let's check the charging sessions data set.
 >
-> **[6:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=393)** We see that we have a data folder and a metadata folder here.
+> **[6:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=393)** We see that we have a data folder and a [[Metadata]] folder here.
 >
 > **[6:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/raw-data-ingestion-24323786?u=76281980&t=398)** Inside the data, we have a Parquet file, and in the metadata we can see a set of JSON files and Avro.
 >
@@ -3906,7 +3856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[JSON]] (4), [[Metadata]] (3), [[SQL]] (2), next (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Metadata]] (3), [[SQL]] (2), [[PySpark]] (1), [[Data Ingestion]] (1)
 > **Env Vars:** json (3), sql (2), csv (2), aws (1), url (1)
 > **Code Identifiers:** config_loader (1), secret_key_id (1), secret_access_key (1), ingest_document_to_bronze (1), spark_utils (1)
 > **UI Navigation:** go to (7)
@@ -3915,8 +3865,7 @@ created: 2026-05-02
 > **Analogies:** for example (3), such as (1)
 > **Prerequisites:** setup (3), set up (1)
 
-#### Transformation models overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980)
+#### [Transformation models overview](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3948,15 +3897,15 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=66)** One per business unit.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=68)** Let's go to Ecoride and open the customers.sql.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=68)** Let's go to Ecoride and open the customers.[[SQL]].
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=72)** The models in this layer are focused on transforming raw data formats and filtering out unnecessary columns to enhance data quality and privacy.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=72)** The models in this layer are focused on transforming raw data formats and filtering out unnecessary columns to enhance [[Data Quality]] and [[Privacy]].
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=81)** You will notice that we don't propagate the last name and other details to the silver layer.
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=88)** This is the beauty of a layer structure.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=91)** Nobody would have access to the bronze layer, but you can give access to the silver layer to business teams where data is more refined, and this is a really good thing for data privacy.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=91)** Nobody would have access to the bronze layer, but you can give access to the silver layer to business teams where data is more refined, and this is a really good thing for [[Data Privacy]].
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=103)** A marketing team may not need the last name to send marketing emails to customers.
 >
@@ -3988,7 +3937,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=179)** Later, I will explain more about views in Dremio.
 >
-> **[3:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=182)** Going to the sources YML, in the models folder, we see our source of data is a silver layer, and we add extra metadata for Dexter in the sources of YML so that we can identify dependencies correctly.
+> **[3:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=182)** Going to the sources YML, in the models folder, we see our source of data is a silver layer, and we add extra [[Metadata]] for Dexter in the sources of YML so that we can identify dependencies correctly.
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/transformation-models-overview-24325632?u=76281980&t=199)** And the most important difference, the models in this layer are more complex.
 >
@@ -4000,7 +3949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), dbt (2), business (2), [[Privacy]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Quality]] (1), [[Privacy]] (1), [[Data Privacy]] (1), [[Metadata]] (1)
 > **Env Vars:** yml (8), dvt (4), dbt (2)
 > **File Paths:** project.yml (2), profiles.yml (1), customers.sql (1)
 > **Definitions:** is a  (4)
@@ -4009,8 +3958,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Solution: Build a data model with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-build-a-data-model-with-sql?u=76281980)
+#### [Solution: Build a data model with SQL](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-build-a-data-model-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4040,7 +3988,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-build-a-data-model-with-sql?u=76281980&t=54)** We need to create joins with the customer and vehicle tables.
 >
-> **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-build-a-data-model-with-sql?u=76281980&t=59)** These are our joins, and then I'm adding the rest of the columns.
+> **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-build-a-data-model-with-sql?u=76281980&t=59)** These are our joins, and then I'm adding the [[Representational State Transfer (REST)|rest]] of the columns.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-build-a-data-model-with-sql?u=76281980&t=65)** Nice.
 >
@@ -4052,15 +4000,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** nessie_branch (2), sales_insight (1), sales_id (1), sale_date (1), sale_price (1)
 > **Env Vars:** dvt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Executing data transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-data-transformations?u=76281980)
+#### [Executing data transformations](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-data-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4100,7 +4047,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-data-transformations?u=76281980&t=96)** It's the one we just added, the gold.sales_insights.
 >
-> **[1:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-data-transformations?u=76281980&t=101)** Taking a closer look at this SQL query, it seems that we are missing a comma here and maybe also here, or maybe that's correct.
+> **[1:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-data-transformations?u=76281980&t=101)** Taking a closer look at this [[SQL]] query, it seems that we are missing a comma here and maybe also here, or maybe that's correct.
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-data-transformations?u=76281980&t=111)** Let me save this.
 >
@@ -4140,7 +4087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (5), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** yaml (1), dremio_user (1), dremio_password (1), sql (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (2)
@@ -4149,8 +4096,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980)
+#### [Data orchestration](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4162,9 +4108,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=19)** In the assets.py, we define our silver and gold DBT assets, which we map out to our DBT models.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=28)** The constants.py script locates the directories for these DBT projects and initializes the DBT CLI resource objects to interact with DBT CLI commands.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=28)** The constants.py script locates the directories for these DBT projects and initializes the DBT [[CLI]] resource objects to interact with DBT CLI commands.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=40)** If the environment variable DAGSTER_DBT_PARSE_PROJECT_ON_LOAD is set up to run, it generates DBT manifests, which are comprehensive metadata descriptions for both projects.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=40)** If the environment variable DAGSTER_DBT_PARSE_PROJECT_ON_LOAD is set up to run, it generates DBT manifests, which are comprehensive [[Metadata]] descriptions for both projects.
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=53)** We will set these variables so the manifest files are created for us.
 >
@@ -4204,13 +4150,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=166)** Congratulations.
 >
-> **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=167)** Now you have a complete open-source data lakehouse stack that includes data ingestion, modeling, and orchestration.
+> **[2:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=167)** Now you have a complete open-source data lakehouse stack that includes [[Data Ingestion]], modeling, and orchestration.
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-orchestration-24328461?u=76281980&t=175)** If you're feeling brave, a good challenge for you here would be to include the bronze ingestion step as part of the DAG in Dagster, or schedule the whole pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (9), [[Orchestration]] (3), [[CLI]] (3), data (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[CLI]] (3), [[Metadata]] (1), [[Data Ingestion]] (1)
 > **Env Vars:** dbt (9), cli (3), dag (2), dagster_dbt_parse_project_on_load (1)
 > **File Paths:** constants.py (2), assets.py (1), definitions.py (1), schedules.py (1)
 > **CLI Commands:** make (2), find (1)
@@ -4223,8 +4169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dremio walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980)
+#### [Dremio walkthrough](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4234,11 +4179,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=9)** Go back to your ports and open Dremio at port 9047.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=15)** Remember, if your ports aren't running, you may need to restart the services using Docker Compose.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=15)** Remember, if your ports aren't running, you may need to restart the services using Docker [[Jetpack Compose|Compose]].
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=21)** Let me start with the sources.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=24)** As the name suggests, sources are connections to storage systems such as S3 or other types of object storage, as well as databases.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=24)** As the name suggests, sources are connections to storage systems such as S3 or other types of object storage, as well as [[Databases]].
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=33)** Here are all the sources we can connect to Dremio.
 >
@@ -4270,7 +4215,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=117)** Virtual datasets are saved in our home space or a shared space.
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=121)** Having this layered approach enables you to create sets of reusable virtual datasets for multiple projects and maximize both data sharing and data security as well as performance.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=121)** Having this layered approach enables you to create sets of reusable virtual datasets for multiple projects and maximize both [[Data Sharing]] and [[Data Security]] as well as performance.
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980&t=133)** And then a space is a location that organizes virtual datasets shared with other users.
 >
@@ -4290,7 +4235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), [[Jetpack Compose|Compose]] (1), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Databases]] (1), [[Data Sharing]] (1), [[Data Security]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** docker (1)
@@ -4299,12 +4244,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** best practice (1)
 
-#### Executing queries and creating virtual datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980)
+#### [Executing queries and creating virtual datasets](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=0)** - [Instructor] A great advantage of Dremio is the ability to run SQL queries directly on our physical and virtual datasets.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=0)** - [Instructor] A great advantage of Dremio is the ability to run [[SQL]] queries directly on our physical and virtual datasets.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=8)** We can write and execute queries using the editor or get help from Dremio's building functions.
 >
@@ -4326,7 +4270,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=43)** For example, you can add a new column, you can group by, and you can join all from this screen.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=50)** You could also change the data type of a specific column if you would like to, and even download the dataset, for example, in JSON, CSV, or Parquet format.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=50)** You could also change the data type of a specific column if you would like to, and even download the dataset, for example, in [[JSON]], CSV, or Parquet format.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/executing-queries-and-creating-virtual-datasets-24323777?u=76281980&t=61)** Now let's explore a virtual dataset.
 >
@@ -4394,7 +4338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (1), [[JSON]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[JSON]] (1)
 > **UI Navigation:** click on (3), go to (2), select the (2)
 > **Code Identifiers:** total_purchases (2), is_vip (2), customers_vip (2)
 > **Analogies:** for example (6)
@@ -4403,12 +4347,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
 
-#### Creating complex virtual datasets using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980)
+#### [Creating complex virtual datasets using SQL](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=0)** - [Instructor] If there are data consumers who are more technical and know SQL, we can also create views based on it.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=0)** - [Instructor] If there are data consumers who are more technical and know [[SQL]], we can also create views based on it.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=7)** Let's create a more complex virtual data set using SQL.
 >
@@ -4418,7 +4361,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=24)** For example, it shows TerraCross, EcoSprint, et cetera.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=29)** And this may not be useful for further analytics on other dashboards.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=29)** And this may not be useful for further analytics on other [[Dashboards]].
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-complex-virtual-datasets-using-sql-24326593?u=76281980&t=34)** So let's work on that last mile ETL.
 >
@@ -4462,7 +4405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (5), etl (2), [[Analytics]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Dashboards]] (1)
 > **Env Vars:** sql (5), etl (2), vip (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Code Identifiers:** customers_vip (1), models_column (1), customers_vip_split_models (1)
@@ -4471,8 +4414,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Exercise Files:** download the (1)
 
-#### Connecting Dremio to Apache Superset
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980)
+#### [Connecting Dremio to Apache Superset](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4484,11 +4426,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=17)** Enter the username admin and the password admin.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=20)** These are the default credentials defined in your Docker Compose.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=20)** These are the default credentials defined in your Docker [[Jetpack Compose|Compose]].
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=25)** And here we are in the Superset UI.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=29)** Superset is a modern data exploration and data visualization platform that provides a no-code interface for building charts quickly, and a powerful web-based SQL Editor for advanced querying.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=29)** Superset is a modern data exploration and data visualization platform that provides a no-code interface for building charts quickly, and a powerful web-based [[SQL]] Editor for advanced querying.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=41)** It also offers a lightweight semantic layer for quickly defining custom dimensions and metrics.
 >
@@ -4498,11 +4440,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=61)** Let's go to Settings and then select Database Connections, and then we are going to add a new database.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=71)** In the supported databases section, let's select Dremio.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=71)** In the supported [[Databases]] section, let's select Dremio.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=76)** Superset uses SQLAlchemy to manage database connections.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=80)** SQLAlchemy is a SQL toolkit and object relational mapping library for Python, which makes it easy to interact with your database in a Pythonic way.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=80)** SQLAlchemy is a SQL toolkit and object relational mapping library for [[Python (Programming Language)|Python]], which makes it easy to interact with your database in a Pythonic way.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=91)** Now, we are going to enter our SQLAlchemy URL.
 >
@@ -4532,11 +4474,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=155)** Our BI tool is set and ready to go.
 >
-> **[2:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=157)** Join me in the next video to create some charts and dashboards.
+> **[2:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-apache-superset-24330331?u=76281980&t=157)** Join me in the next video to create some charts and [[Dashboards]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), [[SQL]] (3), bi (2), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Jetpack Compose|Compose]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Dashboards]] (1)
 > **Env Vars:** url (3), sql (3), create (2), dataset (1), chart (1)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **CLI Commands:** apache (2), docker (1), python (1)
@@ -4545,8 +4487,7 @@ created: 2026-05-02
 > **Ports:** port 8088 (1)
 > **Cross-References:** in the next (1)
 
-#### Creating a marketing dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-a-marketing-dashboard-24330323?u=76281980)
+#### [Creating a marketing dashboard](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-a-marketing-dashboard-24330323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4736,7 +4677,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-a-marketing-dashboard-24330323?u=76281980&t=442)** Let's see how it looks.
 >
-> **[7:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-a-marketing-dashboard-24330323?u=76281980&t=444)** Let's go to Dashboards and select our Marketing dashboard here.
+> **[7:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-a-marketing-dashboard-24330323?u=76281980&t=444)** Let's go to [[Dashboards]] and select our Marketing dashboard here.
 >
 > **[7:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/creating-a-marketing-dashboard-24330323?u=76281980&t=449)** And here, we have our three charts.
 >
@@ -4780,7 +4721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), database (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **UI Navigation:** click on (11), go to (3), select the (1)
 > **Env Vars:** vip (6), count (3), sum (2), boolean (1), pdf (1)
 > **Code Identifiers:** is_vip (2), customer_vip_split_models (2), customers_vip (1), vip_customers_split_models (1)
@@ -4789,12 +4730,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **SQL:** boolean (1)
 
-#### Connecting Dremio to Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980)
+#### [Connecting Dremio to Jupyter Notebook](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=0)** - [Instructor] And we're finally ready to start running analysis in Python.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=0)** - [Instructor] And we're finally ready to start running analysis in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=5)** Let's open our Jupyter Notebook, and we will run it step-by-step together.
 >
@@ -4808,7 +4748,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=26)** This library is useful for getting an authentication token from Dremio.
 >
-> **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=34)** Before getting our access token, we need to update the Dremio URL since we are not running locally, but in codespaces.
+> **[0:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=34)** Before getting our access token, we need to update the Dremio URL since we are not running locally, but in [[Codespaces]].
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=42)** In the port section, look for the port 9047, and expand the running processes column to check the Dremio container IP address.
 >
@@ -4830,7 +4770,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=92)** We won't see it, but it will get stored in the token variable.
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=97)** Now let's load one of our datasets into a Pandas DataFrame, so we can work with it.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=97)** Now let's load one of our datasets into a [[Pandas (Software)|Pandas]] DataFrame, so we can work with it.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=102)** But first, let's also update the PyArrow Flight URL.
 >
@@ -4846,7 +4786,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=127)** First, we import the Flight module from the PyArrow library.
 >
-> **[2:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=131)** Flight is part of Apache Arrow and it's a high performance data transport layer designed for big data applications.
+> **[2:11](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=131)** Flight is part of Apache Arrow and it's a high performance data transport layer designed for [[Big Data]] applications.
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=139)** Then we create a client that connects to Dremio using the Flight protocol.
 >
@@ -4854,7 +4794,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=149)** Then we prepare authentication headers with the Dremio token we got.
 >
-> **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=154)** Next, we define a SQL query that will fetch all of the rows from the product reviews table in the catalog.bronze.ecoride schema.
+> **[2:34](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=154)** Next, we define a [[SQL]] query that will [[Fetch]] all of the rows from the product reviews table in the catalog.bronze.ecoride schema.
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/connecting-dremio-to-jupyter-notebook-24330333?u=76281980&t=162)** A Flight descriptor is created from the SQL command.
 >
@@ -4882,7 +4822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (4), next (3), [[Pandas (Software)|Pandas]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (2), [[SQL]] (2), [[Codespaces]] (1), [[Big Data]] (1)
 > **CLI Commands:** python (4), apache (1)
 > **Env Vars:** url (3), sql (2)
 > **Ports:** port 9047 (1), port 32010 (1)
@@ -4891,12 +4831,11 @@ created: 2026-05-02
 > **Versions:** 172.18.0 (1)
 > **Definitions:** is a  (1)
 
-#### Advanced product reviews analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980)
+#### [Advanced product reviews analytics](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=0)** - [Instructor] Now that we have our data frame ready, let's run some basic statistics to have an overview of the data we are dealing with.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=0)** - [Instructor] Now that we have our data frame ready, let's run some basic [[Statistics]] to have an overview of the data we are dealing with.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=9)** As you can see, we have a total of 50 reviews with a mean of 4.2, which is pretty good, and then we see the distribution of reviews per vehicle model.
 >
@@ -4916,7 +4855,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=53)** The vehicle_models variable post a list of unique vehicle models from the product reviews data frame.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=60)** These models will be excluded from the word clouds to focus on other words in the reviews.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=60)** These models will be excluded from the [[Microsoft Word|word]] clouds to focus on other words in the reviews.
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=66)** Then the preprocess_text method, text a review text and remove all the instances of vehicle model names.
 >
@@ -5016,7 +4955,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=378)** This is the beauty of a Lakehouse.
 >
-> **[6:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=381)** You can actually get different datasets and merge them together, not only in SQL but in any language, for example, now in Python.
+> **[6:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=381)** You can actually get different datasets and merge them together, not only in [[SQL]] but in any language, for example, now in [[Python (Programming Language)|Python]].
 >
 > **[6:29](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/advanced-product-reviews-analytics-24327501?u=76281980&t=389)** And now, with this code, we group the sentiment data by state and then count the occurrences of each sentiment category per state and create a stack bar chart to visualize the sentiment distribution across those different states.
 >
@@ -5046,7 +4985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), product (7), [[Microsoft Word|Word]] (4), next (3), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2), [[Statistics]] (1), [[SQL]] (1)
 > **Code Identifiers:** vehicle_models (1), preprocess_text (1), customer_segmentation (1), customer_id (1), merged_df (1)
 > **Env Vars:** vip (5), sql (1)
 > **CLI Commands:** python (2), find (1), make (1)
@@ -5055,8 +4994,7 @@ created: 2026-05-02
 > **Versions:** 4.2 (1)
 > **Prerequisites:** install (1)
 
-#### Solution: Vehicle health analytics in Jupyter
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980)
+#### [Solution: Vehicle health analytics in Jupyter](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5064,13 +5002,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=5)** - [Instructor] Let's dive into my solution for analyzing vehicle maintenance and alerts data.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=10)** You can find this notebook in the solutions branch of the GitHub repo.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=10)** You can find this notebook in the solutions branch of the [[GitHub]] repo.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=15)** I will go to each section of the code and I will explain what's happening at each step.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=21)** Remember, your solution may be different to mine, and that's okay.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=26)** We start by connecting to Dremio as we did before, and then we bring the vehicle health logs table into a Pandas DataFrame.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=26)** We start by connecting to Dremio as we did before, and then we bring the vehicle health logs table into a [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/solution-vehicle-health-analytics-in-jupyter-24325630?u=76281980&t=35)** This is also just the same as we did before.
 >
@@ -5140,7 +5078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (2), next (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[GitHub]] (1)
 > **Code Identifiers:** value_counts (3), json_normalize (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -5154,8 +5092,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to LLMs and vector embeddings: Llama
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980)
+#### [Introduction to LLMs and vector embeddings: Llama](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5165,7 +5102,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=9)** Imagine having the ability to query our PDF documents and receive precise, contextually accurate answers in seconds.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=18)** The Sales Copilot will empower us to ask questions like, what are the key features of the EcoSprint vehicle models?
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=18)** The Sales [[Microsoft Copilot|Copilot]] will empower us to ask questions like, what are the key features of the EcoSprint vehicle models?
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=25)** In what color is the UrbanGlide model available?
 >
@@ -5173,7 +5110,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=31)** And more.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=33)** Before we dive into the actual code, we will do a very quick exploration of the key components that make this possible, such as cutting edge technologies like large language models, vector embeddings, and vector databases.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=33)** Before we dive into the actual code, we will do a very quick exploration of the key components that make this possible, such as cutting edge technologies like [[Large Language Models (LLM)|large language models]], vector embeddings, and [[Vector Databases]].
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=47)** Then we will dive into the flow and architecture of our application.
 >
@@ -5181,7 +5118,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=55)** Large language models, or LLMs, are advanced AI systems designed to understand and generate human-like text.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=63)** They use deep learning techniques, specifically neural networks, to predict and generate language based on huge amounts of data mimicking human communication.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=63)** They use [[Deep Learning]] techniques, specifically [[Neural Networks]], to predict and generate language based on huge amounts of data mimicking human communication.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=73)** These are some of the key basic concepts of LLMs.
 >
@@ -5195,7 +5132,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=111)** This allows machines to process and understand language more effectively.
 >
-> **[1:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=116)** There can be word embeddings that represent each word as a point in a continuous vector space, and also sentence embeddings that represent entire sentences as vectors, capturing the overall meaning.
+> **[1:56](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=116)** There can be [[Microsoft Word|word]] embeddings that represent each word as a point in a continuous vector space, and also sentence embeddings that represent entire sentences as vectors, capturing the overall meaning.
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=129)** So what can LLMs and vector embeddings do?
 >
@@ -5207,7 +5144,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=160)** This is precisely how we will use them.
 >
-> **[2:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=163)** Ollama is an open source initiative providing accessible robust language models that are easy to integrate into different applications, continuously improved by a global developer community.
+> **[2:43](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=163)** [[Ollama]] is an open source initiative providing accessible robust language models that are easy to integrate into different applications, continuously improved by a global developer community.
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980&t=175)** As an open source project, it promotes collaboration and transparency.
 >
@@ -5223,19 +5160,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Large Language Models (LLM)|Large language models]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Word|Word]] (2), [[Ollama]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Word|Word]] (2), [[Ollama]] (2), [[Vector Databases]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Introduction to RAG (retrieval-augmented generation)
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980)
+#### [Introduction to RAG (retrieval-augmented generation)](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Now that I've clarified the topic of LLMs and how they relate to our project, let's quickly talk about retrieval-augmented generation, or RAG.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Now that I've clarified the topic of LLMs and how they relate to our project, let's quickly talk about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=9)** Retrieval-augmented generation combines the strengths of retrieval based and generation based models.
 >
@@ -5253,9 +5189,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=62)** First, it provides more precise and relevant answers by incorporating external up-to-date information.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=69)** It also adapts to new information making it suitable for real-time applications.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=69)** It also adapts to new information making it suitable for [[Real-Time]] applications.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=74)** It can be applied in customer support, research, and content creation, and of course for a copilot like ours.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=74)** It can be applied in [[Customer Support]], research, and [[Content Creation]], and of course for a [[Microsoft Copilot|copilot]] like ours.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-rag-retrieval-augmented-generation?u=76281980&t=82)** There you have it.
 >
@@ -5263,20 +5199,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), strengths (1), database (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[Real-Time]] (1), [[Customer Support]] (1), [[Content Creation]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** rag (3)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to vector databases: Chroma
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980)
+#### [Introduction to vector databases: Chroma](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=0)** - Vector databases are another key technology to enable RAG applications.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=0)** - [[Vector Databases]] are another key technology to enable RAG applications.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=5)** Let's explore how they fit into our Sales Copilot project.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=5)** Let's explore how they fit into our Sales [[Microsoft Copilot|Copilot]] project.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=8)** Vector databases are specialized databases designed to store, manage, and query high dimensional vectors.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=8)** Vector databases are specialized [[Databases]] designed to store, manage, and query high dimensional vectors.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=16)** These vectors represent complex data such as text, images, or audio in a format that machines can efficiently process and understand.
 >
@@ -5292,7 +5227,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=51)** They create specialized indexes to facilitate quick searches.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=55)** They employ algorithms like nearest neighbor search to find vectors similar to a given query vector.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=55)** They employ [[Algorithms]] like nearest neighbor search to find vectors similar to a given query vector.
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=62)** And they group similar vectors to optimize search and retrieval processes.
 >
@@ -5304,31 +5239,30 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=79)** Then for image and video search, as they enable efficient searching and matching based on content similarity.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=86)** And lastly, natural language processing, as they can store embeddings for advanced text search, document retrieval, and question answering systems like our Sales Copilot.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=86)** And lastly, [[Natural Language Processing (NLP)|natural language processing]], as they can store embeddings for advanced text search, document retrieval, and question answering systems like our Sales Copilot.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=98)** Chroma is a vector database we will use in our Sales Copilot project.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=98)** [[ChromaDB|Chroma]] is a vector database we will use in our Sales Copilot project.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=102)** It is optimized for high speed vector similarity searches and it's suitable for applications with growing data needs.
 >
-> **[1:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=109)** It can also integrate with different machine learning frameworks and tools, including LLMs like Ollama, and it also provides a user-friendly interface and APIs.
+> **[1:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=109)** It can also integrate with different machine learning frameworks and tools, including LLMs like [[Ollama]], and it also provides a user-friendly interface and APIs.
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-vector-databases-chroma?u=76281980&t=120)** By using Chroma, we efficiently manage and retrieve embeddings generated by Ollama, ensuring fast and accurate responses in our Sales Copilot application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Microsoft Copilot|Copilot]] (4), data (4), [[Search]] (4), [[ChromaDB|Chroma]] (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Microsoft Copilot|Copilot]] (4), [[ChromaDB|Chroma]] (2), [[Ollama]] (2), [[Databases]] (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - vector (1)
 
-#### What is Langchain?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980)
+#### [What is Langchain?](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=0)** - [Instructor] Lastly, let's talk about LangChain and where it fits in our application flow.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=0)** - [Instructor] Lastly, let's talk about [[LangChain]] and where it fits in our application flow.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=5)** LangChain is an innovative framework designed to simplify the development of applications using language models.
 >
@@ -5338,32 +5272,31 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=25)** These are some of the reasons why.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=27)** LangChain allows for easy integration of different components like LLMs, vector databases, and retrieval mechanisms.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=27)** LangChain allows for easy integration of different components like LLMs, [[Vector Databases]], and retrieval mechanisms.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=35)** It includes user friendly APIs and interfaces to make it accessible to developers of varying expertise.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=42)** It also works with popular LLMs like Ollama and vector databases like Croma, and it supports large scale applications and manages complex workflows efficiently.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=42)** It also works with popular LLMs like [[Ollama]] and vector databases like Croma, and it supports large scale applications and manages complex workflows efficiently.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=54)** LangChain ties together all of the components we have discussed for our sales copilot project, making it easier to develop and manage the application.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-langchain?u=76281980&t=54)** LangChain ties together all of the components we have discussed for our sales [[Microsoft Copilot|copilot]] project, making it easier to develop and manage the application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (5), application (2), [[Vector Databases]] (2), llm (1), [[Ollama]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (5), [[Vector Databases]] (2), [[Ollama]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** llms (1), llm (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI project overview: Sales copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980)
+#### [Generative AI project overview: Sales copilot](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=0)** - Now that we covered the background, let's provide a high level overview of the sales Copilot application for Kinetico.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=0)** - Now that we covered the background, let's provide a high level overview of the sales [[Microsoft Copilot|Copilot]] application for Kinetico.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=8)** We will highlight the major components, explain how they interact and describe the data flow within the system.
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=15)** We use Chroma to store and manage high dimensional vector embeddings, as mentioned before.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=15)** We use [[ChromaDB|Chroma]] to store and manage high dimensional vector embeddings, as mentioned before.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=20)** It facilitates fast and efficient similarity searches, which are important for retrieving relevant information quickly.
 >
@@ -5371,7 +5304,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=32)** It performs similarity searches to find the most relevant document chunks, based on the user queries, and it ensures that the database maintains its state between sessions.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=44)** Then we use Ollama for generating vector embeddings and handling language model tasks.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=44)** Then we use [[Ollama]] for generating vector embeddings and handling language model tasks.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=49)** It can produce high quality embeddings and generates contextually accurate responses.
 >
@@ -5379,11 +5312,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=64)** It processes user queries and generates responses, based on the retrieved context.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=69)** And it works with LangChain and Chroma to provide a robust generative AI solution.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=69)** And it works with [[LangChain]] and Chroma to provide a robust [[Generative AI]] solution.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=74)** As we saw before, LangChain provides a modular and extensive framework for integrating different components, such as LLMs and vector databases into a cohesive application.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=74)** As we saw before, LangChain provides a modular and extensive framework for integrating different components, such as LLMs and [[Vector Databases]] into a cohesive application.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=86)** It will help us work with all of our application components in Python.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=86)** It will help us work with all of our application components in [[Python (Programming Language)|Python]].
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/generative-ai-project-overview-sales-copilot?u=76281980&t=91)** Then we have some helper document management methods that handle the loading, processing and splitting of documents.
 >
@@ -5425,7 +5358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[ChromaDB|Chroma]] (5), application (4), [[LangChain]] (4), [[Ollama]] (3)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (5), [[LangChain]] (4), [[Ollama]] (3), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (1), python (1), make (1)
 > **Cross-References:** we covered (1), as we saw (1)
 > **Env Vars:** pdf (1)
@@ -5433,20 +5366,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
-#### Installation and code walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980)
+#### [Installation and code walkthrough](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=0)** - [Instructor] We just described the architecture of our project and the data flow.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=4)** With the diagram we saw before in our mind, let's do a quick walk through the Python script.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=4)** With the diagram we saw before in our mind, let's do a quick walk through the [[Python (Programming Language)|Python]] script.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=9)** You can find it in the rag folder, and it's called manage_chroma_db.py.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=15)** The code begins by importing several libraries and loading environment variables from line 1 to 17.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=22)** Then from line 19, it defines some constants, like the path for the Chroma database and a template for prompts.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=22)** Then from line 19, it defines some constants, like the path for the [[ChromaDB|Chroma]] database and a template for prompts.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=30)** Then in line 31st, logging is set up to show info level messages with timestamps, which helps in tracking the script execution.
 >
@@ -5458,11 +5390,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=59)** The load_documents at line 65 fetches the documents from MinIO using the S3 directory loader.
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=67)** The split_documents method take the loaded documents and splits them into smaller chunks using the RecursiveCharacterTextSplitter by LangChain.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=67)** The split_documents method take the loaded documents and splits them into smaller chunks using the RecursiveCharacterTextSplitter by [[LangChain]].
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=77)** This makes it easier to process and store them in the database.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=81)** After this, the get_embedding_function method at line 90 sets up the embedding model from Ollama, which will be used to convert text into embeddings, which are numerical representations.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=81)** After this, the get_embedding_function method at line 90 sets up the embedding model from [[Ollama]], which will be used to convert text into embeddings, which are numerical representations.
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=93)** The add_to_chroma at line 94, as a name suggests, adds the document chunks to the Chroma database.
 >
@@ -5480,7 +5412,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=156)** The good news is that it's going to graph anything from the documents prefix in our lakehouse.
 >
-> **[2:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=161)** So we don't need to update anything in the code if we add more documents, get rid of existing documents, or if you are using your own data for this capstone project.
+> **[2:41](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=161)** So we don't need to update anything in the code if we add more documents, get rid of existing documents, or if you are using your own data for this [[Capstone]] project.
 >
 > **[2:51](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=171)** All right, now we just need to install the necessary libraries.
 >
@@ -5496,11 +5428,11 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=203)** Perfect!
 >
-> **[3:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=204)** We are ready to execute the project and start asking question from our Sales Copilot.
+> **[3:24](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/installation-and-code-walkthrough?u=76281980&t=204)** We are ready to execute the project and start asking question from our Sales [[Microsoft Copilot|Copilot]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[ChromaDB|Chroma]] (4), rag (3), data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (4), [[Python (Programming Language)|Python]] (1), [[LangChain]] (1), [[Ollama]] (1), [[Capstone]] (1)
 > **Code Identifiers:** manage_chroma_db (1), load_documents (1), split_documents (1), get_embedding_function (1), add_to_chroma (1)
 > **CLI Commands:** python (1), find (1), make (1), pip (1)
 > **Prerequisites:** install (3), set up (1)
@@ -5509,14 +5441,13 @@ created: 2026-05-02
 > **File Paths:** manage_chroma_db.py (1)
 > **Analogies:** such as (1)
 
-#### Project execution: Using the copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980)
+#### [Project execution: Using the copilot](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=0)** - [Instructor] In order to execute our generative AI application and actually get it to run without melting our computer or codespace, we need a GPU.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=0)** - [Instructor] In order to execute our [[Generative AI]] application and actually get it to run without melting our computer or codespace, we need a GPU.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=10)** At the moment of recording, GPUs are not available in codespaces, but we can use a Google Colab notebook, which offers a few GPU compute units for free, so we can run our Ollama models there.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=10)** At the moment of recording, GPUs are not available in [[Codespaces]], but we can use a [[Google]] Colab notebook, which offers a few GPU compute units for free, so we can run our [[Ollama]] models there.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=23)** All you need is a Google account.
 >
@@ -5532,7 +5463,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=50)** Click on create new notebook.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=53)** I added the contents of the notebook to the GitHub repo so you can copy it from there.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=53)** I added the contents of the notebook to the [[GitHub]] repo so you can copy it from there.
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=58)** It is under the notebooks folder in a file called run_ollama_gpu.
 >
@@ -5576,7 +5507,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=162)** Then we are going to pull our embeddings and LLM.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=166)** And then we are going to forward the local host port so that we can connect from it in our Python script in codespaces.
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=166)** And then we are going to forward the local host port so that we can connect from it in our [[Python (Programming Language)|Python]] script in codespaces.
 >
 > **[2:54](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=174)** Let's do that.
 >
@@ -5636,11 +5567,11 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=310)** I will clean this up and we will try to run it again.
 >
-> **[5:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=318)** And now we see we are adding 43 new documents into the Chroma database.
+> **[5:18](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=318)** And now we see we are adding 43 new documents into the [[ChromaDB|Chroma]] database.
 >
 > **[5:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=323)** Remember, these are the PDF documents we imported earlier and they are just converted to their embeddings and saved into the Chroma database.
 >
-> **[5:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=331)** And now we are finally ready to start asking questions from our Sales Copilot.
+> **[5:31](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=331)** And now we are finally ready to start asking questions from our Sales [[Microsoft Copilot|Copilot]].
 >
 > **[5:37](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=337)** And we are going to use the same command as earlier, but adding the query parameter here.
 >
@@ -5674,7 +5605,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=424)** "Based on the given context, I will recommend the UrbanGlide to someone who lives in the city."
 >
-> **[7:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=429)** And you can read the rest of the response here.
+> **[7:09](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=429)** And you can read the [[Representational State Transfer (REST)|rest]] of the response here.
 >
 > **[7:13](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/project-execution-using-the-copilot-24326592?u=76281980&t=433)** Congratulations, you built a generative AI application.
 >
@@ -5686,7 +5617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ollama]] (7), [[Google]] (4), application (3), [[Codespaces]] (3), database (3)
+> **Frameworks & Libraries:** [[Ollama]] (7), [[Google]] (4), [[Codespaces]] (3), [[Generative AI]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** url (5), gpu (4), llm (1), ollama_host (1), pdf (1)
 > **Tools:** colab (7), github (1), terminal (1)
 > **UI Navigation:** click on (4), scroll down (2), go to (1)
@@ -5700,12 +5631,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap and key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980)
+#### [Recap and key takeaways](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980&t=0)** - In this course, we explore how data lakes and lakehouses handle the complexity of real world data.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980&t=0)** - In this course, we explore how [[Data Lakes]] and lakehouses handle the complexity of real world data.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980&t=7)** I think now it's clear that they are more than just storage spaces.
 >
@@ -5725,11 +5655,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), management (1), next (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (2)
 > **Speakers:** - in (1)
 
-#### Next steps on your data journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980)
+#### [Next steps on your data journey](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5741,17 +5670,17 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=15)** You can deploy it to the cloud, make it your own with new data and insights, and even start implementing it in your organization.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=23)** Not to mention this is a really amazing skill as you're preparing for a new job or interviewing for engineering positions.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=23)** Not to mention this is a really amazing skill as you're preparing for a new job or [[Interviewing]] for engineering positions.
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=30)** I had so much fun making this course, and I hope you enjoyed it as well.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=35)** If you want to continue the conversation, follow me on LinkedIn or add your questions to the Q&A section of the course.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=35)** If you want to continue the conversation, follow me on [[LinkedIn]] or add your questions to the Q&A section of the course.
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/next-steps-on-your-data-journey-24327499?u=76281980&t=42)** Best of luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), cloud (1), [[Interviewing]] (1), [[Engineering]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)

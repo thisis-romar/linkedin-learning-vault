@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take advantage of Spring events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980)
+#### [Take advantage of Spring events](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980&t=51)** Hi, I'm Terezija Semenski.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980&t=54)** I've been a software developer in Java and Spring for over a decade.
+> **[0:54](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980&t=54)** I've been a software developer in [[Java]] and Spring for over a decade.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980&t=59)** Join me in this course to learn how Spring events work internally.
 >
@@ -104,11 +103,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [terezija] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/advanced-spring-application-events/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-spring-application-events/what-you-need-to-know?u=76281980&t=6)** This course is targeted at intermediate and advanced developers.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-spring-application-events/what-you-need-to-know?u=76281980&t=11)** In order to truly be successful in this course, you should have experience with Java and solid understanding of Spring Framework and Spring Boot.
+> **[0:11](https://www.linkedin.com/learning/advanced-spring-application-events/what-you-need-to-know?u=76281980&t=11)** In order to truly be successful in this course, you should have experience with [[Java]] and solid understanding of [[Spring Framework]] and [[Spring Boot]].
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-spring-application-events/what-you-need-to-know?u=76281980&t=22)** Our focus will be on the latest versions of Java 15 and Spring Boot, current 2.5.
 >
@@ -134,8 +132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spring events vs. direct method calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980)
+#### [Spring events vs. direct method calls](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980&t=103)** Having said that, does any pattern come to your mind?
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980&t=108)** It is the observer pattern that is well known from the Gang of Four design patterns.
+> **[1:48](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980&t=108)** It is the observer pattern that is well known from the Gang of Four [[Design Patterns]].
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980&t=115)** Where in the observer pattern, we refer to observers.
 >
@@ -201,20 +198,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), data (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - spring (1)
 
-#### Highlights of Spring events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/highlights-of-spring-events?u=76281980)
+#### [Highlights of Spring events](https://www.linkedin.com/learning/advanced-spring-application-events/highlights-of-spring-events?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-spring-application-events/highlights-of-spring-events?u=76281980&t=0)** - [Instructor] Now that you're familiar with Event System Architectures, let's explore all features Spring Events, bring to the table.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-spring-application-events/highlights-of-spring-events?u=76281980&t=10)** Spring Events are one of the core capabilities provided by Spring Framework.
+> **[0:10](https://www.linkedin.com/learning/advanced-spring-application-events/highlights-of-spring-events?u=76281980&t=10)** Spring Events are one of the core capabilities provided by [[Spring Framework]].
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-spring-application-events/highlights-of-spring-events?u=76281980&t=16)** They allow us to publish and listen to specific Application Events that we can process as we wish.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Spring Framework]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pojo (1)
 > **Cross-References:** in the next (1)
@@ -269,8 +265,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and publish custom events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980)
+#### [Create and publish custom events](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,7 +273,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=11)** Before we dive into the code, let me introduce you to the application we will be refactoring and extending throughout this course.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=20)** Our application is an e-commerce system that contains orders, products, and customers.
+> **[0:20](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=20)** Our application is an [[E-Commerce]] system that contains orders, [[Microsoft Products|products]], and customers.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=28)** Through our journey, we will be refactoring existing and adding new functionalities by paying close attention to architectural impact, and pros and cons of each approach.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=66)** Let's analyze how the simple case of persisting a customer and sending an email would be reflected in the code.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=76)** Make sure you have downloaded the exercise files, unzip the project files, and open it in the IDE of your choice, either from the terminal or from Java IDE.
+> **[1:16](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=76)** Make sure you have downloaded the exercise files, unzip the project files, and open it in the IDE of your choice, either from the terminal or from [[Java]] IDE.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980&t=93)** Immediately after opening the project, IntelliJ will pull all the Maven dependencies.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Java]] (3), database (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), unzip (1)
 > **Env Vars:** ide (2), crm (1), sdk (1)
 > **Analogies:** imagine (3)
@@ -355,8 +350,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1), in the next (1)
 > **Tools:** terminal (1), intellij (1)
 
-#### Implement a new listener for events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/implement-a-new-listener-for-events?u=76281980)
+#### [Implement a new listener for events](https://www.linkedin.com/learning/advanced-spring-application-events/implement-a-new-listener-for-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,14 +424,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3)
 > **Code Identifiers:** onregisteredevent (1)
 > **Versions:** 4.2 (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a new event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/challenge-create-a-new-event-listener?u=76281980)
+#### [Challenge: Create a new event listener](https://www.linkedin.com/learning/advanced-spring-application-events/challenge-create-a-new-event-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,14 +461,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a new event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/solution-create-a-new-event-listener?u=76281980)
+#### [Solution: Create a new event listener](https://www.linkedin.com/learning/advanced-spring-application-events/solution-create-a-new-event-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,8 +518,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement asynchronous events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980)
+#### [Implement asynchronous events](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +562,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980&t=147)** Since this is a spring bean, we will add, add component annotation.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980&t=155)** We will create a new method of type word called unregister event with the argument customer registered event.
+> **[2:35](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980&t=155)** We will create a new method of type [[Microsoft Word|word]] called unregister event with the argument customer registered event.
 >
 > **[2:48](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980&t=168)** We need to call analytics service, which we will first inject with constructor injection.
 >
@@ -603,15 +592,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), application (1), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/filter-events?u=76281980)
+#### [Filter events](https://www.linkedin.com/learning/advanced-spring-application-events/filter-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-spring-application-events/filter-events?u=76281980&t=18)** However, overusing conditionals results in code that is more complex and difficult to maintain.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-spring-application-events/filter-events?u=76281980&t=26)** In some cases we can avoid this by fine tuning those conditions with @EventListener and Spring Expression Language.
+> **[0:26](https://www.linkedin.com/learning/advanced-spring-application-events/filter-events?u=76281980&t=26)** In some cases we can avoid this by [[Fine Tuning]] those conditions with @EventListener and Spring Expression Language.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-spring-application-events/filter-events?u=76281980&t=37)** @EventListener provides a conditional tribute that accepts spell expression.
 >
@@ -673,8 +661,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transaction bound events
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980)
+#### [Transaction bound events](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980&t=53)** Let's look at the example of an order management.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980&t=57)** When a customer places an order in our e-commerce system, order service runs in transaction and makes updates to the order from saved to completed by calling order repository.
+> **[0:57](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980&t=57)** When a customer places an order in our [[E-Commerce]] system, order service runs in transaction and makes updates to the order from saved to completed by calling order repository.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980&t=73)** It also publishes an order completed event, which triggers all interested listeners.
 >
@@ -756,13 +743,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), management (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement custom transaction event listeners
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980)
+#### [Implement custom transaction event listeners](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,9 +768,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980&t=78)** Whenever a new order is made, our listener appends rewards status points to the customer.
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980&t=86)** Imagine here logic that iterates through each order entry that contains products with quantities and calculates the sum of all gathered reward points.
+> **[1:26](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980&t=86)** Imagine here logic that iterates through each order entry that contains [[Microsoft Products|products]] with quantities and calculates the sum of all gathered reward points.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980&t=98)** For the sake of simulation, reward points have been hard-coded to 10 for each order.
+> **[1:38](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980&t=98)** For the sake of [[Simulation]], reward points have been hard-coded to 10 for each order.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-spring-application-events/implement-custom-transaction-event-listeners?u=76281980&t=106)** This number is appended to the existing customer reward points.
 >
@@ -822,15 +808,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Microsoft Products|Products]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Simulation]] (1)
 > **Warnings:** keep in mind (1), caveat (1)
 > **Code Identifiers:** placeorder (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a custom transaction event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/challenge-create-a-custom-transaction-event-listener?u=76281980)
+#### [Challenge: Create a custom transaction event listener](https://www.linkedin.com/learning/advanced-spring-application-events/challenge-create-a-custom-transaction-event-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,12 +841,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a custom transaction event listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/solution-create-a-custom-transaction-event-listener?u=76281980)
+#### [Solution: Create a custom transaction event listener](https://www.linkedin.com/learning/advanced-spring-application-events/solution-create-a-custom-transaction-event-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,8 +889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,11 +899,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=9)** You've just experienced the benefits of events and how they help you write modular decoupled code.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=17)** If you want to know more about event-based architectures, I highly recommend searching our library for Allen Holub's course on Software Architecture in Domain-Driven Design.
+> **[0:17](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=17)** If you want to know more about event-based architectures, I highly recommend searching our library for Allen Holub's course on [[Software Architecture]] in Domain-Driven Design.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=29)** You can also check out my course on Advanced Spring Integration Testing Using Spring Boot.
+> **[0:29](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=29)** You can also check out my course on Advanced Spring [[Integration Testing]] Using [[Spring Boot]].
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=36)** If you have any questions, please feel free to get in touch on LinkedIn and on Twitter.
+> **[0:36](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=36)** If you have any questions, please feel free to get in touch on [[LinkedIn]] and on Twitter.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980&t=43)** I really do appreciate your engagement as well as your feedback on this course.
 >
@@ -931,7 +913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Architecture]] (1), [[Integration Testing]] (1), [[Spring Boot]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Architecture]] (1), [[Integration Testing]] (1), [[Spring Boot]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [terezija] (1)
 
 

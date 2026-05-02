@@ -85,14 +85,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why learn SQL today?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980)
+#### [Why learn SQL today?](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980&t=0)** - The ability to leverage and act on data has made a powerful difference in today's business world.
 >
-> **[0:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980&t=7)** In this course, we'll learn how to think strategically as data analysts by using SQL commands like SELECT, FROM, WHERE, ORDER BY, and LIMIT in order to solve the case of a stolen painting.
+> **[0:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980&t=7)** In this course, we'll learn how to think strategically as data analysts by using [[SQL]] commands like SELECT, FROM, WHERE, ORDER BY, and LIMIT in order to solve the case of a stolen painting.
 >
 > **[0:23](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980&t=23)** Hi, I'm Walter Shields.
 >
@@ -100,19 +99,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1), select (1), where (1), order (1), limit (1)
 > **SQL:** select (1), where (1), order by (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=0)** - [Instructor] Before we dive in, let me walk you through exactly what you need to know to succeed in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=7)** First, no background in coding, no database knowledge, not even a working definition of SQL.
+> **[0:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=7)** First, no background in coding, no database knowledge, not even a working definition of [[SQL]].
 >
 > **[0:15](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=15)** If you're curious, focused, and ready to learn by doing, you're exactly in the right place.
 >
@@ -156,9 +154,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=128)** The editor you see in most of the videos is the original version recorded in 2023, but, you now have access to the updated WSDA SQL Editor, which includes this cleaner layout, improved speed, and a powerful AI assistant.
 >
-> **[2:27](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=147)** So even if the visuals look slightly different later, rest assured you're using the latest and best version of the tool.
+> **[2:27](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=147)** So even if the visuals look slightly different later, [[Representational State Transfer (REST)|rest]] assured you're using the latest and best version of the tool.
 >
-> **[2:35](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=155)** Now, a word on practice.
+> **[2:35](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=155)** Now, a [[Microsoft Word|word]] on practice.
 >
 > **[2:37](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/what-you-should-know-25847497?u=76281980&t=157)** Yes, you'll have access to every query in the exercise files, but I strongly encourage you to type them out yourself.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), database (2), ai (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (8), wsda (2)
 > **Prerequisites:** install (1), setup (1)
 > **Cross-References:** next video (1)
@@ -185,18 +183,17 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solve a crime with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980)
+#### [Solve a crime with SQL](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=0)** - [Instructor] Before we jump into writing our first query, I want to introduce you to a tool I built specifically for this course, the WSDA SQL Editor.
+> **[0:00](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=0)** - [Instructor] Before we jump into writing our first query, I want to introduce you to a tool I built specifically for this course, the WSDA [[SQL]] Editor.
 >
 > **[0:12](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=12)** Think of this as your personal SQL lab.
 >
 > **[0:15](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=15)** It's a space where you can practice, experiment, and learn without needing to install anything or set anything up.
 >
-> **[0:23](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=23)** It works entirely on your browser, whether you're using a Windows PC, a Mac, a Chromebook, or Linux.
+> **[0:23](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=23)** It works entirely on your browser, whether you're using a [[Windows]] PC, a Mac, a Chromebook, or [[Linux]].
 >
 > **[0:31](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solve-a-crime-with-sql-25842466?u=76281980&t=31)** All you need is an internet connection.
 >
@@ -246,7 +243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), next (3), database (2), ai (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** sql (6), wsda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -260,8 +257,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data analysis: First steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980)
+#### [Data analysis: First steps](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980&t=12)** We've been told it took place in New York City, so let's look into our data to see who might be connected to that location.
 >
-> **[0:20](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980&t=20)** Now this is your very first real SQL query.
+> **[0:20](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980&t=20)** Now this is your very first real [[SQL]] query.
 >
 > **[0:24](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980&t=24)** Think of it as the opening move in a larger strategy, the first clue on the board.
 >
@@ -325,15 +321,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (2), database (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Env Vars:** sql (5), wsda (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Analogies:** think of it as (1), just like (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL core concepts: Data types, tables, columns, and records
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/sql-core-concepts-data-types-tables-columns-and-records-25849425?u=76281980)
+#### [SQL core concepts: Data types, tables, columns, and records](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/sql-core-concepts-data-types-tables-columns-and-records-25849425?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/sql-core-concepts-data-types-tables-columns-and-records-25849425?u=76281980&t=44)** A table is nothing more than a grid of rows and columns.
 >
-> **[0:48](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/sql-core-concepts-data-types-tables-columns-and-records-25849425?u=76281980&t=48)** Think Excel spreadsheet, with rows going left to right and columns up and down.
+> **[0:48](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/sql-core-concepts-data-types-tables-columns-and-records-25849425?u=76281980&t=48)** Think [[Microsoft Excel|Excel]] spreadsheet, with rows going left to right and columns up and down.
 >
 > **[0:56](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/sql-core-concepts-data-types-tables-columns-and-records-25849425?u=76281980&t=56)** Starting with our table here, we can see that we have data or pieces of information housed in a table of rows and columns.
 >
@@ -373,14 +368,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (2), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Definitions:** is called (1), in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### First query: Comments, aliases, and sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980)
+#### [First query: Comments, aliases, and sorting](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=15)** First up, we've got comments, which are just a plain and simple way of describing what your query is doing.
 >
-> **[0:23](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=23)** They come in two forms, single line comments and comment blocks.
+> **[0:23](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=23)** They come in two [[Forms]], single line comments and comment blocks.
 >
 > **[0:29](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=29)** Single line comments are created when you place two dashes back to back and whatever follows these two dashes becomes a comment.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=60)** In both cases, comments allow us to describe what our query is doing in plain language.
 >
-> **[1:08](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=68)** It's non SQL code and it's ignored by the editor whenever we hit Run.
+> **[1:08](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=68)** It's non [[SQL]] code and it's ignored by the editor whenever we hit Run.
 >
 > **[1:15](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/first-query-comments-aliases-and-sorting-25841480?u=76281980&t=75)** Next, let's look at ours, SQL query and focus on the words that are capitalized.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), next (3), hit (2), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Forms]] (1)
 > **Env Vars:** sql (4), select (1), order (1), limit (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
@@ -470,8 +464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding criteria to SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980)
+#### [Adding criteria to SQL queries](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980&t=45)** Let's now take a look and see if we could find out who flew to New York City before the date of the crime, October 23rd, 2021.
 >
-> **[0:56](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980&t=56)** Navigate to the Walter Shields Data Academy SQL Editor at the following link.
+> **[0:56](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980&t=56)** Navigate to the Walter Shields Data Academy [[SQL]] Editor at the following link.
 >
 > **[1:03](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980&t=63)** Are you with me?
 >
@@ -527,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3), hit (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3), select (1), order (1), limit (1), wsda (1)
 > **Code Identifiers:** flight_details (1), customer_id (1), start_city (1), dest_city (1), flightdate (1)
 > **CLI Commands:** find (2), make (1)
@@ -536,8 +529,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - remember (1)
 
-#### Second query: WHERE clause, operators, date, and texts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/second-query-where-clause-operators-date-and-texts-25842464?u=76281980)
+#### [Second query: WHERE clause, operators, date, and texts](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/second-query-where-clause-operators-date-and-texts-25842464?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +585,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1)
 > **CLI Commands:** find (2), make (1)
 > **SQL:** where (3)
 > **Env Vars:** where (3)
@@ -601,8 +592,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - we (1)
 
-#### Query composition: More operators for refining results
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/query-composition-more-operators-for-refining-results-25842465?u=76281980)
+#### [Query composition: More operators for refining results](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/query-composition-more-operators-for-refining-results-25842465?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,12 +616,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - in (1)
 
-#### Third query: Operators and context understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/third-query-operators-and-context-understanding-25847498?u=76281980)
+#### [Third query: Operators and context understanding](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/third-query-operators-and-context-understanding-25847498?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +659,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -683,8 +670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Logical deduction by observing results
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980)
+#### [Logical deduction by observing results](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -700,13 +686,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=46)** Next, go to your Exercise File folder and open the CSV file.
 >
-> **[0:53](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=53)** Copy query number three and paste it into the WSDA SQL Editor.
+> **[0:53](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=53)** Copy query number three and paste it into the WSDA [[SQL]] Editor.
 >
 > **[1:00](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=60)** Finally, hit Run to execute your query.
 >
 > **[1:06](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=66)** Are you with me?
 >
-> **[1:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=67)** We compose this query to find out who flew from New York City after the date of the crime, which was October 23rd, 2021.
+> **[1:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=67)** We [[Jetpack Compose|compose]] this query to find out who flew from New York City after the date of the crime, which was October 23rd, 2021.
 >
 > **[1:19](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=79)** When we referenced these results, we had the following people listed: Bruce Fisher, Aleana Jordan, Brenda Reynolds, and Hajrah Burns.
 >
@@ -776,7 +762,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=308)** Both the folks identified in these two groups were present at the time and place that the crime took place.
 >
-> **[5:17](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=317)** Out of all the people that we have stored on our digital evidence file, the people we've identified here have the highest probability to have committed the crime.
+> **[5:17](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=317)** Out of all the people that we have stored on our digital evidence file, the people we've identified here have the highest [[Probability]] to have committed the crime.
 >
 > **[5:27](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980&t=327)** It would be worthwhile to have the authorities speak to them as our analysis has found that they are viable persons of interest.
 >
@@ -792,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (4), hit (3), [[SQL]] (2), [[Jetpack Compose|Compose]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Jetpack Compose|Compose]] (2), [[Probability]] (1)
 > **Env Vars:** csv (3), wsda (2), sql (2)
 > **UI Navigation:** go to (3), open the (3)
 > **URLs:** [wsdalearning.ai](https://wsdalearning.ai) (4)
@@ -801,8 +787,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 
-#### Crime-solving SQL analysis recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/crime-solving-sql-analysis-recap-25844465?u=76281980)
+#### [Crime-solving SQL analysis recap](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/crime-solving-sql-analysis-recap-25844465?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +827,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/crime-solving-sql-analysis-recap-25844465?u=76281980&t=174)** Finally, we added to this list the people we found who lived in New York City.
 >
-> **[3:01](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/crime-solving-sql-analysis-recap-25844465?u=76281980&t=181)** We did this because altogether this formed a complete list of people with the highest probability of being involved in the theft.
+> **[3:01](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/crime-solving-sql-analysis-recap-25844465?u=76281980&t=181)** We did this because altogether this formed a complete list of people with the highest [[Probability]] of being involved in the theft.
 >
 > **[3:12](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/crime-solving-sql-analysis-recap-25844465?u=76281980&t=192)** In the next video, we'll start looking at the other tables we have access to in our digital evidence file.
 >
@@ -852,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Search]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2), in other words (1)
 > **UI Navigation:** scroll down (2)
@@ -864,8 +849,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examining the evidence in related tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980)
+#### [Examining the evidence in related tables](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980&t=11)** So let's explore some more tables in our digital evidence database.
 >
-> **[0:16](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980&t=16)** Let's navigate back to the WSDA SQL Editor and take a look at the database tables available to us on our digital evidence file.
+> **[0:16](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980&t=16)** Let's navigate back to the WSDA [[SQL]] Editor and take a look at the database tables available to us on our digital evidence file.
 >
 > **[0:27](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980&t=27)** Are you with me?
 >
@@ -901,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[SQL]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** wsda (2), sql (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -909,12 +893,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 
-#### Fourth query breakdown: BETWEEN operator and date ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fourth-query-breakdown-between-operator-and-date-ranges-25847496?u=76281980)
+#### [Fourth query breakdown: BETWEEN operator and date ranges](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fourth-query-breakdown-between-operator-and-date-ranges-25847496?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fourth-query-breakdown-between-operator-and-date-ranges-25847496?u=76281980&t=1)** - So here we are back at the WSDA SQL Editor with query number four, which we composed in the last video.
+> **[0:01](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fourth-query-breakdown-between-operator-and-date-ranges-25847496?u=76281980&t=1)** - So here we are back at the WSDA [[SQL]] Editor with query number four, which we composed in the last video.
 >
 > **[0:10](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fourth-query-breakdown-between-operator-and-date-ranges-25847496?u=76281980&t=10)** Are you with me?
 >
@@ -962,18 +945,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** wsda (1), sql (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - so (1)
 
-#### Finding supporting evidence to align objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/finding-supporting-evidence-to-align-objectives-25844464?u=76281980)
+#### [Finding supporting evidence to align objectives](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/finding-supporting-evidence-to-align-objectives-25844464?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/finding-supporting-evidence-to-align-objectives-25844464?u=76281980&t=1)** - Let's kick things off with a fresh copy of the WSDA SQL editor.
+> **[0:01](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/finding-supporting-evidence-to-align-objectives-25844464?u=76281980&t=1)** - Let's kick things off with a fresh copy of the WSDA [[SQL]] editor.
 >
 > **[0:07](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/finding-supporting-evidence-to-align-objectives-25844464?u=76281980&t=7)** Open a new browser tab and navigate to the link.
 >
@@ -993,14 +975,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** wsda (1), sql (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - let (1)
 
-#### Fifth query breakdown: Using the IN and AND operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fifth-query-breakdown-using-the-in-and-and-operators-25841481?u=76281980)
+#### [Fifth query breakdown: Using the IN and AND operators](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/fifth-query-breakdown-using-the-in-and-and-operators-25841481?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1017,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - let (1)
 
@@ -1045,8 +1025,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solving the case with data-driven insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980)
+#### [Solving the case with data-driven insights](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,7 +1039,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980&t=36)** Now we're about to do it once again.
 >
-> **[0:40](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980&t=40)** So if you're not already there, head on back to query number five in the WSDA SQL editor.
+> **[0:40](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980&t=40)** So if you're not already there, head on back to query number five in the WSDA [[SQL]] editor.
 >
 > **[0:49](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980&t=49)** Are you with me?
 >
@@ -1136,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Ports:** :00 (2), :10 (2), :01 (1), :15 (1), :30 (1)
 > **Cross-References:** in the next (4), in the last (2)
 > **Env Vars:** sql (2), wsda (1), jfk (1)
@@ -1144,8 +1123,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - welcome (1)
 
-#### Project: The art of disguise
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-the-art-of-disguise-25843466?u=76281980)
+#### [Project: The art of disguise](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-the-art-of-disguise-25843466?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,14 +1143,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project: Solution walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980)
+#### [Project: Solution walkthrough](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=39)** Now, each of these fields will help us understand who made a payment, what it was for and when it happened.
 >
-> **[0:48](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=48)** Now, let's zero in on this second portion of our SQL response.
+> **[0:48](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=48)** Now, let's zero in on this second portion of our [[SQL]] response.
 >
 > **[0:53](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=53)** Taking a look at the from clause here.
 >
@@ -1262,7 +1238,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=288)** Now, this is powerful because you're not just spotting individual transactions, you're identifying behavioral patterns.
 >
-> **[4:56](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=296)** Now this is how analysts work in fields like fraud detection, cybersecurity, and law enforcement.
+> **[4:56](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=296)** Now this is how analysts work in fields like fraud detection, [[Cybersecurity]], and law enforcement.
 >
 > **[5:03](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/project-solution-walkthrough-25846439?u=76281980&t=303)** It's about finding signals in the noise.
 >
@@ -1276,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -1287,8 +1263,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue enhancing your SQL data-driven skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980)
+#### [Continue enhancing your SQL data-driven skills](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=2)** You didn't just complete a course, you followed the data, uncovered the truth, and traced a financial trail most would've missed.
 >
-> **[0:12](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=12)** That's more than SQL, that's data-driven thinking, and it's exactly what today's most impactful professionals do.
+> **[0:12](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=12)** That's more than [[SQL]], that's data-driven thinking, and it's exactly what today's most impactful professionals do.
 >
 > **[0:21](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=21)** So here's what you learned.
 >
@@ -1310,13 +1285,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=65)** It works with any SQLite Database, not just the one from this course.
 >
-> **[1:10](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=70)** So you can practice on your own, on your own data projects, revisit lessons from this course, or explore real-world databases all from your browser.
+> **[1:10](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=70)** So you can practice on your own, on your own data projects, revisit lessons from this course, or explore real-world [[Databases]] all from your browser.
 >
 > **[1:21](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=81)** And don't forget, the built-in AI assistant gives instant feedback, just like having me as your personal SQL coach, right by your side.
 >
-> **[1:30](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=90)** If you're ready to level up, I've got more courses for you on LinkedIn Learning.
+> **[1:30](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=90)** If you're ready to level up, I've got more courses for you on [[LinkedIn]] Learning.
 >
-> **[1:35](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=95)** We go deeper into aggregations and subqueries, windows functions, real-world data cleaning and transformation, and advanced analysis techniques.
+> **[1:35](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=95)** We go deeper into aggregations and subqueries, [[Windows]] functions, real-world [[Data Cleaning]] and transformation, and advanced analysis techniques.
 >
 > **[1:45](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980&t=105)** These courses build right on the foundation you've built here, and they're just as hands-on and beginner-friendly.
 >
@@ -1332,7 +1307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (5), [[LinkedIn]] (3), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[LinkedIn]] (3), [[Databases]] (1), [[Windows]] (1), [[Data Cleaning]] (1)
 > **Env Vars:** sql (5), wsda (2), where (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (2)

@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980)
+#### [JavaScript design patterns](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980&t=0)** - Have you been looking for a place to understand this mystical term that is JavaScript design patterns?
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980&t=0)** - Have you been looking for a place to understand this mystical term that is [[JavaScript]] [[Design Patterns]]?
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980&t=6)** Have you been looking for a way to better understand how to have industry standard best practices in your code?
 >
@@ -118,18 +117,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Design Patterns]] (3), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Design Patterns]] (3)
 > **Analogies:** such as (2)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980&t=0)** - For this course, you should have a good foundation with JavaScript syntax, especially around ES6 and above, as many of the patterns explored will be written in this version.
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980&t=0)** - For this course, you should have a good foundation with [[JavaScript]] syntax, especially around ES6 and above, as many of the patterns explored will be written in this version.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980&t=10)** If you're not familiar with scoping, classes, and many of the initial programming foundations of the language, stop this video, and take a few JavaScript courses.
+> **[0:10](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980&t=10)** If you're not familiar with scoping, classes, and many of the initial [[Programming Foundations]] of the language, stop this video, and take a few JavaScript courses.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-patterns-2/what-you-should-know?u=76281980&t=20)** Besides this, you can use any type of editor you wish, but if you want to follow along in the same editor I use, get VS Code.
 
@@ -145,14 +143,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980)
+#### [What is a pattern?](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=0)** - Before we get started on our design patterns journey, what is it exactly?
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=0)** - Before we get started on our [[Design Patterns]] journey, what is it exactly?
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=5)** The academic definition is a general, reusable solution to a commonly occurring problem within a given context in software design.
+> **[0:05](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=5)** The academic definition is a general, reusable solution to a commonly occurring problem within a given context in [[Software Design]].
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=14)** Oof, in simple words, it's a way that has been defined as a proper approach to resolve common problems in code.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=41)** This is exactly what a pattern is, a way to resolve a problem.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=46)** In this course, we'll focus on patterns that relates to JavaScript.
+> **[0:46](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=46)** In this course, we'll focus on patterns that relates to [[JavaScript]].
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980&t=50)** We'll look at many different patterns and they are split into three categories.
 >
@@ -181,14 +178,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Setting up your base project
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980)
+#### [Setting up your base project](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=0)** - [Instructor] So let's go ahead and set up our base project and install an extension to turn on live server inside of VS code.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=6)** So the first thing we're going to do is go inside of VS code, so if you don't have it installed, you can install it directly from the site and search for it on Google.
+> **[0:06](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=6)** So the first thing we're going to do is go inside of VS code, so if you don't have it installed, you can install it directly from the site and search for it on [[Google]].
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=14)** And then once you have it installed, you can open Visual Studio code, like so.
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=30)** And once you find the first one here, it's called live server, you can click on it, and then install live server.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=36)** So what is this going to do is basically have a live server and run our HTML automatically.
+> **[0:36](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=36)** So what is this going to do is basically have a live server and run our [[HTML]] automatically.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=41)** So we won't have to install a server to actually run our page that we're going to use for doing our code.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=55)** So let's go and minimize this for a second, I'm going to go into my desktop and then create a base server.
 >
-> **[1:02](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=62)** So right click on new folder if you're on a Mac, and then create a new folder if you're on a Windows, and then let's just call this base.
+> **[1:02](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=62)** So right click on new folder if you're on a Mac, and then create a new folder if you're on a [[Windows]], and then let's just call this base.
 >
 > **[1:11](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=71)** And then we're going to drag and drop this into Visual Studio code.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=81)** So we're going to create two files here, the first one is going to be an index.HTML, so let's go and create a new file like so called this index.HTML.
 >
-> **[1:32](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=92)** And then we're going to create the JavaScript file that we're going to run our code.
+> **[1:32](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=92)** And then we're going to create the [[JavaScript]] file that we're going to run our code.
 >
 > **[1:36](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=96)** So we're going to name this index.js.
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=150)** So you can name this anything you want.
 >
-> **[2:32](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=152)** I'm going to call this design patterns, like so.
+> **[2:32](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=152)** I'm going to call this [[Design Patterns]], like so.
 >
 > **[2:37](https://www.linkedin.com/learning/javascript-patterns-2/setting-up-your-base-project?u=76281980&t=157)** And then in the body, we're going to load the script.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (3), [[JavaScript]] (3), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Windows]] (3), [[JavaScript]] (3), [[Google]] (1), [[Design Patterns]] (1)
 > **File Paths:** index.js (4), index.html (3), dot.js (1)
 > **Env Vars:** html (7), css (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (1)
@@ -275,8 +271,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 
-#### Functions as first-class citizens
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/functions-as-first-class-citizens?u=76281980)
+#### [Functions as first-class citizens](https://www.linkedin.com/learning/javascript-patterns-2/functions-as-first-class-citizens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,8 +336,7 @@ created: 2026-05-02
 > **Ports:** port 5500 (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a callback and its role?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-callback-and-its-role?u=76281980)
+#### [What is a callback and its role?](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-callback-and-its-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +404,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** printcalc (2)
@@ -418,9 +411,9 @@ created: 2026-05-02
 > **Ports:** port 5500 (1)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
+> **Speakers:** - [instructor] (1)
 
-#### CoderPad introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/coderpad-introduction?u=76281980)
+#### [CoderPad introduction](https://www.linkedin.com/learning/javascript-patterns-2/coderpad-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,12 +449,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are creational patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980)
+#### [What are creational patterns?](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980&t=0)** - With all these terms you'll hear throughout the course, you might be wondering about what is a creational pattern in JavaScript?
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980&t=0)** - With all these terms you'll hear throughout the course, you might be wondering about what is a creational pattern in [[JavaScript]]?
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980&t=8)** Simply put, they are patterns that control the creation process of an object.
 >
@@ -475,14 +467,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
-#### Class design pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/class-design-pattern?u=76281980)
+#### [Class design pattern](https://www.linkedin.com/learning/javascript-patterns-2/class-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/class-design-pattern?u=76281980&t=0)** - [Instructor] In this chapter, we'll start covering all the patterns that are useful to create new items in your code, and we'll start with the prototype in class pattern.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-patterns-2/class-design-pattern?u=76281980&t=8)** So in my course, JavaScript classes, we've explored this pattern with many examples, but in short, the prototype class pattern allows us to define a blueprint for a specific type of item, and then reuse it by creating a new object from that class.
+> **[0:08](https://www.linkedin.com/learning/javascript-patterns-2/class-design-pattern?u=76281980&t=8)** So in my course, [[JavaScript]] classes, we've explored this pattern with many examples, but in short, the prototype class pattern allows us to define a blueprint for a specific type of item, and then reuse it by creating a new object from that class.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-patterns-2/class-design-pattern?u=76281980&t=23)** So let me demonstrate with some code.
 >
@@ -539,8 +530,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constructor pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/constructor-pattern?u=76281980)
+#### [Constructor pattern](https://www.linkedin.com/learning/javascript-patterns-2/constructor-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-patterns-2/constructor-pattern?u=76281980&t=70)** So what we'll do in order to be able to use what is inside of that constructor for that class is do a super.
 >
-> **[1:17](https://www.linkedin.com/learning/javascript-patterns-2/constructor-pattern?u=76281980&t=77)** So if you've done any react code, you're familiar with this.
+> **[1:17](https://www.linkedin.com/learning/javascript-patterns-2/constructor-pattern?u=76281980&t=77)** So if you've done any [[React.js|react]] code, you're familiar with this.
 >
 > **[1:19](https://www.linkedin.com/learning/javascript-patterns-2/constructor-pattern?u=76281980&t=79)** So basically what we're doing is creating a new class and extended react.
 >
@@ -643,8 +633,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/singleton-pattern?u=76281980)
+#### [Singleton pattern](https://www.linkedin.com/learning/javascript-patterns-2/singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,8 +703,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/factory-pattern?u=76281980)
+#### [Factory pattern](https://www.linkedin.com/learning/javascript-patterns-2/factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +837,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), game (2)
 > **Code Identifiers:** carfactory (6), myhonda (3), createcar (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -858,8 +845,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abstract factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/abstract-factory-pattern?u=76281980)
+#### [Abstract factory pattern](https://www.linkedin.com/learning/javascript-patterns-2/abstract-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,7 +985,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** suv (20), cx5 (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1), go to (1)
@@ -1012,8 +997,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are structural patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-structural-patterns?u=76281980)
+#### [What are structural patterns?](https://www.linkedin.com/learning/javascript-patterns-2/what-are-structural-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,13 +1021,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **Env Vars:** mvc (1), mvp (1), mvvm (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - have (1)
 
-#### Module pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980)
+#### [Module pattern](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=27)** So if you have your code to debug, it is much easier to find where the error is.
 >
-> **[0:32](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=32)** We often use modules too, with the key word import or export.
+> **[0:32](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=32)** We often use modules too, with the key [[Microsoft Word|word]] import or export.
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=37)** So when we compile our code, we only use the code we need.
 >
@@ -1079,7 +1061,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=68)** That you're seeing the hidden files.
 >
-> **[1:10](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=70)** On windows you should be able to select an option where you can see the hidden files and on mac is shift command dot.
+> **[1:10](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=70)** On [[Windows]] you should be able to select an option where you can see the hidden files and on mac is shift command dot.
 >
 > **[1:21](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=81)** And you're going to see that if I had copied all these files into this folder I would be missing a very important file.
 >
@@ -1095,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=103)** Or on windows you can right click and open in visual studio code.
 >
-> **[1:48](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=108)** So right now, we have an index file, we have the babelrc file that allows us to use the latest and greatest from JavaScript.
+> **[1:48](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=108)** So right now, we have an index file, we have the babelrc file that allows us to use the latest and greatest from [[JavaScript]].
 >
 > **[1:55](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=115)** So what I want to do is create a function inside of a file and then import this module into the main index.
 >
@@ -1183,7 +1165,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=275)** So let's go and bring up our terminal first.
 >
-> **[4:38](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=278)** And lets do npm, install.
+> **[4:38](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=278)** And lets do [[npm]], install.
 >
 > **[4:42](https://www.linkedin.com/learning/javascript-patterns-2/module-pattern?u=76281980&t=282)** Or I.
 >
@@ -1235,7 +1217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), [[npm]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (6), make (4), npm (3), find (2)
 > **Ports:** port 3000 (4)
 > **Cross-References:** go back to (3), previous chapter (1)
@@ -1244,8 +1226,7 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1), click on (1), go to (1)
 > **Definitions:** is a  (2)
 
-#### Mixins pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/mixins-pattern?u=76281980)
+#### [Mixins pattern](https://www.linkedin.com/learning/javascript-patterns-2/mixins-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1248,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/javascript-patterns-2/mixins-pattern?u=76281980&t=101)** and what we'll do now is create an object, so let's go and remove this, and we'll create an object.
 >
-> **[1:49](https://www.linkedin.com/learning/javascript-patterns-2/mixins-pattern?u=76281980&t=109)** So object assign, so we're using and leveraging some functions from JavaScript, car.prototype, we'll add the car mixin, so let me explain what's happening here.
+> **[1:49](https://www.linkedin.com/learning/javascript-patterns-2/mixins-pattern?u=76281980&t=109)** So object assign, so we're using and leveraging some functions from [[JavaScript]], car.prototype, we'll add the car mixin, so let me explain what's happening here.
 >
 > **[2:05](https://www.linkedin.com/learning/javascript-patterns-2/mixins-pattern?u=76281980&t=125)** So what we'll do is create with the object.assign a mixin by matching the car prototype with the car mixin.
 >
@@ -1302,8 +1283,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Facade pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/facade-pattern?u=76281980)
+#### [Facade pattern](https://www.linkedin.com/learning/javascript-patterns-2/facade-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1295,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-patterns-2/facade-pattern?u=76281980&t=10)** That's absolutely normal.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-patterns-2/facade-pattern?u=76281980&t=12)** If you're a React developer, or building components, you've been using facades every day.
+> **[0:12](https://www.linkedin.com/learning/javascript-patterns-2/facade-pattern?u=76281980&t=12)** If you're a [[React.js|React]] developer, or building components, you've been using facades every day.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-patterns-2/facade-pattern?u=76281980&t=17)** When you're building your component in any framework, you code the complexity of this component into a module, or file, and then leverage a simple line to render this component into your code.
 >
@@ -1339,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5)
 > **Definitions:** is a  (2)
 > **File Paths:** app.js (1)
 > **Tools:** visual studio (1)
@@ -1347,8 +1327,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flyweight pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/flyweight-pattern?u=76281980)
+#### [Flyweight pattern](https://www.linkedin.com/learning/javascript-patterns-2/flyweight-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1355,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** index.js (1)
 > **Tools:** visual studio (1)
@@ -1384,14 +1362,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/decorator-pattern?u=76281980)
+#### [Decorator pattern](https://www.linkedin.com/learning/javascript-patterns-2/decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/decorator-pattern?u=76281980&t=0)** - The decorator pattern is very similar to mixins, where we decorate code with classes or code that came from another area.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-patterns-2/decorator-pattern?u=76281980&t=8)** There is actual syntax in the most recent versions of JavaScript and has been used for a while in TypeScript and is heavily used in Angular code.
+> **[0:08](https://www.linkedin.com/learning/javascript-patterns-2/decorator-pattern?u=76281980&t=8)** There is actual syntax in the most recent versions of [[JavaScript]] and has been used for a while in TypeScript and is heavily used in [[Angular]] code.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-patterns-2/decorator-pattern?u=76281980&t=17)** So the purpose of a decorator pattern, like a mixin, is to to take, for example, a class and extended it with other code.
 >
@@ -1446,8 +1423,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - the (1)
 
-#### Model-View-Controller (MVC) pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980)
+#### [Model-View-Controller (MVC) pattern](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1435,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=24)** The model is where your data resides, where you define your schemas and the models for your data.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=30)** The views is where you have your views, or in most cases, the pure HTML of you application, where the visuals are.
+> **[0:30](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=30)** The views is where you have your views, or in most cases, the pure [[HTML]] of you application, where the visuals are.
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=37)** And finally, the controllers are where you have your logic of your application, the functions that makes your application run.
 >
@@ -1467,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=53)** And even sometimes name the folders with these labels.
 >
-> **[0:57](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=57)** Nowadays, this approach to splitting your application has evolved especially with applications like React.
+> **[0:57](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=57)** Nowadays, this approach to splitting your application has evolved especially with applications like [[React.js|React]].
 >
 > **[1:04](https://www.linkedin.com/learning/javascript-patterns-2/model-view-controller-mvc-pattern?u=76281980&t=64)** Which is more MVVM?
 >
@@ -1477,12 +1453,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (2), [[Programming]] (1), [[HTML]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[React.js|React]] (1)
 > **Env Vars:** html (1), mvvm (1)
 > **Speakers:** - if (1)
 
-#### Model-View-Presenter (MVP) pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/model-view-presenter-mvp-pattern?u=76281980)
+#### [Model-View-Presenter (MVP) pattern](https://www.linkedin.com/learning/javascript-patterns-2/model-view-presenter-mvp-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1504,20 +1479,19 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/javascript-patterns-2/model-view-presenter-mvp-pattern?u=76281980&t=62)** It is the major difference.
 >
-> **[1:05](https://www.linkedin.com/learning/javascript-patterns-2/model-view-presenter-mvp-pattern?u=76281980&t=65)** The MVP pattern is seen in several frameworks, such as backbone, but it is quite popular in Android development.
+> **[1:05](https://www.linkedin.com/learning/javascript-patterns-2/model-view-presenter-mvp-pattern?u=76281980&t=65)** The MVP pattern is seen in several frameworks, such as backbone, but it is quite popular in [[Android]] development.
 >
 > **[1:12](https://www.linkedin.com/learning/javascript-patterns-2/model-view-presenter-mvp-pattern?u=76281980&t=72)** So if you plan on developing with Android, understanding this pattern will help you tremendously.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Android]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Android]] (2)
 > **Env Vars:** mvc (2), mvp (2)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
-#### Model-View-ViewModel (MVVM) pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980)
+#### [Model-View-ViewModel (MVVM) pattern](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1533,17 +1507,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=30)** Then you have the second view, model, which holds the logic in a state of the data, and this view model connects to a model.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=40)** If you would like to see examples of this MVVM pattern, simply develop an architecture applications with React and Angler, and you will see this MVVM approach in action.
+> **[0:40](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=40)** If you would like to see examples of this MVVM pattern, simply develop an architecture applications with [[React.js|React]] and Angler, and you will see this MVVM approach in action.
 >
 > **[0:52](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=52)** For example, in React, your application is architectured in stateless components, which are views.
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=58)** Stateful components which hold data and logic, therefore the view model, and then finally the model, is where React typically connects to a back end to process data, where your models are defined.
 >
-> **[1:11](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=71)** There are many more patterns and opinions about patterns out there in the wild, but all of the application development we see in our daily lives as developers often fit one of the three patterns we've explored in this chapter.
+> **[1:11](https://www.linkedin.com/learning/javascript-patterns-2/model-view-viewmodel-mvvm-pattern?u=76281980&t=71)** There are many more patterns and opinions about patterns out there in the wild, but all of the [[Application Development]] we see in our daily lives as developers often fit one of the three patterns we've explored in this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[React.js|React]] (3), application (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Application Development]] (1)
 > **Env Vars:** mvvm (2), mvvc (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1553,8 +1527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are behavioral patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-behavioral-patterns?u=76281980)
+#### [What are behavioral patterns?](https://www.linkedin.com/learning/javascript-patterns-2/what-are-behavioral-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,8 +1558,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
 
-#### Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/observer-pattern?u=76281980)
+#### [Observer pattern](https://www.linkedin.com/learning/javascript-patterns-2/observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,7 +1608,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (1)
 > **UI Navigation:** go to (3), scroll down (2), drag and drop (1), click on (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
@@ -1644,13 +1615,13 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980)
+#### [State pattern](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=0)** - [Instructor] The state pattern has become very popular with React's usage, and now most web development frameworks use it, basically the state pattern is one where we hold the state of the application with all the data and properties needed and when it changes it updates a rendering of the application, and again needless to say, React and Angular, and every state management library are great examples of its use, let's take a look at the React application we have in our exercise files.
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=0)** - [Instructor] The state pattern has become very popular with [[React.js|React]]'s usage, and now most [[Web Development]] frameworks use it, basically the state pattern is one where we hold the state of the application with all the data and properties needed and when it changes it updates a rendering of the application, and again needless to say, React and [[Angular]], and every state management library are great examples of its use, let's take a look at the React application we have in our exercise files.
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=28)** So if you look into the exercise files, under chapter four and then video04_03, you have a React application with several components and state management in here, so let's open that in Visual Studio Code, so I'm going to drag and drop that folder inside of Visual Studio Code, and let's take a look at the application.
 >
@@ -1666,7 +1637,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=93)** Next, we're going into the news folder, so news folder and then news file here, and then we're declaring a new state with news, so basically we're creating an array of information and the state holds that information and then passes it down to the components to be rendered.
 >
-> **[1:53](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=113)** So this is the fetch function that actually grabs the data from the API and we're passing down the information that we had in the original file here, and therefore this information calls onto the API and then returns the data which we pass down to the components news here, and then that is the new state with the data, so basically a state, just to summarize, holds the information, or the data that the application needs to render all that data, or even states of the application.
+> **[1:53](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=113)** So this is the [[Fetch]] function that actually grabs the data from the API and we're passing down the information that we had in the original file here, and therefore this information calls onto the API and then returns the data which we pass down to the components news here, and then that is the new state with the data, so basically a state, just to summarize, holds the information, or the data that the application needs to render all that data, or even states of the application.
 >
 > **[2:25](https://www.linkedin.com/learning/javascript-patterns-2/state-pattern?u=76281980&t=145)** So for example, if whenever we have a true information, we are returning or rendering a specific component inside of React, or doing something on the application, so for example if you were to use a chat application, where whenever a true statement turns the color of the fonts of your chat red because somebody is talking to you or typing something well that's a state of the application, and we need data to actually make that happen with the application, and this is how it works, so you have the state, which holds all of the information that you need and then the application reacts based on that, or get the data from the state.
 >
@@ -1674,7 +1645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), data (10), [[React.js|React]] (6), api (4), management (2)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Web Development]] (1), [[Angular]] (1), [[Fetch]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (2)
@@ -1683,8 +1654,7 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **UI Navigation:** drag and drop (1)
 
-#### Chain of responsibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/chain-of-responsibility?u=76281980)
+#### [Chain of responsibility](https://www.linkedin.com/learning/javascript-patterns-2/chain-of-responsibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,13 +1684,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), application (2), next (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980)
+#### [Iterator pattern](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,13 +1700,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=17)** So we'll get back to code by using the base.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=18)** So the first thing I'm going to do is drag and drop this particular folder into Visual Studio Code or on the Windows, you can right click to the folder and then open in Visual Studio Code.
+> **[0:18](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=18)** So the first thing I'm going to do is drag and drop this particular folder into Visual Studio Code or on the [[Windows]], you can right click to the folder and then open in Visual Studio Code.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=31)** And the first thing I'm going to do is remove all the code that we have here.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=35)** I'll refer back to the code in the exercise files if you need to.
 >
-> **[0:38](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=38)** So let me just delete that and then what we're going to do is also open the react application.
+> **[0:38](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=38)** So let me just delete that and then what we're going to do is also open the [[React.js|react]] application.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-patterns-2/iterator-pattern?u=76281980&t=43)** So let's go back to our desktop and then open the exercise files and I believe the react application is right here on 04_03.
 >
@@ -1808,7 +1776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[React.js|React]] (2), application (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[React.js|React]] (2)
 > **Cross-References:** go back to (3)
 > **Tools:** visual studio (3)
 > **UI Navigation:** open the (2), drag and drop (1)
@@ -1817,12 +1785,11 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **Definitions:** is an  (1)
 
-#### Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/strategy-pattern?u=76281980)
+#### [Strategy pattern](https://www.linkedin.com/learning/javascript-patterns-2/strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/strategy-pattern?u=76281980&t=0)** - [Instructor] The strategy pattern is basically a way to encapsulate different algorithms or functions and then at runtime practically use the same code to run different scenarios.
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/strategy-pattern?u=76281980&t=0)** - [Instructor] The strategy pattern is basically a way to encapsulate different [[Algorithms]] or functions and then at runtime practically use the same code to run different scenarios.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-patterns-2/strategy-pattern?u=76281980&t=10)** And we've used this approach in some of the code we've written thus far.
 >
@@ -1867,8 +1834,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memento pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/memento-pattern?u=76281980)
+#### [Memento pattern](https://www.linkedin.com/learning/javascript-patterns-2/memento-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,7 +1842,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-patterns-2/memento-pattern?u=76281980&t=10)** It is often used into serialization and deserialization of data.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-patterns-2/memento-pattern?u=76281980&t=16)** In this use case, an object is typically in a JavaScript object, where we need to transmit the data to some type of back-end, where we serialize this object into JSON for streaming it through HTTP protocols.
+> **[0:16](https://www.linkedin.com/learning/javascript-patterns-2/memento-pattern?u=76281980&t=16)** In this use case, an object is typically in a [[JavaScript]] object, where we need to transmit the data to some type of back-end, where we serialize this object into [[JSON]] for streaming it through HTTP protocols.
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-patterns-2/memento-pattern?u=76281980&t=29)** Then, when this object hits the back-end server, or when we get a response back from the server through HTTP, we might need to deserialize the JSON object back into a JavaScript object for consumption into our application.
 >
@@ -1884,12 +1850,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JavaScript]] (2), [[JSON]] (2), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[JSON]] (2)
 > **Env Vars:** json (2), http (2)
 > **Speakers:** - [instructor] (1)
 
-#### Mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/mediator-pattern?u=76281980)
+#### [Mediator pattern](https://www.linkedin.com/learning/javascript-patterns-2/mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1921,14 +1886,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5)
 > **Code Identifiers:** traffictower (1), requestpositions (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/command-pattern?u=76281980)
+#### [Command pattern](https://www.linkedin.com/learning/javascript-patterns-2/command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,7 +1947,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), application (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **Definitions:** is a  (2), in other words (1)
 > **File Paths:** redux.js (1)
@@ -1992,30 +1954,30 @@ created: 2026-05-02
 > **URLs:** [js.org](https://js.org) (1)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** getting started (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=0)** - [Emmanuel] Learning about JavaScript design patterns is a great step in your developer evolution, and often is taken when you've got some experience with JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=0)** - [Emmanuel] Learning about [[JavaScript]] [[Design Patterns]] is a great step in your developer evolution, and often is taken when you've got some experience with JavaScript.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=8)** If you got lost at any point from your lack of JavaScript knowledge, I'd suggest you go back to the drawing board and take a look at some of our basic JavaScript courses: essentials, scoping, classes, and more.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=20)** The next step is really about pushing your knowledge further so if you got some experience and are ready to tackle more complex subjects, go and take courses on the latest ES7 syntax or beyond in what are the latest additions to the language.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=35)** And, finally, if you want to apply any of this knowledge with libraries, take a look at courses related to React, Angular, and backend libraries like Express and Node.
+> **[0:35](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=35)** And, finally, if you want to apply any of this knowledge with libraries, take a look at courses related to [[React.js|React]], [[Angular]], and backend libraries like Express and Node.
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980&t=45)** Thanks very much for taking my course and I'll see you in a bit!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Design Patterns]] (1), next (1), [[React.js|React]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Design Patterns]] (1), [[React.js|React]] (1), [[Angular]] (1)
 > **CLI Commands:** node (1)
 > **Env Vars:** es7 (1)
 > **Cross-References:** go back to (1)

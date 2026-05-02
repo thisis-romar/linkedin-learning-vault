@@ -90,14 +90,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Locking down the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980)
+#### [Locking down the organization](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980&t=0)** - [Lisa] In today's digital landscape, protecting an organization's infrastructure is crucial.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980&t=7)** In this course, I'll introduce you to ethical hacking, one of the most effective ways to test the strength of an organization's defenses.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980&t=7)** In this course, I'll introduce you to [[Ethical Hacking]], one of the most effective ways to test the strength of an organization's defenses.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980&t=17)** I'll begin by outlining the importance of protecting organizational data and outline the power of using adaptive security controls.
 >
@@ -111,17 +110,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Ethical Hacking]] (1), data (1), power (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1)
 > **Env Vars:** mitre (1), att (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
-#### Discovering resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-resources?u=76281980)
+#### [Discovering resources](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-resources?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for anyone with an interest in learning more about ethical hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-resources?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for anyone with an interest in learning more about [[Ethical Hacking]].
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-resources?u=76281980&t=10)** This course is part of the Ethical Hacking Series.
 >
@@ -146,12 +144,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the Ethical Hacking series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the [[Ethical Hacking]] series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/hacking-ethically?u=76281980&t=10)** I'll focus on the concepts of ethical hacking, in order to explain why it's essential in any organization's overall security framework.
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [instructor] (1)
 
 
@@ -171,8 +168,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recognizing elements of information security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980)
+#### [Recognizing elements of information security](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,13 +180,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=25)** The goal is to keep data private, unchanged, and available, which is also referred to the CIA Triad, a widely recognized information assurance model.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=38)** In this graphic, we see how the three concepts overlap and protect data, whether in motion or at rest.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=38)** In this graphic, we see how the three concepts overlap and protect data, whether in motion or at [[Representational State Transfer (REST)|rest]].
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=46)** We ensure confidentiality, integrity, and availability by using various techniques that include logical controls such as access control lists and intrusion detection systems.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=46)** We ensure confidentiality, integrity, and availability by using various techniques that include logical controls such as access control lists and [[Intrusion Detection]] systems.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=61)** In addition, we use various cryptographic techniques such as hashing, digital certificates, and encryption.
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=69)** Examples of sensitive information can include social security numbers, credit card information, or account numbers, or business information such as financial data, employee records, and trade secrets.
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=69)** Examples of sensitive information can include social security numbers, credit card information, or account numbers, or business information such as [[Financial Data]], employee records, and trade secrets.
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980&t=85)** Let's break down each of these concepts, starting with confidentiality.
 >
@@ -228,20 +224,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Intrusion Detection]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Financial Data]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cia (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Providing information assurance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980)
+#### [Providing information assurance](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=0)** - [Instructor] Information assurance is managing risk and reducing the threat of a cyber attack.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=7)** In this segment we'll outline methods used to protect information systems and learn why ethical hacking helps provide the due care in defending an infrastructure's security posture.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=7)** In this segment we'll outline methods used to protect information systems and learn why [[Ethical Hacking]] helps provide the due care in defending an infrastructure's security posture.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=21)** Information assurance is a comprehensive approach to managing risk and protecting information assets from cyber threats.
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=111)** We monitor and analyze security events.
 >
-> **[1:55](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=115)** We conduct regular risk assessments and implement security controls such as firewalls, intrusion detection prevention systems, encryption and access control systems.
+> **[1:55](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=115)** We conduct regular risk assessments and implement security controls such as firewalls, [[Intrusion Detection]] prevention systems, encryption and access control systems.
 >
 > **[2:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/providing-information-assurance?u=76281980&t=128)** And we perform routine security training and awareness programs.
 >
@@ -295,14 +290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[Ethical Hacking]] (5), data (5), [[Intrusion Detection]] (1), management (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (5), [[Intrusion Detection]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defending in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980)
+#### [Defending in depth](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=20)** In order to breach a system, it's not always necessary to use advanced or specialized techniques.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=27)** Many times, someone is able to penetrate network defenses by simply taking advantage of common mistakes, such as failure to update virus signatures or sloppy patch and configuration management.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=27)** Many times, someone is able to penetrate network defenses by simply taking advantage of common mistakes, such as failure to update virus signatures or sloppy patch and [[Configuration Management]].
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=42)** In addition, an attack can occur from outsiders or insiders.
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=67)** Components should provide centralized correlation and be tuned to provide early notification of potential attacks.
 >
-> **[1:15](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=75)** Some of the devices, tools, and techniques include firewalls along with spam filters, intrusion detection systems, packet shapers, and honeypots.
+> **[1:15](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=75)** Some of the devices, tools, and techniques include firewalls along with spam filters, [[Intrusion Detection]] systems, packet shapers, and honeypots.
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=87)** In addition, we ensure network isolation using VLANs and network address translation.
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=165)** One key element when dealing with people is security education training and awareness.
 >
-> **[2:53](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=173)** Training should include how to spot and report social engineering attacks, such as phishing attempts.
+> **[2:53](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=173)** Training should include how to spot and report social engineering attacks, such as [[Phishing]] attempts.
 >
 > **[2:59](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defending-in-depth?u=76281980&t=179)** In addition, review company policies, such as acceptable use, physical security, and password policies.
 >
@@ -362,17 +356,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Configuration Management]] (1), [[Intrusion Detection]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (1), [[Intrusion Detection]] (1), [[Phishing]] (1)
 > **Analogies:** such as (4)
 > **URLs:** [kapersky.com](https://kapersky.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AI and ML in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980)
+#### [Using AI and ML in cybersecurity](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=0)** - [Instructor] Artificial intelligence and machine learning are two powerful allies in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] and machine learning are two powerful allies in [[Cybersecurity]].
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=7)** In this segment, we'll learn some of the ways artificial intelligence and machine learning identify threats to help prevent a cyber attack.
 >
@@ -382,13 +375,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=37)** Today, attacks are more complex, well-funded, and capable of causing major disruption to an organization.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=46)** Some of the issues we face include ransomware holding companies hostage, corporate espionage, and concerns with cloud security.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=46)** Some of the issues we face include ransomware holding companies hostage, corporate espionage, and concerns with [[Cloud Security]].
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=57)** Threat management requires advanced methods to detect and mitigate zero-day and other more sophisticated attacks.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=66)** Artificial intelligence and machine learning play a key role in monitoring and managing threats, as algorithms can analyze a vast amount of data in real time and identify patterns and anomalies that could indicate a potential cyber attack.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=66)** Artificial intelligence and machine learning play a key role in monitoring and managing threats, as [[Algorithms]] can analyze a vast amount of data in real time and identify patterns and anomalies that could indicate a potential cyber attack.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=85)** In addition, the algorithms can help detect fraudulent activities, such as phishing, pharming, and financial scams.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=85)** In addition, the algorithms can help detect fraudulent activities, such as [[Phishing]], pharming, and financial scams.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-ai-and-ml-in-cybersecurity?u=76281980&t=93)** Let's talk about some of the methods used to detect threats.
 >
@@ -424,14 +417,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Algorithms]] (3), data (3), [[Cybersecurity]] (2), hit (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Algorithms]] (3), [[Cybersecurity]] (2), [[Cloud Security]] (1), [[Phishing]] (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapting to the threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980)
+#### [Adapting to the threats](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,17 +461,17 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=119)** The controls are designed to be more proactive and flexible than traditional security controls, and fall into one of the following stages: Predict, Prevent, Detect, Respond, and Recover.
 >
-> **[2:14](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=134)** Within each of these phases, we use a variety of methods, and those include cyber threat intelligence, which is data that is collected and analyzed on emerging threats and attack techniques.
+> **[2:14](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=134)** Within each of these phases, we use a variety of methods, and those include [[Cyber Threat Intelligence (CTI)|cyber threat intelligence]], which is data that is collected and analyzed on emerging threats and attack techniques.
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=149)** The information is then used to modify security controls to better protect against new and evolving threats.
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=157)** We use vulnerability management.
 >
-> **[2:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=160)** Artificial intelligence and machine learning algorithms are being used to identify vulnerabilities in systems and networks that can be exploited by malicious actors.
+> **[2:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=160)** [[Artificial Intelligence (AI)|Artificial intelligence]] and machine learning [[Algorithms]] are being used to identify vulnerabilities in systems and networks that can be exploited by malicious actors.
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=171)** These algorithms can scan systems and networks to identify weaknesses and then provide recommendations for remediation.
 >
-> **[3:01](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=181)** And we use security automation tools that can be used to automate security tasks, such as patch and configuration management.
+> **[3:01](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=181)** And we use security automation tools that can be used to automate security tasks, such as patch and [[Configuration Management]].
 >
 > **[3:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/adapting-to-the-threats?u=76281980&t=190)** The tools can be adjusted based on changes in threat levels or other conditions.
 >
@@ -493,13 +485,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (4), [[Algorithms]] (2), traffic (1), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Configuration Management]] (1)
 > **Analogies:** such as (3), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging event correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980)
+#### [Leveraging event correlation](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=8)** In this segment, we'll learn how event correlation along with next generation detection can stop threats on the network.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=17)** Next generation detection capabilities include data mining algorithms which can detect patterns that match characteristics of malicious activity.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=17)** Next generation detection capabilities include [[Data Mining]] [[Algorithms]] which can detect patterns that match characteristics of malicious activity.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=28)** Once identified, this triggers actions to stop threats on the network.
 >
@@ -535,7 +526,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=108)** The system will then score these activities and other anomalies.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=113)** When the score reaches a threshold, which is 997 in this case, this indicates a high probability of a security threat or malicious activity.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=113)** When the score reaches a threshold, which is 997 in this case, this indicates a high [[Probability]] of a security threat or malicious activity.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/leveraging-event-correlation?u=76281980&t=124)** Once the anomaly is identified, the next step is to disconnect the host and send an alert to the security analyst.
 >
@@ -549,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Security]] (2), data (1), [[Algorithms]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Algorithms]] (1), [[Probability]] (1)
 > **Ports:** :16 (1), :45 (1), :35 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -559,14 +550,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modeling threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980)
+#### [Modeling threats](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=0)** - [Instructor] One way to prevent an attack is to be able to see where the attack might occur.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=6)** In this segment, we'll outline how threat modeling helps visualize vulnerabilities within entry points such as software, networks and users so they can be mitigated before resulting in an attack.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=6)** In this segment, we'll outline how [[Threat Modeling]] helps visualize vulnerabilities within entry points such as software, networks and users so they can be mitigated before resulting in an attack.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=22)** Today there are multiple security threats that include malware, supply chain attacks, ransomware and cryptojacking.
 >
@@ -602,7 +592,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=142)** To conduct threat modeling there are a number of different tools available.
 >
-> **[2:26](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=146)** I'm here at this page where you can download Microsoft's Threat Modeling Tool, and I'll scroll down, and here's where you can select the link to download the tool.
+> **[2:26](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=146)** I'm here at this page where you can download [[Microsoft]]'s Threat Modeling Tool, and I'll scroll down, and here's where you can select the link to download the tool.
 >
 > **[2:38](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980&t=158)** I download and open the tool.
 >
@@ -630,21 +620,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (8), data (3), [[Security]] (2), application (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (8), [[Microsoft]] (1)
 > **UI Navigation:** scroll down (2), select the (1), open the (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using cyber threat intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980)
+#### [Using cyber threat intelligence](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=0)** - [Narrator] Malicious actors use a variety of ways to launch attacks to gain access to our systems.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=7)** Cyber threat intelligence helps level the playing field, as it uses previous threat knowledge and reputation to proactively block malicious attacks on a network.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=7)** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] helps level the playing field, as it uses previous threat knowledge and reputation to proactively block malicious attacks on a network.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=19)** In this segment, we'll discover the power of cyber threat intelligence services in maintaining a vigilant posture.
 >
@@ -652,13 +641,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=40)** Many sources feed into this intelligence, such as the common vulnerabilities and exposures as shown here.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=49)** The CVE program mission is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=49)** The CVE program mission is to identify, define, and catalog publicly disclosed [[Cybersecurity]] vulnerabilities.
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=58)** The CVE is a database of vulnerabilities that uses a standardized naming schema to facilitate the sharing of threat intelligence.
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=68)** So, let's go behind the scenes to see how this works.
 >
-> **[1:13](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=73)** Cyber threat intelligence standards such as STIX and TAXII facilitate the exchange of threat information by specifying data structures and communication protocols.
+> **[1:13](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=73)** Cyber threat intelligence standards such as STIX and TAXII facilitate the exchange of threat information by specifying [[Data Structures]] and communication protocols.
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=86)** So I'm here and we can scroll down to learn a little bit more about STIX and TAXII.
 >
@@ -678,7 +667,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=157)** Let's step through how this works.
 >
-> **[2:39](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=159)** We see in this graphic, on the local area network, participating sensors will monitor the network.
+> **[2:39](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=159)** We see in this graphic, on the [[Local Area Network (LAN)|local area network]], participating sensors will monitor the network.
 >
 > **[2:47](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=167)** If there is an identified event, the system will gather data on the possible threat and then send information to the threat operation center's global reputation servers.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=216)** But there's a lot more information on this website.
 >
-> **[3:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=220)** For example, you can learn more about Talos incident response, and I'll go to that page.
+> **[3:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=220)** For example, you can learn more about Talos [[Incident Response]], and I'll go to that page.
 >
 > **[3:47](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/using-cyber-threat-intelligence?u=76281980&t=227)** Or you can learn about how you can strengthen your resilience by participating with the Talos network.
 >
@@ -706,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (4), database (3), data (3), power (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (4), [[Cybersecurity]] (1), [[Data Structures]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Incident Response]] (1)
 > **Env Vars:** stix (3), taxii (3), cve (2)
 > **Definitions:** is a  (3), short for (2), is an  (1)
 > **Analogies:** such as (2), for example (2)
@@ -714,8 +703,7 @@ created: 2026-05-02
 > **Code Identifiers:** expression (1), exchange (1)
 > **Speakers:** - [narrator] (1)
 
-#### Following the threat intelligence lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980)
+#### [Following the threat intelligence lifecycle](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=13)** In this segment, we'll discuss the threat intelligence lifecycle.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=18)** Cyber threat intelligence involves collecting, analyzing, and disseminating information about potential or existing cyber threats, including their capabilities, intentions, and motivations.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=18)** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] involves collecting, analyzing, and disseminating information about potential or existing cyber threats, including their capabilities, intentions, and motivations.
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=33)** This intelligence then helps defend the network using actionable intel to proactively block malicious attacks on a network.
 >
@@ -747,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=119)** The process data is then analyzed to provide context, assess the threat level, and identify potential impacts.
 >
-> **[2:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=128)** Once the analysis is complete, the intelligence is shared with security operations, incident response teams, or other parties.
+> **[2:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=128)** Once the analysis is complete, the intelligence is shared with [[Security Operations]], [[Incident Response]] teams, or other parties.
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/following-the-threat-intelligence-lifecycle?u=76281980&t=137)** Based on the intelligence received, the team will take appropriate action to mitigate or prevent the threat.
 >
@@ -767,13 +755,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (4), data (3), [[Security]] (3), open-source (1), web (1)
+> **Frameworks & Libraries:** [[Cyber Threat Intelligence (CTI)|Cyber threat intelligence]] (4), [[Security Operations]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing incidents
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-incidents?u=76281980)
+#### [Managing incidents](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-incidents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +814,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-incidents?u=76281980&t=156)** Documentation should clearly identify the problem and include all pertinent facts such as how the problem was resolved, any testing that took place, along with suggestions for preventative action.
 >
-> **[2:51](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-incidents?u=76281980&t=171)** The goal is to have a strong incident response team.
+> **[2:51](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-incidents?u=76281980&t=171)** The goal is to have a strong [[Incident Response]] team.
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-incidents?u=76281980&t=174)** Remain calm even if a major outage has occurred.
 >
@@ -853,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), management (2), business (1), application (1), power (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
@@ -862,8 +849,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Prerequisites:** install (1)
 
-#### Challenge: Hardening guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-hardening-guide?u=76281980)
+#### [Challenge: Hardening guide](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-hardening-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,8 +872,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Speakers:** - [presenter] (1)
 
-#### Solution: Hardening guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-hardening-guide?u=76281980)
+#### [Solution: Hardening guide](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-hardening-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +892,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -916,8 +900,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the cyber kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980)
+#### [Understanding the cyber kill chain](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +954,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980&t=156)** Once the malicious actor knows how they will disrupt the network, the next step is to craft a plan to deliver the attack.
 >
-> **[2:44](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980&t=164)** Using methods such as a phishing email designed to get the victim to click on a link, redirecting them to a webpage, or using a software update.
+> **[2:44](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980&t=164)** Using methods such as a [[Phishing]] email designed to get the victim to click on a link, redirecting them to a webpage, or using a software update.
 >
 > **[2:55](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980&t=175)** Step four is exploitation.
 >
@@ -1009,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (1), dns (1), next (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **Analogies:** such as (3), for example (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1018,12 +1001,11 @@ created: 2026-05-02
 > **Env Vars:** dns (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing MITRE ATT&CK
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/utilizing-mitre-att-ck?u=76281980)
+#### [Utilizing MITRE ATT&CK](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/utilizing-mitre-att-ck?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/utilizing-mitre-att-ck?u=76281980&t=0)** - [Instructor] The MITRE ATT&CK framework provides tools and techniques specific to the ethical hacking process.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/utilizing-mitre-att-ck?u=76281980&t=0)** - [Instructor] The MITRE ATT&CK framework provides tools and techniques specific to the [[Ethical Hacking]] process.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/utilizing-mitre-att-ck?u=76281980&t=8)** In this segment, we'll review the elements in the framework.
 >
@@ -1079,15 +1061,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Env Vars:** mitre (9), att (6)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing using the diamond model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/analyzing-using-the-diamond-model?u=76281980)
+#### [Analyzing using the diamond model](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/analyzing-using-the-diamond-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/analyzing-using-the-diamond-model?u=76281980&t=54)** When a threat is discovered, the elements within the diamond model provide a way to analyze the attack and helps to illustrate how an adversary pivots from one event to the next.
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/analyzing-using-the-diamond-model?u=76281980&t=69)** In addition to the four core features we see metadata, which is essential in analyzing, grouping, and piecing together the events after a cyber attack.
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/analyzing-using-the-diamond-model?u=76281980&t=69)** In addition to the four core features we see [[Metadata]], which is essential in analyzing, grouping, and piecing together the events after a cyber attack.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/analyzing-using-the-diamond-model?u=76281980&t=81)** So that you have a better understanding of the model, let's talk about each of the elements.
 >
@@ -1159,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), next (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** go to (1)
@@ -1167,8 +1148,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying adversary behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980)
+#### [Identifying adversary behavior](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,7 +1168,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=60)** This can be achieved using several techniques.
 >
-> **[1:03](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=63)** They can steal Kerberos tickets and/or application access tokens to authenticate to other systems.
+> **[1:03](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=63)** They can steal Kerberos tickets and/or application access [[Tokens]] to authenticate to other systems.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=70)** They might use Remote Desktop Protocol attacks to remotely control systems.
 >
@@ -1198,13 +1178,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=91)** Examples include running scripts or commands to execute malware or to steal sensitive data, exploit vulnerabilities to gain elevated privileges, or control a botnet or perform other malicious activities.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=106)** Finally, let's talk about DNS tunneling, a technique that allows attackers to bypass network security controls by using the DNS protocol to tunnel data in or out of a network.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=106)** Finally, let's talk about DNS tunneling, a technique that allows attackers to bypass [[Network Security]] controls by using the DNS protocol to tunnel data in or out of a network.
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=120)** DNS tunneling works by encoding data in DNS queries and responses, which can then be sent over channels that are typically used for domain name resolution.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=132)** Attackers can use DNS tunneling to exfiltrate sensitive data from a network, bypass firewalls and intrusion detection systems, or establish covert channels for command and control of malware.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=132)** Attackers can use DNS tunneling to exfiltrate sensitive data from a network, bypass firewalls and [[Intrusion Detection]] systems, or establish covert channels for command and control of malware.
 >
-> **[2:27](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=147)** Now, what I'd like to do is show you a DNS tunnel capture, and then compare it with a regular capture in Wireshark.
+> **[2:27](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=147)** Now, what I'd like to do is show you a DNS tunnel capture, and then compare it with a regular capture in [[Wireshark]].
 >
 > **[2:35](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=155)** First, I'm at the DNS tunnel attack capture.
 >
@@ -1218,7 +1198,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=177)** But let's see how much time has passed.
 >
-> **[3:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=180)** We'll go to Statistics, Capture File Properties, and we'll see that only 24 seconds have passed.
+> **[3:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=180)** We'll go to [[Statistics]], Capture File Properties, and we'll see that only 24 seconds have passed.
 >
 > **[3:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/identifying-adversary-behavior?u=76281980&t=188)** Now, I'll show you a regular capture.
 >
@@ -1252,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (17), data (6), [[Statistics]] (4), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Tokens]] (1), [[Network Security]] (1), [[Intrusion Detection]] (1), [[Wireshark]] (1)
 > **Env Vars:** dns (17)
 > **UI Navigation:** go to (3), scroll down (2)
 > **Tools:** command line (2)
@@ -1261,14 +1241,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering indicators of compromise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980)
+#### [Discovering indicators of compromise](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=0)** - [Instructor] Indicators of compromise or IoCs represents forensic evidence that a cyber threat may have infiltrated a system.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=10)** In this segment, we'll review some categories of IoCs along with viewing an example using Wireshark.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=10)** In this segment, we'll review some categories of IoCs along with viewing an example using [[Wireshark]].
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=18)** IoCs can be grouped according to the type of indicators the evidence represents.
 >
@@ -1278,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=33)** For instance, a hash, file name or other artifacts, such as email addresses, registry keys, or configuration files.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=43)** Network-oriented indicators include IP addresses, domain names, or URLs that are related to malicious sites, such as malware or phishing sites.
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=43)** Network-oriented indicators include IP addresses, domain names, or URLs that are related to malicious sites, such as malware or [[Phishing]] sites.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/discovering-indicators-of-compromise?u=76281980&t=56)** You could also see behavioral indicators.
 >
@@ -1358,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), next (2), [[Wireshark]] (1), [[Phishing]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Phishing]] (1)
 > **Env Vars:** pcap (1), suricata (1), smtp (1), ssl (1), dns (1)
 > **UI Navigation:** go to (3), scroll down (2), select the (1)
 > **Analogies:** such as (3), for instance (1), for example (1)
@@ -1366,8 +1345,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The cyber kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-the-cyber-kill-chain?u=76281980)
+#### [Challenge: The cyber kill chain](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-the-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,14 +1373,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: The cyber kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980)
+#### [Solution: The cyber kill chain](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,11 +1412,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=95)** Let's start with weaponization.
 >
-> **[1:37](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=97)** Now, ransomware uses a number of different payloads to bypass anti-malware protections and convince users to run the malicious code, such as using an image or a macro embedded Word doc.
+> **[1:37](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=97)** Now, ransomware uses a number of different payloads to bypass anti-malware protections and convince users to run the malicious code, such as using an image or a macro embedded [[Microsoft Word|Word]] doc.
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=111)** So for weaponization, they use script-based ransomware and delivery payload diversification.
 >
-> **[1:58](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=118)** The delivery they used social engineering including phishing and spear phishing attacks.
+> **[1:58](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=118)** The delivery they used social engineering including [[Phishing]] and spear phishing attacks.
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-the-cyber-kill-chain?u=76281980&t=125)** For exploitation, they used an exploit kit and a targeted exploitation.
 >
@@ -1454,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), next (1), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
@@ -1465,8 +1441,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-risks?u=76281980)
+#### [Managing risks](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,14 +1501,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Security]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asset inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980)
+#### [Asset inventory](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1518,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=23)** Assets include tangible assets, such as printers, servers, infrastructure devices, and workstations.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=32)** There's also intangible assets, such as trade secrets, databases, and company records.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=32)** There's also intangible assets, such as trade secrets, [[Databases]], and company records.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=40)** Knowing what assets that you have is essential.
 >
@@ -1555,7 +1528,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=60)** Once done, the next step is to develop and implement policies and procedures to protect the assets.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=67)** For this task, the team will need to inventory all assets and then assign a business value based on how critical they are to business operations.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=67)** For this task, the team will need to inventory all assets and then assign a business value based on how critical they are to [[Business Operations]].
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=79)** Many times, this is part of a compliance requirement.
 >
@@ -1575,9 +1548,9 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=154)** However, I did find one that will help you understand the process.
 >
-> **[2:39](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=159)** I'm here at the Center for Internet Security website and I downloaded the CIS hardware and software asset tracking spreadsheet.
+> **[2:39](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=159)** I'm here at the Center for Internet Security website and I downloaded the CIS [[Hardware]] and software asset tracking spreadsheet.
 >
-> **[2:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=169)** To download this, select this link, and then you can open it in Excel.
+> **[2:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=169)** To download this, select this link, and then you can open it in [[Microsoft Excel|Excel]].
 >
 > **[2:55](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/asset-inventory?u=76281980&t=175)** Once open, we see that there's a lot of information.
 >
@@ -1615,7 +1588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (3), [[Databases]] (2), [[Hardware]] (2), database (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Hardware]] (2), [[Business Operations]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pci (3), dss (3), cis (1)
 > **Analogies:** for example (4), such as (3)
 > **CLI Commands:** find (1), make (1)
@@ -1624,16 +1597,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining information security standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980)
+#### [Defining information security standards](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=0)** - [Instructor] Security standards provide guidelines so that companies deliver due care and due diligence to ensure data privacy and security.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=0)** - [Instructor] Security standards provide guidelines so that companies deliver due care and due diligence to ensure [[Data Privacy]] and security.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=10)** In this segment, we'll outline the main elements of FISMA along with ISO/IEC 27001.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=19)** Whether you're dealing with a large multinational company, or a small business providing data security involves the entire organization.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=19)** Whether you're dealing with a large multinational company, or a small business providing [[Data Security]] involves the entire organization.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=29)** As a security specialist, there are many functions you'll need to complete throughout your day.
 >
@@ -1669,7 +1641,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=188)** Although the guidelines are designed to provide a roadmap for US government agencies everyone is encouraged to reference the standards to learn how to secure digital data.
 >
-> **[3:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=199)** For more information, visit this page here at [nist.org](https://nist.org).
+> **[3:19](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=199)** For more information, visit this page here at [[[NIST]].org](https://nist.org).
 >
 > **[3:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/defining-information-security-standards?u=76281980&t=205)** Now, let's test your knowledge.
 >
@@ -1681,7 +1653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), data (3), management (3), [[Privacy]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Data Security]] (1), [[NIST]] (1)
 > **Env Vars:** fisma (4), iso (4), iec (4)
 > **CLI Commands:** find (1)
 > **URLs:** [nist.org](https://nist.org) (1)
@@ -1690,8 +1662,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outlining US regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980)
+#### [Outlining US regulations](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,9 +1676,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=40)** As long as a service provider follows certain procedures, such as promptly removing the content upon receiving a valid notice, they won't be held liable for copyright infringement.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=52)** Another US-based law is the Health Insurance Portability and Accountability Act, which governs security practices that safeguard all patient electronic-protected health information in US medical facilities.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=52)** Another US-based law is the Health Insurance Portability and [[Accountability]] Act, which governs security practices that safeguard all patient electronic-protected health information in US medical facilities.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=68)** HIPAA requires all personally identifiable healthcare information to be stored, maintained, and transmitted in ways that ensure patient privacy and confidentiality.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=68)** HIPAA requires all personally identifiable healthcare information to be stored, maintained, and transmitted in ways that ensure patient [[Privacy]] and confidentiality.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=81)** Any breach activity must be immediately reported to the covered individual, and anyone who is in violation of the policies and procedures will face penalties.
 >
@@ -1729,9 +1700,9 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=183)** The Enron scandal is what pushed the American public and Congress to recognize the need for new compliance standards for public accounting and auditing.
 >
-> **[3:14](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=194)** Although SOX has many sections, sections 301 and 404 deal with information assurance and data integrity.
+> **[3:14](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=194)** Although SOX has many sections, sections 301 and 404 deal with information assurance and [[Data Integrity]].
 >
-> **[3:23](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=203)** Provisions include: all companies must monitor and manage all data and financial transactions and provide an annual report on what internal controls are in place, and to test to ensure that the methods are effective, and financial reports must be accurate and complete with no evidence of unauthorized transactions or data manipulation.
+> **[3:23](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=203)** Provisions include: all companies must monitor and manage all data and financial transactions and provide an annual report on what internal controls are in place, and to test to ensure that the methods are effective, and financial reports must be accurate and complete with no evidence of unauthorized transactions or [[Data Manipulation]].
 >
 > **[3:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-us-regulations?u=76281980&t=229)** Now, let's test your knowledge.
 >
@@ -1743,15 +1714,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), [[Accountability]] (1), [[Privacy]] (1), management (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Privacy]] (1), [[Data Integrity]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** sox (5), hipaa (3), ceo (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [main (1)
 
-#### Exploring global cyber laws and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980)
+#### [Exploring global cyber laws and standards](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1731,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=20)** Let's start with a discussion on the general data protection regulation.
 >
-> **[0:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=25)** GDPR is a comprehensive data privacy law that gives consumers the ability to control how their data is handled.
+> **[0:25](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=25)** GDPR is a comprehensive [[Data Privacy]] law that gives consumers the ability to control how their data is handled.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=34)** The law affects companies located in and outside the European Union, and companies can face up to 4% of total global turnover if they breach the rules.
 >
@@ -1773,7 +1743,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=62)** Just as the consumer can give consent for a company to use their information, they can opt out at any time, which puts control back into the hands of the consumer.
 >
-> **[1:14](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=74)** Restricted data collection.
+> **[1:14](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=74)** Restricted [[Data Collection]].
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=77)** Organizations should collect only the minimal amount of data that is needed to interact with the site.
 >
@@ -1791,7 +1761,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=137)** Organizations must obtain valid consent from individuals before collecting, processing, or sharing personal data, and must have appropriate security measures in place to protect data from unauthorized access, disclosure, or loss.
 >
-> **[2:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=154)** Payment Card Industry Data Security Standard is a set of widely-accepted requirements to secure credit card transactions.
+> **[2:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=154)** Payment Card Industry [[Data Security]] Standard is a set of widely-accepted requirements to secure credit card transactions.
 >
 > **[2:43](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/exploring-global-cyber-laws-and-standards?u=76281980&t=163)** PCI DSS specifies conditions for the secure handling of customer credit card data, and dictates how the information is to be stored, transmitted, and removed.
 >
@@ -1809,19 +1779,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Security]] (2), [[Privacy]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Data Collection]] (1), [[Data Security]] (1)
 > **Env Vars:** gdpr (5), pci (3), dss (3), pcidss (1), dpa (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Cyber threat information sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-cyber-threat-information-sharing?u=76281980)
+#### [Challenge: Cyber threat information sharing](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-cyber-threat-information-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-cyber-threat-information-sharing?u=76281980&t=5)** - [Instructor] Let's do a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-cyber-threat-information-sharing?u=76281980&t=7)** In this challenge, we'll review key elements of NIST Special Publication 800-150.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-cyber-threat-information-sharing?u=76281980&t=7)** In this challenge, we'll review key elements of [[NIST]] Special Publication 800-150.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/challenge-cyber-threat-information-sharing?u=76281980&t=15)** For this challenge, you'll go to this site, and there, you'll see "Guide to Cyber Threat Information Sharing."
 >
@@ -1847,14 +1816,13 @@ created: 2026-05-02
 > **Env Vars:** nist (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Cyber threat information sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980)
+#### [Solution: Cyber threat information sharing](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=5)** - [Narrator] Okay. Now let's check our work.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=8)** In this response, we'll review key elements of NIST, Special Publication 801-50.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=8)** In this response, we'll review key elements of [[NIST]], Special Publication 801-50.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=16)** First, we'll define the five main types of threat information.
 >
@@ -1884,13 +1852,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=125)** Malicious actors are continually changing their methods and procedures.
 >
-> **[2:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=130)** Sharing information helps keep on top of the latest tactics, techniques, and procedures and reduce the probability of a successful attack.
+> **[2:10](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=130)** Sharing information helps keep on top of the latest tactics, techniques, and procedures and reduce the [[Probability]] of a successful attack.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/solution-cyber-threat-information-sharing?u=76281980&t=141)** I hope you enjoyed this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[NIST]] (1), next (1), management (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Probability]] (1)
 > **Env Vars:** nist (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
@@ -1900,8 +1868,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing attack types and motives
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980)
+#### [Comparing attack types and motives](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1931,7 +1898,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980&t=94)** First, let's talk about low tech methods.
 >
-> **[1:38](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980&t=98)** Low tech are mostly non-digital attacks, and those include physical attacks, which involve theft, destruction, or tampering with computers, network hardware, or devices, or even cutting a fiber optic backbone, and social engineering attacks, which use various non-technical methods to trick people to give up information.
+> **[1:38](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980&t=98)** Low tech are mostly non-digital attacks, and those include physical attacks, which involve theft, destruction, or tampering with computers, network [[Hardware]], or devices, or even cutting a fiber optic backbone, and social engineering attacks, which use various non-technical methods to trick people to give up information.
 >
 > **[2:03](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980&t=123)** However, many are high tech attacks using digital methods, and those include malware, buffer overflow, and password attacks, man in the middle attacks, or distributed denial of service attacks.
 >
@@ -1959,12 +1926,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Hardware]] (1), [[Engineering]] (1), database (1), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Analogies:** such as (5)
 > **Speakers:** - [instructor] (1)
 
-#### Outlining the types of hackers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-the-types-of-hackers?u=76281980)
+#### [Outlining the types of hackers](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-the-types-of-hackers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1978,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-the-types-of-hackers?u=76281980&t=174)** We see the public web, which is visible to anyone.
 >
-> **[2:58](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-the-types-of-hackers?u=76281980&t=178)** Content is found easily using search engines, such as Google or Bing and it's monitored by the government.
+> **[2:58](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-the-types-of-hackers?u=76281980&t=178)** Content is found easily using search engines, such as [[Google]] or Bing and it's monitored by the government.
 >
 > **[3:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/outlining-the-types-of-hackers?u=76281980&t=185)** That deep web cannot be searched or accessed easily because it's protected by passwords or has meta tags so that robots don't follow the pages.
 >
@@ -2034,17 +2000,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Security]] (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognizing the skills of an ethical hacker
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980)
+#### [Recognizing the skills of an ethical hacker](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=0)** - [Narrator] In order to be exceptional at ethical hacking, an individual must have a wide range of technical and non-technical skills.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=0)** - [Narrator] In order to be exceptional at [[Ethical Hacking]], an individual must have a wide range of technical and non-technical skills.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=9)** In this segment, we'll list some of the necessary skills and outline the scope and limitations of ethical hacking.
 >
@@ -2054,15 +2019,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=27)** As a result, the ethical hacker must possess several technical skills.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=32)** Technical skills include a comprehensive knowledge on operating systems that include Windows, Linux, Unix, and Android.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=32)** Technical skills include a comprehensive knowledge on operating systems that include [[Windows]], [[Linux]], Unix, and [[Android]].
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=42)** They should have a broad knowledge of networking devices such as routers, switches, and firewalls.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=49)** Another key skill is proficiency with scripting languages, including Python, Bash, and PowerShell.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=49)** Another key skill is proficiency with scripting languages, including [[Python (Programming Language)|Python]], Bash, and [[Powershell]].
 >
-> **[0:56](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=56)** A solid knowledge of cloud and container environments is also essential, along with tools used to identify and exploit vulnerabilities such as Nmap, Nessus, and Wireshark.
+> **[0:56](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=56)** A solid knowledge of cloud and container environments is also essential, along with tools used to identify and exploit vulnerabilities such as [[Nmap]], Nessus, and [[Wireshark]].
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=69)** In addition to technical skills, the team will need several non-technical or soft skills so they can communicate and interact effectively with one another and the client.
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=69)** In addition to technical skills, the team will need several non-technical or [[Soft Skills]] so they can communicate and interact effectively with one another and the client.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=81)** Some of the soft skills the team will need include the ability to communicate effectively and explain technical concepts in a clear and concise manner.
 >
@@ -2072,9 +2037,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=110)** They need to be patient and persistent during testing and be willing to try different methods and techniques to achieve their goals.
 >
-> **[1:59](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=119)** And they must remain committed to continuous learning to stay up to date with the latest trends and techniques in cybersecurity by attending conferences, workshops, and training to improve their skills.
+> **[1:59](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=119)** And they must remain committed to continuous learning to stay up to date with the latest trends and techniques in [[Cybersecurity]] by attending conferences, workshops, and training to improve their skills.
 >
-> **[2:13](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=133)** Most importantly, an ethical hacker must adhere to a strict code of ethics and maintain the highest standards of integrity.
+> **[2:13](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=133)** Most importantly, an ethical hacker must adhere to a strict code of [[Ethics]] and maintain the highest standards of integrity.
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-the-skills-of-an-ethical-hacker?u=76281980&t=143)** Throughout the course of the pen test process, the team may expose sensitive information or discover system vulnerabilities.
 >
@@ -2110,12 +2075,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Stepping through the hacking phases
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980)
+#### [Stepping through the hacking phases](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=0)** - [Tutor] An ethical hacking exercise typically goes through five phases.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=0)** - [Tutor] An [[Ethical Hacking]] exercise typically goes through five phases.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=5)** In this segment, we'll review the main phases and what happens during each phase.
 >
@@ -2167,7 +2131,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=174)** So before leaving, the final phase is to clean up any evidence and cover any tracks or trace of any activity on the machine you were working on.
 >
-> **[3:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=185)** To clean up evidence in Linux, you can do a couple of things.
+> **[3:05](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=185)** To clean up evidence in [[Linux]], you can do a couple of things.
 >
 > **[3:09](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=189)** In Linux, log files are stored in the VAR log directory.
 >
@@ -2177,7 +2141,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=215)** In addition, you'll want to take steps to clear log files from any Window systems.
 >
-> **[3:41](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=221)** To clear the application system and security logs on a Window system, you can use Metasploit and then issue the command meterpreter, clear everything or you can go to the event viewer and then clear each file individually.
+> **[3:41](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=221)** To clear the application system and security logs on a Window system, you can use [[Metasploit]] and then issue the command meterpreter, clear everything or you can go to the event viewer and then clear each file individually.
 >
 > **[3:57](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/stepping-through-the-hacking-phases?u=76281980&t=237)** I'm here in the event viewer, and over here we see the application, the security and the system logs, and we'll go to the security log.
 >
@@ -2197,7 +2161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Ethical Hacking]] (2), data (2), [[Linux]] (2), application (2)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Linux]] (2), [[Metasploit]] (1)
 > **Env Vars:** tcp (2), var (1)
 > **Best Practices:** the key is (3)
 > **CLI Commands:** make (1), find (1)
@@ -2206,12 +2170,11 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1), install (1)
 > **Analogies:** for example (1)
 
-#### Grasping the importance of ethical hacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/grasping-the-importance-of-ethical-hacking?u=76281980)
+#### [Grasping the importance of ethical hacking](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/grasping-the-importance-of-ethical-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/grasping-the-importance-of-ethical-hacking?u=76281980&t=0)** - [Instructor] Ethical hacking, also known as penetration testing or pen testing, is the practice of evaluating the security of computers, networks, and applications.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/grasping-the-importance-of-ethical-hacking?u=76281980&t=0)** - [Instructor] [[Ethical Hacking]], also known as [[Penetration Testing]] or pen testing, is the practice of evaluating the security of computers, networks, and applications.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/grasping-the-importance-of-ethical-hacking?u=76281980&t=12)** In this segment, we'll review the importance of ethical hacking and testing and networks' defenses.
 >
@@ -2271,7 +2234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (8), [[Penetration Testing]] (1), [[Security]] (1), next (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (8), [[Penetration Testing]] (1)
 > **Analogies:** such as (3), picture (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -2282,14 +2245,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching.
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980&t=2)** In this course, I introduced you to ethical hacking, one of the most effective ways to test the strength of an organization's defenses.
+> **[0:02](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980&t=2)** In this course, I introduced you to [[Ethical Hacking]], one of the most effective ways to test the strength of an organization's defenses.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980&t=12)** I began by stressing the importance of providing confidentiality, integrity, and availability.
 >
@@ -2309,7 +2271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (2), power (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Env Vars:** mitre (1), att (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

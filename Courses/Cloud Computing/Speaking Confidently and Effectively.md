@@ -56,8 +56,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Great speaking skills are a must-have
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980)
+#### [Great speaking skills are a must-have](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=87)** - [Diane] I'll give you the first one that comes to mind which was not my typical client but she was a second year law student, and this woman was very nervous about speaking in class and she was thinking of dropping out of law school.
 >
-> **[1:39](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=99)** So what she would do is she'd raise her hand, ask a question so that professor wouldn't call on her for the rest of the time.
+> **[1:39](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=99)** So what she would do is she'd raise her hand, ask a question so that professor wouldn't call on her for the [[Representational State Transfer (REST)|rest]] of the time.
 >
 > **[1:45](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980&t=105)** Now we only had four sessions, but within those four sessions I was able to reframe her thinking and give her some basic tools that gave her the confidence.
 >
@@ -149,14 +148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), leadership (1), career (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [pete] (3), - [diane] (3), - [woman] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), it's like (1)
 > **CLI Commands:** make (1)
 
-#### Give your audience only what they need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/give-your-audience-only-what-they-need-to-know?u=76281980)
+#### [Give your audience only what they need to know](https://www.linkedin.com/learning/speaking-confidently-and-effectively/give-your-audience-only-what-they-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,8 +249,7 @@ created: 2026-05-02
 > **Speakers:** - [interviewer] (2), - [respondent] (2)
 > **Tools:** notion (2)
 
-#### Identify a need or challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/identify-a-need-or-challenge?u=76281980)
+#### [Identify a need or challenge](https://www.linkedin.com/learning/speaking-confidently-and-effectively/identify-a-need-or-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,15 +345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - [man] (6), - [woman] (5)
 > **Analogies:** picture (2), it's like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Change your focus to calm your nerves
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980)
+#### [Change your focus to calm your nerves](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=59)** Now there's no excuse or substitute for lack of preparation.
 >
-> **[1:04](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=64)** I can't do anything if you don't prepare, but assuming that you know your message and you've practiced and you've prepared, the rest is just mindset, going out there, doing it.
+> **[1:04](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=64)** I can't do anything if you don't prepare, but assuming that you know your message and you've practiced and you've prepared, the [[Representational State Transfer (REST)|rest]] is just mindset, going out there, doing it.
 >
 > **[1:14](https://www.linkedin.com/learning/speaking-confidently-and-effectively/change-your-focus-to-calm-your-nerves?u=76281980&t=74)** Now, the other thing is people think that they shouldn't be nervous.
 >
@@ -419,8 +414,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [female (1)
 
-#### Your audience wants you to succeed
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/your-audience-wants-you-to-succeed?u=76281980)
+#### [Your audience wants you to succeed](https://www.linkedin.com/learning/speaking-confidently-and-effectively/your-audience-wants-you-to-succeed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,14 +474,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - [diane] (2), - [pete] (2)
 > **Tools:** notion (1)
 > **Analogies:** for example (1)
 
-#### Align your body, tone, and words
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/align-your-body-tone-and-words?u=76281980)
+#### [Align your body, tone, and words](https://www.linkedin.com/learning/speaking-confidently-and-effectively/align-your-body-tone-and-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,11 +535,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Speakers:** - [female (3), - [male (2)
 
-#### Project power with body language
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980)
+#### [Project power with body language](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +571,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=73)** You want to have gestures, but you don't want to be in perpetual motion.
 >
-> **[1:16](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=76)** So have a rest position that you can come back to.
+> **[1:16](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=76)** So have a [[Representational State Transfer (REST)|rest]] position that you can come back to.
 >
 > **[1:19](https://www.linkedin.com/learning/speaking-confidently-and-effectively/project-power-with-body-language?u=76281980&t=79)** - [Man] Certainly.
 >
@@ -611,12 +601,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [woman] (4), - [man] (2), - or (1)
 > **CLI Commands:** make (5)
 
-#### Speak in sync with your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/speak-in-sync-with-your-audience?u=76281980)
+#### [Speak in sync with your audience](https://www.linkedin.com/learning/speaking-confidently-and-effectively/speak-in-sync-with-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,12 +669,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Speakers:** - in (1), - you (1)
 > **Analogies:** such as (1)
 
-#### Plan for your biggest fears
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/plan-for-your-biggest-fears?u=76281980)
+#### [Plan for your biggest fears](https://www.linkedin.com/learning/speaking-confidently-and-effectively/plan-for-your-biggest-fears?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,13 +732,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Speakers:** - [interviewer] (1), - [interviewee] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 
-#### Three ways to handle difficult questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/three-ways-to-handle-difficult-questions?u=76281980)
+#### [Three ways to handle difficult questions](https://www.linkedin.com/learning/speaking-confidently-and-effectively/three-ways-to-handle-difficult-questions?u=76281980)
 
 > [!transcript]- Transcript
 >

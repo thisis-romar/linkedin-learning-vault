@@ -64,18 +64,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An affordable, multimodal, low latency, large context model
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980)
+#### [An affordable, multimodal, low latency, large context model](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=0)** - There's lots of features that make Google Gemini Flash a compelling model if you're building ad tools.
+> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=0)** - There's lots of features that make [[Google Gemini]] Flash a compelling model if you're building ad tools.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=6)** This is a full featured API that is multimodal from the ground up.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=10)** They can comprehend documents from input types like code, audio, and video.
 >
-> **[0:15](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=15)** Gemini Pro gives developers the ability to handle a massive million token context window size, which lets you prompt large documents as well as other file types.
+> **[0:15](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=15)** [[Gemini]] Pro gives developers the ability to handle a massive million token context window size, which lets you prompt large documents as well as other file types.
 >
 > **[0:25](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980&t=25)** What makes Flash stand out against other models is sub-second results.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Gemini]] (2), [[Google Gemini]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Google Gemini]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 > **Versions:** 1.5 (1)
@@ -107,16 +106,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The technology behind Gemini Flash
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980)
+#### [The technology behind Gemini Flash](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=0)** - Flash is part of the Gemini family of models from Google.
+> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=0)** - Flash is part of the [[Gemini]] family of models from [[Google]].
 >
 > **[0:03](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=3)** You can find all of Google's API offerings at ai.[google.dev](https://google.dev), and then click on Gemini API.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=10)** Right now there are four different options for Google Gemini, let's talk about the other options first.
+> **[0:10](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=10)** Right now there are four different options for [[Google Gemini]], let's talk about the other options first.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=15)** Nano is the smallest mat for edge computing.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=34)** Then there's Pro, that's a capable model with an extremely large context window, which is the size of the memory that the computer can use to hold information in.
 >
-> **[0:45](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=45)** A million tokens can handle about an hour's worth of video, 11 hours of audio or a few large books.
+> **[0:45](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=45)** A million [[Tokens]] can handle about an hour's worth of video, 11 hours of audio or a few large books.
 >
 > **[0:51](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980&t=51)** If you're a developer, you can also request access to a two million token context window for testing, so that would double its capacity, but technically these models are capable of handling up to a 10 million token context window.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (14), [[Google]] (5), [[Gemini]] (4), api (2), ai (2)
+> **Frameworks & Libraries:** [[Tokens]] (14), [[Google]] (5), [[Gemini]] (4), [[Google Gemini]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), gpt (1)
 > **Versions:** 1.05 (1), 2.10 (1)
@@ -193,12 +191,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - flash (1)
 
-#### Testing the model in Google AI Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980)
+#### [Testing the model in Google AI Studio](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=0)** - You can find Flash in either Google AI Studio or Vertex AI.
+> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=0)** - You can find Flash in either [[Google]] AI Studio or [[Vertex]] AI.
 >
 > **[0:04](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=4)** I'm going to work with Google AI Studio, it's by far the simplest.
 >
@@ -218,9 +215,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=52)** So let's try something simple to get started.
 >
-> **[0:54](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=54)** Tell me about LinkedIn Learning and I'll hit this run button.
+> **[0:54](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=54)** Tell me about [[LinkedIn]] Learning and I'll hit this run button.
 >
-> **[0:57](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=57)** You can see how fast Gemini Flash is especially if you compare it to other models.
+> **[0:57](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=57)** You can see how fast [[Gemini]] Flash is especially if you compare it to other models.
 >
 > **[1:02](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=62)** AI Studio is made for developers so there are some really important features here.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=88)** Notice that there are options for other variables here, like the safety settings and advanced settings.
 >
-> **[1:34](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=94)** There's a really great option in here for sending the output in the JSON format, which makes it easier for any programs that you may be writing.
+> **[1:34](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=94)** There's a really great option in here for sending the output in the [[JSON]] format, which makes it easier for any programs that you may be writing.
 >
 > **[1:42](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=102)** Let's try to run this same query in different models so we can see how fast Flash can be.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=112)** You can see that it's visually a lot slower.
 >
-> **[1:54](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=114)** This query ran for longer with a different amount of tokens.
+> **[1:54](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=114)** This query ran for longer with a different amount of [[Tokens]].
 >
 > **[1:59](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=119)** You can't really rely on the number of tokens that you get back with different responses because these models are non-deterministic, which means they're going to give you a different answer every time.
 >
@@ -288,7 +285,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=229)** Finally, you can have the AI Studio create some sample code for you to run this prompt.
 >
-> **[3:55](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=235)** So if we click on get code right here, you can see that there are versions for JavaScript, Python, Kotlin, and Swift.
+> **[3:55](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=235)** So if we click on get code right here, you can see that there are versions for [[JavaScript]], [[Python (Programming Language)|Python]], [[Kotlin]], and [[Swift (Programming Language)|Swift]].
 >
 > **[4:02](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/testing-the-model-in-google-ai-studio?u=76281980&t=242)** And what's nice about this is that it does give you some instructions for what you need to do to install this module, as well as where to put the different parameters that you need to run the prompts.
 >
@@ -296,7 +293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), ai (7), hit (5), [[Gemini]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (2), [[Tokens]] (2), [[Vertex]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1), python (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** json (1)
@@ -305,16 +302,15 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 
-#### Large context windows with the Gemini API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980)
+#### [Large context windows with the Gemini API](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=0)** - Let's take a look at some large context documents and see how well Google Gemini Flash does.
+> **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=0)** - Let's take a look at some large context documents and see how well [[Google Gemini]] Flash does.
 >
-> **[0:04](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=4)** We'll see if Gemini Flash can pick up a specific bit of information from some very large PDFs.
+> **[0:04](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=4)** We'll see if [[Gemini]] Flash can pick up a specific bit of information from some very large PDFs.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=10)** I'm going to upload some volumes of a large encyclopedia from my Google Drive and then add them to Gemini Flash.
+> **[0:10](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=10)** I'm going to upload some volumes of a large encyclopedia from my [[Google Drive]] and then add them to Gemini Flash.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=17)** That's going to help you get the files faster, especially if you need to do new queries on the same document.
 >
@@ -336,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=55)** Once they finish loading, you should see the token count go significantly up.
 >
-> **[0:59](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=59)** It's at about 563,000 tokens.
+> **[0:59](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=59)** It's at about 563,000 [[Tokens]].
 >
 > **[1:02](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/large-context-withdows-with-the-gemini-api?u=76281980&t=62)** Let's go ahead and try our prompt.
 >
@@ -420,37 +416,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Gemini]] (4), hit (3), [[Google Drive]] (2), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google Drive]] (2), [[Tokens]] (2), [[Google Gemini]] (1)
 > **Versions:** 1.5 (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Building apps with the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980)
+#### [Building apps with the API](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=0)** - I want to do something that's useful but simple.
 >
-> **[0:02](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=2)** I built a project that will help me create alt tags for images using the vision model in Gemini Flash, and starting with just a folder for the project with an images folder inside that that has three images.
+> **[0:02](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=2)** I built a project that will help me create alt tags for images using the vision model in [[Gemini]] Flash, and starting with just a folder for the project with an images folder inside that that has three images.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=15)** By the way, one thing you want to do is to resize your images.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=18)** The larger the files, the more tokens you'll use, and the vision model doesn't need a ton of resolution to work anyways.
+> **[0:18](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=18)** The larger the files, the more [[Tokens]] you'll use, and the vision model doesn't need a ton of resolution to work anyways.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=26)** Before we get too far, you're also going to need to have an API key.
 >
 > **[0:29](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=29)** You can get to those in AI Studio by clicking on the API key button.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=34)** Before you can create an API key, though, you'll need to have a Google Cloud account, I'm going to assume that you've already set that up before we go further.
+> **[0:34](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=34)** Before you can create an API key, though, you'll need to have a [[Google Cloud Platform (GCP)|Google Cloud]] account, I'm going to assume that you've already set that up before we go further.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=42)** I'm going to go to my console and then I'm going to click on this dropdown right here, and then hit New Project.
 >
 > **[0:49](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=49)** I'll call it Gemini-Flash-Test, and then hit the Create button.
 >
-> **[0:52](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=52)** This will take a second to create, and now you can go into Google AI Studio, and you probably want to refresh your screen right here, and I'll hit Create API key.
+> **[0:52](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=52)** This will take a second to create, and now you can go into [[Google]] AI Studio, and you probably want to refresh your screen right here, and I'll hit Create API key.
 >
 > **[1:02](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=62)** So from here, you'll see Gemini-Flash-Test, and then I'll click on Generate API key.
 >
@@ -466,13 +461,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=88)** I'll give it a name of .env and I'll add the key like this.
 >
-> **[1:33](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=93)** Now, before I do anything else, I want to make sure that if I'm using Git, this file doesn't get tracked or uploaded, so I'll need to create a gitignore file here.
+> **[1:33](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=93)** Now, before I do anything else, I want to make sure that if I'm using [[Git]], this file doesn't get tracked or uploaded, so I'll need to create a gitignore file here.
 >
 > **[1:41](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=101)** I'll add a few extra things in there, as well as the name of what will eventually be my output document.
 >
 > **[1:47](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=107)** Next, I need to make sure that there's a couple of libraries installed to make sure my project works.
 >
-> **[1:51](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=111)** I'm assuming you've already installed Python and have worked with Python projects before.
+> **[1:51](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=111)** I'm assuming you've already installed [[Python (Programming Language)|Python]] and have worked with Python projects before.
 >
 > **[1:55](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=115)** It'll be pip install -q, so it's a quiet installation, and -U, so that it's the latest version of these tools.
 >
@@ -508,11 +503,11 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=211)** Finally, I'll need to make sure that I'm looping through all of the image file names.
 >
-> **[3:37](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=217)** Now it's time to work with Google Gemini to generate all of these different alt tags.
+> **[3:37](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=217)** Now it's time to work with [[Google Gemini]] to generate all of these different alt tags.
 >
 > **[3:40](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=220)** Let's go ahead and generate the file for our project.
 >
-> **[3:44](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=224)** As I mentioned, I'm going to call it alt_tags.html, and it's going to write that into a file, and we'll go ahead and create a temporary image called load_image and go through the array called load_images that we created earlier up here.
+> **[3:44](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=224)** As I mentioned, I'm going to call it alt_tags.[[HTML]], and it's going to write that into a file, and we'll go ahead and create a temporary image called load_image and go through the array called load_images that we created earlier up here.
 >
 > **[3:59](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=239)** I'm going to go through the list of paths and feed it into this list.
 >
@@ -530,7 +525,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=288)** Each image should have its corresponding alt tag that the model did for us.
 >
-> **[4:53](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=293)** If you want to play around with the finished version of this project, check out the GitHub repo included with this course.
+> **[4:53](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=293)** If you want to play around with the finished version of this project, check out the [[GitHub]] repo included with this course.
 >
 > **[4:59](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/building-apps-with-the-api?u=76281980&t=299)** When you open it, just make sure that you add your own .env file with your Gemini key.
 >
@@ -540,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (9), api (8), [[Python (Programming Language)|Python]] (5), next (4), ai (3)
+> **Frameworks & Libraries:** [[Gemini]] (9), [[Python (Programming Language)|Python]] (5), [[Google]] (2), [[HTML]] (2), [[Tokens]] (1)
 > **CLI Commands:** make (10), python (5), git (1), pip (1)
 > **Env Vars:** api (8), mime (1), img (1), html (1)
 > **Code Identifiers:** load_images (2), alt_tags (1), load_image (1), relative_path (1)

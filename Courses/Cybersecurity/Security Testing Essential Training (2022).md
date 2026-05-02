@@ -128,12 +128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of security testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980)
+#### [The importance of security testing](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980&t=0)** - [Jerod] Hey there, I'm Jerod Brennan and welcome to Learning Security Testing.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980&t=0)** - [Jerod] Hey there, I'm Jerod Brennan and welcome to Learning [[Security Testing]].
 >
 > **[0:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980&t=5)** I put this course together to help you learn the skills and the tools that you'll need in order to test information security controls in a business environment.
 >
@@ -147,18 +146,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), business (1)
+> **Frameworks & Libraries:** [[Security Testing]] (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [jerod] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is intended to be a broad introduction to security testing.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is intended to be a broad introduction to [[Security Testing]].
 >
-> **[0:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=6)** Will we be going into penetration testing in depth, learning how to write Python exploit code from scratch?
+> **[0:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=6)** Will we be going into [[Penetration Testing]] in depth, learning how to write [[Python (Programming Language)|Python]] exploit code from scratch?
 >
 > **[0:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=13)** I'm afraid not.
 >
@@ -168,9 +166,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=42)** If you want to get the most that you can out of this course, you'll want to follow along with the demos in your own lab environment.
 >
-> **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=50)** Personally, I prefer to do all my training and testing using a small collection of virtual machines, maybe some cloud services, and this course is no exception.
+> **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=50)** Personally, I prefer to do all my training and testing using a small collection of [[Virtual Machines]], maybe some [[Cloud Services]], and this course is no exception.
 >
-> **[1:02](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=62)** If you don't have access to a laptop or a workstation, capable of running a hypervisor, Kali Linux, and at least one other virtual machine, no worries.
+> **[1:02](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=62)** If you don't have access to a laptop or a workstation, capable of running a hypervisor, [[Kali Linux]], and at least one other virtual machine, no worries.
 >
 > **[1:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/what-you-should-know?u=76281980&t=73)** You'll still gain a lot from this course by watching it from beginning to end.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Virtual Machines]] (2), [[Penetration Testing]] (1), [[Python (Programming Language)|Python]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Security Testing]] (1), [[Penetration Testing]] (1), [[Python (Programming Language)|Python]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -197,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Language is important
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980)
+#### [Language is important](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,9 +215,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980&t=53)** And that false sense of security can lead to an interruption in production services, one that could have easily been avoided.
 >
-> **[1:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980&t=61)** What's worse, it could lead to a data breach that requires public disclosure, a breach that impacts the people who rely on the services or products that the organization provides and it can all be traced back to a lack of understanding when it comes to security language.
+> **[1:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980&t=61)** What's worse, it could lead to a data breach that requires public disclosure, a breach that impacts the people who rely on the services or [[Microsoft Products|products]] that the organization provides and it can all be traced back to a lack of understanding when it comes to security language.
 >
-> **[1:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980&t=81)** In my experience, I found that there are five distinct types of assessments that an information security professional like you should be able to perform, a risk assessment, a security controls assessment, a compliance assessment, a vulnerability assessment and a penetration test.
+> **[1:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980&t=81)** In my experience, I found that there are five distinct types of assessments that an information security professional like you should be able to perform, a risk assessment, a security controls assessment, a compliance assessment, a [[Vulnerability Assessment]] and a penetration test.
 >
 > **[1:43](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980&t=103)** While all five assessment types center around information, security and risk management, the goals of each assessment and the techniques used to conduct each assessment are slightly different.
 >
@@ -230,13 +227,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), management (2), leadership (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Vulnerability Assessment]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/risk-assessments?u=76281980)
+#### [Risk assessments](https://www.linkedin.com/learning/security-testing-essential-training-2022/risk-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/security-testing-essential-training-2022/risk-assessments?u=76281980&t=35)** Knowing the difference between a threat and a vulnerability is essential.
 >
-> **[0:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/risk-assessments?u=76281980&t=39)** Fortunately, we can turn to NIST, the National Institute of Standards and Technology, to help us better understand that difference.
+> **[0:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/risk-assessments?u=76281980&t=39)** Fortunately, we can turn to [[NIST]], the National Institute of Standards and Technology, to help us better understand that difference.
 >
 > **[0:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/risk-assessments?u=76281980&t=49)** NIST considers a threat to be a circumstance or event that could damage the confidentiality, integrity or availability of information or information systems.
 >
@@ -266,18 +262,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (2), web application (1), web (1), data (1)
+> **Frameworks & Libraries:** [[NIST]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** nist (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating risk score
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980)
+#### [Calculating risk score](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=0)** - [Instructor] Likelihood is the probability that a threat might actually succeed in exploiting a vulnerability.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=0)** - [Instructor] Likelihood is the [[Probability]] that a threat might actually succeed in exploiting a vulnerability.
 >
 > **[0:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=8)** Let's look at malware as an example.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=30)** As you ask relevant questions about each threat and about how exposed you might be to different attack vectors, it should become apparent whether or not the risk you're considering is highly likely to do harm, highly unlikely, or somewhere in between.
 >
-> **[0:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=49)** That's why NIST relies on a high, medium, low scale when scoring risks.
+> **[0:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=49)** That's why [[NIST]] relies on a high, medium, low scale when scoring risks.
 >
 > **[0:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=56)** You also need to consider the impact though to get an accurate risk score.
 >
@@ -313,11 +308,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=120)** When preparing for an upcoming risk assessment make sure to do your research.
 >
-> **[2:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=125)** Verizon's Data Breach Investigations report has a lot of real world data on actual security incidents that resulted in data breaches and so does the Privacy Rights Clearinghouse chronology of data breaches.
+> **[2:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=125)** Verizon's Data Breach Investigations report has a lot of real world data on actual security incidents that resulted in data breaches and so does the [[Privacy]] Rights Clearinghouse chronology of data breaches.
 >
 > **[2:20](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=140)** You can also turn to industry specific Information Sharing and Analysis Centers, or ISACs for threat and vulnerability information relevant to your specific industry.
 >
-> **[2:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=153)** You can even turn to your internal IT service management system for historical help desk ticket information.
+> **[2:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=153)** You can even turn to your internal [[IT Service Management]] system for historical help desk ticket information.
 >
 > **[2:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/calculating-risk-score?u=76281980&t=160)** As a matter of fact, I highly recommend that you do just that before embarking on your first risk assessment.
 >
@@ -325,14 +320,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[NIST]] (2), leadership (2), [[Security]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Probability]] (1), [[Privacy]] (1), [[IT Service Management]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nist (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security controls assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/security-controls-assessments?u=76281980)
+#### [Security controls assessments](https://www.linkedin.com/learning/security-testing-essential-training-2022/security-controls-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,18 +352,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### NIST and ISO
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980)
+#### [NIST and ISO](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=0)** - [Instructor] The International Organization for Standardization, or ISO, develops and publishes international standards for everything ranging from quality management and quality assurance to information security management.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=0)** - [Instructor] The International Organization for Standardization, or ISO, develops and publishes international standards for everything ranging from quality management and [[Quality Assurance]] to [[Information Security Management]].
 >
 > **[0:16](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=16)** More to the point, the ISO 27000 family contains 45 separate standards and counting to help organizations select and implement information security controls.
 >
@@ -381,7 +373,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=78)** You can review a summary of the ISO 27002 standard at [iso27001security.com](https://iso27001security.com), or you could head on over to [iso.org](https://iso.org) and purchase a full copy of that document.
 >
-> **[1:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=93)** The US National Institute of Standards and Technology, NIST, maintains hundreds of special publications on computer security, cybersecurity and information technology.
+> **[1:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=93)** The US National Institute of Standards and Technology, [[NIST]], maintains hundreds of special publications on computer security, [[Cybersecurity]] and information technology.
 >
 > **[1:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=108)** These documents contain extensive detail on the selection, implementation, and management of information security controls.
 >
@@ -391,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=138)** When it comes to assessing specific security controls, however, I think you'll find that NIST Special Publication 800-53 is a little more to your liking.
 >
-> **[2:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=150)** Similar to ISO 27002, NIST Special Publication 800-53 contains over 1,000 controls distributed among 18 control families, including privacy, which overlaps with information security in certain areas.
+> **[2:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=150)** Similar to ISO 27002, NIST Special Publication 800-53 contains over 1,000 controls distributed among 18 control families, including [[Privacy]], which overlaps with information security in certain areas.
 >
 > **[2:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/nist-and-iso?u=76281980&t=168)** 800-53 also flags each control as either low impact, moderate impact, or high impact, which provides you with an additional layer of guidance around which controls are required depending on the baseline that you are pursuing.
 >
@@ -405,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[NIST]] (6), management (2), [[Information Security Management]] (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[NIST]] (6), [[Information Security Management]] (2), [[Cybersecurity]] (2), [[Quality Assurance]] (1), [[Privacy]] (1)
 > **Env Vars:** iso (9), nist (6), fisma (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [iso27001security.com](https://iso27001security.com) (1), [iso.org](https://iso.org) (1)
@@ -413,14 +405,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980)
+#### [Compliance assessments](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=0)** - [Instructor] The goal of a compliance assessment is to determine whether or not your security program meets the specific requirements outlined by some external authority.
 >
-> **[0:12](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=12)** One of the most well known set of compliance requirements is the Payment Card Industry Data Security Standard, commonly referred to as the PCI DSS, or sometimes just PCI.
+> **[0:12](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=12)** One of the most well known set of compliance requirements is the Payment Card Industry [[Data Security]] Standard, commonly referred to as the PCI DSS, or sometimes just PCI.
 >
 > **[0:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=24)** If an organization stores, processes or transmits credit card data, then that organization is required to comply with this standard.
 >
@@ -448,25 +439,24 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=156)** Talk about a strong motivator.
 >
-> **[2:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=159)** In addition to the payment card industry, other industries that require compliance assessments are the healthcare industry, HIPAA, the energy industry, NERC, and the financial industry, GLBA.
+> **[2:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=159)** In addition to the payment card industry, other industries that require compliance assessments are the [[Healthcare Industry]], HIPAA, the energy industry, NERC, and the financial industry, GLBA.
 >
 > **[2:54](https://www.linkedin.com/learning/security-testing-essential-training-2022/compliance-assessments?u=76281980&t=174)** The end result of a compliance assessment is proof that you're compliant, what we often refer to as an attestation, that and you get the auditors off your back until the next compliance assessment rolls around.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (3), leadership (1), business (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Healthcare Industry]] (1)
 > **Env Vars:** pci (7), dss (4), hipaa (1), nerc (1), glba (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vulnerability assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980)
+#### [Vulnerability assessments](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=0)** - [Instructor] The goal of a vulnerability assessment is to validate that technical vulnerabilities are being identified and remediated on a regular basis.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=0)** - [Instructor] The goal of a [[Vulnerability Assessment]] is to validate that technical vulnerabilities are being identified and remediated on a regular basis.
 >
 > **[0:11](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=11)** There are a few items that you'll focus on with this type of assessment.
 >
@@ -480,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=54)** You'd likely consider that a low risk vulnerability.
 >
-> **[0:58](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=58)** But what if an attacker could exploit a SQL injection vulnerability and download every username and password from one of your applications?
+> **[0:58](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=58)** But what if an attacker could exploit a [[SQL]] injection vulnerability and download every username and password from one of your applications?
 >
 > **[1:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=67)** That's a much bigger deal.
 >
@@ -494,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=90)** This includes servers, workstations, and mobile devices.
 >
-> **[1:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=94)** The one exception here might be industrial control systems, but you should also be testing applications and databases, and they may require different scanning technologies all together.
+> **[1:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=94)** The one exception here might be industrial control systems, but you should also be testing applications and [[Databases]], and they may require different scanning technologies all together.
 >
 > **[1:47](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=107)** In an enterprise environment, you'll likely perform vulnerability assessments on a regular schedule using automated tools.
 >
@@ -506,7 +496,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=160)** I'll show you how to configure and use some of these vulnerability scanning tools later in the course.
 >
-> **[2:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=166)** NIST provides guidance around manual vulnerability assessment activities that you can use to compliment your automated scans.
+> **[2:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=166)** [[NIST]] provides guidance around manual vulnerability assessment activities that you can use to compliment your automated scans.
 >
 > **[2:54](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-assessments?u=76281980&t=174)** I'll cover a number of these techniques in a later video as well.
 >
@@ -516,15 +506,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vulnerability Assessment]] (4), [[Security]] (2), application (1), [[SQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (4), [[SQL]] (1), [[Databases]] (1), [[NIST]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), nist (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Penetration tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-tests?u=76281980)
+#### [Penetration tests](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-tests?u=76281980&t=31)** This depends on the customer's preference, though.
 >
-> **[0:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-tests?u=76281980&t=36)** White box penetration testing refers to an engagement where the customer provides the tester with a considerable amount of internal information.
+> **[0:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-tests?u=76281980&t=36)** White box [[Penetration Testing]] refers to an engagement where the customer provides the tester with a considerable amount of internal information.
 >
 > **[0:45](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-tests?u=76281980&t=45)** This might include reports from other engagements, internal vulnerability scans, network diagrams, and sometimes even firewall rule sets.
 >
@@ -560,13 +549,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Penetration Testing]] (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goals of a pen test
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/goals-of-a-pen-test?u=76281980)
+#### [Goals of a pen test](https://www.linkedin.com/learning/security-testing-essential-training-2022/goals-of-a-pen-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +576,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/goals-of-a-pen-test?u=76281980&t=49)** Penetration tests frequently focus on compromising the confidentiality of an organization's data and with good reason.
 >
-> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/goals-of-a-pen-test?u=76281980&t=57)** If you, as the penetration tester, succeed in your goals and compromise sensitive data at the organization, you should be bound to keep those secrets secret, either through a nondisclosure agreement or through a code of ethics.
+> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/goals-of-a-pen-test?u=76281980&t=57)** If you, as the penetration tester, succeed in your goals and compromise sensitive data at the organization, you should be bound to keep those secrets secret, either through a nondisclosure agreement or through a code of [[Ethics]].
 >
 > **[1:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/goals-of-a-pen-test?u=76281980&t=73)** Exploiting integrity vulnerabilities could result in changes to production systems or data.
 >
@@ -602,13 +590,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cfo (1), cia (1)
 > **Speakers:** - [instructor] (1)
 
-#### The security assessment lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980)
+#### [The security assessment lifecycle](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=87)** Once you've assessed your security controls against those same standards and frameworks, your compliance assessment should go much more smoothly.
 >
-> **[1:37](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=97)** Use automated tools and manual techniques to perform a vulnerability assessment, paying particular attention to both your host systems and to your web and mobile applications.
+> **[1:37](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=97)** Use automated tools and manual techniques to perform a [[Vulnerability Assessment]], paying particular attention to both your host systems and to your web and mobile applications.
 >
 > **[1:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=109)** Look for specific technical weaknesses that an attacker might be able to exploit.
 >
@@ -654,13 +641,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=166)** And test your resilience against those attacks.
 >
-> **[2:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=171)** Spend time fine tuning your security assessment life cycle.
+> **[2:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=171)** Spend time [[Fine Tuning]] your security assessment life cycle.
 >
-> **[2:55](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=175)** And instead of focusing on data breach incident response, you'll be able to focus on business as usual.
+> **[2:55](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-assessment-lifecycle?u=76281980&t=175)** And instead of focusing on data breach [[Incident Response]], you'll be able to focus on business as usual.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), next (2), data (2), leadership (1), [[Vulnerability Assessment]] (1)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (1), [[Fine Tuning]] (1), [[Incident Response]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -669,8 +656,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The security tester's toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-tester-s-toolkit?u=76281980)
+#### [The security tester's toolkit](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-tester-s-toolkit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,18 +694,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kali Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980)
+#### [Kali Linux](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980&t=0)** - [Instructor] Let's start with Kali Linux, available for download at [Kali.org](https://Kali.org).
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980&t=0)** - [Instructor] Let's start with [[Kali Linux]], available for download at [Kali.org](https://Kali.org).
 >
-> **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980&t=7)** Kali is one of, if not the best known, penetration testing Linux distributions, although it's use extends beyond just penetration testing.
+> **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980&t=7)** Kali is one of, if not the best known, [[Penetration Testing]] [[Linux]] distributions, although it's use extends beyond just penetration testing.
 >
 > **[0:18](https://www.linkedin.com/learning/security-testing-essential-training-2022/kali-linux?u=76281980&t=18)** You can also use Kali to perform vulnerability assessments and in certain cases, security control assessments.
 >
@@ -729,21 +713,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Penetration Testing]] (2), [[Linux]] (2), [[Security]] (2), functional (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Penetration Testing]] (2), [[Linux]] (2)
 > **URLs:** [kali.org](https://kali.org) (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980)
+#### [Nmap](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980&t=0)** - [Instructor] Nmap, Short for Network Mapper, is a fantastic tool for identifying systems on your network.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980&t=0)** - [Instructor] [[Nmap]], Short for [[Nmap|Network Mapper]], is a fantastic tool for identifying systems on your network.
 >
 > **[0:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980&t=8)** You can download Nmap from [nmap.org](https://nmap.org).
 >
-> **[0:12](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980&t=12)** If you're on a Windows machine, navigate to the Zenmap download for a GUI-based version of the tool.
+> **[0:12](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980&t=12)** If you're on a [[Windows]] machine, navigate to the Zenmap download for a GUI-based version of the tool.
 >
 > **[0:20](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap?u=76281980&t=20)** The reason I start with Kali is that the command line version of Nmap is one of the tools installed by default.
 >
@@ -767,7 +750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), prompt (1), [[Scripting]] (1), career (1)
+> **Frameworks & Libraries:** [[Nmap]] (12), [[Nmap|Network mapper]] (1), [[Windows]] (1)
 > **Tools:** command line (1), command prompt (1)
 > **Definitions:** short for (1), is a  (1)
 > **URLs:** [nmap.org](https://nmap.org) (1)
@@ -776,14 +759,13 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Warnings:** keep in mind (1)
 
-#### Nessus
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus?u=76281980)
+#### [Nessus](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus?u=76281980&t=0)** - [Instructor] Nessus is a vulnerability scanner.
 >
-> **[0:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus?u=76281980&t=3)** Where Nmap identifies live hosts and the services running on those hosts, Nessus can identify technical vulnerabilities on those hosts, vulnerabilities that an attacker could potentially exploit.
+> **[0:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus?u=76281980&t=3)** Where [[Nmap]] identifies live hosts and the services running on those hosts, Nessus can identify technical vulnerabilities on those hosts, vulnerabilities that an attacker could potentially exploit.
 >
 > **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus?u=76281980&t=17)** You can download Nessus Essentials, formerly Nessus Home, from the [tenable.com](https://tenable.com) website.
 >
@@ -801,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), cloud (1)
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **URLs:** [tenable.com](https://tenable.com) (1), [tenable.io](https://tenable.io) (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
@@ -809,14 +791,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980)
+#### [Wireshark](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980&t=0)** - [Instructor] Wireshark is a tool that lets you capture and analyze network packets.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980&t=0)** - [Instructor] [[Wireshark]] is a tool that lets you capture and analyze network packets.
 >
-> **[0:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980&t=6)** You can download Wireshark from [wireshark.org](https://wireshark.org) and it's installed by default in Kali Linux.
+> **[0:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980&t=6)** You can download Wireshark from [wireshark.org](https://wireshark.org) and it's installed by default in [[Kali Linux]].
 >
 > **[0:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark?u=76281980&t=14)** Once Wireshark is up and running, you'll see all of your system's available network adapters listed on the welcome screen.
 >
@@ -844,18 +825,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (7), traffic (4), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (7), [[Kali Linux]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [wireshark.org](https://wireshark.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lynis
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980)
+#### [Lynis](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=0)** - [Instructor] Lynis is an excellent tool for performing security configuration assessments on Linux systems.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=0)** - [Instructor] Lynis is an excellent tool for performing security configuration assessments on [[Linux]] systems.
 >
 > **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=7)** You can download Lynis from [cisofy.com](https://cisofy.com).
 >
@@ -881,7 +861,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=92)** I'll touch on that in more detail though later in this course.
 >
-> **[1:37](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=97)** For the Lynis demo, we're going to be back in Kali Linux.
+> **[1:37](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=97)** For the Lynis demo, we're going to be back in [[Kali Linux]].
 >
 > **[1:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/lynis?u=76281980&t=100)** Now again, Lynis is a great tool for learning and understanding configuration scanning.
 >
@@ -963,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Security]] (3), [[Kali Linux]] (2), hit (2), business (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Kali Linux]] (2)
 > **CLI Commands:** find (3), tar (2), make (2), sudo (2), docker (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **File Paths:** report.txt (4)
@@ -972,8 +952,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **UI Navigation:** scroll down (1)
 
-#### CIS-CAT Lite
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980)
+#### [CIS-CAT Lite](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,13 +968,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=49)** Once you provide your contact info, they'll send you a link where you can download the free version of the scanner.
 >
-> **[0:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=56)** The Lite version of the CIS-CAT scanner is only capable of scanning three technologies, Windows 10, Ubuntu, and Google Chrome.
+> **[0:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=56)** The Lite version of the CIS-CAT scanner is only capable of scanning three technologies, [[Windows 10]], [[Ubuntu]], and [[Google]] Chrome.
 >
 > **[1:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=68)** The pro version, however, supports all of the existing CIS benchmarks.
 >
 > **[1:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=74)** Even better, it supports the CIS workbench component which allows you to customize the benchmarks to better align with internal technical standards.
 >
-> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=85)** The CIS-CAT Lite is a Java app though, so you'll need to have Java installed in your system in order to use the tool.
+> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=85)** The CIS-CAT Lite is a [[Java]] app though, so you'll need to have Java installed in your system in order to use the tool.
 >
 > **[1:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-lite?u=76281980&t=93)** Java tends to make security professionals nervous, since a number of exploits have been developed to target systems with insecure versions of Java.
 >
@@ -1003,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Security]] (5), [[Windows 10]] (1), [[Ubuntu]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Windows 10]] (1), [[Ubuntu]] (1), [[Google]] (1)
 > **Env Vars:** cis (11), cat (5)
 > **CLI Commands:** cat (5), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -1011,8 +990,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aircrack-ng
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng?u=76281980)
+#### [Aircrack-ng](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng?u=76281980&t=54)** The first step is to run Airmon-ng to start the virtual wireless network adapter.
 >
-> **[1:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng?u=76281980&t=61)** Similar to Wireshark, this adapter will enable you to capture wireless traffic on your machine.
+> **[1:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng?u=76281980&t=61)** Similar to [[Wireshark]], this adapter will enable you to capture wireless traffic on your machine.
 >
 > **[1:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng?u=76281980&t=68)** This virtual adapter needs to be installed and running before any other steps will work.
 >
@@ -1054,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Security]] (1), [[Wireshark]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** wep (2), wpa (2), wpa2 (2)
 > **URLs:** [aircrack-ng.org](https://aircrack-ng.org) (1)
 > **Definitions:** is an  (1)
@@ -1062,22 +1040,21 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hashcat
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980)
+#### [Hashcat](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=0)** - [Instructor] There are multiple password crackers in the pen testing space.
 >
-> **[0:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=5)** John the Ripper may be one of the most well-known, along with THC-Hydra, L0phtCrack, and RainbowCrack.
+> **[0:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=5)** [[John the Ripper]] may be one of the most well-known, along with [[Hydra|THC-Hydra]], L0phtCrack, and RainbowCrack.
 >
-> **[0:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=13)** One of my favorite tools in this space, though, is Hashcat.
+> **[0:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=13)** One of my favorite tools in this space, though, is [[Hashcat]].
 >
 > **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=17)** You can read up on this tool at [hashcat.net](https://hashcat.net).
 >
 > **[0:22](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=22)** Hashcat is one of if not the fastest password crackers.
 >
-> **[0:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=27)** It's installed by default in Kali Linux and it supports over 350 hash types, including popular algorithms like MD5 and NTLM.
+> **[0:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=27)** It's installed by default in [[Kali Linux]] and it supports over 350 hash types, including popular [[Algorithms]] like MD5 and NTLM.
 >
 > **[0:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat?u=76281980&t=40)** You can type hashcat -h at the command prompt in Kali Linux in order to access the help file.
 >
@@ -1089,15 +1066,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Algorithms]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Hashcat]] (6), [[Kali Linux]] (2), [[John the Ripper]] (1), [[Hydra|Thc-hydra]] (1), [[Algorithms]] (1)
 > **Env Vars:** thc (1), md5 (1), ntlm (1)
 > **URLs:** [hashcat.net](https://hashcat.net) (1)
 > **Cross-References:** later in (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### OWASP ZAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980)
+#### [OWASP ZAP](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,15 +1097,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=53)** It's also important you test your scanning skills against non-production web applications first so you can see the potential impacts firsthand and adjust your production scans accordingly.
 >
-> **[1:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=67)** That's where OWASP comes to the rescue.
+> **[1:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=67)** That's where [[OWASP]] comes to the rescue.
 >
-> **[1:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=70)** OWASP, short for the Open Web Application Security Project, is a not-for-profit organization dedicated to improving web application security.
+> **[1:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=70)** OWASP, short for the Open [[Web Application Security]] Project, is a not-for-profit organization dedicated to improving web application security.
 >
 > **[1:22](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=82)** The organization sponsors and publishes multiple open-source projects to help accomplish this goal, and we're going to take a look at two of them in this course.
 >
 > **[1:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=93)** ZAP, or Zed Attack Proxy, is a web application security scanner that can test some basic web application security vulnerabilities.
 >
-> **[1:43](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=103)** In addition to the automated scanning functionality, ZAP includes some manual testing tools that can come in handy during a penetration test.
+> **[1:43](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=103)** In addition to the automated scanning functionality, ZAP includes some [[Manual Testing]] tools that can come in handy during a penetration test.
 >
 > **[1:54](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap?u=76281980&t=114)** OWASP also maintains a number of intentionally vulnerable web applications for the purpose of training security assessors and penetration testers.
 >
@@ -1137,18 +1113,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), web application (5), web (4), [[OWASP]] (3), management (1)
+> **Frameworks & Libraries:** [[Web Application Security]] (4), [[OWASP]] (3), [[Manual Testing]] (1)
 > **Env Vars:** owasp (3), zap (3)
 > **Definitions:** is a  (2), short for (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### OWASP ZAP demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980)
+#### [OWASP ZAP demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=0)** - For the OWASP ZAP demo I'm going to show you within the Cali Linux virtual machine that you can run Zap locally from any operating system.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=0)** - For the [[OWASP]] ZAP demo I'm going to show you within the Cali [[Linux]] virtual machine that you can run Zap locally from any operating system.
 >
 > **[0:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=9)** Depending on which version of Cali you're using, ZAP may or may not be installed by default.
 >
@@ -1186,7 +1161,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=151)** And what I want to do is use the OWASP Juice Shop web application that I mentioned in the earlier video.
 >
-> **[2:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=160)** Juice Shop is a deliberately vulnerable web application hosted on heroku [app.com](https://app.com) that the OWASP team maintains to help folks like you better understand and evaluate your web application security skills.
+> **[2:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=160)** Juice Shop is a deliberately vulnerable web application hosted on heroku [app.com](https://app.com) that the OWASP team maintains to help folks like you better understand and evaluate your [[Web Application Security]] skills.
 >
 > **[2:55](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=175)** So what we are going to do in ZAP is click on automated scan.
 >
@@ -1234,13 +1209,13 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=398)** Again, this is a very lightweight web application scanning tool that's very focused on only the OWASP top 10.
 >
-> **[6:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=406)** If you have more advanced needs, the Burp Suite is one of my favorite tools in this space but I don't demo Burp here because it does cost money to purchase a license to do this type of scan and I wanted you to be able to run a scan for free before you explore other technologies.
+> **[6:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=406)** If you have more advanced needs, the [[Burp Suite]] is one of my favorite tools in this space but I don't demo Burp here because it does cost money to purchase a license to do this type of scan and I wanted you to be able to run a scan for free before you explore other technologies.
 >
 > **[7:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/owasp-zap-demo?u=76281980&t=426)** So my recommendation for you is that you speak with development teams internally, identify web applications that you could scan and then use OWASP ZAP to introduce web application scanning to your teams while you yourself are building out your web application assessment skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (8), [[OWASP]] (7), [[Linux]] (2), application (2), data (2)
+> **Frameworks & Libraries:** [[OWASP]] (7), [[Linux]] (2), [[Web Application Security]] (2), [[Burp Suite]] (1)
 > **Env Vars:** zap (16), owasp (7), url (5), ssl (1), tls (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Definitions:** is a  (4)
@@ -1254,8 +1229,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding your scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980)
+#### [Understanding your scope](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,9 +1259,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980&t=77)** If all the systems are in the customer's on-prem data center, chances are you're good to go.
 >
-> **[1:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980&t=84)** But what if they ask you to assess systems that belong to SaaS providers, like Salesforce or ServiceNow?
+> **[1:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980&t=84)** But what if they ask you to assess systems that belong to [[SaaS]] providers, like Salesforce or ServiceNow?
 >
-> **[1:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980&t=91)** What if they ask you to assess systems residing in Azure or AWS?
+> **[1:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980&t=91)** What if they ask you to assess systems residing in [[Microsoft Azure|Azure]] or AWS?
 >
 > **[1:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980&t=96)** They may think they have permission, but you could get in trouble with those third parties if your assessment activity causes a service disruption.
 >
@@ -1297,14 +1271,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SaaS]] (1), [[Microsoft Azure|Azure]] (1), aws (1)
+> **Frameworks & Libraries:** [[SaaS]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980)
+#### [Improving over time](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=24)** If you want to truly achieve a high level of security maturity, then measuring your progress is critical.
 >
-> **[0:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=32)** That's why it's so important that you select a security testing methodology that delivers consistent, measurable results.
+> **[0:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=32)** That's why it's so important that you select a [[Security Testing]] methodology that delivers consistent, measurable results.
 >
 > **[0:41](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=41)** Let's imagine this scenario.
 >
@@ -1358,15 +1331,15 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=171)** Is your report going to be a simple, accurate representation of how your efforts have mapped to measurable improvements?
 >
-> **[2:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=179)** - Or is it going to be a patchwork quilt of random statistics and educated guesses?
+> **[2:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=179)** - Or is it going to be a patchwork quilt of random [[Statistics]] and educated guesses?
 >
-> **[3:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=186)** NIST special publication 800-115, the technical guide to information security testing and assessments, recommends that your security assessment methodology be both documented and repeatable.
+> **[3:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=186)** [[NIST]] special publication 800-115, the technical guide to information security testing and assessments, recommends that your security assessment methodology be both documented and repeatable.
 >
 > **[3:22](https://www.linkedin.com/learning/security-testing-essential-training-2022/improving-over-time?u=76281980&t=202)** Those two simple concepts will hope you'll avoid falling into the garbage, in garbage out trap from the scenario we just discussed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), leadership (2), career (2), [[Search]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[Statistics]] (1), [[NIST]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - one (1), - or (1)
 > **Env Vars:** nist (1)
@@ -1374,28 +1347,27 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** pitfall (1)
 
-#### Selecting your methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980)
+#### [Selecting your methodology](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=0)** - [Instructor] Here are a few methodologies you may want to consider depending on the nature of your assessment.
 >
-> **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=7)** When conducting a risk assessment, a great place to start is NIST Special Publication 800-30 Rev 1, Guide for Conducting Risk Assessments.
+> **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=7)** When conducting a risk assessment, a great place to start is [[NIST]] Special Publication 800-30 Rev 1, Guide for Conducting Risk Assessments.
 >
 > **[0:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=19)** While this tends to be more qualitative in its approach, the Fair Institute's quantitative approach may be more to your organization's liking.
 >
-> **[0:29](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=29)** For security controls assessments, NIST Special Publication 800-53 Rev 5, Security and Privacy Controls for Federal Information Systems and Organizations, contains an extensive set of security controls, along with considerable detail regarding each individual control.
+> **[0:29](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=29)** For security controls assessments, NIST Special Publication 800-53 Rev 5, Security and [[Privacy]] Controls for Federal Information Systems and Organizations, contains an extensive set of security controls, along with considerable detail regarding each individual control.
 >
 > **[0:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=52)** Likewise, ISO 27002, the 2022 version, Code of practice for information security controls, provides a comprehensive set of security controls that you may want to consider.
 >
 > **[1:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=66)** And when it comes to compliance assessments, the specific data set often dictates which controls must be assessed by whom, and how often.
 >
-> **[1:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=79)** Organizations that accept, process, store, and or transmit credit card data need to refer to the payment card industry data security standard.
+> **[1:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=79)** Organizations that accept, process, store, and or transmit credit card data need to refer to the payment card industry [[Data Security]] standard.
 >
 > **[1:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=90)** Going one level deeper, the specific controls which must be assessed and the determination whether an organization can self-assess their controls or whether they must engage a certified third-party depends on factors like the number of credit card transactions processed each year.
 >
-> **[1:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=109)** Organizations in the United States that handle electronically-protected healthcare information must perform a security risk assessment that aligns with the controls required by the Health Insurance Portability and Accountability Act of 1996, better known as HIPAA.
+> **[1:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=109)** Organizations in the United States that handle electronically-protected healthcare information must perform a [[Security Risk]] assessment that aligns with the controls required by the Health Insurance Portability and [[Accountability]] Act of 1996, better known as HIPAA.
 >
 > **[2:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-methodology?u=76281980&t=128)** The frequency of these assessments will vary based on a number of deciding factors.
 >
@@ -1403,13 +1375,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (3), [[NIST]] (2), [[Privacy]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Privacy]] (1), [[Data Security]] (1), [[Security Risk]] (1), [[Accountability]] (1)
 > **Env Vars:** nist (2), iso (1), hipaa (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting your tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980)
+#### [Selecting your tools](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1421,11 +1392,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=26)** OpenVAS, by the way, grew from an early fork of Nessus before Nessus became a commercial solution.
 >
-> **[0:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=34)** Commercial grade web application security scanners such as Veracode, AppScan and Sentinel are popular in larger development shops.
+> **[0:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=34)** Commercial grade [[Web Application Security]] scanners such as Veracode, AppScan and Sentinel are popular in larger development shops.
 >
 > **[0:43](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=43)** While tools like Acunetix, Checkmarx and Synopsis have a strong presence in the market as well.
 >
-> **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=50)** Tools like Burp Suite and OWASP ZAP, however, are favorites in the security community due largely in part to their balance between cost and functionality.
+> **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=50)** Tools like [[Burp Suite]] and [[OWASP]] ZAP, however, are favorites in the security community due largely in part to their balance between cost and functionality.
 >
 > **[1:02](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=62)** When performing automated vulnerability scans you also need to determine whether your methodology needs to include authenticated scans, unauthenticated scans, or both.
 >
@@ -1439,19 +1410,19 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=105)** My recommendation, for the record, is that you perform unauthenticated scans on systems and applications that are directly accessible to the internet, and that you perform authenticated scans of internal production host and internal non-production instances of your web applications.
 >
-> **[2:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=128)** When penetration testing is on the table, the methodology can vary significantly from one tester to another.
+> **[2:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=128)** When [[Penetration Testing]] is on the table, the methodology can vary significantly from one tester to another.
 >
 > **[2:15](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=135)** This can be attributed to varying levels of skill and experience in this space.
 >
 > **[2:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=141)** My favorite methodology is the Penetration Testing Execution Standard, or PTES.
 >
-> **[2:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=148)** Although the Open Source Security Testing Methodology Manual is a robust resource that you might want to explore as well.
+> **[2:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=148)** Although the Open Source [[Security Testing]] Methodology Manual is a robust resource that you might want to explore as well.
 >
-> **[2:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=156)** When performing manual testing is part of any hands on assessment, you might also want to include relevant manual testing methodologies to keep your results consistent.
+> **[2:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=156)** When performing [[Manual Testing]] is part of any hands on assessment, you might also want to include relevant manual testing methodologies to keep your results consistent.
 >
 > **[2:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=168)** The OWASP testing project offers a detailed guide on manually testing web applications for weaknesses, and the OWASP Mobile Security Testing Guide is an excellent resource for testing mobile applications.
 >
-> **[3:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=184)** The Center for Internet Security Benchmarks are, perhaps, the most detailed security configuration testing resources available for testing systems, databases, networks, and the like.
+> **[3:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=184)** The Center for Internet Security Benchmarks are, perhaps, the most detailed security configuration testing resources available for testing systems, [[Databases]], networks, and the like.
 >
 > **[3:18](https://www.linkedin.com/learning/security-testing-essential-training-2022/selecting-your-tools?u=76281980&t=198)** In other words, you have no shortage of materials available when it comes to determining your security testing methodology.
 >
@@ -1461,14 +1432,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[OWASP]] (3), web (2), [[Penetration Testing]] (2), [[Manual Testing]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Security Testing]] (3), [[Penetration Testing]] (2), [[Manual Testing]] (2), [[Web Application Security]] (1)
 > **Env Vars:** owasp (3), zap (1), ptes (1)
 > **Definitions:** is a  (1), is an  (1), in other words (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Basic assessment tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/basic-assessment-tools?u=76281980)
+#### [Basic assessment tools](https://www.linkedin.com/learning/security-testing-essential-training-2022/basic-assessment-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1460,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/basic-assessment-tools?u=76281980&t=70)** That's because so much of the security controls assessment process involves question and answer discussions with the individuals responsible for implementing and maintaining those controls.
 >
-> **[1:23](https://www.linkedin.com/learning/security-testing-essential-training-2022/basic-assessment-tools?u=76281980&t=83)** For organizations aligned with NIST, there's a good chance that they'll want or need to align with the security control set that resulted from the Federal Information Security Management Act or FISMA.
+> **[1:23](https://www.linkedin.com/learning/security-testing-essential-training-2022/basic-assessment-tools?u=76281980&t=83)** For organizations aligned with [[NIST]], there's a good chance that they'll want or need to align with the security control set that resulted from the Federal [[Information Security Management]] Act or FISMA.
 >
 > **[1:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/basic-assessment-tools?u=76281980&t=96)** When testing these organizations, you might be able to accelerate your efforts using the Open FISMA tool available at [openfisma.org](https://openfisma.org).
 >
@@ -1504,14 +1474,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), career (1), [[NIST]] (1), [[Information Security Management]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Information Security Management]] (1)
 > **Env Vars:** iso (4), fisma (2), nist (1)
 > **URLs:** [simplerisk.com](https://simplerisk.com) (1), [openfisma.org](https://openfisma.org) (1), [iso27001security.com](https://iso27001security.com) (1), [iso.org](https://iso.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced assessment tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980)
+#### [Advanced assessment tools](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,15 +1488,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=6)** The payment card industry, for example, maintains a library of Self-Assessment Questionnaires online at [pcisecuritystandards.org](https://pcisecuritystandards.org).
 >
-> **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=17)** The Office of Civil Rights, OCR, and the Office of the National Coordinator for Health Information Technology, ONC, have a HIPAA Security Risk Assessment Tool available to download for free from this URL at [healthit.gov](https://healthit.gov).
+> **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=17)** The [[Microsoft Office|Office]] of Civil Rights, OCR, and the Office of the National Coordinator for Health Information Technology, ONC, have a HIPAA [[Security Risk]] Assessment Tool available to download for free from this URL at [healthit.gov](https://healthit.gov).
 >
 > **[0:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=36)** When it comes to vulnerability assessments and penetration tests, referring to the methodology guides is your best starting point.
 >
-> **[0:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=44)** The Penetration Testing Execution Standard, the PTES, references a number of tools in the technical guideline available at [pentes-standard.org](https://pentes-standard.org).
+> **[0:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=44)** The [[Penetration Testing]] Execution Standard, the PTES, references a number of tools in the technical guideline available at [pentes-standard.org](https://pentes-standard.org).
 >
-> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=57)** You could compliment the information in the PTES with the Open Source Security Testing Methodology Manual, or OSSTMM available at [isecom.org](https://isecom.org).
+> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=57)** You could compliment the information in the PTES with the Open Source [[Security Testing]] Methodology Manual, or OSSTMM available at [isecom.org](https://isecom.org).
 >
-> **[1:11](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=71)** When testing web applications I've included a pair of OWASP links here to an extensive list of application security testing tools.
+> **[1:11](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=71)** When testing web applications I've included a pair of [[OWASP]] links here to an extensive list of [[Application Security]] testing tools.
 >
 > **[1:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=81)** The number of tools available for performing very specific tests against unique web app technologies continues to grow and I've yet to find a more robust, comprehensive list than the ones you find on the OWASP website.
 >
@@ -1535,13 +1504,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=102)** And while the website, [sectools.org](https://sectools.org) is a bit dated, many of the tools on that site have withstood the test of time.
 >
-> **[1:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=111)** If you want to round out your knowledge of security testing tools, browse through the SecTools list of the Top 125 Network Security Tools.
+> **[1:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=111)** If you want to round out your knowledge of security testing tools, browse through the SecTools list of the Top 125 [[Network Security]] Tools.
 >
 > **[2:02](https://www.linkedin.com/learning/security-testing-essential-training-2022/advanced-assessment-tools?u=76281980&t=122)** You'll see a few tools there that we've already covered in this course, along with dozens of tools that could prove useful in one of your upcoming security assessments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Office|Office]] (2), web (2), [[OWASP]] (2), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Security Testing]] (2), [[OWASP]] (2), [[Security Risk]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** ptes (2), owasp (2), ocr (1), onc (1), hipaa (1)
 > **URLs:** [pcisecuritystandards.org](https://pcisecuritystandards.org) (1), [healthit.gov](https://healthit.gov) (1), [pentes-standard.org](https://pentes-standard.org) (1), [isecom.org](https://isecom.org) (1), [sectools.org](https://sectools.org) (1)
 > **CLI Commands:** find (2)
@@ -1554,8 +1523,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Documentation review
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980)
+#### [Documentation review](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1635,7 +1603,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980&t=303)** Language outlining how third parties are expected to protect an organization's data can be very insightful.
 >
-> **[5:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980&t=310)** Security incident response plans.
+> **[5:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980&t=310)** [[Security Incident Response]] plans.
 >
 > **[5:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980&t=313)** In the event of a security incident, does an organization have a documented tested plan that they intend to use to respond?
 >
@@ -1643,7 +1611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Security Incident Response]] (2), application (1), mobile application (1), data (1)
+> **Frameworks & Libraries:** [[Security Incident Response]] (2)
 > **Env Vars:** isaca (5), cis (3), cisa (2)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1652,8 +1620,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log review
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-review?u=76281980)
+#### [Log review](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,11 +1656,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), application (1), data (1)
 > **Speakers:** - [narrator] (1)
 
-#### Log management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980)
+#### [Log management tools](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1719,9 +1684,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=81)** Some of the more popular commercial log management systems are Splunk, QRadar, LogRhythm and AlienVault, although there are a number of free and open source tools as well.
 >
-> **[1:35](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=95)** Syslog is a native logging mechanism installed on every Linux system and its open source counterpart Syslog-ng provides even more features and functionality.
+> **[1:35](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=95)** Syslog is a native logging mechanism installed on every [[Linux]] system and its open source counterpart Syslog-ng provides even more features and functionality.
 >
-> **[1:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=106)** Graylog is a popular tool in the open source log management space, and a number of organizations rely on Elasticsearch or the ELK Stack, a combination of Elasticsearch, Logstash, and Kibana.
+> **[1:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=106)** Graylog is a popular tool in the open source log management space, and a number of organizations rely on [[Elasticsearch]] or the ELK Stack, a combination of Elasticsearch, Logstash, and Kibana.
 >
 > **[2:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=120)** Without some sort of technology to analyze and manage all of this log data, an organization is likely to fall short of accomplishing the requirements documented in their logging and monitoring policy.
 >
@@ -1731,7 +1696,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=162)** In my own consulting work, I have repeatedly found this resource to be incredibly valuable.
 >
-> **[2:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=169)** I performed incident response for a small healthcare organization that had been compromised by an unauthorized outsider and when I requested log data so I could attempt reconstruct what actually happened, they told me that not only were the log settings inconsistent and incomplete, but some of the logs I need had rolled over and were no longer available.
+> **[2:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=169)** I performed [[Incident Response]] for a small healthcare organization that had been compromised by an unauthorized outsider and when I requested log data so I could attempt reconstruct what actually happened, they told me that not only were the log settings inconsistent and incomplete, but some of the logs I need had rolled over and were no longer available.
 >
 > **[3:11](https://www.linkedin.com/learning/security-testing-essential-training-2022/log-management-tools?u=76281980&t=191)** That organization didn't have a centralized log management server, let alone a security information event management system and that severely hampered my ability to perform forensics.
 >
@@ -1739,19 +1704,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), [[Security]] (5), data (3), [[Elasticsearch]] (2), application (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Linux]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (2)
 > **URLs:** [zeltser.com](https://zeltser.com) (1)
 > **Env Vars:** elk (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [teacher] (1)
 
-#### Ruleset review
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980)
+#### [Ruleset review](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=0)** - [Instructor] By rule set review, I mean the configuration of routers, firewalls, intrusion detection systems, and intrusion prevention systems.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=0)** - [Instructor] By rule set review, I mean the configuration of routers, firewalls, [[Intrusion Detection]] systems, and intrusion prevention systems.
 >
 > **[0:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=10)** Specifically, I'm interested in the access control settings that determine how these devices respond in response to device access attempts across the network.
 >
@@ -1805,7 +1769,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=176)** And fine-tune required signatures to ensure that the alerts generated when those rules are triggered are results that you can actually use.
 >
-> **[3:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=187)** You can test firewall rules by using Nmap to scan for open network ports between network segments.
+> **[3:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=187)** You can test firewall rules by using [[Nmap]] to scan for open network ports between network segments.
 >
 > **[3:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/ruleset-review?u=76281980&t=194)** But manually reviewing rule sets can be a little cumbersome.
 >
@@ -1819,7 +1783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Security]] (4), business (3), [[Intrusion Detection]] (1), management (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Nmap]] (1)
 > **Env Vars:** ssh (1), rdp (1), ids (1), ips (1)
 > **CLI Commands:** ssh (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1827,12 +1791,11 @@ created: 2026-05-02
 > **URLs:** [titania.com](https://titania.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### System configuration review
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/system-configuration-review?u=76281980)
+#### [System configuration review](https://www.linkedin.com/learning/security-testing-essential-training-2022/system-configuration-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/system-configuration-review?u=76281980&t=0)** - [Jerod] System configuration reviews can be some of the most time consuming tasks during a security assessment.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/system-configuration-review?u=76281980&t=0)** - [Jerod] [[System Configuration]] reviews can be some of the most time consuming tasks during a security assessment.
 >
 > **[0:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/system-configuration-review?u=76281980&t=8)** Imagine going into an environment with 10,000 endpoints and being told to check the security settings on each one to determine whether or not there are any weaknesses.
 >
@@ -1870,19 +1833,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[System Configuration]] (1), business (1)
+> **Frameworks & Libraries:** [[System Configuration]] (1)
 > **Env Vars:** cis (2), cat (2)
 > **CLI Commands:** cat (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [jerod] (1)
 
-#### CIS-CAT demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980)
+#### [CIS-CAT demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=0)** - [Instructor] For this CIS-CAD demo, we're going to be using a Windows 10 virtual machine, that you can download for free from developer dot microsoft dot com.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=0)** - [Instructor] For this CIS-CAD demo, we're going to be using a [[Windows 10]] virtual machine, that you can download for free from developer dot [[Microsoft]] dot com.
 >
 > **[0:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=9)** This is a timeboxed machine.
 >
@@ -1902,9 +1864,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=50)** And you can see the contents of that folder contain everything the tool needs to run on multiple platforms.
 >
-> **[0:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=56)** It contains the java file image, it contains the shell script for Linux boxes.
+> **[0:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=56)** It contains the [[Java]] file image, it contains the shell script for [[Linux]] boxes.
 >
-> **[1:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=60)** We're going to use the executable design... The gooey... For the Windows machine.
+> **[1:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=60)** We're going to use the executable design... The gooey... For the [[Windows]] machine.
 >
 > **[1:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=65)** But before you run the tool, you need to go into the config folder, and edit the sessions dot properties.
 >
@@ -1960,7 +1922,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=209)** Do I want it in web format?
 >
-> **[3:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=211)** HTML?
+> **[3:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=211)** [[HTML]]?
 >
 > **[3:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=212)** Do I want to see a speed file, do I want a text file?
 >
@@ -2004,13 +1966,13 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=327)** To perform all of these checks manually would take days.
 >
-> **[5:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=332)** So you can see, from a configuration management testing standpoint, this really accelerates your testing activity.
+> **[5:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=332)** So you can see, from a [[Configuration Management]] testing standpoint, this really accelerates your testing activity.
 >
 > **[5:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/cis-cat-demo?u=76281980&t=340)** And as you configure and modify the scans to match your environment, you can be even more efficient in running these security configuration tests.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[Security]] (3), next (2), [[Windows 10]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Windows 10]] (1), [[Microsoft]] (1), [[Java]] (1), [[Linux]] (1)
 > **Env Vars:** html (5), cis (3), cad (2), cat (1)
 > **CLI Commands:** make (3), cat (1), unzip (1)
 > **UI Navigation:** go to (2), select the (1), scroll down (1)
@@ -2019,8 +1981,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Analogies:** for example (1)
 
-#### Network sniffing
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980)
+#### [Network sniffing](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2028,7 +1989,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=13)** If you only sniff an hours worth of network traffic, your results won't be an accurate representation of what to expect over the course of a business day.
 >
-> **[0:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=24)** If you sniff traffic before users arrive in the office or after they leave, then you won't see endpoint traffic.
+> **[0:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=24)** If you sniff traffic before users arrive in the [[Microsoft Office|office]] or after they leave, then you won't see endpoint traffic.
 >
 > **[0:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=31)** If you sniff network traffic during lunch however, you're more likely to see things like online shopping and social media use, than you are normal business traffic.
 >
@@ -2054,25 +2015,24 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=125)** You should also place a sniffer behind firewalls to determine if they're filtering appropriately as part of your rule set review output.
 >
-> **[2:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=133)** You should place a sniffer behind intrusion detection systems and intrusion prevention systems to determine whether or not they're firing the appropriate rules.
+> **[2:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=133)** You should place a sniffer behind [[Intrusion Detection]] systems and intrusion prevention systems to determine whether or not they're firing the appropriate rules.
 >
 > **[2:23](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=143)** You should place sniffers in front of sensitive systems or applications to check for the principle of lease privilege being applied, and you should place sniffers on any network segment where encryption is required by policy to validate compliance with that policy.
 >
-> **[2:41](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=161)** Let's turn to Wireshark to see what we can learn.
+> **[2:41](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-sniffing?u=76281980&t=161)** Let's turn to [[Wireshark]] to see what we can learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), data (3), business (2), [[Microsoft Office|Office]] (2), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Intrusion Detection]] (1), [[Wireshark]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireshark demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980)
+#### [Wireshark demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=0)** - [Narrator] For the Wireshark demo we're going to be working in the Kali Linux virtual machine.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=0)** - [Narrator] For the [[Wireshark]] demo we're going to be working in the [[Kali Linux]] virtual machine.
 >
 > **[0:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=5)** But before we run the Wireshark utility, I'd like you to open the terminal emulator and type in ifconfig.
 >
@@ -2096,7 +2056,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=73)** For the purpose of the demo, we're just going to focus on eth0, and all you have to do to run the utility is come up here and click the blue fin to start capturing packets.
 >
-> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=85)** Now it's not going to be very interesting unless I do something network connected, so let's try back in the terminal emulator to do a ping -c4, that says we're only going to do it four times, of [linkedin.com](https://linkedin.com).
+> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=85)** Now it's not going to be very interesting unless I do something network connected, so let's try back in the terminal emulator to do a ping -c4, that says we're only going to do it four times, of [[[LinkedIn]].com](https://linkedin.com).
 >
 > **[1:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=104)** And you can see that my Kali image sent a little bit of data over to LinkedIn, LinkedIn said, "Yep, I'm here."
 >
@@ -2106,7 +2066,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=118)** Now if you want to stop the packet capture, you click the red square.
 >
-> **[2:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=123)** And you can jump around and analyze packets in real-time.
+> **[2:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=123)** And you can jump around and analyze packets in [[Real-Time]].
 >
 > **[2:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=127)** But let's go ahead and stop, and we can look through the results briefly and talk about what we're seeing.
 >
@@ -2142,7 +2102,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=292)** And as you do these searches, you'll see references down here at the bottom, no packet contain that string in its info column.
 >
-> **[5:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=301)** But let's say we wanted to quickly know is this company we're working with talking to any systems in Azure, in Google Cloud, in AWS, right?
+> **[5:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=301)** But let's say we wanted to quickly know is this company we're working with talking to any systems in [[Microsoft Azure|Azure]], in [[Google Cloud Platform (GCP)|Google Cloud]], in AWS, right?
 >
 > **[5:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireshark-demo?u=76281980&t=313)** If we wanted to quickly identify infrastructures of service providers in play, we could do a quick search for those strings, and it's going to take us right to the packet that has that reference in it.
 >
@@ -2152,7 +2112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (8), traffic (7), [[LinkedIn]] (6), data (3), dns (2)
+> **Frameworks & Libraries:** [[Wireshark]] (8), [[LinkedIn]] (6), [[Kali Linux]] (1), [[Real-Time]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (3), open the (1), click on (1), select the (1)
 > **Env Vars:** dns (2), icmp (1), aws (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [azuredns.com](https://azuredns.com) (1)
@@ -2161,8 +2121,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Versions:** 10.0.2 (1)
 
-#### File integrity checking
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980)
+#### [File integrity checking](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2202,11 +2161,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=136)** The principle of file integrity monitoring hinges on the idea of guarded files, or files whose hash value should rarely, if ever change.
 >
-> **[2:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=147)** On Windows endpoints the file explorer.exe is a classic example.
+> **[2:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=147)** On [[Windows]] endpoints the file explorer.exe is a classic example.
 >
 > **[2:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=154)** If the hash value for that file changes, then you should definitely investigate why.
 >
-> **[2:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=159)** The same holds true for Linux files such as /etc/passwd.
+> **[2:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=159)** The same holds true for [[Linux]] files such as /etc/passwd.
 >
 > **[2:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=164)** If that file changes then it could mean an unauthorized account was added to the system.
 >
@@ -2220,17 +2179,17 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=211)** Tripwire is one of the most popular enterprise solutions for file integrity monitoring, and it has been for years.
 >
-> **[3:38](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=218)** While OSSEC, the open source host intrusion detection security system is a very popular open source solution in the same space.
+> **[3:38](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=218)** While OSSEC, the open source host [[Intrusion Detection]] security system is a very popular open source solution in the same space.
 >
 > **[3:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=228)** Another trick I learned early in my consulting days is that certain vulnerability management solutions have the capability to perform basic file integrity monitoring tasks.
 >
-> **[4:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=240)** If you want to check a very small set of files with known good hash values on a daily basis, for example, you could configure this check using configuration management tools within vulnerability management suites.
+> **[4:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=240)** If you want to check a very small set of files with known good hash values on a daily basis, for example, you could configure this check using [[Configuration Management]] tools within vulnerability management suites.
 >
 > **[4:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/file-integrity-checking?u=76281980&t=254)** This approach doesn't necessarily scale well, but it's an excellent starting point for organizations trying to figure out what they should be monitoring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), management (2), database (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Configuration Management]] (1)
 > **Env Vars:** md5 (1), sha1 (1), ossec (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1), such as (1), for example (1)
@@ -2242,8 +2201,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-discovery?u=76281980)
+#### [Network discovery](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2287,14 +2245,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), traffic (2), next (1)
 > **Env Vars:** ics (3), icmp (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - performing (1)
 
-#### Open-source intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980)
+#### [Open-source intelligence](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2330,7 +2286,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=127)** If you'd like to test your DNS zone transfer skills in a non-production environment, head over to DigiNinja's ZoneTransfer.me site at this URL.
 >
-> **[2:18](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=138)** We're going to take a look at how to perform unique Nmap scans to identify live hosts on a network.
+> **[2:18](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=138)** We're going to take a look at how to perform unique [[Nmap]] scans to identify live hosts on a network.
 >
 > **[2:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=144)** First though, one more consideration.
 >
@@ -2342,7 +2298,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=165)** If an unauthorized device has been added to their network whether physical or virtual, they'll want to investigate where that device came from and who it belongs to.
 >
-> **[2:55](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=175)** That device could have been added by an employee who brought a device in from home and unknowingly violated the customer's network security policy.
+> **[2:55](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=175)** That device could have been added by an employee who brought a device in from home and unknowingly violated the customer's [[Network Security]] policy.
 >
 > **[3:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/open-source-intelligence?u=76281980&t=185)** But it could also be a device that a malicious attacker added to the network in order to continue attacking the customer from an internal network location.
 >
@@ -2350,15 +2306,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), open-source (1), traffic (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (1), [[Network Security]] (1)
 > **Env Vars:** dns (10), osint (7), bgp (1), url (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1), means that (1)
 > **URLs:** [pentest-tools.com](https://pentest-tools.com) (1)
 > **Speakers:** - [teacher] (1)
 
-#### Network port and service identification
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-port-and-service-identification?u=76281980)
+#### [Network port and service identification](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-port-and-service-identification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2368,7 +2323,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-port-and-service-identification?u=76281980&t=11)** If the customer's disabled ping at the host level or if they're filtering ping at the network level, your scanner is likely to overlook active hosts.
 >
-> **[0:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-port-and-service-identification?u=76281980&t=21)** Fortunately, Nmap has a built-in flag that assumes every host is alive.
+> **[0:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-port-and-service-identification?u=76281980&t=21)** Fortunately, [[Nmap]] has a built-in flag that assumes every host is alive.
 >
 > **[0:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-port-and-service-identification?u=76281980&t=28)** While scanning with this flag enabled will take a bit longer, it noticeably improves the accuracy of your results.
 >
@@ -2412,19 +2367,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Nmap]] (4)
 > **Env Vars:** dmz (2), ftp (1), http (1), ssh (1), rdp (1)
 > **CLI Commands:** find (1), ssh (1)
 > **Ports:** port 80 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nmap demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap-demo?u=76281980)
+#### [Nmap demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap-demo?u=76281980&t=0)** - [Instructor] For the Nmap demo, we're going to be in our Cali Linux Virtual Machine and you can get to Nmap a couple of ways.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap-demo?u=76281980&t=0)** - [Instructor] For the [[Nmap]] demo, we're going to be in our Cali [[Linux]] Virtual Machine and you can get to Nmap a couple of ways.
 >
 > **[0:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/nmap-demo?u=76281980&t=8)** It's very easy to get to it from the command line, but I wanted to show you under the applications menu, if you start in O one, information gathering, you'll see the Nmap eyeball icon right here.
 >
@@ -2504,7 +2458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), web (1), data (1)
+> **Frameworks & Libraries:** [[Nmap]] (20), [[Linux]] (3)
 > **CLI Commands:** ssh (2), apache (1)
 > **Env Vars:** ssh (2), http (1)
 > **UI Navigation:** scroll up (1), scroll down (1), go to (1)
@@ -2513,8 +2467,7 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Ports:** port 22 (1)
 
-#### Vulnerability scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-scanning?u=76281980)
+#### [Vulnerability scanning](https://www.linkedin.com/learning/security-testing-essential-training-2022/vulnerability-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2552,14 +2505,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (2), next (1), leadership (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Determining severity
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/determining-severity?u=76281980)
+#### [Determining severity](https://www.linkedin.com/learning/security-testing-essential-training-2022/determining-severity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2604,12 +2555,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Nessus demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980)
+#### [Nessus demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=0)** - [Instructor] For the Nessus demo, we'll be back in our Kali Linux virtual machine.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=0)** - [Instructor] For the Nessus demo, we'll be back in our [[Kali Linux]] virtual machine.
 >
 > **[0:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=5)** Now, Nessus isn't installed by default in Kali, but you can install it by navigating to [tenable.com](https://tenable.com), going to the Nessus download section, and then scrolling down to the fourth item in the list, the debian9_amd64 installer.
 >
@@ -2647,7 +2597,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=139)** And then down here where it says Basic Network Scan, we're going to jump right into that.
 >
-> **[2:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=145)** Host Discovery would be similar to an Nmap scan, looking for hosts and available services.
+> **[2:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=145)** Host Discovery would be similar to an [[Nmap]] scan, looking for hosts and available services.
 >
 > **[2:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=151)** The network scan is going to look for vulnerabilities.
 >
@@ -2693,7 +2643,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=324)** The reason for this is that Tenable wants to enable you as the security assessor to have an effective conversation with the people who are more likely responsible for managing the vulnerable systems and applications.
 >
-> **[5:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=340)** If you're speaking with a Linux system administrator, or Windows system administrator, an application developer, they're likely to know more about their technology than you do.
+> **[5:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=340)** If you're speaking with a [[Linux]] system administrator, or [[Windows]] system administrator, an application developer, they're likely to know more about their technology than you do.
 >
 > **[5:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=349)** And that's okay.
 >
@@ -2725,15 +2675,15 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=441)** What I would encourage you to do for some additional testing with this tool is to analyze a Windows system using the same process I've shared.
 >
-> **[7:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=453)** In this course, I have a demo for CIS-CAT that requires using a Windows 10 virtual machine.
+> **[7:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=453)** In this course, I have a demo for CIS-CAT that requires using a [[Windows 10]] virtual machine.
 >
-> **[7:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=459)** If your system is powerful enough to run two virtual machines, you could point Nessus at that Windows machine and see how they compare.
+> **[7:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=459)** If your system is powerful enough to run two [[Virtual Machines]], you could point Nessus at that Windows machine and see how they compare.
 >
 > **[7:47](https://www.linkedin.com/learning/security-testing-essential-training-2022/nessus-demo?u=76281980&t=467)** Give it a shot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Kali Linux]] (2), management (1), [[Security]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Kali Linux]] (2), [[Nmap]] (1), [[Linux]] (1), [[Windows 10]] (1)
 > **Env Vars:** ssl (5), url (1), ssh (1), cis (1), cat (1)
 > **UI Navigation:** navigate to (3), click on (3), go to (1)
 > **CLI Commands:** sudo (1), systemctl (1), ssh (1), cat (1)
@@ -2742,8 +2692,7 @@ created: 2026-05-02
 > **URLs:** [tenable.com](https://tenable.com) (1)
 > **Ports:** :8834 (1)
 
-#### Wireless scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980)
+#### [Wireless scanning](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2753,7 +2702,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=23)** We often see one for managed devices, one for personal devices.
 >
-> **[0:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=28)** Sometimes you'll even find a dedicated wireless network for internet of things or IOT devices.
+> **[0:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=28)** Sometimes you'll even find a dedicated wireless network for [[IoT|internet of things]] or [[IoT]] devices.
 >
 > **[0:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=34)** And with an increasing reliance on wireless technology comes a corresponding increase in our efforts to secure those technologies.
 >
@@ -2763,11 +2712,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=53)** Are there any environmental considerations that might interfere with your scanning?
 >
-> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=57)** Things like protective film on the windows or interference from nearby wireless networks.
+> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=57)** Things like protective film on the [[Windows]] or interference from nearby wireless networks.
 >
 > **[1:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=64)** What security settings should be applied to the wireless networks you're assessing?
 >
-> **[1:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=69)** This would be a great time to refer to the wireless networking security policy.
+> **[1:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=69)** This would be a great time to refer to the [[Wireless Networking]] security policy.
 >
 > **[1:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=74)** What does a normal day look like to these in scope wireless networks?
 >
@@ -2783,11 +2732,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=120)** You can have open/unencrypted wireless networks.
 >
-> **[2:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=124)** You could enable Wired Equivalent Privacy or WEP, which is known to be insecure.
+> **[2:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=124)** You could enable Wired Equivalent [[Privacy]] or WEP, which is known to be insecure.
 >
 > **[2:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=130)** You could implement Wi-Fi Protected Access or WPA, also broken, or you could implement Wi-Fi Protected Access to WPA2 or WPA3, and either the personal configuration or the enterprise configuration.
 >
-> **[2:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=148)** From a penetration testing standpoint, any wireless security configuration prior to WPA2 represents a significant risk to the organization.
+> **[2:28](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=148)** From a [[Penetration Testing]] standpoint, any wireless security configuration prior to WPA2 represents a significant risk to the organization.
 >
 > **[2:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-scanning?u=76281980&t=160)** Tools and techniques for compromising wireless networks with these weaker security protocols have been available for years and they're incredibly effective at what they do.
 >
@@ -2801,15 +2750,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), traffic (2), [[Internet of Things (IoT)|Internet of things]] (1), [[IoT]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[IoT]] (1), [[Windows]] (1), [[Wireless Networking]] (1), [[Privacy]] (1)
 > **Env Vars:** wpa2 (5), wpa3 (3), iot (1), wep (1), wpa (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** iphone (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Wireless testing process
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-testing-process?u=76281980)
+#### [Wireless testing process](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-testing-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2817,7 +2765,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-testing-process?u=76281980&t=7)** If you are able to connect to the network being monitored, you can also use passive wireless network scanning tools to monitor traffic on that network.
 >
-> **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-testing-process?u=76281980&t=17)** When using Wireshark, the experience is virtually the same as when capturing packets on a wired network.
+> **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-testing-process?u=76281980&t=17)** When using [[Wireshark]], the experience is virtually the same as when capturing packets on a wired network.
 >
 > **[0:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/wireless-testing-process?u=76281980&t=25)** Airmon-ng, one of the tools in the Aircrack-ng suite, is my favorite passive wireless scanning tool.
 >
@@ -2841,17 +2789,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Wireshark]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** mac (1), wpa2 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aircrack-ng demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980)
+#### [Aircrack-ng demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=0)** - [Instructor] For the Aircrack demo, we're going to be connecting a physical wireless network adapter to your virtual Kali Linux machine instance.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=0)** - [Instructor] For the Aircrack demo, we're going to be connecting a physical wireless network adapter to your virtual [[Kali Linux]] machine instance.
 >
 > **[0:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=10)** As I mentioned in a previous video, I like to use the ALFA adapters.
 >
@@ -2871,7 +2818,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=58)** This is the network interface that Kali understands to be your wireless network adapter.
 >
-> **[1:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=64)** That means that using this interface, your Kali VM can now see wireless networking traffic in the real world.
+> **[1:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=64)** That means that using this interface, your Kali VM can now see [[Wireless Networking]] traffic in the real world.
 >
 > **[1:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=73)** We're going to clear the screen.
 >
@@ -2997,7 +2944,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=420)** So what I'm going to give you as homework, if you get to this point in the demo, I want you to look up the Aircrack utility and see if you can crack a password within that wireless handshake.
 >
-> **[7:15](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=435)** Tricky to show in demos for classes here on LinkedIn Learning, because it's very much hit or miss.
+> **[7:15](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=435)** Tricky to show in demos for classes here on [[LinkedIn]] Learning, because it's very much hit or miss.
 >
 > **[7:21](https://www.linkedin.com/learning/security-testing-essential-training-2022/aircrack-ng-demo?u=76281980&t=441)** You might get a password in two minutes.
 >
@@ -3007,7 +2954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), traffic (2), hit (2), [[Kali Linux]] (1), [[Wireless Networking]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[Wireless Networking]] (1), [[LinkedIn]] (1)
 > **Env Vars:** bssid (4), alfa (1), awus036ach (1), mac (1), enc (1)
 > **CLI Commands:** sudo (4), find (2), make (1)
 > **File Paths:** kismet.csv (1), log.csv (1)
@@ -3021,8 +2968,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Password cracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980)
+#### [Password cracking](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3040,7 +2986,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=52)** One of their goals was to determine the initial attack vectors for those breaches.
 >
-> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=57)** Based on their data, they determined that the initial attack vector for 87% of these data breaches was either an application security weakness, an identity and access management weakness, or some combination of the two.
+> **[0:57](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=57)** Based on their data, they determined that the initial attack vector for 87% of these data breaches was either an [[Application Security]] weakness, an identity and access management weakness, or some combination of the two.
 >
 > **[1:13](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=73)** To put that another way, attackers were able to either guess or brute-force passwords, log in as existing users and wreak havoc.
 >
@@ -3076,22 +3022,21 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=214)** And the RockYou list has been a favorite of pen testers ever since.
 >
-> **[3:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=220)** Variations of the RockYou wordlist have been built into Kali Linux directly, and we're going to take a look at using Hashcat with the RockYou list to crack some passwords.
+> **[3:40](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=220)** Variations of the RockYou wordlist have been built into [[Kali Linux]] directly, and we're going to take a look at using [[Hashcat]] with the RockYou list to crack some passwords.
 >
 > **[3:53](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980&t=233)** But as I mentioned earlier, we're just scratching the surface when it comes to password cracking.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), application (6), data (3), management (1), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Kali Linux]] (1), [[Hashcat]] (1)
 > **URLs:** [rockyou.com](https://rockyou.com) (1)
 > **Speakers:** - [narrator] (1)
 
-#### Hashcat demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980)
+#### [Hashcat demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=0)** - [Instructor] For the hashcat demo, we're going to be back in Kali Linux.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=0)** - [Instructor] For the [[Hashcat]] demo, we're going to be back in [[Kali Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=4)** Now, hashcat again is a ridiculously powerful tool and there's a lot you can do with it above and beyond what we're going to be covering in the demo.
 >
@@ -3105,7 +3050,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=43)** We need to know the hash type of the passwords we're trying to crack and -a, the attack mode that we want to use when we're going after the passwords.
 >
-> **[0:53](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=53)** And as you use the space bar to go through the rest of the file, you'll get to a point where you see all of the options that you can throw to those parameters like the hash modes I mentioned, there are over 350 available in the current version of hashcat.
+> **[0:53](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=53)** And as you use the space bar to go through the [[Representational State Transfer (REST)|rest]] of the file, you'll get to a point where you see all of the options that you can throw to those parameters like the hash modes I mentioned, there are over 350 available in the current version of hashcat.
 >
 > **[1:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=68)** Each one is listed here and the number you see on the left corresponds to what you'll throw at the command line but we'll get into that in just a moment.
 >
@@ -3113,7 +3058,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=86)** So what I'd like to start with is by creating a password dictionary and we'll do that by echoing words to screen.
 >
-> **[1:35](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=95)** Let's start with LinkedIn, echo -n "LinkedIn" in double quotes and then I want to pipe that to md5sum, so I want to create an md5 of the word LinkedIn and then I want to pipe that to tr -d " -".
+> **[1:35](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=95)** Let's start with [[LinkedIn]], echo -n "LinkedIn" in double quotes and then I want to pipe that to md5sum, so I want to create an md5 of the [[Microsoft Word|word]] LinkedIn and then I want to pipe that to tr -d " -".
 >
 > **[1:55](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=115)** And that removes the trailing space and the trailing dash from the hash value.
 >
@@ -3167,7 +3112,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=327)** Now, one thing I want to point out about Kali Linux, if you go to user, share, word list, there are multiple sub directories that contain word lists that you can use for these types of attacks.
 >
-> **[5:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=342)** DIRB, D I R B is short for Directory Buster, it's a popular web app attack utility.
+> **[5:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=342)** [[Dirb]], D I R B is short for Directory Buster, it's a popular web app attack utility.
 >
 > **[5:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=348)** There's a file in there called common.txt, and that common file has hundreds of plain text words that are common in password dumps.
 >
@@ -3179,7 +3124,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=380)** It took what, three seconds here on the vm and that's fine for a couple of hashes.
 >
-> **[6:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=386)** In an actual scenario where you have hundreds or thousands of hashes, you might want to use a dedicated machine instead of doing it in a Linux virtual machine.
+> **[6:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=386)** In an actual scenario where you have hundreds or thousands of hashes, you might want to use a dedicated machine instead of doing it in a [[Linux]] virtual machine.
 >
 > **[6:36](https://www.linkedin.com/learning/security-testing-essential-training-2022/hashcat-demo?u=76281980&t=396)** Many pen test shops have dedicated systems for password cracking that have additional memory, they have additional GPUs, graphic processing units, but let's see if we got any output.
 >
@@ -3207,7 +3152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[LinkedIn]] (4), [[Kali Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Hashcat]] (16), [[Microsoft Word|Word]] (11), [[LinkedIn]] (4), [[Kali Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cat (5), find (2)
 > **Env Vars:** admin (5), dirb (1)
 > **File Paths:** output.txt (2), common.txt (2)
@@ -3216,14 +3161,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Penetration test planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980)
+#### [Penetration test planning](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=0)** - [Instructor] In my experience, the best way to validate your information security program is through a penetration test.
 >
-> **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=7)** Practically speaking, penetration testing can often be summed up in two concepts: privilege escalation and lateral movement.
+> **[0:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=7)** Practically speaking, [[Penetration Testing]] can often be summed up in two concepts: privilege escalation and lateral movement.
 >
 > **[0:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=17)** The initial goal is often to compromise a single system or application by compromising a set of valid credentials.
 >
@@ -3235,17 +3179,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=50)** If performing a pen test as part of your PCI DSS compliance efforts, you should be attempting to compromise cardholder data.
 >
-> **[0:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=59)** If you can access unencrypted credit cards via an application security vulnerability, or a set of credentials authorized to access that data, then you've accomplished your goal without compromising domain admin credentials.
+> **[0:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=59)** If you can access unencrypted credit cards via an [[Application Security]] vulnerability, or a set of credentials authorized to access that data, then you've accomplished your goal without compromising domain admin credentials.
 >
 > **[1:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=74)** Understanding why your customer engaged you to perform a penetration test is essential if you intend to conduct a pen test in line with the customer's expectations.
 >
-> **[1:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=87)** NIST subscribes to a four-stage penetration testing methodology: planning, discovery, attack, and reporting.
+> **[1:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=87)** [[NIST]] subscribes to a four-stage penetration testing methodology: planning, discovery, attack, and reporting.
 >
 > **[1:38](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=98)** The attack stage can be broken down into four distinct cyclical activities: gaining access, escalating privileges, system browsing and installing additional tools.
 >
 > **[1:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=111)** In my own consulting experience, though, I prefer to follow the penetration testing execution standard or PTES.
 >
-> **[1:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=119)** The PTES outlines a seven-stage methodology: pre-engagement interactions, intelligence gathering, threat modeling, vulnerability analysis, exploitation, post exploitation, and reporting.
+> **[1:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=119)** The PTES outlines a seven-stage methodology: pre-engagement interactions, intelligence gathering, [[Threat Modeling]], vulnerability analysis, exploitation, post exploitation, and reporting.
 >
 > **[2:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=137)** Your first activity should always be to ensure that the scope, methodology and goals have been explicitly identified.
 >
@@ -3253,16 +3197,15 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=159)** What should you focus on during a penetration test?
 >
-> **[2:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=162)** It could be any combination of the following: internet-facing systems, internet-facing applications, mobile applications, internal systems, internal applications, physical office locations, company employees, through social engineering, and systems and applications hosted by a third party.
+> **[2:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-planning?u=76281980&t=162)** It could be any combination of the following: internet-facing systems, internet-facing applications, mobile applications, internal systems, internal applications, physical [[Microsoft Office|office]] locations, company employees, through social engineering, and systems and applications hosted by a third party.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (3), application (3), data (3), [[Security]] (2), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (3), [[Application Security]] (1), [[NIST]] (1), [[Threat Modeling]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ptes (2), pci (1), dss (1), nist (1)
 > **Speakers:** - [instructor] (1)
 
-#### Penetration test tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980)
+#### [Penetration test tools](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3274,13 +3217,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=20)** They may be surprised to see that you found systems and applications that they didn't realize they still had online.
 >
-> **[0:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=27)** One of my favorite OSINT gathering tools is the "Discover" python script from Lee Baird.
+> **[0:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=27)** One of my favorite OSINT gathering tools is the "Discover" [[Python (Programming Language)|python]] script from Lee Baird.
 >
-> **[0:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=33)** You can download "Discover" from Lee's GitHub repository using the link here.
+> **[0:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=33)** You can download "Discover" from Lee's [[GitHub]] repository using the link here.
 >
 > **[0:38](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=38)** In order to get the best results from this tool, you'll need to spend a bit of time configuring the tool with API keys for the services you intend to access.
 >
-> **[0:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=48)** The APIs that I recommend you configure are as follows: Bing, BuiltWith, Censys, both the API and the secret key, FullContact, GitHub, Google, API and CSE, Hashes, Ipinfo, LinkedIn, client and secret, Shodan, and Twitter, both API and secret.
+> **[0:48](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=48)** The APIs that I recommend you configure are as follows: Bing, BuiltWith, Censys, both the API and the secret key, FullContact, GitHub, [[Google]], API and CSE, Hashes, Ipinfo, [[LinkedIn]], client and secret, Shodan, and Twitter, both API and secret.
 >
 > **[1:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=77)** Once you've configured these API keys within the tool you simply run the tool from the command line and enter the top level domains you'd like to analyze.
 >
@@ -3288,7 +3231,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=94)** When it comes to vulnerability analysis in a penetration test, there are multiple schools of thoughts.
 >
-> **[1:41](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=101)** NIST encourages the use of vulnerability scanners.
+> **[1:41](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=101)** [[NIST]] encourages the use of vulnerability scanners.
 >
 > **[1:45](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=105)** While you're likely to get detailed, accurate results on your targets using these tools, they'll almost certainly trigger alerts in your customer's security information event management system.
 >
@@ -3312,7 +3255,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=182)** The web application, Hunter, available at [hunter.io](https://hunter.io), can answer that question for you.
 >
-> **[3:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=189)** Metadata extraction tools like FOCA, and Metagoofil, can often extract internal network usernames from publicly available documents.
+> **[3:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=189)** [[Metadata]] extraction tools like FOCA, and Metagoofil, can often extract internal network usernames from publicly available documents.
 >
 > **[3:20](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-tools?u=76281980&t=200)** If you find a single username, enough to determine the customer's naming convention, you could scour LinkedIn for other employees working at the same company.
 >
@@ -3320,7 +3263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[GitHub]] (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[Google]] (1), [[NIST]] (1)
 > **Env Vars:** osint (6), api (5), cse (1), nist (1), foca (1)
 > **Tools:** github (2), command line (1)
 > **CLI Commands:** python (1), find (1)
@@ -3328,12 +3271,11 @@ created: 2026-05-02
 > **URLs:** [hunter.io](https://hunter.io) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Penetration test techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-techniques?u=76281980)
+#### [Penetration test techniques](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-techniques?u=76281980&t=0)** - [Presenter] One of my favorite penetration testing techniques is password spraying.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-techniques?u=76281980&t=0)** - [Presenter] One of my favorite [[Penetration Testing]] techniques is password spraying.
 >
 > **[0:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/penetration-test-techniques?u=76281980&t=5)** Instead of trying to brute force an application with one user name and multiple passwords, you instead use multiple user names and a single password.
 >
@@ -3369,19 +3311,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (2), application (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2)
 > **Env Vars:** rtfm (1), btfm (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980)
+#### [Social engineering](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=0)** - [Narrator] We tend to think of penetration testing as a technical exercise, but criminals learned long ago that it's much easier to hack a person.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=0)** - [Narrator] We tend to think of [[Penetration Testing]] as a technical exercise, but criminals learned long ago that it's much easier to hack a person.
 >
 > **[0:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=10)** That's why social engineering has been and will remain a highly effective method for compromising organizations.
 >
@@ -3391,7 +3332,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=33)** Examples of this are opening a malicious email attachment or visiting a malicious website, both with the intent of installing malware on the target system.
 >
-> **[0:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=44)** This is known as phishing and it's generally considered to be the most common social engineering attack method.
+> **[0:44](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=44)** This is known as [[Phishing]] and it's generally considered to be the most common social engineering attack method.
 >
 > **[0:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=52)** Another common tactic in social engineering is attempting to trick users into sharing valid credentials.
 >
@@ -3401,25 +3342,25 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=79)** A fantastic tool for staging and executing social engineering attacks is the social engineer toolkit or set.
 >
-> **[1:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=90)** Set is an open source python tool, originally written by Dave Kennedy, one of the most active and influential members of the Information Security Community.
+> **[1:30](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=90)** Set is an open source [[Python (Programming Language)|python]] tool, originally written by Dave Kennedy, one of the most active and influential members of the Information Security Community.
 >
-> **[1:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=99)** Set is pre-installed in Kali Linux and it's accessible under the social engineering tools of the applications menu.
+> **[1:39](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=99)** Set is pre-installed in [[Kali Linux]] and it's accessible under the social engineering tools of the applications menu.
 >
-> **[1:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=106)** Set contains nearly a dozen different attack vectors, helping you automate social engineering attacks against websites, wireless networks, email accounts, mobile devices, and even Arduino devices.
+> **[1:46](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=106)** Set contains nearly a dozen different attack vectors, helping you automate social engineering attacks against websites, wireless networks, email accounts, mobile devices, and even [[Arduino]] devices.
 >
 > **[2:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=120)** When it comes to website attack vectors, set includes seven unique attack methods in addition to credential harvesting.
 >
 > **[2:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=129)** Remember that the intent of social engineering isn't to embarrass your targets.
 >
-> **[2:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=134)** Rather, it's to help the organization determine whether or not their security awareness efforts are having the desired effect.
+> **[2:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=134)** Rather, it's to help the organization determine whether or not their [[Security Awareness]] efforts are having the desired effect.
 >
 > **[2:22](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=142)** More importantly, the results of your social engineering tests should provide your customer with targeted guidance on how they might improve their resilience to these types of attacks.
 >
 > **[2:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=154)** While phishing campaigns are far and away the most popular form of social engineering tests, I recommend that you consider including the following as well.
 >
-> **[2:45](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=165)** Perform a physical site visit, attempt to bypass the front desk and walk around the customer's office area.
+> **[2:45](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=165)** Perform a physical site visit, attempt to bypass the front desk and walk around the customer's [[Microsoft Office|office]] area.
 >
-> **[2:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=172)** An attacker who can gain physical access to their facilities could likely install unauthorized hardware on their internal network.
+> **[2:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=172)** An attacker who can gain physical access to their facilities could likely install unauthorized [[Hardware]] on their internal network.
 >
 > **[3:01](https://www.linkedin.com/learning/security-testing-essential-training-2022/social-engineering?u=76281980&t=181)** Authenticate to applications protected by two-factor authentication.
 >
@@ -3441,15 +3382,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (12), [[Phishing]] (2), [[Security]] (2), [[Penetration Testing]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Penetration Testing]] (1), [[Python (Programming Language)|Python]] (1), [[Kali Linux]] (1), [[Arduino]] (1)
 > **Definitions:** is an  (2), known as (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** osint (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### SET demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980)
+#### [SET demo](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3479,13 +3419,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=69)** If we trick somebody into giving us their credentials, we want a copy of those credentials somewhere that we control.
 >
-> **[1:16](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=76)** I'm going to use the Kali Linux Virtual Machine, 10.0.2.15.
+> **[1:16](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=76)** I'm going to use the [[Kali Linux]] Virtual Machine, 10.0.2.15.
 >
 > **[1:20](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=80)** So we'll accept the defaults.
 >
 > **[1:22](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=82)** And now we need to know what website we want to clone.
 >
-> **[1:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=87)** OWASP maintains a directory of vulnerable web applications that you can use to test your web application security skills.
+> **[1:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=87)** [[OWASP]] maintains a directory of vulnerable web applications that you can use to test your [[Web Application Security]] skills.
 >
 > **[1:37](https://www.linkedin.com/learning/security-testing-essential-training-2022/set-demo?u=76281980&t=97)** One of the web applications is Hack This [Site.org](https://Site.org).
 >
@@ -3537,7 +3477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (8), hit (2), web (2), [[Kali Linux]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1), [[OWASP]] (1), [[Web Application Security]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Versions:** 10.0.2 (2), 137.74.187 (1)
 > **URLs:** [site.org](https://site.org) (1), [https://www.hackthissite.org](https://www.hackthissite.org) (1)
@@ -3550,8 +3490,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coordinating your assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980)
+#### [Coordinating your assessments](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3569,7 +3508,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980&t=59)** Since your testing activity could potentially, trigger alerts or alarms, including calls to the help desk to report suspicious activity you should also consider engaging the managers of the team's responsible for those responses.
 >
-> **[1:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980&t=74)** Otherwise, you could inadvertently trigger the incident response plan, an unnecessary activity that could easily be avoided with the right communication beforehand.
+> **[1:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980&t=74)** Otherwise, you could inadvertently trigger the [[Incident Response]] plan, an unnecessary activity that could easily be avoided with the right communication beforehand.
 >
 > **[1:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980&t=86)** Schedule the assessment when it's least likely to impact operations.
 >
@@ -3611,15 +3550,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Incident Response]] (2), application (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980)
+#### [Data analysis](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3639,7 +3577,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=49)** And they enjoy playing games and solving puzzles.
 >
-> **[0:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=52)** That part of the brain that works through seemingly disconnected bits of information and forms meaningful patterns, is a part of the brain that makes pen testers good at what they do.
+> **[0:52](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=52)** That part of the brain that works through seemingly disconnected bits of information and [[Forms]] meaningful patterns, is a part of the brain that makes pen testers good at what they do.
 >
 > **[1:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=64)** However, it can also distract them from the ultimate goal of the engagement.
 >
@@ -3659,7 +3597,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=114)** If you don't have a system ready to go, you can download a virtual machine image from [osboxes.org](https://osboxes.org) and use that image for your testing.
 >
-> **[2:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=123)** Even better, you can pull down an intentionally vulnerable Linux system, from a site like, [vulnhub.com](https://vulnhub.com).
+> **[2:03](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=123)** Even better, you can pull down an intentionally vulnerable [[Linux]] system, from a site like, [vulnhub.com](https://vulnhub.com).
 >
 > **[2:10](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-analysis?u=76281980&t=130)** Once the Nessus scan is complete, start a timer.
 >
@@ -3695,15 +3633,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), next (2), [[Forms]] (1), management (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Linux]] (1)
 > **URLs:** [osboxes.org](https://osboxes.org) (1), [vulnhub.com](https://vulnhub.com) (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Providing context
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/providing-context?u=76281980)
+#### [Providing context](https://www.linkedin.com/learning/security-testing-essential-training-2022/providing-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3727,12 +3664,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980)
+#### [Data handling](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3760,11 +3695,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=102)** Go into each assessment with this consideration in mind though, and you're more likely to find the right balance.
 >
-> **[1:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=111)** Where possible you'll want to enforce strong encryption on data at rest.
+> **[1:51](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=111)** Where possible you'll want to enforce strong encryption on data at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:56](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=116)** Data should be stored on encrypted drives, especially on laptops, to protect against accidental disclosure if one of those devices is ever lost or stolen.
 >
-> **[2:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=127)** Enabling BitLocker on Windows or FileVault on Macs is one possible solution.
+> **[2:07](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=127)** Enabling BitLocker on [[Windows]] or FileVault on Macs is one possible solution.
 >
 > **[2:14](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=134)** Another is using VeraCrypt to create an encrypted volume where sensitive data can be stored on disk.
 >
@@ -3782,7 +3717,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=185)** Once an engagement is complete you have the option of destroying all sensitive data relating to the engagement or vaulting it on the client's behalf.
 >
-> **[3:15](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=195)** If you're deleting that data tools like CCleaner or BleachBit are popular in the Windows space, while utilities like shred, wipe, and secure-delete can get the job done on a Linux-based file system.
+> **[3:15](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=195)** If you're deleting that data tools like CCleaner or BleachBit are popular in the Windows space, while utilities like shred, wipe, and secure-delete can get the job done on a [[Linux]]-based file system.
 >
 > **[3:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/data-handling?u=76281980&t=211)** At a minimum I recommend that you use a file deletion utility that supports the US Department of Defense 5220.22-M wipe standard, also known as the three-pass overwrite.
 >
@@ -3792,14 +3727,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (2), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 5220.22 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drafting your report
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/drafting-your-report?u=76281980)
+#### [Drafting your report](https://www.linkedin.com/learning/security-testing-essential-training-2022/drafting-your-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3833,13 +3767,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Security]] (2), business (1), application (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delivering your report
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/delivering-your-report?u=76281980)
+#### [Delivering your report](https://www.linkedin.com/learning/security-testing-essential-training-2022/delivering-your-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3887,7 +3819,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), power (1), data (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -3898,8 +3829,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3911,7 +3841,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=22)** Make sure to check out the resource handout that accompanies this course.
 >
-> **[0:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=26)** Now that you're equipped with all of the security testing knowledge, what's next?
+> **[0:26](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=26)** Now that you're equipped with all of the [[Security Testing]] knowledge, what's next?
 >
 > **[0:32](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=32)** Well, you should put it in a practice. That's what.
 >
@@ -3939,7 +3869,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=120)** Over the years, I found that I enjoyed some areas more than others.
 >
-> **[2:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=124)** Areas like application security, security frameworks, identity and access management.
+> **[2:04](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=124)** Areas like [[Application Security]], security frameworks, identity and access management.
 >
 > **[2:11](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=131)** I could talk for days on those topics, and I was able to explore those interests while performing security assessments.
 >
@@ -3969,7 +3899,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=207)** Approach your academic advisor and communicate your interests.
 >
-> **[3:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=211)** Set up a profile on LinkedIn and begin networking with local information security professionals.
+> **[3:31](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=211)** Set up a profile on [[LinkedIn]] and begin networking with local information security professionals.
 >
 > **[3:37](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980&t=217)** If you ask enough people about whether or not they might be interested in mentoring you, you may just be surprised at how many times you receive an absolutely in reply.
 >
@@ -3983,29 +3913,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), next (3), application (1), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[Application Security]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we covered (2)
 > **Prerequisites:** install (1), set up (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [jerod] (1)
 
-#### Additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980)
+#### [Additional resources](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=0)** - [Instructor] While I spend a lot of my time reading blogs and scouring GitHub, I do have a few books that I return to time and again.
+> **[0:00](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=0)** - [Instructor] While I spend a lot of my time reading blogs and scouring [[GitHub]], I do have a few books that I return to time and again.
 >
-> **[0:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=8)** If you're interested, I recommend that you consider adding these books to your own shelf: "RTFM: The Red Team Field Manual," "BTFM: The Blue Team Field Manual," "Hash Crack: The Password Cracking Manual,: and "Penetration Testing: "A Hands on Introduction to Hacking."
+> **[0:08](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=8)** If you're interested, I recommend that you consider adding these books to your own shelf: "RTFM: The Red Team Field Manual," "BTFM: The Blue Team Field Manual," "Hash Crack: The Password Cracking Manual,: and "[[Penetration Testing]]: "A Hands on Introduction to Hacking."
 >
-> **[0:29](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=29)** I mentioned multiple NIST special publications throughout the course, referencing 801-15, the Technical Guide to Information Security Testing and Assessment more than any of the others.
+> **[0:29](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=29)** I mentioned multiple [[NIST]] special publications throughout the course, referencing 801-15, the Technical Guide to Information [[Security Testing]] and Assessment more than any of the others.
 >
-> **[0:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=42)** NIST special publications are incredibly detailed and free to download, and I recommend that you review these three publications more closely when you have the opportunity: Special Publication 800-30 Rev 1: "Guide for Conducting Risk Assessments," Special Publication 800-53 Rev 5: "Security and Privacy Controls "for Federal Information Systems and Organizations," and Special Publication 800-115: "Technical Guide to Information Security "Testing and Assessment."
+> **[0:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=42)** NIST special publications are incredibly detailed and free to download, and I recommend that you review these three publications more closely when you have the opportunity: Special Publication 800-30 Rev 1: "Guide for Conducting Risk Assessments," Special Publication 800-53 Rev 5: "Security and [[Privacy]] Controls "for Federal Information Systems and Organizations," and Special Publication 800-115: "Technical Guide to Information Security "Testing and Assessment."
 >
 > **[1:17](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=77)** Getting involved in professional groups is a fantastic way to connect with other information security professionals.
 >
-> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=85)** If you live near a major metropolitan area, I recommend that you check out local chapter meetings of one or more of these organizations: ISSA, ISACA, ISC Squared, InfraGard, and OWASP.
+> **[1:25](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=85)** If you live near a major metropolitan area, I recommend that you check out local chapter meetings of one or more of these organizations: ISSA, ISACA, ISC Squared, InfraGard, and [[OWASP]].
 >
 > **[1:42](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=102)** If a chapter doesn't exist yet, maybe you should start one.
 >
@@ -4039,7 +3968,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=199)** Finally, I recommend that you keep in touch with me as you continue to move forward in your career.
 >
-> **[3:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=204)** I'm easy enough to find here on LinkedIn and I publish my slides to conference talks on my SlideShare account and on my LinkedIn profile.
+> **[3:24](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=204)** I'm easy enough to find here on [[LinkedIn]] and I publish my slides to conference talks on my SlideShare account and on my LinkedIn profile.
 >
 > **[3:34](https://www.linkedin.com/learning/security-testing-essential-training-2022/additional-resources?u=76281980&t=214)** I also maintain a website in my spare time, [simplifyingcybersecurity.com](https://simplifyingcybersecurity.com).
 >
@@ -4051,7 +3980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[NIST]] (2), [[LinkedIn]] (2), [[GitHub]] (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[LinkedIn]] (2), [[GitHub]] (1), [[Penetration Testing]] (1), [[Privacy]] (1)
 > **Env Vars:** nist (2), rtfm (1), btfm (1), issa (1), isaca (1)
 > **CLI Commands:** find (4), make (1)
 > **URLs:** [infosec-conferences.com](https://infosec-conferences.com) (1), [securitybsides.com](https://securitybsides.com) (1), [irongeek.com](https://irongeek.com) (1), [simplifyingcybersecurity.com](https://simplifyingcybersecurity.com) (1)

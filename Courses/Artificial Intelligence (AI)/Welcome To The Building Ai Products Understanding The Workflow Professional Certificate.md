@@ -50,18 +50,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building and scaling AI products: Your path to success
-> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980)
+#### [Building and scaling AI products: Your path to success](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=0)** - AI is transforming the software development lifecycle, but even more so, it's dramatically changing the required skills to build and scale AI products.
+> **[0:00](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=0)** - AI is transforming the [[Software Development]] lifecycle, but even more so, it's dramatically changing the required skills to build and scale AI [[Microsoft Products|products]].
 >
 > **[0:10](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=10)** And the impact it's having in the workplace means we need to stay ahead of the curve.
 >
 > **[0:16](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=16)** It's an exciting time.
 >
-> **[0:18](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=18)** Welcome to LinkedIn's professional certificate program.
+> **[0:18](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=18)** Welcome to [[LinkedIn]]'s professional certificate program.
 >
 > **[0:22](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-understanding-the-workflow-professional-certificate/building-and-scaling-ai-products-your-path-to-success?u=76281980&t=22)** This learning path is here to guide you through each aspect of the certificate process.
 >
@@ -79,7 +78,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (2), [[LinkedIn]] (2), [[Software Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (2), [[Software Development]] (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music continues) (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - ai (1)

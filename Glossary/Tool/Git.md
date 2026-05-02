@@ -42,8 +42,8 @@ created: 2026-05-02
 
 > [!note]- See all 226 courses
 > 11. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 32 mentions
-> 12. [[Building Monorepos On Github]] — 28 mentions
-> 13. [[Complete Guide to AWS Software Deployment]] — 28 mentions
+> 12. [[Complete Guide to AWS Software Deployment]] — 29 mentions
+> 13. [[Building Monorepos On Github]] — 28 mentions
 > 14. [[Essential Jigsaw for PHP and Laravel Developers]] — 27 mentions
 > 15. [[DevSecOps- Building a Secure Continuous Delivery Pipeline]] — 26 mentions
 > 16. [[Deploying Django Apps- Make Your Site Go Live]] — 25 mentions
@@ -175,86 +175,86 @@ created: 2026-05-02
 > 142. [[ESLint- Customizing Styles]] — 2 mentions
 > 143. [[Practical GitHub Project Management and Collaboration]] — 2 mentions
 > 144. [[Blockchain and Smart Contracts Security]] — 2 mentions
-> 145. [[Learning Kubernetes]] — 1 mentions
-> 146. [[Object Oriented Programming With C Sharp]] — 1 mentions
-> 147. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
-> 148. [[Penetration Testing Essential Training]] — 1 mentions
-> 149. [[Stable Diffusion- Tips, Tricks, and Techniques]] — 1 mentions
-> 150. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
-> 151. [[Agile Software Development- Extreme Programming]] — 1 mentions
-> 152. [[Cloud Architecture- Advanced Concepts]] — 1 mentions
-> 153. [[Building PHP Applications with Generative AI]] — 1 mentions
-> 154. [[Learning the Angular CLI]] — 1 mentions
-> 155. [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — 1 mentions
-> 156. [[AWS for Developers- Identity Access Management (IAM)]] — 1 mentions
-> 157. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
-> 158. [[Data Engineering Pipeline Management with Apache Airflow]] — 1 mentions
-> 159. [[Node.js- Web Servers, Tests, and Deployment]] — 1 mentions
-> 160. [[CSS- Animation]] — 1 mentions
-> 161. [[Hands-On Introduction- Python]] — 1 mentions
-> 162. [[Level Up- Python]] — 1 mentions
-> 163. [[Refactoring with GitHub Copilot]] — 1 mentions
-> 164. [[SQL for Data Analysis]] — 1 mentions
-> 165. [[Apply Ethical AI Principles Using the Responsible AI Dashboard]] — 1 mentions
-> 166. [[Level Up- Rust]] — 1 mentions
-> 167. [[AWS- Networking]] — 1 mentions
-> 168. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
-> 169. [[Ai And Developer Productivity]] — 1 mentions
-> 170. [[Advanced RAG Applications with Vector Databases]] — 1 mentions
-> 171. [[Learning PowerShell]] — 1 mentions
-> 172. [[Learning Jira Software]] — 1 mentions
-> 173. [[Building Intelligent Chatbots on AWS]] — 1 mentions
-> 174. [[Succeeding in Web Development- Full Stack and Front End]] — 1 mentions
-> 175. [[AWS Essential Training for Architects]] — 1 mentions
-> 176. [[C- Design Patterns Part 1]] — 1 mentions
-> 177. [[GitHub Copilot for System-Level Development]] — 1 mentions
-> 178. [[Creating Spring Boot Microservices]] — 1 mentions
-> 179. [[Practice It- Python Data Structures]] — 1 mentions
-> 180. [[Level Up- Advanced Python]] — 1 mentions
-> 181. [[OpenAI API- Working with Files]] — 1 mentions
-> 182. [[OpenAI API- Fine-Tuning]] — 1 mentions
-> 183. [[Learning The Javascript Language]] — 1 mentions
-> 184. [[Vue.js- Creating and Hosting a Full-Stack Site]] — 1 mentions
-> 185. [[Programming with the Gemini Flash API]] — 1 mentions
-> 186. [[Training Neural Networks in Python]] — 1 mentions
-> 187. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
-> 188. [[Succeeding in DevOps]] — 1 mentions
-> 189. [[Automating SQL Server with dbatools]] — 1 mentions
-> 190. [[Machine Learning with Python- Logistic Regression]] — 1 mentions
-> 191. [[Introduction to Modern Data Engineering with Snowflake]] — 1 mentions
-> 192. [[Complete Guide To C Plus Plus Programming Foundations]] — 1 mentions
-> 193. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
-> 194. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 1 mentions
-> 195. [[C Plus Plus Essential Training]] — 1 mentions
-> 196. [[JavaScript- Recursion]] — 1 mentions
-> 197. [[Learning Java Collections]] — 1 mentions
-> 198. [[Java Exception Handling]] — 1 mentions
-> 199. [[Programming Foundations- Web Security]] — 1 mentions
-> 200. [[Software Development Life Cycle (SDLC)]] — 1 mentions
-> 201. [[Nail Your C++ Interview]] — 1 mentions
-> 202. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 1 mentions
-> 203. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 1 mentions
-> 204. [[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]] — 1 mentions
-> 205. [[Learning the R Tidyverse]] — 1 mentions
-> 206. [[Creating Maps with R]] — 1 mentions
-> 207. [[Build Advanced Charts in R]] — 1 mentions
-> 208. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
-> 209. [[Practice It- SQL Joins]] — 1 mentions
-> 210. [[Php Testing Legacy Applications]] — 1 mentions
-> 211. [[PHP- Creating Secure Websites]] — 1 mentions
-> 212. [[React- Testing and Debugging]] — 1 mentions
-> 213. [[Introduction to Docker for Java Developers]] — 1 mentions
-> 214. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
-> 215. [[Performance Tuning in Spring Apps]] — 1 mentions
-> 216. [[Advanced Spring- Spring Boot Actuator]] — 1 mentions
-> 217. [[Learning Playwright]] — 1 mentions
-> 218. [[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing]] — 1 mentions
-> 219. [[Laravel Essential Training]] — 1 mentions
-> 220. [[End-to-End JavaScript Testing with Cypress.io]] — 1 mentions
-> 221. [[Practical GitHub Code Search]] — 1 mentions
-> 222. [[Hands-On Introduction- Java]] — 1 mentions
-> 223. [[Practice It- Java]] — 1 mentions
-> 224. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 145. [[Complete Guide to Data Lakes and Lakehouses]] — 2 mentions
+> 146. [[Learning Kubernetes]] — 1 mentions
+> 147. [[Object Oriented Programming With C Sharp]] — 1 mentions
+> 148. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 1 mentions
+> 149. [[Penetration Testing Essential Training]] — 1 mentions
+> 150. [[Stable Diffusion- Tips, Tricks, and Techniques]] — 1 mentions
+> 151. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
+> 152. [[Agile Software Development- Extreme Programming]] — 1 mentions
+> 153. [[Cloud Architecture- Advanced Concepts]] — 1 mentions
+> 154. [[Building PHP Applications with Generative AI]] — 1 mentions
+> 155. [[Learning the Angular CLI]] — 1 mentions
+> 156. [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — 1 mentions
+> 157. [[AWS for Developers- Identity Access Management (IAM)]] — 1 mentions
+> 158. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
+> 159. [[Data Engineering Pipeline Management with Apache Airflow]] — 1 mentions
+> 160. [[Node.js- Web Servers, Tests, and Deployment]] — 1 mentions
+> 161. [[CSS- Animation]] — 1 mentions
+> 162. [[Hands-On Introduction- Python]] — 1 mentions
+> 163. [[Level Up- Python]] — 1 mentions
+> 164. [[Refactoring with GitHub Copilot]] — 1 mentions
+> 165. [[SQL for Data Analysis]] — 1 mentions
+> 166. [[Apply Ethical AI Principles Using the Responsible AI Dashboard]] — 1 mentions
+> 167. [[Level Up- Rust]] — 1 mentions
+> 168. [[AWS- Networking]] — 1 mentions
+> 169. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
+> 170. [[Ai And Developer Productivity]] — 1 mentions
+> 171. [[Advanced RAG Applications with Vector Databases]] — 1 mentions
+> 172. [[Learning PowerShell]] — 1 mentions
+> 173. [[Learning Jira Software]] — 1 mentions
+> 174. [[Building Intelligent Chatbots on AWS]] — 1 mentions
+> 175. [[Succeeding in Web Development- Full Stack and Front End]] — 1 mentions
+> 176. [[AWS Essential Training for Architects]] — 1 mentions
+> 177. [[C- Design Patterns Part 1]] — 1 mentions
+> 178. [[GitHub Copilot for System-Level Development]] — 1 mentions
+> 179. [[Creating Spring Boot Microservices]] — 1 mentions
+> 180. [[Practice It- Python Data Structures]] — 1 mentions
+> 181. [[Level Up- Advanced Python]] — 1 mentions
+> 182. [[OpenAI API- Working with Files]] — 1 mentions
+> 183. [[OpenAI API- Fine-Tuning]] — 1 mentions
+> 184. [[Learning The Javascript Language]] — 1 mentions
+> 185. [[Vue.js- Creating and Hosting a Full-Stack Site]] — 1 mentions
+> 186. [[Programming with the Gemini Flash API]] — 1 mentions
+> 187. [[Training Neural Networks in Python]] — 1 mentions
+> 188. [[Learning Jira- Leveraging Sprints, Releasing Features, Fixing Bugs, and Tracking Development]] — 1 mentions
+> 189. [[Succeeding in DevOps]] — 1 mentions
+> 190. [[Automating SQL Server with dbatools]] — 1 mentions
+> 191. [[Machine Learning with Python- Logistic Regression]] — 1 mentions
+> 192. [[Introduction to Modern Data Engineering with Snowflake]] — 1 mentions
+> 193. [[Complete Guide To C Plus Plus Programming Foundations]] — 1 mentions
+> 194. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
+> 195. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 1 mentions
+> 196. [[C Plus Plus Essential Training]] — 1 mentions
+> 197. [[JavaScript- Recursion]] — 1 mentions
+> 198. [[Learning Java Collections]] — 1 mentions
+> 199. [[Java Exception Handling]] — 1 mentions
+> 200. [[Programming Foundations- Web Security]] — 1 mentions
+> 201. [[Software Development Life Cycle (SDLC)]] — 1 mentions
+> 202. [[Nail Your C++ Interview]] — 1 mentions
+> 203. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 1 mentions
+> 204. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 1 mentions
+> 205. [[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]] — 1 mentions
+> 206. [[Learning the R Tidyverse]] — 1 mentions
+> 207. [[Creating Maps with R]] — 1 mentions
+> 208. [[Build Advanced Charts in R]] — 1 mentions
+> 209. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 1 mentions
+> 210. [[Practice It- SQL Joins]] — 1 mentions
+> 211. [[Php Testing Legacy Applications]] — 1 mentions
+> 212. [[PHP- Creating Secure Websites]] — 1 mentions
+> 213. [[React- Testing and Debugging]] — 1 mentions
+> 214. [[Introduction to Docker for Java Developers]] — 1 mentions
+> 215. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
+> 216. [[Performance Tuning in Spring Apps]] — 1 mentions
+> 217. [[Advanced Spring- Spring Boot Actuator]] — 1 mentions
+> 218. [[Learning Playwright]] — 1 mentions
+> 219. [[Advanced Playwright Techniques- Optimizing Speed, Stability, and Cloud Testing]] — 1 mentions
+> 220. [[Laravel Essential Training]] — 1 mentions
+> 221. [[End-to-End JavaScript Testing with Cypress.io]] — 1 mentions
+> 222. [[Practical GitHub Code Search]] — 1 mentions
+> 223. [[Hands-On Introduction- Java]] — 1 mentions
+> 224. [[Practice It- Java]] — 1 mentions
 > 225. [[Python Data Analysis]] — 1 mentions
 > 226. [[Learning npm- A Package Manager]] — 1 mentions
 

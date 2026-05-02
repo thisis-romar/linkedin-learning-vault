@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automation and Intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980)
+#### [Automation and Intelligence](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980&t=5)** One thing is for sure, the phenomena called intelligent automation has overwhelmed the agenda of enterprises across the globe.
 >
-> **[0:14](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980&t=14)** In a few short years, companies have pivoted from discussing strategies and discreet technologies, like robotic process automation, voice recognition, chat bots, and machine learning, to examining a combination of complimentary technologies that's come to be known as intelligent automation.
+> **[0:14](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980&t=14)** In a few short years, companies have pivoted from discussing strategies and discreet technologies, like [[Robotic Process Automation (RPA)|robotic process automation]], voice recognition, chat bots, and machine learning, to examining a combination of complimentary technologies that's come to be known as intelligent automation.
 >
 > **[0:32](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980&t=32)** You may also hear this referred to as intelligent process automation or hyper-automation.
 >
@@ -103,12 +102,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), career (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - is (1)
 
-#### Background and Course Topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/background-and-course-topics?u=76281980)
+#### [Background and Course Topics](https://www.linkedin.com/learning/intelligent-automation-foundations/background-and-course-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/intelligent-automation-foundations/background-and-course-topics?u=76281980&t=2)** In my career, I've worked with leading global companies, helping them understand, interpret, and apply cutting-edge technologies like intelligent automation.
 >
-> **[0:12](https://www.linkedin.com/learning/intelligent-automation-foundations/background-and-course-topics?u=76281980&t=12)** I have courses on LinkedIn Learning about robotic process automation, AI, and cognitive technologies.
+> **[0:12](https://www.linkedin.com/learning/intelligent-automation-foundations/background-and-course-topics?u=76281980&t=12)** I have courses on [[LinkedIn]] Learning about [[Robotic Process Automation (RPA)|robotic process automation]], AI, and cognitive technologies.
 >
 > **[0:19](https://www.linkedin.com/learning/intelligent-automation-foundations/background-and-course-topics?u=76281980&t=19)** I've founded several startups that have leveraged intelligent automation, and I've co-authored a book on the subject.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), career (1), [[LinkedIn]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - my (1)
 
@@ -145,8 +143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intelligent automation: Hype or reality?
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980)
+#### [Intelligent automation: Hype or reality?](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980&t=32)** It is progressively more and more embedded into the very fabric of how companies are evolving and transforming.
 >
-> **[0:40](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980&t=40)** When you hear someone reference digital transformation, they're referring to the shifts going on thanks to adopting some or all components of an intelligent automation portfolio.
+> **[0:40](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980&t=40)** When you hear someone reference [[Digital Transformation]], they're referring to the shifts going on thanks to adopting some or all components of an intelligent automation portfolio.
 >
 > **[0:51](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980&t=51)** No matter what industry, function, geography or product type, enterprises are transformaing using intelligent automation.
 >
@@ -206,14 +203,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), career (3), [[Digital Transformation]] (1), product (1), cloud (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - before (1)
 
-#### The future of (your) work
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/the-future-of-your-work?u=76281980)
+#### [The future of (your) work](https://www.linkedin.com/learning/intelligent-automation-foundations/the-future-of-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,7 +241,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), career (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
@@ -254,8 +249,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is intelligent automation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980)
+#### [What is intelligent automation?](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=4)** Quite simply, intelligent automation is a new generation of software based automation.
 >
-> **[0:10](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=10)** By software, I mean programs that help computers do work, as opposed to hardware, which is the use of physically engineered computing components.
+> **[0:10](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=10)** By software, I mean programs that help computers do work, as opposed to [[Hardware]], which is the use of physically engineered computing components.
 >
 > **[0:19](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=19)** Now, this is where we must stop and make a most important distinction.
 >
@@ -281,13 +275,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=60)** Much has been made of the physical automations that have improved our lives and modernized our factories.
 >
-> **[1:06](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=66)** And often, when people hear words like automation or robot, they immediately think of physical forms of automation.
+> **[1:06](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=66)** And often, when people hear words like automation or robot, they immediately think of physical [[Forms]] of automation.
 >
 > **[1:13](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=73)** Intelligent automation, however, is made of different stuff.
 >
 > **[1:18](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=78)** Intelligent automation is digital, virtual, electronic.
 >
-> **[1:22](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=82)** It is software scripts and programs, configurations and algorithms.
+> **[1:22](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=82)** It is software scripts and programs, configurations and [[Algorithms]].
 >
 > **[1:27](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980&t=87)** And by combining methods and technologies, intelligent automation enables us to, with the tools of today, address the challenges we face today.
 >
@@ -303,13 +297,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (11), [[Hardware]] (1), [[Forms]] (1), [[Algorithms]] (1), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Forms]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### The capabilities that make up intelligent automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/the-capabilities-that-make-up-intelligent-automation?u=76281980)
+#### [The capabilities that make up intelligent automation](https://www.linkedin.com/learning/intelligent-automation-foundations/the-capabilities-that-make-up-intelligent-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +312,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/intelligent-automation-foundations/the-capabilities-that-make-up-intelligent-automation?u=76281980&t=14)** We could discuss the types of programming frameworks and software involved.
 >
-> **[0:19](https://www.linkedin.com/learning/intelligent-automation-foundations/the-capabilities-that-make-up-intelligent-automation?u=76281980&t=19)** We could examine the algorithms and the associated dependencies and volumes and veracities of enterprise data.
+> **[0:19](https://www.linkedin.com/learning/intelligent-automation-foundations/the-capabilities-that-make-up-intelligent-automation?u=76281980&t=19)** We could examine the [[Algorithms]] and the associated dependencies and volumes and veracities of enterprise data.
 >
 > **[0:26](https://www.linkedin.com/learning/intelligent-automation-foundations/the-capabilities-that-make-up-intelligent-automation?u=76281980&t=26)** Or, we can go a route that I find far simpler and easier to get my head around, and it's a way I'm certain you'll see used quite often to distill this somewhat complicated topic.
 >
@@ -349,12 +342,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), [[Programming]] (1), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980)
+#### [Vision](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=38)** This sensory ability also applies to computers.
 >
-> **[0:42](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=42)** If we want computers to be capable of mimicking human tasks many of them will require some form of visual perception, or computer vision.
+> **[0:42](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=42)** If we want computers to be capable of mimicking human tasks many of them will require some form of visual perception, or [[Computer Vision]].
 >
 > **[0:51](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=51)** A great example is the state-of-the-art vision of modern self-driving cars.
 >
@@ -382,7 +374,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=79)** While this example is very high tech I'm sure you can think of many simpler tasks in your day job that require some degree of vision too.
 >
-> **[1:28](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=88)** Reading product order forms, locating account numbers on an invoice, determining a shipping address on a way bill, even identifying icons on your computer screen, and spotting notable health issues on an MRI.
+> **[1:28](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=88)** Reading product order [[Forms]], locating account numbers on an invoice, determining a shipping address on a way bill, even identifying icons on your computer screen, and spotting notable health issues on an MRI.
 >
 > **[1:42](https://www.linkedin.com/learning/intelligent-automation-foundations/vision?u=76281980&t=102)** At the end of the day, this identification of two and three dimensional symbols, words, numbers, objects and assets is a visual activity.
 >
@@ -390,13 +382,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Computer Vision]] (1), traffic (1), product (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** mri (1)
 > **Speakers:** - as (1)
 
-#### Execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/execution?u=76281980)
+#### [Execution](https://www.linkedin.com/learning/intelligent-automation-foundations/execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,20 +409,19 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/intelligent-automation-foundations/execution?u=76281980&t=61)** Yes, these sound very simple and generic, but that's what makes execution such a valuable capability.
 >
-> **[1:08](https://www.linkedin.com/learning/intelligent-automation-foundations/execution?u=76281980&t=68)** In a set of building blocks, execution would be the basic square building blocks that both make up the bulk of the structure you build as well as the foundation upon which the other elements can rest on top of.
+> **[1:08](https://www.linkedin.com/learning/intelligent-automation-foundations/execution?u=76281980&t=68)** In a set of building blocks, execution would be the basic square building blocks that both make up the bulk of the structure you build as well as the foundation upon which the other elements can [[Representational State Transfer (REST)|rest]] on top of.
 >
 > **[1:20](https://www.linkedin.com/learning/intelligent-automation-foundations/execution?u=76281980&t=80)** At the end of the day, for intelligent automation to do meaningful work, it must execute some function.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Programming]] (1), data (1), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - now (1)
 
-#### Language
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/language?u=76281980)
+#### [Language](https://www.linkedin.com/learning/intelligent-automation-foundations/language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/intelligent-automation-foundations/language?u=76281980&t=58)** You don't expect to be conversing with a computer on the other end, because computers don't have the linguistic skills to handle complex discussions or questioning, or do they?
 >
-> **[1:10](https://www.linkedin.com/learning/intelligent-automation-foundations/language?u=76281980&t=70)** Well, the field of linguistic computation is making big strides thanks to big data.
+> **[1:10](https://www.linkedin.com/learning/intelligent-automation-foundations/language?u=76281980&t=70)** Well, the field of linguistic computation is making big strides thanks to [[Big Data]].
 >
 > **[1:16](https://www.linkedin.com/learning/intelligent-automation-foundations/language?u=76281980&t=76)** And, there are language models today like GPT3 that can generate coherent pros that is almost indistinguishable from human writing.
 >
@@ -465,14 +455,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Big Data]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **CLI Commands:** cat (1)
 > **Env Vars:** gpt3 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### Thinking and learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning?u=76281980)
+#### [Thinking and learning](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning?u=76281980&t=48)** Calculators, a rudimentary digital technology, could only save you some time by taking care of manual number crunching.
 >
-> **[0:56](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning?u=76281980&t=56)** The rest of the problem, understanding the wording, planning the steps to solve it and putting the pieces together all need the human element.
+> **[0:56](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning?u=76281980&t=56)** The [[Representational State Transfer (REST)|rest]] of the problem, understanding the wording, planning the steps to solve it and putting the pieces together all need the human element.
 >
 > **[1:04](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning?u=76281980&t=64)** The same principle holds in the business world.
 >
@@ -502,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -511,8 +500,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vision technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980)
+#### [Vision technologies](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,13 +526,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=79)** However, when you move into more complex use cases where formats and fonts vary, OCR hits some limitations very quickly.
 >
-> **[1:27](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=87)** For example, any unusual or handwritten fonts will hinder OCR drastically, along with forms where there are tables and fields, rather than just plain text.
+> **[1:27](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=87)** For example, any unusual or handwritten fonts will hinder OCR drastically, along with [[Forms]] where there are tables and fields, rather than just plain text.
 >
 > **[1:38](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=98)** This is where the second technology comes into play.
 >
 > **[1:41](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=101)** This one is called ICR or intelligent character recognition, or IDP for intelligent document processing.
 >
-> **[1:51](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=111)** ICR combines OCR technology with machine-learning algorithms to digitize documents that would otherwise be too complex for OCR alone.
+> **[1:51](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=111)** ICR combines OCR technology with machine-learning [[Algorithms]] to digitize documents that would otherwise be too complex for OCR alone.
 >
 > **[2:02](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=122)** It does this through self-tuning algorithms which require large sets of example data and expected outputs.
 >
@@ -564,7 +552,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=166)** This technology allows for the extraction of data from digital images.
 >
-> **[2:50](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=170)** Images and videos are digitally seen through deep learning, which is a method of machine learning that mimics the neural networks in human brains.
+> **[2:50](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=170)** Images and videos are digitally seen through [[Deep Learning]], which is a method of machine learning that mimics the [[Neural Networks]] in human brains.
 >
 > **[2:59](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980&t=179)** By feeding enough image data of the same object, a deep-learning algorithm can develop accuracy in identifying it.
 >
@@ -600,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (4), [[Automation]] (3), [[Security]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Forms]] (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Env Vars:** ocr (10), icr (6), idp (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
@@ -608,14 +596,13 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execution technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980)
+#### [Execution technologies](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=0)** - [Instructor] Now let's discuss the second intelligent automation capability, execution.
 >
-> **[0:06](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=6)** The execution technologies consist of smart workflow tools, low and no-code platforms, and robotic process automation.
+> **[0:06](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=6)** The execution technologies consist of smart workflow tools, low and no-code platforms, and [[Robotic Process Automation (RPA)|robotic process automation]].
 >
 > **[0:15](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=15)** The first in the list, smart workflow tools, are a type of business process software that help users build and automate the workflow for predefined processes.
 >
@@ -655,7 +642,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=167)** This technology is an example of when low-code development is combined with a larger ecosystem of digital tools.
 >
-> **[2:54](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=174)** It is defined as a configurable software tool that uses business rules and sequences of actions to automatically complete processes in any number of different applications the same way a human would, with the help of people for exception management.
+> **[2:54](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=174)** It is defined as a configurable software tool that uses business rules and sequences of actions to automatically complete processes in any number of different applications the same way a human would, with the help of people for [[Exception Management]].
 >
 > **[3:10](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=190)** In other words, it is a class of software often with low-code features that mimics human actions in any IT application or website to perform complex, rule-based work.
 >
@@ -671,7 +658,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=244)** It also requires data inputs to be somewhat structured to function.
 >
-> **[4:09](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=249)** If you want a deep dive into the RPA space, I encourage you to watch another one of my LinkedIn Learning courses titled Introduction to Robotic Process Automation.
+> **[4:09](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=249)** If you want a deep dive into the RPA space, I encourage you to watch another one of my [[LinkedIn]] Learning courses titled Introduction to Robotic Process Automation.
 >
 > **[4:18](https://www.linkedin.com/learning/intelligent-automation-foundations/execution-technologies?u=76281980&t=258)** So execution is the act of doing work.
 >
@@ -679,17 +666,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (5), data (4), [[Automation]] (3), [[Robotic Process Automation (RPA)|Robotic process automation]] (3), business (2)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (3), [[Exception Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (5)
 > **Definitions:** is an  (1), defined as (1), in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Language technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980)
+#### [Language technologies](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=0)** - [Narrator] In the realm of language, essentially all technologies rely on the field of natural language processing or NLP.
+> **[0:00](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=0)** - [Narrator] In the realm of language, essentially all technologies rely on the field of [[Natural Language Processing (NLP)|natural language processing]] or NLP.
 >
 > **[0:09](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=9)** The examples I'll go over include intelligent chatbots, unstructured information management, sentiment analysis, and speech analytics.
 >
@@ -697,13 +683,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=21)** You've most certainly seen or interacted with chatbots before.
 >
-> **[0:25](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=25)** They are those chat windows that frequently pop up at the bottom of websites, sometimes to sell you something, other times to help you with a service request.
+> **[0:25](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=25)** They are those chat [[Windows]] that frequently pop up at the bottom of websites, sometimes to sell you something, other times to help you with a service request.
 >
 > **[0:33](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=33)** Chatbots simulate a conversation digitally using either a defined rule set for responses.
 >
 > **[0:39](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=39)** If you say this, I respond with that.
 >
-> **[0:41](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=41)** Or using deep learning response generation for intelligent chatbots.
+> **[0:41](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=41)** Or using [[Deep Learning]] response generation for intelligent chatbots.
 >
 > **[0:47](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=47)** This distinction's important because while rules-based chatbots have existed for decades, the truly impressive achievements in the modern day have centered around intelligent chatbots that can more closely resemble human dialogue.
 >
@@ -715,13 +701,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=82)** Being digital, these bots are always on and able to respond instantly, but that might also cause them to appear unrelatable and lacking empathy compared to humans.
 >
-> **[1:33](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=93)** In fact, I've seen examples where response times of customer support bots have been intentionally slowed down to make it look like a person took time to consider the response to a customer's questions or request for assistance.
+> **[1:33](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=93)** In fact, I've seen examples where response times of [[Customer Support]] bots have been intentionally slowed down to make it look like a person took time to consider the response to a customer's questions or request for assistance.
 >
 > **[1:48](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=108)** Unstructured information management platforms, or UIMs, are second in the language category.
 >
 > **[1:55](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=115)** These platforms are critical to getting value out of the flood of information available today.
 >
-> **[2:00](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=120)** The function of these platforms is to extract, categorize, and classify data, helping convert it to more meaningful and applicable forms.
+> **[2:00](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=120)** The function of these platforms is to extract, categorize, and classify data, helping convert it to more meaningful and applicable [[Forms]].
 >
 > **[2:09](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=129)** When you think of the application areas of UIMs, think of functions and industries where you'll see large stacks of paperwork or documentation.
 >
@@ -729,7 +715,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=145)** UIM is one of the more underrated intelligent automation technologies, but it serves an important role in the human to digital interface by transforming unstructured jargon to actionable information.
 >
-> **[2:38](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=158)** The main limitation is that the large quantity of unstructured data fed into a UIM must be relatively uniform and domain specific for it to work properly, meaning that each UIM is only suited for its own narrow process area.
+> **[2:38](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=158)** The main limitation is that the large quantity of [[Unstructured Data]] fed into a UIM must be relatively uniform and domain specific for it to work properly, meaning that each UIM is only suited for its own narrow process area.
 >
 > **[2:53](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=173)** Sentiment analysis, the third in the language category, is a core tactic for digitally inclined marketers.
 >
@@ -747,7 +733,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=243)** These insights, such as emotional tone, keywords, and specific questions, can provide timely prompts and reports to agents and their managers so they can adjust their actions accordingly.
 >
-> **[4:17](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=257)** Speech analytics is not only useful for real-time prompts but also in aggregating and analyzing interactions at a large scale.
+> **[4:17](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=257)** Speech analytics is not only useful for [[Real-Time]] prompts but also in aggregating and analyzing interactions at a large scale.
 >
 > **[4:25](https://www.linkedin.com/learning/intelligent-automation-foundations/language-technologies?u=76281980&t=265)** With a large set of transcribed data, one can find longer-term trends and patterns for continuous improvement and optimization.
 >
@@ -763,29 +749,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (3), [[Automation]] (3), management (2), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Customer Support]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Windows]] (1), [[Forms]] (1)
 > **Env Vars:** uim (4), nlp (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Thinking and learning technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980)
+#### [Thinking and learning technologies](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=0)** - [Narrator] The fourth and final capability is thinking and learning.
 >
-> **[0:05](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=5)** The main technologies within the thinking and learning capability are big data management, machine learning, and data visualization.
+> **[0:05](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=5)** The main technologies within the thinking and learning capability are [[Big Data]] management, machine learning, and data visualization.
 >
-> **[0:14](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=14)** A lot of intelligent automation relies on data management to some degree, the act of collecting, storing, and using data.
+> **[0:14](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=14)** A lot of intelligent automation relies on [[Data Management]] to some degree, the act of collecting, storing, and using data.
 >
 > **[0:23](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=23)** And big data management takes it a step further with specialized tools suited for processing large volumes of data.
 >
 > **[0:30](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=30)** These tools not only store data, but also serve key functions and making data usable.
 >
-> **[0:37](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=37)** The functions include data virtualization, data integration, data preparation, and data quality.
+> **[0:37](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=37)** The functions include data virtualization, [[Data Integration]], [[Data Preparation]], and [[Data Quality]].
 >
 > **[0:46](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=46)** For the sake of this introductory course, we'll stop here.
 >
@@ -793,9 +778,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=57)** For organizations that want some control over data coming from multiple sources, the tools listed are especially helpful in centralizing and connecting data streams from multiple systems, applications, functions, and business units.
 >
-> **[1:12](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=72)** Combined data sets can create a one plus one equals three effect, enabling more cooperation and visibility in strategic decision-making.
+> **[1:12](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=72)** Combined data sets can create a one plus one equals three effect, enabling more cooperation and visibility in strategic [[Decision-Making]].
 >
-> **[1:22](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=82)** For example, think of a consumer product company that uses sales data and customer complaint data to design better products that customers want and are happy with once they make the purchase.
+> **[1:22](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=82)** For example, think of a consumer product company that uses sales data and customer complaint data to design better [[Microsoft Products|products]] that customers want and are happy with once they make the purchase.
 >
 > **[1:34](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=94)** Another possibility, albeit negative, is what I call a one plus one equals one effect.
 >
@@ -809,9 +794,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=132)** The second technology we want to discuss under the thinking and learning banner is machine learning.
 >
-> **[2:18](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=138)** Machine learning is a core component of many technologies we've seen already, including image analysis, intelligent character recognition, and natural language processing.
+> **[2:18](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=138)** Machine learning is a core component of many technologies we've seen already, including image analysis, intelligent character recognition, and [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[2:30](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=150)** It uses self adjusting algorithms to find patterns in data.
+> **[2:30](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=150)** It uses self adjusting [[Algorithms]] to find patterns in data.
 >
 > **[2:34](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=154)** Common prediction models detect patterns using algorithms like regression analysis or cluster analysis.
 >
@@ -835,7 +820,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=231)** Painting pictures with data, especially when automated and in real time, can help teams make the right decisions quickly.
 >
-> **[4:00](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=240)** In the enterprise world, good examples of this are process mining and process discovery tools, which illustrate how work is currently done by analyzing transactional activity from IT systems.
+> **[4:00](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=240)** In the enterprise world, good examples of this are [[Process Mining]] and process discovery tools, which illustrate how work is currently done by analyzing transactional activity from IT systems.
 >
 > **[4:13](https://www.linkedin.com/learning/intelligent-automation-foundations/thinking-and-learning-technologies?u=76281980&t=253)** These tools help businesses decide what steps in a process can be improved, automated, or removed.
 >
@@ -847,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), management (3), [[Big Data]] (2), [[Automation]] (2), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Decision-Making]] (2), [[Algorithms]] (2), [[Data Management]] (1), [[Data Integration]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -858,8 +843,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combinations and synergies
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/combinations-and-synergies?u=76281980)
+#### [Combinations and synergies](https://www.linkedin.com/learning/intelligent-automation-foundations/combinations-and-synergies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,13 +871,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), data (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - okay (1)
 
-#### Complex intelligent automation solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980)
+#### [Complex intelligent automation solutions](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=14)** First, some context.
 >
-> **[0:17](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=17)** The banking process in question is designed to collect customer data and to use that data to assess customers' preferences and the bank's risk of doing business with that customer.
+> **[0:17](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=17)** The [[Banking]] process in question is designed to collect customer data and to use that data to assess customers' preferences and the bank's risk of doing business with that customer.
 >
 > **[0:28](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=28)** This information allows the bank to decide whether or not to approve the customer.
 >
@@ -909,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=37)** Collecting and checking client data, such as identification documents, electricity bills, rental contracts, and more.
 >
-> **[0:46](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=46)** Validating that data with government databases and other reference databases.
+> **[0:46](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=46)** Validating that data with government [[Databases]] and other reference databases.
 >
 > **[0:52](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=52)** Assessing the client's risk of fraud and insolvency.
 >
@@ -921,13 +903,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=83)** The redesigned process begins when a prospective customer starts the application.
 >
-> **[1:29](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=89)** Machine learning algorithms from the thinking and learning category use initial customer data to personalize the products and services offered.
+> **[1:29](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=89)** Machine learning [[Algorithms]] from the thinking and learning category use initial customer data to personalize the [[Microsoft Products|products]] and services offered.
 >
-> **[1:39](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=99)** As the customer fills in forms and uploads documents, the chatbot from the language category is available 24/7 to provide guidance and answer any questions the customer might have.
+> **[1:39](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=99)** As the customer fills in [[Forms]] and uploads documents, the chatbot from the language category is available 24/7 to provide guidance and answer any questions the customer might have.
 >
 > **[1:52](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=112)** Uploaded documents from the customer may include images of driver's licenses and scans of rental contracts, which are digitized with intelligent character recognition from the vision category.
 >
-> **[2:04](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=124)** At this point, robotic process automation from the execution category is used to verify the customer's data using third-party databases.
+> **[2:04](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=124)** At this point, [[Robotic Process Automation (RPA)|robotic process automation]] from the execution category is used to verify the customer's data using third-party databases.
 >
 > **[2:15](https://www.linkedin.com/learning/intelligent-automation-foundations/complex-intelligent-automation-solutions?u=76281980&t=135)** In the case where data is missing or needs clarification, an email is automatically sent to the customer to request additional information.
 >
@@ -947,12 +929,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Automation]] (3), [[Databases]] (3), business (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), [[Banking]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - to (1)
 
-#### Putting on the intelligent automation lens
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980)
+#### [Putting on the intelligent automation lens](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=43)** And while we don't have time to go over hundreds in this course, it's important that you have a few examples to inspire you and to set you on the right path.
 >
-> **[0:53](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=53)** Let's start with a few ways that intelligent automation can enhance human resources, a function that exists in every business and is traditionally full of rules-based tasks.
+> **[0:53](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=53)** Let's start with a few ways that intelligent automation can enhance [[Human Resources (HR)|human resources]], a function that exists in every business and is traditionally full of rules-based tasks.
 >
 > **[1:04](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=64)** Companies all need to find, hire, and onboard talent.
 >
@@ -978,7 +959,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=89)** With the support of historical data, the organization can more effectively hire high quality candidates that are a good fit.
 >
-> **[1:37](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=97)** Additionally, robotic process automation is a commonly used tool to handle the employee application process, from hiring to onboarding.
+> **[1:37](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=97)** Additionally, [[Robotic Process Automation (RPA)|robotic process automation]] is a commonly used tool to handle the employee application process, from hiring to onboarding.
 >
 > **[1:47](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=107)** in the onboarding process, many tasks, such as system registration, procurement of equipment, and benefits enrollment, can be offloaded to a robot, once certain steps are completed by the new employee.
 >
@@ -988,7 +969,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=133)** For such questions, chat bots can play an important role by handling the inquiries.
 >
-> **[2:19](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=139)** The customer's dialogue is understood with natural language processing, and responses are given based on a set of rules.
+> **[2:19](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=139)** The customer's dialogue is understood with [[Natural Language Processing (NLP)|natural language processing]], and responses are given based on a set of rules.
 >
 > **[2:26](https://www.linkedin.com/learning/intelligent-automation-foundations/putting-on-the-intelligent-automation-lens?u=76281980&t=146)** This provides most customers the immediate resolutions they're looking for, while leaving the complex cases to be handled by experienced customer service agents.
 >
@@ -1014,7 +995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), data (3), [[Human Resources (HR)|Human resources]] (1), business (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
@@ -1026,8 +1007,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Methodology and framework topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/methodology-and-framework-topics?u=76281980)
+#### [Methodology and framework topics](https://www.linkedin.com/learning/intelligent-automation-foundations/methodology-and-framework-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,11 +1021,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), teams (1), management (1)
 > **Speakers:** - the (1)
 
-#### Management of an intelligent automation program
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/management-of-an-intelligent-automation-program?u=76281980)
+#### [Management of an intelligent automation program](https://www.linkedin.com/learning/intelligent-automation-foundations/management-of-an-intelligent-automation-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1055,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/intelligent-automation-foundations/management-of-an-intelligent-automation-program?u=76281980&t=99)** Finally, the third element to consider is a clear governance structure, which ensures that the leaders in the intelligent automation program are aware of their roles and responsibilities.
 >
-> **[1:51](https://www.linkedin.com/learning/intelligent-automation-foundations/management-of-an-intelligent-automation-program?u=76281980&t=111)** The two main forms of governance are a leadership committee and an intelligent automation center of excellence.
+> **[1:51](https://www.linkedin.com/learning/intelligent-automation-foundations/management-of-an-intelligent-automation-program?u=76281980&t=111)** The two main [[Forms]] of governance are a leadership committee and an intelligent automation center of excellence.
 >
 > **[1:59](https://www.linkedin.com/learning/intelligent-automation-foundations/management-of-an-intelligent-automation-program?u=76281980&t=119)** The first group, the leadership committee, consists of executives and functional heads who help champion and manage the intelligent automation program.
 >
@@ -1089,15 +1067,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), business (3), leadership (2), management (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** coe (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - this (1)
 
-#### Purpose and structure of a center of excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/purpose-and-structure-of-a-center-of-excellence?u=76281980)
+#### [Purpose and structure of a center of excellence](https://www.linkedin.com/learning/intelligent-automation-foundations/purpose-and-structure-of-a-center-of-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1129,7 +1106,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), teams (1), business (1), rpa (1)
 > **Env Vars:** coe (8), dna (1), rpa (1)
 > **CLI Commands:** make (1)
 > **Versions:** 5.4 (1)
@@ -1138,8 +1114,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [host] (1)
 
-#### Success factors for scaling intelligent automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980)
+#### [Success factors for scaling intelligent automation](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,7 +1146,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=96)** Some believe that you should spend the time and invest in fixing a process before digitizing it with the relevant intelligent automation capabilities.
 >
-> **[1:46](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=106)** Others believe that achieving incremental value by automating even imperfect processes is still worth the investment on a path to achieving overall digital transformation and improvement in the long run.
+> **[1:46](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=106)** Others believe that achieving incremental value by automating even imperfect processes is still worth the investment on a path to achieving overall [[Digital Transformation]] and improvement in the long run.
 >
 > **[1:59](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=119)** Whether you transform before you digitize or digitize as you transform is a debate I don't think will ever be resolved.
 >
@@ -1199,15 +1174,15 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=183)** Companies with a lot of data sources, which is most companies can benefit from setting universal data policies, definitions, quality, security and compliance standards.
 >
-> **[3:15](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=195)** If you want to learn more about data management and governance, I recommend [[Learning Data Governance]].
+> **[3:15](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=195)** If you want to learn more about [[Data Management]] and governance, I recommend [[Learning [[Data Governance]]]].
 >
 > **[3:21](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=201)** In summary, I've had the privilege of working with and advising hundreds of clients around the planet.
 >
-> **[3:28](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=208)** And what I've learned is if you approach intelligent automation programs with the set of methodologies you learned in this course and your own appreciation for the nuances of your organizational culture, then you will greatly increase your odds for success.
+> **[3:28](https://www.linkedin.com/learning/intelligent-automation-foundations/success-factors-for-scaling-intelligent-automation?u=76281980&t=208)** And what I've learned is if you approach intelligent automation programs with the set of methodologies you learned in this course and your own appreciation for the nuances of your [[Organizational Culture]], then you will greatly increase your odds for success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), data (6), [[Security]] (2), career (1), strengths (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Data Management]] (1), [[Data Governance]] (1), [[Organizational Culture]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -1219,8 +1194,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IA is not just about the IA
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/ia-is-not-just-about-the-ia?u=76281980)
+#### [IA is not just about the IA](https://www.linkedin.com/learning/intelligent-automation-foundations/ia-is-not-just-about-the-ia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,16 +1220,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), management (4), business (1), teams (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - now (1)
 
-#### The stars of the show
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980)
+#### [The stars of the show](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=0)** - Because it is so very fundamental to your own career development and the success of any digital program you help shape and run, I'm going to repeat myself.
+> **[0:00](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=0)** - Because it is so very fundamental to your own [[Career Development]] and the success of any digital program you help shape and run, I'm going to repeat myself.
 >
 > **[0:12](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=12)** A solid approach to adapting the vision, execution, language and thinking and learning capabilities of intelligent automation is to engineer for the human element.
 >
@@ -1279,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=95)** The tools themselves are often very visual and involve dragging and dropping of modular building blocks.
 >
-> **[1:42](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=102)** Think of website design tools, or perhaps the tools you use for social media marketing.
+> **[1:42](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=102)** Think of website design tools, or perhaps the tools you use for [[Social Media Marketing]].
 >
 > **[1:48](https://www.linkedin.com/learning/intelligent-automation-foundations/the-stars-of-the-show?u=76281980&t=108)** As mentioned, thanks to the low-code/no-code movement, more and more non-technical people otherwise referred to as the business people, are able to contribute.
 >
@@ -1303,12 +1275,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), [[Career Development]] (1), product (1), application (1), [[Social Media Marketing]] (1)
+> **Frameworks & Libraries:** [[Career Development]] (1), [[Social Media Marketing]] (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - because (1)
 
-#### Where to explore next
-> [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/where-to-explore-next?u=76281980)
+#### [Where to explore next](https://www.linkedin.com/learning/intelligent-automation-foundations/where-to-explore-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/intelligent-automation-foundations/where-to-explore-next?u=76281980&t=40)** There's so much more to learn and there are many great sources to support your education.
 >
-> **[0:45](https://www.linkedin.com/learning/intelligent-automation-foundations/where-to-explore-next?u=76281980&t=45)** For instance, LinkedIn Learning has numerous classes that delve further into the technologies and some of the specific tools that make up intelligent automation.
+> **[0:45](https://www.linkedin.com/learning/intelligent-automation-foundations/where-to-explore-next?u=76281980&t=45)** For instance, [[LinkedIn]] Learning has numerous classes that delve further into the technologies and some of the specific tools that make up intelligent automation.
 >
 > **[0:53](https://www.linkedin.com/learning/intelligent-automation-foundations/where-to-explore-next?u=76281980&t=53)** I'll include some recommendations in the class notes.
 >
@@ -1350,7 +1321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), [[LinkedIn]] (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - congratulations (1)

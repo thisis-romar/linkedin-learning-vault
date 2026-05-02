@@ -104,16 +104,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980)
+#### [Introduction to the OpenAI API](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=0)** - You've heard of ChatGPT, but did you know that large language models like it are transforming industries like finance, healthcare, education, government, and more?
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=0)** - You've heard of [[ChatGPT]], but did you know that [[Large Language Models (LLM)|large language models]] like it are transforming industries like finance, healthcare, education, government, and more?
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=13)** Right now we have an incredible opportunity to harness the power of generative AI technology to elevate our applications to new heights.
+> **[0:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=13)** Right now we have an incredible opportunity to harness the power of [[Generative AI]] technology to elevate our applications to new heights.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=24)** And that's why in this LinkedIn Learning course, I will teach you how to use ChatGPT for practical application development.
+> **[0:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=24)** And that's why in this [[LinkedIn]] Learning course, I will teach you how to use ChatGPT for practical [[Application Development]].
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980&t=33)** Together we will unlock new development capabilities using both theory and hands-on challenges.
 >
@@ -123,15 +122,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), power (1), [[Generative AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI]] (1), [[LinkedIn]] (1), [[Application Development]] (1)
 > **Speakers:** - you (1)
 
-#### Review the OpenAI API scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980)
+#### [Review the OpenAI API scenario](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=0)** - During our time together, you'll learn how to use the OpenAI API and large language models or LLMs like ChatGPT and DALL-E.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=0)** - During our time together, you'll learn how to use the [[OpenAI API]] and [[Large Language Models (LLM)|large language models]] or LLMs like [[ChatGPT]] and [[DALL-E]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=11)** We'll use them to build practical applications that were expensive and nearly impossible just a few years ago.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=23)** With each lesson, you'll have an opportunity to reinforce the concepts through fun hands-on challenges.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=31)** By the end, you'll have developed an intelligent Python-based application, powered by LLMs.
+> **[0:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=31)** By the end, you'll have developed an intelligent [[Python (Programming Language)|Python]]-based application, powered by LLMs.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=38)** The application you develop will review a website and summarize the content of that website in a tweet-friendly format.
 >
@@ -157,17 +155,17 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=109)** The possibilities are endless.
 >
-> **[1:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=112)** If you know me, you know I'll be tweeting about Amazon Web Services, of course.
+> **[1:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=112)** If you know me, you know I'll be tweeting about [[Amazon Web Services (AWS)|Amazon Web Services]], of course.
 >
 > **[1:58](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=118)** And one more thing, this course has a lot of links.
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=122)** To access them all in one spot, go to your Exercise Files and download the Resources handout.
 >
-> **[2:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=130)** Now it's time to ignite your imagination as we explore the world of Generative AI, LLMs, ChatGPT, OpenAI and more.
+> **[2:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-the-openai-api-scenario?u=76281980&t=130)** Now it's time to ignite your imagination as we explore the world of [[Generative AI]], LLMs, ChatGPT, OpenAI and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[ChatGPT]] (2), [[OpenAI API]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[OpenAI API]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[DALL-E]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (2), dall (1)
 > **CLI Commands:** python (1), make (1)
 > **Exercise Files:** exercise files (1), download the (1)
@@ -180,20 +178,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the OpenAI platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980)
+#### [Explore the OpenAI platform](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=0)** - By unleashing the power of artificial intelligence, OpenAI's innovation is where minds and machines unite.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=0)** - By unleashing the power of [[Artificial Intelligence (AI)|artificial intelligence]], OpenAI's innovation is where minds and machines unite.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=9)** OpenAI is an AI research and development company with a goal to promote and develop friendly AI.
 >
-> **[0:16](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=16)** If you haven't heard of them before, they are the creators of ChatGPT, which I know you've heard of.
+> **[0:16](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=16)** If you haven't heard of them before, they are the creators of [[ChatGPT]], which I know you've heard of.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=23)** ChatGPT is an AI-powered chat bot that managed to take AI mainstream overnight.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=31)** OpenAI has developed multiple large language models or LLMs.
+> **[0:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=31)** OpenAI has developed multiple [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=37)** LLMs are machine learning models trained on massive amounts of text data from a wide variety of sources.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=110)** It goes on to talk about its architecture, which is based on GPT-3.5 and that it's been trained on a diverse range of text from the internet, books, articles, and other sources up until September, 2021.
 >
-> **[2:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=128)** I'll let you read the rest.
+> **[2:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=128)** I'll let you read the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:11](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=131)** The next question we can pose, let's see if it's smart enough to answer this question.
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=171)** If you haven't had an opportunity to try ChatGPT, I encourage you to play around with it so you can see how intelligent this artificial intelligence really is.
 >
-> **[3:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=184)** Other models from OpenAI include DALL-E, which creates images and art from a simple text description and Whisper, which transcribes audio to text and translates languages.
+> **[3:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=184)** Other models from OpenAI include [[DALL-E]], which creates images and art from a simple text description and Whisper, which transcribes audio to text and translates languages.
 >
 > **[3:19](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980&t=199)** OpenAI also provides developers access to their models using an application programming interface or API, which we'll use to integrate GPT and DALL-E into the application we develop later in this course.
 >
@@ -237,15 +234,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), ai (6), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[DALL-E]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (11), dall (2), api (2)
 > **Definitions:** is an  (3), is a  (1)
 > **Versions:** 3.5 (3)
 > **Cross-References:** later in (1)
 > **Speakers:** - by (1)
 
-#### Understand generative AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980)
+#### [Understand generative AI models](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,13 +251,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=10)** We build new things.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=13)** Generative AI models are much like developers, they use learning patterns from data they're trained on to create new things like music, images, text, and other content like poetry or blog posts.
+> **[0:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=13)** [[Generative AI]] models are much like developers, they use learning patterns from data they're trained on to create new things like music, images, text, and other content like poetry or blog posts.
 >
-> **[0:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=28)** Large language models, or LLMs, like OpenAI's GPT family of models, fall under the generative AI umbrella because they are used to generate something new, like the next word in a sentence based on the previous words.
+> **[0:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=28)** [[Large Language Models (LLM)|Large language models]], or LLMs, like OpenAI's GPT family of models, fall under the generative AI umbrella because they are used to generate something new, like the next [[Microsoft Word|word]] in a sentence based on the previous words.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=45)** When considering LLMs, there are generally two types, the base or foundation model, and the fine-tuned models retrained for specific task.
 >
-> **[0:56](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=56)** This further illustrates the difference between GPT and ChatGPT I introduced in the previous video.
+> **[0:56](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=56)** This further illustrates the difference between GPT and [[ChatGPT]] I introduced in the previous video.
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=64)** ChatGPT is a fine-tuned model from a foundation model in the GPT-3.5 family.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=83)** So, how are foundation models trained?
 >
-> **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=87)** They use large amounts of unlabeled data, like a massive collection of text data, webpages, books, and other sources to perform a wide variety of natural language processing, or NLP, tasks.
+> **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=87)** They use large amounts of unlabeled data, like a massive collection of text data, webpages, books, and other sources to perform a wide variety of [[Natural Language Processing (NLP)|natural language processing]], or NLP, tasks.
 >
 > **[1:43](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=103)** Foundation models learn a representation that generalizes well to many generative tasks.
 >
@@ -285,11 +281,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=167)** Developers who use the GPT-3.5 Turbo model will always get the recommended stable version of that model.
 >
-> **[2:55](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=175)** GPT-4.0, a set of models that improve on GPT-3.5 and can understand and generate natural language or code.
+> **[2:55](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=175)** [[GPT-4]].0, a set of models that improve on GPT-3.5 and can understand and generate natural language or code.
 >
-> **[3:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=186)** ChatGPT is fine tuned from a model in the GPT-3.5 series using reinforcement learning from human feedback, or RLHF.
+> **[3:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=186)** ChatGPT is fine tuned from a model in the GPT-3.5 series using [[Reinforcement Learning]] from human feedback, or RLHF.
 >
-> **[3:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=197)** The method includes an initial model that's trained using supervised fine tuning.
+> **[3:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=197)** The method includes an initial model that's trained using supervised [[Fine Tuning]].
 >
 > **[3:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-generative-ai-models?u=76281980&t=204)** This is where human AI trainers provide data in the form of conversations where they play both sides, the user and an AI assistant.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[ChatGPT]] (4), [[Generative AI]] (3), ai (3), [[Reinforcement Learning]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Generative AI]] (3), [[Reinforcement Learning]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gpt (12), nlp (1), rlhf (1), api (1)
 > **Versions:** 3.5 (5), 3.0 (1), 4.0 (1)
 > **Cross-References:** previous video (1)
@@ -313,8 +309,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - developers (1)
 
-#### Access models using the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980)
+#### [Access models using the OpenAI API](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -334,11 +329,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=52)** There's an attempt to match the input pattern you provided to an output value using tokenization.
 >
-> **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=59)** The gpt family of models processes text using tokens, which are a common sequence of characters found in text.
+> **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=59)** The gpt family of models processes text using [[Tokens]], which are a common sequence of characters found in text.
 >
 > **[1:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=68)** For example, the string tokenization is decomposed as token and ization.
 >
-> **[1:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=75)** While a short and common word like "The" is represented as a single token.
+> **[1:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=75)** While a short and common [[Microsoft Word|word]] like "The" is represented as a single token.
 >
 > **[1:21](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=81)** When the model returns a response or completion, it is actually predicting the next token, not the next word.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=99)** OpenAI provides a tool to help you count tokens and better understand how a piece of text would be tokenized by the API and the total count of tokens.
 >
-> **[1:51](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=111)** It's important to understand tokenization because of rate limitations placed on the API calls and cost associated with using the OpenAI API.
+> **[1:51](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=111)** It's important to understand tokenization because of rate limitations placed on the API calls and cost associated with using the [[OpenAI API]].
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=122)** The calls to the APIs are limited using the TPM, or token per minute, which differs based on the model.
 >
@@ -366,13 +361,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=169)** I'm interacting with the gpt-3.5-turbo model using the playground environment provided by OpenAI, which makes it easy to prototype with the models.
 >
-> **[3:02](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=182)** In this course, we'll use OpenAI's Python Library to access the API endpoints programmatically from our application code.
+> **[3:02](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=182)** In this course, we'll use OpenAI's [[Python (Programming Language)|Python]] Library to access the API endpoints programmatically from our application code.
 >
 > **[3:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/access-models-using-the-openai-api?u=76281980&t=192)** Now that you understand how to access models using the OpenAI API, let's explore it in more detail.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Tokens]] (7), application (4), prompt (3), next (3)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (2), [[OpenAI API]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (12), tpm (1)
 > **Versions:** 3.5 (3), 0.002 (1)
 > **CLI Commands:** make (1), python (1)
@@ -384,12 +379,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create chatbots using chat completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980)
+#### [Create chatbots using chat completion](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=0)** - You will not believe how easy it is to use ChatGPT to add interactive assistance and improve user experiences within your applications.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=0)** - You will not believe how easy it is to use [[ChatGPT]] to add interactive assistance and improve user experiences within your applications.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=12)** The Chat Completions API is used to pass a list of messages to the model as input and receive a model generated response as output.
 >
@@ -397,13 +391,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=28)** Do you remember when I explained tokenization to you?
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=32)** If you recall, traditional GPT models consume unstructured text, which is represented to the model as a sequence of tokens.
+> **[0:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=32)** If you recall, traditional GPT models consume unstructured text, which is represented to the model as a sequence of [[Tokens]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=40)** This is considered text in and text out, where a prompt string is accepted and a completion to append to the prompt is returned.
 >
-> **[0:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=50)** Unlike traditional GPT models, the ChatGPT, like GPT-3.5 and GPT-4 models, are conversation in and message out.
+> **[0:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=50)** Unlike traditional GPT models, the ChatGPT, like GPT-3.5 and [[GPT-4]] models, are conversation in and message out.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=61)** That is, the model takes in a series of messages along with metadata.
+> **[1:01](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=61)** That is, the model takes in a series of messages along with [[Metadata]].
 >
 > **[1:07](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=67)** I bet many of you are thinking, "How does this work under the hood?"
 >
@@ -413,13 +407,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=87)** Let me explain using code.
 >
-> **[1:30](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=90)** You can follow along by accessing the Exercise Files in GitHub.
+> **[1:30](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=90)** You can follow along by accessing the Exercise Files in [[GitHub]].
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=94)** We'll be using the file 02_01 for this video.
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=98)** We'll be using Jupyter Notebooks for the environment.
 >
-> **[1:41](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=101)** If you haven't used Python or Jupyter Notebooks, I don't expect you to get into the code right now.
+> **[1:41](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=101)** If you haven't used [[Python (Programming Language)|Python]] or Jupyter Notebooks, I don't expect you to get into the code right now.
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=107)** I'll go more in depth about setting up your environment in Chapter 3.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=208)** Don't forget that we are charged per token on the input and the output.
 >
-> **[3:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=213)** To fix this, we could change the initial message to teach or train the model what we expect back, and this is a brief introduction to prompt engineering.
+> **[3:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=213)** To fix this, we could change the initial message to teach or train the model what we expect back, and this is a brief introduction to [[Prompt Engineering]].
 >
 > **[3:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980&t=224)** Notice here, the system message is exactly the same, but the second prompt, I've tweaked it just a bit.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), api (3), [[ChatGPT]] (2), [[Tokens]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Tokens]] (2), [[Python (Programming Language)|Python]] (2), [[GPT-4]] (1), [[Metadata]] (1)
 > **Env Vars:** gpt (4), api (3)
 > **Tools:** jupyter (2), github (1), postman (1)
 > **CLI Commands:** python (2), curl (1)
@@ -480,8 +474,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (1)
 > **Exercise Files:** exercise files (1)
 
-#### Generate text using text completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980)
+#### [Generate text using text completion](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,9 +486,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=22)** The input is a simple text prompt with a model generating output that matches the context or pattern you provide.
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=30)** The Completions API is backed by a traditional GPT model that consumes unstructured text, which you already know is represented to the model as a sequence of tokens.
+> **[0:30](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=30)** The Completions API is backed by a traditional GPT model that consumes unstructured text, which you already know is represented to the model as a sequence of [[Tokens]].
 >
-> **[0:43](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=43)** A simple example input would be, "Write a title for a course on the OpenAI API."
+> **[0:43](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=43)** A simple example input would be, "Write a title for a course on the [[OpenAI API]]."
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=50)** With the output being, "Getting Started with the OpenAI API: A Comprehensive Guide."
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=87)** This happens because the model is considered stochastic!
 >
-> **[1:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=91)** The responses are generated randomly based on the input and the model's probability distribution.
+> **[1:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=91)** The responses are generated randomly based on the input and the model's [[Probability]] distribution.
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=99)** Imagine reaching into a jar filled with different colored balls.
 >
@@ -531,7 +524,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=151)** Another difference is the underlying GPT models available to each.
 >
-> **[2:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=157)** The Chat Completions API interfaces to GPT-4 and GPT-3 0.5 Turbo, and the Completions API interfaces with GPT-3.0, and anything before.
+> **[2:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=157)** The Chat Completions API interfaces to [[GPT-4]] and GPT-3 0.5 Turbo, and the Completions API interfaces with GPT-3.0, and anything before.
 >
 > **[2:51](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=171)** Developers often opt to use the Chat Completions API over the Completions API, because it's more cost-effective, and handles complex tasks better.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=187)** Here's the link to the endpoint to carry out the interaction with the Completions API.
 >
-> **[3:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=193)** This course will use open AI's Python library to access the API endpoints.
+> **[3:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=193)** This course will use open AI's [[Python (Programming Language)|Python]] library to access the API endpoints.
 >
 > **[3:19](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-text-using-text-completion?u=76281980&t=199)** However, you can test them directly from tools like Curl or Postman.
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[OpenAI API]] (4), prompt (3), [[Probability]] (3), ai (2)
+> **Frameworks & Libraries:** [[OpenAI API]] (4), [[Probability]] (3), [[Tokens]] (1), [[GPT-4]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (16), gpt (5)
 > **CLI Commands:** python (1), curl (1)
 > **Versions:** 0.5 (1), 3.0 (1)
@@ -556,8 +549,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Definitions:** is a  (1)
 
-#### Measure relatedness using embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980)
+#### [Measure relatedness using embeddings](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=28)** This transforms text into a sequence of floating point numbers.
 >
-> **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=33)** This numeric representation of text enables machine learning models and algorithms to comprehend the connections and associations among concepts more easily.
+> **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=33)** This numeric representation of text enables machine learning models and [[Algorithms]] to comprehend the connections and associations among concepts more easily.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=45)** The distance between two vectors measures their relatedness.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=57)** Think of embeddings like a map.
 >
-> **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=59)** Just as a map represents the spatial relationships between different locations, a word embeddings model represents the semantic relationships between words.
+> **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=59)** Just as a map represents the spatial relationships between different locations, a [[Microsoft Word|word]] embeddings model represents the semantic relationships between words.
 >
 > **[1:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=70)** Embeddings are often used for advanced document searches like: querying a knowledge base to find the most relevant article, sentence similarity where the model captures semantic similarities and differences based on the context and meaning of the words, Text classification like analyzing and classifying the sentiment expressed as positive or negative in product reviews, clustering, like identifying and extracting underlying topics or themes from a collection of text documents without prior knowledge of the topics, code search that includes code recommendations for software developers and more.
 >
@@ -623,7 +615,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=214)** In this cell, I am computing the cosine similarity.
 >
-> **[3:39](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=219)** I'm using NumPy, which is a Python-based data science library, to help calculate this similarity.
+> **[3:39](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=219)** I'm using NumPy, which is a [[Python (Programming Language)|Python]]-based [[Data Science]] library, to help calculate this similarity.
 >
 > **[3:46](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/measure-relatedness-using-embeddings?u=76281980&t=226)** Let's execute this code, and we see our cosine similarity.
 >
@@ -637,7 +629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Microsoft Word|Word]] (3), product (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (2), cat (2), python (2), curl (1)
 > **Env Vars:** api (5)
 > **Definitions:** is a  (4), known as (1)
@@ -646,12 +638,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 0.89 (1)
 
-#### Turn audio into text using Whisper
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980)
+#### [Turn audio into text using Whisper](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=0)** - Do you want to learn about the most robust and accurate automatic speech recognition system on the planet?
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=0)** - Do you want to learn about the most robust and accurate automatic [[Speech Recognition]] system on the planet?
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=8)** We're talking about a model trained on 680,000 hours of multilingual and multitask data collected from the web.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=87)** To upload audio files, you'll use the file's API URL.
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=92)** In our code examples, I'm using Open AI's Python Library.
+> **[1:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=92)** In our code examples, I'm using Open AI's [[Python (Programming Language)|Python]] Library.
 >
 > **[1:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=97)** When using the Python library, the model name Whisper One will retrieve the Whisper version Two large language model.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=126)** Now let's look at our transcription example.
 >
-> **[2:09](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=129)** I have this audio file, LinkedIn Learning.
+> **[2:09](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=129)** I have this audio file, [[LinkedIn]] Learning.
 >
 > **[2:13](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=133)** Let me play this so you can hear it.
 >
@@ -703,9 +694,9 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=179)** Let's execute it and we see the output here.
 >
-> **[3:03](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=183)** If you like this course, take a look at my other courses, Artificial Intelligence Foundations, Automatic Learning on Programming Foundations, APIs, and Web Services.
+> **[3:03](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=183)** If you like this course, take a look at my other courses, [[Artificial Intelligence Foundations]], Automatic Learning on [[Programming Foundations]], APIs, and Web Services.
 >
-> **[3:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=195)** This word automatic should be machine learning, but this gives you an idea of how you can use Whisper for language translation and transcribing audio to text.
+> **[3:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=195)** This [[Microsoft Word|word]] automatic should be machine learning, but this gives you an idea of how you can use Whisper for language translation and transcribing audio to text.
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/turn-audio-into-text-using-whisper?u=76281980&t=208)** Whisper produces high quality results and is an efficient solution for many speech to text applications.
 >
@@ -713,19 +704,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), ai (2), [[Python (Programming Language)|Python]] (2), [[Speech Recognition]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Speech Recognition]] (1), [[LinkedIn]] (1), [[Artificial Intelligence Foundations]] (1), [[Programming Foundations]] (1)
 > **Env Vars:** url (2), mp3 (1), mp4 (1), gpt (1), api (1)
 > **CLI Commands:** python (2), curl (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** postman (1), jupyter (1)
 > **Speakers:** - do (1)
 
-#### Generate images using DALL-E
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980)
+#### [Generate images using DALL-E](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=0)** - You can generate an image from scratch using a simple text description available using open AI's DALL-E model.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=0)** - You can generate an image from scratch using a simple text description available using open AI's [[DALL-E]] model.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=9)** I admit, I had a lot of fun using DALL-E to bring my creative ideas to life and I'm not alone.
 >
@@ -767,7 +757,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=131)** We will not access these APIs directly through a tool like Postman or Curl.
 >
-> **[2:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=137)** Instead, we'll use OpenAI's Python library.
+> **[2:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=137)** Instead, we'll use OpenAI's [[Python (Programming Language)|Python]] library.
 >
 > **[2:21](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/generate-images-using-dall-e?u=76281980&t=141)** Let's see that now.
 >
@@ -841,7 +831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (13), prompt (7), api (7), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[DALL-E]] (13), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** dall (13), api (7), url (1)
 > **CLI Commands:** python (2), curl (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -850,8 +840,7 @@ created: 2026-05-02
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Cross-References:** in the next (1)
 
-#### Customize a model using fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980)
+#### [Customize a model using fine-tuning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -883,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=91)** Very easy.
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=92)** Your custom version will start training and be available immediately via the OpenAI API.
+> **[1:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=92)** Your custom version will start training and be available immediately via the [[OpenAI API]].
 >
 > **[1:40](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=100)** Let's see this in action.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=254)** Scroll down a bit.
 >
-> **[4:16](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=256)** Now that we have the training data in this format, we'll need to prepare it using a data preparation tool provided by OpenAI.
+> **[4:16](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=256)** Now that we have the training data in this format, we'll need to prepare it using a [[Data Preparation]] tool provided by OpenAI.
 >
 > **[4:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/customize-a-model-using-fine-tuning?u=76281980&t=264)** The tool essentially takes the CSV file and formats it so that the model can understand it.
 >
@@ -1003,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), prompt (5), next (2), [[OpenAI API]] (1), api (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[Data Preparation]] (1)
 > **Env Vars:** gpt (4), api (2), csv (2), jsonl (1)
 > **UI Navigation:** scroll down (5)
 > **Analogies:** imagine (2), for example (1)
@@ -1012,12 +1001,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - what (1)
 
-#### Examine key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980)
+#### [Examine key concepts](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=0)** - By now you're familiar with key terms and concepts like models, LLMs, fine tuning, prompts, tokens, completions, embeddings, transformers, and more.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=0)** - By now you're familiar with key terms and concepts like models, LLMs, [[Fine Tuning]], prompts, [[Tokens]], completions, embeddings, transformers, and more.
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=15)** Let's pool all these concepts together and introduce a few new concepts like probabilities and completion parameters.
 >
@@ -1025,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=37)** Once you have a foundation LLM, you can fine tune it using data for your specific use case.
 >
-> **[0:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=44)** ChatGPT takes a series of prompts that go through a tokenization process by which the model processes the input text by breaking it down into smaller units called tokens.
+> **[0:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=44)** [[ChatGPT]] takes a series of prompts that go through a tokenization process by which the model processes the input text by breaking it down into smaller units called tokens.
 >
 > **[0:57](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=57)** Now I'm going to introduce a new concept, probabilities.
 >
@@ -1033,7 +1021,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=70)** Take a look at this example using the phrase, which cheese pairs.
 >
-> **[1:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=75)** The model predicts at a 72% probability that the next word should be best, with better coming in only at 2.26%.
+> **[1:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=75)** The model predicts at a 72% [[Probability]] that the next [[Microsoft Word|word]] should be best, with better coming in only at 2.26%.
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/examine-key-concepts?u=76281980&t=87)** Do you remember when I told you about the temperature setting?
 >
@@ -1075,7 +1063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Tokens]] (4), [[Probability]] (4), data (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Probability]] (4), [[Microsoft Word|Word]] (2), [[Fine Tuning]] (1), [[ChatGPT]] (1)
 > **Code Identifiers:** max_tokens (1), presence_penalty (1), frequency_penalty (1)
 > **Versions:** 0.1 (2), 2.26 (1)
 > **Env Vars:** gpt (1), llm (1)
@@ -1084,18 +1072,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - by (1)
 
-#### Understand pricing models
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980)
+#### [Understand pricing models](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=0)** - The OpenAI API is not free.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=0)** - The [[OpenAI API]] is not free.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=4)** If you're going to use it, it's important that you understand the cost so you're not surprised when you receive your monthly bill.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=12)** OpenAI offers a pay as you go pricing model where you're billed at the end of each calendar month.
 >
-> **[0:19](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=19)** The prices are per 1,000 tokens roughly equal to 750 words, with $5 in free credit that can be used during your first three months.
+> **[0:19](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=19)** The prices are per 1,000 [[Tokens]] roughly equal to 750 words, with $5 in free credit that can be used during your first three months.
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=30)** 1,000 tokens of input costs 0.0015 of a dollar, while 1,000 tokens of output costs 0.002 of a dollar.
 >
@@ -1121,7 +1108,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=121)** These are enforced through requests per minute, tokens per minute, or images per minute for images.
 >
-> **[2:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=128)** You may have heard about the ChatGPT Plus subscription, which differs from API pricing and is billed separately.
+> **[2:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=128)** You may have heard about the [[ChatGPT]] Plus subscription, which differs from API pricing and is billed separately.
 >
 > **[2:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-pricing-models?u=76281980&t=137)** The ChatGPT Plus subscription covers usage on chat.[openai.com](https://openai.com), the ChatGPT web interface, and currently costs a flat fee of $20 per month.
 >
@@ -1131,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), api (5), [[ChatGPT]] (4), [[OpenAI API]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[ChatGPT]] (4), [[OpenAI API]] (2)
 > **Env Vars:** api (7)
 > **Versions:** 0.0015 (1), 0.002 (1)
 > **CLI Commands:** make (1)
@@ -1144,22 +1131,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install Python and Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980)
+#### [Install Python and Jupyter Notebook](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=0)** - Are you ready for the hands-on portion of this course?
 >
-> **[0:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=4)** We'll configure your environment and get started with OpenAI and ChatGPT.
+> **[0:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=4)** We'll configure your environment and get started with OpenAI and [[ChatGPT]].
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=10)** We'll be using the classic Jupyter Notebook interface and OpenAI's Python library that provides access to the OpenAI API.
+> **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=10)** We'll be using the classic Jupyter Notebook interface and OpenAI's [[Python (Programming Language)|Python]] library that provides access to the [[OpenAI API]].
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=20)** With Jupyter Notebooks, we'll author code using the Python programming language and OpenAI libraries.
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=28)** The first step is to install Python by following the download instructions on the Python website.
 >
-> **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=33)** Make sure to follow the instructions for your specific operating system, Mac, Windows, et cetera.
+> **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=33)** Make sure to follow the instructions for your specific operating system, Mac, [[Windows]], et cetera.
 >
 > **[0:41](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=41)** If you already have Python installed, ensure your version is at Python 3.7.1 or above, because that's what OpenAI supports.
 >
@@ -1209,7 +1195,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=194)** You can confirm it by typing openai --version.
 >
-> **[3:18](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=198)** If you encounter issues confirming your version, you may need to make the OpenAI CLI executable.
+> **[3:18](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=198)** If you encounter issues confirming your version, you may need to make the OpenAI [[CLI]] executable.
 >
 > **[3:25](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980&t=205)** The steps depend on your operating system.
 >
@@ -1219,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[OpenAI API]] (2), next (2), api (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[OpenAI API]] (2), [[ChatGPT]] (1), [[Windows]] (1), [[CLI]] (1)
 > **CLI Commands:** python (17), pip (10), make (2), python3 (1), pip3 (1)
 > **Tools:** jupyter (11), terminal (2)
 > **Prerequisites:** install (6), configure (1), you'll need (1)
@@ -1228,12 +1214,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 
-#### Sign up for an OpenAI API account
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980)
+#### [Sign up for an OpenAI API account](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=0)** - You have one last step before officially accessing the OpenAI API from your application code.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=0)** - You have one last step before officially accessing the [[OpenAI API]] from your application code.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=7)** That step is to create an API key.
 >
@@ -1277,13 +1262,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=137)** Now that you've set up your OpenAI account and generated your API key, you can start coding.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=144)** Get ready for your first step, which is to store your newly generated API key in a secure environment variable accessible by your Python code.
+> **[2:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=144)** Get ready for your first step, which is to store your newly generated API key in a secure environment variable accessible by your [[Python (Programming Language)|Python]] code.
 >
 > **[2:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-an-openai-api-account?u=76281980&t=153)** See you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (20), application (2), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (21)
 > **Prerequisites:** you'll need (3), set up (2), configure (1)
 > **UI Navigation:** click on (3), navigate to (1), go to (1)
@@ -1292,8 +1277,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - you (1)
 
-#### Test the APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980)
+#### [Test the APIs](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=20)** You can use a free tool like Curl.
 >
-> **[0:23](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=23)** Curl comes pre-installed on Windows and Mac.
+> **[0:23](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=23)** Curl comes pre-installed on [[Windows]] and Mac.
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=26)** Otherwise, you can download the package from the Curl website.
 >
@@ -1329,7 +1313,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=87)** As we learned in the last lesson, you'll need to use your backstage pass to authenticate to the API.
 >
-> **[1:34](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=94)** You'll simply replace this OpenAI API key up here with your API key.
+> **[1:34](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=94)** You'll simply replace this [[OpenAI API]] key up here with your API key.
 >
 > **[1:41](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/test-the-apis?u=76281980&t=101)** Once you do that and execute the code again, the response from the model should be, "Hi, how can I assist you today?"
 >
@@ -1373,7 +1357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), application (2), [[Windows]] (1), [[OpenAI API]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (13), gpt (3), url (2)
 > **CLI Commands:** curl (6), find (1)
 > **Tools:** postman (3), terminal (1)
@@ -1387,8 +1371,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore chat completion API call
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980)
+#### [Explore chat completion API call](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,13 +1381,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=8)** We'll review the syntax of the request line by line, completion parameter by completion parameter.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=15)** As a reminder, this is the ChatGPT-powered application we're building.
+> **[0:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=15)** As a reminder, this is the [[ChatGPT]]-powered application we're building.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=21)** In this chapter, we'll build the foundation for a multi-turn conversation with our AI assistant that jumpstarts the process of summarizing a website.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=31)** Let's look at the API reference for the Chat Completions API to understand what a sample request will look like.
 >
-> **[0:39](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=39)** I'll be using Postman because it has a nice user interface that is easy to navigate and is the go-to tool for API testing.
+> **[0:39](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=39)** I'll be using Postman because it has a nice user interface that is easy to navigate and is the go-to tool for [[API Testing]].
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=50)** You've seen Postman before.
 >
@@ -1412,7 +1395,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=55)** In our case, we are posting data to the API, the full URL of the API goes here, your API key goes under the Authorization tab, the request body goes under the Body tab, and you send the request to the API by clicking on the blue Send button.
 >
-> **[1:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=72)** I'm on the Body tab and you'll notice that the request body is in raw JSON format and includes the model parameter here on line two, which identifies the model we're using, in our case, GPT-3.5 Turbo.
+> **[1:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=72)** I'm on the Body tab and you'll notice that the request body is in raw [[JSON]] format and includes the model parameter here on line two, which identifies the model we're using, in our case, GPT-3.5 Turbo.
 >
 > **[1:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=87)** There's also the messages parameter here on line three, which includes the conversation.
 >
@@ -1458,7 +1441,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=195)** By looking at these responses, I've learned that I should not fry anything in extra virgin olive oil.
 >
-> **[3:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=204)** I bet you're asking yourself how an API call like this works in conjunction with the OpenAI Python library and what the differences are.
+> **[3:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=204)** I bet you're asking yourself how an API call like this works in conjunction with the OpenAI [[Python (Programming Language)|Python]] library and what the differences are.
 >
 > **[3:35](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980&t=215)** The library makes the API easier to work with from application code by providing a layer of abstraction and simplifying the interaction with the API.
 >
@@ -1502,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), [[Python (Programming Language)|Python]] (4), application (2), [[ChatGPT]] (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[ChatGPT]] (1), [[API Testing]] (1), [[JSON]] (1)
 > **Env Vars:** api (16), gpt (2), url (1), json (1)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** postman (5)
@@ -1511,8 +1494,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (2), api reference (1)
 > **Versions:** 3.5 (2)
 
-#### Review chat completion API response
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-chat-completion-api-response?u=76281980)
+#### [Review chat completion API response](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-chat-completion-api-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1520,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-chat-completion-api-response?u=76281980&t=40)** A common reason is stop, which means the completion was generated successfully.
 >
-> **[0:45](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-chat-completion-api-response?u=76281980&t=45)** Another reason is length, which means the language model ran out of tokens before being able to finish the completion.
+> **[0:45](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-chat-completion-api-response?u=76281980&t=45)** Another reason is length, which means the language model ran out of [[Tokens]] before being able to finish the completion.
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-chat-completion-api-response?u=76281980&t=53)** You'll want the finish reason to be stopped to indicate that everything was completed successfully.
 >
@@ -1622,7 +1604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), next (6), api (4), prompt (3), ai (2)
+> **Frameworks & Libraries:** [[Tokens]] (7)
 > **Env Vars:** api (4), gpt (3)
 > **UI Navigation:** scroll down (4)
 > **Versions:** 3.5 (3)
@@ -1631,8 +1613,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build a dialog using chat completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-build-a-dialog-using-chat-completion?u=76281980)
+#### [Challenge: Build a dialog using chat completion](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-build-a-dialog-using-chat-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,15 +1641,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), ai (1)
 > **Env Vars:** api (2)
 > **Tools:** jupyter (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - this (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build a dialog using chat completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980)
+#### [Solution: Build a dialog using chat completion](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,7 +1665,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=26)** Next, I imported the OS and OpenAI modules, or libraries.
 >
-> **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=33)** You're familiar with the OpenAI Python library.
+> **[0:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=33)** You're familiar with the OpenAI [[Python (Programming Language)|Python]] library.
 >
 > **[0:36](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=36)** The OS module provides access to operating system dependent functionality.
 >
@@ -1694,7 +1673,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=50)** Scroll down.
 >
-> **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=52)** On line one, here I am retrieving the OpenAI API key from the environment variable and storing it in OpenAI.API_key.
+> **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=52)** On line one, here I am retrieving the [[OpenAI API]] key from the environment variable and storing it in OpenAI.API_key.
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=65)** This variable is used to authenticate to the API.
 >
@@ -1708,7 +1687,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=93)** The first function here in cell 17 is generate_prompt, which is used to set the context for the AI assistant.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=102)** It helps us compose a tweet based on an AI-generated summary of a website.
+> **[1:42](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=102)** It helps us [[Jetpack Compose|compose]] a tweet based on an AI-generated summary of a website.
 >
 > **[1:48](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-build-a-dialog-using-chat-completion?u=76281980&t=108)** The next function here in cell 18 is called get_completion, which calls the ChatCompletions API, passes in the request, and gets a response back.
 >
@@ -1742,7 +1721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ai (3), api (3), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** api (4)
 > **UI Navigation:** scroll down (4)
 > **Code Identifiers:** get_completion (2), generate_prompt (1)
@@ -1756,12 +1735,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Construct a multi-turn conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980)
+#### [Construct a multi-turn conversation](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=0)** - [Instructor] Let's continue building our ChatGPT-powered application by expanding the single prompt into a multi-turn conversation with the AI assistant.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=0)** - [Instructor] Let's continue building our [[ChatGPT]]-powered application by expanding the single prompt into a multi-turn conversation with the AI assistant.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=10)** We'll show the AI assistant how to remember the conversation, showing the real power of ChatGPT.
 >
@@ -1791,7 +1769,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=107)** You're familiar with get completion.
 >
-> **[1:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=110)** Then here in this next cell, I've created a loop that continues to track the conversation until I enter the word exit.
+> **[1:50](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=110)** Then here in this next cell, I've created a loop that continues to track the conversation until I enter the [[Microsoft Word|word]] exit.
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=119)** The goal of this code is to summarize a website in a tweet-friendly format.
 >
@@ -1819,7 +1797,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=186)** And the output calls out Rekognition as a service designed for developers.
 >
-> **[3:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=192)** It uses deep learning algorithms to accurately identify objects.
+> **[3:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=192)** It uses [[Deep Learning]] [[Algorithms]] to accurately identify objects.
 >
 > **[3:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980&t=197)** The next question, can you summarize it for executives?
 >
@@ -1855,7 +1833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (3), ai (3), next (3), api (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Word|Word]] (2), [[Deep Learning]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Env Vars:** api (2)
 > **Tools:** jupyter (2)
@@ -1864,8 +1842,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 
-#### Challenge: Generate tweet content using chat completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-tweet-content-using-chat-completion?u=76281980)
+#### [Challenge: Generate tweet content using chat completion](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-tweet-content-using-chat-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,7 +1858,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-tweet-content-using-chat-completion?u=76281980&t=37)** If you want the model to remember the conversation and have the proper context to produce output, you must include the entire message history, meaning all the prompts and responses with each request.
 >
-> **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-tweet-content-using-chat-completion?u=76281980&t=52)** Take a look at Python's input function to see if it could be helpful as you solve this challenge.
+> **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-tweet-content-using-chat-completion?u=76281980&t=52)** Take a look at [[Python (Programming Language)|Python]]'s input function to see if it could be helpful as you solve this challenge.
 >
 > **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-tweet-content-using-chat-completion?u=76281980&t=59)** Good luck, and have fun.
 >
@@ -1889,7 +1866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), prompt (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1897,8 +1874,7 @@ created: 2026-05-02
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generate tweet content using chat completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980)
+#### [Solution: Generate tweet content using chat completion](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1908,7 +1884,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=16)** Here in our Jupyter notebook in cell 9, I'm importing the OS and OpenAI modules or libraries.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=24)** You're familiar with the OpenAI Python Library.
+> **[0:24](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=24)** You're familiar with the OpenAI [[Python (Programming Language)|Python]] Library.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=27)** The OS module provides access to operating system dependent functionality.
 >
@@ -1948,7 +1924,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=139)** I'll click run and the AI assistant responds with, "Sure, please provide me with the website you would like me to summarize."
 >
-> **[2:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=148)** I would like for it to summarize the LinkedIn Learning website.
+> **[2:28](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=148)** I would like for it to summarize the [[LinkedIn]] Learning website.
 >
 > **[2:32](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-tweet-content-using-chat-completion?u=76281980&t=152)** The response says, "LinkedIn Learning is an online platform that offers a wide range of professional courses and tutorials to help individuals enhance their skills and advance their careers."
 >
@@ -2002,7 +1978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), [[LinkedIn]] (6), prompt (5), api (4), ai (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (3), is called (1), is a  (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** python (1), make (1)
@@ -2016,20 +1992,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore images API call
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980)
+#### [Explore images API call](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=0)** - [Narrator] Image generation is a fun use case for generative AI.
+> **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=0)** - [Narrator] Image generation is a fun use case for [[Generative AI]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=4)** I spent hours generating unique images from scratch using a simple text description.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=10)** Let's look more closely at the image generation API call that provides access to DALL-E, OpenAI's image generation model.
+> **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=10)** Let's look more closely at the image generation API call that provides access to [[DALL-E]], OpenAI's image generation model.
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=19)** We will use DALL-E to generate a custom image based on the website summary provided by the chat completion's API in the previous lesson.
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=29)** I've navigated to the OpenAI API documentation to review what a request will contain.
+> **[0:29](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=29)** I've navigated to the [[OpenAI API]] documentation to review what a request will contain.
 >
 > **[0:36](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=36)** The documentation is a great resource for you.
 >
@@ -2087,7 +2062,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=174)** I encourage you to explore editing an existing image or creating new variations of an existing image on your own to strengthen your understanding of what the Images API can do.
 >
-> **[3:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=186)** Now, let's see the exact same call using OpenAI's Python library.
+> **[3:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=186)** Now, let's see the exact same call using OpenAI's [[Python (Programming Language)|Python]] library.
 >
 > **[3:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980&t=192)** Let's navigate to the Jupyter Notebook.
 >
@@ -2105,7 +2080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), prompt (5), [[DALL-E]] (3), [[Generative AI]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[DALL-E]] (3), [[Generative AI]] (1), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (12), dall (3), url (2)
 > **Tools:** postman (2), jupyter (1)
 > **Definitions:** is a  (3)
@@ -2114,8 +2089,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 
-#### Review images API response
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980)
+#### [Review images API response](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=14)** Let's navigate to the API documentation to look at the parameter more closely.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=20)** There are two possible values for the parameter, URL or b64, which stands for Base64, json.
+> **[0:20](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=20)** There are two possible values for the parameter, URL or b64, which stands for Base64, [[JSON]].
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=30)** Let's navigate to Postman to see the output.
 >
@@ -2159,7 +2133,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=105)** An advantage of using the Base64 value is that while the URLs expire after an hour, you can programmatically save the Base64-encoded string to a JSON file.
 >
-> **[1:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=119)** A disadvantage is that you can't look at your image unless you decode the data, which is easy to do in Python but requires additional code.
+> **[1:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=119)** A disadvantage is that you can't look at your image unless you decode the data, which is easy to do in [[Python (Programming Language)|Python]] but requires additional code.
 >
 > **[2:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=128)** There're also websites on the internet that will do the decoding for you.
 >
@@ -2173,7 +2147,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=153)** Let's scroll down, and here is the summary.
 >
-> **[2:36](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=156)** Imagine a virtual library filled with books on various subjects representing the vast range of courses available on LinkedIn.
+> **[2:36](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=156)** Imagine a virtual library filled with books on various subjects representing the vast range of courses available on [[LinkedIn]].
 >
 > **[2:46](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=166)** Each book represents a different skill or topic, symbolizing the opportunity for professionals to enhance their knowledge and advance their careers through the platform.
 >
@@ -2187,7 +2161,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=191)** We're using the Python image library to display the image directly in the notebook for easy viewing.
 >
-> **[3:18](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=198)** And this is the first image using DALL-E 3, and it is pretty amazing.
+> **[3:18](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=198)** And this is the first image using [[DALL-E]] 3, and it is pretty amazing.
 >
 > **[3:25](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/review-images-api-response?u=76281980&t=205)** Now let's scroll down and slightly modify the summary, which is the text prompt to the model to improve the generated image that's shown here in cell 10.
 >
@@ -2207,7 +2181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), api (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), [[DALL-E]] (1)
 > **Env Vars:** url (6), api (2), png (1), json (1), dall (1)
 > **UI Navigation:** navigate to (3), scroll down (3)
 > **CLI Commands:** python (2)
@@ -2216,8 +2190,7 @@ created: 2026-05-02
 > **Code Identifiers:** generate_image (1)
 > **Definitions:** stands for (1)
 
-#### Challenge: Generate images using images API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-images-using-images-api?u=76281980)
+#### [Challenge: Generate images using images API](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-generate-images-using-images-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2237,14 +2210,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), api (1)
 > **Env Vars:** api (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generate images using images API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-images-using-images-api?u=76281980)
+#### [Solution: Generate images using images API](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-images-using-images-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2280,7 +2251,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-images-using-images-api?u=76281980&t=101)** After the multi-turn conversation completes, I call the generate_image function and I store the response in the url variable.
 >
-> **[1:49](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-images-using-images-api?u=76281980&t=109)** I use Python's Image Library to display the image in line, and here is the image that was generated.
+> **[1:49](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-images-using-images-api?u=76281980&t=109)** I use [[Python (Programming Language)|Python]]'s Image Library to display the image in line, and here is the image that was generated.
 >
 > **[1:57](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-generate-images-using-images-api?u=76281980&t=117)** I think this is a really cool image, and it works perfectly for the use case.
 >
@@ -2296,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), api (2), next (2), career (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** generate_image (2), image_url (1)
 > **Env Vars:** api (2), url (1)
 > **CLI Commands:** python (1)
@@ -2310,8 +2281,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sign up for a Twitter API account
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980)
+#### [Sign up for a Twitter API account](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2339,7 +2309,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=56)** An app serves as the container for the API keys that you need, to make an HTTP request to the Twitter API.
 >
-> **[1:05](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=65)** You can navigate to your app's keys and tokens page, by clicking on this key icon.
+> **[1:05](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=65)** You can navigate to your app's keys and [[Tokens]] page, by clicking on this key icon.
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=72)** You'll go here to generate the required credentials.
 >
@@ -2351,27 +2321,26 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=104)** Make sure from the keys and tokens page, you save the generated credentials, the client ID, and the client's secret in a secure location.
 >
-> **[1:53](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=113)** I recommend storing their credentials in an environment variable, similar to how we store the OpenAI API Key.
+> **[1:53](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=113)** I recommend storing their credentials in an environment variable, similar to how we store the [[OpenAI API]] Key.
 >
-> **[2:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=120)** Now that you have your credentials, you can make your first API call using Python code.
+> **[2:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980&t=120)** Now that you have your credentials, you can make your first API call using [[Python (Programming Language)|Python]] code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), next (2), [[Tokens]] (2), ai (1), web (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[OpenAI API]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (6), http (1)
 > **UI Navigation:** click on (3), navigate to (2), select the (1), scroll down (1)
 > **CLI Commands:** make (5), python (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Twitter API call and response
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-twitter-api-call-and-response?u=76281980)
+#### [Explore Twitter API call and response](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-twitter-api-call-and-response?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-twitter-api-call-and-response?u=76281980&t=0)** - [Instructor] Have you heard of Tweepy?
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-twitter-api-call-and-response?u=76281980&t=2)** It's an open source Python package that gives you easy ways to access the Twitter API from Python.
+> **[0:02](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-twitter-api-call-and-response?u=76281980&t=2)** It's an open source [[Python (Programming Language)|Python]] package that gives you easy ways to access the Twitter API from Python.
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-twitter-api-call-and-response?u=76281980&t=10)** Your first step is to install the Tweepy package.
 >
@@ -2425,7 +2394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), next (4), [[Python (Programming Language)|Python]] (3), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** api (6), http (2), pip (1)
 > **CLI Commands:** python (3), pip (1)
 > **Tools:** jupyter (3)
@@ -2434,8 +2403,7 @@ created: 2026-05-02
 > **Code Identifiers:** dalle_image (1)
 > **Versions:** version 1 (1)
 
-#### Challenge: Post a tweet using the Twitter API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980)
+#### [Challenge: Post a tweet using the Twitter API](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2453,9 +2421,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980&t=44)** And since this is officially your last hands-on challenge, I'm including an extra credit option.
 >
-> **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980&t=52)** After you finish the initial challenge, turn the code into a REST API using Flask.
+> **[0:52](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980&t=52)** After you finish the initial challenge, turn the code into a [[Representational State Transfer (REST)|REST]] API using Flask.
 >
-> **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980&t=59)** If you're not familiar with Flask, it allows Python developers to create lightweight RESTful APIs.
+> **[0:59](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980&t=59)** If you're not familiar with Flask, it allows [[Python (Programming Language)|Python]] developers to create lightweight RESTful APIs.
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/challenge-post-a-tweet-using-the-twitter-api?u=76281980&t=66)** Good luck and have fun.
 >
@@ -2463,7 +2431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), ai (1), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5), rest (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
@@ -2471,8 +2439,7 @@ created: 2026-05-02
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Post a tweet using the Twitter API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980)
+#### [Solution: Post a tweet using the Twitter API](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2490,7 +2457,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=44)** I've already installed it, so I'm not going to run that code again.
 >
-> **[0:48](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=48)** As a reminder, Tweepy is the Python package that allows us to quickly call the Twitter API from Python.
+> **[0:48](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=48)** As a reminder, Tweepy is the [[Python (Programming Language)|Python]] package that allows us to quickly call the Twitter API from Python.
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=55)** After installing it here on line one, let's import it along with the requests package that we'll use to make HTTP requests.
 >
@@ -2520,7 +2487,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=153)** Let's execute this code.
 >
-> **[2:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=157)** The extra credit portion was to turn the code into a REST API using Flask.
+> **[2:37](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=157)** The extra credit portion was to turn the code into a [[Representational State Transfer (REST)|REST]] API using Flask.
 >
 > **[2:42](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/solution-post-a-tweet-using-the-twitter-api?u=76281980&t=162)** I solve this using two notebooks.
 >
@@ -2578,7 +2545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), next (5), ai (4), [[Python (Programming Language)|Python]] (2), aws (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (10), aws (2), url (2), http (1), rest (1)
 > **Code Identifiers:** upload_image (2), send_tweet (2), download_image (1), dalle_image (1), media_upload (1)
 > **CLI Commands:** pip (2), python (2), aws (2), make (1)
@@ -2592,8 +2559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand common error codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980)
+#### [Understand common error codes](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2605,7 +2571,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980&t=17)** First, if you're receiving errors, check the OpenAI status page to see if any ongoing incidents or maintenance are happening.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980&t=27)** There are two types of OpenAI errors, errors from the API and errors from the Python library.
+> **[0:27](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980&t=27)** There are two types of OpenAI errors, errors from the API and errors from the [[Python (Programming Language)|Python]] library.
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980&t=34)** Since we've mainly focused on the Python library, let's discuss a few common errors you may encounter.
 >
@@ -2653,7 +2619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Troubleshooting]] (2), [[Python (Programming Language)|Python]] (2), hit (1), management (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (6)
 > **CLI Commands:** make (3), python (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2661,8 +2627,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - troubleshooting (1)
 
-#### Get help from the community
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/get-help-from-the-community?u=76281980)
+#### [Get help from the community](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/get-help-from-the-community?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,7 +2647,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/get-help-from-the-community?u=76281980&t=43)** Your next option for help would be a developer ambassador.
 >
-> **[0:47](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/get-help-from-the-community?u=76281980&t=47)** Developer community ambassadors host weekly office hours on specific topics like prompt design, product development, demos, and more.
+> **[0:47](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/get-help-from-the-community?u=76281980&t=47)** Developer community ambassadors host weekly [[Microsoft Office|office]] hours on specific topics like prompt design, [[Product Development]], demos, and more.
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/get-help-from-the-community?u=76281980&t=58)** They enjoy answering questions and helping to scale the growing application ecosystem.
 >
@@ -2696,7 +2661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), api (1), next (1), [[Microsoft Office|Office]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Product Development]] (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -2707,8 +2672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage your spend
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980)
+#### [Manage your spend](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2716,7 +2680,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=3)** That's right.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=3)** Your billed based on the number of tokens sent in your prompt, plus the number of tokens in the completions returned by the API.
+> **[0:03](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=3)** Your billed based on the number of [[Tokens]] sent in your prompt, plus the number of tokens in the completions returned by the API.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=12)** The best way to manage your spend is to monitor the number of tokens you've used each month.
 >
@@ -2730,7 +2694,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=41)** Once I hit that limit, Open AI will stop serving my requests.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=46)** This works well, while I'm learning and prototyping.
+> **[0:46](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=46)** This works well, while I'm learning and [[Prototyping]].
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980&t=49)** However, be mindful that this could potentially impact production systems, and disrupt the use of your applications and impair users.
 >
@@ -2764,7 +2728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (6), ai (3), traffic (2), prompt (1), api (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[Prototyping]] (1)
 > **Prerequisites:** you'll need (2), configure (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -2776,8 +2740,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your OpenAI API journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980)
+#### [Your OpenAI API journey](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2785,7 +2748,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=5)** You should feel proud of what you've accomplished.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=8)** Thank you for going on this journey with me to build a project using ChatGPT.
+> **[0:08](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=8)** Thank you for going on this journey with me to build a project using [[ChatGPT]].
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=14)** During our time together, you've learned all about the power of OpenAI's APIs to create chatbots, summarize and generate text, create custom images from text prompts and more.
 >
@@ -2793,11 +2756,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=38)** You'll find extra credit options that will help you continue your learning journey.
 >
-> **[0:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=44)** You can also continue learning by watching my other course, "AI Foundations: Machine Learning," as well as courses on prompt engineering and generative AI.
+> **[0:44](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=44)** You can also continue learning by watching my other course, "AI Foundations: Machine Learning," as well as courses on [[Prompt Engineering]] and [[Generative AI]].
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=55)** I've enjoyed our time together.
 >
-> **[0:57](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=57)** Please follow me on LinkedIn so that we can stay connected.
+> **[0:57](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=57)** Please follow me on [[LinkedIn]] so that we can stay connected.
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980&t=61)** I love speaking on the topic of AI and machine learning, so please consider me for your upcoming conference or event.
 >
@@ -2807,7 +2770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[ChatGPT]] (1), power (1), [[Prompt Engineering]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Prompt Engineering]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 

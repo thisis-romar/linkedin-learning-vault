@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/exploring-a-career-in-interaction-d
 course_count: 9
 linkedin_topics:
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/software-development

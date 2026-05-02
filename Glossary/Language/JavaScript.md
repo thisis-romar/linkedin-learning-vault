@@ -17,7 +17,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
   - topic/devops
-course_count: 386
+course_count: 387
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # JavaScript
 
-> **Type:** Language | **Courses:** 386 | **Topics:** [[Web Development]], [[Software Development]], [[Network and System Administration]], [[Data Science]], [[DevOps]]
+> **Type:** Language | **Courses:** 387 | **Topics:** [[Web Development]], [[Software Development]], [[Network and System Administration]], [[Data Science]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[JavaScript- Best Practices for Data]] — 56 mentions
 10. [[Learning ECMAScript 6+ (ES6+)]] — 55 mentions
 
-> [!note]- See all 386 courses
+> [!note]- See all 387 courses
 > 11. [[Learning Functional Programming with JavaScript ES6+]] — 54 mentions
 > 12. [[Introduction To Web Design And Development]] — 51 mentions
 > 13. [[WordPress- Internationalization]] — 51 mentions
@@ -263,160 +263,161 @@ created: 2026-05-02
 > 230. [[Build an AI Application with React and AWS SageMaker]] — 2 mentions
 > 231. [[Fundamentals of Data Transformation for Data Engineering]] — 2 mentions
 > 232. [[Advanced Express]] — 2 mentions
-> 233. [[Complete Guide to Python for Data Engineering- From Beginner to Advanced]] — 2 mentions
-> 234. [[Introduction to Gen AI with Snowflake]] — 2 mentions
-> 235. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 2 mentions
-> 236. [[React- Accessibility]] — 2 mentions
-> 237. [[Introduction to Large Language Models]] — 2 mentions
-> 238. [[Writing a Tech Resume]] — 2 mentions
-> 239. [[C- Design Patterns Part 1]] — 2 mentions
-> 240. [[OpenAI API- Fine-Tuning]] — 2 mentions
-> 241. [[OpenAI API- Speech]] — 2 mentions
-> 242. [[Database Foundations- Application Development]] — 2 mentions
-> 243. [[Azure AI for Developers- Azure AI Speech]] — 2 mentions
-> 244. [[Prompt Engineering With Gemini]] — 2 mentions
-> 245. [[Getting Started with the Google Gemini API]] — 2 mentions
-> 246. [[Leveraging AI for Security Testing]] — 2 mentions
-> 247. [[From React to React Native]] — 2 mentions
-> 248. [[Introduction to Modern Data Engineering with Snowflake]] — 2 mentions
-> 249. [[Learning SnowflakeDB]] — 2 mentions
-> 250. [[Developer Career Paths and Certifications]] — 2 mentions
-> 251. [[AI Orchestration- Foundations]] — 2 mentions
-> 252. [[C Plus Plus Essential Training]] — 2 mentions
-> 253. [[Computer Science Principles- Programming]] — 2 mentions
-> 254. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 2 mentions
-> 255. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 2 mentions
-> 256. [[SEO Foundations]] — 2 mentions
-> 257. [[Creating Maps with R]] — 2 mentions
-> 258. [[Wordpress Building A Secure Site]] — 2 mentions
-> 259. [[WordPress- Everything about Plugins]] — 2 mentions
-> 260. [[Drupal 9 Essential Training- 6 Finishing the Design]] — 2 mentions
-> 261. [[Php Testing Legacy Applications]] — 2 mentions
-> 262. [[PHP- User Authentication]] — 2 mentions
-> 263. [[Building RESTful APIs in Laravel]] — 2 mentions
-> 264. [[Essential Statamic for PHP and Laravel Developers]] — 2 mentions
-> 265. [[API Testing Foundations]] — 2 mentions
-> 266. [[Learning ArcGIS Python Scripting]] — 2 mentions
-> 267. [[C- Delegates, Events, and Lambdas]] — 1 mentions
-> 268. [[C- Practice- Generic Collections]] — 1 mentions
-> 269. [[Debugging in C-]] — 1 mentions
-> 270. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
-> 271. [[Microservices Foundations]] — 1 mentions
-> 272. [[Cybersecurity Foundations Application Security]] — 1 mentions
-> 273. [[Static Application Security Testing]] — 1 mentions
-> 274. [[Cybersecurity Careers- Become a Security Engineer]] — 1 mentions
-> 275. [[Microsoft Entra ID Fundamentals]] — 1 mentions
-> 276. [[Accessibility-First Design]] — 1 mentions
-> 277. [[Programming Foundations- Data Structures]] — 1 mentions
-> 278. [[Data Science Team Lifecycle Management]] — 1 mentions
-> 279. [[Cybersecurity with Cloud Computing]] — 1 mentions
-> 280. [[Data Science Foundations- Fundamentals]] — 1 mentions
-> 281. [[Data Visualization for Data Analysts and Analytics]] — 1 mentions
-> 282. [[API Testing and Validation]] — 1 mentions
-> 283. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 1 mentions
-> 284. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
-> 285. [[Structured Vibe Coding with AI Coding Agents]] — 1 mentions
-> 286. [[Leveraging Cloud Computing for IoT]] — 1 mentions
-> 287. [[Blockchain- Beyond the Basics]] — 1 mentions
-> 288. [[Networking Foundations Networking Basics]] — 1 mentions
-> 289. [[Advanced C- Object-Oriented Programming]] — 1 mentions
-> 290. [[C- Framework Design]] — 1 mentions
-> 291. [[Integrating AI into the Product Architecture]] — 1 mentions
-> 292. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 1 mentions
-> 293. [[Burp Suite Essential Training]] — 1 mentions
-> 294. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
-> 295. [[Data Engineering Foundations]] — 1 mentions
-> 296. [[Building PHP Applications with Generative AI]] — 1 mentions
-> 297. [[WebSocket Communications with Node and Angular]] — 1 mentions
-> 298. [[AWS Quick Tips for Developers]] — 1 mentions
-> 299. [[Wireshark- Malware and Forensics]] — 1 mentions
-> 300. [[CSS- Inheritance, Specificity, and the Cascade]] — 1 mentions
-> 301. [[CSS- Images]] — 1 mentions
-> 302. [[CSS- Display]] — 1 mentions
-> 303. [[CSS- Advanced Layouts with Grid]] — 1 mentions
-> 304. [[CSS Layouts- From Float to Flexbox and Grid]] — 1 mentions
-> 305. [[CSS- Print Style Sheets]] — 1 mentions
-> 306. [[Principle for UX Design]] — 1 mentions
-> 307. [[Software Testing Assistance with GitHub Copilot AI]] — 1 mentions
-> 308. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
-> 309. [[SQL for Data Analysis]] — 1 mentions
-> 310. [[Azure AI Services Essential Training]] — 1 mentions
-> 311. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
-> 312. [[Rust for Data Engineering]] — 1 mentions
-> 313. [[Built-in Machine Learning in the Wolfram Language]] — 1 mentions
-> 314. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
-> 315. [[Python for Data Science and Machine Learning Essential Training Part 2]] — 1 mentions
-> 316. [[Azure Understanding The Big Picture]] — 1 mentions
-> 317. [[Threat Modeling- Spoofing In Depth]] — 1 mentions
-> 318. [[Threat Modeling- Denial of Service and Expansion of Authority]] — 1 mentions
-> 319. [[Software Design- From Requirements to Release]] — 1 mentions
-> 320. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
-> 321. [[Introduction to AWS AI Services for Developers]] — 1 mentions
-> 322. [[Get Ready for Your Coding Interview]] — 1 mentions
-> 323. [[Cisco Network Security Core Security Concepts]] — 1 mentions
-> 324. [[LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn]] — 1 mentions
-> 325. [[GitHub Copilot for System-Level Development]] — 1 mentions
-> 326. [[Capstone- Building Production Features with Copilot]] — 1 mentions
-> 327. [[Spring Data 2]] — 1 mentions
-> 328. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
-> 329. [[Microsoft Azure- Identity and Access Management]] — 1 mentions
-> 330. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
-> 331. [[Build Three Real-World Python Applications]] — 1 mentions
-> 332. [[Openai Api Introduction]] — 1 mentions
-> 333. [[OpenAI API- Vision]] — 1 mentions
-> 334. [[Learning Graphql]] — 1 mentions
-> 335. [[Migrating from REST to GraphQL]] — 1 mentions
-> 336. [[Building with Google Gemini Advanced and Ultra]] — 1 mentions
-> 337. [[Programming with the Gemini Flash API]] — 1 mentions
-> 338. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
-> 339. [[Azure Essential Training for Developers]] — 1 mentions
-> 340. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 1 mentions
-> 341. [[Threat Modeling for AI-ML Systems]] — 1 mentions
-> 342. [[Machine Learning Foundations- Linear Algebra]] — 1 mentions
-> 343. [[Complete Guide To R Wrangling Visualizing And Modeling Data]] — 1 mentions
-> 344. [[Create a CRM Mobile Application with React Native]] — 1 mentions
-> 345. [[Advanced Data Engineering with Snowflake]] — 1 mentions
-> 346. [[Django Essential Training]] — 1 mentions
-> 347. [[Django- Forms]] — 1 mentions
-> 348. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
-> 349. [[DevOps Foundations- Your First Project]] — 1 mentions
-> 350. [[Introduction to Neo4j]] — 1 mentions
-> 351. [[Elasticsearch in Depth]] — 1 mentions
-> 352. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
-> 353. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] — 1 mentions
-> 354. [[Power BI Dataflows Essential Training]] — 1 mentions
-> 355. [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]] — 1 mentions
-> 356. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 1 mentions
-> 357. [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]] — 1 mentions
-> 358. [[Building Angular and Django Apps]] — 1 mentions
-> 359. [[Building RESTful Web APIs with Django]] — 1 mentions
-> 360. [[Java Essential Training Syntax And Structure]] — 1 mentions
-> 361. [[Resume]] — 1 mentions
-> 362. [[Practical GitHub Copilot]] — 1 mentions
-> 363. [[Data Science Foundations- Python Scientific Stack -CoderPad-]] — 1 mentions
-> 364. [[Jira Administration- Automation]] — 1 mentions
-> 365. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — 1 mentions
-> 366. [[Blockchain Programming in iOS Using Swift]] — 1 mentions
-> 367. [[Using Custom Meta Boxes in WordPress]] — 1 mentions
-> 368. [[WordPress Essential Training]] — 1 mentions
-> 369. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 1 mentions
-> 370. [[Drupal 9 Essential Training- 2 Content and Fields]] — 1 mentions
-> 371. [[Drupal 9 Essential Training- 5 Layout]] — 1 mentions
-> 372. [[Building Modern Uis With React Router V6]] — 1 mentions
-> 373. [[Data Science for Java Developers]] — 1 mentions
-> 374. [[Big Data in the Age of AI]] — 1 mentions
-> 375. [[Advanced Python- Working With Data]] — 1 mentions
-> 376. [[Advanced Python- Practical Database Examples]] — 1 mentions
-> 377. [[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]] — 1 mentions
-> 378. [[Practical GitHub Project Management and Collaboration]] — 1 mentions
-> 379. [[Real World Gis]] — 1 mentions
-> 380. [[ArcGIS Pro Essential Training]] — 1 mentions
-> 381. [[Blockchain and Smart Contracts Security]] — 1 mentions
-> 382. [[Troubleshoot and Repair Your WordPress Website]] — 1 mentions
-> 383. [[Python Essential Training]] — 1 mentions
-> 384. [[CSS Essential Training (2023)]] — 1 mentions
-> 385. [[Building Serverless Applications in AWS]] — 1 mentions
-> 386. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
+> 233. [[Rust for Data Engineering]] — 2 mentions
+> 234. [[Complete Guide to Python for Data Engineering- From Beginner to Advanced]] — 2 mentions
+> 235. [[Introduction to Gen AI with Snowflake]] — 2 mentions
+> 236. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 2 mentions
+> 237. [[React- Accessibility]] — 2 mentions
+> 238. [[Introduction to Large Language Models]] — 2 mentions
+> 239. [[Writing a Tech Resume]] — 2 mentions
+> 240. [[C- Design Patterns Part 1]] — 2 mentions
+> 241. [[OpenAI API- Fine-Tuning]] — 2 mentions
+> 242. [[OpenAI API- Speech]] — 2 mentions
+> 243. [[Database Foundations- Application Development]] — 2 mentions
+> 244. [[Azure AI for Developers- Azure AI Speech]] — 2 mentions
+> 245. [[Prompt Engineering With Gemini]] — 2 mentions
+> 246. [[Getting Started with the Google Gemini API]] — 2 mentions
+> 247. [[Leveraging AI for Security Testing]] — 2 mentions
+> 248. [[From React to React Native]] — 2 mentions
+> 249. [[Introduction to Modern Data Engineering with Snowflake]] — 2 mentions
+> 250. [[Learning SnowflakeDB]] — 2 mentions
+> 251. [[Developer Career Paths and Certifications]] — 2 mentions
+> 252. [[AI Orchestration- Foundations]] — 2 mentions
+> 253. [[C Plus Plus Essential Training]] — 2 mentions
+> 254. [[Computer Science Principles- Programming]] — 2 mentions
+> 255. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 2 mentions
+> 256. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 2 mentions
+> 257. [[SEO Foundations]] — 2 mentions
+> 258. [[Creating Maps with R]] — 2 mentions
+> 259. [[Wordpress Building A Secure Site]] — 2 mentions
+> 260. [[WordPress- Everything about Plugins]] — 2 mentions
+> 261. [[Drupal 9 Essential Training- 6 Finishing the Design]] — 2 mentions
+> 262. [[Php Testing Legacy Applications]] — 2 mentions
+> 263. [[PHP- User Authentication]] — 2 mentions
+> 264. [[Building RESTful APIs in Laravel]] — 2 mentions
+> 265. [[Essential Statamic for PHP and Laravel Developers]] — 2 mentions
+> 266. [[API Testing Foundations]] — 2 mentions
+> 267. [[Learning ArcGIS Python Scripting]] — 2 mentions
+> 268. [[Transitioning to a Career in Cybersecurity]] — 1 mentions
+> 269. [[C- Delegates, Events, and Lambdas]] — 1 mentions
+> 270. [[C- Practice- Generic Collections]] — 1 mentions
+> 271. [[Debugging in C-]] — 1 mentions
+> 272. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
+> 273. [[Microservices Foundations]] — 1 mentions
+> 274. [[Cybersecurity Foundations Application Security]] — 1 mentions
+> 275. [[Static Application Security Testing]] — 1 mentions
+> 276. [[Cybersecurity Careers- Become a Security Engineer]] — 1 mentions
+> 277. [[Microsoft Entra ID Fundamentals]] — 1 mentions
+> 278. [[Accessibility-First Design]] — 1 mentions
+> 279. [[Programming Foundations- Data Structures]] — 1 mentions
+> 280. [[Data Science Team Lifecycle Management]] — 1 mentions
+> 281. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 282. [[Data Science Foundations- Fundamentals]] — 1 mentions
+> 283. [[Data Visualization for Data Analysts and Analytics]] — 1 mentions
+> 284. [[API Testing and Validation]] — 1 mentions
+> 285. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 1 mentions
+> 286. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
+> 287. [[Structured Vibe Coding with AI Coding Agents]] — 1 mentions
+> 288. [[Leveraging Cloud Computing for IoT]] — 1 mentions
+> 289. [[Blockchain- Beyond the Basics]] — 1 mentions
+> 290. [[Networking Foundations Networking Basics]] — 1 mentions
+> 291. [[Advanced C- Object-Oriented Programming]] — 1 mentions
+> 292. [[C- Framework Design]] — 1 mentions
+> 293. [[Integrating AI into the Product Architecture]] — 1 mentions
+> 294. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 1 mentions
+> 295. [[Burp Suite Essential Training]] — 1 mentions
+> 296. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
+> 297. [[Data Engineering Foundations]] — 1 mentions
+> 298. [[Building PHP Applications with Generative AI]] — 1 mentions
+> 299. [[WebSocket Communications with Node and Angular]] — 1 mentions
+> 300. [[AWS Quick Tips for Developers]] — 1 mentions
+> 301. [[Wireshark- Malware and Forensics]] — 1 mentions
+> 302. [[CSS- Inheritance, Specificity, and the Cascade]] — 1 mentions
+> 303. [[CSS- Images]] — 1 mentions
+> 304. [[CSS- Display]] — 1 mentions
+> 305. [[CSS- Advanced Layouts with Grid]] — 1 mentions
+> 306. [[CSS Layouts- From Float to Flexbox and Grid]] — 1 mentions
+> 307. [[CSS- Print Style Sheets]] — 1 mentions
+> 308. [[Principle for UX Design]] — 1 mentions
+> 309. [[Software Testing Assistance with GitHub Copilot AI]] — 1 mentions
+> 310. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 1 mentions
+> 311. [[SQL for Data Analysis]] — 1 mentions
+> 312. [[Azure AI Services Essential Training]] — 1 mentions
+> 313. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
+> 314. [[Built-in Machine Learning in the Wolfram Language]] — 1 mentions
+> 315. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
+> 316. [[Python for Data Science and Machine Learning Essential Training Part 2]] — 1 mentions
+> 317. [[Azure Understanding The Big Picture]] — 1 mentions
+> 318. [[Threat Modeling- Spoofing In Depth]] — 1 mentions
+> 319. [[Threat Modeling- Denial of Service and Expansion of Authority]] — 1 mentions
+> 320. [[Software Design- From Requirements to Release]] — 1 mentions
+> 321. [[Microsoft Azure Ai Essentials Workloads And Machine Learning On Azure]] — 1 mentions
+> 322. [[Introduction to AWS AI Services for Developers]] — 1 mentions
+> 323. [[Get Ready for Your Coding Interview]] — 1 mentions
+> 324. [[Cisco Network Security Core Security Concepts]] — 1 mentions
+> 325. [[LinkedIn AI Academy AI-100- 3 Scaling AI at LinkedIn]] — 1 mentions
+> 326. [[GitHub Copilot for System-Level Development]] — 1 mentions
+> 327. [[Capstone- Building Production Features with Copilot]] — 1 mentions
+> 328. [[Spring Data 2]] — 1 mentions
+> 329. [[Using Generative Artificial Intelligence (AI) in Supply Chains]] — 1 mentions
+> 330. [[Microsoft Azure- Identity and Access Management]] — 1 mentions
+> 331. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
+> 332. [[Build Three Real-World Python Applications]] — 1 mentions
+> 333. [[Openai Api Introduction]] — 1 mentions
+> 334. [[OpenAI API- Vision]] — 1 mentions
+> 335. [[Learning Graphql]] — 1 mentions
+> 336. [[Migrating from REST to GraphQL]] — 1 mentions
+> 337. [[Building with Google Gemini Advanced and Ultra]] — 1 mentions
+> 338. [[Programming with the Gemini Flash API]] — 1 mentions
+> 339. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
+> 340. [[Azure Essential Training for Developers]] — 1 mentions
+> 341. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 1 mentions
+> 342. [[Threat Modeling for AI-ML Systems]] — 1 mentions
+> 343. [[Machine Learning Foundations- Linear Algebra]] — 1 mentions
+> 344. [[Complete Guide To R Wrangling Visualizing And Modeling Data]] — 1 mentions
+> 345. [[Create a CRM Mobile Application with React Native]] — 1 mentions
+> 346. [[Advanced Data Engineering with Snowflake]] — 1 mentions
+> 347. [[Django Essential Training]] — 1 mentions
+> 348. [[Django- Forms]] — 1 mentions
+> 349. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
+> 350. [[DevOps Foundations- Your First Project]] — 1 mentions
+> 351. [[Introduction to Neo4j]] — 1 mentions
+> 352. [[Elasticsearch in Depth]] — 1 mentions
+> 353. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
+> 354. [[Tech Career Skills- Searching, Interviewing, and Landing a Job]] — 1 mentions
+> 355. [[Power BI Dataflows Essential Training]] — 1 mentions
+> 356. [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]] — 1 mentions
+> 357. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 1 mentions
+> 358. [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]] — 1 mentions
+> 359. [[Building Angular and Django Apps]] — 1 mentions
+> 360. [[Building RESTful Web APIs with Django]] — 1 mentions
+> 361. [[Java Essential Training Syntax And Structure]] — 1 mentions
+> 362. [[Resume]] — 1 mentions
+> 363. [[Practical GitHub Copilot]] — 1 mentions
+> 364. [[Data Science Foundations- Python Scientific Stack -CoderPad-]] — 1 mentions
+> 365. [[Jira Administration- Automation]] — 1 mentions
+> 366. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — 1 mentions
+> 367. [[Blockchain Programming in iOS Using Swift]] — 1 mentions
+> 368. [[Using Custom Meta Boxes in WordPress]] — 1 mentions
+> 369. [[WordPress Essential Training]] — 1 mentions
+> 370. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 1 mentions
+> 371. [[Drupal 9 Essential Training- 2 Content and Fields]] — 1 mentions
+> 372. [[Drupal 9 Essential Training- 5 Layout]] — 1 mentions
+> 373. [[Building Modern Uis With React Router V6]] — 1 mentions
+> 374. [[Data Science for Java Developers]] — 1 mentions
+> 375. [[Big Data in the Age of AI]] — 1 mentions
+> 376. [[Advanced Python- Working With Data]] — 1 mentions
+> 377. [[Advanced Python- Practical Database Examples]] — 1 mentions
+> 378. [[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]] — 1 mentions
+> 379. [[Practical GitHub Project Management and Collaboration]] — 1 mentions
+> 380. [[Real World Gis]] — 1 mentions
+> 381. [[ArcGIS Pro Essential Training]] — 1 mentions
+> 382. [[Blockchain and Smart Contracts Security]] — 1 mentions
+> 383. [[Troubleshoot and Repair Your WordPress Website]] — 1 mentions
+> 384. [[Python Essential Training]] — 1 mentions
+> 385. [[CSS Essential Training (2023)]] — 1 mentions
+> 386. [[Building Serverless Applications in AWS]] — 1 mentions
+> 387. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
 
 ## Learning Paths
 

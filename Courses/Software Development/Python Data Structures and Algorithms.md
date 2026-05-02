@@ -105,20 +105,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python data structures and algorithms in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980)
+#### [Python data structures and algorithms in action](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=0)** - [Instructor] Imagine if your sat-nav took a whole day to calculate your route, or a search engine took an hour to find a page of results for your search query.
 >
-> **[0:08](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=8)** Efficient algorithms and the data structures which they depend on, are an intrinsic part of the modern world.
+> **[0:08](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=8)** Efficient [[Algorithms]] and the [[Data Structures]] which they depend on, are an intrinsic part of the modern world.
 >
 > **[0:13](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=13)** Without them, most of the technology we take for granted would simply not be possible.
 >
 > **[0:18](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=18)** Data structures and algorithms provide an excellent mental framework for thinking about software problems, along with a powerful set of tools, which can be applied in many seemingly diverse areas.
 >
-> **[0:28](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=28)** Knowledge of data structures and algorithms is required to work at many major tech companies, such as Google, Microsoft, Amazon, and Facebook et cetera, and for good reason.
+> **[0:28](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=28)** Knowledge of data structures and algorithms is required to work at many major tech companies, such as [[Google]], [[Microsoft]], Amazon, and Facebook et cetera, and for good reason.
 >
 > **[0:36](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=36)** These companies understand how this knowledge can provide solutions to problems that can be several orders of magnitude, more efficient and therefore more cost effective than naive solutions.
 >
@@ -126,22 +125,21 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=48)** I'm a computer science teacher from the UK and I run an education business called Compucademy.
 >
-> **[0:53](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=53)** I invite you to join me on my course on LinkedIn learning, where we will learn about some of the most important data structures and algorithms, in a fun and accessible way using the Python programming language.
+> **[0:53](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980&t=53)** I invite you to join me on my course on [[LinkedIn]] learning, where we will learn about some of the most important data structures and algorithms, in a fun and accessible way using the [[Python (Programming Language)|Python]] programming language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (4), [[Search]] (2), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (4), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there's some prior knowledge you're going to need to have of Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there's some prior knowledge you're going to need to have of [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=5)** So this isn't a beginner's course.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=10)** You're going to need to be familiar with an IDE of some sort, even if it's just IDLE, which comes with Python by default, or something like PyCharm, or even Visual Studio.
 >
-> **[0:19](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=19)** You're going to need to know the basics like print statements, variables, for loops, while loops, functions, and maybe even some object-oriented programming.
+> **[0:19](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=19)** You're going to need to know the basics like print statements, variables, for loops, while loops, functions, and maybe even some [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:28](https://www.linkedin.com/learning/python-data-structures-and-algorithms/what-you-should-know?u=76281980&t=28)** Although that last item isn't essential, as we will cover everything we need related to object-oriented programming as it comes up.
 
@@ -166,14 +164,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the example application
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980)
+#### [Understand the example application](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=0)** - In this video, we're going to take a look at the GUI, that's graphical user interface, we've provided for this course.
 >
-> **[0:07](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=7)** The aim of the GUI is to give you a high-level conceptual understanding of pathfinding algorithms, which use the data structures you're going to learn about.
+> **[0:07](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=7)** The aim of the GUI is to give you a high-level conceptual understanding of pathfinding [[Algorithms]], which use the [[Data Structures]] you're going to learn about.
 >
 > **[0:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=16)** There are two modes for the GUI, game and explore.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=81)** And then I get some options for which interpreter.
 >
-> **[1:23](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=83)** I'm going to use my already-installed Python 3.8.
+> **[1:23](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=83)** I'm going to use my already-installed [[Python (Programming Language)|Python]] 3.8.
 >
 > **[1:28](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980&t=88)** And create the project.
 >
@@ -333,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), game (7), [[Algorithms]] (6), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **Env Vars:** gui (6), ide (2), f10 (1)
 > **CLI Commands:** python (2), find (2), pip (2)
 > **Tools:** pycharm (3)
@@ -342,8 +339,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **Exercise Files:** exercise files (2)
 
-#### Navigate the GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/navigate-the-gui?u=76281980)
+#### [Navigate the GUI](https://www.linkedin.com/learning/python-data-structures-and-algorithms/navigate-the-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,13 +391,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/python-data-structures-and-algorithms/navigate-the-gui?u=76281980&t=153)** So if we put the treasure position to last time but we use A star, you'll see that A star got there in a much more efficient way.
 >
-> **[2:43](https://www.linkedin.com/learning/python-data-structures-and-algorithms/navigate-the-gui?u=76281980&t=163)** So how you find this GUI both fun to use and a useful aid in learning about the data structures and algorithms taught in this course.
+> **[2:43](https://www.linkedin.com/learning/python-data-structures-and-algorithms/navigate-the-gui?u=76281980&t=163)** So how you find this GUI both fun to use and a useful aid in learning about the [[Data Structures]] and [[Algorithms]] taught in this course.
 >
 > **[2:50](https://www.linkedin.com/learning/python-data-structures-and-algorithms/navigate-the-gui?u=76281980&t=170)** If any point, you're having trouble the kind of high level, conceptual understanding of these algorithms, those three, depth first search, breadth first search, and A star, then, by all means come back and play around with the GUI just to kind of develop that more intuitive high level understanding if you're getting bogged down in the details.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Algorithms]] (2), game (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Structures]] (1)
 > **Env Vars:** gui (3), dfs (1)
 > **File Paths:** maze_gui_game.py (1), maze_gui_explore.py (1)
 > **CLI Commands:** find (2)
@@ -415,8 +411,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the stack data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980)
+#### [Understand the stack data structure](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=51)** It's worth noting that sometimes even though we call it the top of the stack, depending on the implementation, it may turn out to be the left-hand side or the right-hand side.
 >
-> **[0:58](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=58)** So the word top doesn't necessarily mean vertically out the top.
+> **[0:58](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=58)** So the [[Microsoft Word|word]] top doesn't necessarily mean vertically out the top.
 >
 > **[1:02](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=62)** And finally, we have some applications of the stack.
 >
@@ -468,11 +463,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=112)** It's actually a very, very simple concept with a lot of surprisingly powerful applications.
 >
-> **[1:58](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=118)** In the next video, we'll have a look at how to implement it in Python.
+> **[1:58](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980&t=118)** In the next video, we'll have a look at how to implement it in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Microsoft Word|Word]] (2), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** lifo (1), cpu (1)
 > **Definitions:** is a  (2)
@@ -480,12 +475,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a stack class in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-stack-class-in-python?u=76281980)
+#### [Build a stack class in Python](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-stack-class-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-stack-class-in-python?u=76281980&t=0)** - [Instructor] In this video, we're going to write a stack class in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-stack-class-in-python?u=76281980&t=0)** - [Instructor] In this video, we're going to write a stack class in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-stack-class-in-python?u=76281980&t=4)** If you are unfamiliar with Python classes, then don't worry, I will explain everything you need to know as we go along.
 >
@@ -749,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (6), find (2)
 > **Tools:** terminal (5), pycharm (3)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -758,16 +752,14 @@ created: 2026-05-02
 > **File Paths:** stack.py (1)
 > **Env Vars:** lifo (1)
 
-#### Solution: Reverse a string using a stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-reverse-a-string-using-a-stack-19861494?u=76281980)
+#### [Solution: Reverse a string using a stack](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-reverse-a-string-using-a-stack-19861494?u=76281980)
 
 
 ### 3. The 2D List Data Structure
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the 2D list data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980)
+#### [Understand the 2D list data structure](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +777,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980&t=32)** A 2D list can be thought of as a list of lists.
 >
-> **[0:35](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980&t=35)** As with 1D lists, in Python, the elements can be of mixed type, although this is fairly uncommon.
+> **[0:35](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980&t=35)** As with 1D lists, in [[Python (Programming Language)|Python]], the elements can be of mixed type, although this is fairly uncommon.
 >
 > **[0:41](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980&t=41)** So take a look at this visual representation.
 >
@@ -807,18 +799,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), game (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** my_list (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Represent a maze as a 2D list
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980)
+#### [Represent a maze as a 2D list](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=0)** - [Instructor] Many of the algorithms associated with pathfinding work with graphs.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=0)** - [Instructor] Many of the [[Algorithms]] associated with pathfinding work with graphs.
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=5)** By graphs, I mean the sort associated with graph theory and mathematics, rather than in the sense of graphs and charts that you may be more familiar with.
 >
@@ -874,7 +865,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=176)** Okay, so again, just to emphasize, this is different to x, y coordinates.
 >
-> **[3:01](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=181)** Now, in terms of representing these lists inside of Python, obviously from a human perspective, it makes sense to talk in terms of rows, but internally that distinction isn't made.
+> **[3:01](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=181)** Now, in terms of representing these lists inside of [[Python (Programming Language)|Python]], obviously from a human perspective, it makes sense to talk in terms of rows, but internally that distinction isn't made.
 >
 > **[3:10](https://www.linkedin.com/learning/python-data-structures-and-algorithms/represent-a-maze-as-a-2d-list?u=76281980&t=190)** So you can see the second representation here.
 >
@@ -906,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
 > **CLI Commands:** node (2), python (2)
 > **Env Vars:** ida (1)
 > **Cross-References:** in the next (1)
@@ -914,8 +905,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read a maze from a text file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/read-a-maze-from-a-text-file?u=76281980)
+#### [Read a maze from a text file](https://www.linkedin.com/learning/python-data-structures-and-algorithms/read-a-maze-from-a-text-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,7 +963,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/read-a-maze-from-a-text-file?u=76281980&t=132)** So this is actually called a list comprehension.
 >
-> **[2:15](https://www.linkedin.com/learning/python-data-structures-and-algorithms/read-a-maze-from-a-text-file?u=76281980&t=135)** You can see we've got a list within a list, and this is just a way that we can do kind of two steps at once in Python.
+> **[2:15](https://www.linkedin.com/learning/python-data-structures-and-algorithms/read-a-maze-from-a-text-file?u=76281980&t=135)** You can see we've got a list within a list, and this is just a way that we can do kind of two steps at once in [[Python (Programming Language)|Python]].
 >
 > **[2:22](https://www.linkedin.com/learning/python-data-structures-and-algorithms/read-a-maze-from-a-text-file?u=76281980&t=142)** So we're creating a list and each item in that list is going to be a list containing character for character in line dot strip.
 >
@@ -1035,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** go to (3), open the (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** read_maze (1)
@@ -1044,8 +1034,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Read and display a maze from a text file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-read-and-display-a-maze-from-a-text-file?u=76281980)
+#### [Challenge: Read and display a maze from a text file](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-read-and-display-a-maze-from-a-text-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,8 +1056,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Read and display a maze from a text file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-read-and-display-a-maze-from-a-text-file?u=76281980)
+#### [Solution: Read and display a maze from a text file](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-read-and-display-a-maze-from-a-text-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-read-and-display-a-maze-from-a-text-file?u=76281980&t=56)** So, you can see we've got the first one printed as before, but then we've got a divider and we've got the challenge_maze printed row by row as required.
 >
-> **[1:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-read-and-display-a-maze-from-a-text-file?u=76281980&t=65)** Okay, so that's how you read a maze from a text file into Python using the helper function that we provided called read_maze.
+> **[1:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-read-and-display-a-maze-from-a-text-file?u=76281980&t=65)** Okay, so that's how you read a maze from a text file into [[Python (Programming Language)|Python]] using the helper function that we provided called read_maze.
 
 > [!info]- Semantic Content
 >
@@ -1099,8 +1087,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the depth-first search algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980)
+#### [Understand the depth-first search algorithm](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1143,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980&t=177)** So, generally speaking, if you want to do some optimization for a particular aspect of a situation, whether it's cost or speed or safety or some other variable, very useful for pathfinding, very useful for scheduling and there's others as well.
 >
-> **[3:10](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980&t=190)** So data serialization and also simulations of games, and often a simulation can be in some ways quite serious in the sense that you're simulating a real life situation.
+> **[3:10](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980&t=190)** So data serialization and also simulations of games, and often a [[Simulation]] can be in some ways quite serious in the sense that you're simulating a real life situation.
 >
 > **[3:20](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980&t=200)** So it seems game-like in its approach, but actually it's got more serious applications.
 >
@@ -1164,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (1), [[Simulation]] (1), game (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** dfs (5), gui (4), f10 (3)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** maze_gui_explore (1)
@@ -1173,12 +1160,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize depth-first search on a grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980)
+#### [Visualize depth-first search on a grid](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=0)** - [Instructor] Here is the depth-first search algorithm, we will soon be coding in Python written basically in English or pseudocode, so at the top of the slide, we have the two data structures we will use in the algorithm.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=0)** - [Instructor] Here is the depth-first search algorithm, we will soon be coding in [[Python (Programming Language)|Python]] written basically in English or pseudocode, so at the top of the slide, we have the two [[Data Structures]] we will use in the algorithm.
 >
 > **[0:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=12)** So we have a stack containing just a start position and we have a dictionary containing the predecessors of discovered cells.
 >
@@ -1198,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=58)** Otherwise, we push the undiscovered neighbors onto the stack and add them to the predecessors and we keep repeating this until there are no more items left on the stack.
 >
-> **[1:09](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=69)** Now we're going to explore the depth-first search algorithm in detail, using an app, which we will provide for you so you can use it to practice tracing the algorithms in this course for yourself.
+> **[1:09](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=69)** Now we're going to explore the depth-first search algorithm in detail, using an app, which we will provide for you so you can use it to practice tracing the [[Algorithms]] in this course for yourself.
 >
 > **[1:19](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-depth-first-search-on-a-grid?u=76281980&t=79)** So the way this works is we can select a color and then we can color the cells, whatever color we've just selected.
 >
@@ -1264,19 +1250,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Python (Programming Language)|Python]] (1), data (1), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Structures]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Grid Tracer app
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980)
+#### [Use the Grid Tracer app](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=0)** - [Instructor] So I'm just going to quickly talk you through that grid tracer app, in case you want to use it yourself.
 >
-> **[0:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=5)** So you'll find it in the GUI Code under grid tracer, and if you just click on index.html then if you hover over here in PyCharm, you'll get the option to open it using whatever browser you like.
+> **[0:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=5)** So you'll find it in the GUI Code under grid tracer, and if you just click on index.[[HTML]] then if you hover over here in PyCharm, you'll get the option to open it using whatever browser you like.
 >
 > **[0:20](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=20)** But just before we do that, let's just look at the other files.
 >
@@ -1336,7 +1321,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=143)** And I do encourage you to use this app.
 >
-> **[2:25](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=145)** Because the more experience you can get tracing these algorithms, the easier it becomes to understand how the code works, and just to be able to understand the big picture of what we're trying to do here.
+> **[2:25](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-grid-tracer-app?u=76281980&t=145)** Because the more experience you can get tracing these [[Algorithms]], the easier it becomes to understand how the code works, and just to be able to understand the big picture of what we're trying to do here.
 
 > [!info]- Semantic Content
 >
@@ -1349,12 +1334,11 @@ created: 2026-05-02
 > **Tools:** pycharm (1)
 > **UI Navigation:** click on (1)
 
-#### Code a depth-first search in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980)
+#### [Code a depth-first search in Python](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=0)** - [Instructor] We are now going to code out a version of depth-first search in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=0)** - [Instructor] We are now going to code out a version of depth-first search in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=5)** Our implementation makes use of some helper functions and values that we've provided in a separate file and which we will import into our DFS file.
 >
@@ -1440,7 +1424,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=188)** But if my function does return this result, then absolutely nothing will happen.
 >
-> **[3:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=192)** So, this is a very, very basic way of getting into testing and test-driven development.
+> **[3:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=192)** So, this is a very, very basic way of getting into testing and [[Test-Driven Development]].
 >
 > **[3:17](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=197)** Don't worry about it too much.
 >
@@ -1516,7 +1500,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=404)** Okay, so this is going to unpack both of those values into row_offset and col_offset.
 >
-> **[6:54](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=414)** Then, neighbour, that's my English spelling of that word.
+> **[6:54](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=414)** Then, neighbour, that's my English spelling of that [[Microsoft Word|word]].
 >
 > **[7:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=420)** It's a hard habit to break.
 >
@@ -1614,7 +1598,7 @@ created: 2026-05-02
 >
 > **[11:33](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=693)** It may be helpful to add print statements at strategic places in the code, so you can see exactly what is happening at any given stage.
 >
-> **[11:40](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=700)** Also, bear in mind that it can take some time to fully understand how this and the other algorithms from this course work.
+> **[11:40](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=700)** Also, bear in mind that it can take some time to fully understand how this and the other [[Algorithms]] from this course work.
 >
 > **[11:47](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-depth-first-search-in-python?u=76281980&t=707)** If you find yourself confused, I encourage you to be patient with yourself, rewatch the video on tracing DFS, try tracing the algorithm manually a few times for different mazes, and also try taking a break and coming back with fresh eyes.
 >
@@ -1624,7 +1608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Python (Programming Language)|Python]] (2), node (1), [[Test-Driven Development]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Test-Driven Development]] (1), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** current_cell (6), row_offset (3), col_offset (3), is_legal_pos (2), get_path (2)
 > **CLI Commands:** find (4), python (2), make (2), node (1)
 > **Definitions:** is a  (6), means that (1)
@@ -1633,8 +1617,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (1), just like (1)
 
-#### Challenge: Trace the path of a depth-first search
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-trace-the-path-of-a-depth-first-search?u=76281980)
+#### [Challenge: Trace the path of a depth-first search](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-trace-the-path-of-a-depth-first-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,8 +1643,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Trace the path of a depth-first search
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-trace-the-path-of-a-depth-first-search?u=76281980)
+#### [Solution: Trace the path of a depth-first search](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-trace-the-path-of-a-depth-first-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1690,8 +1672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the queue data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980)
+#### [Understand the queue data structure](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,7 +1684,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980&t=15)** So for example inside of the CPU, whenever you have data transferred asynchronously between two processes we need some way of maintaining the order the original order.
 >
-> **[0:25](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980&t=25)** Several graph traversal algorithms, including the ones we're looking at in this course, and many other applications, often when a resource to be shared among multiple consumers is when a queue becomes relevant.
+> **[0:25](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980&t=25)** Several graph traversal [[Algorithms]], including the ones we're looking at in this course, and many other applications, often when a resource to be shared among multiple consumers is when a queue becomes relevant.
 >
 > **[0:37](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980&t=37)** So a queue is a data structure in which all additions are made at one end called the rear or tail of the queue.
 >
@@ -1731,7 +1712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** fifo (2), cpu (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), compare this to (1)
@@ -1739,12 +1720,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a queue class in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-queue-class-in-python?u=76281980)
+#### [Build a queue class in Python](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-queue-class-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-queue-class-in-python?u=76281980&t=0)** - We are now going to implement a queue class in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-queue-class-in-python?u=76281980&t=0)** - We are now going to implement a queue class in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-and-algorithms/build-a-queue-class-in-python?u=76281980&t=4)** This is chapter five two so I'm going to open that folder.
 >
@@ -1866,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (5), feature (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (2), find (1)
 > **File Paths:** q_ll.py (1), q.py (1)
 > **Code Identifiers:** q_ll (1), q_llq (1)
@@ -1875,16 +1855,14 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 
-#### Solution: Practice queue methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-practice-queue-methods-19863377?u=76281980)
+#### [Solution: Practice queue methods](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-practice-queue-methods-19863377?u=76281980)
 
 
 ### 6. The Breadth-First Search Algorithm
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the breadth-first search algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980)
+#### [Understand the breadth-first search algorithm](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1910,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=124)** And this is because it first finds all the vertices that are one edge away from the starting point, then all the vertices that are two edges away, and so on.
 >
-> **[2:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=132)** When you find the specified vertex, that's the goal vertex, you know the path you've traced so far is the shortest path to the node.
+> **[2:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=132)** When you find the specified [[Vertex]], that's the goal vertex, you know the path you've traced so far is the shortest path to the node.
 >
 > **[2:19](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=139)** If there were a shorter path, then BFS would have already found it.
 >
@@ -1948,7 +1926,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=158)** It's using web crawlers.
 >
-> **[2:39](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=159)** It's used a lot in artificial intelligence, in electronics and communication engineering, and scientific modeling.
+> **[2:39](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=159)** It's used a lot in [[Artificial Intelligence (AI)|artificial intelligence]], in [[Electronics]] and communication engineering, and scientific modeling.
 >
 > **[2:44](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980&t=164)** So it has broad application; it's a very, very useful algorithm to know about and to understand.
 >
@@ -1958,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), application (3), [[Vertex]] (2), data (1), node (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Electronics]] (1)
 > **Env Vars:** bfs (5), gui (1), maze_file (1), f10 (1), dfs (1)
 > **File Paths:** maze_gui_explore.py (2), gui_mazes/walled_garden_20x20.txt (1)
 > **Code Identifiers:** maze_gui_explore (2), gui_mazes (1)
@@ -1966,8 +1944,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize breadth-first search in a grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-breadth-first-search-in-a-grid?u=76281980)
+#### [Visualize breadth-first search in a grid](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-breadth-first-search-in-a-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,19 +2072,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), data (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code a breadth-first search in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980)
+#### [Code a breadth-first search in Python](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=0)** - Now the time has come to code Breadth first search in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=0)** - Now the time has come to code Breadth first search in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=4)** So this is chapter O six O three.
 >
@@ -2129,7 +2104,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=54)** Mini maze BFS.
 >
-> **[0:56](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=56)** I've said it to be the same maze that we looked at in the previous video when we were using the Grit Tracer App.
+> **[0:56](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=56)** I've said it to be the same maze that we looked at in the previous video when we were using the [[Grit]] Tracer App.
 >
 > **[1:01](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-a-breadth-first-search-in-python?u=76281980&t=61)** So mini maze BFS is this one with just one black square on the top row.
 >
@@ -2243,7 +2218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Python (Programming Language)|Python]] (2), [[Grit]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Grit]] (1)
 > **Env Vars:** dfs (4), bfs (3)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Non-Speech:** (keyboard clicking) (4), (mouse clicking) (1)
@@ -2252,8 +2227,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1), previous video (1)
 > **Analogies:** similar to (2)
 
-#### Challenge: Trace the path of a breadth-first search
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-trace-the-path-of-a-breadth-first-search?u=76281980)
+#### [Challenge: Trace the path of a breadth-first search](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-trace-the-path-of-a-breadth-first-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2269,13 +2243,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** ita (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Trace the path of a breadth-first search
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-trace-the-path-of-a-breadth-first-search?u=76281980)
+#### [Solution: Trace the path of a breadth-first search](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-trace-the-path-of-a-breadth-first-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2302,8 +2274,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the priority queue data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980)
+#### [Understand the priority queue data structure](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2315,13 +2286,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=20)** This should give you an idea of how useful the data structure is.
 >
-> **[0:23](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=23)** So they're used a lot in artificial intelligence, including the A* algorithm, which we're going to be studying shortly.
+> **[0:23](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=23)** So they're used a lot in [[Artificial Intelligence (AI)|artificial intelligence]], including the A* algorithm, which we're going to be studying shortly.
 >
-> **[0:29](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=29)** Priority queues are used in optimization algorithms.
+> **[0:29](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=29)** Priority queues are used in optimization [[Algorithms]].
 >
 > **[0:32](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=32)** They're used a lot in operating systems with process scheduling.
 >
-> **[0:36](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=36)** Used, for example, also in bandwidth management, statistical analysis, and spam filtering.
+> **[0:36](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=36)** Used, for example, also in bandwidth management, [[Statistical Analysis]], and spam filtering.
 >
 > **[0:41](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980&t=41)** So those are just some examples of how useful this data structure is.
 >
@@ -2341,13 +2312,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), management (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the heap module to implement a priority queue
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980)
+#### [Use the heap module to implement a priority queue](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2359,7 +2329,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=10)** And this time our list of elements is going to be called self.elements.
 >
-> **[0:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=16)** With previous data structures we used self.items, but here I'm using self.elements.
+> **[0:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=16)** With previous [[Data Structures]] we used self.items, but here I'm using self.elements.
 >
 > **[0:21](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=21)** And you'll see why in a moment.
 >
@@ -2419,7 +2389,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=154)** So we're going to return str of self.elements.
 >
-> **[2:42](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=162)** Should have just taken Python's suggestion there.
+> **[2:42](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=162)** Should have just taken [[Python (Programming Language)|Python]]'s suggestion there.
 >
 > **[2:45](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=165)** There we go.
 >
@@ -2497,7 +2467,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=321)** At the front of the queue.
 >
-> **[5:22](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=322)** The rest we can't guarantee where they're going to be.
+> **[5:22](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=322)** The [[Representational State Transfer (REST)|rest]] we can't guarantee where they're going to be.
 >
 > **[5:24](https://www.linkedin.com/learning/python-data-structures-and-algorithms/use-the-heap-module-to-implement-a-priority-queue?u=76281980&t=324)** So in a longer list that would become relevant, but you can always guarantee that that first one is going to be the highest priority value which is what we want.
 >
@@ -2555,23 +2525,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Tools:** terminal (2)
 > **Env Vars:** len (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Heapq methods practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-heapq-methods-practice-19862403?u=76281980)
+#### [Solution: Heapq methods practice](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-heapq-methods-practice-19862403?u=76281980)
 
 
 ### 8. The A* Search Algorithm
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the A* search algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980)
+#### [Understand the A* search algorithm](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2583,7 +2551,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=15)** So A-star search is used very often in traffic navigational systems, including GPS.
 >
-> **[0:21](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=21)** It's used a lot in social network analysis, natural language processing, machine learning.
+> **[0:21](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=21)** It's used a lot in social network analysis, [[Natural Language Processing (NLP)|natural language processing]], machine learning.
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=26)** It's used for finding solutions to puzzles, and also real world situations, which can be modeled as puzzles.
 >
@@ -2593,7 +2561,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=40)** It's a very widespread and powerful algorithm.
 >
-> **[0:43](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=43)** What distinguishes the A-star algorithm from the previous pathfinding algorithms we have studied is the use of a heuristic to determine the likely best choice for each step of the algorithm.
+> **[0:43](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=43)** What distinguishes the A-star algorithm from the previous pathfinding [[Algorithms]] we have studied is the use of a heuristic to determine the likely best choice for each step of the algorithm.
 >
 > **[0:54](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=54)** A heuristic is often informally defined as a rule of thumb.
 >
@@ -2657,7 +2625,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=254)** Press A-star before setting your treasure.
 >
-> **[4:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=256)** So I'll put it down there in the left hand side, press S, and you can see here kind of appearingly intelligently gives up on its first trajectory, 'cause it realizes, if that's the right word, calculates, that that's not a good direction to go.
+> **[4:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=256)** So I'll put it down there in the left hand side, press S, and you can see here kind of appearingly intelligently gives up on its first trajectory, 'cause it realizes, if that's the right [[Microsoft Word|word]], calculates, that that's not a good direction to go.
 >
 > **[4:32](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980&t=272)** And then it tries a different path and gets there very efficiently.
 >
@@ -2665,7 +2633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), next (2), traffic (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bfs (2), gps (1), gui (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
@@ -2673,8 +2641,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (2)
 > **Speakers:** - now (1)
 
-#### Visualize the A* algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-the-a-algorithm?u=76281980)
+#### [Visualize the A* algorithm](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-the-a-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2730,7 +2697,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-the-a-algorithm?u=76281980&t=134)** Then I ask myself, is it the goal?
 >
-> **[2:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-the-a-algorithm?u=76281980&t=136)** Well, it isn't the goal, so I have to continue with the rest of the algorithm.
+> **[2:16](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-the-a-algorithm?u=76281980&t=136)** Well, it isn't the goal, so I have to continue with the [[Representational State Transfer (REST)|rest]] of the algorithm.
 >
 > **[2:19](https://www.linkedin.com/learning/python-data-structures-and-algorithms/visualize-the-a-algorithm?u=76281980&t=139)** So then I put undiscovered neighbors, so undiscovered neighbors in this case is just N, so I'm going to put N on there, and we'll calculate the F value in a moment.
 >
@@ -2950,17 +2917,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (3), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code the A* algorithm in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-the-a-algorithm-in-python?u=76281980)
+#### [Code the A* algorithm in Python](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-the-a-algorithm-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-the-a-algorithm-in-python?u=76281980&t=0)** - [Instructor] We're now going to code a python implementation of the a_star algorithm.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-the-a-algorithm-in-python?u=76281980&t=0)** - [Instructor] We're now going to code a [[Python (Programming Language)|python]] implementation of the a_star algorithm.
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-and-algorithms/code-the-a-algorithm-in-python?u=76281980&t=4)** The basic approach should now be quite familiar from the implementations of depth first search and breadth first search.
 >
@@ -3110,7 +3076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** g_values (7), current_cell (5), new_cost (4), a_star (3), f_value (3)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Analogies:** for example (1), similar to (1)
@@ -3119,8 +3085,7 @@ created: 2026-05-02
 > **Env Vars:** bfs (1)
 > **Cross-References:** previous video (1)
 
-#### Challenge: Trace the path of an A* search
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-trace-the-path-of-an-a-search?u=76281980)
+#### [Challenge: Trace the path of an A* search](https://www.linkedin.com/learning/python-data-structures-and-algorithms/challenge-trace-the-path-of-an-a-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3140,13 +3105,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Trace the path of an A* search
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-trace-the-path-of-an-a-search?u=76281980)
+#### [Solution: Trace the path of an A* search](https://www.linkedin.com/learning/python-data-structures-and-algorithms/solution-trace-the-path-of-an-a-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3207,8 +3170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pathfinding algorithms in the course maze GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980)
+#### [Pathfinding algorithms in the course maze GUI](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3216,11 +3178,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=6)** So if we go into GUI Code and let's look at search dot PY.
 >
-> **[0:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=12)** So this is an imported file that the GUI uses, and it contains the same data structures that we've been working with.
+> **[0:12](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=12)** So this is an imported file that the GUI uses, and it contains the same [[Data Structures]] that we've been working with.
 >
 > **[0:18](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=18)** So it has a priority queue.
 >
-> **[0:20](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=20)** Then it has the algorithms.
+> **[0:20](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=20)** Then it has the [[Algorithms]].
 >
 > **[0:22](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=22)** Now these algorithms are very similar to what we've done in the videos specific to each algorithm with one difference.
 >
@@ -3242,7 +3204,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=69)** But just a couple of other things about the code, just in case you're interested in how it was generated.
 >
-> **[1:14](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=74)** So basically it's using Python turtle graphics.
+> **[1:14](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=74)** So basically it's using [[Python (Programming Language)|Python]] turtle graphics.
 >
 > **[1:17](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=77)** So then let's look at the game version.
 >
@@ -3260,7 +3222,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=110)** The buttons location of the controls.
 >
-> **[1:51](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=111)** Some people don't know that Python turtle graphics is built on the Tkinter module, Tkinter algorithm.
+> **[1:51](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=111)** Some people don't know that Python turtle graphics is built on the [[Tkinter]] module, Tkinter algorithm.
 >
 > **[1:56](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980&t=116)** Tkinter, different people pronounce it differently.
 >
@@ -3298,7 +3260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (11), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (2), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Tkinter]] (11), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (2), [[Data Structures]] (1)
 > **CLI Commands:** python (6), find (1)
 > **Env Vars:** gui (5), bfs (1)
 > **Definitions:** is a  (4), is an  (2)
@@ -3306,12 +3268,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Parting comments and what comes next
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/parting-comments-and-what-comes-next?u=76281980)
+#### [Parting comments and what comes next](https://www.linkedin.com/learning/python-data-structures-and-algorithms/parting-comments-and-what-comes-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/parting-comments-and-what-comes-next?u=76281980&t=0)** - [Robin] We've come to the end of this course on data structures and algorithms in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-and-algorithms/parting-comments-and-what-comes-next?u=76281980&t=0)** - [Robin] We've come to the end of this course on [[Data Structures]] and [[Algorithms]] in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-and-algorithms/parting-comments-and-what-comes-next?u=76281980&t=4)** We've covered a lot of material.
 >
@@ -3347,7 +3308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), data (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Data Structures]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** gui (1)
 > **Definitions:** is a  (1)

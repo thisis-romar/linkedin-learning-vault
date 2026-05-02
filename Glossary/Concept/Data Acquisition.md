@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/security
   - topic/hardware
-course_count: 21
+course_count: 22
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Data Acquisition
 
-> **Type:** Concept | **Courses:** 21 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Cybersecurity]], [[Hardware]]
+> **Type:** Concept | **Courses:** 22 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Cybersecurity]], [[Hardware]]
 
 ## Courses
 
@@ -38,20 +38,21 @@ created: 2026-05-02
 7. [[Data Science Foundations- Data Assessment for Predictive Modeling]] — 2 mentions
 8. [[Certified Analytics Professional (CAP) Cert Prep]] — 2 mentions
 9. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
-10. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
+10. [[AI Data Strategy- Data Procurement and Storage]] — 1 mentions
 
-> [!note]- See all 21 courses
-> 11. [[Complete Guide to Power BI for Data Analysts by Microsoft Press]] — 1 mentions
-> 12. [[Your Top Ai Questions Answered Ai Literacy For Everyone]] — 1 mentions
-> 13. [[IoT Foundations- Standards and Ecosystems]] — 1 mentions
-> 14. [[Responsible AI and Application Development]] — 1 mentions
-> 15. [[Data Engineering Foundations]] — 1 mentions
-> 16. [[Data Steward Foundations]] — 1 mentions
-> 17. [[SQL for Healthcare Professionals]] — 1 mentions
-> 18. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
-> 19. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
-> 20. [[It Service Management Foundations Tools]] — 1 mentions
-> 21. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 1 mentions
+> [!note]- See all 22 courses
+> 11. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
+> 12. [[Complete Guide to Power BI for Data Analysts by Microsoft Press]] — 1 mentions
+> 13. [[Your Top Ai Questions Answered Ai Literacy For Everyone]] — 1 mentions
+> 14. [[IoT Foundations- Standards and Ecosystems]] — 1 mentions
+> 15. [[Responsible AI and Application Development]] — 1 mentions
+> 16. [[Data Engineering Foundations]] — 1 mentions
+> 17. [[Data Steward Foundations]] — 1 mentions
+> 18. [[SQL for Healthcare Professionals]] — 1 mentions
+> 19. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 1 mentions
+> 20. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 21. [[It Service Management Foundations Tools]] — 1 mentions
+> 22. [[Level Up- Python Data Acquisitions, Prep, and EDA]] — 1 mentions
 
 ## Learning Paths
 

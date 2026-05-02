@@ -65,12 +65,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The moments that matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980)
+#### [The moments that matter](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=0)** - What do all truly great products have in common?
+> **[0:00](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=0)** - What do all truly great [[Microsoft Products|products]] have in common?
 >
 > **[0:04](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=4)** They meet the real needs of real customers.
 >
@@ -98,11 +97,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=62)** I'll be sharing with you the exact templates and processes that I've developed along the way.
 >
-> **[1:08](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=68)** So let's get going with Journey Mapping on LinkedIn Learning.
+> **[1:08](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980&t=68)** So let's get going with Journey Mapping on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1), data (1), hit (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of journey mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-power-of-journey-mapping?u=76281980)
+#### [The power of journey mapping](https://www.linkedin.com/learning/ux-research-journey-mapping/the-power-of-journey-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,15 +164,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1), teams (1), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** roi (1), b2b (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - today (1)
 
-#### Elements of a journey map
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/elements-of-a-journey-map?u=76281980)
+#### [Elements of a journey map](https://www.linkedin.com/learning/ux-research-journey-mapping/elements-of-a-journey-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,15 +250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (1), business (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to start
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980)
+#### [Where to start](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980&t=55)** If you don't know something about your customer, make an educated guess.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980&t=59)** As you do market research and get to know your customer's buying behaviors better, you can and should absolutely update it.
+> **[0:59](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980&t=59)** As you do [[Market Research]] and get to know your customer's buying behaviors better, you can and should absolutely update it.
 >
 > **[1:08](https://www.linkedin.com/learning/ux-research-journey-mapping/where-to-start?u=76281980&t=68)** In the end, you have to start somewhere.
 >
@@ -301,8 +295,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### Why emotions matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980)
+#### [Why emotions matter](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,13 +353,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=169)** By understanding what our customers are going through, we can meticulously craft an end-to-end experience that delights the customer at each and every moment in their experience.
 >
-> **[3:02](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=182)** This is how you design businesses, products, and services that people will go nuts over.
+> **[3:02](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=182)** This is how you design businesses, [[Microsoft Products|products]], and services that people will go nuts over.
 >
 > **[3:08](https://www.linkedin.com/learning/ux-research-journey-mapping/why-emotions-matter?u=76281980&t=188)** And this is why at every point in your customer's journey, emotions matter because where there is extreme emotion, there is extreme opportunity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** tsa (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -378,8 +371,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asking the right questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980)
+#### [Asking the right questions](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +391,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=28)** Because the company wasn't asking the right questions, they didn't know what needed to change to make an impact.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=36)** Whoever said that there are no bad questions, must not have been in market research.
+> **[0:36](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=36)** Whoever said that there are no bad questions, must not have been in [[Market Research]].
 >
 > **[0:42](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980&t=42)** I can't tell you how often companies make terrible decisions because they ask about something that doesn't matter to the user, or they ask a leading question, or they ask a question about a solution when they don't even have a good understanding of the problem.
 >
@@ -479,13 +471,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), next (2), [[Market Research]] (1), data (1)
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - i (1)
 
-#### Getting data from your customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980)
+#### [Getting data from your customers](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=45)** This will pull up posts about common questions and challenges that they want help with.
 >
-> **[0:50](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=50)** Next, pose questions to the community like, "what are the best swaddling products "you've tried to get your babies to go to sleep with?"
+> **[0:50](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=50)** Next, pose questions to the community like, "what are the best swaddling [[Microsoft Products|products]] "you've tried to get your babies to go to sleep with?"
 >
 > **[0:58](https://www.linkedin.com/learning/ux-research-journey-mapping/getting-data-from-your-customers?u=76281980&t=58)** Right now, Clubhouse is one of the fastest and easiest ways to get data from customers.
 >
@@ -543,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (2), [[Search]] (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -555,8 +546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Value-driven solutions for customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/value-driven-solutions-for-customers?u=76281980)
+#### [Value-driven solutions for customers](https://www.linkedin.com/learning/ux-research-journey-mapping/value-driven-solutions-for-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,13 +604,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), ai (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - so (1)
 
-#### Spotting the opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/spotting-the-opportunities?u=76281980)
+#### [Spotting the opportunities](https://www.linkedin.com/learning/ux-research-journey-mapping/spotting-the-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,14 +674,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - when (1)
 
-#### Service blueprinting: A plan for backstage support
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980)
+#### [Service blueprinting: A plan for backstage support](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=57)** What processes must be in place?
 >
-> **[1:00](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=60)** You might want an interactive voice response system prompting them to press one or press two.
+> **[1:00](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=60)** You might want an [[Interactive Voice Response (IVR)|interactive voice response]] system prompting them to press one or press two.
 >
 > **[1:05](https://www.linkedin.com/learning/ux-research-journey-mapping/service-blueprinting-a-plan-for-backstage-support?u=76281980&t=65)** Maybe it's a system that allows them to ask their question as a full sentence.
 >
@@ -739,7 +725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Interactive Voice Response (IVR)|Interactive voice response]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** for example (1)
@@ -750,8 +736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The journey continues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980)
+#### [The journey continues](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=30)** The key here is to get your data direct from the source, your customers.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=36)** To continue building your market research toolkit check out my LinkedIn Learning courses on [[Market Research Foundations]] and qualitative market research.
+> **[0:36](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=36)** To continue building your [[Market Research]] toolkit check out my [[LinkedIn]] Learning courses on [[Market Research Foundations]] and qualitative market research.
 >
 > **[0:46](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980&t=46)** If you have questions along the way feel free to reach out to me on LinkedIn or Instagram.
 >
@@ -779,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Market Research]] (3), [[LinkedIn]] (2), data (1)
+> **Frameworks & Libraries:** [[Market Research]] (3), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **URLs:** [bixaresearch.com](https://bixaresearch.com) (1)
 > **Speakers:** - when (1)

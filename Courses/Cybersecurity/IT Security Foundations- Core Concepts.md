@@ -93,14 +93,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tech savvy, tech safe
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980)
+#### [Tech savvy, tech safe](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980&t=0)** - [Lisa] Every day, we interact with our devices to shop, search, bank and communicate with others.
 >
-> **[0:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980&t=8)** At the same time, we're faced with the threat of cyber attacks that can compromise our privacy and security.
+> **[0:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980&t=8)** At the same time, we're faced with the threat of cyber attacks that can compromise our [[Privacy]] and security.
 >
 > **[0:15](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980&t=15)** In this course, we'll take a look at some of the core security principles.
 >
@@ -120,11 +119,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Search]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Speakers:** - [lisa] (1)
 
-#### Discovering resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/discovering-resources?u=76281980)
+#### [Discovering resources](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/discovering-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +144,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -157,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Providing a secure system
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980)
+#### [Providing a secure system](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,11 +174,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=53)** It can also include business information, such as data, employee records, and trade secrets.
 >
-> **[1:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=60)** An example of a violation of confidentiality would be a hacker gaining access to a government mail server and reading the emails, or someone other than your doctor's office gaining access to patient records and reading your medical file about your health issues.
+> **[1:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=60)** An example of a violation of confidentiality would be a hacker gaining access to a government mail server and reading the emails, or someone other than your doctor's [[Microsoft Office|office]] gaining access to patient records and reading your medical file about your health issues.
 >
 > **[1:18](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=78)** Keeping data private is very challenging in today's digital world, where nearly everyone, including companies, social media, hospitals and many others collect, store and share our information.
 >
-> **[1:34](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=94)** Next, let's talk about ensuring data integrity.
+> **[1:34](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=94)** Next, let's talk about ensuring [[Data Integrity]].
 >
 > **[1:38](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980&t=98)** Integrity is protecting data from unauthorized change.
 >
@@ -216,14 +212,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Security]] (1), business (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is called (1), stands for (1), is an  (1)
 > **Env Vars:** cia (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keeping information safe
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/keeping-information-safe?u=76281980)
+#### [Keeping information safe](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/keeping-information-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/keeping-information-safe?u=76281980&t=76)** And we also use encryption, which scrambles and conceals the data in a format where the only way that you can see the data is if you have a key.
 >
-> **[1:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/keeping-information-safe?u=76281980&t=87)** Next, let's talk about ensuring data integrity, which is protecting data from unauthorized changes.
+> **[1:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/keeping-information-safe?u=76281980&t=87)** Next, let's talk about ensuring [[Data Integrity]], which is protecting data from unauthorized changes.
 >
 > **[1:35](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/keeping-information-safe?u=76281980&t=95)** To protect against violations of integrity, businesses and organizations should use specialized software that monitors for unusual or suspicious activity, and notify someone if there are any unauthorized changes to the data.
 >
@@ -269,12 +264,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Managing risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/managing-risk?u=76281980)
+#### [Managing risk](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/managing-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/managing-risk?u=76281980&t=32)** Now, tangible assets are anything that you can touch such as a computer or a printer.
 >
-> **[0:38](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/managing-risk?u=76281980&t=38)** Intangible assets are just as important and they include things such as trade secrets, databases, and company records.
+> **[0:38](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/managing-risk?u=76281980&t=38)** Intangible assets are just as important and they include things such as trade secrets, [[Databases]], and company records.
 >
 > **[0:47](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/managing-risk?u=76281980&t=47)** Risk is a function of a threat exploiting a weakness or vulnerability according to a formula.
 >
@@ -316,13 +310,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Databases]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/analyzing-risk?u=76281980)
+#### [Analyzing risk](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/analyzing-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,8 +358,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding scam artists
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/avoiding-scam-artists?u=76281980)
+#### [Avoiding scam artists](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/avoiding-scam-artists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +380,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/avoiding-scam-artists?u=76281980&t=75)** Some are simple, and some are sophisticated, and many don't appear malicious.
 >
-> **[1:21](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/avoiding-scam-artists?u=76281980&t=81)** There are many methods, including phishing, which uses email to trick you into giving up information, or even vishing, which uses the phone.
+> **[1:21](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/avoiding-scam-artists?u=76281980&t=81)** There are many methods, including [[Phishing]], which uses email to trick you into giving up information, or even vishing, which uses the phone.
 >
 > **[1:30](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/avoiding-scam-artists?u=76281980&t=90)** In addition to email, cyber criminals also use instant messaging or Short Message Service to get the victim to reveal information.
 >
@@ -426,20 +418,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (12), [[Phishing]] (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognizing the Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980)
+#### [Recognizing the Internet of Things](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=0)** - [Instructor] The Internet of Things represents a collection of devices attached to the internet that collect and exchange data using nodes and controllers.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] represents a collection of devices attached to the internet that collect and exchange data using nodes and controllers.
 >
-> **[0:10](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=10)** In this segment, we'll discuss some best practice guidelines when dealing with an IoT device.
+> **[0:10](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=10)** In this segment, we'll discuss some best practice guidelines when dealing with an [[IoT]] device.
 >
 > **[0:17](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=17)** First, let's take a look at some of the many devices that exist to improve our lives.
 >
@@ -461,7 +452,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=87)** For example, let's take a look at this graphic, where we see the extent of the possible attack surface of a single vehicle.
 >
-> **[1:36](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=96)** The attack surfaces here include the safety critical systems, wireless technologies, and big data systems.
+> **[1:36](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=96)** The attack surfaces here include the safety critical systems, wireless technologies, and [[Big Data]] systems.
 >
 > **[1:46](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/recognizing-the-internet-of-things?u=76281980&t=106)** Reducing the risk of an IoT device includes guidelines on what the manufacturer must do to ensure the device is more secure, along with consumers researching a product before purchase.
 >
@@ -497,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[Internet of Things (IoT)|Internet of things]] (3), data (2), [[Automation]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[IoT|Internet of things]] (3), [[Big Data]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
@@ -508,8 +499,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing malicious programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/comparing-malicious-programs?u=76281980)
+#### [Comparing malicious programs](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/comparing-malicious-programs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -569,14 +559,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explaining viruses and worms
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/explaining-viruses-and-worms?u=76281980)
+#### [Explaining viruses and worms](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/explaining-viruses-and-worms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,8 +620,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eliminating unwanted surveillance
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/eliminating-unwanted-surveillance?u=76281980)
+#### [Eliminating unwanted surveillance](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/eliminating-unwanted-surveillance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,15 +678,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **UI Navigation:** scroll down (2)
 > **Analogies:** such as (2)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Holding data hostage
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/defending-the-os?u=76281980)
+#### [Holding data hostage](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/defending-the-os?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/defending-the-os?u=76281980&t=20)** Ransomware spreads like many other types of malware.
 >
-> **[0:25](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/defending-the-os?u=76281980&t=25)** A common way is by using a phishing or spear phishing attack.
+> **[0:25](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/defending-the-os?u=76281980&t=25)** A common way is by using a [[Phishing]] or spear phishing attack.
 >
 > **[0:29](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/defending-the-os?u=76281980&t=29)** Other methods include enticing someone to click on a link on a webpage or social media account that will take the victim to an attacker's website to download a file.
 >
@@ -779,19 +764,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Phishing]] (3), database (1), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (3)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defending the OS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980)
+#### [Defending the OS](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=0)** - [Instructor] Whether you're using a Windows, Linux, or macOS, malware can infiltrate your system and cause a great deal of damage.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=0)** - [Instructor] Whether you're using a [[Windows]], [[Linux]], or macOS, malware can infiltrate your system and cause a great deal of damage.
 >
 > **[0:09](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=9)** Over time, advanced threats have become more aggressive and attacks are increasingly complex, as we see in this graphic.
 >
@@ -835,7 +819,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=144)** Now many of us purchase anti-malware protection.
 >
-> **[2:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=147)** However, if you're using a Windows operating system, Microsoft includes Defender, which automatically activates if it doesn't sense that you have any anti-malware protection.
+> **[2:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=147)** However, if you're using a Windows operating system, [[Microsoft]] includes [[Microsoft Defender|Defender]], which automatically activates if it doesn't sense that you have any anti-malware protection.
 >
 > **[2:40](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/holding-data-hostage?u=76281980&t=160)** In addition, Microsoft also has a tool called Data Execution Prevention, or DEP.
 >
@@ -869,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (4), [[Microsoft]] (3), data (2), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (4), [[Microsoft]] (3), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** dep (4)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Code Identifiers:** macos (3)
@@ -883,8 +867,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stopping the imposters
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/stopping-the-imposters?u=76281980)
+#### [Stopping the imposters](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/stopping-the-imposters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,7 +929,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Engineering]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
@@ -954,8 +936,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting in the backdoor
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/getting-in-the-backdoor?u=76281980)
+#### [Getting in the backdoor](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/getting-in-the-backdoor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -981,7 +962,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/getting-in-the-backdoor?u=76281980&t=80)** They might use a social engineering attack such as luring someone to a website where they can become a victim of a drive by download.
 >
-> **[1:29](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/getting-in-the-backdoor?u=76281980&t=89)** Or they can launch a phishing attack and deliver a Trojan via a macro enabled word doc and convince the victim to run the program.
+> **[1:29](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/getting-in-the-backdoor?u=76281980&t=89)** Or they can launch a [[Phishing]] attack and deliver a Trojan via a macro enabled [[Microsoft Word|word]] doc and convince the victim to run the program.
 >
 > **[1:38](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/getting-in-the-backdoor?u=76281980&t=98)** Or they may have obtained a username and password and they can use that to get into the system to conceal the rootkit.
 >
@@ -1017,15 +998,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Engineering]] (1), [[Phishing]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** good practice (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting the unknown
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980)
+#### [Exploiting the unknown](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,9 +1021,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980&t=32)** Let's take a look at the many attacks that occur every day.
 >
-> **[0:37](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980&t=37)** I'm at this website, Kaspersky Cyberthreat Real-Time Map.
+> **[0:37](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980&t=37)** I'm at this website, Kaspersky Cyberthreat [[Real-Time]] Map.
 >
-> **[0:42](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980&t=42)** And you can take a look around and scroll down, and I'm going to go to Statistics.
+> **[0:42](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980&t=42)** And you can take a look around and scroll down, and I'm going to go to [[Statistics]].
 >
 > **[0:48](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/exploiting-the-unknown?u=76281980&t=48)** And here, we can see detections per second.
 >
@@ -1105,22 +1085,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Security]] (2), [[Real-Time]] (1), web (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Real-Time]] (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Recognizing IoT threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980)
+#### [Challenge: Recognizing IoT threats](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980&t=0)** - [Instructor] Let's do a challenge.
 >
-> **[0:02](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980&t=2)** Today's networks on the Internet of Things pose unique challenges in managing information as all systems are essentially interconnected.
+> **[0:02](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980&t=2)** Today's networks on the [[IoT|Internet of Things]] pose unique challenges in managing information as all systems are essentially interconnected.
 >
-> **[0:12](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980&t=12)** In this challenge, we'll go to this website inside the Smart Home IoT device threats and attack scenarios.
+> **[0:12](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980&t=12)** In this challenge, we'll go to this website inside the Smart Home [[IoT]] device threats and attack scenarios.
 >
 > **[0:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/challenge-recognizing-iot-threats?u=76281980&t=20)** I want you to read the article and then list five possible ways IoT devices can be attacked.
 >
@@ -1134,12 +1113,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[IoT|Internet of things]] (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Recognizing IoT threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/solution-recognizing-iot-threats?u=76281980)
+#### [Solution: Recognizing IoT threats](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/solution-recognizing-iot-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,13 +1143,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/solution-recognizing-iot-threats?u=76281980&t=46)** With this, the malicious actor can play their own voice commands or steal voice data as credentials for other voice command systems.
 >
-> **[0:55](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/solution-recognizing-iot-threats?u=76281980&t=55)** And I'm going to scroll down where it will show you more information on what you can do to improve the security of an IoT device.
+> **[0:55](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/solution-recognizing-iot-threats?u=76281980&t=55)** And I'm going to scroll down where it will show you more information on what you can do to improve the security of an [[IoT]] device.
 >
 > **[1:04](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/solution-recognizing-iot-threats?u=76281980&t=64)** I hope you enjoyed this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Automation]] (1), data (1), [[Security]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1181,20 +1159,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessing cloud resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980)
+#### [Accessing cloud resources](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=0)** - [Narrator] For many of us, the cloud is a part of our everyday lives.
 >
-> **[0:05](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=5)** In this segment, we'll review the different types of cloud services available for businesses and consumers.
+> **[0:05](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=5)** In this segment, we'll review the different types of [[Cloud Services]] available for businesses and consumers.
 >
-> **[0:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=13)** Today, the concept of cloud computing is pervasive as it's used by nearly everyone.
+> **[0:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=13)** Today, the concept of [[Cloud Computing]] is pervasive as it's used by nearly everyone.
 >
-> **[0:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=20)** Cloud computing is accessing network resources such as hardware and software services from a provider on the internet, while some services and data are accessed locally, for example, on your laptop many see the benefits of having access to data and services from anywhere in the world.
+> **[0:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=20)** Cloud computing is accessing network resources such as [[Hardware]] and software services from a provider on the internet, while some services and data are accessed locally, for example, on your laptop many see the benefits of having access to data and services from anywhere in the world.
 >
-> **[0:43](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=43)** Now there are three main types of cloud services infrastructure as a service, platform as a service and software as a service.
+> **[0:43](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=43)** Now there are three main types of cloud services [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]] and [[SaaS|software as a service]].
 >
 > **[0:54](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=54)** So let's talk about each of these starting with infrastructure as a service.
 >
@@ -1204,7 +1181,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=80)** And software as a service provides hosted applications.
 >
-> **[1:25](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=85)** For example, Microsoft Office 365.
+> **[1:25](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=85)** For example, [[Microsoft Office]] 365.
 >
 > **[1:29](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=89)** Now, some common cloud services in use today include Apple iCloud.
 >
@@ -1212,7 +1189,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=104)** This powerful feature keeps all of your Apple devices up to date with all of your data.
 >
-> **[1:51](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=111)** Google Drive provides personal storage and collaboration tools, and you have the ability to create documents, spreadsheets, and slides.
+> **[1:51](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=111)** [[Google Drive]] provides personal storage and collaboration tools, and you have the ability to create documents, spreadsheets, and slides.
 >
 > **[2:01](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980&t=121)** Dropbox has been around since 2007 and provides the ability to synchronize and store files along with collaborating with coworkers.
 >
@@ -1230,14 +1207,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (3), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2), [[SaaS|Software as a service]] (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (4), [[Cloud Computing]] (2), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2), [[SaaS|Software as a service]] (2)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** icloud (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using a secure connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980)
+#### [Using a secure connection](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,9 +1271,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980&t=165)** You'll also want to check for verifiable contact information to further ensure that you are on the right site.
 >
-> **[2:51](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980&t=171)** For example, if you're at a banking site, make sure you can find things such as a physical address if possible, email address, a phone number, and even their social media account.
+> **[2:51](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980&t=171)** For example, if you're at a [[Banking]] site, make sure you can find things such as a physical address if possible, email address, a phone number, and even their social media account.
 >
-> **[3:04](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980&t=184)** Look for their privacy policy.
+> **[3:04](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980&t=184)** Look for their [[Privacy]] policy.
 >
 > **[3:06](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-a-secure-connection?u=76281980&t=186)** Because of new laws, many sites have stricter privacy policies on how they collect your information and what they do with it once it's collected, and use a browser you trust, but the key is to update when prompted.
 >
@@ -1309,7 +1285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), data (1), web (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Banking]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** https (3)
 > **Definitions:** means that (2), is a  (1)
@@ -1318,8 +1294,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accepting cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980)
+#### [Accepting cookies](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1322,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=80)** And on the right is the HTTP server.
 >
-> **[1:23](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=83)** So when I visit an e-commerce site from my home computer, for example, I'm going to Cleopatra's Closet for the first time.
+> **[1:23](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=83)** So when I visit an [[E-Commerce]] site from my home computer, for example, I'm going to Cleopatra's Closet for the first time.
 >
 > **[1:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=92)** Now, when the first request arrives at Cleopatra's Closet, the site creates a cookie that has at least a name-value pair.
 >
@@ -1379,7 +1354,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=189)** But here, we see Enhanced Tracking Protection, and I'm going to just scroll down, and it talks about how Firefox protects you, and what is being blocked on a site.
 >
-> **[3:22](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=202)** Now over here, you can go to Settings, and then once you get there, I'll go to Privacy & Security, and it talks about Standard Cookie Protection.
+> **[3:22](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=202)** Now over here, you can go to Settings, and then once you get there, I'll go to [[Privacy]] & Security, and it talks about Standard Cookie Protection.
 >
 > **[3:34](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accepting-cookies?u=76281980&t=214)** And it does work to protect you from advertisers gathering information.
 >
@@ -1393,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Privacy]] (1)
 > **Analogies:** for example (3), such as (1), imagine (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** http (4)
@@ -1402,8 +1377,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 
-#### Blocking malicious content
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980)
+#### [Blocking malicious content](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,7 +1399,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=72)** Toolbars, extension, and browser helper objects can also be related to malicious behavior.
 >
-> **[1:19](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=79)** Even using JavaScript can put your computer at risk as it continues to have vulnerabilities.
+> **[1:19](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=79)** Even using [[JavaScript]] can put your computer at risk as it continues to have vulnerabilities.
 >
 > **[1:26](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=86)** You should only use JavaScript when on a trusted site.
 >
@@ -1437,7 +1411,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=113)** Now I'm in Mozilla, and we'll go to the hamburger, these three dotted lines, and select Settings.
 >
-> **[2:01](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=121)** Now once there, you can go to Privacy and Security and see what is already set.
+> **[2:01](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=121)** Now once there, you can go to [[Privacy]] and Security and see what is already set.
 >
 > **[2:07](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/blocking-malicious-content?u=76281980&t=127)** And here we use standard protection, but that can be changed as well, along with cookies and site data.
 >
@@ -1463,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), web (2), [[JavaScript]] (2), [[Privacy]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Privacy]] (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Tools:** firefox (4)
 > **CLI Commands:** make (2)
@@ -1472,14 +1446,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring browser privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980)
+#### [Ensuring browser privacy](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=0)** - [Instructor] A web browser is the most common portal to the internet.
 >
-> **[0:04](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=4)** In this segment, we'll learn some of the most common threats to our privacy and ways to reduce risk while browsing the web.
+> **[0:04](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=4)** In this segment, we'll learn some of the most common threats to our [[Privacy]] and ways to reduce risk while browsing the web.
 >
 > **[0:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=13)** A private or privacy browser limits exposure of your search history, minimizes web tracking, and some can conceal your location or IP address.
 >
@@ -1493,7 +1466,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=50)** In addition, some browsers can communicate with one another about your search history, so the information shows up on the next site you visit in the form of an advertisement.
 >
-> **[1:01](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=61)** A secure web browser will actively examine webpages for suspicious behavior and includes the following characteristics: restricts the use of risky add-ons, plugins, and other components that interact with your computer; actively block trackers and third-party cookies so that your browsing is kept private; uses blocklists for phishing and malware sites, and has built-in security features to defend against known threats; checks reputation along with examining any files you download.
+> **[1:01](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=61)** A secure web browser will actively examine webpages for suspicious behavior and includes the following characteristics: restricts the use of risky add-ons, plugins, and other components that interact with your computer; actively block trackers and third-party cookies so that your browsing is kept private; uses blocklists for [[Phishing]] and malware sites, and has built-in security features to defend against known threats; checks reputation along with examining any files you download.
 >
 > **[1:36](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=96)** And many will put up a warning as you see here that this site might harm your computer.
 >
@@ -1515,7 +1488,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=176)** And in Mozilla, this is a private tab, and to get to that, I go to the hamburger and select New private window, which will give you this page.
 >
-> **[3:06](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=186)** And as you can see in the bottom, Firefox clears your search and browsing history when you close all private windows.
+> **[3:06](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=186)** And as you can see in the bottom, Firefox clears your search and browsing history when you close all private [[Windows]].
 >
 > **[3:14](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-browser-privacy?u=76281980&t=194)** However, this doesn't make you anonymous so you need to be aware of that.
 >
@@ -1535,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), web (6), [[Search]] (4), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Phishing]] (1), [[Windows]] (1)
 > **Analogies:** such as (2)
 > **Warnings:** warning (1), be aware (1)
 > **CLI Commands:** make (1)
@@ -1549,8 +1522,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your Wi-Fi
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980)
+#### [Securing your Wi-Fi](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=13)** Let's start by providing an explanation of a wireless network and some of the components required for all devices to communicate.
 >
-> **[0:22](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=22)** Now, here we see a local area network, which could be a home or office.
+> **[0:22](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=22)** Now, here we see a [[Local Area Network (LAN)|local area network]], which could be a home or [[Microsoft Office|office]].
 >
 > **[0:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980&t=27)** When using a wireless network, a wireless station is a device such as a laptop, phone, or access point that can communicate with other stations.
 >
@@ -1618,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (2), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Office|Office]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ssid (2), wpa (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** configure (2)
@@ -1627,8 +1599,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing a secret
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/sharing-a-secret?u=76281980)
+#### [Sharing a secret](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/sharing-a-secret?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,12 +1673,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (4), traffic (2)
 > **Env Vars:** wpa (2), ssid (2), wpa3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concealing your access point
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980)
+#### [Concealing your access point](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,7 +1722,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=128)** The MAC address is represented with 12 digits separated by colons.
 >
-> **[2:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=133)** Now we're back on our local area network and here we see on the left the MAC address of this laptop begins with 11-22.
+> **[2:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=133)** Now we're back on our [[Local Area Network (LAN)|local area network]] and here we see on the left the MAC address of this laptop begins with 11-22.
 >
 > **[2:23](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/concealing-your-access-point?u=76281980&t=143)** On the right, this laptop's MAC address begins with an FF-11.
 >
@@ -1769,15 +1738,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** mac (9), ssid (7), isp (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), think of it as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting mobile devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980)
+#### [Protecting mobile devices](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1791,9 +1759,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=24)** Because so many of us use mobile devices to connect to the world, it's best to be aware of some of the threats.
 >
-> **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=32)** Threats include phishing or vishing, which is voice phishing, spoofing, spyware, or connecting to an network when offered free Wi-Fi.
+> **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=32)** Threats include [[Phishing]] or vishing, which is voice phishing, spoofing, spyware, or connecting to an network when offered free Wi-Fi.
 >
-> **[0:44](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=44)** So let's talk about how using an unsecured Wi-Fi network can be a security risk.
+> **[0:44](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=44)** So let's talk about how using an unsecured Wi-Fi network can be a [[Security Risk]].
 >
 > **[0:50](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=50)** Now, one of the ways a hacker will gather information is by using something called a man in the middle attack using a Wi-Fi Pineapple.
 >
@@ -1813,7 +1781,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=92)** The access point is open and you can join it, but if you do join it, someone can steal your credentials and other information.
 >
-> **[1:41](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=101)** So now, let's talk about some of the things that you should keep in mind as far as mobile device security to protect your privacy and prevent malicious activity.
+> **[1:41](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=101)** So now, let's talk about some of the things that you should keep in mind as far as mobile device security to protect your [[Privacy]] and prevent malicious activity.
 >
 > **[1:52](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=112)** Now, one thing you should do is keep your software and your operating system updated.
 >
@@ -1829,7 +1797,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=144)** And stay up to date on your device, know of any recent threats, so you can take steps to secure your device.
 >
-> **[2:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=152)** And use a secure connection, such as HTTPS, while shopping or banking.
+> **[2:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=152)** And use a secure connection, such as HTTPS, while shopping or [[Banking]].
 >
 > **[2:38](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=158)** Beware of apps.
 >
@@ -1837,7 +1805,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=168)** Apps can also perform suspicious action, such as recording conversations or disabling antimalware.
 >
-> **[2:56](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=176)** You should only obtain apps from trusted sources, such as Apple iTunes, Google Play, or Amazon Appstore for Android.
+> **[2:56](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=176)** You should only obtain apps from trusted sources, such as Apple iTunes, [[Google]] Play, or Amazon Appstore for [[Android]].
 >
 > **[3:04](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/protecting-mobile-devices?u=76281980&t=184)** This helps prevent malware, which is often distributed via apps.
 >
@@ -1863,7 +1831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Privacy]] (3), [[Phishing]] (2), data (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Phishing]] (2), [[Security Risk]] (2), [[Banking]] (1), [[Google]] (1)
 > **Analogies:** such as (6)
 > **Warnings:** be aware (2), keep in mind (1), caution (1)
 > **Prerequisites:** set up (1), install (1)
@@ -1877,8 +1845,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Providing data confidentiality
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980)
+#### [Providing data confidentiality](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1906,7 +1873,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=66)** I'll say "Encrypt."
 >
-> **[1:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=68)** Now down below, these are HTML tags for a webpage, and we don't need those, so I'll strip those out.
+> **[1:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=68)** Now down below, these are [[HTML]] tags for a webpage, and we don't need those, so I'll strip those out.
 >
 > **[1:16](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=76)** And there's your ciphertext, and as you can see, you can't read the text unless you have a key, so let's reverse the process.
 >
@@ -1924,7 +1891,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=128)** Symmetric encryption is used for confidential online communications, for example, when using HTTPS.
 >
-> **[2:17](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=137)** Symmetric algorithms include DES and AES.
+> **[2:17](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=137)** Symmetric [[Algorithms]] include DES and AES.
 >
 > **[2:23](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980&t=143)** Now let's talk about asymmetric encryption, which uses two keys, a public key and a private key, which are mathematically related.
 >
@@ -1948,15 +1915,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[HTML]] (1)
 > **Env Vars:** des (2), html (1), https (1), aes (1), rsa (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring data integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980)
+#### [Ensuring data integrity](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1948,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=53)** The hash is also called a message digest, which is like a fingerprint that uniquely identifies the message.
 >
-> **[1:02](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=62)** We use a hash in a number of different applications, including authenticating a message, monitoring data integrity, and storing passwords.
+> **[1:02](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=62)** We use a hash in a number of different applications, including authenticating a message, monitoring [[Data Integrity]], and storing passwords.
 >
 > **[1:13](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=73)** In all cases, the hash will ensure integrity, which is protecting data from unauthorized changes.
 >
@@ -1996,7 +1962,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=107)** If the values don't match, this will indicate that there is a violation of integrity.
 >
-> **[1:54](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=114)** We see a number of different hash algorithms that are available today.
+> **[1:54](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=114)** We see a number of different hash [[Algorithms]] that are available today.
 >
 > **[1:59](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/ensuring-data-integrity?u=76281980&t=119)** However, popular hash algorithms are in the secure hash algorithm or SHA family.
 >
@@ -2032,21 +1998,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Data Integrity]] (2)
 > **Definitions:** is a  (5)
 > **Env Vars:** sha (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [host] (1)
 
-#### Using cryptographic techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980)
+#### [Using cryptographic techniques](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=0)** - [Instructor] Using cryptographic techniques such as encryption and hash algorithms is one of the most effective ways to secure data.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=0)** - [Instructor] Using cryptographic techniques such as encryption and hash [[Algorithms]] is one of the most effective ways to secure data.
 >
-> **[0:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=8)** In this segment, we'll outline some of the services cryptographic techniques can provide, along with the various ways data is secured, whether in motion or at rest.
+> **[0:08](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=8)** In this segment, we'll outline some of the services cryptographic techniques can provide, along with the various ways data is secured, whether in motion or at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:19](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=19)** On a network, we manage risk and protect sensitive information.
 >
@@ -2054,7 +2019,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=28)** Using encryption and cryptographic techniques provides several security services.
 >
-> **[0:34](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=34)** The services include confidentiality, integrity, authentication, and accountability.
+> **[0:34](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=34)** The services include confidentiality, integrity, authentication, and [[Accountability]].
 >
 > **[0:42](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=42)** Let's talk about these, starting with confidentiality.
 >
@@ -2078,11 +2043,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=112)** Let's talk about a few examples.
 >
-> **[1:55](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=115)** A virtual private network or VPN is a secure channel or tunnel between two devices or endpoints that encrypts the data to keep the data confidential as it crosses through an insecure network.
+> **[1:55](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=115)** A [[Virtual Private Network (VPN)|virtual private network]] or VPN is a secure channel or tunnel between two devices or endpoints that encrypts the data to keep the data confidential as it crosses through an insecure network.
 >
 > **[2:09](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=129)** When visiting a site, a secure website will start with HTTPS and show a lock in the address bar, which means any information that is sent between you and the website is protected using encryption.
 >
-> **[2:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=144)** Another application is blockchain technology.
+> **[2:24](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=144)** Another application is [[Blockchain]] technology.
 >
 > **[2:27](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/using-cryptographic-techniques?u=76281980&t=147)** Blockchain is a shared, immutable ledger for recording transactions that uses multiple cryptographic techniques.
 >
@@ -2098,14 +2063,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Accountability]] (3), [[Blockchain]] (2), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Blockchain]] (2), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
 > **Env Vars:** mime (2), vpn (1), https (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing email
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980)
+#### [Securing email](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2121,7 +2085,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=32)** Spoofing techniques are used to spoof the email and websites, and malware can be embedded within the email.
 >
-> **[0:39](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=39)** And to bait the victim to open the email and click on a link, malicious actors will use a phishing attack.
+> **[0:39](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=39)** And to bait the victim to open the email and click on a link, malicious actors will use a [[Phishing]] attack.
 >
 > **[0:47](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-email?u=76281980&t=47)** In a phishing attack, the victim is sent a message that appears urgent, and one in 10 individuals will respond.
 >
@@ -2177,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (10), business (1), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Phishing]] (10)
 > **UI Navigation:** open the (1), click on (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **URLs:** [patra.com](https://patra.com) (1)
@@ -2191,8 +2155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2212,7 +2175,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980&t=40)** If you're interested in learning more, please check out the library where new courses are added all the time.
 >
-> **[0:48](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980&t=48)** To learn more about the billions of devices designed to improve the quality of life, check out my course Securing the Internet of Things: Introduction, and [[IT Security Foundations- Operating System Security]] and Network Security will be well worth your time.
+> **[0:48](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980&t=48)** To learn more about the billions of devices designed to improve the quality of life, check out my course Securing the [[IoT|Internet of Things]]: Introduction, and [[IT Security Foundations- Operating System Security]] and [[Network Security]] will be well worth your time.
 >
 > **[1:07](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980&t=67)** For a complete list of courses, visit my author page.
 >
@@ -2220,7 +2183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Internet of Things (IoT)|Internet of things]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[Network Security]] (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **Speakers:** - [lisa] (1)
 

@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=18)** The answer lies in how organizations structure and use their IT resources, like moving away from investing in their own resources to run and maintain existing IT infrastructure.
 >
-> **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=30)** With the cloud, organizations can shift their focus to creating new higher value products and services.
+> **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=30)** With the cloud, organizations can shift their focus to creating new higher value [[Microsoft Products|products]] and services.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=36)** And it's not just about infrastructure.
 >
@@ -103,15 +102,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=62)** They are changing the economics of technology investment.
 >
-> **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=66)** For many organizations, infrastructure and application modernization are the foundation for digital transformation.
+> **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=66)** For many organizations, infrastructure and application modernization are the foundation for [[Digital Transformation]].
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=74)** So considering that, let's explore the goals of this course.
 >
-> **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=78)** Modernize infrastructure and applications with Google Cloud was designed to help introduce you to common terminology related to infrastructure and application modernization.
+> **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=78)** Modernize infrastructure and applications with [[Google Cloud Platform (GCP)|Google Cloud]] was designed to help introduce you to common terminology related to infrastructure and application modernization.
 >
-> **[1:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=89)** Explore options available to run compute workloads in the cloud, including virtual machines, containers and serverless architecture.
+> **[1:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=89)** Explore options available to run compute workloads in the cloud, including [[Virtual Machines]], containers and serverless architecture.
 >
-> **[1:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=96)** And examine options to modernize application development through rehosting and APIs.
+> **[1:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=96)** And examine options to modernize [[Application Development]] through rehosting and APIs.
 >
 > **[1:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980&t=102)** Throughout the course, you are presented with graded knowledge assessments.
 >
@@ -121,11 +120,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), application (2), business (1), [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Virtual Machines]] (1), [[Application Development]] (1)
 > **Speakers:** - [narrator (1)
 
-#### Important cloud migration terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980)
+#### [Important cloud migration terms](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,9 +133,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=9)** The first is workload.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=11)** In cloud computing, a workload is a specific application, service, or capability that can be run in the cloud or on-premises.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=11)** In [[Cloud Computing]], a workload is a specific application, service, or capability that can be run in the cloud or on-premises.
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=20)** Workloads include: containers, databases, and virtual machines.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=20)** Workloads include: containers, [[Databases]], and [[Virtual Machines]].
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=26)** Sometimes workloads get retired.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=44)** Retaining a workload means that it's intentionally kept.
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=48)** When a workload is retained, it's typically kept on-premises or in a hybrid cloud environment.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=48)** When a workload is retained, it's typically kept on-premises or in a [[Hybrid Cloud]] environment.
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=54)** This means that the workload will continue to be managed by the business and will not be subject to the same level of cloud provider control.
 >
@@ -169,13 +167,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=113)** This process is often called move and improve.
 >
-> **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=118)** Replatforming lets organizations: benefit from the cloud's scalability, reliability, and cost-effectiveness, improve the performance of their workloads, and reduce the cost of their workloads.
+> **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=118)** Replatforming lets organizations: benefit from the cloud's [[Scalability]], reliability, and cost-effectiveness, improve the performance of their workloads, and reduce the cost of their workloads.
 >
 > **[2:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=129)** However, replatforming also has some drawbacks, including: it can be a complex and time-consuming process, making the necessary changes to the workload's code or architecture can be difficult, and testing the changes to the workload's code or architecture can also be difficult.
 >
 > **[2:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=147)** Sometimes, workloads are refactored, which refers to the process of changing the code of a workload.
 >
-> **[2:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=153)** For example, an organization might refactor a workload to use either a cloud-based microservices architecture or a cloud-based serverless architecture.
+> **[2:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=153)** For example, an organization might refactor a workload to use either a cloud-based [[Microservices]] architecture or a cloud-based serverless architecture.
 >
 > **[2:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=162)** We'll explore what those concepts mean later in this course.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=194)** In cloud computing, reimagine refers to the process of rethinking how an organization uses technology to achieve its business goals.
 >
-> **[3:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=203)** This can involve reconsidering the organization's current cloud strategy and its use of other technologies, such as artificial intelligence and machine learning.
+> **[3:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=203)** This can involve reconsidering the organization's current [[Cloud Strategy]] and its use of other technologies, such as [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning.
 >
 > **[3:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/important-cloud-migration-terms-missing-file?u=76281980&t=212)** Reimagining cloud computing can help organizations to: improve their efficiency, reduce costs, and increase agility.
 >
@@ -197,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), business (2), application (1), [[Databases]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (6), [[Databases]] (1), [[Virtual Machines]] (1), [[Hybrid Cloud]] (1), [[Scalability]] (1)
 > **Definitions:** refers to (4), means that (3), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** later in (1)
@@ -208,8 +206,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,20 +214,19 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=6)** Associated tasks include storing, retrieving, comparing, and analyzing the information.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=13)** Instead of relying on local servers and storage devices, cloud computing uses a network of remote servers to provide on-demand access to various computing resources, including applications, storage, and processing power.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=13)** Instead of relying on local servers and storage devices, [[Cloud Computing]] uses a network of remote servers to provide on-demand access to various computing resources, including applications, storage, and processing power.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=27)** This technology has become increasingly popular in recent years due to its flexibility, scalability, and cost-effectiveness.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=27)** This technology has become increasingly popular in recent years due to its flexibility, [[Scalability]], and cost-effectiveness.
 >
-> **[0:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=35)** In this section of the course, you'll learn about the benefits that cloud computing can bring to an organization and explore three cloud computing options: virtual machines, containers, and serverless.
+> **[0:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980&t=35)** In this section of the course, you'll learn about the benefits that cloud computing can bring to an organization and explore three cloud computing options: [[Virtual Machines]], containers, and serverless.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), power (1), [[Scalability]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Scalability]] (1), [[Virtual Machines]] (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The benefits of running compute workloads in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980)
+#### [The benefits of running compute workloads in the cloud](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,13 +238,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=18)** It includes the cost of the initial purchase, maintenance, and operation, along with any other associated costs.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=27)** Cloud computing can help businesses save money on IT costs by eliminating the need to purchase and maintain physical infrastructure.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=27)** [[Cloud Computing]] can help businesses save money on IT costs by eliminating the need to purchase and maintain physical infrastructure.
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=34)** Cloud providers offer a pay-as-you-go model, which means that organizations only pay for the resources used.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=41)** They also offer discounts for long-term commitments, which can further reduce TCO for businesses that are planning to use cloud services for a long period.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=41)** They also offer discounts for long-term commitments, which can further reduce TCO for businesses that are planning to use [[Cloud Services]] for a long period.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=51)** Next, there is scalability, which refers to the ability to increase or decrease the number of resources such as servers, storage, and bandwidth, that are available to a cloud-based application to meet changing demand.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=51)** Next, there is [[Scalability]], which refers to the ability to increase or decrease the number of resources such as servers, storage, and bandwidth, that are available to a cloud-based application to meet changing demand.
 >
 > **[1:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=65)** Scalability is important because it provides a means to meet changing demand without having to make large upfront investments in infrastructure.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=103)** Cloud providers have many ways to ensure the reliability of their services.
 >
-> **[1:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=107)** Google Cloud, for example, has multiple data centers located in different parts of the world.
+> **[1:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=107)** [[Google Cloud Platform (GCP)|Google Cloud]], for example, has multiple data centers located in different parts of the world.
 >
 > **[1:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=113)** This helps to ensure that if one data center goes down, the others can continue to operate.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=134)** Organizations need to be sure that their data is being kept safe.
 >
-> **[2:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=138)** So in addition to physical data center security, cloud security features include data encryption, identity and access management, network security, virtual private clouds, and monitoring services that can detect and respond to security threats in real time.
+> **[2:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=138)** So in addition to physical data center security, [[Cloud Security]] features include data encryption, identity and access management, [[Network Security]], virtual [[Private Clouds]], and monitoring services that can detect and respond to security threats in real time.
 >
 > **[2:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=155)** These security features can also help to ensure compliance with government or industry regulations.
 >
@@ -282,49 +278,48 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=167)** Organizations can choose the cloud services that best meet their needs at any point in time, and then change or adapt those services when necessary.
 >
-> **[2:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=177)** For example, a business that needs to increase the amount of storage space that it uses can easily add more storage space to its cloud storage service.
+> **[2:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=177)** For example, a business that needs to increase the amount of storage space that it uses can easily add more storage space to its [[Cloud Storage]] service.
 >
 > **[3:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=186)** And finally, another benefit of running compute workloads in the cloud is abstraction.
 >
-> **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=192)** Abstraction refers to how cloud providers remove the need for customers to understand the finer details of the infrastructure implementation by providing management of the hardware, software, and certain aspects of security and networking.
+> **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=192)** Abstraction refers to how cloud providers remove the need for customers to understand the finer details of the infrastructure implementation by providing management of the [[Hardware]], software, and certain aspects of security and networking.
 >
 > **[3:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=206)** For example, a cloud storage provider might provide a way for customers to store files so that they don't have to worry about the finer details of how the files are stored on the cloud provider's infrastructure.
 >
 > **[3:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=217)** Abstraction also lets cloud providers offer many services.
 >
-> **[3:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=221)** For example, Google Workspace lets customers run productivity applications so that they don't have to worry about the details of how the applications are actually run or maintained on Google's infrastructure.
+> **[3:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=221)** For example, [[Google]] Workspace lets customers run productivity applications so that they don't have to worry about the details of how the applications are actually run or maintained on Google's infrastructure.
 >
-> **[3:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=232)** Running compute workloads in the cloud can help organizations get their products and services to market faster by eliminating the need to develop and maintain their own infrastructure.
+> **[3:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=232)** Running compute workloads in the cloud can help organizations get their [[Microsoft Products|products]] and services to market faster by eliminating the need to develop and maintain their own infrastructure.
 >
 > **[4:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-running-compute-workloads-in-the-cloud?u=76281980&t=242)** At the same time, it provides a platform for innovation by providing access to the latest technologies and tools as and when they are released.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (23), data (7), [[Security]] (7), next (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Cloud Services]] (2), [[Scalability]] (2), [[Cloud Storage]] (2), [[Google]] (2)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** refers to (2), is a  (1), means that (1)
 > **Env Vars:** tco (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtual machines
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980)
+#### [Virtual machines](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=0)** - [Presenter] Traditionally, various technological pressures compelled many organizations to tightly bind specific computing hardware resources to specific applications.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=0)** - [Presenter] Traditionally, various technological pressures compelled many organizations to tightly bind specific computing [[Hardware]] resources to specific applications.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=10)** Virtualization technology relieved these pressures.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=14)** Virtualization is a form of resource optimization that lets multiple systems run on the same hardware.
 >
-> **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=21)** These systems are called Virtual Machines or VMs.
+> **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=21)** These systems are called [[Virtual Machines]] or VMs.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=25)** This means that they share the same pool of processing, storage, and networking resources.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=30)** VMs enable organizations to run multiple applications at the same time on a server in a way that is efficient and manageable.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=38)** Compute Engine is Google Cloud's infrastructure as a service product that lets users create and run virtual machines on Google infrastructure.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=38)** Compute Engine is [[Google Cloud Platform (GCP)|Google Cloud]]'s [[IaaS|infrastructure as a service]] product that lets users create and run virtual machines on [[Google]] infrastructure.
 >
 > **[0:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=46)** There are no upfront investments and thousands of virtual CPUs can run on a system that's designed to be fast and to offer consistent performance.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=61)** This means a virtual machine can be configured much like a physical server by specifying the amount of CPU power and memory needed, the amount and type of storage needed, and the operating system.
 >
-> **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=73)** A virtual machine instance can be created through the Google Cloud console, which is a web-based tool to manage Google Cloud projects and resources and the Google Cloud CLI, command line interface, by using infrastructure automation tools such as Terraform or the Compute Engine API.
+> **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=73)** A virtual machine instance can be created through the Google Cloud console, which is a web-based tool to manage Google Cloud projects and resources and the Google Cloud [[CLI]], command line interface, by using infrastructure automation tools such as [[Terraform]] or the Compute Engine API.
 >
 > **[1:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/virtual-machines-25333330?u=76281980&t=90)** An API or Application Programming Interface is a set of instructions that allows different software programs to communicate with each other.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Hardware]] (2), [[Virtualization]] (2), power (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Hardware]] (2), [[Google]] (1), [[CLI]] (1)
 > **Definitions:** is a  (3), means that (2)
 > **Env Vars:** api (2), cpu (1), cli (1)
 > **Analogies:** such as (2), for example (1)
@@ -377,12 +372,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [presenter] (1)
 
-#### Containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980)
+#### [Containers](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=0)** - [Instructor] Infrastructure as a Service, or IaaS, lets users share compute resources with other developers by using virtual machines to virtualize the hardware.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=0)** - [Instructor] [[IaaS|Infrastructure as a Service]], or [[IaaS]], lets users share compute resources with other developers by using [[Virtual Machines]] to virtualize the [[Hardware]].
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=9)** This lets each developer deploy their own operating system, access the hardware, and build their applications in a self-contained environment with access to the necessary system resources.
 >
@@ -398,9 +392,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=53)** A container is packaged with your application and all of its dependencies, so it has everything it needs to run.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=59)** Containers can be independently developed, tested, and deployed, and are well suited for a microservices-based architecture.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=59)** Containers can be independently developed, tested, and deployed, and are well suited for a [[Microservices]]-based architecture.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=67)** This architecture is made up of smaller individual services that run containerized applications that communicate with each other through APIs or other lightweight communication methods, such as REST or gRPC.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=67)** This architecture is made up of smaller individual services that run containerized applications that communicate with each other through APIs or other lightweight communication methods, such as [[Representational State Transfer (REST)|REST]] or gRPC.
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/containers?u=76281980&t=81)** Containers let developers create predictable environments isolated from other system resources, so if a customer asks for a new feature or a change in the application, developers can easily make an update to that particular part of the application without affecting the rest.
 >
@@ -408,21 +402,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (4), application (3), [[Representational State Transfer (REST)|Rest]] (2), [[IaaS|Infrastructure as a service]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[IaaS|Infrastructure as a service]] (1), [[IaaS]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** grpc (1)
 > **Env Vars:** rest (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980)
+#### [Managing containers](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=0)** - [Instructor] Containers improve agility, enhance security, optimize resources, and simplify managing applications in the cloud.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=8)** Many organizations have a mix of virtual machines and containers.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=8)** Many organizations have a mix of [[Virtual Machines]] and containers.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=12)** However, as their IT infrastructure setup becomes more complex, they often need a way to manage their services and machines.
 >
@@ -430,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=24)** This requires keeping them secure, and ensuring that they operate efficiently can require significant oversight and management.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=31)** Kubernetes, originally developed by Google, is an open-source platform for managing containerized workloads and services.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=31)** [[Kubernetes]], originally developed by [[Google]], is an open-source platform for managing containerized workloads and services.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=39)** It makes it easy to orchestrate many containers on many hosts, scale them, and easily deploy rollouts and rollbacks.
 >
@@ -450,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=96)** Let's explore how Ubie, a Japan-based healthcare technology startup, reduced their infrastructure costs and maintenance requirements with Google Kubernetes Engine.
 >
-> **[1:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=105)** Founded in 2017, Ubie's goal is to get people the right medical care when they need it, and it does this with products designed for hospitals and individuals.
+> **[1:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=105)** Founded in 2017, Ubie's goal is to get people the right medical care when they need it, and it does this with [[Microsoft Products|products]] designed for hospitals and individuals.
 >
 > **[1:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=115)** Ubie for Hospital, their flagship product, is AI-powered questionnaire software that lets patients provide medical details before an appointment.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=170)** The shift reduced Ubie's infrastructure costs by 20%, and GKE Autopilot has helped the business eliminate Ubie for Hospital infrastructure maintenance and upgrade tasks that could take hours and days to complete.
 >
-> **[3:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=183)** Another popular option for running containerized applications on Google Cloud is Cloud Run.
+> **[3:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=183)** Another popular option for running containerized applications on [[Google Cloud Platform (GCP)|Google Cloud]] is Cloud Run.
 >
 > **[3:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/managing-containers?u=76281980&t=189)** Cloud Run is a fully managed serverless platform to deploy and run containerized applications without needing to worry about the underlying infrastructure.
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Kubernetes]] (8), [[Google]] (6), management (3), business (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Google]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Virtual Machines]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** gke (8), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -491,12 +484,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980)
+#### [Serverless computing](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=0)** - [Narrator] Another option for modernizing Cloud applications is serverless computing.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=0)** - [Narrator] Another option for modernizing Cloud applications is [[Serverless Computing]].
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=5)** Serverless computing doesn't mean there's no server.
 >
@@ -510,23 +502,23 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=39)** In this case, the ability to upload an image is called a function.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=43)** You as the software development company, write the code for that function directly into your public Cloud platform.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=43)** You as the [[Software Development]] company, write the code for that function directly into your public Cloud platform.
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=49)** From there, the public Cloud provider manages everything else.
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=54)** One type of serverless computing solution is called function as a service.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=59)** Some functions are a response to specific events like file uploads to Cloud storage, or changes to database records.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=59)** Some functions are a response to specific events like file uploads to [[Cloud Storage]], or changes to database records.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=66)** You write the code that defines the response to those events and the Cloud provider does everything else.
 >
-> **[1:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=72)** Google Cloud offers many serverless computing products.
+> **[1:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=72)** [[Google Cloud Platform (GCP)|Google Cloud]] offers many serverless computing [[Microsoft Products|products]].
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=76)** The first is Cloud Run, which is a fully managed environment for running containerized applications.
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=82)** With this product, you don't have to worry about the underlying infrastructure.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=87)** Then there is Cloud Run functions, which is a platform for hosting simple single purpose functions that are attached to events emitted from your Cloud infrastructure and services.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=87)** Then there is Cloud Run functions, which is a platform for hosting simple single purpose functions that are attached to events emitted from your [[Cloud Infrastructure]] and services.
 >
 > **[1:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=97)** For example, sending a notification to a mobile device when a new order is placed on a website.
 >
@@ -536,9 +528,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=115)** The Cloud provider is responsible for the infrastructure and its maintenance.
 >
-> **[1:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=119)** Therefore, at the application owner does not need to invest in the infrastructure or the human resources required to manage it.
+> **[1:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=119)** Therefore, at the application owner does not need to invest in the infrastructure or the [[Human Resources (HR)|human resources]] required to manage it.
 >
-> **[2:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=126)** Scalability.
+> **[2:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=126)** [[Scalability]].
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=127)** Serverless computing provides automatic scaling of computing resources based on the application's demand.
 >
@@ -564,7 +556,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=185)** This reduces the cost of unused resources and helps optimize costs.
 >
-> **[3:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=191)** So how might an organization benefit from Cloud computing infrastructure technology?
+> **[3:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=191)** So how might an organization benefit from [[Cloud Computing]] infrastructure technology?
 >
 > **[3:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=195)** Let's explore an example specializing in educational technology.
 >
@@ -572,11 +564,11 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=208)** Connecting up to 250 full HD live video streams in real time is a major technical challenge.
 >
-> **[3:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=216)** Latencies need to be kept very low to achieve the face-to-face experience, and continuous integration and deployment is vital to avoid disruptive downtime for global clients.
+> **[3:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=216)** Latencies need to be kept very low to achieve the face-to-face experience, and [[Continuous Integration (CI)|continuous integration]] and deployment is vital to avoid disruptive downtime for global clients.
 >
 > **[3:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=226)** Meanwhile, costs have to be kept to a minimum to keep the solution affordable for a growing startup to meet those needs.
 >
-> **[3:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=233)** [Mashme.io](https://Mashme.io) chose to use Google Kubernetes engine.
+> **[3:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=233)** [Mashme.io](https://Mashme.io) chose to use [[Google]] [[Kubernetes]] engine.
 >
 > **[3:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=237)** "Every teacher we speak to tells us "that latency is the most important thing.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=252)** With students connecting from around the world, Google Cloud has a global network to make that happen.
 >
-> **[4:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=258)** The view was that setting up data centers around the world with your own hardware is a good way for a startup to never start.
+> **[4:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=258)** The view was that setting up data centers around the world with your own [[Hardware]] is a good way for a startup to never start.
 >
 > **[4:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/serverless-computing-25338215?u=76281980&t=264)** So instead, [Mashme.io](https://Mashme.io) started using Google's global network with App Engine before moving to Google Cloud with their own Docker Containers and finally to Kubernetes engine.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Serverless Computing]] (7), application (7), [[Google Cloud Platform (GCP)|Google cloud]] (3), power (2)
+> **Frameworks & Libraries:** [[Serverless Computing]] (7), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[Kubernetes]] (2), [[Software Development]] (1)
 > **Definitions:** is a  (5), means that (2), is called (2)
 > **URLs:** [mashme.io](https://mashme.io) (5)
 > **Prerequisites:** required to (2), setup (1)
@@ -607,8 +599,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,31 +619,30 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=40)** Applications have been developed on premises for years, and often still are.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=44)** However, on-premises application development often slows organizations down.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=44)** However, on-premises [[Application Development]] often slows organizations down.
 >
 > **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=50)** Deploying an application on premises can be time consuming and can also require specialized IT teams.
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=56)** Changes can often take six months or more to implement, which can create friction within different parts of an organization.
 >
-> **[1:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=63)** With cloud technology, businesses can modernize, develop, and manage applications in new ways, which makes them more agile and responsive to user needs.
+> **[1:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=63)** With cloud technology, businesses can modernize, develop, and manage applications in new ways, which makes them more [[Agile Development|agile]] and responsive to user needs.
 >
-> **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=73)** In this section of the course, you'll compare traditional and modern cloud application development methods, explore considerations and tools for rehosting legacy applications in the cloud, define application programming interfaces, or APIs, examine the benefits of maintaining and managing APIs with Apigee API Management, and consider scenarios when a hybrid or multi-cloud strategy might be beneficial.
+> **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980&t=73)** In this section of the course, you'll compare traditional and modern cloud application development methods, explore considerations and tools for rehosting legacy applications in the cloud, define [[Application Programming Interfaces (API)|application programming interfaces]], or APIs, examine the benefits of maintaining and managing APIs with Apigee [[API Management]], and consider scenarios when a hybrid or multi-[[Cloud Strategy]] might be beneficial.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), application (4), [[Application Development]] (2), teams (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Application Development]] (2), [[Agile Development|Agile]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[API Management]] (1), [[Cloud Strategy]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### The benefits of modern cloud application development
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980)
+#### [The benefits of modern cloud application development](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=0)** - [Presenter] Thanks to advances in cloud technology, the way that software applications are developed has drastically changed.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=7)** With modern cloud application development, software development is flexible, scalable, and uses the latest cloud computing technologies to build and deploy applications.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=7)** With modern cloud [[Application Development]], [[Software Development]] is flexible, scalable, and uses the latest [[Cloud Computing]] technologies to build and deploy applications.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=18)** In the past, the traditional software development approach, often referred to as monolithic applications, required all the components of an application to be developed and deployed as a single, tightly-coupled unit, typically using a single programming language.
 >
@@ -662,11 +652,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=39)** We'll begin with architecture.
 >
-> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=42)** Modern cloud applications are typically built as a collection of microservices.
+> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=42)** Modern cloud applications are typically built as a collection of [[Microservices]].
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=47)** Microservices are independently deployable, scalable, and maintainable components that can be used to build a wide range of applications.
 >
-> **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=56)** This can help organizations bring business value to market faster because features can be released as they're completed without waiting for the rest of the application to be complete.
+> **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=56)** This can help organizations bring business value to market faster because features can be released as they're completed without waiting for the [[Representational State Transfer (REST)|rest]] of the application to be complete.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=66)** Regarding deployment, modern applications are typically deployed to the cloud and can use managed or partially managed services.
 >
@@ -682,7 +672,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=113)** Developers can also use prebuilt APIs, which we'll explore later in this section of the course, and other tools offered by the cloud provider to build and deploy their applications quicker.
 >
-> **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=124)** And then there's scalability.
+> **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=124)** And then there's [[Scalability]].
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/the-benefits-of-modern-cloud-application-development?u=76281980&t=127)** Modern cloud-based applications can easily be scaled up or down to meet user demands.
 >
@@ -692,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), application (4), [[Application Development]] (2), [[Software Development]] (2), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Application Development]] (2), [[Software Development]] (2), [[Microservices]] (2), [[Cloud Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -700,8 +690,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Rehosting legacy applications in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980)
+#### [Rehosting legacy applications in the cloud](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=10)** In these situations, a business might take a re-host migration path, commonly referred to as lift and shift, where an application is moved from an on-premises environment to a cloud environment without making any changes to the application itself.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=26)** Re-hosting applications brings with it the many benefits of cloud computing that we explored earlier, such as cost savings, scalability, reliability, and security.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=26)** Re-hosting applications brings with it the many benefits of [[Cloud Computing]] that we explored earlier, such as cost savings, [[Scalability]], reliability, and security.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=36)** However, there are also some potential drawbacks to choosing a re-host migration path for legacy applications, including complexity.
 >
@@ -725,35 +714,34 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=73)** This can potentially make it difficult to switch providers later.
 >
-> **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=78)** Google Cloud offers many solutions for re-hosting specialized legacy applications.
+> **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=78)** [[Google Cloud Platform (GCP)|Google Cloud]] offers many solutions for re-hosting specialized legacy applications.
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=83)** The first is Google Cloud VMware Engine, which helps migrate existing VMware workloads to the cloud without having to re-architect the applications or re-tool operations.
 >
 > **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=94)** With Google Cloud VMware Engine, organizations can maintain their existing VMware environments and operational processes while benefiting from the scalability, security, and reliability of Google Cloud.
 >
-> **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=106)** By doing this, organizations can also access a range of Google Cloud services, such as BigQuery, AIML, and Google Kubernetes Engine, which lets them modernize their application environment and use new capabilities and technologies as needed.
+> **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=106)** By doing this, organizations can also access a range of Google Cloud services, such as BigQuery, AIML, and [[Google]] [[Kubernetes]] Engine, which lets them modernize their application environment and use new capabilities and technologies as needed.
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=122)** And for organizations with legacy applications on Oracle, Google Cloud offers BareMetal Solution.
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=128)** This is a fully managed cloud infrastructure solution that lets organizations run their Oracle workloads on dedicated bare metal servers in the cloud.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/rehosting-legacy-applications-in-the-cloud?u=76281980&t=128)** This is a fully managed [[Cloud Infrastructure]] solution that lets organizations run their Oracle workloads on dedicated bare metal servers in the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (6), application (3), business (2), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Scalability]] (2), [[Cloud Computing]] (1), [[Google]] (1), [[Kubernetes]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** aiml (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Application programming interfaces (API)
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980)
+#### [Application programming interfaces (API)](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=0)** - [Instructor] Implementing a software service can be complex and changeable, and if each software service that an organization uses has to be coded for each implementation, the result can be fragile and error prone.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=12)** One way to make things easier is to use APIs or Application Programming Interfaces.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=12)** One way to make things easier is to use APIs or [[Application Programming Interfaces (API)|Application Programming Interfaces]].
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=19)** Earlier in this course, you saw how cloud providers offer a variety of resources and services for running applications and performing computational tasks in the cloud.
 >
@@ -775,13 +763,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=85)** They let developers access functionality and data from other programs without having to write all the code themselves, saving time and effort.
 >
-> **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=94)** Google itself provides many APIs that let developers access its products and services.
+> **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=94)** [[Google]] itself provides many APIs that let developers access its [[Microsoft Products|products]] and services.
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=99)** These include APIs that use the power of Google to search across a website or collection of websites.
 >
 > **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=106)** APIs that let developers access Google Maps data such as maps, directions, and traffic information, and APIs that let developers translate texts from one language to another.
 >
-> **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=118)** In fact, many Google Cloud products and services have documented APIs.
+> **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=118)** In fact, many [[Google Cloud Platform (GCP)|Google Cloud]] products and services have documented APIs.
 >
 > **[2:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/application-programming-interfaces-api?u=76281980&t=123)** Using APIs can create new business opportunities for organizations, and improve online experiences for users.
 >
@@ -809,7 +797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), data (6), [[Microsoft Products|Products]] (5), [[Google]] (3), business (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Google]] (3), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** api (6)
 > **Analogies:** think of it as (1), such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -817,20 +805,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apigee API management
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980)
+#### [Apigee API management](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=0)** - [Instructor] When an organization has implemented APIs, it's important to maintain and manage them effectively.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=5)** This can be done using a platform such as Apigee API Management, Google Cloud's API management service to operate APIs with enhanced scale, security, and automation.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=5)** This can be done using a platform such as Apigee [[API Management]], [[Google Cloud Platform (GCP)|Google Cloud]]'s API management service to operate APIs with enhanced scale, security, and automation.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=17)** Apigee is a popular choice for organizations that need to manage their APIs because it offers many benefits.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=25)** It helps organizations secure their APIs by providing features such as authentication, authorization, and data encryption.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=33)** It tracks and analyzes API usage with real-time analytics and historical reporting.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=33)** It tracks and analyzes API usage with [[Real-Time]] analytics and historical reporting.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=39)** It helps with developing and deploying APIs through a visual API editor and a test sandbox.
 >
@@ -842,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=76)** It needed a way to engage this audience and tailor its offerings to the varying needs of developers and monetize those different offering levels accordingly.
 >
-> **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=85)** To implement a simple and fast way for developers to start building with an appropriate level of API calls and features for their needs, AccuWeather realized it required a sophisticated API management platform, one that enabled different tiers of offerings by bundling APIs into different products, each with our own rate limits and pricing.
+> **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=85)** To implement a simple and fast way for developers to start building with an appropriate level of API calls and features for their needs, AccuWeather realized it required a sophisticated API management platform, one that enabled different tiers of offerings by bundling APIs into different [[Microsoft Products|products]], each with our own rate limits and pricing.
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/apigee-api-management?u=76281980&t=104)** With Apigee managing APIs for AccuWeather, their users can customize API consumption to their specific needs, while Apigee helps to track and build that traffic.
 >
@@ -852,15 +839,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), management (3), data (3), traffic (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[API Management]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Real-Time]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (11)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid and multi-cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980)
+#### [Hybrid and multi-cloud](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +860,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=29)** Two options are hybrid and multi-cloud solutions.
 >
-> **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=34)** A hybrid cloud environment comprises some combination of on-premises or private cloud infrastructure and public cloud services.
+> **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=34)** A [[Hybrid Cloud]] environment comprises some combination of on-premises or private [[Cloud Infrastructure]] and public [[Cloud Services]].
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=42)** This is a situation many organizations are currently in, where some of their data and applications have been migrated to the cloud while others remain on premises.
 >
@@ -888,19 +874,19 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=82)** This lets organizations keep parts of the system's infrastructure on premises while they move other parts to the cloud.
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=88)** This way, they create an environment that is uniquely suited to the organization's needs, move only specific workloads to the cloud because a full-scale migration is not required for it to work, benefit from the flexibility, scalability, and lower computing costs offered by cloud services for running specific workloads, and add specialized services, such as machine learning, content caching, data analysis, long-term storage, and IOT or Internet of things to the organization's computing resources toolkit.
+> **[1:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=88)** This way, they create an environment that is uniquely suited to the organization's needs, move only specific workloads to the cloud because a full-scale migration is not required for it to work, benefit from the flexibility, [[Scalability]], and lower computing costs offered by cloud services for running specific workloads, and add specialized services, such as machine learning, content caching, data analysis, long-term storage, and [[IoT]] or [[IoT|Internet of things]] to the organization's computing resources toolkit.
 >
-> **[2:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=120)** So how can Google Cloud help in this context?
+> **[2:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=120)** So how can [[Google Cloud Platform (GCP)|Google Cloud]] help in this context?
 >
-> **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=124)** Google's answer to modern, hybrid, and multi-cloud distributed systems and services management is called GKE Enterprise.
+> **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=124)** [[Google]]'s answer to modern, hybrid, and multi-cloud distributed systems and services management is called GKE Enterprise.
 >
-> **[2:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=133)** GKE Enterprise is a managed production-ready platform for running Kubernetes applications across multiple cloud environments.
+> **[2:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=133)** GKE Enterprise is a managed production-ready platform for running [[Kubernetes]] applications across multiple cloud environments.
 >
 > **[2:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=141)** It provides a consistent way to manage Kubernetes clusters, applications and services regardless of where they're running.
 >
 > **[2:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=150)** Some of the benefits of GKE Enterprise include multi-cloud and hybrid cloud support.
 >
-> **[2:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=156)** GKE Enterprise can run Kubernetes clusters on Google Cloud, AWS, Azure, and other public clouds.
+> **[2:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=156)** GKE Enterprise can run Kubernetes clusters on Google Cloud, AWS, [[Microsoft Azure|Azure]], and other public clouds.
 >
 > **[2:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/hybrid-and-multi-cloud?u=76281980&t=163)** Centralized management.
 >
@@ -918,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[Kubernetes]] (6), [[Hybrid Cloud]] (3), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Hybrid Cloud]] (3), [[Cloud Services]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Cloud Infrastructure]] (1)
 > **Env Vars:** gke (8), iot (1), aws (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** aws (1)
@@ -930,28 +916,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the Modernized Infrastructure and Applications with Google Cloud course.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the Modernized Infrastructure and Applications with [[Google Cloud Platform (GCP)|Google Cloud]] course.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=5)** Let's do a quick recap.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=7)** In the first section of the course, titled Course Introduction, you explored some important cloud migration terminology.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=15)** In the second section, titled Modernizing Infrastructure in the Cloud, you were introduced to: the benefits of running compute workloads in the cloud, virtual machines, containers and how to manage them, and serverless computing.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=15)** In the second section, titled Modernizing Infrastructure in the Cloud, you were introduced to: the benefits of running compute workloads in the cloud, [[Virtual Machines]], containers and how to manage them, and [[Serverless Computing]].
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=31)** And in the final section of the course, Modernizing Applications in the Cloud, you learned about: the benefits of modern cloud application development, rehosting legacy applications in the cloud, APIs and API management with Apigee, and using hybrid and multi-cloud solutions.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=31)** And in the final section of the course, Modernizing Applications in the Cloud, you learned about: the benefits of modern cloud [[Application Development]], rehosting legacy applications in the cloud, APIs and [[API Management]] with Apigee, and using hybrid and multi-cloud solutions.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=51)** Now that you have a comprehensive introduction to modernizing infrastructure and applications on Google Cloud, you can move on to the next course in the series, Trust and Security with Google Cloud, where you'll learn about: fundamental cloud security concepts, Google's multilayered approach to infrastructure security, and how Google Cloud strives to earn and maintain customer trust in the cloud.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=51)** Now that you have a comprehensive introduction to modernizing infrastructure and applications on Google Cloud, you can move on to the next course in the series, Trust and Security with Google Cloud, where you'll learn about: fundamental [[Cloud Security]] concepts, [[Google]]'s multilayered approach to infrastructure security, and how Google Cloud strives to earn and maintain customer trust in the cloud.
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980&t=75)** We'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Security]] (3), next (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Virtual Machines]] (1), [[Serverless Computing]] (1), [[Application Development]] (1), [[API Management]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 

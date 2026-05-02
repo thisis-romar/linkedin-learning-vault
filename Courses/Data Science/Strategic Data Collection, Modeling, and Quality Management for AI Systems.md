@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of data in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980)
+#### [The importance of data in AI](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,27 +96,26 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980&t=26)** I'm Joe Squire.
 >
-> **[0:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980&t=27)** In this course, we'll explore the essential components of effective data strategies for AI systems across six key sections.
+> **[0:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980&t=27)** In this course, we'll explore the essential components of effective [[Data Strategies]] for AI systems across six key sections.
 >
 > **[0:34](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980&t=34)** By the end, you'll have practical frameworks to collect, structure, and manage data that fuels successful AI initiatives.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (4)
+> **Frameworks & Libraries:** [[Data Strategies]] (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=0)** - [Narrator] Before we dive into data collection strategies, let's make sure you're set up for success in this course.
+> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=0)** - [Narrator] Before we dive into [[Data Collection]] strategies, let's make sure you're set up for success in this course.
 >
 > **[0:05](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=5)** You'll get the most value if you're already familiar with a few key concepts.
 >
 > **[0:10](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=10)** First, you should have a basic understanding of different types of data.
 >
-> **[0:13](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=13)** For instance, if I mentioned structured data like spreadsheets or unstructured data, like images and text documents, these terms should ring a bell.
+> **[0:13](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=13)** For instance, if I mentioned structured data like spreadsheets or [[Unstructured Data]], like images and text documents, these terms should ring a bell.
 >
 > **[0:21](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=21)** You should also have some exposure to AI models.
 >
@@ -133,13 +131,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=42)** You'll look at examples of data collection and modeling challenges, and I'll explain new concepts as we encounter them.
 >
-> **[0:48](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=48)** Whether you're a business analyst starting to work with AI systems or a data professional looking to strengthen your strategic thinking, you'll find valuable insights here.
+> **[0:48](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=48)** Whether you're a business analyst starting to work with AI systems or a data professional looking to strengthen your [[Strategic Thinking]], you'll find valuable insights here.
 >
 > **[0:57](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/what-youshould-know?u=76281980&t=57)** With that, let's dive into our first section where we'll learn how to define clear problems and set actionable goals for our AI initiatives.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (4), [[Unstructured Data]] (1), business (1), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Unstructured Data]] (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
@@ -150,8 +148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980)
+#### [Defining the problem](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,9 +176,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=58)** Imagine you're a retailer preparing for the holiday season.
 >
-> **[1:01](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=61)** Your challenge isn't just collecting sales data, it's predicting which products customers will want, when they'll want them, and how many you'll need.
+> **[1:01](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=61)** Your challenge isn't just collecting sales data, it's predicting which [[Microsoft Products|products]] customers will want, when they'll want them, and how many you'll need.
 >
-> **[1:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=69)** This might seem straightforward, but countless organizations struggle because they jump straight to data collection without truly understanding their problem.
+> **[1:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=69)** This might seem straightforward, but countless organizations struggle because they jump straight to [[Data Collection]] without truly understanding their problem.
 >
 > **[1:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=77)** So let's apply the five whys to this situation.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=111)** Fifth, why: Why haven't we defined these drivers?
 >
-> **[1:55](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=115)** Because we didn't start with clear business objectives for our forecasting efforts.
+> **[1:55](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=115)** Because we didn't start with clear business objectives for our [[Forecasting]] efforts.
 >
 > **[2:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980&t=120)** See how each why peels back another layer?
 >
@@ -253,15 +250,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), ai (2), [[Forecasting]] (2), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Microsoft Products|Products]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Getting clear on objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980)
+#### [Getting clear on objectives](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,15 +271,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=23)** SMART is an acronym that stands for specific, measurable, achievable, relevant and time-bound.
 >
-> **[0:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=30)** When applied to data collection and AI projects, this framework helps ensure we're not just gathering data for data's sake, but working toward clear, actionable outcomes.
+> **[0:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=30)** When applied to [[Data Collection]] and AI projects, this framework helps ensure we're not just gathering data for data's sake, but working toward clear, actionable outcomes.
 >
-> **[0:39](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=39)** Let's break down each component using an example of a retailer preparing for the holiday season and trying to predict which products customers will want, when they'll want them and how many they'll need.
+> **[0:39](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=39)** Let's break down each component using an example of a retailer preparing for the holiday season and trying to predict which [[Microsoft Products|products]] customers will want, when they'll want them and how many they'll need.
 >
 > **[0:50](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=50)** Let's look at each component of the SMART framework in this context.
 >
 > **[0:54](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=54)** Specific.
 >
-> **[0:55](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=55)** Instead of improve holiday forecasting, we want forecast demand for top 100 products across all sales channels, including online and in store.
+> **[0:55](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=55)** Instead of improve holiday [[Forecasting]], we want forecast demand for top 100 products across all sales channels, including online and in store.
 >
 > **[1:04](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=64)** Measurable.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=104)** Set realistic deadlines that account for data collection and analyses.
 >
-> **[1:47](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=107)** Complete initial demand forecast six weeks before holiday season with weekly updates based on real-time sales data.
+> **[1:47](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=107)** Complete initial demand forecast six weeks before holiday season with weekly updates based on [[Real-Time]] sales data.
 >
 > **[1:54](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/getting-clear-on-objectives?u=76281980&t=114)** Now let's look at how this can be applied to develop an AI system for healthcare readmissions.
 >
@@ -343,14 +339,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (4), [[Microsoft Products|Products]] (2), business (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Microsoft Products|Products]] (2), [[Forecasting]] (1), [[Real-Time]] (1)
 > **Env Vars:** smart (8)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding data requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980)
+#### [Understanding data requirements](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,17 +361,17 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=41)** These experts have typically seen hundreds of similar cases, know which factors consistently impact outcomes.
 >
-> **[0:48](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=48)** For our retail forecasting example, this might mean store managers who understand local buying patterns, supply chain experts who know what drives stockouts, and marketing teams who can explain promotional impacts.
+> **[0:48](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=48)** For our retail [[Forecasting]] example, this might mean store managers who understand local buying patterns, supply chain experts who know what drives stockouts, and marketing teams who can explain promotional impacts.
 >
 > **[1:01](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=61)** Don't just ask SMEs what data they think you need.
 >
-> **[1:05](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=65)** Ask them to walk you through their decision-making process.
+> **[1:05](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=65)** Ask them to walk you through their [[Decision-Making]] process.
 >
 > **[1:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=69)** Often the features they use unconsciously are the most valuable ones.
 >
 > **[1:14](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=74)** Similarly, leverage prior work.
 >
-> **[1:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=77)** This can fast track your feature identification, review existing reports and dashboards, examine previous projects postmortems, study academic papers in your domain, and analyze competitor case studies.
+> **[1:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=77)** This can fast track your feature identification, review existing reports and [[Dashboards]], examine previous projects postmortems, study academic papers in your domain, and analyze competitor case studies.
 >
 > **[1:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=90)** For example, say a retailer starting a forecasting project discovered three previous attempts in other regions.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=104)** I'll share three practical frameworks that will help you define your data requirements systematically.
 >
-> **[1:49](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=109)** These are the feature alignment framework, which ensures every piece of data serves a purpose; the MoSCoW method, which helps focus resources on essential features; and the Data Requirements Canvas, which is a living document that guides data collection.
+> **[1:49](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=109)** These are the feature alignment framework, which ensures every piece of data serves a purpose; the MoSCoW method, which helps focus resources on essential features; and the Data Requirements Canvas, which is a living document that guides [[Data Collection]].
 >
 > **[2:03](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=123)** Let's start with the feature alignment framework.
 >
@@ -406,13 +401,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=166)** Could have: These are nice to have if the resources permitted.
 >
-> **[2:50](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=170)** Social media sentiment, market research reports, website browsing patterns.
+> **[2:50](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=170)** Social media sentiment, [[Market Research]] reports, website browsing patterns.
 >
 > **[2:55](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=175)** And lastly, the won't have.
 >
 > **[2:58](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=178)** These are strictly out of scope for your project for now because you either don't have the resources or ability to get this data.
 >
-> **[3:04](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=184)** This could include something like individual customer purchase predictions, global market trends, real-time competitor inventory levels.
+> **[3:04](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=184)** This could include something like individual customer purchase predictions, global market trends, [[Real-Time]] competitor inventory levels.
 >
 > **[3:12](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=192)** Let me show you how this works in healthcare too.
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=268)** Here, we have legal and compliance requirements, technical limitations, resource constraints, and time constraints.
 >
-> **[4:36](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=276)** And then you have a risk assessment where there's potential bias of sources, data quality concerns, and privacy considerations that you can write down.
+> **[4:36](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=276)** And then you have a risk assessment where there's potential bias of sources, [[Data Quality]] concerns, and [[Privacy]] considerations that you can write down.
 >
 > **[4:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-data-requirements?u=76281980&t=284)** So let me show you how this works in practice with the frameworks we just looked at.
 >
@@ -492,15 +487,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), feature (7), [[Forecasting]] (4), teams (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (4), [[Privacy]] (2), [[Decision-Making]] (1), [[Dashboards]] (1), [[Data Collection]] (1)
 > **Env Vars:** smart (6), kpi (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding AI models and data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980)
+#### [Understanding AI models and data collection](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,19 +504,19 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=15)** Let's use a practical example.
 >
-> **[0:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=17)** Imagine you're building a retail forecasting system.
+> **[0:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=17)** Imagine you're building a retail [[Forecasting]] system.
 >
 > **[0:20](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=20)** You might initially think you just need sales numbers for a simple regression model, but different AI models have different appetites for data, both in quantity and type.
 >
-> **[0:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=30)** Choosing the wrong model can leave critical gaps in your data collection strategy.
+> **[0:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=30)** Choosing the wrong model can leave critical gaps in your [[Data Collection]] strategy.
 >
-> **[0:35](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=35)** There are three key models we should know, supervised learning, unsupervised learning, and deep learning.
+> **[0:35](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=35)** There are three key models we should know, [[Supervised Learning]], unsupervised learning, and [[Deep Learning]].
 >
 > **[0:42](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=42)** Supervised learning models are models that learn from examples, like an apprentice learning from a master chef.
 >
 > **[0:50](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=50)** They require paired input/output data, so historical examples with known outcomes, high-quality labels with accurately represented outcomes, and clean, structured data with consistent formatting.
 >
-> **[1:04](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=64)** Common applications of supervised learning models are sales forecasting using linear regression, fraud detection using logistic regression, and customer churn prediction using random forests.
+> **[1:04](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=64)** Common applications of supervised learning models are sales forecasting using [[Linear Regression]], fraud detection using [[Logistic Regression]], and customer churn prediction using random forests.
 >
 > **[1:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=77)** Our second model type to consider is unsupervised learning models.
 >
@@ -530,7 +524,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=87)** They need large volumes of varied representative data, rich feature sets to find meaningful patterns, and they don't require any label outcomes, but high-quality data really is crucial.
 >
-> **[1:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=101)** Common applications of unsupervised learning models are customer segmentation using K-means clustering, market basket analysis using association rules, and anomaly detections in something like operations using one-class SVM.
+> **[1:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=101)** Common applications of unsupervised learning models are customer segmentation using [[k-means clustering]], market basket analysis using association rules, and anomaly detections in something like operations using one-class SVM.
 >
 > **[1:56](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=116)** Our third model type to consider are deep learning models.
 >
@@ -538,7 +532,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=122)** They demand massive amounts of high-quality data, substantial computing resources, careful data pre-processing, and they often require specialized data types such as images, text, or time series.
 >
-> **[2:16](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=136)** Common applications of deep learning models are image recognition using CNNs, natural language processing using transformers, and time series forecasting using LSTMs.
+> **[2:16](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=136)** Common applications of deep learning models are image recognition using CNNs, [[Natural Language Processing (NLP)|natural language processing]] using transformers, and time series forecasting using LSTMs.
 >
 > **[2:28](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/understanding-ai-models-and-data-collection?u=76281980&t=148)** To match our model with our data strategy in our AI project, we need to start with our SMART goals and ask, do we need to predict specific values?
 >
@@ -588,14 +582,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), ai (6), [[Supervised Learning]] (6), [[Deep Learning]] (4), [[Forecasting]] (3)
+> **Frameworks & Libraries:** [[Supervised Learning]] (6), [[Data Collection]] (4), [[Deep Learning]] (4), [[Forecasting]] (3), [[Linear Regression]] (1)
 > **Env Vars:** svm (1), smart (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Planning and executing data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980)
+#### [Planning and executing data collection](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,19 +596,19 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=9)** You know how a good recipe lists not just the ingredients, but also tells you which ones to avoid?
 >
-> **[0:15](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=15)** Data collection works the same way.
+> **[0:15](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=15)** [[Data Collection]] works the same way.
 >
 > **[0:18](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=18)** Let's enhance our data requirements canvas by adding clear rules to what data we want and what we don't.
 >
 > **[0:24](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=24)** You can find where we can list inclusion and exclusion data under the collection strategy development section of our data requirement canvas.
 >
-> **[0:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=33)** Let me show you how this works with our retail forecasting example.
+> **[0:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=33)** Let me show you how this works with our retail [[Forecasting]] example.
 >
 > **[0:37](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=37)** First, what should we include?
 >
 > **[0:39](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=39)** We want sales data from the past three years, but only completed transactions.
 >
-> **[0:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=44)** We need stores with mostly complete data, let's say 90% or better, and we're only interested in products we currently stock.
+> **[0:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=44)** We need stores with mostly complete data, let's say 90% or better, and we're only interested in [[Microsoft Products|products]] we currently stock.
 >
 > **[0:52](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=52)** Just as important is what to exclude.
 >
@@ -653,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=135)** It's like dealing with a strict librarian.
 >
-> **[2:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=137)** You've got rate limits to respect, authentication tokens that expire, and formats that can change without warning.
+> **[2:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=137)** You've got rate limits to respect, authentication [[Tokens]] that expire, and formats that can change without warning.
 >
 > **[2:23](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=143)** Build in request queuing and version monitoring to stay ahead of issues.
 >
@@ -661,7 +654,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=152)** Create standardized templates.
 >
-> **[2:34](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=154)** Think of them like forms at a doctor's office.
+> **[2:34](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=154)** Think of them like [[Forms]] at a doctor's [[Microsoft Office|office]].
 >
 > **[2:37](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/planning-and-executing-data-collection?u=76281980&t=157)** Every field means something specific, and missing data can throw off your whole analysis.
 >
@@ -709,7 +702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Microsoft Products|Products]] (2), ai (1), [[Forecasting]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Microsoft Products|Products]] (2), [[Forecasting]] (1), [[Tokens]] (1), [[Forms]] (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Analogies:** it's like (2)
 > **CLI Commands:** find (1)
@@ -723,8 +716,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data requirements for modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980)
+#### [Data requirements for modeling](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=6)** Let's dig deeper into what each chef needs in their kitchen to succeed.
 >
-> **[0:10](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=10)** I'll show you an illustration I call the model requirements pyramid that will help you understand how your data collection matches your modeling needs.
+> **[0:10](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=10)** I'll show you an illustration I call the model requirements pyramid that will help you understand how your [[Data Collection]] matches your modeling needs.
 >
 > **[0:18](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=18)** Starting at the base of the pyramid, we have data volume requirements.
 >
@@ -742,13 +734,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=36)** For basic classification models, plan on thousands of examples per category.
 >
-> **[0:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=41)** For deep learning models, especially those handling images or texts, you're often looking at millions of data points.
+> **[0:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=41)** For [[Deep Learning]] models, especially those handling images or texts, you're often looking at millions of data points.
 >
 > **[0:48](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=48)** But here's the catch: it's not just about quantity.
 >
-> **[0:51](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=51)** The middle of our pyramid focuses on data quality attributes that vary by model type.
+> **[0:51](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=51)** The middle of our pyramid focuses on [[Data Quality]] attributes that vary by model type.
 >
-> **[0:56](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=56)** For supervised learning models, think of it as following a recipe.
+> **[0:56](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=56)** For [[Supervised Learning]] models, think of it as following a recipe.
 >
 > **[1:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980&t=60)** You need balanced representation across categories, consistent labeling standards, and clear input-output relationships.
 >
@@ -830,14 +822,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Deep Learning]] (5), [[Supervised Learning]] (4), ai (2), feature (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Data Collection]] (4), [[Supervised Learning]] (4), [[Data Quality]] (3)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving outcomes with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980)
+#### [Improving outcomes with data](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,9 +838,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=10)** High quality data properly prepared and maintain can dramatically improve your model's performance.
 >
-> **[0:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=17)** Consider a retail forecasting system that was able to improve its accuracy from 65% to 89% through three key data optimization strategies.
+> **[0:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=17)** Consider a retail [[Forecasting]] system that was able to improve its accuracy from 65% to 89% through three key data optimization strategies.
 >
-> **[0:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=27)** These optimization strategies are feature engineering, dataset balancing, and continuous updates.
+> **[0:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=27)** These optimization strategies are [[Feature Engineering]], dataset balancing, and continuous updates.
 >
 > **[0:34](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=34)** Let's examine each one starting with feature engineering.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=107)** The third strategy is implementing continuous updates.
 >
-> **[1:49](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=109)** Your data isn't static and neither should your model be set up processes to regularly validate data quality.
+> **[1:49](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=109)** Your data isn't static and neither should your model be set up processes to regularly validate [[Data Quality]].
 >
 > **[1:56](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=116)** Monitor for concept drift, update features as business conditions change, and retrain models with fresh data.
 >
@@ -899,7 +890,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=148)** It's about making your data work harder for you through thoughtful preparation and maintenance.
 >
-> **[2:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=153)** Consider how you might apply these optimization strategies to your data collection efforts.
+> **[2:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=153)** Consider how you might apply these optimization strategies to your [[Data Collection]] efforts.
 >
 > **[2:38](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/improving-outcomes-with-data?u=76281980&t=158)** Which approach would've the biggest impact on your model's performance?
 >
@@ -907,7 +898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Feature Engineering]] (3), [[Forecasting]] (1), feature (1), business (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Forecasting]] (1), [[Data Quality]] (1), [[Data Collection]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** gigo (1)
 > **Prerequisites:** set up (1)
@@ -918,12 +909,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data-quality metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980)
+#### [Data-quality metrics](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=0)** - [Instructor] When we talk about data quality, we often hear terms like accuracy, completeness, and consistency.
+> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=0)** - [Instructor] When we talk about [[Data Quality]], we often hear terms like accuracy, completeness, and consistency.
 >
 > **[0:06](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=6)** But what do these really mean, and more importantly, how do we measure them in practice?
 >
@@ -997,13 +987,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=161)** Do calculated fields match their component parts?
 >
-> **[2:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=164)** One often overlooked aspect is temporal consistency, how stable your data collection is over time.
+> **[2:44](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=164)** One often overlooked aspect is temporal consistency, how stable your [[Data Collection]] is over time.
 >
 > **[2:50](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=170)** Changes in collection methods, business rules, or even staff training can create hidden inconsistencies that affect model performance.
 >
 > **[2:58](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=178)** Let's look at how this plays out in retail and health care scenarios.
 >
-> **[3:02](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=182)** In retail forecasting, direct accuracy measures for future demand doesn't exist.
+> **[3:02](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=182)** In retail [[Forecasting]], direct accuracy measures for future demand doesn't exist.
 >
 > **[3:07](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980&t=187)** You can't know the true future demand.
 >
@@ -1041,24 +1031,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), business (2), [[Forecasting]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Forecasting]] (2), [[Data Collection]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** smart (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting and mitigating bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980)
+#### [Detecting and mitigating bias](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=0)** - [Instructor] When we talk about bias in AI systems, we're really talking about systematic errors or unfairness in our data.
 >
-> **[0:07](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=7)** These biases can creep in at any stage from data collection to model deployment and often amplify existing social inequalities.
+> **[0:07](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=7)** These biases can creep in at any stage from [[Data Collection]] to model deployment and often amplify existing social inequalities.
 >
 > **[0:15](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=15)** Consider these examples of bias.
 >
-> **[0:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=17)** In retail forecasting, historical sales data may underrepresent certain customer segments simply because they weren't previously targeted by marketing efforts.
+> **[0:17](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=17)** In retail [[Forecasting]], historical sales data may underrepresent certain customer segments simply because they weren't previously targeted by marketing efforts.
 >
 > **[0:26](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=26)** This creates a feedback loop.
 >
@@ -1086,7 +1075,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=88)** Audit your data composition.
 >
-> **[1:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=90)** Compare dataset demographics against population statistics.
+> **[1:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=90)** Compare dataset demographics against population [[Statistics]].
 >
 > **[1:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=93)** Look for unexpected correlations between features and track representation across different intersectional groups.
 >
@@ -1096,7 +1085,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=106)** Implement balanced sampling strategies and document known limitations and gaps and adjust pre-processing.
 >
-> **[1:53](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=113)** Review feature engineering for unintended consequences.
+> **[1:53](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=113)** Review [[Feature Engineering]] for unintended consequences.
 >
 > **[1:56](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/detecting-and-mitigating-bias?u=76281980&t=116)** Consider multiple approaches to handling missing data and test different sampling and balancing techniques.
 >
@@ -1130,23 +1119,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (3), feature (2), [[Forecasting]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (6), [[Forecasting]] (1), [[Statistics]] (1), [[Feature Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ongoing monitoring and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980)
+#### [Ongoing monitoring and compliance](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=0)** - [Instructor] Data quality isn't a one-time achievement.
+> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=0)** - [Instructor] [[Data Quality]] isn't a one-time achievement.
 >
 > **[0:02](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=2)** It's an ongoing process that requires systematic monitoring and regular adjustments.
 >
-> **[0:08](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=8)** Let's explore how to set up practical monitoring systems that help maintain data quality while ensuring regulatory compliance.
+> **[0:08](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=8)** Let's explore how to set up practical monitoring systems that help maintain data quality while ensuring [[Regulatory Compliance]].
 >
 > **[0:15](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=15)** First, let's look at what typically goes wrong without proper monitoring.
 >
-> **[0:20](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=20)** In retail forecasting systems, gradual shifts in customer behavior can lead to what's called concept drift, where your model's assumptions slowly become outdated.
+> **[0:20](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=20)** In retail [[Forecasting]] systems, gradual shifts in customer behavior can lead to what's called concept drift, where your model's assumptions slowly become outdated.
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=30)** For example, during the 2020 pandemic, shopping patterns changed dramatically, making historical patterns less relevant.
 >
@@ -1166,7 +1154,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=79)** The following are good to have in place to prevent data breaches, establish clear ownership of data used to produce AI systems, preserve reputation, and ensure controls are in place to prevent misuse of data.
 >
-> **[1:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=90)** These include data retention policies, privacy requirements, access controls, and audit trails.
+> **[1:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=90)** These include data retention policies, [[Privacy]] requirements, access controls, and audit trails.
 >
 > **[1:37](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=97)** Here's what makes monitoring challenging in practice.
 >
@@ -1186,13 +1174,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=140)** For data quality issues, you want to define severity levels, establish investigation procedures, document correction processes, and track root causes.
 >
-> **[2:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=150)** For compliance concerns, you want to create incident response plans, maintain communication protocols, document remediation steps, and update procedures based on those findings.
+> **[2:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=150)** For compliance concerns, you want to create [[Incident Response]] plans, maintain communication protocols, document remediation steps, and update procedures based on those findings.
 >
 > **[2:40](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=160)** Consider these challenges and solutions.
 >
-> **[2:43](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=163)** When retail systems detect unusual patterns, they verify that it's a genuine change in customer behavior, they check for data collection issues, they assess the impact on model performance, and they adjust collection or modeling as needed.
+> **[2:43](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=163)** When retail systems detect unusual patterns, they verify that it's a genuine change in customer behavior, they check for [[Data Collection]] issues, they assess the impact on model performance, and they adjust collection or modeling as needed.
 >
-> **[2:58](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=178)** In health care settings, monitoring might reveal changes in diagnostic or coding practices, shifts in patient demographics, new treatment protocols, and documentation pattern changes.
+> **[2:58](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=178)** In health care settings, monitoring might reveal changes in diagnostic or [[Coding Practices]], shifts in patient demographics, new treatment protocols, and documentation pattern changes.
 >
 > **[3:11](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=191)** Remember, monitoring systems themselves need regular review and updates.
 >
@@ -1202,7 +1190,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=203)** Start simple and expand gradually.
 >
-> **[3:26](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=206)** An Excel spreadsheet with periodic updates is nothing to dismiss.
+> **[3:26](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=206)** An [[Microsoft Excel|Excel]] spreadsheet with periodic updates is nothing to dismiss.
 >
 > **[3:30](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/ongoing-monitoring-and-compliance?u=76281980&t=210)** Focus on actionable metrics, document all monitoring decisions, review and update thresholds regularly, and keep audit trails of all changes.
 >
@@ -1224,7 +1212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), ai (3), [[Regulatory Compliance]] (1), [[Forecasting]] (1), feature (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Collection]] (2), [[Regulatory Compliance]] (1), [[Forecasting]] (1), [[Privacy]] (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1234,18 +1222,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking a holistic approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980)
+#### [Taking a holistic approach](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=0)** - [Instructor] The individual components of successful AI systems range from data collection to model selection, quality metrics to bias mitigation.
+> **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=0)** - [Instructor] The individual components of successful AI systems range from [[Data Collection]] to model selection, quality metrics to bias mitigation.
 >
 > **[0:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=9)** But these aren't isolated steps, they're deeply interconnected parts of a living system.
 >
 > **[0:14](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=14)** Think about how these elements interact.
 >
-> **[0:16](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=16)** Your model selection influences what data you need to collect, your data quality affects which modeling approaches are viable, and your monitoring systems inform both collection and modeling decisions.
+> **[0:16](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=16)** Your model selection influences what data you need to collect, your [[Data Quality]] affects which modeling approaches are viable, and your monitoring systems inform both collection and modeling decisions.
 >
 > **[0:28](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980&t=28)** The Data Requirements Canvas we've used throughout this course isn't just a planning tool, it's a bridge between these components.
 >
@@ -1273,11 +1260,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (5), teams (2)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Data Quality]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world example: End-to-end AI workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980)
+#### [Real-world example: End-to-end AI workflow](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,7 +1321,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=126)** And then this is where our model selection comes into play.
 >
-> **[2:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=129)** Since we're building a classification system, we're looking at supervised learning approaches.
+> **[2:09](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=129)** Since we're building a classification system, we're looking at [[Supervised Learning]] approaches.
 >
 > **[2:14](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=134)** This means we likely need around a thousand examples per risk category, and those examples need to be properly labeled.
 >
@@ -1349,7 +1335,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=157)** We're explicitly excluding test orders, canceled POs and incomplete records.
 >
-> **[2:42](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=162)** See our inclusion and exclusion criteria help maintain that data quality right from the start.
+> **[2:42](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=162)** See our inclusion and exclusion criteria help maintain that [[Data Quality]] right from the start.
 >
 > **[2:47](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=167)** And speaking of quality, remember our metrics?
 >
@@ -1385,7 +1371,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=232)** It came from creating harmony between all of these pieces.
 >
-> **[3:57](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=237)** The clear problem definition guided our data collection, quality metrics informed our monitoring strategy.
+> **[3:57](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=237)** The clear problem definition guided our [[Data Collection]], quality metrics informed our monitoring strategy.
 >
 > **[4:02](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/real-world-example-end-to-end-ai-workflow?u=76281980&t=242)** Regular bias checks prevented systematic disadvantages to smaller vendors.
 >
@@ -1403,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (7), business (3), [[Supervised Learning]] (1), hit (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (1), [[Data Quality]] (1), [[Data Collection]] (1)
 > **Versions:** 0.1 (1), 0.08 (1), 2.1 (1)
 > **Analogies:** imagine (1), picture (1)
 > **Env Vars:** smart (1)
@@ -1414,22 +1400,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=0)** - [Instructor] We've covered a lot of ground on this course, from defining clear objectives to implementing effective monitoring systems.
 >
-> **[0:06](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=6)** The frameworks and strategies we've explored will help you build more successful AI initiatives through strategic data collection and management.
+> **[0:06](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=6)** The frameworks and strategies we've explored will help you build more successful AI initiatives through strategic [[Data Collection]] and management.
 >
 > **[0:14](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=14)** Remember, the data requirements canvas we use throughout this course is a living document that should evolve with your projects.
 >
 > **[0:22](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=22)** I encourage you to apply these concepts to your own work and adapt them to your specific needs.
 >
-> **[0:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=27)** To continue your learning journey, you can connect with me on LinkedIn where I regularly share insights about AI and data strategy.
+> **[0:27](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=27)** To continue your learning journey, you can connect with me on [[LinkedIn]] where I regularly share insights about AI and data strategy.
 >
-> **[0:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=33)** You can also check out LinkedIn Learning's other courses on AI implementation, machine learning, and data science to deepen your expertise in these areas.
+> **[0:33](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=33)** You can also check out LinkedIn Learning's other courses on AI implementation, machine learning, and [[Data Science]] to deepen your expertise in these areas.
 >
 > **[0:41](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980&t=41)** Thank you for investing your time in this course.
 >
@@ -1437,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), [[LinkedIn]] (2), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Collection]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

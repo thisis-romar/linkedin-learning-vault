@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock the power of explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980)
+#### [Unlock the power of explainable AI](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980&t=0)** - [Stephanie] Whether you are a cybersecurity professional or an AI enthusiast, this course is designed to equip you with the knowledge and skills to navigate the complexities of AI In security context, we'll delve into the advanced techniques of XAI, providing you with the tools to implement explainable AI solutions that align with your organization's security goals.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980&t=0)** - [Stephanie] Whether you are a [[Cybersecurity]] professional or an AI enthusiast, this course is designed to equip you with the knowledge and skills to navigate the complexities of AI In security context, we'll delve into the advanced techniques of XAI, providing you with the tools to implement explainable [[AI Solutions]] that align with your organization's security goals.
 >
 > **[0:33](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980&t=33)** I've dedicated my professional and academic career career to exploring how AI can be harnessed to enhance security measures while maintaining transparency and trust.
 >
@@ -104,22 +103,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Security]] (3), career (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[AI Solutions]] (1)
 > **Env Vars:** xai (1)
 > **Speakers:** - [stephanie] (1)
 
-#### Course tools and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980)
+#### [Course tools and resources](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=0)** - [Instructor] This is an intermediate to advanced level course.
 >
-> **[0:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=5)** To get the most out of it, you should have a solid foundation in both artificial intelligence and cybersecurity.
+> **[0:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=5)** To get the most out of it, you should have a solid foundation in both [[Artificial Intelligence (AI)|artificial intelligence]] and [[Cybersecurity]].
 >
-> **[0:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=14)** I recommend the following LinkedIn courses as valuable prerequisites.
+> **[0:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=14)** I recommend the following [[LinkedIn]] courses as valuable prerequisites.
 >
-> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=21)** The first one is Artificial Intelligence Foundation: Machine Learning by Kesha Williams, [[Machine Learning with Python- Foundations]] by Frederick Nwanganga, and Deep Learning: Getting Started.
+> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=21)** The first one is Artificial Intelligence Foundation: Machine Learning by Kesha Williams, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]] by Frederick Nwanganga, and [[Deep Learning]]: Getting Started.
 >
 > **[0:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=39)** These courses will give you a strong grounding in AI concepts and machine learning techniques.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=96)** By the end of this course, you will be able to understand the importance of explainable AI in cybersecurity systems, to be able to apply various XAI techniques to interpret complex AI models used in threat detection and risk assessment.
 >
-> **[2:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=120)** You'll be able to integrate XAI methods into existing cybersecurity frameworks and workflows to be able to make more informed decisions based on explainable AI outputs in a security context, and to be able to address ethical considerations and privacy concerns when implementing XAI in cybersecurity.
+> **[2:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=120)** You'll be able to integrate XAI methods into existing cybersecurity frameworks and workflows to be able to make more informed decisions based on explainable AI outputs in a security context, and to be able to address ethical considerations and [[Privacy]] concerns when implementing XAI in cybersecurity.
 >
 > **[2:28](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/course-tools-and-resources?u=76281980&t=148)** Now we'll be able to achieve these goals through a combination of theoretical discussions, practical exercises, and real-world case studies.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Cybersecurity]] (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), [[Deep Learning]] (1)
 > **Env Vars:** xai (6), shap (1), lime (1), mitre (1)
 > **CLI Commands:** python (2), make (2)
 > **Prerequisites:** getting started (1), make sure you have (1), prerequisite (1)
@@ -158,12 +156,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explaining the importance of explainable AI (XAI) in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980)
+#### [Explaining the importance of explainable AI (XAI) in cybersecurity](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=0)** - [Instructor] Picture this, a busy cybersecurity operations center.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=0)** - [Instructor] Picture this, a busy [[Cybersecurity]] operations center.
 >
 > **[0:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=5)** Analysts are focused on their screens when suddenly an alarm goes off.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=42)** XAI is essentially the art of making AI understandable.
 >
-> **[0:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=48)** Unlike traditional black box models that offer little insight into their decision-making processes, XAI provides clear explanations for AI-driven actions.
+> **[0:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=48)** Unlike traditional black box models that offer little insight into their [[Decision-Making]] processes, XAI provides clear explanations for AI-driven actions.
 >
 > **[1:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=62)** That transparency is crucial in cybersecurity, where trust and understanding are paramount.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=81)** XAI bridges the gap by offering key advantages.
 >
-> **[1:26](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=86)** The first one being building trust.
+> **[1:26](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=86)** The first one being [[Building Trust]].
 >
 > **[1:30](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=90)** This is done by shedding light on the AI's decision-making process.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=111)** This is because by understanding the AI's rationale, it empowers security teams to make more informed and effective decisions.
 >
-> **[2:03](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=123)** The third one being regulatory compliance.
+> **[2:03](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=123)** The third one being [[Regulatory Compliance]].
 >
 > **[2:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/explaining-the-importance-of-explainable-ai-xai-in-cybersecurity?u=76281980&t=126)** This is because many industries, including cybersecurity, have strict regulations around decision-making transparency and XAI helps organizations to meet this requirement.
 >
@@ -245,35 +242,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Cybersecurity]] (8), [[Decision-Making]] (5), [[Security]] (4), teams (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Decision-Making]] (5), [[Building Trust]] (2), [[Regulatory Compliance]] (1)
 > **Env Vars:** xai (14), lime (3), shap (3)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlighting the brief history of XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980)
+#### [Highlighting the brief history of XAI](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=0)** - [Narrator] Imagine a world where AI systems made critical security decisions without explanation, leaving cybersecurity professionals in the dark.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=0)** - [Narrator] Imagine a world where AI systems made critical security decisions without explanation, leaving [[Cybersecurity]] professionals in the dark.
 >
-> **[0:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=12)** This was once a reality in the field where both black box and white box AI solutions played crucial roles.
+> **[0:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=12)** This was once a reality in the field where both black box and white box [[AI Solutions]] played crucial roles.
 >
 > **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=21)** Today we will explore the fascinating journey from these early approaches to the transparent world of explainable AI in cybersecurity.
 >
 > **[0:32](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=32)** In the early days of AI in cybersecurity, black models gain popularity due to their high accuracy and ability to process complex data.
 >
-> **[0:44](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=44)** These systems were designed to detect threats and anomalies effectively, but their decision-making processes remained opaque.
+> **[0:44](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=44)** These systems were designed to detect threats and anomalies effectively, but their [[Decision-Making]] processes remained opaque.
 >
 > **[0:53](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=53)** Security analysts often found themselves unable to understand why a particular alert was triggered, leading to trust issues and challenges in improving the systems.
 >
-> **[1:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=67)** Alongside black box models, white box solutions also played a significant role in the early AI security systems.
+> **[1:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=67)** Alongside black box models, white box solutions also played a significant role in the early [[AI Security]] systems.
 >
 > **[1:17](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=77)** These models were designed to be transparent and interpretable, allowing users to see the features and reasoning behind the model's prediction.
 >
-> **[1:28](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=88)** White box models offered accountability and ease of auditing, which was particularly important in applications where the consequences of errors could be significant.
+> **[1:28](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=88)** White box models offered [[Accountability]] and ease of auditing, which was particularly important in applications where the consequences of errors could be significant.
 >
 > **[1:41](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=101)** As AI systems became more prevalent and started making increasingly important decisions, several concerns arose.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=181)** In the early 2000s, researchers began exploring ways to make machine learning models more interpretable.
 >
-> **[3:09](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=189)** In 2016, DARPA launches its explainable artificial intelligence program, significantly boosting research in this area.
+> **[3:09](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=189)** In 2016, DARPA launches its explainable [[Artificial Intelligence (AI)|artificial intelligence]] program, significantly boosting research in this area.
 >
 > **[3:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/highlighting-the-brief-history-of-xai?u=76281980&t=201)** In 2018, the EU's General Data Protection Regulator, also known as GDPR, comes into effect, including a right to explanation for automated decisions, further driving the XAI development.
 >
@@ -331,7 +327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Cybersecurity]] (8), [[Security]] (5), data (2), teams (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[AI Solutions]] (1), [[Decision-Making]] (1), [[AI Security]] (1), [[Accountability]] (1)
 > **Env Vars:** xai (6), darpa (1), gdpr (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -343,8 +339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Brief introduction to model-agnostic methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980)
+#### [Brief introduction to model-agnostic methods](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +403,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980&t=206)** They don't require knowledge of model's internal mechanics, offering local explanations that pinpoint why a particular prediction was made.
 >
-> **[3:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980&t=218)** These capabilities are invaluable in sectors like healthcare and cybersecurity, where understanding AI decisions can mean life or death.
+> **[3:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980&t=218)** These capabilities are invaluable in sectors like healthcare and [[Cybersecurity]], where understanding AI decisions can mean life or death.
 >
 > **[3:49](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980&t=229)** However, LIME and SHAP aren't flawless.
 >
@@ -434,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (4), game (2), chatbot (1), hit (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** lime (8), shap (8)
 > **Analogies:** imagine (2), just like (1)
 > **CLI Commands:** make (1)
@@ -442,8 +437,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring model-specific techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980)
+#### [Exploring model-specific techniques](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -465,11 +459,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=74)** Some popular model-specific techniques include decision tree visualization.
 >
-> **[1:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=80)** This technique is specific to decision trees and their assembles, like random forests.
+> **[1:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=80)** This technique is specific to [[Decision Trees]] and their assembles, like random forests.
 >
-> **[1:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=87)** It provides a graphical representation of the model's decision-making process, showing how features are used to split the data and make predictions.
+> **[1:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=87)** It provides a graphical representation of the model's [[Decision-Making]] process, showing how features are used to split the data and make predictions.
 >
-> **[1:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=99)** The second model-specific technique is weight analysis in neural networks.
+> **[1:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=99)** The second model-specific technique is weight analysis in [[Neural Networks]].
 >
 > **[1:45](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=105)** For neural networks, we can analyze the weight, connecting neurons.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=116)** This can help us understand which inputs have the most significant impact on the model's output.
 >
-> **[2:04](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=124)** The third model-specific technique is attention mechanisms in natural language processing.
+> **[2:04](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=124)** The third model-specific technique is attention mechanisms in [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[2:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/exploring-model-specific-techniques?u=76281980&t=132)** In this case, models are like transformers, and tension mechanisms shows which part of the input text the model focuses on when making predictions.
 >
@@ -529,18 +523,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Neural Networks]] (2), [[Decision Trees]] (1), [[Decision-Making]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Decision Trees]] (1), [[Decision-Making]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying LIME in a cybersecurity scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-lime-in-a-cybersecurity-scenario?u=76281980)
+#### [Applying LIME in a cybersecurity scenario](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-lime-in-a-cybersecurity-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-lime-in-a-cybersecurity-scenario?u=76281980&t=0)** - [Instructor] Imagine you are a cybersecurity analyst faced with an AI model that's flagging potential threats.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-lime-in-a-cybersecurity-scenario?u=76281980&t=0)** - [Instructor] Imagine you are a [[Cybersecurity]] analyst faced with an AI model that's flagging potential threats.
 >
 > **[0:08](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-lime-in-a-cybersecurity-scenario?u=76281980&t=8)** It's doing a great job, but you need to understand why it's making certain decisions.
 >
@@ -624,21 +617,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), data (4), ai (3), traffic (2), feature (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7)
 > **Env Vars:** lime (16)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (2), imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SHAP for cybersecurity insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980)
+#### [Using SHAP for cybersecurity insights](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=0)** - [Narrator] Picture this.
 >
-> **[0:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=2)** You are a cybersecurity expert, armed with a sophisticated machine learning model to detect threats.
+> **[0:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=2)** You are a [[Cybersecurity]] expert, armed with a sophisticated machine learning model to detect threats.
 >
 > **[0:10](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=10)** But how do you explain its decisions to your team or stakeholders?
 >
@@ -716,7 +708,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=239)** It can reveal which network behaviors or user actions are most indicative of a threat.
 >
-> **[4:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=246)** It can help prioritize which features to monitor more closely in real-time threat detection.
+> **[4:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=246)** It can help prioritize which features to monitor more closely in [[Real-Time]] threat detection.
 >
 > **[4:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/using-shap-for-cybersecurity-insights?u=76281980&t=253)** And it can also assist in explaining model decisions to a non-technical stakeholder, allowing you to build trust in AI-driven security measures.
 >
@@ -736,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (10), [[Cybersecurity]] (4), game (3), ai (3), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Real-Time]] (1)
 > **Env Vars:** shap (19)
 > **Definitions:** is a  (1), stands for (1), means that (1)
 > **Code Identifiers:** num_failed_logins (1), data_exfiltration_rate (1)
@@ -745,8 +737,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
 
-#### Understanding the limitations of model-agnostic and model-specific XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980)
+#### [Understanding the limitations of model-agnostic and model-specific XAI](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +751,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=35)** Model-agnostic methods such as LIME and SHAP can be applied to any machine learning model.
 >
-> **[0:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=42)** In contrast, model-specific methods are tailored to particular models like decision tree or visualization or weight analysis in neural networks.
+> **[0:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=42)** In contrast, model-specific methods are tailored to particular models like decision tree or visualization or weight analysis in [[Neural Networks]].
 >
 > **[0:55](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=55)** Now, let's explore their limitations.
 >
@@ -768,7 +759,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=63)** This is because model-agnostic methods such as LIME and SHAP often provide approximations rather than exact explanations.
 >
-> **[1:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=73)** For instance, LIME creates a local surrogate model to explain predictions, but this model doesn't perfectly represent the original model's decision-making process.
+> **[1:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=73)** For instance, LIME creates a local surrogate model to explain predictions, but this model doesn't perfectly represent the original model's [[Decision-Making]] process.
 >
 > **[1:26](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/understanding-the-limitations-of-model-agnostic-and-model-specific-xai?u=76281980&t=86)** Now let's look at a case study.
 >
@@ -824,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), feature (2), next (2), ai (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Neural Networks]] (1)
 > **Env Vars:** xai (6), lime (5), shap (5)
 > **Analogies:** such as (2), imagine (1), for instance (1)
 > **Definitions:** means that (1)
@@ -835,8 +826,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity framework fundamentals applicable to XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980)
+#### [Cybersecurity framework fundamentals applicable to XAI](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,9 +834,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=1)** XAI offers transparency into AI-driven decisions, making it an invaluable tool for understanding and mitigating risks.
 >
-> **[0:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=12)** By integrating XAI into existing frameworks, organizations can significantly enhance their cybersecurity posture.
+> **[0:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=12)** By integrating XAI into existing frameworks, organizations can significantly enhance their [[Cybersecurity]] posture.
 >
-> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=21)** Now, two of the most widely adopted framework are the NIST, also known as the National Entity of Standards and Technology, and also the cybersecurity framework ISO 27001.
+> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=21)** Now, two of the most widely adopted framework are the [[NIST]], also known as the National Entity of Standards and Technology, and also the cybersecurity framework ISO 27001.
 >
 > **[0:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=35)** These frameworks offer guidelines for number one, identifying assets and risk, number two, protecting systems and data, number three, detecting cybersecurity events, number four, responding to incidences, and finally, allows you to recover from breaches.
 >
@@ -864,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=100)** So what does this mean?
 >
-> **[1:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=102)** For example, an XAI-enhanced intrusion detection system could not only flag an unusual network connection, but also explain why it's considered suspicious, such as disconnection was flagged due to an unusual data transfer pattern and the origination from a previous unseen IP address.
+> **[1:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=102)** For example, an XAI-enhanced [[Intrusion Detection]] system could not only flag an unusual network connection, but also explain why it's considered suspicious, such as disconnection was flagged due to an unusual data transfer pattern and the origination from a previous unseen IP address.
 >
 > **[2:04](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=124)** The second one is risk assessment.
 >
@@ -874,9 +864,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=139)** It can also provide detailed explanation for risk levels assigned to different assets or processes, highlighting the most influential factors in your risk calculations.
 >
-> **[2:32](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=152)** Now, imagine a risk assessment tool that doesn't only assign a high risk score to a particular server, but also explains this server is considered high risk due to its outdated operating system, exposed ports, and critical role in financial data processing.
+> **[2:32](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=152)** Now, imagine a risk assessment tool that doesn't only assign a high risk score to a particular server, but also explains this server is considered high risk due to its outdated operating system, exposed ports, and critical role in [[Financial Data]] processing.
 >
-> **[2:52](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=172)** The third one is your incident response.
+> **[2:52](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=172)** The third one is your [[Incident Response]].
 >
 > **[2:55](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=175)** When a security incident occurs, you need a quick and effective response.
 >
@@ -902,7 +892,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=256)** Now by integrating XAI into cybersecurity frameworks, organizations can achieve the following.
 >
-> **[4:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=264)** The first one is an improved decision-making process.
+> **[4:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=264)** The first one is an improved [[Decision-Making]] process.
 >
 > **[4:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980&t=267)** This is because XAI provides context and rationale behind security alerts and decisions, enabling security teams to make a more informed choice.
 >
@@ -934,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Security]] (8), [[Incident Response]] (4), data (2), ai (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Incident Response]] (4), [[NIST]] (1), [[Intrusion Detection]] (1), [[Financial Data]] (1)
 > **Env Vars:** xai (16), nist (1), iso (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** for example (1), such as (1), imagine (1), for instance (1)
@@ -942,14 +932,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping XAI to cybersecurity domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980)
+#### [Mapping XAI to cybersecurity domains](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=0)** - [Instructor] In the complex world of cybersecurity, AI models are becoming increasingly powerful, but their opacity can be a significant liability.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=0)** - [Instructor] In the complex world of [[Cybersecurity]], AI models are becoming increasingly powerful, but their opacity can be a significant liability.
 >
-> **[0:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=11)** Explainable AI, or XAI, offers a solution, providing insights into the decision-making processes of these models.
+> **[0:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=11)** Explainable AI, or XAI, offers a solution, providing insights into the [[Decision-Making]] processes of these models.
 >
 > **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=21)** So why XAI in cybersecurity?
 >
@@ -993,13 +982,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=153)** Let's actually apply this framework to a specific scenario.
 >
-> **[2:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=156)** Imagine we are trying to enhance an intrusion detection system, IDS, with XAI.
+> **[2:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=156)** Imagine we are trying to enhance an [[Intrusion Detection]] system, IDS, with XAI.
 >
 > **[2:43](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=163)** How would you go about this?
 >
 > **[2:45](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=165)** First one is assessment.
 >
-> **[2:46](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=166)** You want to be able to have your model, which would be probably a random forest classifier for network traffic analysis.
+> **[2:46](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=166)** You want to be able to have your model, which would be probably a random forest classifier for [[Network Traffic Analysis]].
 >
 > **[2:55](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/mapping-xai-to-cybersecurity-domains?u=76281980&t=175)** You want to be able to set your requirement, which is your local explanations for flagged connections, and your audience in this case would be SOC analysts, those who you work with or a team that you're leading.
 >
@@ -1057,18 +1046,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Decision-Making]] (4), [[Security]] (3), ai (2), [[Intrusion Detection]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Decision-Making]] (4), [[Intrusion Detection]] (2), [[Network Traffic Analysis]] (1)
 > **Env Vars:** xai (23), shap (5), ids (4), soc (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: How can you enhance the NIST framework with XAI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980)
+#### [Case study: How can you enhance the NIST framework with XAI?](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=0)** - [Instructor] The NIST Cybersecurity Framework, also known as CSF, is a set of guidelines designed to help organizations manage and reduce cybersecurity risk.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=0)** - [Instructor] The [[NIST]] [[Cybersecurity]] Framework, also known as CSF, is a set of guidelines designed to help organizations manage and reduce cybersecurity risk.
 >
 > **[0:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=11)** It is built around five core functions.
 >
@@ -1090,7 +1078,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=74)** When we look at identify, it allows us to understand the problem.
 >
-> **[1:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=78)** Traditional AI models can identify risk, but they often operate as black boxes, making it hard for us to understand their decisions.
+> **[1:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=78)** [[Traditional AI]] models can identify risk, but they often operate as black boxes, making it hard for us to understand their decisions.
 >
 > **[1:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-how-can-you-enhance-nist-framework-with-xai?u=76281980&t=87)** The solution is that XAI provides clear explanations as to why certain risks are flagged, helping cybersecurity teams understand and trust their risk assessment.
 >
@@ -1130,19 +1118,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (10), teams (5), [[NIST]] (4), ai (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[NIST]] (4), [[Traditional AI]] (2)
 > **Env Vars:** xai (11), nist (4), csf (3)
 > **Definitions:** known as (1), is a  (1), refers to (1)
 > **Analogies:** imagine (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### XAI techniques for cybersecurity framework integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980)
+#### [XAI techniques for cybersecurity framework integration](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=0)** - [Instructor] We will be diving into the advanced integration of xAI with cybersecurity frameworks.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=0)** - [Instructor] We will be diving into the advanced integration of xAI with [[Cybersecurity]] frameworks.
 >
 > **[0:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=6)** This powerful combination is transforming how we detect, analyze, and respond to cyber threats.
 >
@@ -1166,9 +1153,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=64)** It approximates SHAP's values using a sample, which can then be particularly useful when dealing with complex or non-linear models in threat detection.
 >
-> **[1:17](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=77)** The third one is DeepSHAP, and as the name suggests, this technique combines SHAP with deep learning models.
+> **[1:17](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=77)** The third one is DeepSHAP, and as the name suggests, this technique combines SHAP with [[Deep Learning]] models.
 >
-> **[1:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=87)** It is particularly useful when we are using neural networks for advanced threat detection or anomaly detection.
+> **[1:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=87)** It is particularly useful when we are using [[Neural Networks]] for advanced threat detection or anomaly detection.
 >
 > **[1:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=95)** Now that we understand the basics of SHAP, let's discuss how we can integrate it into our existing cybersecurity framework.
 >
@@ -1178,7 +1165,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=114)** You want to identify areas where AI is currently being used and where explainability is lacking.
 >
-> **[2:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=121)** This could be in threat detection systems or your network traffic analysis or your user behavior analytics.
+> **[2:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=121)** This could be in threat detection systems or your [[Network Traffic Analysis]] or your user behavior analytics.
 >
 > **[2:10](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=130)** The second is you want to be able to select your SHAP technique.
 >
@@ -1200,13 +1187,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=201)** This is because it allows you to ensure that they can effectively leverage the insights in their decision making processes.
 >
-> **[3:30](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=210)** You might want to consider either running a workshop or creating a documentation that guides your team members through the interpretation of SHAP outputs, and, finally, step five, continuous monitoring and improvement.
+> **[3:30](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=210)** You might want to consider either running a workshop or creating a documentation that guides your team members through the interpretation of SHAP outputs, and, finally, step five, [[Continuous Monitoring]] and improvement.
 >
 > **[3:45](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=225)** By regularly monitoring the performance of your SHAP enhanced cybersecurity framework, you want to be able to use the feedback from your team to make continuous improvement and ensure that the systems remain effective and trustworthy.
 >
 > **[4:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=241)** Let's take a look at a practical example of how SHAP can be applied in cybersecurity.
 >
-> **[4:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=247)** In a study conducted by researchers at North Dakota University, SHAP was used to explain the output of machine learning models, especially when it was detecting malicious URL and also android malware.
+> **[4:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=247)** In a study conducted by researchers at North Dakota University, SHAP was used to explain the output of machine learning models, especially when it was detecting malicious URL and also [[Android]] malware.
 >
 > **[4:23](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=263)** The results were impressive.
 >
@@ -1224,13 +1211,13 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=308)** Now, imagine applying this to your own cybersecurity team.
 >
-> **[5:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=311)** You could use SHAP to understand why xAI flagged a particular email as potential phishing, for example, or why a specific user behavior was deemed as anomalous.
+> **[5:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=311)** You could use SHAP to understand why xAI flagged a particular email as potential [[Phishing]], for example, or why a specific user behavior was deemed as anomalous.
 >
 > **[5:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-techniques-for-cybersecurity-framework-integration?u=76281980&t=325)** This level of insight can drastically improve your team's ability to respond to threats quickly and accurately.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (10), data (2), ai (2), [[Deep Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Deep Learning]] (1), [[Neural Networks]] (1), [[Network Traffic Analysis]] (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** shap (17), url (2)
 > **Analogies:** for example (2), for instance (1), such as (1), imagine (1)
 > **Code Identifiers:** xai (3)
@@ -1239,8 +1226,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can XAI enhance Operations Security?
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980)
+#### [How can XAI enhance Operations Security?](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,13 +1244,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=74)** Now, when it comes to change management, XAI can provide clear explanations of how these changes might impact security.
 >
-> **[1:23](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=83)** This allows for a more informed decision-making and risk assessment.
+> **[1:23](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=83)** This allows for a more informed [[Decision-Making]] and risk assessment.
 >
 > **[1:28](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=88)** Now, when it comes to assessing your capacity management, XAI can offer insights as to why certain capacity decisions are made, helping teams better understand and plan for future needs.
 >
 > **[1:43](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=103)** Now, when it comes to separating environments or separating development, testing, and operational environment, XAI can explain the potential risk of mixing development, testing, and operational environments, making it easier to maintain a proper separation.
 >
-> **[2:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=122)** Now, when it comes to protection from malware, XAI can provide malware detection systems, which can explain why they flagged certain files or behaviors as malicious.
+> **[2:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=122)** Now, when it comes to protection from malware, XAI can provide [[Malware Detection]] systems, which can explain why they flagged certain files or behaviors as malicious.
 >
 > **[2:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=138)** This allows for a faster and more accurate response.
 >
@@ -1286,7 +1272,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=241)** First, you want to be able to assess your current AI systems.
 >
-> **[4:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=245)** You want to start by identifying where you already use AI for your security operations.
+> **[4:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=245)** You want to start by identifying where you already use AI for your [[Security Operations]].
 >
 > **[4:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/how-can-xai-enhance-operations-security?u=76281980&t=251)** These are prime candidates for XAI enhancements.
 >
@@ -1308,15 +1294,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), management (8), ai (4), teams (2), data (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Malware Detection]] (1), [[Security Operations]] (1)
 > **Env Vars:** xai (23), iso (3)
 > **Versions:** 8.12 (3)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [presenter] (1)
 
-#### Case study: Enhanced anomaly and threat detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980)
+#### [Case study: Enhanced anomaly and threat detection](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1313,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=14)** They face a significant challenge in detecting and preventing insider threats.
 >
-> **[0:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=20)** Despite them having a sophisticated cybersecurity infrastructure, the company experienced several incidents of data breaches and intellectual property theft by insiders over the last two years.
+> **[0:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=20)** Despite them having a sophisticated [[Cybersecurity]] infrastructure, the company experienced several incidents of data breaches and intellectual property theft by insiders over the last two years.
 >
 > **[0:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=35)** Now, these incidents, as you would've expect, resulted in financial losses and also it damaged the company's reputation.
 >
@@ -1348,15 +1333,15 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=98)** Now, the project involved the following steps.
 >
-> **[1:41](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=101)** So the first one was data collection.
+> **[1:41](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=101)** So the first one was [[Data Collection]].
 >
 > **[1:43](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=103)** They were able to gather diverse data sources, including user activity logs, network traffic data, and assess patterns.
 >
-> **[1:53](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=113)** Number two, they were able to look at the feature engineering so that they developed relevant features that could indicate potential insider threats.
+> **[1:53](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=113)** Number two, they were able to look at the [[Feature Engineering]] so that they developed relevant features that could indicate potential insider threats.
 >
 > **[2:03](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=123)** The third one was model development.
 >
-> **[2:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=125)** So they created an assemble of machine learning models in including random forests, gradient boosting, and neural networks.
+> **[2:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=125)** So they created an assemble of machine learning models in including random forests, gradient boosting, and [[Neural Networks]].
 >
 > **[2:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=135)** Now is where the fun part is.
 >
@@ -1416,9 +1401,9 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=317)** So how are these challenges addressed?
 >
-> **[5:19](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=319)** Well, the first one is data privacy.
+> **[5:19](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=319)** Well, the first one is [[Data Privacy]].
 >
-> **[5:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=321)** They implemented strict anonymization and encryption protocols to address employee privacy concerns.
+> **[5:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=321)** They implemented strict anonymization and encryption protocols to address employee [[Privacy]] concerns.
 >
 > **[5:29](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-study-enhanced-anomaly-and-threat-detection?u=76281980&t=329)** The second one was model complexity.
 >
@@ -1436,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Security]] (5), [[Privacy]] (3), [[Cybersecurity]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (2), [[Data Collection]] (1), [[Neural Networks]] (1), [[Data Privacy]] (1)
 > **Env Vars:** shap (9)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
@@ -1446,8 +1431,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the role of AI in threat identification?
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980)
+#### [What is the role of AI in threat identification?](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,13 +1439,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=6)** Now, imagine a digital guardian constantly scanning for threats, learning from every encounter, and responding faster than any human could.
 >
-> **[0:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=18)** XAI excels at real-time data processing and analysis.
+> **[0:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=18)** XAI excels at [[Real-Time]] [[Data Processing]] and analysis.
 >
 > **[0:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=24)** Now, imagine having a tireless, super smart assistant constantly watching over your digital assets.
 >
-> **[0:33](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=33)** That's essentially what XAI brings to cybersecurity.
+> **[0:33](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=33)** That's essentially what XAI brings to [[Cybersecurity]].
 >
-> **[0:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=38)** XAI algorithms can scan vast amounts of data in seconds, monitoring network traffic, user activities, and system logs to spot potential threats almost instantly.
+> **[0:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=38)** XAI [[Algorithms]] can scan vast amounts of data in seconds, monitoring network traffic, user activities, and system logs to spot potential threats almost instantly.
 >
 > **[0:54](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=54)** This gives us a huge advantage in cybersecurity.
 >
@@ -1481,7 +1465,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=107)** Rather than just raising an alarm, this rapid response is like having a security team on standby 24/7, significantly reducing potential damage by addressing threats quickly.
 >
-> **[2:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=122)** The next one is predictive analytics.
+> **[2:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=122)** The next one is [[Predictive Analytics]].
 >
 > **[2:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=125)** XAI isn't just reactive, it's proactive.
 >
@@ -1515,7 +1499,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=229)** This is because by analyzing users and entity behavior, XAI can detect anomalies, indicating insider threats or compromised accounts.
 >
-> **[4:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=242)** It's like having a keen observer who notices when someone starts acting out of character, signaling a security risk.
+> **[4:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=242)** It's like having a keen observer who notices when someone starts acting out of character, signaling a [[Security Risk]].
 >
 > **[4:11](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980&t=251)** And the final point is real-time threat intelligence.
 >
@@ -1531,26 +1515,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (5), [[Cybersecurity]] (4), next (4), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Real-Time]] (2), [[Predictive Analytics]] (2), [[Data Processing]] (1), [[Algorithms]] (1)
 > **Env Vars:** xai (18)
 > **Analogies:** it's like (3), imagine (2), think of it as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Applying XAI for transparent threat analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980)
+#### [Applying XAI for transparent threat analysis](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=0)** - [Instructor] Imagine a world where cyber threats are neutralized before causing any damage.
 >
-> **[0:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=7)** Thanks to XAI-powered cybersecurity tools, this is becoming a reality today, especially in the era of digital twins.
+> **[0:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=7)** Thanks to XAI-powered [[Cybersecurity Tools]], this is becoming a reality today, especially in the era of digital twins.
 >
 > **[0:16](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=16)** So I guess you might be wondering, "What are digital twins?"
 >
-> **[0:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=20)** Well, a digital twin is a virtual replica of a physical system, providing a detailed real-time model used across industries to improve efficiency and preempt problems.
+> **[0:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=20)** Well, a digital twin is a virtual replica of a physical system, providing a detailed [[Real-Time]] model used across industries to improve efficiency and preempt problems.
 >
-> **[0:34](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=34)** In cybersecurity, XAI enhances three aspects.
+> **[0:34](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=34)** In [[Cybersecurity]], XAI enhances three aspects.
 >
 > **[0:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=38)** The first one is automation.
 >
@@ -1566,7 +1549,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=75)** This is because trustworthy XAI provides transparent, reliable decisions, explaining in actions and offering audit trails.
 >
-> **[1:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=85)** And these are crucial for human oversight and regulatory compliance.
+> **[1:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=85)** And these are crucial for human oversight and [[Regulatory Compliance]].
 >
 > **[1:31](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=91)** In a manufacturing plant, using digital twins, XAI-powered cybersecurity systems constantly monitor data flows between physical machinery and their digital counterparts.
 >
@@ -1584,7 +1567,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=159)** So how do you apply XAI to unsupervised anomaly detection, especially when you're looking at those models in cybersecurity?
 >
-> **[2:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=168)** Now that we've covered the basics of XAI in a supervised learning context, let's explore the fascinating world of unsupervised anomaly detection.
+> **[2:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=168)** Now that we've covered the basics of XAI in a [[Supervised Learning]] context, let's explore the fascinating world of unsupervised anomaly detection.
 >
 > **[2:58](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=178)** In cybersecurity, we often face scenarios where we don't have labeled data for all types of attacks.
 >
@@ -1596,7 +1579,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=204)** Let's examine how we can apply XAI techniques to understand its decisions better.
 >
-> **[3:31](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=211)** So let's consider this Python implementation, which you will find in your Exercise Files.
+> **[3:31](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=211)** So let's consider this [[Python (Programming Language)|Python]] implementation, which you will find in your Exercise Files.
 >
 > **[3:37](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=217)** This codes snippets demonstrates how we can use SHAP to explain the isolation model.
 >
@@ -1608,7 +1591,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=239)** Instead, they indicate how much each feature contributes the anomalousness of an instance.
 >
-> **[4:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=245)** Now in this Python implementation, we start with a zoom data is in our network traffic features.
+> **[4:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=245)** Now in this Python implementation, we start with a [[Zoom]] data is in our network traffic features.
 >
 > **[4:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/applying-xai-for-transparent-threat-analysis?u=76281980&t=252)** Then it moves on to create a SHAP explainer, specifically looking at a TreeExplainer.
 >
@@ -1646,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), feature (6), data (5), [[Security]] (4), traffic (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Supervised Learning]] (2), [[Python (Programming Language)|Python]] (2), [[Cybersecurity Tools]] (1), [[Real-Time]] (1)
 > **Env Vars:** xai (14), shap (9), lime (3)
 > **CLI Commands:** python (2), find (1)
 > **Exercise Files:** exercise files (2)
@@ -1654,16 +1637,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hands-on: Simulating AI threats with MITRE Caldera
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980)
+#### [Hands-on: Simulating AI threats with MITRE Caldera](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=0)** - [Instructor] Imagine you are a cybersecurity analyst and you've just received an alert about suspicious activity on your network.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=0)** - [Instructor] Imagine you are a [[Cybersecurity]] analyst and you've just received an alert about suspicious activity on your network.
 >
 > **[0:09](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=9)** How do you determine if it's a real threat or a false alarm?
 >
-> **[0:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=14)** This is where AI-powered threat simulation comes in.
+> **[0:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=14)** This is where AI-powered threat [[Simulation]] comes in.
 >
 > **[0:17](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=17)** And today, we're going to dive into one of the most powerful tools in this field, MITRE Caldera.
 >
@@ -1675,7 +1657,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=52)** First, we need to install Caldera and it's compatible with most operating systems.
 >
-> **[0:57](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=57)** But for this demonstration, we will use a Linux environment.
+> **[0:57](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=57)** But for this demonstration, we will use a [[Linux]] environment.
 >
 > **[1:02](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=62)** Utilizing the information on your exercise files, you should use the code in which is displayed on the screen.
 >
@@ -1711,7 +1693,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=133)** Now we move on to the next stage, which focuses on how we analyze results.
 >
-> **[2:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=138)** As the simulation runs, Caldera will provide real-time feedback on the success or failure of each attack technique.
+> **[2:18](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=138)** As the simulation runs, Caldera will provide [[Real-Time]] feedback on the success or failure of each attack technique.
 >
 > **[2:28](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/hands-on-simulating-ai-threats-with-mitre-caldera?u=76281980&t=148)** You want to be able to review the Steps tab to see which techniques were attempted, and then check the Adversary tab to understand the overall attack strategy.
 >
@@ -1745,7 +1727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Simulation]] (9), [[Cybersecurity]] (5), web (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (9), [[Cybersecurity]] (5), [[Linux]] (1), [[Real-Time]] (1)
 > **Prerequisites:** install (1), setup (1), configure (1), set up (1)
 > **Env Vars:** mitre (3)
 > **Analogies:** imagine (1), it's like (1), for example (1)
@@ -1754,12 +1736,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting XAI outputs for threat identification
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/interpreting-xai-outputs-for-threat-identification?u=76281980)
+#### [Interpreting XAI outputs for threat identification](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/interpreting-xai-outputs-for-threat-identification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/interpreting-xai-outputs-for-threat-identification?u=76281980&t=0)** - [Instructor] Imagine you are a cybersecurity analyst staring at a complex output from an AI model.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/interpreting-xai-outputs-for-threat-identification?u=76281980&t=0)** - [Instructor] Imagine you are a [[Cybersecurity]] analyst staring at a complex output from an AI model.
 >
 > **[0:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/interpreting-xai-outputs-for-threat-identification?u=76281980&t=7)** The model has flagged a potential threat, but you need to understand why.
 >
@@ -1869,7 +1850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), traffic (2), [[Cybersecurity]] (1), ai (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** lime (6), shap (6), xai (3)
 > **Versions:** 0.15 (3), 0.3 (2), 0.05 (2), 0.65 (2), 0.35 (1)
 > **Analogies:** for example (2), imagine (1)
@@ -1882,8 +1863,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of decision-making in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980)
+#### [The importance of decision-making in cybersecurity](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1891,11 +1871,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=6)** The ball is coming at you fast and you have a split second to decide whether you dive left, right, or stay put.
 >
-> **[0:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=15)** That is exactly what it is like in the world of cybersecurity.
+> **[0:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=15)** That is exactly what it is like in the world of [[Cybersecurity]].
 >
 > **[0:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=20)** Threats are constantly evolving and you need to make a quick informed decision to keep your organization safe.
 >
-> **[0:29](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=29)** So let's break down why decision-making is so crucial in our field.
+> **[0:29](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=29)** So let's break down why [[Decision-Making]] is so crucial in our field.
 >
 > **[0:34](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=34)** Well, number one is that time is of the essence.
 >
@@ -1933,7 +1913,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=117)** Well, the common decisions cybersecurity professional face are a plethora, but we're only going to focus on four.
 >
-> **[2:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=125)** The first one is incident response.
+> **[2:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=125)** The first one is [[Incident Response]].
 >
 > **[2:08](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=128)** When you detect a potential breach, do you shut down the affected systems immediately or do you monitor the attacker to gather more information?
 >
@@ -1947,7 +1927,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=159)** Number four, investment choices.
 >
-> **[2:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=162)** Should you spend your budget on new intrusion detection software or on training your team?
+> **[2:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=162)** Should you spend your budget on new [[Intrusion Detection]] software or on training your team?
 >
 > **[2:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=168)** Each of these decisions comes with its own sets of pros and cons.
 >
@@ -1981,7 +1961,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=245)** And number four, I can't stress this enough, you have to practice, practice, practice.
 >
-> **[4:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=252)** Run simulation and tabletop exercises.
+> **[4:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=252)** Run [[Simulation]] and tabletop exercises.
 >
 > **[4:16](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980&t=256)** The more you practice decision-making in low stakes environment, the better you'll perform when it really counts.
 >
@@ -2001,19 +1981,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Decision-Making]] (3), data (2), [[Incident Response]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Decision-Making]] (3), [[Incident Response]] (1), [[Intrusion Detection]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [presenter] (1)
 
-#### XAI for strategic Cybersecurity decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980)
+#### [XAI for strategic Cybersecurity decisions](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=0)** - [Instructor] One of the biggest challenges for any organization is deciding how much to invest in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=0)** - [Instructor] One of the biggest challenges for any organization is deciding how much to invest in [[Cybersecurity]].
 >
 > **[0:08](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=8)** It is a delicate balance between investing too little and you're vulnerable to attacks, or investing too much and you're wasting resources that could be used elsewhere.
 >
@@ -2035,7 +2014,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=91)** Now, let's move on to choosing the right tools.
 >
-> **[1:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=95)** The cybersecurity market is flooded with products and services, each claiming to be a silver bullet for your security needs.
+> **[1:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=95)** The cybersecurity market is flooded with [[Microsoft Products|products]] and services, each claiming to be a silver bullet for your security needs.
 >
 > **[1:45](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-strategic-cybersecurity-decisions?u=76281980&t=105)** But how do you cut through the noise and select the tools that will truly benefit your organization?
 >
@@ -2079,7 +2058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (5), data (2), ai (2), traffic (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Microsoft Products|Products]] (1)
 > **Env Vars:** xai (9), siem (2)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (3)
@@ -2087,8 +2066,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### XAI for operational decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980)
+#### [XAI for operational decisions](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2146,13 +2124,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=192)** Number five is training and expertise.
 >
-> **[3:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=195)** Security analysts need to be trained to interpret SHAP values correctly and to use them effectively in their decision-making process.
+> **[3:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=195)** Security analysts need to be trained to interpret SHAP values correctly and to use them effectively in their [[Decision-Making]] process.
 >
-> **[3:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=205)** This requires a combination of machine learning knowledge and cybersecurity expertise.
+> **[3:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=205)** This requires a combination of machine learning knowledge and [[Cybersecurity]] expertise.
 >
 > **[3:31](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=211)** Number six is false positive reduction.
 >
-> **[3:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=215)** While SHAP can help in differentiating between true and false positives, fine tuning the system to significantly reduce false positives while missing critical alerts remains challenging.
+> **[3:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=215)** While SHAP can help in differentiating between true and false positives, [[Fine Tuning]] the system to significantly reduce false positives while missing critical alerts remains challenging.
 >
 > **[3:50](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=230)** Number seven has to deal with handling diverse alert types.
 >
@@ -2166,11 +2144,11 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=270)** This requires ongoing efforts to retrain models and to adjust SHAP interpretations.
 >
-> **[4:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=276)** Number nine has to do with scalability.
+> **[4:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=276)** Number nine has to do with [[Scalability]].
 >
-> **[4:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=279)** Implementing SHAP in large-scale SOC environments that process millions of alerts daily can be challenging, requiring robust infrastructure and efficient algorithms.
+> **[4:39](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=279)** Implementing SHAP in large-scale SOC environments that process millions of alerts daily can be challenging, requiring robust infrastructure and efficient [[Algorithms]].
 >
-> **[4:54](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=294)** Number 10, privacy and concerns.
+> **[4:54](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=294)** Number 10, [[Privacy]] and concerns.
 >
 > **[4:59](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-for-operational-decisions?u=76281980&t=299)** While SHAP explanations might inadvertently reveal sensitive information about the underlying data or system vulnerabilities, ensuring the use of SHAP doesn't compromise with a security posture is critical.
 >
@@ -2180,19 +2158,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (3), feature (2), [[Cybersecurity]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Decision-Making]] (1), [[Fine Tuning]] (1), [[Scalability]] (1), [[Algorithms]] (1)
 > **Env Vars:** shap (22), soc (3), xai (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case studies: Success stories and lessons learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980)
+#### [Case studies: Success stories and lessons learned](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=0)** - [Instructor] In critical industries like banking and finance, explainable AI or XAI is essential for building trust in machine learning models.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=0)** - [Instructor] In critical industries like [[Banking]] and finance, explainable AI or XAI is essential for [[Building Trust]] in machine learning models.
 >
 > **[0:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=12)** Now, SHAP is a widely used XAI tool that assigns importance to input features, providing transparency into model predictions.
 >
@@ -2226,7 +2203,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=141)** The bank used SHAP insights to retrain the model with the data to reflect seasonal transaction patterns.
 >
-> **[2:29](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=149)** By fine tuning the model, the bank reduced the false positives and improved customer satisfaction, demonstrating the need for continual model refinement alongside SHAP's transparency.
+> **[2:29](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=149)** By [[Fine Tuning]] the model, the bank reduced the false positives and improved customer satisfaction, demonstrating the need for continual model refinement alongside SHAP's transparency.
 >
 > **[2:44](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=164)** Now, when we look at case study two, which talks about loan approval decisions.
 >
@@ -2246,7 +2223,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=245)** Now, to address this, the institution has to retrain the model with more balanced data.
 >
-> **[4:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=252)** This highlights SHAP's ability to expose biased patterns which allow the organization to implement stronger data governance resulting in a fairer approval process.
+> **[4:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=252)** This highlights SHAP's ability to expose biased patterns which allow the organization to implement stronger [[Data Governance]] resulting in a fairer approval process.
 >
 > **[4:27](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/case-studies-success-stories-and-lessons-learned?u=76281980&t=267)** Now, what can we learn from this?
 >
@@ -2260,7 +2237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Banking]] (2), ai (2), [[Building Trust]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Building Trust]] (1), [[Fine Tuning]] (1), [[Data Governance]] (1)
 > **Env Vars:** shap (18), xai (2)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
@@ -2271,12 +2248,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of ethics in XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980)
+#### [The importance of ethics in XAI](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=0)** - [Instructor] XAI in cybersecurity presents unique ethical challenges that must be addressed to ensure fair, transparent, and trustworthy systems.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=0)** - [Instructor] XAI in [[Cybersecurity]] presents unique ethical challenges that must be addressed to ensure fair, transparent, and trustworthy systems.
 >
 > **[0:12](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=12)** Let's explore the key considerations and strategies for ethical XAI implementation.
 >
@@ -2286,13 +2262,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=33)** We have to conduct regular audits for bias and implement bias mitigation techniques, like reweighting or resampling.
 >
-> **[0:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=42)** Now, when it comes to ensuring fairness in explanations, fairness in XAI explanations is crucial for building trust and ensuring equal treatment.
+> **[0:42](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=42)** Now, when it comes to ensuring fairness in explanations, fairness in XAI explanations is crucial for [[Building Trust]] and ensuring equal treatment.
 >
 > **[0:55](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=55)** To achieve this, we have to develop explanations that are understandable to all users.
 >
-> **[1:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=61)** We have to use XAI techniques to clarify decision-making processes, and we have to implement ethical frameworks to guide AI use in cybersecurity.
+> **[1:01](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=61)** We have to use XAI techniques to clarify [[Decision-Making]] processes, and we have to implement ethical frameworks to guide AI use in cybersecurity.
 >
-> **[1:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=73)** Now, when it comes to building user trust in XAI, XAI provides or plays a vital role in maintaining user trust by providing clear explanations for AI decisions, being transparent about AI use in cybersecurity systems, and demonstrating accountability for AI-driven actions.
+> **[1:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=73)** Now, when it comes to building user trust in XAI, XAI provides or plays a vital role in maintaining user trust by providing clear explanations for AI decisions, being transparent about AI use in cybersecurity systems, and demonstrating [[Accountability]] for AI-driven actions.
 >
 > **[1:38](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=98)** Now, how does XAI improve decision-making?
 >
@@ -2308,7 +2284,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=140)** You have to incorporate input from diverse groups.
 >
-> **[2:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=144)** You have to be able to establish ethics committees to oversee AI deployment, and you have to maintain a human oversight for those critical decisions.
+> **[2:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=144)** You have to be able to establish [[Ethics]] committees to oversee AI deployment, and you have to maintain a human oversight for those critical decisions.
 >
 > **[2:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980&t=156)** You also have to ensure transparency through open source models and detailed documentation.
 >
@@ -2366,18 +2342,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Cybersecurity]] (7), [[Accountability]] (5), [[Security]] (4), [[Decision-Making]] (4)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Accountability]] (5), [[Decision-Making]] (4), [[Building Trust]] (2), [[Ethics]] (2)
 > **Env Vars:** xai (16), gdpr (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy concerns with XAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980)
+#### [Privacy concerns with XAI](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=0)** - [Instructor] In the world of cybersecurity, XAI is like a double edged sword.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=0)** - [Instructor] In the world of [[Cybersecurity]], XAI is like a double edged sword.
 >
 > **[0:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=6)** It helps us to understand how AI makes decisions, but it also exposes sensitive information.
 >
@@ -2391,7 +2366,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=35)** This could include personal information of the individual in the dataset, confidential business data used for training and patterns that could be exploited by attackers.
 >
-> **[0:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=48)** To mitigate this risk, it's important to use a differential privacy technique to add noise to the data.
+> **[0:48](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=48)** To mitigate this risk, it's important to use a differential [[Privacy]] technique to add noise to the data.
 >
 > **[0:56](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=56)** This is done by implementing strict access controls on explanation, and you also want to be able to carefully design explanations interface to limit the information disclosure.
 >
@@ -2399,7 +2374,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=74)** What are the potential privacy risks of exposing models internals?
 >
-> **[1:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=80)** When XAI reveals how a model works internally, it might expose proprietary algorithms or trade secrets.
+> **[1:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=80)** When XAI reveals how a model works internally, it might expose proprietary [[Algorithms]] or trade secrets.
 >
 > **[1:29](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=89)** It can also make the model more vulnerable to adversarial attacks, and it can allow competitors to replicate or reverse engineer the models.
 >
@@ -2423,15 +2398,15 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=169)** XAI should only use the necessary data for explanation.
 >
-> **[2:55](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=175)** And the third part is purpose limitation, and this is when explanations should only align with the original data processing purpose.
+> **[2:55](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=175)** And the third part is purpose limitation, and this is when explanations should only align with the original [[Data Processing]] purpose.
 >
 > **[3:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=186)** Now, to ensure compliance, you have to develop XAI systems with privacy by design principles.
 >
-> **[3:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=194)** You also want to conduct regular privacy impact assessments and implement robust data governance frameworks.
+> **[3:14](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=194)** You also want to conduct regular privacy impact assessments and implement robust [[Data Governance]] frameworks.
 >
 > **[3:24](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=204)** This brings me to the fourth question.
 >
-> **[3:26](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=206)** What are the strategies that can balance a need for explainability with privacy protection?
+> **[3:26](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=206)** What are the strategies that can balance a need for explainability with [[Privacy Protection]]?
 >
 > **[3:34](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/privacy-concerns-with-xai?u=76281980&t=214)** Well, balancing explainability and privacy requires a careful consideration.
 >
@@ -2471,17 +2446,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (17), data (12), [[Cybersecurity]] (7), ai (4), [[Privacy Protection]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (17), [[Cybersecurity]] (7), [[Privacy Protection]] (2), [[Algorithms]] (1), [[Data Processing]] (1)
 > **Env Vars:** xai (16), gdpr (1), ccpa (1), pets (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transparency vs. security
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980)
+#### [Transparency vs. security](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=0)** - [Instructor] In cybersecurity, XAI helps us to trust and understand AI decisions by making them transparent.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=0)** - [Instructor] In [[Cybersecurity]], XAI helps us to trust and understand AI decisions by making them transparent.
 >
 > **[0:09](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=9)** However, this transparency can also reveal system vulnerabilities to potential attackers.
 >
@@ -2507,7 +2481,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=75)** If attackers understand how AI or how our AI systems make decisions, they can find ways to exploit these systems.
 >
-> **[1:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=85)** For instance, if an AI model's decision-making process is fully transparent, attackers might identify and target specific weaknesses.
+> **[1:25](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=85)** For instance, if an AI model's [[Decision-Making]] process is fully transparent, attackers might identify and target specific weaknesses.
 >
 > **[1:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=95)** To balance these competing needs, we have to use several strategies.
 >
@@ -2529,7 +2503,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=156)** This might involve masking certain details or using abstract representation.
 >
-> **[2:43](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=163)** Now the fourth one is continuous monitoring and updating, so this is when we regularly update AI models and their explanations to address new vulnerabilities and threats.
+> **[2:43](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=163)** Now the fourth one is [[Continuous Monitoring]] and updating, so this is when we regularly update AI models and their explanations to address new vulnerabilities and threats.
 >
 > **[2:56](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/transparency-vs-security?u=76281980&t=176)** This ensures that the system remains secure, even as attackers have evolved their methods.
 >
@@ -2539,7 +2513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Cybersecurity]] (4), [[Security]] (4), [[Decision-Making]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Decision-Making]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** xai (2)
@@ -2551,16 +2525,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=0)** - [Instructor] Now that you have completed the XAI and Interpretability in Cybersecurity course, let's explore how to deepen your understanding and apply XAI in your organization's security goal.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=0)** - [Instructor] Now that you have completed the XAI and Interpretability in [[Cybersecurity]] course, let's explore how to deepen your understanding and apply XAI in your organization's security goal.
 >
 > **[0:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=15)** Now, I would recommend using three ways of expanding your XAI knowledge.
 >
-> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=21)** So the first one is to explore related courses on LinkedIn Learning, such as the [[Artificial Intelligence for Cybersecurity]] by Sam Siegel, which covers AI applications in a security context.
+> **[0:21](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=21)** So the first one is to explore related courses on [[LinkedIn]] Learning, such as the [[[[Artificial Intelligence (AI)|Artificial Intelligence]] for Cybersecurity]] by Sam Siegel, which covers AI applications in a security context.
 >
 > **[0:35](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=35)** Number two, dive into academic resources.
 >
@@ -2580,7 +2553,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=97)** So outline your specific goals for implementing XAI in your security process.
 >
-> **[1:44](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=104)** An example would be improving your threat detection or incident response.
+> **[1:44](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=104)** An example would be improving your threat detection or [[Incident Response]].
 >
 > **[1:50](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=110)** Number three, choose appropriate techniques.
 >
@@ -2590,7 +2563,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=126)** Begin with a small scale implementation in a non-critical security application to learn and refine your approach.
 >
-> **[2:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=135)** Number five, develop XAI dashboards.
+> **[2:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=135)** Number five, develop XAI [[Dashboards]].
 >
 > **[2:19](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=139)** You want to think about your target audience, so you want to create user-friendly interfaces that present AI explanations to stakeholders, making complex AI decisions more accessible.
 >
@@ -2604,7 +2577,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=190)** And number eight, monitor and iterate.
 >
-> **[3:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=193)** So you want to be able to continuously assess the impact of XAI on your security operations.
+> **[3:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=193)** So you want to be able to continuously assess the impact of XAI on your [[Security Operations]].
 >
 > **[3:20](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980&t=200)** Monitoring feedback, gathering it, and refining your approach.
 >
@@ -2614,40 +2587,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), ai (7), [[Cybersecurity]] (5), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Incident Response]] (1), [[Dashboards]] (1)
 > **Env Vars:** xai (14), ipc (1), acm (1), facct (1), lime (1)
 > **Analogies:** such as (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### XAI course recap and key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980)
+#### [XAI course recap and key takeaways](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=0)** - [Stephanie] Welcome to the recap of the XAI and Interpretability in Cybersecurity course.
+> **[0:00](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=0)** - [Stephanie] Welcome to the recap of the XAI and Interpretability in [[Cybersecurity]] course.
 >
 > **[0:07](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=7)** Let's review the key concepts we have learned and summarize the crucial points about XAI in the context of cybersecurity.
 >
 > **[0:15](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=15)** So we began by exploring the significance of XAI in cybersecurity and its brief history.
 >
-> **[0:22](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=22)** XAI is crucial for building trust, improving decision-making, and ensuring accountability in AI-driven security systems.
+> **[0:22](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=22)** XAI is crucial for [[Building Trust]], improving [[Decision-Making]], and ensuring [[Accountability]] in AI-driven security systems.
 >
 > **[0:33](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=33)** We also covered the two main categories of XAI techniques, which are model-agnostic methods, including LIME and SHAP, and also model-specific techniques.
 >
 > **[0:46](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=46)** We also had hand-on sessions applying LIME and SHAP to cybersecurity scenarios, giving you practical experience with these tools.
 >
-> **[0:58](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=58)** We explored how XAI can be integrated into established cybersecurity frameworks, such as the NIST Cybersecurity Framework, the ISO 27001, and how we can enhance operation security with XAI.
+> **[0:58](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=58)** We explored how XAI can be integrated into established cybersecurity frameworks, such as the [[NIST]] Cybersecurity Framework, the ISO 27001, and how we can enhance operation security with XAI.
 >
 > **[1:16](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=76)** We delved into the role of AI and XAI in threat identification.
 >
-> **[1:23](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=83)** We looked at the AI's role in detecting threats, using XAI for transparent threat analysis, and also hands-on experience with MITRE Caldera for threat simulation.
+> **[1:23](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=83)** We looked at the AI's role in detecting threats, using XAI for transparent threat analysis, and also hands-on experience with MITRE Caldera for threat [[Simulation]].
 >
 > **[1:37](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=97)** We also got to interpret XAI outputs for better threat identification.
 >
 > **[1:44](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=104)** We examined how XAI supports decision-making in cybersecurity, looking at strategic decisions, operational decisions, and real-world case studies and scenarios.
 >
-> **[1:57](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=117)** We also explored and discussed the ethical implication of XAI in cybersecurity, looking at the importance of ethics in XAI, the privacy concerns, and how do we balance transparency with security.
+> **[1:57](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=117)** We also explored and discussed the ethical implication of XAI in cybersecurity, looking at the importance of [[Ethics]] in XAI, the [[Privacy]] concerns, and how do we balance transparency with security.
 >
 > **[2:13](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/xai-course-recap-and-key-takeaways?u=76281980&t=133)** So you might be thinking, "What were the key takeaways?"
 >
@@ -2685,7 +2657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (16), ai (5), [[Security]] (5), [[Decision-Making]] (4), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (16), [[Decision-Making]] (4), [[Privacy]] (3), [[Accountability]] (2), [[Building Trust]] (1)
 > **Env Vars:** xai (26), lime (2), shap (2), nist (1), iso (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to recursion algorithms in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980)
+#### [Introduction to recursion algorithms in JavaScript](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,19 +87,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=5)** Then you need to learn recursion.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=7)** Recursion is a fundamental concept in software development.
+> **[0:07](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=7)** Recursion is a fundamental concept in [[Software Development]].
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=11)** One of the hallmarks of good software engineers is their problem-solving ability.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=17)** Recursion is an essential tool we use to simplify complex problems.
 >
-> **[0:23](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=23)** We will explore how to think recursively, then progress to improving the performance of recursive algorithms.
+> **[0:23](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=23)** We will explore how to think recursively, then progress to improving the performance of recursive [[Algorithms]].
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=30)** I am Mustapha Rufai, a software engineer based in Nigeria.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=35)** I really enjoyed creating this course for you because it blends my love of problem solving and teaching.
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=42)** So join me in my LinkedIn Learning course on JavaScript: Recursion.
+> **[0:42](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=42)** So join me in my [[LinkedIn]] Learning course on [[JavaScript]]: Recursion.
 >
 > **[0:47](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980&t=47)** You will come away with working knowledge of concepts, techniques, and applications of recursion.
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [mustapha] (1)
 
-#### Get the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980)
+#### [Get the most out of this course](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=4)** The skills I mention next are good to have, but not required.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=9)** You can take this course and understand what is being discussed, without having studied these JavaScript concepts in the past.
+> **[0:09](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=9)** You can take this course and understand what is being discussed, without having studied these [[JavaScript]] concepts in the past.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=16)** To get the most out of this course, basic knowledge of JavaScript functions are helpful.
 >
@@ -130,11 +128,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=32)** The ability to differentiate, between local and global variables is useful when we talk about dropout functions.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=40)** Furthermore, understanding the knowledge of data collection in JavaScript, arrays and objects will also be valuable.
+> **[0:40](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=40)** Furthermore, understanding the knowledge of [[Data Collection]] in JavaScript, arrays and objects will also be valuable.
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=49)** We will employ data collections where we study accumulators and lookout how to pass data from one function instance to another.
 >
-> **[0:58](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=58)** The exercise files in this course are on GitHub.
+> **[0:58](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=58)** The exercise files in this course are on [[GitHub]].
 >
 > **[1:02](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=62)** You should have a GitHub account to access these files.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=84)** To demonstrate accessing these files, I will navigate to the repo.
 >
-> **[1:30](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=90)** I will clone it into my Tami now using Git clone, name of the repo, or I will copy the URL into my GitHub desktop.
+> **[1:30](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=90)** I will clone it into my Tami now using [[Git]] clone, name of the repo, or I will copy the URL into my GitHub desktop.
 >
 > **[1:41](https://www.linkedin.com/learning/javascript-recursion/get-the-most-out-of-this-course?u=76281980&t=101)** Then I will navigate to this folder in my file system.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[JavaScript]] (3), data (3), next (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[JavaScript]] (3), [[Data Collection]] (1), [[Git]] (1)
 > **Tools:** github (6)
 > **CLI Commands:** git (1), find (1)
 > **UI Navigation:** navigate to (2)
@@ -177,8 +175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loops and iteration in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980)
+#### [Loops and iteration in JavaScript](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980&t=58)** The loop we start, but never end.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980&t=61)** This is called an infinite loop situation, In JavaScript, we have the for and while loops.
+> **[1:01](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980&t=61)** This is called an infinite loop situation, In [[JavaScript]], we have the for and while loops.
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980&t=70)** The for loop has the start, stop and step requirement's built into its syntax.
 >
@@ -236,12 +233,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement exponentials and factorials with JavaScript loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-javascript-loops?u=76281980)
+#### [Implement exponentials and factorials with JavaScript loops](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-javascript-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-javascript-loops?u=76281980&t=54)** we return result.
 >
-> **[0:56](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-javascript-loops?u=76281980&t=56)** To test our code, let's link the JavaScript to the HTML file.
+> **[0:56](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-javascript-loops?u=76281980&t=56)** To test our code, let's link the [[JavaScript]] to the [[HTML]] file.
 >
 > **[1:02](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-javascript-loops?u=76281980&t=62)** I will then open this file in the browser.
 >
@@ -333,13 +329,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[HTML]] (3), [[JavaScript]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2)
 > **Env Vars:** html (3)
 > **File Paths:** power.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is recursion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/what-is-recursion?u=76281980)
+#### [What is recursion?](https://www.linkedin.com/learning/javascript-recursion/what-is-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-recursion/what-is-recursion?u=76281980&t=37)** Technically, recursion is a problem solving technique in which problems are solved by reducing them to smaller problems of the same form.
 >
-> **[0:48](https://www.linkedin.com/learning/javascript-recursion/what-is-recursion?u=76281980&t=48)** The function itself will do a section of the job and delegate the rest.
+> **[0:48](https://www.linkedin.com/learning/javascript-recursion/what-is-recursion?u=76281980&t=48)** The function itself will do a section of the job and delegate the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:53](https://www.linkedin.com/learning/javascript-recursion/what-is-recursion?u=76281980&t=53)** It may delegate the rest to itself or to another function entirely.
 >
@@ -383,13 +378,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [tutor] (1)
 
-#### What are base cases?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/what-are-base-cases?u=76281980)
+#### [What are base cases?](https://www.linkedin.com/learning/javascript-recursion/what-are-base-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,15 +465,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Code Identifiers:** functionc (3), functiona (1), functionb (1), functiond (1), musicplayer (1)
 > **Documentation:** stack overflow (4)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement exponentials and factorials with recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-recursion?u=76281980)
+#### [Implement exponentials and factorials with recursion](https://www.linkedin.com/learning/javascript-recursion/implement-exponentials-and-factorials-with-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,13 +579,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (12), next (2)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Challenge: Implement the join() function recursively
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/challenge-implement-the-join-function-recursively?u=76281980)
+#### [Challenge: Implement the join() function recursively](https://www.linkedin.com/learning/javascript-recursion/challenge-implement-the-join-function-recursively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +597,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-recursion/challenge-implement-the-join-function-recursively?u=76281980&t=29)** So we have one.
 >
-> **[0:31](https://www.linkedin.com/learning/javascript-recursion/challenge-implement-the-join-function-recursively?u=76281980&t=31)** Our task is to write a recursive JavaScript function called Fibonacci that takes parameter N, which is the position of the Nth number and returns the value at that index.
+> **[0:31](https://www.linkedin.com/learning/javascript-recursion/challenge-implement-the-join-function-recursively?u=76281980&t=31)** Our task is to write a recursive [[JavaScript]] function called Fibonacci that takes parameter N, which is the position of the Nth number and returns the value at that index.
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-recursion/challenge-implement-the-join-function-recursively?u=76281980&t=45)** So if given N, to be nine, it should return 21.
 >
@@ -626,8 +616,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Implement the join() function recursively
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/solution-implement-the-join-function-recursively?u=76281980)
+#### [Solution: Implement the join() function recursively](https://www.linkedin.com/learning/javascript-recursion/solution-implement-the-join-function-recursively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,8 +662,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is tail recursion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980)
+#### [What is tail recursion?](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +714,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980&t=157)** Now, Sabinus is the last person, so he takes his share, then returns the remaining slices to Dayo with the information I have taken two slices.
 >
-> **[2:49](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980&t=169)** Dayo will take her share, and return the rest to Ada saying I have taken three slices.
+> **[2:49](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980&t=169)** Dayo will take her share, and return the [[Representational State Transfer (REST)|rest]] to Ada saying I have taken three slices.
 >
 > **[2:57](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980&t=177)** Notice the accumulator, being used to track the total removed.
 >
@@ -764,15 +752,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Documentation:** stack overflow (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wrapper functions in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/wrapper-functions-in-javascript?u=76281980)
+#### [Wrapper functions in JavaScript](https://www.linkedin.com/learning/javascript-recursion/wrapper-functions-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,13 +861,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accumulators for tail recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/accumulators-for-tail-recursion?u=76281980)
+#### [Accumulators for tail recursion](https://www.linkedin.com/learning/javascript-recursion/accumulators-for-tail-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-recursion/accumulators-for-tail-recursion?u=76281980&t=43)** This value is then used to process the call instance.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-recursion/accumulators-for-tail-recursion?u=76281980&t=49)** We can also illustrate this idea by using a built-in JavaScript method, array.join.
+> **[0:49](https://www.linkedin.com/learning/javascript-recursion/accumulators-for-tail-recursion?u=76281980&t=49)** We can also illustrate this idea by using a built-in [[JavaScript]] method, array.join.
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-recursion/accumulators-for-tail-recursion?u=76281980&t=55)** Array.join will concatenate all the elements in an array using a separator.
 >
@@ -940,13 +925,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** padcontent (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Memoization to improve performance of recursive programs
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980)
+#### [Memoization to improve performance of recursive programs](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +948,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=30)** To get Z, we need to perform some computation.
 >
-> **[0:34](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=34)** The next time you run the same function under the same circumstances, memoization will ensure the function does not perform the competition, but make it fetch to previously stored data.
+> **[0:34](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=34)** The next time you run the same function under the same circumstances, memoization will ensure the function does not perform the competition, but make it [[Fetch]] to previously stored data.
 >
 > **[0:47](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=47)** Consider the Fibonacci Sequence we studied earlier.
 >
@@ -996,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=117)** To turn it into a memois version, we needed a way to start it and retrieve at order of one.
 >
-> **[2:04](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=124)** Java script objet fulfills this requirement.
+> **[2:04](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=124)** [[Java]] script objet fulfills this requirement.
 >
 > **[2:08](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=128)** So on line two, let's create a cache variable that will be an empty object.
 >
@@ -1012,7 +996,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=173)** You may wonder how our memois version performs in relation to the previous function.
 >
-> **[2:59](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=179)** We can check how long it takes these functions to return an answer using the JavaScript date objects.
+> **[2:59](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=179)** We can check how long it takes these functions to return an answer using the [[JavaScript]] date objects.
 >
 > **[3:06](https://www.linkedin.com/learning/javascript-recursion/memoization-to-improve-performance-of-recursive-programs?u=76281980&t=186)** We will initialize a date objet before calling a Fibonacci functions, then we will get a change in milliseconds.
 >
@@ -1022,14 +1006,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Fetch]] (1), data (1), [[Java]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Java]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** vs code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### JavaScript quickSort() with recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/javascript-quicksort-with-recursion?u=76281980)
+#### [JavaScript quickSort() with recursion](https://www.linkedin.com/learning/javascript-recursion/javascript-quicksort-with-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,7 +1020,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-recursion/javascript-quicksort-with-recursion?u=76281980&t=3)** It is commonly used in sorting or arranging items in a given order.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-recursion/javascript-quicksort-with-recursion?u=76281980&t=9)** Quick Sort is an example of these sorting algorithms.
+> **[0:09](https://www.linkedin.com/learning/javascript-recursion/javascript-quicksort-with-recursion?u=76281980&t=9)** Quick Sort is an example of these sorting [[Algorithms]].
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-recursion/javascript-quicksort-with-recursion?u=76281980&t=14)** And it is also one of the fastest sorting algorithms.
 >
@@ -1139,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1150,8 +1133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to approach recursive problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980)
+#### [How to approach recursive problems](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980&t=10)** In this section, I describe my own approach to solving recursive problems.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980&t=16)** The JavaScript interpreter will run through a function from top to bottom, two times.
+> **[0:16](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980&t=16)** The [[JavaScript]] interpreter will run through a function from top to bottom, two times.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980&t=23)** On the first run, called hoisting, it will allocate memory to the variables before executing the code.
 >
@@ -1219,7 +1201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** find (4)
 > **Code Identifiers:** sumrange (3)
 > **Cross-References:** earlier in (1)
@@ -1227,8 +1209,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Identify a palindrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/challenge-identify-a-palindrome?u=76281980)
+#### [Challenge: Identify a palindrome](https://www.linkedin.com/learning/javascript-recursion/challenge-identify-a-palindrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,7 +1245,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-recursion/challenge-identify-a-palindrome?u=76281980&t=93)** We are going to check and get the size of the phrase.
 >
-> **[1:39](https://www.linkedin.com/learning/javascript-recursion/challenge-identify-a-palindrome?u=76281980&t=99)** JavaScript allows us to treat strings like RAs, and we will utilize this feature.
+> **[1:39](https://www.linkedin.com/learning/javascript-recursion/challenge-identify-a-palindrome?u=76281980&t=99)** [[JavaScript]] allows us to treat strings like RAs, and we will utilize this feature.
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-recursion/challenge-identify-a-palindrome?u=76281980&t=107)** We will look through our phrase, we will look through our phrase and at each iteration, we will check if any of the indexes do not match.
 >
@@ -1282,14 +1263,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat eccentric music) (1)
 
-#### Solution: Identify a palindrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/solution-identify-a-palindrome?u=76281980)
+#### [Solution: Identify a palindrome](https://www.linkedin.com/learning/javascript-recursion/solution-identify-a-palindrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1345,15 +1325,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** vs code (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Count the number of leaves in a binary tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/challenge-count-the-number-of-leaves-in-a-binary-tree?u=76281980)
+#### [Challenge: Count the number of leaves in a binary tree](https://www.linkedin.com/learning/javascript-recursion/challenge-count-the-number-of-leaves-in-a-binary-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,15 +1383,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), data (2), [[Search]] (2)
 > **CLI Commands:** node (3)
 > **Env Vars:** dfs (2), bfs (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - a (1)
 > **Non-Speech:** (intro music playing) (1)
 
-#### Solution: Count the number of leaves in a binary tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/solution-count-the-number-of-leaves-in-a-binary-tree?u=76281980)
+#### [Solution: Count the number of leaves in a binary tree](https://www.linkedin.com/learning/javascript-recursion/solution-count-the-number-of-leaves-in-a-binary-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,7 +1447,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), data (1)
 > **CLI Commands:** node (11), find (1)
 > **Code Identifiers:** preorder (2), count_nodes (1)
 > **Non-Speech:** (upbeat music) (1), (keyboard clicking) (1)
@@ -1479,8 +1454,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - since (1)
 
-#### Challenge: Find middle of LinkedList
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/challenge-find-middle-of-linkedlist?u=76281980)
+#### [Challenge: Find middle of LinkedList](https://www.linkedin.com/learning/javascript-recursion/challenge-find-middle-of-linkedlist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,15 +1486,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), node (1)
 > **CLI Commands:** node (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Find middle of LinkedList
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/solution-find-middle-of-linkedlist?u=76281980)
+#### [Solution: Find middle of LinkedList](https://www.linkedin.com/learning/javascript-recursion/solution-find-middle-of-linkedlist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1556,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (5)
 > **Env Vars:** null (4)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** findmidpoint (1), midpointtrack (1)
@@ -1597,8 +1568,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dig deeper into JavaScript recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980)
+#### [Dig deeper into JavaScript recursion](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,9 +1578,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980&t=11)** You may notice that our solutions became faster as we optimized and kept track of our computations.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980&t=20)** To expand on this program's solving approach, I recommend you to take courses on dynamic programming, here on LinkedIn Learning.
+> **[0:20](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980&t=20)** To expand on this program's solving approach, I recommend you to take courses on dynamic programming, here on [[LinkedIn]] Learning.
 >
-> **[0:28](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980&t=28)** When I started my journey into data structures and algorithms in JavaScript, I struggled to find good learning resources.
+> **[0:28](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980&t=28)** When I started my journey into [[Data Structures]] and [[Algorithms]] in [[JavaScript]], I struggled to find good learning resources.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980&t=35)** I was lucky to come across JavaScript Info.
 >
@@ -1644,7 +1614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (7), [[Programming]] (2), [[LinkedIn]] (2), web (2), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[LinkedIn]] (2), [[Data Structures]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** mtn (1), mit (1)
 > **URLs:** [mrufai.com](https://mrufai.com) (1)

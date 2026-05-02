@@ -84,39 +84,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Jira and Confluence together
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980)
+#### [Using Jira and Confluence together](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=0)** - The way to get the most out of your Atlassian applications is by connecting them.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=0)** - The way to get the most out of your [[Atlassian]] applications is by connecting them.
 >
-> **[0:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=5)** In this course, you'll learn how to use Jira and Confluence together to collaborate effectively with multiple teams and streamline your work processes.
+> **[0:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=5)** In this course, you'll learn how to use [[Jira]] and [[Confluence]] together to collaborate effectively with multiple teams and streamline your work processes.
 >
 > **[0:14](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=14)** I'll show you how to unlock invaluable synergies using the integration points in both applications.
 >
 > **[0:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=20)** Hi, I'm Rachel Wright, certified Jira administrator and author of the Jira Strategy Admin Workbook.
 >
-> **[0:27](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=27)** Join my LinkedIn learning course to learn how to connect your applications to collaborate, save time and effort, and avoid duplication.
+> **[0:27](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-jira-and-confluence-together?u=76281980&t=27)** Join my [[LinkedIn]] learning course to learn how to connect your applications to collaborate, save time and effort, and avoid duplication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Atlassian]] (1), [[Confluence]] (1), teams (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Atlassian]] (1), [[Confluence]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (3), confluence (1)
 > **Speakers:** - the (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=0)** - You may be a Jira or Confluence application administrator, project or space administrator, or user.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=0)** - You may be a [[Jira]] or [[Confluence]] application administrator, project or space administrator, or user.
 >
-> **[0:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=8)** Or you might be a project manager, scrum master, or product manager.
+> **[0:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=8)** Or you might be a project manager, [[Scrum]] master, or product manager.
 >
-> **[0:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=13)** This course is for anyone interested in improving team collaboration.
+> **[0:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=13)** This course is for anyone interested in improving [[Team Collaboration]].
 >
-> **[0:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=18)** Atlassian offers many different products.
+> **[0:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=18)** [[Atlassian]] offers many different [[Microsoft Products|products]].
 >
 > **[0:21](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=21)** The content in this course applies to Jira, Jira Service Management, and Confluence.
 >
@@ -136,23 +134,22 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=65)** This course assumes you already know how to create, edit, and transition issues, work in Jira projects, and search for and find issues.
 >
-> **[1:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=76)** You might also be interested in my [[Learning Jira Software]] course, which covers development-specific features, and my [[Planning and Releasing Software with Jira]] course to learn how Jira, Confluence and Bitbucket work together to support the entire development process.
+> **[1:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=76)** You might also be interested in my [[Learning Jira Software]] course, which covers development-specific features, and my [[Planning and Releasing Software with Jira]] course to learn how Jira, Confluence and [[Bitbucket]] work together to support the entire development process.
 >
 > **[1:33](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/who-is-this-course-for?u=76281980&t=93)** This course helps Jira and Confluence users and administrators save time and avoid duplication that's common when using multiple separate applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (4), cloud (3), application (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (4), [[Microsoft Products|Products]] (2), [[Scrum]] (1), [[Team Collaboration]] (1)
 > **Tools:** jira (10), confluence (4), bitbucket (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=0)** - Ideally, you'll have some end-user experience creating, editing, and transitioning Jira issues and creating pages in Confluence.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=0)** - Ideally, you'll have some end-[[User Experience (UX)|user experience]] creating, editing, and transitioning [[Jira]] issues and creating pages in [[Confluence]].
 >
 > **[0:09](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=9)** It's also helpful to have Jira project admin, Confluence space admin, or higher permissions.
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=44)** New features are added, moved, or changed all the time.
 >
-> **[0:48](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=48)** Existing features or even entire products are renamed, and links that worked yesterday are broken today.
+> **[0:48](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=48)** Existing features or even entire [[Microsoft Products|products]] are renamed, and links that worked yesterday are broken today.
 >
 > **[0:56](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=56)** That's why I've set up a special place on my website where you can get the latest course information.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=77)** For some of you, I speak too slowly, and for others I speak too fast.
 >
-> **[1:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=82)** Luckily, the LinkedIn video player has some useful features to help you move at your own pace.
+> **[1:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=82)** Luckily, the [[LinkedIn]] video player has some useful features to help you move at your own pace.
 >
 > **[1:27](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/what-do-you-need-for-this-course?u=76281980&t=87)** On the bottom left, use the skip back icon to rewind 10 seconds and hear information again.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[Confluence]] (4), next (2), application (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Confluence]] (4), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (4), confluence (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -206,14 +203,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - ideally (1)
 
-#### Important terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980)
+#### [Important terms and definitions](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=0)** - Here are some important Jira, Jira Service Management and Confluence terms to know.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=0)** - Here are some important [[Jira]], Jira Service Management and [[Confluence]] terms to know.
 >
-> **[0:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=5)** I'll also explain Atlassian's user account model in cloud.
+> **[0:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=5)** I'll also explain [[Atlassian]]'s user account model in cloud.
 >
 > **[0:10](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=10)** This course includes multiple Atlassian application types.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=50)** And the final application type we'll cover is Confluence, a collaboration and documentation solution for any type of user.
 >
-> **[0:59](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=59)** An application link is a connection between Atlassian products or external applications.
+> **[0:59](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=59)** An application link is a connection between Atlassian [[Microsoft Products|products]] or external applications.
 >
 > **[1:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=65)** Later in the course, we'll use an application link to connect Jira and Confluence so they can access each other's data.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=86)** A project is a collection of issues.
 >
-> **[1:29](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=89)** Now, the word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[1:29](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=89)** Now, the [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[1:35](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=95)** Think of a Jira project as a container for all your team's initiatives, tasks, and to do items.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=139)** It's the way to find a subset of issues when there are millions in the database.
 >
-> **[2:25](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=145)** JQL powers JIRA features like boards, dashboards, and reports.
+> **[2:25](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=145)** JQL powers JIRA features like boards, [[Dashboards]], and reports.
 >
 > **[2:31](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=151)** A filter is a saved JQL search to use again or share with colleagues.
 >
@@ -353,7 +349,7 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=439)** There's generally one global space per department, team, or for large initiatives that involve multiple teams.
 >
-> **[7:27](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=447)** For example, a Confluence global space called facilities for office information, policies, and request forms.
+> **[7:27](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=447)** For example, a Confluence global space called facilities for [[Microsoft Office|office]] information, policies, and request [[Forms]].
 >
 > **[7:37](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=457)** A personal space is just what it sounds like.
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 >
 > **[8:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=498)** I'll also explain the user account model in cloud.
 >
-> **[8:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=503)** An organization is a container for your users and products like Jira, Confluence, Bitbucket, and more.
+> **[8:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=503)** An organization is a container for your users and products like Jira, Confluence, [[Bitbucket]], and more.
 >
 > **[8:31](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=511)** Each organization has a site with a unique URL in the format sitename.[atlassian.net](https://atlassian.net).
 >
@@ -395,7 +391,7 @@ created: 2026-05-02
 >
 > **[9:45](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=585)** The account allows users to log into Atlassian products with one set of credentials.
 >
-> **[9:50](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=590)** It's similar to a Google account where one username grants access to multiple products like Gmail, Docs and YouTube.
+> **[9:50](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=590)** It's similar to a [[Google]] account where one username grants access to multiple products like Gmail, Docs and YouTube.
 >
 > **[9:59](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=599)** When an Atlassian account is part of a claimed domain, it's called a managed account.
 >
@@ -423,13 +419,13 @@ created: 2026-05-02
 >
 > **[11:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=683)** I've made a glossary to help you with it for this course and when navigating the Atlassian ecosystem.
 >
-> **[11:30](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=690)** Download my handout from the Exercise files area in LinkedIn Learning.
+> **[11:30](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=690)** Download my handout from the Exercise files area in [[LinkedIn]] Learning.
 >
 > **[11:35](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/important-terms-and-definitions?u=76281980&t=695)** In the next section, we'll create new applications, connect them, and discuss an example use case to leverage both applications together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (37), [[Atlassian]] (17), [[Confluence]] (15), application (8), [[Microsoft Products|Products]] (8)
+> **Frameworks & Libraries:** [[Jira]] (37), [[Atlassian]] (17), [[Confluence]] (15), [[Microsoft Products|Products]] (8), [[Dashboards]] (2)
 > **Tools:** jira (37), confluence (15), bitbucket (1)
 > **Definitions:** is a  (14), is an  (1), in other words (1)
 > **Env Vars:** jql (4), jsm (3), jira (3), url (3)
@@ -443,12 +439,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tracking work in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980)
+#### [Tracking work in Jira](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=0)** - In this section, I'll provide a brief overview of Jira and Jira Service Management's work tracking capabilities.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=0)** - In this section, I'll provide a brief overview of [[Jira]] and Jira Service Management's work tracking capabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=8)** Jira is software for issue tracking, bug tracking, and project management.
 >
@@ -456,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=16)** Jira helps teams of all types manage their work.
 >
-> **[0:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=20)** When Jira was first released in 2002, it was purely for software development.
+> **[0:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=20)** When Jira was first released in 2002, it was purely for [[Software Development]].
 >
 > **[0:26](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=26)** But these days, all kinds of teams like marketing, finance, facilities, HR, and IT use Jira.
 >
@@ -490,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=109)** Assign the issue to the correct person, and transition the issue through the workflow as progress is made.
 >
-> **[1:56](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=116)** In May, 2024, Atlassian announced that Jira software and Jira Work Management are combined under the brand name Jira.
+> **[1:56](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=116)** In May, 2024, [[Atlassian]] announced that Jira software and Jira Work Management are combined under the brand name Jira.
 >
 > **[2:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=125)** This means there's now a single unified platform.
 >
@@ -506,7 +501,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=171)** It helps support and service teams of all types manage requests.
 >
-> **[2:56](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=176)** JSM is ideal for tracking changes to systems, processes, or applications, resolving incidents and problems like an outage or security breach, fulfilling service requests like a password reset, new hardware, or issuing a mobile device, managing approvals of all kinds, and helping internal or external customers with whatever they need.
+> **[2:56](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=176)** JSM is ideal for tracking changes to systems, processes, or applications, resolving incidents and problems like an outage or security breach, fulfilling service requests like a password reset, new [[Hardware]], or issuing a mobile device, managing approvals of all kinds, and helping internal or external customers with whatever they need.
 >
 > **[3:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/tracking-work-in-jira?u=76281980&t=203)** And JSM is not just for IT teams.
 >
@@ -546,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (19), management (9), teams (8), [[Software Development]] (3), hr (3)
+> **Frameworks & Libraries:** [[Jira]] (19), [[Software Development]] (3), [[Atlassian]] (3), [[Hardware]] (1)
 > **Tools:** jira (19)
 > **Env Vars:** jsm (4)
 > **Analogies:** for example (3), just like (1)
@@ -554,12 +549,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Collaborating in Confluence
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980)
+#### [Collaborating in Confluence](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=0)** - In this section, I'll provide a brief overview of Confluence's collaboration and knowledge base features.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=0)** - In this section, I'll provide a brief overview of [[Confluence]]'s collaboration and knowledge base features.
 >
 > **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=7)** Confluence helps all types of organizations collaborate, plan, and store information.
 >
@@ -575,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=52)** In Confluence, multiple users can update the same content at the same time.
 >
-> **[0:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=58)** You may have seen this capability in other applications like Google Docs.
+> **[0:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=58)** You may have seen this capability in other applications like [[Google]] Docs.
 >
 > **[1:03](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=63)** You can also see what other users are typing as they enter information.
 >
@@ -601,9 +595,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=130)** Add the desired content and publish the page.
 >
-> **[2:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=138)** As I mentioned before, Atlassian tools all connect to each other.
+> **[2:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=138)** As I mentioned before, [[Atlassian]] tools all connect to each other.
 >
-> **[2:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=142)** For example, here's a Jira project connected to a Confluence space.
+> **[2:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=142)** For example, here's a [[Jira]] project connected to a Confluence space.
 >
 > **[2:27](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/collaborating-in-confluence?u=76281980&t=147)** Users can view and create Confluence content without ever leaving Jira.
 >
@@ -613,19 +607,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Confluence]] (10), [[Jira]] (2), [[Google]] (1), hr (1), product (1)
+> **Frameworks & Libraries:** [[Confluence]] (10), [[Jira]] (2), [[Google]] (1), [[Atlassian]] (1)
 > **Tools:** confluence (10), jira (2)
 > **Analogies:** for example (2)
 > **Env Vars:** jsm (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - in (1)
 
-#### Application similarities and differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980)
+#### [Application similarities and differences](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=0)** - Now let's discuss the similarities and differences between Jira, Jira Service Management and Confluence.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=0)** - Now let's discuss the similarities and differences between [[Jira]], Jira Service Management and [[Confluence]].
 >
 > **[0:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=8)** Here are some similarities between the applications.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=29)** The grid icon on the left is the application navigator.
 >
-> **[0:33](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=33)** Click it to switch between cloud sites, Atlassian applications, or other linked tools.
+> **[0:33](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=33)** Click it to switch between cloud sites, [[Atlassian]] applications, or other linked tools.
 >
 > **[0:40](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=40)** The next item is the product name and logo image.
 >
@@ -679,7 +672,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=168)** Just wait until you start trying to use these Wiki markups in other applications.
 >
-> **[2:53](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=173)** I frequently find myself typing these codes in a word processor, for example, and, of course, that doesn't work.
+> **[2:53](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=173)** I frequently find myself typing these codes in a [[Microsoft Word|word]] processor, for example, and, of course, that doesn't work.
 >
 > **[3:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=180)** Also, in cloud, users, groups and product subscriptions are all managed in a central area at admin.[atlassian.com](https://atlassian.com).
 >
@@ -691,11 +684,11 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=200)** Jira is built for business teams and development teams.
 >
-> **[3:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=204)** Business projects are great for teams like marketing, human resources, legal, sales, and anyone interested in tracking initiatives, processes or tasks.
+> **[3:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=204)** Business projects are great for teams like marketing, [[Human Resources (HR)|human resources]], legal, sales, and anyone interested in tracking initiatives, processes or tasks.
 >
-> **[3:37](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=217)** Software projects help development teams track new features, improvements and bugs.
+> **[3:37](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=217)** [[Software Projects]] help development teams track new features, improvements and bugs.
 >
-> **[3:43](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=223)** Software projects include dev-specific features like sprints, story points, backlogs, and integration with tools like Bamboo and Bitbucket.
+> **[3:43](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=223)** Software projects include dev-specific features like sprints, story points, backlogs, and integration with tools like Bamboo and [[Bitbucket]].
 >
 > **[3:55](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=235)** Jira includes issues, workflow and reporting features.
 >
@@ -755,7 +748,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=405)** A menu of options appears.
 >
-> **[6:47](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=407)** Depending on your permissions, you'll see links for personal settings at the top, global Jira settings in the middle, and user management and billing permissions at the bottom.
+> **[6:47](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=407)** Depending on your permissions, you'll see links for personal settings at the top, global Jira settings in the middle, and [[User Management]] and billing permissions at the bottom.
 >
 > **[6:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=418)** I'll click the issues link.
 >
@@ -763,7 +756,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=431)** Go back to the cog icon to access other application-level settings.
 >
-> **[7:17](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=437)** For Jira Service Management, there are additional settings in the products menu to be aware of.
+> **[7:17](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=437)** For Jira Service Management, there are additional settings in the [[Microsoft Products|products]] menu to be aware of.
 >
 > **[7:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/application-similarities-and-differences?u=76281980&t=442)** Look for the JSM header in the left sidebar for additional options.
 >
@@ -777,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (22), [[Confluence]] (14), application (13), management (7), teams (6)
+> **Frameworks & Libraries:** [[Jira]] (22), [[Confluence]] (14), [[Atlassian]] (5), [[Software Projects]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (22), confluence (14), bitbucket (1)
 > **Analogies:** for example (4)
 > **Env Vars:** jsm (3)
@@ -786,14 +779,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), be aware (1)
 > **Cross-References:** go back to (1)
 
-#### Benefits and common connection points
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980)
+#### [Benefits and common connection points](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=0)** - Now let's explore some integration features and preview things that we'll leverage in the following course sections.
 >
-> **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=7)** There are many benefits to connecting Atlassian applications.
+> **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=7)** There are many benefits to connecting [[Atlassian]] applications.
 >
 > **[0:12](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=12)** First, information is more visible and accessible when it can be viewed in one place.
 >
@@ -815,9 +807,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=70)** Finally, using Atlassian applications together helps standardize processes and creates consistency.
 >
-> **[1:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=78)** Confluence pages have templates, so similar information is presented in a standard format.
+> **[1:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=78)** [[Confluence]] pages have templates, so similar information is presented in a standard format.
 >
-> **[1:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=84)** Jira issues and JSM requests all follow a similar info collection and progress reporting format.
+> **[1:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=84)** [[Jira]] issues and JSM requests all follow a similar info collection and progress reporting format.
 >
 > **[1:32](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=92)** Consistency ensures that users can easily locate and leverage common information.
 >
@@ -871,7 +863,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=230)** Additionally, knowledge base articles can be automatically displayed based on specific request information.
 >
-> **[3:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=238)** In the example, I started a new hardware request and typed "replace fax machine."
+> **[3:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=238)** In the example, I started a new [[Hardware]] request and typed "replace fax machine."
 >
 > **[4:04](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/benefits-and-common-connection-points?u=76281980&t=244)** An article about the replacement policy was automatically presented.
 >
@@ -899,15 +891,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (19), [[Confluence]] (15), application (5), [[Atlassian]] (2), next (2)
+> **Frameworks & Libraries:** [[Jira]] (19), [[Confluence]] (15), [[Atlassian]] (2), [[Hardware]] (1)
 > **Tools:** jira (19), confluence (15)
 > **Analogies:** just like (2)
 > **Env Vars:** jsm (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - now (1)
 
-#### Course use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980)
+#### [Course use case](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,9 +910,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=13)** Let's pretend we're transitioning our weekend woodworking hobby into a full-time business.
 >
-> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=19)** Our business needs a way to track orders, document materials and costs, and provide post-sales customer support.
+> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=19)** Our business needs a way to track orders, document materials and costs, and provide post-sales [[Customer Support]].
 >
-> **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=28)** We'll use a Jira project for order tracking, a confluence space for materials, costs, and support content, and a JSM project for post-sale support.
+> **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=28)** We'll use a [[Jira]] project for order tracking, a [[Confluence]] space for materials, costs, and support content, and a JSM project for post-sale support.
 >
 > **[0:41](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=41)** We should always configure applications with the future in mind.
 >
@@ -933,13 +924,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=73)** Our user account model will be simple.
 >
-> **[1:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=76)** Our organization will have one site with one user account and three products.
+> **[1:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=76)** Our organization will have one site with one user account and three [[Microsoft Products|products]].
 >
-> **[1:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=82)** If you miss the explanation of Atlassian's user account model in Cloud, it's in the important terms and definition section at the beginning of the course.
+> **[1:22](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case?u=76281980&t=82)** If you miss the explanation of [[Atlassian]]'s user account model in Cloud, it's in the important terms and definition section at the beginning of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Customer Support]] (1), [[Jira]] (1), [[Confluence]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Jira]] (1), [[Confluence]] (1), [[Microsoft Products|Products]] (1), [[Atlassian]] (1)
 > **Tools:** jira (1), confluence (1)
 > **Prerequisites:** configure (2)
 > **Env Vars:** jsm (1)
@@ -952,12 +943,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980)
+#### [Creating applications](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=0)** - In this section, we'll create new Jira and Confluence Cloud instances for experimentation.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=0)** - In this section, we'll create new [[Jira]] and [[Confluence]] Cloud instances for experimentation.
 >
 > **[0:06](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=6)** But before we do, check to see if your organization already has a sandbox or test environment that you can use.
 >
@@ -973,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=39)** In Jira, click the cog icon on the top right and select Billing.
 >
-> **[0:44](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=44)** On the next page, click the Products link in the top navigation bar.
+> **[0:44](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=44)** On the next page, click the [[Microsoft Products|Products]] link in the top navigation bar.
 >
 > **[0:48](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=48)** Now, I know it's already highlighted, but click it anyway.
 >
@@ -987,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=72)** When you're done with this course, you can keep the free versions for future testing, or for personal projects, like planning your next vacation, or documenting major purchase decisions.
 >
-> **[1:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=84)** Here's how to create brand-new cloud test applications, visit [atlassian.com/software/jira](https://atlassian.com/software/jira), and click Get Jira free.
+> **[1:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=84)** Here's how to create brand-new cloud test applications, visit [[[Atlassian]].com/software/jira](https://atlassian.com/software/jira), and click Get Jira free.
 >
 > **[1:35](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-applications?u=76281980&t=95)** Next, enter an email address and click the Sign up button.
 >
@@ -1041,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), next (9), cloud (5), [[Confluence]] (4), product (4)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (4), [[Microsoft Products|Products]] (3), [[Atlassian]] (3)
 > **Tools:** jira (10), confluence (4)
 > **Env Vars:** jsm (3)
 > **Prerequisites:** set up (1), install (1), you'll need (1)
@@ -1050,8 +1040,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Connecting applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980)
+#### [Connecting applications](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,17 +1050,17 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=14)** We'll also connect a separate application so you know how to do it.
 >
-> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=19)** Let's see what applications are already connected to this Jira instance.
+> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=19)** Let's see what applications are already connected to this [[Jira]] instance.
 >
-> **[0:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=24)** Log in as an application administrator and go to the products admin area.
+> **[0:24](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=24)** Log in as an application administrator and go to the [[Microsoft Products|products]] admin area.
 >
 > **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=28)** Then click the application links option in the left sidebar.
 >
 > **[0:33](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=33)** In data center, you'll find the application links option in the applications admin area instead.
 >
-> **[0:40](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=40)** And as you can see, the Confluence product we added in the last section is automatically connected.
+> **[0:40](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=40)** And as you can see, the [[Confluence]] product we added in the last section is automatically connected.
 >
-> **[0:46](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=46)** This connection is managed by Atlassian, so there are no settings to configure or actions to perform.
+> **[0:46](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=46)** This connection is managed by [[Atlassian]], so there are no settings to configure or actions to perform.
 >
 > **[0:53](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-applications?u=76281980&t=53)** And JSM won't be listed here because it's an extension of Jira.
 >
@@ -1113,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[Microsoft Products|Products]] (8), [[Jira]] (6), cloud (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Jira]] (6), [[Atlassian]] (2), [[Confluence]] (1)
 > **Tools:** jira (6), confluence (1)
 > **Env Vars:** url (3), jsm (1)
 > **CLI Commands:** find (1)
@@ -1122,8 +1111,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [host] (1)
 
-#### Organizing information
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980)
+#### [Organizing information](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,9 +1123,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=18)** Here's a quick reminder.
 >
-> **[0:21](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=21)** To track a task from conception to completion, use work management software like Jira.
+> **[0:21](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=21)** To track a task from conception to completion, use work management software like [[Jira]].
 >
-> **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=28)** To document a task, use a collaboration platform and document repository like Confluence.
+> **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=28)** To document a task, use a collaboration platform and document repository like [[Confluence]].
 >
 > **[0:36](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=36)** And to support internal or external users, use a ticketing application like Jira Service Management.
 >
@@ -1159,7 +1147,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=104)** Before we continue, download my list of considerations and requirements for the Jira projects and Confluence spaces.
 >
-> **[1:52](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=112)** The information is in the exercise files area in LinkedIn learning.
+> **[1:52](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=112)** The information is in the exercise files area in [[LinkedIn]] learning.
 >
 > **[1:57](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=117)** We'll discuss requirements next and implement them in the upcoming course sections.
 >
@@ -1183,7 +1171,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=175)** Here are some questions to answer when planning a new Confluence global space.
 >
-> **[3:03](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=183)** We'll create a new documentation space using the team collaboration template.
+> **[3:03](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=183)** We'll create a new documentation space using the [[Team Collaboration]] template.
 >
 > **[3:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/organizing-information?u=76281980&t=188)** Again, we'll keep things simple.
 >
@@ -1199,21 +1187,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), management (5), [[Confluence]] (5), application (3), business (2)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Confluence]] (5), [[LinkedIn]] (1), [[Team Collaboration]] (1)
 > **Tools:** jira (9), confluence (5)
 > **Exercise Files:** template (3), exercise files (1)
 > **Env Vars:** jsm (1), faq (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
-#### Creating Jira projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-projects?u=76281980)
+#### [Creating Jira projects](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-projects?u=76281980&t=0)** - In the last section, we decided what information we will store and crafted some simple requirements for collecting it.
 >
-> **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-projects?u=76281980&t=7)** Now it's time to create and configure two Jira projects and a confluence space.
+> **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-projects?u=76281980&t=7)** Now it's time to create and configure two [[Jira]] projects and a [[Confluence]] space.
 >
 > **[0:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-projects?u=76281980&t=13)** Just a reminder to download the configuration requirements handout in the exercise files area.
 >
@@ -1287,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), next (8), business (3), management (3), application (2)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Confluence]] (1)
 > **Tools:** jira (9), confluence (1)
 > **UI Navigation:** select the (5)
 > **Exercise Files:** template (4), exercise files (1)
@@ -1296,12 +1283,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Creating Confluence spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-confluence-spaces?u=76281980)
+#### [Creating Confluence spaces](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-confluence-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-confluence-spaces?u=76281980&t=0)** - [Instructor] Now that our Jira projects are created, let's create a Confluence space for our use case.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-confluence-spaces?u=76281980&t=0)** - [Instructor] Now that our [[Jira]] projects are created, let's create a [[Confluence]] space for our use case.
 >
 > **[0:06](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-confluence-spaces?u=76281980&t=6)** Log into Confluence as an application administrator and click the Spaces option in the main nav, then click Create a space.
 >
@@ -1313,16 +1299,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Confluence]] (2), [[Jira]] (1), application (1)
+> **Frameworks & Libraries:** [[Confluence]] (2), [[Jira]] (1)
 > **Tools:** confluence (2), jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting projects and spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980)
+#### [Connecting projects and spaces](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=0)** - In the last section, we created two Jira projects and a Confluence space.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=0)** - In the last section, we created two [[Jira]] projects and a [[Confluence]] space.
 >
 > **[0:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=5)** Now it's time to connect them to help users find related information.
 >
@@ -1352,7 +1337,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=68)** When we created the JSM project, a new Confluence knowledge space space was automatically created and linked.
 >
-> **[1:15](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=75)** Thanks, Atlassian.
+> **[1:15](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=75)** Thanks, [[Atlassian]].
 >
 > **[1:17](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/connecting-projects-and-spaces?u=76281980&t=77)** The space's name and key match the Jira project, which is a best practice for companion projects and spaces.
 >
@@ -1414,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Confluence]] (13), [[Jira]] (10), management (4), next (3), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Confluence]] (13), [[Jira]] (10), [[Atlassian]] (1)
 > **Tools:** confluence (13), jira (10)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** jsm (3), url (2)
@@ -1428,8 +1413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course use case set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980)
+#### [Course use case set up](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1443,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=13)** A client wants some raised planters for their garden.
 >
-> **[0:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=16)** Let's create a Jira issue to track the order.
+> **[0:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=16)** Let's create a [[Jira]] issue to track the order.
 >
 > **[0:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=20)** I'll create a task in the Orders Jira Project.
 >
@@ -1453,7 +1437,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=31)** Simply copy and paste the information from my downloadable handout.
 >
-> **[0:35](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=35)** You'll find it in the LinkedIn exercise files area in Jira.
+> **[0:35](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=35)** You'll find it in the [[LinkedIn]] exercise files area in Jira.
 >
 > **[0:40](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/course-use-case-set-up?u=76281980&t=40)** Click the Create button at the top of the page.
 >
@@ -1469,22 +1453,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), data (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[LinkedIn]] (1)
 > **Tools:** jira (4)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - now (1)
 
-#### Linking issues to pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980)
+#### [Linking issues to pages](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980&t=0)** - Next, I'm ready to build this order so I'll assign the issue to myself and transition it to the in-progress status.
 >
-> **[0:12](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980&t=12)** As a woodworker, I want to document the materials for the project and my costs in Confluence.
+> **[0:12](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980&t=12)** As a woodworker, I want to document the materials for the project and my costs in [[Confluence]].
 >
-> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980&t=19)** Let's create a Confluence page for this order without leaving Jira.
+> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980&t=19)** Let's create a Confluence page for this order without leaving [[Jira]].
 >
 > **[0:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-issues-to-pages?u=76281980&t=23)** In the Jira issue, click the add button and select new Confluence page.
 >
@@ -1526,19 +1509,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (8), next (2), business (1), feature (1)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (8)
 > **Tools:** jira (10), confluence (8)
 > **UI Navigation:** scroll down (1), open the (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - next (1)
 
-#### Linking pages to issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980)
+#### [Linking pages to issues](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=0)** - Next, let's link a Confluence page to one or more Jira issues.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=0)** - Next, let's link a [[Confluence]] page to one or more [[Jira]] issues.
 >
 > **[0:05](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=5)** There are two methods.
 >
@@ -1548,11 +1530,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=14)** First, paste a Jira issue URL into the Confluence page.
 >
-> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=19)** Atlassian turns the URL into what it calls a smart link.
+> **[0:19](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=19)** [[Atlassian]] turns the URL into what it calls a smart link.
 >
 > **[0:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=23)** A smart link is a rich hyperlink that displays dynamic information.
 >
-> **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=28)** The Jira issue URL is transformed to show the issue's type, summary, and real-time status.
+> **[0:28](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=28)** The Jira issue URL is transformed to show the issue's type, summary, and [[Real-Time]] status.
 >
 > **[0:36](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/linking-pages-to-issues?u=76281980&t=36)** Click the link for additional display options, like showing the link in a card format.
 >
@@ -1604,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), [[Confluence]] (6), [[Atlassian]] (2), application (2), next (1)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Confluence]] (6), [[Atlassian]] (2), [[Real-Time]] (1)
 > **Tools:** jira (11), confluence (6)
 > **Env Vars:** url (5), jira (1), jql (1)
 > **CLI Commands:** find (1)
@@ -1613,16 +1595,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - next (1)
 
-#### Creating issues from pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980)
+#### [Creating issues from pages](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=0)** - I'm currently building the raised garden planters, but I'd also like to build some custom indoor chairs and try to sell them.
 >
-> **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=7)** Since we don't have a buyer for them yet, let's compile some materials and cost information, and we'll create a Jira issue when an order comes in later.
+> **[0:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=7)** Since we don't have a buyer for them yet, let's compile some materials and cost information, and we'll create a [[Jira]] issue when an order comes in later.
 >
-> **[0:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=16)** Essentially, we're reversing the previous process by creating Jira issues from Confluence pages.
+> **[0:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=16)** Essentially, we're reversing the previous process by creating Jira issues from [[Confluence]] pages.
 >
 > **[0:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=23)** Here's the Confluence page I've started for a new woodworking project.
 >
@@ -1632,7 +1613,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=34)** This time, we'll create the order from the Confluence page.
 >
-> **[0:38](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=38)** I'll insert the macro with a shortcut, type a slash, the word Jira, and choose Create a Jira issue from the menu.
+> **[0:38](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=38)** I'll insert the macro with a shortcut, type a slash, the [[Microsoft Word|word]] Jira, and choose Create a Jira issue from the menu.
 >
 > **[0:48](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-pages?u=76281980&t=48)** This macro opens a Jira create screen, and automatically links the new issue to the related page.
 >
@@ -1658,14 +1639,13 @@ created: 2026-05-02
 > **Tools:** jira (9), confluence (5)
 > **Speakers:** - i (1)
 
-#### Creating issues from tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-tables?u=76281980)
+#### [Creating issues from tables](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-tables?u=76281980&t=0)** - I just built a new mailbox for myself, and now all my neighbors want one for their houses, too.
 >
-> **[0:06](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-tables?u=76281980&t=6)** Luckily, I can create multiple Jira issues at once from text or a table on a Confluence page.
+> **[0:06](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-tables?u=76281980&t=6)** Luckily, I can create multiple [[Jira]] issues at once from text or a table on a [[Confluence]] page.
 >
 > **[0:13](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-issues-from-tables?u=76281980&t=13)** Here's how.
 >
@@ -1705,18 +1685,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (7), next (1), feature (1), product (1)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (7)
 > **Tools:** jira (10), confluence (7)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Creating Jira reports in Confluence
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980)
+#### [Creating Jira reports in Confluence](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=0)** - [Instructor] Jira comes with many reporting methods and ways to see data.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=0)** - [Instructor] [[Jira]] comes with many reporting methods and ways to see data.
 >
 > **[0:04](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=4)** Access the built-in reports by clicking the reports link in the Jira projects navigation.
 >
@@ -1724,7 +1703,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=16)** Boards show a status based view of issues.
 >
-> **[0:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=20)** Users can also create custom dashboards.
+> **[0:20](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=20)** Users can also create custom [[Dashboards]].
 >
 > **[0:23](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=23)** Dashboards show filter results using gadgets.
 >
@@ -1736,15 +1715,15 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=41)** They look like dashboards, but without all the Jira navigation elements.
 >
-> **[0:45](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=45)** You might use this feature to display real-time data on a screen in a conference room or in your wood shop.
+> **[0:45](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=45)** You might use this feature to display [[Real-Time]] data on a screen in a conference room or in your wood shop.
 >
-> **[0:53](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=53)** While the reporting capabilities in Jira are more robust, you can also display report data in Confluence pages.
+> **[0:53](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=53)** While the reporting capabilities in Jira are more robust, you can also display report data in [[Confluence]] pages.
 >
 > **[1:01](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=61)** Here are some options.
 >
 > **[1:03](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=63)** Let's add the Jira charts macro to this Cnfluence page.
 >
-> **[1:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=67)** The macro supports pie charts, created versus resolve statistics, or two-dimensional statistics.
+> **[1:07](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=67)** The macro supports pie charts, created versus resolve [[Statistics]], or two-dimensional statistics.
 >
 > **[1:15](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/creating-jira-reports-in-confluence?u=76281980&t=75)** I'll choose pie chart and enter a JQL query for the desired issues.
 >
@@ -1774,18 +1753,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), data (5), [[Dashboards]] (4), [[Real-Time]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Dashboards]] (4), [[Real-Time]] (2), [[Statistics]] (2), [[Confluence]] (1)
 > **Tools:** jira (7), confluence (1)
 > **Env Vars:** url (3), jql (1)
 > **UI Navigation:** in the toolbar (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980)
+#### [Configuring a knowledge base](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=0)** - In a previous section, we connected a Jira project to a Confluence knowledge base to provide post-sales support to our customer.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=0)** - In a previous section, we connected a [[Jira]] project to a [[Confluence]] knowledge base to provide post-sales support to our customer.
 >
 > **[0:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=8)** Let's see how the end user leverages that support information.
 >
@@ -1799,7 +1777,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=36)** To get to it, go back to the project's main navigation, click Channels, and click Open next to the Portal option.
 >
-> **[0:44](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=44)** You can also add /servicedesk to the end of your Atlassian site URL.
+> **[0:44](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=44)** You can also add /servicedesk to the end of your [[Atlassian]] site URL.
 >
 > **[0:50](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/configuring-a-knowledge-base?u=76281980&t=50)** Here's what an end user sees when they log in.
 >
@@ -1875,7 +1853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Confluence]] (4), next (3), [[Atlassian]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Confluence]] (4), [[Atlassian]] (1)
 > **Tools:** jira (5), confluence (4)
 > **Env Vars:** jsm (5), url (1), faq (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -1884,12 +1862,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - in (1)
 
-#### Using Atlassian Intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980)
+#### [Using Atlassian Intelligence](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=0)** - [Narrator] Like many companies, Atlassian is adding artificial intelligence capabilities as another way to save you time and energy when using their software.
+> **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=0)** - [Narrator] Like many companies, [[Atlassian]] is adding [[Artificial Intelligence (AI)|artificial intelligence]] capabilities as another way to save you time and energy when using their software.
 >
 > **[0:09](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=9)** Here's a brief look at some capabilities that have launched so far.
 >
@@ -1907,11 +1884,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=46)** In JSM, look for the summarize button in an issues activity section.
 >
-> **[0:52](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=52)** Jira will parse the content in the description and comment fields and provide a short summary.
+> **[0:52](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=52)** [[Jira]] will parse the content in the description and comment fields and provide a short summary.
 >
 > **[0:58](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=58)** No more having to read through a lengthy comment trail.
 >
-> **[1:03](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=63)** In Confluence, highlight a word on a page and click the define button to see a definition in edit mode, select some copy and click the Improve Writing button.
+> **[1:03](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=63)** In [[Confluence]], highlight a [[Microsoft Word|word]] on a page and click the define button to see a definition in edit mode, select some copy and click the Improve Writing button.
 >
 > **[1:15](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/using-atlassian-intelligence?u=76281980&t=75)** AI will suggest improvements to consider.
 >
@@ -1923,7 +1900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Atlassian]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Atlassian]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Jira]] (1), [[Confluence]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** jql (2), jsm (1)
 > **Tools:** jira (1), confluence (1)
 > **CLI Commands:** find (1)
@@ -1936,14 +1913,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources for Jira and Confluence learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980)
+#### [Additional resources for Jira and Confluence learning](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=0)** - Congrats on completing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=2)** By now you've seen many of the helpful integration points between Jira and Confluence.
+> **[0:02](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=2)** By now you've seen many of the helpful integration points between [[Jira]] and [[Confluence]].
 >
 > **[0:08](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=8)** You should now be able to connect Jira projects to Confluence spaces, leverage common application connection points and integration features, and help users avoid duplication and manual work.
 >
@@ -1955,11 +1931,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=38)** You'll find many ideas and learning opportunities in the "9 Ways to Learn Jira Administration" article on my website.
 >
-> **[0:46](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=46)** Also, check out my other Jira and Confluence courses right here on LinkedIn.
+> **[0:46](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=46)** Also, check out my other Jira and Confluence courses right here on [[LinkedIn]].
 >
 > **[0:52](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=52)** The most fun are about building automation rules, "Best Practices for Configuration and Maintenance," and "Managing Custom Workflows."
 >
-> **[1:02](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=62)** Here are some Atlassian resources so you can continue learning.
+> **[1:02](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=62)** Here are some [[Atlassian]] resources so you can continue learning.
 >
 > **[1:06](https://www.linkedin.com/learning/increasing-efficiency-with-jira-and-confluence-integrations/additional-resources-for-jira-and-confluence-learning?u=76281980&t=66)** Atlassian's product documentation is categorized by application type, deployment type and version.
 >
@@ -1983,7 +1959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), [[Confluence]] (6), [[Atlassian]] (5), application (2), next (1)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Confluence]] (6), [[Atlassian]] (5), [[LinkedIn]] (1)
 > **Tools:** jira (8), confluence (6)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)

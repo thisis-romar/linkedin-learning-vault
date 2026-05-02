@@ -65,12 +65,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an Ethereum wallet?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980)
+#### [What is an Ethereum wallet?](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=1)** - In previous episodes, you've learned all about blockchain, now you know about Ethereum, and you've even set up your own development environment.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=1)** - In previous episodes, you've learned all about [[Blockchain]], now you know about [[Ethereum]], and you've even set up your own development environment.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=8)** But we're not quite ready to start writing code.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=67)** You can't buy crypto-assets, you can't sell crypto-assets, you can't trade 'em.
 >
-> **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=72)** And when I say crypto-assets, I mean cryptocurrency or anything else on the blockchain.
+> **[1:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=72)** And when I say crypto-assets, I mean [[Cryptocurrency]] or anything else on the blockchain.
 >
 > **[1:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980&t=78)** We're going to learn about lots of different crypto-assets.
 >
@@ -117,12 +116,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Types of Ethereum wallets
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980)
+#### [Types of Ethereum wallets](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=1)** - When you're ready to choose the type of Ethereum wallet that you want to use to store your private keys, there are two basic considerations.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=1)** - When you're ready to choose the type of [[Ethereum]] wallet that you want to use to store your private keys, there are two basic considerations.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=8)** Number one is security, and number two is convenience.
 >
@@ -194,13 +192,13 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=165)** A desktop wallet is one that actually runs on your personal computer, and it can be, any operating system is fine.
 >
-> **[2:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=171)** Linux, Mac, Windows obviously.
+> **[2:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=171)** [[Linux]], Mac, [[Windows]] obviously.
 >
 > **[2:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=174)** Any computer that you run, if you have software installed on that computer that manages your keys, that would be a desktop wallet, or you could have a mobile wallet.
 >
 > **[3:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=184)** A mobile wallet is software that runs on a smartphone or a tablet.
 >
-> **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=189)** So you can actually have this software manage your keys, running on different pieces of hardware.
+> **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=189)** So you can actually have this software manage your keys, running on different pieces of [[Hardware]].
 >
 > **[3:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=195)** Speaking of hardware, you can actually have a hardware wallet.
 >
@@ -214,7 +212,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=229)** Hopefully no one else can get to them, because you have good strong passwords to get to the keys.
 >
-> **[3:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=235)** The way that we would use these, it's a little less convenient, but if you ever want to trade cryptocurrency or interact with the blockchain, you would have to take the device, put it in a USB port, and let the software access your keys from the physical device.
+> **[3:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=235)** The way that we would use these, it's a little less convenient, but if you ever want to trade [[Cryptocurrency]] or interact with the [[Blockchain]], you would have to take the device, put it in a USB port, and let the software access your keys from the physical device.
 >
 > **[4:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/types-of-ethereum-wallets?u=76281980&t=251)** So it's very secure, but a little bit less convenient to use.
 >
@@ -254,19 +252,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Hardware]] (5), [[Ethereum]] (3), [[Blockchain]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Ethereum]] (3), [[Blockchain]] (2), [[Linux]] (1), [[Windows]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** usb (3)
 > **Analogies:** just like (1), kind of like (1)
 > **Speakers:** - when (1)
 
-#### Web and desktop wallets
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980)
+#### [Web and desktop wallets](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=0)** - Having a good understanding of the types of Ethereum wallets is a good start, but unfortunately that's not enough.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=0)** - Having a good understanding of the types of [[Ethereum]] wallets is a good start, but unfortunately that's not enough.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=6)** There are multiple offerings of each type.
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=20)** You don't have to choose just one.
 >
-> **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=21)** You can choose a hardware wallet and a mobile wallet.
+> **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=21)** You can choose a [[Hardware]] wallet and a mobile wallet.
 >
 > **[0:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=24)** If you decide to do it that way, choose the wallets that best suit your needs.
 >
@@ -290,9 +287,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=43)** This is an open-source wallet.
 >
-> **[0:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=45)** So you can actually download the code and make changes if you decide to do that, it's the most popular Ethereum Web wallet, but it has been hacked before, and it may be vulnerable to phishing attacks.
+> **[0:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=45)** So you can actually download the code and make changes if you decide to do that, it's the most popular Ethereum Web wallet, but it has been hacked before, and it may be vulnerable to [[Phishing]] attacks.
 >
-> **[0:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=56)** So if you have a large amount of cryptocurrency and you are security conscious, you might not want to go there.
+> **[0:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=56)** So if you have a large amount of [[Cryptocurrency]] and you are security conscious, you might not want to go there.
 >
 > **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=63)** Another example is Coinbase.
 >
@@ -334,7 +331,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=159)** And the last option is Guarda.
 >
-> **[2:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=161)** Now if you plan to trade many different types of cryptocurrencies, many different types of tokens, this might be a good choice for you.
+> **[2:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=161)** Now if you plan to trade many different types of cryptocurrencies, many different types of [[Tokens]], this might be a good choice for you.
 >
 > **[2:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=169)** Let's take a look at their website.
 >
@@ -360,7 +357,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=241)** Now Mist is actually not only a wallet, but also a browser.
 >
-> **[4:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=245)** It's a... a Blockchain browser.
+> **[4:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=245)** It's a... a [[Blockchain]] browser.
 >
 > **[4:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=250)** So it does a lot more than just wallet functionalities.
 >
@@ -386,7 +383,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=294)** So it shouldn't be that big of a deal.
 >
-> **[4:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=296)** Let's go take a look at what these pages are going to look like for each one of these sample products.
+> **[4:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=296)** Let's go take a look at what these pages are going to look like for each one of these sample [[Microsoft Products|products]].
 >
 > **[5:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/web-and-desktop-wallets?u=76281980&t=301)** So first we had the Exodus product and like all the others, we're going to choose a download link.
 >
@@ -424,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (12), web (6), [[Blockchain]] (3), [[Hardware]] (2), [[Cryptocurrency]] (2)
+> **Frameworks & Libraries:** [[Ethereum]] (12), [[Blockchain]] (3), [[Hardware]] (2), [[Cryptocurrency]] (2), [[Phishing]] (1)
 > **Definitions:** is a  (6), is an  (3)
 > **Prerequisites:** install (2), configure (2)
 > **Exercise Files:** source code (2), download the (1)
@@ -433,8 +430,7 @@ created: 2026-05-02
 > **Env Vars:** mew (1)
 > **Cross-References:** later in (1)
 
-#### Mobile, hardware, and paper wallets
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980)
+#### [Mobile, hardware, and paper wallets](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=36)** You can either scan a code, or you can actually type in an address if you want to transfer something, but you've got your keys right with you.
 >
-> **[0:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=44)** These products are very, very similar, the first two Jaxx and Coinomi use central servers whereas Bread does not use a central server, so that's really the only difference.
+> **[0:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=44)** These [[Microsoft Products|products]] are very, very similar, the first two Jaxx and Coinomi use central servers whereas Bread does not use a central server, so that's really the only difference.
 >
 > **[0:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=56)** Most of these are similar, and the way you choose between the three, or the many other ones that are available is simply looking at the user interface, what works well for you, and of course you want to look at the ratings, and make sure that other people have good experiences with it as well.
 >
@@ -468,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=102)** It's very clean, straightforward, and you can see one of the thing that keeps popping up here is a QR code.
 >
-> **[1:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=110)** QR codes are very common to use when it comes to transferring cryptoassets and cryptocurrency.
+> **[1:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=110)** QR codes are very common to use when it comes to transferring cryptoassets and [[Cryptocurrency]].
 >
 > **[1:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=118)** So many cases what will happen is you will create a QR code that represents your key, and there it is, you can use that to transfer funds back and forth between cryptocurrency.
 >
@@ -478,11 +474,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=142)** And then lastly is BRD or Bread.
 >
-> **[2:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=145)** It's very simple, but it's a secure on ramp as they say to Bitcoin, Ethereum and other digital currencies.
+> **[2:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=145)** It's very simple, but it's a secure on ramp as they say to Bitcoin, [[Ethereum]] and other digital currencies.
 >
 > **[2:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=151)** So it's a nice colorful user interface, and if you like that then try it out.
 >
-> **[2:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=156)** The next time wallet is the hardware wallet, and these are different than the previous wallets we've already looked at because previous wallets are all based in software of some type.
+> **[2:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=156)** The next time wallet is the [[Hardware]] wallet, and these are different than the previous wallets we've already looked at because previous wallets are all based in software of some type.
 >
 > **[2:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=165)** A hardware wallet is actually a physical device.
 >
@@ -568,7 +564,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=387)** First off would be ETHAddress.
 >
-> **[6:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=390)** ETHAddress is actually not a product or a piece of paper, it's software that you download from GitHub, you install, and you run the software to generate the keys, and print them out.
+> **[6:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=390)** ETHAddress is actually not a product or a piece of paper, it's software that you download from [[GitHub]], you install, and you run the software to generate the keys, and print them out.
 >
 > **[6:43](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/mobile-hardware-and-paper-wallets?u=76281980&t=403)** So it's actually software you're going to run.
 >
@@ -604,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Cryptocurrency]] (3), [[Hardware]] (3), next (2), [[Ethereum]] (2)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (3), [[Hardware]] (3), [[Ethereum]] (2), [[GitHub]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** usb (3), brd (1), readme (1)
 > **Definitions:** is a  (3), basically means (1), in other words (1)
 > **CLI Commands:** make (2), snap (1)
@@ -613,18 +609,17 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Exercise Files:** download the (1)
 
-#### Installing MetaMask
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980)
+#### [Installing MetaMask](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=0)** - And now it's time for us to actually install our own Ethereum wallet.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=0)** - And now it's time for us to actually install our own [[Ethereum]] wallet.
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=5)** We've chosen MetaMask.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=7)** MetaMask is a very simple, very nice wallet.
 >
-> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=10)** It, of course, is a web wallet and it gives us the ability to rapidly switch between different implementations of the blockchain.
+> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=10)** It, of course, is a web wallet and it gives us the ability to rapidly switch between different implementations of the [[Blockchain]].
 >
 > **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=19)** So in other words, we're going to easily be able to switch between our test blockchain and Mainnet when we start developing our applications.
 >
@@ -654,7 +649,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=67)** And then we get a notice that MetaMask has been added to Firefox.
 >
-> **[1:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=71)** Do I want this extension to run in private windows?
+> **[1:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=71)** Do I want this extension to run in private [[Windows]]?
 >
 > **[1:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=74)** Yes or no? I'm just not going to worry about that.
 >
@@ -670,7 +665,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=98)** Do you already have a seed phrase?
 >
-> **[1:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=100)** Which is a 12-word seed phrase.
+> **[1:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=100)** Which is a 12-[[Microsoft Word|word]] seed phrase.
 >
 > **[1:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/installing-metamask?u=76281980&t=102)** No, actually I don't.
 >
@@ -776,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3), data (3), [[Windows]] (2), next (2)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3), [[Windows]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Tools:** firefox (5)
 > **Definitions:** is a  (3), in other words (1)

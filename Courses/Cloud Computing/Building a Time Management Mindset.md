@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Live and feel better with time management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/live-and-feel-better-with-time-management?u=76281980)
+#### [Live and feel better with time management](https://www.linkedin.com/learning/building-a-time-management-mindset/live-and-feel-better-with-time-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,12 +99,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - no (1)
 
-#### Make time management your superpower
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/make-time-management-your-superpower?u=76281980)
+#### [Make time management your superpower](https://www.linkedin.com/learning/building-a-time-management-mindset/make-time-management-your-superpower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-time-management-mindset/make-time-management-your-superpower?u=76281980&t=3)** Paul lives in the suburbs and walks to work every day, two hours each way.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-time-management-mindset/make-time-management-your-superpower?u=76281980&t=8)** Every day, he gets to the office sweaty.
+> **[0:08](https://www.linkedin.com/learning/building-a-time-management-mindset/make-time-management-your-superpower?u=76281980&t=8)** Every day, he gets to the [[Microsoft Office|office]] sweaty.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-time-management-mindset/make-time-management-your-superpower?u=76281980&t=11)** One day, his colleague Jonathan asks him, "Why don't you just drive?
 >
@@ -151,12 +148,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - let (1)
 
-#### Change how you think about time
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/change-how-you-think-about-time?u=76281980)
+#### [Change how you think about time](https://www.linkedin.com/learning/building-a-time-management-mindset/change-how-you-think-about-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - i (1)
@@ -246,8 +241,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why you only need three time management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/why-you-only-need-three-time-management-tools?u=76281980)
+#### [Why you only need three time management tools](https://www.linkedin.com/learning/building-a-time-management-mindset/why-you-only-need-three-time-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,13 +305,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - i (1)
 
-#### Learn to schedule your time effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-to-schedule-your-time-effectively?u=76281980)
+#### [Learn to schedule your time effectively](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-to-schedule-your-time-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,8 +420,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Build more effective calendar habits
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/build-more-effective-calendar-habits?u=76281980)
+#### [Build more effective calendar habits](https://www.linkedin.com/learning/building-a-time-management-mindset/build-more-effective-calendar-habits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +478,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-a-time-management-mindset/build-more-effective-calendar-habits?u=76281980&t=118)** Fourth, and this is the most important tip, keep your schedule and calendar separate.
 >
-> **[2:04](https://www.linkedin.com/learning/building-a-time-management-mindset/build-more-effective-calendar-habits?u=76281980&t=124)** Let me show you how to do this in Google Calendar.
+> **[2:04](https://www.linkedin.com/learning/building-a-time-management-mindset/build-more-effective-calendar-habits?u=76281980&t=124)** Let me show you how to do this in [[Google]] Calendar.
 >
 > **[2:07](https://www.linkedin.com/learning/building-a-time-management-mindset/build-more-effective-calendar-habits?u=76281980&t=127)** You want a separate calendar for your schedule and one for your actual calendar events.
 >
@@ -519,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Cross-References:** we discussed (1), in the next (1), we talked about (1), next video (1)
 > **Analogies:** think of it like (1), picture (1)
 > **CLI Commands:** make (1)
@@ -527,8 +518,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Create realistic to-do lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/create-realistic-to-do-lists?u=76281980)
+#### [Create realistic to-do lists](https://www.linkedin.com/learning/building-a-time-management-mindset/create-realistic-to-do-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-time-management-mindset/create-realistic-to-do-lists?u=76281980&t=66)** I'm a big fan of keeping things super simple.
 >
-> **[1:09](https://www.linkedin.com/learning/building-a-time-management-mindset/create-realistic-to-do-lists?u=76281980&t=69)** That's why I use Google Tasks.
+> **[1:09](https://www.linkedin.com/learning/building-a-time-management-mindset/create-realistic-to-do-lists?u=76281980&t=69)** That's why I use [[Google]] Tasks.
 >
 > **[1:11](https://www.linkedin.com/learning/building-a-time-management-mindset/create-realistic-to-do-lists?u=76281980&t=71)** It's integrated right into Google Calendar, so I don't need a million apps just to get stuff done.
 >
@@ -604,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Google]] (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Env Vars:** xyz (1)
 > **Definitions:** short for (1)
 > **Analogies:** imagine (1)
@@ -615,8 +605,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand why time management is information management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/understand-why-time-management-is-information-management?u=76281980)
+#### [Understand why time management is information management](https://www.linkedin.com/learning/building-a-time-management-mindset/understand-why-time-management-is-information-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,14 +643,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - imagine (1)
 
-#### Tools for managing information overload
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980)
+#### [Tools for managing information overload](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,15 +662,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=25)** That's where having a second brain really saves you, both in stress and time.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=31)** Let me show you how to build one using Google Keep.
+> **[0:31](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=31)** Let me show you how to build one using [[Google]] Keep.
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=34)** And by the way, I'm using Keep because it's simple and integrates well with the Google tools we've discussed.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=40)** If you want something more advanced later, you might want to check out tools like OneNote or Notion.
+> **[0:40](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=40)** If you want something more advanced later, you might want to check out tools like [[OneNote]] or Notion.
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=46)** So first principle, instant capture.
 >
-> **[0:50](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=50)** Our brains are not built for endless data storage.
+> **[0:50](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=50)** Our brains are not built for endless [[Data Storage]].
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-time-management-mindset/tools-for-managing-information-overload?u=76281980&t=53)** They're meant for problem-solving and creativity.
 >
@@ -753,14 +740,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[OneNote]] (1), data (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[OneNote]] (1), [[Data Storage]] (1)
 > **CLI Commands:** snap (1), find (1)
 > **Cross-References:** next video (1)
 > **Tools:** notion (1)
 > **Speakers:** - i (1)
 
-#### Build your time management system
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/build-your-time-management-system?u=76281980)
+#### [Build your time management system](https://www.linkedin.com/learning/building-a-time-management-mindset/build-your-time-management-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-time-management-mindset/build-your-time-management-system?u=76281980&t=94)** And the fourth tool is your information manager.
 >
-> **[1:37](https://www.linkedin.com/learning/building-a-time-management-mindset/build-your-time-management-system?u=76281980&t=97)** Whether it's Google Keep, OneNote, or even a paper notebook, it's where you store everything else.
+> **[1:37](https://www.linkedin.com/learning/building-a-time-management-mindset/build-your-time-management-system?u=76281980&t=97)** Whether it's [[Google]] Keep, [[OneNote]], or even a paper notebook, it's where you store everything else.
 >
 > **[1:43](https://www.linkedin.com/learning/building-a-time-management-mindset/build-your-time-management-system?u=76281980&t=103)** project notes, ideas, reference materials, and so on.
 >
@@ -852,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (2), [[Google]] (1), [[OneNote]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[OneNote]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - here (1)
@@ -862,8 +848,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tune into your chronotype to better manage time
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980)
+#### [Tune into your chronotype to better manage time](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +884,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=69)** If you're a morning person, do your analytical, difficult tasks in the morning.
 >
-> **[1:14](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=74)** That's when you want to tackle your complex problems, like financial analysis or strategic planning.
+> **[1:14](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=74)** That's when you want to tackle your complex problems, like [[Financial Analysis]] or strategic planning.
 >
 > **[1:20](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=80)** On the other hand, your creative energy typically flows better in the afternoon.
 >
@@ -909,7 +894,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=102)** Now, you might be wondering, "Okay, but how do I know which type I am?"
 >
-> **[1:46](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=106)** Here's a practical tip: Google "auto MEQ.
+> **[1:46](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=106)** Here's a practical tip: [[Google]] "auto MEQ.
 >
 > **[1:51](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980&t=111)** That stands for Morningness-Eveningness Questionnaire.
 >
@@ -944,8 +929,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - a (1)
 
-#### Learn how to prioritize when things get hectic
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-how-to-prioritize-when-things-get-hectic?u=76281980)
+#### [Learn how to prioritize when things get hectic](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-how-to-prioritize-when-things-get-hectic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,7 +985,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-how-to-prioritize-when-things-get-hectic?u=76281980&t=120)** There's an easy fix for this one too.
 >
-> **[2:03](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-how-to-prioritize-when-things-get-hectic?u=76281980&t=123)** Remember that information management system we talked about earlier, like OneNote, for instance?
+> **[2:03](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-how-to-prioritize-when-things-get-hectic?u=76281980&t=123)** Remember that information management system we talked about earlier, like [[OneNote]], for instance?
 >
 > **[2:08](https://www.linkedin.com/learning/building-a-time-management-mindset/learn-how-to-prioritize-when-things-get-hectic?u=76281980&t=128)** This is where it really shines.
 >
@@ -1027,13 +1011,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (1), [[OneNote]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (1)
 > **Analogies:** imagine (1), it's like (1), for instance (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - there (1)
 
-#### Automate prioritization
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/automate-prioritization?u=76281980)
+#### [Automate prioritization](https://www.linkedin.com/learning/building-a-time-management-mindset/automate-prioritization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1055,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-a-time-management-mindset/automate-prioritization?u=76281980&t=47)** Let me show you how this works in practice.
 >
-> **[0:50](https://www.linkedin.com/learning/building-a-time-management-mindset/automate-prioritization?u=76281980&t=50)** Open up Google sheets and we'll create a prioritization system that never gets tired, never gets biased, and never forgets to consider all the variables.
+> **[0:50](https://www.linkedin.com/learning/building-a-time-management-mindset/automate-prioritization?u=76281980&t=50)** Open up [[Google]] sheets and we'll create a prioritization system that never gets tired, never gets biased, and never forgets to consider all the variables.
 >
 > **[1:00](https://www.linkedin.com/learning/building-a-time-management-mindset/automate-prioritization?u=76281980&t=60)** We will use four key variables that research shows matter most.
 >
@@ -1103,7 +1086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** set up (1)
@@ -1114,8 +1097,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement meta-time management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980)
+#### [Implement meta-time management](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1161,7 +1143,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980&t=88)** Remember the cognitive offloading stuff we talked about earlier?
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980&t=92)** Whether you're using OneNote or Google Keep, or any system to take notes, use that to also take notes of what sometimes goes wrong.
+> **[1:32](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980&t=92)** Whether you're using [[OneNote]] or [[Google]] Keep, or any system to take notes, use that to also take notes of what sometimes goes wrong.
 >
 > **[1:41](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980&t=101)** For instance, maybe you consistently schedule too little time for the gym or for a work event and so on.
 >
@@ -1195,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), ai (3), [[OneNote]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (1), [[Google]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** just like (1), for instance (1), think of it as (1)
 > **Cross-References:** we talked about (1)
@@ -1203,8 +1185,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - how (1)
 
-#### Use time management tools to form habits
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980)
+#### [Use time management tools to form habits](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=3)** The reason time management is easy for me and for many people I've coached is simply that I don't think about it.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=10)** For example, every morning at 8:00 AM, my Google Tasks automatically reminds me to check my schedule 30 days out.
+> **[0:10](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=10)** For example, every morning at 8:00 AM, my [[Google]] Tasks automatically reminds me to check my schedule 30 days out.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=18)** I don't have to remember to do this, it just happens.
 >
@@ -1242,7 +1223,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=69)** You can set this up in five minutes and it runs on autopilot forever.
 >
-> **[1:13](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=73)** Even simpler, both Android and iOS have built-in screen time controls you can schedule.
+> **[1:13](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=73)** Even simpler, both [[Android]] and iOS have built-in screen time controls you can schedule.
 >
 > **[1:20](https://www.linkedin.com/learning/building-a-time-management-mindset/use-time-management-tools-to-form-habits?u=76281980&t=80)** Now, here's something crucial.
 >
@@ -1282,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Google]] (2), [[Automation]] (2), game (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Android]] (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Ports:** :00 (2)
 > **Analogies:** for example (1), for instance (1)
@@ -1291,8 +1272,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - i (1)
 
-#### Beat the out-of-sight, out-of-mind effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980)
+#### [Beat the out-of-sight, out-of-mind effect](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1304,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=65)** That's right, your smartphone.
 >
-> **[1:07](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=67)** On both iPhone and Android, you can add what's called a home screen widget.
+> **[1:07](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=67)** On both iPhone and [[Android]], you can add what's called a home screen widget.
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=72)** These are like mini versions of your apps that stay visible right on your home screen.
 >
@@ -1334,9 +1314,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=88)** For computer users, here's another powerful trick: set up your time management apps to launch automatically when your computer starts.
 >
-> **[1:36](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=96)** If you're using browser-based tools like Google Calendar, pin those tabs so that they're always just one click away.
+> **[1:36](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=96)** If you're using browser-based tools like [[Google]] Calendar, pin those tabs so that they're always just one click away.
 >
-> **[1:43](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=103)** The same goes for apps like OneNote.
+> **[1:43](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=103)** The same goes for apps like [[OneNote]].
 >
 > **[1:45](https://www.linkedin.com/learning/building-a-time-management-mindset/beat-the-out-of-sight-out-of-mind-effect?u=76281980&t=105)** A quick online search will show you how to make them start up with your computer.
 >
@@ -1356,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Android]] (1), [[Google]] (1), [[OneNote]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Google]] (1), [[OneNote]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** it's like (1)
@@ -1364,8 +1344,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### Leverage your motivation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/leverage-your-motivation?u=76281980)
+#### [Leverage your motivation](https://www.linkedin.com/learning/building-a-time-management-mindset/leverage-your-motivation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1373,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-time-management-mindset/leverage-your-motivation?u=76281980&t=4)** It's not a coincidence.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-time-management-mindset/leverage-your-motivation?u=76281980&t=6)** They both come from the Latin word movere, which means to move.
+> **[0:06](https://www.linkedin.com/learning/building-a-time-management-mindset/leverage-your-motivation?u=76281980&t=6)** They both come from the Latin [[Microsoft Word|word]] movere, which means to move.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-time-management-mindset/leverage-your-motivation?u=76281980&t=11)** That's because motivation is not just about feeling inspired, it's about having a reason strong enough to move you into action.
 >
@@ -1463,7 +1442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Security]] (1), leadership (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** woop (1)
 > **Analogies:** think of it as (1)
@@ -1474,8 +1453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time management is a mirror
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/time-management-is-a-mirror?u=76281980)
+#### [Time management is a mirror](https://www.linkedin.com/learning/building-a-time-management-mindset/time-management-is-a-mirror?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,7 +1515,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - people (1)

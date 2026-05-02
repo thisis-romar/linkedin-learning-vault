@@ -42,7 +42,7 @@ Microsoft's cloud identity and access management service.
 4. [[Planning for Microsoft Entra ID]] — 149 mentions
 5. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 93 mentions
 6. [[Azure Administration Essential Training]] — 92 mentions
-7. [[Azure for Architects- Security and Identity Management with Microsoft Entra]] — 81 mentions
+7. [[Azure for Architects- Security and Identity Management with Microsoft Entra]] — 82 mentions
 8. [[Azure Networking and Security for Beginners- Tools and Services]] — 73 mentions
 9. [[Microsoft Azure- Security Concepts]] — 64 mentions
 10. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 56 mentions
@@ -55,8 +55,8 @@ Microsoft's cloud identity and access management service.
 > 15. [[Microservices- Security]] — 28 mentions
 > 16. [[Windows Server 2022 Essential Training]] — 25 mentions
 > 17. [[Azure Storage Essential Training (2021)]] — 23 mentions
-> 18. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 20 mentions
-> 19. [[Azure Understanding The Big Picture]] — 19 mentions
+> 18. [[Azure Understanding The Big Picture]] — 20 mentions
+> 19. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 20 mentions
 > 20. [[Manage Storage in Azure]] — 19 mentions
 > 21. [[Manage Virtual Machines in Azure]] — 15 mentions
 > 22. [[Microsoft 365 Teams Administrator Associate Cert Prep (MS-700)- Managing Collaboration Tools]] — 14 mentions
@@ -108,8 +108,8 @@ Microsoft's cloud identity and access management service.
 
 1. [[Advance Your Skills with Microsoft Entra ID]] — 590 total mentions
 2. [[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]] — 536 total mentions
-3. [[Identity and Access Management in Azure]] — 498 total mentions
-4. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 370 total mentions
+3. [[Identity and Access Management in Azure]] — 499 total mentions
+4. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 371 total mentions
 5. [[The Top Skills IT Professionals Have Right Now]] — 363 total mentions
 6. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 334 total mentions
 7. [[Explore a Career in IT Support]] — 251 total mentions

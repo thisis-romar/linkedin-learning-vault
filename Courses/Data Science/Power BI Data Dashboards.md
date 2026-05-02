@@ -104,16 +104,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building data dashboards in Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980)
+#### [Building data dashboards in Power BI](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980&t=0)** - Power BI is an extensive tool that allows users to interact with their analysis.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980&t=0)** - [[Microsoft Power BI|Power BI]] is an extensive tool that allows users to interact with their analysis.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980&t=5)** You can think of it in three layers: data, calculations, and visuals.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980&t=12)** This course focuses on the visuals layer by creating optimal Power BI dashboards.
+> **[0:12](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980&t=12)** This course focuses on the visuals layer by creating optimal Power BI [[Dashboards]].
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980&t=17)** Hi, I'm Helen Wall. I'm a Power Bi expert.
 >
@@ -125,40 +124,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (2), [[Dashboards]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Dashboards]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - power (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you'll want to already have a working knowledge of Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you'll want to already have a working knowledge of [[Microsoft Power BI|Power BI]].
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=5)** We'll use Power BI Desktop in this course and we'll also tap into the Power BI Service towards the end.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=11)** You'll want to either have the latest version of Power BI downloaded to your Windows computer or have access to a shared Power BI account in the cloud.
+> **[0:11](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=11)** You'll want to either have the latest version of Power BI downloaded to your [[Windows]] computer or have access to a shared Power BI account in the cloud.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=18)** I'm going to be using a Power BI Pro account for this course.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=22)** Your version of Power BI might look slightly different from mine because Microsoft updates the application every month.
+> **[0:22](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=22)** Your version of Power BI might look slightly different from mine because [[Microsoft]] updates the application every month.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=28)** It also would probably help to have a strong background in Excel and data analysis.
+> **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=28)** It also would probably help to have a strong background in [[Microsoft Excel|Excel]] and data analysis.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-data-dashboards/what-you-should-know?u=76281980&t=33)** With that, let's take a look at our project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (7), [[Windows]] (1), cloud (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7), [[Windows]] (1), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the Power BI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980)
+#### [Setting up the Power BI model](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=0)** - [Instructor] To explore how to build impactful Power BI models, we're going to create a project using real world data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=0)** - [Instructor] To explore how to build impactful [[Microsoft Power BI|Power BI]] models, we're going to create a project using real world data.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=6)** Our data for this project comes from several publicly accessible US government online data sources.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=44)** We're also going to use migration data from the IRS to visualize the movement of people between US states.
 >
-> **[0:52](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=52)** You can check out how I set up the data model in Power BI Desktop through Power Query and the Model View.
+> **[0:52](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=52)** You can check out how I set up the data model in Power BI Desktop through [[Microsoft Power Query|Power Query]] and the Model View.
 >
 > **[0:59](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=59)** We can see the data tables.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=71)** You can explore the steps to connect to the data sources and transform them within the Power Query editor.
 >
-> **[1:17](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=77)** The data's available in the GitHub repo for this course.
+> **[1:17](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=77)** The data's available in the [[GitHub]] repo for this course.
 >
 > **[1:20](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-the-power-bi-model?u=76281980&t=80)** You'll want to make sure to update your source step in each query to point it to the folder where you've saved or stored your data.
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), power (4), bi (4), [[Microsoft Power Query|Power query]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (2), [[GitHub]] (1)
 > **Exercise Files:** exercise files (2), github repo (1)
 > **Env Vars:** tiger (1), irs (1)
 > **CLI Commands:** make (1)
@@ -201,14 +198,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 
-#### Building the Power BI ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980)
+#### [Building the Power BI ecosystem](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980&t=0)** - [Instructor] This is what we'll be creating, a summary of the U.S. population trends across counties, metropolitan areas, and states over the last 50 years.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980&t=8)** These views in Power BI are technically reports, but I refer to them in this course as dashboards because we want them to be interactive.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980&t=8)** These views in [[Microsoft Power BI|Power BI]] are technically reports, but I refer to them in this course as [[Dashboards]] because we want them to be interactive.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-data-dashboards/building-the-power-bi-ecosystem?u=76281980&t=16)** The focus of this course is on the concept of dashboard design.
 >
@@ -242,20 +238,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (4), power (1), bi (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980)
+#### [Choosing colors](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980&t=0)** - [Instructor] Using color mindfully is a great way to create impactful visuals, dashboards, and reports for the end users who stand to gain the most from them.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980&t=0)** - [Instructor] Using color mindfully is a great way to create impactful visuals, [[Dashboards]], and reports for the end users who stand to gain the most from them.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980&t=8)** We can use color models to represent our colors within tools like Power BI.
+> **[0:08](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980&t=8)** We can use color models to represent our colors within tools like [[Microsoft Power BI|Power BI]].
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/choosing-colors?u=76281980&t=13)** There are a few different common color models that you might already be familiar with.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (9), data (2), [[Dashboards]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Dashboards]] (1)
 > **Env Vars:** rgb (4), cmyk (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -340,12 +335,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring table and matrix visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980)
+#### [Configuring table and matrix visuals](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=0)** - [Instructor] We often think of Power BI as the eye-catching data visualizations we see in marketing materials.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=0)** - [Instructor] We often think of [[Microsoft Power BI|Power BI]] as the eye-catching data visualizations we see in marketing materials.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=6)** However, behind these visuals, there's often a great deal of modeling and calculations we need to set up beforehand.
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=197)** This feature we find on matrix visuals is one of the reasons it's my favorite way to view tables.
 >
-> **[3:22](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=202)** It has a familiar feel to Excel pivot tables because it enables us to expand and collapse aggregated totals within each row.
+> **[3:22](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=202)** It has a familiar feel to [[Microsoft Excel|Excel]] [[Pivot Tables]] because it enables us to expand and collapse aggregated totals within each row.
 >
 > **[3:32](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980&t=212)** However, we're going to put the year in the columns instead so that we can see the accurate population totals for each state in chronological order within each row.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (6), data (6), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** in the menu (1)
@@ -439,12 +433,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-hierarchies?u=76281980)
+#### [Building hierarchies](https://www.linkedin.com/learning/power-bi-data-dashboards/building-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-hierarchies?u=76281980&t=0)** - [Instructor] Within Power BI hierarchies are structures that we create from related fields.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-hierarchies?u=76281980&t=0)** - [Instructor] Within [[Microsoft Power BI|Power BI]] hierarchies are structures that we create from related fields.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-data-dashboards/building-hierarchies?u=76281980&t=4)** They create vertical drill downs for multiple related layers and they enable more scalable models for other developers and designers to work with.
 >
@@ -502,24 +495,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1), later in (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating lists and bins
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980)
+#### [Creating lists and bins](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=0)** - [Instructor] While hierarchies let us structure data vertically, Power BI groups let us structure data more in a horizontal fashion across the values within a field.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=0)** - [Instructor] While hierarchies let us structure data vertically, [[Microsoft Power BI|Power BI]] groups let us structure data more in a horizontal fashion across the values within a field.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=9)** We can create groups in the form of lists or bins, for example.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=14)** Power BI has a built-in functionality to create groups in a few different group types.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=19)** Let's first choose the state field to add a new group to it for the West Coast states versus the rest of the US.
+> **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=19)** Let's first choose the state field to add a new group to it for the West Coast states versus the [[Representational State Transfer (REST)|rest]] of the US.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-lists-and-bins?u=76281980&t=26)** Like creating a hierarchy, we access it through the ellipsis menu next to the field name.
 >
@@ -603,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (5), bi (5), next (4), [[Representational State Transfer (REST)|Rest]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Representational State Transfer (REST)|Rest]] (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), dropdown (1), select the (1)
 > **Cross-References:** in the next (1)
@@ -611,12 +603,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980)
+#### [Applying filters](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=0)** - [Host] One of the challenges in working with Power BI models is getting the data set in a way that we can repeatedly use it in other parts of the model to get consistent results.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=0)** - [Host] One of the challenges in working with [[Microsoft Power BI|Power BI]] models is getting the data set in a way that we can repeatedly use it in other parts of the model to get consistent results.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=9)** One of the ways in which we set up data models efficiently is through the use of filters.
 >
@@ -624,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=22)** If we want to apply a static filter to a visual like our matrix table, we can do so through the filter pane by selecting the visual we want to filter.
 >
-> **[0:31](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=31)** Let's choose to select the basic filtering options to remove these two states from the selected values list but we'll keep the rest of the states which automatically update in the visual.
+> **[0:31](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=31)** Let's choose to select the basic filtering options to remove these two states from the selected values list but we'll keep the [[Representational State Transfer (REST)|rest]] of the states which automatically update in the visual.
 >
 > **[0:43](https://www.linkedin.com/learning/power-bi-data-dashboards/applying-filters?u=76281980&t=43)** We'll use select all to include all the states and then we'll remove Alaska and Hawaii manually.
 >
@@ -678,18 +669,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (4), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** dropdown (4), select the (2), open the (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [host] (1)
 
-#### Building and using DAX formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-and-using-dax-formulas?u=76281980)
+#### [Building and using DAX formulas](https://www.linkedin.com/learning/power-bi-data-dashboards/building-and-using-dax-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-and-using-dax-formulas?u=76281980&t=0)** - [Instructor] Using data analysis expressions, or DAX for short in Power BI is really important, but the otherwise simple syntax belies logic that's a bit trickier to understand.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/building-and-using-dax-formulas?u=76281980&t=0)** - [Instructor] Using data analysis expressions, or [[DAX]] for short in [[Microsoft Power BI|Power BI]] is really important, but the otherwise simple syntax belies logic that's a bit trickier to understand.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/building-and-using-dax-formulas?u=76281980&t=10)** If you have a background in programming, you'll likely know firsthand the importance of testing results step-by-step along the way to make sure they work.
 >
@@ -773,19 +763,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (13), data (10), power (2), bi (2), next (2)
+> **Frameworks & Libraries:** [[DAX]] (13), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** dax (12)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** set up (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using quick measures formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/using-quick-measures-formulas?u=76281980)
+#### [Using quick measures formulas](https://www.linkedin.com/learning/power-bi-data-dashboards/using-quick-measures-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/using-quick-measures-formulas?u=76281980&t=0)** - [Instructor] If we specify the type of calculation we want to do and the fields we want to use, Power BI can create our DAX measures for us using the built-in quick measure options.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/using-quick-measures-formulas?u=76281980&t=0)** - [Instructor] If we specify the type of calculation we want to do and the fields we want to use, [[Microsoft Power BI|Power BI]] can create our [[DAX]] measures for us using the built-in quick measure options.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/using-quick-measures-formulas?u=76281980&t=10)** In our existing Power BI desktop model, let's add a measure to our existing calculations measure group to determine the average population change from 2017 to 2022 across the entire US.
 >
@@ -875,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (9), power (4), bi (4), next (1), data (1)
+> **Frameworks & Libraries:** [[DAX]] (9), [[Microsoft Power BI|Power bi]] (4)
 > **Env Vars:** dax (9)
 > **CLI Commands:** make (2)
 > **Versions:** 2.55 (1), 2.5 (1)
@@ -884,8 +873,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 
-#### Formatting visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980)
+#### [Formatting visuals](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=31)** If we select visual, we can explore its formatting options, in the formatting pane.
 >
-> **[0:37](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=37)** There are two tabs in this version of Power BI that I'm using.
+> **[0:37](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=37)** There are two tabs in this version of [[Microsoft Power BI|Power BI]] that I'm using.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=41)** The first tab is for visual specific formatting and the second one is for formatting, that's typically available for all Power BI visuals.
 >
@@ -917,7 +905,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=84)** For example, we can increase the font size, to make it easier to read.
 >
-> **[1:29](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=89)** By default, a lot of the Power BI visuals use DIN font, but I prefer something that's a bit lighter, like Calibri, which is the default font for Excel formulas.
+> **[1:29](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=89)** By default, a lot of the Power BI visuals use DIN font, but I prefer something that's a bit lighter, like Calibri, which is the default font for [[Microsoft Excel|Excel]] formulas.
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=100)** Next let's explores formatting options, specific for the visuals themselves.
 >
@@ -947,18 +935,17 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=194)** Let's add a card visual, with the most recent US population, to show how the formatting options differ.
 >
-> **[3:21](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=201)** We can adjust the data label font, so it's smaller and uses a different font, to make it more balanced and in line with the rest of the labels on the page.
+> **[3:21](https://www.linkedin.com/learning/power-bi-data-dashboards/formatting-visuals?u=76281980&t=201)** We can adjust the data label font, so it's smaller and uses a different font, to make it more balanced and in line with the [[Representational State Transfer (REST)|rest]] of the labels on the page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), generic (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Env Vars:** din (1)
 > **Speakers:** - [presenter] (1)
 
-#### Adding color gradients to heatmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980)
+#### [Adding color gradients to heatmaps](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=26)** This is what's called color contrast.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=30)** So in Power BI, lets strategically add colors to our visuals to illustrate key trends by drawing the end user's eyes to important areas of analysis.
+> **[0:30](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=30)** So in [[Microsoft Power BI|Power BI]], lets strategically add colors to our visuals to illustrate key trends by drawing the end user's eyes to important areas of analysis.
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=39)** Let's add colors to our population table so we can see which states of the highest populations and which ones are growing at the highest rates.
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=86)** After we select the table, let's choose the background formatting options in the Formatting menu.
 >
-> **[1:35](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=95)** I personally prefer to format the background colors if I can because they stand up more against the rest of the visualization.
+> **[1:35](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=95)** I personally prefer to format the background colors if I can because they stand up more against the [[Representational State Transfer (REST)|rest]] of the visualization.
 >
 > **[1:42](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-color-gradients-to-heatmaps?u=76281980&t=102)** To do this, we turn the background color on and we'll make sure to turn the font color off.
 >
@@ -1046,23 +1033,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** select the (1), click on (1)
 > **Analogies:** for example (2)
 > **Best Practices:** make sure to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing report themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980)
+#### [Utilizing report themes](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=0)** - [Instructor] So far, we've formatted the visuals manually, but if you're thinking, "This takes way too long, and I don't have the time or patience," fortunately, there's a solution at hand.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=10)** Report themes in Power BI, let us scale font settings, color, sizes and other formatting elements across reports within an organization.
+> **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=10)** Report themes in [[Microsoft Power BI|Power BI]], let us scale font settings, color, sizes and other formatting elements across reports within an organization.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=19)** They use a JSON file format to store these elements.
+> **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=19)** They use a [[JSON]] file format to store these elements.
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=22)** You don't have to know how to set these up, but rather I'd recommend you know how to read them on a high level and edit them.
 >
@@ -1082,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=58)** If you're worried about formatting, an IDE like Visual Studio can help.
 >
-> **[1:04](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=64)** You can check out Microsoft's specific documentation on report themes if you're trying to add something specific.
+> **[1:04](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=64)** You can check out [[Microsoft]]'s specific documentation on report themes if you're trying to add something specific.
 >
 > **[1:10](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-report-themes?u=76281980&t=70)** We can import our custom report theme into Power BI by selecting the option to switch the theme in the top ribbon.
 >
@@ -1098,7 +1084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), [[JSON]] (4), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[JSON]] (4), [[Microsoft]] (1)
 > **Env Vars:** json (4), ide (1)
 > **CLI Commands:** make (4)
 > **Tools:** visual studio (1)
@@ -1112,18 +1098,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing time-intelligence trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980)
+#### [Visualizing time-intelligence trends](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=0)** - [Instructor] You might be wondering why I focused on tables, calculations, and formatting in the previous chapter.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=6)** The reason is not that visuals are less important than those topics, but rather, if we don't have strong data models, correct calculations, and formatting that makes our Power BI model usable, we won't be able to create impactful data visualizations.
+> **[0:06](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=6)** The reason is not that visuals are less important than those topics, but rather, if we don't have strong data models, correct calculations, and formatting that makes our [[Microsoft Power BI|Power BI]] model usable, we won't be able to create impactful data visualizations.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=20)** This chapter focuses on some of the core visuals that I use the most in my own work.
 >
-> **[0:25](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=25)** We can take those tables with the DAX measure calculations we set up in the previous chapter and use them to visualize time series models, for example.
+> **[0:25](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=25)** We can take those tables with the [[DAX]] measure calculations we set up in the previous chapter and use them to visualize time series models, for example.
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980&t=34)** Let's take our US population numbers by year and put them in a line chart on a new time intelligence page of their own.
 >
@@ -1179,7 +1164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), bi (2), [[DAX]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous chapter (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1188,14 +1173,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 
-#### Using column charts to visualize trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980)
+#### [Using column charts to visualize trends](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=0)** - [Instructor] Now let's compare the line charts to other charts that work with time intelligence.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=5)** There are quite a few of these type of charts built into the standard visual offerings within Power BI and each have their own strengths and drawbacks.
+> **[0:05](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=5)** There are quite a few of these type of charts built into the standard visual offerings within [[Microsoft Power BI|Power BI]] and each have their own strengths and drawbacks.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=13)** The type of chart we select often really depends on what the end user is looking to learn from the visual, especially in tandem with other visuals.
 >
@@ -1251,7 +1235,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=191)** West Virginia, for example, shows population growth rates that are going in a different direction.
 >
-> **[3:17](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=197)** There are other charts we can explore for time series analysis like a ribbon chart.
+> **[3:17](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=197)** There are other charts we can explore for [[Time Series Analysis]] like a ribbon chart.
 >
 > **[3:22](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=202)** Let's create a ribbon chart using the same fields we see on our existing time series visuals.
 >
@@ -1269,7 +1253,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=258)** We can see Florida moved up in population rankings at an impressive speed.
 >
-> **[4:24](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=264)** The rest of the ribbons below could probably be consolidated or even use the same color to avoid confusion.
+> **[4:24](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=264)** The [[Representational State Transfer (REST)|rest]] of the ribbons below could probably be consolidated or even use the same color to avoid confusion.
 >
 > **[4:30](https://www.linkedin.com/learning/power-bi-data-dashboards/using-column-charts-to-visualize-trends?u=76281980&t=270)** I wouldn't necessarily use these colors myself in the final Power BI model, but I think the colors on the ribbon chart show how rankings between categories, in this case, states, progress or change over time.
 >
@@ -1283,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (2), strengths (1), [[Time Series Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Time Series Analysis]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (5)
 > **Cross-References:** previous chapter (1), in the last (1), later in (1)
 > **CLI Commands:** find (1), make (1)
@@ -1291,8 +1275,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ranking categorical totals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/ranking-categorical-totals?u=76281980)
+#### [Ranking categorical totals](https://www.linkedin.com/learning/power-bi-data-dashboards/ranking-categorical-totals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/power-bi-data-dashboards/ranking-categorical-totals?u=76281980&t=52)** We see the visual immediately looks better.
 >
-> **[0:54](https://www.linkedin.com/learning/power-bi-data-dashboards/ranking-categorical-totals?u=76281980&t=54)** While Power BI delineates between bar and column chart options, a lot of visualization tools don't.
+> **[0:54](https://www.linkedin.com/learning/power-bi-data-dashboards/ranking-categorical-totals?u=76281980&t=54)** While [[Microsoft Power BI|Power BI]] delineates between bar and column chart options, a lot of visualization tools don't.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-data-dashboards/ranking-categorical-totals?u=76281980&t=60)** They just delineate between the orientations of the chart.
 >
@@ -1394,15 +1377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (3), bi (3), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/comparing-proportions?u=76281980)
+#### [Comparing proportions](https://www.linkedin.com/learning/power-bi-data-dashboards/comparing-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1412,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-dashboards/comparing-proportions?u=76281980&t=81)** While it takes away our ability to visualize the actual proportions, the even bar totals of 100% emphasize that we're analyzing a proportion.
 >
-> **[1:31](https://www.linkedin.com/learning/power-bi-data-dashboards/comparing-proportions?u=76281980&t=91)** We can see how the proportion of people living in the western most United States stack up with the rest of the U.S. population even as those populations grow over time.
+> **[1:31](https://www.linkedin.com/learning/power-bi-data-dashboards/comparing-proportions?u=76281980&t=91)** We can see how the proportion of people living in the western most United States stack up with the [[Representational State Transfer (REST)|rest]] of the U.S. population even as those populations grow over time.
 >
 > **[1:41](https://www.linkedin.com/learning/power-bi-data-dashboards/comparing-proportions?u=76281980&t=101)** Now, what if we wanted to visualize the distribution of people living in various geographical areas with the most recent population numbers?
 >
@@ -1446,12 +1428,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980)
+#### [Setting up histograms](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,7 +1448,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=43)** Let's use the most recent population measure for the population numbers.
 >
-> **[0:48](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=48)** For the most recent county distribution numbers, let's copy the most recent population measure as a new DAX measure that will focus on the count.
+> **[0:48](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=48)** For the most recent county distribution numbers, let's copy the most recent population measure as a new [[DAX]] measure that will focus on the count.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=60)** We're filtering the data over the same time range in the most recent year.
 >
@@ -1481,7 +1462,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=91)** Once we calculate these numbers, let's convert them into histogram visuals.
 >
-> **[1:35](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=95)** While there is a histogram custom visual from the App Store store, I prefer to create my own histogram visual using the standard Power BI visuals.
+> **[1:35](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=95)** While there is a histogram custom visual from the App Store store, I prefer to create my own histogram visual using the standard [[Microsoft Power BI|Power BI]] visuals.
 >
 > **[1:44](https://www.linkedin.com/learning/power-bi-data-dashboards/setting-up-histograms?u=76281980&t=104)** We'll select to create a new stacked column chart.
 >
@@ -1503,15 +1484,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (1), data (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[DAX]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** dax (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980)
+#### [Utilizing scatter plots](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,7 +1511,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=63)** Let's calculate a new measure for our scatter plot.
 >
-> **[1:06](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=66)** We want to calculate the population, specifically for the year 2021, which we can do by taking the DAX measure formula for the 2022 population numbers and updating the year conditions so it equals 2021.
+> **[1:06](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=66)** We want to calculate the population, specifically for the year 2021, which we can do by taking the [[DAX]] measure formula for the 2022 population numbers and updating the year conditions so it equals 2021.
 >
 > **[1:24](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=84)** Now let's create a scatter plot with the total migration numbers on the X-axis as an independent variable and the total population for 2021 after migration as the dependent variable on the Y-axis.
 >
@@ -1541,7 +1521,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=117)** We're putting the population on the Y-axis here because it's a number that's partially dependent on the migration of people into the state for the year.
 >
-> **[2:04](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=124)** We only see a single point displayed on the scatter plot right now though, this is because Power BI only sees the granularity on the aggregated US level.
+> **[2:04](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=124)** We only see a single point displayed on the scatter plot right now though, this is because [[Microsoft Power BI|Power BI]] only sees the granularity on the aggregated US level.
 >
 > **[2:13](https://www.linkedin.com/learning/power-bi-data-dashboards/utilizing-scatter-plots?u=76281980&t=133)** In order to split out the data points we need to add another field to the visual.
 >
@@ -1577,7 +1557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[DAX]] (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[DAX]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** dax (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1585,12 +1565,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Visualizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-visualizing-data?u=76281980)
+#### [Challenge: Visualizing data](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-visualizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-visualizing-data?u=76281980&t=0)** - [Instructor] Now you'll have a chance to try out your knowledge about Power BI in a project on your own.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-visualizing-data?u=76281980&t=0)** - [Instructor] Now you'll have a chance to try out your knowledge about [[Microsoft Power BI|Power BI]] in a project on your own.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-visualizing-data?u=76281980&t=10)** You're going to use another useful data source from the US government, this time coming from the Department of Transportation.
 >
@@ -1606,13 +1585,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Visualizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980)
+#### [Solution: Visualizing data](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,7 +1602,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=13)** Let's first create a categorical bar chart to show the most popular international destinations for overall passenger numbers.
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=21)** I already included a passengers stack measure in the model if you would like to use it in your own Power BI report.
+> **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=21)** I already included a passengers stack measure in the model if you would like to use it in your own [[Microsoft Power BI|Power BI]] report.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=28)** We can see that Canada and Mexico are the top two destinations, and their overall passenger totals are very similar.
 >
@@ -1634,7 +1612,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=48)** We'll add the date hierarchy to the x-axis.
 >
-> **[0:51](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=51)** For the sake of simplicity, let's analyze the time series trends by year so we'll remove the rest of the date hierarchy components.
+> **[0:51](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=51)** For the sake of simplicity, let's analyze the time series trends by year so we'll remove the [[Representational State Transfer (REST)|rest]] of the date hierarchy components.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-visualizing-data?u=76281980&t=60)** We'll then add the destination country to the legend.
 >
@@ -1662,7 +1640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1671,12 +1649,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analytics options: Reference, trend, and forecast lines
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980)
+#### [Analytics options: Reference, trend, and forecast lines](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=0)** - [Instructor] The analytic options for a Power BI visual enable us to add elements like reference lines, trend lines, and forecast lines.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=0)** - [Instructor] The analytic options for a [[Microsoft Power BI|Power BI]] visual enable us to add elements like reference lines, trend lines, and forecast lines.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=8)** The available options depend on the visual that we're looking to add these analytics to.
 >
@@ -1696,7 +1673,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=65)** We can choose to add a trend line to show the overall direction over time.
 >
-> **[1:10](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=70)** This line uses linear regression to fit a line amongst the data points.
+> **[1:10](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=70)** This line uses [[Linear Regression]] to fit a line amongst the data points.
 >
 > **[1:14](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=74)** The US population trends up over time but adding a trend line enables us to see what the smooth trend looks like.
 >
@@ -1704,7 +1681,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=95)** If we change the selected state, we see the trend line changes accordingly as well but the y-axis constant line stays the same.
 >
-> **[1:49](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=109)** Another option we can add within the analytics pane is forecasting.
+> **[1:49](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=109)** Another option we can add within the analytics pane is [[Forecasting]].
 >
 > **[1:53](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980&t=113)** The forecasting model uses past data points to make predictions about future ones.
 >
@@ -1724,12 +1701,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Forecasting]] (6), power (5), bi (5), [[Analytics]] (4)
+> **Frameworks & Libraries:** [[Forecasting]] (6), [[Microsoft Power BI|Power bi]] (5), [[Linear Regression]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### Creating sparklines to quickly view trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-sparklines-to-quickly-view-trends?u=76281980)
+#### [Creating sparklines to quickly view trends](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-sparklines-to-quickly-view-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,7 +1713,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-sparklines-to-quickly-view-trends?u=76281980&t=10)** The trick to creating effective sparklines is to remove most, if not all, the chart labels to push attention away from the detailed analysis, and focus on the high level trends.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-sparklines-to-quickly-view-trends?u=76281980&t=23)** In Power BI, we can import sparklines as a custom visual, or we can tap into the built-in sparkline capabilities within the application.
+> **[0:23](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-sparklines-to-quickly-view-trends?u=76281980&t=23)** In [[Microsoft Power BI|Power BI]], we can import sparklines as a custom visual, or we can tap into the built-in sparkline capabilities within the application.
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-sparklines-to-quickly-view-trends?u=76281980&t=31)** Depending on your version of Power BI sparklines might be in preview feature mode.
 >
@@ -1769,13 +1745,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2), bi (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** click on (1), open the (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging box plots and violin plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/leveraging-box-plots-and-violin-plots?u=76281980)
+#### [Leveraging box plots and violin plots](https://www.linkedin.com/learning/power-bi-data-dashboards/leveraging-box-plots-and-violin-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1785,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/leveraging-box-plots-and-violin-plots?u=76281980&t=13)** Another similar plot that we can use for analyzing distribution of values is the violin plot.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/leveraging-box-plots-and-violin-plots?u=76281980&t=19)** The violin plot is a custom visual that will download through the Power BI App Source store.
+> **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/leveraging-box-plots-and-violin-plots?u=76281980&t=19)** The violin plot is a custom visual that will download through the [[Microsoft Power BI|Power BI]] App Source store.
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-data-dashboards/leveraging-box-plots-and-violin-plots?u=76281980&t=29)** Violin plot that has readily analyzed data sets on a high level.
 >
@@ -1821,19 +1796,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing flows with Sankey charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-flows-with-sankey-charts?u=76281980)
+#### [Visualizing flows with Sankey charts](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-flows-with-sankey-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-flows-with-sankey-charts?u=76281980&t=0)** - [Instructor] One way we can visualize a flow diagram is with weighted paths using the Sankey chart named after an Irish captain and engineer.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-flows-with-sankey-charts?u=76281980&t=7)** In Power BI, let's use a Sankey diagram to visualize the sales pipeline for a company.
+> **[0:07](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-flows-with-sankey-charts?u=76281980&t=7)** In [[Microsoft Power BI|Power BI]], let's use a Sankey diagram to visualize the sales pipeline for a company.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-flows-with-sankey-charts?u=76281980&t=13)** First then, we need to import the Sankey visual, which we'll do so through the Power BI AppSource store.
 >
@@ -1895,14 +1869,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (2), web (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Examining key performance indicators (KPIs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/examining-key-performance-indicators-kpis?u=76281980)
+#### [Examining key performance indicators (KPIs)](https://www.linkedin.com/learning/power-bi-data-dashboards/examining-key-performance-indicators-kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1916,7 +1889,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-data-dashboards/examining-key-performance-indicators-kpis?u=76281980&t=27)** If this was sales or profit, this means that we're making more than we predicted we would make in our budget.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-data-dashboards/examining-key-performance-indicators-kpis?u=76281980&t=33)** There are numerous KPI visual options and Power BI, including custom and standard visuals that we can leverage depending on the type of data and analysis we're performing.
+> **[0:33](https://www.linkedin.com/learning/power-bi-data-dashboards/examining-key-performance-indicators-kpis?u=76281980&t=33)** There are numerous KPI visual options and [[Microsoft Power BI|Power BI]], including custom and standard visuals that we can leverage depending on the type of data and analysis we're performing.
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-data-dashboards/examining-key-performance-indicators-kpis?u=76281980&t=42)** Let's add the standard KPI visual to the page.
 >
@@ -1948,15 +1921,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** kpi (4)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Analyzing multiple variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-analyzing-multiple-variables?u=76281980)
+#### [Challenge: Analyzing multiple variables](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-analyzing-multiple-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,18 +1944,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Analyzing multiple variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980)
+#### [Solution: Analyzing multiple variables](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=0)** - [Instructor] To model the forecast in Power BI, let's create a line chart for the total outbound US passengers traveling to other countries by air, but on a monthly basis.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=0)** - [Instructor] To model the forecast in [[Microsoft Power BI|Power BI]], let's create a line chart for the total outbound US passengers traveling to other countries by air, but on a monthly basis.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=21)** One thing that immediately jumps out for me when I look at this chart is how much travel fell on its otherwise predictable path in the spring of 2020 with the arrival of the pandemic.
 >
@@ -2001,7 +1971,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=64)** I'm going to set it to 12 months.
 >
-> **[1:07](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=67)** Notice we see it's a flat line because the months leading up to the point at which we're forecasting the data were incredibly volatile.
+> **[1:07](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=67)** Notice we see it's a flat line because the months leading up to the point at which we're [[Forecasting]] the data were incredibly volatile.
 >
 > **[1:15](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-analyzing-multiple-variables?u=76281980&t=75)** So instead, in the forecast, let's choose to ignore the last 35 periods of the model.
 >
@@ -2023,7 +1993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), [[Forecasting]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Forecasting]] (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2032,8 +2002,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring map options
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980)
+#### [Exploring map options](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,13 +2016,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=34)** We can find geographical shapes for the world, country, US states, and so on.
 >
-> **[0:41](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=41)** Let's first make the US state and county fields geographical data categories within our Power BI model.
+> **[0:41](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=41)** Let's first make the US state and county fields geographical data categories within our [[Microsoft Power BI|Power BI]] model.
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=50)** (mouse clicking)
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=63)** Now let's visualize our US state populations in a few ways.
 >
-> **[1:06](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=66)** Let's create an Azure Map visual first with the states' locations.
+> **[1:06](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=66)** Let's create an [[Microsoft Azure|Azure]] Map visual first with the states' locations.
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=73)** To use Maps in Power BI make sure to first enable them in your tenant settings.
 >
@@ -2065,7 +2034,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=93)** (mouse clicking) We can see that California has the largest bubble size because it has the biggest population.
 >
-> **[1:43](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=103)** If we zoom into the map, we can see the exact location of Carpinteria.
+> **[1:43](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=103)** If we [[Zoom]] into the map, we can see the exact location of Carpinteria.
 >
 > **[1:47](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980&t=107)** (mouse clicking) We can also represent states using a filled map where we'll use color instead of bubble size to represent magnitude.
 >
@@ -2083,18 +2052,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (1), [[Microsoft Azure|Azure]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Azure|Azure]] (1), [[Zoom]] (1)
 > **Non-Speech:** (mouse clicking) (7)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shape map visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980)
+#### [Shape map visual](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=0)** - [Instructor] We might have our own custom maps we want to use in a Power BI map visual.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=0)** - [Instructor] We might have our own custom maps we want to use in a [[Microsoft Power BI|Power BI]] map visual.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=5)** We can get these maps from a number of places, like the US Census.
 >
@@ -2148,7 +2116,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=159)** If we check our keys for the CBSAFP against the CMSA keys we added to the location, they actually match.
 >
-> **[2:48](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=168)** In order to get them to work, we need to go back into the Power Query editor and change the data type for the CMSA key to text instead of a number as the ID.
+> **[2:48](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=168)** In order to get them to work, we need to go back into the [[Microsoft Power Query|Power Query]] editor and change the data type for the CMSA key to text instead of a number as the ID.
 >
 > **[3:07](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=187)** Let's also replace the Los Angeles CMSA code with its updated value.
 >
@@ -2166,7 +2134,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=261)** We see that areas like Los Angeles have the darkest blue because they're the most populated.
 >
-> **[4:29](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=269)** The Azure map visual supports custom geographical layers as well.
+> **[4:29](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=269)** The [[Microsoft Azure|Azure]] map visual supports custom geographical layers as well.
 >
 > **[4:33](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=273)** To add the metropolitan areas to our existing bubble map, we can go to the formatting options.
 >
@@ -2176,11 +2144,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=292)** For example, we can also add demographic layers, like income and age, to our existing geography.
 >
-> **[5:05](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=305)** The really neat thing about these layers is that, as we zoom in and out of the sections of the map, the average household income demographic layer changes from state layers down to county, and we can even see it go down to zip code.
+> **[5:05](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual-22684633?u=76281980&t=305)** The really neat thing about these layers is that, as we [[Zoom]] in and out of the sections of the map, the average household income demographic layer changes from state layers down to county, and we can even see it go down to zip code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (4), [[Microsoft Power Query|Power query]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (1), [[Microsoft Azure|Azure]] (1), [[Zoom]] (1)
 > **Env Vars:** cmsa (4), usa (1), cbsafp (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Analogies:** such as (1), for example (1)
@@ -2188,8 +2156,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drilling through map levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/drilling-through-map-levels?u=76281980)
+#### [Drilling through map levels](https://www.linkedin.com/learning/power-bi-data-dashboards/drilling-through-map-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2197,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-data-dashboards/drilling-through-map-levels?u=76281980&t=4)** We saw a glimpse of this earlier in the chapter when we added demographic layers to the ARGUS Map visual to utilize ESRI data on the state, county, and zip code layer, for example.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-data-dashboards/drilling-through-map-levels?u=76281980&t=15)** We can create layers by adding geographical hierarchies to an Azure Map visual.
+> **[0:15](https://www.linkedin.com/learning/power-bi-data-dashboards/drilling-through-map-levels?u=76281980&t=15)** We can create layers by adding geographical hierarchies to an [[Microsoft Azure|Azure]] Map visual.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/drilling-through-map-levels?u=76281980&t=21)** (mouse clicking) We'll put the most recent population measure as the size again.
 >
@@ -2259,7 +2226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** argus (1), esri (1), map (1)
 > **Non-Speech:** (mouse clicking) (3)
 > **CLI Commands:** make (2)
@@ -2268,8 +2235,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping flow patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/mapping-flow-patterns?u=76281980)
+#### [Mapping flow patterns](https://www.linkedin.com/learning/power-bi-data-dashboards/mapping-flow-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,7 +2263,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/power-bi-data-dashboards/mapping-flow-patterns?u=76281980&t=82)** To visualize the immigration and emigration numbers between each state, let's add a field to the width.
 >
-> **[1:28](https://www.linkedin.com/learning/power-bi-data-dashboards/mapping-flow-patterns?u=76281980&t=88)** There are limitations for the numbers we can use for the flow map width, so let's create a DAX measure called migration total with the totals from the migration table to make calculations for the width more efficient.
+> **[1:28](https://www.linkedin.com/learning/power-bi-data-dashboards/mapping-flow-patterns?u=76281980&t=88)** There are limitations for the numbers we can use for the flow map width, so let's create a [[DAX]] measure called migration total with the totals from the migration table to make calculations for the width more efficient.
 >
 > **[1:45](https://www.linkedin.com/learning/power-bi-data-dashboards/mapping-flow-patterns?u=76281980&t=105)** Let's add the new measure to the width.
 >
@@ -2323,14 +2289,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[DAX]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dax (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Map visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-map-visuals?u=76281980)
+#### [Challenge: Map visuals](https://www.linkedin.com/learning/power-bi-data-dashboards/challenge-map-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2347,8 +2312,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Map visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980)
+#### [Solution: Map visuals](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2360,7 +2324,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=21)** However, I really like the idea of using a flow map to represent the actual journeys of travelers around the world.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=28)** Let's first import the flow map into our Power BI model.
+> **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=28)** Let's first import the flow map into our [[Microsoft Power BI|Power BI]] model.
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=36)** Your model visuals might look slightly different from mine so far, and that's absolutely okay.
 >
@@ -2376,7 +2340,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=67)** We can see where people are traveling to from the U.S.
 >
-> **[1:12](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=72)** Let's visualize not just the flight paths, but also the passenger volume by adding the existing passenger DAX measure to the width.
+> **[1:12](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=72)** Let's visualize not just the flight paths, but also the passenger volume by adding the existing passenger [[DAX]] measure to the width.
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-data-dashboards/solution-map-visuals?u=76281980&t=81)** The path size still looks the same, so let's make some adjustments in the formatting.
 >
@@ -2394,7 +2358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[DAX]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dax (1)
 > **Cross-References:** as we saw (1)
@@ -2406,8 +2370,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Customing tooltips
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980)
+#### [Customing tooltips](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2415,13 +2378,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=11)** Now let's put it all together.
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=13)** Before we make decisions about what visuals to include or exclude on our dashboards, let's explore some neat functionalities we can tap into.
+> **[0:13](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=13)** Before we make decisions about what visuals to include or exclude on our [[Dashboards]], let's explore some neat functionalities we can tap into.
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=22)** Let's try out one of my favorite tricks for tool tips.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=26)** Right now, when we hover over a bar in this stacked bar chart, it displays a tooltip consisting of the data labels and their related values.
 >
-> **[0:36](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=36)** Tool tips are what I call third dimensions of Power BI.
+> **[0:36](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=36)** Tool tips are what I call third dimensions of [[Microsoft Power BI|Power BI]].
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980&t=39)** They enable us to see more data points and details than would otherwise be available on the screen.
 >
@@ -2487,25 +2450,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), bi (2), [[Dashboards]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [presenter] (1)
 
-#### Configuring chiclet slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980)
+#### [Configuring chiclet slicers](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=0)** - [Host] Images can make dashboards more appealing and interesting to look at.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=0)** - [Host] Images can make [[Dashboards]] more appealing and interesting to look at.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=4)** Allow us to integrate logos or icons associated with our organization and give end users more ownership in the analysis they're doing.
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=12)** We can use images for data points and this includes using images and slicers.
 >
-> **[0:18](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=18)** First, that we need to connect to the image data in Power Query.
+> **[0:18](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=18)** First, that we need to connect to the image data in [[Microsoft Power Query|Power Query]].
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=21)** We're not going to walk through this process ourselves but I encourage you to take a look at the steps in the exercise files to replicate them in your own Power BI models.
+> **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=21)** We're not going to walk through this process ourselves but I encourage you to take a look at the steps in the exercise files to replicate them in your own [[Microsoft Power BI|Power BI]] models.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=30)** Here are the key steps to bringing image data points into Power BI.
 >
@@ -2513,7 +2475,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=38)** If you're looking at the image sizes that surround 20 kilobytes or less but I often find it depends on the amount of details in the image itself.
 >
-> **[0:46](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=46)** If your images are larger, you can resize them using a myriad of tools but I found Microsoft Paint to be the easiest approach for resizing, just a few of them quickly.
+> **[0:46](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=46)** If your images are larger, you can resize them using a myriad of tools but I found [[Microsoft]] Paint to be the easiest approach for resizing, just a few of them quickly.
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-chiclet-slicers?u=76281980&t=57)** And Power Query, we then connect to a folder containing these thumbnail images.
 >
@@ -2563,7 +2525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (3), bi (3), [[Microsoft Power Query|Power query]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Power Query|Power query]] (2), [[Dashboards]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** url (3), jpeg (2)
 > **Best Practices:** make sure to (1), remember to (1)
@@ -2571,8 +2533,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [host] (1)
 
-#### Displaying Top N rankings
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980)
+#### [Displaying Top N rankings](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2582,7 +2543,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=10)** Earlier in this course, we explored how to use field parameters to choose the geographical field on a visual axis.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=16)** On a high level, to set up numeric parameters in Power BI, we first need to create our modeling parameter and we then need to use it to control a connected calculation.
+> **[0:16](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=16)** On a high level, to set up numeric parameters in [[Microsoft Power BI|Power BI]], we first need to create our modeling parameter and we then need to use it to control a connected calculation.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=28)** I already copied the shape map visual to a new page for the United States populations.
 >
@@ -2590,7 +2551,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=35)** If we count the number of states, it's not actually 50 but 51 when we include Washington, D.C., so let's create a parameter for a numeric range between one and 51 that we'll call Top N Rankings.
 >
-> **[0:56](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=56)** Next, let's create DAX measures to connect to this formula.
+> **[0:56](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=56)** Next, let's create [[DAX]] measures to connect to this formula.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-data-dashboards/displaying-top-n-rankings?u=76281980&t=60)** We'll first calculate the ranking for each US state from their latest population, using the RANKX DAX function with the ALL function as the first parameter to expand the calculation context across all the states.
 >
@@ -2624,7 +2585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), [[DAX]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[DAX]] (2)
 > **Env Vars:** dax (2), rankx (1)
 > **Prerequisites:** set up (2)
 > **File Paths:** d.c (1)
@@ -2633,12 +2594,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Syncing slicers between pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/syncing-slicers-between-pages?u=76281980)
+#### [Syncing slicers between pages](https://www.linkedin.com/learning/power-bi-data-dashboards/syncing-slicers-between-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/syncing-slicers-between-pages?u=76281980&t=0)** - [Instructor] Now let's explore how to put pages together in a cohesive Power BI model that the end users will gravitate toward using.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/syncing-slicers-between-pages?u=76281980&t=0)** - [Instructor] Now let's explore how to put pages together in a cohesive [[Microsoft Power BI|Power BI]] model that the end users will gravitate toward using.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-dashboards/syncing-slicers-between-pages?u=76281980&t=7)** Let's check out a few ways to clarify some of these interactions, selections, and navigation around the visuals and pages within Power BI.
 >
@@ -2706,14 +2666,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** navigate to (2), checkbox (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980)
+#### [Creating dashboards](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2725,7 +2684,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=15)** Which then asks the question, what do the end users want to see on our model anyways?
 >
-> **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=21)** I'd also like to clarify that I'm referring to these views in Power BI's dashboards because I want you to make them interactive when you build them as well.
+> **[0:21](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=21)** I'd also like to clarify that I'm referring to these views in [[Microsoft Power BI|Power BI]]'s [[Dashboards]] because I want you to make them interactive when you build them as well.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=28)** Reports conjure experiences with printouts that go in binders that go in storage shelves and closets.
 >
@@ -2741,9 +2700,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=67)** I also added the slicers on the left side of the page along with the image for Explore California as our brand.
 >
-> **[1:15](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=75)** There's a thin gray line separating the slicers from the rest of the visuals so they're easy to find.
+> **[1:15](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=75)** There's a thin gray line separating the slicers from the [[Representational State Transfer (REST)|rest]] of the visuals so they're easy to find.
 >
-> **[1:23](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=83)** In particular for this analysis, I like the Azure visual that allows us to drill down into different layers.
+> **[1:23](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=83)** In particular for this analysis, I like the [[Microsoft Azure|Azure]] visual that allows us to drill down into different layers.
 >
 > **[1:30](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-dashboards?u=76281980&t=90)** And I like that the population when we see it in the bar chart, or in this case, the column chart, has color on it to enable us to see the growth rates year by year.
 >
@@ -2753,16 +2712,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), [[Dashboards]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Dashboards]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [jennifer] (1)
 
-#### Adding nudge prompts to promote interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980)
+#### [Adding nudge prompts to promote interactions](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=0)** - [Instructor] In Power BI, we want to encourage our end users to interact with the dashboards to learn more about the data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=0)** - [Instructor] In [[Microsoft Power BI|Power BI]], we want to encourage our end users to interact with the [[Dashboards]] to learn more about the data.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=6)** To do this, we use the premise of nudge prompts.
 >
@@ -2774,13 +2732,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=38)** So I put the instructions for how to use the visuals themselves, sometimes as text boxes, but often as titles, to make it clear how the end user should interact with the visual in front of them.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=50)** One helpful trick is to create DAX measure formulas for the titles.
+> **[0:50](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=50)** One helpful trick is to create [[DAX]] measure formulas for the titles.
 >
 > **[0:55](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=55)** We can make them dynamic.
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=57)** I talk more about how to set up dynamic titles in my Power BI Weekly course if you get a chance to check it out.
 >
-> **[1:03](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=63)** For the map visual, if we have drilldown icons like we see for the Azure map, we want to provide instructions to the end users for how to use it.
+> **[1:03](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=63)** For the map visual, if we have drilldown icons like we see for the [[Microsoft Azure|Azure]] map, we want to provide instructions to the end users for how to use it.
 >
 > **[1:12](https://www.linkedin.com/learning/power-bi-data-dashboards/adding-nudge-prompts-to-promote-interactions?u=76281980&t=72)** To do so, we're going to edit the title to include those social prompts or nudges to tell the end user to drill down into the data or to select a particular state to learn more about what's going on with its trends.
 >
@@ -2822,7 +2780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (2), [[DAX]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[DAX]] (2), [[Dashboards]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** dax (2)
 > **Prerequisites:** set up (2)
@@ -2834,12 +2792,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a phone view
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980)
+#### [Creating a phone view](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980&t=0)** - [Presenter] So far, we created our Power BI dashboards on our computer screen that uses the landscape view.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980&t=0)** - [Presenter] So far, we created our [[Microsoft Power BI|Power BI]] [[Dashboards]] on our computer screen that uses the landscape view.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980&t=6)** When I develop models, I like to work on computer screen which uses a landscape layout.
 >
@@ -2895,7 +2852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), [[Dashboards]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1), click on (1)
 > **Definitions:** in other words (1)
@@ -2904,12 +2861,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Publishing to Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980)
+#### [Publishing to Power BI service](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=0)** - [Presenter] Now that we've created our Power BI model, let's share our dashboard with others.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=0)** - [Presenter] Now that we've created our [[Microsoft Power BI|Power BI]] model, let's share our dashboard with others.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=5)** We can do so using a few different applications.
 >
@@ -2965,13 +2921,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=171)** When they choose these fields, let's say they choose a state, they feel like the end user because they're able to make selections to understand and analyze the data behind the visuals.
 >
-> **[3:02](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=182)** Microsoft changes things a lot, so you might not see the exact same view that you see on my screen.
+> **[3:02](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=182)** [[Microsoft]] changes things a lot, so you might not see the exact same view that you see on my screen.
 >
 > **[3:08](https://www.linkedin.com/learning/power-bi-data-dashboards/publishing-to-power-bi-service?u=76281980&t=188)** You might need to dig around in the future with addition of new technologies to make sure that you're accessing and utilizing Power BI in an effective way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), bi (10), next (1), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (10), [[Microsoft]] (1)
 > **CLI Commands:** make (8), find (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Definitions:** is an  (1)
@@ -2980,12 +2936,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Sharing Power BI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980)
+#### [Sharing Power BI models](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=0)** - [Instructor] Even if we create amazing Power BI models, there will inevitably be requests to see it somewhere outside the application.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=0)** - [Instructor] Even if we create amazing [[Microsoft Power BI|Power BI]] models, there will inevitably be requests to see it somewhere outside the application.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=7)** Let's explore a few ways to do that in Power BI Desktop and in the Power BI service through our Pro account.
 >
@@ -3029,7 +2984,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=147)** In addition to setting up our shared access for the end user and refreshing our data, we can also export it to other applications.
 >
-> **[2:35](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=155)** We can choose Analyze in Excel to open an Excel report.
+> **[2:35](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=155)** We can choose Analyze in [[Microsoft Excel|Excel]] to open an Excel report.
 >
 > **[2:38](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=158)** We can choose to embed it in a Power BI report.
 >
@@ -3039,7 +2994,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=179)** Other people can use the dataset as well if we give access to them and we can also reuse the dataset ourselves.
 >
-> **[3:06](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=186)** For those familiar with SQL Server Analysis Services, for example, it creates a model much like that.
+> **[3:06](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=186)** For those familiar with [[Microsoft SQL Server|SQL Server]] Analysis Services, for example, it creates a model much like that.
 >
 > **[3:12](https://www.linkedin.com/learning/power-bi-data-dashboards/sharing-power-bi-models?u=76281980&t=192)** We can access the measures and the fields from the report within another Power BI model or even within Excel.
 >
@@ -3047,7 +3002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15), bi (15), data (6), [[Microsoft Excel|Excel]] (3), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (15), [[Microsoft Excel|Excel]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** pbit (5), pdf (3), csv (2), pbix (1), pbx (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -3061,12 +3016,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting more out of Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980)
+#### [Getting more out of Power BI](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=0)** - Thanks for taking the time to learn about creating dashboards with me.
+> **[0:00](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=0)** - Thanks for taking the time to learn about creating [[Dashboards]] with me.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=4)** We've gone through a lot, but we can always learn more.
 >
@@ -3078,15 +3032,15 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=19)** And don't forget to design for your end user, they're the ones who ultimately make the decisions based on your data.
 >
-> **[0:26](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=26)** If you have any questions or you want to start a conversation, please post in the Q&A section for this course on LinkedIn Learning.
+> **[0:26](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=26)** If you have any questions or you want to start a conversation, please post in the Q&A section for this course on [[LinkedIn]] Learning.
 >
-> **[0:34](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=34)** And if you want to see what other capabilities Power BI has, please check out my other courses here in the library.
+> **[0:34](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=34)** And if you want to see what other capabilities [[Microsoft Power BI|Power BI]] has, please check out my other courses here in the library.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980&t=41)** Thanks again, and goodbye.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Dashboards]] (1), [[LinkedIn]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[LinkedIn]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - thanks (1)

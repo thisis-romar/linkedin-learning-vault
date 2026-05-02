@@ -62,8 +62,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to determine the vision and mission of your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980)
+#### [How to determine the vision and mission of your business](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,17 +114,16 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980&t=86)** What will it look like from the time you get out of bed to the time you go to sleep?
 >
-> **[1:29](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980&t=89)** That's the vision you're building towards, and the rest of this course will help you make it happen.
+> **[1:29](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980&t=89)** That's the vision you're building towards, and the [[Representational State Transfer (REST)|rest]] of this course will help you make it happen.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** it's like (1)
 
-#### Three steps to developing a high-performance mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/three-steps-to-developing-a-high-performance-mindset?u=76281980)
+#### [Three steps to developing a high-performance mindset](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/three-steps-to-developing-a-high-performance-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/three-steps-to-developing-a-high-performance-mindset?u=76281980&t=52)** These are ten difficult things you've accomplished in the past, which serve as a reminder of what you're capable of going forward.
 >
-> **[0:57](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/three-steps-to-developing-a-high-performance-mindset?u=76281980&t=57)** For example, one of my epic thoughts is I was selected for LinkedIn's Creator Accelerator program.
+> **[0:57](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/three-steps-to-developing-a-high-performance-mindset?u=76281980&t=57)** For example, one of my epic thoughts is I was selected for [[LinkedIn]]'s Creator Accelerator program.
 >
 > **[1:03](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/three-steps-to-developing-a-high-performance-mindset?u=76281980&t=63)** Thousands of people applied.
 >
@@ -185,13 +183,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), [[LinkedIn]] (1), traffic (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Optimizing your business model and revenue potential
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980)
+#### [Optimizing your business model and revenue potential](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=45)** I've used this model several times.
 >
-> **[0:47](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=47)** One of the coolest parts is the sense of community that forms in these cohorts.
+> **[0:47](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=47)** One of the coolest parts is the sense of community that [[Forms]] in these cohorts.
 >
 > **[0:51](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=51)** After a while, you notice the members start supporting each other in ways that you could not have imagined.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=68)** So, for example, let's say you're a marketing consultant.
 >
-> **[1:11](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=71)** You'd be responsible for designing and implementing your client's marketing strategy.
+> **[1:11](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=71)** You'd be responsible for designing and implementing your client's [[Marketing Strategy]].
 >
 > **[1:15](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/optimizing-your-business-model-and-revenue-potential?u=76281980&t=75)** One benefit of this model is you can charge a lot of money.
 >
@@ -247,13 +244,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), [[Forms]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 
-#### How to create the perfect offer for your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-create-the-perfect-offer-for-your-audience?u=76281980)
+#### [How to create the perfect offer for your audience](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-create-the-perfect-offer-for-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,15 +315,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), express (1), business (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (2)
 > **URLs:** [terryris.co](https://terryris.co) (1)
 > **Prerequisites:** you'll need (1)
 
-#### Best practices for developing your personal brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-developing-your-personal-brand?u=76281980)
+#### [Best practices for developing your personal brand](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-developing-your-personal-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-developing-your-personal-brand?u=76281980&t=59)** These are the topics you'll share content about on a regular basis, and it actually makes it much more easier to create content.
 >
-> **[1:05](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-developing-your-personal-brand?u=76281980&t=65)** My pillars include high performance, entrepreneurship, mindfulness, and time management.
+> **[1:05](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-developing-your-personal-brand?u=76281980&t=65)** My pillars include high performance, [[Entrepreneurship]], mindfulness, and time management.
 >
 > **[1:10](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-developing-your-personal-brand?u=76281980&t=70)** So, now I want you to jot down 5 to 10 topics you'll create content around.
 >
@@ -391,16 +385,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Entrepreneurship]] (1), management (1)
+> **Frameworks & Libraries:** [[Entrepreneurship]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### How to get clients for your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980)
+#### [How to get clients for your business](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=0)** Your business development process is the key to consistently landing high-paying clients and eliminating some of the stress that comes with entrepreneurship.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=0)** Your [[Business Development]] process is the key to consistently landing high-paying clients and eliminating some of the stress that comes with [[Entrepreneurship]].
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=6)** In short, biz dev is how you'll land clients, opportunities, and partnerships.
 >
@@ -410,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=15)** This is the content you'll share in exchange for your audience's contact information.
 >
-> **[0:19](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=19)** One of my lead magnets is a guide that teaches you how to sell your services on LinkedIn.
+> **[0:19](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=19)** One of my lead magnets is a guide that teaches you how to sell your services on [[LinkedIn]].
 >
 > **[0:23](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-get-clients-for-your-business?u=76281980&t=23)** Once you have this lead magnet, create social media content that aligns with the same theme.
 >
@@ -456,14 +449,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Business Development]] (1), [[Entrepreneurship]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Business Development]] (1), [[Entrepreneurship]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** rule of thumb (1)
 
-#### How to manage clients and reduce stress
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-manage-clients-and-reduce-stress?u=76281980)
+#### [How to manage clients and reduce stress](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-manage-clients-and-reduce-stress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,17 +505,16 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-manage-clients-and-reduce-stress?u=76281980&t=107)** Even if you are, see if there are opportunities for improvement.
 >
-> **[1:50](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-manage-clients-and-reduce-stress?u=76281980&t=110)** And remember, you'll grow much quicker if you provide a high quality service that makes people want to spread the word on your behalf.
+> **[1:50](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-manage-clients-and-reduce-stress?u=76281980&t=110)** And remember, you'll grow much quicker if you provide a high quality service that makes people want to spread the [[Microsoft Word|word]] on your behalf.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### How to increase your productivity and efficiency
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980)
+#### [How to increase your productivity and efficiency](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=20)** And here's an example.
 >
-> **[0:22](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=22)** On my end, I have to record my podcast, write my newsletter, post on LinkedIn as well as coach clients, and then create video content, too.
+> **[0:22](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=22)** On my end, I have to record my podcast, write my newsletter, post on [[LinkedIn]] as well as coach clients, and then create video content, too.
 >
 > **[0:30](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=30)** The list goes on, but the point is the first, identify all the actions you must do on a weekly basis, and how much time you need to complete them.
 >
@@ -547,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=47)** I don't always know what specific content I'll be making, but I know I need to protect that time.
 >
-> **[0:52](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=52)** And in regard to timing, I'm more creative at the beginning of the day, so I block off mornings for content creation.
+> **[0:52](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=52)** And in regard to timing, I'm more creative at the beginning of the day, so I block off mornings for [[Content Creation]].
 >
 > **[0:58](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-increase-your-productivity-and-efficiency?u=76281980&t=58)** You should take the same approach.
 >
@@ -581,10 +572,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[LinkedIn]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Content Creation]] (1)
 
-#### Best practices for building and nurturing a powerful network
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-building-and-nurturing-a-powerful-network?u=76281980)
+#### [Best practices for building and nurturing a powerful network](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/best-practices-for-building-and-nurturing-a-powerful-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,12 +628,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for example (1)
 
-#### How to improve processes and scale your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-improve-processes-and-scale-your-business?u=76281980)
+#### [How to improve processes and scale your business](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-improve-processes-and-scale-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-improve-processes-and-scale-your-business?u=76281980&t=28)** The first category is start.
 >
-> **[0:30](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-improve-processes-and-scale-your-business?u=76281980&t=30)** This includes anything that would benefit your company, for example, starting to go live on LinkedIn.
+> **[0:30](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-improve-processes-and-scale-your-business?u=76281980&t=30)** This includes anything that would benefit your company, for example, starting to go live on [[LinkedIn]].
 >
 > **[0:35](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-improve-processes-and-scale-your-business?u=76281980&t=35)** The next category is stop.
 >
@@ -707,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[LinkedIn]] (2), business (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)

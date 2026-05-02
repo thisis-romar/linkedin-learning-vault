@@ -70,14 +70,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data mesh?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980)
+#### [What is data mesh?](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980&t=0)** - If you work in data, you've likely worked on projects where clients had no clue which dataset lived where, or it took forever for IT to get you the data you needed.
 >
-> **[0:09](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980&t=9)** Data mesh solves both problems.
+> **[0:09](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980&t=9)** Data [[Mesh]] solves both problems.
 >
 > **[0:11](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980&t=11)** It keeps your data in one place so it's easier to find, and it assigns ownership to stewards who are experts on the data in their domains.
 >
@@ -93,19 +92,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Mesh]] (3), product (2)
+> **Frameworks & Libraries:** [[Mesh]] (3)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Why data mesh?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980)
+#### [Why data mesh?](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=0)** - Tech moves faster than we can keep up, and it seems like there's a new trend to try each week.
 >
-> **[0:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=5)** At first glance, data mesh might seem like another buzzword that will come and go, but there's a reason it still has steam years after it was founded.
+> **[0:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=5)** At first glance, data [[Mesh]] might seem like another buzzword that will come and go, but there's a reason it still has steam years after it was founded.
 >
 > **[0:13](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=13)** The data mesh approach was founded in 2019 by Zhamak Dehghani while she was a consultant at ThoughtWorks.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=54)** Most data until then was structured, data that fits into tables using predefined formats.
 >
-> **[1:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=60)** But thanks to social media and the internet of things, much more data was becoming unstructured.
+> **[1:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=60)** But thanks to social media and the [[IoT|internet of things]], much more data was becoming unstructured.
 >
 > **[1:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=65)** This data doesn't have standard formats, and it can be anything from social media posts and audio clips to images and survey responses.
 >
@@ -131,21 +129,21 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=84)** It's tempting to think data mesh is one tool to buy or technique to try.
 >
-> **[1:28](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=88)** It's much bigger than that because it's really a shift in how to manage big data at scale.
+> **[1:28](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=88)** It's much bigger than that because it's really a shift in how to manage [[Big Data]] at scale.
 >
 > **[1:33](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=93)** Most data doesn't live in the same digital space.
 >
 > **[1:36](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=96)** It's spread across too many systems and it falls under the IT umbrella, where it's just one of many services to manage and IT gives permission for users to get the data they need if IT can even find it.
 >
-> **[1:48](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=108)** This traditional data management technique views data as a service that's spread out across organizations and managed by a team with too many priorities and too little context about each data type.
+> **[1:48](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=108)** This traditional [[Data Management]] technique views data as a service that's spread out across organizations and managed by a team with too many priorities and too little context about each data type.
 >
 > **[2:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=120)** It's both common and unsustainable for the amount of data that companies own today.
 >
 > **[2:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=125)** Data mesh is different.
 >
-> **[2:06](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=126)** It views data as a range of products that colleagues use to improve their own work.
+> **[2:06](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=126)** It views data as a range of [[Microsoft Products|products]] that colleagues use to improve their own work.
 >
-> **[2:11](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=131)** Each data product has its own consistent lifecycle because new data gets added, which changes the product, and it assigns ownership of each data product strategy to those who know best, subject matter experts who lead each data product's vertical and can set standards for its success.
+> **[2:11](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=131)** Each data product has its own consistent lifecycle because new data gets added, which changes the product, and it assigns ownership of each data [[Product Strategy]] to those who know best, subject matter experts who lead each data product's vertical and can set standards for its success.
 >
 > **[2:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/why-data-mesh?u=76281980&t=147)** Data mesh is not one single tool or technique.
 >
@@ -155,22 +153,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Mesh]] (6), product (4), ai (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (6), [[IoT|Internet of things]] (1), [[Big Data]] (1), [[Data Management]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - tech (1)
 
-#### The data mesh architecture pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980)
+#### [The data mesh architecture pattern](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=0)** - [Presenter] Data mesh is an architecture pattern that slots data into different domains and sub-domains that are organized by category.
+> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=0)** - [Presenter] Data [[Mesh]] is an architecture pattern that slots data into different domains and sub-domains that are organized by category.
 >
 > **[0:08](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=8)** No matter which type of business you have, I'm guessing you have at least four types of data, HR, marketing, product, and legal.
 >
-> **[0:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=16)** You probably do different types of marketing to spread the word about your business.
+> **[0:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=16)** You probably do different types of marketing to spread the [[Microsoft Word|word]] about your business.
 >
-> **[0:20](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=20)** There's digital marketing to run ads online, search engine optimization to help users find your website, physical campaigns on billboards, and content to help prospects learn what you offer.
+> **[0:20](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=20)** There's digital marketing to run ads online, [[Search Engine Optimization (SEO)|search engine optimization]] to help users find your website, physical campaigns on billboards, and content to help prospects learn what you offer.
 >
 > **[0:32](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=32)** Under data mesh, marketing is one of your data domains because it's a core part of your business that generates a lot of data.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=129)** And finally, it automates access to data based on user roles.
 >
-> **[2:13](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=133)** Let's say your data science team needs the data in your content sub-domain to predict which types of content Marketing should produce next.
+> **[2:13](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=133)** Let's say your [[Data Science]] team needs the data in your content sub-domain to predict which types of content Marketing should produce next.
 >
 > **[2:20](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/the-data-mesh-architecture-pattern?u=76281980&t=140)** They can request access to the content marketing sub-domain through the data mesh.
 >
@@ -214,24 +211,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Mesh]] (5), business (5), product (2), next (2)
+> **Frameworks & Libraries:** [[Mesh]] (5), [[Microsoft Word|Word]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Data Science]] (1)
 > **Env Vars:** cmo (5), seo (1), aka (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### An intro to data decentralization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980)
+#### [An intro to data decentralization](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=0)** - Data mesh is decentralized architecture, which might not make sense at first.
+> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=0)** - Data [[Mesh]] is decentralized architecture, which might not make sense at first.
 >
 > **[0:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=5)** If you want to keep all your data in the same space for easy access, why would you decentralize it?
 >
 > **[0:11](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=11)** The key thing to remember is decentralized ownership.
 >
-> **[0:14](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=14)** Under data mesh, your governance structure for data quality, compliance, and automated standards all live in the same space.
+> **[0:14](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=14)** Under data mesh, your governance structure for [[Data Quality]], compliance, and automated standards all live in the same space.
 >
 > **[0:22](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=22)** What's decentralized is domain ownership within this shared space.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=58)** This concept can scare people at first.
 >
-> **[1:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=60)** When I've worked with clients to design data governance programs, the first question I often got is how much time it will cost their team.
+> **[1:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=60)** When I've worked with clients to design [[Data Governance]] programs, the first question I often got is how much time it will cost their team.
 >
 > **[1:08](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=68)** They also worry about how to involve colleagues who have non-technical roles.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=74)** Everyone is already doing more with less amidst layoffs and uncertainty.
 >
-> **[1:18](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=78)** Decentralized ownership and data mesh doesn't mean your CMO will start deploying data pipelines or pushing to production.
+> **[1:18](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=78)** Decentralized ownership and data mesh doesn't mean your CMO will start deploying [[Data Pipelines]] or pushing to production.
 >
 > **[1:25](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-decentralization?u=76281980&t=85)** It means that as your data domain's most senior leaders, they're the most relevant people to define success for the data in their respective domains.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Mesh]] (5), business (2), teams (1)
+> **Frameworks & Libraries:** [[Mesh]] (5), [[Data Quality]] (2), [[Data Governance]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** cmo (1)
@@ -276,8 +272,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An intro to data domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980)
+#### [An intro to data domains](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=23)** The website is designed to help readers find the news they want to read by organizing it in logical categories.
 >
-> **[0:30](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=30)** Within data mesh domains are like sections of your website.
+> **[0:30](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=30)** Within data [[Mesh]] domains are like sections of your website.
 >
 > **[0:34](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=34)** They're logical groups of data that your business collects information about.
 >
@@ -323,20 +318,19 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=110)** This tells your data mesh users where the data they need lives and which person they can request it from.
 >
-> **[1:56](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=116)** Access to data is the most important part, because that's how your data mesh users find the data products they need.
+> **[1:56](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=116)** Access to data is the most important part, because that's how your data mesh users find the data [[Microsoft Products|products]] they need.
 >
 > **[2:02](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980&t=122)** We'll cover how to manage data as their own products next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Mesh]] (5), business (4), hr (2), product (2)
+> **Frameworks & Libraries:** [[Mesh]] (5), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
-#### Managing data as a product
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980)
+#### [Managing data as a product](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,9 +346,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=24)** They're also juggling this data as part of a bigger portfolio, which means that giving the right data to the right people isn't their only task.
 >
-> **[0:32](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=32)** Data mesh isn't just an architecture pattern, it's also a mindset shift in your data's value.
+> **[0:32](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=32)** Data [[Mesh]] isn't just an architecture pattern, it's also a mindset shift in your data's value.
 >
-> **[0:38](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=38)** Data mesh promotes data as a product which views datasets and data domains as standalone products with their own features, managers, and life cycles.
+> **[0:38](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=38)** Data mesh promotes data as a product which views datasets and data domains as standalone [[Microsoft Products|products]] with their own features, managers, and life cycles.
 >
 > **[0:47](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=47)** Using data as a product, your colleagues become users who need data to improve their own work.
 >
@@ -364,39 +358,38 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=61)** Using data as a product, this scenario has four key components.
 >
-> **[1:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=65)** A data steward, who acts like the product manager by making strategic decisions about marketing campaign data and gives users access to it, the data domain, which is broken into marketing sub-domains to help you find what you need faster, the business logic, which explains how data moves between the mesh environment and its users, and access to the data, which tells the user, your data engineer, where online campaign marketing data lives, which domain it's part of, who to ask for access, and which rules or algorithms underpin the data.
+> **[1:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=65)** A data steward, who acts like the product manager by making strategic decisions about marketing campaign data and gives users access to it, the data domain, which is broken into marketing sub-domains to help you find what you need faster, the business logic, which explains how data moves between the mesh environment and its users, and access to the data, which tells the user, your data engineer, where online campaign marketing data lives, which domain it's part of, who to ask for access, and which rules or [[Algorithms]] underpin the data.
 >
 > **[1:39](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=99)** Data products users will vary based on context.
 >
 > **[1:42](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=102)** So your user might be a data engineer who works in this space, but they might also be a customer care agent who doesn't need to see your entire data mesh.
 >
-> **[1:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=110)** They just need a certain product, not all the details about your data architecture.
+> **[1:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=110)** They just need a certain product, not all the details about your [[Data Architecture]].
 >
 > **[1:55](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/managing-data-as-a-product?u=76281980&t=115)** When you give them the dataset they need backed by a data steward, data domain, business logic, and semantic layer that connects data products to users, they gain more trust in the data you have.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), product (5), [[Mesh]] (4), business (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Microsoft Products|Products]] (3), [[Algorithms]] (1), [[Data Architecture]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Self-service access in the data mesh
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980)
+#### [Self-service access in the data mesh](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=0)** - Self-service data doesn't always have the best reputation.
 >
-> **[0:04](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=4)** The old adage "If you build it, they will come" is often applied to data dashboards with mediocre results.
+> **[0:04](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=4)** The old adage "If you build it, they will come" is often applied to data [[Dashboards]] with mediocre results.
 >
 > **[0:09](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=9)** Just giving someone a username and password to access a new system doesn't mean they'll know how to use it or gain value from it.
 >
-> **[0:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=16)** So why should we expect data mesh access to be any different?
+> **[0:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=16)** So why should we expect data [[Mesh]] access to be any different?
 >
 > **[0:20](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=20)** It goes back to autonomy.
 >
-> **[0:21](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=21)** Data mesh is set up to let stewards of all data domains build and share data products from the same centralized system.
+> **[0:21](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=21)** Data mesh is set up to let stewards of all data domains build and share data [[Microsoft Products|products]] from the same centralized system.
 >
 > **[0:29](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=29)** This approach has three core benefits.
 >
@@ -410,7 +403,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=68)** Third, and most importantly, the products built and stored within data mesh are designed for use by general audiences.
 >
-> **[1:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=76)** I worked as an analyst at Gartner for years, where I'd evaluate business intelligence software vendors.
+> **[1:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=76)** I worked as an analyst at Gartner for years, where I'd evaluate [[Business Intelligence (BI)|business intelligence]] software vendors.
 >
 > **[1:21](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/self-service-access-in-the-data-mesh?u=76281980&t=81)** I know from experience that most vendors aren't incentivized to keep their products simple and easy to use.
 >
@@ -422,22 +415,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Products|Products]] (10), [[Mesh]] (6), [[Dashboards]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[Mesh]] (6), [[Dashboards]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - self (1)
 
-#### Federated data governance in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980)
+#### [Federated data governance in action](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=0)** - [Instructor] Data mesh is built for users in all roles to access data quickly and use it as products that solve their own needs.
+> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=0)** - [Instructor] Data [[Mesh]] is built for users in all roles to access data quickly and use it as [[Microsoft Products|products]] that solve their own needs.
 >
 > **[0:07](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=7)** We've talked in this course about how data mesh gives teams closest to each data domain the power they need to own and execute their data products.
 >
 > **[0:15](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=15)** That sounds great in theory, but the execution can be confusing.
 >
-> **[0:19](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=19)** Let's talk about federated data governance in detail, connecting each puzzle piece to give you the full picture.
+> **[0:19](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=19)** Let's talk about federated [[Data Governance]] in detail, connecting each puzzle piece to give you the full picture.
 >
 > **[0:25](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=25)** In our last lesson, you learned that self-service access involves making and maintaining data products in the same architecture as their sources.
 >
@@ -451,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=60)** This person oversees each aspect of the data mesh plan, defining key data domains to organize your data, choosing the best vendor where your data mesh architecture can live.
 >
-> **[1:11](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=71)** Selecting data stewards to be the subject matter experts per domain, ensuring that each domain has the right pipelines, microservices, and other infrastructure needed to make each data product, and owning the data dictionary where details about each data domain reside.
+> **[1:11](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=71)** Selecting data stewards to be the subject matter experts per domain, ensuring that each domain has the right pipelines, [[Microservices]], and other infrastructure needed to make each data product, and owning the data dictionary where details about each data domain reside.
 >
 > **[1:28](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=88)** All of that's defined centrally by data leadership.
 >
@@ -461,7 +453,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=99)** Like any leader, they get the freedom to execute this work how they see fit.
 >
-> **[1:43](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=103)** From defining which infrastructure is needed to writing data definitions that explain what data means in each domain's context, and deciding which metadata maps to the right data.
+> **[1:43](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=103)** From defining which infrastructure is needed to writing data definitions that explain what data means in each domain's context, and deciding which [[Metadata]] maps to the right data.
 >
 > **[1:53](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/federated-data-governance-in-action?u=76281980&t=113)** This federated model also gives stewards the power to define access to each data product by assigning the right roles and permissions to each user.
 >
@@ -485,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (43), [[Mesh]] (10), [[Microsoft Products|Products]] (6), product (4), teams (3)
+> **Frameworks & Libraries:** [[Mesh]] (10), [[Microsoft Products|Products]] (6), [[Data Governance]] (3), [[Microservices]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cdo (1), pii (1)
 > **Analogies:** picture (1)
@@ -497,12 +489,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose your data domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980)
+#### [Choose your data domains](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=0)** - The first step to setting up data mesh is thinking about the best way to organize your data.
+> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=0)** - The first step to setting up data [[Mesh]] is thinking about the best way to organize your data.
 >
 > **[0:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=5)** We've talked about how domains are logical groups of data that your business consumes and produces.
 >
@@ -516,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=35)** This means your most senior sales lead will own the sales domain, your chief marketing officer leads the marketing domain, and so on.
 >
-> **[0:43](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=43)** This allows each business unit, represented as a domain, to manage the data domains based on their expertise, from writing data definitions and attaching the right metadata to writing user roles and permissions for who can access the data per domain.
+> **[0:43](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=43)** This allows each business unit, represented as a domain, to manage the data domains based on their expertise, from writing data definitions and attaching the right [[Metadata]] to writing user roles and permissions for who can access the data per domain.
 >
 > **[0:57](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980&t=57)** This helps each domain leader increase the content and improve the quality of the data in their domains.
 >
@@ -540,13 +531,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Mesh]] (4), business (4), next (2), hr (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Metadata]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - the (1)
 
-#### Classify your sub-domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980)
+#### [Classify your sub-domains](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +552,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=23)** You can find inspiration from some unlikely sources.
 >
-> **[0:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=27)** When I was researching my book on [[Designing Data Governance]], I found that higher education is one of the most advanced sectors.
+> **[0:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=27)** When I was researching my book on [[Designing [[Data Governance]]]], I found that [[Higher Education]] is one of the most advanced sectors.
 >
 > **[0:33](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=33)** I was surprised at first because education isn't known for using the latest and greatest tech to get work done, but universities do have large amounts of sensitive data that they need to find on a moment's notice.
 >
@@ -596,9 +586,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=137)** In this case, finance.
 >
-> **[2:19](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=139)** Once you've defined your subdomains, it's time to set them up within your data mesh.
+> **[2:19](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=139)** Once you've defined your subdomains, it's time to set them up within your data [[Mesh]].
 >
-> **[2:23](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=143)** We'll use Microsoft Fabric as an example.
+> **[2:23](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=143)** We'll use [[Microsoft]] Fabric as an example.
 >
 > **[2:26](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/classify-your-sub-domains?u=76281980&t=146)** The interface for your own data mesh architecture might look different, but you can expect to follow similar steps here.
 >
@@ -630,26 +620,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Mesh]] (5), [[Search]] (2), business (2), next (2)
+> **Frameworks & Libraries:** [[Mesh]] (5), [[Data Governance]] (3), [[Higher Education]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Select stewards to serve as product owners
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980)
+#### [Select stewards to serve as product owners](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=0)** - Data mesh relies on each steward per data domain to maintain the domain's upkeep.
+> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=0)** - Data [[Mesh]] relies on each steward per data domain to maintain the domain's upkeep.
 >
-> **[0:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=5)** To sustain this long term, each data domains team must manage the data as products with ongoing life cycles.
+> **[0:05](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=5)** To sustain this long term, each data domains team must manage the data as [[Microsoft Products|products]] with ongoing life cycles.
 >
 > **[0:12](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=12)** This is different from exporting a sales dashboard for your next presentation.
 >
 > **[0:16](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=16)** Under data mesh, the products in each domain are maintained over time and ideally improve as each domain receives new data.
 >
-> **[0:24](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=24)** Stewards keep the quality of each data product high by vetting new data against automated data quality standards.
+> **[0:24](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=24)** Stewards keep the quality of each data product high by vetting new data against automated [[Data Quality]] standards.
 >
 > **[0:31](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=31)** This graphic shows how data products work.
 >
@@ -657,7 +646,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=36)** These inputs go through a range of data transformations, where things like quality rules, usage metrics, and transformation logic apply.
 >
-> **[0:44](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=44)** At the end, you get data products, which can range from algorithms to real-time dashboards.
+> **[0:44](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=44)** At the end, you get data products, which can range from [[Algorithms]] to [[Real-Time]] [[Dashboards]].
 >
 > **[0:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=50)** These standards assess the new data coming in and mitigate data drift, which is when new data enters your domain and degrades its quality with time.
 >
@@ -673,7 +662,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=97)** They're in a position to influence change and their success in their roles depends on sharing high quality data with the right users at the right time.
 >
-> **[1:46](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=106)** When I've worked with CDOs on their data strategies, most are skeptical about involving business leads in highly technical work.
+> **[1:46](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=106)** When I've worked with CDOs on their [[Data Strategies]], most are skeptical about involving business leads in highly technical work.
 >
 > **[1:53](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=113)** But being a data steward does not mean you have to be a data architect or scientist.
 >
@@ -689,9 +678,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=147)** Selecting the right data stewards per domain, and ensuring that you work as a unit to build a culture that will sustain your data mesh.
 >
-> **[2:34](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=154)** I'm a big proponent of setting up a data governance council where stewards meet to guide key decisions about data in the business.
+> **[2:34](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=154)** I'm a big proponent of setting up a [[Data Governance]] council where stewards meet to guide key decisions about data in the business.
 >
-> **[2:41](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=161)** This is how you move data stewardship from a compliance function to data advocates who are heard at every decision making level.
+> **[2:41](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=161)** This is how you move [[Data Stewardship]] from a compliance function to data advocates who are heard at every decision making level.
 >
 > **[2:49](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=169)** It's also how you create a community of data stewards who are empowered to work in the open with each other.
 >
@@ -699,7 +688,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=179)** My own organization has an internal architecture review board, where colleagues meet to review proposals for tech decisions that will affect the wider architecture.
 >
-> **[3:08](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=188)** These written proposals cover everything from API integrations and data architecture patterns to adding new sub-domains and discussing which systems specific business logic should live in.
+> **[3:08](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=188)** These written proposals cover everything from API integrations and [[Data Architecture]] patterns to adding new sub-domains and discussing which systems specific business logic should live in.
 >
 > **[3:19](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/select-stewards-to-serve-as-product-owners?u=76281980&t=199)** Attendees hear each proposal, vote on it, and delegate next steps to the right colleagues.
 >
@@ -709,23 +698,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Microsoft Products|Products]] (5), business (5), [[Mesh]] (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Mesh]] (4), [[Data Strategies]] (2), [[Data Quality]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1), api (1)
 > **Speakers:** - data (1)
 
-#### Write your own federated standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980)
+#### [Write your own federated standards](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=0)** - What does data quality look like across all of the domains you've outlined?
+> **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=0)** - What does [[Data Quality]] look like across all of the domains you've outlined?
 >
 > **[0:04](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=4)** As your final lesson, let's walk through the steps of defining federated standards for all domains and then customizing them for the domain at hand.
 >
 > **[0:13](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=13)** Data without context is one of the reasons quality data degrades over time.
 >
-> **[0:18](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=18)** Data mesh prevents this by keeping data organized under domains and subdomains led by subject matter experts, AKA the data stewards.
+> **[0:18](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=18)** Data [[Mesh]] prevents this by keeping data organized under domains and subdomains led by subject matter experts, AKA the data stewards.
 >
 > **[0:27](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=27)** Context means that each data domain might be different.
 >
@@ -771,17 +759,17 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=149)** You want to apply your data mesh requirements in a meaningful, manageable way before you add new domains with their own nuances.
 >
-> **[2:38](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=158)** Consider the scope of what data products are in your organization.
+> **[2:38](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=158)** Consider the scope of what data [[Microsoft Products|products]] are in your organization.
 >
 > **[2:42](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=162)** A data product can be anything which both helps and hurts when folks need clarity.
 >
-> **[2:46](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=166)** So do you want data products to just be machine learning algorithms?
+> **[2:46](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=166)** So do you want data products to just be machine learning [[Algorithms]]?
 >
-> **[2:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=170)** Should you include dashboards that your C-suite wants to see each quarter?
+> **[2:50](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=170)** Should you include [[Dashboards]] that your C-suite wants to see each quarter?
 >
 > **[2:54](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=174)** The choice is yours, but just like you've set success and failure conditions for data in your domains, you should also set boundaries to define what data products are.
 >
-> **[3:04](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=184)** When you select stewards and start meeting at data governance councils, much of your early work might focus on which tools to buy that can support data mesh.
+> **[3:04](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=184)** When you select stewards and start meeting at [[Data Governance]] councils, much of your early work might focus on which tools to buy that can support data mesh.
 >
 > **[3:13](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/write-your-own-federated-standards?u=76281980&t=193)** While you do need the right combination of tech tools, data mesh is not one single solution and no vendor will solve all of your data problems.
 >
@@ -791,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Mesh]] (10), [[Microsoft Products|Products]] (5), business (3), next (1)
+> **Frameworks & Libraries:** [[Mesh]] (10), [[Microsoft Products|Products]] (5), [[Data Quality]] (1), [[Algorithms]] (1), [[Dashboards]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** aka (1)
 > **Analogies:** just like (1)
@@ -802,14 +790,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Investment in your future
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980)
+#### [Investment in your future](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=0)** - Thanks for taking this course with me.
 >
-> **[0:02](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=2)** I hope you learned why data mesh is more than another fad and how its value set it apart from other architecture patterns.
+> **[0:02](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=2)** I hope you learned why data [[Mesh]] is more than another fad and how its value set it apart from other architecture patterns.
 >
 > **[0:09](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=9)** There's more pressure than ever on organizations to start building AI, sometimes at the cost of human jobs.
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=29)** You can compete using data mesh by structuring your business around your data, not the other way around.
 >
-> **[0:35](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=35)** If you want to learn more on governance and quality, check out my other LinkedIn Learning courses, [[Designing Data Governance]] and Automating Data Quality in Dev Environments.
+> **[0:35](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=35)** If you want to learn more on governance and quality, check out my other [[LinkedIn]] Learning courses, [[Designing [[Data Governance]]]] and Automating [[Data Quality]] in Dev Environments.
 >
 > **[0:44](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980&t=44)** If you need a more comprehensive guide to data mesh, I recommend the book by the founder herself, Zhamak Dehghani's "Data Mesh: Delivering Data-Driven Value at Scale."
 >
@@ -831,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Mesh]] (5), ai (3), teams (1), business (1)
+> **Frameworks & Libraries:** [[Mesh]] (5), [[LinkedIn]] (1), [[Data Governance]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** getting started (1)

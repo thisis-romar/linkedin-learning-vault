@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Think like a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/think-like-a-marketer?u=76281980)
+#### [Think like a marketer](https://www.linkedin.com/learning/marketing-foundations-2022/think-like-a-marketer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Analogies:** picture (1)
 > **Speakers:** - have (1)
 
@@ -115,14 +113,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining brands and brand architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980)
+#### [Defining brands and brand architecture](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=0)** - For any organization of any kind, brand matters.
 >
-> **[0:05](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=5)** The traditional definition of a brand is that it's a symbol or logo that distinctly identifies the company's products and services.
+> **[0:05](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=5)** The traditional definition of a brand is that it's a symbol or logo that distinctly identifies the company's [[Microsoft Products|products]] and services.
 >
 > **[0:14](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=14)** There is a very tactical, executional aspect to branding, but branding is a hugely important strategic decision.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=190)** We call them umbrella branded companies or a branded house.
 >
-> **[3:14](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=194)** These companies use a single brand to communicate a broad promise and also have an overarching marketing strategy that dictates many commercial decisions for their products and services.
+> **[3:14](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=194)** These companies use a single brand to communicate a broad promise and also have an overarching [[Marketing Strategy]] that dictates many commercial decisions for their products and services.
 >
 > **[3:27](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=207)** Other companies use a distinct branded approach also called a House of Brands.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=242)** And in a sub-brand driven hybrid approach, the product or service has a strong sub-brand, but also carries a corporate brand that endorses or provides additional value for the customer.
 >
-> **[4:14](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=254)** For example, I might choose to stay at a courtyard or a residence in hotel for a different experience, but either way I'll be getting loyalty points and a common baseline quality assurance from Marriott.
+> **[4:14](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=254)** For example, I might choose to stay at a courtyard or a residence in hotel for a different experience, but either way I'll be getting loyalty points and a common baseline [[Quality Assurance]] from Marriott.
 >
 > **[4:27](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980&t=267)** A brand is a go-to market asset.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Search]] (1), [[Marketing Strategy]] (1), product (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Marketing Strategy]] (1), [[Quality Assurance]] (1)
 > **Env Vars:** bmw (2), ibm (1), kpmg (1), lvmh (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1)
@@ -218,8 +215,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - for (1)
 
-#### Choosing a business category
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980)
+#### [Choosing a business category](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=48)** Toyota Camry competes against other four-door sedans like the Honda Accord, the Hyundai Sonata, and the Ford Fusion.
 >
-> **[0:58](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=58)** The LG brand broadly participates in the electronics market.
+> **[0:58](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=58)** The LG brand broadly participates in the [[Electronics]] market.
 >
 > **[1:02](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=62)** But to be successful, it needs to be preferred in televisions over Samsung and Sony, and in vacuums over Dyson.
 >
@@ -309,11 +305,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=267)** Internally, it establishes the business opportunity and inspires what people do at work every day.
 >
-> **[4:34](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=274)** Externally, it sets expectations for what you'll deliver and it is a critically important building block of the marketing strategy.
+> **[4:34](https://www.linkedin.com/learning/marketing-foundations-2022/choosing-a-business-category?u=76281980&t=274)** Externally, it sets expectations for what you'll deliver and it is a critically important building block of the [[Marketing Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Electronics]] (1), product (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -321,8 +317,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### Investigating your organization and your competition
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980)
+#### [Investigating your organization and your competition](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=21)** Before you develop a brand promise and commercial goals, you need to understand the skills and resources you have relative to the other competitors in the category.
 >
-> **[0:33](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=33)** You may think your organization is skilled at software development, but should it compete in the customer relationship management category against [salesforce.com](https://salesforce.com), SAP and Oracle?
+> **[0:33](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=33)** You may think your organization is skilled at [[Software Development]], but should it compete in the customer relationship management category against [salesforce.com](https://salesforce.com), SAP and Oracle?
 >
 > **[0:46](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=46)** Building a valuable brand that can sustain success over time requires connecting your brand strategy to the core competence of your organization.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=151)** Surprisingly, there are only three broad types of core competencies.
 >
-> **[2:37](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=157)** There is functional performance, differentiating the company through technical innovation and producing high-performing products.
+> **[2:37](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=157)** There is functional performance, differentiating the company through technical innovation and producing high-performing [[Microsoft Products|products]].
 >
 > **[2:45](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=165)** Dyson built core competences around industrial design and airflow engineering, and developed a culture that encourages innovation and research and attracts independent thinkers.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=201)** Its employees describe the internal culture as that of a family.
 >
-> **[3:26](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=206)** And finally, there's operational excellence or differentiating the company based on price or convenience, due to having an efficient operating model.
+> **[3:26](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=206)** And finally, there's [[Operational Excellence]] or differentiating the company based on price or convenience, due to having an efficient operating model.
 >
 > **[3:36](https://www.linkedin.com/learning/marketing-foundations-2022/investigating-your-organization-and-your-competition?u=76281980&t=216)** Federal Express has a core competence at global logistics delivered through strategic assets that include its distribution network of locations, its transportation assets and its tracking IT systems.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[Software Development]] (1), management (1), product (1), functional (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1), [[Operational Excellence]] (1)
 > **Env Vars:** bmw (1), sap (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -392,8 +387,7 @@ created: 2026-05-02
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - why (1)
 
-#### Developing a practical customer definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980)
+#### [Developing a practical customer definition](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,11 +413,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=67)** This decision matters a great deal, because your organization will require different initiatives for customer acquisition versus retention.
 >
-> **[1:17](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=77)** Customer acquisition is carried out through new products and services that are simple to use, whereas retention requires iterating to improve existing products.
+> **[1:17](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=77)** Customer acquisition is carried out through new [[Microsoft Products|products]] and services that are simple to use, whereas retention requires iterating to improve existing products.
 >
 > **[1:28](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=88)** Communications, pricing, and sales channels are also different when targeting new versus existing customers.
 >
-> **[1:36](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=96)** Before you can allocate customer marketing resources, you need to specifically define who is a customer of your brand.
+> **[1:36](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=96)** Before you can allocate [[Customer Marketing]] resources, you need to specifically define who is a customer of your brand.
 >
 > **[1:44](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=104)** Even if your company sells to other companies rather than to consumers, customers are people, and this is why I call them bodies.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=121)** Behavioral data is easy to obtain and behaviors relate directly to customer profitability.
 >
-> **[2:08](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=128)** Interestingly, the word customer has the same root as the word custom.
+> **[2:08](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=128)** Interestingly, the [[Microsoft Word|word]] customer has the same root as the word custom.
 >
 > **[2:14](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=134)** Think of a customer as someone in a habitual relationship with a brand.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=179)** A high retention rate is a good predictor of the long-term viability of a brand.
 >
-> **[3:04](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=184)** Finally, especially if you work for a business-to-business company, you will want to consider as customers all of the people who have an important decision-making role in selecting or using the brand.
+> **[3:04](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=184)** Finally, especially if you work for a business-to-business company, you will want to consider as customers all of the people who have an important [[Decision-Making]] role in selecting or using the brand.
 >
 > **[3:18](https://www.linkedin.com/learning/marketing-foundations-2022/developing-a-practical-customer-definition?u=76281980&t=198)** You will want to include the formal buyer, who negotiates and executes contracts; the payer, who controls the budget; the direct user, who uses the product; the final consumer, who ultimately receives the benefit of the product; and influencers, staff and the client organization who may be consulted along the way.
 >
@@ -475,12 +469,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Decision-Making]] (3), [[Microsoft Products|Products]] (2), [[Customer Marketing]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Microsoft Products|Products]] (2), [[Customer Marketing]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (5)
 > **Speakers:** - a (1)
 
-#### Navigating three types of customer loyalty
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980)
+#### [Navigating three types of customer loyalty](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=124)** It is what drives some Apple customers to wait in line for hours for new iPhone releases and motivates Mini Cooper drivers to drive together on Sundays.
 >
-> **[2:14](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=134)** Heart loyals generate positive word of mouth through social connections, adding value for the brand beyond what they buy.
+> **[2:14](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=134)** Heart loyals generate positive [[Microsoft Word|word]] of mouth through social connections, adding value for the brand beyond what they buy.
 >
 > **[2:22](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=142)** They also have high retention rates.
 >
@@ -544,7 +537,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=176)** To build head loyalty for a brand, your company can invest in functional performance, innovating to create measurable value for customers and keeping them informed.
 >
-> **[3:08](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=188)** Many Android phone users have little emotional connection to their devices.
+> **[3:08](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=188)** Many [[Android]] phone users have little emotional connection to their devices.
 >
 > **[3:13](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=193)** Accordingly, Android phones focus on performance features where the iPhone is weaker, such as multitasking.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=237)** Companies with this type of loyalty invest in distribution, easy ordering and logistics.
 >
-> **[4:04](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=244)** If you want hand loyals, invest in operational excellence.
+> **[4:04](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=244)** If you want hand loyals, invest in [[Operational Excellence]].
 >
 > **[4:08](https://www.linkedin.com/learning/marketing-foundations-2022/navigating-three-types-of-customer-loyalty?u=76281980&t=248)** Measuring the loyalty profile of your brand and understanding why it is that way is empowering.
 >
@@ -568,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), business (1), [[Microsoft Word|Word]] (1), functional (1), [[Operational Excellence]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Microsoft Word|Word]] (1), [[Operational Excellence]] (1)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** iphone (2)
 > **Analogies:** such as (1)
@@ -579,8 +572,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discovering customer segments
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/discovering-customer-segments?u=76281980)
+#### [Discovering customer segments](https://www.linkedin.com/learning/marketing-foundations-2022/discovering-customer-segments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,15 +628,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), next (2), functional (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bmw (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - imagine (1)
 
-#### Discover customer insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980)
+#### [Discover customer insights](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +648,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=25)** Instead, I suggest you use two research tools in combination.
 >
-> **[0:30](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=30)** Customer journey mapping and feature benefit value laddering interviews.
+> **[0:30](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=30)** [[Customer Journey Mapping]] and feature benefit value laddering interviews.
 >
 > **[0:36](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=36)** A customer journey map combines routine behaviors with descriptions of specific experiences.
 >
@@ -700,7 +690,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=207)** Now, different customers will be more interested in different aspects of the brand so when you show them the same features, they derive different benefits and connect them to different personal values.
 >
-> **[3:39](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=219)** In conducting just a handful of these customer journey and laddering interviews, we find that just a few needs and beliefs stand out from the rest.
+> **[3:39](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=219)** In conducting just a handful of these customer journey and laddering interviews, we find that just a few needs and beliefs stand out from the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:50](https://www.linkedin.com/learning/marketing-foundations-2022/discover-customer-insights?u=76281980&t=230)** Those are the ones we will use to map the category and select the specific customer segment we want to target.
 >
@@ -708,15 +698,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), functional (2), power (1), [[Customer Journey Mapping]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Customer Journey Mapping]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** next video (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### Mapping your business category
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980)
+#### [Mapping your business category](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,9 +759,9 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980&t=223)** For example, when Subway entered the fast food category and competed against McDonald's, they emphasized health to differentiate their offer.
 >
-> **[3:53](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980&t=233)** Positioning is the benefit word or words that customers strongly associate with a brand and that matches the key shared need in a customer segment targeted by that brand.
+> **[3:53](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980&t=233)** Positioning is the benefit [[Microsoft Word|word]] or words that customers strongly associate with a brand and that matches the key shared need in a customer segment targeted by that brand.
 >
-> **[4:05](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980&t=245)** Selecting your brand's positioning is possibly the most important decision you will make in the marketing strategy process.
+> **[4:05](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980&t=245)** Selecting your brand's positioning is possibly the most important decision you will make in the [[Marketing Strategy]] process.
 >
 > **[4:14](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-your-business-category?u=76281980&t=254)** Marketers select a positioning that represents an important customer need and therefore drives behavior and that represents something they can deliver better than anyone else.
 >
@@ -786,15 +775,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - once (1)
 
-#### Writing a target audience persona
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/writing-a-target-audience-persona?u=76281980)
+#### [Writing a target audience persona](https://www.linkedin.com/learning/marketing-foundations-2022/writing-a-target-audience-persona?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +832,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/marketing-foundations-2022/writing-a-target-audience-persona?u=76281980&t=187)** Remember that aspirations describe a person rather than a product and are consistent across all aspects of people's lives.
 >
-> **[3:16](https://www.linkedin.com/learning/marketing-foundations-2022/writing-a-target-audience-persona?u=76281980&t=196)** The surgeon who values aesthetics may have a keen eye for design and may have decorated his office or kept a neat desk.
+> **[3:16](https://www.linkedin.com/learning/marketing-foundations-2022/writing-a-target-audience-persona?u=76281980&t=196)** The surgeon who values aesthetics may have a keen eye for design and may have decorated his [[Microsoft Office|office]] or kept a neat desk.
 >
 > **[3:23](https://www.linkedin.com/learning/marketing-foundations-2022/writing-a-target-audience-persona?u=76281980&t=203)** Include details in the target audience persona that are likely to resonate with them so that your commercial team will be able to engage them.
 >
@@ -862,20 +850,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), career (1), product (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **Versions:** 1.5 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - during (1)
 
-#### Articulating your brand's value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980)
+#### [Articulating your brand's value proposition](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=0)** - A value proposition is the promise a brand makes to its target audience as to how they will specifically benefit from partnering with the brand.
 >
-> **[0:09](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=9)** Great value propositions follow the marketing strategy and inform its execution.
+> **[0:09](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=9)** Great value propositions follow the [[Marketing Strategy]] and inform its execution.
 >
 > **[0:16](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=16)** There are many different value proposition formats in use.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=209)** Brand teams communicate the core of the value proposition, the positioning benefit, in a few words that all client organizations stakeholders understand and value.
 >
-> **[3:41](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=221)** The collaboration software brand Slack has a value proposition of increasing teams productivity.
+> **[3:41](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=221)** The collaboration software brand [[Slack]] has a value proposition of increasing teams productivity.
 >
 > **[3:48](https://www.linkedin.com/learning/marketing-foundations-2022/articulating-your-brand-s-value-proposition?u=76281980&t=228)** Medtronic's Micra Miniaturized Pacemaker has a value proposition of effectiveness with no physical sign of a pacemaker.
 >
@@ -953,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Marketing Strategy]] (2), business (2), teams (2), product (1), functional (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2), [[Slack]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Tools:** slack (1)
@@ -965,8 +952,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a brand-customer experience map
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/building-a-brand-customer-experience-map?u=76281980)
+#### [Building a brand-customer experience map](https://www.linkedin.com/learning/marketing-foundations-2022/building-a-brand-customer-experience-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,25 +1012,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1)
 > **Analogies:** imagine (2), for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - think (1)
 
-#### Align your products and services to the value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980)
+#### [Align your products and services to the value proposition](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=0)** - Although traditionally, marketers made a distinction between products and services, today, you're likely to hear the term solution, a word that attempts to be product/service agnostic.
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=0)** - Although traditionally, marketers made a distinction between [[Microsoft Products|products]] and services, today, you're likely to hear the term solution, a [[Microsoft Word|word]] that attempts to be product/service agnostic.
 >
 > **[0:14](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=14)** This is because many things you purchase today combine hard products, software, services and data.
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=22)** Solutions are features of a brand that integrate products and services to create a differentiated customer experience.
 >
-> **[0:31](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=31)** When you buy a smartphone, you are purchasing the hardware and software, applications, support services to get you up and running, and intelligence about how to get the most out of your device, and even whether you're using it too much.
+> **[0:31](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=31)** When you buy a smartphone, you are purchasing the [[Hardware]] and software, applications, support services to get you up and running, and intelligence about how to get the most out of your device, and even whether you're using it too much.
 >
 > **[0:47](https://www.linkedin.com/learning/marketing-foundations-2022/align-your-products-and-services-to-the-value-proposition?u=76281980&t=47)** Marketers have gone from being product marketers to becoming brand customer experience marketers.
 >
@@ -1126,14 +1110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (5), [[Search]] (3), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
 > **Env Vars:** sec (4), fiji (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - although (1)
 
-#### Aligning your price to your brand's value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980)
+#### [Aligning your price to your brand's value proposition](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,7 +1156,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=98)** How important is the benefit you bring to your target customer?
 >
-> **[1:42](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=102)** If you are selling high performance products to people who care about performance, they will be less sensitive to the price than if you're selling the same products to people who don't value performance.
+> **[1:42](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=102)** If you are selling high performance [[Microsoft Products|products]] to people who care about performance, they will be less sensitive to the price than if you're selling the same products to people who don't value performance.
 >
 > **[1:55](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=115)** Then there are behaviors.
 >
@@ -1207,16 +1190,15 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=241)** When Arm & Hammer launched its laundry pod alternative to Tide, it priced its product approximately 20% cheaper than Tide pods.
 >
-> **[4:10](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=250)** In setting a managing price, consider how subjective it is and be sure to align pricing to the rest of the marketing strategy.
+> **[4:10](https://www.linkedin.com/learning/marketing-foundations-2022/aligning-your-price-to-your-brand-s-value-proposition?u=76281980&t=250)** In setting a managing price, consider how subjective it is and be sure to align pricing to the [[Representational State Transfer (REST)|rest]] of the [[Marketing Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Marketing Strategy]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - think (1)
 
-#### Developing the communications plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/developing-the-communications-plan?u=76281980)
+#### [Developing the communications plan](https://www.linkedin.com/learning/marketing-foundations-2022/developing-the-communications-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1272,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/marketing-foundations-2022/developing-the-communications-plan?u=76281980&t=217)** You can communicate about the brand, the product or service, about the customer, or about something customers are interested in, which we call "shared interest."
 >
-> **[3:48](https://www.linkedin.com/learning/marketing-foundations-2022/developing-the-communications-plan?u=76281980&t=228)** And you can use hard data, social proof, or even persuasion principles covered in depth in other LinkedIn courses to get your target audience to engage with your brand.
+> **[3:48](https://www.linkedin.com/learning/marketing-foundations-2022/developing-the-communications-plan?u=76281980&t=228)** And you can use hard data, social proof, or even persuasion principles covered in depth in other [[LinkedIn]] courses to get your target audience to engage with your brand.
 >
 > **[4:00](https://www.linkedin.com/learning/marketing-foundations-2022/developing-the-communications-plan?u=76281980&t=240)** It is critical that you use a format and communications channel to deliver your content that aligns with what your customer is already watching, listening to, or reading.
 >
@@ -1310,15 +1292,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), [[LinkedIn]] (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - think (1)
 
-#### Mapping brand-customer touchpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-brand-customer-touchpoints?u=76281980)
+#### [Mapping brand-customer touchpoints](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-brand-customer-touchpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,13 +1347,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-brand-customer-touchpoints?u=76281980&t=175)** You can proactively manage channel conflict by assembling a complete list of all the parties you are considering in delivering the brand experience, their potential role and their skills, the cost they add to the final product versus the benefit to the end consumer, and the motivations of each.
 >
-> **[3:14](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-brand-customer-touchpoints?u=76281980&t=194)** Then think through how to best align each of the channel members through training, incentives, payments and contracts, and sharing of information and customer reviews, opinions, and performance metrics, as well as total costs.
+> **[3:14](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-brand-customer-touchpoints?u=76281980&t=194)** Then think through how to best align each of the channel members through training, incentives, payments and contracts, and sharing of information and customer reviews, opinions, and [[Performance Metrics]], as well as total costs.
 >
 > **[3:30](https://www.linkedin.com/learning/marketing-foundations-2022/mapping-brand-customer-touchpoints?u=76281980&t=210)** I have included a channel alignment metrics in the exercise files for this purpose.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - you (1)
@@ -1382,8 +1363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing the strategic narrative: The marketing plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/writing-the-strategic-narrative-the-marketing-plan?u=76281980)
+#### [Writing the strategic narrative: The marketing plan](https://www.linkedin.com/learning/marketing-foundations-2022/writing-the-strategic-narrative-the-marketing-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,15 +1405,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), career (1), teams (1), data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - throughout (1)
 
-#### Learning from your work: Marketing metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/learning-from-your-work-marketing-metrics?u=76281980)
+#### [Learning from your work: Marketing metrics](https://www.linkedin.com/learning/marketing-foundations-2022/learning-from-your-work-marketing-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1493,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** tam (1)
 > **Analogies:** for example (1)
@@ -1526,8 +1503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thinking like a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980)
+#### [Thinking like a marketer](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,7 +1515,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=23)** Those choices involve the brand, the business category and competition, the bodies or customers, the beliefs or value proposition, how to change behaviors through brand customer experience design, and the benchmarks you will use to learn and get better over time.
 >
-> **[0:42](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=42)** The tools and resources in this course will help you get started on creating a marketing strategy.
+> **[0:42](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=42)** The tools and resources in this course will help you get started on creating a [[Marketing Strategy]].
 >
 > **[0:48](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=48)** But even if you're not actively creating a strategy right now, I encourage you to use the concepts you've learned in this course to re-engineer the marketing content you see from other companies.
 >
@@ -1549,7 +1525,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=75)** You need to ask the right questions to make sure you are performing the right marketing analyses.
 >
-> **[1:22](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=82)** If you'd like to learn more about marketing and branding, there are numerous courses in the LinkedIn library to help you.
+> **[1:22](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=82)** If you'd like to learn more about marketing and branding, there are numerous courses in the [[LinkedIn]] library to help you.
 >
 > **[1:29](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=89)** Finally, I want to leave you with this thought.
 >
@@ -1557,7 +1533,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=98)** First, integrating the marketing strategy and its execution is key to learning and getting better over time with each strategy through execution cycle.
 >
-> **[1:49](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=109)** The second reason brings me to the Latin root of the word integration, which is integer.
+> **[1:49](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=109)** The second reason brings me to the Latin root of the [[Microsoft Word|word]] integration, which is integer.
 >
 > **[1:55](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980&t=115)** The Latin word integer is also the root for the word integrity.
 >
@@ -1573,7 +1549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Marketing Strategy]] (2), product (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Marketing Strategy]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - well (1)
 

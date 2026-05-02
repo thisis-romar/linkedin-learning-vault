@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solving problems with patterns in Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980)
+#### [Solving problems with patterns in Spring](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980&t=6)** As an industry, with lots of help from the gang of four, we have been provided with a lot of patterns of problems, and their solutions.
 >
-> **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980&t=15)** These design patterns are critical to improving your efficiency as a developer.
+> **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980&t=15)** These [[Design Patterns]] are critical to improving your efficiency as a developer.
 >
 > **[0:21](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980&t=21)** In this course, we will look at several of these design patterns, their importance, and how and when to use them.
 >
@@ -111,16 +110,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [frank] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In order to be successful in this course, there are a few things that you need to know.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=5)** This course is based on the spring framework for Java.
+> **[0:05](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=5)** This course is based on the [[Spring Framework]] for [[Java]].
 >
-> **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=9)** It will translate well to Kotlin, if you are using it however.
+> **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=9)** It will translate well to [[Kotlin]], if you are using it however.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=13)** Since this is based on Java, you should have a solid knowledge of Java as a language.
 >
@@ -142,9 +140,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=59)** You should have a basic understanding of Spring.
 >
-> **[1:02](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=62)** If you need to build some understanding or just want to brush up, consider taking my course here in the library learning Spring with Spring Boot 3.
+> **[1:02](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=62)** If you need to build some understanding or just want to brush up, consider taking my course here in the library learning Spring with [[Spring Boot]] 3.
 >
-> **[1:14](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=74)** The design patterns we will discuss are based on object-oriented programming.
+> **[1:14](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=74)** The [[Design Patterns]] we will discuss are based on [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[1:19](https://www.linkedin.com/learning/spring-6-design-patterns/what-you-need-to-know?u=76281980&t=79)** You should have a strong background in OOP concepts.
 >
@@ -162,8 +160,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a skeleton project
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980)
+#### [Creating a skeleton project](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,9 +174,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980&t=18)** Select Maven.
 >
-> **[0:20](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980&t=20)** Select Java as your language.
+> **[0:20](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980&t=20)** Select [[Java]] as your language.
 >
-> **[0:21](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980&t=21)** Use the latest version of Spring Boot.
+> **[0:21](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980&t=21)** Use the latest version of [[Spring Boot]].
 >
 > **[0:24](https://www.linkedin.com/learning/spring-6-design-patterns/creating-a-skeleton-project?u=76281980&t=24)** This course was designed for 3.3.0, but there's nothing that really should change with what we're going to do.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), web (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (1)
 > **CLI Commands:** make (1), unzip (1), ls (1)
 > **Env Vars:** ide (2)
 > **Versions:** 3.3.0 (1), java 17 (1)
@@ -237,12 +234,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What design patterns are
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980)
+#### [What design patterns are](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980&t=0)** - [Instructor] This course is about the design patterns 2 for the spring framework. 3 But using design patterns has an implied understanding 4 of what design patterns actually are, 5 and why we care about them. 6 So let's level set on this knowledge for now. 7 Let's talk about design levels from a very high level 8 concept to begin with. 9 They essentially are best-practice solutions 10 for common problems. 11 Seldom in software do we truly have a unique problem. 12 As such, we can utilize design patterns 13 to handle these common problems. 14 They are primarily presented in both the original inception 15 and in this course from an object oriented 16 programming perspective. 17 Design patterns do exist outside of OOP 18 and often look similar where there is crossover. 19
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980&t=0)** - [Instructor] This course is about the [[Design Patterns]] 2 for the [[Spring Framework]]. 3 But using design patterns has an implied understanding 4 of what design patterns actually are, 5 and why we care about them. 6 So let's level set on this knowledge for now. 7 Let's talk about design levels from a very high level 8 concept to begin with. 9 They essentially are best-practice solutions 10 for common problems. 11 Seldom in software do we truly have a unique problem. 12 As such, we can utilize design patterns 13 to handle these common problems. 14 They are primarily presented in both the original inception 15 and in this course from an object oriented 16 programming perspective. 17 Design patterns do exist outside of OOP 18 and often look similar where there is crossover. 19
 >
 > **[0:51](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980&t=51)** But we will focus on the OOP perspective. 20 Most often, they're presented as the problem, 21 then the solution and application 22 or implementation of the pattern to solve the problem. 23 Many of the patterns also prescribe how 24 and when to use them, again, 25 as part of solving the common problem. 26 So you may be asking yourself, Frank, 27 why do we care about these? 28 Well, you should definitely care, 29 and I'm going to give you a few reasons 30 why I believe this to be true. 31 First, and probably most importantly, is the ability 32 to provide common solutions to common problems. 33 Why recreate the wheel? 34 It works as it is. 35 Now, you may have some innovative idea to improve it, 36
 >
@@ -254,14 +250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (7), oop (2), [[Spring Framework]] (1), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Spring Framework]] (1)
 > **Env Vars:** oop (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gang of Four
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980)
+#### [Gang of Four](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,15 +264,15 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=11)** So let's start by talking about who they were.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=13)** Erich, Richard, Ralph, and John are the Gang of Four.
+> **[0:13](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=13)** Erich, Richard, Ralph, and [[John the Ripper|John]] are the Gang of Four.
 >
 > **[0:18](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=18)** They were computer scientists and authors, and they wrote the probably most quintessential book that we need to know about.
 >
-> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=26)** And that was "Design Patterns: Elements of Reusable Object-Oriented Software".
+> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=26)** And that was "[[Design Patterns]]: Elements of Reusable Object-Oriented Software".
 >
 > **[0:33](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=33)** In my opinion, this is the book that changed OOP and really defined everything that we take for granted about it.
 >
-> **[0:41](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=41)** It introduces object-oriented programming.
+> **[0:41](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=41)** It introduces [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:44](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=44)** Both the good and the best part is they also talked about the bad.
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=95)** The abstract factory and the factory are probably the two most common patterns that anybody thinks about when it comes to design patterns, and those are creational patterns.
 >
-> **[1:46](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=106)** In addition, the builder patterns, something that we see quite often, not only in Spring, but in other aspects of Java, again, is a creational pattern.
+> **[1:46](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=106)** In addition, the builder patterns, something that we see quite often, not only in Spring, but in other aspects of [[Java]], again, is a creational pattern.
 >
 > **[1:56](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=116)** And then the singleton and prototype patterns.
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=135)** Things like the command, interpreter, mediator, iterator, and observer patterns are all behavioral patterns.
 >
-> **[2:23](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=143)** In additionally, things like the chain of responsibilities and visitor patterns, things that you may have heard about, very common things that we see within the software development environment, and things like memento, state, strategy, and template.
+> **[2:23](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=143)** In additionally, things like the chain of responsibilities and visitor patterns, things that you may have heard about, very common things that we see within the [[Software Development]] environment, and things like memento, state, strategy, and template.
 >
 > **[2:38](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=158)** And if you've ever used Spring, templates should start ringing a bell, because we use the template pattern all over the place in Spring, and we're going to talk about that in this course.
 >
@@ -341,24 +336,23 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=254)** The framework was built on Java, therefore, these patterns apply to Spring, as well.
 >
-> **[4:20](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=260)** So this is sort of the juxtaposition that the rest of this course is going to come from.
+> **[4:20](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=260)** So this is sort of the juxtaposition that the [[Representational State Transfer (REST)|rest]] of this course is going to come from.
 >
 > **[4:25](https://www.linkedin.com/learning/spring-6-design-patterns/gang-of-four?u=76281980&t=265)** We've got design patterns, we've got Spring, how do they interact, how the Spring use them, and how do we build on these to build better software.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Java]] (5), oop (2), [[Software Development]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Java]] (5), [[Software Development]] (2), [[John the Ripper|John]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** oop (2)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### The patterns of the Spring framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980)
+#### [The patterns of the Spring framework](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=0)** - [Instructor] So, of course this is a course on the design patterns of the Spring framework, so I want to briefly run through the patterns that we're really going to focus on throughout this course.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=0)** - [Instructor] So, of course this is a course on the [[Design Patterns]] of the [[Spring Framework]], so I want to briefly run through the patterns that we're really going to focus on throughout this course.
 >
 > **[0:10](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=10)** But before we do that, we want to briefly talk about the patterns of the framework, but don't worry too much about understanding them now, as I'm going to run through each of them in much more detail.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=166)** It's often used with remote calls.
 >
-> **[2:48](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=168)** In fact, this is how we do remote calls, things like JDBC template, Rest template, and many others are using the template pattern.
+> **[2:48](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=168)** In fact, this is how we do remote calls, things like [[Java Database Connectivity (JDBC)|JDBC]] template, [[Representational State Transfer (REST)|Rest]] template, and many others are using the template pattern.
 >
 > **[2:57](https://www.linkedin.com/learning/spring-6-design-patterns/the-patterns-of-the-spring-framework?u=76281980&t=177)** It's also implemented by third parties with their Spring libraries to remove boilerplate code for using their tooling.
 >
@@ -424,19 +418,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (5), web (3), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Framework]] (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Framework]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Exercise Files:** template (4), boilerplate (2)
 > **Env Vars:** mvc (3), jdbc (1)
 > **Definitions:** is a  (2)
 > **Versions:** 4.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inversion of control: The core pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980)
+#### [Inversion of control: The core pattern](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=0)** - [Instructor] So now it's time to dig into our first major pattern, and this is the heartbeat of the Spring Framework as a whole: inversion of control.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=0)** - [Instructor] So now it's time to dig into our first major pattern, and this is the heartbeat of the [[Spring Framework]] as a whole: inversion of control.
 >
 > **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=9)** So what is inversion of control?
 >
@@ -448,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=34)** This is a very important consideration in the way that Spring works, as well as the way that the pattern operates.
 >
-> **[0:42](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=42)** Oftentimes, you'll hear this sort of behavior called dependency injection, but the reality is dependency injection is one flavor of IoC, not necessarily the other way around.
+> **[0:42](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=42)** Oftentimes, you'll hear this sort of behavior called [[Dependency Injection]], but the reality is dependency injection is one flavor of IoC, not necessarily the other way around.
 >
 > **[0:55](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=55)** So let's talk for a minute about how it actually works, you have a central container, and that central container, in this case, the BeanFactory constructs and maintains all object references throughout the lifecycle of the application.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=205)** Think about how many times you may have copy and pasted the construction of an object only to find out that in this new use case, something has to be a little bit different.
 >
-> **[3:35](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=215)** But more importantly, we don't have to deal with memory problems that can arise even though Java people will tell you doesn't have pointers, it clearly does.
+> **[3:35](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=215)** But more importantly, we don't have to deal with memory problems that can arise even though [[Java]] people will tell you doesn't have pointers, it clearly does.
 >
 > **[3:45](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=225)** We have a null pointer exception.
 >
@@ -520,7 +513,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=315)** Now, all of this is handled through configuration.
 >
-> **[5:19](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=319)** Configuration comes in many forms, it can come in auto config, it can come in component scanning, it can come in java config, and in some older legacy code, it can actually still come from XML config.
+> **[5:19](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=319)** Configuration comes in many [[Forms]], it can come in auto config, it can come in component scanning, it can come in java config, and in some older legacy code, it can actually still come from XML config.
 >
 > **[5:31](https://www.linkedin.com/learning/spring-6-design-patterns/inversion-of-control-the-core-pattern?u=76281980&t=331)** XML is still supported even though it's not advised.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Framework]] (2), [[Dependency Injection]] (2), application (2), [[Java]] (2), management (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (2), [[Dependency Injection]] (2), [[Java]] (2), [[Forms]] (1)
 > **Env Vars:** xml (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -544,16 +537,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980)
+#### [The factory pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=0)** - [Instructor] Now, we will discuss possibly the most well-known pattern that exists throughout all of design patterns.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=0)** - [Instructor] Now, we will discuss possibly the most well-known pattern that exists throughout all of [[Design Patterns]].
 >
 > **[0:07](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=7)** And that is the factory pattern.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=9)** Let's start by talking about where it is used within the spring framework.
+> **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=9)** Let's start by talking about where it is used within the [[Spring Framework]].
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=14)** We just alluded to the fact that the BeanFactory, the core of the IOC container is ultimately a factory.
 >
@@ -619,30 +611,29 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=277)** It adds this level of abstraction that becomes powerful if you have a bunch of types that also themselves have a bunch of types, because now I can say, "Give me a pet," and it will know, not only do I want a canine, but I want a Labrador as we traverse that inheritance layer.
 >
-> **[4:55](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=295)** Now, that's all we're going to talk about with the factory pattern, but let's jump into how we would do this in spring outside of the raw Java use case.
+> **[4:55](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980&t=295)** Now, that's all we're going to talk about with the factory pattern, but let's jump into how we would do this in spring outside of the raw [[Java]] use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Spring Framework]] (1), generic (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Spring Framework]] (1), [[Java]] (1)
 > **CLI Commands:** cat (3)
 > **Env Vars:** ioc (2), pet (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Factory pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980)
+#### [Factory pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=0)** - [Instructor] So now it's time to take a look at the factory pattern in action from a spring application.
 >
-> **[0:06](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=6)** I want you to navigate to your IDE and open up your project and source main Java and we're going to create a little bit of scaffolding before we get into this.
+> **[0:06](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=6)** I want you to navigate to your IDE and open up your project and source main [[Java]] and we're going to create a little bit of scaffolding before we get into this.
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=14)** So let's create a new package called Controller.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=19)** And in our controller we'll create a new Java class called AppController.
 >
-> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=26)** We will simply annotate our app controller with rest controller.
+> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=26)** We will simply annotate our app controller with [[Representational State Transfer (REST)|rest]] controller.
 >
 > **[0:30](https://www.linkedin.com/learning/spring-6-design-patterns/factory-pattern-in-action?u=76281980&t=30)** And that's all we need for the moment.
 >
@@ -762,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), application (3), [[Representational State Transfer (REST)|Rest]] (1), web (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ide (2), htt (2), http (1), api (1)
 > **Code Identifiers:** adoptpet (2), gettype (1), ishungry (1), tolowercase (1)
 > **CLI Commands:** cat (2), curl (1)
@@ -771,8 +762,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** navigate to (1)
 
-#### The builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern?u=76281980)
+#### [The builder pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern?u=76281980&t=12)** So it's used in various places throughout the framework.
 >
-> **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern?u=76281980&t=15)** ResultActions is one that I use often, and it's part of the MockMvc framework that you can use when you're testing your REST endpoints.
+> **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern?u=76281980&t=15)** ResultActions is one that I use often, and it's part of the MockMvc framework that you can use when you're testing your [[Representational State Transfer (REST)|REST]] endpoints.
 >
 > **[0:24](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern?u=76281980&t=24)** That result action is a builder implementation.
 >
@@ -844,14 +834,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rest (1)
 > **Speakers:** - [instructor] (1)
 
-#### The builder pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern-in-action?u=76281980)
+#### [The builder pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern-in-action?u=76281980&t=21)** So I want you to navigate over to your IDE and in your base package, let's create a new one called "builder."
 >
-> **[0:29](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern-in-action?u=76281980&t=29)** And in here, we're going to create a new Java class, and that Java class is going to be called "Contact."
+> **[0:29](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern-in-action?u=76281980&t=29)** And in here, we're going to create a new [[Java]] class, and that Java class is going to be called "Contact."
 >
 > **[0:36](https://www.linkedin.com/learning/spring-6-design-patterns/the-builder-pattern-in-action?u=76281980&t=36)** Now, one of the beautiful parts about the builder is we can actually make the object that we build immutable, and that's what we're going to do.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), application (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (1), http (1)
 > **Definitions:** is a  (1)
@@ -957,12 +946,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### The singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern?u=76281980)
+#### [The singleton pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern?u=76281980&t=0)** - [Presenter] Now the singleton pattern is the next pattern that we are going to discuss, and there's a big deviation in the singleton pattern in Java and the singleton pattern in Spring, and that's because of the way that the IOC container manages all of its dependencies.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern?u=76281980&t=0)** - [Presenter] Now the singleton pattern is the next pattern that we are going to discuss, and there's a big deviation in the singleton pattern in [[Java]] and the singleton pattern in Spring, and that's because of the way that the IOC container manages all of its dependencies.
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern?u=76281980&t=14)** And we're going to talk about those differences.
 >
@@ -1038,21 +1026,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), application (2), next (1), concurrent (1), database (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Code Identifiers:** getinstance (3)
 > **Env Vars:** ioc (3)
 > **Definitions:** is a  (3)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [presenter] (1)
 
-#### The singleton pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern-in-action?u=76281980)
+#### [The singleton pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern-in-action?u=76281980&t=0)** - [Instructor] So, now I'm going to show you the singleton pattern in action, and we're actually going to do this a little bit different.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern-in-action?u=76281980&t=5)** We're going to do it from the traditional Java way, as well as the Spring way.
+> **[0:05](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern-in-action?u=76281980&t=5)** We're going to do it from the traditional [[Java]] way, as well as the Spring way.
 >
 > **[0:10](https://www.linkedin.com/learning/spring-6-design-patterns/the-singleton-pattern-in-action?u=76281980&t=10)** So, I want you to navigate over to your IDE and in your base package, once again, we will create a new package, and we will call this one singleton.
 >
@@ -1140,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), application (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Code Identifiers:** getinstance (2), singletona1 (2), singletonb1 (1), testsingleton (1), singletona2 (1)
 > **Warnings:** warning (1), keep in mind (1)
 > **Env Vars:** ide (1)
@@ -1149,8 +1136,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The prototype pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-prototype-pattern?u=76281980)
+#### [The prototype pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-prototype-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-prototype-pattern?u=76281980&t=15)** So as opposed to a singleton, marking them as a prototype makes them a prototype bean.
 >
-> **[0:21](https://www.linkedin.com/learning/spring-6-design-patterns/the-prototype-pattern?u=76281980&t=21)** However, it acts very much the same way that a singleton did in our last example, where the Java format was a little bit different than Spring.
+> **[0:21](https://www.linkedin.com/learning/spring-6-design-patterns/the-prototype-pattern?u=76281980&t=21)** However, it acts very much the same way that a singleton did in our last example, where the [[Java]] format was a little bit different than Spring.
 >
 > **[0:30](https://www.linkedin.com/learning/spring-6-design-patterns/the-prototype-pattern?u=76281980&t=30)** In this case, it's the exact same in Spring that they are different in the way that they work in native Java versus Spring itself.
 >
@@ -1228,20 +1214,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), next (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototype pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980)
+#### [Prototype pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980&t=0)** - [Narrator] So now we're going to look at the prototype in action, but we're going to do so only from the Spring perspective, not throughout Java, because quite honestly, creating a prototype is a little bit of work in Java.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980&t=0)** - [Narrator] So now we're going to look at the prototype in action, but we're going to do so only from the Spring perspective, not throughout [[Java]], because quite honestly, creating a prototype is a little bit of work in Java.
 >
-> **[0:10](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980&t=10)** And the purpose of this course is design patterns in Spring.
+> **[0:10](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980&t=10)** And the purpose of this course is [[Design Patterns]] in Spring.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-6-design-patterns/prototype-pattern-in-action?u=76281980&t=13)** So we're just going to focus on that example.
 >
@@ -1308,8 +1293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern?u=76281980)
+#### [The adapter pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,12 +1341,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The adapter pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern-in-action?u=76281980)
+#### [The adapter pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern-in-action?u=76281980&t=47)** It's going to have a void called eat, a void method called peel, and then a void method called juice.
 >
-> **[1:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern-in-action?u=76281980&t=60)** Now we are going to create a new Java class, and this one will be called AppleAdapter.
+> **[1:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern-in-action?u=76281980&t=60)** Now we are going to create a new [[Java]] class, and this one will be called AppleAdapter.
 >
 > **[1:08](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern-in-action?u=76281980&t=68)** Now, our AppleAdapter will implement the Apple interface, however, it will also have an instance of Orange on it.
 >
@@ -1434,14 +1416,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), power (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** getvariety (4), testadapter (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980)
+#### [The decorator pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,7 +1452,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=86)** Again, you want to promote composition over inheritance.
 >
-> **[1:30](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=90)** That's a pretty standard practice in object-oriented programming.
+> **[1:30](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=90)** That's a pretty standard practice in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[1:34](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=94)** This gives you a way to do that cleanly.
 >
@@ -1485,7 +1466,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=118)** It can also be used to remove behavior through encapsulation via that decoration.
 >
-> **[2:06](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=126)** So now let's talk about how you would create a decorator in Java.
+> **[2:06](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=126)** So now let's talk about how you would create a decorator in [[Java]].
 >
 > **[2:11](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern?u=76281980&t=131)** You start with a base abstract class.
 >
@@ -1501,8 +1482,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The decorator pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern-in-action?u=76281980)
+#### [The decorator pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,7 +1490,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern-in-action?u=76281980&t=4)** I want you to navigate to your IDE and go to your base class, and once again, we will create a new package called Decorator.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern-in-action?u=76281980&t=13)** In that package, let's create a new Java class and we will call this Pizza.
+> **[0:13](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern-in-action?u=76281980&t=13)** In that package, let's create a new [[Java]] class and we will call this Pizza.
 >
 > **[0:20](https://www.linkedin.com/learning/spring-6-design-patterns/the-decorator-pattern-in-action?u=76281980&t=20)** We are going to make this class abstract.
 >
@@ -1606,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), power (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** getcost (7), getdescription (6), pepperonipizza (4), doublepepperonipizza (3), bigdecimal (2)
 > **Versions:** 15.00 (1), 1.50 (1), 16.50 (1)
 > **UI Navigation:** go to (2), navigate to (1)
@@ -1615,8 +1595,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### The proxy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980)
+#### [The proxy pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1672,7 +1651,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=183)** You then create the object, add behavior, and any other protections that are needed.
 >
-> **[3:09](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=189)** Now, from an implementation perspective, when doing spring development, seldom if ever would you use a raw Java proxy.
+> **[3:09](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=189)** Now, from an implementation perspective, when doing spring development, seldom if ever would you use a raw [[Java]] proxy.
 >
 > **[3:17](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=197)** With Spring, you would leverage AOP as I stated before.
 >
@@ -1680,7 +1659,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=213)** Some common examples are @Transactional, @Cacheable, and there are many, many others.
 >
-> **[3:38](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=218)** They tend to always be annotations that you add to a class within the Spring framework.
+> **[3:38](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=218)** They tend to always be annotations that you add to a class within the [[Spring Framework]].
 >
 > **[3:44](https://www.linkedin.com/learning/spring-6-design-patterns/the-proxy-pattern?u=76281980&t=224)** Now, because you don't normally do this, and you only do it through aspect-oriented programming, we're not going to actually walk through the implementation.
 >
@@ -1690,7 +1669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), database (1), [[Java]] (1), [[Spring Framework]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Spring Framework]] (1)
 > **Env Vars:** aop (1)
 > **Versions:** 4.0 (1)
 > **Definitions:** is called (1)
@@ -1702,16 +1681,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The repository pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980)
+#### [The repository pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=0)** - [Presenter] The next pattern that we're going to talk about is the repository pattern.
 >
-> **[0:04](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=4)** Now, within Spring, it is primarily an aspect of Spring data.
+> **[0:04](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=4)** Now, within Spring, it is primarily an aspect of [[Spring Data]].
 >
-> **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=9)** In fact, most of Spring data is based in some way, shape, or form on the repository pattern outside of standard JDBC.
+> **[0:09](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=9)** In fact, most of Spring data is based in some way, shape, or form on the repository pattern outside of standard [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[0:17](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=17)** Spring JDBC can be used to also create repository actions, however, usually you just use something like Spring Data JPA or use Spring Data Mongo, depending on your database technology.
 >
@@ -1731,7 +1709,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=84)** So why would we do this?
 >
-> **[1:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=86)** The primary reason we would do this is the databases have often become the bottleneck, especially with dealing with Join Syntax.
+> **[1:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=86)** The primary reason we would do this is the [[Databases]] have often become the bottleneck, especially with dealing with Join Syntax.
 >
 > **[1:35](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980&t=95)** Preventing your data access logic from leaking into your business logic, or even worse into your presentation logic, is another reason that you would use this pattern.
 >
@@ -1755,27 +1733,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (6), data (6), business (4), database (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
+> **Frameworks & Libraries:** [[Spring Data]] (6), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Databases]] (1)
 > **Env Vars:** jdbc (2), jpa (1), dao (1)
 > **CLI Commands:** mongo (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - [presenter] (1)
 
-#### The repository pattern in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980)
+#### [The repository pattern in action](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=0)** - [Instructor] So now it's time to take a look at the repository pattern in action in a Spring Boot application.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=0)** - [Instructor] So now it's time to take a look at the repository pattern in action in a [[Spring Boot]] application.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=5)** The first thing that I want you to do is to go to the data folder in the exercise files and pull out the schema and the data dot SQL file.
+> **[0:05](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=5)** The first thing that I want you to do is to go to the data folder in the exercise files and pull out the schema and the data dot [[SQL]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=14)** And you are going to copy those into source main resources.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=19)** Now that those are there, let's open up the palm file and we're going to add a couple dependencies.
 >
-> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=26)** Now, it's important to note, I'm not going to give a deep dive here into Spring Data, but it is something that you can get from my Learning Spring with Spring Boot 3 course, as well as several others of mine here on the LinkedIn Learning Library.
+> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=26)** Now, it's important to note, I'm not going to give a deep dive here into [[Spring Data]], but it is something that you can get from my Learning Spring with Spring Boot 3 course, as well as several others of mine here on the [[LinkedIn]] Learning Library.
 >
 > **[0:42](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=42)** So we're going to go ahead and add Spring Boot Starter JPA, and we're also going to add the H2 database.
 >
@@ -1787,7 +1764,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=78)** So now let's create a new package in our base package and we will simply call this repository.
 >
-> **[1:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=86)** And within there we will create a new Java class and the Java class will be called President, Entity.
+> **[1:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=86)** And within there we will create a new [[Java]] class and the Java class will be called President, Entity.
 >
 > **[1:36](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=96)** All right, so let's annotate this with that entity from Jakarta dot Persistence.
 >
@@ -1795,7 +1772,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=108)** And now we are going to do an at ID, an at generated value, and at column with a name equal to president ID.
 >
-> **[2:02](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=122)** And then we'll do a private long ID and we're going to repeat this for the rest of our entity.
+> **[2:02](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=122)** And then we'll do a private long ID and we're going to repeat this for the [[Representational State Transfer (REST)|rest]] of our entity.
 >
 > **[2:08](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern-in-action?u=76281980&t=128)** Now if you want to see what we're doing, you can open up the schema dot SQL file and you'll see the definition of what we are doing.
 >
@@ -1835,15 +1812,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (3), data (3), database (3), application (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[SQL]] (2), [[Java]] (2), [[Spring Data]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2), jpa (2), crud (2), ddl (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The template pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980)
+#### [The template pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1857,13 +1833,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=19)** They share similar behavior across remote calls, as well through the way that the templates themselves are structured.
 >
-> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=26)** Some common examples are JDBC template, JMS template, Rest template, and many, many more.
+> **[0:26](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=26)** Some common examples are [[Java Database Connectivity (JDBC)|JDBC]] template, JMS template, [[Representational State Transfer (REST)|Rest]] template, and many, many more.
 >
 > **[0:33](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=33)** So, let's talk about the pattern a little bit in a nutshell.
 >
 > **[0:36](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=36)** The idea behind a template is common boilerplate operations are hidden in a base class.
 >
-> **[0:42](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=42)** Common flows are captured in overarching algorithms with abstract or default methods for the variant code that is not common among the different versions of the template.
+> **[0:42](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=42)** Common flows are captured in overarching [[Algorithms]] with abstract or default methods for the variant code that is not common among the different versions of the template.
 >
 > **[0:56](https://www.linkedin.com/learning/spring-6-design-patterns/the-template-pattern?u=76281980&t=56)** Concrete implementations handle those variant code and extend the base class.
 >
@@ -1897,14 +1873,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **Exercise Files:** template (10), boilerplate (1)
 > **Env Vars:** jdbc (2), jms (1), dry (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The model-view-controller pattern (MVC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980)
+#### [The model-view-controller pattern (MVC)](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1914,9 +1889,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980&t=11)** It's used as well for RESTful web services.
 >
-> **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980&t=15)** It's used for traditional HTML pages, and really, if you think about these two, they're really the exact same.
+> **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980&t=15)** It's used for traditional [[HTML]] pages, and really, if you think about these two, they're really the exact same.
 >
-> **[0:23](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980&t=23)** A RESTful web service simply takes data and converts it into a JSON view.
+> **[0:23](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980&t=23)** A RESTful web service simply takes data and converts it into a [[JSON]] view.
 >
 > **[0:29](https://www.linkedin.com/learning/spring-6-design-patterns/the-model-view-controller-pattern-mvc?u=76281980&t=29)** A traditional HTML page does the same thing.
 >
@@ -1974,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[HTML]] (7), web (6), business (4), [[JSON]] (2)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JSON]] (2)
 > **Env Vars:** html (7), mvc (3), json (2), xml (1), api (1)
 > **Exercise Files:** template (3)
 > **Documentation:** spec (1)
@@ -1982,14 +1957,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### The MVC and template patterns in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980)
+#### [The MVC and template patterns in action](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=0)** - [Instructor] So now we're going to take a look at both the MVC and template patterns in action from a very simplistic perspective.
 >
-> **[0:07](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=7)** Once again, I would encourage you if you want to get deeper, go check out my course, "Learning Spring with Spring Boot 3".
+> **[0:07](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=7)** Once again, I would encourage you if you want to get deeper, go check out my course, "Learning Spring with [[Spring Boot]] 3".
 >
 > **[0:14](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=14)** All right, the first thing that we are going to do is we're going to go into our actual application class and we are going to do an at bean annotation and it will be an instance of RestTemplate that we will create.
 >
@@ -2005,7 +1979,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=72)** So let's go down here and let's create a couple methods.
 >
-> **[1:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=75)** So the first one we're going to do is we're going to do a git mapping and that git mapping is going to respond at president/id.
+> **[1:15](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=75)** So the first one we're going to do is we're going to do a [[Git]] mapping and that git mapping is going to respond at president/id.
 >
 > **[1:24](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=84)** So now let's go do the method signature.
 >
@@ -2013,7 +1987,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=101)** And we simply will return this.presidentrepository .findbyid, passing at the ID and then doing a git on that.
 >
-> **[1:52](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=112)** Now what this is doing is it's going to return a president and because by default we get a JSON mapper, it's going to convert that into a JSON document.
+> **[1:52](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=112)** Now what this is doing is it's going to return a president and because by default we get a [[JSON]] mapper, it's going to convert that into a JSON document.
 >
 > **[2:02](https://www.linkedin.com/learning/spring-6-design-patterns/the-mvc-and-template-patterns-in-action?u=76281980&t=122)** So let's go ahead and do another git mapping.
 >
@@ -2049,7 +2023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), [[JSON]] (3), application (2), [[Spring Boot]] (1), web (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[JSON]] (3), [[Spring Boot]] (1)
 > **CLI Commands:** git (4), find (1)
 > **Env Vars:** json (3), mvc (1), http (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2063,12 +2037,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980)
+#### [The observer pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980&t=0)** - [Instructor] So we're going to talk about a few more patterns within the Spring framework just because you should know that they exist and that they're used by the framework itself.
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980&t=0)** - [Instructor] So we're going to talk about a few more patterns within the [[Spring Framework]] just because you should know that they exist and that they're used by the framework itself.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980&t=8)** The first of those is the observer pattern.
 >
@@ -2112,12 +2085,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Spring Framework]] (1), business (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (1)
 > **Env Vars:** ioc (1), jms (1)
 > **Speakers:** - [instructor] (1)
 
-#### The command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-command-pattern?u=76281980)
+#### [The command pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2177,12 +2149,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - the (1)
 
-#### The mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-mediator-pattern?u=76281980)
+#### [The mediator pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2250,13 +2220,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** mvc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-interpreter-pattern?u=76281980)
+#### [The interpreter pattern](https://www.linkedin.com/learning/spring-6-design-patterns/the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2294,7 +2262,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/spring-6-design-patterns/the-interpreter-pattern?u=76281980&t=108)** This is not a pattern to be taken lightly, but it is a pattern that you should have in your tool belt if you ever do need it.
 >
-> **[1:56](https://www.linkedin.com/learning/spring-6-design-patterns/the-interpreter-pattern?u=76281980&t=116)** And hey, we see it all the time, with Spring Expression Language, it's a very powerful tool added into the Spring framework.
+> **[1:56](https://www.linkedin.com/learning/spring-6-design-patterns/the-interpreter-pattern?u=76281980&t=116)** And hey, we see it all the time, with Spring Expression Language, it's a very powerful tool added into the [[Spring Framework]].
 
 > [!info]- Semantic Content
 >
@@ -2310,16 +2278,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=0)** - [Instructor] So now that we've talked about a wide variety of patterns within the Spring framework, you may be asking yourself what is next?
+> **[0:00](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=0)** - [Instructor] So now that we've talked about a wide variety of patterns within the [[Spring Framework]], you may be asking yourself what is next?
 >
 > **[0:07](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=7)** But before we get there, let's recap what we just did.
 >
-> **[0:11](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=11)** So we learned about general design patterns and the Gang of Four.
+> **[0:11](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=11)** So we learned about general [[Design Patterns]] and the Gang of Four.
 >
 > **[0:15](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=15)** We really focused on the major patterns within the Spring framework itself.
 >
@@ -2369,13 +2336,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=167)** My responsibility and my commitment to you does not end with this course.
 >
-> **[2:53](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=173)** I often am engaged on Twitter, or GitHub, or Stack Overflow, or LinkedIn Learning through the question and answer sessions and will be here to help you on your journey of learning to become a better developer.
+> **[2:53](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=173)** I often am engaged on Twitter, or [[GitHub]], or Stack Overflow, or [[LinkedIn]] Learning through the question and answer sessions and will be here to help you on your journey of learning to become a better developer.
 >
 > **[3:06](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980&t=186)** So thank you so much for your time and I look forward to seeing you in our next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (3), [[Spring Framework]] (2), [[Design Patterns]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Spring Framework]] (2), [[Design Patterns]] (2), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Documentation:** stack overflow (1)

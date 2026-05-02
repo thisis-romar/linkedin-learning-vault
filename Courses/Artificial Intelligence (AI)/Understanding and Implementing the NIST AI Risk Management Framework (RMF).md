@@ -90,20 +90,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement the NIST risk management framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980)
+#### [Implement the NIST risk management framework](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=1)** - Artificial intelligence is transforming every form of global business.
+> **[0:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=1)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is transforming every form of global business.
 >
 > **[0:05](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=5)** Like all technologies, AI can simultaneously bring benefits and harm.
 >
-> **[0:11](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=11)** The goal of the NIST AI RMF is to offer a resource to organizations designing, developing, deploying, and using AI systems to help manage risk of AI.
+> **[0:11](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=11)** The goal of the [[NIST]] AI RMF is to offer a resource to organizations designing, developing, deploying, and using AI systems to help manage risk of AI.
 >
 > **[0:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=23)** It promotes trustworthy and responsible development and use of AI systems.
 >
-> **[0:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=30)** My name is Lyron, and I've worked in cybersecurity for the last three decades.
+> **[0:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=30)** My name is Lyron, and I've worked in [[Cybersecurity]] for the last three decades.
 >
 > **[0:35](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980&t=35)** In this course, I will show you how to use the AI RMF to manage your AI risk.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), rmf (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** rmf (2), nist (1)
 > **Speakers:** - artificial (1)
 
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why the need for an AI RMF
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980)
+#### [Why the need for an AI RMF](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=16)** For instance, a missile can be used in both scientific explorations and military applications.
 >
-> **[0:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=24)** The Wassenaar Arrangement includes 42 countries that have voluntarily agreed to help maintain export control of where dual use products can be sent.
+> **[0:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=24)** The Wassenaar Arrangement includes 42 countries that have voluntarily agreed to help maintain export control of where dual use [[Microsoft Products|products]] can be sent.
 >
 > **[0:35](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=35)** At the 14th annual conference of the Wassenaar Arrangement held in 2019, AI was among several rapidly evolving technologies they named part of the future focus.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=64)** One of the many areas of concern is how AI technologies can pose risks that can negatively impact individuals, groups, organizations, communities, society, the environment, and the planet.
 >
-> **[1:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=75)** These risks can be extended or short term and have high to low probability and impact.
+> **[1:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=75)** These risks can be extended or short term and have high to low [[Probability]] and impact.
 >
 > **[1:22](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=82)** AI systems are inherently sociotechnical, meaning societal dynamics and human behavior influence them.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=99)** This can render false outputs in the form of predictions, decisions, and newly generated content that is misleading or downright erroneous.
 >
-> **[1:48](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=108)** Two researchers, Harini Suresh and John Guttag from MIT, noted that data ingested into machine learning algorithms is often treated as a static artifact, divorced from the process that produced it.
+> **[1:48](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=108)** Two researchers, Harini Suresh and [[John the Ripper|John]] Guttag from MIT, noted that data ingested into machine learning [[Algorithms]] is often treated as a static artifact, divorced from the process that produced it.
 >
 > **[2:03](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=123)** It can go unnoticed that the AI system incorporates false biases preexisting in the society that created it.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=156)** Successful use of AI platforms means understanding and managing both truths and finding a balance acceptable to the business.
 >
-> **[2:46](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=166)** Implementing the NIST AI RMF can strike that balance.
+> **[2:46](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=166)** Implementing the [[NIST]] AI RMF can strike that balance.
 >
 > **[2:51](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980&t=171)** Its goal is to be risk-based, resource efficient, pro innovation, and voluntary.
 >
@@ -171,18 +169,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (2), [[NIST]] (2), rmf (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Microsoft Products|Products]] (1), [[Probability]] (1), [[John the Ripper|John]] (1), [[Algorithms]] (1)
 > **Env Vars:** nist (2), rmf (2), mit (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
-#### The origin and overview of NIST AI RMF
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980)
+#### [The origin and overview of NIST AI RMF](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=0)** - [Instructor] The National Institute of Standards and Technology, or NIST, was founded in 1901, and is now part of the US Department of Commerce.
+> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=0)** - [Instructor] The National Institute of Standards and Technology, or [[NIST]], was founded in 1901, and is now part of the US Department of Commerce.
 >
 > **[0:09](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=9)** While NIST founding intended to increase US competitiveness in the global marketplace, the world has actually benefited from its research.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=33)** The cryptographic algorithm that won the Advanced Encryption Standard Contest in 2001 had contributors from Belgium, and multiple finalists were from other countries.
 >
-> **[0:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=45)** As I work around the globe, I find that many of my clients use elements of the Cybersecurity Framework and Special Publications 800-53.
+> **[0:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=45)** As I work around the globe, I find that many of my clients use elements of the [[Cybersecurity]] Framework and Special Publications 800-53.
 >
 > **[0:57](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/the-origin-and-overview-of-nist-ai-rmf?u=76281980&t=57)** The first version of NIST AI RMF was released on January 26th, 2023.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), rmf (10), [[NIST]] (7), [[Security]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[NIST]] (7), [[Cybersecurity]] (1)
 > **Env Vars:** rmf (10), nist (7), fips (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
@@ -250,8 +247,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding and addressing risks, impacts, and harms: Sections 1.1
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980)
+#### [Understanding and addressing risks, impacts, and harms: Sections 1.1](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=12)** When he was 13 and I was 10, he pitched a ball I was unusually fortunate to hit as a line drive.
 >
-> **[0:18](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=18)** It went straight into the mesh of an ivy-covered fence that bordered our neighbor's yard.
+> **[0:18](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=18)** It went straight into the [[Mesh]] of an ivy-covered fence that bordered our neighbor's yard.
 >
 > **[0:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=24)** Although he initially acted cautiously, trying to retrieve the ball from our side of the fence, he grew impatient and stuck his hand through to successfully push the ball back to himself.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=126)** This is an excellent reminder for technologists that your business functions not by bringing all risks to zero, but by trading potential negative impacts for positive outcomes.
 >
-> **[2:18](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=138)** In the context of the AI RMF, risk refers to the composite measure of an event's probability of occurring and the magnitude or degree of the consequences of the corresponding event.
+> **[2:18](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=138)** In the context of the AI RMF, risk refers to the composite measure of an event's [[Probability]] of occurring and the magnitude or degree of the consequences of the corresponding event.
 >
 > **[2:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980&t=150)** The impacts or consequences of AI systems can be positive, negative, or both, and can have results in opportunities or threats.
 >
@@ -325,13 +321,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), rmf (4), management (2), [[Security]] (2), hit (1)
+> **Frameworks & Libraries:** [[Mesh]] (1), [[Probability]] (1)
 > **Env Vars:** rmf (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - an (1)
 
-#### Challenges, measurement, and tolerance: Sections 1.2-1.2.2
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/challenges-measurement-and-tolerance-sections-1-2-1-2-2?u=76281980)
+#### [Challenges, measurement, and tolerance: Sections 1.2-1.2.2](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/challenges-measurement-and-tolerance-sections-1-2-1-2-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,15 +394,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), management (1), [[Automation]] (1), express (1), next (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** rand (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [host] (1)
 
-#### Prioritization and integration: Sections 1.2.3-1.2.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/prioritization-and-integration-sections-1-2-3-1-2-4?u=76281980)
+#### [Prioritization and integration: Sections 1.2.3-1.2.4](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/prioritization-and-integration-sections-1-2-3-1-2-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +434,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/prioritization-and-integration-sections-1-2-3-1-2-4?u=76281980&t=135)** AI risk can have unique consequences, but it's essential to integrate AI risk management into the broader enterprise risk strategies and processes.
 >
-> **[2:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/prioritization-and-integration-sections-1-2-3-1-2-4?u=76281980&t=147)** This integration is essential with other critical risk disciplines like cybersecurity and privacy.
+> **[2:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/prioritization-and-integration-sections-1-2-3-1-2-4?u=76281980&t=147)** This integration is essential with other critical risk disciplines like [[Cybersecurity]] and [[Privacy]].
 >
 > **[2:34](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/prioritization-and-integration-sections-1-2-3-1-2-4?u=76281980&t=154)** A single pane of view for total enterprise risk management would surface how, for example, data confidentiality would traverse your privacy, cybersecurity, and AI risk management scheme.
 >
@@ -451,14 +444,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (5), management (3), [[Cybersecurity]] (3), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Privacy]] (3)
 > **Env Vars:** rmf (2), pii (2)
 > **Analogies:** for instance (2), for example (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audience: Section 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/audience-section-2?u=76281980)
+#### [Audience: Section 2](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/audience-section-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/audience-section-2?u=76281980&t=8)** While the crow's nest at the highest point would have a great vantage point to see 360 degrees around the ship, different crew members could have more precise and detailed information concerning risk if they are closer to the ship's front, back, or sides.
 >
-> **[0:26](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/audience-section-2?u=76281980&t=26)** In like manner, NIST AI RMF uses the term "Audience" to describe actors who present a set of differing perspectives because of their diversity of experience, competency, and demographics.
+> **[0:26](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/audience-section-2?u=76281980&t=26)** In like manner, [[NIST]] AI RMF uses the term "Audience" to describe actors who present a set of differing perspectives because of their diversity of experience, competency, and demographics.
 >
 > **[0:40](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/audience-section-2?u=76281980&t=40)** All actors can use the AI RMF during the journey through the AI lifecycle.
 >
@@ -502,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[NIST]] (4), rmf (4), data (3)
+> **Frameworks & Libraries:** [[NIST]] (4)
 > **Env Vars:** nist (4), rmf (4), oecd (3), tevv (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** stands for (1)
@@ -513,8 +505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trustworthiness, valid, and reliable: Sections 3–3.1
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980)
+#### [Trustworthiness, valid, and reliable: Sections 3–3.1](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,11 +519,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=17)** Is it easy to interpret and explain their course of action and decision making habits?
 >
-> **[0:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=24)** When you share something personal with them, will they maintain your privacy?
+> **[0:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=24)** When you share something personal with them, will they maintain your [[Privacy]]?
 >
 > **[0:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=30)** Are they fair in their treatment of others without harboring harmful biases?
 >
-> **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=36)** The NIST AI RMF refers to these characteristics as trustworthiness.
+> **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=36)** The [[NIST]] AI RMF refers to these characteristics as trustworthiness.
 >
 > **[0:43](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=43)** These characteristics are sociotechnical or elements influenced by societal dynamics and human behavior.
 >
@@ -574,23 +565,22 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=221)** Sometimes this is known as hallucination.
 >
-> **[3:44](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=224)** An example of potential problems with generalizability is where generative AI produces historically inaccurate representations of people's and places, or when it gives advice that could potentially be harmful to those using it.
+> **[3:44](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=224)** An example of potential problems with generalizability is where [[Generative AI]] produces historically inaccurate representations of people's and places, or when it gives advice that could potentially be harmful to those using it.
 >
-> **[4:04](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=244)** AI systems cannot be left to their own devices to maintain trustworthiness, they need continuous monitoring and testing to validate and designate reliable results.
+> **[4:04](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=244)** AI systems cannot be left to their own devices to maintain trustworthiness, they need [[Continuous Monitoring]] and testing to validate and designate reliable results.
 >
 > **[4:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980&t=257)** Next, let's review an AI system safe, secure, resilient, accountable, and transparent characteristics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Privacy]] (2), [[NIST]] (1), rmf (1), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[NIST]] (1), [[Generative AI]] (1), [[Continuous Monitoring]] (1)
 > **Env Vars:** nist (1), rmf (1), iso (1)
 > **Definitions:** refers to (1), defined as (1), known as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Speakers:** - what (1)
 
-#### Safe, secure, resilient, accountable, and transparent: Sections 3.2–3.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980)
+#### [Safe, secure, resilient, accountable, and transparent: Sections 3.2–3.4](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,13 +592,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=36)** Safe considers that the AI systems' trustworthiness should not lead to a state where human life, health, property, or the environment is in danger.
 >
-> **[0:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=45)** Robotics, computer vision, and limited-memory AI all have applications that can directly affect people's lives and wellbeing.
+> **[0:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=45)** Robotics, [[Computer Vision]], and limited-memory AI all have applications that can directly affect people's lives and wellbeing.
 >
 > **[0:54](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=54)** Multiple types of driverless vehicles and factory equipment contain these implementations.
 >
 > **[1:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=61)** Safe operations of AI systems are supported by essential requirements.
 >
-> **[1:07](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=67)** This includes responsible design, development, and deployment practices, clear guidelines to deployers on responsible use, responsible decision-making by deployers and users, and explanations and documentation of risk tied to empirical data on incidents.
+> **[1:07](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=67)** This includes responsible design, development, and deployment practices, clear guidelines to deployers on responsible use, responsible [[Decision-Making]] by deployers and users, and explanations and documentation of risk tied to empirical data on incidents.
 >
 > **[1:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=90)** Secure and resilient AI systems are another set of characteristics necessary for trustworthiness.
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=107)** A secure state includes resilience and the ability to avoid, protect, respond to and recover from adversarial events.
 >
-> **[1:56](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=116)** Along with valid and reliable, accountability and transparency spans all other characteristics of trustworthiness.
+> **[1:56](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=116)** Along with valid and reliable, [[Accountability]] and transparency spans all other characteristics of trustworthiness.
 >
 > **[2:05](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=125)** Transparency in an AI system reflects the amount and quality of information concerning its output results, and makes all those impacted by the system aware.
 >
@@ -638,18 +628,17 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=211)** A growing number of tools support AI transparency and accountability that should be considered when managing these characteristics of AI trustworthiness.
 >
-> **[3:41](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=221)** Next, let's examine the AI trustworthiness characteristics, which are explainable, interpretable, privacy-enhanced and fair.
+> **[3:41](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/safe-secure-resilient-accountable-and-transparent-sections-3-2-3-4?u=76281980&t=221)** Next, let's examine the AI trustworthiness characteristics, which are explainable, interpretable, [[Privacy]]-enhanced and fair.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Accountability]] (5), data (2), chatbot (2), rmf (1)
+> **Frameworks & Libraries:** [[Accountability]] (5), [[Computer Vision]] (1), [[Decision-Making]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** rmf (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explainable, interpretable, and privacy: Sections 3.5–3.6
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980)
+#### [Explainable, interpretable, and privacy: Sections 3.5–3.6](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +662,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=58)** Understanding the underlying function of a system creates a better path to debugging, monitoring, documenting, auditing, and governance.
 >
-> **[1:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=68)** A document that can assist in addressing interpretability is the four principles of explainable artificial intelligence.
+> **[1:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=68)** A document that can assist in addressing interpretability is the four principles of explainable [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=77)** The principles include Explanation, which is how the system delivers or contains accompanying evidence or reasons for outputs and/or processes.
 >
@@ -681,11 +670,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=97)** Explanation Accuracy, which is exactly as it sounds, it's an explanation that correctly reflects the reasons for generating the output, and/or accurately reflects the system's processes, and Knowledge Limits, which is how a system only operates under the conditions for which it was designed, and then has some kind of measure that allows you to know when it's reached its sufficient confidence in its output.
 >
-> **[2:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=128)** Privacy-Enhanced characteristics of trustworthiness automatically comes with definite risk tolerance requirements stipulated by governments and regions from around the globe.
+> **[2:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=128)** [[Privacy]]-Enhanced characteristics of trustworthiness automatically comes with definite risk tolerance requirements stipulated by governments and regions from around the globe.
 >
 > **[2:19](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=139)** It includes managing AI systems, safeguarding human autonomy, identity, dignity, observation, and consent to disclosure.
 >
-> **[2:29](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=149)** An example of a privacy framework you can use is the NIST Privacy Framework.
+> **[2:29](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=149)** An example of a privacy framework you can use is the [[NIST]] Privacy Framework.
 >
 > **[2:34](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/explainable-interpretable-and-privacy-sections-3-5-3-6?u=76281980&t=154)** A tool for improving privacy through enterprise risk management.
 >
@@ -697,13 +686,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Privacy]] (6), [[Debugging]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[NIST]] (1)
 > **Env Vars:** nist (1), pet (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Fair, with harmful bias managed: Section 3.7
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980)
+#### [Fair, with harmful bias managed: Section 3.7](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=28)** Biases can appear in a system without conscious, malcontent, prejudice or racism.
 >
-> **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=36)** NIST defines three empirical representations of bias that must be identified and managed.
+> **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=36)** [[NIST]] defines three empirical representations of bias that must be identified and managed.
 >
 > **[0:43](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=43)** Systemic are part of organizations, institutions, and societies from which the AI systems are created.
 >
@@ -745,20 +733,19 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=165)** They would've probably uncovered the harmful discrimination at earlier points.
 >
-> **[2:49](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=169)** NIST special publication 1270 entitled, "Towards a Standard for Identifying and Managing Bias in Artificial Intelligence" is a great starting point to address this human-centered trustworthiness problem of fairness and bias.
+> **[2:49](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=169)** NIST special publication 1270 entitled, "Towards a Standard for Identifying and Managing Bias in [[Artificial Intelligence (AI)|Artificial Intelligence]]" is a great starting point to address this human-centered trustworthiness problem of fairness and bias.
 >
 > **[3:06](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/fair-with-harmful-bias-managed-section-3-7?u=76281980&t=186)** Let's close out our discussion of part one of the NIST AI RMF with the topic of effectiveness.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[NIST]] (3), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), rmf (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** nist (3), rmf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effectiveness: Section 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980)
+#### [Effectiveness: Section 4](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=26)** Monitoring and controlling the inputs and outputs of your AI lifecycle will fundamentally establish the health or effectiveness of your AI RMF.
 >
-> **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=36)** At the filming of this video, the NIST AI RMF stated that an evaluation of AI RMF effectiveness that includes measuring improvements and trustworthiness will be part of future NIST activities.
+> **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=36)** At the filming of this video, the [[NIST]] AI RMF stated that an evaluation of AI RMF effectiveness that includes measuring improvements and trustworthiness will be part of future NIST activities.
 >
 > **[0:51](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=51)** NIST intends to collaborate with the community to develop measures, methods, and goals for evaluating AI RMF effectiveness.
 >
@@ -780,11 +767,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=81)** Explicit processes for making go/no-go system commissioning and deployment decisions.
 >
-> **[1:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=90)** Established policies, processes, practices, and procedures for improving organizational accountability efforts related to AI system risk.
+> **[1:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=90)** Established policies, processes, practices, and procedures for improving organizational [[Accountability]] efforts related to AI system risk.
 >
-> **[1:40](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=100)** Enhanced organizational culture, which prioritize the identification and management of AI system risk and potential impacts to individuals, communities, organizations, and society.
+> **[1:40](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=100)** Enhanced [[Organizational Culture]], which prioritize the identification and management of AI system risk and potential impacts to individuals, communities, organizations, and society.
 >
-> **[1:53](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=113)** Better information sharing within and across organizations about risk decision-making processes, responsibilities, common pitfalls, and the trust evaluation, verification, and validation practices, and approaches for continuous improvement.
+> **[1:53](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=113)** Better information sharing within and across organizations about risk [[Decision-Making]] processes, responsibilities, common pitfalls, and the trust evaluation, verification, and validation practices, and approaches for continuous improvement.
 >
 > **[2:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/effectiveness-section-4?u=76281980&t=128)** Greater contextual knowledge for increased awareness of downstream risk, strengthened engagement with interested parties and relevant AI actors, and augmented capacity for the trust evaluation, verification, and validation functions of AI systems, and associated risk.
 >
@@ -796,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), rmf (7), [[NIST]] (4), [[Accountability]] (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Accountability]] (1), [[Organizational Culture]] (1), [[Decision-Making]] (1)
 > **Env Vars:** rmf (7), nist (4)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
@@ -806,12 +793,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI RMF Core: Section 5
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980)
+#### [AI RMF Core: Section 5](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=1)** - Think for a moment about the word core.
+> **[0:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=1)** - Think for a moment about the [[Microsoft Word|word]] core.
 >
 > **[0:03](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=3)** It specifies the center of all things organic or inorganic, anate or inanimate.
 >
@@ -821,9 +807,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=20)** These winds would strip earth's atmosphere of the ozone layer, exposing life to harmful ultraviolet radiation.
 >
-> **[0:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=30)** The AI risk management framework core is a useful term to describe the outcomes and actions that drive dialogue, understanding, and activities to manage AI risk.
+> **[0:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=30)** The AI [[Risk Management Framework (RMF)|risk management framework]] core is a useful term to describe the outcomes and actions that drive dialogue, understanding, and activities to manage AI risk.
 >
-> **[0:44](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=44)** Without the AI RMF Core, you would not have the necessary elements to implement the NIST AI RMF.
+> **[0:44](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=44)** Without the AI RMF Core, you would not have the necessary elements to implement the [[NIST]] AI RMF.
 >
 > **[0:52](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=52)** The core consists of four functions: govern, map, measure, and manage.
 >
@@ -845,7 +831,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=137)** The playbook is a way of operationalizing your AI RMF.
 >
-> **[2:22](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=142)** Along with the AI RMF, the playbook is part of the NIST Trustworthy & Responsible AI Resource Center.
+> **[2:22](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=142)** Along with the AI RMF, the playbook is part of the NIST Trustworthy & [[Responsible AI]] Resource Center.
 >
 > **[2:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980&t=150)** We'll review and use the playbook at the end of this chapter.
 >
@@ -853,17 +839,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), rmf (10), [[NIST]] (4), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Responsible AI]] (1)
 > **Env Vars:** rmf (10), nist (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - think (1)
 
-#### Govern: Section 5.1, C1
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980)
+#### [Govern: Section 5.1, C1](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=0)** - [Host] Artificial intelligence is not a magical capability that will cure destructive or damaging processes, behaviors, cultures, and beliefs within an organization.
+> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=0)** - [Host] [[Artificial Intelligence (AI)|Artificial intelligence]] is not a magical capability that will cure destructive or damaging processes, behaviors, cultures, and beliefs within an organization.
 >
 > **[0:11](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=11)** AI is an accelerator.
 >
@@ -885,7 +870,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=79)** Healthy governance can promote and enhance internal practices and norms to facilitate organizational risk, culture governing authorities can determine the overarching policies that direct an organization's mission, goals, values, culture, and risk tolerance.
 >
-> **[1:38](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=98)** Senior leadership sets the tone for risk management within an organization and with it, organizational culture.
+> **[1:38](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=98)** Senior leadership sets the tone for risk management within an organization and with it, [[Organizational Culture]].
 >
 > **[1:46](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=106)** Let's examine the categories and subcategories of govern.
 >
@@ -907,7 +892,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=198)** Govern also includes an inventory of AI systems and uses verification in line with organizational risk prioritization.
 >
-> **[3:28](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=208)** The final element of the first category of govern is the safe decommissioning of AI systems, elements of AI trustworthiness called to mind characteristics like privacy, security, and validity.
+> **[3:28](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=208)** The final element of the first category of govern is the safe decommissioning of AI systems, elements of AI trustworthiness called to mind characteristics like [[Privacy]], security, and validity.
 >
 > **[3:41](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c1?u=76281980&t=221)** This should be considered when imagining that the intent to destroy needs to be insured to prevent data remnants.
 >
@@ -915,17 +900,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), management (4), rmf (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), functional (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Organizational Culture]] (1), [[Privacy]] (1)
 > **Env Vars:** rmf (3)
 > **Definitions:** is an  (2)
 > **Speakers:** - [host] (1)
 
-#### Govern: Section 5.1, C2–3
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980)
+#### [Govern: Section 5.1, C2–3](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=0)** - [Instructor] When you hear the word accountability, what's the first thing that comes to mind?
+> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=0)** - [Instructor] When you hear the [[Microsoft Word|word]] [[Accountability]], what's the first thing that comes to mind?
 >
 > **[0:05](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=5)** Is it about taking responsibility at a legal level?
 >
@@ -933,7 +917,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=13)** In the context of governance, accountability is a crucial aspect.
 >
-> **[0:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=17)** What's particularly intriguing and inspiring is how the AI risk management framework emphasizes the accountability structure to empower teams and individuals.
+> **[0:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=17)** What's particularly intriguing and inspiring is how the AI [[Risk Management Framework (RMF)|risk management framework]] emphasizes the accountability structure to empower teams and individuals.
 >
 > **[0:30](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=30)** Let's continue discussing categories two and three of the govern function.
 >
@@ -951,7 +935,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=87)** This includes having diverse participants involved in all decision making of the AI lifecycle phases.
 >
-> **[1:34](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=94)** This includes the planning phase, data collection, deployment, and use.
+> **[1:34](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=94)** This includes the planning phase, [[Data Collection]], deployment, and use.
 >
 > **[1:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c2-3?u=76281980&t=99)** Diversity includes demographics, disciplines, experience, expertise, and backgrounds.
 >
@@ -965,14 +949,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (6), ai (5), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), teams (1)
+> **Frameworks & Libraries:** [[Accountability]] (6), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Data Collection]] (1)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Govern: Section 5.1, C4–6
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980)
+#### [Govern: Section 5.1, C4–6](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,11 +999,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=128)** This also includes designing a contingency process to handle failures or incidents in high-risk third-party data situations.
 >
-> **[2:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=137)** As a consumer, your dependency risk could be high related to service availability, data integrity, or confidentiality.
+> **[2:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=137)** As a consumer, your dependency risk could be high related to service availability, [[Data Integrity]], or confidentiality.
 >
 > **[2:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=147)** These contingencies should be rolled up into enterprise incident and business continuity plans.
 >
-> **[2:33](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=153)** For a more extensive review of the suggested activities related to the govern function, see the AI playbook at the Trustworthy & Responsible AI Resource Center at [NIST.gov](https://NIST.gov).
+> **[2:33](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=153)** For a more extensive review of the suggested activities related to the govern function, see the AI playbook at the Trustworthy & [[Responsible AI]] Resource Center at [[[NIST]].gov](https://NIST.gov).
 >
 > **[2:47](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/govern-section-5-1-c4-6?u=76281980&t=167)** Once the govern function is established, it's time to move into the map, measure, and manage functions.
 >
@@ -1028,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), teams (2), data (2), business (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1), [[Responsible AI]] (1), [[NIST]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Env Vars:** nist (1)
@@ -1037,8 +1020,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map: Section 5.2, C1
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980)
+#### [Map: Section 5.2, C1](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,9 +1030,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=14)** Can you imagine getting to a destination before physical maps were widely available?
 >
-> **[0:20](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=20)** Then, you depended upon word of mouth instructions about landmarks and literal milestones.
+> **[0:20](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=20)** Then, you depended upon [[Microsoft Word|word]] of mouth instructions about landmarks and literal milestones.
 >
-> **[0:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=27)** Implementing and maintaining an AI risk management framework can be similarly tricky without a map to interconnect risk management activities throughout the AI lifecycle.
+> **[0:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=27)** Implementing and maintaining an AI [[Risk Management Framework (RMF)|risk management framework]] can be similarly tricky without a map to interconnect risk management activities throughout the AI lifecycle.
 >
 > **[0:40](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=40)** AI actors with responsibility in the deployment phase need visibility into the impacts and risks defined in the design phase and vice versa.
 >
@@ -1066,7 +1048,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=93)** Adequate attention to the map function should inform a go/no-go decision to begin any phase in the AI lifecycle.
 >
-> **[1:41](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=101)** As with the four core functions, practices related to mapping AI risk are described in the NIST "AI RMF Playbook."
+> **[1:41](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=101)** As with the four core functions, practices related to mapping AI risk are described in the [[NIST]] "AI RMF Playbook."
 >
 > **[1:51](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c1?u=76281980&t=111)** Let's review the categories and subcategories of the map function.
 >
@@ -1100,13 +1082,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (2), [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[NIST]] (1)
 > **Env Vars:** gps (1), nist (1), rmf (1), pii (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [presenter] (1)
 
-#### Map: Section 5.2, C2–5
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980)
+#### [Map: Section 5.2, C2–5](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,7 +1117,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=69)** The potential benefits of the AI system functionality and performance are examined.
 >
-> **[1:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=75)** Let's say it's a predictive AI system for severe weather reporting.
+> **[1:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=75)** Let's say it's a [[Predictive AI]] system for severe weather reporting.
 >
 > **[1:20](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=80)** Next, you'd examine the cost, including non-monetary that come from system errors, severe weather costs, lives, and property damage.
 >
@@ -1178,7 +1159,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=193)** This will help refine your AI system.
 >
-> **[3:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=196)** For more extensive review of the suggested activities related to the map function, see the AI playbook at the trustworthy and responsible AI resource center at [nist.gov](https://nist.gov).
+> **[3:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=196)** For more extensive review of the suggested activities related to the map function, see the AI playbook at the trustworthy and [[Responsible AI]] resource center at [[[NIST]].gov](https://nist.gov).
 >
 > **[3:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/map-section-5-2-c2-5?u=76281980&t=207)** We've established the govern and map functions.
 >
@@ -1186,13 +1167,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (2), next (2), [[Predictive AI]] (1), application (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (1), [[Responsible AI]] (1), [[NIST]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measure: Section 5.3, C1
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c1?u=76281980)
+#### [Measure: Section 5.3, C1](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,14 +1216,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), business (1), rmf (1), product (1)
 > **Env Vars:** cio (2), rmf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measure: Section 5.3, C2–4
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980)
+#### [Measure: Section 5.3, C2–4](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,19 +1255,19 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=99)** Verification is made that residual adverse risk doesn't exceed risk tolerance.
 >
-> **[1:46](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=106)** AI security and resilience features manifested in the Map function are evaluated and documented.
+> **[1:46](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=106)** [[AI Security]] and resilience features manifested in the Map function are evaluated and documented.
 >
 > **[1:53](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=113)** Some resilience features like redundancy and availability are from external systems.
 >
-> **[1:58](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=118)** Transparency and accountability risk, identified in the Map function are examined and documented.
+> **[1:58](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=118)** Transparency and [[Accountability]] risk, identified in the Map function are examined and documented.
 >
 > **[2:03](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=123)** For instance, if the AI system renders a loan decision, what information is made available to potential users on what criteria was used to decide?
 >
 > **[2:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=135)** Further validation, explanation, and documentation should be produced regarding the system output being interpreted in its context.
 >
-> **[2:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=144)** Privacy risk of the AI system identified in the Map function are examined and documented.
+> **[2:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=144)** [[Privacy]] risk of the AI system identified in the Map function are examined and documented.
 >
-> **[2:29](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=149)** For instance, the risk of collecting personal data from minors as specified under the Children's Online Privacy Protection Rule, or COPPA Act, established in the US.
+> **[2:29](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=149)** For instance, the risk of collecting personal data from minors as specified under the Children's Online [[Privacy Protection]] Rule, or COPPA Act, established in the US.
 >
 > **[2:42](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=162)** Fairness and bias identified in the Map function are evaluated and documented.
 >
@@ -1315,7 +1293,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=240)** It includes consulting domain experts for measurement approaches for identifying risk in deployment, and results of measuring AI trustworthiness across the AI life cycle, validated by domain experts and other AI actors, and continual performance improvement or decline measurements is attained through continued input from internal and external stakeholders.
 >
-> **[4:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=267)** For a more extensive review of the suggested activities related to the Measure function, see the AI Playbook at the Trustworthy and Responsible AI Resource Center at [nist.gov](https://nist.gov).
+> **[4:27](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=267)** For a more extensive review of the suggested activities related to the Measure function, see the AI Playbook at the Trustworthy and [[Responsible AI]] Resource Center at [[[NIST]].gov](https://nist.gov).
 >
 > **[4:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/measure-section-5-3-c2-4?u=76281980&t=279)** Establishing, implementing, and maintaining the Measure function is an output necessary to accomplish the managed function of the AI RMF Core.
 >
@@ -1323,15 +1301,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), [[Security]] (1), [[Accountability]] (1), [[Privacy]] (1), data (1)
+> **Frameworks & Libraries:** [[AI Security]] (1), [[Accountability]] (1), [[Privacy]] (1), [[Privacy Protection]] (1), [[Responsible AI]] (1)
 > **Analogies:** for instance (4), for example (2)
 > **Env Vars:** tevv (2), coppa (1), rmf (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage: Section 5.4
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980)
+#### [Manage: Section 5.4](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=11)** It differentiates the activities and purposes of Governance and Management.
 >
-> **[0:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=16)** Governance operates based on agreed upon enterprise objectives and decision-making established by the Board of Directors.
+> **[0:16](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=16)** Governance operates based on agreed upon enterprise objectives and [[Decision-Making]] established by the Board of Directors.
 >
 > **[0:25](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=25)** Management plans, builds, runs, and monitors activities in alignment with the directions set by the governance body.
 >
@@ -1377,7 +1354,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=157)** Ensure procedures are followed to respond to and recover from previously unknown risk.
 >
-> **[2:43](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=163)** The ability to address previously unknown risk that have caused an impact means robust threat modeling activities should be in place.
+> **[2:43](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=163)** The ability to address previously unknown risk that have caused an impact means robust [[Threat Modeling]] activities should be in place.
 >
 > **[2:52](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=172)** Override mechanisms are in place and assigned to disengage or deactivate AI systems inconsistent with the intended use.
 >
@@ -1397,7 +1374,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=225)** This includes post-deployment monitoring plans for response actions, and inputs from the affected.
 >
-> **[3:53](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=233)** Think of the varied activities that could include override, decommissioning, incident response, recovery, and change management.
+> **[3:53](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=233)** Think of the varied activities that could include override, decommissioning, [[Incident Response]], recovery, and change management.
 >
 > **[4:04](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=244)** Implement measurable activities related to continuous improvement.
 >
@@ -1405,7 +1382,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=257)** Communicating incidents and errors to relevant AI actors and communities should be established.
 >
-> **[4:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=263)** For a more extensive review of the suggested activities related to the Manage function, see the AI Playbook at the trustworthy and responsible AI Resource Center at [nist.gov](https://nist.gov).
+> **[4:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=263)** For a more extensive review of the suggested activities related to the Manage function, see the AI Playbook at the trustworthy and [[Responsible AI]] Resource Center at [[[NIST]].gov](https://nist.gov).
 >
 > **[4:35](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/manage-section-5-4?u=76281980&t=275)** The AI RMF Playbook can operationalize the Govern, Map, Measure, and Manage functions.
 >
@@ -1413,25 +1390,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), management (7), rmf (2), business (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Threat Modeling]] (1), [[Incident Response]] (1), [[Responsible AI]] (1), [[NIST]] (1)
 > **Env Vars:** rmf (2), isaca (1), cobit (1)
 > **Definitions:** is a  (1), known as (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Playbook to operationalize AI RMF Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980)
+#### [Using the Playbook to operationalize AI RMF Core](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=0)** - [Host] How can you operationalize the NIST AI RMF Core in your organization?
+> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=0)** - [Host] How can you operationalize the [[NIST]] AI RMF Core in your organization?
 >
-> **[0:06](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=6)** You can use the free interactive AI RMF Playbook when you arrive at the trustworthy and responsible AI Resource Center's homepage, you'll notice the knowledge base link under the home link to the left.
+> **[0:06](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=6)** You can use the free interactive AI RMF Playbook when you arrive at the trustworthy and [[Responsible AI]] Resource Center's homepage, you'll notice the knowledge base link under the home link to the left.
 >
 > **[0:24](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=24)** Selecting the playbook option opens up the playbook webpage where you will find suggested actions for achieving outcomes in the AI RMF core functions of govern, map, measure, and manage.
 >
-> **[0:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=39)** You can download the playbook in PDF, CSV, Excel or JSON format.
+> **[0:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=39)** You can download the playbook in PDF, CSV, [[Microsoft Excel|Excel]] or [[JSON]] format.
 >
 > **[0:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/using-the-playbook-to-operationalize-ai-rmf-core?u=76281980&t=45)** Scroll down to the bottom of the webpage under Explore the Playbook, and you can create a specific context by selecting any of the types.
 >
@@ -1471,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), rmf (9), [[NIST]] (1), [[Responsible AI]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Responsible AI]] (1), [[Microsoft Excel|Excel]] (1), [[JSON]] (1)
 > **Env Vars:** rmf (9), nist (1), pdf (1), csv (1), json (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1)
@@ -1485,12 +1461,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of profiles: Section 6
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980)
+#### [Overview of profiles: Section 6](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=0)** - [Host] Have you interacted with the online Risk Management Framework Playbook yet?
+> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=0)** - [Host] Have you interacted with the online [[Risk Management Framework (RMF)|Risk Management Framework]] Playbook yet?
 >
 > **[0:05](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=5)** Once you do, you'll quickly realize how using it and the other elements of the AI RMF will help you make meaningful progress in your AI RMF process.
 >
@@ -1498,7 +1473,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=25)** Section six of the AI RMF addresses three types of profiles, use case profiles, temporal, which includes current and target profiles and cross-sectional profiles, use case profiles or implementations of the AI RMF functions, category, and subcategory for a specific setting or application based on the requirements, risk tolerance and resources of the framework user.
 >
-> **[0:56](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=56)** For instance, there are framework users in the banking industry.
+> **[0:56](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=56)** For instance, there are framework users in the [[Banking]] industry.
 >
 > **[1:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980&t=61)** They come with a particular set of risk tolerance imposed upon them by regulators that someone in the entertainment industry doesn't have.
 >
@@ -1528,24 +1503,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), rmf (5), application (2), management (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Env Vars:** rmf (5)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [host] (1)
 
-#### Overview of Appendices A–D
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980)
+#### [Overview of Appendices A–D](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=0)** - [Instructor] This document is the NIST AI RMF 1.0 that can be accessed from the trustworthy and responsible AI resource center at [nist.gov](https://nist.gov).
+> **[0:00](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=0)** - [Instructor] This document is the [[NIST]] AI RMF 1.0 that can be accessed from the trustworthy and [[Responsible AI]] resource center at [nist.gov](https://nist.gov).
 >
 > **[0:11](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=11)** You can also find the link to it in the handout for this course.
 >
 > **[0:15](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=15)** Now that we've reviewed Part 1 and 2 of the NIST AI RMF, let's take a look at the Appendix section.
 >
-> **[0:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=23)** The Appendix section of the AI Risk Management Framework, A through D, has valuable information to further assist you in making meaningful progress in establishing your AI RMF practice.
+> **[0:23](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=23)** The Appendix section of the AI [[Risk Management Framework (RMF)|Risk Management Framework]], A through D, has valuable information to further assist you in making meaningful progress in establishing your AI RMF practice.
 >
 > **[0:36](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-appendices-a-d?u=76281980&t=36)** Appendix A lists AI actors, along with their associated task.
 >
@@ -1585,7 +1559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[NIST]] (8), rmf (7), management (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[NIST]] (8), [[Responsible AI]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Env Vars:** nist (7), rmf (7), oecd (2)
 > **CLI Commands:** find (4), make (1)
 > **URLs:** [nist.gov](https://nist.gov) (1)
@@ -1599,16 +1573,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where do you begin?
-> [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980)
+#### [Where do you begin?](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=1)** - Congratulations on completing this course on understanding and implementing NIST AI RMF.
+> **[0:01](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=1)** - Congratulations on completing this course on understanding and implementing [[NIST]] AI RMF.
 >
 > **[0:08](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=8)** We have covered a lot of information, which may seem overwhelming.
 >
-> **[0:13](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=13)** But I have something to get you started implementing an AI risk management framework.
+> **[0:13](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=13)** But I have something to get you started implementing an AI [[Risk Management Framework (RMF)|risk management framework]].
 >
 > **[0:19](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=19)** The AI RMF roadmap identifies key activity for advancing the AI RMF that could be carried out by NIST in collaboration with private and public sector organizations, or by those organizations independently.
 >
@@ -1632,13 +1605,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=99)** It has been a pleasure connecting with you, and I wish you the best in your AI RMF journey.
 >
-> **[1:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=105)** If you'd like to connect with me, you can reach me on LinkedIn.
+> **[1:45](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=105)** If you'd like to connect with me, you can reach me on [[LinkedIn]].
 >
 > **[1:49](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980&t=109)** Thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), rmf (5), [[NIST]] (4), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rmf (5), nist (4)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)

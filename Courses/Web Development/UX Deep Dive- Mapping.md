@@ -69,14 +69,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is UX mapping?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980)
+#### [What is UX mapping?](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=0)** - When you hear the word map, you might think of a visual artifact to find your way or make sense of something complex.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=0)** - When you hear the [[Microsoft Word|word]] map, you might think of a visual artifact to find your way or make sense of something complex.
 >
-> **[0:08](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=8)** Just like physical maps, UX maps can help us understand the people who will use what we build, the relationships between people and services or products we offer, and components of the whole system we're working on.
+> **[0:08](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=8)** Just like physical maps, UX maps can help us understand the people who will use what we build, the relationships between people and services or [[Microsoft Products|products]] we offer, and components of the whole system we're working on.
 >
 > **[0:20](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-ux-mapping?u=76281980&t=20)** If you're already a part of the UX world, you know that research and design helps us create better products, but you probably also know that communicating everything you've found can be a challenge.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
@@ -102,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mapping as a tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980)
+#### [Mapping as a tool](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,11 +129,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980&t=81)** Maps of any kind can help you build a shared understanding and alignment.
 >
-> **[1:25](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980&t=85)** Let's walk through some of the most common types of mapping used in user experience so you can get started using maps in your own work.
+> **[1:25](https://www.linkedin.com/learning/ux-deep-dive-mapping/mapping-as-a-tool?u=76281980&t=85)** Let's walk through some of the most common types of mapping used in [[User Experience (UX)|user experience]] so you can get started using maps in your own work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), data (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
@@ -144,8 +142,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Empathy map usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/empathy-map-usage?u=76281980)
+#### [Empathy map usage](https://www.linkedin.com/learning/ux-deep-dive-mapping/empathy-map-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,13 +190,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), product (2), data (1), functional (1), teams (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
 
-#### Building an empathy map
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/building-an-empathy-map?u=76281980)
+#### [Building an empathy map](https://www.linkedin.com/learning/ux-deep-dive-mapping/building-an-empathy-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,7 +260,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **Analogies:** for instance (4), such as (2), picture (1)
 > **Definitions:** is a  (3)
 > **Warnings:** note that (1), be aware (1)
@@ -277,8 +271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a journey map?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980)
+#### [What is a journey map?](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,11 +297,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=68)** You should gather any existing information such as site analytics, feedback from support representatives, or sales feedback.
 >
-> **[1:16](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=76)** You can use that information to inform hypothesis that frame the rest of your research.
+> **[1:16](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=76)** You can use that information to inform hypothesis that frame the [[Representational State Transfer (REST)|rest]] of your research.
 >
 > **[1:21](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=81)** While no project looks exactly the same it's very likely you'll want to both talk to and observe your users, so things like interviews, usability tests, diaries or other longitudinal studies and contextual inquiries, or other ethnic graphic studies are likely.
 >
-> **[1:38](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=98)** The goal of current state mapping is to factually represent the steps, interaction points, channels and behaviors and layer on narrative about the users outlook and emotions.
+> **[1:38](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=98)** The goal of current state mapping is to factually represent the steps, interaction points, channels and behaviors and layer on narrative about the users [[Microsoft Outlook|outlook]] and emotions.
 >
 > **[1:49](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-journey-map?u=76281980&t=109)** Ultimately you want to build shared understanding so you can collectively work to improve the experience.
 >
@@ -322,12 +315,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), functional (1), teams (1), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Speakers:** - a (1)
 
-#### Journey map preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/journey-map-preparation?u=76281980)
+#### [Journey map preparation](https://www.linkedin.com/learning/ux-deep-dive-mapping/journey-map-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,14 +343,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), functional (1), ux (1), teams (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - journey (1)
 
-#### Building a journey map
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/building-a-journey-map?u=76281980)
+#### [Building a journey map](https://www.linkedin.com/learning/ux-deep-dive-mapping/building-a-journey-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +432,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), ux (1), functional (1)
 > **Analogies:** for instance (4), such as (2), picture (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
@@ -454,8 +443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a experience map?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-experience-map?u=76281980)
+#### [What is a experience map?](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-experience-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,13 +481,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1), data (1)
 > **Analogies:** for instance (2), picture (1), just like (1), such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - an (1)
 
-#### What is a service blueprint?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-service-blueprint?u=76281980)
+#### [What is a service blueprint?](https://www.linkedin.com/learning/ux-deep-dive-mapping/what-is-a-service-blueprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,7 +533,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (1)
 > **Analogies:** such as (4), just like (1), picture (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
@@ -561,8 +546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Other types of maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980)
+#### [Other types of maps](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=114)** These are the crucial steps that help a story feel complete.
 >
-> **[1:58](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=118)** Storymapping uses these steps to highlight the important players, context, and actions for products.
+> **[1:58](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=118)** Storymapping uses these steps to highlight the important players, context, and actions for [[Microsoft Products|products]].
 >
 > **[2:05](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=125)** Like with other kinds of mapping, you can conduct research and use narrative arc to describe what you found or use story mapping to plot out ideal future scenarios.
 >
@@ -610,7 +594,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=148)** Similarly named but quite different in context, you might have also heard of a user storymap.
 >
-> **[2:35](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=155)** This particular tool isn't a strictly UX practice but it's commonly used within agile development teams.
+> **[2:35](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=155)** This particular tool isn't a strictly UX practice but it's commonly used within [[Agile Development|agile]] development teams.
 >
 > **[2:42](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=162)** In agile environments, a user's story is a description of work that needs to get done, written from the perspective of the person who will use it.
 >
@@ -620,7 +604,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=179)** This helps agile teams keep their target audience and their end goal in mind.
 >
-> **[3:05](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=185)** For example, let's say you're working on a new e-commerce site.
+> **[3:05](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=185)** For example, let's say you're working on a new [[E-Commerce]] site.
 >
 > **[3:08](https://www.linkedin.com/learning/ux-deep-dive-mapping/other-types-of-maps?u=76281980&t=188)** A user story might be something like as a customer I want to be able to save my payment details so it's faster for me to check out in the future.
 >
@@ -636,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), ux (3), [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -648,14 +632,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share your #uxmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980)
+#### [Share your #uxmaps](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=1)** - Thanks so much for taking some time to dig into the various maps user experience practitioners use.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=1)** - Thanks so much for taking some time to dig into the various maps [[User Experience (UX)|user experience]] practitioners use.
 >
-> **[0:07](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=7)** Maps are great flexible tools for anyone involved in building software and products.
+> **[0:07](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=7)** Maps are great flexible tools for anyone involved in building software and [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=12)** They can help you visualize complex problems or concepts, identify gaps in current situations, and plot out future plans to address your users' needs.
 >
@@ -663,9 +646,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=26)** I'd love to hear how your teams are using maps.
 >
-> **[0:29](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=29)** Share your stories on LinkedIn with the hashtag #uxmap, to continue the conversation.
+> **[0:29](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=29)** Share your stories on [[LinkedIn]] with the hashtag #uxmap, to continue the conversation.
 >
-> **[0:34](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=34)** And remember that this is just one of a series of UX research deep dives.
+> **[0:34](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=34)** And remember that this is just one of a series of [[UX Research]] deep dives.
 >
 > **[0:39](https://www.linkedin.com/learning/ux-deep-dive-mapping/share-your-uxmaps?u=76281980&t=39)** Check out my other courses here.
 >
@@ -673,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), teams (1), [[LinkedIn]] (1), ux (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[UX Research]] (1)
 > **Speakers:** - thanks (1)
 
 

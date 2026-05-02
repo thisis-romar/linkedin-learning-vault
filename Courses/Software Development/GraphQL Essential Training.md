@@ -83,20 +83,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn GraphQL essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980)
+#### [Learn GraphQL essentials](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=0)** - [Instructor] Are you looking for a better way to fetch data from multiple sources?
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=0)** - [Instructor] Are you looking for a better way to [[Fetch]] data from multiple sources?
 >
-> **[0:04](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=4)** This is where GraphQL comes in, and in this course we'll explore GraphQL and Dev and I'll demonstrate how to work with this library.
+> **[0:04](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=4)** This is where [[GraphQL]] comes in, and in this course we'll explore GraphQL and Dev and I'll demonstrate how to work with this library.
 >
 > **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=13)** First, we'll walk through the setup of GraphQL.
 >
 > **[0:16](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=16)** Then we'll explore the syntax of all the different types and the schema.
 >
-> **[0:21](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=21)** Next, we'll add persistence using MongoDB and SQL, so we can query multiple databases.
+> **[0:21](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=21)** Next, we'll add persistence using [[MongoDB]] and [[SQL]], so we can query multiple [[Databases]].
 >
 > **[0:27](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980&t=27)** Then we'll code mutations to add new items, update them or delete them.
 >
@@ -108,27 +107,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), [[Fetch]] (1), data (1), next (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Fetch]] (1), [[MongoDB]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** sql (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is an essentials course on GraphQL, no prior knowledge of GraphQL is required.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is an essentials course on [[GraphQL]], no prior knowledge of GraphQL is required.
 >
-> **[0:07](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=7)** However, experience with JavaScript is a must for this course.
+> **[0:07](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=7)** However, experience with [[JavaScript]] is a must for this course.
 >
-> **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=13)** Next, being familiar with terminal commands and npm is useful, as we run these tools often.
+> **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=13)** Next, being familiar with terminal commands and [[npm]] is useful, as we run these tools often.
 >
 > **[0:19](https://www.linkedin.com/learning/graphql-essential-training-20298359/course-prerequisites?u=76281980&t=19)** And as you'll see, I'm running on a Mac, but you can follow along on a PC, as the tools work exactly the same on both platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (2), [[JavaScript]] (1), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2), [[JavaScript]] (1), [[npm]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** npm (1)
 > **Tools:** terminal (1)
@@ -139,12 +137,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IDE and required tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980)
+#### [IDE and required tools](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980&t=0)** - [Instructor] GraphQL doesn't require anything special outside of the tools you're currently using as a developer, so a good IDE or code editor will do the trick.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980&t=0)** - [Instructor] [[GraphQL]] doesn't require anything special outside of the tools you're currently using as a developer, so a good IDE or code editor will do the trick.
 >
 > **[0:10](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980&t=10)** There are some options with extensions or plugins that will make your experience as a developer smoother working with GraphQL.
 >
@@ -179,12 +176,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### GraphQL overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980)
+#### [GraphQL overview](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=0)** - [Instructor] What is GraphQL and what are the benefits of using it?
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=0)** - [Instructor] What is [[GraphQL]] and what are the benefits of using it?
 >
 > **[0:04](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=4)** Is it a database?
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=34)** This is when they created GraphQL.
 >
-> **[0:37](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=37)** GraphQL is a query language for any kind of APIs and is able to fulfill any queries across multiple databases.
+> **[0:37](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=37)** GraphQL is a query language for any kind of APIs and is able to fulfill any queries across multiple [[Databases]].
 >
 > **[0:46](https://www.linkedin.com/learning/graphql-essential-training-20298359/graphql-overview?u=76281980&t=46)** So in other words, it's not a server or a database.
 >
@@ -234,19 +230,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (8), database (3), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (8), [[Databases]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980)
+#### [Server setup](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=0)** - [Instructor] Okay, so for setting up our GraphQL environment, we need a base server set up and we'll use node to get this going.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=0)** - [Instructor] Okay, so for setting up our [[GraphQL]] environment, we need a base server set up and we'll use node to get this going.
 >
-> **[0:07](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=7)** We'll also install Babel so we can use JavaScript's latest syntax as we work with our application.
+> **[0:07](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=7)** We'll also install Babel so we can use [[JavaScript]]'s latest syntax as we work with our application.
 >
 > **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=13)** So let's get to it.
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=51)** So you can open it from new terminal, like so, or use the shortcut in your respective system.
 >
-> **[0:58](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=58)** So let's clear this and let's go ahead by doing an NPM init, so we can initialize our project.
+> **[0:58](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=58)** So let's clear this and let's go ahead by doing an [[npm]] init, so we can initialize our project.
 >
 > **[1:09](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=69)** So yes, GraphQL, version, description, index, test command, get, keywords, and then author.
 >
@@ -274,7 +269,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=78)** I'm just going faster here, so we can create this base package.
 >
-> **[1:24](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=84)** Dot JSON file here, so as you can see, you have everything you need here.
+> **[1:24](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=84)** Dot [[JSON]] file here, so as you can see, you have everything you need here.
 >
 > **[1:28](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=88)** If you want to add any details, you can do that here as well.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=113)** So what I'm going to do is do NPMI, or you can use install, and do dash, dash save, dash dev, and then add a few dependencies.
 >
-> **[2:03](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=123)** So the very first one is going to be Babel CLI, and then what I'm going to do is copy and paste that particular line here.
+> **[2:03](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=123)** So the very first one is going to be Babel [[CLI]], and then what I'm going to do is copy and paste that particular line here.
 >
 > **[2:11](https://www.linkedin.com/learning/graphql-essential-training-20298359/server-setup?u=76281980&t=131)** So I can copy and paste again and save a few keystrokes, and do core and then paste, and then I'm going to do node and then paste again.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (9), express (5), [[npm]] (4), node (3), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[GraphQL]] (9), [[npm]] (4), [[JavaScript]] (3), [[JSON]] (2), [[CLI]] (1)
 > **Prerequisites:** install (11), set up (1)
 > **CLI Commands:** npm (4), make (4), node (3)
 > **Env Vars:** npm (4), json (2), npmi (2), url (2), cli (1)
@@ -407,12 +402,11 @@ created: 2026-05-02
 > **Ports:** port 80 (2)
 > **File Paths:** index.js (1)
 
-#### The initial GraphQL setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980)
+#### [The initial GraphQL setup](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=0)** - [Instructor] Now that we have a base server set up, let's add GraphQL to it.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=0)** - [Instructor] Now that we have a base server set up, let's add [[GraphQL]] to it.
 >
 > **[0:04](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=4)** So the first thing we're going to do is install a few more things.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=145)** So basically, the response should be a string.
 >
-> **[2:30](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=150)** So, what's going to happen with that, we're going to export it, and then we we'll, and as we build the rest, it'll make a bit more sense.
+> **[2:30](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=150)** So, what's going to happen with that, we're going to export it, and then we we'll, and as we build the [[Representational State Transfer (REST)|rest]], it'll make a bit more sense.
 >
 > **[2:39](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=159)** So, let's just finish this here, export schema, save this, and then let's go into our server.
 >
@@ -512,7 +506,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=323)** So, we're telling GraphQL, FYI, the schema that I'm expecting is from the schema here.
 >
-> **[5:33](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=333)** And you can also do something like this if you want to use the latest and greatest JavaScript.
+> **[5:33](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=333)** And you can also do something like this if you want to use the latest and greatest [[JavaScript]].
 >
 > **[5:38](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=338)** But I like to be a bit more declarative, so you guys see the thinking here, but you can also do the shorter version.
 >
@@ -530,7 +524,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=387)** And I keep creating new terminals, I shouldn't do that.
 >
-> **[6:30](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=390)** Just bring the old terminal and do an npm start.
+> **[6:30](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=390)** Just bring the old terminal and do an [[npm]] start.
 >
 > **[6:37](https://www.linkedin.com/learning/graphql-essential-training-20298359/the-initial-graphql-setup?u=76281980&t=397)** Everything is running.
 >
@@ -572,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (23), data (8), database (5), express (4), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (23), [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (1), [[npm]] (1)
 > **Code Identifiers:** buildschema (3), graphiql (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** install (3), set up (1)
@@ -581,12 +575,11 @@ created: 2026-05-02
 > **Env Vars:** http (1), fyi (1)
 > **Tools:** terminal (2)
 
-#### Basic GraphQL schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/basic-graphql-schema?u=76281980)
+#### [Basic GraphQL schema](https://www.linkedin.com/learning/graphql-essential-training-20298359/basic-graphql-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/basic-graphql-schema?u=76281980&t=0)** - [Instructor] To be able to make queries in GraphQL, you need to define a schema like we started working on here.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/basic-graphql-schema?u=76281980&t=0)** - [Instructor] To be able to make queries in [[GraphQL]], you need to define a schema like we started working on here.
 >
 > **[0:07](https://www.linkedin.com/learning/graphql-essential-training-20298359/basic-graphql-schema?u=76281980&t=7)** But this is basically a query.
 >
@@ -696,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (17), data (8), database (5), [[GraphQL]] (4), api (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -710,12 +703,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object types and fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980)
+#### [Object types and fields](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=0)** - [Instructor] If you're familiar with type checking with libraries like TypeScript or Flow, exploring types in GraphQL will be familiar to you.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=0)** - [Instructor] If you're familiar with type checking with libraries like TypeScript or Flow, exploring types in [[GraphQL]] will be familiar to you.
 >
 > **[0:08](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=8)** Everything in GraphQL is defined by types as we've done already in our schema.
 >
@@ -727,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=36)** So this is your object type for the Product.
 >
-> **[0:40](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=40)** Like any JavaScript object inside of it, we have the fields, and then declare what type of data we expect for this field.
+> **[0:40](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=40)** Like any [[JavaScript]] object inside of it, we have the fields, and then declare what type of data we expect for this field.
 >
 > **[0:48](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980&t=48)** For example, name is a field and we expect a string for that field.
 >
@@ -783,19 +775,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (4), [[GraphQL]] (3), [[JavaScript]] (1), database (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), [[JavaScript]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query and mutation types
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980)
+#### [Query and mutation types](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=0)** - [Instructor] Queries and mutations are the basis of running operations in a GraphQL environment.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=0)** - [Instructor] Queries and mutations are the basis of running operations in a [[GraphQL]] environment.
 >
 > **[0:06](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=6)** And we'll explore each type.
 >
@@ -805,7 +796,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=20)** The query type is responsible for defining what will return when we make the query.
 >
-> **[0:25](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=25)** In this case, we are querying a product type and therefore when we run the query, it will return a product or multiple products based on the query.
+> **[0:25](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=25)** In this case, we are querying a product type and therefore when we run the query, it will return a product or multiple [[Microsoft Products|products]] based on the query.
 >
 > **[0:36](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=36)** Next, we have mutations, which is basically GraphQL's way of changing data, updating, or creating new data.
 >
@@ -833,7 +824,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=146)** Okay, so I have my class declared and then I'm going to create my in-memory object that will hold my products that I'm going to create.
 >
-> **[2:41](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=161)** We'll initialize databases later on in this course but for the time being, just for the example, I'm going to create an object here that will hold all the new products that we'll create.
+> **[2:41](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=161)** We'll initialize [[Databases]] later on in this course but for the time being, just for the example, I'm going to create an object here that will hold all the new products that we'll create.
 >
 > **[2:52](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=172)** And then here in our resolver, I'm going to basically create a new product here.
 >
@@ -909,7 +900,7 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=427)** Okay, so now this is all done, let's make sure our server is running.
 >
-> **[7:15](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=435)** npm start, and it's running without any issues.
+> **[7:15](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=435)** [[npm]] start, and it's running without any issues.
 >
 > **[7:23](https://www.linkedin.com/learning/graphql-essential-training-20298359/query-and-mutation-types?u=76281980&t=443)** Okay, so let's close the terminal, everything is working properly.
 >
@@ -923,15 +914,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[Microsoft Products|Products]] (5), database (3), [[GraphQL]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[GraphQL]] (2), [[Databases]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), find (1), npm (1)
 > **Code Identifiers:** createproduct (2), tostring (1)
 > **Cross-References:** go back to (2)
 > **Tools:** vs code (1), terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is the resolver and its role?
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/what-is-the-resolver-and-its-role?u=76281980)
+#### [What is the resolver and its role?](https://www.linkedin.com/learning/graphql-essential-training-20298359/what-is-the-resolver-and-its-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +955,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/graphql-essential-training-20298359/what-is-the-resolver-and-its-role?u=76281980&t=91)** And then we're going to leave my in-memory product database here.
 >
-> **[1:34](https://www.linkedin.com/learning/graphql-essential-training-20298359/what-is-the-resolver-and-its-role?u=76281980&t=94)** So the object that I created to add new products, and then this is where it's going to change a bit.
+> **[1:34](https://www.linkedin.com/learning/graphql-essential-training-20298359/what-is-the-resolver-and-its-role?u=76281980&t=94)** So the object that I created to add new [[Microsoft Products|products]], and then this is where it's going to change a bit.
 >
 > **[1:40](https://www.linkedin.com/learning/graphql-essential-training-20298359/what-is-the-resolver-and-its-role?u=76281980&t=100)** So the first thing I'm going to do is create a variable that will be called resolvers.
 >
@@ -1135,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (16), data (2), database (2), application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** getproduct (4), createproduct (4)
 > **Versions:** 40.99 (2), 23.99 (1)
 > **File Paths:** index.js (1), resolvers.js (1)
@@ -1144,12 +1134,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 
-#### Scalar types
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/scalar-types?u=76281980)
+#### [Scalar types](https://www.linkedin.com/learning/graphql-essential-training-20298359/scalar-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/scalar-types?u=76281980&t=0)** - [Instructor] Scala types are the basic types that come with GraphQL and can be used without having to create the type beforehand.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/scalar-types?u=76281980&t=0)** - [Instructor] [[Scala]] types are the basic types that come with [[GraphQL]] and can be used without having to create the type beforehand.
 >
 > **[0:08](https://www.linkedin.com/learning/graphql-essential-training-20298359/scalar-types?u=76281980&t=8)** So with GraphQL, we have access to these basic Scala types.
 >
@@ -1221,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (4), [[GraphQL]] (4), product (3)
+> **Frameworks & Libraries:** [[Scala]] (4), [[GraphQL]] (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Versions:** 52.99 (1)
@@ -1229,12 +1218,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumeration types
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980)
+#### [Enumeration types](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=0)** - [Instructor] Enumeration type, or commonly called enums, is a special Scala type that allows you to define a specific set of data the field takes and restrict the input to what you list in the enum type.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=0)** - [Instructor] Enumeration type, or commonly called enums, is a special [[Scala]] type that allows you to define a specific set of data the field takes and restrict the input to what you list in the enum type.
 >
 > **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=13)** So let me demonstrate so we can make better sense of this type.
 >
@@ -1254,7 +1242,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=69)** And that's basically how it works.
 >
-> **[1:11](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=71)** So now what I'm going to do is go back to GraphQL and let's go ahead and test this.
+> **[1:11](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=71)** So now what I'm going to do is go back to [[GraphQL]] and let's go ahead and test this.
 >
 > **[1:20](https://www.linkedin.com/learning/graphql-essential-training-20298359/enumeration-types?u=76281980&t=80)** So let's say we want to create a new product.
 >
@@ -1284,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (2), [[Scala]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[Scala]] (1), [[GraphQL]] (1)
 > **Env Vars:** soldout (4), onsale (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -1292,8 +1280,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### List of types inside another
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/list-of-types-inside-another?u=76281980)
+#### [List of types inside another](https://www.linkedin.com/learning/graphql-essential-training-20298359/list-of-types-inside-another?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,7 +1316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1338,8 +1324,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing MongoDB for GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980)
+#### [Installing MongoDB for GraphQL](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1332,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=3)** And when we stop the server, we lose any data persistence.
 >
-> **[0:06](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=6)** With our GraphQL server up and running and now with some knowledge about how it works, let's add data persistence with MongoDB.
+> **[0:06](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=6)** With our [[GraphQL]] server up and running and now with some knowledge about how it works, let's add data persistence with [[MongoDB]].
 >
 > **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=13)** So the first thing you need to do is, install MongoDB.
 >
@@ -1357,7 +1342,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=33)** And then on this same page, you have all the instructions for the different operating systems.
 >
-> **[0:38](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=38)** So install on Linux, install on Windows, install with Docker if you want to do with Docker.
+> **[0:38](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=38)** So install on [[Linux]], install on [[Windows]], install with Docker if you want to do with Docker.
 >
 > **[0:45](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=45)** So what you need to do is, follow these instructions.
 >
@@ -1377,7 +1362,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=106)** All you need to do is, basically put the local host and that address, save it, and then connect to it.
 >
-> **[1:53](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=113)** If you're able to connect to it and you see all the databases that you created through your applications, you can see all the stuff that I've created here, then you're good to go.
+> **[1:53](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=113)** If you're able to connect to it and you see all the [[Databases]] that you created through your applications, you can see all the stuff that I've created here, then you're good to go.
 >
 > **[2:03](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980&t=123)** Now, the next thing that we need to install directly on the application is Mongoose.
 >
@@ -1411,7 +1396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (12), data (3), [[GraphQL]] (2), application (2), database (2)
+> **Frameworks & Libraries:** [[MongoDB]] (12), [[GraphQL]] (2), [[Linux]] (1), [[Windows]] (1), [[Databases]] (1)
 > **Prerequisites:** install (14)
 > **CLI Commands:** make (5), docker (2)
 > **Tools:** terminal (4)
@@ -1420,8 +1405,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Finalize the database connectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980)
+#### [Finalize the database connectors](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,7 +1413,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=8)** So what we're going to do is go inside of our data folder here and create a new file that we'll call dbConnectors.
 >
-> **[0:16](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=16)** So this is where we're going to connect all over databases to our GraphQL server.
+> **[0:16](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=16)** So this is where we're going to connect all over [[Databases]] to our [[GraphQL]] server.
 >
 > **[0:21](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=21)** So let's go ahead and create a new file in the data folder though, and call this dbConnectors like so .js.
 >
@@ -1437,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=41)** And let me just close this to have more screen estate.
 >
-> **[0:44](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=44)** And what I'm going to do is create an async function to connect to MongoDB.
+> **[0:44](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=44)** And what I'm going to do is create an async function to connect to [[MongoDB]].
 >
 > **[0:49](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=49)** So let's go ahead and do that async function, and we're going to call this connectMongo, and we're going to try to connect to MongoDB.
 >
@@ -1491,7 +1475,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=264)** So the next thing we need to do, we need to be able to export this so we can use it afterwards in our resolvers.
 >
-> **[4:31](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=271)** And I'm not going to export a default, I'm going to export widgets specifically because after that we're going to actually create the SQL or SQLite, a database connection down the road, and we're going to export that as well.
+> **[4:31](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=271)** And I'm not going to export a default, I'm going to export widgets specifically because after that we're going to actually create the [[SQL]] or SQLite, a database connection down the road, and we're going to export that as well.
 >
 > **[4:48](https://www.linkedin.com/learning/graphql-essential-training-20298359/finalize-the-database-connectors?u=76281980&t=288)** So we're going to use it in our resolvers.
 >
@@ -1501,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), database (6), [[GraphQL]] (3), data (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[GraphQL]] (3), [[Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), mongo (1)
 > **Code Identifiers:** dbconnectors (2), connectmongo (2)
 > **Cross-References:** previous video (1), next video (1)
@@ -1509,8 +1493,7 @@ created: 2026-05-02
 > **Best Practices:** avoid doing (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update resolvers for MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980)
+#### [Update resolvers for MongoDB](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,11 +1551,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=167)** So let's go ahead and save that.
 >
-> **[2:50](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=170)** And we're going to make sure that our server is running and it says connected to MongoDB, too.
+> **[2:50](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=170)** And we're going to make sure that our server is running and it says connected to [[MongoDB]], too.
 >
 > **[2:55](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=175)** So that means that we're successfully connected to MongoDB, everything is running as it should.
 >
-> **[3:01](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=181)** So let's go ahead and open up a new window and go to localhost:8080, and GraphQL.
+> **[3:01](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=181)** So let's go ahead and open up a new window and go to localhost:8080, and [[GraphQL]].
 >
 > **[3:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-resolvers-for-mongodb?u=76281980&t=193)** And the docs are running properly.
 >
@@ -1646,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), product (7), [[MongoDB]] (5), [[GraphQL]] (3), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[GraphQL]] (3)
 > **CLI Commands:** make (7), find (6)
 > **Code Identifiers:** getproduct (3), createproduct (1), findbyid (1)
 > **Definitions:** means that (2), is a  (2)
@@ -1655,14 +1638,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [localhost:8080](https://localhost:8080) (1)
 
-#### Data persistence with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980)
+#### [Data persistence with SQL](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=0)** - [Instructor] Adding any other databases to GraphQL is a similar process, and I wanted to give you a quick example with SQLite.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=0)** - [Instructor] Adding any other [[Databases]] to [[GraphQL]] is a similar process, and I wanted to give you a quick example with SQLite.
 >
-> **[0:08](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=8)** Needless to say, you would have to update your resolvers and schema to support this new database and data, but for the sake of focusing on MongoDB I'll quickly provide an example for SQL.
+> **[0:08](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=8)** Needless to say, you would have to update your resolvers and schema to support this new database and data, but for the sake of focusing on [[MongoDB]] I'll quickly provide an example for [[SQL]].
 >
 > **[0:18](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=18)** Then the process of creating a function that resolves this particular data is similar to what we've done.
 >
@@ -1672,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=32)** And I'm going to install a few dependencies.
 >
-> **[0:35](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=35)** So, I'm going to install npm i, casual, lodash,
+> **[0:35](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=35)** So, I'm going to install [[npm]] i, casual, lodash,
 >
 > **[0:43](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=43)** sequelize, and sqlite3, and these dependencies are going to allow me to use SQLite3.
 >
@@ -1722,7 +1704,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=200)** Okay, so now what we're going to do is continue working on the functions that will connect to Sequelize.
 >
-> **[3:27](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=207)** So, what I'm going to do next is basically create a categories model for our products.
+> **[3:27](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=207)** So, what I'm going to do next is basically create a categories model for our [[Microsoft Products|products]].
 >
 > **[3:34](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=214)** So, what is the category, what is the description of that category?
 >
@@ -1780,7 +1762,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=420)** And you're going to see all of this happen in real time on the console, so you're going to see Categories created, blah, blah, blah, as it connects to SQLite.
 >
-> **[7:10](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=430)** So, first, we're going to create five times with casual.word.
+> **[7:10](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=430)** So, first, we're going to create five times with casual.[[Microsoft Word|word]].
 >
 > **[7:17](https://www.linkedin.com/learning/graphql-essential-training-20298359/data-persistence-with-sql?u=76281980&t=437)** So, casual allows us to use any specific words, randomized words, and create these categories.
 >
@@ -1834,7 +1816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (10), [[npm]] (2), next (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Databases]] (1), [[GraphQL]] (1), [[MongoDB]] (1), [[SQL]] (1)
 > **CLI Commands:** make (5), npm (2), sqlite3 (2), node (1)
 > **Env Vars:** string (3), fyi (2), sql (1)
 > **Code Identifiers:** syncandseedcategories (2), dbconnectors (1)
@@ -1848,16 +1830,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add new items with mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980)
+#### [Add new items with mutations](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=0)** - [Instructor] Now that we have all our DBs properly connected, let's add some mutations for a GraphQL server.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=0)** - [Instructor] Now that we have all our DBs properly connected, let's add some mutations for a [[GraphQL]] server.
 >
 > **[0:06](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=6)** So we're going to start with one mutation, which is basically the one we already created, which is create product.
 >
-> **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=13)** And we'll focus on creating that one first, and then we'll add more as we go through the rest of this course.
+> **[0:13](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=13)** And we'll focus on creating that one first, and then we'll add more as we go through the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:19](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=19)** So let's close the explorer and I'm going to start refactoring this one here.
 >
@@ -1941,7 +1922,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=292)** So I'm going to close this, reopen this, and I have an object here that was created recently.
 >
-> **[4:58](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=298)** And as you can see, I have my shovel gear that was created directly on the MongoDB database.
+> **[4:58](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=298)** And as you can see, I have my shovel gear that was created directly on the [[MongoDB]] database.
 >
 > **[5:06](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980&t=306)** And all the elements that are supposed to be here are here.
 >
@@ -1953,7 +1934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), database (4), [[GraphQL]] (3), [[MongoDB]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3), [[MongoDB]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** newwidget (5), createproduct (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
@@ -1961,12 +1942,11 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update items with mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-items-with-mutations?u=76281980)
+#### [Update items with mutations](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-items-with-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-items-with-mutations?u=76281980&t=0)** - [Instructor] In a scenario where you need to update items in the database with GraphQL, we also need to set up the proper mutations to do so.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-items-with-mutations?u=76281980&t=0)** - [Instructor] In a scenario where you need to update items in the database with [[GraphQL]], we also need to set up the proper mutations to do so.
 >
 > **[0:08](https://www.linkedin.com/learning/graphql-essential-training-20298359/update-items-with-mutations?u=76281980&t=8)** So let's do this.
 >
@@ -2092,7 +2072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[GraphQL]] (5), database (4), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5)
 > **Code Identifiers:** updateproduct (7), createproduct (3), findoneandupdate (1), updatewidget (1)
 > **CLI Commands:** make (6), find (2)
 > **Versions:** 50.99 (2), 24.99 (1)
@@ -2101,12 +2081,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete items with mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/delete-items-with-mutations?u=76281980)
+#### [Delete items with mutations](https://www.linkedin.com/learning/graphql-essential-training-20298359/delete-items-with-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/delete-items-with-mutations?u=76281980&t=0)** - [Instructor] The final mutation we need for a GraphQL server is to be able to delete data.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/delete-items-with-mutations?u=76281980&t=0)** - [Instructor] The final mutation we need for a [[GraphQL]] server is to be able to delete data.
 >
 > **[0:05](https://www.linkedin.com/learning/graphql-essential-training-20298359/delete-items-with-mutations?u=76281980&t=5)** So let's add this mutation.
 >
@@ -2178,7 +2157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), product (3), [[GraphQL]] (2), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2)
 > **Code Identifiers:** deleteproduct (1), deleteone (1)
 > **Env Vars:** ee2 (2)
 > **Definitions:** is an  (2)
@@ -2191,12 +2170,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying all products
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980)
+#### [Querying all products](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=0)** - [Instructor] Querying all objects in GraphQL is often a need to get a list of items.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=0)** - [Instructor] Querying all objects in [[GraphQL]] is often a need to get a list of items.
 >
 > **[0:04](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=4)** So let's work on this query.
 >
@@ -2204,7 +2182,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=11)** So what I'm going to do, just to follow the train of thoughts here, I'm going to put it right after, get a single product, I'm going to put this resolver right here.
 >
-> **[0:19](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=19)** So, get all products is going to be the resolver I'm going to be working on.
+> **[0:19](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=19)** So, get all [[Microsoft Products|products]] is going to be the resolver I'm going to be working on.
 >
 > **[0:28](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980&t=28)** So let's go ahead and create that resolver, which is a function.
 >
@@ -2264,18 +2242,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[GraphQL]] (2), product (2), database (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[GraphQL]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying with aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980)
+#### [Querying with aliases](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=0)** - [Instructor] Aliases is a feature that comes right out of the box with GraphQL and doesn't require any coding.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=0)** - [Instructor] Aliases is a feature that comes right out of the box with [[GraphQL]] and doesn't require any coding.
 >
 > **[0:06](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=6)** It is basically a way to do multiple queries and name them with anything you want to properly label them.
 >
@@ -2289,7 +2266,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=41)** And what I'm going to do is go inside of Robo 3T so I don't have to stop from typing this particular query.
 >
-> **[0:48](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=48)** So I'm going to go into JSON mode, get this object ID here, copy that, and then I'm going to get the other one here.
+> **[0:48](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=48)** So I'm going to go into [[JSON]] mode, get this object ID here, copy that, and then I'm going to get the other one here.
 >
 > **[1:01](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=61)** So let's start with this one.
 >
@@ -2331,7 +2308,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=147)** And also have another query type.
 >
-> **[2:30](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=150)** So get all products and have specific things from that specific query or alias.
+> **[2:30](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=150)** So get all [[Microsoft Products|products]] and have specific things from that specific query or alias.
 >
 > **[2:36](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-aliases?u=76281980&t=156)** And then have on the second alias, another query.
 >
@@ -2349,7 +2326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), feature (2), [[GraphQL]] (2), [[Microsoft Products|Products]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2), [[Microsoft Products|Products]] (2), [[JSON]] (1)
 > **Code Identifiers:** getproduct (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** json (1)
@@ -2357,18 +2334,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying with fragments
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980)
+#### [Querying with fragments](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=0)** - [Instructor] Like aliases, fragments are a neat feature that comes built in with GraphQL and is very useful when we start requesting the same data across several items.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=0)** - [Instructor] Like aliases, fragments are a neat feature that comes built in with [[GraphQL]] and is very useful when we start requesting the same data across several items.
 >
 > **[0:09](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=9)** So let me demonstrate.
 >
 > **[0:11](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=11)** So we have our two items here that have different aliases, right?
 >
-> **[0:15](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=15)** So we have this idea, and we get products, and we have a second alias that gets information from this idea here.
+> **[0:15](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=15)** So we have this idea, and we get [[Microsoft Products|products]], and we have a second alias that gets information from this idea here.
 >
 > **[0:23](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-with-fragments?u=76281980&t=23)** But what if we wanted to have the exact same information across all these different ideas?
 >
@@ -2434,7 +2410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (2), feature (1), [[GraphQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[GraphQL]] (1)
 > **Code Identifiers:** productfragment (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -2444,12 +2420,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=0)** - [Instructor] This was an essential exploration of GraphQL and what it has to offer.
+> **[0:00](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=0)** - [Instructor] This was an essential exploration of [[GraphQL]] and what it has to offer.
 >
 > **[0:05](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=5)** With this new knowledge, you should be able to build your own GraphQL server, and get going with queries and mutations.
 >
@@ -2457,7 +2432,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=20)** You'll want to keep abreast of these new features by reading the docs and articles by the development team.
 >
-> **[0:26](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=26)** Whenever you need help, there is a GraphQL community on Slack, and you can access it with this link, [graphql-slack.com](https://graphql-slack.com).
+> **[0:26](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=26)** Whenever you need help, there is a GraphQL community on [[Slack]], and you can access it with this link, [graphql-slack.com](https://graphql-slack.com).
 >
 > **[0:36](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980&t=36)** Thanks very much for taking my course, and I'll see you in a bit.
 

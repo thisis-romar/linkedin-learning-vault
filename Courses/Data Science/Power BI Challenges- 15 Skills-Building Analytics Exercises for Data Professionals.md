@@ -106,12 +106,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your skills with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980)
+#### [Build your skills with Power BI](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980&t=0)** - [Narrator] Hello, and welcome to this course on Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980&t=0)** - [Narrator] Hello, and welcome to this course on [[Microsoft Power BI|Power BI]].
 >
 > **[0:03](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980&t=3)** This course is aimed at people who want to learn and build reports in Power BI, but with a different learning style.
 >
@@ -133,15 +132,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **Speakers:** - [narrator] (1)
 
-#### What does this course cover?
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/what-does-this-course-cover?u=76281980)
+#### [What does this course cover?](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/what-does-this-course-cover?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/what-does-this-course-cover?u=76281980&t=0)** - [Instructor] This course focuses on designing and creating reports in Power BI Desktop.
+> **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/what-does-this-course-cover?u=76281980&t=0)** - [Instructor] This course focuses on designing and creating reports in [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/what-does-this-course-cover?u=76281980&t=5)** We look at table view and model view, as well as report view because you need all these things to make a report.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), bi (7), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -168,8 +166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=8)** So I'll be talking a bit more than in subsequent challenges just to make sure we're all working from the same data.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=14)** Now we're going to use the sample data set that comes bundled with Power BI, but I would like you to make some changes to the data before we begin the course.
+> **[0:14](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=14)** Now we're going to use the sample data set that comes bundled with [[Microsoft Power BI|Power BI]], but I would like you to make some changes to the data before we begin the course.
 >
 > **[0:22](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=22)** During the course, we're going to build a report comparing the financials of two fake brands, h+ Sport and Binaryville.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=96)** And on the right hand side in the data pane, you can see that we now have a financials table, which I can expand and you can see all of the fields within that.
 >
-> **[1:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=107)** Your challenge is to export this sample data into Excel, make a change to one of the fields, and then re-upload to Power BI.
+> **[1:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=107)** Your challenge is to export this sample data into [[Microsoft Excel|Excel]], make a change to one of the fields, and then re-upload to Power BI.
 >
 > **[1:56](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=116)** The change I want you to make is very specific.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=130)** Then I want you to re-upload to Power BI, replacing this financials data on the right hand side, and you can rename the table to h+ plus for our first fake company.
 >
-> **[2:20](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=140)** So at the end of the challenge, you should be able to see instead of the word financials on the right hand side, you should see h+.
+> **[2:20](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=140)** So at the end of the challenge, you should be able to see instead of the [[Microsoft Word|word]] financials on the right hand side, you should see h+.
 >
 > **[2:29](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980&t=149)** And when you expand the data, it will look almost identical, but behind the scenes, the manufacturing price formula will be different.
 >
@@ -221,15 +218,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), power (6), bi (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cogs (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896471?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896471?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,7 +233,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896471?u=76281980&t=5)** - [Instructor] I hope that went okay for you.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896471?u=76281980&t=7)** It can be very frustrating working out how to export to Excel, because in Power BI all of the obvious export choices relate to exporting the whole Power BI file itself.
+> **[0:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896471?u=76281980&t=7)** It can be very frustrating working out how to export to [[Microsoft Excel|Excel]], because in [[Microsoft Power BI|Power BI]] all of the obvious export choices relate to exporting the whole Power BI file itself.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896471?u=76281980&t=20)** Or if you have visuals it's quite easy to click on the visuals and export just those.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), power (4), bi (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Power BI|Power bi]] (4)
 > **Cross-References:** as we saw (1), earlier in (1), go back to (1), later in (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** cogs (1)
@@ -305,8 +301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=14)** For this challenge, we're going to give them a single visual showing the trend of sales over time.
 >
-> **[0:20](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=20)** Management are going to be interested in profit as well as sales because it could be that H-Plus sell only a limited number of the most profitable products.
+> **[0:20](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=20)** Management are going to be interested in profit as well as sales because it could be that H-Plus sell only a limited number of the most profitable [[Microsoft Products|products]].
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=28)** This could be an opportunity for Landon Hotels to improve the business.
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=42)** It generally pays to work out these relationships before you start visualizing.
 >
-> **[0:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=47)** I typically do this in Excel.
+> **[0:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=47)** I typically do this in [[Microsoft Excel|Excel]].
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980&t=50)** And also consider the choice of visual.
 >
@@ -340,12 +335,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (2), [[Microsoft Products|Products]] (1), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=7)** Here's how I would solve this challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=9)** The first thing I'd do is have a good look at the data to understand how the different fields relate to each other, what the products are, what the market sold.
+> **[0:09](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=9)** The first thing I'd do is have a good look at the data to understand how the different fields relate to each other, what the [[Microsoft Products|products]] are, what the market sold.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=17)** On relationships, I worked out the following, sales equals cost of goods sold plus profit.
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=94)** We can check whether that is true for all rows.
 >
-> **[1:38](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=98)** Go table tools, new column, and it's a bit like Excel.
+> **[1:38](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=98)** Go table tools, new column, and it's a bit like [[Microsoft Excel|Excel]].
 >
 > **[1:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22895513?u=76281980&t=107)** We're entering a little formula to say, give me the day of all of these dates in the date column, and if we press that, we can see the only option is one.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** cogs (8)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), dropdown (1)
@@ -467,8 +461,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22899457?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22899457?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,12 +483,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001395?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001395?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001395?u=76281980&t=31)** It says, "Sum of COGS and Sum of Profit by Date."
 >
-> **[0:35](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001395?u=76281980&t=35)** Power BI has done its best for us, but I think we can improve on that.
+> **[0:35](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001395?u=76281980&t=35)** [[Microsoft Power BI|Power BI]] has done its best for us, but I think we can improve on that.
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001395?u=76281980&t=38)** So if you go to the visualizations pane and Format visual, and then go to General, Title is one of those things that is a constant, whichever chart type you've picked.
 >
@@ -653,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (4), bi (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** cogs (6)
 > **UI Navigation:** go to (2)
@@ -666,8 +657,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980&t=39)** Is one country loss making?
 >
-> **[0:41](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980&t=41)** By default, Power BI has this filters pane, and as the report designer, you can make this available to users or hide it.
+> **[0:41](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980&t=41)** By default, [[Microsoft Power BI|Power BI]] has this filters pane, and as the report designer, you can make this available to users or hide it.
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980&t=51)** It depends how you're going to publish the report and also how comfortable your users will be dragging and dropping data fields into this pane.
 >
@@ -723,14 +713,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), product (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (cool music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001394?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001394?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +797,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001394?u=76281980&t=255)** Now if you can see, under date, it's worked out the last month as being in 2023, but we know that our data only runs from 2013 to 2014.
 >
-> **[4:29](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001394?u=76281980&t=269)** So what you have to do is tell Power BI that there is, sort of, an end date, which they call an anchor date.
+> **[4:29](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001394?u=76281980&t=269)** So what you have to do is tell [[Microsoft Power BI|Power BI]] that there is, sort of, an end date, which they call an anchor date.
 >
 > **[4:37](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-23001394?u=76281980&t=277)** And I happen to know that that is, the last date, is the 1st of December, 2014.
 >
@@ -828,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (4), power (1), bi (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), imagine (1)
 > **UI Navigation:** checkbox (1), go to (1)
@@ -841,8 +830,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900438?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900438?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,15 +852,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), data (1)
 > **Env Vars:** kpi (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=41)** Reminder, we wanted to show last month's sales.
 >
-> **[0:45](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=45)** Now if you look in an Excel version of the data and you highlight that row, if you see right at the very bottom of Excel it says sum, 118726350.3.
+> **[0:45](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=45)** Now if you look in an [[Microsoft Excel|Excel]] version of the data and you highlight that row, if you see right at the very bottom of Excel it says sum, 118726350.3.
 >
 > **[1:01](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=61)** So that's where your 119 million is coming from.
 >
@@ -946,7 +932,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=244)** Averages can catch you out.
 >
-> **[4:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=247)** If you did that, if you made a profit percent as a column and then you averaged it, Power BI would average all of the rows as though they had equal weight.
+> **[4:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=247)** If you did that, if you made a profit percent as a column and then you averaged it, [[Microsoft Power BI|Power BI]] would average all of the rows as though they had equal weight.
 >
 > **[4:16](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-19857049?u=76281980&t=256)** So if one row had a profit of 40% and another row had a profit of 2%, they would be given equal weight even though one has added say a million dollars to the pot and the other only 1,000.
 >
@@ -1006,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), power (2), bi (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** kpi (9)
 > **CLI Commands:** make (3)
 > **Versions:** 118726350.3 (1), 21.69 (1)
@@ -1020,8 +1006,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980&t=56)** Land and hotel management are considering buying this company, so they want to know what makes it tick.
 >
-> **[1:03](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980&t=63)** Are there particularly profitable products or segments, for example?
+> **[1:03](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980&t=63)** Are there particularly profitable [[Microsoft Products|products]] or segments, for example?
 >
 > **[1:08](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980&t=68)** To do well in this challenge, you need to slice and dice the data, and be prepared to throw away some visuals or some data choices along the way.
 >
@@ -1063,14 +1048,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,9 +1142,9 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980&t=269)** and let's go for don't summarize 'cause we seem to only have one dot.
 >
-> **[4:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980&t=274)** Now you need to be a bit careful using don't summarize because if your data has sort of got 10,000 rows, it might be that Power BI simply doesn't show you 7,000 or so of them.
+> **[4:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980&t=274)** Now you need to be a bit careful using don't summarize because if your data has sort of got 10,000 rows, it might be that [[Microsoft Power BI|Power BI]] simply doesn't show you 7,000 or so of them.
 >
-> **[4:45](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980&t=285)** Typically the cutoff for a standard Microsoft visual is 3,500 rows.
+> **[4:45](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980&t=285)** Typically the cutoff for a standard [[Microsoft]] visual is 3,500 rows.
 >
 > **[4:50](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899458?u=76281980&t=290)** In our case we've got 700, so we're fine.
 >
@@ -1216,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (2), bi (2), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1227,8 +1211,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1225,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980&t=32)** I would say using more than six colors on a report page is a red flag, and we are clearly exceeding that right now.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980&t=39)** A word of warning, it's always worth considering how your report is going to look in its final destination.
+> **[0:39](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980&t=39)** A [[Microsoft Word|word]] of warning, it's always worth considering how your report is going to look in its final destination.
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980&t=46)** Is it going to be embedded in another website, for example, and will that affect the font or size of font?
 >
@@ -1259,8 +1242,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=81)** And we could do it like this.
 >
-> **[1:23](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=83)** Power BI has listed out all of the colors and given them default values, And you can change them in here.
+> **[1:23](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=83)** [[Microsoft Power BI|Power BI]] has listed out all of the colors and given them default values, And you can change them in here.
 >
 > **[1:35](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=95)** But Power BI reports are often powered by dynamic data, not static data that we have here.
 >
@@ -1374,7 +1356,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=391)** Oh, it's not going to keep it open.
 >
-> **[6:33](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=393)** It used to keep it open, which was actually really helpful, Microsoft 'cause you could just click over lots of different things at the same time and spot the odd one out, spot where the problem was.
+> **[6:33](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=393)** It used to keep it open, which was actually really helpful, [[Microsoft]] 'cause you could just click over lots of different things at the same time and spot the odd one out, spot where the problem was.
 >
 > **[6:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22897489?u=76281980&t=407)** So height there is 125.
 >
@@ -1402,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (6), data (4), next (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft]] (2)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** drag and drop (1), select the (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1416,14 +1398,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=0)** - [Instructor] You might think your report is now beautiful, and it may well be, but that does not make it easy for your audience to use.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=12)** For example, are they new to Power BI?
+> **[0:12](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=12)** For example, are they new to [[Microsoft Power BI|Power BI]]?
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=15)** And if so, do you need to include some signposting on how to use the report?
 >
@@ -1433,7 +1414,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=26)** 8% of men are red-green colorblind, and the report that we just created might be really hard for them to understand.
 >
-> **[0:33](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=33)** Usability and user experience is a big topic, but for this challenge, I'd like you to focus on three key things.
+> **[0:33](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=33)** Usability and [[User Experience (UX)|user experience]] is a big topic, but for this challenge, I'd like you to focus on three key things.
 >
 > **[0:40](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=40)** The first is visual filtering.
 >
@@ -1453,7 +1434,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=87)** And so you can click through and choose how they should filter, and if they should filter.
 >
-> **[1:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=94)** For reasons best known to themselves, Microsoft has made the default a highlight, which, in my opinion, is the least intuitive and useful option.
+> **[1:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=94)** For reasons best known to themselves, [[Microsoft]] has made the default a highlight, which, in my opinion, is the least intuitive and useful option.
 >
 > **[1:43](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980&t=103)** So I generally make all of these options filter.
 >
@@ -1477,7 +1458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -1485,8 +1466,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1524,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=132)** Which means in turn when I select Filter, they all redraw instead of just highlighting part of the rectangle.
 >
-> **[2:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=139)** However, Microsoft has introduced a way to change default filtering.
+> **[2:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=139)** However, [[Microsoft]] has introduced a way to change default filtering.
 >
 > **[2:24](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=144)** If you go File, Options and settings.
 >
@@ -1574,7 +1554,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=214)** Now, next we were going to look at information for the audience, signposting and so forth.
 >
-> **[3:39](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=219)** So how about some messaging for people who aren't as familiar with Power BI as you already are?
+> **[3:39](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=219)** So how about some messaging for people who aren't as familiar with [[Microsoft Power BI|Power BI]] as you already are?
 >
 > **[3:45](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=225)** For example, let's turn off Edit interactions for a second.
 >
@@ -1612,7 +1592,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=338)** Now finally, we wanted to look at colorblindness.
 >
-> **[5:41](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=341)** Windows and Print Screen on my keyboard saves to Pictures.
+> **[5:41](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=341)** [[Windows]] and Print Screen on my keyboard saves to Pictures.
 >
 > **[5:45](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution?u=76281980&t=345)** So I've taken a screenshot, and now I'm going to go to this website.
 >
@@ -1664,7 +1644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), power (3), bi (3), next (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** select the (2), go to (2), click on (1), drag and drop (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
@@ -1678,14 +1658,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=0)** (cool music)
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=5)** - [Narrator] So far, we've focused on the visual side of our report, but Power BI has good data modeling capabilities, and in this challenge, we're going to see how you handle the data side of things.
+> **[0:05](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=5)** - [Narrator] So far, we've focused on the visual side of our report, but [[Microsoft Power BI|Power BI]] has good [[Data Modeling]] capabilities, and in this challenge, we're going to see how you handle the data side of things.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=15)** Now, we know that land and hotels management are considering a second company to buy, Binaryville.
 >
@@ -1707,18 +1686,17 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=72)** If you do it right first time, and I didn't, this challenge can be completed in about five minutes.
 >
-> **[1:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=79)** You might need to adjust the data model here, or you can change the Excel source file to optimize your data.
+> **[1:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980&t=79)** You might need to adjust the data model here, or you can change the [[Microsoft Excel|Excel]] source file to optimize your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (3), bi (3), management (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Data Modeling]] (1), [[Microsoft Excel|Excel]] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (cool music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1752,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=230)** So we have hit upon the problem.
 >
-> **[3:53](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=233)** Power BI doesn't know how to treat Date as the same field when it comes from two different tables.
+> **[3:53](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=233)** [[Microsoft Power BI|Power BI]] doesn't know how to treat Date as the same field when it comes from two different tables.
 >
 > **[4:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=240)** You can turn your chart into a table by the way to get a quicker feel for the data.
 >
@@ -1788,7 +1766,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=280)** Now Power BI's had a go at working out the cardinality and cross filtering of the data.
 >
-> **[4:46](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=286)** Cardinality is a fancy word that just means should Power BI expect a unique value in either of these tables and then multiple of that value in the other table, that would be one-to-many, or is it trying to match up many of a value in one table to many in another?
+> **[4:46](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=286)** Cardinality is a fancy [[Microsoft Word|word]] that just means should Power BI expect a unique value in either of these tables and then multiple of that value in the other table, that would be one-to-many, or is it trying to match up many of a value in one table to many in another?
 >
 > **[5:03](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=303)** And Power BI has done its best to guess what these things should be and it's got it right because this is a many-to-many relationship and we want it to cross filter in both directions.
 >
@@ -1798,7 +1776,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=333)** And if we now come back, our data have changed, and look a great deal more reasonable.
 >
-> **[5:40](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=340)** So setting up these rules can save you hours of time and can improve your data quality.
+> **[5:40](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=340)** So setting up these rules can save you hours of time and can improve your [[Data Quality]].
 >
 > **[5:44](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=344)** And we could do this in the Model tab for all of our data dimensions, such as Product, for example, and Segment.
 >
@@ -1810,7 +1788,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=371)** Best practice would be to place the HPlus and Binaryville data in the same set of columns in the source data, and then we separate them by inserting a new column, and call it Company.
 >
-> **[6:23](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=383)** Now I have already done this in Excel, so I can just go and say File, Get data, and you have access to this in your files, and I'm now going to import the file called COMPARE.
+> **[6:23](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=383)** Now I have already done this in [[Microsoft Excel|Excel]], so I can just go and say File, Get data, and you have access to this in your files, and I'm now going to import the file called COMPARE.
 >
 > **[6:42](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900439?u=76281980&t=402)** You notice these little ticks here, there's little green tick next to Binaryville, and that's telling you that data from this table is being used in the visual that you've selected.
 >
@@ -1840,7 +1818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), power (8), bi (8), product (4), next (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Data Quality]] (1)
 > **Code Identifiers:** bothcompanies (4)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
@@ -1854,8 +1832,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1871,7 +1848,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=37)** Let's just add that to show you what I mean.
 >
-> **[0:43](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=43)** Now, by default, Power BI sets the maximum of a gauge chart to be double the value, so the filled area is always 50%.
+> **[0:43](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=43)** Now, by default, [[Microsoft Power BI|Power BI]] sets the maximum of a gauge chart to be double the value, so the filled area is always 50%.
 >
 > **[0:52](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=52)** We don't want that.
 >
@@ -1901,7 +1878,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=127)** For example, you could add a constant line to your column chart without changing any data whatsoever, but that won't help you make your gauge chart targets work.
 >
-> **[2:18](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=138)** As in the real world, it doesn't really matter how you achieve your objective, but the only way I could make the gauge chart work was to create some data in Excel and link it with our dataset in the data model tab.
+> **[2:18](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=138)** As in the real world, it doesn't really matter how you achieve your objective, but the only way I could make the gauge chart work was to create some data in [[Microsoft Excel|Excel]] and link it with our dataset in the data model tab.
 >
 > **[2:31](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980&t=151)** There is a file in your file section that you can use, but if you want to challenge yourself, why not design that data yourself?
 >
@@ -1913,15 +1890,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), management (1), power (1), bi (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1951,7 +1927,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=59)** So here we would go new measure and say, target profit equals a million.
 >
-> **[1:09](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=69)** Now most people don't think of that with a measure because measures typically are like simple formula in Excel rather than constant.
+> **[1:09](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=69)** Now most people don't think of that with a measure because measures typically are like simple formula in [[Microsoft Excel|Excel]] rather than constant.
 >
 > **[1:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=77)** But you totally could do that.
 >
@@ -1989,7 +1965,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=181)** And it doesn't matter if I change this to be the last 12 months, however I filter the data that 1M remains.
 >
-> **[3:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=190)** So Power BI is wrongly comparing a changing actual profit against an inflexible monthly target.
+> **[3:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=190)** So [[Microsoft Power BI|Power BI]] is wrongly comparing a changing actual profit against an inflexible monthly target.
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899456?u=76281980&t=201)** In other words, using a measure doesn't work.
 >
@@ -2065,7 +2041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), power (3), bi (3), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Power BI|Power bi]] (3)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), click on (1), drag and drop (1)
 > **Versions:** 16.89 (1)
@@ -2078,8 +2054,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898405?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898405?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2107,13 +2082,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22898404?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22898404?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2143,7 +2116,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22898404?u=76281980&t=79)** And let's just check if we come over here what sort of levels we're getting.
 >
-> **[1:27](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22898404?u=76281980&t=87)** Now, once again, we need to tell Power BI that should be a percentage.
+> **[1:27](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22898404?u=76281980&t=87)** Now, once again, we need to tell [[Microsoft Power BI|Power BI]] that should be a percentage.
 >
 > **[1:33](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22898404?u=76281980&t=93)** So it's very obvious that H Plus has been trading for less time and it seems to have a more consistent level of profit.
 >
@@ -2231,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), power (1), bi (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -2243,8 +2216,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19858049?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19858049?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2272,13 +2244,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2350,7 +2320,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=201)** And let's just check that we have actually improved things.
 >
-> **[3:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=214)** Power BI, there are whole ready-made color palettes that you can pull into Power BI specifically to help with colorblindness among other things.
+> **[3:34](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=214)** [[Microsoft Power BI|Power BI]], there are whole ready-made color palettes that you can pull into Power BI specifically to help with colorblindness among other things.
 >
 > **[3:47](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=227)** So you don't have to do this every time, but also I think once you get a color palette that works for you and for your audience, you tend to stick with it.
 >
@@ -2358,7 +2328,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=239)** So I think those ones are okay.
 >
-> **[4:02](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=242)** Now I notice because of the length of the word Binaryville, that that donut is actually smaller.
+> **[4:02](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=242)** Now I notice because of the length of the [[Microsoft Word|word]] Binaryville, that that donut is actually smaller.
 >
 > **[4:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22899455?u=76281980&t=250)** There we go.
 >
@@ -2388,7 +2358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -2402,8 +2372,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2411,7 +2380,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980&t=14)** This challenge is very simple, conceptually.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980&t=17)** I want you to download a custom visual from the Microsoft AppSource marketplace and import it to Power BI.
+> **[0:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980&t=17)** I want you to download a custom visual from the [[Microsoft]] AppSource marketplace and import it to [[Microsoft Power BI|Power BI]].
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980&t=24)** Then ideally, I'd like you to drag and drop some data into it.
 >
@@ -2421,13 +2390,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2435,7 +2403,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=7)** Half of the challenge is in locating the right website and here it is.
 >
-> **[0:12](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=12)** This is Microsoft's app source Power BI Visuals section, and they do change this website from time to time, which is why I wanted you to hunt for it yourself rather than me provide you with a permalink.
+> **[0:12](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=12)** This is [[Microsoft]]'s app source [[Microsoft Power BI|Power BI]] Visuals section, and they do change this website from time to time, which is why I wanted you to hunt for it yourself rather than me provide you with a permalink.
 >
 > **[0:25](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=25)** You can see lots and lots of visuals here and most of them are free.
 >
@@ -2457,7 +2425,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=79)** And you can see that your custom visuals pop up in this little section in the Visualizations pane below the line, they have their own little area.
 >
-> **[1:28](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=88)** This is our Chiclet Slicer And if I pull, product in there, you can see that we've got it working and it's listing all the products across both of the companies with little rounded rectangles, which is what it's supposed to do.
+> **[1:28](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=88)** This is our Chiclet Slicer And if I pull, product in there, you can see that we've got it working and it's listing all the [[Microsoft Products|products]] across both of the companies with little rounded rectangles, which is what it's supposed to do.
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900442?u=76281980&t=108)** Now I'm going to delete this because I have no interest in it being in the report at all, but I just wanted to show you that Power BI is very extensible.
 >
@@ -2465,7 +2433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), power (2), bi (2), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2475,8 +2443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2496,7 +2463,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=68)** They've been separated out.
 >
-> **[1:11](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=71)** And the blue dots in this chart are North American countries and the pink dots are what we might call rest of world.
+> **[1:11](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=71)** And the blue dots in this chart are North American countries and the pink dots are what we might call [[Representational State Transfer (REST)|rest]] of world.
 >
 > **[1:19](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=79)** They lie outside of North America.
 >
@@ -2506,9 +2473,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=92)** It's up to you to decide the best way of doing it.
 >
-> **[1:35](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=95)** For me, I dealt with this by using calculated columns in my Power BI report.
+> **[1:35](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=95)** For me, I dealt with this by using calculated columns in my [[Microsoft Power BI|Power BI]] report.
 >
-> **[1:42](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=102)** I didn't go back to Excel.
+> **[1:42](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=102)** I didn't go back to [[Microsoft Excel|Excel]].
 >
 > **[1:44](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980&t=104)** Okay, this should be possible between five and 10 minutes.
 >
@@ -2516,20 +2483,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (2), management (1), [[Representational State Transfer (REST)|Rest]] (1), bi (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=5)** - [Instructor] So it seems that Landon hotels are mostly interested in two categories of country.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=10)** They want North America and rest of world.
+> **[0:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=10)** They want North America and [[Representational State Transfer (REST)|rest]] of world.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=14)** So I'm going to create a new dimension by which we can filter or slice the data, and I'm going to call it region.
 >
@@ -2555,7 +2521,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=100)** So it's a nice easy way to add a column without having to reimport because every time you change the source data and you reimport it, you are often having to reset the certain series of financials or certain series of percentages and you're having to recreate your measures and so forth.
 >
-> **[1:59](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=119)** So this is a nice easy way to change your data without having to go back to excel.
+> **[1:59](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=119)** So this is a nice easy way to change your data without having to go back to [[Microsoft Excel|excel]].
 >
 > **[2:04](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=124)** A quick note on the difference between measures and calculated columns.
 >
@@ -2655,11 +2621,11 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=487)** But I have tried it many times and it never quite looks right.
 >
-> **[8:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=490)** I do hope Microsoft adds the ability to delete items off a default tool tip because it's a bit silly creating a whole new report page just to delete one row.
+> **[8:10](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22896472?u=76281980&t=490)** I do hope [[Microsoft]] adds the ability to delete items off a default tool tip because it's a bit silly creating a whole new report page just to delete one row.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Cross-References:** go back to (1)
@@ -2671,8 +2637,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19846201?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19846201?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2696,13 +2661,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Versions:** 1.2 (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2712,7 +2675,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=8)** I decided to create a histogram in a completely new tab.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=17)** When it comes to statistics, I find that the audience generally can make sense of histograms far more easily than other statistical visuals, such as box plots.
+> **[0:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=17)** When it comes to [[Statistics]], I find that the audience generally can make sense of histograms far more easily than other statistical visuals, such as box plots.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=26)** Lots of people just haven't got a clue what a box plot means.
 >
@@ -2726,7 +2689,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=53)** There's lots of different ways of doing this.
 >
-> **[0:55](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=55)** One is to create a new table with as many rows as buckets, and then you can use DAX to calculate the counts against each bin.
+> **[0:55](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=55)** One is to create a new table with as many rows as buckets, and then you can use [[DAX]] to calculate the counts against each bin.
 >
 > **[1:03](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=63)** This can be really good if you need dynamic groupings, you know, if the bucket sizes are changing.
 >
@@ -2794,7 +2757,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=257)** So we've got a bit of a bump in the 900 K plus, but at least it's not a misleading axis anymore.
 >
-> **[4:24](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=264)** Now, in more recent Power BI versions, there is a grouping option where you don't have to write any DAX.
+> **[4:24](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=264)** Now, in more recent [[Microsoft Power BI|Power BI]] versions, there is a grouping option where you don't have to write any DAX.
 >
 > **[4:30](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/solution-22900437?u=76281980&t=270)** So there is another way of creating our histogram.
 >
@@ -2824,7 +2787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (4), power (2), next (2), [[Statistics]] (1), bi (1)
+> **Frameworks & Libraries:** [[DAX]] (4), [[Statistics]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Code Identifiers:** histbin (4), grosssales (1), bothcompanies (1), histbins (1)
 > **Env Vars:** dax (4), var (1), return (1), switch (1)
 > **CLI Commands:** make (4), find (1)
@@ -2838,22 +2801,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980)
+#### [Continuing on with Power BI](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=0)** - [Narrator] Congratulations on completing your Power BI Level Up course.
+> **[0:00](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=0)** - [Narrator] Congratulations on completing your [[Microsoft Power BI|Power BI]] Level Up course.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=4)** I hope you learned something new and stretched yourself in the challenges.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=7)** There is a lot more to Power BI than we've managed to cover in this course, so why not look for an intermediate course in the LinkedIn learning library or focus on key areas such as data modeling, DAX, or publishing reports to take your knowledge forwards.
+> **[0:07](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=7)** There is a lot more to Power BI than we've managed to cover in this course, so why not look for an intermediate course in the [[LinkedIn]] learning library or focus on key areas such as [[Data Modeling]], [[DAX]], or publishing reports to take your knowledge forwards.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=23)** It's been fun and I wish you luck on the rest of your Power BI journey.
+> **[0:23](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980&t=23)** It's been fun and I wish you luck on the [[Representational State Transfer (REST)|rest]] of your Power BI journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), [[LinkedIn]] (1), data (1), [[DAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[LinkedIn]] (1), [[Data Modeling]] (1), [[DAX]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dax (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

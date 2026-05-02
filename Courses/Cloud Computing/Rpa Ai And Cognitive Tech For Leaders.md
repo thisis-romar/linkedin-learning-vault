@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your digital ops journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/your-digital-ops-journey-25743614?u=76281980)
+#### [Your digital ops journey](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/your-digital-ops-journey-25743614?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,12 +118,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), rpa (1), ai (1), [[Automation]] (1)
 > **Env Vars:** rpa (1)
 > **Speakers:** - companies (1)
 
-#### What's changed in the age of generative AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980)
+#### [What's changed in the age of generative AI?](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,23 +129,22 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=9)** As leaders, I'm sure this isn't lost on you.
 >
-> **[0:11](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=11)** There have been major innovations that must be considered and included in any modern AI strategy.
+> **[0:11](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=11)** There have been major innovations that must be considered and included in any modern [[AI Strategy]].
 >
-> **[0:17](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=17)** Those innovations include the explosion of large language models onto the scene that are powering everything from co-pilots, and digital assistants, to AI agents in the broader agentic scope.
+> **[0:17](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=17)** Those innovations include the explosion of [[Large Language Models (LLM)|large language models]] onto the scene that are powering everything from co-pilots, and digital assistants, to [[AI Agents]] in the broader agentic scope.
 >
 > **[0:29](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=29)** All this is altering everything from how we interact with, develop, and use software to how we operate businesses, hire and deploy talent, and serve stakeholders throughout our operational value chains, including customers, vendors, and employees.
 >
 > **[0:45](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=45)** But in light of all of these exciting advancements in AI, my work with leaders around the world and my efforts as an investor and advisor to AI startups continue to reinforce for me that the fundamentals covered in this course are more important than ever.
 >
-> **[0:59](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=59)** So whether you're hoping to pilot workflow automation or go big with generative AI and agentics, I'm confident the following lessons will serve you well.
+> **[0:59](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/what-s-changed-in-the-age-of-generative-ai?u=76281980&t=59)** So whether you're hoping to pilot workflow automation or go big with [[Generative AI]] and agentics, I'm confident the following lessons will serve you well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Large Language Models (LLM)|Large language models]] (1), [[Automation]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[AI Strategy]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[AI Agents]] (1), [[Generative AI]] (1)
 > **Speakers:** - before (1)
 
-#### My discussion with a CEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/my-discussion-with-a-ceo?u=76281980)
+#### [My discussion with a CEO](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/my-discussion-with-a-ceo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/my-discussion-with-a-ceo?u=76281980&t=30)** That discussion inspired this course.
 >
-> **[0:33](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/my-discussion-with-a-ceo?u=76281980&t=33)** I don't know about you, but in my business school I didn't learn how to manage robots, select algorithms, or harness the power of the blockchain.
+> **[0:33](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/my-discussion-with-a-ceo?u=76281980&t=33)** I don't know about you, but in my business school I didn't learn how to manage robots, select [[Algorithms]], or harness the power of the [[Blockchain]].
 >
 > **[0:41](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/my-discussion-with-a-ceo?u=76281980&t=41)** Now, if I were to go back today, I might.
 >
@@ -182,14 +178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), business (1), [[Algorithms]] (1), power (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Blockchain]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ceo (1), mba (1)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - recently (1)
 
-#### The imperative of the digital-era executive
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980)
+#### [The imperative of the digital-era executive](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,15 +192,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=5)** Everything is digital these days.
 >
-> **[0:06](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=6)** Whether it's your marketing strategy, your customer experience, your back office operations approach, or your current flavor of transformation.
+> **[0:06](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=6)** Whether it's your [[Marketing Strategy]], your customer experience, your back [[Microsoft Office|office]] operations approach, or your current flavor of transformation.
 >
 > **[0:14](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=14)** Chances are good it is all digital or trying to be.
 >
 > **[0:19](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=19)** To make matters even more interesting, the world of work has become inundated with a new dictionary of digital.
 >
-> **[0:25](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=25)** If you run any part of a business, be it a branch, a division, or the whole darn thing, it's not good enough to understand finance, accounting, operations, and people management anymore.
+> **[0:25](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=25)** If you run any part of a business, be it a branch, a division, or the whole darn thing, it's not good enough to understand finance, accounting, operations, and [[People Management]] anymore.
 >
-> **[0:36](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=36)** You now need to hold court as your teams discuss ERPs, CRMs, RPA, AI, and a growing list of systems, algorithms, and tool sets.
+> **[0:36](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=36)** You now need to hold court as your teams discuss ERPs, CRMs, RPA, AI, and a growing list of systems, [[Algorithms]], and tool sets.
 >
 > **[0:47](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-imperative-of-the-digital-era-executive?u=76281980&t=47)** And deciphering this list is only just the beginning.
 >
@@ -249,7 +244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), ai (2), [[Algorithms]] (2), [[Automation]] (2), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Marketing Strategy]] (1), [[Microsoft Office|Office]] (1), [[People Management]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rpa (1)
 > **Definitions:** known as (1)
@@ -260,14 +255,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software is eating the world—of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980)
+#### [Software is eating the world—of work](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=1)** - So who knows how to hire robots?
 >
-> **[0:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=3)** How about manage algorithms?
+> **[0:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=3)** How about manage [[Algorithms]]?
 >
 > **[0:05](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=5)** Or upscale a machine learning model?
 >
@@ -293,13 +287,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=83)** Well folks began to realize there were better ways to do the tasks that were often somewhat routine rule-based and frankly just boring.
 >
-> **[1:31](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=91)** And that is why I believe concepts like robotic process automation and artificial intelligence have literally exploded in the last five years.
+> **[1:31](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=91)** And that is why I believe concepts like [[Robotic Process Automation (RPA)|robotic process automation]] and [[Artificial Intelligence (AI)|artificial intelligence]] have literally exploded in the last five years.
 >
 > **[1:40](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=100)** For sake of reference, I'll include some key definitions in the exercise files.
 >
 > **[1:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=104)** When passion, process, and a desire to avoid boredom are combined, it's amazing what you can create.
 >
-> **[1:51](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=111)** And frankly my head spins when I see how many organizations and people self describe as RPA or intelligent automation experts today on LinkedIn.
+> **[1:51](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=111)** And frankly my head spins when I see how many organizations and people self describe as RPA or intelligent automation experts today on [[LinkedIn]].
 >
 > **[2:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980&t=120)** But the only constant is change.
 >
@@ -309,15 +303,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Automation]] (2), [[Algorithms]] (1), hr (1), teams (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (1)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### The digital operations landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980)
+#### [The digital operations landscape](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,13 +344,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=101)** Ultimately technology in the operational functions of a business run the gamut.
 >
-> **[1:45](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=105)** From simple script based tools to more complicated algorithms that often rely on intense amounts of data, in order to draw inference and propose predictions.
+> **[1:45](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=105)** From simple script based tools to more complicated [[Algorithms]] that often rely on intense amounts of data, in order to draw inference and propose predictions.
 >
 > **[1:54](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=114)** Now, as we all know, the world of business likes a new hot trend.
 >
 > **[2:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=120)** And so the focus of our attention often shifts.
 >
-> **[2:02](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=122)** As of the last few years, we've been excited about robotic process automation, intelligent automation, and various forms of learning, be they machine or deep.
+> **[2:02](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=122)** As of the last few years, we've been excited about [[Robotic Process Automation (RPA)|robotic process automation]], intelligent automation, and various [[Forms]] of learning, be they machine or deep.
 >
 > **[2:13](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=133)** I recommend that you and your leadership teams take the time to get comfortable with each of the components in this chart of digital elements.
 >
@@ -371,23 +364,22 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=164)** And if you're interested in the other components of our digital operation, table of elements.
 >
-> **[2:49](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=169)** We'll share a list of other LinkedIn learning courses.
+> **[2:49](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=169)** We'll share a list of other [[LinkedIn]] learning courses.
 >
-> **[2:51](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=171)** You should consider in your personal IAA curriculum, including AI, machine learning, data science, and business analysis.
+> **[2:51](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-digital-operations-landscape?u=76281980&t=171)** You should consider in your personal IAA curriculum, including AI, machine learning, [[Data Science]], and business analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Automation]] (5), business (3), teams (2), rpa (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Forms]] (1), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Env Vars:** rpa (1), rpi (1), iaa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
-#### Piecing it all together with Legos
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980)
+#### [Piecing it all together with Legos](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=1)** - Leading the charge for digital transformation in your business doesn't necessarily mean you have to be a technical expert on the landscape we just discussed.
+> **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=1)** - Leading the charge for [[Digital Transformation]] in your business doesn't necessarily mean you have to be a technical expert on the landscape we just discussed.
 >
 > **[0:08](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=8)** However, it does require that you understand enough about technology to know how they might fit in to your overall strategy.
 >
@@ -423,7 +415,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=107)** There we go.
 >
-> **[1:49](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=109)** Between the HR system and other applications like payroll, user management, time and expense and dozens more.
+> **[1:49](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=109)** Between the HR system and other applications like payroll, [[User Management]], time and expense and dozens more.
 >
 > **[2:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/piecing-it-all-together-with-legos?u=76281980&t=123)** Each of the Lego's referenced were configurable apps that handle a particular function.
 >
@@ -433,20 +425,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (2), [[Digital Transformation]] (1), business (1), generic (1), functional (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[User Management]] (1)
 > **Env Vars:** rpa (2), erp (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - leading (1)
 
-#### Playing with AI Legos
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980)
+#### [Playing with AI Legos](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=1)** - Welcome back to our LEGO workshop.
 >
-> **[0:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=3)** So we've discussed how generic LEGO bricks approximate enterprise software tools.
+> **[0:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=3)** So we've discussed how generic LEGO bricks approximate [[Enterprise Software]] tools.
 >
 > **[0:08](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=8)** Now here's where things get exciting.
 >
@@ -454,9 +445,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=25)** Which really can only can be well, a sorting hat.
 >
-> **[0:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=30)** I think of these custom LEGOS like narrow artificial intelligence.
+> **[0:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=30)** I think of these custom LEGOS like narrow [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:34](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=34)** Today's AI capabilities are all more or less narrow in the sense that they're algorithms that serve a discreet and specific function, given context and data.
+> **[0:34](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=34)** Today's AI capabilities are all more or less narrow in the sense that they're [[Algorithms]] that serve a discreet and specific function, given context and data.
 >
 > **[0:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/playing-with-ai-legos?u=76281980&t=44)** Much like this sorting hat can only really be, well, a sorting hat, an algorithm that scans medical images for traces of cancer for example won't be of much use in recommending a movie for you to watch or interpreting an insurance claim.
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), generic (2), [[Enterprise Software]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Enterprise Software]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Env Vars:** lego (5), legos (2), ocr (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
@@ -514,8 +505,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
 
-#### New Legos
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/new-legos?u=76281980)
+#### [New Legos](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/new-legos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/new-legos?u=76281980&t=23)** Everything from code to emails to marketing copy.
 >
-> **[0:26](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/new-legos?u=76281980&t=26)** Where you needed a Hagrid or Hermione in the past, you now have AI agents that can execute tasks on their behalf.
+> **[0:26](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/new-legos?u=76281980&t=26)** Where you needed a Hagrid or Hermione in the past, you now have [[AI Agents]] that can execute tasks on their behalf.
 >
 > **[0:34](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/new-legos?u=76281980&t=34)** Finally, the collective power of all of these elements can now work together in non-deterministic ways, that are far more creative and complex than the linear workflows highlighted in the last video.
 >
@@ -543,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), power (1), hr (1), job description (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2)
 > **Env Vars:** agi (1), ocr (1), idp (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - as (1)
@@ -553,8 +543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where is digital ops?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980)
+#### [Where is digital ops?](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980&t=22)** What I find to be a more useful approach is a set of lenses through which you will examine your existing business because to be somewhat simplistic about it, digital operations can be everywhere in your business from the top to the bottom.
 >
-> **[0:37](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980&t=37)** In the next two videos, I approach it from a common framework of examining areas traditionally known as the front and the back office.
+> **[0:37](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980&t=37)** In the next two videos, I approach it from a common framework of examining areas traditionally known as the front and the back [[Microsoft Office|office]].
 >
 > **[0:45](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980&t=45)** I do so not to give you that catalog or cheat sheet, but instead to give you confidence that digital ops programs are actually happening and actually adding value.
 >
@@ -578,18 +567,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### Front-office use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980)
+#### [Front-office use cases](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=0)** - Front office processes in your organization, such as those that revolve around customer service, are great sources of opportunity for automation, no matter what industry you're in.
+> **[0:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=0)** - Front [[Microsoft Office|office]] processes in your organization, such as those that revolve around customer service, are great sources of opportunity for automation, no matter what industry you're in.
 >
 > **[0:10](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=10)** I'll provide several examples to give you an idea of what to look for.
 >
@@ -597,7 +585,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=21)** For example, if a customer service team is facing large call volumes for incoming requests there might be an opportunity to have the agents hand off certain processing tasks to our PA robots.
 >
-> **[0:33](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=33)** You might have a workflow where agents can generate tickets with the data from their calls and at the press of a button have the robot work multiple databases or systems to pull up relevant information.
+> **[0:33](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=33)** You might have a workflow where agents can generate tickets with the data from their calls and at the press of a button have the robot work multiple [[Databases]] or systems to pull up relevant information.
 >
 > **[0:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=44)** This is a prime example of assisted automation with RPA, sometimes called Robotic Desktop Automation or RDA, where agents can trigger automated workflows at the convenience of their desktop.
 >
@@ -619,9 +607,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=105)** Some bots with more advanced capabilities can be great companions for your existing teams.
 >
-> **[1:50](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=110)** You may hear these referred to as co-bots serving up suggestions in real time during customer support engagements.
+> **[1:50](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=110)** You may hear these referred to as co-bots serving up suggestions in real time during [[Customer Support]] engagements.
 >
-> **[1:57](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=117)** Some chat box services are intelligent, which means that they use machine learning algorithms to provide more advanced human-like conversations with customers.
+> **[1:57](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=117)** Some chat box services are intelligent, which means that they use machine learning [[Algorithms]] to provide more advanced human-like conversations with customers.
 >
 > **[2:06](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=126)** You might have encountered one when booking a vacation with a travel agent bot, which learns about you by asking you for preferences and requests in a natural manner.
 >
@@ -631,23 +619,22 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=148)** As you can see, the common theme with front office automation is to support customer facing staff who can then dedicate more time to providing quality interactions.
 >
-> **[2:40](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=160)** And while chat is becoming more prevalent, there's no doubt that voice as a self service channel is revolutionizing industries with the deployment of Alexa, Siri, Google Home, Cortana, and others that are entering every corner of our home and office environments.
+> **[2:40](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/front-office-use-cases?u=76281980&t=160)** And while chat is becoming more prevalent, there's no doubt that voice as a self service channel is revolutionizing industries with the deployment of Alexa, Siri, [[Google]] Home, Cortana, and others that are entering every corner of our home and office environments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Automation]] (5), data (2), rpa (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Databases]] (1), [[Customer Support]] (1), [[Algorithms]] (1), [[Google]] (1)
 > **Env Vars:** rpa (2), rda (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - front (1)
 
-#### Back-office use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980)
+#### [Back-office use cases](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=1)** - The back-office, where you'll find HR, F and A, and supply chain processes, to name a few, is full of swivel chair integration, where employees tend to manually receive and transcribe faxes, copy form data, execute rote transactional processes, or perform repetitive tasks.
+> **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=1)** - The back-[[Microsoft Office|office]], where you'll find HR, F and A, and supply chain processes, to name a few, is full of swivel chair integration, where employees tend to manually receive and transcribe faxes, copy form data, execute rote transactional processes, or perform repetitive tasks.
 >
 > **[0:19](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=19)** This makes it the ideal part of a business for large-scale automation.
 >
@@ -669,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=88)** Other technologies also come in handy in the back-office, and they're often paired with general tools like RPA to automate end-to-end processes.
 >
-> **[1:38](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=98)** If you need to convert analog forms to digital data, technologies like optical character recognition or OCR can help digitize written text with a relatively high degree of accuracy.
+> **[1:38](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=98)** If you need to convert analog [[Forms]] to digital data, technologies like optical character recognition or OCR can help digitize written text with a relatively high degree of accuracy.
 >
 > **[1:49](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/back-office-use-cases?u=76281980&t=109)** This works best with structured, computer generated images, because of the generic samples that OCR engines run on.
 >
@@ -693,21 +680,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (5), [[Forms]] (5), data (4), [[Microsoft Office|Office]] (3), hr (3)
+> **Frameworks & Libraries:** [[Forms]] (5), [[Microsoft Office|Office]] (3)
 > **Env Vars:** rpa (5), ocr (3), icr (3)
 > **CLI Commands:** find (2)
 > **Analogies:** for instance (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### The whole digital operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980)
+#### [The whole digital operation](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=1)** - In the world of work, we've been fixated on our silos.
 >
-> **[0:05](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=5)** Why else would I have just covered front and back office in a way to describe areas within an organization where automation could play a role?
+> **[0:05](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=5)** Why else would I have just covered front and back [[Microsoft Office|office]] in a way to describe areas within an organization where automation could play a role?
 >
 > **[0:13](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=13)** We design in silos, we hire in silos, we invest in enterprise technology in silos.
 >
@@ -721,7 +707,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=68)** You feel this every time you try to book that holiday we mentioned or interact with your bank or try to navigate the health care industry.
 >
-> **[1:15](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=75)** Having to fill in numerous identical forms or tell that next agent, I've already given you this information.
+> **[1:15](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=75)** Having to fill in numerous identical [[Forms]] or tell that next agent, I've already given you this information.
 >
 > **[1:22](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=82)** It's just not acceptable anymore.
 >
@@ -735,7 +721,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=126)** First, that it fosters genuine digital customer, partner, and employee engagement.
 >
-> **[2:13](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=133)** Second, that enterprises leverage design thinking techniques to achieve continuous digital outcomes.
+> **[2:13](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=133)** Second, that enterprises leverage [[Design Thinking]] techniques to achieve continuous digital outcomes.
 >
 > **[2:20](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-whole-digital-operation?u=76281980&t=140)** Third, enterprises create a digital operations foundation able to automate, digitize, virtualize, and secure.
 >
@@ -753,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), data (4), [[Automation]] (2), [[Design Thinking]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Design Thinking]] (2), [[Forms]] (1)
 > **Cross-References:** we mentioned (2)
 > **Analogies:** picture (1), for instance (1)
 > **Env Vars:** hfs (1)
@@ -765,12 +751,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for a strong, top-down mandate
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980)
+#### [The need for a strong, top-down mandate](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980&t=0)** - [Instructor] In 1962, President John Kennedy stood in front of the United States and declared that within the decade we would put a person on the moon.
+> **[0:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980&t=0)** - [Instructor] In 1962, President [[John the Ripper|John]] Kennedy stood in front of the United States and declared that within the decade we would put a person on the moon.
 >
 > **[0:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980&t=9)** Insanely cool and insanely aspirational.
 >
@@ -800,13 +785,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), business (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of top-down mandates
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980)
+#### [Examples of top-down mandates](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,11 +806,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=40)** In the analyst day presentation, the CEO stated that these savings would partially be as a direct result of using, quote, unquote digital technology to automate manual processes.
 >
-> **[0:52](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=52)** And second, in April of 2015, the CEO of Wipro publicly stated that its investments in automation, artificial intelligence, and digital technology would bring about a headcount production of 30% in three years.
+> **[0:52](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=52)** And second, in April of 2015, the CEO of Wipro publicly stated that its investments in automation, [[Artificial Intelligence (AI)|artificial intelligence]], and digital technology would bring about a headcount production of 30% in three years.
 >
 > **[1:06](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=66)** Now, this list goes on.
 >
-> **[1:08](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=68)** CEOs of Nordea Bank, Lloyds Banking Group, Deutsche Bank, Zurich Insurance Group, and numerous others have declared bold cost-saving mandates for their organizations that are predicated on automation.
+> **[1:08](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=68)** CEOs of Nordea Bank, Lloyds [[Banking]] Group, Deutsche Bank, Zurich Insurance Group, and numerous others have declared bold cost-saving mandates for their organizations that are predicated on automation.
 >
 > **[1:21](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=81)** And while many of these examples are from banking, I expect we'll be seeing similar mandates coming in healthcare, manufacturing, logistics, entertainment and more.
 >
@@ -834,20 +818,19 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=94)** Become a digital operation or else.
 >
-> **[1:37](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=97)** The real winners will do so boldly, and with a view towards creating an integrated single office we discussed earlier.
+> **[1:37](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=97)** The real winners will do so boldly, and with a view towards creating an integrated single [[Microsoft Office|office]] we discussed earlier.
 >
 > **[1:43](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-top-down-mandates?u=76281980&t=103)** So, as a leader of such a change, what should you consider in your top-down mandate?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Banking]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** ceo (2)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - moon (1)
 
-#### How to draft your top-down mandate
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980)
+#### [How to draft your top-down mandate](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=32)** Pick ones that matter to your industry and ones that are measurable and meaningful to the organization.
 >
-> **[0:38](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=38)** In my Introduction to RPA course, I speak about the forms of benefits that automation can help achieve.
+> **[0:38](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=38)** In my Introduction to RPA course, I speak about the [[Forms]] of benefits that automation can help achieve.
 >
 > **[0:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=44)** They include cost reduction, improved quality, speed, agility, visibility, improved employee productivity, and compliance.
 >
@@ -919,9 +902,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=182)** So putting all of this into practice, if I were the CEO of a healthcare organization, for instance, I would consider a mandate such as this.
 >
-> **[3:10](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=190)** Sacred Heart is launching an intelligent automation center of excellence to digitize clinical and back-office operations in order to reduce average cost-to-serve by 25%, wile increasing patient and employee satisfaction ratings by 50% and increasing revenue per bed by 30% in the next three years.
+> **[3:10](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=190)** Sacred Heart is launching an intelligent automation center of excellence to digitize clinical and back-[[Microsoft Office|office]] operations in order to reduce average cost-to-serve by 25%, wile increasing patient and employee satisfaction ratings by 50% and increasing revenue per bed by 30% in the next three years.
 >
-> **[3:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=210)** And if I were heading a bank, I might declare that YouBank is launching a one-bank initiative to digitize and unify all customer support functions using RPA in order to reduce costs by $1 billion, improve the efficiency ratio by 25%, and create the data necessary for intelligent, predictive decision making growing average products per customer by 50% through increased engagement.
+> **[3:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=210)** And if I were heading a bank, I might declare that YouBank is launching a one-bank initiative to digitize and unify all [[Customer Support]] functions using RPA in order to reduce costs by $1 billion, improve the efficiency ratio by 25%, and create the data necessary for intelligent, predictive decision making growing average [[Microsoft Products|products]] per customer by 50% through increased engagement.
 >
 > **[3:57](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/how-to-draft-your-top-down-mandate?u=76281980&t=237)** So there you have it.
 >
@@ -931,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (2), [[Automation]] (2), business (2), [[Forms]] (1), teams (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Office|Office]] (1), [[Customer Support]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (3), imagine (1), such as (1)
 > **Env Vars:** rpa (2), ceo (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -939,30 +922,29 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - there (1)
 
-#### Examples of successful outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980)
+#### [Examples of successful outcomes](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=1)** - If all goes well, you get to celebrate your team's achievements by declaring success and sharing some of the metrics and value created.
 >
-> **[0:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=9)** Remember my reference to Lloyds Banking Group?
+> **[0:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=9)** Remember my reference to Lloyds [[Banking]] Group?
 >
 > **[0:12](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=12)** They're one example of an organization that's recently done just that.
 >
 > **[0:16](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=16)** After having declared that they would achieve reduction in their cost base to less than eight billion pounds by 2020, the CEO recently announced that the automation initiatives within the bank have already been responsible for 600 thousand hours given back to the business in 2018 alone.
 >
-> **[0:35](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=35)** In addition, their investment and commitment to a digital operation has seen the development of a specialized Center of Excellence, the training of many dozens of people, and numerous robots programmed and put to work, complementing a significant investment in more complex algorithms to further enhance operations.
+> **[0:35](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=35)** In addition, their investment and commitment to a digital operation has seen the development of a specialized Center of Excellence, the training of many dozens of people, and numerous robots programmed and put to work, complementing a significant investment in more complex [[Algorithms]] to further enhance operations.
 >
 > **[0:55](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=55)** Now, not all programs have gone this well.
 >
 > **[0:58](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=58)** In fact, I've seen a lot of efforts fail to get off the ground, or fall short of their goals.
 >
-> **[1:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=63)** So in the next section, we'll talk about tips and tricks to help you get the most out of your digital transformation initiative.
+> **[1:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/examples-of-successful-outcomes?u=76281980&t=63)** So in the next section, we'll talk about tips and tricks to help you get the most out of your [[Digital Transformation]] initiative.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), [[Automation]] (1), business (1), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Algorithms]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
@@ -972,8 +954,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits: ROP portfolio
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980)
+#### [Benefits: ROP portfolio](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,11 +976,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=74)** Whether or not savings are quick to present themselves, what each RPA project achieves is increasing levels of digitized and reliable data.
 >
-> **[1:23](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=83)** Clean data is the food that machine-learning algorithms depend on.
+> **[1:23](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=83)** Clean data is the food that machine-learning [[Algorithms]] depend on.
 >
 > **[1:27](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=87)** When you approach it this way, you realize that the early-stage digitization projects are so much more than simply discrete, stand-alone efforts.
 >
-> **[1:35](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=95)** They are a critical first step to that integrated, digital operations reality, that one office we spoke about.
+> **[1:35](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=95)** They are a critical first step to that integrated, digital operations reality, that one [[Microsoft Office|office]] we spoke about.
 >
 > **[1:42](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980&t=102)** So be sure to evaluate candidate projects with a portfolio mindset.
 >
@@ -1009,21 +990,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (2), data (2), [[Automation]] (1), [[Algorithms]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rpa (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - while (1)
 
-#### Invest reasonably
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980)
+#### [Invest reasonably](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=1)** - This one is short, but important.
 >
-> **[0:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=3)** I've said it before, comprehensive game-changing digital transformation is not fast, and it's not easy, it's also not cheap.
+> **[0:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=3)** I've said it before, comprehensive game-changing [[Digital Transformation]] is not fast, and it's not easy, it's also not cheap.
 >
 > **[0:13](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=13)** Unfortunately, the narrative lately has been about automation tools that are easy, quick, miraculously powerful, and cheap.
 >
@@ -1039,18 +1019,17 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=53)** For more algorithm-oriented projects, the ones folks call AI, be ready to spend millions to tens of millions.
 >
-> **[1:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=60)** And for comprehensive digital operations migration to the integrated one office reality, prepare to spend tens to hundreds of millions.
+> **[1:00](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=60)** And for comprehensive digital operations migration to the integrated one [[Microsoft Office|office]] reality, prepare to spend tens to hundreds of millions.
 >
 > **[1:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/invest-reasonably?u=76281980&t=69)** It's a lot, but remember, the portfolio of projects and programs is the goal, and the return on portfolio justifies the investment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), game (1), [[Digital Transformation]] (1), teams (1), rpa (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rpa (1)
 > **Speakers:** - this (1)
 
-#### The DIY fallacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-diy-fallacy?u=76281980)
+#### [The DIY fallacy](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-diy-fallacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,14 +1069,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), teams (1)
 > **Env Vars:** diy (2), dna (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - i (1)
 
-#### Grassroots Innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/grassroots-innovation?u=76281980)
+#### [Grassroots Innovation](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/grassroots-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/grassroots-innovation?u=76281980&t=23)** In it, my co-author, Thomas Davenport and I showcase how enterprises of all sizes are using AI.
 >
-> **[0:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/grassroots-innovation?u=76281980&t=30)** Domain experts who know their role but are not technical are building apps with tools like Microsoft's Power Automate.
+> **[0:30](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/grassroots-innovation?u=76281980&t=30)** Domain experts who know their role but are not technical are building apps with tools like [[Microsoft]]'s Power Automate.
 >
 > **[0:37](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/grassroots-innovation?u=76281980&t=37)** They're digitizing workflows by integrating and connecting existing systems with tools like UiPath, and they're developing predictive data models and complex operational analyses with tools like Alteryx.
 >
@@ -1129,13 +1106,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (2), [[Microsoft]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - the (1)
 
-#### Labor stays, and so do bots
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980)
+#### [Labor stays, and so do bots](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,15 +1151,15 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=89)** Deloitte has concluded that while technology has potentially contributed to the loss of over 800,000 lower-skilled jobs, there is equally strong evidence to suggest that it's helped to create nearly 3.5 million new higher-skilled ones in their place.
 >
-> **[1:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=104)** And finally, Gartner has estimated that by 2020, artificial intelligence will create more jobs than it eliminates.
+> **[1:44](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=104)** And finally, Gartner has estimated that by 2020, [[Artificial Intelligence (AI)|artificial intelligence]] will create more jobs than it eliminates.
 >
-> **[1:54](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=114)** While this is certainly a more positive outlook, there is inevitable change coming.
+> **[1:54](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=114)** While this is certainly a more positive [[Microsoft Outlook|outlook]], there is inevitable change coming.
 >
 > **[1:59](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=119)** As Deloitte suggested, certain job types may no longer need people doing them.
 >
 > **[2:04](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=124)** And so as leaders in your organizations, you need to prepare for this.
 >
-> **[2:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=129)** You'll want to begin recruiting people with a combination of logic and technical skills, coupled with soft skills, like empathy, creativity, and communications.
+> **[2:09](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=129)** You'll want to begin recruiting people with a combination of logic and technical skills, coupled with [[Soft Skills]], like empathy, creativity, and communications.
 >
 > **[2:18](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/labor-stays-and-so-do-bots?u=76281980&t=138)** Authors like Wayne Eckerson and Tom Davenport use the concept of purple people to describe employees like this: purple people have both technical and business skills, enabling them to bridge the two worlds and ensure that technology is applied properly.
 >
@@ -1197,15 +1173,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), business (3), ai (2), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Outlook|Outlook]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.5 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
-#### Managing AI expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980)
+#### [Managing AI expectations](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,7 +1200,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=54)** Dreamers, be bold but beware.
 >
-> **[0:57](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=57)** This next wave of digital transformation will be massively impactful, but it will not come quick or easy.
+> **[0:57](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=57)** This next wave of [[Digital Transformation]] will be massively impactful, but it will not come quick or easy.
 >
 > **[1:05](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=65)** Nothing worth doing ever does.
 >
@@ -1245,7 +1220,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=117)** And consider three key points here.
 >
-> **[1:59](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=119)** First, hunt for and digitize any source of unstructured data, be it emails, scans, paperwork.
+> **[1:59](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=119)** First, hunt for and digitize any source of [[Unstructured Data]], be it emails, scans, paperwork.
 >
 > **[2:07](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=127)** If you can digitize it, do it.
 >
@@ -1287,25 +1262,25 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=202)** Five, consider the audit trail.
 >
-> **[3:25](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=205)** I've personally seen algorithms in machine-learning pilots that come to right answer every time, and yet the projects were shut down because there was no clear way to determine how the algorithm did so.
+> **[3:25](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=205)** I've personally seen [[Algorithms]] in machine-learning pilots that come to right answer every time, and yet the projects were shut down because there was no clear way to determine how the algorithm did so.
 >
 > **[3:38](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=218)** Be conscious of this, and remember the audit trail is everything in certain highly-regulated industries.
 >
 > **[3:43](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=223)** Six, appreciate the talent required.
 >
-> **[3:46](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=226)** AI requires data science, math, coding, and complex analytical skills that you may not have on your teams today.
+> **[3:46](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=226)** AI requires [[Data Science]], math, coding, and complex analytical skills that you may not have on your teams today.
 >
 > **[3:54](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=234)** So be certain you have a fair assessment of your existing capabilities before you embark.
 >
 > **[3:59](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=239)** And finally, seven, govern appropriately.
 >
-> **[4:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=243)** Like all significant software projects, working with artificial intelligence demands a rigor and control over data cleansing, data security, access rights, IP protection, and often regulatory compliance.
+> **[4:03](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=243)** Like all significant [[Software Projects]], working with [[Artificial Intelligence (AI)|artificial intelligence]] demands a rigor and control over data cleansing, [[Data Security]], access rights, IP protection, and often [[Regulatory Compliance]].
 >
 > **[4:16](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/managing-ai-expectations?u=76281980&t=256)** Be sure all such controls are in place before you let teams explore how AI might apply to your critical business functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (9), teams (2), next (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Unstructured Data]] (1), [[Algorithms]] (1), [[Data Science]] (1), [[Software Projects]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
 
@@ -1314,8 +1289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1343,7 +1317,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980&t=81)** Enable your best people to do their best work, and design every digital operations program with the data in mind.
 >
-> **[1:28](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980&t=88)** It's the people that will continue to innovate, empathize, and serve your customers, and it's the data that will feed the algorithms and models that will help determine your future operational structures, your products and services, and your next wave of digital labor.
+> **[1:28](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980&t=88)** It's the people that will continue to innovate, empathize, and serve your customers, and it's the data that will feed the [[Algorithms]] and models that will help determine your future operational structures, your [[Microsoft Products|products]] and services, and your next wave of digital labor.
 >
 > **[1:43](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980&t=103)** This course was a summary of the discussions I had with that CEO who was looking for advice, and with various other leaders around the world.
 >
@@ -1355,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (2), leadership (1), business (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ceo (2), dna (1), diy (1)
 > **Speakers:** - so (1)
 

@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advance your Java Skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980)
+#### [Advance your Java Skills](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980&t=0)** - [Maaike] If you're quite good with Java, but you feel like there's something missing to push your skills from okay to great, you're in the right place.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980&t=0)** - [Maaike] If you're quite good with [[Java]], but you feel like there's something missing to push your skills from okay to great, you're in the right place.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980&t=8)** My name is Maaike and Java is my jam.
 >
@@ -102,13 +101,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[Programming]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [maaike] (1)
 
-#### CoderPad challenge environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/coderpad-challenge-environment?u=76281980)
+#### [CoderPad challenge environment](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/coderpad-challenge-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/coderpad-challenge-environment?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course where you watch the course's videos.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/coderpad-challenge-environment?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:21](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/coderpad-challenge-environment?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/coderpad-challenge-environment?u=76281980&t=29)** Code Challenge has four areas, Instructions in the top left, a code editor for your answers in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** showexpectedresult (1), showhint (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
@@ -173,16 +171,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980)
+#### [Functional programming](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980&t=0)** - [Instructor] Let's talk about a programming paradigm you've probably heard of, Functional Programming.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980&t=0)** - [Instructor] Let's talk about a programming paradigm you've probably heard of, [[Functional Programming]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980&t=6)** This programming paradigm is becoming increasingly popular.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980&t=10)** Let's use Java and explore how it can improve our code.
+> **[0:10](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980&t=10)** Let's use [[Java]] and explore how it can improve our code.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980&t=14)** Functional Programming is a programming paradigm that treats computations as the evaluation of mathematical functions.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (9), [[Programming]] (4), [[Java]] (3), data (3), next (3)
+> **Frameworks & Libraries:** [[Functional Programming]] (9), [[Java]] (3)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -228,12 +225,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/lambda-expressions?u=76281980)
+#### [Lambda expressions](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/lambda-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/lambda-expressions?u=76281980&t=0)** - [Instructor] Now that we understand the concept of functional programming, let's dive into lambda expressions.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/lambda-expressions?u=76281980&t=0)** - [Instructor] Now that we understand the concept of [[Functional Programming]], let's dive into lambda expressions.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/lambda-expressions?u=76281980&t=6)** They're one of the main building blocks of functional programming.
 >
@@ -363,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (5), [[Functional Programming]] (3), api (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3)
 > **Code Identifiers:** dosomething (4), largerthan5 (1), printuppercase (1), touppercase (1)
 > **Definitions:** is a  (2), is an  (2), is called (1)
 > **Env Vars:** api (2)
@@ -372,12 +368,11 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streams API and handling data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/streams-api-and-handling-data-sets?u=76281980)
+#### [Streams API and handling data sets](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/streams-api-and-handling-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/streams-api-and-handling-data-sets?u=76281980&t=0)** - The Stream API allows us to process and manipulate datasets using a functional programming approach and it can simplify our code when handling datasets.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/streams-api-and-handling-data-sets?u=76281980&t=0)** - The Stream API allows us to process and manipulate datasets using a [[Functional Programming]] approach and it can simplify our code when handling datasets.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/streams-api-and-handling-data-sets?u=76281980&t=10)** Let's start with Streams.
 >
@@ -467,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (3), api (2), parallel (1), functional (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3)
 > **Tools:** terminal (5), intellij (1)
 > **Definitions:** is a  (3), is called (1)
 > **Code Identifiers:** flatmap (1), foreach (1), filterdnames (1)
@@ -476,8 +471,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
-#### Solution: Java streams and lambda expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-use-java-streams-and-lambda-expressions?u=76281980)
+#### [Solution: Java streams and lambda expressions](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-use-java-streams-and-lambda-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,7 +509,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -525,14 +518,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Java collection framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980)
+#### [Java collection framework](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980&t=0)** - [Instructor] Let's talk about the Java collection framework.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980&t=0)** - [Instructor] Let's talk about the [[Java]] collection framework.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980&t=3)** It provides a wide range of data structures for handling collections of objects.
+> **[0:03](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980&t=3)** It provides a wide range of [[Data Structures]] for handling collections of objects.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980&t=8)** We'll discuss the main interfaces and some of their implementations.
 >
@@ -604,15 +596,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Data Structures]] (1)
 > **Definitions:** is a  (8), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Role of generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/role-of-generics?u=76281980)
+#### [Role of generics](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/role-of-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/role-of-generics?u=76281980&t=7)** Let's start with a little history.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/role-of-generics?u=76281980&t=9)** Before generics were introduced in Java, collections would only store objects of type Object.
+> **[0:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/role-of-generics?u=76281980&t=9)** Before generics were introduced in [[Java]], collections would only store objects of type Object.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/role-of-generics?u=76281980&t=15)** This meant that you had to cast objects to the correct type when retrieving them from a collection.
 >
@@ -674,13 +665,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), generic (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and using classes with parameterized types
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-and-using-classes-with-parameterized-types?u=76281980)
+#### [Creating and using classes with parameterized types](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-and-using-classes-with-parameterized-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,13 +728,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-and-using-classes-with-parameterized-types?u=76281980&t=114)** You can see that I can use the getFirst on both the namePair and agePair variable and I don't need any casting there because it already knows that this is going to be of type String on line eight and of Integer on line nine.
 >
-> **[2:08](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-and-using-classes-with-parameterized-types?u=76281980&t=128)** At this point, you should have a good enough understanding of the Java collection framework, draw of generics and how to create and use classes with parameterized types.
+> **[2:08](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-and-using-classes-with-parameterized-types?u=76281980&t=128)** At this point, you should have a good enough understanding of the [[Java]] collection framework, draw of generics and how to create and use classes with parameterized types.
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-and-using-classes-with-parameterized-types?u=76281980&t=137)** In the hands-on practice, you'll have the opportunity to apply this knowledge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** getfirst (2), namepair (1), agepair (1)
 > **Tools:** intellij (2)
 > **CLI Commands:** make (1)
@@ -752,8 +742,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Refactor to parameterized type
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-refactor-to-parameterized-type?u=76281980)
+#### [Solution: Refactor to parameterized type](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-refactor-to-parameterized-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,13 +764,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-refactor-to-parameterized-type?u=76281980&t=29)** Let's run this code and see the result.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-refactor-to-parameterized-type?u=76281980&t=31)** And as you can see, this is the correct answer because we successfully modified the data container class to now have a generic, and then we used this to create one with the type string for the generic and put in the word hello.
+> **[0:31](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-refactor-to-parameterized-type?u=76281980&t=31)** And as you can see, this is the correct answer because we successfully modified the data container class to now have a generic, and then we used this to create one with the type string for the generic and put in the [[Microsoft Word|word]] hello.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-refactor-to-parameterized-type?u=76281980&t=45)** That's why our test is now succeeding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), generic (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -789,8 +778,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980)
+#### [Understanding annotations](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,9 +788,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=5)** I'd love to see all the creative ways you utilize them.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=9)** Annotations allow us to add metadata to our code.
+> **[0:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=9)** Annotations allow us to add [[Metadata]] to our code.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=13)** This metadata can be used at compile time or run time to provide additional information or behavior to the Java classes, methods or fields.
+> **[0:13](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=13)** This metadata can be used at compile time or run time to provide additional information or behavior to the [[Java]] classes, methods or fields.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=21)** Let's look at them in more detail.
 >
@@ -832,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=93)** These are examples of annotations or methods, but there's also annotations possible on classes, fields, parameters, etcetera.
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=101)** Frameworks such as Spring Boot and Quarkus rely heavily on annotations as well.
+> **[1:41](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=101)** Frameworks such as [[Spring Boot]] and Quarkus rely heavily on annotations as well.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980&t=106)** They have created a set of annotations that can be used to configure and use the framework.
 >
@@ -848,14 +836,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980)
+#### [Creating custom annotations](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=0)** - [Instructor] Let's define and use custom annotations in our code.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=4)** It helps to understand how frameworks like Spring Brute in Java's own annotations are implemented.
+> **[0:04](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=4)** It helps to understand how frameworks like Spring Brute in [[Java]]'s own annotations are implemented.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=10)** To create a custom annotation, you'll need to define an annotation type using the @interface keyword.
 >
@@ -883,7 +870,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=71)** Here's another example.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=72)** We could create custom annotation for data validation such as this one, which is giving a method about whether the email is valid or not.
+> **[1:12](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=72)** We could create custom annotation for [[Data Validation]] such as this one, which is giving a method about whether the email is valid or not.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/creating-custom-annotations?u=76281980&t=81)** And we could also create one for logging in auditing purposes.
 >
@@ -899,19 +886,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), api (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Data Validation]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reflection API for dynamic code manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980)
+#### [Reflection API for dynamic code manipulation](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=0)** - Now that we created custom annotations let's discuss the reflection, API in Java.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=0)** - Now that we created custom annotations let's discuss the reflection, API in [[Java]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=6)** The reflection API is a built-in Java functionality that allows us to inspect and manipulate our code at run time.
 >
@@ -919,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=19)** What do you think I mean by interesting?
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=21)** Reflection is a feature in Java that allows to inspect and interact with the metadata of classes, methods and fields at runtime.
+> **[0:21](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=21)** Reflection is a feature in Java that allows to inspect and interact with the [[Metadata]] of classes, methods and fields at runtime.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=29)** With reflection API we can do things like inspect the structure of a class, its methods, fields and annotations.
 >
@@ -963,7 +949,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=134)** This is why the reflection API is very powerful combined with custom annotations.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=139)** It's an amazing tool for dynamic code manipulation and it's quite next level Java, and it's going to enable interesting use cases like code generation, dependency injection and runtime configuration.
+> **[2:19](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=139)** It's an amazing tool for dynamic code manipulation and it's quite next level Java, and it's going to enable interesting use cases like code generation, [[Dependency Injection]] and runtime configuration.
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/reflection-api-for-dynamic-code-manipulation?u=76281980&t=151)** Here's another example of reflection.
 >
@@ -989,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Java]] (5), feature (2), [[Metadata]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Metadata]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** api (10)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** getmethod (1)
@@ -997,8 +983,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - now (1)
 
-#### Solution: Custom annotation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-create-and-process-a-custom-annotation?u=76281980)
+#### [Solution: Custom annotation](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-create-and-process-a-custom-annotation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,7 +1015,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
@@ -1041,8 +1025,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concurrency and multithreading explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980)
+#### [Concurrency and multithreading explained](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1092,7 +1075,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980&t=110)** We could turn on the laundry machine, put the pizza in the oven, given the electricity can deal with this combination, tidy the house while the pizza is in the oven, feed the kids, vacuum the floor, relax for half an hour and then put the laundry out to dry, and that way, it'll be done in one and a half hour and manage to relax for 30 minutes of the time.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980&t=129)** This is what Java does too.
+> **[2:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980&t=129)** This is what [[Java]] does too.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980&t=131)** While waiting for external resources to take care of something, it doesn't sit around and wait, but it does something in the meantime.
 >
@@ -1140,18 +1123,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), next (2), [[Programming]] (1), application (1), concurrent (1)
+> **Frameworks & Libraries:** [[Java]] (7)
 > **Definitions:** is a  (2), refers to (1)
 > **Code Identifiers:** currentthread (1), getid (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Java concepts for concurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-concepts-for-concurrency?u=76281980)
+#### [Java concepts for concurrency](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-concepts-for-concurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-concepts-for-concurrency?u=76281980&t=0)** - [Instructor] Java provides a lot of tools and APIs for working with concurrency and multithreading.
+> **[0:00](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-concepts-for-concurrency?u=76281980&t=0)** - [Instructor] [[Java]] provides a lot of tools and APIs for working with concurrency and multithreading.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-concepts-for-concurrency?u=76281980&t=5)** We'll explore some of the Java key concepts that you'll need to understand when working with concurrency.
 >
@@ -1285,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), concurrent (4), next (2), management (1), generic (1)
+> **Frameworks & Libraries:** [[Java]] (8)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Tools:** intellij (1)
@@ -1293,8 +1275,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Implement a concurrent algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-implement-a-concurrent-algorithm?u=76281980)
+#### [Solution: Implement a concurrent algorithm](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-implement-a-concurrent-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1327,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (1)
 > **Env Vars:** cole (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll up (1)
@@ -1357,8 +1337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Singleton design pattern and its use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980)
+#### [Singleton design pattern and its use cases](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1370,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980&t=20)** It's a very popular design pattern.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980&t=22)** It's used a lot by frameworks such as Spring Boot.
+> **[0:22](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980&t=22)** It's used a lot by frameworks such as [[Spring Boot]].
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980&t=25)** Let's check out the use cases and benefits of the singleton pattern.
 >
@@ -1406,13 +1385,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), database (2), [[Spring Boot]] (1), management (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/implementing-the-singleton-pattern?u=76281980)
+#### [Implementing the Singleton pattern](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/implementing-the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1496,7 +1474,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **Code Identifiers:** getinstance (4)
 > **Prerequisites:** initialization (4)
 > **CLI Commands:** make (3)
@@ -1504,8 +1481,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - now (1)
 
-#### Solution: Create a singleton
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-create-a-singleton?u=76281980)
+#### [Solution: Create a singleton](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/solution-create-a-singleton?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,7 +1523,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3)
 > **Env Vars:** url (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1557,8 +1532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep going with Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980)
+#### [Keep going with Java](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,7 +1540,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=1)** We've come a long way together, haven't we?
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=4)** You have successfully completed the advanced Java course and leveled up your Java.
+> **[0:04](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=4)** You have successfully completed the advanced [[Java]] course and leveled up your Java.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=9)** In this course, we explored various advanced topics, and had the opportunity to get some practice with them right away.
 >
@@ -1580,9 +1554,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=28)** I also have some suggestions for great next topics you can dive into.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=32)** For example, Java frameworks and libraries, such as Spring Boot and JUnit.
+> **[0:32](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=32)** For example, [[Java Frameworks]] and libraries, such as [[Spring Boot]] and [[JUnit]].
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=37)** Also, advanced topics such as design patterns like the Singleton we discussed, or diving into the Java memory can be a great way to proceed.
+> **[0:37](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=37)** Also, advanced topics such as [[Design Patterns]] like the Singleton we discussed, or diving into the Java memory can be a great way to proceed.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=46)** If you have any doubts about these topics still, I encourage you to engage with me in the course Q&A section.
 >
@@ -1590,13 +1564,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=54)** And I also like to get in touch.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=55)** You can connect or follow me on LinkedIn.
+> **[0:55](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=55)** You can connect or follow me on [[LinkedIn]].
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980&t=58)** Thank you so much for taking this course, and I wish you a lot of happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (1), [[Java Frameworks]] (1), [[Spring Boot]] (1), [[JUnit]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Java Frameworks]] (1), [[Spring Boot]] (1), [[JUnit]] (1), [[Design Patterns]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)

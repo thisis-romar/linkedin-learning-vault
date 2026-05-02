@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Zero to Zero to Hero
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980)
+#### [Zero to Zero to Hero](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=0)** - [Mary Ellen Bowman] Hey, Java developer.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=0)** - [Mary Ellen Bowman] Hey, [[Java]] developer.
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=2)** Do you want to go from zero to a hero in Docker?
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=45)** I'm a senior software developer.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=46)** And in this course, we'll start from zero by reverse engineering a Dockerized Java web app, invoke the Docker CLI, learn Docker file commands and containerization best practices.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=46)** And in this course, we'll start from zero by reverse engineering a Dockerized Java web app, invoke the Docker [[CLI]], learn Docker file commands and containerization best practices.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980&t=59)** Then employ modern tools requiring zero Docker files, making you a hero in your Java development team.
 >
@@ -122,17 +121,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Containerization]] (3), [[Engineering]] (1), web (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[CLI]] (1)
 > **CLI Commands:** docker (7)
 > **Env Vars:** cli (1)
 > **Speakers:** - [mary (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=0)** - [Mary] To interact with the exercises in this course, I expect you to have Java 11 installed.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=0)** - [Mary] To interact with the exercises in this course, I expect you to have [[Java]] 11 installed.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=5)** Although, the examples are not very complex, so Java 8 should be fine.
 >
@@ -152,13 +150,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=34)** I expect that you, as a developer, will be able to flesh out any extras as needed.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=39)** Many examples in this course are Spring Boot microservice web applications.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=39)** Many examples in this course are [[Spring Boot]] microservice web applications.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=44)** If this is new to you, I suggest you watch my course, Creating Your First Spring Boot Microservice, in the LinkedIn library.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/what-you-should-know?u=76281980&t=44)** If this is new to you, I suggest you watch my course, Creating Your First Spring Boot Microservice, in the [[LinkedIn]] library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (2), [[Debugging]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** docker (2), apache (1)
 > **Versions:** java 11 (1), java 8 (1)
 > **Env Vars:** ide (1)
@@ -172,14 +170,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Imagine building and launching a Java app without Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980)
+#### [Imagine building and launching a Java app without Java](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=0)** - [Instructor] Let's jump right into this course with actual code.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=4)** This is a Java project that I created with Spring Boot Initializer.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=4)** This is a [[Java]] project that I created with [[Spring Boot]] Initializer.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=8)** This is a great resource for creating a stubbed out Spring Boot application with all the desired dependencies and scaffolding.
 >
@@ -187,9 +184,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=27)** And then I have the Spring Boot actuator.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=30)** Actuator provides built in rest endpoints for monitoring the status of an application.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=30)** Actuator provides built in [[Representational State Transfer (REST)|rest]] endpoints for monitoring the status of an application.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=35)** The most famous is the slash actuator slash health endpoint, which returns the status in JSON format.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=35)** The most famous is the slash actuator slash health endpoint, which returns the status in [[JSON]] format.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=42)** We have Java 17 selected and package it as a war, meaning that Tomcat must be provided by the host.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=109)** So let's prove that.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=114)** Brew is a command available on Linux-based systems.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=114)** Brew is a command available on [[Linux]]-based systems.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=119)** And it says it can't find Tomcat.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=148)** And so there's a lot of activity going on here.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=152)** I see the word Tomcat, and I see JDK17.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=152)** I see the [[Microsoft Word|word]] Tomcat, and I see JDK17.
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980&t=157)** Temurin, I have no idea what that is.
 >
@@ -285,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), [[Spring Boot]] (4), application (4), web (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Java]] (7), [[Spring Boot]] (4), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
 > **Env Vars:** json (2), mvc (1), zip (1), jdk17 (1), url (1)
 > **Versions:** java 17 (3), java 11 (3)
 > **CLI Commands:** curl (2), make (1), brew (1), find (1)
@@ -294,8 +291,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Docker Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/installing-docker-desktop?u=76281980)
+#### [Installing Docker Desktop](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/installing-docker-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/installing-docker-desktop?u=76281980&t=4)** The application was built with Maven and JDK 17 and then deployed the Tomcat all within the Docker run time environment, which I have installed.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/installing-docker-desktop?u=76281980&t=15)** For the rest of this course, you can just watch what I do but I recommend that you install Docker for Desktop runtime yourself to have a better learning experience.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/installing-docker-desktop?u=76281980&t=15)** For the [[Representational State Transfer (REST)|rest]] of this course, you can just watch what I do but I recommend that you install Docker for Desktop runtime yourself to have a better learning experience.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/installing-docker-desktop?u=76281980&t=25)** For developers and small businesses, Docker for Desktop is free.
 >
@@ -317,15 +313,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (5)
 > **Env Vars:** jdk (1)
 > **Tools:** command line (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building, deploying, and launching the Java app
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980)
+#### [Building, deploying, and launching the Java app](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=105)** If you don't know Tomcat, it's a web application server.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=109)** Properly configured, Java web applications can be deployed to Tomcat by copying Java to a web archive file to the Tomcat web apps folder.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=109)** Properly configured, [[Java]] web applications can be deployed to Tomcat by copying Java to a web archive file to the Tomcat web apps folder.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=119)** Okay, so Tomcat version nine, I get that.
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=149)** skipTests, okay, that seems like we're going to build this Java application.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=154)** So building the project creates a .war, and that's why we have RUN and then a cp, copy, like Linux.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=154)** So building the project creates a .war, and that's why we have RUN and then a cp, copy, like [[Linux]].
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-deploying-and-launching-the-java-app?u=76281980&t=163)** We're going to copy the .war file that's generated into a /user/local/tomcat/webapps/ROOT.war folder.
 >
@@ -447,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), web (3), web application (1), next (1), cd (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Linux]] (1)
 > **CLI Commands:** docker (11), make (2), cd (1), mvn (1), cp (1)
 > **Env Vars:** run (2), jdk (1), copy (1), workdir (1), root (1)
 > **Definitions:** is an  (2), is a  (1), is called (1)
@@ -456,8 +451,7 @@ created: 2026-05-02
 > **File Paths:** catalina.sh (1)
 > **Code Identifiers:** skiptests (1)
 
-#### Scaffolding Java applications with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/scaffolding-java-applications-with-docker?u=76281980)
+#### [Scaffolding Java applications with Docker](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/scaffolding-java-applications-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +503,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/scaffolding-java-applications-with-docker?u=76281980&t=82)** Let's do a present working directory is in the slash app folder, we are.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/scaffolding-java-applications-with-docker?u=76281980&t=89)** And let's do a Java version.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/scaffolding-java-applications-with-docker?u=76281980&t=89)** And let's do a [[Java]] version.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/scaffolding-java-applications-with-docker?u=76281980&t=95)** And there's Java 17.
 >
@@ -563,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), web (2), prompt (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **CLI Commands:** docker (2), curl (1), find (1), ls (1)
 > **Versions:** java 17 (2)
 > **Env Vars:** rmi (1)
@@ -576,8 +570,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding containerization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/understanding-containerization?u=76281980)
+#### [Understanding containerization](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/understanding-containerization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,14 +620,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (5)
 > **Documentation:** specification (5)
 > **CLI Commands:** docker (4)
 > **Env Vars:** oci (4)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing images to containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/comparing-images-to-containers?u=76281980)
+#### [Comparing images to containers](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/comparing-images-to-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/comparing-images-to-containers?u=76281980&t=23)** We use tools to build an image.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/comparing-images-to-containers?u=76281980&t=26)** Consider the Java Ecosystem.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/comparing-images-to-containers?u=76281980&t=26)** Consider the [[Java]] Ecosystem.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/comparing-images-to-containers?u=76281980&t=27)** Java does not execute directly from Java source code.
 >
@@ -678,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Containerization]] (2), application (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Definitions:** known as (3), is an  (3), is a  (2)
 > **CLI Commands:** docker (4)
 > **Env Vars:** jar (2)
@@ -686,8 +677,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [tutor] (1)
 
-#### Writing Dockerfiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/writing-dockerfiles?u=76281980)
+#### [Writing Dockerfiles](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/writing-dockerfiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,13 +709,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** cmd (2)
 > **Speakers:** - now (1)
 
-#### Discover the Docker CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/discover-the-docker-cli?u=76281980)
+#### [Discover the Docker CLI](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/discover-the-docker-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,7 +723,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/discover-the-docker-cli?u=76281980&t=10)** Two components are the Docker Daemon, which is the Docker runtime Docker server.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/discover-the-docker-cli?u=76281980&t=15)** And the Docker CLI, the command line interface that invokes the services of the Docker Daemon.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/discover-the-docker-cli?u=76281980&t=15)** And the Docker [[CLI]], the command line interface that invokes the services of the Docker Daemon.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/discover-the-docker-cli?u=76281980&t=22)** Let's look at the commands for creation.
 >
@@ -769,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (3), next (1)
+> **Frameworks & Libraries:** [[CLI]] (3)
 > **CLI Commands:** docker (27), rm (1), find (1)
 > **Env Vars:** cli (3)
 > **Tools:** command line (2)
@@ -778,14 +766,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn Dockerfile instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980)
+#### [Learn Dockerfile instructions](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=0)** - [Instructor] Okay, let's get back to our developer happy place, our IDE.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=4)** The exercise files in this chapter go through several examples of creating images in containers using Dockerfiles and Java applications.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=4)** The exercise files in this chapter go through several examples of creating images in containers using Dockerfiles and [[Java]] applications.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=12)** These examples here are purely for educational purposes.
 >
@@ -803,7 +790,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=34)** What is alpine?
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=35)** Alpine is a slimmed down image of a Linux operating system.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=35)** Alpine is a slimmed down image of a [[Linux]] operating system.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/learn-dockerfile-instructions?u=76281980&t=40)** Where does alpine come from?
 >
@@ -959,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Linux]] (2), next (2), cd (1), hit (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Linux]] (2)
 > **CLI Commands:** docker (7), ls (1), cd (1), make (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Env Vars:** ide (1), cmd (1), copy (1)
@@ -968,12 +955,11 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **UI Navigation:** go to (2)
 
-#### Convert code to a Docker image
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/convert-code-to-a-docker-image?u=76281980)
+#### [Convert code to a Docker image](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/convert-code-to-a-docker-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/convert-code-to-a-docker-image?u=76281980&t=0)** - [Instructor] Openjdk:11-jdk not only contains the Java Runtime, it also includes the Java Development Kit.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/convert-code-to-a-docker-image?u=76281980&t=0)** - [Instructor] Openjdk:11-jdk not only contains the [[Java]] Runtime, it also includes the Java Development Kit.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/convert-code-to-a-docker-image?u=76281980&t=9)** So the compiler.
 >
@@ -1093,8 +1079,7 @@ created: 2026-05-02
 > **Env Vars:** jdk (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Modify Dockerfile to remove Forever.java
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/challenge-modify-dockerfile-to-remove-forever-java?u=76281980)
+#### [Challenge: Modify Dockerfile to remove Forever.java](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/challenge-modify-dockerfile-to-remove-forever-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1089,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/challenge-modify-dockerfile-to-remove-forever-java?u=76281980&t=9)** So from this exercise file, this Dockerfile.build.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/challenge-modify-dockerfile-to-remove-forever-java?u=76281980&t=13)** It's now time to see if you can remove the Java file forever.java from this Docker image after it has been built.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/challenge-modify-dockerfile-to-remove-forever-java?u=76281980&t=13)** It's now time to see if you can remove the [[Java]] file forever.java from this Docker image after it has been built.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/challenge-modify-dockerfile-to-remove-forever-java?u=76281980&t=24)** So you want to modify this, remove the forever.java file but make sure that it still builds and runs and then prove once it is running, that you can actually see that that file is not in the slash app folder.
 >
@@ -1121,8 +1106,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Modify Dockerfile to remove Forever.java
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/solution-modify-dockerfile-to-remove-forever-java?u=76281980)
+#### [Solution: Modify Dockerfile to remove Forever.java](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/solution-modify-dockerfile-to-remove-forever-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1116,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/solution-modify-dockerfile-to-remove-forever-java?u=76281980&t=8)** How do you figure this problem out?
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/solution-modify-dockerfile-to-remove-forever-java?u=76281980&t=9)** So after we've called the javac command, we don't need this Forever.java anymore.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/solution-modify-dockerfile-to-remove-forever-java?u=76281980&t=9)** So after we've called the javac command, we don't need this Forever.[[Java]] anymore.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/solution-modify-dockerfile-to-remove-forever-java?u=76281980&t=16)** So we will say RUN rm Forever.java.
 >
@@ -1170,8 +1154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layering in Docker images
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980)
+#### [Layering in Docker images](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=17)** So they're actually grouped by the action of each Dockerfile instruction.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=22)** So each layer only includes the file additions or changes from the previous layer just like how GIT commits only contain the differences from the previous commit.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=22)** So each layer only includes the file additions or changes from the previous layer just like how [[Git]] commits only contain the differences from the previous commit.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=31)** A hash is calculated for each layer.
 >
@@ -1203,7 +1186,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=71)** Only add files required to run the image and order your Dockerfile instructions from least to most frequently changed.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=81)** In the exercise files, there is a very simple spring boot web app called Layer Demo, and it has a hello world API.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=81)** In the exercise files, there is a very simple [[Spring Boot]] web app called Layer Demo, and it has a hello world API.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=91)** There is a Dockerfile that has been poorly layered and here it is right here.
 >
@@ -1219,7 +1202,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=144)** So you can see from the output here that only the first layer was cached.
 >
-> **[2:29](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=149)** The rest of the layers had to be rebuilt.
+> **[2:29](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=149)** The [[Representational State Transfer (REST)|rest]] of the layers had to be rebuilt.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=152)** So what were the problems with this Dockerfile?
 >
@@ -1227,7 +1210,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=163)** So you could see that first, it's using alpine:latest and alpine:latest could change.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=170)** Another problem is is that we're starting from an image that does not combine the operating system in Java, they're actually separate so alpine is just the operating system and then it runs an APK ad, which pulls down the open JDK so that's inefficient.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=170)** Another problem is is that we're starting from an image that does not combine the operating system in [[Java]], they're actually separate so alpine is just the operating system and then it runs an APK ad, which pulls down the open JDK so that's inefficient.
 >
 > **[3:07](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980&t=187)** Here we're adding the entire app folder instead of the JAR.
 >
@@ -1269,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Git]] (1), [[Spring Boot]] (1), web (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Git]] (1), [[Spring Boot]] (1), [[Java]] (1)
 > **Env Vars:** jar (6), jdk (6), jre (5), git (1), api (1)
 > **CLI Commands:** docker (2), git (1), make (1)
 > **Definitions:** is a  (4)
@@ -1278,8 +1261,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Best Practices:** best practice (1)
 
-#### Building multistage Docker images
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980)
+#### [Building multistage Docker images](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=13)** Multi-stage images to the rescue.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=15)** In the exercise files, we again have a simple, layer demo Spring Boot web app, but now the Dockerfile runs Maven to build the image.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=15)** In the exercise files, we again have a simple, layer demo [[Spring Boot]] web app, but now the Dockerfile runs Maven to build the image.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=26)** Let's look at this Dockerfile called Dockerfile Single Stage Build.
 >
@@ -1307,7 +1289,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=85)** Now let's look at a different Dockerfile.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=87)** This Dockerfile starts out the same, same starting image and Maven command, but then there is another from statement with a smaller operating system and the Java runtime environment.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=87)** This Dockerfile starts out the same, same starting image and Maven command, but then there is another from statement with a smaller operating system and the [[Java]] runtime environment.
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/building-multistage-docker-images?u=76281980&t=101)** What's going on here?
 >
@@ -1395,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (6), application (5), [[Java]] (3), web (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[Java]] (3)
 > **CLI Commands:** docker (3), make (2)
 > **Env Vars:** jdk (2), jre (2)
 > **Versions:** version 2 (1), 2.4 (1)
@@ -1404,8 +1386,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 
-#### Specify volumes and ports
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980)
+#### [Specify volumes and ports](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,7 +1426,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=104)** So we're going to do a docker run with the alpine image.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=109)** And we're going to map with the volume -v, the full path which I'm going to use the substitution here in Linux, /my-host-folder which is this guy here, and then :/container-folder-name.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=109)** And we're going to map with the volume -v, the full path which I'm going to use the substitution here in [[Linux]], /my-host-folder which is this guy here, and then :/container-folder-name.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=128)** So it's going to download the alpine image, and it's say started.
 >
@@ -1515,7 +1496,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=350)** Let's move on to ports.
 >
-> **[5:52](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=352)** So in the filesystem, there is a Spring Boot web app called portdemo.
+> **[5:52](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=352)** So in the filesystem, there is a [[Spring Boot]] web app called portdemo.
 >
 > **[5:59](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/specify-volumes-and-ports?u=76281980&t=359)** And that just includes the actuator dependency.
 >
@@ -1593,7 +1574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (3), data (2), [[Linux]] (1), web (1), cd (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Linux]] (1)
 > **CLI Commands:** docker (10), curl (4), make (3), cat (1), ls (1)
 > **Definitions:** is a  (4), is an  (1), is called (1)
 > **Tools:** terminal (3), docker desktop (2)
@@ -1602,8 +1583,7 @@ created: 2026-05-02
 > **URLs:** [localhost:8080](https://localhost:8080) (1), [localhost:9090](https://localhost:9090) (1)
 > **Env Vars:** data (1), jar (1)
 
-#### Docker registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/docker-registry?u=76281980)
+#### [Docker registry](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/docker-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,7 +1677,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** docker (20), apache (2), find (1), make (1)
 > **URLs:** [docker.io](https://docker.io) (4), [maven.org](https://maven.org) (1), [docker.com](https://docker.com) (1)
 > **Non-Speech:** (typing) (4)
@@ -1705,31 +1684,31 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Container orchestration with Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980)
+#### [Container orchestration with Docker Compose](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=0)** - [Instructor] In the Docker Hub, there is a trove of images ready for usage.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=5)** Here's one for Postgres, a database.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=5)** Here's one for [[PostgreSQL|Postgres]], a database.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=8)** So how do containers like web apps interact with other containers, such as Postgres?
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=15)** Let's go through an example.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=17)** This is a Spring Boot web app that is a backend part of a message blog.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=17)** This is a [[Spring Boot]] web app that is a backend part of a message blog.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=22)** The data model is a Blog class.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=29)** And it's a JPA entity containing a message and an auto-generated identifier.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=35)** There is a Spring Data repository interface for the data access layer.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=35)** There is a [[Spring Data]] repository interface for the data access layer.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=41)** If you are not familiar with Spring Data repositories, I have a course in the library called Spring Data 2.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=47)** The Application class is also a Spring Data MVC REST controller that exposes endpoints to create and view blog messages.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=47)** The Application class is also a Spring Data MVC [[Representational State Transfer (REST)|REST]] controller that exposes endpoints to create and view blog messages.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=60)** So here's the API to list all the blogs.
 >
@@ -1749,7 +1728,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=110)** Running related containers is called orchestration.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=113)** This can be done manually or through tools such as Docker Compose, Docker Swarm, and Kubernetes.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=113)** This can be done manually or through tools such as Docker [[Jetpack Compose|Compose]], Docker Swarm, and [[Kubernetes]].
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=121)** Let's see orchestration the hard way, which is manually.
 >
@@ -1857,7 +1836,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=425)** And I have already added some entries into this database for blogs.
 >
-> **[7:09](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=429)** So these are just in JSON format.
+> **[7:09](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=429)** So these are just in [[JSON]] format.
 >
 > **[7:12](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=432)** Some of the messages, this is a blog.
 >
@@ -1909,13 +1888,13 @@ created: 2026-05-02
 >
 > **[8:53](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=533)** But it can be, it's not that it can't, but more popular production tools are Kubernetes or Docker Swarm.
 >
-> **[9:01](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=541)** And there's other cloud offerings by Amazon AWS, Google Cloud, and Microsoft Azure.
+> **[9:01](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=541)** And there's other cloud offerings by Amazon AWS, [[Google Cloud Platform (GCP)|Google Cloud]], and [[Microsoft Azure]].
 >
-> **[9:06](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=546)** Lessons for all of these can be found in the LinkedIn library.
+> **[9:06](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/container-orchestration-with-docker-compose?u=76281980&t=546)** Lessons for all of these can be found in the [[LinkedIn]] library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (18), [[PostgreSQL|Postgres]] (9), web (5), application (5), database (4)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (18), [[PostgreSQL|Postgres]] (9), [[Spring Data]] (4), [[Spring Boot]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** docker (29), curl (3), make (1), aws (1)
 > **Env Vars:** api (3), yaml (3), rest (2), jpa (1), mvc (1)
 > **Definitions:** is a  (8), is called (1)
@@ -1929,14 +1908,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ditching the Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980)
+#### [Ditching the Dockerfile](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=0)** - [Instructor] We've gone through some great learning about the best way to containerize your apps with Dockerfiles.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=6)** And the great news is we really don't need to use Dockerfiles to containerize our Java apps anymore and I could not be more happy about that.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=6)** And the great news is we really don't need to use Dockerfiles to containerize our [[Java]] apps anymore and I could not be more happy about that.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=15)** Various organizations realize that, while powerful, Dockerfiles can be difficult to maintain and don't enforce best practices.
 >
@@ -1944,17 +1922,16 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=37)** There are many alternative solutions to Dockerfiles.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=40)** In this course, we will talk about three, Cloud Native Buildpack Pack CLI, Spring Boot Docker Build plugin and the Jib Build plugin.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980&t=40)** In this course, we will talk about three, Cloud Native Buildpack Pack [[CLI]], [[Spring Boot]] Docker Build plugin and the Jib Build plugin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), cloud (1), [[CLI]] (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[CLI]] (1), [[Spring Boot]] (1)
 > **CLI Commands:** docker (1)
 > **Env Vars:** cli (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Native Buildpacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980)
+#### [Cloud Native Buildpacks](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=43)** So I can say, pack build suggest, and that will list the builders that are provided.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=54)** I'm going to use the first one listed here by Google.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=54)** I'm going to use the first one listed here by [[Google]].
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=58)** I'm going to copy that there.
 >
@@ -1992,13 +1969,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=75)** And then I give the image name that I'm going to create.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=81)** So this directory I'm in, this web app is a simple spring boot web application that just has a Hello World API on it, nothing fancy.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=81)** So this directory I'm in, this web app is a simple [[Spring Boot]] web application that just has a Hello World API on it, nothing fancy.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=94)** But it has dependencies in there that will all be have to be downloaded.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=98)** So I'm going to run this pack build command, and it's going to run a long time to build everything, because it's downloading its libraries and it has to detect, okay, what sort of source code is this?
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=115)** And then it detects its Java.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=115)** And then it detects its [[Java]].
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/cloud-native-buildpacks?u=76281980&t=116)** Okay, what version of Java?
 >
@@ -2028,7 +2005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Java]] (2), [[Google]] (1), web (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Google]] (1), [[Spring Boot]] (1)
 > **CLI Commands:** docker (3)
 > **Env Vars:** cncf (1), oci (1), api (1)
 > **Definitions:** is a  (2)
@@ -2037,12 +2014,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
 
-#### Spring Boot Docker plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/spring-boot-docker-plugin?u=76281980)
+#### [Spring Boot Docker plugin](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/spring-boot-docker-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/spring-boot-docker-plugin?u=76281980&t=0)** - [Instructor] The next alternative to a Docker file is the Spring Boot build plugin.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/spring-boot-docker-plugin?u=76281980&t=0)** - [Instructor] The next alternative to a Docker file is the [[Spring Boot]] build plugin.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/spring-boot-docker-plugin?u=76281980&t=5)** The Spring Boot build plugin specifically works for Spring Boot applications.
 >
@@ -2102,7 +2078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (11), web (3), next (1), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (11)
 > **CLI Commands:** docker (4)
 > **File Paths:** palm.xml (1)
 > **Env Vars:** jdk (1)
@@ -2111,18 +2087,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 
-#### The Google Jib plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980)
+#### [The Google Jib plugin](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=0)** - [Instructor] The last alternative we will look at is Jib by Google.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=0)** - [Instructor] The last alternative we will look at is Jib by [[Google]].
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=5)** Jib is a Maven/Gradle plugin where you build the Java app on your host machine then Jib creates an image with dependencies in separate layers.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=5)** Jib is a Maven/[[Gradle]] plugin where you build the [[Java]] app on your host machine then Jib creates an image with dependencies in separate layers.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=14)** An added bonus is that the image can be automatically pushed to a server registry, so there's no need to have Docker Engine installed.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=23)** It's also lighter and faster than Spring Boot plugin or Pack.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=23)** It's also lighter and faster than [[Spring Boot]] plugin or Pack.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=27)** So I've opened IntelliJ, and here is the Jib plugin.
 >
@@ -2144,7 +2119,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=83)** One, is within the configuration, I can actually put credentials in here or site environment variables with credentials.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=91)** Another way is I do have the Docker Engine installed, and I could do docker login CLI locally.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=91)** Another way is I do have the Docker Engine installed, and I could do docker login [[CLI]] locally.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/the-google-jib-plugin?u=76281980&t=103)** And it's going to prompt me for my username and password.
 >
@@ -2195,24 +2170,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=0)** - [Mary Ellen] So after this introduction to Docker, what's next?
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=4)** I would say most Java development projects can be containerized just fine using the Jib or the Spring Boot plugins.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=4)** I would say most [[Java]] development projects can be containerized just fine using the Jib or the [[Spring Boot]] plugins.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=12)** With your current understanding of Docker, you should have no trouble configuring either of them for your solutions.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=18)** And once containerized, orchestration is necessary.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=21)** The LinkedIn Library is a trove of information covering Kubernetes, cloud container platforms, such as Amazon EKS, Google Cloud Run, or Azure Container Instances.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=21)** The [[LinkedIn]] Library is a trove of information covering [[Kubernetes]], cloud container platforms, such as Amazon EKS, [[Google Cloud Platform (GCP)|Google Cloud]] Run, or [[Microsoft Azure|Azure]] Container Instances.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=34)** There's also content on Docker native tools like Swarm and Compose.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=34)** There's also content on Docker native tools like Swarm and [[Jetpack Compose|Compose]].
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=38)** If you enjoy this course, you can find all my LinkedIn Learning courses on my website MaryEllenTeaches.me and my GitHub organization is MaryEllenTeaches.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=38)** If you enjoy this course, you can find all my LinkedIn Learning courses on my website MaryEllenTeaches.me and my [[GitHub]] organization is MaryEllenTeaches.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980&t=49)** I love learner feedback.
 >
@@ -2224,7 +2198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), next (1), [[Java]] (1), [[Spring Boot]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Java]] (1), [[Spring Boot]] (1), [[Kubernetes]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** docker (3), find (1)
 > **Env Vars:** eks (1)
 > **Tools:** github (1)

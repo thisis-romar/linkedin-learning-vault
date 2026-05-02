@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover cybersecurity awareness
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980)
+#### [Discover cybersecurity awareness](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980&t=13)** Being security aware and being able to apply this Knowledge day-to-day is essential for your employees to protect themselves and your company.
 >
-> **[0:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980&t=22)** A solid security awareness culture and behavior program can provide the proper guidance to set up employees for security success.
+> **[0:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980&t=22)** A solid [[Security Awareness]] culture and behavior program can provide the proper guidance to set up employees for security success.
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980&t=30)** In this course, we will cover where to start to build out your program, how to leverage relationships to make your program effective, and creative approaches for reaching your employees and keeping them engaged.
 >
@@ -100,21 +99,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5)
+> **Frameworks & Libraries:** [[Security Awareness]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - people (1)
 
-#### Defining security awareness: Going beyond the training to behavior and culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980)
+#### [Defining security awareness: Going beyond the training to behavior and culture](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=0)** - [Instructor] What exactly does security awareness mean?
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=0)** - [Instructor] What exactly does [[Security Awareness]] mean?
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=4)** Awareness means having the ability to consciously recognize, understand, or have knowledge about something.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=12)** And in the cybersecurity realm, this applies specifically to security, both logical and physical.
+> **[0:12](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=12)** And in the [[Cybersecurity]] realm, this applies specifically to security, both logical and physical.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=21)** However, as security awareness grows and evolves, so too is what we are seeing it be called.
 >
@@ -152,13 +150,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=191)** So who can develop, create, maintain, and lead an effective security awareness program?
 >
-> **[3:17](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=197)** Anyone with a strong passion for security, a good knowledge of learning styles, excellent relationship building and communication skills.
+> **[3:17](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=197)** Anyone with a strong passion for security, a good knowledge of learning styles, excellent [[Relationship Building]] and communication skills.
 >
 > **[3:26](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=206)** There really isn't a one-size-fits-all approach to hiring the ideal person for developing a security awareness program.
 >
-> **[3:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=213)** However, soft skills are an imperative skill set for success in this role, as you will be the voice in the face of the security team.
+> **[3:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=213)** However, [[Soft Skills]] are an imperative skill set for success in this role, as you will be the voice in the face of the security team.
 >
-> **[3:42](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=222)** And while you don't need to be highly technical, understanding security basics is also essential as this person will need to translate technical jargon into layman's terms for the masses, which include your employees, your team leadership, and even C-level.
+> **[3:42](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=222)** And while you don't need to be highly technical, understanding security basics is also essential as this person will need to translate technical jargon into layman's terms for the masses, which include your employees, your [[Team Leadership]], and even C-level.
 >
 > **[4:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/defining-security-awareness-going-beyond-the-training-to-behavior-and-culture?u=76281980&t=240)** Creating a security awareness program can be so incredibly rewarding with enough hard work, patience, understanding, and support.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (20), [[Cybersecurity]] (1), business (1), [[Relationship Building]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (8), [[Cybersecurity]] (1), [[Relationship Building]] (1), [[Soft Skills]] (1), [[Team Leadership]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -177,12 +175,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting to know your collaborators and partners
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980)
+#### [Getting to know your collaborators and partners](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=0)** - Do you feel like you aren't even sure where to begin when it comes to building out a security awareness program?
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=0)** - Do you feel like you aren't even sure where to begin when it comes to building out a [[Security Awareness]] program?
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=6)** The best way to start is by building relationships with different teams, collaborators, and champions of security.
 >
@@ -194,21 +191,21 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=43)** They will be a driving force for the direction they want your program to go that aligns with the business and will be someone to rely on when you need additional support or hit unforeseen roadblocks.
 >
-> **[0:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=55)** Additionally, meet and understand the rest of the security team or the team that performs security functions in your organization.
+> **[0:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=55)** Additionally, meet and understand the [[Representational State Transfer (REST)|rest]] of the security team or the team that performs security functions in your organization.
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=64)** This team will help you understand the current threat landscape at the company and give you insight into the security roadmap for the organization.
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=73)** We will discuss more in depth what additional information you will want to gain from the security team and how they will be a huge resource to your program in a later video.
 >
-> **[1:23](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=83)** The IT team will be a valuable team to connect with as they have a lot of insight into risks employees may be facing through service desk tickets and calls, having an understanding of some statistics from the IT team, including tickets regarding malicious emails and suspicious activity, unauthorized software downloads and lost and stolen devices are just a few of the insights this team will have that will provide valuable metrics that will serve as a baseline and ongoing measurement for your program.
+> **[1:23](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=83)** The IT team will be a valuable team to connect with as they have a lot of insight into risks employees may be facing through service desk tickets and calls, having an understanding of some [[Statistics]] from the IT team, including tickets regarding malicious emails and suspicious activity, unauthorized software downloads and lost and stolen devices are just a few of the insights this team will have that will provide valuable metrics that will serve as a baseline and ongoing measurement for your program.
 >
-> **[1:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=115)** Human Resources will be a team that can provide your program with insight into the people in your organization.
+> **[1:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=115)** [[Human Resources (HR)|Human Resources]] will be a team that can provide your program with insight into the people in your organization.
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=122)** This information can include overall headcount as well as a breakdown of employees by location, organization title, and more.
 >
 > **[2:11](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=131)** Find someone within the HR group that you can rely on to give you up-to-date information as needed for training and other security awareness, simulations and communications.
 >
-> **[2:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=142)** You will also want to team up with someone in legal and or privacy and compliance to ensure that your policies and messaging align with the company and any regulations or requirements your company may be held to.
+> **[2:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=142)** You will also want to team up with someone in legal and or [[Privacy]] and compliance to ensure that your policies and messaging align with the company and any regulations or requirements your company may be held to.
 >
 > **[2:36](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=156)** Find someone in this group you can rely on to review things like documents, policies, and communications that will need to go out to employees or even vendors and customers to ensure you get their blessing and sign off.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=198)** Additionally, this review from someone outside of security can provide valuable insight into how digestible the content is from a non-technical perspective.
 >
-> **[3:28](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=208)** Marketing and communications can also be leveraged to help with graphic design, catchy messaging, and out of the box ideas.
+> **[3:28](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=208)** Marketing and communications can also be leveraged to help with [[Graphic Design]], catchy messaging, and out of the box ideas.
 >
 > **[3:37](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980&t=217)** There are many other teams to connect with to assist with building out or maturing your program.
 >
@@ -236,21 +233,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), teams (6), business (2), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1), [[Human Resources (HR)|Human resources]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** cso (1), cio (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - do (1)
 
-#### Learning your company policies, standards, and guidelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980)
+#### [Learning your company policies, standards, and guidelines](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=0)** - [Narrator] Security policy documentation is in place to protect a company, their employees, and their assets.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=8)** The role of developing and maintaining policies may or may not fit within the security awareness position at your organization, but you will still need to learn the policy documentation inside and out and align yourself closely with those responsible for them.
+> **[0:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=8)** The role of developing and maintaining policies may or may not fit within the [[Security Awareness]] position at your organization, but you will still need to learn the policy documentation inside and out and align yourself closely with those responsible for them.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=23)** Think about it.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=122)** To get started down this path, reach out to your learning and development team.
 >
-> **[2:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=127)** Hire an instructional designer or even watch some instructional videos on how to develop training on LinkedIn Learning.
+> **[2:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=127)** Hire an instructional designer or even watch some instructional videos on how to develop training on [[LinkedIn]] Learning.
 >
 > **[2:15](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/learning-you-company-policies-standards-and-guidelines?u=76281980&t=135)** This may be a process you reserve for later down the line once your program is more mature, but should be considered as you cultivate your program and add budget, personnel, and resources.
 >
@@ -298,14 +294,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gauging the baseline knowledge of your audience and their appetite for security as well as baselining the risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980)
+#### [Gauging the baseline knowledge of your audience and their appetite for security as well as baselining the risks](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=21)** You can do this a number of ways, including developing the survey solely in-house, using internal tools, or by using third party survey tools as well.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=31)** There are so many great ones out there, from SurveyMonkey to Qualtrics, to something as simple as Google Forms.
+> **[0:31](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=31)** There are so many great ones out there, from SurveyMonkey to Qualtrics, to something as simple as [[Google]] [[Forms]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=40)** Keep in mind, you will want the survey to be short and concise, so keep the questions limited to 20 or less.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=147)** If you aren't getting as much participation as you were anticipating and you have the budget, you can incentivize people for completing it by entering them into a drawing for a gift card, t-shirt, or some other small prize.
 >
-> **[2:41](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=161)** Once you close your survey and have the results, analyze them, pull out your top key takeaways, and use this valuable insight to help steer security awareness initiatives for the upcoming year.
+> **[2:41](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=161)** Once you close your survey and have the results, analyze them, pull out your top key takeaways, and use this valuable insight to help steer [[Security Awareness]] initiatives for the upcoming year.
 >
 > **[2:54](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=174)** Use what employees didn't know as ideas for campaigns, and try to communicate with people based on their preferences.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=249)** If you can, break down responses by team responsibilities and present it to them so they can leverage the information to help drive their programs as well.
 >
-> **[4:18](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=258)** Beyond an employee survey, another way to truly understand the current threat landscape of the company is to learn about current risks directly from the incident response team.
+> **[4:18](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=258)** Beyond an employee survey, another way to truly understand the current threat landscape of the company is to learn about current risks directly from the [[Incident Response]] team.
 >
 > **[4:28](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/gauging-the-baseline-knowledge-of-your-audience-and-their-appetite-for-security-as-well-as-baselining-the-risk?u=76281980&t=268)** The IR team can help give you a better understanding of what kind of incidents are being reported and what threats are being monitored and logged within their existing security technology.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (4), leadership (2), [[Incident Response]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (4), [[Incident Response]] (2), [[Google]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2)
 > **Definitions:** is a  (1)
@@ -400,12 +395,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing a program plan and identifying resources needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980)
+#### [Developing a program plan and identifying resources needed](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=0)** - So far, you have already accomplished so much when it comes to creating or maturing a security awareness program.
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=0)** - So far, you have already accomplished so much when it comes to creating or maturing a [[Security Awareness]] program.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=8)** You have baselined the current understanding of your employees when it comes to risk.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=101)** Next is a 90 day plan, which is still the beginning stages of the program development, but this gives you enough time to demonstrate a few accomplishments and impact.
 >
-> **[1:51](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=111)** Some goals to aim for within the first 90 days may include branding your team, surveying your employees, developing ideas for your first campaign, and even coming up with concepts for your first phishing simulation.
+> **[1:51](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=111)** Some goals to aim for within the first 90 days may include branding your team, surveying your employees, developing ideas for your first campaign, and even coming up with concepts for your first [[Phishing]] [[Simulation]].
 >
 > **[2:05](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980&t=125)** Another thing to do within this timeframe is to document the maturity of your current program.
 >
@@ -485,7 +479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), leadership (4), next (3), [[Phishing]] (3), teams (2)
+> **Frameworks & Libraries:** [[Security Awareness]] (6), [[Phishing]] (3), [[Simulation]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1), such as (1)
@@ -494,8 +488,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - so (1)
 
-#### Program plan creation demonstration
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/program-plan-creation-demonstration?u=76281980)
+#### [Program plan creation demonstration](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/program-plan-creation-demonstration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,19 +534,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), hit (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980)
+#### [Creating a budget](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=0)** - [Instructor] Developing the plan is one of the heavier lifts when it comes to creating a security awareness program, so let's talk about what you should consider when creating a budget that will be needed to get your program off the ground.
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=0)** - [Instructor] Developing the plan is one of the heavier lifts when it comes to creating a [[Security Awareness]] program, so let's talk about what you should consider when creating a budget that will be needed to get your program off the ground.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=13)** Your budget will be necessary to present to leadership so you know just how much to ask for, and more importantly, explain why you need it.
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=106)** You can consider the following three, things like tech and tools, people and resources, and support items, or maybe a different breakdown that best aligns with your program and its needs.
 >
-> **[2:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=120)** The technology and tools portion of your budget may include software that you need in order to create content, such as photo and video editing software, learning management software, third party training content, social engineering simulation software, printers, additional laptops, and more.
+> **[2:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=120)** The technology and tools portion of your budget may include software that you need in order to create content, such as photo and video editing software, learning management software, third party training content, social engineering [[Simulation Software]], printers, additional laptops, and more.
 >
 > **[2:19](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=139)** The people and resources portion of your budget may include additional full-time or part-time support, a contractor or an intern or co-op position to help assist you with your program.
 >
@@ -595,7 +586,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=194)** This area of the budget could also include memberships to industry support groups, online content libraries, and subscriptions to news resources.
 >
-> **[3:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=204)** The price for all these items can add up quickly, you will need to be able to demonstrate the need for the budget you are requesting with any and all statistics and metrics you can provide from your program to help support the ask.
+> **[3:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=204)** The price for all these items can add up quickly, you will need to be able to demonstrate the need for the budget you are requesting with any and all [[Statistics]] and metrics you can provide from your program to help support the ask.
 >
 > **[3:39](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-a-budget?u=76281980&t=219)** If you are in the beginning stages and don't have many to use, utilize research on other programs and what their associated costs were.
 >
@@ -609,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), leadership (2), management (1), [[Engineering]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (3), [[Simulation Software]] (1), [[Statistics]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -620,12 +611,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating brand recognition for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980)
+#### [Creating brand recognition for security](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=0)** - Creating a brand is one of the lower lift, higher impact steps you can take towards getting your security awareness program off the ground.
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=0)** - Creating a brand is one of the lower lift, higher impact steps you can take towards getting your [[Security Awareness]] program off the ground.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=9)** This allows for employees to easily identify when a communication or training is from the security team.
 >
@@ -639,7 +629,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=49)** However, if it does not or it needs updating, consider something as simple as IT Security.
 >
-> **[0:57](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=57)** Security and Compliance, Security Operations, or even just Security.
+> **[0:57](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=57)** Security and Compliance, [[Security Operations]], or even just Security.
 >
 > **[1:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980&t=62)** If you're branding your specific security awareness team, you can probably get even more creative, and if there's a way to make a fun and memorable acronym, use that opportunity as those are often more memorable.
 >
@@ -691,19 +681,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), next (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (2), [[Security Operations]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ciso (1), cso (1), ceo (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - creating (1)
 
-#### Introducing the program and communicating the why
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980)
+#### [Introducing the program and communicating the why](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=0)** - [Instructor] When you are developing a new program for security awareness and culture, it is imperative that you consider the why.
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=0)** - [Instructor] When you are developing a new program for [[Security Awareness]] and culture, it is imperative that you consider the why.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=8)** The why for you, the why for your program, the why for your team, and the why for all employees that will play a role.
 >
@@ -749,23 +738,22 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=170)** And this mindset of being secure shouldn't stop when your employees leave work.
 >
-> **[2:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=175)** Explain to your employees that this behavior should extend beyond the office and become second nature at home as well.
+> **[2:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=175)** Explain to your employees that this behavior should extend beyond the [[Microsoft Office|office]] and become second nature at home as well.
 >
 > **[3:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/introducing-the-program-and-communicating-the-why?u=76281980&t=182)** True, secure behavior should start to happen as second nature over time and help create a more secure work environment, but also turn each employee into a secure digital citizen in general, which is a really impactful why.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (7), [[Security]] (6), business (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing a training plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980)
+#### [Developing a training plan](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=0)** - [Narrator] Let's discuss the steps you need to take when creating security awareness training for employees at your organization.
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=0)** - [Narrator] Let's discuss the steps you need to take when creating [[Security Awareness]] training for employees at your organization.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=7)** As you start to develop your training plan, keep in mind that there are multiple methods including video training, computer-based training, live in-person training, webinars, games, quizzes, and so much more.
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=170)** You will also want to consider ongoing training that occurs throughout the year.
 >
-> **[2:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=175)** This training can align with incident response events, phishing campaigns, and even holidays or other high risk occurrences such as tax season.
+> **[2:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=175)** This training can align with [[Incident Response]] events, [[Phishing]] campaigns, and even holidays or other high risk occurrences such as tax season.
 >
 > **[3:04](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=184)** If you have a library with training, find effective offerings in the catalog that match up well and push the training to employees as either required or optional, depending on the risk level.
 >
@@ -817,7 +805,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=242)** If you have your own internal LMS, this should allow you to house and track your internally created training, as well as external if it is compatible.
 >
-> **[4:11](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=251)** You can also promote this training in several ways, including the company intranet, email, communications, and newsletters.
+> **[4:11](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=251)** You can also promote this training in several ways, including the company intranet, email, communications, and [[Newsletters]].
 >
 > **[4:20](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-training-plan?u=76281980&t=260)** Even if you are in the beginning stages, start tailoring your training to specific groups, regions, technical abilities, and levels within the organization when and where you can.
 >
@@ -831,7 +819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), hr (2), [[Incident Response]] (1), [[Phishing]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (2), [[Incident Response]] (1), [[Phishing]] (1), [[Newsletters]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** lms (1)
@@ -839,8 +827,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging champions, ambassadors, and liaisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980)
+#### [Leveraging champions, ambassadors, and liaisons](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=21)** For the sake of consistency, we will refer to them as ambassadors for this training.
 >
-> **[0:26](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=26)** As a good starting point when it comes to creating a security awareness and culture extension group would be to conduct an in-house meeting with your security team and leaders in which time is allotted to help identify which groups and people you want and need to have on board.
+> **[0:26](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=26)** As a good starting point when it comes to creating a [[Security Awareness]] and culture extension group would be to conduct an in-house meeting with your security team and leaders in which time is allotted to help identify which groups and people you want and need to have on board.
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=43)** If you are able to identify those high-risk groups, as mentioned previously, this may be a solid starting point.
 >
@@ -876,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=129)** Once your group membership has been established, start by surveying your security ambassadors to see what each of their immediate security needs are and determine the best way to communicate with their specific groups at their specific locations.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=144)** How you communicate and train employees working in a global manufacturing facility may differ from how you train an accounting team that sits at the corporate office.
+> **[2:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=144)** How you communicate and train employees working in a global manufacturing facility may differ from how you train an accounting team that sits at the corporate [[Microsoft Office|office]].
 >
 > **[2:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=153)** Once you aggregate the feedback, you can use this information to develop a plan with your ambassadors.
 >
@@ -896,7 +883,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=212)** Security badges, email signatures, and even challenge coins are also fun ways to make them feel like part of an important group.
 >
-> **[3:41](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=221)** Make being a security ambassador exciting so people start talking and the word gets around and encourages new people to want to engage and even potentially become ambassadors themselves.
+> **[3:41](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=221)** Make being a security ambassador exciting so people start talking and the [[Microsoft Word|word]] gets around and encourages new people to want to engage and even potentially become ambassadors themselves.
 >
 > **[3:52](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/leveraging-champions-ambassadors-and-liaisons?u=76281980&t=232)** As your security awareness program continues to develop and grow, so should your security ambassador program.
 >
@@ -914,7 +901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -924,8 +911,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting creative to reach your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980)
+#### [Getting creative to reach your audience](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=81)** Once the theme has been set, come up with the verbiage.
 >
-> **[1:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=84)** For the sake of this campaign, we are going to use phishing for the theme.
+> **[1:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=84)** For the sake of this campaign, we are going to use [[Phishing]] for the theme.
 >
 > **[1:29](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=89)** Think of catchy ways that you'll be able to draw an employee's attention to the poster with the print.
 >
@@ -971,7 +957,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=147)** Once a design is finalized and approved, there are a few methods for disbursement.
 >
-> **[2:34](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=154)** If you have physical locations with a lot of employee traffic, consider having them printed so that it can be shared in high traffic locations, in your office where they'll have a lot of visibility, or on TV screens with company messages.
+> **[2:34](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=154)** If you have physical locations with a lot of employee traffic, consider having them printed so that it can be shared in high traffic locations, in your [[Microsoft Office|office]] where they'll have a lot of visibility, or on TV screens with company messages.
 >
 > **[2:48](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=168)** You could also opt for the smaller print option, place one in each employee's desk, or in their mailbox, or even pass them out at a company event.
 >
@@ -993,7 +979,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=253)** If applicable to the theme, conduct a tabletop exercise with employees so they can have a real hands-on experience that is impactful, or set up a table in common areas with informational handouts related to the campaign and giveaways to engage people and create opportunities for employees to have open dialogue with the security team about the topic of focus.
 >
-> **[4:35](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=275)** Again, if you are largely remote, think of ways to reach your remote workers, such as digital office hours, virtual games, and Zoom lunch and learns.
+> **[4:35](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=275)** Again, if you are largely remote, think of ways to reach your remote workers, such as digital office hours, virtual games, and [[Zoom]] lunch and learns.
 >
 > **[4:44](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980&t=284)** Get creative and come up with ideas you can do each quarter, such as quizzes, games, giveaways, and more.
 >
@@ -1005,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), next (2), traffic (2), [[Microsoft Office|Office]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft Office|Office]] (2), [[Zoom]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** coming up (1), we discussed (1)
@@ -1014,8 +1000,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - other (1)
 
-#### Communication is key to reaching your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980)
+#### [Communication is key to reaching your audience](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,7 +1012,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=28)** One way to do this is to develop a communications plan with your internal communications team or the person responsible for company communications.
 >
-> **[0:37](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=37)** They're the experts when it comes to communicating with your employees and will be a good resource when you need to determine how different alerts, newsletters, articles, and campaigns should be deployed to users.
+> **[0:37](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=37)** They're the experts when it comes to communicating with your employees and will be a good resource when you need to determine how different alerts, [[Newsletters]], articles, and campaigns should be deployed to users.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=50)** Work with this team and other stakeholders to create a communications playbook, set timelines and expectations for deployment, and even create approved templates to make the process for getting future communications out as quick and seamless as possible.
 >
@@ -1047,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=115)** If there are alerts on the homepage, see if you can get a spot there for major notifications.
 >
-> **[2:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=122)** And if you can, request your own security awareness subpage, where you can house security-specific content.
+> **[2:02](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=122)** And if you can, request your own [[Security Awareness]] subpage, where you can house security-specific content.
 >
 > **[2:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=128)** Ensure the content on your page is frequently refreshed and updated, and utilize this as a document library for all of your content.
 >
@@ -1063,7 +1048,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=181)** Many instant messaging providers offer the ability to create these separate team channels.
 >
-> **[3:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=187)** This can be utilized as an open forum for security to post articles, security, news, and more, as well as allow your employees to have open communication with your team where they can ask questions and get answers directly from the source in real-time.
+> **[3:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=187)** This can be utilized as an open forum for security to post articles, security, news, and more, as well as allow your employees to have open communication with your team where they can ask questions and get answers directly from the source in [[Real-Time]].
 >
 > **[3:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=202)** Many of these tools have clever and creative ways to communicate, which you may find more engaging for your employees.
 >
@@ -1071,7 +1056,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=213)** This could be via a private page or even a public one, though with the public option, you do need to monitor what is being posted and review any and all comments.
 >
-> **[3:44](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=224)** However, one way to utilize social media would be during the annual Cybersecurity Awareness Month.
+> **[3:44](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=224)** However, one way to utilize social media would be during the annual [[Cybersecurity]] Awareness Month.
 >
 > **[3:50](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communication-is-key-to-reaching-your-audience?u=76281980&t=230)** There are a lot of free resources available that you can post with tips and tricks on how to stay safe and secure.
 >
@@ -1089,19 +1074,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Newsletters]] (1), [[Real-Time]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (2), [[Newsletters]] (1), [[Real-Time]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** tldr (1), cso (1)
 > **Analogies:** such as (1), kind of like (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [narrator] (1)
 
-#### Social engineering simulations for experiential training
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980)
+#### [Social engineering simulations for experiential training](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=0)** - [Instructor] How do you keep employees alert to the ever-evolving threats that plague organizations like phishing, which is still the number one attack vector?
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=0)** - [Instructor] How do you keep employees alert to the ever-evolving threats that plague organizations like [[Phishing]], which is still the number one attack vector?
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=9)** Social engineering simulations.
 >
@@ -1109,7 +1093,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=17)** While phishing simulations are important, they are only one small component of your overall security program.
 >
-> **[0:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=24)** To start your social engineering program, you'll need to come up with an idea for the simulation.
+> **[0:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=24)** To start your social engineering program, you'll need to come up with an idea for the [[Simulation]].
 >
 > **[0:29](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=29)** Ideas can come from a number of areas.
 >
@@ -1153,7 +1137,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=189)** You will also want to immediately communicate results from the simulation, along with additional resources that educate employees on that threat vector.
 >
-> **[3:17](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=197)** Create high-level dashboards, graphs, and visuals for your executives that can demonstrate the simulation results and encapsulate the importance of conducting the simulation in the first place.
+> **[3:17](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=197)** Create high-level [[Dashboards]], graphs, and visuals for your executives that can demonstrate the simulation results and encapsulate the importance of conducting the simulation in the first place.
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/social-engineering-simulations-for-experiential-training?u=76281980&t=208)** Come up with a simulation calendar to map out when you will deploy your simulations, what kind of simulations you will conduct, and who you will assess.
 >
@@ -1167,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (17), [[Phishing]] (4), [[Engineering]] (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (17), [[Phishing]] (4), [[Dashboards]] (1)
 > **Env Vars:** usb (2), ceo (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1175,14 +1159,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Holding large-scale events
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980)
+#### [Holding large-scale events](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=0)** - [Narrator] You've likely attended an event that your company put on, whether it was a training or something such as a benefits event, or even a holiday gathering.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=8)** If you found this to be successful, then why not try to recreate something similar for your security awareness program?
+> **[0:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=8)** If you found this to be successful, then why not try to recreate something similar for your [[Security Awareness]] program?
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=15)** Developing a yearly large-scale event such as a security awareness day, week, or month, can be a big draw to get employees excited about alternative training options that don't require them to watch a video, answer questions, or even read an article.
 >
@@ -1230,7 +1213,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=196)** Also, you may only be able to do your presentations at one physical location, which, if you are global or have other facilities or even a heavy remote culture, you will want to ensure you're able to make the presentations available to all your employees.
 >
-> **[3:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=213)** This can be done by live streaming or making the presentation available via webinar.
+> **[3:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=213)** This can be done by [[Live Streaming]] or making the presentation available via webinar.
 >
 > **[3:38](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=218)** If you don't have these options, you can record the presentation and make it available for viewing later on via your intranet or even in your company LMS, where you can track completion.
 >
@@ -1240,7 +1223,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=254)** Develop your own security escape rooms, card games, game shows, scavenger hunts, and even event tabletop simulations of real security threats.
 >
-> **[4:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=264)** Your goal with all these events is to make learning fun and educational, but engaging to the masses that may find traditional forms of training and awareness redundant or mundane.
+> **[4:24](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=264)** Your goal with all these events is to make learning fun and educational, but engaging to the masses that may find traditional [[Forms]] of training and awareness redundant or mundane.
 >
 > **[4:35](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/holding-large-scale-events?u=76281980&t=275)** Still, remember to always gather feedback so you can make the next event bigger and better as well as have metrics.
 >
@@ -1250,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), next (2), [[Live Streaming]] (1), game (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (2), [[Live Streaming]] (1), [[Forms]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Analogies:** such as (7)
 > **Best Practices:** remember to (2), make sure to (1)
@@ -1263,12 +1246,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring impact and behavior change
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980)
+#### [Measuring impact and behavior change](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=0)** - [Instructor] There's a lot of discussion in the industry regarding capturing metrics when launching and managing security awareness programs.
+> **[0:00](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=0)** - [Instructor] There's a lot of discussion in the industry regarding capturing metrics when launching and managing [[Security Awareness]] programs.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=7)** So how do you measure an employee's awareness of a topic?
 >
@@ -1276,7 +1258,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=22)** You may already know that most companies require employees to take an annual security awareness training.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=27)** One of the more obvious statistics that teams capture is the completion status of training.
+> **[0:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=27)** One of the more obvious [[Statistics]] that teams capture is the completion status of training.
 >
 > **[0:33](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=33)** However, if this is a required training, this step may not tell you much other than how compliant your employees and your program are.
 >
@@ -1318,7 +1300,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=188)** This number may vary greatly based on the activity within your network, but if you compare active threats with the amount of malicious emails employees are able to identify and report, you'll have some really solid metrics.
 >
-> **[3:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=202)** One of the most common metrics that is tracked in security awareness programs is click rates in phishing simulation emails.
+> **[3:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=202)** One of the most common metrics that is tracked in security awareness programs is click rates in [[Phishing]] [[Simulation]] emails.
 >
 > **[3:29](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=209)** While this is a good number to keep track of, it isn't the only stat or even necessarily the most important.
 >
@@ -1338,7 +1320,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=278)** It may vary depending on your organization and the maturity of your program.
 >
-> **[4:42](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=282)** Get creative, work closely with the incident response team, and try to understand the risk to the company.
+> **[4:42](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=282)** Get creative, work closely with the [[Incident Response]] team, and try to understand the risk to the company.
 >
 > **[4:48](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980&t=288)** Do campaigns around the risks and measure the numbers before the campaign and after to see if the numbers have shifted.
 >
@@ -1346,13 +1328,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), teams (3), [[Simulation]] (2), application (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (4), [[Simulation]] (2), [[Statistics]] (1), [[Phishing]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** lms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicating the impact and building the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980)
+#### [Communicating the impact and building the team](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=22)** This information can be helpful to fine tune areas where employees have identified gaps.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=27)** You can present this information with eye-catching infographics, and even provide dashboards for your team to access.
+> **[0:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=27)** You can present this information with eye-catching [[Infographics]], and even provide [[Dashboards]] for your team to access.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=35)** When you share your findings, also discuss solutions to help improve the metrics going forward and the role the security team, and more specifically, the awareness team can play in that effort.
 >
@@ -1378,7 +1359,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=57)** So don't stop there. Most of the data came from them.
 >
-> **[1:03](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=63)** One way to consider sharing this is via security scorecards, where you rank the user's behaviors based on a set number of specific data points such as phishing and training.
+> **[1:03](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=63)** One way to consider sharing this is via security scorecards, where you rank the user's behaviors based on a set number of specific data points such as [[Phishing]] and training.
 >
 > **[1:15](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=75)** Ensure you keep this information locked down to only that employee so this exercise doesn't become punitive.
 >
@@ -1398,7 +1379,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=147)** The delivery method for this could come from your highest level of management, which may be a CISO, a CSO, or even the CIO.
 >
-> **[2:36](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=156)** This information can be presented during board updates and presentations to help demonstrate the cultural shift that security awareness is creating and how this is helping to keep the company and its information and assets secure.
+> **[2:36](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=156)** This information can be presented during board updates and presentations to help demonstrate the cultural shift that [[Security Awareness]] is creating and how this is helping to keep the company and its information and assets secure.
 >
 > **[2:49](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/communicating-the-impact-and-building-the-team?u=76281980&t=169)** You now have a better idea of who to present the metrics to, but how can you use these metrics to help you and your program succeed?
 >
@@ -1426,7 +1407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (7), business (2), leadership (2), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (2), [[Infographics]] (1), [[Dashboards]] (1), [[Phishing]] (1)
 > **Env Vars:** ciso (1), cso (1), cio (1), roi (1)
 > **Analogies:** such as (3), picture (1)
 > **CLI Commands:** make (2)
@@ -1437,8 +1418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps: Maturing and adjusting the program over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980)
+#### [Next steps: Maturing and adjusting the program over time](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1438,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=63)** As cybercriminals come up with new ways to attack, we as security professionals need to come up with innovative ways to train on those risks and topics.
 >
-> **[1:14](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=74)** Always stay creative with your engagement, and stay up-to-date with your research so you are ahead of the game when it comes to keeping your security awareness program proactive.
+> **[1:14](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=74)** Always stay creative with your engagement, and stay up-to-date with your research so you are ahead of the game when it comes to keeping your [[Security Awareness]] program proactive.
 >
 > **[1:25](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=85)** Leverage industry experts, books, trainings, and podcasts as well to come up with new ways to take your program to that next level.
 >
@@ -1470,7 +1450,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=107)** You can't prevent 100% of the incidents with security awareness, but nor could you with any technology or policies.
 >
-> **[1:54](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=114)** However, giving employees the training they need to be more secure and informed is beneficial not only for the company, but for each individual and their own privacy and security as well.
+> **[1:54](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=114)** However, giving employees the training they need to be more secure and informed is beneficial not only for the company, but for each individual and their own [[Privacy]] and security as well.
 >
 > **[2:07](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980&t=127)** Security awareness is people-centric and focuses on the human element of security while positively impacting an organization and their security if and when employees feel empowered and inspired.
 >
@@ -1486,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), next (2), [[Engineering]] (1), game (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (3), [[Privacy]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)

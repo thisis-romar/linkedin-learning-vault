@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your cybersecurity pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980)
+#### [Your cybersecurity pipeline](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=11)** The reality is you probably have the opposite problem.
 >
-> **[0:15](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=15)** In this highly competitive job market in the cybersecurity space, you're trying to attract and retain talent, but it's the same talent that everyone else is trying to attract and retain.
+> **[0:15](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=15)** In this highly competitive job market in the [[Cybersecurity]] space, you're trying to attract and retain talent, but it's the same talent that everyone else is trying to attract and retain.
 >
 > **[0:25](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=25)** So you may not be able to get or afford them.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=34)** Focus on entry-level talent.
 >
-> **[0:36](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=36)** In this LinkedIn Learning course, I'll show you how these industry newcomers can help you build a strong talent pipeline in an incredibly competitive job market.
+> **[0:36](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=36)** In this [[LinkedIn]] Learning course, I'll show you how these industry newcomers can help you build a strong talent pipeline in an incredibly competitive job market.
 >
 > **[0:46](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/your-cybersecurity-pipeline?u=76281980&t=46)** We'll talk about how building a pipeline of entry-level talent helps you build a sustainable security program and improves your overall return on investment.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (2), career (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1)
 > **Env Vars:** dsl (1)
 > **Speakers:** - if (1)
 
@@ -121,12 +120,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The cybersecurity skills gap: Fact or fiction?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980)
+#### [The cybersecurity skills gap: Fact or fiction?](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980&t=0)** - [Tia] The cybersecurity skills gap, a challenge the industry has been faced with for several years and does not appear to be going anywhere anytime soon.
+> **[0:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980&t=0)** - [Tia] The [[Cybersecurity]] skills gap, a challenge the industry has been faced with for several years and does not appear to be going anywhere anytime soon.
 >
 > **[0:09](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/the-cybersecurity-skills-gap-fact-or-fiction?u=76281980&t=9)** In fact, study after study supports the idea that the skills gap will continue to grow and security leaders will continue to struggle with hiring and retaining security talent.
 >
@@ -182,14 +180,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), teams (4), [[Cybersecurity]] (3), functional (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** isc (1), cso (1), soc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tia] (1)
 
-#### Hiring doesn't have to be hard
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/hiring-doesn-t-have-to-be-hard?u=76281980)
+#### [Hiring doesn't have to be hard](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/hiring-doesn-t-have-to-be-hard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/hiring-doesn-t-have-to-be-hard?u=76281980&t=32)** and so little time.
 >
-> **[0:33](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/hiring-doesn-t-have-to-be-hard?u=76281980&t=33)** Unfortunately in the cybersecurity industry, instead of hiring managers having the luxury of selecting top talent from a pool of highly qualified candidates, it's actually the top talent that has a luxury of choosing from a massive pool of companies in need of security personnel.
+> **[0:33](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/hiring-doesn-t-have-to-be-hard?u=76281980&t=33)** Unfortunately in the [[Cybersecurity]] industry, instead of hiring managers having the luxury of selecting top talent from a pool of highly qualified candidates, it's actually the top talent that has a luxury of choosing from a massive pool of companies in need of security personnel.
 >
 > **[0:50](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/hiring-doesn-t-have-to-be-hard?u=76281980&t=50)** So what does this mean for leaders, and hiring managers?
 >
@@ -275,13 +272,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), hit (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retention is critical
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980)
+#### [Retention is critical](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=6)** But what about retention?
 >
-> **[0:08](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=8)** Fact is, we've reached a point in the cybersecurity industry where retaining talent is almost as challenging as hiring talent.
+> **[0:08](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=8)** Fact is, we've reached a point in the [[Cybersecurity]] industry where retaining talent is almost as challenging as hiring talent.
 >
 > **[0:16](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=16)** We'll focus on some specific retention strategies in later chapters, but before we go down the path of all the things we can do to retain our employees, let's chat about why retention is important.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=84)** Okay. Time's up.
 >
-> **[1:25](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=85)** Now I obviously can't hear you, but I'm guessing your answer was something along the lines of reduce the organization's cyber risk, or maintain regulatory compliance, or respond to threats within the organization's infrastructure, improve the organization's security posture or something similar.
+> **[1:25](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=85)** Now I obviously can't hear you, but I'm guessing your answer was something along the lines of reduce the organization's cyber risk, or maintain [[Regulatory Compliance]], or respond to threats within the organization's infrastructure, improve the organization's security posture or something similar.
 >
 > **[1:44](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/retention-is-critical?u=76281980&t=104)** Right? Okay, one more question.
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (2), business (2), teams (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Regulatory Compliance]] (1)
 > **CLI Commands:** snap (2)
 > **Speakers:** - [narrator] (1)
 
@@ -368,8 +364,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining roles and responsibilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980)
+#### [Defining roles and responsibilities](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,19 +416,18 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980&t=179)** The same logic applies to our security teams.
 >
-> **[3:03](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980&t=183)** The more granular we are with our role definitions the more we can lower the perceived barrier to entry for cybersecurity newcomers and begin building an internal pipeline.
+> **[3:03](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980&t=183)** The more granular we are with our role definitions the more we can lower the perceived barrier to entry for [[Cybersecurity]] newcomers and begin building an internal pipeline.
 >
 > **[3:13](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-roles-and-responsibilities?u=76281980&t=193)** Up next, we'll review the day-to-day functions of a common role within a security team and look for opportunities to break out low risk, non-critical tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (3), teams (2), hit (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Putting in the work
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980)
+#### [Putting in the work](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +435,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=1)** Okay, it's time to go to work.
 >
-> **[0:04](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=4)** Chris Cross, Global Bank International's newly appointed chief information security officer, has been tasked with building an internal security operations center.
+> **[0:04](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=4)** Chris Cross, Global Bank International's newly appointed chief information security officer, has been tasked with building an internal [[Security Operations]] center.
 >
 > **[0:14](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=14)** Chris knows that staffing an internal team is going to be a heavy lift.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=100)** Once that's done, we need to establish our evaluation criteria.
 >
-> **[1:45](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=105)** Due to the demanding nature of the SOC function within an organization's cybersecurity program, a few options that come to mind are level of criticality, risk to the organization, and, let's say, training requirements.
+> **[1:45](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=105)** Due to the demanding nature of the SOC function within an organization's [[Cybersecurity]] program, a few options that come to mind are level of criticality, risk to the organization, and, let's say, training requirements.
 >
 > **[1:59](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/putting-in-the-work?u=76281980&t=119)** This is by no means an exhaustive set of criteria, but it does serve as a good baseline that you can continue to expand and improve upon as you become more familiar with the framework and make adjustments according to the needs of your specific team.
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Security]] (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Security Operations]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** soc (2), leaders (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous video (1), next video (1)
@@ -528,12 +522,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Job descriptions: The good, the bad, and the ugly
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980)
+#### [Job descriptions: The good, the bad, and the ugly](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=0)** - I provide mentorship and advice to countless individuals looking for ways to break into the cybersecurity industry.
+> **[0:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=0)** - I provide mentorship and advice to countless individuals looking for ways to break into the [[Cybersecurity]] industry.
 >
 > **[0:06](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=6)** The most consistent feedback I receive is the frustration they feel when viewing job descriptions for entry level cybersecurity roles that either require too broad a skill set or have unrealistic certification requirements.
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=175)** I learned all about leading cyber security programs as part of my degree program.
 >
-> **[3:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=180)** I'm always up for learning new things and team collaboration is my jam.
+> **[3:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=180)** I'm always up for learning new things and [[Team Collaboration]] is my jam.
 >
 > **[3:06](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/job-descriptions-the-good-the-bad-and-the-ugly?u=76281980&t=186)** Okay. Where do I sign up?
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), job description (2), [[Security]] (2), [[Team Collaboration]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Team Collaboration]] (1)
 > **Env Vars:** soc (1), cisa (1), cissp (1), crisc (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -647,8 +640,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintaining your pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980)
+#### [Maintaining your pipeline](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980&t=115)** One of my former managers said to me, during an interview actually, "Every call is a sales call."
 >
-> **[2:02](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980&t=122)** I was interviewing for a technical sales role at the time, so within the context of my role, he was absolutely right.
+> **[2:02](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980&t=122)** I was [[Interviewing]] for a technical sales role at the time, so within the context of my role, he was absolutely right.
 >
 > **[2:08](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/maintaining-your-pipeline?u=76281980&t=128)** But what he said stuck with me.
 >
@@ -718,15 +710,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), web (1), traffic (1), [[Security]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - finding (1)
 
-#### Career progression as a program strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/career-progression-as-a-program-strategy?u=76281980)
+#### [Career progression as a program strategy](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/career-progression-as-a-program-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +743,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/career-progression-as-a-program-strategy?u=76281980&t=66)** Now, I have a feeling I don't need to explain how this ties back to entry level talent, but I'm going to do it anyway.
 >
-> **[1:14](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/career-progression-as-a-program-strategy?u=76281980&t=74)** These candidates are new to the cybersecurity neighborhood and they're trying to figure out where to take their talents.
+> **[1:14](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/career-progression-as-a-program-strategy?u=76281980&t=74)** These candidates are new to the [[Cybersecurity]] neighborhood and they're trying to figure out where to take their talents.
 >
 > **[1:20](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/career-progression-as-a-program-strategy?u=76281980&t=80)** They also have a number of different motivators or influencers.
 >
@@ -806,14 +797,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), career (3), [[Search]] (1), [[Cybersecurity]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - [narrator] (1)
 
-#### Defining career progression requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-career-progression-requirements?u=76281980)
+#### [Defining career progression requirements](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-career-progression-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +865,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-career-progression-requirements?u=76281980&t=198)** Finally, at the senior level, we can clearly see that expert level security skills are required across multiple verticals, more advanced certifications are required, and a proactive engagement requirement has been added to interpersonal skills.
 >
-> **[3:34](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-career-progression-requirements?u=76281980&t=214)** Your mid-level employees will now have a clear understanding of what's required of them prior to advancing into a senior role, and can plan their career development activities accordingly.
+> **[3:34](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-career-progression-requirements?u=76281980&t=214)** Your mid-level employees will now have a clear understanding of what's required of them prior to advancing into a senior role, and can plan their [[Career Development]] activities accordingly.
 >
 > **[3:44](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/defining-career-progression-requirements?u=76281980&t=224)** Documented career progression requirements provide you and your teams with tangible, measurable criteria for career advancement.
 >
@@ -893,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), career (5), teams (2), next (2), functional (1)
+> **Frameworks & Libraries:** [[Career Development]] (1)
 > **Analogies:** for example (2)
 > **Warnings:** be careful (1), note that (1)
 > **CLI Commands:** make (1)
@@ -901,8 +891,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating growth plans and investing in your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/creating-growth-plans-and-investing-in-your-team?u=76281980)
+#### [Creating growth plans and investing in your team](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/creating-growth-plans-and-investing-in-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +957,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/creating-growth-plans-and-investing-in-your-team?u=76281980&t=228)** Time certainly flies when you're having fun.
 >
-> **[3:51](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/creating-growth-plans-and-investing-in-your-team?u=76281980&t=231)** So far, we've covered how focusing on entry level talent can help close the cybersecurity skills gap and enable you to build a talent pipeline worthy of applause.
+> **[3:51](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/creating-growth-plans-and-investing-in-your-team?u=76281980&t=231)** So far, we've covered how focusing on entry level talent can help close the [[Cybersecurity]] skills gap and enable you to build a talent pipeline worthy of applause.
 >
 > **[4:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/creating-growth-plans-and-investing-in-your-team?u=76281980&t=240)** In the final section of the course, we'll cover some additional outcomes that I think you'll find quite interesting.
 >
@@ -976,7 +965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), game (3), next (3), teams (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -988,8 +977,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boosting your corporate brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/boosting-your-corporate-brand?u=76281980)
+#### [Boosting your corporate brand](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/boosting-your-corporate-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1055,18 +1043,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), leadership (2), career (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Return on investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980)
+#### [Return on investment](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=0)** - [Narrator] You made it. Wow!
 >
-> **[0:03](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=3)** I assume that if you're watching this video, the last video in this course, I've either convinced you to consider making room for entry level cybersecurity talent on your team, or at the very least, I've kept you moderately entertained up to this point.
+> **[0:03](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=3)** I assume that if you're watching this video, the last video in this course, I've either convinced you to consider making room for entry level [[Cybersecurity]] talent on your team, or at the very least, I've kept you moderately entertained up to this point.
 >
 > **[0:20](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=20)** (chuckles) I'm actually hoping it's a bit of both.
 >
@@ -1078,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=60)** Security program effectiveness is often measured in terms of how secure the organization believes itself to be.
 >
-> **[1:08](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=68)** Effectiveness can also be measured, however, based on the stability and maturity capabilities of the program, both of which are directly linked to the teams responsible for the day-to-day security operations.
+> **[1:08](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=68)** Effectiveness can also be measured, however, based on the stability and maturity capabilities of the program, both of which are directly linked to the teams responsible for the day-to-day [[Security Operations]].
 >
 > **[1:21](https://www.linkedin.com/learning/building-your-cybersecurity-talent-pipeline/return-on-investment?u=76281980&t=81)** Let's unpack that a bit.
 >
@@ -1116,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), business (2), [[Cybersecurity]] (1), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Security Operations]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** roi (1)
 > **Analogies:** imagine (1)

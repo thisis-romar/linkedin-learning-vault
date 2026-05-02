@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get customer calls resolved faster
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980)
+#### [Get customer calls resolved faster](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,7 +77,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980&t=27)** My name is Myra Golden, and for more than 20 years, through my workshops, I've helped customer service professionals just like you.
 >
-> **[0:35](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980&t=35)** Join me in this LinkedIn learning course and learn how to control conversations politely.
+> **[0:35](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980&t=35)** Join me in this [[LinkedIn]] learning course and learn how to control conversations politely.
 
 > [!info]- Semantic Content
 >
@@ -91,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Give a limited response on your customer call
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/give-a-limited-response-on-your-customer-call?u=76281980)
+#### [Give a limited response on your customer call](https://www.linkedin.com/learning/customer-service-call-control-strategies/give-a-limited-response-on-your-customer-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,14 +144,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - think (1)
 
-#### The snatch-and-flip call control strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/the-snatch-and-flip-call-control-strategy?u=76281980)
+#### [The snatch-and-flip call control strategy](https://www.linkedin.com/learning/customer-service-call-control-strategies/the-snatch-and-flip-call-control-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,8 +232,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** don't make the mistake (1)
 
-#### Ask closed-ended questions on your customer call
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980)
+#### [Ask closed-ended questions on your customer call](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=209)** That's what the three questions technique does for you.
 >
-> **[3:33](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=213)** Customers follow your lead, plugging in one word or a series of numbers.
+> **[3:33](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=213)** Customers follow your lead, plugging in one [[Microsoft Word|word]] or a series of numbers.
 >
 > **[3:39](https://www.linkedin.com/learning/customer-service-call-control-strategies/ask-closed-ended-questions-on-your-customer-call?u=76281980&t=219)** What's great about the three questions tactic is, it immediately puts you in control by limiting the customer's response, and at the same time filling in the details that you need to move the conversation forward.
 >
@@ -343,15 +338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), business (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - all (2), - when (1), - hi (1), - yeah (1), - this (1)
 > **Env Vars:** tx4729 (1), ord (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 
-#### Assertively interject on your customer call
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/assertively-interject-on-your-customer-call?u=76281980)
+#### [Assertively interject on your customer call](https://www.linkedin.com/learning/customer-service-call-control-strategies/assertively-interject-on-your-customer-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,12 +409,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Speakers:** - hi (2), - you (2), - i (1)
 > **Analogies:** picture (1)
 
-#### Reframe the conversation with your customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980)
+#### [Reframe the conversation with your customer](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,7 +440,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=61)** "I can see your point," or "I realize this has been frustrating" are good examples of recognizing the customer's emotion.
 >
-> **[1:09](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=69)** And lastly, reframe the conversation with an intentional response that moves your customer out of storytelling and into resolution.
+> **[1:09](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=69)** And lastly, reframe the conversation with an intentional response that moves your customer out of [[Storytelling]] and into resolution.
 >
 > **[1:18](https://www.linkedin.com/learning/customer-service-call-control-strategies/reframe-the-conversation-with-your-customer?u=76281980&t=78)** Something as simple as, "Let's take a look and see what's going on, and see if we can get you some answers."
 >
@@ -472,13 +464,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Politely excuse yourself on your customer call
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/politely-excuse-yourself-on-your-customer-call?u=76281980)
+#### [Politely excuse yourself on your customer call](https://www.linkedin.com/learning/customer-service-call-control-strategies/politely-excuse-yourself-on-your-customer-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +529,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ceo (1)
 > **Speakers:** - i (1)
@@ -548,8 +538,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When customers feel understood, they talk less
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/when-customers-feel-understood-they-talk-less-22343811?u=76281980)
+#### [When customers feel understood, they talk less](https://www.linkedin.com/learning/customer-service-call-control-strategies/when-customers-feel-understood-they-talk-less-22343811?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,8 +591,7 @@ created: 2026-05-02
 > **CLI Commands:** make (7), find (1)
 > **Speakers:** - if (1)
 
-#### Provide a comprehensive recap of your customer call
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/provide-a-comprehensive-recap-of-your-customer-call?u=76281980)
+#### [Provide a comprehensive recap of your customer call](https://www.linkedin.com/learning/customer-service-call-control-strategies/provide-a-comprehensive-recap-of-your-customer-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +653,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -674,8 +661,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep building your customer phone skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980)
+#### [Keep building your customer phone skills](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,13 +689,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980&t=54)** This simple exercise is a fantastic way to capture your biggest takeaways, and it can inspire you to apply what you've learned.
 >
-> **[1:04](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980&t=64)** If you find that you need more help with controlling conversations, visit my blog at [myragolden.com](https://myragolden.com) where I have dozens of resources that will guide you in your customer interactions, and be sure to connect with me on LinkedIn.
+> **[1:04](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980&t=64)** If you find that you need more help with controlling conversations, visit my blog at [myragolden.com](https://myragolden.com) where I have dozens of resources that will guide you in your customer interactions, and be sure to connect with me on [[LinkedIn]].
 >
 > **[1:20](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980&t=80)** Thanks for taking this course with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

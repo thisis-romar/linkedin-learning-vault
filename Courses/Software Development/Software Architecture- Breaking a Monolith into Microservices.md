@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embark on a journey to refactor your architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980)
+#### [Embark on a journey to refactor your architecture](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=0)** - [Instructor] When creating a new application today, Microservices are the software architecture of choice and much has been said and written about it already.
+> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=0)** - [Instructor] When creating a new application today, [[Microservices]] are the [[Software Architecture]] of choice and much has been said and written about it already.
 >
 > **[0:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=8)** But what about existing applications?
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=19)** I made this course to answer these questions and guide you through your Microservice migration journey.
 >
-> **[0:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=24)** We won't talk about container on times or Kubernetes and it does not matter which programming languages you know.
+> **[0:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=24)** We won't talk about container on times or [[Kubernetes]] and it does not matter which programming languages you know.
 >
 > **[0:31](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=31)** After taking this course, you will have a holistic general understanding of the technical and organizational challenges that you need to tackle to be successful.
 >
@@ -101,13 +100,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=43)** I've been working as a developer at Architecting Tech.
 >
-> **[0:47](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=47)** Join me now on my LinkedIn learning course about splitting up one of these into Microservices.
+> **[0:47](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=47)** Join me now on my [[LinkedIn]] learning course about splitting up one of these into Microservices.
 >
 > **[0:52](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980&t=52)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (3), application (1), [[Software Architecture]] (1), [[Kubernetes]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Software Architecture]] (1), [[Kubernetes]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -116,14 +115,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to your new role!
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980)
+#### [Welcome to your new role!](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=0)** - [Instructor] Of course, I could now start throwing everything that was ever written on this topic at you but I think that's not why you're here.
 >
-> **[0:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=7)** Maybe you aren't even yet sure if Microservices are the solution to your problem at all.
+> **[0:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=7)** Maybe you aren't even yet sure if [[Microservices]] are the solution to your problem at all.
 >
 > **[0:12](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=12)** Likely you ask yourself how to get started in the first place or if there is a specific process you could follow.
 >
@@ -161,11 +159,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=128)** The technology does not really matter in this context.
 >
-> **[2:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=131)** Think something like Java enterprise or even just a large PHP site, using a framework like Symfony.
+> **[2:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=131)** Think something like [[Java]] enterprise or even just a large [[PHP]] site, using a framework like Symfony.
 >
-> **[2:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=138)** Of course, this monolith contains a whole range of different design paradigms and technologies (indistinct) at a given time, as well as an half executed attempt to use no SQL for the items.
+> **[2:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=138)** Of course, this monolith contains a whole range of different design paradigms and technologies (indistinct) at a given time, as well as an half executed attempt to use no [[SQL]] for the items.
 >
-> **[2:31](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=151)** The whole platform runs on a set of VMs in a data center, sharing some central databases as a single source of truth.
+> **[2:31](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=151)** The whole platform runs on a set of VMs in a data center, sharing some central [[Databases]] as a single source of truth.
 >
 > **[2:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980&t=160)** Currently around 80 engineers are working on the code.
 >
@@ -189,20 +187,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (2), [[Java]] (1), [[PHP]] (1), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Java]] (1), [[PHP]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** cto (2), php (1), sql (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1), find (1), php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Start with the "why"
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980)
+#### [Start with the "why"](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=0)** - [Instructor] During your second day on the job, you gather key engineers, the team leads, product managers and the CTO to better understand the current challenges.
 >
-> **[0:09](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=9)** You know already that a re-architecture and a move to microservices is on the table.
+> **[0:09](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=9)** You know already that a re-architecture and a move to [[Microservices]] is on the table.
 >
 > **[0:15](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=15)** But you still don't know exactly why.
 >
@@ -248,15 +245,15 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=105)** So while this matters, it may still be just a three.
 >
-> **[1:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=110)** Their plans to release native apps for Android and iOS.
+> **[1:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=110)** Their plans to release native apps for [[Android]] and iOS.
 >
 > **[1:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=113)** It's a fair vision might make sense, but right now there is no data at all if customers prefer native apps over proper responsive website.
 >
-> **[2:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=122)** It's more likely that some engineers are pushing for it because they are looking for change and want to try mobile development.
+> **[2:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=122)** It's more likely that some engineers are pushing for it because they are looking for change and want to try [[Mobile Development]].
 >
 > **[2:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=128)** So this is rather a tool.
 >
-> **[2:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=131)** Someone says that decide to run and Kubernetes.
+> **[2:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=131)** Someone says that decide to run and [[Kubernetes]].
 >
 > **[2:15](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=135)** Really, that's the goal?
 >
@@ -276,7 +273,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=182)** Yeah, I know this shouldn't happen with proper resource planning, but we all know the reality, right?
 >
-> **[3:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=188)** This means under high load the response time reaches a critical point and frustrates users and then hardware is shown at the problem to solve the problem violate that occurs.
+> **[3:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=188)** This means under high load the response time reaches a critical point and frustrates users and then [[Hardware]] is shown at the problem to solve the problem violate that occurs.
 >
 > **[3:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/start-with-the-why?u=76281980&t=198)** This is significant.
 >
@@ -330,15 +327,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), cloud (4), [[Kubernetes]] (3), data (2), power (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Microservices]] (1), [[Android]] (1), [[Mobile Development]] (1), [[Hardware]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** cto (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining the project scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980)
+#### [Defining the project scope](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,11 +346,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=26)** Let's take, for instance, this scaling problem.
 >
-> **[0:29](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=29)** With microservices, you can just scale up the services that are causing the performance degradation, which requires way less resources than scaling everything.
+> **[0:29](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=29)** With [[Microservices]], you can just scale up the services that are causing the performance degradation, which requires way less resources than scaling everything.
 >
 > **[0:38](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=38)** Also, reducing build times can be tackled with microservices because with functionality split out into dedicated microservices, developers often don't have to build everything but just their service.
 >
-> **[0:51](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=51)** Yet, it's notable that during integration testing when everything is put together, there will be no gain.
+> **[0:51](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=51)** Yet, it's notable that during [[Integration Testing]] when everything is put together, there will be no gain.
 >
 > **[0:57](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=57)** Integration testing will even get more complicated as a lot of moving parts need to be combined into a running application, but maybe this would be a good time to add proper automated integration tests.
 >
@@ -384,15 +380,15 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=140)** It's very common to use a mix of languages and technologies for them.
 >
-> **[2:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=144)** For data science, you might want to use Python, and for front-end rendering, No JS and Javascript.
+> **[2:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=144)** For [[Data Science]], you might want to use [[Python (Programming Language)|Python]], and for front-end rendering, No JS and [[JavaScript]].
 >
-> **[2:29](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=149)** By the serious business logic should still be written in a static language like Java.
+> **[2:29](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=149)** By the serious business logic should still be written in a static language like [[Java]].
 >
 > **[2:34](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=154)** With microservices, this is possible, and on top of that, a new team member only has to understand their service, and their immediate dependencies.
 >
 > **[2:44](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=164)** So with that, you know at least what you should accomplish to make this job a success.
 >
-> **[2:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=170)** And of course, an API for mobile apps, a redesign, moving everything to the cloud, or even using Kubernetes is not off the table.
+> **[2:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=170)** And of course, an API for mobile apps, a redesign, moving everything to the cloud, or even using [[Kubernetes]] is not off the table.
 >
 > **[2:58](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/defining-the-project-scope?u=76281980&t=178)** This can be done along the way, and it may be easier using microservices.
 >
@@ -408,14 +404,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (12), business (2), [[Integration Testing]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Microservices]] (12), [[Integration Testing]] (2), [[Data Science]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (2), make (2), python (1)
 > **Env Vars:** api (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping out the current architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980)
+#### [Mapping out the current architecture](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,21 +468,21 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=194)** One level deeper we have the model.
 >
-> **[3:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=198)** These are basically classes that give us programmatic access to the underlying persistence layer the databases.
+> **[3:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=198)** These are basically classes that give us programmatic access to the underlying persistence layer the [[Databases]].
 >
 > **[3:25](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=205)** Notable at the database layer is that some years back the items were moved into Mongo DB but that's where the whole initiative stopped.
 >
-> **[3:33](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=213)** All other data is stored in my SQL in one large database with many tables.
+> **[3:33](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=213)** All other data is stored in my [[SQL]] in one large database with many tables.
 >
 > **[3:39](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=219)** So this is what we are dealing with here I think I already have an age with service to split it first.
 >
 > **[3:45](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=225)** This may be a good occasion for you not to stop the video, reflect over the architecture you see and think about how to approach this.
 >
-> **[3:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=233)** During the rest of the course we will get back to this key map a few more times.
+> **[3:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/mapping-out-the-current-architecture?u=76281980&t=233)** During the [[Representational State Transfer (REST)|rest]] of the course we will get back to this key map a few more times.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), front-end (2), database (2), web (1), api (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Env Vars:** ide (1), api (1), sql (1)
 > **CLI Commands:** make (1), mongo (1)
@@ -499,12 +494,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design mistakes and how to avoid them
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980)
+#### [Design mistakes and how to avoid them](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=0)** - [Instructor] We are close to starting to split out first microservices, and this is a good point in time to go through approaches that have proven recipes for failures.
+> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=0)** - [Instructor] We are close to starting to split out first [[Microservices]], and this is a good point in time to go through approaches that have proven recipes for failures.
 >
 > **[0:10](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=10)** Let's imagine you want to split out everything related to items.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=33)** Item List Service, should provide add item lists per category or based on a search query.
 >
-> **[0:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=40)** Item Service should fetch a single item.
+> **[0:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=40)** Item Service should [[Fetch]] a single item.
 >
 > **[0:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=42)** Item detail service should fetch the items detail information.
 >
@@ -542,7 +536,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=110)** We all learned that we should avoid redundancy in code and we identify that the access to this data API could be moved out into a shared module data leap, which fill from now on house all the data access logic for all services in is a build time dependency for them.
 >
-> **[2:09](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=129)** For the left arm, instead of course, each of these services provides a rest endpoint to actually access it.
+> **[2:09](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=129)** For the left arm, instead of course, each of these services provides a [[Representational State Transfer (REST)|rest]] endpoint to actually access it.
 >
 > **[2:17](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980&t=137)** Do you see the hairball we just created?
 >
@@ -602,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (6), database (5), [[Fetch]] (4), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Microservices]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), namic (1)
@@ -610,12 +604,11 @@ created: 2026-05-02
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refactor or rewrite?
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980)
+#### [Refactor or rewrite?](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=0)** - [Instructor] Frankly, the expression, splitting out monolith into microservices might be misleading.
+> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=0)** - [Instructor] Frankly, the expression, splitting out monolith into [[Microservices]] might be misleading.
 >
 > **[0:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=7)** It leads to the assumption that you can just take your legacy code and copy it into microservices.
 >
@@ -641,23 +634,22 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=91)** There is of course, no black and white and there are exceptions.
 >
-> **[1:34](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=94)** Sometimes there is that one capability that is relatively independent from the rest of replication, we call this orthogonal and pretty complex.
+> **[1:34](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=94)** Sometimes there is that one capability that is relatively independent from the [[Representational State Transfer (REST)|rest]] of replication, we call this orthogonal and pretty complex.
 >
-> **[1:44](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=104)** Think about calculations or business intelligence.
+> **[1:44](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=104)** Think about calculations or [[Business Intelligence (BI)|business intelligence]].
 >
 > **[1:48](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/refactor-or-rewrite?u=76281980&t=108)** If this capability can really be extracted into service it might be worth giving this a try instead of getting lost in a rewrite.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (4), api (1), [[Representational State Transfer (REST)|Rest]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Exercise Files:** boilerplate (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing your first migration target
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/choosing-your-first-migration-target?u=76281980)
+#### [Choosing your first migration target](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/choosing-your-first-migration-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/choosing-your-first-migration-target?u=76281980&t=15)** We want to migrate the capability that is rather on the edge.
 >
-> **[0:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/choosing-your-first-migration-target?u=76281980&t=18)** This means that it does not have too many dependencies to and from the rest of the application, again this is what we call orthogonal.
+> **[0:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/choosing-your-first-migration-target?u=76281980&t=18)** This means that it does not have too many dependencies to and from the [[Representational State Transfer (REST)|rest]] of the application, again this is what we call orthogonal.
 >
 > **[0:28](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/choosing-your-first-migration-target?u=76281980&t=28)** It should also be a rather small and simple capability that isn't to business critical.
 >
@@ -695,13 +687,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), application (2), management (2), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting out your first service
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980)
+#### [Splitting out your first service](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,11 +720,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=73)** Knowing this, we can go ahead and design what the new authentication service needs to provide.
 >
-> **[1:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=80)** Now in service land, we are talking about routes that are provided via a rest interface and can be accessed via HTTP calls.
+> **[1:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=80)** Now in service land, we are talking about routes that are provided via a [[Representational State Transfer (REST)|rest]] interface and can be accessed via HTTP calls.
 >
 > **[1:31](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=91)** First we need a route that authenticates a user with a username and a password, and we'll return a user ID on success.
 >
-> **[1:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=100)** This user ID can then be stored in a session and used to fetch all the user related data.
+> **[1:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=100)** This user ID can then be stored in a session and used to [[Fetch]] all the user related data.
 >
 > **[1:46](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=106)** Then we need a route that creates a user in the authentication database.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=134)** Let's call it user authentication.
 >
-> **[2:17](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=137)** If this is now my SQL or something like Mongo DB is completely up to the service.
+> **[2:17](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=137)** If this is now my [[SQL]] or something like Mongo DB is completely up to the service.
 >
 > **[2:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/splitting-out-your-first-service?u=76281980&t=144)** What we know though is that this table needs to store the user ID, the email address and also store the password using the same encryption mechanism that is used on the monolith.
 >
@@ -771,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (3), next (2), management (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[SQL]] (1)
 > **Env Vars:** http (1), sql (1)
 > **CLI Commands:** mongo (1)
 > **Cross-References:** in the next (1)
@@ -779,8 +770,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Zero downtime migrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/zero-downtime-migrations?u=76281980)
+#### [Zero downtime migrations](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/zero-downtime-migrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,15 +850,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), business (2), application (2), feature (1), next (1)
 > **UI Navigation:** toggle (6), switch to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrating interdependent, complex capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980)
+#### [Migrating interdependent, complex capabilities](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=84)** Let's sketch out how we could create the service that not only encapsulates the capabilities but also is far better than what we have now.
 >
-> **[1:33](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=93)** First, this is now a great occasion to move a part of the application to the cloud as all cloud infrastructure providers come with services that can help us build in what we need without having to deal with running the infrastructure behind it.
+> **[1:33](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=93)** First, this is now a great occasion to move a part of the application to the cloud as all [[Cloud Infrastructure]] providers come with services that can help us build in what we need without having to deal with running the infrastructure behind it.
 >
 > **[1:48](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=108)** For instance, we can now use a so-called serverless function that provides an API that accepts an item ID and the price and stores it into a queue.
 >
@@ -930,7 +918,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=220)** A user service would be good.
 >
-> **[3:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=222)** We could vary it for the preferences but we decided to do this further down the road as there are some privacy topics to solve first.
+> **[3:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=222)** We could vary it for the preferences but we decided to do this further down the road as there are some [[Privacy]] topics to solve first.
 >
 > **[3:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/migrating-interdependent-complex-capabilities?u=76281980&t=230)** So what can we do now?
 >
@@ -942,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (2), next (2), [[Cloud Infrastructure]] (1), api (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** api (1)
@@ -950,8 +938,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Providing a migration API layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/providing-a-migration-api-layer?u=76281980)
+#### [Providing a migration API layer](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/providing-a-migration-api-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,7 +960,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/providing-a-migration-api-layer?u=76281980&t=62)** And we would have a working watch list service again.
 >
-> **[1:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/providing-a-migration-api-layer?u=76281980&t=67)** Of course, STM many moving parts like modifying the monolith as well as providing and testing the whole cloud infrastructure.
+> **[1:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/providing-a-migration-api-layer?u=76281980&t=67)** Of course, STM many moving parts like modifying the monolith as well as providing and testing the whole [[Cloud Infrastructure]].
 >
 > **[1:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/providing-a-migration-api-layer?u=76281980&t=74)** Plus the final migration.
 >
@@ -981,19 +968,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), data (1), database (1), [[Security]] (1), api (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1)
 > **Env Vars:** api (1), stm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What about the front end?
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980)
+#### [What about the front end?](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=0)** - [Instructor] You may have noticed that the services we created, were all just providing the data by a rest API and not the user interface, the HTML as such.
+> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=0)** - [Instructor] You may have noticed that the services we created, were all just providing the data by a [[Representational State Transfer (REST)|rest]] API and not the user interface, the [[HTML]] as such.
 >
-> **[0:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=11)** If you look into the literature, there's some opinion that microservices should also come with its own user interface or front-end and that monolithic front-ends are an anti-pattern.
+> **[0:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=11)** If you look into the literature, there's some opinion that [[Microservices]] should also come with its own user interface or front-end and that monolithic front-ends are an anti-pattern.
 >
 > **[0:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=24)** Let's have a look at these so-called micro front-ends.
 >
@@ -1003,7 +989,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=39)** For the prices, we provide the price service.
 >
-> **[0:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=42)** But this time it does not only provide an API to just fetch the data, no, it will actually return HTML in JavaScript for the website.
+> **[0:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=42)** But this time it does not only provide an API to just [[Fetch]] the data, no, it will actually return HTML in [[JavaScript]] for the website.
 >
 > **[0:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=53)** The same is true for the item image and description.
 >
@@ -1031,7 +1017,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=116)** So I think you agree that this does not look like a good solution.
 >
-> **[2:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=120)** Another way to approach this would be JavaScript and rather modern frameworks like View Chairs, React, or Angular.
+> **[2:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=120)** Another way to approach this would be JavaScript and rather modern frameworks like View Chairs, [[React.js|React]], or [[Angular]].
 >
 > **[2:09](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/what-about-the-front-end?u=76281980&t=129)** With JavaScript, HTML can be fetched from a service and rendered into the page.
 >
@@ -1077,15 +1063,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), [[JavaScript]] (8), data (4), front-end (3), api (2)
+> **Frameworks & Libraries:** [[HTML]] (8), [[JavaScript]] (8), [[Microservices]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Env Vars:** html (8), api (2), url (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the final step
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980)
+#### [Making the final step](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,7 +1078,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=7)** By now, you should have a good understanding about the underlying technical concepts of such migrations.
 >
-> **[0:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=14)** I also did not cover how to orchestrate services, like with Kubernetes.
+> **[0:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=14)** I also did not cover how to orchestrate services, like with [[Kubernetes]].
 >
 > **[0:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=18)** There are dedicated courses for this.
 >
@@ -1105,9 +1090,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=51)** A redesign of the website is now relatively easy, as all business logic has been moved out into services that can be developed quickly and independently.
 >
-> **[1:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=62)** What I see very frequently is that after the migration, the rather bulky enterprise web service stack is replaced with a more modern platform, like Node.js.
+> **[1:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=62)** What I see very frequently is that after the migration, the rather bulky enterprise web service stack is replaced with a more modern platform, like [[Node.js]].
 >
-> **[1:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=71)** Node.js is a great fit here as it has asynchronity built into its core, and one can, for instance, compose a view by the result of calls to multiple services, where all of the service calls can be done in parallel.
+> **[1:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=71)** Node.js is a great fit here as it has asynchronity built into its core, and one can, for instance, [[Jetpack Compose|compose]] a view by the result of calls to multiple services, where all of the service calls can be done in parallel.
 >
 > **[1:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=84)** In general, the overall memory and CPU footprint of a Node application is very small compared to say, a Tomcat server.
 >
@@ -1117,13 +1102,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=110)** What you haven't considered yet is that cheaper consists of people and processes, that the microservice migration is not just about code.
 >
-> **[1:59](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=119)** I'd even say that the organizational transformation needed is as important as the technical one when moving to microservices.
+> **[1:59](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=119)** I'd even say that the organizational transformation needed is as important as the technical one when moving to [[Microservices]].
 >
 > **[2:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/making-the-final-step?u=76281980&t=127)** I note this is not the most exciting topic for an engineer, but please stay with me to look at the organizational challenges in the final chapter because they're really key for your success when moving to microservices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (3), business (2), application (2), [[Microservices]] (2), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Microservices]] (2), [[Kubernetes]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (3)
 > **Env Vars:** api (1), cpu (1)
@@ -1136,8 +1121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### It's not just about code: Meet Mr. Conway
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980)
+#### [It's not just about code: Meet Mr. Conway](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,9 +1155,9 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=119)** Consequently, the front end person will rarely have to sync with the people working on the database.
 >
-> **[2:05](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=125)** But now we are moving to microservices.
+> **[2:05](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=125)** But now we are moving to [[Microservices]].
 >
-> **[2:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=128)** And microservice consists of at least the Rest API, the business logic and everything related to the data access and persistence for that given service.
+> **[2:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=128)** And microservice consists of at least the [[Representational State Transfer (REST)|Rest]] API, the business logic and everything related to the data access and persistence for that given service.
 >
 > **[2:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=138)** Also, there should be a person that works together with the UI team at large to define which data is needed there and how it would look like.
 >
@@ -1223,21 +1207,20 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=290)** So maybe working the old ways on the monolith but on the microservices, just rethink how you're doing your work.
 >
-> **[4:59](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=299)** And also very important, your goal is not to create many new silos but the vibrant culture of cross team collaboration.
+> **[4:59](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=299)** And also very important, your goal is not to create many new silos but the vibrant culture of cross [[Team Collaboration]].
 >
 > **[5:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980&t=307)** This requires a very defined way on how services are documented and specified in where this information can be found by others.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), data (3), [[Microservices]] (3), [[Engineering]] (2), business (2)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Team Collaboration]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (7)
 > **Env Vars:** api (1), ehr (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provide up-to-date API documentation with Swagger
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980)
+#### [Provide up-to-date API documentation with Swagger](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,13 +1228,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=7)** As such, well-defined interfaces between systems, as well as between people, are important to make your microservice migration a success.
 >
-> **[0:17](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=17)** At Cheaper, you already learned that you have to do way more than just design systems.
+> **[0:17](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=17)** At Cheaper, you already learned that you have to do way more than just [[Design Systems]].
 >
 > **[0:22](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=22)** You have to find new ways of cooperation and rearchitecture the organization along with the code.
 >
 > **[0:29](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=29)** And here, documentation and processes are key.
 >
-> **[0:34](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=34)** Previously, I simply painted a few boxes for the REST API, but do we actually know how the data should be provided to the update route in our picture?
+> **[0:34](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=34)** Previously, I simply painted a few boxes for the [[Representational State Transfer (REST)|REST]] API, but do we actually know how the data should be provided to the update route in our picture?
 >
 > **[0:44](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=44)** Will it be a post or a put request, and how should the payload look like?
 >
@@ -1261,11 +1244,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=60)** The tool of choice to do this today is called swagger.
 >
-> **[1:04](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=64)** It comes with a software as a service offering, but the open source solution can also be installed locally.
+> **[1:04](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=64)** It comes with a [[SaaS|software as a service]] offering, but the open source solution can also be installed locally.
 >
 > **[1:11](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=71)** Swagger offers a declarative way to describe APIs, but can also be used to auto-generate API documentation from code and inline comments.
 >
-> **[1:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=80)** It also lets you try out these APIs, so it provides more or less a sandbox to send and fetch data and verify the payload before writing a line of code.
+> **[1:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=80)** It also lets you try out these APIs, so it provides more or less a sandbox to send and [[Fetch]] data and verify the payload before writing a line of code.
 >
 > **[1:30](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/provide-up-to-date-api-documentation-with-swagger?u=76281980&t=90)** If you establish a central hub for all the API documentation and make sure it's up to date, you already have solved a huge problem.
 >
@@ -1273,15 +1256,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (2), [[Design Systems]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SaaS|Software as a service]] (1), [[Fetch]] (1)
 > **Env Vars:** api (5), rest (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1)
 > **Analogies:** picture (1)
 > **Speakers:** - conway (1)
 
-#### Streamline cross-team collaboration with Inner Source
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980)
+#### [Streamline cross-team collaboration with Inner Source](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=51)** Of course you can just ask a team lead or product manager to get this feature.
 >
-> **[0:56](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=56)** Maybe you bump into them at the coffee machine or you let them know that email or Slack but this is pretty random and also not reproducible.
+> **[0:56](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=56)** Maybe you bump into them at the coffee machine or you let them know that email or [[Slack]] but this is pretty random and also not reproducible.
 >
 > **[1:05](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=65)** You can only keep nagging until you see this feature and you will only learn about it if someone tells you.
 >
@@ -1321,15 +1303,15 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=103)** Ever heard of open source?
 >
-> **[1:45](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=105)** If you applied techniques from open source to proprietary software development, it's called Inner Source.
+> **[1:45](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=105)** If you applied techniques from open source to proprietary [[Software Development]], it's called Inner Source.
 >
-> **[1:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=113)** So what would you need to do to foster this Inner Source spirit at cheaper to enable better cross team collaboration?
+> **[1:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=113)** So what would you need to do to foster this Inner Source spirit at cheaper to enable better cross [[Team Collaboration]]?
 >
 > **[2:01](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=121)** Inner Source is a large topic, with much documentation to be found online.
 >
 > **[2:05](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=125)** But you start out with just defining a few simple rules that come with Inner Source to see how it goes.
 >
-> **[2:12](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=132)** First of all, we need a proper structure in our version control system anyways.
+> **[2:12](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=132)** First of all, we need a proper structure in our [[Version Control]] system anyways.
 >
 > **[2:16](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=136)** And of course each service has to have a repository of its own.
 >
@@ -1341,7 +1323,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=153)** It's completely up to the leadership of the respective project or service to define these rules.
 >
-> **[2:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=160)** Then there needs to be technical documentation that on-boards anyone new to the code.
+> **[2:40](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=160)** Then there needs to be [[Technical Documentation]] that on-boards anyone new to the code.
 >
 > **[2:46](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=166)** This looks like a chore, but if teams start out with writing a specification, along with the code, this will help everyone involved as this captures the reasoning where things are done as they're done.
 >
@@ -1363,11 +1345,11 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=248)** Likely this change will now run through a pipeline and then be added to a so-called pre-prod environment.
 >
-> **[4:15](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=255)** And we will talk about this continuous integration and delivery in the next video.
+> **[4:15](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/streamline-cross-team-collaboration-with-inner-source?u=76281980&t=255)** And we will talk about this [[Continuous Integration (CI)|continuous integration]] and delivery in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), feature (3), [[Team Collaboration]] (2), [[Version Control]] (2), product (1)
+> **Frameworks & Libraries:** [[Team Collaboration]] (2), [[Version Control]] (2), [[Slack]] (1), [[Software Development]] (1), [[Technical Documentation]] (1)
 > **CLI Commands:** make (3)
 > **Documentation:** specification (3)
 > **Env Vars:** fbn (1)
@@ -1376,8 +1358,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [announcer] (1)
 
-#### Continuous integration and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980)
+#### [Continuous integration and deployment](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,17 +1370,17 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=16)** All they have to do is to build the monolith, we know already this takes time, but then just run some tests locally.
 >
-> **[0:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=24)** With switching to microservices, this isn't possible anymore.
+> **[0:24](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=24)** With switching to [[Microservices]], this isn't possible anymore.
 >
 > **[0:28](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=28)** Sure, unit tests can still be performed for single service but you can hardly test the whole application locally as this means, spinning up all the services and also having all the orchestration of the services ready.
 >
-> **[0:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=42)** This is why we're switching to microservices, you also need to implement continuous integration continuous delivery, and if you're brave, also continuous deployment.
+> **[0:42](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=42)** This is why we're switching to microservices, you also need to implement [[Continuous Integration (CI)|continuous integration]] [[Continuous Delivery (CD)|continuous delivery]], and if you're brave, also continuous deployment.
 >
 > **[0:53](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=53)** So let's look at what this is all about.
 >
 > **[0:57](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=57)** Everything still starts on the developer's machine, thorough service is developed and the new feature is being added.
 >
-> **[1:04](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=64)** Once the developer is done and has run the local unit tests they will push the change to the version control system to a dedicated branch for this feature.
+> **[1:04](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=64)** Once the developer is done and has run the local unit tests they will push the change to the [[Version Control]] system to a dedicated branch for this feature.
 >
 > **[1:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=74)** From there an automated process a so-called pipeline is triggered.
 >
@@ -1409,11 +1390,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=88)** But again, this only tests the one service alone.
 >
-> **[1:32](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=92)** You see this on the green box here, so building one service and unit testing one service.
+> **[1:32](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=92)** You see this on the green box here, so building one service and [[Unit Testing]] one service.
 >
 > **[1:38](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=98)** In the next step, the service is put into a testing environment that is similar to the production environment.
 >
-> **[1:45](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=105)** There, it will be integrated with the rest of the service infrastructure and tested.
+> **[1:45](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=105)** There, it will be integrated with the [[Representational State Transfer (REST)|rest]] of the service infrastructure and tested.
 >
 > **[1:50](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=110)** Here of course also automated integration tests need to exist and their frameworks to do exactly this.
 >
@@ -1425,7 +1406,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=135)** This is usually now where manual tests take place.
 >
-> **[2:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=138)** Quality assurance, testing, acceptance testing you name it.
+> **[2:18](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=138)** [[Quality Assurance]], testing, acceptance testing you name it.
 >
 > **[2:23](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/continuous-integration-and-deployment?u=76281980&t=143)** Once this is complete, there's usually a production goal that this manually triggered.
 >
@@ -1465,19 +1446,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Microservices]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), feature (2), next (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Microservices]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Version Control]] (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Cross-References:** in the next (2)
 > **Env Vars:** cicd (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why you need monitoring from the very start
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980)
+#### [Why you need monitoring from the very start](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=0)** - [Instructor] Performance monitoring was always important, but it got quite the boost since microservices became popular.
+> **[0:00](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=0)** - [Instructor] Performance monitoring was always important, but it got quite the boost since [[Microservices]] became popular.
 >
 > **[0:08](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=8)** Today, monitoring and observability are big topics in this space, and there is even a dedicated group for it in the Cloud Native Computing Foundation.
 >
@@ -1501,7 +1481,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=73)** This is data like CPU or memory utilization that tells them if the VM is properly sized.
 >
-> **[1:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=80)** Then they also collect metrics emitted from the databases.
+> **[1:20](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=80)** Then they also collect metrics emitted from the [[Databases]].
 >
 > **[1:23](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=83)** Usually each database system provides self-monitoring interfaces that give you information about its general performance.
 >
@@ -1553,7 +1533,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=247)** Instead of browsing through the source code you can use a monitoring tool to understand the actual code execution path during runtime.
 >
-> **[4:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=254)** Which methods are calling each other or also which exact database queries are being executed.
+> **[4:14](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=254)** Which methods are calling each other or also which exact [[Database Queries]] are being executed.
 >
 > **[4:21](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/why-you-need-monitoring-from-the-very-start?u=76281980&t=261)** All this can be collected and displayed by a monitoring tool.
 >
@@ -1577,7 +1557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microservices]] (4), database (3), application (3), cloud (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Databases]] (1), [[Database Queries]] (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cpu (1)
@@ -1590,8 +1570,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply your knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980)
+#### [Apply your knowledge](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1599,11 +1578,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=2)** I hope you liked it and found it valuable.
 >
-> **[0:04](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=4)** By now you should have a holistic high-level understanding of what a migration to microservices means technically and, also, organizationally.
+> **[0:04](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=4)** By now you should have a holistic high-level understanding of what a migration to [[Microservices]] means technically and, also, organizationally.
 >
 > **[0:13](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=13)** You can now start to apply what you've learned and, on your way, you might come across the topics we've covered and you'll likely want to delve deeper into them.
 >
-> **[0:22](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=22)** In the library, you'll find another course of mine called [[Node.js- Microservices]].
+> **[0:22](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=22)** In the library, you'll find another course of mine called [[[[Node.js]]- Microservices]].
 >
 > **[0:26](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980&t=26)** There I cover how to build your own microservice infrastructure using Node.js.
 >
@@ -1621,7 +1600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (3), [[Node.js]] (3), application (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Node.js]] (3)
 > **CLI Commands:** node (3), find (1)
 > **File Paths:** node.js (3)
 > **UI Navigation:** go to (1)

@@ -91,14 +91,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with files and directories in PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980)
+#### [Work with files and directories in PHP](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980&t=0)** - [Kevin] This course will teach you how to use PHP to work with files and directories.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980&t=0)** - [Kevin] This course will teach you how to use [[PHP]] to work with files and directories.
 >
-> **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980&t=5)** We will read from files, write to files, search through directories, change file permissions, and create forms so that remote users can upload files.
+> **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980&t=5)** We will read from files, write to files, search through directories, change file permissions, and create [[Forms]] so that remote users can upload files.
 >
 > **[0:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980&t=14)** These are important skills for any PHP developer to have.
 >
@@ -122,21 +121,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Search]] (1), [[Forms]] (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Forms]] (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **Speakers:** - [kevin] (1)
 
-#### Using the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980)
+#### [Using the exercise files on GitHub](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available in a GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available in a [[GitHub]] repository.
 >
 > **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=5)** You can find it at this URL.
 >
-> **[0:08](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=8)** It's a project hosted by the LinkedIn Learning account and it's called php-techniques-working-with-files-and-directories-2873106.
+> **[0:08](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=8)** It's a project hosted by the [[LinkedIn]] Learning account and it's called [[PHP]]-techniques-working-with-files-and-directories-2873106.
 >
 > **[0:19](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=19)** The repository has branches which correspond to each of the videos in the course.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=51)** You can also download the code to work along with me.
 >
-> **[0:54](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=54)** If you're a Git user, you can clone the repository by clicking on the Code button and then click on the clipboard icon to copy the URL.
+> **[0:54](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=54)** If you're a [[Git]] user, you can clone the repository by clicking on the Code button and then click on the clipboard icon to copy the URL.
 >
 > **[1:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/using-the-exercise-files-on-github?u=76281980&t=64)** Then you can type git clone and paste in the URL that you copied to your clipboard.
 >
@@ -180,12 +178,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filesystem basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980)
+#### [Filesystem basics](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=0)** - [Instructor] We'll begin learning to work with files and directories in PHP, by learning about some File system basics.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=0)** - [Instructor] We'll begin learning to work with files and directories in [[PHP]], by learning about some File system basics.
 >
 > **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=7)** The File system is the part of any computer that keeps files and directories organized.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=181)** If it's not true, then it will return the second value, none.
 >
-> **[3:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=184)** And, let's also add another line here that will just echo back a br tag so the HTML will look nice.
+> **[3:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=184)** And, let's also add another line here that will just echo back a br tag so the [[HTML]] will look nice.
 >
 > **[3:11](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980&t=191)** All right, let's test this first example out in Firefox.
 >
@@ -317,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (1)
 > **CLI Commands:** php (10), find (2)
 > **Env Vars:** php (8), url (2), html (1)
 > **Code Identifiers:** file_exists (2), is_file (2), is_dir (2), file_basics (2), php_sandbox (1)
@@ -326,8 +323,7 @@ created: 2026-05-02
 > **File Paths:** file_basics.php (2)
 > **Analogies:** just like (1)
 
-#### Relative paths and magic constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980)
+#### [Relative paths and magic constants](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,13 +331,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=4)** Now let's take a look at relative paths and something called magic constants.
 >
-> **[0:09](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=9)** PHP defines a few values for us, and we call them magic constants, because they're automatically set.
+> **[0:09](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=9)** [[PHP]] defines a few values for us, and we call them magic constants, because they're automatically set.
 >
 > **[0:16](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=16)** We're going to look at two of them.
 >
 > **[0:17](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=17)** The first is __FILE__.
 >
-> **[0:19](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=19)** It may be hard to see, but before and after the word FILE in all caps are two underscores.
+> **[0:19](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=19)** It may be hard to see, but before and after the [[Microsoft Word|word]] FILE in all caps are two underscores.
 >
 > **[0:25](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=25)** It is _, _, FILE, _, _.
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=149)** And let's put our PHP tags in there.
 >
-> **[2:33](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=153)** And then inside there, let's put echo, and let's use those magic constants, __FILE__, and then I'll append just the string with a br tag, just so we get a nice line return in our HTML.
+> **[2:33](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=153)** And then inside there, let's put echo, and let's use those magic constants, __FILE__, and then I'll append just the string with a br tag, just so we get a nice line return in our [[HTML]].
 >
 > **[2:48](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/relative-paths-and-magic-constants?u=76281980&t=168)** And then I'll copy that and paste it, and I'll just change that to use __DIR__ for the directory.
 >
@@ -442,14 +438,13 @@ created: 2026-05-02
 > **Tools:** firefox (3)
 > **UI Navigation:** go to (2)
 
-#### Accessing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-files?u=76281980)
+#### [Accessing files](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-files?u=76281980&t=0)** - [Instructor] Now that we know how to construct file paths, we're ready to learn how to access files.
 >
-> **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-files?u=76281980&t=5)** In PHP, you're most often going to do that with the fopen function.
+> **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-files?u=76281980&t=5)** In [[PHP]], you're most often going to do that with the fopen function.
 >
 > **[0:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-files?u=76281980&t=10)** Fopen opens a file so that you can work with it.
 >
@@ -565,7 +560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), data (9), next (1)
+> **Frameworks & Libraries:** [[PHP]] (11)
 > **CLI Commands:** php (11), make (1), find (1)
 > **Env Vars:** php (10), txt (1)
 > **UI Navigation:** open the (5)
@@ -574,8 +569,7 @@ created: 2026-05-02
 > **File Paths:** file_access.php (1)
 > **Code Identifiers:** file_access (1)
 
-#### Reading from files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980)
+#### [Reading from files](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,7 +579,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=7)** This movie is going to cover the first two.
 >
-> **[0:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=10)** The first we'll look at is PHP's fread function.
+> **[0:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=10)** The first we'll look at is [[PHP]]'s fread function.
 >
 > **[0:15](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=15)** Fread takes two arguments, the handle of an open file and the number of bytes we want to read.
 >
@@ -643,7 +637,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=179)** You will notice that there are no line returns in this output.
 >
-> **[3:02](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=182)** You can view source on the page and you'll see that there are line returns there but HTML is not respecting them.
+> **[3:02](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=182)** You can view source on the page and you'll see that there are line returns there but [[HTML]] is not respecting them.
 >
 > **[3:11](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-from-files?u=76281980&t=191)** PHP has a handy function that can help us.
 >
@@ -677,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), data (6), [[HTML]] (4)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (4)
 > **CLI Commands:** php (8), find (2)
 > **Env Vars:** php (5), html (4)
 > **Code Identifiers:** file_get_contents (5), file_read (2), file_access (1)
@@ -686,8 +680,7 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **Definitions:** is a  (2)
 
-#### Reading line by line
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-line-by-line?u=76281980)
+#### [Reading line by line](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-line-by-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +688,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-line-by-line?u=76281980&t=4)** Often it's useful to read a file one line at a time.
 >
-> **[0:08](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-line-by-line?u=76281980&t=8)** The PHP function fgets returns the next full line from a file.
+> **[0:08](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-line-by-line?u=76281980&t=8)** The [[PHP]] function fgets returns the next full line from a file.
 >
 > **[0:13](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/reading-line-by-line?u=76281980&t=13)** That's one line, all of the texts up until the next line return.
 >
@@ -833,7 +826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), next (4), data (4)
+> **Frameworks & Libraries:** [[PHP]] (6)
 > **Env Vars:** php (4), csv (3), eof (1)
 > **CLI Commands:** php (6), make (1)
 > **File Paths:** fileaccess.php (1), file_lines.php (1), assetsloremipsum.txt (1), uspresidents.csv (1)
@@ -842,12 +835,11 @@ created: 2026-05-02
 > **Code Identifiers:** file_lines (1)
 > **Cross-References:** in the last (1)
 
-#### File permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980)
+#### [File permissions](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=0)** - [Instructor] Before we continue learning about how to work with files in PHP, we need to pause for a moment and learn a bit about file permissions.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=0)** - [Instructor] Before we continue learning about how to work with files in [[PHP]], we need to pause for a moment and learn a bit about file permissions.
 >
 > **[0:08](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=8)** Frankly, file permissions can be a little bit of a hassle, but it's important to understand them so that they don't get in our way.
 >
@@ -861,11 +853,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=45)** Further complicating matters, setting permissions varies by operating system.
 >
-> **[0:50](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=50)** If you're using Windows via the graphic user interface, you can go to a file, choose Properties, choose the Security tab, and click Edit to change the permissions.
+> **[0:50](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=50)** If you're using [[Windows]] via the graphic user interface, you can go to a file, choose Properties, choose the Security tab, and click Edit to change the permissions.
 >
 > **[1:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=60)** On macOS, in the graphic user interface, you can select a file or directory, choose Get Info, and then go down to the Sharing and Permission section to set the permissions.
 >
-> **[1:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=70)** Or on Unix, which includes Linux, macOS from the command line, and Windows Subsystem Linux, we can edit permissions from the command line using a command called chmod, short for change the mode of the file.
+> **[1:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=70)** Or on Unix, which includes [[Linux]], macOS from the command line, and Windows Subsystem Linux, we can edit permissions from the command line using a command called chmod, short for change the mode of the file.
 >
 > **[1:25](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/file-permissions?u=76281980&t=85)** Unix file permissions are written as nine characters, rwx, rwx, rwx.
 >
@@ -955,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[PHP]] (2), [[Windows]] (2), [[Linux]] (2), web (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** chmod (5), ls (4), php (2), sudo (2), make (1)
 > **Code Identifiers:** php_sandbox (8), macos (2)
 > **UI Navigation:** go to (3), click on (1)
@@ -964,12 +956,11 @@ created: 2026-05-02
 > **Definitions:** short for (1), is a  (1)
 > **Prerequisites:** install (1), make sure you have (1)
 
-#### Writing to files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-to-files?u=76281980)
+#### [Writing to files](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-to-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-to-files?u=76281980&t=0)** - [Instructor] In this movie we'll learn how to write data to files using PHP.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-to-files?u=76281980&t=0)** - [Instructor] In this movie we'll learn how to write data to files using [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-to-files?u=76281980&t=4)** We will learn two techniques.
 >
@@ -1085,7 +1076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[PHP]] (9), next (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (9)
 > **CLI Commands:** php (9), make (5)
 > **Env Vars:** php (9), txt (5)
 > **File Paths:** file.txt (3), file2.txt (2), file_write.php (1), access.php (1), write.php (1)
@@ -1094,12 +1085,11 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **UI Navigation:** open the (2)
 
-#### Writing line returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980)
+#### [Writing line returns](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=0)** - [Instructor] We need to discuss how to write line returns to your files using PHP.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=0)** - [Instructor] We need to discuss how to write line returns to your files using [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=4)** Different operating systems use different standards for line returns.
 >
@@ -1107,13 +1097,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=14)** In PHP, you want to always use double quotes with it so that it has its special meaning as a line return.
 >
-> **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=21)** In Windows however, it is \r\n, two special characters together.
+> **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=21)** In [[Windows]] however, it is \r\n, two special characters together.
 >
 > **[0:28](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=28)** This convention goes all the way back to the beginning of DOS and has caused a lot of headaches over the years.
 >
 > **[0:33](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=33)** Recently, it has begun to change a little.
 >
-> **[0:35](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=35)** Notepad now supports both and Windows can use Linux as a sub-system, which also uses \n.
+> **[0:35](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=35)** Notepad now supports both and Windows can use [[Linux]] as a sub-system, which also uses \n.
 >
 > **[0:42](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/writing-line-returns?u=76281980&t=42)** So maybe it will change, but for now we need to be mindful of this difference.
 >
@@ -1157,7 +1147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (3), data (3), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (3), [[Linux]] (1)
 > **CLI Commands:** php (4)
 > **File Paths:** file_write.php (2), sample_file2.txt (1)
 > **Env Vars:** php (2), dos (1)
@@ -1166,8 +1156,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/deleting-files?u=76281980)
+#### [Deleting files](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/deleting-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1179,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/deleting-files?u=76281980&t=12)** The second is that you need write permission on the directory containing the file in order to delete it.
 >
-> **[0:18](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/deleting-files?u=76281980&t=18)** And the third thing to keep in mind is that the name of the PHP function for deleting a file is a little bit unusual.
+> **[0:18](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/deleting-files?u=76281980&t=18)** And the third thing to keep in mind is that the name of the [[PHP]] function for deleting a file is a little bit unusual.
 >
 > **[0:26](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/deleting-files?u=76281980&t=26)** It is unlink, it's not F delete or file delete or something else you might guess.
 >
@@ -1248,12 +1237,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
-#### Moving the file pointer
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980)
+#### [Moving the file pointer](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=0)** - [Instructor] As we've been working, you may have noticed that PHP keeps track of our position inside an open file.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=0)** - [Instructor] As we've been working, you may have noticed that [[PHP]] keeps track of our position inside an open file.
 >
 > **[0:06](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=6)** For example, when we used fget PHP kept track of which lines had already been returned.
 >
@@ -1261,7 +1249,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=18)** It does that using the file pointer.
 >
-> **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=21)** The file pointer is similar to the cursor in a word processing application.
+> **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=21)** The file pointer is similar to the cursor in a [[Microsoft Word|word]] processing application.
 >
 > **[0:26](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=26)** You can move the file pointer forward, and backwards through the characters in a file, and you can choose a position to start reading or writing from the file.
 >
@@ -1433,7 +1421,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=435)** If you have a particularly large file, then you may need to make use of a temporary file to keep things organized.
 >
-> **[7:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=441)** Store some data in the temp file, make edits to a portion, store those edits, and then store the rest.
+> **[7:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=441)** Store some data in the temp file, make edits to a portion, store those edits, and then store the [[Representational State Transfer (REST)|rest]].
 >
 > **[7:27](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-the-file-pointer?u=76281980&t=447)** The main thing I want you to understand is that PHP makes use of the file pointer as it reads and writes data to files.
 >
@@ -1441,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (12), [[Microsoft Word|Word]] (12), data (6), application (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (12), [[Microsoft Word|Word]] (12), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (12), make (4)
 > **Env Vars:** php (11)
 > **File Paths:** sonnet.txt (3), file_pointer.php (1)
@@ -1450,12 +1438,11 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** known as (1)
 
-#### Examining file details
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980)
+#### [Examining file details](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=0)** - [Instructor] In this movie, we'll learn what PHP can tell us about various details of files.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=0)** - [Instructor] In this movie, we'll learn what [[PHP]] can tell us about various details of files.
 >
 > **[0:06](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=6)** We've already seen a few PHP functions.
 >
@@ -1477,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=47)** The last time that content was changed.
 >
-> **[0:50](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=50)** Ctime is the last change time which is the last time that content or metadata about the file was changed.
+> **[0:50](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=50)** Ctime is the last change time which is the last time that content or [[Metadata]] about the file was changed.
 >
 > **[0:58](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/examining-file-details?u=76281980&t=58)** It is not created at time as some beginners often believe.
 >
@@ -1629,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), next (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[Metadata]] (1)
 > **CLI Commands:** php (10), make (2)
 > **Code Identifiers:** is_readable (3), is_executable (3), is_writable (2), file_details (2), is_file (1)
 > **Env Vars:** php (8)
@@ -1638,14 +1625,13 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a log file
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-create-a-log-file?u=76281980)
+#### [Challenge: Create a log file](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-create-a-log-file?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-create-a-log-file?u=76281980&t=0)** - [Instructor] It's time for a challenge assignment.
 >
-> **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-create-a-log-file?u=76281980&t=7)** In this challenge, I want you to take everything we've learned about working with files and directories and PHP throughout this chapter and work to create a log file.
+> **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-create-a-log-file?u=76281980&t=7)** In this challenge, I want you to take everything we've learned about working with files and directories and [[PHP]] throughout this chapter and work to create a log file.
 >
 > **[0:16](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-create-a-log-file?u=76281980&t=16)** The idea is that in an application, you very often want to log some information to a log file.
 >
@@ -1689,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), next (2), application (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (3)
 > **Env Vars:** php (3)
 > **Cross-References:** in the next (2)
@@ -1697,12 +1683,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a log file
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-create-a-log-file?u=76281980)
+#### [Solution: Create a log file](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-create-a-log-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-create-a-log-file?u=76281980&t=0)** - [Instructor] I hope that you were able to come up with a solution for this challenge assignment and that you were able to use PHP to write information to a log file.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-create-a-log-file?u=76281980&t=0)** - [Instructor] I hope that you were able to come up with a solution for this challenge assignment and that you were able to use [[PHP]] to write information to a log file.
 >
 > **[0:13](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-create-a-log-file?u=76281980&t=13)** In this movie, I'm going to show you the solution that I came up with.
 >
@@ -1782,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), application (1)
+> **Frameworks & Libraries:** [[PHP]] (7)
 > **CLI Commands:** php (7), make (3)
 > **Code Identifiers:** log_action (7)
 > **Env Vars:** php (5)
@@ -1796,12 +1781,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Directory basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980)
+#### [Directory basics](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn to work with directories in PHP, starting with the basics.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn to work with directories in [[PHP]], starting with the basics.
 >
 > **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=7)** We've already learned several PHP functions which are related to directories.
 >
@@ -1811,7 +1795,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=39)** If you're a Unix user, you might recognize it as being similar to the pwd command, the path to the working directory, and then the function chdir, short for change directory.
 >
-> **[0:51](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=51)** This is similar to the CD command that Unix and Windows command line users use in order to change directories.
+> **[0:51](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=51)** This is similar to the CD command that Unix and [[Windows]] command line users use in order to change directories.
 >
 > **[0:58](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980&t=58)** Let's see how we can use them.
 >
@@ -1889,7 +1873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), cd (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Windows]] (1)
 > **CLI Commands:** php (11), cd (1), make (1)
 > **Env Vars:** php (9)
 > **Code Identifiers:** dir_basics (2), is_dir (1), file_exists (1), is_readable (1), is_writable (1)
@@ -1898,12 +1882,11 @@ created: 2026-05-02
 > **File Paths:** dir_basics.php (2)
 > **Definitions:** stands for (1), short for (1)
 
-#### Creating and deleting directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/creating-and-deleting-directories?u=76281980)
+#### [Creating and deleting directories](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/creating-and-deleting-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/creating-and-deleting-directories?u=76281980&t=0)** - [Instructor] In this movie we'll learn how to use PHP to create and delete directories.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/creating-and-deleting-directories?u=76281980&t=0)** - [Instructor] In this movie we'll learn how to use [[PHP]] to create and delete directories.
 >
 > **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/creating-and-deleting-directories?u=76281980&t=5)** You can make a new directory with the PHP function, mkdir, short for make directory.
 >
@@ -1989,7 +1972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), next (1)
+> **Frameworks & Libraries:** [[PHP]] (7)
 > **CLI Commands:** php (7), make (5), mkdir (2)
 > **Env Vars:** php (6)
 > **Warnings:** warning (3)
@@ -1998,14 +1981,13 @@ created: 2026-05-02
 > **Definitions:** short for (1), is an  (1)
 > **File Paths:** dir_create.php (1)
 
-#### Accessing directory contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980)
+#### [Accessing directory contents](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to list the files and directories which are inside a directory so that we can work with them.
 >
-> **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=7)** We'll be working with three PHP functions, opendir, readdir and closedir.
+> **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=7)** We'll be working with three [[PHP]] functions, opendir, readdir and closedir.
 >
 > **[0:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=14)** These are very similar to the PHP functions we use to work with files.
 >
@@ -2029,7 +2011,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=66)** That's the path to our directory, and let's just use the current parent directory as our starting path.
 >
-> **[1:12](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=72)** Instead of having F come before the word open, now we have dir coming after the word open.
+> **[1:12](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=72)** Instead of having F come before the [[Microsoft Word|word]] open, now we have dir coming after the word open.
 >
 > **[1:17](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/accessing-directory-contents?u=76281980&t=77)** And then instead of file path, we're going to have dir path and we don't have any kind of mode here.
 >
@@ -2164,14 +2146,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (2)
 
-#### Skipping directory entries
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/skipping-directory-entries?u=76281980)
+#### [Skipping directory entries](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/skipping-directory-entries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/skipping-directory-entries?u=76281980&t=0)** - [Instructor] One common question is how to skip over directory entries especially since every directory contains entries for the.and.dot at the start.
 >
-> **[0:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/skipping-directory-entries?u=76281980&t=10)** One easy way to skip entries in PHP is to write a conditional statement inside the loop, which calls continue.
+> **[0:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/skipping-directory-entries?u=76281980&t=10)** One easy way to skip entries in [[PHP]] is to write a conditional statement inside the loop, which calls continue.
 >
 > **[0:18](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/skipping-directory-entries?u=76281980&t=18)** If the Boolean expression evaluates to true continue tells PHP to ignore everything else in the loop, and immediately jump to the next iteration.
 >
@@ -2245,7 +2226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4), find (1)
 > **Env Vars:** php (4)
 > **Cross-References:** go back to (1), coming up (1)
@@ -2253,12 +2234,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pattern matching with glob
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980)
+#### [Pattern matching with glob](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=0)** - [Instructor] There's a completely different technique for working with directory entries in PHP which is powerful and worth knowing about.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=0)** - [Instructor] There's a completely different technique for working with directory entries in [[PHP]] which is powerful and worth knowing about.
 >
 > **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=7)** We can use something called glob, G-L-O-B to do pattern matching.
 >
@@ -2344,7 +2324,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=213)** We'll come back over here.
 >
-> **[3:34](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=214)** And you'll see now we get everything that starts with the word file.
+> **[3:34](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=214)** And you'll see now we get everything that starts with the [[Microsoft Word|word]] file.
 >
 > **[3:39](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/pattern-matching-with-glob?u=76281980&t=219)** If we try and example with character sets, we could put a character set around F now it'll match anything with file.
 >
@@ -2393,8 +2373,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Tools:** firefox (1)
 
-#### Challenge: Directory treasure hunt
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980)
+#### [Challenge: Directory treasure hunt](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,13 +2385,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=17)** You will use the directory called Treasure Hunt, which is included in the exercise files.
 >
-> **[0:22](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=22)** Your challenge is to write a PHP script, which will loop through all of the entries inside that directory.
+> **[0:22](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=22)** Your challenge is to write a [[PHP]] script, which will loop through all of the entries inside that directory.
 >
 > **[0:29](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=29)** And you'll examine the file contents looking for the string, treasure.
 >
 > **[0:33](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=33)** There's going to be more than one.
 >
-> **[0:35](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=35)** Each time you find one, output the file path to HTML.
+> **[0:35](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=35)** Each time you find one, output the file path to [[HTML]].
 >
 > **[0:39](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=39)** At the end you'll have a list of all of the treasure locations.
 >
@@ -2434,7 +2413,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=88)** So you'll see that they're nested.
 >
-> **[1:30](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=90)** You'll need to loop through all of these and try to find out which ones of these files contain the word treasure.
+> **[1:30](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=90)** You'll need to loop through all of these and try to find out which ones of these files contain the [[Microsoft Word|word]] treasure.
 >
 > **[1:38](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-directory-treasure-hunt?u=76281980&t=98)** Inside some of those files, you'll find some random words, but in a few of them, you'll find the word treasure, and that's what you're looking for.
 >
@@ -2444,7 +2423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[PHP]] (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[PHP]] (2), [[HTML]] (1)
 > **CLI Commands:** find (8), php (2)
 > **Env Vars:** php (2), html (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2453,14 +2432,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Directory treasure hunt
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980)
+#### [Solution: Directory treasure hunt](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=0)** - [Narrator] I hope that you were successful on your treasure hunt if not, don't worry in this movie, I'm going to walk you through the process that I went through and you can follow along and try again on your own.
 >
-> **[0:17](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=17)** The first thing I did was I created a new PHP file called treasure underscore Hunter dot PHP.
+> **[0:17](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=17)** The first thing I did was I created a new [[PHP]] file called treasure underscore Hunter dot PHP.
 >
 > **[0:23](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=23)** You can see it here and inside there I defined a couple of functions.
 >
@@ -2504,7 +2482,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=132)** It opens up that file path.
 >
-> **[2:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=134)** It does that in read only mode gets the file handle then it calls F read and it checks the first eight characters of the file to see if the word treasure is there.
+> **[2:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=134)** It does that in read only mode gets the file handle then it calls F read and it checks the first eight characters of the file to see if the [[Microsoft Word|word]] treasure is there.
 >
 > **[2:24](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-directory-treasure-hunt?u=76281980&t=144)** Now I put treasure right at the beginning.
 >
@@ -2542,7 +2520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (3), data (2)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** php (5), find (2)
 > **Env Vars:** php (5), txt (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2554,8 +2532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring PHP for file uploads
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980)
+#### [Configuring PHP for file uploads](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2563,9 +2540,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980&t=4)** In the previous chapters, we worked with files and directories that already existed on the web server.
 >
-> **[0:09](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980&t=9)** PHP can also allow users to upload files via a web form.
+> **[0:09](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980&t=9)** [[PHP]] can also allow users to upload files via a web form.
 >
-> **[0:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980&t=14)** Those users could be the general public but can also be site administrators who are working inside a content management system.
+> **[0:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980&t=14)** Those users could be the general public but can also be site administrators who are working inside a [[Content Management]] system.
 >
 > **[0:21](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980&t=21)** They might be uploading images, PDFs, calendars or other documents.
 >
@@ -2603,22 +2580,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), web (2), [[Content Management]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Content Management]] (1)
 > **Env Vars:** php (11), ini (2)
 > **CLI Commands:** php (11), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending files as form data
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980)
+#### [Sending files as form data](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to create an HTML form which is appropriate for uploading files.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to create an [[HTML]] form which is appropriate for uploading files.
 >
 > **[0:07](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=7)** This is going to be pure HTML.
 >
-> **[0:09](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=9)** There's no PHP here.
+> **[0:09](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=9)** There's no [[PHP]] here.
 >
 > **[0:11](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=11)** This is what a minimum form looks like.
 >
@@ -2676,7 +2652,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=123)** I'll come back to the form in a second.
 >
-> **[2:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=125)** For now let's just close the form and finish with the rest of our HTML, body and close HTML.
+> **[2:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=125)** For now let's just close the form and finish with the [[Representational State Transfer (REST)|rest]] of our HTML, body and close HTML.
 >
 > **[2:15](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/sending-files-as-form-data?u=76281980&t=135)** All right, let's come back up here to our form now.
 >
@@ -2728,7 +2704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (6), data (4), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (8), php (3), enc (1)
 > **CLI Commands:** php (6), make (1)
 > **File Paths:** upload_form.php (1), upload.php (1), form.php (1)
@@ -2737,14 +2713,13 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **UI Navigation:** go to (1)
 
-#### Inspecting uploaded files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980)
+#### [Inspecting uploaded files](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980&t=0)** - [Instructor] In the previous movie, we learned how to create a basic HTML form that will upload files.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980&t=0)** - [Instructor] In the previous movie, we learned how to create a basic [[HTML]] form that will upload files.
 >
-> **[0:06](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980&t=6)** In this movie, we'll learn to use PHP to inspect the values that are submitted by that form.
+> **[0:06](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980&t=6)** In this movie, we'll learn to use [[PHP]] to inspect the values that are submitted by that form.
 >
 > **[0:12](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/inspecting-uploaded-files?u=76281980&t=12)** PHP has many super globals.
 >
@@ -2844,7 +2819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), data (9), [[HTML]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (2)
 > **CLI Commands:** php (11), make (1)
 > **Env Vars:** php (8), html (2), files (1), mime (1)
 > **File Paths:** upload.php (2), upload_form.php (1), log.txt (1)
@@ -2853,12 +2828,11 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **Analogies:** for example (1), such as (1)
 
-#### Moving uploaded files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980)
+#### [Moving uploaded files](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=0)** - We know how to use PHP to upload a file to a temporary location.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=0)** - We know how to use [[PHP]] to upload a file to a temporary location.
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=4)** Now, let's learn how to store it somewhere permanent.
 >
@@ -2970,13 +2944,13 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=275)** Now, of course, in this example, I uploaded a file from my local computer to my local computer, but you can imagine that this is a public webpage and the upload is coming from a different remote computer.
 >
-> **[4:47](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=287)** So to review the whole process, we have an HTML form that uploads to a PHP page.
+> **[4:47](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=287)** So to review the whole process, we have an [[HTML]] form that uploads to a PHP page.
 >
 > **[4:54](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/moving-uploaded-files?u=76281980&t=294)** That PHP page then uses the file's super global to inspect the values, and then move_uploaded_file moves the file from the temporary location to its permanent location.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[Security]] (2), hit (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (1)
 > **CLI Commands:** php (9), make (2), find (1)
 > **Code Identifiers:** move_uploaded_file (6), upload_dir (1), file_upload (1), tmp_name (1), target_path (1)
 > **Env Vars:** php (7), txt (2), html (1)
@@ -2985,12 +2959,11 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1), go back to (1)
 > **Tools:** firefox (2)
 
-#### Handling upload errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/handling-upload-errors?u=76281980)
+#### [Handling upload errors](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/handling-upload-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/handling-upload-errors?u=76281980&t=0)** - [Instructor] We've seen how to handle file uploads in PHP.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/handling-upload-errors?u=76281980&t=0)** - [Instructor] We've seen how to handle file uploads in [[PHP]].
 >
 > **[0:03](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/handling-upload-errors?u=76281980&t=3)** Let's consider what to do if there's an upload error PHP will detect upload errors and store it in the files super global array for the upload.
 >
@@ -3072,7 +3045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (9)
 > **CLI Commands:** php (9), make (1)
 > **Env Vars:** php (9)
 > **Definitions:** is an  (2), is called (1)
@@ -3081,14 +3054,13 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Exercise Files:** exercise files (1)
 
-#### Setting file permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/setting-file-permissions?u=76281980)
+#### [Setting file permissions](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/setting-file-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/setting-file-permissions?u=76281980&t=0)** - [Instructor] Now that we know how to upload files, I want us to revisit the subject of file permissions.
 >
-> **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/setting-file-permissions?u=76281980&t=5)** This time, we'll learn how to set file permissions using PHP.
+> **[0:05](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/setting-file-permissions?u=76281980&t=5)** This time, we'll learn how to set file permissions using [[PHP]].
 >
 > **[0:10](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/setting-file-permissions?u=76281980&t=10)** When we talked about file permissions earlier, we are mostly concerned with ensuring that PHP could access files created by other users.
 >
@@ -3220,7 +3192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (14), web (1)
+> **Frameworks & Libraries:** [[PHP]] (14)
 > **CLI Commands:** php (14), chmod (4), make (2), chown (1), sudo (1)
 > **Env Vars:** php (12)
 > **File Paths:** sonnet.txt (5), upload.php (1), upload_chmod.php (1)
@@ -3229,8 +3201,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Tools:** firefox (1)
 
-#### Securing file uploads
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980)
+#### [Securing file uploads](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3254,7 +3225,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=43)** You should also be cautious about opening uploaded files.
 >
-> **[0:47](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=47)** Opening simple image files is usually fine, but malware can be embedded in executable files or in files that allow macros or scripting like Word or Excel files.
+> **[0:47](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=47)** Opening simple image files is usually fine, but malware can be embedded in executable files or in files that allow macros or scripting like [[Microsoft Word|Word]] or [[Microsoft Excel|Excel]] files.
 >
 > **[0:57](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=57)** It helps to validate the file type and file extension of uploaded files to make sure that they match your expectations.
 >
@@ -3266,7 +3237,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=74)** You don't want users to use up all the hard drive space on your server because they picked really large files to upload.
 >
-> **[1:20](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=80)** Remember, PHP gives you this information in an array.
+> **[1:20](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=80)** Remember, [[PHP]] gives you this information in an array.
 >
 > **[1:24](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/securing-file-uploads?u=76281980&t=84)** You can look at the file name to see the file extension.
 >
@@ -3286,14 +3257,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Security]] (1), [[Scripting]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** php (4), pdf (3), ini (1), max_file_size (1)
 > **CLI Commands:** php (4), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Profile photo
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980)
+#### [Challenge: Profile photo](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3303,7 +3273,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=8)** In this challenge, you'll use what we've learned about file uploading to create a real world website feature.
 >
-> **[0:15](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=15)** Your PHP code shall allow a user to upload a profile photo.
+> **[0:15](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=15)** Your [[PHP]] code shall allow a user to upload a profile photo.
 >
 > **[0:20](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=20)** You'll create a file upload form, and then a page that will process the form data and upload the file.
 >
@@ -3331,7 +3301,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=93)** Let's look at profile.php.
 >
-> **[1:36](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=96)** This is mostly an HTML page.
+> **[1:36](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=96)** This is mostly an [[HTML]] page.
 >
 > **[1:38](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/challenge-profile-photo?u=76281980&t=98)** At the top, I'm setting a few variables and these are meant to simulate the kind of data that you might normally get from a database.
 >
@@ -3391,7 +3361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), data (2), [[HTML]] (2), feature (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (2)
 > **CLI Commands:** php (11), make (1)
 > **File Paths:** uploadphoto.php (4), profile.php (2), userprofile.php (1)
 > **Env Vars:** php (4), html (2)
@@ -3400,8 +3370,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (2)
 
-#### Solution: Profile photos
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-profile-photos?u=76281980)
+#### [Solution: Profile photos](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-profile-photos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3411,7 +3380,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-profile-photos?u=76281980&t=11)** And this movie I'm going to walk you through the solution that I came up with.
 >
-> **[0:16](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-profile-photos?u=76281980&t=16)** For this challenge assignment we didn't need to make any changes to the profile.PHP page that I created before.
+> **[0:16](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-profile-photos?u=76281980&t=16)** For this challenge assignment we didn't need to make any changes to the profile.[[PHP]] page that I created before.
 >
 > **[0:22](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/solution-profile-photos?u=76281980&t=22)** All it's doing is displaying an image if it exists, and not displaying, if it doesn't exist.
 >
@@ -3497,7 +3466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** make (2), php (2)
 > **Code Identifiers:** max_file_size (1), file_upload (1)
 > **Env Vars:** php (2)
@@ -3511,12 +3480,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980&t=0)** - [Kevin] Thank you for taking "PHP Files and Directories" with me.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980&t=0)** - [Kevin] Thank you for taking "[[PHP]] Files and Directories" with me.
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980&t=4)** We've learned to use PHP to store information in files, to read data back from files, to search directories, and to allow users to upload files from a web form.
 >
@@ -3534,7 +3502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Search]] (2), data (1), web (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (5)
 > **CLI Commands:** php (5)
 > **Env Vars:** php (5)
 > **Speakers:** - [kevin] (1)

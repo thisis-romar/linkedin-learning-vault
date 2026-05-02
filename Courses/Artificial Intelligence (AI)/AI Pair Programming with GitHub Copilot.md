@@ -88,18 +88,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GitHub Copilot and the GenAI revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980)
+#### [GitHub Copilot and the GenAI revolution](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=0)** - Use AI to deliver software faster.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=4)** That's what GitHub Copilot lets you do, and that's just what we'll cover in this course.
+> **[0:04](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=4)** That's what [[GitHub Copilot]] lets you do, and that's just what we'll cover in this course.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=9)** You'll learn how Copilot can help you in different parts of the development process.
+> **[0:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=9)** You'll learn how [[Microsoft Copilot|Copilot]] can help you in different parts of the development process.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=15)** We'll also look at cutting edge features that use AI agents.
+> **[0:15](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=15)** We'll also look at cutting edge features that use [[AI Agents]].
 >
 > **[0:19](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980&t=19)** I'm Ronnie Sheer.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GitHub Copilot]] (1), [[AI Agents]] (1)
 > **Tools:** github (1)
 > **Speakers:** - use (1)
 
@@ -124,18 +123,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Copilot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980)
+#### [What is Copilot?](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=0)** - So, what is GitHub Copilot, and why did Mike Krieger, who is the co-founder of Instagram, initially refer to it as, "The single most mind-blowing application "of machine learning?"
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=0)** - So, what is [[GitHub Copilot]], and why did Mike Krieger, who is the co-founder of Instagram, initially refer to it as, "The single most mind-blowing application "of machine learning?"
 >
 > **[0:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=13)** GitHub Copilot is a growing set of AI-powered developer tools.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=18)** On the surface, it may look a bit like many of the code completion tools out there.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=25)** To understand the difference between Copilot and a standard code completion tool, we'll have to look under the hood.
+> **[0:25](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=25)** To understand the difference between [[Microsoft Copilot|Copilot]] and a standard code completion tool, we'll have to look under the hood.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980&t=33)** Copilot is powered by GPT-3.
 >
@@ -167,23 +165,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2), application (1), ai (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2)
 > **Env Vars:** gpt (3)
 > **Tools:** github (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - so (1)
 
-#### Warning: Use responsibly
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980)
+#### [Warning: Use responsibly](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980&t=0)** - There's a wonderful quote from Spider-Man that says, "With great power comes great responsibility."
 >
-> **[0:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980&t=6)** I like to keep this quote in mind when dealing with generative AI tooling.
+> **[0:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980&t=6)** I like to keep this quote in mind when dealing with [[Generative AI]] tooling.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980&t=12)** Now, Copilot enhances your programming skills, and it's important that you use those skills for good.
+> **[0:12](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980&t=12)** Now, [[Microsoft Copilot|Copilot]] enhances your programming skills, and it's important that you use those skills for good.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/warning-use-responsibly?u=76281980&t=20)** Further, Copilot will often generate a lot of working code, and it's important that you spend some time and reinvest some of that time saved in really going through that code, in understanding that code, in assuring the quality of it.
 >
@@ -205,21 +202,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), power (1), [[Generative AI]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - there (1)
 
-#### Test flight
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980)
+#### [Test flight](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=0)** - [Instructor] We're just about ready to take Copilot for test flight.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=0)** - [Instructor] We're just about ready to take [[Microsoft Copilot|Copilot]] for test flight.
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=4)** And in order to do that we're going to start by signing up for Copilot and installing it on our IDE.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=12)** Then we're going to sign in to GitHub using our IDE.
+> **[0:12](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=12)** Then we're going to sign in to [[GitHub]] using our IDE.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=17)** Then we're going to pick a programming language in order to allow Copilot to make the right assumption about the code we're writing.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=75)** Now, once you click through the signup process, you'll want to go ahead and head over to your IDE.
 >
-> **[1:22](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=82)** At the time of this recording, Copilot is supported in VS Code as well as Codespaces.
+> **[1:22](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=82)** At the time of this recording, Copilot is supported in VS Code as well as [[Codespaces]].
 >
 > **[1:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=88)** It's also supported in some of the JetBrains IDEs as well.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=99)** So you can log in and out right here by clicking this little user icon.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=105)** Then you can go ahead to the Extensions panel, type in GitHub Copilot, and here, you can go ahead and install it and enable it.
+> **[1:45](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=105)** Then you can go ahead to the Extensions panel, type in [[GitHub Copilot]], and here, you can go ahead and install it and enable it.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=120)** Note that it's already installed on my computer.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=141)** Now, let's go ahead and start a new file and we're going to call this test_flight.py.
 >
-> **[2:35](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=155)** And since this is a Python file, there's no need to pick a language.
+> **[2:35](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=155)** And since this is a [[Python (Programming Language)|Python]] file, there's no need to pick a language.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=159)** If you're starting a file without naming it, you'll be prompted to pick a language, which you should really do.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=186)** Another fun thing you can do is like you can give it part of the names that you want.
 >
-> **[3:11](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=191)** So like "John, Jane, Jill," it's giving you a bunch of J names, right?
+> **[3:11](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=191)** So like "[[John the Ripper|John]], Jane, Jill," it's giving you a bunch of J names, right?
 >
 > **[3:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-flight?u=76281980&t=198)** And next, we can do like AGES.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[GitHub]] (5), [[Programming]] (1), open-source (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[GitHub]] (5), [[Codespaces]] (1), [[GitHub Copilot]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** lru_cache (4), average_age (2), test_flight (1), fibonacci_memoized (1)
 > **Env Vars:** ide (3), ages (3), five_names (1), map_name_to_age (1)
 > **Tools:** github (6), vs code (1)
@@ -330,12 +326,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), note that (1)
 > **File Paths:** test_flight.py (1)
 
-#### Code completions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980)
+#### [Code completions](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=1)** - [Instructor] GitHub copilot is a pretty straightforward extension to use.
+> **[0:01](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=1)** - [Instructor] [[GitHub Copilot]] is a pretty straightforward extension to use.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=5)** That said, there are a few little tips and tricks that can make working with it more efficient.
 >
@@ -375,23 +370,22 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=132)** Many people actually prefer to do away with some of the code completion tools that they've been using.
 >
-> **[2:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=138)** So you can try that, head over to the settings and turn off some of those auto completes, because copilot will do a lot of that for you.
+> **[2:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=138)** So you can try that, head over to the settings and turn off some of those auto completes, because [[Microsoft Copilot|copilot]] will do a lot of that for you.
 >
 > **[2:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/code-completions?u=76281980&t=148)** So now that we have our copilot toolbox ready, we can go into the context of working with an actual project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[GitHub Copilot]] (2), [[Microsoft Copilot|Copilot]] (2), next (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Productivity tips and tricks for code completions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980)
+#### [Productivity tips and tricks for code completions](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=0)** - [Instructor] Using GitHub Copilot for completions is usually pretty straightforward.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=0)** - [Instructor] Using [[GitHub Copilot]] for completions is usually pretty straightforward.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=5)** With that, there are a few productivity tips and tricks that can help you out.
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=80)** It depends on what you like.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=83)** I can also accept using this line, I can also use tab, and I can accept a single word with command and the arrow, or I can tab and accept an entire suggestion.
+> **[1:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=83)** I can also accept using this line, I can also use tab, and I can accept a single [[Microsoft Word|word]] with command and the arrow, or I can tab and accept an entire suggestion.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=104)** And sometimes you'll go a few words forward.
 >
@@ -429,13 +423,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=122)** It does come up with novice code and it is not always 100% accurate.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=128)** Cutting edge generative AI is extremely helpful, but it can rarely produce things that are slightly off.
+> **[2:08](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=128)** Cutting edge [[Generative AI]] is extremely helpful, but it can rarely produce things that are slightly off.
 >
 > **[2:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=138)** And that's part of our responsibility.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=140)** We always want to make sure that these are accurate.
 >
-> **[2:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=143)** Next, there's Copilot chat, and by far my favorite way of opening it is using the quick lookup.
+> **[2:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=143)** Next, there's [[Microsoft Copilot|Copilot]] chat, and by far my favorite way of opening it is using the quick lookup.
 >
 > **[2:30](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=150)** And for Mac users, that's command P and it's Ctrl P on other operating systems.
 >
@@ -453,9 +447,9 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=194)** Actually I'll save this, and I'll do this .py.
 >
-> **[3:22](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=202)** And while this interface may remind you of ChatGPT, it is different, it's context aware, and it gave me a brief summary of it.
+> **[3:22](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=202)** And while this interface may remind you of [[ChatGPT]], it is different, it's context aware, and it gave me a brief summary of it.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=215)** And test flight.py is a Python file.
+> **[3:35](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=215)** And test flight.py is a [[Python (Programming Language)|Python]] file.
 >
 > **[3:38](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/productivity-tips-and-tricks-for-code-completions?u=76281980&t=218)** It contains a few functions and variables.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Copilot|Copilot]] (3), next (2), [[GitHub Copilot]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -483,8 +477,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What we will build
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980)
+#### [What we will build](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,24 +495,23 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980&t=26)** It does talk to an API.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980&t=28)** It uses Django and Django REST Framework for the backend.
+> **[0:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980&t=28)** It uses [[Django]] and Django [[Representational State Transfer (REST)|REST]] Framework for the backend.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980&t=32)** And then we're doing Vanilla JavaScript for the front end, and it'll give us a good sense of what it's like to work on a little project with Copilot.
+> **[0:32](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980&t=32)** And then we're doing [[Vanilla]] [[JavaScript]] for the front end, and it'll give us a good sense of what it's like to work on a little project with [[Microsoft Copilot|Copilot]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), next (1), api (1), [[Representational State Transfer (REST)|Rest]] (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Vanilla]] (1), [[JavaScript]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** api (1), rest (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=0)** - [Instructor] Before you get started using Copilot, there are a few security considerations to keep in mind, especially in a professional setting.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=0)** - [Instructor] Before you get started using [[Microsoft Copilot|Copilot]], there are a few security considerations to keep in mind, especially in a professional setting.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=8)** This is the kind of tool you want to clear usage with management or the person in charge of security.
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=20)** This is especially true when using a tool like Copilot, but, you know, application keys, passwords shouldn't be in source code whatsoever.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=31)** Then you want to read GitHub's telemetry terms just to make sure it is what you are okay with as far as telemetry goes.
+> **[0:31](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=31)** Then you want to read [[GitHub]]'s telemetry terms just to make sure it is what you are okay with as far as telemetry goes.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=39)** And then you want to double-check autogenerated code.
 >
@@ -539,13 +531,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=59)** If you're not 100% sure you're ready to use Copilot yet in a professional environment, you may want to set it up in a code space or a designated laptop just to make sure it's worth the trade-offs.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=73)** If you want to know more about GitHub Copilot's security capabilities, you can check out this blog post by GitHub about filtration systems that have been added to the API in order to prevent malicious code from being suggested by Copilot.
+> **[1:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=73)** If you want to know more about [[GitHub Copilot]]'s security capabilities, you can check out this blog post by GitHub about filtration systems that have been added to the API in order to prevent malicious code from being suggested by Copilot.
 >
 > **[1:32](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/security-considerations?u=76281980&t=92)** With that in mind, let's go ahead and build something using GitHub Copilot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Security]] (4), application (2), [[GitHub]] (2), [[GitHub Copilot]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[GitHub]] (2), [[GitHub Copilot]] (2)
 > **Tools:** github (4)
 > **CLI Commands:** make (3)
 > **Exercise Files:** source code (2)
@@ -558,8 +550,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What Copilot Chat means for project boilerplate
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980)
+#### [What Copilot Chat means for project boilerplate](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -567,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=7)** Now, if this is the first time we are using a certain technology, it's important to check out the documentation to make sure that we're doing everything correctly.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=17)** If, however, this is something you've done before and you just need a little bit of a boost, Copilot can sometimes help out.
+> **[0:17](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=17)** If, however, this is something you've done before and you just need a little bit of a boost, [[Microsoft Copilot|Copilot]] can sometimes help out.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=26)** Now, I'm going to go ahead and open Copilot Chat.
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=56)** For this particular task, I'm going to choose GPT-4o to power this conversation.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=63)** And I'll say, how would I use my terminal to create a new Python 3 virtual environment called venv?
+> **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=63)** And I'll say, how would I use my terminal to create a new [[Python (Programming Language)|Python]] 3 virtual environment called venv?
 >
 > **[1:32](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=92)** Okay, so it gave me this answer.
 >
@@ -605,13 +596,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=164)** Now I'm going to go ahead and pip install djangorestframework.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=175)** That's one word, always double check.
+> **[2:55](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=175)** That's one [[Microsoft Word|word]], always double check.
 >
 > **[3:01](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=181)** Great, and I'm also told that I can update my pip here, so I'll do that.
 >
 > **[3:11](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=191)** Clear my terminal.
 >
-> **[3:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=193)** And now I'm going to say, how would I start a new Django project
+> **[3:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=193)** And now I'm going to say, how would I start a new [[Django]] project
 >
 > **[3:29](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980&t=209)** called expense calculator?
 >
@@ -669,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (4), [[Django]] (4), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Python (Programming Language)|Python]] (4), [[Django]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), python (4), python3 (3), pip (2), cd (1)
 > **Tools:** terminal (6)
 > **File Paths:** manage.py (3), settings.py (1)
@@ -678,12 +669,11 @@ created: 2026-05-02
 > **Code Identifiers:** expense_calculator (2)
 > **Exercise Files:** boilerplate (2)
 
-#### Brainstorming with Copilot conversational interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980)
+#### [Brainstorming with Copilot conversational interface](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=0)** - [Instructor] So Copilot might save you a little bit of time, and a good way to use this time is extra testing, and, of course, high-level planning.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=0)** - [Instructor] So [[Microsoft Copilot|Copilot]] might save you a little bit of time, and a good way to use this time is extra testing, and, of course, high-level planning.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=10)** High-level planning doesn't quite benefit from a tool like Copilot, but it's extremely essential, and doing good high-level planning and design reviews will help you get the most out of tools like Copilot.
 >
@@ -691,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=33)** This is very, very kind of brief.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=36)** So here we have sort of a client which requests the front-end code, and then it gets it back, and then it queries a RESTful API that then in turns, queries a DB, a database, and then the database returns data that is then returned as JSON to the client.
+> **[0:36](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=36)** So here we have sort of a client which requests the front-end code, and then it gets it back, and then it queries a RESTful API that then in turns, queries a DB, a database, and then the database returns data that is then returned as [[JSON]] to the client.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/brainstorming-with-copilot-conversational-interface?u=76281980&t=56)** Now, you can do so much more than that and you probably should for robust production-grade applications, but this is just so you get the gist of the fact that to get the most out of Copilot, you don't just sit down to code.
 >
@@ -699,16 +689,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), database (2), application (1), front-end (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[JSON]] (1)
 > **Env Vars:** api (1), json (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a data model with Copilot with Code Completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980)
+#### [Creating a data model with Copilot with Code Completion](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=0)** - [Instructor] Let's go ahead and see how Copilot can help us code this project along.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=0)** - [Instructor] Let's go ahead and see how [[Microsoft Copilot|Copilot]] can help us code this project along.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=6)** So we'll open the folder this project is in, which is Expense Calculator.
 >
@@ -724,7 +713,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=57)** Then it actually knows to use DecimalField, which is pretty impressive.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=62)** I know a few seasoned Django developers that would use a flow gear.
+> **[1:02](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=62)** I know a few seasoned [[Django]] developers that would use a flow gear.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=69)** Really impressive for the amount and the date.
 >
@@ -786,7 +775,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=219)** So open new terminal, clear my terminal, and let's do a source venv/bin/ activate + clear, and that gives me the right virtual environment.
 >
-> **[3:52](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=232)** And let's do python manage.py makemigrations.
+> **[3:52](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=232)** And let's do [[Python (Programming Language)|python]] manage.py makemigrations.
 >
 > **[4:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/creating-a-data-model-with-copilot-with-code-completion?u=76281980&t=240)** No changes detected.
 >
@@ -878,7 +867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Python (Programming Language)|Python]] (6), [[Django]] (3), next (3), database (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Python (Programming Language)|Python]] (6), [[Django]] (3)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** terminal (8)
 > **File Paths:** manage.py (6), models.py (1)
@@ -887,8 +876,7 @@ created: 2026-05-02
 > **Code Identifiers:** expense_calculators (1), site_header (1)
 > **Env Vars:** category_choices (1), api (1)
 
-#### Implementing a REST API with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980)
+#### [Implementing a REST API with Copilot](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=9)** Let's create a new file called serializers.py.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=17)** Let's close the navigation tree and go ahead and save this, and let's see what Copilot knows about serializers in general REST framework.
+> **[0:17](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=17)** Let's close the navigation tree and go ahead and save this, and let's see what [[Microsoft Copilot|Copilot]] knows about serializers in general [[Representational State Transfer (REST)|REST]] framework.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=28)** So from rest_framework, that's right, Copilot, import serializers, and the class is ExpenseSerializer.
 >
@@ -960,7 +948,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=249)** So now all that's left really is URLs, which would be saying something like add api url,
 >
-> **[4:21](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=261)** and actually let's do a little routing.
+> **[4:21](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=261)** and actually let's do a little [[Routing]].
 >
 > **[4:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/implementing-a-rest-api-with-copilot?u=76281980&t=263)** So from create a router for expenses,
 >
@@ -1066,7 +1054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[Microsoft Copilot|Copilot]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[Routing]] (1)
 > **Env Vars:** api (8), rest (2), ide (1), rest_framework (1), default_permission_classes (1)
 > **Code Identifiers:** rest_framework (5), allow_any (3)
 > **UI Navigation:** go to (3)
@@ -1075,18 +1063,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Exercise Files:** template (2)
 
-#### Test strategy and implementation with Chat Interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980)
+#### [Test strategy and implementation with Chat Interface](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=0)** - [Instructor] We've written our API, but code that's not tested is broken by design.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=6)** That's been said by Jacob Kaplan-Moss, a famous contributor and one of the earlier founders of the Django Project.
+> **[0:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=6)** That's been said by Jacob Kaplan-Moss, a famous contributor and one of the earlier founders of the [[Django]] Project.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=16)** Let's write some tests.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=18)** It's not always fun to write tests, but Copilot, like I said before, takes a bit of the effort out of it.
+> **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=18)** It's not always fun to write tests, but [[Microsoft Copilot|Copilot]], like I said before, takes a bit of the effort out of it.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=24)** So let's go to tests.py.
 >
@@ -1160,7 +1147,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=214)** One way to find out, and this is not a high risk situation, let's stop the local server.
 >
-> **[3:41](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=221)** Clear the terminal, and say python manage.py test.
+> **[3:41](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=221)** Clear the terminal, and say [[Python (Programming Language)|python]] manage.py test.
 >
 > **[3:48](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/test-strategy-and-implementation-with-chat-interface?u=76281980&t=228)** Okay, so assertEquals, it got a 404 for this test right here.
 >
@@ -1254,7 +1241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Microsoft Copilot|Copilot]] (4), [[Django]] (3), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Django]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (5), python (1), make (1)
 > **Code Identifiers:** django_rest_framework (1), setup (1), bulk_create (1), teardown (1), assertequals (1)
 > **Env Vars:** api (2), crud (1), url (1)
@@ -1268,12 +1255,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where Copilot differs in front-end work
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980)
+#### [Where Copilot differs in front-end work](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980&t=0)** - I have found Copilot to be very useful when it comes to front-end development.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980&t=0)** - I have found [[Microsoft Copilot|Copilot]] to be very useful when it comes to [[Front-End Development]].
 >
 > **[0:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980&t=6)** And here are a few tips that have helped me out along the way.
 >
@@ -1289,28 +1275,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Front-End Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Front-End Development]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
-#### Consuming our API with client-side code
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980)
+#### [Consuming our API with client-side code](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=0)** - [Instructor] In order to keep things in scope for this course, we're going to do all our client side development in a single HTML file.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=0)** - [Instructor] In order to keep things in scope for this course, we're going to do all our client side development in a single [[HTML]] file.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=9)** Now if you're developing a more robust application, you probably want to check out a modern JavaScript framework as well as a good build tool to help you scale up.
+> **[0:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=9)** Now if you're developing a more robust application, you probably want to check out a modern [[JavaScript]] framework as well as a good build tool to help you scale up.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=20)** Now before we get started, go ahead and check out the exercise files for this course just to make sure we're in the same place at this point, they're available on GitHub at the course repository and once you've cloned them, you want to go ahead and check out the branch 04_02 corresponding to this video.
+> **[0:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=20)** Now before we get started, go ahead and check out the exercise files for this course just to make sure we're in the same place at this point, they're available on [[GitHub]] at the course repository and once you've cloned them, you want to go ahead and check out the branch 04_02 corresponding to this video.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=41)** So git checkout 04_02, I've already done that, and you're going to CD into the directory expense calculator.
+> **[0:41](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=41)** So [[Git]] checkout 04_02, I've already done that, and you're going to CD into the directory expense calculator.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=55)** Keep in mind if you ls, there's one directory inside of that with the same name.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=61)** So you want to be in the outer one.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=63)** Now I'm going to clear my terminal and there's a few things to set up as far as Python goes.
+> **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=63)** Now I'm going to clear my terminal and there's a few things to set up as far as [[Python (Programming Language)|Python]] goes.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=69)** You can go ahead and download a version of Python 3 from [python.org](https://python.org) if you don't already have it.
 >
@@ -1356,7 +1341,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=211)** And now I have two things in my API here.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=215)** So now that that's done, let's write some code to consume this API with Copilot.
+> **[3:35](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=215)** So now that that's done, let's write some code to consume this API with [[Microsoft Copilot|Copilot]].
 >
 > **[3:42](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=222)** I've put in some stub methods here and let's see how well Copilot understands what these are supposed to do.
 >
@@ -1368,13 +1353,13 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=249)** I'm just going to start a new line to let Copilot do its magic and looks pretty good.
 >
-> **[4:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=258)** Okay, so we see that it's using the fetch API, I want to accept it and then review it really quickly.
+> **[4:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=258)** Okay, so we see that it's using the [[Fetch]] API, I want to accept it and then review it really quickly.
 >
 > **[4:24](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=264)** So it's using the fetch API, which is native to the browser, if you're using a modern browser, that is.
 >
 > **[4:30](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=270)** Because there are no frameworks here it can use and it's making a get request, which is right to the base URL right here.
 >
-> **[4:38](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=278)** Great. And then it's grabbing the response JSON, excellent.
+> **[4:38](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=278)** Great. And then it's grabbing the response [[JSON]], excellent.
 >
 > **[4:43](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=283)** I think this is just about what we want. Great.
 >
@@ -1428,7 +1413,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=433)** Let's see, it's doing a post request and it's using JSON string of, I can't complain.
 >
-> **[7:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=440)** This is good code so far for, you know, vanilla JavaScript.
+> **[7:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=440)** This is good code so far for, you know, [[Vanilla]] JavaScript.
 >
 > **[7:26](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=446)** I like it. Let's see if it works.
 >
@@ -1440,7 +1425,7 @@ created: 2026-05-02
 >
 > **[8:02](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=482)** Now there's delete expense.
 >
-> **[8:04](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=484)** I'm going to use the word, PK maybe, and because I use PK in the server, primary key and it's doing this great.
+> **[8:04](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=484)** I'm going to use the [[Microsoft Word|word]], PK maybe, and because I use PK in the server, primary key and it's doing this great.
 >
 > **[8:19](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=499)** So let's see if it can do a little bit better.
 >
@@ -1454,7 +1439,7 @@ created: 2026-05-02
 >
 > **[8:50](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=530)** And I do this by creating a little tick and a dollar sign and doing this and putting it in, you know, curly brackets.
 >
-> **[9:01](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=541)** I'm going to delete the rest of this line.
+> **[9:01](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=541)** I'm going to delete the [[Representational State Transfer (REST)|rest]] of this line.
 >
 > **[9:04](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/consuming-our-api-with-client-side-code?u=76281980&t=544)** And this is actually what I wanted, which is great.
 >
@@ -1496,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Python (Programming Language)|Python]] (7), [[Microsoft Copilot|Copilot]] (5), [[HTML]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Copilot|Copilot]] (5), [[HTML]] (2), [[JavaScript]] (2), [[Fetch]] (2)
 > **Env Vars:** api (9), url (4), uri (3), html (2), json (2)
 > **CLI Commands:** python (7), make (2), git (1), cd (1), ls (1)
 > **Tools:** terminal (6), github (1)
@@ -1505,8 +1490,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1), template (1)
 
-#### Presentation logic and HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980)
+#### [Presentation logic and HTML](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,7 +1514,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=66)** This is just us playing around here.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=69)** Probably better to use a framework for this good HTML scaping as well.
+> **[1:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=69)** Probably better to use a framework for this good [[HTML]] scaping as well.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=76)** But for this purpose, this works out for us.
 >
@@ -1548,7 +1532,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=118)** Excellent, so it's doing the US here, and I'm going to do short month, and this is actually great.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=128)** This is a good way to format dates using plain JavaScript, and I'm going to go ahead and substitute this right here and timestampString.
+> **[2:08](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=128)** This is a good way to format dates using plain [[JavaScript]], and I'm going to go ahead and substitute this right here and timestampString.
 >
 > **[2:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=143)** Great.
 >
@@ -1556,7 +1540,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=156)** I'll also tell it to bind the deleteExpense function to the button.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=167)** So it already kind of assumed, you see Copilot, it sort of assumes it knows, and a lot of times it gets it right even in the comments, you know?
+> **[2:47](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=167)** So it already kind of assumed, you see [[Microsoft Copilot|Copilot]], it sort of assumes it knows, and a lot of times it gets it right even in the comments, you know?
 >
 > **[2:57](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=177)** Great, so we createed new table data, a button, an innerText of x, and we have this right here I should do addEventListener.
 >
@@ -1700,11 +1684,11 @@ created: 2026-05-02
 >
 > **[10:16](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=616)** Great, it's adding it.
 >
-> **[10:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=618)** So we have our little glorified to-do list application here that's sort of responsive, and you know, Copilot is no substitute for a good framework for front end development, but as you can see it takes a lot of the work away from vanilla JavaScript, and with a good framework, you can be even more productive.
+> **[10:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/presentation-logic-and-html?u=76281980&t=618)** So we have our little glorified to-do list application here that's sort of responsive, and you know, Copilot is no substitute for a good framework for front end development, but as you can see it takes a lot of the work away from [[Vanilla]] JavaScript, and with a good framework, you can be even more productive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), api (2), [[HTML]] (2), [[JavaScript]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[HTML]] (2), [[JavaScript]] (2), [[Vanilla]] (1)
 > **Code Identifiers:** postexpense (4), renderexpense (3), addeventlistener (3), refreshtable (3), queryselector (3)
 > **Env Vars:** api (2), html (2)
 > **CLI Commands:** make (3)
@@ -1713,8 +1697,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### Styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980)
+#### [Styles](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1722,7 +1705,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=11)** Let's be brave for a minute and comment out Pico and take it out of the application.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=16)** So here I am at index.html, which is in the templates directory, and I'm going to comment out line nine and I'll go ahead and refresh.
+> **[0:16](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=16)** So here I am at index.[[HTML]], which is in the templates directory, and I'm going to comment out line nine and I'll go ahead and refresh.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=28)** And that doesn't look so great, unless you miss this kind of website.
 >
@@ -1748,7 +1731,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=78)** I wonder how that comes out.
 >
-> **[1:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=80)** So I let copilot kind of decide here.
+> **[1:20](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=80)** So I let [[Microsoft Copilot|copilot]] kind of decide here.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/styles?u=76281980&t=84)** Huh, interesting, so that's not half bad.
 >
@@ -1830,19 +1813,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), application (3), css (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[HTML]] (2)
 > **Definitions:** is a  (3)
 > **File Paths:** index.html (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (2)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot Chat Agent Mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980)
+#### [Copilot Chat Agent Mode](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=0)** - In this one, we're going to look at Copilot in agent mode.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=0)** - In this one, we're going to look at [[Microsoft Copilot|Copilot]] in agent mode.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=5)** Now, agent mode gives Copilot way more control over your workflow.
 >
@@ -1860,7 +1842,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=56)** But if you're in a hackathon or if you're just experimenting, it may be the appropriate environment.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=63)** Regardless, make sure that you read the terms of use and privacy statement.
+> **[1:03](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=63)** Regardless, make sure that you read the terms of use and [[Privacy]] statement.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=69)** So once you've downloaded Visual Studio Code Insiders, you can head over to it.
 >
@@ -1910,7 +1892,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=204)** And let's go ahead and try Claude Sonnet preview.
 >
-> **[3:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=208)** And I'm going to say, "Create the API that these tests evaluate using Django Rest Framework."
+> **[3:28](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=208)** And I'm going to say, "Create the API that these tests evaluate using [[Django]] [[Representational State Transfer (REST)|Rest]] Framework."
 >
 > **[3:52](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=232)** And I have to enable Claude Sonnet.
 >
@@ -1930,7 +1912,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=269)** I have a ModelViewSet, which also seems to work.
 >
-> **[4:36](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=276)** And it's offering me to make these changes right here, similar to sort of a Git interface if you have used one before.
+> **[4:36](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=276)** And it's offering me to make these changes right here, similar to sort of a [[Git]] interface if you have used one before.
 >
 > **[4:47](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/copilot-chat-agent-mode?u=76281980&t=287)** So I'm going to accept.
 >
@@ -1960,7 +1942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), api (3), ai (3), [[Privacy]] (2), cd (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Privacy]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Git]] (1)
 > **CLI Commands:** make (6), cd (2), python3 (2), find (1), git (1)
 > **Tools:** visual studio (5), terminal (3), vs code (1)
 > **Env Vars:** api (3), url (1)
@@ -1969,12 +1951,11 @@ created: 2026-05-02
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Analogies:** similar to (1)
 
-#### GitHub Copilot extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-extensions?u=76281980)
+#### [GitHub Copilot extensions](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-extensions?u=76281980&t=0)** - [Instructor] GitHub Copilot extension allow you to extend the capabilities of Copilot, either to deal with specific tools or specific tools within your code base or your code base in general.
+> **[0:00](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-extensions?u=76281980&t=0)** - [Instructor] [[GitHub Copilot]] extension allow you to extend the capabilities of [[Microsoft Copilot|Copilot]], either to deal with specific tools or specific tools within your code base or your code base in general.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-extensions?u=76281980&t=15)** You can build your own extensions, or you can explore extensions to see if there are tools that you commonly use.
 >
@@ -2002,8 +1983,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advance your AI skills with LinkedIn Learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980)
+#### [Advance your AI skills with LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2013,23 +1993,23 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=11)** Now, moving forward, here are a few resources I encourage you to check out in order to keep the learning going.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=18)** If you're interested in a broad look at different generative AI tools, there's my course: [[Introduction To Prompt Engineering For Generative Ai]], that's been taken by nearly a million people at this point.
+> **[0:18](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=18)** If you're interested in a broad look at different [[Generative AI Tools]], there's my course: [[Introduction To [[Prompt Engineering]] For [[Generative AI]]]], that's been taken by nearly a million people at this point.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=33)** Then there's my course: Prompt Engineering for ChatGPT.
+> **[0:33](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=33)** Then there's my course: Prompt Engineering for [[ChatGPT]].
 >
 > **[0:37](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=37)** Chat GPT can be very effective for software developers, so I encourage you to take a look at this course in order to get more out of this tool.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=48)** Finally, there's my course: 8 Git Commands You Should Know.
+> **[0:48](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=48)** Finally, there's my course: 8 [[Git]] Commands You Should Know.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=52)** Now, this course is not related to artificial intelligence, but I find that being proficient with Git has never fallen out of style and has always helped developers out.
+> **[0:52](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=52)** Now, this course is not related to [[Artificial Intelligence (AI)|artificial intelligence]], but I find that being proficient with Git has never fallen out of style and has always helped developers out.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=65)** I also encourage you to follow me on LinkedIn where I regularly post about artificial intelligence and all things tech, and subscribe to my YouTube channel, AI Skill Boost, where I post entertaining videos about AI and related technology.
+> **[1:05](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=65)** I also encourage you to follow me on [[LinkedIn]] where I regularly post about artificial intelligence and all things tech, and subscribe to my YouTube channel, AI Skill Boost, where I post entertaining videos about AI and related technology.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980&t=83)** Thank you very much, and until the next one, always be learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Git]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), game (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Git]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI Tools]] (1), [[Generative AI]] (1)
 > **CLI Commands:** git (2), find (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - this (1)

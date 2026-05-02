@@ -137,8 +137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980)
+#### [Getting started with C++](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,22 +147,21 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980&t=20)** One of the best parts, you won't have to worry about setting up complicated environments.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980&t=26)** All the coding examples are showcased on GitHub Codespaces, an online IDE that runs in your browser, making it hassle-free to start coding right away.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980&t=26)** All the coding examples are showcased on [[GitHub]] [[Codespaces]], an online IDE that runs in your browser, making it hassle-free to start coding right away.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980&t=37)** Hi, I'm Eduardo Corpeno and I want to invite you to take my course, "Complete Guide to C++ Programming Foundations."
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980&t=37)** Hi, I'm Eduardo Corpeno and I want to invite you to take my course, "Complete Guide to C++ [[Programming Foundations]]."
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980&t=46)** So, come join me and let's have fun coding in C++.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Programming Foundations]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Codespaces]] (1), [[Programming Foundations]] (1)
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [eduardo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=19)** Although you don't need an IDE to run your C++ code.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=23)** I will use Visual Studio Code running on GitHub Codespaces.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=23)** I will use Visual Studio Code running on [[GitHub]] [[Codespaces]].
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=27)** This is a cloud-based platform embedded in the GitHub repository, which allows you to easily follow along with the code in your web browser without having to install anything.
 >
@@ -183,13 +181,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=47)** You may want to read the documentation of your development environment for this.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=51)** It's just a Google search away.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=51)** It's just a [[Google]] search away.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=55)** As you advance through the course, you will need to read some parts of the C++ documentation.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=61)** For this, I recommend [cppreference.com](https://cppreference.com), which is a free online reference for C and C++ in the form of a wiki.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=71)** Lastly, we will cover a diverse range of programming concepts, and, although each example is unique, most will follow a consistent theme, which is game development.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=71)** Lastly, we will cover a diverse range of [[Programming Concepts]], and, although each example is unique, most will follow a consistent theme, which is [[Game Development]].
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=83)** This theme was chosen because it is a rich field that utilizes a broad spectrum of programming elements, making it perfect for exploring C++.
 >
@@ -197,11 +195,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=103)** The game development examples serve only as a context to make learning more engaging and relatable.
 >
-> **[1:50](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=110)** Our focus remains purely on learning C++ programming foundations that are applicable across various domains.
+> **[1:50](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/what-you-should-know?u=76281980&t=110)** Our focus remains purely on learning C++ [[Programming Foundations]] that are applicable across various domains.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Game Development]] (3), [[GitHub]] (2), [[Codespaces]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Game Development]] (3), [[GitHub]] (2), [[Codespaces]] (1), [[Google]] (1), [[Programming Concepts]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** github (2), visual studio (1)
 > **CLI Commands:** make (2)
@@ -210,12 +208,11 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Documentation:** the documentation (1)
 
-#### Using the exercise files in GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980)
+#### [Using the exercise files in GitHub Codespaces](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=0)** - [Instructor] Let me show you how to find the exercise files in the GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=0)** - [Instructor] Let me show you how to find the exercise files in the [[GitHub]] repository.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=5)** This is a single branch repository, and you can find the code related to each video under the src folder.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=67)** Under the Local tab, you can clone the repository or download the code in a zip file.
 >
-> **[1:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=73)** However, I want to invite you to try following the exercises using GitHub Codespaces, a cloud-based IDE you may use with this course.
+> **[1:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=73)** However, I want to invite you to try following the exercises using GitHub [[Codespaces]], a cloud-based IDE you may use with this course.
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=83)** Although you may create a codespace on the course repository, it will not allow you to push your changes so they would only be saved inside your codespace.
 >
@@ -307,7 +304,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=308)** Let me show you what I mean.
 >
-> **[5:10](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=310)** Let's add the word bug at the end of line 11 to get a syntax error when I try to build.
+> **[5:10](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=310)** Let's add the [[Microsoft Word|word]] bug at the end of line 11 to get a syntax error when I try to build.
 >
 > **[5:17](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=317)** You can already see red squiggles in the code.
 >
@@ -357,7 +354,7 @@ created: 2026-05-02
 >
 > **[8:17](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=497)** This watch value will change whenever the variables change.
 >
-> **[8:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=502)** So now let's execute the rest of the program with the Continue execution button, and it's done.
+> **[8:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=502)** So now let's execute the [[Representational State Transfer (REST)|rest]] of the program with the Continue execution button, and it's done.
 >
 > **[8:30](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=510)** Lastly, let me show you how to push your changes to your repository.
 >
@@ -391,7 +388,7 @@ created: 2026-05-02
 >
 > **[10:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=600)** There! Your changes have been pushed to your repository.
 >
-> **[10:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=605)** The first time, you may be asked if you want VS Code to run get fetch periodically.
+> **[10:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=605)** The first time, you may be asked if you want VS Code to run get [[Fetch]] periodically.
 >
 > **[10:11](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-the-exercise-files-in-github-codespaces?u=76281980&t=611)** Click Yes, and it will automatically sync with your repo.
 >
@@ -407,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Codespaces]] (3), cloud (2), application (2), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Codespaces]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Tools:** github (5), visual studio (3), terminal (3), vs code (1)
 > **UI Navigation:** click on (7), open the (2), checkbox (1), toggle (1), select the (1)
 > **Env Vars:** ide (2), terminal (1), problems (1), watch (1), source (1)
@@ -416,14 +413,13 @@ created: 2026-05-02
 > **CLI Commands:** find (4)
 > **Versions:** 3.5 (1), 2.5 (1), 9.25 (1), 11.75 (1)
 
-#### Solving challenges in Coderpad
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980)
+#### [Solving challenges in Coderpad](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=0)** - [Instructor] The challenges in this course are hosted by CoderPad and they appear in the same area of the course where you watch the videos.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=9)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=9)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=17)** The code challenge has four main areas.
 >
@@ -493,7 +489,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=231)** However, CoderPad doesn't have a debugger, which you may need to test your code while you are working on it.
 >
-> **[3:58](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=238)** For that reason, we have provided both the starting code and my solution for all challenges in the GitHub repository.
+> **[3:58](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=238)** For that reason, we have provided both the starting code and my solution for all challenges in the [[GitHub]] repository.
 >
 > **[4:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solving-challenges-in-coderpad?u=76281980&t=246)** So you can use the Visual Studio Code debugger.
 >
@@ -537,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (1), [[GitHub]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[GitHub]] (1)
 > **Tools:** github (1), visual studio (1), terminal (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), next video (1)
@@ -550,8 +546,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980)
+#### [About C++](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980&t=5)** Let me tell you a few things about it.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980&t=9)** C++ uses the object-oriented programming paradigm, just like some modern programming languages like Java and Python.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980&t=9)** C++ uses the [[Object-Oriented Programming (OOP)|object-oriented programming]] paradigm, just like some modern programming languages like [[Java]] and [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980&t=19)** C++ was created by computer scientist Bjarne Stroustrup in 1979, and it was released in 1985.
 >
@@ -571,15 +566,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a simple program in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980)
+#### [Creating a simple program in C++](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=79)** Remember, this is case sensitive, so I'll type all lowercase main, and finally comes the parameter list.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=88)** The main function may receive either nothing or a set of strings that come from the command line, just the way you run commands with arguments in the Windows, Mac, OS, or Linux command lines.
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=88)** The main function may receive either nothing or a set of strings that come from the command line, just the way you run commands with arguments in the [[Windows]], Mac, OS, or [[Linux]] command lines.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=102)** For our Hello World, we'll use an empty list of parameters and this list is enclosed by parentheses.
 >
@@ -619,13 +613,13 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=138)** This is a very popular style and you'll see it throughout the course, but you're free to choose whichever you prefer.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=146)** You may want to Google indentation styles for this.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=146)** You may want to [[Google]] indentation styles for this.
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=150)** Another important detail is that C++ code, like most programming languages, would very soon become virtually unreadable by a human if you don't properly indent your code.
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=164)** Most development environments have a feature to help you with this, but you must get used to indenting your code so that any new block of code is indented a fixed number of spaces or a single tab to the right.
 >
-> **[2:59](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=179)** Keep in mind that C++ compilers do not require you to indent your code, unlike Python, which enforces indentation.
+> **[2:59](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=179)** Keep in mind that C++ compilers do not require you to indent your code, unlike [[Python (Programming Language)|Python]], which enforces indentation.
 >
 > **[3:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/creating-a-simple-program-in-c-plus-plus?u=76281980&t=189)** The first line of code will be where we print out our message.
 >
@@ -679,7 +673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Windows]] (1), [[Linux]] (1), [[Google]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (7), short for (2), is called (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** command line (1), terminal (1)
@@ -688,8 +682,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anatomy of a C++ source file
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980)
+#### [Anatomy of a C++ source file](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +714,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=76)** Every C++ program must have a main function, because it is the starting point of the program.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=83)** The word int is the return type, and it means that the function will return an integer value.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=83)** The [[Microsoft Word|word]] int is the return type, and it means that the function will return an integer value.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=91)** This is a requirement for the main function.
 >
@@ -791,7 +784,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=313)** Lastly, let's look at another example with some added complexity.
 >
-> **[5:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=318)** What we have here is a classic command line program that produces an executable, just like the ones you may have used in the Linux or Windows command lines to make new directories, list files, change directories, or manipulate a Git repository.
+> **[5:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=318)** What we have here is a classic command line program that produces an executable, just like the ones you may have used in the [[Linux]] or [[Windows]] command lines to make new directories, list files, change directories, or manipulate a [[Git]] repository.
 >
 > **[5:37](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/anatomy-of-a-c-plus-plus-source-file?u=76281980&t=337)** Look at line three.
 >
@@ -805,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[Linux]] (1), [[Windows]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Linux]] (1), [[Windows]] (1), [[Git]] (1)
 > **Tools:** command line (5), terminal (3)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **CLI Commands:** make (1), git (1)
@@ -813,8 +806,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - a (1)
 
-#### Statements and expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/statements-and-expressions?u=76281980)
+#### [Statements and expressions](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/statements-and-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,14 +849,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/identifiers?u=76281980)
+#### [Identifiers](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/identifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/identifiers?u=76281980&t=0)** - [Instructor] Identifiers are names for variables, functions, types, classes, and so on.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/identifiers?u=76281980&t=7)** These names are limited to letters, digits and underscores, and they cannot be the same as any reserved word in the language.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/identifiers?u=76281980&t=7)** These names are limited to letters, digits and underscores, and they cannot be the same as any reserved [[Microsoft Word|word]] in the language.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/identifiers?u=76281980&t=16)** Let's take a look at the rules for identifiers in C++.
 >
@@ -936,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** playersprite2 (1), my_int (1), camelcase (1), snake_case (1)
 > **Warnings:** be careful (1), note that (1), caution (1)
 > **Analogies:** for example (1), such as (1)
@@ -944,8 +935,7 @@ created: 2026-05-02
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elements of object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980)
+#### [Elements of object-oriented programming](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +943,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=4)** There are actually several differences between the two languages, and we can't assure that one completely contains the other.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=13)** The main difference is that C++ is an object-oriented programming language.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=13)** The main difference is that C++ is an [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=18)** So let's briefly go through some of the basic elements of object-oriented programming.
 >
@@ -1033,18 +1023,17 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=267)** And there's an interesting feature related to inheritance called polymorphism, where the superclass may define some function, but the inherited version of this function is implemented differently among the subclasses, making these sibling classes polymorphic.
 >
-> **[4:48](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=288)** You may be familiar with these elements from other languages like Java or Python, and I'm happy to report that C++ implements all of this and more.
+> **[4:48](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/elements-of-object-oriented-programming?u=76281980&t=288)** You may be familiar with these elements from other languages like [[Java]] or [[Python (Programming Language)|Python]], and I'm happy to report that C++ implements all of this and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), data (4), [[Programming]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terminal interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/terminal-interaction?u=76281980)
+#### [Terminal interaction](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/terminal-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1093,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), prompt (2)
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
@@ -1115,8 +1103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980)
+#### [Basic data types](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1127,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980&t=64)** Pointers are variables that store memory addresses.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980&t=68)** They are a powerful feature of C++ that allows you to work directly with memory and manipulate data structures efficiently.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980&t=68)** They are a powerful feature of C++ that allows you to work directly with memory and manipulate [[Data Structures]] efficiently.
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980&t=79)** As you can see, there is no mention of Strings.
 >
@@ -1156,13 +1143,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integer types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/integer-types?u=76281980)
+#### [Integer types](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/integer-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,15 +1196,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** known as (2), short for (1), is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **File Paths:** stdint.h (1)
 > **Env Vars:** ascii (1)
 > **Speakers:** - [instructor] (1)
 
-#### Floating point types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/floating-point-types?u=76281980)
+#### [Floating point types](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/floating-point-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,14 +1233,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/variables?u=76281980)
+#### [Variables](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/variables?u=76281980&t=0)** - [Instructor] There are a handful of important aspects about variables in C++.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/variables?u=76281980&t=5)** First and foremost, variables are temporary data storage units.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/variables?u=76281980&t=5)** First and foremost, variables are temporary [[Data Storage]] units.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/variables?u=76281980&t=11)** They must be declared prior to being used.
 >
@@ -1300,13 +1283,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-variables?u=76281980)
+#### [Using variables](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1328,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-variables?u=76281980&t=118)** The best programming practices generally recommend avoiding global variables for an extensive variety of reasons.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-variables?u=76281980&t=126)** That's why in the rest of this course, we will stick to local variables as much as possible.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-variables?u=76281980&t=126)** That's why in the [[Representational State Transfer (REST)|rest]] of this course, we will stick to local variables as much as possible.
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-variables?u=76281980&t=132)** Now, let's use those variables.
 >
@@ -1400,7 +1382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **UI Navigation:** go to (2), toggle (1)
 > **Code Identifiers:** my_flag (1)
@@ -1409,8 +1391,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [tutor] (1)
 
-#### Type aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-aliases?u=76281980)
+#### [Type aliases](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,7 +1459,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** highscore (1)
@@ -1486,9 +1466,9 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** known as (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - [instructor] (1)
 
-#### Enumerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/enumerations?u=76281980)
+#### [Enumerations](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/enumerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,7 +1642,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[Programming]] (2), application (2)
 > **Code Identifiers:** asset_value (8), asset_type (7)
 > **Definitions:** is a  (4), known as (3), means that (1), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -1670,9 +1649,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** good practice (1)
+> **Speakers:** - [instructor] (1)
 
-#### Structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/structures?u=76281980)
+#### [Structures](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,15 +1717,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), data (2)
 > **Definitions:** is a  (2), means that (1), short for (1)
 > **Env Vars:** npc (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type casting
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting?u=76281980)
+#### [Type casting](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1856,7 +1833,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), game (1), next (1), power (1)
 > **Code Identifiers:** static_cast (3)
 > **CLI Commands:** make (2)
 > **Versions:** 123.45 (2)
@@ -1864,9 +1840,9 @@ created: 2026-05-02
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** ide (1)
 > **UI Navigation:** go to (1)
+> **Best Practices:** recommended (1)
 
-#### Type casting examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting-examples?u=76281980)
+#### [Type casting examples](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1944,7 +1920,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting-examples?u=76281980&t=249)** You are allowed to declare variables anywhere in the code, as opposed to having to declare them at the beginning of their scope.
 >
-> **[4:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting-examples?u=76281980&t=258)** You may take this for granted if you are used to modern programming languages, like Java or Python, but this wasn't very common back in the 1980s.
+> **[4:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting-examples?u=76281980&t=258)** You may take this for granted if you are used to modern programming languages, like [[Java]] or [[Python (Programming Language)|Python]], but this wasn't very common back in the 1980s.
 >
 > **[4:28](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-casting-examples?u=76281980&t=268)** So, in line 21, I'm printing the floating point number, which is weight.
 >
@@ -2000,7 +1976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Java]] (2), [[Python (Programming Language)|Python]] (2), feature (1), power (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Python (Programming Language)|Python]] (2)
 > **Versions:** 10.99 (3), 9.0 (1), 0.99 (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (3)
@@ -2008,8 +1984,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type inference with auto
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-inference-with-auto?u=76281980)
+#### [Type inference with auto](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-inference-with-auto?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,7 +2052,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-inference-with-auto?u=76281980&t=205)** Please bear with me on this exercise.
 >
-> **[3:27](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-inference-with-auto?u=76281980&t=207)** The typeid operator is implementation-dependent, so it may behave differently if you are using a compiler or IDE other than Visual Studio Code on GitHub Codespaces.
+> **[3:27](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-inference-with-auto?u=76281980&t=207)** The typeid operator is implementation-dependent, so it may behave differently if you are using a compiler or IDE other than Visual Studio Code on [[GitHub]] [[Codespaces]].
 >
 > **[3:41](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/type-inference-with-auto?u=76281980&t=221)** Some implementations show descriptive strings like int64 or double to represent types.
 >
@@ -2087,7 +2062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), next (1), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Codespaces]] (1)
 > **Tools:** visual studio (1), github (1)
 > **Code Identifiers:** is_active (1)
 > **Env Vars:** ide (1)
@@ -2095,8 +2070,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-data-types?u=76281980)
+#### [Solution: Data types](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2130,8 +2104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expressions and assignments
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/expressions-and-assignments?u=76281980)
+#### [Expressions and assignments](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/expressions-and-assignments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2159,13 +2132,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/operators?u=76281980)
+#### [Operators](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2229,14 +2200,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Warnings:** be careful (2), common mistake (1)
 > **Cross-References:** later in (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Increment and decrement operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/increment-and-decrement-operators?u=76281980)
+#### [Increment and decrement operators](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/increment-and-decrement-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2256,7 +2225,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/increment-and-decrement-operators?u=76281980&t=48)** Let me explain.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/increment-and-decrement-operators?u=76281980&t=50)** The increment and decrement operators can be used in two forms, Prefix and Postfix.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/increment-and-decrement-operators?u=76281980&t=50)** The increment and decrement operators can be used in two [[Forms]], Prefix and Postfix.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/increment-and-decrement-operators?u=76281980&t=57)** The prefix form updates the value before it is used in the expression while the postfix form updates the value after it's used.
 >
@@ -2296,14 +2265,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), game (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Code Identifiers:** player_lives (6), player_score (5)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Compound assignment operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/compound-assignment-operators?u=76281980)
+#### [Compound assignment operators](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/compound-assignment-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2369,12 +2337,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preprocessor directives
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/preprocessor-directives?u=76281980)
+#### [Preprocessor directives](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/preprocessor-directives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2498,7 +2464,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/preprocessor-directives?u=76281980&t=367)** Let me do that in line 14.
 >
-> **[6:16](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/preprocessor-directives?u=76281980&t=376)** The block ends with the #endif directive, and the block will be a single line where I print the message: DEBUG, Starting game simulation.
+> **[6:16](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/preprocessor-directives?u=76281980&t=376)** The block ends with the #endif directive, and the block will be a single line where I print the message: DEBUG, Starting game [[Simulation]].
 >
 > **[6:37](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/preprocessor-directives?u=76281980&t=397)** So what line 14 says is, if the DEBUG macro is defined, then include the following block of code.
 >
@@ -2528,7 +2494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Programming]] (1), [[Debugging]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Env Vars:** max_ammo (4), debug (3)
 > **Code Identifiers:** health_items (5)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -2537,8 +2503,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/constants?u=76281980)
+#### [Constants](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2592,7 +2557,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **Env Vars:** player (1), count (1)
 > **Warnings:** be aware (1), warning (1)
@@ -2600,9 +2564,9 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 > **Best Practices:** bad practice (1)
+> **Prerequisites:** initialization (1)
 
-#### Solution: Calculate an average
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-calculate-an-average?u=76281980)
+#### [Solution: Calculate an average](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-calculate-an-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2642,8 +2606,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/arrays?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2801,7 +2764,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), game (2), next (1), [[Debugging]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Versions:** 1.0 (1), 3.5 (1), 6.0 (1), 10.5 (1)
 > **Env Vars:** level_count (3)
@@ -2809,9 +2771,9 @@ created: 2026-05-02
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** recommended (1)
+> **Speakers:** - [eduardo] (1)
 
-#### Pointers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/pointers?u=76281980)
+#### [Pointers](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/pointers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2889,7 +2851,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/pointers?u=76281980&t=293)** It is used to indicate that a pointer does not point to any valid memory location.
 >
-> **[4:59](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/pointers?u=76281980&t=299)** The rest of the code assumes that ptr points to a.
+> **[4:59](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/pointers?u=76281980&t=299)** The [[Representational State Transfer (REST)|rest]] of the code assumes that ptr points to a.
 >
 > **[5:04](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/pointers?u=76281980&t=304)** So starting at line 14, we are using ptr as a placeholder to print a series of messages with the following information: the value of a, the address ptr is pointing to, the address of a, the content of the memory location where ptr is pointing, and the address of ptr.
 >
@@ -2947,7 +2909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (1), management (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** null (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Best Practices:** recommended (1), remember to (1)
@@ -2956,8 +2918,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### How arrays and pointers are related
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/how-arrays-and-pointers-are-related?u=76281980)
+#### [How arrays and pointers are related](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/how-arrays-and-pointers-are-related?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3041,19 +3002,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), game (1)
 > **Code Identifiers:** highscores (4), scoreptr (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using objects with pointers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980)
+#### [Using objects with pointers](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=0)** - [Lecturer] The previous example may have shown you how pointers work, but pointing to existing variables in memory isn't particularly useful.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=9)** One of the most important applications of pointers is dynamic memory management.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=9)** One of the most important applications of pointers is dynamic [[Memory Management]].
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=15)** When you declare a regular variable, you are statically allocating memory for it.
 >
@@ -3071,7 +3030,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=76)** Let me illustrate this with a program that implements a basic starting point for the reflex game.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=83)** This is a game where users have to type a specific word as quickly as possible, and the game will report how long it took them.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=83)** This is a game where users have to type a specific [[Microsoft Word|word]] as quickly as possible, and the game will report how long it took them.
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=92)** In line seven, I'm including the chrono library, which contains classes to keep track of time.
 >
@@ -3085,7 +3044,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=132)** And in line 12, we see the Duration class using the double type between angle brackets.
 >
-> **[2:20](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=140)** This angle bracket notation is part of the generic programming paradigm implemented by templates in C++ because both the TimePoint and Duration classes happen to be class templates.
+> **[2:20](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=140)** This angle bracket notation is part of the [[Generic Programming]] paradigm implemented by templates in C++ because both the TimePoint and Duration classes happen to be class templates.
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-pointers?u=76281980&t=154)** But don't worry, we'll cover templates and generic programming later when we get to the C++ standard template library.
 >
@@ -3221,7 +3180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[Memory Management]] (2), [[Microsoft Word|Word]] (2), [[Generic Programming]] (2), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (2), [[Microsoft Word|Word]] (2), [[Generic Programming]] (2)
 > **Definitions:** known as (2), is a  (2), short for (1), is an  (1), means that (1)
 > **Code Identifiers:** elapsed_seconds (6)
 > **Non-Speech:** (mouse clicking) (3)
@@ -3230,8 +3189,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### The vector class
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-vector-class?u=76281980)
+#### [The vector class](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-vector-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3257,7 +3215,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-vector-class?u=76281980&t=63)** Vectors are a part of the C++ standard template library.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-vector-class?u=76281980&t=68)** This is a special set of containers, functions and algorithms included in the C++ standard library as part of the generic programming style.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-vector-class?u=76281980&t=68)** This is a special set of containers, functions and [[Algorithms]] included in the C++ standard library as part of the [[Generic Programming]] style.
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-vector-class?u=76281980&t=80)** Let me show you an SDL vector in an example to manage the names of the many checkpoints in a video game.
 >
@@ -3317,7 +3275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), game (2), generic (1), [[Algorithms]] (1), [[Generic Programming]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Generic Programming]] (1)
 > **Definitions:** means that (4), is a  (3)
 > **Env Vars:** sdl (2)
 > **Exercise Files:** template (2)
@@ -3326,8 +3284,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using objects with vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-vectors?u=76281980)
+#### [Using objects with vectors](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-objects-with-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3435,7 +3392,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **Versions:** 3.5 (1), 2.1 (1), 5.3 (1), 8.9 (1)
 > **Env Vars:** sdl (1), std (1)
 > **CLI Commands:** make (1)
@@ -3443,9 +3399,9 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
+> **Speakers:** - [tutor] (1)
 
-#### References
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/references?u=76281980)
+#### [References](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3537,7 +3493,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Programming]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (4)
 > **Code Identifiers:** my_ref (1), my_int (1)
@@ -3546,8 +3501,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### C strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980)
+#### [C strings](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3565,7 +3519,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=40)** Partly my goal is to convince you to use the string class rather than character arrays, because, well, the string class is the intended way of handling strings in C++.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=52)** So please bear with me, and if you don't like what you see, you may rest assured that there is a better alternative.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=52)** So please bear with me, and if you don't like what you see, you may [[Representational State Transfer (REST)|rest]] assured that there is a better alternative.
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=60)** In this example, I started by including the cstring header in line six, which provides us with functions to manipulate C strings.
 >
@@ -3687,7 +3641,7 @@ created: 2026-05-02
 >
 > **[8:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=493)** Different IDEs enforce different variants of these functions.
 >
-> **[8:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=498)** For example, Visual Studio Code in GitHub Codespaces allows me to use the strncat function, but Visual Studio for Windows enforces the use of an alternative implementation called strcat_s.
+> **[8:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=498)** For example, Visual Studio Code in [[GitHub]] [[Codespaces]] allows me to use the strncat function, but Visual Studio for [[Windows]] enforces the use of an alternative implementation called strcat_s.
 >
 > **[8:34](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=514)** It all depends on your standard library distribution.
 >
@@ -3729,13 +3683,13 @@ created: 2026-05-02
 >
 > **[10:57](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=657)** That's it.
 >
-> **[10:58](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=658)** C strings are very basic and their management can be tiresome and dangerous, but it's important to understand that this is only one of the implications of working with a programming language that's so close to the hardware.
+> **[10:58](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=658)** C strings are very basic and their management can be tiresome and dangerous, but it's important to understand that this is only one of the implications of working with a programming language that's so close to the [[Hardware]].
 >
 > **[11:12](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/c-strings?u=76281980&t=672)** I'm talking about C, not C++.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Codespaces]] (1), [[Windows]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (4), means that (1), is called (1), in other words (1), is an  (1)
 > **Code Identifiers:** raceresult (5)
 > **CLI Commands:** make (3)
@@ -3744,8 +3698,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **Best Practices:** good practice (1)
 
-#### The string class
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-string-class?u=76281980)
+#### [The string class](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-string-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3803,7 +3756,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-string-class?u=76281980&t=208)** As you can see, the output is the same as before, but the code is simpler and safer.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-string-class?u=76281980&t=214)** The string class automatically handles memory management preventing buffer overflows that can occur with cstrings.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-string-class?u=76281980&t=214)** The string class automatically handles [[Memory Management]] preventing buffer overflows that can occur with cstrings.
 >
 > **[3:42](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/the-string-class?u=76281980&t=222)** So that's it.
 >
@@ -3819,7 +3772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), game (1), next (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is a  (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
@@ -3827,8 +3780,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Vector manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-vector-manipulation?u=76281980)
+#### [Solution: Vector manipulation](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-vector-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3884,8 +3836,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980)
+#### [If statements](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4001,11 +3952,11 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=387)** There is no else path, so only when the condition is true, we will execute line 23.
 >
-> **[6:33](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=393)** Printing the word not in the middle of the sentence.
+> **[6:33](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=393)** Printing the [[Microsoft Word|word]] not in the middle of the sentence.
 >
 > **[6:37](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=397)** Then line 24 is unconditional, so it will always be printed.
 >
-> **[6:42](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=402)** However, none of this behavior happens because of the indentation as you would expect if you were writing this code in Python.
+> **[6:42](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=402)** However, none of this behavior happens because of the indentation as you would expect if you were writing this code in [[Python (Programming Language)|Python]].
 >
 > **[6:50](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980&t=410)** This is C++.
 >
@@ -4037,7 +3988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (1)
@@ -4045,8 +3996,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/switch-statements?u=76281980)
+#### [Switch statements](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/switch-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4074,7 +4024,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/switch-statements?u=76281980&t=69)** Next, the code block inside the switch statement is very particular and it always requires curly brackets.
 >
-> **[1:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/switch-statements?u=76281980&t=78)** Inside we will list every case we want to react to.
+> **[1:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/switch-statements?u=76281980&t=78)** Inside we will list every case we want to [[React.js|react]] to.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/switch-statements?u=76281980&t=82)** We do this with the case keyword, followed by a constant of interest and a colon.
 >
@@ -4110,13 +4060,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/while-loops?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4124,7 +4073,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/while-loops?u=76281980&t=2)** The simplest loop in C++ is the while loop.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/while-loops?u=76281980&t=6)** It has two forms.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/while-loops?u=76281980&t=6)** It has two [[Forms]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/while-loops?u=76281980&t=8)** While which evaluates a condition prior to iterating and do while, which always runs the first iteration and then evaluates the condition at the end of the loop body.
 >
@@ -4204,7 +4153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Code Identifiers:** playerscores (3), scoreptr (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -4212,8 +4161,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traditional for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/traditional-for-loops?u=76281980)
+#### [Traditional for loops](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/traditional-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4286,8 +4234,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ranged for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/ranged-for-loops?u=76281980)
+#### [Ranged for loops](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/ranged-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4340,8 +4287,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Calculate resource cost
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-calculate-resource-cost?u=76281980)
+#### [Solution: Calculate resource cost](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-calculate-resource-cost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4383,8 +4329,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980)
+#### [Overview of functions](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4406,7 +4351,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980&t=42)** Parameters, on the other hand, are the variables in the function that take the values of their arguments.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980&t=49)** Also, functions may be global or they may be members of a class, which is the same we call methods in Java and Python.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980&t=49)** Also, functions may be global or they may be members of a class, which is the same we call methods in [[Java]] and [[Python (Programming Language)|Python]].
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980&t=59)** Let's break down the anatomy of a function.
 >
@@ -4494,7 +4439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** timetaken (2), calculatedistance2d (2), calculatescore (1)
 > **Definitions:** is called (3), means that (1), is a  (1)
 > **CLI Commands:** python (1), find (1)
@@ -4502,8 +4447,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passing values to a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/passing-values-to-a-function?u=76281980)
+#### [Passing values to a function](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/passing-values-to-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4629,15 +4573,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), power (1)
 > **Definitions:** means that (2), is an  (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning values from a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/returning-values-from-a-function?u=76281980)
+#### [Returning values from a function](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/returning-values-from-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4705,7 +4647,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** topscorer (3), calculatehighscore (1), createweapon (1), findtopscorer (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
@@ -4713,8 +4654,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/writing-functions?u=76281980)
+#### [Writing functions](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/writing-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4864,7 +4804,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** getplayername (3), calculatescore (3), displayscore (2), basescore (1)
 > **Definitions:** is a  (2), is an  (1), means that (1), is called (1), refers to (1)
 > **CLI Commands:** make (2)
@@ -4872,9 +4811,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (keyboard keys clicking) (1)
 
-#### Overloading functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overloading-functions?u=76281980)
+#### [Overloading functions](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overloading-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4900,7 +4839,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overloading-functions?u=76281980&t=65)** Let's go back to the code.
 >
-> **[1:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overloading-functions?u=76281980&t=69)** Once again, we will approach the rest of this exercise in a top-down fashion where we start by calling the functions we want in the main function as if they were already implemented.
+> **[1:09](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overloading-functions?u=76281980&t=69)** Once again, we will approach the [[Representational State Transfer (REST)|rest]] of this exercise in a top-down fashion where we start by calling the functions we want in the main function as if they were already implemented.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overloading-functions?u=76281980&t=81)** This approach allows us to focus on how the functions will be used, ensuring they meet our needs before we even write them.
 >
@@ -5016,8 +4955,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculate rhythm game scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/challenge-calculate-rhythm-game-scores?u=76281980)
+#### [Challenge: Calculate rhythm game scores](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/challenge-calculate-rhythm-game-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5053,7 +4991,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), game (1)
 > **Versions:** 1.0 (1), 1.5 (1), 87.5 (1)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -5063,8 +5000,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-classes-and-objects?u=76281980)
+#### [Overview of classes and objects](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-classes-and-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5142,7 +5078,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Analogies:** for example (2), similar to (1), for instance (1), such as (1)
 > **Prerequisites:** before we start (1), set up (1)
 > **Exercise Files:** template (1)
@@ -5150,8 +5085,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data members
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/data-members?u=76281980)
+#### [Data members](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/data-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5175,7 +5109,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/data-members?u=76281980&t=58)** So, I'll use curly brackets to define everything inside.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/data-members?u=76281980&t=63)** Classes offer all the elements of object-oriented programming, and we should take advantage of those elements.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/data-members?u=76281980&t=63)** Classes offer all the elements of [[Object-Oriented Programming (OOP)|object-oriented programming]], and we should take advantage of those elements.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/data-members?u=76281980&t=70)** So let me start by applying a feature of encapsulation, which is hiding the data from the outside world.
 >
@@ -5205,13 +5139,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Function members
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/function-members?u=76281980)
+#### [Function members](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/function-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5219,7 +5152,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/function-members?u=76281980&t=5)** This includes being able to access the items and capacity from outside the class as these members are private.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/function-members?u=76281980&t=13)** For this, it's important to note that there are two forms of data access you may want to perform in the external code that uses the class.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/function-members?u=76281980&t=13)** For this, it's important to note that there are two [[Forms]] of data access you may want to perform in the external code that uses the class.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/function-members?u=76281980&t=22)** First, when we assign values, we are writing into the data members.
 >
@@ -5335,7 +5268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Search]] (2), [[Forms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Non-Speech:** (typing loudly) (8)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (1), make (1)
@@ -5344,8 +5277,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Constructors and destructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/constructors-and-destructors?u=76281980)
+#### [Constructors and destructors](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/constructors-and-destructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5457,15 +5389,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), functional (1)
 > **Definitions:** known as (2), is called (2), is a  (2), we call this (1)
 > **Prerequisites:** initialization (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** tld (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-classes?u=76281980)
+#### [Using classes](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/using-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5513,11 +5443,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Speakers:** - [instructor] (1)
 
-#### Header and implementation files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/header-and-implementation-files?u=76281980)
+#### [Header and implementation files](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/header-and-implementation-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5527,7 +5455,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/header-and-implementation-files?u=76281980&t=11)** This process is performed by a compiler tool chain, which is a pipeline of software tools your code goes through to ultimately produce that executable file.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/header-and-implementation-files?u=76281980&t=22)** To illustrate how a compiler works, I want to show you three different forms of inputs you may feed to the compiler tool chain in a single software development project.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/header-and-implementation-files?u=76281980&t=22)** To illustrate how a compiler works, I want to show you three different [[Forms]] of inputs you may feed to the compiler tool chain in a single [[Software Development]] project.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/header-and-implementation-files?u=76281980&t=33)** The first case is when you write your C++ source files.
 >
@@ -5606,8 +5534,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
 
-#### Working with several source files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-several-source-files?u=76281980)
+#### [Working with several source files](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-several-source-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5637,7 +5564,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-several-source-files?u=76281980&t=78)** The action of creating this CPP file is not what will included in the list of files to be compiled.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-several-source-files?u=76281980&t=86)** This file will be compiled because that's how the tasks.json file is configured.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-several-source-files?u=76281980&t=86)** This file will be compiled because that's how the tasks.[[JSON]] file is configured.
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-several-source-files?u=76281980&t=92)** Let me show you.
 >
@@ -5735,7 +5662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), application (2), hit (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **File Paths:** inventory.h (5), inventory.cpp (3), codedemo.cpp (2), tasks.json (1), task.json (1)
 > **Tools:** vs code (3), visual studio (2), command line (1)
 > **Env Vars:** cpp (2), ide (1), json (1)
@@ -5744,8 +5671,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **Best Practices:** bad practice (1)
 
-#### Operator overload
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/operator-overload?u=76281980)
+#### [Operator overload](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/operator-overload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5826,12 +5752,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a person class
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-create-a-person-class?u=76281980)
+#### [Solution: Create a person class](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-create-a-person-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-create-a-person-class?u=76281980&t=0)** - [Instructor] For this challenge, your task was to create a class to simulate three attributes of a person in a simulation game, along with three activities that modify these attributes.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-create-a-person-class?u=76281980&t=0)** - [Instructor] For this challenge, your task was to create a class to simulate three attributes of a person in a [[Simulation]] game, along with three activities that modify these attributes.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-create-a-person-class?u=76281980&t=18)** In the test code area, we have the variable initializations to reproduce example number one in the instructions.
 >
@@ -5877,7 +5802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (1), game (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -5890,12 +5815,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980)
+#### [Understanding templates](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=0)** - [Instructor] Generic programming is a programming paradigm in which data types are not specified when functions or other reusable pieces of code are written.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=0)** - [Instructor] [[Generic Programming]] is a programming paradigm in which data types are not specified when functions or other reusable pieces of code are written.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=10)** Instead, data types are specified in the lines of code that instantiate or otherwise use set pieces of reusable code.
 >
@@ -5909,7 +5833,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=64)** Now, C++ enables generic programming by means of special constructs called templates.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=70)** Most programming languages use other names for generic types, but I personally like the term template because that's what it is, a template, just like a template you may have used to create a slideshow presentation or a word processor document.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=70)** Most programming languages use other names for generic types, but I personally like the term template because that's what it is, a template, just like a template you may have used to create a slideshow presentation or a [[Microsoft Word|word]] processor document.
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980&t=87)** Well, a C++ template is the same thing, but for pieces of code.
 >
@@ -5947,15 +5871,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generic Programming]] (3), [[Programming]] (3), application (1), generic (1)
+> **Frameworks & Libraries:** [[Generic Programming]] (3), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (8)
 > **Code Identifiers:** size_in_bits (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Template functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/template-functions?u=76281980)
+#### [Template functions](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/template-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6011,14 +5934,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Exercise Files:** template (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Template classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/template-classes?u=76281980)
+#### [Template classes](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/template-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6076,22 +5997,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), data (3), power (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of the STL
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980)
+#### [Overview of the STL](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980&t=0)** - [Instructor] Now, let me tell you about the C++ Standard Template Library, or STL.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980&t=6)** It's a powerful set of template classes and functions that provide standardized ways to manage data structures and algorithms.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980&t=6)** It's a powerful set of template classes and functions that provide standardized ways to manage [[Data Structures]] and [[Algorithms]].
 >
-> **[0:15](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980&t=15)** It implements a generic programming approach, which means that the code is written in a type-independent way.
+> **[0:15](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980&t=15)** It implements a [[Generic Programming]] approach, which means that the code is written in a type-independent way.
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-the-stl?u=76281980&t=22)** The STL was originally developed by computer scientist Alexander Stepanov in 1994.
 >
@@ -6127,7 +6046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (4), [[Generic Programming]] (2), [[Search]] (1), functional (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (3), [[Generic Programming]] (2)
 > **Env Vars:** stl (5)
 > **Exercise Files:** template (3)
 > **Definitions:** means that (1), is a  (1), is called (1)
@@ -6135,8 +6054,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queues and stacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/queues-and-stacks?u=76281980)
+#### [Queues and stacks](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/queues-and-stacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6222,7 +6140,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), data (2)
 > **Env Vars:** lifo (4), stl (1), fifo (1)
 > **Definitions:** is a  (2), short for (2), means that (1)
 > **Code Identifiers:** eventqueue (1), currentevent (1)
@@ -6230,8 +6147,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [speaker] (1)
 
-#### Advanced concepts: Iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-iterators?u=76281980)
+#### [Advanced concepts: Iterators](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6333,7 +6249,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (1), next (1)
 > **Env Vars:** sdl (5)
 > **Analogies:** such as (2), similar to (1), imagine (1)
 > **Definitions:** defined as (1), is a  (1), is an  (1)
@@ -6342,12 +6257,11 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced concepts: Algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980)
+#### [Advanced concepts: Algorithms](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=0)** - [Instructor] Now let's look at some of the most popular algorithms in the C++ STL.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=0)** - [Instructor] Now let's look at some of the most popular [[Algorithms]] in the C++ STL.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=6)** These algorithms operate on a wide range of containers and simplify many common operations.
 >
@@ -6355,7 +6269,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=18)** In the main function, we have a vector of strings that is acting as a very basic inventory with the items you see in line 12.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=28)** The rest of the code is an exercise in the form of fill in the blanks, as you can see in the comments in lines 15, 22, and 28.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=28)** The [[Representational State Transfer (REST)|rest]] of the code is an exercise in the form of fill in the blanks, as you can see in the comments in lines 15, 22, and 28.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/advanced-concepts-algorithms?u=76281980&t=40)** In short, the program will first sort the vector alphabetically and print it on the terminal.
 >
@@ -6409,7 +6323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** stl (3), std (1)
 > **Tools:** terminal (3)
@@ -6417,8 +6331,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Virtual pet schedule
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-virtual-pet-schedule?u=76281980)
+#### [Solution: Virtual pet schedule](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-virtual-pet-schedule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6434,7 +6347,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-virtual-pet-schedule?u=76281980&t=47)** That's what op.first is, an operation enumerator.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-virtual-pet-schedule?u=76281980&t=53)** The rest is very straightforward.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-virtual-pet-schedule?u=76281980&t=53)** The [[Representational State Transfer (REST)|rest]] is very straightforward.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/solution-virtual-pet-schedule?u=76281980&t=56)** For the add operations, we use the push_front or push_back functions on the schedule to insert the second element in the pair, which is another pair with the schedule entry.
 >
@@ -6454,7 +6367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** initialactivities (1), push_front (1), push_back (1)
 > **Non-Speech:** (upbeat intro music) (1), (music ends) (1)
 > **Analogies:** for example (1)
@@ -6465,8 +6378,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980)
+#### [Working with files](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6500,7 +6412,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980&t=97)** Unlike using the extraction operator on cin which reads input only up to the next white space, getline() reads entire lines, including any spaces within them.
 >
-> **[1:49](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980&t=109)** This makes getline() useful when you need to read multi-word strings or full sentences from a file or cin.
+> **[1:49](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980&t=109)** This makes getline() useful when you need to read multi-[[Microsoft Word|word]] strings or full sentences from a file or cin.
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980&t=117)** Writing to a file is done using the insertion operator, similar to how you print output to the console.
 >
@@ -6518,15 +6430,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** stands for (2), is a  (1)
 > **Analogies:** similar to (2), for example (1)
 > **Code Identifiers:** is_open (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Opening a text file for reading
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/opening-a-text-file-for-reading?u=76281980)
+#### [Opening a text file for reading](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/opening-a-text-file-for-reading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6630,7 +6541,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), game (2), data (1)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Code Identifiers:** infile (3)
 > **CLI Commands:** find (2)
@@ -6638,9 +6548,9 @@ created: 2026-05-02
 > **File Paths:** players.txt (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
+> **Exercise Files:** exercise file (1)
 
-#### Opening a text file for writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/opening-a-text-file-for-writing?u=76281980)
+#### [Opening a text file for writing](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/opening-a-text-file-for-writing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6686,7 +6596,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Code Identifiers:** outfile (2)
 > **UI Navigation:** open the (2)
 > **File Paths:** calculations.txt (1)
@@ -6697,8 +6606,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6712,7 +6620,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980&t=20)** If you're ready to put your skills to the test, consider taking my course, Level Up: C++, where you'll find a collection of programming challenges designed to sharpen your abilities.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980&t=32)** Or, if you are interested in artificial intelligence, my course, Training Neural Networks in C++, might be just what you need to see how this language can be applied to machine learning.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980&t=32)** Or, if you are interested in [[Artificial Intelligence (AI)|artificial intelligence]], my course, Training [[Neural Networks]] in C++, might be just what you need to see how this language can be applied to machine learning.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980&t=45)** Don't forget to explore [cppreference.com](https://cppreference.com) to deepen your understanding of the language and keep up with the latest and modern C++ practices.
 >
@@ -6726,7 +6634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [cppreference.com](https://cppreference.com) (1)
 > **Definitions:** is a  (1)

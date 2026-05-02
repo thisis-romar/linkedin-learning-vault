@@ -70,18 +70,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extract meaning from data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980)
+#### [Extract meaning from data](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=0)** - [Ben] Hi, I'm Ben Sullins, and I've been a data geek for nearly 20 years now, working to extract meaning from data and help organizations improve their decision-making.
+> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=0)** - [Ben] Hi, I'm Ben Sullins, and I've been a data geek for nearly 20 years now, working to extract meaning from data and help organizations improve their [[Decision-Making]].
 >
-> **[0:09](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=9)** The most universal way I've experienced is with the database language SQL.
+> **[0:09](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=9)** The most universal way I've experienced is with the database language [[SQL]].
 >
-> **[0:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=15)** In this course, I'm going to share with you answers to the most common data science and analytics questions that you'll receive, such as how to find the top products per category, how to find active employee counts by month, how to calculate a six-week rolling average of sales.
+> **[0:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=15)** In this course, I'm going to share with you answers to the most common [[Data Science]] and analytics questions that you'll receive, such as how to find the top [[Microsoft Products|products]] per category, how to find active employee counts by month, how to calculate a six-week rolling average of sales.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=31)** I'll start by showing you how to retrieve data from a database using SQL Server and AdventureWorks 2014 Data Warehouse, then show you how to aggregate, join, and filter your results to create context for your analysis.
+> **[0:31](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=31)** I'll start by showing you how to retrieve data from a database using [[Microsoft SQL Server|SQL Server]] and AdventureWorks 2014 Data Warehouse, then show you how to aggregate, join, and filter your results to create context for your analysis.
 >
 > **[0:46](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980&t=46)** We'll see how to answer more complex questions with ranking, moving averages, and window functions.
 >
@@ -93,20 +92,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (2), [[SQL]] (2), [[Decision-Making]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Decision-Making]] (1), [[Data Science]] (1), [[Microsoft Products|Products]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [ben] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=0)** - [Instructor] For this course, you're going to need SQL Server and you can use any version and you need 2014 or newer.
+> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=0)** - [Instructor] For this course, you're going to need [[Microsoft SQL Server|SQL Server]] and you can use any version and you need 2014 or newer.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=7)** So have that installed either on your machine or a server that you can access, it all works, then AdventureWorks 2014 DW, which you can download from Microsoft's website, will need to be restored onto your system.
+> **[0:07](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=7)** So have that installed either on your machine or a server that you can access, it all works, then AdventureWorks 2014 DW, which you can download from [[Microsoft]]'s website, will need to be restored onto your system.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=19)** That's the database we're going to use to run our queries against and actually do our analysis.
 >
@@ -118,22 +116,21 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=32)** In terms of skills, there aren't any real prerequisites for this course.
 >
-> **[0:35](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=35)** In the beginning, we're going to take a look at some things that if you're more seasoned, they're probably a bit beginner for you, but if you're newer, these are going to be great ways to skill up and actually develop this new talent in SQL.
+> **[0:35](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=35)** In the beginning, we're going to take a look at some things that if you're more seasoned, they're probably a bit beginner for you, but if you're newer, these are going to be great ways to skill up and actually develop this new talent in [[SQL]].
 >
 > **[0:46](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/what-you-should-know-before-watching-this-course-14429281?u=76281980&t=46)** As we get further along in this series, things are going to become a little bit more complex and sophisticated, which is really where a lot of the value is going to come from answering those complex analytical questions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1), database (1), management (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1), [[SQL]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/using-the-exercise-files-14428320?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/using-the-exercise-files-14428320?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/using-the-exercise-files-14428320?u=76281980&t=0)** - [Narrator] This course comes with a series of exercise files, and each exercise file is a SQL file that has all the code that we're actually going to go through.
+> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/using-the-exercise-files-14428320?u=76281980&t=0)** - [Narrator] This course comes with a series of exercise files, and each exercise file is a [[SQL]] file that has all the code that we're actually going to go through.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/using-the-exercise-files-14428320?u=76281980&t=8)** The SQL files are commented, so whether or not you watch the full video or forget what happened, you can refer back to the file and have good commenting and understanding of what's happening and what we're trying to do.
 >
@@ -153,26 +150,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Retrieve data using SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980)
+#### [Retrieve data using SQL](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=0)** - [Instructor] So let's talk about retrieving data from a database now.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=3)** First, I want to introduce you to the concept of SQL, and we're going to go through what SQL is.
+> **[0:03](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=3)** First, I want to introduce you to the concept of [[SQL]], and we're going to go through what SQL is.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=9)** Then we'll try to understand why we would use SQL.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=11)** And lastly, I'll show you how to use it in actually retrieving data from a database.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=15)** A SQL stands for structured query language, and it's the most universal of all programming languages, and one of the few that has a standard syntax that all databases support.
+> **[0:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=15)** A SQL stands for structured query language, and it's the most universal of all programming languages, and one of the few that has a standard syntax that all [[Databases]] support.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=25)** This language was designed as if it were to be read as English.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=29)** And over the years, it has evolved into a complex, and expressive language that allows you to manipulate, transform, analyze, and even update or delete data in your database.
 >
-> **[0:40](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=40)** This language is supported by virtually all databases, even newer big data systems known as NoSQL databases.
+> **[0:40](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=40)** This language is supported by virtually all databases, even newer [[Big Data]] systems known as [[NoSQL]] databases.
 >
 > **[0:46](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=46)** NoSQL actually stands for not only SQL, which is a big misconception in the industry right now.
 >
@@ -194,11 +190,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=81)** Let's say you want to normalize values in a column to all be the full state name instead of an abbreviation.
 >
-> **[1:27](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=87)** Or maybe you want to replace a blank or null value with a word like unknown, SQL allows you to actually change these values to better conform to the types of questions that you're seeking answers to.
+> **[1:27](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=87)** Or maybe you want to replace a blank or null value with a [[Microsoft Word|word]] like unknown, SQL allows you to actually change these values to better conform to the types of questions that you're seeking answers to.
 >
 > **[1:37](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=97)** Since its creation in the 1970s, SQL has evolved to allow analysts and scientists to get answers to questions that are incredibly complex and sophisticated.
 >
-> **[1:46](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=106)** One of the advantages of using SQL for these questions is that it runs the code on the database server itself making it more efficient in most cases, compared to running these analysis in a third-party tool, such as R or Tableau.
+> **[1:46](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=106)** One of the advantages of using SQL for these questions is that it runs the code on the database server itself making it more efficient in most cases, compared to running these analysis in a third-party tool, such as R or [[Tableau]].
 >
 > **[1:58](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=118)** The biggest reason by far however, is that SQL was adopted as a standard across all databases.
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=162)** So first let's just take a look at the most basic of select statements, select star from a table.
 >
-> **[2:48](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=168)** A table is like a sheet in Excel that contains the data.
+> **[2:48](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=168)** A table is like a sheet in [[Microsoft Excel|Excel]] that contains the data.
 >
 > **[2:52](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980&t=172)** If I execute this code here, you'll see that I get all of the results back.
 >
@@ -262,14 +258,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (15), data (10), [[Databases]] (9), database (6), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (15), [[Databases]] (9), [[NoSQL]] (2), [[Big Data]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (15)
 > **Definitions:** stands for (2), is a  (2), known as (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980)
+#### [Join tables](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,13 +274,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=6)** Joining them together allows you to combine multiple data sets for more comprehensive results and analysis.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=12)** Now a database design, also known as data modeling, there are specific guidelines or rules when to separate data into their own tables.
+> **[0:12](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=12)** Now a [[Database Design]], also known as [[Data Modeling]], there are specific guidelines or rules when to separate data into their own tables.
 >
-> **[0:19](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=19)** At the most basic level, you can think of a table like a sheet in Excel.
+> **[0:19](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=19)** At the most basic level, you can think of a table like a sheet in [[Microsoft Excel|Excel]].
 >
 > **[0:23](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=23)** Each tab or sheet would be a separate table containing separate, but related, e.g. relational data.
 >
-> **[0:30](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=30)** By joining these tables using SQL, we can create more complete results sets as well as perform look-ups and comparisons.
+> **[0:30](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=30)** By joining these tables using [[SQL]], we can create more complete results sets as well as perform look-ups and comparisons.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=36)** Joining tables is a fundamental concept in SQL.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=43)** The three basic use cases for why we would join tables is starting with the idea of combining related datasets.
 >
-> **[0:50](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=50)** In databases, relational or dimensional, often data elements are separated.
+> **[0:50](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=50)** In [[Databases]], relational or dimensional, often data elements are separated.
 >
 > **[0:55](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=55)** So for example, if you wanted to find the name of a product that was sold, you may have to start with the table containing the sales orders and then join out to another table containing the product information.
 >
@@ -369,13 +364,13 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=308)** So in this last example here, I have the same query as before, the select * from FactInternetSales, I'm doing an inner join over to Dim product, just as I did before, and now I'm adding a condition of p.StartDate.
 >
-> **[5:21](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=321)** So that means that in Dim product, which is aliased with P I have a column called Start Date, which I know actually is when the product began sale, and I only want products that have existed since January 1st, 2013.
+> **[5:21](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=321)** So that means that in Dim product, which is aliased with P I have a column called Start Date, which I know actually is when the product began sale, and I only want [[Microsoft Products|products]] that have existed since January 1st, 2013.
 >
 > **[5:34](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/join-tables-14432074?u=76281980&t=334)** So beyond just the ON clause, which actually joins the table together, I can add additional filters here to retrieve specific results that I'd said I'm interested in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (16), data (11), database (6), [[SQL]] (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Database Design]] (1), [[Data Modeling]] (1), [[Microsoft Excel|Excel]] (1), [[Databases]] (1)
 > **Definitions:** is a  (3), means that (2), known as (1), is called (1)
 > **Env Vars:** sql (3)
 > **Analogies:** for example (1), such as (1), imagine (1)
@@ -383,8 +378,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980)
+#### [Filter data](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=74)** Then, we'll get into filtering multiple results.
 >
-> **[1:16](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=76)** What if you want to, instead of just look at one product, look at a number of products?
+> **[1:16](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=76)** What if you want to, instead of just look at one product, look at a number of [[Microsoft Products|products]]?
 >
 > **[1:20](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=80)** And lastly, we'll look at the LIKE condition, a way to filter things that are similar to other things.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=186)** So this is a simple way to use a non-equal condition and actually multiple conditions on a date value.
 >
-> **[3:12](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=192)** Now dates have a special characteristic and databases as they do in many analytical tools.
+> **[3:12](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=192)** Now dates have a special characteristic and [[Databases]] as they do in many analytical tools.
 >
 > **[3:18](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=198)** If you scroll down and you see the next condition, what I have here is that same query, but now I'm representing that filter by using a BETWEEN condition.
 >
@@ -478,7 +472,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=235)** Well, we could have a lot of conditions there, or we also could use a new condition called in.
 >
-> **[4:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=240)** This is a different way of telling SQL that I want to filter my results set based on the English product name in this example, being equal to any one of my four results here.
+> **[4:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=240)** This is a different way of telling [[SQL]] that I want to filter my results set based on the English product name in this example, being equal to any one of my four results here.
 >
 > **[4:12](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=252)** So this would be the same as if I wrote that equal condition multiple times, but here I'm just writing it in one kind of shorthand syntax using the in clause.
 >
@@ -492,11 +486,11 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=287)** And here, what I have is essentially the same idea where I want the English product name, but I want anything that starts with Mountain and then ends with anything else.
 >
-> **[4:56](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=296)** In SQL server, we use a percent sign, in other databases, you use different wildcard conditions.
+> **[4:56](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=296)** In [[Microsoft SQL Server|SQL server]], we use a percent sign, in other databases, you use different wildcard conditions.
 >
 > **[5:01](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=301)** But in here, the idea is that let's say I have a query that returned all the different types of mountain bikes, but that list of types of mountain bikes may grow or change over time.
 >
-> **[5:10](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=310)** However, they always will start with the word Mountain.
+> **[5:10](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=310)** However, they always will start with the [[Microsoft Word|word]] Mountain.
 >
 > **[5:12](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/filter-data-14425708?u=76281980&t=312)** I can use this example using a LIKE condition to always give me any results where the English product names starts with the word Mountain and ends with anything else.
 >
@@ -508,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (7), database (6), [[Microsoft Products|Products]] (5), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Microsoft Word|Word]] (3), [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** where (2), between (2), sql (2)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), similar to (1), just like (1)
@@ -517,14 +511,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980)
+#### [Aggregate data](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=0)** - [Instructor] Now let's take a look at aggregating data.
 >
-> **[0:02](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=2)** So by aggregating data, we are using a collection of built-in functions in SQL that summarize or roll up our values.
+> **[0:02](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=2)** So by aggregating data, we are using a collection of built-in functions in [[SQL]] that summarize or roll up our values.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=11)** The basic examples we have are min, max, average, sum and count.
 >
@@ -620,7 +613,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=224)** Highlight it again, you can see there that I now have every order date on the left and the total sales amount for that date.
 >
-> **[3:53](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=233)** If I wanted to order these, I simply add another clause, order by, and I can type in the word order date and hit refresh.
+> **[3:53](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=233)** If I wanted to order these, I simply add another clause, order by, and I can type in the [[Microsoft Word|word]] order date and hit refresh.
 >
 > **[4:02](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=242)** And now I have them in sequence.
 >
@@ -650,7 +643,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=323)** And then I've included it in the group by.
 >
-> **[5:26](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=326)** So if I run this query instead, now what I have is essentially the same results that is before filtered to a specific year, but the plot thickens, what if I wanted to only see products that were sold in 2013, that were more than one million dollars in total sales?
+> **[5:26](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=326)** So if I run this query instead, now what I have is essentially the same results that is before filtered to a specific year, but the plot thickens, what if I wanted to only see [[Microsoft Products|products]] that were sold in 2013, that were more than one million dollars in total sales?
 >
 > **[5:44](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/aggregate-data-14431150?u=76281980&t=344)** I'm answering and I'm asking a much deeper, more interesting question now, that is a common one you'll probably run into.
 >
@@ -664,7 +657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (6), product (4), [[Microsoft Products|Products]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (3), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), known as (1)
@@ -672,8 +665,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/window-functions-14427513?u=76281980)
+#### [Window functions](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/window-functions-14427513?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,14 +707,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), next (1)
 > **Analogies:** such as (1), just like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980)
+#### [Subqueries](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -740,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=36)** Using a subquery for this simplifies the process and I can also improve performance since it only returns a subset of the results instead of the entire table.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=44)** Some database administrators might argue that a properly designed databases with index could be faster, and they're probably right, but unless I'm designing a real-time application, I find this method just to be simpler and faster in the majority of cases.
+> **[0:44](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=44)** Some database administrators might argue that a properly designed [[Databases]] with index could be faster, and they're probably right, but unless I'm designing a [[Real-Time]] application, I find this method just to be simpler and faster in the majority of cases.
 >
 > **[0:57](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=57)** The next reason I often use subqueries is to create new aggregations.
 >
@@ -784,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=188)** So if I run this query, you can see that what's happening is I'm starting out with my Dim product table, this is the outer table, and then I'm saying where the product sub-category key, that's my column that I'm looking for, is also in the Dim product subcategory.
 >
-> **[3:24](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=204)** So this is just another way to use a subquery in place of a different piece of SQL, a different thing that you'd normally manually type in.
+> **[3:24](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=204)** So this is just another way to use a subquery in place of a different piece of [[SQL]], a different thing that you'd normally manually type in.
 >
 > **[3:31](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/subqueries-14432077?u=76281980&t=211)** Now this one, because it's on the same server, can be rewritten as a simple join.
 >
@@ -800,15 +790,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (3), product (3), [[Databases]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Real-Time]] (1), [[SQL]] (1)
 > **Env Vars:** exists (3), sql (1), ansi (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rolling calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/rolling-calculations-14431151?u=76281980)
+#### [Rolling calculations](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/rolling-calculations-14431151?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/rolling-calculations-14431151?u=76281980&t=48)** The last example is to identify change in growth over time.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/rolling-calculations-14431151?u=76281980&t=51)** The percent difference from period to period is often used in financial reporting and can greatly affect the company's outlook in their stock price.
+> **[0:51](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/rolling-calculations-14431151?u=76281980&t=51)** The percent difference from period to period is often used in financial reporting and can greatly affect the company's [[Microsoft Outlook|outlook]] in their stock price.
 >
 > **[0:59](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/rolling-calculations-14431151?u=76281980&t=59)** In this demo, I'm going to show you how to use a moving average and a year-to-date total.
 >
@@ -930,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Outlook|Outlook]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** order (4), sum (2), group (2), datepart (1), avg (1)
 > **SQL:** order by (4), group by (2), where (1)
 > **Definitions:** is a  (3)
@@ -939,8 +928,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze employee data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980)
+#### [Analyze employee data](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,7 +980,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=130)** Now, the way to actually do this calculation for every single day to get an actual trend is to use another table that has just every day in it.
 >
-> **[2:19](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=139)** This is a common thing, you've seen in data warehousing, where you have a dates table, often called a date dimension.
+> **[2:19](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=139)** This is a common thing, you've seen in [[Data Warehousing]], where you have a dates table, often called a date dimension.
 >
 > **[2:25](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=145)** So here's an example of the one in our database.
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=207)** So what if I just wanted to see a monthly trend?
 >
-> **[3:30](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=210)** Well, we need to use the end of month function, and this is specific to SQL server.
+> **[3:30](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=210)** Well, we need to use the end of month function, and this is specific to [[Microsoft SQL Server|SQL server]].
 >
 > **[3:34](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/analyze-employee-data-14430212?u=76281980&t=214)** So what I essentially want to do is run that same query, but just pick out the month end.
 >
@@ -1040,23 +1028,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (2), database (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Data Warehousing]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date and time functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980)
+#### [Date and time functions](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=0)** - [Instructor] All right now let's take a look at some popular date and time functions.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=4)** Date and time functions are methods in SQL that allow you to perform manipulation and arithmetic operations on date and time fields.
+> **[0:04](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=4)** Date and time functions are methods in [[SQL]] that allow you to perform manipulation and arithmetic operations on date and time fields.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=11)** Often we start dates and times of when events occur in our databases, sometimes those lineup with how we want to analyze the data but often they do not.
+> **[0:11](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=11)** Often we start dates and times of when events occur in our [[Databases]], sometimes those lineup with how we want to analyze the data but often they do not.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=19)** So we need to manipulate those values or calculate things like numbers of days between dates, we turn to our date and time functions.
 >
@@ -1080,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=78)** Then we'll look at how to create a time to ship calculation and lastly, to figure out the most recent month.
 >
-> **[1:24](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=84)** So in this first example, what I want to highlight is a function that is SQL Server to help you find the end of the month, it's EOMONTH and what you pass in is a date value.
+> **[1:24](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=84)** So in this first example, what I want to highlight is a function that is [[Microsoft SQL Server|SQL Server]] to help you find the end of the month, it's EOMONTH and what you pass in is a date value.
 >
 > **[1:33](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=93)** So what we're doing here is passing an order date, we then have our aggregation, a sum of sales amount and then we group by the end of the month.
 >
@@ -1128,7 +1115,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=266)** We're using the FactInternetSales table and if I run this query, it just simply returns a one and the most recent day, I join this sub query back to my FactInternetSales table to find whether or not the month and year of the data coming in does match the most recent, the max date from that same table, so this is a self join that I'm using.
 >
-> **[4:48](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=288)** Then I simply return the rest of the data as I would like to, I run this query, provide my groupings and my ORDER BY, and you can see at the very top there, I have a one for the value of the most recent data.
+> **[4:48](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=288)** Then I simply return the [[Representational State Transfer (REST)|rest]] of the data as I would like to, I run this query, provide my groupings and my ORDER BY, and you can see at the very top there, I have a one for the value of the most recent data.
 >
 > **[4:59](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/date-and-time-functions?u=76281980&t=299)** So I could provide a filter, where is max date equals one and then I would see just that row.
 >
@@ -1136,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft SQL Server|Sql server]] (4), database (4), [[Databases]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (5), eomonth (1), datediff (1), group (1), order (1)
 > **Definitions:** is a  (9)
 > **CLI Commands:** find (3), make (1)
@@ -1145,8 +1132,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common table expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980)
+#### [Common table expressions](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,9 +1168,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=71)** You can also pass in values to the CTE to perform calculations.
 >
-> **[1:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=75)** Lastly, and I'm not entirely sure how SQL servers team pull this off, you can create CTEs that reference themselves.
+> **[1:15](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=75)** Lastly, and I'm not entirely sure how [[SQL]] servers team pull this off, you can create CTEs that reference themselves.
 >
-> **[1:22](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=82)** Think of a circular reference in Excel.
+> **[1:22](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=82)** Think of a circular reference in [[Microsoft Excel|Excel]].
 >
 > **[1:25](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=85)** Same idea, but it actually works.
 >
@@ -1266,7 +1252,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=278)** If your database is well intact, then this should be the person at the top of the food chain at your company, probably the CEO.
 >
-> **[4:45](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=285)** Then I union that result set, which is only a single person, with the rest of the data, which is a self-referencing.
+> **[4:45](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=285)** Then I union that result set, which is only a single person, with the [[Representational State Transfer (REST)|rest]] of the data, which is a self-referencing.
 >
 > **[4:52](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/common-table-expressions-14430211?u=76281980&t=292)** So here, if you notice, I'm actually doing level plus one, and I'm actually joining two direct reports, which is the CTE itself.
 >
@@ -1292,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), database (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (15), sql (3), select (2), ceo (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** similar to (2), such as (1), just like (1)
@@ -1300,8 +1286,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Year-over-year calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980)
+#### [Year-over-year calculations](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,28 +1344,27 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=177)** So then I run this query here and I have similar results sets, except now I have the percent change.
 >
-> **[3:04](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=184)** And you can see that this January's performance was incredibly bad compared to last, which does add up if you do the math there, but while the rest of them were fairly well, perhaps this data wasn't complete yet, and we didn't have the full, complete picture of the month, who knows, but in any case, you're now able to use a CTE and a real simple way to find year-over-year comparisons in your data.
+> **[3:04](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/year-over-year-calculations-14428319?u=76281980&t=184)** And you can see that this January's performance was incredibly bad compared to last, which does add up if you do the math there, but while the [[Representational State Transfer (REST)|rest]] of them were fairly well, perhaps this data wasn't complete yet, and we didn't have the full, complete picture of the month, who knows, but in any case, you're now able to use a CTE and a real simple way to find year-over-year comparisons in your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cte (4), nasa (1)
 > **CLI Commands:** find (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding ranks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980)
+#### [Finding ranks](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=0)** - [Instructor] In this video, I want to explain how to rank your results in SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=0)** - [Instructor] In this video, I want to explain how to rank your results in [[SQL]].
 >
 > **[0:04](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=4)** Now, ranking is essentially just assigning a value for each row in a partition, indicating its position based on some condition or some ordering sequence.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=14)** Now, this is commonly used to identify the top X of something.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=17)** In this tape, we're going to look at that, as well as some other use cases in our database platform, SQL server.
+> **[0:17](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=17)** In this tape, we're going to look at that, as well as some other use cases in our database platform, [[Microsoft SQL Server|SQL server]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=22)** In SQL server, there are some common functions we can look at to identify the ranks.
 >
@@ -1412,7 +1396,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=97)** This can be nice when trying to calculate the relative rank of say a sales region compared to the overall total.
 >
-> **[1:43](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=103)** In this demo, we're going to use these functions to find the top selling products overall, then find the top products for each product sub category.
+> **[1:43](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=103)** In this demo, we're going to use these functions to find the top selling [[Microsoft Products|products]] overall, then find the top products for each product sub category.
 >
 > **[1:52](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/finding-ranks?u=76281980&t=112)** There's a lot of code on the screen here.
 >
@@ -1468,7 +1452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (4), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (4), row_number (4), rank (2), dense_rank (2), percent_rank (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (3)
@@ -1482,12 +1466,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming a powerful data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980)
+#### [Becoming a powerful data scientist](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=0)** - [Instructor] SQL is by far the most universal of data science and programming languages.
+> **[0:00](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=0)** - [Instructor] [[SQL]] is by far the most universal of [[Data Science]] and programming languages.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=5)** In this series, you've learned how to perform the basics, such as retrieving data from a database, joining that data with other related tables, aggregating the data up, and even performing complex analysis, like ranking.
 >
@@ -1495,7 +1478,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=18)** There are many more ways and platforms you'll need to master before becoming a true data Jedi.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=24)** For example, I recommend checking out Foundations of Programming: Databases, [[SQL Essential Training]], and SQL for Data Reporting and Analysis.
+> **[0:24](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=24)** For example, I recommend checking out Foundations of Programming: [[Databases]], [[SQL Essential Training]], and SQL for [[Data Reporting]] and Analysis.
 >
 > **[0:34](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980&t=34)** With the skills you've learned here and that you'll get in these additional courses, you're well on your way to becoming a powerful data scientist.
 >
@@ -1505,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (3), [[Programming]] (2), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Science]] (1), [[Databases]] (1), [[Data Reporting]] (1)
 > **Env Vars:** sql (3)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1)

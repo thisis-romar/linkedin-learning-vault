@@ -54,46 +54,46 @@ created: 2026-05-02
 > 21. [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — 2 mentions
 > 22. [[Azure AI- The Big Picture]] — 2 mentions
 > 23. [[Developing for Web Performance]] — 2 mentions
-> 24. [[Nail Your DevOps Interview]] — 2 mentions
-> 25. [[Measuring Business Performance]] — 2 mentions
-> 26. [[AI Foundations- Ideating and Prototyping]] — 2 mentions
-> 27. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 2 mentions
-> 28. [[Advanced Python in Excel- Machine Learning]] — 2 mentions
-> 29. [[Advanced SQL for Application Development]] — 2 mentions
-> 30. [[Cloud Computing Understanding Core Concepts]] — 1 mentions
-> 31. [[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]] — 1 mentions
-> 32. [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]] — 1 mentions
-> 33. [[Leading with Innovation in the Age of AI]] — 1 mentions
-> 34. [[Navigating the EU AI Act]] — 1 mentions
-> 35. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
-> 36. [[Cloud Computing- Understanding Networking]] — 1 mentions
-> 37. [[How to Be an Agent Boss- Leading AI Agents at Work]] — 1 mentions
-> 38. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
-> 39. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
-> 40. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
-> 41. [[Windows 10- Supporting Users Essential Training]] — 1 mentions
-> 42. [[Agile Software Development- Creating an Agile Culture]] — 1 mentions
-> 43. [[Programming Foundations- Object-Oriented Design]] — 1 mentions
-> 44. [[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]] — 1 mentions
-> 45. [[Harnessing AI in the Recruiting Lifecycle]] — 1 mentions
-> 46. [[Simplifying Web Development with Accessibility Best Practices]] — 1 mentions
-> 47. [[Devops Foundations]] — 1 mentions
-> 48. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
-> 49. [[Assessing Digital Maturity]] — 1 mentions
-> 50. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
-> 51. [[MLOps Essentials- Model Deployment and Monitoring]] — 1 mentions
-> 52. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
-> 53. [[Building Generative AI Apps to Talk to Your Data]] — 1 mentions
-> 54. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 55. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 1 mentions
-> 56. [[Azure Understanding The Big Picture]] — 1 mentions
-> 57. [[Manage Virtual Machines in Azure]] — 1 mentions
-> 58. [[Responsible AI Development with GitHub Copilot]] — 1 mentions
-> 59. [[MPLS Segment Routing]] — 1 mentions
-> 60. [[Azure AI for Developers- LLMs and SLMs]] — 1 mentions
-> 61. [[Accelerating Your Career with Personal Branding]] — 1 mentions
-> 62. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
-> 63. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 24. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 2 mentions
+> 25. [[Nail Your DevOps Interview]] — 2 mentions
+> 26. [[Measuring Business Performance]] — 2 mentions
+> 27. [[AI Foundations- Ideating and Prototyping]] — 2 mentions
+> 28. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 2 mentions
+> 29. [[Advanced Python in Excel- Machine Learning]] — 2 mentions
+> 30. [[Advanced SQL for Application Development]] — 2 mentions
+> 31. [[Cloud Computing Understanding Core Concepts]] — 1 mentions
+> 32. [[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]] — 1 mentions
+> 33. [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]] — 1 mentions
+> 34. [[Leading with Innovation in the Age of AI]] — 1 mentions
+> 35. [[Navigating the EU AI Act]] — 1 mentions
+> 36. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
+> 37. [[Cloud Computing- Understanding Networking]] — 1 mentions
+> 38. [[How to Be an Agent Boss- Leading AI Agents at Work]] — 1 mentions
+> 39. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
+> 40. [[AI Product Ideation- Principles and Practical Applications]] — 1 mentions
+> 41. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
+> 42. [[Windows 10- Supporting Users Essential Training]] — 1 mentions
+> 43. [[Agile Software Development- Creating an Agile Culture]] — 1 mentions
+> 44. [[Programming Foundations- Object-Oriented Design]] — 1 mentions
+> 45. [[Troubleshooting VOIP- Identify and Resolve Common VOIP Issues]] — 1 mentions
+> 46. [[Harnessing AI in the Recruiting Lifecycle]] — 1 mentions
+> 47. [[Simplifying Web Development with Accessibility Best Practices]] — 1 mentions
+> 48. [[Devops Foundations]] — 1 mentions
+> 49. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
+> 50. [[Assessing Digital Maturity]] — 1 mentions
+> 51. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
+> 52. [[MLOps Essentials- Model Deployment and Monitoring]] — 1 mentions
+> 53. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 54. [[Building Generative AI Apps to Talk to Your Data]] — 1 mentions
+> 55. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
+> 56. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 1 mentions
+> 57. [[Azure Understanding The Big Picture]] — 1 mentions
+> 58. [[Manage Virtual Machines in Azure]] — 1 mentions
+> 59. [[Responsible AI Development with GitHub Copilot]] — 1 mentions
+> 60. [[MPLS Segment Routing]] — 1 mentions
+> 61. [[Azure AI for Developers- LLMs and SLMs]] — 1 mentions
+> 62. [[Accelerating Your Career with Personal Branding]] — 1 mentions
+> 63. [[Google Cloud Digital Leader Cert Prep- 6 Scaling with Google Cloud Operations]] — 1 mentions
 > 64. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 1 mentions
 > 65. [[Generative AI-Powered Strategic Business Analysis]] — 1 mentions
 > 66. [[Azure Essential Training for Developers]] — 1 mentions

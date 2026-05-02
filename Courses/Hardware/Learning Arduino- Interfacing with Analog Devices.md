@@ -101,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating analog devices with Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980)
+#### [Integrating analog devices with Arduino](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980&t=0)** - When working with Arduino Projects, you may find yourself having to interface with analog devices, things like temperature sensors, light sensors, motors, and joysticks.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980&t=0)** - When working with [[Arduino]] Projects, you may find yourself having to interface with analog devices, things like temperature sensors, light sensors, motors, and joysticks.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980&t=10)** And they work differently than digital components.
 >
@@ -122,21 +121,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ldr (1)
 > **Speakers:** - when (1)
 
-#### What you should know before watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980)
+#### [What you should know before watching](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=0)** - [Narrator] Before you start this course, you should be a little bit familiar with how Arduino works.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=0)** - [Narrator] Before you start this course, you should be a little bit familiar with how [[Arduino]] works.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=5)** Using the input and output pins, and the basic commands, like a pinmode.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=10)** And know the difference between inputs and outputs, as well as some programming concepts, like an if statement.
+> **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=10)** And know the difference between inputs and outputs, as well as some [[Programming Concepts]], like an if statement.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=19)** I'm going to use Arduino Uno board, but you can use any other board that you have.
 >
@@ -150,13 +148,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=48)** This course is designed to interface analog components with Arduino board and coding.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=55)** I'll cover the wire needed for our project, but if you need a refresher on hardware components, throughout this course, I would recommend referring to [[Electronics Foundations- Fundamentals]].
+> **[0:55](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=55)** I'll cover the wire needed for our project, but if you need a refresher on [[Hardware]] components, throughout this course, I would recommend referring to [[[[Electronics]] Foundations- Fundamentals]].
 >
 > **[1:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-you-should-know-before-watching?u=76281980&t=69)** If you have zero experience with Arduino, you might want to first check out my other Arduino essential course, Learning Arduino: Foundations, that we have in our library, to get you prepared for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (6), [[Programming Concepts]] (1), [[Programming]] (1), [[Hardware]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (6), [[Programming Concepts]] (1), [[Hardware]] (1), [[Electronics]] (1)
 > **Env Vars:** tmp37 (1), lm35 (1), ldr (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
@@ -167,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are analog devices?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980)
+#### [What are analog devices?](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980&t=80)** An example of an analog sensor that produces voltage is a temperature sensor, such as TMP37 and LM35.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980&t=92)** When working with sensors that produce voltage, we need to know the voltage range that the sensor outputs, and take into consideration the voltage reference that Arduino is using.
+> **[1:32](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980&t=92)** When working with sensors that produce voltage, we need to know the voltage range that the sensor outputs, and take into consideration the voltage reference that [[Arduino]] is using.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980&t=105)** An example of this type of sensor is an LDR, or light dependent resistor.
 >
@@ -212,12 +209,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding analog-to-digital converters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-analog-to-digital-converters?u=76281980)
+#### [Understanding analog-to-digital converters](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-analog-to-digital-converters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-analog-to-digital-converters?u=76281980&t=0)** - [Narrator] Let's start with how the Arduino board handles analog inputs.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-analog-to-digital-converters?u=76281980&t=0)** - [Narrator] Let's start with how the [[Arduino]] board handles analog inputs.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-analog-to-digital-converters?u=76281980&t=5)** When working with analog input signals, the Arduino board uses an analog to digital converter or ADC.
 >
@@ -255,8 +251,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring our temperature sensor (TMP37)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-our-temperature-sensor-tmp37?u=76281980)
+#### [Exploring our temperature sensor (TMP37)](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-our-temperature-sensor-tmp37?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-our-temperature-sensor-tmp37?u=76281980&t=9)** Maybe you want a temperature sensor that measures a wide range of values, or one that needs to be very sensitive to small temperature changes.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-our-temperature-sensor-tmp37?u=76281980&t=19)** Most of the temperature sensors used with an Arduino board have the same pin layout with three pins for each sensor.
+> **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-our-temperature-sensor-tmp37?u=76281980&t=19)** Most of the temperature sensors used with an [[Arduino]] board have the same pin layout with three pins for each sensor.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-our-temperature-sensor-tmp37?u=76281980&t=28)** These temperature sensors are analog and produce a voltage that is linearly proportional to the temperature in degrees celsius.
 >
@@ -302,18 +297,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (7), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (7)
 > **Env Vars:** tmp37 (2)
 > **Versions:** 2.7 (1), 5.5 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding how to interpret the sensor values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-how-to-interpret-the-sensor-values?u=76281980)
+#### [Understanding how to interpret the sensor values](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-how-to-interpret-the-sensor-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-how-to-interpret-the-sensor-values?u=76281980&t=0)** - [Instructor] In this section, let's take a look at how Arduino uses the analog output received from our sensor to calculate the temperature.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-how-to-interpret-the-sensor-values?u=76281980&t=0)** - [Instructor] In this section, let's take a look at how [[Arduino]] uses the analog output received from our sensor to calculate the temperature.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-how-to-interpret-the-sensor-values?u=76281980&t=9)** I'll be using the TMP37 sensor for this example.
 >
@@ -353,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), data (3)
+> **Frameworks & Libraries:** [[Arduino]] (5)
 > **Env Vars:** tmp37 (3), tmp36 (1), ied (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.5 (1)
@@ -361,8 +355,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting the sensor values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/interpreting-the-sensor-values?u=76281980)
+#### [Interpreting the sensor values](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/interpreting-the-sensor-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/interpreting-the-sensor-values?u=76281980&t=8)** I'll be using these two equations in order to calculate the temperature produced by the temperature sensor.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/interpreting-the-sensor-values?u=76281980&t=14)** Let's say for example, that once I use the Arduino software, I read a value of 110.
+> **[0:14](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/interpreting-the-sensor-values?u=76281980&t=14)** Let's say for example, that once I use the [[Arduino]] software, I read a value of 110.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/interpreting-the-sensor-values?u=76281980&t=21)** Remember, Arduino uses ADC to read values between zero and 1,023, representing zero to 5,000 millivolts.
 >
@@ -396,8 +389,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Wiring up the temperature sensor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-temperature-sensor?u=76281980)
+#### [Wiring up the temperature sensor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-temperature-sensor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,15 +407,14 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-temperature-sensor?u=76281980&t=44)** Output goes to the a zero.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-temperature-sensor?u=76281980&t=51)** Okay, and then I just need to connect the Arduino board.
+> **[0:51](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-temperature-sensor?u=76281980&t=51)** Okay, and then I just need to connect the [[Arduino]] board.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Arduino]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding to read the temperature sensor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-temperature-sensor?u=76281980)
+#### [Coding to read the temperature sensor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-temperature-sensor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-temperature-sensor?u=76281980&t=22)** And I'll create two variables- float variables (keyboard sounds) for voltage out and one for the temperature. (keyboard sounds) The second thing that I need to do is go to the void setup and initialize the serial begin.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-temperature-sensor?u=76281980&t=48)** Now there is a code within Arduino to specify the analog reference for the temperature sensor that we're using.
+> **[0:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-temperature-sensor?u=76281980&t=48)** Now there is a code within [[Arduino]] to specify the analog reference for the temperature sensor that we're using.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-temperature-sensor?u=76281980&t=56)** If you go to the website, there is the command that's called "analogReference" and there are different ways that you can implement the analog reference.
 >
@@ -508,8 +499,7 @@ created: 2026-05-02
 > **Env Vars:** default (1)
 > **Cross-References:** go back to (1)
 
-#### LDR (light-dependent resistor) sensor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/ldr-light-dependent-resistor-sensor?u=76281980)
+#### [LDR (light-dependent resistor) sensor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/ldr-light-dependent-resistor-sensor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +511,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/ldr-light-dependent-resistor-sensor?u=76281980&t=13)** And Photoresistors, which change resistance due to variation in light intensity.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/ldr-light-dependent-resistor-sensor?u=76281980&t=19)** The problem with the resistance based sensors is that the Arduino analog interface cannot directly detect a change in resistance.
+> **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/ldr-light-dependent-resistor-sensor?u=76281980&t=19)** The problem with the resistance based sensors is that the [[Arduino]] analog interface cannot directly detect a change in resistance.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/ldr-light-dependent-resistor-sensor?u=76281980&t=28)** A light dependent resistor or LDR, is a common light sensor.
 >
@@ -552,8 +542,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Using a voltage divider with our LDR
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-voltage-divider-with-our-ldr?u=76281980)
+#### [Using a voltage divider with our LDR](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-voltage-divider-with-our-ldr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-voltage-divider-with-our-ldr?u=76281980&t=58)** As the resistance of the sensor changes, the voltage divider output, V out, changes as well since we keep the input voltage constant.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-voltage-divider-with-our-ldr?u=76281980&t=68)** In this way, we can convert a varying resistance into a varying voltage that can be read by Arduino.
+> **[1:08](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-voltage-divider-with-our-ldr?u=76281980&t=68)** In this way, we can convert a varying resistance into a varying voltage that can be read by [[Arduino]].
 >
 > **[1:17](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-voltage-divider-with-our-ldr?u=76281980&t=77)** We can arrange the LDR in either location in the circuits.
 >
@@ -635,8 +624,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Wiring up our LDR circuit
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-ldr-circuit?u=76281980)
+#### [Wiring up our LDR circuit](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-ldr-circuit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-ldr-circuit?u=76281980&t=8)** Where whenever it gets darker, we receive less voltage.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-ldr-circuit?u=76281980&t=12)** So the very first thing I'm going to do is I'm going to connect the voltage in and the ground from the Arduino board.
+> **[0:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-ldr-circuit?u=76281980&t=12)** So the very first thing I'm going to do is I'm going to connect the voltage in and the ground from the [[Arduino]] board.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-ldr-circuit?u=76281980&t=20)** We are using the five volt from the Arduino and then I'm going to connect it to the breadboard here.
 >
@@ -677,8 +665,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding to read the LDR circuit
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-ldr-circuit?u=76281980)
+#### [Coding to read the LDR circuit](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-read-the-ldr-circuit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,19 +739,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Env Vars:** ldr (7)
 > **Code Identifiers:** sensorpin (3), sensorvalue (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Joystick module
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/joystick-module?u=76281980)
+#### [Joystick module](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/joystick-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/joystick-module?u=76281980&t=0)** - [Instructor] A joystick is a familiar component that we use with Arduino, as a set of analog inputs.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/joystick-module?u=76281980&t=0)** - [Instructor] A joystick is a familiar component that we use with [[Arduino]], as a set of analog inputs.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/joystick-module?u=76281980&t=10)** It is used in many applications, like robot control, game input, and a tilt control.
 >
@@ -802,15 +787,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), game (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Env Vars:** gnd (1), vcc (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Versions:** 2.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wiring up our joystick
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-joystick?u=76281980)
+#### [Wiring up our joystick](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-joystick?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-joystick?u=76281980&t=5)** The very first thing I'm going to do is I'm going to connect the ground and VCC.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-joystick?u=76281980&t=11)** So ground, the first pin goes to ground here in the Arduino board.
+> **[0:11](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-joystick?u=76281980&t=11)** So ground, the first pin goes to ground here in the [[Arduino]] board.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-our-joystick?u=76281980&t=19)** And the five-volt go to the five volts on the Arduino board.
 >
@@ -835,8 +819,7 @@ created: 2026-05-02
 > **Env Vars:** vcc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding the joystick circuit
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-circuit?u=76281980)
+#### [Coding the joystick circuit](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-circuit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -900,7 +883,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Non-Speech:** (typing on computer) (14)
 > **Code Identifiers:** xpin (2), ypin (2), pinmode (1), digitalwrite (1), keypin (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -914,12 +896,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How Arduino generates analog output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980)
+#### [How Arduino generates analog output](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980&t=0)** - [Instructor] To generate a analog output signal, the Arduino uses a converter that is called Digital to Analog Converter, or DAC.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980&t=0)** - [Instructor] To generate a analog output signal, the [[Arduino]] uses a converter that is called Digital to Analog Converter, or DAC.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980&t=11)** The DAC receives a digital value from the microcontroller and converts it to an analog voltage.
 >
@@ -942,8 +923,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding pulse-width modulation (PWM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-pulse-width-modulation-pwm?u=76281980)
+#### [Understanding pulse-width modulation (PWM)](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-pulse-width-modulation-pwm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,8 +969,7 @@ created: 2026-05-02
 > **Env Vars:** pwm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the analogWrite function with PWM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-analogwrite-function-with-pwm?u=76281980)
+#### [Understanding the analogWrite function with PWM](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-analogwrite-function-with-pwm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-analogwrite-function-with-pwm?u=76281980&t=57)** And the values in between zero and 100% duty cycle is between zero and 255 scale, so the output voltage is multiplying the duty cycle percentage by the 255.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-analogwrite-function-with-pwm?u=76281980&t=72)** You can read more about pulse width modulation by going to the Arduino website to further understand the concept.
+> **[1:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-analogwrite-function-with-pwm?u=76281980&t=72)** You can read more about pulse width modulation by going to the [[Arduino]] website to further understand the concept.
 
 > [!info]- Semantic Content
 >
@@ -1016,12 +995,11 @@ created: 2026-05-02
 > **Code Identifiers:** analogwrite (2)
 > **Speakers:** - [instructor] (1)
 
-#### Wire up an LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wire-up-an-led?u=76281980)
+#### [Wire up an LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wire-up-an-led?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wire-up-an-led?u=76281980&t=1)** - [Narrator] All right, so in this example, we are going to generate pulse width modulation from Arduino to brighten an LED and to dim it.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wire-up-an-led?u=76281980&t=1)** - [Narrator] All right, so in this example, we are going to generate pulse width modulation from [[Arduino]] to brighten an LED and to dim it.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wire-up-an-led?u=76281980&t=10)** So I'm going to go ahead and start wiring.
 >
@@ -1046,12 +1024,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Write code to use PWM with the LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/write-code-to-use-pwm-with-the-led?u=76281980)
+#### [Write code to use PWM with the LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/write-code-to-use-pwm-with-the-led?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/write-code-to-use-pwm-with-the-led?u=76281980&t=0)** - [Instructor] So for the coding for this LED, I'm going to use one of the built-in examples within Arduino Library.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/write-code-to-use-pwm-with-the-led?u=76281980&t=0)** - [Instructor] So for the coding for this LED, I'm going to use one of the built-in examples within [[Arduino]] Library.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/write-code-to-use-pwm-with-the-led?u=76281980&t=7)** So I'm going to go ahead to file, examples, analog, and then I'll select fading.
 >
@@ -1102,8 +1079,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the map() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-map-function?u=76281980)
+#### [Understanding the map() function](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1111,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-map-function?u=76281980&t=6)** Now if we want to use another external device to change the light intensity of the LED, we use map function.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-map-function?u=76281980&t=15)** Let's say, I have values from potentiometer that's connected to the Arduino, and I want to use these values to change the light intensity of the LED.
+> **[0:15](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-map-function?u=76281980&t=15)** Let's say, I have values from potentiometer that's connected to the [[Arduino]], and I want to use these values to change the light intensity of the LED.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/understanding-the-map-function?u=76281980&t=26)** These two values are not in the same range.
 >
@@ -1137,15 +1113,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** fromlow (1), fromhigh (1), tohigh (1), fromvalue (1), tovalue (1)
 > **Env Vars:** led (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wiring a potentiometer to control LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-potentiometer-to-control-led?u=76281980)
+#### [Wiring a potentiometer to control LED](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-potentiometer-to-control-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-potentiometer-to-control-led?u=76281980&t=29)** The left-hand side goes to ground.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-potentiometer-to-control-led?u=76281980&t=36)** And, the middle pin is going to be connected to an analog input which is A0 on the Arduino board.
+> **[0:36](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-potentiometer-to-control-led?u=76281980&t=36)** And, the middle pin is going to be connected to an analog input which is A0 on the [[Arduino]] board.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-potentiometer-to-control-led?u=76281980&t=44)** Now, I'm going to go ahead and connect the voltage, the five volt, and the ground.
 >
@@ -1177,8 +1152,7 @@ created: 2026-05-02
 > **Env Vars:** led (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding to control the LED with a potentiometer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-led-with-a-potentiometer?u=76281980)
+#### [Coding to control the LED with a potentiometer](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-led-with-a-potentiometer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1224,7 +1198,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-led-with-a-potentiometer?u=76281980&t=185)** You can also use the serial monitor to output any of the values that you want.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-led-with-a-potentiometer?u=76281980&t=189)** I'm just going to leave it the way it is now and then I'll send it to the Arduino board.
+> **[3:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-led-with-a-potentiometer?u=76281980&t=189)** I'm just going to leave it the way it is now and then I'll send it to the [[Arduino]] board.
 >
 > **[3:17](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-led-with-a-potentiometer?u=76281980&t=197)** All right, so I'm going to use the potentiometer to change the resistance.
 >
@@ -1234,7 +1208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** outputvalue (3), ledpin (2), inputvalue (2), pinmode (2), analogpin (1)
 > **Env Vars:** led (7), output (1), input (1)
 > **Cross-References:** in the next (1)
@@ -1247,12 +1221,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stepper motor introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980)
+#### [Stepper motor introduction](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980&t=0)** - Stepper motors are one of the types of motors that are available to work with your Arduino Projects.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980&t=0)** - Stepper motors are one of the types of motors that are available to work with your [[Arduino]] Projects.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980&t=7)** Instead of rotating the shaft at a constant speed stepper motors move in discreet steps using controllers to apply voltage to the motor.
 >
@@ -1288,13 +1261,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Definitions:** is a  (1), is an  (1), is called (1)
 > **Env Vars:** nema (1)
 > **Speakers:** - stepper (1)
 
-#### Unipolar stepper motors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/unipolar-stepper-motors?u=76281980)
+#### [Unipolar stepper motors](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/unipolar-stepper-motors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,7 +1278,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/unipolar-stepper-motors?u=76281980&t=18)** When using a Four-Phase method it's done by energizing each phase in sequence, the motor will rotate one step at a time.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/unipolar-stepper-motors?u=76281980&t=27)** You can see on the slides here that the first coil is being energized in the first pulse, and all the rest coils are zero.
+> **[0:27](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/unipolar-stepper-motors?u=76281980&t=27)** You can see on the slides here that the first coil is being energized in the first pulse, and all the [[Representational State Transfer (REST)|rest]] coils are zero.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/unipolar-stepper-motors?u=76281980&t=36)** When the second coil is being energized, then the rest of the coils are zero, and so on.
 >
@@ -1333,14 +1305,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Stepper motor driver board ULN2003
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-driver-board-uln2003?u=76281980)
+#### [Stepper motor driver board ULN2003](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-driver-board-uln2003?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-driver-board-uln2003?u=76281980&t=0)** - [Instructor] Stepper motors require a controller to apply voltage to the motor in steps.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-driver-board-uln2003?u=76281980&t=7)** The Arduino board and other microcontrollers cannot directly driver stepper motors.
+> **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-driver-board-uln2003?u=76281980&t=7)** The [[Arduino]] board and other microcontrollers cannot directly driver stepper motors.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-driver-board-uln2003?u=76281980&t=13)** A driver circuit is necessary and we'll use a ULN2003 for our example.
 >
@@ -1358,16 +1329,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (2)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** uln2003 (2)
 > **Speakers:** - [instructor] (1)
 
-#### Wiring a stepper motor to Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-stepper-motor-to-arduino?u=76281980)
+#### [Wiring a stepper motor to Arduino](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-stepper-motor-to-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-stepper-motor-to-arduino?u=76281980&t=1)** - [Instructor] Okay, so we are going to start wiring the driver to the pins with an Arduino.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-stepper-motor-to-arduino?u=76281980&t=1)** - [Instructor] Okay, so we are going to start wiring the driver to the pins with an [[Arduino]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-a-stepper-motor-to-arduino?u=76281980&t=7)** The very first thing is I'm going to connect in one here.
 >
@@ -1397,18 +1367,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (2)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Coding to control the motor directly
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980)
+#### [Coding to control the motor directly](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=0)** - [Instructor] So there are two ways to driver the stepper motor.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=3)** One is by using a built-in function with an Arduino, and the other one is by energizing each phase at a time manually.
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=3)** One is by using a built-in function with an [[Arduino]], and the other one is by energizing each phase at a time manually.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=11)** I'll start with the energizing each phase manually, and then we'll talk about the function in the next few videos.
 >
@@ -1422,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=72)** In the void setup I'm going to set the pin mode for each of the motor pins to be as an output.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=80)** So, pin mode for motor pin one is output, and I'll copy the same code for the rest of them, and then I'll change each pin here.
+> **[1:20](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=80)** So, pin mode for motor pin one is output, and I'll copy the same code for the [[Representational State Transfer (REST)|rest]] of them, and then I'll change each pin here.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-to-control-the-motor-directly?u=76281980&t=100)** Okay.
 >
@@ -1454,19 +1423,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Representational State Transfer (REST)|Rest]] (3), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Representational State Transfer (REST)|Rest]] (3)
 > **Cross-References:** in the next (1), later in (1)
 > **Code Identifiers:** digitalwrite (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the Stepper Library
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980)
+#### [Exploring the Stepper Library](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980&t=0)** - [Instructor] A Stepper Library is a built-in library within Arduino that allows you to control uni-polar or bi-polar stepper motors.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980&t=0)** - [Instructor] A Stepper Library is a built-in library within [[Arduino]] that allows you to control uni-polar or bi-polar stepper motors.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980&t=9)** It comes with different functions that are used in the coding.
 >
@@ -1530,11 +1498,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980&t=221)** And the common proper sequence, which is going to work for our stepper motor, is one, three, two, four.
 >
-> **[3:50](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980&t=230)** And this needs to be done in the software, not in the hardware wiring.
+> **[3:50](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/exploring-the-stepper-library?u=76281980&t=230)** And this needs to be done in the software, not in the [[Hardware]] wiring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Arduino]] (3), bi (1), application (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (1)
 > **Versions:** 5.625 (2), 11.25 (1)
 > **Env Vars:** led (2)
 > **CLI Commands:** find (1)
@@ -1542,8 +1510,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding for the stepper motor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-stepper-motor?u=76281980)
+#### [Coding for the stepper motor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-stepper-motor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1554,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-stepper-motor?u=76281980&t=105)** Here we have just number one, because we want to go one step at a time in order to see the proper sequence.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-stepper-motor?u=76281980&t=112)** And then the rest of the code is just simply printing the number of steps using the serial monitor.
+> **[1:52](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-stepper-motor?u=76281980&t=112)** And then the [[Representational State Transfer (REST)|rest]] of the code is just simply printing the number of steps using the serial monitor.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-stepper-motor?u=76281980&t=118)** So the reason why I'm using this example to show you the sequence using the stepper function.
 >
@@ -1626,8 +1593,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - alright (1)
 
-#### Coding using the Stepper() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-using-the-stepper-function?u=76281980)
+#### [Coding using the Stepper() function](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-using-the-stepper-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1605,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-using-the-stepper-function?u=76281980&t=30)** All right, let's go through the code one at a time.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-using-the-stepper-function?u=76281980&t=37)** Again, in line number 18, the first thing that you need to include when using any of the libraries within Arduino is to include the library at the top, and here we're using the stepper motor library.
+> **[0:37](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-using-the-stepper-function?u=76281980&t=37)** Again, in line number 18, the first thing that you need to include when using any of the libraries within [[Arduino]] is to include the library at the top, and here we're using the stepper motor library.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-using-the-stepper-function?u=76281980&t=48)** In line 20, we have the stepsPerRevolution to be 200.
 >
@@ -1707,7 +1673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **CLI Commands:** make (6), find (2)
 > **Code Identifiers:** setspeed (2), stepsperrevolution (1), stepsperevolution (1)
 > **UI Navigation:** click on (2)
@@ -1721,8 +1687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the joystick to control LEDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-the-joystick-to-control-leds?u=76281980)
+#### [Using the joystick to control LEDs](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-the-joystick-to-control-leds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,8 +1711,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wiring up the joystick and LEDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-leds?u=76281980)
+#### [Wiring up the joystick and LEDs](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-leds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1725,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-leds?u=76281980&t=24)** We have the joystick and the three LEDs.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-leds?u=76281980&t=28)** The final thing is just connecting the Arduino board to the computer.
+> **[0:28](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-leds?u=76281980&t=28)** The final thing is just connecting the [[Arduino]] board to the computer.
 
 > [!info]- Semantic Content
 >
@@ -1770,8 +1734,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding for the joystick and LEDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-joystick-and-leds?u=76281980)
+#### [Coding for the joystick and LEDs](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-joystick-and-leds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1847,7 +1810,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-joystick-and-leds?u=76281980&t=316)** You can also use if statement, if that makes it easier for you to do it, I just thought I would show you this code.
 >
-> **[5:23](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-joystick-and-leds?u=76281980&t=323)** So I'm going to go ahead and upload the program to the Arduino board.
+> **[5:23](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-joystick-and-leds?u=76281980&t=323)** So I'm going to go ahead and upload the program to the [[Arduino]] board.
 >
 > **[5:31](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-for-the-joystick-and-leds?u=76281980&t=331)** Okay, I'm going to go ahead and open this here monitor so you can see the values of each axis when it is in the resting position, and I'm going to go ahead and move the joystick toward the pins on the x-axis.
 >
@@ -1865,7 +1828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **Code Identifiers:** xvalue (2), redx (2), ypin (2), yellowz (2), xpin (1)
 > **Env Vars:** led (10)
 > **UI Navigation:** open the (1), go to (1)
@@ -1874,8 +1837,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using an LDR sensor to control a motor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-an-ldr-sensor-to-control-a-motor?u=76281980)
+#### [Using an LDR sensor to control a motor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-an-ldr-sensor-to-control-a-motor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,8 +1850,7 @@ created: 2026-05-02
 > **Env Vars:** ldr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wiring
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring?u=76281980)
+#### [Wiring](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1905,13 +1866,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ldr (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding the LDR and sensor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-ldr-and-sensor?u=76281980)
+#### [Coding the LDR and sensor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-ldr-and-sensor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1921,7 +1880,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-ldr-and-sensor?u=76281980&t=25)** I have the steps per valuation which is 32 and the way we did the wiring, remember that the motor sequence is one, three, two, four so it's going to be pin two, four, three, and five.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-ldr-and-sensor?u=76281980&t=40)** In line number seven, we have the sensor pin where we connect the LDR to the Arduino board then I'm initializing two variables, one to save the values of the LDR which is sensor value and one to initialize the value for the motor speed that we are going to use in that function for that.
+> **[0:40](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-ldr-and-sensor?u=76281980&t=40)** In line number seven, we have the sensor pin where we connect the LDR to the [[Arduino]] board then I'm initializing two variables, one to save the values of the LDR which is sensor value and one to initialize the value for the motor speed that we are going to use in that function for that.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-ldr-and-sensor?u=76281980&t=60)** And then in line number 10 we have a variable that's named direction and it has a value of 32, where we are going to use it in order to have the motor spinning in a positive direction.
 >
@@ -1968,8 +1927,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a joystick to control a motor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-joystick-to-control-a-motor?u=76281980)
+#### [Using a joystick to control a motor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-a-joystick-to-control-a-motor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,11 +1949,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wiring up the joystick and motor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-motor?u=76281980)
+#### [Wiring up the joystick and motor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/wiring-up-the-joystick-and-motor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2013,8 +1969,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Coding the joystick and motor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-and-motor?u=76281980)
+#### [Coding the joystick and motor](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-and-motor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2094,7 +2049,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-and-motor?u=76281980&t=305)** So again, the name of the stepper function, and then steps, which is the function I'm using, and then direction, which is the value that I will have.
 >
-> **[5:16](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-and-motor?u=76281980&t=316)** Awesome, so go ahead and upload the program to the Arduino board.
+> **[5:16](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-and-motor?u=76281980&t=316)** Awesome, so go ahead and upload the program to the [[Arduino]] board.
 >
 > **[5:24](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/coding-the-joystick-and-motor?u=76281980&t=324)** So now, I'm going to go ahead and move the joystick away from the pins, and then you can see that the stepper motor is moving in one direction.
 >
@@ -2116,12 +2071,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980&t=0)** - Thanks for taking the time to join me in this course. 2 If you want to learn more about Arduino, 3 you can check out the library for my other Arduino courses, 4 like [[Learning Arduino- Interfacing with Hardware]], 5 where I use the Arduino, board 6 with devices like Seven Segment LED, Keypad, and LCD. 7 The LinkedIn Learning Library has other adrenal Arduino, 8 like Pulse with Modulation and Arduino prototyping. 9 If you like to learn more about the concepts 10 or check out other projects, as always, 11 I recommend that you check the Arduino website 12 for resources and tutorials. 13 I hope to see you in another course.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980&t=0)** - Thanks for taking the time to join me in this course. 2 If you want to learn more about [[Arduino]], 3 you can check out the library for my other Arduino courses, 4 like [[Learning Arduino- Interfacing with [[Hardware]]]], 5 where I use the Arduino, board 6 with devices like Seven Segment LED, Keypad, and LCD. 7 The [[LinkedIn]] Learning Library has other adrenal Arduino, 8 like Pulse with Modulation and Arduino [[Prototyping]]. 9 If you like to learn more about the concepts 10 or check out other projects, as always, 11 I recommend that you check the Arduino website 12 for resources and tutorials. 13 I hope to see you in another course.
 
 > [!info]- Semantic Content
 >

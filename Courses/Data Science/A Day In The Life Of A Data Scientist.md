@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Focus on data that actually matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980)
+#### [Focus on data that actually matters](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=5)** Hey, I'm Lorenzo.
 >
-> **[0:06](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=6)** I’m a data analytics lead with over seven years of experience working in the data science space.
+> **[0:06](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=6)** I’m a data analytics lead with over seven years of experience working in the [[Data Science]] space.
 >
 > **[0:10](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=10)** Many new data scientists assume success comes from technical depth, but early on, it's not about how unbalanced your model is, it's about whether anyone uses it.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=38)** And the third one is communicating clearly with humans and not just with data.
 >
-> **[0:42](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=42)** And yes, you will still write SQL, build dashboards, and maybe train the occasional model.
+> **[0:42](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=42)** And yes, you will still write [[SQL]], build [[Dashboards]], and maybe train the occasional model.
 >
 > **[0:47](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980&t=47)** But those tasks are only effective if they help someone make a better decision faster.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[SQL]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[SQL]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Tools:** jupyter (1)
@@ -122,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the first hour for focus and impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980)
+#### [Use the first hour for focus and impact](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980&t=3)** It shapes what actually gets done.
 >
-> **[0:05](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980&t=5)** Most new data scientists start the day by checking Slack, scrolling through emails, and getting pulled into threads.
+> **[0:05](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980&t=5)** Most new data scientists start the day by checking [[Slack]], scrolling through emails, and getting pulled into threads.
 >
 > **[0:11](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980&t=11)** Suddenly, it's noon and you haven't touched the real work.
 >
@@ -169,12 +167,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Slack]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **Tools:** slack (1)
 > **Best Practices:** pro tip (1)
 
-#### Prioritize without overloading your day
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/prioritize-without-overloading-your-day?u=76281980)
+#### [Prioritize without overloading your day](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/prioritize-without-overloading-your-day?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,12 +211,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Adapt to delays and disruptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/adapt-to-delays-and-disruptions?u=76281980)
+#### [Adapt to delays and disruptions](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/adapt-to-delays-and-disruptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,17 +254,12 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/adapt-to-delays-and-disruptions?u=76281980&t=79)** It's about staying useful even when the schedule breaks.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** data (2), product (1)
-
 
 ### 2. Explore and Challenge the Data
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conduct exploratory data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/conduct-exploratory-data-analysis?u=76281980)
+#### [Conduct exploratory data analysis](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/conduct-exploratory-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,13 +307,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** eda (1)
 > **UI Navigation:** open the (1)
 
-#### Evaluate data bias before conclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/evaluate-data-bias-before-conclusions?u=76281980)
+#### [Evaluate data bias before conclusions](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/evaluate-data-bias-before-conclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,12 +361,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), traffic (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Recognize data limits and insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/recognize-data-limits-and-insights?u=76281980)
+#### [Recognize data limits and insights](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/recognize-data-limits-and-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +414,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
 
@@ -437,8 +422,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decide when analysis is ready
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/decide-when-analysis-is-ready?u=76281980)
+#### [Decide when analysis is ready](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/decide-when-analysis-is-ready?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,8 +465,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 
-#### Translate data into clear decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/translate-data-into-clear-decisions?u=76281980)
+#### [Translate data into clear decisions](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/translate-data-into-clear-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,12 +505,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), feature (1)
 > **Versions:** 0.67 (1)
 > **Analogies:** for example (1)
 
-#### Craft a narrative for understanding
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/craft-a-narrative-for-understanding?u=76281980)
+#### [Craft a narrative for understanding](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/craft-a-narrative-for-understanding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,23 +566,18 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/craft-a-narrative-for-understanding?u=76281980&t=78)** You have to structure your findings like you respect their time, because if they understand the story, they will act on it.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** data (2), next (1), traffic (1)
-
 
 ### 4. Collaborate beyond the Dataset
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicate effectively across functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980)
+#### [Communicate effectively across functions](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980&t=0)** The best analysis means nothing if no one understand it.
 >
-> **[0:03](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980&t=3)** Data science is a team sport who will work with product managers, marketers, designers, engineers, and most of them won’t think in SQL, let alone model assumptions.
+> **[0:03](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980&t=3)** [[Data Science]] is a team sport who will work with product managers, marketers, designers, engineers, and most of them won’t think in [[SQL]], let alone model assumptions.
 >
 > **[0:13](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980&t=13)** That's not a problem.
 >
@@ -639,14 +615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Incorporate feedback to improve
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980)
+#### [Incorporate feedback to improve](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,7 +649,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980&t=34)** Number one is things that improve clarity, relevance, and usefulness.
 >
-> **[0:37](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980&t=37)** And number two are things that ask for changes that conflict with data integrity or misinterpret the work.
+> **[0:37](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980&t=37)** And number two are things that ask for changes that conflict with [[Data Integrity]] or misinterpret the work.
 >
 > **[0:43](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/incorporate-feedback-to-improve?u=76281980&t=43)** You should always act on the first.
 >
@@ -702,12 +677,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Analogies:** just like (1)
 > **Best Practices:** you should always (1)
 
-#### Present insights with confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980)
+#### [Present insights with confidence](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,19 +726,18 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=65)** The goal is not just to inform, it's to be trusted.
 >
-> **[1:08](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=68)** And so that's what turns a good presentation into a decision-making moment.
+> **[1:08](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/present-insights-with-confidence?u=76281980&t=68)** And so that's what turns a good presentation into a [[Decision-Making]] moment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply habits for long-term growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/apply-habits-for-long-term-growth?u=76281980)
+#### [Apply habits for long-term growth](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/apply-habits-for-long-term-growth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,7 +761,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 
 

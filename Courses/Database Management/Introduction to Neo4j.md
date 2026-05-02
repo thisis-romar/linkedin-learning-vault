@@ -86,18 +86,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating the world of connected data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980)
+#### [Navigating the world of connected data](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=0)** - [Lulu] Graph databases are completely different.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=0)** - [Lulu] Graph [[Databases]] are completely different.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=3)** From the ground up, they are designed for understanding relationships in data, treating connections between the data with the same importance as the data itself.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=12)** They fundamentally are designed to understand these deep joins in data.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=17)** In this course, you will learn about what are graph databases and why they are so powerful, how to spot when it is the best time to use them, as well as an interactive hands-on learning experience with Neo4j, the market leading graph database.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=17)** In this course, you will learn about what are graph databases and why they are so powerful, how to spot when it is the best time to use them, as well as an interactive hands-on learning experience with [[Neo4j]], the market leading graph database.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980&t=32)** I'm Lulu Lazarevic, a data geek and was part of the Field Team and Developer Relations Team at Neo4j as well as an active member of the community.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Databases]] (3), [[Neo4j]] (2), database (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Neo4j]] (2)
 > **Speakers:** - [lulu] (1)
 
 
@@ -113,18 +112,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are graph databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980)
+#### [What are graph databases](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=0)** - [Instructor] What are graph databases?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=0)** - [Instructor] What are graph [[Databases]]?
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=2)** First of all, let's start off with what are graphs?
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=6)** When we talk about graphs in the context of this course, we're referring to the branch of mathematics known as graph theory.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=14)** This is a way of representing discrete entities and the relationships that join them and being able to apply various algorithms and thinking around it.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=14)** This is a way of representing discrete entities and the relationships that join them and being able to apply various [[Algorithms]] and thinking around it.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=23)** And the things with graphs, you can find them absolutely everywhere when you're looking at where entities are being joined together.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=79)** You may well have heard of the acronym CRUDs, create, read, update, delete, which describes the essential features you'd expect of a database system.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=88)** Databases are an extremely important component in software architecture.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=88)** Databases are an extremely important component in [[Software Architecture]].
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=92)** And indeed, you'll find a database used in nearly every single computing application found on service, laptops, even your tablet or mobile devices.
 >
@@ -150,18 +148,17 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=105)** We've provided an introduction to what graphs are and what databases are, so what exactly are graph databases?
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=111)** Put simply, they are the database systems that specialize in storing and querying data in a graph structure.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980&t=111)** Put simply, they are the [[Database Systems]] that specialize in storing and querying data in a graph structure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (7), data (5), power (3), database (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Algorithms]] (1), [[Software Architecture]] (1), [[Database Systems]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (2)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of graph structures for data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/types-of-graph-structures-for-data?u=76281980)
+#### [Types of graph structures for data](https://www.linkedin.com/learning/introduction-to-neo4j/types-of-graph-structures-for-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,30 +194,29 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-neo4j/types-of-graph-structures-for-data?u=76281980&t=115)** Each node has a name property with the values of Kat's and Matt's, respectively.
 >
-> **[2:00](https://www.linkedin.com/learning/introduction-to-neo4j/types-of-graph-structures-for-data?u=76281980&t=120)** This structure will also lend itself to efficient storage and retrieval of connected data, especially in native built graph databases.
+> **[2:00](https://www.linkedin.com/learning/introduction-to-neo4j/types-of-graph-structures-for-data?u=76281980&t=120)** This structure will also lend itself to efficient storage and retrieval of connected data, especially in native built graph [[Databases]].
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-neo4j/types-of-graph-structures-for-data?u=76281980&t=128)** You will typically see property graph databases used in transactional systems, such as those handling purchases or other organizational operational data or analytical systems where you'll study the data to create reports or investigate past actions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Databases]] (2), web (1), node (1)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Env Vars:** rdf (4)
 > **CLI Commands:** node (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why graph databases?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980)
+#### [Why graph databases?](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=0)** - Why Graph Databases?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=0)** - Why Graph [[Databases]]?
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=2)** Many data problems are connected data problems.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=6)** And, let's take a look at a simple example.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=9)** Kat, a graphic design student, would like to reach out to another person doing graphic design, Matt, about studying abroad.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=9)** Kat, a [[Graphic Design]] student, would like to reach out to another person doing graphic design, Matt, about studying abroad.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=18)** However, she's not directly acquainted with him.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=137)** Where we start to see the challenges are as follows: As we go beyond second degree friends or connections, more and more objects, depending on the indexes used, may need to be pulled into memory, to handle the matching on the friends field.
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=152)** In addition, if for whatever reason, we needed to remove one of the objects, for example, we needed to satisfy a data privacy request.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=152)** In addition, if for whatever reason, we needed to remove one of the objects, for example, we needed to satisfy a [[Data Privacy]] request.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=160)** We would need to update every single object that referenced that particular friend object.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=174)** When we know two entities are connected, we will put a physical relationship between them and join them.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=181)** Think of this as Joins on Right, for those of you who are familiar with relational databases, Because of how the data is structured in this scenario, we don't need to keep exploring how Kat and Matt might be connected.
+> **[3:01](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=181)** Think of this as Joins on Right, for those of you who are familiar with [[Relational Databases]], Because of how the data is structured in this scenario, we don't need to keep exploring how Kat and Matt might be connected.
 >
 > **[3:15](https://www.linkedin.com/learning/introduction-to-neo4j/why-graph-databases?u=76281980&t=195)** We just take for granted that, if that connection is there, we'll find it.
 >
@@ -282,15 +278,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (7), [[Graphic Design]] (2), [[Databases]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Databases]] (1), [[Data Privacy]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for example (2), similar to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - why (1)
 
-#### Good graph database use cases and bad graph database use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980)
+#### [Good graph database use cases and bad graph database use cases](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=29)** So let's start by taking a look at what we would consider to be good graph database use cases.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=36)** When thinking about your data, if you find yourself asking how entities within your data might be connected, for example how might two products be related or the different ways that two people may be connected.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=36)** When thinking about your data, if you find yourself asking how entities within your data might be connected, for example how might two [[Microsoft Products|products]] be related or the different ways that two people may be connected.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=49)** Or you're looking at independences for example, figuring out what systems are impacted by local outage or how you might reroute a journey based on road closures.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=139)** In our second example, let's say the school is rolling out a new website and they need somewhere to store images along with their descriptions.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=147)** The requirement here is to store binary data, i.e. the image, this would not be a good fit for graph databases.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=147)** The requirement here is to store binary data, i.e. the image, this would not be a good fit for graph [[Databases]].
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-neo4j/good-graph-database-use-cases-and-bad-graph-database-use-cases?u=76281980&t=154)** Although a graph database could help with the storage of the description, along with the URL of where the image lives and its own respective data store.
 >
@@ -348,19 +343,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (9), [[Microsoft Products|Products]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** for example (3), such as (3)
 > **Env Vars:** url (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Neo4j: A property graph database
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980)
+#### [Introducing Neo4j: A property graph database](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=0)** - [Instructor] Introducing Neo4j.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=0)** - [Instructor] Introducing [[Neo4j]].
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=3)** So let's take a look at the Neo4j graph database, which is the focus of this course.
 >
@@ -370,13 +364,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=15)** Native means that it has been built from the ground up to accommodate graph structures, from how the data is stored on disc through to how it is queried and held in memory.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=26)** It has a diverse property ecosystem, including plugins such as the graph data science plugin, A pop plugin, as well as the ability to create your own.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=26)** It has a diverse property ecosystem, including plugins such as the graph [[Data Science]] plugin, A pop plugin, as well as the ability to create your own.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=36)** There are also a number of graph applications that connect to the database such as blue, a visualization tool, browser which we'll be using through the course and many others including community developed ones.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=49)** There are a number of ways that you can connect to Neo4j including via the browser or command line, if you're going to be using the query language direct and you can also use a number of drivers that are available including Spring, Java, dot net, Python, and JavaScript, as well as many other drivers that have been created by the community supporting other programming languages.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=49)** There are a number of ways that you can connect to Neo4j including via the browser or command line, if you're going to be using the query language direct and you can also use a number of drivers that are available including Spring, [[Java]], dot net, [[Python (Programming Language)|Python]], and [[JavaScript]], as well as many other drivers that have been created by the community supporting other programming languages.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=73)** And you have other options as well such as connecting to databases via the JDBC connector.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=73)** And you have other options as well such as connecting to [[Databases]] via the [[Java Database Connectivity (JDBC)|JDBC]] connector.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-neo4j-a-property-graph-database?u=76281980&t=79)** And there are a number of ways you can use the product.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (14), database (9), product (4), data (3), cloud (3)
+> **Frameworks & Libraries:** [[Neo4j]] (14), [[Databases]] (2), [[Data Science]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **Tools:** command line (3)
 > **Analogies:** such as (3)
@@ -430,8 +424,7 @@ created: 2026-05-02
 > **Env Vars:** jdbc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Is this a connected data problem?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-is-this-a-connected-data-problem?u=76281980)
+#### [Challenge: Is this a connected data problem?](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-is-this-a-connected-data-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,12 +444,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Is this a connected data problem?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/solution-is-this-a-connected-data-problem?u=76281980)
+#### [Solution: Is this a connected data problem?](https://www.linkedin.com/learning/introduction-to-neo4j/solution-is-this-a-connected-data-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +475,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), strengths (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -495,8 +485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anatomy of a property graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980)
+#### [Anatomy of a property graph](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,7 +509,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980&t=51)** So let's have a look at the anatomy of a property graph by walking through a simple example.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980&t=57)** Jane, a customer at a store, buys a pair of sunglasses, one of the products available for sale, on January 5th, 2022.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980&t=57)** Jane, a customer at a store, buys a pair of sunglasses, one of the [[Microsoft Products|products]] available for sale, on January 5th, 2022.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980&t=65)** So let's split this scenario out into the components, based on our picture.
 >
@@ -564,18 +553,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Products|Products]] (3), database (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** iso (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting up and running with Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980)
+#### [Getting up and running with Neo4j](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=0)** - [Instructor] You'll need to go to [neo4j.com/sandbox](https://neo4j.com/sandbox), and you'll be greeted with this page.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=0)** - [Instructor] You'll need to go to [[[Neo4j]].com/sandbox](https://neo4j.com/sandbox), and you'll be greeted with this page.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-neo4j/getting-up-and-running-with-neo4j?u=76281980&t=7)** We're going to be pressing the Launch the Free Sandbox button, and you'll be presented with a login page.
 >
@@ -625,21 +613,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (8), database (2), data (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Neo4j]] (8)
 > **UI Navigation:** go to (1), scroll down (1), select the (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you'll need (2)
 > **URLs:** [neo4j.com](https://neo4j.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hello, world!
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/hello-world?u=76281980)
+#### [Hello, world!](https://www.linkedin.com/learning/introduction-to-neo4j/hello-world?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/hello-world?u=76281980&t=0)** - [Instructor] Hello, World!
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-neo4j/hello-world?u=76281980&t=2)** So, we've got the Neo4j sandbox up and running.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-neo4j/hello-world?u=76281980&t=2)** So, we've got the [[Neo4j]] sandbox up and running.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-neo4j/hello-world?u=76281980&t=5)** So let's go and write a sample query.
 >
@@ -699,23 +686,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), data (7), [[Neo4j]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (1)
 > **CLI Commands:** node (10), find (1)
 > **Env Vars:** says (2), create (1), return (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Cypher
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980)
+#### [Introducing Cypher](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980&t=0)** - [Instructor] Introducing Cypher.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980&t=2)** Cypher is a graph query language for Neo4j.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980&t=2)** Cypher is a graph query language for [[Neo4j]].
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980&t=6)** And as well as being used in Neo4j, it is used in a number of other databases, such as RedisGraph and SAP HANA Graph.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980&t=6)** And as well as being used in Neo4j, it is used in a number of other [[Databases]], such as RedisGraph and SAP HANA Graph.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-cypher?u=76281980&t=12)** It is a declarative language.
 >
@@ -789,15 +775,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[Neo4j]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (2), [[Databases]] (1)
 > **Definitions:** is a  (10), refers to (1)
 > **CLI Commands:** node (9), make (1)
 > **Env Vars:** sap (1), hana (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Your first Cypher queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-your-first-cypher-queries?u=76281980)
+#### [Challenge: Your first Cypher queries](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-your-first-cypher-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,13 +804,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Your first Cypher queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/solution-your-first-cypher-queries?u=76281980)
+#### [Solution: Your first Cypher queries](https://www.linkedin.com/learning/introduction-to-neo4j/solution-your-first-cypher-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +832,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lulu] (1)
@@ -860,8 +842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the course data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980)
+#### [Introducing the course data set](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,9 +880,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=123)** Now let's load some data.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=125)** You'll find the data, along with the load scripts, available on this GitHub repository.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=125)** You'll find the data, along with the load scripts, available on this [[GitHub]] repository.
 >
-> **[2:11](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=131)** You don't need to download anything, and everything is available for you to just copy and paste into the Neo4j browser.
+> **[2:11](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=131)** You don't need to download anything, and everything is available for you to just copy and paste into the [[Neo4j]] browser.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=138)** You can find this GitHub repository link also on the landing page of this course.
 >
@@ -915,7 +896,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=168)** So what you need to do is copy all of this.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=170)** So if you're on Windows, that's Control + C, Control + A.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=170)** So if you're on [[Windows]], that's Control + C, Control + A.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980&t=174)** If you are on a Mac, that's Command + A, Command + C, and we will use this in the Neo4j browser.
 >
@@ -967,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), database (6), node (4), [[Neo4j]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Neo4j]] (3), [[GitHub]] (2), [[Windows]] (1)
 > **CLI Commands:** find (5), node (4), make (2)
 > **UI Navigation:** click on (6)
 > **Analogies:** for example (3), such as (2)
@@ -976,8 +957,7 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Cross-References:** in the next (1)
 
-#### MATCHing nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/matching-nodes?u=76281980)
+#### [MATCHing nodes](https://www.linkedin.com/learning/introduction-to-neo4j/matching-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1055,7 +1035,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (3), node (2)
 > **Env Vars:** return (5), where (5), match (4), limit (1)
 > **SQL:** where (5)
 > **CLI Commands:** node (2)
@@ -1063,8 +1042,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### MATCHing nodes and relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/matching-nodes-and-relationships?u=76281980)
+#### [MATCHing nodes and relationships](https://www.linkedin.com/learning/introduction-to-neo4j/matching-nodes-and-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1142,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), data (6), database (1)
 > **CLI Commands:** node (9)
 > **Env Vars:** gpa (6)
 > **Definitions:** is a  (4)
@@ -1172,9 +1149,9 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), remember to (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### Counting and aggregating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980)
+#### [Counting and aggregating data](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1186,11 +1163,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=15)** However, it's not always about circles and arrows, and we've also seen we can output tabular data as well.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=21)** So more commonly when we use Neo4j, we are using it to leverage the performance it offers under the hood of exploring and querying connected data.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=21)** So more commonly when we use [[Neo4j]], we are using it to leverage the performance it offers under the hood of exploring and querying connected data.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=31)** And the most useful output to us is probably going to be in the form of a results table.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=35)** And it's not that dissimilar to what we'd expect to get when using other database systems.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=35)** And it's not that dissimilar to what we'd expect to get when using other [[Database Systems]].
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-neo4j/counting-and-aggregating-data?u=76281980&t=40)** As with many other query languages we also have the ability to count, aggregate, and order our data.
 >
@@ -1282,7 +1259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Neo4j]] (1), database (1), node (1)
+> **Frameworks & Libraries:** [[Neo4j]] (1), [[Database Systems]] (1)
 > **CLI Commands:** find (7), node (1), make (1)
 > **Env Vars:** where (4), limit (2), order (2), return (1)
 > **SQL:** where (4), order by (2)
@@ -1290,8 +1267,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Beyond one hop
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980)
+#### [Beyond one hop](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,7 +1375,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=363)** So one thing you may spot here is we have this p=.
 >
-> **[6:06](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=366)** So anything that is a reference name equals and then the rest of your pattern, that's what we call a path, and path is just basically something that consists of nodes and relationships in it.
+> **[6:06](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=366)** So anything that is a reference name equals and then the [[Representational State Transfer (REST)|rest]] of your pattern, that's what we call a path, and path is just basically something that consists of nodes and relationships in it.
 >
 > **[6:20](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=380)** So we're going to return that path, which we've called p.
 >
@@ -1423,11 +1399,11 @@ created: 2026-05-02
 >
 > **[7:33](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=453)** So do think about using star and star with a range with extreme care, and a quick note on the above.
 >
-> **[7:43](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=463)** This doesn't always apply if you're using graph algorithms, such as shortest path, because they are designed to run efficiently on the graph.
+> **[7:43](https://www.linkedin.com/learning/introduction-to-neo4j/beyond-one-hop?u=76281980&t=463)** This doesn't always apply if you're using graph [[Algorithms]], such as shortest path, because they are designed to run efficiently on the graph.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), database (4), data (3), power (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** node (11), find (5), make (2)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (2), known as (1)
@@ -1435,8 +1411,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Time to answer some questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-time-to-answer-some-questions?u=76281980)
+#### [Challenge: Time to answer some questions](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-time-to-answer-some-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,14 +1437,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** aru (1), gpa (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Time to answer some questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/solution-time-to-answer-some-questions?u=76281980)
+#### [Solution: Time to answer some questions](https://www.linkedin.com/learning/introduction-to-neo4j/solution-time-to-answer-some-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1500,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), node (3), database (1), data (1)
 > **CLI Commands:** find (4), node (3)
 > **Env Vars:** gpa (5), yes (1), studied_abroad_in (1)
 > **Versions:** 3.75 (1)
@@ -1539,8 +1511,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CREATEing your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/createing-your-data?u=76281980)
+#### [CREATEing your data](https://www.linkedin.com/learning/introduction-to-neo4j/createing-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,15 +1599,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (14), data (8), next (1)
 > **Env Vars:** create (7), match (4), knows (3), merge (2), relationship_type (2)
 > **CLI Commands:** node (14), find (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** nodeproperties (1), relationshipproperties (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating and REMOVEing your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/updating-and-removeing-your-data?u=76281980)
+#### [Updating and REMOVEing your data](https://www.linkedin.com/learning/introduction-to-neo4j/updating-and-removeing-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,14 +1673,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (12), data (6), next (1)
 > **CLI Commands:** node (12)
 > **Env Vars:** set (5), remove (3), sets (1), lsl (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### DELETEing your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/deleteing-your-data?u=76281980)
+#### [DELETEing your data](https://www.linkedin.com/learning/introduction-to-neo4j/deleteing-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,7 +1770,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), node (4)
 > **Env Vars:** delete (7), detach (4), apac (2)
 > **API Endpoints:** delete  (6)
 > **CLI Commands:** node (4)
@@ -1811,8 +1777,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980)
+#### [Challenge: Putting it all together](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1832,7 +1797,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=63)** First of all, you are going to update their database so that they have a field containing the whole student's name to improve reporting as well as making the database more efficient for querying.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=74)** Then, you are going to put together a query to find out the country that is the most popular for studying graphic design.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=74)** Then, you are going to put together a query to find out the country that is the most popular for studying [[Graphic Design]].
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=80)** Afterwards, the Roux Academy would like to know which country attracts the most A grades.
 >
@@ -1850,7 +1815,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=132)** Did you check the data model for who's connected to what?
 >
-> **[2:15](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=135)** You'll find a copy of the data model to refer to on the course GitHub repository as well as in the previous chapters in this course.
+> **[2:15](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=135)** You'll find a copy of the data model to refer to on the course [[GitHub]] repository as well as in the previous chapters in this course.
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-neo4j/challenge-putting-it-all-together?u=76281980&t=143)** Don't forget to look at the relationship directions.
 >
@@ -1862,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (3), [[Graphic Design]] (1), [[Troubleshooting]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (5)
 > **Best Practices:** don't forget (2)
 > **Non-Speech:** (upbeat music) (2)
@@ -1870,8 +1835,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - putting (1)
 
-#### Solution: Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/solution-putting-it-all-together?u=76281980)
+#### [Solution: Putting it all together](https://www.linkedin.com/learning/introduction-to-neo4j/solution-putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1891,7 +1855,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-neo4j/solution-putting-it-all-together?u=76281980&t=44)** So if I select a student at random here and look at the bottom of the pane, you can see we've now got a name property with the first and last name.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-neo4j/solution-putting-it-all-together?u=76281980&t=55)** Our next task was to go away and find out which country was the most popular for graphic design.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-neo4j/solution-putting-it-all-together?u=76281980&t=55)** Our next task was to go away and find out which country was the most popular for [[Graphic Design]].
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-neo4j/solution-putting-it-all-together?u=76281980&t=62)** I notice here I've shown there's at least two different ways that we could answer this question.
 >
@@ -1961,7 +1925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Graphic Design]] (3), next (2)
+> **Frameworks & Libraries:** [[Graphic Design]] (3)
 > **CLI Commands:** find (5), node (5), make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
@@ -1972,8 +1936,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1989,17 +1952,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=19)** Let's quickly summarize what we've covered in this introductory course.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=23)** We've looked at what a graph database is and why they're different to other databases.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=23)** We've looked at what a graph database is and why they're different to other [[Databases]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=28)** We've also looked at when to use a graph database and the different types of graph storage structures you may encounter.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=35)** We've also looked at creating, modifying, and querying data in Neo4j using the Cypher query language.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=35)** We've also looked at creating, modifying, and querying data in [[Neo4j]] using the Cypher query language.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=42)** And last but not least, we've had hands-on experience answering connected questions.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=48)** So as the saying goes, practice makes perfect.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=53)** I would suggest that you take this opportunity to revisit the queries used in this course, either by rewatching the chapter videos or exploring the queries on the course GitHub repository.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=53)** I would suggest that you take this opportunity to revisit the queries used in this course, either by rewatching the chapter videos or exploring the queries on the course [[GitHub]] repository.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=65)** This is especially useful if you don't quite completely understand why a query works in a certain way.
 >
@@ -2021,7 +1984,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=139)** Happy graphing.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=141)** If you'd like to, feel free to reach out to me on LinkedIn.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=141)** If you'd like to, feel free to reach out to me on [[LinkedIn]].
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980&t=145)** You can also check out other graph and tech-related content I write about, on my website.
 >
@@ -2031,7 +1994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (5), database (4), data (4), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (5), [[Databases]] (1), [[GitHub]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Definitions:** is a  (2)
 > **Tools:** github (1)

@@ -48,8 +48,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the boundaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980)
+#### [Understanding the boundaries](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -63,7 +62,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=55)** In 2009, the Economist Intelligence Unit released a report and it was call Organizational agility: how businesses can survive and thrive in turbulent times.
 >
-> **[1:09](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=69)** And one the main quotes coming out of this that I really liked to cite, "The main obstacles to improved business responsiveness "is slow decision-making, "conflicting departmental goals "conflicting priorities "and risk-adverse cultures with silo-based information."
+> **[1:09](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=69)** And one the main quotes coming out of this that I really liked to cite, "The main obstacles to improved business responsiveness "is slow [[Decision-Making]], "conflicting departmental goals "conflicting priorities "and risk-adverse cultures with silo-based information."
 >
 > **[1:29](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=89)** All the things that help an organization to grind to a halt.
 >
@@ -73,7 +72,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=99)** This is not helping the organization to move forward.
 >
-> **[1:43](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=103)** But with regulatory compliance and security, you have to deal with it.
+> **[1:43](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=103)** But with [[Regulatory Compliance]] and security, you have to deal with it.
 >
 > **[1:48](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=108)** We have what we call the wall of nos in our industry.
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=126)** Now, it would be an everybody's advantage in an organization to understand exactly what the regulations and laws are that govern the operation of the organization.
 >
-> **[2:17](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=137)** It would also be helpful if all the people in risk and compliance understand exactly what it is the organization is trying to achieve and help the people who are actually doing the work find a balance between following the laws and reducing risk and actually moving the organization forward and delivering products and services at a pace that is expected by customers.
+> **[2:17](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=137)** It would also be helpful if all the people in risk and compliance understand exactly what it is the organization is trying to achieve and help the people who are actually doing the work find a balance between following the laws and reducing risk and actually moving the organization forward and delivering [[Microsoft Products|products]] and services at a pace that is expected by customers.
 >
 > **[2:45](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980&t=165)** So we've got to have collaboration and cooperation happening.
 >
@@ -151,7 +150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), product (1), business (1), [[Decision-Making]] (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Regulatory Compliance]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** sox (1), pci (1), dss (1), hipaa (1)
 > **Definitions:** is an  (1)
@@ -159,14 +158,13 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - what (1)
 
-#### Understanding the language of risk and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980)
+#### [Understanding the language of risk and compliance](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=5)** - In unit two, we're gonna talk more about how to understand the language surrounding governance, risk, and compliance.
 >
-> **[0:12](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=12)** And how to create a shared understanding between the two opposing and often conflicting departments or specialists of "I'm product development "and delivery."
+> **[0:12](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=12)** And how to create a shared understanding between the two opposing and often conflicting departments or specialists of "I'm [[Product Development]] "and delivery."
 >
 > **[0:23](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=23)** I work fast.
 >
@@ -242,7 +240,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=261)** As opposed to a process which is a series of activities that take inputs and create outputs.
 >
-> **[4:28](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=268)** Now you notice that there's a word missing here and that word is value.
+> **[4:28](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=268)** Now you notice that there's a [[Microsoft Word|word]] missing here and that word is value.
 >
 > **[4:32](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-language-of-risk-and-compliance?u=76281980&t=272)** A process only tells you you take something and you change it into something else.
 >
@@ -300,14 +298,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Product Development]] (3), [[Security]] (3), product (2), business (2)
+> **Frameworks & Libraries:** [[Product Development]] (3), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - in (1)
 
-#### Share responsibilities to achieve better outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980)
+#### [Share responsibilities to achieve better outcomes](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=67)** Now, usually, what happens, we're on polar opposites.
 >
-> **[1:11](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=71)** Product teams versus security risk and compliance.
+> **[1:11](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=71)** Product teams versus [[Security Risk]] and compliance.
 >
 > **[1:15](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=75)** So how do we meet in the middle?
 >
@@ -355,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=138)** That doesn't really add value.
 >
-> **[2:20](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=140)** And a good example of this is a number of organizations who have passed payment card industry data security standard audit but still have major breaches.
+> **[2:20](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=140)** And a good example of this is a number of organizations who have passed payment card industry [[Data Security]] standard audit but still have major breaches.
 >
 > **[2:32](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=152)** They haven't done what it takes to reduce the risk of actually having a security breach, but they've passed compliance.
 >
@@ -403,9 +400,9 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=275)** And we'll talk about that more in more depth in the next unit.
 >
-> **[4:40](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=280)** But right now I want to talk about a few ways you can actually improve the visibility around risk and compliance and security and how it affects product development and eventually, the outcomes of the product development for the entire organization.
+> **[4:40](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=280)** But right now I want to talk about a few ways you can actually improve the visibility around risk and compliance and security and how it affects [[Product Development]] and eventually, the outcomes of the product development for the entire organization.
 >
-> **[4:57](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=297)** So the first one I talk about is customer journey mapping.
+> **[4:57](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=297)** So the first one I talk about is [[Customer Journey Mapping]].
 >
 > **[5:00](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=300)** This is a process where you look at the core interactions of your target customers.
 >
@@ -495,7 +492,7 @@ created: 2026-05-02
 >
 > **[10:30](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=630)** But it doesn't have to be escalated to a level where it becomes really immaterial and makes no sense anymore.
 >
-> **[10:38](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=638)** You always need to know what type of information you're dealing with within your products and systems.
+> **[10:38](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=638)** You always need to know what type of information you're dealing with within your [[Microsoft Products|products]] and systems.
 >
 > **[10:44](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/share-responsibilities-to-achieve-better-outcomes?u=76281980&t=644)** This is critical.
 >
@@ -587,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (20), product (15), teams (12), management (3), next (2)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Customer Journey Mapping]] (2), [[Security Risk]] (1), [[Data Security]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (11), find (5)
 > **Definitions:** is a  (7)
 > **UI Navigation:** go to (4)
@@ -596,8 +593,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** you should always (1)
 
-#### Creating faster feedback on risk and compliance, governance, measurement, and reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980)
+#### [Creating faster feedback on risk and compliance, governance, measurement, and reporting](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,7 +631,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=145)** Some of the key metrics you wanna talk about.
 >
-> **[2:29](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=149)** We want to talk about defects and basically in the security risk and compliance it's either I'm out of compliance or there are gaps in controls that we need to have in place.
+> **[2:29](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=149)** We want to talk about defects and basically in the [[Security Risk]] and compliance it's either I'm out of compliance or there are gaps in controls that we need to have in place.
 >
 > **[2:40](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=160)** And it might be that we're running with a lot of risk and we're not comfortable with that.
 >
@@ -669,7 +665,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=228)** Are we doing it the right way?
 >
-> **[3:50](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=230)** Are we doing it well, and are we getting value from word?
+> **[3:50](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=230)** Are we doing it well, and are we getting value from [[Microsoft Word|word]]?
 >
 > **[3:53](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=233)** And when we talk about risk and compliance and security, it really is that reporting scorecard that focuses around prevention, detection, response, and recovery.
 >
@@ -795,7 +791,7 @@ created: 2026-05-02
 >
 > **[12:05](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=725)** PCIDSS standards are really ones that are quite prescriptive that say you have to isolate the payment card information from everybody else within the organization and make sure that it is very secure.
 >
-> **[12:20](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=740)** Now don't imply that you're going to have segregation to do these between the product development and the product support team for all of your systems.
+> **[12:20](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=740)** Now don't imply that you're going to have segregation to do these between the [[Product Development]] and the product support team for all of your systems.
 >
 > **[12:33](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/creating-faster-feedback-on-risk-and-compliance-governance-measurement-and-reporting?u=76281980&t=753)** Isolate the payment card information and restrict that control just to that database.
 >
@@ -857,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), teams (11), product (9), data (3), business (2)
+> **Frameworks & Libraries:** [[Security Risk]] (1), [[Microsoft Word|Word]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), for example (1)

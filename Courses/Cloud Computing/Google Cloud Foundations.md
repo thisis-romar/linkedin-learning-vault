@@ -75,14 +75,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980)
+#### [Understanding Google Cloud](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980&t=1)** - [Mark] Hello folks.
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980&t=1)** Welcome to understanding Google Cloud foundations.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980&t=1)** Welcome to understanding [[Google Cloud Platform (GCP)|Google Cloud]] foundations.
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980&t=4)** My name is Mark Johnson and today I'm really excited to go through this course because we're really going to get that understanding of Google Cloud from a foundational level.
 >
@@ -96,18 +95,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [mark] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/google-cloud-foundations/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/what-you-should-know?u=76281980&t=1)** - [Instructor] So the question you may have is, okay, what do I need to learn?
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-foundations/what-you-should-know?u=76281980&t=5)** Basically, just general Google Cloud knowledge, and that's what the focus of this course is all about.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-foundations/what-you-should-know?u=76281980&t=5)** Basically, just general [[Google Cloud Platform (GCP)|Google Cloud]] knowledge, and that's what the focus of this course is all about.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-foundations/what-you-should-know?u=76281980&t=10)** And we're honestly just going to be focused on the exam guide from the cloud digital leader, and it's going to be specifically on section two.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -137,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Google Cloud compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980)
+#### [Understanding Google Cloud compliance](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=1)** - [Narrator] All right, so let's get started, and let's talk about Google Cloud compliance.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=1)** - [Narrator] All right, so let's get started, and let's talk about [[Google Cloud Platform (GCP)|Google Cloud]] compliance.
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=6)** And to be honest, compliance, it just means a lot of different things to different people.
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=63)** So let's jump into that real quick, just so you get a good insight on how to find this information.
 >
-> **[1:10](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=70)** Okay, so the first thing you want to do is, if you go to cloud.[google.com/security/compliance](https://google.com/security/compliance), you'll get to this compliance resource center.
+> **[1:10](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=70)** Okay, so the first thing you want to do is, if you go to cloud.[[[Google]].com/security/compliance](https://google.com/security/compliance), you'll get to this compliance resource center.
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=80)** And when you're scrolling down here, you could see a lot of different things.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=150)** You could see the Admin Console, you could see Cloud DNS, Cloud Identity, various Google Cloud services that have a high rating.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=158)** And then you have some that have a moderate, and there's just different levels overall to the FedRAMP system of how you can use these different products and services.
+> **[2:38](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=158)** And then you have some that have a moderate, and there's just different levels overall to the FedRAMP system of how you can use these different [[Microsoft Products|products]] and services.
 >
 > **[2:49](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980&t=169)** You'll also see Google Workspace down here as well.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (4), cloud (3), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (4), [[Microsoft Products|Products]] (1)
 > **Env Vars:** usa (1), cjis (1), dns (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (2)
@@ -194,8 +191,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Accessing Google Cloud compliance documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980)
+#### [Accessing Google Cloud compliance documents](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,19 +213,19 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=67)** And then once I download it, it's going to give me a zip file.
 >
-> **[1:10](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=70)** You'll actually be able to see the certificate of the standard where Google meets it.
+> **[1:10](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=70)** You'll actually be able to see the certificate of the standard where [[Google]] meets it.
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=75)** So this was issued back in may of this year.
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=78)** So that gives you a good example of how you can find this information, where you can download documents, if you're working with the legal department, or you're working with some of your regulators or auditors, and you need to provide this, well, this is where you go to get it.
 >
-> **[1:33](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=93)** And that's exactly what you need to know about Google Cloud Compliance for the Cloud Digital Leader.
+> **[1:33](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=93)** And that's exactly what you need to know about [[Google Cloud Platform (GCP)|Google Cloud]] Compliance for the Cloud Digital Leader.
 >
 > **[1:40](https://www.linkedin.com/learning/google-cloud-foundations/accessing-google-cloud-compliance-documents?u=76281980&t=100)** I'll see you in the next section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Env Vars:** iso (2)
 > **CLI Commands:** find (1)
@@ -242,22 +238,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How Gemini works and uses your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980)
+#### [How Gemini works and uses your data](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=0)** - [Instructor] All right, folks, so now, we're going to talk about how Gemini works and uses your data, and this is important because when you're talking about overall Google Cloud compliance, AI and Gemini are really new to the scene, and they offer a whole lot of information that you can read up on, so that you know exactly what these principles are.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=0)** - [Instructor] All right, folks, so now, we're going to talk about how [[Gemini]] works and uses your data, and this is important because when you're talking about overall [[Google Cloud Platform (GCP)|Google Cloud]] compliance, AI and Gemini are really new to the scene, and they offer a whole lot of information that you can read up on, so that you know exactly what these principles are.
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=22)** So first and foremost, let's look at the privacy policy, and that basically is designed to give you all control over your information, and what I mean by that, all control, I mean the ability to protect it, encrypt it, governance over it, you name it.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=22)** So first and foremost, let's look at the [[Privacy]] policy, and that basically is designed to give you all control over your information, and what I mean by that, all control, I mean the ability to protect it, encrypt it, governance over it, you name it.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=39)** So you have complete control over your information, and you don't have to use any of these services if you choose not to.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=45)** So that's something to keep in mind if you're using Gemini in Google Workspace or Google Cloud Platform.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=45)** So that's something to keep in mind if you're using Gemini in [[Google]] Workspace or [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:52](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=52)** So now, let's go ahead and go to the website and take a look at how Gemini for Google Cloud uses your data.
 >
-> **[1:00](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=60)** Now, this website here, it's a nice document on it, several different links that we won't click on every one of them, but I do want to call out Google's privacy commitment, which is at this link here, and if we click on it, an article comes up, "Sharing our data privacy commitments "for the AI area," and this came out back in 2020.
+> **[1:00](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=60)** Now, this website here, it's a nice document on it, several different links that we won't click on every one of them, but I do want to call out Google's privacy commitment, which is at this link here, and if we click on it, an article comes up, "Sharing our [[Data Privacy]] commitments "for the AI area," and this came out back in 2020.
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=83)** And then another part of this website I want to talk about is the data that you submit and receive.
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=150)** So you control exactly what code is being shared with Google and where it's being stored.
 >
-> **[2:37](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=157)** All right, so now let's talk about responsible AI, and when you're talking about responsible AI, I like these four bullet points here, because it really hits the point home, and that's the social benefit.
+> **[2:37](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=157)** All right, so now let's talk about [[Responsible AI]], and when you're talking about responsible AI, I like these four bullet points here, because it really hits the point home, and that's the social benefit.
 >
 > **[2:49](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=169)** Ultimately, who benefits from using AI, right?
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=176)** If the answer to that question is yes, you're on the right track.
 >
-> **[3:00](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=180)** Fairness, accountability, transparency, all these things are pretty much common sense, but we do want to call them out, because of course you can use AI to not do these things or do the opposite of these things, and that isn't what responsible AI is all about.
+> **[3:00](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=180)** Fairness, [[Accountability]], transparency, all these things are pretty much common sense, but we do want to call them out, because of course you can use AI to not do these things or do the opposite of these things, and that isn't what responsible AI is all about.
 >
 > **[3:17](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980&t=197)** So responsible AI is following these principles here that I've outlined, but if you want to dig a little deeper, I'm going to go to Google's AI principles website.
 >
@@ -305,23 +300,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Gemini]] (8), [[Google]] (6), data (4), [[Responsible AI]] (4)
+> **Frameworks & Libraries:** [[Gemini]] (8), [[Google]] (6), [[Responsible AI]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Privacy]] (2)
 > **UI Navigation:** go to (3), click on (3)
 > **Env Vars:** pdf (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gemini security and safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980)
+#### [Gemini security and safety](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=0)** - [Instructor] All right folks, so now let's talk about Gemini Security.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=0)** - [Instructor] All right folks, so now let's talk about [[Gemini]] Security.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=3)** Now, this is a very important topic in all of AI, Google Gemini AI specifically, because when you're talking about AI, Gemini Security, data protection, you want to know all about that, right?
+> **[0:03](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=3)** Now, this is a very important topic in all of AI, [[Google Gemini]] AI specifically, because when you're talking about AI, Gemini Security, data protection, you want to know all about that, right?
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=15)** Is your data encrypted, in transit, at rest?
+> **[0:15](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=15)** Is your data encrypted, in transit, at [[Representational State Transfer (REST)|rest]]?
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=19)** Answer to that is yes.
 >
@@ -337,11 +331,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=31)** Who can tamper with them?
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=33)** And then also the collaboration piece, because it's also good to understand who Google works with.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=33)** And then also the collaboration piece, because it's also good to understand who [[Google]] works with.
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=40)** Is it just folks within Google themselves or is it third parties?
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=45)** So we're going to answer these questions by going to Google Cloud's website and the first thing I want to look at here on Gemini for Google Cloud, how it uses your data, is let's scroll down here to the encryption of prompts.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=45)** So we're going to answer these questions by going to [[Google Cloud Platform (GCP)|Google Cloud]]'s website and the first thing I want to look at here on Gemini for Google Cloud, how it uses your data, is let's scroll down here to the encryption of prompts.
 >
 > **[0:58](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=58)** So when you submit prompts into Gemini, it says right there, your data is encrypted in transit as input to the underlying model in Gemini.
 >
@@ -351,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=76)** The next thing I want to talk about is if we go to these AI principles, I'm going to come down here to responsibility and safety and on this website here, let's go down a little bit.
 >
-> **[1:33](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=93)** Really good insight on monitoring around the clock, how they have safety and security teams 24/7, 365 monitoring all Google Cloud products.
+> **[1:33](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=93)** Really good insight on monitoring around the clock, how they have safety and security teams 24/7, 365 monitoring all Google Cloud [[Microsoft Products|products]].
 >
 > **[1:45](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=105)** But when you're talking about addressing security vulnerabilities at scale, Google actually offers a bug bounty program.
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=165)** So ultimately, check out this website.
 >
-> **[2:47](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=167)** If you scroll down more, there's a lot more information, protecting your privacy with AI.
+> **[2:47](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=167)** If you scroll down more, there's a lot more information, protecting your [[Privacy]] with AI.
 >
 > **[2:52](https://www.linkedin.com/learning/google-cloud-foundations/gemini-security-and-safety?u=76281980&t=172)** There's videos, there's all kinds of cool things, but ultimately it is secure.
 >
@@ -383,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), ai (7), [[Gemini]] (5), data (5), [[Google]] (5)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Google]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -396,16 +390,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Google Cloud resources and hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980)
+#### [Understanding Google Cloud resources and hierarchy](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=1)** - [Instructor] So as you're looking at this screen here, you're just looking at that image, it's really just representing what a cloud computing environment would look like because you have your whole environment, which is represented by that blue cloud and you see all the different resources and devices that are plugging into it.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=1)** - [Instructor] So as you're looking at this screen here, you're just looking at that image, it's really just representing what a [[Cloud Computing]] environment would look like because you have your whole environment, which is represented by that blue cloud and you see all the different resources and devices that are plugging into it.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=20)** So with that being said, let's jump into a demo.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=24)** And now what we're looking at is inside the Google cloud console, we're looking at the resource hierarchy section.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=24)** And now what we're looking at is inside the [[Google Cloud Platform (GCP)|Google cloud]] console, we're looking at the resource hierarchy section.
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=31)** And here, what we're going to go through is projects and folders so you can understand what they look like.
 >
@@ -433,9 +426,9 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=141)** Now talking about a project, let's kind of talk a little bit more about that.
 >
-> **[2:26](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=146)** If we click on that at the top, this is the lowest level of all the hierarchy, it has all your resources, your virtual machines.
+> **[2:26](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=146)** If we click on that at the top, this is the lowest level of all the hierarchy, it has all your resources, your [[Virtual Machines]].
 >
-> **[2:35](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=155)** It has your databases.
+> **[2:35](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=155)** It has your [[Databases]].
 >
 > **[2:38](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980&t=158)** So when we click on this section here, you're going to see... It's a good explanation here explaining what this resource is.
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), teams (2), gcp (2), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Virtual Machines]] (1), [[Databases]] (1)
 > **UI Navigation:** scroll down (2), click on (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** gcp (2), cfo (1)
@@ -468,8 +461,7 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing identity and access
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980)
+#### [Managing identity and access](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=187)** If I put, if I go in and click grant access here.
 >
-> **[3:11](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=191)** With that being said, if I scroll down and here are some other best practice from a Google perspective to set you up with, here's a security one, that's going to give you all these additional roles.
+> **[3:11](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=191)** With that being said, if I scroll down and here are some other best practice from a [[Google]] perspective to set you up with, here's a security one, that's going to give you all these additional roles.
 >
 > **[3:22](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=202)** So let's say the organizational policy from the organization policy admin, that gives the permission, you can set organization level cloud IAM policy.
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=239)** And then one other key one I'll point out with this one is, oh, it also, if we scroll down here to the bottom, when you see big query data viewer, it will grant permission for big query datasets.
 >
-> **[4:12](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=252)** So if somebody has databases set up and they're, creating data and processing data and analyzing it within big query, this role is going to have the ability to go into it and view it and get some insights on it, understand what's going on.
+> **[4:12](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=252)** So if somebody has [[Databases]] set up and they're, creating data and processing data and analyzing it within big query, this role is going to have the ability to go into it and view it and get some insights on it, understand what's going on.
 >
 > **[4:29](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=269)** And we'll scroll down a little more.
 >
@@ -557,13 +549,13 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=353)** I'm also going to go back here and click on this cloud IAM policies.
 >
-> **[5:59](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=359)** And if you look at this, this is right on Google Cloud's web page, you're going to see here that this is a good example of showing you a policy.
+> **[5:59](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=359)** And if you look at this, this is right on [[Google Cloud Platform (GCP)|Google Cloud]]'s web page, you're going to see here that this is a good example of showing you a policy.
 >
 > **[6:08](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=368)** And it shows you the members, which is a Google account, which could be any Gmail account, it could be an account that's not a Gmail account but maybe let's say you're using a [yahoo.com](https://yahoo.com) email and you create a Google account with it, so you don't have to be using Gmail.
 >
 > **[6:26](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=386)** It could be a service account which could be used to set up applications or to do different things within the application.
 >
-> **[6:36](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=396)** And that adding into that compute image role, image user, that's going to allow that actual account to have the ability to use a particular compute engine image, which is great because let's say you need to use a particular version of Linux and okay, this person you want to give access to those in this Google account, in the service account, and then from there, you'll see the same thing with the Google Workspace and the Google Group, those could be more members and let's say they need the compute instance admin and then that ties into IAM, as you can see here in the middle of the screen, and when you're looking at the organization, you'll see the folder, you see the project, then it gets down to the resource.
+> **[6:36](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=396)** And that adding into that compute image role, image user, that's going to allow that actual account to have the ability to use a particular compute engine image, which is great because let's say you need to use a particular version of [[Linux]] and okay, this person you want to give access to those in this Google account, in the service account, and then from there, you'll see the same thing with the Google Workspace and the Google Group, those could be more members and let's say they need the compute instance admin and then that ties into IAM, as you can see here in the middle of the screen, and when you're looking at the organization, you'll see the folder, you see the project, then it gets down to the resource.
 >
 > **[7:21](https://www.linkedin.com/learning/google-cloud-foundations/managing-identity-and-access?u=76281980&t=441)** So that gives you a nice flow of how these things are set up and you can bind these different things together.
 >
@@ -575,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Security]] (5), gcp (4), cloud (3), data (3)
+> **Frameworks & Libraries:** [[Google]] (6), [[Databases]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Linux]] (1)
 > **Env Vars:** iam (5), gcp (4), ssl (2)
 > **UI Navigation:** scroll down (4), go to (1), click on (1)
 > **Prerequisites:** set up (6)
@@ -589,12 +581,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Cloud billing fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980)
+#### [Google Cloud billing fundamentals](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=1)** - [Instructor] Welcome to the next section, Google Cloud Billing Fundamentals.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=1)** - [Instructor] Welcome to the next section, [[Google Cloud Platform (GCP)|Google Cloud]] Billing Fundamentals.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=5)** Now, in this section, what we're going to do is we're going to learn a lot about just the basic fundamental billing setup within GCP.
 >
@@ -616,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=99)** So we definitely want to make sure you understand that.
 >
-> **[1:43](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=103)** And then the next part of this, I want to talk about this section of the exam guide, which you're going to learn throughout the rest of this section, section 2.3.
+> **[1:43](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=103)** And then the next part of this, I want to talk about this section of the exam guide, which you're going to learn throughout the [[Representational State Transfer (REST)|rest]] of this section, section 2.3.
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980&t=114)** So we're going to be talking about how you can understand, basically, we're going to describe how you control and optimize all your GCP costs.
 >
@@ -644,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (9), next (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2), database (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gcp (9)
 > **Prerequisites:** setup (2), set up (2)
 > **CLI Commands:** make (2), find (1)
@@ -653,20 +644,19 @@ created: 2026-05-02
 > **Tools:** gcp console (1)
 > **Best Practices:** recommended (1)
 
-#### Understanding billing roles and usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980)
+#### [Understanding billing roles and usage](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=1)** - [Instructor] How to understand resource usage.
 >
-> **[0:04](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=4)** Now, I'm excited about this part because one of the mysteries of all cloud, and Google Cloud as well, is how are you paying for this stuff?
+> **[0:04](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=4)** Now, I'm excited about this part because one of the mysteries of all cloud, and [[Google Cloud Platform (GCP)|Google Cloud]] as well, is how are you paying for this stuff?
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=14)** And let's jump into the Google Cloud website here.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=18)** And I want to take two different resources within GCP and just kind of break down how you pay for this.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=25)** So Google Cloud SQL, the pricing ultimately works a lot like Compute Engine, meaning that you see down here as I scroll down, you're choosing the CPU and memory and you can choose up to 96 CPU's and 624 gigabytes of memory.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=25)** So Google Cloud [[SQL]], the pricing ultimately works a lot like Compute Engine, meaning that you see down here as I scroll down, you're choosing the CPU and memory and you can choose up to 96 CPU's and 624 gigabytes of memory.
 >
 > **[0:45](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=45)** Ultimately what that means is, is you're actually paying for however many CPU's you choose and memory.
 >
@@ -676,9 +666,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=103)** That's what you're going to pay.
 >
-> **[1:45](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=105)** In contrast, if we go over and look at something like Google BigQuery, this is completely serverless.
+> **[1:45](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=105)** In contrast, if we go over and look at something like [[Google]] BigQuery, this is completely serverless.
 >
-> **[1:53](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=113)** And what does serverless mean is that you don't have to provision any instances or virtual machines to use BigQuery, which is nice.
+> **[1:53](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=113)** And what does serverless mean is that you don't have to provision any instances or [[Virtual Machines]] to use BigQuery, which is nice.
 >
 > **[2:01](https://www.linkedin.com/learning/google-cloud-foundations/understanding-billing-roles-and-usage?u=76281980&t=121)** So all that memory and choosing your CPU and storage, you don't have to do any of that because you only pay as you use it.
 >
@@ -704,14 +694,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), gcp (2), [[Google]] (2), data (2), cloud (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[SQL]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** cpu (4), gcp (2), sql (1)
 > **UI Navigation:** scroll down (4), click on (2), toggle (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Billing optimization strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980)
+#### [Billing optimization strategies](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,13 +718,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=32)** First thing, let's look at rightsizing.
 >
-> **[0:35](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=35)** Now rightsizing is a way that you can optimize all your workloads by basically reducing some of the hardware you're using or just overall the utilization of it.
+> **[0:35](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=35)** Now rightsizing is a way that you can optimize all your workloads by basically reducing some of the [[Hardware]] you're using or just overall the utilization of it.
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=47)** And for the first thing, what we want to do, let's take a look at what that looks like in the console.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=53)** First thing, this is what Google shows you on the webpage here.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=53)** First thing, this is what [[Google]] shows you on the webpage here.
 >
-> **[0:56](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=56)** So when you go to the Google Cloud docs for VM instances, you're going to see down here in the middle of the screen where it says recommendation, and you'll see that pop up on your VM instances page.
+> **[0:56](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=56)** So when you go to the [[Google Cloud Platform (GCP)|Google Cloud]] docs for VM instances, you're going to see down here in the middle of the screen where it says recommendation, and you'll see that pop up on your VM instances page.
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-foundations/billing-optimization-strategies?u=76281980&t=68)** So if I were to click on this link, it's not going to show anything 'cause I don't have any instances running, but had I had an instance running in here, I actually would see recommendations to lower cost based on how I was using those resources.
 >
@@ -845,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (7), next (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2), application (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Hardware]] (1), [[Google]] (1)
 > **Env Vars:** gcp (7), sap (3), sles (2), cpu (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
@@ -859,12 +848,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Breaking down Google's network infrastucture
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980)
+#### [Breaking down Google's network infrastucture](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=1)** - [Narrator] All right, onto the next section, Breaking Down Google's Network.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=1)** - [Narrator] All right, onto the next section, Breaking Down [[Google]]'s Network.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=5)** Now, in this video, we're going to take a high level look at the GCP network infrastructure.
 >
@@ -872,7 +860,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=18)** But the first thing I'd like to do is give you a broader view on how GCP's network is set up.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=24)** And we're going to do that by going directly to Google Cloud's webpage.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=24)** And we're going to do that by going directly to [[Google Cloud Platform (GCP)|Google Cloud]]'s webpage.
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980&t=29)** Once you get to their webpage here, you're going to see all the cloud locations.
 >
@@ -920,7 +908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), gcp (3), data (2), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** gcp (3)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Versions:** 2.4 (1)
@@ -929,8 +917,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Zonal, regional, multiregional, and global resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980)
+#### [Zonal, regional, multiregional, and global resources](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +925,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=7)** So the first thing, let's talk about zonal resources, right?
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=11)** Because these are very common and you'll come across this frequently when you're using Google Cloud, especially if you're using Compute Engine virtual machines, 'cause those are zonal resources, meaning that they exist in that particular zone that you create them in and that's what is required when you set them up.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=11)** Because these are very common and you'll come across this frequently when you're using [[Google Cloud Platform (GCP)|Google Cloud]], especially if you're using Compute Engine [[Virtual Machines]], 'cause those are zonal resources, meaning that they exist in that particular zone that you create them in and that's what is required when you set them up.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=30)** And the same thing can be said about the persistent disks, which are the actual hard drives, where you store information.
 >
@@ -1022,7 +1009,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=290)** And this is pretty cool because this is something that can actually be in several regions at once.
 >
-> **[4:58](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=298)** So I'm going to go to Cloud Storage, and I'm going to go ahead and create a bucket.
+> **[4:58](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=298)** So I'm going to go to [[Cloud Storage]], and I'm going to go ahead and create a bucket.
 >
 > **[5:03](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=303)** And framing name and I'm just going to click on Choose where to store your data.
 >
@@ -1058,7 +1045,7 @@ created: 2026-05-02
 >
 > **[6:59](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=419)** So if you have a lot of customers in a particular region, you can actually set it up and improve the performance of that application based on where they're located, so that's something to keep in mind.
 >
-> **[7:11](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=431)** Also, if I scroll down a little bit further, you're going to see the global products.
+> **[7:11](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=431)** Also, if I scroll down a little bit further, you're going to see the global [[Microsoft Products|products]].
 >
 > **[7:16](https://www.linkedin.com/learning/google-cloud-foundations/zonal-regional-multiregional-and-global-resources?u=76281980&t=436)** Now, the cool thing with these global products, as we were just talking about earlier a little bit about some of the networking and things like that.
 >
@@ -1086,7 +1073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (7), cloud (6), application (5), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Microsoft Products|Products]] (4), [[Virtual Machines]] (2), [[Cloud Storage]] (2)
 > **Env Vars:** gcp (7), vpc (5), create (1), instance (1), abcd (1)
 > **UI Navigation:** scroll down (7), click on (6), go to (2)
 > **Prerequisites:** set up (6)
@@ -1100,12 +1087,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Google Cloud support
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980)
+#### [Using Google Cloud support](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=1)** - [Instructor] Google Cloud support options.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=1)** - [Instructor] [[Google Cloud Platform (GCP)|Google Cloud]] support options.
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=3)** Now, this is an exciting section, just simply for the fact that if you need help with GCP, we've got you covered.
 >
@@ -1113,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=11)** Let's look directly at Google Cloud's website and look at all the different support options that are available to you.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=18)** So if you go to cloud.[google.com/support](https://google.com/support), what you're going to find is a customer care portfolio.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=18)** So if you go to cloud.[[[Google]].com/support](https://google.com/support), what you're going to find is a customer care portfolio.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980&t=25)** Now, Google has revamped this over the year, and I want to point out to it.
 >
@@ -1167,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (7), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2), [[Google]] (2), application (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2)
 > **Env Vars:** gcp (7), api (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
@@ -1176,8 +1162,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Service Level Agreement (SLA) applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980)
+#### [Understanding Service Level Agreement (SLA) applications](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=5)** But first let's, of course, we got to ask you the question.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=9)** What does SLA mean in regards to Google Cloud?
+> **[0:09](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=9)** What does SLA mean in regards to [[Google Cloud Platform (GCP)|Google Cloud]]?
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=12)** And the SLA is a service level agreement, for those of you familiar with it and working in other industries.
 >
@@ -1197,13 +1182,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=32)** So you can see examples of what this looks like for a service that you may be interested in using.
 >
-> **[0:40](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=40)** So we're going to search for Google Cloud service level agreements, and right on this page you're going to see all the different services within Google that have service level agreements.
+> **[0:40](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=40)** So we're going to search for Google Cloud service level agreements, and right on this page you're going to see all the different services within [[Google]] that have service level agreements.
 >
 > **[0:50](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=50)** Keep in mind, there's going to be things that are generally available to you.
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=53)** So if it's a beta product, it doesn't have any type of SLA on it, but let's just for an example, let's pick a popular one, and we'll scroll down.
 >
-> **[1:02](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=62)** Let's look at Cloud Storage.
+> **[1:02](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=62)** Let's look at [[Cloud Storage]].
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=64)** Now what I like about this is it pretty much breaks down exactly what you're getting as far as a monthly uptime percentage.
 >
@@ -1231,7 +1216,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=152)** And there's also the ability to see that in the Google Cloud Dashboard as well.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=158)** So if you're on the Google Cloud homepage, sometimes you can see things that show right here in this right hand corner where it says Google Cloud Platform status.
+> **[2:38](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=158)** So if you're on the Google Cloud homepage, sometimes you can see things that show right here in this right hand corner where it says [[Google Cloud Platform (GCP)|Google Cloud Platform]] status.
 >
 > **[2:47](https://www.linkedin.com/learning/google-cloud-foundations/understanding-service-level-agreement-sla-applications?u=76281980&t=167)** So it says all services are normal.
 >
@@ -1247,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Google]] (4), next (2), [[Search]] (1), product (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Google]] (4), [[Cloud Storage]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** sla (6)
 > **Warnings:** keep in mind (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1261,14 +1246,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Cloud certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980)
+#### [Google Cloud certifications](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=0)** - [Instructor] Okay, folks.
 >
-> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=1)** So as we wrap up this course, I do want to talk a little bit about Google Cloud Certification.
+> **[0:01](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=1)** So as we wrap up this course, I do want to talk a little bit about [[Google Cloud Platform (GCP)|Google Cloud]] Certification.
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=6)** And main reason being this is that if you really want to be able to validate your knowledge, definitely check out these Google Cloud certifications.
 >
@@ -1286,7 +1270,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=56)** The associate level certifications, which include some updates from when they originally launched, also has a more of a mid-level focus.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=67)** If you're engineers kind of starting out or you, that's your main focus, that's where the Cloud Engineer and the Google Workspace Administrator really come into play.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=67)** If you're engineers kind of starting out or you, that's your main focus, that's where the Cloud Engineer and the [[Google]] Workspace Administrator really come into play.
 >
 > **[1:17](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=77)** The Data Practitioner is also another nice exam that just recently came out.
 >
@@ -1294,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=84)** Now, there's quite a few certifications here.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=87)** These are definitely focused and aimed at those who want to really validate their knowledge at a professional level, meaning you've got some years experience in using these products.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=87)** These are definitely focused and aimed at those who want to really validate their knowledge at a professional level, meaning you've got some years experience in using these [[Microsoft Products|products]].
 >
 > **[1:38](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980&t=98)** So several different certs here.
 >
@@ -1326,11 +1310,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (6), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning more about Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980)
+#### [Learning more about Google Cloud](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,7 +1321,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=2)** I really hope you enjoyed it.
 >
-> **[0:04](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=4)** Taking a step back to the beginning and looking at this Google Cloud Digital Leader and looking at the exam guide and what you need to know, you're seeing we covered today, General Google Cloud Knowledge, which covers about 25 to 35% of the exam.
+> **[0:04](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=4)** Taking a step back to the beginning and looking at this [[Google Cloud Platform (GCP)|Google Cloud]] Digital Leader and looking at the exam guide and what you need to know, you're seeing we covered today, General Google Cloud Knowledge, which covers about 25 to 35% of the exam.
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=19)** For next steps, I definitely recommend reviewing some sample questions.
 >
@@ -1350,19 +1333,19 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=34)** And as you can see here, you can go ahead and register for it, $99.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=38)** But as we take a scroll down on this page, going back to the exam guide, if you haven't gone through section three yet, I'd highly recommend you get up to speed on Google Cloud products and services.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=38)** But as we take a scroll down on this page, going back to the exam guide, if you haven't gone through section three yet, I'd highly recommend you get up to speed on Google Cloud [[Microsoft Products|products]] and services.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=51)** And this is going to go deeper into more of the topics that I touched on during this general course.
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=56)** So, hopefully you got a lot out of this.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=59)** Hopefully, I'll see you online, on LinkedIn.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=59)** Hopefully, I'll see you online, on [[LinkedIn]].
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-foundations/learning-more-about-google-cloud?u=76281980&t=62)** Thanks for watching. Take care.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), next (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)

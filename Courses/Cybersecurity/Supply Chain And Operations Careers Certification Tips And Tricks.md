@@ -104,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of supply chain certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-certifications?u=76281980)
+#### [Overview of supply chain certifications](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,12 +126,11 @@ created: 2026-05-02
 >
 > **CLI Commands:** make (2)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-you-should-know?u=76281980&t=0)** This course doesn't require you to have any prior knowledge of supply chain management, but you should know why you want to learn about supply chain certifications.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-you-should-know?u=76281980&t=0)** This course doesn't require you to have any prior knowledge of [[Supply Chain Management]], but you should know why you want to learn about supply chain certifications.
 >
 > **[0:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-you-should-know?u=76281980&t=11)** If you're still in school or looking for a way to advance your career, supply chain credentials can be a valuable asset.
 >
@@ -164,11 +162,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supply Chain Management]] (5), career (2), hr (1), management (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (5)
 > **CLI Commands:** make (1)
 
-#### Types of credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/types-of-credentials?u=76281980)
+#### [Types of credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/types-of-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/types-of-credentials?u=76281980&t=33)** You sometimes earn a certificate just for completing a class or taking an exam.
 >
-> **[0:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/types-of-credentials?u=76281980&t=38)** In fact, you'll earn a certificate from LinkedIn learning when you complete this course.
+> **[0:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/types-of-credentials?u=76281980&t=38)** In fact, you'll earn a certificate from [[LinkedIn]] learning when you complete this course.
 >
 > **[0:43](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/types-of-credentials?u=76281980&t=43)** Certifications are usually a bit harder. For certifications, you may be required to meet some prerequisite requirements, like holding a degree or having on-the-job experience.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** required to (1), prerequisite (1)
 > **Definitions:** means that (1)
@@ -222,18 +219,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of CSCMP credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980)
+#### [Overview of CSCMP credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=0)** CSCMP is the Council of Supply Chain Management Professionals.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=0)** CSCMP is the Council of [[Supply Chain Management]] Professionals.
 >
 > **[0:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=5)** They've been around since 1963.
 >
 > **[0:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=8)** They started as the National Association of Physical Distribution, then became the Council of Logistics Management and now CSCMP.
 >
-> **[0:19](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=19)** The easiest way to get started with CSCMP credentials is with their professional certificates right here on LinkedIn Learning.
+> **[0:19](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=19)** The easiest way to get started with CSCMP credentials is with their professional certificates right here on [[LinkedIn]] Learning.
 >
 > **[0:27](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980&t=27)** First, you take a series of LinkedIn Learning courses and then complete a 90-minute exam.
 >
@@ -285,15 +281,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Supply Chain Management]] (3), [[LinkedIn]] (2), career (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (3), [[LinkedIn]] (2)
 > **Env Vars:** cscmp (11)
 > **CLI Commands:** find (1)
 > **URLs:** [cscmp.org](https://cscmp.org) (1)
 > **Versions:** 4.5 (1)
 > **Prerequisites:** you'll need (1)
 
-#### Overview of APICS and ASCM credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980)
+#### [Overview of APICS and ASCM credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=27)** Back then, they called themselves the American Production and Inventory Control Society, or APICS for short.
 >
-> **[0:34](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=34)** They've evolved, and a few years ago they changed their name to the Association for Supply Chain Management, ASCM.
+> **[0:34](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=34)** They've evolved, and a few years ago they changed their name to the Association for [[Supply Chain Management]], ASCM.
 >
 > **[0:43](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=43)** But name changes take time, and many people still know them as APICS.
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=56)** You can earn the CPIM by passing one exam.
 >
-> **[0:59](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=59)** The exam is 3.5 hours long and covers topics including inventory management, production scheduling, and demand forecasting.
+> **[0:59](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=59)** The exam is 3.5 hours long and covers topics including inventory management, production scheduling, and demand [[Forecasting]].
 >
 > **[1:09](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=69)** Next came the CSCP, Certified Supply Chain Professional.
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=183)** They offer certificates in supply chain technology, planning, warehousing, and procurement.
 >
-> **[3:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=191)** In addition to the credentials, you can also get involved with ASCM by joining a local chapter, attending conferences, and participating in online communities like their LinkedIn groups.
+> **[3:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=191)** In addition to the credentials, you can also get involved with ASCM by joining a local chapter, attending conferences, and participating in online communities like their [[LinkedIn]] groups.
 >
 > **[3:24](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-apics-and-ascm-credentials?u=76281980&t=204)** You can find out more about all of these resources at [ascm.org](https://ascm.org).
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Supply Chain Management]] (1), [[Forecasting]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Forecasting]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ascm (7), apics (6), cpim (3), cscp (1), cltd (1)
 > **CLI Commands:** find (2)
 > **URLs:** [ascm.org](https://ascm.org) (1)
@@ -369,8 +364,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Overview of ISM credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ism-credentials?u=76281980)
+#### [Overview of ISM credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ism-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,21 +424,20 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ism-credentials?u=76281980&t=161)** For more details about ISM, check out [ISMworld.org](https://ISMworld.org).
 >
-> **[2:47](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ism-credentials?u=76281980&t=167)** Sourcing products and services well is an important part of managing a supply chain.
+> **[2:47](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ism-credentials?u=76281980&t=167)** Sourcing [[Microsoft Products|products]] and services well is an important part of managing a supply chain.
 >
 > **[2:53](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ism-credentials?u=76281980&t=173)** So if you're looking to grow your career in procurement, then take a close look at the certifications and resources available from the Institute for Supply Management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), functional (1), leadership (1), [[Microsoft Products|Products]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** ism (7), apsm (3), cpsm (3), cpsd (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 2.75 (2)
 > **Prerequisites:** you need to have (2)
 > **URLs:** [ismworld.org](https://ismworld.org) (1)
 
-#### Overview of CILT credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cilt-credentials?u=76281980)
+#### [Overview of CILT credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cilt-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cilt-credentials?u=76281980&t=95)** Levels 2 and 3 are designed for people at an early stage of their career who want to broaden their knowledge in areas like logistics, warehousing, inventory management, and transport.
 >
-> **[1:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cilt-credentials?u=76281980&t=108)** Levels 4 and 5 are for middle managers and cover areas like supply chain management, inventory and operations management, logistics and transport, and procurement.
+> **[1:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cilt-credentials?u=76281980&t=108)** Levels 4 and 5 are for middle managers and cover areas like [[Supply Chain Management]], inventory and operations management, logistics and transport, and procurement.
 >
 > **[2:01](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cilt-credentials?u=76281980&t=121)** Level 5 is equivalent to a bachelor's degree from a university. And Level 6 diplomas in logistics and transport and in operations management provide strategic management skills.
 >
@@ -488,14 +481,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), career (3), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1)
 > **Env Vars:** cilt (8), milt (1), cmilt (1), fcilt (1)
 > **CLI Commands:** make (1)
 > **URLs:** [ciltuk.org](https://ciltuk.org) (1)
 > **Analogies:** similar to (1)
 
-#### Overview of CIPS credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cips-credentials?u=76281980)
+#### [Overview of CIPS credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cips-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,8 +536,7 @@ created: 2026-05-02
 > **URLs:** [cips.org](https://cips.org) (1)
 > **UI Navigation:** go to (1)
 
-#### Overview of SOLE credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-sole-credentials?u=76281980)
+#### [Overview of SOLE credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-sole-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,18 +576,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), career (1)
 > **Env Vars:** sole (10), cml (3), cpl (3)
 > **URLs:** [sole.org](https://sole.org) (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** kind of like (1)
 
-#### Overview of supply chain Canada credential
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-canada-credential?u=76281980)
+#### [Overview of supply chain Canada credential](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-canada-credential?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-canada-credential?u=76281980&t=0)** Supply chain management is a hot career field in Canada, which makes Supply Chain Canada a cool group to be a part of.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-canada-credential?u=76281980&t=0)** [[Supply Chain Management]] is a hot career field in Canada, which makes Supply Chain Canada a cool group to be a part of.
 >
 > **[0:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-canada-credential?u=76281980&t=8)** Supply Chain Canada used to be called the Supply Chain Management Association.
 >
@@ -634,14 +623,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supply Chain Management]] (9), management (6), career (2), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (9)
 > **Env Vars:** scmp (4), cscmp (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **URLs:** [supplychaincanada.com](https://supplychaincanada.com) (1)
 
-#### Overview of DDI credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ddi-credentials?u=76281980)
+#### [Overview of DDI credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ddi-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,14 +685,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **Env Vars:** ddi (5), astp (1), ddpp (1), ddop (1), ddlp (1)
 > **CLI Commands:** find (1)
 > **URLs:** [demanddriveninstitute.com](https://demanddriveninstitute.com) (1)
 > **Definitions:** is a  (1)
 
-#### Overview of MITx credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980)
+#### [Overview of MITx credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,11 +710,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=66)** And if you want a certificate for the entire program called a MicroMasters Credential, there's a supply chain comprehensive exam which costs a little bit more.
 >
-> **[1:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=78)** The comprehensive exam is basically the capstone for the online program.
+> **[1:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=78)** The comprehensive exam is basically the [[Capstone]] for the online program.
 >
 > **[1:23](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=83)** The cost of completing a MicroMasters is similar to the cost of other supply chain certifications, but the impressive thing is that if you complete the entire MicroMasters program, you can get graduate credit for it at MIT.
 >
-> **[1:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=98)** You still have to apply to MIT and get accepted, of course, but the point is that you can basically do the first half of your master's degree in supply chain management completely online and for relatively little money.
+> **[1:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=98)** You still have to apply to MIT and get accepted, of course, but the point is that you can basically do the first half of your master's degree in [[Supply Chain Management]] completely online and for relatively little money.
 >
 > **[1:54](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-mitx-credentials?u=76281980&t=114)** Then you only need to spend six months on campus to finish up with a master's degree from a leading university.
 >
@@ -742,19 +728,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), [[Capstone]] (1), [[Supply Chain Management]] (1), management (1)
+> **Frameworks & Libraries:** [[Capstone]] (1), [[Supply Chain Management]] (1)
 > **Env Vars:** mit (5)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
 > **URLs:** [mit.edu](https://mit.edu) (1)
 > **Analogies:** similar to (1)
 
-#### Overview of university certificates
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-university-certificates?u=76281980)
+#### [Overview of university certificates](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-university-certificates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-university-certificates?u=76281980&t=0)** There are a lot of great universities that offer certificates in logistics, operations, procurement, or supply chain management.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-university-certificates?u=76281980&t=0)** There are a lot of great universities that offer certificates in logistics, operations, procurement, or [[Supply Chain Management]].
 >
 > **[0:09](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-university-certificates?u=76281980&t=9)** Some have online programs and many of them offer short on-campus executive education courses.
 >
@@ -788,15 +773,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Search]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1)
 > **Env Vars:** mit (1), roi (1)
 
-#### Overview of IBF credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980)
+#### [Overview of IBF credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=0)** Many supply chain professionals spend their days making predictions about the future, and the Institute of Business Forecasting and Planning has a certification program just for them.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=0)** Many supply chain professionals spend their days making predictions about the future, and the Institute of Business [[Forecasting]] and Planning has a certification program just for them.
 >
 > **[0:12](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=12)** One quick thing I should point out, for years, they were called the Institute of Business Forecasting.
 >
@@ -814,11 +798,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=61)** What about Demand Planning, Forecasting and S&OP?
 >
-> **[1:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=65)** A second about data management and time series forecasting, and a third exam about reporting, presenting, and new product forecasting.
+> **[1:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=65)** A second about [[Data Management]] and time series forecasting, and a third exam about reporting, presenting, and new product forecasting.
 >
 > **[1:16](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=76)** In addition to passing all three exams, to become a CPF, you need to have a bachelor's degree and one year of experience in forecasting.
 >
-> **[1:25](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=85)** Or if you don't have a degree, then you need to have two years of experience. After you've become a certified professional forecaster, the third step is to become an advanced CPF. That requires you to take three more exams; an advanced forecast modeling test, a test about technology and worst practices in forecasting and planning, and a test covering the role of artificial intelligence in demand planning and forecasting.
+> **[1:25](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=85)** Or if you don't have a degree, then you need to have two years of experience. After you've become a certified professional forecaster, the third step is to become an advanced CPF. That requires you to take three more exams; an advanced forecast modeling test, a test about technology and worst practices in forecasting and planning, and a test covering the role of [[Artificial Intelligence (AI)|artificial intelligence]] in demand planning and forecasting.
 >
 > **[1:56](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-ibf-credentials?u=76281980&t=116)** Once you pass those three tests, you become an advanced CPF.
 >
@@ -830,20 +814,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (10), business (2), data (1), management (1), product (1)
+> **Frameworks & Libraries:** [[Forecasting]] (10), [[Data Management]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** ibf (6), cpf (6)
 > **Prerequisites:** you need to have (2)
 > **URLs:** [ibf.org](https://ibf.org) (1)
 > **Definitions:** refers to (1)
 
-#### Overview of Six Sigma credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980)
+#### [Overview of Six Sigma credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=0)** Six Sigma is a process improvement methodology that became popular in the '80s and '90s.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=0)** [[Six Sigma]] is a process improvement methodology that became popular in the '80s and '90s.
 >
-> **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=6)** These days, it's a standard part of supply chain management.
+> **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=6)** These days, it's a standard part of [[Supply Chain Management]].
 >
 > **[0:10](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=10)** The idea behind Six Sigma is to reduce variation in processes and create a consistent level of quality for everything a company makes.
 >
@@ -851,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=29)** The challenge with Six Sigma certifications is that there are a lot of different organizations that grant them, and they're all slightly different.
 >
-> **[0:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=38)** You can take Six Sigma courses here on LinkedIn Learning and get a certificate of completion, but that's not the same as being Six Sigma-certified.
+> **[0:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=38)** You can take Six Sigma courses here on [[LinkedIn]] Learning and get a certificate of completion, but that's not the same as being Six Sigma-certified.
 >
 > **[0:47](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-six-sigma-credentials?u=76281980&t=47)** Two of the well-known certification organizations are the American Society for Quality and the Institute of Industrial and Systems Engineers.
 >
@@ -880,8 +863,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Six Sigma]] (13), [[Supply Chain Management]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 
-#### Other common credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980)
+#### [Other common credentials](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +877,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=22)** Lots of folks get their supply chain education by studying business or engineering.
 >
-> **[0:28](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=28)** Many schools offer degrees in supply chain management, but you'll probably learn about supply chains if you study industrial engineering, international business, logistics, or operations management.
+> **[0:28](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=28)** Many schools offer degrees in [[Supply Chain Management]], but you'll probably learn about supply chains if you study industrial engineering, international business, logistics, or operations management.
 >
 > **[0:41](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=41)** Many schools also offer certificates or specializations in supply chain to accompany their other degrees.
 >
@@ -909,7 +891,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=74)** Next, there are software and technology certifications.
 >
-> **[1:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=78)** This includes certifications for platforms like SAP, Oracle, or Microsoft, but it can also be useful to have skills in software development and data analysis.
+> **[1:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=78)** This includes certifications for platforms like SAP, Oracle, or [[Microsoft]], but it can also be useful to have skills in [[Software Development]] and data analysis.
 >
 > **[1:31](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/other-common-credentials?u=76281980&t=91)** Finally, there are certifications and licenses for specific supply chain functions.
 >
@@ -927,13 +909,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), career (2), business (2), [[Engineering]] (2), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Microsoft]] (1), [[Software Development]] (1)
 > **Env Vars:** sap (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 
-#### What certifications are best for you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-certifications-are-best-for-you?u=76281980)
+#### [What certifications are best for you?](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/what-certifications-are-best-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,7 +964,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1)
 > **CLI Commands:** make (2)
 
 
@@ -991,12 +971,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supply chain overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980)
+#### [Supply chain overview](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=0)** What exactly is supply chain management?
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=0)** What exactly is [[Supply Chain Management]]?
 >
 > **[0:04](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=4)** Well, it depends on who you ask.
 >
@@ -1008,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=48)** Some of the definitions focus on supply chain processes.
 >
-> **[0:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=51)** For example, the Supply Chain Operations reference model breaks the supply chain into the processes of plan, source, order, transform, fulfill, return, enable, and orchestrate.
+> **[0:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=51)** For example, the [[Supply Chain Operations]] reference model breaks the supply chain into the processes of plan, source, order, transform, fulfill, return, enable, and orchestrate.
 >
 > **[1:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=65)** Some definitions focus on flows.
 >
@@ -1036,7 +1015,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=147)** For example, if your customers need your product right away, then your supply chain should be designed to get it to them quickly.
 >
-> **[2:35](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=155)** If your customers need products that are highly customized, then your supply chain needs to be flexible.
+> **[2:35](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=155)** If your customers need [[Microsoft Products|products]] that are highly customized, then your supply chain needs to be flexible.
 >
 > **[2:42](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980&t=162)** And if your customers prefer products made using sustainable ingredients and ethical processes, well, those requirements can be built into your supply chain too. Every decision that you make about your supply chain can impact your customer's experience and affect how much it will cost to meet their needs.
 >
@@ -1044,14 +1023,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supply Chain Management]] (6), management (2), [[Microsoft Products|Products]] (2), [[Supply Chain Operations]] (1), product (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (6), [[Microsoft Products|Products]] (2), [[Supply Chain Operations]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Supply chain planning and engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-planning-and-engineering?u=76281980)
+#### [Supply chain planning and engineering](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-planning-and-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,18 +1065,17 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-planning-and-engineering?u=76281980&t=111)** Once you know where you want to make changes, then you can use supply chain engineering to find the best solutions.
 >
-> **[1:58](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-planning-and-engineering?u=76281980&t=118)** Supply chain engineering can occur at a lot of levels, from designing the flow of an assembly line or a distribution center all the way up to mapping the global flow of products and choosing where to locate your facilities.
+> **[1:58](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-planning-and-engineering?u=76281980&t=118)** Supply chain engineering can occur at a lot of levels, from designing the flow of an assembly line or a distribution center all the way up to mapping the global flow of [[Microsoft Products|products]] and choosing where to locate your facilities.
 >
 > **[2:13](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-planning-and-engineering?u=76281980&t=133)** Planning and engineering are important for making sure that your supply chain is working well today, but they're really essential for making sure that you can provide value to your customers well into the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), business (1), [[Automation]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 
-#### Basics of sourcing and procurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980)
+#### [Basics of sourcing and procurement](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1089,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=23)** First, procurement needs to know what the company is likely to buy.
 >
-> **[0:27](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=27)** This is a type of business planning, which could involve analyzing your purchasing history and looking ahead at your new product development.
+> **[0:27](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=27)** This is a type of business planning, which could involve analyzing your purchasing history and looking ahead at your new [[Product Development]].
 >
 > **[0:37](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=37)** Then you need to understand where you can buy those things and how much it's going to cost.
 >
@@ -1136,7 +1113,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=104)** Sometimes the things you're trying to buy are pretty common, but in other cases, you may need something special.
 >
-> **[1:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=111)** And it's not always easy to find suppliers who know how to make the products you need in the quantities you need them, and at a price that you're willing to pay.
+> **[1:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=111)** And it's not always easy to find suppliers who know how to make the [[Microsoft Products|products]] you need in the quantities you need them, and at a price that you're willing to pay.
 >
 > **[2:01](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sourcing-and-procurement?u=76281980&t=121)** In that case, you may need to invest in supplier development.
 >
@@ -1154,18 +1131,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Development]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Basics of manufacturing
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-manufacturing?u=76281980)
+#### [Basics of manufacturing](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-manufacturing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-manufacturing?u=76281980&t=0)** Manufacturing and assembly are processes where products get made, and where a lot of the value is created in a supply chain.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-manufacturing?u=76281980&t=0)** Manufacturing and assembly are processes where [[Microsoft Products|products]] get made, and where a lot of the value is created in a supply chain.
 >
 > **[0:10](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-manufacturing?u=76281980&t=10)** And when you step back and look at the end-to-end supply chain, there are generally several steps in which someone is making something.
 >
@@ -1217,14 +1193,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ppe (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 
-#### Basics of distribution and logistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980)
+#### [Basics of distribution and logistics](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,7 +1223,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=43)** Now, sometimes it's totally worth paying a premium for those faster shipments.
 >
-> **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=48)** For example, if you're shipping perishable products like flowers or fresh fruit, or for items that are needed urgently, but for commodities like coal and for lower-value products like packaged food, choosing a slower mode of transportation can lower your costs, and that will increase your profits.
+> **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=48)** For example, if you're shipping perishable [[Microsoft Products|products]] like flowers or fresh fruit, or for items that are needed urgently, but for commodities like coal and for lower-value products like packaged food, choosing a slower mode of transportation can lower your costs, and that will increase your profits.
 >
 > **[1:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=68)** Another one of the differences between transportation modes is reliability.
 >
@@ -1266,34 +1241,33 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=120)** So there's an art to figuring out how much inventory you should have.
 >
-> **[2:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=125)** That includes forecasting what you think your demand will be, planning for when you need to place replenishment orders, and optimizing your internal processes and equipment to keep products moving smoothly.
+> **[2:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=125)** That includes [[Forecasting]] what you think your demand will be, planning for when you need to place replenishment orders, and optimizing your internal processes and equipment to keep products moving smoothly.
 >
 > **[2:19](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=139)** Transportation and inventory are critically important to any company that does manufacturing, but they're also important for retailers, wholesalers, and distributors.
 >
-> **[2:32](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=152)** In fact, some folks will argue that logistics is supply chain management.
+> **[2:32](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=152)** In fact, some folks will argue that logistics is [[Supply Chain Management]].
 >
 > **[2:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-distribution-and-logistics?u=76281980&t=158)** So no matter which certification you decide to go after, you'll need to be prepared to demonstrate your knowledge of transportation and inventory and how logistics fits into the supply chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), business (1), [[Forecasting]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Forecasting]] (1)
 > **Prerequisites:** you need to have (1), you'll need (1)
 > **Env Vars:** otd (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### Basics of sales, marketing, and customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980)
+#### [Basics of sales, marketing, and customer service](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=0)** Supply chain folks talk about demand a lot; demand planning, demand forecasting, demand shaping.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=0)** Supply chain folks talk about demand a lot; demand planning, demand [[Forecasting]], demand shaping.
 >
 > **[0:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=8)** But what we really mean when we say demand is selling stuff to a customer.
 >
 > **[0:13](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=13)** Because the supply chain starts with getting someone to buy something from you.
 >
-> **[0:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=18)** In this video, we'll talk about sales, marketing, and customer service and how they generate the demand that pulls products through your supply chain.
+> **[0:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=18)** In this video, we'll talk about sales, marketing, and customer service and how they generate the demand that pulls [[Microsoft Products|products]] through your supply chain.
 >
 > **[0:28](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=28)** When you're preparing for a certification exam, you may run across the term demand chain.
 >
@@ -1321,22 +1295,21 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=131)** S&OP basically involves making sure that sales and marketing are setting realistic demand targets and then communicating openly with the supply chain about capacity and constraints.
 >
-> **[2:23](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=143)** What makes supply chain management so important is that we're fulfilling the demand from customers who buy our products.
+> **[2:23](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=143)** What makes [[Supply Chain Management]] so important is that we're fulfilling the demand from customers who buy our products.
 >
 > **[2:31](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sales-marketing-and-customer-service?u=76281980&t=151)** And as supply chain professionals, we need to work closely with sales, marketing, and customer service to keep supply aligned with demand while also making sure we keep products flowing through the supply chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (3), [[Forecasting]] (2), teams (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Forecasting]] (2), [[Supply Chain Management]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 
-#### Basics of sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980)
+#### [Basics of sustainability](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=0)** Taking care of our planet is everyone's responsibility, and how we engineer and manage our supply chains can have a huge impact on the sustainability of every company and the products and services we provide.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=0)** Taking care of our planet is everyone's responsibility, and how we engineer and manage our supply chains can have a huge impact on the [[Sustainability]] of every company and the [[Microsoft Products|products]] and services we provide.
 >
 > **[0:14](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=14)** So let's walk through some sustainability concepts and terms that you're likely to see on a certification exam.
 >
@@ -1374,7 +1347,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=153)** The TBL is a way of measuring performance in three areas; people, planet, and profit. People has to do with how your company is taking care of your employees, their families, and your community.
 >
-> **[2:49](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=169)** Planet has to do with environmental sustainability, and profit, well, that's the firm's financial performance.
+> **[2:49](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=169)** Planet has to do with [[Environmental Sustainability]], and profit, well, that's the firm's financial performance.
 >
 > **[2:57](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-sustainability?u=76281980&t=177)** In order for a company to be sustainable over the long term, it needs to address all three Ps and show results across that Triple Bottom Line.
 >
@@ -1384,18 +1357,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), power (3), [[Microsoft Products|Products]] (1), [[Environmental Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft Products|Products]] (1), [[Environmental Sustainability]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** tbl (1)
 > **Analogies:** for example (1)
 
-#### Basics of material handling equipment
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-material-handling-equipment?u=76281980)
+#### [Basics of material handling equipment](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-material-handling-equipment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-material-handling-equipment?u=76281980&t=0)** Most supply chains involve tangible physical products, so supply chain professionals are responsible for moving a huge amount of stuff around.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-material-handling-equipment?u=76281980&t=0)** Most supply chains involve tangible physical [[Microsoft Products|products]], so supply chain professionals are responsible for moving a huge amount of stuff around.
 >
 > **[0:10](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basics-of-material-handling-equipment?u=76281980&t=10)** We need to do that safely and efficiently.
 >
@@ -1451,18 +1423,17 @@ created: 2026-05-02
 > **Env Vars:** mhe (6), rfid (1)
 > **CLI Commands:** make (1)
 
-#### Supply chain information systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980)
+#### [Supply chain information systems](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=0)** One of the challenges for anyone getting into supply chain management is learning all of the abbreviations and acronyms.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=0)** One of the challenges for anyone getting into [[Supply Chain Management]] is learning all of the abbreviations and acronyms.
 >
 > **[0:07](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=7)** And when it comes to supply chain information systems, there are lots of them.
 >
 > **[0:12](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=12)** So let's walk through a quick and simple explanation of the software technologies that you're likely to see on a supply chain certification exam.
 >
-> **[0:21](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=21)** To start with, supply chain information systems are all basically big databases, but they're designed to be used for different functions.
+> **[0:21](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=21)** To start with, supply chain information systems are all basically big [[Databases]], but they're designed to be used for different functions.
 >
 > **[0:31](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=31)** The software and data are stored on computers called servers.
 >
@@ -1472,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=48)** This is called cloud hosting.
 >
-> **[0:50](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=50)** It's also called software as a service or SaaS.
+> **[0:50](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=50)** It's also called [[SaaS|software as a service]] or [[SaaS]].
 >
 > **[0:55](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-information-systems?u=76281980&t=55)** Now let's talk about the most common types of supply chain information systems.
 >
@@ -1508,7 +1479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), [[Databases]] (1), data (1), cloud (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SaaS|Software as a service]] (1), [[SaaS]] (1)
 > **Env Vars:** mrp (2), tms (1), wms (1), wes (1), srm (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
@@ -1518,8 +1489,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explanation of procure to pay
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980)
+#### [Explanation of procure to pay](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1531,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980&t=113)** Once it arrives, you should do an inspection and log receipt of the order.
 >
-> **[1:58](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980&t=118)** Sometimes products are defective or they get damaged in transport.
+> **[1:58](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980&t=118)** Sometimes [[Microsoft Products|products]] are defective or they get damaged in transport.
 >
 > **[2:03](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980&t=123)** So you need to have a process for inspection and handling problems that might come up.
 >
@@ -1589,14 +1559,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** rfp (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you need to have (1)
 
-#### Explanation of order to delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980)
+#### [Explanation of order to delivery](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,7 +1599,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=113)** That means you have a 30-day lead time.
 >
-> **[1:56](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=116)** What happens if your customers need to receive their products within 10 days of placing an order?
+> **[1:56](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=116)** What happens if your customers need to receive their [[Microsoft Products|products]] within 10 days of placing an order?
 >
 > **[2:02](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=122)** They need it faster than you can order the parts and make the products.
 >
@@ -1648,19 +1617,18 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=177)** When you look around at the products and services you buy every day, you'll start to see lots of examples of make to stock, make to order, and engineer to order.
 >
-> **[3:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=188)** Understanding these different order-to-delivery approaches can help you incorporate your customer's needs into your supply chain strategy, and that will help you maximize the value you create through effective supply chain management.
+> **[3:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=188)** Understanding these different order-to-delivery approaches can help you incorporate your customer's needs into your supply chain strategy, and that will help you maximize the value you create through effective [[Supply Chain Management]].
 >
 > **[3:24](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-order-to-delivery?u=76281980&t=204)** If you want to get a little practice for your certification exam, try mapping out the steps in the order-to-delivery process for the supply chains around you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (4), [[Engineering]] (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (14)
 > **Definitions:** means that (2), in other words (1)
 > **Prerequisites:** you'll need (1)
 
-#### Introduction to inventory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-inventory-management?u=76281980)
+#### [Introduction to inventory management](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-inventory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1690,7 +1658,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-inventory-management?u=76281980&t=71)** You need to define rules for ordering inventory, and these are called inventory policies.
 >
-> **[1:17](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-inventory-management?u=76281980&t=77)** And you need to have different policies for different kinds of products.
+> **[1:17](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-inventory-management?u=76281980&t=77)** And you need to have different policies for different kinds of [[Microsoft Products|products]].
 >
 > **[1:22](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-inventory-management?u=76281980&t=82)** A common method for setting different policies is called ABC inventory analysis.
 >
@@ -1746,15 +1714,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), product (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (3)
 > **Env Vars:** abc (1), eoq (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 
-#### Introduction to the bullwhip effect
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-the-bullwhip-effect?u=76281980)
+#### [Introduction to the bullwhip effect](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-the-bullwhip-effect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,14 +1797,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (2), next (1)
 > **Env Vars:** covid (1), pos (1)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 
-#### Introduction to modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980)
+#### [Introduction to modeling](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1871,7 +1836,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=61)** The outputs are how you measure the performance of a model.
 >
-> **[1:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=65)** Now there are basically three kinds of supply chain models; simulation models, optimization models, and digital twins.
+> **[1:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=65)** Now there are basically three kinds of supply chain models; [[Simulation]] models, optimization models, and digital twins.
 >
 > **[1:15](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=75)** Simulation tries to capture the variables and constraints in a process and predict what will happen when they all interact.
 >
@@ -1891,7 +1856,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=126)** There are lots of different ways to apply modeling in a supply chain.
 >
-> **[2:10](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=130)** For example, you can model the flow of products from one place to another.
+> **[2:10](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=130)** For example, you can model the flow of [[Microsoft Products|products]] from one place to another.
 >
 > **[2:14](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-modeling?u=76281980&t=134)** You can model the effects of changing inventory policies, and you can even model things like shifting customer order patterns.
 >
@@ -1905,18 +1870,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gps (1)
 > **Analogies:** for example (1)
 
-#### New product introduction (NPI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980)
+#### [New product introduction (NPI)](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=0)** In order to stay competitive, companies introduce new products and services all the time.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=0)** In order to stay competitive, companies introduce new [[Microsoft Products|products]] and services all the time.
 >
 > **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=6)** But a new product means a new supply chain, and you need to make sure that you'll be able to deliver those new products successfully, or else you'll end up with extra costs and unhappy customers.
 >
@@ -1940,7 +1904,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=52)** So an NPI process will generally look like a project plan with specific milestones or stage gates that need to be met along the way.
 >
-> **[1:02](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=62)** For example, there may be a stage gate to review the product design, and there may be another stage gate to complete all of the contracts with your suppliers. Until all of the stage gates are completed, the product isn't ready to be introduced into the market.
+> **[1:02](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=62)** For example, there may be a stage gate to review the [[Product Design]], and there may be another stage gate to complete all of the contracts with your suppliers. Until all of the stage gates are completed, the product isn't ready to be introduced into the market.
 >
 > **[1:19](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=79)** As you create these stage gates, you should incorporate the decisions and actions that will let you build the proper supply chain.
 >
@@ -1948,7 +1912,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=97)** And you should also think about logistics to make sure that you're designing a product that will be easy to store and move.
 >
-> **[1:45](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=105)** If you're concerned about sustainability, then there should also be a plan for what will happen to products at the end of their useful life.
+> **[1:45](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=105)** If you're concerned about [[Sustainability]], then there should also be a plan for what will happen to products at the end of their useful life.
 >
 > **[1:53](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/new-product-introduction-npi?u=76281980&t=113)** When you take all of these factors into account while you're designing a product, that's an approach called Design for Supply Chain.
 >
@@ -1962,13 +1926,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Products|Products]] (4), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Product Design]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** npi (4)
 > **Analogies:** for example (1)
 
-#### Introduction to continuous process improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980)
+#### [Introduction to continuous process improvement](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1978,11 +1941,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=11)** In this video, we'll look at three process improvement approaches that you're likely to encounter on a certification exam, and that you should be familiar with in your day-to-day activities.
 >
-> **[0:23](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=23)** The first approach is called Six Sigma.
+> **[0:23](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=23)** The first approach is called [[Six Sigma]].
 >
 > **[0:26](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=26)** Six Sigma started as an engineering technique for manufacturers to reduce the variations in a process, but now it's used in lots of other industries too.
 >
-> **[0:37](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=37)** The name Six Sigma comes from statistics, where you describe variation in terms of standard deviations or sigmas.
+> **[0:37](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=37)** The name Six Sigma comes from [[Statistics]], where you describe variation in terms of standard deviations or sigmas.
 >
 > **[0:47](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=47)** The basic goal of Six Sigma is that only three parts out of every one million are defective, and in order to achieve this goal, you need to monitor all of your processes closely and use root cause analysis to identify and solve problems quickly.
 >
@@ -2004,7 +1967,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=118)** TOC comes from a book called The Goal by Eliyahu Goldratt.
 >
-> **[2:03](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=123)** To be honest, I really recommend reading the book if you're learning about supply chain management, because it explains a lot of important concepts.
+> **[2:03](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=123)** To be honest, I really recommend reading the book if you're learning about [[Supply Chain Management]], because it explains a lot of important concepts.
 >
 > **[2:12](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/introduction-to-continuous-process-improvement?u=76281980&t=132)** But the most important concept in the Theory of Constraints is that in any process, there is always one step that limits the throughput of the entire process.
 >
@@ -2016,13 +1979,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (5), [[Engineering]] (1), [[Statistics]] (1), [[Supply Chain Management]] (1), career (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (5), [[Statistics]] (1), [[Supply Chain Management]] (1)
 > **Definitions:** is called (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** toc (1)
 
-#### Project management
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980)
+#### [Project management](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +1992,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=7)** So it's really important for folks who are learning about supply chains to develop project management skills as well.
 >
-> **[0:13](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=13)** There are two main approaches to managing supply chain projects; waterfall and agile.
+> **[0:13](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=13)** There are two main approaches to managing supply chain projects; waterfall and [[Agile Development|agile]].
 >
 > **[0:20](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=20)** Waterfall is the traditional approach to project management.
 >
@@ -2038,7 +2000,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=30)** For example, if you're going to build a new distribution center, you would use the waterfall model to build a project schedule with an estimate for when milestones will be reached and how much it will cost to complete.
 >
-> **[0:42](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=42)** Agile project management is a newer approach that's often used for software development and new product development.
+> **[0:42](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=42)** Agile project management is a newer approach that's often used for [[Software Development]] and new [[Product Development]].
 >
 > **[0:50](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=50)** Agile focuses on prioritizing the work being done based on what's most valuable to your customer at the current time.
 >
@@ -2056,21 +2018,20 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=100)** So it's common to tailor project management approaches and use a hybrid between waterfall and agile.
 >
-> **[1:46](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=106)** Also, when you use continuous improvement techniques like Lean Six Sigma, and Theory of Constraints, you'll find that these methodologies come with their own approaches for managing continuous improvement projects.
+> **[1:46](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=106)** Also, when you use continuous improvement techniques like Lean [[Six Sigma]], and Theory of Constraints, you'll find that these methodologies come with their own approaches for managing continuous improvement projects.
 >
 > **[1:59](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=119)** These approaches are really a hybrid between waterfall and agile.
 >
-> **[2:03](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=123)** If you'd like to learn more about the role of project management in supply chains, check out my course, Supply Chain Foundations: Project Management. Projects play a critical role in helping our supply chains adapt and improve, so understanding how and when to use waterfall, agile, and hybrid approaches is a valuable skill for every supply chain management professional, and it's a topic that you're going to find on most supply chain certification exams.
+> **[2:03](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/project-management?u=76281980&t=123)** If you'd like to learn more about the role of project management in supply chains, check out my course, Supply Chain Foundations: Project Management. Projects play a critical role in helping our supply chains adapt and improve, so understanding how and when to use waterfall, agile, and hybrid approaches is a valuable skill for every [[Supply Chain Management]] professional, and it's a topic that you're going to find on most supply chain certification exams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Agile Development|Agile]] (7), feature (2), [[Software Development]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Software Development]] (1), [[Product Development]] (1), [[Six Sigma]] (1), [[Supply Chain Management]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 
-#### Risk and resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980)
+#### [Risk and resilience](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2084,7 +2045,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=20)** There are risks that come from weather and natural disasters like earthquakes, and there are risks around manmade issues like economic cycles and fashion trends.
 >
-> **[0:32](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=32)** Risks like these can lead to changes in supply and demand, changes in prices, and changes in how and where we do the work to get products to our customers.
+> **[0:32](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=32)** Risks like these can lead to changes in supply and demand, changes in prices, and changes in how and where we do the work to get [[Microsoft Products|products]] to our customers.
 >
 > **[0:43](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=43)** Risk management is the process of identifying these risks and deciding how you should respond to them.
 >
@@ -2104,7 +2065,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=91)** And your fourth option is to mitigate the risk.
 >
-> **[1:35](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=95)** The way that we mitigate risks is by doing things that reduce the probability that they will happen, or that reduce the impact they would have if they occur.
+> **[1:35](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=95)** The way that we mitigate risks is by doing things that reduce the [[Probability]] that they will happen, or that reduce the impact they would have if they occur.
 >
 > **[1:45](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/risk-and-resilience?u=76281980&t=105)** Mitigating risks is one way to make our supply chains more resilient.
 >
@@ -2120,17 +2081,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Engineering]] (1), management (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Probability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Sample supply chain case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980)
+#### [Sample supply chain case study](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=0)** Now, let's use a small case study to look at why it's so important for a business to implement supply chain management.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=0)** Now, let's use a small case study to look at why it's so important for a business to implement [[Supply Chain Management]].
 >
 > **[0:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=8)** Many of the certifications will require you to analyze case studies, so you need to get used to answering open-ended questions.
 >
@@ -2142,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=28)** They have hundreds of stores spread across the world, and they also sell online.
 >
-> **[0:33](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=33)** They buy some products directly from manufacturers and others from wholesalers and distributors.
+> **[0:33](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=33)** They buy some [[Microsoft Products|products]] directly from manufacturers and others from wholesalers and distributors.
 >
 > **[0:39](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/sample-supply-chain-case-study?u=76281980&t=39)** It's springtime, and they're getting ready for the launch of a new line of sunglasses.
 >
@@ -2164,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Supply Chain Management]] (1), [[Microsoft Products|Products]] (1), management (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 
 
@@ -2172,8 +2132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shipping overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/shipping-overview?u=76281980)
+#### [Shipping overview](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/shipping-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,15 +2178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Definitions:** is called (4), is a  (1)
 > **CLI Commands:** cargo (2), make (1)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** bco (1)
 > **Analogies:** for example (1)
 
-#### Basic ocean shipping terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-ocean-shipping-terminology?u=76281980)
+#### [Basic ocean shipping terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-ocean-shipping-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2303,17 +2260,16 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-ocean-shipping-terminology?u=76281980&t=256)** It's a huge industry with a unique vocabulary and some pretty cool technologies.
 >
-> **[4:22](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-ocean-shipping-terminology?u=76281980&t=262)** Learning about ocean shipping will give you a better understanding of how freight gets moved, and it's part of becoming a true expert in supply chain management.
+> **[4:22](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-ocean-shipping-terminology?u=76281980&t=262)** Learning about ocean shipping will give you a better understanding of how freight gets moved, and it's part of becoming a true expert in [[Supply Chain Management]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1), cargo (1)
 > **Definitions:** is called (2)
 > **Env Vars:** bol (1)
 
-#### Basic air shipping terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-air-shipping-terminology?u=76281980)
+#### [Basic air shipping terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-air-shipping-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,7 +2311,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-air-shipping-terminology?u=76281980&t=116)** Next, there are some special paperwork requirements for air cargo.
 >
-> **[2:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-air-shipping-terminology?u=76281980&t=120)** For example, each ULD has a list of the products it's carrying, called a packing list or a manifest.
+> **[2:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-air-shipping-terminology?u=76281980&t=120)** For example, each ULD has a list of the [[Microsoft Products|products]] it's carrying, called a packing list or a manifest.
 >
 > **[2:09](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-air-shipping-terminology?u=76281980&t=129)** And when you hire an air cargo company to transport your freight, you sign a document called an Airway Bill of Lading or an AWB.
 >
@@ -2381,14 +2337,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **CLI Commands:** cargo (12), make (1)
 > **Env Vars:** uld (2), ups (1), dhl (1), awb (1), co2 (1)
 > **Definitions:** is an  (2), is called (2)
 > **Analogies:** for example (2)
 
-#### Basic trucking terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-trucking-terminology?u=76281980)
+#### [Basic trucking terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-trucking-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2402,7 +2357,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-trucking-terminology?u=76281980&t=26)** Let's start by talking about the companies that are involved.
 >
-> **[0:30](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-trucking-terminology?u=76281980&t=30)** A shipper is a company that owns the products, and then they hire a carrier to move those products from one place to another.
+> **[0:30](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-trucking-terminology?u=76281980&t=30)** A shipper is a company that owns the [[Microsoft Products|products]], and then they hire a carrier to move those products from one place to another.
 >
 > **[0:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-trucking-terminology?u=76281980&t=38)** Some large shippers, like Walmart, own their own trucks and hire their own drivers.
 >
@@ -2461,14 +2416,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Overview of the trucking business
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980)
+#### [Overview of the trucking business](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=0)** The trucking industry is a lot more sophisticated than many people realize.
 >
-> **[0:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=5)** And since trucks are so important for moving products in a supply chain, you need to understand how the trucking market works.
+> **[0:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=5)** And since trucks are so important for moving [[Microsoft Products|products]] in a supply chain, you need to understand how the trucking market works.
 >
 > **[0:13](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=13)** Let's look at some key things to consider when it comes to truckload shipping.
 >
@@ -2480,7 +2434,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=40)** This is called LTL.
 >
-> **[0:43](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=43)** An LTL carrier operates sort of like the post office, combining your shipment with others and routing it through a series of distribution centers.
+> **[0:43](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=43)** An LTL carrier operates sort of like the post [[Microsoft Office|office]], combining your shipment with others and [[Routing]] it through a series of distribution centers.
 >
 > **[0:52](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=52)** The loading and unloading that occurs along the way adds time to the journey, and it increases the risk that freight will be damaged.
 >
@@ -2558,19 +2512,18 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=285)** A great place to learn more about the truckload transportation market is at [freightwaves.com](https://freightwaves.com).
 >
-> **[4:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=291)** Trucking is a lot more dynamic than many people realize, but knowing how the trucking business works can help you make smarter choices about how you ship products, optimize how you route your loads, and understand exactly how trucking fits in to the rest of your supply chain.
+> **[4:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-the-trucking-business?u=76281980&t=291)** Trucking is a lot more dynamic than many people realize, but knowing how the trucking business works can help you make smarter choices about how you ship products, optimize how you route your loads, and understand exactly how trucking fits in to the [[Representational State Transfer (REST)|rest]] of your supply chain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (1), [[Routing]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (1), [[Routing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (4), is a  (3), in other words (1)
 > **Env Vars:** ftl (3), ltl (2)
 > **CLI Commands:** find (2), make (2)
 > **URLs:** [freightwaves.com](https://freightwaves.com) (1)
 > **Analogies:** for example (1)
 
-#### Basic rail shipping terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980)
+#### [Basic rail shipping terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2590,7 +2543,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=48)** Boxcars are good for hauling freight that needs to be protected from the rain and wind.
 >
-> **[0:53](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=53)** For products like food that need to be kept cold, you can use a refrigerated boxcar called a reefer, or for freight that doesn't need the protection of walls and a roof, you can use a flatcar.
+> **[0:53](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=53)** For [[Microsoft Products|products]] like food that need to be kept cold, you can use a refrigerated boxcar called a reefer, or for freight that doesn't need the protection of walls and a roof, you can use a flatcar.
 >
 > **[1:07](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=67)** For example, flat cars are often used to haul shipping containers.
 >
@@ -2638,23 +2591,22 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=207)** Understanding how the rail system works and having a working knowledge of railroad terminology is really useful when you're dealing with logistics.
 >
-> **[3:37](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=217)** It's an important subject for certification exams and can go a long way towards helping you master the art and science of supply chain management.
+> **[3:37](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-rail-shipping-terminology?u=76281980&t=217)** It's an important subject for certification exams and can go a long way towards helping you master the art and science of [[Supply Chain Management]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), power (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Supply Chain Management]] (1)
 > **CLI Commands:** cargo (4)
 > **Analogies:** for example (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 
-#### Overview of shipping rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-shipping-rules?u=76281980)
+#### [Overview of shipping rules](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-shipping-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-shipping-rules?u=76281980&t=0)** When we're shipping products in a global supply chain, we often need to coordinate the activities of many different companies and work inside the laws of several different countries.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-shipping-rules?u=76281980&t=0)** When we're shipping [[Microsoft Products|products]] in a global supply chain, we often need to coordinate the activities of many different companies and work inside the laws of several different countries.
 >
 > **[0:11](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-shipping-rules?u=76281980&t=11)** Over time, we've developed ways to help clarify each company's responsibilities, which makes it easier to deal with the challenges that pop up, like what happens when cargo is lost or damaged.
 >
@@ -2699,12 +2651,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 
-#### Overview of global trade management
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980)
+#### [Overview of global trade management](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=0)** When we ship products around the world, we have to follow the rules of each country.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=0)** When we ship [[Microsoft Products|products]] around the world, we have to follow the rules of each country.
 >
 > **[0:05](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=5)** This is called Global Trade Management.
 >
@@ -2724,7 +2675,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=45)** So let's say you're manufacturing cars in the U.K.
 >
-> **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=48)** You'll probably source some components from domestic suppliers and import the rest from foreign suppliers.
+> **[0:48](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=48)** You'll probably source some components from domestic suppliers and import the [[Representational State Transfer (REST)|rest]] from foreign suppliers.
 >
 > **[0:56](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-global-trade-management?u=76281980&t=56)** Once you've assembled your cars, you'll sell some of them to domestic customers, and you'll export the rest to foreign customers.
 >
@@ -2784,14 +2735,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), management (4), [[Representational State Transfer (REST)|Rest]] (2), product (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is called (3), is a  (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3)
 > **Env Vars:** gtm (2)
 
-#### Basic warehousing terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980)
+#### [Basic warehousing terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2807,7 +2757,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=29)** First, there's a receiving area for inbound deliveries.
 >
-> **[0:33](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=33)** During the receiving process, you inspect shipments to make sure you've gotten the right products.
+> **[0:33](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=33)** During the receiving process, you inspect shipments to make sure you've gotten the right [[Microsoft Products|products]].
 >
 > **[0:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=38)** You also check to ensure that the quantities match the shipping documents and that none of it is damaged.
 >
@@ -2857,7 +2807,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=210)** Either way, the higher the fill rate, the better job you're doing of delivering the items your customers want when they want them.
 >
-> **[3:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=218)** In order to have a high fill rate, you need to do a good job of forecasting demand, scheduling replenishment, and keeping adequate safety stock on hand.
+> **[3:38](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=218)** In order to have a high fill rate, you need to do a good job of [[Forecasting]] demand, scheduling replenishment, and keeping adequate safety stock on hand.
 >
 > **[3:47](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-warehousing-terminology?u=76281980&t=227)** Warehouses employ a huge number of people and they contain lots of valuable inventory.
 >
@@ -2867,13 +2817,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (2), management (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Forecasting]] (1)
 > **Env Vars:** sku (4), wms (1), wes (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1), is a  (1)
 
-#### Basic procurement terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980)
+#### [Basic procurement terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2903,7 +2852,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=94)** The buyers interact directly with your suppliers and they manage those relationships.
 >
-> **[1:40](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=100)** They get permission from your company to buy something by having a requisition approved, and then they tell your supplier to ship the products by sending them a purchase order or a PO.
+> **[1:40](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=100)** They get permission from your company to buy something by having a requisition approved, and then they tell your supplier to ship the [[Microsoft Products|products]] by sending them a purchase order or a PO.
 >
 > **[1:51](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=111)** There are also supplier quality professionals who ensure that the materials you're receiving meet your standards.
 >
@@ -2911,9 +2860,9 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=124)** Many companies have commitments to buy from small businesses, from diverse companies, from companies that commit to treating their workers well and from companies that operate in an environmentally responsible way.
 >
-> **[2:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=138)** The people in charge of meeting these goals could have titles like supplier development, supplier diversity, and supply chain sustainability.
+> **[2:18](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=138)** The people in charge of meeting these goals could have titles like supplier development, supplier diversity, and supply chain [[Sustainability]].
 >
-> **[2:29](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=149)** By the way, there are some great courses here on LinkedIn Learning that can help you learn about these topics, including one about supplier development and diversity from my friend, David Burton.
+> **[2:29](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=149)** By the way, there are some great courses here on [[LinkedIn]] Learning that can help you learn about these topics, including one about supplier development and diversity from my friend, David Burton.
 >
 > **[2:40](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=160)** When companies use an analytical approach to manage their procurement process and try to align their purchases with the company's larger strategic goals, it's called strategic sourcing.
 >
@@ -2923,23 +2872,22 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=189)** Have you seen places where companies make decisions using strategic sourcing?
 >
-> **[3:14](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=194)** How are the procurement organizations structured in the companies around you, and how does that affect the rest of the supply chain?
+> **[3:14](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-procurement-terminology?u=76281980&t=194)** How are the procurement organizations structured in the companies around you, and how does that affect the [[Representational State Transfer (REST)|rest]] of the supply chain?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (2), teams (1), [[Microsoft Products|Products]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Sustainability]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** cpo (1)
 
-#### Basic manufacturing terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-manufacturing-terminology?u=76281980)
+#### [Basic manufacturing terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-manufacturing-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-manufacturing-terminology?u=76281980&t=0)** Every supply chain starts off with raw materials, things like plants, petroleum, and minerals.
 >
-> **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-manufacturing-terminology?u=76281980&t=6)** And through a series of manufacturing processes, we convert these raw materials into finished products that get sold to an end user.
+> **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-manufacturing-terminology?u=76281980&t=6)** And through a series of manufacturing processes, we convert these raw materials into finished [[Microsoft Products|products]] that get sold to an end user.
 >
 > **[0:15](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-manufacturing-terminology?u=76281980&t=15)** So let's take a look at some terms and concepts that we use in manufacturing.
 >
@@ -2999,25 +2947,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Env Vars:** wip (1), bom (1), smed (1), ppe (1)
 > **Definitions:** is called (4)
 > **Prerequisites:** setup (2), required to (1), you'll need (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** be careful (1)
 
-#### Basic forecasting terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980)
+#### [Basic forecasting terminology](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=0)** Many of the decisions we make in a supply chain are based on what we expect will happen in the future.
 >
-> **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=6)** In this video, we'll look at some of the key forecasting concepts that are important for all supply chain professionals.
+> **[0:06](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=6)** In this video, we'll look at some of the key [[Forecasting]] concepts that are important for all supply chain professionals.
 >
 > **[0:14](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=14)** First, there are two kinds of forecasts; quantitative and qualitative.
 >
-> **[0:20](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=20)** Quantitative forecasts are based on historical data and statistics.
+> **[0:20](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=20)** Quantitative forecasts are based on historical data and [[Statistics]].
 >
 > **[0:25](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/basic-forecasting-terminology?u=76281980&t=25)** For example, you might look at how much you've sold in the past and use that to make a forecast of future sales.
 >
@@ -3071,7 +3018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (5), product (2), data (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Statistics]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** mape (2)
 > **Analogies:** for example (2)
@@ -3082,8 +3029,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for your supply chain certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980)
+#### [Preparing for your supply chain certification](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3093,7 +3039,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=13)** Join an organization and start networking with other professionals in your area by going to local meetings and volunteering.
 >
-> **[0:21](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=21)** You should also look for LinkedIn groups to join and try to attend some conferences. While you're at it, talk with people who've completed their certifications to get their suggestions, and then build your own project plan and budget.
+> **[0:21](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=21)** You should also look for [[LinkedIn]] groups to join and try to attend some conferences. While you're at it, talk with people who've completed their certifications to get their suggestions, and then build your own project plan and budget.
 >
 > **[0:36](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=36)** What are the tasks that you'll need to complete?
 >
@@ -3103,7 +3049,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=49)** Once you have a plan, you can begin registering for classes, buying study materials, and scheduling your exams.
 >
-> **[0:57](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=57)** In addition to the official study guides, you can try using other resources too. My book, Supply Chain Management for Dummies, has a lot of useful information.
+> **[0:57](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=57)** In addition to the official study guides, you can try using other resources too. My book, [[Supply Chain Management]] for Dummies, has a lot of useful information.
 >
 > **[1:08](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980&t=68)** There are plenty of great supply chain courses here on LinkedIn Learning. My course, Supply Chain and Operations Management Tips might be a good next step, and you can get practice working in a simulated supply chain using games like MIT's Beer Game or online games like The Fresh Connection.
 >
@@ -3131,7 +3077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), next (2), [[Supply Chain Management]] (2), management (2), game (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Supply Chain Management]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** mit (1)
 > **UI Navigation:** click on (1)

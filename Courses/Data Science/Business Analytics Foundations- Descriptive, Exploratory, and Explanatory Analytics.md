@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980)
+#### [Getting started with business analytics](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980&t=0)** - [Kumaran] Business analytics is gaining an increasing role in driving businesses.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980&t=0)** - [Kumaran] [[Business Analytics]] is gaining an increasing role in driving businesses.
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/getting-started-with-business-analytics?u=76281980&t=6)** This course is an introductory overview to Business Analytics.
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (8), business (6)
+> **Frameworks & Libraries:** [[Business Analytics]] (5)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kumaran] (1)
 
-#### What is business analytics (BA)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/what-is-business-analytics-ba-14207880?u=76281980)
+#### [What is business analytics (BA)?](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/what-is-business-analytics-ba-14207880?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/what-is-business-analytics-ba-14207880?u=76281980&t=1)** - [Instructor] The term business analytics have been used loosely these days to define a wide range of data-driven analytics activities and processes.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/what-is-business-analytics-ba-14207880?u=76281980&t=1)** - [Instructor] The term [[Business Analytics]] have been used loosely these days to define a wide range of data-driven analytics activities and processes.
 >
 > **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/what-is-business-analytics-ba-14207880?u=76281980&t=12)** I would like to put a frame around that term.
 >
@@ -134,18 +132,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), [[Analytics]] (6), data (5)
+> **Frameworks & Libraries:** [[Business Analytics]] (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business analytics compared
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980)
+#### [Business analytics compared](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=1)** - [Instructor] If you have been watching the analytics horizon over the past few years, there are a few buzzwords that stand out.
 >
-> **[0:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=11)** The most important of them being business analytics, business intelligence, data engineering and data science.
+> **[0:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=11)** The most important of them being [[Business Analytics]], [[Business Intelligence (BI)|business intelligence]], [[Data Engineering]] and [[Data Science]].
 >
 > **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=20)** How are these terms different?
 >
@@ -155,11 +152,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=27)** When you look at the various activities associated with data inside a business, they can be defined as the following.
 >
-> **[0:37](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=37)** It starts from getting data from data sources and building data pipelines.
+> **[0:37](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=37)** It starts from getting data from data sources and building [[Data Pipelines]].
 >
 > **[0:43](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=43)** Then data is processed, transformed and stored.
 >
-> **[0:48](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=48)** The processed data is used to build dashboards and reports.
+> **[0:48](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=48)** The processed data is used to build [[Dashboards]] and reports.
 >
 > **[0:53](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-compared-14210404?u=76281980&t=53)** This then becomes the basis for exploratory analytics, statistical modeling and machine learning.
 >
@@ -185,17 +182,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (8), business (7), [[Data Engineering]] (4), [[Business Intelligence (BI)|Business intelligence]] (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Business Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (3), [[Data Science]] (2), [[Dashboards]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stages of business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980)
+#### [Stages of business analytics](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=1)** - [Instructor] Let us take a moment, to look at the various stages of business analytics.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=1)** - [Instructor] Let us take a moment, to look at the various stages of [[Business Analytics]].
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=8)** The first stage of business analytics, is descriptive analytics.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=52)** This is a targeted exploration and recent finding effort, to answer a specific business question.
 >
-> **[1:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=60)** The fourth stage is predictive analytics.
+> **[1:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=60)** The fourth stage is [[Predictive Analytics]].
 >
 > **[1:04](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/stages-of-business-analytics-14210400?u=76281980&t=64)** This stage answers the question, what will happen?
 >
@@ -235,20 +231,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (9), business (5), data (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (3), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Business analytics process
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980)
+#### [Business analytics process](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=1)** - [Instructor] Let us look at how business analytics processes work inside an organization.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=1)** - [Instructor] Let us look at how [[Business Analytics]] processes work inside an organization.
 >
 > **[0:08](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=8)** An organization has multiple data sources.
 >
-> **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=12)** There are data files or databases that capture enterprise data, there is data captured from the internet like key words, and trending items from social media.
+> **[0:12](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=12)** There are data files or [[Databases]] that capture enterprise data, there is data captured from the internet like key words, and trending items from social media.
 >
 > **[0:24](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=24)** There is also data captured from mobile devices.
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=67)** This is then stored again in the central repository.
 >
-> **[1:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=71)** There are analytics products that will run on top of the transformed data, and provide users and analyst with reports, dashboards, and exploratory capabilities.
+> **[1:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=71)** There are analytics [[Microsoft Products|products]] that will run on top of the transformed data, and provide users and analyst with reports, [[Dashboards]], and exploratory capabilities.
 >
 > **[1:26](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/business-analytics-process-14211174?u=76281980&t=86)** This data then will be the source for machine learning.
 >
@@ -274,12 +269,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Analytics]] (4), business (3), [[Databases]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/course-use-cases-14206985?u=76281980)
+#### [Course use cases](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/course-use-cases-14206985?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/course-use-cases-14206985?u=76281980&t=53)** The second data set is about email campaigns and conversions.
 >
-> **[0:59](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/course-use-cases-14206985?u=76281980&t=59)** It is about a business that sends out emails periodically to potential customers with offers for their products.
+> **[0:59](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/course-use-cases-14206985?u=76281980&t=59)** It is about a business that sends out emails periodically to potential customers with offers for their [[Microsoft Products|products]].
 >
 > **[1:08](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/course-use-cases-14206985?u=76281980&t=68)** You should be receiving these kind of emails and offers from multiple stores.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (3), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
@@ -334,8 +328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DEA definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980)
+#### [DEA definition](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=37)** It is called reporting in many software applications.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=42)** Descriptive analytics summarizes data in many forms to understand how the business performed in a given period.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=42)** Descriptive analytics summarizes data in many [[Forms]] to understand how the business performed in a given period.
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=52)** It compares different segments of data and also different time periods to get a sense of the trends and performance.
 >
@@ -357,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=65)** Typically, reports in descriptive analytics are predefined and pre-canned.
 >
-> **[1:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=71)** They are bundled into software products and applications.
+> **[1:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=71)** They are bundled into software [[Microsoft Products|products]] and applications.
 >
 > **[1:16](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-definition-14211175?u=76281980&t=76)** Customers simply execute the reports by providing a few parameters and view the reports in a monitored dashboard.
 >
@@ -375,13 +368,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), data (3), business (2), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** csv (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### DEA tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-tools-and-techniques-14207876?u=76281980)
+#### [DEA tools and techniques](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-tools-and-techniques-14207876?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-tools-and-techniques-14207876?u=76281980&t=7)** The first common technique used in descriptive analytics, is aggregation.
 >
-> **[0:14](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-tools-and-techniques-14207876?u=76281980&t=14)** This is the same as an SQL GROUP BY or an Excel pivot.
+> **[0:14](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-tools-and-techniques-14207876?u=76281980&t=14)** This is the same as an [[SQL]] GROUP BY or an [[Microsoft Excel|Excel]] pivot.
 >
 > **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-tools-and-techniques-14207876?u=76281980&t=20)** An example of aggregation is shown here.
 >
@@ -429,14 +421,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Analytics]] (2), data (2), next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (1), group (1)
 > **Definitions:** is an  (1), is a  (1)
 > **SQL:** group by (1)
 > **Speakers:** - [instructor] (1)
 
-#### DEA use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-use-case-14213054?u=76281980)
+#### [DEA use case](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-use-case-14213054?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-use-case-14213054?u=76281980&t=35)** It shows the product, offer made, total converted and conversion percentage.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-use-case-14213054?u=76281980&t=42)** We do see that HDMI cable and keyboard have less conversions than the other products that are in the 19% range.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-use-case-14213054?u=76281980&t=42)** We do see that HDMI cable and keyboard have less conversions than the other [[Microsoft Products|products]] that are in the 19% range.
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-use-case-14213054?u=76281980&t=52)** You want to know why.
 >
@@ -492,14 +483,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Analytics]] (4), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** hdmi (1)
 > **Speakers:** - [instructor] (1)
 
-#### DEA best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980)
+#### [DEA best practices](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +501,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=14)** Some are custom built.
 >
-> **[0:17](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=17)** Choose a product design custom reports based on your business needs.
+> **[0:17](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=17)** Choose a [[Product Design]] custom reports based on your business needs.
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=22)** Pre-packaged software cannot be fully customized.
 >
@@ -527,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=58)** Generating too many reports and filling up email boxes will result in people ignoring these emails.
 >
-> **[1:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=67)** Fourth, when building dashboards, once again, focus on the key metrics.
+> **[1:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=67)** Fourth, when building [[Dashboards]], once again, focus on the key metrics.
 >
 > **[1:13](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/dea-best-practices-14213057?u=76281980&t=73)** Adding too many numbers in the dashboard will clutter it and take away focus from what is key to the business.
 >
@@ -537,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), business (2), product (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[Dashboards]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -545,8 +535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### EDA definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980)
+#### [EDA definition](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,9 +563,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980&t=93)** Exploratory analytics is usually done in an ad-hoc manner.
 >
-> **[1:38](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980&t=98)** It does not use standard reports and dashboards.
+> **[1:38](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980&t=98)** It does not use standard reports and [[Dashboards]].
 >
-> **[1:42](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980&t=102)** Rather, the analyst queries the data through SQL, spreadsheets or other ad-hoc analytics tools.
+> **[1:42](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980&t=102)** Rather, the analyst queries the data through [[SQL]], spreadsheets or other ad-hoc analytics tools.
 >
 > **[1:51](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-definition-14209449?u=76281980&t=111)** They may even write programs to do the work.
 >
@@ -604,14 +593,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (9), business (2), [[Dashboards]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### EDA tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-tools-and-techniques-14210401?u=76281980)
+#### [EDA tools and techniques](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-tools-and-techniques-14210401?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +639,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-tools-and-techniques-14210401?u=76281980&t=128)** They are also a great tool set to present data and findings to other interested folks.
 >
-> **[2:17](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-tools-and-techniques-14210401?u=76281980&t=137)** Finally, there is statistics.
+> **[2:17](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-tools-and-techniques-14210401?u=76281980&t=137)** Finally, there is [[Statistics]].
 >
 > **[2:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-tools-and-techniques-14210401?u=76281980&t=140)** There are a number of statistical techniques that help us gain an understanding of data patterns.
 >
@@ -667,13 +655,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistics]] (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Definitions:** is called (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### EDA use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-use-case-14212164?u=76281980)
+#### [EDA use case](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-use-case-14212164?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +682,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-use-case-14212164?u=76281980&t=74)** This is an interesting finding because the company might be able to provide lower discount rates for females than males and yet achieve the same conversion results.
 >
-> **[1:28](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-use-case-14212164?u=76281980&t=88)** Next, we'll drill down by product to understand if different products achieve different conversion rates when offered different discounts.
+> **[1:28](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-use-case-14212164?u=76281980&t=88)** Next, we'll drill down by product to understand if different [[Microsoft Products|products]] achieve different conversion rates when offered different discounts.
 >
 > **[1:39](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-use-case-14212164?u=76281980&t=99)** The table is color coded with the lowest values being red-based and the highest values being green-based.
 >
@@ -723,15 +710,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** usb (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### EDA best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-best-practices-14213055?u=76281980)
+#### [EDA best practices](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/eda-best-practices-14213055?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +751,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Analytics]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - what (1)
 
@@ -774,12 +759,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### EPA definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980)
+#### [EPA definition](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980&t=1)** - [Instructor] Now, let's get to the third stage in business analytics, explanatory analytics.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980&t=1)** - [Instructor] Now, let's get to the third stage in [[Business Analytics]], explanatory analytics.
 >
 > **[0:09](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-definition-14207879?u=76281980&t=9)** Explanatory analytics deals with the question, why did it happen?
 >
@@ -819,13 +803,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (9), data (6), business (4), next (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### EPA tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-tools-and-techniques-14208723?u=76281980)
+#### [EPA tools and techniques](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-tools-and-techniques-14208723?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-tools-and-techniques-14208723?u=76281980&t=106)** Numbers and percentages can be added to various bones to enhance the presentation.
 >
-> **[1:54](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-tools-and-techniques-14208723?u=76281980&t=114)** Finally, there are soft skills needed.
+> **[1:54](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-tools-and-techniques-14208723?u=76281980&t=114)** Finally, there are [[Soft Skills]] needed.
 >
 > **[1:57](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-tools-and-techniques-14208723?u=76281980&t=117)** The ability to present the findings to an audience in a compact and logical manner is a key tool for analysts doing explanatory analytics.
 >
@@ -863,12 +846,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), data (4), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### EPA use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-use-case-14209446?u=76281980)
+#### [EPA use case](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-use-case-14209446?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-use-case-14209446?u=76281980&t=43)** First, we want to see if there is a drop for a specific product.
 >
-> **[0:49](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-use-case-14209446?u=76281980&t=49)** So we compare a products overall performance to the specific performance for September.
+> **[0:49](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-use-case-14209446?u=76281980&t=49)** So we compare a [[Microsoft Products|products]] overall performance to the specific performance for September.
 >
 > **[0:57](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-use-case-14209446?u=76281980&t=57)** What do we find?
 >
@@ -934,14 +916,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Analytics]] (2), management (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Versions:** 14.7 (2), 11.6 (1), 19.3 (1), 19.1 (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### EPA best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-best-practices-14212167?u=76281980)
+#### [EPA best practices](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/epa-best-practices-14212167?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,7 +960,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), data (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
@@ -988,20 +968,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980)
+#### [Advanced visualizations](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=0)** - [Instructor] We have now completed our discussions on descriptive, exploratory, and explanatory analytics.
 >
-> **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=7)** In this chapter, we will review some of the key emerging trends in business analytics.
+> **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=7)** In this chapter, we will review some of the key emerging trends in [[Business Analytics]].
 >
 > **[0:14](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=14)** We will merely introduce these topics, and the learner is recommended to explore further on these topics.
 >
 > **[0:21](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=21)** We will begin with advanced visualizations.
 >
-> **[0:25](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=25)** There are several new types of visualization techniques that have begun to dominate enterprise dashboards.
+> **[0:25](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=25)** There are several new types of visualization techniques that have begun to dominate enterprise [[Dashboards]].
 >
 > **[0:32](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/compliance-considerations-24027558?u=76281980&t=32)** Some of the popular ones are heat maps, parallel coordinates, Sankey diagrams, choropleth maps, network graphs, 3D visualizations, and interactive dashboards.
 >
@@ -1033,30 +1012,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), [[Dashboards]] (2), business (1), parallel (1), data (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Business Analytics]] (1)
 > **Best Practices:** recommended (1), good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980)
+#### [Data discovery](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=0)** - [Presenter] The second emerging technology we will discuss is data discovery.
 >
-> **[0:05](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=5)** What is data discovery in the world of business analytics?
+> **[0:05](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=5)** What is data discovery in the world of [[Business Analytics]]?
 >
 > **[0:09](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=9)** Data discovery is the process of visually navigating data to find patterns and insights.
 >
 > **[0:16](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=16)** It helps the user to go beyond standard visualizations and discover new patterns and insights from the data.
 >
-> **[0:24](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=24)** Data discovery uses text and visual storytelling to lead the user through the journey of discovery.
+> **[0:24](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=24)** Data discovery uses text and visual [[Storytelling]] to lead the user through the journey of discovery.
 >
 > **[0:32](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=32)** It helps users build storyboards based on the analytics they do.
 >
-> **[0:38](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=38)** Interactive dashboards play a key role in helping users navigate complex data sets.
+> **[0:38](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=38)** Interactive [[Dashboards]] play a key role in helping users navigate complex data sets.
 >
-> **[0:45](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=45)** Visualizations supported by data discovery products tend to be flexible to all users to create their own representation of the insights they have discovered.
+> **[0:45](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=45)** Visualizations supported by data discovery [[Microsoft Products|products]] tend to be flexible to all users to create their own representation of the insights they have discovered.
 >
 > **[0:56](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=56)** It empowers the business analyst to perform analytics quickly without the need for development support from the IT team.
 >
@@ -1074,23 +1052,22 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=103)** Data prepared in this process is then presented to users through interactive dashboards that allow users to navigate through the data.
 >
-> **[1:52](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=112)** Users would then visualize data in forms of their choice and analyze.
+> **[1:52](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=112)** Users would then visualize data in [[Forms]] of their choice and analyze.
 >
 > **[1:57](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-security-protection-24030182?u=76281980&t=117)** Discovery is an iterative process where users will hypothesize, analyze, validate, and repeat.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Analytics]] (3), business (2), [[Dashboards]] (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Business Analytics]] (1), [[Storytelling]] (1), [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Augmented analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980)
+#### [Augmented analytics](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=0)** - [Instructor] Augmented analytics is another domain that is gaining prominence in business analytics.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=0)** - [Instructor] Augmented analytics is another domain that is gaining prominence in [[Business Analytics]].
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=6)** What is augmented analytics?
 >
@@ -1102,39 +1079,38 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=35)** Using statistical techniques and machine learning helps deliver better data-driven decisions, reducing time and effort from the user side.
 >
-> **[0:44](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=44)** It improves data literacy among citizen users over time.
+> **[0:44](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=44)** It improves [[Data Literacy]] among citizen users over time.
 >
 > **[0:49](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=49)** What does augmented analytics process look like?
 >
 > **[0:52](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=52)** It begins with a set of enterprise data sources similar to data discovery.
 >
-> **[0:57](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=57)** These data sources could be databases, documents, emails, public websites, and telemetry data.
+> **[0:57](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=57)** These data sources could be [[Databases]], documents, emails, public websites, and telemetry data.
 >
-> **[1:05](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=65)** The data sets go through a data engineering pipeline that involves crawling the data, statistical analytics, feature engineering, transformation, and storage.
+> **[1:05](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=65)** The data sets go through a [[Data Engineering]] pipeline that involves crawling the data, statistical analytics, [[Feature Engineering]], transformation, and storage.
 >
-> **[1:15](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=75)** This then drives the augmented analytics capabilities, like automated data profiling, natural language processing, or NLP; natural language generation, or NLG; predictions, AutoML, forecasting and dashboards.
+> **[1:15](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=75)** This then drives the augmented analytics capabilities, like automated data profiling, [[Natural Language Processing (NLP)|natural language processing]], or NLP; natural language generation, or NLG; predictions, AutoML, [[Forecasting]] and [[Dashboards]].
 >
 > **[1:31](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/data-privacy-considerations-24025693?u=76281980&t=91)** Finally, the results of automated analytics are provided to the users, including summaries, alerts, advice, decisions, and workflow automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (9), [[Automation]] (3), business (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1), [[Data Literacy]] (1), [[Databases]] (1), [[Data Engineering]] (1), [[Feature Engineering]] (1)
 > **Env Vars:** nlp (1), nlg (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=0)** - [Narrator] Generative AI is a new technology that is gaining momentum in the business world.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=0)** - [Narrator] [[Generative AI]] is a new technology that is gaining momentum in the business world.
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=6)** Learners would've already heard or experienced the power of generative AI.
 >
 > **[0:11](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=11)** It is a transformational technology that is finding applications in every facet of running a business and changing how things are done.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=20)** It has a significant impact on business analytics with the potential to change the way we analyze and present data.
+> **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=20)** It has a significant impact on [[Business Analytics]] with the potential to change the way we analyze and present data.
 >
 > **[0:28](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=28)** It enables new use cases and applications, which were not possible before.
 >
@@ -1156,13 +1132,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=81)** It has the power to forecast the future based on past data.
 >
-> **[1:25](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=85)** This helps in forecasting in the case of sales and budgets.
+> **[1:25](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=85)** This helps in [[Forecasting]] in the case of sales and budgets.
 >
 > **[1:29](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/bias-in-business-analytics-24032053?u=76281980&t=89)** Gen AI is capable of creating new content based on existing data and can help analysts create summaries and reports.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Generative AI]] (4), business (4), [[Analytics]] (3), power (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Business Analytics]] (2), [[Forecasting]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1171,22 +1147,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980)
+#### [Continuing on with business analytics](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=1)** - [Kumaran] There is a lot you can do with business analytics beyond this course.
+> **[0:01](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=1)** - [Kumaran] There is a lot you can do with [[Business Analytics]] beyond this course.
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=7)** Here are some of my recommendations.
 >
 > **[0:10](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=10)** Learn about predicting the future with data using predictive, prescriptive, and experimental analytics.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=20)** Learn business analytics programming using R, Python, or Java.
+> **[0:20](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=20)** Learn business analytics programming using R, [[Python (Programming Language)|Python]], or [[Java]].
 >
-> **[0:26](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=26)** Learn cross-domain skills, like statistics and business decision-making.
+> **[0:26](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=26)** Learn cross-domain skills, like [[Statistics]] and business [[Decision-Making]].
 >
-> **[0:33](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=33)** Learn advanced skills like machine learning and predictive analytics.
+> **[0:33](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=33)** Learn advanced skills like machine learning and [[Predictive Analytics]].
 >
 > **[0:38](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics/continuing-on-with-business-analytics?u=76281980&t=38)** Data always intrigues me.
 >
@@ -1196,7 +1171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Analytics]] (3), data (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Statistics]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kumaran] (1)

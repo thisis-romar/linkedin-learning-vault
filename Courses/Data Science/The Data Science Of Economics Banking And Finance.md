@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data science of finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980)
+#### [The data science of finance](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980&t=16)** And so to understand money, you need to understand data.
 >
-> **[0:21](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980&t=21)** I'm Barton Poulson, and in this brief course we'll take a nontechnical, conceptually-oriented look at how data science can be effectively used to understand money in the fields of economics, banking, and finance in both formal and informal settings.
+> **[0:21](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980&t=21)** I'm Barton Poulson, and in this brief course we'll take a nontechnical, conceptually-oriented look at how [[Data Science]] can be effectively used to understand money in the fields of economics, [[Banking]], and finance in both formal and informal settings.
 >
 > **[0:36](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980&t=36)** Anyone with an interest in the business of money, regardless of their technical background, can get important ideas and insights from this course.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Banking]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Banking]] (2)
 > **Speakers:** - [barton] (1)
 
 
@@ -97,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science and money
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980)
+#### [Data science and money](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=15)** Like whether a particular investment will be profitable, whether a loan application will get accepted, or whether your credit card is safe online.
 >
-> **[0:23](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=23)** And while it's never possible to be 100% certain about the future, data science can provide useful answers to these questions and a host of others in economics, banking, and finance.
+> **[0:23](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=23)** And while it's never possible to be 100% certain about the future, [[Data Science]] can provide useful answers to these questions and a host of others in economics, [[Banking]], and finance.
 >
 > **[0:34](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=34)** In this course, we're going to take a non-technical look at how data science is applied to a wide range of financial topics from fraud detection and automated loan applications to trend analysis and economic policy.
 >
@@ -118,13 +116,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=57)** Number one is data science.
 >
-> **[1:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=60)** This is simply the combination of mathematics and statistics with computer programming in applied settings, too familiar definition by now.
+> **[1:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=60)** This is simply the combination of mathematics and [[Statistics]] with computer programming in applied settings, too familiar definition by now.
 >
 > **[1:08](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=68)** But data science and money is the application of those techniques from data science to solve practical problems in finance, banking, and economics.
 >
 > **[1:19](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=79)** And then finally, I also want to talk about AI and LLMs.
 >
-> **[1:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=84)** We're going to have a special focus on these recent developments, both in artificial intelligence and in the large language models as they apply to financial work.
+> **[1:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=84)** We're going to have a special focus on these recent developments, both in [[Artificial Intelligence (AI)|artificial intelligence]] and in the [[Large Language Models (LLM)|large language models]] as they apply to financial work.
 >
 > **[1:33](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=93)** An important thing to remember however is that simple is often good enough even in large financial work.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=147)** Data science methods are well adapted to complex data, something that goes beyond the rows and columns of a spreadsheet, and allows you to bring in a whole range of sources in different formats.
 >
-> **[2:39](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=159)** Also, it can model very complex interactions, nonlinear interactions that make it possible to do so much of the deep learning and the artificial intelligence work that makes the data magic possible.
+> **[2:39](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=159)** Also, it can model very complex interactions, nonlinear interactions that make it possible to do so much of the [[Deep Learning]] and the artificial intelligence work that makes the data magic possible.
 >
 > **[2:55](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=175)** Data science can also automate repetitive processes and it allows organizations to offer a degree of personalization to their customers and clients that they couldn't do otherwise.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=251)** And then these diverse sources and inferences.
 >
-> **[4:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=254)** So you can take some of this information and make estimates of for instance the probability of a particular customer adding or leaving your service or the probability of changes in the financial market over time.
+> **[4:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=254)** So you can take some of this information and make estimates of for instance the [[Probability]] of a particular customer adding or leaving your service or the probability of changes in the financial market over time.
 >
 > **[4:28](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=268)** And you can use that as the data that you feed into your other models to try to predict both the market and behaviors.
 >
@@ -200,7 +198,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=321)** You may need to look at differences of microseconds.
 >
-> **[5:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=324)** So decisions must be, in that case, completely automated, and algorithms must be optimized for performance.
+> **[5:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=324)** So decisions must be, in that case, completely automated, and [[Algorithms]] must be optimized for performance.
 >
 > **[5:32](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=332)** If you are on the other hand, dealing with human-made decisions, then you don't have that same level of pressure and you can use a model that allows more attention to what's going on that is then used to inform a human decision maker.
 >
@@ -224,7 +222,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=392)** A huge amount of very important work has been done in spreadsheets.
 >
-> **[6:36](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=396)** If you saw the movies "The Big Short" or "Dumb Money," you saw that our central figures were using spreadsheets as their primary method of analyzing financial data.
+> **[6:36](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=396)** If you saw the movies "The Big Short" or "Dumb Money," you saw that our central figures were using spreadsheets as their primary method of analyzing [[Financial Data]].
 >
 > **[6:46](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980&t=406)** Regression models are very simple to create, are very flexible and strong, and often make predictions that are as good as much more complicated models.
 >
@@ -244,14 +242,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Banking]] (3), [[Deep Learning]] (3), application (2)
+> **Frameworks & Libraries:** [[Data Science]] (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Banking]] (3), [[Deep Learning]] (3), [[Large Language Models (LLM)|Large language models]] (2)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI and LLMs in the financial world
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980)
+#### [AI and LLMs in the financial world](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,9 +264,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=70)** Or 47 years after that, a computer called Deep Thought, that was designed by Carnegie Mellon University, and IBM became the first computer to beat a Grand Master in a regular tournament game of chess, something that a lot of the people thought no computer would ever be able to do and would signal true intelligence.
 >
-> **[1:30](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=90)** And then on 30 November, 2022, OpenAI publicly released ChatGPT, the first easily accessible consumer oriented large language model or LLM.
+> **[1:30](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=90)** And then on 30 November, 2022, OpenAI publicly released [[ChatGPT]], the first easily accessible consumer oriented large language model or LLM.
 >
-> **[1:43](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=103)** And that's where the current ideas about artificial intelligence really take off.
+> **[1:43](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=103)** And that's where the current ideas about [[Artificial Intelligence (AI)|artificial intelligence]] really take off.
 >
 > **[1:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=110)** Really what it does is it puts us in the middle of a hurricane because extraordinary new things are coming from AI and what seems like a constant basis, but there are also extraordinary challenges on a constant basis.
 >
@@ -277,13 +274,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=135)** But we should back up for just a second and clarify that a lot of times when people use the terms AI or machine learning ML, they could be referring to almost any approach that involves data and computer.
 >
-> **[2:30](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=150)** Structured query language or SQL searches and linear regression are both very, very helpful and common for making quality data-driven decisions in the financial world, but they hardly count as AI or machine learning.
+> **[2:30](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=150)** Structured query language or [[SQL]] searches and [[Linear Regression]] are both very, very helpful and common for making quality data-driven decisions in the financial world, but they hardly count as AI or machine learning.
 >
-> **[2:44](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=164)** Personally, I would be reluctant to call anything much simpler than say, a deep learning model or a random forest machine learning.
+> **[2:44](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=164)** Personally, I would be reluctant to call anything much simpler than say, a [[Deep Learning]] model or a random forest machine learning.
 >
 > **[2:51](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=171)** And I would be reluctant to use the term AI for anything that wasn't based on, for example, a generative approach, like a large language model, although there are others.
 >
-> **[3:01](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=181)** But regardless of the technology, let's think about some of the things that you can do with AI in financial modeling.
+> **[3:01](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=181)** But regardless of the technology, let's think about some of the things that you can do with AI in [[Financial Modeling]].
 >
 > **[3:08](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=188)** There are predictive models.
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=239)** This is different from what is generally associated with AI.
 >
-> **[4:04](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=244)** These are generally considered data science, but in AI you get the introduction of generative models.
+> **[4:04](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=244)** These are generally considered [[Data Science]], but in AI you get the introduction of generative models.
 >
 > **[4:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=250)** So instead of predictive, it is generating new information.
 >
@@ -315,7 +312,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=308)** There are rules about what they have to write down as well as the functioning of their organization.
 >
-> **[5:13](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=313)** And AI can help translate a lot of their notes into the many, many, many forms required for that, and that makes their job a lot easier and allows 'em to concentrate on the higher ROI activities, like actually making the investments.
+> **[5:13](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=313)** And AI can help translate a lot of their notes into the many, many, many [[Forms]] required for that, and that makes their job a lot easier and allows 'em to concentrate on the higher ROI activities, like actually making the investments.
 >
 > **[5:30](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=330)** One interesting application of AI in the financial world is simply maintaining legacy code.
 >
@@ -329,7 +326,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=367)** They're not around anymore.
 >
-> **[6:09](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=369)** One of the really interesting uses of generative AI is it can help you debug code, fix code.
+> **[6:09](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=369)** One of the really interesting uses of [[Generative AI]] is it can help you debug code, fix code.
 >
 > **[6:16](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=376)** Anybody who's tried getting some help with programming in ChatGPT knows how this works.
 >
@@ -343,13 +340,13 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=416)** But there is potential to help ease some of the administrative burden of working in the financial world.
 >
-> **[7:04](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=424)** And what's interesting about this is AI and large language models, well, maybe a lot of these applications are not as exciting as one might have hoped, but like a vacuum cleaner, they are very, very useful in common situations.
+> **[7:04](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=424)** And what's interesting about this is AI and [[Large Language Models (LLM)|large language models]], well, maybe a lot of these applications are not as exciting as one might have hoped, but like a vacuum cleaner, they are very, very useful in common situations.
 >
 > **[7:20](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/ai-and-llms-in-the-financial-world?u=76281980&t=440)** They can save you time, they can save you frustration, and they can allow you to focus on the other things that AI is not very good at doing, like relating to people and to finding these new opportunities that you can develop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (5), [[ChatGPT]] (3), [[Generative AI]] (2), game (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[SQL]] (1), [[Linear Regression]] (1)
 > **Env Vars:** cobol (4), ibm (1), llm (1), sql (1), covid (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (3)
@@ -357,8 +354,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Social trading and finance influencers
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-trading-and-finance-influencers?u=76281980)
+#### [Social trading and finance influencers](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-trading-and-finance-influencers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-trading-and-finance-influencers?u=76281980&t=85)** So for instance, the GameStop investment frenzy from a few years ago, or investment in AMC, these are examples of stocks that no financial professional would've picked, but became very popular with retail traders and in certain situations made a huge amount of money for people.
 >
-> **[1:46](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-trading-and-finance-influencers?u=76281980&t=106)** Another example is the Dogecoin cryptocurrency, which you can see right here.
+> **[1:46](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-trading-and-finance-influencers?u=76281980&t=106)** Another example is the Dogecoin [[Cryptocurrency]], which you can see right here.
 >
 > **[1:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-trading-and-finance-influencers?u=76281980&t=110)** Founded as a joke cryptocurrency, but became a legitimate instrument.
 >
@@ -437,8 +433,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Social payment apps and informal banking
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-payment-apps-and-informal-banking?u=76281980)
+#### [Social payment apps and informal banking](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-payment-apps-and-informal-banking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-payment-apps-and-informal-banking?u=76281980&t=21)** It's like you might as well use a stage coach and send bags of gold or something.
 >
-> **[0:26](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-payment-apps-and-informal-banking?u=76281980&t=26)** But thanks to a whole host of technological developments, many of which draw heavily on data science.
+> **[0:26](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-payment-apps-and-informal-banking?u=76281980&t=26)** But thanks to a whole host of technological developments, many of which draw heavily on [[Data Science]].
 >
 > **[0:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/social-payment-apps-and-informal-banking?u=76281980&t=31)** We have mobile payment apps like PayPal, Venmo, ApplePay, or Alipay that enable both electronic payments and peer-to-peer payments, and it feels like an imposition when you can't use them.
 >
@@ -520,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Env Vars:** fdic (3), afs (1)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1), for instance (1)
@@ -528,18 +523,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cryptocurrencies and blockchain in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980)
+#### [Cryptocurrencies and blockchain in finance](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=0)** - [Instructor] Back in 2017, when I made the first version of this course, the best known cryptocurrency, Bitcoin, was still a bit of a novelty, but because it was undergoing a huge spike in value at that time, it got a lot of attention.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=0)** - [Instructor] Back in 2017, when I made the first version of this course, the best known [[Cryptocurrency]], Bitcoin, was still a bit of a novelty, but because it was undergoing a huge spike in value at that time, it got a lot of attention.
 >
 > **[0:15](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=15)** But with that growth and attention came a few other things.
 >
 > **[0:20](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=20)** One which is probably good, was that there was rampant idealism.
 >
-> **[0:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=24)** People were talking about Bitcoin changing the entire financial world and about blockchain, the technology underneath it, changing everything and everything was going to be wonderful in every way after that.
+> **[0:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=24)** People were talking about Bitcoin changing the entire financial world and about [[Blockchain]], the technology underneath it, changing everything and everything was going to be wonderful in every way after that.
 >
 > **[0:37](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=37)** Well, then again, other things happened.
 >
@@ -591,7 +585,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=212)** And because of the work that's involved, that's extremely difficult, to a certain extent, functionally impossible, but not theoretically impossible.
 >
-> **[3:42](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=222)** And while blockchain is best known for its use in cryptocurrencies like Bitcoin, it's also used for NFTs or Non Fungible Tokens.
+> **[3:42](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=222)** And while blockchain is best known for its use in cryptocurrencies like Bitcoin, it's also used for NFTs or Non Fungible [[Tokens]].
 >
 > **[3:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=230)** And really, any digital data can be stored in a blockchain.
 >
@@ -659,7 +653,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=451)** The nice thing is this uses much less energy.
 >
-> **[7:34](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=454)** So for instance, the best known cryptocurrency that uses proof of stake is Ethereum.
+> **[7:34](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=454)** So for instance, the best known cryptocurrency that uses proof of stake is [[Ethereum]].
 >
 > **[7:39](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=459)** Ethereum had originally been proof of work, but it switched in 2022 from proof of work to proof of stake and a step that was known as the merge in September of 22.
 >
@@ -729,11 +723,11 @@ created: 2026-05-02
 >
 > **[11:46](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=706)** It remains to be seen, but the potential is there.
 >
-> **[11:49](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=709)** And hopefully as both the computing technology and the data science behind it to develop, we can see more of that get realized.
+> **[11:49](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/cryptocurrencies-and-blockchain-in-finance?u=76281980&t=709)** And hopefully as both the computing technology and the [[Data Science]] behind it to develop, we can see more of that get realized.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (17), [[Cryptocurrency]] (7), data (6), [[Ethereum]] (3), product (2)
+> **Frameworks & Libraries:** [[Blockchain]] (17), [[Cryptocurrency]] (7), [[Ethereum]] (3), [[Tokens]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (4), refers to (1), known as (1), is an  (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** fiat (2), fdx (1)
@@ -741,8 +735,7 @@ created: 2026-05-02
 > **Versions:** 99.9 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Responding to financial scams and frauds
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980)
+#### [Responding to financial scams and frauds](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=94)** So for instance, there are several documented instances of deepfakes.
 >
-> **[1:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=98)** Now this is neural networks being used to create messages that fooled a financial professional into transferring tens of millions of dollars from their organization.
+> **[1:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=98)** Now this is [[Neural Networks]] being used to create messages that fooled a financial professional into transferring tens of millions of dollars from their organization.
 >
 > **[1:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=110)** A few years ago, a deepfake audio call, person received a phone call.
 >
@@ -818,7 +811,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=218)** These are really psychological attacks.
 >
-> **[3:40](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=220)** These are different from what might be considered more generic cybersecurity.
+> **[3:40](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=220)** These are different from what might be considered more generic [[Cybersecurity]].
 >
 > **[3:45](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=225)** This is where a person is trying to protect information from unwanted access, or think about it as manipulating technology to get access to resources.
 >
@@ -834,7 +827,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=276)** It's not pixie dust, it's not magic.
 >
-> **[4:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=278)** And what's frustrating is when I read these articles, so many of them are really describing something like a SQL search or they're describing just some very basic if-then logic.
+> **[4:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=278)** And what's frustrating is when I read these articles, so many of them are really describing something like a [[SQL]] search or they're describing just some very basic if-then logic.
 >
 > **[4:48](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=288)** It's not AI at all.
 >
@@ -854,7 +847,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=350)** In the financial world, this would be having a walled system, which is, for instance, your secure servers, the official way of communicating.
 >
-> **[5:59](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=359)** Not a telephone call, not a Zoom meeting, but an official way of communicating.
+> **[5:59](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=359)** Not a telephone call, not a [[Zoom]] meeting, but an official way of communicating.
 >
 > **[6:04](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=364)** And that attackers will try to get inside that.
 >
@@ -866,19 +859,18 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=384)** That's what we've seen with fake Zoom meetings.
 >
-> **[6:28](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=388)** The ability to keep people out and to reduce that part to a technical problem and to avoid the social engineering is going to be one of the most important ways of keeping financial and banking information safe in the massive onslaught of AI-assisted security attacks.
+> **[6:28](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/responding-to-financial-scams-and-frauds?u=76281980&t=388)** The ability to keep people out and to reduce that part to a technical problem and to avoid the social engineering is going to be one of the most important ways of keeping financial and [[Banking]] information safe in the massive onslaught of AI-assisted security attacks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Engineering]] (2), [[Zoom]] (2), power (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Neural Networks]] (1), [[Cybersecurity]] (1), [[SQL]] (1), [[Banking]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Algorithmic and human-in-the-loop trading
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980)
+#### [Algorithmic and human-in-the-loop trading](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +916,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=133)** And while you still can do that, professional companies are moving so much faster and with so much more information that it's simply not possible to take that painstaking approach.
 >
-> **[2:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=145)** Taking together all three of these point to another way of investing that gets some of the human element out of it, and that's algorithmic trading, or computer algorithms to research stocks, to plan, buy, sell commodities.
+> **[2:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=145)** Taking together all three of these point to another way of investing that gets some of the human element out of it, and that's [[Algorithmic Trading]], or computer [[Algorithms]] to research stocks, to plan, buy, sell commodities.
 >
 > **[2:39](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=159)** And depending on the exact nature of the commodity being traded and the strategy being used, algorithmic approaches now account for at least 50% of the trades and sometimes over 99% of the trades in the market.
 >
@@ -960,7 +952,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=294)** Time here is usually measured in seconds or milliseconds and sometimes even microseconds.
 >
-> **[5:01](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=301)** Organizations involved in low-latency trading will go to extremes, like installing all their servers on the trading floor, or bore in passages through mountains so their fiber optic cables can have straight paths, allowing them to potentially act on changes before their computers or the market, in general, are able to react.
+> **[5:01](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=301)** Organizations involved in low-latency trading will go to extremes, like installing all their servers on the trading floor, or bore in passages through mountains so their fiber optic cables can have straight paths, allowing them to potentially act on changes before their computers or the market, in general, are able to [[React.js|react]].
 >
 > **[5:18](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=318)** Needless to say, this approach requires computer algorithms that not only are you able to deal with complex data 'cause there's so many different sources going in, but react as quickly as possible.
 >
@@ -992,25 +984,24 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=421)** And so you get computers writing for and their information being consumed by other computers in this little tight circle.
 >
-> **[7:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=430)** And one of the interesting things about all of this is it gets us back to the primacy of big data and the three Vs.
+> **[7:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=430)** And one of the interesting things about all of this is it gets us back to the primacy of [[Big Data]] and the three Vs.
 >
 > **[7:18](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=438)** You may remember this from just a few years ago, where they talked about the volume and the velocity and the variety of data, and the challenges that these boast for standard analytical programs.
 >
 > **[7:32](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=452)** And this is probably one of the best places in algorithmic trading, where you get to see all of these in all caps, the volume is overwhelming, the velocity is staggering, and the variety is bewildering.
 >
-> **[7:47](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=467)** And the ability to develop algorithms that can use all of those responsibly and avoid some of the glitches, like the flash crashes, are going to be tantamount to the performance of data science in financial markets.
+> **[7:47](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/algorithmic-human-in-the-loop-trading?u=76281980&t=467)** And the ability to develop algorithms that can use all of those responsibly and avoid some of the glitches, like the flash crashes, are going to be tantamount to the performance of [[Data Science]] in financial markets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (4), [[Algorithmic Trading]] (3), [[React.js|React]] (2), generic (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Algorithmic Trading]] (3), [[React.js|React]] (2), [[Big Data]] (1), [[Data Science]] (1)
 > **Analogies:** for example (2), picture (1), for instance (1)
 > **Env Vars:** nasdaq (2), covid (1)
 > **CLI Commands:** make (1), rails (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Automated reviews for loan, credit, and job applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980)
+#### [Automated reviews for loan, credit, and job applications](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=89)** And sometimes you can even share information directly from a source.
 >
-> **[1:33](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=93)** So for instance, for a loan, you may need to give them some access to your financial data.
+> **[1:33](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=93)** So for instance, for a loan, you may need to give them some access to your [[Financial Data]].
 >
 > **[1:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=98)** And there are ways to do that that make it very simple, that you don't have to transfer things over directly.
 >
@@ -1108,11 +1099,11 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=270)** Second, there are legal challenges to a lot of these approaches.
 >
-> **[4:34](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=274)** So privacy laws like the European Union to GDPR, that's the General Data Protection Regulation, or the California Privacy Rights Act, the CPRA.
+> **[4:34](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=274)** So [[Privacy]] laws like the European Union to GDPR, that's the General Data Protection Regulation, or the California Privacy Rights Act, the CPRA.
 >
 > **[4:45](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=285)** They put bounds on what kind of data can be gathered and how it can be used.
 >
-> **[4:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=290)** Also, algorithms may need to be explainable in order to justify contested decisions.
+> **[4:50](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=290)** Also, [[Algorithms]] may need to be explainable in order to justify contested decisions.
 >
 > **[4:57](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=297)** So for instance, if you get denied a loan depending on where you are, you may be allowed to require an explanation of why you got denied.
 >
@@ -1132,7 +1123,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=366)** But even more than that, they create a great sense of distrust with the people that you're supposed to be operating with.
 >
-> **[6:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=374)** Now, if you want more information on these, I go into greater depth in another course called [[AI Accountability- Build Responsible and Transparent Systems]], which talks about some of the challenges that are inherent in these machine-based approaches to decisions.
+> **[6:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=374)** Now, if you want more information on these, I go into greater depth in another course called [[AI [[Accountability]]- Build Responsible and Transparent Systems]], which talks about some of the challenges that are inherent in these machine-based approaches to decisions.
 >
 > **[6:27](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/automated-reviews-for-loan-credit-and-job-applications?u=76281980&t=387)** But remember, even with these challenges, there are some enormous potential benefits of convenience and speed for the applicants and the ability to work through a very large number of applications very quickly and maybe get a higher level of precision for the people processing the applications.
 >
@@ -1140,14 +1131,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), application (3), [[Privacy]] (2), [[Algorithms]] (2), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Algorithms]] (2), [[Financial Data]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for instance (5)
 > **Env Vars:** pdf (1), gdpr (1), cpra (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correlation and causality in economic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980)
+#### [Correlation and causality in economic data](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1273,7 +1263,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=354)** A causes B, but only when A reaches a certain level.
 >
-> **[5:58](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=358)** Now I ran through these very quickly, but the idea here is that there are several different forms that the causal relationship can take, and sometimes, you're going to have one or the other, and it can be a little harder to determine exactly which one you're dealing with, but that's where the value is in terms of finding something that you can use reliably as an intervention to bring about your desired goals.
+> **[5:58](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=358)** Now I ran through these very quickly, but the idea here is that there are several different [[Forms]] that the causal relationship can take, and sometimes, you're going to have one or the other, and it can be a little harder to determine exactly which one you're dealing with, but that's where the value is in terms of finding something that you can use reliably as an intervention to bring about your desired goals.
 >
 > **[6:23](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=383)** And so the upshot of all of this is that really causality is in fact hard to establish.
 >
@@ -1287,13 +1277,13 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=416)** And then finally, just as a quick reminder, machines don't use causality.
 >
-> **[7:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=420)** Algorithms, machine learning, data science, those are predictions based on correlations.
+> **[7:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=420)** [[Algorithms]], machine learning, [[Data Science]], those are predictions based on correlations.
 >
 > **[7:07](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=427)** And the work that those machines do, well, it may be totally sufficient for them.
 >
-> **[7:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=434)** Now I'm going to suggest that if you want to find out more about this, you take a look at a couple of different courses that are available here on LinkedIn Learning, both of them produced by my colleague Keith McCormick.
+> **[7:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=434)** Now I'm going to suggest that if you want to find out more about this, you take a look at a couple of different courses that are available here on [[LinkedIn]] Learning, both of them produced by my colleague Keith McCormick.
 >
-> **[7:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=445)** The first one is [[Machine Learning and AI Foundations- Causal Inference and Modeling]].
+> **[7:25](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=445)** The first one is [[Machine Learning and AI Foundations- [[Causal Inference]] and Modeling]].
 >
 > **[7:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/correlation-causality-in-economic-data?u=76281980&t=451)** And then the second one is Machine Learning and AI Foundations, again, same series, Prediction, Causation, and Statistical Inference.
 >
@@ -1303,7 +1293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (2), [[Forms]] (1), [[Algorithms]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Algorithms]] (1), [[Data Science]] (1), [[LinkedIn]] (1), [[Causal Inference]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), it's like (1)
@@ -1311,8 +1301,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy regulations and explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980)
+#### [Privacy regulations and explainable AI](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1322,7 +1311,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=14)** So, for instance, there's the European Union's General Data Protection Regulation or GDPR.
 >
-> **[0:20](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=20)** This is a law with a focus on privacy and control of personal data, but it also contains something called a right to explanation.
+> **[0:20](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=20)** This is a law with a focus on [[Privacy]] and control of personal data, but it also contains something called a right to explanation.
 >
 > **[0:29](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=29)** And what that means is if a person feels that they have been harmed by an algorithmic decision, they can demand that the people who use that algorithm explain themselves, that they explain exactly what data was used and how it was processed to reach the decision.
 >
@@ -1336,7 +1325,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=74)** And then, one more, for instance, is in France, which has the Digital Republic Act.
 >
-> **[1:19](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=79)** And this one talks about the degree of reliance on data and algorithms where people have to specify that when they make a decision, they have to tell people what the source of the data was.
+> **[1:19](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=79)** And this one talks about the degree of reliance on data and [[Algorithms]] where people have to specify that when they make a decision, they have to tell people what the source of the data was.
 >
 > **[1:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=91)** They even have to say what the parameters were and the weights used in those parameters.
 >
@@ -1408,11 +1397,11 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=300)** There's ARIMA.
 >
-> **[5:02](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=302)** That's autoregressive integrated moving average models and the seasonal variations in others that are very common in financial modeling.
+> **[5:02](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=302)** That's autoregressive integrated moving average models and the seasonal variations in others that are very common in [[Financial Modeling]].
 >
 > **[5:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=310)** Those can be read and understood by humans.
 >
-> **[5:12](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=312)** Decision trees are very easy to understand.
+> **[5:12](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=312)** [[Decision Trees]] are very easy to understand.
 >
 > **[5:16](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=316)** Random forests, which are collection of decision trees less so, but still it's possible to get a feel for what's going on in there.
 >
@@ -1432,7 +1421,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=381)** Other fields like anthropology, sociology, economics, even the humanities and the liberal arts are all designed to understand the complexity of the human experience.
 >
-> **[6:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=391)** It turns out that a lot of these methods are going to be very relevant to trying to understand what is going on with the complexity and the inscrutability of large AI systems and large language models.
+> **[6:31](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=391)** It turns out that a lot of these methods are going to be very relevant to trying to understand what is going on with the complexity and the inscrutability of large AI systems and [[Large Language Models (LLM)|large language models]].
 >
 > **[6:45](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/privacy-regulations-and-explainable-ai?u=76281980&t=405)** All of that taken together can help get a better understanding of what's going on and actually help people build greater trust in whatever methods people are using.
 >
@@ -1440,21 +1429,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (8), [[Decision Trees]] (2), [[Privacy]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2), [[Privacy]] (1), [[Algorithms]] (1), [[Financial Modeling]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (6), is an  (1), is called (1)
 > **Env Vars:** lime (2), gdpr (1), shap (1), arima (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [presenter] (1)
 
-#### Bias and risk in financial and economic modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980)
+#### [Bias and risk in financial and economic modeling](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=0)** - [Narrator] In 1972, Luther Ingram had a hit with the song "If Loving You Is Wrong, I Don't Want to Be Right."
 >
-> **[0:08](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=8)** And when it comes to data, maybe you don't want to be right either, at least not in the strictest possible sense of the word.
+> **[0:08](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=8)** And when it comes to data, maybe you don't want to be right either, at least not in the strictest possible sense of the [[Microsoft Word|word]].
 >
 > **[0:17](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=17)** You may be familiar with the famous line from the statistician George Box who said, "All models," all statistical models, "are wrong, but some are useful."
 >
@@ -1490,7 +1478,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=95)** Part of this has to do with competitive advantage.
 >
-> **[1:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=98)** Working in finance and economics and banking, it is a race.
+> **[1:38](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=98)** Working in finance and economics and [[Banking]], it is a race.
 >
 > **[1:43](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=103)** If things get too simple, you're going to lose things.
 >
@@ -1500,9 +1488,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=130)** But really, that's a technical goal.
 >
-> **[2:13](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=133)** How well can you make the models and the algorithms work?
+> **[2:13](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=133)** How well can you make the models and the [[Algorithms]] work?
 >
-> **[2:16](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=136)** And there's more to the considerations of risk and bias in data science and finance.
+> **[2:16](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=136)** And there's more to the considerations of risk and bias in [[Data Science]] and finance.
 >
 > **[2:21](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=141)** Specifically, bias and discrimination in data science models has become a major social issue, as well.
 >
@@ -1560,7 +1548,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=316)** And sometimes, that's going to require that you make special efforts to get broader samples to incorporate in the training of your machine learning model.
 >
-> **[5:26](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=326)** An interesting alternative is to use generative adversarial networks to isolate the predictions.
+> **[5:26](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=326)** An interesting alternative is to use [[Generative Adversarial Networks (GANs)|generative adversarial networks]] to isolate the predictions.
 >
 > **[5:32](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/bias-and-risk-in-financial-and-economic-modeling?u=76281980&t=332)** And what I mean by that is that you use one network to create a model.
 >
@@ -1586,19 +1574,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), game (4), hit (1), [[Microsoft Word|Word]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Microsoft Word|Word]] (1), [[Banking]] (1), [[Algorithms]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** for instance (4), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ecoa (1), fha (1)
 > **Speakers:** - [narrator] (1)
 
-#### Careers for data scientists in economics, banking, and finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980)
+#### [Careers for data scientists in economics, banking, and finance](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=0)** - [Instructor] If you can make sense of data and if you have some familiarity with economics, banking and/or finance, then you have a great set of useful and employable job skills that hopefully will lead to you getting the job you want.
+> **[0:00](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=0)** - [Instructor] If you can make sense of data and if you have some familiarity with economics, [[Banking]] and/or finance, then you have a great set of useful and employable job skills that hopefully will lead to you getting the job you want.
 >
 > **[0:15](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=15)** But there are a few other things you can keep in mind to help you with that process.
 >
@@ -1606,13 +1593,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=32)** First one, a little bit of information, specifically here about what kinds of jobs are available.
 >
-> **[0:37](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=37)** I want you to be aware that, when we think about data science and economics and finance and banking here in America, we immediately think Wall Street, but there's more to it than Wall Street.
+> **[0:37](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=37)** I want you to be aware that, when we think about [[Data Science]] and economics and finance and banking here in America, we immediately think Wall Street, but there's more to it than Wall Street.
 >
-> **[0:49](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=49)** It's true, many financial data scientists are employed there, but there are so many other places, specifically in non-tech, non-finance companies, and in small and medium businesses, that's the SMB.
+> **[0:49](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=49)** It's true, many [[Financial Data]] scientists are employed there, but there are so many other places, specifically in non-tech, non-finance companies, and in small and medium businesses, that's the SMB.
 >
 > **[1:03](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=63)** 99% of employers are small and medium businesses, and all of them could use some help making sense of their financial data, working through the economics of their businesses and the context that they're operating in.
 >
-> **[1:19](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=79)** Now, in terms of looking at jobs, there are sites like Glassdoor and Indeed, or here on LinkedIn.
+> **[1:19](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=79)** Now, in terms of looking at jobs, there are sites like Glassdoor and Indeed, or here on [[LinkedIn]].
 >
 > **[1:26](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=86)** But you're going to want to look not just for data science and finance, you're going to also want to look at finance -specific job markets, places for posting them, including government.
 >
@@ -1620,7 +1607,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=107)** Also, they will have a range of job titles that maybe aren't immediately what you had in mind.
 >
-> **[1:53](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=113)** So data scientist is one of them, but quantitative analyst, business intelligence specialist, or financial advisor could be any one of those.
+> **[1:53](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=113)** So data scientist is one of them, but quantitative analyst, [[Business Intelligence (BI)|business intelligence]] specialist, or financial advisor could be any one of those.
 >
 > **[2:02](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/careers-for-data-scientists-in-economics-banking-and-finance?u=76281980&t=122)** So casting a wide net, both in terms of the potential employers and the potential job titles, can help you find the actual job that you want to fulfill.
 >
@@ -1690,7 +1677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Banking]] (4), [[LinkedIn]] (4), [[Financial Data]] (2), next (2)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Banking]] (4), [[LinkedIn]] (4), [[Financial Data]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (2)
 > **Warnings:** keep in mind (1), be aware (1)
@@ -1702,8 +1689,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,9 +1697,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=6)** Now, one thing that you're going to need is at least some tools.
 >
-> **[0:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=10)** These are not sufficient to become a data scientist in economic, finance and banking, but they are necessary things.
+> **[0:10](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=10)** These are not sufficient to become a data scientist in economic, finance and [[Banking]], but they are necessary things.
 >
-> **[0:17](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=17)** Surprisingly, one of them is going to be Microsoft Excel.
+> **[0:17](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=17)** Surprisingly, one of them is going to be [[Microsoft Excel]].
 >
 > **[0:20](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=20)** The world runs on spreadsheets, and even if you are a machine learning engineer, and you're doing very fancy high-end work, so much of the business that you interact with is going to run on spreadsheets.
 >
@@ -1721,11 +1707,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=41)** The programming language R is a very common choice in finance and economics, and it's easy to learn.
 >
-> **[0:49](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=49)** We have several courses here on LinkedIn learning.
+> **[0:49](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=49)** We have several courses here on [[LinkedIn]] learning.
 >
 > **[0:51](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=51)** I strongly suggest that you take us some time to get some familiarity with R.
 >
-> **[0:55](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=55)** Similarly, Python's a very popular tool in data science, especially if you're doing machine learning engineering.
+> **[0:55](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=55)** Similarly, [[Python (Programming Language)|Python]]'s a very popular tool in [[Data Science]], especially if you're doing machine learning engineering.
 >
 > **[1:02](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980&t=62)** There's a lot of overlap between R and Python in terms of the things that they're able to do, but it's always nice to have more than one tool available to you so you can pick the best tool for the job when you're doing your work.
 >
@@ -1765,7 +1751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (3), next (3), [[Banking]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Banking]] (2), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel]] (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)

@@ -131,8 +131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving deeper into Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker?u=76281980)
+#### [Diving deeper into Docker](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,12 +157,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Containerization]] (1)
 > **CLI Commands:** docker (7)
 > **Speakers:** - you (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/docker-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/docker-essential-training/what-you-should-know?u=76281980&t=21)** I'll be using a Mac for most of this course.
 >
-> **[0:23](https://www.linkedin.com/learning/docker-essential-training/what-you-should-know?u=76281980&t=23)** If you're a Windows user, I recommend using PowerShell.
+> **[0:23](https://www.linkedin.com/learning/docker-essential-training/what-you-should-know?u=76281980&t=23)** If you're a [[Windows]] user, I recommend using [[Powershell]].
 >
 > **[0:26](https://www.linkedin.com/learning/docker-essential-training/what-you-should-know?u=76281980&t=26)** And finally, some sections of this course will require a code editor.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (1), [[Programming]] (1), [[Windows]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Powershell]] (1)
 > **Tools:** terminal (2), powershell (1), vim (1), visual studio (1), sublime (1)
 > **Env Vars:** vim (1), ide (1)
 > **CLI Commands:** docker (1)
@@ -205,8 +202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Docker recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980)
+#### [Docker recap](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,23 +210,23 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=5)** Getting code working properly across multiple machines can be challenging for multiple reasons.
 >
-> **[0:10](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=10)** Sometimes the operating system and application was written and tested in differs from the OS it will eventually land up in, or maybe your app might make assumptions on hardware files or other properties that might not be true on other machines.
+> **[0:10](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=10)** Sometimes the operating system and application was written and tested in differs from the OS it will eventually land up in, or maybe your app might make assumptions on [[Hardware]] files or other properties that might not be true on other machines.
 >
 > **[0:23](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=23)** Or maybe your app depends on hardware that's on your machine, but not others.
 >
 > **[0:28](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=28)** Several tools were born to solve this hairy problem.
 >
-> **[0:31](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=31)** Configuration management tools like Chef, Ansible, and Puppet addressed it by using configuration as code to allow admins and developers to bring groups of machines to a desired state.
+> **[0:31](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=31)** [[Configuration Management]] tools like Chef, [[Ansible]], and Puppet addressed it by using configuration as code to allow admins and developers to bring groups of machines to a desired state.
 >
 > **[0:41](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=41)** Unfortunately, this came with its own set of challenges.
 >
 > **[0:44](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=44)** You often needed to install stuff on the machines being managed by these tools before the tools could configure them.
 >
-> **[0:50](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=50)** Even though these tools were based on Ruby or Python, we'll forget the one that was based on C++.
+> **[0:50](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=50)** Even though these tools were based on Ruby or [[Python (Programming Language)|Python]], we'll forget the one that was based on C++.
 >
 > **[0:57](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=57)** You'll need to learn markup languages and frameworks, on top of whatever tech stack you will already using.
 >
-> **[1:02](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=62)** HashiCorp solved this problem with Vagrant a tool that gives developers the ability to bring up and configure pre-made virtual machines with HCL, HashiCorp Configuration Language.
+> **[1:02](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=62)** HashiCorp solved this problem with Vagrant a tool that gives developers the ability to bring up and configure pre-made [[Virtual Machines]] with HCL, HashiCorp Configuration Language.
 >
 > **[1:13](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=73)** That's actually what HCL stands for.
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=102)** Containers combine control groups and name spaces.
 >
-> **[1:45](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=105)** Two Linux kernel features to create virtual operating system Instances that from the outside look like any other application on your machine.
+> **[1:45](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=105)** Two [[Linux]] kernel features to create virtual operating system Instances that from the outside look like any other application on your machine.
 >
 > **[1:55](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980&t=115)** Images are snapshots of file systems that are smashed together and configured to look like a single file system to the containers that use them.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (6), [[Virtual Machines]] (4), [[Linux]] (3), application (2), [[Configuration Management]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Virtual Machines]] (4), [[Linux]] (3), [[Configuration Management]] (2), [[Ansible]] (1)
 > **CLI Commands:** docker (7), make (2), ansible (1), ruby (1), python (1)
 > **Prerequisites:** configure (5), install (1), you'll need (1)
 > **Env Vars:** hcl (2)
@@ -311,8 +307,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container runtimes
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/container-runtimes?u=76281980)
+#### [Container runtimes](https://www.linkedin.com/learning/docker-essential-training/container-runtimes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/docker-essential-training/container-runtimes?u=76281980&t=38)** This directory would ideally contain all the files and directories your app needs to run.
 >
-> **[0:43](https://www.linkedin.com/learning/docker-essential-training/container-runtimes?u=76281980&t=43)** Since this container will think it's running its own instance of Linux, the directory structure within this directory will need to look very similar to a standard Linux file system.
+> **[0:43](https://www.linkedin.com/learning/docker-essential-training/container-runtimes?u=76281980&t=43)** Since this container will think it's running its own instance of [[Linux]], the directory structure within this directory will need to look very similar to a standard Linux file system.
 >
 > **[0:54](https://www.linkedin.com/learning/docker-essential-training/container-runtimes?u=76281980&t=54)** Next, you'll need to create a user namespace to run your application in.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), application (6), feature (2), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Linux]] (6)
 > **CLI Commands:** docker (4), make (1)
 > **Cross-References:** later in (2), in the last (1)
 > **Env Vars:** cpu (1), api (1)
@@ -400,12 +395,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### OCI and CRI runtimes
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980)
+#### [OCI and CRI runtimes](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=0)** - [Instructor] We learned how container runtimes make the process of creating containers dramatically simpler from automatically creating isolated namespaces, to defining the Linux capabilities apps in those namespaces are, well, capable of using.
+> **[0:00](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=0)** - [Instructor] We learned how container runtimes make the process of creating containers dramatically simpler from automatically creating isolated namespaces, to defining the [[Linux]] capabilities apps in those namespaces are, well, capable of using.
 >
 > **[0:14](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=14)** As you might imagine, lots of opinions about how to execute these steps have arisen.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=85)** The Runtime Spec is open source and actively maintained.
 >
-> **[1:29](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=89)** You can read about it on GitHub here.
+> **[1:29](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=89)** You can read about it on [[GitHub]] here.
 >
 > **[1:32](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=92)** There are several runtimes that conform to the OCI Runtime Spec.
 >
@@ -459,13 +453,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=142)** Another OCI compliant run runtime is youki.
 >
-> **[2:25](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=145)** youki is a newer OCI compliant runtime written in Rust for similar reasons to crun.
+> **[2:25](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=145)** youki is a newer OCI compliant runtime written in [[Rust (Programming Language)|Rust]] for similar reasons to crun.
 >
 > **[2:31](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=151)** Some of you might be thinking, "Hold up a second, Carlos, you said that the OCI Runtime Spec doesn't tell you how to create and stop containers.
 >
 > **[2:38](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=158)** I have a crazy thought. Don't judge me.
 >
-> **[2:40](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=160)** Could I use the Runtime Spec to create and stop containers that are actually virtual machines?"
+> **[2:40](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=160)** Could I use the Runtime Spec to create and stop containers that are actually [[Virtual Machines]]?"
 >
 > **[2:46](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=166)** Why, yes, yes, you can.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=237)** CRI or C-R-I is short for the Container Runtime Interface.
 >
-> **[4:02](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=242)** This was created and used by the Kubernetes project.
+> **[4:02](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=242)** This was created and used by the [[Kubernetes]] project.
 >
 > **[4:04](https://www.linkedin.com/learning/docker-essential-training/oci-and-cri-runtimes?u=76281980&t=244)** Kubernetes is a platform for running hundreds of thousands of containers across thousands of machines.
 >
@@ -528,8 +522,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), in the next (1)
 > **Tools:** github (1)
 
-#### The Docker Engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980)
+#### [The Docker Engine](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +536,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=33)** The Docker engine is by far the most popular container engine.
 >
-> **[0:38](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=38)** It is also the engine that we'll be using for the rest of this course.
+> **[0:38](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=38)** It is also the engine that we'll be using for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:41](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=41)** The Docker engine includes the Docker command-line client, a configuration syntax for creating images called the Docker file syntax and an HCTP REST-based API for communicating with container run times.
 >
@@ -551,7 +544,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=62)** Podman is Red Hat's take on a container engine.
 >
-> **[1:05](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=65)** While it is a default container engine that ships with Red Hat Enterprise Linux, or RHEL, it is functionally equivalent to Docker in almost every use case.
+> **[1:05](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=65)** While it is a default container engine that ships with Red Hat Enterprise [[Linux]], or RHEL, it is functionally equivalent to Docker in almost every use case.
 >
 > **[1:14](https://www.linkedin.com/learning/docker-essential-training/the-docker-engine?u=76281980&t=74)** There are two key differences though.
 >
@@ -565,15 +558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Automation]] (1), api (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (9), make (1)
 > **Env Vars:** hctp (1), rest (1), api (1), rhel (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where are Docker's configuration files?
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980)
+#### [Where are Docker's configuration files?](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,11 +573,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=10)** Before we begin, let's go over some key Docker files and directories that we'll be referencing throughout the course.
 >
-> **[0:17](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=17)** In this course, we are going to install Docker "natively" on a lightweight virtual machine running Linux and interact with it from the Mac.
+> **[0:17](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=17)** In this course, we are going to install Docker "natively" on a lightweight virtual machine running [[Linux]] and interact with it from the Mac.
 >
 > **[0:25](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=25)** Since Docker will run entirely within this Linux VM, all the files and directories shown here will be for Linux.
 >
-> **[0:33](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=33)** Quick note for my Windows users, almost everything we'll do here can be applied for Windows machines.
+> **[0:33](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=33)** Quick note for my [[Windows]] users, almost everything we'll do here can be applied for Windows machines.
 >
 > **[0:38](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=38)** I would recommend to install Docker Desktop in that scenario though.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=50)** Almost all of Docker's data lives in the /var/lib/docker directory.
 >
-> **[0:56](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=56)** This includes containers, container images and metadata used by the Docker client and runtime.
+> **[0:56](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=56)** This includes containers, container images and [[Metadata]] used by the Docker client and runtime.
 >
 > **[1:03](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=63)** The next directory is /var/lib/docker/overlay.
 >
@@ -613,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=104)** By default, this Unix socket lives in /var/run/docker.sock.
 >
-> **[1:52](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=112)** Finally, Docker relies on /etc, or etsy, /docker/daemon.json
+> **[1:52](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=112)** Finally, Docker relies on /etc, or etsy, /docker/daemon.[[JSON]]
 >
 > **[2:01](https://www.linkedin.com/learning/docker-essential-training/where-are-docker-s-configuration-files?u=76281980&t=121)** for configuration and other properties like HTTP proxies and runtime configuration.
 >
@@ -621,7 +613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), data (2), api (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), [[Metadata]] (1), [[JSON]] (1)
 > **CLI Commands:** docker (17)
 > **Env Vars:** api (2), http (1)
 > **Prerequisites:** install (3)
@@ -635,12 +627,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When Docker Desktop doesn't cut it
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980)
+#### [When Docker Desktop doesn't cut it](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=0)** - [Instructor] There are several ways of installing Docker on Windows, Linux, and Mac.
+> **[0:00](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=0)** - [Instructor] There are several ways of installing Docker on [[Windows]], [[Linux]], and Mac.
 >
 > **[0:05](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=5)** The most popular method by far is installing through Docker Desktop.
 >
@@ -662,15 +653,15 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=78)** Second, Docker Desktop can be tricky to use in remote environments with limited bandwidth.
 >
-> **[1:22](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=82)** While you could use remote user interface protocols, like Microsoft's Remote Desktop, or VNC to access the Docker Desktop UI, this can be slow and/or bandwidth-intensive.
+> **[1:22](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=82)** While you could use remote user interface protocols, like [[Microsoft]]'s Remote Desktop, or VNC to access the Docker Desktop UI, this can be slow and/or bandwidth-intensive.
 >
 > **[1:33](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=93)** This is worsened by the Docker command line client being capable of connecting to remote Docker engines over HTTP.
 >
-> **[1:41](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=101)** Finally, while Docker Desktop does handle setting up Linux-based virtual machines for hosting the Docker engine, there might be situations where more control over how the virtual machines provision is desired.
+> **[1:41](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=101)** Finally, while Docker Desktop does handle setting up Linux-based [[Virtual Machines]] for hosting the Docker engine, there might be situations where more control over how the virtual machines provision is desired.
 >
 > **[1:52](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=112)** Engineers using Docker in highly regulated environments might want to be able to use Docker against the VM running Red Hat Enterprise Linux or Oracle Enterprise Linux.
 >
-> **[2:03](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=123)** Other engineers might want to further harden the virtual machine, running the Docker engine to comply with industry security standards, like US NIST or ISO 27001.
+> **[2:03](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=123)** Other engineers might want to further harden the virtual machine, running the Docker engine to comply with industry security standards, like US [[NIST]] or ISO 27001.
 >
 > **[2:14](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980&t=134)** For these reasons, we are going to roll up our sleeves, and learn how to install Docker the hard way.
 >
@@ -682,15 +673,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (3), teams (3), [[Virtual Machines]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (3), [[Virtual Machines]] (2), [[Microsoft]] (1), [[NIST]] (1)
 > **CLI Commands:** docker (25)
 > **Tools:** docker desktop (9), command line (3)
 > **Env Vars:** vnc (1), http (1), nist (1), iso (1)
 > **Prerequisites:** install (3)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Lima
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980)
+#### [Installing Lima](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,13 +688,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=4)** We're going to use a virtualization tool called Lima to create the virtual machine that Docker will run in.
 >
-> **[0:09](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=9)** Lima is a lightweight virtual machine manager that deploys virtual machines through the QEMU hypervisor.
+> **[0:09](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=9)** Lima is a lightweight virtual machine manager that deploys [[Virtual Machines]] through the QEMU hypervisor.
 >
 > **[0:15](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=15)** That's Q E M U.
 >
 > **[0:18](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=18)** QEMU is an open source hypervisor that's lighter weight than VirtualBox or VMware Fusion, while also being compatible with Intel and Apple Silicon Macs.
 >
-> **[0:28](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=28)** This is the GitHub project for Lima.
+> **[0:28](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=28)** This is the [[GitHub]] project for Lima.
 >
 > **[0:30](https://www.linkedin.com/learning/docker-essential-training/installing-lima?u=76281980&t=30)** Lima is also open source.
 >
@@ -738,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Virtualization]] (1), [[Virtual Machines]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[GitHub]] (1)
 > **Prerequisites:** install (8)
 > **CLI Commands:** docker (2), brew (2), find (1)
 > **Env Vars:** qemu (2)
@@ -747,18 +737,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** brew.sh (1)
 
-#### Configuring Lima
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980)
+#### [Configuring Lima](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=0)** - Now that we've installed Lima, our next step is to create a virtual machine.
 >
-> **[0:03](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=3)** Lima uses YAML based configuration files to define and start virtual machines.
+> **[0:03](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=3)** Lima uses YAML based configuration files to define and start [[Virtual Machines]].
 >
 > **[0:08](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=8)** Let's create a configuration file now.
 >
-> **[0:11](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=11)** First, we're going to open up our browser and go to [https://github.com/lima-vm/lima](https://github.com/lima-vm/lima).
+> **[0:11](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=11)** First, we're going to open up our browser and go to [https://[[GitHub]].com/lima-vm/lima](https://github.com/lima-vm/lima).
 >
 > **[0:23](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=23)** Next, we'll click on the examples folder.
 >
@@ -822,7 +811,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=199)** Finally, the last two lines actually install Docker.
 >
-> **[3:24](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=204)** As you can see, installing Docker on Linux is quite easy.
+> **[3:24](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=204)** As you can see, installing Docker on [[Linux]] is quite easy.
 >
 > **[3:28](https://www.linkedin.com/learning/docker-essential-training/configuring-lima?u=76281980&t=208)** All you have to do is run this curl command to download Docker's installation script, and then feed it into sh to install it.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Virtual Machines]] (2), [[GitHub]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[GitHub]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (11), cat (5), find (2), make (2), curl (1)
 > **Env Vars:** yaml (2), url (2), arm (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), scroll up (1)
@@ -877,8 +866,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), install (2)
 > **Definitions:** is a  (2), short for (1)
 
-#### Starting the Lima VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/starting-the-lima-vm?u=76281980)
+#### [Starting the Lima VM](https://www.linkedin.com/learning/docker-essential-training/starting-the-lima-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +938,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/docker-essential-training/starting-the-lima-vm?u=76281980&t=179)** All you need to do to install docker is run brew, install docker.
 >
-> **[3:03](https://www.linkedin.com/learning/docker-essential-training/starting-the-lima-vm?u=76281980&t=183)** Now, an important thing to note about this, is that it's only going to install the docker CLI, not the docker desktop program.
+> **[3:03](https://www.linkedin.com/learning/docker-essential-training/starting-the-lima-vm?u=76281980&t=183)** Now, an important thing to note about this, is that it's only going to install the docker [[CLI]], not the docker desktop program.
 >
 > **[3:11](https://www.linkedin.com/learning/docker-essential-training/starting-the-lima-vm?u=76281980&t=191)** If you're interested in learning more about docker desktop, you can check out my first course "Learning Docker" where we go through installing it and configuring it.
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[CLI]] (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[CLI]] (2)
 > **CLI Commands:** docker (43), brew (1), find (1)
 > **Tools:** command line (2), docker desktop (2)
 > **Prerequisites:** install (4)
@@ -1029,14 +1017,13 @@ created: 2026-05-02
 > **Env Vars:** cli (2)
 > **Analogies:** for example (1)
 
-#### Installing Windows Subsystem for Linux (WSL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980)
+#### [Installing Windows Subsystem for Linux (WSL)](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=0)** - [Instructor] Let's learn how to install Docker without Docker Desktop on Windows.
+> **[0:00](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=0)** - [Instructor] Let's learn how to install Docker without Docker Desktop on [[Windows]].
 >
-> **[0:04](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=4)** If you're following along on a computer with Windows 10 Build 1904 or later, your installation of Windows already has the ability to run Linux inside of it.
+> **[0:04](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=4)** If you're following along on a computer with [[Windows 10]] Build 1904 or later, your installation of Windows already has the ability to run [[Linux]] inside of it.
 >
 > **[0:14](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=14)** This feature is enabled by the Windows subsystem for Linux, a background service that is able to translate Linux system calls or syscalls into their appropriate Windows counterparts through a lightweight virtual machine.
 >
@@ -1068,7 +1055,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=79)** Once you're on your desktop, the next thing that we need to do is install a version of Linux.
 >
-> **[1:24](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=84)** Let's try using PowerShell and Admin mode for this step.
+> **[1:24](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=84)** Let's try using [[Powershell]] and Admin mode for this step.
 >
 > **[1:27](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=87)** To do that, click on the Windows key, then type in terminal.
 >
@@ -1094,7 +1081,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=148)** This shows us all of the valid distributions that we can install.
 >
-> **[2:32](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=152)** I'm going to install Ubuntu.
+> **[2:32](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=152)** I'm going to install [[Ubuntu]].
 >
 > **[2:35](https://www.linkedin.com/learning/docker-essential-training/installing-windows-subsystem-for-linux-wsl?u=76281980&t=155)** Let's do that by typing in wsl--install--d:ubuntu.
 >
@@ -1126,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), [[Linux]] (8), [[Powershell]] (4), [[Ubuntu]] (4), feature (3)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Linux]] (8), [[Powershell]] (4), [[Ubuntu]] (4), [[Windows 10]] (2)
 > **Tools:** terminal (5), powershell (4), docker desktop (1)
 > **UI Navigation:** click on (6), in the menu (1), dropdown (1)
 > **Prerequisites:** install (8)
@@ -1135,16 +1122,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Docker within WSL
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980)
+#### [Installing Docker within WSL](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980&t=0)** - [Instructor] Now that we've installed WSL and installed Ubuntu within it, let's get going with Docker.
+> **[0:00](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980&t=0)** - [Instructor] Now that we've installed WSL and installed [[Ubuntu]] within it, let's get going with Docker.
 >
 > **[0:06](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980&t=6)** There's two ways to open a bash shell.
 >
-> **[0:08](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980&t=8)** The first way is by clicking the Windows key, typing bash, and then hitting Enter.
+> **[0:08](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980&t=8)** The first way is by clicking the [[Windows]] key, typing bash, and then hitting Enter.
 >
 > **[0:15](https://www.linkedin.com/learning/docker-essential-training/installing-docker-within-wsl?u=76281980&t=15)** This will open a shell into your Ubuntu WSL instance, but another way and the way that I prefer to do it, exit out this, is to open terminal, which I already have open but if you don't have it open, you can click on the start button and type terminal and then hit Enter.
 >
@@ -1202,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (1), hit (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Windows]] (1)
 > **CLI Commands:** docker (17), sudo (3), curl (1)
 > **Tools:** bash (3), terminal (3), docker desktop (1)
 > **UI Navigation:** click on (2), dropdown (2)
@@ -1211,8 +1197,7 @@ created: 2026-05-02
 > **URLs:** [https://get.docker.io](https://get.docker.io) (1)
 > **Prerequisites:** install (1)
 
-#### Visualizing your containers with Portainer
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980)
+#### [Visualizing your containers with Portainer](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,7 +1213,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=25)** Since Portainer itself runs within a Docker container, quote, unquote, "installing it" couldn't be easier.
 >
-> **[0:32](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=32)** Before we jump into a terminal, I just want to spend some time introducing you to the GitHub source code repository for Portainer.
+> **[0:32](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=32)** Before we jump into a terminal, I just want to spend some time introducing you to the [[GitHub]] source code repository for Portainer.
 >
 > **[0:41](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=41)** Just like Lima and other tools that we've seen, Portainer is open source, so you can look at the documentation here, or, if you're feeling up to it, you can even contribute back to the project.
 >
@@ -1304,7 +1289,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=249)** Now I'm ready to click Create user.
 >
-> **[4:11](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=251)** You can option optionally click Allow collection of anonymous statistics if you don't want to send any statistics over at Portainer.
+> **[4:11](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=251)** You can option optionally click Allow collection of anonymous [[Statistics]] if you don't want to send any statistics over at Portainer.
 >
 > **[4:21](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=261)** So I'm not going to save this password.
 >
@@ -1312,7 +1297,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=265)** Next, we're asked to either select the default environment or create a new environment.
 >
-> **[4:31](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=271)** In Portainer, environments are endpoints that are running Docker, like your own machine or a cloud container service like Azure Container Service.
+> **[4:31](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=271)** In Portainer, environments are endpoints that are running Docker, like your own machine or a cloud container service like [[Microsoft Azure|Azure]] Container Service.
 >
 > **[4:39](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=279)** Since we only care about the containers running on our own machine, let's click on the Get Started button to select our local environment, which is right here.
 >
@@ -1352,7 +1337,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=387)** We can use any number here, as long as it's over 1,024.
 >
-> **[6:31](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=391)** I like to use 8080 for web servers since it's just 80 repeated twice, so that's what I put here.
+> **[6:31](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=391)** I like to use 8080 for [[Web Servers]] since it's just 80 repeated twice, so that's what I put here.
 >
 > **[6:38](https://www.linkedin.com/learning/docker-essential-training/visualizing-your-containers-with-portainer?u=76281980&t=398)** On the right, we'll need to select a port for the container.
 >
@@ -1394,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), web (5), feature (2), [[GitHub]] (2), prompt (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Statistics]] (2), [[Microsoft Azure|Azure]] (1), [[Web Servers]] (1)
 > **CLI Commands:** docker (13), nginx (9), make (3), find (2)
 > **UI Navigation:** click on (6), go to (3), select the (1), toggle (1)
 > **Ports:** :9443 (3), port 80 (3), :8000 (1), :8080 (1), port 8080 (1)
@@ -1408,14 +1393,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are Docker images?
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980)
+#### [What are Docker images?](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=0)** - [Instructor] All right, let's recap what we've learned so far.
 >
-> **[0:03](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=3)** We've learned that containers use Linux control groups and namespaces to package applications and their dependencies into single portable units.
+> **[0:03](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=3)** We've learned that containers use [[Linux]] control groups and namespaces to package applications and their dependencies into single portable units.
 >
 > **[0:10](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=10)** We've also learned that containers are created and managed by container engines that use container runtimes behind the scenes to do all of the heavy lifting.
 >
@@ -1435,7 +1419,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=71)** Have fun."
 >
-> **[1:13](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=73)** If you're familiar with virtual machines, container images are very similar to virtual discs in a virtual machine.
+> **[1:13](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=73)** If you're familiar with [[Virtual Machines]], container images are very similar to virtual discs in a virtual machine.
 >
 > **[1:20](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=80)** So with that, let's explore the anatomy of a container image.
 >
@@ -1459,7 +1443,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=140)** Finally, each image will contain a manifest at their root levels that provides more information about itself, including the relationship between its layers.
 >
-> **[2:29](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=149)** This is usually in a json file, but it doesn't have to be.
+> **[2:29](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=149)** This is usually in a [[JSON]] file, but it doesn't have to be.
 >
 > **[2:32](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980&t=152)** The manifest file is important.
 >
@@ -1471,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Virtual Machines]] (1), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Virtual Machines]] (1), [[JSON]] (1)
 > **CLI Commands:** make (3), tar (2), docker (1)
 > **Env Vars:** oci (1)
 > **Cross-References:** later in (1)
@@ -1479,8 +1463,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving deeper into Docker images: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980)
+#### [Diving deeper into Docker images: Part 1](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1498,7 +1481,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=33)** If you get a command not found error message, this means that you do not have it installed.
 >
-> **[0:38](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=38)** If you're on Windows, I recommend using the Windows Subsystem for Linux feature for this video and installing it through your Linux distribution's package manager.
+> **[0:38](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=38)** If you're on [[Windows]], I recommend using the Windows Subsystem for [[Linux]] feature for this video and installing it through your Linux distribution's package manager.
 >
 > **[0:47](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=47)** Okay, let's do it.
 >
@@ -1512,7 +1495,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=82)** So after hitting Enter, you'll see a few files.
 >
-> **[1:25](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=85)** Specifically you should see a file called manifest.json, a file called repositories, and then a few layers, namely two layers.
+> **[1:25](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=85)** Specifically you should see a file called manifest.[[JSON]], a file called repositories, and then a few layers, namely two layers.
 >
 > **[1:37](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-1?u=76281980&t=97)** Mine start with 4e5f, and 1fa3.
 >
@@ -1610,7 +1593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), [[Windows]] (6), [[Linux]] (4), hit (2), feature (1)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Windows]] (6), [[Linux]] (4)
 > **CLI Commands:** tar (13), docker (5), make (1), brew (1)
 > **Env Vars:** json (4), arm (1), max (1), wsl (1)
 > **Definitions:** is a  (3), means that (1), short for (1), is called (1), in other words (1)
@@ -1619,8 +1602,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 
-#### Diving deeper into Docker images: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980)
+#### [Diving deeper into Docker images: Part 2](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,7 +1612,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=7)** We can see that there's two, one starting with 1fa3 and another starting with 4e5f.
 >
-> **[0:14](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=14)** Alongside those tar files, we have two files, json and VERSION.
+> **[0:14](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=14)** Alongside those tar files, we have two files, [[JSON]] and VERSION.
 >
 > **[0:20](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=20)** Let's start with json.
 >
@@ -1672,9 +1654,9 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=140)** So, we can see that this only has one file.
 >
-> **[2:22](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=142)** Literally, it just says, "hello-from-linkedin-learning."
+> **[2:22](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=142)** Literally, it just says, "hello-from-[[LinkedIn]]-learning."
 >
-> **[2:26](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=146)** This is a really great example of a space efficient layer because it doesn't have any of the other stuff that you would typically see in a layer, like the Linux directory structure, for example.
+> **[2:26](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=146)** This is a really great example of a space efficient layer because it doesn't have any of the other stuff that you would typically see in a layer, like the [[Linux]] directory structure, for example.
 >
 > **[2:36](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker-images-part-2?u=76281980&t=156)** Now, let's take a look at the other layer.
 >
@@ -1702,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), [[LinkedIn]] (2), hit (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[LinkedIn]] (2), [[Linux]] (1)
 > **CLI Commands:** tar (13), docker (1)
 > **Env Vars:** version (3)
 > **Definitions:** means that (1), in other words (1), is a  (1)
@@ -1711,8 +1693,7 @@ created: 2026-05-02
 > **Versions:** 1.0 (1)
 > **Analogies:** for example (1)
 
-#### Storage drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980)
+#### [Storage drivers](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1781,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=268)** Finally, the storage driver creates what's called overlay mount, that combines the lowercase l, and lower layer directory into a single folder for the container to use.
 >
-> **[4:39](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=279)** Internally, this folder is quote unquote, "Created by the overlay FS file system with the Mount Linux system."
+> **[4:39](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=279)** Internally, this folder is quote unquote, "Created by the overlay FS file system with the Mount [[Linux]] system."
 >
 > **[4:48](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=288)** Overlay FS mounts have two components, a lowerdir, which is the bottom box here towards the middle of the screen, and an upperdir, which are all the layers above it or all the directories above that bottom directory.
 >
@@ -1830,7 +1811,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=380)** As you can imagine, copy-ups can get really really slow depending on how large the file being copied up is.
 >
-> **[6:27](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=387)** Even though copy-up operations only happen once specifically to get the file from the lowerdir, this latency can be painful for IO sensitive applications like databases or messaging systems.
+> **[6:27](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=387)** Even though copy-up operations only happen once specifically to get the file from the lowerdir, this latency can be painful for IO sensitive applications like [[Databases]] or messaging systems.
 >
 > **[6:40](https://www.linkedin.com/learning/docker-essential-training/storage-drivers?u=76281980&t=400)** Another big disadvantage with this overlay file system is that any data persisted into it is removed once the container is deleted.
 >
@@ -1846,7 +1827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), [[Linux]] (1), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Databases]] (1)
 > **CLI Commands:** tar (3), docker (3), make (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** sim (1)
@@ -1854,8 +1835,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decomposing Docker pull
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980)
+#### [Decomposing Docker pull](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1865,13 +1845,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=9)** First, we'll need to enter the virtual machine that's actually running Docker on our machine.
 >
-> **[0:13](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=13)** Since I'm recording this from a Mac that's running Docker with Lima I can do that by simply typing limactl shell docker here If you're on Windows with W S L you can just go into the Ubuntu Shell within terminal or type dash and you'll be in the same place.
+> **[0:13](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=13)** Since I'm recording this from a Mac that's running Docker with Lima I can do that by simply typing limactl shell docker here If you're on [[Windows]] with W S L you can just go into the [[Ubuntu]] Shell within terminal or type dash and you'll be in the same place.
 >
 > **[0:32](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=32)** If you're running Docker desktop run docker run -it --rm --privileged --pid=host
 >
 > **[0:44](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=44)** justincormack/nsenter1 to accomplish the same effect.
 >
-> **[0:51](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=51)** If you're running Docker inside of a Linux distribution within Windows.
+> **[0:51](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=51)** If you're running Docker inside of a [[Linux]] distribution within Windows.
 >
 > **[0:54](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=54)** All you need to do is type dash.
 >
@@ -1879,7 +1859,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=64)** Now that I'm in, let's make our configuration change.
 >
-> **[1:06](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=66)** To do that we're going to modify a file called daemon.json located inside the folder /etc or /etc/docker.
+> **[1:06](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=66)** To do that we're going to modify a file called daemon.[[JSON]] located inside the folder /etc or /etc/docker.
 >
 > **[1:17](https://www.linkedin.com/learning/docker-essential-training/decomposing-docker-pull?u=76281980&t=77)** Now let's check that this file exists on our machine.
 >
@@ -1917,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[Windows]] (2), [[Ubuntu]] (2), hit (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Windows]] (2), [[Ubuntu]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (18), sudo (4), make (2), rm (1), systemctl (1)
 > **Tools:** terminal (2), docker desktop (1), vim (1)
 > **File Paths:** etc/docker/daemon.json (2), daemon.json (1)
@@ -1926,14 +1906,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Docker to enable debug logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980)
+#### [Configure Docker to enable debug logging](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=0)** - [Instructor] Now that we've seen what a container image looks like behind the scenes, let's open up our terminal once more and see how the Docker command line client retrieves and stores these images.
 >
-> **[0:09](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=9)** If this is your first time working with the Docker CLI, I'd highly recommend checking out my previous course called Learning Docker There I provide a tour of the CLI and explain the basics of how to use it.
+> **[0:09](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=9)** If this is your first time working with the Docker [[CLI]], I'd highly recommend checking out my previous course called Learning Docker There I provide a tour of the CLI and explain the basics of how to use it.
 >
 > **[0:22](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=22)** First, before we do all that let's talk about where images come from.
 >
@@ -1967,7 +1946,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=103)** All right, so I've made the font size on the terminal to the left of this one a little smaller in the one on the right because the logs that we're going to see are going to be quite verbose.
 >
-> **[1:56](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=116)** So you may need to zoom in a little bit to see everything that I'm running here.
+> **[1:56](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=116)** So you may need to [[Zoom]] in a little bit to see everything that I'm running here.
 >
 > **[2:00](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=120)** But fortunately, we're not going to run a whole lot of commands here.
 >
@@ -1977,7 +1956,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=136)** Since I'm on a Mac recording this running lima I'm going to type limactl, shell Docker.
 >
-> **[2:23](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=143)** If you're on Windows with Windows subsystem for Linux you can open terminal and then press the dropdown button and select Ubuntu from the list of options that are there.
+> **[2:23](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=143)** If you're on [[Windows]] with Windows subsystem for [[Linux]] you can open terminal and then press the dropdown button and select [[Ubuntu]] from the list of options that are there.
 >
 > **[2:33](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=153)** Or you can click the start menu and type bash to get to the same place.
 >
@@ -2001,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=222)** The logs are just waiting for us to do stuff so let's go over to the right terminal and do stuff.
 >
-> **[3:48](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=228)** All right, let's pull an image that we don't have already on our computer, like say Redis and then hit enter and let's see what happens.
+> **[3:48](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=228)** All right, let's pull an image that we don't have already on our computer, like say [[Redis]] and then hit enter and let's see what happens.
 >
 > **[3:57](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=237)** All right, so we can see that our logs are lighting up a bit, and it looks like this finished already.
 >
@@ -2027,7 +2006,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=298)** Because remember, we didn't specify a version here therefore, Docker just put latest as our default version.
 >
-> **[5:06](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=306)** And because we didn't have it, the Docker engine said, "Hey I need to go out to the Docker hub and fetch this," which is what's happening in the next line here.
+> **[5:06](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=306)** And because we didn't have it, the Docker engine said, "Hey I need to go out to the Docker hub and [[Fetch]] this," which is what's happening in the next line here.
 >
 > **[5:14](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=314)** The next line is saying that it's going to pull this image [docker.io/library/redis](https://docker.io/library/redis) with the latest tag.
 >
@@ -2037,7 +2016,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=333)** And then what it did is it went out to the internet and started pulling our image.
 >
-> **[5:38](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=338)** So, we can see basically the rest of the logs are just Docker telling us that it's pulling each of the layers of this image one by one.
+> **[5:38](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=338)** So, we can see basically the [[Representational State Transfer (REST)|rest]] of the logs are just Docker telling us that it's pulling each of the layers of this image one by one.
 >
 > **[5:47](https://www.linkedin.com/learning/docker-essential-training/configure-docker-to-enable-debug-logging?u=76281980&t=347)** So we can see an example of this here with a pulling blob sha256 and then this really long string that starts with 817F, which if we turn our attention to the right terminal we can see is right here.
 >
@@ -2069,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (6), next (4), [[CLI]] (2), [[Windows]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Redis]] (6), [[CLI]] (2), [[Windows]] (2), [[Linux]] (2), [[Ubuntu]] (2)
 > **CLI Commands:** docker (35), nginx (2), tar (2), journalctl (1)
 > **Tools:** terminal (8), command line (1), bash (1)
 > **Env Vars:** cli (2), ctl (1)
@@ -2083,8 +2062,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Dockerfiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-dockerfiles?u=76281980)
+#### [Introduction to Dockerfiles](https://www.linkedin.com/learning/docker-essential-training/introduction-to-dockerfiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2116,8 +2094,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The anatomy of a Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980)
+#### [The anatomy of a Dockerfile](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2131,7 +2108,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=25)** There are two approaches that I can think of towards potentially automating the creation of each layer.
 >
-> **[0:31](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=31)** We could write a shell script that uses Linux built-ins and the tar program to create each layer or we could then make a more human readable version of this by leveraging configuration management tools like Ansible or Chef to create each layer.
+> **[0:31](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=31)** We could write a shell script that uses [[Linux]] built-ins and the tar program to create each layer or we could then make a more human readable version of this by leveraging [[Configuration Management]] tools like [[Ansible]] or Chef to create each layer.
 >
 > **[0:46](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=46)** Unfortunately, both of these approaches have pretty significant disadvantages.
 >
@@ -2157,11 +2134,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=135)** Every Dockerfile consists of a series of commands or instructions, each on their own line.
 >
-> **[2:20](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=140)** The instruction is the first word of the statement.
+> **[2:20](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=140)** The instruction is the first [[Microsoft Word|word]] of the statement.
 >
 > **[2:23](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=143)** Every other word after the instruction is provided to it as arguments.
 >
-> **[2:27](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=147)** Let's take a closer look at the first highlighted line, FROM Ubuntu.
+> **[2:27](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=147)** Let's take a closer look at the first highlighted line, FROM [[Ubuntu]].
 >
 > **[2:32](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=152)** In this example, FROM is the command or instruction.
 >
@@ -2205,7 +2182,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=237)** We'll also use Docker image and Docker run commands to test our Docker image as we build it.
 >
-> **[4:03](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=243)** The exercise files for the rest of the sections in this chapter contain a shell script called app.hs.
+> **[4:03](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=243)** The exercise files for the [[Representational State Transfer (REST)|rest]] of the sections in this chapter contain a shell script called app.hs.
 >
 > **[4:10](https://www.linkedin.com/learning/docker-essential-training/the-anatomy-of-a-dockerfile?u=76281980&t=250)** There should also be a directory called Include that contains a few text files.
 >
@@ -2219,7 +2196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Microsoft Word|Word]] (2), [[Ubuntu]] (2), [[Scripting]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Microsoft Word|Word]] (2), [[Ubuntu]] (2), [[Linux]] (1), [[Ansible]] (1)
 > **CLI Commands:** docker (9), make (3), tar (2), ansible (1)
 > **Exercise Files:** exercise files (2)
 > **Tools:** bash (1)
@@ -2228,8 +2205,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sourcing other Docker images with FROM
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980)
+#### [Sourcing other Docker images with FROM](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2237,11 +2213,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=5)** FROM specifies the base image, a container image that your new Dockerimage will be created from.
 >
-> **[0:11](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=11)** The example shown here shows the most common form of the FROM command, the word "FROM" followed by the name of the base image, or "Ubuntu", in this example.
+> **[0:11](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=11)** The example shown here shows the most common form of the FROM command, the [[Microsoft Word|word]] "FROM" followed by the name of the base image, or "[[Ubuntu]]", in this example.
 >
 > **[0:21](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=21)** In this form, the latest version of the container image available will be chosen.
 >
-> **[0:26](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=26)** In our container run times video, we learned that we would need to create a Linux root file system if we were going to create a container image from scratch.
+> **[0:26](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=26)** In our container run times video, we learned that we would need to create a [[Linux]] root file system if we were going to create a container image from scratch.
 >
 > **[0:34](https://www.linkedin.com/learning/docker-essential-training/sourcing-other-docker-images-with-from?u=76281980&t=34)** Base images simplify this by allowing us to select an image that already has this root file system and other useful software and configurations included.
 >
@@ -2337,7 +2313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), next (3), hit (2), [[Microsoft Word|Word]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (2), ls (2), make (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Tools:** terminal (1), vim (1)
@@ -2346,14 +2322,13 @@ created: 2026-05-02
 > **Env Vars:** arg (1)
 > **Exercise Files:** exercise files (1)
 
-#### Building your first image
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/building-your-first-image?u=76281980)
+#### [Building your first image](https://www.linkedin.com/learning/docker-essential-training/building-your-first-image?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/building-your-first-image?u=76281980&t=0)** - [Instructor] All right, in the last video we created our first Docker file.
 >
-> **[0:06](https://www.linkedin.com/learning/docker-essential-training/building-your-first-image?u=76281980&t=6)** It doesn't do a whole lot, it just tells Docker to make our image descend from the Ubuntu base image.
+> **[0:06](https://www.linkedin.com/learning/docker-essential-training/building-your-first-image?u=76281980&t=6)** It doesn't do a whole lot, it just tells Docker to make our image descend from the [[Ubuntu]] base image.
 >
 > **[0:10](https://www.linkedin.com/learning/docker-essential-training/building-your-first-image?u=76281980&t=10)** Regardless, this is a good time to build out some muscles around building images and creating containers from them to test it out.
 >
@@ -2449,7 +2424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), next (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5)
 > **CLI Commands:** docker (16), make (6), ls (5)
 > **Definitions:** is a  (4), means that (1), is called (1), is an  (1)
 > **Env Vars:** url (2)
@@ -2458,8 +2433,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** common mistake (1)
 
-#### Adding and copying files with COPY and ADD
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980)
+#### [Adding and copying files with COPY and ADD](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2499,7 +2473,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=126)** The first argument to COPY and ADD also supports wildcards.
 >
-> **[2:09](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=129)** You can use an asterisk to copy files or directories that start with a specific word or a question mark to replace single characters in a file or directory.
+> **[2:09](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=129)** You can use an asterisk to copy files or directories that start with a specific [[Microsoft Word|word]] or a question mark to replace single characters in a file or directory.
 >
 > **[2:20](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=140)** For example, let's say that we have a directory in our context called songs.
 >
@@ -2517,7 +2491,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=200)** Here are two other helpful arguments to COPY and ADD support.
 >
-> **[3:24](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=204)** You can use the dash dash ch own or chown command to set a user in group on a directory or file copied into Linux-based container images.
+> **[3:24](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=204)** You can use the dash dash ch own or chown command to set a user in group on a directory or file copied into [[Linux]]-based container images.
 >
 > **[3:33](https://www.linkedin.com/learning/docker-essential-training/adding-and-copying-files-with-copy-and-add?u=76281980&t=213)** This is helpful if the app running within your container image will run as a different user than the user created in its base image.
 >
@@ -2535,8 +2509,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating the image
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980)
+#### [Updating the image](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2564,7 +2537,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=51)** Now that we're back in our terminal, I'm going to type docker image build. and then hit enter.
 >
-> **[0:59](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=59)** Interestingly, we can see that the docker image build show this the same ID from the Ubuntu image earlier, but it created a new layer on top of that for the files provided by the copy instruction.
+> **[0:59](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=59)** Interestingly, we can see that the docker image build show this the same ID from the [[Ubuntu]] image earlier, but it created a new layer on top of that for the files provided by the copy instruction.
 >
 > **[1:10](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=70)** We can also see that this layer starts with d2a8.
 >
@@ -2594,7 +2567,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=125)** To do that, I'm going to type docker image inspect followed by d2a8 then enter.
 >
-> **[2:13](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=133)** This command dumps a friendly representation of the images metadata, which we learned about in the what are docker images video from earlier here.
+> **[2:13](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=133)** This command dumps a friendly representation of the images [[Metadata]], which we learned about in the what are docker images video from earlier here.
 >
 > **[2:22](https://www.linkedin.com/learning/docker-essential-training/updating-the-image?u=76281980&t=142)** If we scroll up and look for the config section which is right here, we can see that a block called CMD has /bin/bash inside of it.
 >
@@ -2658,7 +2631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), hit (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Metadata]] (1)
 > **CLI Commands:** docker (21), ls (2), rm (1), make (1)
 > **Tools:** bash (11), terminal (3)
 > **Env Vars:** cmd (5)
@@ -2667,8 +2640,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (3)
 > **Cross-References:** go back to (2)
 
-#### Customizing your Docker image with RUN
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980)
+#### [Customizing your Docker image with RUN](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2684,7 +2656,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=24)** Right now, our Docker file looks kind of like the first two lines in this image here.
 >
-> **[0:30](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=30)** It only contains the FROM commands that will link layers within the latest Ubuntu image to our Docker file, and a COPY command that creates a new layer on top of that, which will contain our exercise files in a directory called /app.
+> **[0:30](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=30)** It only contains the FROM commands that will link layers within the latest [[Ubuntu]] image to our Docker file, and a COPY command that creates a new layer on top of that, which will contain our exercise files in a directory called /app.
 >
 > **[0:43](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=43)** Now, let's say we wanted to throw in a RUN command that does something that we want like say RUN stat /app.
 >
@@ -2694,7 +2666,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=82)** And then in double quotes, stat /app.
 >
-> **[1:27](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=87)** If we were building a Windows-based image, it would look like CMD /s/c foo, or whatever the command is, instead.
+> **[1:27](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=87)** If we were building a [[Windows]]-based image, it would look like CMD /s/c foo, or whatever the command is, instead.
 >
 > **[1:37](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=97)** However, since every container needs an image, where would the image for this container come from?
 >
@@ -2742,7 +2714,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=239)** Whereas in exec form, our command is surrounded in brackets.
 >
-> **[4:04](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=244)** And furthermore, each word in our command is separated by a comma.
+> **[4:04](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=244)** And furthermore, each [[Microsoft Word|word]] in our command is separated by a comma.
 >
 > **[4:08](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=248)** So instead of saying RUN echo Hello world, we say RUN left bracket echo, Hello world end bracket.
 >
@@ -2756,7 +2728,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=285)** So let's say that we wanted to ensure that the program Curl is installed in this image.
 >
-> **[4:51](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=291)** For those that haven't used it, Curl is a program that can fetch webpages, and other web content right from your terminal.
+> **[4:51](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=291)** For those that haven't used it, Curl is a program that can [[Fetch]] webpages, and other web content right from your terminal.
 >
 > **[4:57](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=297)** It's an extremely useful tool to have in your toolbox.
 >
@@ -2782,7 +2754,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=354)** Well, remember, containers run as root by default in Docker.
 >
-> **[5:58](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=358)** Sudo is used to tell Linux to run something as root or another user.
+> **[5:58](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=358)** Sudo is used to tell [[Linux]] to run something as root or another user.
 >
 > **[6:03](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=363)** But since we are root here, we don't need to sudo.
 >
@@ -2808,7 +2780,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=416)** Remember, we're using the latest image that we built, which happens to be 796f here, and then curl [example.com](https://example.com) for example.
 >
-> **[7:07](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=427)** All right, and we can see we got HTML back, so that confirms that Curl's installed and working properly.
+> **[7:07](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=427)** All right, and we can see we got [[HTML]] back, so that confirms that Curl's installed and working properly.
 >
 > **[7:14](https://www.linkedin.com/learning/docker-essential-training/customizing-your-docker-image-with-run?u=76281980&t=434)** So we saw that it took a little while for this RUN command to finish.
 >
@@ -2824,7 +2796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Fetch]] (1), web (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Fetch]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (23), curl (8), apt (5), sudo (3), make (2)
 > **Env Vars:** run (24), copy (3), cmd (2), arg (1), env (1)
 > **Prerequisites:** install (4), configure (1)
@@ -2833,8 +2805,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), go back to (1)
 > **UI Navigation:** open the (1), scroll up (1)
 
-#### Starting your app with ENTRYPOINT
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980)
+#### [Starting your app with ENTRYPOINT](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2860,7 +2831,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=45)** This will change once we define an entrypoint command, which we'll do in a few minutes, so get excited about that.
 >
-> **[0:51](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=51)** Like the run command that we saw earlier, entrypoint takes two forms.
+> **[0:51](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=51)** Like the run command that we saw earlier, entrypoint takes two [[Forms]].
 >
 > **[0:55](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=55)** The shell form and the exec form.
 >
@@ -2978,7 +2949,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=414)** Since we know that expressing our entrypoint in exec form fixes this, let's go back into our Dockerfile and make that change.
 >
-> **[7:02](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=422)** We know that exec form is adjacent array from what we saw earlier, with the first word being the program and every other word after it being arguments to our program.
+> **[7:02](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=422)** We know that exec form is adjacent array from what we saw earlier, with the first [[Microsoft Word|word]] being the program and every other word after it being arguments to our program.
 >
 > **[7:10](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-entrypoint?u=76281980&t=430)** So what I'm going to do is delete everything after entrypoint with D, then dollar sign.
 >
@@ -3022,7 +2993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Forms]] (2), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** docker (12), make (4), ls (1), rm (1), curl (1)
 > **Env Vars:** pid (3), cmd (2), f4c1 (1)
 > **Tools:** bash (3), terminal (2)
@@ -3031,8 +3002,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - okay (1)
 
-#### "Starting" your app with CMD
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980)
+#### ["Starting" your app with CMD](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3052,7 +3022,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=34)** The first combination is when CMD is provided, but entry point is not.
 >
-> **[0:38](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=38)** This is similar to the example we saw with Ubuntu base image.
+> **[0:38](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=38)** This is similar to the example we saw with [[Ubuntu]] base image.
 >
 > **[0:42](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=42)** In this combination, containers will simply launch the CMD with the application as its top level process.
 >
@@ -3080,9 +3050,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=113)** This is the behavior we saw before we learned about entry points, as the Ubuntu base image has a CMD command in it that launches Bash by default.
 >
-> **[2:01](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=121)** If our image is being written from scratch, however, your images will fall back onto Docker's default entry point, slash bin slash SH dash C, for Linux containers.
+> **[2:01](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=121)** If our image is being written from scratch, however, your images will fall back onto Docker's default entry point, slash bin slash SH dash C, for [[Linux]] containers.
 >
-> **[2:12](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=132)** Or CMD slash S slash C for Windows containers.
+> **[2:12](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=132)** Or CMD slash S slash C for [[Windows]] containers.
 >
 > **[2:17](https://www.linkedin.com/learning/docker-essential-training/starting-your-app-with-cmd?u=76281980&t=137)** What about shell form, you might be asking.
 >
@@ -3180,7 +3150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Ubuntu]] (2), next (2), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** cmd (25)
 > **CLI Commands:** docker (13), find (1), rm (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -3189,8 +3159,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Adding variables with ENV and ARG
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980)
+#### [Adding variables with ENV and ARG](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3338,7 +3307,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=377)** Since we referenced ARGs with the dollar sign followed by the name of the variable I'm going to go into line five and then replace cURL with $curl_bin.
 >
-> **[6:29](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=389)** Finally, I still want users to be able to install whatever the latest version of cURL is that comes with our ubuntu base image.
+> **[6:29](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=389)** Finally, I still want users to be able to install whatever the latest version of cURL is that comes with our [[Ubuntu]] base image.
 >
 > **[6:36](https://www.linkedin.com/learning/docker-essential-training/adding-variables-with-env-and-arg?u=76281980&t=396)** To do that, we need to set a default value for the ARG we just created.
 >
@@ -3426,7 +3395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Programming]] (1), [[Ubuntu]] (1), hit (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **Env Vars:** arg (27), env (18), cmd (3)
 > **CLI Commands:** curl (15), docker (14), make (2), rm (1), find (1)
 > **Code Identifiers:** curl (14), curl_bin (12)
@@ -3435,8 +3404,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), means that (1)
 > **File Paths:** app/app.sh (1)
 
-#### Other helpful Dockerfile commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980)
+#### [Other helpful Dockerfile commands](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3462,7 +3430,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=52)** The first useful command we'll look at is the LABEL command.
 >
-> **[0:55](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=55)** LABEL allows you to document your images by adding helpful metadata to them.
+> **[0:55](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=55)** LABEL allows you to document your images by adding helpful [[Metadata]] to them.
 >
 > **[0:59](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=59)** Labels accept a single argument: two words joined together by an equal sign.
 >
@@ -3506,9 +3474,9 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=171)** Another really useful Dockerfile command is the USER command.
 >
-> **[2:54](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=174)** USER allows you to change the Linux or Windows user used by RUN commands and/or containers created from your image.
+> **[2:54](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=174)** USER allows you to change the [[Linux]] or [[Windows]] user used by RUN commands and/or containers created from your image.
 >
-> **[3:01](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=181)** You can think of USER as WORKDIR but for user management.
+> **[3:01](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=181)** You can think of USER as WORKDIR but for [[User Management]].
 >
 > **[3:05](https://www.linkedin.com/learning/docker-essential-training/other-helpful-dockerfile-commands?u=76281980&t=185)** If your image will create Linux containers, you can use numeric user IDs or usernames.
 >
@@ -3562,7 +3530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Linux]] (2), [[Security]] (2), [[Metadata]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Metadata]] (1), [[Windows]] (1), [[User Management]] (1)
 > **Env Vars:** workdir (10), user (10), run (7), label (4), expose (3)
 > **CLI Commands:** docker (6), find (2), make (2)
 > **Ports:** port 8080 (2)
@@ -3571,8 +3539,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Multi-stage builds
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980)
+#### [Multi-stage builds](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3586,7 +3553,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=23)** If you run docker images my-image, like I did here, we can see that the image is actually quite large.
 >
-> **[0:29](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=29)** Even though our app is really small, the Ubuntu-based image includes a lot of tools and utilities.
+> **[0:29](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=29)** Even though our app is really small, the [[Ubuntu]]-based image includes a lot of tools and utilities.
 >
 > **[0:35](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=35)** These add up.
 >
@@ -3598,7 +3565,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=55)** That's quite the difference.
 >
-> **[0:57](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=57)** As it happens, our app retrieves the date, by using Curl, to query some information from Google, unless we specify a file called /app/include/date.txt.
+> **[0:57](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=57)** As it happens, our app retrieves the date, by using Curl, to query some information from [[Google]], unless we specify a file called /app/include/date.txt.
 >
 > **[1:10](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=70)** How can we use this information to slim down our image?
 >
@@ -3690,7 +3657,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=316)** The first stage on top is based on the Ubuntu base image.
 >
-> **[5:19](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=319)** Its purpose is to fetch the date from [google.com](https://google.com) with Curl and store it as the file that our app is looking for.
+> **[5:19](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=319)** Its purpose is to [[Fetch]] the date from [google.com](https://google.com) with Curl and store it as the file that our app is looking for.
 >
 > **[5:25](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=325)** Notice that the name of the file we're using to store the results from Curl isn't date.txt inside of app/include.
 >
@@ -3704,11 +3671,11 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=359)** Lastly, the app stage, beneath it, is based on the alpine3.16 tag of the bash image.
 >
-> **[6:06](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=366)** I'm basing app on this instead of a Ubuntu because it's based on Alpine Linux, which is much, much smaller than Ubuntu.
+> **[6:06](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=366)** I'm basing app on this instead of a Ubuntu because it's based on Alpine [[Linux]], which is much, much smaller than Ubuntu.
 >
 > **[6:13](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=373)** This is okay here, since our app doesn't even need much from Linux, other than the ability to run bash, print our file and run some commands.
 >
-> **[6:21](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=381)** The rest of the stage looks very similar to what we've seen.
+> **[6:21](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=381)** The [[Representational State Transfer (REST)|rest]] of the stage looks very similar to what we've seen.
 >
 > **[6:23](https://www.linkedin.com/learning/docker-essential-training/multi-stage-builds?u=76281980&t=383)** We copy the app, set our entrypoint to have containers start the app automatically and then use CMD to provide a default argument to it.
 >
@@ -3782,7 +3749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (5), feature (3), next (2), [[Google]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (5), [[Google]] (2), [[Linux]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (10), curl (6), rm (1), wget (1), make (1)
 > **File Paths:** date.txt (5), size_diff.sh (1), app/include/date.txt (1), tiny.dockerfile (1)
 > **Env Vars:** copy (2), run (2), cmd (1)
@@ -3791,14 +3758,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Analogies:** for example (1), similar to (1)
 
-#### Multi-platform images
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980)
+#### [Multi-platform images](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=0)** - [Instructor] So we know that containers can only run on the operating system kernels that their images were built for.
 >
-> **[0:05](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=5)** Put another way, we can only run Linux containers on Linux-based machines, and Windows containers on Windows-based machines.
+> **[0:05](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=5)** Put another way, we can only run [[Linux]] containers on Linux-based machines, and [[Windows]] containers on Windows-based machines.
 >
 > **[0:11](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=11)** However, there's another limitation within this limitation that we haven't talked about.
 >
@@ -3822,7 +3788,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=61)** However, there are many other processor instructions sets out there, Arm is a popular example.
 >
-> **[1:07](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=67)** Arm-based processors like Apple Silicon, AMD Ryzen, Azure's Ampere CPU, and AWS's Graviton CPU are becoming increasingly popular.
+> **[1:07](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=67)** Arm-based processors like Apple Silicon, AMD Ryzen, [[Microsoft Azure|Azure]]'s Ampere CPU, and AWS's Graviton CPU are becoming increasingly popular.
 >
 > **[1:17](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=77)** They usually consume significantly lower power, and in the case of Apple Silicon processors, are significantly faster than their Intel counterparts as well.
 >
@@ -3972,7 +3938,7 @@ created: 2026-05-02
 >
 > **[9:20](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=560)** So to do that, I'm going to type pseudo app -y install qemu qemu-system-misc qemu-user-static qemu-user binfmt support.
 >
-> **[9:35](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=575)** Now, depending on the recency of your version of Ubuntu, or the operating system that you're using you might not actually need to do this.
+> **[9:35](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=575)** Now, depending on the recency of your version of [[Ubuntu]], or the operating system that you're using you might not actually need to do this.
 >
 > **[9:43](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=583)** It might already have these programs, but in case you don't, this is how you would install them.
 >
@@ -4026,7 +3992,7 @@ created: 2026-05-02
 >
 > **[12:31](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=751)** So instead of pulling the X86 version of Ubuntu, it's going to pull the ARM version.
 >
-> **[12:36](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=756)** So let's go ahead and specify Linux ARM so that we do that, and then we'll leave the rest as it is.
+> **[12:36](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=756)** So let's go ahead and specify Linux ARM so that we do that, and then we'll leave the [[Representational State Transfer (REST)|rest]] as it is.
 >
 > **[12:44](https://www.linkedin.com/learning/docker-essential-training/multi-platform-images?u=76281980&t=764)** So let's go ahead and enter and see what happens.
 >
@@ -4082,7 +4048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), hit (4), next (4), power (3), [[Ubuntu]] (3)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Ubuntu]] (3), [[Windows]] (2), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** arm (21), x86 (14), qemu (14), x86_64 (2), cpu (2)
 > **CLI Commands:** docker (30), rm (5), make (3), aws (2), find (2)
 > **Prerequisites:** install (6), configure (3)
@@ -4091,8 +4057,7 @@ created: 2026-05-02
 > **Warnings:** caution (1), warning (1), keep in mind (1)
 > **Tools:** terminal (2)
 
-#### Multi-app images
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980)
+#### [Multi-app images](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4112,13 +4077,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=37)** Another useful scenario for a multi app or a multi-process container is for emulating a virtual machine without actually creating one.
 >
-> **[0:46](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=46)** I've done this in the past while testing Ansible playbooks as an example.
+> **[0:46](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=46)** I've done this in the past while testing [[Ansible]] playbooks as an example.
 >
-> **[0:50](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=50)** Instead of creating virtual machines that take up tons of space and waiting on them to start, I simply created containers that had just enough in them to emulate a VM, pointing Ansible at those, and tested the results.
+> **[0:50](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=50)** Instead of creating [[Virtual Machines]] that take up tons of space and waiting on them to start, I simply created containers that had just enough in them to emulate a VM, pointing Ansible at those, and tested the results.
 >
 > **[1:01](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=61)** One other useful scenario I've seen for multi app containers is emulating a cluster of services in a single container for simplicity.
 >
-> **[1:09](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=69)** For example, the Kubernetes in Docker project still does this today.
+> **[1:09](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=69)** For example, the [[Kubernetes]] in Docker project still does this today.
 >
 > **[1:14](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=74)** Kubernetes in Docker makes it easy to run an entire Kubernetes cluster within Docker.
 >
@@ -4142,7 +4107,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=129)** We see 20 containers on there with random names but they all start with the name of our app.
 >
-> **[2:14](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=134)** It would be really difficult to know that, say, five of them are also running databases, message queues, and random app servers within each of them, unless you exec'ed into each one and looked at their process tables.
+> **[2:14](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=134)** It would be really difficult to know that, say, five of them are also running [[Databases]], message queues, and random app servers within each of them, unless you exec'ed into each one and looked at their process tables.
 >
 > **[2:27](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=147)** At that point, you might as well run virtual machines that will stick around longer and likely have monitoring agents on them that can tell you this information.
 >
@@ -4164,13 +4129,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=198)** Creating this setup with Docker commands alone can be challenging.
 >
-> **[3:22](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=202)** Docker Compose is a tool provided by Docker that simplifies this.
+> **[3:22](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=202)** Docker [[Jetpack Compose|Compose]] is a tool provided by Docker that simplifies this.
 >
 > **[3:25](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=205)** Compose allows you to express all of your application's dependencies as individual services in a manifest file.
 >
-> **[3:32](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=212)** Once you create the manifest, Compose handles the rest.
+> **[3:32](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=212)** Once you create the manifest, Compose handles the [[Representational State Transfer (REST)|rest]].
 >
-> **[3:35](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=215)** While this course doesn't cover Compose there are plenty of great courses on LinkedIn Learning that dive deep into it.
+> **[3:35](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=215)** While this course doesn't cover Compose there are plenty of great courses on [[LinkedIn]] Learning that dive deep into it.
 >
 > **[3:43](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=223)** The next level beyond Compose is using a container orchestrator that can create, move, and coordinate containers throughout multiple machines.
 >
@@ -4250,9 +4215,9 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=457)** This image over here provides an example of a dockerfile configured with s6-overlay.
 >
-> **[7:42](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=462)** Created by GitHub user madewithlove, this dockerfile creates an image that runs both PHP and NGINX.
+> **[7:42](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=462)** Created by [[GitHub]] user madewithlove, this dockerfile creates an image that runs both [[PHP]] and NGINX.
 >
-> **[7:49](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=469)** This is really useful for web servers as it allows it to execute server side PHP scripts which is very common.
+> **[7:49](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=469)** This is really useful for [[Web Servers]] as it allows it to execute server side PHP scripts which is very common.
 >
 > **[7:56](https://www.linkedin.com/learning/docker-essential-training/multi-app-images?u=76281980&t=476)** While I didn't provide an example of this in practice, there's lots of great literature on this topic if you're interested in learning more.
 >
@@ -4262,7 +4227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), application (5), [[Jetpack Compose|Compose]] (5), [[Ansible]] (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Jetpack Compose|Compose]] (5), [[Ansible]] (2), [[Virtual Machines]] (2), [[PHP]] (2)
 > **CLI Commands:** docker (12), make (4), ansible (2), php (2), nginx (1)
 > **Env Vars:** php (2), dns (1), nginx (1)
 > **Tools:** bash (2), github (1)
@@ -4271,8 +4236,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), configure (1)
 > **Cross-References:** earlier in (1)
 
-#### Challenge: Build and run your first image
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/challenge-build-and-run-your-first-image?u=76281980)
+#### [Challenge: Build and run your first image](https://www.linkedin.com/learning/docker-essential-training/challenge-build-and-run-your-first-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4334,7 +4298,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (1), power (1), [[Security]] (1)
 > **CLI Commands:** docker (8), find (1)
 > **Exercise Files:** source code (3), exercise files (1)
 > **Best Practices:** don't forget (3)
@@ -4343,8 +4306,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light digital music) (1)
 
-#### Solution: Build and run your first image
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/solution-build-and-run-your-first-image?u=76281980)
+#### [Solution: Build and run your first image](https://www.linkedin.com/learning/docker-essential-training/solution-build-and-run-your-first-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4504,7 +4466,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), prompt (1), hit (1), [[Security]] (1)
 > **CLI Commands:** docker (12), make (2), rm (1)
 > **Env Vars:** env (2), workdir (1)
 > **Analogies:** kind of like (1), just like (1), for example (1)
@@ -4518,12 +4479,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending container privileges with capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980)
+#### [Extending container privileges with capabilities](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about how to use Linux capabilities to control what your containers can and cannot do.
+> **[0:00](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980&t=0)** - [Instructor] In this section, we're going to talk about how to use [[Linux]] capabilities to control what your containers can and cannot do.
 >
 > **[0:07](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980&t=7)** If the thought of containers running this root by default has scared you in the past, this section might help reduce some of those concerns.
 >
@@ -4729,7 +4689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), next (3), hit (2), power (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **CLI Commands:** docker (13), rm (4), chown (4), ls (4), find (1)
 > **Env Vars:** chown (2), gpu (2), cap_chown (1), cap_lease (1), lease (1)
 > **Code Identifiers:** my_disk (3), shouldnt_see_this (2)
@@ -4738,8 +4698,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Ports:** :1001 (1)
 
-#### Setting container limits: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-1?u=76281980)
+#### [Setting container limits: Part 1](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4843,7 +4802,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), business (1)
 > **Env Vars:** cpu (23)
 > **CLI Commands:** docker (5), make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -4851,8 +4809,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting container limits: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-2?u=76281980)
+#### [Setting container limits: Part 2](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4866,7 +4823,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-2?u=76281980&t=24)** Top is a program that shows you the stats of your system.
 >
-> **[0:26](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-2?u=76281980&t=26)** It's kind of like the performance tab in the Windows task manager or the activity monitor on the Mac.
+> **[0:26](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-2?u=76281980&t=26)** It's kind of like the performance tab in the [[Windows]] task manager or the activity monitor on the Mac.
 >
 > **[0:31](https://www.linkedin.com/learning/docker-essential-training/setting-container-limits-part-2?u=76281980&t=31)** I supply -d 0.1 here.
 >
@@ -5046,7 +5003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), application (5), [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** docker (8), rm (4), find (1), make (1)
 > **Env Vars:** cpu (10)
 > **Versions:** 0.1 (2), 1.6 (2), 3.99 (1)
@@ -5055,12 +5012,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (4)
 > **Analogies:** kind of like (1)
 
-#### Configuring logging with logging drivers: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980)
+#### [Configuring logging with logging drivers: Part 1](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=0)** - [Presenter] We've seen how easy it is to retrieve logs from containers with the Docker CLI.
+> **[0:00](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=0)** - [Presenter] We've seen how easy it is to retrieve logs from containers with the Docker [[CLI]].
 >
 > **[0:04](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=4)** However, we've never talked about how Docker actually retrieves those logs.
 >
@@ -5070,7 +5026,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=15)** Most applications will eventually need to print things to a console while they're running.
 >
-> **[0:19](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=19)** Linux gives them two channels to send those messages through: standard out, or stdout, and standard error, or stderr.
+> **[0:19](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=19)** [[Linux]] gives them two channels to send those messages through: standard out, or stdout, and standard error, or stderr.
 >
 > **[0:28](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=28)** E-R-R.
 >
@@ -5098,7 +5054,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=99)** - -log-driver allows you to specify the logging driver to use, where as --log-ops is used to provide options to it.
 >
-> **[1:48](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=108)** - -log-opts accepts a JSON object.
+> **[1:48](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=108)** - -log-opts accepts a [[JSON]] object.
 >
 > **[1:52](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-1?u=76281980&t=112)** These properties will vary between drivers.
 >
@@ -5146,7 +5102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[JSON]] (6), application (4), [[CLI]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[CLI]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (13), curl (1)
 > **Env Vars:** json (5), cli (1)
 > **Definitions:** known as (1), is a  (1), means that (1)
@@ -5155,8 +5111,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### Configuring logging with logging drivers: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980)
+#### [Configuring logging with logging drivers: Part 2](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5184,7 +5139,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=43)** Since we know that logging drivers slurp up whatever gets sent to standard out and standard error it's not surprising to see the same output that we got from docker run here.
 >
-> **[0:51](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=51)** We also know that docker's default logging driver json file stores disks as json behind the scenes.
+> **[0:51](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=51)** We also know that docker's default logging driver [[JSON]] file stores disks as json behind the scenes.
 >
 > **[0:57](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=57)** This is what we're really here for, so let's see if we can get to those logs.
 >
@@ -5278,7 +5233,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=336)** Okay, so as you can see we have the same logs that we saw earlier in json form.
 >
-> **[5:41](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=341)** Now I have to zoom out a little bit because it was getting kind of messy to see all that.
+> **[5:41](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=341)** Now I have to [[Zoom]] out a little bit because it was getting kind of messy to see all that.
 >
 > **[5:46](https://www.linkedin.com/learning/docker-essential-training/configuring-logging-with-logging-drivers-part-2?u=76281980&t=346)** But the point that I want to drive home here is that in the backend every single line that we saw was just an object in json and that gets stored into this file and that work is being done by the json file logging driver.
 >
@@ -5340,7 +5295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), cd (5), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Zoom]] (2)
 > **CLI Commands:** docker (21), ls (6), cd (5), sudo (4), rm (1)
 > **Tools:** terminal (4)
 > **Env Vars:** cis (1), daca (1)
@@ -5349,8 +5304,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Configuring the Docker daemon
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980)
+#### [Configuring the Docker daemon](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5364,7 +5318,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=22)** So let's go ahead and log into the VM on our left terminal by typing in limactl shell docker if you're on a Mac.
 >
-> **[0:31](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=31)** As always, if you're on Windows, just type bash into the Start menu, or open terminal and then click the dropdown and select your Linux machine.
+> **[0:31](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=31)** As always, if you're on [[Windows]], just type bash into the Start menu, or open terminal and then click the dropdown and select your [[Linux]] machine.
 >
 > **[0:40](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=40)** Okay, so the Docker engine is powered by a program called dockerd.
 >
@@ -5388,7 +5342,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=108)** This tells Docker where to find its configuration file.
 >
-> **[1:51](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=111)** If it's not provided, it'll look for it at /etc/docker/daemon.json.
+> **[1:51](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=111)** If it's not provided, it'll look for it at /etc/docker/daemon.[[JSON]].
 >
 > **[1:58](https://www.linkedin.com/learning/docker-essential-training/configuring-the-docker-daemon?u=76281980&t=118)** The second option is --data-root.
 >
@@ -5458,7 +5412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), next (2), [[Windows]] (1), [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** docker (23), grep (1), find (1)
 > **Tools:** terminal (5), bash (1), command line (1)
 > **Env Vars:** json (3), oci (1)
@@ -5472,8 +5426,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The case for Docker in Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980)
+#### [The case for Docker in Docker](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5489,9 +5442,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=25)** There are several reasons why you might find yourself in this situation.
 >
-> **[0:29](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=29)** Let's say that you're writing tests for your app, but want your test suite to behave the same way on any machine like GitHub Actions Runners.
+> **[0:29](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=29)** Let's say that you're writing tests for your app, but want your test suite to behave the same way on any machine like [[GitHub]] Actions Runners.
 >
-> **[0:36](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=36)** Since the operating system and hardware of the build servers running your test will not be consistent, having your test run as containers that then start your app also as a container is useful.
+> **[0:36](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=36)** Since the operating system and [[Hardware]] of the build servers running your test will not be consistent, having your test run as containers that then start your app also as a container is useful.
 >
 > **[0:48](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=48)** Or let's say that you need to write an application that needs to create or manage containers.
 >
@@ -5507,7 +5460,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=90)** Managing containers created by Docker within a docker container.
 >
-> **[1:34](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=94)** Those of you who've managed virtual machines in the past might be familiar with running VMs within VMs.
+> **[1:34](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=94)** Those of you who've managed [[Virtual Machines]] in the past might be familiar with running VMs within VMs.
 >
 > **[1:39](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980&t=99)** Docker and Docker is very similar to that concept.
 >
@@ -5517,7 +5470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Engineering]] (2), [[GitHub]] (1), [[Hardware]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Hardware]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** docker (14), find (1), ssh (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** ssh (1)
@@ -5526,8 +5479,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 
-#### Creating the container to run containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980)
+#### [Creating the container to run containers](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5537,7 +5489,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=7)** The first way involves installing the Docker engine within the container like we did back when we learned how to install Docker the hard way.
 >
-> **[0:13](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=13)** Some programs like Kubernetes and Docker do this to be able to truly create containers within containers.
+> **[0:13](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=13)** Some programs like [[Kubernetes]] and Docker do this to be able to truly create containers within containers.
 >
 > **[0:19](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=19)** The second way is to mount Docker's UNIX socket on your container, usually located at /var/lib/docker.sock to a file within a container and install just a Docker client instead of a full-blown engine.
 >
@@ -5583,7 +5535,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=144)** However, if you're really interested in doing quote unquote pure Docker in Docker, I recommend taking a look at Sysbox.
 >
-> **[2:32](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=152)** This is the Sysbox project on GitHub.
+> **[2:32](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=152)** This is the Sysbox project on [[GitHub]].
 >
 > **[2:35](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=155)** Sysbox is a container runtime that makes it really easy to run Docker within Docker.
 >
@@ -5633,7 +5585,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=271)** Since we're just testing that we can communicate with the Docker engine, let's try to list containers.
 >
-> **[4:36](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=276)** The endpoint to do that is /containers/json.
+> **[4:36](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=276)** The endpoint to do that is /containers/[[JSON]].
 >
 > **[4:41](https://www.linkedin.com/learning/docker-essential-training/creating-the-container-to-run-containers?u=76281980&t=281)** Let's see what happens here.
 >
@@ -5647,7 +5599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[GitHub]] (2), [[JSON]] (2), [[Kubernetes]] (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[JSON]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** docker (36), curl (2), rm (1), make (1)
 > **Env Vars:** unix (5), url (1), http (1), json (1)
 > **Tools:** github (2), terminal (1), bash (1)
@@ -5656,8 +5608,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 
-#### Installing Docker in the container of containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/installing-docker-in-the-container-of-containers?u=76281980)
+#### [Installing Docker in the container of containers](https://www.linkedin.com/learning/docker-essential-training/installing-docker-in-the-container-of-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5689,7 +5640,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), api (1)
 > **CLI Commands:** docker (13), curl (1), rm (1)
 > **Analogies:** just like (2)
 > **Prerequisites:** install (2)
@@ -5697,9 +5647,9 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** bash (1)
+> **Warnings:** note that (1)
 
-#### Limitations of Docker through Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/limitations-of-docker-through-docker?u=76281980)
+#### [Limitations of Docker through Docker](https://www.linkedin.com/learning/docker-essential-training/limitations-of-docker-through-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5851,7 +5801,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1)
 > **CLI Commands:** docker (22), make (4), cat (4), rm (2), cp (1)
 > **File Paths:** header.txt (6), app/include/header.txt (5), tmp/app/include/header.txt (1)
 > **Definitions:** is a  (2), means that (1)
@@ -5859,14 +5808,14 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 7. Networking
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to container networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980)
+#### [Introduction to container networking](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5880,13 +5829,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=16)** This is a simplified diagram of a typical networking session on your computer.
 >
-> **[0:21](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=21)** The content on this page was sent from a server somewhere in the LinkedIn Learning data center, to a gateway router, possibly also within their data center.
+> **[0:21](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=21)** The content on this page was sent from a server somewhere in the [[LinkedIn]] Learning data center, to a gateway router, possibly also within their data center.
 >
 > **[0:30](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=30)** These packets hopped from router to router until they made it to your router at home.
 >
 > **[0:35](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=35)** Upon arrival, your router sent these packets to a network interface card, or a NIC, on your machine.
 >
-> **[0:41](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=41)** Your operating system picked up these packets, looked at them, noticed, hey, this is HTML, and some other web stuff, and sent them right along to your browser, with a few extra steps along the way, of course.
+> **[0:41](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=41)** Your operating system picked up these packets, looked at them, noticed, hey, this is [[HTML]], and some other web stuff, and sent them right along to your browser, with a few extra steps along the way, of course.
 >
 > **[0:53](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=53)** This slide shows the same transaction but from the perspective of a container.
 >
@@ -5910,30 +5859,29 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=112)** We'll explore popular networking plugins and create containers with them to learn how they work.
 >
-> **[1:58](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=118)** We'll also learn about overlay networking, an interesting networking concept that is used heavily by container orchestrators like Kubernetes, Docker Swarm, and Nomad.
+> **[1:58](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=118)** We'll also learn about overlay networking, an interesting networking concept that is used heavily by container orchestrators like [[Kubernetes]], Docker Swarm, and Nomad.
 >
 > **[2:07](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=127)** Finally, we'll learn how to expose networked services running within containers to your machine.
 >
-> **[2:13](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=133)** This will allow you to run web servers, databases, or basically any networked application you can think of within Docker as if you are running them on your own machine.
+> **[2:13](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=133)** This will allow you to run [[Web Servers]], [[Databases]], or basically any networked application you can think of within Docker as if you are running them on your own machine.
 >
 > **[2:21](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980&t=141)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), web (2), [[LinkedIn]] (1), [[HTML]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[HTML]] (1), [[Kubernetes]] (1), [[Web Servers]] (1), [[Databases]] (1)
 > **CLI Commands:** docker (7)
 > **Env Vars:** nic (1), html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Docker networks with bridge-mode networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980)
+#### [Creating Docker networks with bridge-mode networking](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=0)** - [Instructor] Let's very briefly go back to the simple app that we've been using up until now.
 >
-> **[0:05](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=5)** We know that this app will attempt to visit [google.com](https://google.com) to get today's date unless a file is defined.
+> **[0:05](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=5)** We know that this app will attempt to visit [[[Google]].com](https://google.com) to get today's date unless a file is defined.
 >
 > **[0:11](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=11)** However, we never really thought about how the container does this.
 >
@@ -5947,7 +5895,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=31)** The bridge network driver connects docker containers to a virtual bridge network installed on your machine.
 >
-> **[0:37](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=37)** With the little Linux and IP tables magic, containers connected to this bridge network will automatically be used to communicate with other containers connected to the bridge as well as to the outside world.
+> **[0:37](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=37)** With the little [[Linux]] and IP tables magic, containers connected to this bridge network will automatically be used to communicate with other containers connected to the bridge as well as to the outside world.
 >
 > **[0:48](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=48)** Let's learn more about how this happens.
 >
@@ -6019,7 +5967,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=226)** We can also see some IP address configuration data in this config block here.
 >
-> **[3:51](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=231)** Every bridge network will have a gateway IP address and a subnet expressed in the classless inter domain routing notation or CIDR or C-I-D-R.
+> **[3:51](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=231)** Every bridge network will have a gateway IP address and a subnet expressed in the classless inter domain [[Routing]] notation or CIDR or C-I-D-R.
 >
 > **[4:00](https://www.linkedin.com/learning/docker-essential-training/creating-docker-networks-with-bridge-mode-networking?u=76281980&t=240)** In other words, this just tells us where packets from containers will get routed to and how big the network is respectively.
 >
@@ -6229,7 +6177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Google]] (2), [[Linux]] (2), dns (2), data (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Linux]] (2), [[Routing]] (1)
 > **CLI Commands:** docker (27), curl (9), ls (1), make (1)
 > **Versions:** 172.17.0 (4), 172.17 (2), 172.19 (2), 172.19.0 (2), 0.3 (1)
 > **Tools:** terminal (5)
@@ -6238,8 +6186,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (2), [calculator.net](https://calculator.net) (1)
 > **Env Vars:** dns (2), cidr (1)
 
-#### Exposing container ports between containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980)
+#### [Exposing container ports between containers](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6251,7 +6198,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=12)** The top terminal is running container-a and the bottom is running container-b.
 >
-> **[0:17](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=17)** In container-a, I'm going to use a program called Netcat, or nc, to start a really simple TCP server on port 80.
+> **[0:17](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=17)** In container-a, I'm going to use a program called [[Netcat]], or nc, to start a really simple TCP server on port 80.
 >
 > **[0:26](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=26)** The server will do nothing but echo whatever text it receives.
 >
@@ -6309,7 +6256,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=179)** To do that, we can quote unquote publish container-a's port 80 by mapping it to a port on our own machine.
 >
-> **[3:07](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=187)** Port publishing uses iptables, a rules engine for filtering Linux packets to quote unquote rewrite packets destined for a container's IP address and to a port on your machine.
+> **[3:07](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=187)** Port publishing uses iptables, a rules engine for filtering [[Linux]] packets to quote unquote rewrite packets destined for a container's IP address and to a port on your machine.
 >
 > **[3:19](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=199)** By doing this, we can connect to the container through the container's bridge network gateway on our own host.
 >
@@ -6393,7 +6340,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=404)** One way that we can confirm the container's gateway is by running ip route.
 >
-> **[6:51](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=411)** And what this will give you is the container's routing table, and what we're looking for is this default route.
+> **[6:51](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=411)** And what this will give you is the container's [[Routing]] table, and what we're looking for is this default route.
 >
 > **[6:58](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=418)** The default route will always go via the network interface card's gateway, which is just 172.18.0.1 in this case.
 >
@@ -6433,7 +6380,7 @@ created: 2026-05-02
 >
 > **[8:58](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=538)** And as you can see, we are now connected from our own computer, and if I type "Hello", "World!", we get the same results.
 >
-> **[9:07](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=547)** Now remember, if you're using a Mac or Windows machine to follow along, the Docker engine is running inside of the VM.
+> **[9:07](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=547)** Now remember, if you're using a Mac or [[Windows]] machine to follow along, the Docker engine is running inside of the VM.
 >
 > **[9:14](https://www.linkedin.com/learning/docker-essential-training/exposing-container-ports-between-containers?u=76281980&t=554)** This means that these ports will be mapped to ports within your VM, not your actual machine.
 >
@@ -6483,7 +6430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Linux]] (2), [[Routing]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Netcat]] (2), [[Linux]] (2), [[Routing]] (1), [[Windows]] (1)
 > **Ports:** port 80 (9), port 9443 (3), port 8080 (2), :9443 (2), :80 (1)
 > **CLI Commands:** docker (8), make (2), sudo (1), rm (1), ssh (1)
 > **Versions:** 172.18.0 (7)
@@ -6492,8 +6439,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **Analogies:** just like (5)
 
-#### Sharing a host's network with host mode networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/sharing-a-host-s-network-with-host-mode-networking?u=76281980)
+#### [Sharing a host's network with host mode networking](https://www.linkedin.com/learning/docker-essential-training/sharing-a-host-s-network-with-host-mode-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6531,7 +6477,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/docker-essential-training/sharing-a-host-s-network-with-host-mode-networking?u=76281980&t=133)** Now, since I want container A to use host mode networking instead of the default bridge driver, I'll type in --net=host.
 >
-> **[2:21](https://www.linkedin.com/learning/docker-essential-training/sharing-a-host-s-network-with-host-mode-networking?u=76281980&t=141)** I'll then configure it's entry point to be Netcat or NC since that's the program I want this container to run.
+> **[2:21](https://www.linkedin.com/learning/docker-essential-training/sharing-a-host-s-network-with-host-mode-networking?u=76281980&t=141)** I'll then configure it's entry point to be [[Netcat]] or NC since that's the program I want this container to run.
 >
 > **[2:29](https://www.linkedin.com/learning/docker-essential-training/sharing-a-host-s-network-with-host-mode-networking?u=76281980&t=149)** Finally, I'll put the image tag curlimages/curl.
 >
@@ -6609,7 +6555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), vpn (1)
+> **Frameworks & Libraries:** [[Netcat]] (6)
 > **Tools:** terminal (6), bash (3), command line (1)
 > **CLI Commands:** docker (5), rm (2), curl (1)
 > **Ports:** port 8080 (2), port 80 (2)
@@ -6618,8 +6564,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **Warnings:** keep in mind (1), note that (1)
 
-#### Disabling networking with the none driver
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/disabling-networking-with-the-none-driver?u=76281980)
+#### [Disabling networking with the none driver](https://www.linkedin.com/learning/docker-essential-training/disabling-networking-with-the-none-driver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6653,7 +6598,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/docker-essential-training/disabling-networking-with-the-none-driver?u=76281980&t=91)** This means that we won't be able to communicate with anything outside of this container.
 >
-> **[1:35](https://www.linkedin.com/learning/docker-essential-training/disabling-networking-with-the-none-driver?u=76281980&t=95)** For example, if I ping Google's DNS server 8.8 8.8, I get a network unreachable error.
+> **[1:35](https://www.linkedin.com/learning/docker-essential-training/disabling-networking-with-the-none-driver?u=76281980&t=95)** For example, if I ping [[Google]]'s DNS server 8.8 8.8, I get a network unreachable error.
 >
 > **[1:42](https://www.linkedin.com/learning/docker-essential-training/disabling-networking-with-the-none-driver?u=76281980&t=102)** Same thing if I try Cloud Cloudflare's DNS server at quad one or 1.1.1.1 However, because we have a loopback network driver, I can ping myself at 127.0.0.1.
 >
@@ -6667,7 +6612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), hit (1), [[Google]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Versions:** 127.0.0 (2), 8.8 (2), 1.1.1 (1)
 > **CLI Commands:** docker (1), rm (1), curl (1)
 > **Env Vars:** dns (3)
@@ -6676,8 +6621,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced network drivers and network plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980)
+#### [Advanced network drivers and network plugins](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6715,7 +6659,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=96)** In L2 mode, the ipvlan driver behaves almost exactly like macvlan, except everything going through a single MAC address.
 >
-> **[1:44](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=104)** In L3 mode, all routing is done by the Docker host instead of working through a network interface's default gateway.
+> **[1:44](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=104)** In L3 mode, all [[Routing]] is done by the Docker host instead of working through a network interface's default gateway.
 >
 > **[1:52](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=112)** This can improve performance, but requires additional configuration.
 >
@@ -6745,7 +6689,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=212)** I'm going to introduce a few networking terms we haven't covered in this course.
 >
-> **[3:36](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=216)** If you're unfamiliar with some of these terms, I recommended exploring LinkedIn Learning's catalog of networking fundamentals courses.
+> **[3:36](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=216)** If you're unfamiliar with some of these terms, I recommended exploring [[LinkedIn]] Learning's catalog of networking fundamentals courses.
 >
 > **[3:44](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=224)** Let's say that our router has an IP address of 192.168.1.1.
 >
@@ -6769,7 +6713,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=307)** Since the gateway is at 192.168.1.1 and our subnet is at 192.168.1.0/24, the first IP address to use will be 192.168.1.2.
 >
-> **[5:21](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=321)** Subnet masks make IP addressing tricky sometimes.
+> **[5:21](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=321)** Subnet masks make [[IP Addressing]] tricky sometimes.
 >
 > **[5:24](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=324)** You can use the link shown here to calculate IP address ranges.
 >
@@ -6847,7 +6791,7 @@ created: 2026-05-02
 >
 > **[9:50](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=590)** Since Docker's network driver system is pluggable, you can install and use third party network drivers through network plugins.
 >
-> **[9:57](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=597)** Network plugins can be found either on Docker Hub or through GitHub.
+> **[9:57](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=597)** Network plugins can be found either on Docker Hub or through [[GitHub]].
 >
 > **[10:02](https://www.linkedin.com/learning/docker-essential-training/advanced-network-drivers-and-network-plugins?u=76281980&t=602)** Weaveworks Weave Net plugin is the most popular network plugin.
 >
@@ -6859,7 +6803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), next (2), [[Automation]] (1), [[Routing]] (1), management (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[LinkedIn]] (1), [[IP Addressing]] (1), [[GitHub]] (1)
 > **CLI Commands:** docker (24), make (2)
 > **Versions:** 192.168.1 (18)
 > **Env Vars:** mac (5), vlan (2), codr (1), lan (1)
@@ -6873,8 +6817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to container storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-storage?u=76281980)
+#### [Introduction to container storage](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6924,13 +6867,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1)
 > **CLI Commands:** docker (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How volumes work
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/how-volumes-work?u=76281980)
+#### [How volumes work](https://www.linkedin.com/learning/docker-essential-training/how-volumes-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6978,7 +6919,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** docker (5)
 > **Env Vars:** nfs (2), cifs (1), dev (1), vda (1)
 > **Prerequisites:** install (1), you'll need (1)
@@ -6986,8 +6926,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Docker volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/creating-docker-volumes?u=76281980)
+#### [Creating Docker volumes](https://www.linkedin.com/learning/docker-essential-training/creating-docker-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7051,7 +6990,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/docker-essential-training/creating-docker-volumes?u=76281980&t=141)** You'll usually use the -v form to mount volumes as it is much easier to write.
 >
-> **[2:26](https://www.linkedin.com/learning/docker-essential-training/creating-docker-volumes?u=76281980&t=146)** However, knowing that both forms exist is important especially if you use a volume driver plugin.
+> **[2:26](https://www.linkedin.com/learning/docker-essential-training/creating-docker-volumes?u=76281980&t=146)** However, knowing that both [[Forms]] exist is important especially if you use a volume driver plugin.
 >
 > **[2:32](https://www.linkedin.com/learning/docker-essential-training/creating-docker-volumes?u=76281980&t=152)** Now that we know more about how volumes work, let's jump into a terminal to practice our new skills.
 >
@@ -7161,7 +7100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Forms]] (1), hit (1), cd (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** docker (15), ls (3), rm (2), make (2), sudo (2)
 > **Tools:** terminal (9)
 > **Env Vars:** readme (5)
@@ -7170,8 +7109,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **UI Navigation:** scroll up (1)
 
-#### Creating bind mounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980)
+#### [Creating bind mounts](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7221,7 +7159,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=121)** Since we'll see this in action in the next video, I won't spoil the fun here.
 >
-> **[2:05](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=125)** Bind mounts have also been useful for running applications in one-off containers, like running SQL to perform actions against a Postgres database that isn't in a volume.
+> **[2:05](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=125)** Bind mounts have also been useful for running applications in one-off containers, like running [[SQL]] to perform actions against a [[PostgreSQL|Postgres]] database that isn't in a volume.
 >
 > **[2:14](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=134)** Just like regular volumes, we can bind mount the long way or the short way with docker run --mount or docker run -v.
 >
@@ -7255,7 +7193,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=198)** Finally, bind mounts accept two advanced configuration parameters: bind-propagation and selinux-label.
 >
-> **[3:25](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=205)** Bind propagation tells Linux how mounts within the mount or sub-mounts are handled internally by Linux.
+> **[3:25](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=205)** Bind propagation tells [[Linux]] how mounts within the mount or sub-mounts are handled internally by Linux.
 >
 > **[3:31](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=211)** Since this is quite complicated and beyond the scope of this course, I recommend checking out this link if you're interested in learning more about bind mount propagation.
 >
@@ -7265,7 +7203,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=235)** Check out this link if you are interested in learning more about this feature.
 >
-> **[3:59](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=239)** While the long way is useful for fine tuning your bind mount, you'll usually want to use the short way here.
+> **[3:59](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=239)** While the long way is useful for [[Fine Tuning]] your bind mount, you'll usually want to use the short way here.
 >
 > **[4:05](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=245)** The notation is the same as mounting a volume, source directory first, then a colon, then the destination directory.
 >
@@ -7327,7 +7265,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=448)** Now, you might not have realpath installed, so if you don't have it installed, you can run brew install coreutils on the Mac to install it.
 >
-> **[7:37](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=457)** Linux usually comes with it, so this shouldn't be an issue for my Linux and Windows users.
+> **[7:37](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=457)** Linux usually comes with it, so this shouldn't be an issue for my Linux and [[Windows]] users.
 >
 > **[7:43](https://www.linkedin.com/learning/docker-essential-training/creating-bind-mounts?u=76281980&t=463)** What happens if you try to add a new file to our mount from within the container?
 >
@@ -7355,7 +7293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), next (2), data (1), application (1), front-end (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[SQL]] (1), [[PostgreSQL|Postgres]] (1), [[Fine Tuning]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (12), make (4), cp (2), cat (2), rm (2)
 > **Analogies:** just like (2), for example (2), imagine (1)
 > **Prerequisites:** install (2), you'll need (1)
@@ -7364,8 +7302,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
 
-#### Copying data from volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/copying-data-from-volumes?u=76281980)
+#### [Copying data from volumes](https://www.linkedin.com/learning/docker-essential-training/copying-data-from-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7531,7 +7468,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (5), [[Search]] (2), hit (1), business (1)
 > **CLI Commands:** tar (24), docker (12), rm (5), cat (1)
 > **Env Vars:** pwd (4), sep (1), nfs (1), gzip (1), readme (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
@@ -7540,8 +7476,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bind mount caveats with Docker Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/bind-mount-caveats-with-docker-desktop?u=76281980)
+#### [Bind mount caveats with Docker Desktop](https://www.linkedin.com/learning/docker-essential-training/bind-mount-caveats-with-docker-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7549,7 +7484,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/docker-essential-training/bind-mount-caveats-with-docker-desktop?u=76281980&t=2)** Being able to read and write to directories you own inside of containers makes lots of tasks easy within Docker.
 >
-> **[0:07](https://www.linkedin.com/learning/docker-essential-training/bind-mount-caveats-with-docker-desktop?u=76281980&t=7)** However, there is one gotcha to be aware of when you're running Docker outside of Linux.
+> **[0:07](https://www.linkedin.com/learning/docker-essential-training/bind-mount-caveats-with-docker-desktop?u=76281980&t=7)** However, there is one gotcha to be aware of when you're running Docker outside of [[Linux]].
 >
 > **[0:12](https://www.linkedin.com/learning/docker-essential-training/bind-mount-caveats-with-docker-desktop?u=76281980&t=12)** Performance.
 >
@@ -7611,7 +7546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), data (3), api (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** docker (6), rm (1)
 > **Definitions:** short for (1), is a  (1), means that (1)
 > **Warnings:** gotcha (1), be aware (1), caution (1)
@@ -7625,8 +7560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Docker registries
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980)
+#### [Introduction to Docker registries](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7652,7 +7586,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=58)** But what if this image was 10 gigabytes big?
 >
-> **[1:01](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=61)** Then I'd have to use something like Google Drive, OneDrive, or Dropbox, all of which add friction towards getting this app to my friend.
+> **[1:01](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=61)** Then I'd have to use something like [[Google Drive]], [[Microsoft OneDrive|OneDrive]], or Dropbox, all of which add friction towards getting this app to my friend.
 >
 > **[1:09](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=69)** The second problem happens after they get the image.
 >
@@ -7688,7 +7622,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=161)** However, an essential skill of working with containers, is learning how to use other registries.
 >
-> **[2:48](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=168)** Many registries you'll come across are on GitHub, AWS, Azure, and others.
+> **[2:48](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=168)** Many registries you'll come across are on [[GitHub]], AWS, [[Microsoft Azure|Azure]], and others.
 >
 > **[2:54](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980&t=174)** Many of them will also be private.
 >
@@ -7704,7 +7638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (1), [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** docker (19), tar (2), make (2), find (1), aws (1)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** aws (1)
@@ -7712,8 +7646,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a simple registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/creating-a-simple-registry?u=76281980)
+#### [Creating a simple registry](https://www.linkedin.com/learning/docker-essential-training/creating-a-simple-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7819,7 +7752,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/docker-essential-training/creating-a-simple-registry?u=76281980&t=277)** But, if they didn't exist, you would see them pulling like we did when we pulled the Nginx image or the Portainer image from earlier, for example.
 >
-> **[4:46](https://www.linkedin.com/learning/docker-essential-training/creating-a-simple-registry?u=76281980&t=286)** The Docker push and Docker pull process would work the same even if we use some other registry, like GitHub Container Registry, with one caveat.
+> **[4:46](https://www.linkedin.com/learning/docker-essential-training/creating-a-simple-registry?u=76281980&t=286)** The Docker push and Docker pull process would work the same even if we use some other registry, like [[GitHub]] Container Registry, with one caveat.
 >
 > **[4:54](https://www.linkedin.com/learning/docker-essential-training/creating-a-simple-registry?u=76281980&t=294)** We would have to log into the registry first, with Docker login.
 >
@@ -7827,7 +7760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), dns (1), hit (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** docker (18), rm (2), make (1), nginx (1)
 > **Ports:** :5000 (7), port 5000 (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (6)
@@ -7836,8 +7769,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Definitions:** means that (1)
 
-#### Pushing multi-platform manifest lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/pushing-multi-platform-manifest-lists?u=76281980)
+#### [Pushing multi-platform manifest lists](https://www.linkedin.com/learning/docker-essential-training/pushing-multi-platform-manifest-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7941,7 +7873,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/docker-essential-training/pushing-multi-platform-manifest-lists?u=76281980&t=316)** This will be X86 for those on arm-based computers or arm for those on Intel ones.
 >
-> **[5:21](https://www.linkedin.com/learning/docker-essential-training/pushing-multi-platform-manifest-lists?u=76281980&t=321)** We can do that by going back to the docker run command here and just before the image putting dash dash platform Linux slash arm.
+> **[5:21](https://www.linkedin.com/learning/docker-essential-training/pushing-multi-platform-manifest-lists?u=76281980&t=321)** We can do that by going back to the docker run command here and just before the image putting dash dash platform [[Linux]] slash arm.
 >
 > **[5:34](https://www.linkedin.com/learning/docker-essential-training/pushing-multi-platform-manifest-lists?u=76281980&t=334)** And there we go.
 >
@@ -7951,15 +7883,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1), [[Search]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** docker (14), grep (1), awk (1), rm (1)
 > **Env Vars:** x86 (3), a24b0 (2)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
-#### Creating and logging into authenticated registries
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980)
+#### [Creating and logging into authenticated registries](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7995,7 +7926,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=85)** Usually the internet.
 >
-> **[1:27](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=87)** When you go to [linkedin.com/learning](https://linkedin.com/learning), in your browser, the packet sent between you, and LinkedIn learning will be sent through the proxy.
+> **[1:27](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=87)** When you go to [[[LinkedIn]].com/learning](https://linkedin.com/learning), in your browser, the packet sent between you, and LinkedIn learning will be sent through the proxy.
 >
 > **[1:35](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=95)** Here, the proxy determines whether to send the packets through, rewrite them beforehand, or simply drop them.
 >
@@ -8023,9 +7954,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=178)** This is due to a limitation with the Docker registry app.
 >
-> **[3:02](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=182)** Manifest lists do work with secure registries outside of your machine, however, like the GitHub container registries, or Artifactory, or stuff like that.
+> **[3:02](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=182)** Manifest lists do work with secure registries outside of your machine, however, like the [[GitHub]] container registries, or Artifactory, or stuff like that.
 >
-> **[3:12](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=192)** I've contributed to a GitHub issue related to this bug within the Docker CLI project.
+> **[3:12](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=192)** I've contributed to a GitHub issue related to this bug within the Docker [[CLI]] project.
 >
 > **[3:17](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=197)** So check out this link, if you're interested in tracking the status of that.
 >
@@ -8055,7 +7986,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=255)** In that certs you'll see two files, cert.pem and key.pem.
 >
-> **[4:20](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=260)** We now need to add cert.pem into our virtual machines list of root certificate authorities.
+> **[4:20](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=260)** We now need to add cert.pem into our [[Virtual Machines]] list of root certificate authorities.
 >
 > **[4:26](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=266)** Certificate root authorities are special certificates used by just about every app that talks HTTPS, for verifying client and service certificates, without doing this step, we'll get weird insecure certificate errors, when we try to log into our registry.
 >
@@ -8063,7 +7994,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=286)** I do this all the time with clients or customers, who have their own certificate authorities.
 >
-> **[4:50](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=290)** To do this, let's SSH into our VM, by doing limactl, shell Docker, or if you're on Windows, running Bash or Terminal and then dropping down in selecting Ubuntu, or whatever, the next distribution you are using.
+> **[4:50](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=290)** To do this, let's SSH into our VM, by doing limactl, shell Docker, or if you're on [[Windows]], running Bash or Terminal and then dropping down in selecting [[Ubuntu]], or whatever, the next distribution you are using.
 >
 > **[5:06](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=306)** I'm going to clear my screen.
 >
@@ -8097,7 +8028,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=376)** We're going to use HT Pass WD to do this.
 >
-> **[6:20](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=380)** HT Pass WD, or HT password is a tool that creates files that configure basic authentication on web servers.
+> **[6:20](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=380)** HT Pass WD, or HT password is a tool that creates files that configure basic authentication on [[Web Servers]].
 >
 > **[6:28](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=388)** Now, I'm not going to install this on our system.
 >
@@ -8177,7 +8108,7 @@ created: 2026-05-02
 >
 > **[10:04](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=604)** So we can see that our login succeeded.
 >
-> **[10:06](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=606)** It gives us a warning that our password is stored unencrypted in config.json, within our home directory, but that's okay.
+> **[10:06](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=606)** It gives us a warning that our password is stored unencrypted in config.[[JSON]], within our home directory, but that's okay.
 >
 > **[10:14](https://www.linkedin.com/learning/docker-essential-training/creating-and-logging-into-authenticated-registries?u=76281980&t=614)** We can ignore this for now.
 >
@@ -8199,7 +8130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), web (6), traffic (3), [[LinkedIn]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[GitHub]] (2), [[CLI]] (1), [[Virtual Machines]] (1), [[Windows]] (1)
 > **CLI Commands:** docker (11), make (4), find (2), rm (2), ssh (1)
 > **Env Vars:** ssl (3), crt (3), cli (1), dns (1), https (1)
 > **Prerequisites:** configure (4), set up (1), you'll need (1), install (1)
@@ -8208,8 +8139,7 @@ created: 2026-05-02
 > **Ports:** port 5 (2), :5000 (1), :9999 (1)
 > **Tools:** github (2), bash (1), terminal (1)
 
-#### Popular alternative container image registries
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980)
+#### [Popular alternative container image registries](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8217,7 +8147,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=9)** There are three main reasons why teams and organizations choose to use a registry other than the Docker Hub.
 >
-> **[0:15](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=15)** The biggest reason is for increased security and privacy.
+> **[0:15](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=15)** The biggest reason is for increased security and [[Privacy]].
 >
 > **[0:18](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=18)** Many of the containers that you'll create for yourself or your company might contain private or sensitive information, like passwords and references to internal servers.
 >
@@ -8245,7 +8175,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=100)** Let's look at the examples, advantages, and disadvantages of each one.
 >
-> **[1:45](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=105)** Source code registries are registries provided by source-code-hosting platforms, like GitHub and GitLab.
+> **[1:45](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=105)** Source code registries are registries provided by source-code-hosting platforms, like [[GitHub]] and GitLab.
 >
 > **[1:52](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=112)** GitHub's container registry is shown on this slide.
 >
@@ -8263,7 +8193,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=159)** GitHub and GitLab's container registries are the most popular source code registry offerings.
 >
-> **[2:45](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=165)** Unfortunately, Atlassian Bitbucket doesn't currently have a hosted registry offering.
+> **[2:45](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=165)** Unfortunately, [[Atlassian]] [[Bitbucket]] doesn't currently have a hosted registry offering.
 >
 > **[2:51](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=171)** Cloud provider registries, like AWS Elastic Container Registry shown here, are meant to provide an easy way to make container images available to other services offered by the cloud provider.
 >
@@ -8301,7 +8231,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=271)** They're also built to comply with many industry standards and regulations, which makes them an easy sell with security and compliance departments.
 >
-> **[4:39](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=279)** Finally, they often come with additional tools to help simplify image management at scale, like image scanning, authentication provider integration, and automatic image storage management.
+> **[4:39](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=279)** Finally, they often come with additional tools to help simplify image management at scale, like image scanning, authentication provider integration, and automatic image [[Storage Management]].
 >
 > **[4:51](https://www.linkedin.com/learning/docker-essential-training/popular-alternative-container-image-registries?u=76281980&t=291)** However, these features are not free.
 >
@@ -8315,7 +8245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (3), [[GitHub]] (3), teams (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Privacy]] (1), [[Atlassian]] (1), [[Bitbucket]] (1), [[Storage Management]] (1)
 > **CLI Commands:** docker (9), make (3), aws (1)
 > **Tools:** github (3), gitlab (2), bitbucket (1)
 > **Exercise Files:** source code (4)
@@ -8328,8 +8258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Docker best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980)
+#### [Docker best practices](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8357,9 +8286,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=56)** Since Alpine is a very popular Docker image, many developers were confused and downloaded the alpine2 image instead.
 >
-> **[1:03](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=63)** Unfortunately, while alpine2 indeed ran Alpine Linux, it also configured containers to run a crypto miner on startup.
+> **[1:03](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=63)** Unfortunately, while alpine2 indeed ran Alpine [[Linux]], it also configured containers to run a crypto miner on startup.
 >
-> **[1:11](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=71)** If such a container ran on a platform that charges you for outbound network traffic like AWS or Azure, this will become a very expensive mistake.
+> **[1:11](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=71)** If such a container ran on a platform that charges you for outbound network traffic like AWS or [[Microsoft Azure|Azure]], this will become a very expensive mistake.
 >
 > **[1:20](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=80)** One way to avoid this is to always use Docker Hub images that are verified.
 >
@@ -8367,7 +8296,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=93)** Private registries like Artifactory also offer something similar.
 >
-> **[1:37](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=97)** The Ubuntu image shown here is a great example of that.
+> **[1:37](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=97)** The [[Ubuntu]] image shown here is a great example of that.
 >
 > **[1:40](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980&t=100)** It is very easy to see its designation on Docker Hub.
 >
@@ -8431,15 +8360,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Linux]] (2), next (2), business (1), traffic (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Azure|Azure]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** docker (22), aws (1), make (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Taking it to the next level with Docker Compose
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980)
+#### [Taking it to the next level with Docker Compose](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8471,9 +8399,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=68)** So this is a great way to implement a three-tier architecture, like the one that we saw earlier.
 >
-> **[1:13](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=73)** However, having to run tons of Docker CLI commands to make all of this work and get tedious and confusing.
+> **[1:13](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=73)** However, having to run tons of Docker [[CLI]] commands to make all of this work and get tedious and confusing.
 >
-> **[1:18](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=78)** Fortunately, Docker Compose is here to help.
+> **[1:18](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=78)** Fortunately, Docker [[Jetpack Compose|Compose]] is here to help.
 >
 > **[1:21](https://www.linkedin.com/learning/docker-essential-training/taking-it-to-the-next-level-with-docker-compose?u=76281980&t=81)** Docker Compose is a tool provided by Docker that makes it really easy to run and connect multiple containers on a single machine.
 >
@@ -8489,7 +8417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), application (4), data (2), [[CLI]] (2), web application (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (7), [[CLI]] (2)
 > **CLI Commands:** docker (12), make (2)
 > **Env Vars:** cli (2)
 > **Definitions:** is a  (2)
@@ -8497,8 +8425,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Level up even more with Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980)
+#### [Level up even more with Kubernetes](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8508,15 +8435,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=10)** While you can use overlay networks to connect multiple Docker engine notes together, that's only supported by swarm and it's difficult to set up otherwise.
 >
-> **[0:18](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=18)** You can also use the Docker CLI to talk to Docker engines running on remote hosts but this is quite cumbersome, especially when authentication comes into play.
+> **[0:18](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=18)** You can also use the Docker [[CLI]] to talk to Docker engines running on remote hosts but this is quite cumbersome, especially when authentication comes into play.
 >
 > **[0:26](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=26)** Docker also does not have built-in solutions for moving containers between hosts or auto-scaling containers to respond to load.
 >
-> **[0:33](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=33)** Finally, higher level concerns like securing traffic between containers or configuring low balancing and routing amongst them are outside of Docker's realm of responsibility.
+> **[0:33](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=33)** Finally, higher level concerns like securing traffic between containers or configuring low balancing and [[Routing]] amongst them are outside of Docker's realm of responsibility.
 >
 > **[0:44](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=44)** At best, this can make using Docker alone for production type workloads really, really complex.
 >
-> **[0:50](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=50)** At worst, it can increase security risk, decrease performance, and make your infrastructure more susceptible to downtime.
+> **[0:50](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=50)** At worst, it can increase [[Security Risk]], decrease performance, and make your infrastructure more susceptible to downtime.
 >
 > **[0:57](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=57)** Container orchestrators solve these problems.
 >
@@ -8528,7 +8455,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=77)** Dockers own swarm product, D2iQ which was formally known as Mesosphere, HashiCorp Nomad, and cloud offerings like AWS Elastic Container Service are examples of some popular container orchestrators in the wild.
 >
-> **[1:30](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=90)** However, the most popular container orchestrator in the market today is the Kubernetes project.
+> **[1:30](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=90)** However, the most popular container orchestrator in the market today is the [[Kubernetes]] project.
 >
 > **[1:36](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=96)** Let's talk a little more about it.
 >
@@ -8544,9 +8471,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=128)** This also makes Kubernetes possible to run on almost anything from Raspberry Pi to some of the largest cloud platforms in the world.
 >
-> **[2:17](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=137)** Second, Kubernetes makes it really easy to group containers together, kind of like Docker Compose.
+> **[2:17](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=137)** Second, Kubernetes makes it really easy to group containers together, kind of like Docker [[Jetpack Compose|Compose]].
 >
-> **[2:22](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=142)** You can also use Kubernetes to scale those container groups up or down to respond to your application's demands without creating more VMs or other hardware.
+> **[2:22](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=142)** You can also use Kubernetes to scale those container groups up or down to respond to your application's demands without creating more VMs or other [[Hardware]].
 >
 > **[2:31](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=151)** This is typically expensive and sometimes cumbersome but much cheaper to do with Kubernetes.
 >
@@ -8560,7 +8487,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=179)** The Kubernetes ecosystem is one of the things I love most.
 >
-> **[3:03](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=183)** New tools and products to extend Kubernetes are created almost every day.
+> **[3:03](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=183)** New tools and [[Microsoft Products|products]] to extend Kubernetes are created almost every day.
 >
 > **[3:07](https://www.linkedin.com/learning/docker-essential-training/level-up-even-more-with-kubernetes?u=76281980&t=187)** These tools make Kubernetes even more powerful and flexible for all sorts of use cases.
 >
@@ -8568,7 +8495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (15), traffic (5), [[Routing]] (2), cloud (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (15), [[Routing]] (2), [[CLI]] (1), [[Security Risk]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** docker (8), make (5), aws (1)
 > **Env Vars:** cli (1), aws (1), api (1)
 > **Definitions:** known as (1), is a  (1)
@@ -8582,8 +8509,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8611,9 +8537,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980&t=66)** That is a lot of skills.
 >
-> **[1:08](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980&t=68)** Now that we know much more about how Docker works, be sure to give Docker Compose a try if you're interested in running clusters of apps as containers on your machine.
+> **[1:08](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980&t=68)** Now that we know much more about how Docker works, be sure to give Docker [[Jetpack Compose|Compose]] a try if you're interested in running clusters of apps as containers on your machine.
 >
-> **[1:17](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980&t=77)** When you're ready, take your skills to the next level by learning how to run tons of containers with Kubernetes.
+> **[1:17](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980&t=77)** When you're ready, take your skills to the next level by learning how to run tons of containers with [[Kubernetes]].
 >
 > **[1:23](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980&t=83)** Knowing how to use containers is an essential and highly marketable skill in today's ever-changing tech world.
 >
@@ -8623,7 +8549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Jetpack Compose|Compose]] (1), next (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (11)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** remember to (1)

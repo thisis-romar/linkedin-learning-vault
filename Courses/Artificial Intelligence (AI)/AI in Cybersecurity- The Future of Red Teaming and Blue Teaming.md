@@ -76,18 +76,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to red teaming and blue teaming enhanced by AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980)
+#### [Introduction to red teaming and blue teaming enhanced by AI](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=0)** - Are you a red teamer or a blue teamer?
 >
-> **[0:02](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=2)** And this LinkedIn learning course all unveil how artificial intelligence is revolutionizing red teaming and blue teaming.
+> **[0:02](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=2)** And this [[LinkedIn]] learning course all unveil how [[Artificial Intelligence (AI)|artificial intelligence]] is revolutionizing [[Red Teaming]] and blue teaming.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=9)** From AI powered penetration testing to adversary profiling, you'll learn how to harness emerging tools to not just chase, but anticipate and outmaneuver sophisticated threat actors.
+> **[0:09](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=9)** From AI powered [[Penetration Testing]] to adversary profiling, you'll learn how to harness emerging tools to not just chase, but anticipate and outmaneuver sophisticated threat actors.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=19)** Hi, I'm Michael Wylie, a cybersecurity expert with over 18 years of frontline experience.
+> **[0:19](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=19)** Hi, I'm Michael Wylie, a [[Cybersecurity]] expert with over 18 years of frontline experience.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980&t=25)** Join me to master the art of AI enhanced cybersecurity and stay a step ahead in the AI race.
 >
@@ -95,15 +94,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Cybersecurity]] (3), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Red Teaming]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Red Teaming]] (1), [[Penetration Testing]] (1)
 > **Speakers:** - are (1)
 
-#### Tips to get the best results using AI chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980)
+#### [Tips to get the best results using AI chatbots](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=0)** - Did you hear about the time two New York lawyers were sanctioned for using fake ChatGPT cases in a legal brief?
+> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=0)** - Did you hear about the time two New York lawyers were sanctioned for using fake [[ChatGPT]] cases in a legal brief?
 >
 > **[0:06](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=6)** If not, it's a great story.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=83)** So let's look at how we can operate and control AI chatbots to get the best results.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=89)** Prompt engineering refers to the deliberate crafting and refinement of input to achieve desired outputs from a language model.
+> **[1:29](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=89)** [[Prompt Engineering]] refers to the deliberate crafting and refinement of input to achieve desired outputs from a language model.
 >
 > **[1:36](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=96)** Here are some of my favorite prompt engineering tips.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=144)** Let's say you want to learn how to become a threat hunter.
 >
-> **[2:27](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=147)** Typing something like, "I have a master's degree in cybersecurity and I've been working in a SOC for four years.
+> **[2:27](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=147)** Typing something like, "I have a master's degree in [[Cybersecurity]] and I've been working in a SOC for four years.
 >
 > **[2:34](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/tips-to-get-the-best-results-using-ai-chatbots?u=76281980&t=154)** I want to get a job in threat hunting within the next six months.
 >
@@ -183,21 +181,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (6), chatbot (5), [[Prompt Engineering]] (4), power (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Prompt Engineering]] (4), [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ciso (1), soc (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - did (1)
 
-#### AI censorship and jailbreaking chatbots for better results
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980)
+#### [AI censorship and jailbreaking chatbots for better results](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=0)** - What if I told you that you could use Jedi mind tricks to deceive ChatGPT into giving you information it normally wouldn't?
+> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=0)** - What if I told you that you could use Jedi mind tricks to deceive [[ChatGPT]] into giving you information it normally wouldn't?
 >
-> **[0:08](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=8)** Imagine you're running behind schedule on a red team engagement and need to write a Python script to brute force interesting directories.
+> **[0:08](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=8)** Imagine you're running behind schedule on a red team engagement and need to write a [[Python (Programming Language)|Python]] script to brute force interesting directories.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=15)** You remember that ChatGPT can be a force multiplier and you ask it to write the code for you.
 >
@@ -231,11 +228,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=100)** Bypassing chatbot restrictions, or sometimes called jailbreaking, can sometimes be as simple as telling the chatbot that you're asking a question for legitimate reasons.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=109)** The first time I tried using ChatGPT for red teaming tasks, I was disappointed that even seemingly harmless questions like, "What do I need to set up my own password cracking system?" was rejected by ChatGPT for being illegal and unauthorized.
+> **[1:49](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=109)** The first time I tried using ChatGPT for [[Red Teaming]] tasks, I was disappointed that even seemingly harmless questions like, "What do I need to set up my own password cracking system?" was rejected by ChatGPT for being illegal and unauthorized.
 >
 > **[2:03](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=123)** One day out of frustration, I pleaded with ChatGPT and told it that I had a controlled test environment and everything was legal.
 >
-> **[2:11](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=131)** Rather than the usual response, ChatGPT gave me the hardware, software, word list, and rule set requirements to start password cracking.
+> **[2:11](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=131)** Rather than the usual response, ChatGPT gave me the [[Hardware]], software, [[Microsoft Word|word]] list, and rule set requirements to start password cracking.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=140)** This was an aha moment for me.
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=174)** While this may seem silly, it sometimes works.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=177)** I find [jailbreakchat.com](https://jailbreakchat.com) and GitHub to have extensive lists if you need help.
+> **[2:57](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=177)** I find [jailbreakchat.com](https://jailbreakchat.com) and [[GitHub]] to have extensive lists if you need help.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-censorship-and-jailbreaking-chatbots-for-better-results?u=76281980&t=183)** Take a minute to pause, do some research, and make a short list of additional chatbot jailbreak prompts.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), chatbot (5), ai (2), [[Python (Programming Language)|Python]] (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Python (Programming Language)|Python]] (1), [[Red Teaming]] (1), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [jailbreakchat.com](https://jailbreakchat.com) (1)
@@ -279,8 +276,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing and enhancing red team documentation with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980)
+#### [Writing and enhancing red team documentation with AI](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=7)** There's a unique exhilaration that comes from breaking into a network undetected.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=11)** However, the list glamorous side of ethical hacking involves writing long pen test reports.
+> **[0:11](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=11)** However, the list glamorous side of [[Ethical Hacking]] involves writing long pen test reports.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=17)** According to various industry surveys, up to 50% of a pen tester's time is dedicated to report writing.
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=64)** Generating and validating technical details.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=67)** A recent example is when I referred to Microsoft's Entra ID as Azure Active Directory in a report.
+> **[1:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=67)** A recent example is when I referred to [[Microsoft]]'s [[Microsoft Entra ID|Entra ID]] as [[Microsoft Entra ID|Azure Active Directory]] in a report.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=73)** It was called out by a customer, and I was unaware that Microsoft had recently rebranded the tool.
 >
@@ -322,15 +318,15 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=96)** Creating executive summaries.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=98)** Many technical professionals excel in detailed-oriented tasks but struggle in condensing complex reports to executive summaries.
+> **[1:38](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=98)** Many technical professionals [[Microsoft Excel|excel]] in detailed-oriented tasks but struggle in condensing complex reports to executive summaries.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=106)** Chatbots can assist in summarizing and refining the complex details.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=111)** Generating visualizations.
 >
-> **[1:54](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=114)** Chatbots, like ChatGPT, can process and format data, offering suggestions for visual representations.
+> **[1:54](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=114)** Chatbots, like [[ChatGPT]], can process and format data, offering suggestions for visual representations.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=121)** This can turn raw data, like Nmap scan results, into insightful charts and graphics.
+> **[2:01](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=121)** This can turn raw data, like [[Nmap]] scan results, into insightful charts and graphics.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980&t=127)** Proofreading and ensuring consistency.
 >
@@ -348,16 +344,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[Microsoft]] (2), chatbot (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Ethical Hacking]] (1), [[Microsoft Entra ID|Entra id]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - picking (1)
 
-#### AI generated code and offensive tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980)
+#### [AI generated code and offensive tooling](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=0)** - [Narrator] Hey, Google Gemini, write a Google app script library to create a dropdown menu with a single option to clone a penetration test template when clicked.
+> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=0)** - [Narrator] Hey, [[Google Gemini]], write a [[Google]] app script library to create a dropdown menu with a single option to clone a penetration test template when clicked.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=9)** Then rename the document based on the input from the user.
 >
@@ -389,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=91)** However, you'll want to supervise and have enough knowledge of coding to avoid endless debugging a poorly written code.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=97)** So while chatbots won't immediately take your job of writing offensive tooling, I've found tools like ChatGPT, Gemini, and GitHub Copilot to be a powerful force multiplier with things like these four tasks: drafting Python scripts, creating learning paths, creating one-liners, and commenting code.
+> **[1:37](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=97)** So while chatbots won't immediately take your job of writing offensive tooling, I've found tools like [[ChatGPT]], [[Gemini]], and [[GitHub Copilot]] to be a powerful force multiplier with things like these four tasks: drafting [[Python (Programming Language)|Python]] scripts, creating learning paths, creating one-liners, and commenting code.
 >
 > **[1:57](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=117)** Number one, drafting Python scripts.
 >
@@ -425,7 +420,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=219)** Now, with AI chatbots, I can quickly obtain working one-liners.
 >
-> **[3:43](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=223)** For instance, create a one-liner in PowerShell to scan for live internal hosts.
+> **[3:43](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=223)** For instance, create a one-liner in [[Powershell]] to scan for live internal hosts.
 >
 > **[3:50](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-generated-code-offensive-tooling?u=76281980&t=230)** Finally, number four, commenting code.
 >
@@ -443,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), chatbot (5), [[Python (Programming Language)|Python]] (4), [[Google]] (3), [[ChatGPT]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Google]] (3), [[ChatGPT]] (3), [[Google Gemini]] (2), [[Gemini]] (1)
 > **CLI Commands:** python (4)
 > **Analogies:** for instance (2), such as (1)
 > **Env Vars:** osint (2)
@@ -452,8 +447,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI-assisted adversary emulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-assisted-adversary-emulation?u=76281980)
+#### [AI-assisted adversary emulation](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-assisted-adversary-emulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-assisted-adversary-emulation?u=76281980&t=112)** The chatbot will provide TTPs used by the adversary and the corresponding tactic IDs, tools and techniques that can be used for adversary emulation.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-assisted-adversary-emulation?u=76281980&t=122)** I found that toggling between chatbots is an effective strategy to learn which platforms excel at specific tasks.
+> **[2:02](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-assisted-adversary-emulation?u=76281980&t=122)** I found that toggling between chatbots is an effective strategy to learn which platforms [[Microsoft Excel|excel]] at specific tasks.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-assisted-adversary-emulation?u=76281980&t=129)** Try asking different chatbots the same question.
 >
@@ -499,13 +493,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (3), [[Security]] (2), teams (1), ai (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** apt29 (1), appt29 (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - when (1)
 
-#### Using AI to create fake online identities for OSINT
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980)
+#### [Using AI to create fake online identities for OSINT](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=90)** The social media platforms would allow me to lift these restrictions if I provided a government ID, which of course I did not have.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=97)** The detection of my sock puppet accounts came from the tools I used to create fake profile pictures which leveraged GAN, Generative Adversarial Network algorithms.
+> **[1:37](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=97)** The detection of my sock puppet accounts came from the tools I used to create fake profile pictures which leveraged GAN, Generative Adversarial Network [[Algorithms]].
 >
 > **[1:46](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=106)** GAN was introduced around 2014 and popularized in 2017 by an application called FaceApp, which allowed users to upload a photo and visualize their aged appearance.
 >
@@ -565,33 +558,32 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=176)** Start by prompting the chatbot to generate three full names for a 56-year-old woman.
 >
-> **[3:01](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=181)** For my bookkeeper in Georgia, I got Shannon Simmons, Ethel Jenkins, and Clara Harrison.
+> **[3:01](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=181)** For my bookkeeper in Georgia, I got Shannon Simmons, Ethel [[Jenkins]], and Clara Harrison.
 >
-> **[3:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=187)** Next, ask the chatbot to craft three to five bullet points suitable for a bookkeeper's LinkedIn profile.
+> **[3:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=187)** Next, ask the chatbot to craft three to five bullet points suitable for a bookkeeper's [[LinkedIn]] profile.
 >
 > **[3:13](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/using-ai-to-create-fake-online-identities-for-osint?u=76281980&t=193)** Following that, direct it to brainstorm ideas for a Gmail address and any additional elements that might aid in your open source investigation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), chatbot (2), [[Security]] (1), [[Algorithms]] (1), application (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Jenkins]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gan (4), osint (1)
 > **Analogies:** picture (2), imagine (1)
 > **URLs:** [this-person-does-not-exist.com](https://this-person-does-not-exist.com) (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - sock (1)
 
-#### AI’s role in revolutionizing security policies for CISOs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980)
+#### [AI’s role in revolutionizing security policies for CISOs](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=0)** - I once had a client who paid us $30,000 to create cybersecurity policies and procedures for their organization.
+> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=0)** - I once had a client who paid us $30,000 to create [[Cybersecurity]] policies and procedures for their organization.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=7)** The business had some unique compliance requirements, which dictated that their policies had to align with frameworks such as ISO 27002, the MPA best practices, and NIST 800-53.
+> **[0:07](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=7)** The business had some unique compliance requirements, which dictated that their policies had to align with frameworks such as ISO 27002, the MPA best practices, and [[NIST]] 800-53.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=18)** So they couldn't just find a free template and slap their logo on the top.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=22)** I spent months reading various security frameworks, interviewing key stakeholders, drafting the policies, and having my peers proofread my work.
+> **[0:22](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=22)** I spent months reading various security frameworks, [[Interviewing]] key stakeholders, drafting the policies, and having my peers proofread my work.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=30)** About a year later, the client asked me to come in and assess their readiness for an upcoming audit.
 >
@@ -615,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=83)** So I gave it a try.
 >
-> **[1:24](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=84)** I started out simple and asked chatGPT to write a corporate security password policy that followed the guidelines in NIST 800-53.
+> **[1:24](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=84)** I started out simple and asked [[ChatGPT]] to write a corporate security password policy that followed the guidelines in NIST 800-53.
 >
 > **[1:32](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-s-role-in-revolutionizing-security-policies-for-cisos-23759943?u=76281980&t=92)** In seconds, the chatbot extracted what it needed from a 500 page in NIST document and created a well formatted corporate policy.
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), ai (5), [[NIST]] (3), chatbot (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Cybersecurity]] (1), [[Interviewing]] (1), [[ChatGPT]] (1)
 > **Env Vars:** nist (3), iso (1), mpa (1), gpt (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
@@ -646,8 +638,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Techniques for effective AI-powered threat hunting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980)
+#### [Techniques for effective AI-powered threat hunting](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +674,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980&t=82)** What ideas did you and your chatbot come up with?
 >
-> **[1:25](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980&t=85)** The results I got back included unusual encrypted traffic to anomalous geo locations, frequent access to file sharing and cloud storage sites, unusual surge in data upload volume, usage of non-standard port and protocols, and repeated access to newly registered domains.
+> **[1:25](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980&t=85)** The results I got back included unusual encrypted traffic to anomalous geo locations, frequent access to file sharing and [[Cloud Storage]] sites, unusual surge in data upload volume, usage of non-standard port and protocols, and repeated access to newly registered domains.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980&t=104)** You could add on and request the chatbot to formulate hunting queries for your SIEM or create detection rules for your IDS.
 >
@@ -717,21 +708,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), chatbot (6), data (4), prompt (3), cloud (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (2)
 > **Env Vars:** rmm (4), rgr (2), siem (1), ids (1), edr (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Threat intelligence 2.0: AI-driven security insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/threat-intelligence-2-0-ai-driven-security-insights?u=76281980)
+#### [Threat intelligence 2.0: AI-driven security insights](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/threat-intelligence-2-0-ai-driven-security-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/threat-intelligence-2-0-ai-driven-security-insights?u=76281980&t=0)** - I once collaborated with a team of intel analysts who proudly shared that they generated 1500 pages of finished intel each month.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/threat-intelligence-2-0-ai-driven-security-insights?u=76281980&t=8)** Although this figure was impressive, it led me to wonder how can cybersecurity professionals possibly find the time to read and comprehend so much content?
+> **[0:08](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/threat-intelligence-2-0-ai-driven-security-insights?u=76281980&t=8)** Although this figure was impressive, it led me to wonder how can [[Cybersecurity]] professionals possibly find the time to read and comprehend so much content?
 >
 > **[0:16](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/threat-intelligence-2-0-ai-driven-security-insights?u=76281980&t=16)** In the early stages of my career, I eagerly anticipated the release of each major security vendor's annual threat report and read them cover to cover.
 >
@@ -783,7 +773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (6), ai (3), data (2), [[Cybersecurity]] (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** llm (1)
@@ -791,12 +781,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - i (1)
 
-#### AI strategies for social engineering defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980)
+#### [AI strategies for social engineering defense](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=0)** - Despite advancements in cybersecurity and widespread awareness, phishing emails and smishing text messages continue to haunt both individuals and organizations.
+> **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=0)** - Despite advancements in [[Cybersecurity]] and widespread awareness, [[Phishing]] emails and smishing text messages continue to haunt both individuals and organizations.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=10)** In 2022, the FBI Internet Crime Complaint Center recorded more than 2,000 complaints per day.
 >
@@ -844,13 +833,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=146)** One of my favorite campaigns was sending a fake undeliverable shipping notification to tax prep and accounting firms on tax day.
 >
-> **[2:33](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=153)** I knew everyone in the office would be scrambling to meet filing deadlines, and it was the perfect opportunity to send an email from a shipping courier saying that overnight shipping was unavailable.
+> **[2:33](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=153)** I knew everyone in the [[Microsoft Office|office]] would be scrambling to meet filing deadlines, and it was the perfect opportunity to send an email from a shipping courier saying that overnight shipping was unavailable.
 >
 > **[2:44](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=164)** The fear of loss of the customer being upset at a missed tax deadline was too much pressure for the employees.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=170)** I would get nearly 100% open and click rate each time I tried this campaign.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=175)** When AI chatbots became popular, I went back to my library of phishing emails to see how ChatGPT and other tools would do at identifying legitimacy of phishing emails.
+> **[2:55](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=175)** When AI chatbots became popular, I went back to my library of phishing emails to see how [[ChatGPT]] and other tools would do at identifying legitimacy of phishing emails.
 >
 > **[3:05](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/ai-strategies-for-social-engineering-defense?u=76281980&t=185)** It was pretty cool to see them not only identify which emails were phishing with a high degree of accuracy, but also share detailed reasoning and indicators it identified in the text.
 >
@@ -874,15 +863,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (10), ai (5), [[ChatGPT]] (2), chatbot (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (10), [[ChatGPT]] (2), [[Cybersecurity]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** fbi (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - despite (1)
 
-#### SOC of the future: Log analysis and detection engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/soc-of-the-future-log-analysis-and-detection-engineering?u=76281980)
+#### [SOC of the future: Log analysis and detection engineering](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/soc-of-the-future-log-analysis-and-detection-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +914,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/soc-of-the-future-log-analysis-and-detection-engineering?u=76281980&t=123)** If you did this, you'd see several days where there were 3,000 requests per day before the activity stopped.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/soc-of-the-future-log-analysis-and-detection-engineering?u=76281980&t=130)** Assuming you're unfamiliar with web servers or WordPress, you could ask the chatbot if seeing 3,000 post requests to wp-login is normal.
+> **[2:10](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/soc-of-the-future-log-analysis-and-detection-engineering?u=76281980&t=130)** Assuming you're unfamiliar with [[Web Servers]] or [[WordPress]], you could ask the chatbot if seeing 3,000 post requests to wp-login is normal.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/soc-of-the-future-log-analysis-and-detection-engineering?u=76281980&t=139)** When I asked chat GPT, it told me that it could vary depending on various factors, but suggested the activity could be indicating bot activity, brute forcing, or misconfigured plugins.
 >
@@ -938,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (8), web (3), [[WordPress]] (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[WordPress]] (1)
 > **CLI Commands:** apache (3), awk (2), find (1), grep (1)
 > **Tools:** bash (5), terminal (1)
 > **Env Vars:** http (2), gpt (1)
@@ -947,8 +935,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Bulletproof AI code review and malware analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980)
+#### [Bulletproof AI code review and malware analysis](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=12)** I've been told that my personality may not align with how the military operates, so I looked for other career paths where I could have a sense of purpose and still catch bad guys.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=22)** Cybersecurity seemed like a great fit.
+> **[0:22](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=22)** [[Cybersecurity]] seemed like a great fit.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=25)** I could be a digital detective, tracking down bad guys in the network.
 >
@@ -972,7 +959,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=47)** Where my colleagues could look at DLLs or function names and know if they were suspicious, I'd have to spend hours researching each DLL and function.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=56)** In the past, the Malware Analysis Center would provide statistics relating to the frequency in which functions were used for legitimate versus malicious software.
+> **[0:56](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=56)** In the past, the Malware Analysis Center would provide [[Statistics]] relating to the frequency in which functions were used for legitimate versus malicious software.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=65)** This was helpful because people like me who didn't have a strong programming background could compare the functions we saw in our analysis to the likelihood of a function being malicious.
 >
@@ -996,9 +983,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=142)** Let's take a look at a couple examples of how AI chat bots have acted like a crutch from my subpar coding skills.
 >
-> **[2:28](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=148)** First, in the past, I've spent hours de obfuscating and trying to understand what a Python or JavaScript file was trying to do.
+> **[2:28](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=148)** First, in the past, I've spent hours de obfuscating and trying to understand what a [[Python (Programming Language)|Python]] or [[JavaScript]] file was trying to do.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=156)** So one day I pasted the contents of a Python script into ChatGPT and asked it what the code did.
+> **[2:36](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=156)** So one day I pasted the contents of a Python script into [[ChatGPT]] and asked it what the code did.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/bulletproof-ai-code-review-and-malware-analysis?u=76281980&t=163)** A few seconds later, I got a response saying it was a Python reverse shell one-liner.
 >
@@ -1020,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (3), [[Security]] (3), next (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[ChatGPT]] (2), [[Cybersecurity]] (1), [[Statistics]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Env Vars:** dll (1), api (1)
 > **Versions:** 13.48 (1), 63.9 (1)
@@ -1033,26 +1020,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=0)** - Congratulations, we've reached the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=3)** By now, you should have an understanding of how to get the most out of AI chatbots, how AI can be used for red teaming, and how AI can be used for blue teaming.
+> **[0:03](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=3)** By now, you should have an understanding of how to get the most out of AI chatbots, how AI can be used for [[Red Teaming]], and how AI can be used for blue teaming.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=12)** You're now ready to make AI part of your daily workflow.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=15)** AI is moving at lightning speed, so stay ahead of the evolving world of generative AI by keeping an eye out for the latest updates and connecting with me on LinkedIn.
+> **[0:15](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=15)** AI is moving at lightning speed, so stay ahead of the evolving world of [[Generative AI]] by keeping an eye out for the latest updates and connecting with me on [[LinkedIn]].
 >
-> **[0:24](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=24)** Check out my other courses on threat hunting and cybersecurity, and if you have any questions, check out the Q&A section below.
+> **[0:24](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=24)** Check out my other courses on threat hunting and [[Cybersecurity]], and if you have any questions, check out the Q&A section below.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980&t=31)** Thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Red Teaming]] (1), [[Generative AI]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (1), [[Generative AI]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

@@ -113,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why create maps with R?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980)
+#### [Why create maps with R?](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980&t=10)** I use R for every single step of my mapping workflow and for every single map that I make.
 >
-> **[0:16](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980&t=16)** This includes data cleaning and wrangling by combining together the sf package with the powerful Tidyverse ecosystem, all of which are cover in this course.
+> **[0:16](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980&t=16)** This includes [[Data Cleaning]] and wrangling by combining together the sf package with the powerful Tidyverse ecosystem, all of which are cover in this course.
 >
 > **[0:26](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980&t=26)** I will also show you how to make easy-to-read static maps for ggplot2 and engaging interactive maps with the leaflet package.
 >
@@ -134,19 +133,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gis (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gis (1)
 > **Speakers:** - [charlie] (1)
 
-#### Base knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/base-knowledge?u=76281980)
+#### [Base knowledge](https://www.linkedin.com/learning/creating-maps-with-r/base-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/base-knowledge?u=76281980&t=0)** - [Instructor] This course is focused on making maps with R.
 >
-> **[0:03](https://www.linkedin.com/learning/creating-maps-with-r/base-knowledge?u=76281980&t=3)** We therefore assume a basic level of comfort with the R language and how to run R code in Rstudio.
+> **[0:03](https://www.linkedin.com/learning/creating-maps-with-r/base-knowledge?u=76281980&t=3)** We therefore assume a basic level of comfort with the R language and how to run R code in [[RStudio]].
 >
 > **[0:09](https://www.linkedin.com/learning/creating-maps-with-r/base-knowledge?u=76281980&t=9)** This includes confidence in understanding what an assignment is and how to use functions.
 >
@@ -172,18 +170,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (2), data (2)
+> **Frameworks & Libraries:** [[RStudio]] (2)
 > **Code Identifiers:** read_csv (1), read_excel (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub repository and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980)
+#### [GitHub repository and exercise files](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available through this GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available through this [[GitHub]] repository.
 >
-> **[0:05](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=5)** You do not need a GitHub account or any knowledge of how Git works to use these materials.
+> **[0:05](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=5)** You do not need a GitHub account or any knowledge of how [[Git]] works to use these materials.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=11)** Say you're watching video 02_02 and want to access the download files.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=83)** And inside of there you will find a file with the extension .Rproj and the same name as the video.
 >
-> **[1:30](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=90)** You will need to double-click on this file, and this will open the project in RStudio.
+> **[1:30](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=90)** You will need to double-click on this file, and this will open the project in [[RStudio]].
 >
 > **[1:36](https://www.linkedin.com/learning/creating-maps-with-r/github-repository-and-exercise-files?u=76281980&t=96)** You can then click on the script in the Files tab and follow along with me in the video.
 
@@ -233,8 +230,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to choose a map
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980)
+#### [How to choose a map](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980&t=53)** There are lots of different services available.
 >
-> **[0:56](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980&t=56)** Google Maps is one of the eldest and most recognizable online mapping services.
+> **[0:56](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980&t=56)** [[Google]] Maps is one of the eldest and most recognizable online mapping services.
 >
 > **[1:01](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980&t=61)** And it also provides a freemium geocoding service.
 >
@@ -354,15 +350,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), database (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Geo marker and scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980)
+#### [Geo marker and scatter plots](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=74)** It's not possible to compare locations with this map because all points are represented by the same tear drop shaped markers.
 >
-> **[1:23](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=83)** These maps were invented by online mapping services like Google maps, and so we tend to only see them where we can make interactive maps.
+> **[1:23](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=83)** These maps were invented by online mapping services like [[Google]] maps, and so we tend to only see them where we can make interactive maps.
 >
 > **[1:30](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=90)** Here's an example of a geo market plot showing the five largest cities in Germany.
 >
@@ -420,13 +415,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=145)** And if I hover that over this cluster it shows me that there are 269 cities within this region.
 >
-> **[2:31](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=151)** And as I iteratively zoom in, we can see VSD cluster and then I can see individual city locations.
+> **[2:31](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=151)** And as I iteratively [[Zoom]] in, we can see VSD cluster and then I can see individual city locations.
 >
 > **[2:39](https://www.linkedin.com/learning/creating-maps-with-r/geo-marker-and-scatter-plots?u=76281980&t=159)** Now I'll be honest that geo scatter and geo marker plots aren't a particularly exciting to build but the very easy to understand because most people will be familiar with using a service like Google maps to find a closest cafe or directions to a business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Google]] (2), next (1), generic (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Zoom]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** vsd (1)
@@ -434,8 +429,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Geo bubble charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/geo-bubble-charts?u=76281980)
+#### [Geo bubble charts](https://www.linkedin.com/learning/creating-maps-with-r/geo-bubble-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,14 +473,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choropleth: Shaded area maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980)
+#### [Choropleth: Shaded area maps](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=13)** Before you can begin to create a choropleth you need to obtain shapefiles for your regions of interest.
 >
-> **[0:19](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=19)** Most countries have dedicated census bureaus or statistics offices that can be used to obtain shapefiles for both the country itself and its subdivisions.
+> **[0:19](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=19)** Most countries have dedicated census bureaus or [[Statistics]] offices that can be used to obtain shapefiles for both the country itself and its subdivisions.
 >
 > **[0:28](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=28)** For example, states, departments, or counties.
 >
@@ -540,19 +532,18 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=147)** When it comes to designing continuous choropleth, I would almost always recommend the viridis color palette.
 >
-> **[2:33](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=153)** It's both, perceptually uniform and can be read by readers with all forms of colorblindness.
+> **[2:33](https://www.linkedin.com/learning/creating-maps-with-r/choropleth-shaded-area-maps?u=76281980&t=153)** It's both, perceptually uniform and can be read by readers with all [[Forms]] of colorblindness.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Forms]] (1)
 > **CLI Commands:** find (7)
 > **URLs:** [colorbrewer2.org](https://colorbrewer2.org) (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presentator] (1)
 
-#### Hexbin maps or hexagonally binned choropleth
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/hexbin-maps-or-hexagonally-binned-choropleth?u=76281980)
+#### [Hexbin maps or hexagonally binned choropleth](https://www.linkedin.com/learning/creating-maps-with-r/hexbin-maps-or-hexagonally-binned-choropleth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,15 +625,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), data (2), next (1), feature (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - this (1)
 
-#### Dot density
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/dot-density?u=76281980)
+#### [Dot density](https://www.linkedin.com/learning/creating-maps-with-r/dot-density?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,15 +685,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), data (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - this (1)
 
-#### Cartograms: Distorted area maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/cartograms-distorted-area-maps?u=76281980)
+#### [Cartograms: Distorted area maps](https://www.linkedin.com/learning/creating-maps-with-r/cartograms-distorted-area-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,8 +735,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standardize country names with {countrycode}
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/standardize-country-names-with-countrycode?u=76281980)
+#### [Standardize country names with {countrycode}](https://www.linkedin.com/learning/creating-maps-with-r/standardize-country-names-with-countrycode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,18 +769,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** usa (2)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join shapefiles with data in Excel files
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/join-shapefiles-with-data-in-excel-files?u=76281980)
+#### [Join shapefiles with data in Excel files](https://www.linkedin.com/learning/creating-maps-with-r/join-shapefiles-with-data-in-excel-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/join-shapefiles-with-data-in-excel-files?u=76281980&t=0)** - [Speaker] When building maps and working with geospatial data, it's extremely common to find yourself needing to combine together shape files and data living inside of Excel files.
+> **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/join-shapefiles-with-data-in-excel-files?u=76281980&t=0)** - [Speaker] When building maps and working with geospatial data, it's extremely common to find yourself needing to combine together shape files and data living inside of [[Microsoft Excel|Excel]] files.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-maps-with-r/join-shapefiles-with-data-in-excel-files?u=76281980&t=10)** Joining these data sets is achieved with the joint functions from the tidy R package.
 >
@@ -892,21 +876,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Code Identifiers:** world_sf (2), country_name (2), world_gdp (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** aus (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [speaker] (1)
 
-#### Convert addresses to coordinates with geocoding
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980)
+#### [Convert addresses to coordinates with geocoding](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=0)** - [Instructor] Geocoding is the process of converting human language street addresses into coordinates we can use to create maps.
 >
-> **[0:08](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=8)** In the 02_03_b branch of the project repo, there's an Excel file that contains addresses of businesses and places that I've worked across the world.
+> **[0:08](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=8)** In the 02_03_b branch of the project repo, there's an [[Microsoft Excel|Excel]] file that contains addresses of businesses and places that I've worked across the world.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=18)** We'll be converting all of these into coordinates with R.
 >
@@ -948,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=136)** And I'm not going to give a country name, because this is for tutorial, so we'll click Get Started.
 >
-> **[2:24](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=144)** And, that signup complete, it then takes you to the Manage Your API Access Tokens page, which is where we obtain our API token.
+> **[2:24](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=144)** And, that signup complete, it then takes you to the Manage Your API Access [[Tokens]] page, which is where we obtain our API token.
 >
 > **[2:34](https://www.linkedin.com/learning/creating-maps-with-r/convert-addresses-to-coordinates-with-geocoding?u=76281980&t=154)** So I need you to click on Show Token, and copy this to your clipboard.
 >
@@ -1034,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Microsoft Excel|Excel]] (3), data (3), [[Analytics]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Tokens]] (1)
 > **Env Vars:** api (8), locationiq_api_key (1)
 > **Code Identifiers:** addresses_geocoded (2), international_addresses (1), street_address (1), post_code (1), st_as_sf (1)
 > **UI Navigation:** click on (2), open the (2), go to (1)
@@ -1043,16 +1026,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Geolocate all US state capitol buildings
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980)
+#### [Challenge: Geolocate all US state capitol buildings](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980&t=0)** - [Instructor] For this challenge, I would like you to geocode the addresses for all 50 state capitals of the USA.
 >
-> **[0:11](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980&t=11)** You will need to complete all stages of the data wrangling task from beginning to end.
+> **[0:11](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980&t=11)** You will need to complete all stages of the [[Data Wrangling]] task from beginning to end.
 >
-> **[0:16](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980&t=16)** This means you'll need to import the data from the Excel file, geocode the addresses, convert your tibble into an SF object, and finally, visualize the state capitals with the mapview function from the mapview package.
+> **[0:16](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980&t=16)** This means you'll need to import the data from the [[Microsoft Excel|Excel]] file, geocode the addresses, convert your tibble into an SF object, and finally, visualize the state capitals with the mapview function from the mapview package.
 >
 > **[0:30](https://www.linkedin.com/learning/creating-maps-with-r/challenge-geolocate-all-us-state-capitol-buildings?u=76281980&t=30)** Please remember to use the 02_04b, our studio project that I've provided for this challenge.
 >
@@ -1062,15 +1044,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** usa (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Geolocate all US state capitol buildings
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/solution-geolocate-all-us-state-capitol-buildings?u=76281980)
+#### [Solution: Geolocate all US state capitol buildings](https://www.linkedin.com/learning/creating-maps-with-r/solution-geolocate-all-us-state-capitol-buildings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1059,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/creating-maps-with-r/solution-geolocate-all-us-state-capitol-buildings?u=76281980&t=11)** So I'm going to load all of the packages and we need to read in our data file.
 >
-> **[0:16](https://www.linkedin.com/learning/creating-maps-with-r/solution-geolocate-all-us-state-capitol-buildings?u=76281980&t=16)** So I'll create a variable name, capital buildings, and we'll use the function read underscore excel.
+> **[0:16](https://www.linkedin.com/learning/creating-maps-with-r/solution-geolocate-all-us-state-capitol-buildings?u=76281980&t=16)** So I'll create a variable name, capital buildings, and we'll use the function read underscore [[Microsoft Excel|excel]].
 >
 > **[0:25](https://www.linkedin.com/learning/creating-maps-with-r/solution-geolocate-all-us-state-capitol-buildings?u=76281980&t=25)** We'll open a quotation mark and I'll press the tab key so I can see the file tree and our select our xlsx file and let's run back out.
 >
@@ -1142,7 +1123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** usa (1)
 > **Speakers:** - okay (1)
@@ -1153,8 +1134,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GIS data formats: Raster or vector
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980)
+#### [GIS data formats: Raster or vector](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1186,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980&t=120)** Satellite imagery is a perfect example, very sensitive cameras image.
 >
-> **[2:05](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980&t=125)** The surface of the earth and a data quality is directly related to the resolution of the original image captured.
+> **[2:05](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980&t=125)** The surface of the earth and a [[Data Quality]] is directly related to the resolution of the original image captured.
 >
 > **[2:13](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980&t=133)** Weather data is also rasterized because we can only measure weather conditions across a grid of weather stations.
 >
@@ -1218,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), gis (8)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Env Vars:** gis (8)
 > **Definitions:** means that (2), is a  (2)
 > **CLI Commands:** make (2)
@@ -1226,8 +1206,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vector GIS data: sf and sp
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/vector-gis-data-sf-and-sp?u=76281980)
+#### [Vector GIS data: sf and sp](https://www.linkedin.com/learning/creating-maps-with-r/vector-gis-data-sf-and-sp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,15 +1232,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), gis (2)
 > **Env Vars:** gis (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with sf datasets and the tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/work-with-sf-datasets-and-the-tidyverse?u=76281980)
+#### [Work with sf datasets and the tidyverse](https://www.linkedin.com/learning/creating-maps-with-r/work-with-sf-datasets-and-the-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,12 +1316,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), feature (3)
 > **Env Vars:** csv (1)
 > **Speakers:** - let (1)
 
-#### Challenge: Visualizing continent populations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/challenge-visualizing-continent-populations?u=76281980)
+#### [Challenge: Visualizing continent populations](https://www.linkedin.com/learning/creating-maps-with-r/challenge-visualizing-continent-populations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,8 +1337,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Visualizing continent populations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/solution-visualizing-continent-populations?u=76281980)
+#### [Solution: Visualizing continent populations](https://www.linkedin.com/learning/creating-maps-with-r/solution-visualizing-continent-populations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1387,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Code Identifiers:** pop_est (3), world_sf (1), left_join (1), sf_objects (1), sf_object (1)
 > **CLI Commands:** rm (1)
 > **Speakers:** - [instructor] (1)
@@ -1424,8 +1397,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use geom_sf to visualize geo locations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/use-geom-sf-to-visualize-geo-locations?u=76281980)
+#### [Use geom_sf to visualize geo locations](https://www.linkedin.com/learning/creating-maps-with-r/use-geom-sf-to-visualize-geo-locations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,15 +1513,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Code Identifiers:** geom_sf (2), brazil_sf (2), brazil_cities (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - i (1)
 
-#### ggplot2 choropleth and continuous data
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-continuous-data?u=76281980)
+#### [ggplot2 choropleth and continuous data](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-continuous-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,7 +1665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Env Vars:** aes (4)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (1), is called (1)
@@ -1703,8 +1672,7 @@ created: 2026-05-02
 > **Versions:** 0.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### ggplot2 choropleth and discrete data
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-discrete-data?u=76281980)
+#### [ggplot2 choropleth and discrete data](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-discrete-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,7 +1716,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-discrete-data?u=76281980&t=104)** And there's one observation in our dataset with NA values, and that's the District of Columbia, or more commonly known as Washington, D.C.
 >
-> **[1:53](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-discrete-data?u=76281980&t=113)** Data wasn't collected for this region, however, in our static map at this level of zoom, it's not really possible for a reader to see Washington, D.C.
+> **[1:53](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-discrete-data?u=76281980&t=113)** Data wasn't collected for this region, however, in our static map at this level of [[Zoom]], it's not really possible for a reader to see Washington, D.C.
 >
 > **[2:04](https://www.linkedin.com/learning/creating-maps-with-r/ggplot2-choropleth-and-discrete-data?u=76281980&t=124)** So we need to make a choice about our legend.
 >
@@ -1844,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **File Paths:** d.c (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** aes (2)
@@ -1853,8 +1821,7 @@ created: 2026-05-02
 > **Versions:** 0.2 (1)
 > **UI Navigation:** scroll down (1)
 
-#### Label maps with ggrepel package
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/label-maps-with-ggrepel-package?u=76281980)
+#### [Label maps with ggrepel package](https://www.linkedin.com/learning/creating-maps-with-r/label-maps-with-ggrepel-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1962,18 +1929,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **Code Identifiers:** st_coordinates (4), brazil_cities (4), geom_label_repel (4), st_drop_geometry (3), brazil_cities_df (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zoom into regions with coords_sf()
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/zoom-into-regions-with-coords-sf?u=76281980)
+#### [Zoom into regions with coords_sf()](https://www.linkedin.com/learning/creating-maps-with-r/zoom-into-regions-with-coords-sf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/zoom-into-regions-with-coords-sf?u=76281980&t=0)** - Sometimes we want to zoom into a map to focus on specific features.
+> **[0:00](https://www.linkedin.com/learning/creating-maps-with-r/zoom-into-regions-with-coords-sf?u=76281980&t=0)** - Sometimes we want to [[Zoom]] into a map to focus on specific features.
 >
 > **[0:04](https://www.linkedin.com/learning/creating-maps-with-r/zoom-into-regions-with-coords-sf?u=76281980&t=4)** For instance, in this map of hospitals in Oregon, it's clear that highest density of hospitals is in the Northwest.
 >
@@ -2049,13 +2014,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), data (2)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - sometimes (1)
 
-#### Transform CRS with coord_sf()
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/transform-crs-with-coord-sf?u=76281980)
+#### [Transform CRS with coord_sf()](https://www.linkedin.com/learning/creating-maps-with-r/transform-crs-with-coord-sf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2103,15 +2067,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (1)
 > **Env Vars:** crs (4), epsg (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Label a geobubble chart of Germany's biggest cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/challenge-label-a-geobubble-chart-of-germany-s-biggest-cities?u=76281980)
+#### [Challenge: Label a geobubble chart of Germany's biggest cities](https://www.linkedin.com/learning/creating-maps-with-r/challenge-label-a-geobubble-chart-of-germany-s-biggest-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2128,8 +2090,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Label a geobubble chart of Germany's biggest cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/solution-label-a-geobubble-chart-of-germany-s-biggest-cities?u=76281980)
+#### [Solution: Label a geobubble chart of Germany's biggest cities](https://www.linkedin.com/learning/creating-maps-with-r/solution-label-a-geobubble-chart-of-germany-s-biggest-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,7 +2180,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2)
 > **Code Identifiers:** germany_cities (3), germany_cities_df (3), geom_sf (2), geom_label_repel (2), st_drop_geometry (1)
 > **Env Vars:** true (1), false (1)
 > **CLI Commands:** make (1)
@@ -2227,9 +2187,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
+> **Speakers:** - let (1)
 
-#### Challenge: Visualize state coastline length with choropleth
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/challenge-visualize-state-coastline-length-with-choropleth?u=76281980)
+#### [Challenge: Visualize state coastline length with choropleth](https://www.linkedin.com/learning/creating-maps-with-r/challenge-visualize-state-coastline-length-with-choropleth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2246,8 +2206,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Visualize state coastline length with choropleth
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/solution-visualize-state-coastline-length-with-choropleth?u=76281980)
+#### [Solution: Visualize state coastline length with choropleth](https://www.linkedin.com/learning/creating-maps-with-r/solution-visualize-state-coastline-length-with-choropleth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2331,7 +2290,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** aes (3)
 > **Best Practices:** make sure to (1), don't forget (1)
 > **CLI Commands:** make (1)
@@ -2343,8 +2301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of using Leaflet
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980)
+#### [The basics of using Leaflet](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2352,9 +2309,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980&t=5)** How is this possible?
 >
-> **[0:07](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980&t=7)** Well, the Leaflet package is an example of an HTML widget package.
+> **[0:07](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980&t=7)** Well, the Leaflet package is an example of an [[HTML]] widget package.
 >
-> **[0:11](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980&t=11)** HTML widget packages wrap JavaScript libraries, in this case Leaflet, and allow us to use those JavaScript libraries writing only R code.
+> **[0:11](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980&t=11)** HTML widget packages wrap [[JavaScript]] libraries, in this case Leaflet, and allow us to use those JavaScript libraries writing only R code.
 >
 > **[0:20](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980&t=20)** The interactive maps that you build with Leaflet can be inserted into R Markdown documents, and into Shiny apps.
 >
@@ -2422,15 +2379,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2)
 > **Code Identifiers:** world_sf (2), addprovidertiles (1), addpolygons (1)
 > **Env Vars:** html (4)
 > **Definitions:** is an  (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use Leaflet to visualize geo locations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980)
+#### [Use Leaflet to visualize geo locations](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2448,7 +2404,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=30)** We'll add the data argument, and we will provide brazil_cities.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=37)** And that adds our locations as teardrop icons that you'll be familiar with from services like Google Maps.
+> **[0:37](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=37)** And that adds our locations as teardrop icons that you'll be familiar with from services like [[Google]] Maps.
 >
 > **[0:44](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=44)** There's not much that we can do to customize these maps, so let's swap this geo marker plot for geo scatter plot by changing addMarkers into addCircleMarkers.
 >
@@ -2476,7 +2432,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=116)** Now, when we hover over each of these circles, it tells us which city we're in.
 >
-> **[2:01](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=121)** And if we zoom in, it gives us a much better idea of where each of these cities is.
+> **[2:01](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=121)** And if we [[Zoom]] in, it gives us a much better idea of where each of these cities is.
 >
 > **[2:07](https://www.linkedin.com/learning/creating-maps-with-r/use-leaflet-to-visualize-geo-locations?u=76281980&t=127)** Now, what I'd like to do is I'd like to color the cities depending on whether they're the capital city or not.
 >
@@ -2556,7 +2512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Zoom]] (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Google]] (1)
 > **Code Identifiers:** brazil_cities (5), city_type (4), pal_city_type (3), addmarkers (2), addcirclemarkers (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1)
@@ -2564,8 +2520,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - let (1)
 
-#### Add labels and pop-ups to Leaflet maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980)
+#### [Add labels and pop-ups to Leaflet maps](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2583,7 +2538,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=39)** The simplest advice I can give you is to avoid combining both labels and popups in the same leaflet map.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=47)** It's also important to note that you can only customize the appearance of popups with HTML.
+> **[0:47](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=47)** It's also important to note that you can only customize the appearance of popups with [[HTML]].
 >
 > **[0:52](https://www.linkedin.com/learning/creating-maps-with-r/add-labels-and-pop-ups-to-leaflet-maps?u=76281980&t=52)** It's not possible to do so with hover labels in the leaflet package.
 >
@@ -2641,7 +2596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), feature (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Code Identifiers:** label_city_pop (2), city_name (1), big_mark (1)
 > **Env Vars:** html (3)
 > **UI Navigation:** open the (1), click on (1)
@@ -2650,8 +2605,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leaflet choropleth and continuous data
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-continuous-data?u=76281980)
+#### [Leaflet choropleth and continuous data](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-continuous-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2783,15 +2737,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Env Vars:** crs (4), hdml (2)
 > **UI Navigation:** scroll up (1), go to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - let (1)
 
-#### Leaflet choropleth and discontinuous data
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-discontinuous-data?u=76281980)
+#### [Leaflet choropleth and discontinuous data](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-discontinuous-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2899,7 +2851,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-discontinuous-data?u=76281980&t=292)** And at the moment it doesn't look like there are any regions that have NA values.
 >
-> **[4:56](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-discontinuous-data?u=76281980&t=296)** However, the benefit of a leaflet map is we can zoom in.
+> **[4:56](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-discontinuous-data?u=76281980&t=296)** However, the benefit of a leaflet map is we can [[Zoom]] in.
 >
 > **[5:00](https://www.linkedin.com/learning/creating-maps-with-r/leaflet-choropleth-and-discontinuous-data?u=76281980&t=300)** So if I zoom in on the East Coast here we can see there is an NA region, which is the District of Columbia or more commonly known as Washington DC.
 >
@@ -2917,14 +2869,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), known as (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
 
-#### Set a background color with leaflet.extras
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/set-a-background-color-with-leaflet-extras?u=76281980)
+#### [Set a background color with leaflet.extras](https://www.linkedin.com/learning/creating-maps-with-r/set-a-background-color-with-leaflet-extras?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2962,8 +2913,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - oftentimes (1)
 
-#### Challenge: Add pop-up labels to a map of German cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/challenge-add-pop-up-labels-to-a-map-of-german-cities?u=76281980)
+#### [Challenge: Add pop-up labels to a map of German cities](https://www.linkedin.com/learning/creating-maps-with-r/challenge-add-pop-up-labels-to-a-map-of-german-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2981,8 +2931,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add pop-up labels to a map of German cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/solution-add-pop-up-labels-to-a-map-of-german-cities?u=76281980)
+#### [Solution: Add pop-up labels to a map of German cities](https://www.linkedin.com/learning/creating-maps-with-r/solution-add-pop-up-labels-to-a-map-of-german-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3054,7 +3003,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/creating-maps-with-r/solution-add-pop-up-labels-to-a-map-of-german-cities?u=76281980&t=217)** And let's start out by using just paste.
 >
-> **[3:41](https://www.linkedin.com/learning/creating-maps-with-r/solution-add-pop-up-labels-to-a-map-of-german-cities?u=76281980&t=221)** So we're going to put in the city name, we're going to put in a line break which is the <br> HTML tag, and then population.
+> **[3:41](https://www.linkedin.com/learning/creating-maps-with-r/solution-add-pop-up-labels-to-a-map-of-german-cities?u=76281980&t=221)** So we're going to put in the city name, we're going to put in a line break which is the <br> [[HTML]] tag, and then population.
 >
 > **[3:53](https://www.linkedin.com/learning/creating-maps-with-r/solution-add-pop-up-labels-to-a-map-of-german-cities?u=76281980&t=233)** Okay. So let's run line 31 through 23 and let's go into our addCircleMarkers, add a comma and popup is equal to tilde popup_city_pop.
 >
@@ -3090,15 +3039,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** germany_cities (4), city_type (4), pal_city_type (3), popup_city_pop (2), colorfactor (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** html (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Interactive choropleth of state coastline length
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/challenge-interactive-choropleth-of-state-coastline-length?u=76281980)
+#### [Challenge: Interactive choropleth of state coastline length](https://www.linkedin.com/learning/creating-maps-with-r/challenge-interactive-choropleth-of-state-coastline-length?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3112,13 +3060,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Interactive choropleth of state coastline length
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/solution-interactive-choropleth-of-state-coastline-length?u=76281980)
+#### [Solution: Interactive choropleth of state coastline length](https://www.linkedin.com/learning/creating-maps-with-r/solution-interactive-choropleth-of-state-coastline-length?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3218,7 +3164,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (2)
 > **Env Vars:** hdml (4)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2)
@@ -3231,8 +3176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Base maps and tiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980)
+#### [Base maps and tiles](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3260,9 +3204,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980&t=68)** Discuss these issues with your colleagues, clients, and cultural experts.
 >
-> **[1:14](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980&t=74)** Map tiles, an awesome feature with interactive maps where many base maps are combined together to create an effect where users can zoom and pan around a map seamlessly.
+> **[1:14](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980&t=74)** Map tiles, an awesome feature with interactive maps where many base maps are combined together to create an effect where users can [[Zoom]] and pan around a map seamlessly.
 >
-> **[1:25](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980&t=85)** You'll have experienced these map tiles when using a mapping service like Google Maps or Apple Maps.
+> **[1:25](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980&t=85)** You'll have experienced these map tiles when using a mapping service like [[Google]] Maps or Apple Maps.
 >
 > **[1:31](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980&t=91)** When it comes to using base maps for {ggplot2}, we don't have the ability to use map tiles, because the maps are static.
 >
@@ -3362,15 +3306,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Google]] (3), api (2), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Google]] (3)
 > **Code Identifiers:** annotation_map_tile (2), geom_sf (2), brazil_sf (1), addprovidertiles (1), satelliteday (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - base (1)
 
-#### What are projections and CRS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/what-are-projections-and-crs?u=76281980)
+#### [What are projections and CRS?](https://www.linkedin.com/learning/creating-maps-with-r/what-are-projections-and-crs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3396,7 +3339,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/creating-maps-with-r/what-are-projections-and-crs?u=76281980&t=45)** The one where Greenland looks much larger than the continent of Africa.
 >
-> **[0:49](https://www.linkedin.com/learning/creating-maps-with-r/what-are-projections-and-crs?u=76281980&t=49)** It uses the Web Mercator projection and was popularized by Google Maps because it worked really well for maps of the USA.
+> **[0:49](https://www.linkedin.com/learning/creating-maps-with-r/what-are-projections-and-crs?u=76281980&t=49)** It uses the Web Mercator projection and was popularized by [[Google]] Maps because it worked really well for maps of the USA.
 >
 > **[0:57](https://www.linkedin.com/learning/creating-maps-with-r/what-are-projections-and-crs?u=76281980&t=57)** And originally, the Google Maps product was focused on customers in the USA.
 >
@@ -3436,13 +3379,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Google]] (2), feature (1), product (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Env Vars:** crs (6), usa (2), epsg (2), gif (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Geographics vs. projected CRS
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/geographics-vs-projected-crs?u=76281980)
+#### [Geographics vs. projected CRS](https://www.linkedin.com/learning/creating-maps-with-r/geographics-vs-projected-crs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3488,15 +3430,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), gis (1)
 > **Env Vars:** crs (15), gis (1)
 > **Warnings:** be careful (2)
 > **Code Identifiers:** st_buffer (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to choose CRS and use them with {sf}
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-crs-and-use-them-with-sf?u=76281980)
+#### [How to choose CRS and use them with {sf}](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-crs-and-use-them-with-sf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3548,7 +3488,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-crs-and-use-them-with-sf?u=76281980&t=165)** So, I'll move this rectangle down here and you can see down here there's a map that zooms in on that area.
 >
-> **[2:51](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-crs-and-use-them-with-sf?u=76281980&t=171)** I can also zoom in like this, and so I could say I'm only interested in this region.
+> **[2:51](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-crs-and-use-them-with-sf?u=76281980&t=171)** I can also [[Zoom]] in like this, and so I could say I'm only interested in this region.
 >
 > **[2:58](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-crs-and-use-them-with-sf?u=76281980&t=178)** Once we've selected our region of interest, we can choose which distortion property we want to preserve, if we want equal area conformal or equidistant projections.
 >
@@ -3578,7 +3518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[Search]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** crs (14), epsg (3), nzgd (3), wkt (2)
 > **URLs:** [projectionwizard.org](https://projectionwizard.org) (2), [epsg.io](https://epsg.io) (1)
 > **UI Navigation:** go to (1), select the (1), scroll up (1)
@@ -3592,8 +3532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What else can you learn about creating maps in R?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980)
+#### [What else can you learn about creating maps in R?](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3603,7 +3542,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980&t=12)** You also had to learn a little bit about GIS Theory and you should now feel well-equipped to wrangle addresses, shape files, and other location data by combining together the sf package with the Tidyverse.
 >
-> **[0:24](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980&t=24)** If you're interested in creating dashboards that contain interactive maps, I'd highly recommend checking out my course on Building Shiny Apps.
+> **[0:24](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980&t=24)** If you're interested in creating [[Dashboards]] that contain interactive maps, I'd highly recommend checking out my course on Building Shiny Apps.
 >
 > **[0:33](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980&t=33)** If you're looking for more experience with a Tidyverse, then please do check out my dedicated course, Introducing the Tidyverse and the Concepts of Tidy Data.
 >
@@ -3611,7 +3550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gis (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Env Vars:** gis (1)
 > **Speakers:** - [charlie] (1)
 

@@ -87,22 +87,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980)
+#### [Introduction and setup](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=0)** - [Daniel] Welcome to the course, my name is Daniel, and I'm super excited to teach you the foundations of Scala and functional programming in this course.
+> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=0)** - [Daniel] Welcome to the course, my name is Daniel, and I'm super excited to teach you the foundations of [[Scala]] and [[Functional Programming]] in this course.
 >
 > **[0:06](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=6)** This video will be a short introduction to how the course is structured and how to get started.
 >
 > **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=11)** My name is Daniel, and I am a Scala software engineer and instructor.
 >
-> **[0:15](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=15)** At the moment of this recording, my courses on Scala and functional programming have reached more than 80,000 people, and I've had the privilege of training teams at Apple, Adobe, Google, and other top companies in the world.
+> **[0:15](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=15)** At the moment of this recording, my courses on Scala and functional programming have reached more than 80,000 people, and I've had the privilege of training teams at Apple, Adobe, [[Google]], and other top companies in the world.
 >
 > **[0:26](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=26)** Now, I'm not seeing this all to impress you, but rather just to tell you that you're in good hands for this course.
 >
-> **[0:31](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=31)** I also made a website called rockthejvm, which is where you can find in-depth online courses for everything in the Scala world, including the Scala language, up to a very advanced level, interview problems, tools, and libraries like Cats Effect and ZIO, big data and streaming with Apache Spark, Apache Flink, and many others.
+> **[0:31](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=31)** I also made a website called rockthejvm, which is where you can find in-depth online courses for everything in the Scala world, including the Scala language, up to a very advanced level, interview problems, tools, and libraries like Cats Effect and ZIO, [[Big Data]] and streaming with [[Apache Spark]], Apache Flink, and many others.
 >
 > **[0:48](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=48)** So if you're interested in a complete Scala journey, you have everything you need at rockthejvm, and also, if you need anything or require corporate training about Scala or tools in the space, you can reach out to me at daniel@[rockthejvm.com](https://rockthejvm.com).
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=74)** First of all, you'll learn the Scala basics, including language syntax and structure.
 >
-> **[1:18](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=78)** Then we will go into object-oriented programming and then into functional programming, which is why I've also structured this course into chapters for these exact objectives.
+> **[1:18](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=78)** Then we will go into [[Object-Oriented Programming (OOP)|object-oriented programming]] and then into functional programming, which is why I've also structured this course into chapters for these exact objectives.
 >
 > **[1:27](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=87)** More importantly, you'll learn mental models which are more valuable than the Scala language itself, in my opinion, including how to think and approach code differently, how to write expression-oriented code, how to have multiple solutions at your disposal to the same problem so that you can pick the right one, and also foundational skills to go deeper into Scala if you want.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=134)** We need two pieces of software to install.
 >
-> **[2:16](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=136)** One is a Java distribution because Scala works on top of the Java virtual machine or JVM.
+> **[2:16](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=136)** One is a [[Java]] distribution because Scala works on top of the Java virtual machine or JVM.
 >
 > **[2:23](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=143)** So make sure you hit Java 21 download.
 >
@@ -136,7 +135,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=152)** Hit Java Downloads here.
 >
-> **[2:33](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=153)** This is the Oracle page, and you'll have a list for JDK, the Java Development Kit for version 21 for Linux, Mac, windows, and all major CPU architectures.
+> **[2:33](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=153)** This is the Oracle page, and you'll have a list for JDK, the Java Development Kit for version 21 for [[Linux]], Mac, [[Windows]], and all major CPU architectures.
 >
 > **[2:45](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=165)** So pause the video now and download the appropriate JDK installer for your platform.
 >
@@ -256,7 +255,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=446)** Com.rockthejvm.
 >
-> **[7:28](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=448)** This is a very standard naming style for packages on languages on top of the JVM, like Java, Kotlin, and Scala.
+> **[7:28](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=448)** This is a very standard naming style for packages on languages on top of the JVM, like Java, [[Kotlin]], and Scala.
 >
 > **[7:35](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980&t=455)** This is just the reverse way of saying [rockthejvm.com](https://rockthejvm.com).
 >
@@ -300,7 +299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (37), hit (12), [[Java]] (9), application (6), [[Functional Programming]] (3)
+> **Frameworks & Libraries:** [[Scala]] (37), [[Java]] (9), [[Functional Programming]] (3), [[Windows]] (2), [[Google]] (1)
 > **Env Vars:** idea (9), jdk (6), ide (4), jvm (3), zio (1)
 > **Tools:** intellij (15)
 > **Prerequisites:** install (10), set up (3), make sure you have (1)
@@ -314,14 +313,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Values and types
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980)
+#### [Values and types](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=0)** - [Instructor] All right, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=1)** So at this point it's time to start writing some code, and we cannot really write any Scala code without understanding values and types, which is why this is our first lesson in the course.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=1)** So at this point it's time to start writing some code, and we cannot really write any [[Scala]] code without understanding values and types, which is why this is our first lesson in the course.
 >
 > **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=12)** Now without further ado, I'm going to jump straight into the project that we ended up with at the end of the previous video.
 >
@@ -375,7 +373,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=155)** If you've done other programming languages before, this is equivalent to defining a constant.
 >
-> **[2:39](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=159)** So if you've done any C#, or C++, or Java, or JavaScript, this would be equivalent of defining a constant, like constant in meaningOfLife equals 42.
+> **[2:39](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=159)** So if you've done any C#, or C++, or [[Java]], or [[JavaScript]], this would be equivalent of defining a constant, like constant in meaningOfLife equals 42.
 >
 > **[2:51](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=171)** This is the equivalent Java declaration or the C-like syntax.
 >
@@ -419,7 +417,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=284)** If you want to see this sort of popup by hovering over the variable or method or class or whatever type you want to see documentation for, and you don't see this pop up, there is a setting an Intellij idea.
 >
-> **[4:56](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=296)** You can click on the Intellij idea and click on settings or file preferences on Windows.
+> **[4:56](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=296)** You can click on the Intellij idea and click on settings or file preferences on [[Windows]].
 >
 > **[5:01](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=301)** And here in the search bar you can search for a quick documentation.
 >
@@ -447,7 +445,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=356)** So notice the single codes.
 >
-> **[5:57](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=357)** Single codes are not strings like they are in Python or in JavaScript.
+> **[5:57](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=357)** Single codes are not strings like they are in [[Python (Programming Language)|Python]] or in JavaScript.
 >
 > **[6:01](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980&t=361)** So be very careful with that.
 >
@@ -503,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (16), application (5), hit (3), [[Java]] (3), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[Scala]] (16), [[Java]] (3), [[JavaScript]] (3), [[Python (Programming Language)|Python]] (2), [[Windows]] (1)
 > **Definitions:** is a  (10), is an  (4), is called (2)
 > **Code Identifiers:** meaningoflife (5), achar (1), along (1)
 > **Tools:** intellij (5)
@@ -512,8 +510,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (3)
 > **Analogies:** for example (2)
 
-#### Expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980)
+#### [Expressions](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=6)** So for this video, I'm going to create a separate application that you can use for this particular lesson.
 >
-> **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=11)** So I'm going to right-click on the part1basics chapter, and I'm going to create a new Scala file, I'm going to call this Expressions.
+> **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=11)** So I'm going to right-click on the part1basics chapter, and I'm going to create a new [[Scala]] file, I'm going to call this Expressions.
 >
 > **[0:19](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=19)** I'm going to make it an object as before.
 >
@@ -553,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=70)** So there are mathematical expressions that evaluate to a number.
 >
-> **[1:14](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=74)** So obviously you have expressions that compose plus, minus, times, divisions, and then bitwise operators like and, or, and then bit-shift and so on and so forth.
+> **[1:14](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=74)** So obviously you have expressions that [[Jetpack Compose|compose]] plus, minus, times, divisions, and then bitwise operators like and, or, and then bit-shift and so on and so forth.
 >
 > **[1:31](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=91)** So there are various mathematical operators that evaluate to a number depending on how they are used.
 >
@@ -599,7 +596,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=209)** And this is an example of a Boolean expression.
 >
-> **[3:31](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=211)** And obviously in real code, we use a various forms of expressions that evaluate the true or false because Boolean expressions are critical for us to evaluate control flow.
+> **[3:31](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=211)** And obviously in real code, we use a various [[Forms]] of expressions that evaluate the true or false because Boolean expressions are critical for us to evaluate [[Control Flow]].
 >
 > **[3:41](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=221)** Which bring us to if expressions.
 >
@@ -629,7 +626,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=302)** So look at that.
 >
-> **[5:05](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=305)** This idea is very, very important as we proceed in getting more advanced with Scala and later, functional programming.
+> **[5:05](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=305)** This idea is very, very important as we proceed in getting more advanced with Scala and later, [[Functional Programming]].
 >
 > **[5:13](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=313)** Now at the time of recording, we're recording in Scala 3.3, which means that we have multiple ways of expressing the same structure with different syntax forms.
 >
@@ -711,7 +708,7 @@ created: 2026-05-02
 >
 > **[9:52](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=592)** And deindentation means end block.
 >
-> **[9:59](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=599)** Now, some may argue, and this is the reason why the syntax was introduced, that this indentation-based syntax is a little cleaner because you don't have these extra tokens that will clog your mind.
+> **[9:59](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=599)** Now, some may argue, and this is the reason why the syntax was introduced, that this indentation-based syntax is a little cleaner because you don't have these extra [[Tokens]] that will clog your mind.
 >
 > **[10:09](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=609)** But I do believe that especially for beginners, these curly braces separate things much easier.
 >
@@ -737,7 +734,7 @@ created: 2026-05-02
 >
 > **[11:36](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=696)** So it's quite easier to make mistakes when you're using indentation.
 >
-> **[11:41](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=701)** So I recommend that we stick with the curly brace syntax for the rest of the course.
+> **[11:41](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=701)** So I recommend that we stick with the curly brace syntax for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[11:46](https://www.linkedin.com/learning/scala-essential-training-2023/expressions?u=76281980&t=706)** Okay, now before we wrap up this video, I want to show you a powerful construct in Scala that's called pattern matching.
 >
@@ -791,7 +788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (17), [[Programming]] (6), application (3), [[Jetpack Compose|Compose]] (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Scala]] (17), [[Jetpack Compose|Compose]] (2), [[Forms]] (2), [[Control Flow]] (1), [[Functional Programming]] (1)
 > **Code Identifiers:** equalitytest (10), localvalue (7), somevalue (7), acodeblock (3), meaningoflife (1)
 > **Definitions:** is an  (11), is a  (5), means that (2)
 > **Analogies:** for example (8), it's like (1)
@@ -800,14 +797,13 @@ created: 2026-05-02
 > **Versions:** version 2 (2), 3.3 (1), 3.0 (1)
 > **Warnings:** warning (3)
 
-#### Variables and instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980)
+#### [Variables and instructions](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=0)** - [Instructor] All right, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=1)** The next fundamental building block in Scala is variables, control structures, and the concept of instructions.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=1)** The next fundamental building block in [[Scala]] is variables, control structures, and the concept of instructions.
 >
 > **[0:08](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=8)** So let's get back to soon to become our favorite project.
 >
@@ -831,7 +827,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=65)** Here's a variable, repeat 10, do something else, and so on and so forth.
 >
-> **[1:09](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=69)** So we have various forms of specifying the computer, step by step, what it's supposed to do.
+> **[1:09](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=69)** So we have various [[Forms]] of specifying the computer, step by step, what it's supposed to do.
 >
 > **[1:15](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=75)** And by these fundamental building blocks, we call them instructions, we end up with very complicated pieces of software.
 >
@@ -839,9 +835,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=91)** So we say that instructions are executed.
 >
-> **[1:35](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=95)** Now, in Scala and in other functional programming languages, we tend to think of structures that evaluate to a value.
+> **[1:35](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=95)** Now, in Scala and in other [[Functional Programming]] languages, we tend to think of structures that evaluate to a value.
 >
-> **[1:46](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=106)** When we say 2 + 3, we have various forms of data structures that compose with one another, like I/O effects.
+> **[1:46](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=106)** When we say 2 + 3, we have various forms of [[Data Structures]] that [[Jetpack Compose|compose]] with one another, like I/O effects.
 >
 > **[1:53](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=113)** We have map, flatMap, filter, and things of that sort, and they are evaluated.
 >
@@ -853,7 +849,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=134)** This is a simple but fundamental difference in the way that we think and approach code.
 >
-> **[2:19](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=139)** And in Scala, for the rest of this course, we will tend to think in functional programming.
+> **[2:19](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=139)** And in Scala, for the [[Representational State Transfer (REST)|rest]] of this course, we will tend to think in functional programming.
 >
 > **[2:24](https://www.linkedin.com/learning/scala-essential-training-2023/variables-and-instructions?u=76281980&t=144)** But this particular lesson will teach you the imperative programming in Scala so that you can recognize these structures in code as well.
 >
@@ -977,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (24), [[Programming]] (6), application (4), [[Functional Programming]] (4), data (3)
+> **Frameworks & Libraries:** [[Scala]] (24), [[Functional Programming]] (4), [[Forms]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Data Structures]] (1)
 > **Definitions:** is an  (9), is a  (3), is called (3), we call this (1)
 > **Code Identifiers:** thenumber (4), flatmap (1), val_printing (1), avariable (1)
 > **Analogies:** for example (4)
@@ -985,14 +981,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=0)** - [Instructor] Alright, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=1)** Another fundamental building block in Scala, and that is functions.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=1)** Another fundamental building block in [[Scala]], and that is functions.
 >
 > **[0:05](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=5)** So, back in our project, I'm going to right-click on the part1basics, Create New Scala Application, call this Functions.
 >
@@ -1068,7 +1063,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=243)** Now the reason why I've defined this function and I named it aVoidFunction because the equivalent of the unit type in other programming languages is void.
 >
-> **[4:13](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=253)** So a Unit is the same as void in other languages, like Java or C, or C++, or many other languages that use the void keyword.
+> **[4:13](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=253)** So a Unit is the same as void in other languages, like [[Java]] or C, or C++, or many other languages that use the void keyword.
 >
 > **[4:25](https://www.linkedin.com/learning/scala-essential-training-2023/functions?u=76281980&t=265)** So this is just to make a connection between Unit and other programming languages that use the void type.
 >
@@ -1162,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (9), [[Programming]] (6), application (2), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (9), [[Java]] (1)
 > **Code Identifiers:** astring (8), aninvocation (2), avoidfunction (2), afunction (1), functionwithsideeffects (1)
 > **Analogies:** for example (7), just like (2), such as (1)
 > **Definitions:** is an  (3), is a  (3), means that (2), is called (1)
@@ -1171,8 +1166,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (2)
 > **Prerequisites:** you'll need (1)
 
-#### Recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980)
+#### [Recursion](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,9 +1182,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=28)** So what is recursion? Recursion is the mechanism by which a function can refer to itself.
 >
-> **[0:33](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=33)** And this is the mechanism in which in functional programming we simulate repetition.
+> **[0:33](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=33)** And this is the mechanism in which in [[Functional Programming]] we simulate repetition.
 >
-> **[0:37](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=37)** So as I mentioned earlier, in the rest of this course, we will think in terms of expressions and therefore we will try to avoid instructions.
+> **[0:37](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=37)** So as I mentioned earlier, in the [[Representational State Transfer (REST)|rest]] of this course, we will think in terms of expressions and therefore we will try to avoid instructions.
 >
 > **[0:46](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=46)** That is expressions returning unit and that includes variables and loops.
 >
@@ -1230,7 +1224,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=151)** So this is the general technique that we would approach in imperative terms, telling the computer step by step what it needs to do to calculate the sum of all numbers up to N.
 >
-> **[2:41](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=161)** In Scala and in functional programming we will try to use recursion and expression oriented programming.
+> **[2:41](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=161)** In [[Scala]] and in functional programming we will try to use recursion and expression oriented programming.
 >
 > **[2:47](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=167)** Let's see how we would think this sort of result like sum n in recursive terms.
 >
@@ -1380,7 +1374,7 @@ created: 2026-05-02
 >
 > **[10:40](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=640)** Now the test divisor function should probably be called test divisors plural.
 >
-> **[10:46](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=646)** And the way that I did that is command option R on the Mac and I think there is an equivalent CTRL Alt R on Windows on IntelliJ if you want to rename a function like this.
+> **[10:46](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=646)** And the way that I did that is command option R on the Mac and I think there is an equivalent CTRL Alt R on [[Windows]] on IntelliJ if you want to rename a function like this.
 >
 > **[10:57](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=657)** So this function tests all the divisors from D all the way to N divided by two.
 >
@@ -1400,7 +1394,7 @@ created: 2026-05-02
 >
 > **[11:42](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=702)** I'm just going to keep it simple.
 >
-> **[11:43](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=703)** Otherwise, if N is equal to one, I'm also going to return false because in mathematical terms, the number one is not a prime and also not a compose number.
+> **[11:43](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=703)** Otherwise, if N is equal to one, I'm also going to return false because in mathematical terms, the number one is not a prime and also not a [[Jetpack Compose|compose]] number.
 >
 > **[11:56](https://www.linkedin.com/learning/scala-essential-training-2023/recursion?u=76281980&t=716)** So one is a special number because it only has the potential divisor one and negative one.
 >
@@ -1460,7 +1454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[Scala]] (5), application (2), [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Scala]] (5), [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (7), means that (3), known as (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
@@ -1469,8 +1463,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recursion: Exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-exercise?u=76281980)
+#### [Recursion: Exercise](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,7 +1477,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-exercise?u=76281980&t=21)** So for example, I'm going to write the function definition for you, so let's call this concatenate N, which takes a string as an argument, and a number N, which is an integer, and this returns a string.
 >
-> **[0:33](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-exercise?u=76281980&t=33)** I'm going to hit some question marks so that the compiler can be happy, and concatenate N, concatenate N, for example, with the string Scala, and the number three should return us the string ScalaScalaScala exactly like this.
+> **[0:33](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-exercise?u=76281980&t=33)** I'm going to hit some question marks so that the compiler can be happy, and concatenate N, concatenate N, for example, with the string [[Scala]], and the number three should return us the string ScalaScalaScala exactly like this.
 >
 > **[0:52](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-exercise?u=76281980&t=52)** If you want concatenate two strings, for example, Scala plus rocks, this will be ScalaRocks.
 >
@@ -1530,14 +1523,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Scala]] (3), hit (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Scala]] (3)
 > **Analogies:** for example (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recursion: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-solution?u=76281980)
+#### [Recursion: Solution](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1577,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-solution?u=76281980&t=97)** So I'm going to comment this Fibonacci for a moment so that my application doesn't crash so that we can see the result that is expected from us.
 >
-> **[1:45](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-solution?u=76281980&t=105)** So concatenate N with scala and 3 should give us back the string, scala, scala, scala.
+> **[1:45](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-solution?u=76281980&t=105)** So concatenate N with [[Scala]] and 3 should give us back the string, scala, scala, scala.
 >
 > **[1:49](https://www.linkedin.com/learning/scala-essential-training-2023/recursion-solution?u=76281980&t=109)** Let's see how this works.
 >
@@ -1671,21 +1663,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (11), next (4), [[Programming]] (3), application (2), express (1)
+> **Frameworks & Libraries:** [[Scala]] (11)
 > **Definitions:** is called (3), is a  (1)
 > **Analogies:** for example (3), similar to (1)
 > **Cross-References:** previous video (2), in the next (1)
 > **Documentation:** stack overflow (3)
 > **Speakers:** - [instructor] (1)
 
-#### String interpolation
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980)
+#### [String interpolation](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=0)** - [Instructor] All right, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=1)** So still in the basic chapter, I want to show you some string operations that you'll need for the rest of this course and very likely for the rest of your experience with the Scala programming language.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=1)** So still in the basic chapter, I want to show you some string operations that you'll need for the [[Representational State Transfer (REST)|rest]] of this course and very likely for the rest of your experience with the [[Scala]] programming language.
 >
 > **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=11)** So here in the basics chapter, I'm going to Right Click new Scala class file, I'm going to call this StringOperations, and I'm going to make an object as before, with a main method for running this application.
 >
@@ -1697,7 +1688,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=45)** Now strings have functions attached to them and we call those methods.
 >
-> **[0:52](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=52)** You may have heard the term in other programming languages like Java.
+> **[0:52](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=52)** You may have heard the term in other programming languages like [[Java]].
 >
 > **[0:56](https://www.linkedin.com/learning/scala-essential-training-2023/string-interpolation?u=76281980&t=56)** We have methods attached to strings.
 >
@@ -1815,7 +1806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (12), [[Java]] (5), next (3), [[Representational State Transfer (REST)|Rest]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Scala]] (12), [[Java]] (5), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** astring (10), findindex (3), tostring (2), starswithscala (1), startswith (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (4)
@@ -1829,14 +1820,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classes, instances, fields, and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980)
+#### [Classes, instances, fields, and methods](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=0)** - [Instructor] All right, welcome back and welcome to a new chapter.
 >
-> **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=3)** Scala is a language that blends object-oriented programming and functional programming into a very expressive language.
+> **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=3)** [[Scala]] is a language that blends [[Object-Oriented Programming (OOP)|object-oriented programming]] and [[Functional Programming]] into a very expressive language.
 >
 > **[0:10](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=10)** And in this chapter, we're going to deal with one of those pieces, which is object-oriented programming.
 >
@@ -1872,7 +1862,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=91)** And that uses the new keyword.
 >
-> **[1:33](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=93)** And you may have seen this new keyword in other programming languages, maybe Java, maybe C++ or things of that sort.
+> **[1:33](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=93)** And you may have seen this new keyword in other programming languages, maybe [[Java]], maybe C++ or things of that sort.
 >
 > **[1:40](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980&t=100)** You may have seen this before.
 >
@@ -2000,7 +1990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (5), [[Programming]] (4), data (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Scala]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Functional Programming]] (1), [[Java]] (1)
 > **Definitions:** is a  (5), is called (5)
 > **Code Identifiers:** allcaps (3), touppercase (1), danielname (1)
 > **Analogies:** for example (5)
@@ -2009,8 +1999,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **UI Navigation:** right-click (1)
 
-#### Classes, instances, and methods: Exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-exercise?u=76281980)
+#### [Classes, instances, and methods: Exercise](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,7 +2053,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** oop (2), data (2), next (2)
 > **Cross-References:** previous video (2), in the next (2)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (2)
@@ -2072,8 +2060,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classes, instances, and methods: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-solution?u=76281980)
+#### [Classes, instances, and methods: Solution](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2115,7 +2102,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-solution?u=76281980&t=80)** That's essentially it.
 >
-> **[1:22](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-solution?u=76281980&t=82)** Now in Scala, you can choose whether to have any arguments to a method or not.
+> **[1:22](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-solution?u=76281980&t=82)** Now in [[Scala]], you can choose whether to have any arguments to a method or not.
 >
 > **[1:27](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-and-methods-solution?u=76281980&t=87)** So you can cut out the parentheses if you want to make them look like fields, although they're methods.
 >
@@ -2273,7 +2260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Scala]] (1), application (1)
+> **Frameworks & Libraries:** [[Scala]] (1)
 > **Code Identifiers:** yearofbirth (9), ownerage (9), driverimposter (8), isownedby (7), firstname (5)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
@@ -2282,8 +2269,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Method notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980)
+#### [Method notation](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2291,7 +2277,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=1)** This video is about infix method notations.
 >
-> **[0:04](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=4)** That is an alternative syntax in Scala to call methods with exactly one argument.
+> **[0:04](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=4)** That is an alternative syntax in [[Scala]] to call methods with exactly one argument.
 >
 > **[0:10](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=10)** As you'll see, this method notation will allow Scala to behave very much like natural English.
 >
@@ -2471,7 +2457,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=475)** The apply method can take any number of arguments and any types of those arguments.
 >
-> **[8:00](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=480)** And the apply method is treated in a particular way by the compiler in the sense that if you have an instance of person and you call the apply method, you might omit the apply word altogether.
+> **[8:00](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=480)** And the apply method is treated in a particular way by the compiler in the sense that if you have an instance of person and you call the apply method, you might omit the apply [[Microsoft Word|word]] altogether.
 >
 > **[8:09](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=489)** Let me give you an example.
 >
@@ -2495,7 +2481,7 @@ created: 2026-05-02
 >
 > **[8:57](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=537)** And this is particularly important because it allows us to invoke instances of classes on arguments as if they were functions.
 >
-> **[9:06](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=546)** And this is particularly important for functional programming as we will see in the next chapter.
+> **[9:06](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=546)** And this is particularly important for [[Functional Programming]] as we will see in the next chapter.
 >
 > **[9:10](https://www.linkedin.com/learning/scala-essential-training-2023/method-notation?u=76281980&t=550)** So alice invoked on the argument Scala is the same as alice.apply with the argument Scala.
 >
@@ -2533,7 +2519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (21), [[Programming]] (14), application (2), [[Microsoft Word|Word]] (2), [[Functional Programming]] (2)
+> **Frameworks & Libraries:** [[Scala]] (21), [[Microsoft Word|Word]] (2), [[Functional Programming]] (2)
 > **Definitions:** is a  (10), is an  (2), is called (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** proglang (2)
@@ -2542,16 +2528,15 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [lecturer] (1)
 
-#### Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980)
+#### [Inheritance](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=0)** - [Instructor] All right, welcome back to the object-oriented programming chapter.
+> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=0)** - [Instructor] All right, welcome back to the [[Object-Oriented Programming (OOP)|object-oriented programming]] chapter.
 >
 > **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=3)** This video is particularly important because we're going to talk about inheritance, which is a critical concept in object-oriented programming.
 >
-> **[0:09](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=9)** So under the part two OOP, I'm going to create another Scala application, I'm going to call this Inheritance.
+> **[0:09](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=9)** So under the part two OOP, I'm going to create another [[Scala]] application, I'm going to call this Inheritance.
 >
 > **[0:15](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=15)** I'm going to mark an object and I'm going to type in a main for whatever tests we need to make.
 >
@@ -2577,7 +2562,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=104)** So notice that I already have access to the gameType field just by the structure extends VideoGame.
 >
-> **[1:50](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=110)** And by the way, this sort of structure like extends VideoGame is present in many other programming languages like Java, or TypeScript, or things of that sort.
+> **[1:50](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=110)** And by the way, this sort of structure like extends VideoGame is present in many other programming languages like [[Java]], or TypeScript, or things of that sort.
 >
 > **[2:00](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=120)** And there are equivalent syntaxes for other languages that use OOP very similar to this one.
 >
@@ -2629,7 +2614,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=271)** So the class Adult, because it has no constructor arguments, must pass some constructor arguments to the Person class that it's inheriting from.
 >
-> **[4:40](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=280)** So for example, I can say the name is John Doe, and age is zero, or something like that.
+> **[4:40](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=280)** So for example, I can say the name is [[John the Ripper|John]] Doe, and age is zero, or something like that.
 >
 > **[4:46](https://www.linkedin.com/learning/scala-essential-training-2023/inheritance?u=76281980&t=286)** So notice that the compiling error goes away, so that by the end of the day when I'm doing val, let's call this daniel as a new Adult, the creation of new Adult actually involves the creation of a person with the right constructor arguments, John Doe and zero.
 >
@@ -2661,7 +2646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), oop (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Scala]] (2), application (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Scala]] (2), [[Java]] (1)
 > **Code Identifiers:** gametype (5)
 > **Env Vars:** oop (3), fps (1)
 > **Definitions:** is a  (4)
@@ -2670,8 +2655,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overriding, polymorphism, and anonymous classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980)
+#### [Overriding, polymorphism, and anonymous classes](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2709,7 +2693,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=102)** All right, so we provided a new implementation or a new value for this field.
 >
-> **[1:47](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=107)** So that is called overriding and it's marked by the Scala compiler with the keyword override.
+> **[1:47](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=107)** So that is called overriding and it's marked by the [[Scala]] compiler with the keyword override.
 >
 > **[1:54](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=114)** You can also override methods as well by saying override and the ID offers to auto-complete some definitions for you.
 >
@@ -2759,7 +2743,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=279)** And therefore when you call gameType or play, it will be referred from the actual class instead.
 >
-> **[4:45](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=285)** Now this concept is very popular in object-oriented programming languages like Java or C# or C++.
+> **[4:45](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=285)** Now this concept is very popular in [[Object-Oriented Programming (OOP)|object-oriented programming]] languages like [[Java]] or C# or C++.
 >
 > **[4:52](https://www.linkedin.com/learning/scala-essential-training-2023/overriding-polymorphism-and-anonymous-classes?u=76281980&t=292)** The concept in C++ is called virtual methods and many other object-oriented languages of the same kind.
 >
@@ -2805,7 +2789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (5), game (4), oop (3), next (2), application (2)
+> **Frameworks & Libraries:** [[Scala]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **Env Vars:** rpg (7), oop (3)
 > **Definitions:** is called (4), is a  (3), refers to (1)
 > **Code Identifiers:** gametype (7)
@@ -2813,14 +2797,13 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Abstract classes and traits
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980)
+#### [Abstract classes and traits](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=0)** - [Instructor] All right, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=1)** So now that we have a good idea of how inheritance works, I am going to follow up with some concepts about abstract classes and traits that will enhance the power of inheritance in Scala.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=1)** So now that we have a good idea of how inheritance works, I am going to follow up with some concepts about abstract classes and traits that will enhance the power of inheritance in [[Scala]].
 >
 > **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=12)** So going back to our project under the Part two OOP chapter, I'm going to create a new Scala application.
 >
@@ -2868,7 +2851,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=180)** So I'm going to get back to the old definition so that we can comment it out.
 >
-> **[3:05](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=185)** So I can comment out this line with command slash or control slash on Windows if you want to use that.
+> **[3:05](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=185)** So I can comment out this line with command slash or control slash on [[Windows]] if you want to use that.
 >
 > **[3:12](https://www.linkedin.com/learning/scala-essential-training-2023/abstract-classes-and-traits?u=76281980&t=192)** So I cannot instantiate video game on its own or derived classes must be either abstract or with an MPL for game type.
 >
@@ -3056,7 +3039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (37), [[Scala]] (6), data (3), power (2), application (2)
+> **Frameworks & Libraries:** [[Scala]] (6), [[Windows]] (1)
 > **Analogies:** for example (8), just like (1)
 > **Env Vars:** mpl (2), fps (2), ps5 (2), oop (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
@@ -3064,14 +3047,13 @@ created: 2026-05-02
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### Objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980)
+#### [Objects](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=0)** - [Instructor] Alright, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=1)** This video is about objects which have a special meaning in Scala, not that of object oriented programming in general, where you usually refer to objects as instances of classes.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=1)** This video is about objects which have a special meaning in [[Scala]], not that of object oriented programming in general, where you usually refer to objects as instances of classes.
 >
 > **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=11)** So I'm going to create a new Scala application.
 >
@@ -3079,7 +3061,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=16)** And in this case, in this video, we're going to demystify the object keyword and I'm going to type in the main method, so that we might test some stuff.
 >
-> **[0:27](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=27)** Okay, now, for those of you coming from other object-oriented languages, you may have heard of object-oriented design patterns and you may have heard about the singleton pattern.
+> **[0:27](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=27)** Okay, now, for those of you coming from other object-oriented languages, you may have heard of object-oriented [[Design Patterns]] and you may have heard about the singleton pattern.
 >
 > **[0:37](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=37)** And the singleton pattern essentially ensures that you define a type with only one possible instance of that type.
 >
@@ -3147,7 +3129,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=236)** This is a regular pattern in programming in Scala.
 >
-> **[3:59](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=239)** So notice that we have these two little tokens that IntelliJ marks for us, these are half circles, meaning that they complete each other, they're companions.
+> **[3:59](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=239)** So notice that we have these two little [[Tokens]] that IntelliJ marks for us, these are half circles, meaning that they complete each other, they're companions.
 >
 > **[4:08](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=248)** So when you define an object next to a class in the same file with the same name, so object with the same name is called a companion object.
 >
@@ -3197,7 +3179,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=399)** And the way that we use companion objects is to store fields and methods that don't really depend on an instance of that class, and therefore we call them static.
 >
-> **[6:48](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=408)** And in other programming languages like Java, we have the static keywords that designates the exact same thing.
+> **[6:48](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=408)** And in other programming languages like [[Java]], we have the static keywords that designates the exact same thing.
 >
 > **[6:54](https://www.linkedin.com/learning/scala-essential-training-2023/objects?u=76281980&t=414)** Now, one last thing to demystify.
 >
@@ -3245,7 +3227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (13), application (5), next (5), [[Programming]] (3), [[Java]] (3)
+> **Frameworks & Libraries:** [[Scala]] (13), [[Java]] (3), [[Design Patterns]] (1), [[Tokens]] (1)
 > **Definitions:** is a  (7), is called (3), means that (1), refers to (1)
 > **Code Identifiers:** afield (4), amethod (3), thesingleton (1), anothersingleton (1), sayhi (1)
 > **Env Vars:** jvm (6)
@@ -3254,14 +3236,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** intellij (1)
 
-#### Case classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980)
+#### [Case classes](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=0)** - [Instructor] Okay, welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=2)** This video is about case classes, which are particular type of classes used for data structures.
+> **[0:02](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=2)** This video is about case classes, which are particular type of classes used for [[Data Structures]].
 >
 > **[0:07](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=7)** So let me create another lesson for another application for this lesson.
 >
@@ -3299,7 +3280,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=130)** Property number two is that case classes can be built without the new keyword.
 >
-> **[2:19](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=139)** Now in Scala three, the new keyword has been made redundant for all classes, but case classes in particular can be built without the new keyword because case classes have companion objects.
+> **[2:19](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=139)** Now in [[Scala]] three, the new keyword has been made redundant for all classes, but case classes in particular can be built without the new keyword because case classes have companion objects.
 >
 > **[2:30](https://www.linkedin.com/learning/scala-essential-training-2023/case-classes?u=76281980&t=150)** I'm going to talk about that in a moment.
 >
@@ -3531,7 +3512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), application (8), [[Scala]] (6), parallel (1), feature (1)
+> **Frameworks & Libraries:** [[Data Structures]] (7), [[Scala]] (6)
 > **Analogies:** for example (9), just like (1)
 > **Env Vars:** aca (4), peco (3), jvm (2)
 > **Definitions:** is called (2), is a  (2), means that (2)
@@ -3540,20 +3521,19 @@ created: 2026-05-02
 > **Code Identifiers:** petsimple (1)
 > **Prerequisites:** set up (1)
 
-#### Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980)
+#### [Exceptions](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=0)** - [Instructor] Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=1)** This video is about exceptions and the potential interruptions that you can encounter with your Scala applications.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=1)** This video is about exceptions and the potential interruptions that you can encounter with your [[Scala]] applications.
 >
 > **[0:07](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=7)** You may have encountered the concept of exceptions in other programming languages.
 >
 > **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=11)** Maybe they're called in a different way.
 >
-> **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=12)** Maybe they're called errors in Python or exceptions on JVM languages like Java or in C++.
+> **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=12)** Maybe they're called errors in [[Python (Programming Language)|Python]] or exceptions on JVM languages like [[Java]] or in C++.
 >
 > **[0:18](https://www.linkedin.com/learning/scala-essential-training-2023/exceptions?u=76281980&t=18)** In Scala, we have the same concept called exceptions, and because Scala runs on the JVM, the exception concept is very similar, if not identical, to that in Java.
 >
@@ -3759,7 +3739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[Scala]] (12), [[Java]] (4), [[Programming]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Scala]] (12), [[Java]] (4), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** sumn (15)
 > **Definitions:** is a  (6), is called (6), is an  (3)
 > **Analogies:** for example (9), similar to (1)
@@ -3768,14 +3748,13 @@ created: 2026-05-02
 > **Documentation:** stack overflow (2)
 > **Cross-References:** in the next (1)
 
-#### Generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980)
+#### [Generics](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=0)** - [Instructor] All right, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=1)** In this video we're going to talk about generics, which is super important for the Scala type system.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=1)** In this video we're going to talk about generics, which is super important for the [[Scala]] type system.
 >
 > **[0:06](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=6)** I'm going to go ahead and under the part two OP chapter, I'm going to create a new Scala application.
 >
@@ -3783,7 +3762,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=16)** And I'm going to make an object with a main method.
 >
-> **[0:20](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=20)** Now, word of warning, for those of you coming from dynamic programming languages, like JavaScript or Python, this lesson may be a little hard.
+> **[0:20](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=20)** Now, [[Microsoft Word|word]] of warning, for those of you coming from dynamic programming languages, like [[JavaScript]] or [[Python (Programming Language)|Python]], this lesson may be a little hard.
 >
 > **[0:28](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=28)** Now, generics or type arguments are elements introduced in the type system of a programming language, like Scala, to reuse code on potentially different types.
 >
@@ -3795,7 +3774,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=52)** A linked list is defined by two fundamental methods.
 >
-> **[0:54](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=54)** One is called, first, that returns an integer, and one is called rest of this list, which is an IntList.
+> **[0:54](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=54)** One is called, first, that returns an integer, and one is called [[Representational State Transfer (REST)|rest]] of this list, which is an IntList.
 >
 > **[1:03](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=63)** So if you have the list, one, two, three, four, five, as a linked list, the first number is one, and the rest of this list is two, three, four, five.
 >
@@ -3879,7 +3858,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=322)** The whole point of using types is that we can have some type information at compile time so that we're sure that, for example, this list only holds items of the same type.
 >
-> **[5:31](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=331)** Therefore strongly typed languages like Java and Scala, C++, TypeScript, and many others introduce the concept of type parameters or generics.
+> **[5:31](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=331)** Therefore strongly typed languages like [[Java]] and Scala, C++, TypeScript, and many others introduce the concept of type parameters or generics.
 >
 > **[5:44](https://www.linkedin.com/learning/scala-essential-training-2023/generics?u=76281980&t=344)** And the way that we would solve this sort of problem, instead of duplicating or removing type signatures, is to define, I'm going to copy this entire representation, but I'm going to generalize it.
 >
@@ -4007,7 +3986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (24), [[Scala]] (10), application (4), [[Programming]] (4), generic (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (24), [[Scala]] (10), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (8), is a  (6), is called (2)
 > **Analogies:** for example (7)
 > **CLI Commands:** make (2), python (1)
@@ -4020,14 +3999,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional programming basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980)
+#### [Functional programming basics](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980&t=0)** - [Instructor] All right, welcome to a new chapter in which we are going to discuss functional programming.
+> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980&t=0)** - [Instructor] All right, welcome to a new chapter in which we are going to discuss [[Functional Programming]].
 >
-> **[0:04](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980&t=4)** At this point, you should have enough Scala experience to understand these quite abstract concepts.
+> **[0:04](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980&t=4)** At this point, you should have enough [[Scala]] experience to understand these quite abstract concepts.
 >
 > **[0:10](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980&t=10)** We'll start easy in this video with understanding what functions actually are.
 >
@@ -4245,7 +4223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (12), [[Functional Programming]] (3), generic (3), application (2), functional (1)
+> **Frameworks & Libraries:** [[Scala]] (12), [[Functional Programming]] (3)
 > **Analogies:** for example (10), just like (2), for instance (1)
 > **Code Identifiers:** mycombinator (7), favmovie (2), danielstatement (2)
 > **Definitions:** is a  (5), is called (2)
@@ -4254,18 +4232,17 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** jvm (1)
 
-#### Anonymous functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980)
+#### [Anonymous functions](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=0)** - [Instructor] All right, welcome back to functional programming.
+> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=0)** - [Instructor] All right, welcome back to [[Functional Programming]].
 >
 > **[0:02](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=2)** We're going to use the concepts that we learned in the previous video to build upon and learn about anonymous functions or lambdas.
 >
 > **[0:09](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=9)** So let me go create another application here under the part three package.
 >
-> **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=12)** So New Scala Class, I'm going to call this anonymous functions and I'm going to make an object with a main method for any tests that we want to run.
+> **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=12)** So New [[Scala]] Class, I'm going to call this anonymous functions and I'm going to make an object with a main method for any tests that we want to run.
 >
 > **[0:23](https://www.linkedin.com/learning/scala-essential-training-2023/anonymous-functions?u=76281980&t=23)** So in the previous video we learned or remembered about the apply method and we learned about function N which are the family of traits with apply methods of various shapes and sizes depending on the type arguments that you provide to those function types.
 >
@@ -4425,7 +4402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (9), application (2), [[Functional Programming]] (1), oop (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (9), [[Functional Programming]] (1)
 > **Definitions:** is a  (7), is an  (3), is called (1)
 > **Cross-References:** previous video (3), as we saw (1), in the next (1)
 > **Analogies:** for example (4)
@@ -4434,16 +4411,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** oop (1)
 
-#### Scala collections: List
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980)
+#### [Scala collections: List](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=0)** - [Instructor] All right, welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=1)** So now that we have the basics of functional programming principles in Scala, let's start to take a look at the standard collection library, starting with lists.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=1)** So now that we have the basics of [[Functional Programming]] principles in [[Scala]], let's start to take a look at the standard collection library, starting with lists.
 >
-> **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=11)** Lists are by far the most popular data structures used in Scala, and this video is all about that.
+> **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=11)** Lists are by far the most popular [[Data Structures]] used in Scala, and this video is all about that.
 >
 > **[0:16](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=16)** So, under part3fp, I am going to create a new Scala class.
 >
@@ -4479,7 +4455,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=114)** That's called the head.
 >
-> **[1:56](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=116)** And the rest of the list, which is called the tail, and that is another list.
+> **[1:56](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=116)** And the [[Representational State Transfer (REST)|rest]] of the list, which is called the tail, and that is another list.
 >
 > **[2:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-list?u=76281980&t=121)** So, for example, if we have a list that has the elements 1, 2, 3, the first element is, say first element, this will be an Int.
 >
@@ -4669,7 +4645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (19), data (6), [[Functional Programming]] (4), [[Representational State Transfer (REST)|Rest]] (3), application (2)
+> **Frameworks & Libraries:** [[Scala]] (19), [[Functional Programming]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[Data Structures]] (2)
 > **Code Identifiers:** alist (15), mkstring (5), biggerlist (2), stringrep (2), tostring (1)
 > **Definitions:** is a  (5), is called (4), is an  (1), means that (1)
 > **Analogies:** for example (9)
@@ -4678,8 +4654,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map, flatMap, and filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/map-flatmap-and-filter?u=76281980)
+#### [Map, flatMap, and filter](https://www.linkedin.com/learning/scala-essential-training-2023/map-flatmap-and-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4687,7 +4662,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/map-flatmap-and-filter?u=76281980&t=1)** So you know the basics of Lists by now.
 >
-> **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/map-flatmap-and-filter?u=76281980&t=3)** Let's discuss three very important functional programming primitives that you will probably need for the duration of your Scala journey, and those are Map, FlatMap, and Filter.
+> **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/map-flatmap-and-filter?u=76281980&t=3)** Let's discuss three very important [[Functional Programming]] primitives that you will probably need for the duration of your [[Scala]] journey, and those are Map, FlatMap, and Filter.
 >
 > **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/map-flatmap-and-filter?u=76281980&t=12)** So let's go back to our Lists demo, which we started in the previous video, and I'm going to continue the demonstration with a transformer called Map.
 >
@@ -4843,15 +4818,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (16), [[Functional Programming]] (5), [[Programming]] (2), power (1), application (1)
+> **Frameworks & Libraries:** [[Scala]] (16), [[Functional Programming]] (5)
 > **Code Identifiers:** alist (4), anarray (3), expandedlist (2), scalalist (1), evennumbers (1)
 > **Analogies:** for example (3), for instance (2), similar to (1)
 > **Definitions:** is a  (4), is called (1)
 > **Cross-References:** previous video (2), go back to (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### List exercises
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980)
+#### [List exercises](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4861,7 +4835,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=9)** So let me give some exercises to you.
 >
-> **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=12)** Exercise number 1, I want you to take a list of numbers and return a list of scala repeated that many times.
+> **[0:12](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=12)** Exercise number 1, I want you to take a list of numbers and return a list of [[Scala]] repeated that many times.
 >
 > **[0:24](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=24)** For example, if I have the list, 1, 2, 3, I want you to return the list scala, scalascala, so it repeats two times, and then it repeats three times, scalascalascala.
 >
@@ -4875,7 +4849,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=69)** So I don't want you to cheat.
 >
-> **[1:11](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=71)** There are data structures in Scala that will generate a hundred numbers very, very easily, but I want you to generate 100 numbers in a list with a recursive function by using just the concepts that we've learned over the past couple of videos, okay?
+> **[1:11](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=71)** There are [[Data Structures]] in Scala that will generate a hundred numbers very, very easily, but I want you to generate 100 numbers in a list with a recursive function by using just the concepts that we've learned over the past couple of videos, okay?
 >
 > **[1:26](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises?u=76281980&t=86)** So let's move on to the next exercise.
 >
@@ -4903,14 +4877,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (4), next (3), data (1)
+> **Frameworks & Libraries:** [[Scala]] (4), [[Data Structures]] (1)
 > **Analogies:** for example (3)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### List exercises: Solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980)
+#### [List exercises: Solutions](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4918,7 +4891,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=2)** Let's take them in turn.
 >
-> **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=3)** So exercise number one would be to take a list of numbers and return a list of strings, where each string is a string scala repeated as many times as every item in the list specifies.
+> **[0:03](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=3)** So exercise number one would be to take a list of numbers and return a list of strings, where each string is a string [[Scala]] repeated as many times as every item in the list specifies.
 >
 > **[0:14](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=14)** So let's start with the function definition.
 >
@@ -5110,7 +5083,7 @@ created: 2026-05-02
 >
 > **[8:34](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=514)** So I can only obtain the digits in reverse order.
 >
-> **[8:38](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=518)** So we need to be very careful of how we are going to fetch these digits.
+> **[8:38](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=518)** So we need to be very careful of how we are going to [[Fetch]] these digits.
 >
 > **[8:42](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=522)** So I'm going to define an auxiliary function that's called this get digits.
 >
@@ -5140,7 +5113,7 @@ created: 2026-05-02
 >
 > **[10:11](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=611)** Then I need the root of the number or the quotient.
 >
-> **[10:13](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=613)** So one, two, and then I need to prepend the last digit to whatever I obtain by calling get digits recursively on the rest of this number, which is the quotient.
+> **[10:13](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=613)** So one, two, and then I need to prepend the last digit to whatever I obtain by calling get digits recursively on the [[Representational State Transfer (REST)|rest]] of this number, which is the quotient.
 >
 > **[10:26](https://www.linkedin.com/learning/scala-essential-training-2023/list-exercises-solutions?u=76281980&t=626)** So last digit, prepend the two, whatever other digits this number may contain.
 >
@@ -5214,7 +5187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (10), next (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Scala]] (10), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5), is an  (2), is called (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1), find (1)
@@ -5222,8 +5195,7 @@ created: 2026-05-02
 > **Documentation:** stack overflow (2)
 > **Speakers:** - [instructor] (1)
 
-#### For comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/for-comprehensions?u=76281980)
+#### [For comprehensions](https://www.linkedin.com/learning/scala-essential-training-2023/for-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5231,7 +5203,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/for-comprehensions?u=76281980&t=1)** So now that we're masters of map, flatMap, and filter, it's time we explore for comprehensions.
 >
-> **[0:07](https://www.linkedin.com/learning/scala-essential-training-2023/for-comprehensions?u=76281980&t=7)** This is a special kind of expression in Scala that is extremely powerful, and this is built out of map, flatMap, and filter.
+> **[0:07](https://www.linkedin.com/learning/scala-essential-training-2023/for-comprehensions?u=76281980&t=7)** This is a special kind of expression in [[Scala]] that is extremely powerful, and this is built out of map, flatMap, and filter.
 >
 > **[0:15](https://www.linkedin.com/learning/scala-essential-training-2023/for-comprehensions?u=76281980&t=15)** So here in the lists demonstration that we've been working on over the past couple of videos, I am going to show you a very interesting example.
 >
@@ -5367,7 +5339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (2), [[Programming]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (2)
 > **Code Identifiers:** flatmap (11), flatmaps (2)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -5375,12 +5347,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scala collections: Ranges, arrays, and sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980)
+#### [Scala collections: Ranges, arrays, and sets](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=0)** - All right, so now that we're masters of lists in Scala, let's start exploring some other collections in the standard library.
+> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=0)** - All right, so now that we're masters of lists in [[Scala]], let's start exploring some other collections in the standard library.
 >
 > **[0:05](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=5)** And in this video we're going to explore ranges, arrays, and sets.
 >
@@ -5450,7 +5421,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=237)** Arrays are native arrays.
 >
-> **[4:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=241)** So you probably encountered arrays in your existing programming experience with C or Java or JavaScript or other programming languages or Python.
+> **[4:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=241)** So you probably encountered arrays in your existing programming experience with C or [[Java]] or [[JavaScript]] or other programming languages or [[Python (Programming Language)|Python]].
 >
 > **[4:11](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=251)** Arrays are stored natively on the JVM, which themselves are stored natively on the OS.
 >
@@ -5646,7 +5617,7 @@ created: 2026-05-02
 >
 > **[15:21](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=921)** So it guarantees no order.
 >
-> **[15:22](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=922)** But notice that, for example, the number six, which can be expressed in many different products, only occurs once.
+> **[15:22](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=922)** But notice that, for example, the number six, which can be expressed in many different [[Microsoft Products|products]], only occurs once.
 >
 > **[15:29](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-ranges-arrays-and-sets?u=76281980&t=929)** So you can play around with these collections and you can yield some very interesting functionality.
 >
@@ -5668,7 +5639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (11), [[Programming]] (4), [[Java]] (4), [[Microsoft Products|Products]] (3), express (3)
+> **Frameworks & Libraries:** [[Scala]] (11), [[Java]] (4), [[Microsoft Products|Products]] (3), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** aset (10), anotherset (7), tolist (4), anarray (2), flatmap (2)
 > **Definitions:** is a  (7), is called (5), is an  (1)
 > **Analogies:** for example (12), similar to (1)
@@ -5677,14 +5648,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Scala collections: Tuples and maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980)
+#### [Scala collections: Tuples and maps](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=0)** - [Instructor] Alright, welcome back to Collections.
 >
-> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=1)** In this video I'm going to show you tuples and maps in Scala.
+> **[0:01](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=1)** In this video I'm going to show you tuples and maps in [[Scala]].
 >
 > **[0:05](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=5)** Tuples and maps work very nicely together.
 >
@@ -5706,7 +5676,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=39)** So this is a single value that contains both.
 >
-> **[0:42](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=42)** For Python people this sort of tuple is probably very popular.
+> **[0:42](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=42)** For [[Python (Programming Language)|Python]] people this sort of tuple is probably very popular.
 >
 > **[0:48](https://www.linkedin.com/learning/scala-essential-training-2023/scala-collections-tuples-and-maps?u=76281980&t=48)** If you want to access every one of these fields, you can say first field as a tuple, a tuple.
 >
@@ -5876,7 +5846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (8), application (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (8), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** jvm (6)
 > **Analogies:** for example (5), just like (1)
 > **CLI Commands:** find (3), make (1), python (1)
@@ -5890,12 +5860,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980)
+#### [Recap and next steps](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you now have the foundations of Scala and functional programming at your disposal after writing more than 1000 lines of code in this course, I'm super proud of you.
+> **[0:00](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you now have the foundations of [[Scala]] and [[Functional Programming]] at your disposal after writing more than 1000 lines of code in this course, I'm super proud of you.
 >
 > **[0:11](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980&t=11)** So if you want to learn more about Scala and functional programming, I'm waiting for you at [rockthejvm.com](https://rockthejvm.com) in my advanced Scala course if you want to get deeper.
 >
@@ -5905,7 +5874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (3), [[Functional Programming]] (2), next (1)
+> **Frameworks & Libraries:** [[Scala]] (3), [[Functional Programming]] (2)
 > **URLs:** [rockthejvm.com](https://rockthejvm.com) (1)
 > **Speakers:** - [instructor] (1)
 

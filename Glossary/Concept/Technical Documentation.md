@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/cloud-computing
   - topic/data-science
-course_count: 20
+course_count: 21
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Technical Documentation
 
-> **Type:** Concept | **Courses:** 20 | **Topics:** [[Cybersecurity]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Cloud Computing]], [[Data Science]]
+> **Type:** Concept | **Courses:** 21 | **Topics:** [[Cybersecurity]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Cloud Computing]], [[Data Science]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Software Architecture- Breaking a Monolith into Microservices]] — 1 mentions
 10. [[Ethical Hacking- Hacking IoT Devices]] — 1 mentions
 
-> [!note]- See all 20 courses
+> [!note]- See all 21 courses
 > 11. [[Accelerate Your Developer Career]] — 1 mentions
 > 12. [[AI Data Strategy- Data Procurement and Storage]] — 1 mentions
 > 13. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 1 mentions
@@ -50,7 +50,8 @@ created: 2026-05-02
 > 17. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
 > 18. [[Microsoft SQL Server 2022 Essential Training]] — 1 mentions
 > 19. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 20. [[Problem-Solving Strategies for Data Engineers]] — 1 mentions
+> 20. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
+> 21. [[Problem-Solving Strategies for Data Engineers]] — 1 mentions
 
 ## Learning Paths
 

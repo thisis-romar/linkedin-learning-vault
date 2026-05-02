@@ -5,19 +5,19 @@ cssclasses:
 glossary_type: concept
 linkedin_topics:
   - Software Development
+  - Artificial Intelligence (AI)
   - Cloud Computing
   - Web Development
-  - Artificial Intelligence (AI)
   - Cybersecurity
 tags:
   - glossary
   - type/concept
   - topic/software-development
+  - topic/artificial-intelligence
   - topic/cloud-computing
   - topic/web-development
-  - topic/artificial-intelligence
   - topic/security
-course_count: 7
+course_count: 8
 created: 2026-05-02
 ---
 
@@ -25,17 +25,18 @@ created: 2026-05-02
 
 # Debugging Code
 
-> **Type:** Concept | **Courses:** 7 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Web Development]], [[Artificial Intelligence (AI)]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 8 | **Topics:** [[Software Development]], [[Artificial Intelligence (AI)]], [[Cloud Computing]], [[Web Development]], [[Cybersecurity]]
 
 ## Courses
 
 1. [[Debugging in C-]] — 2 mentions
 2. [[Effectively Leading Digital Transformation]] — 2 mentions
 3. [[Programming Foundations Fundamentals]] — 1 mentions
-4. [[Introduction to Agentic AI Governance]] — 1 mentions
-5. [[Angular- Testing and Debugging]] — 1 mentions
-6. [[Ai And Developer Productivity]] — 1 mentions
-7. [[Learning JavaScript Debugging]] — 1 mentions
+4. [[Vibe Coding Fundamentals Tools And Best Practices]] — 1 mentions
+5. [[Introduction to Agentic AI Governance]] — 1 mentions
+6. [[Angular- Testing and Debugging]] — 1 mentions
+7. [[Ai And Developer Productivity]] — 1 mentions
+8. [[Learning JavaScript Debugging]] — 1 mentions
 
 ## Learning Paths
 
@@ -48,7 +49,7 @@ created: 2026-05-02
 7. [[Career Essentials in Software Development by Microsoft and LinkedIn]] — 1 total mentions
 8. [[Become a Software Developer]] — 1 total mentions
 9. [[A Quick Start Guide to Java Programming]] — 1 total mentions
-10. [[Responsible AI at Work- Literacy, Ethics, and More]] — 1 total mentions
+10. [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] — 1 total mentions
 
 ---
 

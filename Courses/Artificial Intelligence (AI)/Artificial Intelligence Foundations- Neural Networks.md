@@ -96,12 +96,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Neural networks 101: Your path to AI brilliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980)
+#### [Neural networks 101: Your path to AI brilliance](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=0)** - [Gwendolyn] No doubt you've been hearing about generative AI, but did you know neural networks are the foundation of generative AI?
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=0)** - [Gwendolyn] No doubt you've been hearing about [[Generative AI]], but did you know [[Neural Networks]] are the foundation of generative AI?
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=11)** By the end of this course, you will have a solid understanding of how to build, train, improve, and use neural networks.
 >
@@ -109,33 +108,32 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=27)** If you are a student and you just need another resource, or if you are just starting out, this course is for you.
 >
-> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=37)** I am Gwendolyn Stripling, and I have helped thousands of students understand artificial intelligence and machine learning concepts.
+> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=37)** I am Gwendolyn Stripling, and I have helped thousands of students understand [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning concepts.
 >
 > **[0:46](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980&t=46)** This is your moment in time to make the career pivot you have been dreaming of.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), career (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [gwendolyn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=0)** - [Instructor] This introductory course is designed for anyone interested in a high level look at neural networks and artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=0)** - [Instructor] This introductory course is designed for anyone interested in a high level look at [[Neural Networks]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=11)** I welcome all skill levels.
 >
-> **[0:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=15)** If you want to follow along with the challenges, it may be helpful, but not necessary, to have some exposure to Python.
+> **[0:15](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=15)** If you want to follow along with the challenges, it may be helpful, but not necessary, to have some exposure to [[Python (Programming Language)|Python]].
 >
-> **[0:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=25)** Once you complete this foundational course, your knowledge of deep learning, data analysis, data pre-processing, and how to build and train a neural network will help you determine where you want to go next.
+> **[0:25](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/what-you-should-know?u=76281980&t=25)** Once you complete this foundational course, your knowledge of [[Deep Learning]], data analysis, data pre-processing, and how to build and train a neural network will help you determine where you want to go next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Neural Networks]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Python (Programming Language)|Python]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
@@ -144,14 +142,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Neural networks: The building blocks of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980)
+#### [Neural networks: The building blocks of generative AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=0)** In this video, we'll explore the foundations of modern AI – the systems that make technologies like generative AI and AI agents possible.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=0)** In this video, we'll explore the foundations of modern AI – the systems that make technologies like [[Generative AI]] and [[AI Agents]] possible.
 >
-> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=14)** This image shows how neural networks serve as the foundation on which both generative AI and AI agents are built.
+> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=14)** This image shows how [[Neural Networks]] serve as the foundation on which both generative AI and AI agents are built.
 >
 > **[0:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=24)** Think of neural networks as the base layer.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=103)** AI agents, on the other hand, focus on action.
 >
-> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=107)** They use those same learning principles to make decisions, solve problems, and interact with their environments, like autonomous vehicles, game systems, and decision-making.
+> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=107)** They use those same learning principles to make decisions, solve problems, and interact with their environments, like autonomous vehicles, game systems, and [[Decision-Making]].
 >
 > **[2:02](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=122)** Now, let's break down the architecture of how generative AI actually works.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=143)** Built on top of that foundation are the different neural network architectures.
 >
-> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=149)** Convolutional Neural Networks or CNNs, Recurrent Neural Networks or RNNs, and Transformers, which act as specialized components that can be combined and configured to create various generative AI applications.
+> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=149)** [[Convolutional Neural Networks (CNN)|Convolutional Neural Networks]] or CNNs, Recurrent Neural Networks or RNNs, and Transformers, which act as specialized components that can be combined and configured to create various generative AI applications.
 >
 > **[2:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=169)** At the top, we have the applications, the tools we actually interact with.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=208)** The difference is how they use what they've learned.
 >
-> **[3:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=212)** By combining CNNs and vision transformers for perception, RNNs and transformers for memory, transformers for reasoning, interpreting relationships, drawing conclusions, and planning, and policy networks trained with reinforcement learning for action, AI agents are able to perceive, remember, reason, and take intelligent action.
+> **[3:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=212)** By combining CNNs and vision transformers for perception, RNNs and transformers for memory, transformers for reasoning, interpreting relationships, drawing conclusions, and planning, and policy networks trained with [[Reinforcement Learning]] for action, AI agents are able to perceive, remember, reason, and take intelligent action.
 >
 > **[4:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980&t=244)** In the videos that follow, we will break down what a neural network actually looks like.
 >
@@ -207,18 +204,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Generative AI]] (7), [[Neural Networks]] (6), data (1), game (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[AI Agents]] (7), [[Neural Networks]] (6), [[Decision-Making]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1), think of it as (1), for example (1), just like (1)
 
-#### Machine learning and neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980)
+#### [Machine learning and neural networks](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=0)** - [Narrator] We begin by answering the question, "What are neural networks?"
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=0)** - [Narrator] We begin by answering the question, "What are [[Neural Networks]]?"
 >
-> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=7)** After completing this chapter, you will be able to describe the differences between machine learning and neural networks, understand how biological networks lay the foundation for artificial neural networks, and describe the single-layer perceptron.
+> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=7)** After completing this chapter, you will be able to describe the differences between machine learning and neural networks, understand how biological networks lay the foundation for [[Artificial Neural Networks]], and describe the single-layer perceptron.
 >
 > **[0:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=28)** In order to answer the question, "What are neural networks?"
 >
@@ -270,39 +266,38 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=235)** We will learn more about cost functions in later videos.
 >
-> **[4:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=240)** At a higher level, machine learning is the branch of artificial intelligence, or AI, which is devoted to making machines think and act like humans.
+> **[4:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=240)** At a higher level, machine learning is the branch of [[Artificial Intelligence (AI)|artificial intelligence]], or AI, which is devoted to making machines think and act like humans.
 >
 > **[4:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=253)** In our certification exam use case, our exam machine would have the ability to automatically learn and improve from experience if we actually used an ML framework to test the model.
 >
 > **[4:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=268)** The primary aim is to allow the computer to learn automatically without human involvement or assistance and then adjust actions accordingly.
 >
-> **[4:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=281)** A subset of machine learning is called deep learning, which is based on artificial neural networks, which are based on biological neural networks.
+> **[4:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=281)** A subset of machine learning is called [[Deep Learning]], which is based on artificial neural networks, which are based on biological neural networks.
 >
 > **[4:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/machine-learning-and-neural-networks?u=76281980&t=292)** Let's take a look at that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Neural Networks]] (4), [[Artificial Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Artificial Neural Networks]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [narrator] (1)
 
-#### Neural network fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980)
+#### [Neural network fundamentals](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=0)** In this video, we will explore how artificial neurons work and how they connect to form neural networks.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=0)** In this video, we will explore how artificial neurons work and how they connect to form [[Neural Networks]].
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=11)** When you unlock your phone with face detection, that is image recognition powered by neural networks.
 >
-> **[0:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=19)** When you use Google Translate or chat with a customer service bot, that's natural language processing.
+> **[0:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=19)** When you use [[Google]] Translate or chat with a customer service bot, that's [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[0:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=27)** When a retailer recommends your next binge-worthy show or when the retailer suggests products you might like, those are recommendation systems using neural networks.
+> **[0:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=27)** When a retailer recommends your next binge-worthy show or when the retailer suggests [[Microsoft Products|products]] you might like, those are recommendation systems using neural networks.
 >
 > **[0:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=41)** And autonomous vehicles, or self-driving cars, use neural networks to understand their environment and make split-second decisions.
 >
-> **[0:53](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=53)** Neural institutions use neural networks for forecasting market trends and detecting fraud.
+> **[0:53](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=53)** Neural institutions use neural networks for [[Forecasting]] market trends and detecting fraud.
 >
 > **[1:01](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-network-fundamentals?u=76281980&t=61)** These are not futuristic applications.
 >
@@ -354,13 +349,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (8), data (2), parallel (2), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (8), [[Google]] (1), [[Microsoft Products|Products]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1)
 > **Analogies:** think of it as (1)
 
-#### The need for multilayer networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980)
+#### [The need for multilayer networks](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=193)** What pixel patterns create complex boundaries no straight line can capture?
 >
-> **[3:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=201)** In language, the word bank changes meaning based on context.
+> **[3:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=201)** In language, the [[Microsoft Word|word]] bank changes meaning based on context.
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=208)** Is it a river bank or a place to deposit your money?
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=233)** There are no intermediate stages, no hidden layers for processing.
 >
-> **[4:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=240)** Second, the core work is done by just one decision-making step, the combination of summation and activation.
+> **[4:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=240)** Second, the core work is done by just one [[Decision-Making]] step, the combination of summation and activation.
 >
 > **[4:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=252)** Because it only has this single, simple computational step, the perceptron is fundamentally limited to drawing only one straight line to solve problems.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=300)** And most importantly, there is one or more hidden layers in between.
 >
-> **[5:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=306)** The addition of these hidden layers is where deep learning begins.
+> **[5:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=306)** The addition of these hidden layers is where [[Deep Learning]] begins.
 >
 > **[5:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-need-for-multi-layer-networks?u=76281980&t=312)** By stacking simple nonlinear decisions across multiple layers, the network gains the computational power to solve any nonlinear problem that was impossible for a single neuron.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), [[Decision-Making]] (1), [[Deep Learning]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Decision-Making]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** find (2), cat (1)
 > **Env Vars:** mlp (2)
 
@@ -465,12 +459,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layers: Input, hidden, and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980)
+#### [Layers: Input, hidden, and output](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980&t=0)** - [Instructor] In this video, you learn about neural network layers, which allow neural networks to solve complex non-linear problems.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980&t=0)** - [Instructor] In this video, you learn about neural network layers, which allow [[Neural Networks]] to solve complex non-linear problems.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980&t=9)** This image shows an input layer, hidden layer, and output layer.
 >
@@ -518,13 +511,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (2), [[Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transfer and activation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transfer-and-activation-functions?u=76281980)
+#### [Transfer and activation functions](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transfer-and-activation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +560,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transfer-and-activation-functions?u=76281980&t=165)** The ReLU function is a non-linear function that has a linear shape for positive inputs and a zero output for negative inputs.
 >
-> **[2:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transfer-and-activation-functions?u=76281980&t=176)** It is a popular choice for neural networks because it is computationally efficient and easy to train.
+> **[2:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transfer-and-activation-functions?u=76281980&t=176)** It is a popular choice for [[Neural Networks]] because it is computationally efficient and easy to train.
 >
 > **[3:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transfer-and-activation-functions?u=76281980&t=184)** The sigmoid function is a non-linear function that has a sigmoid shape.
 >
@@ -582,19 +574,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Neural Networks]] (3), data (2), product (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3)
 > **CLI Commands:** node (5), make (1)
 > **Definitions:** is a  (4), defined as (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### How neural networks learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980)
+#### [How neural networks learn](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=0)** - [Instructor] In this video, let's learn how neural networks actually learn, the data characteristics, and patterns.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=0)** - [Instructor] In this video, let's learn how [[Neural Networks]] actually learn, the data characteristics, and patterns.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=9)** This image is what we'll use to understand how neural networks learn.
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=104)** One method is by using the back propagation algorithm.
 >
-> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=109)** This image shows the regression problem as a supervised learning use case.
+> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=109)** This image shows the regression problem as a [[Supervised Learning]] use case.
 >
 > **[1:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=114)** The actual values of the size and price of the house are shown in the table and plotted on a graph.
 >
@@ -674,7 +665,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=298)** The signal flow moves from the input layer, through the hidden layers, to the output layer, and the decision of the output layer is measured against the ground truth or actual label.
 >
-> **[5:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=313)** In the backward pass, using back propagation and calculus, the various weights and biases are back propagated through the network making those adjustments.
+> **[5:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=313)** In the backward pass, using back propagation and [[Calculus]], the various weights and biases are back propagated through the network making those adjustments.
 >
 > **[5:26](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-neural-networks-learn?u=76281980&t=326)** The network keeps playing this back and forth like a game of tennis until the error can go no lower.
 >
@@ -682,7 +673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Neural Networks]] (2), [[Supervised Learning]] (1), [[Calculus]] (1), game (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Supervised Learning]] (1), [[Calculus]] (1)
 > **Definitions:** known as (2), is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -691,18 +682,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Convolutional neural networks (CNN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980)
+#### [Convolutional neural networks (CNN)](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=0)** - [Instructor] In previous videos, we've defined neural networks and looked at their components and how neural networks learn patterns in data.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=0)** - [Instructor] In previous videos, we've defined [[Neural Networks]] and looked at their components and how neural networks learn patterns in data.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=9)** We specifically looked at multilayer perceptrons.
 >
 > **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=14)** In this video, we'll look at three additional neural network types.
 >
-> **[0:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=21)** After completing this introductory video, you will be able to: describe convolutional neural networks, commonly referred to as CNNs, describe recurrent neural networks, commonly referred to as RNNs, and transformer neural networks.
+> **[0:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=21)** After completing this introductory video, you will be able to: describe [[Convolutional Neural Networks (CNN)|convolutional neural networks]], commonly referred to as CNNs, describe recurrent neural networks, commonly referred to as RNNs, and transformer neural networks.
 >
 > **[0:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=42)** There are many other types of neural networks, but they are out of scope for our course.
 >
@@ -744,7 +734,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=192)** In a classic, fully connected network, this requires a huge number of connections and network parameters.
 >
-> **[3:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=200)** So the classic neural network architecture is inefficient for computer vision tasks.
+> **[3:20](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=200)** So the classic neural network architecture is inefficient for [[Computer Vision]] tasks.
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=208)** This is where the feed-forward convolutional neural network architecture comes into play.
 >
@@ -778,7 +768,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=331)** It is what the convolutional layer sees after passing the filters on the image.
 >
-> **[5:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=337)** It is what we call a convolution operation in terms of deep learning.
+> **[5:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=337)** It is what we call a convolution operation in terms of [[Deep Learning]].
 >
 > **[5:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980&t=343)** If we were to add numbers to the input map, the dot product, the multiplication of the input map and the convolution filter of the first scan would look like the image shown here.
 >
@@ -820,15 +810,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (6), [[Neural Networks]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (4), cnn (4)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (4), [[Computer Vision]] (1), [[Deep Learning]] (1)
 > **Analogies:** such as (5), similar to (2), for example (2)
 > **CLI Commands:** cat (5), make (1)
 > **Env Vars:** cnn (4)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformer architecture: The model that redefined modern AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980)
+#### [Transformer architecture: The model that redefined modern AI](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=5)** In this video, we'll explore what its main building blocks are, and how the encoder, decoder, and attention mechanism work together.
 >
-> **[0:17](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=17)** Before Transformers, models like Recurrent Neural Networks read text one piece at a time.
+> **[0:17](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=17)** Before Transformers, models like Recurrent [[Neural Networks]] read text one piece at a time.
 >
 > **[0:24](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=24)** Each new step depended on the step before it.
 >
@@ -846,7 +835,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=50)** The transformer model, introduced in the 2017 paper Attention is All You Need, changed everything by enabling full parallel processing, effectively replacing recurrence with attention.
 >
-> **[1:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=66)** Instead of reading text letter by letter, a transformer can take the entire sentence at once and instantly understand how each word relates to every other word.
+> **[1:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=66)** Instead of reading text letter by letter, a transformer can take the entire sentence at once and instantly understand how each [[Microsoft Word|word]] relates to every other word.
 >
 > **[1:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=81)** This shift made global understanding possible.
 >
@@ -892,7 +881,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=248)** A natural, accurate Spanish translation.
 >
-> **[4:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=252)** Most modern transformer models use only portions of the original encoder-decoder design.
+> **[4:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=252)** Most modern [[Transformer Models]] use only portions of the original encoder-decoder design.
 >
 > **[4:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/transformer-architecture-the-model-that-redefined-modern-ai?u=76281980&t=259)** Some models use only the encoder for understanding tasks.
 >
@@ -902,16 +891,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (2), ai (1), [[Neural Networks]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Neural Networks]] (1), [[Transformer Models]] (1)
 > **Analogies:** for example (2), imagine (1), similar to (1)
 > **CLI Commands:** cat (2)
 
-#### Why we need more than CNNs
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980)
+#### [Why we need more than CNNs](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=0)** Earlier, we explored how convolutional neural networks became the backbone of computer vision.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=0)** Earlier, we explored how [[Convolutional Neural Networks (CNN)|convolutional neural networks]] became the backbone of [[Computer Vision]].
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=6)** In this video, we'll explore how and why the field is shifting from CNNs toward transformer-based architectures for computer vision.
 >
@@ -961,22 +949,21 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=190)** They don't rely on stacked convolutional layers at all.
 >
-> **[3:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=193)** Instead, they borrow the transformer architecture from natural language processing and apply it to images.
+> **[3:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=193)** Instead, they borrow the transformer architecture from [[Natural Language Processing (NLP)|natural language processing]] and apply it to images.
 >
 > **[3:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=202)** The core idea is to treat an image the same way we treat a sentence.
 >
-> **[3:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=208)** But instead of a sequence of words, we break the image into patch tokens.
+> **[3:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=208)** But instead of a sequence of words, we break the image into patch [[Tokens]].
 >
 > **[3:34](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/why-we-need-more-than-cnns?u=76281980&t=214)** And each patch can interact with every other patch at the same time through self-attention.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Computer Vision]] (2), cnn (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Tokens]] (1)
 > **Env Vars:** cnn (2)
 > **Analogies:** for example (2)
 
-#### Self-attention in vision transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980)
+#### [Self-attention in vision transformers](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1022,7 +1009,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=156)** But transformers can't look at image patches directly.
 >
-> **[2:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=160)** They need everything turned into simple numbers called tokens.
+> **[2:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=160)** They need everything turned into simple numbers called [[Tokens]].
 >
 > **[2:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=165)** To create each token, we add two pieces of information.
 >
@@ -1044,13 +1031,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=234)** So how do you decide which to use in practice?
 >
-> **[3:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=239)** Choose convolutional neural networks when you have smaller datasets.
+> **[3:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=239)** Choose [[Convolutional Neural Networks (CNN)|convolutional neural networks]] when you have smaller datasets.
 >
 > **[4:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=244)** You need fast inference, as CNNs are more efficient.
 >
 > **[4:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=248)** You're deploying to edge devices, since CNNs require less memory and computation.
 >
-> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=254)** And you have real-time requirements, as CNNs are faster.
+> **[4:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=254)** And you have [[Real-Time]] requirements, as CNNs are faster.
 >
 > **[4:21](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=261)** Choose vision transformers when you have larger datasets.
 >
@@ -1062,11 +1049,11 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=293)** Models like ConvNext, SWIN Transformer, and CoAdNet blend the efficiency of convolutional
 >
-> **[5:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=305)** neural networks with the global reasoning power of transformers.
+> **[5:05](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/self-attention-in-vision-transformers?u=76281980&t=305)** [[Neural Networks]] with the global reasoning power of transformers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), feature (1), [[Tokens]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Real-Time]] (1), [[Neural Networks]] (1)
 > **Env Vars:** p16 (1), k16 (1), swin (1)
 > **Analogies:** for example (2), just like (1)
 > **Versions:** 1.0 (1)
@@ -1076,8 +1063,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Keras Sequential model
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980)
+#### [The Keras Sequential model](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,7 +1079,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=37)** You'll then have a hands-on challenge lab with a solution that follows.
 >
-> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=43)** The best way to understand neural networks is to build one for yourself.
+> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=43)** The best way to understand [[Neural Networks]] is to build one for yourself.
 >
 > **[0:49](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=49)** Let's get started with creating and training a neural network in Keras.
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=107)** There are a few additional steps such as compiling and fitting the model, but these two are simple lines of code.
 >
-> **[1:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=116)** Keras is perfect for those that do not have a strong background in deep learning because it is easy to learn.
+> **[1:56](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=116)** Keras is perfect for those that do not have a strong background in [[Deep Learning]] because it is easy to learn.
 >
 > **[2:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980&t=124)** It builds the neural network using a modular approach with minimal code.
 >
@@ -1139,19 +1125,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), data (2), [[Neural Networks]] (1), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Deep Learning]] (1)
 > **Env Vars:** api (8)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case and determine evaluation metric
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980)
+#### [Use case and determine evaluation metric](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=0)** - [Instructor] To improve profits, organizations spend money advertising products and services.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=0)** - [Instructor] To improve profits, organizations spend money advertising [[Microsoft Products|products]] and services.
 >
 > **[0:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=8)** The channels they choose to advertise on can range from digital media to newspapers.
 >
@@ -1161,9 +1146,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=39)** The dataset is composed of historical marketing channel data that can be leveraged to gain insights for spend allocation and to predict sales.
 >
-> **[0:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=51)** The use case is a simple linear regression problem with just five variables.
+> **[0:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=51)** The use case is a simple [[Linear Regression]] problem with just five variables.
 >
-> **[0:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=58)** You have been asked to build this sales predictive model, and recall that neural networks are excellent for finding patterns and datasets.
+> **[0:58](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=58)** You have been asked to build this sales predictive model, and recall that [[Neural Networks]] are excellent for finding patterns and datasets.
 >
 > **[1:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=68)** So for your simple neural network, you will build, train, and evaluate a prediction model for sales using the Keras sequential model.
 >
@@ -1209,27 +1194,26 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=268)** MSE is the mean squared error.
 >
-> **[4:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=272)** We use this simple three letter word to denote the loss, and we could use this, but root means squared error is more popular than mean squared error, and we'll just take the square root of this once the model has run.
+> **[4:32](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=272)** We use this simple three letter [[Microsoft Word|word]] to denote the loss, and we could use this, but root means squared error is more popular than mean squared error, and we'll just take the square root of this once the model has run.
 >
 > **[4:51](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=291)** Believe it or not, these six lines of code are all you need to build and train your model.
 >
-> **[4:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=299)** Before you get to this point, you'll need to load the dataset, do a small bit of data processing, and then perform exploratory data analysis.
+> **[4:59](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=299)** Before you get to this point, you'll need to load the dataset, do a small bit of [[Data Processing]], and then perform exploratory data analysis.
 >
-> **[5:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=312)** These are the typical steps you would follow in any data science or machine learning project.
+> **[5:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=312)** These are the typical steps you would follow in any [[Data Science]] or machine learning project.
 >
 > **[5:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/use-case-and-determine-evaluation-metric?u=76281980&t=319)** The next videos walk you through the steps to help you on this journey of knowledge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Linear Regression]] (3), [[Microsoft Products|Products]] (1), [[Neural Networks]] (1), product (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Microsoft Products|Products]] (1), [[Neural Networks]] (1), [[Microsoft Word|Word]] (1), [[Data Processing]] (1)
 > **Env Vars:** rmse (3), mse (2)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data checks and data preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980)
+#### [Data checks and data preparation](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1237,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=7)** Here we use a Jupyter Notebook to run our code.
 >
-> **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=12)** A Jupyter Notebook lets you run Python, an open source programming language.
+> **[0:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=12)** A Jupyter Notebook lets you run [[Python (Programming Language)|Python]], an open source programming language.
 >
 > **[0:19](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=19)** You'll find out more in the challenge instructions where you'll only need to focus on building the neural network, which is writing six lines of code to train your network.
 >
@@ -1245,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=36)** The first step is to load the data.
 >
-> **[0:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=40)** Here, the dataset is being pulled from the course's GitHub repo.
+> **[0:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=40)** Here, the dataset is being pulled from the course's [[GitHub]] repo.
 >
 > **[0:45](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=45)** Once the data is pulled in, you can check the first 10 lines.
 >
@@ -1255,7 +1239,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=64)** The information contains the number of columns, column labels, column data types, memory usage, range index, and the number of cells in each column.
 >
-> **[1:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=78)** Shown here is the describe method, which computes and displays summary statistics for the dataset.
+> **[1:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=78)** Shown here is the describe method, which computes and displays summary [[Statistics]] for the dataset.
 >
 > **[1:27](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-checks-and-data-preparation?u=76281980&t=87)** Shown here is the .shape method, which gives you the number of rows and columns in the dataset.
 >
@@ -1279,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[GitHub]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Tools:** jupyter (2), github (1)
 > **Exercise Files:** github repo (1)
@@ -1287,8 +1271,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data preprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-preprocessing?u=76281980)
+#### [Data preprocessing](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/data-preprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,15 +1309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** train_test_split (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Train the neural network using Keras
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/train-the-neural-network-using-keras?u=76281980)
+#### [Train the neural network using Keras](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/train-the-neural-network-using-keras?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1417,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/train-the-neural-network-using-keras?u=76281980&t=347)** Here, we take the square root of the mean squared error by using the NumPy square root function.
 >
-> **[5:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/train-the-neural-network-using-keras?u=76281980&t=354)** This is a fast and efficient way to calculate the square root of an array or a single value in Python.
+> **[5:54](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/train-the-neural-network-using-keras?u=76281980&t=354)** This is a fast and efficient way to calculate the square root of an array or a single value in [[Python (Programming Language)|Python]].
 >
 > **[6:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/train-the-neural-network-using-keras?u=76281980&t=363)** Recall that the square root of the mean squared error gives us the root mean squared error metric.
 >
@@ -1444,7 +1425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (6), is an  (2), means that (1), refers to (1), is called (1)
 > **Code Identifiers:** y_train (1), validation_data (1)
 > **Versions:** 4.67 (1), 4.72 (1)
@@ -1453,14 +1434,13 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Warnings:** note that (1)
 
-#### How to use the challenge exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980)
+#### [How to use the challenge exercise files](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=0)** - [Instructor] At the end of the course, there will be two hands-on challenges for you to try on your own.
 >
-> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=7)** The files needed for these challenges are located in the course's GitHub repository.
+> **[0:07](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=7)** The files needed for these challenges are located in the course's [[GitHub]] repository.
 >
 > **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=14)** To use the files, please clone the repo into your own GitHub account or download the files locally.
 >
@@ -1470,7 +1450,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=36)** Feel free to reference the end files for the solution and the extras file for added code that you can run for additional functionality.
 >
-> **[0:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=47)** We'll be working in Google's Colaboratory notebooks.
+> **[0:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=47)** We'll be working in [[Google]]'s Colaboratory notebooks.
 >
 > **[0:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-to-use-the-challenge-exercise-files?u=76281980&t=52)** You can open the notebook from your GitHub, or you can download the files as a ZIP and upload them from your computer.
 >
@@ -1497,14 +1477,13 @@ created: 2026-05-02
 > **Env Vars:** zip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build a neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-build-a-neural-network?u=76281980)
+#### [Challenge: Build a neural network](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-build-a-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-build-a-neural-network?u=76281980&t=0)** - [Instructor] In this challenge, let's build a simple neural network.
 >
-> **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-build-a-neural-network?u=76281980&t=9)** Use the provided notebook in Google Collaboratory, and run each cell one by one to see their output.
+> **[0:09](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-build-a-neural-network?u=76281980&t=9)** Use the provided notebook in [[Google]] Collaboratory, and run each cell one by one to see their output.
 >
 > **[0:18](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-build-a-neural-network?u=76281980&t=18)** Then build the Keras sequential neural network we covered previously.
 >
@@ -1524,13 +1503,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build a neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980)
+#### [Solution: Build a neural network](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,11 +1520,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=17)** So first we need to import our necessary libraries.
 >
-> **[0:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=22)** Then we need to grab our data from the GitHub repo, put that into a pandas data frame.
+> **[0:22](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=22)** Then we need to grab our data from the [[GitHub]] repo, put that into a [[Pandas (Software)|pandas]] data frame.
 >
 > **[0:30](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=30)** And then we're using the pandas info function to get a concise summary of the data frame.
 >
-> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=36)** And now we want to get some summary statistics of the data.
+> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=36)** And now we want to get some summary [[Statistics]] of the data.
 >
 > **[0:40](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-build-a-neural-network?u=76281980&t=40)** And here we're just looking to see the shape of the data frame.
 >
@@ -1618,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (2), [[GitHub]] (1), [[Statistics]] (1), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[GitHub]] (1), [[Statistics]] (1)
 > **Env Vars:** api (1), mse (1)
 > **Tools:** github (1), atom (1)
 > **CLI Commands:** make (1)
@@ -1631,8 +1609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overfitting and underfitting: Two common ANN problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/overfitting-and-underfitting-two-common-ann-problems?u=76281980)
+#### [Overfitting and underfitting: Two common ANN problems](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/overfitting-and-underfitting-two-common-ann-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,21 +1697,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21)
 > **Definitions:** is a  (5), means that (1)
 > **Cross-References:** later in (2), previous chapter (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hyperparameters and neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/hyperparameters-and-neural-networks?u=76281980)
+#### [Hyperparameters and neural networks](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/hyperparameters-and-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/hyperparameters-and-neural-networks?u=76281980&t=0)** - [Instructor] In this video, we look at hyperparameters which provides techniques to let you improve your model performance and avoid underfitting and overfitting models.
 >
-> **[0:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/hyperparameters-and-neural-networks?u=76281980&t=13)** If you are not using automated machine learning where the training process is handled automatically by an AutoML framework, then hyperparameters need to be set by you.
+> **[0:13](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/hyperparameters-and-neural-networks?u=76281980&t=13)** If you are not using [[Automated Machine Learning (AutoML)|automated machine learning]] where the training process is handled automatically by an AutoML framework, then hyperparameters need to be set by you.
 >
 > **[0:28](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/hyperparameters-and-neural-networks?u=76281980&t=28)** Lastly, model parameters are not hyperparameters.
 >
@@ -1788,7 +1763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
+> **Frameworks & Libraries:** [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
 > **Cross-References:** previous video (2), later in (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
@@ -1796,8 +1771,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do you improve model performance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-do-you-improve-model-performance?u=76281980)
+#### [How do you improve model performance?](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/how-do-you-improve-model-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1861,7 +1835,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), node (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **CLI Commands:** make (1), node (1)
 > **Versions:** 0.001 (1)
@@ -1870,8 +1843,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regularization techniques to improve overfitting models
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980)
+#### [Regularization techniques to improve overfitting models](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1933,7 +1905,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=277)** In machine learning, regularization penalizes the coefficients.
 >
-> **[4:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=282)** In deep learning, it penalizes the weight matrices of the nodes.
+> **[4:42](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=282)** In [[Deep Learning]], it penalizes the weight matrices of the nodes.
 >
 > **[4:47](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=287)** A penalty term is added to the loss function during training, which discourages the model from becoming too complex or having large parameter values.
 >
@@ -1963,7 +1935,7 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=403)** Under fitting is a situation in which a model does not learn the underlying patterns of the data well enough.
 >
-> **[6:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=412)** So in addition to using hyperparameters, best practices for optimizing neural networks include many techniques that involve the feature dataset from feature selection and feature engineering to normalizing, splitting and shuffling the dataset.
+> **[6:52](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=412)** So in addition to using hyperparameters, best practices for optimizing [[Neural Networks]] include many techniques that involve the feature dataset from feature selection and [[Feature Engineering]] to normalizing, splitting and shuffling the dataset.
 >
 > **[7:12](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/regularization-techniques-to-improve-overfitting-models?u=76281980&t=432)** Recall that in the hands-on data pre-processing portion of the exercise to build a simple neural network, you normalize the features before using them in the model.
 >
@@ -1975,15 +1947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), feature (2), node (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Neural Networks]] (1), [[Feature Engineering]] (1)
 > **Definitions:** is a  (5), means that (4), known as (2), refers to (1)
 > **CLI Commands:** make (2), node (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Manually tune hyperparameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-manually-tune-hyperparameters?u=76281980)
+#### [Challenge: Manually tune hyperparameters](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/challenge-manually-tune-hyperparameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2003,7 +1974,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Tools:** colab (1)
 > **Definitions:** is a  (1)
@@ -2011,8 +1981,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Manually tune hyperparameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-manually-tune-hyperparameters?u=76281980)
+#### [Solution: Manually tune hyperparameters](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/solution-manually-tune-hyperparameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2050,8 +2019,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2061,13 +2029,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=3)** This is an amazing accomplishment.
 >
-> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=6)** I hope you had fun learning what neural networks are, how they are used, how to build them, and how to improve them.
+> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=6)** I hope you had fun learning what [[Neural Networks]] are, how they are used, how to build them, and how to improve them.
 >
-> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=14)** You have completed a course that will help you apply what you have learned in any setting, whether for work, a school project, or personal growth toward work in the field of artificial intelligence.
+> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=14)** You have completed a course that will help you apply what you have learned in any setting, whether for work, a school project, or personal growth toward work in the field of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:29](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=29)** Of course, there's so much more you can learn about neural networks, so as next steps I suggest the following.
 >
-> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=37)** Find datasets that classify something and learn about logistic regression by using Google's free Colab Jupyter Notebook to build a Keras sequential model.
+> **[0:37](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=37)** Find datasets that classify something and learn about [[Logistic Regression]] by using [[Google]]'s free Colab Jupyter Notebook to build a Keras sequential model.
 >
 > **[0:48](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=48)** Assess your neural network for usual problems like overfitting and underfitting.
 >
@@ -2079,13 +2047,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=68)** If you want to see other examples of data pre-processing and Keras neural networks, check out my new book with co-author Michael Abel entitled "Low-Code AI: A Practical Project-Driven Approach to Machine Learning" and see the downloadable PDF with URLs to resources I recommend for you on your journey.
 >
-> **[1:33](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=93)** Please feel free to reach out to me on LinkedIn and also join the Machine Learning Community Group on LinkedIn.
+> **[1:33](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=93)** Please feel free to reach out to me on [[LinkedIn]] and also join the Machine Learning Community Group on LinkedIn.
 >
 > **[1:41](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980&t=101)** Thank you for taking the course, and remember, this is your moment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (3), [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Logistic Regression]] (1), [[Google]] (1)
 > **Tools:** colab (1), jupyter (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)

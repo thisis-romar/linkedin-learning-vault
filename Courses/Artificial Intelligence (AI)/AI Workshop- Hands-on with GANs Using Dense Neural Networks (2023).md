@@ -81,18 +81,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding generative modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980)
+#### [Understanding generative modeling](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=0)** Hi, and welcome to this AI workshop: Hands-on with GANs using dense neural networks.
+> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=0)** Hi, and welcome to this AI workshop: Hands-on with GANs using dense [[Neural Networks]].
 >
-> **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=7)** Thanks to the popularity of applications such as ChatGPT, generative modeling is all the rage nowadays.
+> **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=7)** Thanks to the popularity of applications such as [[ChatGPT]], generative modeling is all the rage nowadays.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=13)** And we'll start this course by understanding generative modeling.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=17)** And then we'll move on to building and training generative adversarial networks, one of the very first generative models, and something that you can build and train on your own on your local machine.
+> **[0:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=17)** And then we'll move on to building and training [[Generative Adversarial Networks (GANs)|generative adversarial networks]], one of the very first generative models, and something that you can build and train on your own on your local machine.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=29)** Before we understand the basics of generative models, let's contrast them with models that we are familiar with.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=74)** This is the training data that you'll use to train your discriminative model.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=78)** And during model training, the discriminative models try to capture the conditional probability of Y given X.
+> **[1:18](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=78)** And during model training, the discriminative models try to capture the conditional [[Probability]] of Y given X.
 >
 > **[1:26](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980&t=86)** What's the probability that the output is Y for this particular record X.
 >
@@ -176,7 +175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Probability]] (9), ai (1), [[Neural Networks]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Probability]] (9), [[Neural Networks]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (3), imagine (3)
 > **CLI Commands:** cat (1), find (1), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -187,14 +186,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course outline and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980)
+#### [Course outline and prerequisites](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=0)** With the introduction out of the way, let's take a look at what you'll actually cover in this AI workshop.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=6)** Will be hands-on training generative adversarial networks with DNNs or dense neural networks.
+> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=6)** Will be hands-on training [[Generative Adversarial Networks (GANs)|generative adversarial networks]] with DNNs or dense [[Neural Networks]].
 >
 > **[0:13](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=13)** We'll start off by viewing and exploring the image training data for a generative model.
 >
@@ -210,29 +208,28 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=48)** This is not a beginner course in neural networks, so here are some prereqs that you need to have to make the most of your learning.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=55)** We'll be writing code in Python, so you should be comfortable programming in Python.
+> **[0:55](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=55)** We'll be writing code in [[Python (Programming Language)|Python]], so you should be comfortable programming in Python.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=59)** You should be familiar with neural networks and how they work.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=62)** So if you've built and trained neural network models, that's perfect.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=65)** We'll be using PyTorch for neural network training.
+> **[1:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=65)** We'll be using [[PyTorch]] for neural network training.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980&t=68)** So it's important that you're comfortable programming using the PyTorch framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[PyTorch]] (2), ai (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Python (Programming Language)|Python]] (2), [[PyTorch]] (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** mnist (1)
 > **Prerequisites:** you need to have (1)
 
-#### Set up the virtual environment and run the notebook server
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980)
+#### [Set up the virtual environment and run the notebook server](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=1)** Before we explore our data and train our generative adversarial network using PyTorch, let's take a look at the environment within which we are operating.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=1)** Before we explore our data and train our generative adversarial network using [[PyTorch]], let's take a look at the environment within which we are operating.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=10)** Here I am on the terminal window of my local machine.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=19)** This folder is going to serve as the working directory for my project.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=24)** So my Python Notebook, which is where I'll be writing the demo code, will be within this folder.
+> **[0:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=24)** So my [[Python (Programming Language)|Python]] Notebook, which is where I'll be writing the demo code, will be within this folder.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=30)** We'll be downloading the dataset that we need to train our GAN, and that dataset will be downloaded into our working directory.
 >
@@ -256,13 +253,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=96)** And if you run an ls -l command in this current working directory, you will find that a directory called pytorch_venv will be available.
 >
-> **[1:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=106)** Once you have a virtual environment, you need to activate it, and that's done on Mac and Linux machines by running the source command; source pytorch_venv/bin/activate will run the activation script and activate your virtual environment.
+> **[1:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=106)** Once you have a virtual environment, you need to activate it, and that's done on Mac and [[Linux]] machines by running the source command; source pytorch_venv/bin/activate will run the activation script and activate your virtual environment.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=124)** Notice how my prompt changes to have the pytorch_venv in brackets.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=129)** That's what indicates to me that I'm working within my virtual environment.
 >
-> **[2:13](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=133)** If you are running on a Windows machine, this is how you'll activate your pytorch_venv virtual environment.
+> **[2:13](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=133)** If you are running on a [[Windows]] machine, this is how you'll activate your pytorch_venv virtual environment.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=140)** You will access the activate.bat file under Scripts, and then you'll essentially run that.
 >
@@ -326,7 +323,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=341)** Select the kernel for the virtual environment, and let's give this notebook a meaningful name.
 >
-> **[5:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=347)** This is the notebook that we'll use to train GANs using dense neural networks.
+> **[5:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=347)** This is the notebook that we'll use to train GANs using dense [[Neural Networks]].
 >
 > **[5:54](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setup-the-virtual-environment-and-run-the-notebook-server?u=76281980&t=354)** In order to have more space on the screen for our code, I'll click on the View menu item and toggle the header and toggle the toolbar so that both of these are no longer visible.
 >
@@ -340,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[PyTorch]] (3), data (2), next (2), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[PyTorch]] (3), [[Linux]] (1), [[Windows]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** python (15), find (2), make (2), pip (2), cd (1)
 > **Code Identifiers:** pytorch_venv (13), ai_workshop_gans (1)
 > **Tools:** jupyter (12), terminal (1)
@@ -349,12 +346,11 @@ created: 2026-05-02
 > **Env Vars:** gan (3), mnist (1), url (1)
 > **Definitions:** is a  (3), refers to (1)
 
-#### Introducing generative adversarial networks (GANs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980)
+#### [Introducing generative adversarial networks (GANs)](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=0)** We know that generative models are incredibly powerful, and over the past year or so, generative models have been the most exciting development in the world of artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=0)** We know that generative models are incredibly powerful, and over the past year or so, generative models have been the most exciting development in the world of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=11)** Here we'll study one of the earliest generative models, the generative adversarial network.
 >
@@ -376,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=59)** During the training phase of the generative model, the model learns the features and relationships that exist in the training data.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=67)** The model understands the probability distribution of the real data.
+> **[1:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=67)** The model understands the [[Probability]] distribution of the real data.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=71)** Once GAN training is complete, the model should be able to take in a random noise at its input and using this noise variable and whatever features it has learned from the training data, should be able to generate a new sample.
 >
@@ -392,11 +388,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=122)** Probabilistic models that do not generate the same output each time must incorporate a random element which creates new entities, and that is the random noise that we feed into our GAN network.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=135)** The field of generative AI has made many advances in the recent past, but the generative adversarial network is one of the original models in the realm of generative AI.
+> **[2:15](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=135)** The field of [[Generative AI]] has made many advances in the recent past, but the generative adversarial network is one of the original models in the realm of generative AI.
 >
 > **[2:26](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=146)** The name adversarial in the name of the model comes from how the model is actually built.
 >
-> **[2:32](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=152)** The GAN is made up of two neural networks that are competing with each other to get the better of the other.
+> **[2:32](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=152)** The GAN is made up of two [[Neural Networks]] that are competing with each other to get the better of the other.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/introducing-generative-adversarial-networks?u=76281980&t=159)** Both of those models are adversaries.
 >
@@ -414,13 +410,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Probability]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Probability]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gan (4)
 > **Analogies:** picture (1), for example (1), similar to (1)
 > **URLs:** [archive.org](https://archive.org) (1)
 
-#### Instantiating the dataset and data loader
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980)
+#### [Instantiating the dataset and data loader](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,11 +453,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=84)** Now, this makes sense if you're building and training again using a dense neural network as we are in this demo.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=91)** Dense neural networks don't really work well with image data, but with simpler images, you'll still be able to see how the GAN functions.
+> **[1:31](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=91)** Dense [[Neural Networks]] don't really work well with image data, but with simpler images, you'll still be able to see how the GAN functions.
 >
 > **[1:39](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=99)** Of course, if you have more complex multi-channel images, you should be using a deep convolutional GAN, a GAN built using convolutional layers.
 >
-> **[1:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=108)** Now, you may have heard of the MNIST dataset of grayscale images, which is a widely used collection of handwritten digits, and it serves as a benchmark dataset in the field of machine learning and computer vision.
+> **[1:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=108)** Now, you may have heard of the MNIST dataset of grayscale images, which is a widely used collection of handwritten digits, and it serves as a benchmark dataset in the field of machine learning and [[Computer Vision]].
 >
 > **[2:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=121)** Now, we'll work with a slightly more complex grayscale dataset, the Fashion-MNIST dataset.
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=131)** It comprises of 60,000 training images and 10,000 test images, exactly like the original MNIST, except that these images belong to ten different fashion categories such as t-shirts, dresses, sneakers, and others.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=145)** This is available as a built-in dataset in PyTorch, and before we read in that dataset, let's define the transformations that we want to apply to the grayscale images so that we can use the data for GAN training.
+> **[2:25](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=145)** This is available as a built-in dataset in [[PyTorch]], and before we read in that dataset, let's define the transformations that we want to apply to the grayscale images so that we can use the data for GAN training.
 >
 > **[2:38](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=158)** We'll read the images in as NumPy arrays, transforms.ToTensor will convert those images to PyTorch tensors, and transforms.Normalize will scale the dataset so that they're centered around zero.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=281)** Here we instantiate a torch.utils.data.DataLoader.
 >
-> **[4:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=286)** The dataset that we point to is the Fashion-NIST dataset.
+> **[4:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=286)** The dataset that we point to is the Fashion-[[NIST]] dataset.
 >
 > **[4:50](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/instantiating-the-dataset-and-data-loader?u=76281980&t=290)** The batch size is 16, so that there'll be 16 images for every batch of data.
 >
@@ -520,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[PyTorch]] (5), next (2), [[Neural Networks]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (5), [[Neural Networks]] (1), [[Computer Vision]] (1), [[NIST]] (1)
 > **Env Vars:** mnist (7), gan (5), nist (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** pytorch_venv (1), drop_last (1)
@@ -529,8 +524,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 
-#### Viewing training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/viewing-training-data?u=76281980)
+#### [Viewing training data](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/viewing-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,7 +580,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/viewing-training-data?u=76281980&t=121)** Now, let me explain the need for the code on Line 10.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/viewing-training-data?u=76281980&t=124)** Image tensors in PyTorch are represented using the following dimensions.
+> **[2:04](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/viewing-training-data?u=76281980&t=124)** Image tensors in [[PyTorch]] are represented using the following dimensions.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/viewing-training-data?u=76281980&t=129)** The number of channels come first and then the height and width of images.
 >
@@ -616,7 +610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[PyTorch]] (4), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (4)
 > **Env Vars:** gan (3), mnist (2)
 > **Versions:** 0.5 (4)
 > **Definitions:** is a  (2), refers to (1)
@@ -628,14 +622,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Big picture overview of a GAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980)
+#### [Big picture overview of a GAN](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980&t=0)** In this movie, we'll understand the basic architecture of a generative adversarial network.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980&t=6)** In the earlier movie, I introduced you to what a GAN was, but here is a more formal definition. A machine learning model in which two neural networks compete with one another to become more accurate in their predictions.
+> **[0:06](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980&t=6)** In the earlier movie, I introduced you to what a GAN was, but here is a more formal definition. A machine learning model in which two [[Neural Networks]] compete with one another to become more accurate in their predictions.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980&t=19)** The neural networks play a zero-sum game.
 >
@@ -713,14 +706,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), game (3), [[Neural Networks]] (2), database (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (2)
 > **Definitions:** is a  (5)
 > **Env Vars:** gan (3)
 > **Analogies:** picture (2), imagine (1)
 > **CLI Commands:** make (1)
 
-#### Training the adversaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/training-the-adversaries?u=76281980)
+#### [Training the adversaries](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/training-the-adversaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,15 +784,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), game (1)
 > **Env Vars:** gan (7)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 
-#### The generator architecture and discriminator architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980)
+#### [The generator architecture and discriminator architecture](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=9)** You know the objectives of each of these components.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=12)** With that in mind, let's set up the neural networks for both the generator and the discriminator.
+> **[0:12](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=12)** With that in mind, let's set up the [[Neural Networks]] for both the generator and the discriminator.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=18)** Now, the generator takes in latent noise as an input and generates an image at the output.
 >
@@ -832,7 +822,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=84)** Next, we'll define the neural network for the generator.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=88)** This is the generator class that derives from the nn.Module base class in PyTorch.
+> **[1:28](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=88)** This is the generator class that derives from the nn.Module base class in [[PyTorch]].
 >
 > **[1:34](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=94)** Within the init method is where we've defined the neural network layers.
 >
@@ -884,7 +874,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=225)** The discriminator is just a simple classification model.
 >
-> **[3:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=228)** It takes in an image as an input and outputs a probability score which determines the discriminators probability that the input was a real image.
+> **[3:48](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=228)** It takes in an image as an input and outputs a [[Probability]] score which determines the discriminators probability that the input was a real image.
 >
 > **[3:59](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/the-generator-architecture-and-discriminator-architecture?u=76281980&t=239)** The network that makes up the discriminator is a simple, dense neural network, once again, instantiated using the nn.Sequential class.
 >
@@ -926,19 +916,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), [[Probability]] (3), [[Neural Networks]] (2), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Neural Networks]] (2), [[PyTorch]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2), configure (1)
 > **Code Identifiers:** netg (2)
 > **Versions:** 0.2 (1)
 
-#### Understanding the generator and discriminator outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980)
+#### [Understanding the generator and discriminator outputs](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=1)** At this point, we have a generator and a discriminator, but those two neural networks are untrained.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=1)** At this point, we have a generator and a discriminator, but those two [[Neural Networks]] are untrained.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=7)** Their weights and biases have been initialized using a random values.
 >
@@ -990,7 +979,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=120)** What I've done on Line 1 here is reshaped the sample generator output to be 64, 28 by 28 images.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=129)** The reshape function converts the generated output tensor to a format that PyTorch expects; batch, channels, height, and width.
+> **[2:09](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=129)** The reshape function converts the generated output tensor to a format that [[PyTorch]] expects; batch, channels, height, and width.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=139)** And then I use plot.imshow to display the first image, the first 28 by 28 image, and you can see the output is pure noise.
 >
@@ -1020,7 +1009,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=233)** Let's take a look at the first 20 predictions.
 >
-> **[3:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=236)** Every predicted value here is a probability score indicating whether the generated image was real, and you can see that all these probability scores are almost identical and they are close to 0.5.
+> **[3:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=236)** Every predicted value here is a [[Probability]] score indicating whether the generated image was real, and you can see that all these probability scores are almost identical and they are close to 0.5.
 >
 > **[4:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-generator-and-discriminator-outputs?u=76281980&t=250)** The discriminator basically can't tell anything about the images.
 >
@@ -1035,8 +1024,7 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Prerequisites:** set up (1)
 
-#### Stand-alone training of discriminator as classification model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980)
+#### [Stand-alone training of discriminator as classification model](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=55)** The BCELoss function is a variant of the cross-entropy loss for binary classification or categorization.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=63)** The cross-entropy measures the difference between two probability distributions, and we'll use this to measure its difference between the prediction probabilities output by the discriminator and the actual values in the labeled data.
+> **[1:03](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=63)** The cross-entropy measures the difference between two [[Probability]] distributions, and we'll use this to measure its difference between the prediction probabilities output by the discriminator and the actual values in the labeled data.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=79)** Next, we'll instantiate the optimizers that we'll use to train the generator and the discriminator.
 >
@@ -1070,7 +1058,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=95)** We'll make use of the D optimizer or the discriminators optimizer when we train the discriminator, and later on when we train the generator separately, we'll make use of the G optimizer.
 >
-> **[1:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=106)** The Adam optimizer adaptively adjusts the learning rates for each parameter during training, making it well-suited for non-convex optimization problems typically encountered in deep learning models.
+> **[1:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=106)** The Adam optimizer adaptively adjusts the learning rates for each parameter during training, making it well-suited for non-convex optimization problems typically encountered in [[Deep Learning]] models.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-discriminator-as-classification-model?u=76281980&t=120)** The Adam optimizer was found to work well for GANs, and that's why we are using the Adam optimizer for both the discriminator and the generator.
 >
@@ -1168,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (6), [[Probability]] (4), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Deep Learning]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Versions:** 0.0002 (1), 0.73 (1), 0.64 (1), 0.5 (1), 0.001 (1)
 > **Code Identifiers:** netd (1), netg (1)
@@ -1177,8 +1165,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Stand-alone training of generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980)
+#### [Stand-alone training of generator](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,7 +1185,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=61)** We unnormalized the images on Line 2, we create a grid of the generated images on Line 4, we swap around the dimensions of the image so that they are in a format matplotlib can plot, that's the code on Line 5.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=77)** On Line 6, we convert the PyTorch tensors to NumPy, and then we plot the image.
+> **[1:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=77)** On Line 6, we convert the [[PyTorch]] tensors to NumPy, and then we plot the image.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=82)** In order to ensure that we start this from scratch, I'm going to reinitialize the generator and discriminator networks.
 >
@@ -1232,7 +1219,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=172)** On Line 25, we compute the generator error.
 >
-> **[2:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=176)** The objective of the generator network is to maximize the probability that the discriminator classify fake images as real.
+> **[2:56](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=176)** The objective of the generator network is to maximize the [[Probability]] that the discriminator classify fake images as real.
 >
 > **[3:05](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/standalone-training-of-generator?u=76281980&t=185)** So notice the criterion here is that the output of the discriminator should be the real labels, and this is the loss the generator will try to minimize.
 >
@@ -1268,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[PyTorch]] (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (1), [[Probability]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** display_image_grid (2), netg (1), g_optimizer (1)
 > **Versions:** 0.292 (1), 0.998 (1)
@@ -1281,8 +1268,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computing losses for generator and discriminator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980)
+#### [Computing losses for generator and discriminator](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1286,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980&t=46)** What is it that the discriminator tries to optimize?
 >
-> **[0:50](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980&t=50)** The discriminator would like to maximize the probability of it classifying the real data as real, and minimize the probability of classifying fake data as fake.
+> **[0:50](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980&t=50)** The discriminator would like to maximize the [[Probability]] of it classifying the real data as real, and minimize the probability of classifying fake data as fake.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980&t=61)** The discriminator wants to get its classification right.
 >
@@ -1370,14 +1356,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Probability]] (3), next (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Env Vars:** gan (4)
 > **Definitions:** means that (1), known as (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 
-#### Understanding the minimax loss function
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-minimax-loss-function?u=76281980)
+#### [Understanding the minimax loss function](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-minimax-loss-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1397,7 +1382,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-minimax-loss-function?u=76281980&t=43)** Let's look at this D(x) here in this first component.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-minimax-loss-function?u=76281980&t=47)** This refers to the discriminator's estimate of the probability that a real data instance x is indeed real.
+> **[0:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-minimax-loss-function?u=76281980&t=47)** This refers to the discriminator's estimate of the [[Probability]] that a real data instance x is indeed real.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-the-minimax-loss-function?u=76281980&t=55)** As you might imagine, the discriminator tries to maximize this probability.
 >
@@ -1481,13 +1466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Probability]] (6)
+> **Frameworks & Libraries:** [[Probability]] (6)
 > **Definitions:** refers to (3), is a  (1), means that (1)
 > **Code Identifiers:** ming (1), maxd (1)
 > **Analogies:** imagine (1)
 
-#### Setting up GAN training
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setting-up-gan-training?u=76281980)
+#### [Setting up GAN training](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setting-up-gan-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,7 +1513,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setting-up-gan-training?u=76281980&t=107)** First, we'll train the discriminator on a batch of real images and on a batch of fake images.
 >
-> **[1:53](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setting-up-gan-training?u=76281980&t=113)** Remember, the discriminator tries to maximize the probability of classifying real data as real and minimize the probability of classifying fake data as real.
+> **[1:53](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setting-up-gan-training?u=76281980&t=113)** Remember, the discriminator tries to maximize the [[Probability]] of classifying real data as real and minimize the probability of classifying fake data as real.
 >
 > **[2:03](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/setting-up-gan-training?u=76281980&t=123)** On Line 8, we zero out the gradients of the discriminator.
 >
@@ -1617,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), next (4), data (3)
+> **Frameworks & Libraries:** [[Probability]] (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** real_score_list (1), fake_score_list (1), d_optimizer (1), g_optimizer (1)
 > **Env Vars:** gan (2)
@@ -1625,8 +1609,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 
-#### Visualizing GAN training results
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/visualizing-gan-training-results?u=76281980)
+#### [Visualizing GAN training results](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/visualizing-gan-training-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1742,7 +1725,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **Versions:** 0.5 (3), 0.0 (1), 0.168 (1), 1.972 (1), 0.0154 (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** refers to (1), is an  (1)
@@ -1750,12 +1732,11 @@ created: 2026-05-02
 > **Env Vars:** gan (1)
 > **Prerequisites:** set up (1)
 
-#### Problems with GANs and potential mitigations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/problems-with-gans-and-potential-mitigations?u=76281980)
+#### [Problems with GANs and potential mitigations](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/problems-with-gans-and-potential-mitigations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/problems-with-gans-and-potential-mitigations?u=76281980&t=1)** Though generative adversarial networks have been around for a while, they are still an active area of research, and there are many problems that haven't entirely been solved, yet.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/problems-with-gans-and-potential-mitigations?u=76281980&t=1)** Though [[Generative Adversarial Networks (GANs)|generative adversarial networks]] have been around for a while, they are still an active area of research, and there are many problems that haven't entirely been solved, yet.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/problems-with-gans-and-potential-mitigations?u=76281980&t=11)** Here are some of the common problems encountered by GANs.
 >
@@ -1825,18 +1806,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=0)** And this brings us to the very end of this AI workshop: Hands-on with GANs using dense neural networks.
+> **[0:00](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=0)** And this brings us to the very end of this AI workshop: Hands-on with GANs using dense [[Neural Networks]].
 >
 > **[0:07](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=7)** Here is what we covered in this training.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=10)** We first explored the image training data for a generative model.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=13)** We then understood how generative adversarial networks work.
+> **[0:13](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=13)** We then understood how [[Generative Adversarial Networks (GANs)|generative adversarial networks]] work.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=17)** We worked with both the generator and the discriminator, train them separately.
 >
@@ -1848,7 +1828,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=36)** This brings us to the very end of this workshop.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=40)** And here are some other resources on LinkedIn learning that you might find interesting.
+> **[0:40](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=40)** And here are some other resources on [[LinkedIn]] learning that you might find interesting.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980&t=44)** There is a follow-up workshop that you can take after this one, where we'll talk about hands-on GANs using deep convolutional networks.
 >
@@ -1862,7 +1842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Neural Networks]] (1), data (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gan (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)

@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible AI and application development
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980)
+#### [Responsible AI and application development](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980&t=0)** - Responsible AI.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980&t=0)** - [[Responsible AI]].
 >
 > **[0:02](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980&t=2)** We hear about it everywhere, and we talk about it a lot, but when it comes time to put those words into action, well, what can you do?
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Responsible AI]] (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1)
 > **Speakers:** - responsible (1)
 
 
@@ -118,16 +117,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible design
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980)
+#### [Responsible design](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=1)** - Responsible AI and avoiding harm generally makes the imagination leap to science fiction stories like "The Matrix" or "Terminator" and self-aware machines judging us to our detriment.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=1)** - [[Responsible AI]] and avoiding harm generally makes the imagination leap to science fiction stories like "The Matrix" or "Terminator" and self-aware machines judging us to our detriment.
 >
 > **[0:12](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=12)** "I'm sorry, Dave, I can't do that."
 >
-> **[0:15](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=15)** But poorly designed systems including, and especially ones that use artificial intelligence, can be harmful in a multitude of ways.
+> **[0:15](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=15)** But poorly designed systems including, and especially ones that use [[Artificial Intelligence (AI)|artificial intelligence]], can be harmful in a multitude of ways.
 >
 > **[0:23](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=23)** That while less dramatic, they are still wrong and they are negatively impactful to people.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=37)** She's a talented designer who works tirelessly to simplify Web3 UX and AI design.
 >
-> **[0:43](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=43)** And like me, she's a graduate of Google Maps.
+> **[0:43](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=43)** And like me, she's a graduate of [[Google]] Maps.
 >
 > **[0:46](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=46)** Anyway, a picture of her on this website was wrong.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=57)** Well, long story short, she sent in a square picture of herself, but the website needed a vertical portrait, so it used an upscaling app to fill in the difference.
 >
-> **[1:07](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=67)** And this app, it didn't just stretch out the pixels, it used generative AI to create more new pixels.
+> **[1:07](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=67)** And this app, it didn't just stretch out the pixels, it used [[Generative AI]] to create more new pixels.
 >
 > **[1:14](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980&t=74)** Now, that seems harmless, right?
 >
@@ -181,14 +179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), [[Responsible AI]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ux (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Responsible AI]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1)
 > **Analogies:** picture (2), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - responsible (1)
 
-#### Being responsible end to end
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/being-responsible-end-to-end?u=76281980)
+#### [Being responsible end to end](https://www.linkedin.com/learning/responsible-ai-and-application-development/being-responsible-end-to-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (4), application (1), prompt (1), ai (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** in the next (1), later in (1)
 > **CLI Commands:** make (1)
@@ -261,12 +257,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethical data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980)
+#### [Ethical data collection](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=1)** - Let's start our journey into data acquisition with one of the most fundamental but often overlooked aspects, and that's ethical data collection.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=1)** - Let's start our journey into [[Data Acquisition]] with one of the most fundamental but often overlooked aspects, and that's ethical [[Data Collection]].
 >
 > **[0:09](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=9)** Decisions that you make at this stage can have far-reaching implications.
 >
@@ -294,11 +289,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=67)** Anyway, back to collecting real world data.
 >
-> **[1:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=70)** First, you should consider privacy.
+> **[1:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=70)** First, you should consider [[Privacy]].
 >
 > **[1:13](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=73)** Every piece of data that you collect likely belongs to or represents a real person.
 >
-> **[1:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=78)** When collecting personal data, you will need clear consent protocols, not just for legal compliance, but let's be honest here.
+> **[1:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=78)** When collecting personal data, you will need clear consent protocols, not just for [[Legal Compliance]], but let's be honest here.
 >
 > **[1:26](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=86)** It's just the right thing to do.
 >
@@ -320,21 +315,21 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=154)** It's an ethical one that can perpetuate existing societal biases.
 >
-> **[2:40](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=160)** The open-source Fairlearn toolkit, and Google's ML-fairness-gym provide powerful tools for detecting and mitigating these biases before they impact your models.
+> **[2:40](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=160)** The open-source Fairlearn toolkit, and [[Google]]'s ML-fairness-gym provide powerful tools for detecting and mitigating these biases before they impact your models.
 >
-> **[2:52](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=172)** For legal guidance, the Open Data Commons provides free legal tools and licenses specifically designed for data sharing and collection.
+> **[2:52](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=172)** For legal guidance, the Open Data Commons provides free legal tools and licenses specifically designed for [[Data Sharing]] and collection.
 >
 > **[3:02](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=182)** Their guides can help you navigate that complex landscape of data rights and usage across different jurisdictions.
 >
-> **[3:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=190)** The Mozilla Foundation's Data Privacy Principles will also offer excellent guidelines for ethical data collection practices.
+> **[3:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=190)** The Mozilla Foundation's [[Data Privacy]] Principles will also offer excellent guidelines for ethical data collection practices.
 >
 > **[3:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=198)** Documentation is crucial for transparency and reproducibility.
 >
 > **[3:22](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=202)** The Community Data Documentation Initiative, CDDI, provides free templates and guides for creating comprehensive dataset documentation.
 >
-> **[3:32](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=212)** For assessing data quality, Great Expectations is a powerful open-source tool that helps you validate, document, and profile your data.
+> **[3:32](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=212)** For assessing [[Data Quality]], Great Expectations is a powerful open-source tool that helps you validate, document, and profile your data.
 >
-> **[3:42](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=222)** The open source community has also developed excellent frameworks like DVC, Data Version Control, for tracking your data collection and its changes over time, ensuring reproducibility and transparency in your data pipeline.
+> **[3:42](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=222)** The open source community has also developed excellent frameworks like DVC, Data [[Version Control]], for tracking your data collection and its changes over time, ensuring reproducibility and transparency in your data pipeline.
 >
 > **[3:57](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980&t=237)** Now, these considerations are not just check boxes to tick.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Privacy]] (8), next (3), open-source (3), ai (2)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Data Collection]] (4), [[Data Acquisition]] (1), [[Legal Compliance]] (1), [[Google]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** cddi (1), dvc (1)
 > **CLI Commands:** make (1)
@@ -359,12 +354,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - let (1)
 
-#### Tools to understand your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980)
+#### [Tools to understand your data](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=1)** - Okay, so we've seen how data is crucial for responsible AI development, but let's now look a little deeper at how we can document and understand our data to help us make better decisions.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=1)** - Okay, so we've seen how data is crucial for [[Responsible AI]] development, but let's now look a little deeper at how we can document and understand our data to help us make better decisions.
 >
 > **[0:13](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=13)** It's kind of like how food has nutrition labels and medicines have detailed inserts about what they do and what their effects are.
 >
@@ -396,7 +390,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=94)** It explains the motivation behind the dataset, how it was used, and crystal clear definitions of everything that they did while gathering and labeling the data, all the way down to the methodology.
 >
-> **[1:46](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=106)** They even link you to their GitHub, and they've got this diagram demonstrating the team composure for checking, double checking, and validating the data.
+> **[1:46](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=106)** They even link you to their [[GitHub]], and they've got this diagram demonstrating the team composure for checking, double checking, and validating the data.
 >
 > **[1:56](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=116)** Next up, and still following our food analogy, are dataset nutrition labels.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=170)** Next up is model cards, and again, with a similar idea describing both the model and the underlying data.
 >
-> **[2:57](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=177)** The BERT based model from Google is a great example of this with a page on Hugging Face where you can test it out, and it even calls out limitations and biases in the model, so you can be aware up front.
+> **[2:57](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=177)** The BERT based model from [[Google]] is a great example of this with a page on [[Hugging Face]] where you can test it out, and it even calls out limitations and biases in the model, so you can be aware up front.
 >
 > **[3:09](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=189)** Here, for example, we can see the man worked as a blank, gets auto completed to jobs like carpenter, waiter, et cetera, while the woman worked as blank, gets completed to jobs like nurse or maid.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=248)** Their goal is to provide a systematic approach to collecting and managing facts About ML models and data.
 >
-> **[4:15](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=255)** They include open-source software on GitHub to help you publish fact sheets about your work, and in turn, it includes examples such as this notebook for a full end-to-end training run, which captures key facts and metrics for you to publish.
+> **[4:15](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=255)** They include [[Open-Source Software]] on GitHub to help you publish fact sheets about your work, and in turn, it includes examples such as this notebook for a full end-to-end training run, which captures key facts and metrics for you to publish.
 >
 > **[4:30](https://www.linkedin.com/learning/responsible-ai-and-application-development/tools-to-understand-your-data?u=76281980&t=270)** Finally, About ML, and About stands for annotation and benchmarking on understanding and transparency of ML lifecycles.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (3), [[Responsible AI]] (2), [[GitHub]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[GitHub]] (2), [[Google]] (1), [[Hugging Face]] (1), [[Open-Source Software]] (1)
 > **Env Vars:** url (2), bert (1), ibm (1)
 > **Analogies:** kind of like (1), imagine (1), for example (1), such as (1)
 > **CLI Commands:** make (2), find (1)
@@ -453,8 +447,7 @@ created: 2026-05-02
 > **Warnings:** warning (1), be aware (1)
 > **Cross-References:** in the next (1)
 
-#### Demo of model cards, nutrition labels, etc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-model-cards-nutrition-labels-etc?u=76281980)
+#### [Demo of model cards, nutrition labels, etc.](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-model-cards-nutrition-labels-etc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-model-cards-nutrition-labels-etc?u=76281980&t=9)** It's pretty cool because it tells you really everything you need to know about this data, everything from the intended use.
 >
-> **[0:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-model-cards-nutrition-labels-etc?u=76281980&t=16)** If we start here and we can take a look, it initially says right off the bat, the intended domain is Public Health.
+> **[0:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-model-cards-nutrition-labels-etc?u=76281980&t=16)** If we start here and we can take a look, it initially says right off the bat, the intended domain is [[Public Health]].
 >
 > **[0:23](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-model-cards-nutrition-labels-etc?u=76281980&t=23)** It tells you the use, the ways that you can use it, everything, for example, planning and budget in healthcare, developing and advocating policies for those who have needs, et cetera.
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (1)
 > **Analogies:** for example (4), it's like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -512,8 +505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why preprocess data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980)
+#### [Why preprocess data?](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980&t=80)** And don't get me started on addresses.
 >
-> **[1:22](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980&t=82)** Or we could maybe look at image processing.
+> **[1:22](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980&t=82)** Or we could maybe look at [[Image Processing]].
 >
 > **[1:24](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980&t=84)** Raw images could come in different sizes.
 >
@@ -587,14 +579,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (2), [[Image Processing]] (1), next (1)
+> **Frameworks & Libraries:** [[Image Processing]] (1)
 > **Analogies:** for example (2), just like (1), imagine (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Speakers:** - have (1)
 
-#### Techniques to preprocess data
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/techniques-to-preprocess-data?u=76281980)
+#### [Techniques to preprocess data](https://www.linkedin.com/learning/responsible-ai-and-application-development/techniques-to-preprocess-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/responsible-ai-and-application-development/techniques-to-preprocess-data?u=76281980&t=41)** So we need to think very carefully about things like what data we choose to keep or discard, how we handle missing values for different demographic groups.
 >
-> **[0:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/techniques-to-preprocess-data?u=76281980&t=51)** And as we do feature engineering, we want to make sure we don't amplify any existing biases.
+> **[0:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/techniques-to-preprocess-data?u=76281980&t=51)** And as we do [[Feature Engineering]], we want to make sure we don't amplify any existing biases.
 >
 > **[0:57](https://www.linkedin.com/learning/responsible-ai-and-application-development/techniques-to-preprocess-data?u=76281980&t=57)** It's similar with scaling.
 >
@@ -680,15 +671,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Feature Engineering]] (6), ai (2)
+> **Frameworks & Libraries:** [[Feature Engineering]] (6)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3), imagine (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Demo of data preprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980)
+#### [Demo of data preprocessing](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=111)** So let me show you the source code for that.
 >
-> **[1:54](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=114)** So this is the code that has been doing the data cleaning, the data pre-processing and all of that kind of thing.
+> **[1:54](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=114)** So this is the code that has been doing the [[Data Cleaning]], the data pre-processing and all of that kind of thing.
 >
 > **[2:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=121)** And you'll find very commonly in pre-processing, you'll use a numeric transformer, it has a pipeline, and that pipeline has an imputer.
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=184)** So it's something really to look out for.
 >
-> **[3:06](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=186)** Similarly, if I go back to the output from the terminal for a moment when we were looking at that one, we also can see that a very common practice in data science, particularly if you're doing one hot encoding, is to remove a particular category.
+> **[3:06](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=186)** Similarly, if I go back to the output from the terminal for a moment when we were looking at that one, we also can see that a very common practice in [[Data Science]], particularly if you're doing one hot encoding, is to remove a particular category.
 >
 > **[3:23](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=203)** So the first category being dropped, and this is a common trick for efficiency, and this code is actually doing it.
 >
@@ -792,7 +782,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=287)** So once you've processed the data, you want to take a look at it.
 >
-> **[4:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=291)** So if there are some categories where the word missing is in there a lot, you'll realize those categories are missing.
+> **[4:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=291)** So if there are some categories where the [[Microsoft Word|word]] missing is in there a lot, you'll realize those categories are missing.
 >
 > **[4:57](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-data-preprocessing?u=76281980&t=297)** And if you're training a model off of this, the pre-processing instead of having nulls there has added just this missing thing.
 >
@@ -814,7 +804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1), [[Data Science]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** csv (3), rgb (2)
 > **Warnings:** warning (4), watch out (1)
 > **Analogies:** for example (2), imagine (2)
@@ -828,8 +818,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data augmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980)
+#### [What is data augmentation](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -837,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=7)** The concept is simple, but it is very effective.
 >
-> **[0:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=10)** Imagine you're training a model to recognize shoes and you've gathered lots of images of shoes that you're going to train the model with, and a computer vision model will learn features from these images such as laces and soles.
+> **[0:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=10)** Imagine you're training a model to recognize shoes and you've gathered lots of images of shoes that you're going to train the model with, and a [[Computer Vision]] model will learn features from these images such as laces and soles.
 >
 > **[0:24](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=24)** But what if it saw something like this?
 >
@@ -871,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=111)** A computer may not recognize her as a woman because the training set had full body height shots where the picture on the right crops the woman off at the waistline.
 >
-> **[2:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=121)** But, augmenting the data while training to zoom in on the images could produce one like the image on the left, which is now quite similar and improve the vision of the model to recognize the woman on the right correctly.
+> **[2:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=121)** But, augmenting the data while training to [[Zoom]] in on the images could produce one like the image on the left, which is now quite similar and improve the vision of the model to recognize the woman on the right correctly.
 >
 > **[2:14](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=134)** One last example is flipping an image.
 >
@@ -895,18 +884,17 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=180)** Let's also think about quality and diversity.
 >
-> **[3:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=183)** It's simple and it's effective and it's relatively easy to do, but, if you're not careful, it can go wrong from a responsibility and an ethics perspective, and we're going to explore that next.
+> **[3:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980&t=183)** It's simple and it's effective and it's relatively easy to do, but, if you're not careful, it can go wrong from a responsibility and an [[Ethics]] perspective, and we're going to explore that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Computer Vision]] (1), [[Zoom]] (1), [[Ethics]] (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Zoom]] (1), [[Ethics]] (1)
 > **CLI Commands:** cat (9)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** picture (3), imagine (1), such as (1), similar to (1), for example (1)
 > **Speakers:** - data (1)
 
-#### When data augmentation goes wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/when-data-augmentation-goes-wrong?u=76281980)
+#### [When data augmentation goes wrong](https://www.linkedin.com/learning/responsible-ai-and-application-development/when-data-augmentation-goes-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -972,20 +960,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), power (1), next (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Demo of image augmentation with PyTorch
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980)
+#### [Demo of image augmentation with PyTorch](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=0)** - [Instructor] Okay, so in this demo we're going to take a look at the Horses Or Human Dataset.
 >
-> **[0:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=3)** And this is a really interesting dataset for computer vision and machine learning.
+> **[0:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=3)** And this is a really interesting dataset for [[Computer Vision]] and machine learning.
 >
 > **[0:08](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=8)** I created it a few years ago with a few ideas in mind.
 >
@@ -1013,7 +999,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=92)** So, I'm going to switch over to the code here.
 >
-> **[1:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=94)** I'm running this in Google Colab and this first cell, the code is available to you in the GitHub.
+> **[1:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=94)** I'm running this in [[Google]] Colab and this first cell, the code is available to you in the [[GitHub]].
 >
 > **[1:40](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=100)** So, this first cell, all it's going to do is download the code, download the data for Horse or Human.
 >
@@ -1033,7 +1019,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=129)** Okay, now once that's done, the next cell defines the neural network.
 >
-> **[2:13](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=133)** And this is just using PyTorch to create a convolutional neural network, which is a number of convolutional 2D layers with batch normalization.
+> **[2:13](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=133)** And this is just using [[PyTorch]] to create a convolutional neural network, which is a number of convolutional 2D layers with batch normalization.
 >
 > **[2:22](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=142)** Pretty classic network, not a whole lot of thoughts gone into this one, but it demonstrates the point for us.
 >
@@ -1077,7 +1063,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=254)** There's no point in doing the full 15 epochs.
 >
-> **[4:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=258)** So, if I now go back and recomment this code so that the transformations will happen, (keyboard clicking) so we're going to be doing things like random flips and random rotations, and the affine transformation does things like, again, rotations but also translation where it moves around the image, it scales to zoom, it shears it, and things like that.
+> **[4:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=258)** So, if I now go back and recomment this code so that the transformations will happen, (keyboard clicking) so we're going to be doing things like random flips and random rotations, and the affine transformation does things like, again, rotations but also translation where it moves around the image, it scales to [[Zoom]], it shears it, and things like that.
 >
 > **[4:39](https://www.linkedin.com/learning/responsible-ai-and-application-development/demo-of-image-augmentation-with-pytorch?u=76281980&t=279)** So, I'm going to run this now to define the new transformations.
 >
@@ -1241,7 +1227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[PyTorch]] (2), [[Computer Vision]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Computer Vision]] (1), [[Google]] (1), [[GitHub]] (1), [[Zoom]] (1)
 > **Versions:** 1.5 (2), 0.1 (2), 2.5 (2), 0.6 (1), 0.5 (1)
 > **Analogies:** for example (3), picture (2), such as (1), it's like (1), imagine (1)
 > **Definitions:** is a  (6)
@@ -1255,8 +1241,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimization: Responsible neural architecture design
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980)
+#### [Optimization: Responsible neural architecture design](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,11 +1261,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=43)** There's an old saying, "You are what you measure."
 >
-> **[0:46](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=46)** And often when we look at neural networks and the training of neural networks, our goal is to be as accurate as possible.
+> **[0:46](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=46)** And often when we look at [[Neural Networks]] and the training of neural networks, our goal is to be as accurate as possible.
 >
 > **[0:53](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=53)** In particular with things like classification models, the common wisdom is that the more accurate the model, the better.
 >
-> **[0:59](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=59)** A computer vision model that achieves accuracy on 95% of the test set is generally seen as better than one that's accurate on say 90% of the test set.
+> **[0:59](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=59)** A [[Computer Vision]] model that achieves accuracy on 95% of the test set is generally seen as better than one that's accurate on say 90% of the test set.
 >
 > **[1:09](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980&t=69)** But is that true or is there a trap hiding in plain sight?
 >
@@ -1306,14 +1291,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Neural Networks]] (2), [[Computer Vision]] (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Computer Vision]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Loss: Responsible neural architecture design
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/loss-responsible-neural-architecture-design?u=76281980)
+#### [Loss: Responsible neural architecture design](https://www.linkedin.com/learning/responsible-ai-and-application-development/loss-responsible-neural-architecture-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1345,7 +1329,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/responsible-ai-and-application-development/loss-responsible-neural-architecture-design?u=76281980&t=88)** When we look at the cumulative loss, a loss function like cross-entropy calculates a value associated with that loss.
 >
-> **[1:35](https://www.linkedin.com/learning/responsible-ai-and-application-development/loss-responsible-neural-architecture-design?u=76281980&t=95)** The details of that are beyond the scope of this video, but I'll just assign a value to the loss based on the probability.
+> **[1:35](https://www.linkedin.com/learning/responsible-ai-and-application-development/loss-responsible-neural-architecture-design?u=76281980&t=95)** The details of that are beyond the scope of this video, but I'll just assign a value to the loss based on the [[Probability]].
 >
 > **[1:42](https://www.linkedin.com/learning/responsible-ai-and-application-development/loss-responsible-neural-architecture-design?u=76281980&t=102)** So, for example, if a resume is a qualified one and we calculated a 10% probability of that, the score will be 2.3 based on the cross-entropy loss calculation.
 >
@@ -1383,7 +1367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
@@ -1392,8 +1376,7 @@ created: 2026-05-02
 > **Warnings:** important note (1)
 > **Speakers:** - previously (1)
 
-#### Others: Responsible neural architecture design
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/others-responsible-neural-architecture-design?u=76281980)
+#### [Others: Responsible neural architecture design](https://www.linkedin.com/learning/responsible-ai-and-application-development/others-responsible-neural-architecture-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1424,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), feature (2), llm (1)
 > **Analogies:** for example (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - in (1)
@@ -1451,12 +1433,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is transfer learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980)
+#### [What is transfer learning?](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=1)** - We've looked at your data and your system architecture, and we've identified places where you could think about potential biases.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=1)** - We've looked at your data and your [[System Architecture]], and we've identified places where you could think about potential biases.
 >
 > **[0:08](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=8)** One other important aspect in creating a machine learning model is to think about transfer learning.
 >
@@ -1498,7 +1479,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=128)** In coding terms, transfer learning is surprisingly straightforward.
 >
-> **[2:13](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=133)** With frameworks like PyTorch or TensorFlow, you can take a pre-trained model, you can freeze most of the layers to preserve their knowledge, and then you can replace the final classification layer with one that's suited to your task.
+> **[2:13](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=133)** With frameworks like [[PyTorch]] or [[TensorFlow]], you can take a pre-trained model, you can freeze most of the layers to preserve their knowledge, and then you can replace the final classification layer with one that's suited to your task.
 >
 > **[2:26](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980&t=146)** So, for example, instead of classifying thousands of items, you might only want diseased or not diseased, which is just two output neurons.
 >
@@ -1508,23 +1489,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[System Architecture]] (1), power (1), [[PyTorch]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[System Architecture]] (1), [[PyTorch]] (1), [[TensorFlow]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### The risks of transfer learning: Inheriting bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980)
+#### [The risks of transfer learning: Inheriting bias](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=1)** - So we've just looked at transfer learning and how powerful it can be to help you build models without having to do it from scratch.
 >
-> **[0:08](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=8)** But there is something that you should be aware of, and that is the risk of inheriting issues with responsible AI, such as inbuilt biases, from that model that you're building on top of.
+> **[0:08](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=8)** But there is something that you should be aware of, and that is the risk of inheriting issues with [[Responsible AI]], such as inbuilt biases, from that model that you're building on top of.
 >
 > **[0:19](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=19)** For example, take ImageNet.
 >
-> **[0:21](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=21)** It's one of the most widely used datasets for pre-trained computer vision models, ones such as AlexNet, ResNet, Inception, and Mobile Net, and many, many others as well.
+> **[0:21](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=21)** It's one of the most widely used datasets for pre-trained [[Computer Vision]] models, ones such as AlexNet, ResNet, Inception, and Mobile Net, and many, many others as well.
 >
 > **[0:31](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=31)** These models are some of the most widely used, particularly in transfer learning scenarios.
 >
@@ -1556,9 +1536,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=125)** Some models like BERT will disclose any inherent biases, which is really useful, but I always urge you to look further before you build on them.
 >
-> **[2:14](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=134)** For example, sticking with BERT for a moment, research such as that done by Hardmeier, Basta, et. al., published in the "Association for Computational Linguistics" compared 63 different models using BERT and fine tuning, and it showed that all of them yielded gender biases in language.
+> **[2:14](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=134)** For example, sticking with BERT for a moment, research such as that done by Hardmeier, Basta, et. al., published in the "Association for Computational Linguistics" compared 63 different models using BERT and [[Fine Tuning]], and it showed that all of them yielded gender biases in language.
 >
-> **[2:33](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=153)** It's good to read up on stuff like this to help you in your decision-making process when you're building on top of existing models.
+> **[2:33](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=153)** It's good to read up on stuff like this to help you in your [[Decision-Making]] process when you're building on top of existing models.
 >
 > **[2:41](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-transfer-learning-inheriting-bias?u=76281980&t=161)** So what can you do as a developer?
 >
@@ -1578,15 +1558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Computer Vision]] (2), data (1), [[Fine Tuning]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Computer Vision]] (2), [[Fine Tuning]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** bert (3)
 > **Best Practices:** good practice (2)
 > **Warnings:** be aware (2)
 > **Speakers:** - so (1)
 
-#### The risks of fine-tuning: Inheriting bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980)
+#### [The risks of fine-tuning: Inheriting bias](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1594,7 +1573,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=11)** Let me show you with a simple example, and that's the BERT model, which is one of the foundational ones in language exploration.
 >
-> **[0:19](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=19)** If I take these sets of words, which are obviously gendered, one set that's male-focused and another that's female-focused, I could use code like this to get the base BERT model and also get the embeddings within BERT for a particular word.
+> **[0:19](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=19)** If I take these sets of words, which are obviously gendered, one set that's male-focused and another that's female-focused, I could use code like this to get the base BERT model and also get the embeddings within BERT for a particular [[Microsoft Word|word]].
 >
 > **[0:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=34)** So then my sets of words about genders can be converted into embeddings like this.
 >
@@ -1660,7 +1639,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=247)** Words like doctor and assistant remained largely unchanged, but others like engineer got an even stronger female bias.
 >
-> **[4:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=256)** Now this might be because of association with words like designed in the fine tuning data set.
+> **[4:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=256)** Now this might be because of association with words like designed in the [[Fine Tuning]] data set.
 >
 > **[4:22](https://www.linkedin.com/learning/responsible-ai-and-application-development/the-risks-of-fine-tuning-inheriting-bias?u=76281980&t=262)** And only one word flipped from female to male, and that's scientist.
 >
@@ -1684,20 +1663,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fine Tuning]] (2), product (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fine Tuning]] (2)
 > **Env Vars:** bert (7)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Demonstrate BERT, inherited bias, and fine-tuning to fix
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980)
+#### [Demonstrate BERT, inherited bias, and fine-tuning to fix](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=0)** - [Instructor] This demo is one of my personal favorites.
 >
-> **[0:02](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=2)** And this is where we're going to take a look at implicit bias that may be encoded into the language sets of large language models.
+> **[0:02](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=2)** And this is where we're going to take a look at implicit bias that may be encoded into the language sets of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=10)** We saw this in the slides earlier when we were talking about Bert, and what I have done is I've created a couple of pieces of code for you that you can take a look at.
 >
@@ -1705,7 +1683,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=21)** And then the second one is this CH6_3.ipynb.
 >
-> **[0:25](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=25)** I'm going to show you the BERTBias.py one first and I'm just going to run that in Python in my handy dandy terminal.
+> **[0:25](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=25)** I'm going to show you the BERTBias.py one first and I'm just going to run that in [[Python (Programming Language)|Python]] in my handy dandy terminal.
 >
 > **[0:33](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=33)** So when I run this one, what's going to happen is you're going to see a few warnings, but it's going to take a look at bias, it's going to do the encodings of professions that I mentioned, and then it's going to reduce to like male or female encodings.
 >
@@ -1719,7 +1697,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=66)** But the idea being that, you know, the stronger the vector, the higher the number and then the plus or minus sign gives you the direction of that one.
 >
-> **[1:15](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=75)** So for example, in the original Bert scores, the word nurse is very, very, very strongly associated with female.
+> **[1:15](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=75)** So for example, in the original Bert scores, the [[Microsoft Word|word]] nurse is very, very, very strongly associated with female.
 >
 > **[1:22](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=82)** Given that it's 2.064.
 >
@@ -1809,7 +1787,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=358)** And use this with this code to then effectively fine tune Bert.
 >
-> **[6:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=363)** The details of fine tuning Bert are a little bit beyond the scope of this course, but the code here, you can take a look at it and you can dissect it and you can play with it.
+> **[6:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=363)** The details of [[Fine Tuning]] Bert are a little bit beyond the scope of this course, but the code here, you can take a look at it and you can dissect it and you can play with it.
 >
 > **[6:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/demonstrate-bert-inherited-bias-and-fine-tuning-to-fix?u=76281980&t=371)** So what I did then was that to do the same thing to output the details of these we're looking at the overall projections.
 >
@@ -1869,7 +1847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Python (Programming Language)|Python]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Python (Programming Language)|Python]] (1), [[Fine Tuning]] (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** make (3), python (1)
 > **File Paths:** 6-3.bertbias.py (1), bertbias.py (1)
@@ -1883,8 +1861,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible practices during training
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980)
+#### [Responsible practices during training](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,7 +1869,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980&t=11)** Much of that won't surface as issues until you start training your model.
 >
-> **[0:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980&t=16)** So let's explore what that would look like using computer vision.
+> **[0:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980&t=16)** So let's explore what that would look like using [[Computer Vision]].
 >
 > **[0:20](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980&t=20)** A few years ago, I created the popular Horses and Humans Dataset where there's a few hundred images of horses and humans that look like this.
 >
@@ -1946,15 +1923,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Computer Vision]] (2), ai (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2)
 > **CLI Commands:** find (2)
 > **Versions:** 0.3 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - earlier (1)
 
-#### Training an image classifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/training-an-image-classifier?u=76281980)
+#### [Training an image classifier](https://www.linkedin.com/learning/responsible-ai-and-application-development/training-an-image-classifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +2010,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -2045,8 +2020,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Considerations in model deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980)
+#### [Considerations in model deployment](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2056,7 +2030,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=19)** Let's explore this.
 >
-> **[0:21](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=21)** First is hardware and device accessibility.
+> **[0:21](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=21)** First is [[Hardware]] and device accessibility.
 >
 > **[0:24](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=24)** Various research estimates that the global share of low to mid-range smartphones is anywhere to 60 to 75% of the total global market share.
 >
@@ -2064,21 +2038,21 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=39)** Will it even run at all?
 >
-> **[0:40](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=40)** And if it does, how about the rest of the hardware on lower end devices, things like the cameras.
+> **[0:40](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=40)** And if it does, how about the [[Representational State Transfer (REST)|rest]] of the hardware on lower end devices, things like the cameras.
 >
 > **[0:46](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=46)** Earlier we looked at the bean disease data set, and this is a data set of various bean plant diseases that was collected from farms in Uganda.
 >
 > **[0:54](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=54)** It's relatively easy for you to build a classifier for this data, and a model that works to classify images where you take a photo of a leaf and determine if it's diseased or not, but it might work on your development machine or your test phone, but what about real phones out there in the real world, and in particular in places where the app would be most useful, like Uganda for this bean disease app.
 >
-> **[1:17](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=77)** Now there's work that you can do to mitigate bias issues there, and one that I really recommend is the Firebase Test Lab, which allows you to test your Android or iOS app on a variety of devices, both virtual and physical, and it's a lot more devices than you probably have access to yourself.
+> **[1:17](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=77)** Now there's work that you can do to mitigate bias issues there, and one that I really recommend is the [[Firebase]] Test Lab, which allows you to test your [[Android]] or iOS app on a variety of devices, both virtual and physical, and it's a lot more devices than you probably have access to yourself.
 >
 > **[1:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=94)** It won't help you find everything, but it is a huge leap forward to help you at least get some level of mitigation and help you do the model optimization and quantization to get your model to run on lower end devices and explore the performance trade-offs that come with that, as well as broadening the availability of your model and your app.
 >
 > **[1:54](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=114)** Similarly, if your model uses language, there are many documented disparities in model performance across different languages and cultures.
 >
-> **[2:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=123)** For example, consider this study published in the National Library of Medicine that showed racial disparities in automated speech recognition.
+> **[2:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=123)** For example, consider this study published in the National Library of Medicine that showed racial disparities in automated [[Speech Recognition]].
 >
-> **[2:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=131)** This research found that for a relatively small population of speakers, 42 were white, 73 were black, speech recognition systems had an average word error rate almost double for the black speakers than it did for the white ones.
+> **[2:11](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=131)** This research found that for a relatively small population of speakers, 42 were white, 73 were black, speech recognition systems had an average [[Microsoft Word|word]] error rate almost double for the black speakers than it did for the white ones.
 >
 > **[2:26](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980&t=146)** So if you're building anything that uses voice, you should consider who will be using it and where.
 >
@@ -2108,15 +2082,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Hardware]] (3), cloud (3), [[Speech Recognition]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Speech Recognition]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Firebase]] (1), [[Android]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** ios (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Ops and continuous evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980)
+#### [Ops and continuous evaluation](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2126,7 +2099,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=16)** And let's look at that in a little more detail.
 >
-> **[0:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=18)** The process of MLOps can be broken down into six steps, going from data to deployment.
+> **[0:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=18)** The process of [[MLOps]] can be broken down into six steps, going from data to deployment.
 >
 > **[0:24](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=24)** We've looked at the data, training, testing, and deployment pipelines, and we've explored them from the perspective of responsibility and bias in detail already.
 >
@@ -2168,13 +2141,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=167)** And this cycle repeats with more monitoring of the new system.
 >
-> **[2:50](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=170)** This way, you can continually learn and improve your system, not just from a responsibility of bias aspect, but for everything, from performance to user experience to overall quality.
+> **[2:50](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=170)** This way, you can continually learn and improve your system, not just from a responsibility of bias aspect, but for everything, from performance to [[User Experience (UX)|user experience]] to overall quality.
 >
-> **[3:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=183)** So when you've put all of these steps that we've covered together into your overall machine learning strategy, you'll be taking a huge leap towards building better and more responsible AI.
+> **[3:03](https://www.linkedin.com/learning/responsible-ai-and-application-development/ops-and-continuous-evaluation?u=76281980&t=183)** So when you've put all of these steps that we've covered together into your overall machine learning strategy, you'll be taking a huge leap towards building better and more [[Responsible AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[MLOps]] (2), feature (2), next (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (2), [[User Experience (UX)|User experience]] (1), [[Responsible AI]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - training (1)
 
@@ -2183,8 +2156,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your responsible AI journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980)
+#### [Continue your responsible AI journey](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2192,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=5)** We've been on a journey to explore the end-to-end machine learning lifecycle and explored how bias and responsible practices can and should intersect with everything you do while performing machine learning.
 >
-> **[0:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=18)** We started with data and understanding that the very act of data collection and curation can encode societal biases, and we learned that asking what is not represented in a data set is just as important as what is.
+> **[0:18](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=18)** We started with data and understanding that the very act of [[Data Collection]] and curation can encode societal biases, and we learned that asking what is not represented in a data set is just as important as what is.
 >
 > **[0:34](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=34)** Then we saw pre-processing and augmentation and how the technical choices we make can amplify or mitigate existing biases.
 >
@@ -2202,17 +2174,17 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=66)** We looked at model architectures and how the choice of architecture, loss function and optimizer can inadvertently lead to issues of bias, where the very process of rewarding the machine for learning can lead it to learning the wrong things.
 >
-> **[1:20](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=80)** Similarly, for transfer learning and fine tuning, we saw that building on existing work is not just a handy shortcut to help us build better and quicker, but it does come with a cost and that is of inheriting the existing biases within that model.
+> **[1:20](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=80)** Similarly, for transfer learning and [[Fine Tuning]], we saw that building on existing work is not just a handy shortcut to help us build better and quicker, but it does come with a cost and that is of inheriting the existing biases within that model.
 >
 > **[1:37](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=97)** We also saw that while training our model, we have to keep a close eye on its performance and how by digging deeper than just accuracy and loss, we can discover interesting details and potential biases that we weren't aware of.
 >
 > **[1:51](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=111)** When looking at deployment, we saw that we need to understand where and how a model gets deployed because what works on our test systems may not work in the field.
 >
-> **[2:02](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=122)** Particularly in emerging markets where lower cost and lower powered hardware is commonplace, responsibility does not end with us building a fair model.
+> **[2:02](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=122)** Particularly in emerging markets where lower cost and lower powered [[Hardware]] is commonplace, responsibility does not end with us building a fair model.
 >
 > **[2:12](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=132)** We have to make sure that it works across different and diverse environments.
 >
-> **[2:17](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=137)** Finally, we looked at MLOps and how it provides a framework for continuous improvement, allowing us to monitor, detect, and address bias throughout the system's lifecycle.
+> **[2:17](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=137)** Finally, we looked at [[MLOps]] and how it provides a framework for continuous improvement, allowing us to monitor, detect, and address bias throughout the system's lifecycle.
 >
 > **[2:29](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=149)** We saw how to gather data and implement feedback loops to help our system be better.
 >
@@ -2226,11 +2198,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=176)** And that brings me to the end of this course.
 >
-> **[2:58](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=178)** And next up my friend Jigyasa is going to go into detail around AI model integration with a focus on large language models.
+> **[2:58](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980&t=178)** And next up my friend Jigyasa is going to go into detail around AI model integration with a focus on [[Large Language Models (LLM)|large language models]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Fine Tuning]] (1), [[Hardware]] (1), [[MLOps]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Fine Tuning]] (1), [[Hardware]] (1), [[MLOps]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - wow (1)

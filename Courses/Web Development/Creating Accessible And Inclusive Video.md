@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prioritize video accessibility and inclusivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980)
+#### [Prioritize video accessibility and inclusivity](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980&t=4)** It's a crucial step towards serving your audience and enhancing overall usability. By creating videos that are accessible to people of all ability levels, you extend your reach to ensure everyone is able to access, navigate, and comprehend your content no matter their circumstance.
 >
-> **[0:22](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980&t=22)** It's also important to be intentional about inclusivity, prioritizing diversity and inclusion every step of the way.
+> **[0:22](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980&t=22)** It's also important to be intentional about inclusivity, prioritizing [[Diversity and Inclusion]] every step of the way.
 >
 > **[0:29](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980&t=29)** Your content should reflect a variety of perspectives, stories, and voices, and never alienate or confuse.
 >
@@ -102,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of creating an accessible experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980)
+#### [Benefits of creating an accessible experience](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=28)** And people with disabilities want and deserve the same access to experience as everyone else.
 >
-> **[0:34](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=34)** I talked with Jennison Asuncion, head of Accessibility Engineering and Evangelism at LinkedIn.
+> **[0:34](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=34)** I talked with Jennison Asuncion, head of Accessibility Engineering and Evangelism at [[LinkedIn]].
 >
 > **[0:39](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=39)** Here's what he had to say.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=71)** The World Health Organization tells us that about 16 percent of the world population identifies as having a disability.
 >
-> **[1:18](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=78)** That's about one in six of us. When it comes to interacting with video, there are many disabilities that rely on accessible design like blindness, low vision, color blindness, deafness, hearing loss, motor impairments, cognitive impairments, and more.
+> **[1:18](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=78)** That's about one in six of us. When it comes to interacting with video, there are many disabilities that rely on [[Accessible Design]] like blindness, low vision, color blindness, deafness, hearing loss, motor impairments, cognitive impairments, and more.
 >
 > **[1:36](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=96)** Disability is cut across every dimension of human identity, age, gender, ethnicity, socioeconomic status, and more.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=311)** If at least 16 percent of the population can benefit from accessible design, you're unlocking the opportunity for many more people to become viewers, users, customers, and advocates.
 >
-> **[5:25](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=325)** Also, accessibility typically results in a better user experience for all viewers, not just those with disabilities.
+> **[5:25](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=325)** Also, accessibility typically results in a better [[User Experience (UX)|user experience]] for all viewers, not just those with disabilities.
 >
 > **[5:32](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980&t=332)** That means that, overall, you may see increased views, longer viewing times, higher user engagement, increased conversions, and more.
 >
@@ -217,13 +215,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[LinkedIn]] (2), [[Engineering]] (1), [[Accessible Design]] (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Accessible Design]] (1)
 > **Env Vars:** wcag (4)
 > **Definitions:** means that (2)
 > **Analogies:** think of it as (1), for example (1)
 
-#### Benefits of creating inclusive content
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980)
+#### [Benefits of creating inclusive content](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=8)** I'd like to talk about some of these, but first, let's just define what I mean by inclusive video.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=14)** I'm talking about content that prioritizes diversity and inclusion in both the content itself and the people that create the content.
+> **[0:14](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=14)** I'm talking about content that prioritizes [[Diversity and Inclusion]] in both the content itself and the people that create the content.
 >
 > **[0:22](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=22)** That means the writers, producers, directors, crew, and other creative roles should be a diverse, representative population.
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=94)** Diverse teams often bring a wider range of perspectives to the creative process.
 >
-> **[1:39](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=99)** This often drives more authentic, innovative storytelling that can stand out in a crowded market.
+> **[1:39](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=99)** This often drives more authentic, innovative [[Storytelling]] that can stand out in a crowded market.
 >
 > **[1:46](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=106)** Side benefit, being positioned to respond to the wide-ranging needs and expectations of diverse audiences may offer you a competitive advantage.
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=138)** That is, audiences may feel a deeper connection to your message or brand, and therefore may be more likely to engage with and share the content.
 >
-> **[2:28](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=148)** I'll also mention that it's good to be ahead of the curve with regard to legal compliance.
+> **[2:28](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=148)** I'll also mention that it's good to be ahead of the curve with regard to [[Legal Compliance]].
 >
 > **[2:33](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-inclusive-content?u=76281980&t=153)** In some regions and industries, there are legal requirements to ensure diversity and inclusion in media, particularly with commercial content and advertising.
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Diversity and Inclusion]] (2), teams (1), [[Storytelling]] (1), [[Legal Compliance]] (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), [[Storytelling]] (1), [[Legal Compliance]] (1)
 > **Cross-References:** later in (1)
 
 
@@ -287,8 +284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be thoughtful about color, contrast, and light
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980)
+#### [Be thoughtful about color, contrast, and light](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980&t=78)** For these reasons, it's important that video content doesn't convey information solely by color, and when colors are used, they need to be clearly distinguishable from one another.
 >
-> **[1:30](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980&t=90)** You'll apply this principle to any visuals that convey information like text, charts, infographics, and so on.
+> **[1:30](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980&t=90)** You'll apply this principle to any visuals that convey information like text, charts, [[Infographics]], and so on.
 >
 > **[1:38](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980&t=98)** Take a look at this graphic that contains three colors.
 >
@@ -380,14 +376,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1)
 > **Definitions:** is a  (3)
 > **Versions:** 4.5 (2)
 > **Warnings:** warning (1), note that (1)
 > **Env Vars:** wcag (1)
 
-#### Optimize for text clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/optimize-for-text-clarity?u=76281980)
+#### [Optimize for text clarity](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/optimize-for-text-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,13 +466,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** make (5)
 > **Best Practices:** make sure to (2)
 > **Env Vars:** wcag (1)
 
-#### Create captions for all audiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980)
+#### [Create captions for all audiences](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=149)** One final benefit, captions are invaluable for business and marketing efforts.
 >
-> **[2:35](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=155)** They improve search engine optimization of your video since text-based content is much better indexed by search engines and makes your content more discoverable.
+> **[2:35](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=155)** They improve [[Search Engine Optimization (SEO)|search engine optimization]] of your video since text-based content is much better indexed by search engines and makes your content more discoverable.
 >
 > **[2:45](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=165)** Now you can create either open captions or closed captions.
 >
@@ -541,7 +534,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=203)** Now, the industry standard for accessible captions is 99 percent accuracy for punctuation, spelling, and grammar.
 >
-> **[3:33](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=213)** Most automatic speech recognition technologies have an accuracy rate of around 80 percent.
+> **[3:33](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=213)** Most automatic [[Speech Recognition]] technologies have an accuracy rate of around 80 percent.
 >
 > **[3:39](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-captions-for-all-audiences?u=76281980&t=219)** So needless to say, video captions can vary widely in quality.
 >
@@ -573,11 +566,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Speech Recognition]] (2), business (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Analogies:** for example (1)
 
-#### Create subtitles and consider other localization strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-subtitles-and-consider-other-localization-strategies?u=76281980)
+#### [Create subtitles and consider other localization strategies](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-subtitles-and-consider-other-localization-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,14 +651,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Env Vars:** speaking (2), sdh (1), french (1), german (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 
-#### Create a transcript
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980)
+#### [Create a transcript](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,7 +714,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=194)** Transcripts are also great resources to use with various AI tools.
 >
-> **[3:19](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=199)** If you need a quick summary of video content, simply ingest the transcript into a program like ChatGPT and ask it to summarize the main points or perform any other analysis of the contents.
+> **[3:19](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=199)** If you need a quick summary of video content, simply ingest the transcript into a program like [[ChatGPT]] and ask it to summarize the main points or perform any other analysis of the contents.
 >
 > **[3:31](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=211)** Transcripts are also useful in situations where video bandwidth is an issue.
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=252)** Otherwise, you'll just need to reformat it by deleting the timestamps.
 >
-> **[4:16](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=256)** You can also use automatic speech recognition.
+> **[4:16](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=256)** You can also use automatic [[Speech Recognition]].
 >
 > **[4:19](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-a-transcript?u=76281980&t=259)** Just like with captions though, realize it should only be used to give you a head start.
 >
@@ -758,7 +748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Search]] (1), ai (1), [[ChatGPT]] (1), seo (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Speech Recognition]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1), click on (1)
 > **Analogies:** imagine (1), just like (1)
@@ -767,8 +757,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Create audio descriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980)
+#### [Create audio descriptions](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,7 +785,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=88)** Let me show you an example of a video with audio descriptions.
 >
-> **[1:31](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=91)** Take word prediction.
+> **[1:31](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=91)** Take [[Microsoft Word|word]] prediction.
 >
 > **[1:33](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=93)** As a hand types on a phone keyboard, predictions are generated on the screen.
 >
@@ -818,7 +807,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=163)** Open audio descriptions, which play automatically and can't be turned off.
 >
-> **[2:47](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=167)** And real-time audio descriptions, which is live commentary provided by a professional audio describer via headphones and a transmitter.
+> **[2:47](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=167)** And [[Real-Time]] audio descriptions, which is live commentary provided by a professional audio describer via headphones and a transmitter.
 >
 > **[2:56](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=176)** Now that's a tool mostly for live events and performances rather than pre-recorded videos.
 >
@@ -828,7 +817,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=195)** Then you'll simply label these videos accordingly.
 >
-> **[3:17](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=197)** That's what we've done here in the LinkedIn Learning Library, for example.
+> **[3:17](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=197)** That's what we've done here in the [[LinkedIn]] Learning Library, for example.
 >
 > **[3:21](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/create-audio-descriptions?u=76281980&t=201)** Second, you can simply add an extra audio track and the viewer can choose whether or not to play it.
 >
@@ -858,15 +847,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Real-Time]] (1), [[LinkedIn]] (1)
 > **Env Vars:** foreign (1), language (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 
-#### Include a sign language interpreter
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/include-a-sign-language-interpreter?u=76281980)
+#### [Include a sign language interpreter](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/include-a-sign-language-interpreter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,14 +916,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Analogies:** picture (10), similar to (1)
 > **Speakers:** - for (2), - there (1), - i (1), - people (1)
 > **Env Vars:** asl (1)
 > **Definitions:** is a  (1)
 
-#### Choose accessible video and audio formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-accessible-video-and-audio-formats?u=76281980)
+#### [Choose accessible video and audio formats](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-accessible-video-and-audio-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,16 +955,15 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-accessible-video-and-audio-formats?u=76281980&t=101)** Or, if you don't want to post low-resolution versions, you can also post the full video along with smaller downloads of multiple sections of the video; part one, part two, part three, and so on.
 >
-> **[1:53](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-accessible-video-and-audio-formats?u=76281980&t=113)** Through all of this, your goal should be to prioritize accessibility and user experience by delivering high-quality video content while also ensuring it's accessible to as many users as possible, regardless of their Internet connection or assistive technology.
+> **[1:53](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-accessible-video-and-audio-formats?u=76281980&t=113)** Through all of this, your goal should be to prioritize accessibility and [[User Experience (UX)|user experience]] by delivering high-quality video content while also ensuring it's accessible to as many users as possible, regardless of their Internet connection or assistive technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** mp4 (3), h264 (2), aac (2), h265 (1)
 > **Exercise Files:** exercise files (1)
 
-#### Choose an accessible video player
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-an-accessible-video-player?u=76281980)
+#### [Choose an accessible video player](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-an-accessible-video-player?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-an-accessible-video-player?u=76281980&t=77)** And the video player should be responsive, which means that it automatically adapts to different screen sizes and devices.
 >
-> **[1:25](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-an-accessible-video-player?u=76281980&t=85)** Beyond that, some nice-to-have features include things like the support of speech recognition technology, which is important for users that can't use either a keyboard or a mouse, and allowing users to adjust the appearance of captions and subtitles, which might include the ability to change font size, color, background opacity, and positioning, and then including informative error messages and notifications for users with disabilities.
+> **[1:25](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-an-accessible-video-player?u=76281980&t=85)** Beyond that, some nice-to-have features include things like the support of [[Speech Recognition]] technology, which is important for users that can't use either a keyboard or a mouse, and allowing users to adjust the appearance of captions and subtitles, which might include the ability to change font size, color, background opacity, and positioning, and then including informative error messages and notifications for users with disabilities.
 >
 > **[1:53](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/choose-an-accessible-video-player?u=76281980&t=113)** So if a video fails to load, for example, the player provides an accessible error message and a suggestion to rectify the issue.
 >
@@ -1040,13 +1025,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (1)
 > **Definitions:** means that (2), is an  (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
 
-#### Plan proactively and test for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/plan-proactively-and-test-for-accessibility?u=76281980)
+#### [Plan proactively and test for accessibility](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/plan-proactively-and-test-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/plan-proactively-and-test-for-accessibility?u=76281980&t=12)** There are many reasons for this.
 >
-> **[0:14](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/plan-proactively-and-test-for-accessibility?u=76281980&t=14)** First of all, it gives you the best chance at achieving consistency in aesthetic, style, and user experience.
+> **[0:14](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/plan-proactively-and-test-for-accessibility?u=76281980&t=14)** First of all, it gives you the best chance at achieving consistency in aesthetic, style, and [[User Experience (UX)|user experience]].
 >
 > **[0:21](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/plan-proactively-and-test-for-accessibility?u=76281980&t=21)** That's because if you plan ahead, accessibility can be seamlessly integrated.
 >
@@ -1110,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), product (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3)
 > **Env Vars:** wcag (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
@@ -1121,14 +1105,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be thoughtful about featuring diverse video topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980)
+#### [Be thoughtful about featuring diverse video topics](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=0)** So far we've been talking about creating accessible video, which is all about making sure anyone, regardless of ability, can view and comprehend your content without issue.
 >
-> **[0:10](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=10)** Now we're going to shift to talking about creating inclusive content, which is about prioritizing diversity and inclusion in the content itself and in the people that create it.
+> **[0:10](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=10)** Now we're going to shift to talking about creating inclusive content, which is about prioritizing [[Diversity and Inclusion]] in the content itself and in the people that create it.
 >
 > **[0:21](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=21)** I'm primarily talking about diversity in the multifaceted layers of human identity: Race, ethnicity, background, age, faith, sexual orientation, ability status, body type, socioeconomic status, and more.
 >
@@ -1190,7 +1173,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=244)** It meant getting out of my comfort zone, gaining the trust of an entirely new, diverse population, and working with them weekly to create their videos.
 >
-> **[4:13](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=253)** But I think the result was well worth it for the individuals in CRED, for the nonprofit itself, as well as for my audience, the LinkedIn Learning community.
+> **[4:13](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=253)** But I think the result was well worth it for the individuals in CRED, for the nonprofit itself, as well as for my audience, the [[LinkedIn]] Learning community.
 >
 > **[4:24](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980&t=264)** During the entire process of topic ideation and selection, inclusive goals should not be an afterthought.
 >
@@ -1198,18 +1181,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), feature (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), [[LinkedIn]] (1)
 > **Env Vars:** cred (3)
 > **Warnings:** be careful (1)
 
-#### Script with diversity and inclusion in mind
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/script-with-diversity-and-inclusion-in-mind?u=76281980)
+#### [Script with diversity and inclusion in mind](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/script-with-diversity-and-inclusion-in-mind?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/script-with-diversity-and-inclusion-in-mind?u=76281980&t=0)** Prioritizing diverse and inclusive topic selection is a great start, but it's important to follow that up with inclusive writing practices.
 >
-> **[0:09](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/script-with-diversity-and-inclusion-in-mind?u=76281980&t=9)** That means fostering thoughtful consideration for language, representation, and storytelling to ensure the content resonates with diverse audiences.
+> **[0:09](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/script-with-diversity-and-inclusion-in-mind?u=76281980&t=9)** That means fostering thoughtful consideration for language, representation, and [[Storytelling]] to ensure the content resonates with diverse audiences.
 >
 > **[0:19](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/script-with-diversity-and-inclusion-in-mind?u=76281980&t=19)** Certainly, working with diverse writers, consultants, and advisors is an essential first step.
 >
@@ -1287,15 +1269,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (2), [[Storytelling]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cred (2), lgbtq (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** important note (1), be aware (1)
 > **Analogies:** for example (1)
 
-#### Avoid jargon, buzzwords, and insider terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/avoid-jargon-buzzwords-and-insider-terms?u=76281980)
+#### [Avoid jargon, buzzwords, and insider terms](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/avoid-jargon-buzzwords-and-insider-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,13 +1342,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), web (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nle (1)
 > **Analogies:** for example (1)
 
-#### Recruit a diverse video crew
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/recruit-a-diverse-video-crew?u=76281980)
+#### [Recruit a diverse video crew](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/recruit-a-diverse-video-crew?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/recruit-a-diverse-video-crew?u=76281980&t=35)** That's because people from diverse backgrounds working together approach creative challenges in unique ways.
 >
-> **[0:41](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/recruit-a-diverse-video-crew?u=76281980&t=41)** Now, the types of challenges in video production are multifaceted, everything from creative concerns to logistical issues to time constraints.
+> **[0:41](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/recruit-a-diverse-video-crew?u=76281980&t=41)** Now, the types of challenges in [[Video Production]] are multifaceted, everything from creative concerns to logistical issues to time constraints.
 >
 > **[0:51](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/recruit-a-diverse-video-crew?u=76281980&t=51)** So having a wide spectrum of voices and approaches can be a great asset.
 >
@@ -1435,12 +1414,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Video Production]] (3), teams (1), product (1)
+> **Frameworks & Libraries:** [[Video Production]] (3)
 > **Env Vars:** cred (1)
 > **Exercise Files:** exercise files (1)
 
-#### Cast diverse talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980)
+#### [Cast diverse talent](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1444,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=67)** When general audiences consistently see diverse characters represented positively, it reaps major societal benefits for all.
 >
-> **[1:16](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=76)** Diverse casting can also influence broader movements for diversity and inclusion in the media industry, potentially shaping industry norms and driving positive change.
+> **[1:16](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=76)** Diverse casting can also influence broader movements for [[Diversity and Inclusion]] in the media industry, potentially shaping industry norms and driving positive change.
 >
 > **[1:28](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=88)** I'd like to talk at a high level about some diverse casting strategies, from script to screen.
 >
@@ -1500,7 +1478,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=203)** Your efforts are worth it.
 >
-> **[3:24](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=204)** They're not only a reflection of the evolving demographics of our society, but also a strategic decision that enhances storytelling, broadens audience appeal, and contributes to positive social change.
+> **[3:24](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/cast-diverse-talent?u=76281980&t=204)** They're not only a reflection of the evolving demographics of our society, but also a strategic decision that enhances [[Storytelling]], broadens audience appeal, and contributes to positive social change.
 
 > [!info]- Semantic Content
 >
@@ -1508,8 +1486,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 
-#### Prioritize diverse asset creation and curation
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980)
+#### [Prioritize diverse asset creation and curation](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1537,9 +1514,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=91)** Also, ask your talent if they have personal videos from their own collections that they can contribute.
 >
-> **[1:37](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=97)** Of course, always respect privacy and secure the appropriate permissions for whoever and wherever you shoot.
+> **[1:37](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=97)** Of course, always respect [[Privacy]] and secure the appropriate permissions for whoever and wherever you shoot.
 >
-> **[1:44](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=104)** Curating inclusive visuals is another important part of video production.
+> **[1:44](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=104)** Curating inclusive visuals is another important part of [[Video Production]].
 >
 > **[1:49](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=109)** This often involves sifting through stock footage and image sites, which can be laborious, painstaking work.
 >
@@ -1571,7 +1548,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=197)** Prioritize inclusive design that features a variety of characters across the various spectrums of diversity.
 >
-> **[3:25](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=205)** Here are some examples of different graphics collections that we use here at LinkedIn Learning.
+> **[3:25](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=205)** Here are some examples of different graphics collections that we use here at [[LinkedIn]] Learning.
 >
 > **[3:30](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-diverse-asset-creation-and-curation?u=76281980&t=210)** You can see that each thoughtfully branded package features very different characters and iconography.
 >
@@ -1585,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Privacy]] (1), [[Video Production]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Video Production]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -1595,8 +1572,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1588,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=34)** Here are some valuable courses and learning paths to help you dive into accessibility topics.
 >
-> **[0:39](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=39)** And here are some courses and learning paths to support your efforts to learn more about diversity and inclusion.
+> **[0:39](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=39)** And here are some courses and learning paths to support your efforts to learn more about [[Diversity and Inclusion]].
 >
 > **[0:47](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=47)** And here are some courses that specifically expand on the intersection of video and topics in accessibility, diversity, and inclusion.
 >
@@ -1622,7 +1598,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=68)** When I display information on screen and don't read it out verbatim, people with vision loss can miss the content.
 >
-> **[1:15](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=75)** At the same time, I'm not always able to read every word.
+> **[1:15](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=75)** At the same time, I'm not always able to read every [[Microsoft Word|word]].
 >
 > **[1:19](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980&t=79)** So finding ways to serve the entire population, like allowing people with screen readers to use course handouts, can be another accessible solution.
 >
@@ -1632,7 +1608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[Diversity and Inclusion]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 

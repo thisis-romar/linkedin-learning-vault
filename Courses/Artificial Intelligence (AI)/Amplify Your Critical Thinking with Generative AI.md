@@ -67,12 +67,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A timeless framework for an evolving technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980)
+#### [A timeless framework for an evolving technology](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=0)** - By the time you're taking this course, generative AI will likely look different than it did 60 days ago.
+> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=0)** - By the time you're taking this course, [[Generative AI]] will likely look different than it did 60 days ago.
 >
 > **[0:07](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980&t=7)** With the mind blowing flood of information and rapid pace of change, how do you determine what's true, what's accurate?
 >
@@ -84,11 +83,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Speakers:** - by (1)
 
-#### Putting generative AI to the critical thinking test
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980)
+#### [Putting generative AI to the critical thinking test](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=11)** Imagine you hear about a GenAI that offers to predict the next big stock market trend.
 >
-> **[0:17](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=17)** How do you react?
+> **[0:17](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=17)** How do you [[React.js|react]]?
 >
 > **[0:21](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-to-the-critical-thinking-test?u=76281980&t=21)** A, interesting.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1)
@@ -185,14 +183,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting generative AI through the truth filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980)
+#### [Putting generative AI through the truth filter](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=0)** - At my company, Applied Curiosity Lab, we talk about good thinking being made up of three types of thinking.
 >
-> **[0:08](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=8)** Strategic thinking, the chess game.
+> **[0:08](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=8)** [[Strategic Thinking]], the chess game.
 >
 > **[0:11](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=11)** Looking several moves ahead and assessing risks and evaluating opportunities.
 >
@@ -220,9 +217,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=104)** Next, you ask GenAI to help you get creative to maximize buzz.
 >
-> **[1:50](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=110)** It suggests launching a winter themed event with a social media marketing campaign around the hashtag #CaliWinterIsComing.
+> **[1:50](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=110)** It suggests launching a winter themed event with a [[Social Media Marketing]] campaign around the hashtag #CaliWinterIsComing.
 >
-> **[1:59](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=119)** It even suggests live streaming an ice cube art sculpting contests.
+> **[1:59](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=119)** It even suggests [[Live Streaming]] an ice cube art sculpting contests.
 >
 > **[2:04](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980&t=124)** Feeling confident, you place a big order for puffer scarves and oversized ear muffs, and you plan your winter launch.
 >
@@ -252,13 +249,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Strategic Thinking]] (1), game (1), next (1), [[Social Media Marketing]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), [[Social Media Marketing]] (1), [[Live Streaming]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - at (1)
 
-#### Identifying biases in generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980)
+#### [Identifying biases in generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=94)** Representation bias exists because training data might not be fully representative of all perspectives or groups.
 >
-> **[1:43](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=103)** So ask, "Do your statistics on the benefits of an MBA include perspectives from various demographics such as minorities and women?
+> **[1:43](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=103)** So ask, "Do your [[Statistics]] on the benefits of an MBA include perspectives from various demographics such as minorities and women?
 >
 > **[1:53](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=113)** When citing success rates for MBA graduates, are you considering people from different socioeconomic backgrounds, or are the sources you're referencing skewed toward a particular demographic or point of view?"
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=160)** How might cultural perceptions be affecting your recommendation?"
 >
-> **[2:45](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=165)** Algorithm bias exists because although the algorithms that power your favorite GenAI might be designed to be neutral, the way they weigh different types of information could introduce bias.
+> **[2:45](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=165)** Algorithm bias exists because although the [[Algorithms]] that power your favorite GenAI might be designed to be neutral, the way they weigh different types of information could introduce bias.
 >
 > **[2:59](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-generative-ai?u=76281980&t=179)** For example, more frequently occurring viewpoints in the data might be given more prominence.
 >
@@ -330,15 +326,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (4), career (2), [[Statistics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Algorithms]] (1)
 > **Env Vars:** mba (10)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Identifying biases in your thinking using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-your-thinking-using-generative-ai?u=76281980)
+#### [Identifying biases in your thinking using generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/identifying-biases-in-your-thinking-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +403,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (10), data (6), next (1), ai (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2), for example (1)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -419,8 +413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the PIQPACC critical thinking framework with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980)
+#### [Using the PIQPACC critical thinking framework with generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=28)** But it's neither our default way of thinking, nor is it a way of thinking that smart people just automatically know.
 >
-> **[0:35](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=35)** It's a learned skill, and while everyone can learn to think critically, there are even several excellent LinkedIn Learning courses to learn from, it can be hard to remember the nuanced parts of it, especially while trying to make sense of the massive amounts of information.
+> **[0:35](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=35)** It's a learned skill, and while everyone can learn to think critically, there are even several excellent [[LinkedIn]] Learning courses to learn from, it can be hard to remember the nuanced parts of it, especially while trying to make sense of the massive amounts of information.
 >
 > **[0:52](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980&t=52)** We're smart but we're overwhelmed.
 >
@@ -478,15 +471,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** piqpacc (5)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), stands for (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - from (1)
 
-#### Establishing purpose boundaries when researching with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980)
+#### [Establishing purpose boundaries when researching with generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=61)** They started to get excited about generating new programs and fundraising ideas, but Sarah was able to convince them to start by establishing purpose and purpose boundaries.
 >
-> **[1:13](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=73)** Here's what Sarah shared with ChatGPT.
+> **[1:13](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=73)** Here's what Sarah shared with [[ChatGPT]].
 >
 > **[1:17](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=77)** "We're a 15-member board of directors charged with governing a school whose purpose is to care for and educate at-risk youth?
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=214)** We strive for educational outcomes that ensure a minimum of an 80% high school graduation rate, with support systems in place to aid each child for up to 12 years.
 >
-> **[3:46](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=226)** The success of our programs will be gauged by consistent yearly advancement in education levels, market improvements in emotional and mental well-being, and the successful integration of at least 70% of our students into higher education institutions, or vocational programs post-graduation.
+> **[3:46](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=226)** The success of our programs will be gauged by consistent yearly advancement in education levels, market improvements in emotional and mental well-being, and the successful integration of at least 70% of our students into [[Higher Education]] institutions, or vocational programs post-graduation.
 >
 > **[4:07](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/establishing-purpose-boundaries-when-researching-with-generative-ai?u=76281980&t=247)** We will support no more than 30 students at a time, and over the next decade, we aim to see a 10% increase in our high school graduation rates, and a 20% increase in post-program integration.
 >
@@ -580,12 +572,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (5), [[Higher Education]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Higher Education]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - my (1)
 
-#### Testing information quality using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980)
+#### [Testing information quality using generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +640,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=198)** And different GenAI enabled with different capabilities access different data sets.
 >
-> **[3:25](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=205)** The board asked ChatGPT.
+> **[3:25](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=205)** The board asked [[ChatGPT]].
 >
 > **[3:27](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=207)** We're assessing a claim supported by an article from "Horse Sense Magazine", stating that horse-assisted psychotherapy provides the most effective emotional support for at-risk students.
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=241)** ChatGPT then went on to offer articles from sources that discussed equine assisted therapies.
 >
-> **[4:08](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=248)** When the board asked Bard, Google's AI chatbot, the same question, this was Bard's response.
+> **[4:08](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=248)** When the board asked Bard, [[Google]]'s AI chatbot, the same question, this was Bard's response.
 >
 > **[4:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/testing-information-quality-using-generative-ai?u=76281980&t=256)** "Horse Sense Magazine" is a reliable source of information on equine therapy for at-risk youth.
 >
@@ -685,14 +676,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (3), data (1), [[Google]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Google]] (1)
 > **Env Vars:** rrv (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - experts (1)
 
-#### Using generative AI to create empowered questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980)
+#### [Using generative AI to create empowered questions](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +728,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=148)** After doing this, Sarah went to work with GenAI.
 >
-> **[2:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=152)** Here's what she shared with ChatGPT.
+> **[2:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=152)** Here's what she shared with [[ChatGPT]].
 >
 > **[2:36](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=156)** She shared her objective, "I'm helping a three person executive board generate a thoughtful analysis of a fundraising campaign for a school for at risk youth."
 >
@@ -764,7 +754,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=250)** And for Vijay, the voice actor, "Vijay, as a voice actor, you bring stories to life.
 >
-> **[4:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=256)** How can we use the power of voice and storytelling in our fundraising campaign to amplify the stories of our students, making them resonate with donors and compelling them to support our mission?"
+> **[4:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=256)** How can we use the power of voice and [[Storytelling]] in our fundraising campaign to amplify the stories of our students, making them resonate with donors and compelling them to support our mission?"
 >
 > **[4:29](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-create-empowered-questions?u=76281980&t=269)** When you're able to ask empowered questions, it can feel like a superpower.
 >
@@ -774,13 +764,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), gis (2), [[ChatGPT]] (2), power (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Storytelling]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gis (2)
 > **Speakers:** - think (1)
 
-#### Using generative AI for perspective simulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980)
+#### [Using generative AI for perspective simulation](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +787,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=53)** Seeking to understand different perspectives is a requirement for critical thinking, but it's been a difficult one until now.
 >
-> **[1:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=63)** Welcome to Perspective Simulation, one of the most exciting critical thinking use cases for Gen AI because the next step in pick pack is P, Perspectives.
+> **[1:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=63)** Welcome to Perspective [[Simulation]], one of the most exciting critical thinking use cases for Gen AI because the next step in pick pack is P, Perspectives.
 >
 > **[1:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=76)** The idea is to simulate perspectives with regard to a specific claim.
 >
@@ -816,7 +805,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=121)** Consider human and non-human perspectives."
 >
-> **[2:05](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=125)** Here are some perspectives that ChatGPT came up with.
+> **[2:05](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=125)** Here are some perspectives that [[ChatGPT]] came up with.
 >
 > **[2:10](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=130)** City bird: "Increase in pet ownership, particularly of cats, poses a threat to local bird populations.
 >
@@ -828,7 +817,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=162)** NASA Astronaut: "In a confined spaceship, a small, low-maintenance pet could provide emotional support, helping astronauts cope with the loneliness of space and the stress of long missions."
 >
-> **[2:56](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=176)** Futurist and tech enthusiasts from Silicon Valley: "Virtual and augmented reality technologies are creating immersive pet simulations that can interact with users in real-time.
+> **[2:56](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=176)** Futurist and tech enthusiasts from Silicon Valley: "Virtual and augmented reality technologies are creating immersive pet simulations that can interact with users in [[Real-Time]].
 >
 > **[3:08](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-for-perspective-simulation?u=76281980&t=188)** These digital pets can be programmed to provide all the emotional support a real pet offers without any of the logistical challenges like feeding and cleaning or health issues."
 >
@@ -854,14 +843,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Simulation]] (2), next (2), [[ChatGPT]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[ChatGPT]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** nasa (1)
 > **Speakers:** - what (1)
 
-#### Using generative AI to probe assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980)
+#### [Using generative AI to probe assumptions](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +863,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=27)** I'll show you how our coaching client, Nia, used GenAI to probe assumptions so she could make a wise decision about expanding her real estate business.
 >
-> **[0:38](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=38)** Nia shared her decision and claim and then asked ChatGPT to unveil and probe her assumptions, "I'm an experienced real estate professional thinking of expanding my business because," and this was her claim, "business is booming, by brand is increasingly valued and well-known, market conditions are favorable, and I've identified an underserved area that I could take over a significant share of the market.
+> **[0:38](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=38)** Nia shared her decision and claim and then asked [[ChatGPT]] to unveil and probe her assumptions, "I'm an experienced real estate professional thinking of expanding my business because," and this was her claim, "business is booming, by brand is increasingly valued and well-known, market conditions are favorable, and I've identified an underserved area that I could take over a significant share of the market.
 >
 > **[1:08](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=68)** Please indicate assumptions, and provide specific questions I can use to probe those assumptions."
 >
@@ -899,7 +887,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=136)** Are there current economic or regulatory differences in these areas that would require you to adapt your business model?
 >
-> **[2:23](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=143)** Next, Nia used GenAI to supercharge her critical thinking by combining perspective simulation with probing assumptions.
+> **[2:23](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=143)** Next, Nia used GenAI to supercharge her critical thinking by combining perspective [[Simulation]] with probing assumptions.
 >
 > **[2:33](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=153)** She asked ChatGPT to simulate perspectives using the techniques you learned in the last video then she added this to her prompt, "Based on the perspectives you generate, please indicate assumptions and provide questions I can use to probe those assumptions."
 >
@@ -913,7 +901,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=207)** Perspective of a financial expert: "Expansion should be approached with caution.
 >
-> **[3:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=212)** A detailed financial analysis, considering market fluctuation and potential risks, must be conducted to ensure that expansion is financially viable."
+> **[3:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=212)** A detailed [[Financial Analysis]], considering market fluctuation and potential risks, must be conducted to ensure that expansion is financially viable."
 >
 > **[3:43](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-generative-ai-to-probe-assumptions?u=76281980&t=223)** Assumption: a detailed financial analysis is necessary for successful expansion.
 >
@@ -927,20 +915,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[ChatGPT]] (3), [[Financial Analysis]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Financial Analysis]] (3), [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** caution (1)
 > **Speakers:** - assumptions (1)
 
-#### Clarifying concepts using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980)
+#### [Clarifying concepts using generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=0)** - Imagine a world where there is no confusion.
 >
-> **[0:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=3)** Where every word in every language has the same clear meaning from person to person.
+> **[0:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=3)** Where every [[Microsoft Word|word]] in every language has the same clear meaning from person to person.
 >
 > **[0:10](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=10)** As useful as GenAI is, this may not ever become a reality, but critical thinking values clarity, so that dream should be the ideal.
 >
@@ -948,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=28)** Let's say you hear or read about a concept that you think you understand.
 >
-> **[0:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=32)** Maybe it's sustainability, or hardship, or mental health, but a few weeks later, you read or hear a completely different interpretation of that same concept.
+> **[0:32](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=32)** Maybe it's [[Sustainability]], or hardship, or mental health, but a few weeks later, you read or hear a completely different interpretation of that same concept.
 >
 > **[0:43](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=43)** Were you wrong?
 >
@@ -976,7 +963,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=123)** Finally, you should clarify what you mean.
 >
-> **[2:06](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=126)** Let's say you're considering sharing a LinkedIn post titled "Workplace freedom fosters creativity."
+> **[2:06](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=126)** Let's say you're considering sharing a [[LinkedIn]] post titled "Workplace freedom fosters creativity."
 >
 > **[2:13](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=133)** Depending on who wrote that post and for what purpose, you might not share the same interpretation of freedom.
 >
@@ -988,7 +975,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=173)** Then ask for different interpretations to reveal more ways the concept could be interpreted.
 >
-> **[2:59](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=179)** In this example, GenAI offered several interpretations of freedom, including autonomy and task management, flexibility in work hours and location, freedom of expression, decision-making power.
+> **[2:59](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=179)** In this example, GenAI offered several interpretations of freedom, including autonomy and task management, flexibility in work hours and location, freedom of expression, [[Decision-Making]] power.
 >
 > **[3:12](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/clarifying-concepts-using-generative-ai?u=76281980&t=192)** The list of potential meanings of freedom, even in the context of work, is long.
 >
@@ -1008,17 +995,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft Word|Word]] (1), next (1), [[Sustainability]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Sustainability]] (1), [[LinkedIn]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
-#### Improving your conclusions using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980)
+#### [Improving your conclusions using generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=0)** - Are you ready to play a game with ChatGPT that will help you improve the quality of your conclusions and decisions?
+> **[0:00](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=0)** - Are you ready to play a game with [[ChatGPT]] that will help you improve the quality of your conclusions and decisions?
 >
 > **[0:07](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=7)** The game will test your knack for sorting claims into facts, truth claims, or opinions.
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=168)** ChatGPT says, this is a truth claim because it's asserting something that could be proven with historical data, but may require context, such as specific teams or timeframes being referenced.
 >
-> **[3:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=183)** Sportscaster: "Statistics show that investment "in sports facilities correlates positively "with a college's overall reputation."
+> **[3:03](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=183)** Sportscaster: "[[Statistics]] show that investment "in sports facilities correlates positively "with a college's overall reputation."
 >
 > **[3:14](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/improving-your-conclusions-using-generative-ai?u=76281980&t=194)** ChatGPT says, this is a fact, assuming the sportscaster is citing actual verifiable statistics.
 >
@@ -1122,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), management (4), game (3), ai (3), [[Statistics]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Statistics]] (3)
 > **Definitions:** is a  (7), is an  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -1134,8 +1120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose three ways others can use critical thinking with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980)
+#### [Choose three ways others can use critical thinking with generative AI](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,13 +1178,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=141)** I hope you find pleasure and power using critical thinking with Gen AI to navigate the complexities of our world.
 >
-> **[2:30](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=150)** If you have any questions or need help with this mission, please connect on LinkedIn or reach out to us at Applied Curiosity Lab.
+> **[2:30](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=150)** If you have any questions or need help with this mission, please connect on [[LinkedIn]] or reach out to us at Applied Curiosity Lab.
 >
 > **[2:38](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980&t=158)** And if you choose to pass this torch of knowledge to others, know that with each mind you light it up, you're not just spreading insight, you're reinforcing a collective wisdom that elevates us all.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), power (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)
 

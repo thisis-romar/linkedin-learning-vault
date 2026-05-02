@@ -63,8 +63,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### UX analysis: A world between data and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980)
+#### [UX analysis: A world between data and design](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -72,17 +71,17 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=6)** However, sometimes we get caught up in our own vision and creative ideas and we forget to listen to our users and see how they feel.
 >
-> **[0:15](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=15)** This is why collecting feedback and looking at both the quantitative and qualitative sides of a problem is imperative when trying to create a great user experience.
+> **[0:15](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=15)** This is why collecting feedback and looking at both the quantitative and qualitative sides of a problem is imperative when trying to create a great [[User Experience (UX)|user experience]].
 >
 > **[0:26](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=26)** My name is Lachezar, founder and CEO of Skilled Labs.
 >
 > **[0:30](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=30)** We are an e-learning company focused on creating engaging learning experiences for both small businesses and large enterprises.
 >
-> **[0:39](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=39)** In this LinkedIn learning course, I want to show you how to use UX web analytics to supercharge your visual thought process with meaningful data.
+> **[0:39](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=39)** In this [[LinkedIn]] learning course, I want to show you how to use UX [[Web Analytics]] to supercharge your visual thought process with meaningful data.
 >
-> **[0:48](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=48)** The core starts off with a few foundational web analytics concepts, such as event tracking and customer journey mapping.
+> **[0:48](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=48)** The core starts off with a few foundational web analytics concepts, such as event tracking and [[Customer Journey Mapping]].
 >
-> **[0:56](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=56)** Then you will get your hands dirty and learn how to analyze customer funnels and apply segments directly in Google Analytics 4.
+> **[0:56](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=56)** Then you will get your hands dirty and learn how to analyze customer funnels and apply segments directly in [[Google]] Analytics 4.
 >
 > **[1:04](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980&t=64)** Last but not least, we're going to explore a framework for AB testing that can work with any tool or platform.
 >
@@ -90,21 +89,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), web (3), ux (2), product (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Web Analytics]] (3), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1), [[Customer Journey Mapping]] (1), [[Google]] (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lachezar] (1)
 
-#### What is UX analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980)
+#### [What is UX analysis?](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980&t=0)** - [Instructor] Often, people look at design as the field of designers and artists, and data as the field of engineers and data scientists.
 >
-> **[0:10](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980&t=10)** However, in order to build great user experiences and create products that connect with your audience on a deeper level, we cannot look at design and data in silos.
+> **[0:10](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980&t=10)** However, in order to build great user experiences and create [[Microsoft Products|products]] that connect with your audience on a deeper level, we cannot look at design and data in silos.
 >
-> **[0:21](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980&t=21)** Throughout the course, you will learn why UX analysis sits at the intersection of data and design, and how the synergy between both fields is crucial when designing a meaningful user experience.
+> **[0:21](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980&t=21)** Throughout the course, you will learn why UX analysis sits at the intersection of data and design, and how the synergy between both fields is crucial when designing a meaningful [[User Experience (UX)|user experience]].
 >
 > **[0:36](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-is-ux-analysis?u=76281980&t=36)** But first, let's talk about the definition of UX analysis.
 >
@@ -130,20 +128,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ux (4), [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1), such as (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are some UX analytics tools?
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980)
+#### [What are some UX analytics tools?](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=0)** - [Narrator] The UX universe is vast.
 >
-> **[0:03](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=3)** So are the number of digital tools that can help you build and perfect a user experience.
+> **[0:03](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=3)** So are the number of digital tools that can help you build and perfect a [[User Experience (UX)|user experience]].
 >
-> **[0:09](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=9)** From research and user testing to wire framing and prototyping, and even analysis and optimization.
+> **[0:09](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=9)** From research and user testing to wire framing and [[Prototyping]], and even analysis and optimization.
 >
 > **[0:17](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=17)** There are tools that can support you along the entire journey of creating an amazing product or service.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=51)** Number one, look back.
 >
-> **[0:53](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=53)** A video-based tool for interviewing and recording the face, screen, and voice of users anywhere in the world would remote and in-person options.
+> **[0:53](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=53)** A video-based tool for [[Interviewing]] and recording the face, screen, and voice of users anywhere in the world would remote and in-person options.
 >
 > **[1:04](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=64)** This tool is great for one-on-one exploratory interviews, as well as unmoderated prototype testing.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=104)** Number three, Typeform.
 >
-> **[1:46](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=106)** If you have your own audience or a large email list, Typeform can help you create stunning and super interactive forms that can be either embedded on your website, or sent to customers as a standalone.
+> **[1:46](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=106)** If you have your own audience or a large email list, Typeform can help you create stunning and super interactive [[Forms]] that can be either embedded on your website, or sent to customers as a standalone.
 >
 > **[1:59](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=119)** Typeform also has an email survey option for collecting feedback.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=158)** Let's see what tools we have here.
 >
-> **[2:40](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=160)** Number one, Figma, a user interface design and collaboration tool, which comes with a generous free plan and runs entirely on your web browser.
+> **[2:40](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=160)** Number one, [[Figma (Software)|Figma]], a [[User Interface Design]] and collaboration tool, which comes with a generous free plan and runs entirely on your web browser.
 >
 > **[2:51](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=171)** That's right, there's no need to install any additional software to use the core features.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=195)** Number two, Envision.
 >
-> **[3:17](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=197)** Released in 2011, Envision has a well established reputation in the design community, and amongst large enterprises as they constantly evolve their products and features.
+> **[3:17](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=197)** Released in 2011, Envision has a well established reputation in the design community, and amongst large enterprises as they constantly evolve their [[Microsoft Products|products]] and features.
 >
 > **[3:29](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=209)** The Envision design stack includes products like freehand, a collaboration and communication tool that allows team members to sketch, draw, and share feedback, as well as their core product Envision studio, which can help you build prototypes which full inter activity.
 >
@@ -201,13 +198,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=234)** And the capability to create advanced animations, transitions, and micro interactions.
 >
-> **[4:01](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=241)** The great thing about web flow is that while you designing and building a user experience, you're creating a live website that's complete with all of the HTML, CSS, and associated JavaScript, not just the mock-up.
+> **[4:01](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=241)** The great thing about web flow is that while you designing and building a user experience, you're creating a live website that's complete with all of the [[HTML]], CSS, and associated [[JavaScript]], not just the mock-up.
 >
 > **[4:17](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=257)** Moving on to optimization.
 >
 > **[4:19](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=259)** In this group, you'll find tools that are meant to fine tune your user experience by turning data into actionable insights.
 >
-> **[4:27](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=267)** Here we have the following, number one, Google Analytics and Google Optimize.
+> **[4:27](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=267)** Here we have the following, number one, [[Google]] Analytics and Google Optimize.
 >
 > **[4:32](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/what-are-some-ux-analytics-tools?u=76281980&t=272)** This dynamic duo that you're probably already familiar with can pretty much do it all, from AB and multivariate testing to server site experiments and personalization.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (5), ux (4), [[Prototyping]] (4), product (4), web (3)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (5), [[Prototyping]] (4), [[Microsoft Products|Products]] (3), [[Figma (Software)|Figma]] (2), [[Google]] (2)
 > **Env Vars:** cms (1), html (1), css (1), cro (1)
 > **Tools:** figma (2)
 > **CLI Commands:** find (1)
@@ -237,14 +234,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Event tracking and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980)
+#### [Event tracking and analysis](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=0)** - [Instructor] Understanding the context of a user interaction is critical when trying to design a digital experience, whether that is a mobile application, e-commerce website, or a VR game.
+> **[0:00](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=0)** - [Instructor] Understanding the context of a user interaction is critical when trying to design a digital experience, whether that is a mobile application, [[E-Commerce]] website, or a VR game.
 >
-> **[0:11](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=11)** In this lesson, you're going to learn what event tracking is in the context of web analytics and how to you use it to your advantage when designing a user experience.
+> **[0:11](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=11)** In this lesson, you're going to learn what event tracking is in the context of [[Web Analytics]] and how to you use it to your advantage when designing a [[User Experience (UX)|user experience]].
 >
 > **[0:23](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=23)** Simply put, events are user interactions on your digital property other than page loads or screen views.
 >
@@ -268,11 +264,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=91)** First and last name, email address, mailing address, postal code, and of course the submit button at the very end.
 >
-> **[1:40](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=100)** All these fields were tagged by our developer team with Google analytics event tags earlier in the year.
+> **[1:40](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=100)** All these fields were tagged by our developer team with [[Google]] analytics event tags earlier in the year.
 >
 > **[1:47](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=107)** Therefore, we could see retroactively the number of clicks each field received over time.
 >
-> **[1:53](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=113)** What we noticed is that the postal code field and the submit button had almost three times the number of clicks compared to the rest of the fields.
+> **[1:53](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=113)** What we noticed is that the postal code field and the submit button had almost three times the number of clicks compared to the [[Representational State Transfer (REST)|rest]] of the fields.
 >
 > **[2:02](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=122)** That got us wondering, why were the users attracted to those fields more than the others?
 >
@@ -300,18 +296,17 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=207)** As you can see, tracking events gives us a glimpse into a user's digital footprint and more importantly helps us understand why users act the way they do.
 >
-> **[3:38](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=218)** If you're interested in learning more about event tracking and implementation, I suggest you take a look at Corey Koberg's course on Google tag manager available here on LinkedIn Learning.
+> **[3:38](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980&t=218)** If you're interested in learning more about event tracking and implementation, I suggest you take a look at Corey Koberg's course on Google tag manager available here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Analytics]] (3), [[User Experience (UX)|User experience]] (2), [[Google]] (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Google]] (2), [[E-Commerce]] (1), [[Web Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** earlier in (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customer journey mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/customer-journey-mapping?u=76281980)
+#### [Customer journey mapping](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/customer-journey-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/customer-journey-mapping?u=76281980&t=12)** In this lesson, you're going to learn how to build a user journey map by following a simple four-step process.
 >
-> **[0:20](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/customer-journey-mapping?u=76281980&t=20)** And see how this process can help you solve user experience problems.
+> **[0:20](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/customer-journey-mapping?u=76281980&t=20)** And see how this process can help you solve [[User Experience (UX)|user experience]] problems.
 >
 > **[0:24](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/customer-journey-mapping?u=76281980&t=24)** Like the one we encountered with the postal code field, we're going to continue with the application form example, but add a little bit of extra substance to our business case.
 >
@@ -387,15 +382,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), product (3), [[User Experience (UX)|User experience]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1), template (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Funnel analysis with Google Analytics 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980)
+#### [Funnel analysis with Google Analytics 4](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,9 +397,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=9)** Why is that?
 >
-> **[0:11](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=11)** This is where funnel analysis shines, as it can give life to your user journey map and help you polish your user experience.
+> **[0:11](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=11)** This is where funnel analysis shines, as it can give life to your user journey map and help you polish your [[User Experience (UX)|user experience]].
 >
-> **[0:19](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=19)** In this lesson, you're going to learn how to build, customize, and analyze funnels in Google Analytics 4, and all the intricacies involved in the process.
+> **[0:19](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=19)** In this lesson, you're going to learn how to build, customize, and analyze funnels in [[Google]] Analytics 4, and all the intricacies involved in the process.
 >
 > **[0:30](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=30)** In the exercise files I shared earlier, you're going to find the link to this Google support page.
 >
@@ -441,7 +435,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=134)** Here, we're identifying only the visitors that came through organic media, either from referral, organic search, or simply by typing the URL directly.
 >
-> **[2:25](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=145)** Paid media channels, like Facebook or LinkedIn Ads, are not included.
+> **[2:25](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=145)** Paid media channels, like Facebook or [[LinkedIn]] Ads, are not included.
 >
 > **[2:31](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/funnel-analysis-with-google-analytics-4?u=76281980&t=151)** Then we move on to step three, session start.
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Analytics]] (5), traffic (3), data (3), web (2)
+> **Frameworks & Libraries:** [[Google]] (7), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** select the (2), scroll down (1), click on (1), open the (1), navigate to (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** find (1), make (1)
@@ -488,8 +482,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Exercise Files:** exercise files (1)
 
-#### Segmentation strategies in Google Analytics 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980)
+#### [Segmentation strategies in Google Analytics 4](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=7)** By applying different segmentation strategies, you can supercharge your UX development process and see how various audiences interact with your product or service.
 >
-> **[0:17](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=17)** In this lesson, you're going to learn how to build segments in Google Analytics 4 and then analyze them further to identify useful patterns or trends.
+> **[0:17](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=17)** In this lesson, you're going to learn how to build segments in [[Google]] Analytics 4 and then analyze them further to identify useful patterns or trends.
 >
 > **[0:29](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=29)** Firstly, navigate to the template gallery.
 >
@@ -523,7 +516,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=94)** Navigate to the plus sign to create a brand new segment.
 >
-> **[1:39](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=99)** Once again, there are a lot of different templates and even predictive analytics that can give you some insight into what can be analyzed if you don't necessarily know where to start.
+> **[1:39](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=99)** Once again, there are a lot of different templates and even [[Predictive Analytics]] that can give you some insight into what can be analyzed if you don't necessarily know where to start.
 >
 > **[1:52](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/segmentation-strategies-in-google-analytics-4?u=76281980&t=112)** Navigate to templates, and then technology.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Analytics]] (3), traffic (3), feature (2), data (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Predictive Analytics]] (1)
 > **UI Navigation:** navigate to (3), click on (2), right-click (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** imagine (1), similar to (1)
@@ -589,12 +582,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### A/B testing and experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980)
+#### [A/B testing and experiments](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=0)** - [Instructor] Building a user experience solely based on one's knowledge and intuition is not always a good idea.
+> **[0:00](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=0)** - [Instructor] Building a [[User Experience (UX)|user experience]] solely based on one's knowledge and intuition is not always a good idea.
 >
 > **[0:07](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=7)** Not communicating with your audience and prospective users can be detrimental to the UX design process.
 >
@@ -602,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=19)** In this lesson, you will learn how to design an A/B test to ensure you collect feedback and information from your users the right way.
 >
-> **[0:28](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=28)** A/B testing, also known as split testing, has been a buzz word in a lot of industries, especially marketing.
+> **[0:28](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=28)** A/B testing, also known as split testing, has been a buzz [[Microsoft Word|word]] in a lot of industries, especially marketing.
 >
 > **[0:36](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=36)** However, you shouldn't associate A/B testing with a particular tool or software, but rather treat it as a methodology that if executed correctly can produce an actionable insight.
 >
@@ -624,7 +616,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=85)** For example, let's assume that you have a call to action image on your website, and you want to test whether having a person in the image, as opposed to an object, would resonate more with your audience.
 >
-> **[1:37](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=97)** This forms your hypothesis.
+> **[1:37](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=97)** This [[Forms]] your hypothesis.
 >
 > **[1:40](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/a-b-testing-and-experiments?u=76281980&t=100)** If your hypothesis is true, then the call to action image with the person would yield a better engagement rate, and you would have an insight into how to build more appealing creatives.
 >
@@ -684,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), business (2), ux (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** kpi (2)
 > **UI Navigation:** select the (1)
@@ -698,8 +690,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,21 +698,21 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=2)** I hope you enjoyed exploring the different UX analytics techniques and managed to learn a few new tricks along the way.
 >
-> **[0:10](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=10)** Remember, to design an engaging and useful user experience for any scenario, you need to consider both the qualitative and quantitative sides.
+> **[0:10](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=10)** Remember, to design an engaging and useful [[User Experience (UX)|user experience]] for any scenario, you need to consider both the qualitative and quantitative sides.
 >
 > **[0:19](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=19)** And that way, you'll get to learn about the context behind the data, and that is incredibly important if you want to truly understand your audience.
 >
-> **[0:29](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=29)** For those of you who want to learn more about the UX web analytics field, I've added an additional section in the exercise files, named Articles, where you can access some amazing resources that touch on the topics of privacy in data collection, UX design frameworks, and web analytics tools.
+> **[0:29](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=29)** For those of you who want to learn more about the UX [[Web Analytics]] field, I've added an additional section in the exercise files, named Articles, where you can access some amazing resources that touch on the topics of [[Privacy]] in [[Data Collection]], UX design frameworks, and web analytics tools.
 >
 > **[0:49](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=49)** Thank you so much for joining me, and I hope to hear from you soon.
 >
-> **[0:53](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=53)** In the meantime, the LinkedIn learning library has a number of courses.
+> **[0:53](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=53)** In the meantime, the [[LinkedIn]] learning library has a number of courses.
 >
 > **[0:57](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980&t=57)** I recommend you take a look at them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), [[Analytics]] (3), data (2), web (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Web Analytics]] (2), [[User Experience (UX)|User experience]] (1), [[Privacy]] (1), [[Data Collection]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [lachezar] (1)
 

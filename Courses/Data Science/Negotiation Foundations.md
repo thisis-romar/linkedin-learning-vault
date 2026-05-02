@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Negotiate with better results
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/negotiate-with-better-results?u=76281980)
+#### [Negotiate with better results](https://www.linkedin.com/learning/negotiation-foundations/negotiate-with-better-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +104,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -116,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing a negotiation mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980)
+#### [Developing a negotiation mindset](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980&t=106)** On that note, I want to make a distinction between asking and negotiation.
 >
-> **[1:51](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980&t=111)** If you're having back pain and you asked the office coordinator for a more comfortable chair, and 30 minutes later, he wheels it over for you, that's asking, and good for you.
+> **[1:51](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980&t=111)** If you're having back pain and you asked the [[Microsoft Office|office]] coordinator for a more comfortable chair, and 30 minutes later, he wheels it over for you, that's asking, and good for you.
 >
 > **[2:01](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980&t=121)** You asked, and you received.
 >
@@ -171,13 +168,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (2), is a  (1)
 > **Speakers:** - many (1)
 
-#### The three core negotiation practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/the-three-core-negotiation-practices-18024195?u=76281980)
+#### [The three core negotiation practices](https://www.linkedin.com/learning/negotiation-foundations/the-three-core-negotiation-practices-18024195?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,8 +252,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Anchoring and framing for mutual benefit
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/anchoring-and-framing-for-mutual-benefit-18018504?u=76281980)
+#### [Anchoring and framing for mutual benefit](https://www.linkedin.com/learning/negotiation-foundations/anchoring-and-framing-for-mutual-benefit-18018504?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,14 +312,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), leadership (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - anchoring (1)
 
-#### Listening and building tactical empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/listening-and-building-tactical-empathy-18020489?u=76281980)
+#### [Listening and building tactical empathy](https://www.linkedin.com/learning/negotiation-foundations/listening-and-building-tactical-empathy-18020489?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,8 +397,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - from (1)
 
-#### Trading things of value
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/trading-things-of-value-18018503?u=76281980)
+#### [Trading things of value](https://www.linkedin.com/learning/negotiation-foundations/trading-things-of-value-18018503?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,11 +455,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - in (1)
 
-#### The wrong and right way to negotiate
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/the-wrong-and-right-way-to-negotiate-18022249?u=76281980)
+#### [The wrong and right way to negotiate](https://www.linkedin.com/learning/negotiation-foundations/the-wrong-and-right-way-to-negotiate-18022249?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +587,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - i (7), - okay (3), - hey (2), - joe (2), - [instructor] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), in other words (1)
@@ -607,8 +596,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Researching and preparing
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980)
+#### [Researching and preparing](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +634,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980&t=82)** So your research should involve talking with key influencers about timing and company climate, or to discover hidden issues you might not be aware of.
 >
-> **[1:33](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980&t=93)** You should also ask those influencers about salary expectations, and to put in a good word for you with a decision maker.
+> **[1:33](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980&t=93)** You should also ask those influencers about salary expectations, and to put in a good [[Microsoft Word|word]] for you with a decision maker.
 >
 > **[1:42](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980&t=102)** Step three is to write your opening statement.
 >
@@ -672,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **CLI Commands:** make (1)
 > **URLs:** [salary.com](https://salary.com) (1)
@@ -681,8 +669,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - to (1)
 
-#### Identifying priorities and designing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/identifying-priorities-and-designing-options-18025140?u=76281980)
+#### [Identifying priorities and designing options](https://www.linkedin.com/learning/negotiation-foundations/identifying-priorities-and-designing-options-18025140?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +725,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -748,14 +734,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding how influence works
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980)
+#### [Understanding how influence works](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980&t=1)** - Let's be completely transparent for a moment about why we negotiate.
 >
-> **[0:05](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980&t=5)** We want something we don't currently have, like a car or a six-figure income or a private office.
+> **[0:05](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980&t=5)** We want something we don't currently have, like a car or a six-figure income or a private [[Microsoft Office|office]].
 >
 > **[0:11](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980&t=11)** Or maybe we want to see movie A and our partner wants to see movie B.
 >
@@ -827,14 +812,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), power (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
 
-#### Creating your influence plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/creating-your-influence-plan-18021314?u=76281980)
+#### [Creating your influence plan](https://www.linkedin.com/learning/negotiation-foundations/creating-your-influence-plan-18021314?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,7 +864,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
@@ -891,8 +874,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding conflict styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-conflict-styles-18021307?u=76281980)
+#### [Understanding conflict styles](https://www.linkedin.com/learning/negotiation-foundations/understanding-conflict-styles-18021307?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,16 +942,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (1)
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - asking (1)
 
-#### A template for getting past no
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-getting-past-no-18020495?u=76281980)
+#### [A template for getting past no](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-getting-past-no-18020495?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-getting-past-no-18020495?u=76281980&t=1)** - When you negotiate, you have to be ready to hear the word no.
+> **[0:01](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-getting-past-no-18020495?u=76281980&t=1)** - When you negotiate, you have to be ready to hear the [[Microsoft Word|word]] no.
 >
 > **[0:05](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-getting-past-no-18020495?u=76281980&t=5)** As I've said before, no signals the beginning of the negotiation, not the end.
 >
@@ -1027,14 +1007,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - so (2), - i (2), - when (1), - what (1), - right (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### A template for saying no
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-saying-no-18020493?u=76281980)
+#### [A template for saying no](https://www.linkedin.com/learning/negotiation-foundations/a-template-for-saying-no-18020493?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,8 +1088,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dealing with contentious tactics
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/dealing-with-contentious-tactics-18020492?u=76281980)
+#### [Dealing with contentious tactics](https://www.linkedin.com/learning/negotiation-foundations/dealing-with-contentious-tactics-18020492?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,13 +1176,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), next (1), data (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - not (1)
 
-#### Negotiation hacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/negotiation-hacks-18021309?u=76281980)
+#### [Negotiation hacks](https://www.linkedin.com/learning/negotiation-foundations/negotiation-hacks-18021309?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/negotiation-foundations/negotiation-hacks-18021309?u=76281980&t=47)** Now, if you can't make your way to a coffee shop, think about grabbing space in a meeting, or a conference room.
 >
-> **[0:53](https://www.linkedin.com/learning/negotiation-foundations/negotiation-hacks-18021309?u=76281980&t=53)** This might help shift the power imbalance of meeting in your boss's office where you're sitting in the guest chair while they're sitting behind a desk in the big chair.
+> **[0:53](https://www.linkedin.com/learning/negotiation-foundations/negotiation-hacks-18021309?u=76281980&t=53)** This might help shift the power imbalance of meeting in your boss's [[Microsoft Office|office]] where you're sitting in the guest chair while they're sitting behind a desk in the big chair.
 >
 > **[1:03](https://www.linkedin.com/learning/negotiation-foundations/negotiation-hacks-18021309?u=76281980&t=63)** Hack number three, bring some warmth.
 >
@@ -1268,7 +1244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Microsoft Office|Office]] (1), express (1), strengths (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
@@ -1280,8 +1256,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Telephone and video conference negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/telephone-and-video-conference-negotiation?u=76281980)
+#### [Telephone and video conference negotiation](https://www.linkedin.com/learning/negotiation-foundations/telephone-and-video-conference-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,8 +1338,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - in (1)
 
-#### Email and text negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/email-and-text-negotiation?u=76281980)
+#### [Email and text negotiation](https://www.linkedin.com/learning/negotiation-foundations/email-and-text-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1370,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/negotiation-foundations/email-and-text-negotiation?u=76281980&t=105)** In this section, you're giving your partner a chance to talk by phone or in person, while also being mindful of their potential busyness.
 >
-> **[1:54](https://www.linkedin.com/learning/negotiation-foundations/email-and-text-negotiation?u=76281980&t=114)** Number four, mention the feelings that business communications usually lack.
+> **[1:54](https://www.linkedin.com/learning/negotiation-foundations/email-and-text-negotiation?u=76281980&t=114)** Number four, mention the feelings that [[Business Communications]] usually lack.
 >
 > **[2:01](https://www.linkedin.com/learning/negotiation-foundations/email-and-text-negotiation?u=76281980&t=121)** Now, this section is really about labeling what you and perhaps your negotiation partner are feeling and brings tactical empathy into your communication.
 >
@@ -1438,7 +1412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), express (1), [[Business Communications]] (1)
+> **Frameworks & Libraries:** [[Business Communications]] (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (1), exercise files (1)
 > **Cross-References:** coming up (1)
@@ -1449,8 +1423,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deepening your knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/deepening-your-knowledge?u=76281980)
+#### [Deepening your knowledge](https://www.linkedin.com/learning/negotiation-foundations/deepening-your-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,7 +1453,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you need to have (1)

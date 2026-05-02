@@ -67,12 +67,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lead AI agents with confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980)
+#### [Lead AI agents with confidence](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=0)** AI agents are changing how we work, but few know how to actually step up and lead them.
+> **[0:00](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=0)** [[AI Agents]] are changing how we work, but few know how to actually step up and lead them.
 >
 > **[0:05](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=5)** In today's workplace, this is a critical skill, one that sets you apart as a leader ready for the future.
 >
@@ -80,13 +79,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=16)** I designed this course to give you the practical steps and confidence to lead AI agents at work, from discovering, building, to managing them.
 >
-> **[0:25](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=25)** I'm Jack Roboff, I'm a Senior Product Marketing Manager at Microsoft, And I'm here to help you master the key principles of being an agent boss.
+> **[0:25](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=25)** I'm Jack Roboff, I'm a Senior Product Marketing Manager at [[Microsoft]], And I'm here to help you master the key principles of being an agent boss.
 >
 > **[0:32](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980&t=32)** So if you want to become an agent boss, this is your starting point.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), product (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 
 
@@ -94,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover agents: Find the best match for your needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980)
+#### [Discover agents: Find the best match for your needs](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=2)** You would just pick the first one you see, you look for the right features, the performance, and the overall fit for what you're looking for.
 >
-> **[0:09](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=9)** The same goes for selecting AI agents.
+> **[0:09](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=9)** The same goes for selecting [[AI Agents]].
 >
 > **[0:12](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=12)** Let me take you through this so you can evaluate and select the best agents specifically for your needs.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=136)** Let's try another example.
 >
-> **[2:18](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=138)** Let's say your business process is quite standard and follows a four stage sales development approach for lead generation.
+> **[2:18](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=138)** Let's say your business process is quite standard and follows a four stage sales development approach for [[Lead Generation]].
 >
 > **[2:24](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=144)** An off-the-shelf agent is perfect to get started.
 >
@@ -163,13 +161,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=153)** You might quickly find a hybrid approach actually works out better for you, where you can use out-of-the-box agents that are built on agent tools, and you can easily extend and customize them for your needs.
 >
-> **[2:44](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=164)** Now, before we get into the technology, I'm going to be working with Microsoft products today.
+> **[2:44](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=164)** Now, before we get into the technology, I'm going to be working with [[Microsoft Products]] today.
 >
 > **[2:48](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=168)** But of course, you can use the agent platform that works for you.
 >
 > **[2:52](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=172)** Let's take a look at how you can discover agents already made.
 >
-> **[2:56](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=176)** I'm going to jump into Microsoft 365 Copilot now, and you can see on the left pane, I have all of the agents that are already enabled to me by my IT team.
+> **[2:56](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=176)** I'm going to jump into [[Microsoft 365]] [[Microsoft Copilot|Copilot]] now, and you can see on the left pane, I have all of the agents that are already enabled to me by my IT team.
 >
 > **[3:06](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=186)** If I navigate to all agents, you can see this is the agent store.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=204)** Now we're going to keep scrolling and see the full list of agents that have been already made available.
 >
-> **[3:29](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=209)** I can see all the agents built by Microsoft.
+> **[3:29](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=209)** I can see all the agents built by [[Microsoft]].
 >
 > **[3:32](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980&t=212)** I can of course scroll all the way down to the ones that are featured and then see the long list of other agents that I could add into my experience as needed.
 >
@@ -231,15 +229,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft 365]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (2), [[AI Agents]] (1), [[Lead Generation]] (1)
 > **UI Navigation:** select the (3), navigate to (1), go to (1), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), kind of like (1)
 > **Env Vars:** bxt (1)
 
-#### Build agents with purpose: Define scope and choose the right tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980)
+#### [Build agents with purpose: Define scope and choose the right tools](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,11 +250,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=20)** Each layer supports the next, so the build is solid before it goes live.
 >
-> **[0:25](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=25)** Now, before we get into the agent components, I'm going to be using Microsoft Copilot Studio, which is Copilot's agent building platform.
+> **[0:25](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=25)** Now, before we get into the agent components, I'm going to be using [[Microsoft Copilot]] Studio, which is [[Microsoft Copilot|Copilot]]'s agent building platform.
 >
 > **[0:32](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=32)** It offers a low-code, intuitive experience for building agents.
 >
-> **[0:36](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=36)** I'm using Microsoft 365 Tenant with Copilot Studio enabled, which is available as a trial, capacity packs, pay-as-you-go, or even included in Microsoft 365 Copilot.
+> **[0:36](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=36)** I'm using [[Microsoft 365]] Tenant with Copilot Studio enabled, which is available as a trial, capacity packs, pay-as-you-go, or even included in Microsoft 365 Copilot.
 >
 > **[0:47](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=47)** If you're following along, you need to have access to these technologies.
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=125)** This is the AI engine.
 >
-> **[2:06](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=126)** It uses large language models to help the agent use and understand the requirements, reason through the tasks and generate the right outputs.
+> **[2:06](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=126)** It uses [[Large Language Models (LLM)|large language models]] to help the agent use and understand the requirements, reason through the tasks and generate the right outputs.
 >
 > **[2:15](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=135)** We then have a quick analytics dashboard that shows some KPIs that we want to be able to follow.
 >
@@ -317,7 +314,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=167)** This is how you ground the agent in the specific type of content that you need.
 >
-> **[2:51](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=171)** So whether that's a SharePoint site that you can see here, a company expense policy and there's so many more that I can add through the knowledge pane.
+> **[2:51](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=171)** So whether that's a [[SharePoint]] site that you can see here, a company expense policy and there's so many more that I can add through the knowledge pane.
 >
 > **[2:58](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=178)** So you can see CRM data, more advanced connectors as needed and you can easily scroll and add them where appropriate.
 >
@@ -371,7 +368,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=312)** Looks good, approved to move forward.
 >
-> **[5:18](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=318)** Now we'll give that a second, and it's going to continue doing the rest of the expense policy process, which will be creating a brand new item in our SharePoint site.
+> **[5:18](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=318)** Now we'll give that a second, and it's going to continue doing the [[Representational State Transfer (REST)|rest]] of the expense policy process, which will be creating a brand new item in our SharePoint site.
 >
 > **[5:25](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=325)** Of course, if you have a database already that isn't SharePoint that you want to use, you can do that too.
 >
@@ -381,7 +378,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=345)** Now, while that finishes up, what will happen next?
 >
-> **[5:47](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=347)** I can go into Microsoft Teams just at the top and I'll get a ping, a message in that chat that I can then see and be confirmed that this expense has happened.
+> **[5:47](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=347)** I can go into [[Microsoft Teams]] just at the top and I'll get a ping, a message in that chat that I can then see and be confirmed that this expense has happened.
 >
 > **[5:55](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=355)** We can see it's just happened here.
 >
@@ -411,7 +408,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=412)** And since it's like a recipe, the slightest change can make it taste a little bit different.
 >
-> **[6:57](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=417)** With generative AI and agents, instructions can be exactly the same, behaving slightly different for each person, so it's worth spending the time iterating and refining them as needed.
+> **[6:57](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=417)** With [[Generative AI]] and agents, instructions can be exactly the same, behaving slightly different for each person, so it's worth spending the time iterating and refining them as needed.
 >
 > **[7:07](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/build-ai-agents-with-purpose-define-scope-and-choose-the-right-tools?u=76281980&t=427)** So let me take you through the clear framework to keep instruction simple and actionable for your agent.
 >
@@ -487,7 +484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Microsoft Copilot|Copilot]] (7), [[SharePoint]] (7), business (3), [[Microsoft 365]] (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[SharePoint]] (7), [[Microsoft 365]] (3), [[Microsoft Copilot]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** for example (2), it's like (1), picture (1)
@@ -498,8 +495,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Delegate tasks to agents: Calibrate autonomy and oversight
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980)
+#### [Delegate tasks to agents: Calibrate autonomy and oversight](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +515,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=47)** Communicate clearly when agents are involved and set the expectations up front so your colleagues understand their intent.
 >
-> **[0:54](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=54)** When building your agent, it's very important to keep it responsible by considering principles like fairness, reliability, safety, privacy and security, inclusiveness, transparency, and accountability.
+> **[0:54](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=54)** When building your agent, it's very important to keep it responsible by considering principles like fairness, reliability, safety, [[Privacy]] and security, inclusiveness, transparency, and [[Accountability]].
 >
 > **[1:07](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=67)** And remember, agents are part of your impact.
 >
@@ -539,7 +535,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=110)** One human could manage dozens of those agents.
 >
-> **[1:53](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=113)** Let's see what it looks like inside of M365 Copilot.
+> **[1:53](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=113)** Let's see what it looks like inside of [[Microsoft 365|M365]] [[Microsoft Copilot|Copilot]].
 >
 > **[1:57](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=117)** I've got this simple agent that I've created called the onboarding agent.
 >
@@ -637,7 +633,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=379)** This is an employee agent, as in I want my colleagues to use it.
 >
-> **[6:23](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=383)** So I'm most likely going to put it on Teams, Microsoft Teams and Microsoft 365 Copilot and SharePoint, two popular channels that my employees will access.
+> **[6:23](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=383)** So I'm most likely going to put it on Teams, [[Microsoft Teams]] and [[Microsoft 365]] Copilot and [[SharePoint]], two popular channels that my employees will access.
 >
 > **[6:31](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980&t=391)** And there are other channels available, mainly for customer facing scenarios like Facebook, WhatsApp, but this isn't appropriate, so I won't be using it for this specific example.
 >
@@ -651,15 +647,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), ai (2), [[Security]] (2), prompt (2), strengths (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Privacy]] (1), [[Accountability]] (1), [[Microsoft 365|M365]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Env Vars:** m365 (1)
 > **Analogies:** just like (1)
 > **Best Practices:** the key is (1)
 
-#### Manage agents: Metrics, reviews, and lifecycle decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980)
+#### [Manage agents: Metrics, reviews, and lifecycle decisions](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -677,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=33)** First, impact metrics, like cost savings, time saved, quality improvements, maybe even risk reduction.
 >
-> **[0:41](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=41)** Second, performance metrics, how the agent runs operationally, like successful runs, average duration, accuracy.
+> **[0:41](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=41)** Second, [[Performance Metrics]], how the agent runs operationally, like successful runs, average duration, accuracy.
 >
 > **[0:48](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=48)** Thirdly, adoption metrics, like daily active users or usage frequency.
 >
@@ -693,7 +688,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=88)** Next, you'll want to leverage analytics to review, monitor, and refine agent performance.
 >
-> **[1:33](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=93)** Some tools offer built-in analytics to track those KPIs, like those in Copilot Studio, to understand how your agent's performing over time, spot the right patterns, and identify areas for improvement.
+> **[1:33](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=93)** Some tools offer built-in analytics to track those KPIs, like those in [[Microsoft Copilot|Copilot]] Studio, to understand how your agent's performing over time, spot the right patterns, and identify areas for improvement.
 >
 > **[1:44](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/manage-ai-agents-metrics-reviews-and-lifecycle-decisions?u=76281980&t=104)** Let's look into Copilot Studio at the analytics pane to bring it to life.
 >
@@ -759,7 +754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Analytics]] (4), [[Microsoft Copilot|Copilot]] (3), [[Performance Metrics]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Performance Metrics]] (1)
 > **Analogies:** for example (5), picture (1)
 > **Env Vars:** bxt (1)
 > **Cross-References:** previous video (1)
@@ -769,8 +764,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your agent: Enhance and evolve over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980)
+#### [Improve your agent: Enhance and evolve over time](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +794,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=49)** Now let's have a look at how I could actually make a fix in my agent.
 >
-> **[0:54](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=54)** I'm back in Copilot Studio at the analytics pane and I wanna focus in some of these graphs to understand what's going on, what's working and what's not working.
+> **[0:54](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=54)** I'm back in [[Microsoft Copilot|Copilot]] Studio at the analytics pane and I wanna focus in some of these graphs to understand what's going on, what's working and what's not working.
 >
 > **[1:02](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=62)** Quickly, I can see on the timeline view, November 29th is clearly an issue.
 >
@@ -826,7 +820,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=122)** We'll start in tools.
 >
-> **[2:03](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=123)** And what you want to do before here is make sure that you create a new tool called update item to SharePoint.
+> **[2:03](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=123)** And what you want to do before here is make sure that you create a new tool called update item to [[SharePoint]].
 >
 > **[2:08](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980&t=128)** So then it can identify an existing expense and make the appropriate changes.
 >
@@ -880,14 +874,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), next (3), business (3), [[Microsoft Copilot|Copilot]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (5)
 > **Versions:** 4.2 (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
 
-#### Control agent costs: Forecast, monitor, and optimize for ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980)
+#### [Control agent costs: Forecast, monitor, and optimize for ROI](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=31)** It also equips you to justify the business case for accessing agents by showing how they deliver measurable value compared to the agent cost.
 >
-> **[0:40](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=40)** Before you launch a new agent, it's essential to understand how agent costs and forecasting works.
+> **[0:40](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=40)** Before you launch a new agent, it's essential to understand how agent costs and [[Forecasting]] works.
 >
 > **[0:46](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=46)** Some agents may be paid for pay-as-you-go, prepaid packs, user licenses, or a mix of these models.
 >
@@ -923,13 +916,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=81)** To help you forecast potential monthly cost, I'll walk you through one tool as an example.
 >
-> **[1:28](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=88)** Okay, so we're in the Microsoft Agent Usage Estimator, and it's a quick and simple way to start to forecast how much your agent could potentially cost, just by answering a series of questions.
+> **[1:28](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=88)** Okay, so we're in the [[Microsoft]] Agent Usage Estimator, and it's a quick and simple way to start to forecast how much your agent could potentially cost, just by answering a series of questions.
 >
 > **[1:38](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=98)** We'll start with the first question, what is your agent type?
 >
 > **[1:41](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=101)** Which of course is our expense agent, so we know that it's purely for our employees to be using.
 >
-> **[1:46](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=106)** Next question is, do you have users with Microsoft 365 Copilot licenses?
+> **[1:46](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=106)** Next question is, do you have users with [[Microsoft 365]] [[Microsoft Copilot|Copilot]] licenses?
 >
 > **[1:50](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=110)** For this instance, we'll say no.
 >
@@ -939,7 +932,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=124)** The next question is, what type of orchestration do you want to be able to use?
 >
-> **[2:09](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=129)** For this, I'm going to use generative, because I'm using generative AI to help the agent make the decision.
+> **[2:09](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=129)** For this, I'm going to use generative, because I'm using [[Generative AI]] to help the agent make the decision.
 >
 > **[2:15](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/control-agent-costs-forecast-monitor-and-optimize-for-roi?u=76281980&t=135)** Next is knowledge.
 >
@@ -975,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (3), next (3), [[Microsoft Copilot|Copilot]] (2), traffic (2), business (1)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (1), [[Microsoft 365]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
@@ -986,8 +979,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future: Your impact as a leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980)
+#### [The future: Your impact as a leader](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=3)** This is just the beginning.
 >
-> **[0:05](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=5)** AI agents are only gonna get smarter and more capable, and the foundational principles that you've learned here today will help you stay ahead as their roles expand.
+> **[0:05](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=5)** [[AI Agents]] are only gonna get smarter and more capable, and the foundational principles that you've learned here today will help you stay ahead as their roles expand.
 >
 > **[0:14](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=14)** Your legacy will be shaped by the agents that you build, guide, and grow.
 >
@@ -1011,7 +1003,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=38)** Lead with clarity, purpose, and confidence.
 >
-> **[0:43](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=43)** Now, if you want to stay in touch, connect with me on LinkedIn.
+> **[0:43](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=43)** Now, if you want to stay in touch, connect with me on [[LinkedIn]].
 >
 > **[0:45](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980&t=45)** I'd love to hear how you're applying these ideas as an agent boss.
 >
@@ -1019,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), next (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 
 

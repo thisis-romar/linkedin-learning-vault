@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerate your career satisfaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980)
+#### [Accelerate your career satisfaction](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,9 +92,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980&t=37)** I'm also the author of "Managing Up: How to Move Up, Win at Work, and Succeed with Any Type of Boss."
 >
-> **[0:42](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980&t=42)** In this course, we will explore how internal mobility can be a great career accelerant.
+> **[0:42](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980&t=42)** In this course, we will explore how [[Internal Mobility]] can be a great career accelerant.
 >
-> **[0:49](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980&t=49)** Internal mobility is just a fancy buzz word for what simply means the ability or opportunity to move from one job to another job within the same company or organization.
+> **[0:49](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980&t=49)** Internal mobility is just a fancy buzz [[Microsoft Word|word]] for what simply means the ability or opportunity to move from one job to another job within the same company or organization.
 >
 > **[1:00](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980&t=60)** This course will help you identify the when, the why, and the how you can use internal mobility to craft a meaningful and satisfying career.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), [[Internal Mobility]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - are (1)
 
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of internal mobility
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980)
+#### [Benefits of internal mobility](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980&t=13)** A place that you find valuable and that values you.
 >
-> **[0:18](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980&t=18)** If you're looking for more satisfaction at work or more happiness in your daily work life, then internal mobility might be the way that you can find it.
+> **[0:18](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980&t=18)** If you're looking for more satisfaction at work or more happiness in your daily work life, then [[Internal Mobility]] might be the way that you can find it.
 >
 > **[0:26](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980&t=26)** Internal mobility is just a fancy buzzword for what simply means the ability or opportunity to move from one job to another job within the same company or organization.
 >
@@ -187,13 +185,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), [[Internal Mobility]] (4), leadership (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (4)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
-#### Is internal mobility right for you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980)
+#### [Is internal mobility right for you?](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,9 +210,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980&t=40)** Your future state represents your career goals.
 >
-> **[0:43](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980&t=43)** Your current state is, well, where you are now, and the space between these two poles, that is the space where you will deploy career management strategies to close that gap.
+> **[0:43](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980&t=43)** Your current state is, well, where you are now, and the space between these two poles, that is the space where you will deploy [[Career Management]] strategies to close that gap.
 >
-> **[0:55](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980&t=55)** In other words, this is where you determine if and how internal mobility can help you reach your your destination.
+> **[0:55](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980&t=55)** In other words, this is where you determine if and how [[Internal Mobility]] can help you reach your your destination.
 >
 > **[1:03](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/is-internal-mobility-right-for-you?u=76281980&t=63)** Let's start by articulating your desired future state.
 >
@@ -263,13 +260,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (12), management (1), [[Internal Mobility]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Career Management]] (1), [[Internal Mobility]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (2)
 > **Speakers:** - like (1)
 
-#### Identify the right move: up, down, or across?
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/identify-the-right-move-up-down-or-across?u=76281980)
+#### [Identify the right move: up, down, or across?](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/identify-the-right-move-up-down-or-across?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/identify-the-right-move-up-down-or-across?u=76281980&t=9)** I really encourage you to be broad-minded and strategic here.
 >
-> **[0:13](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/identify-the-right-move-up-down-or-across?u=76281980&t=13)** Not all internal mobility needs to be upward.
+> **[0:13](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/identify-the-right-move-up-down-or-across?u=76281980&t=13)** Not all [[Internal Mobility]] needs to be upward.
 >
 > **[0:16](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/identify-the-right-move-up-down-or-across?u=76281980&t=16)** A promotion in a department you hate isn't going to make you happier.
 >
@@ -357,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), business (2), [[Internal Mobility]] (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** in other words (1)
@@ -369,8 +365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assess your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980)
+#### [Assess your skills](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=72)** I won't lie, it is a bit of a chore.
 >
-> **[1:14](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=74)** Start by making a list of your workplace activities, responsibilities, and work products.
+> **[1:14](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=74)** Start by making a list of your workplace activities, responsibilities, and work [[Microsoft Products|products]].
 >
 > **[1:20](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=80)** Then, start to pull out the skills you use to perform each of those job functions.
 >
@@ -438,7 +433,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=215)** And finally, please don't forget your technical skills.
 >
-> **[3:39](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=219)** These refer to your learned expertise around things like technology, statistical analysis, administrative systems, social media, data management, and other specific technical skills.
+> **[3:39](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=219)** These refer to your learned expertise around things like technology, [[Statistical Analysis]], administrative systems, social media, [[Data Management]], and other specific technical skills.
 >
 > **[3:54](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980&t=234)** While not every technical skill will be transferable, it is good practice to take stock of those just in case.
 >
@@ -446,14 +441,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), management (2), career (1), [[Microsoft Products|Products]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Statistical Analysis]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1), good practice (1)
 > **Speakers:** - when (1)
 
-#### Close skills gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/close-skills-gaps?u=76281980)
+#### [Close skills gaps](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/close-skills-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/close-skills-gaps?u=76281980&t=123)** One great advantage of our digital world is the preponderance of high quality and affordable virtual courses.
 >
-> **[2:09](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/close-skills-gaps?u=76281980&t=129)** Like the ones on LinkedIn.
+> **[2:09](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/close-skills-gaps?u=76281980&t=129)** Like the ones on [[LinkedIn]].
 >
 > **[2:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/close-skills-gaps?u=76281980&t=131)** Consider a certificate course in the area you seek.
 >
@@ -545,15 +539,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), job description (1), [[LinkedIn]] (1), management (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Analogies:** for example (2)
 > **Env Vars:** asap (1)
 > **Speakers:** - your (1)
 
-#### Share your accomplishments
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/share-your-accomplishments?u=76281980)
+#### [Share your accomplishments](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/share-your-accomplishments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,11 +624,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/share-your-accomplishments?u=76281980&t=187)** Having success stories ready at hand will position you as a desirable candidate.
 >
-> **[3:12](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/share-your-accomplishments?u=76281980&t=192)** Being able to self-promote will open doors for internal mobility and career success.
+> **[3:12](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/share-your-accomplishments?u=76281980&t=192)** Being able to self-promote will open doors for [[Internal Mobility]] and career success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Internal Mobility]] (1), career (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1)
 > **Definitions:** stands for (3), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** car (1)
@@ -643,8 +636,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - finding (1)
 
-#### Manage your reputation
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/manage-your-reputation?u=76281980)
+#### [Manage your reputation](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/manage-your-reputation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/manage-your-reputation?u=76281980&t=23)** A positive reputation's going to help you land that position but a negative reputation's going to hinder you.
 >
-> **[0:30](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/manage-your-reputation?u=76281980&t=30)** Understanding and managing your reputation is a critical element for internal mobility.
+> **[0:30](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/manage-your-reputation?u=76281980&t=30)** Understanding and managing your reputation is a critical element for [[Internal Mobility]].
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/manage-your-reputation?u=76281980&t=36)** The first step to reputation management is to, of course, find out what your reputation really is, not what you think it is or what you hope it is.
 >
@@ -718,18 +710,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internal Mobility]] (2), management (1), strengths (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), in other words (1), known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Make the case for your internal move
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980)
+#### [Make the case for your internal move](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=0)** - Knowing how internal mobility benefits your company can help you position yourself.
+> **[0:00](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=0)** - Knowing how [[Internal Mobility]] benefits your company can help you position yourself.
 >
 > **[0:06](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=6)** For managers, this is a critical retention factor in the great reshuffle.
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=68)** Two, enhanced employee engagement.
 >
-> **[1:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=71)** According to LinkedIn's own research, employees who find positions within their organization are 3.5 times more likely to be engaged than those who haven't.
+> **[1:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=71)** According to [[LinkedIn]]'s own research, employees who find positions within their organization are 3.5 times more likely to be engaged than those who haven't.
 >
 > **[1:23](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=83)** And we all know that highly engaged workers are the holy grail of a motivated and productive workforce.
 >
@@ -759,13 +750,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=98)** According to the Saratoga Institute, the average cost for finding and hiring someone from the outside is nearly two times more expensive than hiring someone from within.
 >
-> **[1:49](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=109)** Plus, the process of external sourcing and interviewing can take months, while an internal process is often wrapped up in just a few weeks.
+> **[1:49](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=109)** Plus, the process of external sourcing and [[Interviewing]] can take months, while an internal process is often wrapped up in just a few weeks.
 >
 > **[1:58](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=118)** Additionally, robust internal mobility aids recruitment.
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=123)** Not only is it cheaper and less onerous for companies to recruit talent from within, but it also provides your company with a great recruiting tool.
 >
-> **[2:12](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=132)** After all, who wouldn't want to work for a company that encourages job exploration and career development?
+> **[2:12](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=132)** After all, who wouldn't want to work for a company that encourages job exploration and [[Career Development]]?
 >
 > **[2:18](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/make-the-case-for-your-internal-move?u=76281980&t=138)** And finally, you're going to love this one.
 >
@@ -800,8 +791,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know where to look for internal opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980)
+#### [Know where to look for internal opportunities](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=9)** Knowing where and how to look can greatly accelerate your chances of finding that golden opportunity.
 >
-> **[0:16](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=16)** First of all, find out if your company has internal mobility policies, or better yet, an internal mobility program.
+> **[0:16](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=16)** First of all, find out if your company has [[Internal Mobility]] policies, or better yet, an internal mobility program.
 >
 > **[0:24](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=24)** Because sourcing external candidates is expensive and time-consuming, many organizations are creating robust programs to foster and promote internal mobility.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=126)** Did your company just sign a big new contract or set up a new initiative?
 >
-> **[2:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=131)** For example, if your company just signed a big contract with a new customer, chances are that they need great talent to deliver those services or products.
+> **[2:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=131)** For example, if your company just signed a big contract with a new customer, chances are that they need great talent to deliver those services or [[Microsoft Products|products]].
 >
 > **[2:20](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=140)** Meet with your boss.
 >
@@ -867,7 +857,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=172)** The best possible reference you could have is your current boss, so if you can, solicit their support at the start of your search.
 >
-> **[3:01](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=181)** A good boss will put your happiness and your career development above their desire to keep you all to themselves.
+> **[3:01](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=181)** A good boss will put your happiness and your [[Career Development]] above their desire to keep you all to themselves.
 >
 > **[3:09](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980&t=189)** Just don't forget to let them know how much you've appreciated working for them and how much you've learned from them.
 >
@@ -875,7 +865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internal Mobility]] (5), [[Search]] (3), hr (2), application (1), business (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (5), [[Microsoft Products|Products]] (1), [[Career Development]] (1)
 > **CLI Commands:** find (4)
 > **Warnings:** heads up (1), be aware (1)
 > **Analogies:** for example (1)
@@ -883,8 +873,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - seek (1)
 
-#### Refresh your networking skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980)
+#### [Refresh your networking skills](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +911,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=71)** Here are a few strategies that will work.
 >
-> **[1:14](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=74)** Attend company functions, office parties, all-hands meetings, company outings and other sponsored events are all great ways to meet new people.
+> **[1:14](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=74)** Attend company functions, [[Microsoft Office|office]] parties, all-hands meetings, company outings and other sponsored events are all great ways to meet new people.
 >
 > **[1:24](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=84)** Introduce yourself, build rapport, make a positive first impression.
 >
@@ -944,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=124)** Be active on company sites.
 >
-> **[2:06](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=126)** Does your company post things on social media like LinkedIn?
+> **[2:06](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=126)** Does your company post things on social media like [[LinkedIn]]?
 >
 > **[2:09](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=129)** If they do, make sure you follow them and add some positive comments to their postings.
 >
@@ -964,7 +953,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=174)** Activating and expanding your internal network is a great way to find and land a new opportunity.
 >
-> **[3:02](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=182)** One word of caution.
+> **[3:02](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=182)** One [[Microsoft Word|word]] of caution.
 >
 > **[3:04](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/refresh-your-networking-skills?u=76281980&t=184)** Treat new contacts respectfully and graciously.
 >
@@ -980,8 +969,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - if (1)
 
-#### Seek out internal influencers and advisers
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980)
+#### [Seek out internal influencers and advisers](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1017,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=95)** Solicit their advice and their assistants.
 >
-> **[1:39](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=99)** Support from mentors, managers and advocates are critical sources of career development, and mobility.
+> **[1:39](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=99)** Support from mentors, managers and advocates are critical sources of [[Career Development]], and mobility.
 >
 > **[1:45](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=105)** So let me give you a few more ideas where you can find them.
 >
@@ -1045,7 +1033,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=145)** I'm a huge fan of them.
 >
-> **[2:27](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=147)** Finally, you can connect sponsors and influencers through internal leadership development programs.
+> **[2:27](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=147)** Finally, you can connect sponsors and influencers through internal [[Leadership Development]] programs.
 >
 > **[2:33](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/seek-out-internal-influencers-and-advisers?u=76281980&t=153)** These are formal programs that provide leadership training for selected individuals.
 >
@@ -1065,15 +1053,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (8), leadership (2), game (1), [[Career Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Career Development]] (1), [[Leadership Development]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** erg (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)
 
-#### Applying for internal jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/applying-for-internal-jobs?u=76281980)
+#### [Applying for internal jobs](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/applying-for-internal-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1114,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/applying-for-internal-jobs?u=76281980&t=121)** Get your stories of success ready.
 >
-> **[2:03](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/applying-for-internal-jobs?u=76281980&t=123)** Find out as much as possible about the interviewer, the department, their goals, challenges, initiatives, their services, products, et cetera.
+> **[2:03](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/applying-for-internal-jobs?u=76281980&t=123)** Find out as much as possible about the interviewer, the department, their goals, challenges, initiatives, their services, [[Microsoft Products|products]], et cetera.
 >
 > **[2:11](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/applying-for-internal-jobs?u=76281980&t=131)** People, do your homework.
 >
@@ -1153,14 +1140,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Best Practices:** it's best to (1), you should always (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - don (1)
 
-#### Create a new role for yourself
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/create-a-new-role-for-yourself?u=76281980)
+#### [Create a new role for yourself](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/create-a-new-role-for-yourself?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1228,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), job description (1), leadership (1), game (1), career (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - can (1)
@@ -1252,8 +1237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take the first step
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980)
+#### [Take the first step](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1249,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=16)** Think of your career like a marathon, not a sprint.
 >
-> **[0:20](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=20)** Managing your career and your internal mobility requires resilience, perseverance, patience, and a whole lot of optimism.
+> **[0:20](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=20)** Managing your career and your [[Internal Mobility]] requires resilience, perseverance, patience, and a whole lot of optimism.
 >
 > **[0:27](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=27)** Not every internal opportunity will work out for you.
 >
@@ -1283,11 +1267,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=59)** For example, if you don't get selected for that new role, then get feedback from the hiring manager.
 >
-> **[1:05](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=65)** Ask them to share from their perspective the things you did well, and the areas, skills, or experience that you could work on as part of your career development.
+> **[1:05](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=65)** Ask them to share from their perspective the things you did well, and the areas, skills, or experience that you could work on as part of your [[Career Development]].
 >
 > **[1:13](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=73)** In other words, keep at it.
 >
-> **[1:16](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=76)** I invite you to connect with me on LinkedIn or check out my other courses, or join me during my live LinkedIn office hours.
+> **[1:16](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=76)** I invite you to connect with me on [[LinkedIn]] or check out my other courses, or join me during my live LinkedIn [[Microsoft Office|office]] hours.
 >
 > **[1:24](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980&t=84)** I'm always happy to help people who want to help themselves to craft energizing and satisfying careers.
 >
@@ -1299,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), [[Internal Mobility]] (2), [[LinkedIn]] (2), [[Career Development]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (2), [[LinkedIn]] (2), [[Career Development]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)

@@ -80,14 +80,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover the power of PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980)
+#### [Discover the power of PowerPoint](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980&t=0)** - [Garrick] Microsoft PowerPoint is arguably the most popular app for creating and giving presentations.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980&t=0)** - [Garrick] [[Microsoft PowerPoint]] is arguably the most popular app for creating and giving presentations.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980&t=5)** It's been around for decades, and the term PowerPoint has pretty much become synonymous with presentations.
+> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980&t=5)** It's been around for decades, and the term [[Microsoft PowerPoint|PowerPoint]] has pretty much become synonymous with presentations.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980&t=11)** But if you've never created a presentation slideshow before, using software like PowerPoint, which is packed to the brim with features and tools, can be a little daunting at first.
 >
@@ -102,14 +101,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft PowerPoint]] (1)
 > **Speakers:** - [garrick] (1)
 
-#### Understanding PowerPoint versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980)
+#### [Understanding PowerPoint versions](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980&t=0)** - [Instructor] Before we jump into learning PowerPoint, first, take a moment to check which version of PowerPoint you're using.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980&t=0)** - [Instructor] Before we jump into learning [[Microsoft PowerPoint|PowerPoint]], first, take a moment to check which version of PowerPoint you're using.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980&t=5)** PowerPoint comes either as part of a Microsoft 365 subscription or as a standalone product.
+> **[0:05](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980&t=5)** PowerPoint comes either as part of a [[Microsoft 365]] subscription or as a standalone product.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/understanding-powerpoint-versions?u=76281980&t=11)** The current version, as of this recording, being PowerPoint 2021 and although the 2021 and Microsoft 365 versions are very similar, there are features in the Microsoft 365 version that aren't available in the 2021 version.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft 365]] (7), product (3)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft 365]] (7)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -134,18 +132,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Browse the presentation gallery
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980)
+#### [Browse the presentation gallery](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=0)** - [Narrator] All right, so I've pinned the PowerPoint icon to my task bar, so I'll click it to start a PowerPoint and like most other Office products, when you first open up PowerPoint, you're presented with a gallery of templates or themes that you can use to get your presentation started.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=0)** - [Narrator] All right, so I've pinned the [[Microsoft PowerPoint|PowerPoint]] icon to my task bar, so I'll click it to start a PowerPoint and like most other [[Microsoft Office|Office]] [[Microsoft Products|products]], when you first open up PowerPoint, you're presented with a gallery of templates or themes that you can use to get your presentation started.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=13)** We can also come over here and click more themes and check out additional templates.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=17)** But this isn't the limit of the templates you can choose from.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=19)** If you click here in the search field, you can type in keywords to search Microsoft's online templates and themes.
+> **[0:19](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=19)** If you click here in the search field, you can type in keywords to search [[Microsoft]]'s online templates and themes.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=25)** So for example, I'll look for nature, and after a second, I see several more templates.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=135)** With recent selected, you can access any presentations you've previously worked on, and this can be a quick way to pick up where you left off without having to manually navigate through your computer's hard drive to find a presentation you've been working on.
 >
-> **[2:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=145)** You can also select OneDrive to browse for files saved to your OneDrive account if you've set one up.
+> **[2:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=145)** You can also select [[Microsoft OneDrive|OneDrive]] to browse for files saved to your OneDrive account if you've set one up.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=151)** You can also search this PC to find files on your computer's hard drive.
 >
@@ -197,13 +194,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=175)** Incidentally, you can check out our courses on OneDrive and OneDrive for Business if you want to learn more about the benefits of using these online storage solutions.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=181)** Microsoft 365 subscribers get a large amount of free space to store, sync, and share files online, so check out those courses for more information.
+> **[3:01](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=181)** [[Microsoft 365]] subscribers get a large amount of free space to store, sync, and share files online, so check out those courses for more information.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980&t=190)** But for now that's a quick tour of the presentation gallery here in PowerPoint and how to search for and open templates to use for your presentations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft PowerPoint|Powerpoint]] (4), business (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1), click on (1)
@@ -211,8 +208,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a new presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980)
+#### [Create a new presentation](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=23)** Now, the first time you do this, you may see the Design Ideas panel pop open.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=29)** Mine didn't because I've already been working in PowerPoint for a little bit here, but basically this is a gallery of layout suggestions for your presentation that you can take advantage of as a Microsoft 365 subscriber.
+> **[0:29](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=29)** Mine didn't because I've already been working in [[Microsoft PowerPoint|PowerPoint]] for a little bit here, but basically this is a gallery of layout suggestions for your presentation that you can take advantage of as a [[Microsoft 365]] subscriber.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=39)** But because we're going to be starting from scratch for this example, I'm going to click the X button to close this so we have more room to look at our blank slide.
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=318)** And I'll just select my desktop for this example.
 >
-> **[5:21](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=321)** Now you can also save your PowerPoints to an online location, like your personal OneDrive account or your business OneDrive account if you have one which would allow you to access this presentation from any computer connected to the internet, but in this case, I'm just going to save it locally here on my computer in the desktop folder.
+> **[5:21](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=321)** Now you can also save your PowerPoints to an online location, like your personal [[Microsoft OneDrive|OneDrive]] account or your business OneDrive account if you have one which would allow you to access this presentation from any computer connected to the internet, but in this case, I'm just going to save it locally here on my computer in the desktop folder.
 >
 > **[5:36](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/create-a-new-presentation?u=76281980&t=336)** Now this is also where you can choose the format you want to save the presentation in.
 >
@@ -352,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), next (4), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft 365]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft 365]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -361,8 +357,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add slides and sections
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-slides-and-sections?u=76281980)
+#### [Add slides and sections](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-slides-and-sections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,8 +444,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add text with text slides, boxes, and shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980)
+#### [Add text with text slides, boxes, and shapes](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,19 +556,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), cloud (1)
 > **UI Navigation:** go to (5), select the (2)
 > **Analogies:** for example (4), picture (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format text
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980)
+#### [Format text](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=0)** - [Instructor] Now that we know the ways to add text to slides in PowerPoint, let's take a quick look at how to format the text.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=0)** - [Instructor] Now that we know the ways to add text to slides in [[Microsoft PowerPoint|PowerPoint]], let's take a quick look at how to format the text.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=5)** I'm still working with the slides I created earlier.
 >
@@ -602,9 +594,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=58)** So I'm going to come up here with the text box still selected and I'll click the line spacing menu and just increase the line spacing a bit.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=66)** So you have the usual selection of text tools that you'll find in most word processors.
+> **[1:06](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=66)** So you have the usual selection of text tools that you'll find in most [[Microsoft Word|word]] processors.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=70)** And if you're familiar with Microsoft Word, you'll most likely recognize these tools.
+> **[1:10](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=70)** And if you're familiar with [[Microsoft Word]], you'll most likely recognize these tools.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/format-text?u=76281980&t=74)** We also have things like the paragraph alignment buttons if we want to align the text to the center or the right or to the left.
 >
@@ -682,15 +674,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** select the (2), go to (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add photos
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980)
+#### [Add photos](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=44)** Now, the first time you add a photo, you may see this Design Ideas panel open here to the right.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=48)** And again, this is one of the features of having a Microsoft 365 subscription, and it's there to help you create professional looking layouts for your slides.
+> **[0:48](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=48)** And again, this is one of the features of having a [[Microsoft 365]] subscription, and it's there to help you create professional looking layouts for your slides.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=55)** I'm going to close that panel for now, but we'll come back to this momentarily after we look at some of the manual options for working with photos.
 >
@@ -794,7 +785,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=250)** And that's how to add images to your slides either by using existing placeholders, or by browsing for your images with the Insert Pictures button.
 >
-> **[4:17](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=257)** Now, as we saw earlier when I inserted the image onto the Featured Rooms slide, PowerPoint opened up the Designer panel, and it did the same thing here when I added this image.
+> **[4:17](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=257)** Now, as we saw earlier when I inserted the image onto the Featured Rooms slide, [[Microsoft PowerPoint|PowerPoint]] opened up the Designer panel, and it did the same thing here when I added this image.
 >
 > **[4:24](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-photos?u=76281980&t=264)** But let's go back to the Featured Rooms slide.
 >
@@ -830,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365]] (1)
 > **Analogies:** picture (6), for example (3)
 > **CLI Commands:** find (3), make (3)
 > **Cross-References:** go back to (2), previous video (1), as we saw (1)
@@ -839,14 +830,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add video
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980)
+#### [Add video](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=0)** - [Presenter] In addition to text and still images you'll probably at some point, want to include videos in your presentations.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=6)** With PowerPoint, there's no need to switch over to a separate video playing app while you're in the middle of your presentation.
+> **[0:06](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=6)** With [[Microsoft PowerPoint|PowerPoint]], there's no need to switch over to a separate video playing app while you're in the middle of your presentation.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=11)** Instead, you can embed video directly onto slides so they'll come up on screen exactly when you want them to.
 >
@@ -878,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=79)** And inside this folder, notice that only one file which is called Oxford Street is available.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=83)** The rest here are just folders.
+> **[1:23](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=83)** The [[Representational State Transfer (REST)|rest]] here are just folders.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-video?u=76281980&t=85)** Now I know there are other files in the main exercise files folder, but I'm not seeing them because video files is selected down here as the format.
 >
@@ -982,7 +972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (9), next (3), web (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (9), [[Representational State Transfer (REST)|Rest]] (2)
 > **UI Navigation:** go to (2), select the (2), switch to (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2), kind of like (1)
@@ -991,8 +981,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Prerequisites:** you'll need (1)
 
-#### Add audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980)
+#### [Add audio](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1006,7 +995,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=24)** You can choose audio on my PC, which allows you to access your computer's hard drive to browse for the audio file that you want to add.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=31)** Like with videos, only audio files that PowerPoint can play will be selectable.
+> **[0:31](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=31)** Like with videos, only audio files that [[Microsoft PowerPoint|PowerPoint]] can play will be selectable.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=35)** All other files won't be displayed unless you choose all files from the menu here.
 >
@@ -1076,7 +1065,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=215)** But if you check play across slides, the sound will continue for its entire duration.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=219)** This might be useful if you wanted to put some music on first slide and then let it play throughout the rest of the slideshow.
+> **[3:39](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=219)** This might be useful if you wanted to put some music on first slide and then let it play throughout the [[Representational State Transfer (REST)|rest]] of the slideshow.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-audio?u=76281980&t=225)** If you check loop until stopped, once the sound finishes playing, it will start again from the beginning until you stop it.
 >
@@ -1092,7 +1081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Search]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (3), picture (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1101,12 +1090,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 
-#### Add links
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-links?u=76281980)
+#### [Add links](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-links?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-links?u=76281980&t=0)** - [Narrator] As we've seen, you can include text, images, videos, and audio in your PowerPoint presentations, but there will most likely be times when you'll want to show other content like a webpage or a file that can't be imported into PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-links?u=76281980&t=0)** - [Narrator] As we've seen, you can include text, images, videos, and audio in your [[Microsoft PowerPoint|PowerPoint]] presentations, but there will most likely be times when you'll want to show other content like a webpage or a file that can't be imported into PowerPoint.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-links?u=76281980&t=11)** In those cases, you can create a link within your presentation that when clicked, can do things like open up your web browser to a specific address or jump to another point in your presentation.
 >
@@ -1196,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5), web (4), application (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (5)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** select the (2), switch to (1), open the (1)
 > **URLs:** [landonhotel.com](https://landonhotel.com) (2), [example.com](https://example.com) (1)
@@ -1210,8 +1198,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980)
+#### [Change themes](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=16)** We have some texts, some images and I'll just start here with the second slides selected.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=21)** The nice thing about working with themes in PowerPoint is that you can change them at any time.
+> **[0:21](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=21)** The nice thing about working with themes in [[Microsoft PowerPoint|PowerPoint]] is that you can change them at any time.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=25)** You're never really locked into a theme once you've selected it.
 >
@@ -1279,7 +1266,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=168)** And if I end up preferring this theme for all of my slides, I can just select one of the other slides, go back to the themes and do the usual left click on the theme to apply it to the entire presentation.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=179)** Now also because we're working with Microsoft 365, we have access to the design ideas panel and here you'll find some other potential layout suggestions you can click to try out.
+> **[2:59](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=179)** Now also because we're working with [[Microsoft 365]], we have access to the design ideas panel and here you'll find some other potential layout suggestions you can click to try out.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980&t=196)** But in this case I like the layout we had.
 >
@@ -1296,8 +1283,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change slide backgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-slide-backgrounds?u=76281980)
+#### [Change slide backgrounds](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-slide-backgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1307,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-slide-backgrounds?u=76281980&t=52)** You can select a different color from the Color menu.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-slide-backgrounds?u=76281980&t=57)** And basically from this menu, you can choose from Theme-Related Colors, Standard Colors, or you can click More Colors to use the Windows color picker.
+> **[0:57](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-slide-backgrounds?u=76281980&t=57)** And basically from this menu, you can choose from Theme-Related Colors, Standard Colors, or you can click More Colors to use the [[Windows]] color picker.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-slide-backgrounds?u=76281980&t=66)** You can also choose a Gradient fill, which is when one color gradually blends into another color.
 >
@@ -1353,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (2)
 > **Code Identifiers:** london_king_guest_room (1)
@@ -1361,8 +1347,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add headers and footers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980)
+#### [Add headers and footers](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=74)** Below that is the Footer field and this is for any content that you'd like to have appear on all of your slides.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=79)** For example, you might want to add the word confidential.
+> **[1:19](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=79)** For example, you might want to add the [[Microsoft Word|word]] confidential.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=84)** And the last option here is to not show any of these items on the title slide and that's for when you want a nice clean slide without any extraneous information to start things off.
 >
@@ -1474,11 +1459,11 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=310)** All right.
 >
-> **[5:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=311)** And that's working with headers and footers in PowerPoint.
+> **[5:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-headers-and-footers?u=76281980&t=311)** And that's working with headers and footers in [[Microsoft PowerPoint|PowerPoint]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), web (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** for example (2), such as (1)
@@ -1487,12 +1472,11 @@ created: 2026-05-02
 > **Env Vars:** pdf (1)
 > **UI Navigation:** go to (1)
 
-#### Work with transitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/work-with-transitions?u=76281980)
+#### [Work with transitions](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/work-with-transitions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/work-with-transitions?u=76281980&t=0)** - [Instructor] In PowerPoint, transitions are the animations or lack thereof that happen as you progress from slide to slide.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/work-with-transitions?u=76281980&t=0)** - [Instructor] In [[Microsoft PowerPoint|PowerPoint]], transitions are the animations or lack thereof that happen as you progress from slide to slide.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/work-with-transitions?u=76281980&t=7)** You can add transitions universally across all of your slides or you can set individual transitions to occur between specific slides.
 >
@@ -1560,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** click on (1), go to (1)
@@ -1573,8 +1557,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use speaker notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980)
+#### [Use speaker notes](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1567,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980&t=10)** Ideally, you should present key bullet points and expand on them verbally during your presentation.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980&t=14)** Now, this causes some people to worry about having to remember all the points or information they want to get across, but that's what the speaker notes section in PowerPoint is for.
+> **[0:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980&t=14)** Now, this causes some people to worry about having to remember all the points or information they want to get across, but that's what the speaker notes section in [[Microsoft PowerPoint|PowerPoint]] is for.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980&t=22)** Speaker notes are notes that you'll only see on your own computer while presenting, as long as you're connected to a projector or a second monitor.
 >
@@ -1631,8 +1614,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Present and navigate your slide deck
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980)
+#### [Present and navigate your slide deck](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,7 +1630,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=23)** I'll also be recommending some other titles at the end of this course.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=27)** But in this video, I want to go over the most important tools and controls you'll need to know in order to use PowerPoint smoothly while presenting.
+> **[0:27](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=27)** But in this video, I want to go over the most important tools and controls you'll need to know in order to use [[Microsoft PowerPoint|PowerPoint]] smoothly while presenting.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=34)** Now we've already seen this several times, but to move into Slide Show Mode, we can click the Slide Show button.
 >
@@ -1718,11 +1700,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=222)** This can be particularly useful if you have a lot of slides and need to move ahead very quickly.
 >
-> **[3:48](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=228)** There's also a magnifier for when you need to zoom in on your slides and show detail.
+> **[3:48](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=228)** There's also a magnifier for when you need to [[Zoom]] in on your slides and show detail.
 >
 > **[3:53](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=233)** You can press Escape to zoom back out.
 >
-> **[3:56](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=236)** Now a feature that's exclusive to the Microsoft 365 version of PowerPoint is the ability to display live subtitles or captions.
+> **[3:56](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=236)** Now a feature that's exclusive to the [[Microsoft 365]] version of PowerPoint is the ability to display live subtitles or captions.
 >
 > **[4:04](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=244)** This can be especially useful for people who may have difficulty hearing you while you're presenting.
 >
@@ -1736,7 +1718,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=268)** Now be aware that as of this recording, PowerPoint fully supports live captions and subtitles for languages like English, Chinese, French, German, Italian, and Spanish, while other languages have partial support, like Arabic, Japanese, Swedish, and several others.
 >
-> **[4:42](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=282)** But Microsoft says the recognition of more languages will improve over time.
+> **[4:42](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=282)** But [[Microsoft]] says the recognition of more languages will improve over time.
 >
 > **[4:50](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/present-and-navigate-your-slide-deck?u=76281980&t=290)** Now this last button here is a menu containing other useful options, like Last Viewed to jump to the last viewed slide and Presenter Mode, which we'll talk about next.
 >
@@ -1744,7 +1726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (4), [[Zoom]] (2), business (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Zoom]] (2), [[Microsoft 365]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** be aware (2)
 > **Prerequisites:** you'll need (2)
@@ -1753,12 +1735,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Use Presenter View
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980)
+#### [Use Presenter View](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=0)** - [Instructor] I've previously mentioned that when you're in a presenting situation where you've got your computer hooked up to a projector or a second monitor, PowerPoint gives you a set of presenter tools so you can keep track of things like your slide notes, the current time, the upcoming slides, and so on.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=0)** - [Instructor] I've previously mentioned that when you're in a presenting situation where you've got your computer hooked up to a projector or a second monitor, [[Microsoft PowerPoint|PowerPoint]] gives you a set of presenter tools so you can keep track of things like your slide notes, the current time, the upcoming slides, and so on.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-presenter-view?u=76281980&t=14)** These tools show up by default whenever you have a second display, but be sure to go the Slide Show tab, and make sure Use Presenter View is checked.
 >
@@ -1804,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1814,12 +1795,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Export as a PDF
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980)
+#### [Export as a PDF](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980&t=0)** - [Instructor] In this last chapter, I want to cover some of the options you have to share and export your presentations from PowerPoint, which you might want to do if you need to share it with someone who doesn't have PowerPoint installed on their computer, or if you want to offer your slides as a printed or PDF handout after your presentation.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980&t=0)** - [Instructor] In this last chapter, I want to cover some of the options you have to share and export your presentations from [[Microsoft PowerPoint|PowerPoint]], which you might want to do if you need to share it with someone who doesn't have PowerPoint installed on their computer, or if you want to offer your slides as a printed or PDF handout after your presentation.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980&t=14)** I already touched on printing handouts earlier when we looked at using headers and footers and working with notes, and we saw some of the options that are available when you go to File, Print.
 >
@@ -1857,8 +1837,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Save to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980)
+#### [Save to the cloud](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1866,15 +1845,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=6)** You can also save your presentations to the cloud so you'll be able to get to them at any time from any computer.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=11)** This can really come in handy if you need to give your presentation, but you're having trouble with your own computer and need to borrow someone else's with PowerPoint, or if you just want to make sure you have a copy backed up online.
+> **[0:11](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=11)** This can really come in handy if you need to give your presentation, but you're having trouble with your own computer and need to borrow someone else's with [[Microsoft PowerPoint|PowerPoint]], or if you just want to make sure you have a copy backed up online.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=20)** Having a copy online is also a requirement if you want to use PowerPoint to manage your file sharing.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=26)** Notice when I come up here to the upper right and click Share, I see this message telling me to please upload my presentation in order to share it.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=33)** And from here, you can choose to save the file to your personal OneDrive account or to a OneDrive for Business account if that's what you use.
+> **[0:33](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=33)** And from here, you can choose to save the file to your personal [[Microsoft OneDrive|OneDrive]] account or to a OneDrive for Business account if that's what you use.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=40)** If you're not familiar with OneDrive or want to learn more about Microsoft's cloud-based storage and backup service, check out our courses on OneDrive and OneDrive for Business.
+> **[0:40](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=40)** If you're not familiar with OneDrive or want to learn more about [[Microsoft]]'s cloud-based storage and backup service, check out our courses on OneDrive and OneDrive for Business.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=47)** In this case, I'll just select this OneDrive account here.
 >
@@ -1892,7 +1871,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=74)** Now, if I switch over to my web browser where I'm already logged into my OneDrive account and I refresh it, here's the file that I just uploaded.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=85)** And in fact, I can actually open my presentation in Office Online by clicking it.
+> **[1:25](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=85)** And in fact, I can actually open my presentation in [[Microsoft Office|Office]] Online by clicking it.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/save-to-the-cloud?u=76281980&t=90)** So if I were caught in a bind without my own computer or with a computer that doesn't have PowerPoint installed, I can still get to my presentation and use the online version of PowerPoint that comes free with OneDrive to view and edit my presentation.
 >
@@ -1902,25 +1881,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Microsoft PowerPoint|Powerpoint]] (5), cloud (3), business (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Microsoft PowerPoint|Powerpoint]] (5), [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share and collaborate with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980)
+#### [Share and collaborate with others](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=0)** - Okay, so in the previous movie, we looked at how to save your presentation online to OneDrive which is necessary if you want to be able to use the built in tools here to share it with others.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=0)** - Okay, so in the previous movie, we looked at how to save your presentation online to [[Microsoft OneDrive|OneDrive]] which is necessary if you want to be able to use the built in tools here to share it with others.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=9)** I'm going to click the share button up here again and let's take a look at some of these options.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=14)** So the two main options here are to email a link to the file to others or to copy the link so you can paste it into an email or some other messaging system here yourself.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=22)** To email the link through PowerPoint, just enter the email addresses of the recipients here in the to field, type of short message and you can click send.
+> **[0:22](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=22)** To email the link through [[Microsoft PowerPoint|PowerPoint]], just enter the email addresses of the recipients here in the to field, type of short message and you can click send.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=29)** Or you can just click copy to copy the link to your clipboard so you can paste it elsewhere.
 >
@@ -1990,7 +1968,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=188)** So this is an easy way to collaborate with people who don't even have a copy of PowerPoint on their computers.
 >
-> **[3:13](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=193)** They can perform simple edits in the Office online version.
+> **[3:13](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=193)** They can perform simple edits in the [[Microsoft Office|Office]] online version.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/share-and-collaborate-with-others?u=76281980&t=196)** Now we do have a couple more options when we go back to share.
 >
@@ -2008,7 +1986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft OneDrive|Onedrive]] (3), web (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Office|Office]] (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
@@ -2022,12 +2000,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue improving your presentation skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980)
+#### [Continue improving your presentation skills](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980&t=0)** - [Garrick] Thanks for joining me for this quick primer on using PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980&t=0)** - [Garrick] Thanks for joining me for this quick primer on using [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980&t=3)** My hope is that it's given you enough information to build your own basic presentations from scratch, but there's so much more that PowerPoint is capable of.
 >
@@ -2043,7 +2020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [garrick] (1)

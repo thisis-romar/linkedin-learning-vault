@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a cyber-resilient organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980)
+#### [Building a cyber-resilient organization](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980&t=13)** We have to be ready for literally anything.
 >
-> **[0:16](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980&t=16)** I'm Tia Hopkins, award-winning cybersecurity and business executive, author and thought leader.
+> **[0:16](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980&t=16)** I'm Tia Hopkins, award-winning [[Cybersecurity]] and business executive, author and thought leader.
 >
 > **[0:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980&t=23)** In this course, we'll explore what it means to adopt a cyber resilience mindset and arm you with the knowledge, tools, and strategies you need to develop and implement a more resilient security program.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Speakers:** - a (1)
 
 
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cyber resilience and why should you care?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980)
+#### [What is cyber resilience and why should you care?](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980&t=33)** The more we rely on complex digital systems, the harder it becomes to effectively protect those systems with conventional methods.
 >
-> **[0:41](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980&t=41)** Traditional approaches to cybersecurity, which typically focus on defensive postures that emphasize prevention and safeguarding against known vulnerabilities are being stretched to their limits by things like AI-powered technology, remote workforces, and rapid cloud adoption, just to name a few.
+> **[0:41](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980&t=41)** Traditional approaches to [[Cybersecurity]], which typically focus on defensive postures that emphasize prevention and safeguarding against known vulnerabilities are being stretched to their limits by things like AI-powered technology, remote workforces, and rapid cloud adoption, just to name a few.
 >
 > **[1:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980&t=61)** And if that's not enough, we can add increasingly sophisticated adversary tactics, the growing cybersecurity skills gap, and the current macroeconomic conditions that in many cases result in budget constraints for security leaders.
 >
@@ -168,17 +166,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), teams (3), management (3), [[Cybersecurity]] (2), business (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - when (1)
 
-#### The key pillars of cyber resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980)
+#### [The key pillars of cyber resilience](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=1)** - In December, 2021, the National Institute of Standards and Technology, NIST, released a special publication to provide guidance on cyber resilience concepts to individuals responsible for system security, engineering, and risk management processes.
+> **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=1)** - In December, 2021, the National Institute of Standards and Technology, [[NIST]], released a special publication to provide guidance on cyber resilience concepts to individuals responsible for system security, engineering, and risk management processes.
 >
 > **[0:17](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=17)** I'm guessing you probably fall into one or both of those categories, so be sure to check out, "NIST Special Publication 800-160, Volume 2, Revision 1" if you're ever in the mood for some not-so-light reading.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=75)** The anticipate pillar is all about being proactive and ensuring protective measures are in place before an attack occurs.
 >
-> **[1:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=83)** If you're familiar with the NIST Cybersecurity Framework, these are the types of activities you would align with the identify and protect functions.
+> **[1:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=83)** If you're familiar with the NIST [[Cybersecurity]] Framework, these are the types of activities you would align with the identify and protect functions.
 >
 > **[1:33](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=93)** Moving on to withstand, this is where we want to minimize the scope of a breach or incident and prevent business disruption.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=107)** Next up, we have recover.
 >
-> **[1:50](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=110)** After an incident, the top priority is restoring business operations and getting back to normal as quickly as possible.
+> **[1:50](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=110)** After an incident, the top priority is restoring [[Business Operations]] and getting back to normal as quickly as possible.
 >
 > **[1:58](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-key-pillars-of-cyber-resilience?u=76281980&t=118)** You probably guessed it already, but this aligns with the recover function of the Cybersecurity Framework where we want to reduce downtime and long-term impact.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), next (4), business (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[NIST]] (5), [[Business Operations]] (1)
 > **Env Vars:** nist (5)
 > **Cross-References:** in the next (2), next video (1)
 > **CLI Commands:** make (1)
@@ -250,14 +247,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### A comparison of cybersecurity and cyber defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/a-comparison-to-cybersecurity-and-cyber-defense?u=76281980)
+#### [A comparison of cybersecurity and cyber defense](https://www.linkedin.com/learning/cyber-resilience-an-overview/a-comparison-to-cybersecurity-and-cyber-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/a-comparison-to-cybersecurity-and-cyber-defense?u=76281980&t=1)** - As we consider approaches to safeguarding our organizations, it's important to recognize that each path we take can yield distinctly different results.
 >
-> **[0:10](https://www.linkedin.com/learning/cyber-resilience-an-overview/a-comparison-to-cybersecurity-and-cyber-defense?u=76281980&t=10)** The key is remembering that our cybersecurity programs are not only about the process, they're also about the outcome.
+> **[0:10](https://www.linkedin.com/learning/cyber-resilience-an-overview/a-comparison-to-cybersecurity-and-cyber-defense?u=76281980&t=10)** The key is remembering that our [[Cybersecurity]] programs are not only about the process, they're also about the outcome.
 >
 > **[0:17](https://www.linkedin.com/learning/cyber-resilience-an-overview/a-comparison-to-cybersecurity-and-cyber-defense?u=76281980&t=17)** In the last video, I asked you to think about what your teams are prioritizing and how those priorities align with the desired outcomes of the organizations you protect.
 >
@@ -357,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), hit (2), teams (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** the key is (1)
@@ -368,12 +364,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anticipate: Control the controllables
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980)
+#### [Anticipate: Control the controllables](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=1)** - I'm going to go out on a limb here and say that although the NIST publication focuses on system design and engineering, I don't see why we can't also leverage it as a framework in our security program management toolkit.
+> **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=1)** - I'm going to go out on a limb here and say that although the [[NIST]] publication focuses on system design and engineering, I don't see why we can't also leverage it as a framework in our security program management toolkit.
 >
 > **[0:12](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=12)** In this chapter, we'll dive into each of the pillars to understand their objectives and how we can enhance our overall security strategy by operationalizing cyber resilience.
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=67)** There's a long list of activities that fall within this pillar.
 >
-> **[1:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=71)** A few examples include gathering and operationalizing threat intelligence, risk assessments, and developing and updating incident response and business continuity plans.
+> **[1:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=71)** A few examples include gathering and operationalizing threat intelligence, risk assessments, and developing and updating [[Incident Response]] and business continuity plans.
 >
 > **[1:21](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=81)** Here's a pro tip.
 >
@@ -423,7 +418,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=173)** When it comes to recovery, your anticipatory activities keep you from scrambling when you find yourself in the heat of battle.
 >
-> **[3:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=180)** Instead, you've got a playbook ready with steps clearly laid out for a swift and efficient recovery.
+> **[3:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=180)** Instead, you've got a playbook ready with steps clearly laid out for a [[Swift (Programming Language)|swift]] and efficient recovery.
 >
 > **[3:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980&t=186)** It's like knowing exactly where the spare shields are stored and who has access to them when they need to be replaced on the front line.
 >
@@ -445,19 +440,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (3), [[NIST]] (1), [[Engineering]] (1), management (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Incident Response]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1), it's like (1)
 > **Env Vars:** nist (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - i (1)
 
-#### Withstand: Hang in there
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980)
+#### [Withstand: Hang in there](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=0)** - You've just received word that the enemy is at the gates and they're trying to breach the castle walls.
+> **[0:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=0)** - You've just received [[Microsoft Word|word]] that the enemy is at the gates and they're trying to breach the castle walls.
 >
 > **[0:05](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=5)** The kingdom is officially under siege.
 >
@@ -473,7 +467,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=52)** The goal is to limit the scope of the incident and prevent disruption.
 >
-> **[0:57](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=57)** Examples of initiatives within this pillar range from advanced detection and response capabilities to testing your controls with penetration testing and testing your people and processes with incident response drills and tabletop exercises.
+> **[0:57](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=57)** Examples of initiatives within this pillar range from advanced detection and response capabilities to testing your controls with [[Penetration Testing]] and testing your people and processes with [[Incident Response]] drills and tabletop exercises.
 >
 > **[1:12](https://www.linkedin.com/learning/cyber-resilience-an-overview/withstand-hang-in-there?u=76281980&t=72)** You really want to make sure every department understands their role in the defense strategy and can execute it under any condition.
 >
@@ -529,15 +523,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Penetration Testing]] (1), [[Incident Response]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Penetration Testing]] (1), [[Incident Response]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - you (1)
 
-#### Recover: Getting back to normal
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/recover-getting-back-to-normal?u=76281980)
+#### [Recover: Getting back to normal](https://www.linkedin.com/learning/cyber-resilience-an-overview/recover-getting-back-to-normal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/recover-getting-back-to-normal?u=76281980&t=61)** We also have to consider what may be required to restore degraded business processes.
 >
-> **[1:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/recover-getting-back-to-normal?u=76281980&t=67)** For example, a US company that makes cleaning products experienced a cyber attack that led to disruption in portions of their IT infrastructure.
+> **[1:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/recover-getting-back-to-normal?u=76281980&t=67)** For example, a US company that makes cleaning [[Microsoft Products|products]] experienced a cyber attack that led to disruption in portions of their IT infrastructure.
 >
 > **[1:17](https://www.linkedin.com/learning/cyber-resilience-an-overview/recover-getting-back-to-normal?u=76281980&t=77)** The disruption forced them to take systems offline and switch to processing orders manually.
 >
@@ -607,15 +600,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Security]] (2), data (1), [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), imagine (1), think of it as (1)
 > **UI Navigation:** switch to (1)
 > **Warnings:** don't make the mistake (1)
 > **Speakers:** - after (1)
 
-#### Adapt: What did you learn?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/adapt-what-did-we-learn?u=76281980)
+#### [Adapt: What did you learn?](https://www.linkedin.com/learning/cyber-resilience-an-overview/adapt-what-did-we-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +675,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), teams (2), business (1)
 > **Env Vars:** url (1), dna (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -691,14 +682,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### Case study: Major industry breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980)
+#### [Case study: Major industry breach](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=0)** - Let's drive this home with a quick case study to show how the four pillars work.
 >
-> **[0:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=6)** H+ Sport is an online retailer with a digital marketplace known for its wide range of products and seamless user experience.
+> **[0:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=6)** H+ Sport is an online retailer with a digital marketplace known for its wide range of [[Microsoft Products|products]] and seamless [[User Experience (UX)|user experience]].
 >
 > **[0:15](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=15)** With a growing network of vendors and a large global customer base, H+ Sport has positioned itself as a leader in online retail.
 >
@@ -708,23 +698,23 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=46)** Let's walk through the incident, examining the company's approach to securing the enterprise and evaluating how a cyber resilient mindset may have helped them.
 >
-> **[0:56](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=56)** As the breach unfolded, investigators learned that, despite operating in a high-risk industry, H+ Sport's firewalls and intrusion detection systems were outdated, and the use of threat intelligence was minimal at best.
+> **[0:56](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=56)** As the breach unfolded, investigators learned that, despite operating in a high-risk industry, H+ Sport's firewalls and [[Intrusion Detection]] systems were outdated, and the use of threat intelligence was minimal at best.
 >
 > **[1:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=71)** The breach quickly escalated due to these gaps.
 >
-> **[1:15](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=75)** Because the security team struggled to anticipate threats to the e-commerce industry, H+ Sport was blindsided by the attack, which hindered their ability to ensure the marketplace continued to service customers, even at a degraded level.
+> **[1:15](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=75)** Because the security team struggled to anticipate threats to the [[E-Commerce]] industry, H+ Sport was blindsided by the attack, which hindered their ability to ensure the marketplace continued to service customers, even at a degraded level.
 >
 > **[1:31](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=91)** Business was unfortunately disrupted, as the team wasn't properly prepared to withstand the attack.
 >
 > **[1:37](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=97)** The chaos during the breach exposed inadequacies in their recovery strategy.
 >
-> **[1:43](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=103)** They lacked a coherent incident response plan, which not only slowed their ability to contain the breach, but also impacted their ability to withstand future attacks during the recovery phase.
+> **[1:43](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=103)** They lacked a coherent [[Incident Response]] plan, which not only slowed their ability to contain the breach, but also impacted their ability to withstand future attacks during the recovery phase.
 >
 > **[1:56](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=116)** As teams scrambled to respond, it became clear that tabletop exercises or simulations would have better prepared the staff, potentially limiting the breach's impact.
 >
-> **[2:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=127)** In the aftermath, [[Executive Leadership]] recognized the need to adapt.
+> **[2:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=127)** In the aftermath, [[[[Executive Leadership]]]] recognized the need to adapt.
 >
-> **[2:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=133)** The breach analysis revealed that the company's cybersecurity policies had remained static for years, not evolving with industry trends or technology advancements.
+> **[2:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=133)** The breach analysis revealed that the company's [[Cybersecurity]] policies had remained static for years, not evolving with industry trends or technology advancements.
 >
 > **[2:24](https://www.linkedin.com/learning/cyber-resilience-an-overview/case-study-major-industry-breach?u=76281980&t=144)** This series of events delivered a devastating blow to the business.
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (3), data (2), [[Incident Response]] (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Cybersecurity]] (2), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[Intrusion Detection]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
 
@@ -763,14 +753,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the business
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980)
+#### [Understanding the business](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=0)** - You've probably figured out by now that this course isn't just about the technologies we need to implement and the processes we need to develop to build more resilient security programs.
 >
-> **[0:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=11)** We also need to explore the impact of business acumen on our overall success.
+> **[0:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=11)** We also need to explore the impact of [[Business Acumen]] on our overall success.
 >
 > **[0:17](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=17)** I get it.
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=107)** If their primary source of revenue is online sales, their cyber resilience strategy will be very different from a manufacturing company that primarily focuses on product production in a physical location.
 >
-> **[2:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=121)** While the online retailer would likely prioritize protecting customer data and e-commerce platforms, the manufacturer would be more focused on ensuring the functionality of manufacturing equipment.
+> **[2:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=121)** While the online retailer would likely prioritize protecting customer data and [[E-Commerce]] platforms, the manufacturer would be more focused on ensuring the functionality of manufacturing equipment.
 >
 > **[2:14](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=134)** But here's where it gets even more interesting.
 >
@@ -820,19 +809,18 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=174)** That's why it's critical to be dialed into the business.
 >
-> **[2:58](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=178)** The more informed you are, the better prepared you are to create strategies that effectively anticipate the various threats to the business, withstand inevitable cyber attacks by making sure critical systems and operations aren't disrupted, and rapidly recover from incidents by restoring normal business operations as quickly as possible.
+> **[2:58](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=178)** The more informed you are, the better prepared you are to create strategies that effectively anticipate the various threats to the business, withstand inevitable cyber attacks by making sure critical systems and operations aren't disrupted, and rapidly recover from incidents by restoring normal [[Business Operations]] as quickly as possible.
 >
-> **[3:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=199)** Okay, now that we're aligned on the importance of business acumen, let's really start to level up by learning all about our business operators and decision makers, the [[Executive Leadership]] team.
+> **[3:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980&t=199)** Okay, now that we're aligned on the importance of business acumen, let's really start to level up by learning all about our business operators and decision makers, the [[[[Executive Leadership]]]] team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Security]] (3), data (2), product (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (2), [[E-Commerce]] (1), [[Business Operations]] (1), [[Executive Leadership]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Understanding executive leadership concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980)
+#### [Understanding executive leadership concerns](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +830,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=7)** In the last video, we put a lot of effort into understanding the companies we protect, but there's an additional factor we need to consider.
 >
-> **[0:16](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=16)** Understanding the concerns of [[Executive Leadership]].
+> **[0:16](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=16)** Understanding the concerns of [[[[Executive Leadership]]]].
 >
 > **[0:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-executive-leadership-concerns?u=76281980&t=19)** While some CISOs have a seat at the C-suite table, many security leaders find themselves in a challenging position.
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), business (5), [[Executive Leadership]] (2), management (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (2)
 > **Env Vars:** ceo (4), cfo (4), cto (3), roi (1)
 > **Warnings:** be aware (1), be careful (1)
 > **CLI Commands:** find (1)
@@ -911,8 +899,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - all (1)
 
-#### Prioritization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980)
+#### [Prioritization](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +937,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=79)** To figure out which initiatives are most valuable, you need to understand what direction the company's rowing towards.
 >
-> **[1:26](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=86)** The good news is, you've already done some great work understanding business goals and operations, and the top concerns of [[Executive Leadership]] based on the last two videos, so you've got a solid foundation to build on.
+> **[1:26](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=86)** The good news is, you've already done some great work understanding business goals and operations, and the top concerns of [[[[Executive Leadership]]]] based on the last two videos, so you've got a solid foundation to build on.
 >
 > **[1:39](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=99)** But here's where it gets hard.
 >
@@ -962,7 +949,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=131)** This is your low-hanging fruit.
 >
-> **[2:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=133)** Maybe it's a new product launch that requires strong data protection to build customer trust, or a shift to cloud computing, where security will play a pivotal role in ensuring a smooth and safe transition.
+> **[2:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=133)** Maybe it's a new product launch that requires strong data protection to build customer trust, or a shift to [[Cloud Computing]], where security will play a pivotal role in ensuring a smooth and safe transition.
 >
 > **[2:26](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=146)** Pinpointing these opportunities is your ticket to making sure security is a business enabler, not just a necessity.
 >
@@ -980,7 +967,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=193)** Use company data, case studies, the news, anything that demonstrates the tangible benefits or the risks of neglecting these forward thinking strategies.
 >
-> **[3:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=203)** That's actually a great Segway into our next section, communicating cybersecurity program effectiveness.
+> **[3:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=203)** That's actually a great Segway into our next section, communicating [[Cybersecurity]] program effectiveness.
 >
 > **[3:30](https://www.linkedin.com/learning/cyber-resilience-an-overview/prioritization?u=76281980&t=210)** It's almost like I did that on purpose.
 >
@@ -988,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), business (5), data (2), next (2), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Cloud Computing]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1000,16 +987,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of effective communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980)
+#### [The importance of effective communication](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=0)** - Okay folks, we're about to dive into a topic that's often the elephant in the room.
 >
-> **[0:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=6)** The role of [[Executive Leadership]] in shaping a security strategy that delivers business value.
+> **[0:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=6)** The role of [[[[Executive Leadership]]]] in shaping a security strategy that delivers business value.
 >
-> **[0:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=13)** With so many factors to consider within our programs, I know how easy it can be to get lost in the technical weeds of cybersecurity, but let's zoom out and spend the next bit of our time together focusing on the bigger picture.
+> **[0:13](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=13)** With so many factors to consider within our programs, I know how easy it can be to get lost in the technical weeds of [[Cybersecurity]], but let's [[Zoom]] out and spend the next bit of our time together focusing on the bigger picture.
 >
 > **[0:26](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=26)** Sound good?
 >
@@ -1017,7 +1003,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=30)** How often do you find yourself speaking a different language than your top tier management?
 >
-> **[0:35](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=35)** You're talking about multi-factor authentication, attack surfaces and evolving threats and they're talking about ROI, competitive advantage and market growth.
+> **[0:35](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=35)** You're talking about [[Multi-factor Authentication]], attack surfaces and evolving threats and they're talking about ROI, competitive advantage and market growth.
 >
 > **[0:46](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=46)** In fact, studies show that more than 50% of CISOs, admit their cybersecurity priorities aren't aligned with [[Executive Leadership]] and they struggle to communicate cyber risk in a way that the board and [[Executive Leadership]] understand.
 >
@@ -1039,13 +1025,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=109)** This is the language that resonates at the executive level.
 >
-> **[1:53](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=113)** This shift in conversation is a game changer and can really be the difference between you and your team being viewed as a back office function, versus a key player in driving the business forward.
+> **[1:53](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=113)** This shift in conversation is a game changer and can really be the difference between you and your team being viewed as a back [[Microsoft Office|office]] function, versus a key player in driving the business forward.
 >
 > **[2:06](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=126)** This touches on my earlier point of becoming a strategic business enabler.
 >
 > **[2:10](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=130)** Instead of a tactical necessity or just a cost center, taking the time to educate your [[Executive Leadership]] team is also an essential component of an effective communication strategy.
 >
-> **[2:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=143)** Security leaders are a lot like cybersecurity translators for the executive team, making sure key decisions are informed by an understanding of potential threats, defenses and the impact on business operations.
+> **[2:23](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=143)** Security leaders are a lot like cybersecurity translators for the executive team, making sure key decisions are informed by an understanding of potential threats, defenses and the impact on [[Business Operations]].
 >
 > **[2:38](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980&t=158)** Now to be clear, the goal is not to turn our executives into cybersecurity professionals, so we can keep these information sessions nice and light.
 >
@@ -1065,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Executive Leadership]] (5), [[Security]] (5), [[Cybersecurity]] (4), next (2)
+> **Frameworks & Libraries:** [[Executive Leadership]] (5), [[Cybersecurity]] (4), [[Zoom]] (1), [[Multi-factor Authentication]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** roi (1), ceo (1)
 > **Analogies:** picture (1), imagine (1)
@@ -1073,8 +1059,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Leveraging KPIs and metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980)
+#### [Leveraging KPIs and metrics](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1079,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=45)** To get this data, we need to select key resilience indicators or KRIs.
 >
-> **[0:51](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=51)** Think of KRIs as the vital signs of your cybersecurity health.
+> **[0:51](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=51)** Think of KRIs as the vital signs of your [[Cybersecurity]] health.
 >
 > **[0:56](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=56)** Just like your doctor checks your pulse and blood pressure, we need to check the pulse of our security programs.
 >
@@ -1134,7 +1119,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=137)** Control the controllables.
 >
-> **[2:20](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=140)** Take note of how long you leave doors unlocked and windows open in your environment.
+> **[2:20](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=140)** Take note of how long you leave doors unlocked and [[Windows]] open in your environment.
 >
 > **[2:25](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=145)** You'll be glad you did.
 >
@@ -1158,13 +1143,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=191)** Track your KRIs over time and report on them.
 >
-> **[3:14](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=194)** Create dashboards that executives can understand at a glance.
+> **[3:14](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=194)** Create [[Dashboards]] that executives can understand at a glance.
 >
 > **[3:19](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=199)** Show them the trend lines going in the right direction.
 >
 > **[3:22](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=202)** When they see the mean time to detect shrinking or the patch deployment times getting faster, that's when they really start to appreciate the value of what you're doing.
 >
-> **[3:33](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=213)** Finally, let's talk about communicating this to [[Executive Leadership]].
+> **[3:33](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=213)** Finally, let's talk about communicating this to [[[[Executive Leadership]]]].
 >
 > **[3:38](https://www.linkedin.com/learning/cyber-resilience-an-overview/leveraging-kpis-and-metrics?u=76281980&t=218)** It's not just about the numbers, it's about the stories they tell.
 >
@@ -1184,14 +1169,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), [[Security]] (2), [[Cybersecurity]] (2), [[Executive Leadership]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Executive Leadership]] (2), [[Windows]] (1), [[Dashboards]] (1)
 > **Env Vars:** mttd (2), mttr (1)
 > **Analogies:** just like (1), picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Team structure and cross-functional collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980)
+#### [Team structure and cross-functional collaboration](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,13 +1201,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=64)** What roles do you need to fill to cover all aspects of your strategy?
 >
-> **[1:08](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=68)** You'll need technical resources who can handle the complexities of cybersecurity, sure, but you'll also need team members who can manage relationships with other departments, people who can translate technical terms into business language, and leaders who can see the big picture and make strategic decisions.
+> **[1:08](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=68)** You'll need technical resources who can handle the complexities of [[Cybersecurity]], sure, but you'll also need team members who can manage relationships with other departments, people who can translate technical terms into business language, and leaders who can see the big picture and make strategic decisions.
 >
 > **[1:27](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=87)** Now, for each of these roles, you need absolute clarity.
 >
 > **[1:32](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=92)** This means clear job descriptions that tie directly back to your cyber resilience strategy.
 >
-> **[1:38](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=98)** For instance, if part of your strategy involves educating the wider company about phishing attacks, then someone's job description should include developing and delivering this training.
+> **[1:38](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=98)** For instance, if part of your strategy involves educating the wider company about [[Phishing]] attacks, then someone's job description should include developing and delivering this training.
 >
 > **[1:49](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=109)** Here's where it gets really interesting, building relationships with cross-functional teams.
 >
@@ -1235,7 +1219,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=145)** You'll begin to notice improvements in communication, which helps to embed a culture of cyber resilience throughout the organization.
 >
-> **[2:34](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=154)** Let's also talk about accountability.
+> **[2:34](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=154)** Let's also talk about [[Accountability]].
 >
 > **[2:38](https://www.linkedin.com/learning/cyber-resilience-an-overview/team-structure-and-cross-functional-collaboration?u=76281980&t=158)** Each role should have clearly defined metrics for success, this way, everyone knows what they're aiming for, and you can measure progress.
 >
@@ -1265,26 +1249,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), teams (3), business (2), [[Phishing]] (2), job description (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Phishing]] (2), [[Accountability]] (1)
 > **Analogies:** picture (1), for instance (1), for example (1)
 > **Prerequisites:** you need to have (1), you'll need (1), set up (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - executives (1)
 
-#### The art of storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980)
+#### [The art of storytelling](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=1)** - It's easy to find ourselves deep in the weeds of complex technical data and intricate technical details.
 >
-> **[0:08](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=8)** But when the time comes to step into the boardroom and present this information to [[Executive Leadership]], we need to do more than just deliver data, we need to become storytellers.
+> **[0:08](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=8)** But when the time comes to step into the boardroom and present this information to [[[[Executive Leadership]]]], we need to do more than just deliver data, we need to become storytellers.
 >
 > **[0:20](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=20)** Why?
 >
 > **[0:21](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=21)** Because a well-told story can turn complex concepts into digestible, tangible realities, and it can turn listeners into advocates.
 >
-> **[0:31](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=31)** So let's dive into how you as a security leader can master the art of storytelling to effectively communicate the critical nature of cybersecurity to your company's top decision makers.
+> **[0:31](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=31)** So let's dive into how you as a security leader can master the art of [[Storytelling]] to effectively communicate the critical nature of [[Cybersecurity]] to your company's top decision makers.
 >
 > **[0:43](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=43)** First, consider the opening of your story.
 >
@@ -1302,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=82)** Your security initiatives, your initiatives are your characters, and you want to make them the hero of the story and demonstrate the critical role security plays in protecting and enabling the business.
 >
-> **[1:35](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=95)** Remember, the executives aren't interested in the technical weeds, they're interested in the broader view, the impact on business operations, reputation, and the bottom line.
+> **[1:35](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=95)** Remember, the executives aren't interested in the technical weeds, they're interested in the broader view, the impact on [[Business Operations]], reputation, and the bottom line.
 >
 > **[1:48](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-art-of-storytelling?u=76281980&t=108)** Use language and examples that resonate.
 >
@@ -1348,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (4), [[Cybersecurity]] (4), business (4), [[Storytelling]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Storytelling]] (2), [[Executive Leadership]] (1), [[Business Operations]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** roi (1)
 > **Prerequisites:** setup (1)
@@ -1359,8 +1342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of cyber resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980)
+#### [The future of cyber resilience](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980&t=27)** They will be the architects of cyber resilience strategies that drive business objectives, not just support them.
 >
-> **[0:35](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980&t=35)** As we wrap up, let's reflect on the true value of shifting to a cyber resilience mindset for managing cybersecurity programs, recognizing that cybersecurity is not a destination, but a journey, a journey that requires us to be proactive, prepared, and persistent.
+> **[0:35](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980&t=35)** As we wrap up, let's reflect on the true value of shifting to a cyber resilience mindset for managing [[Cybersecurity]] programs, recognizing that cybersecurity is not a destination, but a journey, a journey that requires us to be proactive, prepared, and persistent.
 >
 > **[0:55](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980&t=55)** The future calls for a holistic approach where resilience is built through a culture of security, well-informed leadership, and a clear vision that aligns security initiatives with business objectives.
 >
@@ -1386,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (3), leadership (2), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Speakers:** - the (1)
 
 

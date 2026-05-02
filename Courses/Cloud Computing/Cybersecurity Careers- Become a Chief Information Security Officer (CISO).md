@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### So you want to be a CISO?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980)
+#### [So you want to be a CISO?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980&t=10)** Getting hired as a CISO is a highly competitive process.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980&t=14)** It requires a specific skill set, background, leadership, qualities, and business acumen that signal you are the right person for the job.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980&t=14)** It requires a specific skill set, background, leadership, qualities, and [[Business Acumen]] that signal you are the right person for the job.
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980&t=23)** Hi, I'm Jerich Beason and I am a CISO three times over and I've consulted and advised security executives across various industries and three letter government agencies.
 >
@@ -97,19 +96,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), business (2), leadership (1), data (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1)
 > **Env Vars:** ciso (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - hiring (1)
 
-#### You need a foundational knowledge of cyber security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/you-need-a-foundational-knowledge-of-cyber-security?u=76281980)
+#### [You need a foundational knowledge of cyber security](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/you-need-a-foundational-knowledge-of-cyber-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/you-need-a-foundational-knowledge-of-cyber-security?u=76281980&t=0)** - People often ask me, "How much of a security expert do I need to be in order to become a CISO?"
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/you-need-a-foundational-knowledge-of-cyber-security?u=76281980&t=7)** Or they say, "I'm no expert in certain parts of cybersecurity.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/you-need-a-foundational-knowledge-of-cyber-security?u=76281980&t=7)** Or they say, "I'm no expert in certain parts of [[Cybersecurity]].
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/you-need-a-foundational-knowledge-of-cyber-security?u=76281980&t=11)** Does that hurt my chances of becoming a CISO?"
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (4), career (3), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8)
 > **Env Vars:** ciso (7)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (2)
@@ -198,8 +196,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does a CISO do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980)
+#### [What does a CISO do?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=9)** First, you have the risk manager.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=12)** CSOs are ultimately the leader and final decision-maker when it comes to the day-to-day risks in their realm of responsibility which happens to be cybersecurity.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=12)** CSOs are ultimately the leader and final decision-maker when it comes to the day-to-day risks in their realm of responsibility which happens to be [[Cybersecurity]].
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=22)** This is no different than the head of HR making a final decision on a personnel matter or the CFO giving the thumbs up or thumbs down on an expensive purchase that's outside of budget.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=119)** Last but not least, CSOs are still managers.
 >
-> **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=124)** They are responsible for project execution and operational excellence.
+> **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=124)** They are responsible for project execution and [[Operational Excellence]].
 >
 > **[2:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980&t=128)** They have oversight of people processing technology.
 >
@@ -259,12 +256,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), hr (1), leadership (1), [[Operational Excellence]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Operational Excellence]] (1)
 > **Env Vars:** cfo (1)
 > **Speakers:** - chief (1)
 
-#### What type of CISO do you want to be?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980)
+#### [What type of CISO do you want to be?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,9 +282,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980&t=63)** This CISO tends to be customer facing and an evangelist for their program.
 >
-> **[1:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980&t=69)** In a B2C organization, this CISO will be keenly focused on user experience, product performance and compliance.
+> **[1:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980&t=69)** In a B2C organization, this CISO will be keenly focused on [[User Experience (UX)|user experience]], product performance and compliance.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980&t=78)** Because consumers are their primary customer, privacy is usually a greater concern to this CISO.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980&t=78)** Because consumers are their primary customer, [[Privacy]] is usually a greater concern to this CISO.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-type-of-ciso-do-you-want-to-be?u=76281980&t=84)** Now, let's talk about the three different types of CISOs.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Security]] (2), [[User Experience (UX)|User experience]] (1), product (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Privacy]] (1)
 > **Env Vars:** ciso (24), b2b (3), b2c (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -357,8 +353,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Before the interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980)
+#### [Before the interview](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980&t=4)** I did too.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980&t=5)** So I took a poll of CISOs on LinkedIn, and as you can see, the results are clear.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980&t=5)** So I took a poll of CISOs on [[LinkedIn]], and as you can see, the results are clear.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980&t=10)** The majority of CISOs are sought after, and recruited as a result of their public presence, their relationships and their past performance.
 >
@@ -466,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Search]] (3), [[Security]] (2), strengths (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Env Vars:** ciso (8)
 > **CLI Commands:** find (6)
 > **Definitions:** is a  (2)
@@ -474,8 +469,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - have (1)
 
-#### The CISO resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-resume?u=76281980)
+#### [The CISO resume](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,14 +505,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), management (2), [[Automation]] (1), [[Security]] (1)
 > **Env Vars:** cio (1), ciso (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### The CISO interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980)
+#### [The CISO interview](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +532,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=63)** First, reach out to the previous CISO in advance.
 >
-> **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=66)** You're on LinkedIn. It's not that hard to find them.
+> **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=66)** You're on [[LinkedIn]]. It's not that hard to find them.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=70)** You can learn a lot of information, and most are open and willing to discuss as long as there's no NDA.
 >
@@ -558,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=98)** This will give you insight into the business.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=100)** Take all the information you gathered and craft 10 questions tailored to the role as you understand it, and include specific aspects of the organization you are interviewing with.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=100)** Take all the information you gathered and craft 10 questions tailored to the role as you understand it, and include specific aspects of the organization you are [[Interviewing]] with.
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/the-ciso-interview?u=76281980&t=111)** I cannot emphasize this enough.
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), business (2), leadership (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Interviewing]] (1)
 > **Env Vars:** ciso (5), nda (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -608,8 +600,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - when (1)
 
-#### First 90 days
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/first-90-days?u=76281980)
+#### [First 90 days](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/first-90-days?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/first-90-days?u=76281980&t=8)** But it's just the start of a new chapter.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/first-90-days?u=76281980&t=10)** As a new CISO, the first 90 days are critical for building trust, making first impressions, and gaining an understanding of the security program you inherited.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/first-90-days?u=76281980&t=10)** As a new CISO, the first 90 days are critical for [[Building Trust]], making first impressions, and gaining an understanding of the security program you inherited.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/first-90-days?u=76281980&t=19)** And in many cases, the company you joined.
 >
@@ -701,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), career (1), [[Building Trust]] (1), business (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ciso (3)
 > **Cross-References:** later in (2)
@@ -714,8 +705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select a security framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980)
+#### [Select a security framework](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,13 +717,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=20)** In a B2B organization, it's common for customers to inquire about which frameworks you're using.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=26)** The cybersecurity framework you choose will help you identify risks and select the controls to detect, respond and recover from a cybersecurity event.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=26)** The [[Cybersecurity]] framework you choose will help you identify risks and select the controls to detect, respond and recover from a cybersecurity event.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=35)** There are many frameworks but the following four are the most popular in the US and abroad.
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=41)** You can follow along as we discuss each one of these and download the framework selection guide.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=47)** NIST CSF is the easiest to translate to non-technical executives.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=47)** [[NIST]] CSF is the easiest to translate to non-technical executives.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=52)** It breaks down controls into identify, protect, detect, respond, and recover.
 >
@@ -777,7 +767,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=171)** It's an international standard, so if you do business outside of the US, it's almost guaranteed to be one you have to incorporate, even if it's not your primary framework.
 >
-> **[2:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=179)** ISO 27000 is more of a programmatic framework and requires an information security management system or ISMS for short, which can take more work to set up than the other standards.
+> **[2:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=179)** ISO 27000 is more of a programmatic framework and requires an [[Information Security Management]] system or ISMS for short, which can take more work to set up than the other standards.
 >
 > **[3:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=190)** The best part about ISO 27000 is that you can bring someone in to assess you against this framework and attest to the maturity of your cybersecurity program.
 >
@@ -787,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=209)** It's very common to leverage more than one of these frameworks or even all four depending on your organization, the type of data you process, or where your organization does business.
 >
-> **[3:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=219)** In addition to these frameworks, many industries have required frameworks you must adopt, such as the Payment Card Industry Data Security Standard, also known as PCI DSS.
+> **[3:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=219)** In addition to these frameworks, many industries have required frameworks you must adopt, such as the Payment Card Industry [[Data Security]] Standard, also known as PCI DSS.
 >
 > **[3:49](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980&t=229)** You need this if you process payment cards.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (8), [[Security]] (4), [[Cybersecurity]] (3), business (3), data (2)
+> **Frameworks & Libraries:** [[NIST]] (8), [[Cybersecurity]] (3), [[Information Security Management]] (1), [[Data Security]] (1)
 > **Env Vars:** nist (8), iso (3), csf (2), isms (2), b2b (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
@@ -810,8 +800,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 
-#### Complete an assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/complete-an-assessment?u=76281980)
+#### [Complete an assessment](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/complete-an-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,15 +874,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), career (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** rfi (2), ciso (1), rfp (1)
 > **Definitions:** is an  (1), known as (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - one (1)
 
-#### Prioritize areas for improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prioritize-areas-for-improvement?u=76281980)
+#### [Prioritize areas for improvement](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prioritize-areas-for-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +890,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prioritize-areas-for-improvement?u=76281980&t=14)** I remember, like it was yesterday.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prioritize-areas-for-improvement?u=76281980&t=15)** My first week as a CISO in a new company, and in my introductory meeting with the head of one of our business units, I was told we removing one of our products to a software as a service delivery model and that we committed to our customers that we would have a SOC two certification in the next eight months.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prioritize-areas-for-improvement?u=76281980&t=15)** My first week as a CISO in a new company, and in my introductory meeting with the head of one of our business units, I was told we removing one of our [[Microsoft Products|products]] to a [[SaaS|software as a service]] delivery model and that we committed to our customers that we would have a SOC two certification in the next eight months.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prioritize-areas-for-improvement?u=76281980&t=33)** We could have had 50 other deficiencies in our maturity, but unless any one of them were egregious, they took a backseat to the needs of the business.
 >
@@ -967,14 +954,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Microsoft Products|Products]] (1), [[SaaS|Software as a service]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** ciso (5), soc (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Set a mission and vision for your department
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/set-a-mission-and-vision-for-your-department?u=76281980)
+#### [Set a mission and vision for your department](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/set-a-mission-and-vision-for-your-department?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,16 +996,15 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/set-a-mission-and-vision-for-your-department?u=76281980&t=80)** Others make it into a fun anonymous suggestion box.
 >
-> **[1:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/set-a-mission-and-vision-for-your-department?u=76281980&t=83)** Take this as an early opportunity to build some camaraderie and demonstrate your inclusive leadership style within your new organization.
+> **[1:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/set-a-mission-and-vision-for-your-department?u=76281980&t=83)** Take this as an early opportunity to build some camaraderie and demonstrate your [[Inclusive Leadership]] style within your new organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), next (1), [[Inclusive Leadership]] (1)
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - great (1)
 
-#### Put it on paper and socialize
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/put-it-on-paper-and-socialize?u=76281980)
+#### [Put it on paper and socialize](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/put-it-on-paper-and-socialize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1054,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (1), [[Security]] (1), hr (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - communication (1)
 
@@ -1078,8 +1062,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relationship building
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980)
+#### [Relationship building](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,11 +1070,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=6)** You have to be intentional about building and fostering healthy relationships.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=9)** And I use the word healthy for a reason.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=9)** And I use the [[Microsoft Word|word]] healthy for a reason.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=11)** So let's use health as an example.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=14)** If you want to be healthy, that means you have to eat right, exercise, get rest and avoid jumping in front of moving cars.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=14)** If you want to be healthy, that means you have to eat right, exercise, get [[Representational State Transfer (REST)|rest]] and avoid jumping in front of moving cars.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=21)** And as you do that, that increases your chances of having a healthy body.
 >
@@ -1099,7 +1082,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=29)** There are specific actions you want to take to build and maintain relationships.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=34)** Here's a list of key stakeholders you will need to earn relationship capital with from the onset as a new CSO, the CIO, because they're the leader of it, the CTO, because they are typically the head of the product side of the organization, especially if the organization sells digital products.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=34)** Here's a list of key stakeholders you will need to earn relationship capital with from the onset as a new CSO, the CIO, because they're the leader of it, the CTO, because they are typically the head of the product side of the organization, especially if the organization sells digital [[Microsoft Products|products]].
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=53)** The CFO because they hold the purse strings and the CEO is the leader of the organization.
 >
@@ -1111,7 +1094,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=84)** You want to be on the same page.
 >
-> **[1:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=86)** And then there's your line of business leadership.
+> **[1:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=86)** And then there's your line of [[Business Leadership]].
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=89)** At the end of the day, your job as an executive is to enable the business and help the organization win.
 >
@@ -1123,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=107)** But your team will be involved in the sales process when customers inquire about security, you want to do what you can for security to add velocity to the sales process, not slow it down.
 >
-> **[1:58](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=118)** And then there's HR, because simply put, security is a people business above all else, and then legal for many reasons, but in short, legal and privacy and security are interwoven and that relationship is pivotal.
+> **[1:58](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=118)** And then there's HR, because simply put, security is a people business above all else, and then legal for many reasons, but in short, legal and [[Privacy]] and security are interwoven and that relationship is pivotal.
 >
 > **[2:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980&t=133)** And then communications, this one is often undervalued but security notifications and emails and engagement often requires sign off from the communications team.
 >
@@ -1155,14 +1138,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), business (5), leadership (4), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Business Leadership]] (1), [[Privacy]] (1)
 > **Env Vars:** cso (3), cio (1), cto (1), cfo (1), ceo (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### PRIME framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prime-framework?u=76281980)
+#### [PRIME framework](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prime-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1190,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prime-framework?u=76281980&t=112)** The assumption is you know your security stuff.
 >
-> **[1:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prime-framework?u=76281980&t=115)** Show the business acumen and you will impress.
+> **[1:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prime-framework?u=76281980&t=115)** Show the [[Business Acumen]] and you will impress.
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/prime-framework?u=76281980&t=119)** On to maintain.
 >
@@ -1236,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** prime (3)
 > **Exercise Files:** exercise files (1)
@@ -1249,8 +1231,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make the CISO dream come true
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980)
+#### [Make the CISO dream come true](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980&t=94)** Find a CISO mentor who can help you throughout your journey and give you advice.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980&t=98)** Connect with others on LinkedIn, including myself.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980&t=98)** Connect with others on [[LinkedIn]], including myself.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980&t=102)** Being a CISO has been the most rewarding, and challenging, and vitalizing part of my career.
 >
@@ -1310,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[LinkedIn]] (2), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** ciso (8)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** later in (1)

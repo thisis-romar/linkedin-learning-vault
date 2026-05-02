@@ -91,22 +91,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn Selenium for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980)
+#### [Learn Selenium for testing](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=0)** - If you want to become a software tester or just sharpen your skills with a tool trusted across the industry, then this course is for you.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=8)** I've used Selenium on real world projects like publishing project, like BBC blogs or appointment booking systems, and I still use it today.
+> **[0:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=8)** I've used [[Selenium]] on real world projects like publishing project, like BBC blogs or appointment booking systems, and I still use it today.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=17)** Selenium has powered browser test automation for over a decade now.
+> **[0:17](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=17)** Selenium has powered browser [[Test Automation]] for over a decade now.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=22)** Engineering teams at big tech companies like Google, Netflix, BBC, they all use Selenium as their go-to framework.
+> **[0:22](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=22)** Engineering teams at big tech companies like [[Google]], Netflix, BBC, they all use Selenium as their go-to framework.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=30)** I'll help you with everything step by step.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=33)** We'll write real world test scripts together, run them on GitHub actions, capture screenshots on failure, and structure your test like a pro using page object models.
+> **[0:33](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=33)** We'll write real world test scripts together, run them on [[GitHub]] actions, capture screenshots on failure, and structure your test like a pro using page object models.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980&t=45)** This course gives you everything you need to build reliable professional grade UI tests.
 >
@@ -114,13 +113,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (3), [[Test Automation]] (1), [[Engineering]] (1), teams (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (3), [[Test Automation]] (1), [[Google]] (1), [[GitHub]] (1)
 > **Env Vars:** bbc (2)
 > **Tools:** github (1)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=15)** If you have ever written a simple test before, you are good.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=18)** And about Java, don't worry.
+> **[0:18](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=18)** And about [[Java]], don't worry.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=20)** You don't need to be a Java expert.
 >
@@ -138,11 +136,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=27)** Just enough Java to get our tests running.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=30)** Finally, if you have heard of CI/CD pipelines, even at a higher level, that will come in handy when we write our tests in GitHub actions, but I'll walk you through it when we get there.
+> **[0:30](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=30)** Finally, if you have heard of CI/CD pipelines, even at a higher level, that will come in handy when we write our tests in [[GitHub]] actions, but I'll walk you through it when we get there.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=41)** No stress.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=42)** In this course I'm going to show you how to set up Selenium on both Windows and Mac, the main difference, just a set of steps.
+> **[0:42](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=42)** In this course I'm going to show you how to set up [[Selenium]] on both [[Windows]] and Mac, the main difference, just a set of steps.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=50)** I'll guide you through each one, so no matter what machine you're on, you'll be ready.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=60)** That's the same across both.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=62)** If you have taken my Playwright design patterns or advanced Playwright courses, this will feel familiar.
+> **[1:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=62)** If you have taken my Playwright [[Design Patterns]] or advanced Playwright courses, this will feel familiar.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-you-should-know?u=76281980&t=68)** We are bringing those same ideas, solid structure, reliable tasks, scalable frameworks into the Selenium world.
 >
@@ -162,18 +160,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[GitHub]] (2), [[Selenium]] (2), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[GitHub]] (2), [[Selenium]] (2), [[Windows]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (2), cd (1), find (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Tools:** github (2)
 > **Speakers:** - [narrator] (1)
 
-#### Selenium vs. modern frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980)
+#### [Selenium vs. modern frameworks](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=0)** - [Narrator] Even in the world of Playwright, Cypress, and Puppeteer, Selenium still matters.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=0)** - [Narrator] Even in the world of Playwright, Cypress, and Puppeteer, [[Selenium]] still matters.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=6)** Let's talk about why.
 >
@@ -181,9 +178,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=12)** Fortune 500 companies still rely on it for mission-critical tests.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=17)** It's backed by W3C, which means it follows web standards.
+> **[0:17](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=17)** It's backed by W3C, which means it follows [[Web Standards]].
 >
-> **[0:22](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=22)** And it integrates smoothly with Jenkins, GitHub Actions, and just about any CI/CD pipeline you can think of.
+> **[0:22](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=22)** And it integrates smoothly with [[Jenkins]], [[GitHub]] Actions, and just about any CI/CD pipeline you can think of.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=30)** Even tools like Appium, BrowserStack, and Sauce Labs, they're all built on Selenium.
 >
@@ -193,15 +190,15 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=45)** It supports every major browser, including those older ones like Internet Explorer that some industries still depend on.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=52)** It doesn't matter whether your team codes in Java, Python, or C#, Selenium fits in right, and it scales beautifully whether you are testing on mobile, in the cloud, or in industries where reliability and compliance are non-negotiable.
+> **[0:52](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=52)** It doesn't matter whether your team codes in [[Java]], [[Python (Programming Language)|Python]], or C#, Selenium fits in right, and it scales beautifully whether you are testing on mobile, in the cloud, or in industries where reliability and compliance are non-negotiable.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=68)** Think banking, healthcare, government.
+> **[1:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=68)** Think [[Banking]], healthcare, government.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=71)** And what about those modern tools?
 >
 > **[1:13](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=73)** Playwright is fast and powerful, but no support for older browsers like Internet Explorer.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=79)** Cypress is super easy to pick up, but it's limited to Chromium and JavaScript.
+> **[1:19](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=79)** Cypress is super easy to pick up, but it's limited to Chromium and [[JavaScript]].
 >
 > **[1:25](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=85)** Puppeteer, fantastic for Chrome-specific tasks, but not built for full QA pipelines.
 >
@@ -213,9 +210,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=103)** That makes it easier to pick up any other framework down the line because you'll understand what's happening behind the scenes.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=110)** You'll know how to design tests that scale across teams, platforms, and products.
+> **[1:50](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=110)** You'll know how to design tests that scale across teams, platforms, and [[Microsoft Products|products]].
 >
-> **[1:55](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=115)** And you'll be ready for a wider range of roles, from QA to DevOps to test engineering.
+> **[1:55](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=115)** And you'll be ready for a wider range of roles, from QA to [[DevOps]] to test engineering.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/selenium-vs-modern-frameworks?u=76281980&t=121)** So if you are here right now, you are on the right track.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (8), [[Automation]] (2), web (1), [[Jenkins]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (8), [[Web Standards]] (1), [[Jenkins]] (1), [[GitHub]] (1), [[Java]] (1)
 > **CLI Commands:** cd (1), python (1)
 > **Env Vars:** w3c (1)
 > **Documentation:** w3c (1)
@@ -235,12 +232,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the Selenium framework for macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980)
+#### [Setting up the Selenium framework for macOS](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980&t=0)** - [Instructor] Let's set up IntelliJ IDEA, download Java 21 and build a Maven-based project on your machine.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980&t=0)** - [Instructor] Let's set up IntelliJ IDEA, download [[Java]] 21 and build a Maven-based project on your machine.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980&t=7)** So head over to [jetbrains.com/idea/download](https://jetbrains.com/idea/download) and click on Mac OS if you're downloading it from Mac OS.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), application (1)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **UI Navigation:** click on (9), scroll down (1), select the (1), dropdown (1)
 > **Env Vars:** dmg (2), xml (2), idea (1), jdk (1)
 > **File Paths:** pom.xml (2), main.java (2)
@@ -281,12 +277,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 
-#### Setting up the Selenium framework for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-windows?u=76281980)
+#### [Setting up the Selenium framework for Windows](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-windows?u=76281980&t=0)** - [Instructor] To install IntelliJ IDEA and download Java 21 and build a Maven-based project on your Windows machine, head over to [jetbrains.com/idea/download](https://jetbrains.com/idea/download) and click on Windows.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-windows?u=76281980&t=0)** - [Instructor] To install IntelliJ IDEA and download [[Java]] 21 and build a Maven-based project on your [[Windows]] machine, head over to [jetbrains.com/idea/download](https://jetbrains.com/idea/download) and click on Windows.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-windows?u=76281980&t=12)** Here, you will see two options, one to download IntelliJ IDEA Ultimate edition, which is a paid version, another one if you scroll down is a Community Edition, which is free.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[Windows]] (3), next (3), application (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Windows]] (3)
 > **UI Navigation:** click on (15), go to (2), scroll down (1), select the (1), dropdown (1)
 > **Prerequisites:** set up (4), install (3), setup (1)
 > **Env Vars:** idea (4), jdk (2)
@@ -355,8 +350,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** main.java (1)
 
-#### Write your first Selenium test
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980)
+#### [Write your first Selenium test](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=33)** So I will go to the pom.xml file, here, I will add the three important dependencies.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=39)** So the first dependency that I need is called Selenium, obviously, because this is a Selenium course, so we will get the Selenium.
+> **[0:39](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=39)** So the first dependency that I need is called [[Selenium]], obviously, because this is a Selenium course, so we will get the Selenium.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=49)** Second dependency that I need is the web driver manager.
 >
@@ -382,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=57)** I will delegate that responsibility to the web driver.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=61)** The third important dependency is the Junit.
+> **[1:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=61)** The third important dependency is the [[JUnit]].
 >
 > **[1:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/write-your-first-selenium-test?u=76281980&t=65)** So using the Junit, I would be able to use the asserts, assertions, and assert equals all those terminologies, which are very standard, so Junit and Jupiter.
 >
@@ -434,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (4), [[JUnit]] (4), web (3), api (1)
+> **Frameworks & Libraries:** [[Selenium]] (4), [[JUnit]] (4)
 > **Code Identifiers:** assertequals (3), checkpagetitle (1), chromedriver (1), webdriver (1), gettitle (1)
 > **UI Navigation:** go to (3), click on (2), open the (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (3)
@@ -443,12 +437,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), setup (1)
 > **File Paths:** pom.xml (1)
 
-#### Locate elements with confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980)
+#### [Locate elements with confidence](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=0)** - [Instructor] Targeting the right element is the heart of every reliable Selenium test.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=0)** - [Instructor] Targeting the right element is the heart of every reliable [[Selenium]] test.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=5)** So in this lesson, we will be testing this contact form using Selenium.
 >
@@ -470,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=64)** And the tag name for that is H3 and that could be more than one H3 so I want to select the first one.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=71)** So you can see it brings me that if I do inner HTML, I can see what's inside that tag.
+> **[1:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=71)** So you can see it brings me that if I do inner [[HTML]], I can see what's inside that tag.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/locate-elements-with-confidence?u=76281980&t=78)** Now we will do this same thing using Selenium.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (5), web (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), [[HTML]] (1)
 > **UI Navigation:** go to (2), scroll down (1), select the (1)
 > **Code Identifiers:** getelementbytagname (1), checkcontactheading (1), gettext (1)
 > **Definitions:** is a  (2)
@@ -531,12 +524,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Waiting strategy: Page load strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-page-load-strategy?u=76281980)
+#### [Waiting strategy: Page load strategy](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-page-load-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-page-load-strategy?u=76281980&t=0)** - [Instructor] The Selenium documentation talks about page load strategy in detail, so I don't have to create special slides for this topic.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-page-load-strategy?u=76281980&t=0)** - [Instructor] The [[Selenium]] documentation talks about page load strategy in detail, so I don't have to create special slides for this topic.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-page-load-strategy?u=76281980&t=8)** As you can see on my screen, the documentation says there are three types of strategies, which is normal, eager, and none.
 >
@@ -592,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -601,12 +593,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Waiting strategy: Elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980)
+#### [Waiting strategy: Elements](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=0)** - [Instructor] Apart from page load strategies, Selenium also offers element weight strategies.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=0)** - [Instructor] Apart from page load strategies, [[Selenium]] also offers element weight strategies.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=5)** And there are two types of waiting strategies.
 >
@@ -624,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=52)** And I'm going to put this over here just before we look for the element.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=60)** And because this is read, I will highlight a word and import this class.
+> **[1:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=60)** And because this is read, I will highlight a [[Microsoft Word|word]] and import this class.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=65)** So now let's see, if I run this test again, both tests are passing because now we're actually waiting for the element to load.
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=167)** So wait until, and my condition that needs to be met is that element is found.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=178)** And once the element is found, we can do the rest of this stuff.
+> **[2:58](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=178)** And once the element is found, we can do the [[Representational State Transfer (REST)|rest]] of this stuff.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/waiting-strategy-elements?u=76281980&t=183)** So let's find the test again after adding that additional bracket that was missing.
 >
@@ -685,8 +676,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run tests headlessly
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-headlessly?u=76281980)
+#### [Run tests headlessly](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-headlessly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,14 +706,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **UI Navigation:** click on (1), open the (1)
 > **Code Identifiers:** addarguments (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [qambar] (1)
 
-#### Build the framework foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980)
+#### [Build the framework foundation](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=12)** We'll create a base file for the test.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=14)** So right click on the folder, new Java class and base test.
+> **[0:14](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=14)** So right click on the folder, new [[Java]] class and base test.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=20)** And we will move these set of steps in here.
 >
@@ -759,7 +747,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=83)** So I'm going to get rid of this driver from here so that we are referring to the correct driver.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=89)** You can see all of these are purple, but in first selenium test, we have got this as red.
+> **[1:29](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=89)** You can see all of these are purple, but in first [[Selenium]] test, we have got this as red.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/building-framework-foundation?u=76281980&t=95)** So let me just delete the set of steps from here as well, and teardown steps from this test.
 >
@@ -787,14 +775,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Selenium]] (1)
 > **Prerequisites:** setup (4)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Fix a failing test
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-fix-a-failing-test?u=76281980)
+#### [Challenge: Fix a failing test](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-fix-a-failing-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,8 +800,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Fix a failing test
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-fix-a-failing-test?u=76281980)
+#### [Solution: Fix a failing test](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-fix-a-failing-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +826,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Tools:** intellij (1)
@@ -853,8 +838,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a page object model (POM)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980)
+#### [What is a page object model (POM)?](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980&t=5)** POM basically means page object model.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980&t=8)** It is one of the best practices described on Selenium website.
+> **[0:08](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980&t=8)** It is one of the best practices described on [[Selenium]] website.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980&t=11)** The page object model is a design pattern that helps us write clean and maintainable Selenium tests.
 >
@@ -886,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (3), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (3)
 > **Env Vars:** pom (3)
 > **Code Identifiers:** fillform (1), sendmessage (1)
 > **Definitions:** basically means (1), is a  (1)
@@ -894,8 +878,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a POM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980)
+#### [Create a POM](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=6)** We will be refactoring this test to use POM.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=11)** Right now it doesn't use POM at all, so in the src, main, java, I will create a new Java class called ContactPage.
+> **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=11)** Right now it doesn't use POM at all, so in the src, main, [[Java]], I will create a new Java class called ContactPage.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=21)** So this is my ContactPage POM, and we will bring all the locators from this test into this POM.
 >
@@ -939,7 +922,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=118)** This will make the sendKeys functionality available to us.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=123)** We will do the same for the rest of them.
+> **[2:03](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=123)** We will do the same for the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/create-page-object-model?u=76281980&t=126)** Last name, email, message, and subject.
 >
@@ -985,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** fillform (3), findelement (3), alertloc (2), firstnameloc (2), btnsubmit (2)
 > **Env Vars:** pom (8)
 > **CLI Commands:** find (3), make (1)
@@ -993,8 +976,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement a POM in a test
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/implement-page-object-model-in-test?u=76281980)
+#### [Implement a POM in a test](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/implement-page-object-model-in-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,8 +1026,7 @@ created: 2026-05-02
 > **Env Vars:** pom (5)
 > **Speakers:** - [instructor] (1)
 
-#### Data-driven testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/data-driven-testing?u=76281980)
+#### [Data-driven testing](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/data-driven-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1066,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/data-driven-testing?u=76281980&t=93)** So string username and string password.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/data-driven-testing?u=76281980&t=98)** Now this is a test and we are using Junit with Selenium.
+> **[1:38](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/data-driven-testing?u=76281980&t=98)** Now this is a test and we are using [[JUnit]] with [[Selenium]].
 >
 > **[1:44](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/data-driven-testing?u=76281980&t=104)** So we get some additional stuff like ParameterizedTest.
 >
@@ -1147,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JUnit]] (1), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (1), [[Selenium]] (1)
 > **Cross-References:** go back to (3)
 > **File Paths:** login-data.csv (2)
 > **CLI Commands:** make (2)
@@ -1156,8 +1137,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize tests with tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/organise-tests-with-tags?u=76281980)
+#### [Organize tests with tags](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/organise-tests-with-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,8 +1190,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Refactor POM function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-refactor-pom-function?u=76281980)
+#### [Challenge: Refactor POM function](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-refactor-pom-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,20 +1200,20 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-refactor-pom-function?u=76281980&t=13)** This is the same code that we saw in the page object model lesson, so we created a page object model.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-refactor-pom-function?u=76281980&t=20)** We created this function called fill form, which is using the fill form function here, but this has got hard coded values of John Smith email address, et cetera.
+> **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-refactor-pom-function?u=76281980&t=20)** We created this function called fill form, which is using the fill form function here, but this has got hard coded values of [[John the Ripper|John]] Smith email address, et cetera.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-refactor-pom-function?u=76281980&t=31)** What I want to do is I want to be able to pass in these values from this test function here so that I can change these values as I like and write different tests.
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Refactor POM function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-refactor-pom-function?u=76281980)
+#### [Solution: Refactor POM function](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-refactor-pom-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,12 +1283,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test across browsers locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980)
+#### [Test across browsers locally](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980&t=0)** - [Instructor] With the release of Selenium 4, Selenium also introduced this thing called Selenium Manager.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980&t=0)** - [Instructor] With the release of [[Selenium]] 4, Selenium also introduced this thing called Selenium Manager.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980&t=6)** This is the version 4.0 and it's still in beta version.
 >
@@ -1373,7 +1351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (5), web (2), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (5)
 > **Tools:** firefox (8), command line (4)
 > **UI Navigation:** switch to (1), go to (1)
 > **Code Identifiers:** getproperty (1)
@@ -1382,12 +1360,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Selenium Grid?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980)
+#### [What is Selenium Grid?](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=0)** - [Instructor] Have you heard about Selenium Grid?
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=0)** - [Instructor] Have you heard about [[Selenium]] Grid?
 >
 > **[0:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=2)** Let's find out what it is.
 >
@@ -1421,7 +1398,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=88)** It's quick, easy, and gets the job done.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=91)** But if you're building a scalable test farm or integrating into a containerized system like Kubernetes, you'll want distributed mode where each piece runs independently.
+> **[1:31](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=91)** But if you're building a scalable test farm or integrating into a containerized system like [[Kubernetes]], you'll want distributed mode where each piece runs independently.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-selenium-grid?u=76281980&t=102)** This gives you flexibility, resilience, and full control.
 >
@@ -1439,18 +1416,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (5), parallel (2), node (1), teams (1), ci (1)
+> **Frameworks & Libraries:** [[Selenium]] (5), [[Kubernetes]] (1)
 > **CLI Commands:** find (1), node (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run tests using Selenium Grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980)
+#### [Run tests using Selenium Grid](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=0)** - [Instructor] To run the test on a Selenium grid, you need the Selenium server.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=0)** - [Instructor] To run the test on a [[Selenium]] grid, you need the Selenium server.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=3)** As you can see, this file over here that I have got downloaded.
 >
@@ -1460,7 +1436,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=14)** If you go to this link and scroll down, you can find Selenium server 4.34.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=21)** That's the option that you will click on to download this Java file.
+> **[0:21](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=21)** That's the option that you will click on to download this [[Java]] file.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-using-selenium-grid?u=76281980&t=26)** So I've opened up the terminal from the left.
 >
@@ -1528,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (11), [[Java]] (3), web (3), next (1)
+> **Frameworks & Libraries:** [[Selenium]] (11), [[Java]] (3)
 > **Env Vars:** url (9)
 > **Tools:** terminal (4), firefox (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -1537,8 +1513,7 @@ created: 2026-05-02
 > **Ports:** port 444 (1)
 > **Versions:** 4.34 (1)
 
-#### Run tests in parallel
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-parallel?u=76281980)
+#### [Run tests in parallel](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-parallel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,7 +1537,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-parallel?u=76281980&t=38)** How do we do that?
 >
-> **[0:39](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-parallel?u=76281980&t=39)** Well in Junit, by default, the tests are disabled to run in parallel.
+> **[0:39](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-parallel?u=76281980&t=39)** Well in [[JUnit]], by default, the tests are disabled to run in parallel.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-parallel?u=76281980&t=45)** So go to your resources folder, which is source main, resources, right click, create a new file called Junit-platform.properties.
 >
@@ -1586,22 +1561,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (4), parallel (4), concurrent (2)
+> **Frameworks & Libraries:** [[JUnit]] (4)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GitHub Codespaces for test dev
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980)
+#### [Use GitHub Codespaces for test dev](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=0)** - [Instructor] GitHub offers a really powerful feature called GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=0)** - [Instructor] [[GitHub]] offers a really powerful feature called GitHub [[Codespaces]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=4)** If you haven't heard about this, watch this lesson multiple times and learn how to use it.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=10)** So for example, if you don't have an ID and you want to still work with Selenium Test, how would you do it?
+> **[0:10](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=10)** So for example, if you don't have an ID and you want to still work with [[Selenium]] Test, how would you do it?
 >
 > **[0:16](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=16)** So head over to the GitHub, and on this lesson, head to the branch 03_05.
 >
@@ -1639,11 +1613,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=119)** Think of it like a Docker container.
 >
-> **[2:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=121)** So it will already contain Python, Node.js, and some other tools, but that image does not contain the Google Chrome.
+> **[2:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=121)** So it will already contain [[Python (Programming Language)|Python]], [[Node.js]], and some other tools, but that image does not contain the [[Google]] Chrome.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=131)** So what I'm doing is I'm installing the Google Chrome and setting it up.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=135)** While that is happening, I also want to set up my Java extension.
+> **[2:15](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=135)** While that is happening, I also want to set up my [[Java]] extension.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/use-github-codespaces-for-test-dev?u=76281980&t=139)** So I'm going to click on Install over here and click on Install.
 >
@@ -1733,7 +1707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), [[Google]] (5), [[Java]] (5), prompt (2)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), [[Google]] (5), [[Java]] (5), [[Selenium]] (1)
 > **Tools:** github (6), terminal (5), visual studio (4)
 > **Prerequisites:** install (6), set up (5), setup (4)
 > **UI Navigation:** click on (7), switch to (2), dropdown (1), open the (1)
@@ -1747,20 +1721,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capture screenshots on failure
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980)
+#### [Capture screenshots on failure](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=0)** - [Instructor] Screenshots are part of visual testing.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=2)** So if your test fails, you can easily communicate to all the all the other team members, like, why the test failed by attaching the screenshot as an evidence on the Jira ticket.
+> **[0:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=2)** So if your test fails, you can easily communicate to all the all the other team members, like, why the test failed by attaching the screenshot as an evidence on the [[Jira]] ticket.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=13)** Now, this is the contact test that you have been looking at in the previous lessons.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=17)** You have already seen the code-based test as well.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=20)** What we will do is we will refactor this and we will stop using the WebDriver and we will use a JUnit extension which will help us take screenshot.
+> **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=20)** What we will do is we will refactor this and we will stop using the WebDriver and we will use a [[JUnit]] extension which will help us take screenshot.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980&t=30)** So, this extension is called Selenide.
 >
@@ -1837,12 +1810,11 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Exercise Files:** download the (1)
 
-#### Mock APIs with WireMock
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980)
+#### [Mock APIs with WireMock](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=0)** - [Instructor] APIs are often the biggest bottlenecks in end-to-end testing.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=0)** - [Instructor] APIs are often the biggest bottlenecks in [[End-to-end Testing]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=3)** They might be down, returning flaky responses, or rate-limited.
 >
@@ -1852,13 +1824,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=15)** Whether you're testing a success case or simulating a 500 error, WireMock gives you the control.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=21)** WireMock is a powerful mocking tool built in Java that lets you fake real APIs.
+> **[0:21](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=21)** WireMock is a powerful mocking tool built in [[Java]] that lets you fake real APIs.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=26)** You can run it as a standalone server or directly inside the Selenium test code.
+> **[0:26](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=26)** You can run it as a standalone server or directly inside the [[Selenium]] test code.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=31)** With support for stubbing JSON responses and matching request patterns, it becomes a rock solid way to decouple your front test from your backend dependencies.
+> **[0:31](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=31)** With support for stubbing [[JSON]] responses and matching request patterns, it becomes a rock solid way to decouple your front test from your backend dependencies.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=41)** Now, imagine a scenario where you are testing [practicesoftwaretesting.com](https://practicesoftwaretesting.com), which requires a product API to load the products on the page.
+> **[0:41](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=41)** Now, imagine a scenario where you are testing [practicesoftwaretesting.com](https://practicesoftwaretesting.com), which requires a product API to load the [[Microsoft Products|products]] on the page.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/mock-apis-with-wiremock?u=76281980&t=50)** Now, imagine you are a part of the team who's working only on the frontend, and there's another team who's working on the backend, and you want to isolate the number of products that would be loaded on the website to check basically how the user interface would behave with one product, two product, three product, and so on.
 >
@@ -1868,7 +1840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), api (2), [[Microsoft Products|Products]] (2), data (2), [[End-to-end Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[End-to-end Testing]] (1), [[Java]] (1), [[Selenium]] (1), [[JSON]] (1)
 > **Env Vars:** api (2), json (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
@@ -1876,12 +1848,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run tests in CI with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980)
+#### [Run tests in CI with GitHub Actions](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=0)** - [Instructor] So once you go to the GitHub, you can see this option over here on the top, which is called Actions.
+> **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=0)** - [Instructor] So once you go to the [[GitHub]], you can see this option over here on the top, which is called Actions.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=5)** So this is called a GitHub Action.
 >
@@ -1891,7 +1862,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=20)** So what this is saying is, we can use this template or modify this template to create our own workflow where we can run our test.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=29)** So for us, this is a CI obviously, but it is Selenium test that we are running, so let's name it better.
+> **[0:29](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=29)** So for us, this is a CI obviously, but it is [[Selenium]] test that we are running, so let's name it better.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=37)** And the branch that we're working on right now is not main, but in most cases it would be main.
 >
@@ -1905,13 +1876,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=61)** So allows you to run the workflow manually from action step, so we don't have any option over there.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=69)** And then jobs, Ubuntu latest, that's fine for us, actions is fine.
+> **[1:09](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=69)** And then jobs, [[Ubuntu]] latest, that's fine for us, actions is fine.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=75)** And I also want to set up, so from here onwards, we are going to start editing.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=79)** So let's start with this.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=83)** So I want to set up Java.
+> **[1:23](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=83)** So I want to set up [[Java]].
 >
 > **[1:25](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=85)** So like we have got users over here, we'll just use another one, which will help us set up Java.
 >
@@ -1927,7 +1898,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=121)** So we are going to use that.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=122)** We can also use Microsoft.
+> **[2:02](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=122)** We can also use [[Microsoft]].
 >
 > **[2:03](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=123)** When I have tested with that, it works.
 >
@@ -1939,7 +1910,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=140)** Last but not least, we want to run the test.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=144)** So name run tests, and then the command would be mvn test because this is Maven, we can delete the rest of it.
+> **[2:24](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=144)** So name run tests, and then the command would be mvn test because this is Maven, we can delete the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=155)** We don't need this anymore.
 >
@@ -1969,7 +1940,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=225)** And let's just commit it manually.
 >
-> **[3:50](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=230)** Git add .gitHub, selenium git commit.
+> **[3:50](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=230)** [[Git]] add .gitHub, selenium git commit.
 >
 > **[3:57](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/run-tests-in-ci-with-github-actions?u=76281980&t=237)** Add selenium workflow.
 >
@@ -1995,7 +1966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[Selenium]] (7), [[Java]] (6), [[Git]] (2), ci (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Selenium]] (7), [[Java]] (6), [[Git]] (2), [[Ubuntu]] (1)
 > **Prerequisites:** set up (4), install (3), setup (2), configure (1)
 > **Tools:** github (9)
 > **UI Navigation:** go to (5), click on (2)
@@ -2004,14 +1975,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 
-#### Challenge: Run tests in CI with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-run-tests-in-ci-with-github-actions?u=76281980)
+#### [Challenge: Run tests in CI with GitHub Actions](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-run-tests-in-ci-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-run-tests-in-ci-with-github-actions?u=76281980&t=0)** - [Instructor] Now here is the challenge, and it's a powerful one.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-run-tests-in-ci-with-github-actions?u=76281980&t=9)** I want you to run your first Selenium test on a CI environment using GitHub Actions.
+> **[0:09](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-run-tests-in-ci-with-github-actions?u=76281980&t=9)** I want you to run your first [[Selenium]] test on a CI environment using [[GitHub]] Actions.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/challenge-run-tests-in-ci-with-github-actions?u=76281980&t=14)** You can do this using three simple steps.
 >
@@ -2031,15 +2001,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Selenium]] (1), ci (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Selenium]] (1)
 > **Tools:** github (3)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Run tests in CI with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-run-tests-in-ci-with-github-actions?u=76281980)
+#### [Solution: Run tests in CI with GitHub Actions](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-run-tests-in-ci-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2057,7 +2026,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-run-tests-in-ci-with-github-actions?u=76281980&t=34)** So you need to go to 04 and let's go 03 branch and then click on actions.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-run-tests-in-ci-with-github-actions?u=76281980&t=40)** So once you're there, you just go to the Selenium test and run the workflow and select the branch.
+> **[0:40](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-run-tests-in-ci-with-github-actions?u=76281980&t=40)** So once you're there, you just go to the [[Selenium]] test and run the workflow and select the branch.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/solution-run-tests-in-ci-with-github-actions?u=76281980&t=49)** The branch should be 04_03 and run workflow.
 >
@@ -2086,8 +2055,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2097,11 +2065,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=5)** Really good job.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=7)** Now, follow me on LinkedIn, because there I will be pushing in more updates.
+> **[0:07](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=7)** Now, follow me on [[LinkedIn]], because there I will be pushing in more updates.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=11)** And if you enjoyed this course, I've got two more courses that you can watch, which is "[[Playwright- Design Patterns]]" and "Playwright Advanced."
+> **[0:11](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=11)** And if you enjoyed this course, I've got two more courses that you can watch, which is "[[Playwright- [[Design Patterns]]]]" and "Playwright Advanced."
 >
-> **[0:18](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=18)** And for any further details about Selenium, head over to [selenium.dev/documentation](https://selenium.dev/documentation), because you'll find many more resources over there.
+> **[0:18](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=18)** And for any further details about [[Selenium]], head over to [selenium.dev/documentation](https://selenium.dev/documentation), because you'll find many more resources over there.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980&t=27)** Thank you.
 

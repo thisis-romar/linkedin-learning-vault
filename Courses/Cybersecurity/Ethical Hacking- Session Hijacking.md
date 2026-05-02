@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding session hijacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980)
+#### [Understanding session hijacking](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980&t=0)** - [Malcolm] One of the more sophisticated forms of cyber attack involves taking over an existing session from an unsuspecting user.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980&t=0)** - [Malcolm] One of the more sophisticated [[Forms]] of cyber attack involves taking over an existing session from an unsuspecting user.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980&t=8)** This enables an attacker to gain immediate access to anything in the user's current session.
 >
@@ -100,18 +99,17 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980&t=37)** I'll also describe how wireless session hijacking is used to take over physical devices, such as remotely piloted cars and drone aircraft.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980&t=46)** Let's get started with the LinkedIn Learning Session Hijacking course.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980&t=46)** Let's get started with the [[LinkedIn]] Learning Session Hijacking course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), career (1), web (1), dns (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[LinkedIn]] (1)
 > **Env Vars:** tcp (1), dns (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [malcolm] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,11 +117,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=2)** And during this course, I'll be using a virtualized computing environment called VirtualBox.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=9)** I'll also be using a number of tools, which are part of the Kali Linux framework, to test systems.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=9)** I'll also be using a number of tools, which are part of the [[Kali Linux]] framework, to test systems.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=15)** If you're not familiar with Kali and virtualization, you should watch my Introduction to Kali Linux course, which will guide you through installing and using them.
 >
-> **[0:25](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=25)** In addition, I'll be assuming that you understand basic computer and networking concepts, are familiar with Windows, and have a knowledge of basic Linux commands.
+> **[0:25](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=25)** In addition, I'll be assuming that you understand basic computer and networking concepts, are familiar with [[Windows]], and have a knowledge of basic [[Linux]] commands.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/what-you-should-know-before-watching-this-course?u=76281980&t=36)** This course requires a number of tools to be downloaded and installed, and you can pre-install these tools to avoid unnecessary waiting during the course.
 >
@@ -131,20 +129,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** install (1), required to (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/disclaimer?u=76281980&t=0)** - [Instructor] This course uses a range of third party testing tools.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/disclaimer?u=76281980&t=4)** Some are commercial products and some are open-source.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/disclaimer?u=76281980&t=4)** Some are commercial [[Microsoft Products|products]] and some are open-source.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/disclaimer?u=76281980&t=8)** The download and installation instructions for all tools used in this course is available as a .pdf in the associated course material.
 >
@@ -160,7 +157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -168,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding TCP sequence numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980)
+#### [Understanding TCP sequence numbers](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,9 +185,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=64)** IP carries the packets and TCP provides the control for enabling a session to be created, used, and closed.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=72)** Many of the services we all use daily are carried on TCP, such as web servers, web applications, e-mail, and file transfers.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=72)** Many of the services we all use daily are carried on TCP, such as [[Web Servers]], web applications, e-mail, and file transfers.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=84)** To begin our journey into session hijacking, let's look at the anatomy of a TCP session using Wireshark to dissect the communication's packets.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=84)** To begin our journey into session hijacking, let's look at the anatomy of a TCP session using [[Wireshark]] to dissect the communication's packets.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=93)** If you're not familiar with Wireshark, you should check out my colleague, Lisa Bock's course, shown here.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=324)** Wireshark provides a useful function to see what's happening in a TCP session.
 >
-> **[5:29](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=329)** I'll select Statistics and Flow graph.
+> **[5:29](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=329)** I'll select [[Statistics]] and Flow graph.
 >
 > **[5:38](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980&t=338)** I'll moved down the list to where we can see the HTTP exchange,
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (6), web (5), next (4), data (3), dns (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[Web Servers]] (1), [[Statistics]] (1)
 > **Env Vars:** tcp (9), ack (6), syn (3), http (3), dns (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Cross-References:** in the next (1)
@@ -284,8 +280,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hijacking a Telnet session
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980)
+#### [Hijacking a Telnet session](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=105)** My Metasploitable system on 10.0.2.6 has a telnet server running.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=110)** And I can connect to it from my Windows 7 system on 10.0.2.10 using the PuTTY client.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=110)** And I can connect to it from my [[Windows]] 7 system on 10.0.2.10 using the PuTTY client.
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=116)** I've got this ready to go so let's set it up.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=157)** However, let's be more stealthy and just take over this session.
 >
-> **[2:42](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=162)** I'll need to know what port the PuTTY client is running on, and I can do this by running Wireshark and capturing some of the traffic.
+> **[2:42](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=162)** I'll need to know what port the PuTTY client is running on, and I can do this by running [[Wireshark]] and capturing some of the traffic.
 >
 > **[2:48](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=168)** I'll start up Wireshark.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=218)** And back in Kali we can see that Shijack detected the traffic and took over the session.
 >
-> **[3:43](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=223)** We saw earlier that the directory of Metasploit just had the one entry to the vulnerable subdirectory.
+> **[3:43](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=223)** We saw earlier that the directory of [[Metasploit]] just had the one entry to the vulnerable subdirectory.
 >
 > **[3:49](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-a-telnet-session?u=76281980&t=229)** I'll now issue a command to add another directory.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Wireshark]] (3), web (1), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Windows]] (1), [[Metasploit]] (1)
 > **Env Vars:** tcp (2), arp (2), udp (1)
 > **Versions:** 10.0.2 (4)
 > **Tools:** terminal (2), command line (1)
@@ -384,8 +379,7 @@ created: 2026-05-02
 > **Ports:** port 50168 (1)
 > **UI Navigation:** go to (1)
 
-#### Real-world hijacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980)
+#### [Real-world hijacks](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,11 +389,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=25)** He noted that his session token was carried in the URL and he was simply able to paste the session token into a packet and hijack the session.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=34)** This was particularly concerning as GitLab issues permanent session tokens that never expire.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=34)** This was particularly concerning as GitLab issues permanent session [[Tokens]] that never expire.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=40)** Once they're found they provide ongoing access to the perpetual session.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=46)** In 2019, the Slack online service was found to be vulnerable to a session hijacking attack found fortunately by a security researcher on a bug bounty hunt.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=46)** In 2019, the [[Slack]] online service was found to be vulnerable to a session hijacking attack found fortunately by a security researcher on a bug bounty hunt.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/real-world-hijacks?u=76281980&t=56)** The vulnerability was an HTTP requests smuggling vulnerability.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (3), [[Tokens]] (1), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[Slack]] (3), [[Tokens]] (1)
 > **Tools:** slack (3), gitlab (2)
 > **Env Vars:** http (2), url (1)
 > **Speakers:** - [presenter] (1)
@@ -421,8 +415,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding web sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980)
+#### [Understanding web sessions](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +429,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=29)** Session IDs will often be used as a way to uniquely identify an authenticated user, and potentially enable access to sensitive information.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=38)** A typical way for a web developer to store session IDs is to use the .php session array, and then the session ID can be passed in one of two ways, embedded in the URL or through the use of cookies.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=38)** A typical way for a web developer to store session IDs is to use the .[[PHP]] session array, and then the session ID can be passed in one of two ways, embedded in the URL or through the use of cookies.
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=53)** We can also create our own variables and store them in the session array as required.
 >
@@ -452,7 +445,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=92)** The session array is stored server-side, so it can be accessed in subsequent calls.
 >
-> **[1:38](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=98)** To demonstrate this, I've also included HTML code below the .php session script.
+> **[1:38](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=98)** To demonstrate this, I've also included [[HTML]] code below the .php session script.
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980&t=104)** This code recovers and displays the session ID and the user ID on the browser, and uses URL passing to display a second page when the Page2 link is pressed.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[PHP]] (5), data (3), [[HTML]] (2), management (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (2)
 > **Env Vars:** url (7), html (2), php (2), http (1)
 > **CLI Commands:** php (5), apache (1)
 > **Code Identifiers:** session_hijack_course (2), private_id (1)
@@ -507,18 +500,17 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding WebSockets
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980)
+#### [Understanding WebSockets](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=0)** - [Voiceover] With the release of HTML5, more sophisticated state management capabilities are available to the web developer.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=8)** WebSockets provide the ability to set up a full duplex communications channel between the client and the server, this requires a handshake over HTTP or HTTPS to upgrade the protocol to WS or WSS and a WebSocket server to manage the protocol.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=8)** [[WebSocket|WebSockets]] provide the ability to set up a full duplex communications channel between the client and the server, this requires a handshake over HTTP or HTTPS to upgrade the protocol to WS or WSS and a [[WebSocket]] server to manage the protocol.
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=27)** Firstly the client initiates a connection by sending an HTTP WebSocket handshake request, then the server responds with a status code of 101 switching protocols, in then switches to WebSockets and both the web browser and the web server communicate using the WebScocket API, according to RFC 6455, the WebSocket protocol.
 >
-> **[0:54](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=54)** Websocketd is an easy to use WebSocket server, written by Joe Walnes, which we can load into our Ubuntu system, we can get the zip file of this server from his GitHub page, unpack it, and it'll be ready for use.
+> **[0:54](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=54)** Websocketd is an easy to use WebSocket server, written by Joe Walnes, which we can load into our [[Ubuntu]] system, we can get the zip file of this server from his [[GitHub]] page, unpack it, and it'll be ready for use.
 >
 > **[1:09](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=69)** Okay, we've downloaded the file, so now let's unzip it.
 >
@@ -532,7 +524,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=120)** Okay, let's start the server, I'll start it on port 80 88, any port that's not in use would be fine.
 >
-> **[2:15](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=135)** I'll now use Chrome from my Windows 7 system to connect to the WebSocket server, I do that by connecting through HTTP on the WebSocket port 80 88.
+> **[2:15](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=135)** I'll now use Chrome from my [[Windows]] 7 system to connect to the WebSocket server, I do that by connecting through HTTP on the WebSocket port 80 88.
 >
 > **[2:25](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-websockets?u=76281980&t=145)** Chrome has built in support for WebSockets, so we don't need anything extra on the browser.
 >
@@ -540,7 +532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (10), web (3), [[WebSocket|Websockets]] (3), management (1), api (1)
+> **Frameworks & Libraries:** [[WebSocket]] (10), [[WebSocket|Websockets]] (3), [[Ubuntu]] (1), [[GitHub]] (1), [[Windows]] (1)
 > **Env Vars:** http (3), html5 (1), https (1), wss (1), api (1)
 > **Tools:** bash (2), github (1)
 > **Ports:** port 80 (2)
@@ -549,8 +541,7 @@ created: 2026-05-02
 > **Documentation:** rfc (1)
 > **Exercise Files:** zip file (1)
 
-#### Banking on Zero
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/banking-on-zero?u=76281980)
+#### [Banking on Zero](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/banking-on-zero?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/banking-on-zero?u=76281980&t=6)** While Metasploitable does provide a website, this doesn't always have the functionality required.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/banking-on-zero?u=76281980&t=12)** A better solution to use for more real world testing is the HP450 online banking web server.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/banking-on-zero?u=76281980&t=12)** A better solution to use for more real world testing is the HP450 online [[Banking]] web server.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/banking-on-zero?u=76281980&t=21)** We can see the main screen with the login button at the top right.
 >
@@ -574,12 +565,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Banking]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Env Vars:** hp450 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hijacking sessions using man-in-the-browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980)
+#### [Hijacking sessions using man-in-the-browser](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,15 +591,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=42)** Using API hooking.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=44)** A technique which uses the Windows operating system to route messages through the malware.
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=44)** A technique which uses the [[Windows]] operating system to route messages through the malware.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=49)** And using malicious JavaScript.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=49)** And using malicious [[JavaScript]].
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=52)** Man in the Browser malware seamlessly integrates into the web application look and feel and retains the original URL and SSL protections.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=61)** All intents and purposes, the injected page is the original web page and is difficult to detect eve by the most sophisticated security aware end users.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=72)** The malware can inject new HTML code into the webpages coming from the server, including new fields on login pages to capture sensitive information from the victims.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=72)** The malware can inject new [[HTML]] code into the webpages coming from the server, including new fields on login pages to capture sensitive information from the victims.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-sessions-using-man-in-the-browser?u=76281980&t=82)** It can also capture the information directly from browser memory and may be invisible to any antivirus software.
 >
@@ -673,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Windows]] (3), api (1), [[JavaScript]] (1), web application (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Windows]] (3), [[JavaScript]] (1)
 > **Env Vars:** html (3), url (2), mitb (1), api (1), ssl (1)
 > **UI Navigation:** click on (6), navigate to (2), go to (1)
 > **Ports:** :3000 (2)
@@ -682,8 +672,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 
-#### Intercepting sessions through man-in-the-middle
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980)
+#### [Intercepting sessions through man-in-the-middle](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,9 +680,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=7)** The expectation is that nobody is listening to the traffic on that connection.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=11)** And often cryptography will be used to make sure that anyone who does listen won't be able to understand the messages.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=11)** And often [[Cryptography]] will be used to make sure that anyone who does listen won't be able to understand the messages.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=19)** A man in the middle attack, abbreviated to MITM, is a form of cyber-attack in which the attacker inserts himself or herself into the connection, routing traffic from each of the participants to the other and reading it as it passes through.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=19)** A man in the middle attack, abbreviated to MITM, is a form of cyber-attack in which the attacker inserts himself or herself into the connection, [[Routing]] traffic from each of the participants to the other and reading it as it passes through.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=36)** The attacker can also remove, change, and insert data into the traffic.
 >
@@ -711,7 +700,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=78)** The client starts by requesting an SSL session by sending an unencrypted client hello message, which specifies the options that it's able to use to set up the secure connection.
 >
-> **[1:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=90)** These include things like the version of SSL, and the acceptable crypto-algorithms.
+> **[1:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=90)** These include things like the version of SSL, and the acceptable crypto-[[Algorithms]].
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/intercepting-sessions-through-man-in-the-middle?u=76281980&t=95)** The server responds with an unencrypted server hello message and confirms the specific options to be used for the encryption on the connection.
 >
@@ -767,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Cryptography]] (2), web (2), business (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Routing]] (1), [[Algorithms]] (1)
 > **Env Vars:** ssl (3), mitm (1), arp (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -775,8 +764,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stripping SSL to downgrade the session
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/stripping-ssl-to-downgrade-the-session?u=76281980)
+#### [Stripping SSL to downgrade the session](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/stripping-ssl-to-downgrade-the-session?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +780,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/stripping-ssl-to-downgrade-the-session?u=76281980&t=31)** Again, this starts with a man in the middle.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/stripping-ssl-to-downgrade-the-session?u=76281980&t=34)** The client enters the server URL to connect to, for example, their online banking system.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/stripping-ssl-to-downgrade-the-session?u=76281980&t=34)** The client enters the server URL to connect to, for example, their online [[Banking]] system.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/stripping-ssl-to-downgrade-the-session?u=76281980&t=40)** The communications path is being subverted to send that message to the attacker.
 >
@@ -822,21 +810,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Banking]] (2)
+> **Frameworks & Libraries:** [[Banking]] (2)
 > **Env Vars:** http (4), ssl (2), https (2), url (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Hijacking an HTTP session through cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980)
+#### [Hijacking an HTTP session through cookies](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=0)** - [Instructor] In order to hijack an HTTP session, I'll intercept network traffic using my Windows attack system.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=0)** - [Instructor] In order to hijack an HTTP session, I'll intercept network traffic using my [[Windows]] attack system.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=8)** For this, I've got Wireshark installed and I've set my network interface to allow promiscuous mode.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=8)** For this, I've got [[Wireshark]] installed and I've set my network interface to allow promiscuous mode.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=14)** You can do this in VirtualBox by selecting the virtual machine, select the Network Settings, Advanced, and then Allow VMs.
 >
@@ -872,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=113)** I'm at the homepage and I can now log in using the credentials we saw earlier.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=121)** I've got my account summary and I can now go ahead and do some banking.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=121)** I've got my account summary and I can now go ahead and do some [[Banking]].
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-an-http-session-through-cookies-2?u=76281980&t=126)** Okay, I'm the bad guy again, and I'll stop Wireshark recording.
 >
@@ -902,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Wireshark]] (3), [[Banking]] (3), traffic (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Wireshark]] (3), [[Banking]] (3)
 > **Env Vars:** http (4), jsession (2)
 > **UI Navigation:** select the (2), open the (1), right-click (1), go to (1), click on (1)
 > **Prerequisites:** install (3)
@@ -911,20 +898,19 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Warnings:** be careful (1)
 
-#### Using Subterfuge to hijack sessions through ARP poisoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980)
+#### [Using Subterfuge to hijack sessions through ARP poisoning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=0)** - [Teacher] Subterfuge is a testing tool which provides a number of capabilities, including denial of service, Man in the Middle, and session hijacking, and is designed to be very easy to use.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=11)** The tool is available from GitHub as shown, and can be loaded into Kali through cloning.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=11)** The tool is available from [[GitHub]] as shown, and can be loaded into Kali through cloning.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=16)** Subterfuge runs an ARP poisoning attack on the local network to enable Man in the Middle and session hijacking.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=22)** The latest release of Subterfuge requires that MITM proxy also be installed.
 >
-> **[0:28](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=28)** It's installed on Kali, but if you're using another Linux distribution, then the instructions for installing this are in the preconfiguration file associated with this course.
+> **[0:28](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=28)** It's installed on Kali, but if you're using another [[Linux]] distribution, then the instructions for installing this are in the preconfiguration file associated with this course.
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=37)** Subterfuge was hugely popular when it first came out due to its ability to do SSL stripping and intercept user accounts and passwords easily.
 >
@@ -934,7 +920,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=60)** When connected to a local network, the system is assigned not only an IP Address for its internet activities, but also a MAC Address for use by ethernet.
 >
-> **[1:10](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=70)** This is the hardware address of the network card.
+> **[1:10](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=70)** This is the [[Hardware]] address of the network card.
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-subterfuge-to-hijack-sessions-through-arp-poisoning?u=76281980&t=73)** Because the local network operates using MAC Addressing, the address resolution protocol is used to map IP Addresses to MAC Addresses so that traffic can be routed around the local network to the correct system.
 >
@@ -1048,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Linux]] (2), [[Security]] (2), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[GitHub]] (1), [[Hardware]] (1)
 > **Env Vars:** arp (14), mac (8), ssl (4), mitm (2), http (1)
 > **Versions:** 192.168.1 (3), 127.0.0 (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -1057,8 +1043,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Using Webscarab-NG as a web proxy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980)
+#### [Using Webscarab-NG as a web proxy](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,9 +1051,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=7)** Many web testing tools provide this functionality in the form of a web proxy.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=12)** WebScarab is the OWASP tool used for web proxying.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=12)** WebScarab is the [[OWASP]] tool used for web proxying.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=16)** As shown here on the OWASP site, WebScarab is a Java tool, so using it requires having Java installed on your computer.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=16)** As shown here on the OWASP site, WebScarab is a [[Java]] tool, so using it requires having Java installed on your computer.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=26)** Web proxies are application-level devices and are often used in corporate environments to provide a point of monitoring and security enforcement.
 >
@@ -1088,7 +1073,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=85)** Now we need to navigate to a website.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=88)** I'll connect to the Zero Banking test website provided by the folks at HP Fortify.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=88)** I'll connect to the Zero [[Banking]] test website provided by the folks at HP Fortify.
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=94)** The main log-in screen for the website appears.
 >
@@ -1106,7 +1091,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=141)** Let's see what WebScarab thought of that.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=144)** I'll select the Post message in the bottom panel, which references signin.html, and double-click.
+> **[2:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=144)** I'll select the Post message in the bottom panel, which references signin.[[HTML]], and double-click.
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-webscarab-ng-as-a-web-proxy-2?u=76281980&t=151)** A pane comes up showing the message.
 >
@@ -1122,7 +1107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Security]] (2), [[OWASP]] (2), [[Java]] (2), [[Banking]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Java]] (2), [[Banking]] (2), [[HTML]] (1)
 > **UI Navigation:** click on (3), double-click (2), navigate to (1), right-click (1), select the (1)
 > **Env Vars:** owasp (2)
 > **File Paths:** signin.html (1)
@@ -1131,8 +1116,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** firefox (1)
 
-#### Defeating the Hijack
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980)
+#### [Defeating the Hijack](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1126,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=9)** Firstly, a session hijack will usually mean the hijacker will run our session from their own device.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=17)** We can use continuous verification of the session source to defeat many forms of session hijack.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=17)** We can use continuous verification of the session source to defeat many [[Forms]] of session hijack.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=24)** When we start our session as a legitimate user, the continuous verification system will capture some form of unique identifier from our device.
 >
@@ -1168,9 +1152,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=108)** These include making the session IDs 128 bits or longer to prevent brute force attacks.
 >
-> **[1:55](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=115)** Ensuring that session tokens are not included in URLs.
+> **[1:55](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=115)** Ensuring that session [[Tokens]] are not included in URLs.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=121)** Using the content security policy header to avoid loading JavaScript from external sites, this prevents cross-site scripting attacks.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=121)** Using the content security policy header to avoid loading [[JavaScript]] from external sites, this prevents cross-site scripting attacks.
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=131)** Renewing our session keys after initial authentication, and invalidating session tokens once a user logs out.
 >
@@ -1178,7 +1162,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=146)** In these cases, it's important to detect and respond to them quickly.
 >
-> **[2:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=150)** Ideally, we'll have an appropriate incident response plan ready to go.
+> **[2:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=150)** Ideally, we'll have an appropriate [[Incident Response]] plan ready to go.
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/defeating-the-hijack?u=76281980&t=156)** We'll often find out about a session hijack when a user lodges a trouble ticket because their account has been locked out, the password changed, or the last access time appears wrong.
 >
@@ -1190,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Tokens]] (2), [[Forms]] (1), web application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Forms]] (1), [[JavaScript]] (1), [[Incident Response]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1199,8 +1183,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Zed Attack Proxy (ZAP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980)
+#### [Using Zed Attack Proxy (ZAP)](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1191,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=5)** Let's take a look at it.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=7)** I select Applications, Web Application Analysis, owasp zap.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=7)** I select Applications, Web Application Analysis, [[OWASP]] zap.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=12)** Okay, we have the main ZAP page.
 >
@@ -1218,7 +1201,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=49)** Okay, we're ready to go.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=52)** I'll connect through to the Zero Online Banking site, and I'll log in with a username of username, and a password of password.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=52)** I'll connect through to the Zero Online [[Banking]] site, and I'll log in with a username of username, and a password of password.
 >
 > **[1:05](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980&t=65)** Okay, I'll go back to ZAP to see what's happened.
 >
@@ -1258,7 +1241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (2), web (1), web application (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[OWASP]] (1)
 > **Env Vars:** zap (5), post (1)
 > **Ports:** port 8080 (2)
 > **API Endpoints:** post  (1), get  (1)
@@ -1267,8 +1250,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** firefox (1)
 
-#### Using Cain
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-cain?u=76281980)
+#### [Using Cain](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-cain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1258,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-cain?u=76281980&t=5)** And includes session hijacking a man-in-the-middle throughout poisoning.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-cain?u=76281980&t=9)** It runs natively on Windows platforms.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-cain?u=76281980&t=9)** It runs natively on [[Windows]] platforms.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-cain?u=76281980&t=12)** It's been around for a while, and it is one of the more capable windows testing tools.
 >
@@ -1326,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), traffic (2), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4)
 > **Env Vars:** apr (3), arp (3), https (1), http (1), ssl (1)
 > **UI Navigation:** click on (5), select the (1)
 > **Versions:** 10.0.2 (4)
@@ -1340,16 +1322,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hijacking SSH sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980)
+#### [Hijacking SSH sessions](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=0)** - Secure Shell, or SSH, is a common protocol used by system administrators to remotely manage enterprise servers, and is preferred over telnet, as it establishes a secure connection.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=13)** One of the most popular Windows tools used for SSH is PuTTY, available from the website shown here, and when connected, provides a terminal session on a target system.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=13)** One of the most popular [[Windows]] tools used for SSH is PuTTY, available from the website shown here, and when connected, provides a terminal session on a target system.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=24)** In 2008, Insomnia, a penetration testing company in New Zealand, created a tool to hijack PuTTY sessions, and in doing so, demonstrated a powerful way for testers to target system administrators in order to demonstrate unauthorised access to complete enterprise networks.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=24)** In 2008, Insomnia, a [[Penetration Testing]] company in New Zealand, created a tool to hijack PuTTY sessions, and in doing so, demonstrated a powerful way for testers to target system administrators in order to demonstrate unauthorised access to complete enterprise networks.
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=43)** The tool, PuTTY Hijack, can be used when access has been gained to a Windows system when PuTTY is running.
 >
@@ -1369,7 +1350,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=95)** I'll start a session to my Metasploitable system.
 >
-> **[1:41](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=101)** I'll enter the MSF admin user ID and password, and I've got a Command Shell on Metasploitable.
+> **[1:41](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=101)** I'll enter the [[Metasploit|MSF]] admin user ID and password, and I've got a Command Shell on Metasploitable.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=109)** Okay, I'll now start PuTTY Rider with the minus L switch to list all active PuTTY sessions.
 >
@@ -1393,9 +1374,9 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=172)** I'll close the current PuTTY session.
 >
-> **[2:57](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=177)** I'll open a new command window and set it up as netcat listener on port 8080.
+> **[2:57](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=177)** I'll open a new command window and set it up as [[Netcat]] listener on port 8080.
 >
-> **[3:03](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=183)** If you're not familiar with netcat, or don't have it loaded already, take a look at my Practical Cybersecurity course.
+> **[3:03](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=183)** If you're not familiar with netcat, or don't have it loaded already, take a look at my Practical [[Cybersecurity]] course.
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=198)** In a separate command window I'll set up PuTTY Rider to wait for the next time PuTTY is used.
 >
@@ -1405,11 +1386,11 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=223)** As we were doing that, we could see the commands and responses being displayed by netcat.
 >
-> **[3:48](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=228)** We've now got a real-time hijack
+> **[3:48](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980&t=228)** We've now got a [[Real-Time]] hijack
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Penetration Testing]] (1), [[Cybersecurity]] (1), next (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Netcat]] (3), [[Penetration Testing]] (1), [[Metasploit|Msf]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** ssh (4), dll (2), msf (1), pid (1)
 > **CLI Commands:** ssh (4)
 > **Tools:** terminal (2), insomnia (1)
@@ -1418,8 +1399,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### DNS hijacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980)
+#### [DNS hijacking](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1419,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=51)** Let's see how we carry out a DNS hijack.
 >
-> **[0:55](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=55)** There's a file on both windows and Linux which provides a hard coded translation, and it's used prior to checking in a DNS server.
+> **[0:55](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=55)** There's a file on both [[Windows]] and [[Linux]] which provides a hard coded translation, and it's used prior to checking in a DNS server.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=63)** This is the hosts file.
 >
@@ -1459,7 +1439,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=128)** and we can see the Metasploitable web interface displayed.
 >
-> **[2:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=131)** Access to our banking sites from our computer has been hijacked.
+> **[2:11](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=131)** Access to our [[Banking]] sites from our computer has been hijacked.
 >
 > **[2:16](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/dns-hijacking-2?u=76281980&t=136)** Of course, a real hijack of the bank website would reroute the connection to a site with a malicious, but exact visible copy of the main website and then loop it back to the bank.
 >
@@ -1469,22 +1449,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Windows]] (3), [[Linux]] (1), web (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (1), [[Banking]] (1)
 > **Env Vars:** dns (8), url (1)
 > **URLs:** [cbs.gov](https://cbs.gov) (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud hijacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980)
+#### [Cloud hijacking](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=0)** - [Instructor] Cloud computing has become an important part of the technology landscape and, predictably, is being targeted by cyber criminals.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] has become an important part of the technology landscape and, predictably, is being targeted by cyber criminals.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=8)** One form of attack is cloud account hijacking where stolen credentials are used to access cloud services.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=8)** One form of attack is cloud account hijacking where stolen credentials are used to access [[Cloud Services]].
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=16)** Another is cloud service traffic hijacking, identified by the Cloud Security Alliance as far back as 2013 as one of the top three security risks for cloud computing.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=16)** Another is cloud service traffic hijacking, identified by the [[Cloud Security]] Alliance as far back as 2013 as one of the top three security risks for cloud computing.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=29)** Cloud hijacking can be achieved by brute-force guessing of passwords or just unauthorized reuse if an unrelated service for which credentials have been compromised uses the same password as the user's cloud service.
 >
@@ -1500,11 +1479,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=88)** The company had fallen victim to a ransomware extortion, but had recovered, changing its passwords and restoring from backup, assuming that the attackers couldn't do any further damage.
 >
-> **[1:40](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=100)** However, the criminals had already installed a backdoor to regain access to the Amazon EC2 control panel, which managed this cloud service, and so carried out their threats.
+> **[1:40](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=100)** However, the criminals had already installed a backdoor to regain access to the [[Amazon EC2]] control panel, which managed this cloud service, and so carried out their threats.
 >
 > **[1:52](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=112)** Theft of pay-for-use API keys is also a form of cloud hijacking.
 >
-> **[1:58](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=118)** Some online services, such as Microsoft's text-to-speak service shown here, are accessed using an API key.
+> **[1:58](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=118)** Some online services, such as [[Microsoft]]'s text-to-speak service shown here, are accessed using an API key.
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/cloud-hijacking?u=76281980&t=126)** If you install your key in a client-side app, then the traffic can be intercepted and the API key extracted.
 >
@@ -1514,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), api (5), traffic (2), [[Security]] (2), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (1), [[Cloud Security]] (1), [[Amazon EC2]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (5), ec2 (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -1526,8 +1505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going physical: Hijacking cars and drones
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980)
+#### [Going physical: Hijacking cars and drones](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1527,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=47)** While access to these networks and computers is normally through a physical connector inside the car, typically what is known as an OBD2 port, it's also possible to connect using Bluetooth, Wi-Fi, and increasingly, remote access via the internet from PC and mobile phone apps.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=68)** In some countries, internet access is mandatory to enable crash alerts to be received in real-time by central monitoring systems and for police to activate slow-down mode to help in pursuits.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=68)** In some countries, internet access is mandatory to enable crash alerts to be received in [[Real-Time]] by central monitoring systems and for police to activate slow-down mode to help in pursuits.
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=80)** Some vehicles also continuously send engine data back to the car workshop, to enable real-time diagnosis of car performance issues.
 >
@@ -1583,7 +1561,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=203)** TCP port 5555, which sends streaming video from the drone.
 >
-> **[3:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=210)** UDP port 5556, which accepts AT-style telecommunications commands.
+> **[3:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=210)** UDP port 5556, which accepts AT-style [[Telecommunications]] commands.
 >
 > **[3:37](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=217)** And UDP port 5559, for transferring critical data.
 >
@@ -1595,7 +1573,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=257)** Okay, let's have a look at what the communications to a Parrot Drone look like.
 >
-> **[4:22](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=262)** I'm using the Acrylic Wi-Fi Professional tool for Windows, which can be downloaded from the Acrylic Wi-Fi site shown here.
+> **[4:22](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=262)** I'm using the Acrylic Wi-Fi Professional tool for [[Windows]], which can be downloaded from the Acrylic Wi-Fi site shown here.
 >
 > **[4:29](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980&t=269)** I've also connected an Alpha long-range USB adapter, which I'll use for the monitoring.
 >
@@ -1651,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Real-Time]] (2), application (2), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Telecommunications]] (1), [[Windows]] (1)
 > **Env Vars:** udp (3), tcp (2), ipv4 (2), bus (1), mos (1)
 > **UI Navigation:** go to (2), select the (2), click on (2)
 > **Ports:** port 5554 (1), port 5555 (1), port 5556 (1), port 5559 (1)
@@ -1659,8 +1637,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [voiceover] (1)
 
-#### Getting more physical with drones
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980)
+#### [Getting more physical with drones](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1653,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=57)** In their second attack, they hijack the video stream by using Aircrack-ng to monitor packets, and capture those on port 5555 into a .pcap file.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=68)** The raw data for the whole conversation is then extracted using Wireshark and saved into a .dat file, and then reconstructed into an .avi file, using the ffmpeg tool.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=68)** The raw data for the whole conversation is then extracted using [[Wireshark]] and saved into a .dat file, and then reconstructed into an .avi file, using the ffmpeg tool.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=81)** This can then be replayed using a media player.
 >
@@ -1684,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=90)** These types of drones typically use three channels: the 2.4 gigahertz radio control link, an XBee protocol telemetry data link, a first-person view 5.8 gigahertz streaming video link.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=106)** This attack is more sophistocated than the Parrot attack, as it needs hardware to be built to manage hijacking the ZigBee radio link.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=106)** This attack is more sophistocated than the Parrot attack, as it needs [[Hardware]] to be built to manage hijacking the ZigBee radio link.
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/getting-more-physical-with-drones?u=76281980&t=114)** The telemetry attack works by disconnecting the drone from the drone owner's ground station, and then using an attack ground station to control the drone.
 >
@@ -1698,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1), application (1), [[Wireshark]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Hardware]] (1)
 > **Env Vars:** mac (2), api (1)
 > **Versions:** 192.168.1 (1), 2.4 (1), 5.8 (1)
 > **Ports:** port 23 (1), port 5555 (1)
@@ -1709,8 +1686,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1718,15 +1694,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=4)** I hope you enjoyed learning about session hijacking.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=7)** There's always something new in cybersecurity and if you're interested in learning more, then check out the full cybersecurity ethical hacking segments of the library, where the new security testing courses are added regularly.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=7)** There's always something new in [[Cybersecurity]] and if you're interested in learning more, then check out the full cybersecurity [[Ethical Hacking]] segments of the library, where the new [[Security Testing]] courses are added regularly.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=21)** You'll find courses on using Kali Linux, information gathering, denial of service, and much more.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=21)** You'll find courses on using [[Kali Linux]], information gathering, denial of service, and much more.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=28)** I'd also like to invite you to go to my author page where you can find some additional courses on cybersecurity.
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=35)** If you want to get hands-on with some of the common tools, then do take a look at Cybersecurity for IT Professionals and the Introduction to Kali Linux.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=45)** If you're wanting to learn about security for the cloud, then Cybersecurity for Cloud Computing is for you.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=45)** If you're wanting to learn about security for the cloud, then Cybersecurity for [[Cloud Computing]] is for you.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980&t=51)** You might also want to see what my colleague in the cybersecurity ethical hacking series, Lisa Bock, has for you on her homepage.
 >
@@ -1734,7 +1710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Ethical Hacking]] (2), [[Security]] (2), [[Kali Linux]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Ethical Hacking]] (2), [[Kali Linux]] (2), [[Security Testing]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

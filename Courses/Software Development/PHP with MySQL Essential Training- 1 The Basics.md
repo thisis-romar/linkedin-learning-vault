@@ -121,14 +121,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PHP with MySQL Essential Training: The Basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980)
+#### [PHP with MySQL Essential Training: The Basics](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980&t=0)** - [Kevin] Do you want to learn how to build websites that use information in a database?
 >
-> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980&t=4)** A great place to start is by learning PHP and MySQL.
+> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980&t=4)** A great place to start is by learning [[PHP]] and [[MySQL]].
 >
 > **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980&t=8)** These are popular tools that are easy to use.
 >
@@ -148,19 +147,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[PHP]] (3), [[MySQL]] (3), data (3), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[MySQL]] (3)
 > **CLI Commands:** php (3), mysql (3)
 > **Env Vars:** php (3), url (1)
 > **Speakers:** - [kevin] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/how-to-use-the-exercise-files-14188571?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/how-to-use-the-exercise-files-14188571?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/how-to-use-the-exercise-files-14188571?u=76281980&t=0)** - [Instructor] This course includes exercise files.
 >
-> **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/how-to-use-the-exercise-files-14188571?u=76281980&t=3)** In order to make use of those files, you'll want to first make sure that you have PHP and MySQL installed and working.
+> **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/how-to-use-the-exercise-files-14188571?u=76281980&t=3)** In order to make use of those files, you'll want to first make sure that you have [[PHP]] and [[MySQL]] installed and working.
 >
 > **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/how-to-use-the-exercise-files-14188571?u=76281980&t=9)** The exercise files are arranged by chapter and by movie.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[MySQL]] (4), data (4), [[PHP]] (2), web (2)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[PHP]] (2)
 > **CLI Commands:** make (4), mysql (4), php (2), find (2)
 > **Exercise Files:** exercise files (10), exercise file (1)
 > **Env Vars:** php (2), mysql (1)
@@ -222,14 +220,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blueprint the application
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980)
+#### [Blueprint the application](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=0)** - [Instructor] We will begin creating our database driven project by learning how to Blueprint an Application.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=5)** The web application that we're going to be building is a Content Management System or CMS for short.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=5)** The web application that we're going to be building is a [[Content Management]] System or CMS for short.
 >
 > **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=11)** The idea is to have private web pages, which administrators can use to create, and edit website content, but the public has different pages, where they can read the content, but which are not editable.
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=106)** The pages are all going to have a similar page structure, an area for Navigation, like a menu of content, and then an area to view that page content.
 >
-> **[1:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=115)** So users will pick a navigation item, and then the PHP page that loads will show that pages content.
+> **[1:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=115)** So users will pick a navigation item, and then the [[PHP]] page that loads will show that pages content.
 >
 > **[2:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=121)** Pick a new navigation item, get new page content.
 >
@@ -309,7 +306,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=218)** This is what the public facing version of our website is going to look like.
 >
-> **[3:42](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=222)** At the moment, these are just simple HTML pages.
+> **[3:42](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=222)** At the moment, these are just simple [[HTML]] pages.
 >
 > **[3:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980&t=225)** You can see that we have the name of our fictitious website, Globe Bank International up at the top.
 >
@@ -375,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Content Management]] (4), application (2), cms (2), web (2)
+> **Frameworks & Libraries:** [[Content Management]] (4), [[PHP]] (2), [[HTML]] (1)
 > **Env Vars:** cms (2), php (2), html (1)
 > **CLI Commands:** php (2), make (1)
 > **UI Navigation:** click on (2)
@@ -383,14 +380,13 @@ created: 2026-05-02
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
 
-#### Establish your work area
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980)
+#### [Establish your work area](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=0)** - [Illustrator] Now that we have a blueprint for application, let's begin creating the project files that we're going to need.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=5)** I use a standard structure for all of my PHP projects, and it looks something like this.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=5)** I use a standard structure for all of my [[PHP]] projects, and it looks something like this.
 >
 > **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=11)** I have the main project directory, here I've just called it basic PHP project, but I would rename it to be whatever the project name was.
 >
@@ -458,7 +454,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=217)** And inside staff, we know that we want to have index.php declared, now this file doesn't actually do anything at the moment.
 >
-> **[3:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=224)** If we actually open it up, you'll see that it just contains some basic HTML just as a starter template for us.
+> **[3:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=224)** If we actually open it up, you'll see that it just contains some basic [[HTML]] just as a starter template for us.
 >
 > **[3:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/establish-your-work-area-14187627?u=76281980&t=230)** For now we just want to make sure that we remember to have some placeholder that's in there.
 >
@@ -510,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (22), web (10), application (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (22), [[HTML]] (1)
 > **CLI Commands:** php (22), make (2)
 > **File Paths:** index.php (9), initialize.php (1), functions.php (1), list.php (1), dot.php (1)
 > **Code Identifiers:** globe_bank (1), page_edit (1), page_delete (1), page_list (1), page_new (1)
@@ -519,8 +515,7 @@ created: 2026-05-02
 > **URLs:** [coolsite.com](https://coolsite.com) (3)
 > **Cross-References:** later in (1), in the next (1)
 
-#### Create and style the first page
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980)
+#### [Create and style the first page](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -536,7 +531,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=24)** The overall idea is that my project is now visible in one column, I can navigate the files that I want to edit, and I can edit them over in the window on the right.
 >
-> **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=32)** Let's begin by opening up the index.php page.
+> **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=32)** Let's begin by opening up the index.[[PHP]] page.
 >
 > **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=36)** It's immediately inside the public directory.
 >
@@ -546,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=45)** It's just the beginning of an HTML5 document that we could then serve up to the public.
 >
-> **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=51)** PHP pages are just HTML pages that have PHP embedded in them.
+> **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=51)** PHP pages are just [[HTML]] pages that have PHP embedded in them.
 >
 > **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=55)** So this makes sense that we would have this as a starting point.
 >
@@ -568,7 +563,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=112)** You will also want to make sure that your web server, whichever one you choose to use, is running and able to serve files when your browser requests them.
 >
-> **[2:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=121)** If you need help with any of that, you can refer to the course on installing and setting up PHP with MySQL.
+> **[2:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=121)** If you need help with any of that, you can refer to the course on installing and setting up PHP with [[MySQL]].
 >
 > **[2:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=128)** I'm going to navigate to that project.
 >
@@ -704,7 +699,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=382)** I wanted to go ahead and add them now, so that we don't have to come back to them.
 >
-> **[6:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=386)** I'm styling some of the different elements that we're going to be using as we create forms, and create all the different parts of the website.
+> **[6:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=386)** I'm styling some of the different elements that we're going to be using as we create [[Forms]], and create all the different parts of the website.
 >
 > **[6:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=392)** So there we go, we've got our errors.
 >
@@ -722,7 +717,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=418)** Everyone should get the style sheet.
 >
-> **[7:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=420)** Href=, and I'm just going to leave that blank for now, and then close out the rest of the tag.
+> **[7:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=420)** Href=, and I'm just going to leave that blank for now, and then close out the [[Representational State Transfer (REST)|rest]] of the tag.
 >
 > **[7:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-and-style-the-first-page-14191287?u=76281980&t=425)** So now we need the path to the style sheet.
 >
@@ -776,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (23), web (6), css (4), [[HTML]] (3), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (23), [[HTML]] (3), [[MySQL]] (1), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (23), make (9), mysql (1)
 > **Env Vars:** php (12), html5 (3), html (3), url (3), gbi (3)
 > **File Paths:** index.php (9), staff.css (3), indexed.php (1), sheets/staff.css (1)
@@ -785,12 +780,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2), template (1)
 > **Definitions:** means that (1), is a  (1)
 
-#### Include and require files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980)
+#### [Include and require files](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=0)** - [Instructor] One useful feature in PHP is the ability to include code from other files into a PHP page.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=0)** - [Instructor] One useful feature in [[PHP]] is the ability to include code from other files into a PHP page.
 >
 > **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=7)** It's an important feature because it helps us to stay organized and to not repeat ourselves.
 >
@@ -818,7 +812,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=75)** And now that code is all self-contained in one area where it's easy to find and easy to update.
 >
-> **[1:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=80)** And the same thing is true for really any reusable section of code, whether it has HTML, PHP, JavaScript or something else.
+> **[1:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=80)** And the same thing is true for really any reusable section of code, whether it has [[HTML]], PHP, [[JavaScript]] or something else.
 >
 > **[1:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=87)** Maybe there's code that defines how a banner ad ought to display, or page analytics, or the way that we want to display images on the site.
 >
@@ -830,7 +824,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=111)** Require works exactly like include does, except it raises an error if the file is not found and able to be loaded.
 >
-> **[1:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=119)** So really you use require if the file is essential to the operation of the rest of the page.
+> **[1:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=119)** So really you use require if the file is essential to the operation of the [[Representational State Transfer (REST)|rest]] of the page.
 >
 > **[2:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=125)** If we get to require and something goes wrong, the rest of the PHP code will simply not execute.
 >
@@ -866,7 +860,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=207)** For example, I might want to have another file that contains all of my login functions once I have login ability to the staff area.
 >
-> **[3:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=214)** Or I want to have another set of functions that's dedicated just to working with forms and how we output forms on a page.
+> **[3:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=214)** Or I want to have another set of functions that's dedicated just to working with [[Forms]] and how we output forms on a page.
 >
 > **[3:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/include-and-require-files-14190438?u=76281980&t=223)** I can separate all those out into separate files and then initialize will take care of loading all of them in for me.
 >
@@ -998,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (30), feature (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[PHP]] (30), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Forms]] (2), [[JavaScript]] (1)
 > **CLI Commands:** php (30), make (4), find (3)
 > **File Paths:** initialize.php (6), functions.php (5), staff_header.php (2), index.php (2), footer.php (1)
 > **Env Vars:** php (13), html (2), url (2)
@@ -1007,8 +1001,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Make page assets reusable
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980)
+#### [Make page assets reusable](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=4)** In this movie, we'll learn some additional techniques that can help you to use them better in your projects.
 >
-> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=9)** So the first thing that I want to show you is how we can use variables in PHP to work with these included and required files.
+> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=9)** So the first thing that I want to show you is how we can use variables in [[PHP]] to work with these included and required files.
 >
 > **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=16)** Specifically, I want to be able to set a page title on this page, $page_title, and I'm going to set it equal to let's just call it "Staff menu."
 >
@@ -1050,7 +1043,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=100)** That's the first thing I want to make sure I showed you is that variables are still available inside those included files that can be useful to know.
 >
-> **[1:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=108)** The second thing is, let's take all of this code from index.php I'm going to copy it and let's go two subjects, index.php, where I also just have a basic HTML file template.
+> **[1:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=108)** The second thing is, let's take all of this code from index.php I'm going to copy it and let's go two subjects, index.php, where I also just have a basic [[HTML]] file template.
 >
 > **[1:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/make-page-assets-reusable-14191288?u=76281980&t=119)** I'm going to just replace that.
 >
@@ -1174,7 +1167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[HTML]] (1)
 > **CLI Commands:** php (17), make (6), find (5)
 > **Env Vars:** php (3), private_path (3), project_path (3), shared_path (2), gbi (1)
 > **File Paths:** index.php (6), initiali.php (1), staff_header.php (1), initializ.php (1), initialize.php (1)
@@ -1188,20 +1181,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Links and URLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980)
+#### [Links and URLs](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=0)** - [Instructor] In the previous chapter, we built a simple web page and learned how to create reusable page assets.
 >
-> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=6)** In this chapter, we're going to work on building web pages using PHP.
+> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=6)** In this chapter, we're going to work on building web pages using [[PHP]].
 >
 > **[0:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=10)** Let's begin by learning how to create links between pages.
 >
-> **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=13)** You should already know how to code a simple HTML link.
+> **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=13)** You should already know how to code a simple [[HTML]] link.
 >
-> **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=16)** We use a tags around the word that we want to link, and then we use the href attribute of the a tag to define where we want the link to go to, in this case, index.php.
+> **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=16)** We use a tags around the [[Microsoft Word|word]] that we want to link, and then we use the href attribute of the a tag to define where we want the link to go to, in this case, index.php.
 >
 > **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980&t=26)** Now, the first thing you should know is that there's no such thing as a PHP link.
 >
@@ -1429,7 +1421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (26), [[HTML]] (7), web (4), [[Microsoft Word|Word]] (3), css (2)
+> **Frameworks & Libraries:** [[PHP]] (26), [[HTML]] (7), [[Microsoft Word|Word]] (3)
 > **Env Vars:** php (10), url (8), html (7), www_root (6), shared_path (2)
 > **CLI Commands:** php (26), make (3), find (1)
 > **File Paths:** index.php (10), localhost/subjects/index.php (1), staff/subjects/index.php (1), stylesheets/staff.css (1), initialize.php (1)
@@ -1438,8 +1430,7 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **Exercise Files:** template (1), exercise files (1)
 
-#### Use URL parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980)
+#### [Use URL parameters](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,13 +1446,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=22)** URL parameters generally modify the behavior of the code used for the response.
 >
-> **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=26)** So in this example, the same PHP code would be run but its behavior would probably be modified so that returned a second page of results.
+> **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=26)** So in this example, the same [[PHP]] code would be run but its behavior would probably be modified so that returned a second page of results.
 >
 > **[0:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=35)** You can send more than one URL parameter by using an ampersand in between them.
 >
 > **[0:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=39)** Here I have category equals seven and page equals three.
 >
-> **[0:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=43)** If you surf around on sites like Google and Amazon, you'll see many examples of URL parameters being used.
+> **[0:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=43)** If you surf around on sites like [[Google]] and Amazon, you'll see many examples of URL parameters being used.
 >
 > **[0:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=50)** URL parameters are useful because they allow us to pass data from one page to another via links.
 >
@@ -1473,7 +1464,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=77)** And that makes sense because GET is the name of the HTTP method that relates to URLs and links.
 >
-> **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=83)** We'll learn more about GET and POST when we talk about forms.
+> **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=83)** We'll learn more about GET and POST when we talk about [[Forms]].
 >
 > **[1:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=87)** Notice that it has an underscore at the beginning and that it uses all capital letters, that's how all super globals are going to be named.
 >
@@ -1533,7 +1524,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=235)** Each one of those arrays is a stand-in for a record that would be in the database.
 >
-> **[4:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=240)** We don't have a database yet, we're not working with databases until a little later on, but we're going to fake it here a bit.
+> **[4:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=240)** We don't have a database yet, we're not working with [[Databases]] until a little later on, but we're going to fake it here a bit.
 >
 > **[4:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=246)** Database records work very much the same way.
 >
@@ -1593,7 +1584,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=374)** It will be able to go to the database and retrieve that ID and bring back more information about it.
 >
-> **[6:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=379)** So passing around these IDs is something that happens very frequently when we're doing web development.
+> **[6:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=379)** So passing around these IDs is something that happens very frequently when we're doing [[Web Development]].
 >
 > **[6:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-url-parameters-14192192?u=76281980&t=384)** So let's edit this view link so that it has that URL parameter in it.
 >
@@ -1661,7 +1652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), database (8), next (5), data (5), [[Databases]] (2)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Databases]] (2), [[Google]] (1), [[Forms]] (1), [[Web Development]] (1)
 > **Env Vars:** url (10), php (7), http (1), post (1)
 > **CLI Commands:** php (8), make (3)
 > **API Endpoints:** get
@@ -1672,8 +1663,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2)
 
-#### Default values for URL parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/default-values-for-url-parameters-14191289?u=76281980)
+#### [Default values for URL parameters](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/default-values-for-url-parameters-14191289?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1685,7 +1675,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/default-values-for-url-parameters-14191289?u=76281980&t=20)** In other words, if page wasn't sent in the URL, then a value would not be set inside the associative array.
 >
-> **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/default-values-for-url-parameters-14191289?u=76281980&t=26)** And when PHP went to look for this value, it would raise either a warning or a notice to us telling us that the index can't be found.
+> **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/default-values-for-url-parameters-14191289?u=76281980&t=26)** And when [[PHP]] went to look for this value, it would raise either a warning or a notice to us telling us that the index can't be found.
 >
 > **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/default-values-for-url-parameters-14191289?u=76281980&t=34)** Now you can configure PHP to not show those warnings and notices, but it's a much better practice to go ahead and fix the problem.
 >
@@ -1815,7 +1805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (12), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (12)
 > **CLI Commands:** php (12), make (4), find (1)
 > **Env Vars:** php (12), url (4)
 > **Versions:** php 7 (5), 7.0 (1)
@@ -1824,8 +1814,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **File Paths:** show.php (1)
 
-#### Encode URL parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980)
+#### [Encode URL parameters](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,7 +1866,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=110)** Once it's encoded, it will no longer have its special meaning and it will be treated simply as data.
 >
-> **[1:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=116)** Then when the page is processed by PHP, we can decode these values to restore the original character.
+> **[1:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=116)** Then when the page is processed by [[PHP]], we can decode these values to restore the original character.
 >
 > **[2:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=122)** PHP gives us two functions to perform this encoding, urlencode and rawurlencode.
 >
@@ -1921,7 +1910,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=209)** Now in truth, you're rarely going to use rawurlecode because most of the time, the path is not something that's being dynamically generated by PHP.
 >
-> **[3:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=219)** It's usually something that you have total control over when you're typing that link into your HTML code, you decide what it's going to be.
+> **[3:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=219)** It's usually something that you have total control over when you're typing that link into your [[HTML]] code, you decide what it's going to be.
 >
 > **[3:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=226)** It's not something that gets determined on the fly.
 >
@@ -2007,7 +1996,7 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=415)** And let's click on that first link.
 >
-> **[6:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=416)** You see, we get John+DOE, that looks a little better.
+> **[6:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=416)** You see, we get [[John the Ripper|John]]+DOE, that looks a little better.
 >
 > **[6:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-url-parameters-14188567?u=76281980&t=419)** We get Widgets%26More, and we get a set of characters here.
 >
@@ -2049,7 +2038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), data (5), [[Search]] (3), web (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (1), [[John the Ripper|John]] (1)
 > **Env Vars:** url (15), php (11), html (1), doe (1)
 > **CLI Commands:** php (11), make (6), find (1)
 > **UI Navigation:** go to (3), click on (2)
@@ -2059,14 +2048,13 @@ created: 2026-05-02
 > **Warnings:** watch out (1), be careful (1)
 > **Code Identifiers:** require_once (1)
 
-#### Encode for HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980)
+#### [Encode for HTML](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=0)** - [Instructor] In the last movie, we saw how to use PHP to encode special characters for use in a URL.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=0)** - [Instructor] In the last movie, we saw how to use [[PHP]] to encode special characters for use in a URL.
 >
-> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=6)** There's one other place where we have to watch out for reserved characters and that's in our HTML.
+> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=6)** There's one other place where we have to watch out for reserved characters and that's in our [[HTML]].
 >
 > **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=11)** Most of the time, we have total control of what HTML goes on the page.
 >
@@ -2128,7 +2116,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=181)** So HTML special characters will take those HTML characters and convert them to their harmless HTML entity equivalents.
 >
-> **[3:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=189)** Now it's not just HTML that we have to watch out for, because JavaScript also uses these same things.
+> **[3:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=189)** Now it's not just HTML that we have to watch out for, because [[JavaScript]] also uses these same things.
 >
 > **[3:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=195)** And cross site scripting is a major security concern.
 >
@@ -2188,7 +2176,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=308)** It popped up with an alert and says, gotcha.
 >
-> **[5:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=311)** Once I say, okay, now we go to the rest of the page.
+> **[5:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=311)** Once I say, okay, now we go to the [[Representational State Transfer (REST)|rest]] of the page.
 >
 > **[5:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/encode-for-html-14190434?u=76281980&t=313)** If we actually do a view source on this, let's go down here to see the page source.
 >
@@ -2246,7 +2234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (24), [[JavaScript]] (15), data (7), [[PHP]] (4), [[Scripting]] (4)
+> **Frameworks & Libraries:** [[HTML]] (24), [[JavaScript]] (15), [[PHP]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (24), php (4), url (1), xss (1)
 > **CLI Commands:** php (4), make (3)
 > **Warnings:** watch out (4), gotcha (2)
@@ -2255,16 +2243,15 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1), for example (1)
 > **Cross-References:** in the last (1)
 
-#### Challenge: Add pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980)
+#### [Challenge: Add pages](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=0)** - [Instructor] It's time for your first challenge assignment.
 >
-> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=8)** Over the last two chapters, we've covered the basics of building web pages with PHP.
+> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=8)** Over the last two chapters, we've covered the basics of building web pages with [[PHP]].
 >
-> **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=13)** I've been demonstrating concepts by working with the subjects area of our content management system.
+> **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=13)** I've been demonstrating concepts by working with the subjects area of our [[Content Management]] system.
 >
 > **[0:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=19)** From our initial project blueprint, we know that our content will be divided into subjects and into pages, and we'll need to be able to manage the pages of our project as well.
 >
@@ -2278,7 +2265,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=51)** We already had a placeholder in place for that.
 >
-> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=54)** You're going to then want to take that placeholder and replace it with the correct HTML and PHP for the pages index.
+> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=54)** You're going to then want to take that placeholder and replace it with the correct [[HTML]] and PHP for the pages index.
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-pages-14186830?u=76281980&t=61)** That is a list of the pages that we can work with.
 >
@@ -2342,7 +2329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (4), data (4), web (1), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (4), [[Content Management]] (1)
 > **CLI Commands:** make (9), php (7)
 > **Env Vars:** html (4), url (4), php (2)
 > **File Paths:** staff/index.php (1), staff/pages/index.php (1), subjects/index.php (1), staff/pages/show.php (1), show.php (1)
@@ -2351,8 +2338,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Solution: Add pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980)
+#### [Solution: Add pages](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2366,7 +2352,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=19)** First, you can see that on the staff menu area, I've added a new link for my main menu, to pages.
 >
-> **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=25)** And when I click on that link, it takes me to staff pagesindex.PHP.
+> **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=25)** And when I click on that link, it takes me to staff pagesindex.[[PHP]].
 >
 > **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=29)** And I've replaced the placeholder content that we had there with a list of the pages.
 >
@@ -2422,7 +2408,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=164)** You can see, I gave a page title to this page and I used include along with the shared path constant, in order to locate the staff header.
 >
-> **[2:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=173)** Then I've got some HTML here to list off my pages and each one at the top that says pages, I've some placeholder HTML for when we're able to create a new page later on, and then a table that lists off my pages.
+> **[2:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=173)** Then I've got some [[HTML]] here to list off my pages and each one at the top that says pages, I've some placeholder HTML for when we're able to create a new page later on, and then a table that lists off my pages.
 >
 > **[3:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=185)** Here's the header at the top saying what all the columns will be.
 >
@@ -2444,7 +2430,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=224)** I know it's safe.
 >
-> **[3:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=225)** There's no chance that it is equal to some bit of JavaScript or bad HTML.
+> **[3:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=225)** There's no chance that it is equal to some bit of [[JavaScript]] or bad HTML.
 >
 > **[3:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-pages-14185921?u=76281980&t=230)** But the thing is, it's a stand in for a database and in the future, that is going to be dynamic data.
 >
@@ -2528,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), [[PHP]] (7), data (5), database (4), leadership (1)
+> **Frameworks & Libraries:** [[HTML]] (15), [[PHP]] (7), [[JavaScript]] (1)
 > **Env Vars:** html (15), url (8), php (7), php7 (1)
 > **CLI Commands:** make (12), php (7)
 > **File Paths:** pagesindex.php (2), staffpagesindex.php (1), index.php (1), initialize.php (1), show.php (1)
@@ -2542,14 +2528,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modify headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980)
+#### [Modify headers](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=0)** - [Instructor] In this chapter, we will learn about page headers and page redirects.
 >
-> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=4)** Page redirects in particular are an essential web development skill.
+> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=4)** Page redirects in particular are an essential [[Web Development]] skill.
 >
 > **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=9)** We're going to begin by learning about headers and how to modify them.
 >
@@ -2557,9 +2542,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=17)** A request goes from the browser to the web server software.
 >
-> **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=20)** The web server software looks for the correct PHP file.
+> **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=20)** The web server software looks for the correct [[PHP]] file.
 >
-> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=23)** It then reads that file, processes the PHP code that's inside, assembles an HTML response, and sends it back to the browser.
+> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=23)** It then reads that file, processes the PHP code that's inside, assembles an [[HTML]] response, and sends it back to the browser.
 >
 > **[0:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980&t=31)** The web server also sends a small amount of data just before the HTML response, which provides basic information to the browser about what to expect from the content to follow.
 >
@@ -2739,7 +2724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (20), web (7), data (7), [[HTML]] (3), next (2)
+> **Frameworks & Libraries:** [[PHP]] (20), [[HTML]] (3), [[Web Development]] (1)
 > **Env Vars:** php (20), http (7), html (3), url (2), pdf (1)
 > **CLI Commands:** php (20), make (5), curl (2)
 > **File Paths:** new.php (4), index.php (2), functions.php (1)
@@ -2748,8 +2733,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **Code Identifiers:** require_once (1)
 
-#### Page redirection
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980)
+#### [Page redirection](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2765,7 +2749,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=28)** And the second is a location attribute indicating the new URL that the browser ought to try instead.
 >
-> **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=34)** PHP is smart enough to know that if we're setting the location, then we also want to set the status code to 302 at the same time.
+> **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=34)** [[PHP]] is smart enough to know that if we're setting the location, then we also want to set the status code to 302 at the same time.
 >
 > **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=40)** We don't have to manually set it just by saying header and then telling it the new location, it knows this must be a redirect because that's the only thing the location attribute is used for.
 >
@@ -2819,7 +2803,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=171)** A page that's a different one than the page that they originally requested.
 >
-> **[2:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=175)** I'm sure you've also seen this in e-commerce, you submit an order, the order is processed, and then you're redirected to a receipt page at the end.
+> **[2:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=175)** I'm sure you've also seen this in [[E-Commerce]], you submit an order, the order is processed, and then you're redirected to a receipt page at the end.
 >
 > **[3:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=183)** And you can tell that you've been redirected because the URL in your browser actually changes.
 >
@@ -2829,7 +2813,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=199)** They pre-seed any page data that's sent.
 >
-> **[3:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=202)** Therefore header changes must be made before we have any HTML output, even spaces or line returns.
+> **[3:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=202)** Therefore header changes must be made before we have any [[HTML]] output, even spaces or line returns.
 >
 > **[3:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=210)** Therefore page redirects must be sent before any HTML output.
 >
@@ -2917,11 +2901,11 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=413)** Boom, right away, I'm redirected to the new spot.
 >
-> **[6:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=416)** Page redirection is an important skill to have in your web development toolbox.
+> **[6:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/page-redirection-14192180?u=76281980&t=416)** Page redirection is an important skill to have in your [[Web Development]] toolbox.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), data (7), web (5), [[HTML]] (3), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[HTML]] (3), [[E-Commerce]] (1), [[Web Development]] (1)
 > **CLI Commands:** php (17), make (9), find (2)
 > **Env Vars:** url (8), php (3), html (3), http (1), httml (1)
 > **File Paths:** new.php (6), index.php (5), old.php (2), function.php (1)
@@ -2930,20 +2914,19 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), in the last (1)
 > **Analogies:** imagine (2)
 
-#### Output buffering
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980)
+#### [Output buffering](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=0)** - [Instructor] In this chapter, we've been discussing headers and page redirection.
 >
-> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=4)** One of the important points which has come up a few times is that it's essential that any changes to the headers come before any output to the HTML.
+> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=4)** One of the important points which has come up a few times is that it's essential that any changes to the headers come before any output to the [[HTML]].
 >
 > **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=13)** In this movie, we'll look at that a little closer, and also learn how we can use output buffering to help us.
 >
 > **[0:18](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=18)** Let me start by giving you a metaphor, for illustration.
 >
-> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=21)** Let's imagine that our PHP code is a faucet, and that our web server is a glass.
+> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=21)** Let's imagine that our [[PHP]] code is a faucet, and that our web server is a glass.
 >
 > **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/output-buffering-14186828?u=76281980&t=26)** Every time our PHP code outputs some data, it goes into the glass, like drops of water.
 >
@@ -3089,7 +3072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (19), web (12), data (8), [[Search]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (19), [[HTML]] (1)
 > **CLI Commands:** php (19), make (3), find (1)
 > **Env Vars:** php (14), html (1)
 > **Code Identifiers:** ob_start (6), ob_end_flush (3), output_buffering (2), my_phpinfo (1), output_buffer (1)
@@ -3103,14 +3086,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980)
+#### [Build forms](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980&t=0)** - [Instructor] In this chapter, we will learn to use PHP to build pages which have forms for submitting data.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980&t=0)** - [Instructor] In this chapter, we will learn to use [[PHP]] to build pages which have [[Forms]] for submitting data.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980&t=5)** And we'll begin by reviewing the basics of HTML forms and then adding some forms to our project.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980&t=5)** And we'll begin by reviewing the basics of [[HTML]] forms and then adding some forms to our project.
 >
 > **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980&t=11)** There are two main ways in which we can interact with websites using the HTTP protocol.
 >
@@ -3344,7 +3326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[PHP]] (11), [[Forms]] (8), database (8), [[HTML]] (4)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Forms]] (8), [[HTML]] (4)
 > **CLI Commands:** php (11), make (4), find (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (3), checkbox (2)
 > **Env Vars:** html (4), php (3), url (3), http (1)
@@ -3353,18 +3335,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 
-#### Use form parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980)
+#### [Use form parameters](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=0)** - [Instructor] In the last movie, we added some forms to our project.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=0)** - [Instructor] In the last movie, we added some [[Forms]] to our project.
 >
 > **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=3)** When one of those forms is submitted.
 >
 > **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=4)** The page that receives the form is going to need to work with the form values.
 >
-> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=8)** PHP takes these form values and automatically assigns them to an associative array where we can access them.
+> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=8)** [[PHP]] takes these form values and automatically assigns them to an associative array where we can access them.
 >
 > **[0:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=15)** That array is stored in a super global variable called post or dollar sign underscore, and in all caps, P O S T.
 >
@@ -3380,7 +3361,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=54)** There are no reserved characters that we need to worry about.
 >
-> **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=56)** HTML takes care of all of that for us already, the way that we access these values is just like we did with the get super global.
+> **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=56)** [[HTML]] takes care of all of that for us already, the way that we access these values is just like we did with the get super global.
 >
 > **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-parameters-14185933?u=76281980&t=63)** We simply ask for the name of the attribute we want to get out of the associative array.
 >
@@ -3478,7 +3459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (12), [[Forms]] (4), data (2), [[HTML]] (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (12), [[Forms]] (4), [[HTML]] (1)
 > **CLI Commands:** php (12), make (4), find (2)
 > **Env Vars:** php (6), url (5), html (1)
 > **File Paths:** create.php (4), new.php (1), staff/subjects/create.php (1)
@@ -3487,8 +3468,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** firefox (1)
 
-#### Detect form submission
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/detect-form-submission-14191269?u=76281980)
+#### [Detect form submission](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/detect-form-submission-14191269?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3496,7 +3476,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/detect-form-submission-14191269?u=76281980&t=4)** Let's begin by understanding why we might want to know that.
 >
-> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/detect-form-submission-14191269?u=76281980&t=7)** Here I am on the create.php page that we created and used in the last movie.
+> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/detect-form-submission-14191269?u=76281980&t=7)** Here I am on the create.[[PHP]] page that we created and used in the last movie.
 >
 > **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/detect-form-submission-14191269?u=76281980&t=12)** The way that we used it was that we had a new.php page that submitted its form data over to create.php.
 >
@@ -3628,7 +3608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), data (9), hit (2)
+> **Frameworks & Libraries:** [[PHP]] (11)
 > **Env Vars:** post (11), url (3), server (1)
 > **CLI Commands:** php (11), make (2), find (1)
 > **API Endpoints:** post  (8), get  (4)
@@ -3637,8 +3617,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), scroll down (1), go to (1)
 > **Definitions:** is a  (2)
 
-#### Single-page form processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980)
+#### [Single-page form processing](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3678,7 +3657,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=90)** Now for edit, I want to make the edit be a single page processor.
 >
-> **[1:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=95)** So what I want to do is I want to take all this code from create.php that we had.
+> **[1:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=95)** So what I want to do is I want to take all this code from create.[[PHP]] that we had.
 >
 > **[1:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=99)** And all of this is post request right here.
 >
@@ -3710,7 +3689,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=153)** So we need to pass in an ID as well.
 >
-> **[2:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=155)** So I'm going to include an ID here and for that ID, I'm going to want to make sure that I escape it for HTML and the URL encoded.
+> **[2:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=155)** So I'm going to include an ID here and for that ID, I'm going to want to make sure that I escape it for [[HTML]] and the URL encoded.
 >
 > **[2:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/single-page-form-processing-14190444?u=76281980&t=163)** And I'm just going to use a value for ID.
 >
@@ -3838,7 +3817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), data (1), [[HTML]] (1), business (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1)
 > **CLI Commands:** php (8), make (6)
 > **File Paths:** create.php (3), edit.php (2), index.php (1), new.php (1)
 > **Env Vars:** url (3), html (1)
@@ -3847,8 +3826,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Code Identifiers:** menu_name (1)
 
-#### Challenge: Add forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980)
+#### [Challenge: Add forms](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3860,7 +3838,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=18)** Let's go over the points that you need to make sure you hit.
 >
-> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=21)** The first is that you'll want to add a form under staff/pages/new.php.
+> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=21)** The first is that you'll want to add a form under staff/pages/new.[[PHP]].
 >
 > **[0:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=27)** Replace any placeholder code you might have there and put in the correct page to display a form for creating a new page.
 >
@@ -3870,7 +3848,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=59)** Once you've got that, then work on the form processing.
 >
-> **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=63)** Use single page form processing for both of the forms.
+> **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=63)** Use single page form processing for both of the [[Forms]].
 >
 > **[1:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-add-forms-14188568?u=76281980&t=66)** When we were working with the subjects, we only did it for the edit page.
 >
@@ -3904,7 +3882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), management (2), [[Forms]] (2), hit (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Forms]] (2)
 > **CLI Commands:** php (5), make (2)
 > **File Paths:** staff/pages/new.php (1), pages/index.php (1), edit.php (1), create.php (1)
 > **Env Vars:** php (1)
@@ -3913,8 +3891,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980)
+#### [Solution: Add forms](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3928,7 +3905,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=14)** You can see in the browser, I can click on pages and I come up with my pages area and I have a new link here now for create new page.
 >
-> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=21)** And when I click on it, it takes me to new.php, and I get back a form to allow me to create a new page so I can add the menu name.
+> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=21)** And when I click on it, it takes me to new.[[PHP]], and I get back a form to allow me to create a new page so I can add the menu name.
 >
 > **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=28)** I can type position and I can type visible.
 >
@@ -3936,7 +3913,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=34)** And I'll click create page.
 >
-> **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=36)** Now this submits to the same page, new.php, that's different than what we did throughout the rest of the chapter, where we used create.php.
+> **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=36)** Now this submits to the same page, new.php, that's different than what we did throughout the [[Representational State Transfer (REST)|rest]] of the chapter, where we used create.php.
 >
 > **[0:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=44)** We're using single page submission here, single page form processing.
 >
@@ -4004,7 +3981,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=175)** Now notice that I've also put an H in front of this as well.
 >
-> **[3:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=180)** I need to make sure that I escaped this for HTML.
+> **[3:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=180)** I need to make sure that I escaped this for [[HTML]].
 >
 > **[3:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-add-forms-14185920?u=76281980&t=183)** I did not do that in the last movie, when we were talking about outputting this value, that was an oversight on my part.
 >
@@ -4060,7 +4037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), database (4), [[HTML]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (13), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (13), make (3)
 > **File Paths:** new.php (7), edit.php (3), index.php (2), create.php (1)
 > **UI Navigation:** click on (3), checkbox (1)
@@ -4074,12 +4051,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MySQL introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980)
+#### [MySQL introduction](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=0)** - [Instructor] We've learned to use PHP to build pages, which link to other pages and to create web forms, which could submit and process data.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=0)** - [Instructor] We've learned to use [[PHP]] to build pages, which link to other pages and to create web [[Forms]], which could submit and process data.
 >
 > **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=8)** You can build a solid dynamic website using only these tools.
 >
@@ -4087,13 +4063,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=17)** Adding a database is the next step and it offers many benefits.
 >
-> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=21)** Databases provide a way to both read and write data.
+> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=21)** [[Databases]] provide a way to both read and write data.
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=25)** They allow you to store more information and to keep that information organized so that you can access it faster.
 >
 > **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=32)** They also allow you to easily relate different types of data to each other.
 >
-> **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=37)** The database we'll be using is MySQL.
+> **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=37)** The database we'll be using is [[MySQL]].
 >
 > **[0:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=39)** You can use other databases with PHP, but MySQL is the best supported and the most common choice.
 >
@@ -4103,7 +4079,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=55)** And it provides a good introduction to many common database concepts.
 >
-> **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=59)** If you've never worked with a database before, chances are that you have worked with a spreadsheet like Microsoft Excel.
+> **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=59)** If you've never worked with a database before, chances are that you have worked with a spreadsheet like [[Microsoft Excel]].
 >
 > **[1:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=65)** A database table is similar to a spreadsheet, and then it has columns and rows, which are populated with data.
 >
@@ -4153,11 +4129,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=165)** And since there'll be many records of that type in the table, it's usually a plural noun.
 >
-> **[2:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=169)** For example, products, customers, orders, maybe countries, students or transactions.
+> **[2:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=169)** For example, [[Microsoft Products|products]], customers, orders, maybe countries, students or transactions.
 >
 > **[2:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=175)** They don't have to be concrete nouns.
 >
-> **[2:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=177)** They can represent more abstract ideas like categories, favorites or settings, Relational databases get their power from being able to make relationships between the tables.
+> **[2:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=177)** They can represent more abstract ideas like categories, favorites or settings, [[Relational Databases]] get their power from being able to make relationships between the tables.
 >
 > **[3:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980&t=188)** A single customer record in the customer's table has a relationship to the customer's past orders, which are stored in the orders table.
 >
@@ -4245,7 +4221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), data (14), [[Databases]] (9), [[PHP]] (4), [[MySQL]] (4)
+> **Frameworks & Libraries:** [[Databases]] (9), [[PHP]] (4), [[MySQL]] (4), [[Microsoft Products|Products]] (4), [[Relational Databases]] (3)
 > **CLI Commands:** php (4), mysql (4), find (2), make (1)
 > **Analogies:** for example (4), similar to (3), just like (1)
 > **Env Vars:** php (4)
@@ -4254,16 +4230,15 @@ created: 2026-05-02
 > **URLs:** [email.com](https://email.com) (1)
 > **Cross-References:** we discussed (1)
 
-#### Create a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980)
+#### [Create a database](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=0)** - [Instructor] In this movie, we're going to log into MySQL and create our first database.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=0)** - [Instructor] In this movie, we're going to log into [[MySQL]] and create our first database.
 >
 > **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=5)** In order to interact with MySQL, we're going to do that from our command line program.
 >
-> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=9)** If you're on windows, that program is going to be Command Prompt, on Mac, it's going to be the Terminal.
+> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=9)** If you're on [[Windows]], that program is going to be Command Prompt, on Mac, it's going to be the Terminal.
 >
 > **[0:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=14)** So here I am inside my Terminal application, and the first thing we want to do is make sure that we have MySQL installed.
 >
@@ -4297,7 +4272,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=87)** What are the commands that we want to issue?
 >
-> **[1:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=89)** There are four main commands we need to know about creating databases.
+> **[1:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=89)** There are four main commands we need to know about creating [[Databases]].
 >
 > **[1:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-14190436?u=76281980&t=93)** The first is SHOW DATABASES; and that just simply shows us a list of the databases that are already there.
 >
@@ -4395,7 +4370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (34), [[MySQL]] (20), [[Databases]] (10), hit (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (20), [[Databases]] (10), [[Windows]] (1)
 > **Env Vars:** database (5), show (4), databases (4), drop (3), create (2)
 > **CLI Commands:** mysql (20), make (3)
 > **Code Identifiers:** globe_bank (3), db_name (2)
@@ -4404,8 +4379,7 @@ created: 2026-05-02
 > **Versions:** version 5 (1)
 > **Cross-References:** go back to (1)
 
-#### Create a database table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980)
+#### [Create a database table](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4413,7 +4387,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=3)** And now we're ready to add our first table to that database.
 >
-> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=7)** The way that you create a table in MySQL is using this syntax: CREATE TABLE, and then the table name you want to create; and then inside parentheses, you're going to provide a set of definitions for what the columns in that table are going to look like.
+> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=7)** The way that you create a table in [[MySQL]] is using this syntax: CREATE TABLE, and then the table name you want to create; and then inside parentheses, you're going to provide a set of definitions for what the columns in that table are going to look like.
 >
 > **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=21)** So you have column_name1 and then its definition, a comma, and then column_name2 and its definition, and so on.
 >
@@ -4421,7 +4395,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=31)** We'll look at this in more detail.
 >
-> **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=33)** Once you've created the table, then you can show the tables, just like we showed databases.
+> **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=33)** Once you've created the table, then you can show the tables, just like we showed [[Databases]].
 >
 > **[0:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=38)** We can call SHOW TABLES to know what the tables are.
 >
@@ -4435,7 +4409,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=59)** We're going to create a table for subjects.
 >
-> **[1:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=62)** It's going to be a place to hold all of the subjects that we need in our content management system.
+> **[1:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=62)** It's going to be a place to hold all of the subjects that we need in our [[Content Management]] system.
 >
 > **[1:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=67)** We know that it's going to need a primary key, that's the ID.
 >
@@ -4541,7 +4515,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=292)** All right, so now let's create our subjects' table.
 >
-> **[4:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=294)** I'm going to paste in the SQL for this.
+> **[4:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=294)** I'm going to paste in the [[SQL]] for this.
 >
 > **[4:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/create-a-database-table-14190422?u=76281980&t=296)** You can also find this in the exercise files if you want to copy and paste it from there.
 >
@@ -4579,7 +4553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[MySQL]] (8), [[Databases]] (3), data (2), next (2)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[Databases]] (3), [[Content Management]] (1), [[SQL]] (1)
 > **Env Vars:** show (8), tables (6), table (3), create (2), tinyint (2)
 > **CLI Commands:** mysql (8), make (5), find (1)
 > **Code Identifiers:** menu_name (4), globe_bank (2), auto_increment (1)
@@ -4588,16 +4562,15 @@ created: 2026-05-02
 > **Cross-References:** in the last (2)
 > **Analogies:** just like (2)
 
-#### CRUD in MySQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980)
+#### [CRUD in MySQL](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=0)** - [Instructor] At the beginning of this chapter, I introduced you to this acronym, CRUD, C-R-U-D.
 >
-> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=6)** In this movie, we're going to learn how you implement CRUD in MySQL.
+> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=6)** In this movie, we're going to learn how you implement CRUD in [[MySQL]].
 >
-> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=11)** You recall that CRUD is an acronym for the four most basic operations that we perform on databases, create, read, update and delete.
+> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=11)** You recall that CRUD is an acronym for the four most basic operations that we perform on [[Databases]], create, read, update and delete.
 >
 > **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=20)** And these are the four things that we're going to do over and over and over again with MySQL.
 >
@@ -4645,7 +4618,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=120)** But we're going to just focus on the basics because for now.
 >
-> **[2:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=123)** This is a basic SQL select statement.
+> **[2:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=123)** This is a basic [[SQL]] select statement.
 >
 > **[2:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/crud-in-mysql-14185929?u=76281980&t=126)** Next, have the SQL insert statement, which is used to create records.
 >
@@ -4701,19 +4674,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (4), data (4), next (4), [[SQL]] (4), database (3)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[SQL]] (4), [[Databases]] (1)
 > **Env Vars:** sql (4), crud (3)
 > **CLI Commands:** mysql (4)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Populate a MySQL table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/populate-a-mysql-table-14191268?u=76281980)
+#### [Populate a MySQL table](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/populate-a-mysql-table-14191268?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/populate-a-mysql-table-14191268?u=76281980&t=0)** - [Instructor] In the previous movie, we learned the syntax that we use to create, read, update, and delete records in MySQL.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/populate-a-mysql-table-14191268?u=76281980&t=0)** - [Instructor] In the previous movie, we learned the syntax that we use to create, read, update, and delete records in [[MySQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/populate-a-mysql-table-14191268?u=76281980&t=7)** Let's start adding data to our subject's table and take our new MySQL commands out for a test drive.
 >
@@ -4897,7 +4869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[MySQL]] (6), database (6), data (3), next (3)
+> **Frameworks & Libraries:** [[MySQL]] (6)
 > **CLI Commands:** mysql (6), make (4), find (2)
 > **Definitions:** means that (1), is a  (1)
 > **Best Practices:** good practice (2)
@@ -4905,8 +4877,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relational database tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980)
+#### [Relational database tables](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4968,7 +4939,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=130)** So you can see here that we have a column called subject_id and it has a value of three and that matches up with the primary key over in the subjects table.
 >
-> **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=139)** So now whenever we have a page and we want to know its subject, we can ask MySQL, hey MySQL, go look for the subject whose ID is the same as my subject ID, in this case three.
+> **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=139)** So now whenever we have a page and we want to know its subject, we can ask [[MySQL]], hey MySQL, go look for the subject whose ID is the same as my subject ID, in this case three.
 >
 > **[2:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=151)** And it works the other way around as well.
 >
@@ -4978,7 +4949,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=167)** In order to make it work, all we have to do is add that extra column, the column that contains the foreign key that relates to the other table.
 >
-> **[2:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=176)** And then we can use it as we're constructing our SQL queries.
+> **[2:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=176)** And then we can use it as we're constructing our [[SQL]] queries.
 >
 > **[2:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/relational-database-tables-14192191?u=76281980&t=179)** There's one other important point about foreign keys, which is that foreign keys really ought to have an index on them as well.
 >
@@ -5004,7 +4975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[MySQL]] (3), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[SQL]] (1)
 > **CLI Commands:** make (4), mysql (3), find (1)
 > **Env Vars:** sql (1), alter (1), table (1), add (1), index (1)
 > **Analogies:** imagine (3)
@@ -5013,14 +4984,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Pages table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980)
+#### [Challenge: Pages table](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=0)** - [Instructor] It's time for another challenge assignment.
 >
-> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=8)** So far in this chapter, we've been learning how to use MySQL to create tables and populate them with data.
+> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=8)** So far in this chapter, we've been learning how to use [[MySQL]] to create tables and populate them with data.
 >
 > **[0:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=14)** We've been doing that using our subjects table.
 >
@@ -5094,9 +5064,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=163)** So you'll need to find out what subject has that name.
 >
-> **[2:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=167)** You can look in the subject's table, use your SQL to do it to know what subject it is.
+> **[2:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=167)** You can look in the subject's table, use your [[SQL]] to do it to know what subject it is.
 >
-> **[2:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=172)** And then, you want to relate the rest of the page information to that subject.
+> **[2:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=172)** And then, you want to relate the [[Representational State Transfer (REST)|rest]] of the page information to that subject.
 >
 > **[2:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=178)** Then you can use those menu names, the positions and the visible.
 >
@@ -5118,13 +5088,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=218)** You can just use SQL select all day long and just read data back from the database, try different things and get used to it.
 >
-> **[3:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=224)** This is your opportunity to get familiar with how MySQL and relational databases work.
+> **[3:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=224)** This is your opportunity to get familiar with how MySQL and [[Relational Databases]] work.
 >
 > **[3:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-table-14189451?u=76281980&t=229)** In the next movie, I'll show you the solution that I came up with, good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (8), data (4), database (4), [[SQL]] (3), hit (1)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** mysql (8), make (7), find (2)
 > **Env Vars:** sql (3), crud (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -5133,8 +5103,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Pages table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980)
+#### [Solution: Pages table](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5146,9 +5115,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=14)** The first thing I'm going to do is go into my command line application.
 >
-> **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=17)** That's command prompt on Windows, or terminal on a Mac.
+> **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=17)** That's command prompt on [[Windows]], or terminal on a Mac.
 >
-> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=21)** And I'm going to use mysql dash U root dash P to login with my password as the root user.
+> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=21)** And I'm going to use [[MySQL]] dash U root dash P to login with my password as the root user.
 >
 > **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=29)** I'm also going to add another option here, which is Globe Bank.
 >
@@ -5216,7 +5185,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=184)** The History page also belongs to that same subject and the Leadership page.
 >
-> **[3:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=188)** But if we scroll down here, you'll see that the Banking page belongs to a different subject, the subject with ID 2, and so on.
+> **[3:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=188)** But if we scroll down here, you'll see that the [[Banking]] page belongs to a different subject, the subject with ID 2, and so on.
 >
 > **[3:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-table-14186819?u=76281980&t=196)** So I populated each and every one of those.
 >
@@ -5270,7 +5239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MySQL]] (3), hit (2), leadership (2), application (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[Windows]] (1), [[Banking]] (1)
 > **CLI Commands:** make (4), mysql (3), find (3)
 > **Env Vars:** varchar (1), int (1), tinyint (1), text (1)
 > **Tools:** command line (2), command prompt (1), terminal (1)
@@ -5284,14 +5253,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Database APIs in PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980)
+#### [Database APIs in PHP](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=0)** - [Instructor] In this chapter, we will learn how to use PHP to issue database commands.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=0)** - [Instructor] In this chapter, we will learn how to use [[PHP]] to issue database commands.
 >
-> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=4)** PHP offers three different ways to connect to the MySQL database.
+> **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=4)** PHP offers three different ways to connect to the [[MySQL]] database.
 >
 > **[0:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=10)** API is the technical term for each of these connection options.
 >
@@ -5339,7 +5307,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=118)** PDO is not pre-configured for MySQL.
 >
-> **[2:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=120)** And that's because it supports a variety of other databases.
+> **[2:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=120)** And that's because it supports a variety of other [[Databases]].
 >
 > **[2:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980&t=124)** So if you want to use something besides MySQL, or maybe you're not sure, maybe you want to switch in the future, then PDO might be the right answer for you.
 >
@@ -5393,7 +5361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (12), [[PHP]] (8), api (6), database (5), [[Programming]] (4)
+> **Frameworks & Libraries:** [[MySQL]] (12), [[PHP]] (8), [[Databases]] (1)
 > **CLI Commands:** mysql (12), php (8), make (1), find (1)
 > **Env Vars:** php (8), api (6), pdo (6), mysqli (1)
 > **Definitions:** stands for (2), is an  (1), basically means (1), is a  (1)
@@ -5401,16 +5369,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to MySQL with PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980)
+#### [Connect to MySQL with PHP](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980&t=0)** - [Illustrator] In this movie, we'll learn how to use PHPs, MySQLi API to connect to our database.
 >
-> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980&t=7)** There are five fundamental steps to getting PHP to interact with the database.
+> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980&t=7)** There are five fundamental steps to getting [[PHP]] to interact with the database.
 >
-> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980&t=11)** The first is that we need to create a database connection, that's essentially like logging in to MySQL.
+> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980&t=11)** The first is that we need to create a database connection, that's essentially like logging in to [[MySQL]].
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?u=76281980&t=17)** Once we're logged in, then we can perform a database query.
 >
@@ -5582,7 +5549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (27), [[PHP]] (13), [[MySQL]] (6), data (4), api (2)
+> **Frameworks & Libraries:** [[PHP]] (13), [[MySQL]] (6)
 > **CLI Commands:** php (13), make (8), mysql (6)
 > **Env Vars:** php (9), api (2)
 > **Code Identifiers:** mysqli_connect (3), db_connect (3), db_disconnect (2), mysqli_close (1), globe_bank (1)
@@ -5591,14 +5558,13 @@ created: 2026-05-02
 > **Best Practices:** best practice (2), recommended (1), good practice (1)
 > **UI Navigation:** go to (2), click on (1)
 
-#### Retrieve data
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980)
+#### [Retrieve data](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=0)** - [Instructor] Now that we know how to connect to the database, in this movie, we will learn to retrieve data using the MySQLi API.
 >
-> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=7)** In the last movie, we talked about the five essential steps for PHP database interaction.
+> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=7)** In the last movie, we talked about the five essential steps for [[PHP]] database interaction.
 >
 > **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=12)** And in the last movie, we learned about number one and number five, creating the connection and closing it when we're done.
 >
@@ -5618,7 +5584,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=52)** And the second argument then is the query itself.
 >
-> **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=55)** This is the actual SQL code, the kind of thing that we were typing directly into MySQL before.
+> **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=55)** This is the actual [[SQL]] code, the kind of thing that we were typing directly into [[MySQL]] before.
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=61)** So it might be a SELECT statement, a CREATE statement, UPDATE, DELETE, or something else.
 >
@@ -5646,7 +5612,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=124)** But if you're retrieving a thousand customers from the database, then it starts to be a big deal.
 >
-> **[2:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=128)** Or if you have hundreds of users who are all coming to your production server and they're all asking for a thousand records from the database every few seconds, well then, the memory management starts to be a very big deal.
+> **[2:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=128)** Or if you have hundreds of users who are all coming to your production server and they're all asking for a thousand records from the database every few seconds, well then, the [[Memory Management]] starts to be a very big deal.
 >
 > **[2:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=140)** It can have major impacts on the memory requirements for your website, as well as the overall performance.
 >
@@ -5796,7 +5762,7 @@ created: 2026-05-02
 >
 > **[7:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=456)** So we're just going to find them.
 >
-> **[7:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=457)** The rest of the page will render as it did before and then we'll dispose of that at the end.
+> **[7:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=457)** The [[Representational State Transfer (REST)|rest]] of the page will render as it did before and then we'll dispose of that at the end.
 >
 > **[7:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/retrieve-data-14188572?u=76281980&t=461)** Let's try it just to make sure we didn't blow anything up in the process, though.
 >
@@ -5812,7 +5778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[PHP]] (10), [[SQL]] (8), data (7), [[MySQL]] (6)
+> **Frameworks & Libraries:** [[PHP]] (10), [[SQL]] (8), [[MySQL]] (6), [[Memory Management]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (7), php (6), select (5), api (2), create (2)
 > **CLI Commands:** php (10), mysql (6), make (6), find (3)
 > **Code Identifiers:** mysqli_query (5), mysqli_free_result (2), query_functions (2), find_all_subjects (2), mysql_free_result (1)
@@ -5821,12 +5787,11 @@ created: 2026-05-02
 > **File Paths:** index.php (2), query_functions.php (1)
 > **UI Navigation:** go to (2)
 
-#### Work with retrieved data
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980)
+#### [Work with retrieved data](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=0)** - [Instructor] We've learned how to use PHP to connect the MySQL database and how to query the database to get back a result set.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=0)** - [Instructor] We've learned how to use [[PHP]] to connect the [[MySQL]] database and how to query the database to get back a result set.
 >
 > **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=6)** In this movie, we're going to learn the options we have for working with those results sets.
 >
@@ -5864,7 +5829,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=118)** The reason why is because it has to make one additional query to the database in order to get back those column names to build the association.
 >
-> **[2:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=125)** So, it does take just a moment more while it does a quick SQL query, but, it's worth it to make the data much easier to work with.
+> **[2:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=125)** So, it does take just a moment more while it does a quick [[SQL]] query, but, it's worth it to make the data much easier to work with.
 >
 > **[2:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=133)** And then there's a third option, mysqli_fetch_array and what it does, is it returns both types of arrays or, either one, the reason why is because you can configure it, by default, it returns both, but you can also pass in a constant that'll tell it that you just want the rows simple arrays or that you want back the associative arrays instead.
 >
@@ -5882,7 +5847,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=191)** Once I know how many rows there are, I could write a for-loop that would loop through them.
 >
-> **[3:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=195)** So you can see that I initialize the for-loop with i equal to zero, then while i is less than the count, we're going to keep going, we're going to increment it each time and every time through the loop, we're going to call mysqli fetch association on that result set.
+> **[3:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=195)** So you can see that I initialize the for-loop with i equal to zero, then while i is less than the count, we're going to keep going, we're going to increment it each time and every time through the loop, we're going to call mysqli [[Fetch]] association on that result set.
 >
 > **[3:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/work-with-retrieved-data-14189435?u=76281980&t=210)** We're going to grab another row and assign it to the variable subject.
 >
@@ -5938,7 +5903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (6), [[Fetch]] (5), next (4), [[PHP]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[PHP]] (2), [[MySQL]] (1), [[SQL]] (1)
 > **CLI Commands:** find (6), php (2), make (2), mysql (1)
 > **Code Identifiers:** mysqli_fetch_array (3), fetch_row (2), mysqli_fetch_row (1), mysqli_fetch_assoc (1), mysqli_num_rows (1)
 > **Env Vars:** php (2), sql (1)
@@ -5947,8 +5912,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **File Paths:** index.php (1)
 
-#### Error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980)
+#### [Error handling](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6016,7 +5980,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=158)** And then I went ahead and put good measure, just went ahead and put that error number inside parentheses after it.
 >
-> **[2:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=163)** So I'm just building that up into this string for message, and then I'm calling exit with that message and that's it it'll just stop php cold at that point, it isn't able to make a connection.
+> **[2:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=163)** So I'm just building that up into this string for message, and then I'm calling exit with that message and that's it it'll just stop [[PHP]] cold at that point, it isn't able to make a connection.
 >
 > **[2:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=174)** So we want to add the same thing to our project.
 >
@@ -6058,7 +6022,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=244)** And you can see the error number that it came back was right there.
 >
-> **[4:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=247)** That's usually not meaningful to you, but sometimes you can Google for that to find out a little more details about what exactly went wrong if you run into a problem.
+> **[4:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=247)** That's usually not meaningful to you, but sometimes you can [[Google]] for that to find out a little more details about what exactly went wrong if you run into a problem.
 >
 > **[4:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=256)** So that handles the possibility that we weren't able to connect to the database at all.
 >
@@ -6066,7 +6030,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=264)** Now what about the possibility when we actually make our database query?
 >
-> **[4:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=267)** What if we submit our SQL and we have a problem getting back data.
+> **[4:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=267)** What if we submit our [[SQL]] and we have a problem getting back data.
 >
 > **[4:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/error-handling-14186816?u=76281980&t=271)** We also want to have some error checking for that.
 >
@@ -6136,7 +6100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[SQL]] (5), data (4), [[PHP]] (3), api (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[PHP]] (3), [[Google]] (1)
 > **Code Identifiers:** mysqli_connect_error (3), confirm_db_connect (3), confirm_result_set (3), mysqli_connect_errno (2), mysqli_query (1)
 > **CLI Commands:** make (6), php (3), find (2)
 > **Env Vars:** sql (3), api (1), select (1)
@@ -6145,8 +6109,7 @@ created: 2026-05-02
 > **File Paths:** database.php (2)
 > **Tools:** firefox (2)
 
-#### Challenge: List pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980)
+#### [Challenge: List pages](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6154,7 +6117,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=6)** - [Instructor] It's time for another challenge assignment.
 >
-> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=9)** Your challenge this time is to take what we've learned in this chapter so that you're able to connect to the database, retrieve records from the pages table, and then use that data to make a list of the key page attributes using PHP.
+> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=9)** Your challenge this time is to take what we've learned in this chapter so that you're able to connect to the database, retrieve records from the pages table, and then use that data to make a list of the key page attributes using [[PHP]].
 >
 > **[0:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=22)** Let's go over the points you want to make sure that you hit.
 >
@@ -6180,7 +6143,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=81)** Remember we do that using a special kind of loop.
 >
-> **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=83)** And then when you're done using the data, free the result set so that MySQL and PHP can have that memory back.
+> **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=83)** And then when you're done using the data, free the result set so that [[MySQL]] and PHP can have that memory back.
 >
 > **[1:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-list-pages-14189455?u=76281980&t=90)** Next, you'll want to confirm that the database connection is being closed.
 >
@@ -6196,7 +6159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), database (4), data (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[MySQL]] (1)
 > **CLI Commands:** make (5), php (5), find (2), mysql (1)
 > **File Paths:** initialize.php (1), index.php (1), query_functions.php (1)
 > **Env Vars:** php (2)
@@ -6205,8 +6168,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: List pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980)
+#### [Solution: List pages](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6236,11 +6198,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=60)** So in order to trigger all this functionality, we need to call the db connect function.
 >
-> **[1:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=64)** And if you remember, I was already doing that at the bottom of initialize.php.
+> **[1:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=64)** And if you remember, I was already doing that at the bottom of initialize.[[PHP]].
 >
 > **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=69)** So any file that loads initialize.php will automatically have a connection to the database that's live and ready to make queries on.
 >
-> **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=77)** Remember, I also called that and assign that handle to this variable db; throughout the rest of my application, it's db that I'm going to be using in order to reference that, not connection.
+> **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=77)** Remember, I also called that and assign that handle to this variable db; throughout the [[Representational State Transfer (REST)|rest]] of my application, it's db that I'm going to be using in order to reference that, not connection.
 >
 > **[1:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=88)** The variables not called connection; that was only inside the function.
 >
@@ -6250,7 +6212,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=99)** It needs to bring in that db variable from the global scope into the function scope so that we can make use of it; otherwise, the function wouldn't be able to see it.
 >
-> **[1:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=107)** I then constructed the SQL here.
+> **[1:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=107)** I then constructed the [[SQL]] here.
 >
 > **[1:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=109)** I broke it in two parts: SELECT * FROM pages space and then on a new line, ORDER BY position ascending, ASC.
 >
@@ -6272,7 +6234,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=160)** Scroll down a bit, and you'll see where I used to have a loop that would loop through using for each; I've replaced it instead with this while loop.
 >
-> **[2:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=169)** So what it's going to do is it's going to go to my page set; it's going to fetch each row out of that page set, make an associative array out of it, and assign it to the variable page.
+> **[2:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=169)** So what it's going to do is it's going to go to my page set; it's going to [[Fetch]] each row out of that page set, make an associative array out of it, and assign it to the variable page.
 >
 > **[2:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-list-pages-14192181?u=76281980&t=178)** And then for the rest of my loop, I'll be able to use page as my variable that I referenced.
 >
@@ -6322,7 +6284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[SQL]] (6), [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (2), application (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[Fetch]] (1)
 > **CLI Commands:** make (8), php (5), find (4)
 > **Env Vars:** sql (5), order (2), asc (2), select (1)
 > **File Paths:** initialize.php (2), functions.php (1), index.php (1)
@@ -6336,12 +6298,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find a single record
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980)
+#### [Find a single record](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=0)** - In the previous chapter, we learned to use PHP to retrieve data from the database.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=0)** - In the previous chapter, we learned to use [[PHP]] to retrieve data from the database.
 >
 > **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=5)** In this chapter, we're going to learn how to use those skills to perform each part of the database CRUD.
 >
@@ -6353,7 +6314,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=25)** The process is similar, but there are a few key differences.
 >
-> **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=28)** It's still going to use an SQL select query, just like we did when finding the list of subjects.
+> **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=28)** It's still going to use an [[SQL]] select query, just like we did when finding the list of subjects.
 >
 > **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=34)** But it's not the same as getting back that full list because we want to limit the results to only a single subject.
 >
@@ -6367,7 +6328,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=63)** My SQL query will still return a result set to us, even though that result set is only going to contain a single record.
 >
-> **[1:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=72)** We still need to use my SQL fetch assoc to extract the row from the result set and turn it into an associative array.
+> **[1:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=72)** We still need to use my SQL [[Fetch]] assoc to extract the row from the result set and turn it into an associative array.
 >
 > **[1:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=79)** But because there's only one row, there will be no need to have a loop to go through them like we did before.
 >
@@ -6469,7 +6430,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=336)** Notice I'm using echo.
 >
-> **[5:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=337)** I'm escaping that value for HTML using h, and I'm calling subject and I'm asking for its menu name.
+> **[5:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=337)** I'm escaping that value for [[HTML]] using h, and I'm calling subject and I'm asking for its menu name.
 >
 > **[5:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980&t=343)** And then I've got a div here with class attributes.
 >
@@ -6555,7 +6516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), database (7), [[Fetch]] (4), data (3), business (3)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Fetch]] (4), [[PHP]] (2), [[HTML]] (1)
 > **CLI Commands:** find (12), make (7), php (2)
 > **Env Vars:** sql (13), php (2), crud (1), html (1)
 > **Code Identifiers:** mysqli_query (3), mysqli_fetch_assoc (1), mysqli_free_result (1)
@@ -6564,14 +6525,13 @@ created: 2026-05-02
 > **Definitions:** in other words (1), means that (1)
 > **Analogies:** just like (1), for example (1)
 
-#### Use form data to create records
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980)
+#### [Use form data to create records](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=0)** - [Instructor] In this movie, we will learn to create new records in the database by using submitted form data.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=5)** Let's start by reminding ourselves what an SQL insert statement looks like.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=5)** Let's start by reminding ourselves what an [[SQL]] insert statement looks like.
 >
 > **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=9)** We have insert into, and then the name of the table we're using, and then in parentheses, we have a comma delimited list of the different columns we're going to be providing values for.
 >
@@ -6607,7 +6567,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=90)** When MySQLI query runs with an insert statement, instead of returning a record set, it returns only true or false, letting you know if it succeeded or failed.
 >
-> **[1:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=99)** Now, when we do a new insert, we don't always know what ID MySQL assigned to that new record.
+> **[1:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=99)** Now, when we do a new insert, we don't always know what ID [[MySQL]] assigned to that new record.
 >
 > **[1:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=105)** And it doesn't return it to us when it returns back about you.
 >
@@ -6637,7 +6597,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=141)** And once I fill it all out, I click create subject.
 >
-> **[2:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=145)** It sends that form over to create.PHP.
+> **[2:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=145)** It sends that form over to create.[[PHP]].
 >
 > **[2:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=148)** Let's remind ourselves that that's what we had done here.
 >
@@ -6649,7 +6609,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=159)** And then down here, you can see that the action on my form is to go to create.PHP.
 >
-> **[2:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=164)** That's different than what we did on some of our other forms.
+> **[2:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=164)** That's different than what we did on some of our other [[Forms]].
 >
 > **[2:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=167)** Later, we learned about single page form submission.
 >
@@ -6661,7 +6621,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=177)** It's just a form processing page.
 >
-> **[2:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=179)** It doesn't display any HTML.
+> **[2:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=179)** It doesn't display any [[HTML]].
 >
 > **[3:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-create-records-14191270?u=76281980&t=181)** All it does is say, hey, was this a post request?
 >
@@ -6891,7 +6851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (16), [[PHP]] (9), database (7), data (4), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (16), [[PHP]] (9), [[MySQL]] (2), [[Forms]] (1), [[HTML]] (1)
 > **Env Vars:** sql (16), php (9), html (1), url (1)
 > **CLI Commands:** php (9), find (6), make (6), mysql (2)
 > **File Paths:** create.php (4), show.php (3), new.php (2)
@@ -6900,14 +6860,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 
-#### Use form data to update records
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980)
+#### [Use form data to update records](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=0)** - [Instructor] In this movie, we'll learn to use submitted form data in order to update records in the database.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=5)** First let's remind ourselves what an SQL update statement looks like, we have update and then table, and then we use set followed by each column and the value we want to provide for that column.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=5)** First let's remind ourselves what an [[SQL]] update statement looks like, we have update and then table, and then we use set followed by each column and the value we want to provide for that column.
 >
 > **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=16)** That's different than what we did with an insert statement.
 >
@@ -6933,7 +6892,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=65)** We give the user a chance to make changes to that data, and then they submit it.
 >
-> **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=69)** In fact, it's really a combination of the work we did on show.php and new.php.
+> **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=69)** In fact, it's really a combination of the work we did on show.[[PHP]] and new.php.
 >
 > **[1:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=75)** On the edit form, we're first going to find the existing subject and display it just like we did with find a single record.
 >
@@ -6985,7 +6944,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=237)** We don't actually need to find the subject here.
 >
-> **[4:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=240)** We're just going to be submitting the data to the forms.
+> **[4:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=240)** We're just going to be submitting the data to the [[Forms]].
 >
 > **[4:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=242)** There's no reason to make another trip to the database here.
 >
@@ -6997,7 +6956,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=279)** And later when we start having errors, we're going to want to be able to redisplay the data the user gave us, so we're going to want to use that same format.
 >
-> **[4:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=286)** So for now, just take my word for it this is going to be a little bit of an improvement.
+> **[4:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=286)** So for now, just take my [[Microsoft Word|word]] for it this is going to be a little bit of an improvement.
 >
 > **[4:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=291)** We're going to just change all these to use that same associative array format, the same thing, we still have the same values we're just gathering them together in an associative array instead of being single variables, let's do that for each one of these.
 >
@@ -7029,7 +6988,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=416)** And then there's one more line I want to add here, that's not strictly necessary, but it's a good, just extra safety measure and that is limit one.
 >
-> **[7:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=425)** I'm only expecting to update one row in the database, so let's tell it to limit it to one, and that way, if I accidentally have a mistake in MySQL somewhere or something, it doesn't, it inadvertently update a whole bunch of subjects.
+> **[7:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=425)** I'm only expecting to update one row in the database, so let's tell it to limit it to one, and that way, if I accidentally have a mistake in [[MySQL]] somewhere or something, it doesn't, it inadvertently update a whole bunch of subjects.
 >
 > **[7:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/use-form-data-to-update-records-14185935?u=76281980&t=437)** The worst thing it can do is update one row in the database.
 >
@@ -7095,7 +7054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[PHP]] (11), data (7), [[SQL]] (6), [[MySQL]] (3)
+> **Frameworks & Libraries:** [[PHP]] (11), [[SQL]] (6), [[MySQL]] (3), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (11), find (10), make (9), mysql (3)
 > **File Paths:** show.php (5), edit.php (3), new.php (2), create.php (1)
 > **Env Vars:** sql (6), where (1), url (1)
@@ -7104,12 +7063,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **SQL:** where (1)
 
-#### Form options from database data
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980)
+#### [Form options from database data](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=0)** - [Instructor] In the last two movies, we learned to create an edit records using FormData, but there was a problem with the forms that we were using.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=0)** - [Instructor] In the last two movies, we learned to create an edit records using FormData, but there was a problem with the [[Forms]] that we were using.
 >
 > **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=7)** And in this movie, we're going to learn how to use database data to address it.
 >
@@ -7141,7 +7099,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=53)** Let's look at the code.
 >
-> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=54)** You can see that for the position on the edit.php page, we just have a single option.
+> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=54)** You can see that for the position on the edit.[[PHP]] page, we just have a single option.
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=61)** We're checking to see if that option is checked or not, but we don't loop through multiple options, so we want to change this to be a loop instead.
 >
@@ -7191,7 +7149,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=171)** I'm going to leave them separate.
 >
-> **[2:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=172)** Also, if you know SQL really well, you'll know that SQL also has the ability to just return a count.
+> **[2:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=172)** Also, if you know [[SQL]] really well, you'll know that SQL also has the ability to just return a count.
 >
 > **[2:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/form-options-from-database-data-14185925?u=76281980&t=178)** We can just simply create a query that says, count the records for me and return that count.
 >
@@ -7327,7 +7285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (3), [[PHP]] (3), [[SQL]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[SQL]] (2), [[Forms]] (1)
 > **CLI Commands:** find (6), make (6), php (3)
 > **UI Navigation:** click on (3), go to (2)
 > **File Paths:** edit.php (1), new.php (1), create.php (1)
@@ -7336,18 +7294,17 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **Analogies:** it's like (1), just like (1)
 
-#### Delete a record
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980)
+#### [Delete a record](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=0)** - [Instructor] Throughout this chapter, we've been learning to implement CRUD in PHP.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=0)** - [Instructor] Throughout this chapter, we've been learning to implement CRUD in [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=4)** And we've learned the first three of those, create, read and update.
 >
 > **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=8)** In this movie, we're going to learn how to delete records.
 >
-> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=11)** First, let's refresh our memory about what an SQL delete statement looks like.
+> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=11)** First, let's refresh our memory about what an [[SQL]] delete statement looks like.
 >
 > **[0:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=15)** You see we have delete from, and then the table we want to use to delete from.
 >
@@ -7371,7 +7328,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=59)** You could simply have a link and you click the link and the record gets deleted.
 >
-> **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=63)** Some people like to put JavaScript on that link that pops up a confirm that says, are you sure you want to delete?
+> **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=63)** Some people like to put [[JavaScript]] on that link that pops up a confirm that says, are you sure you want to delete?
 >
 > **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=69)** And then it proceeds to delete.
 >
@@ -7399,7 +7356,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=108)** That's how they move around the site.
 >
-> **[1:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=109)** But they will not submit any forms which are post requests.
+> **[1:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=109)** But they will not submit any [[Forms]] which are post requests.
 >
 > **[1:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delete-a-record-14186818?u=76281980&t=113)** So imagine if a link simply deleted a record in the database.
 >
@@ -7609,7 +7566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[SQL]] (7), database (6), [[Search]] (4), data (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[SQL]] (7), [[JavaScript]] (1), [[Forms]] (1)
 > **CLI Commands:** make (10), php (7), find (6)
 > **Env Vars:** sql (7), crud (4), php (2), url (1)
 > **UI Navigation:** click on (5), scroll down (1)
@@ -7618,8 +7575,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
 
-#### Challenge: Pages CRUD
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980)
+#### [Challenge: Pages CRUD](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7629,7 +7585,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=21)** First, you want to make sure that you can read back a single page.
 >
-> **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=25)** In the last chapter, we already added pages, index.php so you have a list of pages, but now we want to find a single page using its ID.
+> **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=25)** In the last chapter, we already added pages, index.[[PHP]] so you have a list of pages, but now we want to find a single page using its ID.
 >
 > **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=33)** Next, you want to enable our form that we already have for new.php to submit those form values to the database in order to create a new record.
 >
@@ -7657,7 +7613,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=115)** The first bonus challenge is to display subject names anytime you would normally just display a subject_id.
 >
-> **[2:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=123)** Now I'm not talking about on forms here, I'm talking about on index.php and on show.php, instead of just displaying a number instead display the subject name.
+> **[2:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=123)** Now I'm not talking about on [[Forms]] here, I'm talking about on index.php and on show.php, instead of just displaying a number instead display the subject name.
 >
 > **[2:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-pages-crud-14185927?u=76281980&t=133)** It's going to require you to make a trip to the database, to find out that information.
 >
@@ -7681,7 +7637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), database (6), next (2), data (2), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Forms]] (1)
 > **CLI Commands:** php (9), make (5), find (3)
 > **File Paths:** new.php (3), index.php (2), show.php (2), edit.php (2)
 > **Code Identifiers:** subject_id (3), page_id (1)
@@ -7690,8 +7646,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Solution: Pages CRUD
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980)
+#### [Solution: Pages CRUD](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7705,7 +7660,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=19)** Let's begin by looking at all of the different query functions that I developed.
 >
-> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=23)** And I put those all in the queryfunctions.php file.
+> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=23)** And I put those all in the queryfunctions.[[PHP]] file.
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=25)** You can see, we already had find all pages, but I added one for find by page.
 >
@@ -7713,7 +7668,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=31)** And what it does is it just simply finds from the pages where the ID is equal to that ID.
 >
-> **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=37)** It passes that into MySQL query, It gets back a result set.
+> **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=37)** It passes that into [[MySQL]] query, It gets back a result set.
 >
 > **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=40)** We make sure that it is a result set using our custom function.
 >
@@ -7721,7 +7676,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=46)** We just want to get the values out of that set.
 >
-> **[0:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=48)** So I went ahead and used fetch association to get an associative array, assign that to page, and then I can free up the result and return the page back from the function.
+> **[0:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=48)** So I went ahead and used [[Fetch]] association to get an associative array, assign that to page, and then I can free up the result and return the page back from the function.
 >
 > **[0:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=58)** Then we have insert page.
 >
@@ -7743,7 +7698,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=95)** It also takes an associative array.
 >
-> **[1:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=97)** The SQL is update pages set, and then we take each one of those attributes and its value as pairs.
+> **[1:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=97)** The [[SQL]] is update pages set, and then we take each one of those attributes and its value as pairs.
 >
 > **[1:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=104)** So subject ID equals and then the subject ID that was passed in.
 >
@@ -7781,7 +7736,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=173)** So then further down on this page, we have the ability to display that information, page and the menu name.
 >
-> **[2:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=179)** Make sure that you escape these values with HTML escape as well.
+> **[2:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=179)** Make sure that you escape these values with [[HTML]] escape as well.
 >
 > **[3:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=183)** So I've got menu name, position, visible content, et cetera.
 >
@@ -7887,7 +7842,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=402)** Now that completes the bonus assignment and it makes those pages work well.
 >
-> **[6:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=406)** But what about our forms?
+> **[6:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=406)** But what about our [[Forms]]?
 >
 > **[6:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-pages-crud-14191293?u=76281980&t=407)** We also want our forms to have a nice pull down like this so that we can choose between the different subjects instead of having to just enter in a text box, some arbitrary number, which we may not even know.
 >
@@ -7915,7 +7870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (15), [[MySQL]] (4), database (2), [[Forms]] (2), management (1)
+> **Frameworks & Libraries:** [[PHP]] (15), [[MySQL]] (4), [[Forms]] (2), [[Fetch]] (1), [[SQL]] (1)
 > **CLI Commands:** php (15), find (12), make (8), mysql (4)
 > **File Paths:** index.php (5), delete.php (4), new.php (3), queryfunctions.php (1), show.php (1)
 > **Env Vars:** crud (2), sql (1), html (1)
@@ -7929,14 +7884,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common data validation types
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980)
+#### [Common data validation types](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=0)** - [Instructor] In this chapter, we will discover the importance of validating data and learn how to write PHP code to do it.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=0)** - [Instructor] In this chapter, we will discover the importance of validating data and learn how to write [[PHP]] code to do it.
 >
-> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=6)** When we accept data from users, especially from forms that users submit, we should not just accept any data that the user gives us.
+> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=6)** When we accept data from users, especially from [[Forms]] that users submit, we should not just accept any data that the user gives us.
 >
 > **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=13)** The data may be the wrong length, it might have the wrong format, or it might be missing a value altogether.
 >
@@ -7976,7 +7930,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=105)** We can also validate the format of the data, for example, that an email has the correct format, or that currency has a currency symbol in it, or maybe times that require hours followed by a colon, followed by the minutes.
 >
-> **[1:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=118)** And then if we're working with databases, we often want to validate the uniqueness of the data.
+> **[1:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=118)** And then if we're working with [[Databases]], we often want to validate the uniqueness of the data.
 >
 > **[2:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980&t=123)** For example, if a user gives us a username, we want to check the database and see if that username is already taken.
 >
@@ -8160,7 +8114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[PHP]] (9), next (4), [[Forms]] (2), database (2)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Forms]] (2), [[Databases]] (1)
 > **Code Identifiers:** preg_match (4), is_blank (3), has_inclusion_of (2), in_array (2), validation_functions (1)
 > **CLI Commands:** php (9), make (4), find (2)
 > **Definitions:** is a  (7), means that (2), stands for (2), is called (1), is an  (1)
@@ -8169,8 +8123,7 @@ created: 2026-05-02
 > **File Paths:** initialize.php (2), validation_functions.php (1)
 > **Cross-References:** in the next (2), go back to (1)
 
-#### Validate form values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980)
+#### [Validate form values](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8202,7 +8155,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=67)** That means we need to keep track of errors and report them back to the user.
 >
-> **[1:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=71)** It's important that we report all errors at once in order to provide the best user experience.
+> **[1:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=71)** It's important that we report all errors at once in order to provide the best [[User Experience (UX)|user experience]].
 >
 > **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=77)** So when we go and look at the data, we want to look at all aspects of the data and come up with a tally of everything that's wrong and send that back to the user at once.
 >
@@ -8214,7 +8167,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=106)** We want to present them with all errors at once, let them fix all the errors, and then hopefully submit good data to us the next time.
 >
-> **[1:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=114)** Here I am in the subjects area for edit.php, and right here is where I'm calling update_subject.
+> **[1:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=114)** Here I am in the subjects area for edit.[[PHP]], and right here is where I'm calling update_subject.
 >
 > **[2:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=121)** I'm getting the form values that are submitted here, and I'm actually performing the update right here with this function.
 >
@@ -8230,7 +8183,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=155)** So I'm going to go in and find my update_subject function.
 >
-> **[2:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=158)** And if you look in here, it takes the subject, and right away, it starts the sql that it needs to actually create the subject.
+> **[2:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=158)** And if you look in here, it takes the subject, and right away, it starts the [[SQL]] that it needs to actually create the subject.
 >
 > **[2:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=164)** So before we do that, we need to add some code here that's going to validate our subject.
 >
@@ -8252,7 +8205,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=215)** Return will immediately stop the function.
 >
-> **[3:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=217)** It returns this value back, and none of the rest of the code will execute.
+> **[3:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=217)** It returns this value back, and none of the [[Representational State Transfer (REST)|rest]] of the code will execute.
 >
 > **[3:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/validate-form-values-14190432?u=76281980&t=221)** Now, as I mentioned, the same code needs to take place in both update and in insert.
 >
@@ -8388,7 +8341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (5), next (3), hit (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[User Experience (UX)|User experience]] (1), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** update_subject (6), validate_subject (5), menu_name (3), has_inclusion_of (2), var_dump (1)
 > **CLI Commands:** make (6), find (3), php (1)
 > **File Paths:** edit.php (1)
@@ -8397,8 +8350,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### Display validation errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980)
+#### [Display validation errors](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8432,11 +8384,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=82)** Instead, I give it a label, in this case menu name, that makes it an associative array and that's the label I would use to access it.
 >
-> **[1:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=89)** Then on my HTML page, anytime I want to know what that error is, I can just ask that errors array to return it's menu name.
+> **[1:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=89)** Then on my [[HTML]] page, anytime I want to know what that error is, I can just ask that errors array to return it's menu name.
 >
 > **[1:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=97)** Here you can see I'm using the null-coalescing operator.
 >
-> **[1:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=99)** The double question mark is from PHP seven that basically says if there's a menu name show it, if not, then use an empty string.
+> **[1:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=99)** The double question mark is from [[PHP]] seven that basically says if there's a menu name show it, if not, then use an empty string.
 >
 > **[1:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=107)** You can also check to see whether that value is set instead, if you didn't want to use the null-coalescing operator.
 >
@@ -8458,7 +8410,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=150)** That's really good for debugging, but it's not something we want to use here.
 >
-> **[2:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=154)** If there are errors, then we're going to come down and show the rest of the page.
+> **[2:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=154)** If there are errors, then we're going to come down and show the [[Representational State Transfer (REST)|rest]] of the page.
 >
 > **[2:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/display-validation-errors-14187614?u=76281980&t=158)** We already solved that happens automatically.
 >
@@ -8676,7 +8628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (18), [[HTML]] (6), data (4), database (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[PHP]] (18), [[HTML]] (6), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** php (18), make (5), find (3)
 > **Env Vars:** html (6), php (6), css (1)
 > **File Paths:** new.php (5), create.php (4), edit.php (3)
@@ -8685,8 +8637,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Problems with validation logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/problems-with-validation-logic-14191267?u=76281980)
+#### [Problems with validation logic](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/problems-with-validation-logic-14191267?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8696,7 +8647,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/problems-with-validation-logic-14191267?u=76281980&t=15)** First, I want us to look at some comparisons that I think you're going to find are surprisingly true.
 >
-> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/problems-with-validation-logic-14191267?u=76281980&t=21)** In PHP, if we compare zero with false, it will return true.
+> **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/problems-with-validation-logic-14191267?u=76281980&t=21)** In [[PHP]], if we compare zero with false, it will return true.
 >
 > **[0:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/problems-with-validation-logic-14191267?u=76281980&t=27)** If we compare four against true, it returns true.
 >
@@ -8810,7 +8761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (12), data (2), application (2)
+> **Frameworks & Libraries:** [[PHP]] (12)
 > **CLI Commands:** php (12), make (4), find (2)
 > **Env Vars:** php (12)
 > **Definitions:** is a  (3), is an  (1), means that (1)
@@ -8819,8 +8770,7 @@ created: 2026-05-02
 > **Code Identifiers:** has_string (1), preg_match (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Validations
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980)
+#### [Challenge: Validations](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8840,9 +8790,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=47)** Once you have those validations in place and errors being returned, we'll be ready to display those errors back to the user.
 >
-> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=54)** And you'll do that both on the new.php page and the edit.php page.
+> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=54)** And you'll do that both on the new.[[PHP]] page and the edit.php page.
 >
-> **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=59)** Make sure that on those forms that the user submitted values are redisplayed so that the user has the opportunity to adjust them and make changes before submitting them again.
+> **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=59)** Make sure that on those [[Forms]] that the user submitted values are redisplayed so that the user has the opportunity to adjust them and make changes before submitting them again.
 >
 > **[1:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=68)** And also make sure that all the form options render correctly.
 >
@@ -8858,7 +8808,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=97)** That's going to require making a trip to the database.
 >
-> **[1:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=100)** You're going to have to use everything you've learned about SQL to go to the database and find out if a value already exists there or not.
+> **[1:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=100)** You're going to have to use everything you've learned about [[SQL]] to go to the database and find out if a value already exists there or not.
 >
 > **[1:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/challenge-validations-14190433?u=76281980&t=107)** And then as a final advanced question, I want you to consider what validation might be useful before you deleted a subject record.
 >
@@ -8866,7 +8816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[PHP]] (2), database (2), [[Forms]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Forms]] (1), [[SQL]] (1)
 > **CLI Commands:** make (6), php (2), find (1)
 > **File Paths:** new.php (1), edit.php (1)
 > **Definitions:** is called (1), is a  (1)
@@ -8875,8 +8825,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** don't forget (1)
 
-#### Solution: Validations
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980)
+#### [Solution: Validations](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8904,7 +8853,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=52)** And then for the content, I'm just going to make sure that the content is not blank.
 >
-> **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=55)** Now, the content is a text field and in MySQL text field can have almost unlimited content.
+> **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=55)** Now, the content is a text field and in [[MySQL]] text field can have almost unlimited content.
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=61)** You can put tons and tons of stuff in there it's not limited to just 255 characters.
 >
@@ -8936,7 +8885,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=120)** Once I had my validation written and I had my insert page and update page functions using it, then I just needed to jump over to the pages themselves to make sure that everything would work there.
 >
-> **[2:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=131)** So on new.php, you can see that I'm checking to see if the result is true.
+> **[2:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=131)** So on new.[[PHP]], you can see that I'm checking to see if the result is true.
 >
 > **[2:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=135)** If it is I'm doing the regular thing we were doing, where we're getting back the ID and we're redirecting to the show page.
 >
@@ -8954,7 +8903,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=164)** For the subjects, we were submitting to create.php for a while, just make sure that this is doing a single page form submission, and then take a look at the form to make sure that you are using those values all the way down the page.
 >
-> **[2:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=176)** Make sure that you've got each one in there and also make sure that you're scaping it for html.
+> **[2:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=176)** Make sure that you've got each one in there and also make sure that you're scaping it for [[HTML]].
 >
 > **[3:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=180)** Then I went to the edit.php page and I did the same thing.
 >
@@ -8986,7 +8935,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=264)** And it's a good exercise to do because it teaches you a couple of things.
 >
-> **[4:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=267)** First, it requires us to use our database skills, to create some SQL, to go the database, to query, and then find out the number of rows that we get back.
+> **[4:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=267)** First, it requires us to use our database skills, to create some [[SQL]], to go the database, to query, and then find out the number of rows that we get back.
 >
 > **[4:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/solution-validations-14190441?u=76281980&t=276)** And that gives us a page count.
 >
@@ -9076,7 +9025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[PHP]] (4), [[MySQL]] (2), data (1), business (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (2), [[HTML]] (1), [[SQL]] (1)
 > **CLI Commands:** make (14), php (4), find (4), mysql (2)
 > **Code Identifiers:** menu_name (4), current_id (4), insert_page (1), validate_page (1), has_unique (1)
 > **File Paths:** new.php (2), create.php (1), edit.php (1)
@@ -9090,12 +9039,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand SQL injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980)
+#### [Understand SQL injection](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn how to prevent a critical security issue known as SQL injection.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn how to prevent a critical security issue known as [[SQL]] injection.
 >
 > **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=7)** Let's begin by getting an understanding of what it is.
 >
@@ -9177,9 +9125,9 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=194)** There are lots of things to watch out for when you're developing for the web, but this is the big one.
 >
-> **[3:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=199)** It's consistently ranked the number one security threat by OWASP.
+> **[3:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=199)** It's consistently ranked the number one security threat by [[OWASP]].
 >
-> **[3:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=203)** That's the Open Web Application Security Project.
+> **[3:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=203)** That's the Open [[Web Application Security]] Project.
 >
 > **[3:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=205)** They rank different security threats, and SQLi is always at the top of the list.
 >
@@ -9219,7 +9167,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=296)** Notice that there's a dash dash at the end of the hacker string.
 >
-> **[4:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=299)** That's an SQL comment indicator, and it tells SQL to ignore the rest of the line.
+> **[4:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=299)** That's an SQL comment indicator, and it tells SQL to ignore the [[Representational State Transfer (REST)|rest]] of the line.
 >
 > **[5:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980&t=303)** So the final single quote and closing parenthesis is ignored.
 >
@@ -9231,7 +9179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (25), data (15), [[Security]] (4), database (4), next (2)
+> **Frameworks & Libraries:** [[SQL]] (25), [[OWASP]] (1), [[Web Application Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (25), url (3), ires (1), owasp (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), is called (1)
 > **Analogies:** imagine (3)
@@ -9240,16 +9188,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** watch out (1)
 
-#### Sanitize data for SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980)
+#### [Sanitize data for SQL](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=0)** - [Instructor] In the last movie, we learned about SQL injection, and we saw just how bad it can be.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=0)** - [Instructor] In the last movie, we learned about [[SQL]] injection, and we saw just how bad it can be.
 >
 > **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=5)** In this movie, we're going to learn what we can do about it.
 >
-> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=8)** If you think about it, breaking the syntax of SQL is similar to how we solve if we could break the syntax of a URL or HTML for cross-site scripting.
+> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=8)** If you think about it, breaking the syntax of SQL is similar to how we solve if we could break the syntax of a URL or [[HTML]] for cross-site scripting.
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=17)** And the solution here is similar to what it was for both of those.
 >
@@ -9271,7 +9218,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=61)** We need code that will handle the escaping for us.
 >
-> **[1:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=64)** In old versions of PHP, there was a configuration called magic quotes that would try to escape these values for you while they were on their way to MySQL.
+> **[1:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=64)** In old versions of [[PHP]], there was a configuration called magic quotes that would try to escape these values for you while they were on their way to [[MySQL]].
 >
 > **[1:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=71)** Unfortunately, it created more problems than it solved.
 >
@@ -9305,7 +9252,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=134)** Whereas addslashes is available all the time.
 >
-> **[2:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=137)** You can use it with this database or with other databases, but if we're using MySQL, we're much better off using the special mysqli_real_escape_string function.
+> **[2:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=137)** You can use it with this database or with other [[Databases]], but if we're using MySQL, we're much better off using the special mysqli_real_escape_string function.
 >
 > **[2:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/sanitize-data-for-sql-14185936?u=76281980&t=146)** The only problem with the function is the name is super long and we're going to be using it over and over again.
 >
@@ -9539,7 +9486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (18), database (11), data (7), [[MySQL]] (4), [[PHP]] (3)
+> **Frameworks & Libraries:** [[SQL]] (18), [[MySQL]] (4), [[PHP]] (3), [[HTML]] (1), [[Databases]] (1)
 > **Env Vars:** sql (18), url (2), php (2), where (2), html (1)
 > **CLI Commands:** make (6), mysql (4), find (4), php (3)
 > **Code Identifiers:** db_escape (8), mysqli_real_escape_string (6)
@@ -9548,12 +9495,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1)
 > **File Paths:** privatedatabase.php (1)
 
-#### Delimit data values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980)
+#### [Delimit data values](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=0)** - [Instructor] Escaping dynamic data like we did in the previous movie is not the only step that's necessary to prevent SQL injection.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=0)** - [Instructor] Escaping dynamic data like we did in the previous movie is not the only step that's necessary to prevent [[SQL]] injection.
 >
 > **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=7)** In this movie, we'll discuss the importance of delimiting your database data using single quotes.
 >
@@ -9591,7 +9537,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=92)** One semi-colon and then drop table payments.
 >
-> **[1:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=96)** When that gets assembled together, it'll be escaped by MySQL real escape string.
+> **[1:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=96)** When that gets assembled together, it'll be escaped by [[MySQL]] real escape string.
 >
 > **[1:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=101)** That'll go through and put a backslash in front of any characters that have special meaning.
 >
@@ -9615,7 +9561,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=160)** Let me show you another one.
 >
-> **[2:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=161)** Let's say that instead of escaping our data, that instead I told PHP that it should typecast that value as being an integer.
+> **[2:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=161)** Let's say that instead of escaping our data, that instead I told [[PHP]] that it should typecast that value as being an integer.
 >
 > **[2:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/delimit-data-values-14189436?u=76281980&t=169)** That's going to force it to be a number.
 >
@@ -9645,19 +9591,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (12), data (8), database (2), [[PHP]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[SQL]] (12), [[PHP]] (2), [[MySQL]] (1)
 > **Env Vars:** sql (12), php (2), url (1)
 > **CLI Commands:** php (2), mysql (1)
 > **Definitions:** means that (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepared statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980)
+#### [Prepared statements](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=0)** - [Instructor] Prepared statements are a feature of MySQL and many other databases.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=0)** - [Instructor] Prepared statements are a feature of [[MySQL]] and many other [[Databases]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=4)** They are an advanced concept, but I think it's worthwhile to introduce them so that you can understand what they are.
 >
@@ -9683,13 +9628,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=53)** More importantly, prepared statements separate the query from the dynamic data.
 >
-> **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=59)** This completely eliminates the possibility of SQL injection and the need to escape dynamic data.
+> **[0:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=59)** This completely eliminates the possibility of [[SQL]] injection and the need to escape dynamic data.
 >
 > **[1:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=64)** The blanks where the data goes are clearly defined and an attacker can't break out of them to add extra SQL.
 >
 > **[1:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=70)** The code and the data are kept separate.
 >
-> **[1:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=74)** As I said, we aren't going to be using these in the tutorial, but they've come into common usage in PHP.
+> **[1:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=74)** As I said, we aren't going to be using these in the tutorial, but they've come into common usage in [[PHP]].
 >
 > **[1:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/prepared-statements-14191292?u=76281980&t=79)** So you should at least recognize them.
 >
@@ -9747,7 +9692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (5), [[MySQL]] (3), database (3), [[PHP]] (3)
+> **Frameworks & Libraries:** [[SQL]] (5), [[MySQL]] (3), [[PHP]] (3), [[Databases]] (2)
 > **CLI Commands:** mysql (3), make (3), php (3)
 > **Env Vars:** sql (5), php (3)
 > **Exercise Files:** template (5)
@@ -9760,18 +9705,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=0)** - [Kevin] I would like to thank you for taking PHP with MySQL Essential Training part one with me.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=0)** - [Kevin] I would like to thank you for taking [[PHP]] with [[MySQL]] Essential Training part one with me.
 >
 > **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=5)** We covered a lot of techniques together.
 >
-> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=7)** We learned how to organize PHP pages, how to send and read values in the URL string, how to create and process forms, how to perform basic CRUD operations on the database, and how to validate and sanitize dynamic data.
+> **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=7)** We learned how to organize PHP pages, how to send and read values in the URL string, how to create and process [[Forms]], how to perform basic CRUD operations on the database, and how to validate and sanitize dynamic data.
 >
-> **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=20)** Together, these techniques are the building blocks for web development with PHP and MySQL.
+> **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=20)** Together, these techniques are the building blocks for [[Web Development]] with PHP and MySQL.
 >
 > **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=26)** In fact, you should have the tools you need now to create the public site.
 >
@@ -9781,7 +9725,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=37)** This course also continues in part two.
 >
-> **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=40)** And in part two, I will demonstrate how to build that public area, including features like page navigation and techniques for managing HTML content in the database.
+> **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=40)** And in part two, I will demonstrate how to build that public area, including features like page navigation and techniques for managing [[HTML]] content in the database.
 >
 > **[0:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980&t=49)** I'll show you how to nest the admin area for our pages underneath the subject.
 >
@@ -9795,7 +9739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), database (3), [[MySQL]] (2), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[MySQL]] (2), [[Forms]] (1), [[Web Development]] (1), [[HTML]] (1)
 > **Env Vars:** php (3), url (1), crud (1), html (1)
 > **CLI Commands:** php (3), mysql (2)
 > **Cross-References:** we covered (1)

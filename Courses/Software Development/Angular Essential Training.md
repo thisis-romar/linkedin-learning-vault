@@ -105,12 +105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More than just a framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980)
+#### [More than just a framework](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980&t=0)** - Maybe you just joined a team already building an Angular project or maybe you're about to start a side hustle and think Angular would be a great choice to use as your framework.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980&t=0)** - Maybe you just joined a team already building an [[Angular]] project or maybe you're about to start a side hustle and think Angular would be a great choice to use as your framework.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980&t=9)** Either way, I think you'll like this course.
 >
@@ -126,43 +125,41 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), application (1)
+> **Frameworks & Libraries:** [[Angular]] (5)
 > **Speakers:** - maybe (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have a good idea of what TypeScript is and how it works.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=5)** Because we write Angular code using TypeScript.
+> **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=5)** Because we write [[Angular]] code using TypeScript.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=8)** You should also know how to write HTML and CSS because we use those languages when writing Angular components.
+> **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=8)** You should also know how to write [[HTML]] and CSS because we use those languages when writing Angular components.
 >
-> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=15)** It's a good idea to know how to use npm because Angular uses Node and npm under the hood to help streamline your project's workflow.
+> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=15)** It's a good idea to know how to use [[npm]] because Angular uses Node and npm under the hood to help streamline your project's workflow.
 >
 > **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=22)** You can always check out our course library for more info on TypeScript, NTML, CSS, and Node.
 >
 > **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=27)** Angular comes with full support for all modern browsers and operating systems.
 >
-> **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=31)** I'll use Google Chrome and Mac OS during this course because that's what I'm most comfortable with.
+> **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=31)** I'll use [[Google]] Chrome and Mac OS during this course because that's what I'm most comfortable with.
 >
 > **[0:36](https://www.linkedin.com/learning/angular-essential-training-22884621/what-you-should-know?u=76281980&t=36)** But you can use any browser and operating system that works well for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), css (2), [[npm]] (2), node (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[npm]] (2), [[HTML]] (1), [[Google]] (1)
 > **CLI Commands:** npm (2), node (2)
 > **Env Vars:** css (2), html (1), ntml (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the example code and codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980)
+#### [Using the example code and codespaces](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=0)** - [Speaker] In this course, we'll look at all the essential skills and techniques you need when building an angular application at any size.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=0)** - [Speaker] In this course, we'll look at all the essential skills and techniques you need when building an [[Angular]] application at any size.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=6)** I organized this course by topic, so feel free to skip around and watch the content that's most relevant for you or watch all the way through start to finish for a full rundown of all the essential skills and techniques.
 >
@@ -174,13 +171,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=33)** Official documentation is the best source for up-to-date info on everything covered in this course.
 >
-> **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=39)** You can also follow along using the example code which we host on GitHub at this URL.
+> **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=39)** You can also follow along using the example code which we host on [[GitHub]] at this URL.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=45)** There's only one branch in this repo, the main branch and all the videos in this course use the same code.
 >
 > **[0:51](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=51)** Feel free to make new branches to explore on your own.
 >
-> **[0:54](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=54)** While you could clone the repo to your local machine, I recommend using GitHub's Codespaces instead, if you can.
+> **[0:54](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=54)** While you could clone the repo to your local machine, I recommend using GitHub's [[Codespaces]] instead, if you can.
 >
 > **[1:02](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=62)** Codespaces are secure development environments hosted in the cloud on GitHub's servers.
 >
@@ -224,15 +221,15 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=171)** You should also disable the host check.
 >
-> **[2:53](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=173)** We need to do this because of how Codespace's virtual machines forward ports from inside the container to your browser.
+> **[2:53](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=173)** We need to do this because of how Codespace's [[Virtual Machines]] forward ports from inside the container to your browser.
 >
-> **[3:01](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=181)** I updated the npm start command to do this for you.
+> **[3:01](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=181)** I updated the [[npm]] start command to do this for you.
 >
 > **[3:03](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=183)** Let me show you what that looks like.
 >
 > **[3:06](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=186)** I'll open up a new terminal here in our Codespace, type npm start, and then hit enter.
 >
-> **[3:14](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=194)** Angular CLI will compile the code and launch the server.
+> **[3:14](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=194)** [[Angular CLI]] will compile the code and launch the server.
 >
 > **[3:19](https://www.linkedin.com/learning/angular-essential-training-22884621/using-the-example-code-and-codespaces?u=76281980&t=199)** This alert here in the lower right hand corner tells me I have a successful connection to the dev server.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[Codespaces]] (6), power (2), [[npm]] (2), [[Angular]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Codespaces]] (6), [[npm]] (2), [[Angular]] (1), [[Virtual Machines]] (1)
 > **Tools:** github (9), visual studio (2), vs code (1), terminal (1)
 > **CLI Commands:** make (5), npm (2), find (1)
 > **Env Vars:** url (2), cli (1)
@@ -263,8 +260,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Prerequisites:** you'll need (1), set up (1)
 
-#### Application overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980)
+#### [Application overview](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=101)** Let's take a look at the code.
 >
-> **[1:43](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=103)** I opened our project here in a GitHub code space.
+> **[1:43](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=103)** I opened our project here in a [[GitHub]] code space.
 >
 > **[1:46](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=106)** I talk about why we use code spaces earlier in this course.
 >
@@ -318,13 +314,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=114)** At the root of the project folder are all our configuration files.
 >
-> **[1:58](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=118)** This is where we store settings for Angular, NPM, the TypeScript Compiler, and our code editor.
+> **[1:58](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=118)** This is where we store settings for [[Angular]], [[npm]], the TypeScript Compiler, and our code editor.
 >
 > **[2:04](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=124)** We'll talk more about some of these files later in this course.
 >
 > **[2:08](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=128)** The source folder is where we keep all our custom application code.
 >
-> **[2:12](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=132)** I'll go to the source folder and click on index.html to open that file.
+> **[2:12](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=132)** I'll go to the source folder and click on index.[[HTML]] to open that file.
 >
 > **[2:17](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=137)** This file is a pretty standard HTML file.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=206)** Let's take a look at our mock data.
 >
-> **[3:28](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=208)** I'll go to source, assets and click on players.json.
+> **[3:28](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=208)** I'll go to source, assets and click on players.[[JSON]].
 >
 > **[3:33](https://www.linkedin.com/learning/angular-essential-training-22884621/application-overview?u=76281980&t=213)** This file has all the static data that represents the players in our app.
 >
@@ -380,7 +376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), application (5), data (4), game (3), css (3)
+> **Frameworks & Libraries:** [[Angular]] (7), [[HTML]] (2), [[JSON]] (2), [[GitHub]] (1), [[npm]] (1)
 > **UI Navigation:** click on (4), go to (3), navigate to (1), open the (1)
 > **File Paths:** index.html (1), main.ts (1), styles.css (1), players.json (1), messages.json (1)
 > **Env Vars:** css (2), url (1), npm (1), html (1)
@@ -394,20 +390,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### History and ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980)
+#### [History and ownership](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=0)** - Every project starts because there's a problem that needs to be solved.
 >
-> **[0:04](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=4)** Angular is no different.
+> **[0:04](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=4)** [[Angular]] is no different.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=6)** Knowing the history and philosophy of Angular may help you understand why we write Angular code in certain ways.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=12)** Angular started life at Google as a side project to help employees build internal web apps.
+> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=12)** Angular started life at [[Google]] as a side project to help employees build internal web apps.
 >
-> **[0:18](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=18)** What made Angular unique was its focus on extending HTML markup with custom attributes and dynamic content, instead of using JavaScript to generate the HTML at runtime.
+> **[0:18](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=18)** What made Angular unique was its focus on extending [[HTML]] markup with custom attributes and dynamic content, instead of using [[JavaScript]] to generate the HTML at runtime.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980&t=29)** This was a revolutionary way of writing code, and it allowed developers to keep templates separate from controllers.
 >
@@ -423,20 +418,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), [[Google]] (4), [[HTML]] (3), web (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Angular]] (10), [[Google]] (4), [[HTML]] (3), [[JavaScript]] (2)
 > **Env Vars:** html (3)
 > **Speakers:** - every (1)
 
-#### Release and support cycles
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980)
+#### [Release and support cycles](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=0)** - No matter how big your project is, the JavaScript framework you used must be stable and secure.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=0)** - No matter how big your project is, the [[JavaScript]] framework you used must be stable and secure.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=6)** The more stable the framework, the more you and your team can plan long-term releases for your project.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=11)** This is why it's vital, to know the release and support cycles, for the frameworks you might use, including Angular.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=11)** This is why it's vital, to know the release and support cycles, for the frameworks you might use, including [[Angular]].
 >
 > **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=17)** Angular uses semantic versioning, to track changes, and releases.
 >
@@ -474,22 +468,21 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=109)** One more thing to keep in mind.
 >
-> **[1:51](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=111)** The Angular team usually releases a new version, of all their NPM packages, whenever they release a new version of the core framework.
+> **[1:51](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=111)** The Angular team usually releases a new version, of all their [[npm]] packages, whenever they release a new version of the core framework.
 >
 > **[1:58](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=118)** This helps make sure that all the packages work together, and makes it easy to upgrade all of your Angular dependencies at once.
 >
-> **[2:04](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=124)** Using the NG update command, from Angular's official CLI tool.
+> **[2:04](https://www.linkedin.com/learning/angular-essential-training-22884621/release-and-support-cycles?u=76281980&t=124)** Using the NG update command, from Angular's official [[CLI]] tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (11), [[JavaScript]] (1), [[Security]] (1), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Angular]] (11), [[JavaScript]] (1), [[npm]] (1), [[CLI]] (1)
 > **Env Vars:** sem (2), ver (2), npm (1), cli (1)
 > **CLI Commands:** npm (1), make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - no (1)
 
-#### Angular licensing
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980)
+#### [Angular licensing](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,13 +494,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=14)** And some developers release their software into the public domain, which has no restrictions at all.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=19)** The type of license that comes with your JavaScript framework matters.
+> **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=19)** The type of license that comes with your [[JavaScript]] framework matters.
 >
 > **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=22)** This is especially true if you're building an application that includes proprietary code or that end users will pay for.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=29)** Some licenses won't let you do that.
 >
-> **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=31)** Lucky for us, as of this recording, Angular is released under a very permissive license called the MIT license.
+> **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=31)** Lucky for us, as of this recording, [[Angular]] is released under a very permissive license called the MIT license.
 >
 > **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-licensing?u=76281980&t=39)** This license started back in the late 1980s at the Massachusetts Institute of Technology, hence the name, MIT.
 >
@@ -537,17 +530,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), application (1), [[Angular]] (1), open-source (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Angular]] (1)
 > **Env Vars:** mit (7), x11 (1), gnu (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Out of the box
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980)
+#### [Out of the box](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=0)** - The Angular framework was built to solve specific types of problems when it comes to web applications.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=0)** - The [[Angular]] framework was built to solve specific types of problems when it comes to web applications.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=5)** This means a fresh install comes with its own benefits and limitations.
 >
@@ -557,11 +549,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=22)** This makes the website feel more like a native app experience.
 >
-> **[0:26](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=26)** What made Angular unique was its focus on extending HTML Markup, with custom attributes and dynamic content.
+> **[0:26](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=26)** What made Angular unique was its focus on extending [[HTML]] Markup, with custom attributes and dynamic content.
 >
 > **[0:32](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=32)** This was a revolutionary way of writing code, and it allowed developers to keep templates separate from controllers.
 >
-> **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=39)** With many frameworks, developers had to embed the HTML templates inside JavaScript files and manipulate the DOM directly.
+> **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=39)** With many frameworks, developers had to embed the HTML templates inside [[JavaScript]] files and manipulate the DOM directly.
 >
 > **[0:47](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=47)** Some modern frameworks still embrace this strategy, and there's nothing wrong with it.
 >
@@ -569,7 +561,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=53)** Today, Angular is still great for single-page applications, but the ecosystem's evolved.
 >
-> **[0:59](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=59)** Now, there's reusable components, standard libraries, and routing.
+> **[0:59](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=59)** Now, there's reusable components, standard libraries, and [[Routing]].
 >
 > **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/out-of-the-box?u=76281980&t=63)** This is different from other modern frameworks that focus on just building complex user interfaces or maximizing compatibility with other libraries and frameworks.
 >
@@ -579,25 +571,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (2), web (1), [[JavaScript]] (1), dom (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (2), [[JavaScript]] (1), [[Routing]] (1)
 > **Env Vars:** html (2), dom (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - the (1)
 
-#### Workflow and tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980)
+#### [Workflow and tooling](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=0)** - As of this recording, Angular comes with its own ecosystem of developer tools and workflows.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=0)** - As of this recording, [[Angular]] comes with its own ecosystem of developer tools and workflows.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=5)** Many Angular projects use this ecosystem, and all Angular developers should know how it works.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=11)** Angular CLI is the official command line tool for Angular projects.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=11)** [[Angular CLI]] is the official command line tool for Angular projects.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=15)** It's open source and release under the MIT License.
 >
-> **[0:18](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=18)** The Angular team releases a new major version of the CLI tool, when they release a new major version of the framework itself.
+> **[0:18](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=18)** The Angular team releases a new major version of the [[CLI]] tool, when they release a new major version of the framework itself.
 >
 > **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=25)** They release minor and patch versions as needed, independent of the framework.
 >
@@ -613,7 +604,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=51)** There are a lot of commands but here are five I use all the time in my work.
 >
-> **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=56)** ng build to compile code and output files into a bill directory, ng serve to compile code, launch a dev server and watch for file changes, ng generate to add new files using Angular's built-in boilerplates, and finally, ng lint and ng test to run Angular's linting and unit testing tools.
+> **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=56)** ng build to compile code and output files into a bill directory, ng serve to compile code, launch a dev server and watch for file changes, ng generate to add new files using Angular's built-in boilerplates, and finally, ng lint and ng test to run Angular's linting and [[Unit Testing]] tools.
 >
 > **[1:17](https://www.linkedin.com/learning/angular-essential-training-22884621/workflow-and-tooling?u=76281980&t=77)** There are three more tools you should know about in addition to the command line tool.
 >
@@ -635,7 +626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (14), [[CLI]] (3), [[Angular CLI]] (1), [[Unit Testing]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Angular]] (14), [[CLI]] (3), [[Angular CLI]] (1), [[Unit Testing]] (1)
 > **Env Vars:** cli (4), mit (1), ide (1)
 > **Tools:** command line (3), visual studio (1)
 > **Definitions:** is a  (2), is called (1)
@@ -649,18 +640,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Angular decorators
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980)
+#### [Angular decorators](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=0)** - [Instructor] Decorators are functions that return functions.
 >
-> **[0:03](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=3)** They're not specific to the Angular framework, but they are a core piece of all Angular projects.
+> **[0:03](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=3)** They're not specific to the [[Angular]] framework, but they are a core piece of all Angular projects.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=8)** You cannot use Angular without using decorators.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=11)** Decorators in Angular supply metadata about a piece of code telling Angular what the code should do, and how it should inject that code into other parts of the application.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=11)** Decorators in Angular supply [[Metadata]] about a piece of code telling Angular what the code should do, and how it should inject that code into other parts of the application.
 >
 > **[0:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=20)** Decorators are marked by placing an @ symbol in front of the decorator name.
 >
@@ -690,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=96)** It's much easier to find issues in newer versions of Angular because of helpful feedback from the compiler.
 >
-> **[1:42](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=102)** Use the ng build and ng serve commands that come with the Angular CLI tool to take advantage of the error reporting.
+> **[1:42](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=102)** Use the ng build and ng serve commands that come with the [[Angular CLI]] tool to take advantage of the error reporting.
 >
 > **[1:50](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980&t=110)** Ng build compiles your code, and halts if there are errors.
 >
@@ -700,19 +690,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (11), [[Metadata]] (1), application (1), data (1), dom (1)
+> **Frameworks & Libraries:** [[Angular]] (11), [[Metadata]] (1), [[Angular CLI]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** cli (1)
 > **Cross-References:** later in (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Angular modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980)
+#### [Angular modules](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=0)** - [Instructor] Angular modules represent a collection of closely related files that work together.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=0)** - [Instructor] [[Angular]] modules represent a collection of closely related files that work together.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=5)** This might include things like components, services, or even pipes.
 >
@@ -726,9 +715,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=33)** This is why all Angular developers should know how to use modules.
 >
-> **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=37)** I opened our project here in a GitHub Codespace.
+> **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=37)** I opened our project here in a [[GitHub]] Codespace.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=40)** I talk about why we use Codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:40](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=40)** I talk about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[0:49](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=49)** Let's take a look at the app module file, which is the first module Angular loads at app launch.
 >
@@ -736,7 +725,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=63)** Always use the module.ts ending when naming your module files.
 >
-> **[1:07](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=67)** The Angular CLI tool does this for you when you generate new files using the command line tool.
+> **[1:07](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=67)** The [[Angular CLI]] tool does this for you when you generate new files using the command line tool.
 >
 > **[1:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=73)** Angular modules are always TypeScript classes.
 >
@@ -744,7 +733,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=82)** I talked about decorators earlier in this course.
 >
-> **[1:25](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=85)** For now, just think of them as metadata that tells Angular what your code should do and how to inject that code into the rest of the application.
+> **[1:25](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=85)** For now, just think of them as [[Metadata]] that tells Angular what your code should do and how to inject that code into the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[1:32](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=92)** The NGModule decorator takes a configuration object as its only argument.
 >
@@ -762,13 +751,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=133)** The BrowserModule, which is all the low-level infrastructure Angular needs in all projects.
 >
-> **[2:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=139)** The common module, which has all of Angular's built-in pipes and directives, and the HTTP client module, which gives us access to the HTTP client service for making fetch requests.
+> **[2:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=139)** The common module, which has all of Angular's built-in pipes and directives, and the HTTP client module, which gives us access to the HTTP client service for making [[Fetch]] requests.
 >
 > **[2:31](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=151)** The next config option is called exports, and it's an array of all the code in this module we want to make available for use in other modules.
 >
 > **[2:39](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=159)** This module doesn't export anything, which is why the value is an empty array.
 >
-> **[2:45](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=165)** The provider's property is an array of all the code we want to make available in this module through Angular's dependency injection.
+> **[2:45](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=165)** The provider's property is an array of all the code we want to make available in this module through Angular's [[Dependency Injection]].
 >
 > **[2:51](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-modules?u=76281980&t=171)** This is different from importing a module for use in the template.
 >
@@ -820,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (16), application (4), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (16), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1), [[Metadata]] (1)
 > **Definitions:** is an  (4), is called (2), we call this (1)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** app.module.ts (1), module.ts (1), main.ts (1)
@@ -829,16 +818,15 @@ created: 2026-05-02
 > **Tools:** github (1), command line (1)
 > **UI Navigation:** go to (1), click on (1)
 
-#### Angular component decorator
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980)
+#### [Angular component decorator](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=0)** - [Speaker] Angular components are the main building blocks in all Angular applications.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=0)** - [Speaker] [[Angular]] components are the main building blocks in all Angular applications.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=4)** You can't use Angular without using components and all Angular developers should know what they are and how to use them.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=11)** Components have four parts; an HTML template that defines the UI for the component, CSS styles you want to apply to the template.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=11)** Components have four parts; an [[HTML]] template that defines the UI for the component, CSS styles you want to apply to the template.
 >
 > **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=19)** A TypeScript class that controls the component's behavior and a component selector that tells Angular where to put the component in the DOM.
 >
@@ -850,15 +838,15 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=49)** We'll look at the HTML templates later in this course.
 >
-> **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=53)** I opened our project here in a GitHub Codespace.
+> **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=53)** I opened our project here in a [[GitHub]] Codespace.
 >
-> **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=56)** I talk about why we use Codespaces earlier in this course so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=56)** I talk about why we use [[Codespaces]] earlier in this course so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[1:06](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=66)** I'll go to the source folder, open the app folder, click on pages, players and click on the players.component.ts file to open it.
 >
 > **[1:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=80)** Always use the component.ts ending when naming your components controller file.
 >
-> **[1:25](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=85)** The Angular CLI tool does this for you when you generate new components using the ng generate component command.
+> **[1:25](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=85)** The [[Angular CLI]] tool does this for you when you generate new components using the ng generate component command.
 >
 > **[1:32](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=92)** This file is the controller for our players page.
 >
@@ -868,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=105)** I talked about decorators earlier in this course.
 >
-> **[1:48](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=108)** For now, just think of them as metadata that tells Angular what your coach should do and how to inject it into the rest of your application.
+> **[1:48](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=108)** For now, just think of them as [[Metadata]] that tells Angular what your coach should do and how to inject it into the [[Representational State Transfer (REST)|rest]] of your application.
 >
 > **[1:56](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-decorator?u=76281980&t=116)** The component decorator takes a configuration object as its only argument.
 >
@@ -926,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), css (8), [[HTML]] (7), dom (4), [[Representational State Transfer (REST)|Rest]] (3)
+> **Frameworks & Libraries:** [[Angular]] (10), [[HTML]] (7), [[Representational State Transfer (REST)|Rest]] (3), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** css (8), html (7), url (7), dom (4), cli (1)
 > **Exercise Files:** template (13)
 > **UI Navigation:** click on (2), navigate to (1), go to (1), open the (1)
@@ -935,12 +923,11 @@ created: 2026-05-02
 > **File Paths:** players.component.ts (1), component.ts (1)
 > **CLI Commands:** make (1)
 
-#### Angular component classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980)
+#### [Angular component classes](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=0)** - [Instructor] Angular components are the main building blocks in all angular applications.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=0)** - [Instructor] [[Angular]] components are the main building blocks in all angular applications.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=4)** You can't use Angular without using components.
 >
@@ -948,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=13)** In this video, we'll look at the component class itself.
 >
-> **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=16)** I opened our project here in a GitHub code space.
+> **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=16)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=19)** I talked about why we use code spaces earlier in this course.
 >
@@ -962,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=53)** We'll take a look at some of these things in detail later in this course.
 >
-> **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=56)** For now, just know that you can access all public or protected class members from inside the HTML template.
+> **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=56)** For now, just know that you can access all public or protected class members from inside the [[HTML]] template.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=63)** This is how Angular makes the UI dynamic and interactive.
 >
@@ -982,7 +969,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=108)** This is where you inject dependencies and initialize code.
 >
-> **[1:51](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=111)** We'll talk more about dependency injection later in this course.
+> **[1:51](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=111)** We'll talk more about [[Dependency Injection]] later in this course.
 >
 > **[1:54](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-classes?u=76281980&t=114)** So for now, just know that Angular calls the constructor only once for each component service or other dependency.
 >
@@ -1016,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), data (3), [[GitHub]] (1), [[HTML]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Angular]] (10), [[GitHub]] (1), [[HTML]] (1), [[Dependency Injection]] (1)
 > **Cross-References:** later in (4), earlier in (2)
 > **UI Navigation:** go to (2), click on (1), open the (1)
 > **Exercise Files:** template (3), exercise files (1)
@@ -1025,18 +1012,17 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **File Paths:** players.component.ts (1)
 
-#### Reference variables and data binding in Angular templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980)
+#### [Reference variables and data binding in Angular templates](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=0)** - [Instructor] Angular components are the main building block in Angular applications, and you can't use components without an HTML template.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=0)** - [Instructor] [[Angular]] components are the main building block in Angular applications, and you can't use components without an [[HTML]] template.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=7)** All Angular developers should know how to use component templates.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=11)** I opened our project here in a GitHub codespace.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=11)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=14)** I talked about why we use codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=14)** I talked about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=23)** Let's take a look at the HTML template for one of our components.
 >
@@ -1044,7 +1030,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=37)** Always use the component.html ending for the file names for your component templates.
 >
-> **[0:43](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=43)** The Angular CLI tool does this for you when you generate new components using the ng generate component command.
+> **[0:43](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=43)** The [[Angular CLI]] tool does this for you when you generate new components using the ng generate component command.
 >
 > **[0:50](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=50)** You can use any valid HTML for a components template.
 >
@@ -1060,7 +1046,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=80)** Bootstrap is a popular open source toolkit and I've used it for years but Angular will work just fine without Bootstrap and you can use any CSS that works well for your needs.
 >
-> **[1:30](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=90)** I'm going to scroll to the right here and on line two, we have something called a template reference variable, which is this hash symbol, also called a pound sign, followed by the word filter.
+> **[1:30](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=90)** I'm going to scroll to the right here and on line two, we have something called a template reference variable, which is this hash symbol, also called a pound sign, followed by the [[Microsoft Word|word]] filter.
 >
 > **[1:43](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=103)** Template reference variables or template variables for short are a quick way to use data from one part of a template in other parts of the same template without having to pass that data into the components controller class.
 >
@@ -1104,7 +1090,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=241)** We also use a property binding on line eight to set a dynamic URL for the anchor tag.
 >
-> **[4:08](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=248)** We'll talk more about app routing later in this course.
+> **[4:08](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=248)** We'll talk more about app [[Routing]] later in this course.
 >
 > **[4:13](https://www.linkedin.com/learning/angular-essential-training-22884621/reference-variables-and-data-binding-in-angular-templates?u=76281980&t=253)** Interpolation lets us display dynamic content as text in the UI.
 >
@@ -1120,7 +1106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (8), data (5), css (4), dom (4)
+> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (8), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1)
 > **Env Vars:** html (6), css (4), dom (4), cli (1), url (1)
 > **Exercise Files:** template (15), exercise files (1)
 > **CLI Commands:** make (2), find (1)
@@ -1129,8 +1115,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** github (1)
 
-#### Structural directives in Angular templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980)
+#### [Structural directives in Angular templates](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,13 +1123,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=9)** In this video, we'll look at using structural directives to add and remove content in the DOM.
 >
-> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=15)** I opened our project here in a GitHub code space.
+> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=15)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:18](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=18)** I talked about why we use code spaces earlier in this course.
 >
 > **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=21)** So for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=27)** Let's take a look at the HTML template for one of our components.
+> **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=27)** Let's take a look at the [[HTML]] template for one of our components.
 >
 > **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=31)** I'll go to the source folder.
 >
@@ -1152,11 +1137,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=42)** Always use the component.html ending for the file names for your component templates.
 >
-> **[0:48](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=48)** The Angular CLI tool does this for you when you generate new components using the NG generate component command.
+> **[0:48](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=48)** The [[Angular CLI]] tool does this for you when you generate new components using the NG generate component command.
 >
 > **[0:54](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=54)** You can use any valid HTML for a component's template.
 >
-> **[0:58](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=58)** Angular extends this HTML with its own custom attributes and syntax to make the content interactive and dynamic.
+> **[0:58](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=58)** [[Angular]] extends this HTML with its own custom attributes and syntax to make the content interactive and dynamic.
 >
 > **[1:05](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=65)** There's a lot you can do with Angular's template syntax.
 >
@@ -1214,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=224)** Let's see what all this looks like in the browser.
 >
-> **[3:47](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=227)** Inside our code space, I'll open a new terminal window and use the NPM start command to launch a dev server.
+> **[3:47](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=227)** Inside our code space, I'll open a new terminal window and use the [[npm]] start command to launch a dev server.
 >
 > **[3:55](https://www.linkedin.com/learning/angular-essential-training-22884621/structural-directives-in-angular-templates?u=76281980&t=235)** This might take some time to run, so please be patient.
 >
@@ -1266,7 +1251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), [[Angular]] (8), dom (6), css (4), data (2)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Angular]] (8), [[GitHub]] (1), [[Angular CLI]] (1), [[npm]] (1)
 > **Env Vars:** html (7), dom (6), css (4), cli (1), npm (1)
 > **Exercise Files:** template (17)
 > **Code Identifiers:** ngif (5), ngfor (4)
@@ -1275,18 +1260,17 @@ created: 2026-05-02
 > **Cross-References:** earlier in (2), go back to (1), later in (1)
 > **Definitions:** is a  (3), is an  (1)
 
-#### Angular standalone components
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980)
+#### [Angular standalone components](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=0)** - [Instructor] As of Angular version 14 you can use something called standalone components which lets you use files in your project without assigning them to a module.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=0)** - [Instructor] As of [[Angular]] version 14 you can use something called standalone components which lets you use files in your project without assigning them to a module.
 >
 > **[0:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=10)** As of this recording, standalone components are still new and most existing projects will likely use modules to organize their code but standalone components are a powerful tool that make your code simpler and easier to work with.
 >
 > **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=22)** All angular developers should know how to use standalone components.
 >
-> **[0:26](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=26)** I opened our project here in a GitHub code space.
+> **[0:26](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=26)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=29)** I talked about why we use code spaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
@@ -1308,15 +1292,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=95)** Here on line 15, we import the common module which has all of angulars built-in pipes and directives.
 >
-> **[1:41](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=101)** The online status directive which is a custom directive that adds HTML to the DOM when a given player is online, right now.
+> **[1:41](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=101)** The online status directive which is a custom directive that adds [[HTML]] to the DOM when a given player is online, right now.
 >
 > **[1:51](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=111)** The router link with H ref module which comes from the Angular router package and lets us define anchor links to navigate between pages in our app and the sort by score module which is a custom pipe for sorting a list of players by high score.
 >
-> **[2:08](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=128)** The provider's property, is an array of all the code we want to make available in this component through angulars dependency injection.
+> **[2:08](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=128)** The provider's property, is an array of all the code we want to make available in this component through angulars [[Dependency Injection]].
 >
 > **[2:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=136)** I talk about dependency injection in detail later in this course.
 >
-> **[2:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=140)** For now, just know that it's a software design pattern and a core concept in the Angular framework.
+> **[2:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=140)** For now, just know that it's a [[Software Design]] pattern and a core concept in the Angular framework.
 >
 > **[2:26](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=146)** Our component doesn't have any injected dependencies so we can get rid of this property or leave it as an empty array like you see here.
 >
@@ -1340,7 +1324,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=203)** I'll go back to source, app, components, high scores, and click on highscores.component.spec.TS to open the file.
 >
-> **[3:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=213)** We look at unit testing in detail later in this course.
+> **[3:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=213)** We look at [[Unit Testing]] in detail later in this course.
 >
 > **[3:36](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-standalone-components?u=76281980&t=216)** For now, just know that testing standalone components are mostly the same as testing any other file.
 >
@@ -1364,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (2), [[GitHub]] (1), [[HTML]] (1), dom (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (2), [[GitHub]] (1), [[HTML]] (1), [[Software Design]] (1)
 > **UI Navigation:** open the (4), go to (2), click on (1)
 > **Env Vars:** http (3), html (1), dom (1), api (1)
 > **Definitions:** is an  (3), is a  (2)
@@ -1373,12 +1357,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Versions:** version 14 (1), version 16 (1)
 
-#### Angular without ZoneJS (Zoneless)
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-without-zonejs-zoneless?u=76281980)
+#### [Angular without ZoneJS (Zoneless)](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-without-zonejs-zoneless?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-without-zonejs-zoneless?u=76281980&t=0)** - [Narrator] Starting in Angular version 18, you can opt in for a new zoneless architecture.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-without-zonejs-zoneless?u=76281980&t=0)** - [Narrator] Starting in [[Angular]] version 18, you can opt in for a new zoneless architecture.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-without-zonejs-zoneless?u=76281980&t=6)** This is a huge change because Angular's been using ZoneJS since version 2.0.
 >
@@ -1394,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), api (2), [[Debugging]] (1), feature (1)
+> **Frameworks & Libraries:** [[Angular]] (5)
 > **Env Vars:** api (2)
 > **Versions:** version 18 (1), version 2 (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1406,12 +1389,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of Angular pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980)
+#### [Overview of Angular pipes](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=0)** - [Instructor] Pipes are one of Angular's most powerful features.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=0)** - [Instructor] Pipes are one of [[Angular]]'s most powerful features.
 >
 > **[0:03](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=3)** They're easy to write, they're easy to test, and they keep your application fast and performant.
 >
@@ -1427,7 +1409,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=33)** They do one thing well.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=35)** I can compose them together, passing the output of one pipe as the input to another, and they're pure functions by default.
+> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=35)** I can [[Jetpack Compose|compose]] them together, passing the output of one pipe as the input to another, and they're pure functions by default.
 >
 > **[0:42](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980&t=42)** Let's talk about that last point real quick.
 >
@@ -1465,29 +1447,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), data (3), application (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Jetpack Compose|Compose]] (1)
 > **Cross-References:** later in (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using built-in Angular pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980)
+#### [Using built-in Angular pipes](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at Angular pipes and why you might use them.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at [[Angular]] pipes and why you might use them.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=4)** In this video, we'll look at two of Angular's Standard built-in pipes.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=8)** The first, will limit the list to only five players and the second will show each player's score in percent format.
 >
-> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=15)** I opened our project here in a GitHub code space.
+> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=15)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=17)** I talk about why we use code spaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:28](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=28)** Let's take a look at the HTML template for one of our components.
+> **[0:28](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=28)** Let's take a look at the [[HTML]] template for one of our components.
 >
 > **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=31)** I'll go to the source folder.
 >
@@ -1495,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=42)** Always use the component dot HTML ending for your components template file.
 >
-> **[0:47](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=47)** The Angular CLI tool does this for you when you generate new components using the NG generate component command. Pipes work inside angular templates.
+> **[0:47](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=47)** The [[Angular CLI]] tool does this for you when you generate new components using the NG generate component command. Pipes work inside angular templates.
 >
 > **[0:57](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=57)** You can use pipes in most places where you have an expression or a reference.
 >
@@ -1505,7 +1486,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=75)** Angular comes with a built-in pipe called Slice.
 >
-> **[1:18](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=78)** It works just like the slice method in JavaScript.
+> **[1:18](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=78)** It works just like the slice method in [[JavaScript]].
 >
 > **[1:22](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=82)** We use the pipe here on line four.
 >
@@ -1527,7 +1508,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=136)** Let's see what all this looks like in the browser.
 >
-> **[2:18](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=138)** Inside our code space, I'll open a new terminal window and use the NPM Start command to launch a dev server.
+> **[2:18](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=138)** Inside our code space, I'll open a new terminal window and use the [[npm]] Start command to launch a dev server.
 >
 > **[2:27](https://www.linkedin.com/learning/angular-essential-training-22884621/using-built-in-angular-pipes?u=76281980&t=147)** This command might take some time, so please be patient.
 >
@@ -1585,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (4), data (2), [[GitHub]] (1), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (4), [[GitHub]] (1), [[Angular CLI]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (3), cli (1), npm (1), url (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
 > **Cross-References:** earlier in (1), later in (1), go back to (1)
@@ -1594,16 +1575,15 @@ created: 2026-05-02
 > **CLI Commands:** npm (1)
 > **Analogies:** just like (1)
 
-#### Using custom Angular pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980)
+#### [Using custom Angular pipes](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at Angular pipes and why you might use them.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at [[Angular]] pipes and why you might use them.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=4)** In this video, we'll look at one of our three custom pipes and how we built it.
 >
-> **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=9)** I opened our project here in a GitHub code space.
+> **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=9)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=12)** I talked about why we use code spaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
@@ -1613,7 +1593,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=35)** Always use the pipe.ts ending for your pipe files.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=40)** The Angular CLI tool does this for you when you generate new pipes using the ng generate pipe command.
+> **[0:40](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=40)** The [[Angular CLI]] tool does this for you when you generate new pipes using the ng generate pipe command.
 >
 > **[0:47](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=47)** Angular pipes are always TypeScript classes.
 >
@@ -1621,7 +1601,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=55)** We looked at decorators earlier in this course in detail.
 >
-> **[0:58](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=58)** For now, just think of them as metadata that tells Angular what your code should do and how to inject it into the rest of the application.
+> **[0:58](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=58)** For now, just think of them as [[Metadata]] that tells Angular what your code should do and how to inject it into the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[1:06](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=66)** The @Pipe decorator takes a configuration object as its only argument.
 >
@@ -1629,7 +1609,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=75)** It's good practice to use camel case when naming your pipes.
 >
-> **[1:18](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=78)** The Angular CLI tool does this for you when you generate new pipe files using the CLI command.
+> **[1:18](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=78)** The Angular CLI tool does this for you when you generate new pipe files using the [[CLI]] command.
 >
 > **[1:24](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=84)** Avoid hyphens in the name property.
 >
@@ -1657,7 +1637,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=143)** We export the pipe class itself on line 9.
 >
-> **[2:27](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=147)** You can call your pipe class as anything you like, but it's good practice to end the class name with the word pipe.
+> **[2:27](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=147)** You can call your pipe class as anything you like, but it's good practice to end the class name with the [[Microsoft Word|word]] pipe.
 >
 > **[2:33](https://www.linkedin.com/learning/angular-essential-training-22884621/using-custom-angular-pipes?u=76281980&t=153)** And while not technically required, it's also good practice to implement the PipeTransform interface from the Angular core package.
 >
@@ -1724,12 +1704,11 @@ created: 2026-05-02
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1), find (1)
 
-#### Angular services and the injectable decorator
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980)
+#### [Angular services and the injectable decorator](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=0)** - Angular services are a way to separate and reuse code across different parts of your application.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=0)** - [[Angular]] services are a way to separate and reuse code across different parts of your application.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=6)** You don't need to use services to use Angular but I've seen them in every project I've worked on and all Angular developers should be familiar with how they work.
 >
@@ -1749,7 +1728,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=40)** The choice is yours.
 >
-> **[0:42](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=42)** Services and Angular Dependency Injection are closely linked.
+> **[0:42](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=42)** Services and Angular [[Dependency Injection]] are closely linked.
 >
 > **[0:46](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=46)** You can't use one without the other.
 >
@@ -1757,7 +1736,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=53)** We'll look at Dependency Injection in detail later in this course.
 >
-> **[0:57](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=57)** I opened our project here in a GitHub code space.
+> **[0:57](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=57)** I opened our project here in a [[GitHub]] code space.
 >
 > **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=60)** I talk about why we use code spaces earlier in this course.
 >
@@ -1771,7 +1750,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=81)** Always use the service.ts ending for your custom service files.
 >
-> **[1:26](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=86)** The Angular CLI tool does this for you when you generate new services using the ng generate service command.
+> **[1:26](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=86)** The [[Angular CLI]] tool does this for you when you generate new services using the ng generate service command.
 >
 > **[1:32](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=92)** Also, keep in mind that this is just one way to organize the files in your code base.
 >
@@ -1783,7 +1762,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=111)** We looked at decorators in detail earlier in this course.
 >
-> **[1:54](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=114)** For now, just think of them as metadata that tells Angular what your code should do and how it should inject it into the rest of your application.
+> **[1:54](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=114)** For now, just think of them as [[Metadata]] that tells Angular what your code should do and how it should inject it into the [[Representational State Transfer (REST)|rest]] of your application.
 >
 > **[2:01](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=121)** The Injectable Decorator takes a configuration object as its only argument the provided in property tells Angular what parts of your project have access to this service.
 >
@@ -1791,7 +1770,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=139)** In my work, we usually set the value as root like you see here which tells Angular to create one instance of the service for all parts of the app.
 >
-> **[2:28](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=148)** The CLI tool does this for you when you generate new services using the CLI command having one instance of a service is a powerful feature of how Angular's Dependency Injection works.
+> **[2:28](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=148)** The [[CLI]] tool does this for you when you generate new services using the CLI command having one instance of a service is a powerful feature of how Angular's Dependency Injection works.
 >
 > **[2:38](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-services-and-the-injectable-decorator?u=76281980&t=158)** Since the project has only one instance of the service, sometimes called a singleton, all parts of the app have access to the same data stored in the service.
 >
@@ -1801,7 +1780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), api (3), data (3), [[Dependency Injection]] (3), application (2)
+> **Frameworks & Libraries:** [[Angular]] (10), [[Dependency Injection]] (3), [[CLI]] (2), [[GitHub]] (1), [[Angular CLI]] (1)
 > **Env Vars:** cli (3), api (2)
 > **Cross-References:** earlier in (2), later in (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
@@ -1810,18 +1789,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Angular service classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980)
+#### [Angular service classes](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at the injectable decorator and how to use it to build Angular services.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at the injectable decorator and how to use it to build [[Angular]] services.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=6)** In this video, we'll look at one way to write a service class.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=10)** I opened our project here in a GitHub codespace.
+> **[0:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=10)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=13)** I talked about why we use codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=13)** I talked about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=21)** Let's take a look at our custom API service.
 >
@@ -1829,7 +1807,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=33)** Always use the service dot TS ending for your custom service files.
 >
-> **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=38)** The Angular CLI tool does this for you when you generate new services using the NG generate service command.
+> **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=38)** The [[Angular CLI]] tool does this for you when you generate new services using the NG generate service command.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=45)** Also, keep in mind that this is just one way to organize the files in your code base.
 >
@@ -1837,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=53)** We export the service class itself on line nine.
 >
-> **[0:57](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=57)** You can call your service classes anything you'd like, but it's good practice to end the class name with the word service.
+> **[0:57](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=57)** You can call your service classes anything you'd like, but it's good practice to end the class name with the [[Microsoft Word|word]] service.
 >
 > **[1:04](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=64)** Lines 11 through 13 are the constructor for our service class.
 >
@@ -1865,7 +1843,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=142)** On line 16, we use the instance of Angular's HTTP client to make a get request to the database for our data.
 >
-> **[2:30](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=150)** The HTTP instance gives us access to all the rest methods we need to work with the database.
+> **[2:30](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=150)** The HTTP instance gives us access to all the [[Representational State Transfer (REST)|rest]] methods we need to work with the database.
 >
 > **[2:36](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=156)** The get method takes two arguments.
 >
@@ -1911,11 +1889,11 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=274)** You can use services for all sorts of complex calculations or business logic.
 >
-> **[4:40](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=280)** To actually use the service, we use Angular's dependency injection to inject it into the classes that need them.
+> **[4:40](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=280)** To actually use the service, we use Angular's [[Dependency Injection]] to inject it into the classes that need them.
 >
 > **[4:47](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=287)** We'll talk more about dependency injection later in this course.
 >
-> **[4:50](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=290)** For now, just know that it's a software design pattern where classes or functions request dependencies from an external source rather than creating their own.
+> **[4:50](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=290)** For now, just know that it's a [[Software Design]] pattern where classes or functions request dependencies from an external source rather than creating their own.
 >
 > **[4:59](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-service-classes?u=76281980&t=299)** Let me show you what that looks like.
 >
@@ -1935,7 +1913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Angular]] (6), api (4), database (3), next (2)
+> **Frameworks & Libraries:** [[Angular]] (6), [[Dependency Injection]] (2), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1)
 > **Env Vars:** http (5), api (4), url (3), rxjs (3), cli (1)
 > **UI Navigation:** go to (2), click on (2), open the (2)
 > **Cross-References:** earlier in (3), later in (2)
@@ -1944,12 +1922,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (2)
 
-#### Angular directive decorator
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980)
+#### [Angular directive decorator](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=0)** - [Instructor] Directives let you attach custom behavior to elements in your Angular templates.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=0)** - [Instructor] Directives let you attach custom behavior to elements in your [[Angular]] templates.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=5)** All Angular developers should be familiar with directives and how they work.
 >
@@ -1959,7 +1936,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=20)** Using a directive meant we could access this secret menu from anywhere in the app.
 >
-> **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=25)** I opened our project here in a GitHub Codespaces.
+> **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=25)** I opened our project here in a [[GitHub]] [[Codespaces]].
 >
 > **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=27)** I talk about why we use Codespaces earlier in this course.
 >
@@ -1971,13 +1948,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=49)** Always use the directive.ts ending for your directive file names.
 >
-> **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=53)** The Angular CLI tool does this for you when you generate new directives using the ng generate directive command.
+> **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=53)** The [[Angular CLI]] tool does this for you when you generate new directives using the ng generate directive command.
 >
 > **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=60)** Angular directives are always TypeScript classes.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=63)** We use the directive decorator here on line three to declare a class as a directive.
 >
-> **[1:09](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=69)** I talk about decorators earlier in this course, so for now just think of them as metadata that tells Angular what your code should do and how to inject it into the rest of your application.
+> **[1:09](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=69)** I talk about decorators earlier in this course, so for now just think of them as [[Metadata]] that tells Angular what your code should do and how to inject it into the [[Representational State Transfer (REST)|rest]] of your application.
 >
 > **[1:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=79)** The directive decorator takes a configuration object as its only argument.
 >
@@ -1985,11 +1962,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=92)** You can use any valid CSS selector, but I usually see custom directives use an attribute selector like we do here.
 >
-> **[1:41](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=101)** The provider's property is an array of all the code we want to make available in this directive through Angular's dependency injection.
+> **[1:41](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=101)** The provider's property is an array of all the code we want to make available in this directive through Angular's [[Dependency Injection]].
 >
 > **[1:48](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=108)** I talk about dependency injection in detail later in this course.
 >
-> **[1:52](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=112)** For now, just know that it's a software design pattern and a core concept in the Angular framework.
+> **[1:52](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=112)** For now, just know that it's a [[Software Design]] pattern and a core concept in the Angular framework.
 >
 > **[1:57](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-decorator?u=76281980&t=117)** Our directive here doesn't have any injected dependencies so we can get rid of the property if we want to or leave it as an empty array like you see here.
 >
@@ -2009,7 +1986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), [[Codespaces]] (2), css (2), [[Dependency Injection]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[Codespaces]] (2), [[Dependency Injection]] (2), [[GitHub]] (1), [[Angular CLI]] (1)
 > **Cross-References:** earlier in (3), later in (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Env Vars:** css (2), cli (1)
@@ -2018,18 +1995,17 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** exercise files (1)
 
-#### Angular directive classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980)
+#### [Angular directive classes](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at the directive decorator and how to use it to build angular directives.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at the directive decorator and how to use it to build [[Angular]] directives.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=6)** In this video, we'll look at one way to write a directive class.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=11)** I opened our project here in a GitHub codespace.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=11)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=13)** I talk about why we use codespaces earlier in this course.
+> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=13)** I talk about why we use [[Codespaces]] earlier in this course.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=16)** So for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
@@ -2039,11 +2015,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=33)** Always use the directive.ts ending for your directive file names.
 >
-> **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=37)** The Angular CLI tool does this for you when you generate new directives using the ng generate directive command.
+> **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=37)** The [[Angular CLI]] tool does this for you when you generate new directives using the ng generate directive command.
 >
 > **[0:44](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=44)** We export the directive class itself on line 8.
 >
-> **[0:47](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=47)** You can call your directive classes anything you like but it's good practice to end the class name with the word directive.
+> **[0:47](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=47)** You can call your directive classes anything you like but it's good practice to end the class name with the [[Microsoft Word|word]] directive.
 >
 > **[0:54](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=54)** This class implements the AfterContentInit interface which is a lifecycle hook that comes from the Angular core package.
 >
@@ -2055,7 +2031,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=81)** This method checks to see if the value of the app online status property is true.
 >
-> **[1:27](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=87)** If it is, it adds some custom HTML in the correct place in the dom.
+> **[1:27](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=87)** If it is, it adds some custom [[HTML]] in the correct place in the dom.
 >
 > **[1:34](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=94)** There's a lot going on here, so let's break it down.
 >
@@ -2077,7 +2053,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=171)** Let's see what all this looks like in the browser.
 >
-> **[2:54](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=174)** Inside our codespace, I'll open a new terminal window and use the npm start command to launch a dev server.
+> **[2:54](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=174)** Inside our codespace, I'll open a new terminal window and use the [[npm]] start command to launch a dev server.
 >
 > **[3:02](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-directive-classes?u=76281980&t=182)** This might take a moment, so please be patient.
 >
@@ -2107,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (6), dom (3), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (6), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1)
 > **Env Vars:** html (6), cli (1), dom (1), url (1)
 > **Cross-References:** earlier in (3), later in (1)
 > **UI Navigation:** go to (1), open the (1), click on (1)
@@ -2121,26 +2097,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Angular project configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980)
+#### [Angular project configuration](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=0)** - [Instructor] In Angular, the two main configuration files are tsconfig.json and angular.json.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=0)** - [Instructor] In [[Angular]], the two main configuration files are tsconfig.[[JSON]] and angular.json.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=7)** All Angular developers should be familiar with these files.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=11)** I opened our project here in a GitHub Codespace.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=11)** I opened our project here in a [[GitHub]] Codespace.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=14)** I talked about why we use Codespaces earlier in this course.
+> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=14)** I talked about why we use [[Codespaces]] earlier in this course.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=16)** So for now, just think of them as an easy way to share and write code without installing anything on your local machine, I'll go to the root of our project and click on tsconfig.json to open the file.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=29)** We write Angular apps using TypeScript.
 >
-> **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=31)** And this file tells the TypeScript compiler how to generate JavaScript code.
+> **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=31)** And this file tells the TypeScript compiler how to generate [[JavaScript]] code.
 >
-> **[0:36](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=36)** The Angular CLI tool configures sensible defaults when you start a new project, but you can always change the settings if needed.
+> **[0:36](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=36)** The [[Angular CLI]] tool configures sensible defaults when you start a new project, but you can always change the settings if needed.
 >
 > **[0:43](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=43)** The two properties I customize most often are compiler options and Angular compiler options.
 >
@@ -2162,7 +2137,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=101)** This file is where you tell Angular CLI how to configure and build your project.
 >
-> **[1:45](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=105)** Again, this file is full of sensible defaults when you start a new project using the CLI tool.
+> **[1:45](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=105)** Again, this file is full of sensible defaults when you start a new project using the [[CLI]] tool.
 >
 > **[1:52](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980&t=112)** Use the projects property to define all the apps in your workspace, as well as build targets.
 >
@@ -2187,18 +2162,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
 
-#### Application environments and build targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980)
+#### [Application environments and build targets](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=0)** - [Instructor] Angular lets you define something called a build target, which lets you change the configuration and optimization of your code depending on where you want to deploy it.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=0)** - [Instructor] [[Angular]] lets you define something called a build target, which lets you change the configuration and optimization of your code depending on where you want to deploy it.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=9)** Build targets use something called an application environment to modify values used in your code without the need for conditional logic.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=17)** All Angular developers should know how to work with application environments and build targets.
 >
-> **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=22)** I opened our project here in a GitHub code space.
+> **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=22)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=25)** I talk about why we use code spaces earlier in this course.
 >
@@ -2238,7 +2212,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=127)** Let me show you what that looks like.
 >
-> **[2:08](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=128)** Inside our code space, I'll go to the terminal and use the NPM Start Command to launch a dev server.
+> **[2:08](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=128)** Inside our code space, I'll go to the terminal and use the [[npm]] Start Command to launch a dev server.
 >
 > **[2:17](https://www.linkedin.com/learning/angular-essential-training-22884621/application-environments-and-build-targets?u=76281980&t=137)** This may take a moment, so please be patient.
 >
@@ -2276,7 +2250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), application (3), [[npm]] (2), hit (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[npm]] (2), [[GitHub]] (1)
 > **UI Navigation:** go to (3), click on (3), open the (1)
 > **Env Vars:** npm (2), api (1), url (1), llc (1)
 > **Cross-References:** go back to (3), earlier in (1)
@@ -2285,18 +2259,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting dependencies using dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980)
+#### [Injecting dependencies using dependency injection](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=0)** - [Instructor] Dependency Injection, DI for short, is a software design pattern where classes and functions request dependencies from an external source rather than creating their own instances.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=0)** - [Instructor] [[Dependency Injection]], DI for short, is a [[Software Design]] pattern where classes and functions request dependencies from an external source rather than creating their own instances.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=12)** It's not specific to the Angular framework, but it's a core concept and every Angular developer should know how it works.
+> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=12)** It's not specific to the [[Angular]] framework, but it's a core concept and every Angular developer should know how it works.
 >
 > **[0:18](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=18)** You can't use Angular without DI.
 >
-> **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=21)** I opened our project here in a GitHub code space.
+> **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=21)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:24](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=24)** I talk about why we use code spaces earlier in this course.
 >
@@ -2326,7 +2299,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=83)** And dependencies will be public by default.
 >
-> **[1:27](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=87)** Keep in mind that only public and protected class members are available in a components HTML template.
+> **[1:27](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=87)** Keep in mind that only public and protected class members are available in a components [[HTML]] template.
 >
 > **[1:33](https://www.linkedin.com/learning/angular-essential-training-22884621/injecting-dependencies-using-dependency-injection?u=76281980&t=93)** I like to use the private class members when possible to make it easy to delete dead code, but you could make these dependencies public or protected and access them directly in the template if you wanted to.
 >
@@ -2372,7 +2345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (13), api (3), data (3), next (2), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Angular]] (13), [[Dependency Injection]] (1), [[Software Design]] (1), [[GitHub]] (1), [[HTML]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Env Vars:** api (2), html (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -2381,18 +2354,17 @@ created: 2026-05-02
 > **Cross-References:** earlier in (2)
 > **File Paths:** profile.component.ts (1)
 
-#### Declaring dependencies using dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980)
+#### [Declaring dependencies using dependency injection](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to inject dependencies into your application using Angular's dependency injection.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to inject dependencies into your application using [[Angular]]'s [[Dependency Injection]].
 >
 > **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=7)** In this video, we'll look at how to declare those dependencies to make them available for use.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=12)** I opened our project here in a GitHub Codespace.
+> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=12)** I opened our project here in a [[GitHub]] Codespace.
 >
-> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=15)** I talked about why we use Codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=15)** I talked about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=25)** I'll go to the src folder.
 >
@@ -2436,7 +2408,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=139)** This tells Angular to create one instance of the service for all parts of the app.
 >
-> **[2:24](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=144)** The CLI tool does this for you when you generate new services using the ng generate service command.
+> **[2:24](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=144)** The [[CLI]] tool does this for you when you generate new services using the ng generate service command.
 >
 > **[2:30](https://www.linkedin.com/learning/angular-essential-training-22884621/declaring-dependencies-using-dependency-injection?u=76281980&t=150)** Having only one instance of something is sometimes called a singleton.
 >
@@ -2460,7 +2432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (13), data (3), [[Dependency Injection]] (2), api (2), application (1)
+> **Frameworks & Libraries:** [[Angular]] (13), [[Dependency Injection]] (2), [[GitHub]] (1), [[Codespaces]] (1), [[CLI]] (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** providedin (2)
@@ -2469,18 +2441,17 @@ created: 2026-05-02
 > **File Paths:** api.service.ts (1)
 > **Tools:** github (1)
 
-#### Providing dependencies using dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980)
+#### [Providing dependencies using dependency injection](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at declaring and injecting dependencies using Angular's dependency injection.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at declaring and injecting dependencies using [[Angular]]'s [[Dependency Injection]].
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=6)** In this video, we'll look at how to provide those dependencies and make them available for use.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=11)** I opened our project here in a GitHub codespace.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=11)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=13)** I talk about why we use codespaces earlier in this course.
+> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=13)** I talk about why we use [[Codespaces]] earlier in this course.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=16)** So for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
@@ -2504,11 +2475,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=77)** Angular calls this reference a token.
 >
-> **[1:19](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=79)** Tokens must be unique for each dependency.
+> **[1:19](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=79)** [[Tokens]] must be unique for each dependency.
 >
 > **[1:21](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=81)** In our case here, the token for our API service is the class itself but you can also use a string or something called an injection token if needed.
 >
-> **[1:30](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=90)** What you use for a token depends on what you need to inject and what the rest of your code base looks like.
+> **[1:30](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=90)** What you use for a token depends on what you need to inject and what the [[Representational State Transfer (REST)|rest]] of your code base looks like.
 >
 > **[1:36](https://www.linkedin.com/learning/angular-essential-training-22884621/providing-dependencies-using-dependency-injection?u=76281980&t=96)** The use class property tells Angular what to inject when you ask for this dependency using the token.
 >
@@ -2556,7 +2527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), api (6), [[Dependency Injection]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** api (6)
 > **Cross-References:** earlier in (4), we talked about (2)
 > **Code Identifiers:** usevalue (1), usefactory (1), useexisting (1)
@@ -2565,18 +2536,17 @@ created: 2026-05-02
 > **File Paths:** app.module.ts (1)
 > **CLI Commands:** make (1)
 
-#### Angular change detection strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980)
+#### [Angular change detection strategies](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=0)** - [Instructor] Change detection is how Angular checks your application state for changes and updates the UI to keep everything in sync.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=0)** - [Instructor] Change detection is how [[Angular]] checks your application state for changes and updates the UI to keep everything in sync.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=7)** It's what makes Angular applications dynamic and interactive.
 >
 > **[0:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=10)** You can't use Angular without change detection, and every Angular developer should know how it works.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=17)** I opened our project here in a GitHub code space.
+> **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=17)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=19)** I talk about why we use code spaces earlier in this course.
 >
@@ -2608,7 +2578,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=119)** Instead, we declare this public players& property on line 20 and set its value only once on line 27.
 >
-> **[2:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=130)** The Angular team optimized change detection to take full advantage of the JavaScript engines inside modern browsers.
+> **[2:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=130)** The Angular team optimized change detection to take full advantage of the [[JavaScript]] engines inside modern browsers.
 >
 > **[2:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-change-detection-strategies?u=76281980&t=136)** But onPush is a great option if your project has a lot of components to check for updates.
 >
@@ -2620,7 +2590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (13), data (2), application (1), [[GitHub]] (1), api (1)
+> **Frameworks & Libraries:** [[Angular]] (13), [[GitHub]] (1), [[JavaScript]] (1)
 > **UI Navigation:** go to (1), open the (1), click on (1)
 > **File Paths:** high-scores.component.ts (1)
 > **Code Identifiers:** onpush (1)
@@ -2629,16 +2599,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 
-#### Angular component lifecycle hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980)
+#### [Angular component lifecycle hooks](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980&t=0)** - [Instructor] Lifecycle hooks lets you run custom code when Angular initializes a component or directive, when the template loads in the dom, when changes happen, and when Angular destroys the component.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980&t=0)** - [Instructor] Lifecycle hooks lets you run custom code when [[Angular]] initializes a component or directive, when the template loads in the dom, when changes happen, and when Angular destroys the component.
 >
 > **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980&t=12)** These hooks are a big part of building Angular apps, and all Angular developers should know how to use them.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980&t=19)** I opened our project here in a GitHub code space.
+> **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980&t=19)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-component-lifecycle-hooks?u=76281980&t=22)** I talked about why we use code spaces earlier in this course.
 >
@@ -2694,7 +2663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), dom (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[GitHub]] (1)
 > **Code Identifiers:** ngoninit (3), ngondestroy (3)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -2708,24 +2677,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining routes for Angular Router
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980)
+#### [Defining routes for Angular Router](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=0)** - [Instructor] The Angular framework has full support for everything you might need when navigating between pages in your app.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=0)** - [Instructor] The [[Angular]] framework has full support for everything you might need when navigating between pages in your app.
 >
-> **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=6)** Some projects are small enough that they don't need page routing, but it's a good idea for all Angular developers to know how routing works.
+> **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=6)** Some projects are small enough that they don't need page [[Routing]], but it's a good idea for all Angular developers to know how routing works.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=14)** I opened our project here in a GitHub codespace.
+> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=14)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=17)** I talked about why we use codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=17)** I talked about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[0:26](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=26)** I'll go to the source folder, open the app folder and click on app routing dot module dot TS to open the file.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=34)** Angular Router is the official package for managing routes in Angular apps.
 >
-> **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=38)** It's an optional package that you add to your project as needed using the Angular CLI tool.
+> **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=38)** It's an optional package that you add to your project as needed using the [[Angular CLI]] tool.
 >
 > **[0:43](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=43)** There are two parts to using Angular Router in your app.
 >
@@ -2753,7 +2721,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=102)** This value is always relative to the parent route, if any.
 >
-> **[1:46](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=106)** If there's no parent route, then this value is relative to the base HREF defined in the index dot HTML file.
+> **[1:46](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=106)** If there's no parent route, then this value is relative to the base HREF defined in the index dot [[HTML]] file.
 >
 > **[1:53](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=113)** Let me show you that.
 >
@@ -2811,7 +2779,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=286)** You can set the value as a static string like we do here on lines 14 and 20, or you can set the value as a function like we do on line 9.
 >
-> **[4:55](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=295)** Using a function gives you access to Angular's dependency injection, as well as access to the details of the current URL.
+> **[4:55](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=295)** Using a function gives you access to Angular's [[Dependency Injection]], as well as access to the details of the current URL.
 >
 > **[5:02](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980&t=302)** This lets you create a dynamic page title based on some custom calculation you define in the function.
 >
@@ -2829,7 +2797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (19), [[Routing]] (3), [[HTML]] (2), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (19), [[Routing]] (3), [[HTML]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** url (8), href (4), html (2), cli (1)
 > **Cross-References:** later in (5), earlier in (1), go back to (1)
 > **Definitions:** is a  (4), is an  (2)
@@ -2838,24 +2806,23 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
 
-#### Using routes with Angular's Router module
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980)
+#### [Using routes with Angular's Router module](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to define custom routes for use with Angular's router module.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to define custom routes for use with [[Angular]]'s router module.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=6)** In this video, we'll focus on making these routes available in your app.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=10)** I opened our project here in a GitHub code space.
+> **[0:10](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=10)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=13)** I talk about why we use code spaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=22)** I'll go to the source folder, open up the app folder and click on app-routing.module.ts to open the file.
+> **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=22)** I'll go to the source folder, open up the app folder and click on app-[[Routing]].module.ts to open the file.
 >
 > **[0:30](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=30)** Angular router is the official package for managing routes in Angular apps.
 >
-> **[0:34](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=34)** It's an optional package that you add to your project as needed using the Angular CLI tool.
+> **[0:34](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=34)** It's an optional package that you add to your project as needed using the [[Angular CLI]] tool.
 >
 > **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/using-routes-with-angular-s-router-module?u=76281980&t=39)** There are two parts to using Angular router in your app.
 >
@@ -2914,16 +2881,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), just like (1)
 
-#### Lazy loading Angular routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980)
+#### [Lazy loading Angular routes](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to define and use custom routes for Angular's router module.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to define and use custom routes for [[Angular]]'s router module.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=6)** In this video, we'll look at lazy loading components and modules to make your app faster and more performant.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=12)** I opened our project here in a GitHub code space.
+> **[0:12](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=12)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=15)** I talk about why we use code spaces earlier in this course.
 >
@@ -2933,7 +2899,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=31)** Angular Router is the official package for managing routes in Angular apps.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=35)** It's an optional package that you add to your project as needed using the Angular CLI tool.
+> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=35)** It's an optional package that you add to your project as needed using the [[Angular CLI]] tool.
 >
 > **[0:41](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=41)** There are two parts to using Angular Router in your app.
 >
@@ -2957,7 +2923,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=94)** This is Angular's default behavior when working with routes and it usually means a faster initial page load which everyone likes.
 >
-> **[1:42](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=102)** The downside is that there's more network lag when routing between pages because Angular must fetch the next module before rendering it.
+> **[1:42](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=102)** The downside is that there's more network lag when [[Routing]] between pages because Angular must [[Fetch]] the next module before rendering it.
 >
 > **[1:49](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=109)** The slower the network connection, the more lag when navigating between pages.
 >
@@ -2967,7 +2933,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=134)** Let me show you what that looks like in the browser.
 >
-> **[2:16](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=136)** Inside our code space, I'll open a new terminal window and use the npm start command to launch a dev server.
+> **[2:16](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=136)** Inside our code space, I'll open a new terminal window and use the [[npm]] start command to launch a dev server.
 >
 > **[2:26](https://www.linkedin.com/learning/angular-essential-training-22884621/lazy-loading-angular-routes?u=76281980&t=146)** This may take a moment, so please be patient.
 >
@@ -3010,24 +2976,23 @@ created: 2026-05-02
 > **Tools:** github (1), terminal (1)
 > **File Paths:** approuting.module.ts (1)
 
-#### Dynamic route parameters in Angular routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980)
+#### [Dynamic route parameters in Angular routes](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to define and use custom routes for Angular's router module.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how to define and use custom routes for [[Angular]]'s router module.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=6)** In this video, we'll look at using dynamic route parameters in your route definitions.
 >
-> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=11)** I opened our project here in a GitHub code space.
+> **[0:11](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=11)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=13)** I talk about why we use code spaces earlier in this course so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=22)** I'll go to the source folder, open the app folder, and click on app-routing.module.ts to open the file.
+> **[0:22](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=22)** I'll go to the source folder, open the app folder, and click on app-[[Routing]].module.ts to open the file.
 >
 > **[0:31](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=31)** Angular Router is the official package for managing routes in Angular apps.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=35)** It's an optional package that you add to your project as needed using the Angular CLI tool.
+> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=35)** It's an optional package that you add to your project as needed using the [[Angular CLI]] tool.
 >
 > **[0:40](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=40)** There are two parts to using Angular Router in your app.
 >
@@ -3041,7 +3006,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=61)** We do this right here on line seven.
 >
-> **[1:04](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=64)** This tells Angular to look for a URL that contains the word profile, followed by a slash, followed by some other string, which we assign the token of ID.
+> **[1:04](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=64)** This tells Angular to look for a URL that contains the [[Microsoft Word|word]] profile, followed by a slash, followed by some other string, which we assign the token of ID.
 >
 > **[1:16](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=76)** I can access this token from any component, service, or directive using the activated route and activated route snapshot classes that come from Angular.
 >
@@ -3059,7 +3024,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=137)** Let me show you what that looks like in the browser.
 >
-> **[2:20](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=140)** Inside our code space, I'll open a new terminal window and use the NPM start command to launch a dev server.
+> **[2:20](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=140)** Inside our code space, I'll open a new terminal window and use the [[npm]] start command to launch a dev server.
 >
 > **[2:29](https://www.linkedin.com/learning/angular-essential-training-22884621/dynamic-route-parameters-in-angular-routes?u=76281980&t=149)** This may take a moment, so please be patient.
 >
@@ -3092,26 +3057,25 @@ created: 2026-05-02
 > **File Paths:** app-routing.module.ts (1)
 > **CLI Commands:** npm (1)
 
-#### Preloading strategies for Angular Router
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980)
+#### [Preloading strategies for Angular Router](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how Angular lazy loads components and modules to make your app faster and more performant.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how [[Angular]] lazy loads components and modules to make your app faster and more performant.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=7)** In this video, we'll focus on how you can use preloading strategies to load content in the background for navigating between pages.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=14)** I opened our project here in a GitHub codespace.
+> **[0:14](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=14)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=17)** I talk about why we use codespaces earlier in this course so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:17](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=17)** I talk about why we use [[Codespaces]] earlier in this course so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[0:26](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=26)** I'll go to the src folder.
 >
-> **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=27)** Open the app folder and click on app-routing.module.ts to open the file.
+> **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=27)** Open the app folder and click on app-[[Routing]].module.ts to open the file.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=34)** Angular Router is the official package for managing routes and Angular apps.
 >
-> **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=38)** It's an optional package that you add to your project as needed using the Angular CLI tool.
+> **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=38)** It's an optional package that you add to your project as needed using the [[Angular CLI]] tool.
 >
 > **[0:44](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=44)** There are two parts to using Angular Router in your app.
 >
@@ -3125,7 +3089,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=63)** This usually means a faster initial load time for your app, which everyone likes.
 >
-> **[1:07](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=67)** The downside is that there's more network lag when routing between pages because Angular must first fetch the next module before rendering it.
+> **[1:07](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=67)** The downside is that there's more network lag when routing between pages because Angular must first [[Fetch]] the next module before rendering it.
 >
 > **[1:16](https://www.linkedin.com/learning/angular-essential-training-22884621/preloading-strategies-for-angular-router?u=76281980&t=76)** The slower the network connection, the more lag your users see when navigating between pages.
 >
@@ -3195,7 +3159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (14), [[Routing]] (4), data (3), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Angular]] (14), [[Routing]] (4), [[GitHub]] (1), [[Codespaces]] (1), [[Angular CLI]] (1)
 > **UI Navigation:** open the (3), go to (2), click on (1)
 > **Cross-References:** earlier in (3), later in (1)
 > **Definitions:** is a  (3), is called (1)
@@ -3204,24 +3168,23 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Env Vars:** cli (1)
 
-#### Using Angular Router with Angular templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980)
+#### [Using Angular Router with Angular templates](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=0)** - [Instructor] The Angular framework has full support for everything you might need when navigating between pages in your app.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=0)** - [Instructor] The [[Angular]] framework has full support for everything you might need when navigating between pages in your app.
 >
-> **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=6)** Some projects are small enough that they don't need page routing, but it's a good idea for all Angular developers to know how routing works.
+> **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=6)** Some projects are small enough that they don't need page [[Routing]], but it's a good idea for all Angular developers to know how routing works.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=13)** I opened our project here in a GitHub codespace.
+> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=13)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=15)** I talk about why we use codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=15)** I talk about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=25)** I'll go to the source folder, open the app folder, and click on app dot component dot HTML to open the file.
+> **[0:25](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=25)** I'll go to the source folder, open the app folder, and click on app dot component dot [[HTML]] to open the file.
 >
 > **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=33)** Angular Router is the official package for managing routes in Angular apps.
 >
-> **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=37)** It's an optional package that you add to your project as needed using the Angular CLI tool.
+> **[0:37](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=37)** It's an optional package that you add to your project as needed using the [[Angular CLI]] tool.
 >
 > **[0:41](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=41)** There are two parts to using Angular Router in your app.
 >
@@ -3243,7 +3206,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=86)** Let me show you what that looks like in the browser.
 >
-> **[1:29](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=89)** Inside our codespace, I'll open a new terminal window and use the NPM start command to launch a dev server.
+> **[1:29](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=89)** Inside our codespace, I'll open a new terminal window and use the [[npm]] start command to launch a dev server.
 >
 > **[1:37](https://www.linkedin.com/learning/angular-essential-training-22884621/using-angular-router-with-angular-templates?u=76281980&t=97)** This may take a moment, so please be patient.
 >
@@ -3315,7 +3278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (14), dom (4), [[HTML]] (3), css (3), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Angular]] (14), [[HTML]] (3), [[Routing]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **UI Navigation:** click on (6), open the (3), go to (2), navigate to (1), switch to (1)
 > **Env Vars:** html (3), css (3), cli (1), npm (1), url (1)
 > **Cross-References:** earlier in (2), go back to (2)
@@ -3329,12 +3292,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Angular signals and the Signal function
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980)
+#### [Angular signals and the Signal function](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=0)** - [Instructor] Starting in version 16, the Angular team introduced something called Signals that you can use to make your code more reactive.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=0)** - [Instructor] Starting in version 16, the [[Angular]] team introduced something called Signals that you can use to make your code more reactive.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=8)** Reactive programming is a coding pattern where you can watch for changes in data over time and trigger things to happen based on those changes.
 >
@@ -3356,9 +3318,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=64)** Check out Angular's official documentation for the most up-to-date info on Signals and how to use them.
 >
-> **[1:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=70)** I opened our project here in a GitHub codespace.
+> **[1:10](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=70)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[1:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=73)** I talk about why we use codespaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
+> **[1:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=73)** I talk about why we use [[Codespaces]] earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
 > **[1:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=82)** I'll go to the src folder, open the app folder, services and click on message.service.ts to open the file.
 >
@@ -3398,7 +3360,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=191)** Let's see what all this looks like in the browser.
 >
-> **[3:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=193)** Inside our codespace, I'll open a new terminal window and use the npm start command to launch a dev server.
+> **[3:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=193)** Inside our codespace, I'll open a new terminal window and use the [[npm]] start command to launch a dev server.
 >
 > **[3:22](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980&t=202)** This might take a moment, so please be patient.
 >
@@ -3440,7 +3402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), data (9), api (2), [[Programming]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (10), [[GitHub]] (1), [[Codespaces]] (1), [[npm]] (1)
 > **UI Navigation:** click on (3), open the (2), go to (1)
 > **Cross-References:** go back to (3), earlier in (1), later in (1)
 > **Env Vars:** api (2), url (1)
@@ -3449,18 +3411,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** message.service.ts (1)
 
-#### Angular signals and the Computed function
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980)
+#### [Angular signals and the Computed function](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=0)** - [Instructor] Starting in version 16 the Angular team introduced something called signals that you can use to make your code more reactive.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=0)** - [Instructor] Starting in version 16 the [[Angular]] team introduced something called signals that you can use to make your code more reactive.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=7)** Earlier in this course we looked at Angular signal function and how to use it to make new reactive values.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=13)** In this video, we'll look at computing new reactive values from existing signals.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=19)** I opened our project here in a GitHub code space.
+> **[0:19](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=19)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-computed-function?u=76281980&t=21)** I talk about why we use code spaces earlier in this course.
 >
@@ -3514,7 +3475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), data (2), [[GitHub]] (1), application (1), api (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[GitHub]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Cross-References:** earlier in (3)
 > **CLI Commands:** make (2)
@@ -3523,18 +3484,17 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Warnings:** keep in mind (1)
 
-#### Angular signals and the Effect function
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980)
+#### [Angular signals and the Effect function](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=0)** - [Instructor] Starting in version 16, the Angular team introduced something called signals, that you can use to make your code more reactive.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=0)** - [Instructor] Starting in version 16, the [[Angular]] team introduced something called signals, that you can use to make your code more reactive.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=8)** Earlier in this course, we looked at Angular signal API, for making new reactive values, and for computing values based on other signals.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=15)** In this video, we'll look at triggering side effects, when one or more signals change.
 >
-> **[0:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=20)** I opened our project here in a GitHub code space.
+> **[0:20](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=20)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=23)** I talk about why we use code spaces earlier in this course.
 >
@@ -3572,7 +3532,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=108)** Effects run at least once and then run again, whenever any of the underlying signals change.
 >
-> **[1:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=113)** Finally, effects need to access Angular's dependency injection.
+> **[1:53](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=113)** Finally, effects need to access Angular's [[Dependency Injection]].
 >
 > **[1:57](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-effect-function?u=76281980&t=117)** The easiest way to do this, is to set up your effects, inside the constructor of your components, services, and directives like we did here.
 >
@@ -3586,7 +3546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), api (2), [[GitHub]] (1), [[Analytics]] (1), application (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[GitHub]] (1), [[Dependency Injection]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Cross-References:** earlier in (3)
 > **Env Vars:** api (2)
@@ -3595,12 +3555,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Warnings:** keep in mind (1)
 
-#### Angular's async pipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980)
+#### [Angular's async pipe](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=0)** - [Instructor] The async pipe is a powerful tool that helps you work with promises and observables, directly inside your Angular templates.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=0)** - [Instructor] The async pipe is a powerful tool that helps you work with promises and observables, directly inside your [[Angular]] templates.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=6)** All Angular developers should know how to use the async pipe.
 >
@@ -3608,13 +3567,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=16)** This means you can use it in any template right out of the box, no extra code required.
 >
-> **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=21)** I opened our project here in a GitHub codespace.
+> **[0:21](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=21)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[0:24](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=24)** I talk about why we use codespaces earlier in this course.
+> **[0:24](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=24)** I talk about why we use [[Codespaces]] earlier in this course.
 >
 > **[0:27](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=27)** For now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=33)** I'll go to the Source folder, open up the App folder, Pages, Players, and click on players.component.html to open the file.
+> **[0:33](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=33)** I'll go to the Source folder, open up the App folder, Pages, Players, and click on players.component.[[HTML]] to open the file.
 >
 > **[0:43](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-s-async-pipe?u=76281980&t=43)** This is the Angular template for our main players page.
 >
@@ -3664,7 +3623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), data (4), [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1)
 > **Exercise Files:** template (3), exercise files (1)
 > **Code Identifiers:** ngfor (2), ngif (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
@@ -3673,16 +3632,15 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Tools:** github (1)
 
-#### RxJS and Reactive programming in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980)
+#### [RxJS and Reactive programming in Angular](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=0)** - [Instructor] Reactive programming is a software design pattern for working with data that may change over time.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=0)** - [Instructor] Reactive programming is a [[Software Design]] pattern for working with data that may change over time.
 >
-> **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=6)** It's not specific to the Angular framework, but it is a core concept and every Angular developer should know how it works.
+> **[0:06](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=6)** It's not specific to the [[Angular]] framework, but it is a core concept and every Angular developer should know how it works.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=13)** I opened our project here in a GitHub code space.
+> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=13)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=16)** I talk about why we use code spaces earlier in this course.
 >
@@ -3702,7 +3660,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=56)** We inject the HTTP service on line 12 as a private class member and reference the instance on line 16 to make a get request to get our data.
 >
-> **[1:05](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=65)** The HTTP service gives us access to all the REST methods we need to work with a database, including this get method.
+> **[1:05](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=65)** The HTTP service gives us access to all the [[Representational State Transfer (REST)|REST]] methods we need to work with a database, including this get method.
 >
 > **[1:14](https://www.linkedin.com/learning/angular-essential-training-22884621/rxjs-and-reactive-programming-in-angular?u=76281980&t=74)** Get takes two arguments.
 >
@@ -3750,7 +3708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Angular]] (3), [[Programming]] (2), api (2), database (2)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Software Design]] (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (3), url (3), api (1), rest (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -3764,14 +3722,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of unit testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980)
+#### [Overview of unit testing](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=0)** - Unit testing is a way to make sure the code you write works the way you expect it to.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=0)** - [[Unit Testing]] is a way to make sure the code you write works the way you expect it to.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=5)** Every angular developer should know how to test code.
+> **[0:05](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=5)** Every [[Angular]] developer should know how to test code.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=8)** This is especially important when working on a team with many developers writing code at the same time.
 >
@@ -3793,7 +3750,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=56)** In our case, the NG test and N P M test commands are the same thing so you can run either from the command line.
 >
-> **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=63)** I opened our project here in a GitHub code space.
+> **[1:03](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=63)** I opened our project here in a [[GitHub]] code space.
 >
 > **[1:06](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980&t=66)** I talk about why we use code spaces earlier in this course.
 >
@@ -3863,7 +3820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), [[Debugging]] (2), [[Unit Testing]] (1), [[GitHub]] (1), hit (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Unit Testing]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2), earlier in (1), later in (1)
 > **Tools:** command line (2), github (1), terminal (1)
@@ -3872,16 +3829,15 @@ created: 2026-05-02
 > **Documentation:** spec (3)
 > **Definitions:** is a  (2)
 
-#### Unit testing without dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980)
+#### [Unit testing without dependency injection](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at what unit testing is and how you would run an existing suite of unit tests in your project.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at what [[Unit Testing]] is and how you would run an existing suite of unit tests in your project.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=7)** In this video, we'll keep things simple and look at one common pattern for unit testing angular pipes.
+> **[0:07](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=7)** In this video, we'll keep things simple and look at one common pattern for unit testing [[Angular]] pipes.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=13)** I opened our project here in a GitHub code space.
+> **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=13)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=16)** I talk about why we use code spaces earlier in this course, so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
@@ -3889,7 +3845,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=35)** Always use the spec.ts ending for your unit tests.
 >
-> **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=39)** The Angular CLI tool does this for you when you generate new files using the NG generate command.
+> **[0:39](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=39)** The [[Angular CLI]] tool does this for you when you generate new files using the NG generate command.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=45)** This file has all the unit tests for our custom join pipe.
 >
@@ -3899,11 +3855,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=56)** This makes them easier to test when compared to services and components.
 >
-> **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=60)** That said, you can use this pattern for any code that doesn't use Angular's dependency injection.
+> **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=60)** That said, you can use this pattern for any code that doesn't use Angular's [[Dependency Injection]].
 >
 > **[1:06](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=66)** I talk about dependency injection in detail earlier in this course.
 >
-> **[1:09](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=69)** For now, just know that it's a software design pattern and a core concept in the Angular framework.
+> **[1:09](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=69)** For now, just know that it's a [[Software Design]] pattern and a core concept in the Angular framework.
 >
 > **[1:15](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=75)** In Angular, all unit tests start with a describe block like the one you see here on line three.
 >
@@ -3933,7 +3889,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=153)** These are usually the components, services, and other utilities you use across all your tests.
 >
-> **[2:39](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=159)** Jasmine follows standard JavaScript scope rules so variables declared in an outer scope are always available in interscope.
+> **[2:39](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=159)** Jasmine follows standard [[JavaScript]] scope rules so variables declared in an outer scope are always available in interscope.
 >
 > **[2:49](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=169)** That's why I use the let keyword instead of const.
 >
@@ -3947,7 +3903,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=196)** The first is a string to label the test.
 >
-> **[3:19](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=199)** In my work, we usually start the label with the word should, as in should do something or should return something or should not do something, but you can use any label that works well for you and your team.
+> **[3:19](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=199)** In my work, we usually start the label with the [[Microsoft Word|word]] should, as in should do something or should return something or should not do something, but you can use any label that works well for you and your team.
 >
 > **[3:32](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-without-dependency-injection?u=76281980&t=212)** The second argument is a callback.
 >
@@ -3983,7 +3939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), [[Unit Testing]] (2), [[Dependency Injection]] (2), [[JavaScript]] (2), [[Debugging]] (2)
+> **Frameworks & Libraries:** [[Angular]] (8), [[Unit Testing]] (2), [[Dependency Injection]] (2), [[JavaScript]] (2), [[GitHub]] (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **Cross-References:** earlier in (3)
@@ -3992,14 +3948,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **Code Identifiers:** tobe (1)
 
-#### Unit testing with dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980)
+#### [Unit testing with dependency injection](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how you run an existing suite of unit tests in a project, as well as how to write tests without using dependency injection.
+> **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at how you run an existing suite of unit tests in a project, as well as how to write tests without using [[Dependency Injection]].
 >
-> **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=9)** In this video, we'll look at one common pattern for unit testing and Angular service that uses dependency injection.
+> **[0:09](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=9)** In this video, we'll look at one common pattern for [[Unit Testing]] and [[Angular]] service that uses dependency injection.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=16)** I talk about services and dependency injection in detail earlier in this course.
 >
@@ -4019,9 +3974,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=60)** So for this video, we'll focus on how to use these functions to set up dependency injection to test our Angular service.
 >
-> **[1:07](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=67)** I opened our project here in a GitHub codespace.
+> **[1:07](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=67)** I opened our project here in a [[GitHub]] codespace.
 >
-> **[1:10](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=70)** I talk about why we use codespaces earlier in this course.
+> **[1:10](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=70)** I talk about why we use [[Codespaces]] earlier in this course.
 >
 > **[1:13](https://www.linkedin.com/learning/angular-essential-training-22884621/unit-testing-with-dependency-injection?u=76281980&t=73)** So for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
@@ -4095,7 +4050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (7), api (3), data (2), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[Dependency Injection]] (7), [[Unit Testing]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** http (13), api (2), spy (1)
 > **Cross-References:** earlier in (4)
 > **Prerequisites:** set up (2), configure (2)
@@ -4104,8 +4059,7 @@ created: 2026-05-02
 > **Documentation:** spec (2)
 > **File Paths:** api.service.spec.ts (1)
 
-#### Static code linting in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980)
+#### [Static code linting in Angular](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4121,21 +4075,21 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=29)** This makes the code easier to read, easier to search, and more predictable.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=35)** I opened our project here in a GitHub code space.
+> **[0:35](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=35)** I opened our project here in a [[GitHub]] code space.
 >
 > **[0:38](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=38)** I talk about why we use code spaces earlier in this course so for now, just think of them as an easy way to share and write code without installing anything on your local machine.
 >
-> **[0:46](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=46)** I'll go to the root of our project and click on .eslintrc.json.
+> **[0:46](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=46)** I'll go to the root of our project and click on .eslintrc.[[JSON]].
 >
 > **[0:53](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=53)** This is the configuration file for ES lint.
 >
 > **[0:56](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=56)** ES lint is an open source project released under the MIT license.
 >
-> **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=60)** As of this recording, it has an active community with over 900 contributors on GitHub and almost 27 million weekly downloads on NPM.
+> **[1:00](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=60)** As of this recording, it has an active community with over 900 contributors on GitHub and almost 27 million weekly downloads on [[npm]].
 >
-> **[1:09](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=69)** It's not part of the default install for new Angular projects, but you can quickly add it by running the NG lint or NPM run lint commands from your terminal.
+> **[1:09](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=69)** It's not part of the default install for new [[Angular]] projects, but you can quickly add it by running the NG lint or NPM run lint commands from your terminal.
 >
-> **[1:19](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=79)** The Angular CLI tool will update your project and configure sensible defaults.
+> **[1:19](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=79)** The [[Angular CLI]] tool will update your project and configure sensible defaults.
 >
 > **[1:24](https://www.linkedin.com/learning/angular-essential-training-22884621/static-code-linting-in-angular?u=76281980&t=84)** If you already have ES lint installed, the lint command will run the linter against your source code.
 >
@@ -4169,7 +4123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), [[GitHub]] (2), [[Search]] (1), [[JSON]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[GitHub]] (2), [[JSON]] (1), [[Angular]] (1), [[Angular CLI]] (1)
 > **Env Vars:** npm (3), mit (1), cli (1)
 > **Tools:** terminal (3), github (2)
 > **UI Navigation:** go to (2), click on (2), open the (1)
@@ -4183,14 +4137,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A deeper look at Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980)
+#### [A deeper look at Angular](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980&t=0)** - [Derek] We covered a lot of information in this course, and I encourage you to experiment with each technique to see which ones work best for you.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980&t=8)** While Angular's API is stable, the development team is always making improvements.
+> **[0:08](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980&t=8)** While [[Angular]]'s API is stable, the development team is always making improvements.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980&t=13)** This is why I strongly recommend you take a look at the links in the exercise files, as well as the official documentation for Angular.
 >
@@ -4206,7 +4159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), api (1)
+> **Frameworks & Libraries:** [[Angular]] (4)
 > **Env Vars:** api (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** exercise files (1)

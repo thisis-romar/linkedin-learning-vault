@@ -119,37 +119,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for SQL in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980)
+#### [The need for SQL in data science](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980&t=0)** - [Dan] If you work with data, you will likely work with SQL at some point.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980&t=0)** - [Dan] If you work with data, you will likely work with [[SQL]] at some point.
 >
 > **[0:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980&t=3)** In this course, we build the kinds of SQL queries that data analysts and data scientists often use, including specialized functions and operations that will save you time and help improve the quality and depth of your analysis.
 >
-> **[0:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980&t=14)** My name is Dan Sullivan, and I'm a data architect specializing in data science.
+> **[0:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980&t=14)** My name is Dan Sullivan, and I'm a data architect specializing in [[Data Science]].
 >
 > **[0:19](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980&t=19)** Start this course today to learn how to perform analysis tasks faster and more efficiently with SQL.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Science]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980&t=0)** - [Instructor] Now I do make some assumptions about what you already know.
 >
-> **[0:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980&t=3)** Now, this is an intermediate SQL course, so I assume you have some familiarity with relational databases and SQL.
+> **[0:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980&t=3)** Now, this is an intermediate [[SQL]] course, so I assume you have some familiarity with [[Relational Databases]] and SQL.
 >
 > **[0:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980&t=11)** And I also assume that you're comfortable working with an editor or an integrated development environment, or IDE.
 >
-> **[0:17](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980&t=17)** So for example, we'll be working in Visual Studio Code in the Codespaces environment within GitHub.
+> **[0:17](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/what-you-should-know?u=76281980&t=17)** So for example, we'll be working in Visual Studio Code in the [[Codespaces]] environment within [[GitHub]].
 
 > [!info]- Semantic Content
 >
@@ -166,8 +164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data science operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980)
+#### [Overview of data science operations](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=41)** We want to help our colleagues gather insights from data to help with the operations of our particular organizations.
 >
-> **[0:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=48)** So to do that, we will set up, say, data science operations within our organizations.
+> **[0:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=48)** So to do that, we will set up, say, [[Data Science]] operations within our organizations.
 >
 > **[0:54](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=54)** Well, what kinds of things do we need to do from a data perspective if we want to have a data science operation?
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=110)** So rather than look at a single transaction, we want to look at patterns over the course of thousands of transactions.
 >
-> **[1:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=116)** And we want to be able to answer specific questions about business operations, so for example, we might want to know what are the top 10% most profitable stores in a particular chain of retail stores?
+> **[1:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=116)** And we want to be able to answer specific questions about [[Business Operations]], so for example, we might want to know what are the top 10% most profitable stores in a particular chain of retail stores?
 >
 > **[2:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=129)** Or we might want to know which stores are not as profitable this quarter as they were last quarter.
 >
@@ -205,11 +202,11 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=147)** Now, of course, to do data science, we have to start with data, which means we have to go to various sources.
 >
-> **[2:33](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=153)** Oftentimes, we'll find the data that we need or the data we're interested in is already in a database, and it could be a relational database or it could be a NoSQL database.
+> **[2:33](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=153)** Oftentimes, we'll find the data that we need or the data we're interested in is already in a database, and it could be a relational database or it could be a [[NoSQL]] database.
 >
-> **[2:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=162)** Now, relational databases are often used for transaction processing systems and data warehouses.
+> **[2:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=162)** Now, [[Relational Databases]] are often used for transaction processing systems and data warehouses.
 >
-> **[2:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=168)** NoSQL databases are typically used in a couple of cases.
+> **[2:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=168)** NoSQL [[Databases]] are typically used in a couple of cases.
 >
 > **[2:52](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=172)** One is when you have very large volumes of data and very high velocity, so a large amount of data coming in short periods of time typically use NoSQL databases.
 >
@@ -217,9 +214,9 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=192)** Now, we may also get data straight from applications that are running in our data centers or in the cloud.
 >
-> **[3:18](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=198)** We may also get data streaming in from mobile devices.
+> **[3:18](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=198)** We may also get [[Data Streaming]] in from mobile devices.
 >
-> **[3:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=202)** Now, if you're in an organization that has, say, a fleet of vehicles, those vehicles might be instrumented with IOT, or internet of thing sensors which collect data about the state of the vehicle and send that information for analysis.
+> **[3:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=202)** Now, if you're in an organization that has, say, a fleet of vehicles, those vehicles might be instrumented with [[IoT]], or internet of thing sensors which collect data about the state of the vehicle and send that information for analysis.
 >
 > **[3:36](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=216)** And we also may be looking at, say, web logs.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=285)** And then we do things to transform the data, and basically, we can think of each data source as a puzzle piece, and the transformation is the operations that help us reshape those puzzle pieces so that they all fit together in a logical way.
 >
-> **[5:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=300)** And then finally, once we have the data transformed, then we can load it into a relational database, at which point we can then start using SQL to analyze it.
+> **[5:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=300)** And then finally, once we have the data transformed, then we can load it into a relational database, at which point we can then start using [[SQL]] to analyze it.
 >
 > **[5:10](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=310)** Now, transformations is a very broad topic, so let's look at just some simple examples.
 >
@@ -263,7 +260,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=385)** And then finally, after the transformation are performed, the data is loaded, then we get to what many of us consider the most interesting part, which is the analysis phase.
 >
-> **[6:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=394)** And here we're going to work with various tools, whether it's SQL or Python or Spark, to do different kinds of analysis.
+> **[6:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=394)** And here we're going to work with various tools, whether it's SQL or [[Python (Programming Language)|Python]] or Spark, to do different kinds of analysis.
 >
 > **[6:41](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980&t=401)** And the goal here is to basically derive insights from the data so we can provide those insights to our colleagues who make decisions about our organization's operations and strategies and tactics.
 >
@@ -271,7 +268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (52), database (8), business (5), [[NoSQL]] (4), application (4)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[NoSQL]] (4), [[SQL]] (3), [[Relational Databases]] (2), [[Databases]] (2)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Analogies:** for example (4), picture (2)
 > **Env Vars:** sql (3), iot (2)
@@ -280,16 +277,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data manipulation commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980)
+#### [Data manipulation commands](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=0)** - [Instructor] This is an intermediate SQL course, so I assume that you have some familiarity with SQL, but I do want to make sure that we all have some common understanding and a little bit of a refresher just in case it's been a little bit of time since you've seen some of the more common SQL commands that we'll be using in this course.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=0)** - [Instructor] This is an intermediate [[SQL]] course, so I assume that you have some familiarity with SQL, but I do want to make sure that we all have some common understanding and a little bit of a refresher just in case it's been a little bit of time since you've seen some of the more common SQL commands that we'll be using in this course.
 >
 > **[0:17](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=17)** So for starters, I just want to point out that there are two types of SQL commands that we're going to focus on.
 >
-> **[0:23](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=23)** One type is called data manipulation commands, and the others are data definition commands.
+> **[0:23](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=23)** One type is called [[Data Manipulation]] commands, and the others are data definition commands.
 >
 > **[0:28](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=28)** In this video, we're going to focus on data manipulation commands.
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=340)** Those are really useful for doing work, like, oh, adding up all the values of say, you know, a particular column, like if you're working with sales data, add up the total sales price of all of the rows that are returned by the select cause, or find the median or average value for some particular column.
 >
-> **[5:58](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=358)** So aggregate functions are really useful and we use them quite a bit in data science work.
+> **[5:58](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=358)** So aggregate functions are really useful and we use them quite a bit in [[Data Science]] work.
 >
 > **[6:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-manipulation-commands?u=76281980&t=363)** There's also sorting and grouping commands.
 >
@@ -429,29 +425,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (6), [[Data Manipulation]] (4), database (1), product (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Data Manipulation]] (4), [[Data Science]] (1)
 > **Env Vars:** sql (6), usa (4)
 > **Definitions:** is called (2), is a  (2), known as (2), is an  (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data definition commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980)
+#### [Data definition commands](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=0)** - [Instructor] Now we're going to look at data definition commands, the second type of SQL command.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=0)** - [Instructor] Now we're going to look at data definition commands, the second type of [[SQL]] command.
 >
-> **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=6)** Data definition commands allow us to manipulate data structures within a relational database.
+> **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=6)** Data definition commands allow us to manipulate [[Data Structures]] within a relational database.
 >
-> **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=12)** Now there are many different types of data structures that we have built into relational databases.
+> **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=12)** Now there are many different types of data structures that we have built into [[Relational Databases]].
 >
 > **[0:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=16)** We're going to focus on four tables, indexes, views, and schemas.
 >
-> **[0:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=24)** Now, tables are probably the most familiar data structure to those of us who've worked with SQL databases.
+> **[0:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=24)** Now, tables are probably the most familiar data structure to those of us who've worked with SQL [[Databases]].
 >
-> **[0:28](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=28)** Here's an example of a data manipulation command for creating a table, and we'll walk through each of the main components.
+> **[0:28](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=28)** Here's an example of a [[Data Manipulation]] command for creating a table, and we'll walk through each of the main components.
 >
 > **[0:36](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=36)** But as you can see, it allows us to create a particular table that has certain columns and certain data types.
 >
@@ -475,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=90)** Now text is sometimes referred to as character or variable character data type.
 >
-> **[1:36](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=96)** And in some relational databases and actually older versions of Postgres, you can also specify a specific length to a text.
+> **[1:36](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=96)** And in some relational databases and actually older versions of [[PostgreSQL|Postgres]], you can also specify a specific length to a text.
 >
 > **[1:44](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=104)** So for example, you could say last name has a maximum size of 30 characters, and it's fine to specify a text, but it's generally considered a good practice to not constrain yourself unnecessarily with regards to the length of strings or texts that we work with.
 >
@@ -583,7 +578,7 @@ created: 2026-05-02
 >
 > **[6:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=416)** Here's an example of a create schema statement, which specifies the phrase or the key terms create schema followed by the name of a schema.
 >
-> **[7:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=425)** In this case, data sci short for data science.
+> **[7:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=425)** In this case, data sci short for [[Data Science]].
 >
 > **[7:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/data-definition-commands?u=76281980&t=429)** Now we can think of a schema as an organizing structure.
 >
@@ -597,7 +592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), database (4), [[Relational Databases]] (4), [[SQL]] (3), [[Data Manipulation]] (2)
+> **Frameworks & Libraries:** [[Data Structures]] (4), [[Relational Databases]] (4), [[SQL]] (3), [[Data Manipulation]] (2), [[Databases]] (1)
 > **Definitions:** short for (2), is a  (2), stands for (1), is called (1)
 > **Env Vars:** sql (3), idx_ (1), idx (1)
 > **CLI Commands:** cd (2), make (1), find (1)
@@ -606,20 +601,19 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980)
+#### [SQL standards](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=0)** - [Speaker] Now as data scientists working with relational databases, we need to be aware of SQL standards.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=0)** - [Speaker] Now as data scientists working with [[Relational Databases]], we need to be aware of [[SQL]] standards.
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=5)** Now, this is because there is no single SQL language standard.
 >
 > **[0:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=11)** In fact, the standard has changed over time.
 >
-> **[0:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=14)** And also, although we have a common standard, there are variations across databases.
+> **[0:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=14)** And also, although we have a common standard, there are variations across [[Databases]].
 >
-> **[0:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=20)** So one database like Postgres might implement a certain subset of a broader standard, whereas another database like Oracle or DB2 or SQL Server might implement different subsets of the standards.
+> **[0:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=20)** So one database like [[PostgreSQL|Postgres]] might implement a certain subset of a broader standard, whereas another database like Oracle or DB2 or [[Microsoft SQL Server|SQL Server]] might implement different subsets of the standards.
 >
 > **[0:33](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=33)** So we just want to be aware that different databases may have different commands.
 >
@@ -633,7 +627,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=65)** And basically, each version adds new features, new capabilities.
 >
-> **[1:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=69)** So for example, some of the latest features include support for JSON data structures, as well as multidimensional arrays, and also advanced triggers.
+> **[1:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=69)** So for example, some of the latest features include support for [[JSON]] [[Data Structures]], as well as multidimensional arrays, and also advanced triggers.
 >
 > **[1:19](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/sql-standards?u=76281980&t=79)** Now, what does this mean for us?
 >
@@ -655,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (6), [[SQL]] (6), [[Databases]] (3), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (3), [[PostgreSQL|Postgres]] (2), [[Relational Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (7), ansi (3), varchar (2), db2 (1), json (1)
 > **SQL:** varchar (2)
 > **Analogies:** for example (2)
@@ -668,16 +662,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980)
+#### [Getting started with GitHub Codespaces](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=0)** - [Instructor] Okay, we are almost ready to get started actually working with SQL.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=0)** - [Instructor] Okay, we are almost ready to get started actually working with [[SQL]].
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=5)** But before we do that, I want to spend a little time talking about the development environment or the learning environment that we're going to be working with.
 >
-> **[0:13](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=13)** We are going to use a service called Codespaces, which is a virtualized environment that's provided by GitHub.
+> **[0:13](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=13)** We are going to use a service called [[Codespaces]], which is a virtualized environment that's provided by [[GitHub]].
 >
 > **[0:21](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=21)** And, GitHub, if you're not familiar with it, is a service which provides repositories for version-controlled code, and it makes it very easy to share and collaborate on code development.
 >
@@ -685,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=34)** GitHub plus Codespaces goes a step further by providing an environment in which we can execute our code.
 >
-> **[0:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=42)** So we are actually going to be using Codespaces for installing and running a Postgres server and actually interacting with Postgres using our SQL commands that we're going to be learning about in this course.
+> **[0:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=42)** So we are actually going to be using Codespaces for installing and running a [[PostgreSQL|Postgres]] server and actually interacting with Postgres using our SQL commands that we're going to be learning about in this course.
 >
 > **[0:55](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=55)** So the first thing we need to do is to navigate to the GitHub repository for this course.
 >
@@ -765,7 +758,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=302)** Well, one of the things we want to do is click Add New Connection, and what we're going to do is create a connection or our ability to communicate between our container and our Postgres database.
 >
-> **[5:13](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=313)** So I'm going to select, the kind of connection I want to use is a PostgreSQL connection.
+> **[5:13](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=313)** So I'm going to select, the kind of connection I want to use is a [[PostgreSQL]] connection.
 >
 > **[5:18](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980&t=318)** So I'll click on that.
 >
@@ -835,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (17), [[GitHub]] (12), [[Codespaces]] (9), [[SQL]] (5), database (5)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (17), [[GitHub]] (12), [[Codespaces]] (9), [[SQL]] (5), [[PostgreSQL]] (1)
 > **Tools:** github (12), visual studio (1), command line (1)
 > **Env Vars:** sql (4), url (3), readme (2), ide (2)
 > **UI Navigation:** click on (3), go to (2), navigate to (1), scroll down (1)
@@ -844,14 +837,13 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Code Identifiers:** data_sci (2)
 
-#### Creating tables and loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980)
+#### [Creating tables and loading data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=0)** - [Instructor] With Codespaces now set up and running, we can move on to our next step, which is to create a schema, a few tables, and then load data into those tables.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=0)** - [Instructor] With [[Codespaces]] now set up and running, we can move on to our next step, which is to create a schema, a few tables, and then load data into those tables.
 >
-> **[0:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=11)** And once we have that, then we can start working with our SQL queries.
+> **[0:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=11)** And once we have that, then we can start working with our [[SQL]] queries.
 >
 > **[0:15](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=15)** So I'm in Codespaces here and what I want to do is I want to just make sure my connection is working.
 >
@@ -923,7 +915,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=182)** And we'll notice down here in the bottom part, we're seeing some commands or some informational messages printed on the SQL console.
 >
-> **[3:10](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=190)** And I'm just going to move some windows around.
+> **[3:10](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=190)** And I'm just going to move some [[Windows]] around.
 >
 > **[3:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/creating-tables-and-loading-data?u=76281980&t=194)** And if we navigate back over to the left and click on SQL Tools, and now our schemas are expanded.
 >
@@ -943,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), next (4), data (3), [[Codespaces]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Codespaces]] (2), [[Windows]] (1)
 > **Code Identifiers:** data_sci (7), company_regions (3), last_name (2), exercise_data (1), company_departments (1)
 > **Env Vars:** sql (6)
 > **UI Navigation:** click on (3), open the (1), scroll down (1)
@@ -952,8 +944,7 @@ created: 2026-05-02
 > **File Paths:** exercise_data.sql (1)
 > **CLI Commands:** make (1)
 
-#### Basic aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980)
+#### [Basic aggregate functions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +962,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=42)** So those are the three tables we'll work with.
 >
-> **[0:45](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=45)** So let's start by working with employees and we'll start with probably the simplest SQL statement there is, which is simply select, star, from, and now I'm going to specify a table and I'm going to select from data_sci.employees.
+> **[0:45](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=45)** So let's start by working with employees and we'll start with probably the simplest [[SQL]] statement there is, which is simply select, star, from, and now I'm going to specify a table and I'm going to select from data_sci.employees.
 >
 > **[1:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=63)** And I'm going to run on active connection.
 >
@@ -1055,7 +1046,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=296)** Our maximum salary is almost 150,000.
 >
-> **[4:59](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=299)** So now we're starting to get more of a feel for the distribution of the data for one particular column, in this case salary, which is oftentimes something we want to know when we are working in a data science environment, one of the things we wanted to understand is what are the distributions of different columns?
+> **[4:59](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=299)** So now we're starting to get more of a feel for the distribution of the data for one particular column, in this case salary, which is oftentimes something we want to know when we are working in a [[Data Science]] environment, one of the things we wanted to understand is what are the distributions of different columns?
 >
 > **[5:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/basic-aggregate-functions?u=76281980&t=320)** So that's when we're working with salary.
 >
@@ -1107,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[SQL]] (1), [[Analytics]] (1), game (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[SQL]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (3)
@@ -1116,14 +1107,13 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Statistical aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980)
+#### [Statistical aggregate functions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=0)** - [Narrator] Now let's look at some additional aggregate functions.
 >
-> **[0:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=3)** And in particular, I'd like to look at aggregate functions that help us with what are known as descriptive statistics.
+> **[0:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=3)** And in particular, I'd like to look at aggregate functions that help us with what are known as descriptive [[Statistics]].
 >
 > **[0:10](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=10)** So I'd like to understand what's the distribution or the shape of the data in particular columns.
 >
@@ -1209,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=239)** Why don't we actually use some statistical functions like variants to understand how distributed the salary really is?
 >
-> **[4:10](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=250)** Well, there is a function in Postgres called var_pop, which stands for variance of the population.
+> **[4:10](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=250)** Well, there is a function in [[PostgreSQL|Postgres]] called var_pop, which stands for variance of the population.
 >
 > **[4:18](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=258)** And we can specify salary here and we can get a variance of this population or the entire of all of the salaries we look at.
 >
@@ -1285,13 +1275,13 @@ created: 2026-05-02
 >
 > **[9:21](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=561)** They describe the distribution of the data.
 >
-> **[9:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=564)** And again, we use them really quite often in data science.
+> **[9:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=564)** And again, we use them really quite often in [[Data Science]].
 >
-> **[9:29](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=569)** So working with functions like the average to get the mean or working with standard deviation of a population are functions we'll often use when we're working with data science problems and using SQL to interrogate the data.
+> **[9:29](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/statistical-aggregate-functions?u=76281980&t=569)** So working with functions like the average to get the mean or working with standard deviation of a population are functions we'll often use when we're working with data science problems and using [[SQL]] to interrogate the data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (4), [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Data Science]] (2), [[PostgreSQL|Postgres]] (1), [[SQL]] (1)
 > **Code Identifiers:** department_id (3), data_sci (1), var_pop (1), avg_salary (1), stddev_pop (1)
 > **Definitions:** is a  (2), known as (1), stands for (1), is an  (1)
 > **CLI Commands:** make (2), find (2)
@@ -1300,8 +1290,7 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Speakers:** - [narrator] (1)
 
-#### Grouping and filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/grouping-and-filtering-data?u=76281980)
+#### [Grouping and filtering data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/grouping-and-filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1338,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/grouping-and-filtering-data?u=76281980&t=129)** But we don't want to do an exact match.
 >
-> **[2:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/grouping-and-filtering-data?u=76281980&t=131)** What we want to do is we want to tell the Postgres query plan builder, the thing that actually builds the steps to execute this statement.
+> **[2:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/grouping-and-filtering-data?u=76281980&t=131)** What we want to do is we want to tell the [[PostgreSQL|Postgres]] query plan builder, the thing that actually builds the steps to execute this statement.
 >
 > **[2:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/grouping-and-filtering-data?u=76281980&t=140)** We want it to, instead of doing a literal match for a B, followed by a percent sign, we want it to do a pattern match where it looks for a B and then the pattern that we associate with an ampersand is basically any number of characters.
 >
@@ -1439,19 +1428,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Joining and filtering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980)
+#### [Joining and filtering data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=0)** - [Instructor] One of the things we find pretty quickly when we're working with relational databases is that we often have to combine information that's stored in different tables.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=0)** - [Instructor] One of the things we find pretty quickly when we're working with [[Relational Databases]] is that we often have to combine information that's stored in different tables.
 >
-> **[0:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=9)** And we do that from a data modeling perspective quite intentionally.
+> **[0:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=9)** And we do that from a [[Data Modeling]] perspective quite intentionally.
 >
 > **[0:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=14)** We split up data into different tables to help avoid what are known as data anomalies or problems that can creep into the data such as inconsistencies and how we report things.
 >
@@ -1481,7 +1469,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=112)** So we have employees, let's say we want to work with company_regions.
 >
-> **[1:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=116)** I'm just going to jump over real quick into the SQL connections area and just drop down or expand the company_regions table explanation where we can see the columns that are available.
+> **[1:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=116)** I'm just going to jump over real quick into the [[SQL]] connections area and just drop down or expand the company_regions table explanation where we can see the columns that are available.
 >
 > **[2:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=128)** And there are two columns available with descriptive text.
 >
@@ -1495,7 +1483,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=143)** In this case, it's company_regions and I'll just take that.
 >
-> **[2:27](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=147)** Now when we specify a join, we need to tell Postgres or SQL what columns you want to join on.
+> **[2:27](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=147)** Now when we specify a join, we need to tell [[PostgreSQL|Postgres]] or SQL what columns you want to join on.
 >
 > **[2:35](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=155)** 'Cause a join basically says link up two rows or two or more rows, but link up rows that are related.
 >
@@ -1619,7 +1607,7 @@ created: 2026-05-02
 >
 > **[8:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=514)** And so definitely doing a join, it allows, again, more explicit data to make the data more obvious to somebody who might be reading it.
 >
-> **[8:43](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=523)** Because you may download and export this data set to an Excel spreadsheet that you pass off to someone else.
+> **[8:43](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=523)** Because you may download and export this data set to an [[Microsoft Excel|Excel]] spreadsheet that you pass off to someone else.
 >
 > **[8:49](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/joining-and-filtering-data?u=76281980&t=529)** Well, think about them as well.
 >
@@ -1659,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[SQL]] (3), [[Relational Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Modeling]] (2), [[Relational Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** country_name (15), company_regions (9), region_name (7), region_id (6), department_id (3)
 > **CLI Commands:** make (9), find (1)
 > **Env Vars:** where (4), sql (3), select (1), join (1)
@@ -1668,8 +1656,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Test an attribute for normal distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-test-an-attribute-for-normal-distribution?u=76281980)
+#### [Challenge: Test an attribute for normal distribution](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-test-an-attribute-for-normal-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,8 +1671,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Test an attribute for normal distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-test-an-attribute-for-normal-distribution?u=76281980)
+#### [Solution: Test an attribute for normal distribution](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-test-an-attribute-for-normal-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1713,7 +1699,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (2)
 > **Code Identifiers:** company_departments (2), data_sci (1)
 > **SQL:** select (1), join (1), where (1)
 > **Env Vars:** select (1), join (1), where (1)
@@ -1727,14 +1712,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reformatting character data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980)
+#### [Reformatting character data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=0)** - [Instructor] In data science and data analysis, we often work with numbers, but we also often work with text and short strings.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=0)** - [Instructor] In [[Data Science]] and data analysis, we often work with numbers, but we also often work with text and short strings.
 >
-> **[0:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=8)** So it's important to think about how we can use different functions in SQL for manipulating text, such as reformatting text.
+> **[0:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=8)** So it's important to think about how we can use different functions in [[SQL]] for manipulating text, such as reformatting text.
 >
 > **[0:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=16)** So in this video, we're going to work with the company_departments table because that has a couple of text columns in there.
 >
@@ -1784,7 +1768,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=169)** This happens more than I would like at least in my work where I might be working with a new data set.
 >
-> **[2:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=176)** It might come out of maybe an older source data system that doesn't have quite the, you know, data quality checks that we might be used to.
+> **[2:56](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=176)** It might come out of maybe an older source data system that doesn't have quite the, you know, [[Data Quality]] checks that we might be used to.
 >
 > **[3:04](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=184)** So for example, let's say we're working with somebody's name.
 >
@@ -1792,7 +1776,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=192)** We can for example, type SELECT Kelly.
 >
-> **[3:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=196)** And if we run this, this is simply going to return the word Kelly.
+> **[3:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=196)** And if we run this, this is simply going to return the [[Microsoft Word|word]] Kelly.
 >
 > **[3:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980&t=200)** Now, if I put a space in front of the word Kelly and run this, I get a result back, which looks surprisingly similar.
 >
@@ -1914,7 +1898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (4), [[SQL]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[SQL]] (2), [[Data Science]] (1), [[Data Quality]] (1)
 > **Code Identifiers:** department_name (5), company_departments (3)
 > **Analogies:** for example (4), such as (1), imagine (1)
 > **CLI Commands:** make (3)
@@ -1923,8 +1907,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting strings from character data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980)
+#### [Extracting strings from character data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1915,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=6)** So we might want to maybe break off or take off the beginning of a piece of text or extract the end of a piece of text.
 >
-> **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=12)** Well, SQL gives us a number of different ways to do that.
+> **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=12)** Well, [[SQL]] gives us a number of different ways to do that.
 >
 > **[0:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=16)** So let's start with a really simple example, and let's start with a select and then a series of letters.
 >
@@ -2006,13 +1989,13 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=216)** So we've got different kinds of job titles.
 >
-> **[3:38](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=218)** So we have somebody here who's a marketing assistant, there's an office assistant three.
+> **[3:38](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=218)** So we have somebody here who's a marketing assistant, there's an [[Microsoft Office|office]] assistant three.
 >
 > **[3:44](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=224)** Okay, so let's say we want to understand more about people who have assistant in their title.
 >
 > **[3:50](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=230)** Well, one thing we could do is we could create a where clause and match where job title is like assistant.
 >
-> **[4:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=245)** Now we don't want to necessarily start with the word assistant.
+> **[4:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=245)** Now we don't want to necessarily start with the [[Microsoft Word|word]] assistant.
 >
 > **[4:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/extracting-strings-from-character-data?u=76281980&t=248)** We want to match anytime the word assistant falls anywhere within a title.
 >
@@ -2088,7 +2071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[SQL]] (3), data (3), [[Microsoft Office|Office]] (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[SQL]] (3), [[Microsoft Office|Office]] (2)
 > **Code Identifiers:** is_assistant (2), data_sci (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -2097,8 +2080,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Warnings:** warning (1), be aware (1)
 
-#### Filtering with regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980)
+#### [Filtering with regular expressions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,27 +2280,26 @@ created: 2026-05-02
 >
 > **[9:30](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=570)** So here we are.
 >
-> **[9:32](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=572)** What we're doing now is it's similar to working with a like operator, but we're using more of a regular expression syntax, which allows us to do like lists where we can choose among the different options in a list, like starts with A, or starts with M in the second word.
+> **[9:32](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=572)** What we're doing now is it's similar to working with a like operator, but we're using more of a regular expression syntax, which allows us to do like lists where we can choose among the different options in a list, like starts with A, or starts with M in the second [[Microsoft Word|word]].
 >
 > **[9:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=588)** And anytime you want to build more complex logic around pattern matching, I would suggest looking at the similar two operator.
 >
 > **[9:57](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=597)** Now there are more things you can do with regular expressions, like specifying, oh, I want to match on digits or a certain number of characters or, you know, a number of other kinds of very specific patterns.
 >
-> **[10:07](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=607)** So I would suggest looking at the Postgres documentation for similar to, to see what other ways you can specify patterns, using this.
+> **[10:07](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=607)** So I would suggest looking at the [[PostgreSQL|Postgres]] documentation for similar to, to see what other ways you can specify patterns, using this.
 >
 > **[10:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/filtering-with-regular-expressions?u=76281980&t=614)** But it is really a really useful and expressive syntax for describing text patterns and doing regular expression matching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (15), data (3), product (2), business (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PostgreSQL|Postgres]] (1)
 > **Analogies:** similar to (8), for example (2), imagine (1), just like (1)
 > **CLI Commands:** find (5), make (1)
 > **Documentation:** specification (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reformatting numeric data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-numeric-data?u=76281980)
+#### [Reformatting numeric data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-numeric-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2332,7 +2313,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-numeric-data?u=76281980&t=34)** So for example here, we have the average salary of around $97,433 and 54 to 55 cents, but there's a lot of digits in this calculation, which is really helpful.
 >
-> **[0:46](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-numeric-data?u=76281980&t=46)** It's great that we can use Postgres to do some fairly high precision calculations like this, but really oftentimes we don't need to have that level of precision.
+> **[0:46](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-numeric-data?u=76281980&t=46)** It's great that we can use [[PostgreSQL|Postgres]] to do some fairly high precision calculations like this, but really oftentimes we don't need to have that level of precision.
 >
 > **[0:57](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-numeric-data?u=76281980&t=57)** And we have seen in previous videos how we can use the round operation to round this value.
 >
@@ -2394,7 +2375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[PostgreSQL|Postgres]] (1), business (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Versions:** 0.5 (2), 97.33 (1), 54.55 (1), 97433.54 (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1), short for (1)
@@ -2402,14 +2383,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fuzzy string matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980)
+#### [Fuzzy string matching](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=0)** - [Narrator] When we're working with texts, sometimes we want to be tolerant of small variations in a text.
 >
-> **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=6)** For example, if we're using single words and we're trying to match on those, maybe there's a typo and maybe there's an extra S for example, like at the end of the word Postgres, well, if somebody has two S's at the end of Postgres versus one, do you want to be able to match on that column?
+> **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=6)** For example, if we're using single words and we're trying to match on those, maybe there's a typo and maybe there's an extra S for example, like at the end of the [[Microsoft Word|word]] [[PostgreSQL|Postgres]], well, if somebody has two S's at the end of Postgres versus one, do you want to be able to match on that column?
 >
 > **[0:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=20)** Well, sometimes the answer's going to be no, absolutely not.
 >
@@ -2427,7 +2407,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=71)** So now I'm going to run this, and what we'll see here is if the fuzzystrmatch is already installed, and it's already installed in my database, we get an error.
 >
-> **[1:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=80)** Now we can use an optional clause, create extension if not exists fuzzystrmatch, and we run that, it simply gives us a notice down here in the SQL console, notice that the fuzzystrmatch extension already exists.
+> **[1:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=80)** Now we can use an optional clause, create extension if not exists fuzzystrmatch, and we run that, it simply gives us a notice down here in the [[SQL]] console, notice that the fuzzystrmatch extension already exists.
 >
 > **[1:37](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=97)** So if I had other operations, other commands in this file, I wouldn't have errored out completely.
 >
@@ -2557,7 +2537,7 @@ created: 2026-05-02
 >
 > **[9:26](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=566)** Now maybe we've got to make a lot of changes.
 >
-> **[9:29](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=569)** So maybe we're typing in something like MySQL and we run that.
+> **[9:29](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=569)** So maybe we're typing in something like [[MySQL]] and we run that.
 >
 > **[9:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/fuzzy-string-matching?u=76281980&t=574)** We see that we actually have to make eight changes.
 >
@@ -2575,7 +2555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (18), [[Microsoft Word|Word]] (3), data (2), [[MySQL]] (2), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (18), [[Microsoft Word|Word]] (3), [[MySQL]] (2), [[SQL]] (1)
 > **CLI Commands:** make (9), mysql (2)
 > **Env Vars:** p232 (2), utf (2), sql (1), select (1), k232 (1)
 > **Analogies:** for example (4)
@@ -2584,8 +2564,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Prepare a data set for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-prepare-a-data-set-for-analysis?u=76281980)
+#### [Challenge: Prepare a data set for analysis](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-prepare-a-data-set-for-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2604,8 +2583,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Prepare a data set for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-prepare-a-data-set-for-analysis?u=76281980)
+#### [Solution: Prepare a data set for analysis](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-prepare-a-data-set-for-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2632,8 +2610,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the HAVING clause to find subgroups
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980)
+#### [Using the HAVING clause to find subgroups](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2767,7 +2744,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980&t=361)** Well, and that makes sense because let's think back to what we use the WHERE clause for.
 >
-> **[6:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980&t=365)** The WHERE clause allows us to tell Postgres which rows we want to include in our result set, or whatever operation we're doing.
+> **[6:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980&t=365)** The WHERE clause allows us to tell [[PostgreSQL|Postgres]] which rows we want to include in our result set, or whatever operation we're doing.
 >
 > **[6:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980&t=374)** So, before we even have a count we have to decide which rows are going to be included in the count.
 >
@@ -2791,7 +2768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (5), data (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** order (9), where (8), having (4), asc (3), select (2)
 > **SQL:** order by (9), where (8), having (4), select (2), group by (2)
 > **Code Identifiers:** department_name (7), company_departments (3), data_sci (3), department_id (1)
@@ -2800,12 +2777,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Subqueries for column values
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-for-column-values?u=76281980)
+#### [Subqueries for column values](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-for-column-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-for-column-values?u=76281980&t=0)** - [Instructor] One of the nice things about the way SQL is designed is that it allows you to have SELECT statements within SELECT statements, which can be really useful for creating a kind of modularized logic and allowing us to break down business logic into components which are easy to understand and relatively easy to implement.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-for-column-values?u=76281980&t=0)** - [Instructor] One of the nice things about the way [[SQL]] is designed is that it allows you to have SELECT statements within SELECT statements, which can be really useful for creating a kind of modularized logic and allowing us to break down business logic into components which are easy to understand and relatively easy to implement.
 >
 > **[0:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-for-column-values?u=76281980&t=22)** Now, in SQL, there are a few different places in a SELECT statement where you can use another SELECT statement.
 >
@@ -2965,7 +2941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), business (2), data (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** select (9), sql (2)
 > **SQL:** select (9)
 > **Code Identifiers:** data_sci (4), department_id (1)
@@ -2974,8 +2950,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subqueries in FROM clauses
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-in-from-clauses?u=76281980)
+#### [Subqueries in FROM clauses](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-in-from-clauses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3021,7 +2996,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), business (1)
 > **SQL:** where (3), select (2)
 > **Env Vars:** where (3), select (2)
 > **Code Identifiers:** data_sci (3)
@@ -3030,8 +3004,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subqueries in WHERE clauses
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-in-where-clauses?u=76281980)
+#### [Subqueries in WHERE clauses](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/subqueries-in-where-clauses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3086,8 +3059,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using ROLLUP to create subtotals
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-rollup-to-create-subtotals?u=76281980)
+#### [Using ROLLUP to create subtotals](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-rollup-to-create-subtotals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3097,7 +3069,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-rollup-to-create-subtotals?u=76281980&t=24)** So for example, we could maybe group by a department name to see the count of the number of employees within each department.
 >
-> **[0:32](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-rollup-to-create-subtotals?u=76281980&t=32)** Well, SQL and Postgres actually has another operator we can use called roll up, which gives us a third way of working with aggregates.
+> **[0:32](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-rollup-to-create-subtotals?u=76281980&t=32)** Well, [[SQL]] and [[PostgreSQL|Postgres]] actually has another operator we can use called roll up, which gives us a third way of working with aggregates.
 >
 > **[0:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-rollup-to-create-subtotals?u=76281980&t=42)** And roll up allows us to do sort of like sub aggregates in a hierarchical fashion.
 >
@@ -3231,7 +3203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (3), feature (2), [[PostgreSQL|Postgres]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (3), usa (2)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (4)
@@ -3239,8 +3211,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using CUBE to total across dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-cube-to-total-across-dimensions?u=76281980)
+#### [Using CUBE to total across dimensions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-cube-to-total-across-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3360,7 +3331,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-cube-to-total-across-dimensions?u=76281980&t=371)** So if we wanted to look at, say, all possible combinations of these three dimensions or country name, region name, department name, we could use an operator called Cube.
 >
-> **[6:21](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-cube-to-total-across-dimensions?u=76281980&t=381)** And the Cube is an operator we apply in the group by clause, and it's very similar to Rollup in that we simply ask Postgres to apply the Cube operator to this grouping structure.
+> **[6:21](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-cube-to-total-across-dimensions?u=76281980&t=381)** And the Cube is an operator we apply in the group by clause, and it's very similar to Rollup in that we simply ask [[PostgreSQL|Postgres]] to apply the Cube operator to this grouping structure.
 >
 > **[6:38](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-cube-to-total-across-dimensions?u=76281980&t=398)** So I'm just going to run this.
 >
@@ -3450,7 +3421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cd (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Analogies:** for example (4), similar to (2), kind of like (1)
 > **Definitions:** is a  (5), is an  (1)
 > **UI Navigation:** scroll down (2), select the (1), switch to (1)
@@ -3458,12 +3429,11 @@ created: 2026-05-02
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Top-N queries to find top results
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980)
+#### [Using Top-N queries to find top results](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=0)** - [Instructor] Now if we want to find, say the top 10 employees by salary or some other, you know, top by count of employees, there are a couple, actually a few different ways of doing it within Postgres.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=0)** - [Instructor] Now if we want to find, say the top 10 employees by salary or some other, you know, top by count of employees, there are a couple, actually a few different ways of doing it within [[PostgreSQL|Postgres]].
 >
 > **[0:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=16)** And I just want to show you one of the ways.
 >
@@ -3487,7 +3457,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=71)** Now sometimes if it's like a lot of data like this, I really don't want to see the other data.
 >
-> **[1:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=76)** I can use an operator in Postgres that is in many different relational database systems, but is not part of standard SQL.
+> **[1:16](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=76)** I can use an operator in Postgres that is in many different relational [[Database Systems]], but is not part of standard [[SQL]].
 >
 > **[1:23](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=83)** It's called the Limit Operator.
 >
@@ -3501,7 +3471,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=102)** So that's kind of a quick way to get the top 10.
 >
-> **[1:47](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=107)** Now limit is not a standard SQL operator, but there is an operator called Fetch First.
+> **[1:47](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=107)** Now limit is not a standard SQL operator, but there is an operator called [[Fetch]] First.
 >
 > **[1:57](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-top-n-queries-to-find-top-results?u=76281980&t=117)** Fetch first 10 rows only, that you probably don't see this too much, but in case you're working with a version of SQL that doesn't support the limit operator, you can write this as well.
 >
@@ -3521,7 +3491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[SQL]] (3), [[Fetch]] (3), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Fetch]] (3), [[PostgreSQL|Postgres]] (2), [[Database Systems]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** it's like (1), for example (1)
@@ -3530,8 +3500,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Filter and aggregate a data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-filter-and-aggregate-a-data-set?u=76281980)
+#### [Challenge: Filter and aggregate a data set](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-filter-and-aggregate-a-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3544,8 +3513,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Filter and aggregate a data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-filter-and-aggregate-a-data-set?u=76281980)
+#### [Solution: Filter and aggregate a data set](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-filter-and-aggregate-a-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3576,8 +3544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980)
+#### [Introducing window functions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3589,7 +3556,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980&t=24)** Well, we could use a subquery for that.
 >
-> **[0:27](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980&t=27)** Well, SQL also provides another mechanism for doing that kind of calculation, and it's something known as window functions.
+> **[0:27](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980&t=27)** Well, [[SQL]] also provides another mechanism for doing that kind of calculation, and it's something known as window functions.
 >
 > **[0:33](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980&t=33)** And the term window you can think of as a metaphor for like a window in a house.
 >
@@ -3683,7 +3650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Code Identifiers:** first_value (11), department_id (3), data_sci (1), last_name (1)
 > **Env Vars:** sql (3), order (3), select (1), partition (1)
 > **SQL:** order by (3), select (1)
@@ -3692,8 +3659,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1), think of it as (1)
 > **UI Navigation:** scroll down (1)
 
-#### NTH_VALUE and NTH_TILE
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/nth-value-and-nth-tile?u=76281980)
+#### [NTH_VALUE and NTH_TILE](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/nth-value-and-nth-tile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3807,7 +3773,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Documentation:** specification (2)
@@ -3815,8 +3780,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### RANK, LEAD, and LAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/rank-lead-and-lag?u=76281980)
+#### [RANK, LEAD, and LAG](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/rank-lead-and-lag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3950,7 +3914,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1)
 > **Code Identifiers:** department_id (4), last_name (1), data_sci (1)
 > **Env Vars:** partition (3)
 > **Definitions:** is a  (2), is called (1)
@@ -3958,8 +3921,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Width_buckets and CUME_DIST
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/width-buckets-and-cume-dist?u=76281980)
+#### [Width_buckets and CUME_DIST](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/width-buckets-and-cume-dist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4125,7 +4087,7 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/width-buckets-and-cume-dist?u=76281980&t=454)** I have an understanding of what's going on, but I want to verify.
 >
-> **[7:37](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/width-buckets-and-cume-dist?u=76281980&t=457)** So I've happened to just go out and look up Postgres documentation for the round function.
+> **[7:37](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/width-buckets-and-cume-dist?u=76281980&t=457)** So I've happened to just go out and look up [[PostgreSQL|Postgres]] documentation for the round function.
 >
 > **[7:44](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/width-buckets-and-cume-dist?u=76281980&t=464)** And if we scroll down and we see here, ah, there are two signatures or two sort of patterns or two sets of arguments we can pass into round.
 >
@@ -4169,7 +4131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), data (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4)
 > **Code Identifiers:** width_bucket (9), cume_dist (5), last_name (3), department_id (2), width_buckets (1)
 > **Definitions:** is a  (3), is called (2), is an  (2), stands for (1), known as (1)
 > **Analogies:** similar to (2), for example (1), it's like (1)
@@ -4178,8 +4140,7 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Env Vars:** select (1)
 
-#### Challenge: Segment a data set using window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-segment-a-data-set-using-window-functions?u=76281980)
+#### [Challenge: Segment a data set using window functions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-segment-a-data-set-using-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4193,8 +4154,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Segment a data set using window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-segment-a-data-set-using-window-functions?u=76281980)
+#### [Solution: Segment a data set using window functions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-segment-a-data-set-using-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4223,8 +4183,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing common table expressions (CTEs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980)
+#### [Introducing common table expressions (CTEs)](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4232,7 +4191,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=5)** Now, these are basically auxiliary statements that we use when we're working with larger, more complex queries.
 >
-> **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=12)** And what they allow us to do is essentially modularize our query, much like you use modular approaches in programming and software development to break down, say, complex tasks into smaller units, and each unit is its own module or function.
+> **[0:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=12)** And what they allow us to do is essentially modularize our query, much like you use modular approaches in programming and [[Software Development]] to break down, say, complex tasks into smaller units, and each unit is its own module or function.
 >
 > **[0:30](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980&t=30)** Well, you can think of a common table expression as a module within a query that allows you to break down and isolate some of the complexity, and so we're able to essentially create what are like temporary tables that are used within a query.
 >
@@ -4274,7 +4233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (2), feature (1), [[Software Development]] (1), management (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Env Vars:** cte (7), select (4)
 > **SQL:** select (4)
 > **Definitions:** known as (2)
@@ -4282,8 +4241,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple table common table expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980)
+#### [Multiple table common table expressions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4313,7 +4271,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=77)** Now if you're familiar with programming in programming languages, you'll probably feel like a familiarity like what I'm doing is like writing a top level function where I'm mapping out my basic high level logic and I'm assuming that I will have access to additional functions that will help me implement this.
 >
-> **[1:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=94)** Now with SQL, instead of implementing functions, we implement relations or queries that return sets of data that we work with.
+> **[1:34](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=94)** Now with [[SQL]], instead of implementing functions, we implement relations or queries that return sets of data that we work with.
 >
 > **[1:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/multiple-table-common-table-expression?u=76281980&t=102)** So what I'm saying here is I've got to create two additional sets of data.
 >
@@ -4415,25 +4373,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cte (9), sql (1)
 > **Definitions:** is a  (5), is called (3), is an  (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** data_sci (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980)
+#### [Hierarchical tables](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=0)** - [Instructor] Now when we work with hierarchical data structures, like on organization structures, it's often helpful to use recursive CTEs.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=0)** - [Instructor] Now when we work with hierarchical [[Data Structures]], like on organization structures, it's often helpful to use recursive CTEs.
 >
 > **[0:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=9)** So let's take a look at how we might organize hierarchical data in a relational database.
 >
 > **[0:15](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=15)** So here's an example of a very simple organizational structure where we have three levels of management hierarchy.
 >
-> **[0:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=22)** We have at the root or the top of the organizational hierarchy is the CEO office, and then below that, we have two different departments.
+> **[0:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=22)** We have at the root or the top of the organizational hierarchy is the CEO [[Microsoft Office|office]], and then below that, we have two different departments.
 >
 > **[0:32](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=32)** We have VP of sales and we have VP of operations.
 >
@@ -4449,7 +4406,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=66)** Well, of course it's a CTE, so we start with a WITH clause or a WITH term, and then we have a new term called RECURSIVE.
 >
-> **[1:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=74)** So in addition to having the WITH, we want to say WITH RECURSIVE to indicate to Postgres that we're now working with a recursive CTE.
+> **[1:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=74)** So in addition to having the WITH, we want to say WITH RECURSIVE to indicate to [[PostgreSQL|Postgres]] that we're now working with a recursive CTE.
 >
 > **[1:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/hierarchical-tables?u=76281980&t=82)** We follow that with a CTE name or a table name or a relation name, and then a list of columns that we're going to reference within our CTE.
 >
@@ -4503,7 +4460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), management (3), [[Microsoft Office|Office]] (3), database (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Data Structures]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** union (9), cte (7), ceo (3), recursive (2)
 > **Code Identifiers:** parent_department_id (3), org_structure (2), department_name (2), data_sci (1)
 > **Tools:** terminal (4)
@@ -4512,8 +4469,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Recursive common table expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980)
+#### [Recursive common table expressions](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4569,7 +4525,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=179)** So let's run that and see what happens.
 >
-> **[3:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=181)** So we see with ID seven, that's the management operations office, and that's in part of VP operations and it's part of the CEO's office.
+> **[3:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=181)** So we see with ID seven, that's the management operations [[Microsoft Office|office]], and that's in part of VP operations and it's part of the CEO's office.
 >
 > **[3:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/recursive-common-table-expressions?u=76281980&t=191)** So that fits what we would expect.
 >
@@ -4581,7 +4537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Microsoft Office|Office]] (4), management (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **Env Vars:** cte (6), ceo (2)
 > **Tools:** terminal (4)
 > **UI Navigation:** select the (2)
@@ -4590,8 +4546,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Rewriting a complex query to use CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-recursive-cte?u=76281980)
+#### [Challenge: Rewriting a complex query to use CTEs](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-recursive-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4616,8 +4571,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Rewriting a complex query to use CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-rewriting-a-complex-query-to-use-ctes?u=76281980)
+#### [Solution: Rewriting a complex query to use CTEs](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-rewriting-a-complex-query-to-use-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4633,7 +4587,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** cte (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -4643,14 +4596,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of types of joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980)
+#### [Overview of types of joins](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=0)** - [Instructor] Now, I'd like to take a closer look at joins.
 >
-> **[0:04](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=4)** Joins are operations that we use in SQL that allow us to combine data from multiple tables.
+> **[0:04](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=4)** Joins are operations that we use in [[SQL]] that allow us to combine data from multiple tables.
 >
 > **[0:09](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980&t=9)** Now, we do that combination based on related columns in each table.
 >
@@ -4706,15 +4658,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** left (7), outer (5), right (4), cross (4), inner (3)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inner joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inner-joins?u=76281980)
+#### [Inner joins](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inner-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4784,15 +4735,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** company_regions (3), region_id (2), data_sci (1), employee_regions (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Right outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/right-outer-joins?u=76281980)
+#### [Right outer joins](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/right-outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4814,7 +4763,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/right-outer-joins?u=76281980&t=58)** Let's just see. Yes, insert successfully.
 >
-> **[1:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/right-outer-joins?u=76281980&t=61)** So I can see that down below in the SQL console.
+> **[1:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/right-outer-joins?u=76281980&t=61)** So I can see that down below in the [[SQL]] console.
 >
 > **[1:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/right-outer-joins?u=76281980&t=65)** So I'm just going to clear this out now that insert statement.
 >
@@ -4892,7 +4841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), id8 (1)
 > **Definitions:** is a  (2), basically means (1)
 > **CLI Commands:** make (1), find (1)
@@ -4900,8 +4849,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Left outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/left-outer-joins?u=76281980)
+#### [Left outer joins](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/left-outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4941,8 +4889,7 @@ created: 2026-05-02
 > **Code Identifiers:** data_sci (2)
 > **Speakers:** - [instructor] (1)
 
-#### Full outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/full-outer-joins?u=76281980)
+#### [Full outer joins](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/full-outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4988,8 +4935,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Choose the correct type of join
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-choose-the-correct-type-of-join?u=76281980)
+#### [Challenge: Choose the correct type of join](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-choose-the-correct-type-of-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5009,8 +4955,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Choose the correct type of join
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-choose-the-correct-type-of-join?u=76281980)
+#### [Solution: Choose the correct type of join](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-choose-the-correct-type-of-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5031,24 +4976,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JSON in relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980)
+#### [JSON in relational databases](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=0)** - [Instructor] Now in data science, we're often asked to work with JSON data structures.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=0)** - [Instructor] Now in [[Data Science]], we're often asked to work with [[JSON]] [[Data Structures]].
 >
-> **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=5)** JSON is a very flexible and adaptable data schema that we can use for working with a lot of different types of systems, whether they're databases or applications, or maybe third party services.
+> **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=5)** JSON is a very flexible and adaptable data schema that we can use for working with a lot of different types of systems, whether they're [[Databases]] or applications, or maybe third party services.
 >
 > **[0:20](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=20)** So JSON is quite popular, so it's not surprising that we're seeing JSON data structures show up in our data sets that we work with in data science.
 >
-> **[0:31](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=31)** Now, one of the nice things that has happened over the years is that there is increasing support for JSON data structures in relational database management systems.
+> **[0:31](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=31)** Now, one of the nice things that has happened over the years is that there is increasing support for JSON data structures in relational [[Database Management]] systems.
 >
-> **[0:40](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=40)** So many relational database systems, whether it's Postgres, or MySQL, or Oracle, have some support for JSON.
+> **[0:40](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=40)** So many relational [[Database Systems]], whether it's [[PostgreSQL|Postgres]], or [[MySQL]], or Oracle, have some support for JSON.
 >
 > **[0:47](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=47)** And this is really valuable because it enables us to store both types of data, both structured data, like we traditionally use with relational database management systems, as well as semi-structured data, which is what we typically use JSON for.
 >
-> **[1:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=61)** Now, this provides us a lot of flexibility in what data structure we use to capture, you know, a certain set of data while still providing some of those core features that are so valuable to us in relational databases, like the ability to support atomic transactions and enforcement of data integrity rules.
+> **[1:01](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=61)** Now, this provides us a lot of flexibility in what data structure we use to capture, you know, a certain set of data while still providing some of those core features that are so valuable to us in [[Relational Databases]], like the ability to support atomic transactions and enforcement of [[Data Integrity]] rules.
 >
 > **[1:19](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=79)** Now, having JSON in relational databases have some particular benefits.
 >
@@ -5070,7 +5014,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=115)** So what this means is we could have a JSON structure that describes, say, a product that might be an appliance, and an appliance might have attributes like weight, and length, and width, and height.
 >
-> **[2:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=128)** But we might have other products, like digital music, that we are selling.
+> **[2:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=128)** But we might have other [[Microsoft Products|products]], like digital music, that we are selling.
 >
 > **[2:12](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=132)** Well that doesn't necessarily have a weight or a height or a depth.
 >
@@ -5084,7 +5028,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=165)** Oftentimes now we're building systems based on a service oriented architecture where we're making calls to different services via APIs.
 >
-> **[2:54](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=174)** Typically like rest APIs or in high performance environment, we might use something like GRPC protocol.
+> **[2:54](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=174)** Typically like [[Representational State Transfer (REST)|rest]] APIs or in high performance environment, we might use something like GRPC protocol.
 >
 > **[3:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980&t=182)** But in either case, we're still getting API responses and those, ideally, we should be able to support flexible structures because there could be complex kind of information requirements in a JSON response so we want to be able to capture all of that.
 >
@@ -5118,19 +5062,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (25), data (23), [[Relational Databases]] (7), database (4), management (3)
+> **Frameworks & Libraries:** [[JSON]] (25), [[Data Structures]] (7), [[Relational Databases]] (7), [[Database Management]] (3), [[Data Science]] (2)
 > **Env Vars:** json (25), api (3), grpc (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** mysql (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### JSON data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-data-types?u=76281980)
+#### [JSON data types](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-data-types?u=76281980&t=0)** - [Instructor] Now, in Postgres, we have the option of two different data types that we can use with JSON.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-data-types?u=76281980&t=0)** - [Instructor] Now, in [[PostgreSQL|Postgres]], we have the option of two different data types that we can use with [[JSON]].
 >
 > **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-data-types?u=76281980&t=6)** One is simply called JSON, and that was the original data type that was used to support JSON.
 >
@@ -5176,7 +5119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (14), data (12), api (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[JSON]] (14), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** json (14), jsonb (3), api (2), gin (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), think of it as (1)
@@ -5184,12 +5127,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inserting JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980)
+#### [Inserting JSON data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=0)** - [Instructor] Okay, so we talked about JSON and the advantages of using JSON inside of relational databases.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=0)** - [Instructor] Okay, so we talked about [[JSON]] and the advantages of using JSON inside of [[Relational Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=5)** And we briefly discussed some differences between the JSON data type and JSONB data type.
 >
@@ -5225,7 +5167,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=97)** So for example, we have a user here, Jane Doe, who has ID one, two, three, and their email address is jd@[example.com](https://example.com).
 >
-> **[1:45](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=105)** Now, the metadata, we have a timestamp and just some other source.
+> **[1:45](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=105)** Now, the [[Metadata]], we have a timestamp and just some other source.
 >
 > **[1:49](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/inserting-json-data?u=76281980&t=109)** So this is a very basic JSON structure.
 >
@@ -5245,7 +5187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[JSON]] (15), api (3), next (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[JSON]] (15), [[Relational Databases]] (1), [[Metadata]] (1)
 > **Env Vars:** json (15), jsonb (3), api (3), hctp (1)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1), for example (1)
@@ -5253,12 +5195,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/querying-json-data?u=76281980)
+#### [Querying JSON data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/querying-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/querying-json-data?u=76281980&t=0)** - [Instructor] Okay, so now let's query our JSON data.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/querying-json-data?u=76281980&t=0)** - [Instructor] Okay, so now let's query our [[JSON]] data.
 >
 > **[0:03](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/querying-json-data?u=76281980&t=3)** So what I'm going to do is I'm going to select the ID and the response from API responses in the data side schema where the ID equals one.
 >
@@ -5306,18 +5247,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), data (7), api (1)
+> **Frameworks & Libraries:** [[JSON]] (7)
 > **Env Vars:** json (7), api (1), http (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexing JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/indexing-json-data?u=76281980)
+#### [Indexing JSON data](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/indexing-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/indexing-json-data?u=76281980&t=0)** - [Instructor] Now let's take a look at working with indexes and JSON data structures.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/indexing-json-data?u=76281980&t=0)** - [Instructor] Now let's take a look at working with indexes and [[JSON]] [[Data Structures]].
 >
 > **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/indexing-json-data?u=76281980&t=5)** So the first thing I want to do is I want to delete the API responses table and I want to recreate it, but this time I want to use the data type JSONB for the response column, which of course, is where we're going to be storing our JSON structure.
 >
@@ -5367,18 +5307,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), data (3), api (2)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Data Structures]] (1)
 > **Env Vars:** json (6), api (2), jsonb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Query a JSON column
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-query-a-json-column?u=76281980)
+#### [Challenge: Query a JSON column](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-query-a-json-column?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-query-a-json-column?u=76281980&t=0)** (upbeat instrumental music)
 >
-> **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-query-a-json-column?u=76281980&t=5)** - [Instructor] Okay, here's a challenge for working with JSON Data structures.
+> **[0:05](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-query-a-json-column?u=76281980&t=5)** - [Instructor] Okay, here's a challenge for working with [[JSON]] [[Data Structures]].
 >
 > **[0:08](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/challenge-query-a-json-column?u=76281980&t=8)** Create a query to return the source attribute from an api_response JSON data structure.
 >
@@ -5386,14 +5325,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Data Structures]] (1)
 > **Code Identifiers:** api_response (2)
 > **Env Vars:** json (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Query a JSON column
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980)
+#### [Solution: Query a JSON column](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5403,13 +5341,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=7)** I'm creating a select statement, and I'm returning the primary key as well.
 >
-> **[0:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=11)** But the JSON structure is in a column called response.
+> **[0:11](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=11)** But the [[JSON]] structure is in a column called response.
 >
 > **[0:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=14)** So, I want a particular attribute within that JSON structure.
 >
 > **[0:18](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=18)** So, I need to specify a path to it, which in this case is data.
 >
-> **[0:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=22)** And then within the data substructure, I want to get the metadata structure within there.
+> **[0:22](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=22)** And then within the data substructure, I want to get the [[Metadata]] structure within there.
 >
 > **[0:27](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/solution-query-a-json-column?u=76281980&t=27)** And then from there, I want to get source, and I want an alias that results as source.
 >
@@ -5421,7 +5359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), data (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Metadata]] (1)
 > **Env Vars:** json (3)
 > **Code Identifiers:** user_api (1)
 > **Speakers:** - [instructor] (1)
@@ -5432,38 +5370,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on completing this course on Intermediate SQL for data scientists.
+> **[0:00](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=0)** - [Narrator] Congratulations on completing this course on Intermediate [[SQL]] for data scientists.
 >
-> **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=6)** If you're interested in continuing your studies and learning how you can use SQL to solve problems in data analytics and data science, then I suggest you view the course [[Advanced SQL for Data Scientists]], where I go into even additional further techniques that will help you with your work in data science.
+> **[0:06](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=6)** If you're interested in continuing your studies and learning how you can use SQL to solve problems in data analytics and [[Data Science]], then I suggest you view the course [[Advanced SQL for Data Scientists]], where I go into even additional further techniques that will help you with your work in data science.
 >
-> **[0:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=24)** If you're also interested in application development or you're interested in working with large volumes of data in your data science work, then I would strongly suggest the [[Advanced SQL for Query Tuning and Performance Optimization]].
+> **[0:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=24)** If you're also interested in [[Application Development]] or you're interested in working with large volumes of data in your data science work, then I would strongly suggest the [[Advanced SQL for Query Tuning and Performance Optimization]].
 >
 > **[0:38](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=38)** SQL is very easy to use in some ways, but it's also very easy to develop poorly performing queries.
 >
 > **[0:47](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=47)** And this course on [[Advanced SQL for Query Tuning and Performance Optimization]] helps you understand the best ways to craft queries to meet your goals from a data science or data analytics perspective while doing it in a highly performant way.
 >
-> **[1:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=62)** Now, if you work with time series data, for example, if you work with IOT sensor data or observability data around logging or monitoring complex systems, then you're probably working with time series data.
+> **[1:02](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=62)** Now, if you work with time series data, for example, if you work with [[IoT]] sensor data or observability data around logging or monitoring complex systems, then you're probably working with time series data.
 >
 > **[1:14](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=74)** Well, there are certain techniques that work well with analyzing time series data, and we cover those in the Advanced SQL for Data Science Time Series course.
 >
-> **[1:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=84)** And then finally, it always helps to understand data modeling anytime you're working with relational databases.
+> **[1:24](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=84)** And then finally, it always helps to understand [[Data Modeling]] anytime you're working with [[Relational Databases]].
 >
 > **[1:31](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=91)** So I'd strongly urge you to consult the course catalog and look for courses on data modeling to help you understand the principles behind how we design relational databases.
 >
 > **[1:42](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=102)** My name is Dan Sullivan, and I'm always looking forward to talking to other people who are interested in SQL and data science.
 >
-> **[1:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=108)** So please feel free to connect with me on LinkedIn.
+> **[1:48](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=108)** So please feel free to connect with me on [[LinkedIn]].
 >
 > **[1:51](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980&t=111)** My idea is Dan Sullivan PDX, and I wish you the best going ahead and working with SQL for data science.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[SQL]] (9), [[Analytics]] (2), [[Relational Databases]] (2), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Data Science]] (7), [[Data Modeling]] (2), [[Relational Databases]] (2), [[Application Development]] (1)
 > **Env Vars:** sql (9), iot (1), pdx (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)

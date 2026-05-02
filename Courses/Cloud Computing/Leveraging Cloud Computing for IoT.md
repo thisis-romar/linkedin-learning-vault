@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to Internet of Things (IoT) on cloud platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980)
+#### [Intro to Internet of Things (IoT) on cloud platforms](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980&t=0)** - Nothing has been more life-changing than the use of internet of things, or IoT, technology.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980&t=0)** - Nothing has been more life-changing than the use of [[IoT|internet of things]], or [[IoT]], technology.
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980&t=5)** Smartphones, safer cars, lower electric bills are just a few of the benefits.
 >
@@ -101,15 +100,14 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980&t=26)** Hi, I'm Dave Linthicum, internationally known expert and consultant.
 >
-> **[0:30](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980&t=30)** I wish you a pleasant journey in learning about the world of IoT for cloud computing and what it can do for you and your cloud-enabled enterprise.
+> **[0:30](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980&t=30)** I wish you a pleasant journey in learning about the world of IoT for [[Cloud Computing]] and what it can do for you and your cloud-enabled enterprise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1), [[Cloud Computing]] (1)
 > **Speakers:** - nothing (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,11 +115,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=5)** Well, we're looking for a few basic skills.
 >
-> **[0:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=8)** First, the basic understanding of public cloud-based systems such as Amazon, Google, and Microsoft Azure.
+> **[0:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=8)** First, the basic understanding of public cloud-based systems such as Amazon, [[Google]], and [[Microsoft Azure]].
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=17)** We're also looking for a basic understanding of the concept of data and databases, how information is stored and processed.
+> **[0:17](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=17)** We're also looking for a basic understanding of the concept of data and [[Databases]], how information is stored and processed.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=27)** We're looking for a basic understanding of application development as well.
+> **[0:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=27)** We're looking for a basic understanding of [[Application Development]] as well.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-you-should-know?u=76281980&t=31)** This doesn't mean you need to be a coder, but you need to be familiar with how applications are built, deployed, and maintained.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), cloud (1), [[Google]] (1), [[Microsoft Azure]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Azure]] (1), [[Databases]] (1), [[Application Development]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -142,12 +140,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an IoT device?
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980)
+#### [What is an IoT device?](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=0)** - [Narrator] So a common question is "what is an IoT device?"
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=0)** - [Narrator] So a common question is "what is an [[IoT]] device?"
 >
 > **[0:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=3)** Well, it's really any device, typically not a computer or a server, that will store and process data and transmit data to some sort of a centralized storage system.
 >
@@ -165,28 +162,27 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=59)** It's very cool that we can have some device that's able to process information such as a smartphone or even the computers within our car.
 >
-> **[1:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=67)** But, the ability for those devices those devices to transmit information to some other type of a central computer and aggregate the data, and share the data, and respond to the data is where the value of the internet of things comes in.
+> **[1:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=67)** But, the ability for those devices those devices to transmit information to some other type of a central computer and aggregate the data, and share the data, and respond to the data is where the value of the [[IoT|internet of things]] comes in.
 >
 > **[1:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=82)** So ultimately, this is going to be about not only dealing with the devices that pick up the data and transmit the data to a central source, but what happens at that central source, specially in the cloud.
 >
-> **[1:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=98)** Cloud computing becomes probably the most viable topic and target that these devices can connect with.
+> **[1:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=98)** [[Cloud Computing]] becomes probably the most viable topic and target that these devices can connect with.
 >
 > **[1:46](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980&t=106)** Therefor, IoT and cloud computing are tightly coupled.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[IoT]] (3), cloud (3), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Cloud Computing]] (2), [[IoT|Internet of things]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### IoT data
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980)
+#### [IoT data](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=0)** - [Instructor] So, the Internet of Things, specifically how it works with cloud computing, is really all about data production and what you do with that data.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=0)** - [Instructor] So, the [[IoT|Internet of Things]], specifically how it works with [[Cloud Computing]], is really all about data production and what you do with that data.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=9)** So, this course is largely going to focus on devices that send things back to a cloud-based system, and a cloud-based system that may, in turn, control aspects of those devices.
 >
@@ -194,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=27)** Now, the drone may have data that's native to that drone, such as navigation data so it stays on course, and the ability to respond to things such as an object in front of it so it can avoid a collision.
 >
-> **[0:39](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=39)** But, the ability to take images and videos from that drone, for example, over some sort of farmer's field to look at water saturation, and transmit those images to a centralized server, is really where the power of IoT is.
+> **[0:39](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=39)** But, the ability to take images and videos from that drone, for example, over some sort of farmer's field to look at water saturation, and transmit those images to a centralized server, is really where the power of [[IoT]] is.
 >
 > **[0:57](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=57)** So, this is about leveraging data.
 >
@@ -206,9 +202,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=85)** So, it's someplace that has some sort of a network connection that can receive, store, and organize data.
 >
-> **[1:33](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=93)** So, cloud databases have a tendency to be the preferred technology for this, considering the fact that they're already connected, they're pervasive, and they're able to, in essence, scale up to as high as we need for them to scale up.
+> **[1:33](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=93)** So, cloud [[Databases]] have a tendency to be the preferred technology for this, considering the fact that they're already connected, they're pervasive, and they're able to, in essence, scale up to as high as we need for them to scale up.
 >
-> **[1:47](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=107)** But, we have to do something with that data, and we have to deal with business intelligence service, which is the ability to look at information that's coming back from logistics.
+> **[1:47](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=107)** But, we have to do something with that data, and we have to deal with [[Business Intelligence (BI)|business intelligence]] service, which is the ability to look at information that's coming back from logistics.
 >
 > **[1:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=116)** For example, in terms of how efficient truck drivers are moving across the United States, based on devices that are placed in the truck, which are IoT devices that transmit data back to a centralized server.
 >
@@ -222,33 +218,32 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=176)** So, the applications of this are limitless.
 >
-> **[3:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=180)** So, keep in mind, we're reacting to trends and real-time events.
+> **[3:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=180)** So, keep in mind, we're reacting to trends and [[Real-Time]] events.
 >
-> **[3:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=184)** So, the value here, with IoT and cloud computing, is that we're able to, in essence, react to something that's occurring now that needs immediate attention.
+> **[3:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=184)** So, the value here, with IoT and cloud computing, is that we're able to, in essence, [[React.js|react]] to something that's occurring now that needs immediate attention.
 >
 > **[3:17](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=197)** You know, say a jet engine is failing.
 >
 > **[3:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=200)** And, within the jet, we want to notify the pilots and the onboard systems that something is occurring that needs to be taken care of.
 >
-> **[3:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=207)** And also, the ability to transmit that data to some sort of a central server, which has the power to perform things such as predictive analytics.
+> **[3:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=207)** And also, the ability to transmit that data to some sort of a central server, which has the power to perform things such as [[Predictive Analytics]].
 >
 > **[3:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data?u=76281980&t=215)** The same jet engine failure may have been spotted because some sort of behavior has occurred in the last 10 to 15 flights that matches a behavior that really looks at the fact that something will be failing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (7), power (3), [[IoT]] (3), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[IoT]] (3), [[IoT|Internet of things]] (1), [[Databases]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Analogies:** such as (5), for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT data processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980)
+#### [IoT data processing](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=0)** - [Instructor] So if the focus of IoT is data, how do we leverage IoT data from, say, a factory device, as an example?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=0)** - [Instructor] So if the focus of [[IoT]] is data, how do we leverage IoT data from, say, a factory device, as an example?
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=9)** So we have IoT data that comes from that device.
 >
@@ -280,29 +275,28 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=178)** You can leverage those predictions to make sure that the robot operates at the highest efficiency without a number of outages, and if an outage does occur, how to repair the robot in a very effective and efficient way.
 >
-> **[3:13](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=193)** So keep in mind that we're also externalizing IoT data to dashboards, and that's typically going to be for human consumption.
+> **[3:13](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=193)** So keep in mind that we're also externalizing IoT data to [[Dashboards]], and that's typically going to be for human consumption.
 >
-> **[3:21](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=201)** These may be on a computer screen, may be on a console in the device itself, in the case of our robot, or this may be something that's externalized to a cell phone or a pad computer, any number of ways, but they provide meaning of the information that's coming off of these devices in some way that humans can consume them and react to them.
+> **[3:21](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=201)** These may be on a computer screen, may be on a console in the device itself, in the case of our robot, or this may be something that's externalized to a cell phone or a pad computer, any number of ways, but they provide meaning of the information that's coming off of these devices in some way that humans can consume them and [[React.js|react]] to them.
 >
-> **[3:44](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=224)** So very much like a business intelligence dashboard.
+> **[3:44](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=224)** So very much like a [[Business Intelligence (BI)|business intelligence]] dashboard.
 >
 > **[3:47](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-processing?u=76281980&t=227)** We're just looking at data today that's coming off an IoT device, and it could be for any number of purposes in a way that's going to be most meaningful to the person who's looking at the dashboard.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[IoT]] (5), power (1), database (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Dashboards]] (1), [[React.js|React]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT data storage at the edge and in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980)
+#### [IoT data storage at the edge and in the cloud](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=0)** - [Instructor] So how is Edge Computing related to cloud computing and IoT in general?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=0)** - [Instructor] So how is Edge Computing related to [[Cloud Computing]] and [[IoT]] in general?
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=6)** Keep in mind that ultimately this is about balancing processing at the IoT device with the centralized server.
 >
@@ -312,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=27)** Either from a cost efficient basis or just from an overall efficiency basis.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=32)** To keep the information stored on the device such as within a jet plane, as to the ability to react to some sort of an engine issue and so while it's good to transmit that information back to some sort of a centralized sever so we can trend that information over time.
+> **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=32)** To keep the information stored on the device such as within a jet plane, as to the ability to [[React.js|react]] to some sort of an engine issue and so while it's good to transmit that information back to some sort of a centralized sever so we can trend that information over time.
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=50)** Obviously it's going to require that people on board and computers on board take note of that issue and repair it as soon as possible.
 >
@@ -320,7 +314,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=69)** So it's good to use cloud computing for the higher end processing, in other words the things that require a lot of horsepower.
 >
-> **[1:16](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=76)** Such as predictive analytics and machine learning technology.
+> **[1:16](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=76)** Such as [[Predictive Analytics]] and machine learning technology.
 >
 > **[1:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=80)** But it's not necessary to transmit every piece of data from the IoT device to the cloud and therefore some of the processing can occur at the source or within the computer within the IoT device.
 >
@@ -334,9 +328,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=149)** They both have operating systems.
 >
-> **[2:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=151)** Typically the Edge based device it could be IoT version of Linux, or Android operating systems and the cloud could have an operating system as well typically Linux or WindowsNT.
+> **[2:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=151)** Typically the Edge based device it could be IoT version of [[Linux]], or [[Android]] operating systems and the cloud could have an operating system as well typically Linux or WindowsNT.
 >
-> **[2:43](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=163)** They both leverage data storage, they both use application programming interfaces to communicate inside and outside of themselves.
+> **[2:43](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=163)** They both leverage [[Data Storage]], they both use [[Application Programming Interfaces (API)|application programming interfaces]] to communicate inside and outside of themselves.
 >
 > **[2:51](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=171)** And they both have applications that run on them.
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=200)** It's very different from 10 years ago.
 >
-> **[3:23](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=203)** So the cloud provides the advantage of scalability so the reason that the cloud is even in this equation is because we know that the cloud won't run out of resources, so if we send 10 petabytes of data which is spinning off an IoT system we may have a million devices out there that are gathering the information, and even though they're processing some of the information at the device, in an Edge computing type fashion.
+> **[3:23](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=203)** So the cloud provides the advantage of [[Scalability]] so the reason that the cloud is even in this equation is because we know that the cloud won't run out of resources, so if we send 10 petabytes of data which is spinning off an IoT system we may have a million devices out there that are gathering the information, and even though they're processing some of the information at the device, in an Edge computing type fashion.
 >
 > **[3:54](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-data-storage-at-the-edge-and-in-the-cloud?u=76281980&t=234)** Most of the information is going to be sent to some sort of a back-end system and we're typically going to pick a cloud computing system to do that because of the elasticity or the scalability.
 >
@@ -360,25 +354,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[IoT]] (8), data (6), [[React.js|React]] (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Cloud Computing]] (3), [[React.js|React]] (3), [[Linux]] (2), [[Scalability]] (2)
 > **Analogies:** such as (3)
 > **Definitions:** in other words (2)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT growth in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980)
+#### [IoT growth in the cloud](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=0)** - [Instructor] So why is IoT and public clouds coupled?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=0)** - [Instructor] So why is [[IoT]] and public clouds coupled?
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=4)** Why are they dependent one to another?
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=8)** Well, keep in mind that public clouds ultimately have certain patterns or things they do very well.
 >
-> **[0:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=15)** Examples would be Amazon Web Services, Azure from Microsoft, and Google Cloud Platform, but there are a number of other public cloud platforms out there as well.
+> **[0:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=15)** Examples would be [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure|Azure]] from [[Microsoft]], and [[Google Cloud Platform (GCP)|Google Cloud Platform]], but there are a number of other public cloud platforms out there as well.
 >
 > **[0:24](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=24)** You may have one that's different than the ones you see here.
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=64)** They may be different in the brand and what they do, but you'll find that a lot of the patterns are exactly the same.
 >
-> **[1:10](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=70)** And the same with Google.
+> **[1:10](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=70)** And the same with [[Google]].
 >
 > **[1:11](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=71)** We have Cloud IoT Core, we have artificially intelligence which is built into Google as well as data analytics, which is also built into the Google platform.
 >
@@ -410,7 +403,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=116)** And the device itself has its own sets of processing such as navigation and keeping the drone in flight as well as when to take pictures and what to take pictures of.
 >
-> **[2:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=128)** And we're transmitting that back to some sort of a public cloud service which is aware of the IoT system, in this case the operating system, and the format of that system, and even has prebuilt applications for leveraging image processing, in this case to process hydration saturation for a farmers field.
+> **[2:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=128)** And we're transmitting that back to some sort of a public cloud service which is aware of the IoT system, in this case the operating system, and the format of that system, and even has prebuilt applications for leveraging [[Image Processing]], in this case to process hydration saturation for a farmers field.
 >
 > **[2:28](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=148)** So they're able to work and play well together.
 >
@@ -418,27 +411,27 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=156)** And obviously, the ability to support a specific device really dependent on the public cloud that you pick.
 >
-> **[2:43](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=163)** So useful cloud services include artificially intelligent systems or machine learning based systems, those are how we can make sense of gobs of data that are coming off of the IoT devices.
+> **[2:43](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=163)** So useful [[Cloud Services]] include artificially intelligent systems or machine learning based systems, those are how we can make sense of gobs of data that are coming off of the IoT devices.
 >
-> **[2:55](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=175)** Business intelligence, or the ability to do things such as predictive analytics, to predict maintenance cycles or really kind of the predicted outcome of information that we see coming off an IoT device.
+> **[2:55](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=175)** [[Business Intelligence (BI)|Business intelligence]], or the ability to do things such as [[Predictive Analytics]], to predict maintenance cycles or really kind of the predicted outcome of information that we see coming off an IoT device.
 >
 > **[3:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=187)** Such as health informatics or information that's coming off of some device that is attached to our bodies that needs to alert the physician because some sort of an issue is occurring.
 >
 > **[3:19](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=199)** And of course, data.
 >
-> **[3:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=200)** The ability to have databases which is able to deal with petabyte plus amounts of information, be able to process that data quickly and efficiently, be able to make sense of the data no matter whether it's structured or unstructured.
+> **[3:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=200)** The ability to have [[Databases]] which is able to deal with petabyte plus amounts of information, be able to process that data quickly and efficiently, be able to make sense of the data no matter whether it's structured or unstructured.
 >
 > **[3:36](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=216)** And the ability to integrate all these things together.
 >
 > **[3:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=218)** Keep in mind that a core feature of linking cloud based systems to IoT based systems is the ability to efficiently integrate those systems.
 >
-> **[3:48](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=228)** Obviously systems that are out and about on very weak wifi networks in some instances, communicating with Bluetooth in other instances, on older networks that may be a part of a factory, have to have some resiliency built in them in terms of how information is going to be processed from source to target.
+> **[3:48](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=228)** Obviously systems that are out and about on very weak wifi networks in some instances, communicating with Bluetooth in other instances, on older networks that may be a part of a factory, have to have some [[Resiliency]] built in them in terms of how information is going to be processed from source to target.
 >
 > **[4:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/iot-growth-in-the-cloud?u=76281980&t=246)** Be able to deal with all sorts of issues and do so in efficient ways.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), cloud (9), data (5), [[Microsoft Azure|Azure]] (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Microsoft Azure|Azure]] (3), [[Google]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Analogies:** such as (3), for example (1)
 > **Warnings:** keep in mind (3)
@@ -450,12 +443,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980)
+#### [Healthcare](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=0)** - [Instructor] So let's take a look at Internet of Things and Healthcare.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=0)** - [Instructor] So let's take a look at [[IoT|Internet of Things]] and Healthcare.
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=4)** So what are some of the examples that we see out there?
 >
@@ -479,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=70)** And so we're entering a phase where people are wearing sports watches and monitoring watches and smart watches, and these watches not only have the capability of keeping track of our social media accounts and providing text-based features, but the ability to monitor data points out of our bodies and do so using the technology of Internet of Things.
 >
-> **[1:34](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=94)** So an example is we have a patient which is basically producing IoT data out of the patient's body, and that data is in turn analyzed, and it's being returned in terms of conclusions or diagnostics back to a doctor or even back to the patient themselves.
+> **[1:34](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=94)** So an example is we have a patient which is basically producing [[IoT]] data out of the patient's body, and that data is in turn analyzed, and it's being returned in terms of conclusions or diagnostics back to a doctor or even back to the patient themselves.
 >
 > **[1:52](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=112)** And then ultimately, we're having physicians that are making the decision as to how the patient should be treated.
 >
@@ -487,26 +479,25 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=129)** And by the way, we're looking to move all of this into a public cloud scenario.
 >
-> **[2:13](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=133)** So instead of doing this with all the local hospital systems or even the treatment room, the ability to push this out to the power and the economy of cloud computing, and be able to make decisions as quickly as you need to make them at a cost that's been unheard of in the past.
+> **[2:13](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980&t=133)** So instead of doing this with all the local hospital systems or even the treatment room, the ability to push this out to the power and the economy of [[Cloud Computing]], and be able to make decisions as quickly as you need to make them at a cost that's been unheard of in the past.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Internet of Things (IoT)|Internet of things]] (2), cloud (2), [[IoT]] (1), power (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[IoT]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980)
+#### [Finance](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=0)** - [Narrator] So, what about the Internet of Things, the Cloud and the world of finance?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=0)** - [Narrator] So, what about the [[IoT|Internet of Things]], the Cloud and the world of finance?
 >
-> **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=5)** So, we have to deal with banking data and do so in a way that's more viable and valuable to both the bank and the customer.
+> **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=5)** So, we have to deal with [[Banking]] data and do so in a way that's more viable and valuable to both the bank and the customer.
 >
-> **[0:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=14)** So, how do we do that leveraging IoT?
+> **[0:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=14)** So, how do we do that leveraging [[IoT]]?
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=17)** So, first and foremost and we know this today to be a truth or fact and how we deal with our banking partners, is we deal with mobile computing.
 >
@@ -548,7 +539,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=134)** Within the IoT data, we can determine the location of that phone, therefor the location of the customer and what they're doing and basically how they're carrying out spending money and making money and investing money, during the day, the week, the month and the year.
 >
-> **[2:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=151)** Out of that, we can understand business intelligence and artificially intelligent analytics on that data to determine what's not optimized and what can be optimized and this is completely done with a passive system.
+> **[2:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=151)** Out of that, we can understand [[Business Intelligence (BI)|business intelligence]] and artificially intelligent analytics on that data to determine what's not optimized and what can be optimized and this is completely done with a passive system.
 >
 > **[2:45](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=165)** Just carrying around a cell phone and we can also bind it to banking systems and fraud detection.
 >
@@ -556,23 +547,22 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=189)** And doing all this within the public cloud.
 >
-> **[3:11](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=191)** The idea being that we're not going to do these within the banking data centers anymore but we're going to do these within the big public cloud providers like Amazon, Microsoft and Google.
+> **[3:11](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/finance?u=76281980&t=191)** The idea being that we're not going to do these within the banking data centers anymore but we're going to do these within the big public cloud providers like Amazon, [[Microsoft]] and [[Google]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (5), data (5), cloud (3), [[IoT]] (3), management (3)
+> **Frameworks & Libraries:** [[Banking]] (5), [[IoT]] (3), [[IoT|Internet of things]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Microsoft]] (1)
 > **Env Vars:** atm (1), bae (1), gps (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Law enforcement
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/law-enforcement?u=76281980)
+#### [Law enforcement](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/law-enforcement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/law-enforcement?u=76281980&t=0)** - [Instructor] So what about the opportunities to leverage IoT, cloud computing and law enforcement?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/law-enforcement?u=76281980&t=0)** - [Instructor] So what about the opportunities to leverage [[IoT]], [[Cloud Computing]] and law enforcement?
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/law-enforcement?u=76281980&t=6)** So ultimately, we're generating crime data.
 >
@@ -608,22 +598,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (4), traffic (2), [[IoT]] (1), database (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** gps (3)
 > **Definitions:** in other words (1), is an  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manufacturing
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980)
+#### [Manufacturing](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=0)** - [Instructor] So let's talk about the internet of things, the public cloud and manufacturing.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=0)** - [Instructor] So let's talk about the [[IoT|internet of things]], the public cloud and manufacturing.
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=4)** And how does that relate to a use case?
 >
-> **[0:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=7)** Well, keep in mind that factory data is made up of many things, but typically within a factory, it's going to be the mechanisms that are producing the product, in this case, robots, the ability to track the movement of raw goods and finished products throughout the factory, or inter-factory logistics, the ability to monitor the productivity of the humans that are in the factory, and ultimately, factory productivity holistically.
+> **[0:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=7)** Well, keep in mind that factory data is made up of many things, but typically within a factory, it's going to be the mechanisms that are producing the product, in this case, robots, the ability to track the movement of raw goods and finished [[Microsoft Products|products]] throughout the factory, or inter-factory logistics, the ability to monitor the productivity of the humans that are in the factory, and ultimately, factory productivity holistically.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=31)** What's occurring, what are we doing well?
 >
@@ -633,7 +622,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=43)** Say it's assembling a car door.
 >
-> **[0:46](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=46)** So information about the assembly of that car door, or the robot data that it produces, pops up into a storage system that exists both within the robot, or in this case, the IOT device, or the remote cloud-based system, say, a database existing in the public cloud.
+> **[0:46](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=46)** So information about the assembly of that car door, or the robot data that it produces, pops up into a storage system that exists both within the robot, or in this case, the [[IoT]] device, or the remote cloud-based system, say, a database existing in the public cloud.
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/manufacturing?u=76281980&t=63)** So we're able to manage the robot processing data, or what's occurring, as well as operations logging, the ability to keep track of serial number of the doors it's manufacturing, for example.
 >
@@ -655,21 +644,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (5), [[Internet of Things (IoT)|Internet of things]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[Microsoft Products|Products]] (1), [[IoT]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** iot (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Education
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980)
+#### [Education](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=0)** - [Instructor] So now let's take a look at the Internet of Things, use of the cloud, and education.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=0)** - [Instructor] So now let's take a look at the [[IoT|Internet of Things]], use of the cloud, and education.
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=6)** So keep in mind we are dealing with centralized data storage that's typically going to exist in the cloud if we're dealing with IoT in the cloud, and then in education scenario, that's going to be student data.
+> **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=6)** So keep in mind we are dealing with centralized [[Data Storage]] that's typically going to exist in the cloud if we're dealing with [[IoT]] in the cloud, and then in education scenario, that's going to be student data.
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/education?u=76281980&t=18)** That's going to be information about grades, the properties of the students, who they are, what they do, where they came from, other things that we need to store information about, the particular humanistic in classes to optimize their ability to be successful students.
 >
@@ -703,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[IoT]] (4), data (3), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1), [[Data Storage]] (1)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** gps (1)
 > **Definitions:** in other words (1)
@@ -714,12 +702,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980)
+#### [Design](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=0)** - [Instructor] So I'm looking at Amazon Web Services IoT, or Internet of Things.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=0)** - [Instructor] So I'm looking at [[Amazon Web Services (AWS)|Amazon Web Services]] [[IoT]], or [[IoT|Internet of Things]].
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=5)** We have a few core activities that take place.
 >
@@ -733,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=30)** And it's also able to manage the device, or communicate and set a device state.
 >
-> **[0:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=35)** So, keep in mind when we talk about IoT and public cloud computing, we're often times talking about paired resources that are very much alike in the IoT device, or in the public cloud.
+> **[0:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=35)** So, keep in mind when we talk about IoT and public [[Cloud Computing]], we're often times talking about paired resources that are very much alike in the IoT device, or in the public cloud.
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=50)** So how this works is it provides direct connectivity to the device, and ultimately, devices need to be synergistic with Amazon Web Services IoT.
 >
@@ -757,11 +744,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=113)** Well, it starts with the devices themselves.
 >
-> **[1:57](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=117)** And, they're typically communicated using an SDK or software development kit called things within Amazon Web Services.
+> **[1:57](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=117)** And, they're typically communicated using an SDK or [[Software Development]] kit called things within Amazon Web Services.
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=126)** We also have IoT applications that can be created with the Amazon Web Services SDK.
 >
-> **[2:12](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=132)** And they in turn, can communicate with a message broker, which is able to carry information to the engines and to the databases that are going to be receive, persist, and process the data.
+> **[2:12](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=132)** And they in turn, can communicate with a message broker, which is able to carry information to the engines and to the [[Databases]] that are going to be receive, persist, and process the data.
 >
 > **[2:25](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980&t=145)** So note that information is consumed into the message broker.
 >
@@ -777,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), data (6), [[Amazon Web Services (AWS)|Amazon web services]] (5), cloud (4), aws (3)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Amazon Web Services (AWS)|Amazon web services]] (5), [[IoT|Internet of things]] (1), [[Cloud Computing]] (1), [[Software Development]] (1)
 > **Env Vars:** aws (3), sdk (2)
 > **Warnings:** keep in mind (3), note that (1)
 > **CLI Commands:** aws (3)
@@ -785,12 +772,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980)
+#### [Build](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=0)** - [Narrator] So keep in mind that a big part of Amazon Web Services IoT is the ability to create and manage rules.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=0)** - [Narrator] So keep in mind that a big part of [[Amazon Web Services (AWS)|Amazon Web Services]] [[IoT]] is the ability to create and manage rules.
 >
 > **[0:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=7)** So, in doing a rule creation in management, we're able to deal with any number of rules that exist within different point systems.
 >
@@ -800,13 +786,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=27)** And we can create rules using native Amazon Web Services services, such as SNS, or simple notification services.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=37)** So, the AWS IoT Software Development Kit is really core to a lot of this.
+> **[0:37](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=37)** So, the AWS IoT [[Software Development]] Kit is really core to a lot of this.
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=44)** So, using Amazon Web Services IoT, we're able to embed various systems into applications using the Software Development Kit.
 >
 > **[0:55](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=55)** So the idea being is that we provide the tools for developers to leverage what is needed to be leveraged to build IoT-based capabilities within applications themselves.
 >
-> **[1:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=68)** We can use an IoT device, an SDK for JavaScript, Python, other systems that are native to Amazon Web Services.
+> **[1:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=68)** We can use an IoT device, an SDK for [[JavaScript]], [[Python (Programming Language)|Python]], other systems that are native to Amazon Web Services.
 >
 > **[1:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-3?u=76281980&t=80)** So, ultimately this allows developers to customize the utilization of IoT based systems within AWS enabled applications.
 >
@@ -820,19 +806,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Software Development]] (4), aws (3), management (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (4), [[Software Development]] (4), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sdk (4), aws (3), sns (1)
 > **CLI Commands:** aws (3), python (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy-2?u=76281980)
+#### [Deploy](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy-2?u=76281980&t=0)** - So how do we deal with deployment of IoT-based systems under AWS?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy-2?u=76281980&t=0)** - So how do we deal with deployment of [[IoT]]-based systems under AWS?
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy-2?u=76281980&t=5)** Well, we have to deal with provisioning.
 >
@@ -854,7 +839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), aws (2), application (1)
+> **Frameworks & Libraries:** [[IoT]] (5)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Tools:** notion (1)
@@ -863,12 +848,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Operate
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate-2?u=76281980)
+#### [Operate](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate-2?u=76281980&t=0)** - So how do we operate IoT based systems and their Amazon Web Services IoT system?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate-2?u=76281980&t=0)** - So how do we operate [[IoT]] based systems and their [[Amazon Web Services (AWS)|Amazon Web Services]] IoT system?
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate-2?u=76281980&t=6)** A few things to keep in mind.
 >
@@ -910,19 +894,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (3), aws (3), [[Troubleshooting]] (3), application (2)
+> **Frameworks & Libraries:** [[IoT]] (7), [[Amazon Web Services (AWS)|Amazon web services]] (3)
 > **Warnings:** keep in mind (4), troubleshoot (1)
 > **Env Vars:** aws (3), api (1)
 > **CLI Commands:** aws (3)
 > **Analogies:** such as (3)
 > **Speakers:** - so (1)
 
-#### Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980)
+#### [Demo](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=0)** - [Instructor] To get into AWS Core IoT, first have to go to the management console and you an either type it here and find it directly in the console.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=0)** - [Instructor] To get into AWS Core [[IoT]], first have to go to the management console and you an either type it here and find it directly in the console.
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=10)** We'll just go ahead and do that.
 >
@@ -940,13 +923,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=63)** We can download a connection kit, which means we can connect to a device using some sort of STK, and we can configure and test a device.
 >
-> **[1:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=75)** We're able to select the platform and software development kit that best suits how you're connecting to AWS IoT, and have a couple of options here.
+> **[1:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=75)** We're able to select the platform and [[Software Development]] kit that best suits how you're connecting to AWS IoT, and have a couple of options here.
 >
-> **[1:25](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=85)** We can choose a platform, Linux.
+> **[1:25](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=85)** We can choose a platform, [[Linux]].
 >
 > **[1:28](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=88)** Now go ahead and select that.
 >
-> **[1:30](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=90)** Choose an AWS IoT device, STK, and we're going to go ahead and use Python.
+> **[1:30](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=90)** Choose an AWS IoT device, STK, and we're going to go ahead and use [[Python (Programming Language)|Python]].
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo-2?u=76281980&t=99)** Then we're going to go ahead and click Next.
 >
@@ -994,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), aws (4), [[Linux]] (3), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Linux]] (3), [[Python (Programming Language)|Python]] (2), [[Software Development]] (1)
 > **CLI Commands:** aws (4), python (2), find (1), unzip (1), make (1)
 > **Env Vars:** aws (4), stk (4), osx (1)
 > **Prerequisites:** configure (3), setup (2)
@@ -1008,16 +991,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980)
+#### [Design](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=0)** - So let's talk about Microsoft Azure IoT Hub.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=0)** - So let's talk about [[Microsoft Azure]] [[IoT]] Hub.
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=4)** So keep in mind that this is a service that allows you to deal with information or data, and it allows you to ingest a ton of information from IoT devices for processing and storing in cloud-based systems, typically on Microsoft Azure.
 >
-> **[0:23](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=23)** It provides you the ability to build and deploy applications using programmatic interfaces, such as supporting Node.js.
+> **[0:23](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=23)** It provides you the ability to build and deploy applications using programmatic interfaces, such as supporting [[Node.js]].
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=31)** It's really focused on moving information, from storage, to device, to processing, and at all points in between.
 >
@@ -1033,15 +1015,15 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=69)** The ability to manage the movement of information from the source and target system.
 >
-> **[1:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=75)** It's able to be consumed into the Azure IoT Hub, which is able to process the information, and from there you can deal with different analytical services.
+> **[1:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=75)** It's able to be consumed into the [[Microsoft Azure|Azure]] IoT Hub, which is able to process the information, and from there you can deal with different analytical services.
 >
-> **[1:24](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=84)** Such as, machine learning systems, and business analytics, or predictive analytics.
+> **[1:24](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=84)** Such as, machine learning systems, and [[Business Analytics]], or [[Predictive Analytics]].
 >
 > **[1:30](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980&t=90)** And from there, we may put it into a storage system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (3), [[Microsoft Azure]] (2), data (1), cloud (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Microsoft Azure]] (2), [[Node.js]] (1), [[Microsoft Azure|Azure]] (1), [[Business Analytics]] (1)
 > **Analogies:** such as (2)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -1049,12 +1031,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Build
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980)
+#### [Build](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=0)** - So how do we build applications using Azure IoT Hub?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=0)** - So how do we build applications using [[Microsoft Azure|Azure]] [[IoT]] Hub?
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=4)** Well, we need to first build applications on the device side.
 >
@@ -1070,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=53)** Then also the back-end apps on the IoT Hub.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=56)** What data processing is occurring, how are we communicating with the device, what role is the centralized server playing in supporting the IoT based system that sits in the particular device, closest to where the data is going to be consumed and produced.
+> **[0:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=56)** What [[Data Processing]] is occurring, how are we communicating with the device, what role is the centralized server playing in supporting the IoT based system that sits in the particular device, closest to where the data is going to be consumed and produced.
 >
 > **[1:13](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=73)** So, the sample architecture that we use, we have an IoT Hub, we may have a Default Event Hub, or where events are published to, and the ability to define routes from source to targets.
 >
@@ -1082,21 +1063,20 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=120)** So the idea here is really to focus on the movement of information.
 >
-> **[2:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=123)** If you look at what the IoT Hub does, and it's ability to define endpoints, it's ability to find message queueing system, it's ability to define events publish-and-subscription-type movement of information, this is all about the efficient movement of information from the devices to the server, typically existing on the Microsoft Azure Cloud, and then the production of information back down to the devices again.
+> **[2:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build-2?u=76281980&t=123)** If you look at what the IoT Hub does, and it's ability to define endpoints, it's ability to find message queueing system, it's ability to define events publish-and-subscription-type movement of information, this is all about the efficient movement of information from the devices to the server, typically existing on the [[Microsoft Azure]] Cloud, and then the production of information back down to the devices again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), application (2), data (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[Microsoft Azure|Azure]] (1), [[Data Processing]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
-#### Deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy?u=76281980)
+#### [Deploy](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy?u=76281980&t=0)** - [Male Narrator] So, what about the deployment process of an IoT Hub on Microsoft Azure?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy?u=76281980&t=0)** - [Male Narrator] So, what about the deployment process of an [[IoT]] Hub on [[Microsoft Azure]]?
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deploy?u=76281980&t=5)** Well, first we need to create the IoT Hub.
 >
@@ -1120,19 +1100,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), [[Microsoft Azure]] (2), [[Security]] (2), cloud (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[Microsoft Azure]] (2)
 > **Prerequisites:** set up (4), configure (3)
 > **Analogies:** such as (2)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [male (1)
 
-#### Operate
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate?u=76281980)
+#### [Operate](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate?u=76281980&t=0)** - So how do we operate Azure IoT Hub?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate?u=76281980&t=0)** - So how do we operate [[Microsoft Azure|Azure]] [[IoT]] Hub?
 >
 > **[0:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operate?u=76281980&t=3)** Well, keep in mind that we're setting up automation to deal with things such as device management.
 >
@@ -1166,22 +1145,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (6), management (4), [[Microsoft Azure|Azure]] (1), [[Automation]] (1), application (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - so (1)
 
-#### Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980)
+#### [Demo](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=0)** - [Instructor] So when we get into Microsoft Azure, we go into the portal account, and this is basically their main sign in screen.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=0)** - [Instructor] So when we get into [[Microsoft Azure]], we go into the portal account, and this is basically their main sign in screen.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=9)** And we have some recommendations, we're going to go ahead and bypass on that, and you'll notice here here are the services, you know very much like the AWS services that we saw in the last demo, when you were able to kind of pick out of a menu of everything that's out there.
 >
-> **[0:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=22)** But go ahead and pick all services 'cause we are going to get into IoT, and again, trying to find it is, you have to be a bit detail oriented.
+> **[0:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=22)** But go ahead and pick all services 'cause we are going to get into [[IoT]], and again, trying to find it is, you have to be a bit detail oriented.
 >
 > **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=32)** So go ahead and type it in up here.
 >
@@ -1233,7 +1211,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=197)** Okay, we're back, our deployment is complete.
 >
-> **[3:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=200)** And you notice it says Microsoft IoT hub, start time, and then correlation time.
+> **[3:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=200)** And you notice it says [[Microsoft]] IoT hub, start time, and then correlation time.
 >
 > **[3:25](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/demo?u=76281980&t=205)** This actually took a bit of time to complete, so probably nine minutes to get done.
 >
@@ -1275,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (11), [[Microsoft Azure]] (2), aws (2), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[IoT]] (11), [[Microsoft Azure]] (2), [[Microsoft]] (1)
 > **Prerequisites:** set up (4)
 > **CLI Commands:** aws (2), find (1)
 > **Env Vars:** aws (2), sku (1)
@@ -1289,12 +1267,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Requirement
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980)
+#### [Requirement](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=0)** - So how do we determine the requirements for building our IoT system using cloud computing?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=0)** - So how do we determine the requirements for building our [[IoT]] system using [[Cloud Computing]]?
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=6)** For this let's use a case study.
 >
@@ -1326,7 +1303,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=99)** So again data gathered, information that's falling off the tractor that we're absorbing from the sensors, how we're processing the data, and then how we're returning the results back to the tractor to be processed, either by humans or systems on the tractor.
 >
-> **[1:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=116)** So we have the connected tractor which deals with remote data processing on the cloud.
+> **[1:56](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=116)** So we have the connected tractor which deals with remote [[Data Processing]] on the cloud.
 >
 > **[2:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=123)** And so in this case we're transmitting some information to a cloud to do the core data processing systems.
 >
@@ -1338,25 +1315,24 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=158)** So we're gathering information off of the sensors and we're storing that data in such a way that it's going to be archived for later use.
 >
-> **[2:47](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=167)** Remote data processing, we're dealing with core systems to facilitate the processing of the information, such as artificial intelligence, and machine learning based systems.
+> **[2:47](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=167)** Remote data processing, we're dealing with core systems to facilitate the processing of the information, such as [[Artificial Intelligence (AI)|artificial intelligence]], and machine learning based systems.
 >
 > **[2:57](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980&t=177)** As well as core analytic services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (7), [[IoT]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Data Processing]] (3), [[Cloud Computing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Env Vars:** gps (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980)
+#### [Design](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=0)** - [Instructor] Next, let's talk about how we design an IOT system, leveraging public clouds.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=0)** - [Instructor] Next, let's talk about how we design an [[IoT]] system, leveraging public clouds.
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=5)** So the process that we have basically leverages the foundation of some sort of a dashboard.
 >
@@ -1384,7 +1360,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=80)** Edge response to data deals with immediate issues, such as an overheating engine.
 >
-> **[1:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=86)** Then IOT data processing in the cloud deals with things such as predictive analytics, the ability to predict things such as maintenance issues that need to be addressed, as well as operational issues that need to be addressed.
+> **[1:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=86)** Then IOT [[Data Processing]] in the cloud deals with things such as [[Predictive Analytics]], the ability to predict things such as maintenance issues that need to be addressed, as well as operational issues that need to be addressed.
 >
 > **[1:40](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=100)** So what resources are needed for the design?
 >
@@ -1394,34 +1370,33 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=113)** Basically, a hard drive or typically a piece of non-volatile memory where data can reside for a long period of time.
 >
-> **[2:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=123)** We have cloud storage as well, or the ability to store information remotely on a public cloud platform, which could be several thousand miles away.
+> **[2:03](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=123)** We have [[Cloud Storage]] as well, or the ability to store information remotely on a public cloud platform, which could be several thousand miles away.
 >
 > **[2:12](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=132)** And the ability to do analytics on the information.
 >
-> **[2:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=135)** It may integrate machine learning or artificial intelligence systems or predictive analytics.
+> **[2:15](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=135)** It may integrate machine learning or [[Artificial Intelligence (AI)|artificial intelligence]] systems or predictive analytics.
 >
 > **[2:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design?u=76281980&t=142)** This really gets into to IOT in the public cloud, or the ability to balance data processing that occurs on a device, in this case, the connected tractor, with data processing that occurs in a public cloud environment that just connected to the connected tractor, or connected to the IOT device.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[IoT]] (7), cloud (7), [[Predictive Analytics]] (2), next (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[Data Processing]] (3), [[Predictive Analytics]] (2), [[Cloud Storage]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** iot (7), gps (1)
 > **Analogies:** such as (4)
 > **Definitions:** in other words (2)
 > **Speakers:** - [instructor] (1)
 
-#### Build
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980)
+#### [Build](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=0)** - [Instructor] So how do we build the IoT system connected to the cloud?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=0)** - [Instructor] So how do we build the [[IoT]] system connected to the cloud?
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=4)** Well, there's a few things to consider.
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=5)** First is the configuration of the device itself, or the system that's gathering information from the IoT sensors.
 >
-> **[0:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=14)** So that device is typically going to have an operating system, such as Linux, it's going to have some sort of non-volatile storage, and it's going to have some sort of network connectivity.
+> **[0:14](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=14)** So that device is typically going to have an operating system, such as [[Linux]], it's going to have some sort of non-volatile storage, and it's going to have some sort of network connectivity.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=26)** Sometimes Wi-Fi, sometimes Bluetooth, sometimes directly connected.
 >
@@ -1435,13 +1410,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=64)** So next we need to figure out the cloud configuration, and we have many dimensions here as well.
 >
-> **[1:10](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=70)** Storage systems, typically databases that we're dealing with, the ability to define CPU or compute cycles or cores.
+> **[1:10](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=70)** Storage systems, typically [[Databases]] that we're dealing with, the ability to define CPU or compute cycles or cores.
 >
 > **[1:18](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=78)** The ability to deal with special-purpose software systems on the cloud, such as IoT systems, such as IoT Core on AWS.
 >
 > **[1:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=87)** The ability to deal with special-purpose systems for processing data, such as AI and machine learning.
 >
-> **[1:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=95)** The ability to deal with analytical systems, such as business intelligence, and then also the ability to manage the device that we just defined directly from the cloud-based infrastructure.
+> **[1:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=95)** The ability to deal with analytical systems, such as [[Business Intelligence (BI)|business intelligence]], and then also the ability to manage the device that we just defined directly from the cloud-based infrastructure.
 >
 > **[1:46](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/build?u=76281980&t=106)** So, what you pick and the technology you leverage to support these particular approaches really depends on the system you're trying to build.
 >
@@ -1451,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[IoT]] (5), [[Linux]] (1), power (1), next (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Linux]] (1), [[Databases]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Analogies:** such as (6)
 > **CLI Commands:** find (2), aws (1), make (1)
 > **Env Vars:** cpu (1), aws (1)
@@ -1459,12 +1434,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Train
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/train?u=76281980)
+#### [Train](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/train?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/train?u=76281980&t=0)** - So in aspects of building IoT systems in the cloud is the ability to train the artificially intelligent portions of this system using data that's abstracted from the IoT devices.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/train?u=76281980&t=0)** - So in aspects of building [[IoT]] systems in the cloud is the ability to train the artificially intelligent portions of this system using data that's abstracted from the IoT devices.
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/train?u=76281980&t=13)** So we have to deal with raw data that's coming from the IoT sensors.
 >
@@ -1510,18 +1484,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[IoT]] (5), cloud (1), ai (1)
+> **Frameworks & Libraries:** [[IoT]] (5)
 > **Analogies:** such as (4)
 > **Env Vars:** gps (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980)
+#### [Deployment](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=0)** - [Instructor] So how do we deploy the in state IoT based system leveraging public cloud into production.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=0)** - [Instructor] So how do we deploy the in state [[IoT]] based system leveraging public cloud into production.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=8)** So keep in mind that IoT deployment occurs at two levels, at the device level, our IoT level and at the remote level, our public cloud level.
 >
@@ -1529,11 +1502,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=25)** So as we're looking to move an IoT based system out into production, we need to understand what it is, what it does and what's changed.
 >
-> **[0:34](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=34)** We need to make sure that we're monitoring the system and managing the system correctly, making sure that we're able to spot issues that are ongoing in terms of operations, and then change the issues or augment the issues or solve the issues programmatically, and the ability to do so with tools and monitoring systems such as artificially intelligent operations or AIOps, or the ability to, not only monitor and manage the environment, in this case our IoT based systems, but the ability to learn proactively in terms of how to do that job better over time by doing the job.
+> **[0:34](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=34)** We need to make sure that we're monitoring the system and managing the system correctly, making sure that we're able to spot issues that are ongoing in terms of operations, and then change the issues or augment the issues or solve the issues programmatically, and the ability to do so with tools and monitoring systems such as artificially intelligent operations or [[AIOps]], or the ability to, not only monitor and manage the environment, in this case our IoT based systems, but the ability to learn proactively in terms of how to do that job better over time by doing the job.
 >
 > **[1:11](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=71)** The ability to deal with security systems, such as identity access management and encryption, and ultimately, how we're going to deal with policy management, dealing with things such as governance.
 >
-> **[1:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=82)** Then finally, the core analytics system including knowledge management, such as AI and machine learning based systems, business intelligence and the ability to leverage massive amounts of data in certain meaningful ways, so we can derive value from that data.
+> **[1:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=82)** Then finally, the core analytics system including knowledge management, such as AI and machine learning based systems, [[Business Intelligence (BI)|business intelligence]] and the ability to leverage massive amounts of data in certain meaningful ways, so we can derive value from that data.
 >
 > **[1:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/deployment?u=76281980&t=98)** So how do we do this in a productive way?
 >
@@ -1547,7 +1520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), management (3), data (3), cloud (2), [[AIOps]] (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[AIOps]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (2)
@@ -1558,12 +1531,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980)
+#### [Performance](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=0)** - [Instructor] So keep in mind that the internet of things has to deal with performance issues, typically ongoing.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=0)** - [Instructor] So keep in mind that the [[IoT|internet of things]] has to deal with performance issues, typically ongoing.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=8)** There's a few reasons for that.
 >
@@ -1577,9 +1549,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=32)** Once the information is consumed, it has to be stored someplace.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=37)** And then the data needs to be transferred from one place to another, typically from the sensor or the core IoT device so some sort of remote server.
+> **[0:37](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=37)** And then the data needs to be transferred from one place to another, typically from the sensor or the core [[IoT]] device so some sort of remote server.
 >
-> **[0:48](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=48)** We have to deal with information as it's managed on a remote cloud storage server.
+> **[0:48](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=48)** We have to deal with information as it's managed on a remote [[Cloud Storage]] server.
 >
 > **[0:54](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980&t=54)** And then the ability to process that information on the public cloud.
 >
@@ -1613,18 +1585,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[IoT]] (3), cloud (3), [[Security]] (3), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[IoT|Internet of things]] (1), [[Cloud Storage]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Warnings:** keep in mind (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cost
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980)
+#### [Cost](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=0)** - [Instructor] So now let's talk around the cost of IoT-based systems on public clouds.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=0)** - [Instructor] So now let's talk around the cost of [[IoT]]-based systems on public clouds.
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=6)** So keep in mind, we have a few major costs to consider.
 >
@@ -1642,7 +1613,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=37)** Then we get into the cloud side of things.
 >
-> **[0:40](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=40)** How much does it cost us for the cloud resources that we need to stand out such as the IoT-based systems, the database systems, security-based systems, things like that?
+> **[0:40](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=40)** How much does it cost us for the cloud resources that we need to stand out such as the IoT-based systems, the [[Database Systems]], security-based systems, things like that?
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=52)** And ultimately, how much does the system cost to operate?
 >
@@ -1650,7 +1621,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=61)** So keep in mind that we're combining the cost of the cloud and the cost of the device, as well as the cost of connectivity.
 >
-> **[1:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=68)** And keep in mind, when you deal with cloud services, you're dealing with ongoing, pay-as-you-go services.
+> **[1:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=68)** And keep in mind, when you deal with [[Cloud Services]], you're dealing with ongoing, pay-as-you-go services.
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/cost?u=76281980&t=76)** So the rules of thumb are fairly straightforward.
 >
@@ -1678,19 +1649,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[IoT]] (4), application (1), database (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Database Systems]] (1), [[Cloud Services]] (1)
 > **Warnings:** keep in mind (5)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980)
+#### [Operations](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=0)** - Let's talk about IoT operations and approaching IoT operations with some best practices in mind.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=0)** - Let's talk about [[IoT]] operations and approaching IoT operations with some best practices in mind.
 >
 > **[0:07](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=7)** So keep in mind that IoT ops have several components.
 >
@@ -1700,7 +1670,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=27)** Ultimately your ability to look at different aspects of security and how that relates to operations.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=32)** Keep in mind that an effective security approach is something that's going to be built synergistically with sec ops, or security operations, in mind.
+> **[0:32](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=32)** Keep in mind that an effective security approach is something that's going to be built synergistically with sec ops, or [[Security Operations]], in mind.
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/operations?u=76281980&t=42)** Ultimately how we're going to keep the network up and running.
 >
@@ -1732,25 +1702,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (3), business (1), ai (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Security Operations]] (1)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - let (1)
 
-#### Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980)
+#### [Security](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=0)** - So let's talk about IoT security and the special needs of security systems in IoT environments.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=0)** - So let's talk about [[IoT]] security and the special needs of security systems in IoT environments.
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=8)** So when we look at what the core of IoT security is, we have to consider the fact that we're dealing again with the notion of identities.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=16)** Identities of the devices, identities of the data, identities of the cloud born databases, basically all aspects of the system have some sort of identity that we have to keep track of.
+> **[0:16](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=16)** Identities of the devices, identities of the data, identities of the cloud born [[Databases]], basically all aspects of the system have some sort of identity that we have to keep track of.
 >
-> **[0:28](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=28)** And we keep track of identities within directory services, such as LDAP or Active Directory, or proprietary directories.
+> **[0:28](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=28)** And we keep track of identities within directory services, such as LDAP or [[Active Directory]], or proprietary directories.
 >
 > **[0:35](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/security?u=76281980&t=35)** In other words while we're tracking each identity, and how they're able to interact one to another, and how we're restricting them, or de-restricting them.
 >
@@ -1778,7 +1747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[IoT]] (5), cloud (5), data (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Databases]] (1), [[Active Directory]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ldap (1)
@@ -1787,12 +1756,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/governance?u=76281980)
+#### [Governance](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/governance?u=76281980&t=0)** - [Instructor] So, the main thing to think about IoT governance as related to IoT security is the fact that governance is about limiting access to certain things, basically putting guardrails around accessing resources, such as a device or a piece of data.
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/governance?u=76281980&t=0)** - [Instructor] So, the main thing to think about [[IoT]] governance as related to IoT security is the fact that governance is about limiting access to certain things, basically putting guardrails around accessing resources, such as a device or a piece of data.
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/governance?u=76281980&t=17)** Security is around restricting access, so governance is dealing with putting limitations, a granular limitations, around accessing certain resources.
 >
@@ -1816,7 +1784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (6), [[Security]] (5), data (4)
+> **Frameworks & Libraries:** [[IoT]] (6)
 > **Analogies:** such as (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1826,12 +1794,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Addional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980)
+#### [Addional resources](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=0)** - [Narrator] So where do you go to look for other resources in terms of keeping up with IoT in the cloud?
+> **[0:00](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=0)** - [Narrator] So where do you go to look for other resources in terms of keeping up with [[IoT]] in the cloud?
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=6)** Well, I recommend a few.
 >
@@ -1839,13 +1806,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=22)** So you can find them at [networkworld.com](https://networkworld.com).
 >
-> **[0:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=26)** Next is keep up with my blog that write out on [infoworld.com](https://infoworld.com)., and you'll find that I write and speak a lot around cloud computing and the use of IoT in the world of cloud computing.
+> **[0:26](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=26)** Next is keep up with my blog that write out on [infoworld.com](https://infoworld.com)., and you'll find that I write and speak a lot around [[Cloud Computing]] and the use of IoT in the world of cloud computing.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=38)** So keep an eye on that blog, you'll find that there's a lot of news and commentary in terms of how IoT is growing, different technologies you need to monitor, and ways that you can prove your own IoT developments and deployment capabilities.
 >
 > **[0:54](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=54)** So what are some of the certifications that are available out there?
 >
-> **[0:58](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=58)** Well you have Microsoft Professional Program for the Internet of Things, which is provided to you by Microsoft.
+> **[0:58](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=58)** Well you have [[Microsoft]] Professional Program for the [[IoT|Internet of Things]], which is provided to you by Microsoft.
 >
 > **[1:05](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980&t=65)** They provide a certification program which allows you to understand the basics of IoT and using IoT with cloud-based resources.
 >
@@ -1893,7 +1860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (18), cloud (11), data (7), next (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[IoT]] (18), [[Cloud Computing]] (3), [[Microsoft]] (2), [[IoT|Internet of things]] (2)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** find (5)
 > **Definitions:** is an  (2), means that (1)

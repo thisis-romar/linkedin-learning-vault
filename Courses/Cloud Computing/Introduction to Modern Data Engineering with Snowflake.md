@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The explosion of data and the demand for insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980)
+#### [The explosion of data and the demand for insights](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=28)** Fast forwarding to today, it's now the norm for computers to have storage capabilities upwards of 2 terabytes or more.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=36)** It's estimated that in 2025, the total amount of digital data in the world will approach 200 zettabytes, and I know that sounds like a made-up word, but I promise it's not.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=36)** It's estimated that in 2025, the total amount of digital data in the world will approach 200 zettabytes, and I know that sounds like a made-up [[Microsoft Word|word]], but I promise it's not.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=48)** In fact, 200 zettabytes represents over 200 billion terabytes.
 >
@@ -125,13 +124,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=104)** And how do we handle such a large and unprecedented scale of data?
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=108)** Hi there. My name is Gilberto Hernandez, and I'm a Developer Advocate at Snowflake.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=108)** Hi there. My name is Gilberto Hernandez, and I'm a Developer Advocate at [[Snowflake]].
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=113)** And I'm excited to welcome you to Introduction to Modern Data Engineering with Snowflake.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=113)** And I'm excited to welcome you to Introduction to Modern [[Data Engineering]] with Snowflake.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=117)** I've been educating developers for about a decade now on all sorts of technical topics, ranging from application development, document databases, and APIs.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=117)** I've been educating developers for about a decade now on all sorts of technical topics, ranging from [[Application Development]], document [[Databases]], and APIs.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=127)** If you've ever taken a course on Codecademy, used a documentation for MongoDB, or have tried some of the quick structure Plaid, there's a good chance that you stumbled across something that I wrote, and I'm hoping that if you did, you learned something new and that you learned it effortlessly.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=127)** If you've ever taken a course on Codecademy, used a documentation for [[MongoDB]], or have tried some of the quick structure Plaid, there's a good chance that you stumbled across something that I wrote, and I'm hoping that if you did, you learned something new and that you learned it effortlessly.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=144)** One of my personal joys in life is demystifying what might seem like complex or intimidating topics.
 >
@@ -141,24 +140,23 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=173)** By the end of this course, you'll learn how to leverage the Snowflake AI Data Cloud to ingest vast amounts of raw data at scale, apply efficient transformations to that data, learn various ways of delivering those extracted insights to stakeholders, and then finally, learn how to automate these workflows.
 >
-> **[3:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=192)** In short, you'll learn how to build end-to-end continuous data pipelines that can take raw data to polished insights.
+> **[3:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=192)** In short, you'll learn how to build end-to-end continuous [[Data Pipelines]] that can take raw data to polished insights.
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980&t=198)** Next up, let's talk a little about what we'll cover in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Snowflake]] (4), [[Data Engineering]] (2), [[Microsoft Word|Word]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Data Engineering]] (2), [[Microsoft Word|Word]] (1), [[Application Development]] (1), [[Databases]] (1)
 
-#### What we’ll cover in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980)
+#### [What we’ll cover in this course](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=0)** We won't be spending a lot of time on theory in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=4)** This course is intended to be extremely practical so that you can ramp up quickly, apply these concepts right away in Snowflake, and feel confident in what you're doing.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=4)** This course is intended to be extremely practical so that you can ramp up quickly, apply these concepts right away in [[Snowflake]], and feel confident in what you're doing.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=13)** This also means that the course won't be exhaustive of all data engineering features or techniques in Snowflake.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=13)** This also means that the course won't be exhaustive of all [[Data Engineering]] features or techniques in Snowflake.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=20)** That's intentional.
 >
@@ -172,9 +170,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=43)** This is so that you can learn by doing and get hands-on practice with core data engineering concepts.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=49)** To that end, we'll actively use tools like the command line, GitHub, SQL, Python, and more.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=49)** To that end, we'll actively use tools like the command line, [[GitHub]], [[SQL]], [[Python (Programming Language)|Python]], and more.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=56)** By the end of this course, you'll be dangerously good at building end-to-end continuous data pipelines using Snowflake.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=56)** By the end of this course, you'll be dangerously good at building end-to-end continuous [[Data Pipelines]] using Snowflake.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=64)** Now let's talk a little about who this course is best suited for.
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), data (7), [[Data Engineering]] (5), [[SQL]] (3), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Data Engineering]] (5), [[SQL]] (3), [[Data Pipelines]] (3), [[GitHub]] (1)
 > **Env Vars:** sql (3)
 > **Tools:** command line (1), github (1)
 > **CLI Commands:** python (1)
@@ -218,12 +216,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern data engineering with snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980)
+#### [Modern data engineering with snowflake](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=0)** A few years back, Snowflake published Cloud Data Engineering for Dummies, Snowflake Special Edition.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=0)** A few years back, [[Snowflake]] published Cloud [[Data Engineering]] for Dummies, Snowflake Special Edition.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=5)** Among many of the useful insights in it, it did a great job of capturing the essence of data engineering and what data engineers do.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=39)** If so, you might've noticed the following terms: collecting or ingesting, transforming, and delivery.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=46)** The concepts of data ingestion, data transformation, and data delivery are core to data pipelines.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=46)** The concepts of [[Data Ingestion]], [[Data Transformation]], and data delivery are core to [[Data Pipelines]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=53)** The practice of applying these concepts in concert to build data pipelines is known as data engineering.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=111)** A consumer could be someone like an analyst or application developer on your team, and a system could be something like a dashboard or some other application requiring a specific set of data.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=121)** In this course, we'll use a single platform, the Snowflake AI Data Cloud, to ingest, transform, and deliver data products to build modern data engineering pipelines.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=121)** In this course, we'll use a single platform, the Snowflake AI Data Cloud, to ingest, transform, and deliver data [[Microsoft Products|products]] to build modern data engineering pipelines.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=132)** And finally, let's talk a little more about the term "modern" in this context.
 >
@@ -269,11 +266,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=146)** Siloed data, meaning different datasets were housed in different data environments, and navigating those different environments was often challenging.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=154)** Siloed and complex management of compute resources, specifically having to manage individual different development environments many times with different programming languages, just to be able to process data, and finally, loose governance over data, which meant an increased security risk against that data.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=154)** Siloed and complex management of compute resources, specifically having to manage individual different development environments many times with different programming languages, just to be able to process data, and finally, loose governance over data, which meant an increased [[Security Risk]] against that data.
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=175)** Many of these data silos reflect legacy approaches to data engineering, namely because if you're doing modern data engineering, all of your data can live within the same platform with no silos.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=186)** Within Snowflake, your data can also be transformed easily using multiple languages, like SQL, Python, and more.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=186)** Within Snowflake, your data can also be transformed easily using multiple languages, like [[SQL]], [[Python (Programming Language)|Python]], and more.
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980&t=193)** And you can do this without needing to manage different development environments.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Data Engineering]] (11), [[Snowflake]] (8), cloud (2), application (2)
+> **Frameworks & Libraries:** [[Data Engineering]] (11), [[Snowflake]] (8), [[Data Pipelines]] (3), [[Data Ingestion]] (2), [[Data Transformation]] (1)
 > **Definitions:** refers to (3), known as (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** itd (1), sql (1)
@@ -301,20 +298,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### You’ve probably done some data engineering in the past
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980)
+#### [You’ve probably done some data engineering in the past](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=0)** One thing that I love about data engineering is that its concepts are present in what might seem like everyday data tasks.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=0)** One thing that I love about [[Data Engineering]] is that its concepts are present in what might seem like everyday data tasks.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=7)** If you've ever done anything with data in the past, there's a very good chance that you've performed data engineering or some aspect of it without even knowing it.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=15)** For example, if you've ever used a spreadsheet to work with data, you've likely used the ingestion, transformation, and delivery framework.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=24)** Say you had some raw data in a CSV file, and you imported it into a program like Excel or Google Sheets.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=24)** Say you had some raw data in a CSV file, and you imported it into a program like [[Microsoft Excel|Excel]] or [[Google]] Sheets.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=31)** When you did that, you performed data ingestion, and perhaps in the process of loading the data, you configured certain options like specifying the data format, the delimiter, and more.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=31)** When you did that, you performed [[Data Ingestion]], and perhaps in the process of loading the data, you configured certain options like specifying the data format, the delimiter, and more.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=41)** Once the raw data was loaded, you probably looked over the data and started thinking about how you might extract certain insights from it.
 >
@@ -328,13 +324,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=79)** And there's even a chance that you had to create a single dataset by combining multiple datasets.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=86)** That entire process represents data transformation where you took raw data and transformed it such that you would get closer to your insight.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=86)** That entire process represents [[Data Transformation]] where you took raw data and transformed it such that you would get closer to your insight.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=96)** Most folks might stop there, at a final polished dataset, in which case that would constitute the delivery of that data product, in that case, the dataset.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=105)** But maybe you took it a step further.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=108)** Maybe you created pivot tables based on certain dimensions, or you decided to visualize certain aspects of the transformed data using a histogram, for example.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=108)** Maybe you created [[Pivot Tables]] based on certain dimensions, or you decided to visualize certain aspects of the transformed data using a histogram, for example.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=117)** And last but not least, maybe you needed to share those final insights with someone, like a teammate or a client, or maybe that polished data became part of a larger analysis by another team.
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=141)** And sure, maybe the scale was small, you had a few hundred rows or so, and maybe things were very manual, and you personally performed all of those steps on a daily or weekly basis or something like that.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=153)** But the point is, you are actually building data pipelines no matter how small the scale was or how manual the process was.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=153)** But the point is, you are actually building [[Data Pipelines]] no matter how small the scale was or how manual the process was.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=160)** And the amazing thing is that all the steps that you took can be contextualized by the ingestion, transformation, and delivery framework that we'll use in this course to build data pipelines.
 >
@@ -352,25 +348,24 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=193)** And what if your computer doesn't have the computing power to handle the processing that you need to perform against that data?
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=201)** You can imagine how those things would introduce some serious challenges into extracting insights from your raw data, which is why, in this course, you'll learn to use Snowflake to solve challenges like these and build scalable end-to-end continuous data pipelines.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=201)** You can imagine how those things would introduce some serious challenges into extracting insights from your raw data, which is why, in this course, you'll learn to use [[Snowflake]] to solve challenges like these and build scalable end-to-end continuous data pipelines.
 >
 > **[3:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/you-ve-probably-done-some-data-engineering-in-the-past?u=76281980&t=216)** With that, let's get you set up with your Snowflake development environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Data Engineering]] (2), product (2), [[Snowflake]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (3), [[Data Engineering]] (2), [[Snowflake]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **Env Vars:** csv (1)
 > **Prerequisites:** set up (1)
 
-#### Preparing your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980)
+#### [Preparing your development environment](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=0)** There are a few things that you'll need to be able to follow along and be successful in this course. Here's what you'll need.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=6)** A free Snowflake trial account, a code editor, I'll be using Visual Studio Code, optionally, the official Visual Studio Code extension for Snowflake, Snowflake CLI, Snowflake's official Command Line Interface, access to a terminal, I'll use a terminal directly from within VS Code, and finally, access to GitHub.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=6)** A free [[Snowflake]] trial account, a code editor, I'll be using Visual Studio Code, optionally, the official Visual Studio Code extension for Snowflake, Snowflake [[CLI]], Snowflake's official Command Line Interface, access to a terminal, I'll use a terminal directly from within VS Code, and finally, access to [[GitHub]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=28)** Having a GitHub account is nice, but it's technically optional for this course.
 >
@@ -422,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=130)** This tool will help us easily deploy a few things later in the course.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=134)** To install it, you'll need pip, Python's package manager.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=134)** To install it, you'll need pip, [[Python (Programming Language)|Python]]'s package manager.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=138)** We won't demonstrate how to install Python or pip, so be sure to pause the video and look those details up separately if you need to.
 >
@@ -448,7 +443,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=210)** Let's clone the repo locally.
 >
-> **[3:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=212)** In a terminal, run git clone and pass in the path to the repository.
+> **[3:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=212)** In a terminal, run [[Git]] clone and pass in the path to the repository.
 >
 > **[3:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/preparing-your-development-environment?u=76281980&t=219)** You don't have to run this now.
 >
@@ -462,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (15), [[GitHub]] (7), [[CLI]] (6), next (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (15), [[GitHub]] (7), [[CLI]] (6), [[Python (Programming Language)|Python]] (2), [[Git]] (1)
 > **Tools:** vs code (9), terminal (7), github (7), visual studio (3), command line (2)
 > **Prerequisites:** install (7), you'll need (5), set up (1)
 > **CLI Commands:** pip (3), find (2), python (2), git (1)
@@ -471,12 +466,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1), next video (1)
 > **Exercise Files:** clone the repo (1)
 
-#### Build a really simple data pipeline in snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980)
+#### [Build a really simple data pipeline in snowflake](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=0)** Let's build a very simple data pipeline with Snowflake.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=0)** Let's build a very simple data pipeline with [[Snowflake]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=4)** This pipeline won't be anything highly complex or sophisticated, and that's intentional.
 >
@@ -484,13 +478,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=20)** A quick note before we start building.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=23)** If you've built data pipelines before using technologies other than Snowflake, then what we'll do in this video may come off as introductory.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=23)** If you've built [[Data Pipelines]] before using technologies other than Snowflake, then what we'll do in this video may come off as introductory.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=31)** So you're welcome to skip to the next video, but I recommend following along, as you'll get a sense of the Snowflake-specific patterns that we'll use throughout the course.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=40)** And who knows, you may also learn something new.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=43)** If you're brand new to data engineering, you should absolutely follow along, but don't worry.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=43)** If you're brand new to [[Data Engineering]], you should absolutely follow along, but don't worry.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=48)** Although I will explain at a high level what I'm doing, you're not expected to understand every single aspect of what we do.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=111)** This will be the perfect data to use to deliver our annual wages and CPI insights.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=117)** To load the data, start by navigating to Data Products on the left-hand side of the interface.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=117)** To load the data, start by navigating to Data [[Microsoft Products|Products]] on the left-hand side of the interface.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=123)** Click on Marketplace.
 >
@@ -544,7 +538,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=174)** In this modal, you can click on Done.
 >
-> **[2:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=176)** Next, create a new SQL worksheet.
+> **[2:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=176)** Next, create a new [[SQL]] worksheet.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=179)** You can do this by clicking on Projects on the left-hand side.
 >
@@ -560,7 +554,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=203)** Again, the point of this exercise is for you to get exposure to the ITD framework, not to focus on SQL syntax.
 >
-> **[3:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=210)** In the GitHub repository for this course, navigate to the module-1 folder and open the transformations.sql file.
+> **[3:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=210)** In the [[GitHub]] repository for this course, navigate to the module-1 folder and open the transformations.sql file.
 >
 > **[3:41](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=221)** Copy everything within the file and paste it into the SQL worksheet.
 >
@@ -624,7 +618,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=391)** Pretty cool.
 >
-> **[6:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=392)** Let's remove all of this Python code and instead replace it with the code for our application, which will visualize the annual wages and CPI trend for the USA.
+> **[6:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=392)** Let's remove all of this [[Python (Programming Language)|Python]] code and instead replace it with the code for our application, which will visualize the annual wages and CPI trend for the USA.
 >
 > **[6:44](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=404)** Navigate to the streamlit.py file in the module-1 folder of the repo.
 >
@@ -680,13 +674,13 @@ created: 2026-05-02
 >
 > **[9:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=552)** We're not stopping here, of course.
 >
-> **[9:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=555)** In fact, the rest of this course will be about continuously leveling up.
+> **[9:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=555)** In fact, the [[Representational State Transfer (REST)|rest]] of this course will be about continuously leveling up.
 >
-> **[9:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=559)** With that, let's dive a lot deeper and start learning all about data ingestion with Snowflake.
+> **[9:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/build-a-really-simple-data-pipeline-in-snowflake?u=76281980&t=559)** With that, let's dive a lot deeper and start learning all about [[Data Ingestion]] with Snowflake.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Snowflake]] (17), [[SQL]] (11), next (5), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (17), [[SQL]] (11), [[Data Pipelines]] (2), [[Data Engineering]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sql (10), cpi (7), wages_cpi (2), data (2), annual_wages_cpi_usa (2)
 > **UI Navigation:** click on (12), navigate to (3), open the (1), dropdown (1)
 > **CLI Commands:** make (1), find (1), python (1)
@@ -700,8 +694,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data ingestion?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980)
+#### [What is data ingestion?](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,11 +702,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=18)** These are wise words from my colleague, Jeremiah Hansen.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=22)** And I think they're just the right way to kick off our exploration of the first phase of our data engineering framework, data ingestion.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=22)** And I think they're just the right way to kick off our exploration of the first phase of our [[Data Engineering]] framework, [[Data Ingestion]].
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=30)** In the context of building data pipelines, ingestion refers to the gathering, collecting, or loading of raw data, often into a central platform.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=30)** In the context of building [[Data Pipelines]], ingestion refers to the gathering, collecting, or loading of raw data, often into a central platform.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=39)** In this course, Snowflake will be that central platform.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=39)** In this course, [[Snowflake]] will be that central platform.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=43)** Out of the three phases in our ITD data engineering framework, I find ingestion to be the most interesting, mainly because the approaches to ingesting data can vary so widely.
 >
@@ -721,7 +714,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=71)** Is your use case satisfied with, say, a daily ingestion routine?
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=76)** Well, you need to ingest data on a real-time basis.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=76)** Well, you need to ingest data on a [[Real-Time]] basis.
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=79)** Sources: where is data coming from?
 >
@@ -749,11 +742,11 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=144)** Snowflake also plays really well with lots of different data sources like cloud object storage or Kafka architectures as an example.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=154)** And finally, Snowflake can ingest all sorts of data formats, CSV, JSON, Parquet, just to name a few, and all sorts of compression formats as well.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=154)** And finally, Snowflake can ingest all sorts of data formats, CSV, [[JSON]], Parquet, just to name a few, and all sorts of compression formats as well.
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=166)** What's also neat is that Snowflake can ingest structured and semi-structured data directly.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=171)** And with newer features, it can actually extract data from unstructured data formats like PDF documents, for example.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=171)** And with newer features, it can actually extract data from [[Unstructured Data]] formats like PDF documents, for example.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980&t=179)** In any case, keep in mind that your approach to data ingestion is going to depend on your specific use case, but that it'll likely be impacted by things like number of data sources, scale of data, latency requirements, and more.
 >
@@ -767,25 +760,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Snowflake]] (9), [[Data Engineering]] (2), [[Real-Time]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[Data Engineering]] (2), [[Data Ingestion]] (2), [[Real-Time]] (2), [[Data Pipelines]] (1)
 > **Env Vars:** itd (1), csv (1), json (1), pdf (1)
 > **Definitions:** refers to (2)
 > **Analogies:** for example (2)
 > **Warnings:** keep in mind (1), note that (1)
 > **CLI Commands:** find (1)
 
-#### Batch ingestion with snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980)
+#### [Batch ingestion with snowflake](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=0)** Data ingestion with Snowflake can be broadly categorized into two buckets: batch ingestion and streaming ingestion.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=0)** [[Data Ingestion]] with [[Snowflake]] can be broadly categorized into two buckets: batch ingestion and streaming ingestion.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=8)** Batch ingestion refers to the process of ingesting data into Snowflake in large, discrete chunks.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=15)** This batch ingestion typically occurs at scheduled intervals, but it doesn't have to. It can also be a one-time event.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=23)** Batch ingestion is commonly used in scenarios where real-time processing of data is not critical, and it allows for the efficient handling of large volumes of data.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=23)** Batch ingestion is commonly used in scenarios where [[Real-Time]] processing of data is not critical, and it allows for the efficient handling of large volumes of data.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=34)** For example, batch ingestion is commonly used in scenarios where you may be migrating data from one system to, say, Snowflake or where you're setting up a Snowflake environment for the first time or if your pipeline ingests large amounts of data on a daily schedule, like an overnight job, as an example. Streaming ingestion, on the other hand, refers to the continuous and real-time ingestion of data into Snowflake.
 >
@@ -803,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=110)** First: preparing your data files.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=112)** This means preparing your CSV, JSON, or parquet files, for example.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=112)** This means preparing your CSV, [[JSON]], or parquet files, for example.
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=119)** Second: staging or storing those files somewhere.
 >
@@ -817,7 +809,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=150)** Throwing the data somewhere is one thing, but performing the ingestion means actually bringing the data into Snowflake.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=157)** And there are several options here, from Snowflake's easy-to-use web interface to patterns that use SQL or Python for ingestion as an example.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=157)** And there are several options here, from Snowflake's easy-to-use web interface to patterns that use [[SQL]] or [[Python (Programming Language)|Python]] for ingestion as an example.
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=167)** So to summarize, the typical pattern for batch ingestion with Snowflake involves preparing files, staging the files, and then performing the data ingestion into Snowflake.
 >
@@ -827,7 +819,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=196)** Loading data using Snowflake's web interface: I'll cover how to load data using Snowflake's UI, which, by the way, is also known as Snowsight, just in case you hear me use that term.
 >
-> **[3:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=208)** I'll cover ingestion using Snowflake's CLI, specifically, meaning loading data from your local computer into Snowflake using Snowflake's Command Line Interface.
+> **[3:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=208)** I'll cover ingestion using Snowflake's [[CLI]], specifically, meaning loading data from your local computer into Snowflake using Snowflake's Command Line Interface.
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/batch-ingestion-with-snowflake?u=76281980&t=218)** And finally, I'll cover one of the most common and powerful techniques for ingesting data using the COPY INTO SQL command to load data from files in cloud object storage into Snowflake.
 >
@@ -837,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Snowflake]] (22), [[Real-Time]] (3), cloud (2), web (2)
+> **Frameworks & Libraries:** [[Snowflake]] (22), [[Data Ingestion]] (3), [[Real-Time]] (3), [[SQL]] (2), [[JSON]] (1)
 > **Env Vars:** sql (2), csv (1), json (1), aws (1), cli (1)
 > **Definitions:** refers to (2), known as (1)
 > **Analogies:** for example (3)
@@ -845,12 +837,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Prerequisites:** you'll need (1)
 
-#### Loading data from snowflake marketplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980)
+#### [Loading data from snowflake marketplace](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=0)** One of the fastest and easiest ways of getting data into Snowflake is the Snowflake Marketplace.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=0)** One of the fastest and easiest ways of getting data into [[Snowflake]] is the Snowflake Marketplace.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=5)** The Snowflake Marketplace is where you can share, discover, and access a wide variety of ready-to-query datasets.
 >
@@ -890,7 +881,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=120)** Feel free to pause the video now if you need to log into your account.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=125)** Okay. Start by navigating to Data Products on the left-hand side of the interface and click Marketplace.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=125)** Okay. Start by navigating to Data [[Microsoft Products|Products]] on the left-hand side of the interface and click Marketplace.
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=133)** You'll notice that I'm now in the Snowflake Marketplace, and I can find all sorts of data listings here, some free, some paid, from all sorts of providers.
 >
@@ -928,7 +919,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=222)** Click on Query Data.
 >
-> **[3:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=225)** This will open a new SQL worksheet with some pre-written SQL queries for you created by the provider.
+> **[3:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=225)** This will open a new [[SQL]] worksheet with some pre-written SQL queries for you created by the provider.
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=231)** The queries are typically exploratory in nature, meaning you can use them to explore the dataset a bit.
 >
@@ -958,7 +949,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=305)** You can see the updated context reflected in the worksheet here.
 >
-> **[5:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=310)** In the GitHub repository for this course, navigate to the module-2 folder and open the frostbyte-weathersource.sql file.
+> **[5:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=310)** In the [[GitHub]] repository for this course, navigate to the module-2 folder and open the frostbyte-weathersource.sql file.
 >
 > **[5:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-from-snowflake-marketplace?u=76281980&t=319)** Copy everything within the file and paste it into the worksheet.
 >
@@ -982,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Snowflake]] (15), [[SQL]] (6), next (3), power (2)
+> **Frameworks & Libraries:** [[Snowflake]] (15), [[SQL]] (6), [[Microsoft Products|Products]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (5), frostbyte_weathersource (2), onpoint_id (2), llc (1)
 > **UI Navigation:** click on (3), dropdown (1), navigate to (1), open the (1)
 > **CLI Commands:** find (3), make (2)
@@ -991,12 +982,11 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Tools:** github (1)
 
-#### Loading data using snowflake’s web interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980)
+#### [Loading data using snowflake’s web interface](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=0)** Another powerful way of ingesting data into Snowflake is by using one of the various options within Snowflake's web interface.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=0)** Another powerful way of ingesting data into [[Snowflake]] is by using one of the various options within Snowflake's web interface.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=8)** In this video, we'll specifically cover how to ingest data from a local file directly into a table in Snowflake.
 >
@@ -1008,13 +998,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=36)** What's great is that Snowflake supports a variety of different file formats, and the UI is a fast way of getting data into Snowflake without having to worry too much about the format of the file.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=47)** For example, Snowflake easily handles CSV, JSON, Parquet, XML, and many other file formats.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=47)** For example, Snowflake easily handles CSV, [[JSON]], Parquet, XML, and many other file formats.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=54)** But Snowflake can go even further.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=57)** If you're loading data that's been compressed, Snowflake can also handle those compression algorithms and decompress the files for you during data loading.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=57)** If you're loading data that's been compressed, Snowflake can also handle those compression [[Algorithms]] and decompress the files for you during data loading.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=65)** You can check out all the supported compression algorithms in Snowflake's technical documentation.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=65)** You can check out all the supported compression algorithms in Snowflake's [[Technical Documentation]].
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=70)** For now, let's get hands-on and use a web interface to load some data into Snowflake.
 >
@@ -1024,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=86)** For now, it's more important to focus on the method of ingestion.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=89)** Toward the end of this module, we'll load some different datasets into your account, and we'll use that data throughout the rest of the course.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=89)** Toward the end of this module, we'll load some different datasets into your account, and we'll use that data throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=96)** Okay. With that, let's walk through the process together.
 >
@@ -1058,7 +1048,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=164)** Okay. Let's load some data into our accounts using this option.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=168)** For the purposes of convenience, the file containing the data that we'll upload is in our GitHub repository.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=168)** For the purposes of convenience, the file containing the data that we'll upload is in our [[GitHub]] repository.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=174)** If you've already cloned the repo to your computer, you'll simply need to navigate to the correct directory to select the file.
 >
@@ -1128,7 +1118,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=338)** And finally, before we load the data, one more quick thing.
 >
-> **[5:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=342)** For all the SQL fans that want to see what is happening under the hood, you can preview the SQL that will be executed according to what was specified in the modal by clicking on Show SQL.
+> **[5:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=342)** For all the [[SQL]] fans that want to see what is happening under the hood, you can preview the SQL that will be executed according to what was specified in the modal by clicking on Show SQL.
 >
 > **[5:52](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=352)** You can see the SQL used to create the table to define the file format and more.
 >
@@ -1154,11 +1144,11 @@ created: 2026-05-02
 >
 > **[6:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=406)** The great thing about using the UI is that many things are abstracted away for you to make it easy for you to use the power of Snowflake to ingest data, but you still have the full flexibility to configure things like error handling, compute power, the table schema, and much more throughout the entire process.
 >
-> **[7:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=424)** In fact, coming up, we'll dig a little deeper and understand how to optimize data ingestion into Snowflake.
+> **[7:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-s-web-interface?u=76281980&t=424)** In fact, coming up, we'll dig a little deeper and understand how to optimize [[Data Ingestion]] into Snowflake.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), [[Snowflake]] (21), [[SQL]] (7), database (5), web (4)
+> **Frameworks & Libraries:** [[Snowflake]] (21), [[SQL]] (7), [[Algorithms]] (2), [[GitHub]] (2), [[JSON]] (1)
 > **Env Vars:** sql (7), csv (3), json (1), xml (1), load_data (1)
 > **UI Navigation:** select the (4), click on (3), navigate to (2)
 > **CLI Commands:** make (2), find (1)
@@ -1167,12 +1157,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 
-#### Optimize compute resources for efficient batch ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980)
+#### [Optimize compute resources for efficient batch ingestion](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=0)** Until now, we haven't explicitly discussed Snowflake's compute resources, although we've been actively using them to ingest data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=0)** Until now, we haven't explicitly discussed [[Snowflake]]'s compute resources, although we've been actively using them to ingest data.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=8)** They're incredibly important to the batch ingestion process and to so many other general operations within Snowflake.
 >
@@ -1186,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=30)** Compute clusters can be made up of one or more nodes.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=33)** Each node is a virtual machine that provides a CPU, memory, and temporary storage to execute SQL and other operations against your data.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=33)** Each node is a virtual machine that provides a CPU, memory, and temporary storage to execute [[SQL]] and other operations against your data.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/optimize-compute-resources-for-efficient-batch-ingestion?u=76281980&t=42)** A single node is able to perform multiple data operations in parallel using threads.
 >
@@ -1296,7 +1285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), node (10), [[Snowflake]] (6), parallel (6), cloud (2)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[SQL]] (1)
 > **CLI Commands:** node (10)
 > **Definitions:** is a  (5), known as (1)
 > **Analogies:** for example (3)
@@ -1305,18 +1294,17 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Best Practices:** recommended (1)
 
-#### Loading data using snowflake CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980)
+#### [Loading data using snowflake CLI](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=0)** Another powerful way of ingesting data into Snowflake is using Snowflake's official Command Line Interface.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=0)** Another powerful way of ingesting data into [[Snowflake]] is using Snowflake's official Command Line Interface.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=6)** This is especially useful for when you want to automate the loading of data using a script and when you want to integrate this automation into CI/CD pipelines.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=15)** We'll cover data pipeline automation in a later module, and we'll cover DevOps in a different course intended to be the follow-up to this course.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=15)** We'll cover data pipeline automation in a later module, and we'll cover [[DevOps]] in a different course intended to be the follow-up to this course.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=23)** For now, we'll focus on using the Snowflake CLI to load data into your Snowflake account.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=23)** For now, we'll focus on using the Snowflake [[CLI]] to load data into your Snowflake account.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=28)** Later, when you learn about DevOps with Snowflake, you'll know how to integrate what you learn here into CI/CD pipelines.
 >
@@ -1430,7 +1418,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=356)** Let's load the data from the file into a table now.
 >
-> **[6:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=360)** We can always run some SQL in a SQL worksheet to do this, but let's use a Snowflake CLI to do this instead.
+> **[6:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=360)** We can always run some [[SQL]] in a SQL worksheet to do this, but let's use a Snowflake CLI to do this instead.
 >
 > **[6:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=366)** The file named "load_from_cli_stage.sql" within the module-2 folder contains a SQL that will run to load the data.
 >
@@ -1458,13 +1446,13 @@ created: 2026-05-02
 >
 > **[7:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=438)** We're going to cover them in the next video.
 >
-> **[7:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=440)** For now, it's important for you to come away from this exercise knowing that you can load data into your Snowflake environment using the Snowflake CLI entirely, and this makes it an invaluable tool in the context of data ingestion, especially when you want to automate the loading of data using a script or when you want to integrate this automation into CI/CD pipelines.
+> **[7:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=440)** For now, it's important for you to come away from this exercise knowing that you can load data into your Snowflake environment using the Snowflake CLI entirely, and this makes it an invaluable tool in the context of [[Data Ingestion]], especially when you want to automate the loading of data using a script or when you want to integrate this automation into CI/CD pipelines.
 >
 > **[7:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-snowflake-cli?u=76281980&t=460)** Coming up, we'll explore one of the most common and powerful commands for batch ingestion of data into Snowflake: the COPY INTO command.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (39), data (19), [[CLI]] (17), [[SQL]] (8), next (6)
+> **Frameworks & Libraries:** [[Snowflake]] (39), [[CLI]] (17), [[SQL]] (8), [[DevOps]] (2), [[Data Ingestion]] (1)
 > **Env Vars:** cli (17), sql (4), csv (3), load_data (2), compute_wh (1)
 > **Code Identifiers:** snowflake_cli_stage (5), load_from_cli_stage (4), modern_data_engineering_snowflake (2), default_connection_name (1), sample_orders (1)
 > **File Paths:** load_from_cli_stage.sql (4), config.toml (2), snowflake/config.toml (1), sample_orders.csv (1)
@@ -1473,26 +1461,25 @@ created: 2026-05-02
 > **Tools:** command line (2), terminal (2), vs code (1)
 > **CLI Commands:** cd (3), find (1)
 
-#### Loading data using the COPY INTO command
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980)
+#### [Loading data using the COPY INTO command](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=0)** So far, our batch ingestion techniques have been no-code or low-code, which is pretty neat.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=6)** To quickly recap, we've pulled in data from the Snowflake Marketplace, performed ingestion of local data files using the web interface, and performed ingestion of data using the command line interface.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=6)** To quickly recap, we've pulled in data from the [[Snowflake]] Marketplace, performed ingestion of local data files using the web interface, and performed ingestion of data using the command line interface.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=18)** Using these techniques, you've seen firsthand how easy it is to get data into Snowflake.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=23)** Let's now dive into one of the most common and powerful techniques for batch data ingestion: Snowflake's COPY INTO command.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=23)** Let's now dive into one of the most common and powerful techniques for batch [[Data Ingestion]]: Snowflake's COPY INTO command.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=31)** The COPY INTO command is a SQL command that allows you to ingest data from stage files into a table.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=31)** The COPY INTO command is a [[SQL]] command that allows you to ingest data from stage files into a table.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=37)** And when I say stage files, I simply mean files that live in a stage.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=41)** A stage is where a file can be stored before its data is ingested into Snowflake.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=46)** The stage can be a Snowflake internal stage or an external stage that points to third-party cloud storage.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=46)** The stage can be a Snowflake internal stage or an external stage that points to third-party [[Cloud Storage]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=53)** For example, you can create an external stage in Snowflake and specify that the stage should point to, say, an AWS S3 bucket, for example.
 >
@@ -1508,7 +1495,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=94)** You might define a specific file format object if you have many options that you want to configure for the ingestion, things like the field delimiter, type formatting, trimming whitespace, and much more.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=107)** Otherwise, you're probably okay with defining the file format in line and simply specifying the format of the data files you're working with, such as CSV, JSON, or Parquet.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=107)** Otherwise, you're probably okay with defining the file format in line and simply specifying the format of the data files you're working with, such as CSV, [[JSON]], or Parquet.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=117)** You'll get hands-on experience with this shortly.
 >
@@ -1520,7 +1507,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=138)** You'll specify the table you'll load the data into, the stage containing the data files, and the file format to use during ingestion.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=146)** You can also specify what should happen in case errors are encountered during ingestion using the on-error option, which is the same option you saw when loading data using the web interface earlier or if you browse a SQL file that we use to load data using the Snowflake CLI.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=146)** You can also specify what should happen in case errors are encountered during ingestion using the on-error option, which is the same option you saw when loading data using the web interface earlier or if you browse a SQL file that we use to load data using the Snowflake [[CLI]].
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=162)** You'd write and execute all of this in a Snowflake worksheet.
 >
@@ -1538,7 +1525,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=209)** Run the file.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=215)** We'll now type the rest of the code into the worksheet manually so that you can get some practice with some important concepts.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=215)** We'll now type the [[Representational State Transfer (REST)|rest]] of the code into the worksheet manually so that you can get some practice with some important concepts.
 >
 > **[3:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/loading-data-using-the-copy-into-command?u=76281980&t=222)** Note, however, that the sample_menu.sql file contains all of the code for this exercise in case you simply want to paste the entire file into the worksheet and run it.
 >
@@ -1616,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Snowflake]] (13), [[SQL]] (7), cloud (4), aws (3)
+> **Frameworks & Libraries:** [[Snowflake]] (13), [[SQL]] (7), [[Representational State Transfer (REST)|Rest]] (2), [[Data Ingestion]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** copy (10), into (10), sql (5), aws (3), csv (3)
 > **Code Identifiers:** load_data (5), blob_stage (4), sample_menu_copy_into (3), raw_pos (3), sample_menu (2)
 > **CLI Commands:** aws (3), make (1)
@@ -1625,24 +1612,23 @@ created: 2026-05-02
 > **Analogies:** for example (2), such as (1)
 > **Warnings:** note that (1), keep in mind (1)
 
-#### Ingesting data from other data systems using connectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980)
+#### [Ingesting data from other data systems using connectors](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=0)** - You won't always have direct access to the data that you want to ingest into Snowflake.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=0)** - You won't always have direct access to the data that you want to ingest into [[Snowflake]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=5)** In fact, that data may be housed in an entirely different data system.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=10)** And by different data system, I'm not necessarily referring to cloud object storage integrations.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=15)** I'm referring to entirely different platforms or databases, ones that you might not have direct access to.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=15)** I'm referring to entirely different platforms or [[Databases]], ones that you might not have direct access to.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=21)** This scenario presents its own unique set of challenges.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=25)** This is where Snowflake Native Connectors are great options.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=28)** Snowflake Native Connectors provide native integration of third-party applications and database systems in Snowflake.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=28)** Snowflake Native Connectors provide native integration of third-party applications and [[Database Systems]] in Snowflake.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/ingesting-data-from-other-data-systems-using-connectors?u=76281980&t=35)** They allow you to access data and other systems without the need to manually integrate against API endpoints.
 >
@@ -1676,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Snowflake]] (11), [[Databases]] (2), cloud (1), database (1)
+> **Frameworks & Libraries:** [[Snowflake]] (11), [[Databases]] (2), [[Database Systems]] (1)
 > **UI Navigation:** navigate to (2), click on (2), in the sidebar (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** install (1), configure (1), set up (1)
@@ -1685,22 +1671,21 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - you (1)
 
-#### Recap and best practices for batch ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980)
+#### [Recap and best practices for batch ingestion](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=0)** We've covered a range of common and powerful techniques for performing batch ingestion with Snowflake.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=0)** We've covered a range of common and powerful techniques for performing batch ingestion with [[Snowflake]].
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=6)** The techniques have ranged from no-code options that allow you to quickly load data into your Snowflake account to techniques that allow you to ingest data from a local file system or from cloud storage.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=6)** The techniques have ranged from no-code options that allow you to quickly load data into your Snowflake account to techniques that allow you to ingest data from a local file system or from [[Cloud Storage]].
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=18)** Let's quickly recap the techniques that we covered in this module.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=22)** Loading data from Snowflake Marketplace, batch ingestion using Snowflake's web interface, batch ingestion with Snowflake CLI, batch ingestion using the COPY INTO command and cloud object storage, how you might load data using Snowflake connectors.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=22)** Loading data from Snowflake Marketplace, batch ingestion using Snowflake's web interface, batch ingestion with Snowflake [[CLI]], batch ingestion using the COPY INTO command and cloud object storage, how you might load data using Snowflake connectors.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=40)** You also learned how to make the most out of Snowflake compute resources, virtual warehouses so that you're optimally utilizing them when performing batch ingestion.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=49)** This is an especially useful concept that will level you up as you build your data pipelines.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=49)** This is an especially useful concept that will level you up as you build your [[Data Pipelines]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-batch-ingestion?u=76281980&t=53)** All of these ingestion techniques play important and unique roles in building data pipelines, but as always, your use case will vary. I mentioned this earlier in the course, but the intent of this module is to present you with some of the most common and powerful batch ingestion techniques.
 >
@@ -1742,7 +1727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (13), data (11), cloud (2), web (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (13), [[Data Pipelines]] (2), [[Cloud Storage]] (1), [[CLI]] (1)
 > **Env Vars:** cli (1), copy (1), into (1)
 > **Cross-References:** we covered (1), earlier in (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -1754,8 +1739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are data transformations?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980)
+#### [What are data transformations?](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,9 +1759,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=60)** But in general, it's common for transformations to address missing or incorrect data, fix formatting, perform aggregations, derive new columns from existing columns, derive new views or tables from raw data, and much more.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=75)** And there are various ways of performing these data transformations in Snowflake.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=75)** And there are various ways of performing these data transformations in [[Snowflake]].
 >
-> **[1:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=79)** The two most common methods are to use SQL or Snowpark to write and perform the transformations.
+> **[1:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=79)** The two most common methods are to use [[SQL]] or Snowpark to write and perform the transformations.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=85)** We'll cover both in this module.
 >
@@ -1787,7 +1771,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=107)** But beyond the individual transformation features, let's keep in mind what we're trying to accomplish.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=113)** We're learning to build data pipelines that can take raw data and deliver an insight.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=113)** We're learning to build [[Data Pipelines]] that can take raw data and deliver an insight.
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980&t=118)** To get to those insights, the raw data needs to be transformed.
 >
@@ -1797,25 +1781,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Snowflake]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1), [[SQL]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** sql (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Data transformations with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980)
+#### [Data transformations with SQL](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=0)** We're going to be building a pipeline that tracks anomalous sales data and daily sales metrics for specific cities where Tasty Byte operates.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=8)** You've already loaded all of the raw data into your Snowflake account necessary to do this.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=8)** You've already loaded all of the raw data into your [[Snowflake]] account necessary to do this.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=12)** If you haven't, ensure you complete the corresponding reading in the previous module.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=17)** With the raw data now in Snowflake, we can begin transforming it.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=20)** In this video, you'll learn how to use SQL to perform those transformations.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=20)** In this video, you'll learn how to use [[SQL]] to perform those transformations.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=24)** Before getting into the details, let's go over a couple of things.
 >
@@ -1825,7 +1808,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=40)** You can always look up SQL syntax independently.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=43)** Second, this isn't a data modeling course.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=43)** Second, this isn't a [[Data Modeling]] course.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=45)** We won't cover the theory behind how to structure or model your data.
 >
@@ -1939,13 +1922,13 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=310)** This helps us to reuse the raw data as much as possible without compromising its integrity.
 >
-> **[5:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=316)** In this video, you learned how to perform data transformations against your raw data in SQL, and if SQL isn't your thing, then I'm hoping Python, Java, or Scala might be.
+> **[5:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=316)** In this video, you learned how to perform data transformations against your raw data in SQL, and if SQL isn't your thing, then I'm hoping [[Python (Programming Language)|Python]], [[Java]], or [[Scala]] might be.
 >
 > **[5:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-sql?u=76281980&t=326)** And then next lesson, you'll learn how to use Snowpark to perform transformations in these other languages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (21), data (14), [[Snowflake]] (7), next (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (21), [[Snowflake]] (7), [[Data Modeling]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** sql (20), ansi (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (1), python (1)
@@ -1953,16 +1936,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), note that (1)
 > **File Paths:** hamburg_sales.sql (1)
 
-#### Data transformations with snowpark
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980)
+#### [Data transformations with snowpark](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=0)** If you're like me, then SQL might not be your preferred language of choice.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=0)** If you're like me, then [[SQL]] might not be your preferred language of choice.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=4)** I personally prefer Python, and I love that with Snowpark, I can use Python to perform my data transformations.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=4)** I personally prefer [[Python (Programming Language)|Python]], and I love that with Snowpark, I can use Python to perform my data transformations.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=11)** With Snowpark, you can perform data transformations in Python, Java, or Scala.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=11)** With Snowpark, you can perform data transformations in Python, [[Java]], or [[Scala]].
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=17)** Snowpark allows you to configure the runtimes for these languages, meaning you can perform data transformations with, say, Python 3.9 or 3.10 or whichever version fits your language and use case best.
 >
@@ -1970,13 +1952,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=36)** The general pattern is that you'll create DataFrames using your data, perform whatever sorts of transformations you need to perform, and usually write those results back to new views or tables.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=48)** If you've used PySpark prior to this or any other data framework with a DataFrame API, your Snowpark experience will feel very similar.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=48)** If you've used [[PySpark]] prior to this or any other data framework with a DataFrame API, your Snowpark experience will feel very similar.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=57)** Finally, if you've ever attempted to perform large-scale data operations using your own computer's memory, then you know that it's almost too easy and also very frustrating to run out of memory to perform those operations.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=69)** This is a common limiting factor in large-scale data analysis using your machine's local computing power.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=76)** But with Snowpark, if you're developing locally, you can push your data transformations down to Snowflake's powerful compute engine.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=76)** But with Snowpark, if you're developing locally, you can push your data transformations down to [[Snowflake]]'s powerful compute engine.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=84)** This means you never have to worry about running out of memory on your own computer.
 >
@@ -2012,7 +1994,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=171)** Leave the warehouse set to COMPUTE_WH. Click Create.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=181)** Okay. We're inside of a Snowflake Notebook, which is an incredibly powerful tool for executing SQL, Python, and building data pipelines.
+> **[3:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=181)** Okay. We're inside of a Snowflake Notebook, which is an incredibly powerful tool for executing SQL, Python, and building [[Data Pipelines]].
 >
 > **[3:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-with-snowpark?u=76281980&t=190)** We're going to write Snowpark for Python code in this notebook, and as I mentioned before, we'll run through the same transformations we did in the previous video.
 >
@@ -2090,7 +2072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (13), [[Snowflake]] (8), api (7), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Snowflake]] (8), [[SQL]] (4), [[Java]] (2), [[Scala]] (2)
 > **Env Vars:** api (7), sql (4), tasty_bytes (1), harmonized (1), compute_wh (1)
 > **CLI Commands:** python (13)
 > **Code Identifiers:** sorted_weather (3), hamburg_sales_snowpark (2), get_active_session (1), daily_weather_v (1), filtered_weather (1)
@@ -2099,8 +2081,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), install (1)
 > **Versions:** python 3 (1), 3.10 (1)
 
-#### Computations with user-defined functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980)
+#### [Computations with user-defined functions](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2118,13 +2099,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=43)** Say I need to perform a calculation that returns a value given some inputs.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=48)** Or if I need to format a value like a telephone number in a certain way, for example, a user-defined function would be the perfect Snowflake primitive to capture that logic so that I can reliably reuse it throughout my data transformations.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=48)** Or if I need to format a value like a telephone number in a certain way, for example, a user-defined function would be the perfect [[Snowflake]] primitive to capture that logic so that I can reliably reuse it throughout my data transformations.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=61)** And if I ever need to update the logic, I can easily update it in one place versus several different places.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=68)** Here are the main things to know about user-defined functions.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=72)** You can write UDFs in one of many supported languages, including SQL, JavaScript, Python, Java, and Scala.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=72)** You can write UDFs in one of many supported languages, including [[SQL]], [[JavaScript]], [[Python (Programming Language)|Python]], [[Java]], and [[Scala]].
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=80)** UDFs are typically intended to return a single value.
 >
@@ -2134,7 +2115,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=101)** The common pattern for writing a user-defined function is to first define the function and its associated logic.
 >
-> **[1:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=108)** And then, once created, invoke the UDF during transformations or other data processing.
+> **[1:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=108)** And then, once created, invoke the UDF during transformations or other [[Data Processing]].
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/computations-with-user-defined-functions?u=76281980&t=114)** Let's get hands-on and put these concepts to use.
 >
@@ -2226,7 +2207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (16), data (10), [[Snowflake]] (3), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (16), [[Snowflake]] (3), [[Python (Programming Language)|Python]] (2), [[JavaScript]] (1), [[Java]] (1)
 > **Env Vars:** sql (15), udf (8), create (1), replace (1), view (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **Analogies:** for example (3), imagine (1)
@@ -2235,14 +2216,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), navigate to (1)
 > **File Paths:** hamburg_sales_expanded.sql (1)
 
-#### Efficient transformations with streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980)
+#### [Efficient transformations with streams](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=0)** So far, you've learned how to perform transformations against your data using some of Snowflake's core features: SQL, Snowpark, and UDFs.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=0)** So far, you've learned how to perform transformations against your data using some of [[Snowflake]]'s core features: [[SQL]], Snowpark, and UDFs.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=9)** You'll run into these concepts and features over and over again, and it's good to have a baseline knowledge of them as you learn more about building data pipelines.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=9)** You'll run into these concepts and features over and over again, and it's good to have a baseline knowledge of them as you learn more about building [[Data Pipelines]].
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=18)** In this video, we'll level things up a bit and start focusing on efficient transformations.
 >
@@ -2352,7 +2332,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=396)** Scroll all the way to the right in the results pane.
 >
-> **[6:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=402)** Take a look at the last three columns here: METADATA$ACTION, METADATA$ISUPDATE, and METADATA$ROW_ID.
+> **[6:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=402)** Take a look at the last three columns here: [[Metadata]]$ACTION, METADATA$ISUPDATE, and METADATA$ROW_ID.
 >
 > **[6:50](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=410)** These columns provide more information about the changes to the table.
 >
@@ -2366,7 +2346,7 @@ created: 2026-05-02
 >
 > **[7:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=438)** Optionally, you can run the final statement in the SQL, but make sure you read the note in the comment to understand why the deleted row won't be returned in the query. Okay. That's it.
 >
-> **[7:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=450)** We'll use a stream to keep an eye on sales in Hamburg, and we'll set up the rest of the logic to do that in the next video.
+> **[7:30](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=450)** We'll use a stream to keep an eye on sales in Hamburg, and we'll set up the [[Representational State Transfer (REST)|rest]] of the logic to do that in the next video.
 >
 > **[7:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/efficient-transformations-with-streams?u=76281980&t=456)** For now, let's recap what you learned.
 >
@@ -2378,7 +2358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (5), [[Metadata]] (5), [[Snowflake]] (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Metadata]] (5), [[Snowflake]] (3), [[Data Pipelines]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** metadata (5), sql (4), order_header (3), insert (3), action (2)
 > **Code Identifiers:** order_header_stream (3), daily_city_metrics_v (1), tasty_bytes (1), raw_pos (1), order_header (1)
 > **Analogies:** for example (5), imagine (2)
@@ -2387,8 +2367,7 @@ created: 2026-05-02
 > **SQL:** insert into (1), select (1)
 > **File Paths:** order_header_stream.sql (1)
 
-#### Complex procedural logic with stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980)
+#### [Complex procedural logic with stored procedures](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2396,13 +2375,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=5)** They helped us perform conversions between units of measurement, and they scaled really well when we used them to derive new columns in a view.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=13)** UDFs excel at this, but when you want to go beyond specific computations and perhaps capture and reuse more complex logic, then you might want to consider a stored procedure over a UDF.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=13)** UDFs [[Microsoft Excel|excel]] at this, but when you want to go beyond specific computations and perhaps capture and reuse more complex logic, then you might want to consider a stored procedure over a UDF.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=26)** Before getting into the details of stored procedures, I'm sure you might be wondering what exactly constitutes more complex logic.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=34)** Well, the exact specifics will, of course, depend on your use case.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=38)** But generally speaking, store procedures might, for example, execute a series of operations that could include multiple SQL statements, transactional logic, or other complex workflows.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=38)** But generally speaking, store procedures might, for example, execute a series of operations that could include multiple [[SQL]] statements, transactional logic, or other complex workflows.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=50)** For example, a stored procedure could be used to process an order, update inventory, generate reports, or maybe execute some other specific critical business logic.
 >
@@ -2412,11 +2391,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=79)** The pattern for working with stored procedures is similar to the pattern for working with UDFs.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=85)** You define the procedure and write its definition in one of the supported languages: SQL, JavaScript, Python, Java, or Scala.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=85)** You define the procedure and write its definition in one of the supported languages: SQL, [[JavaScript]], [[Python (Programming Language)|Python]], [[Java]], or [[Scala]].
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=94)** You can then call the stored procedure using the CALL syntax and specify the name of the procedure.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=100)** You can also write and call stored procedures directly within Snowflake or in a development environment that supports one of the languages that I mentioned earlier.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=100)** You can also write and call stored procedures directly within [[Snowflake]] or in a development environment that supports one of the languages that I mentioned earlier.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/complex-procedural-logic-with-stored-procedures?u=76281980&t=109)** Follow along with me to create a stored procedure that we'll use in our pipeline.
 >
@@ -2518,7 +2497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[SQL]] (7), [[Snowflake]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[SQL]] (7), [[Snowflake]] (3), [[Microsoft Excel|Excel]] (1), [[JavaScript]] (1)
 > **Env Vars:** sql (6), udf (2), call (2), order_header (2), insert (2)
 > **CLI Commands:** python (8), make (2)
 > **Analogies:** for example (2), just like (1), imagine (1)
@@ -2527,8 +2506,7 @@ created: 2026-05-02
 > **File Paths:** orders_header_sproc.sql (1)
 > **Ports:** :10 (1)
 
-#### Automatic transformations with dynamic tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980)
+#### [Automatic transformations with dynamic tables](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,7 +2518,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=32)** And if you have a lot of streams coupled with automation, this can get complex pretty quickly. Depending on what you're trying to do, a dynamic table might be a better option for you.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=43)** A dynamic table in Snowflake is a special type of table that automatically updates itself with the latest data using a predefined query.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=43)** A dynamic table in [[Snowflake]] is a special type of table that automatically updates itself with the latest data using a predefined query.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=51)** This helps ensure that the table always reflects the most current information from its source tables.
 >
@@ -2602,7 +2580,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=207)** Now's a good time to pause the video if you need to log into your Snowflake account.
 >
-> **[3:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=212)** Navigate to the hamburg_sales_dynamic_table.sql file in the module-3 folder.
+> **[3:32](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=212)** Navigate to the hamburg_sales_dynamic_table.[[SQL]] file in the module-3 folder.
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=218)** Copy its contents and paste them into a new SQL worksheet.
 >
@@ -2686,7 +2664,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=395)** Each approach has its own benefits and trade-offs, and it's important that you learn how to implement both.
 >
-> **[6:41](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=401)** The approach that you'll use for your data pipelines will, of course, depend on your use case.
+> **[6:41](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=401)** The approach that you'll use for your [[Data Pipelines]] will, of course, depend on your use case.
 >
 > **[6:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automatic-transformations-with-dynamic-tables?u=76281980&t=407)** In practice, chances are that you'll have source tables with raw data being updated on a continuous basis, likely due to an automated process somewhere.
 >
@@ -2706,7 +2684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (5), next (3), [[Automation]] (2), [[Snowflake]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Snowflake]] (2), [[Data Pipelines]] (1)
 > **Env Vars:** sql (4), insert (3), into (3), order_header (1), create (1)
 > **SQL:** insert into (3)
 > **Cross-References:** we covered (1), previous video (1), in the next (1)
@@ -2715,8 +2693,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (2)
 
-#### Data transformations in visual studio code (optional)
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980)
+#### [Data transformations in visual studio code (optional)](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2724,9 +2701,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=4)** Feel free to skip this video if you don't use Visual Studio Code.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=7)** If you do use VS Code as your preferred development environment or if you have other tools or extensions that you frequently use as part of this development environment, then the Snowflake extension for Visual Studio Code might be a good fit for you.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=7)** If you do use VS Code as your preferred development environment or if you have other tools or extensions that you frequently use as part of this development environment, then the [[Snowflake]] extension for Visual Studio Code might be a good fit for you.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=21)** With the extension, you can execute SQL and Python against your Snowflake environment directly from VS Code, and it's pretty easy to do.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=21)** With the extension, you can execute [[SQL]] and [[Python (Programming Language)|Python]] against your Snowflake environment directly from VS Code, and it's pretty easy to do.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=29)** Follow along with me, and I'll show you how to use it.
 >
@@ -2740,7 +2717,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=55)** There are a few different ways to log in.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=57)** You're familiar with the Snowflake CLI, so you could use the option here to use your credentials within your config file to log in, but I'm going to log in using the account URL.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=57)** You're familiar with the Snowflake [[CLI]], so you could use the option here to use your credentials within your config file to log in, but I'm going to log in using the account URL.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=67)** Navigate to Snowsight.
 >
@@ -2778,7 +2755,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=141)** Clicking it will execute the file against your Snowflake environment.
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=145)** If you want to execute just the block of SQL, you could click on the Execute word right above the block that you want to run.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=145)** If you want to execute just the block of SQL, you could click on the Execute [[Microsoft Word|word]] right above the block that you want to run.
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=153)** Execute the first three lines of code that set your context.
 >
@@ -2816,13 +2793,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=250)** Again, if VS Code is your preferred development environment, this is a great tool to leverage.
 >
-> **[4:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=256)** It's also great in case you're using other tools and extensions with VS Code that aid in the building of data pipelines.
+> **[4:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=256)** It's also great in case you're using other tools and extensions with VS Code that aid in the building of [[Data Pipelines]].
 >
 > **[4:22](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-transformations-in-visual-studio-code-optional?u=76281980&t=262)** I encourage you to explore the extension in more detail and see what kinds of cool things you can discover within.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), [[SQL]] (7), [[Python (Programming Language)|Python]] (1), [[CLI]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[SQL]] (7), [[Python (Programming Language)|Python]] (1), [[CLI]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (6), url (3), cli (1)
 > **Tools:** vs code (8), visual studio (2)
 > **UI Navigation:** click on (4), navigate to (1), open the (1)
@@ -2831,8 +2808,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1), just like (1)
 > **File Paths:** hamburg_sales_vs_code.sql (1)
 
-#### Recap and best practices for data transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980)
+#### [Recap and best practices for data transformations](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2840,19 +2816,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=5)** Let's quickly recap what you learned.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=8)** We covered the core languages and libraries for performing data transformations: SQL and Snowpark.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=8)** We covered the core languages and libraries for performing data transformations: [[SQL]] and Snowpark.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=15)** We specifically covered Snowpark for Python, but you also learned that you can write Java and Scala with Snowpark as well.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=15)** We specifically covered Snowpark for [[Python (Programming Language)|Python]], but you also learned that you can write [[Java]] and [[Scala]] with Snowpark as well.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=23)** We went from using these core languages to using objects that make capturing and reusing logic in our transformations easy: user-defined functions for things like calculations and stored procedures for more complex procedural logic.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=37)** We took it even further.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=39)** We saw how streams give fine-grain control over changes to an underlying table and how they can be used for incremental data processing.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=39)** We saw how streams give fine-grain control over changes to an underlying table and how they can be used for incremental [[Data Processing]].
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=48)** And we also saw how to accelerate transformations with dynamic tables, which allow you to set the desired end state of a table by associating transformation logic and a refresh rate for the transformations.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=61)** And last but not least, you learned how to write all of this code in either Snowflake worksheets, Snowflake Notebooks, or Snowflake's VS Code extension.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=61)** And last but not least, you learned how to write all of this code in either [[Snowflake]] worksheets, Snowflake Notebooks, or Snowflake's VS Code extension.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-transformations?u=76281980&t=70)** All of these things will make you dangerously good at performing transformations against raw data, which means that you're that much closer to building pipelines that not only ingest and transform but also deliver value through a data product.
 >
@@ -2862,7 +2838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Snowflake]] (4), [[SQL]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[SQL]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Scala]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** we covered (2), in the next (1)
 > **Env Vars:** sql (1)
@@ -2874,8 +2850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Delivery of data products
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980)
+#### [Delivery of data products](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2885,19 +2860,19 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=26)** In short, with ready-to-use transform data, we're at the stage of being able to deliver value and insights to consumers and other systems.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=35)** And in this module, we'll dive into how to do this by exploring the third phase of our data engineering framework: delivery.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=35)** And in this module, we'll dive into how to do this by exploring the third phase of our [[Data Engineering]] framework: delivery.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=42)** What exactly do we mean by delivery?
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=45)** Before we get into the details, let's step back a little and contextualize everything that you've learned.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=51)** You're learning to build data pipelines.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=51)** You're learning to build [[Data Pipelines]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=53)** If we oversimplify things for just a bit, we know that given an input, a data pipeline should produce an output.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=60)** More tactically, the pipelines that you're building will take in raw data as an input, perform transformations against that data, and output or deliver something of value.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=72)** For example, common use cases for data pipelines include feeding dashboards with important data that will be used by other teams, like teams of, say, analysts or product managers, or serving data to web applications.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=72)** For example, common use cases for data pipelines include feeding [[Dashboards]] with important data that will be used by other teams, like teams of, say, analysts or product managers, or serving data to web applications.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=85)** Perhaps there are datasets that are important to surface to an end user within an app for the purposes of taking action or making a decision or creating and delivering enterprise-grade datasets used for training machine learning models and performing imprints or feeding data into other data systems.
 >
@@ -2905,7 +2880,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=112)** These are just a few examples, and your use case will vary, of course.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=116)** In any case, many times, pipelines are delivering or are helping to deliver a high-quality, highly polished data product to be used for a specific use case, and that's what we mean by delivery of data products.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=116)** In any case, many times, pipelines are delivering or are helping to deliver a high-quality, highly polished data product to be used for a specific use case, and that's what we mean by delivery of data [[Microsoft Products|products]].
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=130)** And here's another important note.
 >
@@ -2929,25 +2904,24 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=182)** Perhaps new requirements to extract more insights from the data are introduced, so you might need to update existing logic or create new user-defined functions, stored procedures, and more.
 >
-> **[3:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=193)** With that, here are the techniques that we'll cover in this module for delivering data products with Snowflake: data sharing on Snowflake Marketplace, Streamlit in Snowflake, and Snowflake Native Applications.
+> **[3:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=193)** With that, here are the techniques that we'll cover in this module for delivering data products with [[Snowflake]]: [[Data Sharing]] on Snowflake Marketplace, Streamlit in Snowflake, and Snowflake Native Applications.
 >
 > **[3:25](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980&t=205)** Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Snowflake]] (4), product (3), teams (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Data Pipelines]] (2), [[Microsoft Products|Products]] (2), [[Dashboards]] (1), [[Data Sharing]] (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** important note (1)
 
-#### Data sharing on snowflake marketplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980)
+#### [Data sharing on snowflake marketplace](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=0)** When it comes to data sharing, the data product you're delivering is a dataset or datasets.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=0)** When it comes to [[Data Sharing]], the data product you're delivering is a dataset or datasets.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=6)** Of course, you can always share the relevant objects like databases and tables in your Snowflake account with fellow teammates in that account.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=6)** Of course, you can always share the relevant objects like [[Databases]] and tables in your [[Snowflake]] account with fellow teammates in that account.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=14)** But beyond your Snowflake account, you're also able to deliver and share datasets with users and Snowflake's Data Cloud by listing them to Snowflake's Marketplace.
 >
@@ -2965,7 +2939,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=60)** Let me quickly demo the flow of publishing a dataset to the Snowflake Marketplace.
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=64)** In Snowflake, navigate to Data Products.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=64)** In Snowflake, navigate to Data [[Microsoft Products|Products]].
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/data-sharing-on-snowflake-marketplace?u=76281980&t=68)** That's aptly name, isn't it?
 >
@@ -3029,7 +3003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Snowflake]] (8), product (2), cloud (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Data Sharing]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (2), navigate to (1), select the (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1), for example (1)
@@ -3037,18 +3011,17 @@ created: 2026-05-02
 > **Env Vars:** hamburg_weather (1)
 > **Cross-References:** coming up (1)
 
-#### Streamlit in snowflake applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980)
+#### [Streamlit in snowflake applications](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=0)** Streamlit is a powerful open-source Python library for building data apps in pure Python, no HTML, CSS, or any other fancy web technologies or frameworks needed.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=0)** Streamlit is a powerful open-source [[Python (Programming Language)|Python]] library for building data apps in pure Python, no [[HTML]], CSS, or any other fancy web technologies or frameworks needed.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=13)** Apps built with Streamlit are incredibly easy to deploy and share.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=17)** This makes Streamlit a great way of sharing and delivering your data products.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=17)** This makes Streamlit a great way of sharing and delivering your data [[Microsoft Products|products]].
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=21)** To top things off, Streamlit is natively available within Snowflake, known as Streamlit in Snowflake.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=21)** To top things off, Streamlit is natively available within [[Snowflake]], known as Streamlit in Snowflake.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=28)** This makes it even easier for you to build and share Streamlit applications directly in your Snowflake account, and you're not limited to visualizing data in the Streamlit App.
 >
@@ -3078,9 +3051,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=105)** Click Create. You'll see the application boot up, and it will display a sample application. Let's take a look around.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=114)** On the left, you'll have your Snowflake object picker, where you can see all of the databases, apps, and other things.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=114)** On the left, you'll have your Snowflake object picker, where you can see all of the [[Databases]], apps, and other things.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=121)** In the middle, you have a full-fledged Python editor where you can write the code that powers your app, and on the right, you see a real-time rendering of the current state of the application.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=121)** In the middle, you have a full-fledged Python editor where you can write the code that powers your app, and on the right, you see a [[Real-Time]] rendering of the current state of the application.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=132)** If you make edits to the sample app that loads, you can click on Run at the top, and the application will instantly re-render to reflect the most current state, assuming there are no errors.
 >
@@ -3110,7 +3083,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=215)** Then I load my DataFrame, which is based on the weather_hamburg view in my account.
 >
-> **[3:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=220)** I'm going to cast my DataFrame to a Pandas DataFrame using to.pandas, and then I'll create a chart here to render the data.
+> **[3:40](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=220)** I'm going to cast my DataFrame to a [[Pandas (Software)|Pandas]] DataFrame using to.pandas, and then I'll create a chart here to render the data.
 >
 > **[3:52](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/streamlit-in-snowflake-applications?u=76281980&t=232)** First, I define my desired legend titles.
 >
@@ -3142,7 +3115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (14), data (11), [[Python (Programming Language)|Python]] (7), application (7), open-source (2)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (2), [[HTML]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** python (7), make (2)
 > **UI Navigation:** click on (3), navigate to (2), select the (1)
 > **Env Vars:** html (1), css (1), tasty_bytes (1), harmonized (1), compute_wh (1)
@@ -3151,12 +3124,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), install (1), configure (1)
 > **File Paths:** streamlit_whether_hamburg.py (1)
 
-#### Snowflake native applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980)
+#### [Snowflake native applications](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=0)** With Streamlit in Snowflake, you are able to quickly build an application that was easily shared with other users in your Snowflake account. With Snowflake Native Applications, the model of sharing an app extends beyond your Snowflake account.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=0)** With Streamlit in [[Snowflake]], you are able to quickly build an application that was easily shared with other users in your Snowflake account. With Snowflake Native Applications, the model of sharing an app extends beyond your Snowflake account.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=14)** Let's take a look at how this is done.
 >
@@ -3170,7 +3142,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=47)** Snowflake Native Apps are typically built with Snowflake as the core application stack.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=53)** You'll use SQL, Snowpark, Streamlit, and Snowflake as your data store, as the core components of your applications.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=53)** You'll use [[SQL]], Snowpark, Streamlit, and Snowflake as your data store, as the core components of your applications.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=60)** But the great thing is that if you're looking to build something even more custom within your app, you can leverage Snowpark Container Services and run a container image within your Snowflake Native App instead. And just like Streamlit in Snowflake, you can also bring in other open-source libraries as well.
 >
@@ -3184,7 +3156,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=112)** Follow along with me as we take existing application code and bundle it up as a Snowflake Native Application.
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=119)** We'll take the same application that we built in the prior video and deploy it as a Native App using the Snowflake CLI.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=119)** We'll take the same application that we built in the prior video and deploy it as a Native App using the Snowflake [[CLI]].
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/snowflake-native-applications?u=76281980&t=126)** Now is a good time to pause the video if you need to log into your Snowflake account.
 >
@@ -3256,7 +3228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (37), application (31), data (7), [[SQL]] (2), power (2)
+> **Frameworks & Libraries:** [[Snowflake]] (37), [[SQL]] (2), [[CLI]] (2)
 > **Prerequisites:** setup (3), install (2)
 > **Code Identifiers:** hamburg_weather_native_app (3), setup_script (1)
 > **Env Vars:** cli (2), sql (1), weather_hamburg_tea_table (1)
@@ -3265,8 +3237,7 @@ created: 2026-05-02
 > **CLI Commands:** cd (2), find (1)
 > **Tools:** terminal (2)
 
-#### Recap and best practices for data product delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980)
+#### [Recap and best practices for data product delivery](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3274,7 +3245,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=4)** Let's recap what we covered.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=7)** High-quality transformed datasets may oftentimes be the final data product that you're delivering, and the Snowflake Marketplace can help you go beyond sharing those objects in your account to sharing that data with users in Snowflake Data Cloud.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=7)** High-quality transformed datasets may oftentimes be the final data product that you're delivering, and the [[Snowflake]] Marketplace can help you go beyond sharing those objects in your account to sharing that data with users in Snowflake Data Cloud.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=20)** You also learned that data apps are easy to build and share either directly with other users in your Snowflake account using Streamlit in Snowflake or with other users in Snowflake's Data Cloud using Snowflake Native Applications.
 >
@@ -3282,9 +3253,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=39)** For example, your approach may vary based on things like security requirements, consumer personas, and more.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=47)** What's great is how flexible Snowflake can be in aiding your delivery, from sharing data products within accounts to sharing them in the data cloud and even beyond.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=47)** What's great is how flexible Snowflake can be in aiding your delivery, from sharing data [[Microsoft Products|products]] within accounts to sharing them in the data cloud and even beyond.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=56)** By this point in the course, we've built end-to-end data pipelines that can take raw data and produce insights and deliver them via data products, but it wouldn't feel quite right if we stopped here.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=56)** By this point in the course, we've built end-to-end [[Data Pipelines]] that can take raw data and produce insights and deliver them via data products, but it wouldn't feel quite right if we stopped here.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-data-product-delivery?u=76281980&t=69)** Remember, we want to learn how to build continuous end-to-end data pipelines so that they can run at scale.
 >
@@ -3292,7 +3263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Snowflake]] (7), cloud (3), product (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Data Pipelines]] (3), [[Microsoft Products|Products]] (2)
 > **Cross-References:** we covered (1), in the next (1)
 > **Analogies:** for example (1)
 
@@ -3301,12 +3272,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is orchestration?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980)
+#### [What is orchestration?](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=10)** There's so much more to understanding data pipelines beyond the three phases in our data engineering framework.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=10)** There's so much more to understanding [[Data Pipelines]] beyond the three phases in our [[Data Engineering]] framework.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=17)** In fact, if someone were to ask me, "What's the one key aspect of building a data pipeline that completely levels up the power and robustness of that pipeline?
 >
@@ -3320,13 +3290,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=46)** Thanks to the framework, we know that the core components of a data pipeline involve ingesting data, performing transformations against that data, and delivering the data product to a consumer.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=59)** You've also learned how to use the most practical, powerful features in each of those phases to get you up and running fast with building data pipelines with Snowflake.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=59)** You've also learned how to use the most practical, powerful features in each of those phases to get you up and running fast with building data pipelines with [[Snowflake]].
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=68)** With the exception of dynamic tables, much of what we've done so far has had little to no automation in it.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=75)** Ingesting data has involved manual steps and coordination, and so did our data transformations and our data delivery.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=83)** We also ran our SQL and Python scripts manually.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=83)** We also ran our [[SQL]] and [[Python (Programming Language)|Python]] scripts manually.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=86)** All of that was by design.
 >
@@ -3358,7 +3328,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=179)** You also know that dynamic tables can help with automation because you can specify a refresh rate for the table.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=186)** The great thing about automating these sorts of things is that data products downstream get all of the benefits.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=186)** The great thing about automating these sorts of things is that data [[Microsoft Products|products]] downstream get all of the benefits.
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980&t=192)** For example, rather than repackage or rebuild applications on a daily basis because the underlying data has changed, automation can help ensure that the data products you're delivering to the application are fresh and up to date. The same is true for, say, a machine learning model.
 >
@@ -3392,22 +3362,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Automation]] (15), [[Snowflake]] (4), power (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Data Pipelines]] (2), [[Microsoft Products|Products]] (2), [[Data Engineering]] (1), [[SQL]] (1)
 > **Env Vars:** itd (1), sql (1), copy (1), into (1)
 > **CLI Commands:** python (1), make (1), find (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Automation with tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980)
+#### [Automation with tasks](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=0)** Tasks are the primary object in Snowflake that you'll use for automation.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=0)** Tasks are the primary object in [[Snowflake]] that you'll use for automation.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=5)** A task is essentially a scheduled operation.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=8)** Tasks can be used to execute SQL statements, stored procedures, queries, and more.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=8)** Tasks can be used to execute [[SQL]] statements, stored procedures, queries, and more.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=13)** There are two types of tasks in Snowflake: user-managed tasks and serverless tasks. In this video, I'll cover the former, user-managed tasks.
 >
@@ -3539,7 +3508,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=378)** I'm not going to run this code for now since I'm going to use the current definition of the task in the next exercise, but I did want to provide the code here just for completion.
 >
-> **[6:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=388)** Oh, and by the way, we've done all of this in SQL, but you can also do this in Python using Snowflake's Python APIs.
+> **[6:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=388)** Oh, and by the way, we've done all of this in SQL, but you can also do this in [[Python (Programming Language)|Python]] using Snowflake's Python APIs.
 >
 > **[6:37](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/automation-with-tasks?u=76281980&t=397)** Okay. Let's quickly step back and contextualize tasks.
 >
@@ -3559,7 +3528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (10), data (10), [[SQL]] (7), next (4), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (10), [[SQL]] (7), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** sql (6), cron (6), order_header (3), copy (1), into (1)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** process_orders_header_sproc (2), orders_headers_task (1), raw_pos (1)
@@ -3568,8 +3537,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), coming up (1)
 > **UI Navigation:** click on (2)
 
-#### Orchestration with DAGs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980)
+#### [Orchestration with DAGs](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3603,11 +3571,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=95)** You might hear me use these terms interchangeably.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=98)** Let's go ahead and create a DAG in Snowflake using SQL.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=98)** Let's go ahead and create a DAG in [[Snowflake]] using [[SQL]].
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=102)** We'll link together a couple of tasks in our pipeline.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=105)** And once again, if you want to do this in Python, you absolutely can, using Snowflake's Python APIs.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=105)** And once again, if you want to do this in [[Python (Programming Language)|Python]], you absolutely can, using Snowflake's Python APIs.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/orchestration-with-dags?u=76281980&t=111)** Now's a good time to pause the video if you need to log into your Snowflake account.
 >
@@ -3723,7 +3691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[Snowflake]] (5), data (4), [[Python (Programming Language)|Python]] (4), [[Automation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Snowflake]] (5), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** dag (10), sql (5), send_last_seven_days_report (2), after (2), task (2)
 > **Code Identifiers:** process_orders_header_sproc (2), orders_header_sproc (1), dag_email_integration (1), process_orderes_header_sproc (1), process_order (1)
 > **CLI Commands:** python (4), make (2)
@@ -3732,20 +3700,19 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), coming up (1)
 > **Definitions:** is a  (1), known as (1)
 
-#### Recap and best practices for pipeline orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980)
+#### [Recap and best practices for pipeline orchestration](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=0)** In this module, you learned how to level up your data pipelines by adding automation to them.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=0)** In this module, you learned how to level up your [[Data Pipelines]] by adding automation to them.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=6)** Let's quickly go over what we covered.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=9)** Tasks are the key ingredient for adding automation to your pipeline.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=13)** You can create and manage tasks yourself or have Snowflake do the heavy lifting for you with serverless tasks.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=13)** You can create and manage tasks yourself or have [[Snowflake]] do the heavy lifting for you with serverless tasks.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=20)** You also saw how they can be used to automate just about anything, from simple SQL queries to complex logic within a stored procedure.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=20)** You also saw how they can be used to automate just about anything, from simple [[SQL]] queries to complex logic within a stored procedure.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/recap-and-best-practices-for-pipeline-orchestration?u=76281980&t=29)** You learned that tasks can be chained together to form task graphs, also known as DAGs.
 >
@@ -3757,13 +3724,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), data (1), [[Snowflake]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Snowflake]] (1), [[SQL]] (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3771,19 +3737,19 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=2)** It's incredible to look back on how far you've come in such a short amount of time.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=8)** I promised that by the end of this course, you'd know enough about data engineering with Snowflake to be dangerously good at applying these concepts to build data pipelines on your own.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=8)** I promised that by the end of this course, you'd know enough about [[Data Engineering]] with [[Snowflake]] to be dangerously good at applying these concepts to build [[Data Pipelines]] on your own.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=19)** To meet this objective, we designed this course to cover the most essential and practical Snowflake features within the ITD framework.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=28)** We covered all sorts of ways to ingest data into Snowflake, from loading data from the Snowflake Marketplace to using the web interface and command line to knowing how to ingest data in cloud object storage into Snowflake with just a bit of SQL.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=28)** We covered all sorts of ways to ingest data into Snowflake, from loading data from the Snowflake Marketplace to using the web interface and command line to knowing how to ingest data in cloud object storage into Snowflake with just a bit of [[SQL]].
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=44)** These are core techniques and concepts you'll frequently encounter and use.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=50)** For transforming data, we covered quite a bit, specifically how to use SQL or Snowpark for Python to perform data transformations, how to reuse logic by creating UDFs and stored procedures, and how to use streams and dynamic tables for incremental processing of data.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=50)** For transforming data, we covered quite a bit, specifically how to use SQL or Snowpark for [[Python (Programming Language)|Python]] to perform data transformations, how to reuse logic by creating UDFs and stored procedures, and how to use streams and dynamic tables for incremental processing of data.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=69)** You even learned how to use Snowflake Notebooks and the VS Code extension for Snowflake to do these things.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=76)** For delivery, you learned all sorts of techniques for delivering valuable insights to consumers, from data sharing on the Snowflake Marketplace to building and sharing apps in your account using Streamlit in Snowflake to sharing apps beyond your account with Snowflake Native Applications.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=76)** For delivery, you learned all sorts of techniques for delivering valuable insights to consumers, from [[Data Sharing]] on the Snowflake Marketplace to building and sharing apps in your account using Streamlit in Snowflake to sharing apps beyond your account with Snowflake Native Applications.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=94)** And last but certainly not least, you learned how to add automation to pipelines using tasks, and you also learned how to chain tasks together to create DAGs that help with the broader orchestration of things in your pipeline.
 >
@@ -3799,7 +3765,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=139)** And when you do that, you'll end up doing a few things.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=143)** You'll make mistakes, you'll run into errors, you'll spend time debugging issues, you'll peruse technical documentation, and you'll go to all sorts of places online to learn more.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=143)** You'll make mistakes, you'll run into errors, you'll spend time debugging issues, you'll peruse [[Technical Documentation]], and you'll go to all sorts of places online to learn more.
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/conclusion?u=76281980&t=156)** And these are the sorts of things that will round out and enhance your expertise.
 >
@@ -3821,7 +3787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (12), data (11), [[Data Engineering]] (2), [[SQL]] (2), web (1)
+> **Frameworks & Libraries:** [[Snowflake]] (12), [[Data Pipelines]] (3), [[Data Engineering]] (2), [[SQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** sql (2), itd (1)
 > **Cross-References:** we covered (2)

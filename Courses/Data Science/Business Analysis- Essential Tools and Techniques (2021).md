@@ -61,8 +61,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three essential business analysis techniques everyone should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/three-essential-business-analysis-techniques-everyone-should-know?u=76281980)
+#### [Three essential business analysis techniques everyone should know](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/three-essential-business-analysis-techniques-everyone-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,11 +83,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), teams (1)
 > **Speakers:** - [jamie] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,13 +99,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=28)** You're getting the structure to use these tools wherever you do analysis work.
 >
-> **[0:33](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=33)** Well, I'll be using specific softwares, such as Microsoft Excel and Lucidchart.
+> **[0:33](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=33)** Well, I'll be using specific softwares, such as [[Microsoft Excel]] and Lucidchart.
 >
-> **[0:39](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=39)** These tools in this course can be done with any spreadsheet and modeling software you're comfortable with, or even basic office softwares that I'll be demonstrating.
+> **[0:39](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=39)** These tools in this course can be done with any spreadsheet and modeling software you're comfortable with, or even basic [[Microsoft Office|office]] softwares that I'll be demonstrating.
 >
 > **[0:49](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=49)** However, it is helpful to have a working knowledge of how to use these softwares before diving in.
 >
-> **[0:55](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=55)** There's some great courses here on LinkedIn that can help you get more comfortable using these technologies as you find your best fit.
+> **[0:55](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=55)** There's some great courses here on [[LinkedIn]] that can help you get more comfortable using these technologies as you find your best fit.
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/what-you-should-know?u=76281980&t=63)** Make sure to download the exercise files as we get started.
 >
@@ -116,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** such as (1)
@@ -128,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of traceability to business analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980)
+#### [The value of traceability to business analysis work](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +183,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980&t=184)** That's where the details start coming in to deliver those Whats.
 >
-> **[3:08](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980&t=188)** So this could be things like email marketing sign-ups, email marketing signups, and again, just expand the column to fit, and maybe digital 360 degree viewers.
+> **[3:08](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980&t=188)** So this could be things like [[Email Marketing]] sign-ups, email marketing signups, and again, just expand the column to fit, and maybe digital 360 degree viewers.
 >
 > **[3:27](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980&t=207)** And I'll go ahead and make this table easy to read by centering the columns.
 >
@@ -201,14 +197,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (2), functional (1), next (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your traceability matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-traceability-matrix?u=76281980)
+#### [Setting up your traceability matrix](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-traceability-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,15 +355,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), next (7), feature (6), functional (1)
 > **Cross-References:** in the next (4)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracing requirements through testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/tracing-requirements-through-testing?u=76281980)
+#### [Tracing requirements through testing](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/tracing-requirements-through-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +483,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **Cross-References:** in the next (4)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -502,8 +494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of process modeling to business analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980)
+#### [The value of process modeling to business analysis work](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=6)** At their core function, process models show steps.
 >
-> **[0:11](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=11)** I'm going to just open a blank Microsoft PowerPoint file here in a blank layout.
+> **[0:11](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=11)** I'm going to just open a blank [[Microsoft PowerPoint]] file here in a blank layout.
 >
 > **[0:15](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=15)** And then I'm going to insert a smart art process.
 >
@@ -533,7 +524,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=70)** So say with our example, the Landon hotel, we look at how today, you have to fill out a paper to request a room for your event.
 >
-> **[1:17](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=77)** I'm going to go back to the PowerPoint and lay out the steps for how to request a room for your event, using that same smart art process.
+> **[1:17](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=77)** I'm going to go back to the [[Microsoft PowerPoint|PowerPoint]] and lay out the steps for how to request a room for your event, using that same smart art process.
 >
 > **[1:27](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=87)** First, you have to fill out the paper.
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=182)** Think activities and actions and steps.
 >
-> **[3:05](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=185)** Avoid trying to use process models though, for data modeling or even some data flows, there's better diagrams and tools out there for that.
+> **[3:05](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=185)** Avoid trying to use process models though, for [[Data Modeling]] or even some data flows, there's better diagrams and tools out there for that.
 >
 > **[3:13](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980&t=193)** Also organizational modeling, those are more about reporting structures than activities.
 >
@@ -593,19 +584,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft PowerPoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Data Modeling]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Defining the basic business process model
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/defining-the-basic-business-process-model?u=76281980)
+#### [Defining the basic business process model](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/defining-the-basic-business-process-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/defining-the-basic-business-process-model?u=76281980&t=0)** - [Instructor] To start our first process models, think of how you were first taught to write a story or a paragraph.
 >
-> **[0:05](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/defining-the-basic-business-process-model?u=76281980&t=5)** Here, I have just a blank Word processing document.
+> **[0:05](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/defining-the-basic-business-process-model?u=76281980&t=5)** Here, I have just a blank [[Microsoft Word|Word]] processing document.
 >
 > **[0:09](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/defining-the-basic-business-process-model?u=76281980&t=9)** And first, this happens.
 >
@@ -735,12 +725,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** picture (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using process models for process analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-process-models-for-process-analysis?u=76281980)
+#### [Using process models for process analysis](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-process-models-for-process-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +799,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -820,8 +808,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of context diagrams to business analysis work
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980)
+#### [The value of context diagrams to business analysis work](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,9 +816,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980&t=4)** And by that we mean understanding everything that goes into finding an idea, activity or state.
 >
-> **[0:10](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980&t=10)** Here, I've got a Microsoft PowerPoint with a blank format, just keeping it simple, but you could use anything even whiteboards or the old fashioned paper and pen.
+> **[0:10](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980&t=10)** Here, I've got a [[Microsoft PowerPoint]] with a blank format, just keeping it simple, but you could use anything even whiteboards or the old fashioned paper and pen.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980&t=20)** I'm going to use the Microsoft Smart Art just to keep things clean and neat.
+> **[0:20](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980&t=20)** I'm going to use the [[Microsoft]] Smart Art just to keep things clean and neat.
 >
 > **[0:27](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980&t=27)** And so simply put whatever you're working on as the center object.
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft PowerPoint]] (1), [[Microsoft]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **Cross-References:** go back to (1)
@@ -903,8 +890,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your basic context diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-basic-context-diagram?u=76281980)
+#### [Setting up your basic context diagram](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-basic-context-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-basic-context-diagram?u=76281980&t=11)** To start a context diagram, let's get a blank sheet we can put a model on.
 >
-> **[0:16](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-basic-context-diagram?u=76281980&t=16)** I'm using a modeling software here called Lucidchart, but remember, anything that can let you capture context can work from Microsoft Office to a whiteboard to pen and paper.
+> **[0:16](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-basic-context-diagram?u=76281980&t=16)** I'm using a modeling software here called Lucidchart, but remember, anything that can let you capture context can work from [[Microsoft Office]] to a whiteboard to pen and paper.
 >
 > **[0:26](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/setting-up-your-basic-context-diagram?u=76281980&t=26)** And now I'm just going to start with the basic shapes, a circle.
 >
@@ -1012,15 +998,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), teams (1), [[Microsoft Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** crm (2)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a context data flow diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-a-context-data-flow-diagram?u=76281980)
+#### [Using a context data flow diagram](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-a-context-data-flow-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-a-context-data-flow-diagram?u=76281980&t=241)** Where is that data being entered?
 >
-> **[4:04](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-a-context-data-flow-diagram?u=76281980&t=244)** Perhaps an IT person already decided it's using a Google form, so we just note that here for now, Google Form.
+> **[4:04](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-a-context-data-flow-diagram?u=76281980&t=244)** Perhaps an IT person already decided it's using a [[Google]] form, so we just note that here for now, Google Form.
 >
 > **[4:11](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-a-context-data-flow-diagram?u=76281980&t=251)** And I'm using a different shape to help me realize this is an external item, what they might call an external entity.
 >
@@ -1124,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), feature (9), database (5), web (4), product (2)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Env Vars:** crm (8)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** best practice (1), don't forget (1)
@@ -1137,8 +1122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using business analysis templates for project success
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-business-analysis-templates-for-project-success?u=76281980)
+#### [Using business analysis templates for project success](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-business-analysis-templates-for-project-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1150,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Speakers:** - [jamie] (1)
 

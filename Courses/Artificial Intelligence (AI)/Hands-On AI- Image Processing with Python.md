@@ -109,24 +109,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computer vision under the hood
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980)
+#### [Computer vision under the hood](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=0)** - [Eduardo] Image processing is all around us, from social media filters to smartphone cameras and QR code scanners.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=0)** - [Eduardo] [[Image Processing]] is all around us, from social media filters to smartphone cameras and QR code scanners.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=8)** Whether you are just starting or looking to revisit the fundamentals behind tools like OpenCV, Photoshop, or MATLAB, this course is for you.
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=18)** By understanding how the algorithms work under the hood, you'll be better equipped to use advanced libraries in real-world projects.
+> **[0:18](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=18)** By understanding how the [[Algorithms]] work under the hood, you'll be better equipped to use advanced libraries in real-world projects.
 >
-> **[0:27](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=27)** And the best part, we'll be using GitHub Codespaces, so there is no setup required.
+> **[0:27](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=27)** And the best part, we'll be using [[GitHub]] [[Codespaces]], so there is no setup required.
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=33)** I'm Eduardo Corpeño, and I'd like to invite you to take this course where we will build key image processing operations from scratch using Python.
+> **[0:33](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=33)** I'm Eduardo Corpeño, and I'd like to invite you to take this course where we will build key image processing operations from scratch using [[Python (Programming Language)|Python]].
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=42)** So come join me.
 >
-> **[0:43](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=43)** Let's explore image processing together on LinkedIn Learning.
+> **[0:43](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980&t=43)** Let's explore image processing together on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
@@ -137,22 +136,21 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [eduardo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we start, there are some things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=4)** First, the objective of this course is for you to learn image processing.
+> **[0:04](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=4)** First, the objective of this course is for you to learn [[Image Processing]].
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=10)** We will not create a computer vision library or use a professional library like OpenCV in depth.
+> **[0:10](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=10)** We will not create a [[Computer Vision]] library or use a professional library like OpenCV in depth.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=17)** Instead, I will introduce you to the basic concepts and some of the most popular algorithms in computer vision and computational photography.
+> **[0:17](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=17)** Instead, I will introduce you to the basic concepts and some of the most popular [[Algorithms]] in computer vision and computational photography.
 >
 > **[0:28](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=28)** Once you've acquired this knowledge, you'll make better use of image processing tools in the future.
 >
-> **[0:36](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=36)** Every code example you'll see in this course is written in Python 3 and runs inside a Jupyter Notebook.
+> **[0:36](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=36)** Every code example you'll see in this course is written in [[Python (Programming Language)|Python]] 3 and runs inside a Jupyter Notebook.
 >
 > **[0:43](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=43)** So you should feel comfortable with this programming language and platform.
 >
@@ -160,13 +158,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=60)** Or if you are new to Jupyter Notebooks, you will probably catch the basics from this course but if you'd like to learn more, I recommend the course titled, "Introducing Jupyter".
 >
-> **[1:13](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=73)** And lastly, there is no setup required to get your system up and running, as we will use GitHub code spaces.
+> **[1:13](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=73)** And lastly, there is no setup required to get your system up and running, as we will use [[GitHub]] code spaces.
 >
 > **[1:21](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/what-you-should-know?u=76281980&t=81)** However, if you prefer to download the code and use it in your local setting, all you need is the Anaconda distribution and OpenCV for Python 3.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Image Processing]] (2), [[Computer Vision]] (2), [[Algorithms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Image Processing]] (2), [[Computer Vision]] (2), [[Algorithms]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** jupyter (3), github (1), anaconda (1)
 > **Versions:** python 3 (2)
@@ -174,22 +172,21 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=0)** - [Instructor] Let me show you how to find the exercise files on GitHub.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=0)** - [Instructor] Let me show you how to find the exercise files on [[GitHub]].
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=5)** To work with this code you have a few options.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=8)** If you want to download the code and use it in your favorite ID, you may do so by clicking on the green code button.
 >
-> **[0:16](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=16)** You'll need to install the Anaconda distribution and open CV for Python 3.
+> **[0:16](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=16)** You'll need to install the Anaconda distribution and open CV for [[Python (Programming Language)|Python]] 3.
 >
-> **[0:22](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=22)** However, I recommend following the exercises using GitHub Codespaces, a cloud-based IDE you may use with this course.
+> **[0:22](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=22)** However, I recommend following the exercises using GitHub [[Codespaces]], a cloud-based IDE you may use with this course.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=31)** Since this repository is owned by LinkedIn, you cannot push any changes to it.
+> **[0:31](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=31)** Since this repository is owned by [[LinkedIn]], you cannot push any changes to it.
 >
 > **[0:37](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=37)** So I recommend that you create your own copy of the repository on your GitHub account so you can keep any changes you make, even if you later decide to delete a Codespace.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=234)** There, your changes have been pushed to your repository.
 >
-> **[3:58](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=238)** The first time you may be asked if you want VS Code to run fetch periodically.
+> **[3:58](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=238)** The first time you may be asked if you want VS Code to run [[Fetch]] periodically.
 >
 > **[4:05](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/using-the-exercise-files?u=76281980&t=245)** Click yes and it will automatically sync with your repo.
 >
@@ -269,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (3), cloud (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (3), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), [[Fetch]] (1)
 > **Tools:** github (4), visual studio (2), anaconda (1), jupyter (1), vs code (1)
 > **UI Navigation:** click on (4), checkbox (1), open the (1)
 > **CLI Commands:** find (2), python (1), make (1)
@@ -283,8 +280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980)
+#### [Testing your environment](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=47)** The very first time you may be prompted for the "kernel" to use.
 >
-> **[0:51](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=51)** This is the backend to execute the Python code.
+> **[0:51](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=51)** This is the backend to execute the [[Python (Programming Language)|Python]] code.
 >
 > **[0:55](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=55)** You can go ahead and select Python if asked.
 >
@@ -332,13 +328,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=114)** This file is in the same folder as the notebook and it's named "komodo.jpg".
 >
-> **[2:01](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=121)** Here you can examine every last detail and you can pan and zoom to your heart's content.
+> **[2:01](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=121)** Here you can examine every last detail and you can pan and [[Zoom]] to your heart's content.
 >
 > **[2:12](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=132)** All right, let's go back to the notebook.
 >
 > **[2:16](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=136)** The last cell opens and displays the same Komodo dragon picture, but this time using OpenCV.
 >
-> **[2:23](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=143)** This is a library we will use to perform some specialized computer vision operations.
+> **[2:23](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=143)** This is a library we will use to perform some specialized [[Computer Vision]] operations.
 >
 > **[2:32](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980&t=152)** As you can see, we are using OpenCV version 4.11.0.
 >
@@ -352,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2), [[Zoom]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Zoom]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** python (4), make (2)
 > **Versions:** version 3 (1), 12.1 (1), version 2 (1), 2.4 (1), version 4 (1)
 > **Tools:** jupyter (3), vs code (1)
@@ -361,14 +357,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 
-#### Maintaining a clean notebook workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980)
+#### [Maintaining a clean notebook workspace](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=0)** - [Instructor] Let me give you a few recommendations to help keep your environment and your repository in good shape.
 >
-> **[0:07](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=7)** If you've used Codespaces before, you're probably familiar with Auto Save being enabled by default.
+> **[0:07](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=7)** If you've used [[Codespaces]] before, you're probably familiar with Auto Save being enabled by default.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=15)** In this Codespace though, I've disabled it intentionally as a precaution, to encourage cleaner workflows.
 >
@@ -424,7 +419,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=170)** So now I can save a clean version of this file.
 >
-> **[2:57](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=177)** And lastly, if you prefer having Auto Save enabled, you can turn it back on in the "settings.json" file by "setting files.autoSave" to "afterDelay".
+> **[2:57](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=177)** And lastly, if you prefer having Auto Save enabled, you can turn it back on in the "settings.[[JSON]]" file by "setting files.autoSave" to "afterDelay".
 >
 > **[3:11](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/maintaining-a-clean-notebook-workspace?u=76281980&t=191)** Just keep in mind that doing so will save your notebooks, including any outputs, every time you run a cell.
 >
@@ -448,8 +443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image representation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980)
+#### [Image representation](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980&t=13)** Up ahead, we will get to know raster images and some important details about them.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980&t=20)** First, a raster image consists of a matrix of pixels, which are the small dots or squares that compose a picture like this smiley.
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980&t=20)** First, a raster image consists of a matrix of pixels, which are the small dots or squares that [[Jetpack Compose|compose]] a picture like this smiley.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980&t=31)** Images may encode color, but they may be gray scale or even black and white.
 >
@@ -539,15 +533,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jetpack Compose|Compose]] (1), data (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Color encoding
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/color-encoding?u=76281980)
+#### [Color encoding](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/color-encoding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/color-encoding?u=76281980&t=158)** Now, look at line six to see how the imshow function can print partial images.
 >
-> **[2:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/color-encoding?u=76281980&t=164)** Well, because Python allows us to do so.
+> **[2:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/color-encoding?u=76281980&t=164)** Well, because [[Python (Programming Language)|Python]] allows us to do so.
 >
 > **[2:47](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/color-encoding?u=76281980&t=167)** Here, we'll print the sub-image at row two, column zero.
 >
@@ -620,12 +613,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image file management
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-file-management?u=76281980)
+#### [Image file management](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-file-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-file-management?u=76281980&t=0)** - [Instructor] Opening image files and saving images into files are the start and finish of image processing, respectively.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-file-management?u=76281980&t=0)** - [Instructor] Opening image files and saving images into files are the start and finish of [[Image Processing]], respectively.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-file-management?u=76281980&t=8)** Let's look at some important aspects of image file management.
 >
@@ -751,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Image Processing]] (1), management (1), hit (1)
+> **Frameworks & Libraries:** [[Image Processing]] (1)
 > **Env Vars:** png (10), jpeg (9), rgba (2), rgb (2), bmp (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Cross-References:** in the next (2), go back to (1)
@@ -760,8 +752,7 @@ created: 2026-05-02
 > **File Paths:** ec_cv.py (1)
 > **CLI Commands:** make (1)
 
-#### Resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/resolution?u=76281980)
+#### [Resolution](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,14 +808,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Analogies:** picture (10), just like (1), imagine (1)
 > **Code Identifiers:** rcparams (1)
 > **Env Vars:** dpi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rotations and flips
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/rotations-and-flips?u=76281980)
+#### [Rotations and flips](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/rotations-and-flips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,13 +861,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** rgb (2), img (1)
 > **Analogies:** picture (1)
 > **Speakers:** - rotating (1)
 
-#### Challenge: Manipulate pictures
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-manipulate-some-pictures?u=76281980)
+#### [Challenge: Manipulate pictures](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-manipulate-some-pictures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,7 +933,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), traffic (2)
 > **Env Vars:** rgba (2), jpeg (1), rgb (1), ec_cv (1)
 > **Analogies:** picture (3)
 > **CLI Commands:** find (2)
@@ -954,9 +940,9 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
-#### Solution: Manipulate pictures
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-manipulate-some-pictures?u=76281980)
+#### [Solution: Manipulate pictures](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-manipulate-some-pictures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1020,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), data (1)
 > **Env Vars:** png (2), rgba (1)
 > **Analogies:** picture (2)
 > **Speakers:** - [instructor] (1)
@@ -1045,12 +1030,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Average grayscale
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980)
+#### [Average grayscale](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=0)** - [Instructor] In many applications of computer vision, color isn't very useful.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=0)** - [Instructor] In many applications of [[Computer Vision]], color isn't very useful.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=5)** So all the data that comes with it may slow down the computing process.
 >
@@ -1100,7 +1084,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=157)** Also, notice at the top that the image has only two dimensions, and yet it took a while.
 >
-> **[2:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=164)** That's because I used two nested loops in my code, and since Python is an interpreted language, it takes its time to do the job sequentially.
+> **[2:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=164)** That's because I used two nested loops in my code, and since [[Python (Programming Language)|Python]] is an interpreted language, it takes its time to do the job sequentially.
 >
 > **[2:54](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980&t=174)** Luckily, Python is known for its MATLAB-like vector notation.
 >
@@ -1128,7 +1112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (2), [[Computer Vision]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Computer Vision]] (1)
 > **Analogies:** picture (9)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (2)
@@ -1137,8 +1121,7 @@ created: 2026-05-02
 > **Versions:** 0.6 (1)
 > **Cross-References:** in the next (1)
 
-#### Weighted grayscale
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/weighted-grayscale?u=76281980)
+#### [Weighted grayscale](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/weighted-grayscale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,20 +1163,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 0.299 (1), 0.587 (1), 0.114 (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting grayscale to black and white
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/converting-grayscale-to-black-and-white?u=76281980)
+#### [Converting grayscale to black and white](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/converting-grayscale-to-black-and-white?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/converting-grayscale-to-black-and-white?u=76281980&t=0)** - [Instructor] Now, let's talk about converting grayscale images to black and white.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/converting-grayscale-to-black-and-white?u=76281980&t=5)** This is often useful in computer vision where you may need to identify objects and black and white is all you need.
+> **[0:05](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/converting-grayscale-to-black-and-white?u=76281980&t=5)** This is often useful in [[Computer Vision]] where you may need to identify objects and black and white is all you need.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/converting-grayscale-to-black-and-white?u=76281980&t=13)** Let's work with the play space image again.
 >
@@ -1245,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1)
 > **Analogies:** picture (4), for example (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1253,8 +1234,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adaptive thresholding
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/adaptive-thresholding?u=76281980)
+#### [Adaptive thresholding](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/adaptive-thresholding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,14 +1334,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Analogies:** picture (4), similar to (1)
 > **Cross-References:** in the next (1), go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Removing color
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-removing-color?u=76281980)
+#### [Challenge: Removing color](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-removing-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,14 +1369,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** eccv (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Removing color
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-removing-color?u=76281980)
+#### [Solution: Removing color](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-removing-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1408,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
@@ -1443,8 +1418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Convolution filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980)
+#### [Convolution filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=61)** Let's suppose we have the gray scale image at the left, and we want to run the three by three kernel at the right throughout this picture to produce a new one.
 >
-> **[1:12](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=72)** If we start with this overlap, the resulting value in the new image will be the result of adding all the products of the overlapped values.
+> **[1:12](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=72)** If we start with this overlap, the resulting value in the new image will be the result of adding all the [[Microsoft Products|products]] of the overlapped values.
 >
 > **[1:22](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=82)** That's one times four plus two times zero, plus one times two, and so on.
 >
@@ -1500,7 +1474,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=214)** This means that computers with a graphics processor with hundreds or thousands, of course, can do a great job at running convolution filters.
 >
-> **[3:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=224)** Virtually every software tool you use for image processing or computer vision takes advantage of this fact.
+> **[3:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=224)** Virtually every software tool you use for [[Image Processing]] or [[Computer Vision]] takes advantage of this fact.
 >
 > **[3:52](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980&t=232)** OpenCV is no exception.
 >
@@ -1514,14 +1488,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), [[Image Processing]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Image Processing]] (1), [[Computer Vision]] (1)
 > **Analogies:** picture (11)
 > **Definitions:** is a  (4), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Average filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-filters?u=76281980)
+#### [Average filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,13 +1556,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** picture (4), for example (1)
 > **Code Identifiers:** filter2d (2)
 > **Speakers:** - [instructor] (1)
 
-#### Median filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/median-filters?u=76281980)
+#### [Median filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/median-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,7 +1604,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/median-filters?u=76281980&t=128)** Indeed, the median filter did a better job at getting rid of the lines and spots.
 >
-> **[2:16](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/median-filters?u=76281980&t=136)** Now, let's zoom into these two images in vertical sections.
+> **[2:16](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/median-filters?u=76281980&t=136)** Now, let's [[Zoom]] into these two images in vertical sections.
 >
 > **[2:20](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/median-filters?u=76281980&t=140)** Let's start with the leftmost section.
 >
@@ -1709,15 +1680,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), next (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Analogies:** picture (9)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gaussian filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/gaussian-filters?u=76281980)
+#### [Gaussian filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/gaussian-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,7 +1723,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/gaussian-filters?u=76281980&t=107)** Now, like I said, it's tough to tell the difference between the average and the Gaussian filter results.
 >
-> **[1:55](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/gaussian-filters?u=76281980&t=115)** So let's zoom in to the front door.
+> **[1:55](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/gaussian-filters?u=76281980&t=115)** So let's [[Zoom]] in to the front door.
 >
 > **[2:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/gaussian-filters?u=76281980&t=120)** Now we can see some differences.
 >
@@ -1763,15 +1733,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edge-detection filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/edge-detection-filters?u=76281980)
+#### [Edge-detection filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/edge-detection-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,8 +1847,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Convolution filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-convolution-filters?u=76281980)
+#### [Challenge: Convolution filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-convolution-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1891,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** img (1)
 > **Cross-References:** next video (1)
@@ -1932,8 +1899,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Convolution filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-convolution-filters?u=76281980)
+#### [Solution: Convolution filters](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-convolution-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1986,8 +1952,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image downscaling methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-downscaling-methods?u=76281980)
+#### [Image downscaling methods](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-downscaling-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2027,13 +1992,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** picture (2)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Downscaling example
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/downscaling-example?u=76281980)
+#### [Downscaling example](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/downscaling-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2115,15 +2078,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Analogies:** picture (6)
 > **Env Vars:** eccv (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image upscaling methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-upscaling-methods?u=76281980)
+#### [Image upscaling methods](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-upscaling-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2135,7 +2096,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-upscaling-methods?u=76281980&t=15)** Now, the fact that something is mathematically impossible doesn't necessarily mean that there aren't pretty good approximations.
 >
-> **[0:24](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-upscaling-methods?u=76281980&t=24)** Well, there are some upscaling algorithms that can stretch images well enough to fool many humans.
+> **[0:24](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-upscaling-methods?u=76281980&t=24)** Well, there are some upscaling [[Algorithms]] that can stretch images well enough to fool many humans.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-upscaling-methods?u=76281980&t=31)** Here's the problem we face when upscaling an image.
 >
@@ -2164,8 +2125,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upscaling example
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/upscaling-example?u=76281980)
+#### [Upscaling example](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/upscaling-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2261,8 +2221,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Resize a picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-resize-a-picture?u=76281980)
+#### [Challenge: Resize a picture](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-resize-a-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2290,15 +2249,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** eccv (2)
 > **Cross-References:** next video (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Resize a picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-resize-a-picture?u=76281980)
+#### [Solution: Resize a picture](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-resize-a-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2340,12 +2297,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image cuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980)
+#### [Image cuts](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980&t=0)** - [Instructor] Before wrapping up the course, let me introduce you to "Image Cuts", an application of image processing in the amazing art of computational photography.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980&t=0)** - [Instructor] Before wrapping up the course, let me introduce you to "Image Cuts", an application of [[Image Processing]] in the amazing art of computational photography.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980&t=12)** These are the techniques used by photographic software like Photoshop or your smartphone's camera.
 >
@@ -2429,14 +2385,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), [[Image Processing]] (1)
+> **Frameworks & Libraries:** [[Image Processing]] (1)
 > **Analogies:** picture (7), just like (1), for example (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Stitching two images together
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/stitching-two-images-together?u=76281980)
+#### [Stitching two images together](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/stitching-two-images-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2515,7 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/stitching-two-images-together?u=76281980&t=403)** Once again, at this size it would be difficult to spot any artifacts, but it's looking pretty good to me.
 >
-> **[6:53](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/stitching-two-images-together?u=76281980&t=413)** Lastly, let's zoom in to see the difference in the magnified section we saw before.
+> **[6:53](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/stitching-two-images-together?u=76281980&t=413)** Lastly, let's [[Zoom]] in to see the difference in the magnified section we saw before.
 >
 > **[7:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/stitching-two-images-together?u=76281980&t=420)** At the left, we'll see the vertical split and at the right, our nice cut.
 >
@@ -2598,7 +2553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** scroll down (3), go to (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** get_seam (2)
@@ -2607,8 +2562,7 @@ created: 2026-05-02
 > **Analogies:** picture (2)
 > **Env Vars:** eccv (1)
 
-#### Cuts in panoramic photography
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980)
+#### [Cuts in panoramic photography](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2628,7 +2582,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=63)** First, the pictures are warped in such a way that the electrical cables and the house overlap quite well at the right, and so do the fence and the lamppost at the left.
 >
-> **[1:17](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=77)** There are several algorithms to warp images, depending on the effect you want to achieve in your panorama picture.
+> **[1:17](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=77)** There are several [[Algorithms]] to warp images, depending on the effect you want to achieve in your panorama picture.
 >
 > **[1:25](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=85)** Second, the original pictures had overlaps shown here between vertical green lines.
 >
@@ -2648,7 +2602,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=149)** Notice that I blended the images at a different horizontal point than where my algorithm ended up making the cut.
 >
-> **[2:38](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=158)** Now, let me zoom in to take a better look at that cut.
+> **[2:38](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=158)** Now, let me [[Zoom]] in to take a better look at that cut.
 >
 > **[2:42](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=162)** Here we have the cut, which was calculated with the same algorithm we just saw.
 >
@@ -2660,18 +2614,17 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=186)** The only one I can spot is the discontinuity in one half of the roof.
 >
-> **[3:12](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=192)** The rest looks tidy, especially the sky.
+> **[3:12](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/cuts-in-panoramic-photography?u=76281980&t=192)** The [[Representational State Transfer (REST)|rest]] looks tidy, especially the sky.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), feature (1), [[Algorithms]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (6), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Stitch two pictures together
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-stitch-two-pictures-together?u=76281980)
+#### [Challenge: Stitch two pictures together](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-stitch-two-pictures-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2707,7 +2660,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -2715,8 +2667,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Stitch two pictures together
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-stitch-two-pictures-together?u=76281980)
+#### [Solution: Stitch two pictures together](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-stitch-two-pictures-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2738,7 +2689,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-stitch-two-pictures-together?u=76281980&t=48)** Notice in line 15, that I chose an overlap of 100.
 >
-> **[0:54](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-stitch-two-pictures-together?u=76281980&t=54)** The rest of the code finds the seam and marks it in white pixels.
+> **[0:54](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-stitch-two-pictures-together?u=76281980&t=54)** The [[Representational State Transfer (REST)|rest]] of the code finds the seam and marks it in white pixels.
 >
 > **[1:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-stitch-two-pictures-together?u=76281980&t=60)** Here we have it.
 >
@@ -2770,14 +2721,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why modify objects?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980)
+#### [Why modify objects?](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=0)** - [Instructor] For the last application example of image processing, let's look at a series of operations, called "Morphological Transformations".
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=0)** - [Instructor] For the last application example of [[Image Processing]], let's look at a series of operations, called "Morphological Transformations".
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=9)** These are widely used in computer vision, which is the application of computing to make sense of images and video.
+> **[0:09](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=9)** These are widely used in [[Computer Vision]], which is the application of computing to make sense of images and video.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=17)** For example, software that recognizes handwritten text, faces or people.
 >
@@ -2835,7 +2785,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=209)** Second, remember the size of the robot.
 >
-> **[3:33](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=213)** Path-planning algorithms usually don't keep track of the robot dimensions.
+> **[3:33](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=213)** Path-planning [[Algorithms]] usually don't keep track of the robot dimensions.
 >
 > **[3:38](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980&t=218)** Instead, they consider the robot to be at a single point like a particle.
 >
@@ -2863,15 +2813,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2), [[Image Processing]] (2), [[Computer Vision]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Image Processing]] (2), [[Computer Vision]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (3), known as (2)
 > **Analogies:** picture (4), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Erosion and dilation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/erosion-and-dilation?u=76281980)
+#### [Erosion and dilation](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/erosion-and-dilation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2889,7 +2838,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/erosion-and-dilation?u=76281980&t=36)** This image has white text over a black background.
 >
-> **[0:40](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/erosion-and-dilation?u=76281980&t=40)** This is the usual case in computer vision.
+> **[0:40](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/erosion-and-dilation?u=76281980&t=40)** This is the usual case in [[Computer Vision]].
 >
 > **[0:44](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/erosion-and-dilation?u=76281980&t=44)** In line three, I have defined a three by three kernel with all ones, which I'm using in the erode function in line five.
 >
@@ -2974,8 +2923,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open and close
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/open-and-close?u=76281980)
+#### [Open and close](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/open-and-close?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3019,7 +2967,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/open-and-close?u=76281980&t=127)** Yep, most holes are gone.
 >
-> **[2:13](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/open-and-close?u=76281980&t=133)** Now, let me zoom in to show you what happened to the swirl-like shapes.
+> **[2:13](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/open-and-close?u=76281980&t=133)** Now, let me [[Zoom]] in to show you what happened to the swirl-like shapes.
 >
 > **[2:18](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/open-and-close?u=76281980&t=138)** So this is the result of opening first and then closing.
 >
@@ -3037,8 +2985,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Help a robot
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-help-a-robot?u=76281980)
+#### [Challenge: Help a robot](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/challenge-help-a-robot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3098,7 +3045,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Env Vars:** cvs (1), url (1), hsv (1)
 > **Cross-References:** in the next (2), next video (1)
 > **CLI Commands:** find (1), make (1)
@@ -3106,8 +3052,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Help a robot
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-help-a-robot?u=76281980)
+#### [Solution: Help a robot](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/solution-help-a-robot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3164,8 +3109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3173,13 +3117,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=3)** Now, let me suggest the next steps in your journey as there's still much to learn.
 >
-> **[0:09](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=9)** First, get more experience in image processing platforms or libraries like OpenCV, Pillow, Skimage, and MATLAB.
+> **[0:09](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=9)** First, get more experience in [[Image Processing]] platforms or libraries like OpenCV, Pillow, Skimage, and MATLAB.
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=18)** For OpenCV, I recommend the LinkedIn learning course titled "OpenCV for Python Developers".
+> **[0:18](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=18)** For OpenCV, I recommend the [[LinkedIn]] learning course titled "OpenCV for [[Python (Programming Language)|Python]] Developers".
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=25)** And in general, learn more about the applications of image processing, especially the ones we saw in the last chapters.
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=33)** That's computer vision and computational photography.
+> **[0:33](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=33)** That's [[Computer Vision]] and computational photography.
 >
 > **[0:38](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980&t=38)** Thank you very much for taking this course.
 >
@@ -3189,7 +3133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Image Processing]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Image Processing]] (2), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** matlab (1)
 > **Cross-References:** in the last (1)

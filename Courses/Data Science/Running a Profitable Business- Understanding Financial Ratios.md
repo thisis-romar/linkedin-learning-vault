@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gain financial insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980)
+#### [Gain financial insights](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,9 +110,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980&t=11)** We love numbers.
 >
-> **[0:12](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980&t=12)** We love financial statements, and we love using financial reports to gain insights into how companies work.
+> **[0:12](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980&t=12)** We love [[Financial Statements]], and we love using financial reports to gain insights into how companies work.
 >
-> **[0:18](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980&t=18)** - [Kay] This course introduces you to methods of financial ratio analysis that'll allow you to use a company's financial reports to identify the company's strengths and weaknesses.
+> **[0:18](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980&t=18)** - [Kay] This course introduces you to methods of financial [[Ratio Analysis]] that'll allow you to use a company's financial reports to identify the company's strengths and weaknesses.
 >
 > **[0:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980&t=28)** - [Jim] You can use a company's financial reports to identify areas for improvement, as well as to identify areas of risk.
 >
@@ -147,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ratio Analysis]] (4), [[Financial Statements]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (4), [[Financial Statements]] (1)
 > **Speakers:** - [kay] (2), - in (2), - you (2), - hi (1), - i (1)
 > **Definitions:** is an  (1), in other words (1)
 
@@ -156,12 +155,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to financial ratio analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980)
+#### [Introduction to financial ratio analysis](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=0)** - Now, when it comes to financial ratio analysis, I like to borrow a quote from Winston Churchill.
+> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=0)** - Now, when it comes to financial [[Ratio Analysis]], I like to borrow a quote from Winston Churchill.
 >
 > **[0:05](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=5)** He said the following.
 >
@@ -205,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=88)** Let's consider, to illustrate that, the example of GAAP.
 >
-> **[1:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=91)** Now, common methods of analysis, we'll do common size financial statements.
+> **[1:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=91)** Now, common methods of analysis, we'll do common size [[Financial Statements]].
 >
 > **[1:37](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980&t=97)** We prepare common size financial statements by dividing financial statement numbers by either total sales or total assets.
 >
@@ -242,8 +240,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the financial statements?
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980)
+#### [What are the financial statements?](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,7 +288,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980&t=67)** - [Expert] That's pretty much it.
 >
-> **[1:08](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980&t=68)** - So, the three primary financial statements are the balance sheet, the income statement, and the statement of cash flows.
+> **[1:08](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980&t=68)** - So, the three primary [[Financial Statements]] are the balance sheet, the income statement, and the statement of cash flows.
 >
 > **[1:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980&t=74)** - Perfect.
 >
@@ -305,12 +302,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Speakers:** - well (3), - [interviewer] (2), - [expert] (2), - so (2), - what (1)
 > **Definitions:** is a  (4)
 
-#### The balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980)
+#### [The balance sheet](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=126)** Paid-In Capital and Retained Earnings are the amount of money that are provided to the company by the owners, to then buy assets.
 >
-> **[2:16](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=136)** We're going to use a hypothetical example to do some financial ratio analysis, so let's make up this example now.
+> **[2:16](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=136)** We're going to use a hypothetical example to do some financial [[Ratio Analysis]], so let's make up this example now.
 >
 > **[2:22](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=142)** We'll call the company, very cleverly, Uncertain Company.
 >
@@ -412,7 +408,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=196)** Total liabilities, 7,000.
 >
-> **[3:17](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=197)** Meaning, of course those 14,500 dollars in assets that Uncertain Company has, 7,000 of those dollars came from borrowing in these two different forms.
+> **[3:17](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=197)** Meaning, of course those 14,500 dollars in assets that Uncertain Company has, 7,000 of those dollars came from borrowing in these two different [[Forms]].
 >
 > **[3:27](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=207)** The equity of Uncertain Company is Paid-In Capital of 1,500, and Retained Earnings of 6,000.
 >
@@ -428,11 +424,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=231)** Now let's look at some real balance sheet examples for some companies that you've probably heard of.
 >
-> **[3:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=236)** Apple, Google, Walmart, Facebook, Citibank and Toyota.
+> **[3:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=236)** Apple, [[Google]], Walmart, Facebook, Citibank and Toyota.
 >
 > **[4:03](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=243)** These companies have assets, liabilities and equities.
 >
-> **[4:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=247)** And the first thing that I want you to notice is this, even though these are sophisticated companies selling products that are quite innovative and technologically advanced, they still follow that same Accounting Equation, that was invented by the Italians over 500 years ago.
+> **[4:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=247)** And the first thing that I want you to notice is this, even though these are sophisticated companies selling [[Microsoft Products|products]] that are quite innovative and technologically advanced, they still follow that same Accounting Equation, that was invented by the Italians over 500 years ago.
 >
 > **[4:23](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=263)** Assets equal liabilities plus equity.
 >
@@ -498,18 +494,17 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=382)** We're going to use the balance sheet in financial ratio analysis.
 >
-> **[6:25](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=385)** The balance sheet, the mother of all financial statements.
+> **[6:25](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-balance-sheet-2?u=76281980&t=385)** The balance sheet, the mother of all [[Financial Statements]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), business (4), [[Ratio Analysis]] (3), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Ratio Analysis]] (3), [[Forms]] (1), [[Microsoft Products|Products]] (1), [[Financial Statements]] (1)
 > **Definitions:** is a  (1), we call this (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### The income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980)
+#### [The income statement](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,11 +524,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=28)** That's how Walmart creates assets.
 >
-> **[0:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=31)** Microsoft creates assets by creating software and hardware that you and I then buy.
+> **[0:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=31)** [[Microsoft]] creates assets by creating software and [[Hardware]] that you and I then buy.
 >
 > **[0:36](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=36)** And we pay Microsoft for those things.
 >
-> **[0:38](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=38)** Disney has consumer products.
+> **[0:38](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=38)** Disney has consumer [[Microsoft Products|products]].
 >
 > **[0:40](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=40)** They have cruises, they theme parks.
 >
@@ -559,13 +554,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=93)** Net income is a very sophisticated economic measure.
 >
-> **[1:36](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=96)** It's the net amount of assets generated by a business through its business operations.
+> **[1:36](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=96)** It's the net amount of assets generated by a business through its [[Business Operations]].
 >
 > **[1:41](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=101)** This is the income statement.
 >
 > **[1:43](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=103)** Let's look at some income statement examples for some companies of which you've heard.
 >
-> **[1:48](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=108)** Apple, and Google, and Microsoft, and Facebook, and Alibaba, and Walmart.
+> **[1:48](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=108)** Apple, and [[Google]], and Microsoft, and Facebook, and Alibaba, and Walmart.
 >
 > **[1:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=116)** All of these companies have income statements that they release to the public on a regular basis.
 >
@@ -579,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=133)** This illustrates an important point.
 >
-> **[2:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=134)** The financial statements are only one measure of a company's performance.
+> **[2:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=134)** The [[Financial Statements]] are only one measure of a company's performance.
 >
 > **[2:18](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=138)** A very important measure, but only one measure.
 >
@@ -589,7 +584,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=148)** Facebook is expected to grow substantially in the future, so we talk about them a lot.
 >
-> **[2:32](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=152)** Alibaba is the largest e-commerce business in China.
+> **[2:32](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=152)** Alibaba is the largest [[E-Commerce]] business in China.
 >
 > **[2:36](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=156)** And even though its numbers now are small, because it's the preeminent e-commerce business in China, it's expected to grow exponentially in the future.
 >
@@ -605,7 +600,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=179)** Why does Walmart have to sell so much to generate the same income as Google and Microsoft generate with much smaller sales?
 >
-> **[3:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=187)** Well, that's the kind of thing we need to learn through doing financial ratio analysis.
+> **[3:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=187)** Well, that's the kind of thing we need to learn through doing financial [[Ratio Analysis]].
 >
 > **[3:12](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-income-statement-2?u=76281980&t=192)** To do our ratio analysis, let's use the income statement for a hypothetical company, Uncertain Company.
 >
@@ -621,14 +616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Microsoft]] (6), [[Google]] (3), [[Microsoft Products|Products]] (2), [[Financial Statements]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Google]] (3), [[Microsoft Products|Products]] (2), [[Financial Statements]] (2), [[E-Commerce]] (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### The statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980)
+#### [The statement of cash flows](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +716,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=226)** Now, I have some bad news about the statement of cash flows.
 >
-> **[3:49](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=229)** You're going to have to say goodbye to the statement of cash flows at this point, because most financial ratio analysis is done without cash flow ratios.
+> **[3:49](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=229)** You're going to have to say goodbye to the statement of cash flows at this point, because most financial [[Ratio Analysis]] is done without cash flow ratios.
 >
 > **[3:58](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=238)** The reason for this is that the cash flow statement is so new.
 >
@@ -738,13 +732,13 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=260)** The balance sheet, the income statement, the statement of cash flows.
 >
-> **[4:23](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=263)** Those are the three primary financial statements.
+> **[4:23](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=263)** Those are the three primary [[Financial Statements]].
 >
 > **[4:26](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-statement-of-cash-flows-2?u=76281980&t=266)** In our ratio analysis we'll focus on the first two, the balance sheet and the income statement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Ratio Analysis]] (3), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Financial Statements]] (1)
 > **Speakers:** - third (1)
 
 
@@ -752,8 +746,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The DuPont company: creating accounting history
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980)
+#### [The DuPont company: creating accounting history](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=3)** - Of course I have.
 >
-> **[0:04](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=4)** - Can you name some of their famous products?
+> **[0:04](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=4)** - Can you name some of their famous [[Microsoft Products|products]]?
 >
 > **[0:06](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=6)** - Yes, I can.
 >
@@ -771,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=29)** - Well, the original Monsieur DuPont came to United States from France and established a gunpowder factory near Wilmington, Delaware.
 >
-> **[0:37](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=37)** - All right, you seem to have some knowledge of the DuPont company, so tell us, why is DuPont famous in the field of financial ratio analysis?
+> **[0:37](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=37)** - All right, you seem to have some knowledge of the DuPont company, so tell us, why is DuPont famous in the field of financial [[Ratio Analysis]]?
 >
 > **[0:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980&t=47)** - Over 100 years ago, an accountant at DuPont, F. Donaldson Brown, created a way for a company to compare operating performance in various different divisions.
 >
@@ -793,13 +786,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Ratio Analysis]] (2), product (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Ratio Analysis]] (2)
 > **Speakers:** - well (3), - so (3), - kay (1), - of (1), - can (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Return on equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980)
+#### [Return on equity](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +807,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=21)** What can we conclude by looking at Benchmark and Uncerain side by side?
 >
-> **[0:26](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=26)** Well, the first thing we notice is Benchmark is bigger, and if we do a little mental math, we can conclude, well, it looks like their net income's higher relative to their sales, but just a raw comparison of Benchmark's financial statements with Uncertain's financial statements, that's tough to do.
+> **[0:26](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=26)** Well, the first thing we notice is Benchmark is bigger, and if we do a little mental math, we can conclude, well, it looks like their net income's higher relative to their sales, but just a raw comparison of Benchmark's [[Financial Statements]] with Uncertain's financial statements, that's tough to do.
 >
 > **[0:43](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=43)** There's got to be a way to compare these two companies of different sizes, so we're going to begin with our first financial ratio, my favorite, and most people's favorite, return on equity.
 >
@@ -849,7 +841,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=123)** As an example, let's take a look at some companies that we're all familiar with.
 >
-> **[2:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=127)** It's no surprise that Apple and Microsoft have very good return on equities.
+> **[2:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=127)** It's no surprise that Apple and [[Microsoft]] have very good return on equities.
 >
 > **[2:12](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/return-on-equity-2?u=76281980&t=132)** In the case of General Motors, in the year 2013, their return on equity was 12.3, which puts them in the normal range, which for General Motors, is very good because for the years prior to 2013, they weren't above 10%.
 >
@@ -882,8 +874,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - you (1)
 
-#### DuPont framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-2?u=76281980)
+#### [DuPont framework](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,8 +964,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - okay (1)
 
-#### DuPont framework: Target and Walmart
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-target-and-walmart-2?u=76281980)
+#### [DuPont framework: Target and Walmart](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-target-and-walmart-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,19 +1074,18 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-target-and-walmart-2?u=76281980&t=263)** In this case, Walmart is just more efficient and more profitable than is Target.
 >
-> **[4:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-target-and-walmart-2?u=76281980&t=268)** That's step one in our four-step process of financial ratio analysis.
+> **[4:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/dupont-framework-target-and-walmart-2?u=76281980&t=268)** That's step one in our four-step process of financial [[Ratio Analysis]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), hit (1), [[Ratio Analysis]] (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (1)
 > **Versions:** 2.7 (5), 12.1 (4), 18.1 (3), 2.9 (3), 4.1 (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Warnings:** note that (1)
 > **Speakers:** - okay (1)
 
-#### Problem description to explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/problem-description-to-explanation?u=76281980)
+#### [Problem description to explanation](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/problem-description-to-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,7 +1109,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/problem-description-to-explanation?u=76281980&t=35)** We take return on equity, break it down into profitability, efficiency, and leverage.
 >
-> **[0:40](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/problem-description-to-explanation?u=76281980&t=40)** The second step in our analysis is to prepare common-size financial statements.
+> **[0:40](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/problem-description-to-explanation?u=76281980&t=40)** The second step in our analysis is to prepare common-size [[Financial Statements]].
 >
 > **[0:45](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/problem-description-to-explanation?u=76281980&t=45)** Common-size financial statements allow us to compare companies of different sizes, both across time or at the same point in time, across companies.
 >
@@ -1154,7 +1143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Financial Statements]] (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** as we saw (1)
 > **Analogies:** for example (1)
@@ -1165,8 +1154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Olympic medals and GDP per capita
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980)
+#### [Olympic medals and GDP per capita](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,27 +1232,26 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980&t=114)** - As you can see, when we're evaluating performance, it is important to adjust for the size of the organization.
 >
-> **[2:01](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980&t=121)** With company financial reports, we call this common size financial statements.
+> **[2:01](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980&t=121)** With company financial reports, we call this common size [[Financial Statements]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), product (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Speakers:** - well (3), - that (2), - so (1), - yes (1), - what (1)
 > **Env Vars:** gdp (2)
 > **Definitions:** we call this (1)
 
-#### Common size overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980)
+#### [Common size overview](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=0)** - [Instructor] Step one in our financial ratio analysis is the DuPont Framework.
+> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=0)** - [Instructor] Step one in our financial [[Ratio Analysis]] is the DuPont Framework.
 >
 > **[0:05](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=5)** Very elegant, very nice.
 >
 > **[0:07](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=7)** Dividing return on equity into profitability, efficiency, and leverage.
 >
-> **[0:11](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=11)** Let's now go to step two, common-size financial statements, which in my opinion is such an efficient way to get more information out of the financial statements.
+> **[0:11](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=11)** Let's now go to step two, common-size [[Financial Statements]], which in my opinion is such an efficient way to get more information out of the financial statements.
 >
 > **[0:21](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/common-size-overview-2?u=76281980&t=21)** The basic insight is this.
 >
@@ -1392,19 +1379,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (4), business (3), [[Ratio Analysis]] (1), management (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Ratio Analysis]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 3.5 (1), 6.2 (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Target's common-size income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-income-statement-2?u=76281980)
+#### [Target's common-size income statement](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-income-statement-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-income-statement-2?u=76281980&t=0)** - So we've used common size financial statements to analyze Uncertain company, but will this same technique work with a real company?
+> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-income-statement-2?u=76281980&t=0)** - So we've used common size [[Financial Statements]] to analyze Uncertain company, but will this same technique work with a real company?
 >
 > **[0:08](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-income-statement-2?u=76281980&t=8)** A real company, like Target.
 >
@@ -1502,14 +1488,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Versions:** 1.5 (4), 29.5 (2), 2.7 (1), 4.1 (1)
 > **Env Vars:** cfo (1)
 > **Analogies:** just like (1)
 > **Speakers:** - so (1)
 
-#### Target's common-size balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980)
+#### [Target's common-size balance sheet](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=49)** It doesn't take a sophisticated analysis to see that accounts receivable decreased dramatically from 2012 and 2013.
 >
-> **[0:58](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=58)** Again, a key principle to financial ratio analysis.
+> **[0:58](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=58)** Again, a key principle to financial [[Ratio Analysis]].
 >
 > **[1:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=60)** We now know an important thing to ask about, and if we were to ask Target, or look in more detail at their published information, we would find out that between 2012 and 2013, Target decided to get out of the credit card business.
 >
@@ -1559,7 +1544,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=81)** That's reflected immediately in this common size balance sheet.
 >
-> **[1:24](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=84)** Common size financial statements, in particular here the common size balance sheet, really show information quite quickly.
+> **[1:24](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=84)** Common size [[Financial Statements]], in particular here the common size balance sheet, really show information quite quickly.
 >
 > **[1:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/target-s-common-size-balance-sheet-2?u=76281980&t=91)** We can also use the common size balance sheet to compare companies.
 >
@@ -1603,7 +1588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Financial Statements]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (3), [[Financial Statements]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - we (1)
@@ -1613,8 +1598,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### McDonald's most profitable items
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980)
+#### [McDonald's most profitable items](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,7 +1634,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=52)** - I agree, I myself, try to stick to the Dollar Menu.
 >
-> **[0:55](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=55)** Now, the financial analysis question is this, are these expensive items the most profitable ones for McDonald's?
+> **[0:55](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=55)** Now, the [[Financial Analysis]] question is this, are these expensive items the most profitable ones for McDonald's?
 >
 > **[1:01](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=61)** In other words, if you've got $5 does McDonald's want you to spend it on one single, pricey item or on something else?
 >
@@ -1676,7 +1660,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=111)** They want you to buy more of the high profit margin items, like fries and soft drinks.
 >
-> **[1:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=116)** - This sounds like an example of financial ratio analysis.
+> **[1:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=116)** - This sounds like an example of financial [[Ratio Analysis]].
 >
 > **[2:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980&t=120)** The profitability percentage of different menu items.
 >
@@ -1691,8 +1675,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 
-#### Comparing profitability with financial ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/comparing-profitability-with-financial-ratios?u=76281980)
+#### [Comparing profitability with financial ratios](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/comparing-profitability-with-financial-ratios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1712,7 +1695,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/comparing-profitability-with-financial-ratios?u=76281980&t=53)** We've been doing lots of analysis using Target.
 >
-> **[0:55](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/comparing-profitability-with-financial-ratios?u=76281980&t=55)** Let's let Target rest for awhile.
+> **[0:55](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/comparing-profitability-with-financial-ratios?u=76281980&t=55)** Let's let Target [[Representational State Transfer (REST)|rest]] for awhile.
 >
 > **[0:57](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/comparing-profitability-with-financial-ratios?u=76281980&t=57)** We'll now focus our attention on a large retail clothing company, Nordstrom.
 >
@@ -1794,7 +1777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 5.9 (2), 61.2 (1), 61.7 (1)
 > **Env Vars:** ebitda (2)
 > **UI Navigation:** go to (1)
@@ -1802,8 +1785,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Specific profitability ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/specific-profitability-ratios-2?u=76281980)
+#### [Specific profitability ratios](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/specific-profitability-ratios-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1849,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6)
 > **Env Vars:** ebitda (11), ebit (3)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
@@ -1875,8 +1856,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - now (1)
 
-#### Price-earnings ratio
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980)
+#### [Price-earnings ratio](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1912,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=143)** Here's some P/E ratios for companies of which you may have heard.
 >
-> **[2:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=148)** And we see that Microsoft and Apple, for example, have very ordinary P/E ratios, 17.
+> **[2:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=148)** And we see that [[Microsoft]] and Apple, for example, have very ordinary P/E ratios, 17.
 >
 > **[2:34](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=154)** They're great companies, they're beautiful, they're profitable.
 >
@@ -1940,7 +1920,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=165)** They're good now and they're going to be good in the future.
 >
-> **[2:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=167)** In contrast, Google, with a P/E ratio of 31, is expected to grow at a faster rate in the future than either Microsoft or Apple.
+> **[2:47](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=167)** In contrast, [[Google]], with a P/E ratio of 31, is expected to grow at a faster rate in the future than either Microsoft or Apple.
 >
 > **[2:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/price-earnings-ratio-2?u=76281980&t=176)** The champion on this list is Facebook.
 >
@@ -1968,8 +1948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mark-up vs. profitability: Harry Winston vs. Walmart
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980)
+#### [Mark-up vs. profitability: Harry Winston vs. Walmart](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,7 +1974,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980&t=27)** - That's right, that's exactly right.
 >
-> **[0:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980&t=28)** Now how much does a luxury jewelry store mark up its products?
+> **[0:28](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980&t=28)** Now how much does a luxury jewelry store mark up its [[Microsoft Products|products]]?
 >
 > **[0:32](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980&t=32)** - About 100% so if Harry Winston buys a diamond ring for $20,000, the selling price will be marked up to about $40,000.
 >
@@ -2037,12 +2016,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Speakers:** - the (2), - ah (2), - that (2), - jim (1), - i (1)
 > **Definitions:** is a  (2), is called (1)
 
-#### Number of days' sales in inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/number-of-days-sales-in-inventory-2?u=76281980)
+#### [Number of days' sales in inventory](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/number-of-days-sales-in-inventory-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,7 +2092,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/number-of-days-sales-in-inventory-2?u=76281980&t=205)** Their number of days' sales in inventory was 107 days, almost four months!
 >
-> **[3:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/number-of-days-sales-in-inventory-2?u=76281980&t=211)** On average, products would sit in their store for almost four months.
+> **[3:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/number-of-days-sales-in-inventory-2?u=76281980&t=211)** On average, [[Microsoft Products|products]] would sit in their store for almost four months.
 >
 > **[3:36](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/number-of-days-sales-in-inventory-2?u=76281980&t=216)** Well, it turns out they had to do something about that.
 >
@@ -2136,14 +2114,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Versions:** 5.4 (4), 5.9 (1), 67.6 (1), 3.1 (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Average collection period
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/average-collection-period-2?u=76281980)
+#### [Average collection period](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/average-collection-period-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2253,15 +2230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Versions:** 1.8 (2), 5.7 (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - okay (1)
 
-#### Length of the operating cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/length-of-the-operating-cycle-2?u=76281980)
+#### [Length of the operating cycle](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/length-of-the-operating-cycle-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2372,8 +2347,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Fixed asset turnover and other utilization ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/fixed-asset-turnover-and-other-utilization-ratios?u=76281980)
+#### [Fixed asset turnover and other utilization ratios](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/fixed-asset-turnover-and-other-utilization-ratios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2475,7 +2449,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2486,8 +2459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Singapore Airlines' low leverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/singapore-airlines-low-leverage?u=76281980)
+#### [Singapore Airlines' low leverage](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/singapore-airlines-low-leverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,12 +2512,11 @@ created: 2026-05-02
 > **Versions:** 2.7 (2)
 > **Cross-References:** go back to (1)
 
-#### Current ratio
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/current-ratio-2?u=76281980)
+#### [Current ratio](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/current-ratio-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/current-ratio-2?u=76281980&t=0)** - Step one in a financial analysis is computing return on equity and then the DuPont framework analysis to look at the profitability, efficiency and leverage components.
+> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/current-ratio-2?u=76281980&t=0)** - Step one in a [[Financial Analysis]] is computing return on equity and then the DuPont framework analysis to look at the profitability, efficiency and leverage components.
 >
 > **[0:10](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/current-ratio-2?u=76281980&t=10)** We're now going to hone in on the leverage component of return on equity with some specific ratios.
 >
@@ -2626,8 +2597,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - step (1)
 
-#### Leverage ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/leverage-ratios-2?u=76281980)
+#### [Leverage ratios](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/leverage-ratios-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2805,7 +2775,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (2), feature (1)
 > **Versions:** 0.5 (6)
 > **Definitions:** is called (2), means that (1), is an  (1), is a  (1)
 > **Env Vars:** cfo (1)
@@ -2817,8 +2786,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Historical data pitfalls and baseball
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980)
+#### [Historical data pitfalls and baseball](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2844,7 +2812,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=43)** - There you go, so it looks like you're putting too much weight on old historical performance and not enough on more recent performance.
 >
-> **[0:50](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=50)** - Fine, but this is a financial analysis course, so let's talk about some financial facts.
+> **[0:50](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=50)** - Fine, but this is a [[Financial Analysis]] course, so let's talk about some financial facts.
 >
 > **[0:56](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=56)** In 2014, for example, the Yankees had the second highest payroll in Major League Baseball, 204 million dollars.
 >
@@ -2856,7 +2824,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=75)** Key injuries, an aging roster, some unfortunate hitting troubles at home.
 >
-> **[1:21](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=81)** - Exactly, turns out in your discussion of the Yankees, you've highlighted some of the key points about the pitfalls of financial ratio analysis.
+> **[1:21](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=81)** - Exactly, turns out in your discussion of the Yankees, you've highlighted some of the key points about the pitfalls of financial [[Ratio Analysis]].
 >
 > **[1:31](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980&t=91)** - I have?
 >
@@ -2874,27 +2842,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ratio Analysis]] (2), [[Financial Analysis]] (1), data (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (2), [[Financial Analysis]] (1)
 > **Speakers:** - oh (3), - that (2), - hi (1), - a (1), - so (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Excess data and comparability issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980)
+#### [Excess data and comparability issues](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=0)** - Okay, we have to be careful, now.
 >
-> **[0:02](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=2)** There are potential pitfalls associated with financial ratio analysis, and we've got to be aware of those pitfalls so that we can carefully do our analysis and carefully apply our results.
+> **[0:02](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=2)** There are potential pitfalls associated with financial [[Ratio Analysis]], and we've got to be aware of those pitfalls so that we can carefully do our analysis and carefully apply our results.
 >
 > **[0:14](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=14)** I think of four things right off the top of my head.
 >
 > **[0:17](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=17)** First is, financial information is not all the value-relevant information that's available about a firm.
 >
-> **[0:24](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=24)** Secondly, financial statements from different companies are sometimes not comparable.
+> **[0:24](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=24)** Secondly, [[Financial Statements]] from different companies are sometimes not comparable.
 >
 > **[0:29](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/excess-data-and-comparability-issues?u=76281980&t=29)** We'll look at a couple of examples of that.
 >
@@ -3006,7 +2973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (10), [[Ratio Analysis]] (3), business (3)
+> **Frameworks & Libraries:** [[Financial Statements]] (10), [[Ratio Analysis]] (3)
 > **Warnings:** be careful (4), common mistake (2), be aware (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** aol (2), rhc (1)
@@ -3014,8 +2981,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), in other words (1)
 > **Speakers:** - okay (1)
 
-#### "Smoking gun" and historical data biases
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/smoking-gun-and-historical-data-biases?u=76281980)
+#### ["Smoking gun" and historical data biases](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/smoking-gun-and-historical-data-biases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3071,7 +3037,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/smoking-gun-and-historical-data-biases?u=76281980&t=104)** It was a host of things.
 >
-> **[1:46](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/smoking-gun-and-historical-data-biases?u=76281980&t=106)** When we're doing financial ratio analysis and we're looking for one thing, we're going to be disappointed.
+> **[1:46](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/smoking-gun-and-historical-data-biases?u=76281980&t=106)** When we're doing financial [[Ratio Analysis]] and we're looking for one thing, we're going to be disappointed.
 >
 > **[1:51](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/smoking-gun-and-historical-data-biases?u=76281980&t=111)** Often it's more than one thing.
 >
@@ -3107,7 +3073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Ratio Analysis]] (3), power (1), next (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (3)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Warnings:** pitfall (1), be careful (1)
@@ -3118,12 +3084,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What financial ratio analysis can NOT do
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980)
+#### [What financial ratio analysis can NOT do](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=0)** - All right, let's be clear about what financial ratio analysis cannot do.
+> **[0:00](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=0)** - All right, let's be clear about what financial [[Ratio Analysis]] cannot do.
 >
 > **[0:04](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=4)** - First, financial ratio analysis can't do anything if the underlined financial statement data are not reliable.
 >
@@ -3145,7 +3110,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=50)** In the end my friend decided not to buy the business.
 >
-> **[0:52](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=52)** - It turns out with unreliable numbers not even the most sophisticated financial analysis can tell you anything.
+> **[0:52](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=52)** - It turns out with unreliable numbers not even the most sophisticated [[Financial Analysis]] can tell you anything.
 >
 > **[0:59](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980&t=59)** - Next, financial ratio analysis cannot help you pick winning and losing stocks in the stock market.
 >
@@ -3177,7 +3142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Ratio Analysis]] (5), data (5), [[Financial Analysis]] (2), next (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (5), [[Financial Analysis]] (2)
 > **Speakers:** - if (2), - all (1), - first (1), - for (1), - it (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2), for example (1)

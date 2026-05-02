@@ -89,22 +89,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding modern React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980)
+#### [Understanding modern React](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980&t=0)** - [Eve] React hooks are functions that we can use to manage state, fetch data, and interact with browser APIs.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980&t=0)** - [Eve] [[React Hooks]] are functions that we can use to manage state, [[Fetch]] data, and interact with browser APIs.
 >
 > **[0:07](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980&t=7)** In this course we'll explore why you might use hooks and how they can make development more scalable.
 >
 > **[0:13](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980&t=13)** I'm Eve Porcello and I'm a developer and an educator.
 >
-> **[0:17](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980&t=17)** Let's explore some more ways we can modernize our React code with hooks.
+> **[0:17](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980&t=17)** Let's explore some more ways we can modernize our [[React.js|React]] code with hooks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Hooks]] (1), [[Fetch]] (1), data (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Hooks]] (1), [[Fetch]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [eve] (1)
 
@@ -113,14 +112,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Create React App
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980)
+#### [Installing Create React App](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=0)** - [Instructor] One of the most common tools for creating a new React application is Create React App.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=0)** - [Instructor] One of the most common tools for creating a new [[React.js|React]] application is Create React App.
 >
-> **[0:05](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=5)** Create React App will give us a React project structure, the ability to use the latest JavaScript features, and tools for optimizing your app for production.
+> **[0:05](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=5)** Create React App will give us a React project structure, the ability to use the latest [[JavaScript]] features, and tools for optimizing your app for production.
 >
 > **[0:14](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=14)** To get started with Create React App, you need to do a couple of things.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=26)** As long as you see something higher than 8.10 then you can use Create React App.
 >
-> **[0:32](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=32)** The next thing I'll check is NPM.
+> **[0:32](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=32)** The next thing I'll check is [[npm]].
 >
 > **[0:35](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=35)** NPM is the Node Package Manager and we want to make sure that this is version five, six, or higher.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=148)** So if you'd rather follow along in something like this, you can.
 >
-> **[2:32](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=152)** You will sign in either using your GitHub or your Google account.
+> **[2:32](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=152)** You will sign in either using your [[GitHub]] or your [[Google]] account.
 >
 > **[2:37](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980&t=157)** So I'll sign in with GitHub here.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (15), [[npm]] (5), node (2), next (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (15), [[npm]] (5), [[GitHub]] (2), [[JavaScript]] (1), [[Google]] (1)
 > **CLI Commands:** npm (5), make (3), npx (3), node (2), cd (1)
 > **Env Vars:** npm (5), npx (3), ide (1), url (1)
 > **Prerequisites:** install (3), set up (1)
@@ -197,16 +195,15 @@ created: 2026-05-02
 > **Exercise Files:** download the (1), starter project (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
-#### Reviewing the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980)
+#### [Reviewing the project](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980&t=0)** - [Instructor] In the previous video, we looked at how we can use Create React App to generate a React project for us.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980&t=0)** - [Instructor] In the previous video, we looked at how we can use Create [[React.js|React]] App to generate a React project for us.
 >
 > **[0:06](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980&t=6)** So let's take a little look at what's going on here.
 >
-> **[0:08](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980&t=8)** So inside of our package.json file, we have react, and then we have some testing dependencies.
+> **[0:08](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980&t=8)** So inside of our package.[[JSON]] file, we have react, and then we have some testing dependencies.
 >
 > **[0:15](https://www.linkedin.com/learning/react-hooks/reviewing-the-project?u=76281980&t=15)** In our index.js file, we have this serviceWorker that I'm actually going to delete, 'cause we don't need it.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[JSON]] (1)
 > **File Paths:** package.json (1), index.js (1), app.js (1)
 > **Code Identifiers:** serviceworker (2), reactdom (1)
 > **CLI Commands:** find (1)
@@ -253,12 +250,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing Array and Object destructuring
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980)
+#### [Reviewing Array and Object destructuring](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=0)** - [Instructor] The most common place that object destructuring is used in React is inside of the component.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=0)** - [Instructor] The most common place that object destructuring is used in [[React.js|React]] is inside of the component.
 >
 > **[0:05](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=5)** So here we have a component that's rendering Hello World but we also can pass in to any one of these components an object called props.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=64)** So now if we hit Save, no changes but everything is working as expected.
 >
-> **[1:10](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=70)** Destructuring is also used with arrays and it's used quite a bit with React hooks.
+> **[1:10](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=70)** Destructuring is also used with arrays and it's used quite a bit with [[React Hooks]].
 >
 > **[1:14](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980&t=74)** So let's consider in our index file an array of people.
 >
@@ -326,14 +322,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), data (1), hit (1), [[React Hooks]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[React Hooks]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incorporating the useState Hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980)
+#### [Incorporating the useState Hook](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=21)** So what we want to do in this video is we want to add state to our App component.
 >
-> **[0:25](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=25)** And the way that we do this with React hooks is we're going to use a function.
+> **[0:25](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=25)** And the way that we do this with [[React Hooks]] is we're going to use a function.
 >
 > **[0:30](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=30)** Let's first go ahead and return a div.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=43)** And the next thing I want to do is I want to create a constant here on line six and I'll going to call this results and I'm going to call the function useState.
 >
-> **[0:56](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=56)** If I want to use useState, I also need to import it from the React library and this is a function, so we're going to import it inside of these curly braces.
+> **[0:56](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=56)** If I want to use useState, I also need to import it from the [[React.js|React]] library and this is a function, so we're going to import it inside of these curly braces.
 >
 > **[1:07](https://www.linkedin.com/learning/react-hooks/incorporating-the-usestate-hook?u=76281980&t=67)** So what I'm really looking to do here is I'm looking to figure out what this result is.
 >
@@ -417,15 +412,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[React Hooks]] (1), next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Hooks]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** usestate (7), setstatus (3), onclick (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a checkbox with useState
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/building-a-checkbox-with-usestate?u=76281980)
+#### [Building a checkbox with useState](https://www.linkedin.com/learning/react-hooks/building-a-checkbox-with-usestate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,19 +467,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** usestate (4), setchecked (2), onchange (1)
 > **UI Navigation:** checkbox (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with component trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980)
+#### [Working with component trees](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=0)** - [Instructor] More often than not, our react applications are not a single component.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=0)** - [Instructor] More often than not, our [[React.js|react]] applications are not a single component.
 >
 > **[0:05](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=5)** So working with state in a component tree is really an important concept to know about.
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=54)** And the star that we want to use is actually from a separate library called react icons.
 >
-> **[1:00](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=60)** So let me go ahead and import it first, and then we're going to install it using npm.
+> **[1:00](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=60)** So let me go ahead and import it first, and then we're going to install it using [[npm]].
 >
 > **[1:07](https://www.linkedin.com/learning/react-hooks/working-with-component-trees?u=76281980&t=67)** So over here in my terminal window, I need to run npm install react-icons.
 >
@@ -569,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (2), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (2)
 > **Code Identifiers:** createarray (4), totalstars (4), usestate (1)
 > **CLI Commands:** make (4), npm (2)
 > **Prerequisites:** install (3)
@@ -578,12 +570,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** click on (1)
 
-#### Sending interactions up component trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980)
+#### [Sending interactions up component trees](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=0)** - [Instructor] We've used React properties to get us this far, we've created a few different stars.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=0)** - [Instructor] We've used [[React.js|React]] properties to get us this far, we've created a few different stars.
 >
 > **[0:05](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=5)** Now, what we need to do is we need to handle clicking on them.
 >
@@ -623,7 +614,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=94)** And inside of this function, let's go ahead and call setSelectedStars.
 >
-> **[1:42](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=102)** And then how we want to select the star is by using its index plus one, because we're using a zero-based index in JavaScript, we need to make sure that we're capturing that correctly.
+> **[1:42](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=102)** And then how we want to select the star is by using its index plus one, because we're using a zero-based index in [[JavaScript]], we need to make sure that we're capturing that correctly.
 >
 > **[1:53](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=113)** Now, the final thing I need to do is I need to pass this function to each star, 'cause like I said that's where the clicking is actually going to happen.
 >
@@ -637,7 +628,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=143)** And then if I wanted to change the total stars to something a little more realistic, we can do so.
 >
-> **[2:31](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=151)** And we see, let's zoom way in on that.
+> **[2:31](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=151)** And we see, let's [[Zoom]] way in on that.
 >
 > **[2:36](https://www.linkedin.com/learning/react-hooks/sending-interactions-up-component-trees?u=76281980&t=156)** And we see that every time I click one of those stars, the state changes, and we can make this even more clear if we want to by adding a fragment here around our createArray function.
 >
@@ -655,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[JavaScript]] (1), [[Zoom]] (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[JavaScript]] (1), [[Zoom]] (1)
 > **Code Identifiers:** setselectedstars (5), usestate (3), selectedstars (3), onselect (2), createarray (2)
 > **UI Navigation:** scroll down (2), select the (1), click on (1)
 > **CLI Commands:** make (3)
@@ -663,8 +654,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,11 +664,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=15)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with these code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with these code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:34](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=34)** The code challenge has four areas.
 >
-> **[0:36](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=36)** Instructions up here on the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used down here in this test code panel, and then a console for output, as well as the render, because this challenge is using React.
+> **[0:36](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=36)** Instructions up here on the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used down here in this test code panel, and then a console for output, as well as the render, because this challenge is using [[React.js|React]].
 >
 > **[0:54](https://www.linkedin.com/learning/react-hooks/how-to-use-coderpad?u=76281980&t=54)** You can use these drag handles to allocate space as you'd like.
 >
@@ -718,14 +708,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Building an interactive to-do list
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/solution-building-an-interactive-todo-list?u=76281980)
+#### [Solution: Building an interactive to-do list](https://www.linkedin.com/learning/react-hooks/solution-building-an-interactive-todo-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/react-hooks/solution-building-an-interactive-todo-list?u=76281980&t=79)** Then next to this input, we will add a label and then another label.
 >
-> **[1:28](https://www.linkedin.com/learning/react-hooks/solution-building-an-interactive-todo-list?u=76281980&t=88)** What this should read inside of the label is task.name, and then we'll say html\for and then we will plug in task-task.id.
+> **[1:28](https://www.linkedin.com/learning/react-hooks/solution-building-an-interactive-todo-list?u=76281980&t=88)** What this should read inside of the label is task.name, and then we'll say [[HTML]]\for and then we will plug in task-task.id.
 >
 > **[1:46](https://www.linkedin.com/learning/react-hooks/solution-building-an-interactive-todo-list?u=76281980&t=106)** Okay, so, so far so good.
 >
@@ -823,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[HTML]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** onchange (4), settasks (3), ontoggle (3), initialtasks (2), usestate (2)
 > **CLI Commands:** make (4)
 > **UI Navigation:** toggle (2), checkbox (1)
@@ -836,12 +825,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing useEffect
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980)
+#### [Introducing useEffect](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980&t=0)** - [Instructor] Another hook that is exported by the React library is useEffect.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980&t=0)** - [Instructor] Another hook that is exported by the [[React.js|React]] library is useEffect.
 >
 > **[0:05](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980&t=5)** useEffect allows you to perform side effects in function components.
 >
@@ -909,15 +897,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), dom (1), api (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **Code Identifiers:** useeffect (11), usestate (2), setname (1), onclick (1)
 > **Env Vars:** dom (1), api (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the dependency array
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/working-with-the-dependency-array?u=76281980)
+#### [Working with the dependency array](https://www.linkedin.com/learning/react-hooks/working-with-the-dependency-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,23 +982,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (1)
 > **Code Identifiers:** useeffect (7), setadmin (2), onclick (1)
 > **Cross-References:** as we saw (1)
 > **Exercise Files:** template (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fetching data with useEffect
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980)
+#### [Fetching data with useEffect](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=0)** - [Instructor] Another use case for useEffect is for data fetching.
 >
-> **[0:04](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=4)** So let's say we had an API like api.[github.com/users](https://github.com/users) so this is just a straight up rest API.
+> **[0:04](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=4)** So let's say we had an API like api.[[[GitHub]].com/users](https://github.com/users) so this is just a straight up [[Representational State Transfer (REST)|rest]] API.
 >
-> **[0:15](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=15)** It returned some Json data and we want to make a request for this data and then load it into our page.
+> **[0:15](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=15)** It returned some [[JSON]] data and we want to make a request for this data and then load it into our page.
 >
 > **[0:21](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=21)** So the way I can do that is by using a combination of useState and useEffect.
 >
@@ -1025,7 +1010,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=65)** So now if we look at our app, it says No Users.
 >
-> **[1:10](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=70)** It's going to be up to us to get the data from that API using a useEffect call, useEffect always takes in a function we're going to use fetch which takes in the URL of the API.
+> **[1:10](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=70)** It's going to be up to us to get the data from that API using a useEffect call, useEffect always takes in a function we're going to use [[Fetch]] which takes in the URL of the API.
 >
 > **[1:27](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=87)** So api.[github.com/users](https://github.com/users), literally the same thing as this.
 >
@@ -1043,7 +1028,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=168)** Alright so let's try that again login and there we go.
 >
-> **[2:54](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=174)** We also because we have the ids for all of these people we probably getting that dreaded error yap, so what we can do is we can say key equals user.id and that should be cleared, nice we're also getting this warning coming from react hooks telling us that we need to add a list of dependencies so that we don't have this infinite chain of updates.
+> **[2:54](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=174)** We also because we have the ids for all of these people we probably getting that dreaded error yap, so what we can do is we can say key equals user.id and that should be cleared, nice we're also getting this warning coming from [[React Hooks]] telling us that we need to add a list of dependencies so that we don't have this infinite chain of updates.
 >
 > **[3:22](https://www.linkedin.com/learning/react-hooks/fetching-data-with-useeffect?u=76281980&t=202)** So there's a possibility every time we're using useEffects that if we don't handle the dependency array correctly then we're going to continuously make this useEffect call to that API we're going to add an empty array here to useEffect so that it's only called once on page load.
 >
@@ -1065,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), api (7), [[JSON]] (3), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** useeffect (8), setdata (5), usestate (3), useeffects (1)
 > **Env Vars:** api (5), http (2), url (1)
 > **CLI Commands:** make (3)
@@ -1074,14 +1059,13 @@ created: 2026-05-02
 > **File Paths:** response.json (1)
 > **Warnings:** warning (1)
 
-#### Solution: Working with timers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/solution-working-with-timers?u=76281980)
+#### [Solution: Working with timers](https://www.linkedin.com/learning/react-hooks/solution-working-with-timers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-hooks/solution-working-with-timers?u=76281980&t=0)** - [Instructor] UseEffect hooks are really helpful when we're dealing with asynchronous data.
 >
-> **[0:10](https://www.linkedin.com/learning/react-hooks/solution-working-with-timers?u=76281980&t=10)** Now, that could be something like a fetch for an external API or that could be working with a timer.
+> **[0:10](https://www.linkedin.com/learning/react-hooks/solution-working-with-timers?u=76281980&t=10)** Now, that could be something like a [[Fetch]] for an external API or that could be working with a timer.
 >
 > **[0:16](https://www.linkedin.com/learning/react-hooks/solution-working-with-timers?u=76281980&t=16)** So we're going to go ahead and work with a timer today.
 >
@@ -1199,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Fetch]] (1), api (1), application (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Code Identifiers:** useeffect (8), usestate (6), setseconds (3), loadtimerdata (2), setloading (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), jsx (1)
@@ -1213,8 +1197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling complex state with useReducer
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/handling-complex-state-with-usereducer?u=76281980)
+#### [Handling complex state with useReducer](https://www.linkedin.com/learning/react-hooks/handling-complex-state-with-usereducer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,15 +1253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** usereducer (7), setnumber (4), usestate (1), newnumber (1), onclick (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refactoring useState to useReducer
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/refactoring-usestate-to-usereducer?u=76281980)
+#### [Refactoring useState to useReducer](https://www.linkedin.com/learning/react-hooks/refactoring-usestate-to-usereducer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,8 +1304,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dispatching actions with useReducer
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/dispatching-actions-with-usereducer?u=76281980)
+#### [Dispatching actions with useReducer](https://www.linkedin.com/learning/react-hooks/dispatching-actions-with-usereducer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1442,16 +1422,15 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing form inputs with useRef
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980)
+#### [Managing form inputs with useRef](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980&t=0)** - [Instructor] As we move our way through all of these different hooks that the React library provides us with, one that we can't overlook is useRef.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980&t=0)** - [Instructor] As we move our way through all of these different hooks that the [[React.js|React]] library provides us with, one that we can't overlook is useRef.
 >
 > **[0:09](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980&t=9)** So useRef is going to allow us to reach out to a component and determine its value.
 >
-> **[0:14](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980&t=14)** And this can be extremely useful, particularly with forms.
+> **[0:14](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980&t=14)** And this can be extremely useful, particularly with [[Forms]].
 >
 > **[0:18](https://www.linkedin.com/learning/react-hooks/managing-form-inputs-with-useref?u=76281980&t=18)** So the first thing I want to do with our form is I want to import useRef.
 >
@@ -1543,14 +1522,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[React.js|React]] (1), next (1), database (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[React.js|React]] (1)
 > **Code Identifiers:** useref (8), usereducer (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating controlled components with useState
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/creating-controlled-components-with-usestate?u=76281980)
+#### [Creating controlled components with useState](https://www.linkedin.com/learning/react-hooks/creating-controlled-components-with-usestate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,15 +1590,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** setsound (4), usestate (3), useref (2), setcolor (2), onchange (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Building a counter
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/solution-building-a-counter?u=76281980)
+#### [Solution: Building a counter](https://www.linkedin.com/learning/react-hooks/solution-building-a-counter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1656,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), application (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** usereducer (2)
 > **Definitions:** is a  (1)
@@ -1693,12 +1668,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reusing form logic with custom Hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980)
+#### [Reusing form logic with custom Hooks](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=0)** - [Instructor] In addition to the pre-built hooks that are supplied by the React library, you can also create your own custom hooks.
+> **[0:00](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=0)** - [Instructor] In addition to the pre-built hooks that are supplied by the [[React.js|React]] library, you can also create your own custom hooks.
 >
 > **[0:06](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=6)** If there's ever a place where you're writing a lot of the same code in your components, it might be possible to extract the logic into a hook.
 >
@@ -1722,7 +1696,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=63)** So the first thing is, it's a function that's going to take in an initial value.
 >
-> **[1:12](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=72)** Let's zoom that out a little bit.
+> **[1:12](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=72)** Let's [[Zoom]] that out a little bit.
 >
 > **[1:14](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980&t=74)** Then we're going to use value and setValue as the state variable and the function to change the state.
 >
@@ -1806,7 +1780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Zoom]] (1)
 > **Code Identifiers:** useinput (12), onchange (5), usestate (4), titleprops (4), setvalue (3)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **File Paths:** useinput.js (1), index.js (1)
@@ -1815,8 +1789,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Placing data in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/placing-data-in-context?u=76281980)
+#### [Placing data in context](https://www.linkedin.com/learning/react-hooks/placing-data-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/react-hooks/placing-data-in-context?u=76281980&t=6)** Instead of passing data up and down the tree, we can put the data in context so that all of the child components will know the values that are being passed down.
 >
-> **[0:16](https://www.linkedin.com/learning/react-hooks/placing-data-in-context?u=76281980&t=16)** So if you've worked with context in React before, this is kind of the new way to do it using React hooks.
+> **[0:16](https://www.linkedin.com/learning/react-hooks/placing-data-in-context?u=76281980&t=16)** So if you've worked with context in [[React.js|React]] before, this is kind of the new way to do it using [[React Hooks]].
 >
 > **[0:22](https://www.linkedin.com/learning/react-hooks/placing-data-in-context?u=76281980&t=22)** So let's go ahead and create a component that's going to consume some data from context.
 >
@@ -1880,15 +1853,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[React.js|React]] (3), [[React Hooks]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[React Hooks]] (1)
 > **Code Identifiers:** createcontext (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieving data with useContext
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/retrieving-data-with-usecontext?u=76281980)
+#### [Retrieving data with useContext](https://www.linkedin.com/learning/react-hooks/retrieving-data-with-usecontext?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,7 +1884,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/react-hooks/retrieving-data-with-usecontext?u=76281980&t=58)** So just that index file.
 >
-> **[1:02](https://www.linkedin.com/learning/react-hooks/retrieving-data-with-usecontext?u=76281980&t=62)** Now, what we can do is we can pull in the use context hook from react.
+> **[1:02](https://www.linkedin.com/learning/react-hooks/retrieving-data-with-usecontext?u=76281980&t=62)** Now, what we can do is we can pull in the use context hook from [[React.js|react]].
 >
 > **[1:09](https://www.linkedin.com/learning/react-hooks/retrieving-data-with-usecontext?u=76281980&t=69)** You might guess where this is going.
 >
@@ -1952,15 +1924,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** warning (1), keep in mind (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom Hook with context
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/creating-a-custom-hook-with-context?u=76281980)
+#### [Creating a custom Hook with context](https://www.linkedin.com/learning/react-hooks/creating-a-custom-hook-with-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1994,21 +1965,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** usecontext (5), usetrees (4)
 > **File Paths:** index.js (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data fetching with a Fetch Hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980)
+#### [Data fetching with a Fetch Hook](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=0)** - [Instructor] So far we've fetched data with useEffect, and we've also loaded some state data with useContext.
 >
-> **[0:07](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=7)** In this video, we're going to take a look at how to fetch data with a custom hook.
+> **[0:07](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=7)** In this video, we're going to take a look at how to [[Fetch]] data with a custom hook.
 >
 > **[0:12](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=12)** So let's kind of think about the process of fetching data.
 >
@@ -2024,7 +1993,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=54)** So useFetch is going to handle all of these different states.
 >
-> **[0:58](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=58)** We first need to import useState and useEffect from React.
+> **[0:58](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=58)** We first need to import useState and useEffect from [[React.js|React]].
 >
 > **[1:05](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=65)** And then this function is going to be exported.
 >
@@ -2042,7 +2011,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=119)** If we do have one let's fetch from that URI.
 >
-> **[2:07](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=127)** We'll call then and we'll take the data and we'll parse it as JSON.
+> **[2:07](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=127)** We'll call then and we'll take the data and we'll parse it as [[JSON]].
 >
 > **[2:14](https://www.linkedin.com/learning/react-hooks/data-fetching-with-a-fetch-hook?u=76281980&t=134)** And then we'll call setData.
 >
@@ -2070,15 +2039,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Fetch]] (5), [[React.js|React]] (1), api (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[React.js|React]] (1), [[JSON]] (1)
 > **Code Identifiers:** useeffect (4), usefetch (3), setdata (2), setloading (2), usecontext (1)
 > **Env Vars:** uri (4), api (1), json (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a fetch component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980)
+#### [Building a fetch component](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2096,7 +2064,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=34)** Remember our useFetch hook takes in the URI for our API.
 >
-> **[0:39](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=39)** So it's at api.[github.com/users](https://github.com/users).
+> **[0:39](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=39)** So it's at api.[[[GitHub]].com/users](https://github.com/users).
 >
 > **[0:44](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=44)** And then we can chain on this little template here, and say login.
 >
@@ -2126,7 +2094,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=107)** So, we need to say, if there's an error, we want to return.
 >
-> **[1:56](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=116)** Let's just return a pre tag, and it'll say JSON.stringify, we'll pass the error, null and two for a little formatting.
+> **[1:56](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=116)** Let's just return a pre tag, and it'll say [[JSON]].stringify, we'll pass the error, null and two for a little formatting.
 >
 > **[2:10](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=130)** So, we'll take a look at what that looks like in just a second, but, the real deal is we want to do something with this data.
 >
@@ -2182,11 +2150,11 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=263)** And this has really simplified the data in the component.
 >
-> **[4:27](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=267)** And then I can use this useFetch hook any time I need to fetch, in my entire application or even across projects.
+> **[4:27](https://www.linkedin.com/learning/react-hooks/building-a-fetch-component?u=76281980&t=267)** And then I can use this useFetch hook any time I need to [[Fetch]], in my entire application or even across projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[GitHub]] (5), api (4), [[JSON]] (2), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[JSON]] (2), [[Fetch]] (1)
 > **Code Identifiers:** usefetch (7), avatar_url (1)
 > **Env Vars:** api (3), json (2), uri (1), http (1)
 > **Tools:** github (5)
@@ -2195,8 +2163,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Creating a user settings hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/solution-creating-a-user-settings-hook?u=76281980)
+#### [Solution: Creating a user settings hook](https://www.linkedin.com/learning/react-hooks/solution-creating-a-user-settings-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2306,7 +2273,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **UI Navigation:** toggle (9)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
@@ -2317,14 +2283,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980&t=1)** - [Instructor] Thank you for joining me on this journey through React Hooks and learning about how they can be applied in various situations.
+> **[0:01](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980&t=1)** - [Instructor] Thank you for joining me on this journey through [[React Hooks]] and learning about how they can be applied in various situations.
 >
-> **[0:08](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980&t=8)** Libraries like React Router, Relay, Apollo and many, many more use Hooks as part of their API.
+> **[0:08](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980&t=8)** Libraries like [[React.js|React]] Router, Relay, Apollo and many, many more use Hooks as part of their API.
 >
 > **[0:16](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980&t=16)** So this course will hopefully set you up for success as you explore other areas of React's ecosystem.
 >
@@ -2338,7 +2303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[React Hooks]] (2), api (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[React Hooks]] (2)
 > **URLs:** [usehooks.com](https://usehooks.com) (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
@@ -2348,18 +2313,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### React Hooks history
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980)
+#### [React Hooks history](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=1)** - [Instructor] If you're familiar with React's history, you might be aware that there have been a few different ways to create components throughout time.
+> **[0:01](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=1)** - [Instructor] If you're familiar with [[React.js|React]]'s history, you might be aware that there have been a few different ways to create components throughout time.
 >
 > **[0:07](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=7)** If we hop in a time machine to between 2013 and 2017, not that long ago I realize, that meant that we would use a function called createClass to create a component.
 >
 > **[0:19](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=19)** Then the createClass function would have this render method that we could use to return some UI.
 >
-> **[0:25](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=25)** Then around 2017, createClass started to fall out of favor because JavaScript implemented the class syntax which lent itself really well to component creation.
+> **[0:25](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=25)** Then around 2017, createClass started to fall out of favor because [[JavaScript]] implemented the class syntax which lent itself really well to component creation.
 >
 > **[0:35](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=35)** So that meant our components transformed to kind of look like this.
 >
@@ -2371,7 +2335,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=57)** And it was a whole thing. It took a lot of time.
 >
-> **[1:00](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=60)** Then came React Hooks.
+> **[1:00](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=60)** Then came [[React Hooks]].
 >
 > **[1:03](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980&t=63)** So Hooks allow you to add state to function components and it also allows you to abstract logic into separate function, they're just functions.
 >
@@ -2385,7 +2349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (1), [[React Hooks]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (1), [[React Hooks]] (1)
 > **Code Identifiers:** createclass (3)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)

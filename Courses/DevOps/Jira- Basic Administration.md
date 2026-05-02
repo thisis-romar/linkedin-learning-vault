@@ -99,12 +99,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic administration in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980)
+#### [Basic administration in Jira](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980&t=0)** - [Rachel] In this course, you'll learn what Jira is, how it's used and which type you have.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980&t=0)** - [Rachel] In this course, you'll learn what [[Jira]] is, how it's used and which type you have.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980&t=5)** I'll show you how to access application settings and the most used admin areas.
 >
@@ -120,18 +119,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), application (1), data (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Tools:** jira (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [rachel] (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course helps new Jira administrators get started, solve common problems, and fulfill requests so you can support growth and change in your organization.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course helps new [[Jira]] administrators get started, solve common problems, and fulfill requests so you can support growth and change in your organization.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=9)** You may be a full-time Jira admin, a part-time admin with an additional job, an end user who was granted admin access, or the admin of multiple applications at the same time.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=71)** If you have Jira service management, my admin course shows how to configure requests, queues, service level agreements, and a knowledge base so your organization can support internal and external customers.
 >
-> **[1:24](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=84)** And finally, if you have Confluence, I created an admin course to help configure that application too.
+> **[1:24](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=84)** And finally, if you have [[Confluence]], I created an admin course to help configure that application too.
 >
 > **[1:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-is-this-course-for?u=76281980&t=90)** In all courses, my goal is not just for you to understand the settings, but to be able to make smart decisions when creating or changing them.
 >
@@ -163,32 +161,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), application (3), cloud (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (1)
 > **Tools:** jira (10), confluence (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=0)** - Ideally, you'll have some end-user experience creating issues, transitioning issues through workflows, and working into your projects, boards, and dashboards.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=0)** - Ideally, you'll have some end-[[User Experience (UX)|user experience]] creating issues, transitioning issues through workflows, and working into your projects, boards, and [[Dashboards]].
 >
 > **[0:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=9)** It's also helpful to have application admin or system admin experience with other software, but it's certainly possible that you don't have this experience, and that's okay.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=18)** This course will teach you the basics so you can get started quickly.
 >
-> **[0:22](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=22)** All you need right now is admin access to a Jira application.
+> **[0:22](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=22)** All you need right now is admin access to a [[Jira]] application.
 >
 > **[0:26](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=26)** It's also helpful to have a test environment, but if you don't, don't worry, we'll set one up as part of the course.
 >
 > **[0:32](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=32)** One last thing.
 >
-> **[0:33](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=33)** It's really hard to keep up with software changes, especially with cloud software, new features are added, removed, or changed all the time, existing features or even entire products are renamed, and links that worked yesterday are broken today.
+> **[0:33](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=33)** It's really hard to keep up with software changes, especially with cloud software, new features are added, removed, or changed all the time, existing features or even entire [[Microsoft Products|products]] are renamed, and links that worked yesterday are broken today.
 >
-> **[0:47](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=47)** That's why I've set up a special place on my website to post the latest Jira and Confluence information.
+> **[0:47](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=47)** That's why I've set up a special place on my website to post the latest Jira and [[Confluence]] information.
 >
 > **[0:53](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-do-you-need-for-this-course?u=76281980&t=53)** When something impactful to the course changes, I'll post that information at the URL shown.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Jira]] (2), [[User Experience (UX)|User experience]] (1), [[Dashboards]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[User Experience (UX)|User experience]] (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1), [[Confluence]] (1)
 > **Tools:** jira (2), confluence (1)
 > **Env Vars:** url (1)
 > **Prerequisites:** set up (1)
@@ -211,12 +208,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Jira?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980)
+#### [What is Jira?](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=0)** - [Instructor] Jira is made by a company called Atlassian who makes other popular applications like Confluence, a wiki and document repository, Trello, a lightweight visual task manager, and development tools like Bamboo and Bitbucket.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=0)** - [Instructor] [[Jira]] is made by a company called [[Atlassian]] who makes other popular applications like [[Confluence]], a wiki and document repository, [[Trello]], a lightweight visual task manager, and development tools like Bamboo and [[Bitbucket]].
 >
 > **[0:13](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=13)** Jira is for issue tracking, bug tracking, project management, and more.
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=21)** Jira helps teams of all types manage their work.
 >
-> **[0:23](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=23)** When Jira was first released in 2002, it was purely for software development, but these days, all kinds of teams like legal, marketing, HR, and IT use Jira.
+> **[0:23](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=23)** When Jira was first released in 2002, it was purely for [[Software Development]], but these days, all kinds of teams like legal, marketing, HR, and IT use Jira.
 >
 > **[0:34](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980&t=34)** All kinds of industries use it to track their work and their team's to-do list.
 >
@@ -232,16 +228,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), teams (2), [[Software Development]] (2), [[Atlassian]] (1), [[Confluence]] (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Software Development]] (2), [[Atlassian]] (1), [[Confluence]] (1), [[Trello]] (1)
 > **Tools:** jira (6), confluence (1), bitbucket (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is Jira used?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-is-jira-used?u=76281980)
+#### [How is Jira used?](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-is-jira-used?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-is-jira-used?u=76281980&t=0)** - [Narrator] You can use Jira to do any of the following.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-is-jira-used?u=76281980&t=0)** - [Narrator] You can use [[Jira]] to do any of the following.
 >
 > **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-is-jira-used?u=76281980&t=3)** Schedule initiatives, tasks, and manage your team or product pipeline.
 >
@@ -261,21 +256,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), product (1), hr (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (7)
 > **Tools:** jira (7)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Which type of Jira do you have?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980)
+#### [Which type of Jira do you have?](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=0)** - [Instructor] Different types of Jira include different abilities, different deployment methods, and even different user interfaces.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=0)** - [Instructor] Different types of [[Jira]] include different abilities, different deployment methods, and even different user interfaces.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=6)** It's important to know which type you have to leverage the correct features, advice, and documentation.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=11)** The different types of Jira are Jira Core and Jira Work Management, which is built for business teams and general task management, Jira Software, for software development teams, Jira Service Management, with special features for support teams, Jira Align to connect business strategy to technical execution, and Jira Product Discovery to help product managers collaborate and prioritize initiatives.
+> **[0:11](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=11)** The different types of Jira are Jira Core and Jira Work Management, which is built for business teams and general task management, Jira Software, for [[Software Development]] teams, Jira Service Management, with special features for support teams, Jira Align to connect business strategy to technical execution, and Jira Product Discovery to help product managers collaborate and prioritize initiatives.
 >
 > **[0:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=35)** These applications can be used separately or together.
 >
@@ -291,17 +285,17 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=69)** The cloud offering for business teams is called Jira Work Management.
 >
-> **[1:13](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=73)** It includes all the core abilities plus additional features like lists, calendars, timelines, and forms.
+> **[1:13](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=73)** It includes all the core abilities plus additional features like lists, calendars, timelines, and [[Forms]].
 >
-> **[1:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=81)** These applications are great for business teams like marketing, human resources, legal, sales, and more.
+> **[1:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=81)** These applications are great for business teams like marketing, [[Human Resources (HR)|human resources]], legal, sales, and more.
 >
 > **[1:28](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=88)** These users can only access work management-type Jira projects.
 >
 > **[1:32](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=92)** Next, Jira Software helps teams track projects, bugs, and tasks.
 >
-> **[1:37](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=97)** It's designed for development teams and includes dev-specific features like sprints, story points, release versions, and integration with tools like Bamboo, Bitbucket, GitHub, and more.
+> **[1:37](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=97)** It's designed for development teams and includes dev-specific features like sprints, story points, release versions, and integration with tools like Bamboo, [[Bitbucket]], [[GitHub]], and more.
 >
-> **[1:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=108)** This application is great for teams that use scrum, kanban, waterfall, or no methodology at all.
+> **[1:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=108)** This application is great for teams that use [[Scrum]], kanban, waterfall, or no methodology at all.
 >
 > **[1:55](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=115)** These users can access software-type Jira projects in any deployment type and work management projects in Cloud, which are called business projects in Server and Data Center.
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=128)** It was previously called Jira Service Desk and contains features like service level agreements, cues for grouping requests based on type and severity, and additional reporting for workload and customer satisfaction.
 >
-> **[2:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=141)** There's also a simple request entry interface called the customer portal, which integrates with Atlassian's Confluence application to display self-service help articles.
+> **[2:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=141)** There's also a simple request entry interface called the customer portal, which integrates with [[Atlassian]]'s [[Confluence]] application to display self-service help articles.
 >
 > **[2:31](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=151)** With this type, the HR team can collect benefits questions, and reimbursement requests, the facilities team can receive requests for new desks and chairs, and the legal team can process contract review requests.
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=275)** Before we move on to the next deployment type, there's something to know.
 >
-> **[4:38](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=278)** As you've probably heard, Atlassian stopped selling new licenses of Server products in February, 2021, and support for Server products ends on February 2nd, 2024.
+> **[4:38](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=278)** As you've probably heard, Atlassian stopped selling new licenses of Server [[Microsoft Products|products]] in February, 2021, and support for Server products ends on February 2nd, 2024.
 >
 > **[4:49](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=289)** So what should you do if you have Jira Server?
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=299)** For those of you that still have Server, it means the software is hosted independently.
 >
-> **[5:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=303)** Your application may be hosted on premises, on a server in your office, in your Data Center with other internal applications, in a cloud server environment like Amazon AWS, Microsoft Azure, or Google Cloud platform, or by a third party.
+> **[5:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=303)** Your application may be hosted on premises, on a server in your [[Microsoft Office|office]], in your Data Center with other internal applications, in a cloud server environment like Amazon AWS, [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud platform]], or by a third party.
 >
 > **[5:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/which-type-of-jira-do-you-have?u=76281980&t=318)** The Server application has different capabilities and a different user interface.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (29), application (17), cloud (15), management (12), [[Atlassian]] (12)
+> **Frameworks & Libraries:** [[Jira]] (29), [[Atlassian]] (12), [[Microsoft Products|Products]] (4), [[Software Development]] (1), [[Forms]] (1)
 > **Tools:** jira (29), bitbucket (1), github (1), confluence (1)
 > **Env Vars:** url (4), jwm (1), jsm (1), aws (1)
 > **CLI Commands:** make (3), find (2), aws (1)
@@ -432,14 +426,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 
-#### Important terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980)
+#### [Important terms and definitions](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=0)** - [Lecturer] Now that you know about the different application and deployment types, let's discuss some important terms and definitions.
 >
-> **[0:07](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=7)** An issue is an individual item in Jira.
+> **[0:07](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=7)** An issue is an individual item in [[Jira]].
 >
 > **[0:10](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=10)** Each time you create an item, you're creating a new issue with a unique key to identify it.
 >
@@ -449,13 +442,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=25)** A project is a collection of issues.
 >
-> **[0:28](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=28)** Now the word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:28](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=28)** Now the [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:33](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=33)** Think of a Jira project as a container for all your team's initiatives, tasks and to-do items.
 >
 > **[0:40](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=40)** There's generally one Jira project per department, system, team or application.
 >
-> **[0:45](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=45)** You might have a project called "Human Resources" to track all the different things the HR team works on.
+> **[0:45](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=45)** You might have a project called "[[Human Resources (HR)|Human Resources]]" to track all the different things the HR team works on.
 >
 > **[0:51](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=51)** Next, a scheme is a configuration or collection of settings.
 >
@@ -467,17 +460,17 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=72)** Schemes make this possible.
 >
-> **[1:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=74)** A dashboard is a statistics-based view of issues for one or more projects.
+> **[1:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=74)** A dashboard is a [[Statistics]]-based view of issues for one or more projects.
 >
 > **[1:19](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=79)** A dashboard shows a lot of issue data at one time in formats like graphs, counts, trends and charts.
 >
-> **[1:26](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=86)** There's a default system dashboard for everyone to use, and users can create custom dashboards too.
+> **[1:26](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=86)** There's a default system dashboard for everyone to use, and users can create custom [[Dashboards]] too.
 >
 > **[1:32](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=92)** A board is a view of issues from one or more projects.
 >
 > **[1:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=95)** It's an easy way to see the status of many issues at the same time.
 >
-> **[1:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=99)** There are scrum boards for teams that plan in chunks of work called sprints.
+> **[1:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=99)** There are [[Scrum]] boards for teams that plan in chunks of work called sprints.
 >
 > **[1:43](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=103)** There are kanban boards for teams with a less structured delivery schedule.
 >
@@ -485,7 +478,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=113)** Always be sure to refer to these terms by their real names.
 >
-> **[1:57](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=117)** It avoids confusion between users when reading documentation and when communicating with Atlassian support.
+> **[1:57](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=117)** It avoids confusion between users when reading documentation and when communicating with [[Atlassian]] support.
 >
 > **[2:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/important-terms-and-definitions?u=76281980&t=123)** One more thing before we get started.
 >
@@ -505,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), teams (3), application (2), next (2), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Scrum]] (2), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Tools:** jira (9)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
@@ -513,12 +506,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Navigating the admin area
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980)
+#### [Navigating the admin area](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=0)** - [Narrator] Next, let's discuss the sections of the Jira administration area.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=0)** - [Narrator] Next, let's discuss the sections of the [[Jira]] administration area.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=4)** You'll need application admin permissions to access these settings.
 >
@@ -530,13 +522,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=21)** The menu contains links to the different admin areas.
 >
-> **[0:24](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=24)** Click the user management option to add or manage users and groups.
+> **[0:24](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=24)** Click the [[User Management]] option to add or manage users and groups.
 >
 > **[0:29](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=29)** Click the billing option to go to the billing portal at [adminatlassian.com](https://adminatlassian.com).
 >
 > **[0:34](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=34)** For settings related to the entire application, click the system option.
 >
-> **[0:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=39)** There are a few additional application settings in the products option, too.
+> **[0:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=39)** There are a few additional application settings in the [[Microsoft Products|products]] option, too.
 >
 > **[0:44](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=44)** Click the projects option to see all existing projects and create new ones.
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=72)** And here's a tip, if you ever forget which page an admin feature is on, just type GG to find it.
 >
-> **[1:19](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=79)** For example, type GG and enter the word workflow in the search box.
+> **[1:19](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=79)** For example, type GG and enter the [[Microsoft Word|word]] workflow in the search box.
 >
 > **[1:23](https://www.linkedin.com/learning/jira-basic-administration-17503968/navigating-the-admin-area?u=76281980&t=83)** Jira will find any admin page with workflow in the title.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), application (7), next (5), cloud (2), [[User Management]] (2)
+> **Frameworks & Libraries:** [[Jira]] (8), [[User Management]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (8)
 > **CLI Commands:** find (3)
 > **Prerequisites:** install (2), you'll need (1)
@@ -608,18 +600,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of Jira users
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980)
+#### [Types of Jira users](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=0)** - There are many different types of admin users, and their responsibilities vary depending on the type.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=6)** Admins fall into one of the following categories: System-level administrators can perform every Jira administration function.
+> **[0:06](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=6)** Admins fall into one of the following categories: System-level administrators can perform every [[Jira]] administration function.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=14)** This level only exists in Server and Data Center.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=17)** For Jira Cloud, Atlassian is your system administrator.
+> **[0:17](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=17)** For Jira Cloud, [[Atlassian]] is your system administrator.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980&t=21)** Sys admins do things like configure the mail server, configure background services, and run health check tools.
 >
@@ -663,15 +654,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), application (4), data (3), cloud (2), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Atlassian]] (1)
 > **Tools:** jira (11)
 > **Prerequisites:** configure (2)
 > **Env Vars:** jira (1)
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - there (1)
 
-#### Who does what?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980)
+#### [Who does what?](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=43)** It's important to understand the impact of your actions when you're wearing the system administrator hat.
 >
-> **[0:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=48)** For the rest of this course, we'll refer to system-level administrators and application-level administrators as simply application admins.
+> **[0:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=48)** For the [[Representational State Transfer (REST)|rest]] of this course, we'll refer to system-level administrators and application-level administrators as simply application admins.
 >
 > **[0:57](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=57)** Application admins need to consider the health of the application, impact and maintenance implication for each decision and change they make.
 >
@@ -703,7 +693,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=69)** Establish and maintain standards, communicate standards, procedures, changes and maintenance outages, assist end users with user-specific settings, assist project administrators with project settings and maintenance, complete customization requests or suggest alternatives, manage users, groups, roles and access, create and configure new projects and schemes, remove projects and schemes when they're no longer needed, perform application upgrades for server and data center, vet, install and upgrade apps, connections and integrations, check server logs and address errors, develop and maintain documentation and user training materials, and monitor and ensure the overall health of the application.
 >
-> **[1:55](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=115)** There's no shortage of work for a proactive Jira administrator.
+> **[1:55](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=115)** There's no shortage of work for a proactive [[Jira]] administrator.
 >
 > **[1:59](https://www.linkedin.com/learning/jira-basic-administration-17503968/who-does-what?u=76281980&t=119)** While we're discussing responsibilities, let's examine what a project administrator does.
 >
@@ -713,15 +703,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Jira]] (1)
 > **Prerequisites:** set up (1), configure (1), install (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing global permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980)
+#### [Utilizing global permissions](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +732,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=35)** While the naming differs slightly, the capabilities are the same.
 >
-> **[0:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=39)** As previously discussed, the Jira system administrators permission is only available in Jira Server and Data Center.
+> **[0:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=39)** As previously discussed, the [[Jira]] system administrators permission is only available in Jira Server and Data Center.
 >
 > **[0:46](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=46)** Users or groups with this permission can perform every Jira function.
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=75)** If you have external users, like contractors or customers, you may want to limit this permission to avoid exposing employee names.
 >
-> **[1:23](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=83)** The share dashboards and filters or create shared objects permission allows users to share custom filters, boards, and dashboards with other users, groups, and project roles.
+> **[1:23](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=83)** The share [[Dashboards]] and filters or create shared objects permission allows users to share custom filters, boards, and dashboards with other users, groups, and project roles.
 >
 > **[1:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/utilizing-global-permissions?u=76281980&t=95)** So for example, the CMO needs this permission to share their dashboard with the marketing team.
 >
@@ -805,7 +794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), application (6), cloud (3), data (3), next (2)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Dashboards]] (2)
 > **Tools:** jira (8)
 > **CLI Commands:** make (2)
 > **Env Vars:** cmo (1)
@@ -819,8 +808,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose a test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980)
+#### [Choose a test environment](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=113)** You'll find the ability to change filter and dashboard owners in the system admin area.
 >
-> **[1:59](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=119)** Here's some test environment options for Cloud customers using the Atlassian hosted environment.
+> **[1:59](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=119)** Here's some test environment options for Cloud customers using the [[Atlassian]] hosted environment.
 >
 > **[2:04](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=124)** There's a built-in sandbox in Premium and Enterprise plans.
 >
@@ -884,7 +872,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=144)** To create a Sandbox, log in as a Cloud organization administrator at admin.[atlassian.com](https://atlassian.com).
 >
-> **[2:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=150)** Click the Products link at the top, and click Sandbox on the left sidebar.
+> **[2:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=150)** Click the [[Microsoft Products|Products]] link at the top, and click Sandbox on the left sidebar.
 >
 > **[2:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980&t=155)** If you have Cloud Premium or Enterprise, you'll see a Create button at the top right.
 >
@@ -932,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (8), cloud (5), [[Atlassian]] (5), next (3)
+> **Frameworks & Libraries:** [[Atlassian]] (5), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (3), test (1), jsc (1), jql (1), ssl (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [mydatalasting.com](https://mydatalasting.com) (1)
@@ -941,14 +929,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Create a test environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980)
+#### [Create a test environment](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=0)** - [Instructor] Atlassian offers free versions of their cloud products.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=0)** - [Instructor] [[Atlassian]] offers free versions of their cloud [[Microsoft Products|products]].
 >
-> **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=3)** Let's sign up for a free Jira application so we can experiment.
+> **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=3)** Let's sign up for a free [[Jira]] application so we can experiment.
 >
 > **[0:07](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=7)** First, log into your Atlassian account at my.[atlassian.com](https://atlassian.com).
 >
@@ -962,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=25)** Once your instance is ready, sign in and complete the setup wizard.
 >
-> **[0:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=30)** For data center Atlassian has getting started guides for AWS and Microsoft Azure.
+> **[0:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=30)** For data center Atlassian has getting started guides for AWS and [[Microsoft Azure]].
 >
 > **[0:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/create-a-test-environment?u=76281980&t=35)** Here's the general setup process for data center.
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Atlassian]] (6), [[Jira]] (5), data (3), database (3), cloud (2)
+> **Frameworks & Libraries:** [[Atlassian]] (6), [[Jira]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Azure]] (1)
 > **Prerequisites:** setup (4), getting started (1), install (1)
 > **Tools:** jira (5)
 > **Env Vars:** url (2), aws (1)
@@ -1003,8 +990,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to manage users
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980)
+#### [How to manage users](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,15 +1012,15 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=45)** Agents can access service management-type projects in any deployment type and work management or business projects.
 >
-> **[0:53](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=53)** Customers are unlicensed users who create support requests in the Jira Service Management Custom Portal and this user type only exists in JSM.
+> **[0:53](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=53)** Customers are unlicensed users who create support requests in the [[Jira]] Service Management Custom Portal and this user type only exists in JSM.
 >
-> **[1:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=63)** There's more to user management than adding and removing users.
+> **[1:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=63)** There's more to [[User Management]] than adding and removing users.
 >
 > **[1:07](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=67)** As an admin, you have the following user management duties.
 >
 > **[1:12](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=72)** Create new users, invite new users or connect Jira to a central user repository.
 >
-> **[1:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=78)** You can connect Jira to identity management and single sign-on tools like Active Directory, Microsoft Azure, G-Suite, Okta, Atlassian Access, Crowd, and others.
+> **[1:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=78)** You can connect Jira to identity management and single sign-on tools like [[Active Directory]], [[Microsoft Azure]], G-Suite, Okta, [[Atlassian]] Access, Crowd, and others.
 >
 > **[1:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980&t=90)** Next, admins need to deactivate user accounts when they're no longer needed.
 >
@@ -1094,15 +1080,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (13), [[Jira]] (11), application (6), cloud (4), business (3)
+> **Frameworks & Libraries:** [[Jira]] (11), [[User Management]] (2), [[Active Directory]] (1), [[Microsoft Azure]] (1), [[Atlassian]] (1)
 > **Tools:** jira (11)
 > **Env Vars:** jsm (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging groups and roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/leveraging-groups-and-roles?u=76281980)
+#### [Leveraging groups and roles](https://www.linkedin.com/learning/jira-basic-administration-17503968/leveraging-groups-and-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/jira-basic-administration-17503968/leveraging-groups-and-roles?u=76281980&t=15)** A soccer team has a coach, players, and fans.
 >
-> **[0:19](https://www.linkedin.com/learning/jira-basic-administration-17503968/leveraging-groups-and-roles?u=76281980&t=19)** Here's how the team roles are reflected as Jira project roles.
+> **[0:19](https://www.linkedin.com/learning/jira-basic-administration-17503968/leveraging-groups-and-roles?u=76281980&t=19)** Here's how the team roles are reflected as [[Jira]] project roles.
 >
 > **[0:23](https://www.linkedin.com/learning/jira-basic-administration-17503968/leveraging-groups-and-roles?u=76281980&t=23)** The coach is in the administrator's role, the players are in the developer's role, and the fans are in the user's role.
 >
@@ -1142,19 +1127,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Tools:** jira (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a test user
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-add-a-test-user?u=76281980)
+#### [Challenge: Add a test user](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-add-a-test-user?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-add-a-test-user?u=76281980&t=0)** - Here's a challenge to complete in your test application.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-add-a-test-user?u=76281980&t=10)** Log into Jira as an application admin and create a test user with the following specifications.
+> **[0:10](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-add-a-test-user?u=76281980&t=10)** Log into [[Jira]] as an application admin and create a test user with the following specifications.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-add-a-test-user?u=76281980&t=16)** Here's a tip.
 >
@@ -1166,13 +1150,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Jira]] (2), data (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Tools:** jira (2)
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,9 +1165,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980&t=14)** Heres how to do it.
 >
-> **[0:15](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980&t=15)** We'll use Jira Server in this example.
+> **[0:15](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980&t=15)** We'll use [[Jira]] Server in this example.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980&t=18)** First, log into Jira as an admin, and go to the user management area.
+> **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980&t=18)** First, log into Jira as an admin, and go to the [[User Management]] area.
 >
 > **[0:22](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17213039?u=76281980&t=22)** Click the create user button at the top right.
 >
@@ -1206,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[User Management]] (1), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[User Management]] (1)
 > **Tools:** jira (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1217,12 +1200,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of Jira projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980)
+#### [Types of Jira projects](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980&t=0)** - [Instructor] We previously discussed the different types of Jira applications and their project types.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980&t=0)** - [Instructor] We previously discussed the different types of [[Jira]] applications and their project types.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980&t=5)** As you may remember, there are multiple types for different uses.
 >
@@ -1260,20 +1242,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), cloud (4), application (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (6)
 > **Tools:** jira (6)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980)
+#### [How to create a project](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=0)** - [Instructor] Every test environment needs a sample project.
 >
-> **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=3)** Let's create one in Jira Cloud and fill it with test data.
+> **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=3)** Let's create one in [[Jira]] Cloud and fill it with test data.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=6)** To use sample data in cloud we need to create a board and a project at the same time, let's try it.
 >
@@ -1291,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=31)** In the project name field create a short but descriptive name.
 >
-> **[0:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=35)** If this project was for the HR department I'd enter enter Human Resources.
+> **[0:35](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=35)** If this project was for the HR department I'd enter enter [[Human Resources (HR)|Human Resources]].
 >
 > **[0:39](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-create-a-project?u=76281980&t=39)** This is a test project though so I'll enter test.
 >
@@ -1389,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), application (8), data (7), [[Jira]] (6), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Human Resources (HR)|Human resources]] (2)
 > **Tools:** jira (6)
 > **UI Navigation:** select the (2), click on (1), open the (1), checkbox (1)
 > **Definitions:** is a  (5)
@@ -1398,8 +1379,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Create a test project
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-test-project?u=76281980)
+#### [Challenge: Create a test project](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-test-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1389,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-test-project?u=76281980&t=11)** Here are the instructions for this challenge.
 >
-> **[0:13](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-test-project?u=76281980&t=13)** Log into JIRA as an admin, create a test project and fill it with sample data.
+> **[0:13](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-test-project?u=76281980&t=13)** Log into [[Jira]] as an admin, create a test project and fill it with sample data.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-test-project?u=76281980&t=18)** Use the provided specifications.
 >
@@ -1423,14 +1403,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), data (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Env Vars:** jira (3)
 > **Tools:** jira (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (peppy digital music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214010?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214010?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1445,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (2), [[Search]] (1), next (1), management (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -1477,8 +1455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980)
+#### [Types of workflows](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1492,7 +1469,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980&t=25)** There are simple task workflows, development workflows, support workflows, and other workflows for custom processes in your organization.
 >
-> **[0:34](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980&t=34)** When you create a new project, Jira automatically creates a new workflow for it.
+> **[0:34](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980&t=34)** When you create a new project, [[Jira]] automatically creates a new workflow for it.
 >
 > **[0:38](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980&t=38)** If the default workflow doesn't meet your business needs, create a custom one.
 >
@@ -1556,15 +1533,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), business (2), product (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (7)
 > **Tools:** jira (7)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic workflow concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980)
+#### [Basic workflow concepts](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=20)** That way, there's no impact to a live project until the draft is published.
 >
-> **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=25)** When you publish the draft, Jira will help migrate existing issues to new statuses if needed.
+> **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=25)** When you publish the draft, [[Jira]] will help migrate existing issues to new statuses if needed.
 >
 > **[0:30](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=30)** There's one unpublished draft in the screenshot.
 >
@@ -1634,11 +1610,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=136)** An issue status is displayed in many places.
 >
-> **[2:20](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=140)** It's pictured here in an issue, but you can also see it on boards, and dashboards, and search results, and in reports.
+> **[2:20](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=140)** It's pictured here in an issue, but you can also see it on boards, and [[Dashboards]], and search results, and in reports.
 >
 > **[2:27](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=147)** The status information looks different between deployment types and depending on how projects are created.
 >
-> **[2:32](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=152)** Atlassian is constantly experimenting with the user interface, especially in cloud.
+> **[2:32](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=152)** [[Atlassian]] is constantly experimenting with the user interface, especially in cloud.
 >
 > **[2:37](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-workflow-concepts?u=76281980&t=157)** It's okay if your screen doesn't look exactly like my examples.
 >
@@ -1722,7 +1698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), data (3), cloud (3), next (1), management (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Dashboards]] (1), [[Atlassian]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (3)
 > **Warnings:** be aware (2)
@@ -1730,8 +1706,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Using diagram and text mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-diagram-and-text-mode?u=76281980)
+#### [Using diagram and text mode](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-diagram-and-text-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,8 +1738,7 @@ created: 2026-05-02
 >
 > **Speakers:** - let (1)
 
-#### Challenge: Create a workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-workflow?u=76281980)
+#### [Challenge: Create a workflow](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,7 +1750,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-workflow?u=76281980&t=16)** Here are the steps.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-workflow?u=76281980&t=17)** Log in to Jira as an admin and go to the Admin area for the TEST project.
+> **[0:17](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-workflow?u=76281980&t=17)** Log in to [[Jira]] as an admin and go to the Admin area for the TEST project.
 >
 > **[0:22](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-create-a-workflow?u=76281980&t=22)** Then click the Workflows link in the left sidebar.
 >
@@ -1820,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), business (1), generic (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** test (3)
 > **UI Navigation:** go to (2)
@@ -1829,8 +1803,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214011?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214011?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214011?u=76281980&t=17)** Here are the steps.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214011?u=76281980&t=18)** We'll use Jira Cloud in this example.
+> **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214011?u=76281980&t=18)** We'll use [[Jira]] Cloud in this example.
 >
 > **[0:20](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17214011?u=76281980&t=20)** First, go to the admin area for all Workflows.
 >
@@ -1924,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), next (3), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (4)
 > **Env Vars:** test (7), test2 (1)
 > **UI Navigation:** go to (3), select the (2)
 > **Tools:** jira (4)
@@ -1938,14 +1911,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of Jira permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980)
+#### [Types of Jira permissions](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=0)** - [Instructor] There are a lot of permission types in Jira.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=0)** - [Instructor] There are a lot of permission types in [[Jira]].
 >
-> **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=3)** We've already talked about three which are granting application access, global permissions, like the ability to administer Jira, share objects, like filters and dashboards, and make bulk changes, and we covered how memberships in project roles and groups grant abilities.
+> **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=3)** We've already talked about three which are granting application access, global permissions, like the ability to administer Jira, share objects, like filters and [[Dashboards]], and make bulk changes, and we covered how memberships in project roles and groups grant abilities.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=18)** The other permission types are project level, issue level, and workflow level.
 >
@@ -1959,7 +1931,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=45)** Each project's permissions are controlled by a permission scheme.
 >
-> **[0:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=48)** In the example, the administered project's permission is granted to project admins and third party Atlassian apps.
+> **[0:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=48)** In the example, the administered project's permission is granted to project admins and third party [[Atlassian]] apps.
 >
 > **[0:55](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=55)** The browse project's permission is granted to any logged in user and also third party apps.
 >
@@ -1995,7 +1967,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=124)** If you use roles and groups, only one permission scheme is needed to accomplish this.
 >
-> **[2:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=129)** If you have software projects, you'll see another scheme named default software scheme.
+> **[2:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=129)** If you have [[Software Projects]], you'll see another scheme named default software scheme.
 >
 > **[2:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980&t=134)** Atlassian assumes your dev teams need different abilities than your business teams.
 >
@@ -2111,7 +2083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Jira]] (8), [[Atlassian]] (2), teams (2), management (2)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Atlassian]] (2), [[Dashboards]] (1), [[Software Projects]] (1)
 > **Tools:** jira (8)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** remember to (1), don't forget (1)
@@ -2120,8 +2092,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Permission Helper
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-permission-helper?u=76281980)
+#### [Using the Permission Helper](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-permission-helper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2173,7 +2144,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-permission-helper?u=76281980&t=105)** You'll need to check those permission settings manually.
 >
-> **[1:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-permission-helper?u=76281980&t=108)** There are multiple ways to solve problems in Jira.
+> **[1:48](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-permission-helper?u=76281980&t=108)** There are multiple ways to solve problems in [[Jira]].
 >
 > **[1:51](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-permission-helper?u=76281980&t=111)** The best way depends on your business goals, application size, compliance requirements, and other factors.
 >
@@ -2183,7 +2154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), feature (1), data (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** indt (1)
@@ -2192,8 +2163,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** you'll need (1)
 
-#### Challenge: Determine the permission problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-determine-the-permission-problem?u=76281980)
+#### [Challenge: Determine the permission problem](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-determine-the-permission-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,8 +2187,7 @@ created: 2026-05-02
 > **Speakers:** - here (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2228,7 +2197,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution?u=76281980&t=10)** Here's how to do it.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution?u=76281980&t=11)** We'll use JIRA server in this example.
+> **[0:11](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution?u=76281980&t=11)** We'll use [[Jira]] server in this example.
 >
 > **[0:13](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution?u=76281980&t=13)** First log into JIRA and go to one of the permission helper locations.
 >
@@ -2275,8 +2244,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of Jira notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980)
+#### [Types of Jira notifications](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2252,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=3)** For example, an event called issue created is triggered for each new issue.
 >
-> **[0:08](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=8)** When the event occurs, Jira automatically sends an email notification for it.
+> **[0:08](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=8)** When the event occurs, [[Jira]] automatically sends an email notification for it.
 >
 > **[0:12](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=12)** There are about 17 notifications like issue created, issue closed, and work logged on issue.
 >
@@ -2312,7 +2280,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=69)** The HR team prefers a proactive approach instead of constant emails.
 >
-> **[1:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=74)** Members of this team use boards, dashboards and filter subscriptions to monitor their issues, or maybe they've connected their Jira project to their chat program and receive notifications there.
+> **[1:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=74)** Members of this team use boards, [[Dashboards]] and filter subscriptions to monitor their issues, or maybe they've connected their Jira project to their chat program and receive notifications there.
 >
 > **[1:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980&t=85)** When's the last time your user said, "I wish I had more email?"
 >
@@ -2350,7 +2318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), hr (2), application (2), [[Dashboards]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Dashboards]] (1)
 > **Tools:** jira (3)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
@@ -2359,12 +2327,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Notification Helper
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-notification-helper?u=76281980)
+#### [Using the Notification Helper](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-notification-helper?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-notification-helper?u=76281980&t=0)** - [Instructor] Sometimes users don't receive messages they expect Jira to send.
+> **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-notification-helper?u=76281980&t=0)** - [Instructor] Sometimes users don't receive messages they expect [[Jira]] to send.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-basic-administration-17503968/using-the-notification-helper?u=76281980&t=4)** There are many non-Jira potential reasons.
 >
@@ -2444,7 +2411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), feature (2), next (2), application (1), generic (1)
+> **Frameworks & Libraries:** [[Jira]] (14)
 > **Tools:** jira (14)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -2453,8 +2420,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Determine the notification problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-determine-the-notification-problem?u=76281980)
+#### [Challenge: Determine the notification problem](https://www.linkedin.com/learning/jira-basic-administration-17503968/challenge-determine-the-notification-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2472,19 +2438,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17207976?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17207976?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17207976?u=76281980&t=0)** - [Instructor] Were you able to detect the notification problem?
 >
-> **[0:10](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17207976?u=76281980&t=10)** Here's how to do it and we'll use Jira server in this example.
+> **[0:10](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17207976?u=76281980&t=10)** Here's how to do it and we'll use [[Jira]] server in this example.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-basic-administration-17503968/solution-17207976?u=76281980&t=14)** First, log in to Jira and go to one of the notification helper locations.
 >
@@ -2533,8 +2497,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional learning resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980)
+#### [Additional learning resources](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2544,7 +2507,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=9)** You should now be able to determine your application type and deployment method, recognize different types of admins and users, set up a test environment to test configuration changes, and add new users, grant application access, and manage role and group membership.
 >
-> **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=25)** You should also be able to create Jira projects and fill them with sample data, edit workflow statuses and transitions, and troubleshoot common permission and notification problems.
+> **[0:25](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=25)** You should also be able to create [[Jira]] projects and fill them with sample data, edit workflow statuses and transitions, and troubleshoot common permission and notification problems.
 >
 > **[0:36](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=36)** Your next step is to continue learning.
 >
@@ -2558,7 +2521,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=61)** Here's some additional resources so you can continue learning.
 >
-> **[1:04](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=64)** Atlassian's product documentation contains content specifically for administrators.
+> **[1:04](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=64)** [[Atlassian]]'s product documentation contains content specifically for administrators.
 >
 > **[1:09](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980&t=69)** All the information is categorized by application type and version.
 >
@@ -2596,7 +2559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (6), next (4), application (3), data (2)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (6)
 > **Tools:** jira (7)
 > **URLs:** [atlassian.com](https://atlassian.com) (1), [communityatlassian.com](https://communityatlassian.com) (1), [jirastrategy.com](https://jirastrategy.com) (1)
 > **CLI Commands:** make (1), find (1)

@@ -123,16 +123,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data mining and predictive analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980)
+#### [Data mining and predictive analytics](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980&t=0)** - Over the years, I've rarely encountered data scientists discussing what I consider the essential elements of data mining.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980&t=0)** - Over the years, I've rarely encountered data scientists discussing what I consider the essential elements of [[Data Mining]].
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980&t=7)** These elements are what I consider key concepts for a successful data mining project.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980&t=13)** Hi, I'm Keith McCormick and I'd like to welcome you to the essential elements of predictive analytics and data mining.
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980&t=13)** Hi, I'm Keith McCormick and I'd like to welcome you to the essential elements of [[Predictive Analytics]] and data mining.
 >
 > **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-and-predictive-analytics-24925114?u=76281980&t=20)** I'm truly excited to be presenting this course.
 >
@@ -148,21 +147,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Predictive Analytics]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[Predictive Analytics]] (1)
 > **Speakers:** - over (1)
 
-#### Data mining’s relevance in the age of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980)
+#### [Data mining’s relevance in the age of AI](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=1)** - I'm very proud that the original course and the expanded version, which you're currently viewing have reached well over 100,000 data scientists and other data professionals.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=13)** However, several years after its first release, and with the rise of AI, especially GenAI, you may wonder about the ongoing relevance of predictive analytics and data mining.
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=13)** However, several years after its first release, and with the rise of AI, especially GenAI, you may wonder about the ongoing relevance of [[Predictive Analytics]] and [[Data Mining]].
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=25)** I'm convinced that it's as relevant as ever, and let me comment on why I believe that to be true.
 >
-> **[0:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=34)** Deep learning in AI have changed our field dramatically, but deep learning specializes in particular types of data, all unstructured data.
+> **[0:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=34)** [[Deep Learning]] in AI have changed our field dramatically, but deep learning specializes in particular types of data, all [[Unstructured Data]].
 >
 > **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=44)** Have you noticed that the famous AI applications that we've grown the most familiar with, involve image, video, audio, and natural language?
 >
@@ -174,13 +172,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=79)** There's little evidence, however, that deep learning is the only option or even the best option for structured data.
 >
-> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=87)** A myriad of machine learning challenges in manufacturing, banking, insurance, retail, healthcare, education, and many more still require that we build models with structured data.
+> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=87)** A myriad of machine learning challenges in manufacturing, [[Banking]], insurance, retail, healthcare, education, and many more still require that we build models with structured data.
 >
 > **[1:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/data-mining-s-relevance-in-the-age-of-ai?u=76281980&t=101)** The approaches that we discuss in this course, which could be described as traditional machine learning are still the go-to methods for these applications in use cases, and most organizations have barely scratched the surface as to what they can do with traditional machine learning, and they need our help in the form of the skills taught in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Deep Learning]] (5), ai (4), [[Predictive Analytics]] (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (5), [[Predictive Analytics]] (1), [[Data Mining]] (1), [[Unstructured Data]] (1), [[Banking]] (1)
 > **Speakers:** - i (1)
 
 
@@ -188,14 +186,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the essential elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980)
+#### [Introducing the essential elements](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=0)** - In this opening section, we'll be laying down a foundation for what's to come.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=4)** We'll start by defining data mining but also explaining how it all comes together in a predictive analytics project.
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=4)** We'll start by defining [[Data Mining]] but also explaining how it all comes together in a [[Predictive Analytics]] project.
 >
 > **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=11)** Also, we'll take a moment to describe what the essential elements are all about.
 >
@@ -223,11 +220,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=103)** I just want to help give some clarity where it is often lacking.
 >
-> **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=107)** There is much confusion surrounding how data mining is distinct from related areas like statistics and business intelligence.
+> **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=107)** There is much confusion surrounding how data mining is distinct from related areas like [[Statistics]] and [[Business Intelligence (BI)|business intelligence]].
 >
 > **[1:55](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=115)** My goal is to clarify the characteristics of a true data mining project.
 >
-> **[2:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=122)** By implication, statistical analysis, hypothesis testing, business intelligence reporting, exploratory data analysis, and so on do not have all of these defining properties.
+> **[2:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=122)** By implication, [[Statistical Analysis]], hypothesis testing, business intelligence reporting, exploratory data analysis, and so on do not have all of these defining properties.
 >
 > **[2:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-the-essential-elements?u=76281980&t=136)** They might overlap but none of those complimentary activities will have this complete list of elements.
 >
@@ -241,18 +238,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Predictive Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Statistics]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[Predictive Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Statistics]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
-#### Defining data mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980)
+#### [Defining data mining](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=0)** - [Instructor] Data mining is simply finding patterns in historical data and then leveraging those patterns on current data to make future predictions.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=0)** - [Instructor] [[Data Mining]] is simply finding patterns in historical data and then leveraging those patterns on current data to make future predictions.
 >
-> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=11)** The myth about data mining and predictive analytics in general is that as long as you've got a ton of data, a powerful computer and fancy algorithms, the human data scientist just sits back and lets the algorithm work its magic.
+> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=11)** The myth about data mining and [[Predictive Analytics]] in general is that as long as you've got a ton of data, a powerful computer and fancy [[Algorithms]], the human data scientist just sits back and lets the algorithm work its magic.
 >
 > **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=26)** It's simply not true.
 >
@@ -318,13 +314,13 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=180)** But generally, they're in the form of either rule sets or formulas.
 >
-> **[3:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=184)** Decision trees for instance produce models that can be described as IF THEN rules.
+> **[3:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=184)** [[Decision Trees]] for instance produce models that can be described as IF THEN rules.
 >
 > **[3:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=190)** So in those case, if they have the store card and their spending is above a particular threshold, they're predicted to respond to the promotion with a purchase.
 >
-> **[3:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=200)** Techniques like linear regression and logistic regression produce formulas that are pretty easy to understand with just a little bit of training.
+> **[3:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=200)** Techniques like [[Linear Regression]] and [[Logistic Regression]] produce formulas that are pretty easy to understand with just a little bit of training.
 >
-> **[3:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=207)** Of course these days, it's very common to use techniques like deep learning that produce models that are not so simple to understand or to explain.
+> **[3:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=207)** Of course these days, it's very common to use techniques like [[Deep Learning]] that produce models that are not so simple to understand or to explain.
 >
 > **[3:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/defining-data-mining?u=76281980&t=217)** They're so complex that you don't get those easy to communicate rules or formulas but you still get your predictions.
 >
@@ -346,20 +342,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), business (3), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Decision Trees]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing CRISP-DM
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980)
+#### [Introducing CRISP-DM](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980&t=0)** - [Instructor] You'll be hearing me say CRISP-DM in this course.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980&t=0)** - [Instructor] You'll be hearing me say [[CRISP-DM]] in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980&t=4)** So let's take a moment to explain what it is and how it relates to our two main topics, the essential elements and the nine laws of data mining.
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980&t=4)** So let's take a moment to explain what it is and how it relates to our two main topics, the essential elements and the nine laws of [[Data Mining]].
 >
 > **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/introducing-crisp-dm?u=76281980&t=13)** CRISP-DM Is an acronym.
 >
@@ -395,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[CRISP-DM]] (6)
+> **Frameworks & Libraries:** [[Data Mining]] (8), [[CRISP-DM]] (6)
 > **Env Vars:** crisp (6)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -405,8 +400,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beginning with a solid first step: Problem definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/beginning-with-a-solid-first-step-problem-definition?u=76281980)
+#### [Beginning with a solid first step: Problem definition](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/beginning-with-a-solid-first-step-problem-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,25 +416,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Framing the problem in terms of a micro-decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980)
+#### [Framing the problem in terms of a micro-decision](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=0)** - [Instructor] It's only natural.
 >
-> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=1)** Most folks begin their predictive analytics journey by trying to state their goals.
+> **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=1)** Most folks begin their [[Predictive Analytics]] journey by trying to state their goals.
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=6)** Something like, we want to increase sales, or we want to reduce maintenance costs.
 >
 > **[0:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=14)** What is more helpful is to start with our very first element, a decision to make.
 >
-> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=20)** You'll need to translate from the language of business objectives into the language of data mining.
+> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=20)** You'll need to translate from the language of business objectives into the language of [[Data Mining]].
 >
 > **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/framing-the-problem-in-terms-of-a-micro-decision?u=76281980&t=26)** And here's what that language is like.
 >
@@ -468,14 +460,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (2), [[Predictive Analytics]] (1), game (1), management (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why every model needs an effective intervention strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/why-every-model-needs-an-effective-intervention-strategy?u=76281980)
+#### [Why every model needs an effective intervention strategy](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/why-every-model-needs-an-effective-intervention-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +488,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/why-every-model-needs-an-effective-intervention-strategy?u=76281980&t=50)** If you don't have a plan of action based on the model scores, then your ability to make the prediction isn't being used to its fullest potential.
 >
-> **[1:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/why-every-model-needs-an-effective-intervention-strategy?u=76281980&t=61)** So the intervention is the specific step you take when the model score indicates that you need to react.
+> **[1:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/why-every-model-needs-an-effective-intervention-strategy?u=76281980&t=61)** So the intervention is the specific step you take when the model score indicates that you need to [[React.js|react]].
 >
 > **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/why-every-model-needs-an-effective-intervention-strategy?u=76281980&t=68)** For instance, should you or shouldn't you send an insurance claim to a special investigation team, or maybe you should even fast track the insurance claim.
 >
@@ -511,13 +502,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate a project's potential with business metrics and ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980)
+#### [Evaluate a project's potential with business metrics and ROI](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +515,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=7)** So it might seem somewhat controversial, but I don't think overly so, to establish an equivalence.
 >
-> **[0:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=14)** To call it a data mining project, you must eventually deploy.
+> **[0:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=14)** To call it a [[Data Mining]] project, you must eventually deploy.
 >
 > **[0:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=19)** Only when you deploy and incorporate the model into the routine of the business can you start to generate value.
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=108)** It's called estimating and ensuring ROI.
 >
-> **[1:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=110)** Now, senior management will also be focused on existing business metrics.
+> **[1:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=110)** Now, senior management will also be focused on existing [[Business Metrics]].
 >
 > **[1:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/evaluate-a-project-s-potential-with-business-metrics-and-roi?u=76281980&t=118)** So it's a good idea to gather this information now.
 >
@@ -579,15 +569,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), data (1), management (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Business Metrics]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** roi (1)
 > **Tools:** notion (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Translating business problems into data mining problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980)
+#### [Translating business problems into data mining problems](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,7 +584,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=8)** The reason is that those around you could be your management, or they could even be your client, might be unaccustomed to managing this kind of project.
 >
-> **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=18)** While it has similarities to IT projects and software development projects, it has its own unique set of characteristics.
+> **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=18)** While it has similarities to IT projects and [[Software Development]] projects, it has its own unique set of characteristics.
 >
 > **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=27)** So our next element is analytics project management.
 >
@@ -613,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=64)** Well when you read up on the subject, you will encounter all kinds of machine learning algorithm types.
 >
-> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=70)** There's text mining, unsupervised modeling, anomaly detection.
+> **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=70)** There's [[Text Mining]], unsupervised modeling, anomaly detection.
 >
 > **[1:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/translating-business-problems-into-data-mining-problems?u=76281980&t=75)** It can seem a little overwhelming.
 >
@@ -653,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Text Mining]] (3), [[Analytics]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Text Mining]] (3), [[Software Development]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it as (1)
@@ -664,8 +653,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding data requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980)
+#### [Understanding data requirements](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,9 +663,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980&t=17)** It simply isn't true.
 >
-> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980&t=20)** The data in a predictive analytics project has to be crafted.
+> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980&t=20)** The data in a [[Predictive Analytics]] project has to be crafted.
 >
-> **[0:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980&t=24)** It has to be custom fit to allow the data to solve the business problem and to let the specialized algorithms perform at their best.
+> **[0:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980&t=24)** It has to be custom fit to allow the data to solve the business problem and to let the specialized [[Algorithms]] perform at their best.
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-data-requirements?u=76281980&t=32)** There's no getting around it, getting the data you need and prepping it into the form you need is a lot of work.
 >
@@ -693,17 +681,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Predictive Analytics]] (1), business (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - often (1)
 
-#### Gathering historical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980)
+#### [Gathering historical data](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=0)** - [Narrator] Predictive analytics is not primarily about the present tense.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=0)** - [Narrator] [[Predictive Analytics]] is not primarily about the present tense.
 >
 > **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=4)** It's about using the past to predict the future.
 >
@@ -711,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=14)** You'll need to have good historical data.
 >
-> **[0:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=17)** Now, business intelligence is about the present tense.
+> **[0:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=17)** Now, [[Business Intelligence (BI)|business intelligence]] is about the present tense.
 >
 > **[0:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=22)** It's about the current month, or the current quarter.
 >
@@ -727,7 +714,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=50)** The graduating seniors have admissions data that will be at least four years old.
 >
-> **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=56)** This is because you'll be using information in their original admissions packet, combined with the most recent graduation data available this way, the algorithms can find the pattern between the two events more than four years apart.
+> **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=56)** This is because you'll be using information in their original admissions packet, combined with the most recent graduation data available this way, the [[Algorithms]] can find the pattern between the two events more than four years apart.
 >
 > **[1:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/gathering-historical-data?u=76281980&t=73)** What if it's something like a 24 month cell phone contract to finance a new phone?
 >
@@ -737,24 +724,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Predictive Analytics]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), bi (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Algorithms]] (1)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Meeting the flat file requirement
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980)
+#### [Meeting the flat file requirement](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=0)** - [Instructor] Your data is probably stored in a very sophisticated way, likely in a data warehouse, perhaps on an enterprise server, and you almost certainly have an elaborate infrastructure to facilitate accessing this data when you need it, but machine learning algorithms need the data in a very specific form, so our next data requirement element is a flat file.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=0)** - [Instructor] Your data is probably stored in a very sophisticated way, likely in a data warehouse, perhaps on an enterprise server, and you almost certainly have an elaborate infrastructure to facilitate accessing this data when you need it, but machine learning [[Algorithms]] need the data in a very specific form, so our next data requirement element is a flat file.
 >
-> **[0:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=23)** The algorithms that we use in predictive analytics are designed to run on flat files with all of your records and characteristics in one big, rectangular table, all in rows and columns, specifically where all of your cases like customers, claims, contracts, or patients are in rows and your input variables, the various descriptors you're using to make predictions, are in columns.
+> **[0:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=23)** The algorithms that we use in [[Predictive Analytics]] are designed to run on flat files with all of your records and characteristics in one big, rectangular table, all in rows and columns, specifically where all of your cases like customers, claims, contracts, or patients are in rows and your input variables, the various descriptors you're using to make predictions, are in columns.
 >
-> **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=53)** Some software vendors will emphasize their compatibility with many types of databases.
+> **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=53)** Some software vendors will emphasize their compatibility with many types of [[Databases]].
 >
-> **[1:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=60)** That simply means that the software's capable of doing some data integration, and that's very helpful indeed, but you still need one big flat file.
+> **[1:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=60)** That simply means that the software's capable of doing some [[Data Integration]], and that's very helpful indeed, but you still need one big flat file.
 >
 > **[1:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/meeting-the-flat-file-requirement-14278424?u=76281980&t=71)** We've discussed the notion of historical data in customer footprints.
 >
@@ -766,14 +752,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), next (1), [[Predictive Analytics]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Predictive Analytics]] (1), [[Databases]] (1), [[Data Integration]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining your target variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980)
+#### [Determining your target variable](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=27)** That simply means that in our flat file, the final outcome is known and has been recorded.
 >
-> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=35)** With the rise of computer vision, many may now associate labeled data or another common phrase, supervised learning with the labeling objects in an image like trying to identify the presence of a cat on social media.
+> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=35)** With the rise of [[Computer Vision]], many may now associate labeled data or another common phrase, [[Supervised Learning]] with the labeling objects in an image like trying to identify the presence of a cat on social media.
 >
 > **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=53)** Supervised learning is simply the type of machine learning where these labels are present.
 >
@@ -799,17 +784,16 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=77)** So in this course, when we're referring to target variables or labeled data, we simply mean that the final outcome has been determined and recorded in our flat file.
 >
-> **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=90)** It will be the algorithms job with our help define the relationship between the input variables and our target variable.
+> **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/determining-your-target-variable-14282285?u=76281980&t=90)** It will be the [[Algorithms]] job with our help define the relationship between the input variables and our target variable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Computer Vision]] (2), [[Supervised Learning]] (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2), [[Supervised Learning]] (2), [[Algorithms]] (1)
 > **CLI Commands:** cat (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting relevant data
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/selecting-relevant-data-14277399?u=76281980)
+#### [Selecting relevant data](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/selecting-relevant-data-14277399?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/selecting-relevant-data-14277399?u=76281980&t=5)** Folks often think that it's either easier or better or both to use all of your data.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/selecting-relevant-data-14277399?u=76281980&t=13)** When big data first became a popular phrase, a widely read book came out that tried to suggest that drawing a sample from a population was old fashioned, that the only reason we used a sample was that computers at the time couldn't handle large datasets.
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/selecting-relevant-data-14277399?u=76281980&t=13)** When [[Big Data]] first became a popular phrase, a widely read book came out that tried to suggest that drawing a sample from a population was old fashioned, that the only reason we used a sample was that computers at the time couldn't handle large datasets.
 >
 > **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/selecting-relevant-data-14277399?u=76281980&t=31)** It creates this image that we just throw the data in and let the algorithm figure it out.
 >
@@ -881,13 +865,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hints on effective data integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980)
+#### [Hints on effective data integration](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=9)** This might sound surprising at first.
 >
-> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=11)** While I was working with the customer relations team, and as they explained it to me, Keith, customers don't have dropped calls, towers do.
+> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=11)** While I was working with the [[Customer Relations]] team, and as they explained it to me, Keith, customers don't have dropped calls, towers do.
 >
 > **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=20)** So I had to involve the engineers to get at that data.
 >
@@ -903,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=31)** It takes disparate data sources to make good models.
 >
-> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=35)** So our next element is data integration.
+> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=35)** So our next element is [[Data Integration]].
 >
 > **[0:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=39)** Something that every project needs is extensive data integration.
 >
@@ -923,7 +906,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=89)** This is your most important data.
 >
-> **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=91)** Something that folks are usually afraid to get into, not through lack of ambition, but because they think they won't have enough time is to incorporate external data, weather data, all kinds of different things, including unstructured data.
+> **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=91)** Something that folks are usually afraid to get into, not through lack of ambition, but because they think they won't have enough time is to incorporate external data, weather data, all kinds of different things, including [[Unstructured Data]].
 >
 > **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=107)** Here you want to be a bit more cautious if you think the data is tangential to the business.
 >
@@ -931,7 +914,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=116)** This all adds to the effort, but it pays off for the simple notion that the harder it is to integrate the data, the better the project is going to be, because the data that is already easily integrated and automatically blended, is already being examined.
 >
-> **[2:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=136)** It's working its way through business intelligence reports.
+> **[2:16](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=136)** It's working its way through [[Business Intelligence (BI)|business intelligence]] reports.
 >
 > **[2:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/hints-on-effective-data-integration?u=76281980&t=140)** It's being reviewed on a daily basis.
 >
@@ -943,14 +926,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (2), [[Customer Relations]] (1), next (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (2), [[Customer Relations]] (1), [[Unstructured Data]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** notion (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [keith] (1)
 
-#### Understanding feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980)
+#### [Understanding feature engineering](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,13 +944,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=13)** You could try that.
 >
-> **[0:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=15)** And some algorithms might do a better job than others, but it's harder for a computer to discover the relationship between height and weight than you might think.
+> **[0:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=15)** And some [[Algorithms]] might do a better job than others, but it's harder for a computer to discover the relationship between height and weight than you might think.
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=25)** If you use your subject matter knowledge and create variables like body mass index, height-weight ratio and hip-to-waist ratio, you give the algorithm a helping hand.
 >
 > **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=37)** Now, it's not always a ratio just like this, but creating new variables is one of the most powerful things that you can do.
 >
-> **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=47)** In CRISP-DM, this element is called data construction, but you may have also heard a synonym, feature engineering.
+> **[0:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=47)** In [[CRISP-DM]], this element is called data construction, but you may have also heard a synonym, [[Feature Engineering]].
 >
 > **[0:57](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=57)** It includes things like the production of derived attributes, just like the body mass index example that we've seen.
 >
@@ -980,7 +962,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=84)** It's at the top of the list for the most important skill of all.
 >
-> **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=89)** I love this quote from Andrew Ng that, "Applied machine learning is feature engineering."
+> **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=89)** I love this quote from Andrew Ng that, "[[Applied Machine Learning]] is feature engineering."
 >
 > **[1:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=96)** I think the best way to illustrate its importance is with a short anecdote.
 >
@@ -998,18 +980,17 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=152)** So more than 90% of our variables came from feature engineering.
 >
-> **[2:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=157)** The art of data mining is in many ways the art of engineering features.
+> **[2:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-feature-engineering?u=76281980&t=157)** The art of [[Data Mining]] is in many ways the art of engineering features.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Feature Engineering]] (4), [[Algorithms]] (1), [[CRISP-DM]] (1), business (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), [[Algorithms]] (1), [[CRISP-DM]] (1), [[Applied Machine Learning]] (1), [[Data Mining]] (1)
 > **Analogies:** just like (2), imagine (1)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** crisp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing your craft
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980)
+#### [Developing your craft](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,9 +1002,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=18)** Instead, we should embrace data prep as central to the job.
 >
-> **[0:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=23)** In fact, our next element is that data mining in general, but perhaps especially data prep, is a craft.
+> **[0:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=23)** In fact, our next element is that [[Data Mining]] in general, but perhaps especially data prep, is a craft.
 >
-> **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=31)** She went on to say that we talk about data science, but it really is a kind of craft, like making shoes.
+> **[0:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=31)** She went on to say that we talk about [[Data Science]], but it really is a kind of craft, like making shoes.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=41)** I think that's a wonderful metaphor.
 >
@@ -1039,11 +1020,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=67)** Influences model accuracy more than effective data prep.
 >
-> **[1:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=72)** So embrace the challenge, seek out mentors, and develop your data preparation craft.
+> **[1:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/developing-your-craft?u=76281980&t=72)** So embrace the challenge, seek out mentors, and develop your [[Data Preparation]] craft.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Data Mining]] (1), [[Data Preparation]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
@@ -1052,8 +1033,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Skill sets and resources that you'll need
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980)
+#### [Skill sets and resources that you'll need](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,21 +1045,20 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980&t=15)** What's a much better idea is being truly collaborative from the start.
 >
-> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980&t=20)** In this section, we'll be talking about a variety of resources that you'll have to draw upon, specialized data mining algorithms, a cross-functional team, plenty of time on a realistic timetable, and access to subject matter experts.
+> **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/skill-sets-and-resources-that-you-ll-need?u=76281980&t=20)** In this section, we'll be talking about a variety of resources that you'll have to draw upon, specialized [[Data Mining]] [[Algorithms]], a cross-functional team, plenty of time on a realistic timetable, and access to subject matter experts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), functional (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Algorithms]] (1)
 > **Speakers:** - you (1)
 
-#### Compare machine learning and statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980)
+#### [Compare machine learning and statistics](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=0)** - [Instructor] Statistics has been around for more than a century, but data mining has only been around since we got computers, and there are some important reasons for that.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=0)** - [Instructor] [[Statistics]] has been around for more than a century, but [[Data Mining]] has only been around since we got computers, and there are some important reasons for that.
 >
-> **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=10)** Statistical algorithms were invented at a time when they had to be done by hand.
+> **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=10)** Statistical [[Algorithms]] were invented at a time when they had to be done by hand.
 >
 > **[0:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=15)** Data mining algorithms are inherently a product of the computer age.
 >
@@ -1105,22 +1084,21 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=115)** What the machine learning algorithms have in common is an attempt to systematically and exhaustively search the problem space.
 >
-> **[2:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=125)** Combine that with large datasets, and you can see why machine learning progress has consistently been accompanied with hardware advances.
+> **[2:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/compare-machine-learning-and-statistics?u=76281980&t=125)** Combine that with large datasets, and you can see why machine learning progress has consistently been accompanied with [[Hardware]] advances.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (8), [[Statistics]] (6), product (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Data Mining]] (7), [[Statistics]] (6), [[Hardware]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing team requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980)
+#### [Assessing team requirements](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=0)** - [Instructor] Something that a lot of organizations are concluding, and none too soon, is that data mining is a team sport.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=0)** - [Instructor] Something that a lot of organizations are concluding, and none too soon, is that [[Data Mining]] is a team sport.
 >
 > **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=8)** For years now, organizations have been trying to find individuals that have a combination of skills that are often difficult to find.
 >
@@ -1130,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=29)** Someone that's been a part of this conversation for some time is a gentleman by the name of Drew Conway.
 >
-> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=35)** He's become famous for his Venn diagram definition of data science.
+> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=35)** He's become famous for his Venn diagram definition of [[Data Science]].
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=41)** The details of his Venn diagram don't matter as much as the fact that the enormous popularity of it has spawned so many alternatives that the debate has been going on for more than a decade since.
 >
@@ -1150,9 +1128,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=118)** So you've got the programming side covered.
 >
-> **[2:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=120)** You've got a statistics course.
+> **[2:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=120)** You've got a [[Statistics]] course.
 >
-> **[2:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=122)** You have separately a machine learning course, and then you have fundamentals of data engineering.
+> **[2:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=122)** You have separately a machine learning course, and then you have fundamentals of [[Data Engineering]].
 >
 > **[2:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/assessing-team-requirements?u=76281980&t=128)** So you're hitting the programming, the machine learning theory, the stats theory, and the IT side.
 >
@@ -1182,15 +1160,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Programming]] (3), next (1), [[Analytics]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Data Mining]] (1), [[Statistics]] (1), [[Data Engineering]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Env Vars:** iadss (1)
 > **Speakers:** - [instructor] (1)
 
-#### Budgeting sufficient time
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980)
+#### [Budgeting sufficient time](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=5)** It's because they've read about the high failure rates, but if you have thoroughly vetted the project, and if you have identified both a micro-decision and an intervention with potential ROI, you're off to a great start, and you simply need to commit to the project because the next element is budgeting sufficient time.
 >
-> **[0:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=29)** Data mining projects take time.
+> **[0:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=29)** [[Data Mining]] projects take time.
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=32)** They take many weeks and perhaps quite a few months.
 >
@@ -1214,7 +1191,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=80)** With this collaboration, the project lead can't easily make up lost time by burning the midnight oil.
 >
-> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=87)** Data preparation, of course, also takes up much of the time.
+> **[1:27](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=87)** [[Data Preparation]], of course, also takes up much of the time.
 >
 > **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/budgeting-sufficient-time?u=76281980&t=91)** Your colleagues that are using tools, that are more of the self-service analytics variety, may wonder what's taking so long.
 >
@@ -1226,21 +1203,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (2), next (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Data Mining]] (3), [[Data Preparation]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with subject matter experts
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980)
+#### [Working with subject matter experts](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=0)** - [Instructor] There's an art to working with subject matter experts.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=4)** A colleague once told me a story about the early days of the data mining software that I use.
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=4)** A colleague once told me a story about the early days of the [[Data Mining]] software that I use.
 >
-> **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=10)** A banking client wanted to put them to the test.
+> **[0:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=10)** A [[Banking]] client wanted to put them to the test.
 >
 > **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=13)** So the client said, "Here are some unlabeled variables."
 >
@@ -1260,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=48)** You're not just solving some kind of algebra equation.
 >
-> **[0:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=51)** The data mining algorithms play an important role in guiding the model building process, but only the human partner in the process can be the final arbiter of what best meets the needs of the business problem.
+> **[0:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=51)** The data mining [[Algorithms]] play an important role in guiding the model building process, but only the human partner in the process can be the final arbiter of what best meets the needs of the business problem.
 >
 > **[1:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=65)** You need that context, the nature of the data requires it.
 >
@@ -1282,13 +1258,13 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=131)** So let the computer narrow the search, let the SME help you widen the search.
 >
-> **[2:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=137)** Also, they'll help you ferret out interpretation problems and they'll put data quality problems into context.
+> **[2:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=137)** Also, they'll help you ferret out interpretation problems and they'll put [[Data Quality]] problems into context.
 >
 > **[2:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/working-with-subject-matter-experts?u=76281980&t=146)** Approach it in this way, and you'll get a much more successful result from your meetings with SMEs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), [[Search]] (2), [[Banking]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Banking]] (1), [[Algorithms]] (1), [[Data Quality]] (1)
 > **Env Vars:** sme (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1300,8 +1276,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anticipating project challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/anticipating-project-challenges?u=76281980)
+#### [Anticipating project challenges](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/anticipating-project-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,12 +1302,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - every (1)
 
-#### Addressing missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980)
+#### [Addressing missing data](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1313,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=6)** It was a fun project because they did excellent work, I was just looking for opportunities for improvement.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=13)** I noticed that the software was consistently choosing algorithms that had a particular trait.
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=13)** I noticed that the software was consistently choosing [[Algorithms]] that had a particular trait.
 >
 > **[0:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=19)** The winning algorithms were automatically handling missing data.
 >
@@ -1374,7 +1347,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=111)** So you must assess missing data during data understanding before you get to the modeling phase.
 >
-> **[1:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=119)** My data assessment course actually has an entire chapter dedicated just to this process.
+> **[1:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=119)** My [[Data Assessment]] course actually has an entire chapter dedicated just to this process.
 >
 > **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=126)** There's a wonderful illustration of the difference between zero and not applicable on the internet.
 >
@@ -1390,19 +1363,18 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=165)** They both involve a failure to assess missing data before sending the data to the modeling algorithm.
 >
-> **[2:52](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=172)** Missing data is not just some statistics issue involving fancy imputation techniques that attempt to guess the missing data.
+> **[2:52](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=172)** Missing data is not just some [[Statistics]] issue involving fancy imputation techniques that attempt to guess the missing data.
 >
-> **[3:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=182)** The most important way to be proactive is to simply look and assess what is the current state of my data and what is the journey that the data took from data collection to me?
+> **[3:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=182)** The most important way to be proactive is to simply look and assess what is the current state of my data and what is the journey that the data took from [[Data Collection]] to me?
 >
 > **[3:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-missing-data?u=76281980&t=198)** A proper job is going to involve subject matter experts, IT, the deployment team and the modeling team, all working together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Algorithms]] (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Data Assessment]] (1), [[Statistics]] (1), [[Data Collection]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addressing organizational resistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-organizational-resistance?u=76281980)
+#### [Addressing organizational resistance](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-organizational-resistance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-organizational-resistance?u=76281980&t=18)** So the next element is that, unfortunately, you can count on at least some organizational resistance.
 >
-> **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-organizational-resistance?u=76281980&t=26)** I remember one engagement where an employee explained to me that the reason he was so distrusting of the data science team is that he associated them with finger-pointing.
+> **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-organizational-resistance?u=76281980&t=26)** I remember one engagement where an employee explained to me that the reason he was so distrusting of the [[Data Science]] team is that he associated them with finger-pointing.
 >
 > **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-organizational-resistance?u=76281980&t=37)** Data science for him was all about blame.
 >
@@ -1458,14 +1430,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** roi (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addressing models that degrade
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980)
+#### [Addressing models that degrade](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,9 +1450,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=30)** Well, this is a potentially large subject, but there's a number of things we can take as basic principles.
 >
-> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=35)** The deployment phase of CRISP-DM as a monitoring task.
+> **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=35)** The deployment phase of [[CRISP-DM]] as a monitoring task.
 >
-> **[0:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=39)** When I use CRISP-DM I usually recommend treating this task as a seventh phase because whereas the rest of deployment eventually ends monitoring never does.
+> **[0:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=39)** When I use CRISP-DM I usually recommend treating this task as a seventh phase because whereas the [[Representational State Transfer (REST)|rest]] of deployment eventually ends monitoring never does.
 >
 > **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=50)** Monitoring is simply checking the accuracy periodically, usually monthly to watch for that inevitable day when the accuracy starts to drop.
 >
@@ -1497,9 +1468,9 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=101)** Eventually, we'll want to remodel more thoroughly.
 >
-> **[1:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=105)** Perhaps we want to consider new variables or different algorithms or different modeling techniques.
+> **[1:45](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=105)** Perhaps we want to consider new variables or different [[Algorithms]] or different modeling techniques.
 >
-> **[1:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=111)** So essentially what we're doing, is we're still keeping the data preparation steps that we've put in place before, but we're allowing the algorithms to do their work again, not simply recalibrating those values.
+> **[1:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=111)** So essentially what we're doing, is we're still keeping the [[Data Preparation]] steps that we've put in place before, but we're allowing the algorithms to do their work again, not simply recalibrating those values.
 >
 > **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/addressing-models-that-degrade?u=76281980&t=126)** So this could include variables that we didn't consider last time or variables that the algorithms dropped last time.
 >
@@ -1521,7 +1492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[CRISP-DM]] (3), [[Algorithms]] (3), business (2), next (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (3), [[Algorithms]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Preparation]] (1)
 > **Env Vars:** crisp (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1533,20 +1504,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for the modeling phase tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980)
+#### [Preparing for the modeling phase tasks](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=1)** - In this section, we'll talk about modeling.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=4)** Make no mistake, this won't be the typical discussion of modeling, where we talk about specific algorithms and run examples.
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=4)** Make no mistake, this won't be the typical discussion of modeling, where we talk about specific [[Algorithms]] and run examples.
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=12)** That's extremely valuable and I've taught that kind of material to thousands of folks over the years, but today we have a different agenda.
 >
-> **[0:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=19)** We'll discuss common sources of misunderstanding around data mining modeling.
+> **[0:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=19)** We'll discuss common sources of misunderstanding around [[Data Mining]] modeling.
 >
-> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=25)** We'll compare and contrast it with statistics.
+> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=25)** We'll compare and contrast it with [[Statistics]].
 >
 > **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-modeling-phase-tasks?u=76281980&t=28)** They're very different.
 >
@@ -1564,13 +1534,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), [[Analytics]] (2), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Algorithms]] (1), [[Data Mining]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
-#### Searching for optimal solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980)
+#### [Searching for optimal solutions](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1553,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=40)** Let me explain.
 >
-> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=41)** If you're verifying an outcome, certain that you're right, having carefully chosen predictors in advance and you're just curious how well it fits the data, you aren't doing data mining.
+> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=41)** If you're verifying an outcome, certain that you're right, having carefully chosen predictors in advance and you're just curious how well it fits the data, you aren't doing [[Data Mining]].
 >
 > **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=54)** Of course, it's possible that you do know or think you know exactly what's going on from prior research.
 >
@@ -1598,11 +1567,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=93)** That would be a very problematic approach.
 >
-> **[1:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=97)** That would be a combination of a little bit of statistics training and a little bit of data mining training and it would violate the most basic assumptions of both.
+> **[1:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=97)** That would be a combination of a little bit of [[Statistics]] training and a little bit of data mining training and it would violate the most basic assumptions of both.
 >
 > **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=107)** You might find yourself stuck with no obvious next step because you'll think that you've tried everything and that there's nothing left to try.
 >
-> **[1:57](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=117)** What you want to do instead is to remember how machine learning algorithms work.
+> **[1:57](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=117)** What you want to do instead is to remember how machine learning [[Algorithms]] work.
 >
 > **[2:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/searching-for-optimal-solutions?u=76281980&t=122)** They do a comprehensive search of the problem space.
 >
@@ -1648,14 +1617,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Search]] (5), [[Statistics]] (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Data Mining]] (7), [[Statistics]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Tools:** notion (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Seeking surprise results
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980)
+#### [Seeking surprise results](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=33)** So our next element is surprise.
 >
-> **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=37)** A common mistake in data mining is being too frugal with predictors, leaving out this or that variable, because everybody knows that it's not a key driver, or maybe a subject-matter expert told you not to bother because it was not found to be a predictor last time someone tried.
+> **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=37)** A common mistake in [[Data Mining]] is being too frugal with predictors, leaving out this or that variable, because everybody knows that it's not a key driver, or maybe a subject-matter expert told you not to bother because it was not found to be a predictor last time someone tried.
 >
 > **[0:57](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=57)** Not wise.
 >
@@ -1693,13 +1661,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=89)** And the insights that they might offer also has monetary value.
 >
-> **[1:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=95)** Doing data reduction well in data mining is strikingly different than doing it in statistics.
+> **[1:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=95)** Doing data reduction well in data mining is strikingly different than doing it in [[Statistics]].
 >
 > **[1:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=103)** In statistics training, sometimes they emphasize parsimony, which is basically, keep it simple.
 >
 > **[1:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=111)** Data mining, however, is different.
 >
-> **[1:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=114)** Data mining algorithms are designed to handle lots of variables.
+> **[1:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=114)** Data mining [[Algorithms]] are designed to handle lots of variables.
 >
 > **[2:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/seeking-surprise-results?u=76281980&t=120)** When we leave a variable out, we sacrifice accuracy.
 >
@@ -1715,12 +1683,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (2), next (1), business (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[Statistics]] (2), [[Algorithms]] (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing proof that the model works
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980)
+#### [Establishing proof that the model works](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,11 +1701,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=28)** So our next element is proof that we're right.
 >
-> **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=32)** We've already discussed that data mining by its very nature does not have a priori hypothesis.
+> **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=32)** We've already discussed that [[Data Mining]] by its very nature does not have a priori hypothesis.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=41)** A priori is just a fancy Latin phrase, meaning hypothesis from theory and not from experience.
 >
-> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=50)** It's commonly used in statistics.
+> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=50)** It's commonly used in [[Statistics]].
 >
 > **[0:53](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/establishing-proof-that-the-model-works?u=76281980&t=53)** Even better, you can think of a priori as having the hypothesis before you observe.
 >
@@ -1782,13 +1749,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Search]] (1), [[Engineering]] (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (3), [[Statistics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embracing a trial and error approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980)
+#### [Embracing a trial and error approach](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,13 +1766,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=14)** Well, it involves a lot of our next element, trial and error, but let's quickly review what leads up to it so that the trial and error can be put into context.
 >
-> **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=26)** In the business understanding phase, you've got to translate your business problem into a data mining problem.
+> **[0:26](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=26)** In the business understanding phase, you've got to translate your business problem into a [[Data Mining]] problem.
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=32)** So you'll be naturally narrowing down the kinds of models that you can consider and you'll most often be redefining your problem into a binary classification problem, as we've discussed.
 >
-> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=44)** In the data understanding and data preparation phases, you'll be uncovering issues in your data that prompt you to fine tune your modeling strategy and your data preparation.
+> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=44)** In the data understanding and [[Data Preparation]] phases, you'll be uncovering issues in your data that prompt you to fine tune your modeling strategy and your data preparation.
 >
-> **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=56)** One can create an entire course around algorithms, in fact, a whole series of courses.
+> **[0:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=56)** One can create an entire course around [[Algorithms]], in fact, a whole series of courses.
 >
 > **[1:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/embracing-a-trial-and-error-approach?u=76281980&t=62)** So we won't go into detail regarding that now, but some of the factors that influence which algorithm does well can include how many rows of data you have, how many variables you have, how much missing data you have, truly a host of other issues.
 >
@@ -1830,7 +1796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), next (1), prompt (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Data Mining]] (1), [[Algorithms]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -1838,30 +1804,28 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for the deployment phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980)
+#### [Preparing for the deployment phase](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=0)** - This section, in a nutshell, is about deployment.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=4)** All these years now since the CRoss Industry Standard Process for Data Mining was written, and we're still waiting for a good book on deployment.
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=4)** All these years now since the CRoss Industry Standard Process for [[Data Mining]] was written, and we're still waiting for a good book on deployment.
 >
-> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=13)** My friend and colleague wrote a book on predictive analytics a couple of years ago and include an excellent chapter on the subject.
+> **[0:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=13)** My friend and colleague wrote a book on [[Predictive Analytics]] a couple of years ago and include an excellent chapter on the subject.
 >
 > **[0:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=20)** He actually starts the chapter trying to figure out why no one talks about it.
 >
 > **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=25)** Your project simply isn't complete unless you deploy the model.
 >
-> **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=30)** His explanation, and I agree, is that deployment gets bogged down in the technology, so we'll leave the software and hardware specifics for another day, but there are a couple of extremely important strategic issues to discuss around deployment, so let's get started.
+> **[0:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-the-deployment-phase?u=76281980&t=30)** His explanation, and I agree, is that deployment gets bogged down in the technology, so we'll leave the software and [[Hardware]] specifics for another day, but there are a couple of extremely important strategic issues to discuss around deployment, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Predictive Analytics]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Predictive Analytics]] (1), [[Hardware]] (1)
 > **Speakers:** - this (1)
 
-#### Using probabilities and propensities
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980)
+#### [Using probabilities and propensities](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1885,9 +1849,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980&t=63)** And those probabilities come in the form of a propensity score.
 >
-> **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980&t=68)** Classification modeling algorithms can produce these for you.
+> **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980&t=68)** Classification modeling [[Algorithms]] can produce these for you.
 >
-> **[1:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980&t=72)** When the value is near 1.0, there is a very high probability of your outcome occurring.
+> **[1:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980&t=72)** When the value is near 1.0, there is a very high [[Probability]] of your outcome occurring.
 >
 > **[1:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/using-probabilities-and-propensities?u=76281980&t=79)** But when it is near 0.0, and this is what makes it special, it's reflecting a high probability of the opposite outcome.
 >
@@ -1919,7 +1883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), next (1), [[Algorithms]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Algorithms]] (1)
 > **Versions:** 1.0 (1), 0.0 (1), 0.5 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1927,8 +1891,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding meta modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-meta-modeling?u=76281980)
+#### [Understanding meta modeling](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-meta-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1944,7 +1907,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-meta-modeling?u=76281980&t=38)** You may have heard of so-called ensembles.
 >
-> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-meta-modeling?u=76281980&t=41)** For instance, the idea of combining 1,000 decision trees is a technique called random forest.
+> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-meta-modeling?u=76281980&t=41)** For instance, the idea of combining 1,000 [[Decision Trees]] is a technique called random forest.
 >
 > **[0:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-meta-modeling?u=76281980&t=48)** Ensembles are very popular and very powerful.
 >
@@ -1984,15 +1947,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), [[Decision Trees]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding reproducibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980)
+#### [Understanding reproducibility](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2006,13 +1968,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=34)** It might not have started out that way.
 >
-> **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=36)** While you were prototyping, maybe you were doing things in such a way that they weren't reproducible, but in the end they must be.
+> **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=36)** While you were [[Prototyping]], maybe you were doing things in such a way that they weren't reproducible, but in the end they must be.
 >
-> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=44)** Perhaps it shouldn't be surprising, but data mining is often confused with mere exploration.
+> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=44)** Perhaps it shouldn't be surprising, but [[Data Mining]] is often confused with mere exploration.
 >
 > **[0:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=51)** Data exploration is a powerful activity.
 >
-> **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=54)** It actually constitutes an explicit task within the data understanding phase of CRISP-DM, but it's not synonymous with data mining, and reproducibility is the key distinction between the two.
+> **[0:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=54)** It actually constitutes an explicit task within the data understanding phase of [[CRISP-DM]], but it's not synonymous with data mining, and reproducibility is the key distinction between the two.
 >
 > **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=68)** Without reproducibility, you might gain insight, but your focus is on the discovery and not the process.
 >
@@ -2030,7 +1992,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=108)** You may have started with a sample extract of data, but now you have to make sure that it works when pulling directly off the database.
 >
-> **[1:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=116)** You certainly must have performed a lot of data integration and data construction, including missing data handling.
+> **[1:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=116)** You certainly must have performed a lot of [[Data Integration]] and data construction, including missing data handling.
 >
 > **[2:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-reproducibility?u=76281980&t=124)** All of that has to be automated and documented.
 >
@@ -2042,20 +2004,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Prototyping]] (1), [[CRISP-DM]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Mining]] (3), [[Prototyping]] (1), [[CRISP-DM]] (1), [[Data Integration]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crisp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for model deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980)
+#### [Preparing for model deployment](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=0)** - [Instructor] At the start of the course, I issued a challenge to us all.
 >
-> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=4)** If you don't reach deployment, you haven't completed your data mining project.
+> **[0:04](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=4)** If you don't reach deployment, you haven't completed your [[Data Mining]] project.
 >
 > **[0:09](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=9)** So this is an exciting moment.
 >
@@ -2075,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=39)** Now you need to work with the enterprise data team.
 >
-> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=41)** It's increasingly popular to describe this skillset as data engineering.
+> **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=41)** It's increasingly popular to describe this skillset as [[Data Engineering]].
 >
 > **[0:46](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=46)** The trick is to follow the data from the moment it enters the system and is processed, and eventually gets sent to the model.
 >
@@ -2091,7 +2052,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=72)** Fairly recently, folks have even put the process, including the model, directly on an app or the kind of smart device that makes predictions.
 >
-> **[1:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=82)** Or perhaps even placed on an internet of things device on a wind turbine or a heavy piece of equipment.
+> **[1:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=82)** Or perhaps even placed on an [[IoT|internet of things]] device on a wind turbine or a heavy piece of equipment.
 >
 > **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/preparing-for-model-deployment-14276637?u=76281980&t=89)** Naturally, developers and engineers have to get involved, but that's the natural culmination of all this effort.
 >
@@ -2099,12 +2060,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), [[Data Engineering]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Data Engineering]] (1), [[IoT|Internet of things]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to approach project documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980)
+#### [How to approach project documentation](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2118,9 +2078,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=28)** It's terribly important that you produce good documentation.
 >
-> **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=32)** If the data miner is the only one who understands it, it's not data mining.
+> **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=32)** If the data miner is the only one who understands it, it's not [[Data Mining]].
 >
-> **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=36)** A great best practice to establish is to write a milestone report at the end of each CRISP-DM phase.
+> **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=36)** A great best practice to establish is to write a milestone report at the end of each [[CRISP-DM]] phase.
 >
 > **[0:46](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=46)** A missed opportunity if you don't keep a copy of CRISP-DM handy, is that there are explicit documentation suggestions listed and described for each phase and task.
 >
@@ -2130,7 +2090,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=80)** In the later stages, the importance is not only restricted to ensuring that the project team is on the same page.
 >
-> **[1:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=88)** The modeling report and the deployment report are absolutely critical forms of knowledge transfer from the data miner to the organization as a whole.
+> **[1:28](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=88)** The modeling report and the deployment report are absolutely critical [[Forms]] of knowledge transfer from the data miner to the organization as a whole.
 >
 > **[1:38](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/how-to-approach-project-documentation-14275767?u=76281980&t=98)** What kinds of things do you have to document?
 >
@@ -2170,7 +2130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[CRISP-DM]] (2), next (1), [[Forms]] (1), management (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (2), [[Data Mining]] (1), [[Forms]] (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** best practice (1)
@@ -2181,8 +2141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CRISP-DM and the laws of data mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980)
+#### [CRISP-DM and the laws of data mining](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,9 +2149,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980&t=8)** Tom has been a thought leader in this field for years.
 >
-> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980&t=11)** He has at least a 15 year headstart on me and is a true pioneer in data mining.
+> **[0:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980&t=11)** He has at least a 15 year headstart on me and is a true pioneer in [[Data Mining]].
 >
-> **[0:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980&t=17)** The first topic is the cross-industry standard process for data mining, usually just called CRISP-DM.
+> **[0:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980&t=17)** The first topic is the cross-industry standard process for data mining, usually just called [[CRISP-DM]].
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/crisp-dm-and-the-laws-of-data-mining?u=76281980&t=24)** Tom was among several lead authors, but dozens of folks were involved, and CRISP-DM is nearly 20 years old now.
 >
@@ -2204,17 +2163,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[CRISP-DM]] (2)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[CRISP-DM]] (2)
 > **Env Vars:** crisp (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Understanding CRISP-DM
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980)
+#### [Understanding CRISP-DM](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=0)** - [Instructor] So how did CRISP-DM get started?
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=0)** - [Instructor] So how did [[CRISP-DM]] get started?
 >
 > **[0:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=3)** Well, back in the late nineties, the lead authors applied for a grant from the European Union.
 >
@@ -2232,13 +2190,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=41)** Even though folks have had variations on the theme since then, you're going to find that there's a strong resemblance to this basic idea.
 >
-> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=50)** Microsoft, IBM, and AWS have all taken a stab at updating it or evolving it, but understanding the original is still the best way to get started.
+> **[0:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=50)** [[Microsoft]], IBM, and AWS have all taken a stab at updating it or evolving it, but understanding the original is still the best way to get started.
 >
 > **[1:02](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=62)** While there's something to be learned from these other attempts, no one has yet duplicated the time and care that went into the original.
 >
 > **[1:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=72)** It breaks down into six phases.
 >
-> **[1:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=74)** The phases are business understanding, data understanding, data preparation, modeling, evaluation, and deployment.
+> **[1:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=74)** The phases are business understanding, data understanding, [[Data Preparation]], modeling, evaluation, and deployment.
 >
 > **[1:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=84)** But I urge you to read the original document.
 >
@@ -2250,7 +2208,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=103)** For instance, the Business Understanding phase has four tasks.
 >
-> **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=107)** Determine business objectives, assess situation, determine data mining goals, and produce project plan.
+> **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=107)** Determine business objectives, assess situation, determine [[Data Mining]] goals, and produce project plan.
 >
 > **[1:55](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=115)** Every task gets a couple of pages of description, and there are also explicit suggestions for project documentation in addition to the tasks.
 >
@@ -2268,22 +2226,21 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=150)** The time invested will be rewarded.
 >
-> **[2:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=152)** It's a key part of professional development that doesn't get enough attention in most data science training.
+> **[2:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-crisp-dm?u=76281980&t=152)** It's a key part of professional development that doesn't get enough attention in most [[Data Science]] training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), [[CRISP-DM]] (1), [[Microsoft]] (1), aws (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (1), [[Microsoft]] (1), [[Data Preparation]] (1), [[Data Mining]] (1), [[Data Science]] (1)
 > **Env Vars:** crisp (1), ncr (1), ibm (1), aws (1)
 > **CLI Commands:** find (2), aws (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advice for using CRISP-DM
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980)
+#### [Advice for using CRISP-DM](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=0)** - [Instructor] I want to share with you some of my reflections on having used CRISP-DM over my career.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=0)** - [Instructor] I want to share with you some of my reflections on having used [[CRISP-DM]] over my career.
 >
 > **[0:07](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=7)** It's been critical to my professional development, but also how I organize my time and how I delegate tasks to a team.
 >
@@ -2297,11 +2254,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=37)** Typically someone else is sponsoring the project, but there is an implied leadership role here.
 >
-> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=44)** As someone who has to be bilingual, speaking both the language of data mining and the language of the business, it's your job to try to find consensus and common ground, because no one else is in as strong a position to do so.
+> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=44)** As someone who has to be bilingual, speaking both the language of [[Data Mining]] and the language of the business, it's your job to try to find consensus and common ground, because no one else is in as strong a position to do so.
 >
 > **[0:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=59)** Next, data understanding.
 >
-> **[1:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=61)** This phase is often neglected in data science training.
+> **[1:01](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=61)** This phase is often neglected in [[Data Science]] training.
 >
 > **[1:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=65)** Everyone knows that you have to explore your data, but few discuss exactly what that means.
 >
@@ -2311,15 +2268,15 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=89)** The most important consideration is this.
 >
-> **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=91)** Since this phase is sandwiched between business understanding and data preparation, your job is to examine the ability of the data to address the business problem.
+> **[1:31](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=91)** Since this phase is sandwiched between business understanding and [[Data Preparation]], your job is to examine the ability of the data to address the business problem.
 >
 > **[1:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=102)** And where you find it lacking, you're to create a to-do list of repairs and improvements to make during data prep.
 >
 > **[1:51](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=111)** As we've seen, data prep is not just about cleaning.
 >
-> **[1:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=116)** And as we've indicated in the task list for this phase, feature engineering and data integration are critical components.
+> **[1:56](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=116)** And as we've indicated in the task list for this phase, [[Feature Engineering]] and [[Data Integration]] are critical components.
 >
-> **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=126)** Once you address the issues that you've identified during data understanding, you have to shape the data to meet the needs of the modeling algorithms.
+> **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=126)** Once you address the issues that you've identified during data understanding, you have to shape the data to meet the needs of the modeling [[Algorithms]].
 >
 > **[2:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/advice-for-using-crisp-dm?u=76281980&t=137)** In many ways, the modeling phase will be the least of your worries.
 >
@@ -2367,7 +2324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (9), [[CRISP-DM]] (2), leadership (2), next (2)
+> **Frameworks & Libraries:** [[CRISP-DM]] (2), [[Data Mining]] (1), [[Data Science]] (1), [[Data Preparation]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (2), refers to (1)
 > **Env Vars:** crisp (2)
@@ -2376,12 +2333,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the nine laws of data mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980)
+#### [Understanding the nine laws of data mining](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=0)** - [Instructor] When I'm speaking at conferences or training new data scientists, I reference CRISP-DM quite often, but I truly love to quote the nine laws, why?
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=0)** - [Instructor] When I'm speaking at conferences or training new data scientists, I reference [[CRISP-DM]] quite often, but I truly love to quote the nine laws, why?
 >
 > **[0:12](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=12)** Well quoting CRISP-DM is a bit like quoting from a user's guide, but the nine laws are more philosophical in nature and they really capture some subtle but important truths that might take years to figure out on your own.
 >
@@ -2391,27 +2347,26 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=52)** So how did the nine laws come about?
 >
-> **[0:55](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=55)** Well, way back in the eighties and nineties, personal computers gave machine learning and statistics capability to a whole new generation of analysts.
+> **[0:55](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=55)** Well, way back in the eighties and nineties, personal computers gave machine learning and [[Statistics]] capability to a whole new generation of analysts.
 >
 > **[1:03](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=63)** No longer tethered to mainframes with punch cards, there was an explosion in this kind of activity, but a lot of folks were just reinventing how to do it on their own.
 >
 > **[1:14](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=74)** Then CRISP-DM came along and that was a huge help in standardizing a process that the successful data miners were already using.
 >
-> **[1:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=82)** But although CRISP-DM describes how data mining has performed, it does not explain what data mining is or why the process has the properties that it does.
+> **[1:22](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=82)** But although CRISP-DM describes how [[Data Mining]] has performed, it does not explain what data mining is or why the process has the properties that it does.
 >
-> **[1:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=94)** So for Tom, it was just the natural next step and the data science community benefits greatly because reflecting on them will get you to stop and pause for a bit and ponder how all the puzzle pieces fit together.
+> **[1:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=94)** So for Tom, it was just the natural next step and the [[Data Science]] community benefits greatly because reflecting on them will get you to stop and pause for a bit and ponder how all the puzzle pieces fit together.
 >
 > **[1:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-nine-laws-of-data-mining?u=76281980&t=107)** And that will help you navigate your projects more successfully.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[CRISP-DM]] (4), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (4), [[Data Mining]] (2), [[Statistics]] (1), [[Data Science]] (1)
 > **Env Vars:** crisp (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the first and second laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980)
+#### [Understanding the first and second laws](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,17 +2378,17 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=24)** It's our job to make sure that we stay focused on the business problem.
 >
-> **[0:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=29)** The first law is, business objectives are the origin of every data mining solution.
+> **[0:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=29)** The first law is, business objectives are the origin of every [[Data Mining]] solution.
 >
 > **[0:36](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=36)** Computers don't have business objectives, only humans do.
 >
-> **[0:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=40)** So if we're going to successfully collaborate with our modeling algorithms, we must stay laser focused on the business problem.
+> **[0:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=40)** So if we're going to successfully collaborate with our modeling [[Algorithms]], we must stay laser focused on the business problem.
 >
 > **[0:49](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=49)** I love the way that Tom phrases it, "Data mining is not primarily a technology; it's a process which has one or more business objectives at its heart without a business objective, whether or not this is articulated, there is no data mining."
 >
 > **[1:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=65)** The next law addresses a potential misunderstanding.
 >
-> **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=68)** It's common to think that since business understanding is the opening phase of CRISP-DM that you'll focus on business knowledge and your business objectives during this opening phase, but then they'll fade into the background and they don't stay important.
+> **[1:08](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=68)** It's common to think that since business understanding is the opening phase of [[CRISP-DM]] that you'll focus on business knowledge and your business objectives during this opening phase, but then they'll fade into the background and they don't stay important.
 >
 > **[1:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-first-and-second-laws?u=76281980&t=83)** It's really not true.
 >
@@ -2451,14 +2406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), data (5), [[CRISP-DM]] (2), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[CRISP-DM]] (2), [[Algorithms]] (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the data preparation law
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980)
+#### [Understanding the data preparation law](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2468,9 +2422,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=15)** You hear it at a conference, or maybe just chatting at the water cooler.
 >
-> **[0:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=19)** The third law, the data preparation law, gets us thinking about why this is so.
+> **[0:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=19)** The third law, the [[Data Preparation]] law, gets us thinking about why this is so.
 >
-> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=25)** Data preparation is more than half of every data mining process.
+> **[0:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=25)** Data preparation is more than half of every [[Data Mining]] process.
 >
 > **[0:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=32)** F`rankly, this is my favorite law.
 >
@@ -2490,7 +2444,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=70)** Neither is true.
 >
-> **[1:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=73)** What has more truth to it is that data prep in support of business intelligence is changing.
+> **[1:13](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=73)** What has more truth to it is that data prep in support of [[Business Intelligence (BI)|business intelligence]] is changing.
 >
 > **[1:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=80)** And that's absolutely true.
 >
@@ -2504,7 +2458,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=114)** This would be to misunderstand the reasons why data preparation is required in data mining."
 >
-> **[2:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=120)** If you have classical statistics training, you may have been taught to have a very hands-off approach to the data.
+> **[2:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=120)** If you have classical [[Statistics]] training, you may have been taught to have a very hands-off approach to the data.
 >
 > **[2:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=126)** Naturally, you clean and format it, but there's enormous reluctance to be accused of manipulating it in any way.
 >
@@ -2522,7 +2476,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=162)** In the nine laws, it's called problem space shaping.
 >
-> **[2:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=167)** "The purpose of data preparation is to put the data into a form in which the data mining question can be asked and to make it easier for the algorithms to answer it."
+> **[2:47](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=167)** "The purpose of data preparation is to put the data into a form in which the data mining question can be asked and to make it easier for the [[Algorithms]] to answer it."
 >
 > **[2:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-data-preparation-law?u=76281980&t=179)** So data prep isn't just cleaning, nor is it some kind of distraction from the real work.
 >
@@ -2544,15 +2498,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), business (4), [[Algorithms]] (3), [[Analytics]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (6), [[Data Preparation]] (5), [[Algorithms]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the laws about patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980)
+#### [Understanding the laws about patterns](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2578,7 +2531,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=85)** But to be clear, it's not just customers.
 >
-> **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=89)** There are always patterns in any data mining problem.
+> **[1:29](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=89)** There are always patterns in any [[Data Mining]] problem.
 >
 > **[1:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=94)** The reason this works is because the patterns are the inevitable byproduct of running a business.
 >
@@ -2598,13 +2551,13 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=169)** Also virtually all problems require more than one model, so how you carve up the problem is part of the solution only a human can do that.
 >
-> **[2:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=179)** The data miner continues to manipulate or shapes the problem space by data preparation and every change to the data changes the model.
+> **[2:59](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=179)** The data miner continues to manipulate or shapes the problem space by [[Data Preparation]] and every change to the data changes the model.
 >
 > **[3:11](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=191)** Also there's no single technical metric that you can reliably use to say that this model is best.
 >
 > **[3:19](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=199)** Now the value law is going to discuss this in detail.
 >
-> **[3:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=203)** As your business knowledge evolves, so might the business objective and algorithms can't do this on their own.
+> **[3:23](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=203)** As your business knowledge evolves, so might the business objective and [[Algorithms]] can't do this on their own.
 >
 > **[3:32](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-laws-about-patterns?u=76281980&t=212)** So how do you leverage these insights into the nature of patterns in your data?
 >
@@ -2614,14 +2567,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (6), [[Algorithms]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[Algorithms]] (2), [[Data Preparation]] (1)
 > **CLI Commands:** find (3)
 > **Best Practices:** you should always (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the insight and prediction laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-insight-and-prediction-laws?u=76281980)
+#### [Understanding the insight and prediction laws](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-insight-and-prediction-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2643,7 +2595,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-insight-and-prediction-laws?u=76281980&t=34)** And I love his phrase, "A bicycle of the mind", something that takes us far beyond our inherent abilities.
 >
-> **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-insight-and-prediction-laws?u=76281980&t=43)** Our next law makes a similar observation about data mining.
+> **[0:43](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-insight-and-prediction-laws?u=76281980&t=43)** Our next law makes a similar observation about [[Data Mining]].
 >
 > **[0:48](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-insight-and-prediction-laws?u=76281980&t=48)** Data mining amplifies perception in the business domain.
 >
@@ -2675,14 +2627,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), next (1)
+> **Frameworks & Libraries:** [[Data Mining]] (4)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the value law
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980)
+#### [Understanding the value law](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2696,7 +2647,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=40)** It was too complicated to be practical.
 >
-> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=44)** The value of data mining results is not determined by the accuracy or stability of predictive models.
+> **[0:44](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=44)** The value of [[Data Mining]] results is not determined by the accuracy or stability of predictive models.
 >
 > **[0:52](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=52)** Obviously, we're not indifferent to accuracy or stability, but this law reminds us that there are other considerations too.
 >
@@ -2708,11 +2659,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=80)** But once you determine several semifinalists using technical criteria, you must use a more comprehensive set of criteria.
 >
-> **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=90)** Specifically, they should be things like business metrics and ROI.
+> **[1:30](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=90)** Specifically, they should be things like [[Business Metrics]] and ROI.
 >
 > **[1:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=95)** As Tom puts it, "Data miners should not focus on predictive accuracy, model stability, or any other technical metric for predictive models at the expense of business insight and business fit".
 >
-> **[1:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=110)** Colin Shearer is another one of the thought leaders behind CRISP-DM.
+> **[1:50](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=110)** Colin Shearer is another one of the thought leaders behind [[CRISP-DM]].
 >
 > **[1:54](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-the-value-law?u=76281980&t=114)** I love the way that he likes to describe it.
 >
@@ -2726,13 +2677,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (2), [[CRISP-DM]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Business Metrics]] (1), [[CRISP-DM]] (1)
 > **Env Vars:** dvd (1), roi (1), crisp (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding why models change
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980)
+#### [Understanding why models change](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2750,7 +2700,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=35)** So what causes this?
 >
-> **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=37)** We're not uncovering laws of nature when we build data mining models.
+> **[0:37](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=37)** We're not uncovering laws of nature when we build [[Data Mining]] models.
 >
 > **[0:41](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=41)** It's always a study in human behavior, and not only something uniquely human like shopping.
 >
@@ -2760,7 +2710,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=58)** Less obviously, we are changing, because our understanding of the data is evolving too.
 >
-> **[1:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=65)** So eventually it's not just the work done by the modeling algorithm that has degraded, but all of the work done during all of the CRISP-DM phases, including business understanding.
+> **[1:05](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=65)** So eventually it's not just the work done by the modeling algorithm that has degraded, but all of the work done during all of the [[CRISP-DM]] phases, including business understanding.
 >
 > **[1:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=77)** Tomorrow's data may look superficially similar, but it will have a different context.
 >
@@ -2786,11 +2736,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=141)** Those are the final two laws.
 >
-> **[2:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=144)** When combined with the essential elements in CRISP-DM, the laws of data mining provide a firm foundation in the what, how to, and why of predictive analytics.
+> **[2:24](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/understanding-why-models-change?u=76281980&t=144)** When combined with the essential elements in CRISP-DM, the laws of data mining provide a firm foundation in the what, how to, and why of [[Predictive Analytics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[CRISP-DM]] (2), business (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (2), [[CRISP-DM]] (2), [[Predictive Analytics]] (1)
 > **Env Vars:** crisp (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -2800,12 +2750,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=0)** - [Keith] I hope that you've enjoyed our journey together as we've discussed the essential elements of data mining and predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=0)** - [Keith] I hope that you've enjoyed our journey together as we've discussed the essential elements of [[Data Mining]] and [[Predictive Analytics]].
 >
 > **[0:06](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=6)** If you have an upcoming project, or perhaps you've even already started a project, I hope you'll use these insights to double-check and see if you've incorporated all of these elements into your project strategy and design.
 >
@@ -2819,13 +2768,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=52)** Three topics that are discussed briefly in this course get in-depth treatment in courses of their own.
 >
-> **[1:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=60)** The data understanding phase is discussed in the data assessment course, return on investment is addressed in a course of its own, and there's a series of courses that begins with introduction to classification, and that culminates in a course about ensembles and meta modeling.
+> **[1:00](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=60)** The data understanding phase is discussed in the [[Data Assessment]] course, return on investment is addressed in a course of its own, and there's a series of courses that begins with introduction to classification, and that culminates in a course about ensembles and meta modeling.
 >
-> **[1:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=77)** I hope that you'll follow me on LinkedIn, take advantage of the Q and A feature there, and I look forward to interacting with you online.
+> **[1:17](https://www.linkedin.com/learning/predictive-analytics-essential-training-data-mining/next-steps?u=76281980&t=77)** I hope that you'll follow me on [[LinkedIn]], take advantage of the Q and A feature there, and I look forward to interacting with you online.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Predictive Analytics]] (1), management (1), [[LinkedIn]] (1), feature (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Predictive Analytics]] (1), [[Data Assessment]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [keith] (1)
 
 

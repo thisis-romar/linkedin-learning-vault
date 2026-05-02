@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design better presentations in Canva
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980)
+#### [Design better presentations in Canva](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980&t=0)** - [Narrator] This course is designed for business professionals and educators who are looking to get better at designing presentations in Canva.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980&t=0)** - [Narrator] This course is designed for business professionals and educators who are looking to get better at designing presentations in [[Canva]].
 >
 > **[0:08](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980&t=8)** In this course, we'll discuss some of the key design principles to take some of the guesswork out of slide design to help you create presentations that are tailored to your audience's needs, your speaking environment, and the purpose of your message.
 >
@@ -94,36 +93,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (2), business (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Canva]] (2)
 > **Cross-References:** coming up (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980&t=0)** - [Narrator] To get the most out of this course, I strongly recommend being at least somewhat familiar with the basics of Canva, at minimum, the various subscription levels and features that are available with a Pro account.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980&t=0)** - [Narrator] To get the most out of this course, I strongly recommend being at least somewhat familiar with the basics of [[Canva]], at minimum, the various subscription levels and features that are available with a Pro account.
 >
-> **[0:12](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980&t=12)** During this course, I will be using a Pro level subscription and demonstrating features available on the Canva for Windows desktop application.
+> **[0:12](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980&t=12)** During this course, I will be using a Pro level subscription and demonstrating features available on the Canva for [[Windows]] desktop application.
 >
 > **[0:21](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/what-you-should-know?u=76281980&t=21)** That said, you don't necessarily need a Pro level subscription to learn from this course as this is a fundamental design course first and a Canva course second.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (3), [[Windows]] (1), application (1)
+> **Frameworks & Libraries:** [[Canva]] (3), [[Windows]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980&t=0)** - [Narrator] To follow along with this course, we'll be using a lot of assets available through Canva.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980&t=0)** - [Narrator] To follow along with this course, we'll be using a lot of assets available through [[Canva]].
 >
-> **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980&t=6)** Some assets, however, you will need to download through the LinkedIn Learning course page.
+> **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980&t=6)** Some assets, however, you will need to download through the [[LinkedIn]] Learning course page.
 >
 > **[0:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/exercise-files?u=76281980&t=11)** Just navigate to right below the video player, click on the Show All link besides exercise files, and then click the Download button to download the files to your computer.
 >
@@ -147,8 +144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design pillars
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980)
+#### [Design pillars](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,11 +156,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=17)** Take anyone of these pillars away and your design isn't as structurally sound.
 >
-> **[0:23](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=23)** To design for your audience in Canva, the first thing I tell anyone when I talk about presentations or effective communication is that communication is about community.
+> **[0:23](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=23)** To design for your audience in [[Canva]], the first thing I tell anyone when I talk about presentations or effective communication is that communication is about community.
 >
 > **[0:36](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=36)** Chances are the goal of your presentation is to inspire action, change, or to inform or educate.
 >
-> **[0:46](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=46)** The word "educate" comes from a Latin root that means "to lead out."
+> **[0:46](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=46)** The [[Microsoft Word|word]] "educate" comes from a Latin root that means "to lead out."
 >
 > **[0:52](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=52)** Where do you want to lead your audience and why them specifically?
 >
@@ -174,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=84)** In other words, will your audience be viewing your slides in a large screen, a tablet, or a small mobile device?
 >
-> **[1:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=93)** The environment will determine the constraints for presentation design, like how large text needs to be to be clear, legible and readable for your audience.
+> **[1:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=93)** The environment will determine the constraints for [[Presentation Design]], like how large text needs to be to be clear, legible and readable for your audience.
 >
 > **[1:45](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=105)** For the last pillar, message.
 >
@@ -202,24 +198,22 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=198)** And that is a quick overview of how our three pillars, audience, environment and message, all work together to help support your overall total design and presentation.
 >
-> **[3:30](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=210)** And don't worry, we'll be talking about this repeatedly throughout the rest of our course.
+> **[3:30](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980&t=210)** And don't worry, we'll be talking about this repeatedly throughout the [[Representational State Transfer (REST)|rest]] of our course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (2), [[Microsoft Word|Word]] (1), next (1), [[Presentation Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Canva]] (2), [[Microsoft Word|Word]] (1), [[Presentation Design]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key Gestalt design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/key-gestalt-design-principles?u=76281980)
+#### [Key Gestalt design principles](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/key-gestalt-design-principles?u=76281980)
 
-#### Designing for everyone
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980)
+#### [Designing for everyone](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=0)** - [Instructor] Another important aspect of presentation design is ensuring that your audience, no matter who they are or their abilities, can read, see, hear, and understand your presentation no matter the published format or environment.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=0)** - [Instructor] Another important aspect of [[Presentation Design]] is ensuring that your audience, no matter who they are or their abilities, can read, see, hear, and understand your presentation no matter the published format or environment.
 >
 > **[0:17](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=17)** Typically, this is referred to as accessibility.
 >
@@ -235,13 +229,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=64)** Designing for everyone benefits everyone too.
 >
-> **[1:09](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=69)** For example, when you take the time to create handouts for people in your audience who have trouble seeing the screen, the rest of your audience benefit from these handouts too.
+> **[1:09](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=69)** For example, when you take the time to create handouts for people in your audience who have trouble seeing the screen, the [[Representational State Transfer (REST)|rest]] of your audience benefit from these handouts too.
 >
-> **[1:20](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=80)** The Web Accessibility Initiative has a great page on their website about how to make presentations accessible to all.
+> **[1:20](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=80)** The [[Web Accessibility]] Initiative has a great page on their website about how to make presentations accessible to all.
 >
 > **[1:29](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=89)** I invite you to pause the video and browse through these guidelines before continuing.
 >
-> **[1:35](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=95)** Throughout this course, we'll be talking about accessibility tools in Canva, the good, the bad, and the "oh, why doesn't it work?"
+> **[1:35](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=95)** Throughout this course, we'll be talking about accessibility tools in [[Canva]], the good, the bad, and the "oh, why doesn't it work?"
 >
 > **[1:43](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-for-everyone?u=76281980&t=103)** along with things you can do in and outside of Canva to make your presentations more accessible.
 >
@@ -264,12 +258,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting from a template
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980)
+#### [Starting from a template](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=0)** - [Instructor] In this movie, to follow along, head over to [canva.com](https://canva.com), create an account if you don't have one already, and log in.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=0)** - [Instructor] In this movie, to follow along, head over to [[[Canva]].com](https://canva.com), create an account if you don't have one already, and log in.
 >
 > **[0:08](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980&t=8)** Personally, I will be using the Canva desktop app, which I have over right here.
 >
@@ -417,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (6), hit (3), [[Search]] (2), next (2), game (1)
+> **Frameworks & Libraries:** [[Canva]] (6)
 > **Exercise Files:** template (13)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Analogies:** kind of like (2), similar to (1)
@@ -426,8 +419,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Using proximity to group related elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980)
+#### [Using proximity to group related elements](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,7 +465,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=152)** Okay.
 >
-> **[2:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=153)** Now, how a lot of templates work in Canva is a lot of designers like to use images as part of the background.
+> **[2:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=153)** Now, how a lot of templates work in [[Canva]] is a lot of designers like to use images as part of the background.
 >
 > **[2:42](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=162)** And right now, I've just dragged and dropped this image here, but if you right-click and then choose the option Replace Background, now this image is part of the background, and if then you double-click on it, then you can tweak how that image is sized and placed within that background.
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=203)** So, I'm going to double-click again, and make that a little bit bigger, and then move it over, just like that.
 >
-> **[3:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=213)** And I'm actually going to zoom out and do it again, just like that, and then off.
+> **[3:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=213)** And I'm actually going to [[Zoom]] out and do it again, just like that, and then off.
 >
 > **[3:43](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=223)** But now it is blocking some text, and I definitely don't want that, so I'm just going to keep playing with it.
 >
@@ -495,7 +487,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=242)** I kind of like the position of it now, but I definitely don't like the colors of the image.
 >
-> **[4:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=251)** I think they clash a little bit with what I have going on in the rest of the slide.
+> **[4:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=251)** I think they clash a little bit with what I have going on in the [[Representational State Transfer (REST)|rest]] of the slide.
 >
 > **[4:21](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-proximity-to-group-related-elements?u=76281980&t=261)** So, I can always go up to Edit Image, and this is a very fun option here, Duotone.
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Canva]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Canva]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** double-click (2), go to (1), right-click (1)
 > **Exercise Files:** template (3)
@@ -520,8 +512,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating space to make your message clear
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-space-to-make-your-message-clear?u=76281980)
+#### [Creating space to make your message clear](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-space-to-make-your-message-clear?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +596,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), ai (1), hit (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ing (2)
 > **UI Navigation:** select the (1), click on (1)
@@ -613,12 +603,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using similarity and contrast to create a visual hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980)
+#### [Using similarity and contrast to create a visual hierarchy](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=0)** - [Instructor] Continuing on with our presentation, I've gone ahead and made some additional slides and changes to our Heat Exhaustion Mobile Presentation for Hikers in Canva.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=0)** - [Instructor] Continuing on with our presentation, I've gone ahead and made some additional slides and changes to our Heat Exhaustion Mobile Presentation for Hikers in [[Canva]].
 >
 > **[0:10](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=10)** And if you look down at the very bottom, you can see that there are now 13 slides.
 >
@@ -640,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=66)** So let's ask ourselves: On this slide, what is different, and is that where we want our viewers' attention to go?
 >
-> **[1:17](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=77)** So looking at this, what is different compared to the rest of the slides, compared to this one, and this one, and this one, and this one?
+> **[1:17](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=77)** So looking at this, what is different compared to the [[Representational State Transfer (REST)|rest]] of the slides, compared to this one, and this one, and this one, and this one?
 >
 > **[1:26](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/using-similarity-and-contrast-to-create-a-visual-hierarchy?u=76281980&t=86)** Well, the layout's different, yes, but in terms of colors, and structure, and all the other elements, it's this background photo.
 >
@@ -708,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (2), [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[Canva]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), double-click (1)
 > **Analogies:** for example (2)
@@ -720,18 +709,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why branding matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980)
+#### [Why branding matters](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=0)** - [Narrator] So I'm not going to spend a ton of time talking about why branding matters to you or your business.
 >
-> **[0:07](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=7)** We have a ton of courses and videos on LinkedIn Learning that talk about just that.
+> **[0:07](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=7)** We have a ton of courses and videos on [[LinkedIn]] Learning that talk about just that.
 >
 > **[0:14](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=14)** Just search LinkedIn Learning for building a brand or branding, and you'll find oh so many courses on that topic.
 >
-> **[0:22](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=22)** But for now, I do want to reiterate that to follow along with this section of the course, you will need at minimum a Canva Pro subscription.
+> **[0:22](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=22)** But for now, I do want to reiterate that to follow along with this section of the course, you will need at minimum a [[Canva]] Pro subscription.
 >
 > **[0:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980&t=33)** That's what this little crown means next to that brand label in the menu.
 >
@@ -743,14 +731,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), business (1), [[Search]] (1), [[Canva]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Canva]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** in the menu (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Choosing accessible brand colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980)
+#### [Choosing accessible brand colors](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -758,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=6)** Luckily, there are several places on the web where you can get some inspiration for color.
 >
-> **[0:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=11)** The first place being [Canva.com](https://Canva.com)'s own color palette generator.
+> **[0:11](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=11)** The first place being [[[Canva]].com](https://Canva.com)'s own color palette generator.
 >
 > **[0:16](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/choosing-accessible-brand-colors?u=76281980&t=16)** From this site, you can either upload your own image or explore some other color palette ideas by clicking the button Try Demo Image.
 >
@@ -786,17 +773,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Canva]] (1)
+> **Frameworks & Libraries:** [[Canva]] (1)
 > **URLs:** [canva.com](https://canva.com) (1), [adobe.com](https://adobe.com) (1)
 > **Env Vars:** wcag (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your brand kit
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980)
+#### [Creating your brand kit](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=0)** - [Instructor] One thing that Canva does better than most other presentation apps is making it really easy to build and manage assets for brands with other team members.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=0)** - [Instructor] One thing that [[Canva]] does better than most other presentation apps is making it really easy to build and manage assets for brands with other team members.
 >
 > **[0:10](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=10)** And all of that starts with building a brand kit in Canva.
 >
@@ -814,7 +800,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=73)** And scrolling down even more, we've got a list of fonts.
 >
-> **[1:17](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=77)** Now for the purposes of this course, we're going to be choosing typography that is in spirit of these.
+> **[1:17](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=77)** Now for the purposes of this course, we're going to be choosing [[Typography]] that is in spirit of these.
 >
 > **[1:25](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=85)** So we're going to be ignoring the brand guidelines for typography just a little bit.
 >
@@ -842,7 +828,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=159)** Now you can see here I've got a couple of brand kits already made.
 >
-> **[2:42](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=162)** I've got my own and I've got one for one of my volunteer activities for M365 Chicago Community Days.
+> **[2:42](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=162)** I've got my own and I've got one for one of my volunteer activities for [[Microsoft 365|M365]] Chicago Community Days.
 >
 > **[2:50](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=170)** To build a brand new brand kit, all we've got to do is click Add new and then give our brand kit a brand new name.
 >
@@ -850,7 +836,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=184)** Now once you've created it, now you can organize it any way you like, and I'm going to add it to the course folder that I have.
 >
-> **[3:12](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=192)** So I'm going to scroll down, find that LinkedIn Learning Canva Design, and I'm going to place that in Chapter 3.
+> **[3:12](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=192)** So I'm going to scroll down, find that [[LinkedIn]] Learning Canva Design, and I'm going to place that in Chapter 3.
 >
 > **[3:18](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=198)** And then choose Add Brand Kit.
 >
@@ -926,7 +912,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=374)** And now that I'm done with my colors, I can move on down to my fonts.
 >
-> **[6:20](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=380)** So let me zoom out here.
+> **[6:20](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=380)** So let me [[Zoom]] out here.
 >
 > **[6:23](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/creating-your-brand-kit?u=76281980&t=383)** Here we've got our typography.
 >
@@ -998,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (6), [[Typography]] (3), [[Microsoft 365|M365]] (1), [[LinkedIn]] (1), feature (1)
+> **Frameworks & Libraries:** [[Canva]] (6), [[Typography]] (3), [[Microsoft 365|M365]] (1), [[LinkedIn]] (1), [[Zoom]] (1)
 > **UI Navigation:** scroll down (5), click on (2), scroll up (1), drag and drop (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
@@ -1007,14 +993,13 @@ created: 2026-05-02
 > **Documentation:** reference guide (1)
 > **Exercise Files:** exercise files (1)
 
-#### Designing a brand template
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-a-brand-template?u=76281980)
+#### [Designing a brand template](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-a-brand-template?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-a-brand-template?u=76281980&t=0)** - [Instructor] So now that we've created a brand kit for The Lakehouse, the next step is to begin building a brand template for that Lakehouse.
 >
-> **[0:09](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-a-brand-template?u=76281980&t=9)** So jumping over to Brand Templates, you can see that Canva is going to tell us brand features work best when collaborating in a team.
+> **[0:09](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-a-brand-template?u=76281980&t=9)** So jumping over to Brand Templates, you can see that [[Canva]] is going to tell us brand features work best when collaborating in a team.
 >
 > **[0:19](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/designing-a-brand-template?u=76281980&t=19)** And sure, if you are working with other people, absolutely, create a team and then invite those team members to collaborate with you on that team template.
 >
@@ -1128,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (4), next (2), hit (1)
+> **Frameworks & Libraries:** [[Canva]] (4)
 > **UI Navigation:** click on (7), drag and drop (2), dropdown (1), select the (1), go to (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3)
@@ -1140,12 +1125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Checking presentations for accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980)
+#### [Checking presentations for accessibility](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=0)** - [Instructor] So jumping back to the file that we were using in a previous chapter, a lot of people don't realize this, but Canva does have some tools for checking accessibility in any file.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=0)** - [Instructor] So jumping back to the file that we were using in a previous chapter, a lot of people don't realize this, but [[Canva]] does have some tools for checking accessibility in any file.
 >
 > **[0:15](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=15)** Granted, those accessibility features are pretty buried.
 >
@@ -1153,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=28)** So, clicking on that, that will open up the Design Accessibility pane in Canva, and it will show any issues that you may have.
 >
-> **[0:38](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=38)** And these will be organized by typography, color contrast, and alternative text.
+> **[0:38](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=38)** And these will be organized by [[Typography]], color contrast, and alternative text.
 >
 > **[0:44](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=44)** And as you can see, there are a ton of alternative text issues here.
 >
@@ -1171,7 +1155,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=84)** And this is a good part of Canva.
 >
-> **[1:28](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=88)** I know in PowerPoint, it's not that good at comparing the text color, like of a text box compared to any images that are behind it, but here in Canva, it seems to be doing a very good job at comparing this text box to what is in the background of it.
+> **[1:28](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=88)** I know in [[Microsoft PowerPoint|PowerPoint]], it's not that good at comparing the text color, like of a text box compared to any images that are behind it, but here in Canva, it seems to be doing a very good job at comparing this text box to what is in the background of it.
 >
 > **[1:47](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980&t=107)** And it is giving some suggestions of maybe a different text color to help with that contrast, so I can change that there to have a higher text contrast.
 >
@@ -1193,20 +1177,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (5), [[Typography]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Canva]] (5), [[Typography]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** previous chapter (1), go back to (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking for color contrast
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-for-color-contrast?u=76281980)
+#### [Checking for color contrast](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-for-color-contrast?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-for-color-contrast?u=76281980&t=0)** - [Instructor] Now, in the previous movie, yes, I did say that the color contrast checker did work very well.
 >
-> **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-for-color-contrast?u=76281980&t=6)** But there is something that is, it could be a little bit better, in that it doesn't really tell us what level the color contrast is checking in Canva, is it AA, is it AAA?
+> **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-for-color-contrast?u=76281980&t=6)** But there is something that is, it could be a little bit better, in that it doesn't really tell us what level the color contrast is checking in [[Canva]], is it AA, is it AAA?
 >
 > **[0:22](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-for-color-contrast?u=76281980&t=22)** We don't really know, it's kind of a mystery.
 >
@@ -1261,8 +1244,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing alternative text
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980)
+#### [Writing alternative text](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1268,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=88)** Yet, our tool here is flagging that is not having alternative text.
 >
-> **[1:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=93)** So luckily in Canva, we can do that.
+> **[1:33](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=93)** So luckily in [[Canva]], we can do that.
 >
 > **[1:37](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=97)** So clicking this button here, we have an option here to write alternative text or flag that with this checkbox as mark as decorative, and then click Save.
 >
@@ -1366,7 +1348,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=347)** You definitely will have alt text preserved in that, and PowerPoints as well.
 >
-> **[5:54](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=354)** But with PowerPoint, I'm just going to show you this real quick.
+> **[5:54](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=354)** But with [[Microsoft PowerPoint|PowerPoint]], I'm just going to show you this real quick.
 >
 > **[5:57](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/writing-alternative-text?u=76281980&t=357)** Go ahead and download that as a PowerPoint presentation.
 >
@@ -1434,7 +1416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (11), [[Canva]] (4), web (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (11), [[Canva]] (4)
 > **Analogies:** picture (6), for example (2), kind of like (1)
 > **UI Navigation:** go to (4), checkbox (1), click on (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1448,24 +1430,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=0)** - [Instructor] Thanks for completing this course, and be sure to check out [linkedin.com](https://linkedin.com) for other Canva content.
+> **[0:00](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=0)** - [Instructor] Thanks for completing this course, and be sure to check out [[[LinkedIn]].com](https://linkedin.com) for other [[Canva]] content.
 >
 > **[0:06](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=6)** There are a ton of videos and courses on Canva on LinkedIn Learning.
 >
 > **[0:12](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=12)** And while you're at it, you might as well also search for design courses as well.
 >
-> **[0:18](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=18)** There's a lot on graphic design, and a lot on design theory, design thinking, so be sure to check that out as well.
+> **[0:18](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=18)** There's a lot on [[Graphic Design]], and a lot on design theory, [[Design Thinking]], so be sure to check that out as well.
 >
 > **[0:28](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980&t=28)** Searching for content on both design and Canva will help you create better presentations and better designs in Canva.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Canva]] (4), [[LinkedIn]] (2), [[Search]] (1), [[Graphic Design]] (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Canva]] (4), [[LinkedIn]] (2), [[Graphic Design]] (1), [[Design Thinking]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Speakers:** - [instructor] (1)
 

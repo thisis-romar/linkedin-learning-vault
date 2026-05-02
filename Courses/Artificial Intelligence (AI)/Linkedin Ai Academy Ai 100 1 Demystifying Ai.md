@@ -75,26 +75,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The LinkedIn AI Academy: The imperative of understanding AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980)
+#### [The LinkedIn AI Academy: The imperative of understanding AI](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=0)** - There is so much talk about artificial intelligence right now, and maybe you're a little apprehensive, or maybe you are excited that AI will make our lives easy.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=0)** - There is so much talk about [[Artificial Intelligence (AI)|artificial intelligence]] right now, and maybe you're a little apprehensive, or maybe you are excited that AI will make our lives easy.
 >
 > **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=11)** In this course, we will try to talk about what AI is, how it works at a high level, and also the power that this might bring.
 >
 > **[0:19](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=19)** We'll go into some of the important tasks that happen in AI, like regression and classification.
 >
-> **[0:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=24)** We will start with simple techniques, like linear regression and slowly build up to do more complex topics, like non-linear models, and neural networks.
+> **[0:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=24)** We will start with simple techniques, like [[Linear Regression]] and slowly build up to do more complex topics, like non-linear models, and [[Neural Networks]].
 >
-> **[0:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=34)** I'm Shouvik Ghosh, I'm a director of engineering in AI here at LinkedIn, I lead a team of scientists and engineers building AI methods, and technologies that power LinkedIn so join me in this LinkedIn Learning course as we demystify AI.
+> **[0:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=34)** I'm Shouvik Ghosh, I'm a director of engineering in AI here at [[LinkedIn]], I lead a team of scientists and engineers building AI methods, and technologies that power LinkedIn so join me in this LinkedIn Learning course as we demystify AI.
 >
 > **[0:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980&t=50)** (gentle music)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (3), power (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 > **Non-Speech:** (gentle music) (1)
@@ -104,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980)
+#### [What is AI?](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=0)** - [Instructor] This is a course about artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=0)** - [Instructor] This is a course about [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=3)** But before we go into artificial intelligence, let's talk about intelligence itself.
 >
@@ -147,21 +145,21 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=118)** Artificial intelligence constitutes many branches of science and engineering.
 >
-> **[2:02](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=122)** For example, say we will need components like statistics, economics, machine learning logical reasoning, mathematical optimization, and possibly all of them coming together to enable AI.
+> **[2:02](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=122)** For example, say we will need components like [[Statistics]], economics, machine learning logical reasoning, mathematical optimization, and possibly all of them coming together to enable AI.
 >
-> **[2:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=135)** On the hardware side, we need better chips, better ability to process data at large scale, and better devices, and a lot more.
+> **[2:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=135)** On the [[Hardware]] side, we need better chips, better ability to process data at large scale, and better devices, and a lot more.
 >
-> **[2:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=144)** Now, artificial intelligence is gaining a lot of popularity these days, but the term was actually coined in the 1950s by John McCarthy and his colleagues.
+> **[2:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=144)** Now, artificial intelligence is gaining a lot of popularity these days, but the term was actually coined in the 1950s by [[John the Ripper|John]] McCarthy and his colleagues.
 >
 > **[2:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=154)** Now, some of the tools that are used in artificial intelligence actually go a long back.
 >
-> **[2:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=160)** For example, the tool like linear regression was developed by Adrian Legendre in 1805, like 200 years ago, when he was studying the paths of comets.
+> **[2:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=160)** For example, the tool like [[Linear Regression]] was developed by Adrian Legendre in 1805, like 200 years ago, when he was studying the paths of comets.
 >
 > **[2:52](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=172)** Today, we have made lots of progress.
 >
-> **[2:55](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=175)** Simple AI or machine learning algorithms are all around us and we may not even realize it.
+> **[2:55](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=175)** Simple AI or machine learning [[Algorithms]] are all around us and we may not even realize it.
 >
-> **[3:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=180)** It ranges from tools like cameras at toll booths that detect the number plates, to algorithms that safeguard our credit card activities from fraud, to applications like LinkedIn that help professionals be more successful.
+> **[3:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=180)** It ranges from tools like cameras at toll booths that detect the number plates, to algorithms that safeguard our credit card activities from fraud, to applications like [[LinkedIn]] that help professionals be more successful.
 >
 > **[3:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980&t=195)** AI programs today are good at a variety of prediction tasks and detection tasks.
 >
@@ -195,17 +193,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (7), [[Engineering]] (2), [[Algorithms]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (7), [[Algorithms]] (2), [[LinkedIn]] (2), [[Statistics]] (1), [[Hardware]] (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### AI and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980)
+#### [AI and machine learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=0)** - [Instructor] In this series we are talking generally about artificial intelligence but most of the topics are actually machine learning.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=0)** - [Instructor] In this series we are talking generally about [[Artificial Intelligence (AI)|artificial intelligence]] but most of the topics are actually machine learning.
 >
 > **[0:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=8)** Some people use these terms interchangeably but that's not quite correct.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=29)** Machine learning is a subfield of AI which is a lot more like mimicry.
 >
-> **[0:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=35)** It looks at past data and looks at the actions taken in the past and then tries to replicate that in future situations using algorithms.
+> **[0:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=35)** It looks at past data and looks at the actions taken in the past and then tries to replicate that in future situations using [[Algorithms]].
 >
 > **[0:44](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/ai-and-machine-learning?u=76281980&t=44)** Concepts like logic or abstraction or generalization are pretty limited in machine learning at the moment.
 >
@@ -249,13 +246,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), game (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Three pillars of AI: Objectives, data, algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980)
+#### [Three pillars of AI: Objectives, data, algorithms](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=53)** The third is how the program would learn from that data.
 >
-> **[0:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=57)** That is, the algorithms and things that we would want to apply to extract the important elements from the data that can be applied in future situations.
+> **[0:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=57)** That is, the [[Algorithms]] and things that we would want to apply to extract the important elements from the data that can be applied in future situations.
 >
 > **[1:07](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=67)** We are going to spend most of this course talking about the third pillar, the algorithms, but let's look at the first two pillars in a bit more details here.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=160)** The program will be taking in all this information and try to design a mechanism to replicate the best driving behavior in the future.
 >
-> **[2:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=169)** Let's look at a final example, which is very core to what we do at LinkedIn; recommending jobs to members who are looking for a change in their career or in their professional life.
+> **[2:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=169)** Let's look at a final example, which is very core to what we do at [[LinkedIn]]; recommending jobs to members who are looking for a change in their career or in their professional life.
 >
 > **[3:01](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/three-pillars-of-ai-objectives-data-algorithms?u=76281980&t=181)** A member who is seeking a job uses the LinkedIn app or our website, and we recommend to them a job that he or she might be interested in.
 >
@@ -327,13 +323,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Algorithms]] (4), [[LinkedIn]] (4), game (3), next (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[LinkedIn]] (4)
 > **Cross-References:** we discussed (1), in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)
 
-#### Building real AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980)
+#### [Building real AI applications](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=35)** Similarly, to get an AI solution and get it right, it takes many iterations.
 >
-> **[0:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=41)** As we discussed in the last section, building AI solutions, especially through machine learning as we do today, has three main components: the objective, the data, and the algorithms.
+> **[0:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=41)** As we discussed in the last section, building [[AI Solutions]], especially through machine learning as we do today, has three main components: the objective, the data, and the [[Algorithms]].
 >
 > **[0:53](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=53)** And we need to iterate through all these three components to build real AI applications.
 >
@@ -417,11 +412,11 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=274)** Another extremely important aspect of building real AI applications is the infrastructure.
 >
-> **[4:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=280)** To power advanced algorithms that work on large data sets, the hardware and infrastructure needs to improve as well.
+> **[4:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=280)** To power advanced algorithms that work on large data sets, the [[Hardware]] and infrastructure needs to improve as well.
 >
 > **[4:47](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=287)** Some of the large companies today will depend on infrastructure consisting of millions of computers, processing petabytes of data to create experiences that delight millions of members.
 >
-> **[5:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=300)** At LinkedIn, we have invested in improving our applications over many years.
+> **[5:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=300)** At [[LinkedIn]], we have invested in improving our applications over many years.
 >
 > **[5:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/building-real-ai-applications?u=76281980&t=305)** Today we have state-of-art machine learning algorithms, powering probably every LinkedIn product, including the LinkedIn feed, job recommendations, connecting candidates to recruiters, connecting members to other members, and a lot more.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (5), [[Algorithms]] (5), next (3), [[LinkedIn]] (3)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[LinkedIn]] (3), [[AI Solutions]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3), imagine (2)
 > **Cross-References:** we discussed (1), in the last (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -443,12 +438,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supervised learning vs. unsupervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980)
+#### [Supervised learning vs. unsupervised learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=0)** - [Instructor] Now that we know what artificial intelligence is and what we need to create AI or ML models let's talk about the big distinction in the type of ML methods that are supervised and unsupervised learning.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=0)** - [Instructor] Now that we know what [[Artificial Intelligence (AI)|artificial intelligence]] is and what we need to create AI or ML models let's talk about the big distinction in the type of ML methods that are supervised and unsupervised learning.
 >
 > **[0:14](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=14)** In supervised methods, we have a mechanism of telling the model what the target is.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=51)** Because we have decided that these labels are correct we can use them to get a precise notion of what error the model has.
 >
-> **[0:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=59)** One of the trade-offs with supervised learning is that the methods are task specific and might not necessarily translate outside of the data you have provided.
+> **[0:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=59)** One of the trade-offs with [[Supervised Learning]] is that the methods are task specific and might not necessarily translate outside of the data you have provided.
 >
 > **[1:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=69)** For example, unless explicitly trained on a model might not be able to distinguish a horse from a zebra, there are some situations where we don't have predefined labels.
 >
@@ -490,13 +484,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=149)** So you can start with one and begin modeling.
 >
-> **[2:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=152)** We are going to focus on supervised learning throughout this course, but if you want to know more about unsupervised learning check out some other courses here in the LinkedIn Learning Library.
+> **[2:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=152)** We are going to focus on supervised learning throughout this course, but if you want to know more about unsupervised learning check out some other courses here in the [[LinkedIn]] Learning Library.
 >
 > **[2:43](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980&t=163)** So now that we know the difference, let's start digging more into some supervised learning methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Supervised Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1)
 > **Analogies:** for instance (2), picture (1), for example (1)
 > **CLI Commands:** cat (1), find (1)
 > **Tools:** notion (1)
@@ -507,8 +501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is regression?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980)
+#### [What is regression?](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,9 +509,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=3)** This has to do with predicting things, even before they have occurred, using signals that are available.
 >
-> **[0:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=10)** Let's look at an example that can help you understand this concept and also recollect what might have been high school statistics lessons for many of us.
+> **[0:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=10)** Let's look at an example that can help you understand this concept and also recollect what might have been high school [[Statistics]] lessons for many of us.
 >
-> **[0:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=20)** For our example, we have chosen the LinkedIn feed.
+> **[0:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=20)** For our example, we have chosen the [[LinkedIn]] feed.
 >
 > **[0:23](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=23)** This is the personalized homepage for LinkedIn members where we aim to enable conversations amongst professionals.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=70)** We can also choose how long to talk and so on.
 >
-> **[1:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=73)** A creator can try a variety of these combinations in the content she creates and observe a few times how members react to it.
+> **[1:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=73)** A creator can try a variety of these combinations in the content she creates and observe a few times how members [[React.js|react]] to it.
 >
 > **[1:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980&t=81)** That means she would create a post and see how many and how much engagement that has.
 >
@@ -562,14 +555,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[React.js|React]] (2), data (2), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[React.js|React]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,11 +571,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=13)** We try to find a relationship between these two types of variables and use the observable variables to predict the unknowns.
 >
-> **[0:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=22)** The simplest relationship these two variables can take is a straight line, and this is called our linear regression.
+> **[0:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=22)** The simplest relationship these two variables can take is a straight line, and this is called our [[Linear Regression]].
 >
 > **[0:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=29)** Linear regression is one of the simplest form of regression, and this technique is more than 200 years old.
 >
-> **[0:36](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=36)** Let's continue with our working example of the creators on LinkedIn.
+> **[0:36](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=36)** Let's continue with our working example of the creators on [[LinkedIn]].
 >
 > **[0:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=40)** As a creator, we want to understand what we might do to increase conversations on the content that we create.
 >
@@ -641,11 +633,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=245)** To find the best linear relationship between these points, we find the line that minimizes the means squared error and we do that by minimizing this function MSE over the parameters beta naught and beta one.
 >
-> **[4:18](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=258)** Although taking the square is the most popular method we can use other forms as well, like the absolute value and minimize the mean absolute error.
+> **[4:18](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=258)** Although taking the square is the most popular method we can use other [[Forms]] as well, like the absolute value and minimize the mean absolute error.
 >
 > **[4:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=267)** To summarize, you can see that we started with the objective of predicting engagement based on article length, and we have converted that to optimization of a mathematical function, so the best line that we will find is the one with the parameters that minimize the means squared error.
 >
-> **[4:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=285)** Just like how we solve this function together, optimization algorithms solve this sort of minimization problems and help us find the best model.
+> **[4:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=285)** Just like how we solve this function together, optimization [[Algorithms]] solve this sort of minimization problems and help us find the best model.
 >
 > **[4:54](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/linear-regression?u=76281980&t=294)** It so happens that for this specific function, we can solve it easily and there are close form solutions for beta naught and beta one.
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Linear Regression]] (3), [[LinkedIn]] (2), [[Forms]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[LinkedIn]] (2), [[Forms]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (6), make (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** mse (1)
@@ -664,12 +656,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/multiple-linear-regression?u=76281980)
+#### [Multiple linear regression](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/multiple-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/multiple-linear-regression?u=76281980&t=0)** - [Speaker] In the last video, we saw how linear regression is used to understand the relationship between the unknown variable and one observable variable.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/multiple-linear-regression?u=76281980&t=0)** - [Speaker] In the last video, we saw how [[Linear Regression]] is used to understand the relationship between the unknown variable and one observable variable.
 >
 > **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/multiple-linear-regression?u=76281980&t=9)** But often there are situations where we have multiple observable variables and a single unknown variable.
 >
@@ -725,19 +716,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (2), data (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
-#### Bias and variance
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/bias-and-variance?u=76281980)
+#### [Bias and variance](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/bias-and-variance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/bias-and-variance?u=76281980&t=0)** - [Instructor] In multiple linear regression, we saw that there are many possibilities in the ways we can model the predicted variable using the features.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/bias-and-variance?u=76281980&t=0)** - [Instructor] In multiple [[Linear Regression]], we saw that there are many possibilities in the ways we can model the predicted variable using the features.
 >
 > **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/bias-and-variance?u=76281980&t=9)** But how do we find out which one of these possibilities is the best method for our model?
 >
@@ -795,15 +785,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Linear Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating a linear regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-a-linear-regression-model?u=76281980)
+#### [Evaluating a linear regression model](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-a-linear-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +856,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -877,8 +865,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is classification?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980)
+#### [What is classification?](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=45)** Another important application, which is relatively new is looking at x-ray images and trying to decide whether a particular patient is at an elevated risk of cancer or not based on that image.
 >
-> **[0:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=58)** At LinkedIn, we have multiple kinds of tasks where we apply classification.
+> **[0:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=58)** At [[LinkedIn]], we have multiple kinds of tasks where we apply classification.
 >
 > **[1:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=63)** For example, we try to predict whether a member will apply to a job or not.
 >
@@ -934,7 +921,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=154)** And a lot more.
 >
-> **[2:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=155)** In the next two videos you will learn how one can solve the problem of classification using the same principles and the core components that we discussed earlier objective, data and algorithms.
+> **[2:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=155)** In the next two videos you will learn how one can solve the problem of classification using the same principles and the core components that we discussed earlier objective, data and [[Algorithms]].
 >
 > **[2:48](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980&t=168)** But before we get into that, try and think of something in your work that you want to classify into different categories.
 >
@@ -944,25 +931,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), application (1), ai (1), leadership (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Algorithms]] (1)
 > **Analogies:** for example (4), picture (1)
 > **Cross-References:** we discussed (2), in the last (1), in the next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980)
+#### [Logistic regression](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=0)** - [Instructor] So let's talk about how we can approach the task of classification.
 >
-> **[0:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=4)** Recall that the main components of a machine learning task are objective, data, and algorithms.
+> **[0:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=4)** Recall that the main components of a machine learning task are objective, data, and [[Algorithms]].
 >
 > **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=11)** Let's use that framework to look at an example and how we can go about solving it.
 >
-> **[0:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=16)** Say we want to recommend a relevant job to a LinkedIn member.
+> **[0:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=16)** Say we want to recommend a relevant job to a [[LinkedIn]] member.
 >
 > **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=21)** The objective in this case is to decide whether a member is going to apply to a particular job or not.
 >
@@ -1002,7 +988,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=156)** What we can do is find the line that would get us as close to full separation as possible.
 >
-> **[2:42](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=162)** So we will have to think about our probabilistic setup using logistic regression.
+> **[2:42](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=162)** So we will have to think about our probabilistic setup using [[Logistic Regression]].
 >
 > **[2:48](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=168)** This means that instead of making our decision based solely on which side of the line a point is on, we look at the likelihood that a point belongs to a particular category depending on where that point is in relation to the line.
 >
@@ -1014,7 +1000,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=200)** We designed a mechanism where we measured the error in our predictions and then find a regression function that could minimize the sum total of all error.
 >
-> **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=210)** We have to make some modifications here because in this case of classification, we are working with probability.
+> **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=210)** We have to make some modifications here because in this case of classification, we are working with [[Probability]].
 >
 > **[3:36](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/logistic-regression?u=76281980&t=216)** The way we calculate this probability is through the sigmoid function.
 >
@@ -1038,7 +1024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Probability]] (6), feature (2), [[Algorithms]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Algorithms]] (1), [[LinkedIn]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** we talked about (1)
@@ -1046,14 +1032,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Evaluating models and choosing the best
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980)
+#### [Evaluating models and choosing the best](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=0)** - [Instructor] In the last video, we learned about logistic regression, which enables us to build probabilistic models for classification so that we can obtain probabilities of a class that a new data point might belong to.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=0)** - [Instructor] In the last video, we learned about [[Logistic Regression]], which enables us to build probabilistic models for classification so that we can obtain probabilities of a class that a new data point might belong to.
 >
-> **[0:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=13)** We can compute that probability, but often in the end, typically a decision has to be made.
+> **[0:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=13)** We can compute that [[Probability]], but often in the end, typically a decision has to be made.
 >
 > **[0:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=20)** Is the loan approved or not?
 >
@@ -1139,7 +1124,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=255)** We are okay if the precision is a bit low here because we would rather send a few false positives through than make an error and put the patient's life at risk.
 >
-> **[4:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=264)** An example where we want high precision is a job recommendation feature here at LinkedIn.
+> **[4:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=264)** An example where we want high precision is a job recommendation feature here at [[LinkedIn]].
 >
 > **[4:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/evaluating-models-and-choosing-the-best?u=76281980&t=269)** If we are deciding to notify a member about a job that she might be interested in, we would want a high precision because we don't want to notify a member with irrelevant jobs.
 >
@@ -1153,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Probability]] (4), [[Logistic Regression]] (1), feature (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Logistic Regression]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2), is called (1)
@@ -1166,8 +1151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why are linear models not enough?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980)
+#### [Why are linear models not enough?](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=23)** And we saw an example of models that are quadratic in the features but still linear in the parameters.
 >
-> **[0:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=29)** This is one way in which practitioners try to model non-linear behavior but still using linear regression.
+> **[0:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=29)** This is one way in which practitioners try to model non-linear behavior but still using [[Linear Regression]].
 >
 > **[0:36](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=36)** And this also works in the classification problems.
 >
@@ -1209,7 +1193,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=124)** This is common in other fields as well.
 >
-> **[2:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=126)** Take bioinformatics, where one might predict the chance of someone getting a disease based on their genetic composition, or in generative AI, trying to create an image based on a simple text prompt.
+> **[2:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=126)** Take bioinformatics, where one might predict the chance of someone getting a disease based on their genetic composition, or in [[Generative AI]], trying to create an image based on a simple text prompt.
 >
 > **[2:18](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=138)** These are vastly more complicated tasks.
 >
@@ -1219,20 +1203,19 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=155)** So we, as modelers, don't actually have to handcraft those features but we let the model learn automatically, what are the important aspects of the data set?
 >
-> **[2:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=165)** Two of the most popular choices of non-linear models are decision trees and neural networks.
+> **[2:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=165)** Two of the most popular choices of non-linear models are [[Decision Trees]] and [[Neural Networks]].
 >
 > **[2:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980&t=170)** Let's see what they are.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (2), [[Linear Regression]] (1), [[Generative AI]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[Generative AI]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### A primer to nonlinear models: Decision trees, neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980)
+#### [A primer to nonlinear models: Decision trees, neural networks](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1225,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=9)** Now it is impossible to model all functions, and hence what we do in practice is to limit to some classes of functions which are much broader than linear, but still some things that we can manage.
 >
-> **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=21)** Decision trees are one such class of functions.
+> **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=21)** [[Decision Trees]] are one such class of functions.
 >
 > **[0:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=25)** Going back to our example classification task on whether a member will apply to a job or not, we used two features, the distance of the job from the home of the member and the median salary for the job.
 >
@@ -1270,7 +1253,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=133)** To this day, decision trees still are one of the most widely used types of models, especially when the input features can logically be split into two different parts, present or not present, A or B, true or false, et cetera.
 >
-> **[2:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=149)** But if you can't logically spread the input features, say you're using an image, it might make sense to use a different type of nonlinear model called neural networks.
+> **[2:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=149)** But if you can't logically spread the input features, say you're using an image, it might make sense to use a different type of nonlinear model called [[Neural Networks]].
 >
 > **[2:38](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=158)** We'll cover neural networks in detail later in the series, but let's briefly touch on them here.
 >
@@ -1288,11 +1271,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=206)** This is the approach that neural networks take.
 >
-> **[3:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=208)** These two types of non-linear models, decision trees and neural networks, allow us to model complex data and get results that we would not be able to achieve with simple linear regression or classification models.
+> **[3:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/a-primer-to-nonlinear-models-decision-trees-neural-networks?u=76281980&t=208)** These two types of non-linear models, decision trees and neural networks, allow us to model complex data and get results that we would not be able to achieve with simple [[Linear Regression]] or classification models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Neural Networks]] (4), feature (3), data (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Neural Networks]] (4), [[Linear Regression]] (1)
 > **Cross-References:** in the last (2), as we saw (1), later in (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1303,14 +1286,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know your objective, know your data, and listen to the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980)
+#### [Know your objective, know your data, and listen to the data](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980&t=0)** - [Instructor] By some estimates only about 25% of companies in the United States have successfully implemented AI in some parts of their business.
 >
-> **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980&t=9)** This is a relatively low percentage in comparison to the promise that the technology holds and an indication that it is hard to get AI right when thinking about how to do AI right, it is again, helpful to bring up the three core pillars of AI, the objective, the data and the algorithms, and it is important for a practitioner to get all of them right.
+> **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980&t=9)** This is a relatively low percentage in comparison to the promise that the technology holds and an indication that it is hard to get AI right when thinking about how to do AI right, it is again, helpful to bring up the three core pillars of AI, the objective, the data and the [[Algorithms]], and it is important for a practitioner to get all of them right.
 >
 > **[0:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980&t=34)** Defining the right objective relates to defining what we want the AI model to accomplish.
 >
@@ -1356,7 +1338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (7), [[Algorithms]] (3), business (2), application (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -1367,8 +1349,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980)
+#### [Continuing with AI](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980&t=17)** What are some of the possibilities in your own work that might be improved by adding AI tools and techniques?
 >
-> **[0:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980&t=24)** Also, check out some of these other courses in this series in LinkedIn Learning.
+> **[0:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980&t=24)** Also, check out some of these other courses in this series in [[LinkedIn]] Learning.
 >
 > **[0:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980&t=28)** We talk about some state-of-the-art AI technologies and how our engineers apply these tools to create the best experience for our members at LinkedIn.
 >
@@ -1390,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - congratulations (1)
 

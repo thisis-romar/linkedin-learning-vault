@@ -100,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tackle any project with Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980)
+#### [Tackle any project with Express](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980&t=0)** - [Instructor] Today, Node.js is one of the major platforms for the web.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980&t=0)** - [Instructor] Today, [[Node.js]] is one of the major platforms for the web.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980&t=4)** Enterprises like Uber and Netflix, Autodesk, Intuit and even the NASA are using I for important parts of their business.
 >
@@ -123,28 +122,27 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980&t=59)** For more than 17 years, I've been working as developer in architecting tech.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980&t=64)** Try me now on my LinkedIn Learning course on building an advanced website with Express, so let's get started.
+> **[1:04](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980&t=64)** Try me now on my [[LinkedIn]] Learning course on building an advanced website with Express, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), [[Node.js]] (2), web (2), business (1), database (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[LinkedIn]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Env Vars:** nasa (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is not a beginner's course.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=2)** If you're just getting started with Express, I recommend you my course Building a Website with Node.js and Express from the library.
+> **[0:02](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=2)** If you're just getting started with Express, I recommend you my course Building a Website with [[Node.js]] and Express from the library.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=10)** This course here builds on what we've learned there.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=14)** To get the most out of this course, you should have knowledge in JavaScript, of course, and there you should know variables, functions, and callbacks, at the very least.
+> **[0:14](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=14)** To get the most out of this course, you should have knowledge in [[JavaScript]], of course, and there you should know variables, functions, and callbacks, at the very least.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=25)** You should also know and understand ES6 syntax.
 >
@@ -154,25 +152,24 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=47)** You should, at least, have basic Node.js knowledge.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=49)** You should know how to install Node.js, how to use npm, and how to run an application.
+> **[0:49](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=49)** You should know how to install Node.js, how to use [[npm]], and how to run an application.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=57)** You should have intermediate knowledge in Express.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=60)** This means you should know how HTTP works, how to set up an Express project, how the request lifecycle works, and how routing and middlewares work.
+> **[1:00](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=60)** This means you should know how HTTP works, how to set up an Express project, how the request lifecycle works, and how [[Routing]] and middlewares work.
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-express/what-you-should-know?u=76281980&t=72)** As I said, this is all covered in the course Building a Website with Node.js and Express.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (5), [[Node.js]] (4), [[JavaScript]] (1), [[npm]] (1), application (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (1), [[npm]] (1), [[Routing]] (1)
 > **CLI Commands:** node (4), npm (1)
 > **File Paths:** node.js (4)
 > **Prerequisites:** getting started (1), install (1), set up (1)
 > **Env Vars:** es6 (1), http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get your tools ready
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980)
+#### [Get your tools ready](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=8)** In this course, I will use Visual Studio Code.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=11)** It's free and it comes with great Node.js support out of the box.
+> **[0:11](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=11)** It's free and it comes with great [[Node.js]] support out of the box.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=15)** I highly recommend that you use it as well, at least for this course.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=47)** If you haven't Node.js installed yet, just head over to the Node.js website and install the currently long-term supported version there.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=56)** Let's also check the version of NPM.
+> **[0:56](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=56)** Let's also check the version of [[npm]].
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=60)** We see that we have 6.4.1 installed right now, and we can use NPM to update itself, so let's make sure that we have the latest version of NPM in place, and for that, I run sudo because I'm on a Mac and I need elevated privileges.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=87)** Okay, we see that we already have the latest version of NPM installed.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=92)** The sampler project we will be working on comes with a configuration for ESLint.
+> **[1:32](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=92)** The sampler project we will be working on comes with a configuration for [[ESLint]].
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=98)** There is a Visual Studio Code extension for ESLint.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=110)** And simply installing it.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=115)** Now you have all the tools needed in place and we can proceed with the rest of the course.
+> **[1:55](https://www.linkedin.com/learning/advanced-express/get-your-tools-ready?u=76281980&t=115)** Now you have all the tools needed in place and we can proceed with the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
@@ -227,8 +224,7 @@ created: 2026-05-02
 > **Versions:** 10.14.1 (1), 6.4.1 (1)
 > **Definitions:** is a  (1)
 
-#### Understanding and running the sample project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980)
+#### [Understanding and running the sample project](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=99)** So, let's try that out.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=100)** First of all, to set up the project, we have to run npm install because this will pull down all our dependencies and now for our first test, I run npx, that's the new command executor of npm, mocha test/server/app.test.js
+> **[1:40](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=100)** First of all, to set up the project, we have to run [[npm]] install because this will pull down all our dependencies and now for our first test, I run npx, that's the new command executor of npm, mocha test/server/app.test.js
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=125)** and the fact that those four tests already passing successfully tells us that the basic setup of the application is done.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=170)** Let's look at the page, so I'm opening it in the browser localhost:3000.
 >
-> **[2:58](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=178)** It's a conference or Meetup page and it's based on the project that I covered in my course [[Building a Website with Node.js and Express.js]].
+> **[2:58](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=178)** It's a conference or Meetup page and it's based on the project that I covered in my course [[Building a Website with [[Node.js]] and [[Express.js]]]].
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-express/understanding-and-running-the-sample-project?u=76281980&t=187)** The site already contains the basic building blocks for what we're going to implement throughout the course, so if we look into Account, for instance, we already have a working route for Register.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[npm]] (3), express (2), [[Debugging]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), [[Express.js]] (1)
 > **CLI Commands:** npm (3), find (2), make (1), npx (1), node (1)
 > **File Paths:** app.js (1), index.js (1), test/server/app.test.js (1), node.js (1), express.js (1)
 > **Exercise Files:** exercise files (3)
@@ -290,8 +286,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Express components and APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980)
+#### [Exploring Express components and APIs](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980&t=111)** And, here you see how this is done so it simply looks into the arguments to distinguish between, is this a route declaration or are we just setting a configure variable?
 >
-> **[2:05](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980&t=125)** Then, if we scroll down a little bit, we see on line 482 how our routing function is simply added to the list of routes of this application.
+> **[2:05](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980&t=125)** Then, if we scroll down a little bit, we see on line 482 how our [[Routing]] function is simply added to the list of routes of this application.
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980&t=137)** Let's step out of that and then in the end the application simply starts to listen.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (11), application (11), next (3), [[Routing]] (1), data (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** http (1), fue (1), api (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -373,8 +368,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Important Express middleware
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/important-express-middleware?u=76281980)
+#### [Important Express middleware](https://www.linkedin.com/learning/advanced-express/important-express-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,13 +414,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (6), data (3), power (1), application (1), management (1)
 > **Cross-References:** in the last (2)
 > **Env Vars:** http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a template engine for Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980)
+#### [Creating a template engine for Express](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +434,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=17)** But let's assume for a moment that we want to create our own.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=21)** Let's say, one that renders mark down to HTML, how would we implement that?
+> **[0:21](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=21)** Let's say, one that renders mark down to [[HTML]], how would we implement that?
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=27)** As Express is built for extensibility, adding this is actually quite easy.
 >
@@ -480,7 +472,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=199)** In the end we want to return to marked down converted to HTML and for that we need a module that can transform marked down to HTML and I'm using marked for that.
 >
-> **[3:31](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=211)** So I'm installing npm install district save marked and it bring it in.
+> **[3:31](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=211)** So I'm installing [[npm]] install district save marked and it bring it in.
 >
 > **[3:39](https://www.linkedin.com/learning/advanced-express/creating-a-template-engine-for-express?u=76281980&t=219)** Const marked equals require, marked.
 >
@@ -522,7 +514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), express (3), application (2), api (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[npm]] (1)
 > **Exercise Files:** template (10)
 > **Env Vars:** html (7), api (1)
 > **CLI Commands:** npm (1), make (1)
@@ -535,8 +527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up a hosted MongoDB server
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980)
+#### [Setting up a hosted MongoDB server](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,9 +535,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=5)** And in this chapter, we are going to build exactly that.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=9)** To store the users we will use MongoDB and for that we need access to a MongoDB server.
+> **[0:09](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=9)** To store the users we will use [[MongoDB]] and for that we need access to a MongoDB server.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=15)** While it's easy to spin up a MongoDB server on a Linux box, it can be hard on other operating systems like Windows.
+> **[0:15](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=15)** While it's easy to spin up a MongoDB server on a [[Linux]] box, it can be hard on other operating systems like [[Windows]].
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=22)** Additionally, a production setup usually requires at least three nodes to form a cluster.
 >
@@ -568,7 +559,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=75)** We can leave everything at default and I will now click on Create cluster and we will end up on a page that tells us that the cluster is being created and this will take a while.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=88)** Now that it has this ready I want to create some databases on it.
+> **[1:28](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=88)** Now that it has this ready I want to create some [[Databases]] on it.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980&t=92)** So I click on collections and there on create databases and I want to create a database for production.
 >
@@ -598,27 +589,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), database (5), application (3), [[Databases]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Databases]] (2), [[Linux]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** dbuser (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980)
+#### [Connecting to MongoDB](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=0)** - [Narrator] How do we provide the previously created credentials to our application?
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=5)** We need a way to work with different databases depending on the environment.
+> **[0:05](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=5)** We need a way to work with different [[Databases]] depending on the environment.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=9)** Luckily, our configuration does already support that so if we look into server config index js, we see here on line six that we have a property development.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=21)** On line 17 we have a property production and if we scroll down, on line 28, we have a property test.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=30)** On the other hand, we should not store credentials with our application code, especially if this is committed to some version control system like ki-tar.
+> **[0:30](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=30)** On the other hand, we should not store credentials with our application code, especially if this is committed to some [[Version Control]] system like ki-tar.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=39)** That's why I installed a module called dotenv already, to see that I'm requiring it up here on line one, and what dotenv does is it looks for fouls with the name dotenv in our project route and brings the setting in then as environment variables on process and you can see that here, for example, on line 14, we bring in process.env.DEVELOPMENT_DB_DSN.
 >
@@ -640,13 +630,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=171)** Just to run this test, I will now add into the integral terminal official studio code, and run npx mocha test/db/connect and as we see,
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=190)** all tests are passing, which means that we can connect to mongodb at-list properly.
+> **[3:10](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=190)** all tests are passing, which means that we can connect to [[MongoDB]] at-list properly.
 >
 > **[3:16](https://www.linkedin.com/learning/advanced-express/connecting-to-mongodb?u=76281980&t=196)** Again, if your IP address tends to change frequently, please make sure that you have white listed your current IP address if the connect suddenly fails.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Databases]] (2), [[Version Control]] (2), database (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Version Control]] (2), [[MongoDB]] (1)
 > **CLI Commands:** tar (2), find (2), npx (1), make (1)
 > **Env Vars:** development_db_dsn (1), dsn (1)
 > **Analogies:** for example (1), for instance (1)
@@ -655,16 +645,15 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** setup (1)
 
-#### Adding MongoDB and Mongoose to an Express project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980)
+#### [Adding MongoDB and Mongoose to an Express project](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=0)** - [Instructor] With all the credentials in place, we will now make MongoDB available to Express.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=0)** - [Instructor] With all the credentials in place, we will now make [[MongoDB]] available to Express.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=6)** For that, we will use Mongoose.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=7)** Mongoose is an object data modeling laboratory for MongoDB.
+> **[0:07](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=7)** Mongoose is an object [[Data Modeling]] laboratory for MongoDB.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=11)** It's very commonly used, lets us create schemas and makes working with Mongoose from NodeJS generally easier.
 >
@@ -672,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=21)** So if your applications are heavy on database reads and writes and you run into performance issues, Mongoose might be an optimization target.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=30)** Let's install Mongoose now, for that, I type, npm install --save and my project wrote.
+> **[0:30](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=30)** Let's install Mongoose now, for that, I type, [[npm]] install --save and my project wrote.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-express/adding-mongodb-and-mongoose-to-an-express-project?u=76281980&t=44)** And I want to isolate everything that has to do with the database connection in a model on its own.
 >
@@ -726,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[MongoDB]] (5), application (4), [[npm]] (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[npm]] (2), [[Data Modeling]] (1)
 > **CLI Commands:** make (2), npm (2)
 > **Prerequisites:** install (2), set up (1), setup (1)
 > **Code Identifiers:** usenewurlparser (2)
@@ -735,8 +724,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **UI Navigation:** scroll down (1)
 
-#### Creating a user schema for Mongoose
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/creating-a-user-schema-for-mongoose?u=76281980)
+#### [Creating a user schema for Mongoose](https://www.linkedin.com/learning/advanced-express/creating-a-user-schema-for-mongoose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +744,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-express/creating-a-user-schema-for-mongoose?u=76281980&t=50)** and we also want to add some functionality to validate the data and validate the email address is a solved problem so we will install a module for that.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-express/creating-a-user-schema-for-mongoose?u=76281980&t=60)** So in the terminal I run npm install --save
+> **[1:00](https://www.linkedin.com/learning/advanced-express/creating-a-user-schema-for-mongoose?u=76281980&t=60)** So in the terminal I run [[npm]] install --save
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-express/creating-a-user-schema-for-mongoose?u=76281980&t=69)** enter module is called email-validator and while this is running let's bring it in email validator=require
 >
@@ -810,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Programming]] (1), [[npm]] (1), database (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Definitions:** is called (2), is a  (1), is an  (1)
 > **File Paths:** usermodel.js (1), test/server/models/usermodel.test.js (1)
 > **CLI Commands:** npm (1), npx (1)
@@ -819,8 +807,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - mongoose (1)
 
-#### Using bcrypt to hash and validate passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/using-bcrypt-to-hash-and-validate-passwords?u=76281980)
+#### [Using bcrypt to hash and validate passwords](https://www.linkedin.com/learning/advanced-express/using-bcrypt-to-hash-and-validate-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,20 +841,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Best Practices:** bad practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding password encryption and validation to a Mongoose model
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/adding-password-encryption-and-validation-to-a-mongoose-model?u=76281980)
+#### [Adding password encryption and validation to a Mongoose model](https://www.linkedin.com/learning/advanced-express/adding-password-encryption-and-validation-to-a-mongoose-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-express/adding-password-encryption-and-validation-to-a-mongoose-model?u=76281980&t=0)** - [Instructor] Now that we know a little bit about the theory of password encryption, let's implement it real quick in our model.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-express/adding-password-encryption-and-validation-to-a-mongoose-model?u=76281980&t=7)** So I open server models, UserModel.js, and first of all, I want to install bcrypt, so I run NPM install dash dash save bcrypt.
+> **[0:07](https://www.linkedin.com/learning/advanced-express/adding-password-encryption-and-validation-to-a-mongoose-model?u=76281980&t=7)** So I open server models, UserModel.js, and first of all, I want to install bcrypt, so I run [[npm]] install dash dash save bcrypt.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-express/adding-password-encryption-and-validation-to-a-mongoose-model?u=76281980&t=22)** Of course I also have to require it, so add const bcrypt equals require bcrypt.
 >
@@ -917,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[npm]] (1), application (1), database (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Code Identifiers:** comparepassword (3), presave (1), ismodified (1)
 > **Env Vars:** npm (1), cpu (1), npx (1)
 > **CLI Commands:** npm (1), npx (1)
@@ -926,8 +911,7 @@ created: 2026-05-02
 > **File Paths:** usermodel.js (1)
 > **Cross-References:** we talked about (1)
 
-#### Creating a user registration route
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/creating-a-user-registration-route?u=76281980)
+#### [Creating a user registration route](https://www.linkedin.com/learning/advanced-express/creating-a-user-registration-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -935,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-express/creating-a-user-registration-route?u=76281980&t=7)** The form for that is already provided with the sample project, simply head to Account, Register, and you should get that form.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-express/creating-a-user-registration-route?u=76281980&t=16)** Let's review the HTML, we had to form a little bit so I'm using inspect here and you see the form does a post request to slash users slash registration and we will now implement exactly that prompt.
+> **[0:16](https://www.linkedin.com/learning/advanced-express/creating-a-user-registration-route?u=76281980&t=16)** Let's review the [[HTML]], we had to form a little bit so I'm using inspect here and you see the form does a post request to slash users slash registration and we will now implement exactly that prompt.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-express/creating-a-user-registration-route?u=76281980&t=35)** For that we head over to Visual Studio Code and there I open server, browse, users, index dot JS and you see already the get route, this is the form that we just saw and under this route I will now add a new one for post.
 >
@@ -983,15 +967,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), database (3), express (2), [[HTML]] (1), prompt (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (1), npx (1)
 > **Env Vars:** html (1), npx (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the form and reviewing the data in MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980)
+#### [Testing the form and reviewing the data in MongoDB](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,11 +986,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=20)** And I submit it, and I get the thank you for your registration message back.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=27)** As we are using MongoDB Atlas, we can now easily head over to their UI to see how the data actually looks in the database.
+> **[0:27](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=27)** As we are using [[MongoDB]] Atlas, we can now easily head over to their UI to see how the data actually looks in the database.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=35)** So, in the Atlas dashboard, I click on my Cluster0 here, and go into Collections, and when I then look into development users, you see the newly created user with a ObjectId that is automatically provided by MongoDB, the username, the email address, the hash password using bcrypt, and also the createdAt and updatedAt time stamps, and this __v, that is a field that is internal to Mongo.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=70)** Of course this is not a full-blown user management system.
+> **[1:10](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=70)** Of course this is not a full-blown [[User Management]] system.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-express/testing-the-form-and-reviewing-the-data-in-mongodb?u=76281980&t=74)** For that, you'd also want to add functionality for users to update their data, or maybe you even want to send out confirmation emails.
 >
@@ -1015,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (2), data (2), database (2), [[User Management]] (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[User Management]] (1)
 > **Code Identifiers:** createdat (1), updatedat (1)
 > **CLI Commands:** mongo (1)
 > **Cross-References:** in the next (1)
@@ -1028,8 +1011,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cookies and sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980)
+#### [Understanding cookies and sessions](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,9 +1029,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=38)** On the server we will now try to authenticate the user and if the login is valid, recreate the session that maps the user logged in to some random identifier.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=48)** Inside the session we can now set arbitrary data that we want to associate with this user like the user ID to fetch the user from the database for subsequent requests.
+> **[0:48](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=48)** Inside the session we can now set arbitrary data that we want to associate with this user like the user ID to [[Fetch]] the user from the database for subsequent requests.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=58)** The server will now send back some HTML to the browser like the thank you page for logging in, and additionally, it sends a special header called Set-Cookie.
+> **[0:58](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=58)** The server will now send back some [[HTML]] to the browser like the thank you page for logging in, and additionally, it sends a special header called Set-Cookie.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=69)** If a browser gets such a header, it will store this cookie and will send it from now on with every request to the server like forward slash account.
 >
@@ -1075,7 +1057,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=142)** We can tell that this cookie will only be sent by Qualys secure connection, means SSL.
 >
-> **[2:28](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=148)** Or that the cookie cannot be read by a JavaScript on decline.
+> **[2:28](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=148)** Or that the cookie cannot be read by a [[JavaScript]] on decline.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980&t=153)** To make express read cookies, we need a middleware called Cookie Parser.
 >
@@ -1107,7 +1089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (8), database (3), data (3), management (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** mongo (3), make (2), find (1)
 > **Env Vars:** html (1), ssl (1)
 > **Definitions:** is a  (1)
@@ -1115,14 +1097,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding cookies and sessions to Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980)
+#### [Adding cookies and sessions to Express](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=0)** - [Instructor] As shown in the previous video we will need cookie parser to read cookies from the raw request header.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=6)** So I'm installing that now in npm install --save cookie-parser and we need to recall it in our app.js file.
+> **[0:06](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=6)** So I'm installing that now in [[npm]] install --save cookie-parser and we need to recall it in our app.js file.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=18)** So somewhere on top of the file add, const cookieParser = require('cookie-parser').
 >
@@ -1140,7 +1121,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=62)** Next, let's plug in the session management.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=65)** For that install express session into install-- save express-session and to store the sessions in MongoDB I will install connect-mongo and now on top of app.js again
+> **[1:05](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=65)** For that install express session into install-- save express-session and to store the sessions in [[MongoDB]] I will install connect-mongo and now on top of app.js again
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=90)** I will bring in those modules first.
 >
@@ -1170,7 +1151,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=196)** And this should be mongoose.connection.
 >
-> **[3:23](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=203)** And as you see, eslint complains now that mongoose is not defined yet.
+> **[3:23](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=203)** And as you see, [[ESLint]] complains now that mongoose is not defined yet.
 >
 > **[3:28](https://www.linkedin.com/learning/advanced-express/adding-cookies-and-sessions-to-express?u=76281980&t=208)** Of course we have to also bring it in here const mongoose = require('mongoose').
 >
@@ -1196,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), database (4), next (2), management (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[MongoDB]] (1), [[ESLint]] (1)
 > **Code Identifiers:** cookieparser (3), bodyparser (1), saveuninitialized (1)
 > **CLI Commands:** mongo (2), npm (1), find (1)
 > **Definitions:** is a  (2), means that (2)
@@ -1205,8 +1186,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inspecting the session object
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/inspecting-the-session-object?u=76281980)
+#### [Inspecting the session object](https://www.linkedin.com/learning/advanced-express/inspecting-the-session-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,7 +1206,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-express/inspecting-the-session-object?u=76281980&t=64)** So let's stop the debugger now and remove the break point and I will now simply start the application and I will reload it a few more times.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-express/inspecting-the-session-object?u=76281980&t=79)** And to see what actually now happened on the database I head over to MongoDB Atlas and now when we refresh our list of collections, we should see a new collection sessions.
+> **[1:19](https://www.linkedin.com/learning/advanced-express/inspecting-the-session-object?u=76281980&t=79)** And to see what actually now happened on the database I head over to [[MongoDB]] Atlas and now when we refresh our list of collections, we should see a new collection sessions.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-express/inspecting-the-session-object?u=76281980&t=91)** When I click on that, we see that there is now a new document that represents the current session we created.
 >
@@ -1242,18 +1222,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), database (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **UI Navigation:** click on (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to Passport
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980)
+#### [Introduction to Passport](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=0)** - [Narrator] Passport is the most widely-used authentication module for Node.js.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=0)** - [Narrator] Passport is the most widely-used authentication module for [[Node.js]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-express/introduction-to-passport?u=76281980&t=5)** Conceptually, Passport provides an authenticate function.
 >
@@ -1281,18 +1260,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Node.js]] (1), express (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding Passport to Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980)
+#### [Adding Passport to Express](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=0)** - [Instructor] To add passport to the project, I have to install the npm module, so I'm running npm install --save passport.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=0)** - [Instructor] To add passport to the project, I have to install the [[npm]] module, so I'm running npm install --save passport.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=10)** We should hold all authentication-related code in a central location instead of spreading it out in our server.js file.
 >
@@ -1314,7 +1292,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=151)** So, let's create another middleware that sets the user on res.locals which is globally available in all templates.
 >
-> **[2:39](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=159)** See my course Building a Website with Express.js if this is unfamiliar to you.
+> **[2:39](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=159)** See my course Building a Website with [[Express.js]] if this is unfamiliar to you.
 >
 > **[2:44](https://www.linkedin.com/learning/advanced-express/adding-passport-to-express?u=76281980&t=164)** So, I will now head over back to auth.js and there I add a new exported property setUser
 >
@@ -1330,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[npm]] (2), [[Express.js]] (1), application (1), database (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Express.js]] (1)
 > **File Paths:** app.js (3), auth.js (2), server.js (1), express.js (1)
 > **CLI Commands:** npm (2)
 > **Prerequisites:** install (2)
@@ -1338,12 +1316,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up an authentication strategy for Passport
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980)
+#### [Setting up an authentication strategy for Passport](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=0)** - [Narrator] Eventually we want to authenticate users against our MongoDB Database.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=0)** - [Narrator] Eventually we want to authenticate users against our [[MongoDB]] Database.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=5)** For that, we already created a user model.
 >
@@ -1359,7 +1336,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=27)** So we need to install the respective model.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=30)** For that I'll run npm install, dash dash save, passport dash local.
+> **[0:30](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=30)** For that I'll run [[npm]] install, dash dash save, passport dash local.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-express/setting-up-an-authentication-strategy-for-passport?u=76281980&t=40)** And now in auth.js I can add const, local strategy,
 >
@@ -1437,7 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (3), [[MongoDB]] (1), [[npm]] (1), express (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1), [[npm]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **File Paths:** auth.js (2)
 > **CLI Commands:** npm (1), find (1)
@@ -1445,8 +1422,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Serializing and deserializing users
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/serializing-and-deserializing-users?u=76281980)
+#### [Serializing and deserializing users](https://www.linkedin.com/learning/advanced-express/serializing-and-deserializing-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,7 +1438,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-express/serializing-and-deserializing-users?u=76281980&t=47)** And all we do here now is we return done with null error, but a user._id.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-express/serializing-and-deserializing-users?u=76281980&t=62)** And we see that eslint is now complaining a bit here.
+> **[1:02](https://www.linkedin.com/learning/advanced-express/serializing-and-deserializing-users?u=76281980&t=62)** And we see that [[ESLint]] is now complaining a bit here.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-express/serializing-and-deserializing-users?u=76281980&t=66)** Here on line 21, it's telling us that the block statement could be optimized.
 >
@@ -1492,14 +1468,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[ESLint]] (4), next (2), data (1)
+> **Frameworks & Libraries:** [[ESLint]] (4)
 > **Code Identifiers:** serializeuser (1), deserializeuser (1), findbyid (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a login form with Passport
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/creating-a-login-form-with-passport?u=76281980)
+#### [Creating a login form with Passport](https://www.linkedin.com/learning/advanced-express/creating-a-login-form-with-passport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1542,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (2)
 > **File Paths:** index.js (2), index.login.test.js (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1575,9 +1549,9 @@ created: 2026-05-02
 > **Code Identifiers:** successredirect (1)
 > **Env Vars:** npx (1)
 > **Cross-References:** in the next (1)
+> **Tools:** visual studio (1)
 
-#### Providing a logout link
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/providing-a-logout-link?u=76281980)
+#### [Providing a logout link](https://www.linkedin.com/learning/advanced-express/providing-a-logout-link?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,15 +1587,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Cross-References:** in the next (1)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication vs. authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/authentication-vs-authorization?u=76281980)
+#### [Authentication vs. authorization](https://www.linkedin.com/learning/advanced-express/authentication-vs-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1659,7 +1631,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
@@ -1667,8 +1638,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/protecting-routes?u=76281980)
+#### [Protecting routes](https://www.linkedin.com/learning/advanced-express/protecting-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,7 +1694,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), application (2), express (1)
 > **Definitions:** is a  (3)
 > **File Paths:** index.js (1)
 > **Env Vars:** error (1)
@@ -1737,8 +1706,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File upload basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/file-upload-basics?u=76281980)
+#### [File upload basics](https://www.linkedin.com/learning/advanced-express/file-upload-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,7 +1754,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -1794,14 +1761,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling multipart form data with multer
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980)
+#### [Handling multipart form data with multer](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=0)** - [Instructor] As mentioned in the previous video, we need a middleware that can handle multipart form data and the module of choice for that is called multer.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=9)** Let's install it by running npm install --save multer.
+> **[0:09](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=9)** Let's install it by running [[npm]] install --save multer.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=18)** Now we have to require and set up multer.
 >
@@ -1839,7 +1805,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=231)** Let's see which variables we have available, so I click on Local and there I open request
 >
-> **[4:03](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=243)** and there I have to scroll down a little bit and we see that we have the request body now again with the regular form fields and further down we now also have a file object that contains a buffer with binary data along with some metadata to tell us more about the actually uploaded file.
+> **[4:03](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=243)** and there I have to scroll down a little bit and we see that we have the request body now again with the regular form fields and further down we now also have a file object that contains a buffer with binary data along with some [[Metadata]] to tell us more about the actually uploaded file.
 >
 > **[4:26](https://www.linkedin.com/learning/advanced-express/handling-multipart-form-data-with-multer?u=76281980&t=266)** So far so good.
 >
@@ -1847,7 +1813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[npm]] (1), hit (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Metadata]] (1)
 > **Prerequisites:** install (2), set up (1), configure (1)
 > **File Paths:** middlewares.js (2), index.js (1)
 > **UI Navigation:** select the (1), click on (1), scroll down (1)
@@ -1856,8 +1822,7 @@ created: 2026-05-02
 > **Code Identifiers:** filesize (1)
 > **Definitions:** is called (1)
 
-#### Resizing and storing images with sharp
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/resizing-and-storing-images-with-sharp?u=76281980)
+#### [Resizing and storing images with sharp](https://www.linkedin.com/learning/advanced-express/resizing-and-storing-images-with-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1869,7 +1834,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-express/resizing-and-storing-images-with-sharp?u=76281980&t=24)** It provides plenty of image manipulation methods and a good performance.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-express/resizing-and-storing-images-with-sharp?u=76281980&t=28)** So let's install it now by running npm install --save sharp, and we will need image manipulation functions on different places, so it makes sense to create this service class for that.
+> **[0:28](https://www.linkedin.com/learning/advanced-express/resizing-and-storing-images-with-sharp?u=76281980&t=28)** So let's install it now by running [[npm]] install --save sharp, and we will need image manipulation functions on different places, so it makes sense to create this service class for that.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-express/resizing-and-storing-images-with-sharp?u=76281980&t=43)** So I will now go into server, services, and there I create a new file: AvatarService.js.
 >
@@ -1931,15 +1896,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Env Vars:** png (3), jpeg (1)
 > **File Paths:** avatarservice.js (1), test/server/services/avatarservice.test.js (1)
 > **CLI Commands:** npm (1), npx (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - [narrator] (1)
 
-#### Creating an image handling middleware
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980)
+#### [Creating an image handling middleware](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,11 +1921,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=69)** In the config file, there is already a path for the avatars defined, and this points to data, avatars, so all images will be stored in this directory.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=81)** Next, we have to pass avatars down our routing chain, so I'm scrolling down until we have this app.use here, and here, I'm simply passing in avatars.
+> **[1:21](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=81)** Next, we have to pass avatars down our [[Routing]] chain, so I'm scrolling down until we have this app.use here, and here, I'm simply passing in avatars.
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=94)** Next, we have to head into the users route here in routes, users, Index.js.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=102)** I will now, first, for the module exports here, add params as argument, and then I will use ES6 destructuring to fetch avatars out of the params that have been passed down the chain.
+> **[1:42](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=102)** I will now, first, for the module exports here, add params as argument, and then I will use ES6 destructuring to [[Fetch]] avatars out of the params that have been passed down the chain.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=125)** Now, I want to create a middleware that can work with this service class, so I head over to middlewares.js, and there I now add module.exports.handleAvatar.
 >
@@ -1975,7 +1939,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=190)** There is no image.
 >
-> **[3:13](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=193)** Then, we want to check if the filename that was uploaded is valid, so I add if req.file, and the metadata we are looking for is the mimetype, which is the image type in this case, and if it's not image/png, and if it's also not image/ jpeg, then we want to return an error, return next, new error, which says file format is not supported.
+> **[3:13](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=193)** Then, we want to check if the filename that was uploaded is valid, so I add if req.file, and the [[Metadata]] we are looking for is the mimetype, which is the image type in this case, and if it's not image/png, and if it's also not image/ jpeg, then we want to return an error, return next, new error, which says file format is not supported.
 >
 > **[4:01](https://www.linkedin.com/learning/advanced-express/creating-an-image-handling-middleware?u=76281980&t=241)** But, if we have a valid image, we will now await avatars.store, and we use the request file buffer that we get from multer.
 >
@@ -2015,7 +1979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), data (3), database (2), application (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Fetch]] (1), [[Metadata]] (1)
 > **File Paths:** index.js (2), app.js (1), middlewares.js (1), usermodel.js (1), users/index.fileupload.test.js (1)
 > **Code Identifiers:** handleavatar (2), storedfilename (1)
 > **CLI Commands:** make (1), npx (1)
@@ -2024,8 +1988,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serving images
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980)
+#### [Serving images](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2125,7 +2088,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=322)** And then, I will now replace the sendFile with res.end, and we simply pass in the binary buffer and add a second argument binary.
 >
-> **[5:37](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=337)** And Express will take care of the rest.
+> **[5:37](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=337)** And Express will take care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[5:40](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=340)** And we also have to make this function Async.
 >
@@ -2137,7 +2100,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=359)** This is now, also, a good occasion to run all tests that come with the project.
 >
-> **[6:03](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=363)** So, I will now simply run, npm run.
+> **[6:03](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=363)** So, I will now simply run, [[npm]] run.
 >
 > **[6:06](https://www.linkedin.com/learning/advanced-express/serving-images?u=76281980&t=366)** And this will recursively run all tests in the test directory.
 >
@@ -2155,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), express (3), application (3), hit (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[npm]] (1)
 > **Analogies:** picture (5)
 > **CLI Commands:** make (2), npm (1)
 > **File Paths:** index.js (2)
@@ -2169,12 +2132,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tuning Express performance: NODE_ENV and compression
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980)
+#### [Tuning Express performance: NODE_ENV and compression](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=0)** - [Narrator] As soon as your application is deployed to server and available to for real users performance becomes key, and this not only about the user experience of individual users, but also cost effective, because inefficient code needs more resources to run, which forces you to scale up or out.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=0)** - [Narrator] As soon as your application is deployed to server and available to for real users performance becomes key, and this not only about the [[User Experience (UX)|user experience]] of individual users, but also cost effective, because inefficient code needs more resources to run, which forces you to scale up or out.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=19)** The suggestions in this video are loosely based on the performance based practices from the Express website.
 >
@@ -2194,13 +2156,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=92)** If you want to learn more about this please look into my blog I've taken from a few years back.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=97)** It's also sited on the Express.js website.
+> **[1:37](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=97)** It's also sited on the [[Express.js]] website.
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=101)** Http lets the server and the browser negotiate if the data sent to the server should be compressed or not.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=108)** To enable that on the server side you need a specific middleware called compress.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=113)** After adding this middleware a browser that accepts compressed responses and all modern browsers do may be served a synced version of the html code, which can of course drastically reduce the data to be transferred.
+> **[1:53](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=113)** After adding this middleware a browser that accepts compressed responses and all modern browsers do may be served a synced version of the [[HTML]] code, which can of course drastically reduce the data to be transferred.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=126)** Let's add this to our application real quick, so I'm heading back to visual studio code.
 >
@@ -2208,7 +2170,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=152)** Now let's look at the request for localhost, and we see that it has right now a size of eight dot eight kilobytes, and the time is 475 milliseconds.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=165)** Now let's go into visual studio code and I'm opening app.js and of course I have to install the middleware npm install dash dash save compression
+> **[2:45](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=165)** Now let's go into visual studio code and I'm opening app.js and of course I have to install the middleware [[npm]] install dash dash save compression
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980&t=183)** and on top of the page I bring in const compression equals require compression
 >
@@ -2224,7 +2186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), express (2), data (2), [[npm]] (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[User Experience (UX)|User experience]] (1), [[Express.js]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2), npm (2)
 > **Env Vars:** cpu (2), node_env (1)
 > **File Paths:** express.js (1), app.js (1)
@@ -2233,8 +2195,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), for example (1)
 > **Prerequisites:** install (2)
 
-#### Tuning Express performance: Further measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-further-measures?u=76281980)
+#### [Tuning Express performance: Further measures](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-further-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,15 +2237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), next (1), traffic (1), node (1), [[Search]] (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **Code Identifiers:** readfile (1), readfilesync (1)
 > **Env Vars:** cpu (2)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 
-#### Add logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/add-logging?u=76281980)
+#### [Add logging](https://www.linkedin.com/learning/advanced-express/add-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2304,7 +2263,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-express/add-logging?u=76281980&t=40)** Index js, and first I have to install Bunyan.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-express/add-logging?u=76281980&t=46)** So I go ahead and run npm install, dash, dash save, bunyan.
+> **[0:46](https://www.linkedin.com/learning/advanced-express/add-logging?u=76281980&t=46)** So I go ahead and run [[npm]] install, dash, dash save, bunyan.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-express/add-logging?u=76281980&t=52)** and of course I have to require so add const bunyan equals require bunyan.
 >
@@ -2356,18 +2315,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), [[npm]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **CLI Commands:** make (1), npm (1)
 > **Best Practices:** recommended (1), don't forget (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Node.js cluster module
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/using-the-node-js-cluster-module?u=76281980)
+#### [Using the Node.js cluster module](https://www.linkedin.com/learning/advanced-express/using-the-node-js-cluster-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/using-the-node-js-cluster-module?u=76281980&t=0)** - [Instructor] Node.js runs in a single process, and basically in one thread.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/using-the-node-js-cluster-module?u=76281980&t=0)** - [Instructor] [[Node.js]] runs in a single process, and basically in one thread.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-express/using-the-node-js-cluster-module?u=76281980&t=5)** This means that it does not fully utilize all CPUs on a host.
 >
@@ -2437,7 +2395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), application (3), node (2), next (1)
+> **Frameworks & Libraries:** [[Node.js]] (4)
 > **CLI Commands:** node (6)
 > **File Paths:** node.js (4)
 > **Env Vars:** cpu (2), pm2 (1)
@@ -2446,8 +2404,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing an Express application
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980)
+#### [Securing an Express application](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2459,7 +2416,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=18)** Before we talk about Express as such you should make sure that the dependencies we brought in are secure.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=24)** Newer versions of npm make this very easy for us.
+> **[0:24](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=24)** Newer versions of [[npm]] make this very easy for us.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=27)** We can simply run npm audit and it will check all installed modules for known vulnerabilities and we see that we have 1074 packages installed right now.
 >
@@ -2489,11 +2446,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=141)** Let's reload the page and when we click on the request for localhost we see that helmet set a few headers here that deal with different kinds of attacks.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=154)** Later as mentioned we will add an additional level of security by serving requests not directly from node.js but via Ngenix as reverse proxy.
+> **[2:34](https://www.linkedin.com/learning/advanced-express/securing-an-express-application?u=76281980&t=154)** Later as mentioned we will add an additional level of security by serving requests not directly from [[Node.js]] but via Ngenix as reverse proxy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), [[npm]] (4), application (3), [[Security]] (3), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[Node.js]] (1)
 > **CLI Commands:** make (4), npm (4), nginx (1), node (1)
 > **File Paths:** app.js (1), node.js (1)
 > **Prerequisites:** install (2)
@@ -2502,8 +2459,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** recommended (1)
 
-#### Deployment and operation with PM2
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980)
+#### [Deployment and operation with PM2](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2515,23 +2471,23 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=13)** In larger projects you might have a whole deployment pipeline that takes care of that.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=19)** As server, I'm using an EC2 instance, but any host on the internet will do.
+> **[0:19](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=19)** As server, I'm using an [[Amazon EC2|EC2]] instance, but any host on the internet will do.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=25)** On this host, I installed Node.js and PM2 and I created the user Node.js and a directory on Node.js deploy.
+> **[0:25](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=25)** On this host, I installed [[Node.js]] and PM2 and I created the user Node.js and a directory on Node.js deploy.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=33)** I also added the public SSH key of my development machine to the list of authorized keys.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=40)** PM2 tool relies on Git to deploy project from.
+> **[0:40](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=40)** PM2 tool relies on [[Git]] to deploy project from.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=42)** For that I pushed it to a GitHub repository.
+> **[0:42](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=42)** For that I pushed it to a [[GitHub]] repository.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=46)** Additionally, I copied my .env file into the deploy directory because it's not published to GitHub for obvious security reasons.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=54)** On MongoDB Atlas, I also white listed the IP of my server so that it can then connect to the MongoDB cluster.
+> **[0:54](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=54)** On [[MongoDB]] Atlas, I also white listed the IP of my server so that it can then connect to the MongoDB cluster.
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=65)** To setup the deployment on all development machine, we first have to install PM2.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=70)** I want to install it globally, so I run sudo npm install -g pm2.
+> **[1:10](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=70)** I want to install it globally, so I run sudo [[npm]] install -g pm2.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-express/deployment-and-operation-with-pm2?u=76281980&t=79)** This asks me for my user password, and then it will install PM2 globally on my development machine.
 >
@@ -2591,7 +2547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Node.js]] (3), [[Amazon EC2|Ec2]] (2), [[Git]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Amazon EC2|Ec2]] (2), [[Git]] (2), [[GitHub]] (2), [[MongoDB]] (2)
 > **Env Vars:** pm2 (8), ec2 (2), ssh (2), node_env (1), url (1)
 > **CLI Commands:** node (3), ssh (2), git (2), npm (2), sudo (1)
 > **Prerequisites:** install (5), setup (4)
@@ -2600,18 +2556,17 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
 
-#### Running behind a web server
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980)
+#### [Running behind a web server](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=0)** - [Instructor] Usually we don't want Node.js to directly serve a website.
+> **[0:00](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=0)** - [Instructor] Usually we don't want [[Node.js]] to directly serve a website.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=4)** Things like SSL or TLS encryption are doable, but a web server was exactly made for such a task.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=12)** That's why the most common setup is running Express Apps behind some reverse proxy like Nginx.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=18)** On my EC2 instance, I've already installed Engine X and I used Let's Encrypt to install and setup a free SSL certificate.
+> **[0:18](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=18)** On my [[Amazon EC2|EC2]] instance, I've already installed Engine X and I used Let's Encrypt to install and setup a free SSL certificate.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=28)** I've also already took care of the proxy configuration.
 >
@@ -2649,7 +2604,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=195)** This makes a few more adjustments to how the session management works, and additionally as we're now behind a SSL connection, we can force the browser to only send secure cookies.
 >
-> **[3:35](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=215)** Now let's commit it to my version control, updated for proxies, and let's upload from here.
+> **[3:35](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=215)** Now let's commit it to my [[Version Control]], updated for proxies, and let's upload from here.
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-express/running-behind-a-web-server?u=76281980&t=231)** Push to the server.
 >
@@ -2673,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), [[Node.js]] (1), web (1), [[Amazon EC2|Ec2]] (1), next (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[Amazon EC2|Ec2]] (1), [[Version Control]] (1)
 > **CLI Commands:** nginx (4), make (3), node (1)
 > **Env Vars:** ssl (3), tls (1), ec2 (1), url (1)
 > **Prerequisites:** setup (4), install (1), configure (1)
@@ -2687,8 +2642,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2700,11 +2654,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=8)** Please check out our library for other advanced courses that show you how to build on this knowledge.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=13)** Why not extend your knowledge by watching a course on how to use different databases with Node.js.
+> **[0:13](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=13)** Why not extend your knowledge by watching a course on how to use different [[Databases]] with [[Node.js]].
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=18)** Or learn how to use Express to create a REST API.
+> **[0:18](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=18)** Or learn how to use Express to create a [[Representational State Transfer (REST)|REST]] API.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=22)** Also, knowing how to run your application on cloud providers like AWS and broadening your DevOps knowledge is a good investment.
+> **[0:22](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=22)** Also, knowing how to run your application on cloud providers like AWS and broadening your [[DevOps]] knowledge is a good investment.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980&t=30)** I post a lot of Node.js information on Twitter, and I'd be happy if you follow me there.
 >
@@ -2716,7 +2670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[Node.js]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[DevOps]] (1)
 > **CLI Commands:** node (2), aws (1)
 > **Env Vars:** rest (1), api (1), aws (1)
 > **File Paths:** node.js (2)

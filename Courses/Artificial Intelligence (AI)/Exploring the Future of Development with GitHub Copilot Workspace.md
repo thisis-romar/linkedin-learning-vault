@@ -62,12 +62,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The coding revolution is driven by AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980)
+#### [The coding revolution is driven by AI](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980&t=0)** - Last year at the GitHub Universe Conference, the company announced a new tool called Copilot Workspace.
+> **[0:00](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980&t=0)** - Last year at the [[GitHub]] Universe Conference, the company announced a new tool called [[Microsoft Copilot|Copilot]] Workspace.
 >
 > **[0:06](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980&t=6)** This tool helps you streamline your workflow in partnership with AI.
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1), ai (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Documentation:** spec (1)
 > **Tools:** github (1)
 > **Speakers:** - last (1)
@@ -95,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a spec with Copilot Workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980)
+#### [Creating a spec with Copilot Workspace](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=0)** - [Instructor] Copilot Workspace is available through a wait list, but the project itself was announced back in GitHub Universe 2023.
+> **[0:00](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] Workspace is available through a wait list, but the project itself was announced back in [[GitHub]] Universe 2023.
 >
 > **[0:07](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=7)** Although it's listed as a research prototype, it feels pretty ready for usage.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=128)** There's a few other buttons that are important right here, so for example, you can toggle a terminal.
 >
-> **[2:14](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=134)** This will create a temporary code space just with the terminal, and you can use traditional Linux commands to manage your files, perhaps execute some Python, or run a web server.
+> **[2:14](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=134)** This will create a temporary code space just with the terminal, and you can use traditional [[Linux]] commands to manage your files, perhaps execute some [[Python (Programming Language)|Python]], or run a web server.
 >
 > **[2:26](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=146)** If you want to open up a full code space, you can do that with this button right here.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=172)** If you click right here, you'll be able to share a snapshot of the project with anyone who you give the link to.
 >
-> **[2:59](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=179)** If you like the spec, you can also publish the spec into an issue comment, and that will allow you to continue to discuss this project with the rest of your team.
+> **[2:59](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=179)** If you like the spec, you can also publish the spec into an issue comment, and that will allow you to continue to discuss this project with the [[Representational State Transfer (REST)|rest]] of your team.
 >
 > **[3:08](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980&t=188)** We can click on Open in GitHub and take a look at the issue, which now includes my new notes.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), ai (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (2), [[Linux]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Documentation:** specification (6), spec (4)
 > **Tools:** github (2), terminal (2)
 > **UI Navigation:** click on (3), toggle (1)
@@ -167,8 +165,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Generating a plan for your Copilot Workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980)
+#### [Generating a plan for your Copilot Workspace](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=43)** So I already went through the process of creating a spec and here is what I have so far, Bootstrap has not been updated.
 >
-> **[0:51](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=51)** Index.html still references the CSS file, which is not the latest version.
+> **[0:51](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=51)** Index.[[HTML]] still references the CSS file, which is not the latest version.
 >
 > **[0:57](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=57)** jQuery is still present.
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=97)** Remove the local Bootstrap CSS link.
 >
-> **[1:39](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=99)** But I noticed that on a project you really should be linking also to the Bootstrap JavaScript, and that's not right here.
+> **[1:39](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=99)** But I noticed that on a project you really should be linking also to the Bootstrap [[JavaScript]], and that's not right here.
 >
 > **[1:46](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=106)** So I may want to add that as an item that I wanted to complete as well.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=135)** So this is actually fine that it's doing that.
 >
-> **[2:18](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=138)** And then it's going to replace all jQuery methods with vanilla JavaScript equivalents.
+> **[2:18](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=138)** And then it's going to replace all jQuery methods with [[Vanilla]] JavaScript equivalents.
 >
 > **[2:24](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/generating-a-plan-for-your-copilot-workspace?u=76281980&t=144)** Now, it's not really looking through the code and making any changes to the actual index.html file, and it should go ahead and do that.
 >
@@ -304,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[JavaScript]] (6), [[HTML]] (4), css (4), hit (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (4), [[Vanilla]] (1)
 > **Code Identifiers:** jquery (10), addeventlistener (1)
 > **Env Vars:** cdn (7), css (3), dom (1)
 > **CLI Commands:** make (7)
@@ -313,8 +310,7 @@ created: 2026-05-02
 > **Versions:** 5.3.3 (3), 4.0 (1)
 > **Documentation:** spec (2), the documentation (1), the docs (1)
 
-#### Implementing a plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980)
+#### [Implementing a plan](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +348,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=74)** So notice there's source control here showing that the index file as well as some of these other documents have been modified.
 >
-> **[1:22](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=82)** So if I click on this, I can take a look at the changes and let's take a look at where it replace my CDN link and I can take a look at the rest of the code to see all my changes as well.
+> **[1:22](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=82)** So if I click on this, I can take a look at the changes and let's take a look at where it replace my CDN link and I can take a look at the [[Representational State Transfer (REST)|rest]] of the code to see all my changes as well.
 >
 > **[1:37](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=97)** So one of the things that we can do here is do a live preview.
 >
@@ -366,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=115)** And now we can go back to the project.
 >
-> **[1:57](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=117)** And what I want to do is open up this index at HTML in a live preview.
+> **[1:57](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=117)** And what I want to do is open up this index at [[HTML]] in a live preview.
 >
 > **[2:02](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=122)** So I'll say Open with Live Server.
 >
@@ -388,7 +384,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=183)** It's much better than when I had to type 'em all in.
 >
-> **[3:06](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=186)** So I'm going to hit Create Pull Request, and now I can open this up in GitHub and it's going to show me the pull request, added right here.
+> **[3:06](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=186)** So I'm going to hit Create Pull Request, and now I can open this up in [[GitHub]] and it's going to show me the pull request, added right here.
 >
 > **[3:17](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/implementing-a-plan?u=76281980&t=197)** And if I want to, I can go ahead and continue discussing this with team members, or I can just hit the Merge Pull Request button to merge that into my project and add my own notes or confirm the merge here.
 >
@@ -400,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[HTML]] (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (3), dropdown (2), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2), cdn (1)

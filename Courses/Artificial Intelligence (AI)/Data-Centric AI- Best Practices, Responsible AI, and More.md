@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A different approach to AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980)
+#### [A different approach to AI](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,19 +109,18 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980&t=12)** In this course, I'll equip you with both practical techniques and ethical groundings on the human impacts of AI.
 >
-> **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980&t=21)** By the end, you'll have learned key strategies to build reliable and fair AI systems, leveraging MLOps and data-centric principles.
+> **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980&t=21)** By the end, you'll have learned key strategies to build reliable and fair AI systems, leveraging [[MLOps]] and data-centric principles.
 >
-> **[0:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980&t=31)** I'm Aishwarya Srinivasan, and I'm Microsoft Senior AI Advocate and Top Voice in data science and AI on LinkedIn.
+> **[0:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980&t=31)** I'm Aishwarya Srinivasan, and I'm [[Microsoft]] Senior AI Advocate and Top Voice in [[Data Science]] and AI on [[LinkedIn]].
 >
 > **[0:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980&t=39)** Let's dive into data-centric AI and how focusing on data helps enable truly fair and accountable high-performing AI systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), [[MLOps]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Microsoft]] (1), [[Data Science]] (1), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
-#### Overview of the course objectives and agenda
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980)
+#### [Overview of the course objectives and agenda](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,15 +128,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=10)** There are a few background skills you should have coming into the course.
 >
-> **[0:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=14)** You need to have a solid understanding of Python programming, as we will be using Python in the code examples.
+> **[0:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=14)** You need to have a solid understanding of [[Python (Programming Language)|Python]] programming, as we will be using Python in the code examples.
 >
 > **[0:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=22)** If you don't have much experience in Python, I would recommend taking a course on Python for beginners from the library.
 >
-> **[0:29](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=29)** In addition, you should be comfortable with basics of probability and statistics.
+> **[0:29](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=29)** In addition, you should be comfortable with basics of [[Probability]] and [[Statistics]].
 >
 > **[0:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=34)** We will be discussing things like data distribution, anomalies, and other statistical methods.
 >
-> **[0:41](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=41)** Finally, you should have some experience with data science and machine learning terminologies, along with basic experience in data science modeling.
+> **[0:41](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=41)** Finally, you should have some experience with [[Data Science]] and machine learning terminologies, along with basic experience in data science modeling.
 >
 > **[0:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/overview-of-the-course-objectives-and-agenda?u=76281980&t=50)** Again, if you are new to the data science and AI journey, I would highly recommend taking a crash course here.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), ai (2), [[Programming]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (3), [[Probability]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (4)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [lecturer] (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data-centric AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980)
+#### [Introduction to data-centric AI](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,11 +162,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=4)** We'll discuss what is data-centric AI and talk about its components.
 >
-> **[0:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=9)** It'll set the stage for the rest of this course because we have moved from a model-centric approach to a data-centric approach.
+> **[0:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=9)** It'll set the stage for the [[Representational State Transfer (REST)|rest]] of this course because we have moved from a model-centric approach to a data-centric approach.
 >
 > **[0:17](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=17)** In the second video, we will be talking about the role of data in different modules of the ML and AI workflow.
 >
-> **[0:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=24)** Finally, we will be talking about why data quality is important.
+> **[0:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=24)** Finally, we will be talking about why [[Data Quality]] is important.
 >
 > **[0:29](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=29)** What are the issues if data is not kept at the center of the focus while building machine learning systems?
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=180)** One can try all different methods, but they won't be able to make a perfect tasting banana bread until we start with a good set of ingredients.
 >
-> **[3:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=192)** Now, if we were to look at the data science and machine learning problems with the same lens, we will realize that similar to bad banana, if we are working with bad data, any recipe or any model or any algorithm isn't going to get us the good results that we are looking for.
+> **[3:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=192)** Now, if we were to look at the [[Data Science]] and machine learning problems with the same lens, we will realize that similar to bad banana, if we are working with bad data, any recipe or any model or any algorithm isn't going to get us the good results that we are looking for.
 >
 > **[3:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=214)** Some of you might be thinking, sure, we have heard about garbage in, garbage out.
 >
@@ -227,21 +224,20 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=241)** Now that you saw with an example of why and how data is a critical component of any kind of modeling lifecycle, let's see the formal definition of data-centric AI.
 >
-> **[4:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=254)** Data-centric AI places data as the foundation of artificial intelligence and machine learning process.
+> **[4:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=254)** Data-centric AI places data as the foundation of [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning process.
 >
 > **[4:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980&t=261)** It emphasizes that the quality, quantity, and reliability of data are paramount in building successful AI applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (7), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Data Quality]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Understanding the role of data in AI and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980)
+#### [Understanding the role of data in AI and machine learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=54)** With the shift to data-centric AI, the methodology and mindset to approach the problem has also changed.
 >
-> **[1:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=61)** Even before we think about what the model building methodology would look like, we consider three crucial things, data availability, data quality, and data validation.
+> **[1:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=61)** Even before we think about what the model building methodology would look like, we consider three crucial things, data availability, [[Data Quality]], and [[Data Validation]].
 >
 > **[1:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=73)** These three elements pretty much dictate what the modeling methodology is going to look like and how the pipeline is going to be built.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=169)** Data is an integral part throughout the machine learning workflow.
 >
-> **[2:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=173)** From initially data collection stage to putting models into production.
+> **[2:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=173)** From initially [[Data Collection]] stage to putting models into production.
 >
 > **[2:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-the-role-of-data-in-ai-and-machine-learning?u=76281980&t=178)** At each stage, quality, relevance, and availability of data matters.
 >
@@ -315,14 +311,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), ai (8), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Data Quality]] (1), [[Data Validation]] (1)
 > **Analogies:** picture (2), for instance (1)
 > **CLI Commands:** make (1), cat (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data quality and reliability in AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980)
+#### [Data quality and reliability in AI applications](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=30)** Validation and oversight prevents this.
 >
-> **[0:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=34)** In processing, poor data security, complex integration, and lack of monitoring risks introducing errors.
+> **[0:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=34)** In processing, poor [[Data Security]], complex integration, and lack of monitoring risks introducing errors.
 >
 > **[0:42](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=42)** Data hygiene is critical here.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=93)** Continuous governance, diligence, and human guideline safeguards will really improve the quality throughout the data lifecycle, right from collection to usage.
 >
-> **[1:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=106)** Poor data quality has severe consequences as we know it.
+> **[1:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=106)** Poor [[Data Quality]] has severe consequences as we know it.
 >
 > **[1:51](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=111)** It leads to inaccurate insights, biased outcomes, and failed projects.
 >
@@ -378,19 +373,19 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=164)** These use cases reveal the tangible impacts of bad data quality.
 >
-> **[2:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=170)** By the end of this talk, you'll understand why data quality and reliability forms the backbone of trustworthy and ethical AI applications.
+> **[2:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=170)** By the end of this talk, you'll understand why data quality and reliability [[Forms]] the backbone of trustworthy and ethical AI applications.
 >
 > **[3:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=180)** You'll learn actionable strategies to assess and enhance your data.
 >
-> **[3:07](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=187)** This includes techniques like anomaly detection, bias testing, monitoring, and having a strong metadata handling.
+> **[3:07](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=187)** This includes techniques like anomaly detection, bias testing, monitoring, and having a strong [[Metadata]] handling.
 >
-> **[3:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=195)** High-quality data is the fuel that powers responsible AI.
+> **[3:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=195)** High-quality data is the fuel that powers [[Responsible AI]].
 >
 > **[3:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-quality-and-reliability-in-ai-applications?u=76281980&t=199)** With diligent governance and the right tools, we can create virtuous cycles of improvement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), ai (3), [[Analytics]] (2), functional (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Security]] (1), [[Forms]] (1), [[Metadata]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -401,8 +396,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Significance of data-centric AI in real-world scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980)
+#### [Significance of data-centric AI in real-world scenarios](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=146)** The key is collaborating across different teams to ensure that the data we are using truly reflects the problem.
 >
-> **[2:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=156)** Checking assumptions, detecting anomalies, and monitoring data quality over time are essential.
+> **[2:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=156)** Checking assumptions, detecting anomalies, and monitoring [[Data Quality]] over time are essential.
 >
 > **[2:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=165)** With diligence across the machine learning pipeline, we can catch issues early and adapt to the scenario.
 >
@@ -466,11 +460,11 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=223)** In this chapter, I wanted to walk you through how data-centric AI applies to real world use cases.
 >
-> **[3:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=230)** When building data-centric AI pipelines, there are several considerations that you need to keep in mind, write from data ingestion to deployment.
+> **[3:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=230)** When building data-centric AI pipelines, there are several considerations that you need to keep in mind, write from [[Data Ingestion]] to deployment.
 >
 > **[4:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=242)** In today's rapidly evolving world, data is the lifeblood of innovation.
 >
-> **[4:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=249)** As industries across the spectrum embrace the power of artificial intelligence, the importance of data-centric AI has become evident.
+> **[4:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=249)** As industries across the spectrum embrace the power of [[Artificial Intelligence (AI)|artificial intelligence]], the importance of data-centric AI has become evident.
 >
 > **[4:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=259)** In this section, we'll delve into real world case studies across various sectors unveiling the profound impact of data-centric AI on industry use cases.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=338)** The financial landscape is undergoing a transformation and it's fueled by data-centric approaches.
 >
-> **[5:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=347)** Even in e-commerce, the e-commerce giants are utilizing data-centric AI to provide personalized product recommendations, optimize inventory management, and enhance customer service.
+> **[5:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=347)** Even in [[E-Commerce]], the e-commerce giants are utilizing data-centric AI to provide personalized product recommendations, optimize inventory management, and enhance customer service.
 >
 > **[6:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980&t=361)** Data-driven insights translate to increased sales and improvised customer satisfaction.
 >
@@ -500,24 +494,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), ai (21), [[Engineering]] (2), power (2), business (2)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[E-Commerce]] (2), [[Data Ingestion]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Cross-References:** previous chapter (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of adopting a data-centric approach in AI projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980)
+#### [Benefits of adopting a data-centric approach in AI projects](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=0)** - [Instructor] Now that we have seen the real world impact, let's explore the benefits of adopting a data-centric approach in AI projects.
 >
-> **[0:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=9)** Adopting a data-centric mindset unlocks immense benefits in AI projects, from performance to sustainability.
+> **[0:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=9)** Adopting a data-centric mindset unlocks immense benefits in AI projects, from performance to [[Sustainability]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=18)** Let's explore some technical advantages here.
 >
-> **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=21)** First, higher data quality directly translates to better model accuracy and reliability.
+> **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=21)** First, higher [[Data Quality]] directly translates to better model accuracy and reliability.
 >
 > **[0:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=28)** With precise complete inputs, predictions become sharper and the errors decreases.
 >
@@ -533,7 +526,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=81)** This also helps us in being more cost optimized.
 >
-> **[1:26](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=86)** Data-centric projects stand the test of time with adaptable data pipelines and governance, systems gracefully handle changing data landscapes year after year.
+> **[1:26](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=86)** Data-centric projects stand the test of time with adaptable [[Data Pipelines]] and governance, systems gracefully handle changing data landscapes year after year.
 >
 > **[1:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/benefits-of-adopting-a-data-centric-approach-in-ai-projects?u=76281980&t=99)** Placing data at the core of AI unlocks tremendous technical advantage.
 >
@@ -553,11 +546,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (5), [[Sustainability]] (1), [[Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Sustainability]] (1), [[Data Pipelines]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case studies highlighting the impact of data-centric AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980)
+#### [Case studies highlighting the impact of data-centric AI](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -567,7 +559,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=11)** Having comprehensive, accurate transaction data is essential for training accurate models, especially as this is going to impact people's financial portfolio.
 >
-> **[0:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=24)** The more representative data we are able to gather across customer demographics, the better the algorithms will be able to understand what normal versus suspicious behavior looks like in a credit transaction.
+> **[0:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=24)** The more representative data we are able to gather across customer demographics, the better the [[Algorithms]] will be able to understand what normal versus suspicious behavior looks like in a credit transaction.
 >
 > **[0:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=39)** With the training data, having balanced data sets are crucial, so models do not skew towards false positive for underrepresented groups.
 >
@@ -579,15 +571,15 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=83)** Here, having automated pipelines allow continuous training of the models using streaming data.
 >
-> **[1:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=92)** By emphasizing data quality, fairness, governance, and monitoring, data-centric AI strengthens fraud prevention considerably.
+> **[1:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=92)** By emphasizing [[Data Quality]], fairness, governance, and monitoring, data-centric AI strengthens fraud prevention considerably.
 >
 > **[1:42](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=102)** With this, we are able to ensure that the outcome is having trustworthy algorithms that protects finances of people without introducing bias.
 >
 > **[1:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=113)** If I were to summarize this, I would say that when data meets empathy, incredible things happen.
 >
-> **[2:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=120)** What you would also see is that data ops and governance lay the groundwork for cutting edge fraud detection that balances security, privacy, and ethics.
+> **[2:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=120)** What you would also see is that data ops and governance lay the groundwork for cutting edge fraud detection that balances security, [[Privacy]], and [[Ethics]].
 >
-> **[2:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=133)** Medical diagnosis is another domain where responsible AI matters the most.
+> **[2:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=133)** Medical diagnosis is another domain where [[Responsible AI]] matters the most.
 >
 > **[2:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=139)** Let's look at a few key opportunities here.
 >
@@ -625,7 +617,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=271)** As sensors age over time, the data can be skewed, and it can distort the maintenance forecasts.
 >
-> **[4:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=279)** Only when we do careful data validation and debugging will we be able to avoid false positives on the maintenance needs, which can actually lead to wasted cost and downtime.
+> **[4:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=279)** Only when we do careful [[Data Validation]] and debugging will we be able to avoid false positives on the maintenance needs, which can actually lead to wasted cost and downtime.
 >
 > **[4:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=292)** Having reliable forecasts helps us optimize the maintenance planning and improve the uptime.
 >
@@ -645,9 +637,9 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=357)** This is where data-centric AI introduces governance mechanism to ensure compliance with privacy regulations.
 >
-> **[6:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=365)** Users want to know their data is protected, and transparency is essential in building trust.
+> **[6:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=365)** Users want to know their data is protected, and transparency is essential in [[Building Trust]].
 >
-> **[6:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=372)** Biases can inadvertently creep into the recommendation algorithms, resulting in skewed suggestion that can unfairly favor certain groups or products.
+> **[6:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=372)** Biases can inadvertently creep into the recommendation algorithms, resulting in skewed suggestion that can unfairly favor certain groups or [[Microsoft Products|products]].
 >
 > **[6:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/case-studies-highlighting-the-impact-of-data-centric-ai?u=76281980&t=384)** Hence, data-centric AI allows us to rigorously test and evaluate the recommendation model to see if there are these biases existing.
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), ai (8), [[Algorithms]] (4), [[Privacy]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Quality]] (2), [[Privacy]] (2), [[Ethics]] (1), [[Responsible AI]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -664,8 +656,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### End-to-end workflow of data-centric AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980)
+#### [End-to-end workflow of data-centric AI](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=19)** Now that we understand these motivations for prioritizing data, I want to equip you with concrete skills to put data-centric AI into practice.
 >
-> **[0:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=31)** A key enabler for operationalizing data-centric principles is MLOps, a set of practices for efficiently taking models into production and managing them through their lifecycle.
+> **[0:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=31)** A key enabler for operationalizing data-centric principles is [[MLOps]], a set of practices for efficiently taking models into production and managing them through their lifecycle.
 >
 > **[0:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=45)** So in the next section, we'll provide foundational backgrounds on MLOps, what it entails, why it becomes essential for real-world AI, and how it sets the stage for responsible data-driven systems.
 >
@@ -687,9 +678,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=81)** What we are used to working with is the model-centric AI framework, which essentially means you focus on building the best model to fit the data you have.
 >
-> **[1:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=93)** In this framework, you start with the data you have then have a basic data pre-processing, followed by feature engineering.
+> **[1:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=93)** In this framework, you start with the data you have then have a basic data pre-processing, followed by [[Feature Engineering]].
 >
-> **[1:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=103)** Once you have your data ready, you start with the model design or algorithm design, which essentially means laying out assumptions, requirements, KPIs, metrics, and optimization needs to decide what kind of model you want to use.
+> **[1:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=103)** Once you have your data ready, you start with the model design or [[Algorithm Design]], which essentially means laying out assumptions, requirements, KPIs, metrics, and optimization needs to decide what kind of model you want to use.
 >
 > **[2:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=124)** These steps require subject matter expertise, of course.
 >
@@ -707,13 +698,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=177)** The motivation for being more data-centric was because when applying machine learning models in real-world use cases, practitioners realized that the data itself has so many peculiarities and issues, which in itself is a whole new world of research, which so far has been overlooked as the research was focusing on using what might be called a good data set to iterate over model building process.
 >
-> **[3:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=208)** There is one of my posts on LinkedIn, which got hundreds of thousands of views, and it is titled, "A Data Without Outliers is an Outlier."
+> **[3:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=208)** There is one of my posts on [[LinkedIn]], which got hundreds of thousands of views, and it is titled, "A Data Without Outliers is an Outlier."
 >
-> **[3:38](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=218)** When we're looking at real-world data, there are countless reasons why there might be issues with that data, some of which we saw at the start of the scores and some of which we will be seeing in the rest of it.
+> **[3:38](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=218)** When we're looking at real-world data, there are countless reasons why there might be issues with that data, some of which we saw at the start of the scores and some of which we will be seeing in the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[3:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=233)** The way I might see data-centric AI is that it is an upgraded version of model-centric AI where we have additional layers of processes to tackle data issues.
 >
-> **[4:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=246)** In a data-centric AI workflow, we start with evaluating if the data quality is good to start with.
+> **[4:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=246)** In a data-centric AI workflow, we start with evaluating if the [[Data Quality]] is good to start with.
 >
 > **[4:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=254)** Good can be subjective and requires a set of different quantitative metrics to evaluate it.
 >
@@ -725,13 +716,13 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=290)** The next phase in data-centric AI is the data subject matter expertise one, which also has not been in the focus area of AI research so far.
 >
-> **[5:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=301)** Data has been treated like a black box and just fed into the models, but now it is the time to dissect that data and understand what the values in your feature columns really mean and understand where the issues are stemming from, and do the data processing and feature engineering from a very, very narrowed domain-specific lens.
+> **[5:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=301)** Data has been treated like a black box and just fed into the models, but now it is the time to dissect that data and understand what the values in your feature columns really mean and understand where the issues are stemming from, and do the [[Data Processing]] and feature engineering from a very, very narrowed domain-specific lens.
 >
 > **[5:25](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980&t=325)** This follows the typical model building AI lifecycle that you're familiar with, and thus completes our data-centric AI workflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), ai (16), [[MLOps]] (3), next (2), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (3), [[Feature Engineering]] (2), [[Algorithm Design]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Cross-References:** in the next (1), in the last (1)
 > **UI Navigation:** go to (1)
@@ -739,38 +730,37 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Deep dive into data-centric AI components
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980)
+#### [Deep dive into data-centric AI components](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=0)** - [Lecturer] When building machine learning models, there are always two major components to that lifecycle.
 >
-> **[0:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=6)** Similar to how software development has a development and a production stage, machine learning systems have an experimentation and operational stage.
+> **[0:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=6)** Similar to how [[Software Development]] has a development and a production stage, machine learning systems have an experimentation and operational stage.
 >
 > **[0:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=15)** A lot of times these terms are used interchangeably as well, in the machine learning context.
 >
 > **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=21)** Experimental ML is the stage where we are focusing on building the logic of the system.
 >
-> **[0:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=27)** This stage is more focused on data processing, exploratory data analysis, designing model architecture, hyper parameter tuning, et cetera.
+> **[0:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=27)** This stage is more focused on [[Data Processing]], exploratory data analysis, designing model architecture, hyper parameter tuning, et cetera.
 >
-> **[0:37](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=37)** Whereas operational ML stage involves more of automation building, including data pre-processing pipelines, scheduling jobs, version control of the models, scalability, et cetera.
+> **[0:37](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=37)** Whereas operational ML stage involves more of automation building, including data pre-processing pipelines, scheduling jobs, [[Version Control]] of the models, [[Scalability]], et cetera.
 >
 > **[0:51](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=51)** In data-centric AI, developing accurate machine learning model requires meticulously orchestrating an experimental workflow from data to deployment.
 >
 > **[1:03](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=63)** I'll walk through the key stages today.
 >
-> **[1:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=66)** It begins with data acquisition.
+> **[1:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=66)** It begins with [[Data Acquisition]].
 >
 > **[1:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=69)** We identify and pull together relevant data sets from various internal systems and external sources: APIs, web scraping, database dumps, file transfer.
 >
 > **[1:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=81)** Many techniques can be used to ensemble the raw data that we need.
 >
-> **[1:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=87)** Next comes data preparation, which transforms the raw data into a refined analytics database.
+> **[1:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=87)** Next comes [[Data Preparation]], which transforms the raw data into a refined analytics database.
 >
-> **[1:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=95)** Steps like data cleaning, feature engineering, normalization, and sampling get the data ready for the modeling stage.
+> **[1:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=95)** Steps like [[Data Cleaning]], [[Feature Engineering]], normalization, and sampling get the data ready for the modeling stage.
 >
-> **[1:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=104)** Modeling involves trying out various algorithms and architectures on the prepared data set.
+> **[1:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=104)** Modeling involves trying out various [[Algorithms]] and architectures on the prepared data set.
 >
 > **[1:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=112)** We train and tweak multiple models to find the best performing one for the task at hand.
 >
@@ -798,13 +788,13 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=212)** We need to set up and manage compute storage and networking that can handle massive data sets and high performing model training.
 >
-> **[3:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=224)** IT team needs to handle provisioning suitable hardware and cloud resources in this process, as well as ongoing monitoring, maintenance, and security of the production environment.
+> **[3:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=224)** IT team needs to handle provisioning suitable [[Hardware]] and cloud resources in this process, as well as ongoing monitoring, maintenance, and security of the production environment.
 >
 > **[3:57](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=237)** Next, we leverage model training and deployment platforms that streamline the end-to-end workflow.
 >
 > **[4:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=244)** These provide capabilities like data versioning, experiment tracking, model packaging, deployment automation and more.
 >
-> **[4:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=253)** The platforms help our teams implement continuous integration and deployment for new model iterations with very less heavy lifting.
+> **[4:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=253)** The platforms help our teams implement [[Continuous Integration (CI)|continuous integration]] and deployment for new model iterations with very less heavy lifting.
 >
 > **[4:23](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/deep-dive-into-data-centric-ai-components?u=76281980&t=263)** Finally, we cannot forget about monitoring and managing models in production.
 >
@@ -820,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Automation]] (3), ai (3), database (2), next (2)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Data Processing]] (1), [[Version Control]] (1), [[Scalability]] (1), [[Data Acquisition]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** auc (1)
 > **UI Navigation:** select the (1)
@@ -829,8 +819,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Iterative nature of the workflow for ML applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/iterative-nature-of-the-workflow-for-ml-applications?u=76281980)
+#### [Iterative nature of the workflow for ML applications](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/iterative-nature-of-the-workflow-for-ml-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/iterative-nature-of-the-workflow-for-ml-applications?u=76281980&t=5)** It requires an iterative, cyclic workflow that evolves as new data comes in.
 >
-> **[0:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/iterative-nature-of-the-workflow-for-ml-applications?u=76281980&t=11)** Continuous training and continuous monitoring are key enablers for this process.
+> **[0:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/iterative-nature-of-the-workflow-for-ml-applications?u=76281980&t=11)** Continuous training and [[Continuous Monitoring]] are key enablers for this process.
 >
 > **[0:17](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/iterative-nature-of-the-workflow-for-ml-applications?u=76281980&t=17)** With continuous training, we automatically retrain the models on regular cadence using fresh data.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Continuous Monitoring]] (2), business (1), ai (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -878,18 +867,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purpose of MLOps (Machine Learning Operations)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980)
+#### [Purpose of MLOps (Machine Learning Operations)](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=0)** - [Instructor] Before we dive into the details of data-centric AI, I want to provide some foundational background on MLOps or ML operations, the practices around efficiently taking the machine learning models into production.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=0)** - [Instructor] Before we dive into the details of data-centric AI, I want to provide some foundational background on [[MLOps]] or ML operations, the practices around efficiently taking the machine learning models into production.
 >
 > **[0:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=14)** In this section, we'll briefly introduce MLOps and the end-to-end process it defines for managing models through their lifecycle.
 >
 > **[0:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=22)** We'll also discuss why MLOps is so important for the real world AI systems.
 >
-> **[0:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=28)** I'll share key reasons like scalability, automation, and governance that makes MLOps critical for operationalizing models.
+> **[0:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=28)** I'll share key reasons like [[Scalability]], automation, and governance that makes MLOps critical for operationalizing models.
 >
 > **[0:38](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=38)** Finally, we'll highlight some common bottlenecks like lack of monitoring, technical debt, and drift that arises when trying to put models into production without having a good MLOps.
 >
@@ -911,11 +899,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=100)** The mathematical structure in computations used to map from inputs to outputs.
 >
-> **[1:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=105)** For example, linear regression, random forest, neural networks that we may be using.
+> **[1:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=105)** For example, [[Linear Regression]], random forest, [[Neural Networks]] that we may be using.
 >
 > **[1:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=112)** Third, the model parameters which are learned or tuned during the training process to optimize the model performance, parameters like weights and biases.
 >
-> **[2:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=122)** To make a performant ML model operational, we need to expand the scope to include infrastructure and DevOps processes.
+> **[2:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=122)** To make a performant ML model operational, we need to expand the scope to include infrastructure and [[DevOps]] processes.
 >
 > **[2:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=132)** This is where MLOps comes in.
 >
@@ -923,7 +911,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=146)** The infrastructure provides the raw compute, storage and networking for production grade model training and deployment.
 >
-> **[2:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=153)** While MLOps pipeline automate the end-to-end steps from data collection to model deployment, modeling and governance.
+> **[2:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=153)** While MLOps pipeline automate the end-to-end steps from [[Data Collection]] to model deployment, modeling and governance.
 >
 > **[2:41](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=161)** Together, MLOps gives us the systematic way to develop machine learning models and actually deploy them to business applications more reliably and securely.
 >
@@ -969,17 +957,17 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=307)** MLOps enables continuous model improvement while this process.
 >
-> **[5:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=313)** MLOps provides version control and audit trails for the AI assets.
+> **[5:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=313)** MLOps provides [[Version Control]] and audit trails for the AI assets.
 >
 > **[5:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=318)** Model registers catalog artifacts like code, parameters and training data that we're using.
 >
-> **[5:25](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=325)** Metadata stores track model lineage from an end-to-end perspective.
+> **[5:25](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=325)** [[Metadata]] stores track model lineage from an end-to-end perspective.
 >
 > **[5:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=330)** This level of pedigree prevents losing track of model provenance during the development process.
 >
-> **[5:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=339)** MLOps bakes in compliance, security, and privacy by the design itself.
+> **[5:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=339)** MLOps bakes in compliance, security, and [[Privacy]] by the design itself.
 >
-> **[5:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=346)** Data governance policies are applied across pipelines.
+> **[5:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=346)** [[Data Governance]] policies are applied across pipelines.
 >
 > **[5:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980&t=350)** Access control, anonymization and encryption are also handled responsibly through this process.
 >
@@ -989,15 +977,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (20), data (9), ai (4), [[Automation]] (2), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (20), [[DevOps]] (2), [[Scalability]] (1), [[Linear Regression]] (1), [[Neural Networks]] (1)
 > **Env Vars:** cicd (1), gpu (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges faced in deploying and maintaining ML models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/challenges-faced-in-deploying-and-maintaining-ml-models?u=76281980)
+#### [Challenges faced in deploying and maintaining ML models](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/challenges-faced-in-deploying-and-maintaining-ml-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1064,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), application (2), power (1), data (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1090,12 +1076,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding data-centric AI principles into the MLOps workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980)
+#### [Adding data-centric AI principles into the MLOps workflow](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=0)** - [Presenter] In the last section, we covered the foundations of MLOps and the integral role it plays in operationalizing models.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=0)** - [Presenter] In the last section, we covered the foundations of [[MLOps]] and the integral role it plays in operationalizing models.
 >
 > **[0:07](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=7)** Now we bring together MLOps and data-centric AI, outlining how data-centric AI principles and practices integrate with and enhance the end-to-end MLOps process.
 >
@@ -1117,13 +1102,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=78)** It revolved around the belief that with the right model, data limitations could be overcome.
 >
-> **[1:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=84)** The processes typically started with data collection, which is, for the most part, was considered a one-time effort.
+> **[1:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=84)** The processes typically started with [[Data Collection]], which is, for the most part, was considered a one-time effort.
 >
-> **[1:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=92)** Data was sourced from various channel, often comprising structured and unstructured data.
+> **[1:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=92)** Data was sourced from various channel, often comprising structured and [[Unstructured Data]].
 >
 > **[1:38](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=98)** The primary focus was on obtaining labeled data, especially for supervised-learning tasks.
 >
-> **[1:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=105)** This data was then subjected to data processing, which included cleaning, feature engineering, and data transformation.
+> **[1:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=105)** This data was then subjected to [[Data Processing]], which included cleaning, [[Feature Engineering]], and [[Data Transformation]].
 >
 > **[1:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=113)** The crux of traditional MLOps was model development.
 >
@@ -1163,7 +1148,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=238)** Rather than relying on the complexity of the models, the richness of the data and the feature quality took the center stage.
 >
-> **[4:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=249)** Data quality and diversity became pivotal in the machine learning model training process.
+> **[4:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=249)** [[Data Quality]] and diversity became pivotal in the machine learning model training process.
 >
 > **[4:16](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980&t=256)** Techniques such as data augmentation and data balancing played a crucial role in handling data imbalances.
 >
@@ -1177,14 +1162,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[MLOps]] (10), ai (8), [[Feature Engineering]] (2), feature (2)
+> **Frameworks & Libraries:** [[MLOps]] (10), [[Data Quality]] (3), [[Data Collection]] (2), [[Feature Engineering]] (2), [[Unstructured Data]] (1)
 > **Cross-References:** in the last (1), we covered (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Data personas in MLOps workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980)
+#### [Data personas in MLOps workflow](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,23 +1184,23 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=47)** Data engineers are responsible for acquiring, storing, and preparing data for machine learning workflow.
 >
-> **[0:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=55)** Let's talk about data collection and preparation.
+> **[0:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=55)** Let's talk about [[Data Collection]] and preparation.
 >
 > **[0:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=58)** Data engineers are primarily responsible for collecting and preparing data.
 >
 > **[1:03](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=63)** They play a crucial role in sourcing diverse and high quality data.
 >
-> **[1:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=69)** This involves data cleaning, transformation and ensuring the data is representative of the problem domain that you're working with.
+> **[1:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=69)** This involves [[Data Cleaning]], transformation and ensuring the data is representative of the problem domain that you're working with.
 >
 > **[1:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=78)** Their expertise ensures that the data is efficiently processed and stored, which is fundamental for the entire ML Ops pipeline.
 >
 > **[1:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=88)** Data engineer's contribution to data monitoring is also critical.
 >
-> **[1:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=93)** They work closely with the data monitoring tools and platforms to ensure ongoing data quality.
+> **[1:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=93)** They work closely with the data monitoring tools and platforms to ensure ongoing [[Data Quality]].
 >
 > **[1:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=99)** They help in detecting and addressing issues like data drift, schema changes, or missing data.
 >
-> **[1:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=107)** Their role extends to building data pipelines that continuously update and maintain the data, aligning it with the evolving requirements of the machine learning models.
+> **[1:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=107)** Their role extends to building [[Data Pipelines]] that continuously update and maintain the data, aligning it with the evolving requirements of the machine learning models.
 >
 > **[2:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-personas-in-mlops-workflow?u=76281980&t=120)** Now, in this section, we'll explore how data scientists contribute to the data centric AI within the ML Ops.
 >
@@ -1260,11 +1244,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (57), ai (6), business (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Data Cleaning]] (1), [[Data Quality]] (1), [[Data Pipelines]] (1)
 > **Speakers:** - [tutor] (1)
 
-#### Optimizing the MLOps process: Development
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980)
+#### [Optimizing the MLOps process: Development](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,47 +1259,47 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=21)** When you are working on a data or ML problem statement, it is essential to document in a data catalog to align with the stakeholder expectations and maintain transparency.
 >
-> **[0:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=34)** Using standard well-documented APIs and protocols like REST, GRPC and Kafka to interface with sources helps ensure compatibility across systems.
+> **[0:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=34)** Using standard well-documented APIs and protocols like [[Representational State Transfer (REST)|REST]], GRPC and Kafka to interface with sources helps ensure compatibility across systems.
 >
 > **[0:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=46)** When building a data pipeline, you must integrate monitoring, alerting, retries, and error handling into the ingestion pipeline.
 >
-> **[0:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=56)** This enables catching issues early and maintaining data integrity.
+> **[0:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=56)** This enables catching issues early and maintaining [[Data Integrity]].
 >
-> **[1:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=62)** During the process, automation is key for scalability and reliability, and it also minimizes any kind of manual interventions.
+> **[1:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=62)** During the process, automation is key for [[Scalability]] and reliability, and it also minimizes any kind of manual interventions.
 >
 > **[1:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=72)** For tracing data provenance, we use lineage tracking to see where the data is coming from, how it is being processed, and where it might be used.
 >
 > **[1:23](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=83)** Most of the consumer facing applications will have a lot of personal data that will be involved.
 >
-> **[1:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=91)** In here, securing data transmission and access with encryption, RBAC, authentication, et cetera, is critical from a privacy and a governance perspective.
+> **[1:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=91)** In here, securing data transmission and access with encryption, RBAC, authentication, et cetera, is critical from a [[Privacy]] and a governance perspective.
 >
 > **[1:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=104)** If you are an open source user, there are many tools that can come handy for you to build this module in your pipeline.
 >
 > **[1:51](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=111)** Some of them are mentioned on the screen.
 >
-> **[1:54](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=114)** Apache Airflow excels at orchestrating workflows and pipelines, and provides monitoring, retries, and lineage tracking.
+> **[1:54](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=114)** [[Apache Airflow]] excels at orchestrating workflows and pipelines, and provides monitoring, retries, and lineage tracking.
 >
-> **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=121)** Apache Kafka suits high throughput streaming pipelines and delivers scalability, durability, and integrations.
+> **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=121)** [[Apache Kafka]] suits high throughput streaming pipelines and delivers scalability, durability, and integrations.
 >
 > **[2:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=129)** Apache NiFi enables building automated data flows and transformations, offering easy drag and drop authoring.
 >
 > **[2:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=138)** Apache Flume is great for collecting high volume log streams reliably and aggregates the move of log events into the data stores.
 >
-> **[2:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=148)** When sourcing data for AI systems, Azure also provides some great managed options.
+> **[2:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=148)** When sourcing data for AI systems, [[Microsoft Azure|Azure]] also provides some great managed options.
 >
-> **[2:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=155)** Azure Data Factory is a key service that allows creating and orchestrating data pipelines at scale.
+> **[2:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=155)** Azure Data Factory is a key service that allows creating and orchestrating [[Data Pipelines]] at scale.
 >
 > **[2:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=163)** It supports ETL, data migration, and transformation workloads, out of the box.
 >
 > **[2:49](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=169)** You can create workflows with a no-code interface and rich monitoring capabilities.
 >
-> **[2:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=176)** Azure Streaming Analytics is ideal for real time data processing from streams.
+> **[2:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=176)** Azure Streaming Analytics is ideal for real time [[Data Processing]] from streams.
 >
-> **[3:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=182)** It lets you develop SQL based logic to ingest, process, and analyze streaming data from sources like IoT devices.
+> **[3:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=182)** It lets you develop [[SQL]] based logic to ingest, process, and analyze streaming data from sources like [[IoT]] devices.
 >
 > **[3:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=190)** And it also provides you with low latency and resilience.
 >
-> **[3:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=194)** Some other relevant Azure services that I haven't really included in here, but you can check out is Event Hub which helps you with ingesting event streams at high throughput, Azure Databricks for running Apache Sparks job in the cloud, Blob storage and Data Lake storage for scalable raw data storage.
+> **[3:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=194)** Some other relevant Azure services that I haven't really included in here, but you can check out is Event Hub which helps you with ingesting event streams at high throughput, [[Azure Databricks]] for running Apache Sparks job in the cloud, Blob storage and Data Lake storage for scalable raw [[Data Storage]].
 >
 > **[3:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=213)** Cosmos DB, which helps you with managed no SQL database capabilities.
 >
@@ -1326,11 +1309,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=238)** Now let's move to the next step where we prepare the data and validate that the data is of good quality.
 >
-> **[4:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=245)** Start by ensuring the data quality through comprehensive data cleaning and validation.
+> **[4:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=245)** Start by ensuring the [[Data Quality]] through comprehensive [[Data Cleaning]] and validation.
 >
 > **[4:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=251)** Techniques like outlier detection, missing value imputation, normalization ensures that any issues are addressed before modeling.
 >
-> **[4:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=262)** Next, we need well-defined, reproducible data transformation pipelines.
+> **[4:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=262)** Next, we need well-defined, reproducible [[Data Transformation]] pipelines.
 >
 > **[4:29](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=269)** This consistency enables easy debugging and tracking of changes in our pipelines.
 >
@@ -1340,11 +1323,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=292)** It's critical to validate that each split accurately represents the overall data distribution.
 >
-> **[5:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=300)** Power BI dataflows automate and manages this ETL processes through a visual interface that might come handy to you.
+> **[5:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=300)** [[Microsoft Power BI|Power BI]] dataflows automate and manages this ETL processes through a visual interface that might come handy to you.
 >
-> **[5:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=309)** Azure services like Data Factory for complex ETL and Databricks for managed Spark and Purview for data governance enables these best practices at scale.
+> **[5:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=309)** Azure services like Data Factory for complex ETL and Databricks for managed Spark and Purview for [[Data Governance]] enables these best practices at scale.
 >
-> **[5:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=320)** Also, Azure Data Studio provides a GUI for data preparation, which is also super helpful, but the practices themselves are agnostic of any tool.
+> **[5:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=320)** Also, Azure Data Studio provides a GUI for [[Data Preparation]], which is also super helpful, but the practices themselves are agnostic of any tool.
 >
 > **[5:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=332)** By first focusing on the right data preparation principles, we can build scalable, production-ready, ML pipelines leveraging the best tools that you have in hand.
 >
@@ -1352,11 +1335,11 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=351)** There are several best practices that you need to follow here.
 >
-> **[5:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=356)** First, define the objectives, metrics, and algorithms you want to try.
+> **[5:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=356)** First, define the objectives, metrics, and [[Algorithms]] you want to try.
 >
-> **[6:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=362)** Tools like PyTorch provide frameworks for model building with Python, while Keras offers high level APIs for common models like neural networks.
+> **[6:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=362)** Tools like [[PyTorch]] provide frameworks for model building with [[Python (Programming Language)|Python]], while Keras offers high level APIs for common models like [[Neural Networks]].
 >
-> **[6:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=373)** Hugging Face has a bunch of pre-trained transformer models that you can use to fine tune.
+> **[6:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=373)** [[Hugging Face]] has a bunch of pre-trained [[Transformer Models]] that you can use to fine tune.
 >
 > **[6:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=380)** Next, iteratively build, compare and tune the models to find the optimal one for your use case.
 >
@@ -1384,7 +1367,7 @@ created: 2026-05-02
 >
 > **[8:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=482)** This creates portable, self-contained units that you can then dispatch to production.
 >
-> **[8:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=490)** Kubernetes can then handle these container orchestrations and auto-scaling based on the traffic that you're getting on your application.
+> **[8:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=490)** [[Kubernetes]] can then handle these container orchestrations and auto-scaling based on the traffic that you're getting on your application.
 >
 > **[8:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=500)** While using Azure, AKS provides a managed Kubernetes service, which can come handy to you.
 >
@@ -1398,9 +1381,9 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=540)** Security and access control should be baked into the deployment architecture.
 >
-> **[9:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=546)** Here, Azure can manage the credentials and authentication while services like TensorFlow Serving allow deployment behind firewalls for privacy.
+> **[9:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=546)** Here, Azure can manage the credentials and authentication while services like [[TensorFlow]] Serving allow deployment behind firewalls for privacy.
 >
-> **[9:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=559)** For low latency scenarios like real-time video or voice analysis, optimized deployment tools like ONNX Runtime or TensorRT can be integrated with Azure Machine Learning.
+> **[9:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=559)** For low latency scenarios like [[Real-Time]] video or voice analysis, optimized deployment tools like ONNX Runtime or TensorRT can be integrated with Azure Machine Learning.
 >
 > **[9:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-development?u=76281980&t=572)** In addition to best practices, tools like Kubeflow simplify the deployment process with abstraction for Kubernetes.
 >
@@ -1410,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Microsoft Azure|Azure]] (17), next (4), etl (3), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Kubernetes]] (3), [[Scalability]] (2), [[Privacy]] (2), [[SQL]] (2)
 > **Env Vars:** etl (3), sql (2), rest (1), grpc (1), rbac (1)
 > **CLI Commands:** apache (5), python (1), find (1), docker (1)
 > **UI Navigation:** drag and drop (1)
@@ -1419,42 +1402,41 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing the MLOps process: Productionalizing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980)
+#### [Optimizing the MLOps process: Productionalizing](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=0)** - [Instructor] To successfully operationalize machine learning models, we need to implement a continuous integration, delivery and training pipelines.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=0)** - [Instructor] To successfully operationalize machine learning models, we need to implement a [[Continuous Integration (CI)|continuous integration]], delivery and training pipelines.
 >
 > **[0:08](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=8)** This requires several key best practices.
 >
 > **[0:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=11)** Let's go over it.
 >
-> **[0:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=13)** First, we need to leverage platforms that seamlessly support the entire end-to-end ML workflow from data preparation and feature engineering to model development, training, tuning, and deployment.
+> **[0:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=13)** First, we need to leverage platforms that seamlessly support the entire end-to-end ML workflow from [[Data Preparation]] and [[Feature Engineering]] to model development, training, tuning, and deployment.
 >
-> **[0:26](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=26)** Kubernetes-based platforms, like KubeFlow, provide these comprehensive capabilities at scale in a portable cloud agnostic manner.
+> **[0:26](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=26)** [[Kubernetes]]-based platforms, like KubeFlow, provide these comprehensive capabilities at scale in a portable cloud agnostic manner.
 >
-> **[0:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=36)** Next, it is critical to choose flexible interoperable platforms that work with diverse algorithms, frameworks, and programming languages.
+> **[0:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=36)** Next, it is critical to choose flexible interoperable platforms that work with diverse [[Algorithms]], frameworks, and programming languages.
 >
-> **[0:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=46)** For example, Azure Machine Learning has first class support for TensorFlow, PyTorch, scikit-learn, and many more other packages, enabling freedom when you are building your models.
+> **[0:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=46)** For example, [[Microsoft Azure|Azure]] Machine Learning has first class support for [[TensorFlow]], [[PyTorch]], scikit-learn, and many more other packages, enabling freedom when you are building your models.
 >
-> **[0:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=59)** Version control, collaboration, and reproducibility features are also a must have.
+> **[0:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=59)** [[Version Control]], collaboration, and reproducibility features are also a must have.
 >
-> **[1:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=66)** So here, tools like MLflow, GitHub weights and biases and hugging phase enables tracking the experiments, model versions, model parameters, and running history for auditing, sharing, and reproducibility, really easy.
+> **[1:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=66)** So here, tools like [[MLflow]], [[GitHub]] weights and biases and hugging phase enables tracking the experiments, model versions, model parameters, and running history for auditing, sharing, and reproducibility, really easy.
 >
 > **[1:23](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=83)** For continuous training pipelines, platforms should provide capabilities like automated periodic model retraining and simplified redeployment when a concept drift is detected on the new data.
 >
 > **[1:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=99)** Here, Azure Machine Learning comes with robust ML ops features to enable this exact automated cycle.
 >
-> **[1:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=107)** By combining the scalability and portability of Kubernetes, with tools built for end-to-end ML ops, we can enable rapid experimentation and continuous delivery of the machine learning applications.
+> **[1:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=107)** By combining the [[Scalability]] and portability of Kubernetes, with tools built for end-to-end ML ops, we can enable rapid experimentation and [[Continuous Delivery (CD)|continuous delivery]] of the machine learning applications.
 >
-> **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=121)** This agile approach allows us to keep models accurate as the new data arrives.
+> **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=121)** This [[Agile Development|agile]] approach allows us to keep models accurate as the new data arrives.
 >
 > **[2:08](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=128)** Maintaining production machine learning system requires comprehensive monitoring and observability.
 >
 > **[2:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=134)** There are several best practices that we need to follow here as well.
 >
-> **[2:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=138)** So first, we need to implement robust logging for all key model performance metrics, user statistics, incidents, and exceptions.
+> **[2:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=138)** So first, we need to implement robust logging for all key model [[Performance Metrics]], user [[Statistics]], incidents, and exceptions.
 >
 > **[2:29](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=149)** This creates an audit trail for identifying issues early on.
 >
@@ -1462,13 +1444,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=164)** On Azure Cloud, a tool called Application Insight can also help you collect this telemetry.
 >
-> **[2:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=172)** Next, you need to use interactive dashboards and visualizations to gain visibility into the model behavior, drift trends and these incidents.
+> **[2:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=172)** Next, you need to use interactive [[Dashboards]] and visualizations to gain visibility into the model behavior, drift trends and these incidents.
 >
 > **[3:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=184)** Specialized tool, like Evidently, help you provide explainable monitoring tailored to these machine learning models.
 >
-> **[3:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=193)** Power BI can also help you connect to log the data for building custom views.
+> **[3:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=193)** [[Microsoft Power BI|Power BI]] can also help you connect to log the data for building custom views.
 >
-> **[3:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=199)** Regular benchmarking and load testing ensures that the model remains performant and accurate under production workloads and prevents any kind of degradation.
+> **[3:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=199)** Regular benchmarking and [[Load Testing]] ensures that the model remains performant and accurate under production workloads and prevents any kind of degradation.
 >
 > **[3:31](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=211)** TensorFlow Extended enables us with systematic scalability testing and optimization.
 >
@@ -1484,7 +1466,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=270)** The infrastructure supporting production machine learning systems need to provide scalability, reliability, and security.
 >
-> **[4:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=279)** First, we need to leverage cloud platforms like Azure or robust on-prem infrastructure that can handle flexible hardware and software configurations.
+> **[4:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=279)** First, we need to leverage cloud platforms like Azure or robust on-prem infrastructure that can handle flexible [[Hardware]] and software configurations.
 >
 > **[4:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=290)** Auto-scaling capabilities are critical for workloads with variable traffic.
 >
@@ -1504,7 +1486,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=350)** Here, Azure Resource Manager can enable automating this provision.
 >
-> **[5:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=356)** For security, it is important to isolate untrusted workloads and enable encryption, have role-based access, and have a strong network security monitoring system.
+> **[5:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=356)** For security, it is important to isolate untrusted workloads and enable encryption, have role-based access, and have a strong [[Network Security]] monitoring system.
 >
 > **[6:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=370)** Here, Azure confidential computing can provide you with this protector enclaves.
 >
@@ -1528,7 +1510,7 @@ created: 2026-05-02
 >
 > **[7:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=450)** This improves the discoverability and reuse.
 >
-> **[7:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=454)** Tracking data lineage gives transparency into how data flows through preparatory steps, which is critical for auditability.
+> **[7:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=454)** Tracking [[Data Lineage]] gives transparency into how data flows through preparatory steps, which is critical for auditability.
 >
 > **[7:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/optimizing-the-mlops-process-productionalizing?u=76281980&t=464)** Continuous data monitoring proactively detects emerging issues like bias, drift, or integrity violations before they can impact the models.
 >
@@ -1542,7 +1524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (13), cloud (6), [[Kubernetes]] (4), [[Scalability]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Kubernetes]] (4), [[Scalability]] (4), [[TensorFlow]] (3), [[MLflow]] (2)
 > **Env Vars:** aks (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
@@ -1553,22 +1535,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data validation, train-test validation, and model validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980)
+#### [Data validation, train-test validation, and model validation](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=0)** - So far, we have covered the conceptual foundations of data-centric AI, as well as how to operationalize it within MLOps system.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=0)** - So far, we have covered the conceptual foundations of data-centric AI, as well as how to operationalize it within [[MLOps]] system.
 >
 > **[0:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=9)** Now it's time to put these concepts into action with concrete skills and examples.
 >
-> **[0:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=15)** We'll start by revisiting core techniques like data validation, pre-processing, and exploratory analysis.
+> **[0:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=15)** We'll start by revisiting core techniques like [[Data Validation]], pre-processing, and exploratory analysis.
 >
 > **[0:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=22)** I'll provide you additional details on methods for handling missing data, detecting outliers, and cleaning your data.
 >
-> **[0:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=30)** This discussion will set the stage for hands-on demonstration, using TensorFlow data validation to compute statistics, identify anomalies, profile your data, and validate the models that you're building.
+> **[0:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=30)** This discussion will set the stage for hands-on demonstration, using [[TensorFlow]] data validation to compute [[Statistics]], identify anomalies, profile your data, and validate the models that you're building.
 >
-> **[0:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=44)** By actually applying data-centric AI tooling to real datasets, you'll gain the experience with practical methods for ensuring data quality, robustness, and ethics.
+> **[0:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=44)** By actually applying data-centric AI tooling to real datasets, you'll gain the experience with practical methods for ensuring [[Data Quality]], robustness, and [[Ethics]].
 >
 > **[0:57](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=57)** This section ties together the previous conceptual foundations with tangible skills so you can apply in your own projects.
 >
@@ -1590,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=116)** The training set is what creates the model while validation and test set is there to ensure that it is fit for purpose.
 >
-> **[2:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=126)** We train candidate models on the training dataset with algorithms like regression, random forest, or neural networks.
+> **[2:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=126)** We train candidate models on the training dataset with [[Algorithms]] like regression, random forest, or [[Neural Networks]].
 >
 > **[2:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980&t=134)** The models are tuned until they reach the target accuracy metric for the validation dataset.
 >
@@ -1610,15 +1591,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), ai (3), [[MLOps]] (1), [[TensorFlow]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Validation]] (2), [[MLOps]] (1), [[TensorFlow]] (1), [[Statistics]] (1)
 > **Speakers:** - so (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=0)** - [Instructor] In this section, I'll discuss the critical importance of data validation and pre-processing, and go over some common data issues that needs to be addressed.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=0)** - [Instructor] In this section, I'll discuss the critical importance of [[Data Validation]] and pre-processing, and go over some common data issues that needs to be addressed.
 >
 > **[0:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=11)** These are the data issues that I showed you initially when I started talking about what is data-centric AI.
 >
@@ -1654,7 +1634,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=104)** One is detecting the data issues or this can be called as data validation, and second part is taking an action if the data issue is found.
 >
-> **[1:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=115)** One of the primary data analysis step one should do on the data is descriptive statistics.
+> **[1:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=115)** One of the primary data analysis step one should do on the data is descriptive [[Statistics]].
 >
 > **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=121)** This gives us an overview of the distribution of the dataset.
 >
@@ -1694,19 +1674,19 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=294)** Now, alerting is a critical part of monitoring and maintaining data in AI systems.
 >
-> **[5:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=300)** Alert should be triggered for a wide range of issues, which can include data quality issues like missing values, outliers, or drift from the expected distributions, these can really degrade your model performance.
+> **[5:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=300)** Alert should be triggered for a wide range of issues, which can include [[Data Quality]] issues like missing values, outliers, or drift from the expected distributions, these can really degrade your model performance.
 >
 > **[5:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=314)** Then data anomalies such as unexpected patterns or spikes in your data.
 >
 > **[5:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=320)** These could indicate that there is a problem in your data pipeline.
 >
-> **[5:25](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=325)** Then with data integrity issues including validation failures or violation of integrity constraints is also important.
+> **[5:25](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=325)** Then with [[Data Integrity]] issues including validation failures or violation of integrity constraints is also important.
 >
 > **[5:34](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=334)** This signals that there is a corruption or invalid data.
 >
 > **[5:38](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=338)** Alerting could also be done for model performance degradation based on metrics like a AUC or accuracy falling, including any kind of other prediction errors significantly increasing.
 >
-> **[5:51](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=351)** Data security issues including potential data breaches or leakage of sensitive data is also a critical risk where you need to create alerts.
+> **[5:51](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=351)** [[Data Security]] issues including potential data breaches or leakage of sensitive data is also a critical risk where you need to create alerts.
 >
 > **[6:03](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=363)** Then compliance violation relating to regulation or any organizational policy, and this is very important for auditing purposes.
 >
@@ -1740,7 +1720,7 @@ created: 2026-05-02
 >
 > **[7:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=467)** Also incorporate qualitative feedback through user reports and monitoring unintended effects on the feedback loop.
 >
-> **[7:57](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=477)** Try to set well-defined thresholds for key metric like accuracy, data completeness, or privacy budget consumption.
+> **[7:57](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=477)** Try to set well-defined thresholds for key metric like accuracy, data completeness, or [[Privacy]] budget consumption.
 >
 > **[8:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=486)** Automate corrective actions whenever possible, like retraining models on the new data when the accuracy declines.
 >
@@ -1814,7 +1794,7 @@ created: 2026-05-02
 >
 > **[12:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=755)** Hence, proper validation can help you catch these problems before putting your models into production.
 >
-> **[12:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=763)** Let me briefly walk you over two different operations in the TensorFlow data validation that helps you look at the data anomalies between the train and the validation dataset.
+> **[12:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=763)** Let me briefly walk you over two different operations in the [[TensorFlow]] data validation that helps you look at the data anomalies between the train and the validation dataset.
 >
 > **[12:54](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=774)** For now, the purpose is just for you to understand from a high level on how this works.
 >
@@ -1874,7 +1854,7 @@ created: 2026-05-02
 >
 > **[16:14](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=974)** We need to probe the model with adversarial data and stress tests.
 >
-> **[16:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=980)** Fairness: Could biases in the training data or algorithms lead to unfair model behavior?
+> **[16:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=980)** Fairness: Could biases in the training data or [[Algorithms]] lead to unfair model behavior?
 >
 > **[16:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=987)** We need to audit for discrimination against protected groups.
 >
@@ -1930,13 +1910,13 @@ created: 2026-05-02
 >
 > **[19:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1176)** If your target variable has three classes, the ROC curve is not directly applicable because the ROC and AUC are typically used for binary classification.
 >
-> **[19:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1186)** However, you can calculate and visualize the ROC and AUC for each class separately in a one-versus-all fashion, also known as one-versus-rest.
+> **[19:46](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1186)** However, you can calculate and visualize the ROC and AUC for each class separately in a one-versus-all fashion, also known as one-versus-[[Representational State Transfer (REST)|rest]].
 >
 > **[19:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1199)** Or you can use another suitable metric like a multi-class version of AUC, which is often referred to as micro average AUC.
 >
 > **[20:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1209)** Confusion matrices clearly visualize the prediction errors, comparing actual versus the predicted labels.
 >
-> **[20:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1218)** And ROC curves show the false positive versus false negative trade-off graphically across different probability thresholds.
+> **[20:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1218)** And ROC curves show the false positive versus false negative trade-off graphically across different [[Probability]] thresholds.
 >
 > **[20:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/best-practices?u=76281980&t=1228)** So here's the thing, no single metric can provide you with a complete picture, so it's important to evaluate your model from multiple angles using both quantitative metrics and qualitative human review on the predictions to ensure that you have built a good model.
 >
@@ -1944,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (96), feature (6), [[Security]] (4), ai (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (4), [[Data Quality]] (4), [[Statistics]] (1), [[Data Integrity]] (1), [[Data Security]] (1)
 > **Env Vars:** auc (6), roc (4), etl (1)
 > **Definitions:** is a  (6), known as (2), is an  (1), refers to (1)
 > **Analogies:** for example (1), such as (1), picture (1)
@@ -1952,14 +1932,13 @@ created: 2026-05-02
 > **Best Practices:** the key is (1), best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code example: Exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980)
+#### [Code example: Exploration](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=0)** - [Instructor] Theory is great, but let's see these things in action.
 >
-> **[0:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=4)** Keeping in mind that people taking the course will have different level of expertise, in this particular code in our GitHub repository, I have taken a smaller data set and an easier example to run through descriptive statistics, data drift detection, outlier detection, and model validation.
+> **[0:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=4)** Keeping in mind that people taking the course will have different level of expertise, in this particular code in our [[GitHub]] repository, I have taken a smaller data set and an easier example to run through descriptive [[Statistics]], data drift detection, outlier detection, and model validation.
 >
 > **[0:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=20)** As you see in the notebook here, I've already run the cell, which installs the packages to save you some time.
 >
@@ -1973,7 +1952,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=49)** The risk level is the target value, which has low risk, medium risk, and high risk values.
 >
-> **[0:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=55)** As you see, the rest of the features in this dataset is just numerical without any categorical and text column for ease of use.
+> **[0:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=55)** As you see, the [[Representational State Transfer (REST)|rest]] of the features in this dataset is just numerical without any categorical and text column for ease of use.
 >
 > **[1:03](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=63)** In the next step, we're going to split the data set into train and validation in 70/30 split.
 >
@@ -1981,9 +1960,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=75)** The data that we are using is pristine, and it doesn't have any missing values or outliers.
 >
-> **[1:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=80)** So, in order to show you how data validation would work, I'm artificially introducing 5% of missing values in both the training and validation data set, and introducing anomalies in the age column of the validation data set.
+> **[1:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=80)** So, in order to show you how [[Data Validation]] would work, I'm artificially introducing 5% of missing values in both the training and validation data set, and introducing anomalies in the age column of the validation data set.
 >
-> **[1:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=95)** In this notebook, I will be using TFDV, which is TensorFlow Data Validation and Open-source package for data validation and model validation.
+> **[1:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=95)** In this notebook, I will be using TFDV, which is [[TensorFlow]] Data Validation and Open-source package for data validation and model validation.
 >
 > **[1:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-exploration?u=76281980&t=103)** In this step, I'm generating the statistics of the train and validation dataset.
 >
@@ -2087,7 +2066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Statistics]] (7), next (7), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (7), [[Data Validation]] (4), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[TensorFlow]] (1)
 > **Env Vars:** tfdv (2), auc (2), uci (1), ruc (1), roc (1)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (2)
@@ -2100,8 +2079,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of model explainability and interpretability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980)
+#### [Importance of model explainability and interpretability](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2115,7 +2093,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=28)** We'll cover leading techniques like LIME for local explanations, and SHAP for global interpretation.
 >
-> **[0:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=35)** I'll also discuss methods tailored to deep learning like saliency maps and attention layers.
+> **[0:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=35)** I'll also discuss methods tailored to [[Deep Learning]] like saliency maps and attention layers.
 >
 > **[0:41](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=41)** This discussion will set the stage for hands-on examples using libraries like LIME and fair loan that I'll show you to add explainability and interpretability to your models.
 >
@@ -2139,7 +2117,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=118)** Let's start with understanding the why behind these.
 >
-> **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=121)** Explainability and interpretability are critical capabilities for reliable and responsible AI that users can actually trust.
+> **[2:01](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=121)** Explainability and interpretability are critical capabilities for reliable and [[Responsible AI]] that users can actually trust.
 >
 > **[2:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=132)** Without having the transparency into how the model works, we open the door to all kinds of risks.
 >
@@ -2153,21 +2131,20 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=176)** Regulations like GDPR grants user the right to receive the explanation for algorithmic decisions that can affect them.
 >
-> **[3:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=184)** Here, explainable models will be imperative as legal compliance becomes mandatory.
+> **[3:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=184)** Here, explainable models will be imperative as [[Legal Compliance]] becomes mandatory.
 >
-> **[3:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=191)** While adding explainability does increase complexity, but the benefits of trust, transparency, and ethics are well worth it.
+> **[3:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=191)** While adding explainability does increase complexity, but the benefits of trust, transparency, and [[Ethics]] are well worth it.
 >
 > **[3:20](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980&t=200)** By making explainability a core requirement, we can build AI systems that are debuggable, fair, and trusted by the users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[Deep Learning]] (1), [[Responsible AI]] (1), [[Legal Compliance]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Responsible AI]] (1), [[Legal Compliance]] (1), [[Ethics]] (1)
 > **Env Vars:** lime (2), shap (1), xai (1), iai (1), gdpr (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Techniques for understanding and interpreting ML models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980)
+#### [Techniques for understanding and interpreting ML models](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2183,19 +2160,19 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=37)** The model itself is designed to be inherently understandable, not just its outputs.
 >
-> **[0:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=44)** Interpretability is critical for building trust in the AI systems.
+> **[0:44](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=44)** Interpretability is critical for [[Building Trust]] in the AI systems.
 >
 > **[0:48](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=48)** Humans are more likely to trust the models that they're able to interpret.
 >
 > **[0:55](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=55)** Explainability involves generating explanations of the AI system behavior for non-technical stakeholders in an accessible manner.
 >
-> **[1:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=65)** It ensures transparency and accountability, especially in high stake applications like healthcare and finance.
+> **[1:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=65)** It ensures transparency and [[Accountability]], especially in high stake applications like healthcare and finance.
 >
-> **[1:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=73)** Explainability techniques include natural language explanations of the model predictions or the overall behavior; having visualizations and examples that illustrate the decision-making process of the model; having counterfactual analysis exploring how the outcome could be different; having local explanation models that approximate the behavior of complex models for individual predictions.
+> **[1:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=73)** Explainability techniques include natural language explanations of the model predictions or the overall behavior; having visualizations and examples that illustrate the [[Decision-Making]] process of the model; having counterfactual analysis exploring how the outcome could be different; having local explanation models that approximate the behavior of complex models for individual predictions.
 >
 > **[1:42](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=102)** These provide interpretation without sacrificing the overall performance.
 >
-> **[1:48](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=108)** Having attention mechanism in neural networks that highlight which input feature contributed most for a particular output.
+> **[1:48](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=108)** Having attention mechanism in [[Neural Networks]] that highlight which input feature contributed most for a particular output.
 >
 > **[1:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=118)** And having explanations by example, which means showing representative instance that led to a similar model output.
 >
@@ -2205,9 +2182,9 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=152)** Some of the examples for interpretability techniques are sensitivity analysis to assess how the model outputs vary with changes to the inputs; feature important metrics that quantify the influence of each input on the output; and model distillation to approximate complex models with simpler, more understandable ones.
 >
-> **[2:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=179)** You could also use decision trees with logical branching rules that people can follow.
+> **[2:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=179)** You could also use [[Decision Trees]] with logical branching rules that people can follow.
 >
-> **[3:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=186)** Or have linear regression models whose coefficients reveal the relationship between the variables and the target.
+> **[3:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=186)** Or have [[Linear Regression]] models whose coefficients reveal the relationship between the variables and the target.
 >
 > **[3:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/techniques-for-understanding-and-interpreting-ml-models?u=76281980&t=195)** Or you could also have sparse models where only a small subset of the features are used in the decisions.
 >
@@ -2221,12 +2198,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), feature (2), [[Debugging]] (1), [[Building Trust]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Accountability]] (1), [[Decision-Making]] (1), [[Neural Networks]] (1), [[Decision Trees]] (1)
 > **Definitions:** refers to (2), is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Code example: Model validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-model-validation?u=76281980)
+#### [Code example: Model validation](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-model-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2228,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-model-validation?u=76281980&t=90)** As you see, I'm using one of the data points of the validation datasets and explaining the prediction.
 >
-> **[1:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-model-validation?u=76281980&t=96)** You see, we have three classes where Y is equal to high risk has the highest probability of 0.908.
+> **[1:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-model-validation?u=76281980&t=96)** You see, we have three classes where Y is equal to high risk has the highest [[Probability]] of 0.908.
 >
 > **[1:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-model-validation?u=76281980&t=105)** You see here that what are the features that are contributing towards this prediction.
 >
@@ -2290,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Probability]] (4), feature (3), next (1)
+> **Frameworks & Libraries:** [[Probability]] (4)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** lime (2)
 > **CLI Commands:** make (1)
@@ -2303,8 +2279,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discussion on the challenges of bias in AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980)
+#### [Discussion on the challenges of bias in AI systems](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,7 +2303,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980&t=69)** Bias refers to systematic error in model that can lead to unfair or discriminatory outcomes for certain individual or groups.
 >
-> **[1:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980&t=79)** Biases can emerge in various stages of the machine learning pipeline, whether from issues in data collection, labeling, pre-processing, or the algorithms themselves.
+> **[1:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980&t=79)** Biases can emerge in various stages of the machine learning pipeline, whether from issues in [[Data Collection]], labeling, pre-processing, or the [[Algorithms]] themselves.
 >
 > **[1:33](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980&t=93)** Regardless of the source, biased models can have real-world consequences.
 >
@@ -2370,18 +2345,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (5), [[Algorithms]] (3), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Data Collection]] (2)
 > **Env Vars:** zip (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting and mitigating bias in data-centric AI projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980)
+#### [Detecting and mitigating bias in data-centric AI projects](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=0)** - [Instructor] Two common sources of bias to check for are issues in data collection or labeling and imbalanced subgroup distributions in the data.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=0)** - [Instructor] Two common sources of bias to check for are issues in [[Data Collection]] or labeling and imbalanced subgroup distributions in the data.
 >
 > **[0:09](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=9)** For data collection and labeling, we need to critically audit the process for potential issues.
 >
@@ -2413,7 +2387,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=116)** Metrics like correlation coefficients also identify concerning relationships to monitor.
 >
-> **[2:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=124)** With model objectives and algorithms, reviewing the specifications and assumptions can help us surface these biases.
+> **[2:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=124)** With model objectives and [[Algorithms]], reviewing the specifications and assumptions can help us surface these biases.
 >
 > **[2:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/detecting-and-mitigating-bias-in-data-centric-ai-projects?u=76281980&t=133)** Ask yourself, "Does the framing prioritize certain groups over the other?"
 >
@@ -2457,13 +2431,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code example: Bias detection and mitigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-bias-detection-and-mitigation?u=76281980)
+#### [Code example: Bias detection and mitigation](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-bias-detection-and-mitigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2483,7 +2456,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-bias-detection-and-mitigation?u=76281980&t=52)** In your particular use case, if you think that it is important to know the low risk or medium risk patient, you can use that as well.
 >
-> **[0:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-bias-detection-and-mitigation?u=76281980&t=59)** But in this example, I'm just trying to break this into a binary class classification problem, and run through the rest of the example.
+> **[0:59](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-bias-detection-and-mitigation?u=76281980&t=59)** But in this example, I'm just trying to break this into a binary class classification problem, and run through the [[Representational State Transfer (REST)|rest]] of the example.
 >
 > **[1:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/code-example-bias-detection-and-mitigation?u=76281980&t=66)** In the next step, we obviously have to go back and split this data again for train and test and build our classifier model.
 >
@@ -2543,7 +2516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (5), next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.24 (2), 0.21 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -2555,16 +2528,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring and maintaining ML models in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980)
+#### [Monitoring and maintaining ML models in production](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=0)** - [Instructor] As we've discussed, data-centric AI requires continuous monitoring and adaptation to changes in real-world data.
+> **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=0)** - [Instructor] As we've discussed, data-centric AI requires [[Continuous Monitoring]] and adaptation to changes in real-world data.
 >
 > **[0:08](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=8)** This brings us to the key topics of data drift and model drift.
 >
-> **[0:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=13)** We'll explore different forms of drift and how they degrade model performance over time.
+> **[0:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=13)** We'll explore different [[Forms]] of drift and how they degrade model performance over time.
 >
 > **[0:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=19)** I'll also provide guidance on how to monitor models in production to detect these issues.
 >
@@ -2598,7 +2570,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=125)** It helps you diagnose problems early and make the model more robust.
 >
-> **[2:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=132)** Once machine learning models are deployed in production, we need to continuously track the performance metrics to catch any degradation over time.
+> **[2:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=132)** Once machine learning models are deployed in production, we need to continuously track the [[Performance Metrics]] to catch any degradation over time.
 >
 > **[2:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980&t=142)** First, monitor the key application metrics, like accuracy, latency, and different error types of each model.
 >
@@ -2722,14 +2694,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), traffic (3), ai (2), [[Continuous Monitoring]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1), [[Forms]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), it's like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding data drift and model drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980)
+#### [Understanding data drift and model drift](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2753,7 +2724,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=72)** With changing economic climate and day-to-day events, the purchase patterns of customers changed.
 >
-> **[1:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=79)** Travel patterns of these customers changed as well, and this caused the models to not react well to these changed data patterns.
+> **[1:19](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=79)** Travel patterns of these customers changed as well, and this caused the models to not [[React.js|react]] well to these changed data patterns.
 >
 > **[1:29](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=89)** Even periodic events like holidays can alter these distributions temporarily.
 >
@@ -2777,13 +2748,13 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=176)** As a result, predictions sharply degrade in quality since the models cannot efficiently interpret new unseen input patterns deviating significantly from the training data characteristics.
 >
-> **[3:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=190)** The impacts of drift are essentially pronounced for time series and sequential data like user activity logs or IoT sensor streams.
+> **[3:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=190)** The impacts of drift are essentially pronounced for time series and sequential data like user activity logs or [[IoT]] sensor streams.
 >
 > **[3:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=201)** Small deviations do accumulate quickly.
 >
 > **[3:25](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=205)** Without mechanisms to continuously monitor the drift and retraining the model accordingly, real-world performance declines.
 >
-> **[3:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=216)** User experience suffers due to inaccurate predictions.
+> **[3:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=216)** [[User Experience (UX)|User experience]] suffers due to inaccurate predictions.
 >
 > **[3:40](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=220)** In summary, data drift breaks the fundamental assumptions and relationships learned during model development.
 >
@@ -2845,7 +2816,7 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=463)** There are different metrics that you can track and monitor in order to make sure that your models are performing well over time.
 >
-> **[7:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=472)** You can track statistics like mean and standard deviation, where any significant change could indicate drift.
+> **[7:52](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=472)** You can track [[Statistics]] like mean and standard deviation, where any significant change could indicate drift.
 >
 > **[8:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/understanding-data-drift-and-model-drift?u=76281980&t=480)** You can keep tabs on model accuracy too, and any drop can mean that your data is shifting.
 >
@@ -2863,7 +2834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), feature (2), [[Statistics]] (2), [[React.js|React]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[React.js|React]] (1), [[IoT]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** covid (1)
@@ -2875,20 +2846,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ethical considerations in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980)
+#### [Introduction to ethical considerations in AI](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=0)** - [Instructor] We have now covered many technical concepts and best practices related to data-centric AI.
 >
-> **[0:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=6)** Let's now tie everything together by discussing the overarching theme of Responsible AI.
+> **[0:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=6)** Let's now tie everything together by discussing the overarching theme of [[Responsible AI]].
 >
 > **[0:13](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=13)** Responsible AI considers the ethical, social, and policy implications of AI systems.
 >
 > **[0:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=21)** It provides guiding tenets for how to develop AI safety fairly, transparently, and aligned with human values.
 >
-> **[0:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=30)** We'll explore the key pillars of Responsible AI, including privacy, bias mitigation, accountability, transparency, and governance.
+> **[0:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=30)** We'll explore the key pillars of Responsible AI, including [[Privacy]], bias mitigation, [[Accountability]], transparency, and governance.
 >
 > **[0:41](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=41)** By the end of this section, you'll understand how to uphold key ethical principles through the AI development process.
 >
@@ -2900,13 +2870,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=62)** What do you think it says?
 >
-> **[1:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=65)** As a data science professional, I truly believe that AI has incredible power.
+> **[1:05](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=65)** As a [[Data Science]] professional, I truly believe that AI has incredible power.
 >
 > **[1:11](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=71)** But I also believe power can be detrimental if not used responsibly.
 >
-> **[1:17](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=77)** Since last year, when ChatGPT was launched, there have been thousands of applications that have come out that uses generative AI in some form or the other.
+> **[1:17](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=77)** Since last year, when [[ChatGPT]] was launched, there have been thousands of applications that have come out that uses [[Generative AI]] in some form or the other.
 >
-> **[1:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=87)** Sure, there are challenges and threats with building AI solutions, especially with the generative AI capabilities.
+> **[1:27](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=87)** Sure, there are challenges and threats with building [[AI Solutions]], especially with the generative AI capabilities.
 >
 > **[1:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=95)** But we can deal with them strategically.
 >
@@ -2964,33 +2934,32 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=276)** It requires both technical and model diligence focused on benefiting the society.
 >
-> **[4:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=283)** Here is an article that I posted on LinkedIn last year.
+> **[4:43](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=283)** Here is an article that I posted on [[LinkedIn]] last year.
 >
 > **[4:47](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=287)** It is a very comprehensive article which covers these five pillars in much more detail and talks about the personas involved.
 >
 > **[4:56](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=296)** I would highly recommend you check it out.
 >
-> **[4:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=298)** I will also be adding the link to this article in the GitHub repo.
+> **[4:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980&t=298)** I will also be adding the link to this article in the [[GitHub]] repo.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Responsible AI]] (5), data (4), [[Accountability]] (4), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), [[Accountability]] (4), [[Privacy]] (3), [[Generative AI]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Principles for responsible AI development and deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980)
+#### [Principles for responsible AI development and deployment](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=0)** - [Instructor] One of the important things I wanted to cover in this chapter is the EU AI bill.
 >
-> **[0:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=6)** The European Union recently unveiled new legislation aimed at regulating artificial intelligence called the AI Act.
+> **[0:06](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=6)** The European Union recently unveiled new legislation aimed at regulating [[Artificial Intelligence (AI)|artificial intelligence]] called the AI Act.
 >
-> **[0:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=15)** This groundbreaking bill will have major implications for developers and users of generative AI models.
+> **[0:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=15)** This groundbreaking bill will have major implications for developers and users of [[Generative AI]] models.
 >
 > **[0:23](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=23)** The EU AI Act is an evolving regulatory framework.
 >
@@ -3022,7 +2991,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=130)** Users can also request information about what data was used to train an AI model and how it functions.
 >
-> **[2:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=138)** The right to explanation enhances accountability.
+> **[2:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=138)** The right to explanation enhances [[Accountability]].
 >
 > **[2:23](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=143)** For generative AI specifically, the regulations aim to encourage responsible development rather than banning the systems outright.
 >
@@ -3038,7 +3007,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=198)** Let's break down the things that went in it.
 >
-> **[3:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=201)** The bill requires companies using AI in any of their products and applications to document and report testing of these models.
+> **[3:21](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=201)** The bill requires companies using AI in any of their [[Microsoft Products|products]] and applications to document and report testing of these models.
 >
 > **[3:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=210)** But much clarity hasn't been shared about the use case of the application, data being used in it, and the end user of the application.
 >
@@ -3048,7 +3017,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=234)** It also directs creation of new guardrails to stop companies from collecting personal data.
 >
-> **[4:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=240)** This definitely will cause some issues with the classic privacy versus utility challenge, and I'm curious to see how this evolves.
+> **[4:00](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=240)** This definitely will cause some issues with the classic [[Privacy]] versus utility challenge, and I'm curious to see how this evolves.
 >
 > **[4:10](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/principles-for-responsible-ai-development-and-deployment?u=76281980&t=250)** The executive order also emphasizes on the methods to ensure AI tools aren't being used to increase bias and discrimination.
 >
@@ -3078,7 +3047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), data (7), [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), application (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Accountability]] (1), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Warnings:** keep in mind (1)
@@ -3089,8 +3058,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Closing remarks and next steps for further learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980)
+#### [Closing remarks and next steps for further learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3100,7 +3068,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=22)** So here are a few recommendations for you.
 >
-> **[0:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=24)** First, if you want to get started building your first data-centric AI pipeline in a cloud environment, you can get free credit when you sign up for Azure Cloud.
+> **[0:24](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=24)** First, if you want to get started building your first data-centric AI pipeline in a cloud environment, you can get free credit when you sign up for [[Microsoft Azure|Azure]] Cloud.
 >
 > **[0:35](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=35)** Second, many of you who would've joined this course, I'm sure are entrepreneurial.
 >
@@ -3108,7 +3076,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=50)** If this is true, I have good news for you.
 >
-> **[0:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=53)** Microsoft for Startups, where I'm a senior AI advocate, helps startup leverage Azure AI services and Azure OpenAI tools to build their products.
+> **[0:53](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=53)** [[Microsoft]] for Startups, where I'm a senior AI advocate, helps startup leverage Azure AI services and Azure OpenAI tools to build their [[Microsoft Products|products]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=64)** And if you haven't heard of Founders Hub yet, now is the time to pick up your phone and look it up.
 >
@@ -3118,19 +3086,19 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=88)** If you have an idea or a prototype or a product which you want to do a product market fit and launch it, Founders Hub will give you everything you need.
 >
-> **[1:40](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=100)** Just visit the link in our GitHub repo and fill out the Founders Hub form.
+> **[1:40](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=100)** Just visit the link in our [[GitHub]] repo and fill out the Founders Hub form.
 >
 > **[1:45](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=105)** It will only take you a few minutes to fill it out, which includes details about you, your startup, your business proposition, details about where you are in your startup journey and your goals.
 >
 > **[1:58](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=118)** Once you get accepted into Founders Hub, you can get a lot of free Azure credits, which can also be used for Azure OpenAI services.
 >
-> **[2:07](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=127)** You get GitHub, a Microsoft 365 subscription, LinkedIn Premium, Sales Navigator, among many more benefits.
+> **[2:07](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=127)** You get GitHub, a [[Microsoft 365]] subscription, [[LinkedIn]] Premium, Sales Navigator, among many more benefits.
 >
 > **[2:15](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=135)** The cherry on the top is that you get one-on-one advisory from the Microsoft for Startups export networks where people like me, who have expertise in a particular domain, will be able to help you with your technical requests.
 >
 > **[2:30](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=150)** Now, coming back to our course, I have also included some reference resources for further reading in our GitHub repository.
 >
-> **[2:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=159)** I also encourage you to follow me on LinkedIn where I regularly share the latest on data and AI advancements, best practices, and thought leadership.
+> **[2:39](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=159)** I also encourage you to follow me on LinkedIn where I regularly share the latest on data and AI advancements, best practices, and [[Thought Leadership]].
 >
 > **[2:48](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980&t=168)** Thank you again for your time.
 >
@@ -3138,7 +3106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (5), data (3), [[GitHub]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[GitHub]] (3), [[Microsoft]] (2), [[LinkedIn]] (2), [[Microsoft Products|Products]] (1)
 > **Tools:** github (3)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - as (1)

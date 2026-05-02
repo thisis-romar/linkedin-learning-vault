@@ -112,26 +112,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Artificial intelligence for all
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980)
+#### [Artificial intelligence for all](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=0)** - We're creating more content than we've ever had before due to the increasing number of resolutions, social media channels and touchscreen interfaces.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=9)** How do you keep up with the constant struggle for content creation?
+> **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=9)** How do you keep up with the constant struggle for [[Content Creation]]?
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=13)** My name is Bart Van de Wiele, lifelong designer and published author on Creative Cloud workflows.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=18)** And in this course, I will show you the best AI driven features within Adobe Creative Cloud's design applications.
+> **[0:18](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=18)** And in this course, I will show you the best AI driven features within [[Adobe Creative Cloud]]'s design applications.
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=26)** These techniques are not only going to teach you how to save time when you're working on the job, but also how to increase the quality of your work, or even lower the threshold when you want to explore new applications within the design space.
 >
-> **[0:40](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=40)** So join me on this journey as I explore the best and most interesting features that are driven by artificial intelligence inside of Adobe Creative Cloud.
+> **[0:40](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980&t=40)** So join me on this journey as I explore the best and most interesting features that are driven by [[Artificial Intelligence (AI)|artificial intelligence]] inside of Adobe Creative Cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Creative Cloud]] (2), [[Content Creation]] (1), cloud (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Adobe Creative Cloud]] (2), [[Content Creation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - we (1)
 
 
@@ -139,18 +138,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the age of artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980)
+#### [Welcome to the age of artificial intelligence](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=1)** - Hi, and welcome to the Age of Artificial Intelligence.
+> **[0:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=1)** - Hi, and welcome to the Age of [[Artificial Intelligence (AI)|Artificial Intelligence]].
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=4)** If you're a Creative Cloud user, if you're an all-around graphic designer, photographer, an illustrator, there is a very high chance you will have already used artificial intelligence, or machine learning, fueled features and functionalities within your favorite Adobe software.
 >
 > **[0:20](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=20)** And the thing is, you will probably not even notice that whatever feature you're using is driven by AI or a machine learning model.
 >
-> **[0:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=29)** Now, we've seen three massive evolutions, or should I call them revolutions, in the world of graphic design.
+> **[0:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=29)** Now, we've seen three massive evolutions, or should I call them revolutions, in the world of [[Graphic Design]].
 >
 > **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=35)** And in Creative Cloud, specifically, these last couple of years, things have really changed for us.
 >
@@ -174,19 +172,19 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=115)** The last evolution is generative design.
 >
-> **[1:57](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=117)** This allows you to use a simple text prompt to create any image that you want, for example, using Adobe Firefly.
+> **[1:57](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=117)** This allows you to use a simple text prompt to create any image that you want, for example, using [[Adobe Firefly]].
 >
 > **[2:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=124)** Now, at the time of this recording, Adobe Firefly is still in a public beta.
 >
 > **[2:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=128)** But it still allows you to create images based on a text prompt, create your own text effects, by, again, just simply inputting and describing what you want or by dynamically recoloring vector graphics.
 >
-> **[2:21](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=141)** Now there's a lot more functionality on its way, but today we're going to focus on Adobe Sensei, which drives all of the AI features that come out of the box when you install Adobe Creative Cloud.
+> **[2:21](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=141)** Now there's a lot more functionality on its way, but today we're going to focus on Adobe Sensei, which drives all of the AI features that come out of the box when you install [[Adobe Creative Cloud]].
 >
 > **[2:32](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980&t=152)** Let's take a look.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), ai (4), cloud (3), feature (3), express (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Adobe Firefly]] (2), [[Graphic Design]] (1), [[Adobe Creative Cloud]] (1)
 > **Analogies:** for example (2), picture (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
@@ -194,8 +192,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - hi (1)
 
-#### Introducing Adobe Sensei
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980)
+#### [Introducing Adobe Sensei](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=29)** Now, it's important here to realize that this is first of all, a lot of information, and secondly, that Adobe Sensei is not a product, it's not something you simply install on your hard drive.
 >
-> **[0:40](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=40)** And on top of that, Adobe Sensei is bigger than Adobe Creative Cloud alone.
+> **[0:40](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=40)** And on top of that, Adobe Sensei is bigger than [[Adobe Creative Cloud]] alone.
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=45)** And what many people often forget is that Adobe is a company that has three major clouds in its portfolio.
 >
@@ -219,9 +216,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=69)** And if you're using apps like Adobe Acrobat, I'm sure you're familiar with Document Cloud.
 >
-> **[1:14](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=74)** So Adobe Sensei is helping the Document Cloud solutions, for example, by fueling form field recognitions when you're creating interactive forms, but also by means of cleaning up an image whenever you take a picture of an image using the Adobe Scan application.
+> **[1:14](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=74)** So Adobe Sensei is helping the Document Cloud solutions, for example, by fueling form field recognitions when you're creating interactive [[Forms]], but also by means of cleaning up an image whenever you take a picture of an image using the Adobe Scan application.
 >
-> **[1:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=89)** And then the last one is the Adobe Experience Cloud, Adobe's bundle of digital marketing tools, where Adobe Sensei is used to help auto tag images that you add to a database so you can easily find them again, or anomaly detection where you can detect when a customer starts to show a different type of online shopping behavior, or general data mining and insights whenever you're analyzing the profile of one of your digital customers.
+> **[1:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=89)** And then the last one is the Adobe Experience Cloud, Adobe's bundle of digital marketing tools, where Adobe Sensei is used to help auto tag images that you add to a database so you can easily find them again, or anomaly detection where you can detect when a customer starts to show a different type of online shopping behavior, or general [[Data Mining]] and insights whenever you're analyzing the profile of one of your digital customers.
 >
 > **[1:56](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=116)** Let's illustrate what we've just learned by just showing a very basic example.
 >
@@ -231,21 +228,20 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=135)** Now, the Object Selection tool allows you to basically select a subject in a picture, and it is Adobe Sensei that will automatically detect that subject by recognizing that this is a different object within a pattern in the background.
 >
-> **[2:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=150)** So clearly these two kids are sticking out if you look at the background sea, secondly, a selection is created, and lastly, that selection needs to be filled up by extending the pattern that found in the background, keeping in mind that there's a sharp line for the waves, the foam in the water and then the rest of the background.
+> **[2:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=150)** So clearly these two kids are sticking out if you look at the background sea, secondly, a selection is created, and lastly, that selection needs to be filled up by extending the pattern that found in the background, keeping in mind that there's a sharp line for the waves, the foam in the water and then the [[Representational State Transfer (REST)|rest]] of the background.
 >
-> **[2:50](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=170)** So by analyzing the image, recognizing patterns and learning what is a potential subject in a picture and what is not, Sensei can help you try better results in various applications, or like in this case, Adobe Photoshop.
+> **[2:50](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-sensei?u=76281980&t=170)** So by analyzing the image, recognizing patterns and learning what is a potential subject in a picture and what is not, Sensei can help you try better results in various applications, or like in this case, [[Adobe Photoshop]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Adobe Creative Cloud]] (2), power (1), ai (1), product (1)
+> **Frameworks & Libraries:** [[Adobe Creative Cloud]] (2), [[Forms]] (1), [[Data Mining]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Adobe Photoshop]] (1)
 > **Analogies:** picture (3), for example (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - let (1)
 
-#### The role of Adobe Sensei in Creative Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/the-role-of-adobe-sensei-in-creative-cloud?u=76281980)
+#### [The role of Adobe Sensei in Creative Cloud](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/the-role-of-adobe-sensei-in-creative-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,11 +301,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/the-role-of-adobe-sensei-in-creative-cloud?u=76281980&t=180)** That is a very easy skill to acquire, which means that this will lower the threshold for other individuals in your organization to start doing some basic Photoshop themselves, which means that they don't have to bother you with these repetitive, non-creative tasks.
 >
-> **[3:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/the-role-of-adobe-sensei-in-creative-cloud?u=76281980&t=195)** So this is going to make you and your teammates a lot more self-sufficient, and that is the value of using artificial intelligence in Adobe Creative Cloud.
+> **[3:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/the-role-of-adobe-sensei-in-creative-cloud?u=76281980&t=195)** So this is going to make you and your teammates a lot more self-sufficient, and that is the value of using [[Artificial Intelligence (AI)|artificial intelligence]] in [[Adobe Creative Cloud]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Adobe Creative Cloud]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Adobe Creative Cloud]] (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -318,12 +314,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - now (1)
 
-#### Adobe Sensei and you
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980)
+#### [Adobe Sensei and you](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=1)** - I hope that by the time we've reached the end of this course, you'll agree that the AI-driven features are very exciting in Adobe Creative Cloud and are really there to help you out and deliver faster and better work.
+> **[0:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=1)** - I hope that by the time we've reached the end of this course, you'll agree that the AI-driven features are very exciting in [[Adobe Creative Cloud]] and are really there to help you out and deliver faster and better work.
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=12)** However, I do occasionally get questions from designers who would ask me, "Will Adobe Sensei evolve one day to replace me?
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=38)** It's there to help you achieve faster and better work, never to replace the graphic designer itself.
 >
-> **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=45)** However, you do have to be mindful of the fact that the graphic design industry has always been very heavily reliant on technology.
+> **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=45)** However, you do have to be mindful of the fact that the [[Graphic Design]] industry has always been very heavily reliant on technology.
 >
 > **[0:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/adobe-sensei-and-you?u=76281980&t=53)** It's a technology that decides where our industry is going.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), [[Graphic Design]] (2), [[Adobe Creative Cloud]] (1), next (1)
+> **Frameworks & Libraries:** [[Graphic Design]] (2), [[Adobe Creative Cloud]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1)
 > **Speakers:** - i (1)
@@ -377,8 +372,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Removing basic subjects from an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980)
+#### [Removing basic subjects from an image](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=10)** Now, there are two videos on this subject of which this one covers the basics just to warm up a little bit.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=16)** In fact, you might sometimes even forget that it is Adobe Sensei, or artificial intelligence, that does all the work for you in the background.
+> **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=16)** In fact, you might sometimes even forget that it is Adobe Sensei, or [[Artificial Intelligence (AI)|artificial intelligence]], that does all the work for you in the background.
 >
 > **[0:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=24)** Now, I'm currently here in Photoshop where I have this file open, hotelroom-start.psd, and this is an image of a hotel room that has a couple of cups and a teapot on the bed.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=56)** Unfortunately, the result is not always what you're looking for.
 >
-> **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=60)** So I'm going to quickly go ahead and undo this by pressing CMD + Z, or CTRL + Z in Windows.
+> **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=60)** So I'm going to quickly go ahead and undo this by pressing CMD + Z, or CTRL + Z in [[Windows]].
 >
 > **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=65)** I'm going to try a different approach for this here.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=266)** So I'm going to go ahead and press and hold down the Command key on the keyboard on Mac, this is Control if you're on Windows, and simply hover your cursor over this thumbnail, and then press and hold down the keys, so you're going to see that's going to change that little cursor icon here, and then simply click to load that Alpha channel as a selection.
 >
-> **[4:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=285)** Again, this is just a pretty loose selection of the fence because if I were to zoom in, you would see that there's actually a bit of space between the actual fence and the selection boundary.
+> **[4:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=285)** Again, this is just a pretty loose selection of the fence because if I were to [[Zoom]] in, you would see that there's actually a bit of space between the actual fence and the selection boundary.
 >
 > **[4:57](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980&t=297)** Now, with that selection active, simply go back to the Edit menu, choose Fill, and then make sure that we use Content-Aware with Color Adaption on, and then click OK to confirm.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Zoom]] (1)
 > **Env Vars:** cmd (4), ctrl (3)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), is an  (1), is called (1)
@@ -489,8 +483,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Removing complex subjects from an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980)
+#### [Removing complex subjects from an image](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,11 +581,11 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=268)** Now, I don't want to get rid of this person on the right-hand side.
 >
-> **[4:31](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=271)** So with the Lasso Tool selected, I'm going to press and hold down the Option key, which is Alt on Windows, to subtract from the selection.
+> **[4:31](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=271)** So with the Lasso Tool selected, I'm going to press and hold down the Option key, which is Alt on [[Windows]], to subtract from the selection.
 >
 > **[4:40](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=280)** I'm just going to go ahead and then quickly go around this person to get rid of that part of the selection.
 >
-> **[4:46](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=286)** And I'm going to go ahead and just zoom in a little bit here on the actual golf club because it didn't do a fabulous job here.
+> **[4:46](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=286)** And I'm going to go ahead and just [[Zoom]] in a little bit here on the actual golf club because it didn't do a fabulous job here.
 >
 > **[4:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-complex-subjects-from-an-image?u=76281980&t=293)** So what I'm going to do is I'm going to go ahead and press down on the Shift key, which changes your cursor to a plus symbol.
 >
@@ -638,7 +631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Windows]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (1), imagine (1), for example (1)
 > **Definitions:** is a  (2)
@@ -647,8 +640,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980)
+#### [Selecting objects](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +686,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=104)** However, you have to realize where and how this algorithm is being driven.
 >
-> **[1:50](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=110)** So in order to figure that out, you can go up to the Photoshop menu or edit on Windows, choose preferences, and then choose image processing.
+> **[1:50](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=110)** So in order to figure that out, you can go up to the Photoshop menu or edit on [[Windows]], choose preferences, and then choose [[Image Processing]].
 >
 > **[2:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=121)** Now from here, there is a select subject processing option and there are two options available here: you can either use the default, which means that the algorithm will run on your device so the processing will happen on your device which is a bit quicker because you can use your GPU and your CPU to deliver you that selection, or you can switch to cloud which will give you a slightly better selection.
 >
@@ -706,7 +698,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=178)** So for now, I have to say I'm pretty happy with device.
 >
-> **[3:02](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=182)** I'm going to go ahead and choose okay just to go back to the main selection. Now, based on this, I can go ahead and start fine tuning the selection.
+> **[3:02](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=182)** I'm going to go ahead and choose okay just to go back to the main selection. Now, based on this, I can go ahead and start [[Fine Tuning]] the selection.
 >
 > **[3:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-objects?u=76281980&t=188)** So I can, for example, just come in here, I can maybe use the lasso tool and hold on the shift key to add certain areas to the selection like so.
 >
@@ -758,7 +750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), ai (3), [[Fine Tuning]] (2), [[Windows]] (1), [[Image Processing]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Windows]] (1), [[Image Processing]] (1)
 > **Definitions:** is a  (4), means that (4), is an  (3)
 > **Analogies:** for example (4), imagine (1), picture (1)
 > **CLI Commands:** make (3), find (1)
@@ -767,8 +759,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 
-#### Selecting people
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-people?u=76281980)
+#### [Selecting people](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-people?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-people?u=76281980&t=17)** I have the glass, I have the table, I have the plate and that's not really what I'm looking for.
 >
-> **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-people?u=76281980&t=22)** So, you can, let's just deselect, Command + D on the keyboard or Control + D on Windows, you can also use the Object Selection Tool to make that happen.
+> **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-people?u=76281980&t=22)** So, you can, let's just deselect, Command + D on the keyboard or Control + D on [[Windows]], you can also use the Object Selection Tool to make that happen.
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-people?u=76281980&t=31)** If you use the Object Selection Tool, you can just hover over individuals as well, so it will make a clear distinction between the child and the plate, while the Select Subject command didn't do that.
 >
@@ -916,7 +907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), next (1), ai (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (3), picture (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -924,12 +915,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Replacing skies in landscape images
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980)
+#### [Replacing skies in landscape images](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=0)** - [Instructor] The sky replacement command in Photoshop allows you to use artificial intelligence to automatically detect and mask the sky in an image.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=0)** - [Instructor] The sky replacement command in Photoshop allows you to use [[Artificial Intelligence (AI)|artificial intelligence]] to automatically detect and mask the sky in an image.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=9)** To use it, simply open up the image you would like to change, in this case, himeji-start.psd and then choose Edit, and then choose Sky Replacement.
 >
@@ -943,7 +933,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=48)** When you click that, you have a small database of images that ship with Photoshop, which you can choose from for adjusting the sky, for example, I can go ahead and choose a very dramatic sky from here.
 >
-> **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=60)** Go ahead and just zoom out a little bit here.
+> **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=60)** Go ahead and just [[Zoom]] out a little bit here.
 >
 > **[1:02](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=62)** Let's say I'm going to use this, very stormy clouds, or just go ahead and use your own images.
 >
@@ -963,7 +953,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=126)** I'm going to go ahead and choose 02-05-skyreplacement.
 >
-> **[2:10](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=130)** I'm going to go ahead and select blue.jpeg, press and hold down the Command key on Mac, which is Ctrl on Windows.
+> **[2:10](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=130)** I'm going to go ahead and select blue.jpeg, press and hold down the Command key on Mac, which is Ctrl on [[Windows]].
 >
 > **[2:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/replacing-skies-in-landscape-images?u=76281980&t=137)** I'm also going to select dusk.jpeg.
 >
@@ -1033,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), database (1), [[Zoom]] (1), feature (1), web (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Zoom]] (1), [[Windows]] (1)
 > **Definitions:** is a  (1), means that (1), in other words (1)
 > **Analogies:** for example (2), kind of like (1)
 > **Cross-References:** go back to (2)
@@ -1041,8 +1031,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Harmonizing colors in compositions
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/harmonizing-colors-in-compositions?u=76281980)
+#### [Harmonizing colors in compositions](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/harmonizing-colors-in-compositions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,21 +1137,20 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/harmonizing-colors-in-compositions?u=76281980&t=361)** And now when you're done, simply choose OK and Photoshop will end up giving you that result.
 >
-> **[6:06](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/harmonizing-colors-in-compositions?u=76281980&t=366)** And it's going to end up with a selection which you can simply undo by pressing command + D on Mac or control + D on Windows.
+> **[6:06](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/harmonizing-colors-in-compositions?u=76281980&t=366)** And it's going to end up with a selection which you can simply undo by pressing command + D on Mac or control + D on [[Windows]].
 >
 > **[6:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/harmonizing-colors-in-compositions?u=76281980&t=373)** And now I have a beautifully adapted version of my worker layer, and it matches the background beautifully.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (3), feature (1), application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [presenter] (1)
 
-#### Restoring an old image
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/restoring-an-old-image?u=76281980)
+#### [Restoring an old image](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/restoring-an-old-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1288,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), feature (1)
 > **Analogies:** for example (5), picture (3)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3), means that (1)
@@ -1309,14 +1296,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enlarging images
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980)
+#### [Enlarging images](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=0)** - [Instructor] Enlarging images is part of a graphic designer's day-to-day operations, but how do you improve the visual quality of an enlarged image?
 >
-> **[0:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=8)** Artificial intelligence can come in and give you a hand.
+> **[0:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=8)** [[Artificial Intelligence (AI)|Artificial intelligence]] can come in and give you a hand.
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=12)** I currently have wedding start open which you can find here in the 0208 enlarged folder.
 >
@@ -1342,7 +1328,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=72)** Go up to the filter menu and then choose neural filters.
 >
-> **[1:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=76)** From here, look at the list of available filters and scroll down a little bit until you can find the super zoom filter.
+> **[1:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=76)** From here, look at the list of available filters and scroll down a little bit until you can find the super [[Zoom]] filter.
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=83)** You might have to download it first but I've already gone ahead and done this.
 >
@@ -1404,7 +1390,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=241)** To accomplish this, let's first choose the window menu, choose a range, and then choose two up vertical to have both images available at the same time.
 >
-> **[4:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=253)** Then I'll select the Zoom tool and I'll come up here and click the zoom all windows option.
+> **[4:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=253)** Then I'll select the Zoom tool and I'll come up here and click the zoom all [[Windows]] option.
 >
 > **[4:18](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=258)** And now I can come in and start zooming to see further details.
 >
@@ -1422,11 +1408,11 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=313)** So this is simply how you can compare both versions.
 >
-> **[5:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=316)** So whenever I have to start enlarging images now a hundred percent, 200, 300, 400%, I will always choose the Adobe Sensei method because it simply gives me a far superior result compared to the old methods using Adobe Photoshop.
+> **[5:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/enlarging-images?u=76281980&t=316)** So whenever I have to start enlarging images now a hundred percent, 200, 300, 400%, I will always choose the Adobe Sensei method because it simply gives me a far superior result compared to the old methods using [[Adobe Photoshop]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Windows]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Windows]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Adobe Photoshop]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** jpeg (2)
 > **UI Navigation:** select the (1), switch to (1)
@@ -1435,8 +1421,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Building an image composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-building-an-image-composition?u=76281980)
+#### [Challenge: Building an image composition](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-building-an-image-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,8 +1448,7 @@ created: 2026-05-02
 > **Speakers:** - let (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Building an image composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980)
+#### [Solution: Building an image composition](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1474,9 +1458,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980&t=10)** To do this, I'll go up to the select menu and then choose subject which will find and select the polar bear.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980&t=17)** Now if I zoom in just a little bit here, you'll notice that I have two gaps here that are not included in the selection.
+> **[0:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980&t=17)** Now if I [[Zoom]] in just a little bit here, you'll notice that I have two gaps here that are not included in the selection.
 >
-> **[0:23](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980&t=23)** For this, I'll simply switch to the lasso tool, hold down the Option key on Mac, which is Alt on Windows.
+> **[0:23](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980&t=23)** For this, I'll simply switch to the lasso tool, hold down the Option key on Mac, which is Alt on [[Windows]].
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-building-an-image-composition?u=76281980&t=29)** I'm just going to come in and then drag out this selection and let go.
 >
@@ -1605,12 +1589,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Removing anything from an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980)
+#### [Removing anything from an image](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=0)** - [Narrator] Adobe Photoshop has recently introduced a brand new AI driven tool which allows you to remove virtually any object from any image.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=0)** - [Narrator] [[Adobe Photoshop]] has recently introduced a brand new AI driven tool which allows you to remove virtually any object from any image.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-anything-from-an-image?u=76281980&t=9)** To demonstrate this, I've opened up three different projects.
 >
@@ -1748,23 +1731,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Adobe Photoshop]] (1), ai (1), hit (1)
+> **Frameworks & Libraries:** [[Adobe Photoshop]] (1)
 > **Definitions:** is a  (4), means that (2), is called (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (1), picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating magic with Generative Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980)
+#### [Creating magic with Generative Fill](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=0)** - [Narrator] The by far most spectacular and game-changing feature in Photoshop is the introduction of the generative fill feature.
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=9)** Now, generative fill is a feature powered by Adobe Firefly, which you see on screen here.
+> **[0:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=9)** Now, generative fill is a feature powered by [[Adobe Firefly]], which you see on screen here.
 >
-> **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=13)** And Adobe Firefly is Adobe's brand-new, generative AI-based technology.
+> **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=13)** And Adobe Firefly is Adobe's brand-new, [[Generative AI]]-based technology.
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=19)** Firefly is not really a product, it is more of a term used by Adobe that encapsulates every AI-driven feature that is based on generative AI.
 >
@@ -1798,7 +1780,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=151)** When you click it, it will load that channel as a selection.
 >
-> **[2:35](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=155)** Next, click the RGB channel and careful, don't click the eye icon, click the word RGB to go back to the normal visualization.
+> **[2:35](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=155)** Next, click the RGB channel and careful, don't click the eye icon, click the [[Microsoft Word|word]] RGB to go back to the normal visualization.
 >
 > **[2:44](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-magic-with-generative-fill?u=76281980&t=164)** Look at the layers panel and make sure that the background layer is currently selected.
 >
@@ -1888,7 +1870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), [[Adobe Firefly]] (6), feature (4), prompt (3), database (2)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Adobe Firefly]] (6), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (8), basically means (1), means that (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for example (4), picture (2), kind of like (1)
@@ -1897,8 +1879,7 @@ created: 2026-05-02
 > **URLs:** [adobe.com](https://adobe.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Outpainting images with Generative Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980)
+#### [Outpainting images with Generative Fill](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1918,7 +1899,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=25)** You want to expand the current canvas.
 >
-> **[0:28](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=28)** Generative AI can also do that for you.
+> **[0:28](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=28)** [[Generative AI]] can also do that for you.
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=30)** Now, this is a picture I took in Los Angeles and it looks great.
 >
@@ -1998,7 +1979,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=199)** Let's choose the crop tool.
 >
-> **[3:20](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=200)** Make sure Delete Cropped pixels is off, and we'll go ahead and drag this while holding down the Option key, which is the Alt key on Windows to extend both sides like so.
+> **[3:20](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=200)** Make sure Delete Cropped pixels is off, and we'll go ahead and drag this while holding down the Option key, which is the Alt key on [[Windows]] to extend both sides like so.
 >
 > **[3:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/outpainting-images-with-generative-fill?u=76281980&t=213)** And then hit Enter or Return to confirm.
 >
@@ -2070,7 +2051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Generative AI]] (1), prompt (1), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Windows]] (1)
 > **Definitions:** is a  (5), basically means (2), is called (1)
 > **Analogies:** picture (6), for example (1)
 > **CLI Commands:** make (5)
@@ -2082,8 +2063,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing images automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980)
+#### [Optimizing images automatically](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2171,7 +2151,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980&t=309)** I'll just go ahead and click Copy, and I'm going to go ahead and select this image, hold down the shift key and select the other image.
 >
-> **[5:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980&t=317)** I'm going to go ahead and hit the paste command so I'm going to press Command v on the keyboard on Mac or Control v on Windows.
+> **[5:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980&t=317)** I'm going to go ahead and hit the paste command so I'm going to press Command v on the keyboard on Mac or Control v on [[Windows]].
 >
 > **[5:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980&t=324)** I'm going to go ahead and paste those settings.
 >
@@ -2179,14 +2159,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), feature (1), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** select the (3), navigate to (1), scroll down (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Searching photos intelligently
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/searching-photos-intelligently?u=76281980)
+#### [Searching photos intelligently](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/searching-photos-intelligently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2194,7 +2173,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/searching-photos-intelligently?u=76281980&t=5)** Now though it might seem a bit trivial to talk about searching images, many users forget that their images are actually analyzed and tagged using cloud technology.
 >
-> **[0:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/searching-photos-intelligently?u=76281980&t=15)** Of course, the most obvious way of finding images is by applying tags yourself and applying ratings and other types of metadata to them.
+> **[0:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/searching-photos-intelligently?u=76281980&t=15)** Of course, the most obvious way of finding images is by applying tags yourself and applying ratings and other types of [[Metadata]] to them.
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/searching-photos-intelligently?u=76281980&t=23)** But what if you are confronted with a series of images that you are not familiar with?
 >
@@ -2282,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), cloud (7), [[Metadata]] (4), next (2), feature (1)
+> **Frameworks & Libraries:** [[Metadata]] (4)
 > **CLI Commands:** find (5), make (3), cat (1)
 > **Analogies:** for example (7)
 > **Definitions:** means that (2), is a  (1), is called (1)
@@ -2290,8 +2269,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced masking with a single click
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/advanced-masking-with-a-single-click?u=76281980)
+#### [Advanced masking with a single click](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/advanced-masking-with-a-single-click?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,15 +2395,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), ai (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Masking facial features
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-facial-features?u=76281980)
+#### [Masking facial features](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-facial-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2513,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), ai (1)
 > **Definitions:** means that (4), is a  (3), is an  (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** picture (2), for example (2)
@@ -2545,8 +2520,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Masking colors and skies
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980)
+#### [Masking colors and skies](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2662,7 +2636,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=270)** And now if you take a look at the before and after, this is what we did.
 >
-> **[4:35](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=275)** And again, zooming in just a little bit, I'm going to press and hold on the command key and press the plus option on the keyboard, which is control plus on Windows.
+> **[4:35](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=275)** And again, zooming in just a little bit, I'm going to press and hold on the command key and press the plus option on the keyboard, which is control plus on [[Windows]].
 >
 > **[4:43](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=283)** You can actually see that the details around the shadows and the foliage.
 >
@@ -2670,7 +2644,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=294)** Now let's take a look at the last example which is this image we have here.
 >
-> **[4:58](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=298)** I'm going to go ahead and press command minus just to zoom out a little bit, which is Control minus on Windows.
+> **[4:58](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=298)** I'm going to go ahead and press command minus just to [[Zoom]] out a little bit, which is Control minus on Windows.
 >
 > **[5:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/masking-colors-and-skies?u=76281980&t=304)** Let's take a look at the very last option which is actually pretty easy.
 >
@@ -2686,7 +2660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), feature (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Zoom]] (1)
 > **CLI Commands:** find (4), make (4)
 > **Definitions:** is a  (6), is an  (1)
 > **UI Navigation:** select the (2), click on (1)
@@ -2694,8 +2668,7 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced masking
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/advanced-masking?u=76281980)
+#### [Advanced masking](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/advanced-masking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2819,8 +2792,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Retouching campaign images
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-retouching-campaign-images?u=76281980)
+#### [Challenge: Retouching campaign images](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-retouching-campaign-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2858,14 +2830,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), application (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Retouching campaign images
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-retouching-campaign-images?u=76281980)
+#### [Solution: Retouching campaign images](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-retouching-campaign-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2961,7 +2931,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-retouching-campaign-images?u=76281980&t=244)** Let me just quickly choose Edit and then choose Undo.
 >
-> **[4:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-retouching-campaign-images?u=76281980&t=248)** There's a shortcut that's not document here in the Edit menu, which is if you select more than one image and press Shift Command V, which is Shift Control V on Windows, it will actually apply the settings to multiple selected images in your album, which means you can now run this automatic command across an entire album or an entire catalog of images.
+> **[4:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-retouching-campaign-images?u=76281980&t=248)** There's a shortcut that's not document here in the Edit menu, which is if you select more than one image and press Shift Command V, which is Shift Control V on [[Windows]], it will actually apply the settings to multiple selected images in your album, which means you can now run this automatic command across an entire album or an entire catalog of images.
 >
 > **[4:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-retouching-campaign-images?u=76281980&t=273)** It is that powerful and this is how you use smart masking combined with Lightroom's copy and paste capabilities and of course, the non-destructive edits.
 >
@@ -2978,8 +2948,7 @@ created: 2026-05-02
 > **Speakers:** - [speaker] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Add Blur and Bokeh effects using Lens Blur
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980)
+#### [Add Blur and Bokeh effects using Lens Blur](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2989,7 +2958,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=13)** I'm here instead of Lightroom where I have this image of an elephant in a museum open and I would like to create a background blur effect for this image.
 >
-> **[0:21](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=21)** Now, this is something for which I would normally take this image back into Adobe Photoshop, but that is no longer needed with the brand new lens blur effect.
+> **[0:21](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=21)** Now, this is something for which I would normally take this image back into [[Adobe Photoshop]], but that is no longer needed with the brand new lens blur effect.
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/add-blur-and-bokeh-effects-using-lens-blur?u=76281980&t=30)** So what you do is you take a look at the edit options here, and then you scroll all the way down until you find the brand new lens blur effect, which is currently available as an early access feature.
 >
@@ -3077,7 +3046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Adobe Photoshop]] (3), ai (2)
+> **Frameworks & Libraries:** [[Adobe Photoshop]] (3)
 > **Definitions:** is a  (3), means that (2)
 > **Versions:** version 2024 (1), version 16 (1)
 > **Analogies:** just like (1), for example (1)
@@ -3091,8 +3060,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting and editing visually similar objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980)
+#### [Selecting and editing visually similar objects](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3170,7 +3138,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980&t=188)** This means that the one I have selected is my primary selected tree.
 >
-> **[3:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980&t=192)** So if I were to just quickly zoom in little bit here and now make a change, for example by double clicking the tree to open it up in isolation mode, clicking the actual contents and then just make a basic selection.
+> **[3:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980&t=192)** So if I were to just quickly [[Zoom]] in little bit here and now make a change, for example by double clicking the tree to open it up in isolation mode, clicking the actual contents and then just make a basic selection.
 >
 > **[3:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980&t=204)** I'm going to go ahead and just change its color.
 >
@@ -3256,7 +3224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Zoom]] (3), ai (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (9), find (2)
 > **Definitions:** is a  (5), basically means (1)
 > **Analogies:** for example (3)
@@ -3264,14 +3232,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating smarter color blends with freeform gradients
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980)
+#### [Creating smarter color blends with freeform gradients](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=0)** - [Instructor] The next feature on our list is called freeform gradient.
 >
-> **[0:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=4)** A freeform gradient is a special type of gradient that uses artificial intelligence in the background to calculate and dynamically blend gradient color stops together.
+> **[0:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=4)** A freeform gradient is a special type of gradient that uses [[Artificial Intelligence (AI)|artificial intelligence]] in the background to calculate and dynamically blend gradient color stops together.
 >
 > **[0:14](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=14)** It's easy to use, it looks amazing, and it is a lot of fun as well.
 >
@@ -3291,7 +3258,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=59)** Now, I have also gone ahead and placed a couple of different color themes on this page.
 >
-> **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=65)** Now, if you want to learn more about creating color themes, I highly suggest you check out Adobe Color and my Adobe Color Essentials course here on LinkedIn Learning.
+> **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=65)** Now, if you want to learn more about creating color themes, I highly suggest you check out Adobe Color and my Adobe Color Essentials course here on [[LinkedIn]] Learning.
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=76)** Now, the idea's very simple.
 >
@@ -3341,7 +3308,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=196)** You will see that the color blending is actually respecting this little curve here, thanks to the lines system.
 >
-> **[3:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=204)** Now, I'm just going to go ahead and press Command + Z on the keyboard, or Ctrl + Z in Windows, just a couple of times just to quickly undo what we had before and go back to the original.
+> **[3:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=204)** Now, I'm just going to go ahead and press Command + Z on the keyboard, or Ctrl + Z in [[Windows]], just a couple of times just to quickly undo what we had before and go back to the original.
 >
 > **[3:34](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=214)** There we go.
 >
@@ -3381,7 +3348,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=330)** It is going to duplicate and reapply these freeform gradient stops to this shape.
 >
-> **[5:36](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=336)** This is something that is impossible if you are using the mesh tool, for example, which might create a visual similarly effect.
+> **[5:36](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=336)** This is something that is impossible if you are using the [[Mesh]] tool, for example, which might create a visual similarly effect.
 >
 > **[5:44](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-smarter-color-blends-with-freeform-gradients?u=76281980&t=344)** However, this is something you cannot replicate using the eyedropper tool, so again, another reason why we absolutely love this.
 >
@@ -3393,7 +3360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), feature (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1), [[Windows]] (1), [[Mesh]] (1)
 > **UI Navigation:** double-click (3), select the (2), click on (1), switch to (1)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
@@ -3402,8 +3369,7 @@ created: 2026-05-02
 > **URLs:** [freeform-start.ai](https://freeform-start.ai) (1)
 > **Warnings:** keep in mind (1)
 
-#### Changing artwork shape and position with Puppet Warp
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/changing-artwork-shape-and-position-with-puppet-warp?u=76281980)
+#### [Changing artwork shape and position with Puppet Warp](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/changing-artwork-shape-and-position-with-puppet-warp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3435,7 +3401,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/changing-artwork-shape-and-position-with-puppet-warp?u=76281980&t=86)** Now with my current selection active, I'm going to go ahead and choose the Puppet Warp tool and I'm going to go ahead and manipulate the cat.
 >
-> **[1:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/changing-artwork-shape-and-position-with-puppet-warp?u=76281980&t=93)** Now, the moment you click the Puppet Warp tool, it will apply that transformation to your artwork and this is being displayed as a mesh.
+> **[1:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/changing-artwork-shape-and-position-with-puppet-warp?u=76281980&t=93)** Now, the moment you click the Puppet Warp tool, it will apply that transformation to your artwork and this is being displayed as a [[Mesh]].
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/changing-artwork-shape-and-position-with-puppet-warp?u=76281980&t=102)** Now the mesh is interesting to see, however, it might sometimes make it more difficult to see what you're doing with the actual artwork.
 >
@@ -3505,7 +3471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (5), ai (2), next (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Mesh]] (5)
 > **CLI Commands:** cat (8), make (5), find (4)
 > **Definitions:** means that (2), is a  (1)
 > **URLs:** [cats-start.ai](https://cats-start.ai) (1)
@@ -3514,8 +3480,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Challenge: Optimizing an illustration
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-optimizing-an-illustration?u=76281980)
+#### [Challenge: Optimizing an illustration](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-optimizing-an-illustration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3549,15 +3514,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [unicorn-start.ai](https://unicorn-start.ai) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Solution: Optimizing an illustration
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-optimizing-an-illustration?u=76281980)
+#### [Solution: Optimizing an illustration](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-optimizing-an-illustration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3567,7 +3530,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-optimizing-an-illustration?u=76281980&t=19)** Now remember, the one with the red bounding box is the one that we're currently manipulating and all changes we make to this star will be reflected to the other ones that are currently in blue.
 >
-> **[0:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-optimizing-an-illustration?u=76281980&t=29)** Let's zoom in just a little bit here and then double click the star to open it up in isolation mode because clearly this was a group of objects.
+> **[0:29](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-optimizing-an-illustration?u=76281980&t=29)** Let's [[Zoom]] in just a little bit here and then double click the star to open it up in isolation mode because clearly this was a group of objects.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-optimizing-an-illustration?u=76281980&t=38)** Now, based on this, I can click to select the inner side of the star.
 >
@@ -3635,27 +3598,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), ai (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Generating anything with Text to Vector Graphic
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980)
+#### [Generating anything with Text to Vector Graphic](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=0)** - [Instructor] The most prominent new AI feature inside of Illustrator 2024 is text to vector graphic.
 >
-> **[0:07](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=7)** Text to vector graphic is a feature that leverages generative AI technology, which is fueled by Adobe Firefly in the background.
+> **[0:07](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=7)** Text to vector graphic is a feature that leverages [[Generative AI]] technology, which is fueled by [[Adobe Firefly]] in the background.
 >
 > **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=16)** And Firefly is Adobe's brand new family of generative AI models.
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=21)** Now this video acts as an introduction to this set of features inside of Adobe Illustrator, but know that there are a lot more options available than I can cover in this course.
 >
-> **[0:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=33)** Now, if you want to learn more about these specific features and other Adobe Fireflight capabilities, I highly recommend that you check out my Adobe Firefly Essentials course here on LinkedIn Learning.
+> **[0:33](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=33)** Now, if you want to learn more about these specific features and other Adobe Fireflight capabilities, I highly recommend that you check out my Adobe Firefly Essentials course here on [[LinkedIn]] Learning.
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/generating-anything-with-text-to-vector-graphic?u=76281980&t=45)** Let me show you a glimpse of what it is you can do with this type of technology.
 >
@@ -3765,7 +3727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe Firefly]] (3), hit (3), feature (2), [[Generative AI]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (3), [[Generative AI]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), similar to (1)
@@ -3773,8 +3735,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying and converting fonts using Retype
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/identifying-and-converting-fonts-using-retype?u=76281980)
+#### [Identifying and converting fonts using Retype](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/identifying-and-converting-fonts-using-retype?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3866,15 +3827,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), ai (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating easy mockups with Mockup
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980)
+#### [Creating easy mockups with Mockup](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3910,7 +3869,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=99)** Now, if I switch categories, for example, I'm going to switch from Branding Graphics to, let's say, Packaging, I have a similar experience, where I have my same vector artwork now being displayed and projected on packaging and boxes and coffee mugs and other things here.
 >
-> **[1:56](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=116)** Now, if you do see something that you really like, simply hover over this here, and then based on that, you can click this button here that says Edit On Canvas, which is going to create that mesh, and then allow me to use that project here inside of Adobe Illustrator.
+> **[1:56](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=116)** Now, if you do see something that you really like, simply hover over this here, and then based on that, you can click this button here that says Edit On Canvas, which is going to create that [[Mesh]], and then allow me to use that project here inside of Adobe Illustrator.
 >
 > **[2:12](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=132)** Okay, I'm going to move this to the side here.
 >
@@ -3934,7 +3893,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=183)** Now, Illustrator says it's going to create a mesh for me.
 >
-> **[3:06](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=186)** So it's now basically analyzing the bumps, in a certain way of speaking, in this image, and it's now going to use that as part of a mesh, which means that if I quickly zoom in a little bit here, and if I were to move this across the image, you'll see that it has now really detected all of these different boundaries around this artwork.
+> **[3:06](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=186)** So it's now basically analyzing the bumps, in a certain way of speaking, in this image, and it's now going to use that as part of a mesh, which means that if I quickly [[Zoom]] in a little bit here, and if I were to move this across the image, you'll see that it has now really detected all of these different boundaries around this artwork.
 >
 > **[3:27](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=207)** I can even come in here, hold down the Shift key, and then drag this inwards to scale this down proportionally.
 >
@@ -3946,7 +3905,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=238)** Now, keep in mind that you can always go ahead and now change the blending mode here of your artwork just to make sure that the lights and shadows will have a better representation.
 >
-> **[4:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=249)** Now, if you want more granular control, you could always decide to take this document, and then move that into Adobe Photoshop simply by using libraries or copying and pasting, or just help fine-tune the blending based on this Mockup feature.
+> **[4:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=249)** Now, if you want more granular control, you could always decide to take this document, and then move that into [[Adobe Photoshop]] simply by using libraries or copying and pasting, or just help fine-tune the blending based on this Mockup feature.
 >
 > **[4:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-easy-mockups-with-mockup?u=76281980&t=264)** So this is something that you can kind of use to get started with your mockup experiences here.
 >
@@ -3956,7 +3915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Mesh]] (3), feature (2), [[Adobe Photoshop]] (2), business (1)
+> **Frameworks & Libraries:** [[Mesh]] (3), [[Adobe Photoshop]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (2), is called (1)
 > **URLs:** [mockup-start.ai](https://mockup-start.ai) (1)
@@ -3969,8 +3928,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize image cropping
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980)
+#### [Optimize image cropping](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3986,7 +3944,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=47)** Now, I want to talk about these two images here.
 >
-> **[0:49](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=49)** I'm going to zoom in just a little bit just to get started.
+> **[0:49](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=49)** I'm going to [[Zoom]] in just a little bit just to get started.
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=52)** When you select an image in InDesign, you have a way of fitting the contents of this image into the graphics frame in which it resides.
 >
@@ -4068,7 +4026,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=283)** Now, if you were to have this object selected, go up to the Object menu and then choose Fitting, You will find that same option here as well, Content-Aware Fit.
 >
-> **[4:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=293)** There is a default shortcut that is assigned to this placement method, which is option Command X on a mac or Control Alt X if you're on Windows.
+> **[4:53](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=293)** There is a default shortcut that is assigned to this placement method, which is option Command X on a mac or Control Alt X if you're on [[Windows]].
 >
 > **[5:06](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980&t=306)** I kind of liked this shortcut because, especially on Mac, these three keys are actually already touching on the keyboard, which means that I can just make a change, press that shortcut and I will have what I want.
 >
@@ -4084,15 +4042,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), ai (1), [[Zoom]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Windows]] (1)
 > **Definitions:** is a  (4), is called (1), is an  (1), means that (1)
 > **Analogies:** picture (4), for example (3)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 
-#### Wrapping text around image subjects
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/wrapping-text-around-image-subjects-23697150?u=76281980)
+#### [Wrapping text around image subjects](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/wrapping-text-around-image-subjects-23697150?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4188,15 +4145,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (2), is an  (1), in other words (1)
 > **Analogies:** similar to (1), picture (1), for example (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** previous video (1)
 
-#### Creating and applying Style Packs
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-and-applying-style-packs-23696142?u=76281980)
+#### [Creating and applying Style Packs](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-and-applying-style-packs-23696142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4228,7 +4183,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-and-applying-style-packs-23696142?u=76281980&t=69)** So I have a variety of styles here.
 >
-> **[1:11](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-and-applying-style-packs-23696142?u=76281980&t=71)** I'm just going to go ahead and undo all of this by pressing Command Z on the keyboard, which is Control Z on Windows.
+> **[1:11](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-and-applying-style-packs-23696142?u=76281980&t=71)** I'm just going to go ahead and undo all of this by pressing Command Z on the keyboard, which is Control Z on [[Windows]].
 >
 > **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/creating-and-applying-style-packs-23696142?u=76281980&t=77)** Now, the idea is to automatically apply these styles to the appropriate paragraphs, and Style Packs can help me with this.
 >
@@ -4344,15 +4299,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (2), [[Windows]] (1), ai (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), imagine (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** in the next (1)
 
-#### Finding similar fonts and images
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980)
+#### [Finding similar fonts and images](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4412,7 +4366,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=144)** Now, let's keep going.
 >
-> **[2:25](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=145)** I'll press Command J on the keyboard or Control J on Windows, which is the go-to page command.
+> **[2:25](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=145)** I'll press Command J on the keyboard or Control J on [[Windows]], which is the go-to page command.
 >
 > **[2:32](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=152)** I like this command.
 >
@@ -4430,7 +4384,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=182)** And this is where Adobe Stock comes in.
 >
-> **[3:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=184)** And I have to emphasize that Stock can really make up a very important part of your graphic design workflow.
+> **[3:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=184)** And I have to emphasize that Stock can really make up a very important part of your [[Graphic Design]] workflow.
 >
 > **[3:10](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/finding-similar-fonts-and-images-23903149?u=76281980&t=190)** Now to make this work, first, you have to make sure that you go into the CC Libraries panel and make sure that you are inside of one of these libraries.
 >
@@ -4510,7 +4464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Windows]] (2), hit (1), [[Graphic Design]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Graphic Design]] (1)
 > **CLI Commands:** make (7), find (6)
 > **Analogies:** similar to (3), for example (3)
 > **UI Navigation:** right-click (4)
@@ -4518,8 +4472,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: Creating an ad
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-creating-an-ad-23695142?u=76281980)
+#### [Challenge: Creating an ad](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-creating-an-ad-23695142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4551,12 +4504,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), database (1)
 > **Analogies:** picture (2), similar to (1)
 > **Definitions:** in other words (1)
 
-#### Solution: Creating an ad
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-creating-an-ad-23902159?u=76281980)
+#### [Solution: Creating an ad](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-creating-an-ad-23902159?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4596,7 +4547,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-creating-an-ad-23902159?u=76281980&t=124)** I'm going to go ahead and just select this image.
 >
-> **[2:07](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-creating-an-ad-23902159?u=76281980&t=127)** And just from my personal workflow, I'm going to go ahead and hold down the Option key or Alt on Windows.
+> **[2:07](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-creating-an-ad-23902159?u=76281980&t=127)** And just from my personal workflow, I'm going to go ahead and hold down the Option key or Alt on [[Windows]].
 >
 > **[2:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-creating-an-ad-23902159?u=76281980&t=133)** I'm going to go ahead and drag out a copy just so I can use this copy to play around with it without really affecting my Text Wrap.
 >
@@ -4628,7 +4579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** right-click (2), double-click (1), select the (1)
 > **Definitions:** is a  (2)
@@ -4640,8 +4591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Adobe Stock
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980)
+#### [Introducing Adobe Stock](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4681,7 +4631,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980&t=96)** Well, there are two major things that make Adobe Stock special.
 >
-> **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980&t=99)** First of all, keep in mind that when you're using artificial intelligence or machine learning, you need to have a point of reference.
+> **[1:39](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980&t=99)** First of all, keep in mind that when you're using [[Artificial Intelligence (AI)|artificial intelligence]] or machine learning, you need to have a point of reference.
 >
 > **[1:46](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980&t=106)** Now, in the case of Adobe Sensei, Adobe Sensei is also trained using the Adobe Stock database, which means that from a machine learning point of view, Adobe stock is strategically important to Adobe.
 >
@@ -4713,7 +4663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Search]] (4), cloud (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** means that (4), is a  (3)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [cmo.com](https://cmo.com) (1)
@@ -4722,8 +4672,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you need to have (1)
 
-#### Using intelligent filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980)
+#### [Using intelligent filters](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4731,7 +4680,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=8)** To start off, I opened up a web browser and navigated to stock.[adobe.com](https://adobe.com).
 >
-> **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=13)** Additionally, I also log into my Adobe Creative Cloud account here by using the options in the top right corner of the screen.
+> **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=13)** Additionally, I also log into my [[Adobe Creative Cloud]] account here by using the options in the top right corner of the screen.
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=21)** Now this is important because this way whenever I find the image I'm looking for I can simply add that image to a creative cloud library and then access that asset directly from Photoshop, InDesign, and other creative cloud applications.
 >
@@ -4743,7 +4692,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=46)** That's absolutely fine to begin with.
 >
-> **[0:48](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=48)** For example, if I were to come in here and type in the word fountain and then hit enter or return it's going to give me images of fountains, so there's no surprise there.
+> **[0:48](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=48)** For example, if I were to come in here and type in the [[Microsoft Word|word]] fountain and then hit enter or return it's going to give me images of fountains, so there's no surprise there.
 >
 > **[0:58](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-intelligent-filters?u=76281980&t=58)** However, let me refine the search to find the image I'm looking for.
 >
@@ -4845,7 +4794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (3), [[Search]] (3), [[Microsoft Word|Word]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Adobe Creative Cloud]] (1)
 > **CLI Commands:** find (7), make (2)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for example (2), picture (1)
@@ -4854,8 +4803,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining keywords with visual search
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/combining-keywords-with-visual-search?u=76281980)
+#### [Combining keywords with visual search](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/combining-keywords-with-visual-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4909,7 +4857,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/combining-keywords-with-visual-search?u=76281980&t=163)** Now, what I currently see is that I am getting images that look very similar to the one I currently have.
 >
-> **[2:49](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/combining-keywords-with-visual-search?u=76281980&t=169)** So Adobe Stock seems to clearly recognize the Big Ben and the rest of Parliament.
+> **[2:49](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/combining-keywords-with-visual-search?u=76281980&t=169)** So Adobe Stock seems to clearly recognize the Big Ben and the [[Representational State Transfer (REST)|rest]] of Parliament.
 >
 > **[2:54](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/combining-keywords-with-visual-search?u=76281980&t=174)** Now, there might be other reasons why I want to use this image.
 >
@@ -4951,7 +4899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), ai (2), next (1), feature (1), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (8)
 > **Analogies:** for example (4), picture (3), similar to (1)
 > **Definitions:** is a  (5), is called (1), means that (1)
@@ -4959,8 +4907,7 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subject-based searching
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/subject-based-searching?u=76281980)
+#### [Subject-based searching](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/subject-based-searching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5054,7 +5001,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), cloud (4), feature (2), application (1)
 > **CLI Commands:** find (12), make (2)
 > **Analogies:** picture (2), for example (2), similar to (1), just like (1)
 > **Cross-References:** go back to (1)
@@ -5062,8 +5008,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Finding a campaign image
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-finding-a-campaign-image?u=76281980)
+#### [Challenge: Finding a campaign image](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/challenge-finding-a-campaign-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5107,7 +5052,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** find (5)
 > **Analogies:** picture (3)
 > **Definitions:** is a  (1), is an  (1)
@@ -5115,8 +5059,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Finding a campaign image
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-finding-a-campaign-image?u=76281980)
+#### [Solution: Finding a campaign image](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/solution-finding-a-campaign-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5194,7 +5137,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), hit (1), cloud (1), next (1)
 > **CLI Commands:** find (5)
 > **UI Navigation:** navigate to (1), go to (1), switch to (1), drag and drop (1)
 > **Analogies:** picture (2), kind of like (2)
@@ -5202,12 +5144,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using generative AI to create images
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980)
+#### [Using generative AI to create images](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=0)** - [Presenter] Ever since the October 2023 update of the Adobe Stock website, you can now use Adobe Firefly's generative AI features directly within the Adobe Stock webpage for creating images based on a text prompt.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=0)** - [Presenter] Ever since the October 2023 update of the Adobe Stock website, you can now use [[Adobe Firefly]]'s [[Generative AI]] features directly within the Adobe Stock webpage for creating images based on a text prompt.
 >
 > **[0:16](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=16)** Now, let me show you how that works.
 >
@@ -5221,7 +5162,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=47)** So the only alternative I have now is to use other Adobe technology in the form of Adobe Firefly's generative AI capabilities.
 >
-> **[0:55](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=55)** To access those, I'm going to click the Generate option here in just a second, but before I do so, I'm just going to come in and select my original description, and I'm going to copy that to the clipboard by pressing Cmd + C on the keyboard or Ctrl + C on Windows, and then I'm going to hit the Generate option to access those specific features.
+> **[0:55](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=55)** To access those, I'm going to click the Generate option here in just a second, but before I do so, I'm just going to come in and select my original description, and I'm going to copy that to the clipboard by pressing Cmd + C on the keyboard or Ctrl + C on [[Windows]], and then I'm going to hit the Generate option to access those specific features.
 >
 > **[1:15](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/using-generative-ai-to-create-images?u=76281980&t=75)** Now, here at the bottom, I have a couple of text to image prompt examples as part of this larger gallery.
 >
@@ -5283,7 +5224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[Adobe Firefly]] (6), [[Generative AI]] (2), hit (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Adobe Firefly]] (6), [[Generative AI]] (2), [[Windows]] (1)
 > **Analogies:** kind of like (2), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -5295,8 +5236,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goodbye
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/goodbye?u=76281980)
+#### [Goodbye](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/goodbye?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5312,7 +5252,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - if (1)
 
 

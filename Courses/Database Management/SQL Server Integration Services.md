@@ -105,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrate your data with SQL Server Integration Services (SSIS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980)
+#### [Integrate your data with SQL Server Integration Services (SSIS)](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,31 +115,30 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=15)** Hi, my name is Adam Wilbert, and I've been helping businesses and government agencies organize and add value to their data collections for over a decade.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=23)** In this course, I'll show you how to apply SQL Server Integration Services to the problem of efficiently consolidating data with techniques that'll save you time and effort.
+> **[0:23](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=23)** In this course, I'll show you how to apply [[Microsoft SQL Server|SQL Server]] Integration Services to the problem of efficiently consolidating data with techniques that'll save you time and effort.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=32)** Integration Services is a powerful addition to SQL Server.
 >
-> **[0:35](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=35)** It automates complex tasks so that you can rest easy, knowing that they're being performed in exactly the same way every time.
+> **[0:35](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=35)** It automates complex tasks so that you can [[Representational State Transfer (REST)|rest]] easy, knowing that they're being performed in exactly the same way every time.
 >
-> **[0:42](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=42)** So join me in my course on LinkedIn Learning and see how you can apply Integration Services to your own data needs.
+> **[0:42](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980&t=42)** So join me in my course on [[LinkedIn]] Learning and see how you can apply Integration Services to your own data needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (2), business (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have a little familiarity with SQL Server.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have a little familiarity with [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=5)** My expectation is that you're able to install a local copy of the SQL Server Database Engine, restore a couple of sample databases from a backup using SQL Server Management Studio, and are able to create databases on the server.
+> **[0:05](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=5)** My expectation is that you're able to install a local copy of the SQL Server Database Engine, restore a couple of sample [[Databases]] from a backup using SQL Server Management Studio, and are able to create databases on the server.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=17)** If you know a little bit about writing Transact-SQL SELECT statements, then that'll be helpful as well.
+> **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=17)** If you know a little bit about writing [[Transact-SQL (T-SQL)|Transact-SQL]] SELECT statements, then that'll be helpful as well.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-server-integration-services-2/what-you-should-know?u=76281980&t=21)** If you need a quick introduction, or feel like you might want a refresher on some of these topics, then a great place to start is with my course, Learning SQL Server 2019.
 >
@@ -148,23 +146,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), database (1), management (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (5), select (1)
 > **CLI Commands:** make (1)
 > **SQL:** select (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the example database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980)
+#### [Set up the example database](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=2)** with the actions that I'm performing in this course, then you'll need to set up you computer to match mine.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=7)** This isn't a requirement though, to your own databases and server configurations, but I thought it would be helpful to outline how I have my system configured.
+> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=7)** This isn't a requirement though, to your own [[Databases]] and server configurations, but I thought it would be helpful to outline how I have my system configured.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=16)** For this course, you'll need to have two instances of SQL Server installed.
+> **[0:16](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=16)** For this course, you'll need to have two instances of [[Microsoft SQL Server|SQL Server]] installed.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=19)** I'll be running them on the same machine, but they can be remote servers, as well.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=32)** One is the default instance.
 >
-> **[0:34](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=34)** It's just called MS SQL Server and it's on a computer named Windows 10 dash PC.
+> **[0:34](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=34)** It's just called MS SQL Server and it's on a computer named [[Windows 10]] dash PC.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=39)** The second instance has a name, and it's called SQL Server 2019.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=46)** It's these ones right here, Wide World Importers and the Wide World Importers data warehouse.
 >
-> **[0:50](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=50)** You can get them from Microsoft SQL Server Samples Respository On this page, to Wide World Importer Sample Databases, and inside of here, we'll find two links.
+> **[0:50](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=50)** You can get them from [[Microsoft SQL Server]] Samples Respository On this page, to Wide World Importer Sample Databases, and inside of here, we'll find two links.
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=63)** One for the Wide World Importers dash full dot B-A-K file, and the second one for the Wide World Importers DW dash full dot B-A-K file.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=117)** Then finally, you'll select the files and press OK a couple of times to reinstall them on your system.
 >
-> **[2:02](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=122)** I've already done that, so I'm going to press cancel a bunch to dismiss all of these windows.
+> **[2:02](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=122)** I've already done that, so I'm going to press cancel a bunch to dismiss all of these [[Windows]].
 >
 > **[2:06](https://www.linkedin.com/learning/sql-server-integration-services-2/set-up-the-example-database?u=76281980&t=126)** That'll place both files here on your database server.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Databases]] (5), database (5), data (3), management (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Databases]] (5), [[Microsoft SQL Server]] (2), [[Windows 10]] (1), [[Windows]] (1)
 > **Env Vars:** sql (9), mssql (2)
 > **Prerequisites:** you'll need (3), set up (3)
 > **UI Navigation:** switch to (1), click on (1), select the (1)
@@ -248,18 +245,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SSIS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980)
+#### [What is SSIS?](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=0)** - [Instructor] It makes sense to start any course with an understanding of what exactly is about to be covered.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=4)** So let's begin by getting to know what SQL Server Integration Services is.
+> **[0:04](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=4)** So let's begin by getting to know what [[Microsoft SQL Server|SQL Server]] Integration Services is.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=8)** Integration Services, or SSIS, is a platform for building workflows that can automate and standardize complex data related tasks.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=17)** As the name would imply, it can help integrate data from a variety of sources including other SQL databases, Excel spreadsheets, FAT files, such as CSV and XML files, and pull it all together into a single destination database.
+> **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=17)** As the name would imply, it can help integrate data from a variety of sources including other [[SQL]] [[Databases]], [[Microsoft Excel|Excel]] spreadsheets, FAT files, such as CSV and XML files, and pull it all together into a single destination database.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=30)** It does this through a process called ETL, or extract, transform, and load.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=71)** To do this you'll need to work in two different environments.
 >
-> **[1:14](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=74)** In order to develop a package of tasks, you'll use a graphical designer called SQL Server Data Tools, which is a component of Microsoft's flagship application development program, Visual Studio.
+> **[1:14](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=74)** In order to develop a package of tasks, you'll use a graphical designer called SQL Server Data Tools, which is a component of [[Microsoft]]'s flagship [[Application Development]] program, Visual Studio.
 >
 > **[1:26](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980&t=86)** Here you'll specify what tasks you want to run, connect them to the appropriate data sources and destinations, and define the sequence in which they'll execute.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (6), database (4), [[Databases]] (3), etl (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (3), [[SQL]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (7), ssis (2), etl (2), fat (1), csv (1)
 > **Tools:** visual studio (2)
 > **Definitions:** is a  (2)
@@ -301,12 +297,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add SSIS to a SQL Server instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980)
+#### [Add SSIS to a SQL Server instance](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=0)** - [Instructor] Integration Services is installed on top of SQL Server, and it's recommended that you use a dedicated server for extraction, transform, and loading processes on hardware that's separate from your main production databases.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=0)** - [Instructor] Integration Services is installed on top of [[Microsoft SQL Server|SQL Server]], and it's recommended that you use a dedicated server for extraction, transform, and loading processes on [[Hardware]] that's separate from your main production [[Databases]].
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=20)** and it's all done through the same installer, used for SQL Server.
 >
@@ -314,11 +309,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=36)** for test databases and non-production environments, or download a trial of Enterprise.
 >
-> **[0:41](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=41)** I'll be using the evaluation edition for SQL Server 2019 in this course, Click on the download now link, choose your platform, I'll choose the Windows option, and then click the button for previewing SQL Server 2019.
+> **[0:41](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=41)** I'll be using the evaluation edition for SQL Server 2019 in this course, Click on the download now link, choose your platform, I'll choose the [[Windows]] option, and then click the button for previewing SQL Server 2019.
 >
 > **[0:55](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=55)** That'll allow me to download the evaluation file.
 >
-> **[0:59](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=59)** This small file, when run, will allow you to choose the custom installation method, and it'll download the rest of the installation media to your computer.
+> **[0:59](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=59)** This small file, when run, will allow you to choose the custom installation method, and it'll download the [[Representational State Transfer (REST)|rest]] of the installation media to your computer.
 >
 > **[1:06](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=66)** After that's complete, it'll start up the SQL Server Installation Center.
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=79)** You can find a link to this program inside of your Start Menu.
 >
-> **[1:22](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=82)** I'll scroll down until I get to the Microsoft SQL Server folder.
+> **[1:22](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=82)** I'll scroll down until I get to the [[Microsoft SQL Server]] folder.
 >
 > **[1:27](https://www.linkedin.com/learning/sql-server-integration-services-2/add-ssis-to-a-sql-server-instance?u=76281980&t=87)** And inside of there, we'll find a link to the Installation Center.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (17), next (3), [[Hardware]] (2), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (17), [[Hardware]] (2), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Windows]] (1)
 > **Env Vars:** sql (18), sql2019ctp3 (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** click on (2), scroll down (1), dropdown (1), checkbox (1)
@@ -389,14 +384,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to the SSIS catalog database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980)
+#### [Connect to the SSIS catalog database](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=0)** - As with other SQL Server services, you'll use configuration manager to verify that integration services is running on your computer.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=0)** - As with other [[Microsoft SQL Server|SQL Server]] services, you'll use configuration manager to verify that integration services is running on your computer.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=7)** You can find it in a folder on your start menu underneath the Microsoft SQL Server folder and it's right here.
+> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=7)** You can find it in a folder on your start menu underneath the [[Microsoft SQL Server]] folder and it's right here.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=14)** SQL Server 2019 and I'm using the CTP 3.0 version and its configuration manager.
 >
@@ -438,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=102)** For the server name, this is the SQL Server instance that it was added to.
 >
-> **[1:45](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=105)** So I'm going to type in Windows 10-PC, which is the name of my computer.
+> **[1:45](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=105)** So I'm going to type in [[Windows 10]]-PC, which is the name of my computer.
 >
 > **[1:49](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=109)** I'm using the default instance of SQL Server, so I don't need to add an additional instance name here.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=156)** Once again we'll need the server name in the way it was before.
 >
-> **[2:38](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=158)** And I'm going to use the Windows authentication mode.
+> **[2:38](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=158)** And I'm going to use the [[Windows]] authentication mode.
 >
 > **[2:40](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-the-ssis-catalog-database?u=76281980&t=160)** This time when I press connect it lets me write in.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), management (6), database (3), [[Microsoft SQL Server]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[Microsoft SQL Server]] (2), [[Windows 10]] (1), [[Windows]] (1)
 > **Env Vars:** sql (10), ssms (3), ctp (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (3)
@@ -475,8 +469,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Explore SSIS packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980)
+#### [Explore SSIS packages](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=46)** These data collector packages do things like collect and upload query activity.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=51)** Now, this MSDB location should sound familiar to you if you've ever explored the SQL server instance before.
+> **[0:51](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=51)** Now, this MSDB location should sound familiar to you if you've ever explored the [[Microsoft SQL Server|SQL server]] instance before.
 >
 > **[0:56](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=56)** It's the system database that's included when you first install SQL server.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=79)** So now I have the integration services service here at the top and I have the database engine at the bottom.
 >
-> **[1:24](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=84)** I'm going to expand the database's folder and then open up system databases and here you'll find the MSDB system database.
+> **[1:24](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=84)** I'm going to expand the database's folder and then open up system [[Databases]] and here you'll find the MSDB system database.
 >
 > **[1:30](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=90)** Let's go into that.
 >
@@ -544,7 +537,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=159)** I'm going to minimize management studio and open a file browser.
 >
-> **[2:44](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=164)** The default location where SSIS will store packages on the file system will be on the C drive inside of the program files folder then in Microsoft SQL server and then we need to find the folder that corresponds to the compatibility level of SQL server.
+> **[2:44](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=164)** The default location where SSIS will store packages on the file system will be on the C drive inside of the program files folder then in [[Microsoft SQL Server]] and then we need to find the folder that corresponds to the compatibility level of SQL server.
 >
 > **[2:58](https://www.linkedin.com/learning/sql-server-integration-services-2/explore-ssis-packages?u=76281980&t=178)** I'm working with SQL server 2019, which uses the compatibility level of 150 so I'm going to go into that folder.
 >
@@ -584,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (6), management (5), data (4), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** msdb (9), sql (7), ssis (5), dts (1), ssms (1)
 > **CLI Commands:** find (8)
 > **UI Navigation:** right-click (5), click on (1), scroll down (1)
@@ -597,14 +590,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install SQL Server Data Tools (SSDT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980)
+#### [Install SQL Server Data Tools (SSDT)](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=1)** - [Instructor] Integration services packages are created using SQL Server data tools.
+> **[0:01](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=1)** - [Instructor] Integration services packages are created using [[Microsoft SQL Server|SQL Server]] data tools.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=6)** You can install data tools as an extension to Microsoft's popular development environment, Visual Studio.
+> **[0:06](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=6)** You can install data tools as an extension to [[Microsoft]]'s popular development environment, Visual Studio.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=13)** The process starts at visualstudio.[microsoft.com](https://microsoft.com).
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=44)** I'll allow it to make changes to my computer, and then I need to press this Continue button to get everything set up.
 >
-> **[0:52](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=52)** To install SQL Server Data Tools, we need to scroll down on the first tab until you get to the section called Other Toolsets, and here you'll find an option for data storage and processing.
+> **[0:52](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=52)** To install SQL Server Data Tools, we need to scroll down on the first tab until you get to the section called Other Toolsets, and here you'll find an option for [[Data Storage]] and processing.
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=63)** Go ahead and place a check mark there, and over on the right you should see SQL Server Data Tools has already been selected.
 >
@@ -628,7 +620,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=73)** This will take quite a while to download everything, so we'll just skip ahead to the next step.
 >
-> **[1:18](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=78)** When the installation finally completes, you'll be prompted to sign into your Microsoft Azure account, if you have one.
+> **[1:18](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=78)** When the installation finally completes, you'll be prompted to sign into your [[Microsoft Azure]] account, if you have one.
 >
 > **[1:24](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980&t=84)** I'm going to choose the option here at the bottom that says "Skip this for now" instead.
 >
@@ -704,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (4), next (4), [[Microsoft]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Microsoft]] (3), [[Data Storage]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** install (7), getting started (3), set up (1), make sure you have (1)
 > **Tools:** visual studio (8)
 > **Env Vars:** sql (4), ssis (2), exe (1)
@@ -713,12 +705,11 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **UI Navigation:** click on (1)
 
-#### View SSIS solutions and projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980)
+#### [View SSIS solutions and projects](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=0)** - [Instructor] When you create a new SQL Server data tools project in Visual Studio, a number of different things happen.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=0)** - [Instructor] When you create a new [[Microsoft SQL Server|SQL Server]] data tools project in Visual Studio, a number of different things happen.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=5)** I want to focus your attention on the window on the right hand side of the screen called the Solution Explorer.
 >
@@ -750,7 +741,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=70)** And under that are all the different files that make up the project.
 >
-> **[1:12](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=72)** There's a parameter file, a folder that organizes databases and file connection details, a folder for the actual package, some packets parts and a miscellaneous folder for storing additional documents that might be useful while you work, such as notes and other code files that you want to reference.
+> **[1:12](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=72)** There's a parameter file, a folder that organizes [[Databases]] and file connection details, a folder for the actual package, some packets parts and a miscellaneous folder for storing additional documents that might be useful while you work, such as notes and other code files that you want to reference.
 >
 > **[1:27](https://www.linkedin.com/learning/sql-server-integration-services-2/view-ssis-solutions-and-projects?u=76281980&t=87)** Along the top of the Solution Explorer Window, there are a couple of buttons that you can play with.
 >
@@ -806,7 +797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Search]] (3), data (1), business (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (1)
 > **Env Vars:** sql (4), ssis (2), dtsx (1)
 > **CLI Commands:** make (3), find (2)
 > **Tools:** visual studio (2)
@@ -815,8 +806,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** warning (1)
 
-#### Define control flow tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980)
+#### [Define control flow tasks](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=17)** Now, the Design Surface has a number of different tabs across the top.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=20)** Right now we're looking at the Control Flow tab.
+> **[0:20](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=20)** Right now we're looking at the [[Control Flow]] tab.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=23)** This is where you'll define what your integration services package is going to do.
 >
@@ -844,7 +834,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=61)** If the description is getting cut off you can make the information window larger just by dragging on this top edge.
 >
-> **[1:07](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=67)** The other task underneath Favorites is called Execute SQL.
+> **[1:07](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=67)** The other task underneath Favorites is called Execute [[SQL]].
 >
 > **[1:11](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=71)** This task executes SQL statements or store procedures in a relational database.
 >
@@ -886,9 +876,9 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=166)** For connection type there's several different options using the dropdown menu.
 >
-> **[2:51](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=171)** We can connect to Excel files or a SQL mobile database, but you won't find anything that says SQL server.
+> **[2:51](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=171)** We can connect to [[Microsoft Excel|Excel]] files or a SQL mobile database, but you won't find anything that says [[Microsoft SQL Server|SQL server]].
 >
-> **[2:57](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=177)** That's because the connection to SQL server databases are done through something called Object Linking and Embedding, or OLE DB.
+> **[2:57](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=177)** That's because the connection to SQL server [[Databases]] are done through something called Object Linking and Embedding, or OLE DB.
 >
 > **[3:04](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=184)** Let's go ahead and leave that one selected.
 >
@@ -912,7 +902,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=230)** Once you've selected the server you'll specify the login credentials here.
 >
-> **[3:53](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=233)** Now I'm just going to use the standard Windows authentication for my user account.
+> **[3:53](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=233)** Now I'm just going to use the standard [[Windows]] authentication for my user account.
 >
 > **[3:57](https://www.linkedin.com/learning/sql-server-integration-services-2/define-control-flow-tasks-22694101?u=76281980&t=237)** Next, we'll specify the actual database name.
 >
@@ -988,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[SQL]] (12), next (5), [[Control Flow]] (4), [[Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Control Flow]] (4), [[Databases]] (3), [[Windows]] (3), [[Microsoft SQL Server|Sql server]] (2)
 > **UI Navigation:** dropdown (7), click on (6), scroll down (2), right-click (2), double-click (2)
 > **Env Vars:** sql (14), ole (1), sqlserver2019 (1)
 > **CLI Commands:** find (4), make (2)
@@ -997,12 +987,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Tools:** visual studio (1)
 
-#### Create a precedence constraint
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980)
+#### [Create a precedence constraint](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=0)** - [Male Instructor] The SSIS project now has two tasks: one that executes some SQL code and another that backs up the database.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=0)** - [Male Instructor] The SSIS project now has two tasks: one that executes some [[SQL]] code and another that backs up the database.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=8)** If we run the project right now, both of these tasks you're going to execute at the same time.
 >
@@ -1010,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=20)** We can control the sequence of the package executes tasks using something called precedence constraints.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=26)** Precedence constraints are depicted in the control flow diagram with lines and arrows that connect tasks together.
+> **[0:26](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=26)** Precedence constraints are depicted in the [[Control Flow]] diagram with lines and arrows that connect tasks together.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=32)** You'll notice that when you click the execute SQL task, for example, you'll get a green arrow below it.
 >
@@ -1062,7 +1051,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=148)** You can adjust the lines to clean up the display by clicking once on the line until you see the control points, and then dragging each segment of the arrow around.
 >
-> **[2:37](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=157)** And if you have a lot of tasks, you can zoom in and out of the diagram using the slider on the right of the control surface.
+> **[2:37](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=157)** And if you have a lot of tasks, you can [[Zoom]] in and out of the diagram using the slider on the right of the control surface.
 >
 > **[2:44](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-precedence-constraint?u=76281980&t=164)** You can either zoom it in, or zoom it back out.
 >
@@ -1098,19 +1087,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Control Flow]] (4), [[Zoom]] (4), [[SQL]] (3), next (2)
+> **Frameworks & Libraries:** [[Control Flow]] (4), [[Zoom]] (4), [[SQL]] (3)
 > **Env Vars:** sql (3), ssis (1)
 > **Definitions:** is called (1), in other words (1), means that (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [male (1)
 
-#### Create a sequence container
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980)
+#### [Create a sequence container](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=0)** - [Instructor] A complex Control Flow can be better organized using Containers.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=0)** - [Instructor] A complex [[Control Flow]] can be better organized using Containers.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=4)** You'll find them in the Toolbox underneath their own heading.
 >
@@ -1120,11 +1108,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=21)** To add one to the design surface, double-click on it in the Toolbox, and that'll drop it down.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=25)** I'm going to zoom my view back out to 100%, just so I have some more room to work, and I'm going to drag and drop it over here on the right.
+> **[0:25](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=25)** I'm going to [[Zoom]] my view back out to 100%, just so I have some more room to work, and I'm going to drag and drop it over here on the right.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=32)** Now, you simply need to add tasks into the Container.
 >
-> **[0:36](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=36)** If you try and drag one of the existing tasks into the Container, for instance, this Execute SQL Task, I'm going to get this warning message that says I can't move a connected task into the new container because of the precedence constraint.
+> **[0:36](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=36)** If you try and drag one of the existing tasks into the Container, for instance, this Execute [[SQL]] Task, I'm going to get this warning message that says I can't move a connected task into the new container because of the precedence constraint.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-server-integration-services-2/create-a-sequence-container?u=76281980&t=47)** Let's go ahead and say OK to this.
 >
@@ -1160,7 +1148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[Control Flow]] (1), [[Zoom]] (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Zoom]] (1), [[SQL]] (1)
 > **UI Navigation:** right-click (3), double-click (1), drag and drop (1), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sql (1)
@@ -1169,14 +1157,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run a package
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980)
+#### [Run a package](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=0)** - [Narrator] When building and testing your packages, you'll typically run them from right here inside of Visual Studio.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=6)** Eventually, you'll want to export the packages to the Integration Services database to be scheduled and executed by SQL Server, and we'll look at that procedure later on in the course.
+> **[0:06](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=6)** Eventually, you'll want to export the packages to the Integration Services database to be scheduled and executed by [[Microsoft SQL Server|SQL Server]], and we'll look at that procedure later on in the course.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=15)** For now though, it's probably a good idea to make sure that our package is working as intended You can run a package immediately either by right clicking on it in the Solution Explorer and choosing Execute Package or if you have it open in the design surface, like I do now, you can come up here to the toolbar and choose the Start button.
 >
@@ -1186,7 +1173,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=47)** Let me scroll down in this window a little bit so that we can see the status of each of our tasks.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=51)** In fact, I'm going to rearrange the size of these windows a little bit, just to give myself some more room, by clicking here and dragging down, that'll give me some more room up above.
+> **[0:51](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=51)** In fact, I'm going to rearrange the size of these [[Windows]] a little bit, just to give myself some more room, by clicking here and dragging down, that'll give me some more room up above.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=58)** So, now I can see that each task was completed successfully based off the icon.
 >
@@ -1196,7 +1183,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=72)** So, first we go into the Kineteco People sequence container and then we have the different tasks inside.
 >
-> **[1:17](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=77)** Now it looks like these are backwards from our control flow where it lists the backup task first and then the execute SQL task below.
+> **[1:17](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=77)** Now it looks like these are backwards from our [[Control Flow]] where it lists the backup task first and then the execute [[SQL]] task below.
 >
 > **[1:24](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=84)** The tasks here are actually listed in alphabetical order.
 >
@@ -1212,7 +1199,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=109)** It also appears that the back up database task The results here are really not showing us times with enough precision.
 >
-> **[1:57](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=117)** So, you're just going to have to take my word for it that they were executed in the proper order.
+> **[1:57](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=117)** So, you're just going to have to take my [[Microsoft Word|word]] for it that they were executed in the proper order.
 >
 > **[2:01](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=121)** When you're done reviewing the progress, you can click on the link in the status message that says that the package execution completed with success.
 >
@@ -1238,7 +1225,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=174)** Let's also check on the database backup.
 >
-> **[2:57](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=177)** To do that, I'll right-click on the Databases folder, I'll choose Restore Database, and then in the Database Source, I'll use the dropdown menu to choose the Kineteco database.
+> **[2:57](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=177)** To do that, I'll right-click on the [[Databases]] folder, I'll choose Restore Database, and then in the Database Source, I'll use the dropdown menu to choose the Kineteco database.
 >
 > **[3:07](https://www.linkedin.com/learning/sql-server-integration-services-2/run-a-package?u=76281980&t=187)** Sure enough, we see that we do in fact have a backup set that was just created.
 >
@@ -1248,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[SQL]] (4), [[Control Flow]] (2), [[Debugging]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Control Flow]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (2), click on (2), right-click (2), dropdown (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (1), find (1)
@@ -1260,12 +1247,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding tasks in control flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980)
+#### [Understanding tasks in control flow](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=0)** - [Instructor] In order to fully leverage integration services in your SQL Server environment, it's going to be important that you get familiar with the wide variety of tasks that are available to use in an SSIS package.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=0)** - [Instructor] In order to fully leverage integration services in your [[Microsoft SQL Server|SQL Server]] environment, it's going to be important that you get familiar with the wide variety of tasks that are available to use in an SSIS package.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=11)** Part of that will require that you spend some time exploring the toolbox in Visual Studio to see what each task does, and then think about how you could apply those tasks to your own situation and database's needs.
 >
@@ -1279,11 +1265,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=51)** This task extracts data from a variety of sources, applies column-level transformations, and loads data into a database.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=57)** Next there are a number of data preparation tasks.
+> **[0:57](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=57)** Next there are a number of [[Data Preparation]] tasks.
 >
 > **[1:00](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=60)** These tasks copy files and directories from local file systems or FTP sites, downloads files and data from the Internet, applies operations to XML documents, and profile data for cleansing.
 >
-> **[1:11](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=71)** Workflow tasks communicate with other processes to run packages, run programs or batch files, send and receive messages between packages, and they can also send email messages, read Windows Management Instrumentation data, and watch for WMI events.
+> **[1:11](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=71)** Workflow tasks communicate with other processes to run packages, run programs or batch files, send and receive messages between packages, and they can also send email messages, read [[Windows]] Management Instrumentation data, and watch for WMI events.
 >
 > **[1:27](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=87)** SQL Server tasks allow you to access, copy, insert, delete, and modify SQL Server objects and data.
 >
@@ -1291,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=98)** Analysis Services tasks create, modify, delete, and process Analysis Services objects.
 >
-> **[1:44](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=104)** Maintenance tasks perform administrative functions such as backing up and shrinking SQL Server databases, rebuilding and reorganizing indexes, and running SQL Server Agent jobs.
+> **[1:44](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=104)** Maintenance tasks perform administrative functions such as backing up and shrinking SQL Server [[Databases]], rebuilding and reorganizing indexes, and running SQL Server Agent jobs.
 >
 > **[1:54](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980&t=114)** Finally, if that's not enough, you can also create custom tasks using a programming language such as Visual Basic or C#.
 >
@@ -1301,15 +1287,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (6), database (2), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Data Preparation]] (1), [[Windows]] (1), [[Databases]] (1)
 > **Env Vars:** sql (6), ssis (1), ftp (1), xml (1), wmi (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Data Flow task
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980)
+#### [The Data Flow task](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=50)** You can find it at the very top of the SSIS toolbox.
 >
-> **[0:55](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=55)** Let's double-click on it to add it into the design surface of our Control Flow.
+> **[0:55](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=55)** Let's double-click on it to add it into the design surface of our [[Control Flow]].
 >
 > **[0:59](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=59)** Then to configure it, I'll double-click on its icon.
 >
@@ -1363,7 +1348,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=113)** This will walk me through the process of defining where the original data is coming from.
 >
-> **[1:58](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=118)** The options for the source type include a SQL Server database, an Excel file, a flat file, such as a CSV, or an Oracle database.
+> **[1:58](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=118)** The options for the source type include a [[Microsoft SQL Server|SQL Server]] database, an [[Microsoft Excel|Excel]] file, a flat file, such as a CSV, or an Oracle database.
 >
 > **[2:07](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=127)** I'm going to choose the SQL Server type and then click on New here in the connection managers, and press the OK button.
 >
@@ -1377,7 +1362,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=156)** If you're connecting to the default instance, you'll just need the name of the computer, otherwise, you'll use the computer name, backslash, instance name.
 >
-> **[2:46](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=166)** I'll leave it on Windows Authentication to use my user credentials, and we'll come down to step number 3 to select the database, and the data is going to come out of WideWorldImportersDW.
+> **[2:46](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=166)** I'll leave it on [[Windows]] Authentication to use my user credentials, and we'll come down to step number 3 to select the database, and the data is going to come out of WideWorldImportersDW.
 >
 > **[2:56](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=176)** It's always a good idea to test the connections, I'll click this button, looks good, press OK, press OK, OK again, and OK one more time to create the data source.
 >
@@ -1385,7 +1370,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=191)** Let's double-click on the icon here on the source task, and that will bring up the OLEDB Source Editor.
 >
-> **[3:18](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=198)** For the data access mode, you can select a specific table or view using the dropdown menu, or you can create your own SQL command.
+> **[3:18](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=198)** For the data access mode, you can select a specific table or view using the dropdown menu, or you can create your own [[SQL]] command.
 >
 > **[3:26](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=206)** I'm going to choose that option and paste in a select statement that I have copied on my clipboard from the Exercise Files.
 >
@@ -1451,7 +1436,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=342)** This is where we verify that the data coming out of the Wide World Importers database is going into the correct columns in the Kinetico database.
 >
-> **[5:49](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=349)** They'll have the same name in both databases, so it makes it easy to see that the Input column and the Destination columns line up.
+> **[5:49](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=349)** They'll have the same name in both [[Databases]], so it makes it easy to see that the Input column and the Destination columns line up.
 >
 > **[5:55](https://www.linkedin.com/learning/sql-server-integration-services-2/the-data-flow-task-22690195?u=76281980&t=355)** But if you did need to make a change, you would simply drag a column from the Input table and drop it into the appropriate location here in this bottom table.
 >
@@ -1477,7 +1462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), database (19), [[Microsoft SQL Server|Sql server]] (6), [[Control Flow]] (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Control Flow]] (3), [[Microsoft Excel|Excel]] (1), [[Windows]] (1), [[SQL]] (1)
 > **UI Navigation:** double-click (6), dropdown (4), right-click (3), click on (3), select the (2)
 > **Env Vars:** sql (7), ssis (3), oledb (2), csv (1)
 > **CLI Commands:** find (2), make (2)
@@ -1486,14 +1471,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### The File System tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980)
+#### [The File System tasks](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=0)** - [Instructor] Data preparation tasks are used to copy files from a variety of locations.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=0)** - [Instructor] [[Data Preparation]] tasks are used to copy files from a variety of locations.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=4)** These include the Hadoop File System Task for copying files within a Hadoop cluster, the FTP Task for downloading or uploading files to an FTP server, and the File System Task for working with files and folders on your local or network disk drives.
+> **[0:04](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=4)** These include the [[Hadoop]] File System Task for copying files within a Hadoop cluster, the FTP Task for downloading or uploading files to an FTP server, and the File System Task for working with files and folders on your local or network disk drives.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=19)** They all generally require the same sorts of configuration.
 >
@@ -1513,7 +1497,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=58)** When you press enter, you'll get this warning message here, just press Yes to that, and that'll complete the rename process.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=64)** Now, back in the toolbox, I'm going to double-click on the File System Task to add it in here to the Control Flow Diagram.
+> **[1:04](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=64)** Now, back in the toolbox, I'm going to double-click on the File System Task to add it in here to the [[Control Flow]] Diagram.
 >
 > **[1:10](https://www.linkedin.com/learning/sql-server-integration-services-2/the-file-system-tasks?u=76281980&t=70)** Then, I'll double-click on the logo here, a little icon, to open it up in the task editor.
 >
@@ -1627,7 +1611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Hadoop]] (2), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Hadoop]] (2), [[Data Preparation]] (1), [[Control Flow]] (1)
 > **UI Navigation:** click on (6), dropdown (3), right-click (2), double-click (2), select the (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ftp (2), ssis (1), csv (1)
@@ -1636,12 +1620,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** warning (1)
 
-#### Modify file attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/modify-file-attributes?u=76281980)
+#### [Modify file attributes](https://www.linkedin.com/learning/sql-server-integration-services-2/modify-file-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/modify-file-attributes?u=76281980&t=0)** - [Instructor] So, let's add one more File System Task to the Control Flow, and we'll use it to set the status of the copied files to read-only.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/modify-file-attributes?u=76281980&t=0)** - [Instructor] So, let's add one more File System Task to the [[Control Flow]], and we'll use it to set the status of the copied files to read-only.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/modify-file-attributes?u=76281980&t=7)** I'll double-click it one more time over here, and we'll drag it into position, then I'll double-click on the icon to open up the Editor.
 >
@@ -1679,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1)
 > **UI Navigation:** double-click (2), click on (2), in the menu (1), right-click (1)
 > **File Paths:** peoplecopy.csv (2)
 > **Env Vars:** csv (2)
@@ -1687,8 +1670,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Execute Package task
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980)
+#### [The Execute Package task](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,7 +1682,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=29)** Once again I'll press yes on this dialogue box to finish the rename process.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=32)** Then, I'll finally execute package task underneath the common header here, I'll double-click on it to add it in to my control flow, and you probably guessed by now we'll double-click on the icon to open up the editor.
+> **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=32)** Then, I'll finally execute package task underneath the common header here, I'll double-click on it to add it in to my [[Control Flow]], and you probably guessed by now we'll double-click on the icon to open up the editor.
 >
 > **[0:42](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=42)** The execute package task is useful for breaking down complex workflows into smaller units of work, or to reuse package components.
 >
@@ -1710,7 +1692,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=64)** For the reference type property, you can either choose to run packages inside of the same project, which is what I want to do here, or you can use the dropdown menu to choose external reference.
 >
-> **[1:14](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=74)** This will allow you to fill in the connection details to a different SQL server instance or file system location, and link to a package stored elsewhere.
+> **[1:14](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=74)** This will allow you to fill in the connection details to a different [[Microsoft SQL Server|SQL server]] instance or file system location, and link to a package stored elsewhere.
 >
 > **[1:22](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=82)** I'm going to switch this back to the original option, the project reference.
 >
@@ -1722,7 +1704,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=103)** If that package was encrypted with a password, you would need to authenticate with a password here, the asterisks that you're seeing are just placeholders, but since our example package didn't have a password set for it, you can just skip this.
 >
-> **[1:54](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=114)** And then you also have the option to execute the package as a separate windows process.
+> **[1:54](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=114)** And then you also have the option to execute the package as a separate [[Windows]] process.
 >
 > **[1:59](https://www.linkedin.com/learning/sql-server-integration-services-2/the-execute-package-task?u=76281980&t=119)** The default of false here is fine, I'm just going to leave it the way it is.
 >
@@ -1743,8 +1725,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Send Mail task
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/the-send-mail-task?u=76281980)
+#### [The Send Mail task](https://www.linkedin.com/learning/sql-server-integration-services-2/the-send-mail-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1850,7 +1831,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** click on (5), dropdown (1), go to (1)
 > **Env Vars:** smtp (3), ssis (1)
 > **CLI Commands:** make (2), find (1)
@@ -1859,14 +1839,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL Server tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980)
+#### [SQL Server tasks](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=0)** - [Narrator] We've already seen an example of the Execute SQL task to run a couple of statements that created a table and added a few records.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=0)** - [Narrator] We've already seen an example of the Execute [[SQL]] task to run a couple of statements that created a table and added a few records.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=7)** This one task alone will allow you to accomplish most SQL server related activities, since it's so flexible.
+> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=7)** This one task alone will allow you to accomplish most [[Microsoft SQL Server|SQL server]] related activities, since it's so flexible.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=13)** Previously we entered the SQL commands directly into the task, as something called a Direct Input.
 >
@@ -1882,15 +1861,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=56)** On the surface, these would appear to do the same thing.
 >
-> **[0:59](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=59)** The difference is that this one, the Execute T-SQL, can only use Microsoft's Transact SQL version of the SQL language.
+> **[0:59](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=59)** The difference is that this one, the Execute T-SQL, can only use [[Microsoft]]'s Transact SQL version of the SQL language.
 >
-> **[1:06](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=66)** You can't use this task when creating SQL statements that need to connect to other non-Microsoft database systems.
+> **[1:06](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=66)** You can't use this task when creating SQL statements that need to connect to other non-Microsoft [[Database Systems]].
 >
 > **[1:12](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=72)** Further, it's recommended that you don't use this task if you need to run parameterized queries, say the query results are variables, or use property expressions.
 >
 > **[1:21](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=81)** Execute T-SQL is simpler to use but less flexible than the standard Execute SQL task.
 >
-> **[1:27](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=87)** So with that aside out of the way, let's go ahead and scroll back up here to the top of the tool box, and I'm going to double click on Execute SQL Task to add that into my Control Flow Diagram.
+> **[1:27](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=87)** So with that aside out of the way, let's go ahead and scroll back up here to the top of the tool box, and I'm going to double click on Execute SQL Task to add that into my [[Control Flow]] Diagram.
 >
 > **[1:35](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=95)** Now I have an SQL script file saved in the Exercise files and I want this package to run that external script.
 >
@@ -1900,7 +1879,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=109)** I'm going to right click on it and open it up inside of Notepad.
 >
-> **[1:57](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=117)** This script is simply going to create a new table called Products and fill in a couple of values.
+> **[1:57](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=117)** This script is simply going to create a new table called [[Microsoft Products|Products]] and fill in a couple of values.
 >
 > **[2:02](https://www.linkedin.com/learning/sql-server-integration-services-2/sql-server-tasks?u=76281980&t=122)** OK, now you know what the script does, let's go back into Visual Studio.
 >
@@ -1940,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (18), database (4), [[Microsoft Products|Products]] (3), management (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[SQL]] (18), [[Microsoft Products|Products]] (3), [[Microsoft]] (2), [[Control Flow]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (18), ssis (1), ole (1)
 > **UI Navigation:** click on (6), scroll down (1), open the (1)
 > **CLI Commands:** find (3), make (2)
@@ -1949,14 +1928,13 @@ created: 2026-05-02
 > **File Paths:** createtable.sql (1)
 > **Code Identifiers:** createtable (1)
 
-#### Maintenance tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980)
+#### [Maintenance tasks](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=0)** - [Narrator] There's one more type of task that I want to look at as an example of the wide variety of things that you can do with an Integration Services Package.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=8)** The maintenance tasks perform administrative functions, such as backing up and shrinking SQL Server databases, rebuilding and reorganizing indexes, and running SQL Server agent jobs.
+> **[0:08](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=8)** The maintenance tasks perform administrative functions, such as backing up and shrinking [[Microsoft SQL Server|SQL Server]] [[Databases]], rebuilding and reorganizing indexes, and running SQL Server agent jobs.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=18)** We've seen the back up database task applied to the Kentico database.
 >
@@ -1988,7 +1966,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=76)** My Wide World Importers databases are on the default instance on this computer, so I'll make that check mark there and press okay.
 >
-> **[1:23](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=83)** We'll use the Windows NT Integrated Security and press okay, and that finishes the connection.
+> **[1:23](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=83)** We'll use the [[Windows]] NT Integrated Security and press okay, and that finishes the connection.
 >
 > **[1:28](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=88)** Next we'll choose what databases we want to work with.
 >
@@ -2008,7 +1986,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=125)** So that establishes what indexes we're going to rebuild.
 >
-> **[2:08](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=128)** Finally the rest of the interface deals with lots of different options for how to control the index rebuild process.
+> **[2:08](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=128)** Finally the [[Representational State Transfer (REST)|rest]] of the interface deals with lots of different options for how to control the index rebuild process.
 >
 > **[2:14](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=134)** I'll check the option here to keep indexes online.
 >
@@ -2020,7 +1998,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=151)** I'll leave it with the default to not rebuild those indexes.
 >
-> **[2:34](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=154)** Below that, we have some options for the index statistics that I'll run before the rebuild process starts.
+> **[2:34](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=154)** Below that, we have some options for the index [[Statistics]] that I'll run before the rebuild process starts.
 >
 > **[2:39](https://www.linkedin.com/learning/sql-server-integration-services-2/maintenance-tasks?u=76281980&t=159)** Now, unfortunately the interface window here is actually larger than my screen resolution will allow.
 >
@@ -2040,7 +2018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (8), database (7), [[Microsoft SQL Server|Sql server]] (3), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Microsoft SQL Server|Sql server]] (3), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Env Vars:** sql (3), ssis (1), wwi (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1)
@@ -2052,8 +2030,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project level connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980)
+#### [Project level connections](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2086,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=130)** These will allow you to connect to different kinds of data files and database platforms.
 >
-> **[2:16](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=136)** To connect to a SQL Server instance, choose the OLEDB option and then press the add button.
+> **[2:16](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=136)** To connect to a [[Microsoft SQL Server|SQL Server]] instance, choose the OLEDB option and then press the add button.
 >
 > **[2:23](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=143)** That lists out the data connection for the Kinetico database because I've previously used that in this Visual Studio session.
 >
@@ -2125,11 +2102,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=170)** Otherwise, add a backslash and the specific instance name as well.
 >
-> **[2:56](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=176)** My Wide World Importers databases are on the default instance on this machine so I'll select that one from the list.
+> **[2:56](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=176)** My Wide World Importers [[Databases]] are on the default instance on this machine so I'll select that one from the list.
 >
 > **[3:01](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=181)** Then you have your standard login options.
 >
-> **[3:03](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=183)** I'll connect to the Wide World Importers database using Windows authentication, and coming down here to the bottom dropdown menu I'll choose it from the list there.
+> **[3:03](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=183)** I'll connect to the Wide World Importers database using [[Windows]] authentication, and coming down here to the bottom dropdown menu I'll choose it from the list there.
 >
 > **[3:11](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=191)** Once those selections have been made I can test the connection, make sure everything's working, looks good, say OK, and press OK again to create that data connection.
 >
@@ -2145,7 +2122,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=223)** It has the Project prefix here which is how you'll distinguish it from other connections that you might make inside of this package.
 >
-> **[3:50](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=230)** I'm going to add in a basic execute SQL task by double clicking on it in the toolbox and then I'll double click on the icon to edit it.
+> **[3:50](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=230)** I'm going to add in a basic execute [[SQL]] task by double clicking on it in the toolbox and then I'll double click on the icon to edit it.
 >
 > **[4:00](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980&t=240)** In the Connection drop down menu, you'll notice that we already have a connection to the Wide World Importers database.
 >
@@ -2161,7 +2138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (6), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (2), [[Windows]] (1), [[SQL]] (1)
 > **Env Vars:** sql (3), oledb (3), wwi (1), ssis (1), ado (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** click on (3), dropdown (2)
@@ -2170,8 +2147,7 @@ created: 2026-05-02
 > **URLs:** [ado.net](https://ado.net) (1)
 > **Tools:** visual studio (1)
 
-#### Convert package connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/convert-package-connections?u=76281980)
+#### [Convert package connections](https://www.linkedin.com/learning/sql-server-integration-services-2/convert-package-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2231,19 +2207,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9)
 > **UI Navigation:** double-click (2), select the (1), click on (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ssis (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - another (1)
 
-#### The Excel connection manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980)
+#### [The Excel connection manager](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=0)** - Excel workbooks are everywhere in business, and integrations services allows you to easily bring tabular data stored in an Excel file into your projects.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=0)** - [[Microsoft Excel|Excel]] workbooks are everywhere in business, and integrations services allows you to easily bring tabular data stored in an Excel file into your projects.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=8)** When you add a data flow task into your package diagram and then switch over to the data flow page, you can scroll down in the toolbox to find some connection options.
 >
@@ -2305,7 +2279,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=143)** They're easy to add though, so let's take a quick detour to the internet.
 >
-> **[2:26](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=146)** The Microsoft Access database engine redistributable contains the connectivity components that are required to get into an Excel workbook in an Access database.
+> **[2:26](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=146)** The [[Microsoft]] Access database engine redistributable contains the connectivity components that are required to get into an Excel workbook in an Access database.
 >
 > **[2:35](https://www.linkedin.com/learning/sql-server-integration-services-2/the-excel-connection-manager?u=76281980&t=155)** You can download the installer at this URL.
 >
@@ -2319,7 +2293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (18), data (12), next (2), database (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (18), [[Microsoft]] (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** scroll down (1), click on (1), select the (1)
 > **Exercise Files:** exercise files (2), download the (1)
@@ -2328,8 +2302,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Prerequisites:** required to (1)
 
-#### Connect to flat file data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-flat-file-data-sources?u=76281980)
+#### [Connect to flat file data sources](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-flat-file-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2347,7 +2320,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-flat-file-data-sources?u=76281980&t=36)** I'm going to choose the Single Flat File type and press Add.
 >
-> **[0:40](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-flat-file-data-sources?u=76281980&t=40)** Then just like with the Excel connection, we need to locate the file on our hard drive by clicking the Browse button.
+> **[0:40](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-flat-file-data-sources?u=76281980&t=40)** Then just like with the [[Microsoft Excel|Excel]] connection, we need to locate the file on our hard drive by clicking the Browse button.
 >
 > **[0:45](https://www.linkedin.com/learning/sql-server-integration-services-2/connect-to-flat-file-data-sources?u=76281980&t=45)** Then I'll navigate into the Chapter 4 folder of the Exercise Files.
 >
@@ -2423,7 +2396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (3), utf (1), guid (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** dropdown (2), right-click (1)
@@ -2432,14 +2405,13 @@ created: 2026-05-02
 > **Code Identifiers:** more_people (1)
 > **Exercise Files:** exercise files (1)
 
-#### Additional connection managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980)
+#### [Additional connection managers](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=0)** - [Instructor] SQL Server Integration Services is built around the concept of data integration flexibility.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] Integration Services is built around the concept of [[Data Integration]] flexibility.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=5)** The OLEDB, Excel, and Flat File connections will likely handle a good portion of your data.
+> **[0:05](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=5)** The OLEDB, [[Microsoft Excel|Excel]], and Flat File connections will likely handle a good portion of your data.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=11)** But everyone's data environment is unique, and a connection that provides the core foundation or your organization might be completely unheard of in another.
 >
@@ -2469,7 +2441,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=71)** Let's cancel out of this.
 >
-> **[1:13](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=73)** Even something like connecting to a Hadoop Cluster is essentially the same.
+> **[1:13](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=73)** Even something like connecting to a [[Hadoop]] Cluster is essentially the same.
 >
 > **[1:18](https://www.linkedin.com/learning/sql-server-integration-services-2/additional-connection-managers?u=76281980&t=78)** You supply the host and a port and any authentication credentials.
 >
@@ -2491,7 +2463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Excel|Excel]] (1), database (1), [[Hadoop]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Data Integration]] (1), [[Microsoft Excel|Excel]] (1), [[Hadoop]] (1)
 > **Env Vars:** sql (2), oledb (2), ado (2), ftp (2), net (1)
 > **Analogies:** for instance (1), just like (1)
 > **URLs:** [ado.net](https://ado.net) (1)
@@ -2505,18 +2477,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data flow components
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980)
+#### [Data flow components](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=0)** - [Instructor] Like the control flow tasks, data flows use a series of components to describe the sequence of steps that Integration Services packages will move through.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=0)** - [Instructor] Like the [[Control Flow]] tasks, data flows use a series of components to describe the sequence of steps that Integration Services packages will move through.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=8)** But where control flows describe various actions to take, data flows describe the movement of data.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=14)** The components that you can add to the design service of a data flow diagram include the source of data that you want to pull from.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=20)** These will use connections to external resources like a SQL Server database, an Excel file, an Oracle database, Hadoop cluster, or any other source with a supported connection manager.
+> **[0:20](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=20)** These will use connections to external resources like a [[Microsoft SQL Server|SQL Server]] database, an [[Microsoft Excel|Excel]] file, an Oracle database, [[Hadoop]] cluster, or any other source with a supported connection manager.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980&t=30)** Then you can pass that data through one or more transformations.
 >
@@ -2546,13 +2517,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft SQL Server|Sql server]] (3), database (3), [[Control Flow]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Control Flow]] (1), [[Microsoft Excel|Excel]] (1), [[Hadoop]] (1)
 > **Env Vars:** sql (3), etl (1)
 > **Analogies:** for instance (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting data from a source
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980)
+#### [Extracting data from a source](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2568,7 +2538,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=27)** You click to add one and the interface will update.
 >
-> **[0:30](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=30)** Now if you switch back to the control flow tab, you'll exactly what happened, it just added in a simple data flow task to the diagram.
+> **[0:30](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=30)** Now if you switch back to the [[Control Flow]] tab, you'll exactly what happened, it just added in a simple data flow task to the diagram.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=37)** You can have multiple data flow tasks in a single package.
 >
@@ -2586,7 +2556,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=87)** All data flow components can be found in the tool box on the left, and all data flows begin with a source, you can find a number of source components for instance here's the OData source, or here's the Oracle source.
 >
-> **[1:41](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=101)** You can find a few others if you scroll down, this is where you'll find for instance the Excel source and the Flat file source.
+> **[1:41](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=101)** You can find a few others if you scroll down, this is where you'll find for instance the [[Microsoft Excel|Excel]] source and the Flat file source.
 >
 > **[1:49](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=109)** You can add any of these to your diagram but the easier way for common connections is to go back up to the top, and double click on the source assistant.
 >
@@ -2596,7 +2566,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=128)** If you select any of the new ones, it'll tell exactly what you need to do in order to enable it.
 >
-> **[2:13](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=133)** I'm going to turn this back on, and choose the SQL server source.
+> **[2:13](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=133)** I'm going to turn this back on, and choose the [[Microsoft SQL Server|SQL server]] source.
 >
 > **[2:18](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=138)** Then I'll click to create a new connector and press the okay button.
 >
@@ -2614,13 +2584,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=186)** We've seen this a coupe of times now in the course, for this chapter, I want to pull data out of the standard wide world importers database, and after some transformations, we'll save it into the Conetico database.
 >
-> **[3:16](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=196)** So I'm going to select the server that has the wide world importers databases, and I'll come down here to the drop down menu, and I'll choose the standard wide worlds importers database there.
+> **[3:16](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=196)** So I'm going to select the server that has the wide world importers [[Databases]], and I'll come down here to the drop down menu, and I'll choose the standard wide worlds importers database there.
 >
 > **[3:24](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=204)** Let's test the connection, looks good, I'll say okay, and then say okay to finish creating the data source.
 >
 > **[3:32](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=212)** Now that creates the connection to the database but it doesn't define the specific data that we want to work with, for that we need to go into the editor for the source, and to do that, I'll double click on this icon, the data access mode will allow us to pull a table or a view by naming it, or we could use a variable to define the name.
 >
-> **[3:51](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=231)** We could also use a SQL select statement to pull specific columns and make relationships between tables in the database.
+> **[3:51](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=231)** We could also use a [[SQL]] select statement to pull specific columns and make relationships between tables in the database.
 >
 > **[3:57](https://www.linkedin.com/learning/sql-server-integration-services-2/extracting-data-from-a-source?u=76281980&t=237)** I'm going to pull an entire table and using the drop down menu, we could choose a table from the database.
 >
@@ -2664,7 +2634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), database (7), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Excel|Excel]] (3), [[Control Flow]] (1), [[Databases]] (1), [[SQL]] (1)
 > **UI Navigation:** click on (3), select the (3), switch to (1), scroll down (1)
 > **Env Vars:** sql (5), oledb (2)
 > **Analogies:** for instance (5)
@@ -2673,8 +2643,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1), earlier in (1)
 > **Prerequisites:** setup (1)
 
-#### Understand transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980)
+#### [Understand transformations](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2686,7 +2655,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=13)** There are five general categories of transformations that you can add in Integration Services.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=17)** Business Intelligence Transformations clean data, mine text, and run prediction queries.
+> **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=17)** [[Business Intelligence (BI)|Business Intelligence]] Transformations clean data, mine text, and run prediction queries.
 >
 > **[0:22](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=22)** These can perform fuzzy matching across columns and can determine if records that contain data that is close should be consolidated into a single canonical row.
 >
@@ -2700,22 +2669,21 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=59)** As you can see, there's a wide variety of actions that you can apply to your data.
 >
-> **[1:03](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=63)** Like with the Control Flow tasks, the best way to fully understand all of the options and capabilities is to explore the available transformations in the toolbox, and think about how you can apply them to your own database needs.
+> **[1:03](https://www.linkedin.com/learning/sql-server-integration-services-2/understand-transformations?u=76281980&t=63)** Like with the [[Control Flow]] tasks, the best way to fully understand all of the options and capabilities is to explore the available transformations in the toolbox, and think about how you can apply them to your own database needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Control Flow]] (1), database (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Control Flow]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Character Map row transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/character-map-row-transformation?u=76281980)
+#### [Character Map row transformation](https://www.linkedin.com/learning/sql-server-integration-services-2/character-map-row-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/character-map-row-transformation?u=76281980&t=0)** - [Instructor] To start transforming the people data I'm going to apply a row transformation called Character Map.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/character-map-row-transformation?u=76281980&t=7)** This transformation uses transact SQL string functions to modify the input data.
+> **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/character-map-row-transformation?u=76281980&t=7)** This transformation uses transact [[SQL]] string functions to modify the input data.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-integration-services-2/character-map-row-transformation?u=76281980&t=12)** With it, you could do things like converting or convert the text case to uppercase or lowercase.
 >
@@ -2801,7 +2769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[SQL]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Tools:** visual studio (1)
@@ -2810,8 +2778,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Conditional Split transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/conditional-split-transformation?u=76281980)
+#### [Conditional Split transformation](https://www.linkedin.com/learning/sql-server-integration-services-2/conditional-split-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2937,7 +2904,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21)
 > **UI Navigation:** click on (6), scroll down (1), select the (1), scroll up (1), checkbox (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -2945,8 +2911,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rowset transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/rowset-transformations?u=76281980)
+#### [Rowset transformations](https://www.linkedin.com/learning/sql-server-integration-services-2/rowset-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2992,7 +2957,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-integration-services-2/rowset-transformations?u=76281980&t=63)** I just want a representative sample.
 >
-> **[1:05](https://www.linkedin.com/learning/sql-server-integration-services-2/rowset-transformations?u=76281980&t=65)** This can be useful if you're performing a statistical analysis or are processing scientific data.
+> **[1:05](https://www.linkedin.com/learning/sql-server-integration-services-2/rowset-transformations?u=76281980&t=65)** This can be useful if you're performing a [[Statistical Analysis]] or are processing scientific data.
 >
 > **[1:11](https://www.linkedin.com/learning/sql-server-integration-services-2/rowset-transformations?u=76281980&t=71)** Under the other transformations group, you'll find percentage sampling.
 >
@@ -3036,15 +3001,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistical Analysis]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** configure (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Loading data to a destination
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/loading-data-to-a-destination?u=76281980)
+#### [Loading data to a destination](https://www.linkedin.com/learning/sql-server-integration-services-2/loading-data-to-a-destination?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3064,7 +3028,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-server-integration-services-2/loading-data-to-a-destination?u=76281980&t=26)** So come up here to the top of the toolbox, and I'll double click on the Destination Assistant.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/loading-data-to-a-destination?u=76281980&t=32)** Just like with the Source Assistant, I'm going to choose the SQL Server destination type, then choose New and press OK.
+> **[0:32](https://www.linkedin.com/learning/sql-server-integration-services-2/loading-data-to-a-destination?u=76281980&t=32)** Just like with the Source Assistant, I'm going to choose the [[Microsoft SQL Server|SQL Server]] destination type, then choose New and press OK.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-server-integration-services-2/loading-data-to-a-destination?u=76281980&t=39)** And once again, I'm going to come up here to the Provider and switch it over to the SQL Server native client.
 >
@@ -3198,7 +3162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (15), [[Microsoft SQL Server|Sql server]] (4), next (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** click on (6), select the (1), scroll down (1)
 > **Env Vars:** sql (4), oledb (2)
@@ -3207,8 +3171,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
 
-#### Prevent duplicate records
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980)
+#### [Prevent duplicate records](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3230,13 +3193,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=45)** So, we need to go back into Visual Studio and make a change to our work flow.
 >
-> **[0:50](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=50)** One way that we can deal with this is by truncating the tables in the control flow diagram, To do that, I'm going to switch over to the control flow, and here we have our data flow tasks that we've been running.
+> **[0:50](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=50)** One way that we can deal with this is by truncating the tables in the [[Control Flow]] diagram, To do that, I'm going to switch over to the control flow, and here we have our data flow tasks that we've been running.
 >
 > **[1:02](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=62)** There's also this other duplicate one here that we added earlier on in the chapter.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=65)** So, I'm just going to actually right-click on this and delete it now.
 >
-> **[1:10](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=70)** what I can do is go up here to the top, and add in an Execute SQL Task.
+> **[1:10](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=70)** what I can do is go up here to the top, and add in an Execute [[SQL]] Task.
 >
 > **[1:15](https://www.linkedin.com/learning/sql-server-integration-services-2/prevent-duplicate-records?u=76281980&t=75)** Then I'll double-click on this to configure it.
 >
@@ -3268,7 +3231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (3), database (2), management (2), [[Control Flow]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Control Flow]] (2)
 > **Env Vars:** sql (3)
 > **UI Navigation:** right-click (1), double-click (1), click on (1)
 > **CLI Commands:** make (2)
@@ -3282,8 +3245,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with variables and scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980)
+#### [Work with variables and scope](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3321,7 +3283,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=84)** Doing so will make them available only inside of the scope container or task.
 >
-> **[1:29](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=89)** So for instance if I come up here to my control flow diagram, and I add in a sequence container, and I'll also add in a task.
+> **[1:29](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=89)** So for instance if I come up here to my [[Control Flow]] diagram, and I add in a sequence container, and I'll also add in a task.
 >
 > **[1:35](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=95)** How about the FTP Task?
 >
@@ -3359,7 +3321,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=172)** Then when you click it, it will bring up that Expression Builder.
 >
-> **[2:55](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=175)** Here you can use any Transact-SQL function or operator to construct an expression to define the value.
+> **[2:55](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=175)** Here you can use any [[Transact-SQL (T-SQL)|Transact-SQL]] function or operator to construct an expression to define the value.
 >
 > **[3:01](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980&t=181)** I'd also like to point out that Integration Services has a number of built-in system variables that you can also use in your packages.
 >
@@ -3377,7 +3339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Control Flow]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **UI Navigation:** right-click (2), navigate to (1), dropdown (1)
 > **Env Vars:** ftp (2), sql (1)
 > **Analogies:** for instance (2)
@@ -3386,8 +3348,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 
-#### Add execution parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980)
+#### [Add execution parameters](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3397,7 +3358,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=9)** And they help make your packages more dynamic and flexible.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=12)** For this example, I'm going to add in a data flow task into my control flow diagram, then I'll switch over to the Data Flow tab, and I'll come down and I'll add an OLE DB Source.
+> **[0:12](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=12)** For this example, I'm going to add in a data flow task into my [[Control Flow]] diagram, then I'll switch over to the Data Flow tab, and I'll come down and I'll add an OLE DB Source.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=23)** Then I'll double click it to configure it.
 >
@@ -3411,9 +3372,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=48)** In the data access mode, here we have a couple of different places where we could use a variable.
 >
-> **[0:53](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=53)** We can supply the table or the view name using a variable, or we can supply the entire SQL command with a variable.
+> **[0:53](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=53)** We can supply the table or the view name using a variable, or we can supply the entire [[SQL]] command with a variable.
 >
-> **[1:00](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=60)** The variable that I created in the last movie, contains just a single word.
+> **[1:00](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=60)** The variable that I created in the last movie, contains just a single [[Microsoft Word|word]].
 >
 > **[1:04](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=64)** It's not a full Select statement.
 >
@@ -3451,7 +3412,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=139)** The direction is going to be an input, so I'll make sure that that stays there, and press OK.
 >
-> **[2:23](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=143)** Now it doesn't look like anything has changed in the SQL command text, but if I press the Preview button, you should see just a listing of the products that have the color blue.
+> **[2:23](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=143)** Now it doesn't look like anything has changed in the SQL command text, but if I press the Preview button, you should see just a listing of the [[Microsoft Products|products]] that have the color blue.
 >
 > **[2:33](https://www.linkedin.com/learning/sql-server-integration-services-2/add-execution-parameters?u=76281980&t=153)** I'm going to close this, and press OK, to save the changes to the OLE DB provider.
 >
@@ -3467,7 +3428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (4), database (4), [[Microsoft Products|Products]] (2), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft Products|Products]] (2), [[Control Flow]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (6), ole (2)
 > **CLI Commands:** make (4), find (3)
 > **UI Navigation:** dropdown (3)
@@ -3476,12 +3437,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change a variable’s value
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980)
+#### [Change a variable’s value](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=0)** - [Instructor] In the last couple of movies, I created a variable called VarColor, and then I hooked it into a OLE DB Source using a SQL command right here with a parameter.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=0)** - [Instructor] In the last couple of movies, I created a variable called VarColor, and then I hooked it into a OLE DB Source using a [[SQL]] command right here with a parameter.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=9)** We're parameterizing it with a question mark here in the where clause of the select segment and then clicking over to parameters, you can see that parameter's being used here with the variable VarColor.
 >
@@ -3491,7 +3451,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=30)** But one way that we can modify the value of a variable is using a User Interface Control called an Input Box, that'll display when the package runs.
 >
-> **[0:39](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=39)** To do that, I'm going to switch over to the Control Flow tab of the diagram.
+> **[0:39](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=39)** To do that, I'm going to switch over to the [[Control Flow]] tab of the diagram.
 >
 > **[0:42](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=42)** Then, I'll come up here to the top and I'll add in a Script Task.
 >
@@ -3551,11 +3511,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=177)** The Script Task executes first and it brings up the input box.
 >
-> **[3:00](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=180)** The rest of the package stops and waits until I fill this in.
+> **[3:00](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=180)** The [[Representational State Transfer (REST)|rest]] of the package stops and waits until I fill this in.
 >
 > **[3:04](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=184)** I'm going to type in the text Black and press okay to continue on with the package.
 >
-> **[3:09](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=189)** That'll allow the rest of the tasks to run and any data viewer that pops up, you can see that it's pulling out just the black products.
+> **[3:09](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=189)** That'll allow the rest of the tasks to run and any data viewer that pops up, you can see that it's pulling out just the black [[Microsoft Products|products]].
 >
 > **[3:17](https://www.linkedin.com/learning/sql-server-integration-services-2/change-a-variable-s-value?u=76281980&t=197)** Let's close this window, and I'll rerun or restart the package.
 >
@@ -3569,7 +3529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Scripting]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Control Flow]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), double-click (1), scroll down (1), drag and drop (1)
 > **Env Vars:** ole (1), sql (1), ssis (1)
@@ -3578,12 +3538,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Exercise Files:** exercise files (1)
 
-#### Group tasks in looping containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/group-tasks-in-looping-containers?u=76281980)
+#### [Group tasks in looping containers](https://www.linkedin.com/learning/sql-server-integration-services-2/group-tasks-in-looping-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/group-tasks-in-looping-containers?u=76281980&t=0)** - [Instructor] If you need your package to execute a task or a series of tasks repeatedly, then you're going to want to look at the two looping containers that are available to be added to your control flow.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/group-tasks-in-looping-containers?u=76281980&t=0)** - [Instructor] If you need your package to execute a task or a series of tasks repeatedly, then you're going to want to look at the two looping containers that are available to be added to your [[Control Flow]].
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-integration-services-2/group-tasks-in-looping-containers?u=76281980&t=9)** The for loop container uses an expression to determine whether to repeat the tasks in the loop container again.
 >
@@ -3669,7 +3628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (2), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Control Flow]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** ado (1), n32 (1)
 > **Tools:** visual studio (2)
@@ -3678,12 +3637,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 
-#### Event handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/event-handlers?u=76281980)
+#### [Event handlers](https://www.linkedin.com/learning/sql-server-integration-services-2/event-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/event-handlers?u=76281980&t=0)** - [Instructor] Previously, we've used precedence constraints, and a control flow to determine what tasks to execute based off of the success or failure of the prior task.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/event-handlers?u=76281980&t=0)** - [Instructor] Previously, we've used precedence constraints, and a [[Control Flow]] to determine what tasks to execute based off of the success or failure of the prior task.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-integration-services-2/event-handlers?u=76281980&t=9)** You can also have your packages respond to a much longer list of events, beyond success or failure, by adding in event handlers.
 >
@@ -3746,8 +3704,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error handling in data flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980)
+#### [Error handling in data flows](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3759,7 +3716,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=24)** If I open up the source connector, you'll see how it's configured.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=27)** We currently have a connection to the Wide World Importers data warehouse here, and we're using a SQL command to select the distinct suppliers from Dimension.Supplier.
+> **[0:27](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=27)** We currently have a connection to the Wide World Importers data warehouse here, and we're using a [[SQL]] command to select the distinct suppliers from Dimension.Supplier.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=36)** I'll press the preview button.
 >
@@ -3837,7 +3794,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=182)** It'll also contain a column for the error number that you can use to look up and see what the problem is.
 >
-> **[3:07](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=187)** And finally, we'll also have a column that'll store the internal SQL Server ID number of the column that's causing the problem.
+> **[3:07](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=187)** And finally, we'll also have a column that'll store the internal [[Microsoft SQL Server|SQL Server]] ID number of the column that's causing the problem.
 >
 > **[3:13](https://www.linkedin.com/learning/sql-server-integration-services-2/error-handling-in-data-flows?u=76281980&t=193)** This field probably isn't going to be that useful, but the other two will be.
 >
@@ -3881,7 +3838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (5), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** csv (3), sql (2), ole (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** dropdown (2), select the (1), go to (1), scroll down (1)
@@ -3893,12 +3850,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploy projects to SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980)
+#### [Deploy projects to SQL Server](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=0)** - [Instructor] Before you can deploy an Integration Services project to a SQL Server instance, you need to create an SSIS catalog database.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=0)** - [Instructor] Before you can deploy an Integration Services project to a [[Microsoft SQL Server|SQL Server]] instance, you need to create an SSIS catalog database.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=7)** The process is going to start in Management Studio.
 >
@@ -3944,7 +3900,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=104)** This package uses a couple of tasks.
 >
-> **[1:47](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=107)** The first one is an Execute SQL task.
+> **[1:47](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=107)** The first one is an Execute [[SQL]] task.
 >
 > **[1:50](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=110)** This is going to connect to the Kinetico database and it's going to simply run the SQL statement Truncate Table New Suppliers.
 >
@@ -3984,7 +3940,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=196)** Press the Next button to get started.
 >
-> **[3:19](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=199)** First you have the option to add this to an on-premises installation of SQL server or you can store it in a cloud based Azure SQL database.
+> **[3:19](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=199)** First you have the option to add this to an on-premises installation of SQL server or you can store it in a cloud based [[Microsoft Azure|Azure]] SQL database.
 >
 > **[3:27](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=207)** I'm going to choose the option to add it to my local server instance and press the Next button.
 >
@@ -3994,7 +3950,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=218)** And I'll choose the server name that has the integration services database that we just created.
 >
-> **[3:45](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=225)** I'm going to use my Windows Authentication account to log in and then we'll come take a look at this path.
+> **[3:45](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=225)** I'm going to use my [[Windows]] Authentication account to log in and then we'll come take a look at this path.
 >
 > **[3:50](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980&t=230)** The path will set up the container name inside of the SSIS database.
 >
@@ -4052,7 +4008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), data (7), [[Microsoft SQL Server|Sql server]] (6), management (5), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[SQL]] (4), [[Microsoft Azure|Azure]] (1), [[Windows]] (1)
 > **Env Vars:** sql (10), ssis (4)
 > **UI Navigation:** right-click (3), click on (2), select the (1)
 > **CLI Commands:** find (2)
@@ -4061,16 +4017,15 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Exercise Files:** exercise files (1)
 
-#### Run packages with T-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980)
+#### [Run packages with T-SQL](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980&t=0)** - [Instructor] Triggering packages to run with T-SQL commands is a useful technique.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980&t=0)** - [Instructor] Triggering packages to run with T-[[SQL]] commands is a useful technique.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980&t=4)** With this method, running SSIS packages can be incorporated into other scripts and procedures, executed on the server remotely, or through external programs.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980&t=12)** The Transact-SQL that you need to execute is a little bit complex if you were to write it out manually.
+> **[0:12](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980&t=12)** The [[Transact-SQL (T-SQL)|Transact-SQL]] that you need to execute is a little bit complex if you were to write it out manually.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-integration-services-2/run-packages-with-t-sql?u=76281980&t=17)** But once you have your packages deployed to the server, and can execute them here in Management Studio, it's really simple to have the proper syntax generated.
 >
@@ -4096,7 +4051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (3), ssis (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** right-click (1), click on (1)
@@ -4105,8 +4060,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** required to (1)
 
-#### Schedule packages with SQL Server Agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980)
+#### [Schedule packages with SQL Server Agent](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4120,7 +4074,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980&t=22)** And you don't want to be the one that has to be standing by in the wee hours of the morning to hit the execute button.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980&t=27)** So instead we'll use the SQL Server Agent to schedule the execution of our Integration Services package.
+> **[0:27](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980&t=27)** So instead we'll use the [[Microsoft SQL Server|SQL Server]] Agent to schedule the execution of our Integration Services package.
 >
 > **[0:34](https://www.linkedin.com/learning/sql-server-integration-services-2/schedule-packages-with-sql-server-agent?u=76281980&t=34)** To start the agent needs to be running.
 >
@@ -4196,7 +4150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), prompt (2), database (2), etl (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** ssis (4), sql (4), etl (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** right-click (2), double-click (1)
@@ -4209,12 +4163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980&t=0)** - [Adam] I want to thank you for joining me as we explored SQL Server Integration Services.
+> **[0:00](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980&t=0)** - [Adam] I want to thank you for joining me as we explored [[Microsoft SQL Server|SQL Server]] Integration Services.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980&t=5)** I'd like to leave you with a few suggestions on where to go next.
 >
@@ -4230,7 +4183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), next (2), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** sql (4)
 > **Tools:** visual studio (2)
 > **Speakers:** - [adam] (1)

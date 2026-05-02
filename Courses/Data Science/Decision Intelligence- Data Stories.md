@@ -59,14 +59,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Theory is good, but practice can be better
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980)
+#### [Theory is good, but practice can be better](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980&t=0)** - Data is everywhere, and it influences everything.
 >
-> **[0:05](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980&t=5)** It helps decide what products we purchase, what books we read, and what food we eat.
+> **[0:05](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980&t=5)** It helps decide what [[Microsoft Products|products]] we purchase, what books we read, and what food we eat.
 >
 > **[0:11](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980&t=11)** Making decisions with data is crucial, and to make the right decisions, you need to think critically about the findings from the data.
 >
@@ -80,12 +79,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=8)** So before we dive into the course, let's talk about what you should know to make the most out of this training.
 >
-> **[0:15](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=15)** First, you'll need a basic grasp of data science concepts.
+> **[0:15](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=15)** First, you'll need a basic grasp of [[Data Science]] concepts.
 >
 > **[0:19](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=19)** Understanding what a data set is, knowing that data can come in different formats, and recognizing that statistical models are used to draw inferences are important basic prerequisites.
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=67)** And that's it.
 >
-> **[1:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=69)** You don't need to know advanced data science, PhD-level statistics, or be able to interpret complex results tables.
+> **[1:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=69)** You don't need to know advanced data science, PhD-level [[Statistics]], or be able to interpret complex results tables.
 >
 > **[1:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/what-you-should-know?u=76281980&t=76)** Enjoy the lessons for what they are, and let them make you think.
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (1), you need to have (1)
 > **Analogies:** for example (1)
@@ -128,12 +126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why perfect predictions can backfire
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980)
+#### [Why perfect predictions can backfire](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=0)** - When we think of data science, we often imagine a quest for perfect predictions.
+> **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=0)** - When we think of [[Data Science]], we often imagine a quest for perfect predictions.
 >
 > **[0:06](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=6)** Statistical models that are so accurate, they can tell you exactly what will happen next.
 >
@@ -141,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=20)** Sometimes perfect predictions can lead to ethical, social, and even personal consequences.
 >
-> **[0:27](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=27)** So let's explore the story of Target and how its predictive analytics program got it into a lot of trouble.
+> **[0:27](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=27)** So let's explore the story of Target and how its [[Predictive Analytics]] program got it into a lot of trouble.
 >
 > **[0:35](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=35)** Target is a large retail chain in the United States.
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=93)** They also noticed that in the first 20-weeks, pregnant women loaded up on supplements like calcium, magnesium, and zinc.
 >
-> **[1:40](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=100)** All in all, Target identified 25 products associated with pregnancy.
+> **[1:40](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=100)** All in all, Target identified 25 [[Microsoft Products|products]] associated with pregnancy.
 >
 > **[1:46](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=106)** From this, Target could then estimate a due date to within a very small window and send coupons time to very specific stages of a woman's pregnancy.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=137)** This revealed private and sensitive information before she had told her parents.
 >
-> **[2:24](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=144)** What began as a clever marketing strategy turned into a privacy and public relations nightmare.
+> **[2:24](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=144)** What began as a clever [[Marketing Strategy]] turned into a [[Privacy]] and public relations nightmare.
 >
 > **[2:31](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=151)** Although Target never meant to intrude, the model success directly led to a deeply uncomfortable situation.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=184)** Ethical and privacy concerns are also essential.
 >
-> **[3:08](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=188)** Having the perfect statistical model without consideration of context and ethics can result in real-world harm, legal issues, and loss of confidence in data science.
+> **[3:08](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=188)** Having the perfect statistical model without consideration of context and [[Ethics]] can result in real-world harm, legal issues, and loss of confidence in data science.
 >
 > **[3:19](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980&t=199)** When your model predicts human behavior, high accuracy isn't enough.
 >
@@ -209,13 +206,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Products|Products]] (2), [[Privacy]] (2), next (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Microsoft Products|Products]] (2), [[Privacy]] (2), [[Predictive Analytics]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
-#### Why inaccurate modelling can cause harm
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980)
+#### [Why inaccurate modelling can cause harm](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,11 +261,11 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=172)** There were data gaps for many countries.
 >
-> **[2:55](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=175)** Three countries were excluded without any reason, and there was inappropriate waiting in the calculation of summary statistics.
+> **[2:55](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=175)** Three countries were excluded without any reason, and there was inappropriate waiting in the calculation of summary [[Statistics]].
 >
 > **[3:05](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=185)** Unfortunately, these weren't just minor academic hiccups.
 >
-> **[3:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=189)** By that time, many governments had already imposed harsh austerity programs, which affected jobs, social welfare, and public health.
+> **[3:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=189)** By that time, many governments had already imposed harsh austerity programs, which affected jobs, social welfare, and [[Public Health]].
 >
 > **[3:17](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=197)** Protests erupted around the world as people questioned whether these sacrifices were truly necessary.
 >
@@ -297,7 +293,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=275)** My advice is this.
 >
-> **[4:37](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=277)** Ensure that you embrace rigorous scrutiny and open debate of data modeling.
+> **[4:37](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=277)** Ensure that you embrace rigorous scrutiny and open debate of [[Data Modeling]].
 >
 > **[4:44](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-innacurate-modelling-can-cause-harm?u=76281980&t=284)** This will guard against the fallout from inaccurate modeling.
 >
@@ -305,14 +301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Statistics]] (1), [[Public Health]] (1), teams (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Public Health]] (1), [[Data Modeling]] (1)
 > **Env Vars:** gdp (4)
 > **Versions:** 1.7 (1), 3.7 (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - data (1)
 
-#### Why causality needs careful thought
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980)
+#### [Why causality needs careful thought](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=7)** But establishing why something happens, true causality, that takes more than spotting correlations.
 >
-> **[0:15](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=15)** To see why, let's travel back to 1854 London, where Dr. John Snow forever changed how we understand disease transmission.
+> **[0:15](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=15)** To see why, let's travel back to 1854 London, where Dr. [[John the Ripper|John]] Snow forever changed how we understand disease transmission.
 >
 > **[0:24](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=24)** But at the same time, he perfectly demonstrated why careful thinking is required for cause and effect analysis.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=66)** That direct link between poor living conditions, disease, and mortality was established by the Chadwick Report of 1842.
 >
-> **[1:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=76)** This report used careful statistical analysis to recommend that sanitation and cleaner living was needed.
+> **[1:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=76)** This report used careful [[Statistical Analysis]] to recommend that sanitation and cleaner living was needed.
 >
 > **[1:24](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-causality-needs-careful-thought?u=76281980&t=84)** The rapid removal of human waste into the drainage systems of London was a key outcome of this report.
 >
@@ -400,15 +395,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - in (1)
 
-#### Why experiments need ethical considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980)
+#### [Why experiments need ethical considerations](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,11 +438,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=107)** And by subtly altering their emotional diet, the company had crossed a line that many people found very unsettling.
 >
-> **[1:56](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=116)** The backlash came swiftly, not about science, but the ethics.
+> **[1:56](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=116)** The backlash came swiftly, not about science, but the [[Ethics]].
 >
 > **[2:02](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=122)** Newspapers, academics, ethicists, policy makers, and everyday users ask, "Where do we draw the line?"
 >
-> **[2:08](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=128)** When does the pursuit of knowledge and improved user experience infringe upon our personal autonomy and emotional safety?
+> **[2:08](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=128)** When does the pursuit of knowledge and improved [[User Experience (UX)|user experience]] infringe upon our personal autonomy and emotional safety?
 >
 > **[2:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-experiments-need-ethical-considerations?u=76281980&t=136)** Public outrage was the result.
 >
@@ -498,13 +492,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Ethics]] (4), power (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[User Experience (UX)|User experience]] (1)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - randomized (1)
 
-#### How dashboards and visualizations can clarify or obscure
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980)
+#### [How dashboards and visualizations can clarify or obscure](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,13 +507,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=13)** But if those 1,000 words are all jumbled up, the picture is worthless.
 >
-> **[0:18](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=18)** So let's have a look at how data visualizations and data dashboards can either clarify or obscure data decisions.
+> **[0:18](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=18)** So let's have a look at how data visualizations and data [[Dashboards]] can either clarify or obscure data decisions.
 >
 > **[0:29](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=29)** The COVID-19 pandemic struck in 2020.
 >
 > **[0:33](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=33)** It was a unique event across the world.
 >
-> **[0:35](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=35)** It was a public health crisis that affected everybody.
+> **[0:35](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=35)** It was a [[Public Health]] crisis that affected everybody.
 >
 > **[0:41](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=41)** In many cases, significant liberties were taken away from people, such as moving around or meeting each other.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=71)** Data dashboards soon became household tools for many people to understand a fast-changing global crisis.
 >
-> **[1:20](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=80)** A good example of a well-designed dashboard with clear visualizations was the John Hopkins COVID-19 dashboard.
+> **[1:20](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=80)** A good example of a well-designed dashboard with clear visualizations was the [[John the Ripper|John]] Hopkins COVID-19 dashboard.
 >
 > **[1:28](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=88)** Let's have a look at it.
 >
@@ -548,9 +541,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=126)** Data is clearly presented on this dashboard.
 >
-> **[2:10](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=130)** Also, users can zoom in and click on their own local geography.
+> **[2:10](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=130)** Also, users can [[Zoom]] in and click on their own local geography.
 >
-> **[2:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=136)** Here, they can access additional statistics in beautifully presented infographics.
+> **[2:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=136)** Here, they can access additional [[Statistics]] in beautifully presented [[Infographics]].
 >
 > **[2:24](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=144)** The John Hopkins dashboard quickly became the go-to source for global case count, deaths, and COVID recoveries.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=166)** At the same time, every person could see why policies, like travel restrictions or school closures, were necessary.
 >
-> **[2:54](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=174)** The John Hopkins COVID-19 dashboard provided something critically needed in time of crisis, provided real-time public health intelligence that everybody could access.
+> **[2:54](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=174)** The John Hopkins COVID-19 dashboard provided something critically needed in time of crisis, provided [[Real-Time]] public health intelligence that everybody could access.
 >
 > **[3:06](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=186)** On the other end of the spectrum was the Georgia Department of Public Health's COVID-19 dashboard.
 >
@@ -594,7 +587,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=264)** This is a very poor and dangerous way to present public health data.
 >
-> **[4:29](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=269)** When users caught this, the backlash was Swift.
+> **[4:29](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=269)** When users caught this, the backlash was [[Swift (Programming Language)|Swift]].
 >
 > **[4:32](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=272)** Public trust took an immediate hit.
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=283)** It also wasn't an isolated slipup.
 >
-> **[4:46](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=286)** There were previous data errors in the dashboard, and data integrity was questioned.
+> **[4:46](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=286)** There were previous data errors in the dashboard, and [[Data Integrity]] was questioned.
 >
 > **[4:54](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=294)** While these two examples come from public health, the lessons apply far beyond COVID-19.
 >
@@ -632,11 +625,11 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=367)** So whether you're tracking a global pandemic or presenting quarterly sales, remember these lessons from the John Hopkins and Georgia Department of Public Health dashboards.
 >
-> **[6:18](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=378)** By striving for clarity, context, and transparency, you can ensure that data serves its purpose, empowering users to make better decisions and building trust in the world around us.
+> **[6:18](https://www.linkedin.com/learning/decision-intelligence-data-stories/how-dashboards-and-visualisations-can-clarify-or-obscure?u=76281980&t=378)** By striving for clarity, context, and transparency, you can ensure that data serves its purpose, empowering users to make better decisions and [[Building Trust]] in the world around us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Public Health]] (10), [[Dashboards]] (6), power (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (10), [[John the Ripper|John]] (7), [[Dashboards]] (6), [[Data Integrity]] (2), [[Zoom]] (1)
 > **Env Vars:** covid (9)
 > **Analogies:** picture (2), such as (1), similar to (1), for example (1)
 > **CLI Commands:** make (2)
@@ -645,16 +638,15 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - i (1)
 
-#### Why early modeling success should not be taken for granted
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980)
+#### [Why early modeling success should not be taken for granted](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=0)** - In data science, early success can be thrilling, especially when the results seem almost too good to be true.
+> **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=0)** - In [[Data Science]], early success can be thrilling, especially when the results seem almost too good to be true.
 >
 > **[0:08](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=8)** But those first wins can create a false sense of security.
 >
-> **[0:13](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=13)** So let's explore the case of Google Flu Trends, a once-celebrated model that promised to track flu outbreaks in real time, until it didn't.
+> **[0:13](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=13)** So let's explore the case of [[Google]] Flu Trends, a once-celebrated model that promised to track flu outbreaks in real time, until it didn't.
 >
 > **[0:23](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=23)** Launched in 2008, Google Flu Trends analyzed search queries related to flu symptoms.
 >
@@ -662,7 +654,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=45)** After some initial teething problems, it worked remarkably well.
 >
-> **[0:49](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=49)** It gathered headlines and praise from media and public health experts alike.
+> **[0:49](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=49)** It gathered headlines and praise from media and [[Public Health]] experts alike.
 >
 > **[0:55](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=55)** Google claimed an accuracy of 97% with a reporting lag of only one day, compared to the previous, traditional, two-weeks reporting lag.
 >
@@ -702,7 +694,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=164)** This artificially boosted the search volume over time.
 >
-> **[2:48](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=168)** Put simply, during flu epidemics, Google's Flu Trends algorithms were susceptible to unexpected surges in search queries, which led to over projection of actual flu cases.
+> **[2:48](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=168)** Put simply, during flu epidemics, Google's Flu Trends [[Algorithms]] were susceptible to unexpected surges in search queries, which led to over projection of actual flu cases.
 >
 > **[3:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=180)** Another factor was over-fitting.
 >
@@ -722,13 +714,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=234)** The lessons from Google Flu Trends' downfall are as follows.
 >
-> **[3:59](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=239)** The first is continuous monitoring.
+> **[3:59](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=239)** The first is [[Continuous Monitoring]].
 >
 > **[4:01](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=241)** Even the best models need regular updates, rechecks and fine-tuning.
 >
 > **[4:05](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=245)** Human behavior is dynamic and data models must keep up.
 >
-> **[4:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=249)** It's not always just about big data and data mining.
+> **[4:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=249)** It's not always just about [[Big Data]] and [[Data Mining]].
 >
 > **[4:14](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-early-modelling-success-should-not-be-taken-for-granted?u=76281980&t=254)** The second lesson is model validation and collaboration matters.
 >
@@ -754,23 +746,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Google]] (12), [[Search]] (10), [[Public Health]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (12), [[Public Health]] (3), [[Data Science]] (2), [[Algorithms]] (1), [[Continuous Monitoring]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Why effective communication between stakeholders matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980)
+#### [Why effective communication between stakeholders matters](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=0)** - Data science doesn't happen in isolation.
+> **[0:00](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=0)** - [[Data Science]] doesn't happen in isolation.
 >
 > **[0:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=4)** It involves engineers, analysts, managers, and sometimes even the public.
 >
 > **[0:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=9)** When critical decisions rely on data, how it's communicated can mean the difference between success and failure.
 >
-> **[0:17](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=17)** A stark example is the 1986 Challenger disaster, where communication breakdown contributed to the tragedy.
+> **[0:17](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=17)** A [[Stark (Accessibility Software)|stark]] example is the 1986 Challenger disaster, where communication breakdown contributed to the tragedy.
 >
 > **[0:27](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=27)** So let's examine why effective dialogue is so crucial in data-driven decisions.
 >
@@ -826,7 +817,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=181)** Here's my own visualization of that graph.
 >
-> **[3:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=184)** A simple logistic regression model shows the probability of failure on launch day was 99.99%.
+> **[3:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=184)** A simple [[Logistic Regression]] model shows the [[Probability]] of failure on launch day was 99.99%.
 >
 > **[3:11](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-effective-communication-between-stakeholders-matters?u=76281980&t=191)** That graph would certainly get the point across.
 >
@@ -874,14 +865,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Probability]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Logistic Regression]] (1), business (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Data Science]] (1), [[Stark (Accessibility Software)|Stark]] (1), [[Logistic Regression]] (1)
 > **Env Vars:** nasa (3)
 > **Versions:** 99.99 (1)
 > **Analogies:** picture (1)
 > **Speakers:** - data (1)
 
-#### Why survey quality shouldn't be taken for granted
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980)
+#### [Why survey quality shouldn't be taken for granted](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=4)** They cover everything from unemployment rates and public sentiment to health outcomes.
 >
-> **[0:11](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=11)** Many of our most important statistics come from high-quality surveys.
+> **[0:11](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=11)** Many of our most important [[Statistics]] come from high-quality surveys.
 >
 > **[0:17](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=17)** But what happens when responses dwindle and overall quality plunges?
 >
@@ -929,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=119)** The most significant was the impact of the COVID-19 pandemic.
 >
-> **[2:02](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=122)** During COVID, data collection was switched from face-to-face interviews to phone interviews, and they stayed that way.
+> **[2:02](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=122)** During COVID, [[Data Collection]] was switched from face-to-face interviews to phone interviews, and they stayed that way.
 >
 > **[2:10](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=130)** This led to sharp fallen response rates as certain demographics were less reachable through phone surveys, and those who did pick up the phone and answered questions suffered from survey fatigue.
 >
@@ -939,7 +929,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=149)** Another issue is the changing habits of people over time.
 >
-> **[2:32](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=152)** Factors such as survey fatigue, declining trust, and data due to controversies, privacy concerns, and changing communication habits all led to increasingly low response rates over time.
+> **[2:32](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=152)** Factors such as survey fatigue, declining trust, and data due to controversies, [[Privacy]] concerns, and changing communication habits all led to increasingly low response rates over time.
 >
 > **[2:43](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=163)** And 'cause the survey had never adjusted to such changing habits, response rates continue to drop year after year.
 >
@@ -957,9 +947,9 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=212)** And all of this because the sample quality has dropped so much.
 >
-> **[3:38](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=218)** Thankfully, the Office of National Statistics is committed to fixing these issues.
+> **[3:38](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=218)** Thankfully, the [[Microsoft Office|Office]] of National Statistics is committed to fixing these issues.
 >
-> **[3:42](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=222)** It'll do this via different ways, but these include reinstating home interviews, recontacting those who didn't respond, prioritizing certain groups and interviewing more people, and they will also update their waiting scheme.
+> **[3:42](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=222)** It'll do this via different ways, but these include reinstating home interviews, recontacting those who didn't respond, prioritizing certain groups and [[Interviewing]] more people, and they will also update their waiting scheme.
 >
 > **[3:55](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=235)** However, all of this will take time and a lot of money.
 >
@@ -973,7 +963,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=259)** In addition, trust building is vital.
 >
-> **[4:21](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=261)** People are much more at tuned to data privacy and the value of data.
+> **[4:21](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=261)** People are much more at tuned to [[Data Privacy]] and the value of data.
 >
 > **[4:25](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=265)** So asking for their data requires trust.
 >
@@ -991,7 +981,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=298)** The key lesson is that surveys must adapt to modern habits to remain reliable.
 >
-> **[5:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=304)** When data quality declines, everybody feels the impact.
+> **[5:04](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=304)** When [[Data Quality]] declines, everybody feels the impact.
 >
 > **[5:09](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-survey-quality-shouldn-t-be-taken-for-granted?u=76281980&t=309)** High-quality surveys shouldn't be taken for granted.
 >
@@ -999,7 +989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Statistics]] (6), [[Privacy]] (2), [[Microsoft Office|Office]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Data Collection]] (3), [[Privacy]] (1), [[Microsoft Office|Office]] (1), [[Interviewing]] (1)
 > **Analogies:** such as (3), picture (1), for example (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** covid (2)
@@ -1010,8 +1000,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boost your data skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980)
+#### [Boost your data skills](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,11 +1012,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=13)** Now let's talk about where you can go from here.
 >
-> **[0:18](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=18)** There are many more LinkedIn Learning courses for you to delve into.
+> **[0:18](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=18)** There are many more [[LinkedIn]] Learning courses for you to delve into.
 >
 > **[0:21](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=21)** These can help solidify the skills that you need to take accurate and insightful decisions from your own data.
 >
-> **[0:29](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=29)** You should look for courses that have storytelling, communication, or data science angles.
+> **[0:29](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=29)** You should look for courses that have [[Storytelling]], communication, or [[Data Science]] angles.
 >
 > **[0:35](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=35)** For example, [[Decision Intelligence]] by Cassie Kozyrkov is a great introduction to the core principles of [[Decision Intelligence]].
 >
@@ -1035,7 +1024,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=56)** Alternatively, Communication with Emotional Intelligence from Brenda Bailey Hughes can help you improve how you communicate your data decisions.
 >
-> **[1:07](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=67)** And finally, you can't go wrong with learning more statistics with Eddie Davila's fantastic statistics courses.
+> **[1:07](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=67)** And finally, you can't go wrong with learning more [[Statistics]] with Eddie Davila's fantastic statistics courses.
 >
 > **[1:16](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=76)** Of course, there are also books and websites that can help you further.
 >
@@ -1047,7 +1036,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=106)** Finally, practice.
 >
-> **[1:47](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=107)** As you explore new data, remember to stay curious, question assumptions, evaluate ethics, and think about the way you present data to others.
+> **[1:47](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=107)** As you explore new data, remember to stay curious, question assumptions, evaluate [[Ethics]], and think about the way you present data to others.
 >
 > **[1:57](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980&t=117)** Speak to others about your thoughts on data and seek their feedback.
 >
@@ -1063,7 +1052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (4), [[Storytelling]] (2), [[LinkedIn]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Storytelling]] (2), [[LinkedIn]] (1), [[Data Science]] (1), [[Ethics]] (1)
 > **URLs:** [medium.com](https://medium.com) (1), [informationisbeautiful.net](https://informationisbeautiful.net) (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)

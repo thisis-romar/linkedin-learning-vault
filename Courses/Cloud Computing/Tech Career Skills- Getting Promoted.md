@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get promoted in your tech job
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/get-promoted-in-your-tech-job?u=76281980)
+#### [Get promoted in your tech job](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/get-promoted-in-your-tech-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), career (1), teams (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [nishant] (1)
 
@@ -125,14 +123,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How promotion cycles work
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980)
+#### [How promotion cycles work](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=0)** - [Instructor] If engineers are able to better understand the promotion process for their company, they could make a much more effective case for themselves, and I'm here to help you do just that.
 >
-> **[0:10](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=10)** Engineers tend to focus on shipping features and building products.
+> **[0:10](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=10)** Engineers tend to focus on shipping features and building [[Microsoft Products|products]].
 >
 > **[0:14](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=14)** That is what generates revenue, drives engagement, and also builds their skills.
 >
@@ -152,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=56)** The reality is, just like you, everyone else is busy.
 >
-> **[1:00](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=60)** This includes your manager, your manager's manager, your human resources business partner, your colleagues, your internal and external customers, just about everyone.
+> **[1:00](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=60)** This includes your manager, your manager's manager, your [[Human Resources (HR)|human resources]] business partner, your colleagues, your internal and external customers, just about everyone.
 >
 > **[1:10](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980&t=70)** What this means is that no one has the time to make your case for you.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), career (2), [[Human Resources (HR)|Human resources]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Human Resources (HR)|Human resources]] (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** cto (2), ceo (2)
 > **Definitions:** is a  (1), known as (1)
@@ -230,8 +227,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Promotion ladders, competencies, and levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980)
+#### [Promotion ladders, competencies, and levels](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=46)** Ladders correspond with the different types of jobs that exist within a company.
 >
-> **[0:50](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=50)** For example, a tech company could have a software engineering ladder, a data scientist ladder, a security engineering ladder, and many others.
+> **[0:50](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=50)** For example, a tech company could have a software engineering ladder, a data scientist ladder, a [[Security Engineering]] ladder, and many others.
 >
 > **[0:58](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=58)** Now, these are just examples, but the fact is these are all different kinds of jobs as well.
 >
@@ -271,9 +267,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=85)** It helps clarify what somebody must do to count as having succeeded or met expectations.
 >
-> **[1:31](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=91)** For example, people on the software engineering ladder write code, design architectures, create microservices, et cetera.
+> **[1:31](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=91)** For example, people on the software engineering ladder write code, design architectures, create [[Microservices]], et cetera.
 >
-> **[1:38](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=98)** People on the data science ladder, for example, run queries against data stores, analyze the data, and make projections for the business.
+> **[1:38](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=98)** People on the [[Data Science]] ladder, for example, run queries against data stores, analyze the data, and make projections for the business.
 >
 > **[1:45](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-ladders-competencies-and-levels?u=76281980&t=105)** Now that we have the differences between two ladders clearly understood, let's look at how these ladders operate individually.
 >
@@ -307,14 +303,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (4), [[Engineering]] (3), business (2), product (1)
+> **Frameworks & Libraries:** [[Security Engineering]] (1), [[Microservices]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (5)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [presenter] (1)
 
-#### Promotion committees
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-committees?u=76281980)
+#### [Promotion committees](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-committees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-committees?u=76281980&t=117)** This would reduce the chance that favoritism and recency bias could sway the decision one way or the other.
 >
-> **[2:03](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-committees?u=76281980&t=123)** This is important for engineers to understand because your promo packets, your code examples, your microservices, your other tools and other artifacts, all of which you put together will be heavily and seriously scrutinized.
+> **[2:03](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-committees?u=76281980&t=123)** This is important for engineers to understand because your promo packets, your code examples, your [[Microservices]], your other tools and other artifacts, all of which you put together will be heavily and seriously scrutinized.
 >
 > **[2:15](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/promotion-committees?u=76281980&t=135)** Your company invests a lot in the promotion process, it is vital therefore, that you take this process seriously.
 >
@@ -392,13 +387,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Role of the manager and the engineers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/role-of-the-manager-and-the-engineers?u=76281980)
+#### [Role of the manager and the engineers](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/role-of-the-manager-and-the-engineers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +472,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/role-of-the-manager-and-the-engineers?u=76281980&t=203)** Managers often operate at a much higher level.
 >
-> **[3:27](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/role-of-the-manager-and-the-engineers?u=76281980&t=207)** As I've said before, you are the CTO of the software products you build, but you're also the CEO for your own career.
+> **[3:27](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/role-of-the-manager-and-the-engineers?u=76281980&t=207)** As I've said before, you are the CTO of the software [[Microsoft Products|products]] you build, but you're also the CEO for your own career.
 >
 > **[3:34](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/role-of-the-manager-and-the-engineers?u=76281980&t=214)** In order to climb the ladder, you as the engineer must build a bridge and keep walking that bridge back and forth by shipping great code, escalating issues, and keeping your manager educated.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** cto (1), ceo (1)
 > **Definitions:** is a  (1), known as (1)
@@ -501,8 +495,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What the committee is looking for by way of impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980)
+#### [What the committee is looking for by way of impact](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=54)** First, it proves that the engineer can take an idea from zero to one, that is, the engineer can take something that was a design or an idea and converted that to a fully functional product.
 >
-> **[1:06](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=66)** Second, it provides a detailed code repository that the committee can then look at for scalability, code quality, complexity, et cetera.
+> **[1:06](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=66)** Second, it provides a detailed code repository that the committee can then look at for [[Scalability]], code quality, complexity, et cetera.
 >
 > **[1:14](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=74)** These are criteria that are objective and provide a clear signal for an engineer's readiness to operate at the next level.
 >
@@ -538,11 +531,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=94)** Engineers need to be able to convince others with their point of view, listen to other points of view, make constructive and decisive judgments about the way forward and make sure that the eventual outcome captures the best of all available options.
 >
-> **[1:47](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=107)** Persistent and continuous examples of completed products allows for examples of collaboration to shine through.
+> **[1:47](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=107)** Persistent and continuous examples of completed [[Microsoft Products|products]] allows for examples of collaboration to shine through.
 >
 > **[1:54](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=114)** It helps demonstrate an engineer's growth.
 >
-> **[1:57](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=117)** Any complex and high-impact software deployment tends to have peaks and valleys, advances and retreats.
+> **[1:57](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=117)** Any complex and high-impact [[Software Deployment]] tends to have peaks and valleys, advances and retreats.
 >
 > **[2:04](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980&t=124)** An engineer then has a chance to show the mistakes they made, the feedback they received, the course corrections they delivered, and the impact upon the end result because of all of those cumulative learnings over time.
 >
@@ -570,12 +563,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (5), [[Engineering]] (2), next (2), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Scalability]] (1), [[Software Deployment]] (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### How engineers can show impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-impact?u=76281980)
+#### [How engineers can show impact](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,7 +625,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), data (2), business (1), leadership (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -642,8 +633,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What the committee is looking for by way of efficiency
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980)
+#### [What the committee is looking for by way of efficiency](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,9 +679,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=102)** When you as an engineer go up for promotion, the promotion committee will look for examples of such activities.
 >
-> **[1:48](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=108)** Having that evidence will show the promo committee that you don't just care about building and shipping products, but you also care about doing it efficiently.
+> **[1:48](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=108)** Having that evidence will show the promo committee that you don't just care about building and shipping [[Microsoft Products|products]], but you also care about doing it efficiently.
 >
-> **[1:56](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=116)** As my former boss at Google used to say, "It's about doing the right thing, but it's also about doing the thing right."
+> **[1:56](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=116)** As my former boss at [[Google]] used to say, "It's about doing the right thing, but it's also about doing the thing right."
 >
 > **[2:02](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=122)** When your efficiency starts showing results, you will see improvements like the following, lower cost of building tech products.
 >
@@ -707,7 +697,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=154)** There is even more for engineers to think about when it comes to efficiency.
 >
-> **[2:38](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=158)** For promotion candidates, the committee will also look for examples of efficiency in terms of code performance, usage of hardware and storage systems, and movement of data.
+> **[2:38](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=158)** For promotion candidates, the committee will also look for examples of efficiency in terms of code performance, usage of [[Hardware]] and storage systems, and movement of data.
 >
 > **[2:47](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980&t=167)** As an engineer, you will make several design, and architectural decisions where you can use efficiency as a guiding principle.
 >
@@ -717,14 +707,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (5), data (3), business (2), [[Microsoft Products|Products]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How engineers can show efficiency
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-efficiency?u=76281980)
+#### [How engineers can show efficiency](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-efficiency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,7 +769,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), teams (2), product (1), [[Engineering]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
@@ -791,8 +779,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What the committee is looking for in this key competency
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980)
+#### [What the committee is looking for in this key competency](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,7 +807,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980&t=57)** The committee is looking for signals that you as an engineer, have the discipline to deliver exactly what you had committed that you would deliver.
 >
-> **[1:05](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980&t=65)** Next, are you writing code for scalability, and maintainability as well?
+> **[1:05](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980&t=65)** Next, are you writing code for [[Scalability]], and maintainability as well?
 >
 > **[1:10](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980&t=70)** The committee is looking for signs that you don't just write code for yourself, but for other engineers who might inherit your code, especially since those engineers may have to repurpose your code.
 >
@@ -848,15 +835,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (6), next (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
-#### How engineers can demonstrate coding chops
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980)
+#### [How engineers can demonstrate coding chops](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=56)** You're able to fix and then, over time, anticipate bugs in code ranging from the core capabilities to inefficiencies, thereby improving overall system quality.
 >
-> **[1:05](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=65)** You solicit and respond to code review feedback and improve your code based on that feedback.
+> **[1:05](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=65)** You solicit and respond to [[Code Review]] feedback and improve your code based on that feedback.
 >
 > **[1:11](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=71)** And finally, you participate in on-call rotations and follow best practices to troubleshoot production incidents.
 >
@@ -908,7 +894,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=151)** Rather than responding to incidents for code that you and your team own, you direct and execute incident management best serving as an escalation point for other engineers who are on call as well.
 >
-> **[2:42](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=162)** Based on aggregated learnings, on an ongoing basis, you shape incident response processes.
+> **[2:42](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=162)** Based on aggregated learnings, on an ongoing basis, you shape [[Incident Response]] processes.
 >
 > **[2:47](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-demonstrate-coding-chops?u=76281980&t=167)** And finally, you deliver and monitor cross-organizational solutions in production environments to monitor, as well as fix bugs that impact multiple systems that could be customer facing.
 >
@@ -920,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (8), [[Code Review]] (1), management (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (1), [[Incident Response]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -930,8 +916,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What the committee is looking for by way of design skill
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-design-skill?u=76281980)
+#### [What the committee is looking for by way of design skill](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-design-skill?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,12 +990,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), teams (1), next (1), data (1), [[Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How engineers can show design vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980)
+#### [How engineers can show design vision](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=29)** But this is an example of what the promotion process is set up actually to be fairer to engineers.
 >
-> **[0:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=35)** Even if something you worked on did not win customer support, you can demonstrate that your incremental design capabilities and contributions make a case for promotion.
+> **[0:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=35)** Even if something you worked on did not win [[Customer Support]], you can demonstrate that your incremental design capabilities and contributions make a case for promotion.
 >
 > **[0:45](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=45)** Think of this as a competency where you can showcase your technical chops and influence.
 >
@@ -1034,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=57)** You partner with others to translate those requirements into effective and actionable technical design documents.
 >
-> **[1:04](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=64)** You apply the knowledge of software design principles and methods and evaluated trade-offs of different design options that were available.
+> **[1:04](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=64)** You apply the knowledge of [[Software Design]] principles and methods and evaluated trade-offs of different design options that were available.
 >
 > **[1:12](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=72)** And finally, you help drive decisions that consider short term results and longterm goals.
 >
@@ -1058,13 +1041,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=146)** You made architectural design trade-offs, changes, and plans that affected multiple teams, multiple product lines, and even multiple geographies where you are seen as a leader.
 >
-> **[2:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=155)** Finally, your understanding of architectural and product design help drive multiple strategic business decisions like technical stack application, acquisitions, divestitures, et cetera.
+> **[2:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=155)** Finally, your understanding of architectural and [[Product Design]] help drive multiple strategic business decisions like technical stack application, acquisitions, divestitures, et cetera.
 >
 > **[2:46](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-design-vision?u=76281980&t=166)** As you can see for senior engineers and leaders, design and architecture contributions require influence across the business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), product (4), teams (3), [[Engineering]] (1), feature (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Software Design]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -1076,8 +1059,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What the committee is looking for in collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980)
+#### [What the committee is looking for in collaboration](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1067,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=4)** When I first became an engineer, the innovation process was organized and structured.
 >
-> **[0:09](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=9)** Everything from the flow of work to the tech stack, to the product design, to even the deployment details were decided by a specific person, team or authority.
+> **[0:09](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=9)** Everything from the flow of work to the tech stack, to the [[Product Design]], to even the deployment details were decided by a specific person, team or authority.
 >
 > **[0:17](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=17)** While that greatly simplified my life as an engineer, it also greatly limited my possibilities.
 >
@@ -1125,7 +1107,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=125)** Are you open to ideas that are different from yours?
 >
-> **[2:08](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=128)** Do you offer other stakeholders your ideas, to help them build products more efficiently?
+> **[2:08](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=128)** Do you offer other stakeholders your ideas, to help them build [[Microsoft Products|products]] more efficiently?
 >
 > **[2:13](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980&t=133)** And finally, are you able to use existing processes and create new processes to serve the larger interest of the team than just your own goals?
 >
@@ -1145,13 +1127,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Engineering]] (1), feature (1), power (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
 
-#### How engineers can show collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-collaboration?u=76281980)
+#### [How engineers can show collaboration](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,7 +1192,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1), game (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -1219,8 +1199,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What the committee is looking for by way of citizenship
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980)
+#### [What the committee is looking for by way of citizenship](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1225,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980&t=59)** Now, what do I mean by that?
 >
-> **[1:02](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980&t=62)** As an engineer, you write code and design systems with the intention of building or contributing to a specific product or capability.
+> **[1:02](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980&t=62)** As an engineer, you write code and [[Design Systems]] with the intention of building or contributing to a specific product or capability.
 >
 > **[1:09](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980&t=69)** These competencies measure your skills in a very transactional and product-centric context.
 >
@@ -1278,12 +1257,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (2), [[Programming]] (1), [[Design Systems]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Design Systems]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### How engineers can show citizenship
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-citizenship?u=76281980)
+#### [How engineers can show citizenship](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-citizenship?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1299,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-citizenship?u=76281980&t=86)** How to present an external face to the team's internal work so that it enhances the company's public reputation and helps attract quality candidates.
 >
-> **[1:34](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-citizenship?u=76281980&t=94)** Raise the bar when it comes to setting standards for hiring, product design, core deployments, engagement metrics, et cetera, and finally serve as a role model for conduct when it comes to offering constructive yet meaningful feedback to engineers across the company.
+> **[1:34](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-citizenship?u=76281980&t=94)** Raise the bar when it comes to setting standards for hiring, [[Product Design]], core deployments, engagement metrics, et cetera, and finally serve as a role model for conduct when it comes to offering constructive yet meaningful feedback to engineers across the company.
 >
 > **[1:49](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-engineers-can-show-citizenship?u=76281980&t=109)** As you can see, so many of the activities that come under the umbrella of citizenship are not confined to just one project or one team, or one roadmap, or even one year.
 >
@@ -1343,7 +1321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Engineering]] (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[Product Design]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -1351,8 +1329,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an impact resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980)
+#### [Creating an impact resume](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,7 +1345,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=40)** Once engineers get a job, they tend to ignore their resumes for a long time.
 >
-> **[0:44](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=44)** They instead focus on writing code, shipping products, refactoring old code, building large scale systems, and participating in hackathons, just to name a few.
+> **[0:44](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=44)** They instead focus on writing code, shipping [[Microsoft Products|products]], refactoring old code, building large scale systems, and participating in hackathons, just to name a few.
 >
 > **[0:54](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=54)** In other words, engineers focus on individual scenes that show impact, but sometimes forget to craft the overall narrative that tells the story of their career, their impact, and their contributions.
 >
@@ -1382,7 +1359,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=90)** This could include, first, collecting metrics around the impact that their product had.
 >
-> **[1:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=95)** Second, demonstrating the incremental improvements that they made to product design and third, highlighting all the partnerships and efficiencies they created over the last year.
+> **[1:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=95)** Second, demonstrating the incremental improvements that they made to [[Product Design]] and third, highlighting all the partnerships and efficiencies they created over the last year.
 >
 > **[1:44](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980&t=104)** So here are my tips for you on building your resume, which I like to call an impact resume, to help you make your case for promotion.
 >
@@ -1412,15 +1389,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), product (2), [[Microsoft Products|Products]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Product Design]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to cultivate references
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-cultivate-references?u=76281980)
+#### [How to cultivate references](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-cultivate-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1432,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-cultivate-references?u=76281980&t=95)** At the same time, some engineers often forget to claim credit for the work that they did do.
 >
-> **[1:40](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-cultivate-references?u=76281980&t=100)** For example, a key code review that identified a critical bug that took just 10 minutes, but ended up saving months of rework.
+> **[1:40](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-cultivate-references?u=76281980&t=100)** For example, a key [[Code Review]] that identified a critical bug that took just 10 minutes, but ended up saving months of rework.
 >
 > **[1:47](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-cultivate-references?u=76281980&t=107)** Some engineers may not choose to mention it and therefore lose out on consideration for promotion.
 >
@@ -1498,14 +1474,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), [[Code Review]] (1), business (1), career (1)
+> **Frameworks & Libraries:** [[Code Review]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to prep for promotion interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-prep-for-promotion-interviews?u=76281980)
+#### [How to prep for promotion interviews](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-prep-for-promotion-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,7 +1494,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-prep-for-promotion-interviews?u=76281980&t=20)** They need to be able to persuade and convince our stakeholders to build designs and architectures a certain way.
 >
-> **[0:26](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-prep-for-promotion-interviews?u=76281980&t=26)** They need to summon their technical and conceptual knowledge as well as other soft skills like empathy and confidence.
+> **[0:26](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-prep-for-promotion-interviews?u=76281980&t=26)** They need to summon their technical and conceptual knowledge as well as other [[Soft Skills]] like empathy and confidence.
 >
 > **[0:33](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-prep-for-promotion-interviews?u=76281980&t=33)** Put simply, this is not just about knowing your stuff, but scaling it as well.
 >
@@ -1571,13 +1546,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to process promotion-related feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-process-promotion-related-feedback?u=76281980)
+#### [How to process promotion-related feedback](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-to-process-promotion-related-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,7 +1617,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (1), career (1), product (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -1654,8 +1627,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boost your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/boost-your-career?u=76281980)
+#### [Boost your career](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/boost-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1647,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), leadership (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

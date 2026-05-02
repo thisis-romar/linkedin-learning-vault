@@ -75,18 +75,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using data science and AI for healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980)
+#### [Using data science and AI for healthcare](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=0)** - It's time for you to bring data science into healthcare.
+> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=0)** - It's time for you to bring [[Data Science]] into healthcare.
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=4)** Disease prediction, patient opinion mining, radiology image classification, we can do this, all of these and more, by applying data science and AI techniques to healthcare.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=19)** I myself worked in the clinical system, but then transitioned to data science.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=25)** My name is Wuraola Oyewusi, and my goal as an instructor in this LinkedIn Learning course is to teach you how I wish I was taught.
+> **[0:25](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=25)** My name is Wuraola Oyewusi, and my goal as an instructor in this [[LinkedIn]] Learning course is to teach you how I wish I was taught.
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980&t=34)** I will teach you to apply data science across a range of use cases.
 >
@@ -94,21 +93,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (2), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[LinkedIn]] (1)
 > **Speakers:** - it (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=1)** - This course is designed to describe a use case that is as close as possible to what you may encounter working with healthcare-related data to help train your mind to match healthcare context with data science and AI tools and approaches, share rationale for decisions, and encourage hands-on code along.
+> **[0:01](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=1)** - This course is designed to describe a use case that is as close as possible to what you may encounter working with healthcare-related data to help train your mind to match healthcare context with [[Data Science]] and AI tools and approaches, share rationale for decisions, and encourage hands-on code along.
 >
 > **[0:24](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=24)** So, it is advisable to be comfortable with the following.
 >
-> **[0:29](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=29)** Fundamentals of data science, Python programming, machine learning algorithms, and health domain terminologies.
+> **[0:29](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=29)** Fundamentals of data science, [[Python (Programming Language)|Python]] programming, machine learning [[Algorithms]], and health domain terminologies.
 >
-> **[0:38](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=38)** How so? I will be working out of Google Colab notebooks.
+> **[0:38](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=38)** How so? I will be working out of [[Google]] Colab notebooks.
 >
 > **[0:42](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/what-you-should-know-24454900?u=76281980&t=42)** It may be helpful to be familiar with the interface and how it works.
 >
@@ -118,35 +116,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), [[Google]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** colab (1)
 > **Speakers:** - this (1)
 
-#### How the exercise files work
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980)
+#### [How the exercise files work](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=0)** - [Presenter] The exercise files and notebooks, and they're compatible with any environment that works with IPython files.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=8)** For the purpose of demonstration, let's go to colab.research.[google.com](https://google.com) To upload an IPython file, click on the file icon on the top left corner, then select Upload Notebook.
+> **[0:08](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=8)** For the purpose of demonstration, let's go to colab.research.[[[Google]].com](https://google.com) To upload an IPython file, click on the file icon on the top left corner, then select Upload Notebook.
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=39)** Not all exercise requires GPU support, but to use the GPU, click on Change Runtime.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=48)** Then select GPU under the Hardware accelerator.
+> **[0:48](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=48)** Then select GPU under the [[Hardware]] accelerator.
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=57)** To run a cell, click on the button that looks like play or press shift and enter on your keyboard.
 >
 > **[1:06](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=66)** Why do you need to understand this?
 >
-> **[1:08](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=68)** In this course, we will periodically use the exercise files to demonstrate different data science techniques for healthcare use cases.
+> **[1:08](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=68)** In this course, we will periodically use the exercise files to demonstrate different [[Data Science]] techniques for healthcare use cases.
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/how-the-exercise-files-work?u=76281980&t=78)** The notebook interface is intuitive, so feel free to click around to understand it better.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Hardware]] (1), [[Data Science]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** gpu (3)
 > **Exercise Files:** exercise files (2)
@@ -159,8 +156,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Case: Diabetes prediction
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980)
+#### [Use Case: Diabetes prediction](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,7 +178,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980&t=121)** To demonstrate disease prediction, we'll take a closer look at how diabetes and machine learning are a great match.
 >
-> **[2:10](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980&t=130)** Diabetes is a complex disease that provides enough data points for machine learning algorithms to learn pattern from.
+> **[2:10](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980&t=130)** Diabetes is a complex disease that provides enough data points for machine learning [[Algorithms]] to learn pattern from.
 >
 > **[2:20](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980&t=140)** The criteria for diagnosis is also well researched, thus providing a good baseline to determine the model accuracy, and there's availability of historical data for training in different systems.
 >
@@ -192,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -200,8 +196,7 @@ created: 2026-05-02
 > **Versions:** 6.5 (1)
 > **Speakers:** - diabetes (1)
 
-#### Diabetes prediction using machine learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980)
+#### [Diabetes prediction using machine learning model](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=34)** Many of them are from the Sklearn by the machine learning library.
 >
-> **[0:41](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=41)** Next, we load that data into a pandas data frame named df.
+> **[0:41](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=41)** Next, we load that data into a [[Pandas (Software)|pandas]] data frame named df.
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=50)** If you inspect the data frame using df.info, you get to see the column names like ID, gender, age, urea, creatinine, HbA1C, cholesterol, and BMI.
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=345)** In our case, we decide that we will use 20% as two test sets.
 >
-> **[5:54](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=354)** We are going to compare the performance of seven machine learning algorithms, namely Logistic Regression, K-Nearest-Neighbor, Naive Bias, Support Vector Classifier, Random Forest Classifier, Decision Tree Regressor, and XGBoost Classifier.
+> **[5:54](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=354)** We are going to compare the performance of seven machine learning [[Algorithms]], namely [[Logistic Regression]], K-Nearest-Neighbor, Naive Bias, Support Vector Classifier, Random Forest Classifier, Decision Tree Regressor, and XGBoost Classifier.
 >
 > **[6:18](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diabetes-prediction-using-machine-learning-model?u=76281980&t=378)** We then select the best performing model using cross validation.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (1), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1), [[Logistic Regression]] (1)
 > **Env Vars:** bmi (3), ldl (2), etc (1), knn (1)
 > **Versions:** 0.62 (1), 0.42 (1), 0.41 (1), 0.067 (1), 0.873 (1)
 > **CLI Commands:** find (1), wget (1)
@@ -328,8 +323,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
 
-#### Model explanation using SHAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/model-explanation-using-shap?u=76281980)
+#### [Model explanation using SHAP](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/model-explanation-using-shap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,15 +355,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use case: Online medication review
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-online-medication-review-24455886?u=76281980)
+#### [Use case: Online medication review](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-online-medication-review-24455886?u=76281980)
 
-#### Sentiment analysis using pre-trained transformer models
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980)
+#### [Sentiment analysis using pre-trained transformer models](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=0)** - [Instructor] To apply sentiment analysis using pre-trained transformer models.
+> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=0)** - [Instructor] To apply sentiment analysis using pre-trained [[Transformer Models]].
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=5)** We are going to use the drug review dataset.
 >
@@ -379,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=18)** Then we go ahead to unzip the data and pip install the transformer library.
 >
-> **[0:28](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=28)** We can now import the necessary modules like pipeline from transformers, pandas and tqdm.
+> **[0:28](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=28)** We can now import the necessary modules like pipeline from transformers, [[Pandas (Software)|pandas]] and tqdm.
 >
 > **[0:38](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=38)** Next, we read the test data into a Pandas Dataframe called medication_review_df.
 >
@@ -389,7 +381,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=63)** For speed, we will only use the first 500 rows in our analysis.
 >
-> **[1:09](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=69)** We're going to compare the performance of three prediction models from the HuggingFace transformer library and continue with the best performing ones.
+> **[1:09](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=69)** We're going to compare the performance of three prediction models from the [[Hugging Face|HuggingFace]] transformer library and continue with the best performing ones.
 >
 > **[1:19](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/sentiment-analysis-using-pre-trained-transformer-models?u=76281980&t=79)** We load each model into variables named bio_clinicbert_classifier rubert_classifier and roberta_classifier.
 >
@@ -421,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), next (2), [[Transformer Models]] (1), [[Hugging Face|Huggingface]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Transformer Models]] (1), [[Hugging Face|Huggingface]] (1)
 > **Code Identifiers:** rubert_classifier (3), roberta (3), roberta_classifier (2), rubert (2), medication_review_df (1)
 > **Versions:** 0.59 (1), 0.7 (1), 0.92 (1), 0.74 (1)
 > **CLI Commands:** unzip (1), pip (1)
@@ -435,12 +427,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use case: Shoulder implant X-ray manufacturer detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980)
+#### [Use case: Shoulder implant X-ray manufacturer detection](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=0)** - In this chapter, we're going to explore how to use computer vision to classify radiology images of shoulder implants by manufacturers.
+> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=0)** - In this chapter, we're going to explore how to use [[Computer Vision]] to classify radiology images of shoulder implants by manufacturers.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=11)** The end goal is to be able to label test images based on the model learning on the training data.
 >
@@ -454,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=51)** It's difficult to look at the radiograph, and decide which manufacturer.
 >
-> **[0:57](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=57)** It's practical to see computer vision algorithms in action, and the training data is readily available.
+> **[0:57](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=57)** It's practical to see computer vision [[Algorithms]] in action, and the training data is readily available.
 >
 > **[1:05](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980&t=65)** Here's a quick reminder about computer vision.
 >
@@ -466,13 +457,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Computer Vision]] (5), [[Algorithms]] (1), ai (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (5), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### X-ray manufacturer classification using convolutional neural networks (CNN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980)
+#### [X-ray manufacturer classification using convolutional neural networks (CNN)](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=162)** As you can see here, the image is a truly radiograph of shoulder implants.
 >
-> **[2:51](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=171)** Create train_generator and test_generator variables using ImageDataGenerator from tensorflow.keras.preprocessing.
+> **[2:51](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=171)** Create train_generator and test_generator variables using ImageDataGenerator from [[TensorFlow]].keras.preprocessing.
 >
 > **[3:03](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=183)** If successful, you should see an output that says Found 476 validated image filenames belonging to four classes and 121 validated image filenames belonging to four classes for the test_generator.
 >
@@ -532,7 +522,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=230)** You can inspect the image and label shape.
 >
-> **[3:56](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=236)** After the data preprocessing, we go ahead to view the image classifier model using convolutional neural networks, CNN.
+> **[3:56](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=236)** After the data preprocessing, we go ahead to view the image classifier model using [[Convolutional Neural Networks (CNN)|convolutional neural networks]], CNN.
 >
 > **[4:09](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-convolutional-neural-networks-cnn?u=76281980&t=249)** First, we define the number of classes which is four.
 >
@@ -578,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[TensorFlow]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), cnn (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Code Identifiers:** test_generator (3), train_data_filepaths (1), test_data_filepaths (1), data_filepaths (1), data_labels (1)
 > **Versions:** 0.4937 (2), 0.24 (1), 0.4876 (1), 0.49 (1), 0.66 (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -587,8 +577,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### X-ray manufacturer classification using transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-transfer-learning?u=76281980)
+#### [X-ray manufacturer classification using transfer learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/x-ray-manufacturer-classification-using-transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +607,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Versions:** 0.438 (1), 0.947 (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **Warnings:** note that (1)
@@ -630,8 +618,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use case: Diseases and medications text
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980)
+#### [Use case: Diseases and medications text](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,7 +640,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980&t=78)** By the time we get to the end of this chapter, there's three short videos, including this one.
 >
-> **[1:24](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980&t=84)** You'll have learned text visualization techniques, like word clouds, how to implement interactive exploratory data analysis, and how to plot text versus text data using a Python library called text.
+> **[1:24](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980&t=84)** You'll have learned text visualization techniques, like [[Microsoft Word|word]] clouds, how to implement interactive exploratory data analysis, and how to plot text versus text data using a [[Python (Programming Language)|Python]] library called text.
 >
 > **[1:40](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980&t=100)** Now, if you have ever had to create a chart or graph of data, you know how helpful those visualizations are, but you probably also know how tricky the process can be.
 >
@@ -661,18 +648,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - diseases (1)
 
-#### Diseases and medications text visualization using word clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-word-clouds?u=76281980)
+#### [Diseases and medications text visualization using word clouds](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-word-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-word-clouds?u=76281980&t=0)** - [Instructor] We're going to generate word clouds to visualize the relationships between diseases and medications.
+> **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-word-clouds?u=76281980&t=0)** - [Instructor] We're going to generate [[Microsoft Word|word]] clouds to visualize the relationships between diseases and medications.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-word-clouds?u=76281980&t=7)** We'll also go over options to customize the output.
 >
@@ -716,21 +702,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **CLI Commands:** unzip (1)
 > **Code Identifiers:** medication_reviews_df (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diseases and medications text visualization using Scattertext
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-scattertext?u=76281980)
+#### [Diseases and medications text visualization using Scattertext](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-scattertext?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-scattertext?u=76281980&t=0)** - [Instructor] For this exercise, it's important that you run the data preprocessing and text visualization using scattertext subsections of the notebook.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-scattertext?u=76281980&t=10)** Scatter text is a Python library that enables you visualize relationship between text data.
+> **[0:10](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-scattertext?u=76281980&t=10)** Scatter text is a [[Python (Programming Language)|Python]] library that enables you visualize relationship between text data.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/diseases-and-medications-text-visualization-using-scattertext?u=76281980&t=17)** In our case, diseases and medications.
 >
@@ -756,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** atml (1), gerd (1), svg (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
@@ -770,8 +755,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/next-steps-24455885?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/next-steps-24455885?u=76281980)
 
 
 ## Instructor

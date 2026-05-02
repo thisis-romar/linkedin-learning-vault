@@ -67,43 +67,41 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Talking to your database in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980)
+#### [Talking to your database in SQL](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=0)** - [David] SQL or structured query language is used by everyone from software developers to business analysts.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=0)** - [David] [[SQL]] or structured query language is used by everyone from software developers to business analysts.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=8)** It's the universal language for accessing and manipulating data in a relational database, and it's an essential tool for anyone who works with data.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=17)** SQL is supported by everything from enterprise server-based products to tiny file-based systems.
+> **[0:17](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=17)** SQL is supported by everything from enterprise server-based [[Microsoft Products|products]] to tiny file-based systems.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=24)** This course will help you test your SQL knowledge.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=29)** In each challenge, you'll be given a data set and instructions, and then it's up to you to write your own database queries right in your browser.
+> **[0:29](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=29)** In each challenge, you'll be given a data set and instructions, and then it's up to you to write your own [[Database Queries]] right in your browser.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980&t=37)** Good luck and have fun.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (3), database (2), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (1), [[Database Queries]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [david] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed for anybody using a relational database, that is, a database that can support multiple tables that can be joined at runtime using queries.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=12)** Different database products use different versions of SQL.
+> **[0:12](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=12)** Different database [[Microsoft Products|products]] use different versions of [[SQL]].
 >
 > **[0:16](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=16)** This particular course is built around code challenges that run on something called the H2 Database Engine.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=23)** This is an open source database product that can mimic the behavior of various database products.
 >
-> **[0:30](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=30)** These code challenges work with H2 Database Engine in its compatibility mode, which means that its syntax is the same as with the product MySQL and MariaDB.
+> **[0:30](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=30)** These code challenges work with H2 Database Engine in its compatibility mode, which means that its syntax is the same as with the product [[MySQL]] and MariaDB.
 >
 > **[0:42](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=42)** When working through these code challenges, you'll be using a database schema, a set of tables that are designed to link together.
 >
@@ -111,18 +109,17 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=66)** None of the code challenges are going to use all of these tables, and at the beginning of each challenge, I'll show you which tables in this schema will be used.
 >
-> **[1:16](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=76)** Before you try these challenges, you may want to watch some instructional content, and I highly recommend the course [[SQL Essential Training]], which takes you through the basic concepts of SQL and the most common commands that you'll use when you work with relational databases.
+> **[1:16](https://www.linkedin.com/learning/sql-practice-basic-queries/what-you-should-know?u=76281980&t=76)** Before you try these challenges, you may want to watch some instructional content, and I highly recommend the course [[SQL Essential Training]], which takes you through the basic concepts of SQL and the most common commands that you'll use when you work with [[Relational Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (3), [[Microsoft Products|Products]] (2), product (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (2), [[MySQL]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980)
+#### [Exploring the lab environment](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=15)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:23](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-practice-basic-queries/exploring-the-lab-environment?u=76281980&t=32)** The code challenge has three areas.
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -176,8 +173,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Get sorted data from a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-sorted-data-from-a-specific-table?u=76281980)
+#### [Solution: Get sorted data from a table](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-sorted-data-from-a-specific-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,11 +205,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Retrieve data from multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-from-multiple-tables?u=76281980)
+#### [Solution: Retrieve data from multiple tables](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-from-multiple-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,13 +239,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (1)
 > **Env Vars:** inner (1), join (1), top (1), select (1)
 > **SQL:** inner join (1), select (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Retrieve data filtered on a range
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980)
+#### [Solution: Retrieve data filtered on a range](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,19 +273,18 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=80)** Now, you could've solved this in a couple of different ways.
 >
-> **[1:23](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=83)** Instead of the between keyword, you could've said the price has to be greater than or equal to eight. and less than or equal to nine, but the between keyword is a great way to filter for a range of values using SQL.
+> **[1:23](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=83)** Instead of the between keyword, you could've said the price has to be greater than or equal to eight. and less than or equal to nine, but the between keyword is a great way to filter for a range of values using [[SQL]].
 >
 > **[1:37](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-on-a-range-of-values?u=76281980&t=97)** It's more concise and it gets the job done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Retrieve aggregated data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980)
+#### [Solution: Retrieve aggregated data](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=17)** That's the primary key in the customers table and the second column in the orders table.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=23)** The initial SQL statement just selects data from the customers table.
+> **[0:23](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=23)** The initial [[SQL]] statement just selects data from the customers table.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-aggregated-data-with-an-sql-function?u=76281980&t=28)** I'll test the code and see, incorrect output, which is expected but see that the customer table has those three columns.
 >
@@ -343,14 +334,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** customerid (3), firstname (2), lastname (2), sql (1), orderid (1)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** inner join (1), group by (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Get data filtered with a string pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-with-a-string-pattern?u=76281980)
+#### [Solution: Get data filtered with a string pattern](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-data-filtered-with-a-string-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,13 +378,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **SQL:** where (1), order by (1)
 > **Env Vars:** where (1), order (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find the most expensive order
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-find-the-most-expensive-restaurant-order?u=76281980)
+#### [Solution: Find the most expensive order](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-find-the-most-expensive-restaurant-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,15 +420,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** top (1), inner (1), joins (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 58.95 (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find the average of orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-find-the-average-of-all-restaurant-orders?u=76281980)
+#### [Solution: Find the average of orders](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-find-the-average-of-all-restaurant-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +456,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -478,12 +463,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=0)** - [Narrator] Thank you for joining me for this set of SQL Code Challenges.
+> **[0:00](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=0)** - [Narrator] Thank you for joining me for this set of [[SQL]] Code Challenges.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=5)** If you liked this course, you can watch more code challenge courses.
 >
@@ -491,13 +475,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=16)** To learn more about the topic, you can watch one of many available courses on SQL.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=22)** [[SQL Essential Training]] takes you through the basics of the language and then to keep up-to-date with new ideas, you could keep track of the serial course, SQL Weekly Tips and then this course on data reporting and analysis is one of many courses available on this topic.
+> **[0:22](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=22)** [[SQL Essential Training]] takes you through the basics of the language and then to keep up-to-date with new ideas, you could keep track of the serial course, SQL Weekly Tips and then this course on [[Data Reporting]] and analysis is one of many courses available on this topic.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980&t=41)** These courses and more are available as you continue to build your SQL skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Data Reporting]] (1)
 > **Env Vars:** sql (6)
 > **Speakers:** - [narrator] (1)
 

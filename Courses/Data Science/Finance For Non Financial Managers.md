@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to make wiser business decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-make-wiser-business-decisions?u=76281980)
+#### [How to make wiser business decisions](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-make-wiser-business-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,11 +113,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Speakers:** - and (2), - do (1), - some (1), - well (1), - but (1)
 
-#### Don’t fear the numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980)
+#### [Don’t fear the numbers](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980&t=54)** We will assume that you're curious and motivated, but that you don't have extensive experience with finance or accounting.
 >
-> **[1:01](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980&t=61)** However, once you complete this course, you may find that you'd like to try your hand at additional numbers courses, and we do have plenty of those available here in the LinkedIn library.
+> **[1:01](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980&t=61)** However, once you complete this course, you may find that you'd like to try your hand at additional numbers courses, and we do have plenty of those available here in the [[LinkedIn]] library.
 >
 > **[1:11](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/don-t-fear-the-numbers?u=76281980&t=71)** But for now, sit back, relax, and learn about the power of numbers in business.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), power (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
@@ -174,8 +171,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The purpose of finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-purpose-of-finance?u=76281980)
+#### [The purpose of finance](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-purpose-of-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,13 +269,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1), business (1)
 > **Speakers:** - [instructor (9), - numbers (3), - and (3), - you (2), - now (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1)
 
-#### Entrepreneurs, investors, and facilitators
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/entrepreneurs-investors-and-facilitators?u=76281980)
+#### [Entrepreneurs, investors, and facilitators](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/entrepreneurs-investors-and-facilitators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/entrepreneurs-investors-and-facilitators?u=76281980&t=55)** Now, with respect to the entrepreneurs who are creating and operating companies, we've already talked about the financial issues inside companies, entrepreneurs need to decide what to buy, where to get the money to buy it, and how to manage it once they have it.
 >
-> **[1:09](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/entrepreneurs-investors-and-facilitators?u=76281980&t=69)** Well, let's think about the economic environment outside those companies in the rest of that economic sea.
+> **[1:09](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/entrepreneurs-investors-and-facilitators?u=76281980&t=69)** Well, let's think about the economic environment outside those companies in the [[Representational State Transfer (REST)|rest]] of that economic sea.
 >
 > **[1:15](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/entrepreneurs-investors-and-facilitators?u=76281980&t=75)** What about those investors and savers?
 >
@@ -356,8 +350,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### What is accounting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-accounting?u=76281980)
+#### [What is accounting?](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-accounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +452,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** aicpa (1)
@@ -471,8 +463,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980)
+#### [Overview of the financial statements](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=11)** - To identify and determine and manage resources, you need information.
 >
-> **[0:16](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=16)** - [Speaker In Pink] One source of that information is a company's financial statements, the balance sheet, the income statement, and the statement of cash flows.
+> **[0:16](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=16)** - [Speaker In Pink] One source of that information is a company's [[Financial Statements]], the balance sheet, the income statement, and the statement of cash flows.
 >
 > **[0:23](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=23)** - Now, let's define the items found in these three financial statements.
 >
@@ -494,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=55)** Of this amount, 57 billion was the cost of the inventory sitting on the shelves of the 10,623 Walmart stores around the world.
 >
-> **[1:05](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=65)** Most of the rest of the $243 billion in assets was in the form of land, buildings, and the shelves, display cases, and other equipment in the stores.
+> **[1:05](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=65)** Most of the [[Representational State Transfer (REST)|rest]] of the $243 billion in assets was in the form of land, buildings, and the shelves, display cases, and other equipment in the stores.
 >
 > **[1:14](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=74)** - [Speaker In Blue] A balance sheet also shows the three general sources that companies use to get money to buy assets.
 >
@@ -518,7 +509,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=133)** - [Speaker In Pink] The income statement contains revenues and expenses.
 >
-> **[2:17](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=137)** - [Speaker In Blue] The revenue amount is the amount of assets generated through doing business operations.
+> **[2:17](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=137)** - [Speaker In Blue] The revenue amount is the amount of assets generated through doing [[Business Operations]].
 >
 > **[2:22](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980&t=142)** In 2022, Walmart generated $611 billion in assets, either cash or credit, debit card, electronic transfers through selling stuff to you and to me.
 >
@@ -550,13 +541,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Financial Statements]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Business Operations]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Speakers:** - [speaker (15), - finance (1), - to (1), - now (1), - for (1)
 > **Definitions:** is a  (4), is called (2), defined as (1)
 > **Analogies:** for example (1), such as (1)
 
-#### What to look for in a balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-to-look-for-in-a-balance-sheet?u=76281980)
+#### [What to look for in a balance sheet](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-to-look-for-in-a-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,14 +670,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7)
 > **Definitions:** is a  (2), is called (2), is an  (1), we call this (1)
 > **Versions:** 2.5 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### Overview of the income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980)
+#### [Overview of the income statement](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=12)** That's the income statement.
 >
-> **[0:14](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=14)** But what does the word revenue mean?
+> **[0:14](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=14)** But what does the [[Microsoft Word|word]] revenue mean?
 >
 > **[0:17](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=17)** The meaning is kind of subtle but important.
 >
@@ -727,15 +715,15 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=71)** Revenue tells us that a company obtains some of its assets through work, through providing value to its customers.
 >
-> **[1:18](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=78)** So how do companies generate assets through business operations?
+> **[1:18](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=78)** So how do companies generate assets through [[Business Operations]]?
 >
 > **[1:22](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=82)** Well, that depends on what the business is.
 >
-> **[1:25](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=85)** Microsoft, for example, generates assets by collecting it from you and me through selling software, hardware, and services.
+> **[1:25](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=85)** [[Microsoft]], for example, generates assets by collecting it from you and me through selling software, [[Hardware]], and services.
 >
 > **[1:32](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=92)** How does Walmart generate assets through doing business?
 >
-> **[1:36](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=96)** Well, they sell products to you and me, and they sell us memberships in their Sam's Club.
+> **[1:36](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=96)** Well, they sell [[Microsoft Products|products]] to you and me, and they sell us memberships in their Sam's Club.
 >
 > **[1:41](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=101)** So that's the way Walmart generates assets through doing business.
 >
@@ -789,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=214)** Yet we talk about Tesla so much, and this illustrates an important point.
 >
-> **[3:40](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=220)** The financial statements are only one measure of a company's performance.
+> **[3:40](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=220)** The [[Financial Statements]] are only one measure of a company's performance.
 >
 > **[3:44](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-income-statement?u=76281980&t=224)** A very important measure, but only one measure.
 >
@@ -811,17 +799,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Microsoft]] (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Business Operations]] (3), [[Microsoft]] (2), [[Hardware]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1), defined as (1)
 > **Speakers:** - the (1)
 
-#### Interpreting the statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980)
+#### [Interpreting the statement of cash flows](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=0)** - The statement of cash flows is the baby of the financial statements.
+> **[0:00](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=0)** - The statement of cash flows is the baby of the [[Financial Statements]].
 >
 > **[0:04](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=4)** The balance sheet and the income statement, they've been around for over 500 years.
 >
@@ -861,7 +848,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=101)** The next category of cash flows is investing activities.
 >
-> **[1:45](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=105)** Here, the word investing means investing in the productive capacity of the business, so cash outflows from investing activities or buying new buildings, buying new land, buying new machines.
+> **[1:45](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=105)** Here, the [[Microsoft Word|word]] investing means investing in the productive capacity of the business, so cash outflows from investing activities or buying new buildings, buying new land, buying new machines.
 >
 > **[1:57](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/interpreting-the-statement-of-cash-flows?u=76281980&t=117)** How often do I do investing activities?
 >
@@ -927,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Financial Statements]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - the (1)
 
@@ -936,8 +923,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is financial ratio analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980)
+#### [What is financial ratio analysis?](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,11 +933,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=8)** - The results of these calculations are called financial ratios.
 >
-> **[0:11](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=11)** - When it comes to financial ratio analysis, I like to borrow a quote from Winston Churchill.
+> **[0:11](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=11)** - When it comes to financial [[Ratio Analysis]], I like to borrow a quote from Winston Churchill.
 >
 > **[0:16](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=16)** He said the following, "The farther backward you look, the farther forward you can see."
 >
-> **[0:21](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=21)** - We analyze financial statements to tell us if a company has done well or poorly in the past, and to help us see how the company might do in the future.
+> **[0:21](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=21)** - We analyze [[Financial Statements]] to tell us if a company has done well or poorly in the past, and to help us see how the company might do in the future.
 >
 > **[0:30](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980&t=30)** - Of course, it would be preferable if we could just get inside the company to do our analysis, but companies do not like outsiders poking around on the inside of their company.
 >
@@ -1035,8 +1021,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Calculating return on equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980)
+#### [Calculating return on equity](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=68)** Here are the balance sheet and income statement numbers for Uncertain Company and Benchmark Company.
 >
-> **[1:14](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=74)** Let's think of Benchmark Company as the best in the industry, and we're using financial statement analysis to identify areas in which Uncertain Company can improve.
+> **[1:14](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=74)** Let's think of Benchmark Company as the best in the industry, and we're using [[Financial Statement Analysis]] to identify areas in which Uncertain Company can improve.
 >
 > **[1:25](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=85)** We see that Uncertain Company had total assets of $14,500, sales of $20,000, and net income of $700.
 >
@@ -1108,7 +1093,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=244)** If those same shareholders had invested the same $100 in Target, they would've earned $24.80.
 >
-> **[4:12](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=252)** In 2023, Microsoft had a very attractive return on equity of 35.1%.
+> **[4:12](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=252)** In 2023, [[Microsoft]] had a very attractive return on equity of 35.1%.
 >
 > **[4:19](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/calculating-return-on-equity?u=76281980&t=259)** That's pretty good, but this next number is eye-popping, so get ready.
 >
@@ -1122,15 +1107,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Financial Statement Analysis]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Financial Statement Analysis]] (1), [[Microsoft]] (1)
 > **Versions:** 9.3 (2), 20.3 (2), 9.30 (1), 20.30 (1), 13.5 (1)
 > **Definitions:** is a  (4), in other words (2), known as (1), means that (1)
 > **Env Vars:** roe (6)
 > **Cross-References:** in the next (1)
 > **Speakers:** - return (1)
 
-#### A deeper look at the DuPont framework’s three components
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980)
+#### [A deeper look at the DuPont framework’s three components](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,9 +1198,9 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980&t=263)** With respect to profitability, which specific expenses are too high?
 >
-> **[4:29](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980&t=269)** Using common size financial statements, we could quickly discover that Uncertain is spending too much on wage expense and R&D expense, and is holding too much accounts receivable, and property plant equipment.
+> **[4:29](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980&t=269)** Using common size [[Financial Statements]], we could quickly discover that Uncertain is spending too much on wage expense and R&D expense, and is holding too much accounts receivable, and property plant equipment.
 >
-> **[4:41](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980&t=281)** Ah, but alas, the study of common sized financial statements is just outside the scope of this course, but we cover this in detail in our Corporate Financial Statement Analysis course, right here in the LinkedIn Learning Library.
+> **[4:41](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/a-deeper-look-at-the-dupont-framework-s-three-components?u=76281980&t=281)** Ah, but alas, the study of common sized financial statements is just outside the scope of this course, but we cover this in detail in our Corporate [[Financial Statement Analysis]] course, right here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
@@ -1227,8 +1211,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - the (1)
 
-#### The DuPont framework: Walmart and Target
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-dupont-framework-ford-and-general-motors?u=76281980)
+#### [The DuPont framework: Walmart and Target](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-dupont-framework-ford-and-general-motors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,15 +1279,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), business (1)
 > **Versions:** 13.5 (2), 24.8 (2), 13.50 (1), 24.80 (1), 1.80 (1)
 > **Env Vars:** roe (4)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
-#### What is the next step in the analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-the-next-step-in-the-analysis?u=76281980)
+#### [What is the next step in the analysis?](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-the-next-step-in-the-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1321,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-the-next-step-in-the-analysis?u=76281980&t=116)** Notice that we are systematically gaining deeper insight into the financial performance of Uncertain.
 >
-> **[2:03](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-the-next-step-in-the-analysis?u=76281980&t=123)** Third, I alluded to an analysis of common size financial statements.
+> **[2:03](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-the-next-step-in-the-analysis?u=76281980&t=123)** Third, I alluded to an analysis of common size [[Financial Statements]].
 >
 > **[2:08](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-the-next-step-in-the-analysis?u=76281980&t=128)** We didn't do that analysis together, but we trust that my conclusions are correct.
 >
@@ -1382,7 +1363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Financial Statements]] (1), business (1), data (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Versions:** 9.3 (1), 20.3 (1), 3.5 (1), 6.2 (1)
 > **Env Vars:** roe (3)
 > **UI Navigation:** go to (1)
@@ -1394,8 +1375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing cash through the operating cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-cash-through-the-operating-cycle?u=76281980)
+#### [Managing cash through the operating cycle](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-cash-through-the-operating-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,14 +1459,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), product (1), management (1), data (1), prompt (1)
 > **Speakers:** - [host (4), - now (3), - if (2), - so (2), - numbers (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Strategies for cash management
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/strategies-for-cash-management?u=76281980)
+#### [Strategies for cash management](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/strategies-for-cash-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,15 +1552,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), management (2), next (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), such as (2)
 > **UI Navigation:** go to (2)
 > **Speakers:** - why (1)
 
-#### Managing receivables and inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-receivables-and-inventory?u=76281980)
+#### [Managing receivables and inventory](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-receivables-and-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1672,7 +1648,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -1683,8 +1658,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Considering costs: Fixed, variable, and contribution margin
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/considering-costs-fixed-variable-and-contribution-margin?u=76281980)
+#### [Considering costs: Fixed, variable, and contribution margin](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/considering-costs-fixed-variable-and-contribution-margin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1782,7 +1756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), product (3)
 > **Speakers:** - the (3), - well (3), - now (2), - and (2), - that (2)
 > **CLI Commands:** make (3)
 > **Versions:** 1.50 (3)
@@ -1790,8 +1763,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** make sure to (1)
 
-#### How to calculate your break-even point
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-calculate-your-break-even-point?u=76281980)
+#### [How to calculate your break-even point](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-calculate-your-break-even-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1879,7 +1851,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9)
 > **Versions:** 1.50 (4), 0.50 (1), 8.4 (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -1890,8 +1861,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Drafting a budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/drafting-a-budget?u=76281980)
+#### [Drafting a budget](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/drafting-a-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,13 +1945,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Speakers:** - [host (10), - but (2), - nobody (1), - how (1), - let (1)
 > **Versions:** 4.25 (2)
 > **CLI Commands:** make (1)
 
-#### Review of the budgeting steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/review-of-the-budgeting-steps?u=76281980)
+#### [Review of the budgeting steps](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/review-of-the-budgeting-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2037,7 +2005,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
@@ -2047,8 +2014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding income taxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980)
+#### [Understanding income taxes](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2102,7 +2068,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980&t=121)** - Yeah, well, 7,000 pages, that still seems like a lot to us.
 >
-> **[2:05](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980&t=125)** - We are accounting professors, for heaven sakes, and we both still have to use online tax preparation products to help us with our income taxes.
+> **[2:05](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980&t=125)** - We are accounting professors, for heaven sakes, and we both still have to use online tax preparation [[Microsoft Products|products]] to help us with our income taxes.
 >
 > **[2:13](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980&t=133)** - Now, we don't all need to be tax experts, but we should all be familiar with basic income tax issues such as tax brackets, tax rates, and the difference between tax deductions and tax credits, to name a few.
 >
@@ -2110,14 +2076,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [earl] (3), - now (2), - even (1), - taxes (1), - it (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Tax brackets, average tax rate, and marginal tax rate
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-brackets?u=76281980)
+#### [Tax brackets, average tax rate, and marginal tax rate](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-brackets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2225,15 +2190,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), feature (1)
 > **CLI Commands:** make (12)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - with (1)
 
-#### Tax deductions and tax credits
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-deductions-and-tax-credits?u=76281980)
+#### [Tax deductions and tax credits](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-deductions-and-tax-credits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2327,13 +2290,13 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-deductions-and-tax-credits?u=76281980&t=240)** Hopefully you were able to do exactly that.
 >
-> **[4:03](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-deductions-and-tax-credits?u=76281980&t=243)** Now, if you want to know more about income taxes, my brother and I have prepared a two and a half hour course on income tax fundamentals, which is available, yes, ladies and gentlemen, right here in the LinkedIn Learning Library.
+> **[4:03](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-deductions-and-tax-credits?u=76281980&t=243)** Now, if you want to know more about income taxes, my brother and I have prepared a two and a half hour course on income tax fundamentals, which is available, yes, ladies and gentlemen, right here in the [[LinkedIn]] Learning Library.
 >
 > **[4:16](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/tax-deductions-and-tax-credits?u=76281980&t=256)** So if you're thirsty for more income tax talk, I recommend that you visit that course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ira (1)
 > **Definitions:** is a  (1)
@@ -2344,8 +2307,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2361,7 +2323,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980&t=16)** - Numbers can assist you in becoming a better manager in whatever area of the business you function.
 >
-> **[0:22](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980&t=22)** - You can use numbers to your advantage in supply chain, human resources, strategy, or wherever you find yourself in a business.
+> **[0:22](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980&t=22)** - You can use numbers to your advantage in supply chain, [[Human Resources (HR)|human resources]], strategy, or wherever you find yourself in a business.
 >
 > **[0:30](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980&t=30)** - Now, second, have the courage to use numbers in your job.
 >
@@ -2383,7 +2345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1), [[Human Resources (HR)|Human resources]] (1), application (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **Speakers:** - numbers (2), - whew (1), - yeah (1), - okay (1), - first (1)
 > **CLI Commands:** find (1)
 

@@ -113,12 +113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essentials of AutoCAD
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980)
+#### [The essentials of AutoCAD](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980&t=0)** - Hello there and welcome to "AutoCAD 2022 Essential Training."
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980&t=0)** - Hello there and welcome to "[[AutoCAD]] 2022 Essential Training."
 >
 > **[0:06](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980&t=6)** AutoCAD is one of the world's most well-known computer aided design applications, and just over 39 years ago, Autodesk released AutoCAD and it's come along in leaps and bounds since then as a highly usable interface for architects, designers, and engineers to communicate their designs in both 2D and 3D.
 >
@@ -142,12 +141,11 @@ created: 2026-05-02
 > **Env Vars:** dwg (1)
 > **Speakers:** - hello (1)
 
-#### The advantages of using AutoCAD
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980)
+#### [The advantages of using AutoCAD](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=0)** - So what are the advantages of AutoCAD?
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=0)** - So what are the advantages of [[AutoCAD]]?
 >
 > **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=4)** AutoCAD is the world's most well-known computer aided design application, with its file format, DWG, being supported by many other third-party applications all over the world.
 >
@@ -171,27 +169,26 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=84)** Imagine being able to jump quickly into a browser to show a client a new design, or work with a tablet on a construction site instead of using large format paper drawings.
 >
-> **[1:35](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=95)** AutoCAD comes in many shapes and forms, known as toolsets, ranging from architecture, to mechanical, and electrical, and more.
+> **[1:35](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=95)** AutoCAD comes in many shapes and [[Forms]], known as toolsets, ranging from architecture, to mechanical, and electrical, and more.
 >
 > **[1:44](https://www.linkedin.com/learning/autocad-2022-essential-training/the-advantages-of-using-autocad?u=76281980&t=104)** So take advantage of AutoCAD, the world's leader in computer aided design, and learn everything you need to know to get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (12), application (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (12), [[Forms]] (1)
 > **Env Vars:** dwg (4), cad (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Instructor] What you should know before you start this particular course.
 >
-> **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=4)** This course ideally needs you to have taken the Learning AutoCAD course in the library.
+> **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=4)** This course ideally needs you to have taken the Learning [[AutoCAD]] course in the library.
 >
 > **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=11)** Now the reason I say that is the Learning AutoCAD course give you an introduction to AutoCAD and some of the methodologies and terminology that we're going to cover in this course.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=48)** Because it is the base course for all the other AutoCAD courses in the library.
 >
-> **[0:54](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=54)** Ideally you should know how to work with Windows based applications.
+> **[0:54](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=54)** Ideally you should know how to work with [[Windows]] based applications.
 >
 > **[1:00](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=60)** In this particular course we're using AutoCAD on a Windows operating system.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=72)** You should also know your operating system.
 >
-> **[1:15](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=75)** In this case it will be Microsoft's Windows operating system and we're running AutoCAD for Windows in this particular course.
+> **[1:15](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=75)** In this case it will be [[Microsoft]]'s Windows operating system and we're running AutoCAD for Windows in this particular course.
 >
 > **[1:25](https://www.linkedin.com/learning/autocad-2022-essential-training/what-you-should-know-before-watching-this-course?u=76281980&t=85)** If you've kind of got all these points covered you can jump straight in to the course and start working your way through it.
 >
@@ -237,8 +234,7 @@ created: 2026-05-02
 > **Env Vars:** cad (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-exercise-files?u=76281980&t=12)** So ideally, you want to download the files from the library to a known location somewhere, but the good thing is they're in the library and you can download them all for this particular course.
 >
-> **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-exercise-files?u=76281980&t=23)** All of the files that you download will predominantly be in an AutoCAD DWG native file format and all DWG files are saved back to a 2013 DWG format.
+> **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-exercise-files?u=76281980&t=23)** All of the files that you download will predominantly be in an [[AutoCAD]] DWG native file format and all DWG files are saved back to a 2013 DWG format.
 >
 > **[0:38](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-exercise-files?u=76281980&t=38)** What this means is you don't have to have the latest version of AutoCAD to follow the course.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (4), cloud (1), prompt (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (4)
 > **Exercise Files:** exercise files (6), download the (2), exercise file (2)
 > **Env Vars:** dwg (4)
 > **CLI Commands:** find (1)
@@ -288,12 +284,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### The new AutoCAD 2022 interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/the-new-autocad-2022-interface?u=76281980)
+#### [The new AutoCAD 2022 interface](https://www.linkedin.com/learning/autocad-2022-essential-training/the-new-autocad-2022-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/the-new-autocad-2022-interface?u=76281980&t=0)** - [Instructor] In this particular course, we'll be using the latest version of AutoCAD, which is AutoCAD 2022.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/the-new-autocad-2022-interface?u=76281980&t=0)** - [Instructor] In this particular course, we'll be using the latest version of [[AutoCAD]], which is AutoCAD 2022.
 >
 > **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/the-new-autocad-2022-interface?u=76281980&t=8)** Now, if you're using a slightly older version of AutoCAD you may notice that the interface is different.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (18), application (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (18)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** iso (1)
@@ -384,12 +379,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting drawing units
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980)
+#### [Setting drawing units](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=0)** - We're starting a new chapter now in this course, and what we're going to be looking at is units and options in AutoCAD.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=0)** - We're starting a new chapter now in this course, and what we're going to be looking at is units and options in [[AutoCAD]].
 >
 > **[0:09](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=9)** We've got a new drawing for you.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=97)** So for example that dimension there ten three six three that's roughly 10.4 meters because it's 10,363 millimeters.
 >
-> **[1:48](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=108)** Now normally in context, if you want to check your units in an AutoCAD drawing, you would zoom into a known quantity such as a doorway, and we've got plenty of those.
+> **[1:48](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=108)** Now normally in context, if you want to check your units in an AutoCAD drawing, you would [[Zoom]] into a known quantity such as a doorway, and we've got plenty of those.
 >
 > **[1:58](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=118)** I'm going to zoom in on this doorway here.
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=199)** So for example when we did that measure of that doorway, you could see that a length had two decimal places that 0.70 millimeters.
 >
-> **[3:28](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=208)** So we just type the word units.
+> **[3:28](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=208)** So we just type the [[Microsoft Word|word]] units.
 >
 > **[3:31](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980&t=211)** It's that simple.
 >
@@ -593,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (3), hit (1), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (3), [[Microsoft Word|Word]] (1)
 > **Versions:** 0.70 (2), 1.5 (2), 10.4 (1), 1155.7 (1), 0.7 (1)
 > **UI Navigation:** click on (4), go to (3), dropdown (1)
 > **CLI Commands:** snap (3), make (2)
@@ -602,8 +596,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Setting options
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980)
+#### [Setting options](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,9 +604,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=4)** And it's in the same state as it was at the end of the last video.
 >
-> **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=8)** I've left it zoom to the extent in the model tab as you can see bottom left there.
+> **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=8)** I've left it [[Zoom]] to the extent in the model tab as you can see bottom left there.
 >
-> **[0:14](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=14)** Now what we're going to have a look at is another way of setting settings in your AutoCAD.
+> **[0:14](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=14)** Now what we're going to have a look at is another way of setting settings in your [[AutoCAD]].
 >
 > **[0:21](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=21)** Now we've touched on units already in the previous video.
 >
@@ -633,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=51)** That's one way of doing it.
 >
-> **[0:53](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=53)** I could also just type the word options if I wanted to.
+> **[0:53](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=53)** I could also just type the [[Microsoft Word|word]] options if I wanted to.
 >
 > **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=57)** On my dynamic input you can see there there's the options option.
 >
@@ -649,7 +642,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=89)** Now, what I'm going to do is just show you a couple of things that are always useful.
 >
-> **[1:33](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=93)** So if I go to files here on the tab at the top you can see these are all the locations of all of the different files that AutoCAD uses to function in your Windows operating system.
+> **[1:33](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=93)** So if I go to files here on the tab at the top you can see these are all the locations of all of the different files that AutoCAD uses to function in your [[Windows]] operating system.
 >
 > **[1:45](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-options?u=76281980&t=105)** One of them that I always recommend that you change is the automatic save file location.
 >
@@ -761,7 +754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (10), application (2), [[Zoom]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (1), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** dwg (5)
 > **UI Navigation:** click on (3), go to (2)
@@ -770,14 +763,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### Objects using different units
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980)
+#### [Objects using different units](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=0)** - Once again, we're staying in our units and options.dwg file.
 >
-> **[0:06](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=6)** Now I did mention previously in this chapter, about all units and about that setting, where AutoCAD will automatically score an object to the settings you have in your current drawing.
+> **[0:06](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=6)** Now I did mention previously in this chapter, about all units and about that setting, where [[AutoCAD]] will automatically score an object to the settings you have in your current drawing.
 >
 > **[0:18](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=18)** That's what we going to take a look at now.
 >
@@ -885,7 +877,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=286)** There's my little chair then just sit there.
 >
-> **[4:48](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=288)** If zoom in close now and pan across, there's my chair.
+> **[4:48](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=288)** If [[Zoom]] in close now and pan across, there's my chair.
 >
 > **[4:52](https://www.linkedin.com/learning/autocad-2022-essential-training/objects-using-different-units?u=76281980&t=292)** Can you see it's in context with all the other chairs.
 >
@@ -911,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (1), feature (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (10), [[Zoom]] (1)
 > **UI Navigation:** click on (4), go to (2), drag and drop (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Env Vars:** insunitsdefsource (1), insunitdeftarget (1)
@@ -920,8 +912,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Working with templates: DWT
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980)
+#### [Working with templates: DWT](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -933,11 +924,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=25)** Now, I'd like you to close Design Center down, that can be closed now, we don't need that anymore.
 >
-> **[0:30](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=30)** And just do a double click on the wheel of the mouse to zoom extents.
+> **[0:30](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=30)** And just do a double click on the wheel of the mouse to [[Zoom]] extents.
 >
 > **[0:34](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=34)** So there's our drawing there, our Units&Options.dwg file.
 >
-> **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=39)** What I'd like you to do now is go to the Home tab on the ribbon, go to the Layers Panel here and just click on the Layers dropdown, and you'll see there's loads of different layers all set up for all our different things in our AutoCAD drawing.
+> **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=39)** What I'd like you to do now is go to the Home tab on the ribbon, go to the Layers Panel here and just click on the Layers dropdown, and you'll see there's loads of different layers all set up for all our different things in our [[AutoCAD]] drawing.
 >
 > **[0:55](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-templates-dwt?u=76281980&t=55)** I'll hit esc to de-select and that menu disappears.
 >
@@ -1089,7 +1080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (12), hit (3), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (12), [[Zoom]] (1)
 > **UI Navigation:** click on (9), go to (4), dropdown (4)
 > **Exercise Files:** template (17)
 > **Env Vars:** dwt (7), units (4), dwg (3), acad (1)
@@ -1103,12 +1094,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rectangles and polygons
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980)
+#### [Rectangles and polygons](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and we're going to start thinking about drawing more objects in our AutoCAD drawings.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and we're going to start thinking about drawing more objects in our [[AutoCAD]] drawings.
 >
 > **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=8)** For that reason, we have a new drawing for you in the library.
 >
@@ -1168,7 +1158,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=160)** Now we're going to create a new table down here in this area here in like the atrium entrance part of our floor plan.
 >
-> **[2:48](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=168)** So you want to zoom in, maybe pan up a little bit, holding down on the wheel to pan, like so.
+> **[2:48](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=168)** So you want to [[Zoom]] in, maybe pan up a little bit, holding down on the wheel to pan, like so.
 >
 > **[2:55](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=175)** Now I mentioned the Learning AutoCAD course previously.
 >
@@ -1314,7 +1304,7 @@ created: 2026-05-02
 >
 > **[8:50](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=530)** So if I use my polar tracking now, I can just drag vertically upwards.
 >
-> **[8:54](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=534)** And what I'll do is I'll say I want that to be 750 radius of the circle that forms this particular polygon.
+> **[8:54](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=534)** And what I'll do is I'll say I want that to be 750 radius of the circle that [[Forms]] this particular polygon.
 >
 > **[9:02](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980&t=542)** And there's my little octagonal table there available to me as well.
 >
@@ -1328,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Zoom]] (8), hit (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Zoom]] (8), [[Forms]] (1)
 > **UI Navigation:** click on (11), go to (2), right-click (2), scroll up (1), double-click (1)
 > **Env Vars:** furniture (7), m_ffe (1), furnitre (1)
 > **CLI Commands:** make (5), snap (1)
@@ -1337,14 +1327,13 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Analogies:** similar to (1)
 
-#### Points and donuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980)
+#### [Points and donuts](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=0)** - [Instructor] We're staying in our DrawingMoreObjects.dwg file.
 >
-> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=5)** And what we're going to do now is do a zoom extents.
+> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=5)** And what we're going to do now is do a [[Zoom]] extents.
 >
 > **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=8)** So just double click on the wheel of your mouse and that'll zoom out to the extent of the visible drawn object.
 >
@@ -1378,7 +1367,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=79)** P O I N T S just like that and press enter to confirm that layer name and just make sure that that is also red, also continuous, also default because ideally we want to make sure that these are all set up accordingly so that they look the same, our SETTING OUT POINT and our POINTS are red, continuous and using the default lineweight.
 >
-> **[1:41](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=101)** Just gives us a little bit of consistency in the AutoCAD drawing.
+> **[1:41](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=101)** Just gives us a little bit of consistency in the [[AutoCAD]] drawing.
 >
 > **[1:45](https://www.linkedin.com/learning/autocad-2022-essential-training/points-and-donuts?u=76281980&t=105)** Now, what we're going to do is we're going to look at POINTS and donuts in this particular video.
 >
@@ -1506,7 +1495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (13), node (5), [[AutoCAD]] (4), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (13), [[AutoCAD]] (4)
 > **Env Vars:** points (10), setting (7), point (7), sop (1)
 > **CLI Commands:** make (7), snap (7), node (5)
 > **UI Navigation:** click on (6), go to (4), select the (1), double-click (1), dropdown (1)
@@ -1515,8 +1504,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Ellipses
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980)
+#### [Ellipses](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,11 +1512,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=6)** And you can see, I've left it in the same state as it was at the end of the last video.
 >
-> **[0:10](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=10)** What I'd like you to do is double click on the wheel to zoom extents, like so, and just unpin the Draw panel if you haven't done so already, just so we've got a nice, clean AutoCAD interface to work with.
+> **[0:10](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=10)** What I'd like you to do is double click on the wheel to [[Zoom]] extents, like so, and just unpin the Draw panel if you haven't done so already, just so we've got a nice, clean [[AutoCAD]] interface to work with.
 >
 > **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=23)** Now, you'll remember that we created a layer called Furniture previously in this chapter.
 >
-> **[0:29](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=29)** Just go to your Layer dropdown in the Home tab on the Ribbon in the Layers panel, and just scroll down to the Furniture layer there, click on the word Furniture, and just make sure that Furniture is your current drafting layer.
+> **[0:29](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=29)** Just go to your Layer dropdown in the Home tab on the Ribbon in the Layers panel, and just scroll down to the Furniture layer there, click on the [[Microsoft Word|word]] Furniture, and just make sure that Furniture is your current drafting layer.
 >
 > **[0:42](https://www.linkedin.com/learning/autocad-2022-essential-training/ellipses?u=76281980&t=42)** We're then going to zoom in on this area here, so zoom in nice and tight, pan upwards a little bit like so, so that you can see this open space here.
 >
@@ -1622,15 +1610,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), [[AutoCAD]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[AutoCAD]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Isometric views and elliptical arcs
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980)
+#### [Isometric views and elliptical arcs](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,7 +1647,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=96)** So just type in six zero and enter.
 >
-> **[1:40](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=100)** There's the top of your isometric view of your cylinder and it's accurate as well because AutoCAD's calculated all of that for you.
+> **[1:40](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=100)** There's the top of your isometric view of your cylinder and it's accurate as well because [[AutoCAD]]'s calculated all of that for you.
 >
 > **[1:49](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=109)** Okay.
 >
@@ -1694,13 +1681,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=187)** So we need to go counter-clockwise here.
 >
-> **[3:10](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=190)** So what I'm going to do is I'm going to start at the left-hand end click and just drag around and then go to the end point again and click and there's my elliptical arc and if I zoom out slightly there's my little isometric view of my cylinder utilizing an ellipse at the top and an elliptical arc at the bottom between my two vertical lines.
+> **[3:10](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=190)** So what I'm going to do is I'm going to start at the left-hand end click and just drag around and then go to the end point again and click and there's my elliptical arc and if I [[Zoom]] out slightly there's my little isometric view of my cylinder utilizing an ellipse at the top and an elliptical arc at the bottom between my two vertical lines.
 >
 > **[3:32](https://www.linkedin.com/learning/autocad-2022-essential-training/isometric-views-and-elliptical-arcs?u=76281980&t=212)** It's a very quick little isometric view but you can see how you can utilize your geometry and the ellipses and the elliptical arc to create an isometric view quickly and easily.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (2), prompt (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (2), [[Zoom]] (1)
 > **UI Navigation:** go to (4), click on (3), dropdown (1)
 > **CLI Commands:** snap (1), make (1)
 > **Tools:** command line (2)
@@ -1714,12 +1701,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980)
+#### [Selecting objects](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and we're going to take a look at all of the commands that you can use in AutoCAD to modify objects.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and we're going to take a look at all of the commands that you can use in [[AutoCAD]] to modify objects.
 >
 > **[0:09](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=9)** So, we'll be spending a lot of time in the modify panel on the home tab on the ribbon.
 >
@@ -1735,7 +1721,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=53)** Now you'll remember in previous chapters and videos we set up some points and points styles in this area of the drawing here.
 >
-> **[1:01](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=61)** We're going to zoom in on that area like so.
+> **[1:01](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=61)** We're going to [[Zoom]] in on that area like so.
 >
 > **[1:04](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=64)** So when I zoom in, you'll see those points get bigger and bigger.
 >
@@ -1781,7 +1767,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=165)** I'm going to show you some selection methods.
 >
-> **[2:48](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=168)** Now, one of these is known as the windows selection.
+> **[2:48](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=168)** Now, one of these is known as the [[Windows]] selection.
 >
 > **[2:51](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980&t=171)** So I'm going to put my crosshair here.
 >
@@ -1881,7 +1867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[AutoCAD]] (8), [[Zoom]] (5), [[Windows]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (5), [[Windows]] (1)
 > **UI Navigation:** click on (5), select the (1), go to (1)
 > **Definitions:** known as (2), is called (1)
 > **CLI Commands:** make (1), find (1)
@@ -1890,14 +1876,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Offset and Mirror
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980)
+#### [Using Offset and Mirror](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=0)** - We're staying in our ModifyingObjects.dwg file.
 >
-> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=5)** And we're going to take a look now at the Offset and Mirror commands in AutoCAD.
+> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=5)** And we're going to take a look now at the Offset and Mirror commands in [[AutoCAD]].
 >
 > **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=11)** Now, sometimes commands are available to you on the Shortcut menu.
 >
@@ -1909,7 +1894,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=29)** Now, those are the only ones available to you on the Shortcut menu.
 >
-> **[0:32](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=32)** The rest of the Modify commands are up here on the Modify panel, on the Home tab on the ribbon.
+> **[0:32](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=32)** The [[Representational State Transfer (REST)|rest]] of the Modify commands are up here on the Modify panel, on the Home tab on the ribbon.
 >
 > **[0:38](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=38)** I'm going to expand the Modify panel here, like so, and pin it open just in case we need any of those other commands as well.
 >
@@ -1995,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=228)** Hence, Noun/verb selection.
 >
-> **[3:51](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=231)** The line is the Noun, the verb obviously is Mirror, the doing word as my son would call it.
+> **[3:51](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=231)** The line is the Noun, the verb obviously is Mirror, the doing [[Microsoft Word|word]] as my son would call it.
 >
 > **[3:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=237)** So, what we've got there is a setting that makes our life a lot easier.
 >
@@ -2047,7 +2032,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=354)** Do we want to erase the original object we selected to mirror?
 >
-> **[5:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=357)** In this case, no I don't because it forms the other face of the other wall that I'm trying to create in this particular command.
+> **[5:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=357)** In this case, no I don't because it [[Forms]] the other face of the other wall that I'm trying to create in this particular command.
 >
 > **[6:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-offset-and-mirror?u=76281980&t=365)** So Erase Source Objects, is a no, and there's our line there.
 >
@@ -2073,15 +2058,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[AutoCAD]] (2), prompt (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **UI Navigation:** select the (7), go to (3), click on (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1), previous video (1), go back to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
-#### Using Move and Copy
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980)
+#### [Using Move and Copy](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,7 +2079,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=36)** So we're going to utilize a particular snap called node.
 >
-> **[0:41](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=41)** And the node snap is what allows us to snap to these AutoCAD points here like so.
+> **[0:41](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=41)** And the node snap is what allows us to snap to these [[AutoCAD]] points here like so.
 >
 > **[0:46](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=46)** If you hover over them, you can see the AutoCAD is telling us in the little prompt there that it's a point is an AutoCAD point.
 >
@@ -2189,7 +2173,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=288)** So we'll just do an undo, undoes those copies that we did like so.
 >
-> **[4:52](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=292)** Little window selection again like we did before there's the windows selection.
+> **[4:52](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=292)** Little window selection again like we did before there's the [[Windows]] selection.
 >
 > **[4:56](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=296)** Right click, copy selection on the shortcut menu you'll see the icon is the same.
 >
@@ -2211,13 +2195,13 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=351)** If we go up to our layer drop down, like so and come down here there's our points layer.
 >
-> **[5:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=357)** Now we don't need those red points anymore at the moment so what we do, is we click on the little sun symbol and freeze them like so and they disappear and a little snowflake appears.
+> **[5:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=357)** Now we don't need those red points anymore at the moment so what we do, is we click on the little sun symbol and freeze them like so and they disappear and a little [[Snowflake]] appears.
 >
 > **[6:07](https://www.linkedin.com/learning/autocad-2022-essential-training/using-move-and-copy?u=76281980&t=367)** Just to escape to close the layer dropdown and you've now got a nice, neat, tidy, AutoCAD drawing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (21), [[AutoCAD]] (8), prompt (1), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Windows]] (1), [[Snowflake]] (1)
 > **CLI Commands:** node (21), snap (7), find (2), make (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -2225,8 +2209,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Rotate and Scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-rotate-and-scale?u=76281980)
+#### [Using Rotate and Scale](https://www.linkedin.com/learning/autocad-2022-essential-training/using-rotate-and-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2234,7 +2217,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/autocad-2022-essential-training/using-rotate-and-scale?u=76281980&t=13)** What I've also done is I've just unpinned the Modify panel now, just unpinned it and allowed it to go back into the ribbon, like so.
 >
-> **[0:22](https://www.linkedin.com/learning/autocad-2022-essential-training/using-rotate-and-scale?u=76281980&t=22)** What we're going to do is double-click on the wheel of the mouse to zoom extents, and we're going to take a look now at using Rotate and Scale in AutoCAD.
+> **[0:22](https://www.linkedin.com/learning/autocad-2022-essential-training/using-rotate-and-scale?u=76281980&t=22)** What we're going to do is double-click on the wheel of the mouse to [[Zoom]] extents, and we're going to take a look now at using Rotate and Scale in [[AutoCAD]].
 >
 > **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/using-rotate-and-scale?u=76281980&t=33)** Now, the good thing is, again, these are available to you both on the ribbon, in the Modify panel on the Home tab, and on the right-click Shortcut menu.
 >
@@ -2340,19 +2323,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (3), hit (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (3)
 > **UI Navigation:** right-click (12), click on (7), double-click (1)
 > **CLI Commands:** snap (4), make (2)
 > **Versions:** 1.5 (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and using arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980)
+#### [Creating and using arrays](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=0)** - We're going to take a look now at creating arrays in our AutoCAD drawings.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=0)** - We're going to take a look now at creating arrays in our [[AutoCAD]] drawings.
 >
 > **[0:07](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=7)** We're staying in the modifying objects.dwg file.
 >
@@ -2366,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=41)** We're going to be working in this sort of area of the drawing here.
 >
-> **[0:45](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=45)** So you might want to zoom in a bit, like so.
+> **[0:45](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=45)** So you might want to [[Zoom]] in a bit, like so.
 >
 > **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-using-arrays?u=76281980&t=47)** I'm going to get in a little bit closer and pan.
 >
@@ -2648,7 +2630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Zoom]] (7), hit (3)
+> **Frameworks & Libraries:** [[AutoCAD]] (9), [[Zoom]] (7)
 > **UI Navigation:** click on (9), go to (6), select the (5), double-click (3), right-click (2)
 > **CLI Commands:** snap (4), make (3)
 > **Versions:** 968.5 (2), 1968.5 (1)
@@ -2657,14 +2639,13 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Warnings:** be careful (1)
 
-#### Using Stretch and Lengthen
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980)
+#### [Using Stretch and Lengthen](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980&t=0)** - [Tutor] Once again, we're staying in our modifying objects, .dwg file and you can see I've done a double-click on the wheel to zoom to the visible extents of the drawing as well.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980&t=0)** - [Tutor] Once again, we're staying in our modifying objects, .dwg file and you can see I've done a double-click on the wheel to [[Zoom]] to the visible extents of the drawing as well.
 >
-> **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980&t=11)** We're going to take a look at the stretch and lengthen commands available in autoCAD mil.
+> **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980&t=11)** We're going to take a look at the stretch and lengthen commands available in [[AutoCAD]] mil.
 >
 > **[0:18](https://www.linkedin.com/learning/autocad-2022-essential-training/using-stretch-and-lengthen?u=76281980&t=18)** And what I'd like you to do is go to the modify panel on the home tab on the ribbon, click on the flyer and just pin open the modify panel.
 >
@@ -2778,7 +2759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), hit (3), [[AutoCAD]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[AutoCAD]] (1)
 > **UI Navigation:** select the (5), go to (2), click on (2), double-click (1), open the (1)
 > **CLI Commands:** snap (6), make (4)
 > **Definitions:** is a  (2), is called (1)
@@ -2786,14 +2767,13 @@ created: 2026-05-02
 > **Code Identifiers:** autocad (1)
 > **Speakers:** - [tutor] (1)
 
-#### Using Trim and Extend
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980)
+#### [Using Trim and Extend](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=0)** - We're staying in our ModifyingObjects.dwg file.
 >
-> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=5)** And as you can see, I've done a double click on the wheel to zoom extents so that we're looking at all of our floor plan.
+> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=5)** And as you can see, I've done a double click on the wheel to [[Zoom]] extents so that we're looking at all of our floor plan.
 >
 > **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=11)** And you'll notice that the Modify panel is still pinned open.
 >
@@ -2853,7 +2833,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=192)** We go up to the Modify panel click on the fly out and select Extend.
 >
-> **[3:18](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=198)** Now, if you're using a newer version of AutoCAD you will find that if I hover over that, it'll extend automatically.
+> **[3:18](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=198)** Now, if you're using a newer version of [[AutoCAD]] you will find that if I hover over that, it'll extend automatically.
 >
 > **[3:27](https://www.linkedin.com/learning/autocad-2022-essential-training/using-trim-and-extend?u=76281980&t=207)** Now that's because they've changed the workflow of the trim and extend command.
 >
@@ -2919,7 +2899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (2), hit (2), node (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (2)
 > **CLI Commands:** make (5), snap (3), node (1), find (1)
 > **UI Navigation:** click on (9), right-click (1)
 > **Definitions:** is a  (2)
@@ -2928,12 +2908,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
 
-#### Using Break and Join
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980)
+#### [Using Break and Join](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=0)** - [Instructor] We're going to take a look now at the Break and Join commands available to you in AutoCAD.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=0)** - [Instructor] We're going to take a look now at the Break and Join commands available to you in [[AutoCAD]].
 >
 > **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=8)** We're staying in the ModifyingObjects.dwg file, and you can see that we're still zoomed in on the hot desking area that we created previously.
 >
@@ -2947,7 +2926,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=42)** Now, it's this line here that we're going to be working with, just there like so.
 >
-> **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=47)** And it's the line that forms the internal wall that our hot desking areas are kind of up against, if you get my meaning.
+> **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=47)** And it's the line that [[Forms]] the internal wall that our hot desking areas are kind of up against, if you get my meaning.
 >
 > **[0:54](https://www.linkedin.com/learning/autocad-2022-essential-training/using-break-and-join?u=76281980&t=54)** Now, we've got two options to break in AutoCAD.
 >
@@ -3045,7 +3024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[AutoCAD]] (4), [[Forms]] (2), prompt (1), next (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Forms]] (2)
 > **UI Navigation:** click on (5), go to (3), select the (2)
 > **CLI Commands:** make (1), snap (1)
 > **Cross-References:** go back to (2)
@@ -3053,14 +3032,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using grips and grip editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980)
+#### [Using grips and grip editing](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=0)** - [Instructor] We're staying in our modifying objects.dwg file.
 >
-> **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=4)** And as you can see, I've zoomed it to the extents of the drawing in the model tab by double-clicking on the wheel to perform a zoom extents.
+> **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=4)** And as you can see, I've zoomed it to the extents of the drawing in the model tab by double-clicking on the wheel to perform a [[Zoom]] extents.
 >
 > **[0:12](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=12)** We can also click on the pane here on the modify panel and allow that to pop back into the ribbon like so.
 >
@@ -3100,7 +3078,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=125)** Now, what I'm going to do is I'm going to be naughty.
 >
-> **[2:07](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=127)** I know I've told you not to break the rules and explode or raise, but I'm going to do it in this particular instance, because I want to show you how grips are useful in your AutoCAD drawings.
+> **[2:07](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=127)** I know I've told you not to break the rules and explode or raise, but I'm going to do it in this particular instance, because I want to show you how grips are useful in your [[AutoCAD]] drawings.
 >
 > **[2:20](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=140)** So select your polar array that is around your octagonal table.
 >
@@ -3144,7 +3122,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=245)** So if I select that grip there, it becomes a hot grip and I can right-click and there are grip editing tools available to me on the shortcut menu.
 >
-> **[4:14](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=254)** Now, these vertex ones here, are adding, stretching and removing a vertex in the polylines that form the optic and you can ignore those.
+> **[4:14](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=254)** Now, these [[Vertex]] ones here, are adding, stretching and removing a vertex in the polylines that form the optic and you can ignore those.
 >
 > **[4:23](https://www.linkedin.com/learning/autocad-2022-essential-training/using-grips-and-grip-editing?u=76281980&t=263)** But we've got move, rotate, scale, mirror based point copy.
 >
@@ -3224,7 +3202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (9), hit (7), [[AutoCAD]] (4), [[Vertex]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (9), [[AutoCAD]] (4), [[Vertex]] (2)
 > **UI Navigation:** click on (14), go to (4), select the (3), right-click (3), double-click (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** before we start (2), set up (1)
@@ -3232,14 +3210,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Boundaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980)
+#### [Using Boundaries](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=0)** - [Instructor] We're staying in our modifying objects.dwg file.
 >
-> **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=4)** And we're going to take a look at the boundary command in AutoCAD now.
+> **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=4)** And we're going to take a look at the boundary command in [[AutoCAD]] now.
 >
 > **[0:09](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=9)** The boundary command allows you to pick inside an area within a drawing and create a boundary around that area.
 >
@@ -3295,7 +3272,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=150)** Hit escape to deselect the layer drop down there, like so.
 >
-> **[2:35](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=155)** And we're going to zoom in on this area here, like so.
+> **[2:35](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=155)** And we're going to [[Zoom]] in on this area here, like so.
 >
 > **[2:38](https://www.linkedin.com/learning/autocad-2022-essential-training/using-boundaries?u=76281980&t=158)** There you notice we've got a little sort of storage room here.
 >
@@ -3379,15 +3356,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (4), management (3), hit (2)
+> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (4)
 > **UI Navigation:** click on (9), go to (4), dropdown (1), scroll down (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Selection Cycling
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980)
+#### [Using Selection Cycling](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3399,7 +3375,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=27)** And when I hovered over this particular polyline, it came up with selection cycling, showing me different selections that I could make based on the fact that the boundary polyline was on top of the other lines.
 >
-> **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=39)** I want to show you how to use selection cycling proper rather than just touch on it because it's a really useful function when you're modifying your drawings in AutoCAD.
+> **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=39)** I want to show you how to use selection cycling proper rather than just touch on it because it's a really useful function when you're modifying your drawings in [[AutoCAD]].
 >
 > **[0:49](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=49)** Now, first things first, we go down here to the customize icon, the little burger icon, and click on it.
 >
@@ -3463,18 +3439,17 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=203)** The sun symbols come back, I hit escape.
 >
-> **[3:26](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=206)** Double-click on the wheel to zoom extents and all my grids are back and my boundaries are currently frozen off the drawing for future use.
+> **[3:26](https://www.linkedin.com/learning/autocad-2022-essential-training/using-selection-cycling?u=76281980&t=206)** Double-click on the wheel to [[Zoom]] extents and all my grids are back and my boundaries are currently frozen off the drawing for future use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[AutoCAD]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (2), [[Zoom]] (1)
 > **UI Navigation:** click on (7), select the (1), double-click (1)
 > **Cross-References:** in the last (3), go back to (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - once (1)
 
-#### Using Fillet and Chamfer
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-fillet-and-chamfer?u=76281980)
+#### [Using Fillet and Chamfer](https://www.linkedin.com/learning/autocad-2022-essential-training/using-fillet-and-chamfer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3482,7 +3457,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/autocad-2022-essential-training/using-fillet-and-chamfer?u=76281980&t=4)** And you can see that I've zoomed to extents again like we've done previously in previous videos.
 >
-> **[0:10](https://www.linkedin.com/learning/autocad-2022-essential-training/using-fillet-and-chamfer?u=76281980&t=10)** I'm going to zoom in now on our rectangular table down here with the four chairs around it because I want to show you the fillet and chamfer commands available to you in AutoCAD Now, these are on the modified panel in the home tab on the ribbon, and they're just on this little fly out here.
+> **[0:10](https://www.linkedin.com/learning/autocad-2022-essential-training/using-fillet-and-chamfer?u=76281980&t=10)** I'm going to [[Zoom]] in now on our rectangular table down here with the four chairs around it because I want to show you the fillet and chamfer commands available to you in [[AutoCAD]] Now, these are on the modified panel in the home tab on the ribbon, and they're just on this little fly out here.
 >
 > **[0:28](https://www.linkedin.com/learning/autocad-2022-essential-training/using-fillet-and-chamfer?u=76281980&t=28)** There's fillet and chamfer there.
 >
@@ -3642,7 +3617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (1), feature (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (1)
 > **UI Navigation:** go to (5), select the (3), click on (2)
 > **Cross-References:** go back to (7)
 > **Definitions:** is a  (2)
@@ -3650,8 +3625,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
 
-#### Using Divide and Measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980)
+#### [Using Divide and Measure](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3663,13 +3637,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=21)** What we're also going to do is we're going to go to our layer drop-down in our Layers panel on the Home tab on the ribbon, and we're going to scroll down and find our POINTS layer here.
 >
-> **[0:31](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=31)** Click on the snowflake to thaw our points out so that they're visible.
+> **[0:31](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=31)** Click on the [[Snowflake]] to thaw our points out so that they're visible.
 >
 > **[0:36](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=36)** And then we're going to click on the POINTS layer and make it the current drafting layer.
 >
-> **[0:41](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=41)** Double-click on the wheel to zoom extents, and you'll see your point have appeared over here again where we created our hot desking area.
+> **[0:41](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=41)** Double-click on the wheel to [[Zoom]] extents, and you'll see your point have appeared over here again where we created our hot desking area.
 >
-> **[0:49](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=49)** Now bare in mind that we might need to divide or measure AutoCAD objects and place those points along them.
+> **[0:49](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=49)** Now bare in mind that we might need to divide or measure [[AutoCAD]] objects and place those points along them.
 >
 > **[0:58](https://www.linkedin.com/learning/autocad-2022-essential-training/using-divide-and-measure?u=76281980&t=58)** Now the good thing is we've already worked on our points style and created a points layer.
 >
@@ -3819,19 +3793,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), hit (4), node (4), [[AutoCAD]] (2), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[AutoCAD]] (2), [[Snowflake]] (1)
 > **UI Navigation:** click on (8), go to (6), right-click (5), select the (4), scroll down (1)
 > **CLI Commands:** snap (4), node (4), find (2), make (2)
 > **Env Vars:** points (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Editing polylines and splines
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980)
+#### [Editing polylines and splines](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=0)** - [Instructor] Once again, we're in our modifying objects.DWG file and you can see that I've done a zoom extents and brought everything into focus by zooming to the extents of the visible drawn objects.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=0)** - [Instructor] Once again, we're in our modifying objects.DWG file and you can see that I've done a [[Zoom]] extents and brought everything into focus by zooming to the extents of the visible drawn objects.
 >
 > **[0:13](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=13)** What we'll also do is unpin our draw panel now.
 >
@@ -3887,7 +3860,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=145)** So you'll notice now, above each of the grips now, the grips have disappeared.
 >
-> **[2:29](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=149)** I have what's called a control vertex.
+> **[2:29](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=149)** I have what's called a control [[Vertex]].
 >
 > **[2:32](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=152)** I can click on this.
 >
@@ -3903,7 +3876,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=184)** And it's all to do with the mathematics of an irregular curve.
 >
-> **[3:08](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=188)** The lovely thing is AutoCAD does all that mathematics in the background for you and allows you to create nice irregular curves like that one.
+> **[3:08](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=188)** The lovely thing is [[AutoCAD]] does all that mathematics in the background for you and allows you to create nice irregular curves like that one.
 >
 > **[3:16](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=196)** You'll find that splines often get used for console lines on maps, representing lines of the same elevation on a map in plan.
 >
@@ -3957,7 +3930,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=297)** So I'll leave the Y there and press enter.
 >
-> **[5:00](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=300)** Now I get the option to edit the rest of my polyline.
+> **[5:00](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=300)** Now I get the option to edit the [[Representational State Transfer (REST)|rest]] of my polyline.
 >
 > **[5:04](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-polylines-and-splines?u=76281980&t=304)** I'm going to use the join tool and I'm going to select all of my lines that I want to be a polyline.
 >
@@ -3981,7 +3954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), hit (2), [[AutoCAD]] (2), [[Vertex]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[AutoCAD]] (2), [[Vertex]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), select the (2), go to (1)
 > **CLI Commands:** make (2), snap (1), find (1)
 > **Env Vars:** dwg (1), nurbs (1)
@@ -3994,8 +3967,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Hatch command
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980)
+#### [Using the Hatch command](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4007,7 +3979,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=19)** You can see that in the model tab in the drawing on the screen.
 >
-> **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=23)** Now Hatching and Gradients in AutoCAD, what are they used for?
+> **[0:23](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=23)** Now Hatching and Gradients in [[AutoCAD]], what are they used for?
 >
 > **[0:27](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=27)** Well, the main thing they're used for, is to highlight objects on your AutoCAD drawings.
 >
@@ -4019,7 +3991,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=47)** Now in our drawing, HatchingGradients.dwg, in the home tab on the ribbon, just make sure you are using the furniture layer initially.
 >
-> **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=57)** So we want our furniture layer, and what we're going to do, we're going to zoom into the top right corner here on the big conference table that you can see this one here, like so.
+> **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=57)** So we want our furniture layer, and what we're going to do, we're going to [[Zoom]] into the top right corner here on the big conference table that you can see this one here, like so.
 >
 > **[1:07](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980&t=67)** And we're going to utilize the hatch command, to give us a nice wood pattern on the table.
 >
@@ -4161,7 +4133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (3), prompt (1), hit (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (3)
 > **UI Navigation:** click on (8), go to (2), select the (2), scroll down (1), double-click (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ansi (2)
@@ -4170,14 +4142,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Gradient command
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980)
+#### [Using the Gradient command](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=0)** - Once again, we're staying in our hatching gradients.dwg file.
 >
-> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=5)** In the previous video, I showed you how to utilize hatching in your AutoCAD drawings.
+> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=5)** In the previous video, I showed you how to utilize hatching in your [[AutoCAD]] drawings.
 >
 > **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=11)** What we're going to take a little look at now is gradients and gradient fills, which use colors rather than patterns when you're hatching in your AutoCAD drawing.
 >
@@ -4197,7 +4168,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=69)** And just check up here that gradients is your current drafting layer.
 >
-> **[1:13](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=73)** We're going to zoom in now on the archiving room.
+> **[1:13](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=73)** We're going to [[Zoom]] in now on the archiving room.
 >
 > **[1:16](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=76)** Remember with all the cupboards and the desks where we placed a couple of chairs, this area here.
 >
@@ -4285,7 +4256,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=295)** So we'll just pop into the layer drop down.
 >
-> **[4:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=297)** We'll throw those out by clicking on the snowflake symbols there like so, and hit escape to lose the dropdown menu.
+> **[4:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=297)** We'll throw those out by clicking on the [[Snowflake]] symbols there like so, and hit escape to lose the dropdown menu.
 >
 > **[5:03](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-gradient-command?u=76281980&t=303)** And then when we zoom out and zoom in you can see we've got our grid lines back there, like so.
 >
@@ -4297,7 +4268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), [[AutoCAD]] (4), hit (3), next (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[AutoCAD]] (4), [[Snowflake]] (1)
 > **UI Navigation:** click on (7), select the (3), dropdown (3), go to (2)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** previous video (3)
@@ -4305,8 +4276,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - once (1)
 
-#### Editing hatches and gradients
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980)
+#### [Editing hatches and gradients](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4316,9 +4286,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980&t=11)** In fact, the workflow is remarkably similar to working with your hatching and your gradients in the last two videos.
 >
-> **[0:18](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980&t=18)** I'm going to zoom in on the conference table, top right corner.
+> **[0:18](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980&t=18)** I'm going to [[Zoom]] in on the conference table, top right corner.
 >
-> **[0:21](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980&t=21)** That was the first thing that we hatched in our AutoCAD drawing.
+> **[0:21](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980&t=21)** That was the first thing that we hatched in our [[AutoCAD]] drawing.
 >
 > **[0:25](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-hatches-and-gradients?u=76281980&t=25)** All I've got to do is hover over the hatch pattern, it highlights and I click on it and select it.
 >
@@ -4452,7 +4422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), hit (6), [[AutoCAD]] (5)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[AutoCAD]] (5)
 > **UI Navigation:** click on (6), select the (2), go to (2), double-click (1)
 > **Env Vars:** ansi38 (2), b816 (1), b816c (1), ansi31 (1)
 > **Cross-References:** go back to (2), in the last (1)
@@ -4466,14 +4436,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aligning text
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980)
+#### [Aligning text](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=0)** - [Instructor] We're starting a new chapter now.
 >
-> **[0:02](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=2)** And I want to show you some more text annotation techniques in AutoCAD.
+> **[0:02](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=2)** And I want to show you some more text annotation techniques in [[AutoCAD]].
 >
 > **[0:09](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=9)** I've shown you already in the learning AutoCAD course how to set up your text, your tech text styles, and how to work with things like single line text and multiline text.
 >
@@ -4491,7 +4460,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=54)** Now I've added a few extra bits for you.
 >
-> **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=57)** If you go to the home tab on the ribbon and go to the layer dropdown you'll see there's a text layer available, select the word text to make sure it's the current drafting layer and that you're on that layer.
+> **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=57)** If you go to the home tab on the ribbon and go to the layer dropdown you'll see there's a text layer available, select the [[Microsoft Word|word]] text to make sure it's the current drafting layer and that you're on that layer.
 >
 > **[1:08](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=68)** Now we're going to go to the annotation fly out here on the annotation panel as well.
 >
@@ -4541,7 +4510,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=180)** Now we're just going to place a few labels in our drawing and I'm going to show you various ways of aligning your text and making sure it fits nicely.
 >
-> **[3:11](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=191)** We're going to zoom in on this area with all the desks and chairs here.
+> **[3:11](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=191)** We're going to [[Zoom]] in on this area with all the desks and chairs here.
 >
 > **[3:14](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=194)** Just zoom in nice and tight like so, you'll see the room number there, WS001.
 >
@@ -4559,7 +4528,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=224)** I'm going to pick an area here, click and I'm going to drag it across to about there and click again.
 >
-> **[3:50](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=230)** And then my text editor kicks in as you can see on the ribbon and the text area kicks in that I've selected on screen here with a little ruler a bit like Microsoft Word.
+> **[3:50](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=230)** And then my text editor kicks in as you can see on the ribbon and the text area kicks in that I've selected on screen here with a little ruler a bit like [[Microsoft Word]].
 >
 > **[4:02](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980&t=242)** Now I'm just going to type the text in first and then I'm going to worry about the justification.
 >
@@ -4721,7 +4690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (6), [[Microsoft Word|Word]] (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (6), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1)
 > **UI Navigation:** go to (6), click on (6), dropdown (1), select the (1), double-click (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** dwg (1), ws001 (1), abc (1)
@@ -4730,20 +4699,19 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **Prerequisites:** set up (2)
 
-#### Framing text in a title block
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980)
+#### [Framing text in a title block](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=0)** - [Instructor] We're staying in our UsingText.dwg file.
 >
-> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=5)** And in the previous video, I showed you some little tips and tricks and more annotation text techniques that allowed you to align your text in your AutoCAD drawings.
+> **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=5)** And in the previous video, I showed you some little tips and tricks and more annotation text techniques that allowed you to align your text in your [[AutoCAD]] drawings.
 >
 > **[0:16](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=16)** What we're going to take a look at now is we're going to utilize some multiline text to place some notes in a title block for our drawing.
 >
 > **[0:25](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=25)** So good CAD practice to get into.
 >
-> **[0:28](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=28)** When you're finished in the Model tab, do a double-click on the wheel to zoom extents like that.
+> **[0:28](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=28)** When you're finished in the Model tab, do a double-click on the wheel to [[Zoom]] extents like that.
 >
 > **[0:34](https://www.linkedin.com/learning/autocad-2022-essential-training/framing-text-in-a-title-block?u=76281980&t=34)** Always do this, because then you know where you are the next time you come into the Model tab.
 >
@@ -4959,7 +4927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), next (5), [[AutoCAD]] (4)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[AutoCAD]] (4)
 > **UI Navigation:** click on (9), go to (4), double-click (2), select the (1)
 > **CLI Commands:** make (6), snap (2)
 > **Env Vars:** cad (2), layout (1), notes (1), abc (1)
@@ -4973,14 +4941,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Editing dimensions and dimension overrides
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980)
+#### [Editing dimensions and dimension overrides](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and I want to teach you some more dimensioning techniques.
 >
-> **[0:06](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=6)** In the learning AutoCAD course, I taught you some basic dimensioning techniques and showed you annotative scaling, where you could add an annotation scale to your dimensioning so that it would show up in the viewports in your drawings.
+> **[0:06](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=6)** In the learning [[AutoCAD]] course, I taught you some basic dimensioning techniques and showed you annotative scaling, where you could add an annotation scale to your dimensioning so that it would show up in the viewports in your drawings.
 >
 > **[0:22](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=22)** So we've got a new drawing for you.
 >
@@ -5006,7 +4973,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=98)** So it has an annotation scale applied to that particular dimension, which is why it appears in the viewport in the layout tab.
 >
-> **[1:45](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=105)** Let's zoom in now, and I'm going to zoom into the top left corner to make sure that I can see that four five seven dimension and that 9601 dimension.
+> **[1:45](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=105)** Let's [[Zoom]] in now, and I'm going to zoom into the top left corner to make sure that I can see that four five seven dimension and that 9601 dimension.
 >
 > **[1:55](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980&t=115)** I'm going to show you how to edit and override some of your texts in your dimensions in this particular video.
 >
@@ -5128,7 +5095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (5), [[Zoom]] (2), next (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (5), [[Zoom]] (2)
 > **UI Navigation:** go to (3), double-click (2), click on (2)
 > **Versions:** 1.2 (2), 9601.2 (1), 1.1 (1)
 > **Env Vars:** ddedit (2), iso (1)
@@ -5137,8 +5104,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** you should never (1)
 
-#### Using Continue and Baseline
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980)
+#### [Using Continue and Baseline](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5146,7 +5112,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=5)** And we're going to take a little look now at baseline dimensioning and continue, which is a great command for continuous dimensions as well.
 >
-> **[0:15](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=15)** Now, what I'd like you to do is double click on the wheel to zoom extents, first of all and then pan upwards a little bit and zoom in on these grid lines at the bottom of our floor plan.
+> **[0:15](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=15)** Now, what I'd like you to do is double click on the wheel to [[Zoom]] extents, first of all and then pan upwards a little bit and zoom in on these grid lines at the bottom of our floor plan.
 >
 > **[0:26](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=26)** The reason I want to do that is we've just got a nice clear space there where I can show you exactly what baseline and continue do.
 >
@@ -5260,11 +5226,11 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=347)** And they're all individual dimensions as well.
 >
-> **[5:49](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=349)** So you can delete the ones that you don't need later perhaps when you're detailing your dimensions a little bit more intricately to make sure that they adhere to what you want in your AutoCAD drawing.
+> **[5:49](https://www.linkedin.com/learning/autocad-2022-essential-training/using-continue-and-baseline?u=76281980&t=349)** So you can delete the ones that you don't need later perhaps when you're detailing your dimensions a little bit more intricately to make sure that they adhere to what you want in your [[AutoCAD]] drawing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), hit (4), next (3), [[AutoCAD]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[AutoCAD]] (1)
 > **UI Navigation:** go to (5), click on (3), select the (1)
 > **Cross-References:** go back to (2), next video (1)
 > **CLI Commands:** find (1), make (1)
@@ -5273,8 +5239,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Breaking and spacing dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980)
+#### [Breaking and spacing dimensions](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5292,7 +5257,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=31)** So it should be set to A-010-D_DIM layer, as you can see.
 >
-> **[0:37](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=37)** Now what I'd like you to do is just zoom in a bit closer on this bottom left corner.
+> **[0:37](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=37)** Now what I'd like you to do is just [[Zoom]] in a bit closer on this bottom left corner.
 >
 > **[0:42](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=42)** I'm going to show you how to utilize what they call break and space in your dimensioning tool set.
 >
@@ -5302,7 +5267,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=57)** They're called DIMBREAK and DIMSPACE, if you want to type the commands in.
 >
-> **[1:01](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=61)** Now what I'm going to do is I'm going to put a dimension of one of the windows.
+> **[1:01](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=61)** Now what I'm going to do is I'm going to put a dimension of one of the [[Windows]].
 >
 > **[1:05](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=65)** And there's a window there, you can just see them if I hover in window there, and there's also a window there.
 >
@@ -5354,7 +5319,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=183)** So break again, select the longer dimension, the 29566 dimension, and then select the 1524 and there's the breaks there, enter to finish.
 >
-> **[3:14](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=194)** Now the lovely thing about this is all these dimensions are still all one associative object, even with the breaks, which is a really cool feature in AutoCAD.
+> **[3:14](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=194)** Now the lovely thing about this is all these dimensions are still all one associative object, even with the breaks, which is a really cool feature in [[AutoCAD]].
 >
 > **[3:23](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=203)** It also tie these up your drawing because now it's obvious that the 1524 is the window dimension, and the other three dimensions are separate to that.
 >
@@ -5396,7 +5361,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=320)** We can measure it if we want to use the measure tool over on the utilities panel on the home tab if you want to.
 >
-> **[5:26](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=326)** But you can take my word for it.
+> **[5:26](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=326)** But you can take my [[Microsoft Word|word]] for it.
 >
 > **[5:28](https://www.linkedin.com/learning/autocad-2022-essential-training/breaking-and-spacing-dimensions?u=76281980&t=328)** The distance between these dimension lines here, here and here, is currently 1000 millimeters full size in the model tab here.
 >
@@ -5458,7 +5423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Zoom]] (2), [[AutoCAD]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[AutoCAD]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dimbreak (10), dimspace (6), d_dim (1)
 > **UI Navigation:** select the (7), go to (2), click on (2)
 > **Definitions:** is a  (3), known as (1)
@@ -5467,8 +5432,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatic dimensioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980)
+#### [Automatic dimensioning](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5476,7 +5440,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=5)** And I want to show you some more dimensioning techniques as we've worked through this particular chapter.
 >
-> **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=11)** In order to do that, I'd like to just a double click on the wheel again to Zoom Extents.
+> **[0:11](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=11)** In order to do that, I'd like to just a double click on the wheel again to [[Zoom]] Extents.
 >
 > **[0:15](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=15)** And you'll remember in previous videos, we created this hot desking area here, zoom in and get nice and close, like so.
 >
@@ -5484,7 +5448,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=28)** Now, what we're going to do is we're basically going to utilize a thing called automatic dimensioning.
 >
-> **[0:34](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=34)** It's a really nice feature in AutoCAD, you can find it here on the dimensions panel on the Annotate tab, it's this dimension icon here, it creates multiple types of dimensions within a single dimension command session.
+> **[0:34](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=34)** It's a really nice feature in [[AutoCAD]], you can find it here on the dimensions panel on the Annotate tab, it's this dimension icon here, it creates multiple types of dimensions within a single dimension command session.
 >
 > **[0:49](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=49)** You'll also notice on the Home tab on the ribbon, that the dimension command is available in the annotation panel two, I'm going to go from the Annotate tab though, because I've got all of my dimensioning tools available there.
 >
@@ -5538,7 +5502,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=195)** Now the other thing I can do here is if I right click, I can also specify what type of dimension I want.
 >
-> **[3:23](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=203)** So if I go to Angular, now, it says select arc circle or line.
+> **[3:23](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=203)** So if I go to [[Angular]], now, it says select arc circle or line.
 >
 > **[3:27](https://www.linkedin.com/learning/autocad-2022-essential-training/automatic-dimensioning?u=76281980&t=207)** So if I went for this line here, and this line here, there's my 90 degrees, I'll zoom in and get that place come out slightly.
 >
@@ -5564,7 +5528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[AutoCAD]] (3), feature (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[AutoCAD]] (3), [[Angular]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1), known as (1)
@@ -5572,8 +5536,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using multileaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980)
+#### [Using multileaders](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5587,7 +5550,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=39)** It's up to you if you want to place them on a different layer, your call entirely, if you want to create a new layer for them.
 >
-> **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=47)** We're going to zoom in on this top right corner, you'll remember the large conference table that we put the weird hatch pattern on like so.
+> **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=47)** We're going to [[Zoom]] in on this top right corner, you'll remember the large conference table that we put the weird hatch pattern on like so.
 >
 > **[0:55](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=55)** Now, what we're going to do we're going to create a leader that comes off of that and cranks across here and just tells people that it is the large conference table.
 >
@@ -5607,7 +5570,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=123)** Color you want by layer like we did when we were creating dimension styles, you want to think about that like so.
 >
-> **[2:10](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=130)** Now the dimension styles, we did look at those in learning AutoCAD.
+> **[2:10](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=130)** Now the dimension styles, we did look at those in learning [[AutoCAD]].
 >
 > **[2:14](https://www.linkedin.com/learning/autocad-2022-essential-training/using-multileaders?u=76281980&t=134)** Line type also by layer.
 >
@@ -5705,7 +5668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), hit (2), [[AutoCAD]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[AutoCAD]] (1)
 > **UI Navigation:** click on (9), go to (4), select the (2), dropdown (1)
 > **Env Vars:** mtext (3), dwg (1), a010d (1), cad (1)
 > **CLI Commands:** make (5)
@@ -5719,12 +5682,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980)
+#### [Using groups](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=0)** - [Instructor] We're moving on to a new chapter now where we're going to be looking at reusing AutoCAD content.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=0)** - [Instructor] We're moving on to a new chapter now where we're going to be looking at reusing [[AutoCAD]] content.
 >
 > **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=8)** For that reason, we've got a new drawing for you in the library it's called ReusingContent.dwg.
 >
@@ -5746,7 +5708,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=57)** And you'll find the groups panel here on the home tab on the ribbon, just click on the flyer arrow and pin it open 'cause you will need to go back to this group manager occasionally when you're working with groups.
 >
-> **[1:09](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=69)** Now, before we work out what's going to go in our group we're going to zoom in on this central area of the drawing.
+> **[1:09](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=69)** Now, before we work out what's going to go in our group we're going to [[Zoom]] in on this central area of the drawing.
 >
 > **[1:16](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980&t=76)** Now you'll notice we've got some chairs and some tables and some sofas and some tables.
 >
@@ -5890,7 +5852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (7), hit (5), [[Zoom]] (4)
+> **Frameworks & Libraries:** [[AutoCAD]] (7), [[Zoom]] (4)
 > **UI Navigation:** click on (11), go to (8), select the (5), scroll up (1), dropdown (1)
 > **CLI Commands:** make (6), find (1)
 > **Cross-References:** go back to (1)
@@ -5898,8 +5860,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and inserting a block
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980)
+#### [Creating and inserting a block](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5907,17 +5868,17 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=9)** So you can now unpin the groups panel on the ribbon like so.
 >
-> **[0:13](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=13)** What I'd also like you to do is double click on the wheel and zoom extents like we've done in previous videos and then go to the home tab on the ribbon and click on the fly out here on the layers panel and just scroll up to the top and make sure you're on the zero layer.
+> **[0:13](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=13)** What I'd also like you to do is double click on the wheel and [[Zoom]] extents like we've done in previous videos and then go to the home tab on the ribbon and click on the fly out here on the layers panel and just scroll up to the top and make sure you're on the zero layer.
 >
 > **[0:29](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=29)** That's really important this time for this particular video and you'll see why in a moment.
 >
-> **[0:35](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=35)** Now, what we're going to do is we're basically going to create and use a simple AutoCAD block.
+> **[0:35](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=35)** Now, what we're going to do is we're basically going to create and use a simple [[AutoCAD]] block.
 >
 > **[0:42](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=42)** We're going to create a simple chair block.
 >
 > **[0:45](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=45)** So what I'd like you to do is zoom in on the central area like we did at the beginning of the last video when we were using groups.
 >
-> **[0:52](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=52)** Now there's a little bit of space near the spine that forms that little weird kind of separating wall between the stairs and the entrance area and we're going to create a simple chair.
+> **[0:52](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=52)** Now there's a little bit of space near the spine that [[Forms]] that little weird kind of separating wall between the stairs and the entrance area and we're going to create a simple chair.
 >
 > **[1:04](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=64)** So zoom in reasonably close so that you've got a bit of space and there's our zero layer, make sure we're on our the zero layer.
 >
@@ -5973,7 +5934,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=256)** A block definition has to have a name.
 >
-> **[4:17](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=257)** So we're going to call it lounge chair like that, all one word, base points we pick a points.
+> **[4:17](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=257)** So we're going to call it lounge chair like that, all one [[Microsoft Word|word]], base points we pick a points.
 >
 > **[4:24](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-and-inserting-a-block?u=76281980&t=264)** You don't need to put X, Y, and Z in or specify on screen.
 >
@@ -6059,7 +6020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Forms]] (3), [[AutoCAD]] (2), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Forms]] (3), [[AutoCAD]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (9), go to (8), scroll down (2), scroll up (1), select the (1)
 > **CLI Commands:** make (10)
 > **Env Vars:** dwg (3)
@@ -6068,8 +6029,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Using the EXPLODE command
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980)
+#### [Using the EXPLODE command](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6085,7 +6045,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=31)** So that's exactly what we're going to do.
 >
-> **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=33)** I'm going to zoom in a bit closer, like that, so that we can see the lounge chair block.
+> **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=33)** I'm going to [[Zoom]] in a bit closer, like that, so that we can see the lounge chair block.
 >
 > **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=39)** I'm going to site the block.
 >
@@ -6121,7 +6081,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=99)** So what I've done there now is I've exploded my lounge chair block back to its original objects and made some changes.
 >
-> **[1:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=107)** Weirdly enough, those changes make it look like the little android robot for Android phones, which is not what I planned at all, but it just looks a bit funkier now.
+> **[1:47](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=107)** Weirdly enough, those changes make it look like the little [[Android]] robot for Android phones, which is not what I planned at all, but it just looks a bit funkier now.
 >
 > **[1:57](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-explode-command?u=76281980&t=117)** It's a nicer looking lounge chair.
 >
@@ -6137,14 +6097,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), next (2), [[Zoom]] (1), hit (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Zoom]] (1)
 > **UI Navigation:** right-click (4), click on (2)
 > **Cross-References:** previous video (2), in the next (1), next video (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Redefining a block definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980)
+#### [Redefining a block definition](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6162,7 +6121,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=39)** So that's great.
 >
-> **[0:40](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=40)** So make sure that everything that forms your lounge chair block is still on the zero layer.
+> **[0:40](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=40)** So make sure that everything that [[Forms]] your lounge chair block is still on the zero layer.
 >
 > **[0:46](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=46)** I'm hoping you haven't made any changes.
 >
@@ -6236,13 +6195,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=193)** And it is a block reference on layer Furniture.
 >
-> **[3:16](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=196)** Just close the Properties palette, hit Escape to de-select, zoom out slightly, and we've got a slightly funkier looking lounge chair, which like I said, does look a bit like the Android robot for Android phones, which I didn't plan, but it looks nice all the same.
+> **[3:16](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=196)** Just close the Properties palette, hit Escape to de-select, [[Zoom]] out slightly, and we've got a slightly funkier looking lounge chair, which like I said, does look a bit like the [[Android]] robot for Android phones, which I didn't plan, but it looks nice all the same.
 >
-> **[3:34](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=214)** So what we've done there is exploded a block, but also we've got the ability there to redefine a block very quickly and easily in our AutoCAD drawings.
+> **[3:34](https://www.linkedin.com/learning/autocad-2022-essential-training/redefining-a-block-definition?u=76281980&t=214)** So what we've done there is exploded a block, but also we've got the ability there to redefine a block very quickly and easily in our [[AutoCAD]] drawings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), [[Forms]] (1), hit (1), [[Zoom]] (1), [[AutoCAD]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Forms]] (1), [[Zoom]] (1), [[AutoCAD]] (1)
 > **CLI Commands:** make (4), find (1), snap (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** defined as (1), is a  (1)
@@ -6250,8 +6209,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using WBLOCK
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980)
+#### [Using WBLOCK](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6263,13 +6221,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=27)** It's not restrained to this particular reusing content.dwg file.
 >
-> **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=33)** It's a really cool command in AutoCAD called WBLOCK.
+> **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=33)** It's a really cool command in [[AutoCAD]] called WBLOCK.
 >
 > **[0:38](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=38)** Now, if I go to the Insert tab on the ribbon and just click here under Create Block in the block definition panel, right block is the WBLOCK command there but you can just type WBLOCK as well rather than having to go find it.
 >
 > **[0:53](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=53)** So I'm just going to hit Esc to lose that little dropdown menu there.
 >
-> **[0:56](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=56)** And again, I'm going to zoom in a little bit closer to my little funky lounge chair block.
+> **[0:56](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=56)** And again, I'm going to [[Zoom]] in a little bit closer to my little funky lounge chair block.
 >
 > **[1:03](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=63)** Now, WBLOCK is really easy.
 >
@@ -6375,7 +6333,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=346)** Now I've got to jump through a few hoops here.
 >
-> **[5:48](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=348)** I've got to go to my C Drive, like so CADFM, Current Business, LinkedIn Learning and there's my current content.
+> **[5:48](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=348)** I've got to go to my C Drive, like so CADFM, Current Business, [[LinkedIn]] Learning and there's my current content.
 >
 > **[5:55](https://www.linkedin.com/learning/autocad-2022-essential-training/using-wblock?u=76281980&t=355)** And you'll see that I've got various files there.
 >
@@ -6417,7 +6375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (2), hit (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (8), [[Zoom]] (2), [[LinkedIn]] (1)
 > **UI Navigation:** click on (9), go to (8), dropdown (2), scroll down (1), select the (1)
 > **Env Vars:** wblock (7), dwg (6), cadfm (1)
 > **CLI Commands:** find (6)
@@ -6426,8 +6384,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
 
-#### Creating a simple dynamic block
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980)
+#### [Creating a simple dynamic block](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6445,7 +6402,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=55)** Now what we've been doing is creating objects that we want to convert into a dynamic block.
 >
-> **[1:01](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=61)** This is a really nice feature in AutoCAD that allows you to add different tools to a block.
+> **[1:01](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=61)** This is a really nice feature in [[AutoCAD]] that allows you to add different tools to a block.
 >
 > **[1:07](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=67)** We're going to add a flip action which is a bit like the mirror command.
 >
@@ -6469,13 +6426,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=119)** So you'll see that little lightening symbol as well.
 >
-> **[2:01](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=121)** We're going to go to pick point, like so and I'm going to use, if you zoom in, this little corner here.
+> **[2:01](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=121)** We're going to go to pick point, like so and I'm going to use, if you [[Zoom]] in, this little corner here.
 >
 > **[2:08](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=128)** Can you see where it might be the hinge point for the door?
 >
 > **[2:12](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=132)** It's also the bottom corner of the door like that.
 >
-> **[2:14](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=134)** So I've got an end point snap on that little rectangle that forms the door.
+> **[2:14](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=134)** So I've got an end point snap on that little rectangle that [[Forms]] the door.
 >
 > **[2:18](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-dynamic-block?u=76281980&t=138)** There's no way I could have guessed those values as you can see.
 >
@@ -6627,7 +6584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (4), hit (3), feature (1), next (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (6), [[Zoom]] (4), [[Forms]] (1)
 > **UI Navigation:** click on (9), go to (6), select the (4), in the tab (1)
 > **CLI Commands:** make (9), snap (2)
 > **Definitions:** is a  (2), is called (1), means that (1)
@@ -6640,12 +6597,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a simple block with attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980)
+#### [Creating a simple block with attributes](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and we're going to take a look at attributes and tables in AutoCAD.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=0)** - [Instructor] We're starting a new chapter now and we're going to take a look at attributes and tables in [[AutoCAD]].
 >
 > **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=8)** We have a new drawing for you.
 >
@@ -6681,7 +6637,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=82)** Now you'll remember in the previous chapter if we create a block on layer zero it automatically adopts the current drafting layer when you bring it into the drawing.
 >
-> **[1:32](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=92)** We're going to zoom in on the hot desking area here.
+> **[1:32](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=92)** We're going to [[Zoom]] in on the hot desking area here.
 >
 > **[1:35](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=95)** And you'll remember, we created an array of our little executive chairs.
 >
@@ -6817,7 +6773,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=399)** So like we've done previously, block definition panel on the insert tab, on the ribbon click on the flyer and create block.
 >
-> **[6:47](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=407)** And this time it will be office, workstation will be the name type that in try not to spell it incorrectly always bad deceit blocks with badly spelt names.
+> **[6:47](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=407)** And this time it will be [[Microsoft Office|office]], workstation will be the name type that in try not to spell it incorrectly always bad deceit blocks with badly spelt names.
 >
 > **[6:59](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980&t=419)** And we're going to go for a pick point here like so.
 >
@@ -6903,7 +6859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Zoom]] (2), prompt (2), [[AutoCAD]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[AutoCAD]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (15), go to (5), select the (4), dropdown (2)
 > **CLI Commands:** snap (8), make (4), find (1)
 > **Env Vars:** esc (4), d999 (3), o1od_dim (1), url (1)
@@ -6912,8 +6868,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhanced Attribute Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980)
+#### [Enhanced Attribute Editor](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6927,9 +6882,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980&t=28)** Well let's start with the desk here, the little workstation here on the left hand there.
 >
-> **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980&t=33)** All you've got to do is hover over it and double click on it that will bring up a really cool little function in autocad called the enhanced attribute editor, I'm just going to pop it over here to the right so that you can see what's going on with your block.
+> **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980&t=33)** All you've got to do is hover over it and double click on it that will bring up a really cool little function in [[AutoCAD]] called the enhanced attribute editor, I'm just going to pop it over here to the right so that you can see what's going on with your block.
 >
-> **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980&t=47)** Now we're working on this block here and you can see it tells us the block name office workstation, it tells us the tag name desk number and there it is there I can select it in the list and I can change the value.
+> **[0:47](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980&t=47)** Now we're working on this block here and you can see it tells us the block name [[Microsoft Office|office]] workstation, it tells us the tag name desk number and there it is there I can select it in the list and I can change the value.
 >
 > **[0:59](https://www.linkedin.com/learning/autocad-2022-essential-training/enhanced-attribute-editor?u=76281980&t=59)** So let's change this to D100.
 >
@@ -6978,8 +6933,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with table styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-table-styles?u=76281980)
+#### [Working with table styles](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-table-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6991,7 +6945,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-table-styles?u=76281980&t=14)** We're not actually going to use the layout tabs for this particular video.
 >
-> **[0:19](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-table-styles?u=76281980&t=19)** And what we're going to do is, we going to start working with tables and table styles, which again, is another part of how we work with the information in our AutoCAD drawings.
+> **[0:19](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-table-styles?u=76281980&t=19)** And what we're going to do is, we going to start working with tables and table styles, which again, is another part of how we work with the information in our [[AutoCAD]] drawings.
 >
 > **[0:30](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-table-styles?u=76281980&t=30)** There's nothing better than a neatly laid out table to display information that people need to know.
 >
@@ -7147,7 +7101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[AutoCAD]] (4), next (2)
+> **Frameworks & Libraries:** [[AutoCAD]] (4)
 > **UI Navigation:** go to (11), click on (5), dropdown (2)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (4), is an  (1)
@@ -7156,8 +7110,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980)
+#### [Designing a table](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7269,7 +7222,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=260)** So now we've got to start thinking about what sort of data are we going to have in the table.
 >
-> **[4:25](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=265)** I'm going to zoom in a little bit here just to make sure that we can see everything that's going on.
+> **[4:25](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=265)** I'm going to [[Zoom]] in a little bit here just to make sure that we can see everything that's going on.
 >
 > **[4:30](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=270)** So shapes these are just going to be the names of the shapes.
 >
@@ -7285,13 +7238,13 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=293)** So what we've done now, is we've designed our table and what we're going to do in the next video is we're going to actually extract a little bit of data, from the shapes themselves and place it into our table.
 >
-> **[5:07](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=307)** This uses a fantastic command called "field" in AutoCAD.
+> **[5:07](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=307)** This uses a fantastic command called "field" in [[AutoCAD]].
 >
 > **[5:11](https://www.linkedin.com/learning/autocad-2022-essential-training/designing-a-table?u=76281980&t=311)** And I'm going to show you how that works, so that you can occupy your table with accurate data from the geometry in your AutoCAD drawings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (3), [[AutoCAD]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (2), [[Zoom]] (1)
 > **UI Navigation:** click on (4), go to (1), double-click (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1), previous video (1), in the next (1)
@@ -7299,8 +7252,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Adding fields to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980)
+#### [Adding fields to a table](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7358,7 +7310,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=94)** So I can set it there and I just click on okay and there's rectangle.
 >
-> **[1:39](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=99)** Now, when I click away you'll se that the word rectangle from the field data there is a bit big.
+> **[1:39](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=99)** Now, when I click away you'll se that the [[Microsoft Word|word]] rectangle from the field data there is a bit big.
 >
 > **[1:46](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=106)** No worries at all.
 >
@@ -7504,9 +7456,9 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=290)** Information in the cell.
 >
-> **[4:51](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=291)** Click away from the table and if you just zoom out slightly now you can see there that we got our layer names and our areas from the actual objects in the drawing.
+> **[4:51](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=291)** Click away from the table and if you just [[Zoom]] out slightly now you can see there that we got our layer names and our areas from the actual objects in the drawing.
 >
-> **[5:02](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=302)** Utilizing that field command in our autocad table.
+> **[5:02](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=302)** Utilizing that field command in our [[AutoCAD]] table.
 >
 > **[5:06](https://www.linkedin.com/learning/autocad-2022-essential-training/adding-fields-to-a-table?u=76281980&t=306)** Now this is a really really simple example of an autocad table and how you create the table style.
 >
@@ -7526,7 +7478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[AutoCAD]] (3), data (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (3), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (11), double-click (3), select the (2), go to (2), right-click (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (2)
@@ -7539,18 +7491,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with XRefs
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980)
+#### [Working with XRefs](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=0)** - We're starting a new chapter now for you.
 >
-> **[0:03](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=3)** And we're going to start looking at how we work with external reference files in AutoCAD.
+> **[0:03](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=3)** And we're going to start looking at how we work with external reference files in [[AutoCAD]].
 >
 > **[0:10](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=10)** These are often abbreviated to Xrefs.
 >
-> **[0:12](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=12)** So you may have heard this mentioned in your CAD office at work, where the CAD users are talking about Xrefs of particular drawings.
+> **[0:12](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=12)** So you may have heard this mentioned in your CAD [[Microsoft Office|office]] at work, where the CAD users are talking about Xrefs of particular drawings.
 >
 > **[0:21](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980&t=21)** Now an external reference file is basically a drawing file that is paper-clipped or stapled to your existing host drawing.
 >
@@ -7644,7 +7595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (3), hit (2), [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (3), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is an  (2), is called (1)
@@ -7653,8 +7604,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - we (1)
 
-#### Attaching and overlaying XRefs
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/attaching-and-overlaying-xrefs?u=76281980)
+#### [Attaching and overlaying XRefs](https://www.linkedin.com/learning/autocad-2022-essential-training/attaching-and-overlaying-xrefs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7692,7 +7642,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/autocad-2022-essential-training/attaching-and-overlaying-xrefs?u=76281980&t=133)** But check that out.
 >
-> **[2:14](https://www.linkedin.com/learning/autocad-2022-essential-training/attaching-and-overlaying-xrefs?u=76281980&t=134)** There's some great help in the AutoCAD help about reference types as well.
+> **[2:14](https://www.linkedin.com/learning/autocad-2022-essential-training/attaching-and-overlaying-xrefs?u=76281980&t=134)** There's some great help in the [[AutoCAD]] help about reference types as well.
 >
 > **[2:19](https://www.linkedin.com/learning/autocad-2022-essential-training/attaching-and-overlaying-xrefs?u=76281980&t=139)** So, if you just click on your health icon and put in external references as the search sort of criteria, it'll tell you all about attachment and overlay as well and probably explain it a lot better than I do.
 >
@@ -7766,15 +7716,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (4), hit (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (4)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clipping XRefs
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/clipping-xrefs?u=76281980)
+#### [Clipping XRefs](https://www.linkedin.com/learning/autocad-2022-essential-training/clipping-xrefs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7784,7 +7733,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/autocad-2022-essential-training/clipping-xrefs?u=76281980&t=13)** It's an external reference file.
 >
-> **[0:15](https://www.linkedin.com/learning/autocad-2022-essential-training/clipping-xrefs?u=76281980&t=15)** And if I select that, you can see that AutoCAD knows it's an external reference file too.
+> **[0:15](https://www.linkedin.com/learning/autocad-2022-essential-training/clipping-xrefs?u=76281980&t=15)** And if I select that, you can see that [[AutoCAD]] knows it's an external reference file too.
 >
 > **[0:20](https://www.linkedin.com/learning/autocad-2022-essential-training/clipping-xrefs?u=76281980&t=20)** So what we're going to have a little look at now is we're going to have a look at clipping and altering the XRef view in our drawing.
 >
@@ -7880,13 +7829,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (3), hit (1), feature (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (3)
 > **UI Navigation:** click on (2), go to (2), select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - once (1)
 
-#### Editing XRefs
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980)
+#### [Editing XRefs](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7926,7 +7874,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=99)** We're then going to use the trim command in the modify panel here, click on trim so click on the fly out and select trim like so and we're going to trim back this line and this line and press enter.
 >
-> **[1:51](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=111)** Now remember the trim command workflow is slightly different for older versions of AutoCAD.
+> **[1:51](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=111)** Now remember the trim command workflow is slightly different for older versions of [[AutoCAD]].
 >
 > **[1:57](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=117)** You will need to select your cutting edges first.
 >
@@ -7984,7 +7932,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=251)** So the lovely thing about this is I can change the colors and so on, the cloud display color can also be changed but the nice thing is I can compare one Xref against another when those changes are made to make sure that we've got a dialogue between the two people collaborating on the project.
 >
-> **[4:28](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=268)** I can also zoom in so I can zoom in and there's a little sort of close-up of what's going on as well showing you the green and the red and the revision plan.
+> **[4:28](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=268)** I can also [[Zoom]] in so I can zoom in and there's a little sort of close-up of what's going on as well showing you the green and the red and the revision plan.
 >
 > **[4:38](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs?u=76281980&t=278)** Once I'm done with that, I can simply click on the green tick and it takes me back into my host drawing.
 >
@@ -7998,7 +7946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AutoCAD]] (4), hit (3), feature (3), cloud (3), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[AutoCAD]] (4), [[Zoom]] (2)
 > **UI Navigation:** click on (7), select the (4), go to (2)
 > **CLI Commands:** make (9)
 > **Env Vars:** dwg (7), amd (1)
@@ -8007,8 +7955,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Editing XRefs in-place
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs-in-place?u=76281980)
+#### [Editing XRefs in-place](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs-in-place?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8064,7 +8011,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs-in-place?u=76281980&t=145)** Now, as soon as I do that, it says, Oh, reference edit.
 >
-> **[2:29](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs-in-place?u=76281980&t=149)** You need to edit your reference in your AutoCAD drawing.
+> **[2:29](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs-in-place?u=76281980&t=149)** You need to edit your reference in your [[AutoCAD]] drawing.
 >
 > **[2:32](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-xrefs-in-place?u=76281980&t=152)** Now the good thing is we've only got one reference so it's not difficult.
 >
@@ -8204,14 +8151,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conclusion and summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980)
+#### [Conclusion and summary](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=0)** - [Instructor] We've come to the end of our course now.
 >
-> **[0:02](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=2)** And I really do hope that you've enjoyed this AutoCAD essential training course.
+> **[0:02](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=2)** And I really do hope that you've enjoyed this [[AutoCAD]] essential training course.
 >
 > **[0:07](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=7)** I also hope that you've learned all the key skills that you need to know to develop yourself as an AutoCAD user.
 >
@@ -8223,7 +8169,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=33)** The AutoCAD essential training course.
 >
-> **[0:36](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=36)** Once you've combined those two courses together, you should have the necessary AutoCAD skills to function in any AutoCAD office anywhere.
+> **[0:36](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=36)** Once you've combined those two courses together, you should have the necessary AutoCAD skills to function in any AutoCAD [[Microsoft Office|office]] anywhere.
 >
 > **[0:45](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980&t=45)** So you should be able to create drawings, create title blocks, work with external reference files, add all of your annotation, communicate your design intent.
 >
@@ -8240,18 +8186,17 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[AutoCAD]] (8), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where to next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980)
+#### [Where to next?](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=0)** - So you finished your AutoCAD course.
+> **[0:00](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=0)** - So you finished your [[AutoCAD]] course.
 >
 > **[0:03](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=3)** Where do you go now?
 >
 > **[0:05](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=5)** Well, you're a rounded AutoCAD user now.
 >
-> **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=8)** You can perform a CAD role using AutoCAD in a CAD office.
+> **[0:08](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=8)** You can perform a CAD role using AutoCAD in a CAD [[Microsoft Office|office]].
 >
 > **[0:14](https://www.linkedin.com/learning/autocad-2022-essential-training/where-to-next?u=76281980&t=14)** You can also reuse your design content, as well, utilizing AutoCAD blocks, and you can also modify essential information in your AutoCAD drawings quickly and easily.
 >

@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=10)** First, we'll learn how an ethernet switch makes its frame forwarding decisions and I'll demonstrate the configuration of several switch features.
 >
-> **[0:18](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=18)** Then, we'll examine routing.
+> **[0:18](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=18)** Then, we'll examine [[Routing]].
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=20)** Learning how a router makes its packet forwarding decisions.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=44)** And I've been teaching IT courses for over two decades.
 >
-> **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=48)** So join me in my LinkedIn Learning course covering ethernet switching and routing.
+> **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980&t=48)** So join me in my [[LinkedIn]] Learning course covering ethernet switching and routing.
 
 > [!info]- Semantic Content
 >
@@ -123,12 +122,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you'll learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/what-you-ll-learn?u=76281980)
+#### [What you'll learn](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/what-you-ll-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/what-you-ll-learn?u=76281980&t=0)** - [Instructor] In this course, we have two primary topics, switching and routing.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/what-you-ll-learn?u=76281980&t=0)** - [Instructor] In this course, we have two primary topics, switching and [[Routing]].
 >
 > **[0:05](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/what-you-ll-learn?u=76281980&t=5)** First, we'll consider ethernet switching.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), next (2)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Versions:** version 4 (1), version 6 (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** next video (1)
@@ -161,8 +159,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to get hands-on practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980)
+#### [How to get hands-on practice](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=35)** Another option is for you to use a free application from Cisco called Cisco Packet Tracer.
 >
-> **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=40)** And after you download it, you'll be asked to log in, and you can use an existing Google account or create a free Cisco Networking Academy account.
+> **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=40)** And after you download it, you'll be asked to log in, and you can use an existing [[Google]] account or create a free [[Cisco Networking]] Academy account.
 >
 > **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/how-to-get-hands-on-practice?u=76281980&t=48)** And this free application is a network simulator, that's as opposed to an emulator.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Google]] (2), [[Cisco Networking]] (2), [[Search]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2)
 > **Env Vars:** cml (4), ios (2), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Prerequisites:** set up (1), getting started (1)
@@ -226,8 +223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MAC addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980)
+#### [MAC addresses](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=6)** And this is a 48 bit address that we say is burned into a network interface card.
 >
-> **[0:12](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=12)** And the reason we say it's burned into a network interface card is when the manufacturer creates that card, they assign as part of the hardware of that card, a unique MAC address.
+> **[0:12](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=12)** And the reason we say it's burned into a network interface card is when the manufacturer creates that card, they assign as part of the [[Hardware]] of that card, a unique MAC address.
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980&t=24)** Now let's compare a MAC address with some of the other addresses that we might have in a network.
 >
@@ -280,8 +276,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ethernet switch frame forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/ethernet-switch-frame-forwarding?u=76281980)
+#### [Ethernet switch frame forwarding](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/ethernet-switch-frame-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,15 +330,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), power (1)
 > **Env Vars:** mac (24), pc1 (7), pc2 (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ethernet frame format
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/ethernet-frame-format?u=76281980)
+#### [Ethernet frame format](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/ethernet-frame-format?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,14 +422,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** mac (9), sfd (1), fcs (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### VLAN theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-theory?u=76281980)
+#### [VLAN theory](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-theory?u=76281980&t=113)** If this is truly a Layer 2 ethernet switch, then the only way we're going to be able to get traffic from one VLAN to another VLAN is to connect to an external router.
 >
-> **[2:03](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-theory?u=76281980&t=123)** Now, sometimes, we have a multi-layer ethernet switch which can do routing, but if this is really a Layer 2 switch, we need to connect to an external router to get traffic from one VLAN to the other.
+> **[2:03](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-theory?u=76281980&t=123)** Now, sometimes, we have a multi-layer ethernet switch which can do [[Routing]], but if this is really a Layer 2 switch, we need to connect to an external router to get traffic from one VLAN to the other.
 >
 > **[2:14](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-theory?u=76281980&t=134)** Let's say that PC 1 has a legitimate reason to talk to Server 2.
 >
@@ -512,15 +503,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Engineering]] (6), lan (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** vlan (16), lan (1)
 > **Versions:** 172.16.1 (1), 192.168.1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** analogous to (1)
 > **Speakers:** - [instructor] (1)
 
-#### VLAN configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-configuration?u=76281980)
+#### [VLAN configuration](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/vlan-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,14 +622,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), next (2)
 > **Env Vars:** vlan (28), fddi (2), sw1 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trunking theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/trunking-theory?u=76281980)
+#### [Trunking theory](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/trunking-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +687,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Engineering]] (6), [[Security]] (1)
 > **Env Vars:** vlan (21), isl (2), ieee (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -708,8 +695,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trunking configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/trunking-configuration?u=76281980)
+#### [Trunking configuration](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/trunking-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,14 +756,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Spanning Tree Protocol (STP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/introducing-spanning-tree-protocol-stp?u=76281980)
+#### [Introducing Spanning Tree Protocol (STP)](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/introducing-spanning-tree-protocol-stp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/introducing-spanning-tree-protocol-stp?u=76281980&t=0)** - [Instructor] Let's imagine that we have a couple of routers, R1 and R2, and they're connected with redundant connections, meaning that if one connection goes down, the other connection can take over.
 >
-> **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/introducing-spanning-tree-protocol-stp?u=76281980&t=9)** But maybe there's some sort of an issue with the way we have routing set up, and we find ourselves in a routing loop, where traffic is going from R1 to R2 and back to R1 and so on, just endlessly circulating.
+> **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/introducing-spanning-tree-protocol-stp?u=76281980&t=9)** But maybe there's some sort of an issue with the way we have [[Routing]] set up, and we find ourselves in a routing loop, where traffic is going from R1 to R2 and back to R1 and so on, just endlessly circulating.
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/introducing-spanning-tree-protocol-stp?u=76281980&t=20)** Well, the great news with a router is a packet will not endlessly circulate because a router is going to assign a Time to Live value, or a TTL value, to a packet.
 >
@@ -835,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2), traffic (2)
+> **Frameworks & Libraries:** [[Routing]] (2)
 > **Env Vars:** ttl (5), stp (1)
 > **Analogies:** imagine (2), analogous to (1)
 > **CLI Commands:** find (1)
@@ -843,8 +828,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### STP: The backstory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-the-backstory?u=76281980)
+#### [STP: The backstory](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-the-backstory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-the-backstory?u=76281980&t=55)** They both make 40 decisions based on destination Mac addresses seen in frames.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-the-backstory?u=76281980&t=60)** However, a bridge makes those decisions in software, which is a lot slower than a switch which has dedicated hardware in the switch that can make these decisions at line rate without any noticeable delay at all.
+> **[1:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-the-backstory?u=76281980&t=60)** However, a bridge makes those decisions in software, which is a lot slower than a switch which has dedicated [[Hardware]] in the switch that can make these decisions at line rate without any noticeable delay at all.
 >
 > **[1:14](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-the-backstory?u=76281980&t=74)** And as a result of the slowness of a bridge doing all of this in software, we typically only had a couple of ports on a bridge, where we might have a 48 port switch as an example.
 >
@@ -887,8 +871,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### STP Port States
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-port-states?u=76281980)
+#### [STP Port States](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-port-states?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,7 +1025,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), data (1)
 > **Env Vars:** mac (5), stp (1), sw2 (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (1)
@@ -1050,8 +1032,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### STP example
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-example?u=76281980)
+#### [STP example](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,13 +1154,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **Env Vars:** mac (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### STP convergence time
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-convergence-time?u=76281980)
+#### [STP convergence time](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-convergence-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,14 +1204,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), traffic (1)
 > **Env Vars:** bpdu (2), mac (2), bpds (1), ieee (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - we (1)
 
-#### STP variants
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-variants?u=76281980)
+#### [STP variants](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-variants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,7 +1251,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-variants?u=76281980&t=121)** Just be aware in some of the literature, you might still see that referred to as PVST.
 >
-> **[2:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-variants?u=76281980&t=126)** But let's consider scalability with PVST.
+> **[2:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-variants?u=76281980&t=126)** But let's consider [[Scalability]] with PVST.
 >
 > **[2:09](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-variants?u=76281980&t=129)** What if I had a thousand VLANs?
 >
@@ -1326,7 +1303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Scalability]] (1), power (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Env Vars:** vlan (12), pvst (12), sw1 (4), sw2 (4), ieee (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1334,8 +1311,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### STP configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-configuration?u=76281980)
+#### [STP configuration](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/stp-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1443,15 +1419,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** vlan (8), mac (5), pvst (4), sw3 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### EtherChannel theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/etherchannel-theory?u=76281980)
+#### [EtherChannel theory](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/etherchannel-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,7 +1565,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), feature (2), power (1), next (1)
 > **Env Vars:** lacp (4)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (3)
@@ -1599,8 +1572,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### EtherChannel configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/etherchannel-configuration?u=76281980)
+#### [EtherChannel configuration](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/etherchannel-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,7 +1672,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **Prerequisites:** set up (5), configure (3)
 > **Env Vars:** sw2 (2), sw3 (2), isl (1)
 > **CLI Commands:** make (1)
@@ -1712,8 +1683,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Packet flow in a routed network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980)
+#### [Packet flow in a routed network](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1757,7 +1727,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980&t=114)** You see both of those Mac addresses are on the same network segment.
 >
-> **[1:59](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980&t=119)** The source IP, that's the PC's IP address, the destination IP, that's the server's IP address, and again, those do not change throughout this communication flow, but now R1 looks at that destination IP address of 192.168.2.2 and it's going to take a look at its routing table to see if it knows how to get there.
+> **[1:59](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980&t=119)** The source IP, that's the PC's IP address, the destination IP, that's the server's IP address, and again, those do not change throughout this communication flow, but now R1 looks at that destination IP address of 192.168.2.2 and it's going to take a look at its [[Routing]] table to see if it knows how to get there.
 >
 > **[2:18](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980&t=138)** Great news.
 >
@@ -1801,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Routing]] (3), traffic (2)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Versions:** 192.168.1 (4), 192.168.2 (4), 10.1.1 (1)
 > **Env Vars:** arp (4)
 > **UI Navigation:** go to (2)
@@ -1809,14 +1779,13 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static and default routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980)
+#### [Static and default routes](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=0)** - [Instructor] We know that a router is going to make a packet forwarding decision based on a destination IP address.
 >
-> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=6)** And the question we want to begin to address in this video is how does the router build its routing table that tells it have to forward traffic to that destination IP address?
+> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=6)** And the question we want to begin to address in this video is how does the router build its [[Routing]] table that tells it have to forward traffic to that destination IP address?
 >
 > **[0:17](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=17)** One way that we'll discuss later is to have a dynamic routing protocol, but in smaller networks, we might not need a routing protocol.
 >
@@ -1846,7 +1815,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=108)** Consider the topology on screen.
 >
-> **[1:49](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=109)** We've got a branch office that only has one way out to the rest of the world and that's to go to a next hop of the HQ router back at the headquarters.
+> **[1:49](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=109)** We've got a branch [[Microsoft Office|office]] that only has one way out to the [[Representational State Transfer (REST)|rest]] of the world and that's to go to a next hop of the HQ router back at the headquarters.
 >
 > **[1:57](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/static-and-default-routes?u=76281980&t=117)** So if the PC over at the branch office, if it wants to reach any network within the headquarters or if it wants to get to any network out on the internet, it's only got one way to go.
 >
@@ -1862,7 +1831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), next (5), [[Microsoft Office|Office]] (2), traffic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 10.0.0 (3), 198.51.100 (1), 203.0.113 (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (1)
@@ -1870,18 +1839,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring static and default routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980)
+#### [Configuring static and default routes](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=0)** - [Instructor] Now that we understand the theory of static and default routing.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=0)** - [Instructor] Now that we understand the theory of static and default [[Routing]].
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=4)** In this video, we want to set them up.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=6)** We'll begin by configuring a couple of static routes that will allow a PC to reach a couple of remote networks.
 >
-> **[0:11](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=11)** We'll verify that static routing configuration in the router, and then we'll do a default route configuration, where we might have just one path to get out to the rest of the world.
+> **[0:11](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=11)** We'll verify that static routing configuration in the router, and then we'll do a default route configuration, where we might have just one path to get out to the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[0:20](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-static-and-default-routes?u=76281980&t=20)** Now let's go out to the live interface and first configure static routing.
 >
@@ -1973,7 +1941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 10.0.0 (5), 203.0.113 (3), 198.51.100 (2), 255.255.255 (2), 0.0.0 (2)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** configure (3)
@@ -1982,8 +1950,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Definitions:** is called (1)
 
-#### Routing protocol selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980)
+#### [Routing protocol selection](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1997,7 +1964,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=22)** And the question that a network designer might ask, is which writing protocol should we use?
 >
-> **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=27)** Well, one consideration is scalability.
+> **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=27)** Well, one consideration is [[Scalability]].
 >
 > **[0:30](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=30)** How big can this thing get?
 >
@@ -2029,7 +1996,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=76)** In fact, it's typically used between autonomous systems.
 >
-> **[1:19](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=79)** We don't use BGP that often within our network, and we'll keep our focus on routing within our network for now.
+> **[1:19](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=79)** We don't use BGP that often within our network, and we'll keep our focus on [[Routing]] within our network for now.
 >
 > **[1:26](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-selection?u=76281980&t=86)** Another consideration might be vendor interoperability.
 >
@@ -2107,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), [[Scalability]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Scalability]] (1)
 > **Env Vars:** eigrp (7), rip (6), ospf (5), bgp (5)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is called (1)
@@ -2115,8 +2082,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing protocol categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-categories?u=76281980)
+#### [Routing protocol categories](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2148,7 +2114,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-categories?u=76281980&t=71)** But within Company A within that autonomous system, we're going to be running some sort of an IGP, an Interior Gateway Protocol.
 >
-> **[1:19](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-categories?u=76281980&t=79)** And again, examples of those might be the Routing Information Protocol, or RIP, IS-IS, that's intermediate system to intermediate system, OSPF, that's Open Shortest Path First, and EIGRP, the Enhanced Interior Gateway Routing Protocol.
+> **[1:19](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-categories?u=76281980&t=79)** And again, examples of those might be the [[Routing]] Information Protocol, or RIP, IS-IS, that's intermediate system to intermediate system, OSPF, that's Open Shortest Path First, and EIGRP, the Enhanced Interior Gateway Routing Protocol.
 >
 > **[1:34](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/routing-protocol-categories?u=76281980&t=94)** And running between autonomous systems, we can have an EGP.
 >
@@ -2220,7 +2186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (8), next (2), application (1), database (1)
+> **Frameworks & Libraries:** [[Routing]] (8)
 > **Env Vars:** rip (8), bgp (7), ospf (4), eigrp (3), igp (2)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Analogies:** such as (1), it's like (1), just like (1)
@@ -2228,16 +2194,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### RIP theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980)
+#### [RIP theory](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=0)** - [Instructor] The routing protocol that we're going to be considering in this course is RIP.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=0)** - [Instructor] The [[Routing]] protocol that we're going to be considering in this course is RIP.
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=4)** The Routing Information Protocol.
 >
-> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=6)** And we're going to consider in this introductory course because it's one of the simpler routing protocols out there.
+> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=6)** And we're going to consider in this introductory course because it's one of the simpler [[Routing Protocols]] out there.
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=10)** It is older.
 >
@@ -2283,7 +2248,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=155)** That's a hop count of two.
 >
-> **[2:36](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=156)** And rip is limited in scalability because it's maximum hop count is 15.
+> **[2:36](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=156)** And rip is limited in [[Scalability]] because it's maximum hop count is 15.
 >
 > **[2:41](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/rip-theory?u=76281980&t=161)** If we have a hop count of 16 to reach a network, that's considered to be infinitely far away.
 >
@@ -2301,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (6), [[Routing Protocols]] (2), next (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Routing Protocols]] (2), [[Scalability]] (1)
 > **Env Vars:** rip (17), ff02 (1)
 > **CLI Commands:** find (1)
 > **Versions:** 224.0.0 (1)
@@ -2310,14 +2275,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Split-horizon and poison reverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/split-horizon-and-poison-reverse?u=76281980)
+#### [Split-horizon and poison reverse](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/split-horizon-and-poison-reverse?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/split-horizon-and-poison-reverse?u=76281980&t=0)** - [Instructor] In this video, we want to consider a couple of features that RIP, has Split Horizon and Poison Reverse.
 >
-> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/split-horizon-and-poison-reverse?u=76281980&t=6)** Now, Split Horizon is a rule that's used not just by RIP but also by EIGRP and that rule says that if a router receives an advertisement for a network in a specific interface, that router will not advertise that same network out of the interface on which it was learned and that can prevent a routing loop or what's called a count to infinity problem.
+> **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/split-horizon-and-poison-reverse?u=76281980&t=6)** Now, Split Horizon is a rule that's used not just by RIP but also by EIGRP and that rule says that if a router receives an advertisement for a network in a specific interface, that router will not advertise that same network out of the interface on which it was learned and that can prevent a [[Routing]] loop or what's called a count to infinity problem.
 >
 > **[0:27](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/split-horizon-and-poison-reverse?u=76281980&t=27)** Consider this example, let's imagine that Split Horizon has been disabled and R3 is connected to the 10.1.1.0/24 network and we see in R3s routing table, it's zero hops away because it's directly connected and it has advertised to previously over to R2 that it's directly connected and R2 knows that the 10.1.1.0/24 network is available to it if it just hops through or transits one router.
 >
@@ -2349,7 +2313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), feature (1)
+> **Frameworks & Libraries:** [[Routing]] (5)
 > **Env Vars:** rip (5), eigrp (1)
 > **Versions:** 10.1.1 (5)
 > **Definitions:** is a  (3)
@@ -2357,8 +2321,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring RIPv2
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripv2?u=76281980)
+#### [Configuring RIPv2](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripv2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2374,7 +2337,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripv2?u=76281980&t=29)** We'll go into global configuration mode.
 >
-> **[0:31](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripv2?u=76281980&t=31)** And to start the RIP routing process, we say router rip.
+> **[0:31](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripv2?u=76281980&t=31)** And to start the RIP [[Routing]] process, we say router rip.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripv2?u=76281980&t=35)** Now unlike OSPF or EIGRP that you may have configured, there's no number after rip.
 >
@@ -2462,8 +2425,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring RIPng
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripng?u=76281980)
+#### [Configuring RIPng](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripng?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2485,7 +2447,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripng?u=76281980&t=36)** And we're going to use RIPng to route those networks.
 >
-> **[0:39](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripng?u=76281980&t=39)** And before we get into the configuration of RIPng itself, if we want to route IP version 6 networks on our router, we might have to go in and say ipv6 unicast-routing to say that this router is enabled to route IP version 6 traffic.
+> **[0:39](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripng?u=76281980&t=39)** And before we get into the configuration of RIPng itself, if we want to route IP version 6 networks on our router, we might have to go in and say ipv6 unicast-[[Routing]] to say that this router is enabled to route IP version 6 traffic.
 >
 > **[0:55](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/configuring-ripng?u=76281980&t=55)** It might be disabled by default.
 >
@@ -2605,7 +2567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (11), next (1), traffic (1)
+> **Frameworks & Libraries:** [[Routing]] (11)
 > **Env Vars:** rip (11), ccna (7), ccie (3)
 > **Versions:** version 6 (6)
 > **CLI Commands:** make (3)
@@ -2618,14 +2580,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on finishing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=3)** This course covered a collection of routing and switching topics.
+> **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=3)** This course covered a collection of [[Routing]] and switching topics.
 >
 > **[0:06](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=6)** For example, we saw how to configure VLANs, trunks, spanning tree protocol, ether channel.
 >
@@ -2645,7 +2606,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=51)** And also, since this course did cover so many technologies, if you need to go back and review some of them, that is perfectly okay.
 >
-> **[0:58](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=58)** In fact, that's one of the advantages of LinkedIn Learning.
+> **[0:58](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=58)** In fact, that's one of the advantages of [[LinkedIn]] Learning.
 >
 > **[1:01](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980&t=61)** You can go back and rewatch whatever you would like to review.
 >

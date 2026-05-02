@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - professional-certificate
   - topic/artificial-intelligence

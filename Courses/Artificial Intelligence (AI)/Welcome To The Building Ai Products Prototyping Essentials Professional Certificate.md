@@ -55,8 +55,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building AI products: Prototyping essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-prototyping-essentials-professional-certificate/building-ai-products-prototyping-essentials?u=76281980)
+#### [Building AI products: Prototyping essentials](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-prototyping-essentials-professional-certificate/building-ai-products-prototyping-essentials?u=76281980)
 
 
 ## Skills Covered

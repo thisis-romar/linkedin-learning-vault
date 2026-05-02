@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980&t=24)** The organizations that figure out how to integrate AI strategically will unlock opportunities to upskill employees, drive career mobility, and foster more innovation, and those that don't risk being left behind in a world that's evolving faster than you can blink.
 >
-> **[0:42](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980&t=42)** I'm Naphtali Bryant and I'm fired up to present this course on leveraging AI to help you craft agile and impactful talent strategies.
+> **[0:42](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980&t=42)** I'm Naphtali Bryant and I'm fired up to present this course on leveraging AI to help you craft [[Agile Development|agile]] and impactful talent strategies.
 >
 > **[0:50](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980&t=50)** Join me as we explore the future of talent development.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), leadership (1), data (1), career (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The new era of talent development
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980)
+#### [The new era of talent development](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,13 +120,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=35)** Consider this.
 >
-> **[0:36](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=36)** According to Gartner, 23% of business leaders expect generative AI to deliver productivity improvements within the next 12 to 18 months.
+> **[0:36](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=36)** According to Gartner, 23% of business leaders expect [[Generative AI]] to deliver productivity improvements within the next 12 to 18 months.
 >
 > **[0:46](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=46)** This urgency makes adopting AI in talent development not just an advantage, but a necessity, to stay competitive.
 >
 > **[0:55](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=55)** AI is reshaping work at an incredible pace.
 >
-> **[0:58](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=58)** LinkedIn initially forecasted that skills would change 50% from 2016 to 2030.
+> **[0:58](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=58)** [[LinkedIn]] initially forecasted that skills would change 50% from 2016 to 2030.
 >
 > **[1:05](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=65)** But with generative AI, this change is now expected to accelerate to 68%.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=219)** AI can guide decisions, but the strategic direction must come from you as a leader.
 >
-> **[3:45](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=225)** AI provides insights, but leadership sets the vision, inspires action, and guides decision-making.
+> **[3:45](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=225)** AI provides insights, but leadership sets the vision, inspires action, and guides [[Decision-Making]].
 >
 > **[3:52](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980&t=232)** Your leadership will determine whether your organization thrives in this new era or gets left behind.
 >
@@ -194,14 +192,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), next (3), business (2), [[Generative AI]] (2), career (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (1), [[Decision-Making]] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Env Vars:** nora (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - you (1)
 
-#### Key challenges for organizations in the AI age
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980)
+#### [Key challenges for organizations in the AI age](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=68)** Silos and outdated structures prevent employees from transitioning into roles where their skills are most needed.
 >
-> **[1:16](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=76)** Internal mobility is no longer something that can be an afterthought.
+> **[1:16](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=76)** [[Internal Mobility]] is no longer something that can be an afterthought.
 >
 > **[1:20](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=80)** It's essential.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=111)** Managers are often overlooked as key players in talent development.
 >
-> **[1:55](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=115)** Without the tools and incentives to support growth, employees miss opportunities to excel.
+> **[1:55](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=115)** Without the tools and incentives to support growth, employees miss opportunities to [[Microsoft Excel|excel]].
 >
 > **[2:01](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=121)** For example, equip managers with clear frameworks for having career conversations and supporting employee learning.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=150)** While these challenges may seem daunting, there are also opportunities for strategic change that your organization needs.
 >
-> **[2:38](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=158)** The organizations that succeed will be those that take a proactive, thoughtful approach to balancing AI's potential with strategic leadership to gain a competitive advantage.
+> **[2:38](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=158)** The organizations that succeed will be those that take a proactive, thoughtful approach to balancing AI's potential with [[Strategic Leadership]] to gain a competitive advantage.
 >
 > **[2:48](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/key-challenges-for-organizations-in-the-ai-age-25129314?u=76281980&t=168)** I encourage you also to consider your organization.
 >
@@ -285,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), career (5), business (4), [[Internal Mobility]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (2), [[Microsoft Excel|Excel]] (1), [[Strategic Leadership]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
@@ -295,8 +292,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Skills agility: Build skills faster
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980)
+#### [Skills agility: Build skills faster](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=19)** Last year, her team skills were cutting edge.
 >
-> **[0:22](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=22)** Today, with AI tools like ChatGPT, those same skills are becoming obsolete.
+> **[0:22](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=22)** Today, with AI tools like [[ChatGPT]], those same skills are becoming obsolete.
 >
 > **[0:28](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=28)** Sarah's story isn't unique.
 >
@@ -318,19 +314,19 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=39)** To thrive in this new landscape, organizations need a fresh approach.
 >
-> **[0:44](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=44)** That's why LinkedIn has identified five key talent strategy foundations for navigating the AI era.
+> **[0:44](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=44)** That's why [[LinkedIn]] has identified five key talent strategy foundations for navigating the AI era.
 >
 > **[0:51](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=51)** I'm going to share each of them with you and give you insights into what I believe this means for you and your organization.
 >
 > **[0:58](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=58)** Skills agility, the ability to build and adapt skills faster than ever.
 >
-> **[1:03](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=63)** Internal mobility, creating seamless pathways for employees to grow within the organization.
+> **[1:03](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=63)** [[Internal Mobility]], creating seamless pathways for employees to grow within the organization.
 >
 > **[1:09](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=69)** Business impact and measurement, demonstrating and aligning the value of development initiatives with business outcomes.
 >
 > **[1:17](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=77)** Harnessing managers, empowering managers as critical talent builders.
 >
-> **[1:22](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=82)** And employee-led career development, supporting employees in owning their career journeys.
+> **[1:22](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=82)** And employee-led [[Career Development]], supporting employees in owning their career journeys.
 >
 > **[1:29](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980&t=89)** In this video, we'll focus on the first foundation, skills agility, and I'll help you think about how you can anchor on building skills faster in a world that's evolving at an unprecedented pace.
 >
@@ -390,14 +386,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (3), next (3), [[Internal Mobility]] (2), career (2)
+> **Frameworks & Libraries:** [[Internal Mobility]] (2), [[ChatGPT]] (1), [[LinkedIn]] (1), [[Career Development]] (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - did (1)
 
-#### Internal mobility: Make internal mobility easier
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/internal-mobility-make-internal-mobility-easier?u=76281980)
+#### [Internal mobility: Make internal mobility easier](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/internal-mobility-make-internal-mobility-easier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/internal-mobility-make-internal-mobility-easier?u=76281980&t=27)** The reality is employees want to grow.
 >
-> **[0:30](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/internal-mobility-make-internal-mobility-easier?u=76281980&t=30)** A LinkedIn study found that employees who see opportunities for internal mobility are 41% more likely to stay with their company longer.
+> **[0:30](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/internal-mobility-make-internal-mobility-easier?u=76281980&t=30)** A [[LinkedIn]] study found that employees who see opportunities for [[Internal Mobility]] are 41% more likely to stay with their company longer.
 >
 > **[0:40](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/internal-mobility-make-internal-mobility-easier?u=76281980&t=40)** Internal mobility is an imperative for retaining and developing your best and your brightest talent.
 >
@@ -495,14 +490,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internal Mobility]] (11), ai (3), career (2), data (2), hit (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (11), [[LinkedIn]] (1)
 > **Definitions:** stands for (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** fire (1)
 > **Speakers:** - here (1)
 
-#### Business impact and measurement: Measure success better
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980)
+#### [Business impact and measurement: Measure success better](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,7 +540,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=127)** Second, align metrics with business language.
 >
-> **[2:10](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=130)** Instead of relying solely on data dashboards, translate your data into the language of the business outcomes that resonate with the stakeholders.
+> **[2:10](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=130)** Instead of relying solely on data [[Dashboards]], translate your data into the language of the business outcomes that resonate with the stakeholders.
 >
 > **[2:19](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=139)** For example, show how upskilling efforts led to faster project delivery.
 >
@@ -560,7 +554,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=167)** Use your metrics to create narratives that link learning programs to tangible outcomes.
 >
-> **[2:53](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=173)** For instance, explain how a leadership course reduced decision making bottlenecks, or how a training program improved team collaboration and innovation.
+> **[2:53](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=173)** For instance, explain how a leadership course reduced decision making bottlenecks, or how a training program improved [[Team Collaboration]] and innovation.
 >
 > **[3:03](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/business-impact-measurement-measure-success-better-25125638?u=76281980&t=183)** A practical metric to track is new skills delivered for the business.
 >
@@ -598,20 +592,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), ai (4), data (4), leadership (2), next (2)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Team Collaboration]] (1)
 > **Analogies:** for example (2), for instance (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - imagine (1)
 
-#### Harnessing managers: Empower managers to be talent builders
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980)
+#### [Harnessing managers: Empower managers to be talent builders](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=1)** - I remember being a young leader, trying to navigate the challenges of balancing team priorities with my own career aspirations, and that was before the disruption of AI.
 >
-> **[0:11](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=11)** You know, back when being in the office, five days consistently, was normal?
+> **[0:11](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=11)** You know, back when being in the [[Microsoft Office|office]], five days consistently, was normal?
 >
 > **[0:16](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=16)** Today, managers face even greater complexity, but also incredible opportunities because of how AI is transforming talent development.
 >
@@ -653,9 +646,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=127)** The most important tool you can give managers is feedback on their effectiveness.
 >
-> **[2:12](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=132)** Equip them with real-time insights into their leadership strengths, areas for growth, and how they can better support their teams.
+> **[2:12](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=132)** Equip them with [[Real-Time]] insights into their leadership strengths, areas for growth, and how they can better support their teams.
 >
-> **[2:20](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=140)** Leadership development.
+> **[2:20](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=140)** [[Leadership Development]].
 >
 > **[2:22](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=142)** Make targeted leadership development the norm.
 >
@@ -665,11 +658,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=160)** For example, rather than asking, what's your next role, managers can ask, what skills are you most excited to develop and how can I support you?
 >
-> **[2:51](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=171)** These frameworks make career development actionable and personalized.
+> **[2:51](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=171)** These frameworks make [[Career Development]] actionable and personalized.
 >
 > **[2:56](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=176)** Integrate development tools into their daily workflows.
 >
-> **[3:00](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=180)** Equip managers with AI-driven dashboards that provide real-time insights into team strengths, skill gaps, and career aspirations.
+> **[3:00](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=180)** Equip managers with AI-driven [[Dashboards]] that provide real-time insights into team strengths, skill gaps, and career aspirations.
 >
 > **[3:09](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/harnessing-managers-empower-managers-to-be-talent-builders-25132033?u=76281980&t=189)** These tools help managers embed development into every interaction, making growth a natural part of their leadership approach.
 >
@@ -695,13 +688,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), career (7), teams (3), data (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Leadership Development]] (2), [[Microsoft Office|Office]] (1), [[Career Development]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Career development: Drive employee-led career development
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/career-development-drive-employee-led-career-development-25132034?u=76281980)
+#### [Career development: Drive employee-led career development](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/career-development-drive-employee-led-career-development-25132034?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/career-development-drive-employee-led-career-development-25132034?u=76281980&t=30)** It's the direction of the future of talent development in the AI era.
 >
-> **[0:35](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/career-development-drive-employee-led-career-development-25132034?u=76281980&t=35)** When employees take charge of their career development, they bring energy, innovation, and alignment to their work.
+> **[0:35](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/career-development-drive-employee-led-career-development-25132034?u=76281980&t=35)** When employees take charge of their [[Career Development]], they bring energy, innovation, and alignment to their work.
 >
 > **[0:42](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/career-development-drive-employee-led-career-development-25132034?u=76281980&t=42)** But this doesn't happen by accident.
 >
@@ -781,7 +773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (10), [[Career Development]] (7), ai (4)
+> **Frameworks & Libraries:** [[Career Development]] (7)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
@@ -792,8 +784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build an AI-ready leadership team
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/build-an-ai-ready-leadership-team?u=76281980)
+#### [Build an AI-ready leadership team](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/build-an-ai-ready-leadership-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,14 +882,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), leadership (8), teams (8), business (2), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
-#### Reinvent the role of managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980)
+#### [Reinvent the role of managers](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,13 +895,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=9)** Yet, in the age of AI, are they fully equipped to embrace this role?
 >
-> **[0:13](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=13)** According to Gartner, 75% of managers feel overwhelmed by the sheer scope of their responsibilities, and 69% admit they aren't equipped to lead change.
+> **[0:13](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=13)** According to Gartner, 75% of managers feel overwhelmed by the sheer scope of their responsibilities, and 69% admit they aren't equipped to [[Lead Change]].
 >
 > **[0:25](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=25)** These numbers underscore a pressing reality.
 >
 > **[0:28](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=28)** Managers need more than good intentions, they need the right tools, training and mindset to navigate the complexities of the AI era.
 >
-> **[0:38](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=38)** Yet, many managers struggle to make career development a priority, often seeing it as something to tackle when there's time.
+> **[0:38](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=38)** Yet, many managers struggle to make [[Career Development]] a priority, often seeing it as something to tackle when there's time.
 >
 > **[0:46](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/reinvent-the-role-of-managers?u=76281980&t=46)** But with intentional practices and AI-driven tools, career building can become seamlessly integrated into their daily leadership style.
 >
@@ -960,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Career Development]] (5), career (4), teams (2), [[Lead Change]] (1)
+> **Frameworks & Libraries:** [[Career Development]] (5), [[Lead Change]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - your (1)
@@ -970,8 +959,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fostering a culture of continuous growth and adaptability
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980)
+#### [Fostering a culture of continuous growth and adaptability](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1007,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=111)** Building a strong culture of growth requires deliberate action.
 >
-> **[1:55](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=115)** Whether it's creating internal centers of excellence, focused on learning, leadership or career development, or partnering with external experts to enhance these areas, a clear commitment to growth sends a powerful message.
+> **[1:55](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=115)** Whether it's creating internal centers of excellence, focused on learning, leadership or [[Career Development]], or partnering with external experts to enhance these areas, a clear commitment to growth sends a powerful message.
 >
 > **[2:10](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=130)** Investment in development isn't just a perk, it's a strategic necessity to ensure your workforce is prepared for what's next.
 >
@@ -1059,7 +1047,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=228)** With a culture rooted in continuous learning, your organization can rise to meet any challenge and transform change into opportunity.
 >
-> **[3:57](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=237)** For more on creating a culture of continuous growth, check out my other course, Creating a Culture of Learning, right here on LinkedIn.
+> **[3:57](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=237)** For more on creating a culture of continuous growth, check out my other course, Creating a Culture of Learning, right here on [[LinkedIn]].
 >
 > **[4:05](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980&t=245)** In this era of rapid transformation, talent development leads the way.
 >
@@ -1067,12 +1055,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), teams (5), leadership (2), [[Career Development]] (2), data (1)
+> **Frameworks & Libraries:** [[Career Development]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - through (1)
 
-#### Leading talent development into the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980)
+#### [Leading talent development into the future](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1077,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=43)** Here's a fundamental truth to carry forward.
 >
-> **[0:46](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=46)** If you're not investing in leadership development, talent development, and coaching, you're missing the mark.
+> **[0:46](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=46)** If you're not investing in [[Leadership Development]], talent development, and coaching, you're missing the mark.
 >
 > **[0:52](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=52)** These are no longer optional.
 >
@@ -1104,7 +1091,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=76)** Identify areas where you can make a meaningful shift, and commit to integrating leadership and talent development into your strategy, ensuring it's a core focus and not just an afterthought.
 >
-> **[1:27](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=87)** For additional resources, I highly recommend Terri Horton's Career Conversations in the Age of AI, Chris McKay's [[Integrating Generative AI into Business Strategy]], and Brian Evergreen's [[Organizational Leadership in the Era of AI]].
+> **[1:27](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=87)** For additional resources, I highly recommend Terri Horton's Career Conversations in the Age of AI, Chris McKay's [[Integrating [[Generative AI]] into Business Strategy]], and Brian Evergreen's [[[[Organizational Leadership]] in the Era of AI]].
 >
 > **[1:43](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=103)** And of course, check out my other courses on fostering cultures of learning and leadership.
 >
@@ -1114,13 +1101,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=122)** Thank you for joining me on this journey.
 >
-> **[2:05](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=125)** Let's connect here on LinkedIn.
+> **[2:05](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=125)** Let's connect here on [[LinkedIn]].
 >
 > **[2:07](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/leading-talent-development-into-the-future-25128318?u=76281980&t=127)** I'd love to hear how you're making an impact and shaping the future of talent development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (2), leadership (2), teams (1), [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (1), [[Generative AI]] (1), [[Organizational Leadership]] (1), [[LinkedIn]] (1)
 > **Cross-References:** earlier in (1), we discussed (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)

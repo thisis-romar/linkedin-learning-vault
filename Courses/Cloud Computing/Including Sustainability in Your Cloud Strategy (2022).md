@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Do not waste water
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980)
+#### [Do not waste water](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,20 +103,19 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980&t=45)** My name is Fawad Qureshi, and I've been working in the cloud data analytics space for two decades.
 >
-> **[0:50](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980&t=50)** In this course, you will learn the fundamentals of cloud sustainability, we'll cover what makes some technologies greener than others, I'll show you some common carbon measurements and their implications, and finally, we'll talk about how consolidation results in a better carbon footprint.
+> **[0:50](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980&t=50)** In this course, you will learn the fundamentals of cloud [[Sustainability]], we'll cover what makes some technologies greener than others, I'll show you some common carbon measurements and their implications, and finally, we'll talk about how consolidation results in a better carbon footprint.
 >
-> **[1:06](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980&t=66)** If I want you to think about one thing when building your cloud strategy then you should always remember what Punjab told us, that is "do not waste water."
+> **[1:06](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980&t=66)** If I want you to think about one thing when building your [[Cloud Strategy]] then you should always remember what Punjab told us, that is "do not waste water."
 >
 > **[1:17](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980&t=77)** So if you're ready to begin, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), next (1), data (1), [[Analytics]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Cloud Strategy]] (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [fawad] (1)
 
-#### Designing for scarcity in a world of abundance
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980)
+#### [Designing for scarcity in a world of abundance](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,20 +131,19 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980&t=32)** We need to change our ways on how we consume resources on this planet.
 >
-> **[0:37](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980&t=37)** In the last few years, cloud computing has generated a lot of interest in the market for multiple reasons.
+> **[0:37](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980&t=37)** In the last few years, [[Cloud Computing]] has generated a lot of interest in the market for multiple reasons.
 >
-> **[0:43](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980&t=43)** Next, we will discuss the sustainability benefits of using the cloud.
+> **[0:43](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/designing-for-scarcity-in-a-world-of-abundance?u=76281980&t=43)** Next, we will discuss the [[Sustainability]] benefits of using the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), next (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Sustainability]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### The green behind the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980)
+#### [The green behind the cloud](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=21)** This follows the same principle, like carpooling or public transport over everyone having their own car.
 >
-> **[0:27](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=27)** You may not drive your own car for more than two hours a day on the average and for the rest of the 22 hours, it is parked outside your home or workplace.
+> **[0:27](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=27)** You may not drive your own car for more than two hours a day on the average and for the [[Representational State Transfer (REST)|rest]] of the 22 hours, it is parked outside your home or workplace.
 >
 > **[0:35](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=35)** Using public transport or carpooling, you are able to spread out the idle time across many consumers.
 >
@@ -170,15 +167,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=62)** Accenture's research has shown that, for example, AWS data centers are 3.6 times more energy efficient than as compared to median US enterprise data centers.
 >
-> **[1:11](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=71)** This delivers a significant improvement in hardware efficiency, which, in turn, reduces the per-CPU unit energy consumption.
+> **[1:11](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=71)** This delivers a significant improvement in [[Hardware]] efficiency, which, in turn, reduces the per-CPU unit energy consumption.
 >
-> **[1:19](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=79)** Further improvement can be achieved by following sustainable software engineering principles and implementing cloud-native design patterns.
+> **[1:19](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=79)** Further improvement can be achieved by following sustainable software engineering principles and implementing cloud-native [[Design Patterns]].
 >
 > **[1:26](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=86)** The use of multi-tenancy allows several applications to share resources which reduces energy consumption as compared to when the applications are working on dedicated infrastructure.
 >
 > **[1:36](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=96)** Cloud providers have unique scale and financial incentives and can work closely with stakeholders in adopting the circular economy when it comes to hardware.
 >
-> **[1:46](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=106)** Accenture estimates show enterprise technology manufacturers can capture an additional 16% of operating profit by designing products for longevity, modularity, and circularity.
+> **[1:46](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=106)** Accenture estimates show enterprise technology manufacturers can capture an additional 16% of operating profit by designing [[Microsoft Products|products]] for longevity, modularity, and circularity.
 >
 > **[1:58](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/the-green-behind-the-cloud?u=76281980&t=118)** All of these benefits combined mean that organizations can save up to 95% by moving their data centers to the public cloud.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (4), [[Hardware]] (2), business (2), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aws (1), cpu (1)
 > **CLI Commands:** aws (1)
 > **Versions:** 3.6 (1)
@@ -200,8 +197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Factors impacting carbon consumption in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
+#### [Factors impacting carbon consumption in the cloud](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980&t=35)** This is usually done by having effective cooling practices in the data center to reduce energy waste stage.
 >
-> **[0:41](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980&t=41)** These practices include having effective airflow management, consolidating light running servers, and reducing the overall number of hardware in the data center.
+> **[0:41](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980&t=41)** These practices include having effective airflow management, consolidating light running servers, and reducing the overall number of [[Hardware]] in the data center.
 >
 > **[0:50](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980&t=50)** Standby power, ensuring that the standby power consumption is not too high when the systems are not running any workloads This is done by selecting hardware manufacturers in your data center with a greener idle footprint.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), data (5), [[Hardware]] (3), power (3), next (3)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Analogies:** such as (3), for example (1), imagine (1)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -294,8 +290,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** configure (1)
 
-#### Understanding types of emissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980)
+#### [Understanding types of emissions](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,20 +324,19 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980&t=86)** While if you move all the workload to the public cloud, it'll be considered scope three from a carbon reporting perspective.
 >
-> **[1:33](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980&t=93)** In this section, we talked about different types of emissions and how most of the emissions for an organization fall under scope three, including emission generated from cloud computing.
+> **[1:33](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980&t=93)** In this section, we talked about different types of emissions and how most of the emissions for an organization fall under scope three, including emission generated from [[Cloud Computing]].
 >
 > **[1:43](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/understanding-types-of-emissions?u=76281980&t=103)** Next, we will dive a little deeper into how the carbon consumption of a computer changes with its weight utilization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), cloud (2), next (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Impact of CPU utilization on carbon consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/impact-of-cpu-utilization-on-carbon-consumption?u=76281980)
+#### [Impact of CPU utilization on carbon consumption](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/impact-of-cpu-utilization-on-carbon-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,7 +378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), data (2), node (1), cloud (1), next (1)
 > **Env Vars:** cpu (5), spec (2)
 > **Documentation:** spec (2)
 > **Analogies:** for example (1), imagine (1)
@@ -393,12 +386,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Power usage effectiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980)
+#### [Power usage effectiveness](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=0)** - [Narrator] What happens when you buy more electronics for your home?
+> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=0)** - [Narrator] What happens when you buy more [[Electronics]] for your home?
 >
 > **[0:03](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=3)** Of course your electricity usage increases but imagine your whole house no longer has space for the incoming electronics.
 >
@@ -412,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=27)** You would need more equipment to support it, et cetera.
 >
-> **[0:30](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=30)** Similarly, the growth in cloud computing means that the cloud service providers have to continuously expand and move to new, bigger data centers all the time.
+> **[0:30](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=30)** Similarly, the growth in [[Cloud Computing]] means that the cloud service providers have to continuously expand and move to new, bigger data centers all the time.
 >
 > **[0:39](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=39)** The same thing happens in the large data centers.
 >
@@ -422,13 +414,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=51)** Power usage effectiveness, or PUE is a measure of how good a company is managing the cooling of its infrastructure.
 >
-> **[0:59](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=59)** PUE is a ratio of total energy consumed by a data center divided by the total energy consumed by servers and computer hardware.
+> **[0:59](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=59)** PUE is a ratio of total energy consumed by a data center divided by the total energy consumed by servers and computer [[Hardware]].
 >
 > **[1:07](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=67)** The best case scenario is a ratio of one which means that data center requires zero cooling which is nearly impossible.
 >
 > **[1:14](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=74)** Ideally, the ratio should be close to one.
 >
-> **[1:17](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=77)** Google had a PUE of 1.1 in 2019 which was pretty remarkable.
+> **[1:17](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=77)** [[Google]] had a PUE of 1.1 in 2019 which was pretty remarkable.
 >
 > **[1:22](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/power-usage-effectiveness?u=76281980&t=82)** When you are selecting a cloud service provider region, you should always ask for the PUE.
 >
@@ -444,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (4), [[Electronics]] (3), power (3), game (1)
+> **Frameworks & Libraries:** [[Electronics]] (3), [[Cloud Computing]] (1), [[Hardware]] (1), [[Google]] (1)
 > **Env Vars:** pue (6)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -453,12 +445,11 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud shared responsibility models
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980)
+#### [Cloud shared responsibility models](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=0)** - [Instructor] Have you heard terms like infrastructure as a service, platform as a service or serverless, etcetera?
+> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=0)** - [Instructor] Have you heard terms like [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]] or serverless, etcetera?
 >
 > **[0:05](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=5)** Does serverless mean that there is actually no server?
 >
@@ -470,7 +461,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=19)** And you just focus on your application.
 >
-> **[0:21](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=21)** The different terms you hear like IaaS, PaaS, serverless and SaaS are just terms that refer to a shared responsibility model, meaning that there are varying parts of a full technology stack that are visible to you and you have full responsibility to manage the architecture.
+> **[0:21](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=21)** The different terms you hear like [[IaaS]], [[PaaS]], serverless and [[SaaS]] are just terms that refer to a shared responsibility model, meaning that there are varying parts of a full technology stack that are visible to you and you have full responsibility to manage the architecture.
 >
 > **[0:38](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=38)** In terms of computer resources, every component is still required, just like you would in an on-premises or a full stack model.
 >
@@ -482,11 +473,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=58)** As examples, Salesforce, the popular CRM tool, is a SaaS offering.
 >
-> **[1:03](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=63)** AWS Lambda, Microsoft Azure Functions, are examples of Serverless tools.
+> **[1:03](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=63)** AWS Lambda, [[Microsoft Azure]] Functions, are examples of Serverless tools.
 >
 > **[1:08](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=68)** AWS beanstalk is a good example of PaaS.
 >
-> **[1:10](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=70)** While AWS EC2 is an example of infrastructure as a service.
+> **[1:10](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=70)** While AWS [[Amazon EC2|EC2]] is an example of infrastructure as a service.
 >
 > **[1:16](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/cloud-shared-responsibility-models?u=76281980&t=76)** From a carbon consumption perspective, you must add up the energy consumed by those hidden resources.
 >
@@ -502,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), cloud (3), [[IaaS|Infrastructure as a service]] (2), [[PaaS]] (2), [[SaaS]] (2)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (2), [[PaaS]] (2), [[SaaS]] (2), [[PaaS|Platform as a service]] (1), [[IaaS]] (1)
 > **Env Vars:** aws (3), crm (1), ec2 (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **CLI Commands:** aws (3)
@@ -510,8 +501,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### To autoscale or not to autoscale
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980)
+#### [To autoscale or not to autoscale](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,7 +513,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=24)** There's nothing wrong in using more resources, when it is justified.
 >
-> **[0:28](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=28)** But sometimes we see that vendors try to use autoscaling, to overcome the software limitations, by adding extra hardware to compensate for software inefficiency.
+> **[0:28](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=28)** But sometimes we see that vendors try to use autoscaling, to overcome the software limitations, by adding extra [[Hardware]] to compensate for software inefficiency.
 >
 > **[0:38](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=38)** This phenomena was demonstrated, by an academic research paper, from Carnegie Mellon University, a leading software engineering institute.
 >
@@ -543,9 +533,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=102)** Please keep in mind, some vendors may not pass down the cost of the extra hardware, since they are in the growth stage of their business and want to acquire new customers at all costs.
 >
-> **[1:53](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=113)** This is not a sustainable business practice.
+> **[1:53](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=113)** This is not a [[Sustainable Business]] practice.
 >
-> **[1:56](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=116)** So you should be wary of software vendors using design patterns, such as autoscaling, to hide inefficiencies in the cloud.
+> **[1:56](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=116)** So you should be wary of software vendors using [[Design Patterns]], such as autoscaling, to hide inefficiencies in the cloud.
 >
 > **[2:03](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=123)** You cannot throw hardware at a software problem.
 >
@@ -555,13 +545,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=137)** We simply should not condone this behavior by vendors who are throwing hardware at a software problem.
 >
-> **[2:22](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=142)** In this section, we learned that by using the cloud design patterns incorrectly, not only can you generate unnecessary carbon for the same workload, but that this can be fixed by using the appropriate software development practices.
+> **[2:22](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=142)** In this section, we learned that by using the cloud design patterns incorrectly, not only can you generate unnecessary carbon for the same workload, but that this can be fixed by using the appropriate [[Software Development]] practices.
 >
 > **[2:37](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/to-autoscale-or-not-to-autoscale?u=76281980&t=157)** Next, we'll talk about these software development practices which will help you in delivering an energy efficient software.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Hardware]] (4), [[Design Patterns]] (2), [[Software Development]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Design Patterns]] (2), [[Software Development]] (2), [[Sustainable Business]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
@@ -574,8 +564,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring parallel efficiency of the cloud systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
+#### [Measuring parallel efficiency of the cloud systems](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +606,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980&t=85)** Then your parallel efficiency will not improve with increasing number of available resources.
 >
-> **[1:30](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980&t=90)** Here is an example of three different types of databases processing SQL.
+> **[1:30](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980&t=90)** Here is an example of three different types of [[Databases]] processing [[SQL]].
 >
 > **[1:34](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980&t=94)** Imagine we have a hundred terabytes of data to analyze on the left is a serial processing database.
 >
@@ -649,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (10), data (2), [[Databases]] (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2), means that (2), known as (1), is an  (1)
 > **Analogies:** imagine (3)
 > **Env Vars:** sql (1), cpu (1)
@@ -662,8 +651,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Carbon tax rates and carbon intensity
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980)
+#### [Carbon tax rates and carbon intensity](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980&t=32)** We see typically, across Western Europe, the price of carbon ton is nearly $50.
 >
-> **[0:37](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980&t=37)** We see that Microsoft has only allocated $15 per carbon ton in their net neutral carbon pledge.
+> **[0:37](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980&t=37)** We see that [[Microsoft]] has only allocated $15 per carbon ton in their net neutral carbon pledge.
 >
 > **[0:42](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980&t=42)** This could become a problem very quickly if companies do not correctly handle their carbon emissions.
 >
@@ -717,13 +705,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Microsoft]] (1), data (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** ets (2), oecd (1), ppp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSP sustainability calculators
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/csp-sustainability-calculators?u=76281980)
+#### [CSP sustainability calculators](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/csp-sustainability-calculators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/csp-sustainability-calculators?u=76281980&t=11)** While all the CSPs do share the data for greenhouse gases, they are in aggregated form and it is not possible to compare different technologies and fully understand bottom up numbers which could guide you in making corrective decisions.
 >
-> **[0:23](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/csp-sustainability-calculators?u=76281980&t=23)** But still you can use this data for top down reporting of your company's total carbon emission generated by cloud computing.
+> **[0:23](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/csp-sustainability-calculators?u=76281980&t=23)** But still you can use this data for top down reporting of your company's total carbon emission generated by [[Cloud Computing]].
 >
 > **[0:29](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/csp-sustainability-calculators?u=76281980&t=29)** We could use the calculators in creative ways to calculate per service, per (indistinct) carbon emissions.
 >
@@ -755,12 +742,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (4), next (1), power (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Env Vars:** csp (1)
 > **Speakers:** - [fawad] (1)
 
-#### Using golden coefficients for carbon estimation
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/using-golden-coefficients-for-carbon-estimation?u=76281980)
+#### [Using golden coefficients for carbon estimation](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/using-golden-coefficients-for-carbon-estimation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +770,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), power (2), data (1), next (1)
 > **Versions:** 2.1 (1), 0.89 (1), 1.52 (1)
 > **Code Identifiers:** vpcu (1)
 > **Cross-References:** in the next (1)
@@ -797,8 +782,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Energy consumption case study 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-1?u=76281980)
+#### [Energy consumption case study 1](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,14 +818,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), cloud (1)
 > **Versions:** 2.47 (1), 0.62 (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Energy consumption case study 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-2?u=76281980)
+#### [Energy consumption case study 2](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +849,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), node (1), next (1)
 > **CLI Commands:** node (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [presenter] (1)
@@ -877,12 +858,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of consolidation
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980)
+#### [Benefits of consolidation](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=0)** - We talked about how using cloud computing versus on premises computing is analogous to using public transport over private cars.
+> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=0)** - We talked about how using [[Cloud Computing]] versus on premises computing is analogous to using public transport over private cars.
 >
 > **[0:06](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=6)** 50 private cars versus 50 people in one bus has dramatically reduced carbon footprint.
 >
@@ -894,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=24)** Similarly, just because you have moved workloads in the cloud doesn't mean you are getting the full benefits.
 >
-> **[0:30](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=30)** Many companies sometimes do not focus on broader data governance strategy and keep on adding new technologies to the mix.
+> **[0:30](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=30)** Many companies sometimes do not focus on broader [[Data Governance]] strategy and keep on adding new technologies to the mix.
 >
 > **[0:36](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=36)** This not only adds complexity, but it also increases the overall carbon footprint of the organization.
 >
@@ -910,11 +890,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=94)** We discussed in the session, the data and application consolidation in the cloud, which will help you in realizing the full green potential of the cloud.
 >
-> **[1:42](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=102)** Next we will talk about where can you learn more about sustainability and what actions can you take in your organization to implement a sustainability strategy?
+> **[1:42](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980&t=102)** Next we will talk about where can you learn more about [[Sustainability]] and what actions can you take in your organization to implement a sustainability strategy?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (5), business (3), application (2), [[Sustainability]] (2)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Cloud Computing]] (1), [[Data Governance]] (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **CLI Commands:** make (1)
 > **Analogies:** analogous to (1)
@@ -925,12 +905,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980)
+#### [Learning more about sustainability](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=0)** - [Instructor] This is my favorite story regarding sustainability.
+> **[0:00](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=0)** - [Instructor] This is my favorite story regarding [[Sustainability]].
 >
 > **[0:03](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=3)** In 2014, British shoppers took 8.5 billion plastic bags, which went to landfill.
 >
@@ -948,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=42)** Before buying the technology, we'll get to see the carbon emission numbers.
 >
-> **[0:46](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=46)** These are electricity rating stickers you get for electronics in Europe.
+> **[0:46](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=46)** These are electricity rating stickers you get for [[Electronics]] in Europe.
 >
 > **[0:50](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=50)** The way to read the chart is that technology one consumes, on an average, 4.2 kilowatts per hour when it ran for 1,000 hours, while technology three consumes 122.6 kilowatts per hour, on the average, when it runs for 1,000 hours.
 >
@@ -970,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=103)** And now, you should be able to use the methods to calculate carbon utilization for your cloud systems.
 >
-> **[1:49](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=109)** The key takeaways are, one, do not underestimate the small savings at each step of software development.
+> **[1:49](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=109)** The key takeaways are, one, do not underestimate the small savings at each step of [[Software Development]].
 >
 > **[1:57](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980&t=117)** Two, all technologies are not created equal.
 >
@@ -988,7 +967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (2), [[Electronics]] (2), [[Sustainability]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (2), [[Sustainability]] (1), [[Software Development]] (1)
 > **Versions:** 8.5 (1), 4.2 (1), 122.6 (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

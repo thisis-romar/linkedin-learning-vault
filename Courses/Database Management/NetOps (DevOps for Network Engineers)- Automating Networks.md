@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps for network engineers
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980)
+#### [DevOps for network engineers](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=1)** - DevOps is becoming the standard in corporate IT around the world today.
+> **[0:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=1)** - [[DevOps]] is becoming the standard in corporate IT around the world today.
 >
-> **[0:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=5)** It is a set of principles and practices combining software development and IT operations to enable shorter delivery cycle, faster deployment, easier maintenance, and improving team culture.
+> **[0:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=5)** It is a set of principles and practices combining [[Software Development]] and IT operations to enable shorter delivery cycle, faster deployment, easier maintenance, and improving team culture.
 >
 > **[0:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=19)** This course is designed to provide network engineers with the general understanding and practices of DevOps in the network engineering context.
 >
@@ -108,23 +107,22 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=46)** I'm a network engineer, software developer, author, and instructor.
 >
-> **[0:50](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=50)** I have written top selling books and taught highly rated classes on the topics of network automation and Python.
+> **[0:50](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=50)** I have written top selling books and taught highly rated classes on the topics of network automation and [[Python (Programming Language)|Python]].
 >
-> **[0:57](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=57)** I invite you to join me on my LinkedIn Learning course, DevOps for Network Engineers.
+> **[0:57](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980&t=57)** I invite you to join me on my [[LinkedIn]] Learning course, DevOps for Network Engineers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), [[Software Development]] (1), [[Engineering]] (1), [[Automation]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Software Development]] (1), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - devops (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed to introduce you how DevOps concepts could be applied in network engineering.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is designed to introduce you how [[DevOps]] concepts could be applied in network engineering.
 >
 > **[0:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=7)** While we will cover the fundamentals of DevOps, this course drills down on the application of these concepts in the network engineering environment.
 >
@@ -132,15 +130,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=25)** You should also be familiar with the basics of network management and engineering.
 >
-> **[0:29](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=29)** Don't worry, you do not need to be an expert in routing protocols or spanning tree, but you should be comfortable in basic configuration steps for network devices using Cisco iOS or other network operating systems.
+> **[0:29](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=29)** Don't worry, you do not need to be an expert in [[Routing Protocols]] or spanning tree, but you should be comfortable in basic configuration steps for network devices using Cisco iOS or other network operating systems.
 >
-> **[0:43](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=43)** We will operate in a Linux environment using the Bash Shell.
+> **[0:43](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=43)** We will operate in a [[Linux]] environment using the Bash Shell.
 >
-> **[0:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=47)** We'll also use some Ansible playbooks as well as Python scripts.
+> **[0:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=47)** We'll also use some [[Ansible]] playbooks as well as [[Python (Programming Language)|Python]] scripts.
 >
 > **[0:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=51)** Don't worry if you're not familiar with these technologies, the operation example should be easy to follow for their desired output and intend a goal.
 >
-> **[1:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=60)** We're only using them to illustrate the DevOps concepts, such as source control, continuous integration, pipelines and testing.
+> **[1:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=60)** We're only using them to illustrate the DevOps concepts, such as source control, [[Continuous Integration (CI)|continuous integration]], pipelines and testing.
 >
 > **[1:09](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/what-you-should-know?u=76281980&t=69)** While the source files are available to you, this course is not meant to be a lab course where you follow along and perform the exact steps you see on screen to learn a certain technology.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), [[Engineering]] (4), application (3), [[Ansible]] (3), management (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Ansible]] (3), [[Routing Protocols]] (1), [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (3), python (1)
 > **Analogies:** such as (1), for example (1)
 > **Code Identifiers:** ios (1)
@@ -168,16 +166,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980)
+#### [DevOps principles](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=0)** - [Instructor] In this session, let us explore the principles behind DevOps.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=0)** - [Instructor] In this session, let us explore the principles behind [[DevOps]].
 >
 > **[0:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=4)** First of all, what is DevOps?
 >
-> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=6)** As one could guess from the terms, it is a combination of software development, dev, and IT operations, ops.
+> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=6)** As one could guess from the terms, it is a combination of [[Software Development]], dev, and IT operations, ops.
 >
 > **[0:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=13)** Traditionally, we would have separate semi-isolated teams, with one team handling the development of software features.
 >
@@ -209,11 +206,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=132)** For example, we could put together a new data center design, develop an action plan to validate the design, then move forward with the deployment and monitoring.
 >
-> **[2:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=141)** A DevOps principle, such as version control, could be applied to all these three steps.
+> **[2:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=141)** A DevOps principle, such as [[Version Control]], could be applied to all these three steps.
 >
 > **[2:26](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=146)** We could also benefit from another DevOps principles of making small incremental changes that could quickly respond to the changing environment.
 >
-> **[2:34](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=154)** The DevOps principles are highly related to the Agile and Lean software development, so let's take a look at the Lean principles and Agile development process before we move on to the DevOps principles.
+> **[2:34](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=154)** The DevOps principles are highly related to the [[Agile Development|Agile]] and Lean software development, so let's take a look at the Lean principles and Agile development process before we move on to the DevOps principles.
 >
 > **[2:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=167)** What are some of the Lean principles?
 >
@@ -239,11 +236,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=233)** We all know technology changes rapidly.
 >
-> **[3:55](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=235)** The sooner we could get our products into the customer's hands, the faster we could receive the crucial feedback that we need to make the product better.
+> **[3:55](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=235)** The sooner we could get our [[Microsoft Products|products]] into the customer's hands, the faster we could receive the crucial feedback that we need to make the product better.
 >
 > **[4:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=244)** Other principles of Lean include empower the team for decision making, build integrity in the process, and optimize as whole.
 >
-> **[4:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=252)** Let's dive into [[Agile Software Development]] principles.
+> **[4:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=252)** Let's dive into [[[[Agile Software Development]]]] principles.
 >
 > **[4:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980&t=257)** In customer focus, the highest priority is always customer satisfaction, and we should also embrace changes and adapt accordingly.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (15), [[Software Development]] (6), teams (6), [[Engineering]] (5), [[Agile Development|Agile]] (4)
+> **Frameworks & Libraries:** [[DevOps]] (15), [[Software Development]] (6), [[Agile Development|Agile]] (4), [[Version Control]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), for example (2), similar to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -301,22 +298,21 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### DevOps practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980)
+#### [DevOps practices](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=0)** - [Instructor] Having learned the DevOps principles, what are some of the DevOps practices?
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=0)** - [Instructor] Having learned the [[DevOps]] principles, what are some of the DevOps practices?
 >
 > **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=6)** The first DevOps practice is to have a source of truth for the software code, documentation, device configuration or network state.
 >
-> **[0:15](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=15)** This usually means a distributed version control system that all team members could refer to.
+> **[0:15](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=15)** This usually means a distributed [[Version Control]] system that all team members could refer to.
 >
 > **[0:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=22)** The second DevOps practice is to have automated testing.
 >
 > **[0:26](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=26)** Because we're trying to put our emphasis on small incremental changes, we should aim to have automated testing that ensures we do not accidentally break things when these changes are made.
 >
-> **[0:38](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=38)** We should aim to have a system of continuous integration.
+> **[0:38](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=38)** We should aim to have a system of [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=42)** This means having a system for each developer and operations personnel put their changes into the source control, or the source of truth, as quickly as possible.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=59)** It should also be pointed out the continuous integration means to have the changes make their way to the source of truth or version control system and does not equate to deployment.
 >
-> **[1:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=71)** Once we have continuous integration, we could take the next step for continuous delivery or continuous deployment.
+> **[1:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=71)** Once we have continuous integration, we could take the next step for [[Continuous Delivery (CD)|continuous delivery]] or continuous deployment.
 >
 > **[1:18](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=78)** What is the difference between the two?
 >
@@ -342,11 +338,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=130)** The system is crucial to the DevOps practice.
 >
-> **[2:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=133)** In this course, we will use a open source project called GitLab with built-in version control, issue tracking, code review, continuous integration, continuous delivery, and much more.
+> **[2:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=133)** In this course, we will use a open source project called GitLab with built-in version control, issue tracking, [[Code Review]], continuous integration, continuous delivery, and much more.
 >
 > **[2:26](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=146)** One of the newer job roles as a result of the DevOps movement is the rise of site reliability engineering, or SRE.
 >
-> **[2:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=156)** In the words of Google, SRE is what you get when you treat operations as if it is a software problem.
+> **[2:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=156)** In the words of [[Google]], SRE is what you get when you treat operations as if it is a software problem.
 >
 > **[2:44](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-practices?u=76281980&t=164)** The goal of SRE is to protect, provide for, and monitor the software and system behind services.
 >
@@ -372,12 +368,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unique network engineering challenges in DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980)
+#### [Unique network engineering challenges in DevOps](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=0)** - [Instructor] In this section, let's talk about some of the challenges we face in network engineering when we try to adapt DevOps mindsets and practices.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=0)** - [Instructor] In this section, let's talk about some of the challenges we face in network engineering when we try to adapt [[DevOps]] mindsets and practices.
 >
 > **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=8)** The goal is not to create shame or blame.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=57)** The second problem is once the change is made, there's not a lot of ways to keep track of the reasons behind the change or who made them.
 >
-> **[1:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=65)** In other words, we don't have accountability.
+> **[1:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=65)** In other words, we don't have [[Accountability]].
 >
 > **[1:09](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=69)** For example, why do we assign VLAN numbers the way we did?
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=88)** Many times we rely on emails and arbitrary naming conventions to know the latest version of these files.
 >
-> **[1:35](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=95)** The solution to these problems is to adapt a version control system, such as Git.
+> **[1:35](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=95)** The solution to these problems is to adapt a [[Version Control]] system, such as [[Git]].
 >
 > **[1:41](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=101)** We could use the system to keep track of the modification histories, know who made the changes and when, all the while keeping them in a storage system that is distributed and redundant.
 >
@@ -445,7 +440,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=191)** A nice open source project that have grown in popularity is a NetBox project as this single source of truth.
 >
-> **[3:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=199)** Another problem that we're all painfully aware is the fact that in traditional networking, the network equipment requires manual command line interface or CLI to make configuration changes.
+> **[3:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=199)** Another problem that we're all painfully aware is the fact that in traditional networking, the network equipment requires manual command line interface or [[CLI]] to make configuration changes.
 >
 > **[3:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=211)** CLIs are okay for initial configuration and learning, but not for repeated and redundant tasks.
 >
@@ -455,9 +450,9 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=228)** Luckily, thanks to the community effort, we have a number of network automation frameworks and languages to choose from to eliminate this manual intervention.
 >
-> **[3:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=239)** We could use Python programing language and libraries, such as Nornir, Scrapli and NAPALM, to automate the manual configuration process.
+> **[3:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=239)** We could use [[Python (Programming Language)|Python]] programing language and libraries, such as Nornir, Scrapli and NAPALM, to automate the manual configuration process.
 >
-> **[4:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=247)** We could also use automation frameworks, such as Ansible, to automate the changes without manual configuration.
+> **[4:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=247)** We could also use automation frameworks, such as [[Ansible]], to automate the changes without manual configuration.
 >
 > **[4:15](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=255)** Testing is a crucial component in DevOps.
 >
@@ -465,7 +460,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=261)** One of the main reasons has to do with network testing environments.
 >
-> **[4:25](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=265)** The network equipments are specialized hardware devices, optimized to transport packets and frames over the wire as soon as possible.
+> **[4:25](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=265)** The network equipments are specialized [[Hardware]] devices, optimized to transport packets and frames over the wire as soon as possible.
 >
 > **[4:34](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=274)** They're typically expensive.
 >
@@ -507,7 +502,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=411)** And they kind of just push them into the future until they could no longer be ignored.
 >
-> **[6:56](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=416)** The solution here, in my opinion, is the DevOps practice of making small incremental changes as well as adapt to blameless culture that will encourage cross-team collaboration.
+> **[6:56](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=416)** The solution here, in my opinion, is the DevOps practice of making small incremental changes as well as adapt to blameless culture that will encourage [[Cross-team Collaboration]].
 >
 > **[7:09](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/unique-network-engineering-challenges-in-devops?u=76281980&t=429)** I hope by now, you're convinced as I am that as network engineers, we have the tools and processes today to adopt DevOps culture and best practices.
 >
@@ -515,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), [[Engineering]] (3), [[Version Control]] (3), [[Python (Programming Language)|Python]] (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Version Control]] (3), [[Python (Programming Language)|Python]] (3), [[Hardware]] (2), [[Accountability]] (1)
 > **CLI Commands:** make (5), python (3), git (1), ansible (1)
 > **Analogies:** such as (5), for example (4)
 > **Definitions:** is a  (4), in other words (1)
@@ -523,16 +518,15 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980)
+#### [Prerequisites for this course](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=0)** - In this section, let's discuss some of the prerequisites and technologies used in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=6)** As we know by now, DevOps is a set of philosophies, practices, and tools.
+> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=6)** As we know by now, [[DevOps]] is a set of philosophies, practices, and tools.
 >
-> **[0:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=11)** Many of the technologies using our DevOps pipeline, such as Git and pytest once a separate course by themselves, it is simply not possible to do a deep dive on all of them.
+> **[0:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=11)** Many of the technologies using our DevOps pipeline, such as [[Git]] and pytest once a separate course by themselves, it is simply not possible to do a deep dive on all of them.
 >
 > **[0:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=21)** As mentioned in the introduction, this course is not a lab long course where you will follow the course step by step to learn the new technology.
 >
@@ -546,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=59)** Now let's take a look at some of the technology we would use in this course.
 >
-> **[1:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=63)** We will use Linux as the underlying operating system in this course.
+> **[1:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=63)** We will use [[Linux]] as the underlying operating system in this course.
 >
 > **[1:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=67)** Being comfortable in the Linux environment is the only prerequisite for this course.
 >
@@ -570,7 +564,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=131)** If you'd like to go deeper into Cisco technologies and configuration, a good collection of courses would be the Cisco DevNet learning path put together by yours truly.
 >
-> **[2:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=143)** We will use Python as our programming language for scripting examples Python has a welcoming and supportive community.
+> **[2:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=143)** We will use [[Python (Programming Language)|Python]] as our programming language for scripting examples Python has a welcoming and supportive community.
 >
 > **[2:30](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=150)** It is a language of choice by many network automation enthusiasts, including myself.
 >
@@ -580,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=163)** The tutorial will go over the basics of Python, as well as providing resources for all topics related to Python.
 >
-> **[2:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=171)** We will use a few automation examples using Ansible.
+> **[2:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=171)** We will use a few automation examples using [[Ansible]].
 >
 > **[2:55](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=175)** Ansible is one of the most popular infrastructure automation framework.
 >
@@ -594,7 +588,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=202)** Containers are standard units of software that packages up code and all of its dependencies into a single image, which could then be run in an isolated environment.
 >
-> **[3:33](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=213)** They're similar to virtual machines if you have used them before, but more lightweight and quicker to launch.
+> **[3:33](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=213)** They're similar to [[Virtual Machines]] if you have used them before, but more lightweight and quicker to launch.
 >
 > **[3:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=219)** That might sound a bit confusing.
 >
@@ -606,13 +600,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=237)** GitLab is one of them.
 >
-> **[3:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=239)** GitLab is unique with its are being a single location with both a source code repository as well as DevOps automation pipeline for continuous integration delivery.
+> **[3:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=239)** GitLab is unique with its are being a single location with both a source code repository as well as DevOps automation pipeline for [[Continuous Integration (CI)|continuous integration]] delivery.
 >
 > **[4:10](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=250)** This means we do not need to learn one tool for source code repository, then another code to run our automated continuous integration and delivery pipeline.
 >
 > **[4:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=259)** This reduces the complexity and learning curve.
 >
-> **[4:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=262)** We will spend a lot more time in the GitLab environment for the rest of this course.
+> **[4:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=262)** We will spend a lot more time in the GitLab environment for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[4:28](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=268)** I know by now you might feel a little bit overwhelmed by the number of technologies we'll touch in this course.
 >
@@ -624,7 +618,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=291)** They're interchangeable units that we could swap out for your environment if needed be.
 >
-> **[4:56](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=296)** If you like think of using JavaScript instead of Python if you're more familiar with JavaScript, if your company uses Puppet, instead of Instable, that is okay too.
+> **[4:56](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=296)** If you like think of using [[JavaScript]] instead of Python if you're more familiar with JavaScript, if your company uses Puppet, instead of Instable, that is okay too.
 >
 > **[5:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/prerequisites-for-this-course?u=76281980&t=306)** It is more important to follow the flow and integration throughout this course.
 >
@@ -636,7 +630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), [[Python (Programming Language)|Python]] (8), [[Ansible]] (6), [[Automation]] (5), [[Linux]] (4)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Python (Programming Language)|Python]] (8), [[Ansible]] (6), [[Linux]] (4), [[Continuous Integration (CI)|Continuous integration]] (2)
 > **CLI Commands:** python (8), ansible (6), docker (2), git (1), sudo (1)
 > **Tools:** gitlab (3), command line (1), terminal (1)
 > **Analogies:** such as (1), for example (1), similar to (1)
@@ -645,8 +639,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 
-#### Setting up a network DevOps lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980)
+#### [Setting up a network DevOps lab](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=5)** In particular, we'll talk about how the lab is put together for this course.
 >
-> **[0:10](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=10)** In our setup, we'll have a total two virtual machines.
+> **[0:10](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=10)** In our setup, we'll have a total two [[Virtual Machines]].
 >
 > **[0:14](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=14)** The first virtual machine or host will contain our virtualized network gears.
 >
@@ -670,13 +663,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=61)** One is for the development, one is for stage and the one is for production.
 >
-> **[1:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=65)** If you recall, from the DevOps principles what we want to do is we have separate isolated environments so we could safely test against them before we deployment into production.
+> **[1:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=65)** If you recall, from the [[DevOps]] principles what we want to do is we have separate isolated environments so we could safely test against them before we deployment into production.
 >
 > **[1:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=77)** I personally prefer virtualized network labs over physical gears.
 >
 > **[1:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=81)** It is true that virtual network gears do not have 100% feature parity compared to their physical cousin.
 >
-> **[1:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=87)** However, they're more flexible and agile when it comes to changing topologies, with testing different software versions, or have an API to automatically start those labs.
+> **[1:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=87)** However, they're more flexible and [[Agile Development|agile]] when it comes to changing topologies, with testing different software versions, or have an API to automatically start those labs.
 >
 > **[1:38](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=98)** There are several options when it comes to virtualized network labs.
 >
@@ -700,9 +693,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=164)** For the GitLabs server installation, will use the self hosted all-in-one installation.
 >
-> **[2:50](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=170)** GitLab has detailed installation instructions for different flavors of Linux.
+> **[2:50](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=170)** GitLab has detailed installation instructions for different flavors of [[Linux]].
 >
-> **[2:54](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=174)** I have provided a step-by-step guide with a section for the installation steps on the Ubuntu 2004 LTS in the class handout.
+> **[2:54](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=174)** I have provided a step-by-step guide with a section for the installation steps on the [[Ubuntu]] 2004 LTS in the class handout.
 >
 > **[3:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=183)** But if you want to use other flavors of Linux feel free to go over to the instruction page and pick the Linux flavor of your choice.
 >
@@ -780,7 +773,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=436)** Later on we'll see when the CICD pipeline run whether they success or fail, if you have set up SMTP you could easily receive notification that way.
 >
-> **[7:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=447)** So, as you mentioned before the GitLab servers will have the instructions for repositories as well as automation pipeline but the actual running of these instructions for scalability is actually handled by the GitLab Runners and for my lab or the lab for this course we actually use the Docker Runners as our GitLab Runners.
+> **[7:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=447)** So, as you mentioned before the GitLab servers will have the instructions for repositories as well as automation pipeline but the actual running of these instructions for [[Scalability]] is actually handled by the GitLab Runners and for my lab or the lab for this course we actually use the Docker Runners as our GitLab Runners.
 >
 > **[7:48](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/setting-up-a-network-devops-lab?u=76281980&t=468)** So therefore I provided the installation steps for Docker Engine if you want to follow along, and running the Docker just to make sure that it runs on the same host.
 >
@@ -796,7 +789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), product (3), [[Automation]] (2), [[Ubuntu]] (2), data (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Ubuntu]] (2), [[Virtual Machines]] (1), [[DevOps]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** cml (16), yaml (3), bgp (2), asn (2), ospf (2)
 > **Tools:** gitlab (17)
 > **Prerequisites:** set up (3), install (3), configure (3), setup (1)
@@ -805,12 +798,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2)
 > **Code Identifiers:** ios (1)
 
-#### Network automation examples with Python libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980)
+#### [Network automation examples with Python libraries](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=0)** - [Instructor] Two of the most popular methods for network automation today are with Python or a automation frameworks such as Ansible.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=0)** - [Instructor] Two of the most popular methods for network automation today are with [[Python (Programming Language)|Python]] or a automation frameworks such as [[Ansible]].
 >
 > **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=8)** The advantage of using Python is the amount of customization we could do, we can use many of the available Python libraries, modules, self-made scripts, and just the community in general to enhance our network automation pipeline.
 >
@@ -818,7 +810,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=35)** And it is a little bit easier to get started.
 >
-> **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=39)** In this course, we will use both Python and Ansible and see how we can integrate them into our DevOps pipeline using GitLab.
+> **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=39)** In this course, we will use both Python and Ansible and see how we can integrate them into our [[DevOps]] pipeline using GitLab.
 >
 > **[0:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=47)** This is a iterative process, we will start with something simple and gradually add more bits and pieces.
 >
@@ -852,7 +844,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=151)** And I get an error, it says unable negotiate the key exchange with that particular device.
 >
-> **[2:38](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=158)** And if you get this same error, this is a very common error when we're trying to use a newer Linux system with Cisco devices.
+> **[2:38](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=158)** And if you get this same error, this is a very common error when we're trying to use a newer [[Linux]] system with Cisco devices.
 >
 > **[2:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=167)** And it turns out that the negotiation key exchange methods are just not there.
 >
@@ -890,7 +882,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=268)** If you follow that tutorial, or if this is the first time that you've installed a virtual environment, you need to use this command.
 >
-> **[4:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=276)** For me I'm using Ubuntu, so I'm using the apt-get install, will for python-pip, as well as python3-venv.
+> **[4:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=276)** For me I'm using [[Ubuntu]], so I'm using the apt-get install, will for python-pip, as well as python3-venv.
 >
 > **[4:45](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=285)** And after that, I could use the module.
 >
@@ -986,7 +978,7 @@ created: 2026-05-02
 >
 > **[9:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=587)** Basically, the first step is will pull the base image and in this case is official python 3.8.11-buster image.
 >
-> **[9:55](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=595)** And by default, if you don't specify a registry, this will be pull from GitHub registry.
+> **[9:55](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=595)** And by default, if you don't specify a registry, this will be pull from [[GitHub]] registry.
 >
 > **[10:02](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=602)** And we have the following lines, these two are Python specific.
 >
@@ -1030,11 +1022,11 @@ created: 2026-05-02
 >
 > **[12:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=747)** And voila, I am able to run this show version script in a Docker container environment.
 >
-> **[12:34](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=754)** Now this is all ready to be checked into a GitLab, Git repository, and then being executed by our GitLab Runner.
+> **[12:34](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-automation-examples-with-python-libraries?u=76281980&t=754)** Now this is all ready to be checked into a GitLab, [[Git]] repository, and then being executed by our GitLab Runner.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Automation]] (3), [[Ansible]] (3), next (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Ansible]] (3), [[DevOps]] (1), [[Linux]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** python (20), docker (19), ssh (7), make (6), pip (5)
 > **File Paths:** requirements.txt (4), host.yml (3), show_version.py (3)
 > **Env Vars:** ssh (5), yaml (1), ide (1), napalm (1), pyc (1)
@@ -1043,12 +1035,11 @@ created: 2026-05-02
 > **Versions:** 192.168.2 (2), 2.71 (1), 2.72 (1), python 3 (1), 8.11 (1)
 > **Tools:** gitlab (4), visual studio (1), github (1)
 
-#### Network configuration backup example with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980)
+#### [Network configuration backup example with Ansible](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=0)** - [Instructor] Besides Python, another popular way to perform network automation is the use of the Ansible framework.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=0)** - [Instructor] Besides [[Python (Programming Language)|Python]], another popular way to perform network automation is the use of the [[Ansible]] framework.
 >
 > **[0:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=7)** There are several popular automation frameworks out there that's available such as Puppet, Chef and Salt.
 >
@@ -1070,7 +1061,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=92)** So let's get started and see how we could build a playbook and do something.
 >
-> **[1:37](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=97)** And then in later section, we'll go ahead and move this playbook into our GitLab DevOps pipeline.
+> **[1:37](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=97)** And then in later section, we'll go ahead and move this playbook into our GitLab [[DevOps]] pipeline.
 >
 > **[1:44](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=104)** Of course, in order to use Ansible, we'll need to install Ansible, since we've had PIP installed in the last example.
 >
@@ -1144,7 +1135,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=405)** And you will result in this error and that's why we need to set this environmental variable.
 >
-> **[6:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=411)** And the rest of the operations is pretty similar to what we've done before.
+> **[6:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=411)** And the [[Representational State Transfer (REST)|rest]] of the operations is pretty similar to what we've done before.
 >
 > **[6:55](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-example-with-ansible?u=76281980&t=415)** We create a working directory with pip install the requirements file and we install the requirements file.
 >
@@ -1182,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (26), [[Automation]] (8), [[Python (Programming Language)|Python]] (6), [[Programming]] (2), next (2)
+> **Frameworks & Libraries:** [[Ansible]] (26), [[Python (Programming Language)|Python]] (6), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** ansible (26), docker (12), python (6), pip (5), make (2)
 > **Code Identifiers:** ios (10)
 > **Env Vars:** yaml (5), pip (4), ssh (1)
@@ -1196,14 +1187,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980)
+#### [Introduction to Git](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=0)** - [Instructor] In this section, let's talk about an important source control system, Git.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=0)** - [Instructor] In this section, let's talk about an important source control system, [[Git]].
 >
-> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=6)** If you recall from the last section, three of the most important DevOps principles are collaboration environments with joint responsibilities, continuous development, integration, and deployment cycle and automation in all three steps.
+> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=6)** If you recall from the last section, three of the most important [[DevOps]] principles are collaboration environments with joint responsibilities, continuous development, integration, and deployment cycle and automation in all three steps.
 >
 > **[0:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=21)** If we dig deeper into the three requirements, we could see the need for a joint space to collaborate is required for all three.
 >
@@ -1213,13 +1203,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=39)** In other words, we need a source control system.
 >
-> **[0:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=42)** A source control system, also known as revision or version control, is a way to manage code and related files to track changes and allow users to retrieve any of the previous versions of the original files.
+> **[0:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=42)** A source control system, also known as revision or [[Version Control]], is a way to manage code and related files to track changes and allow users to retrieve any of the previous versions of the original files.
 >
 > **[0:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=59)** Git is one of the most if not the most popular version control system in use today.
 >
 > **[1:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=64)** Some other VCSs you may have heard of are VCS, CVS, SVN and Mercurial, but Git is the most popular today and widely used for both public and private projects.
 >
-> **[1:16](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=76)** In fact, the source code for both the Linux kernel and Python are both using Git as their version control system.
+> **[1:16](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=76)** In fact, the source code for both the [[Linux]] kernel and [[Python (Programming Language)|Python]] are both using Git as their version control system.
 >
 > **[1:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=84)** Git was created by Linus Torvalds for the development of the Linux kernel back in 2005.
 >
@@ -1231,7 +1221,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=108)** It is also fast and efficient with features such as compression and delta check.
 >
-> **[1:54](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=114)** Other advantages of Git include maintaining accountability by enforcing a changelog every time a change is made.
+> **[1:54](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=114)** Other advantages of Git include maintaining [[Accountability]] by enforcing a changelog every time a change is made.
 >
 > **[2:02](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980&t=122)** The data object in Git cannot be modified once they're created and placed in the database, making them immutable.
 >
@@ -1283,7 +1273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (16), [[Version Control]] (4), [[DevOps]] (3), [[Linux]] (2), feature (2)
+> **Frameworks & Libraries:** [[Git]] (16), [[Version Control]] (4), [[DevOps]] (3), [[Linux]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** git (16), make (2), python (1)
 > **Definitions:** is a  (3), in other words (1), known as (1)
 > **Analogies:** such as (4)
@@ -1291,12 +1281,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Git operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980)
+#### [Basic Git operations](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=0)** - [Instructor] All right, let's look at some Git examples and operations.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=0)** - [Instructor] All right, let's look at some [[Git]] examples and operations.
 >
 > **[0:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=3)** Before we start it, I want to point out, there's a Basic_Git_Operations.txt file attached along with this course that you could download and practice with.
 >
@@ -1382,7 +1371,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=257)** So right now, I have origin and the origin is my only remote, so in other words, you could have multiple remotes, right?
 >
-> **[4:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=263)** Like you could have something that is GitLab based and then you could have another remote that is GitHub perhaps.
+> **[4:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=263)** Like you could have something that is GitLab based and then you could have another remote that is [[GitHub]] perhaps.
 >
 > **[4:29](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=269)** So you could have synchronization on multiple locations.
 >
@@ -1392,7 +1381,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=286)** So if I just do a git push for my origin remote, and now if I come back to my GitLab, if I do a refresh, and then go ahead and take a look at and then you could see that I have added something, right?
 >
-> **[5:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=300)** So now that I could go ahead and form my team members, or if they just do a periodic pull, whatever my change is would be visible and synchronized to the rest of the team.
+> **[5:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=300)** So now that I could go ahead and form my team members, or if they just do a periodic pull, whatever my change is would be visible and synchronized to the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[5:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=311)** So let's just say I don't like this file and I wanted to go ahead and delete this file.
 >
@@ -1508,7 +1497,7 @@ created: 2026-05-02
 >
 > **[11:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=663)** This is all part of the DevOp process.
 >
-> **[11:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=665)** Remember, we want more communication, we want to document changes and we want to have accountability.
+> **[11:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=665)** Remember, we want more communication, we want to document changes and we want to have [[Accountability]].
 >
 > **[11:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=673)** So what I could do is I could say I pushed the line numbers up and obviously, in the real environment, I will be more verbose but in this case, I'm just going to assign to myself.
 >
@@ -1530,11 +1519,11 @@ created: 2026-05-02
 >
 > **[12:18](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=738)** Anyhow, I hope you enjoyed the demonstration.
 >
-> **[12:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=741)** I think Git is an amazing source control system that allows collaboration as we see say in DevOps, as well as you could see some of the extra features GitLab added to revolve around that DevOps process.
+> **[12:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/basic-git-operations?u=76281980&t=741)** I think Git is an amazing source control system that allows collaboration as we see say in [[DevOps]], as well as you could see some of the extra features GitLab added to revolve around that DevOps process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (32), [[DevOps]] (2), web (1), prompt (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Git]] (32), [[DevOps]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Accountability]] (1)
 > **CLI Commands:** git (32), make (9), find (1)
 > **Code Identifiers:** my_first_file (7), copp_change (6), my_first_project (3)
 > **Tools:** gitlab (9), command line (2), vim (1), github (1)
@@ -1543,18 +1532,17 @@ created: 2026-05-02
 > **File Paths:** my_first_file.txt (3), basic_git_operations.txt (1), copp-acl.txt (1)
 > **Definitions:** in other words (2), is an  (1)
 
-#### GitLab fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980)
+#### [GitLab fundamentals](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=0)** - [Instructor] In this section and the next few sections, we'll take a look at how GitLab fits into the DevOps picture.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=0)** - [Instructor] In this section and the next few sections, we'll take a look at how GitLab fits into the [[DevOps]] picture.
 >
 > **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=6)** We'll use GitLab as a tool to illustrate these practices and features that we can actually implement into our development environment today, and how they can help us enforce the DevOps principles and practices.
 >
 > **[0:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=19)** Let's start with the GitLab fundamentals.
 >
-> **[0:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=23)** GitLab describes itself as the DevOps platform that empowers organization to maximize the overall return on software development by delivering software faster and more efficient while strengthening security and compliance.
+> **[0:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=23)** GitLab describes itself as the DevOps platform that empowers organization to maximize the overall return on [[Software Development]] by delivering software faster and more efficient while strengthening security and compliance.
 >
 > **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=39)** To me, the biggest difference between GitLab and other platforms is its integration of a source control system, as well as a CI/CD engine into the same platform.
 >
@@ -1564,9 +1552,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=71)** And it's nice to have those two pieces fit in together, as well as some of the other features that we'll see later on in this course that GitLab implement that fits pretty well with the DevOps principles that we've been learning and practicing so far.
 >
-> **[1:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=87)** Personally, I used to use GitHub, and I still do for some of my projects for repositories to store files.
+> **[1:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=87)** Personally, I used to use [[GitHub]], and I still do for some of my projects for repositories to store files.
 >
-> **[1:33](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=93)** Then, use another platform such as Jenkins, when I need to execute and run my automated delivery pipeline.
+> **[1:33](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=93)** Then, use another platform such as [[Jenkins]], when I need to execute and run my automated delivery pipeline.
 >
 > **[1:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=99)** And because they were two separate tools, there were extra steps needed in order for the tools to work together, whereas in GitLab it's integrated into a single platform.
 >
@@ -1624,7 +1612,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=322)** Or if this is built by somebody else, and they're only giving you more restricted rights as the user rather than the admin.
 >
-> **[5:30](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=330)** Assuming you follow the step we've laid out and installed this on, say a Ubuntu VM, then you would have access to instance level configuration options.
+> **[5:30](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=330)** Assuming you follow the step we've laid out and installed this on, say a [[Ubuntu]] VM, then you would have access to instance level configuration options.
 >
 > **[5:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-fundamentals?u=76281980&t=342)** If you recall, we've already created my first project.
 >
@@ -1676,7 +1664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), ci (8), cd (7), [[Ubuntu]] (2), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Ubuntu]] (2), [[Software Development]] (1), [[GitHub]] (1), [[Jenkins]] (1)
 > **Tools:** gitlab (27), github (1)
 > **CLI Commands:** cd (7), docker (4)
 > **Definitions:** is a  (5)
@@ -1685,12 +1673,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), click on (1)
 > **Versions:** 20.04 (1), 14.6 (1)
 
-#### Network application example
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980)
+#### [Network application example](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=0)** - Remember before we had a show version Python script that we could run locally.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=0)** - Remember before we had a show version [[Python (Programming Language)|Python]] script that we could run locally.
 >
 > **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=6)** Let's see how we could put this file onto GitLab and have it execute for us automatically using the previous knowledge that we've gained from the last few sections.
 >
@@ -1712,7 +1699,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=76)** So let's go ahead and create a branch.
 >
-> **[1:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=79)** So if we do a git branch, we see right now is the copp change.
+> **[1:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=79)** So if we do a [[Git]] branch, we see right now is the copp change.
 >
 > **[1:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-application-example?u=76281980&t=83)** So for do a git checkout main, right?
 >
@@ -1804,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (11), [[Python (Programming Language)|Python]] (5), web (1)
+> **Frameworks & Libraries:** [[Git]] (11), [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** git (11), python (5), docker (3), make (1)
 > **File Paths:** host.yaml (3), version.py (2), copp-acl.txt (1), hostfile.yml (1)
 > **Env Vars:** cicd (3), yaml (1)
@@ -1813,8 +1800,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Versions:** 71.72 (1)
 
-#### GitLab DevOps CI/CD pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980)
+#### [GitLab DevOps CI/CD pipelines](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,7 +1808,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=4)** In this section, let's go ahead and take a more detailed look at it.
 >
-> **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=8)** In DevOps, CI/CD or continuous integration and continuous delivery is an important concept.
+> **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=8)** In [[DevOps]], CI/CD or [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] is an important concept.
 >
 > **[0:14](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=14)** As we mentioned before, this is usually where we spend most of our time to develop our steps in automation.
 >
@@ -1830,15 +1816,15 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=36)** In particular, if we use GitLab pipeline as an example, they could generally be divide into four stages: build, test, staging and production.
 >
-> **[0:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=47)** If we use a compile language such as Java that requires taking the source code and compile it into a binary software before we could use it, this step is generally done in the build stage.
+> **[0:47](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=47)** If we use a compile language such as [[Java]] that requires taking the source code and compile it into a binary software before we could use it, this step is generally done in the build stage.
 >
-> **[1:02](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=62)** But as network engineers, we generally use non-compiled languages such as Java or Ansible.
+> **[1:02](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=62)** But as network engineers, we generally use non-compiled languages such as Java or [[Ansible]].
 >
 > **[1:10](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=70)** So generally I would just interpret the build stage as just running the code and taking care of any steps needed before we run this code, such as PIP install certain libraries.
 >
 > **[1:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=81)** Since DevOps is all about streamline processes and automate our steps, testing is crucial in ensuring any new features or bug fixes do not break existing base nor does it introduce new issues.
 >
-> **[1:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=96)** And testing could be divided into certain categories such as unit tests, acceptance tests, integration testing and so on.
+> **[1:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=96)** And testing could be divided into certain categories such as unit tests, acceptance tests, [[Integration Testing]] and so on.
 >
 > **[1:44](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=104)** And testing used to be the job of QA engineers.
 >
@@ -1864,7 +1850,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=186)** It is not possible in all cases, but if we could we should make the deployment in stages.
 >
-> **[3:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=192)** For example, we could deploy the new changes into a small percentage of our devices, then gradually migrate to the rest of the devices.
+> **[3:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=192)** For example, we could deploy the new changes into a small percentage of our devices, then gradually migrate to the [[Representational State Transfer (REST)|rest]] of the devices.
 >
 > **[3:21](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-devops-ci-cd-pipelines?u=76281980&t=201)** In this way we could discover any possible defects and roll back if needed.
 >
@@ -1884,7 +1870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (4), cd (4), [[DevOps]] (2), [[Automation]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Java]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Ansible]] (1)
 > **CLI Commands:** cd (4), ansible (1), pip (1), make (1)
 > **Tools:** gitlab (6)
 > **Analogies:** such as (5), for example (1)
@@ -1893,8 +1879,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Exercise Files:** source code (1)
 
-#### GitLab pipeline example: Build
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980)
+#### [GitLab pipeline example: Build](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,9 +1887,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=4)** Start with the build stage.
 >
-> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=6)** The build stage is typically used when you're using a compile language that requires a compilation process, such as when you're using Java or C when we need to translate the code into a binary and the binary could be then taken for testing, for deployment and so on.
+> **[0:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=6)** The build stage is typically used when you're using a compile language that requires a compilation process, such as when you're using [[Java]] or C when we need to translate the code into a binary and the binary could be then taken for testing, for deployment and so on.
 >
-> **[0:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=22)** In our case, we're using Python, so the build process is considerably less involved.
+> **[0:22](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=22)** In our case, we're using [[Python (Programming Language)|Python]], so the build process is considerably less involved.
 >
 > **[0:27](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=27)** In our case, we could just think of the build process as getting everything ready for the next step.
 >
@@ -2020,11 +2005,11 @@ created: 2026-05-02
 >
 > **[9:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=547)** So the artifact is a pretty important concept to realize, both for compilation and non-compilation languages.
 >
-> **[9:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=557)** If you're wondering about where I find these keywords, before_script, or images or artifacts, it is within the GitLab documentation, and this is where one of the things that we would constantly do is we know the concepts of DevOps, we know the principles and processes, however, in order to execute and realize those concepts and steps, we need an actual application, which will go back to whatever tools we choose, whether it be Jenkins, or let it be GitHub and look through the documentation and see which of these functions, preexisting features that will match our desired principles or processes.
+> **[9:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-build?u=76281980&t=557)** If you're wondering about where I find these keywords, before_script, or images or artifacts, it is within the GitLab documentation, and this is where one of the things that we would constantly do is we know the concepts of [[DevOps]], we know the principles and processes, however, in order to execute and realize those concepts and steps, we need an actual application, which will go back to whatever tools we choose, whether it be [[Jenkins]], or let it be [[GitHub]] and look through the documentation and see which of these functions, preexisting features that will match our desired principles or processes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (6), cd (5), [[Python (Programming Language)|Python]] (3), next (3), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Java]] (1), [[DevOps]] (1), [[Jenkins]] (1), [[GitHub]] (1)
 > **Code Identifiers:** show_version (9), before_script (3), ios (1)
 > **CLI Commands:** cd (5), python (3), pip (2), docker (1), find (1)
 > **Cross-References:** go back to (4), in the next (1), we mentioned (1)
@@ -2033,12 +2018,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** go to (1), click on (1)
 
-#### GitLab pipeline example: Review and test
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-review-and-test?u=76281980)
+#### [GitLab pipeline example: Review and test](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-review-and-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-review-and-test?u=76281980&t=0)** - [Instructor] We've talked about the importance of collaboration and communication in DevOps.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-review-and-test?u=76281980&t=0)** - [Instructor] We've talked about the importance of collaboration and communication in [[DevOps]].
 >
 > **[0:05](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-review-and-test?u=76281980&t=5)** Let's see, with an example, how we could do that.
 >
@@ -2164,7 +2148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (1), [[Search]] (1), ci (1), cd (1), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** pip (4), make (2), cd (1)
 > **Cross-References:** go back to (4), as you saw (1)
 > **Prerequisites:** install (4)
@@ -2173,8 +2157,7 @@ created: 2026-05-02
 > **File Paths:** show_version.py (1)
 > **Tools:** gitlab (1)
 
-#### GitLab pipeline example: Deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-deploy?u=76281980)
+#### [GitLab pipeline example: Deploy](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,14 +2197,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (1)
 > **Tools:** gitlab (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitLab pipeline example: Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-monitor?u=76281980)
+#### [GitLab pipeline example: Monitor](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-pipeline-example-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2249,7 +2230,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (2), cd (2), generic (1)
 > **CLI Commands:** cd (2), make (1)
 > **Env Vars:** bgp (2), utc (1)
 > **Ports:** :00 (2)
@@ -2261,12 +2241,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network configuration backup with Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980)
+#### [Network configuration backup with Ansible](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=0)** - [Instructor] If you recall a few sections ago, we used a Ansible playbook to backup configuration our stage devices.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=0)** - [Instructor] If you recall a few sections ago, we used a [[Ansible]] playbook to backup configuration our stage devices.
 >
 > **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=8)** In this section let's, expand on that example to be a more realistic playbook, realistic inventory file, and build from there into a CI/CD pipeline as an example.
 >
@@ -2356,7 +2335,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=362)** So basically what I want to do is I want to use the same playbook for both of the environments.
 >
-> **[6:09](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=369)** What does that help us to do, essentially for DevOps if you remember, we want to be able to reduce the variables and reduce ambiguity as much as possible.
+> **[6:09](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=369)** What does that help us to do, essentially for [[DevOps]] if you remember, we want to be able to reduce the variables and reduce ambiguity as much as possible.
 >
 > **[6:20](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=380)** So we could certainly have a playbook that backup staging environment and once that works, we copy and paste that same playbook to backup our production environment, that's doable and could declare them into the same pipeline.
 >
@@ -2402,13 +2381,13 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=516)** So that is a more realistic playbook and the associate host files variables and so on.
 >
-> **[8:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=522)** So in the next section, let's see how we could use this and build a more realistic CI/CD pipeline throughout DevOps environment which is GitHub.
+> **[8:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=522)** So in the next section, let's see how we could use this and build a more realistic CI/CD pipeline throughout DevOps environment which is [[GitHub]].
 >
 > **[8:54](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980&t=534)** I'll see you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (2), ci (2), cd (2), [[DevOps]] (2), data (1)
+> **Frameworks & Libraries:** [[Ansible]] (2), [[DevOps]] (2), [[GitHub]] (1)
 > **Code Identifiers:** ios (9), ansible_network_os (4), ansible_user (4), stage_cor (3), stage_edge (3)
 > **Env Vars:** lax (2), nyc (1), ebgb (1), ospf (1), igp (1)
 > **Definitions:** is a  (3), is called (2)
@@ -2417,8 +2396,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 
-#### GitLab integration for configuration backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980)
+#### [GitLab integration for configuration backup](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2430,7 +2408,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=29)** And we'll follow the same process that we've done before, we'll perform something simple, then gradually build on top of the previous step.
 >
-> **[0:37](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=37)** I took the first initial step of synchronizing the GitLab repository with the local code that we've done before, so as you can see here, I went ahead and do a git commit, git push, git add, get push to this remote repository and now we have the exact same files as we have on the local repository.
+> **[0:37](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=37)** I took the first initial step of synchronizing the GitLab repository with the local code that we've done before, so as you can see here, I went ahead and do a [[Git]] commit, git push, git add, get push to this remote repository and now we have the exact same files as we have on the local repository.
 >
 > **[0:59](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=59)** So let's go ahead and build this pipeline.
 >
@@ -2438,7 +2416,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=67)** This basically allows us to not having to do a pip install for every single package.
 >
-> **[1:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=73)** So basically what we've done is we did a pip freeze, as you could see, this specifies all the packages, all the dependencies that Python uses, and what we did was pip freeze and then just go ahead and redirect all the outputs to requirements.txt so that we could use the single pip -pip install -r command to install the necessary packages and dependencies that we need.
+> **[1:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=73)** So basically what we've done is we did a pip freeze, as you could see, this specifies all the packages, all the dependencies that [[Python (Programming Language)|Python]] uses, and what we did was pip freeze and then just go ahead and redirect all the outputs to requirements.txt so that we could use the single pip -pip install -r command to install the necessary packages and dependencies that we need.
 >
 > **[1:37](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=97)** Let's go ahead and build the pipeline.
 >
@@ -2446,7 +2424,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=106)** So to begin with, we could probably just go ahead and have one single stage like we've done before, put one job, specify the image, and hard code all the environmental variables using the variables keyword.
 >
-> **[2:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=121)** This Ansible host key checking is a way for Ansible to not error it out, if this is the first time that you're SSH to device, because they do rely on (indistinct) to SSH to a device.
+> **[2:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=121)** This [[Ansible]] host key checking is a way for Ansible to not error it out, if this is the first time that you're SSH to device, because they do rely on (indistinct) to SSH to a device.
 >
 > **[2:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=133)** So this is pretty straightforward, the script we've done is pip3 install -r reading from the requirements file, and we're going to set the source as stage and then we're going to run that playbook for our stage hosts.
 >
@@ -2532,7 +2510,7 @@ created: 2026-05-02
 >
 > **[9:23](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=563)** So awesome.
 >
-> **[9:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=564)** As you can see, building a pipeline is an iterative process, and it's a combination of utilizing GitLab's utility or whatever tools you choose for your DevOps pipeline, their utilities as well as the underlying tools utility, in this case, Ansible for testing, for deployment, and so on.
+> **[9:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=564)** As you can see, building a pipeline is an iterative process, and it's a combination of utilizing GitLab's utility or whatever tools you choose for your [[DevOps]] pipeline, their utilities as well as the underlying tools utility, in this case, Ansible for testing, for deployment, and so on.
 >
 > **[9:45](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/gitlab-integration-for-configuration-backup?u=76281980&t=585)** So as we start adding more and more steps, stages, features to our build pipeline, it could get long and it could get pretty complex.
 >
@@ -2540,7 +2518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), ci (4), cd (4), [[Git]] (3), feature (3)
+> **Frameworks & Libraries:** [[Ansible]] (7), [[Git]] (3), [[Python (Programming Language)|Python]] (2), [[DevOps]] (2)
 > **CLI Commands:** ansible (7), make (5), pip (5), cd (4), git (3)
 > **Definitions:** is a  (3), is an  (2)
 > **Tools:** gitlab (4)
@@ -2549,12 +2527,11 @@ created: 2026-05-02
 > **File Paths:** requirements.txt (2)
 > **Ports:** :00 (2)
 
-#### Network API application example
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980)
+#### [Network API application example](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=0)** - [Instructor] Let's take a look at a Python API example of application, and in the next lesson, we'll put this API application into our CI/CD pipeline.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=0)** - [Instructor] Let's take a look at a [[Python (Programming Language)|Python]] API example of application, and in the next lesson, we'll put this API application into our CI/CD pipeline.
 >
 > **[0:10](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=10)** This isn't actually a skill down example from my book, "Mastering Python Networking", third edition.
 >
@@ -2596,7 +2573,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=108)** Basically it has the Flask package that's being installed.
 >
-> **[1:53](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=113)** It has a simple routing.
+> **[1:53](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=113)** It has a simple [[Routing]].
 >
 > **[1:54](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=114)** It has routes to route and it'll return, Hello World.
 >
@@ -2666,13 +2643,13 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=331)** So in a nutshell, that is the application, pretend you're developer, and you've constructed this really useful API.
 >
-> **[5:40](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=340)** And now we're trying to take this application, and I'm going to tie into my DevOps pipeline, and say, how can we do a CI/CD pipeline?
+> **[5:40](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=340)** And now we're trying to take this application, and I'm going to tie into my [[DevOps]] pipeline, and say, how can we do a CI/CD pipeline?
 >
 > **[5:49](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-application-example?u=76281980&t=349)** That's what we're going to do next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), application (6), api (4), next (2), ci (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Routing]] (1), [[DevOps]] (1)
 > **Env Vars:** api (4), yaml (3), lax (2), r2000 (1), url (1)
 > **CLI Commands:** python (7), cd (2)
 > **Cross-References:** go back to (2), in the next (1)
@@ -2681,8 +2658,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **File Paths:** main.py (1)
 
-#### Network API integration with GitLab
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-integration-with-gitlab?u=76281980)
+#### [Network API integration with GitLab](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-integration-with-gitlab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2774,11 +2750,11 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-integration-with-gitlab?u=76281980&t=371)** And if I go ahead and check, I could see that this image was pushed over with devops_python_example and now anybody with the right access could come and pull that image and deploy in their own environment.
 >
-> **[6:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-integration-with-gitlab?u=76281980&t=384)** So in short, I know this is a bit of a advanced features, which is why I want to leave it to the end to explain once we have a familiarity with what DevOps principles are, what the pipeline entails, so these are kind of advanced features if you want to have dedicated runner instead of shared runner and the dedicated runner has elevated privilege, and using some of the other more advanced features for GitLab.
+> **[6:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-api-integration-with-gitlab?u=76281980&t=384)** So in short, I know this is a bit of a advanced features, which is why I want to leave it to the end to explain once we have a familiarity with what [[DevOps]] principles are, what the pipeline entails, so these are kind of advanced features if you want to have dedicated runner instead of shared runner and the dedicated runner has elevated privilege, and using some of the other more advanced features for GitLab.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), ci (3), cd (3), feature (2), api (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** docker (26), cd (3), make (2)
 > **Env Vars:** ci_registry (2), api (1), ci_registry_image (1), ci_commit_short_sha (1), image (1)
 > **Tools:** gitlab (6), terminal (1)
@@ -2792,12 +2768,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980)
+#### [Testing fundamentals](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=0)** - [Instructor] Let's talk about testing fundamentals in DevOps.
+> **[0:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=0)** - [Instructor] Let's talk about testing fundamentals in [[DevOps]].
 >
 > **[0:04](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=4)** DevOps allows development and operation teams to collaborate smoothly and deliver results continuously.
 >
@@ -2811,7 +2786,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=35)** Any form of verification is a form of testing.
 >
-> **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=39)** In traditional testing, we have had dedicated testing teams that perform quality assurance at the tail end of the development cycle.
+> **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=39)** In traditional testing, we have had dedicated testing teams that perform [[Quality Assurance]] at the tail end of the development cycle.
 >
 > **[0:48](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=48)** Or we would have infrastructure testing and monitoring tools after we deploy our gears.
 >
@@ -2831,7 +2806,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=91)** Testing could also be categorized into several types.
 >
-> **[1:35](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=95)** In unit testing, we test a small unit of a function, code block or procedure.
+> **[1:35](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=95)** In [[Unit Testing]], we test a small unit of a function, code block or procedure.
 >
 > **[1:40](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=100)** This is the smallest testable part of a code or operation.
 >
@@ -2841,7 +2816,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=123)** For end to end testing, we test both the functionality as well as the performance of an application under production-like environment.
 >
-> **[2:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=132)** Other test includes performance, load, security, compliance or API testing.
+> **[2:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=132)** Other test includes performance, load, security, compliance or [[API Testing]].
 >
 > **[2:19](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=139)** As we can see from the list, the test moves from small to large in scale.
 >
@@ -2849,17 +2824,17 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=151)** In practice, we will spend most of the time in unit test because they're the easiest to do and can point us to a more precise cause of an error if any.
 >
-> **[2:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=162)** If you recall from previous lessons, network engineers used to have difficult times with testing environments because network hardware is expensive and difficult to manipulate.
+> **[2:42](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=162)** If you recall from previous lessons, network engineers used to have difficult times with testing environments because network [[Hardware]] is expensive and difficult to manipulate.
 >
 > **[2:52](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=172)** With the advance of virtualization, we could typically use platforms such as CML, GNS3 and Eve-NG for many of the tests we want to do.
 >
 > **[3:02](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=182)** We also have several testing frameworks available to choose from.
 >
-> **[3:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=186)** We can use pytest to test our Python code as well as frameworks such as pyATS, Batfish and Suzieq to simplify our narrow testing.
+> **[3:06](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980&t=186)** We can use pytest to test our [[Python (Programming Language)|Python]] code as well as frameworks such as pyATS, Batfish and Suzieq to simplify our narrow testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), teams (2), [[Quality Assurance]] (1), [[Unit Testing]] (1), functional (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Quality Assurance]] (1), [[Unit Testing]] (1), [[API Testing]] (1), [[Hardware]] (1)
 > **Env Vars:** api (1), cml (1), gns3 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), python (1)
@@ -2867,8 +2842,7 @@ created: 2026-05-02
 > **Code Identifiers:** pyats (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing with pytest
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-with-pytest?u=76281980)
+#### [Testing with pytest](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-with-pytest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2958,7 +2932,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-with-pytest?u=76281980&t=240)** So those three are just quick tests or Pytests.
 >
-> **[4:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-with-pytest?u=76281980&t=243)** If you have used the standard library unit test before within Python you could kind of tell, Pytest is a lot more simpler to use as well as provides better error message when some error happens.
+> **[4:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-with-pytest?u=76281980&t=243)** If you have used the standard library unit test before within [[Python (Programming Language)|Python]] you could kind of tell, Pytest is a lot more simpler to use as well as provides better error message when some error happens.
 >
 > **[4:17](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-with-pytest?u=76281980&t=257)** So, Pytest is becoming the preferred testing, at least in the Python world the preferred testing module to use.
 
@@ -2973,8 +2947,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network testing with pyATS
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980)
+#### [Network testing with pyATS](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2990,7 +2963,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=25)** So the community could freely contribute to the framework for different parsers, it doesn't have to be Cisco-specific.
 >
-> **[0:32](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=32)** It does have a bit of a learning curve just because it's such a powerful framework, but I would highly recommend any DevOps, engineers with network focus to take a look at pyATS.
+> **[0:32](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=32)** It does have a bit of a learning curve just because it's such a powerful framework, but I would highly recommend any [[DevOps]], engineers with network focus to take a look at pyATS.
 >
 > **[0:43](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=43)** Look at some of the reusable parsers, triggers, and the usage.
 >
@@ -3034,7 +3007,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=156)** In this testbed, I only have one device, that's our lax-edg-r1, with the management IP address and some of the topology, interface Ips, and loopback Ips.
 >
-> **[2:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=166)** And in the Python, our pyATS example was taken directly from this link.
+> **[2:46](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=166)** And in the [[Python (Programming Language)|Python]], our pyATS example was taken directly from this link.
 >
 > **[2:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-with-pyats?u=76281980&t=171)** You could take a look if you want to see the original one.
 >
@@ -3094,7 +3067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[Python (Programming Language)|Python]] (2), [[Automation]] (1), management (1), feature (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** pyats (6)
 > **CLI Commands:** python (2), docker (1), pip (1)
 > **Definitions:** is a  (4)
@@ -3103,8 +3076,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Prerequisites:** install (2)
 
-#### Network testing in GitLab
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980)
+#### [Network testing in GitLab](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3120,7 +3092,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=29)** Then I would upgrade the device.
 >
-> **[0:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=31)** I would check the device again for the newly upgraded OS, and then I would typically perform some sanity check for the rest of the network.
+> **[0:31](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=31)** I would check the device again for the newly upgraded OS, and then I would typically perform some sanity check for the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[0:39](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=39)** So if we think about it, if we want to check the current OS what we could do is we could use what we've learned from pytest, using the request package goes into a device and to assert equal that the OS version is what we would expect, right?
 >
@@ -3144,7 +3116,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=111)** Linting is basically what we would check for some kind of uniform style guide, and there are tools for that.
 >
-> **[1:58](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=118)** So for Python is a center called PEP 8.
+> **[1:58](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=118)** So for [[Python (Programming Language)|Python]] is a center called PEP 8.
 >
 > **[2:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-testing-in-gitlab?u=76281980&t=121)** You know, it tells about not leaving any extra space at the end, how many characters we should have in the line, the indentation common practice, and so on and so forth.
 >
@@ -3182,7 +3154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), ci (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cicd (3), bgpa (1), pep (1), bgb (1)
 > **Tools:** gitlab (3)
 > **Code Identifiers:** pyats (2)
@@ -3196,14 +3168,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=1)** - We have covered a lot of ground in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=3)** If you're new to the world of DevOps, there's certainly a lot of information to digest.
+> **[0:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=3)** If you're new to the world of [[DevOps]], there's certainly a lot of information to digest.
 >
 > **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=8)** Keep in mind, DevOps is a set of principles.
 >
@@ -3221,29 +3192,28 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=45)** If you would like to know more about DevOps' principles, take a look at some of the recommended list of books and classes I included with this course.
 >
-> **[0:53](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=53)** They range from principles, practices, testing, network automation, Linux, and other topics.
+> **[0:53](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=53)** They range from principles, practices, testing, network automation, [[Linux]], and other topics.
 >
 > **[1:00](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980&t=60)** Finally, take a deep breath, relax, and enjoy the right.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[Automation]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Linux]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
 
-#### Conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980)
+#### [Conclusion](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=1)** - Throughout this course, we have looked at several different and important aspects of DevOps in the network engineering context.
+> **[0:01](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=1)** - Throughout this course, we have looked at several different and important aspects of [[DevOps]] in the network engineering context.
 >
 > **[0:08](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=8)** We spent some time talking about DevOps principles and practices.
 >
-> **[0:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=13)** We also saw examples of applying them in network engineering with tools such as Git, GitLab, Python, Ansible, and various testing frameworks.
+> **[0:13](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=13)** We also saw examples of applying them in network engineering with tools such as [[Git]], GitLab, [[Python (Programming Language)|Python]], [[Ansible]], and various testing frameworks.
 >
 > **[0:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=24)** We spent a good chunk of time discussing DevOps pipelines of building, reviewing, testing, and deployment.
 >
@@ -3253,7 +3223,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=49)** I hope you have found this course to be helpful in gaining fundamental knowledge of DevOps in network engineering.
 >
-> **[0:56](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=56)** Also, I hope you're now comfortable in using DevOps tools to help manage your network better.
+> **[0:56](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=56)** Also, I hope you're now comfortable in using [[DevOps Tools]] to help manage your network better.
 >
 > **[1:03](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=63)** I want to thank you for your time in this course.
 >
@@ -3261,7 +3231,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=72)** My commitment does not end when this course is over.
 >
-> **[1:15](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=75)** I will do my best to respond to comments, questions, and suggestions on Twitter, LinkedIn, and GitHub.
+> **[1:15](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=75)** I will do my best to respond to comments, questions, and suggestions on Twitter, [[LinkedIn]], and [[GitHub]].
 >
 > **[1:24](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/conclusion?u=76281980&t=84)** I love learning and sharing knowledge.
 >
@@ -3271,7 +3241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), [[Engineering]] (3), [[Git]] (1), [[Python (Programming Language)|Python]] (1), [[Ansible]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Git]] (1), [[Python (Programming Language)|Python]] (1), [[Ansible]] (1), [[DevOps Tools]] (1)
 > **CLI Commands:** git (1), python (1), ansible (1)
 > **Env Vars:** api (1), piats (1)
 > **Tools:** gitlab (1), github (1)

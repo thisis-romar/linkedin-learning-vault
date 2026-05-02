@@ -119,59 +119,57 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Front-end to back-end creating and hosting a full-stack site
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980)
+#### [Front-end to back-end creating and hosting a full-stack site](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=0)** - [Shaun] It's a really exciting time to be a JavaScript developer where companies used to need separate developers to work on their front end, backend, mobile apps and databases since all of those required experience with different types of programming, JavaScript can now be used to develop on each of these platforms, meaning that one JavaScript developer can now create something that used to take an entire team and the rise of front end frameworks such as Angular and server runtime such as Node.JS mean that JavaScript has become something of a common language in the development world.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=0)** - [Shaun] It's a really exciting time to be a [[JavaScript]] developer where companies used to need separate developers to work on their front end, backend, mobile apps and [[Databases]] since all of those required experience with different types of programming, JavaScript can now be used to develop on each of these platforms, meaning that one JavaScript developer can now create something that used to take an entire team and the rise of front end frameworks such as [[Angular]] and server runtime such as [[Node.js]] mean that JavaScript has become something of a common language in the development world.
 >
 > **[0:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=31)** In this course, I'll show you how to create and deploy a full stack Angular powered website from scratch.
 >
-> **[0:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=37)** We'll start off by using Angular to create an interactive front end for our site, and then move on to writing a Node.JS server tied in with a MySQL database that will support our front end.
+> **[0:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=37)** We'll start off by using Angular to create an interactive front end for our site, and then move on to writing a Node.JS server tied in with a [[MySQL]] database that will support our front end.
 >
-> **[0:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=48)** We'll then close out by seeing how you can host your full stack site on Google Cloud and access it from anywhere.
+> **[0:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=48)** We'll then close out by seeing how you can host your full stack site on [[Google Cloud Platform (GCP)|Google Cloud]] and access it from anywhere.
 >
 > **[0:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=54)** I'm Shaun Wassell and I'm a senior web developer.
 >
-> **[0:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=57)** Join me in my LinkedIn learning course to learn how to build a full stack Angular powered website from scratch.
+> **[0:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980&t=57)** Join me in my [[LinkedIn]] learning course to learn how to build a full stack Angular powered website from scratch.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (4), [[Node.js]] (2), [[Databases]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Angular]] (4), [[Node.js]] (2), [[Databases]] (1), [[MySQL]] (1)
 > **CLI Commands:** node (2), mysql (1)
 > **File Paths:** node.js (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [shaun] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=0)** - [Narrator] To get the most out of this course, there are a few things that would be helpful for you to know.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=5)** First of all, it would be very helpful to have a basic knowledge of JavaScript and ideally a basic knowledge of how frontend frameworks work as well.
+> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=5)** First of all, it would be very helpful to have a basic knowledge of [[JavaScript]] and ideally a basic knowledge of how frontend frameworks work as well.
 >
 > **[0:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=12)** If you haven't already worked with these a little, I'd recommend you take a look at one of the JavaScript basics courses in the library first, and then come back to this one, since we won't be covering any of the very basics in this course.
 >
 > **[0:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=24)** It would also be helpful for you to have some experience with basic command line operations.
 >
-> **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=29)** All that we'll be using for this course is basic commands like mkdir to make directories, cd to change directories, and ls to see the contents of a directory, as well as a few commands specific to node.js that I'll show you later on.
+> **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=29)** All that we'll be using for this course is basic commands like mkdir to make directories, cd to change directories, and ls to see the contents of a directory, as well as a few commands specific to [[Node.js]] that I'll show you later on.
 >
-> **[0:43](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=43)** And keep in mind also that if you're on Windows, the commands might be a little different.
+> **[0:43](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=43)** And keep in mind also that if you're on [[Windows]], the commands might be a little different.
 >
-> **[0:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=47)** If that's the case, take a look at the link that I have here to an article showing many of the basic Linux commands and their Windows equivalents.
+> **[0:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=47)** If that's the case, take a look at the link that I have here to an article showing many of the basic [[Linux]] commands and their Windows equivalents.
 >
 > **[0:55](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=55)** I also highly recommend that you follow along with me as I write code, but I've also included the start and finish state for all the code that I write in this course in the exercise files for your reference.
 >
-> **[1:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=65)** Basically, this course is intended for developers who want to learn the ins and outs of building a full-stack website that incorporates frontend, backend, databases, user authentication, and hosting.
+> **[1:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=65)** Basically, this course is intended for developers who want to learn the ins and outs of building a full-stack website that incorporates frontend, backend, [[Databases]], user authentication, and hosting.
 >
 > **[1:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-you-should-know?u=76281980&t=76)** If that sounds like something you're interested in, then you're definitely in the right place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Windows]] (2), cd (1), [[Node.js]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Windows]] (2), [[Node.js]] (1), [[Linux]] (1), [[Databases]] (1)
 > **CLI Commands:** mkdir (1), make (1), cd (1), ls (1), node (1)
 > **File Paths:** node.js (1)
 > **Tools:** command line (1)
@@ -179,16 +177,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Install Node.js and npm
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980)
+#### [Install Node.js and npm](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=0)** - [Instructor] Let's install the tools necessary for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=3)** Node.js will be really important for running our code and installing a few libraries we'll be using to make our programming easier.
+> **[0:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=3)** [[Node.js]] will be really important for running our code and installing a few libraries we'll be using to make our programming easier.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=10)** If you're not already familiar with Node.js, all you need to know for this course is that Node.js is an incredibly popular platform that allows you to run JavaScript code outside of the browser.
+> **[0:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=10)** If you're not already familiar with Node.js, all you need to know for this course is that Node.js is an incredibly popular platform that allows you to run [[JavaScript]] code outside of the browser.
 >
 > **[0:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=20)** This is really helpful since it means your JavaScript code doesn't have to be loaded and executed as part of a webpage.
 >
@@ -202,9 +199,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=44)** And this should take you through the steps required for installation.
 >
-> **[0:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=47)** Note that if you're using Windows or a Unix distribution the steps might be a little different, but Node.js has instructions for all of these as well.
+> **[0:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=47)** Note that if you're using [[Windows]] or a Unix distribution the steps might be a little different, but Node.js has instructions for all of these as well.
 >
-> **[0:55](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=55)** And once you have Node.js installed, you'll want to make sure that you have the most recent version of NPM installed.
+> **[0:55](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=55)** And once you have Node.js installed, you'll want to make sure that you have the most recent version of [[npm]] installed.
 >
 > **[1:01](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-node-js-and-npm?u=76281980&t=61)** We'll be using a few libraries in this course and NPM is a package manager for Node.js that allows us to easily install them.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (9), [[npm]] (8), [[JavaScript]] (3), [[Programming]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (9), [[npm]] (8), [[JavaScript]] (3), [[Windows]] (1)
 > **CLI Commands:** node (10), npm (8), make (2), sudo (1)
 > **File Paths:** node.js (9)
 > **Env Vars:** npm (7)
@@ -235,8 +232,7 @@ created: 2026-05-02
 > **Tools:** command line (1), terminal (1)
 > **UI Navigation:** click on (2)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,11 +244,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=15)** The first is that there are two separate projects for this course, a front end project and a backend project.
 >
-> **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=21)** For both of these, before you're able to run any of the code, you'll need to run the command, npm install, inside the project directory.
+> **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=21)** For both of these, before you're able to run any of the code, you'll need to run the command, [[npm]] install, inside the project directory.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=29)** And what this will do is install all the associated npm packages that each project needs.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=35)** The second thing to note is that once we get into the section on user authentication, the exercise files will require that you also follow along with the corresponding setup on Google cloud and Firebase.
+> **[0:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=35)** The second thing to note is that once we get into the section on user authentication, the exercise files will require that you also follow along with the corresponding setup on [[Google Cloud Platform (GCP)|Google cloud]] and [[Firebase]].
 >
 > **[0:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/exercise-files?u=76281980&t=46)** In other words, they won't work if you just try and run them as is.
 >
@@ -269,8 +265,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### The approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980)
+#### [The approach](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,15 +273,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=7)** And the application that we'll be building will be a listing site, something similar to sites like Craigslist, where users will be able to list items for sale and view items that other users want to sell.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=17)** And this site will also include things like user authentication, that is it'll allow users to log in and out using their Google account and use that to keep track of who's listings are who's.
+> **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=17)** And this site will also include things like user authentication, that is it'll allow users to log in and out using their [[Google]] account and use that to keep track of who's listings are who's.
 >
-> **[0:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=28)** So the front end of this site will be built using angular, which again is a very popular and easy to use front end framework, and this front end site will be served by a backend written for a Node.js environment.
+> **[0:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=28)** So the front end of this site will be built using [[Angular]], which again is a very popular and easy to use front end framework, and this front end site will be served by a backend written for a [[Node.js]] environment.
 >
 > **[0:39](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=39)** And it'll use a very popular server framework called hapi to make the task of creating an API easier.
 >
-> **[0:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=46)** And the backend will also store all its data in a Maya SQL database.
+> **[0:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=46)** And the backend will also store all its data in a Maya [[SQL]] database.
 >
-> **[0:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=50)** And after we've built all that, we'll be adding user authentication to our site using something called Firebase Auth, and then, we'll host our entire Full Stack application on Google Cloud.
+> **[0:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=50)** And after we've built all that, we'll be adding user authentication to our site using something called [[Firebase]] Auth, and then, we'll host our entire Full Stack application on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[1:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/the-approach?u=76281980&t=60)** Well, that's about it.
 >
@@ -294,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web application (1), [[Google]] (1), [[Angular]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Angular]] (1), [[Node.js]] (1), [[SQL]] (1), [[Firebase]] (1)
 > **CLI Commands:** node (1), make (1)
 > **Env Vars:** api (1), sql (1)
 > **File Paths:** node.js (1)
@@ -306,14 +301,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Angular?
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980)
+#### [Why Angular?](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=0)** - [Instructor] So we're going to be building the front-end of our buy and sell site using Angular.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=0)** - [Instructor] So we're going to be building the front-end of our buy and sell site using [[Angular]].
 >
-> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=5)** Now, you might be wondering why we choose to use Angular instead of just creating our site using basic HTML, CSS, and JavaScript, or instead of using some other low code solutions such as WordPress or Wix.
+> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=5)** Now, you might be wondering why we choose to use Angular instead of just creating our site using basic [[HTML]], CSS, and [[JavaScript]], or instead of using some other low code solutions such as [[WordPress]] or Wix.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=17)** Well, compared to hand coding a site, Angular has a lot of advantages.
 >
@@ -333,7 +327,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=83)** Well, first of all, since this course is aimed primarily at developers, if you want to create a blog and you're not already a fairly strong developer, I actually would recommend that you use one of these platforms instead of Angular, since it'll probably end up being much more difficult for you in the long run if you try to create a code based site, if you still struggle with basic coding.
 >
-> **[1:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=102)** So, another question is why you'd choose Angular over some of the other web frameworks like React or Vue.
+> **[1:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=102)** So, another question is why you'd choose Angular over some of the other web frameworks like [[React.js|React]] or [[Vue.js|Vue]].
 >
 > **[1:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=108)** And the answer to this question is that it kind of depends on your personal situation and needs.
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=116)** And what this means is that, as we'll see while we're building our site, for most use cases, Angular provides some sort of guidance on what exactly the preferred way to do things is, and this is something you wouldn't find in React, for example, where there are often many different ways to accomplish pretty much the same thing.
 >
-> **[2:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=133)** And this means that Angular can be especially helpful if you're fairly new to front-end development, and don't yet have the instincts that only come from years of creating web applications.
+> **[2:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=133)** And this means that Angular can be especially helpful if you're fairly new to [[Front-End Development]], and don't yet have the instincts that only come from years of creating web applications.
 >
 > **[2:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980&t=142)** And ultimately, if you're still wondering whether to use Angular, or React, or Vue, really the best way to see the differences between all these frameworks is to just try them out for yourself, try building the same apps using all three and see what you like and don't like about each one.
 >
@@ -353,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (14), web (3), [[React.js|React]] (3), front-end (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Angular]] (14), [[React.js|React]] (3), [[HTML]] (2), [[WordPress]] (2), [[Vue.js|Vue]] (2)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (2), css (1)
@@ -361,22 +355,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up an Angular project
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980)
+#### [Set up an Angular project](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=0)** - [Instructor] Now that we know a little bit more about Angular and some of its benefits let's get started creating an Angular front end for our own project.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=0)** - [Instructor] Now that we know a little bit more about [[Angular]] and some of its benefits let's get started creating an Angular front end for our own project.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=7)** Now, there are a few steps to doing this, but overall it's a fairly straightforward process.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=13)** The first thing we're going to do is open up a terminal and I'm using VS Code and VS Code's built in terminal here and inside that terminal, we're going to run the command npm install -g @angular/cli
+> **[0:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=13)** The first thing we're going to do is open up a terminal and I'm using VS Code and VS Code's built in terminal here and inside that terminal, we're going to run the command [[npm]] install -g @angular/[[CLI]]
 >
-> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=30)** and hit enter and you may need to put the sudo keyword before this command if you get something about permissions like I am here and now we have what's called the Angular CLI installed globally on our computer and what this means is that we can use commands such as ng to perform Angular related tasks, such as creating new projects.
+> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=30)** and hit enter and you may need to put the sudo keyword before this command if you get something about permissions like I am here and now we have what's called the [[Angular CLI]] installed globally on our computer and what this means is that we can use commands such as ng to perform Angular related tasks, such as creating new projects.
 >
 > **[0:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=52)** So what we're going to do is change directories into the directory that we want to create our actual project into and once we're there, we're going to run the command ng new and then the name of the project that we want to create.
 >
-> **[1:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=64)** In our case, since we're creating a buy and sell site, we'll say ng new buy-and-sell and hit enter and it's going to come up with a question asking us if we want to add Angular routing, and we want to answer yes to that and then they'll ask us, what style sheet format we want to use for our project.
+> **[1:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=64)** In our case, since we're creating a buy and sell site, we'll say ng new buy-and-sell and hit enter and it's going to come up with a question asking us if we want to add Angular [[Routing]], and we want to answer yes to that and then they'll ask us, what style sheet format we want to use for our project.
 >
 > **[1:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-an-angular-project?u=76281980&t=82)** We're just going to select CSS here and once that completes, we can change directories into the new project that we created.
 >
@@ -388,7 +381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), hit (2), [[npm]] (1), [[CLI]] (1), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[npm]] (1), [[CLI]] (1), [[Angular CLI]] (1), [[Routing]] (1)
 > **Tools:** terminal (3), vs code (2)
 > **CLI Commands:** npm (1), sudo (1), cd (1), make (1)
 > **Env Vars:** cli (1), css (1)
@@ -397,12 +390,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Angular project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980)
+#### [Angular project structure](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=0)** - [Instructor] So now that we have our Angular project created and running, let's actually open it in our IDE, and once we've done that, this is a great chance to take a look at the structure of our Angular project.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=0)** - [Instructor] So now that we have our [[Angular]] project created and running, let's actually open it in our IDE, and once we've done that, this is a great chance to take a look at the structure of our Angular project.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=13)** So in our file tree here, you'll see that there's a lot of files that Angular generated for us.
 >
@@ -418,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=50)** And then we have this environments directory, which contains files for specifying different environment variables, which can be very useful for having a dev in a production environment.
 >
-> **[1:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=60)** And we also have this index.HTML file.
+> **[1:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=60)** And we also have this index.[[HTML]] file.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=63)** This is where the Angular app gets rendered into, and specifically, it gets rendered into this app root element here.
 >
@@ -430,7 +422,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=96)** And lastly, we have this test.ts file, which launches testing for our application.
 >
-> **[1:41](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=101)** We won't be using this at all in this course, but if you want to do stuff like test-driven development, this is where you do it from.
+> **[1:41](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=101)** We won't be using this at all in this course, but if you want to do stuff like [[Test-Driven Development]], this is where you do it from.
 >
 > **[1:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=107)** So anyway, that's the basic high level structure.
 >
@@ -438,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=116)** Now the first thing to notice inside this directory are these app.component.ts, app.component.HTML, and appcomponent.css files.
 >
-> **[2:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=127)** Now, as you'll see, these are the files that control the various pieces of our application component, which is basically the component in our Angular application that contains the rest of the components we'll create.
+> **[2:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=127)** Now, as you'll see, these are the files that control the various pieces of our application component, which is basically the component in our Angular application that contains the [[Representational State Transfer (REST)|rest]] of the components we'll create.
 >
 > **[2:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=138)** And as you'll see, all components in Angular consist of these three files, the CSS file, the HTML file, and the TypeScript file, as well as this spec file, which is used for testing.
 >
@@ -452,7 +444,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=182)** So anyway, those are the basic files for our app component, which as I mentioned is the root level component for our application.
 >
-> **[3:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=189)** Some of the other files that we have in here are the app routing module file, which contains the routing logic for our app, and we'll see exactly how to use this file in a few minutes.
+> **[3:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=189)** Some of the other files that we have in here are the app [[Routing]] module file, which contains the routing logic for our app, and we'll see exactly how to use this file in a few minutes.
 >
 > **[3:19](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/angular-project-structure?u=76281980&t=199)** And we also have the app.module.ts file.
 >
@@ -462,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), application (7), [[HTML]] (4), css (4), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (4), [[Routing]] (2), [[Test-Driven Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** app.component.ts (2), index.html (1), main.ts (1), styles.css (1), test.ts (1)
 > **Env Vars:** html (4), css (2), ide (1)
 > **Analogies:** for example (2), such as (1)
@@ -471,18 +463,17 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Definitions:** is a  (1)
 
-#### Create your first Angular component
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980)
+#### [Create your first Angular component](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=0)** - [Instructor] So now that we've seen the basic directory structure of our Angular project, let's move on to creating the first component for our application.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=0)** - [Instructor] So now that we've seen the basic directory structure of our [[Angular]] project, let's move on to creating the first component for our application.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=8)** Components are the basic units of organization in Angular projects.
 >
 > **[0:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=12)** They're the sort of modular pieces of the interface that we can define and display inside other components.
 >
-> **[0:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=18)** And as I mentioned already, the app component that we looked at is the component in Angular applications that contains the rest of the components we create.
+> **[0:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=18)** And as I mentioned already, the app component that we looked at is the component in Angular applications that contains the [[Representational State Transfer (REST)|rest]] of the components we create.
 >
 > **[0:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=27)** The first component we're going to create for our buy and sell site is going to be the listings page, which will display all the currently available listings that a user can buy.
 >
@@ -494,13 +485,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=65)** And that'll run and generate all the files and code we'll need for that component.
 >
-> **[1:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=69)** If we look inside our app directory now, we see that we now have this listings page folder inside our app directory that contains the same files we saw with our app component: the CSS, HTML, spec, and TS files.
+> **[1:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=69)** If we look inside our app directory now, we see that we now have this listings page folder inside our app directory that contains the same files we saw with our app component: the CSS, [[HTML]], spec, and TS files.
 >
 > **[1:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=82)** And if we take a look at our HTML file, we see that the HTML that will be displayed for this component just says listing page works.
 >
 > **[1:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=91)** And we're going to change this to something more useful shortly but for now let's see how to actually display this component in our application.
 >
-> **[1:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=98)** If we look inside our component's component.ts file here, we see that we have this funny-looking component decorator here, which basically just contains metadata about our Angular components.
+> **[1:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=98)** If we look inside our component's component.ts file here, we see that we have this funny-looking component decorator here, which basically just contains [[Metadata]] about our Angular components.
 >
 > **[1:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-your-first-angular-component?u=76281980&t=110)** Don't let this syntax throw you off here.
 >
@@ -528,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), [[HTML]] (5), application (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[HTML]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1)
 > **Env Vars:** html (5), css (1)
 > **Exercise Files:** boilerplate (1), sample code (1)
 > **File Paths:** component.ts (1)
@@ -537,8 +528,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routes and routing in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980)
+#### [Routes and routing in Angular](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,7 +536,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=4)** And we'll get into actually implementing our listings page soon.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=7)** But first let's take a look at how routing works in Angular.
+> **[0:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=7)** But first let's take a look at how [[Routing]] works in [[Angular]].
 >
 > **[0:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=11)** As in virtually every web application we'll want the different components and pages of the application we're going to create to be displayed as a user navigates to different routes in their browser.
 >
@@ -586,7 +576,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=109)** You'll see why in a second.
 >
-> **[1:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=111)** And now let's save this file and go back to our app components HTML file.
+> **[1:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=111)** And now let's save this file and go back to our app components [[HTML]] file.
 >
 > **[1:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=117)** And we're just going to delete this app-listings-page tag that we put in there before.
 >
@@ -614,7 +604,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=182)** And that's actually something we're going to be doing shortly.
 >
-> **[3:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=185)** But first while we're on the topic of routing and displaying different components at different routes, why don't we take this opportunity to create the rest of the pages we'll be needing for our application and add routes to them.
+> **[3:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=185)** But first while we're on the topic of routing and displaying different components at different routes, why don't we take this opportunity to create the [[Representational State Transfer (REST)|rest]] of the pages we'll be needing for our application and add routes to them.
 >
 > **[3:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/routes-and-routing-in-angular?u=76281980&t=196)** So here's what that'll look like.
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Routing]] (5), [[HTML]] (4), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Routing]] (5), [[HTML]] (4), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** url (4), html (4)
 > **Code Identifiers:** pathmatch (4), redirectto (1)
 > **UI Navigation:** go to (5)
@@ -751,8 +741,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - page (1)
 > **File Paths:** app-routing.module.ts (1)
 
-#### Add fake data
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980)
+#### [Add fake data](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -776,7 +765,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=48)** It'll look something like this here.
 >
-> **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=51)** And once we've done that, the second thing we need to do here is since the fake data we just copied and pasted contained a new type script type, we need to actually define that type so that we can use it throughout the rest of our front end.
+> **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=51)** And once we've done that, the second thing we need to do here is since the fake data we just copied and pasted contained a new type script type, we need to actually define that type so that we can use it throughout the [[Representational State Transfer (REST)|rest]] of our front end.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=63)** So inside our app directory, let's create another new file called types.ts.
 >
@@ -812,13 +801,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=166)** But in order to make it easier for you to just copy and paste, I've put them all in one file like this.
 >
-> **[2:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=172)** And keep in mind too that as we develop the rest of our front end, we going to to be adding some classes in IDs to our HTML elements.
+> **[2:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=172)** And keep in mind too that as we develop the rest of our front end, we going to to be adding some classes in IDs to our [[HTML]] elements.
 >
 > **[2:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-fake-data?u=76281980&t=179)** For the sole purpose of making them match up with these styles here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), application (6), css (4), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **File Paths:** fake-data.js (1), types.ts (1), styles.css (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (2)
@@ -827,8 +816,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Cross-References:** go back to (1)
 
-#### Implement the Listings page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980)
+#### [Implement the Listings page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=22)** So here's what implementing our listings page is going to look like.
 >
-> **[0:26](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=26)** It's going to involve making changes to two files here, our listings page TypeScript file, and our listings page HTML file.
+> **[0:26](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=26)** It's going to involve making changes to two files here, our listings page TypeScript file, and our listings page [[HTML]] file.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=34)** So let's open both of those files up.
 >
@@ -852,7 +840,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=67)** So we'll say import, listing, from types,
 >
-> **[1:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=76)** and while we're at it, let's also import our fake listing data that we copied and pasted from GitHub.
+> **[1:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=76)** and while we're at it, let's also import our fake listing data that we copied and pasted from [[GitHub]].
 >
 > **[1:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=80)** That's going to look like this.
 >
@@ -866,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=113)** Why don't we just say listings equals fake listings up here?
 >
-> **[1:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=119)** Well, the reason we're doing it this way is because right now we're just using fake data, but later on, we'll be loading this data from the server and the proper place to do this at angular is inside the ngOnInit method, not in the constructor or up here at the top of our component.
+> **[1:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=119)** Well, the reason we're doing it this way is because right now we're just using fake data, but later on, we'll be loading this data from the server and the proper place to do this at [[Angular]] is inside the ngOnInit method, not in the constructor or up here at the top of our component.
 >
 > **[2:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/implement-the-listings-page?u=76281980&t=136)** So now that we have this data defined for our component, let's save our file and then head over to the HTML file, and define our components structure.
 >
@@ -916,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), data (6), [[Angular]] (4), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Angular]] (4), [[GitHub]] (1)
 > **Env Vars:** html (6)
 > **Code Identifiers:** ngoninit (2), ngfor (2), routerlink (1)
 > **CLI Commands:** make (1)
@@ -925,14 +913,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Listing Detail page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980)
+#### [Create a Listing Detail page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=0)** - [Instructor] So now that we've got our listings page working and linking to the corresponding detail page for each listing, it's time to actually implement the listing-detail-page.
 >
-> **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=9)** So let's open up our listing-detail-page TypeScript and HTML files and before we begin here, there's something to know about this page.
+> **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=9)** So let's open up our listing-detail-page TypeScript and [[HTML]] files and before we begin here, there's something to know about this page.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=17)** Remember that earlier when we were creating the routes for our applications, there were several routes that we created with this ID URL parameter thing.
 >
@@ -940,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=37)** So what we're going to have to do on this page is somehow get access to the value of this part of the URL and use that to display the corresponding listing from our fake listings array on our page.
 >
-> **[0:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=48)** So here's how we do that in Angular.
+> **[0:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=48)** So here's how we do that in [[Angular]].
 >
 > **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-detail-page?u=76281980&t=51)** Let's open up our TypeScript file here.
 >
@@ -1030,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), [[HTML]] (3), data (3), next (2), product (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[HTML]] (3)
 > **Code Identifiers:** routerlink (4), fakelistings (2), ngoninit (1), parammap (1), ngonit (1)
 > **Env Vars:** url (7), html (3)
 > **CLI Commands:** find (2), make (1)
@@ -1038,8 +1025,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Contact Seller page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980)
+#### [Create a Contact Seller page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,11 +1037,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=21)** Well, in this course, we're not actually going to cover sending emails programmatically.
 >
-> **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=25)** If you want to see how that's done, I'd recommend taking a look at my Firebase course, where I show how to do this from the back end using a package called Nodemailer.
+> **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=25)** If you want to see how that's done, I'd recommend taking a look at my [[Firebase]] course, where I show how to do this from the back end using a package called Nodemailer.
 >
 > **[0:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=33)** For now what we're going to do is just display an alert saying that the user's message was sent.
 >
-> **[0:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=38)** So let's head over to our ID, and let's open up our contact pages TypeScript and HTML files.
+> **[0:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=38)** So let's head over to our ID, and let's open up our contact pages TypeScript and [[HTML]] files.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=45)** And we're going to start off in our TypeScript file by importing a few things.
 >
@@ -1065,7 +1051,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=62)** You'll see how this has done in just a second here.
 >
-> **[1:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=66)** And we're going to say from angular/router, and then we're going to import our listing type from our types file.
+> **[1:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=66)** And we're going to say from [[Angular]]/router, and then we're going to import our listing type from our types file.
 >
 > **[1:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=77)** And we're going to import our fake listings from our fake data file.
 >
@@ -1153,7 +1139,7 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=400)** Basically, there are quite a few important things that we can import into this file that extend the basic functionality of some aspects of angular.
 >
-> **[6:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=408)** In our case, in order to get the two way binding thing to work for our project, what we have to do is import something called the forms module from Angular, which will look like this.
+> **[6:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=408)** In our case, in order to get the two way binding thing to work for our project, what we have to do is import something called the [[Forms]] module from Angular, which will look like this.
 >
 > **[6:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-contact-seller-page?u=76281980&t=419)** We're going to say import FormsModule from @angular/forms.
 >
@@ -1195,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (5), next (3), [[Forms]] (3), [[Firebase]] (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (5), [[Forms]] (3), [[Firebase]] (1)
 > **Code Identifiers:** ngmodel (4), sendmessage (2), parammap (1), fakelistings (1), ngoninit (1)
 > **Env Vars:** url (5), html (5)
 > **Analogies:** just like (4), such as (1)
@@ -1204,8 +1190,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1), navigate to (1)
 > **File Paths:** app.module.ts (1)
 
-#### Create a My Listings page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980)
+#### [Create a My Listings page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,11 +1204,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=21)** The first of these pages we're going to implement is the My Listings page, so let's go back to our IDE and open those files.
 >
-> **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=29)** We're going to open the typescript file and the HTML file.
+> **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=29)** We're going to open the typescript file and the [[HTML]] file.
 >
 > **[0:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=33)** So this page will just display a list of the listings that a user has created.
 >
-> **[0:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=38)** And as with the rest of our data on the front end so far, later on in the course we'll be loading a user's listings from the back end, but for now, we're going to import them from our fake data file.
+> **[0:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=38)** And as with the [[Representational State Transfer (REST)|rest]] of our data on the front end so far, later on in the course we'll be loading a user's listings from the back end, but for now, we're going to import them from our fake data file.
 >
 > **[0:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-my-listings-page?u=76281980&t=47)** So inside our typescript file, let's say import fakeMyListings from fake-data, and then we'll import the listing type as well.
 >
@@ -1295,7 +1280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (2), application (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** fakemylistings (2), ondeleteclicked (2), ngoninit (1), listingid (1), ngfor (1)
 > **Env Vars:** html (2), ide (1)
 > **UI Navigation:** click on (2), open the (1)
@@ -1303,8 +1288,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - okay (1)
 
-#### Create a New Listings page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980)
+#### [Create a New Listings page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=3)** So first of all, we need to actually add a button for getting to the new listing page.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=8)** And for that, we're going to go back to our my-listings-page-component.html file.
+> **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=8)** And for that, we're going to go back to our my-listings-page-component.[[HTML]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=14)** At the bottom, underneath this div that we're using the structural directive on, we're just going to add an anchor tag with the router link equal to /new-listing, and inside that we're just going to put a button that says, Create New Listing.
 >
@@ -1334,7 +1318,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=79)** It's going to start off as an empty string, and then we're going to say description, and the same thing for that, and price is going to be a string right now, as well.
 >
-> **[1:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=94)** And then up at the top of our component, we're going to import router from angular/router.
+> **[1:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=94)** And then up at the top of our component, we're going to import router from [[Angular]]/router.
 >
 > **[1:43](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-new-listings-page?u=76281980&t=103)** We're going to be using this to navigate programmatically, just like we did in the contact seller page.
 >
@@ -1400,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), next (1), [[Angular]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Angular]] (1)
 > **Code Identifiers:** ngmodel (4), onsubmit (3), ngsubmit (2), navigatebyurl (1)
 > **Analogies:** similar to (2), just like (1)
 > **File Paths:** my-listings-page-component.html (1)
@@ -1409,8 +1393,7 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Listing Data form
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980)
+#### [Create a Listing Data form](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=16)** So, what we're going to do instead, is create an entirely separate component for the form that both of these pages will have in common.
 >
-> **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=23)** And then simply reuse this form on both pages, instead of duplicating the logic in HTML.
+> **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=23)** And then simply reuse this form on both pages, instead of duplicating the logic in [[HTML]].
 >
 > **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=29)** So, what we're going to do here first, is open up a new terminal and we're going to generate a new component called listing data form, by saying NG generate component, listing data form, and hit enter.
 >
@@ -1480,11 +1463,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=197)** If we click on this button, it'll display creating a new listing, even though we're on the edit listing page.
 >
-> **[3:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=204)** So how do we do things like this in angular?
+> **[3:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=204)** So how do we do things like this in [[Angular]]?
 >
 > **[3:26](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=206)** Well, actually this brings us to a very important concept called inputs and outputs in angular.
 >
-> **[3:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=211)** Notice how, what the rest of the HTML elements on our page, we're able to use attributes to customize the elements in some way, whether that's by assigning a class to an element or applying inline styling or a lot of other things.
+> **[3:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=211)** Notice how, what the [[Representational State Transfer (REST)|rest]] of the HTML elements on our page, we're able to use attributes to customize the elements in some way, whether that's by assigning a class to an element or applying inline styling or a lot of other things.
 >
 > **[3:43](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listing-data-form?u=76281980&t=223)** And also notice how we've been able to tap into things like button click events, or submit events, with this parentheses syntax here.
 >
@@ -1494,7 +1477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[HTML]] (9), [[Angular]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Angular]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (9)
 > **Analogies:** just like (2), similar to (1), for example (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -1502,16 +1485,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Edit Listing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980)
+#### [Create an Edit Listing page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=0)** - [Instructor] The first thing we're going to look at is inputs.
 >
-> **[0:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=2)** Basically what inputs allow us to do is pass data into our components from their parent components in a way that looks almost identical to defining attributes on simple HTML elements.
+> **[0:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=2)** Basically what inputs allow us to do is pass data into our components from their parent components in a way that looks almost identical to defining attributes on simple [[HTML]] elements.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=14)** In our case, let's say that on our edit listing page, we want to be able to pass in an input to our listing data form component that defines what text is displayed in the forms button.
+> **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=14)** In our case, let's say that on our edit listing page, we want to be able to pass in an input to our listing data form component that defines what text is displayed in the [[Forms]] button.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=23)** Something like this, for example.
 >
@@ -1585,7 +1567,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=289)** And then we have to actually import the router.
 >
-> **[4:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=292)** Import router from angular/router and provide that in the constructor here, private router router, and this should work now.
+> **[4:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=292)** Import router from [[Angular]]/router and provide that in the constructor here, private router router, and this should work now.
 >
 > **[5:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-edit-listing-page?u=76281980&t=306)** If we go back to our edit listing page and click on save changes, we should see that it now says saving changes to the listing, which means that the event, the submit event from this form here is sort of bubbling up to our edit listing page and being handled by this onSubmit method that we just defined.
 >
@@ -1675,7 +1657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[HTML]] (7), [[Forms]] (6), [[Angular]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Forms]] (6), [[Angular]] (1)
 > **Code Identifiers:** onsubmit (14), currentname (4), currentdescription (4), currentprice (3), ngoninit (2)
 > **Env Vars:** html (7), url (4)
 > **CLI Commands:** make (5), find (3)
@@ -1684,8 +1666,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Create a navigation bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-navigation-bar?u=76281980)
+#### [Create a navigation bar](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-navigation-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1680,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-navigation-bar?u=76281980&t=15)** First, let's start off by creating our component and to do that inside a terminal, we just have to run ng generate component nav-bar and hit enter, and this will generate the necessary files for us.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-navigation-bar?u=76281980&t=30)** The only one we're going to need to edit here will be the HTML file.
+> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-navigation-bar?u=76281980&t=30)** The only one we're going to need to edit here will be the [[HTML]] file.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-navigation-bar?u=76281980&t=34)** So let's open that up, nav-bar.component.html, and we're going to add some stuff to it like this.
 >
@@ -1737,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), hit (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **File Paths:** nav-bar.component.html (1), app.component.html (1)
 > **Code Identifiers:** routerlink (2)
 > **Env Vars:** html (2)
@@ -1751,18 +1732,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Node.js?
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980)
+#### [Why Node.js?](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=0)** - [Instructor] Now that we've got our client side working nicely, it's time to start building the backend of our blog and to do this, we're going to be using Node.js.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=0)** - [Instructor] Now that we've got our client side working nicely, it's time to start building the backend of our blog and to do this, we're going to be using [[Node.js]].
 >
-> **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=8)** Now you've probably heard about Node.js by now, and it's very important to us because it allows us to write our backend in JavaScript, instead of PHP or Python or Java.
+> **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=8)** Now you've probably heard about Node.js by now, and it's very important to us because it allows us to write our backend in [[JavaScript]], instead of [[PHP]] or [[Python (Programming Language)|Python]] or [[Java]].
 >
 > **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=17)** Now it used to be that in order to be a full stack developer, you had to be fairly fluent in more than one programming language, but with Node.js, which has become an incredibly popular platform since it was released, our entire web application can be written in JavaScript, which is great news for us JavaScript developers.
 >
-> **[0:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=35)** Now there are many different NPM packages that can be used to write Node.js servers and the one that we're going to use in these videos is called hapi.
+> **[0:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=35)** Now there are many different [[npm]] packages that can be used to write Node.js servers and the one that we're going to use in these videos is called hapi.
 >
 > **[0:43](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980&t=43)** Hapi is a good choice for us because it's popular, it's easy to get started with, and it's also very well documented.
 >
@@ -1779,8 +1759,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up a hapi server
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980)
+#### [Set up a hapi server](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1792,7 +1771,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=25)** And just as a side note here, in theory, we could have the backend code inside of our original directory, but in practice, it's usually just easier to keep the front-end and backend code of our app separated, especially as our code base gets larger and more complex.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=40)** So inside our directory, let's open up a terminal and we're going to create a new npm package by typing npm init-y and hitting Enter.
+> **[0:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=40)** So inside our directory, let's open up a terminal and we're going to create a new [[npm]] package by typing npm init-y and hitting Enter.
 >
 > **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=51)** And once we've done that, let's install hapi into our project by saying npm install @hapi/hapi and hit Enter.
 >
@@ -1800,11 +1779,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=75)** This file will be the entry point for our app, but before we write any code in here, there's something we need to do first.
 >
-> **[1:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=80)** You see currently, node JS doesn't have native support for JavaScript's modern ES6 syntax and things such as import and export.
+> **[1:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=80)** You see currently, node JS doesn't have native support for [[JavaScript]]'s modern ES6 syntax and things such as import and export.
 >
 > **[1:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=88)** So we'll have to make a few small changes to allow us to write our backend using modern JavaScript.
 >
-> **[1:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=94)** We didn't have to do this for our front-end because this is something that the Angular scripts take care of when we create a new project.
+> **[1:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=94)** We didn't have to do this for our front-end because this is something that the [[Angular]] scripts take care of when we create a new project.
 >
 > **[1:41](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=101)** So anyway, the first thing that we have to do is install a few packages from Babel, which if you haven't heard of it before, it's a transpiler that allows us to write our code base in modern JavaScript syntax, and still have it work on systems where modern JavaScript isn't supported natively.
 >
@@ -1822,7 +1801,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=175)** Fortunately, this is pretty simple.
 >
-> **[2:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=176)** This is going to be a JSON object, and the first property is going to be presets and that's going to have an array and the only thing in that array is going to be @babel/preset-env.
+> **[2:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=176)** This is going to be a [[JSON]] object, and the first property is going to be presets and that's going to have an array and the only thing in that array is going to be @babel/preset-env.
 >
 > **[3:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-hapi-server?u=76281980&t=192)** And then we're going to have another property that's called plugins, and this is going to be an array and inside that we're going to have another array that'll have @babel/plugin-transform-runtime,
 >
@@ -1904,7 +1883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), [[JavaScript]] (7), hit (6), [[npm]] (5), front-end (4)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[npm]] (5), [[Angular]] (1), [[JSON]] (1)
 > **CLI Commands:** node (8), npm (5), make (4), npx (1)
 > **Prerequisites:** install (7), set up (1)
 > **File Paths:** server.js (2), source/server.js (2)
@@ -1913,8 +1892,7 @@ created: 2026-05-02
 > **API Endpoints:** get  (2)
 > **Env Vars:** es6 (1), json (1)
 
-#### Test a hapi server with Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/test-a-hapi-server-with-postman?u=76281980)
+#### [Test a hapi server with Postman](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/test-a-hapi-server-with-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,7 +1950,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/test-a-hapi-server-with-postman?u=76281980&t=153)** If we go back to postman, and set our request to a POST request, we're going to click on this body tab here, which is where we can define what extra data we want to send along with our POST request.
 >
-> **[2:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/test-a-hapi-server-with-postman?u=76281980&t=166)** And we're going to make sure jSON is selected from this little drop down here.
+> **[2:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/test-a-hapi-server-with-postman?u=76281980&t=166)** And we're going to make sure [[JSON]] is selected from this little drop down here.
 >
 > **[2:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/test-a-hapi-server-with-postman?u=76281980&t=171)** And what we're going to do is send along a simple jSON object with a property that says name and I'm going to put my name here.
 >
@@ -2004,7 +1982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JSON]] (2), feature (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **API Endpoints:** get  (7), post  (7), get
  (1)
 > **Env Vars:** post (9), url (3)
@@ -2014,8 +1992,7 @@ created: 2026-05-02
 > **Code Identifiers:** json (2)
 > **Cross-References:** go back to (1)
 
-#### Create a listings endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listings-endpoint?u=76281980)
+#### [Create a listings endpoint](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-a-listings-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,7 +2052,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (3), database (1), application (1), hit (1)
 > **Code Identifiers:** getalllistingsroute (4), getalllistings (2), fakelistings (1), foreach (1)
 > **File Paths:** fake-data.js (2), server.js (2), getalllistings.js (1), index.js (1)
 > **API Endpoints:** /api/listings (2)
@@ -2083,9 +2059,9 @@ created: 2026-05-02
 > **Best Practices:** best practice (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
-#### Restart a Node server automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980)
+#### [Restart a Node server automatically](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2093,7 +2069,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=9)** And wouldn't it be nice if our server could sense when our files changed and automatically restart itself?
 >
-> **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=14)** Well, as a matter of fact, there's an NPM package that does this for us, and it's called no demon.
+> **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=14)** Well, as a matter of fact, there's an [[npm]] package that does this for us, and it's called no demon.
 >
 > **[0:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=20)** Let's install this package into our project like this.
 >
@@ -2117,7 +2093,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=118)** So while we're at it, we're going to make one more small change to our code base.
 >
-> **[2:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=122)** If we open up our package.json file, we'll see that there's this script object with a default test script inside it.
+> **[2:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=122)** If we open up our package.[[JSON]] file, we'll see that there's this script object with a default test script inside it.
 >
 > **[2:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/restart-a-node-server-automatically?u=76281980&t=130)** Now you may or may not be familiar with this part of package.json, but these scripts are basically just aliases for longer commands, and we can create our own scripts and call them whatever we want.
 >
@@ -2133,7 +2109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[npm]] (3), hit (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (3)
 > **CLI Commands:** npx (7), node (4), npm (3), make (2)
 > **File Paths:** src/server.js (4), package.json (3)
 > **Definitions:** is a  (1), in other words (1)
@@ -2142,14 +2118,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** postman (1)
 
-#### Create an individual listing endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-individual-listing-endpoint?u=76281980)
+#### [Create an individual listing endpoint](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-individual-listing-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-individual-listing-endpoint?u=76281980&t=0)** - [Instructor] So far, we've only implemented one route on our server, a route that returns all the listings.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-individual-listing-endpoint?u=76281980&t=5)** And before we move on to actually incorporating an SQL database into our back end, at which point we'll switch our existing routes over to use it as well as create several more, we're going to see how URL parameters work with Hapi servers by creating a route that will allow our front end to request data for individual listings by their IDs.
+> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-individual-listing-endpoint?u=76281980&t=5)** And before we move on to actually incorporating an [[SQL]] database into our back end, at which point we'll switch our existing routes over to use it as well as create several more, we're going to see how URL parameters work with Hapi servers by creating a route that will allow our front end to request data for individual listings by their IDs.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-individual-listing-endpoint?u=76281980&t=23)** So here's how we do that.
 >
@@ -2193,7 +2168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (2), [[SQL]] (1), database (1), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** getlistingroute (3), getlisting (2), fakelistings (2)
 > **Env Vars:** url (4), sql (1), api (1)
 > **File Paths:** getlisting.js (1), index.js (1)
@@ -2202,8 +2177,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Tools:** postman (1)
 
-#### Errors in hapi using hapi/boom
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980)
+#### [Errors in hapi using hapi/boom](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2213,7 +2187,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=13)** So Hapi's approach to this topic is a little different than what you might find on a lot of other service side frameworks.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=19)** And most of it revolves around an NPM package called boom, which we can install in our project by running NPM install at Hapi slash boom, and hit enter.
+> **[0:19](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=19)** And most of it revolves around an [[npm]] package called boom, which we can install in our project by running NPM install at Hapi slash boom, and hit enter.
 >
 > **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=30)** Now, this package is our first experience so far with what's sometimes referred to as the Hapi ecosystem.
 >
@@ -2261,7 +2235,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=206)** In this case we're using not found, but there are many others to choose from for different situations.
 >
-> **[3:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=211)** And once we've done this, Hapi takes care of the rest.
+> **[3:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=211)** And once we've done this, Hapi takes care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/errors-in-hapi-using-hapi-boom?u=76281980&t=215)** So the last thing we want to do in this route, now that we have that error set up is we're just going to say, return listing if the listing does exist.
 >
@@ -2277,7 +2251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[npm]] (2), hit (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (5), npm (2), make (1)
 > **Prerequisites:** install (2), setup (1), set up (1)
 > **Env Vars:** npm (2), api (1)
@@ -2291,8 +2265,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why MySQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980)
+#### [Why MySQL?](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2300,11 +2273,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=8)** And this will enable us to store users' data and persist that data indefinitely.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=12)** In this course, the database we're going to be using is MySQL.
+> **[0:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=12)** In this course, the database we're going to be using is [[MySQL]].
 >
-> **[0:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=16)** Now, MySQL is an extremely popular database management system and it's also open source, which means that it can be installed and used for free.
+> **[0:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=16)** Now, MySQL is an extremely popular [[Database Management]] system and it's also open source, which means that it can be installed and used for free.
 >
-> **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=25)** First of all, as you might have guessed by the name, MySQL uses SQL to make database queries.
+> **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=25)** First of all, as you might have guessed by the name, MySQL uses [[SQL]] to make [[Database Queries]].
 >
 > **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=30)** In practice, SQL queries can get really as complex as you need them to be but in this course we'll be keeping our queries as simple as possible.
 >
@@ -2312,7 +2285,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=41)** This will be a great opportunity to get your first contact with it.
 >
-> **[0:44](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=44)** The second thing to know about MySQL databases, if you haven't already worked with them, is that they're relational databases.
+> **[0:44](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=44)** The second thing to know about MySQL [[Databases]], if you haven't already worked with them, is that they're [[Relational Databases]].
 >
 > **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=51)** What this means is that the data they contain is structured into rows and columns.
 >
@@ -2324,13 +2297,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=75)** So we might have a users table that contains all of our website's users and a listings table with information such as the listings ID, name, description, and price, as well as the user ID of the user who listed it and whatever other stuff we need to store about each of our listings.
 >
-> **[1:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=92)** Now, you may have heard of a different kind of database called a non-relational or a NoSQL database.
+> **[1:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=92)** Now, you may have heard of a different kind of database called a non-relational or a [[NoSQL]] database.
 >
 > **[1:38](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=98)** Mongo DB is probably the most popular of these databases.
 >
-> **[1:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=102)** In contrast with relational databases, which is what we're going to be using in this course, non-relational databases primarily store unstructured data.
+> **[1:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=102)** In contrast with relational databases, which is what we're going to be using in this course, non-relational databases primarily store [[Unstructured Data]].
 >
-> **[1:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=110)** And usually what this means is that instead of storing data in rows and columns, the data in these non-relational databases is just stored in JSON objects.
+> **[1:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=110)** And usually what this means is that instead of storing data in rows and columns, the data in these non-relational databases is just stored in [[JSON]] objects.
 >
 > **[1:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980&t=119)** And there are certain trade-offs to doing this, none of which is really going to be relevant for this course.
 >
@@ -2342,7 +2315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (7), [[MySQL]] (4), [[SQL]] (4), [[Databases]] (3)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[SQL]] (4), [[Databases]] (3), [[Relational Databases]] (3), [[Database Queries]] (1)
 > **CLI Commands:** mysql (4), make (1), mongo (1)
 > **Env Vars:** sql (4), json (1)
 > **Analogies:** such as (3)
@@ -2350,12 +2323,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install MySQL and MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980)
+#### [Install MySQL and MySQL Workbench](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=0)** - [Instructor] The first thing to do here is if you don't already have MySQL installed on your computer, which is likely the case, we're going to download and install that.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=0)** - [Instructor] The first thing to do here is if you don't already have [[MySQL]] installed on your computer, which is likely the case, we're going to download and install that.
 >
 > **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=8)** And in this video, we're going to see how to do that, as well as download and install another tool that we're going to be using called MySQL Workbench.
 >
@@ -2389,7 +2361,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=116)** So the next thing that we're going to do is install a tool called MySQL Workbench.
 >
-> **[2:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=120)** Basically, what MySQL Workbench is is a user interface for interacting with our local MySQL databases.
+> **[2:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=120)** Basically, what MySQL Workbench is is a user interface for interacting with our local MySQL [[Databases]].
 >
 > **[2:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/install-mysql-and-mysql-workbench?u=76281980&t=127)** And it doesn't just work with local databases either.
 >
@@ -2415,7 +2387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (16), database (4), next (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (16), [[Databases]] (2)
 > **CLI Commands:** mysql (16), make (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **Prerequisites:** install (5)
@@ -2424,12 +2396,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Set up a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-mysql-database?u=76281980)
+#### [Set up a MySQL database](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-mysql-database?u=76281980&t=0)** - [Instructor] So now that we're connected to our local my SQL instance, what we're going to do is set up a database that our backend will be able to connect to and store data in.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-mysql-database?u=76281980&t=0)** - [Instructor] So now that we're connected to our local my [[SQL]] instance, what we're going to do is set up a database that our backend will be able to connect to and store data in.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-mysql-database?u=76281980&t=9)** The first thing we have to do here is we have to actually create a specific database that our backend will use and the way that we do that is by clicking on this little database thing with the plus sign up at the top here and we're going to create a new schema which is basically just a new database than an application can use.
 >
@@ -2497,7 +2468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (7), [[SQL]] (4), next (4), application (3)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4), varchar (2)
 > **CLI Commands:** make (5)
 > **SQL:** varchar (2)
@@ -2506,16 +2477,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Connect to a MySQL database from Node
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980)
+#### [Connect to a MySQL database from Node](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=0)** - [Instructor] So now we have MySQL installed and set up with a working database, which is pretty exciting but this won't actually do us any good yet until we know how to connect to it from our hapi server.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=0)** - [Instructor] So now we have [[MySQL]] installed and set up with a working database, which is pretty exciting but this won't actually do us any good yet until we know how to connect to it from our hapi server.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=11)** And this is actually a fairly simple process, so let's take a look at how it's done.
 >
-> **[0:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=15)** The first thing we have to do is to install the MySQL npm package into our project, which we can do by running npm install mysql, and hitting Enter.
+> **[0:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=15)** The first thing we have to do is to install the MySQL [[npm]] package into our project, which we can do by running npm install mysql, and hitting Enter.
 >
 > **[0:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=27)** And next, we're going to create a new file in our src directory.
 >
@@ -2555,7 +2525,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=108)** So what we're going to do now is we're going to export an object from this file that sort of abstracts away a lot of the complexities behind working with the MySQL driver.
 >
-> **[1:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=116)** So we're going to say export const db and this db object is something that the rest of our application will use.
+> **[1:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=116)** So we're going to say export const db and this db object is something that the [[Representational State Transfer (REST)|rest]] of our application will use.
 >
 > **[2:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-to-a-mysql-database-from-node?u=76281980&t=125)** And the first property of this objet is going to be a function called connect that our server can call to establish a connection with the database.
 >
@@ -2651,7 +2621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[MySQL]] (12), [[npm]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (12), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (12), npm (2)
 > **Code Identifiers:** querystring (2), escapedvalues (2), createconnection (1), unhandledrejection (1)
 > **Prerequisites:** set up (2), install (2)
@@ -2660,12 +2630,11 @@ created: 2026-05-02
 > **Env Vars:** sigint (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rewrite the listings endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980)
+#### [Rewrite the listings endpoints](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=0)** - [Instructor] Now that we have our service set up to connect to the database on startup, and then close that connection when the server is killed, let's move on to seeing how to make actual database queries from our routes.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=0)** - [Instructor] Now that we have our service set up to connect to the database on startup, and then close that connection when the server is killed, let's move on to seeing how to make actual [[Database Queries]] from our routes.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=11)** To demonstrate this, what we're going to be doing is rewriting both our getAllListings route and our getListing route to query the database and then send back that data to the client instead of the fake data that we've been using so far.
 >
@@ -2683,7 +2652,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=52)** We're going to say const results equals await db.query.
 >
-> **[1:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=60)** And then as an argument for this db.query function, we're going to pass a MySQL query string.
+> **[1:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=60)** And then as an argument for this db.query function, we're going to pass a [[MySQL]] query string.
 >
 > **[1:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=66)** This will be our first real contact with MySQL inside our server here.
 >
@@ -2731,7 +2700,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=210)** So now we're going to click Apply, and that should be all we need to do.
 >
-> **[3:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=215)** So now let's go back and restart our server, so npm run dev, and we should see that our server successfully connects and is running now.
+> **[3:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=215)** So now let's go back and restart our server, so [[npm]] run dev, and we should see that our server successfully connects and is running now.
 >
 > **[3:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=226)** So if we go over to Postman now and try and send a request to /api/listings and click Send, we should see that we get back all of the listings from our database.
 >
@@ -2755,7 +2724,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=322)** So what we're doing here is we're selecting the listing from our listings table with the id that the client requested.
 >
-> **[5:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=328)** And this question mark thing here is how we insert the values of variables into an SQL query in Node.
+> **[5:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=328)** And this question mark thing here is how we insert the values of variables into an [[SQL]] query in Node.
 >
 > **[5:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=334)** When we make this query, what will happen is that each question mark inside the query string will be replaced one by one with the values we provide inside this array that we're passing as the second argument.
 >
@@ -2777,7 +2746,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=402)** So basically, using this question mark thing instead of just randomly inserting values into our SQL queries prevents this kind of thing from happening by inserting the values properly.
 >
-> **[6:53](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=413)** So anyway, now that we have our results from that query, which is going to be either an array with a single element since listing ids are unique, or it will be an empty array if the listing doesn't exist, what we can do is we can just say const listing equals results index zero, and then the rest of our code will still be valid here.
+> **[6:53](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=413)** So anyway, now that we have our results from that query, which is going to be either an array with a single element since listing ids are unique, or it will be an empty array if the listing doesn't exist, what we can do is we can just say const listing equals results index zero, and then the [[Representational State Transfer (REST)|rest]] of our code will still be valid here.
 >
 > **[7:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rewrite-the-listings-endpoints?u=76281980&t=435)** We just want to return the listing if it exists.
 >
@@ -2793,7 +2762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[SQL]] (8), [[MySQL]] (5), api (5), data (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[MySQL]] (5), [[Database Queries]] (1), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (8), select (2), drop (2), table (2), sigint (1)
 > **CLI Commands:** make (5), mysql (5), npm (1), node (1)
 > **Code Identifiers:** getalllistings (3), fakelistings (3), getlisting (2), notfound (1)
@@ -2802,8 +2771,7 @@ created: 2026-05-02
 > **Analogies:** for example (3), just like (1)
 > **UI Navigation:** click on (3)
 
-#### Create an endpoint for adding views
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-for-adding-views?u=76281980)
+#### [Create an endpoint for adding views](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-for-adding-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2847,7 +2815,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-for-adding-views?u=76281980&t=138)** And then we're just going to have an array with the ID as a member.
 >
-> **[2:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-for-adding-views?u=76281980&t=144)** And again, if you're new to SQL here, don't worry too much about this one.
+> **[2:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-for-adding-views?u=76281980&t=144)** And again, if you're new to [[SQL]] here, don't worry too much about this one.
 >
 > **[2:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-for-adding-views?u=76281980&t=147)** All we're doing here is saying that we want to increment the number of views on the listing with the ID matching the ID URL parameter.
 >
@@ -2903,7 +2871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), next (2), api (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** url (3), api (2), sql (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -2912,8 +2880,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** make sure to (1)
 
-#### Create an endpoint to get a user listing
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-get-a-user-listing?u=76281980)
+#### [Create an endpoint to get a user listing](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-get-a-user-listing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2947,7 +2914,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-get-a-user-listing?u=76281980&t=78)** Otherwise, what we'll do is we'll return an error saying that the user isn't authorized to get this data.
 >
-> **[1:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-get-a-user-listing?u=76281980&t=83)** Since we only want users to be able to fetch their own listings and not the listings of some other user.
+> **[1:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-get-a-user-listing?u=76281980&t=83)** Since we only want users to be able to [[Fetch]] their own listings and not the listings of some other user.
 >
 > **[1:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-get-a-user-listing?u=76281980&t=88)** And granted in our application, this wouldn't be that big of a deal, since users can see all of each other's listings anyway.
 >
@@ -2985,7 +2952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), api (2), data (2), next (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Code Identifiers:** userid (7), getuserlistingsroute (3), getuserlistings (2), user_id (2)
 > **Env Vars:** url (2), select (1), where (1), api (1), post (1)
 > **API Endpoints:** get  (2), /api/users/ (1), post  (1)
@@ -2994,8 +2961,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an endpoint to create listings
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980)
+#### [Create an endpoint to create listings](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3009,7 +2975,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=16)** We'll be using this package in our route to generate random, unique IDs for the new listings that users create.
 >
-> **[0:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=22)** So we're going to say NPM install, UUID and hit enter.
+> **[0:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=22)** So we're going to say [[npm]] install, UUID and hit enter.
 >
 > **[0:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=27)** And just a note about this package, depending on the version of NOJS you're using on your computer, this package may throw a weird error for you when you try and use it on our server.
 >
@@ -3067,7 +3033,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=268)** We're going to say, return ID, name, description, price, user ID, user ID.
 >
-> **[4:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=277)** We just have to do that there because we don't like to use underscore names as variable names in JavaScript, and then views.
+> **[4:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=277)** We just have to do that there because we don't like to use underscore names as variable names in [[JavaScript]], and then views.
 >
 > **[4:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-create-listings?u=76281980&t=288)** And now that we've created the route, we just have to export it from our routes index.js file.
 >
@@ -3095,7 +3061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), api (3), hit (2), next (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[JavaScript]] (1)
 > **Env Vars:** uuid (5), post (2), npm (1), nojs (1)
 > **CLI Commands:** npm (1), node (1), make (1)
 > **File Paths:** createnewlisting.js (1), index.js (1)
@@ -3104,8 +3070,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Code Identifiers:** user_id (1)
 
-#### Create an endpoint to edit listings
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-edit-listings?u=76281980)
+#### [Create an endpoint to edit listings](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-edit-listings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3143,7 +3108,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-edit-listings?u=76281980&t=97)** We're just going to say await db dot query and I'm going to use backticks for this one, since it's going to be another multi line query.
 >
-> **[1:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-edit-listings?u=76281980&t=106)** We're going to say update listings and this is just how we update things in MySQL.
+> **[1:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-edit-listings?u=76281980&t=106)** We're going to say update listings and this is just how we update things in [[MySQL]].
 >
 > **[1:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-edit-listings?u=76281980&t=114)** So we're going to say set name equals question mark we'll be inserting that later description, Price and then we're going to say where id equals question mark and user id equals question mark.
 >
@@ -3173,7 +3138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), api (2), next (1), business (1), data (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **Env Vars:** post (3), url (1), api (1)
 > **CLI Commands:** make (3), mysql (1)
 > **API Endpoints:** post  (2)
@@ -3182,8 +3147,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Create an endpoint to delete listings
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-delete-listings?u=76281980)
+#### [Create an endpoint to delete listings](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-delete-listings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3227,7 +3191,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-delete-listings?u=76281980&t=107)** And now let's export this route from our index.js file.
 >
-> **[1:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-delete-listings?u=76281980&t=111)** So we're going to say import deleteListingRoute from deleteListing and export that along with the rest of our routes.
+> **[1:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-delete-listings?u=76281980&t=111)** So we're going to say import deleteListingRoute from deleteListing and export that along with the [[Representational State Transfer (REST)|rest]] of our routes.
 >
 > **[2:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-an-endpoint-to-delete-listings?u=76281980&t=126)** And now we should be able to send a delete request to api/listing/ and then this big, long ID of the listing that we created and click Send.
 >
@@ -3237,7 +3201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** deletelisting (2), deletelistingroute (2)
 > **Env Vars:** url (2), api (1)
 > **File Paths:** deletelisting.js (1), index.js (1)
@@ -3250,8 +3214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Services in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980)
+#### [Services in Angular](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3261,9 +3224,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=7)** And that's what we'll be doing over the course of the next few videos.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=10)** Now, there are a few tools and tricks to getting this sort of front end, back end communication to work properly, but before we get into all of those, we're going to take a look at something called services in Angular.
+> **[0:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=10)** Now, there are a few tools and tricks to getting this sort of front end, back end communication to work properly, but before we get into all of those, we're going to take a look at something called services in [[Angular]].
 >
-> **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=21)** Basically Angular services are like Angular components, except they don't have any corresponding HTML that gets rendered on the page.
+> **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=21)** Basically Angular services are like Angular components, except they don't have any corresponding [[HTML]] that gets rendered on the page.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=29)** So then if services aren't rendered to the page, what exactly do we use them for?
 >
@@ -3277,7 +3240,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=64)** Now, one possible way of interacting with the server from our front end would be to simply include all the logic for doing so inside our components themselves.
 >
-> **[1:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=73)** So for example, we would fetch our listings here.
+> **[1:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=73)** So for example, we would [[Fetch]] our listings here.
 >
 > **[1:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980&t=76)** However, this is generally not a good idea.
 >
@@ -3369,7 +3332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), data (7), application (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[HTML]] (1), [[Fetch]] (1)
 > **Code Identifiers:** getlistings (3), fakelistings (2), listingsservice (2)
 > **Analogies:** for example (2), just like (2)
 > **Prerequisites:** set up (2)
@@ -3377,12 +3340,11 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### RxJS and the Angular HttpClient
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rxjs-and-the-angular-httpclient?u=76281980)
+#### [RxJS and the Angular HttpClient](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rxjs-and-the-angular-httpclient?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rxjs-and-the-angular-httpclient?u=76281980&t=0)** - [Instructor] Now that we've learned about services in Angular and created our own service that our front end can use to interact with the server, it's time to take a look at the tools we'll be using to actually do that communication.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rxjs-and-the-angular-httpclient?u=76281980&t=0)** - [Instructor] Now that we've learned about services in [[Angular]] and created our own service that our front end can use to interact with the server, it's time to take a look at the tools we'll be using to actually do that communication.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/rxjs-and-the-angular-httpclient?u=76281980&t=11)** In order to make network requests in Angular, there are two main tools we need to use.
 >
@@ -3450,15 +3412,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), data (3), next (2), generic (2), api (1)
+> **Frameworks & Libraries:** [[Angular]] (7)
 > **Code Identifiers:** getlistings (5), listingservice (1), listingsservice (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoid CORS errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980)
+#### [Avoid CORS errors](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3476,7 +3437,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=33)** The first thing we need to do is in the root of our app directory, we need to create a new file.
 >
-> **[0:39](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=39)** And we're going to call that file "proxy.config.json".
+> **[0:39](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=39)** And we're going to call that file "proxy.config.[[JSON]]".
 >
 > **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=45)** And this will contain some configuration info that our app can use to set up a Proxy for our requests.
 >
@@ -3534,13 +3495,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=207)** Let's open up our "package.json" file and then down here in the scripts directory, we're going to find the "start script", which is just a shortcut for "ng serve" and we're going to change that to "ng serve --proxy-config proxy.config.json".
 >
-> **[3:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=232)** And now instead of typing that whole command out like this, all we have to do is type "npm run start" or we can just type "npm start" that works too.
+> **[3:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=232)** And now instead of typing that whole command out like this, all we have to do is type "[[npm]] run start" or we can just type "npm start" that works too.
 >
 > **[4:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/avoid-cors-errors?u=76281980&t=243)** And if we take a look at our Listings Page again, we see that our app is successfully loading data from our happy server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (7), [[JSON]] (6), api (3), database (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[JSON]] (6), [[npm]] (2)
 > **CLI Commands:** make (5), find (2), npm (2)
 > **File Paths:** proxy.config.json (3), package.json (2)
 > **Prerequisites:** set up (4), setup (1)
@@ -3549,14 +3510,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
 
-#### Connect the Listing Detail page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980)
+#### [Connect the Listing Detail page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=0)** - Okay, so far our app is loading our listings for the listings page from our backend.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=5)** So over the course of the next few videos, we're going to be changing over the rest of the pages in our app to do the same thing.
+> **[0:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=5)** So over the course of the next few videos, we're going to be changing over the [[Representational State Transfer (REST)|rest]] of the pages in our app to do the same thing.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=11)** So what we're going to do is we're going to start off with the listing detail page and contact page, which will behave fairly similarly.
 >
@@ -3580,7 +3540,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=84)** And this object is going to have a key called headers, which is going to be new HttpHeaders.
 >
-> **[1:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=92)** And we're going to pass the content type header whose value will be application/json.
+> **[1:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=92)** And we're going to pass the content type header whose value will be application/[[JSON]].
 >
 > **[1:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=100)** And basically what this does is it just tells our server that the request body of our post request is a json object.
 >
@@ -3648,7 +3608,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=348)** So that's pretty much it for our TypeScript component.
 >
-> **[5:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=351)** The next thing we're going to do is open up our listing detail page HTML.
+> **[5:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=351)** The next thing we're going to do is open up our listing detail page [[HTML]].
 >
 > **[5:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-listing-detail-page?u=76281980&t=357)** And remember that when we built this page originally, we didn't put anywhere on our page where we displayed the actual number of views that a given listing had.
 >
@@ -3696,7 +3656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Representational State Transfer (REST)|Rest]] (2), application (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (2), [[HTML]] (1)
 > **Code Identifiers:** ngoninit (4), getlistingbyid (3), addviewtolisting (3), listingservice (3), isloading (3)
 > **UI Navigation:** click on (2), open the (1)
 > **API Endpoints:** /api/listings (1), /api/listings/id/add-view (1)
@@ -3705,8 +3665,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 
-#### Connect the My Listings page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-my-listings-page?u=76281980)
+#### [Connect the My Listings page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-my-listings-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3796,7 +3755,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-my-listings-page?u=76281980&t=246)** And that should be all we need to do.
 >
-> **[4:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-my-listings-page?u=76281980&t=248)** Now if we test this out in the browser, we should see that it's loading our listings from our MySQL database.
+> **[4:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-my-listings-page?u=76281980&t=248)** Now if we test this out in the browser, we should see that it's loading our listings from our [[MySQL]] database.
 >
 > **[4:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-my-listings-page?u=76281980&t=253)** And furthermore, if we click on the delete button, it deletes the listing.
 >
@@ -3810,7 +3769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), api (2), [[MySQL]] (1), database (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** click on (2)
@@ -3819,8 +3778,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Connect the New Listing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980)
+#### [Connect the New Listing page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3832,7 +3790,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=17)** The name of the new listing, the description of the new listing, which is going to be a string as well and the price of the new listing, which will be a number and this method is going to return an observable that calls it's callback with a listing type and then inside this method, we just have to say return this.http.post.
 >
-> **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=45)** Remember that we have to use a post request since we want to send along this extra information when we create our new listing and this post request is going to respond to the listing and the URL we want to send this request to is going to be /api/listings and for the response body, we're going to pass along our name, description and price arguments inside a JavaScript object and then we just need to pass along the HTTP options that we defined up at the top just like we did when we added views to listings.
+> **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=45)** Remember that we have to use a post request since we want to send along this extra information when we create our new listing and this post request is going to respond to the listing and the URL we want to send this request to is going to be /api/listings and for the response body, we're going to pass along our name, description and price arguments inside a [[JavaScript]] object and then we just need to pass along the HTTP options that we defined up at the top just like we did when we added views to listings.
 >
 > **[1:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=85)** So that's all we need to do for our listing service.
 >
@@ -3846,7 +3804,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=137)** For now, to do that, we're just going to say name, description and price, like that and then we're going to pass those as arguments to our create listing method, just like this, name, description and price and then we're going to say .subscribe and when this finishes, we're going to put this this .router.navigatebyURL statement inside the callback here so that when this operation completes, it'll navigate us back to our my listings page.
 >
-> **[2:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=172)** So in order to actually get this data, remember that in our listing data form component, we call this this.onsubmit.admit thing with the data that the user filled out in the inputs and the way that we actually access this data from inside our new listing page appear on our onSubmit method is by opening up our new listing pages HTML file
+> **[2:52](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=172)** So in order to actually get this data, remember that in our listing data form component, we call this this.onsubmit.admit thing with the data that the user filled out in the inputs and the way that we actually access this data from inside our new listing page appear on our onSubmit method is by opening up our new listing pages [[HTML]] file
 >
 > **[3:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-new-listing-page?u=76281980&t=202)** and here where we're tapping into the onSubmit output of our listing data form, all we have to do is add this little dollar sign event thing to the parentheses of the onSubmit method.
 >
@@ -3858,7 +3816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (1), [[JavaScript]] (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[HTML]] (1)
 > **Code Identifiers:** onsubmit (6), navigatebyurl (1)
 > **Env Vars:** url (1), http (1), html (1)
 > **Analogies:** just like (3)
@@ -3867,8 +3825,7 @@ created: 2026-05-02
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect the Edit Listing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-edit-listing-page?u=76281980)
+#### [Connect the Edit Listing page](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-edit-listing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3926,7 +3883,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-edit-listing-page?u=76281980&t=191)** And the last thing we have to do is just like we did with our new listing page component, where we added this event thing.
 >
-> **[3:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-edit-listing-page?u=76281980&t=197)** We're going to add that to our edit listing pages HTML.
+> **[3:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-edit-listing-page?u=76281980&t=197)** We're going to add that to our edit listing pages [[HTML]].
 >
 > **[3:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/connect-the-edit-listing-page?u=76281980&t=201)** So let's open that file up.
 >
@@ -3948,7 +3905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** http (2), url (2), api (1), html (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ngif (2), ngon (1)
@@ -3961,8 +3918,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Firebase Auth?
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980)
+#### [What is Firebase Auth?](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3982,13 +3938,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=44)** Now obviously, one possibility of adding authentication to our app would be to build out the entire auth flow from scratch.
 >
-> **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=51)** However, authentication can be a very complex and time consuming thing to implement, and at the end of the day, the humble fact is that most of us just don't have the expertise to implement a secure authentication flow.
+> **[0:51](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=51)** However, authentication can be a very complex and time consuming thing to implement, and at the end of the day, the humble fact is that most of us just don't have the expertise to implement a [[Secure Authentication]] flow.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=63)** So what we can do instead is use what's called an auth provider.
 >
 > **[1:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=66)** Basically, an auth provider is a third-party that takes care of all the complexities of authentication for us.
 >
-> **[1:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=72)** In this course, the auth provider we're going to be using is called Firebase Auth, which is a tool provided by Google, largely for free.
+> **[1:12](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=72)** In this course, the auth provider we're going to be using is called [[Firebase]] Auth, which is a tool provided by [[Google]], largely for free.
 >
 > **[1:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980&t=80)** So as you'll see in coming videos, Firebase Auth makes the user authentication process incredibly easy.
 >
@@ -4008,19 +3964,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Firebase]] (5), [[Google]] (2), functional (1), front-end (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[Google]] (2), [[Secure Authentication]] (1)
 > **Definitions:** means that (2), is a  (2), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up a Firebase account
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980)
+#### [Set up a Firebase account](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=0)** - [Narrator] So now that we know what Firebase of is and why we're going to use it, the first thing we have to do in order to add authentication to our application is create a Firebase account.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=0)** - [Narrator] So now that we know what [[Firebase]] of is and why we're going to use it, the first thing we have to do in order to add authentication to our application is create a Firebase account.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=9)** And then we'll need to create a project for our application in Firebase.
 >
@@ -4028,7 +3983,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=25)** The basic flow and concepts that we'll see here should stay pretty much the same.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=30)** So to create an account, you're going to want to open up a browser and go to firebase.[google.com](https://google.com).
+> **[0:30](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=30)** So to create an account, you're going to want to open up a browser and go to firebase.[[[Google]].com](https://google.com).
 >
 > **[0:36](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/set-up-a-firebase-account?u=76281980&t=36)** And once you're there, you're going to want to click on this get started button.
 >
@@ -4090,7 +4045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (11), [[Google]] (6), application (4), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (11), [[Google]] (6)
 > **UI Navigation:** click on (8), go to (1), checkbox (1)
 > **Analogies:** for example (2), similar to (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -4099,12 +4054,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 
-#### Add Firebase to Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980)
+#### [Add Firebase to Angular](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=0)** - [Narrator] Now that we've created the Firebase project for our app, which will allow us to add authentication functionality, we need to actually hook our Angular app up to this Firebase project we created.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=0)** - [Narrator] Now that we've created the [[Firebase]] project for our app, which will allow us to add authentication functionality, we need to actually hook our [[Angular]] app up to this Firebase project we created.
 >
 > **[0:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=10)** In the Firebase console we need to go back to our project's home page, which you can get to by clicking on this project overview in the top left.
 >
@@ -4112,7 +4066,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=21)** This will ask us to name the specific app.
 >
-> **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=23)** And by the way, Firebase uses the word app to refer to specific platforms that a given project runs on.
+> **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=23)** And by the way, Firebase uses the [[Microsoft Word|word]] app to refer to specific platforms that a given project runs on.
 >
 > **[0:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=29)** So in our case, we're going to call ours Angular Front-end and just leave this checkbox unchecked.
 >
@@ -4128,7 +4082,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=63)** What we're going to do instead is leave this window up and head over to our front end project code.
 >
-> **[1:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=70)** And what we need to do is we need to install a few npm packages into our front end.
+> **[1:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=70)** And what we need to do is we need to install a few [[npm]] packages into our front end.
 >
 > **[1:15](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=75)** So we're going to say npm install @angular/fire.
 >
@@ -4158,7 +4112,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=160)** Basically, what these modules do is when we run our app, they allow our app to communicate with the Firebase project we created in the Firebase console.
 >
-> **[2:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=168)** So now all we have left to do is go back to the browser and copy this Firebase config JSON thing that Firebase spat out for us.
+> **[2:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=168)** So now all we have left to do is go back to the browser and copy this Firebase config [[JSON]] thing that Firebase spat out for us.
 >
 > **[2:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-angular?u=76281980&t=177)** And then we're going to go back to our front end app and we're going to look for a folder called environments, right here.
 >
@@ -4176,7 +4130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (16), [[Angular]] (8), application (2), [[npm]] (2), web (1)
+> **Frameworks & Libraries:** [[Firebase]] (16), [[Angular]] (8), [[npm]] (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **UI Navigation:** click on (3), checkbox (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Prerequisites:** install (3)
@@ -4185,12 +4139,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **File Paths:** environments.ts (1)
 
-#### Add Firebase to hapi
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980)
+#### [Add Firebase to hapi](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=0)** - Now that should be all we need to do to add Firebase to our front end.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=0)** - Now that should be all we need to do to add [[Firebase]] to our front end.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=4)** The next thing we're going to do is add Firebase to our backend.
 >
@@ -4200,7 +4153,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=26)** So adding Firebase to our backend is pretty similar to what we just did with our front end, except the names of the packages are going to be slightly different.
 >
-> **[0:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=34)** And actually, the only package we'll need to install here is called Firebase Admin, which we can install by saying npm install, firebase admin, and hitting Enter.
+> **[0:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=34)** And actually, the only package we'll need to install here is called Firebase Admin, which we can install by saying [[npm]] install, firebase admin, and hitting Enter.
 >
 > **[0:49](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=49)** And once we've done that, we'll need to open up our server.js file.
 >
@@ -4212,7 +4165,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=77)** Now, before this will actually work, what we need to do is give our server the right credentials.
 >
-> **[1:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=82)** Our server will be doing some pretty sensitive things like verifying users auth tokens.
+> **[1:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=82)** Our server will be doing some pretty sensitive things like verifying users auth [[Tokens]].
 >
 > **[1:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=87)** So we need to generate a secret key in Firebase and give that to our server to allow it to do that kind of thing.
 >
@@ -4228,7 +4181,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=114)** And then down here near the bottom of the page, we're going to click this button that says Generate new private key.
 >
-> **[2:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=120)** And then we're going to click Generate key, and this will download a JSON file for us containing some very sensitive information.
+> **[2:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=120)** And then we're going to click Generate key, and this will download a [[JSON]] file for us containing some very sensitive information.
 >
 > **[2:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=127)** So be careful with it.
 >
@@ -4254,7 +4207,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=207)** Now, one thing to remember is that this credential.json file does contain secret keys.
 >
-> **[3:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=212)** So make sure that you don't commit it as is to GitHub or anywhere else that people might see it.
+> **[3:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=212)** So make sure that you don't commit it as is to [[GitHub]] or anywhere else that people might see it.
 >
 > **[3:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/add-firebase-to-hapi?u=76281980&t=217)** So if you have a gitignore file, for example, you might want to add the name of that file to it, so credentials.json.
 >
@@ -4264,7 +4217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (12), [[JSON]] (7), next (1), [[npm]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (12), [[JSON]] (7), [[npm]] (1), [[Tokens]] (1), [[GitHub]] (1)
 > **File Paths:** credentials.json (4), server.js (1), credential.json (1)
 > **CLI Commands:** make (2), npm (1), mv (1)
 > **Prerequisites:** install (3), set up (1)
@@ -4273,12 +4226,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), github (1)
 > **UI Navigation:** click on (2)
 
-#### Sign in and out
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980)
+#### [Sign in and out](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=0)** - [Instructor] Okay, so now that we've added the basic Firebase off set up to both our front and backend, the next logical step is to allow our users to log in and log out.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=0)** - [Instructor] Okay, so now that we've added the basic [[Firebase]] off set up to both our front and backend, the next logical step is to allow our users to log in and log out.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=9)** And the fact is that while all that setup we just went through was maybe a bit complicated, now that we have it all done, actually performing the authentication is almost laughably easy.
 >
@@ -4292,7 +4244,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=42)** That's the package that we'll be using to log in with.
 >
-> **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=45)** From @angular/fire/auth.
+> **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=45)** From @[[Angular]]/fire/auth.
 >
 > **[0:50](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=50)** And then we're going to say import auth from firebase/app.
 >
@@ -4314,7 +4266,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=114)** And then inside of there, we're going to say new auth.GoogleAauthProvider with parentheses after it.
 >
-> **[2:01](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=121)** So what this is going to do here is it's going to bring up a new tab in our user's browser that'll have them sign in with their Google account.
+> **[2:01](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=121)** So what this is going to do here is it's going to bring up a new tab in our user's browser that'll have them sign in with their [[Google]] account.
 >
 > **[2:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=128)** We'll see exactly what that looks like shortly as well.
 >
@@ -4336,7 +4288,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=164)** So that pretty much completes our changes to our app's TypeScript file.
 >
-> **[2:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=167)** The next thing we're going to do is make a few changes to our app component's HTML file.
+> **[2:47](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=167)** The next thing we're going to do is make a few changes to our app component's [[HTML]] file.
 >
 > **[2:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=174)** Basically, what we're going to do here is first, we're going to create two different screens that will be displayed depending whether the user is logged in or not, and second, we're going to add sign in and sign out buttons that are going to be linked to the methods we just created.
 >
@@ -4374,13 +4326,13 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=305)** And this will open up a new tab that allows us to pick the Google account we want to sign in with.
 >
-> **[5:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=310)** So I'm going to log in with this email address here, and that'll send us back to our frontend, and lo and behold, we're now logged in and we can see the rest of the app.
+> **[5:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=310)** So I'm going to log in with this email address here, and that'll send us back to our frontend, and lo and behold, we're now logged in and we can see the [[Representational State Transfer (REST)|rest]] of the app.
 >
 > **[5:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/sign-in-and-out?u=76281980&t=320)** And we can also sign out again if we want to by clicking the sign out button we created, and we'll just see the sign in screen again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Google]] (5), [[Firebase]] (2), [[Angular]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Firebase]] (2), [[Angular]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** signinclicked (2), signoutclicked (2), ngif (2), signinwithpopup (1), signout (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), setup (1)
@@ -4388,12 +4340,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load user listings with Auth
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980)
+#### [Load user listings with Auth](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=0)** - [Instructor] So now that we've allowed users to sign in and out, it's time to start incorporating Firebase Auth into some of the other parts of our app.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=0)** - [Instructor] So now that we've allowed users to sign in and out, it's time to start incorporating [[Firebase]] Auth into some of the other parts of our app.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=7)** Recall that earlier in the course, there were several places in both our front end and back end, where we sort of faked a user by hard coding a user ID.
 >
@@ -4409,7 +4360,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=45)** So inside our listings dot service file, let's make a few changes.
 >
-> **[0:49](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=49)** The first thing we're going to do is up at the top, we're going to say import, Angular fire auth from at Angular, slash fire slash auth.
+> **[0:49](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=49)** The first thing we're going to do is up at the top, we're going to say import, [[Angular]] fire auth from at Angular, slash fire slash auth.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/load-user-listings-with-auth?u=76281980&t=63)** And then what we're going to do is just like we define this HTTP option, saying that we passed along with some of our requests, we're going to define a function called HTTP options with auth token.
 >
@@ -4505,7 +4456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), [[Angular]] (4), next (4), data (1), application (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[Angular]] (4)
 > **CLI Commands:** make (7)
 > **Env Vars:** http (7)
 > **Definitions:** is a  (2)
@@ -4514,8 +4465,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create listings with Auth
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980)
+#### [Create listings with Auth](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4545,7 +4495,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=95)** For the back end, we're going to make a few simple changes to our create listing route, so let's open that up here.
 >
-> **[1:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=102)** Open up create new listing dot js, and we're going to start off my importing firebase admin, so import star as admin from firebase admin.
+> **[1:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=102)** Open up create new listing dot js, and we're going to start off my importing [[Firebase]] admin, so import star as admin from firebase admin.
 >
 > **[1:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=116)** And then just like with the route that we saw previously, we're going to get the auth token from the request headers and verify it, which will look like this.
 >
@@ -4561,9 +4511,9 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=175)** And those should be all the changes we need.
 >
-> **[2:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=177)** The rest will be reflected down here.
+> **[2:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=177)** The [[Representational State Transfer (REST)|rest]] will be reflected down here.
 >
-> **[2:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=179)** The new user ID that we're no longer hard coding will be inserted into our SQL query and that should make it work exactly the way we want it to.
+> **[2:59](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=179)** The new user ID that we're no longer hard coding will be inserted into our [[SQL]] query and that should make it work exactly the way we want it to.
 >
 > **[3:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/create-listings-with-auth?u=76281980&t=188)** So now if we save this file and go back to our my listings page, we should be able to click on create new listing and fill something out like this,
 >
@@ -4573,7 +4523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (2), api (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), sql (1)
@@ -4582,8 +4532,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit listings with Auth
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/edit-listings-with-auth?u=76281980)
+#### [Edit listings with Auth](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/edit-listings-with-auth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4625,7 +4574,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/edit-listings-with-auth?u=76281980&t=93)** So let's open that up.
 >
-> **[1:39](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/edit-listings-with-auth?u=76281980&t=99)** And up at the top, just like we've seen in our other routes, we're going to import * as admin from firebase-admin.
+> **[1:39](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/edit-listings-with-auth?u=76281980&t=99)** And up at the top, just like we've seen in our other routes, we're going to import * as admin from [[Firebase]]-admin.
 >
 > **[1:48](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/edit-listings-with-auth?u=76281980&t=108)** And then down here, underneath where we get the name, description, and price from the payload, we're going to say const token = req.headers.authtoken.
 >
@@ -4645,15 +4594,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Firebase]] (1), application (1), database (1)
+> **Frameworks & Libraries:** [[Firebase]] (1)
 > **Code Identifiers:** userid (2), editlisting (1), getidtoken (1), httpoptionswithauthtoken (1), verifyidtoken (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete listings with Auth
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980)
+#### [Delete listings with Auth](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4683,7 +4631,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=86)** Pretty much what we've seen before.
 >
-> **[1:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=88)** Now let's move over to the backend and we're basically going to do what we've done with the rest of our routes.
+> **[1:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=88)** Now let's move over to the backend and we're basically going to do what we've done with the [[Representational State Transfer (REST)|rest]] of our routes.
 >
 > **[1:33](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=93)** So let's open up our delete listing route.
 >
@@ -4695,11 +4643,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=120)** And of course we need to actually import admin up at the top.
 >
-> **[2:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=123)** So we're going to say import star as admin from firebase admin.
+> **[2:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=123)** So we're going to say import star as admin from [[Firebase]] admin.
 >
 > **[2:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=130)** And then we're just going to say const user ID, equals user, that user ID.
 >
-> **[2:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=138)** And what we're going to do is we're going to insert this user ID into my SQL query to make sure that the listing will only get deleted if the correct user is actually requesting it.
+> **[2:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=138)** And what we're going to do is we're going to insert this user ID into my [[SQL]] query to make sure that the listing will only get deleted if the correct user is actually requesting it.
 >
 > **[2:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/delete-listings-with-auth?u=76281980&t=149)** So we're just going to add, And user ID equals question mark, and then we're going to add user ID to this array argument here.
 >
@@ -4715,7 +4663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Firebase]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Firebase]] (1), [[SQL]] (1)
 > **Env Vars:** http (3), sql (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), such as (1)
@@ -4728,14 +4676,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Move a full-stack app to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980)
+#### [Move a full-stack app to the cloud](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=0)** - [Instructor] Okay, at this point in the course we've got our entire full-stack application set up.
 >
-> **[0:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=4)** We've got the Angular front end, we have the Hapi JS server, we have a MySQL database, and we have Firebase Auth as our auth provider.
+> **[0:04](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=4)** We've got the [[Angular]] front end, we have the Hapi JS server, we have a [[MySQL]] database, and we have [[Firebase]] Auth as our auth provider.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=13)** And all of this is something to be really proud of since not many web developers know how to do what we just did.
 >
@@ -4745,7 +4692,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=36)** So in this section, we're going to see how we can move our app to the cloud so that it can be accessed by anyone.
 >
-> **[0:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=42)** And to host our app, we're going to be using a platform called Google Cloud.
+> **[0:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=42)** And to host our app, we're going to be using a platform called [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=46)** Now, if you've never deployed a full-stack app before, this might seem pretty scary.
 >
@@ -4755,7 +4702,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=69)** Now, before we get into deploying our app, let's first take a look at the basic process we're going to be following.
 >
-> **[1:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=74)** This'll help put everything we'll be doing throughout the rest of the course into perspective.
+> **[1:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=74)** This'll help put everything we'll be doing throughout the [[Representational State Transfer (REST)|rest]] of the course into perspective.
 >
 > **[1:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980&t=78)** Here are the basic steps we're going to be following.
 >
@@ -4781,25 +4728,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Firebase]] (4), database (3), full-stack (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Firebase]] (4), [[MySQL]] (2), [[Angular]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (2)
 > **Prerequisites:** set up (1), install (1)
 > **Tools:** command line (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the Google Cloud CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980)
+#### [Installing the Google Cloud CLI](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=0)** - [Instructor] So now that we know a little bit more about how the process of hosting our app is going to work, the first step we're going to take is to install and set up the Google Cloud CLI tools.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=0)** - [Instructor] So now that we know a little bit more about how the process of hosting our app is going to work, the first step we're going to take is to install and set up the [[Google Cloud Platform (GCP)|Google Cloud]] [[CLI]] tools.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=9)** So the first thing we're going to want to do here is go to the Google Cloud console in your browser.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=14)** And this is a different thing than the Firebase console that we used earlier when we were adding authentication to our app.
+> **[0:14](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=14)** And this is a different thing than the [[Firebase]] console that we used earlier when we were adding authentication to our app.
 >
-> **[0:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=20)** You can get there by going to [console.cloud](https://console.cloud).[google.com](https://google.com).
+> **[0:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=20)** You can get there by going to [console.cloud](https://console.cloud).[[[Google]].com](https://google.com).
 >
 > **[0:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/installing-the-google-cloud-cli?u=76281980&t=24)** And when you go there, you might need to set up your account.
 >
@@ -4867,7 +4813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Firebase]] (3), cloud (3), [[Google]] (3), hit (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Firebase]] (3), [[Google]] (3), [[CLI]] (2)
 > **Prerequisites:** set up (5), install (2), setup (1)
 > **Tools:** terminal (3), command line (1), bash (1)
 > **CLI Commands:** gcloud (2), curl (1), make (1)
@@ -4876,12 +4822,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1)
 
-#### Moving MySQL to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980)
+#### [Moving MySQL to the cloud](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=0)** - [Instructor] So now that we've got our Google cloud setup, the next thing we're going to do is move our My SQL database to the cloud.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=0)** - [Instructor] So now that we've got our [[Google Cloud Platform (GCP)|Google cloud]] setup, the next thing we're going to do is move our My [[SQL]] database to the cloud.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=6)** And to do that, we're basically just going to create a new My SQL database on the cloud and walk through the same kind of setup that we did earlier in the course when we created our local database.
 >
@@ -4893,7 +4838,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=35)** And then will just ask us for a billing account and we'll select my billing account and click set account.
 >
-> **[0:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=42)** And then we're going to click create instance, and we're going to select MySQL here.
+> **[0:42](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=42)** And then we're going to click create instance, and we're going to select [[MySQL]] here.
 >
 > **[0:49](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=49)** And then we're going to need to fill out a few pieces of data about our new database.
 >
@@ -4933,7 +4878,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=157)** And then for the name, we're just going to say something like local computer, and then for the network, we'll need to find out what our IP address is.
 >
-> **[2:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=166)** And to do this, you can just open up Google and search for what's my IP address.
+> **[2:46](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=166)** And to do this, you can just open up [[Google]] and search for what's my IP address.
 >
 > **[2:53](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/moving-mysql-to-the-cloud?u=76281980&t=173)** And then we're going to copy that and paste it inside the network box.
 >
@@ -5005,7 +4950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[SQL]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (8), cloud (6), [[MySQL]] (6)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (8), [[MySQL]] (6), [[Google]] (1)
 > **UI Navigation:** click on (11), scroll down (2), go to (2), dropdown (1)
 > **CLI Commands:** mysql (6), find (4), make (3)
 > **Env Vars:** sql (10)
@@ -5014,14 +4959,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (3)
 > **Analogies:** just like (3)
 
-#### Environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980)
+#### [Environment variables](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=0)** - [Instructor] Okay, so previously we saw how to point our hapi server at the cloud based MySQL instance that we created.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=0)** - [Instructor] Okay, so previously we saw how to point our hapi server at the cloud based [[MySQL]] instance that we created.
 >
-> **[0:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=6)** However, in real life when we have several different databases available for our back end to connect to, we'll want to have a way to break those details out into separate files that get loaded into our server automatically, and the way that we generally do this in full stack apps is by using something called environment files.
+> **[0:06](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=6)** However, in real life when we have several different [[Databases]] available for our back end to connect to, we'll want to have a way to break those details out into separate files that get loaded into our server automatically, and the way that we generally do this in full stack apps is by using something called environment files.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=23)** Basically, environment variables just contain a number of different variables and values that should be different based on where our code is being executed from.
 >
@@ -5031,7 +4975,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=43)** We're going to start off by installing a package called dotenv, that will basically take an environment file and assign whatever values it contains to our apps environment, and we'll see exactly how this works shortly.
 >
-> **[0:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=54)** So to install this dotenv package, let's run npm install dotenv and hit Enter.
+> **[0:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=54)** So to install this dotenv package, let's run [[npm]] install dotenv and hit Enter.
 >
 > **[1:05](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=65)** And then we're going to create an environment file, which is just called dotenv by default, hence the name of that package we just installed.
 >
@@ -5053,7 +4997,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=144)** So what we're going to do now is instead of having all these strings hard coded here, we're going to use environment variables that we just defined.
 >
-> **[2:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=151)** So for host, we're going to say process dot env, which is how we access environment variables in Node.js, and then we're going to say DB host.
+> **[2:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=151)** So for host, we're going to say process dot env, which is how we access environment variables in [[Node.js]], and then we're going to say DB host.
 >
 > **[2:41](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=161)** And then for user, we're going to say process dotenv dot DB user.
 >
@@ -5063,7 +5007,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=196)** And we're going to need to change this from a comma to a semi colon.
 >
-> **[3:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=200)** And then up here, we're going to need to say let connection so that the rest of our app has access to that.
+> **[3:20](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=200)** And then up here, we're going to need to say let connection so that the [[Representational State Transfer (REST)|rest]] of our app has access to that.
 >
 > **[3:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/environment-variables?u=76281980&t=209)** And the reason that we're doing this here is to make sure that these environment variables are already set before this code actually gets executed.
 >
@@ -5073,19 +5017,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[MySQL]] (2), [[npm]] (2), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[npm]] (2), [[Databases]] (1), [[Node.js]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (2), node (2), npm (2), make (1)
 > **File Paths:** node.js (1), dot.env (1)
 > **Prerequisites:** install (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Host a Node server on Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980)
+#### [Host a Node server on Google Cloud](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=0)** - [Instructor] Okay, so now that we've got some environment, variable stuff set up, the next thing we're going to do is we're going to move our entire Hapi server to Google Cloud, and to make this happen, what we need to do is create a new file in the root of our backends directory, so we're going to say New File, and this file is going to be called app.yaml, and then inside this file, we're just going to add a few configuration options.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=0)** - [Instructor] Okay, so now that we've got some environment, variable stuff set up, the next thing we're going to do is we're going to move our entire Hapi server to [[Google Cloud Platform (GCP)|Google Cloud]], and to make this happen, what we need to do is create a new file in the root of our backends directory, so we're going to say New File, and this file is going to be called app.yaml, and then inside this file, we're just going to add a few configuration options.
 >
 > **[0:28](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=28)** So we're going to say runtime nodejs, environment flex and beta_settings.
 >
@@ -5109,9 +5052,9 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=173)** So now that we've done those things, there's one last thing we're going to have to do on our backend.
 >
-> **[2:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=177)** You see, we've been using the Babel node package during development to allow us to write and run modern JavaScript code, but to run our code in production, we'll need to use Babel to actually build all of our code, and then we're going to need to run the built version of our code.
+> **[2:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=177)** You see, we've been using the Babel node package during development to allow us to write and run modern [[JavaScript]] code, but to run our code in production, we'll need to use Babel to actually build all of our code, and then we're going to need to run the built version of our code.
 >
-> **[3:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=193)** So let's open up our server's package.json file here, and down here in the script section, we're going to add a build script to it, and for that script, we're just going to say babel and then ./src,
+> **[3:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=193)** So let's open up our server's package.[[JSON]] file here, and down here in the script section, we're going to add a build script to it, and for that script, we're just going to say babel and then ./src,
 >
 > **[3:31](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=211)** - -out-dir, ./build, what we're saying is we want it to build all of our files and put it into the build directory.
 >
@@ -5123,9 +5066,9 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=249)** And now that we've done all of that, let's kill our server here, and now that we have those scripts defined, we're going to need to actually build our applications.
 >
-> **[4:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=258)** So first we're going to need to install something called Babel CLI so that our Babel command will actually work.
+> **[4:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=258)** So first we're going to need to install something called Babel [[CLI]] so that our Babel command will actually work.
 >
-> **[4:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=265)** So say npm install @babel/cli, save-dev,
+> **[4:25](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=265)** So say [[npm]] install @babel/cli, save-dev,
 >
 > **[4:34](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/host-a-node-server-on-google-cloud?u=76281980&t=274)** and once we've done that, we should be able to build our code by running npm run build., and what that'll do is create this build directory for us that contains a transpiled version of our code that can be executed in a node environment.
 >
@@ -5149,7 +5092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (10), node (7), next (3), [[npm]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (10), [[npm]] (3), [[JSON]] (2), [[CLI]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (7), make (5), gcloud (4), npm (3), find (1)
 > **Env Vars:** db_socket (3), db_host (2), url (2), db_user (1), db_pass (1)
 > **File Paths:** package.json (2), app.yaml (1), database.js (1), process.env (1), server.js (1)
@@ -5158,18 +5101,17 @@ created: 2026-05-02
 > **Versions:** 0.0.0 (1), 12.0 (1)
 > **Cross-References:** go back to (1), previous video (1)
 
-#### Build and serve an Angular app
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980)
+#### [Build and serve an Angular app](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=0)** - [Instructor] So now we've come to the last piece of our full stack hosting puzzle and that's building and serving our front end from Google Cloud.
+> **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=0)** - [Instructor] So now we've come to the last piece of our full stack hosting puzzle and that's building and serving our front end from [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=8)** Now, this process has a few steps.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=11)** The first step here is going to be to build our front end application and to do that, we need to run the command ng build and hit Enter.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=19)** And what this command does is it compiles our entire Angular application into basic HTML, CSS and JavaScript files that can simply be loaded and executed by the end user's browser.
+> **[0:19](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=19)** And what this command does is it compiles our entire [[Angular]] application into basic [[HTML]], CSS and [[JavaScript]] files that can simply be loaded and executed by the end user's browser.
 >
 > **[0:32](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=32)** And once this script finishes running, all of this compiled code is put into this dist directory here.
 >
@@ -5183,7 +5125,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=63)** And then what we're going to do is we need to install another hapi module package into our backend project.
 >
-> **[1:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=70)** So we're going to say npm install and the package we're going to be installing is called @hapi/inert.
+> **[1:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=70)** So we're going to say [[npm]] install and the package we're going to be installing is called @hapi/inert.
 >
 > **[1:18](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=78)** And this package makes it easier for hapi to serve static files.
 >
@@ -5211,7 +5153,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=175)** And the next thing we have to do is define routes on our server for each route on our front end, basically for all of those routes, like /listing, /edit-listing and so on, we'll simply want to return the index.html file found inside this dist folder.
 >
-> **[3:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=193)** And once we do that, Angular will take care of the rest.
+> **[3:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=193)** And once we do that, Angular will take care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=197)** So the way that we're going to do this is inside the same file, we're going to define an array called angularRoutePaths.
 >
@@ -5255,7 +5197,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=354)** And while that's deploying, there's one more thing we need to do.
 >
-> **[5:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=357)** We need to tell Firebase Auth to trust the URL that our app will be running on.
+> **[5:57](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=357)** We need to tell [[Firebase]] Auth to trust the URL that our app will be running on.
 >
 > **[6:02](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=362)** And the way that we do this is by going to the Firebase console, and we're going to go over here to Authentication and click on that.
 >
@@ -5279,7 +5221,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=428)** So let's just walk through to make sure everything works.
 >
-> **[7:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=431)** We're going to sign in with Google.
+> **[7:11](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=431)** We're going to sign in with [[Google]].
 >
 > **[7:13](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/build-and-serve-an-angular-app?u=76281980&t=433)** Editors, please blur these out.
 >
@@ -5299,7 +5241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[HTML]] (4), [[Angular]] (3), [[Firebase]] (3), hit (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Angular]] (3), [[Firebase]] (3), [[npm]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Code Identifiers:** staticfilesroute (3), angularroutepaths (2), filesroutes (2)
 > **File Paths:** index.html (2), server.js (1), files.js (1), dist/buy-and-sell/index.html (1), index.js (1)
 > **CLI Commands:** npm (2), gcloud (2), make (1)
@@ -5314,28 +5256,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=0)** - [Shaun] So we've covered quite a few topics in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=3)** We started off by creating a front end application using Angular and a backend using Node.js, Hapi, and MySQL.
+> **[0:03](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=3)** We started off by creating a front end application using [[Angular]] and a backend using [[Node.js]], Hapi, and [[MySQL]].
 >
 > **[0:10](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=10)** We then saw how to bring the front end and back end together using Angular's HTTP client to make network requests.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=17)** And then we saw how to add user authentication to our application using Firebase Auth.
+> **[0:17](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=17)** And then we saw how to add user authentication to our application using [[Firebase]] Auth.
 >
 > **[0:22](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=22)** And this allowed us to protect our end points and keep better track of our users in the listings they created.
 >
-> **[0:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=27)** And finally, we saw how to move the entire application that we created to the cloud using the Google Cloud Platform so that users would be able to actually access our application.
+> **[0:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=27)** And finally, we saw how to move the entire application that we created to the cloud using the [[Google Cloud Platform (GCP)|Google Cloud Platform]] so that users would be able to actually access our application.
 >
 > **[0:37](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=37)** Now, I want to reiterate that all of this work that we've completed is a pretty impressive undertaking, and it's something that most web developers don't know how to do.
 >
 > **[0:45](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=45)** So you should be very proud of yourself if you've followed along with all the steps and understand all the concepts we've covered here, since that'll put you very far ahead of the vast majority of web developers today.
 >
-> **[0:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=56)** So now that you've got all this full-stack development knowledge, you might be wondering where to go next.
+> **[0:56](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=56)** So now that you've got all this [[Full-Stack Development]] knowledge, you might be wondering where to go next.
 >
 > **[1:00](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=60)** Well, there are several things that I'd recommend.
 >
@@ -5347,7 +5288,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=87)** Well, that's about it for now.
 >
-> **[1:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=89)** Thank you so much for watching, and if you want to get in touch with me, please don't hesitate to connect with me on LinkedIn.
+> **[1:29](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=89)** Thank you so much for watching, and if you want to get in touch with me, please don't hesitate to connect with me on [[LinkedIn]].
 >
 > **[1:35](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980&t=95)** I'm on LinkedIn quite often and would love to hear any questions or comments from you, or if you just want to say hi, that's okay too.
 >
@@ -5355,7 +5296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Angular]] (2), web (2), [[Full-Stack Development]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Angular]] (2), [[Full-Stack Development]] (2), [[LinkedIn]] (2), [[Node.js]] (1), [[MySQL]] (1)
 > **CLI Commands:** node (1), mysql (1), make (1)
 > **File Paths:** node.js (1)
 > **Env Vars:** http (1)

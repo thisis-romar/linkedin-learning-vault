@@ -157,12 +157,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data-driven world
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980)
+#### [The data-driven world](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=0)** - In the time it takes me to finish this sentence over 500,000 Google searches would've taken place and in the next minute over 300 hours of content will be uploaded to YouTube.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=0)** - In the time it takes me to finish this sentence over 500,000 [[Google]] searches would've taken place and in the next minute over 300 hours of content will be uploaded to YouTube.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=15)** Only half of a percent of all data collected is ever analyzed.
 >
@@ -172,29 +171,28 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=26)** That's where you come in.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=28)** I invite you to join me in my LinkedIn learning course on the essentials of SQL where you'll gain SQL skills that help businesses increase profitability and realize more opportunities.
+> **[0:28](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=28)** I invite you to join me in my [[LinkedIn]] learning course on the essentials of [[SQL]] where you'll gain SQL skills that help businesses increase profitability and realize more opportunities.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980&t=41)** Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (2), [[Google]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Google]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=0)** - So here's a quick rundown of what we're going to cover, and a good way to start is saying what we're not going to do.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=9)** Many SQL courses spend lots of time explaining the history and computer science theory behind databases and query language.
+> **[0:09](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=9)** Many [[SQL]] courses spend lots of time explaining the history and computer science theory behind [[Databases]] and query language.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=19)** We're not going to do that.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=21)** Instead, we'll focus on learning just enough of the essentials to understand how relational databases function.
+> **[0:21](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=21)** Instead, we'll focus on learning just enough of the essentials to understand how [[Relational Databases]] function.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=29)** Then you can apply the skills you learn in this course to complete the final project.
 >
@@ -216,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=102)** We'll be using an SQLite database for this course in addition to the DB Browser for SQLite database software.
 >
-> **[1:51](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=111)** SQLite can be easily installed on Windows and Mac machines.
+> **[1:51](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=111)** SQLite can be easily installed on [[Windows]] and Mac machines.
 >
 > **[1:57](https://www.linkedin.com/learning/sql-essential-training-20685933/what-you-should-know-19065714?u=76281980&t=117)** Lite is not to be confused with lightweight as this software is robust and handles large volumes of data.
 >
@@ -230,15 +228,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[SQL]] (5), data (2), [[Databases]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (1), [[Relational Databases]] (1), [[Windows]] (1)
 > **Env Vars:** sql (5)
 > **Documentation:** reference guide (1)
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - so (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/coderpad-tour-23856142?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/sql-essential-training-20685933/coderpad-tour-23856142?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/sql-essential-training-20685933/coderpad-tour-23856142?u=76281980&t=19)** These challenges appear in the same area as the course page where you watch the courses videos.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-essential-training-20685933/coderpad-tour-23856142?u=76281980&t=26)** We recommend using a desktop browser for the best experience with code challenges, but you can also use the LinkedIn Learning mobile app if you prefer.
+> **[0:26](https://www.linkedin.com/learning/sql-essential-training-20685933/coderpad-tour-23856142?u=76281980&t=26)** We recommend using a desktop browser for the best experience with code challenges, but you can also use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-essential-training-20685933/coderpad-tour-23856142?u=76281980&t=37)** The code environment has three areas, instructions on the top left, a console for output on the bottom left, and a code editor for your answer on the right.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -280,8 +277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relational database theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980)
+#### [Relational database theory](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,15 +285,15 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=1)** To start, let's get familiar with some basic vocabulary.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=6)** When we're talking about relational databases, there are a few key terms you just need to know.
+> **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=6)** When we're talking about [[Relational Databases]], there are a few key terms you just need to know.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=12)** First up, data.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=14)** What is it exactly?
 >
-> **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=16)** Well, if we're being proper, data is the plural of the word datum, and a datum is defined as a piece of information.
+> **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=16)** Well, if we're being proper, data is the plural of the [[Microsoft Word|word]] datum, and a datum is defined as a piece of information.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=27)** So data are pieces of information like your last social media post, whether that's text, images, or video, or the last phrase you search for on Google.
+> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=27)** So data are pieces of information like your last social media post, whether that's text, images, or video, or the last phrase you search for on [[Google]].
 >
 > **[0:38](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=38)** Second, a database.
 >
@@ -317,11 +313,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=68)** When used like this, lime has absolutely nothing to do with the fruit.
 >
-> **[1:15](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=75)** Similarly, in SQL, a table has nothing to do with the type you eat your food on.
+> **[1:15](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=75)** Similarly, in [[SQL]], a table has nothing to do with the type you eat your food on.
 >
 > **[1:22](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=82)** In the world of SQL, tables are made up of rows and columns.
 >
-> **[1:27](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=87)** Rows run left to right and columns up and down, think Excel spreadsheet.
+> **[1:27](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=87)** Rows run left to right and columns up and down, think [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[1:34](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980&t=94)** Each row represents a single piece of data called a record.
 >
@@ -345,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (7), [[Relational Databases]] (2), [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Relational Databases]] (2), [[Microsoft Word|Word]] (2), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (7), select (2)
 > **SQL:** select (2)
 > **Definitions:** defined as (1), short for (1)
@@ -353,12 +349,11 @@ created: 2026-05-02
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### The SQLite database engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980)
+#### [The SQLite database engine](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=0)** - [Instructor] The software system that's used to compose SQL statements is called a Relational Database Management System or RDBMS for short.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=0)** - [Instructor] The software system that's used to [[Jetpack Compose|compose]] [[SQL]] statements is called a Relational [[Database Management]] System or RDBMS for short.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=12)** Now, there are quite a wide variety of relational database management systems that are out there and the analogy I like to use is that of sneakers.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=41)** So an RDBMS, though there are many different varieties, the singular function is to allow us an area to compose SQL statements.
 >
-> **[0:55](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=55)** Now, here are a few popular relational database management systems which you can research a bit for yourself simply by popping in the phrase relational database management system into Google like I have here.
+> **[0:55](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=55)** Now, here are a few popular relational database management systems which you can research a bit for yourself simply by popping in the phrase relational database management system into [[Google]] like I have here.
 >
 > **[1:09](https://www.linkedin.com/learning/sql-essential-training-20685933/the-sqlite-database-engine-19072341?u=76281980&t=69)** So there are quite a wide variety, but it makes some sense to just get a bit familiar with what they are.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (7), management (7), [[Jetpack Compose|Compose]] (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Database Management]] (7), [[Jetpack Compose|Compose]] (4), [[Google]] (1)
 > **Env Vars:** sql (7), rdbms (4), select (2), order (2)
 > **SQL:** select (2), order by (2)
 > **Definitions:** is a  (2), is called (1)
@@ -413,8 +408,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WSDA Music (sample database)
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980)
+#### [WSDA Music (sample database)](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980&t=26)** Beside helping you understand the technical stuff, my purpose is to keep you focused, motivated, and steady through any turbulence in your own environment as you move through the course.
 >
-> **[0:38](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980&t=38)** In the last chapter, we covered quite a bit of theory, and now that that's done, let's get into some SQL practice.
+> **[0:38](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980&t=38)** In the last chapter, we covered quite a bit of theory, and now that that's done, let's get into some [[SQL]] practice.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980&t=47)** It's time to get familiar with the exercise files for the course and some strategies to help you win with learning SQL.
 >
@@ -448,19 +442,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), database (2), data (2), management (2), product (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3), wsda (1)
 > **Cross-References:** in the last (1), we covered (1)
 > **Exercise Files:** exercise files (1), exercise file (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - as (1)
 
-#### Learning tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/learning-tips-19070440?u=76281980)
+#### [Learning tips](https://www.linkedin.com/learning/sql-essential-training-20685933/learning-tips-19070440?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/learning-tips-19070440?u=76281980&t=0)** - [Instructor] Before we go any further, I'd .like to point out some tips or strategies that's going to help you succeed in learning SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/learning-tips-19070440?u=76281980&t=0)** - [Instructor] Before we go any further, I'd .like to point out some tips or strategies that's going to help you succeed in learning [[SQL]].
 >
 > **[0:09](https://www.linkedin.com/learning/sql-essential-training-20685933/learning-tips-19070440?u=76281980&t=9)** The first one is to type everything out, all of the SQL queries that you are going to have introduced to you throughout the course.
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (7)
 > **Env Vars:** sql (7)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -490,14 +483,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to access the DB Browser for SQLite software
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980)
+#### [How to access the DB Browser for SQLite software](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=0)** - Let's get to know DB Browser for SQLite.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=4)** It's our relational database management system or RDBMS we'll be using for this course.
+> **[0:04](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=4)** It's our relational [[Database Management]] system or RDBMS we'll be using for this course.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=11)** There are a few reasons for choosing this software, but some of the main reasons are: SQLite is a free and open source database management system.
 >
@@ -511,21 +503,20 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=51)** Now let's walk through the main areas of this software so you can become a bit more familiar with it.
 >
-> **[0:58](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=58)** We'll be stepping through the database structure browse data, and execute SQL tabs.
+> **[0:58](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=58)** We'll be stepping through the database structure browse data, and execute [[SQL]] tabs.
 >
 > **[1:04](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980&t=64)** Let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), management (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (2), [[SQL]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** rdbms (1), sql (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - let (1)
 
-#### Load the sample database file
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/load-the-sample-database-file-19069547?u=76281980)
+#### [Load the sample database file](https://www.linkedin.com/learning/sql-essential-training-20685933/load-the-sample-database-file-19069547?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/sql-essential-training-20685933/load-the-sample-database-file-19069547?u=76281980&t=41)** The next step we're going to take is firing up the DB Browser for SQLite software, which we installed earlier.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-essential-training-20685933/load-the-sample-database-file-19069547?u=76281980&t=51)** Now, if you are on a Windows machine, you want to navigate to Start, Windows, and then simply click on the DB Browser for SQLite application.
+> **[0:51](https://www.linkedin.com/learning/sql-essential-training-20685933/load-the-sample-database-file-19069547?u=76281980&t=51)** Now, if you are on a [[Windows]] machine, you want to navigate to Start, Windows, and then simply click on the DB Browser for SQLite application.
 >
 > **[1:04](https://www.linkedin.com/learning/sql-essential-training-20685933/load-the-sample-database-file-19069547?u=76281980&t=64)** If you're on a Mac machine, like myself, you want to navigate to the Applications folder, then look for that same application DB Browser for SQLite.
 >
@@ -553,15 +544,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), next (2), [[Windows]] (2), application (2)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** navigate to (2), click on (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wsda (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting familiar with a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/getting-familiar-with-a-database-19069530?u=76281980)
+#### [Getting familiar with a database](https://www.linkedin.com/learning/sql-essential-training-20685933/getting-familiar-with-a-database-19069530?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,13 +595,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14)
 > **Env Vars:** wsda (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The browse data area
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-browse-data-area-19067625?u=76281980)
+#### [The browse data area](https://www.linkedin.com/learning/sql-essential-training-20685933/the-browse-data-area-19067625?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/sql-essential-training-20685933/the-browse-data-area-19067625?u=76281980&t=3)** We've just taken a look at the database structure area.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/the-browse-data-area-19067625?u=76281980&t=6)** Now let's take a look at the other main area of our DB browser for SQL Light database management software that is going to be important to get familiar with.
+> **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/the-browse-data-area-19067625?u=76281980&t=6)** Now let's take a look at the other main area of our DB browser for [[SQL]] Light [[Database Management]] software that is going to be important to get familiar with.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-essential-training-20685933/the-browse-data-area-19067625?u=76281980&t=18)** So in the browse data tab, what does it allow us to do?
 >
@@ -649,15 +637,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), [[SQL]] (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [host] (1)
 
-#### The query writing area
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980)
+#### [The query writing area](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,13 +654,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=12)** We also took a look at the Browse Data.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=16)** Now, let's take a look at the Execute SQL tab.
+> **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=16)** Now, let's take a look at the Execute [[SQL]] tab.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=20)** Now, at the moment, it looks pretty blank, but, I can tell you, we are going to be spending quite a significant number of time within this area.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=30)** This is where the magic happens.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=32)** This is where we compose our SQL or S Q L statements and discover the results of those queries.
+> **[0:32](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=32)** This is where we [[Jetpack Compose|compose]] our SQL or S Q L statements and discover the results of those queries.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-essential-training-20685933/the-query-writing-area-19067632?u=76281980&t=39)** Now, let me point out some main components that we should take a note of at the moment.
 >
@@ -701,7 +688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (2), [[Jetpack Compose|Compose]] (2), data (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Jetpack Compose|Compose]] (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is called (1)
 > **Speakers:** - let (1)
@@ -711,14 +698,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980)
+#### [Queries](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980&t=0)** - You're probably starting to notice that SQL is a simple yet powerful language with many different commands.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980&t=0)** - You're probably starting to notice that [[SQL]] is a simple yet powerful language with many different commands.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980&t=9)** Getting familiar with some of these SQL commands is one of the key components to getting the hang of working with databases.
+> **[0:09](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980&t=9)** Getting familiar with some of these SQL commands is one of the key components to getting the hang of working with [[Databases]].
 >
 > **[0:17](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980&t=17)** One of the best ways to get familiar with these commands is to simply type it out.
 >
@@ -748,13 +734,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - you (1)
 
-#### Query commenting
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/query-commenting-20766361?u=76281980)
+#### [Query commenting](https://www.linkedin.com/learning/sql-essential-training-20685933/query-commenting-20766361?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/sql-essential-training-20685933/query-commenting-20766361?u=76281980&t=98)** And in my case here, I'm going to show in my description that this is the structure of a basic query.
 >
-> **[1:47](https://www.linkedin.com/learning/sql-essential-training-20685933/query-commenting-20766361?u=76281980&t=107)** Now, this is a very standard format of putting a comment before any SQL statement that you intend to compose.
+> **[1:47](https://www.linkedin.com/learning/sql-essential-training-20685933/query-commenting-20766361?u=76281980&t=107)** Now, this is a very standard format of putting a comment before any [[SQL]] statement that you intend to [[Jetpack Compose|compose]].
 >
 > **[1:56](https://www.linkedin.com/learning/sql-essential-training-20685933/query-commenting-20766361?u=76281980&t=116)** It's very helpful because often as a practitioner, you write several SQL statements and you may have found yourself forgetting what exactly any given one may do.
 >
@@ -820,19 +805,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Jetpack Compose|Compose]] (2), data (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Jetpack Compose|Compose]] (2)
 > **Definitions:** is a  (5)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 
-#### Query composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-19067633?u=76281980)
+#### [Query composition](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-19067633?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-19067633?u=76281980&t=0)** - [Instructor] Okay, the moment we have been waiting for is here.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-19067633?u=76281980&t=6)** We get to compose our first SQL statement.
+> **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-19067633?u=76281980&t=6)** We get to [[Jetpack Compose|compose]] our first [[SQL]] statement.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-19067633?u=76281980&t=10)** So let's do that by first starting up a brand new tab.
 >
@@ -944,18 +928,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), database (4), [[Jetpack Compose|Compose]] (3), data (3), management (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Jetpack Compose|Compose]] (3)
 > **Env Vars:** sql (7), wsda (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query composition best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980)
+#### [Query composition best practices](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=0)** - [Instructor] Before we add on to what we have just learned with regard to our basic SQL statement, let's point out some things that may not have been that obvious.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=0)** - [Instructor] Before we add on to what we have just learned with regard to our basic [[SQL]] statement, let's point out some things that may not have been that obvious.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=10)** So in the composition of our SQL statement, we've done a few particular things that I wanted to draw to your attention.
 >
@@ -993,7 +976,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=117)** We can clearly tell what's housed within each of those clauses.
 >
-> **[2:01](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=121)** The SELECT houses three fields, the FROM has one particular table listed and this is very readable for not only ourselves who compose this SQL statement, but for others who's going to actually inherit this SQL statement from us.
+> **[2:01](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=121)** The SELECT houses three fields, the FROM has one particular table listed and this is very readable for not only ourselves who [[Jetpack Compose|compose]] this SQL statement, but for others who's going to actually inherit this SQL statement from us.
 >
 > **[2:16](https://www.linkedin.com/learning/sql-essential-training-20685933/query-composition-best-practices-19065710?u=76281980&t=136)** It also holds true for SQL statements that we'll inherit from others.
 >
@@ -1005,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** sql (9), select (4)
 > **SQL:** select (4)
 > **Best Practices:** best practice (4)
@@ -1013,8 +996,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column custom names
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980)
+#### [Column custom names](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,9 +1008,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980&t=32)** Now what I'm referring to is the column name.
 >
-> **[0:36](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980&t=36)** First name is all one word even though it really is two distinct words the same goals for last name.
+> **[0:36](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980&t=36)** First name is all one [[Microsoft Word|word]] even though it really is two distinct words the same goals for last name.
 >
-> **[0:45](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980&t=45)** In SQL, we have ways of improving the communication of our results to our business audience.
+> **[0:45](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980&t=45)** In [[SQL]], we have ways of improving the communication of our results to our business audience.
 >
 > **[0:53](https://www.linkedin.com/learning/sql-essential-training-20685933/column-custom-names-19069543?u=76281980&t=53)** And we do this via something called aliases.
 >
@@ -1084,13 +1066,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Word|Word]] (4), management (3), database (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[SQL]] (2)
 > **Env Vars:** wsda (2), sql (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Sorting query results
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980)
+#### [Sorting query results](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=17)** Now WSDA Music Management loves our report, but they would like to have the results sorted by last name.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=27)** How would we go about achieving this in SQL?
+> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=27)** How would we go about achieving this in [[SQL]]?
 >
 > **[0:31](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=31)** Well, our first step is to include a brand new clause which comes after the from clause called the order by clause.
 >
@@ -1156,7 +1137,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=202)** And that is because of our last name descending sort which is sorting this customer's last name in descending order.
 >
-> **[3:32](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=212)** Let's take a look at one more record here, John in 30 and 31.
+> **[3:32](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=212)** Let's take a look at one more record here, [[John the Ripper|John]] in 30 and 31.
 >
 > **[3:37](https://www.linkedin.com/learning/sql-essential-training-20685933/sorting-query-results-19070427?u=76281980&t=217)** Two Johns, but when we look at the last name, G appears before D, and again, that's because of our descending order sort.
 >
@@ -1164,15 +1145,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), business (1), management (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[John the Ripper|John]] (1)
 > **Env Vars:** sql (2), desc (2), wsda (1), asc (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limiting query results
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/limiting-query-results-19070435?u=76281980)
+#### [Limiting query results](https://www.linkedin.com/learning/sql-essential-training-20685933/limiting-query-results-19070435?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1188,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/sql-essential-training-20685933/limiting-query-results-19070435?u=76281980&t=133)** You are now enabled, with the use of the LIMIT keyword, to actually refine and limit the results that you present back to the requester of this information.
 >
-> **[2:25](https://www.linkedin.com/learning/sql-essential-training-20685933/limiting-query-results-19070435?u=76281980&t=145)** Alright, we're doing really great with the SQL syntax that we've been introduced to thus far.
+> **[2:25](https://www.linkedin.com/learning/sql-essential-training-20685933/limiting-query-results-19070435?u=76281980&t=145)** Alright, we're doing really great with the [[SQL]] syntax that we've been introduced to thus far.
 >
 > **[2:31](https://www.linkedin.com/learning/sql-essential-training-20685933/limiting-query-results-19070435?u=76281980&t=151)** We've looked at how to alias columns.
 >
@@ -1222,14 +1202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** limit (4), sql (2), order (1)
 > **SQL:** order by (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - our (1)
 
-#### Solution: Concise track pricing report
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-concise-track-pricing-report?u=76281980)
+#### [Solution: Concise track pricing report](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-concise-track-pricing-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,7 +1242,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (2), hit (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1272,8 +1250,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of SQL operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980)
+#### [Types of SQL operators](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,7 +1262,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980&t=19)** With what we've learned so far, to answer a question like how many customers' last names begin with B?
 >
-> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980&t=27)** You could write a SQL query to select records from the customer table, sort the data alphabetically by last name, then, just manually count the names ending in B.
+> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980&t=27)** You could write a [[SQL]] query to select records from the customer table, sort the data alphabetically by last name, then, just manually count the names ending in B.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980&t=40)** Manually counting your results may be fine for a few records, but what if our database was much larger and contained millions of customers?
 >
@@ -1315,12 +1292,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), next (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Speakers:** - all (1)
 
-#### Filter and analyze numeric data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-numeric-data-19069544?u=76281980)
+#### [Filter and analyze numeric data](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-numeric-data-19069544?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1316,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-numeric-data-19069544?u=76281980&t=74)** So to respond to this question, we would need to present all of the records in the invoice table that total $1.98.
 >
-> **[1:26](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-numeric-data-19069544?u=76281980&t=86)** How would we achieve this with SQL?
+> **[1:26](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-numeric-data-19069544?u=76281980&t=86)** How would we achieve this with [[SQL]]?
 >
 > **[1:29](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-numeric-data-19069544?u=76281980&t=89)** Well, with what we've learned thus far, we can select all of the records from the invoice table, then sort by the total column, and simply manually count all of the records that are $1.98.
 >
@@ -1374,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), management (2), data (1), power (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** where (6), sql (4), order (2), wsda (1), select (1)
 > **SQL:** where (6), order by (2), select (1)
 > **Versions:** 1.98 (8)
@@ -1382,14 +1358,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### BETWEEN and IN operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/between-and-in-operators-19072325?u=76281980)
+#### [BETWEEN and IN operators](https://www.linkedin.com/learning/sql-essential-training-20685933/between-and-in-operators-19072325?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/between-and-in-operators-19072325?u=76281980&t=0)** - [Instructor] Now, let's say there was a twist to our scenario in that WSDA Music Management is pretty happy with us finding out how many customers purchased two songs at 99 cents each, but now they'd like to know how many invoices exist between $1.98 and $5.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-essential-training-20685933/between-and-in-operators-19072325?u=76281980&t=22)** Let's see how we would use SQL to respond to such a question.
+> **[0:22](https://www.linkedin.com/learning/sql-essential-training-20685933/between-and-in-operators-19072325?u=76281980&t=22)** Let's see how we would use [[SQL]] to respond to such a question.
 >
 > **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/between-and-in-operators-19072325?u=76281980&t=27)** Well, to respond to this request, we would simply have to make an alteration to our WHERE clause.
 >
@@ -1439,7 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[SQL]] (4), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Versions:** 1.98 (12), 3.96 (6)
 > **Env Vars:** wsda (4), sql (4), where (3)
 > **SQL:** where (3)
@@ -1447,8 +1422,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter and analyze text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-text-data-19070445?u=76281980)
+#### [Filter and analyze text data](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-text-data-19070445?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-text-data-19070445?u=76281980&t=22)** So the latest request from WSDA management is to now find out how many invoices were billed to the city of Brussels.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-text-data-19070445?u=76281980&t=33)** How would we go about altering our SQL query to respond to this request?
+> **[0:33](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-text-data-19070445?u=76281980&t=33)** How would we go about altering our [[SQL]] query to respond to this request?
 >
 > **[0:40](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-text-data-19070445?u=76281980&t=40)** Well, first, let's go down to our WHERE clause and take a look.
 >
@@ -1528,21 +1502,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (6), management (5), business (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (6), wsda (5), where (3)
 > **CLI Commands:** make (2), find (1)
 > **SQL:** where (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search records without an exact match
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/search-records-without-an-exact-match-19067627?u=76281980)
+#### [Search records without an exact match](https://www.linkedin.com/learning/sql-essential-training-20685933/search-records-without-an-exact-match-19067627?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/search-records-without-an-exact-match-19067627?u=76281980&t=0)** - [Instructor] Now, so far, we've been responding to quite a number of requests from WSDA Music management and we have been using the EQUAL operator quite a bit because we were searching for exact values.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-essential-training-20685933/search-records-without-an-exact-match-19067627?u=76281980&t=14)** Now in SQL, it is possible to search for partial values.
+> **[0:14](https://www.linkedin.com/learning/sql-essential-training-20685933/search-records-without-an-exact-match-19067627?u=76281980&t=14)** Now in [[SQL]], it is possible to search for partial values.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-essential-training-20685933/search-records-without-an-exact-match-19067627?u=76281980&t=20)** And when we're searching for partial values, we include a new operator called the LIKE operator.
 >
@@ -1642,15 +1615,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), management (6), [[Search]] (3), next (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (9)
 > **Env Vars:** sql (9), wsda (4), where (2), equal (1)
 > **Definitions:** is a  (3)
 > **SQL:** where (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter and analyze using dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-using-dates-19070423?u=76281980)
+#### [Filter and analyze using dates](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-using-dates-19070423?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,7 +1634,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-using-dates-19070423?u=76281980&t=29)** So they'd like to know how many invoices were billed on May 22, 2010.
 >
-> **[0:38](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-using-dates-19070423?u=76281980&t=38)** Before we start diving into the equivalent SQL to achieve such a request, we need to familiarize ourselves with how dates are stored in this particular database.
+> **[0:38](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-using-dates-19070423?u=76281980&t=38)** Before we start diving into the equivalent [[SQL]] to achieve such a request, we need to familiarize ourselves with how dates are stored in this particular database.
 >
 > **[0:53](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-and-analyze-using-dates-19070423?u=76281980&t=53)** So let's jump over to our Browse Data tab and take a look at any table that has the dates.
 >
@@ -1738,7 +1710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (6), [[SQL]] (3), management (2)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** where (6), sql (3), wsda (2)
 > **SQL:** where (6)
 > **Ports:** :00 (2)
@@ -1747,8 +1719,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter records based on more than one condition
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-records-based-on-more-than-one-condition-19066651?u=76281980)
+#### [Filter records based on more than one condition](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-records-based-on-more-than-one-condition-19066651?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,7 +1733,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-records-based-on-more-than-one-condition-19066651?u=76281980&t=35)** Our result shows the results of this particular criteria.
 >
-> **[0:39](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-records-based-on-more-than-one-condition-19066651?u=76281980&t=39)** Now in SQL, it is possible for us to use the AND and the OR operators to specify criteria from multiple fields.
+> **[0:39](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-records-based-on-more-than-one-condition-19066651?u=76281980&t=39)** Now in [[SQL]], it is possible for us to use the AND and the OR operators to specify criteria from multiple fields.
 >
 > **[0:51](https://www.linkedin.com/learning/sql-essential-training-20685933/filter-records-based-on-more-than-one-condition-19066651?u=76281980&t=51)** Now let's consider this latest managerial request from WSDA Music.
 >
@@ -1800,13 +1771,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** where (2), sql (2), wsda (2)
 > **SQL:** where (2)
 > **Speakers:** - [instructor] (1)
 
-#### Logical operator OR
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/logical-operator-or-19066636?u=76281980)
+#### [Logical operator OR](https://www.linkedin.com/learning/sql-essential-training-20685933/logical-operator-or-19066636?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1846,14 +1816,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Search]] (1)
 > **Env Vars:** wsda (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
-#### Brackets and order
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/brackets-and-order-19072330?u=76281980)
+#### [Brackets and order](https://www.linkedin.com/learning/sql-essential-training-20685933/brackets-and-order-19072330?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1897,7 +1865,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-essential-training-20685933/brackets-and-order-19072330?u=76281980&t=156)** Now, if we take a look at our result here, what has been happening is, we are processing the query, like this.
 >
-> **[2:46](https://www.linkedin.com/learning/sql-essential-training-20685933/brackets-and-order-19072330?u=76281980&t=166)** SQL is saying, "Give me all the records that are greater than $1.98 AND the BillingCity LIKE P."
+> **[2:46](https://www.linkedin.com/learning/sql-essential-training-20685933/brackets-and-order-19072330?u=76281980&t=166)** [[SQL]] is saying, "Give me all the records that are greater than $1.98 AND the BillingCity LIKE P."
 >
 > **[2:57](https://www.linkedin.com/learning/sql-essential-training-20685933/brackets-and-order-19072330?u=76281980&t=177)** Okay?
 >
@@ -1945,7 +1913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), management (2)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** bemdas (4), pemdas (3), sql (3), where (2), wsda (1)
 > **Versions:** 1.98 (11), 1.99 (1)
 > **Definitions:** stands for (1), refers to (1), is a  (1)
@@ -1953,8 +1921,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### IF THEN logic with CASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/if-then-logic-with-case-19072326?u=76281980)
+#### [IF THEN logic with CASE](https://www.linkedin.com/learning/sql-essential-training-20685933/if-then-logic-with-case-19072326?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,7 +1937,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-essential-training-20685933/if-then-logic-with-case-19072326?u=76281980&t=71)** Now this is a great scenario to introduce the CASE statement which will help us perform this level of analysis.
 >
-> **[1:20](https://www.linkedin.com/learning/sql-essential-training-20685933/if-then-logic-with-case-19072326?u=76281980&t=80)** All right, we have our basic SQL statement in front of us and all this is doing is searching our invoice table and displaying these fields.
+> **[1:20](https://www.linkedin.com/learning/sql-essential-training-20685933/if-then-logic-with-case-19072326?u=76281980&t=80)** All right, we have our basic [[SQL]] statement in front of us and all this is doing is searching our invoice table and displaying these fields.
 >
 > **[1:32](https://www.linkedin.com/learning/sql-essential-training-20685933/if-then-logic-with-case-19072326?u=76281980&t=92)** Now, we would also like to include the CASE statement, which actually allows us to create a new temporary field in our database that serves as a label for the data based on user-specified conditions.
 >
@@ -2078,7 +2045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), management (4), database (3), data (2)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** case (15), where (6), wsda (5), sql (4), end (2)
 > **Versions:** 6.99 (4), 1.99 (2), 8.91 (1), 1.98 (1)
 > **SQL:** where (6), order by (1)
@@ -2086,8 +2053,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Categorize tracks by price
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-categorize-tracks-by-price?u=76281980)
+#### [Solution: Categorize tracks by price](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-categorize-tracks-by-price?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,7 +2067,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-categorize-tracks-by-price?u=76281980&t=57)** And those fields are starting with name, which we've aliased as Track Name.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-categorize-tracks-by-price?u=76281980&t=64)** The Track Name alias is surrounded with double quotes because of the space between the word Track and Name.
+> **[1:04](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-categorize-tracks-by-price?u=76281980&t=64)** The Track Name alias is surrounded with double quotes because of the space between the [[Microsoft Word|word]] Track and Name.
 >
 > **[1:13](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-categorize-tracks-by-price?u=76281980&t=73)** Next we have a comma separating our next field, which is Composer.
 >
@@ -2137,7 +2103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (2), [[Microsoft Word|Word]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** price (2), select (1), order (1), composer (1)
 > **CLI Commands:** composer (2)
 > **SQL:** select (1), order by (1)
@@ -2151,8 +2117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Joins explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980)
+#### [Joins explained](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,13 +2127,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=21)** That pep talk is needed for what we are about to get into next.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=25)** So far, we've written a lot of queries and can do quite a bit with the SQL we've learned.
+> **[0:25](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=25)** So far, we've written a lot of queries and can do quite a bit with the [[SQL]] we've learned.
 >
 > **[0:32](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=32)** But as we sharpen our skills, we've not yet tapped into maximizing the power of SQL.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=39)** You see, we've only been getting data from one table at a time thus far.
 >
-> **[0:45](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=45)** And in relational databases, data is stored across multiple tables.
+> **[0:45](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=45)** And in [[Relational Databases]], data is stored across multiple tables.
 >
 > **[0:51](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980&t=51)** Each table contains some, but not all of the information about our fictional company WSDA Music.
 >
@@ -2184,14 +2149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[Analytics]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Relational Databases]] (1)
 > **Env Vars:** sql (3), wsda (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
-#### How tables share a relationship, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-1-19066644?u=76281980)
+#### [How tables share a relationship, part 1](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-1-19066644?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2233,7 +2197,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-1-19066644?u=76281980&t=167)** We now have all the information required to join these two fields together and produce a list of invoices with the customer names that generated them.
 >
-> **[3:00](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-1-19066644?u=76281980&t=180)** Let's take a look at the SQL syntax to do this.
+> **[3:00](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-1-19066644?u=76281980&t=180)** Let's take a look at the [[SQL]] syntax to do this.
 >
 > **[3:05](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-1-19066644?u=76281980&t=185)** Now, in front of us, we have a basic SQL statement.
 >
@@ -2269,14 +2233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (2), [[SQL]] (2), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** wsda (3), sql (2)
 > **Definitions:** is a  (2), known as (2), is called (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### How tables share a relationship, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980)
+#### [How tables share a relationship, part 2](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,7 +2259,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=49)** One customer is linked to many invoices.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=54)** In the language of relational databases, we can say that the customer table has a one to many relationship with the invoice table.
+> **[0:54](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=54)** In the language of [[Relational Databases]], we can say that the customer table has a one to many relationship with the invoice table.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=65)** Now this makes sense when you think about it, seeing that a single customer can generate many invoices simply by purchasing multiple songs.
 >
@@ -2324,7 +2287,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=162)** Now this is how an ERD demonstrates the relationship between multiple tables.
 >
-> **[2:50](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=170)** If we take a look at the rest of our ERD, we can see many other instances of primary and foreign key relationships.
+> **[2:50](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=170)** If we take a look at the [[Representational State Transfer (REST)|rest]] of our ERD, we can see many other instances of primary and foreign key relationships.
 >
 > **[2:58](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=178)** Now joins would not be necessary if the invoice table had included all of the customer names.
 >
@@ -2340,29 +2303,28 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=225)** Okay, now this becomes significant when saving seconds of processing time when we construct our queries.
 >
-> **[3:54](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=234)** Considering the staggering size of some databases, every second does indeed count.
+> **[3:54](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=234)** Considering the staggering size of some [[Databases]], every second does indeed count.
 >
-> **[4:01](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=241)** Imagine if your Google search took five minutes rather than a few seconds.
+> **[4:01](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=241)** Imagine if your [[Google]] search took five minutes rather than a few seconds.
 >
 > **[4:06](https://www.linkedin.com/learning/sql-essential-training-20685933/how-tables-share-a-relationship-part-2-19070426?u=76281980&t=246)** Now that we have identified the common link between the two related fields in both the invoice and customer table, let's take a closer look at how we would write join syntax that would be a little more efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Relational Databases]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Google]] (1)
 > **Env Vars:** erd (4)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [host] (1)
 
-#### Simplifying JOINs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/simplifying-joins-19067618?u=76281980)
+#### [Simplifying JOINs](https://www.linkedin.com/learning/sql-essential-training-20685933/simplifying-joins-19067618?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/simplifying-joins-19067618?u=76281980&t=0)** - [Instructor] So we've seen from our example that's in front of us, our first example that joins have a special syntax when referring to field names.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-essential-training-20685933/simplifying-joins-19067618?u=76281980&t=11)** Since two tables in any given database may have fields with the identical names, when creating joins, we must specify the table name followed by the column name that we would like to join so that the SQL browser knows exactly which version of the field we are referencing.
+> **[0:11](https://www.linkedin.com/learning/sql-essential-training-20685933/simplifying-joins-19067618?u=76281980&t=11)** Since two tables in any given database may have fields with the identical names, when creating joins, we must specify the table name followed by the column name that we would like to join so that the [[SQL]] browser knows exactly which version of the field we are referencing.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/simplifying-joins-19067618?u=76281980&t=35)** Now this syntax requires that the table name be listed first followed by the column or field name.
 >
@@ -2444,14 +2406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of JOINs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-joins-19065709?u=76281980)
+#### [Types of JOINs](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-joins-19065709?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2489,14 +2450,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1)
 > **Env Vars:** wsda (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The INNER JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-inner-join-19070438?u=76281980)
+#### [The INNER JOIN](https://www.linkedin.com/learning/sql-essential-training-20685933/the-inner-join-19070438?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2522,7 +2481,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-essential-training-20685933/the-inner-join-19070438?u=76281980&t=71)** As the Venn diagram shows, only the overlapping data is included.
 >
-> **[1:19](https://www.linkedin.com/learning/sql-essential-training-20685933/the-inner-join-19070438?u=76281980&t=79)** Now, if we revisit the code that we generated to produce this inner join, we can see that this is the exact SQL statement that we created when we first visited our inner join.
+> **[1:19](https://www.linkedin.com/learning/sql-essential-training-20685933/the-inner-join-19070438?u=76281980&t=79)** Now, if we revisit the code that we generated to produce this inner join, we can see that this is the exact [[SQL]] statement that we created when we first visited our inner join.
 >
 > **[1:36](https://www.linkedin.com/learning/sql-essential-training-20685933/the-inner-join-19070438?u=76281980&t=96)** Now, if we take a look at the output of this query, we can see that only four records were returned.
 >
@@ -2536,13 +2495,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** refers to (1), in other words (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [narrator] (1)
 
-#### The LEFT JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-left-join-19066650?u=76281980)
+#### [The LEFT JOIN](https://www.linkedin.com/learning/sql-essential-training-20685933/the-left-join-19066650?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2550,7 +2508,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sql-essential-training-20685933/the-left-join-19066650?u=76281980&t=11)** As shown in our Venn diagram, the concept of left table and right table depends entirely on the order these tables are listed in the join statement.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-essential-training-20685933/the-left-join-19066650?u=76281980&t=23)** So for example, our SQL statement here has listed invoices first.
+> **[0:23](https://www.linkedin.com/learning/sql-essential-training-20685933/the-left-join-19066650?u=76281980&t=23)** So for example, our [[SQL]] statement here has listed invoices first.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-essential-training-20685933/the-left-join-19066650?u=76281980&t=31)** Then after the left outer join, it lists the customer table.
 >
@@ -2584,21 +2542,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Env Vars:** sql (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The RIGHT JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980)
+#### [The RIGHT JOIN](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=0)** - [Instructor] Now before getting into our right outer join, I wanted to remind you about something we mentioned in the beginning of the course with regard to relational database management systems.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=0)** - [Instructor] Now before getting into our right outer join, I wanted to remind you about something we mentioned in the beginning of the course with regard to relational [[Database Management]] systems.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=12)** If you recall, we did mention there are various types of relational database management systems, such as the one we're using for this course, SQL Light.
+> **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=12)** If you recall, we did mention there are various types of relational database management systems, such as the one we're using for this course, [[SQL]] Light.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=22)** But there are others like Microsoft SQL Server and Oracle.
+> **[0:22](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=22)** But there are others like [[Microsoft SQL Server]] and Oracle.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-essential-training-20685933/the-right-join-19071400?u=76281980&t=26)** And we mentioned that there is about a 5% difference with regard to the syntax that you would write in one RDBMS versus another.
 >
@@ -2638,7 +2595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (4), database (3), management (3), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Database Management]] (3), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (5), rdbms (1)
 > **Analogies:** similar to (2), such as (1)
 > **Cross-References:** we mentioned (2)
@@ -2647,8 +2604,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tables and Entity Relationship diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/tables-and-entity-relationship-diagrams-19069535?u=76281980)
+#### [Tables and Entity Relationship diagrams](https://www.linkedin.com/learning/sql-essential-training-20685933/tables-and-entity-relationship-diagrams-19069535?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2698,7 +2654,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/sql-essential-training-20685933/tables-and-entity-relationship-diagrams-19069535?u=76281980&t=225)** The third table that we need is the invoice table, and we have also identified the fields that we need from this table which are customer ID and total purchase amount.
 >
-> **[3:57](https://www.linkedin.com/learning/sql-essential-training-20685933/tables-and-entity-relationship-diagrams-19069535?u=76281980&t=237)** The columns, as we will format it in our SQL statement is I to represent the invoice table dot field name, customer ID and total.
+> **[3:57](https://www.linkedin.com/learning/sql-essential-training-20685933/tables-and-entity-relationship-diagrams-19069535?u=76281980&t=237)** The columns, as we will format it in our [[SQL]] statement is I to represent the invoice table dot field name, customer ID and total.
 >
 > **[4:10](https://www.linkedin.com/learning/sql-essential-training-20685933/tables-and-entity-relationship-diagrams-19069535?u=76281980&t=250)** We also want to explain how we are going to present these records, and we can say that we'll sort the query by highest invoice value and limit to the top 10 invoices.
 >
@@ -2714,14 +2670,13 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining many tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-many-tables-19067629?u=76281980)
+#### [Joining many tables](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-many-tables-19067629?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-many-tables-19067629?u=76281980&t=0)** - [Instructor] Now that we have identified the fields that we need to respond to the current request from WSDA Music Management, which is what employees are responsible for the 10 highest individual sales.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-many-tables-19067629?u=76281980&t=16)** Let's go ahead now and start building out our SQL query that's going to respond to this request.
+> **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-many-tables-19067629?u=76281980&t=16)** Let's go ahead now and start building out our [[SQL]] query that's going to respond to this request.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-many-tables-19067629?u=76281980&t=23)** Now, starting with the FROM clause, we can identify the first table that we need which is the Invoice table.
 >
@@ -2799,13 +2754,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), management (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** wsda (2), sql (2), inner (2), join (2), order (1)
 > **SQL:** inner join (2), order by (1), select (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution:  Analyzing customer support interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-analyzing-customer-support-interactions?u=76281980)
+#### [Solution:  Analyzing customer support interactions](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-analyzing-customer-support-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2849,7 +2803,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **SQL:** select (2), order by (1)
 > **Env Vars:** select (2), order (1)
 > **Speakers:** - [instructor] (1)
@@ -2860,12 +2813,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculating with functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980)
+#### [Calculating with functions](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980&t=0)** - I think before we say another word about SQL let's recognize what you've accomplished so far.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980&t=0)** - I think before we say another [[Microsoft Word|word]] about [[SQL]] let's recognize what you've accomplished so far.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980&t=9)** You just got through joins.
 >
@@ -2891,18 +2843,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (5)
 > **UI Navigation:** select the (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
-#### String, date, and aggregate function types
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/string-date-and-aggregate-function-types-19072327?u=76281980)
+#### [String, date, and aggregate function types](https://www.linkedin.com/learning/sql-essential-training-20685933/string-date-and-aggregate-function-types-19072327?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/string-date-and-aggregate-function-types-19072327?u=76281980&t=0)** - [Instructor] Now let's head over to our execute SQL tab and take a look at the following function.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/string-date-and-aggregate-function-types-19072327?u=76281980&t=0)** - [Instructor] Now let's head over to our execute [[SQL]] tab and take a look at the following function.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-essential-training-20685933/string-date-and-aggregate-function-types-19072327?u=76281980&t=6)** Now, when I type in the keyword or the function UPPER, then open parenthesis, we do see this popup in front of us which is telling us a little bit more about the UPPER function and what it expects.
 >
@@ -2916,8 +2867,7 @@ created: 2026-05-02
 > **Env Vars:** upper (2), sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/connecting-strings-19070441?u=76281980)
+#### [Connecting strings](https://www.linkedin.com/learning/sql-essential-training-20685933/connecting-strings-19070441?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2927,7 +2877,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-essential-training-20685933/connecting-strings-19070441?u=76281980&t=18)** Now, to do this, we would need a single field that comprises of the customer's first name, last name, address and that would be their full address which would include the street, the city, the state, and the zip code.
 >
-> **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/connecting-strings-19070441?u=76281980&t=35)** Let's see how we could use our SQL string functions to build this field.
+> **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/connecting-strings-19070441?u=76281980&t=35)** Let's see how we could use our [[SQL]] string functions to build this field.
 >
 > **[0:42](https://www.linkedin.com/learning/sql-essential-training-20685933/connecting-strings-19070441?u=76281980&t=42)** Now, when it comes to joining separate fields, this is referred to as concatenating them in SQL.
 >
@@ -3019,14 +2969,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), wsda (1), select (1)
 > **CLI Commands:** make (3)
 > **SQL:** select (1)
 > **Speakers:** - [instructor] (1)
 
-#### Separating text
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/separating-text-19071411?u=76281980)
+#### [Separating text](https://www.linkedin.com/learning/sql-essential-training-20685933/separating-text-19071411?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,14 +3037,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), hit (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** wsda (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [lecturer] (1)
 
-#### UPPER and LOWER string functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/upper-and-lower-string-functions-19071406?u=76281980)
+#### [UPPER and LOWER string functions](https://www.linkedin.com/learning/sql-essential-training-20685933/upper-and-lower-string-functions-19071406?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3117,7 +3064,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/sql-essential-training-20685933/upper-and-lower-string-functions-19071406?u=76281980&t=80)** Now, let's do this for our LastName field and let's alias this as Last Name All lower.
 >
-> **[1:29](https://www.linkedin.com/learning/sql-essential-training-20685933/upper-and-lower-string-functions-19071406?u=76281980&t=89)** Now, let's run this updated SQL statement and we now have our newly created field, Last Name All lower, and the values show, as it says, all values are now all lowercase.
+> **[1:29](https://www.linkedin.com/learning/sql-essential-training-20685933/upper-and-lower-string-functions-19071406?u=76281980&t=89)** Now, let's run this updated [[SQL]] statement and we now have our newly created field, Last Name All lower, and the values show, as it says, all values are now all lowercase.
 >
 > **[1:46](https://www.linkedin.com/learning/sql-essential-training-20685933/upper-and-lower-string-functions-19071406?u=76281980&t=106)** So, two other powerful string functions to add to our knowledge base, and with that, we've now wrapped up our discussion on string functions.
 >
@@ -3125,13 +3072,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** upper (3), lower (2), sql (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/date-functions-19069542?u=76281980)
+#### [Date functions](https://www.linkedin.com/learning/sql-essential-training-20685933/date-functions-19069542?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3153,7 +3099,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/sql-essential-training-20685933/date-functions-19069542?u=76281980&t=70)** So, to operate this function properly, you need to pass into it two arguments, and that is, first, you need to pass in your desired format, that is the format you'd like to format the date in together with the time string to be formatted.
 >
-> **[1:32](https://www.linkedin.com/learning/sql-essential-training-20685933/date-functions-19069542?u=76281980&t=92)** So, let's now take our current SQL statement here, which is simply selecting a few fields from our employee table, and modify it to now include the strftime function to calculate our employee's birthdays.
+> **[1:32](https://www.linkedin.com/learning/sql-essential-training-20685933/date-functions-19069542?u=76281980&t=92)** So, let's now take our current [[SQL]] statement here, which is simply selecting a few fields from our employee table, and modify it to now include the strftime function to calculate our employee's birthdays.
 >
 > **[1:51](https://www.linkedin.com/learning/sql-essential-training-20685933/date-functions-19069542?u=76281980&t=111)** Now, our first step would be to include a brand new column and then introduce the strftime function.
 >
@@ -3207,14 +3153,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), database (2), next (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** wsda (4), sql (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [speaker] (1)
 
-#### Aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregate-functions-19065708?u=76281980)
+#### [Aggregate functions](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregate-functions-19065708?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3226,7 +3171,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregate-functions-19065708?u=76281980&t=26)** In other words, let's say we were tasked by WSDA Music Management to get our total global sales of all time.
 >
-> **[0:37](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregate-functions-19065708?u=76281980&t=37)** How would we go about constructing a SQL statement to do this?
+> **[0:37](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregate-functions-19065708?u=76281980&t=37)** How would we go about constructing a [[SQL]] statement to do this?
 >
 > **[0:41](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregate-functions-19065708?u=76281980&t=41)** Well, let's first start with our usual from clause, and because we're interested in the total sales, this information is held inside of our invoice table.
 >
@@ -3286,15 +3231,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** wsda (2), sql (1), avg (1)
 > **Versions:** 329.46 (1), 000.86 (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nesting functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/nesting-functions-19072328?u=76281980)
+#### [Nesting functions](https://www.linkedin.com/learning/sql-essential-training-20685933/nesting-functions-19072328?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3334,20 +3278,19 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/sql-essential-training-20685933/nesting-functions-19072328?u=76281980&t=154)** Now let's go ahead and run our statement here.
 >
-> **[2:36](https://www.linkedin.com/learning/sql-essential-training-20685933/nesting-functions-19072328?u=76281980&t=156)** Now we went from a very long average sales number to 8.06 which is actually a lot more presentable and helps us emphasize the use of nesting and shows a great example where you can employ this in your SQL result.
+> **[2:36](https://www.linkedin.com/learning/sql-essential-training-20685933/nesting-functions-19072328?u=76281980&t=156)** Now we went from a very long average sales number to 8.06 which is actually a lot more presentable and helps us emphasize the use of nesting and shows a great example where you can employ this in your [[SQL]] result.
 >
 > **[2:56](https://www.linkedin.com/learning/sql-essential-training-20685933/nesting-functions-19072328?u=76281980&t=176)** Now when we present this report back to management at WSDA Music, they're a lot more pleased and there are no more questions coming back as you've supplied this report in a quite efficient format.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sql (1), wsda (1)
 > **Versions:** 8.06 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Customer postal code transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-customer-postal-code-transformation?u=76281980)
+#### [Solution: Customer postal code transformation](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-customer-postal-code-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3385,7 +3328,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), database (1), next (1), hit (1)
 > **Env Vars:** usa (2), asc (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
@@ -3396,8 +3338,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grouping your query results
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-your-query-results-19069541?u=76281980)
+#### [Grouping your query results](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-your-query-results-19069541?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3419,13 +3360,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Env Vars:** wsda (2)
 > **Analogies:** for example (1)
 > **Speakers:** - here (1)
 
-#### Filtering with a grouped condition
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/filtering-with-a-grouped-condition-19069546?u=76281980)
+#### [Filtering with a grouped condition](https://www.linkedin.com/learning/sql-essential-training-20685933/filtering-with-a-grouped-condition-19069546?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3435,7 +3374,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-essential-training-20685933/filtering-with-a-grouped-condition-19069546?u=76281980&t=32)** Now, let's say that we had a new request from the WSDA Music Company management and they have asked us to calculate the average invoice amount by BillingCity.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-essential-training-20685933/filtering-with-a-grouped-condition-19069546?u=76281980&t=44)** Now, let's take a look at how we would respond to such a request with SQL.
+> **[0:44](https://www.linkedin.com/learning/sql-essential-training-20685933/filtering-with-a-grouped-condition-19069546?u=76281980&t=44)** Now, let's take a look at how we would respond to such a request with [[SQL]].
 >
 > **[0:50](https://www.linkedin.com/learning/sql-essential-training-20685933/filtering-with-a-grouped-condition-19069546?u=76281980&t=50)** As we usually do, let's start with the FROM clause.
 >
@@ -3529,7 +3468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[SQL]] (3), feature (1), data (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** avg (6), group (5), wsda (4), sql (3), select (3)
 > **SQL:** group by (5), select (3), order by (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -3538,8 +3477,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping with the WHERE clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-clause-19070447?u=76281980)
+#### [Grouping with the WHERE clause](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-clause-19070447?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3553,7 +3491,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-clause-19070447?u=76281980&t=27)** They have now asked us what are the average invoice totals by city for only the cities that start with L.
 >
-> **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-clause-19070447?u=76281980&t=35)** Now we can achieve the result of this request by making some alterations to our existing SQL statement.
+> **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-clause-19070447?u=76281980&t=35)** Now we can achieve the result of this request by making some alterations to our existing [[SQL]] statement.
 >
 > **[0:43](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-clause-19070447?u=76281980&t=43)** Let's go ahead and add a Where clause to our query.
 >
@@ -3581,12 +3519,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), data (2), management (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** wsda (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping with the HAVING clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-having-clause-19070429?u=76281980)
+#### [Grouping with the HAVING clause](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-having-clause-19070429?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3656,7 +3593,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-having-clause-19070429?u=76281980&t=223)** And if we take a look at the average amount being displayed here, it's all over the $5.
 >
-> **[3:51](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-having-clause-19070429?u=76281980&t=231)** Now let me close the gaps in our SQL statement and take a look at the full SQL statement.
+> **[3:51](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-having-clause-19070429?u=76281980&t=231)** Now let me close the gaps in our [[SQL]] statement and take a look at the full SQL statement.
 >
 > **[3:58](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-having-clause-19070429?u=76281980&t=238)** So we have now a SELECT clause.
 >
@@ -3666,7 +3603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** where (7), having (6), group (4), sql (2), wsda (1)
 > **SQL:** where (7), having (6), group by (4), order by (1), select (1)
 > **CLI Commands:** find (1)
@@ -3675,8 +3612,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping with the WHERE and HAVING clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-and-having-clause-19072331?u=76281980)
+#### [Grouping with the WHERE and HAVING clause](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-with-the-where-and-having-clause-19072331?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3724,13 +3660,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1)
 > **Env Vars:** where (8), having (6), wsda (1), group (1), order (1)
 > **SQL:** where (8), having (6), group by (1), order by (1)
 > **Speakers:** - now (1)
 
-#### Grouping by many fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-by-many-fields-19071403?u=76281980)
+#### [Grouping by many fields](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-by-many-fields-19071403?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3742,7 +3676,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-by-many-fields-19071403?u=76281980&t=19)** We could write our query so that our aggregate data is grouped first by country then by city.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-by-many-fields-19071403?u=76281980&t=27)** So let's take a look at modifying our existing SQL statement to respond to WSDA Music's latest request.
+> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-by-many-fields-19071403?u=76281980&t=27)** So let's take a look at modifying our existing [[SQL]] statement to respond to WSDA Music's latest request.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-by-many-fields-19071403?u=76281980&t=35)** And here we have it.
 >
@@ -3794,14 +3728,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), wsda (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Calculate Average spend per city
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-calculate-average-spend-per-city?u=76281980)
+#### [Solution: Calculate Average spend per city](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-calculate-average-spend-per-city?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3815,7 +3748,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-calculate-average-spend-per-city?u=76281980&t=33)** With this table specified, we can go up to our select clause and tap into the fields of this table we're interested in seeing.
 >
-> **[0:42](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-calculate-average-spend-per-city?u=76281980&t=42)** And those fields are billing city, which we've alias with the word city.
+> **[0:42](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-calculate-average-spend-per-city?u=76281980&t=42)** And those fields are billing city, which we've alias with the [[Microsoft Word|word]] city.
 >
 > **[0:49](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-calculate-average-spend-per-city?u=76281980&t=49)** And the other field we're interested in seeing is the average spend.
 >
@@ -3837,7 +3770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -3847,8 +3780,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subqueries and aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/subqueries-and-aggregate-functions-19069540?u=76281980)
+#### [Subqueries and aggregate functions](https://www.linkedin.com/learning/sql-essential-training-20685933/subqueries-and-aggregate-functions-19069540?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3876,13 +3808,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Analogies:** kind of like (1), for instance (1)
 > **Env Vars:** wsda (1)
 > **Speakers:** - have (1)
 
-#### SELECT clause subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/select-clause-subquery-19070424?u=76281980)
+#### [SELECT clause subquery](https://www.linkedin.com/learning/sql-essential-training-20685933/select-clause-subquery-19070424?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3894,7 +3824,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/sql-essential-training-20685933/select-clause-subquery-19070424?u=76281980&t=20)** Now, let's say that we were asked by WSDA Music Management to gather data about all invoices that were lower than this average.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-essential-training-20685933/select-clause-subquery-19070424?u=76281980&t=29)** Well, below here, I've started a partially constructed SQL statement that is going to attempt to respond to this question.
+> **[0:29](https://www.linkedin.com/learning/sql-essential-training-20685933/select-clause-subquery-19070424?u=76281980&t=29)** Well, below here, I've started a partially constructed [[SQL]] statement that is going to attempt to respond to this question.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-essential-training-20685933/select-clause-subquery-19070424?u=76281980&t=38)** Now, we would need a SELECT statement that displays some of the invoice fields such as invoice date, billing address, billing city, and, of course, we need the total.
 >
@@ -3962,7 +3892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), management (2), data (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** where (5), select (3), sql (3), wsda (2)
 > **SQL:** where (5), select (3)
 > **Versions:** 8.06 (6)
@@ -3971,8 +3901,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregated subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregated-subqueries?u=76281980)
+#### [Aggregated subqueries](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregated-subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4006,7 +3935,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregated-subqueries?u=76281980&t=97)** This order by billing city as well.
 >
-> **[1:41](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregated-subqueries?u=76281980&t=101)** And now, I'm going to return back up to our select statement here, or select clause and include the rest of our query.
+> **[1:41](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregated-subqueries?u=76281980&t=101)** And now, I'm going to return back up to our select statement here, or select clause and include the [[Representational State Transfer (REST)|rest]] of our query.
 >
 > **[1:51](https://www.linkedin.com/learning/sql-essential-training-20685933/aggregated-subqueries?u=76281980&t=111)** So, so far, we would like to display the billing city, as well as the average for each billing city.
 >
@@ -4072,19 +4001,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** wsda (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Non-aggregate subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980)
+#### [Non-aggregate subqueries](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=0)** - [Instructor] A subquery does not always contain an aggregate function as we've been showing previously.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=7)** If we take a look at the following SQL statement, we will see that the query shows the transaction date for a specific transaction, and that date is January 9th of 2012.
+> **[0:07](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=7)** If we take a look at the following [[SQL]] statement, we will see that the query shows the transaction date for a specific transaction, and that date is January 9th of 2012.
 >
 > **[0:23](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=23)** Now if we wanted to see if there were any other invoices that were received after the invoice date reference here, we would build a subquery wrapped in a pair of parenthesis and then build an outer query around it.
 >
@@ -4092,7 +4020,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=43)** To make this a subquery or the inner part of the query, let's go ahead and put some parentheses at the start and all the way at the end of this.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=54)** Now let's go ahead and build out the rest of our query.
+> **[0:54](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=54)** Now let's go ahead and build out the [[Representational State Transfer (REST)|rest]] of our query.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-essential-training-20685933/non-aggregate-subqueries-19071402?u=76281980&t=58)** I'm going to start above here, and let's go ahead and say from, and we'll say invoice, and let's include what we want to select here.
 >
@@ -4127,8 +4055,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### IN clause subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/in-clause-subquery-19071397?u=76281980)
+#### [IN clause subquery](https://www.linkedin.com/learning/sql-essential-training-20685933/in-clause-subquery-19071397?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4138,7 +4065,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sql-essential-training-20685933/in-clause-subquery-19071397?u=76281980&t=17)** Now, let's say that our WSDA Music Management team is interested in three particular invoices.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-essential-training-20685933/in-clause-subquery-19071397?u=76281980&t=25)** To select these individual invoices, let's consider our present SQL statement here.
+> **[0:25](https://www.linkedin.com/learning/sql-essential-training-20685933/in-clause-subquery-19071397?u=76281980&t=25)** To select these individual invoices, let's consider our present [[SQL]] statement here.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-essential-training-20685933/in-clause-subquery-19071397?u=76281980&t=33)** We've used a SQL statement that is going to employ the IN operator, or the IN clause, to select three specific invoices, and our result is showing the invoice date that is associated with these three invoices.
 >
@@ -4190,14 +4117,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[SQL]] (2), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** where (4), wsda (2), sql (2)
 > **SQL:** where (4)
 > **UI Navigation:** select the (3)
 > **Speakers:** - [instructor] (1)
 
-#### DISTINCT clause subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/distinct-clause-subquery-19072336?u=76281980)
+#### [DISTINCT clause subquery](https://www.linkedin.com/learning/sql-essential-training-20685933/distinct-clause-subquery-19072336?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4299,7 +4225,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (2), database (1)
 > **CLI Commands:** composer (2), find (1), make (1)
 > **Env Vars:** wsda (4)
 > **Definitions:** is a  (2), known as (1)
@@ -4308,8 +4233,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Uncovering unpopular tracks
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-uncovering-unpopular-tracks?u=76281980)
+#### [Solution: Uncovering unpopular tracks](https://www.linkedin.com/learning/sql-essential-training-20685933/solution-uncovering-unpopular-tracks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4355,7 +4279,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1), data (1), hit (1), database (1)
 > **Env Vars:** select (2), where (2), distinct (1), order (1)
 > **SQL:** select (2), where (2), order by (1)
 > **CLI Commands:** composer (1)
@@ -4367,8 +4290,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### View introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980)
+#### [View introduction](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4382,7 +4304,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980&t=40)** There's got to be a better way.
 >
-> **[0:43](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980&t=43)** Luckily, there is, with something called Views in SQL.
+> **[0:43](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980&t=43)** Luckily, there is, with something called Views in [[SQL]].
 >
 > **[0:48](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980&t=48)** A view is simply a query that's saved and can be executed repeatedly or referenced by other queries.
 >
@@ -4396,15 +4318,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), management (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), wsda (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### Creating a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980)
+#### [Creating a view](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4412,7 +4333,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=16)** Now, officially, a view is referred to as a virtual table.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=21)** And all of the SQL statements that we've been introduced to thus far in our course can all be saved and reused when we create a view out of them.
+> **[0:21](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=21)** And all of the [[SQL]] statements that we've been introduced to thus far in our course can all be saved and reused when we create a view out of them.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=33)** Now, let's take a look at our query in front of us, which we visited a few times in the past.
 >
@@ -4446,7 +4367,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=133)** Now we have CREATE VIEW, the view name, which is written in a best practice manner, V_, and a descriptive name.
 >
-> **[2:23](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=143)** Then the last key word we want to include is AS.
+> **[2:23](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=143)** Then the last key [[Microsoft Word|word]] we want to include is AS.
 >
 > **[2:28](https://www.linkedin.com/learning/sql-essential-training-20685933/creating-a-view-19066646?u=76281980&t=148)** Now with this, we have a complete syntax that is now going to take our regular query and turn this into a view.
 >
@@ -4490,7 +4411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (3), [[SQL]] (2), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** create (4), view (3), sql (2), select (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
@@ -4499,18 +4420,17 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Versions:** 8.06 (1)
 
-#### Editing a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980)
+#### [Editing a view](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=0)** - [Instructor] Now that we have created our first view, V-Average-Total, there are times when we would want to make changes to an existing view.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=10)** Now, this is a good time to point out that there are indeed some changes between relational database management systems.
+> **[0:10](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=10)** Now, this is a good time to point out that there are indeed some changes between relational [[Database Management]] systems.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=19)** I did mention earlier that there is a 5% or so difference from one RDBMS to another.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=27)** So, with regard to the relational database management system we are using here, which is SQLite, there is a slight difference to let's say, SQL Server, which does have a little bit different way of handling a view.
+> **[0:27](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=27)** So, with regard to the relational database management system we are using here, which is SQLite, there is a slight difference to let's say, [[Microsoft SQL Server|SQL Server]], which does have a little bit different way of handling a view.
 >
 > **[0:44](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=44)** Now, when it comes to the modification of views in SQLite, there isn't a syntax that actually modifies the existing view.
 >
@@ -4528,7 +4448,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=101)** When we click this option, we do see a a popup.
 >
-> **[1:44](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=104)** And this is to just give us a bit of a warning telling us that this action will open a new SQL tab with the following statement.
+> **[1:44](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=104)** And this is to just give us a bit of a warning telling us that this action will open a new [[SQL]] tab with the following statement.
 >
 > **[1:52](https://www.linkedin.com/learning/sql-essential-training-20685933/editing-a-view-19067620?u=76281980&t=112)** And if you look at the statement the first thing that it starts off with is dropping the view.
 >
@@ -4564,7 +4484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), management (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1), data (1)
+> **Frameworks & Libraries:** [[Database Management]] (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** sql (3), rdbms (1)
 > **CLI Commands:** make (3)
@@ -4572,8 +4492,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining views
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-views-19070443?u=76281980)
+#### [Joining views](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-views-19070443?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4597,7 +4516,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-views-19070443?u=76281980&t=93)** Then we want to create a useful name for this, so this is actually joining the tracks to the invoices, so we have a deeper view of what's going on with regard to these two data sets, so let's appropriately call this, starting with our best practice capitalized v, then an underscore, then a descriptive name, so tracks, and we'll call this invoice line.
 >
-> **[2:05](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-views-19070443?u=76281980&t=125)** So this name clues us into what's going on within the view, and last but not least, we include the "as" keyword, and by doing this, we're now ready to execute this query and now create a view out of this relatively complex SQL statement.
+> **[2:05](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-views-19070443?u=76281980&t=125)** So this name clues us into what's going on within the view, and last but not least, we include the "as" keyword, and by doing this, we're now ready to execute this query and now create a view out of this relatively complex [[SQL]] statement.
 >
 > **[2:25](https://www.linkedin.com/learning/sql-essential-training-20685933/joining-views-19070443?u=76281980&t=145)** Let's go ahead and do that.
 >
@@ -4609,15 +4528,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - now (1)
 
-#### Deleting views
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-views-19070431?u=76281980)
+#### [Deleting views](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-views-19070431?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4639,7 +4557,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-views-19070431?u=76281980&t=40)** Take a note of our view, v average total.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-views-19070431?u=76281980&t=44)** I'm going to head over to the execute SQL tab, and show you one more way that we could actually delete a view via SQL syntax.
+> **[0:44](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-views-19070431?u=76281980&t=44)** I'm going to head over to the execute [[SQL]] tab, and show you one more way that we could actually delete a view via SQL syntax.
 >
 > **[0:54](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-views-19070431?u=76281980&t=54)** And that is the keyword, drop.
 >
@@ -4665,7 +4583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), hit (2), [[SQL]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
@@ -4675,8 +4593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analysis and administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980)
+#### [Analysis and administration](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4692,7 +4609,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980&t=46)** Every one of these actions, adding, updating, and deleting changes or manipulates the data in our database in some way.
 >
-> **[0:55](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980&t=55)** In SQL, there are a few specific set of commands that together are called data manipulation language or DML for short and these are SQL statements used to change or alter data stored in the tables of a database.
+> **[0:55](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980&t=55)** In [[SQL]], there are a few specific set of commands that together are called [[Data Manipulation]] language or DML for short and these are SQL statements used to change or alter data stored in the tables of a database.
 >
 > **[1:14](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980&t=74)** DML is more commonly used in roles, such as database developer and database administrator that oversee the growth, improvement, and management of the company's database.
 >
@@ -4700,19 +4617,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (4), [[SQL]] (2), career (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Manipulation]] (1)
 > **Env Vars:** dml (3), wsda (2), sql (2)
 > **Analogies:** such as (1)
 > **Speakers:** - before (1)
 
-#### Inserting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980)
+#### [Inserting data](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980&t=0)** - [Instructor] Now, up till this point, everything that we've taken a look at, as far as SQL code or syntax, did not modify any data in our database.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980&t=0)** - [Instructor] Now, up till this point, everything that we've taken a look at, as far as [[SQL]] code or syntax, did not modify any data in our database.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980&t=12)** Now, as I just mentioned, the statements that are referred to as DML or Data Manipulation Language are the statements that actually do cause some sort of alteration to our existing data.
+> **[0:12](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980&t=12)** Now, as I just mentioned, the statements that are referred to as DML or [[Data Manipulation]] Language are the statements that actually do cause some sort of alteration to our existing data.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-essential-training-20685933/inserting-data-19072329?u=76281980&t=31)** So the official statements that are referred to as DML are insert, update, and delete.
 >
@@ -4802,7 +4718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[SQL]] (3), next (3), management (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Data Manipulation]] (1)
 > **Env Vars:** insert (13), into (9), dml (5), sql (3), nvarchar (3)
 > **SQL:** insert into (9)
 > **UI Navigation:** go to (1), select the (1)
@@ -4810,8 +4726,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980)
+#### [Updating data](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4827,7 +4742,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=35)** Now let's take a look at how we would update the record that we just placed in our table, which was to update the artist table with the artist Bob Marley.
 >
-> **[0:46](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=46)** The management at WSDA music has just sent word that they actually made an error.
+> **[0:46](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=46)** The management at WSDA music has just sent [[Microsoft Word|word]] that they actually made an error.
 >
 > **[0:54](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=54)** Instead of Bob Marley they actually wanted to add his son Damien Marley.
 >
@@ -4837,7 +4752,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=82)** And if we look down here we see that Bob Marley is having an artist's ID of 276.
 >
-> **[1:30](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=90)** So with this, let's go back to our execute SQL tab and construct our DML statement.
+> **[1:30](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=90)** So with this, let's go back to our execute [[SQL]] tab and construct our DML statement.
 >
 > **[1:39](https://www.linkedin.com/learning/sql-essential-training-20685933/updating-data-19072339?u=76281980&t=99)** The first thing we'd need to do is indicate the keyword UPDATE.
 >
@@ -4875,15 +4790,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), management (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** where (6), update (2), sql (2), wsda (1), dml (1)
 > **SQL:** where (6), update (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Deleting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-data-19066635?u=76281980)
+#### [Deleting data](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-data-19066635?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4897,7 +4811,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-data-19066635?u=76281980&t=39)** So let's demonstrate the use of a delete statement and remove our record that we have just inserted.
 >
-> **[0:47](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-data-19066635?u=76281980&t=47)** So once again, we've gotten word from the management at WSDA Music that once again there has been a little bit of a mix up.
+> **[0:47](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-data-19066635?u=76281980&t=47)** So once again, we've gotten [[Microsoft Word|word]] from the management at WSDA Music that once again there has been a little bit of a mix up.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-essential-training-20685933/deleting-data-19066635?u=76281980&t=58)** They have now decided to remove altogether the newly added then modified artist Damien Marley from the database.
 >
@@ -4941,7 +4855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), management (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** dml (2), wsda (2)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
@@ -4954,14 +4868,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for a Non-Technical Interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980)
+#### [Preparing for a Non-Technical Interview](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=0)** - [Instructor] Great job so far, you've gained the fundamental knowledge and skills necessary to work with SQL databases effectively.
+> **[0:00](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=0)** - [Instructor] Great job so far, you've gained the fundamental knowledge and skills necessary to work with [[SQL]] [[Databases]] effectively.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=10)** Now it's time to put your skills to the test in a job application simulation.
+> **[0:10](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=10)** Now it's time to put your skills to the test in a job application [[Simulation]].
 >
 > **[0:17](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=17)** In this simulation, imagine yourself as a candidate for the position of SQL Data Analyst at Red 30 Tech.
 >
@@ -4975,9 +4888,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=59)** For these questions, you'll be prompted to pause the video, think about how you'd respond and record your responses using your mobile phone and review them later for self-evaluation and improvement.
 >
-> **[1:15](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=75)** On the other hand, the technical questions will be presented to you in the CoderPad environment which is a special interface built into the LinkedIn learning platform.
+> **[1:15](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=75)** On the other hand, the technical questions will be presented to you in the CoderPad environment which is a special interface built into the [[LinkedIn]] learning platform.
 >
-> **[1:26](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=86)** You can use this environment to compose and run SQL queries and respond to the technical questions.
+> **[1:26](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=86)** You can use this environment to [[Jetpack Compose|compose]] and run SQL queries and respond to the technical questions.
 >
 > **[1:33](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980&t=93)** We'll talk a little more about the CoderPad environment soon.
 >
@@ -5005,7 +4918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (5), [[Databases]] (4), [[Simulation]] (3), application (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (4), [[Simulation]] (3), [[LinkedIn]] (1), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -5013,8 +4926,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Non-Technical Interview Practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980)
+#### [Non-Technical Interview Practice](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5040,11 +4952,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=65)** And this approach is effective because it allows the interviewer to quickly understand Charlotte's qualifications and sets the foundation for further discussion about her skills and expertise.
 >
-> **[1:18](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=78)** Now, by mentioning her degree in statistics and experience working on data analysis projects during her studies, Charlotte establishes her educational background and practical experience showing how prepared she is for this role.
+> **[1:18](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=78)** Now, by mentioning her degree in [[Statistics]] and experience working on data analysis projects during her studies, Charlotte establishes her educational background and practical experience showing how prepared she is for this role.
 >
 > **[1:37](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=97)** - [Interviewer] That's great to hear.
 >
-> **[1:38](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=98)** Our company places a strong emphasis on sustainability and innovation.
+> **[1:38](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=98)** Our company places a strong emphasis on [[Sustainability]] and innovation.
 >
 > **[1:44](https://www.linkedin.com/learning/sql-essential-training-20685933/non-technical-interview-practice?u=76281980&t=104)** Can you now tell us about a project or experience you've had that demonstrates your commitment to these values?
 >
@@ -5088,7 +5000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Sustainability]] (2), [[Analytics]] (1), [[Statistics]] (1), generic (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Statistics]] (1)
 > **Speakers:** - [interviewer] (3), - [instructor] (3)
 > **CLI Commands:** make (4), find (1)
 > **Non-Speech:** (upbeat music) (3)
@@ -5099,8 +5011,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980)
+#### [Next steps and tips](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5108,7 +5019,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=7)** In Trinidad and Tobago, we like to celebrate with Soca, Carnival, Steel Drums, limbo, okay, yep, I'm officially on a tangent.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=18)** The point is you did great but we've only scratched the surface of what SQL has to offer.
+> **[0:18](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=18)** The point is you did great but we've only scratched the surface of what [[SQL]] has to offer.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=25)** So by no means is this the end.
 >
@@ -5118,7 +5029,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=40)** Also, SQL is just one of the data analyst tools that's used to perform analysis.
 >
-> **[0:48](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=48)** Some complimentary skills and tools you can start learning are Microsoft Excel, used as a data analyst would and Microsoft Power BI, a data visualization tool used to take results of queries like the ones you learned in this course and visualize them in charts and graphs for even deeper analysis.
+> **[0:48](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=48)** Some complimentary skills and tools you can start learning are [[Microsoft Excel]], used as a data analyst would and [[Microsoft Power BI]], a data visualization tool used to take results of queries like the ones you learned in this course and visualize them in charts and graphs for even deeper analysis.
 >
 > **[1:12](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980&t=72)** You can also reinforce the materials you learned by getting my best selling book, "SQL QuickStart Guide" and nothing replaces just plain old practicing.
 >
@@ -5132,7 +5043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (3), [[Microsoft Excel]] (1), [[Microsoft Power BI]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Excel]] (1), [[Microsoft Power BI]] (1)
 > **Env Vars:** sql (5)
 > **Speakers:** - and (1)
 > **Non-Speech:** (upbeat music) (1)

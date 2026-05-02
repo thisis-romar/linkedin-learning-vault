@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/ai-for-organizational-leaders-by-mi
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - professional-certificate
   - topic/artificial-intelligence

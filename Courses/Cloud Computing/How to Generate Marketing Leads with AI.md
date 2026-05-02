@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boost your lead generation with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980)
+#### [Boost your lead generation with AI](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -74,7 +73,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980&t=9)** How are you going to be generating leads to sustain your business?
 >
-> **[0:13](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980&t=13)** Well, I'm here to tell you today that leveraging AI in your lead generation strategy is going to make your life so much more convenient to find those ideal individuals that you're looking for in an efficient timeframe that want to buy from you and buy from your business.
+> **[0:13](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980&t=13)** Well, I'm here to tell you today that leveraging AI in your [[Lead Generation]] strategy is going to make your life so much more convenient to find those ideal individuals that you're looking for in an efficient timeframe that want to buy from you and buy from your business.
 >
 > **[0:30](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980&t=30)** My name is Lorenzo Johnson, and I am Partner and Director of Revenue at Sociallyin, one of the premier social media agencies in the United States.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), ai (4), [[Lead Generation]] (2)
+> **Frameworks & Libraries:** [[Lead Generation]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - so (1)
 
@@ -101,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AI for lead generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980)
+#### [Understanding AI for lead generation](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=0)** - There's a numerous benefits to why using AI for lead generation is beneficial for a company or a brand or even what we like to call a solopreneur.
+> **[0:00](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=0)** - There's a numerous benefits to why using AI for [[Lead Generation]] is beneficial for a company or a brand or even what we like to call a solopreneur.
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=9)** So the first thing is going to be the efficacy of the ability for it to take in so much information that when you just look at how much time and resources it would take to manually take all of that in it, it's a big time saver.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=102)** If it is video, what types of video are we going to see?
 >
-> **[1:46](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=106)** When you start to get into various types of content creation and ad formats that you can have, some ad formats are going to be more dynamic.
+> **[1:46](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=106)** When you start to get into various types of [[Content Creation]] and ad formats that you can have, some ad formats are going to be more dynamic.
 >
 > **[1:53](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980&t=113)** You have ads that are going to be small and that you see just at the top of your screen.
 >
@@ -202,18 +200,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Lead Generation]] (4), data (4), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (4), [[Content Creation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - there (1)
 
-#### Using essential AI technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980)
+#### [Using essential AI technologies](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=0)** - There are so many different ways that AI can bolster your lead generation strategies.
+> **[0:00](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=0)** - There are so many different ways that AI can bolster your [[Lead Generation]] strategies.
 >
 > **[0:06](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=6)** It is going to be one of those things that I like to say is going to take your strengths to the next level, but it's also going to be something that's going to allow to provide a crutch for some of your weaknesses when it comes to creating lead generation.
 >
@@ -235,9 +232,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=79)** Whether we're talking about imagery or videos, what types of videos, what types of imagery, what type of captions, and what type of copy are really getting these individuals to convert.
 >
-> **[1:29](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=89)** The third thing that AI is going to do when it comes to lead generation is give you a ton of real-time data that you can use to optimize in much, much shorter speeds than you used to be.
+> **[1:29](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=89)** The third thing that AI is going to do when it comes to lead generation is give you a ton of [[Real-Time]] data that you can use to optimize in much, much shorter speeds than you used to be.
 >
-> **[1:39](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=99)** Again, historically, you used to have to wait for algorithms to run programs for five days at a time.
+> **[1:39](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=99)** Again, historically, you used to have to wait for [[Algorithms]] to run programs for five days at a time.
 >
 > **[1:45](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=105)** Then after that five days, you can only make small, incremental changes and things like that.
 >
@@ -271,7 +268,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=203)** For those who aren't aware, a plugin is essentially a third-party tool that you're actually now able to plug into the currently existing AI platform.
 >
-> **[3:32](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=212)** So if we're all familiar with ChatGPT, for example, ChatGPT is an AI platform.
+> **[3:32](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=212)** So if we're all familiar with [[ChatGPT]], for example, ChatGPT is an AI platform.
 >
 > **[3:38](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/using-essential-ai-technologies?u=76281980&t=218)** A plugin is going to be a third party.
 >
@@ -299,7 +296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Lead Generation]] (5), [[ChatGPT]] (4), next (3), data (3)
+> **Frameworks & Libraries:** [[Lead Generation]] (5), [[ChatGPT]] (4), [[Real-Time]] (2), [[Algorithms]] (1)
 > **Env Vars:** crm (3), gpt (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
@@ -307,8 +304,7 @@ created: 2026-05-02
 > **URLs:** [calendar.ai](https://calendar.ai) (1)
 > **Speakers:** - there (1)
 
-#### AI driven customer segmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-driven-customer-segmentation?u=76281980)
+#### [AI driven customer segmentation](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-driven-customer-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-driven-customer-segmentation?u=76281980&t=70)** So now, again, as opposed to actually having to be reactive with these things, running long campaigns, getting reports, manually sifting through the data, AI is actually going to serve and do these things dynamically.
 >
-> **[1:23](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-driven-customer-segmentation?u=76281980&t=83)** Data collection is really the foundation of creating a meaningful interaction with your customers because your data is going to tell you what works.
+> **[1:23](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-driven-customer-segmentation?u=76281980&t=83)** [[Data Collection]] is really the foundation of creating a meaningful interaction with your customers because your data is going to tell you what works.
 >
 > **[1:33](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-driven-customer-segmentation?u=76281980&t=93)** It's not going to be based upon theory.
 >
@@ -392,19 +388,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (7)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** crm (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - customer (1)
 
-#### Personalization and AI for lead nurturing
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980)
+#### [Personalization and AI for lead nurturing](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=0)** - So, when we talk about lead generation, lead generation is just simply the idea of, and the process of identifying a potential person and then beginning the process of prospecting them.
+> **[0:00](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=0)** - So, when we talk about [[Lead Generation]], lead generation is just simply the idea of, and the process of identifying a potential person and then beginning the process of prospecting them.
 >
 > **[0:12](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=12)** Lead nurturing really starts to get into that prospecting process.
 >
@@ -422,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=44)** Educating them on why they're different or why you're different from your competitors and then ultimately, converting them.
 >
-> **[0:50](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=50)** I like to say there's a fifth step and that's actually having them become that brand ambassador, that brand advocate spreading word of mouth.
+> **[0:50](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=50)** I like to say there's a fifth step and that's actually having them become that brand ambassador, that brand advocate spreading [[Microsoft Word|word]] of mouth.
 >
 > **[0:58](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/personalization-and-ai-for-lead-nurturing?u=76281980&t=58)** But the idea of lead nurturing is what is your plan to move people through all of those stages of what I just actually mentioned?q How do you continue to stay in front of them so again that they can just start to consider you?
 >
@@ -482,13 +477,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Lead Generation]] (2), [[Automation]] (2), [[Microsoft Word|Word]] (1), power (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
 
-#### AI in predictive analysis for lead scoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-in-predictive-analysis-for-lead-scoring?u=76281980)
+#### [AI in predictive analysis for lead scoring](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/ai-in-predictive-analysis-for-lead-scoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,7 +580,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (5), next (3), game (1), business (1)
 > **Analogies:** imagine (3), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** crm (1)
@@ -599,8 +592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cultivate a growth mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980)
+#### [Cultivate a growth mindset](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=38)** And I encourage you to continue to follow experts in the space.
 >
-> **[0:43](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=43)** The first one is a gentleman named Ruben Hassid on LinkedIn.
+> **[0:43](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=43)** The first one is a gentleman named Ruben Hassid on [[LinkedIn]].
 >
 > **[0:47](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=47)** When you talk about just super actionable, current, up-to-date tips that even the most novice of users can learn from, I strongly recommend you go and follow him.
 >
@@ -644,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=115)** Remember, the best thing that you can do right now is start.
 >
-> **[1:58](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=118)** I encourage you, go open up ChatGPT, go to Bard, go to DALL-E, open up one of these platforms.
+> **[1:58](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=118)** I encourage you, go open up [[ChatGPT]], go to Bard, go to [[DALL-E]], open up one of these platforms.
 >
 > **[2:05](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980&t=125)** Just start to see what we mean by prompting.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[LinkedIn]] (2), next (1), [[ChatGPT]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[ChatGPT]] (1), [[DALL-E]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** dall (1)

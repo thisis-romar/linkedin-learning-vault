@@ -145,8 +145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make your data make sense
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980)
+#### [Make your data make sense](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,7 +155,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980&t=22)** This is an introductory course, so you don't need to have experience with R or computer programming.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980&t=28)** It's helpful but not necessary to have some familiarity with the basic concepts of statistical analysis.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980&t=28)** It's helpful but not necessary to have some familiarity with the basic concepts of [[Statistical Analysis]].
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980&t=34)** But either way, I'll explain each step thoroughly as we go.
 >
@@ -166,13 +165,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), open-source (1), [[Statistical Analysis]] (1), power (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +196,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** readme (1)
@@ -209,8 +206,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### R in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980)
+#### [R in context](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,7 +214,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=5)** And the general rule with tools is that you want to use the right tool for the job.
 >
-> **[0:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=11)** That's true working in data science as well.
+> **[0:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=11)** That's true working in [[Data Science]] as well.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=13)** You have a range of tools available for working with data, one of which is R.
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=30)** I like to think of these as the universal data containers because they're everywhere and everybody uses them.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=38)** Now, obviously, the common choices for spreadsheets include Microsoft Excel and Google Sheets, although there are many other possible choices.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=38)** Now, obviously, the common choices for spreadsheets include [[Microsoft Excel]] and [[Google]] Sheets, although there are many other possible choices.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=46)** The reason spreadsheets are great tools is because they let you organize your data however you want.
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=69)** But when it's time to move beyond summaries and basic graphs and start making those statistical models, then you'll need to get a more sophisticated tool out of your toolbox, like a statistical application.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=83)** Some of the most common statistical applications are SPSS and SaaS, and my personal favorite, Jamovi, the open source application.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=83)** Some of the most common statistical applications are SPSS and [[SaaS]], and my personal favorite, Jamovi, the open source application.
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=92)** All of these give user-friendly point and click interfaces for data exploration and modeling.
 >
@@ -250,11 +246,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=120)** You'll need to take the final step to a data-oriented programming language, which gives you the ultimate in control and power in analyzing your data.
 >
-> **[2:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=130)** Some of the most common and interesting choices for data-oriented programming are Python, a powerful general purpose programming language that's been well adapted for working with data, Julia is an intriguing newcomer in scientific computing, and R is a language that was specifically developed for working with data.
+> **[2:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=130)** Some of the most common and interesting choices for data-oriented programming are [[Python (Programming Language)|Python]], a powerful general purpose programming language that's been well adapted for working with data, Julia is an intriguing newcomer in scientific computing, and R is a language that was specifically developed for working with data.
 >
 > **[2:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=152)** And of course, it's the subject of this course.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=155)** Now, I want to give you a little bit of information about the relative popularity of some of these languages by using the KDnuggets poll of data mining professionals from 2019.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=155)** Now, I want to give you a little bit of information about the relative popularity of some of these languages by using the KDnuggets poll of [[Data Mining]] professionals from 2019.
 >
 > **[2:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=166)** This is in terms of how often they use tools when working with data.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=190)** But R's right here, about 50% report using R on a daily basis.
 >
-> **[3:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=195)** I do want to point out that next after that is Excel.
+> **[3:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=195)** I do want to point out that next after that is [[Microsoft Excel|Excel]].
 >
 > **[3:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=199)** Again, the spreadsheet is a universal data tool, and even with professional data mining and data science analysts, Excel's an important tool.
 >
@@ -292,9 +288,9 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=291)** Python is especially strong in machine learning and database app development.
 >
-> **[4:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=297)** Machine learning, artificial intelligence have become enormously important topics in the data world in the last few years.
+> **[4:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=297)** Machine learning, [[Artificial Intelligence (AI)|artificial intelligence]] have become enormously important topics in the data world in the last few years.
 >
-> **[5:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=305)** Artificial intelligence didn't even exist as a major subfield say five years ago within the data science community, but it has exploded with the development of neural networks and the availability of large, complex data sets.
+> **[5:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=305)** Artificial intelligence didn't even exist as a major subfield say five years ago within the data science community, but it has exploded with the development of [[Neural Networks]] and the availability of large, complex data sets.
 >
 > **[5:18](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=318)** On the other hand, R is especially strong in data analysis that's different from machine learning and also in scientific research.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=360)** The obvious answer is you're going to use both and many other platforms at the same time.
 >
-> **[6:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=366)** That connects us to my final point, any professional data scientists, if you're going to work in the field, you're going to be expected to be able to work with many different tools, including R and Python and Java, and C++ and SQL.
+> **[6:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=366)** That connects us to my final point, any professional data scientists, if you're going to work in the field, you're going to be expected to be able to work with many different tools, including R and Python and [[Java]], and C++ and [[SQL]].
 >
 > **[6:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980&t=382)** There are so many.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Python (Programming Language)|Python]] (10), application (5), [[Programming]] (4), business (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Data Science]] (7), [[Data Mining]] (2), [[Microsoft Excel|Excel]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **CLI Commands:** python (10), make (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** spss (2), sql (1)
@@ -333,8 +329,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Best Practices:** general rule (1)
 
-#### Data science with R: A case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980)
+#### [Data science with R: A case study](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=138)** So I'm going to do a bar chart using ggplot 2.
 >
-> **[2:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=142)** And when we zoom in on that, we see that we have a fair number of people who say they're "very happy," a larger number who say they're "pretty happy," a smaller number who say they're "not too happy," and a fair number who did not answer the question.
+> **[2:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=142)** And when we [[Zoom]] in on that, we see that we have a fair number of people who say they're "very happy," a larger number who say they're "pretty happy," a smaller number who say they're "not too happy," and a fair number who did not answer the question.
 >
 > **[2:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=157)** Now, I don't want the people who didn't answer the question in the dataset because that's my main outcome and I can't model them, so I'm going to exclude those cases and then we'll get frequencies for happy.
 >
@@ -526,7 +521,7 @@ created: 2026-05-02
 >
 > **[8:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=524)** There's the year of the survey, 'cause this was administered over many different years.
 >
-> **[8:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=529)** This is a histogram, and we see going from about 1970 up to the 2000s, and we can get descriptive statistics for those.
+> **[8:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=529)** This is a histogram, and we see going from about 1970 up to the 2000s, and we can get descriptive [[Statistics]] for those.
 >
 > **[8:58](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study?u=76281980&t=538)** So for instance, we see that the meeting was 1988, the earliest was 1972.
 >
@@ -594,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Zoom]] (5), [[Statistics]] (2), product (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Statistics]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
@@ -606,8 +601,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980)
+#### [Installing R](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -633,13 +627,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=62)** Quick and easy.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=64)** If you have a Windows computer, click on this link right here.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=64)** If you have a [[Windows]] computer, click on this link right here.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=68)** And then the important thing here is this first line says this is what you want to install R for the first time.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=76)** So click on that and get started with base again, like installing any other application on Windows.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=81)** The final choice is for Linux computers, and depending on which distribution of Linux you have, you'll want to pick one or the other.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=81)** The final choice is for [[Linux]] computers, and depending on which distribution of Linux you have, you'll want to pick one or the other.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980&t=89)** But I assume if you're running a Linux, then you know how to install these and you don't need me to walk you through it.
 >
@@ -647,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), application (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Prerequisites:** install (2), getting started (1)
 > **Code Identifiers:** macos (1)
@@ -656,8 +650,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environments for R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980)
+#### [Environments for R](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=50)** One is, depending on your operating system, it uses different keyboard commands, and it's different from the other environments that I use.
 >
-> **[0:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=57)** Second, it has different windows that kind of pop up and overlap each other, and it's just a little too much stuff.
+> **[0:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=57)** Second, it has different [[Windows]] that kind of pop up and overlap each other, and it's just a little too much stuff.
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=66)** And so most people don't use R in the native app.
 >
@@ -683,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=78)** If we go to the browser, the first thing you can do, it can go to [Posit.Cloud](https://Posit.Cloud).
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=82)** Now, Posit is the name of a company, formerly known as RStudio, that makes one of the most common methods for interacting with R.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=82)** Now, Posit is the name of a company, formerly known as [[RStudio]], that makes one of the most common methods for interacting with R.
 >
 > **[1:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=89)** And [Posit.Cloud](https://Posit.Cloud) is a completely online version of their interactive development environment.
 >
@@ -699,9 +692,9 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=115)** [Posit.Cloud](https://Posit.Cloud) is normally a paid service, and so there are some limitations for the free one, but it is a very convenient way if you're working, say for instance, on a Chromebook, for some simple analyses.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=126)** Another option is something like Google Colab, or really any Jupiter-based approach.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=126)** Another option is something like [[Google]] Colab, or really any Jupiter-based approach.
 >
-> **[2:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=133)** Google Colab is free, it's online, and while it normally defaults to Python, it's possible to change the runtime, we come down here to runtime type and change it to R.
+> **[2:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=133)** Google Colab is free, it's online, and while it normally defaults to [[Python (Programming Language)|Python]], it's possible to change the runtime, we come down here to runtime type and change it to R.
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/environments-for-r?u=76281980&t=144)** And that allows me to run the code.
 >
@@ -735,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (3), application (2), [[RStudio]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[RStudio]] (2), [[Google]] (2), [[Windows]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (5), known as (1)
 > **CLI Commands:** make (4), python (1)
 > **URLs:** [posit.cloud](https://posit.cloud) (3), [posit.co](https://posit.co) (1)
@@ -744,18 +737,17 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** spss (1)
 
-#### Installing RStudio
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-rstudio?u=76281980)
+#### [Installing RStudio](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-rstudio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-rstudio?u=76281980&t=0)** - [Instructor] You have a lot of potential choices 2 for how you work with R, 3 but the most common by far is the RStudio environment, 4 which is made by a company called [posit.co](https://posit.co), 5 which used to be [rstudio.com](https://rstudio.com). 6 The nice thing about RStudio is it's free, 7 and it's very powerful, it's very flexible, and easy to use. 8 So start by going to [posit.co](https://posit.co). 9 And then when you get there, 10 just click right here on the top right, 11 it says, DOWNLOAD RSTUDIO, 12 that's the name of the app that we're going to be using. 13 RStudio is an IDE 14 or an integrated development environment people program in. 15 And all you need to do is come down here 16 to DOWNLOAD RSTUDIO. 17 This will give you the desktop version, 18 you don't want the server version. 19 We'll click on that, and then it's going to come down here 20 and it's going to tell you, if you haven't done it already, 21
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-rstudio?u=76281980&t=0)** - [Instructor] You have a lot of potential choices 2 for how you work with R, 3 but the most common by far is the [[RStudio]] environment, 4 which is made by a company called [posit.co](https://posit.co), 5 which used to be [rstudio.com](https://rstudio.com). 6 The nice thing about RStudio is it's free, 7 and it's very powerful, it's very flexible, and easy to use. 8 So start by going to [posit.co](https://posit.co). 9 And then when you get there, 10 just click right here on the top right, 11 it says, DOWNLOAD RSTUDIO, 12 that's the name of the app that we're going to be using. 13 RStudio is an IDE 14 or an integrated development environment people program in. 15 And all you need to do is come down here 16 to DOWNLOAD RSTUDIO. 17 This will give you the desktop version, 18 you don't want the server version. 19 We'll click on that, and then it's going to come down here 20 and it's going to tell you, if you haven't done it already, 21
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-rstudio?u=76281980&t=52)** to install the R language first, 22 but we've already done that. 23 And then come over here, it's going to automatically detect 24 the operating system of your computer. 25 And it has Mac and it has Windows 26 and it has several versions of Linux. 27 And we click on that, 28 and it will offer to download the file, 29 and then you install it like any other application. 30 I've already got it installed, so I'll hit Cancel. 31 But the beautiful thing about RStudio 32 is it makes it so easy to work with the program, 33 it's very well organized. 34 And once you get that up and running, 35 I'll show you in the next video 36 how to actually navigate the RStudio interface, 37 and then we'll get running for the entire course 38 on the complete guide to R.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-rstudio?u=76281980&t=52)** to install the R language first, 22 but we've already done that. 23 And then come over here, it's going to automatically detect 24 the operating system of your computer. 25 And it has Mac and it has [[Windows]] 26 and it has several versions of [[Linux]]. 27 And we click on that, 28 and it will offer to download the file, 29 and then you install it like any other application. 30 I've already got it installed, so I'll hit Cancel. 31 But the beautiful thing about RStudio 32 is it makes it so easy to work with the program, 33 it's very well organized. 34 And once you get that up and running, 35 I'll show you in the next video 36 how to actually navigate the RStudio interface, 37 and then we'll get running for the entire course 38 on the complete guide to R.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (8), [[Windows]] (1), [[Linux]] (1), application (1), hit (1)
+> **Frameworks & Libraries:** [[RStudio]] (8), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** download (2), rstudio (2), ide (1)
 > **URLs:** [posit.co](https://posit.co) (2), [rstudio.com](https://rstudio.com) (1)
 > **UI Navigation:** click on (2)
@@ -764,12 +756,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is an  (1)
 
-#### Navigating the RStudio environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980)
+#### [Navigating the RStudio environment](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=0)** - [Instructor] Once you've got RStudio open, you'll see a collection of window panes.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=0)** - [Instructor] Once you've got [[RStudio]] open, you'll see a collection of window panes.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=6)** Now, the nice thing is it's actually a single window, so it keeps things organized, but it breaks it up into logical components.
 >
@@ -805,7 +796,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=88)** And you see it says I have df of 150 observations with five variables.
 >
-> **[1:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=93)** Now you also have a history here, and if you're connected to a server or maybe to GitHub, you'll have connections here.
+> **[1:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=93)** Now you also have a history here, and if you're connected to a server or maybe to [[GitHub]], you'll have connections here.
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=101)** And then down below that, in this last pane, I have files.
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=182)** If we come up here to say keyboard shortcuts, this is the entire list of things you can do with the keyboard.
 >
-> **[3:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=190)** One of them that's really nice is the ability to move from one pane to another and zoom in.
+> **[3:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=190)** One of them that's really nice is the ability to move from one pane to another and [[Zoom]] in.
 >
 > **[3:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/navigating-the-rstudio-environment?u=76281980&t=196)** And there are default commands, but you also can modify your keyboard shortcuts.
 >
@@ -907,7 +898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Zoom]] (7), [[RStudio]] (4), next (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[RStudio]] (4), [[GitHub]] (1)
 > **Analogies:** for instance (3), picture (2), similar to (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** terminal (1), bash (1), github (1)
@@ -916,8 +907,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), setup (1)
 > **Exercise Files:** exercise files (1)
 
-#### Entering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980)
+#### [Entering data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,11 +957,11 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=145)** Now, you can do the arrow the other way, you can put the value, then the variable it's going to go into, we're going to do B, but that is considered bad form.
 >
-> **[2:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=155)** By the way, for those of you who used other programming languages like Java or C or whatnot, you'll notice I'm not declaring the variable type here.
+> **[2:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=155)** By the way, for those of you who used other programming languages like [[Java]] or C or whatnot, you'll notice I'm not declaring the variable type here.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=163)** I'm simply giving it a name and I'm putting a value in it.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=166)** This makes it a lot more like Python.
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=166)** This makes it a lot more like [[Python (Programming Language)|Python]].
 >
 > **[2:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/entering-data?u=76281980&t=168)** And then you can also do multiple assignment.
 >
@@ -1053,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (2), [[Programming]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** it's like (1), think of it as (1)
 > **CLI Commands:** python (1)
@@ -1061,8 +1051,7 @@ created: 2026-05-02
 > **Versions:** 4.60517 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data types and structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980)
+#### [Data types and structures](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1121,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=154)** These are the true/false ones.
 >
-> **[2:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=156)** Here I'm going to save into l1 for logical one, the word TRUE.
+> **[2:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=156)** Here I'm going to save into l1 for logical one, the [[Microsoft Word|word]] TRUE.
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=160)** Now please notice in all caps it needs to be in all caps and it does not have quotes around it because it's not a character, it's a logical variable.
 >
@@ -1152,7 +1141,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=194)** You'll notice when I displayed it, it actually spelled it out all the way because I can enter it that way, but it understands that I'm referring to the entire phrase false.
 >
-> **[3:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=203)** Now there are data structures, so obviously just a single number, single data point is not going to be too helpful all on its own when you're doing your analysis.
+> **[3:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=203)** Now there are [[Data Structures]], so obviously just a single number, single data point is not going to be too helpful all on its own when you're doing your analysis.
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=213)** And one of the most common in R is a vector, and that's any collection of numbers.
 >
@@ -1278,7 +1267,7 @@ created: 2026-05-02
 >
 > **[8:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=496)** And the results that you get from analysis are list format.
 >
-> **[8:20](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=500)** If you bring in JSON or XML data, that's going to be a list.
+> **[8:20](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=500)** If you bring in [[JSON]] or XML data, that's going to be a list.
 >
 > **[8:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=505)** Lists are extremely flexible, but that also makes 'em kind of hard to work with.
 >
@@ -1304,7 +1293,7 @@ created: 2026-05-02
 >
 > **[9:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=559)** We'll make that list2 and we're going to get the display of that one.
 >
-> **[9:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=564)** And this time I'm going to have to zoom in on what we've got here.
+> **[9:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=564)** And this time I'm going to have to [[Zoom]] in on what we've got here.
 >
 > **[9:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-types-and-structures?u=76281980&t=568)** You've got the same three numbers, the same four characters, the same five logical values.
 >
@@ -1366,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), next (3), [[Microsoft Word|Word]] (2), [[JSON]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Data Structures]] (1), [[JSON]] (1), [[Zoom]] (1)
 > **Definitions:** is a  (5), is an  (2), short for (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** true (3), false (1), json (1), xml (1)
@@ -1375,8 +1364,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Analogies:** for instance (1)
 
-#### Comments and headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comments-and-headers?u=76281980)
+#### [Comments and headers](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comments-and-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1382,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comments-and-headers?u=76281980&t=41)** And that tells our don't run what comes after this.
 >
-> **[0:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comments-and-headers?u=76281980&t=45)** So at the top of each script, I've got this little bit of metadata that gives the title, the file, and the project, and I've got that pound sign in front each of them to say don't run this.
+> **[0:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comments-and-headers?u=76281980&t=45)** So at the top of each script, I've got this little bit of [[Metadata]] that gives the title, the file, and the project, and I've got that pound sign in front each of them to say don't run this.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comments-and-headers?u=76281980&t=57)** Then I can use that to both describe what's happening.
 >
@@ -1482,15 +1470,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packages for R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980)
+#### [Packages for R](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1509,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=59)** You can do this using default R commands, but I'm going to load a few packages called pacman.
 >
-> **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=65)** I'm actually going to use it to load itself and then party for decision trees and then psych for statistical procedures.
+> **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=65)** I'm actually going to use it to load itself and then party for [[Decision Trees]] and then psych for statistical procedures.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=71)** And then rio, which is for R input/output, for importing and exporting data.
 >
@@ -1592,11 +1579,11 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=254)** Each package that's in CRAN has a reference manual, so you can click on that and it will open up a PDF file that has the instructions.
 >
-> **[4:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=263)** This one is actually 149 pages because the CAR package does a lot, but you can Google around, you can see what sorts of packages people are using for things that you do, and you can download and install them for free to give your installation of R superpowers to get the meaning out of the data and get the insight that you need.
+> **[4:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/packages-for-r?u=76281980&t=263)** This one is actually 149 pages because the CAR package does a lot, but you can [[Google]] around, you can see what sorts of packages people are using for things that you do, and you can download and install them for free to give your installation of R superpowers to get the meaning out of the data and get the insight that you need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Search]] (1), [[Decision Trees]] (1), hit (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Google]] (1)
 > **UI Navigation:** click on (4), scroll down (2), go to (1)
 > **Env Vars:** cran (3), car (2), pdf (1)
 > **Definitions:** stands for (3), is a  (1)
@@ -1605,8 +1592,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Cross-References:** go back to (1)
 
-#### The tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980)
+#### [The tidyverse](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1632,13 +1618,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=86)** It explains a little more what's going on.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=88)** These are packages for data science to make your work easier, cleaner, more efficient, and more reliable.
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=88)** These are packages for [[Data Science]] to make your work easier, cleaner, more efficient, and more reliable.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=97)** Again, what's nice about 'em is you only have to install one package, the Tidyverse, to make it all happen.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=103)** But let's take a look at the packages that are actually in the Tidyverse.
 >
-> **[1:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=106)** If you were to click on here, it includes ggplot2, which is for graphics, and we're going to have an entire set of videos on that, dplyr for manipulating data, tidyr, which is a way of helping clean up the data, readr, for bringing in various data sets, purrr, which is for functional programming, tibble, which is a variation on data frames and actually makes things a little easier to work with.
+> **[1:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=106)** If you were to click on here, it includes ggplot2, which is for graphics, and we're going to have an entire set of videos on that, dplyr for manipulating data, tidyr, which is a way of helping clean up the data, readr, for bringing in various data sets, purrr, which is for [[Functional Programming]], tibble, which is a variation on data frames and actually makes things a little easier to work with.
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/the-tidyverse?u=76281980&t=135)** And we'll be using tibble frequently in this course, stringr for strings and forcats for working with categorical data.
 >
@@ -1652,7 +1638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Functional Programming]] (1)
 > **Definitions:** is a  (3), is called (1), refers to (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -1660,8 +1646,7 @@ created: 2026-05-02
 > **URLs:** [tidyverse.org](https://tidyverse.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Piping commands with %>%
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/4584221?u=76281980)
+#### [Piping commands with %>%](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/4584221?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1785,7 +1770,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), [[Programming]] (1), feature (1)
 > **Analogies:** for instance (2), for example (1), think of it as (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
@@ -1799,8 +1783,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### R's built-in datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-s-built-in-datasets?u=76281980)
+#### [R's built-in datasets](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-s-built-in-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1890,7 +1873,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (1)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** click on (2), open the (1)
 > **CLI Commands:** make (1), find (1)
@@ -1898,12 +1880,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring sample datasets with pacman
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980)
+#### [Exploring sample datasets with pacman](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=0)** - [Instructor] Data is what makes data science possible.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=0)** - [Instructor] Data is what makes [[Data Science]] possible.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=3)** And having data sets to work with and really to hone your skills is a great thing in R and anywhere.
 >
@@ -1973,7 +1954,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=218)** So cardata, where CAR stands for Companion to Applied Regression, is a great source.
 >
-> **[3:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=224)** It's got 62 different data sets, including the national statistics from the UN.
+> **[3:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=224)** It's got 62 different data sets, including the national [[Statistics]] from the UN.
 >
 > **[3:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=230)** I use that one frequently.
 >
@@ -1993,7 +1974,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=273)** And then we have one of my favorites, janeaustenr.
 >
-> **[4:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=277)** This is the complete text of all of Jane Austin's novels from the Gutenberg project, and it's a fabulous way of developing Corpus, doing a word analysis on each of the volumes, and looking how they compare with each other.
+> **[4:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=277)** This is the complete text of all of Jane Austin's novels from the Gutenberg project, and it's a fabulous way of developing Corpus, doing a [[Microsoft Word|word]] analysis on each of the volumes, and looking how they compare with each other.
 >
 > **[4:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=294)** The Lahman is baseball statistics, and it's an enormous data set.
 >
@@ -2017,7 +1998,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=336)** Psych is one of my favorite packages because I work in psychology and it's got some great information.
 >
-> **[5:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=342)** QCC, just kind of run through the rest of these.
+> **[5:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=342)** QCC, just kind of run through the [[Representational State Transfer (REST)|rest]] of these.
 >
 > **[5:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/exploring-sample-datasets-with-pacman?u=76281980&t=345)** You'll see there are a lot of data sets available.
 >
@@ -2035,7 +2016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Statistics]] (4), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Data Science]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** p_data (5), p_load (2), up_data (1)
 > **Definitions:** is a  (6), stands for (2)
 > **Env Vars:** mass (2), car (1), iris (1), nlme (1), qcc (1)
@@ -2044,8 +2025,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **UI Navigation:** go to (1)
 
-#### Importing data from a spreadsheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980)
+#### [Importing data from a spreadsheet](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2065,7 +2045,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=73)** So for instance, code is where we have all of the various R scripts and if we back up, you can look in data, and I have several data sets there that I'll be using as examples in this course.
 >
-> **[1:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=85)** The one in particular I want to mention right now is statedata, which I have in both CSV or commas separated values format, that's a generic spreadsheet format that basically anything can read, and that same dataset in .xlsx or Microsoft's proprietary Excel format.
+> **[1:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=85)** The one in particular I want to mention right now is statedata, which I have in both CSV or commas separated values format, that's a generic spreadsheet format that basically anything can read, and that same dataset in .xlsx or [[Microsoft]]'s proprietary [[Microsoft Excel|Excel]] format.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=105)** I'm going to show you how to import both of those with the same results.
 >
@@ -2075,13 +2055,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=139)** You'll notice I've got this command wrapped in parentheses, and what that means is it both saves the data to the environment over here and it displays a preview of it down here in the bottom.
 >
-> **[2:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=152)** By the way, in case you're wondering, this thing over here, GCtorture that opened up when you loaded the packages is from the tidyverse, it stands for garbage collection and it's used for memory management in certain situations.
+> **[2:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=152)** By the way, in case you're wondering, this thing over here, GCtorture that opened up when you loaded the packages is from the tidyverse, it stands for garbage collection and it's used for [[Memory Management]] in certain situations.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=165)** But let's come over here and we're going to import this dataset.
 >
 > **[2:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=168)** Now the important thing is that the data, the name of it is in parentheses and in quotations, and if you're using a project, that's great, you can give a relative reference, but you do need to say whether it's in a folder and this one is in the data folder.
 >
-> **[3:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=185)** So I'm going to run that one and you can see that it loaded over here, and then I'll zoom up on this one, and what we have is a number of variables about different states, and we have the state name, the state code, the region, some psychology variables, and then some information from Google Search Trends through Google Correlate.
+> **[3:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=185)** So I'm going to run that one and you can see that it loaded over here, and then I'll [[Zoom]] up on this one, and what we have is a number of variables about different states, and we have the state name, the state code, the region, some psychology variables, and then some information from [[Google]] Search Trends through Google Correlate.
 >
 > **[3:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=209)** Now, this is wonderful because it's basically ready to go, but let's look at some of the other options we have.
 >
@@ -2095,7 +2075,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=248)** I personally use Rio, but a lot of people in the tidyverse like to use the read_csv function.
 >
-> **[4:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=255)** Now, I want to finish with one more thing, when you import data, you can actually do a little bit of data wrangling or preparation right then and there like I did just a second ago when I imported it but then said save it as a tibble.
+> **[4:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=255)** Now, I want to finish with one more thing, when you import data, you can actually do a little bit of [[Data Wrangling]] or preparation right then and there like I did just a second ago when I imported it but then said save it as a tibble.
 >
 > **[4:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-data-from-a-spreadsheet?u=76281980&t=269)** Here, I'm going to take the import function from rio, I'll save the same Excel spreadsheet, statedata.xlsx, and then I'm going to save it as a tibble, and then I'm going to select a few variables, the state code, the psych regions, that's one variable, and then the Instagram through modern dance, which are Google Correlate variables.
 >
@@ -2107,7 +2087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Google]] (3), [[Microsoft Excel|Excel]] (2), [[Zoom]] (2), business (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Excel|Excel]] (2), [[Zoom]] (2), [[Microsoft]] (1), [[Memory Management]] (1)
 > **Definitions:** is a  (2), stands for (2), is an  (1)
 > **Code Identifiers:** read_csv (2)
 > **Env Vars:** csv (2)
@@ -2116,8 +2096,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 
-#### Importing XML data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980)
+#### [Importing XML data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2128,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=116)** I'm saving it into an object called DF for data frame, even though at this moment it's not a data frame, but it's going to be.
 >
-> **[2:03](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=123)** So I'm going to run that command and then you'll see that I get this long printout down here, let's zoom in on that.
+> **[2:03](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=123)** So I'm going to run that command and then you'll see that I get this long printout down here, let's [[Zoom]] in on that.
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=132)** This is the structure represented as a flat file, but that's the data that we just pulled in.
 >
@@ -2197,13 +2176,13 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=279)** There is one small problem, and that is this is supposed to be Formula One races and the Indianapolis 500, while it's a wonderful race, is not a Formula One race, and so we're going to remove that one by selecting just the Grand Prix races.
 >
-> **[4:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=293)** I'm going to use filter, which is a way of selecting rows, and then str_detect, detect the string, and it says, look for something that has in the variable race the word Prix, because all of these Grand Prix have that word, and then we select that and we're going to save that and replace the df, that's our final data frame.
+> **[4:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=293)** I'm going to use filter, which is a way of selecting rows, and then str_detect, detect the string, and it says, look for something that has in the variable race the [[Microsoft Word|word]] Prix, because all of these Grand Prix have that word, and then we select that and we're going to save that and replace the df, that's our final data frame.
 >
 > **[5:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-xml-data?u=76281980&t=316)** And that's a way of taking the really complicated nested structure of XML and through a series of transformations, getting it into the final small rectangular data frame that we need for doing any further analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Zoom]] (4), web (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Microsoft Word|Word]] (2)
 > **Env Vars:** xml (8), url (3), xml2r (1), xml2 (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -2212,8 +2191,7 @@ created: 2026-05-02
 > **URLs:** [ergast.com](https://ergast.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Importing JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980)
+#### [Importing JSON data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2221,7 +2199,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=5)** Now, elsewhere I've showed XML, or extensible markup language.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=10)** Another format that's very common, that's a little bit older is JSON, which stands for Java Script Object Notation.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=10)** Another format that's very common, that's a little bit older is [[JSON]], which stands for [[Java]] Script Object Notation.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=17)** I want to show you how to extract the same data that I used in the XML video, except this time using JSON.
 >
@@ -2255,7 +2233,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=107)** It tends to be a little messy.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=108)** But let's run that first command and let's zoom in on that.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=108)** But let's run that first command and let's [[Zoom]] in on that.
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=113)** And here is our information.
 >
@@ -2321,7 +2299,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=278)** The Indianapolis 500, a wonderful race, is not a Formula 1 race.
 >
-> **[4:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=283)** And so we're going to remove that by filtering the cases, or observations or rows that we do want, and we're going to use this str_detect and it says in the variable, race, only include things if they have the word prix, P-R-I-X, in them, and then print those results, and then save that as our new data frame.
+> **[4:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=283)** And so we're going to remove that by filtering the cases, or observations or rows that we do want, and we're going to use this str_detect and it says in the variable, race, only include things if they have the [[Microsoft Word|word]] prix, P-R-I-X, in them, and then print those results, and then save that as our new data frame.
 >
 > **[5:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/importing-json-data?u=76281980&t=302)** And then here we end up with just the Grand Prix.
 >
@@ -2337,7 +2315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[JSON]] (7), [[Zoom]] (3), web (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Zoom]] (3), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (7), xml (4), url (2), api (1)
 > **UI Navigation:** select the (4), go to (1)
 > **Definitions:** is a  (2), stands for (1), short for (1)
@@ -2345,8 +2323,7 @@ created: 2026-05-02
 > **Code Identifiers:** names_repair (2), str_detect (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving data in native R formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/saving-data-in-native-r-formats?u=76281980)
+#### [Saving data in native R formats](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/saving-data-in-native-r-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2396,7 +2373,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/saving-data-in-native-r-formats?u=76281980&t=124)** I'm going to run this one and now we have a new one.
 >
-> **[2:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/saving-data-in-native-r-formats?u=76281980&t=127)** And I want you to see how much smaller it is than the original Excel file and the CSV file.
+> **[2:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/saving-data-in-native-r-formats?u=76281980&t=127)** And I want you to see how much smaller it is than the original [[Microsoft Excel|Excel]] file and the CSV file.
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/saving-data-in-native-r-formats?u=76281980&t=134)** It's a fraction of the size.
 >
@@ -2514,7 +2491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** rds (5), csv (2)
 > **Code Identifiers:** write_rds (2), read_rds (2), saverds (1)
 > **Definitions:** is a  (3), stands for (2)
@@ -2526,8 +2503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ggplot2
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/introduction-to-ggplot2?u=76281980)
+#### [Introduction to ggplot2](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/introduction-to-ggplot2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2605,7 +2581,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (2)
 > **Env Vars:** geom (2), aes (1), facet (1), pdf (1)
 > **Definitions:** stands for (2), is a  (1)
 > **Analogies:** for instance (2)
@@ -2613,9 +2588,9 @@ created: 2026-05-02
 > **URLs:** [tidyverse.org](https://tidyverse.org) (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
+> **Prerequisites:** install (1)
 
-#### Using colors in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-colors-in-r?u=76281980)
+#### [Using colors in R](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-colors-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2665,7 +2640,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-colors-in-r?u=76281980&t=115)** And it's available right here as an embedded spreadsheet, where you see the color samples and the numbers and so on and so forth scroll across.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-colors-in-r?u=76281980&t=125)** You can open this in your web browser in Google Sheets, you can download it as an Excel file or download it as a PDF, and that's just free and available for anyone.
+> **[2:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-colors-in-r?u=76281980&t=125)** You can open this in your web browser in [[Google]] Sheets, you can download it as an [[Microsoft Excel|Excel]] file or download it as a PDF, and that's just free and available for anyone.
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-colors-in-r?u=76281980&t=133)** But let's go back to R.
 >
@@ -2733,7 +2708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (2), [[Google]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), short for (1), stands for (1)
 > **Env Vars:** rgb (2), pdf (1)
@@ -2741,8 +2716,7 @@ created: 2026-05-02
 > **Versions:** 1.00 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using color palettes
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-color-palettes?u=76281980)
+#### [Using color palettes](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-color-palettes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2850,7 +2824,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-color-palettes?u=76281980&t=214)** I'm going to use display.brewer.all.
 >
-> **[3:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-color-palettes?u=76281980&t=217)** And when I do that, we get something that's really hard to see what it is on a small screen, but let's zoom in.
+> **[3:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-color-palettes?u=76281980&t=217)** And when I do that, we get something that's really hard to see what it is on a small screen, but let's [[Zoom]] in.
 >
 > **[3:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-color-palettes?u=76281980&t=226)** Well, these are the palettes and what we have are sequential, and diverging, and qualitative palettes.
 >
@@ -2950,7 +2924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** rgb (1), jama (1)
@@ -2959,8 +2933,7 @@ created: 2026-05-02
 > **Code Identifiers:** wes_palette (1)
 > **Cross-References:** go back to (1)
 
-#### Creating bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980)
+#### [Creating bar charts](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2982,7 +2955,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=43)** We'll get some info on that.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=46)** And it talks about the color of the hair and the color of the eyes of men and women enrolled in some statistics classes.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=46)** And it talks about the color of the hair and the color of the eyes of men and women enrolled in some [[Statistics]] classes.
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=53)** We can actually see the data because it's tabular format, so let's look at this.
 >
@@ -3214,7 +3187,7 @@ created: 2026-05-02
 >
 > **[8:59](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=539)** That means go all the way to the top.
 >
-> **[9:01](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=541)** And when we run that one, we can zoom in on that.
+> **[9:01](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=541)** And when we run that one, we can [[Zoom]] in on that.
 >
 > **[9:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-bar-charts?u=76281980&t=545)** And you see, quick and easy.
 >
@@ -3226,7 +3199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (2), generic (2), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Zoom]] (1)
 > **Code Identifiers:** geom_bar (3), position_dodge (2), coord_flip (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (2)
@@ -3235,8 +3208,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **Cross-References:** go back to (1)
 
-#### Creating histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980)
+#### [Creating histograms](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3248,7 +3220,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=14)** Let's start by loading up some packages.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=17)** And then what I'm going to do is I'm going to first show you, not a data chart, but a probability density function.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=17)** And then what I'm going to do is I'm going to first show you, not a data chart, but a [[Probability]] density function.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=26)** We're just going to make a bell curve, just the curve itself.
 >
@@ -3326,7 +3298,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=201)** That means the color of the actual bars do that by species.
 >
-> **[3:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=205)** The rest of this is the same.
+> **[3:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=205)** The [[Representational State Transfer (REST)|rest]] of this is the same.
 >
 > **[3:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-histograms?u=76281980&t=207)** And so now you know it kind of looks like Super Mario Graphics, but there we have a colored one.
 >
@@ -3378,7 +3350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Probability]] (3), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -3386,8 +3358,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating box plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980)
+#### [Creating box plots](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3399,7 +3370,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=37)** And if you want to see the whole dataset, it's not big, we can just type its name here.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=42)** Let me zoom in on this.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=42)** Let me [[Zoom]] in on this.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=44)** And we have 150 rows of data, three different species of iris and four different measurements.
 >
@@ -3411,7 +3382,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=65)** What you find here is that we have over here a species, which is a text variable, but internally it's coded as one, two, and three.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=74)** But from the rest of these, you can see that sepal length is generally the longest.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=74)** But from the [[Representational State Transfer (REST)|rest]] of these, you can see that sepal length is generally the longest.
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-box-plots?u=76281980&t=78)** Sepal width, there's not a lot of variability there.
 >
@@ -3507,14 +3478,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating scatterplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scatterplots?u=76281980)
+#### [Creating scatterplots](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scatterplots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3602,7 +3572,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scatterplots?u=76281980&t=186)** Not enough to change the interpretation of the data, but enough that you can separate the data points.
 >
-> **[3:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scatterplots?u=76281980&t=191)** So let's run that command and let's zoom in on that one for just a moment.
+> **[3:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scatterplots?u=76281980&t=191)** So let's run that command and let's [[Zoom]] in on that one for just a moment.
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scatterplots?u=76281980&t=195)** Again, there's a small amount of random variation thrown into the data, but it actually helps you see the overall pattern better.
 >
@@ -3670,14 +3640,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Zoom]] (3)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **Code Identifiers:** geom_point (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating multiple graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-multiple-graphs?u=76281980)
+#### [Creating multiple graphs](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-multiple-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3737,7 +3706,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-multiple-graphs?u=76281980&t=148)** And then we're going to turn off the legend.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-multiple-graphs?u=76281980&t=150)** So let's run that one and we zoom in on that.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-multiple-graphs?u=76281980&t=150)** So let's run that one and we [[Zoom]] in on that.
 >
 > **[2:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-multiple-graphs?u=76281980&t=153)** And again, it keeps the same dimensions, but it's really easy to see the differences.
 >
@@ -3775,12 +3744,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), game (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating cluster charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980)
+#### [Creating cluster charts](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3898,7 +3866,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=290)** But I just want you to be aware, we're going to be using the approach called hclust.
 >
-> **[4:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=295)** That's from the built-in statistics functions.
+> **[4:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=295)** That's from the built-in [[Statistics]] functions.
 >
 > **[4:58](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=298)** And it is agglomerative.
 >
@@ -3926,7 +3894,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=357)** And now we have our chart.
 >
-> **[5:59](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=359)** Now let me zoom in on that for a moment.
+> **[5:59](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=359)** Now let me [[Zoom]] in on that for a moment.
 >
 > **[6:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-cluster-charts?u=76281980&t=362)** And what you see is we have these different groups.
 >
@@ -4000,7 +3968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), generic (2), [[Zoom]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (3), stands for (2), means that (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** rx4 (2)
@@ -4014,8 +3982,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating tidy data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980)
+#### [Creating tidy data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4065,7 +4032,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980&t=160)** Some really common ones are time series data, which is its whole own thing.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980&t=164)** And then XML or JSON data, that stands for extensible markup language or JavaScript object notation, that's used for hierarchically structured and labeled data, the kind that you frequently get from the web.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980&t=164)** And then XML or [[JSON]] data, that stands for extensible markup language or [[JavaScript]] object notation, that's used for hierarchically structured and labeled data, the kind that you frequently get from the web.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980&t=177)** Or even just compound values, a cell that has two variables in it, so, let me give you an example of each, and how you can use R, to take that untidy data and clean it up and get it in a format that's going to be a lot easier to work with for your analyses.
 >
@@ -4201,7 +4168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (48), [[JSON]] (3), [[JavaScript]] (1), web (1), generic (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (1)
 > **Env Vars:** xml (11), json (3)
 > **Definitions:** is a  (11), stands for (1)
 > **CLI Commands:** make (5)
@@ -4210,8 +4177,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Best Practices:** general rule (1)
 
-#### Using tibbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-tibbles?u=76281980)
+#### [Using tibbles](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-tibbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4275,7 +4241,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-tibbles?u=76281980&t=132)** So I'm going to run that command.
 >
-> **[2:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-tibbles?u=76281980&t=134)** And now let's zoom in on the console here for a minute.
+> **[2:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-tibbles?u=76281980&t=134)** And now let's [[Zoom]] in on the console here for a minute.
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-tibbles?u=76281980&t=137)** This is the data frame and this is the tibble.
 >
@@ -4353,15 +4319,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Zoom]] (3)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (2), short for (1), is a  (1)
 > **Code Identifiers:** as_tibble (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using data.table
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980)
+#### [Using data.table](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4385,7 +4350,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=54)** Figshare is a website for the sharing of open scientific data.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=60)** It's an amazing resource for the research community and for people working in statistics, data analysis, machine learning, it's a great resource as well.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=60)** It's an amazing resource for the research community and for people working in [[Statistics]], data analysis, machine learning, it's a great resource as well.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=68)** We're going to be using a data set that has weathered data in CSV format, and it's 43 megabytes, so it's relatively large.
 >
@@ -4447,7 +4412,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=204)** And what I'm going to do here is I'm going to say go to my data frame and then look for site id, any cases that contain this exact name, Rosemount, and then show me all of the columns for that.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=216)** So let's run that command and I'll zoom in for a second.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=216)** So let's run that command and I'll [[Zoom]] in for a second.
 >
 > **[3:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/using-data-table?u=76281980&t=221)** And then here we have the site ID Rosemount, and we have both precipitation and we have minimum temperature.
 >
@@ -4483,14 +4448,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Zoom]] (2), parallel (1), web (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Statistics]] (1)
 > **Env Vars:** url (3), httr (2), csv (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Converting data from wide to tall and from tall to wide
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980)
+#### [Converting data from wide to tall and from tall to wide](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4498,7 +4462,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=6)** And the trick is, depending on your questions and the specific analyses or graphics that you're making, what you need might be different.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=16)** Consequently, the ability to reshape your data is a critical part of working in data analysis and data science.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=16)** Consequently, the ability to reshape your data is a critical part of working in data analysis and [[Data Science]].
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=24)** The nice thing is this is really easy to do with some of the tidyverse functions, specifically the reshaping functions that are part of the dplyr package that's included in the tidyverse.
 >
@@ -4520,7 +4484,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=68)** I'm going to take housing and save it as a tibble into df, which stands for data frame as just a generic term, and let's save that.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=77)** So now when we zoom in on that, then we've got a few different variables here.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=77)** So now when we [[Zoom]] in on that, then we've got a few different variables here.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-wide-to-tall-and-from-tall-to-wide?u=76281980&t=81)** They're rating on high, low, medium, the kind of building they're in, and the number of people in each combination of scores.
 >
@@ -4582,15 +4546,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Zoom]] (2), generic (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Data Science]] (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Code Identifiers:** df_wide (1)
 > **Env Vars:** mass (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting data from tables to rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-tables-to-rows?u=76281980)
+#### [Converting data from tables to rows](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-tables-to-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4626,7 +4589,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-tables-to-rows?u=76281980&t=90)** If you actually want to see all of the data, we just call UCB admissions.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-tables-to-rows?u=76281980&t=94)** And let's zoom in on that.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-tables-to-rows?u=76281980&t=94)** And let's [[Zoom]] in on that.
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/converting-data-from-tables-to-rows?u=76281980&t=96)** And we have six tables.
 >
@@ -4708,7 +4671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Definitions:** is a  (5), stands for (1)
 > **Env Vars:** ucb (5)
 > **CLI Commands:** make (2), find (1)
@@ -4716,8 +4679,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with dates and times
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980)
+#### [Working with dates and times](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4793,7 +4755,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=208)** And that's going to give us a plot here off to the right.
 >
-> **[3:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=210)** There's a fair amount of processing that, when you're doing smoothing, it takes a little more time than others, so let's zoom in on that very quickly.
+> **[3:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=210)** There's a fair amount of processing that, when you're doing smoothing, it takes a little more time than others, so let's [[Zoom]] in on that very quickly.
 >
 > **[3:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=220)** So we have our four stock indices.
 >
@@ -4867,7 +4829,7 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=354)** Because of the lubridate, we were able to break it down and get our change over time and do a little bit of transformation that is based on this temporal data.
 >
-> **[6:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=364)** Again, it's data wrangling.
+> **[6:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=364)** Again, it's [[Data Wrangling]].
 >
 > **[6:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-dates-and-times?u=76281980&t=366)** Do what you need to get the data into the shape to answer the questions that are important to you.
 >
@@ -4875,7 +4837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Data Wrangling]] (1)
 > **Env Vars:** roi (3), gam (1), smi (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -4883,8 +4845,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with list data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980)
+#### [Working with list data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4892,31 +4853,30 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=49)** I'm going to save it as dat, which is short for data. 20 I use df for data frame, 21 but lists are definitely not data frame. 22 So I'm ignoring that one for now. 23 The first one, I'm saving the numbers one through five. 24 That's what the colon means, the 1, 2, 3, 4, 5. 25 Then I am saving some character variables 26 of five programming languages. 27 And then I'm going to save five logical 28 or Boolean true false values. 29 And I'll save those as a list and put it into dat 30 and then we'll print the results. 31 So I do that and you can see here, 32 this is how you indicate the data structure on the list 33 with the square brackets. 34 But the first item has the double brackets for one. 35 And then here's the actual items in it. 36 And then we put these out. 37
 >
-> **[1:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=96)** So there's our data set, 38 but let's start putting it into a format 39 that's a little more usable for us. 40 We'll start by saving it as a tibble. 41 So I'm going to take that, save it as a tibble, 42 but I do have to do this one funny little thing. 43 I have to do name repair. 44 This is something if you don't do it, 45 you're going to get an error message, 46 but it's a way of creating column names. 47 'Cause we're going from a structure 48 that doesn't have columns per se. 49 And we'll save that into df for data frame 50 and take a look at the results. 51 And when I do that, let's zoom in for a second. 52 We've gone from this peculiar data structure 53 down to this one that looks like the rows and columns 54 of a regular tidy data set. 55 Now there is one small issue here. 56 We did the name repair, 57 so it kind of put the column names on, 58
+> **[1:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=96)** So there's our data set, 38 but let's start putting it into a format 39 that's a little more usable for us. 40 We'll start by saving it as a tibble. 41 So I'm going to take that, save it as a tibble, 42 but I do have to do this one funny little thing. 43 I have to do name repair. 44 This is something if you don't do it, 45 you're going to get an error message, 46 but it's a way of creating column names. 47 'Cause we're going from a structure 48 that doesn't have columns per se. 49 And we'll save that into df for data frame 50 and take a look at the results. 51 And when I do that, let's [[Zoom]] in for a second. 52 We've gone from this peculiar data structure 53 down to this one that looks like the rows and columns 54 of a regular tidy data set. 55 Now there is one small issue here. 56 We did the name repair, 57 so it kind of put the column names on, 58
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=147)** but it labeled them as dot, dot, dot, one and two and three, 59 which is not very helpful. 60 It's a stand in, it's better than nothing. 61 So we're going to rename the columns. 62 And to do that we're going to take df 63 and then use the rename function three times. 64 There are several different ways you could do this, 65 but we're going to say creative new name ID 66 based on the ...1 variable. 67 And then the second one will be language. 68 And the third one 69 will be whether a person considers themselves fluent 70 in that language. 71 And we'll take a look at those results. 72 So let's run that. 73 And now when we zoom in, 74 you can see that instead of the dot, dot, dot, 75 one, two, and three, we have labels 76 that make more sense for each of these. 77 I'm going to come back out. 78 Now, let's say that this data set 79
 >
 > **[3:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=196)** that I made up represents the languages 80 that one particular person, 81 maybe a job applicant is familiar with. 82 Let's start by trying to figure out 83 how many languages they know. 84 Obviously we can count them on our own, 85 but if you're doing this for say 10,000 people at once, 86 you wouldn't want to count them manually. 87 So I'm going to take the df, 88 I'm going to select the fluent variable 89 and make a table of the frequencies. 90 When we do that, we see that there were two falses 91 and three trues. 92 So there are three that they said 93 that they were fluent and that they could do well. 94 You can also sum because in R, 95 the true and false are stored internally as zero for false 96 and one for true. 97 We just have to use a normal R command sum 98 and then specify the data this way, 99 doesn't seem to work with the tidyverse. 100
 >
-> **[4:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=246)** So when we run that, we get three. 101 And if we actually want to print a list of the languages 102 that person says that they're fluent in, 103 we can choose our data frame. 104 We can run a filter that says fluent 105 is equal to with two equal signs, 106 is equal to true and true has to be spelled in all caps. 107 And then we say select language, 108 and then it means just give us that one variable language 109 and we'll print that out. 110 And there it is. 111 This particular person said that they were fluent 112 in R, Python, and SQL. 113 And so this is a great way of starting 114 with the very loose structure of a list, 115 what we had way up here, 116 and knocking it into rows and columns 117 and then defining it 118 using the tidyverse commands 119 in a way that organize it, makes it easy 120
+> **[4:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=246)** So when we run that, we get three. 101 And if we actually want to print a list of the languages 102 that person says that they're fluent in, 103 we can choose our data frame. 104 We can run a filter that says fluent 105 is equal to with two equal signs, 106 is equal to true and true has to be spelled in all caps. 107 And then we say select language, 108 and then it means just give us that one variable language 109 and we'll print that out. 110 And there it is. 111 This particular person said that they were fluent 112 in R, [[Python (Programming Language)|Python]], and [[SQL]]. 113 And so this is a great way of starting 114 with the very loose structure of a list, 115 what we had way up here, 116 and knocking it into rows and columns 117 and then defining it 118 using the tidyverse commands 119 in a way that organize it, makes it easy 120
 >
 > **[4:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-list-data?u=76281980&t=294)** to tell what's going on 121 and then we can start doing some useful summaries 122 and analyses based on that. 123 That's the power of going from a very flexible container, 124 that's the list, 125 to one that matches the goals of our analysis 126 and tries to make it simpler for us to get insight 127 out of our data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Zoom]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Python (Programming Language)|Python]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** means that (1), short for (1), is a  (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with XML data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980)
+#### [Working with XML data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=0)** - [Instructor] We've seen elsewhere how to import hierarchically structured data in XML or JSON format into R.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=0)** - [Instructor] We've seen elsewhere how to import hierarchically structured data in XML or [[JSON]] format into R.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=10)** I want to run through a slightly more extended example.
 >
@@ -5034,7 +4994,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=271)** We've got a lot of them that are hanging around 6% and others that are around 8%.
 >
-> **[4:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=278)** And then we can get statistics.
+> **[4:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=278)** And then we can get [[Statistics]].
 >
 > **[4:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-xml-data?u=76281980&t=280)** We can start with df, that's our data frame, and then select the salestax variable and just ask for a summary that's descriptive statistics.
 >
@@ -5048,7 +5008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[JSON]] (2), [[Statistics]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Statistics]] (2)
 > **Env Vars:** xml (6), url (3), json (2)
 > **Code Identifiers:** unnest_wider (3), read_xml (1), unnest_longer (1), row_id (1), str_squish (1)
 > **UI Navigation:** click on (1), select the (1)
@@ -5057,8 +5017,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for instance (1)
 
-#### Working with categorical variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980)
+#### [Working with categorical variables](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5076,7 +5035,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=35)** Then you can see it's from a 1988 paper on a double-blind clinical trial looking at a new treatment for rheumatoid arthritis.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=43)** Now, we're going to take this data, and we're going to save it as a tibble and print it to the console below, so let's do that, and when we zoom in on that, you can see we have ID numbers for patients, whether they got the new treatment or not, their sex, their age, and whether they improved or to what extent, and it's coded as None, Some, Marked, and so on, but let's explore the data a little bit.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=43)** Now, we're going to take this data, and we're going to save it as a tibble and print it to the console below, so let's do that, and when we [[Zoom]] in on that, you can see we have ID numbers for patients, whether they got the new treatment or not, their sex, their age, and whether they improved or to what extent, and it's coded as None, Some, Marked, and so on, but let's explore the data a little bit.
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=68)** Let's start with something really easy, like Age, that's a quantitative variable, and so I'm going to take the data frame, and then I'm going to do qplot.
 >
@@ -5136,18 +5095,17 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=354)** We run that.
 >
-> **[5:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=354)** It takes the same information, presents it in the same way, just switches it to proportions, which go from 0 to 1 under red like percentages, and so these are some of the basic ways of working with categorical data in terms of defining categories, in terms of putting them into factors and defining or reordering the factors and then analyzing some basic descriptive statistics with frequencies or with proportions, again, as a way of getting a better insight into what's in your data and what you can do next to find the things that are most useful for you.
+> **[5:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/working-with-categorical-variables?u=76281980&t=354)** It takes the same information, presents it in the same way, just switches it to proportions, which go from 0 to 1 under red like percentages, and so these are some of the basic ways of working with categorical data in terms of defining categories, in terms of putting them into factors and defining or reordering the factors and then analyzing some basic descriptive [[Statistics]] with frequencies or with proportions, again, as a way of getting a better insight into what's in your data and what you can do next to find the things that are most useful for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Zoom]] (3), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Statistics]] (1)
 > **Definitions:** is a  (4), stands for (1)
 > **Code Identifiers:** group_by (1), as_tibble (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering cases and subgroups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980)
+#### [Filtering cases and subgroups](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5155,13 +5113,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=17)** The ability to drill down in your data is one of the great things you can do to get extra insight and nuance in your analysis.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=24)** To do this, I'm going to load a few packages, including rio, which is for importing data because I'm going to be using an Excel file that I created called StateData.xlsx.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=24)** To do this, I'm going to load a few packages, including rio, which is for importing data because I'm going to be using an [[Microsoft Excel|Excel]] file that I created called StateData.xlsx.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=37)** In fact, if you go to the exercise files, you'll see it right here.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=39)** I have it in both Excel format and in CSV.
 >
-> **[0:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=43)** This is appearing simply because I have it open in Microsoft Excel right now.
+> **[0:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=43)** This is appearing simply because I have it open in [[Microsoft Excel]] right now.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=46)** In fact, let me just show that to you.
 >
@@ -5175,7 +5133,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=76)** That's extroversion through openness.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=79)** And then I have a bunch of results from Google correlate about the relative popularity of search terms on a state by state basis.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=79)** And then I have a bunch of results from [[Google]] correlate about the relative popularity of search terms on a state by state basis.
 >
 > **[1:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=87)** So this is the state data, and if we come back to R, I'm going to come down here and use the import command from Rio and save the data as a tibble.
 >
@@ -5191,7 +5149,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=114)** Now I have some commented code here that sometimes, it's helpful to define an outcome variable as simply Y.
 >
-> **[2:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=122)** That allows me to reuse a lot of predictive analytics code.
+> **[2:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=122)** That allows me to reuse a lot of [[Predictive Analytics]] code.
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=125)** I don't need that in this case, so I'm going to skip it.
 >
@@ -5199,7 +5157,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=130)** And then we'll look at the results in the console.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=132)** So I run that, and if we zoom in here, you can see the state code, the region, and then we have this other information, 38 more rows and seven more variables.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=132)** So I run that, and if we [[Zoom]] in here, you can see the state code, the region, and then we have this other information, 38 more rows and seven more variables.
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/filtering-cases-and-subgroups?u=76281980&t=142)** And so the data's in there and we've got something that we can work with for filtering cases, selecting individual observations or groups that we want to look at.
 >
@@ -5319,7 +5277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Zoom]] (6), [[Search]] (5), [[Google]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Google]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** psychregions (2)
 > **Definitions:** is an  (1), defined as (1)
@@ -5333,8 +5291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recoding categorical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980)
+#### [Recoding categorical data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5376,7 +5333,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=137)** So it's a much smaller dataset now.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=139)** We have Android with 1190, which means 11.9% of installations to that point.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=139)** We have [[Android]] with 1190, which means 11.9% of installations to that point.
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=145)** Blackberry OS was actually 20% at that point.
 >
@@ -5390,7 +5347,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=169)** So let's run that one.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=170)** And when I zoom in on that, you can see that we've got most of the operating systems down here on the left side.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=170)** And when I [[Zoom]] in on that, you can see that we've got most of the operating systems down here on the left side.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=177)** We've got a few way over here.
 >
@@ -5422,7 +5379,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=259)** We'll check the levels again.
 >
-> **[4:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=261)** And now you can see that Nintendo is in fact first and the rest are in alphabetical order.
+> **[4:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=261)** And now you can see that Nintendo is in fact first and the [[Representational State Transfer (REST)|rest]] are in alphabetical order.
 >
 > **[4:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980&t=266)** I can make a bar chart of this if I want and I'm going to have to zoom in on it because it's going to be really kind of messy.
 >
@@ -5548,7 +5505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Android]] (5), [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (4), power (1)
+> **Frameworks & Libraries:** [[Android]] (5), [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (4)
 > **Code Identifiers:** ios (7), fct_relevel (1), fct_infreq (1), unknown_other (1), fct_lump (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (4)
@@ -5557,8 +5514,7 @@ created: 2026-05-02
 > **Versions:** 11.9 (1)
 > **UI Navigation:** scroll down (1)
 
-#### Recoding quantitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-quantitative-data?u=76281980)
+#### [Recoding quantitative data](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-quantitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5616,7 +5572,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-quantitative-data?u=76281980&t=214)** So these are like two variables with different means.
 >
-> **[3:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-quantitative-data?u=76281980&t=218)** But what we can do is we can use the scale function on the entire matrix, and I'm putting scale = FALSE, which means we're only going to center it, we're only going to adjust it to deviations from the means, so when I run that, let me zoom in on that a little bit, you see, what it's done is it's taken the central value in each, and it tells us that that was a three and an eight, and it converted all the other scores in each column to how far away they are from that mean, so in both cases, we have negative one, negative two, and then one and two.
+> **[3:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-quantitative-data?u=76281980&t=218)** But what we can do is we can use the scale function on the entire matrix, and I'm putting scale = FALSE, which means we're only going to center it, we're only going to adjust it to deviations from the means, so when I run that, let me [[Zoom]] in on that a little bit, you see, what it's done is it's taken the central value in each, and it tells us that that was a three and an eight, and it converted all the other scores in each column to how far away they are from that mean, so in both cases, we have negative one, negative two, and then one and two.
 >
 > **[4:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-quantitative-data?u=76281980&t=253)** So that's a centered set of data.
 >
@@ -5660,14 +5616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** false (1), true (1), mmpi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980)
+#### [Transforming outliers](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5691,7 +5646,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=58)** Let's take a look at the actual data.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=60)** I'll just call islands and then I'll zoom in on this.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=60)** I'll just call islands and then I'll [[Zoom]] in on this.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=65)** And here it is an alphabetical order.
 >
@@ -5731,9 +5686,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=142)** And so I want to show you a few simple ways of dealing with outliers.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=146)** Now, it's true that there's many very sophisticated algorithms that deal with outliers in their own ways.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=146)** Now, it's true that there's many very sophisticated [[Algorithms]] that deal with outliers in their own ways.
 >
-> **[2:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=153)** If you're using a non-parametric approach, decision trees don't get thrown off by outliers usually, neural networks are going to be more flexible.
+> **[2:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=153)** If you're using a non-parametric approach, [[Decision Trees]] don't get thrown off by outliers usually, [[Neural Networks]] are going to be more flexible.
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=162)** But for standard analyses like scatter plots and means, you're going to want to deal with these.
 >
@@ -5785,7 +5740,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=273)** Now, I'm going to demonstrate it with the islands data.
 >
-> **[4:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=275)** It's kind of silly in this case, but you might want to use it for instance, with times on races, time to graduation, or maybe even some financial data.
+> **[4:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=275)** It's kind of silly in this case, but you might want to use it for instance, with times on races, time to graduation, or maybe even some [[Financial Data]].
 >
 > **[4:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/transforming-outliers?u=76281980&t=284)** And all you're doing in that case is you're taking the extreme values and you're changing them to give them the highest non-outlying value.
 >
@@ -5889,7 +5844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Zoom]] (5), [[Algorithms]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Algorithms]] (1), [[Decision Trees]] (1), [[Neural Networks]] (1), [[Financial Data]] (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
@@ -5897,8 +5852,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating scale scores by counting
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980)
+#### [Creating scale scores by counting](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5910,11 +5864,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=19)** I'm going to come down here and I'm going to load a few packages, including rio, which is for importing data because I'm going to bring in a dataset called "StateData.xlsx."
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=29)** And if you go to the files, you'll see it in here, we go to data, and there it is right there, it contains information from Google Trends as well as a few other sources on state-by-state popularity of search terms.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=29)** And if you go to the files, you'll see it in here, we go to data, and there it is right there, it contains information from [[Google]] Trends as well as a few other sources on state-by-state popularity of search terms.
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=43)** I'm going to save that as a table into df and select just a few variables that I want.
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=48)** Let's zoom in on those.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=48)** Let's [[Zoom]] in on those.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-counting?u=76281980&t=50)** You see we have the state_code, and then we have museum, scrapbook, and modernDance.
 >
@@ -6006,15 +5960,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (4), [[Zoom]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Google]] (2)
 > **Code Identifiers:** moderndance (4), artscount (4), case_when (2), state_code (1), likearts (1)
 > **Definitions:** means that (2), is a  (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** true (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating scale scores by averaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980)
+#### [Creating scale scores by averaging](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6028,9 +5981,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980&t=39)** Now, I want to show you how to do this by first loading a few packages, including rio, because I'm going to bring in the state data set that I've used previously, and I'm going to keep just a few variables.
 >
-> **[0:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980&t=53)** Let's zoom in on this one.
+> **[0:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980&t=53)** Let's [[Zoom]] in on this one.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980&t=55)** This gives us the 48 Continental United States along with their Google search terms for museum, scrapbook, and modern dance.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980&t=55)** This gives us the 48 Continental United States along with their [[Google]] search terms for museum, scrapbook, and modern dance.
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-scale-scores-by-averaging?u=76281980&t=65)** And the numbers indicate the relative popularity of that search term in that state compared to all other states.
 >
@@ -6082,7 +6035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (4), [[Zoom]] (2), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Google]] (1)
 > **Code Identifiers:** artscrafts (2), rowmeans (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.83 (1)
@@ -6094,8 +6047,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science with R: A case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980)
+#### [Data science with R: A case study](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6147,7 +6099,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=140)** I'm going to pull it and I'm going to get a box plot and calculate the median.
 >
-> **[2:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=147)** So when I do that and I zoom in on the plot, you can see that the median is right around four.
+> **[2:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=147)** So when I do that and I [[Zoom]] in on the plot, you can see that the median is right around four.
 >
 > **[2:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=154)** It goes up to the maximum of five.
 >
@@ -6241,7 +6193,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=380)** I'm going to start by zooming this one back out.
 >
-> **[6:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=385)** Now let's get some summary statistics for our data by simply taking the entire data frame and using the summary command.
+> **[6:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=385)** Now let's get some summary [[Statistics]] for our data by simply taking the entire data frame and using the summary command.
 >
 > **[6:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=393)** And then we can zoom in on the console here.
 >
@@ -6251,7 +6203,7 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=413)** And it's a nice way to follow up the visual analysis we did a moment ago.
 >
-> **[6:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=417)** Now we can start doing some statistical analysis because that's one of the emphasis of this part two of our essential training.
+> **[6:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=417)** Now we can start doing some [[Statistical Analysis]] because that's one of the emphasis of this part two of our essential training.
 >
 > **[7:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=426)** A very simple one is a T-test.
 >
@@ -6273,7 +6225,7 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=465)** However, when you're working with a very large data set, even small differences can be a way of finding extra value and meaning to help guide your predictions.
 >
-> **[7:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=477)** Instead of doing a whole collection of T-test, which violates the assumption of independent probabilities, let's go and do a linear regression on the full data set.
+> **[7:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=477)** Instead of doing a whole collection of T-test, which violates the assumption of independent probabilities, let's go and do a [[Linear Regression]] on the full data set.
 >
 > **[8:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=488)** To do this, I'm going to save an object called fitlm.
 >
@@ -6285,7 +6237,7 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=505)** Now, it's saved over here, but let's get the model summary by simply feeding it into the summary function.
 >
-> **[8:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=515)** And what we have are the various coefficients, the T-test for each and the probability, and we find that nearly all of the predictors are statistically significant.
+> **[8:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=515)** And what we have are the various coefficients, the T-test for each and the [[Probability]], and we find that nearly all of the predictors are statistically significant.
 >
 > **[8:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=523)** Again, not a surprise when you have almost 20,000 cases.
 >
@@ -6373,7 +6325,7 @@ created: 2026-05-02
 >
 > **[12:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=771)** And this gives us the collection of decisions it uses, and we can actually plot this.
 >
-> **[12:56](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=776)** This is one of the great things about decision trees.
+> **[12:56](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=776)** This is one of the great things about [[Decision Trees]].
 >
 > **[13:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=780)** This is going to give us our collection of decisions We have to make.
 >
@@ -6483,13 +6435,13 @@ created: 2026-05-02
 >
 > **[18:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=1088)** And so these are several different methods you can use to build models to predict an outcome that's important to you and to see how well it generalizes.
 >
-> **[18:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=1097)** This is the entire approach about creating our data, visualizing our data, doing a regression model, and then using machine learning predictive analytics techniques like K nearest neighbors, random forests as a way of getting additional and more reliable insight out of your data.
+> **[18:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=1097)** This is the entire approach about creating our data, visualizing our data, doing a regression model, and then using machine learning [[Predictive Analytics]] techniques like K nearest neighbors, random forests as a way of getting additional and more reliable insight out of your data.
 >
 > **[18:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980&t=1116)** And as we go through the course, I'll give you more details on each of these and how you can use them in your own projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Zoom]] (7), [[Decision Trees]] (4), [[Statistics]] (2), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Decision Trees]] (4), [[Statistics]] (2), [[Statistical Analysis]] (1), [[Linear Regression]] (1)
 > **Definitions:** is a  (9), is an  (1), is called (1)
 > **Versions:** 3.13 (1), 2.89 (1), 61.8 (1), 57.6 (1), 3.7 (1)
 > **CLI Commands:** find (4), make (1)
@@ -6503,8 +6455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Computing frequencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
+#### [Computing frequencies](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6520,15 +6471,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=30)** To do this, I'm going to start by loading a few packages and then I'm going to come down and I'm going to load a dataset that I have available in the example data.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=40)** In fact, if we go to exercise files, if you're running this from an RStudio project, if you open the project, it would be right there and it includes these relative references to make it easy to find things.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=40)** In fact, if we go to exercise files, if you're running this from an [[RStudio]] project, if you open the project, it would be right there and it includes these relative references to make it easy to find things.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=51)** I go to Data, and I'm going to be using this one right down here, which has Google search trends information on the 48 Continental United States.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=51)** I go to Data, and I'm going to be using this one right down here, which has [[Google]] search trends information on the 48 Continental United States.
 >
 > **[1:01](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=61)** I'm going to use the import function from Rio, and I'm going to save it as a tibble.
 >
 > **[1:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=66)** I'm going to select a small number of variables, the categorical, they're actually character ones as they come in raw, and we'll take a quick look at those, and we'll save them to df, which simply means data frame.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=79)** And let's zoom in on that down here.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=79)** And let's [[Zoom]] in on that down here.
 >
 > **[1:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=82)** And you can see I have three variables.
 >
@@ -6612,11 +6563,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=281)** I usually start with visualizations, then do numbers to get the precision.
 >
-> **[4:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=285)** But in terms of a numerical or a statistical analysis, this approach, making frequencies for categorical variables is an excellent first step.
+> **[4:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980&t=285)** But in terms of a numerical or a [[Statistical Analysis]], this approach, making frequencies for categorical variables is an excellent first step.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Zoom]] (2), [[RStudio]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[RStudio]] (1), [[Google]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** psychregions (2), psychregion (1)
 > **UI Navigation:** go to (2), open the (1)
@@ -6625,20 +6576,19 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Prerequisites:** getting started (1)
 
-#### Computing descriptive statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980)
+#### [Computing descriptive statistics](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=0)** - [Instructor] When you're analyzing data, it's always a good idea to start with visualizations first.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=6)** And when you have a quantitative variable that's an interval or ratio level, sometimes called a continuous variable, when you're measuring something that is measured or scaled, it's common to do a histogram or a box plot, and then to follow it up, to do a numerical analysis with common descriptive statistics.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=6)** And when you have a quantitative variable that's an interval or ratio level, sometimes called a continuous variable, when you're measuring something that is measured or scaled, it's common to do a histogram or a box plot, and then to follow it up, to do a numerical analysis with common descriptive [[Statistics]].
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=26)** And in this video, I want to show you how to do some of those basic descriptive statistics.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=31)** To do this, I'm going to start by loading a few packages, and then I'm going to load a data set that I've used elsewhere, it's the state data.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=40)** This is a data set that contains information about Google searches and also results from a psychology paper about personality profiles, on a state-by-state basis, for the 48 continental United States.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=40)** This is a data set that contains information about [[Google]] searches and also results from a psychology paper about personality profiles, on a state-by-state basis, for the 48 continental United States.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=54)** I'm going to load that, but I'm going to make a few modifications as I load it.
 >
@@ -6656,7 +6606,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=96)** So I'm going to run that one.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=98)** And then let's zoom in on the console here.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=98)** And then let's [[Zoom]] in on the console here.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-descriptive-statistics?u=76281980&t=100)** We have a character variable here for state code, factor for region and psych regions, and then you see four columns for Instagram, Facebook, retweet, and entrepreneur, four terms that I had selected on Google Trends to see what people had here.
 >
@@ -6804,7 +6754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Statistics]] (8), [[Zoom]] (8), [[Google]] (5), [[Search]] (3)
+> **Frameworks & Libraries:** [[Statistics]] (8), [[Zoom]] (8), [[Google]] (5)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), similar to (1)
@@ -6813,8 +6763,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computing correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980)
+#### [Computing correlations](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6830,7 +6779,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=27)** Corrplot is one that I use for a visualization of correlation.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=32)** So let's start by loading these packages, and then I'm going to come down and load the state data about Google search terms.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=32)** So let's start by loading these packages, and then I'm going to come down and load the state data about [[Google]] search terms.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=40)** And I'm going to save just a few of the search terms to be used as examples here.
 >
@@ -6912,11 +6861,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=245)** And then talk about the order and the way that I present the labels.
 >
-> **[4:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=249)** So let's run that one and then zoom in on it.
+> **[4:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=249)** So let's run that one and then [[Zoom]] in on it.
 >
 > **[4:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=253)** And what you see here are that large dark blue circles indicate strong positive associations.
 >
-> **[4:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=259)** So for instance, states that are more likely to search for GDPR, that's the General Data Protection Regulation, the European Union's online privacy act, are also more likely to search for volunteering or for museum.
+> **[4:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=259)** So for instance, states that are more likely to search for GDPR, that's the General Data Protection Regulation, the European Union's online [[Privacy]] act, are also more likely to search for volunteering or for museum.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-correlations?u=76281980&t=274)** Great, and then a large dark red circle indicates a negative association.
 >
@@ -6960,7 +6909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), data (4), [[Google]] (2), [[Zoom]] (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Zoom]] (2), [[Privacy]] (2)
 > **Versions:** 0.04 (2), 1.00 (1), 0.12 (1), 0.55 (1), 0.15 (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1)
@@ -6968,8 +6917,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating contingency tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980)
+#### [Creating contingency tables](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6977,7 +6925,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=14)** I want to show you how to do these in R.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=17)** Let's start by loading a few packages and then I'm going to load the state data, the Google search terms dataset.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=17)** Let's start by loading a few packages and then I'm going to load the state data, the [[Google]] search terms dataset.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=25)** Except this time, we're not going to look at the search terms, we're going to look at the factors, and that's psychRegions and region of the United States.
 >
@@ -6997,7 +6945,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=68)** So let's do that.
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=70)** And when we zoom in here, now this is easier to deal with.
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=70)** And when we [[Zoom]] in here, now this is easier to deal with.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-contingency-tables?u=76281980&t=73)** You see we have our state codes, that's a character variable.
 >
@@ -7107,14 +7055,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (2), [[Google]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Zoom]] (1)
 > **Code Identifiers:** psychregions (4), prop_table (3), fct_recode (1), rowsums (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conducting a principal component analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980)
+#### [Conducting a principal component analysis](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7210,9 +7157,9 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980&t=271)** I'm going to center and scale them, and I'm going to save it into an object called pc for principal component.
 >
-> **[4:39](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980&t=279)** Now, that actually ran really fast for what's a relatively large data set, but let's get the summary statistics for pc.
+> **[4:39](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980&t=279)** Now, that actually ran really fast for what's a relatively large data set, but let's get the summary [[Statistics]] for pc.
 >
-> **[4:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980&t=287)** And I'll have to zoom in because that gives us a lot of information.
+> **[4:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980&t=287)** And I'll have to [[Zoom]] in because that gives us a lot of information.
 >
 > **[4:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-principal-component-analysis?u=76281980&t=292)** If you're familiar with the theory of principal component analysis, and it's not my purpose here to talk about all of that, then the importance of components here might mean something to you where we have many different components to go up to the 50 different variables we have.
 >
@@ -7380,7 +7327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Zoom]] (8), next (2), power (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (8), [[Statistics]] (1)
 > **Definitions:** is a  (6), is called (1), stands for (1), is an  (1)
 > **Env Vars:** vss (3), gpa (1), bic (1), mr1 (1)
 > **CLI Commands:** find (2)
@@ -7389,8 +7336,7 @@ created: 2026-05-02
 > **File Paths:** b5.csv (1)
 > **Exercise Files:** exercise files (1)
 
-#### Conducting an item analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980)
+#### [Conducting an item analysis](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7528,13 +7474,13 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=407)** Now, I'm going to come down and do an exploratory analysis to try to take a closer look at the things going into a potential factor to decide what should actually be in there.
 >
-> **[6:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=415)** I'm going to do this by getting some descriptive statistics.
+> **[6:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=415)** I'm going to do this by getting some descriptive [[Statistics]].
 >
 > **[6:58](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=418)** I'm going to use the describe function from the psych package.
 >
 > **[7:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=422)** I am using skew equals F, capital F for false means I don't need to see the skewness and kurtosis statistics right now.
 >
-> **[7:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=430)** So I'm going to run that one and then I'll zoom in on the console because I've got a lot of variables here and I've got consistent, and I actually have a complete data set.
+> **[7:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=430)** So I'm going to run that one and then I'll [[Zoom]] in on the console because I've got a lot of variables here and I've got consistent, and I actually have a complete data set.
 >
 > **[7:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-an-item-analysis?u=76281980&t=443)** There's no missing data in this example, and I can see that the range on all of 'em is one to five.
 >
@@ -7734,7 +7680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Zoom]] (7), [[Statistics]] (4), next (2), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Statistics]] (4)
 > **Definitions:** is a  (6), means that (1)
 > **Env Vars:** gpa (1), csv (1), spss (1), rev_1_5 (1), o10 (1)
 > **Versions:** 0.7 (2), 0.8 (1), 9.8 (1), 0.79 (1)
@@ -7743,8 +7689,7 @@ created: 2026-05-02
 > **Analogies:** for instance (3), it's like (1)
 > **File Paths:** b5.csv (1)
 
-#### Conducting a confirmatory factor analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-confirmatory-factor-analysis?u=76281980)
+#### [Conducting a confirmatory factor analysis](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-confirmatory-factor-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7790,7 +7735,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-confirmatory-factor-analysis?u=76281980&t=197)** I'm going to ask it to summarize the fit, we're going to look at the summary of the model fit, and we're going to ask for fit measures.
 >
-> **[3:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-confirmatory-factor-analysis?u=76281980&t=207)** Now, this gets you a lot of output, and when I run this, I'm going to zoom in on that and I'm going to scroll back up to the top of that command.
+> **[3:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-confirmatory-factor-analysis?u=76281980&t=207)** Now, this gets you a lot of output, and when I run this, I'm going to [[Zoom]] in on that and I'm going to scroll back up to the top of that command.
 >
 > **[3:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/conducting-a-confirmatory-factor-analysis?u=76281980&t=217)** All right, there we go.
 >
@@ -7830,7 +7775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** cfa (4), scm (1), tilda (1)
 > **CLI Commands:** make (5)
 > **Versions:** 0.735 (1), 0.748 (1), 0.9 (1), 0.95 (1)
@@ -7842,8 +7787,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
+#### [Comparing proportions](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7869,7 +7813,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=64)** So I'm going to get that information and select those two variables and put it into df for data frame.
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=72)** And you can see the data down here. Let me zoom in on that.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=72)** And you can see the data down here. Let me [[Zoom]] in on that.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=76)** So I have a table and it's all written as numbers, which is not very helpful.
 >
@@ -7907,7 +7851,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=162)** It says, our value of Chi-squared is 12.42 to two by two tables so we have only one degree of freedom.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=170)** And the p value or probability value is 0.0004247.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=170)** And the p value or [[Probability]] value is 0.0004247.
 >
 > **[2:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980&t=175)** So it's definitely below the standard cutoff of 0.5.
 >
@@ -8007,7 +7951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Zoom]] (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Probability]] (2)
 > **Versions:** 0.5 (2), 18.8 (2), 12.42 (1), 0.0004247 (1), 58.9 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is called (1)
@@ -8015,8 +7959,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing one mean to a population: One-sample t-test
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980)
+#### [Comparing one mean to a population: One-sample t-test](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8064,7 +8007,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=149)** And when I do that, you can see that we've got a median of around 4.6, the middle 50% range from maybe 4.3 to 4.9, and then we have a few outliers up on the high end.
 >
-> **[2:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=164)** I can get a summary table, the descriptive statistics for this table also, that give me the quartiles, that's the minimum, or Q zero, the first quartile, the median, which is also the second quartile, or Q2, the third quartile and the max, which is quartile four, as well as the mean, so we have a mean of 4.62 for these.
+> **[2:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=164)** I can get a summary table, the descriptive [[Statistics]] for this table also, that give me the quartiles, that's the minimum, or Q zero, the first quartile, the median, which is also the second quartile, or Q2, the third quartile and the max, which is quartile four, as well as the mean, so we have a mean of 4.62 for these.
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=187)** So that's a quick look at our data, and with that it's reasonable to go ahead and start doing some statistical analyses, and we can do the t-test.
 >
@@ -8078,7 +8021,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=220)** So, this works.
 >
-> **[3:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=222)** And when I do that, let's zoom in on that, here's the results that I get.
+> **[3:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=222)** And when I do that, let's [[Zoom]] in on that, here's the results that I get.
 >
 > **[3:46](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-one-mean-to-a-population-one-sample-t-test?u=76281980&t=226)** It says one-sample t-test.
 >
@@ -8126,14 +8069,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), hit (1), [[Statistics]] (1), generic (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Zoom]] (1)
 > **Versions:** 4.6 (4), 4.3 (1), 4.9 (1), 4.62 (1), 362.76 (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Comparing paired means: Paired samples t-test
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980)
+#### [Comparing paired means: Paired samples t-test](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8157,7 +8099,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=53)** I'm creating some artificial data.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=55)** But let's do this, let's assume that we are going to have company sales on several different products, 30 different products, before and after a particular marketing campaign.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=55)** But let's do this, let's assume that we are going to have company sales on several different [[Microsoft Products|products]], 30 different products, before and after a particular marketing campaign.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-paired-means-paired-samples-t-test?u=76281980&t=70)** So before is going to be t1 for time one, and after is going to be t2 for time two.
 >
@@ -8337,7 +8279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Products|Products]] (3), parallel (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Versions:** 12.066 (2), 13.69 (1), 10.26 (1), 13.86 (1), 2.3448 (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (5)
@@ -8345,8 +8287,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two means: Independent samples t-test
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980)
+#### [Comparing two means: Independent samples t-test](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8442,7 +8383,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=241)** So that will be the default T-test.
 >
-> **[4:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=244)** And I'm going to zoom in on that one.
+> **[4:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=244)** And I'm going to [[Zoom]] in on that one.
 >
 > **[4:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-two-means-independent-samples-t-test?u=76281980&t=246)** It does the Welch two sample T-test, and we have a value of -1.86, the 17.776 degrees of freedom, and a P-value of 0.07.
 >
@@ -8530,7 +8471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Zoom]] (2), next (1), generic (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Versions:** 1.86 (2), 17.776 (1), 0.07 (1), 0.75 (1), 2.33 (1)
 > **Definitions:** is a  (4), is an  (1), is called (1), stands for (1)
 > **CLI Commands:** make (4), find (1)
@@ -8538,8 +8479,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing multiple means: One-factor analysis of variance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980)
+#### [Comparing multiple means: One-factor analysis of variance](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8553,7 +8493,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=40)** And then I'm going to load the state data, I'm going to save it into df for data frame.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=44)** This is the information about the state-by-state Google search term popularity, as well as some information about the personality classifications of states.
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=44)** This is the information about the state-by-state [[Google]] search term popularity, as well as some information about the personality classifications of states.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=55)** I'm going to save it as a tibble.
 >
@@ -8567,7 +8507,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=80)** So let's take a quick look.
 >
-> **[1:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=82)** This is what we've seen before, psych regions, we just have these one-word labels.
+> **[1:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=82)** This is what we've seen before, psych regions, we just have these one-[[Microsoft Word|word]] labels.
 >
 > **[1:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=88)** Now, the next best step is to start doing some data visualizations.
 >
@@ -8595,7 +8535,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=164)** Make a few other changes, let's run that one.
 >
-> **[2:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=167)** Let me zoom in on that.
+> **[2:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=167)** Let me [[Zoom]] in on that.
 >
 > **[2:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=169)** And so what we have here is volunteering where zero is the national average on a weighted basis, higher numbers indicate that that state is more likely to search for volunteering relative to other search terms than other states and lower scores indicate that they're less likely.
 >
@@ -8663,7 +8603,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=402)** The F value, which is this number divided by that one, is 5.154.
 >
-> **[6:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=410)** And the P value, the probability of this arising by chance if the null hypothesis of no difference is true, is 0.00965, and the two asterisks indicate that this is below the standard cutoff of 05 and even 01, so this is considered a statistically significant difference.
+> **[6:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=410)** And the P value, the [[Probability]] of this arising by chance if the null hypothesis of no difference is true, is 0.00965, and the two asterisks indicate that this is below the standard cutoff of 05 and even 01, so this is considered a statistically significant difference.
 >
 > **[7:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=430)** So that lets us know that these three distributions do not have the same mean.
 >
@@ -8671,7 +8611,7 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=458)** Now, the big difference between doing a post-hoc and a bunch of different t-tests ahead of time is post-hoc tests, they compensate for the inflation of the false positive rate.
 >
-> **[7:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=469)** My personal favorite one is John Tukey's honestly significant difference test or the TukeyHSD.
+> **[7:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=469)** My personal favorite one is [[John the Ripper|John]] Tukey's honestly significant difference test or the TukeyHSD.
 >
 > **[7:56](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-multiple-means-one-factor-analysis-of-variance?u=76281980&t=476)** It has its own function and it's the easiest one to call, so I go back to my original model, the fit, that's the analysis of variance results.
 >
@@ -8717,7 +8657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Search]] (7), [[Zoom]] (3), [[Google]] (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Google]] (2), [[Probability]] (2), [[Microsoft Word|Word]] (1), [[John the Ripper|John]] (1)
 > **Code Identifiers:** psychregions (5), describeby (4)
 > **Definitions:** is a  (5), means that (1), stands for (1)
 > **Env Vars:** anova (4), aov (1)
@@ -8726,8 +8666,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (1)
 
-#### Comparing means with multiple categorical predictors: Factorial analysis of variance
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980)
+#### [Comparing means with multiple categorical predictors: Factorial analysis of variance](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8779,17 +8718,17 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=150)** And then for the second factor, I do that with fill and I put intention there, and then I call box plot.
 >
-> **[2:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=160)** And so let's get that and zoom in on it.
+> **[2:40](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=160)** And so let's get that and [[Zoom]] in on it.
 >
 > **[2:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=163)** And what we have here are wool A on the left with low tension, medium tension, and high tension, and then wool B on the right is low in red, medium in green and high in blue.
 >
 > **[2:57](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=177)** I have to admit, I'm surprised there are more breaks when there is low tension, but I don't know how looms work.
 >
-> **[3:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=184)** This looks like a good example of data for an analysis of variance because it looks like this group over here seems to be different from the rest.
+> **[3:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=184)** This looks like a good example of data for an analysis of variance because it looks like this group over here seems to be different from the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=195)** So there may be an interaction that tension matters, but mostly when you're using wool A, well, let's take a closer look.
 >
-> **[3:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=203)** I'm going to get the descriptive statistics by group, and I'm going to be using a D PLI approach to this one.
+> **[3:23](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=203)** I'm going to get the descriptive [[Statistics]] by group, and I'm going to be using a D PLI approach to this one.
 >
 > **[3:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=210)** So I'm going to take the data frame and I'm going to group the data by wool and tension.
 >
@@ -8861,7 +8800,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=375)** The three asterisk indicate that that's less than the standard 0.001 level of significance.
 >
-> **[6:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=382)** And then the interaction, it has an F value of 4.189 and a P-value, probability value of 021044.
+> **[6:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=382)** And then the interaction, it has an F value of 4.189 and a P-value, [[Probability]] value of 021044.
 >
 > **[6:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=394)** And so that is also statistically significant.
 >
@@ -8891,7 +8830,7 @@ created: 2026-05-02
 >
 > **[7:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=461)** Now, in a three by two, this gets a little complicated.
 >
-> **[7:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=465)** I'm going to use the TukeyHSD, which is for John Tukey.
+> **[7:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=465)** I'm going to use the TukeyHSD, which is for [[John the Ripper|John]] Tukey.
 >
 > **[7:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-means-with-multiple-categorical-predictors-factorial-analysis-of-variance?u=76281980&t=470)** Honestly, significant difference tests, and we're going to get a lot of printout on this one.
 >
@@ -8911,7 +8850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Zoom]] (2), [[Statistics]] (2), generic (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Statistics]] (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[John the Ripper|John]] (1)
 > **Versions:** 3.765 (1), 0.000693 (1), 0.001 (1), 4.189 (1), 2.889 (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
 > **CLI Commands:** make (3), yarn (1)
@@ -8925,12 +8864,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predicting outcomes with linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980)
+#### [Predicting outcomes with linear regression](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=0)** - [Instructor] Probably the most useful and flexible approach for working with data and trying to predict scores is linear regression.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=0)** - [Instructor] Probably the most useful and flexible approach for working with data and trying to predict scores is [[Linear Regression]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=7)** It's a general purpose tool that allows you to use several variables, usually quantitative, but they can be any kind to predict a single quantitative outcome.
 >
@@ -8946,7 +8884,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=49)** Now this sometimes takes a minute.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=52)** Let's zoom in on that for a moment.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=52)** Let's [[Zoom]] in on that for a moment.
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=54)** So what we have here are all the variables in our dataset from Instagram through modern dance, and it's showing us the density plot for each of the variables.
 >
@@ -8988,7 +8926,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=155)** And here, we have the residuals and we have the estimates, which we had up here.
 >
-> **[2:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=162)** But now we also have the standard error, the T value, and the probability value for the T value.
+> **[2:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=162)** But now we also have the standard error, the T value, and the [[Probability]] value for the T value.
 >
 > **[2:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980&t=168)** And this one lets us know that the slope is statistically significant.
 >
@@ -9130,19 +9068,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Zoom]] (8), [[Linear Regression]] (5), bi (3), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (8), [[Linear Regression]] (5), [[Probability]] (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predicting outcomes with lasso regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980)
+#### [Predicting outcomes with lasso regression](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=0)** - [Instructor] When you're doing a regression model in R, you have more choices than just standard least squares linear regression.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=0)** - [Instructor] When you're doing a regression model in R, you have more choices than just standard least squares [[Linear Regression]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=7)** One of the more interesting alternatives of modern development, relatively speaking, is lasso regression.
 >
@@ -9158,7 +9095,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=41)** It's nearly 1,600 observations. We have 12 variables.
 >
-> **[0:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=45)** Let's zoom in on that.
+> **[0:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=45)** Let's [[Zoom]] in on that.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-lasso-regression?u=76281980&t=47)** So we have a number of measurements.
 >
@@ -9298,7 +9235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (5), [[Linear Regression]] (1), generic (1), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (5), [[Linear Regression]] (1)
 > **Definitions:** is a  (3), stands for (2), is an  (2)
 > **Code Identifiers:** fit_step (2), rename_all (1), fit_lasso (1)
 > **CLI Commands:** find (1), make (1)
@@ -9307,8 +9244,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predicting outcomes with quantile regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980)
+#### [Predicting outcomes with quantile regression](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9318,7 +9254,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=18)** When it comes to associations like regression, outliers can be even worse depending on the nature of what's going on.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=27)** And methods like least squares linear regression, that's the standard regression can get thrown off hugely.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=27)** And methods like least squares [[Linear Regression]], that's the standard regression can get thrown off hugely.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=33)** Fortunately, there are ways to deal with this with robust methods.
 >
@@ -9326,15 +9262,15 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=44)** Think of that as an analogy to the median as opposed to the mean, but applied to the association of variables and regression.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=51)** To show you how this works, I'm going to load a few packages including one called quantreg for quantile regression, and then I'm going to load the state data that we've seen before, which gives us state by state relative popularity of search terms on Google.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=51)** To show you how this works, I'm going to load a few packages including one called quantreg for quantile regression, and then I'm going to load the state data that we've seen before, which gives us state by state relative popularity of search terms on [[Google]].
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=70)** And we've seen this several different times, but here are the data and we'll get a scatter plot of all of them with ggpairs.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=79)** Again, this can take a minute, and let's zoom in on that.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=79)** Again, this can take a minute, and let's [[Zoom]] in on that.
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=85)** Now, we've looked at this before, but what you see here, we have some variables with outliers.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=90)** Privacy has both low and high outliers, but a really interesting one is down here, scrapbook has a high outlier and so does modern dance, and in fact, that's a high bi varied outlier.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=90)** [[Privacy]] has both low and high outliers, but a really interesting one is down here, scrapbook has a high outlier and so does modern dance, and in fact, that's a high bi varied outlier.
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=104)** It's going to be a lot easier to see if we focus on that individually.
 >
@@ -9346,7 +9282,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=132)** Now, I happen to know that this is the state of Utah where I live, and we are very, very high on Google searches for both scrapbook and modern dance.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=141)** And the association between them seems to be very different from the rest of the United States.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=141)** And the association between them seems to be very different from the [[Representational State Transfer (REST)|rest]] of the United States.
 >
 > **[2:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=147)** So I'm going to show you what the effect of this is.
 >
@@ -9402,7 +9338,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=305)** And then we can actually do T test using a bootstrap standard error.
 >
-> **[5:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=310)** And when we run that, you see that we have tau that tells us what quantile are we using, we're using the 0.5, and we have the value of the intercept and the slope of the line, the standard error, the T value, and then the probability value or P value of that T value.
+> **[5:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=310)** And when we run that, you see that we have tau that tells us what quantile are we using, we're using the 0.5, and we have the value of the intercept and the slope of the line, the standard error, the T value, and then the [[Probability]] value or P value of that T value.
 >
 > **[5:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-quantile-regression?u=76281980&t=332)** And what you can see here is that this one right here is statistically significant, and that lets us know that the negative slope of the red line is something that is probably reliable and probably accurately reflects a negative slope in the population overall for the quantile regression.
 >
@@ -9414,15 +9350,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), bi (4), [[Linear Regression]] (2), [[Google]] (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Google]] (2), [[Zoom]] (2), [[Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.5 (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predicting outcomes with logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980)
+#### [Predicting outcomes with logistic regression](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9430,7 +9365,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=7)** Say for instance, a person's age or their GPA, but you can also do regression when you have a categorical outcome.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=17)** And in that case, you're going to use something called logistic regression, the most common of which is binomial logistic regression, which means you're trying to predict a yes no, a true false, two possible outcomes on a category.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=17)** And in that case, you're going to use something called [[Logistic Regression]], the most common of which is binomial logistic regression, which means you're trying to predict a yes no, a true false, two possible outcomes on a category.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=31)** And you're using several different variables to model that.
 >
@@ -9528,7 +9463,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=309)** I'm going to save that as fit, a common name, for anytime you build a model.
 >
-> **[5:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=315)** Now, let's summarize this, the standard output you get from just summary, and I'll zoom out on that one.
+> **[5:15](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=315)** Now, let's summarize this, the standard output you get from just summary, and I'll [[Zoom]] out on that one.
 >
 > **[5:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=321)** And from that you can see the residuals.
 >
@@ -9554,7 +9489,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=380)** Let me show you.
 >
-> **[6:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=381)** We're actually looking for predicted probabilities, that's what it gives us is the probability that somebody has a zero or a one as male or female, and it's going to be in the fitted values in view.
+> **[6:21](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=381)** We're actually looking for predicted probabilities, that's what it gives us is the [[Probability]] that somebody has a zero or a one as male or female, and it's going to be in the fitted values in view.
 >
 > **[6:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=394)** Running view is the same thing as just clicking on this little magnifying glass over here.
 >
@@ -9590,7 +9525,7 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=480)** Our very first person is male, but it's predicted to be female because their probability's 0.532.
 >
-> **[8:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=488)** A lot of the rest of them seem to be lining up properly.
+> **[8:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=488)** A lot of the [[Representational State Transfer (REST)|rest]] of them seem to be lining up properly.
 >
 > **[8:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-logistic-regression?u=76281980&t=492)** Now, let's visualize the probabilities.
 >
@@ -9690,7 +9625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (8), [[Probability]] (7), data (6), [[Zoom]] (5), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (8), [[Probability]] (7), [[Zoom]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (8), stands for (1)
 > **Env Vars:** glm (2), roc (2), gpa (1)
 > **CLI Commands:** make (3)
@@ -9699,8 +9634,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** it's best to (1)
 
-#### Predicting outcomes with Poisson or log-linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-poisson-or-log-linear-regression?u=76281980)
+#### [Predicting outcomes with Poisson or log-linear regression](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-poisson-or-log-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9752,7 +9686,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-poisson-or-log-linear-regression?u=76281980&t=105)** And when we do that, we get this box plot.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-poisson-or-log-linear-regression?u=76281980&t=108)** Let me zoom in on that.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-poisson-or-log-linear-regression?u=76281980&t=108)** Let me [[Zoom]] in on that.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-poisson-or-log-linear-regression?u=76281980&t=109)** And what you have are the six different sprays, A, B, C, on up to F.
 >
@@ -9804,14 +9738,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** glm (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing predictions with blocked-entry models
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/assessing-predictions-with-blocked-entry-models?u=76281980)
+#### [Assessing predictions with blocked-entry models](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/assessing-predictions-with-blocked-entry-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9861,7 +9794,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/assessing-predictions-with-blocked-entry-models?u=76281980&t=187)** If you don't have it already, you can download the jamovi application for free.
 >
-> **[3:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/assessing-predictions-with-blocked-entry-models?u=76281980&t=192)** Free, open source, runs on your desktop, Windows, Mac, and Linux, and this link will take you to their homepage.
+> **[3:12](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/assessing-predictions-with-blocked-entry-models?u=76281980&t=192)** Free, open source, runs on your desktop, [[Windows]], Mac, and [[Linux]], and this link will take you to their homepage.
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/assessing-predictions-with-blocked-entry-models?u=76281980&t=202)** When you're here, you can simply download the version of jamovi that works for your computer and then install it.
 >
@@ -10027,7 +9960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), application (6), [[Windows]] (1), [[Linux]] (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Versions:** 0.0168 (1), 1.5 (1), 0.0249 (1), 0.00814 (1), 0.06 (1)
 > **Prerequisites:** set up (4), install (1)
@@ -10041,8 +9974,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grouping cases with hierarchical clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980)
+#### [Grouping cases with hierarchical clustering](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10066,7 +9998,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=64)** Then I'm going to load the state data.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=66)** This is state by state popularity of Google search terms from a few years ago.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=66)** This is state by state popularity of [[Google]] search terms from a few years ago.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=73)** Now what I'm going to do is I'm going to find out which states are similar to each other based on these search patterns, and that's an enormous qualification.
 >
@@ -10144,7 +10076,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=267)** But because it goes in this step by step process, it's a hierarchical method.
 >
-> **[4:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=272)** Now let's zoom back out.
+> **[4:32](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=272)** Now let's [[Zoom]] back out.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980&t=274)** One big question is how many clusters do you actually want?
 >
@@ -10286,15 +10218,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Search]] (6), [[Google]] (5), [[Zoom]] (5), generic (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Zoom]] (5)
 > **CLI Commands:** make (5), find (4)
 > **Definitions:** is a  (5), is called (3)
 > **Analogies:** similar to (5), for example (1), imagine (1)
 > **Code Identifiers:** fviz_cluster (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping cases with k-means clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980)
+#### [Grouping cases with k-means clustering](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10302,7 +10233,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=17)** In that case, you don't want to use a hierarchical method, which goes all the way from one giant group to everybody in their own group.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=24)** But you want to use something like k-means clustering.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=24)** But you want to use something like [[k-means clustering]].
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=28)** And what this means is you select a number, that's the k that indicates a previously chosen number of clusters that you want.
 >
@@ -10366,7 +10297,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=202)** And we're looking to see if there are any obvious bends.
 >
-> **[3:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=205)** And so, let me run that command and then we'll zoom in on it.
+> **[3:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=205)** And so, let me run that command and then we'll [[Zoom]] in on it.
 >
 > **[3:31](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-k-means-clustering?u=76281980&t=211)** And there seems to be a little more of a bend here at two clusters.
 >
@@ -10480,7 +10411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Zoom]] (2), [[k-means clustering]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[k-means clustering]] (1)
 > **Env Vars:** rx4 (1), fun (1), z28 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -10489,8 +10420,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** caveat (1)
 
-#### Classifying cases with k-nearest neighbors
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980)
+#### [Classifying cases with k-nearest neighbors](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10536,11 +10466,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=130)** I'm going to pull to get out the one variable, open, as a vector and not a data frame.
 >
-> **[2:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=136)** Then I'm going to use the T pipe, so I can both make a box plot and get a little bit of statistics, the median, here in the console.
+> **[2:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=136)** Then I'm going to use the T pipe, so I can both make a box plot and get a little bit of [[Statistics]], the median, here in the console.
 >
 > **[2:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=142)** So let's run that command.
 >
-> **[2:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=145)** And if we zoom in on the graphic, this is just a basic box plot, and you can see that the median here splits half or above, half or below is right around four.
+> **[2:25](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=145)** And if we [[Zoom]] in on the graphic, this is just a basic box plot, and you can see that the median here splits half or above, half or below is right around four.
 >
 > **[2:36](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=156)** It's a little skewed.
 >
@@ -10548,7 +10478,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=162)** So if we're going to split the data into two, that's a good place to do it.
 >
-> **[2:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=165)** A lot of the classification algorithms work better when you have balanced data, the same number of cases in this group and that group.
+> **[2:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=165)** A lot of the classification [[Algorithms]] work better when you have balanced data, the same number of cases in this group and that group.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-k-nearest-neighbors?u=76281980&t=172)** Now, that's often not the case in real life, if you're looking at classifying people, whether they have a particular disease, you may have only 1% or less that fall into that category, and then you have to adjust the way you do these.
 >
@@ -10744,7 +10674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Zoom]] (3), [[Statistics]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Statistics]] (2), [[Algorithms]] (1)
 > **Definitions:** is an  (3), is a  (2), short for (1), stands for (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 4.3 (1), 2.6 (1), 0.56 (1), 56.08 (1)
@@ -10753,18 +10683,17 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classifying cases with decision tree analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980)
+#### [Classifying cases with decision tree analysis](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=0)** - [Instructor] When you're working with data, sometimes you're building a model that your algorithm is going to implement directly on its own, like a recommendation engine on a e-commerce website.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=0)** - [Instructor] When you're working with data, sometimes you're building a model that your algorithm is going to implement directly on its own, like a recommendation engine on a [[E-Commerce]] website.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=11)** But in many other circumstances, if you're building a model for humans, they actually need to be able to understand what's happening.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=18)** And given that humans are visual animals, a graphic that can portray the entire model is priceless.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=26)** And that's one of the things I love about decision trees.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=26)** And that's one of the things I love about [[Decision Trees]].
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=30)** You get the entire model with a picture, a series of yes-no decisions.
 >
@@ -10794,7 +10723,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=91)** I have 313.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=94)** And then I'm going to create my training set by doing sample fractions, say 70% of the data goes into that, and then the rest of the data goes into test.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=94)** And then I'm going to create my training set by doing sample fractions, say 70% of the data goes into that, and then the [[Representational State Transfer (REST)|rest]] of the data goes into test.
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=105)** And so here we have those over here, that this and this add up to get to the original data frame.
 >
@@ -10832,7 +10761,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=167)** And let's run that one right now.
 >
-> **[2:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=170)** And then I'll zoom in on that.
+> **[2:50](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=170)** And then I'll [[Zoom]] in on that.
 >
 > **[2:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=172)** And what you can see is that we have the men in the reddish, pinkish, and the blue green, that's women.
 >
@@ -10918,7 +10847,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=420)** So we'll run that.
 >
-> **[7:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=422)** And then we'll get an accuracy model by getting the table, where we have the actual class from the original data and their predicted class, and then a confusion matrix, which gives us several statistics on that.
+> **[7:02](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=422)** And then we'll get an accuracy model by getting the table, where we have the actual class from the original data and their predicted class, and then a confusion matrix, which gives us several [[Statistics]] on that.
 >
 > **[7:14](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/classifying-cases-with-decision-tree-analysis?u=76281980&t=434)** So when I zoom in on the results, this is how many people were listed as male or female in the original dataset, and these are their predicted genders based on the five personality factors.
 >
@@ -10950,7 +10879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Zoom]] (6), [[Statistics]] (3), [[Decision Trees]] (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Statistics]] (3), [[Decision Trees]] (2), [[E-Commerce]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), short for (1), stands for (1)
 > **Versions:** 4.1 (2), 4.05 (1), 2.9 (1)
 > **CLI Commands:** make (1)
@@ -10959,14 +10888,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating ensemble models with random forest classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980)
+#### [Creating ensemble models with random forest classification](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=0)** - [Instructor] In our final demonstration of working in R to analyze and to classify data, I want to show you how to do something called a randomforest.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=9)** Now, in a previous video I talked about decision trees where you take your data and you have a whole series of yes no decisions that split it off into these branches until you have a final model and it's able to portray it graphically, which is wonderful.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=9)** Now, in a previous video I talked about [[Decision Trees]] where you take your data and you have a whole series of yes no decisions that split it off into these branches until you have a final model and it's able to portray it graphically, which is wonderful.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=24)** A random forest is essentially a large collection of decision trees.
 >
@@ -10998,7 +10926,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=119)** To get a feel for how this works on a large data set, what I'm going to do next is split the data into two parts.
 >
-> **[2:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=128)** I'm going to create a training data set that has 70% of the data and a test data set that has all the rest of it.
+> **[2:08](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=128)** I'm going to create a training data set that has 70% of the data and a test data set that has all the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[2:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=136)** And when I do that, 70% of 500 is 350 observations and the rest is 150.
 >
@@ -11014,7 +10942,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=164)** And then let's get density plots for the five personality variables and then do them separately within each one for male and female respondents.
 >
-> **[2:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=174)** So I'm going to run that command and then we'll zoom in on that.
+> **[2:54](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=174)** So I'm going to run that command and then we'll [[Zoom]] in on that.
 >
 > **[2:59](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=179)** So you can see that the distributions overlap a lot, but there are some noticeable differences.
 >
@@ -11104,7 +11032,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=397)** So when you average those two together, you get the OOB or out of bag estimate of error rate.
 >
-> **[6:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=403)** That is, if you ignore the classification, what's the probability that any randomly selected case is going to be classified correctly?
+> **[6:43](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=403)** That is, if you ignore the classification, what's the [[Probability]] that any randomly selected case is going to be classified correctly?
 >
 > **[6:51](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=411)** Well, the error rate's about 35%.
 >
@@ -11128,7 +11056,7 @@ created: 2026-05-02
 >
 > **[7:41](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=461)** So now let's run that one now, that saves the new variable, and now we can get a table that shows us the accuracy of the actual gender versus the predicted gender.
 >
-> **[7:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=472)** And a confusion matrix with a few statistics.
+> **[7:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=472)** And a confusion matrix with a few [[Statistics]].
 >
 > **[7:55](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=475)** When I run that and we zoom in on it.
 >
@@ -11150,11 +11078,11 @@ created: 2026-05-02
 >
 > **[9:05](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=545)** That's the gold standard for generalizability and really utility of a model.
 >
-> **[9:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=550)** And that's a great place to wrap up our discussion of data analysis, data modeling, clustering, and classification in R.
+> **[9:10](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-ensemble-models-with-random-forest-classification?u=76281980&t=550)** And that's a great place to wrap up our discussion of data analysis, [[Data Modeling]], clustering, and classification in R.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Decision Trees]] (9), [[Zoom]] (4), parallel (3), next (2)
+> **Frameworks & Libraries:** [[Decision Trees]] (9), [[Zoom]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Probability]] (1), [[Statistics]] (1)
 > **Definitions:** is an  (2), is a  (2), known as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** oob (1)
@@ -11168,8 +11096,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11181,7 +11108,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=16)** One idea is it'd be a good idea to deepen your understanding of the principles of data.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=22)** We have a wide selection of courses here on LinkedIn learning that will help you with that.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=22)** We have a wide selection of courses here on [[LinkedIn]] learning that will help you with that.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=28)** On the other hand, it's also good to deal with some of the very basic tools.
 >
@@ -11193,7 +11120,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=48)** It makes it much easier to collaborate with your clients.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=52)** Third, as much as I love R and am dedicated to it, learning about other programming languages like Python, or SAS, or Stata, or any others which might be well adapted to some unusual problems you could face and makes it easier, again, to collaborate with other people.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=52)** Third, as much as I love R and am dedicated to it, learning about other programming languages like [[Python (Programming Language)|Python]], or SAS, or [[Stata]], or any others which might be well adapted to some unusual problems you could face and makes it easier, again, to collaborate with other people.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980&t=71)** And then, finally, getting a better understanding of business strategy.
 >
@@ -11217,7 +11144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Programming]] (2), business (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Stata]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** sas (1)
 > **Speakers:** - [instructor] (1)

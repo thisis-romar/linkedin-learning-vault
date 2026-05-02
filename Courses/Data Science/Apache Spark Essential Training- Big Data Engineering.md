@@ -105,20 +105,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Driving big data engineering with Apache Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980)
+#### [Driving big data engineering with Apache Spark](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=0)** - [Kumaran] We live in the world of big data.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=0)** - [Kumaran] We live in the world of [[Big Data]].
 >
 > **[0:03](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=3)** This data needs to be stored, transported, and processed, in scalable and resilient ways to generate timely insights.
 >
-> **[0:11](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=11)** Apache Spark has become the top data processing technology in the world.
+> **[0:11](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=11)** [[Apache Spark]] has become the top [[Data Processing]] technology in the world.
 >
-> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=16)** In this course, I will show you how to execute data engineering projects with Apache Spark.
+> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=16)** In this course, I will show you how to execute [[Data Engineering]] projects with Apache Spark.
 >
-> **[0:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=23)** We will discuss some salient features of Spark that will help in scalable and resilient processing, then walk through the design of batch and real-time pipelines with Spark using examples, and finally, discuss some best practices.
+> **[0:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=23)** We will discuss some salient features of Spark that will help in scalable and resilient processing, then walk through the design of batch and [[Real-Time]] pipelines with Spark using examples, and finally, discuss some best practices.
 >
 > **[0:40](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980&t=40)** My name is Kumaran Ponnambalam.
 >
@@ -126,28 +125,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (3), data (2), [[Data Engineering]] (2), [[Big Data]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (3), [[Data Engineering]] (2), [[Big Data]] (1), [[Data Processing]] (1), [[Real-Time]] (1)
 > **CLI Commands:** apache (3)
 > **Speakers:** - [kumaran] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=0)** - [Instructor] Before we begin this course, I want to discuss the prerequisite skills needed for the students to maximize learning from this course.
 >
-> **[0:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=10)** The focus of this course is to help students build data engineering pipelines with Apache Spark.
+> **[0:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=10)** The focus of this course is to help students build [[Data Engineering]] pipelines with [[Apache Spark]].
 >
 > **[0:18](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=18)** It will discuss some key design principles and best practices in building pipelines and demonstrate them with examples.
 >
 > **[0:27](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=27)** The students are expected to be familiar with the basics of Apache Spark and are able to set up code and deploy applications with Spark.
 >
-> **[0:37](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=37)** Familiarity in structured streaming and SQL capabilities for Apache Spark is also desired.
+> **[0:37](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=37)** Familiarity in structured streaming and [[SQL]] capabilities for Apache Spark is also desired.
 >
-> **[0:44](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=44)** The example code is in Python, so familiarity with Python concepts, programming, and using Jupyter notebooks is required.
+> **[0:44](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=44)** The example code is in [[Python (Programming Language)|Python]], so familiarity with Python concepts, programming, and using Jupyter notebooks is required.
 >
-> **[0:53](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=53)** We will build pipelines using third party data stores, namely Kafka, MariaDB, and Redis.
+> **[0:53](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=53)** We will build pipelines using third party data stores, namely Kafka, MariaDB, and [[Redis]].
 >
 > **[1:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/course-prerequisites?u=76281980&t=60)** Familiarity in these data stores is also helpful.
 >
@@ -157,25 +155,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (3), data (3), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (3), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[SQL]] (1), [[Redis]] (1)
 > **CLI Commands:** apache (3), python (2), docker (2)
 > **Prerequisites:** set up (2), prerequisite (1)
 > **Env Vars:** sql (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980)
+#### [Setting up the exercise files](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=0)** - [Instructor] Let's set up the required software for use in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=4)** We will use PySpark for our programming exercises using its own built-in Spark instance.
+> **[0:04](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=4)** We will use [[PySpark]] for our programming exercises using its own built-in Spark instance.
 >
 > **[0:12](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=12)** So we do not need to set up a Spark cluster.
 >
-> **[0:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=15)** We hover need data sources and sinks like MariaDB, Kafka, and Redis.
+> **[0:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=15)** We hover need data sources and sinks like MariaDB, Kafka, and [[Redis]].
 >
 > **[0:22](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=22)** We will set them up using Docker.
 >
@@ -187,13 +184,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=38)** Open the command prompt and navigate to this folder.
 >
-> **[0:42](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=42)** If you are using Windows, use the PowerShell application.
+> **[0:42](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=42)** If you are using [[Windows]], use the [[Powershell]] application.
 >
 > **[0:46](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=46)** I have downloaded the files in the exercise files folder.
 >
 > **[0:50](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=50)** Here, you can see the exercise files, Docker file, and dependency files that are needed.
 >
-> **[0:57](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=57)** Execute the command, docker-compose -f spark-docker.yml up -d.
+> **[0:57](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=57)** Execute the command, docker-[[Jetpack Compose|compose]] -f spark-docker.yml up -d.
 >
 > **[1:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=67)** You should see three containers being created and started.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=105)** PySpark has some environment dependencies, so they also need to be set up.
 >
-> **[1:51](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=111)** First, make sure that you have Java 17 installed on your system.
+> **[1:51](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=111)** First, make sure that you have [[Java]] 17 installed on your system.
 >
 > **[1:55](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=115)** This can be checked by using the command java-version.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=128)** So this has already been set up and it can be checked by using the Environment command.
 >
-> **[2:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=136)** We then need a variable called PySpark Python, and that needs to point to the word Python.
+> **[2:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=136)** We then need a variable called PySpark [[Python (Programming Language)|Python]], and that needs to point to the [[Microsoft Word|word]] Python.
 >
 > **[2:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=143)** We have already set this up in this environment, and we can check this using the environment command.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=242)** If you are using Windows, then follow the additional instructions mentioned here.
 >
-> **[4:08](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=248)** Copy the Hadoop folder in the exercise files to a folder like c:/hadoop.
+> **[4:08](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=248)** Copy the [[Hadoop]] folder in the exercise files to a folder like c:/hadoop.
 >
 > **[4:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=254)** Create a Hadoop home environment variable pointing to this folder.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=275)** The dependencies are successfully installed now.
 >
-> **[4:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=279)** Now we need to create a few databases and tables in MariaDB as well as a few topics in Kafka.
+> **[4:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=279)** Now we need to create a few [[Databases]] and tables in MariaDB as well as a few topics in Kafka.
 >
 > **[4:47](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-exercise-files?u=76281980&t=287)** Go to the setup MariaDB section and run it.
 >
@@ -291,7 +288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hadoop]] (5), [[Java]] (4), [[PySpark]] (3), [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Hadoop]] (5), [[Java]] (4), [[PySpark]] (3), [[Python (Programming Language)|Python]] (3), [[Windows]] (2)
 > **Prerequisites:** install (10), set up (6), setup (3)
 > **CLI Commands:** docker (9), python (3), make (2), brew (1)
 > **Tools:** jupyter (5), anaconda (3), docker desktop (1), command prompt (1), powershell (1)
@@ -305,22 +302,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980)
+#### [What is data engineering?](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=0)** - [Instructor] To begin the course, let's discuss the concept of data engineering.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=0)** - [Instructor] To begin the course, let's discuss the concept of [[Data Engineering]].
 >
 > **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=5)** Data engineering deals with designing and building systems that collect and analyze data to deliver insights and actions.
 >
-> **[0:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=14)** The focus on data engineering is data, especially big data, and ways to process them at scale and with low latency.
+> **[0:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=14)** The focus on data engineering is data, especially [[Big Data]], and ways to process them at scale and with low latency.
 >
-> **[0:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=23)** Data engineering is a growing field in software engineering, especially around data processing, analytics and data science.
+> **[0:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=23)** Data engineering is a growing field in software engineering, especially around [[Data Processing]], analytics and [[Data Science]].
 >
 > **[0:31](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=31)** It is driven by the advancements in big data technologies.
 >
-> **[0:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=35)** These technologies enable building data pipelines that focus on data transport, processing, and storage.
+> **[0:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=35)** These technologies enable building [[Data Pipelines]] that focus on data transport, processing, and storage.
 >
 > **[0:43](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980&t=43)** It is essential for large scale data processing with low latency, which is becoming a key requirement for multiple application domains to deliver value to their customers.
 >
@@ -338,35 +334,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Data Engineering]] (6), [[Big Data]] (3), [[Engineering]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Data Engineering]] (6), [[Big Data]] (3), [[Data Processing]] (2), [[Data Science]] (2), [[Data Pipelines]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data engineering vs. data analytics vs. data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980)
+#### [Data engineering vs. data analytics vs. data science](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=0)** - [Instructor] Nowadays, we hear the terms like data engineering, data analytics, and data science when discussing big data.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=0)** - [Instructor] Nowadays, we hear the terms like [[Data Engineering]], data analytics, and [[Data Science]] when discussing [[Big Data]].
 >
 > **[0:08](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=8)** Often, they are used interchangeably.
 >
 > **[0:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=10)** So what exactly are the differences between these domains, and what are their overlaps?
 >
-> **[0:17](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=17)** This table lists a number of data processing and analytics functions that are encountered in the data analytics domain today.
+> **[0:17](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=17)** This table lists a number of [[Data Processing]] and analytics functions that are encountered in the data analytics domain today.
 >
 > **[0:25](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=25)** Data engineering deals with the preparation of data for further analytics.
 >
-> **[0:30](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=30)** It deals with integrating data sources to extract data, build data pipelines for transport, processing, and transforming data to required formats, and aggregations to finally storing them.
+> **[0:30](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=30)** It deals with integrating data sources to extract data, build [[Data Pipelines]] for transport, processing, and transforming data to required formats, and aggregations to finally storing them.
 >
 > **[0:43](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=43)** This data can also be used to build business actions downstream.
 >
-> **[0:47](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=47)** Business analytics, on the other hand, works on data that is already prepared by data engineering.
+> **[0:47](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=47)** [[Business Analytics]], on the other hand, works on data that is already prepared by data engineering.
 >
-> **[0:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=54)** It deals with using the process data to create dashboards and reports for doing exploratory data analytics and statistical modeling of data.
+> **[0:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=54)** It deals with using the process data to create [[Dashboards]] and reports for doing exploratory data analytics and statistical modeling of data.
 >
 > **[1:03](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-vs-data-analytics-vs-data-science?u=76281980&t=63)** This includes generating recommendations for business actions.
 >
@@ -376,24 +371,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Analytics]] (7), business (5), [[Data Engineering]] (4), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Data Science]] (2), [[Business Analytics]] (2), [[Big Data]] (1), [[Data Processing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data engineering functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980)
+#### [Data engineering functions](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=0)** - [Presenter] What are the functions of data engineering?
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=0)** - [Presenter] What are the functions of [[Data Engineering]]?
 >
 > **[0:03](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=3)** Data engineering consists of five functions namely acquisition, transport, storage, processing, and serving.
 >
-> **[0:11](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=11)** Data pipelines are built by combining multiple such functions to deliver a given outcome.
+> **[0:11](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=11)** [[Data Pipelines]] are built by combining multiple such functions to deliver a given outcome.
 >
-> **[0:18](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=18)** Let's start with data acquisition.
+> **[0:18](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=18)** Let's start with [[Data Acquisition]].
 >
-> **[0:20](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=20)** The goal of data acquisition is to extract or receive data from a data source and publish it into a big data pipeline.
+> **[0:20](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=20)** The goal of data acquisition is to extract or receive data from a data source and publish it into a [[Big Data]] pipeline.
 >
 > **[0:28](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=28)** While acquiring data, the focus is on understanding the format of the source data and converting them into formats suitable for downstream processing.
 >
@@ -413,13 +407,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=81)** Transport requires scale to deal with large quantities of data in the big data world.
 >
-> **[1:26](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=86)** Data security and privacy may also be key concerns.
+> **[1:26](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=86)** [[Data Security]] and [[Privacy]] may also be key concerns.
 >
-> **[1:30](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=90)** Latency is an important transport consideration for real-time use cases.
+> **[1:30](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=90)** Latency is an important transport consideration for [[Real-Time]] use cases.
 >
 > **[1:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=95)** Finally, transport should also be cost effective.
 >
-> **[1:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=99)** Then comes data storage.
+> **[1:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=99)** Then comes [[Data Storage]].
 >
 > **[1:41](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=101)** While designing storage for big data pipelines, a key requirement is the flexibility of data as new use cases and requirements will constantly emerge when the system grows.
 >
@@ -431,9 +425,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=125)** Finally, the choice of technology should also be cost effective.
 >
-> **[2:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=130)** Data processing is the next key function.
+> **[2:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=130)** [[Data Processing]] is the next key function.
 >
-> **[2:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=133)** Common requirements like scale, resiliency, latency, and security also apply to data processing.
+> **[2:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=133)** Common requirements like scale, [[Resiliency]], latency, and security also apply to data processing.
 >
 > **[2:20](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-functions?u=76281980&t=140)** In addition, data processing should provide capabilities for cleansing, filtering, and enriching data with additional features.
 >
@@ -453,18 +447,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Security]] (4), [[Big Data]] (3), [[Data Engineering]] (2), [[Data Acquisition]] (2)
+> **Frameworks & Libraries:** [[Data Processing]] (4), [[Big Data]] (3), [[Data Engineering]] (2), [[Data Acquisition]] (2), [[Real-Time]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Batch vs. real-time processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980)
+#### [Batch vs. real-time processing](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980&t=0)** - [Instructor] When building data pipelines, one of the key decisions to make is whether the pipeline would be batch or real-time.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980&t=0)** - [Instructor] When building [[Data Pipelines]], one of the key decisions to make is whether the pipeline would be batch or [[Real-Time]].
 >
-> **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980&t=7)** We start with batch processing.
+> **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980&t=7)** We start with [[Batch Processing]].
 >
 > **[0:09](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-processing?u=76281980&t=9)** In batch processing, we process data in batches.
 >
@@ -522,21 +515,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (7), data (6), [[Batch Processing]] (6), management (1)
+> **Frameworks & Libraries:** [[Real-Time]] (7), [[Batch Processing]] (6), [[Data Pipelines]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data engineering with Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980)
+#### [Data engineering with Spark](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=0)** - [Instructor] Apache Spark is arguably the best processing technology available for data engineering today.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=0)** - [Instructor] [[Apache Spark]] is arguably the best processing technology available for [[Data Engineering]] today.
 >
 > **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=7)** It has been constantly evolving over the last few years, adding new capabilities and improving in reliability.
 >
-> **[0:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=14)** Spark can be used to implement both batch and real-time use cases.
+> **[0:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=14)** Spark can be used to implement both batch and [[Real-Time]] use cases.
 >
 > **[0:19](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=19)** It has support for a number of capabilities to help in this regard.
 >
@@ -546,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=38)** Capabilities like MapReduce, windowing, state management, and joins enable powerful use cases.
 >
-> **[0:45](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=45)** Finally, it also has support for graph processing and machine learning, so these use cases can also be integrated into these big data pipelines.
+> **[0:45](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=45)** Finally, it also has support for graph processing and machine learning, so these use cases can also be integrated into these [[Big Data]] pipelines.
 >
 > **[0:55](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/data-engineering-with-spark?u=76281980&t=55)** We will explore these capabilities in detail in the course.
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Apache Spark]] (1), [[Data Engineering]] (1), [[Real-Time]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[Data Engineering]] (1), [[Real-Time]] (1), [[Big Data]] (1)
 > **Env Vars:** rdbms (1), hdfs (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
@@ -564,14 +556,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spark architecture review
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980)
+#### [Spark architecture review](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=0)** - [Instructor] In order to build an optimal Spark pipeline, it is important to understand how Spark works internally.
 >
-> **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=7)** When design decisions are made, they need to be analyzed on how they impact scalability and performance.
+> **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=7)** When design decisions are made, they need to be analyzed on how they impact [[Scalability]] and performance.
 >
 > **[0:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=15)** In this video, I will review how Spark executes a pipeline and optimizes it.
 >
@@ -603,28 +594,27 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=109)** Finally, when the data is collected back to the driver node, the partitions are merged and sent back to the driver.
 >
-> **[1:56](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=116)** From here, they are stored into external destination databases.
+> **[1:56](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=116)** From here, they are stored into external destination [[Databases]].
 >
 > **[2:01](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980&t=121)** This flow needs to be understood and visualized for any pipeline that we are building to understand bottlenecks and design for scalability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Scalability]] (2), node (2), parallel (2), database (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Databases]] (1)
 > **CLI Commands:** node (2)
 > **Speakers:** - [instructor] (1)
 
-#### Parallel processing with Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980)
+#### [Parallel processing with Spark](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=0)** - [Instructor] Big data processing is all about processing data in parallel to achieve high throughput in less time.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=0)** - [Instructor] [[Big Data]] processing is all about processing data in parallel to achieve high throughput in less time.
 >
-> **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=7)** How does Apache Spark help with this goal?
+> **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=7)** How does [[Apache Spark]] help with this goal?
 >
-> **[0:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=10)** Data processing involves multiple activities, which, in general, can be grouped into the following.
+> **[0:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=10)** [[Data Processing]] involves multiple activities, which, in general, can be grouped into the following.
 >
-> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=16)** First data is read from data sources, like databases.
+> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=16)** First data is read from data sources, like [[Databases]].
 >
 > **[0:20](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=20)** Then various operations, like transformations, data filtering, and validation checks, are performed.
 >
@@ -644,7 +634,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=69)** Subsets of records can be directly read into multiple executor nodes in parallel.
 >
-> **[1:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=75)** For example, it supports partitioning of data by column values for JDBC sources.
+> **[1:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=75)** For example, it supports partitioning of data by column values for [[Java Database Connectivity (JDBC)|JDBC]] sources.
 >
 > **[1:21](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/parallel-processing-with-spark?u=76281980&t=81)** Different executors can read and process different subsets of data, partitioned based on column values.
 >
@@ -690,21 +680,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), parallel (8), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Big Data]] (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Big Data]] (1), [[Apache Spark]] (1), [[Databases]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** apache (2)
 > **Env Vars:** jdbc (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spark execution plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-execution-plan?u=76281980)
+#### [Spark execution plan](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-execution-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-execution-plan?u=76281980&t=0)** - [Instructor] Spark execution plans play an important role in optimizing pipelines.
 >
-> **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-execution-plan?u=76281980&t=5)** When a job is submitted to Apache Spark, it first analyzes all the code given to it and comes up with an execution plan.
+> **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-execution-plan?u=76281980&t=5)** When a job is submitted to [[Apache Spark]], it first analyzes all the code given to it and comes up with an execution plan.
 >
 > **[0:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-execution-plan?u=76281980&t=13)** Spark has an optimizer that analyzes the steps needed to process data and optimizes for performance and resource utilization.
 >
@@ -726,13 +715,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Apache Spark]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1)
 > **CLI Commands:** apache (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stateful stream processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980)
+#### [Stateful stream processing](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,13 +730,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=14)** How does Spark help in this regard?
 >
-> **[0:17](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=17)** Let's start with the feature of checkpointing in Apache Spark.
+> **[0:17](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=17)** Let's start with the feature of checkpointing in [[Apache Spark]].
 >
 > **[0:20](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=20)** Checkpointing is the ability to save the state of the pipeline to a persistent data store like HDFS or S3.
 >
 > **[0:28](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=28)** When a job fails and needs to be restarted, the information saved during checkpointing will be used to resume processing from where it left off.
 >
-> **[0:38](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=38)** Checkpointing will store a number of metadata elements as well as some RDDs at periodic intervals to the checkpoint store.
+> **[0:38](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=38)** Checkpointing will store a number of [[Metadata]] elements as well as some RDDs at periodic intervals to the checkpoint store.
 >
 > **[0:46](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=46)** This includes Kafka offsets, so processing can resume from the last process record.
 >
@@ -768,7 +756,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=101)** It keeps track of the events and their ordering until the watermark has passed and the data is ready for processing.
 >
-> **[1:49](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=109)** Another interesting real-time use case is tracking the state of entities by keys.
+> **[1:49](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=109)** Another interesting [[Real-Time]] use case is tracking the state of entities by keys.
 >
 > **[1:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/stateful-stream-processing?u=76281980&t=114)** For example, if you need to track the state of a browser session in real time, Spark can help track using the browser session ID as the key.
 >
@@ -780,34 +768,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Apache Spark]] (2), data (2), [[Metadata]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[Metadata]] (1), [[Real-Time]] (1)
 > **CLI Commands:** apache (2)
 > **Env Vars:** hdfs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spark analytics and ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980)
+#### [Spark analytics and ML](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=0)** - [Instructor] Analytics and machine learning are two alike domains with data engineering, Apache Spark can also help extend data engineering pipelines to perform analytics and machine learning.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=0)** - [Instructor] Analytics and machine learning are two alike domains with [[Data Engineering]], [[Apache Spark]] can also help extend data engineering pipelines to perform analytics and machine learning.
 >
 > **[0:11](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=11)** Let's start with analytics.
 >
-> **[0:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=13)** Spark supports Spark SQL, a simple, yet powerful SQL interface to perform computations and aggregations.
+> **[0:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=13)** Spark supports Spark [[SQL]], a simple, yet powerful SQL interface to perform computations and aggregations.
 >
 > **[0:21](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=21)** SQL is internally-translated into distributed operations that can efficiently process large datasets.
 >
-> **[0:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=29)** Spark SQL can be used on both batch and real-time streaming pipelines Spark SQL syntax mimics standard SQL.
+> **[0:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=29)** Spark SQL can be used on both batch and [[Real-Time]] streaming pipelines Spark SQL syntax mimics standard SQL.
 >
 > **[0:37](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=37)** It's simple to use and yet powerful to transform, filter, and aggregate data in one single statement.
 >
 > **[0:45](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=45)** SQL-based analytics can be added to the same Spark pipeline that does data engineering, so implementation and deployment becomes easier.
 >
-> **[0:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=54)** Data pipelines can be cascaded with analytics, where the output of one operation can be passed on to downstream operations for further analytics and processing.
+> **[0:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=54)** [[Data Pipelines]] can be cascaded with analytics, where the output of one operation can be passed on to downstream operations for further analytics and processing.
 >
-> **[1:04](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=64)** Results of analytics can either be persisted to databases or sent as streams for downstream consumers.
+> **[1:04](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=64)** Results of analytics can either be persisted to [[Databases]] or sent as streams for downstream consumers.
 >
 > **[1:12](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=72)** How about machine learning with Spark?
 >
@@ -817,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=83)** This includes feature extraction, transformation, and dimensionality reduction.
 >
-> **[1:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=89)** Spark provides some popular machine learning algorithms and can support ML pipelines for both training and inference.
+> **[1:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=89)** Spark provides some popular machine learning [[Algorithms]] and can support ML pipelines for both training and inference.
 >
 > **[1:36](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-analytics-and-ml?u=76281980&t=96)** ML pipelines can be used to stitch data extraction, pre-processing, training, and inference into a single flow.
 >
@@ -827,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (8), [[SQL]] (7), [[Data Engineering]] (5), data (4), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Data Engineering]] (5), [[Apache Spark]] (2), [[Real-Time]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** apache (2)
 > **Cross-References:** in the next (1)
@@ -838,12 +825,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Batch processing use case: Problem statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980)
+#### [Batch processing use case: Problem statement](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=0)** - [Instructor] Having discussed the capabilities for Apache Spark in the earlier chapter, let's now design and implement a batch processing pipeline in this chapter.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=0)** - [Instructor] Having discussed the capabilities for [[Apache Spark]] in the earlier chapter, let's now design and implement a [[Batch Processing]] pipeline in this chapter.
 >
 > **[0:09](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=9)** Let's start off with discussing the business use case we are trying to solve with this pipeline.
 >
@@ -853,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=25)** Warehouses maintain stock of items by location, and distribute them to local stores.
 >
-> **[0:31](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=31)** Each warehouse also has a local data center with all the required hardware, and software deployed in that center.
+> **[0:31](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=31)** Each warehouse also has a local data center with all the required [[Hardware]], and software deployed in that center.
 >
 > **[0:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980&t=39)** A stock management application runs in each warehouse.
 >
@@ -877,18 +863,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[Batch Processing]] (2), [[Apache Spark]] (1), business (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (2), [[Apache Spark]] (1), [[Hardware]] (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch processing use case: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980)
+#### [Batch processing use case: Design](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=0)** - [Instructor] How does the "Batch Data Engineering: Use Case Design" look like?
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=0)** - [Instructor] How does the "Batch [[Data Engineering]]: Use Case Design" look like?
 >
 > **[0:04](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=4)** Let's consider three warehouse locations, namely London, New York, and Los Angeles.
 >
@@ -904,7 +889,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=48)** Files will also be created in Parquet format that allows for parallel reads by Spark.
 >
-> **[0:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=54)** Now, in each local data center, we will run a stock upload job built with Apache Spark.
+> **[0:54](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=54)** Now, in each local data center, we will run a stock upload job built with [[Apache Spark]].
 >
 > **[1:01](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-design?u=76281980&t=61)** This job will run on a daily basis on a local Spark cluster.
 >
@@ -922,18 +907,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (3), concurrent (2), [[Data Engineering]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Apache Spark]] (1)
 > **Code Identifiers:** warehouse_stock (2), global_stock (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** hdfs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the local DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980)
+#### [Setting up the local DB](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=0)** - [Instructor] Let's implement the batch processing pipeline we designed in the previous video.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=0)** - [Instructor] Let's implement the [[Batch Processing]] pipeline we designed in the previous video.
 >
 > **[0:06](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/setting-up-the-local-db?u=76281980&t=6)** The code for this chapter is available in the notebook code_03_XX_Spark_BDE_Batch_Data_Engineering.
 >
@@ -969,15 +953,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (6), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1)
 > **Code Identifiers:** warehouse_stock (2), generate_data (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uploading stock to a central store
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/uploading-stock-to-a-central-store?u=76281980)
+#### [Uploading stock to a central store](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/uploading-stock-to-a-central-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,7 +986,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/uploading-stock-to-a-central-store?u=76281980&t=57)** We will, however, run all of them together in this example for demo purposes.
 >
-> **[1:03](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/uploading-stock-to-a-central-store?u=76281980&t=63)** In this job, we first create a SQL query to find the minimum and maximum values of the ID column for the given date range, and warehouse ID.
+> **[1:03](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/uploading-stock-to-a-central-store?u=76281980&t=63)** In this job, we first create a [[SQL]] query to find the minimum and maximum values of the ID column for the given date range, and warehouse ID.
 >
 > **[1:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/uploading-stock-to-a-central-store?u=76281980&t=74)** The ID is an auto-generated column populated in the source database when new records are inserted.
 >
@@ -1055,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (3), parallel (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** url (2), sql (1), hdfs (1), hgfs (1)
 > **Prerequisites:** required to (1), set up (1)
 > **CLI Commands:** find (1)
@@ -1063,8 +1046,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregating stock across warehouses
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980)
+#### [Aggregating stock across warehouses](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=58)** Next, we create a view on the dataset.
 >
-> **[1:01](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=61)** Creating a view enables us to directly run SQL statements against this table.
+> **[1:01](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=61)** Creating a view enables us to directly run [[SQL]] statements against this table.
 >
 > **[1:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=67)** It makes it easier to do computations and queries this way.
 >
@@ -1108,9 +1090,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=97)** Next, we will write these results to the item stock table in the global stock database.
 >
-> **[1:43](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=103)** Spark allows out-of-the-box capabilities to open data to a JDBC table.
+> **[1:43](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=103)** Spark allows out-of-the-box capabilities to open data to a [[Java Database Connectivity (JDBC)|JDBC]] table.
 >
-> **[1:49](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=109)** Do note that we are using MySQL in the URL instead of MariaDB, since there could be potential issues by using MariaDB in the URL.
+> **[1:49](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=109)** Do note that we are using [[MySQL]] in the URL instead of MariaDB, since there could be potential issues by using MariaDB in the URL.
 >
 > **[1:59](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=119)** This functionality is the same, whether the target database is MySQL or MariaDB.
 >
@@ -1118,7 +1100,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=130)** The job has successfully executed and printed the data processed.
 >
-> **[2:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=135)** We can now crosscheck the counts between the local databases and the global database.
+> **[2:15](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=135)** We can now crosscheck the counts between the local [[Databases]] and the global database.
 >
 > **[2:21](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=141)** This code here does the check.
 >
@@ -1126,11 +1108,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=149)** We can see that the total opening stock receives and issues tally between the two databases.
 >
-> **[2:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=155)** This completes our batch data engineering pipeline, where we acquire data, transport it to a central location, consolidated it, and then persisted in the destination.
+> **[2:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/aggregating-stock-across-warehouses?u=76281980&t=155)** This completes our batch [[Data Engineering]] pipeline, where we acquire data, transport it to a central location, consolidated it, and then persisted in the destination.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), next (2), [[MySQL]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Databases]] (2), [[SQL]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Data Engineering]] (1)
 > **Env Vars:** url (2), sql (1), jdbc (1)
 > **CLI Commands:** mysql (2)
 > **Cross-References:** previous video (1)
@@ -1144,12 +1126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Real-time use case: Problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980)
+#### [Real-time use case: Problem](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980&t=0)** - [Instructor] What will a real-time data engineering solution be like?
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980&t=0)** - [Instructor] What will a [[Real-Time]] [[Data Engineering]] solution be like?
 >
 > **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980&t=5)** Let's design and implement an example real-time data engineering pipeline in this chapter.
 >
@@ -1187,19 +1168,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (5), data (2), [[Engineering]] (2), [[Analytics]] (2), business (1)
+> **Frameworks & Libraries:** [[Real-Time]] (5)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Env Vars:** faq (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time use case: Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980)
+#### [Real-time use case: Design](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=0)** - [Instructor] What does the design for the real-time website analytics use case look like?
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=0)** - [Instructor] What does the design for the [[Real-Time]] website analytics use case look like?
 >
-> **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=5)** We have an e-commerce application that is running in the cloud data center.
+> **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=5)** We have an [[E-Commerce]] application that is running in the cloud data center.
 >
 > **[0:10](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=10)** The application creates user visit records when the user exits the application and publishes them to a Kafka queue called spark.streaming.website.visits.
 >
@@ -1207,7 +1187,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=28)** Even in such cases, the data is streamed into a single central Kafka queue.
 >
-> **[0:33](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=33)** An Apache Spark job called Website Analytics runs and consumes the visit records in real time from the Kafka queue.
+> **[0:33](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=33)** An [[Apache Spark]] job called Website Analytics runs and consumes the visit records in real time from the Kafka queue.
 >
 > **[0:41](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=41)** On the data that is received, it will execute multiple actions.
 >
@@ -1215,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=53)** A table called visit_stats is used to capture that information.
 >
-> **[0:57](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=57)** Next, it maintains a running counter of the total duration by country using a Redis sorted set.
+> **[0:57](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=57)** Next, it maintains a running counter of the total duration by country using a [[Redis]] sorted set.
 >
 > **[1:04](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-design?u=76281980&t=64)** Finally, it filters those visits, which ended in the shopping cart, and publishes them to the spark.streaming.carts.abandoned topic.
 >
@@ -1233,14 +1213,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (4), [[Real-Time]] (3), [[Analytics]] (2), database (2)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Redis]] (2), [[E-Commerce]] (1), [[Apache Spark]] (1)
 > **Code Identifiers:** website_stats (1), visit_stats (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating a visits data stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/generating-a-visits-data-stream?u=76281980)
+#### [Generating a visits data stream](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/generating-a-visits-data-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,14 +1269,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **Prerequisites:** setup (1), prerequisite (1)
 > **Env Vars:** bde (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a website analytics job
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980)
+#### [Building a website analytics job](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1307,7 +1284,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=13)** We first define a few methods.
 >
-> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=16)** We first have the right to Redis method that updates Redis with the last action stats.
+> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=16)** We first have the right to [[Redis]] method that updates Redis with the last action stats.
 >
 > **[0:22](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=22)** Here we connect to the Redis instance running on the local Docker container.
 >
@@ -1329,7 +1306,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=73)** Then we initiate a Spark session with local as the master.
 >
-> **[1:19](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=79)** This runs an embedded PySpark instance.
+> **[1:19](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=79)** This runs an embedded [[PySpark]] instance.
 >
 > **[1:24](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-website-analytics-job?u=76281980&t=84)** We then proceed to subscribe and receive visit data from the Kafka topic.
 >
@@ -1363,19 +1340,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (4), data (4), [[Analytics]] (2), database (1), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[Redis]] (4), [[PySpark]] (1)
 > **CLI Commands:** docker (1), find (1)
 > **Env Vars:** csv (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Executing the real-time pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980)
+#### [Executing the real-time pipeline](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=0)** - [Instructor] The realtime pipeline writes to three different destinations, namely Kafka, MariaDB, and Redis.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=0)** - [Instructor] The realtime pipeline writes to three different destinations, namely Kafka, MariaDB, and [[Redis]].
 >
 > **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=7)** We need to monitor these destinations to make sure that they are updated while the pipeline is running.
 >
@@ -1391,11 +1367,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=35)** Finally, we connect to MariaDB to get the website stats.
 >
-> **[0:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=39)** We get the total duration by last action using the summary stat SQL.
+> **[0:39](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=39)** We get the total duration by last action using the summary stat [[SQL]].
 >
 > **[0:45](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=45)** Now we go into a monitoring loop.
 >
-> **[0:48](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=48)** We first fetch the Kafka messages in the abandoned cards topic, and print them.
+> **[0:48](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=48)** We first [[Fetch]] the Kafka messages in the abandoned cards topic, and print them.
 >
 > **[0:53](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/executing-the-real-time-pipeline?u=76281980&t=53)** Then we get the current scores in Redis, and print them.
 >
@@ -1429,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (5), data (2), next (1), [[SQL]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Redis]] (5), [[SQL]] (1), [[Fetch]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -1441,18 +1417,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Batch vs. real-time options
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980)
+#### [Batch vs. real-time options](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=0)** - [Instructor] When building an Apache Spark pipeline, would you choose a batch or a real-time pipeline?
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=0)** - [Instructor] When building an [[Apache Spark]] pipeline, would you choose a batch or a [[Real-Time]] pipeline?
 >
 > **[0:06](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=6)** Data engineers and architects have a tendency to build all pipelines as real-time pipelines whenever possible.
 >
 > **[0:14](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=14)** The key justification is that it is super fast, would generate the required insights instantly, and enable business actions.
 >
-> **[0:22](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=22)** It is also considered cool in the data engineering world.
+> **[0:22](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=22)** It is also considered cool in the [[Data Engineering]] world.
 >
 > **[0:25](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=25)** But before jumping into building realtime pipelines, we need to understand the complexities involved.
 >
@@ -1486,33 +1461,32 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=123)** Choose realtime pipelines only when the use case demands it.
 >
-> **[2:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=127)** You can also build hybrid pipelines where part of the pipeline is realtime and the rest is batch.
+> **[2:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=127)** You can also build hybrid pipelines where part of the pipeline is realtime and the [[Representational State Transfer (REST)|rest]] is batch.
 >
 > **[2:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980&t=133)** We will execute such a hybrid use case in our course exercise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (7), data (2), management (2), [[Analytics]] (2), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (7), [[Apache Spark]] (1), [[Data Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), apache (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling extraction and loading operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980)
+#### [Scaling extraction and loading operations](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=0)** - [Presenter] When scaling a data engineering pipeline, all stages in the pipeline need to scale in order for the entire pipeline to scale.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=0)** - [Presenter] When scaling a [[Data Engineering]] pipeline, all stages in the pipeline need to scale in order for the entire pipeline to scale.
 >
 > **[0:08](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=8)** Extracting data and loading process data into destinations are time-consuming as they usually deal with discreets and rights.
 >
-> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=16)** How do we scale these steps when building pipelines with Apache Spark?
+> **[0:16](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=16)** How do we scale these steps when building pipelines with [[Apache Spark]]?
 >
 > **[0:21](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=21)** Let's start with data extraction.
 >
 > **[0:24](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=24)** Spark supports parallel extraction of data from various data sources.
 >
-> **[0:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=29)** For example, Spark can read JDBC records in parallel across its executors.
+> **[0:29](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=29)** For example, Spark can read [[Java Database Connectivity (JDBC)|JDBC]] records in parallel across its executors.
 >
 > **[0:35](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-extraction-and-loading-operations?u=76281980&t=35)** Similarly, it can divide up Kafka partitions between executors and process them in parallel.
 >
@@ -1548,19 +1522,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), parallel (8), [[Data Engineering]] (2), [[Apache Spark]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Apache Spark]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** jdbc (1), rdbms (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Scaling processing operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-processing-operations?u=76281980)
+#### [Scaling processing operations](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-processing-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-processing-operations?u=76281980&t=0)** - [Instructor] How can we scale processing of data with Apache Spark?
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-processing-operations?u=76281980&t=0)** - [Instructor] How can we scale processing of data with [[Apache Spark]]?
 >
 > **[0:05](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/scaling-processing-operations?u=76281980&t=5)** Apache Spark is built for massive distributed operations, but care should be taken during pipeline design to avoid choke points and shuffles between executors.
 >
@@ -1584,19 +1557,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[Apache Spark]] (2)
 > **CLI Commands:** apache (2)
 > **Env Vars:** rds (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building resiliency
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980)
+#### [Building resiliency](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980&t=0)** - [Lecturer] When we build scalable data pipelines, we also need to build resilience into them to make sure that the pipelines can support critical operations and deliver reliable outcomes.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980&t=0)** - [Lecturer] When we build scalable [[Data Pipelines]], we also need to build resilience into them to make sure that the pipelines can support critical operations and deliver reliable outcomes.
 >
-> **[0:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980&t=13)** Apache Spark provides various resilience capabilities out of the box against failures.
+> **[0:13](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980&t=13)** [[Apache Spark]] provides various resilience capabilities out of the box against failures.
 >
 > **[0:19](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-resiliency?u=76281980&t=19)** It handles failures at a task level, stage level, and executor level.
 >
@@ -1624,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Apache Spark]] (2), node (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[Data Pipelines]] (1)
 > **CLI Commands:** make (2), apache (2), node (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [lecturer] (1)
@@ -1634,12 +1606,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project exercise requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980)
+#### [Project exercise requirements](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=0)** - [Instructor] Having learned about data engineering with Apache Spark, let's implement them in an end-to-end project.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=0)** - [Instructor] Having learned about [[Data Engineering]] with [[Apache Spark]], let's implement them in an end-to-end project.
 >
 > **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=7)** This is an exercise for the students to try out by themselves and then refer to the solutions provided in the chapter.
 >
@@ -1663,24 +1634,23 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=83)** Then analyze the significant actions in the Kafka topic in real time and maintain a running counter of the significant last actions by action name.
 >
-> **[1:33](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=93)** This use case combines a batch processing task and a real-time processing task and is an example of an hybrid pipeline.
+> **[1:33](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=93)** This use case combines a [[Batch Processing]] task and a [[Real-Time]] processing task and is an example of an hybrid pipeline.
 >
 > **[1:42](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=102)** The example itself is made, but will demonstrate the use of the techniques learned in the course.
 >
 > **[1:48](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=108)** Best of luck for the exercise.
 >
-> **[1:50](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=110)** Please refer to the rest of the videos in this chapter after you have completed this exercise.
+> **[1:50](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980&t=110)** Please refer to the [[Representational State Transfer (REST)|rest]] of the videos in this chapter after you have completed this exercise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Apache Spark]] (1), data (1), next (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Apache Spark]] (1), [[Batch Processing]] (1), [[Real-Time]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** apache (1), make (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution design
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/solution-design?u=76281980)
+#### [Solution design](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/solution-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,7 +1670,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/solution-design?u=76281980&t=37)** This job will listen to the Kafka topic in real time.
 >
-> **[0:40](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/solution-design?u=76281980&t=40)** The job will maintain a Redis sorted set to track lost actions and their counts.
+> **[0:40](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/solution-design?u=76281980&t=40)** The job will maintain a [[Redis]] sorted set to track lost actions and their counts.
 >
 > **[0:45](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/solution-design?u=76281980&t=45)** Each time a last action is received from the topic, the sorted set will be incremented for that specific action.
 >
@@ -1708,13 +1678,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Redis]] (1), next (1)
+> **Frameworks & Libraries:** [[Redis]] (1)
 > **Code Identifiers:** visit_stats (1), website_stats (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting long last actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/extracting-long-last-actions?u=76281980)
+#### [Extracting long last actions](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/extracting-long-last-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1719,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), next (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** faq (1)
@@ -1758,8 +1726,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a scorecard
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-scorecard?u=76281980)
+#### [Building a scorecard](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-scorecard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1767,7 +1734,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-scorecard?u=76281980&t=7)** The code for this job is available in code 06_04_Spark_BDE_scorecard_for_last_action notebook.
 >
-> **[0:17](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-scorecard?u=76281980&t=17)** To help with managing the Redis sorted set, we also have the write_to_redis function.
+> **[0:17](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-scorecard?u=76281980&t=17)** To help with managing the [[Redis]] sorted set, we also have the write_to_redis function.
 >
 > **[0:23](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/building-a-scorecard?u=76281980&t=23)** The Redis writer maintains a sorted set called long-last-action-stats on the Redis instance running on Docker.
 >
@@ -1799,7 +1766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (6), data (1)
+> **Frameworks & Libraries:** [[Redis]] (6)
 > **Code Identifiers:** last_action (3), write_to_redis (1), raw_last_action (1), writestream (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** previous video (1)
@@ -1810,12 +1777,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More about Apache Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980)
+#### [More about Apache Spark](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980&t=0)** - [Kumaran] Now that you have learned about how to build data engineering use cases with Apache Spark, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980&t=0)** - [Kumaran] Now that you have learned about how to build [[Data Engineering]] use cases with [[Apache Spark]], you can take your learning even further.
 >
 > **[0:09](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980&t=9)** First, learn more about batch and stream processing use cases with Apache Spark with other courses in this platform.
 >
@@ -1831,7 +1797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Apache Spark]] (2), data (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Apache Spark]] (2)
 > **CLI Commands:** apache (3), find (1)
 > **Speakers:** - [kumaran] (1)
 

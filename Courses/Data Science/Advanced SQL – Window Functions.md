@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=0)** (bright music)
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=9)** - [Ami] You're an experienced SQL developer.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=9)** - [Ami] You're an experienced [[SQL]] developer.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=11)** You manage to get stuff done in time.
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=45)** And you already know that when it gets to QA, they will scream to high Heaven because of the query's horrendous performance.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=54)** Window functions literally open new windows of processing logic and solution opportunities that once seen can't be unseen.
+> **[0:54](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=54)** Window functions literally open new [[Windows]] of processing logic and solution opportunities that once seen can't be unseen.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980&t=64)** This course will save you hours of hair pulling, allow you to write queries that are clear, elegant and efficient.
 >
@@ -150,13 +149,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Windows]] (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [ami] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Course agenda
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/course-agenda?u=76281980)
+#### [Course agenda](https://www.linkedin.com/learning/advanced-sql-window-functions/course-agenda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,13 +194,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-sql-window-functions/course-agenda?u=76281980&t=87)** Lastly, we will learn about offset window functions.
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-sql-window-functions/course-agenda?u=76281980&t=91)** These are going to become a vital tool in your arsenal no matter what you do with SQL.
+> **[1:31](https://www.linkedin.com/learning/advanced-sql-window-functions/course-agenda?u=76281980&t=91)** These are going to become a vital tool in your arsenal no matter what you do with [[SQL]].
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-sql-window-functions/course-agenda?u=76281980&t=97)** To wrap things up, I'll spend a few minutes reviewing what we've learned, provide some advice on where to go next, solicit your feedback, give you some homework, and say proper goodbye.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), database (1), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -212,26 +210,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools and demo database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980)
+#### [Tools and demo database](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=1)** - [Instructor] I'll be using the PostgreSQL relational database management system for all demos and challenges.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=1)** - [Instructor] I'll be using the [[PostgreSQL]] relational [[Database Management]] system for all demos and challenges.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=7)** To save my throat and your time, I'm going to use the term database instead of relational database management system, and Postgres instead of PostgreSQL.
+> **[0:07](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=7)** To save my throat and your time, I'm going to use the term database instead of relational database management system, and [[PostgreSQL|Postgres]] instead of PostgreSQL.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=20)** Postgres offers one of the richest window function support among all mainstream databases.
+> **[0:20](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=20)** Postgres offers one of the richest window function support among all mainstream [[Databases]].
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=26)** And I reserve the right to mention other databases whose implementation differences may be a value or just to publicly shame them.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=35)** I'll be using Microsoft Azure data studio integrated development environment with a Postgres extension.
+> **[0:35](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=35)** I'll be using [[Microsoft Azure]] data studio integrated development environment with a Postgres extension.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=43)** If you don't have access to an instance of Postgres, you can still use an online query service.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=50)** These services requires zero installation, they're 100% a web based, and even the server is hosted by the service providers.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=58)** You might be familiar with some of these like SQL Fiddle, DB Fiddle and Rextester to name a few.
+> **[0:58](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=58)** You might be familiar with some of these like [[SQL]] Fiddle, DB Fiddle and Rextester to name a few.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=64)** My favorite one, however, is DB Fiddle UK.
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=210)** There's your primary key.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=212)** This has devastating results for data consistency, query convolution, workload performance, modularity, scalability, concurrency and I can go on and on.
+> **[3:32](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=212)** This has devastating results for data consistency, query convolution, workload performance, modularity, [[Scalability]], concurrency and I can go on and on.
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=225)** I would love to release a course dedicated to this topic.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=251)** To fit this database in DB Fiddle, I use the subset of the tables from the full project with only a few hundred rows of data.
 >
-> **[4:19](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=259)** If you visit the Github project page, you'll see that I've included many more reference data tables.
+> **[4:19](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=259)** If you visit the [[GitHub]] project page, you'll see that I've included many more reference data tables.
 >
 > **[4:26](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980&t=266)** These are a must have for any external authority data.
 >
@@ -305,7 +302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (7), [[PostgreSQL|Postgres]] (4), [[Databases]] (3), [[PostgreSQL]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (4), [[Databases]] (3), [[PostgreSQL]] (2), [[Database Management]] (2), [[SQL]] (2)
 > **CLI Commands:** find (4)
 > **Env Vars:** sql (2)
 > **Tools:** notion (1), github (1)
@@ -313,8 +310,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the demo and exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/using-the-demo-and-exercise-files?u=76281980)
+#### [Using the demo and exercise files](https://www.linkedin.com/learning/advanced-sql-window-functions/using-the-demo-and-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-window-functions/using-the-demo-and-exercise-files?u=76281980&t=36)** All code files can be downloaded from the course's page.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-window-functions/using-the-demo-and-exercise-files?u=76281980&t=39)** I'm going to host them on GitHub as well, and you'll find the links in the code files.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-window-functions/using-the-demo-and-exercise-files?u=76281980&t=39)** I'm going to host them on [[GitHub]] as well, and you'll find the links in the code files.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-sql-window-functions/using-the-demo-and-exercise-files?u=76281980&t=45)** I invite you to provide feedback, either on GitHub or in the course's Q&A section.
 
@@ -344,8 +340,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical query processing review
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980)
+#### [Logical query processing review](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=111)** ORDER BY sorts the data set and at this point, it ceases to be a set and becomes a cursor.
 >
-> **[1:58](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=118)** The cursor can be further processed by the query's final clause, the OFFSET FETCH, also known as LIMIT OFFSET, where it is sliced into manageable bite-sized pages for user consumption.
+> **[1:58](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=118)** The cursor can be further processed by the query's final clause, the OFFSET [[Fetch]], also known as LIMIT OFFSET, where it is sliced into manageable bite-sized pages for user consumption.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=133)** Let's review this process once again from a different angle.
 >
@@ -425,13 +420,13 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=229)** At this point, you might be wondering why you should even care about it, but oh, boy should you!
 >
-> **[3:56](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=236)** Query processing order is one of the most fundamental aspects of SQL with far reaching implications, and window functions are no exception.
+> **[3:56](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=236)** Query processing order is one of the most fundamental aspects of [[SQL]] with far reaching implications, and window functions are no exception.
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-sql-window-functions/logical-query-processing-review?u=76281980&t=247)** So now that we have a general idea of how query processing works, let's see how window functions fit in this grand-scheme.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Fetch]] (2), application (1), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[SQL]] (1)
 > **Env Vars:** select (6), group (4), having (4), where (3), order (3)
 > **SQL:** select (6), group by (4), having (4), where (3), order by (3)
 > **Definitions:** known as (1)
@@ -442,8 +437,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How window functions fit in query processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980)
+#### [How window functions fit in query processing](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +513,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980&t=202)** So, as you can see, the order of predicate evaluation determined the result.
 >
-> **[3:29](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980&t=209)** SQL does not allow for such ambiguities.
+> **[3:29](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980&t=209)** [[SQL]] does not allow for such ambiguities.
 >
 > **[3:32](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980&t=212)** It doesn't make any sense, and in fact, there is no order to predicate evaluation no matter which one we spell first.
 >
@@ -531,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (2), cat (1)
 > **Env Vars:** where (2), sql (1)
 > **SQL:** where (2)
@@ -540,8 +534,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview and filter clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980)
+#### [Overview and filter clause](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,7 +564,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=61)** Like the WHERE clause, FILTER limits the scope of the window with logical predicates.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=66)** But unlike the WHERE that eliminated rows from the dataset and affected the rest of the query, FILTER limits the viewing scope only for the function where it lives.
+> **[1:06](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=66)** But unlike the WHERE that eliminated rows from the dataset and affected the [[Representational State Transfer (REST)|rest]] of the query, FILTER limits the viewing scope only for the function where it lives.
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=78)** It has no side effects whatsoever on any other aspect of the query.
 >
@@ -625,7 +618,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=247)** Whether the query optimizer seizes these opportunities is a different question.
 >
-> **[4:13](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=253)** On my PC, using PostgreSQL 12, the window function solution's total cost is around 6.5, versus nine for the subquery solution.
+> **[4:13](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=253)** On my PC, using [[PostgreSQL]] 12, the window function solution's total cost is around 6.5, versus nine for the subquery solution.
 >
 > **[4:23](https://www.linkedin.com/learning/advanced-sql-window-functions/overview-and-filter-clause?u=76281980&t=263)** It may sound like a lot, but these queries are so cheap that I doubt it will be even noticeable.
 >
@@ -633,7 +626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** filter (4), where (4), max (2), count (2)
 > **SQL:** where (4)
 > **Definitions:** is a  (3)
@@ -641,8 +634,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### PARTITION BY and ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/partition-by-and-order-by?u=76281980)
+#### [PARTITION BY and ORDER BY](https://www.linkedin.com/learning/advanced-sql-window-functions/partition-by-and-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/advanced-sql-window-functions/partition-by-and-order-by?u=76281980&t=230)** It serves completely different purposes using the same syntax which is never a good idea.
 >
-> **[3:57](https://www.linkedin.com/learning/advanced-sql-window-functions/partition-by-and-order-by?u=76281980&t=237)** I wish the ASCII SQL committee would've come up with a better syntax choice.
+> **[3:57](https://www.linkedin.com/learning/advanced-sql-window-functions/partition-by-and-order-by?u=76281980&t=237)** I wish the ASCII [[SQL]] committee would've come up with a better syntax choice.
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-sql-window-functions/partition-by-and-order-by?u=76281980&t=242)** But unfortunately, that's water under the bridge.
 >
@@ -736,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** cat (1), find (1), make (1)
 > **Env Vars:** ascii (1), sql (1)
 > **Definitions:** is a  (2)
@@ -747,8 +739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Framing rows and ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/framing-rows-and-ranges?u=76281980)
+#### [Framing rows and ranges](https://www.linkedin.com/learning/advanced-sql-window-functions/framing-rows-and-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,7 +879,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (2)
 > **Env Vars:** preceding (8), range (7), current (7), row (7), following (6)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), refers to (1), is a  (1)
@@ -897,8 +887,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical framing examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/practical-framing-examples?u=76281980)
+#### [Practical framing examples](https://www.linkedin.com/learning/advanced-sql-window-functions/practical-framing-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1009,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** previous chapter (1), coming up (1)
 > **Definitions:** is a  (2)
@@ -1028,12 +1016,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defaults, shortcuts, exclusions, and null handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980)
+#### [Defaults, shortcuts, exclusions, and null handling](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=1)** - [Instructor] The ANSI SQL standard defines shortcuts for frame boundary definitions by omitting the between keyword and one of the boundaries.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=1)** - [Instructor] The ANSI [[SQL]] standard defines shortcuts for frame boundary definitions by omitting the between keyword and one of the boundaries.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=11)** So, instead of specifying between unbounded preceding and current row, we can just say unbounded preceding and current row will be assumed as the frame and vice versa for unbounded following.
 >
@@ -1051,7 +1038,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=67)** These shortcuts may seem like a good idea at first, but I found that saving a few keystrokes may end up introducing confusion and bugs and it's just not worth it.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=80)** As a rule of thumb, I recommend avoiding most syntax shortcuts, your code will be more readable and more portable, as not all databases support all shortcuts.
+> **[1:20](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=80)** As a rule of thumb, I recommend avoiding most syntax shortcuts, your code will be more readable and more portable, as not all [[Databases]] support all shortcuts.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-sql-window-functions/defaults-shortcuts-exclusions-and-null-handling?u=76281980&t=93)** While the frame boundary shortcuts that we see here aren't terribly bad, the next one is.
 >
@@ -1123,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3), next (2), functional (1), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (3)
 > **Env Vars:** order (5), ansi (4), sql (4), null (1)
 > **SQL:** order by (5)
 > **Cross-References:** later in (1), next chapter (1)
@@ -1137,8 +1124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aggregate grouped functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-grouped-functions?u=76281980)
+#### [Aggregate grouped functions](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-grouped-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,24 +1205,23 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980)
+#### [Aggregate window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=1)** - [Narrator] These are the common categories for aggregate functions.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=4)** Most databases support most aggregate group functions as aggregate window functions too.
+> **[0:04](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=4)** Most [[Databases]] support most aggregate group functions as aggregate window functions too.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=12)** You've probably used a few of these before, most likely, the arithmetic ones.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=18)** Trivia fact, the word arithmetic comes from number art.
+> **[0:18](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=18)** Trivia fact, the [[Microsoft Word|word]] arithmetic comes from number art.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=23)** Arithmos is number and tic is art.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=27)** The NC SQL standard defines Boolean aggregate functions called every, any and some.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=27)** The NC [[SQL]] standard defines Boolean aggregate functions called every, any and some.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=34)** Array aggregations are often extended to support JSON and XML formats.
+> **[0:34](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=34)** Array aggregations are often extended to support [[JSON]] and XML formats.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-window-functions?u=76281980&t=39)** Statistical aggregates are plentiful and we're going to see a few later.
 >
@@ -1306,13 +1291,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), feature (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), [[JSON]] (1)
 > **Env Vars:** sql (2), cte (2), json (1), xml (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Combining grouped and window aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980)
+#### [Combining grouped and window aggregate functions](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,7 +1376,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=287)** This query is valid and returns the desired result.
 >
-> **[4:52](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=292)** However, this monstrous expression isn't the prettiest manifestation of SQL and if you find it confusing and hard to read, you're not alone.
+> **[4:52](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=292)** However, this monstrous expression isn't the prettiest manifestation of [[SQL]] and if you find it confusing and hard to read, you're not alone.
 >
 > **[5:02](https://www.linkedin.com/learning/advanced-sql-window-functions/combining-grouped-and-window-aggregate-functions?u=76281980&t=302)** Therefore, I recommend separating the grouped query from the window function with a common table expression to improve its readability.
 >
@@ -1404,14 +1388,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** count (6), sum (4), sql (1), cte (1)
 > **CLI Commands:** make (4), find (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Aggregate window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980)
+#### [Challenge: Aggregate window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,7 +1408,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=27)** On one hand, a challenge that is too difficult will require much effort and may discourage you.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=33)** On the other hand, a trivial one kind of misses the whole point of a challenge and for me, solving a tough challenge is one of the most rewarding experiences of SQL.
+> **[0:33](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=33)** On the other hand, a trivial one kind of misses the whole point of a challenge and for me, solving a tough challenge is one of the most rewarding experiences of [[SQL]].
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=45)** And the more time and effort I need to invest in it, the greater the reward.
 >
@@ -1443,7 +1426,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=95)** I love seeing solutions that I learn from.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=98)** If you're using a database other than Postgres, you may need to use different syntax and find alternatives for unsupported features.
+> **[1:38](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=98)** If you're using a database other than [[PostgreSQL|Postgres]], you may need to use different syntax and find alternatives for unsupported features.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-aggregate-window-functions?u=76281980&t=107)** However, you may find even better solutions using features that Postgres doesn't support.
 >
@@ -1453,14 +1436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL|Postgres]] (2), generic (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** find (5)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Aggregate window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-aggregate-window-functions?u=76281980)
+#### [Solution: Aggregate window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-aggregate-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1502,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Debugging]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cte (2)
 > **Definitions:** is a  (2)
@@ -1532,8 +1513,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The concept of rank
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980)
+#### [The concept of rank](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=17)** Reducing or simplifying a set of attributes to a numeric sequence or ratio is extremely useful for evaluating complex datasets.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=28)** The ANSI SQL standard defines two window functions in the Rank category, RANK and DENSE_RANK.
+> **[0:28](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=28)** The ANSI [[SQL]] standard defines two window functions in the Rank category, RANK and DENSE_RANK.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=35)** I've decided to include two more functions for this chapter, even though they're not considered by ANSI to be true Rank functions.
 >
@@ -1565,7 +1545,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=85)** Framing doesn't make sense for Rank functions, as a rank of an expression is always relative to others within its partition.
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=93)** We can rank products based on size, popularity, price, age, or any other set of attributes.
+> **[1:33](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=93)** We can rank [[Microsoft Products|products]] based on size, popularity, price, age, or any other set of attributes.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980&t=100)** Let's start with the somewhat simpler ROW_NUMBER and NTILE.
 
@@ -1578,8 +1558,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### ROW_NUMBER and NTILE
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/row-number-and-ntile?u=76281980)
+#### [ROW_NUMBER and NTILE](https://www.linkedin.com/learning/advanced-sql-window-functions/row-number-and-ntile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,15 +1666,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** cte (6)
 > **CLI Commands:** find (3), cat (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### RANK and DENSE_RANK
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/rank-and-dense-rank?u=76281980)
+#### [RANK and DENSE_RANK](https://www.linkedin.com/learning/advanced-sql-window-functions/rank-and-dense-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,22 +1752,21 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/advanced-sql-window-functions/rank-and-dense-rank?u=76281980&t=257)** And now you know what all these rank functions can do for you.
 >
-> **[4:21](https://www.linkedin.com/learning/advanced-sql-window-functions/rank-and-dense-rank?u=76281980&t=261)** And with that, I rest my case.
+> **[4:21](https://www.linkedin.com/learning/advanced-sql-window-functions/rank-and-dense-rank?u=76281980&t=261)** And with that, I [[Representational State Transfer (REST)|rest]] my case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cat (1), find (1)
 > **Code Identifiers:** dense_rank (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [man] (1)
 
-#### Distribution window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980)
+#### [Distribution window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=1)** - [Instructor] A cumulative distribution function, describes the probability that our random variable X evaluated at n, we'll take a value that is less than or equal to n.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=1)** - [Instructor] A cumulative distribution function, describes the [[Probability]] that our random variable X evaluated at n, we'll take a value that is less than or equal to n.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=13)** As a highly simplified example, consider a standard six side playing dice.
 >
@@ -1804,7 +1780,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=64)** The NCC equal standard defines distribution window functions as functions that compute a relative rank over a row R, within a window partition of R, expressed as an approximate numeric ratio between 0.0 and 1.0.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=83)** SQL supports two variants of distribution window functions, percent rank and cumulative distribution.
+> **[1:23](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=83)** [[SQL]] supports two variants of distribution window functions, percent rank and cumulative distribution.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-sql-window-functions/distribution-window-functions?u=76281980&t=90)** Their syntax is similar to that of ranking dense rank, both functions take no arguments, have an optional partition by clause and the mandatory order by clause.
 >
@@ -1848,7 +1824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[SQL]] (1)
 > **Env Vars:** cte (2), ncc (1), sql (1)
 > **Versions:** 0.0 (1), 1.0 (1), 3.13 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1856,8 +1832,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Rank window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-rank-window-functions?u=76281980)
+#### [Challenge: Rank window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-rank-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,15 +1856,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Rank window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980)
+#### [Solution: Rank window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-rank-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1951,7 +1924,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ntile (3), cte (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** make sure to (1)
@@ -1962,8 +1934,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Offset window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/offset-window-functions?u=76281980)
+#### [Offset window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/offset-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1997,12 +1968,11 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Row offset window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980)
+#### [Row offset window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=1)** - [Instructor] All Offset functions require a mandatory expression for what we want to fetch from the other row.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=1)** - [Instructor] All Offset functions require a mandatory expression for what we want to [[Fetch]] from the other row.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=9)** Row Offset functions have two additional optional parameters.
 >
@@ -2072,9 +2042,9 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=211)** We can't use an integer literal as it is incompatible data type as well.
 >
-> **[3:37](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=217)** Side note, I guess that PostgreSQL could have been a little bit more lenient here and implicitly convert the integer literal to a numeric for us.
+> **[3:37](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=217)** Side note, I guess that [[PostgreSQL]] could have been a little bit more lenient here and implicitly convert the integer literal to a numeric for us.
 >
-> **[3:47](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=227)** Other databases like SQL Server do that.
+> **[3:47](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=227)** Other [[Databases]] like [[Microsoft SQL Server|SQL Server]] do that.
 >
 > **[3:51](https://www.linkedin.com/learning/advanced-sql-window-functions/row-offset-window-functions?u=76281980&t=231)** That said, and if you know me just a little by now, you know that I will never complain about a database being too strict.
 >
@@ -2098,7 +2068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), [[Fetch]] (1), strengths (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[PostgreSQL]] (1), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** null (5), order (4), respect (2), nulls (2), partition (2)
 > **SQL:** order by (4)
 > **Definitions:** is a  (2), is an  (1), refers to (1)
@@ -2107,12 +2077,11 @@ created: 2026-05-02
 > **Versions:** 0.0 (1)
 > **Analogies:** for example (1)
 
-#### Frame offset window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980)
+#### [Frame offset window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=1)** - [Instructor] Like the row offset functions, frame offset functions require a mandatory value to fetch expression.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=1)** - [Instructor] Like the row offset functions, frame offset functions require a mandatory value to [[Fetch]] expression.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=8)** Nth value also requires an offset specification.
 >
@@ -2128,7 +2097,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=47)** Wouldn't it be nice if the frame and nth value could use different sort orders.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=53)** As for the frame definition, mandatory is a bit of a strong word as we can omit it and specify only the order by.
+> **[0:53](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=53)** As for the frame definition, mandatory is a bit of a strong [[Microsoft Word|word]] as we can omit it and specify only the order by.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=62)** I highly recommend that you don't, as if you do, a frame will be assumed for you and it happens to be the same unfortunate one we saw for aggregate functions, range between, unbounded preceding and current row.
 >
@@ -2186,7 +2155,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=294)** You may recall that range frames are data type dependent and checkup time is a timestamp.
 >
-> **[5:02](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=302)** Postgres timestamps include the time of day with a resolution up to a microsecond.
+> **[5:02](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=302)** [[PostgreSQL|Postgres]] timestamps include the time of day with a resolution up to a microsecond.
 >
 > **[5:09](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=309)** This means that the frame will catch a previous checkup only if it happened to take place precisely three months ago to the microsecond, and that's not very likely.
 >
@@ -2212,7 +2181,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=411)** And the error message is somewhat misleading.
 >
-> **[6:55](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=415)** Other databases have no problem with it, and the workaround is simple, just wrap it in a CTE and sort in the following query.
+> **[6:55](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=415)** Other [[Databases]] have no problem with it, and the workaround is simple, just wrap it in a CTE and sort in the following query.
 >
 > **[7:05](https://www.linkedin.com/learning/advanced-sql-window-functions/frame-offset-window-functions?u=76281980&t=425)** I would also add nulls last, so we don't have to scroll down to see our first real result.
 >
@@ -2226,7 +2195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), [[Microsoft Word|Word]] (1), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** cte (2)
 > **Warnings:** note that (2)
@@ -2235,8 +2204,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
 
-#### Challenge: Offset window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-offset-window-functions?u=76281980)
+#### [Challenge: Offset window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/challenge-offset-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2258,8 +2226,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Offset window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-offset-window-functions?u=76281980)
+#### [Solution: Offset window functions](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-offset-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2285,7 +2252,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-offset-window-functions?u=76281980&t=68)** And, there's nothing wrong with this approach, and in fact, I used it for the alternative query, which you know where to find.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-offset-window-functions?u=76281980&t=76)** What I did choose to use is a very powerful, but unfortunately less frequently used feature of SQL called grouping sets.
+> **[1:16](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-offset-window-functions?u=76281980&t=76)** What I did choose to use is a very powerful, but unfortunately less frequently used feature of [[SQL]] called grouping sets.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-sql-window-functions/solution-offset-window-functions?u=76281980&t=86)** Grouping sets create multiple row groups in a single query.
 >
@@ -2339,7 +2306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2), coalesce (2), make_date (1), date_part (1), count (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
@@ -2351,8 +2318,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review, conclusion, and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980)
+#### [Review, conclusion, and next steps](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2376,7 +2342,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=64)** If you haven't watched my query processing course yet, it's not too late.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=69)** After completing this course, it will be easier to follow, and will help put some of the more basic SQL constructs into an even tighter framework.
+> **[1:09](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=69)** After completing this course, it will be easier to follow, and will help put some of the more basic [[SQL]] constructs into an even tighter framework.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=79)** Window functions are your friends, and one of your most valuable tools no matter where you're heading with your SQL career.
 >
@@ -2384,7 +2350,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=95)** I promise to make good use of window functions to solve all kinds of nifty challenges, and there's no shortage of good challenges.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=105)** LinkedIn Learning is an endless resource of quality content.
+> **[1:45](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=105)** [[LinkedIn]] Learning is an endless resource of quality content.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=109)** With so many options, choosing the right course to spend your valuable time watching isn't a simple task.
 >
@@ -2392,7 +2358,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=130)** Don't get me wrong, there's nothing immoral about learning how to get your hands dirty fast, but only as a starting point.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=139)** Unfortunately, I often see developers stuck at the Stack Overflow copy paste paradigm for the rest of their SQL careers.
+> **[2:19](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=139)** Unfortunately, I often see developers stuck at the Stack Overflow copy paste paradigm for the [[Representational State Transfer (REST)|rest]] of their SQL careers.
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=148)** Don't be tempted by instant solutions, not for SQL, and not in your life.
 >
@@ -2438,7 +2404,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=279)** Our human brains work in mysterious ways.
 >
-> **[4:42](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=282)** They're complex neural networks, and learning triggers new pathways and memories.
+> **[4:42](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=282)** They're complex [[Neural Networks]], and learning triggers new pathways and memories.
 >
 > **[4:47](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980&t=287)** These pathways are volatile, and without practice they will soon fade away.
 >
@@ -2470,7 +2436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), career (2), [[LinkedIn]] (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[LinkedIn]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Neural Networks]] (1)
 > **Env Vars:** sql (8), dense_rank (1)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** we covered (1)

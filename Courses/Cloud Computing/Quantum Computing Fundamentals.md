@@ -125,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn quantum computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980)
+#### [Learn quantum computing](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980&t=46)** This course will explore the abstract models we use to describe quantum computation, giving you the building blocks you need to write your own quantum programs.
 >
-> **[0:54](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980&t=54)** - We'll also dive into a couple of quantum algorithms, and by the end of this course, you'll be able to write and run those algorithms on real quantum hardware.
+> **[0:54](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980&t=54)** - We'll also dive into a couple of quantum [[Algorithms]], and by the end of this course, you'll be able to write and run those algorithms on real quantum [[Hardware]].
 >
 > **[1:03](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980&t=63)** - Let's go to.
 >
@@ -168,16 +167,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), [[Programming]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Hardware]] (1)
 > **Speakers:** - a (2), - this (1), - you (1), - what (1), - it (1)
 > **UI Navigation:** go to (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=0)** - We created this course for curious beginners to make quantum computing accessible to anyone with the willingness to learn so you don't need any background in quantum mechanics to begin.
+> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=0)** - We created this course for curious beginners to make [[Quantum Computing]] accessible to anyone with the willingness to learn so you don't need any background in quantum mechanics to begin.
 >
 > **[0:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=10)** - Throughout this course, we'll be using labeled beach balls like this one to represent quantum states and demonstrate the various quantum computing operations.
 >
@@ -193,17 +191,17 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=36)** - In addition to using quantum beach balls to help visualize the concepts, we'll also look at the math that's used to describe the quantum computation.
 >
-> **[0:44](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=44)** - We'll be using some basic linear algebra, so if you already know how to work with complex numbers and how to multiply vectors and matrices, you'll be ready to tackle the math in this course.
+> **[0:44](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=44)** - We'll be using some basic [[Linear Algebra]], so if you already know how to work with complex numbers and how to multiply vectors and matrices, you'll be ready to tackle the math in this course.
 >
 > **[0:53](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=53)** - If you don't have the math background, fear not.
 >
 > **[0:56](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=56)** We've included a few brief lessons to bring you up to speed as needed.
 >
-> **[1:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=60)** - To demonstrate concepts in action, we'll be writing quantum programs using a Python based framework called Qiskit.
+> **[1:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=60)** - To demonstrate concepts in action, we'll be writing quantum programs using a [[Python (Programming Language)|Python]] based framework called Qiskit.
 >
 > **[1:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=67)** - Having some prior experience using Python will be helpful but definitely not required.
 >
-> **[1:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=72)** The code we'll be writing is simple and straightforward so even if you don't know Python you should still be able to follow along and understand the quantum programming concepts by mimicking Python commands we show you.
+> **[1:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=72)** The code we'll be writing is simple and straightforward so even if you don't know Python you should still be able to follow along and understand the quantum [[Programming Concepts]] by mimicking Python commands we show you.
 >
 > **[1:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=84)** - Now, this course is intended for beginners but that does not mean it's easy.
 >
@@ -235,9 +233,9 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=155)** - Chapter five looks at four more operations that apply to multiple quantum bits, and then chapter six puts those operations together to create entanglement, which is an essential element of quantum computing.
 >
-> **[2:47](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=167)** - Chapter seven will demonstrate how to run a quantum program on real quantum hardware through the IBM Quantum cloud.
+> **[2:47](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=167)** - Chapter seven will demonstrate how to run a quantum program on real quantum [[Hardware]] through the IBM Quantum cloud.
 >
-> **[2:53](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=173)** - Then finally, chapter eight ties all of that together by diving into a couple of quantum algorithms and running them on a real quantum computer.
+> **[2:53](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=173)** - Then finally, chapter eight ties all of that together by diving into a couple of quantum [[Algorithms]] and running them on a real quantum computer.
 >
 > **[3:01](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-you-should-know?u=76281980&t=181)** As you can see, we've packed a lot into this course.
 >
@@ -245,18 +243,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Quantum Computing]] (3), [[Linear Algebra]] (1), [[Programming Concepts]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Quantum Computing]] (3), [[Linear Algebra]] (1), [[Programming Concepts]] (1), [[Hardware]] (1)
 > **Speakers:** - we (4), - if (2), - chapter (2), - throughout (1), - maybe (1)
 > **CLI Commands:** python (4), find (3), make (2)
 > **Env Vars:** ibm (1)
 > **Definitions:** is an  (1)
 
-#### Qiskit and GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980)
+#### [Qiskit and GitHub Codespaces](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=0)** - Quantum computing is still a fairly young field and there's not a single standard architecture for how quantum computers should be designed and built.
+> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=0)** - [[Quantum Computing]] is still a fairly young field and there's not a single standard architecture for how quantum computers should be designed and built.
 >
 > **[0:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=8)** There are lots of companies developing quantum computers today, such as D-Wave, Rigetti, IonQ, and many more and they all take slightly different approaches to building their systems.
 >
@@ -264,17 +261,17 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=28)** - That said, to show you concrete examples of these concepts implemented with actual code we had to select a programming environment to use.
 >
-> **[0:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=35)** We'll be writing our quantum programs throughout this course using QISkit which is an open source software development framework for quantum computing developed by IBM's research division.
+> **[0:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=35)** We'll be writing our quantum programs throughout this course using QISkit which is an open source [[Software Development]] framework for quantum computing developed by IBM's research division.
 >
 > **[0:45](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=45)** Its name originally stood for Quantum Information Science Kit.
 >
 > **[0:48](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=48)** We chose to use QISkit for this course because it's simple to use and includes several visualization tools to help us learn.
 >
-> **[0:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=55)** Coding QISkit is written using the Python programming language as an interface to represent the quantum operations in your program.
+> **[0:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=55)** Coding QISkit is written using the [[Python (Programming Language)|Python]] programming language as an interface to represent the quantum operations in your program.
 >
-> **[1:02](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=62)** That Python code then gets translated and optimized into quantum instructions which you can run using a simulator on your own computer or send it to the cloud to run on IBM's real quantum hardware.
+> **[1:02](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=62)** That Python code then gets translated and optimized into quantum instructions which you can run using a simulator on your own computer or send it to the cloud to run on IBM's real quantum [[Hardware]].
 >
-> **[1:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=75)** For this course, we'll write our QISkit programs using Jupyter Notebooks and Visual Studio Code running within the GitHub Codespaces environment.
+> **[1:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=75)** For this course, we'll write our QISkit programs using Jupyter Notebooks and Visual Studio Code running within the [[GitHub]] [[Codespaces]] environment.
 >
 > **[1:23](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=83)** - We recommend that you use Codespaces to follow along so you'll be working from the same environment as us.
 >
@@ -286,13 +283,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=118)** We've configured this Codespace to include all of the necessary dependencies, and you can find a list of the Python packages that are installed in the file requirements.txt.
 >
-> **[2:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=128)** - If you find yourself struggling with the Jupyter Notebook interface, we recommend the LinkedIn learning course introducing Jupyter for more information.
+> **[2:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=128)** - If you find yourself struggling with the Jupyter Notebook interface, we recommend the [[LinkedIn]] learning course introducing Jupyter for more information.
 >
 > **[2:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/qiskit-and-github-codespaces?u=76281980&t=135)** - Similarly, if you want to learn more about Python code, there are lots of other LinkedIn learning courses on that topic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (3), [[Codespaces]] (3), [[Quantum Computing]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Codespaces]] (3), [[Quantum Computing]] (2), [[GitHub]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** python (4), find (3)
 > **Tools:** jupyter (3), visual studio (2), github (2)
 > **Speakers:** - quantum (1), - that (1), - we (1), - if (1), - similarly (1)
@@ -301,8 +298,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is an  (1)
 
-#### Why quantum computing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980)
+#### [Why quantum computing?](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,7 +392,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=277)** Our search algorithm's job is to splash that pond in just the right way to make a constructive wave peak at the solution we're searching for while the other possible solutions are destructively canceled out.
 >
-> **[4:48](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=288)** If we designed our quantum algorithm correctly, when we measure its outcome, we'll have a high probability of getting an optimal seating chart.
+> **[4:48](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=288)** If we designed our quantum algorithm correctly, when we measure its outcome, we'll have a high [[Probability]] of getting an optimal seating chart.
 >
 > **[4:56](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=296)** And we get to that answer a lot faster than we could with the classical computing approach.
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=312)** But that quantum advantage only applies to problems like this one, where solutions can be evaluated in parallel.
 >
-> **[5:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=319)** Most of the computing that we perform on a daily basis would not benefit from quantum computing.
+> **[5:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=319)** Most of the computing that we perform on a daily basis would not benefit from [[Quantum Computing]].
 >
 > **[5:25](https://www.linkedin.com/learning/quantum-computing-fundamentals/why-quantum-computing?u=76281980&t=325)** A classical computer can handle writing emails and watching cat videos just fine.
 >
@@ -430,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (3), parallel (2), [[Search]] (2), next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Probability]] (1)
 > **Speakers:** - before (1), - for (1), - to (1), - oh (1), - well (1)
 > **CLI Commands:** find (2), make (1), cat (1)
 > **Analogies:** it's like (2), for example (1)
@@ -444,8 +440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classical bits vs. quantum bits
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980)
+#### [Classical bits vs. quantum bits](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +520,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=200)** I can consider ordering the soup, and I can consider ordering the salad at the same time.
 >
-> **[3:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=204)** I'm in a super position of both options with some probability of picking one over the other.
+> **[3:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=204)** I'm in a super position of both options with some [[Probability]] of picking one over the other.
 >
 > **[3:29](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=209)** - That just sounds indecisive.
 >
@@ -545,7 +540,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=250)** Electrons and photons are both particles that display the peculiar effects of quantum mechanics such as super position.
 >
-> **[4:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=257)** - The way cubits are physically implemented can have an impact when programming for real quantum hardware.
+> **[4:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=257)** - The way cubits are physically implemented can have an impact when programming for real quantum [[Hardware]].
 >
 > **[4:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980&t=262)** However, this course isn't about the physics of quantum computers.
 >
@@ -561,14 +556,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (1), [[Probability]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Hardware]] (1)
 > **Speakers:** - this (2), - i (2), - the (2), - you (1), - quantum (1)
 > **Analogies:** for example (2), just like (1), imagine (1), such as (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Warnings:** keep in mind (2)
 
-#### Measuring a qubit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/measuring-a-qubit?u=76281980)
+#### [Measuring a qubit](https://www.linkedin.com/learning/quantum-computing-fundamentals/measuring-a-qubit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +582,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/quantum-computing-fundamentals/measuring-a-qubit?u=76281980&t=37)** We can't magically read her mind to know what she's thinking.
 >
-> **[0:40](https://www.linkedin.com/learning/quantum-computing-fundamentals/measuring-a-qubit?u=76281980&t=40)** There's some probability she'll order the soup and a corresponding probability she'll order the salad.
+> **[0:40](https://www.linkedin.com/learning/quantum-computing-fundamentals/measuring-a-qubit?u=76281980&t=40)** There's some [[Probability]] she'll order the soup and a corresponding probability she'll order the salad.
 >
 > **[0:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/measuring-a-qubit?u=76281980&t=46)** Ah, here comes the waiter.
 >
@@ -644,12 +638,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Probability]] (3)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Speakers:** - this (2), - excuse (2), - the (2), - to (1), - when (1)
 > **Definitions:** is a  (2)
 
-#### Measure a qubit with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980)
+#### [Measure a qubit with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,9 +680,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=142)** That completes the circuit, so I'll press shift enter to run those commands.
 >
-> **[2:28](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=148)** And we see the output as a Python object, storing the Qiskit circuit with those instructions.
+> **[2:28](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=148)** And we see the output as a [[Python (Programming Language)|Python]] object, storing the Qiskit circuit with those instructions.
 >
-> **[2:33](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=153)** Later in this course, we'll see how to run our programs on real quantum hardware through the cloud, but for now, we'll execute our program locally within code spaces using a quantum simulator to run that circuit.
+> **[2:33](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=153)** Later in this course, we'll see how to run our programs on real quantum [[Hardware]] through the cloud, but for now, we'll execute our program locally within code spaces using a quantum simulator to run that circuit.
 >
 > **[2:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=166)** The simulator doesn't give us the computational advantages, a real quantum computer wood and it's only really usable for a small number of qubits, but it's an easy way to explore quantum circuits as we're learning.
 >
@@ -731,7 +724,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=283)** It performs various quantum operations that result in a qubit having a superposition state with a 95% chance of being seen as one when measured and a 5% chance of being measured as zero.
 >
-> **[4:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=295)** Let's say that probability distribution represents the answer to whatever problem our algorithm was designed to solve.
+> **[4:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=295)** Let's say that [[Probability]] distribution represents the answer to whatever problem our algorithm was designed to solve.
 >
 > **[5:02](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=302)** That's the information we want to know.
 >
@@ -783,7 +776,7 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=465)** We'll cover the Hadamard gate in detail later, but for this example, it will put our qubit into a superposition with a 50% chance of being measured as one or zero.
 >
-> **[7:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=475)** If I press shift enter to rerun that middle block of code and update our circuit and then press shift enter again to rerun the third cell with the simulation, now our histogram has two bars, indicating the number of times we measured a zero outcome on the left and one on the right.
+> **[7:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=475)** If I press shift enter to rerun that middle block of code and update our circuit and then press shift enter again to rerun the third cell with the [[Simulation]], now our histogram has two bars, indicating the number of times we measured a zero outcome on the left and one on the right.
 >
 > **[8:13](https://www.linkedin.com/learning/quantum-computing-fundamentals/measure-a-qubit-with-qiskit?u=76281980&t=493)** The distribution is close to 50/50, but one is a bit higher because out of those thousand or so shots, one randomly occurred a few more times than zero.
 >
@@ -803,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), [[Python (Programming Language)|Python]] (4), [[Simulation]] (3), [[Programming]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Python (Programming Language)|Python]] (4), [[Simulation]] (3), [[Hardware]] (2)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** jupyter (5)
 > **Code Identifiers:** get_backend (1), qasm_simulator (1), get_counts (1)
@@ -812,14 +805,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** later in (1)
 
-#### Overview of vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980)
+#### [Overview of vectors](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=0)** - We've reached the point in this course where we'll need to start using math to describe what's happening in our quantum circuits.
 >
-> **[0:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=7)** In case you're not familiar with basic linear algebra and how to work with vectors and complex numbers, this video and the next one will give you a quick overview of the basic concepts you'll need to get started.
+> **[0:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=7)** In case you're not familiar with basic [[Linear Algebra]] and how to work with vectors and complex numbers, this video and the next one will give you a quick overview of the basic concepts you'll need to get started.
 >
 > **[0:18](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=18)** In this video, we'll start with how to define a vector and visualize it on a graph using Cartesian coordinates.
 >
@@ -829,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=38)** And finally, we'll explore the concept of an orthonormal basis and what it means for two vectors to be linearly independent.
 >
-> **[0:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=46)** If you already understand those topics, feel free to skip over the rest of this video.
+> **[0:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=46)** If you already understand those topics, feel free to skip over the [[Representational State Transfer (REST)|rest]] of this video.
 >
 > **[0:51](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=51)** In mathematics, a vector is a set of values that represent a quantity that has a direction and magnitude within some vector space.
 >
@@ -957,7 +949,7 @@ created: 2026-05-02
 >
 > **[8:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=490)** For vector multiplication to produce a scalar result, the left vector needs to be oriented as a row vector and the right vector needs to be a column.
 >
-> **[8:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=500)** So when we multiply these three-dimensional vectors, a, b, c, and x, y, z, we multiply the first element of each vector, which is a times x, then we sum that with the product of the second elements, b and y, along with the corresponding products of any other elements, in this case that's c times z.
+> **[8:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=500)** So when we multiply these three-dimensional vectors, a, b, c, and x, y, z, we multiply the first element of each vector, which is a times x, then we sum that with the product of the second elements, b and y, along with the corresponding [[Microsoft Products|products]] of any other elements, in this case that's c times z.
 >
 > **[8:41](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-vectors?u=76281980&t=521)** This expression, ax plus by plus cz, results in a single scalar value.
 >
@@ -1021,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), next (2), [[Linear Algebra]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (7), known as (2), refers to (2), is an  (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** make (1), find (1)
@@ -1029,14 +1021,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Overview of complex numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980)
+#### [Overview of complex numbers](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=0)** - Like the previous video on vectors, this video will be a quick overview of complex numbers.
 >
-> **[0:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=6)** So if you're already comfortable working with complex numbers in standard and polar forms, as well as performing operations like the complex conjugate, feel free to skip past this video.
+> **[0:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=6)** So if you're already comfortable working with complex numbers in standard and polar [[Forms]], as well as performing operations like the complex conjugate, feel free to skip past this video.
 >
 > **[0:18](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=18)** Now to understand complex numbers, we first need to understand the concepts of real and imaginary numbers.
 >
@@ -1178,7 +1169,7 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=480)** If we expressed our complex number in the standard form, a plus b times i, then we can use this equation, which Baron introduced in the previous video, to calculate the magnitude of that vector.
 >
-> **[8:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=492)** Knowing how to find the absolute value of a complex number will become important when we calculate the probability of getting different outcomes when measuring quantum states.
+> **[8:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=492)** Knowing how to find the absolute value of a complex number will become important when we calculate the [[Probability]] of getting different outcomes when measuring quantum states.
 >
 > **[8:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-complex-numbers?u=76281980&t=501)** Another operation we'll need is the complex conjugate.
 >
@@ -1220,7 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (2), power (2), [[Forms]] (1), express (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Probability]] (1)
 > **Analogies:** for example (4), similar to (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (3), in other words (1)
@@ -1229,16 +1220,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - like (1)
 
-#### Represent qubits as vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980)
+#### [Represent qubits as vectors](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=0)** - It can be difficult to form an intuitive understanding of quantum computing because the tiny world of quantum mechanics works differently than the way we experience the world as humans.
+> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=0)** - It can be difficult to form an intuitive understanding of [[Quantum Computing]] because the tiny world of quantum mechanics works differently than the way we experience the world as humans.
 >
 > **[0:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=11)** And that's why math is an important tool for understanding many of these quantum concepts.
 >
-> **[0:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=16)** We'll be using linear algebra and other abstract models to describe quantum computations throughout this course.
+> **[0:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=16)** We'll be using [[Linear Algebra]] and other abstract models to describe quantum computations throughout this course.
 >
 > **[0:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=22)** So let's take a few minutes to look at how a qubit, which is our fundamental unit of quantum information, can be represented mathematically.
 >
@@ -1284,7 +1274,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=169)** Why alpha and beta are complex numbers gets into details of quantum mechanics that are beyond the scope of this course, but if we can just accept that they're complex numbers and treat them as such the mathematical operations we'll be using throughout this course will work just fine.
 >
-> **[3:04](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=184)** - Those two coefficient values, alpha and beta, are called probability amplitudes.
+> **[3:04](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=184)** - Those two coefficient values, alpha and beta, are called [[Probability]] amplitudes.
 >
 > **[3:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-as-vectors?u=76281980&t=190)** They indicate how likely we are to get each of the two possible outcomes when measuring a qubit.
 >
@@ -1390,7 +1380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (20), product (7), [[Quantum Computing]] (2), [[Linear Algebra]] (1), express (1)
+> **Frameworks & Libraries:** [[Probability]] (20), [[Quantum Computing]] (2), [[Linear Algebra]] (1)
 > **Definitions:** is a  (5), is called (2), is an  (1)
 > **Speakers:** - it (1), - simple (1), - that (1), - sure (1), - those (1)
 > **Analogies:** for example (4), kind of like (1)
@@ -1398,14 +1388,13 @@ created: 2026-05-02
 > **CLI Commands:** cat (1)
 > **Warnings:** note that (1)
 
-#### Represent qubits on the Bloch sphere
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-on-the-bloch-sphere?u=76281980)
+#### [Represent qubits on the Bloch sphere](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-on-the-bloch-sphere?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-on-the-bloch-sphere?u=76281980&t=0)** - In the previous video, we visualized a quantum state vector on a two-dimensional graph that simplified things to explain the concepts, but it overlooked the fact that we're actually working with complex numbers.
 >
-> **[0:13](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-on-the-bloch-sphere?u=76281980&t=13)** Our probability amplitudes, alpha and beta, are both complex numbers, which means they each have real and imaginary components indicated here with the Re and Im notation.
+> **[0:13](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-on-the-bloch-sphere?u=76281980&t=13)** Our [[Probability]] amplitudes, alpha and beta, are both complex numbers, which means they each have real and imaginary components indicated here with the Re and Im notation.
 >
 > **[0:25](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-qubits-on-the-bloch-sphere?u=76281980&t=25)** That means to fully represent this quantum state, consisting of two complex numbers, we'll actually need four real-valued coefficients.
 >
@@ -1509,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), next (1), power (1)
+> **Frameworks & Libraries:** [[Probability]] (5)
 > **Speakers:** - in (1), - fortunately (1), - hold (1), - we (1), - are (1)
 > **Versions:** 0.93 (1), 0.15 (1), 0.35 (1)
 > **Definitions:** is a  (2), known as (1)
@@ -1517,8 +1506,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### State vectors and Bloch spheres with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980)
+#### [State vectors and Bloch spheres with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1532,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=95)** Now I'll click the run all arrow button at the top to run this entire notebook, and at the end we can see the resulting state vector for our qubit.
 >
-> **[1:45](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=105)** Notice that Python uses the letter J to represent the imaginary unit which we've been representing with the letter I.
+> **[1:45](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=105)** Notice that [[Python (Programming Language)|Python]] uses the letter J to represent the imaginary unit which we've been representing with the letter I.
 >
 > **[1:52](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=112)** The first coefficient alpha has a real component of one and zero imaginary component and the second coefficient beta is zero for both.
 >
@@ -1578,7 +1566,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=232)** Now let's add the final measurement step back into our circuit by un-commenting it.
 >
-> **[3:57](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=237)** I'll press the run all button to rerun that simulation.
+> **[3:57](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=237)** I'll press the run all button to rerun that [[Simulation]].
 >
 > **[4:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/state-vectors-and-bloch-spheres-with-qiskit?u=76281980&t=240)** Now we're looking at the state of that qubit after it was measured.
 >
@@ -1592,13 +1580,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (2), next (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (2), python (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a model Bloch sphere
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980)
+#### [Build a model Bloch sphere](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,9 +1635,9 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=141)** When we look through our telescope from back on earth, those two poles are the only parts of the planet we can observe or measure to see where our astronaut went.
 >
-> **[2:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=150)** - What does a space explorer have to do with quantum computing?
+> **[2:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=150)** - What does a space explorer have to do with [[Quantum Computing]]?
 >
-> **[2:34](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=154)** - Well, this is an analogy that helps me conceptualize how the location or quantum state on the block sphere relates to the probability of measuring different outcomes.
+> **[2:34](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=154)** - Well, this is an analogy that helps me conceptualize how the location or quantum state on the block sphere relates to the [[Probability]] of measuring different outcomes.
 >
 > **[2:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=166)** If our astronaut lands their spacecraft here in the northern hemisphere, since they're closer to the North Pole, there's a higher probability that'll end up wandering up in that direction, and plant their flag on zero.
 >
@@ -1708,7 +1695,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=294)** - Exactly.
 >
-> **[4:56](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=296)** This is how Olivia and I will manipulate our block sphere beach balls for the rest of this course.
+> **[4:56](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=296)** This is how Olivia and I will manipulate our block sphere beach balls for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[5:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/build-a-model-bloch-sphere?u=76281980&t=300)** The side you see pointed towards the camera represents the current quantum state.
 >
@@ -1749,8 +1736,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 
-#### Global and relative phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/global-and-relative-phase?u=76281980)
+#### [Global and relative phase](https://www.linkedin.com/learning/quantum-computing-fundamentals/global-and-relative-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1752,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/quantum-computing-fundamentals/global-and-relative-phase?u=76281980&t=27)** We've already seen the standard zero basis state shown here, represented as the vector one zero.
 >
-> **[0:33](https://www.linkedin.com/learning/quantum-computing-fundamentals/global-and-relative-phase?u=76281980&t=33)** If we measure a qubit in that state the probability of getting an outcome of zero is the absolute value of one squared, which is one.
+> **[0:33](https://www.linkedin.com/learning/quantum-computing-fundamentals/global-and-relative-phase?u=76281980&t=33)** If we measure a qubit in that state the [[Probability]] of getting an outcome of zero is the absolute value of one squared, which is one.
 >
 > **[0:41](https://www.linkedin.com/learning/quantum-computing-fundamentals/global-and-relative-phase?u=76281980&t=41)** We will always measure this state as zero and we will never get an outcome of one.
 >
@@ -1874,14 +1860,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), power (4)
+> **Frameworks & Libraries:** [[Probability]] (4)
 > **Speakers:** - in (1), - we (1), - now (1), - rotating (1), - great (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Create a quantum circuit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-create-a-quantum-circuit?u=76281980)
+#### [Challenge: Create a quantum circuit](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-create-a-quantum-circuit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,15 +1894,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Tools:** jupyter (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a quantum circuit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-create-a-quantum-circuit?u=76281980)
+#### [Solution: Create a quantum circuit](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-create-a-quantum-circuit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,7 +1940,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** plot_bloch_multivector (2), array_to_latex (2), qasm_simulator (2), plot_histogram (1), get_backend (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
@@ -1968,8 +1950,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Represent multiple qubits
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980)
+#### [Represent multiple qubits](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2033,7 +2014,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980&t=192)** Represented as a vector, that would look something like this.
 >
-> **[3:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980&t=196)** If we calculate the probability of measuring those 2-qubits and getting an outcome of 0 for both of them, we see that the probability of that is 1/4.
+> **[3:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980&t=196)** If we calculate the [[Probability]] of measuring those 2-qubits and getting an outcome of 0 for both of them, we see that the probability of that is 1/4.
 >
 > **[3:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980&t=206)** Similarly, the probability of measuring the first bit as 1 and the second bit as 0, is 1/4.
 >
@@ -2061,14 +2042,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (9), next (1), power (1)
+> **Frameworks & Libraries:** [[Probability]] (9)
 > **Speakers:** - if (3), - so (1), - now (1)
 > **Analogies:** for example (3), it's like (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **Warnings:** keep in mind (1)
 
-#### Represent multiple qubits with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits-with-qiskit?u=76281980)
+#### [Represent multiple qubits with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,26 +2100,25 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits-with-qiskit?u=76281980&t=199)** I'll delete the line to display the state vector and then in the final cell, instead of plotting the Bloch sphere, we'll call the function to plot the resulting histogram.
 >
-> **[3:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits-with-qiskit?u=76281980&t=215)** I'll press the Run All button to run the simulation one more time, and the resulting histogram shows us that when we measure these two qubits, about half the time we'll get an outcome of zero, zero, and half the time we'll see zero, one.
+> **[3:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits-with-qiskit?u=76281980&t=215)** I'll press the Run All button to run the [[Simulation]] one more time, and the resulting histogram shows us that when we measure these two qubits, about half the time we'll get an outcome of zero, zero, and half the time we'll see zero, one.
 >
 > **[3:48](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits-with-qiskit?u=76281980&t=228)** The other two possible outcomes of one, zero and one, one will never occur.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Code Identifiers:** measure_all (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How much information is in a qubit?
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980)
+#### [How much information is in a qubit?](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=0)** - How much more information can a quantum computer store and process than a classical computer?
 >
-> **[0:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=6)** News articles hyping up the future of quantum computing often talk about that but the way it's usually presented can be a bit misleading.
+> **[0:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=6)** News articles hyping up the future of [[Quantum Computing]] often talk about that but the way it's usually presented can be a bit misleading.
 >
 > **[0:13](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=13)** So let's take a moment to think through that question.
 >
@@ -2155,7 +2134,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=55)** However, unlike the classical bits those qubits can exist in a superposition consisting of all of those states at the same time.
 >
-> **[1:03](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=63)** That means we'll need 256 complex coefficients to describe the probability amplitudes for each of those basis states.
+> **[1:03](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=63)** That means we'll need 256 complex coefficients to describe the [[Probability]] amplitudes for each of those basis states.
 >
 > **[1:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/how-much-information-is-in-a-qubit?u=76281980&t=71)** 256 complex numbers represent a lot more information than the single integer needed to specify the state of eight classical bits.
 >
@@ -2169,7 +2148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Quantum Computing]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (1), [[Probability]] (1)
 > **Speakers:** - how (1), - now (1), - that (1)
 > **Warnings:** keep in mind (1)
 
@@ -2178,8 +2157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of matrix operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980)
+#### [Overview of matrix operations](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,7 +2197,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980&t=137)** The second element of the result matrix will be calculated in a similar manner using the second row in the left matrix and the only column in the right matrix, giving us the expression c times x plus d times y.
 >
-> **[2:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980&t=150)** Those are the basics of how to multiply two matrices together, which is a common operation we'll be using throughout the rest of this course.
+> **[2:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980&t=150)** Those are the basics of how to multiply two matrices together, which is a common operation we'll be using throughout the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[2:37](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980&t=157)** Now, while we're on the topic of matrices, there is a special matrix we should be familiar with and that's the identity matrix.
 >
@@ -2261,17 +2239,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (7), known as (1)
 > **Analogies:** for example (3)
 > **Speakers:** - the (1)
 
-#### Quantum logic gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980)
+#### [Quantum logic gates](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=0)** - Now that we've seen how to represent information with qubits, we're ready to start writing algorithms to manipulate that data.
+> **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=0)** - Now that we've seen how to represent information with qubits, we're ready to start writing [[Algorithms]] to manipulate that data.
 >
 > **[0:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=7)** A quantum algorithm applies a specific sequence of operations to our qubits to change their quantum state in a controlled manner.
 >
@@ -2311,7 +2288,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=157)** A unitary matrix is a square matrix such that if we multiply it by its conjugate transposed we get the identity matrix I.
 >
-> **[2:45](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=165)** That's significant to quantum computing because a unitarian matrix will preserve the magnitude or norm when we multiply it against a state vector.
+> **[2:45](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=165)** That's significant to [[Quantum Computing]] because a unitarian matrix will preserve the magnitude or norm when we multiply it against a state vector.
 >
 > **[2:54](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-logic-gates?u=76281980&t=174)** If we multiply a unitarian matrix operator with an arbitrary state vector Kets, the magnitude of the resulting state vector will be the same as the magnitude of the original state vector Kets.
 >
@@ -2347,14 +2324,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), data (1), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Quantum Computing]] (1)
 > **Speakers:** - now (2), - however (1), - one (1), - another (1), - so (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), for example (1)
 > **Cross-References:** later in (1)
 
-#### Pauli-X gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate?u=76281980)
+#### [Pauli-X gate](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,7 +2382,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate?u=76281980&t=144)** - Well, let's say our qubit is in a super position here, represented by this point on the sphere, which is halfway between zero and the positive x-axis.
 >
-> **[2:34](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate?u=76281980&t=154)** This point is closer to zero than one, so if we measure this quantum state it would have a higher probability of collapsing to zero than to one.
+> **[2:34](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate?u=76281980&t=154)** This point is closer to zero than one, so if we measure this quantum state it would have a higher [[Probability]] of collapsing to zero than to one.
 >
 > **[2:43](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate?u=76281980&t=163)** Now to apply the Pauli-X gate with my fingers along the x-axis, I'll rotate that by 180 degrees and that transforms our qubit to this other state, halfway between one and the positive x-axis.
 >
@@ -2450,14 +2426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), next (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **CLI Commands:** cat (8)
 > **Speakers:** - that (2), - three (1), - well (1), - geometrically (1), - and (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1), earlier in (1)
 
-#### Pauli-X gate with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980)
+#### [Pauli-X gate with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,7 +2446,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=35)** Qiskit gives us several ways to display a diagram of our quantum circuit.
 >
-> **[0:39](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=39)** The simplest way is to call python's print function on the circuit object.
+> **[0:39](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=39)** The simplest way is to call [[Python (Programming Language)|python]]'s print function on the circuit object.
 >
 > **[0:44](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=44)** I'll press the run all button at the top of the editor to run this entire notebook and we can see that cell prints out a diagram of the circuit using asy tech's characters.
 >
@@ -2521,11 +2496,11 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=256)** Now the block sphere is pointing downwards halfway between the one basis state and the positive X axis.
 >
-> **[4:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=262)** Using the Pauli-x gate, we flipped the probability amplitude so now there's a higher probability of measuring this qubit as one, than measuring it as zero.
+> **[4:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-x-gate-with-qiskit?u=76281980&t=262)** Using the Pauli-x gate, we flipped the [[Probability]] amplitude so now there's a higher probability of measuring this qubit as one, than measuring it as zero.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Probability]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Probability]] (2)
 > **CLI Commands:** python (3), cat (1)
 > **Env Vars:** cat (1)
 > **Definitions:** is a  (1)
@@ -2533,8 +2508,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - let (1)
 
-#### Pauli-Y gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate?u=76281980)
+#### [Pauli-Y gate](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2588,7 +2562,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate?u=76281980&t=174)** So in addition to flipping the bit, the Pauli-Y gate also gave this state a phase factor of I.
 >
-> **[3:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate?u=76281980&t=180)** If we calculate the measurement probabilities for that resulting state, we can see that the probability of measuring an outcome of zero is zero, and the probability of measuring a one is the absolute value of I squared, which equals one.
+> **[3:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate?u=76281980&t=180)** If we calculate the measurement probabilities for that resulting state, we can see that the [[Probability]] of measuring an outcome of zero is zero, and the probability of measuring a one is the absolute value of I squared, which equals one.
 >
 > **[3:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate?u=76281980&t=194)** Those are the exact same outcome probabilities as the regular one state, which means there is no physically observable differences between cat one and I times cat one.
 >
@@ -2656,14 +2630,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Probability]] (3), power (2)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Speakers:** - and (2), - now (2), - our (1), - hang (1), - well (1)
 > **CLI Commands:** cat (8)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 
-#### Pauli-Y gate with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate-with-qiskit?u=76281980)
+#### [Pauli-Y gate with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-y-gate-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2705,8 +2678,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Pauli-Z gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate?u=76281980)
+#### [Pauli-Z gate](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2786,7 +2758,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate?u=76281980&t=201)** The Pauli-Y matrix flips the bit as well as the phase.
 >
-> **[3:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate?u=76281980&t=204)** And finally, the Pauli-Z matrix only flips the relative phase of the qubit, leaving its probability distribution unchanged.
+> **[3:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate?u=76281980&t=204)** And finally, the Pauli-Z matrix only flips the relative phase of the qubit, leaving its [[Probability]] distribution unchanged.
 
 > [!info]- Semantic Content
 >
@@ -2795,8 +2767,7 @@ created: 2026-05-02
 > **Env Vars:** ket1 (4)
 > **Definitions:** is a  (2)
 
-#### Pauli-Z gate with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate-with-qiskit?u=76281980)
+#### [Pauli-Z gate with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2828,7 +2799,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate-with-qiskit?u=76281980&t=95)** Now we can see what that superposition state looks like before applying a Z gate from the Bloch sphere on the left and then what it looks like after applying the Z gate from the Bloch sphere on the right.
 >
-> **[1:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate-with-qiskit?u=76281980&t=106)** Notice that the Z gate does not flip the probability so our quantum state vector stays on the top half of the Bloch sphere closer to zero, but it does flip the phase, which rotates our vector 180 degrees around the z-axis from the front side of the sphere to the back.
+> **[1:46](https://www.linkedin.com/learning/quantum-computing-fundamentals/pauli-z-gate-with-qiskit?u=76281980&t=106)** Notice that the Z gate does not flip the [[Probability]] so our quantum state vector stays on the top half of the Bloch sphere closer to zero, but it does flip the phase, which rotates our vector 180 degrees around the z-axis from the front side of the sphere to the back.
 
 > [!info]- Semantic Content
 >
@@ -2836,8 +2807,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-binary-numbers?u=76281980)
+#### [Challenge: Binary numbers](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-binary-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2863,7 +2833,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-binary-numbers?u=76281980&t=67)** The QSphere is another visualization tool in Qiskit that we have not used yet.
 >
-> **[1:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-binary-numbers?u=76281980&t=72)** It plots a Quantum State as points on a sphere where the size of each point is proportional to the probability of measuring that outcome, and the color of the point represents its phase.
+> **[1:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-binary-numbers?u=76281980&t=72)** It plots a Quantum State as points on a sphere where the size of each point is proportional to the [[Probability]] of measuring that outcome, and the color of the point represents its phase.
 >
 > **[1:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-binary-numbers?u=76281980&t=82)** Since our desired state is 1, 1, 0, 1, if you've initialized your circuit correctly, the QSphere should just display a point for that single state, as shown here.
 >
@@ -2873,15 +2843,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-binary-numbers?u=76281980)
+#### [Solution: Binary numbers](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-binary-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2893,7 +2862,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-binary-numbers?u=76281980&t=28)** To determine which bits need to be flipped, we looked at the location of the ones in the desired end state.
 >
-> **[0:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-binary-numbers?u=76281980&t=35)** The first, third, and fourth qubits in the cat 1101 needs to be flipped, which corresponds to the index values 0, 2, and 3, because Python uses zero indexing.
+> **[0:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-binary-numbers?u=76281980&t=35)** The first, third, and fourth qubits in the cat 1101 needs to be flipped, which corresponds to the index values 0, 2, and 3, because [[Python (Programming Language)|Python]] uses zero indexing.
 >
 > **[0:48](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-binary-numbers?u=76281980&t=48)** To build the code, I started by initializing a new quantum circuit with four qubits and assigning it the variable name circuit.
 >
@@ -2915,7 +2884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** cat (2), python (1)
 > **Non-Speech:** (keyboard clicking) (2), (upbeat music) (1)
 > **Analogies:** for example (1)
@@ -2926,8 +2895,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hadamard gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980)
+#### [Hadamard gate](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2981,7 +2949,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980&t=183)** We'll refer to this state as ket plus, which is located at the positive end of the x-axis on the Bloch sphere.
 >
-> **[3:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980&t=190)** When we measure a qubit in this state, the probability of a zero outcome is the absolute value of one over the square root of two squared, which is one half.
+> **[3:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980&t=190)** When we measure a qubit in this state, the [[Probability]] of a zero outcome is the absolute value of one over the square root of two squared, which is one half.
 >
 > **[3:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980&t=200)** Along the same lines, the probability of measuring that qubit and getting an outcome of one is also one half.
 >
@@ -3003,12 +2971,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), product (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Speakers:** - the (2), - let (2), - to (1), - [speaker (1), - however (1)
 > **Prerequisites:** set up (1)
 
-#### Hadamard gate with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate-with-qiskit?u=76281980)
+#### [Hadamard gate with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3030,7 +2997,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate-with-qiskit?u=76281980&t=57)** I'll click the run all button to rerun this entire notebook and now we can examine that qubit after applying a Hadamard gate.
 >
-> **[1:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate-with-qiskit?u=76281980&t=66)** Notice that both probability amplitudes in the printed state vector are now the same.
+> **[1:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate-with-qiskit?u=76281980&t=66)** Notice that both [[Probability]] amplitudes in the printed state vector are now the same.
 >
 > **[1:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate-with-qiskit?u=76281980&t=71)** They're both one over the square root of two.
 >
@@ -3064,8 +3031,7 @@ created: 2026-05-02
 > **File Paths:** circuit.h (1)
 > **Speakers:** - let (1)
 
-#### Measurement on an arbitrary basis
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/measurement-on-an-arbitrary-basis?u=76281980)
+#### [Measurement on an arbitrary basis](https://www.linkedin.com/learning/quantum-computing-fundamentals/measurement-on-an-arbitrary-basis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3073,7 +3039,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/measurement-on-an-arbitrary-basis?u=76281980&t=7)** So far in this course, we've always measured our qubits in the standard computational basis, composed of the states zero and one.
 >
-> **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/measurement-on-an-arbitrary-basis?u=76281980&t=14)** Measuring a quantum state in that basis means we'll only observe either zero or one, each of which occurs with some probability.
+> **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/measurement-on-an-arbitrary-basis?u=76281980&t=14)** Measuring a quantum state in that basis means we'll only observe either zero or one, each of which occurs with some [[Probability]].
 >
 > **[0:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/measurement-on-an-arbitrary-basis?u=76281980&t=21)** Since we represent those two states on opposite ends of the Bloch sphere's z-axis, this type of computational basis measurement is often called a Z measurement.
 >
@@ -3163,12 +3129,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), product (4), next (1)
+> **Frameworks & Libraries:** [[Probability]] (10)
 > **Speakers:** - now (1), - when (1), - if (1), - can (1), - maybe (1)
 > **Analogies:** for example (2), it's like (1), such as (1)
 
-#### Phase shift gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/phase-shift-gates?u=76281980)
+#### [Phase shift gates](https://www.linkedin.com/learning/quantum-computing-fundamentals/phase-shift-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3250,12 +3215,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **Speakers:** - well (3), - so (2), - both (1), - for (1), - what (1)
 > **Definitions:** is a  (4)
 
-#### Phase shift gates with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/phase-shift-gates-with-qiskit?u=76281980)
+#### [Phase shift gates with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/phase-shift-gates-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3285,8 +3248,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [olivia] (1)
 
-#### Parameterized rotation gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/parameterized-rotation-gates?u=76281980)
+#### [Parameterized rotation gates](https://www.linkedin.com/learning/quantum-computing-fundamentals/parameterized-rotation-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3356,8 +3318,7 @@ created: 2026-05-02
 > **CLI Commands:** cat (1)
 > **Definitions:** is a  (1)
 
-#### Parameterized rotation gates with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/parameterized-rotation-gates-with-qiskit?u=76281980)
+#### [Parameterized rotation gates with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/parameterized-rotation-gates-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3412,8 +3373,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single-qubit gates on multi-qubit states
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/single-qubit-gates-on-multi-qubit-states?u=76281980)
+#### [Single-qubit gates on multi-qubit states](https://www.linkedin.com/learning/quantum-computing-fundamentals/single-qubit-gates-on-multi-qubit-states?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3487,15 +3447,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), next (1)
 > **Code Identifiers:** polyx (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - we (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenge: Random numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-random-numbers?u=76281980)
+#### [Challenge: Random numbers](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-random-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3503,7 +3461,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-random-numbers?u=76281980&t=5)** - We've learned about several quantum gates that can put a single qubit into arbitrary states of superposition, so I think it's time for another challenge.
 >
-> **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-random-numbers?u=76281980&t=14)** Your goal will be to take a new quantum circuit with three qubits and then use single qubit gates to configure their state such that when you measure those three qubits, they'll have roughly the outcome distribution shown here with a 37.5% probability of measuring those three qubits as 001 or 011, and a 12.5% chance of measuring them as 101 or 111.
+> **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-random-numbers?u=76281980&t=14)** Your goal will be to take a new quantum circuit with three qubits and then use single qubit gates to configure their state such that when you measure those three qubits, they'll have roughly the outcome distribution shown here with a 37.5% [[Probability]] of measuring those three qubits as 001 or 011, and a 12.5% chance of measuring them as 101 or 111.
 >
 > **[0:42](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-random-numbers?u=76281980&t=42)** This challenge is a bit of a puzzle.
 >
@@ -3527,7 +3485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Code Identifiers:** measure_all (2)
 > **Versions:** 37.5 (1), 12.5 (1)
@@ -3536,8 +3494,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Solution: Random numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980)
+#### [Solution: Random numbers](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3557,7 +3514,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980&t=57)** Now, shifting focus to the third qubit, while looking across these four possible outcomes, if we add together the probabilities of measuring zero, they total 75% and there's a 25% chance of measuring that qubit as one.
 >
-> **[1:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980&t=72)** That means we'll need to apply a rotation that puts it in a super position with a higher probability of measuring a zero outcome than one.
+> **[1:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980&t=72)** That means we'll need to apply a rotation that puts it in a super position with a higher [[Probability]] of measuring a zero outcome than one.
 >
 > **[1:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-random-numbers?u=76281980&t=81)** I chose to accomplish that by using a parameterized gate to rotate the third qubit by pi over three radians around the y-axis.
 >
@@ -3573,7 +3530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
@@ -3582,8 +3539,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controlled-NOT (CNOT) gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate?u=76281980)
+#### [Controlled-NOT (CNOT) gate](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3647,8 +3603,7 @@ created: 2026-05-02
 > **Env Vars:** cnot (11)
 > **Definitions:** is a  (1), stands for (1)
 
-#### Controlled-NOT (CNOT) gate with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980)
+#### [Controlled-NOT (CNOT) gate with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3692,7 +3647,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980&t=122)** We'll use the second qubit as the control for the C-NOT gate, and the third qubit as it's target.
 >
-> **[2:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980&t=130)** When I run the simulation with that new circuit.
+> **[2:10](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980&t=130)** When I run the [[Simulation]] with that new circuit.
 >
 > **[2:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate-with-qiskit?u=76281980&t=135)** We see that our qubits are in the 1-1-1 state.
 >
@@ -3717,8 +3672,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Simulation]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Toffoli gate
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/toffoli-gate?u=76281980)
+#### [Toffoli gate](https://www.linkedin.com/learning/quantum-computing-fundamentals/toffoli-gate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3773,8 +3727,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1), similar to (1)
 > **Definitions:** known as (1), stands for (1)
 
-#### Toffoli gate with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/toffoli-gate-with-qiskit?u=76281980)
+#### [Toffoli gate with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/toffoli-gate-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3826,8 +3779,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swap and Fredkin gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates?u=76281980)
+#### [Swap and Fredkin gates](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3885,8 +3837,7 @@ created: 2026-05-02
 > **Speakers:** - and (3), - then (2), - we (1), - notice (1), - what (1)
 > **Definitions:** is called (1), is a  (1), known as (1)
 
-#### Swap and Fredkin gates with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates-with-qiskit?u=76281980)
+#### [Swap and Fredkin gates with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3894,7 +3845,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates-with-qiskit?u=76281980&t=11)** We can see what the initial states of those qubits look like on the simulated block spheres below.
 >
-> **[0:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates-with-qiskit?u=76281980&t=17)** Now let's insert a swap gate between the last two qubits, to do that, I'll type circuit.swap, pass in the index for the middle qubit 1 and then the index for the last qubit 2, I'll click the Run All button to update that circuit and run the simulation.
+> **[0:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates-with-qiskit?u=76281980&t=17)** Now let's insert a swap gate between the last two qubits, to do that, I'll type circuit.swap, pass in the index for the middle qubit 1 and then the index for the last qubit 2, I'll click the Run All button to update that circuit and run the [[Simulation]].
 >
 > **[0:36](https://www.linkedin.com/learning/quantum-computing-fundamentals/swap-and-fredkin-gates-with-qiskit?u=76281980&t=36)** We can see the swap gate added to the circuit diagram between qubits 1 and 2 and on the block spheres below, we can see that the states of those last two qubits have been swapped from what they previously were.
 >
@@ -3916,12 +3867,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Classical two-bit adder
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-classical-two-bit-adder?u=76281980)
+#### [Challenge: Classical two-bit adder](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-classical-two-bit-adder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3961,7 +3911,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** xor (3)
 > **Exercise Files:** template (1), exercise files (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3969,8 +3918,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Classical two-bit adder
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-classical-two-bit-adder?u=76281980)
+#### [Solution: Classical two-bit adder](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-classical-two-bit-adder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4023,8 +3971,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is quantum entanglement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980)
+#### [What is quantum entanglement?](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4034,7 +3981,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=15)** This is a two-qubit system which we can represent with some state vector.
 >
-> **[0:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=19)** - If we measure Olivia's qubit, it has some probability of being zero or one.
+> **[0:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=19)** - If we measure Olivia's qubit, it has some [[Probability]] of being zero or one.
 >
 > **[0:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=24)** But her probability amplitudes and the outcome of that measurement have no impact on my qubit.
 >
@@ -4046,7 +3993,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=42)** - [Both] Independent.
 >
-> **[0:43](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=43)** - To really take advantage of quantum computing, we need to create a new type of connection between qubits.
+> **[0:43](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=43)** - To really take advantage of [[Quantum Computing]], we need to create a new type of connection between qubits.
 >
 > **[0:49](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980&t=49)** - Is it finally time?
 >
@@ -4192,8 +4139,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** earlier in (1)
 
-#### Represent entangled qubits
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980)
+#### [Represent entangled qubits](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4239,7 +4185,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=128)** Starting with a pair of qubits in the |00&gt; basis state, we'll use the Kronecker product of the Hadamard and Identity gates to apply the Hadamard operation to the left qubit.
 >
-> **[2:18](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=138)** This rotates it into the ket plus superposition, which gives us this four-element state vector with two non-zero probability amplitudes.
+> **[2:18](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=138)** This rotates it into the ket plus superposition, which gives us this four-element state vector with two non-zero [[Probability]] amplitudes.
 >
 > **[2:27](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=147)** Notice we've factored out the 1 over square root of 2 and put it in front of these expressions to make them easier to read.
 >
@@ -4261,19 +4207,18 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=218)** Their outcomes are correlated to always be the same.
 >
-> **[3:41](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=221)** Entanglement is one of the strange aspects of quantum computing that often makes the most sense when we describe it in terms of math.
+> **[3:41](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-entangled-qubits?u=76281980&t=221)** Entanglement is one of the strange aspects of [[Quantum Computing]] that often makes the most sense when we describe it in terms of math.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), product (1), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Quantum Computing]] (1)
 > **Speakers:** - the (2), - then (2), - and (1), - since (1), - now (1)
 > **Env Vars:** cnot (3)
 > **Cross-References:** we mentioned (1), previous video (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 
-#### Simulate a bell state with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980)
+#### [Simulate a bell state with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4285,7 +4230,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=21)** Together these four quantum states are an orthonormal basis that can be used to represent a two-qubit state known as the Bell basis.
 >
-> **[0:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=30)** Keep that in mind because we'll use this Bell basis when we explore a few quantum algorithms near the end of this course.
+> **[0:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=30)** Keep that in mind because we'll use this Bell basis when we explore a few quantum [[Algorithms]] near the end of this course.
 >
 > **[0:37](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=37)** For this demonstration, we'll start with a simple program that creates an empty two-qubit circuit.
 >
@@ -4297,7 +4242,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=75)** Now we can see the circuit that the code built with the Hadamard gate followed by a CNOT.
 >
-> **[1:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=81)** The resulting statevector, which has equal probability amplitudes of 1 over the square root of 2 in the first and last positions, indicate the measured outcomes of the two bits will always be the same.
+> **[1:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=81)** The resulting statevector, which has equal [[Probability]] amplitudes of 1 over the square root of 2 in the first and last positions, indicate the measured outcomes of the two bits will always be the same.
 >
 > **[1:32](https://www.linkedin.com/learning/quantum-computing-fundamentals/simulate-a-bell-state-with-qiskit?u=76281980&t=92)** And below that, the simulated histogram shows that roughly half the time we measured 00 and the other half of the time we measured 11.
 >
@@ -4342,8 +4287,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Entangle three qubits
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-entangle-three-qubits?u=76281980)
+#### [Challenge: Entangle three qubits](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-entangle-three-qubits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4353,7 +4297,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-entangle-three-qubits?u=76281980&t=17)** The Greenberger-Horne-Zeilinger or GHZ state is a specific type of entangled quantum state involving at least three qubits.
 >
-> **[0:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-entangle-three-qubits?u=76281980&t=26)** The state vector for a three qubit GHZ state is shown here and we can see that those qubits have an equal probability of all being measured as zero or all being measured as one.
+> **[0:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-entangle-three-qubits?u=76281980&t=26)** The state vector for a three qubit GHZ state is shown here and we can see that those qubits have an equal [[Probability]] of all being measured as zero or all being measured as one.
 >
 > **[0:38](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-entangle-three-qubits?u=76281980&t=38)** All three of them will always have the same outcome and will never end up with a mixed measurement outcome.
 >
@@ -4369,7 +4313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Env Vars:** ghz (4)
 > **Cross-References:** previous video (1), next video (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -4377,8 +4321,7 @@ created: 2026-05-02
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Entangle three qubits
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980)
+#### [Solution: Entangle three qubits](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4398,7 +4341,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=71)** Now that second CNOT connects the final qubit to the Bell state of the first two qubits creating an entangled dependency between all three of them.
 >
-> **[1:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=81)** The statevector shows equal non-zero probability amplitudes in its first and last elements, and that corresponds to the simulated results in the histogram which show roughly equal outcomes of 0, 0, 0, or 1, 1, 1, and nothing else.
+> **[1:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=81)** The statevector shows equal non-zero [[Probability]] amplitudes in its first and last elements, and that corresponds to the simulated results in the histogram which show roughly equal outcomes of 0, 0, 0, or 1, 1, 1, and nothing else.
 >
 > **[1:39](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=99)** Now, when connecting that third qubit to the first two entangled qubits in the Bell state, I used the middle qubit as the CNOT's control; however, I could have used either of those first two qubits as the control because once they're entangled in the Bell state, there's nothing to distinguish one as being the controller of the other.
 >
@@ -4412,7 +4355,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=139)** It doesn't matter which of those two qubits in the Bell-state pair we used as the control when bringing the third qubit into entanglement with them, the resulting statevector is the same.
 >
-> **[2:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=150)** And even though the histogram may have changed a little bit due to randomness in the simulation, it still shows roughly equal outcomes of 0, 0, 0, and 1, 1, 1, and nothing else.
+> **[2:30](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=150)** And even though the histogram may have changed a little bit due to randomness in the [[Simulation]], it still shows roughly equal outcomes of 0, 0, 0, and 1, 1, 1, and nothing else.
 >
 > **[2:42](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-entangle-three-qubits?u=76281980&t=162)** If you enjoyed this challenge and want to take your quantum exploration further, we have a couple of activities to recommend as bonus challenges.
 >
@@ -4435,14 +4378,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access IBM quantum computers
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980)
+#### [Access IBM quantum computers](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980&t=0)** - [Instructor] So far, we've only simulated quantum circuits on our computer using the simulators that are included with Qiskit.
 >
-> **[0:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980&t=7)** Now, let's run our circuits using real quantum hardware.
+> **[0:07](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980&t=7)** Now, let's run our circuits using real quantum [[Hardware]].
 >
 > **[0:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980&t=11)** IBM has made several small quantum computers available to use for free through the cloud.
 >
@@ -4520,7 +4462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), cloud (2), api (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Env Vars:** ibm (4), cnot (4), api (2), r4t (1)
 > **UI Navigation:** go to (1), navigate to (1), click on (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
@@ -4529,8 +4471,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 
-#### Use Qiskit with real quantum hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980)
+#### [Use Qiskit with real quantum hardware](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4538,9 +4479,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980&t=11)** We can see from the locally simulated results of that circuit that we should expect to see the outcome zero zero around half the time and one one, the other half.
 >
-> **[0:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980&t=20)** The outcomes zero one and one zero never occur according to the simulation.
+> **[0:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980&t=20)** The outcomes zero one and one zero never occur according to the [[Simulation]].
 >
-> **[0:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980&t=26)** To use IBM's cloud-based Quantum computers, we'll need to import another module into this Python script.
+> **[0:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980&t=26)** To use IBM's cloud-based Quantum computers, we'll need to import another module into this [[Python (Programming Language)|Python]] script.
 >
 > **[0:32](https://www.linkedin.com/learning/quantum-computing-fundamentals/use-qiskit-with-real-quantum-hardware?u=76281980&t=32)** So, in a new cell after all of the above code, I'll add another import statement from Qiskit_IBM_runtime import QiskitRuntimeService.
 >
@@ -4648,7 +4589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), next (3), api (3), [[Simulation]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** ibm (10), api (3), ibmq (2), ctrl (1), cnot (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **UI Navigation:** click on (2), navigate to (1), dropdown (1)
@@ -4657,8 +4598,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** jupyter (1)
 
-#### Mitigate quantum measurement errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/mitigate-quantum-measurement-errors?u=76281980)
+#### [Mitigate quantum measurement errors](https://www.linkedin.com/learning/quantum-computing-fundamentals/mitigate-quantum-measurement-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4715,14 +4655,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Superdense coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980)
+#### [Superdense coding](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980&t=0)** - We've seen lots of single and multi-qubit logic gates and explored key quantum concepts, like super position and entanglement.
 >
-> **[0:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980&t=8)** Now it's finally time to put all those building blocks together to write quantum algorithms that do real work.
+> **[0:08](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980&t=8)** Now it's finally time to put all those building blocks together to write quantum [[Algorithms]] that do real work.
 >
 > **[0:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980&t=15)** - Our first algorithm is known as superdense coding.
 >
@@ -4825,8 +4764,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1)
 
-#### Superdense coding with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding-with-qiskit?u=76281980)
+#### [Superdense coding with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4840,7 +4778,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding-with-qiskit?u=76281980&t=35)** It also inserts a nice visual barrier in the quantum circuit diagram, which is really why we're using it here.
 >
-> **[0:41](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding-with-qiskit?u=76281980&t=41)** Next, lines 10 through 19 use a Python match expression to apply one of the four quantum operations on Olivia's qubit, based on the message.
+> **[0:41](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding-with-qiskit?u=76281980&t=41)** Next, lines 10 through 19 use a [[Python (Programming Language)|Python]] match expression to apply one of the four quantum operations on Olivia's qubit, based on the message.
 >
 > **[0:51](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding-with-qiskit?u=76281980&t=51)** The message variable on line 10 is currently assigned to be one zero, which means the case at line 15 will be executed to apply an X gate.
 >
@@ -4884,14 +4822,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cnot (4)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quantum teleportation
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980)
+#### [Quantum teleportation](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4989,7 +4926,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=262)** I can't extract any useful information from that random result so no information has actually been shared.
 >
-> **[4:29](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=269)** - Along those lines, when I performed that bell state measurement on the two qubits I was holding, each of the four possible outcomes had an equal probability of occurring.
+> **[4:29](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=269)** - Along those lines, when I performed that bell state measurement on the two qubits I was holding, each of the four possible outcomes had an equal [[Probability]] of occurring.
 >
 > **[4:39](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=279)** If someone intercepted those two classical bits of information I texted to Baron, that would not give them any information about the quantum state we're transferring.
 >
@@ -5003,7 +4940,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=320)** With quantum teleportation, we transferred information about one qubit's quantum state through a process that involved physically sending two classical bits of information to the receiver to be decoded.
 >
-> **[5:32](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=332)** A commonality in both of these algorithms is that the sender and receiver share an entangled pair of qubits.
+> **[5:32](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=332)** A commonality in both of these [[Algorithms]] is that the sender and receiver share an entangled pair of qubits.
 >
 > **[5:38](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation?u=76281980&t=338)** - Like superdense coding, quantum teleportation was discovered and experimentally demonstrated in the mid 1990s.
 >
@@ -5017,13 +4954,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Probability]] (1)
 > **Speakers:** - we (2), - so (2), - the (2), - ooh (1), - not (1)
 > **Definitions:** is a  (2)
 > **Analogies:** it's like (1)
 
-#### Quantum teleportation with Qiskit
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980)
+#### [Quantum teleportation with Qiskit](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5049,7 +4985,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=96)** We can use Qiskit's State Vector Simulator to visualize the in-state of our three qubits on the block sphere.
 >
-> **[1:43](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=103)** What we're seeing here shows qubits zero and one after performing the Bell state measurement, so they've collapsed into one of the four two bit basis states with an equal probability of each outcome.
+> **[1:43](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=103)** What we're seeing here shows qubits zero and one after performing the Bell state measurement, so they've collapsed into one of the four two bit basis states with an equal [[Probability]] of each outcome.
 >
 > **[1:54](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=114)** This time, Q zero was in the zero state, and Q1 ended up in the one state.
 >
@@ -5057,7 +4993,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=131)** Since we used a rotational X gate to initialize Olivia's qubit, now at the end, Barron's qubit is in that specific super position.
 >
-> **[2:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=140)** If I selected that cell and press control enter several times to rerun that simulation,
+> **[2:20](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=140)** If I selected that cell and press control enter several times to rerun that [[Simulation]],
 >
 > **[2:32](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=152)** we get a random result each time for the first two qubits, but qubit two will always end in the teleported state.
 >
@@ -5075,11 +5011,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=235)** Now, there's a potential issue with the way we've implemented this algorithm, and that's because we've included instructions after performing a measurement.
 >
-> **[4:05](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=245)** That's not a problem for the Qiskit simulator, but real world quantum hardware may not allow additional instructions to be executed after it performs a measurement.
+> **[4:05](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=245)** That's not a problem for the Qiskit simulator, but real world quantum [[Hardware]] may not allow additional instructions to be executed after it performs a measurement.
 >
 > **[4:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=254)** In fact, if we tried to run this algorithm in its current form using one of IBM's quantum computers, the job would fail.
 >
-> **[4:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=262)** Fortunately, there's a quantum computing principle known as deferred measurement, which states that any measurement can be postponed until the end of the circuit.
+> **[4:22](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=262)** Fortunately, there's a [[Quantum Computing]] principle known as deferred measurement, which states that any measurement can be postponed until the end of the circuit.
 >
 > **[4:32](https://www.linkedin.com/learning/quantum-computing-fundamentals/quantum-teleportation-with-qiskit?u=76281980&t=272)** We won't dive into the details behind that principle, but in short, it means that waiting until the very end of a quantum computation to perform all of the measurements will not affect the probability distribution of the outcomes.
 >
@@ -5109,21 +5045,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Simulation]] (3), [[Probability]] (2), [[Hardware]] (2), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Probability]] (2), [[Hardware]] (2), [[Quantum Computing]] (1)
 > **Env Vars:** crz (2), crx (2), ibm (2), cnot (1)
 > **Definitions:** known as (1), means that (1)
 > **Tools:** jupyter (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Real quantum teleportation
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-real-quantum-teleportation?u=76281980)
+#### [Challenge: Real quantum teleportation](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-real-quantum-teleportation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-real-quantum-teleportation?u=76281980&t=0)** (electro-pop music)
 >
-> **[0:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-real-quantum-teleportation?u=76281980&t=6)** - It's time for our final challenge of this course to write a quantum algorithm and then run it using real quantum hardware.
+> **[0:06](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-real-quantum-teleportation?u=76281980&t=6)** - It's time for our final challenge of this course to write a quantum algorithm and then run it using real quantum [[Hardware]].
 >
 > **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/challenge-real-quantum-teleportation?u=76281980&t=14)** Your goal is to create a modified version of the quantum teleportation circuit from the previous video.
 >
@@ -5145,7 +5080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Cross-References:** previous video (1), next video (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ibm (1)
@@ -5153,14 +5088,13 @@ created: 2026-05-02
 > **Speakers:** - it (1)
 > **Non-Speech:** (electro-pop music) (1)
 
-#### Solution: Real quantum teleportation
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980)
+#### [Solution: Real quantum teleportation](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=0)** - [Instructor] To solve the challenge of teleporting a qubit, I started by copying the example teleportation code from an earlier video.
 >
-> **[0:13](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=13)** Since the end goal is to run this algorithm on real quantum hardware, I picked the variation that defers measurement until the end.
+> **[0:13](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=13)** Since the end goal is to run this algorithm on real quantum [[Hardware]], I picked the variation that defers measurement until the end.
 >
 > **[0:21](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=21)** Now, the circuit I copied from that earlier video teleports the state of qubit zero to qubit two, but this challenge asked us to go in the opposite direction, teleporting the state of qubit two to qubit zero after initializing qubit two with a Hadamard gate.
 >
@@ -5192,7 +5126,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=139)** I'll press Shift + Enter three more times to run those remaining cells.
 >
-> **[2:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=146)** And when the simulation finishes, we can see that each of the possible outcomes for measuring qubit zero occurred about the same number of times.
+> **[2:26](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=146)** And when the [[Simulation]] finishes, we can see that each of the possible outcomes for measuring qubit zero occurred about the same number of times.
 >
 > **[2:34](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=154)** That makes sense because we initialized qubit two with a Hadamard gate then teleported that quantum state to qubit zero before measuring it.
 >
@@ -5208,7 +5142,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=195)** This is going to take a while.
 >
-> **[3:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=197)** So let's fast forward to the end and we'll check out the results on the IBM Quantum computing webpage.
+> **[3:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=197)** So let's fast forward to the end and we'll check out the results on the IBM [[Quantum Computing]] webpage.
 >
 > **[3:24](https://www.linkedin.com/learning/quantum-computing-fundamentals/solution-real-quantum-teleportation?u=76281980&t=204)** On on the IBM Quantum jobs page, I can see that the job I submitted to the IBM_Oslo system is complete.
 >
@@ -5222,7 +5156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), next (3), cloud (3), api (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Simulation]] (1), [[Quantum Computing]] (1)
 > **Env Vars:** ibm (5), cnot (1), api (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1), as we saw (1)
@@ -5236,8 +5170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next quantum steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980)
+#### [Your next quantum steps](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5249,7 +5182,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=12)** - We learned about a variety of quantum logic gates.
 >
-> **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=14)** - And we've used those gates to build and run quantum algorithms.
+> **[0:14](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=14)** - And we've used those gates to build and run quantum [[Algorithms]].
 >
 > **[0:17](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=17)** - On a real quantum computer.
 >
@@ -5259,7 +5192,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=29)** It provides a university level course on quantum programming.
 >
-> **[0:33](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=33)** If you want to dive deeper into math, learn more about gates and algorithms and explore the realities of quantum hardware, this is a great place to go.
+> **[0:33](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=33)** If you want to dive deeper into math, learn more about gates and algorithms and explore the realities of quantum [[Hardware]], this is a great place to go.
 >
 > **[0:42](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980&t=42)** - Another online resource we've enjoyed is the website, Quantum Country, which hosts several detailed essays about quantum mechanics and computing.
 >
@@ -5273,7 +5206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Algorithms]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Hardware]] (1)
 > **Speakers:** - we (3), - congratulations (1), - and (1), - on (1), - another (1)
 > **Definitions:** is a  (1)
 

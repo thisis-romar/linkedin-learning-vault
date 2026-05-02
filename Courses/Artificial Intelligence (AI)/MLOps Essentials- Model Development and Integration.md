@@ -103,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980)
+#### [Getting started with MLOps](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,18 +119,17 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980&t=43)** I will then discuss the aspects around requirements and design for building ML.
 >
-> **[0:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980&t=49)** Next, I will focus on applying ML Labs to data engineering and model training.
+> **[0:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980&t=49)** Next, I will focus on applying ML Labs to [[Data Engineering]] and model training.
 >
 > **[0:55](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980&t=55)** I will progress further into the life cycle to using ML labs for model integration, as well as model management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (1), data (1), next (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scope and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980)
+#### [Scope and prerequisites](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,15 +143,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=26)** There are core machine learning activities in each of them.
 >
-> **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=30)** Feature engineering, model training, testing, and packaging are core ML activities on the build side Model deployment and inference, are the core activities on the run side.
+> **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=30)** [[Feature Engineering]], model training, testing, and packaging are core ML activities on the build side Model deployment and inference, are the core activities on the run side.
 >
 > **[0:42](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=42)** Knowledge and experience in core ML activities is a prerequisite for this course.
 >
-> **[0:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=49)** Then surrounding these core activities is MLOps, which again, can be split as built and run.
+> **[0:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=49)** Then surrounding these core activities is [[MLOps]], which again, can be split as built and run.
 >
-> **[0:56](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=56)** on the build side of MLOps we have various activities, like requirements management, data and training pipelines, data governance, experiment tracking, integrations, and model management.
+> **[0:56](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=56)** on the build side of MLOps we have various activities, like requirements management, data and training pipelines, [[Data Governance]], experiment tracking, integrations, and model management.
 >
-> **[1:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=70)** On the run side of MLOps, we have infrastructure management, deployment, serving, monitoring, and responsible AI.
+> **[1:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=70)** On the run side of MLOps, we have infrastructure management, deployment, serving, monitoring, and [[Responsible AI]].
 >
 > **[1:19](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=79)** For this course, we will only focus on the build side Activities of MLOps.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=160)** This course is suitable for multiple roles including, data scientists, ML engineers, managers, and product owners working in the ML domain.
 >
-> **[2:50](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=170)** Finally, a word about the various tools and technologies discussed in this course.
+> **[2:50](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=170)** Finally, a [[Microsoft Word|word]] about the various tools and technologies discussed in this course.
 >
 > **[2:55](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=175)** the MLOps tools world is a rapidly evolving ecosystem.
 >
@@ -187,13 +185,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=192)** So we are recommending tools based on the status at the time of this recording, but it can change rapidly.
 >
-> **[3:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=200)** Also, there are MLOps tools from the big three platforms, AWS, GCP, and Azure.
+> **[3:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=200)** Also, there are MLOps tools from the big three platforms, AWS, GCP, and [[Microsoft Azure|Azure]].
 >
 > **[3:28](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/scope-and-prerequisites?u=76281980&t=208)** We are not going to discuss them specifically in this course, but do check them out, if you are already on any of these platforms
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (11), management (3), data (3), [[Feature Engineering]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (11), [[Feature Engineering]] (1), [[Data Governance]] (1), [[Responsible AI]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
@@ -206,8 +204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980)
+#### [Machine learning life cycle](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980&t=65)** First, training data is acquired and made available for machine learning.
 >
-> **[1:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980&t=70)** Feature engineering is done on the training data to cleanse, transform and extract useful features.
+> **[1:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980&t=70)** [[Feature Engineering]] is done on the training data to cleanse, transform and extract useful features.
 >
 > **[1:18](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980&t=78)** This is then used to train the model.
 >
@@ -261,16 +258,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Feature Engineering]] (2), business (2), application (1), product (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unique challenges with ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980)
+#### [Unique challenges with ML](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=0)** - [Instructor] When compared to plain vanilla software applications, building machine learning applications poses additional challenges that needs to be tackled for successful execution.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=0)** - [Instructor] When compared to plain [[Vanilla]] software applications, building machine learning applications poses additional challenges that needs to be tackled for successful execution.
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=12)** Let's begin with the concept of artifacts.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=95)** Now let's look at the artifacts for ML engineering.
 >
-> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=98)** All ML products still require code to run in executables, support APIs, pre-process inputs, interact with the model, and process results.
+> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=98)** All ML [[Microsoft Products|products]] still require code to run in executables, support APIs, pre-process inputs, interact with the model, and process results.
 >
 > **[1:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=109)** Similar records are also required for ML.
 >
@@ -336,19 +332,18 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=191)** Each artifact needs a different set of skills to create and maintain, and these teams need to collaborate with each other.
 >
-> **[3:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=200)** There is the need for an integrated workflow across all these life cycles to efficiently manage ML application development.
+> **[3:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/unique-challenges-with-ml?u=76281980&t=200)** There is the need for an integrated workflow across all these life cycles to efficiently manage ML [[Application Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Engineering]] (5), teams (2), [[Vanilla]] (1), management (1)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[Microsoft Products|Products]] (1), [[Application Development]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is DevOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980)
+#### [What is DevOps?](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=0)** - [Instructor] DevOps is the most popular software creation and delivery methodology that drives continuous development in an agile fashion.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=0)** - [Instructor] [[DevOps]] is the most popular software creation and delivery methodology that drives continuous development in an [[Agile Development|agile]] fashion.
 >
 > **[0:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=10)** DevOps combines development, testing, and operations of software into one integrated workflow.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=26)** DevOps combines people, processes, and technologies into a seamless workflow.
 >
-> **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=34)** It uses agile principles, best practices, and tools for optimal software development.
+> **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=34)** It uses agile principles, best practices, and tools for optimal [[Software Development]].
 >
 > **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=40)** It enables fast, yet methodical management of software development and delivery.
 >
@@ -386,21 +381,20 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=110)** in DevOps, the same team manages all three of them.
 >
-> **[1:54](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=114)** DevOps is the foundation for MLOps, which we will discuss in the next video.
+> **[1:54](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-devops?u=76281980&t=114)** DevOps is the foundation for [[MLOps]], which we will discuss in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (8), [[Software Development]] (3), [[Agile Development|Agile]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Software Development]] (3), [[Agile Development|Agile]] (2), [[MLOps]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is MLOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980)
+#### [What is MLOps?](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=0)** - [Instructor] Let's get now to the topic of this course, MLOps.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=0)** - [Instructor] Let's get now to the topic of this course, [[MLOps]].
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=4)** What is MLOps?
 >
@@ -412,13 +406,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=30)** What are the elements of MLOps?
 >
-> **[0:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=33)** MLOps extends the DevOps methodology to building and serving machine learning solutions.
+> **[0:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=33)** MLOps extends the [[DevOps]] methodology to building and serving machine learning solutions.
 >
-> **[0:39](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=39)** It integrates the activities of data engineering and model development into the software engineering and deployment life cycle.
+> **[0:39](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=39)** It integrates the activities of [[Data Engineering]] and model development into the software engineering and deployment life cycle.
 >
 > **[0:48](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=48)** In addition to the software engineering artifacts of code and records, it manages the machine learning artifacts, data and models.
 >
-> **[0:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=57)** It enables continuous model development and integration, thus following an agile process to reduce time to market.
+> **[0:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=57)** It enables continuous model development and integration, thus following an [[Agile Development|agile]] process to reduce time to market.
 >
 > **[1:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=66)** MLOps deals with model deployment and serving.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=108)** The process starts with defining the requirements for the ML project and a corresponding design.
 >
-> **[1:54](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=114)** The design would include both non-ML parts like APIs, services, databases, user interfaces, et cetera, and ML pipelines like data engineering pipelines.
+> **[1:54](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=114)** The design would include both non-ML parts like APIs, services, [[Databases]], user interfaces, et cetera, and ML pipelines like data engineering pipelines.
 >
 > **[2:07](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/what-is-mlops?u=76281980&t=127)** This is then used to develop the non-ML parts of the overall solutions.
 >
@@ -476,18 +470,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (9), data (5), [[Data Engineering]] (4), [[DevOps]] (3), [[Engineering]] (3)
+> **Frameworks & Libraries:** [[MLOps]] (9), [[Data Engineering]] (4), [[DevOps]] (3), [[Databases]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Principles of MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980)
+#### [Principles of MLOps](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=0)** - [Instructor] What are the principles based on which MLOps functions?
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=0)** - [Instructor] What are the principles based on which [[MLOps]] functions?
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=5)** The overall objective of MLOps is to create an optimal end-to-end machine learning workflow that integrates different teams, modules, and artifacts to continuously improve and deliver machine learning solutions.
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=102)** It should be possible to trace the lineage of an artifact from its data and model origins.
 >
-> **[1:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=109)** The workflow should be secure with required access controls and privacy protections.
+> **[1:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=109)** The workflow should be secure with required access controls and [[Privacy]] protections.
 >
 > **[1:55](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/principles-of-mlops?u=76281980&t=115)** By modeler, the workflow should be integrated for seamless movement of artifacts.
 >
@@ -531,16 +524,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (6), teams (4), data (2), [[Automation]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (6), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### When to start MLOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980)
+#### [When to start MLOps?](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=0)** - [Narrator] When should an organization or team start investing in MLOps?
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=0)** - [Narrator] When should an organization or team start investing in [[MLOps]]?
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=6)** To answer this question, let's first try to understand how ML use cases evolve within an organization.
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=30)** A small team is formed for this purpose.
 >
-> **[0:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=33)** The team then studies the ML technology ecosystem to understand what algorithms, products and technologies are available, which are applicable to their business domain.
+> **[0:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=33)** The team then studies the ML technology ecosystem to understand what [[Algorithms]], [[Microsoft Products|products]] and technologies are available, which are applicable to their business domain.
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=45)** It also will explore possible business use cases to solve with ML.
 >
@@ -606,7 +598,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=189)** During experimentation, it's recommended to start adding MLOps capabilities as in when they are required.
 >
-> **[3:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=197)** For example, a data engineering pipeline and a training pipeline may be built here, but work around deployment and operations would be postponed.
+> **[3:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=197)** For example, a [[Data Engineering]] pipeline and a training pipeline may be built here, but work around deployment and operations would be postponed.
 >
 > **[3:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/when-to-start-mlops?u=76281980&t=207)** During the engineering phase, a full-fledged MLOps system is recommended.
 >
@@ -614,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (7), data (5), [[Engineering]] (3), business (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (7), [[Algorithms]] (1), [[Microsoft Products|Products]] (1), [[Data Engineering]] (1)
 > **Best Practices:** recommended (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -624,8 +616,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting ML projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980)
+#### [Selecting ML projects](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,9 +648,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=92)** A technology ecosystem should also exist in the specific domain for machine learning.
 >
-> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=98)** This includes algorithms, libraries, frameworks, and pre-trained models as needed.
+> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=98)** This includes [[Algorithms]], libraries, frameworks, and pre-trained models as needed.
 >
-> **[1:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=105)** For example, if your use case is in computer vision, then related-based technologies should be available and affordable.
+> **[1:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=105)** For example, if your use case is in [[Computer Vision]], then related-based technologies should be available and affordable.
 >
 > **[1:54](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=114)** Next, comes the budget that is available to create a team.
 >
@@ -675,17 +666,16 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=145)** So there should be an appetite for failure in the organization.
 >
-> **[2:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=150)** Choosing the right project at the beginning is critical to maximize the probability of success at the end.
+> **[2:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980&t=150)** Choosing the right project at the beginning is critical to maximize the [[Probability]] of success at the end.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), data (2), product (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Computer Vision]] (1), [[Probability]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980)
+#### [Creating requirements](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=49)** Let's start with the non-ML requirements.
 >
-> **[0:52](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=52)** This covers the user experience for the solution, including graphical user interfaces and APIs.
+> **[0:52](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=52)** This covers the [[User Experience (UX)|user experience]] for the solution, including graphical user interfaces and APIs.
 >
 > **[0:59](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=59)** Next comes the functions of a solution, including the data collected, transformations, and reporting and analytics.
 >
@@ -719,7 +709,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=87)** Serviceability requirements state how the solution will build observability and how issues are handled.
 >
-> **[1:35](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=95)** This set of requirements are common to general software projects and the best practices for these requirements also accrue to the ML projects.
+> **[1:35](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=95)** This set of requirements are common to general [[Software Projects]] and the best practices for these requirements also accrue to the ML projects.
 >
 > **[1:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-requirements?u=76281980&t=105)** Next comes ML specific requirements.
 >
@@ -773,23 +763,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (3), product (2), application (1), business (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Software Projects]] (1)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing the ML workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980)
+#### [Designing the ML workflow](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=0)** - [Instructor] The workflow followed by the teams plays a critical role in ensuring that the principles of MLOps are instituted and managed effectively.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=0)** - [Instructor] The workflow followed by the teams plays a critical role in ensuring that the principles of [[MLOps]] are instituted and managed effectively.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=11)** Designing the workflow is a key activity that should be given new consideration at the beginning of the project.
 >
 > **[0:18](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=18)** What is an ML Workflow?
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=20)** It is a sequence of processes and iterations that helps develop, manage and improve machine learning products and services.
+> **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=20)** It is a sequence of processes and iterations that helps develop, manage and improve machine learning [[Microsoft Products|products]] and services.
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=30)** The specific workflow designed by the team would be based on the requirements, team structure, and deployment goals.
 >
@@ -815,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=94)** The technology ecosystem for MLOps is rapidly evolving.
 >
-> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=98)** Flexibility and plug-and-play design would help replacing parts of the pipeline without impacting the rest of the parts.
+> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=98)** Flexibility and plug-and-play design would help replacing parts of the pipeline without impacting the [[Representational State Transfer (REST)|rest]] of the parts.
 >
 > **[1:46](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=106)** Ownership of various parts of the pipeline should be well defined and managed.
 >
@@ -823,7 +812,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=120)** One recommendation when creating pipelines, is to create decoupled sub pipelines.
 >
-> **[2:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=126)** Inside the big ML pipeline are multiple sub pipelines for data engineering, model development, product development, and deployment and operations.
+> **[2:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=126)** Inside the big ML pipeline are multiple sub pipelines for [[Data Engineering]], model development, [[Product Development]], and deployment and operations.
 >
 > **[2:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/designing-the-ml-workflow?u=76281980&t=137)** Each of these should be able to evolve and work in a decoupled fashion, in order to enable parallel progression.
 >
@@ -835,19 +824,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (3), data (3), teams (2), [[Microsoft Products|Products]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (3), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Engineering]] (1), [[Product Development]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assembling the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980)
+#### [Assembling the team](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=0)** - [Instructor] What are the best practices in putting a team together to execute an ML project?
 >
-> **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=6)** Building machine learning solutions requires a team with diverse skill sets across data engineering, data science, software engineering and operations.
+> **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=6)** Building machine learning solutions requires a team with diverse skill sets across [[Data Engineering]], [[Data Science]], software engineering and operations.
 >
 > **[0:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=17)** Assembling and heterogeneous team like this within the cost constraints of an organization is a challenge.
 >
@@ -861,7 +849,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=52)** Data scientists, who build models only constitute 20% of the team.
 >
-> **[0:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=57)** Data engineers, who do the data processing and wrangling constitute 30%.
+> **[0:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=57)** Data engineers, who do the [[Data Processing]] and wrangling constitute 30%.
 >
 > **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/assembling-the-team?u=76281980&t=64)** Another 20% goes to the engineers building wrapper services and APIs around the model.
 >
@@ -901,29 +889,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (3), [[Data Engineering]] (2), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Data Science]] (2), [[Data Processing]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1), - all (1)
 > **Best Practices:** recommended (1)
 
-#### Choosing tools and technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980)
+#### [Choosing tools and technologies](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=0)** - [Instructor] One significant challenge today is choosing the right set of tools and technologies for doing MLOps.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=0)** - [Instructor] One significant challenge today is choosing the right set of tools and technologies for doing [[MLOps]].
 >
 > **[0:08](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=8)** If we look at the technology landscape for MLOps today, it's nascent, growing, and ready to explode.
 >
 > **[0:16](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=16)** There are several tools and technologies built for MLOps.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=20)** Some of them are open source like MLflow.
+> **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=20)** Some of them are open source like [[MLflow]].
 >
 > **[0:23](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=23)** Some are commercial like Weights & Biases.
 >
-> **[0:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=26)** And some are built on cloud platforms like AWS, GCP, and Azure.
+> **[0:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=26)** And some are built on cloud platforms like AWS, GCP, and [[Microsoft Azure|Azure]].
 >
-> **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=31)** But the products are immature and evolving.
+> **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=31)** But the [[Microsoft Products|products]] are immature and evolving.
 >
 > **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=34)** It is expected that they will mature over time.
 >
@@ -939,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=67)** First, decouple tools as much as possible from the main pipeline so they can be replaced anytime without much impact to the pipeline.
 >
-> **[1:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=77)** Choose tools that suit the specific use case like classical ML, NLP, or computer vision.
+> **[1:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=77)** Choose tools that suit the specific use case like classical ML, NLP, or [[Computer Vision]].
 >
 > **[1:24](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=84)** Always test the tools using trial or free versions before you buy licenses.
 >
@@ -947,13 +934,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=99)** Look for extensibility and programmability, so you can customize the function if needed.
 >
-> **[1:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=105)** In the rest of this course, we will outline a few tools that are popular for various MLOps functions, but that list can evolve rapidly.
+> **[1:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=105)** In the [[Representational State Transfer (REST)|rest]] of this course, we will outline a few tools that are popular for various MLOps functions, but that list can evolve rapidly.
 >
 > **[1:55](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/choosing-tools-and-technologies?u=76281980&t=115)** It's highly recommended that you do your research at the time of your project implementation and choose the best suited product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (4), [[Microsoft Products|Products]] (2), product (2), [[MLflow]] (1), cloud (1)
+> **Frameworks & Libraries:** [[MLOps]] (4), [[Microsoft Products|Products]] (2), [[MLflow]] (1), [[Microsoft Azure|Azure]] (1), [[Computer Vision]] (1)
 > **Env Vars:** aws (1), gcp (1), nlp (1)
 > **CLI Commands:** aws (1)
 > **Best Practices:** recommended (1)
@@ -964,14 +951,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managed data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980)
+#### [Managed data pipelines](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=0)** - [Instructor] In this chapter, we will look at the elements of ML ops that deal with the data engineering part.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=0)** - [Instructor] In this chapter, we will look at the elements of ML ops that deal with the [[Data Engineering]] part.
 >
-> **[0:07](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=7)** We start with building managed data pipelines.
+> **[0:07](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=7)** We start with building managed [[Data Pipelines]].
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=11)** A data pipeline is an integral part of an ML workflow.
 >
@@ -997,11 +983,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=76)** After the models are deployed in production, new data is collected and the processing repeats.
 >
-> **[1:23](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=83)** It then forms a continuous cycle of acquiring data, processing, and improving models.
+> **[1:23](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=83)** It then [[Forms]] a continuous cycle of acquiring data, processing, and improving models.
 >
 > **[1:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=90)** Now let's look at managed data pipelines.
 >
-> **[1:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=94)** The word managed takes a lot of significance.
+> **[1:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=94)** The [[Microsoft Word|word]] managed takes a lot of significance.
 >
 > **[1:37](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=97)** Teams that do not manage their data pipelines properly end up with more issues, blockages, and additional effort in troubleshooting and fixing them.
 >
@@ -1011,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=116)** As the data pipelines are owned by developers instead of operations engineers, there is a tendency to not follow engineering practices, but instead the data pipelines need to be treated as production code.
 >
-> **[2:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=130)** A managed development life cycle like Agile needs to be followed for developing data pipeline code.
+> **[2:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=130)** A managed development life cycle like [[Agile Development|Agile]] needs to be followed for developing data pipeline code.
 >
 > **[2:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980&t=137)** There should be separate development, test, and production environments for these pipelines within engineering.
 >
@@ -1049,22 +1035,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), feature (5), [[Engineering]] (3), [[Data Engineering]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (7), [[Data Engineering]] (1), [[Forms]] (1), [[Microsoft Word|Word]] (1), [[Agile Development|Agile]] (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated data validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980)
+#### [Automated data validation](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=0)** - [Instructor] Automated data validation should be a key feature of any data pipeline.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=0)** - [Instructor] Automated [[Data Validation]] should be a key feature of any data pipeline.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=6)** Typically, the data-processing logic is decided based on the initial set of data used by data scientists.
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=14)** Those assumptions would carry over to the first model that is built by data scientists and deployed in production.
 >
-> **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=21)** After the model is deployed, new data is continuously acquired and processed by automated data pipelines.
+> **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=21)** After the model is deployed, new data is continuously acquired and processed by automated [[Data Pipelines]].
 >
 > **[0:28](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automated-data-validation?u=76281980&t=28)** In some cases, AutoML is also used to create new models.
 >
@@ -1098,12 +1083,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), feature (3), next (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1), [[Data Pipelines]] (1)
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
 
-#### Managed feature stores
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-feature-stores?u=76281980)
+#### [Managed feature stores](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-feature-stores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,14 +1137,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (10), data (8), teams (5), database (1)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-versioning?u=76281980)
+#### [Data versioning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,18 +1188,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), feature (3), teams (1)
 > **Env Vars:** dvc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - data (1)
 
-#### Data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980)
+#### [Data governance](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=0)** - [Instructor] Data governance is a key area in MLOps that deals with the administration of data stored and used for machine learning.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=0)** - [Instructor] [[Data Governance]] is a key area in [[MLOps]] that deals with the administration of data stored and used for machine learning.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=9)** Data governance is the practice of ensuring integrity, security, and usability of data through an organization of people, policies, and processes.
 >
@@ -1227,7 +1207,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=38)** Let's discuss a few.
 >
-> **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=40)** These elements, once again, apply to all types of data whether they are raw data, intermediate data, temporary data, features, metadata, and whether they are at rest or in motion in the pipeline.
+> **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=40)** These elements, once again, apply to all types of data whether they are raw data, intermediate data, temporary data, features, [[Metadata]], and whether they are at [[Representational State Transfer (REST)|rest]] or in motion in the pipeline.
 >
 > **[0:56](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=56)** The first goal of governance is ensuring consistency of data.
 >
@@ -1237,19 +1217,19 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=72)** Data stored across the pipeline should be complete, accurate, conform to requirements, and should be without errors.
 >
-> **[1:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=80)** Security is a critical aspect of data storage and processing.
+> **[1:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=80)** Security is a critical aspect of [[Data Storage]] and processing.
 >
 > **[1:24](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=84)** Only the users who have required permissions should be able to view, create, modify, and delete data.
 >
 > **[1:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=92)** Data should be secure from adversarial attacks.
 >
-> **[1:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=96)** Privacy is a key issue in data, especially when the data contains sensitive personal information.
+> **[1:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=96)** [[Privacy]] is a key issue in data, especially when the data contains sensitive personal information.
 >
 > **[1:43](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=103)** Today's business environment needs conformance to multiple laws, regulations, and standards.
 >
 > **[1:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=111)** Privacy practices like reduction and obfuscation are expected to be part of the pipeline to ensure protection of sensitive data.
 >
-> **[2:01](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=121)** Then comes resiliency of data.
+> **[2:01](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=121)** Then comes [[Resiliency]] of data.
 >
 > **[2:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/data-governance?u=76281980&t=124)** Protection is required against inadvertent and adversarial data loss.
 >
@@ -1281,27 +1261,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Security]] (3), [[Privacy]] (3), [[MLOps]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (7), [[Privacy]] (3), [[MLOps]] (2), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and technologies for data processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980)
+#### [Tools and technologies for data processing](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=0)** - [Instructor] What tools and technologies exist that help in ML labs for data engineering?
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=0)** - [Instructor] What tools and technologies exist that help in ML labs for [[Data Engineering]]?
 >
-> **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=6)** To begin with, we have popular big data processing technologies like Hadoop, Apache Spark and Apache Kafka.
+> **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=6)** To begin with, we have popular [[Big Data]] processing technologies like [[Hadoop]], [[Apache Spark]] and [[Apache Kafka]].
 >
 > **[0:15](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=15)** In addition to actual processing of data, they also have capabilities that help in control deployment, roll back, operations, logging, and change data capture.
 >
-> **[0:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=26)** Next comes the set of databases for data storage.
+> **[0:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=26)** Next comes the set of [[Databases]] for [[Data Storage]].
 >
-> **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=30)** This includes RDBMS like MySQL, and NoSQL like MongoDB and Cassandra.
+> **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=30)** This includes RDBMS like [[MySQL]], and [[NoSQL]] like [[MongoDB]] and Cassandra.
 >
-> **[0:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=36)** These databases provide capabilities like resiliency, access control, recovery, schema management, and versioning at various levels and they should be leveraged for data management.
+> **[0:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=36)** These databases provide capabilities like [[Resiliency]], access control, recovery, schema management, and versioning at various levels and they should be leveraged for [[Data Management]].
 >
 > **[0:49](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-data-processing?u=76281980&t=49)** Then there are also specific data versioning tools.
 >
@@ -1311,7 +1290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (2), management (2), [[Data Engineering]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Data Engineering]] (1), [[Big Data]] (1), [[Hadoop]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (2), mysql (1)
 > **Env Vars:** rdbms (1), dvc (1)
 > **Code Identifiers:** lakefs (1)
@@ -1323,18 +1302,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managed training pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980)
+#### [Managed training pipelines](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=0)** - [Instructor] Having discussed the data engineering side of MLOps.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=0)** - [Instructor] Having discussed the [[Data Engineering]] side of [[MLOps]].
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=4)** Let's get into model training in this chapter and how MLOps helps in making it efficient.
 >
 > **[0:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=10)** We'll start off with managed training pipelines.
 >
-> **[0:14](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=14)** Similar to managed data pipelines, training pipelines play a vital role in the ML workflow.
+> **[0:14](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=14)** Similar to managed [[Data Pipelines]], training pipelines play a vital role in the ML workflow.
 >
 > **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=21)** A robust managed training pipeline helps create repeatable ML training and testing workflows while reducing human costs.
 >
@@ -1364,7 +1342,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=106)** What are the best practices of managing a training data pipeline?
 >
-> **[1:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=111)** To begin with, there has to be a life cycle like agile that needs to be followed by the data science team.
+> **[1:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=111)** To begin with, there has to be a life cycle like [[Agile Development|agile]] that needs to be followed by the [[Data Science]] team.
 >
 > **[1:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=117)** There has been some progress in customized processes for machine learning that are optimized for continuous experiments.
 >
@@ -1378,7 +1356,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=146)** Experiment tracking is a key MLOps activity that we will cover later in this chapter.
 >
-> **[2:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=152)** Also, version control should be used for code, data, and models, and the corresponding versions need to be tied together for experiment tracking.
+> **[2:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=152)** Also, [[Version Control]] should be used for code, data, and models, and the corresponding versions need to be tied together for experiment tracking.
 >
 > **[2:44](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980&t=164)** Reproducibility of training is a key MLOps goal.
 >
@@ -1400,7 +1378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[MLOps]] (5), feature (3), [[Automation]] (3), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[Data Engineering]] (2), [[Data Pipelines]] (1), [[Agile Development|Agile]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1408,8 +1386,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating data labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980)
+#### [Creating data labels](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=14)** Data labeling or annotation is the process of adding contextual tags that are labels for training data that can then be used as targets for machine learning.
 >
-> **[0:25](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=25)** For example, let's look at a review for a movie by John.
+> **[0:25](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=25)** For example, let's look at a review for a movie by [[John the Ripper|John]].
 >
 > **[0:29](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=29)** A labeling task for this review would be about adding multiple contextual labels for this review.
 >
@@ -1433,7 +1410,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=57)** Raw training data acquired from sources may not have prepopulated labels.
 >
-> **[1:03](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=63)** Generally, structured data will contain labels, but unstructured data like text, media, and images may not have them.
+> **[1:03](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=63)** Generally, structured data will contain labels, but [[Unstructured Data]] like text, media, and images may not have them.
 >
 > **[1:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/creating-data-labels?u=76281980&t=71)** So to build models with unstructured data, labeling is needed.
 >
@@ -1475,18 +1452,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Unstructured Data]] (2), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[John the Ripper|John]] (1)
 > **Analogies:** for example (3)
 > **Versions:** 4.5 (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Experiment tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980)
+#### [Experiment tracking](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=0)** - [Instructor] One of the critical areas for MLOps is the tracking of ML experiments.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=0)** - [Instructor] One of the critical areas for [[MLOps]] is the tracking of ML experiments.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=6)** In ML training, multiple runs of building and validating the model happens as the data scientists work towards their expected performance goals.
 >
@@ -1500,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=40)** We begin with the model itself.
 >
-> **[0:42](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=42)** All the model set up including the ML algorithm being used and the architecture of the model for deep learning models need to be tracked.
+> **[0:42](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=42)** All the model set up including the ML algorithm being used and the architecture of the model for [[Deep Learning]] models need to be tracked.
 >
 > **[0:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/experiment-tracking?u=76281980&t=51)** Also the hyper parameters set up for the specific experiment should be tracked.
 >
@@ -1546,13 +1522,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[MLOps]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Deep Learning]] (1)
 > **Prerequisites:** set up (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980)
+#### [AutoML](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=28)** What activities can be automated in AutoML?
 >
-> **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=31)** It first starts with feature engineering.
+> **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=31)** It first starts with [[Feature Engineering]].
 >
 > **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=34)** AutoML can automatically analyze features to detect issues and inconsistencies and correct them.
 >
@@ -1590,7 +1565,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=99)** Data scientists may hand create a base model and then that model can be customized based on specific customers or use cases.
 >
-> **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=108)** This helps create and manage hundreds of models in a software as a service application without additional human work.
+> **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=108)** This helps create and manage hundreds of models in a [[SaaS|software as a service]] application without additional human work.
 >
 > **[1:57](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/automl?u=76281980&t=117)** Let's now look at some of the key benefits and shortcomings of AutoML.
 >
@@ -1640,26 +1615,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Automation]] (3), feature (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Feature Engineering]] (1), [[SaaS|Software as a service]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and technologies for training
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980)
+#### [Tools and technologies for training](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=0)** - [Instructor] There has been incredible growth of tools in the area of model training in the past couple of years, and this will continue to explode in the near future.
 >
-> **[0:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=10)** We will discuss some popular tools here, but it's highly recommended to scout the ecosystem for the best options when you actually start implementing MLOps.
+> **[0:10](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=10)** We will discuss some popular tools here, but it's highly recommended to scout the ecosystem for the best options when you actually start implementing [[MLOps]].
 >
-> **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=21)** For model development, there are mature platforms like Python, its library ecosystem and Jupyter Notebooks.
+> **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=21)** For model development, there are mature platforms like [[Python (Programming Language)|Python]], its library ecosystem and Jupyter Notebooks.
 >
-> **[0:29](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=29)** Source code control for software with tools like Git are also popular.
+> **[0:29](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=29)** Source code control for software with tools like [[Git]] are also popular.
 >
-> **[0:35](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=35)** For experiment management, there are multiple tools available, like Kubeflow and MLflow.
+> **[0:35](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=35)** For experiment management, there are multiple tools available, like Kubeflow and [[MLflow]].
 >
 > **[0:41](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-training?u=76281980&t=41)** Weights & Biases also specialize in this domain.
 >
@@ -1667,7 +1641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (1), [[Python (Programming Language)|Python]] (1), [[Git]] (1), management (1), [[MLflow]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Python (Programming Language)|Python]] (1), [[Git]] (1), [[MLflow]] (1)
 > **CLI Commands:** python (1), git (1)
 > **Cross-References:** coming up (1)
 > **Tools:** jupyter (1)
@@ -1675,12 +1649,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980)
+#### [Training with generative AI](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=0)** - [Instructor] Generative AI is the newest class of AI that is revolutionizing how machine learning could be used to help automate enterprise use cases.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] is the newest class of AI that is revolutionizing how machine learning could be used to help automate enterprise use cases.
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=12)** While most of the ML ops principles discussed in this course apply to generative AI also, there are some special considerations.
 >
@@ -1724,7 +1697,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=139)** This learning can supplement or override existing knowledge captured within the foundation model.
 >
-> **[2:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=146)** This fine tuning process costs significantly lower than pre-training.
+> **[2:26](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=146)** This [[Fine Tuning]] process costs significantly lower than pre-training.
 >
 > **[2:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/training-with-generative-ai?u=76281980&t=152)** It also takes less time when the data sets are readily available.
 >
@@ -1736,7 +1709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI]] (2), ai (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Fine Tuning]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1744,12 +1717,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980)
+#### [Model versioning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=0)** - [Instructor] In this chapter, we deal with MLOps around model management.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=0)** - [Instructor] In this chapter, we deal with [[MLOps]] around model management.
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=5)** We begin with a discussion on model versioning.
 >
@@ -1757,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=20)** Tracking models with versions help establish lineage and manage its life cycle.
 >
-> **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=27)** Version control schemes should be similar to what is followed for software code.
+> **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=27)** [[Version Control]] schemes should be similar to what is followed for software code.
 >
 > **[0:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980&t=32)** The specifics of the number of sub-versions and how version numbers change can be specific to your organization.
 >
@@ -1775,12 +1747,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (2), [[MLOps]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Version Control]] (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-registry?u=76281980)
+#### [Model registry](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,7 +1759,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-registry?u=76281980&t=12)** A model registry is a repository for storing and tracking machine learning models.
 >
-> **[0:18](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-registry?u=76281980&t=18)** It is a database that contains the model and metadata about the model.
+> **[0:18](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-registry?u=76281980&t=18)** It is a database that contains the model and [[Metadata]] about the model.
 >
 > **[0:23](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-registry?u=76281980&t=23)** The database can be queried at any time to access the model and information about it.
 >
@@ -1824,13 +1795,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Metadata]] (3), database (2), teams (2), feature (1)
+> **Frameworks & Libraries:** [[Metadata]] (3)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benchmarking models
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980)
+#### [Benchmarking models](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1844,7 +1814,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=41)** What setup is required for a benchmarking environment?
 >
-> **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=45)** First, it needs hardware compute power, like CPU, memory and discs.
+> **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=45)** First, it needs [[Hardware]] compute power, like CPU, memory and discs.
 >
 > **[0:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=51)** It also needs an isolated software and network setup where the benchmarking process won't be impacted by other activities.
 >
@@ -1864,7 +1834,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=98)** Then various performance and operational metrics need to be computed.
 >
-> **[1:43](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=103)** The tracking platform can use a combination of standard DevOps, observability platforms and ML experiment tracking platforms.
+> **[1:43](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=103)** The tracking platform can use a combination of standard [[DevOps]], observability platforms and ML experiment tracking platforms.
 >
 > **[1:53](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/benchmarking-models?u=76281980&t=113)** Finally, the mode of testing also needs to be determined.
 >
@@ -1900,21 +1870,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), [[Hardware]] (1), power (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[DevOps]] (1)
 > **Prerequisites:** setup (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model life cycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980)
+#### [Model life cycle management](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=0)** - [Instructor] The machine learning process can be considered as the journey of a model.
 >
-> **[0:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=5)** A model goes through a life cycle and managing its life cycle is central to MLOps.
+> **[0:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=5)** A model goes through a life cycle and managing its life cycle is central to [[MLOps]].
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=12)** A well defined model life cycle with associated policies and processes helps in organizing, managing and scaling machine learning in an organization.
 >
@@ -1934,7 +1903,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=64)** If it fails benchmarking, it moves to the discarded state.
 >
-> **[1:09](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=69)** Next, the model is integrated with non ML code and goes through integration testing.
+> **[1:09](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=69)** Next, the model is integrated with non ML code and goes through [[Integration Testing]].
 >
 > **[1:15](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-life-cycle-management?u=76281980&t=75)** If it passes integration testing, it moves to the upward state.
 >
@@ -1974,14 +1943,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Integration Testing]] (3), [[MLOps]] (1), next (1)
+> **Frameworks & Libraries:** [[Integration Testing]] (3), [[MLOps]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and technologies for model management
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980)
+#### [Tools and technologies for model management](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=12)** So please do your own due diligence at the time of implementation to find the best set of tools.
 >
-> **[0:19](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=19)** In terms of model registry, popular ML platforms like MLflow, Neptune and Weights and Biases provide the ability to store and track models.
+> **[0:19](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=19)** In terms of model registry, popular ML platforms like [[MLflow]], Neptune and Weights and Biases provide the ability to store and track models.
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=30)** This includes model life cycle management also.
 >
@@ -1999,15 +1967,15 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=41)** In addition, MLflow also has capabilities for benchmarking.
 >
-> **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=45)** AutoML is another rapidly evolving domain and products like Kubeflow and databricks are dating this domain now.
+> **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=45)** AutoML is another rapidly evolving domain and [[Microsoft Products|products]] like Kubeflow and databricks are dating this domain now.
 >
 > **[0:54](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=54)** When choosing tools, please do consider reducing the total number of tools deployed, as each tool requires its own administration, integration, and maintenance.
 >
-> **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=64)** As the ecosystem evolves, we can expect fewer tools which provide end-to-end MLOps capabilities.
+> **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/tools-and-technologies-for-model-management?u=76281980&t=64)** As the ecosystem evolves, we can expect fewer tools which provide end-to-end [[MLOps]] capabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[MLflow]] (2), [[Microsoft Products|Products]] (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[MLflow]] (2), [[Microsoft Products|Products]] (1), [[MLOps]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2017,8 +1985,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution integration pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980)
+#### [Solution integration pipelines](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +1997,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980&t=18)** They need to be embedded into other code to deliver end-to-end solutions.
 >
-> **[0:24](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980&t=24)** This requires integration with other code like APIs, UIs, databases, and microservices.
+> **[0:24](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980&t=24)** This requires integration with other code like APIs, UIs, [[Databases]], and [[Microservices]].
 >
 > **[0:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980&t=33)** How do we go about doing this integration?
 >
@@ -2068,13 +2035,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[Microservices]] (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microservices]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notebook to software
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980)
+#### [Notebook to software](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,7 +2054,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=32)** This depends upon the type of use case and deployment.
 >
-> **[0:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=36)** To begin with, the model can be provided as embedded software, where it gets embedded into non-ML executables.
+> **[0:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=36)** To begin with, the model can be provided as [[Embedded Software]], where it gets embedded into non-ML executables.
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=45)** Alternatively, it can be its own running service that receives requests from clients and returns responses.
 >
@@ -2100,17 +2066,17 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=68)** It could be made available as an SDK.
 >
-> **[1:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=71)** It could be a Python package.
+> **[1:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=71)** It could be a [[Python (Programming Language)|Python]] package.
 >
 > **[1:14](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=74)** It can be a pipeline Lambda function.
 >
 > **[1:17](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=77)** It can be a form of bundled solution that is sold.
 >
-> **[1:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=81)** If it runs as a service, the deployment forms will vary.
+> **[1:21](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=81)** If it runs as a service, the deployment [[Forms]] will vary.
 >
 > **[1:25](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=85)** For batch use cases, the model itself can be a batch ML job that reads data from a database and writes predictions back to the database.
 >
-> **[1:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=96)** It can be an API, like a rest API, that receives requests from clients and returns predictions as responses.
+> **[1:36](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=96)** It can be an API, like a [[Representational State Transfer (REST)|rest]] API, that receives requests from clients and returns predictions as responses.
 >
 > **[1:44](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=104)** For streaming, APIs can do the work also.
 >
@@ -2136,7 +2102,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=166)** The code should provide interfaces to receive inputs and return outputs.
 >
-> **[2:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=171)** These may be function calls, rest APIs or database queries.
+> **[2:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=171)** These may be function calls, rest APIs or [[Database Queries]].
 >
 > **[2:56](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/notebook-to-software?u=76281980&t=176)** Finally, the build, test and deployment infrastructure for this executable also needs to be built, like any other software module.
 >
@@ -2160,14 +2126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (3), [[Embedded Software]] (2), api (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Embedded Software]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), [[Forms]] (1), [[Database Queries]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** api (2), sdk (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution integration patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-patterns?u=76281980)
+#### [Solution integration patterns](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,7 +2184,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-patterns?u=76281980&t=168)** On the other hand, bringing a new version late in the cycle may result in problems and unplanned delays as we roll back and forward.
 >
-> **[2:58](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-patterns?u=76281980&t=178)** It also requires complex team collaboration between the ML and non-ML teams to make sure that these pieces would work properly when bought together later in the development cycle.
+> **[2:58](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-patterns?u=76281980&t=178)** It also requires complex [[Team Collaboration]] between the ML and non-ML teams to make sure that these pieces would work properly when bought together later in the development cycle.
 >
 > **[3:11](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-patterns?u=76281980&t=191)** Automation can be challenging also if it automatically pulls in a new version of the model, into the development and test cycle leading to breaking of the pipeline.
 >
@@ -2227,15 +2192,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Team Collaboration]] (1), teams (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Team Collaboration]] (1)
 > **Versions:** 3.0 (5), version 2 (3), version 5 (3), 5.0 (2), version 3 (1)
 > **Speakers:** - when (1), - what (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** asap (1)
 > **Warnings:** note that (1)
 
-#### Best practices for solution integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/best-practices-for-solution-integration?u=76281980)
+#### [Best practices for solution integration](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/best-practices-for-solution-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,16 +2221,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integration with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980)
+#### [Integration with generative AI](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=1)** - [Narrator] How is model integration done when it comes to generative AI use cases?
+> **[0:01](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=1)** - [Narrator] How is model integration done when it comes to [[Generative AI]] use cases?
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=7)** Generative AI models are huge, and they take significant resources to train, deploy, and serve.
 >
@@ -2276,7 +2238,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=33)** Hence, the integration work involves testing the generative AI application with the model service, and ensuring that all functionality works as desired.
 >
-> **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=45)** What are some key considerations for integration testing with generative AI?
+> **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=45)** What are some key considerations for [[Integration Testing]] with generative AI?
 >
 > **[0:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=51)** The first key activity is to focus on how the generative AI model is integrated into the application.
 >
@@ -2288,23 +2250,23 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=78)** In cases where the prompts can be changed by the user, test coverage is critical to ensure that all use cases are addressed.
 >
-> **[1:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=87)** Vector databases can be used for retrieval augmented generation-based applications.
+> **[1:27](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=87)** [[Vector Databases]] can be used for retrieval augmented generation-based applications.
 >
-> **[1:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=93)** These databases also need to be part of the integration testing.
+> **[1:33](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=93)** These [[Databases]] also need to be part of the integration testing.
 >
-> **[1:39](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=99)** If these GenAI applications are AI agents, then the tools used in these agents and their integration points with external applications also need to be tested.
+> **[1:39](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=99)** If these GenAI applications are [[AI Agents]], then the tools used in these agents and their integration points with external applications also need to be tested.
 >
 > **[1:51](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=111)** Guardrails may be used with GenAI applications for safety and security reasons.
 >
-> **[1:58](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=118)** Popular guardrails include privacy protection, hallucination, and harmful content filtering.
+> **[1:58](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=118)** Popular guardrails include [[Privacy Protection]], hallucination, and harmful content filtering.
 >
 > **[2:05](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=125)** These guardrails also need to be included during integration testing to ensure that they work as desired when deployed in production.
 >
-> **[2:15](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=135)** From a performance point of view, latency and cost for GenAI applications need to be measured during integration testing as they have a significant impact on user experience and budgets.
+> **[2:15](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/integration-with-generative-ai?u=76281980&t=135)** From a performance point of view, latency and cost for GenAI applications need to be measured during integration testing as they have a significant impact on [[User Experience (UX)|user experience]] and budgets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), application (4), [[Integration Testing]] (4), [[Security]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Integration Testing]] (4), [[Vector Databases]] (1), [[Databases]] (1), [[AI Agents]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [narrator] (1)
@@ -2314,12 +2276,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980)
+#### [Continuing on with MLOps](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980&t=0)** - [Instructor] Now that you have learned about the concepts of MLOps for model development and integration, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980&t=0)** - [Instructor] Now that you have learned about the concepts of [[MLOps]] for model development and integration, you can take your learning even further.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980&t=9)** Explore MLOps for model deployment and monitoring.
 >

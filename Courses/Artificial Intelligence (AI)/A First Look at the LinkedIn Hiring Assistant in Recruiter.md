@@ -51,14 +51,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Launching your hiring journey with Hiring Assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980)
+#### [Launching your hiring journey with Hiring Assistant](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980&t=0)** - [Narrator] Hiring can feel like juggling ten things at once, with roles to fill, stakeholders to align, candidates to track.
 >
-> **[0:06](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980&t=6)** That's where LinkedIn's Hiring Assistant comes in.
+> **[0:06](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980&t=6)** That's where [[LinkedIn]]'s Hiring Assistant comes in.
 >
 > **[0:10](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980&t=10)** LinkedIn's Hiring Assistant keeps everything for a role in one place and saves you time from bouncing between spreadsheets, notes, and emails.
 >
@@ -87,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up your first Hiring Assistant project
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980)
+#### [Setting up your first Hiring Assistant project](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=42)** I'm now ready to describe my ideal candidate.
 >
-> **[0:45](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=45)** I can add qualifications, attach a job description, a PDF document extracted from my career site, mention an ideal profile or add a LinkedIn job post.
+> **[0:45](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=45)** I can add qualifications, attach a job description, a PDF document extracted from my career site, mention an ideal profile or add a [[LinkedIn]] job post.
 >
 > **[0:56](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980&t=56)** But I just got out of the strategy meeting where we discuss this requirement.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Search]] (1), job description (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (5), select the (3), dropdown (1), open the (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (2)
@@ -193,8 +191,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - alright (1)
 
-#### Writing job qualifications that drive results
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/writing-job-qualifications-that-drive-results?u=76281980)
+#### [Writing job qualifications that drive results](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/writing-job-qualifications-that-drive-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +257,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), next (2), job description (1)
 > **UI Navigation:** click on (4)
 > **Env Vars:** pdf (2)
 > **Cross-References:** in the next (2)
@@ -268,9 +264,9 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [speaker] (1)
 
-#### Evaluating candidates sourced by Hiring Assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/evaluating-candidates-sourced-by-hiring-assistant?u=76281980)
+#### [Evaluating candidates sourced by Hiring Assistant](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/evaluating-candidates-sourced-by-hiring-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +336,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), ai (1)
 > **Definitions:** is a  (6), means that (1)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -348,8 +343,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Engaging candidates with smart outreach
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980)
+#### [Engaging candidates with smart outreach](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=88)** You can monitor progress, take over at any time, and your summary after completion.
 >
-> **[1:33](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=93)** All messages note that from the assistant LinkedIn may review conversations for improvement.
+> **[1:33](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=93)** All messages note that from the assistant [[LinkedIn]] may review conversations for improvement.
 >
 > **[1:39](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-with-smart-outreach?u=76281980&t=99)** Once that's set up, you can either send a message to that particular candidate or send to all.
 >
@@ -395,15 +389,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing your hiring strategy with Hiring Assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/optimizing-your-hiring-strategy-with-hiring-assistant?u=76281980)
+#### [Optimizing your hiring strategy with Hiring Assistant](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/optimizing-your-hiring-strategy-with-hiring-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,21 +454,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), next (1)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keep learning and stay supported with LinkedIn Recruiter resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980)
+#### [Keep learning and stay supported with LinkedIn Recruiter resources](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=0)** - [Trainer] Hiring assistant is a brand new adventure, and we're here to support you every step of the way.
 >
-> **[0:06](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=6)** From anywhere in Recruiter, click on the question mark icon top right, and you'll see the range of all resources at your disposal to continue your learning journey on Hiring Assistant or any AI-powered features on LinkedIn.
+> **[0:06](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=6)** From anywhere in Recruiter, click on the question mark icon top right, and you'll see the range of all resources at your disposal to continue your learning journey on Hiring Assistant or any AI-powered features on [[LinkedIn]].
 >
 > **[0:21](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/engaging-candidates-outreach-and-prescreening?u=76281980&t=21)** Starting with the Help Center, just type the keyword "hiring assistant," and you'll see all the pages on various topic related, connected to Hiring Assistant.
 >
@@ -501,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** click on (1)

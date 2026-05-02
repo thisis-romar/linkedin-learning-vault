@@ -83,16 +83,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make your WordPress website lightning fast
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980)
+#### [Make your WordPress website lightning fast](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=0)** - [Patrick] WordPress makes creating and maintaining a website easy.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=0)** - [Patrick] [[WordPress]] makes creating and maintaining a website easy.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=4)** That's why over 40% of websites on the internet use WordPress.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=9)** It's by far the most popular content management system in the world.
+> **[0:09](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=9)** It's by far the most popular [[Content Management]] system in the world.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=14)** But the same features that make WordPress easy to maintain don't necessarily make it fast.
 >
@@ -108,26 +107,25 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=60)** I've built sites for clients, created custom themes, developed plugins, designed software, and worked with WordPress hosts.
 >
-> **[1:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=67)** If you're ready to take your WordPress site to the next level, then come join me in my LinkedIn Learning course.
+> **[1:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/make-your-wordpress-website-lightning-fast?u=76281980&t=67)** If you're ready to take your WordPress site to the next level, then come join me in my [[LinkedIn]] Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), [[Search]] (2), [[Content Management]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[Content Management]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [patrick] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=0)** - [Narrator] Before we dive in, let's go over what you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=4)** First, you should be very comfortable with WordPress.
+> **[0:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=4)** First, you should be very comfortable with [[WordPress]].
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=7)** That means knowing how to find and install plugins, how to select and customize themes and how to use the WordPress admin interface.
 >
-> **[0:16](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=16)** Next, it'll be helpful if you're familiar with HTML, CSS and JavaScript.
+> **[0:16](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=16)** Next, it'll be helpful if you're familiar with [[HTML]], CSS and [[JavaScript]].
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-you-should-know?u=76281980&t=21)** A lot of the optimization in this course focuses on these front end technologies.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), next (2), [[HTML]] (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), css (1)
 > **Prerequisites:** install (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why speed is important for websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980)
+#### [Why speed is important for websites](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=8)** The one-sentence summary is no one wants to wait.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=12)** The less time people have to wait, the more time they have to browse your site and convert, whether that means filling out a lead generation form or checking out on your e-commerce store.
+> **[0:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=12)** The less time people have to wait, the more time they have to browse your site and convert, whether that means filling out a [[Lead Generation]] form or checking out on your [[E-Commerce]] store.
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=24)** Numerous studies show that as page speed goes up, so does the bounce rate.
 >
@@ -193,13 +190,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=88)** If your site loads in four seconds and you can reduce it to three seconds, you could see a 7% increase in conversions.
 >
-> **[1:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=97)** The other big reason to increase your website speed is to improve your search engine optimization, or SEO.
+> **[1:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=97)** The other big reason to increase your website speed is to improve your [[Search Engine Optimization (SEO)|search engine optimization]], or SEO.
 >
 > **[1:44](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=104)** Search engines know that people don't want to wait.
 >
 > **[1:47](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=107)** So they rank fast websites more highly than slow websites.
 >
-> **[1:51](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=111)** Google started using speed as a factor for PageRank way back in 2010, since their Core Web Vitals initiative began.
+> **[1:51](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=111)** [[Google]] started using speed as a factor for PageRank way back in 2010, since their Core Web Vitals initiative began.
 >
 > **[1:59](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=119)** It's only become more relevant in recent years.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=152)** If you're a web developer, you can tell your boss exactly how a faster website will make the company more money.
 >
-> **[2:38](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=158)** And if you work for a web development agency, you can offer the added value of website optimization as a service or include it as part of your website build.
+> **[2:38](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=158)** And if you work for a [[Web Development]] agency, you can offer the added value of website optimization as a service or include it as part of your website build.
 >
 > **[2:48](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-speed-is-important-for-websites?u=76281980&t=168)** Speed is incredibly important if you actually want users to visit and interact on your website.
 >
@@ -225,15 +222,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), web (2), [[Lead Generation]] (1), [[E-Commerce]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (1), [[E-Commerce]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Google]] (1), [[Web Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** rule of thumb (2)
 > **Env Vars:** seo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to check and monitor your speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980)
+#### [How to check and monitor your speed](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=30)** So let's take a quick tour of the tools that we can use to measure our site speed.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=35)** Google PageSpeed Insights is a great tool and since one of our main reasons we're improving the speed of our site is to rank better, we should at least occasionally check our site against the official Google tool.
+> **[0:35](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=35)** [[Google]] PageSpeed Insights is a great tool and since one of our main reasons we're improving the speed of our site is to rank better, we should at least occasionally check our site against the official Google tool.
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=46)** One of the things I like about the Google tool is it gives you scores for desktop and mobile.
 >
@@ -281,13 +277,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=125)** The Waterfall tab is perhaps my favorite part.
 >
-> **[2:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=127)** It shows you how each element in an HTML page loads.
+> **[2:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=127)** It shows you how each element in an [[HTML]] page loads.
 >
 > **[2:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=133)** We'll talk about this waterfall in future videos but if you see a large item, it could be blocking all of the items behind it, so one of the things we'll do in this course is find large blockers and either reduce their size, remove them entirely or lazy load them at the end.
 >
 > **[2:29](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=149)** We actually haven't seen the killer feature in GTmetrix and it's so simple.
 >
-> **[2:34](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=154)** With a free account, we can monitor your website and get a daily, weekly or monthly email, summarizing their page speeds and the reason this is super important is that WordPress websites are always changing.
+> **[2:34](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=154)** With a free account, we can monitor your website and get a daily, weekly or monthly email, summarizing their page speeds and the reason this is super important is that [[WordPress]] websites are always changing.
 >
 > **[2:47](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-to-check-and-monitor-your-speed?u=76281980&t=167)** The typical site owner is constantly adding and removing plugins, changing the theme's look and feel and uploading images.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), web (2), [[HTML]] (1), feature (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[HTML]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
 > **Env Vars:** html (1), url (1)
@@ -326,8 +322,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
 
-#### How websites slow down
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980)
+#### [How websites slow down](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,13 +332,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=18)** In our example, if someone wants to visit lay back games, they'll request a webpage from the server.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=25)** Then the server uses WordPress to assemble the page.
+> **[0:25](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=25)** Then the server uses [[WordPress]] to assemble the page.
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=28)** It turns a bunch of PHP files into a single HTML file which is returned to the visitor's browser.
+> **[0:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=28)** It turns a bunch of [[PHP]] files into a single [[HTML]] file which is returned to the visitor's browser.
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=36)** The time this process takes is called the time to first byte or TTFB.
 >
-> **[0:41](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=41)** This isn't one of the official lighthouse performance metrics search engines like Google use, but it is still very helpful to know.
+> **[0:41](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=41)** This isn't one of the official lighthouse [[Performance Metrics]] search engines like [[Google]] use, but it is still very helpful to know.
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=48)** A good goal for time to first byte is less than 200 milliseconds.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=87)** A slower TTFB could be due to how fast your server parses PHP, how many plugins you have, what your plugins are doing, what theme you use, how many templates you have and how many template parts WordPress has to stitch together.
 >
-> **[1:41](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=101)** Once the visitor's browser has the HTML page, it reads the HTML and loads assets, including images, CSS, and JavaScript files.
+> **[1:41](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=101)** Once the visitor's browser has the HTML page, it reads the HTML and loads assets, including images, CSS, and [[JavaScript]] files.
 >
 > **[1:50](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=110)** We've all heard about HTTP, that's the protocol your browser uses to download files.
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=168)** The server can respond to your request with all the files that has available and you will get your assets much faster.
 >
-> **[2:55](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=175)** If you have a huge file, for instance, a large uncropped photograph, the other files won't get stuck behind it slowing down the load time for the rest of the website.
+> **[2:55](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=175)** If you have a huge file, for instance, a large uncropped photograph, the other files won't get stuck behind it slowing down the load time for the [[Representational State Transfer (REST)|rest]] of the website.
 >
 > **[3:06](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=186)** Once the browser has a few assets, it starts rendering them.
 >
@@ -395,7 +390,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=206)** The FCP measures how long it takes the browser to render the first piece of DOM content after user navigates to your page.
 >
-> **[3:35](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=215)** The DOM is the document object model.
+> **[3:35](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=215)** The DOM is the [[Document Object Model (DOM)|document object model]].
 >
 > **[3:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/how-websites-slow-down?u=76281980&t=217)** It's the way that the browser processes in HTML page.
 >
@@ -449,7 +444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), [[WordPress]] (5), [[Search]] (3), [[Google]] (3), [[PHP]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[WordPress]] (5), [[Google]] (3), [[PHP]] (2), [[JavaScript]] (2)
 > **Env Vars:** http (7), html (6), fcp (5), lcp (4), ttfb (3)
 > **CLI Commands:** make (3), php (2)
 > **Definitions:** is called (3), is a  (1), basically means (1)
@@ -458,8 +453,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static vs. dynamic sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980)
+#### [Static vs. dynamic sites](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,13 +469,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=30)** Some dynamic websites even look different to every single user.
 >
-> **[0:34](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=34)** Think about e-commerce websites where each visitor has their own cart or membership sites where users see different content based on their membership level or even based on what content they've already consumed.
+> **[0:34](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=34)** Think about [[E-Commerce]] websites where each visitor has their own cart or membership sites where users see different content based on their membership level or even based on what content they've already consumed.
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=46)** Many techniques we'll cover in this course will work for both types of websites, but there is one particular technique that works very well with static websites and doesn't work well for dynamic websites and that is caching.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=61)** There are many different types of caching and we're going to cover them later in this course, but let's look at one type of caching to highlight how it works and why it works better for some websites than others.
 >
-> **[1:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=72)** With server caching, the web server processes the page, assembles all the different pieces and saves the HTML output.
+> **[1:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=72)** With server caching, the web server processes the page, assembles all the different pieces and saves the [[HTML]] output.
 >
 > **[1:20](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/static-vs-dynamic-sites?u=76281980&t=80)** Then the next person who visits that page gets the saved copy, which saves a ton of processing time.
 >
@@ -505,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), web (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[HTML]] (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** html (1)
 > **Cross-References:** later in (1)
@@ -517,14 +511,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why hosting matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980)
+#### [Why hosting matters](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=0)** - [Instructor] When people talk about optimization, they usually focus on the front end.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=4)** That means digging into the HTML code, combining CSS files, differing JavaScript files, and optimizing images.
+> **[0:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=4)** That means digging into the [[HTML]] code, combining CSS files, differing [[JavaScript]] files, and optimizing images.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=12)** These are all very useful techniques but they're also the easiest techniques to implement.
 >
@@ -540,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=55)** So what part of this overall speed test is controlled by your hosting or is mostly affected by hosting.
 >
-> **[1:03](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=63)** For a WordPress website, a user visits the page, your server processes all the PHP files, creates the HTML page, and then returns it to the user.
+> **[1:03](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=63)** For a [[WordPress]] website, a user visits the page, your server processes all the [[PHP]] files, creates the HTML page, and then returns it to the user.
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=72)** Your hosting settings directly affect this part.
 >
@@ -588,7 +581,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=232)** If you have a lot of plugins or a complex theme or a slow server, this could take a lot longer.
 >
-> **[3:58](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=238)** And if you're unhappy with this number, the rest of the series will improve other aspects of your site but we can't improve this number.
+> **[3:58](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=238)** And if you're unhappy with this number, the [[Representational State Transfer (REST)|rest]] of the series will improve other aspects of your site but we can't improve this number.
 >
 > **[4:05](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/why-hosting-matters?u=76281980&t=245)** That's why we're starting here.
 >
@@ -604,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (5), web (4), [[WordPress]] (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (5), [[WordPress]] (2), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (7), php (5), cpu (2), css (1), ram (1)
 > **CLI Commands:** php (5)
 > **Definitions:** is a  (4), is an  (1)
@@ -613,12 +606,11 @@ created: 2026-05-02
 > **Versions:** 1.5 (1)
 > **Cross-References:** later in (1)
 
-#### PHP versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980)
+#### [PHP versions](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=0)** - [Narrator] One of the best ways to improve your website's hosting performance is to run the latest version of PHP.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=0)** - [Narrator] One of the best ways to improve your website's hosting performance is to run the latest version of [[PHP]].
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=6)** Which is 7.0 or higher.
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=10)** And if you compare the old version of PHP, PHP 5.6, to the newest version, PHP seven, that PHP seven works about 1.8 times faster than PHP 5.6.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=24)** And there are some tests with specific applications in this case, Drupal WordPress and PHPBB.
+> **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=24)** And there are some tests with specific applications in this case, [[Drupal]] [[WordPress]] and PHPBB.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/php-versions?u=76281980&t=32)** And we can see that with WordPress specifically, it's over two times as fast.
 >
@@ -662,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), [[WordPress]] (3), data (1), [[Drupal]] (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[WordPress]] (3), [[Drupal]] (1)
 > **CLI Commands:** php (10), make (3), find (1)
 > **Env Vars:** php (10), phpbb (1)
 > **Versions:** php 5 (2), 7.4 (2), 7.0 (1), 1.8 (1), version 7 (1)
@@ -671,8 +663,7 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Server location
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/server-location?u=76281980)
+#### [Server location](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/server-location?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +733,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), game (2), data (1)
 > **Versions:** 1.37 (3), 2.1 (2), 2.9 (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1)
@@ -755,8 +745,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize images
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980)
+#### [Optimize images](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,13 +753,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=4)** And that's optimizing your images.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=7)** And according to Google, images can account for 60% of a page's total weight.
+> **[0:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=7)** And according to [[Google]], images can account for 60% of a page's total weight.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=12)** So if you could only work on one aspect to speed up your site, I would encourage you to optimize your images.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=20)** There are three things we're going to look at in this lesson.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=23)** Different file types, file quality, and how to automatically optimize images in WordPress.
+> **[0:23](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=23)** Different file types, file quality, and how to automatically optimize images in [[WordPress]].
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/optimize-images?u=76281980&t=30)** Which of these images do you think is the largest file?
 >
@@ -890,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[Google]] (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Google]] (1)
 > **Env Vars:** png (10), jpg (4), svg (4), jpeg (1)
 > **CLI Commands:** make (3)
 > **Versions:** 7.1 (1), 1.2 (1)
@@ -899,8 +888,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install an image optimizing plug-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/install-an-image-optimizing-plug-in?u=76281980)
+#### [Install an image optimizing plug-in](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/install-an-image-optimizing-plug-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +910,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/install-an-image-optimizing-plug-in?u=76281980&t=45)** I'm going to keep all these settings as the default, click save, and go to bulk process.
 >
-> **[0:53](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/install-an-image-optimizing-plug-in?u=76281980&t=53)** You can see here I have 16 original images and WordPress has created 101 thumbnails.
+> **[0:53](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/install-an-image-optimizing-plug-in?u=76281980&t=53)** You can see here I have 16 original images and [[WordPress]] has created 101 thumbnails.
 >
 > **[0:58](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/install-an-image-optimizing-plug-in?u=76281980&t=58)** Let's go ahead and click also create WebP versions of the images for free and start optimizing.
 >
@@ -952,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), data (2), game (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** api (3)
 > **Versions:** 1.5 (1), 5.2 (1), 3.6 (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -960,8 +948,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a content delivery network (CDN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980)
+#### [Use a content delivery network (CDN)](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=6)** A content delivery network is similar to a web server but there are two key differences.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=13)** The first is that CDNs store static assets, like images, CSS files, and JavaScript files.
+> **[0:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=13)** The first is that CDNs store static assets, like images, CSS files, and [[JavaScript]] files.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=20)** They don't process web pages.
 >
@@ -997,7 +984,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=93)** So if I've convinced you, there are a number of options for CDNs.
 >
-> **[1:38](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=98)** Some managed WordPress hosts have a CDN built in.
+> **[1:38](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=98)** Some managed [[WordPress]] hosts have a CDN built in.
 >
 > **[1:41](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-a-content-delivery-network-cdn?u=76281980&t=101)** WP engine has a CDN built into their hosting plans as does Kinsta as well as Nexcess.
 >
@@ -1057,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), css (5), [[JavaScript]] (5), [[WordPress]] (4), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[WordPress]] (4)
 > **Env Vars:** cdn (24), css (5), url (1)
 > **Versions:** 2.7 (1), 2.8 (1), 0.1 (1)
 > **Analogies:** similar to (1), it's like (1), think of it as (1)
@@ -1066,12 +1053,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), install (1)
 > **UI Navigation:** scroll down (1)
 
-#### Offload audio and video files
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980)
+#### [Offload audio and video files](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=0)** - [Instructor] There are a ton of tools to deliver JavaScript, CSS, and images like CDNs, but there are also a few other types of media you might have on your site, namely audio and video files.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=0)** - [Instructor] There are a ton of tools to deliver [[JavaScript]], CSS, and images like CDNs, but there are also a few other types of media you might have on your site, namely audio and video files.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=12)** And just like JavaScript, CSS, and images, we want to offload audio and video files to external services to reduce the load on your web server and to have locations around the world to serve these locations from the closest location to the user.
 >
@@ -1079,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=34)** I run a podcast for board game designers and each individual post includes the podcast audio.
 >
-> **[0:40](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=40)** You could upload all these audio files to your own web server, and you can run a podcast directly from your own WordPress site.
+> **[0:40](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=40)** You could upload all these audio files to your own web server, and you can run a podcast directly from your own [[WordPress]] site.
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/offload-audio-and-video-files?u=76281980&t=46)** While this might sound great, it will eventually fill up all of your web hosting, and your site will slow down when hundreds or thousands of people download the new podcast all at the same time.
 >
@@ -1133,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), css (4), web (4), [[WordPress]] (2), game (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[WordPress]] (2)
 > **Env Vars:** css (4)
 > **Definitions:** is a  (3)
 > **Exercise Files:** download the (1)
@@ -1141,14 +1127,13 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use lazy loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-lazy-loading?u=76281980)
+#### [Use lazy loading](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-lazy-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-lazy-loading?u=76281980&t=0)** - Most people consider being lazy a vice, something that you have to overcome to achieve your goals.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-lazy-loading?u=76281980&t=6)** But in web development, lazy loading can be a very powerful tool.
+> **[0:06](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-lazy-loading?u=76281980&t=6)** But in [[Web Development]], lazy loading can be a very powerful tool.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/use-lazy-loading?u=76281980&t=11)** According to Mozilla, lazy loading is a strategy to identify resources as nonblocking and load these only when needed.
 >
@@ -1234,12 +1219,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your theme matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980)
+#### [Your theme matters](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980&t=0)** - [Presenter] In the WordPress world it's common to hear that your theme should control the look and feel of your site and plugins should control the functionality.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980&t=0)** - [Presenter] In the [[WordPress]] world it's common to hear that your theme should control the look and feel of your site and plugins should control the functionality.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/your-theme-matters?u=76281980&t=9)** That's always been a best practice in WordPress but it's even more important when you start considering speed.
 >
@@ -1347,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), data (3), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (6)
 > **Versions:** 1.8 (3), 3.9 (1), 1.2 (1), 4.7 (1), 3.7 (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (5)
@@ -1356,8 +1340,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Plugins: Quality over quantity
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980)
+#### [Plugins: Quality over quantity](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,7 +1350,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=11)** One of the surprising things we found was the number of plugins that did very similar things.
 >
-> **[0:16](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=16)** For example, we'd see contact form seven, gravity forms and ninja forms all on the same site.
+> **[0:16](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=16)** For example, we'd see contact form seven, gravity [[Forms]] and ninja forms all on the same site.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=23)** Or we'd see multiple SEO plugins.
 >
@@ -1399,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=92)** Because if you find a high quality plugin, it's likely going to be efficient and speedy.
 >
-> **[1:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=97)** And when you're on [wordpress.org](https://wordpress.org), you want to look for high star ratings, lots of ratings and responses on the support forum.
+> **[1:37](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=97)** And when you're on [[[WordPress]].org](https://wordpress.org), you want to look for high star ratings, lots of ratings and responses on the support forum.
 >
 > **[1:44](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=104)** Just doing this little bit of research and using only four star and above plugins or four and a half star and above plugins that have good reviews and good support will very likely mean that they're efficient and fast.
 >
@@ -1417,7 +1400,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=148)** There are some plugins that do need to load on every page.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=151)** As an example, WooCommerce loads the Cart JavaScript files on every page.
+> **[2:31](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=151)** As an example, [[WooCommerce]] loads the Cart [[JavaScript]] files on every page.
 >
 > **[2:36](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=156)** So what you can do is look for plugins or techniques which restrict what pages these scripts and styles will load.
 >
@@ -1429,7 +1412,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=179)** We'll configure this in if future video.
 >
-> **[3:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=184)** If you're okay, spending a few hours digging into the details with your plugins, you can watch for slow front-tend POST admin-ajax.PHP requests.
+> **[3:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=184)** If you're okay, spending a few hours digging into the details with your plugins, you can watch for slow front-tend POST admin-[[AJAX]].[[PHP]] requests.
 >
 > **[3:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/plugins-quality-over-quantity?u=76281980&t=193)** You can find those admin-ajax.PHP requests by checking on the waterfall on your site using GTmetrix or some other speed testing tool.
 >
@@ -1497,7 +1480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (4), [[AJAX]] (4), [[Forms]] (3), next (2), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[AJAX]] (4), [[Forms]] (3), [[WordPress]] (2), [[JavaScript]] (2)
 > **CLI Commands:** find (6), make (2), php (2)
 > **Env Vars:** php (2), seo (1), post (1)
 > **UI Navigation:** scroll down (2), go to (2)
@@ -1506,8 +1489,7 @@ created: 2026-05-02
 > **File Paths:** admin-ajax.php (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (2)
 
-#### Concatenate and minify scripts and styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980)
+#### [Concatenate and minify scripts and styles](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1517,7 +1499,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=18)** And while this is good for my own organization, it's not great for speed.
 >
-> **[0:22](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=22)** I like to think of the process of web servers, sending data to browsers, like a very fast version of our mail system.
+> **[0:22](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=22)** I like to think of the process of [[Web Servers]], sending data to browsers, like a very fast version of our mail system.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=29)** When I want you to send me some information, is it going to be easier and faster to send 50 separate small packages, or one large package?
 >
@@ -1527,7 +1509,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=47)** And even though it's a very tiny amount of time, you want to make as few new connections as possible, and send larger files.
 >
-> **[0:55](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=55)** So on the theme side, you want to combine all of your CSS files into one larger CSS file, and combine all of your JavaScript files into one larger JavaScript file.
+> **[0:55](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=55)** So on the theme side, you want to combine all of your CSS files into one larger CSS file, and combine all of your [[JavaScript]] files into one larger JavaScript file.
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/concatenate-and-minify-scripts-and-styles?u=76281980&t=65)** This is called concatenation.
 >
@@ -1619,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[JavaScript]] (9), web (2), data (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[Web Servers]] (1)
 > **Env Vars:** css (10), tcp (1), url (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), scroll down (2)
@@ -1633,20 +1615,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WordPress database structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980)
+#### [WordPress database structure](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=0)** - [Instructor] We've talked a lot about processing PHP files and how to make it easier and faster to load assets, but we haven't really talked about the database where the content of your site comes from.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=0)** - [Instructor] We've talked a lot about processing [[PHP]] files and how to make it easier and faster to load assets, but we haven't really talked about the database where the content of your site comes from.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=11)** Let's dive in to how the WordPress database works because the more you know, the more you can improve it.
+> **[0:11](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=11)** Let's dive in to how the [[WordPress]] database works because the more you know, the more you can improve it.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=18)** WordPress uses a relational database.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=21)** If you don't understand that term, no worries.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=24)** If you want to dive deep into how databases work, we have [[Programming Foundations Databases]] in the library.
+> **[0:24](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=24)** If you want to dive deep into how [[Databases]] work, we have [[[[Programming Foundations]] Databases]] in the library.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=31)** And if not, we'll cover it at a high level right now.
 >
@@ -1676,7 +1657,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=121)** As an example, let's go to my site.
 >
-> **[2:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=124)** I'm in my hosting account right now and I'll go to MySQL and launch phpMyAdmin which lets me browse my database.
+> **[2:04](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=124)** I'm in my hosting account right now and I'll go to [[MySQL]] and launch phpMyAdmin which lets me browse my database.
 >
 > **[2:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=133)** Depending on what hose you use, you'll see an interface similar to this or maybe something entirely different.
 >
@@ -1698,7 +1679,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=197)** WordPress also cramps a ton of information into the wp_posts and wp_postmeta tables.
 >
-> **[3:23](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=203)** Even entire WooCommerce orders are stored in these tables.
+> **[3:23](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=203)** Even entire [[WooCommerce]] orders are stored in these tables.
 >
 > **[3:27](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/wordpress-database-structure?u=76281980&t=207)** I've loaded the live version of my database and here's an actual real life order and this real life order has 62 pieces of postmeta information.
 >
@@ -1710,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[WordPress]] (13), data (4), [[Databases]] (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (13), [[Databases]] (2), [[PHP]] (1), [[Programming Foundations]] (1), [[MySQL]] (1)
 > **Code Identifiers:** wp_posts (3), wp_postmeta (3), oembed (1), phpmyadmin (1)
 > **CLI Commands:** php (1), make (1), mysql (1), find (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -1718,12 +1699,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom database tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980)
+#### [Custom database tables](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=0)** - The very flexible database structure WordPress creates, is why we have so many plugins, but as previously mentioned, it's not great for optimization.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=0)** - The very flexible database structure [[WordPress]] creates, is why we have so many plugins, but as previously mentioned, it's not great for optimization.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=9)** In the previous lesson, I showed an order in my own database that has 62 pieces of postmeta information.
 >
@@ -1745,7 +1725,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=51)** For specific plugins, you might find extra plugins that help with optimization.
 >
-> **[0:57](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=57)** This plugin, for example, created by LiquidWeb, will hopefully be merged into WooCommerce Core one day.
+> **[0:57](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=57)** This plugin, for example, created by LiquidWeb, will hopefully be merged into [[WooCommerce]] Core one day.
 >
 > **[1:03](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/custom-database-tables?u=76281980&t=63)** And it creates a separate table for the WooCommerce orders.
 >
@@ -1777,20 +1757,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[WooCommerce]] (5), data (4), [[WordPress]] (1), web (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (5), [[WordPress]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Limit post revisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980)
+#### [Limit post revisions](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=0)** - [Instructor] In today's world, saving is such a no-brainer feature that we don't give it much thought.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=5)** But the way WordPress saves posts means that each time you press the Save button, it saves a copy of your post.
+> **[0:05](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=5)** But the way [[WordPress]] saves posts means that each time you press the Save button, it saves a copy of your post.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=12)** So if you're like me and you press the Save button often, you can have dozens of revisions for each published page or post on your site.
 >
@@ -1798,7 +1777,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=26)** Let's take a look at my database.
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=28)** I'll go back into my hosting environment, go down to mySQL, which will open up phpMyAdmin.
+> **[0:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=28)** I'll go back into my hosting environment, go down to [[MySQL]], which will open up phpMyAdmin.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=39)** I'll open up the database.
 >
@@ -1814,7 +1793,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=73)** And we can do that with a little database magic.
 >
-> **[1:16](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=76)** I'll go to SQL and we're going to type in, DELETE from the name of the table, WP_posts, where post_type is equal to revision.
+> **[1:16](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=76)** I'll go to [[SQL]] and we're going to type in, DELETE from the name of the table, WP_posts, where post_type is equal to revision.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/limit-post-revisions?u=76281980&t=93)** With this one SQL command we can delete all the revisions in the database.
 >
@@ -1870,7 +1849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (4), data (3), [[Search]] (2), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[WordPress]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (4), delete (1), css (1)
 > **CLI Commands:** make (4), mysql (1)
 > **Code Identifiers:** post_type (2), mysql (1), phpmyadmin (1), post_types (1)
@@ -1884,8 +1863,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is caching?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980)
+#### [What is caching?](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1893,9 +1871,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=7)** A user will start by visiting your site.
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=10)** WordPress will then process PHP and send requests to the database.
+> **[0:10](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=10)** [[WordPress]] will then process [[PHP]] and send requests to the database.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=15)** Once WordPress gets that data, it finishes processing the PHP files and creates an HTML page.
+> **[0:15](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=15)** Once WordPress gets that data, it finishes processing the PHP files and creates an [[HTML]] page.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=22)** Then that HTML page is saved into the server cache and returned to the user.
 >
@@ -1939,11 +1917,11 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=137)** And some managed hosts like WP Engine will automatically handle page caching for you.
 >
-> **[2:22](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=142)** It's one of the most effective forms of caching because it saves an entire page.
+> **[2:22](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=142)** It's one of the most effective [[Forms]] of caching because it saves an entire page.
 >
 > **[2:27](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=147)** If you have a static site that doesn't change often, page caching is a fantastic tool.
 >
-> **[2:32](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=152)** Database caching is helpful for sites with large databases or sites which rely heavily on database queries.
+> **[2:32](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=152)** Database caching is helpful for sites with large [[Databases]] or sites which rely heavily on [[Database Queries]].
 >
 > **[2:39](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=159)** Instead of saving an entire page, you'll save the result of a few queries.
 >
@@ -1957,7 +1935,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=189)** There is also local caching which is automatically handled by browsers.
 >
-> **[3:14](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=194)** When you visit a website, the browser downloads CSS, JavaScript, images, and other static files.
+> **[3:14](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=194)** When you visit a website, the browser downloads CSS, [[JavaScript]], images, and other static files.
 >
 > **[3:21](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/what-is-caching?u=76281980&t=201)** It saves these to your local browser cache.
 >
@@ -1969,19 +1947,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (5), database (5), [[HTML]] (3), data (2)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (5), [[HTML]] (3), [[Forms]] (1), [[Databases]] (1)
 > **Env Vars:** php (5), html (3), css (1)
 > **CLI Commands:** php (5), make (1), find (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring caching plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/configuring-caching-plugins?u=76281980)
+#### [Configuring caching plugins](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/configuring-caching-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/configuring-caching-plugins?u=76281980&t=0)** - [Instructor] There are a lot of caching plugins for WordPress, and some of them have been around for many years and have a pretty good reputation, like W3 Total Cache or WP Super Cache.
+> **[0:00](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/configuring-caching-plugins?u=76281980&t=0)** - [Instructor] There are a lot of caching plugins for [[WordPress]], and some of them have been around for many years and have a pretty good reputation, like W3 Total Cache or WP Super Cache.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/configuring-caching-plugins?u=76281980&t=10)** And most of these can be found for free [wordpress.org](https://wordpress.org).
 >
@@ -2047,7 +2024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), database (1), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Versions:** 1.8 (1), 0.7 (1), 3.2 (1)
 > **Env Vars:** gzip (1), cdn (1)
 > **CLI Commands:** make (1)
@@ -2056,8 +2033,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** install (1)
 
-#### Cache busting
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980)
+#### [Cache busting](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,7 +2043,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=8)** You can upload an image today, and at three months, you might want to update that image.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=13)** Depending on how you update that image in WordPress, along with your settings, determines who will see that image.
+> **[0:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=13)** Depending on how you update that image in [[WordPress]], along with your settings, determines who will see that image.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=20)** If you aggressively cache your site, you could be in a situation where you see the new image and your users see the old image.
 >
@@ -2103,7 +2079,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=129)** This is a fantastic way to make sure that no one sees old content.
 >
-> **[2:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=133)** Many CDNs and cache systems will work with any of these versioning formats, but sometimes, you will run into issues with query strings, so keep an eye out for that, and this will work for any assets, images, JavaScript or CSS files.
+> **[2:13](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=133)** Many CDNs and cache systems will work with any of these versioning formats, but sometimes, you will run into issues with query strings, so keep an eye out for that, and this will work for any assets, images, [[JavaScript]] or CSS files.
 >
 > **[2:28](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/cache-busting?u=76281980&t=148)** Using caching can really speed up a site, but it can also conceal problems.
 >
@@ -2111,7 +2087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[WordPress]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[JavaScript]] (1)
 > **File Paths:** style.v2.css (1), style-v2.css (1), style.css (1)
 > **Env Vars:** cdn (2), css (1)
 > **CLI Commands:** make (2)
@@ -2125,8 +2101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2146,7 +2121,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980&t=35)** Your mileage will vary.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980&t=38)** If you want to get really good at running a fast website, follow the best practices when it comes to building WordPress sites, including customizing your theme and coding plug-ins.
+> **[0:38](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980&t=38)** If you want to get really good at running a fast website, follow the best practices when it comes to building [[WordPress]] sites, including customizing your theme and coding plug-ins.
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-speeding-up-your-site/next-steps?u=76281980&t=49)** And you can do that with a ton of great courses in the library.
 >
@@ -2172,7 +2147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Search]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **URLs:** [speakinginbytes.com](https://speakinginbytes.com) (1)
 > **Cross-References:** we covered (1)
 > **Warnings:** keep in mind (1)

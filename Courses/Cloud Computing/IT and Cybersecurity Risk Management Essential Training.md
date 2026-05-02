@@ -78,22 +78,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing risk in IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980)
+#### [Managing risk in IT](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=0)** - It Risk management was confusing when I started.
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=0)** - [[IT Risk Management]] was confusing when I started.
 >
 > **[0:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=3)** I wanted tools and checklists, but didn't get anything I could use, and the training I did get left me more puzzled.
 >
-> **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=11)** I was stuck between vague qualitative methods and complex statistics.
+> **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=11)** I was stuck between vague qualitative methods and complex [[Statistics]].
 >
 > **[0:17](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=17)** My boss needed results fast, and now AI adds another layer of complexity.
 >
 > **[0:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=23)** Hi, I'm Kip Boyle.
 >
-> **[0:25](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=25)** I have years of IT risk management experience across various settings, and I've also been using modern artificial intelligence tools in my work.
+> **[0:25](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=25)** I have years of IT risk management experience across various settings, and I've also been using modern [[Artificial Intelligence (AI)|artificial intelligence]] tools in my work.
 >
 > **[0:36](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980&t=36)** I'll give you clarity, confidence, and practical tools to manage it risk effectively.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[Statistics]] (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[Statistics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - it (1)
 
 
@@ -111,16 +110,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is IT risk?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980)
+#### [What is IT risk?](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980&t=0)** - [Instructor] What is IT Risk Management?
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980&t=0)** - [Instructor] What is [[IT Risk Management]]?
 >
 > **[0:02](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980&t=2)** Well, risk is a chance of harm or loss to your computers, the data on them or the service they provide.
 >
-> **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980&t=11)** In other words, IT risk is uncertainty about the future of your servers, databases, networks, and the services that you deliver with them.
+> **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980&t=11)** In other words, IT risk is uncertainty about the future of your servers, [[Databases]], networks, and the services that you deliver with them.
 >
 > **[0:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980&t=22)** There are many serious IT risks that can have major business impacts such as losing a sale because your website is offline, when someone shows up to make a purchase.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Risk Management]] (11), data (2), next (2), management (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (11), [[Databases]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** acat (1), iso (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -191,8 +189,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is IT risk appetite?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-appetite-14511335?u=76281980)
+#### [What is IT risk appetite?](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-appetite-14511335?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-appetite-14511335?u=76281980&t=52)** When it comes to technology, the IT risk appetite is rarely stated explicitly, but it usually follows the overall appetite of the organization.
 >
-> **[1:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-appetite-14511335?u=76281980&t=63)** And this is one reason why insurance companies tend to purchase mature systems backed by large brands, while technology startups favor building their own solutions by writing code and integrating open source software along with best of breed cloud services.
+> **[1:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-appetite-14511335?u=76281980&t=63)** And this is one reason why insurance companies tend to purchase mature systems backed by large brands, while technology startups favor building their own solutions by writing code and integrating open source software along with best of breed [[Cloud Services]].
 >
 > **[1:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-appetite-14511335?u=76281980&t=82)** Sometimes an organization knowingly takes IT risks that are not aligned with their overall risk appetite.
 >
@@ -230,13 +227,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is IT risk tolerance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980)
+#### [What is IT risk tolerance?](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=66)** Some companies are able to do it, and they're comfortable with the level of effort it requires, but most organizations can't afford to do it that way, or just don't want to.
 >
-> **[1:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=76)** The common alternatives that I've seen for measuring and limiting IT risk is the use of qualitative, low, medium, and high categories, or the use of quantitative statistics and probabilities, or the use of best practices along with gap analysis.
+> **[1:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=76)** The common alternatives that I've seen for measuring and limiting IT risk is the use of qualitative, low, medium, and high categories, or the use of quantitative [[Statistics]] and probabilities, or the use of best practices along with gap analysis.
 >
 > **[1:35](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=95)** Now, we'll take a closer look at each approach later in the course, but for now, just know that however you do it, you need a way to detect when an IT risk is exceeding acceptable limits, and then communicate that boundary violation to the risk owner along with several options for returning that risk to within tolerable levels.
 >
@@ -270,19 +266,18 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=162)** One final term that we need to define before we end this lesson, residual risk is what remains after mitigations have been implemented to reduce natural or inherent risk to an asset.
 >
-> **[2:58](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=178)** I'll explain mitigations and other forms of risk reduction in a future lesson.
+> **[2:58](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-tolerance-14513305?u=76281980&t=178)** I'll explain mitigations and other [[Forms]] of risk reduction in a future lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Types of IT risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980)
+#### [Types of IT risks](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,9 +299,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980&t=87)** I like to think about threats in two broad categories.
 >
-> **[1:30](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980&t=90)** Let's explore each one with some examples, general IT threats include things like hardware and software failure, power loss, data corruption, human error, like the careless disposal of sensitive data and natural disasters, such as hurricanes, fires and floods.
+> **[1:30](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980&t=90)** Let's explore each one with some examples, general IT threats include things like [[Hardware]] and software failure, power loss, data corruption, human error, like the careless disposal of sensitive data and natural disasters, such as hurricanes, fires and floods.
 >
-> **[1:50](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980&t=110)** Criminal IT threats include things like malicious software, including ransomware spam, spear phishing attacks, fraud, password theft, denial of service attacks and dishonest insiders.
+> **[1:50](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980&t=110)** Criminal IT threats include things like malicious software, including ransomware spam, spear [[Phishing]] attacks, fraud, password theft, denial of service attacks and dishonest insiders.
 >
 > **[2:05](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/types-of-it-risks-14515288?u=76281980&t=125)** Let's close out this lesson with two common models that describe the types of attributes of data and systems that we want to protect from harm.
 >
@@ -332,25 +327,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), traffic (1), [[Hardware]] (1), power (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Phishing]] (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Env Vars:** cia (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI in IT and cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980)
+#### [AI in IT and cybersecurity](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=0)** - [Instructor] Artificial intelligence, or AI, is changing how we manage IT and cyber risks.
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]], or AI, is changing how we manage IT and cyber risks.
 >
 > **[0:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=7)** Let's explore what this means for our profession.
 >
 > **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=11)** Roughly speaking, AI is like a smart computer program that can think.
 >
-> **[0:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=16)** While there are many types of AI, the two we hear most about our machine learning and generative AI.
+> **[0:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=16)** While there are many types of AI, the two we hear most about our machine learning and [[Generative AI]].
 >
 > **[0:24](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=24)** AI can do many tasks that humans usually do.
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=83)** But AI isn't perfect.
 >
-> **[1:25](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=85)** It can make mistakes too, and cyber criminals can program or sometimes trick AI systems into doing malicious tasks, like writing extremely convincing phishing messages and creating fake videos that look and sound authentic.
+> **[1:25](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=85)** It can make mistakes too, and cyber criminals can program or sometimes trick AI systems into doing malicious tasks, like writing extremely convincing [[Phishing]] messages and creating fake videos that look and sound authentic.
 >
 > **[1:41](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/ai-in-it-and-cybersecurity?u=76281980&t=101)** But AI needs lots of good data to work well.
 >
@@ -416,14 +410,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), management (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Generative AI]] (1), [[Phishing]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making an IT risk decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/making-an-it-risk-decision-14514304?u=76281980)
+#### [Making an IT risk decision](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/making-an-it-risk-decision-14514304?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,7 +482,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (4), business (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -499,8 +491,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT risk management in small companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980)
+#### [IT risk management in small companies](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +529,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980&t=162)** But many small companies typically can't afford to purchase access to an SSO platform and pay someone to configure and administer it, even on a part-time basis.
 >
-> **[2:53](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980&t=173)** They often don't even realize this is an option because there isn't a dedicated cybersecurity person on the team.
+> **[2:53](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980&t=173)** They often don't even realize this is an option because there isn't a dedicated [[Cybersecurity]] person on the team.
 >
 > **[3:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980&t=180)** So the responsibility for account management is usually distributed to the account owners themselves.
 >
@@ -560,15 +551,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), product (2), management (2), database (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** sso (1), ceo (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### IT risk management in medium companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980)
+#### [IT risk management in medium companies](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +580,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=82)** And while they have more IT budget compared to small companies, the size of the budget for a medium company is often modest compared to the work that needs to be done.
 >
-> **[1:32](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=92)** Medium-sized companies also tend to outsource some or all of their IT department, and they might be heavy users of cloud computing, which means a lot of shadow IT with little visibility into just how much software as a service is being used.
+> **[1:32](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=92)** Medium-sized companies also tend to outsource some or all of their IT department, and they might be heavy users of [[Cloud Computing]], which means a lot of shadow IT with little visibility into just how much [[SaaS|software as a service]] is being used.
 >
 > **[1:48](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=108)** If they outsource the highly complex tasks like networking and server management, then IT risks in those areas are assumed to be well-managed, but this is seldom proactively verified because the lack of strong IT expertise on the buyer's side.
 >
@@ -600,13 +590,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=139)** Another limitation is in many cases that I've seen, the overall level of risk management sophistication is lower in a midsize company than what you'll typically find in a large enterprise.
 >
-> **[2:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=151)** At the same time, I've seen other mid-sized companies try to adopt IT risk management solutions typically sold to larger enterprises, which results in an overly complex solution that's difficult and expensive to manage.
+> **[2:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=151)** At the same time, I've seen other mid-sized companies try to adopt [[IT Risk Management]] solutions typically sold to larger enterprises, which results in an overly complex solution that's difficult and expensive to manage.
 >
-> **[2:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=166)** Finally, unless they're operating in a highly-regulated industry, medium-sized companies rarely have a person dedicated to cybersecurity, so there's a lack of thought leadership, technical skills and clarity on IT risk management roles and responsibilities.
+> **[2:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=166)** Finally, unless they're operating in a highly-regulated industry, medium-sized companies rarely have a person dedicated to [[Cybersecurity]], so there's a lack of [[Thought Leadership]], technical skills and clarity on IT risk management roles and responsibilities.
 >
 > **[3:02](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=182)** Here's a typical scenario that illustrates these limitations and how to do good IT risk management anyway.
 >
-> **[3:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=191)** Most medium-sized companies that have been in business for over 20 years have several Windows servers running on hardware that's installed in their own buildings rather than using the cloud, and they commonly run Microsoft's Exchange Email Server.
+> **[3:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=191)** Most medium-sized companies that have been in business for over 20 years have several [[Windows]] servers running on [[Hardware]] that's installed in their own buildings rather than using the cloud, and they commonly run [[Microsoft]]'s Exchange Email Server.
 >
 > **[3:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-medium-companies-14515285?u=76281980&t=207)** But companies with less than 500 people are typically unable to keep up with the quantity and frequency of security updates being released monthly by Microsoft.
 >
@@ -642,19 +632,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[IT Risk Management]] (4), [[Microsoft]] (4), management (3), product (2)
+> **Frameworks & Libraries:** [[IT Risk Management]] (4), [[Microsoft]] (4), [[Cloud Computing]] (1), [[SaaS|Software as a service]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Prerequisites:** install (2)
 > **Versions:** 9.1 (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### IT risk management in large companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980)
+#### [IT risk management in large companies](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=0)** - [Kip] Rather than a lack of resources or low sophistication, the biggest challenge for IT risk management in large companies is complexity.
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=0)** - [Kip] Rather than a lack of resources or low sophistication, the biggest challenge for [[IT Risk Management]] in large companies is complexity.
 >
 > **[0:09](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=9)** The larger the organization, the more complex it is.
 >
@@ -662,13 +651,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=18)** Just collecting and understanding the data that you need to measure IT risk can require enormous amounts of time and effort.
 >
-> **[0:26](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=26)** One barrier to understanding is you often need to use statistics and other quantitative methods to make sense of that much data.
+> **[0:26](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=26)** One barrier to understanding is you often need to use [[Statistics]] and other quantitative methods to make sense of that much data.
 >
 > **[0:34](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=34)** And then once you've figured out which IT risks need to be treated, you have to find a scalable way to implement the treatment.
 >
 > **[0:41](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=41)** For example, in a large organization, it may not be possible to avoid certain IT risks, especially if much of the decision making is distributed across the company.
 >
-> **[0:52](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=52)** If you have 200 local offices around the world and each local office manager can make their own decisions about which technologies to use, how can you be sure that they'll all avoid the same IT risk all the time?
+> **[0:52](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=52)** If you have 200 local offices around the world and each local [[Microsoft Office|office]] manager can make their own decisions about which technologies to use, how can you be sure that they'll all avoid the same IT risk all the time?
 >
 > **[1:05](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=65)** And if you need to control a risk because you can't avoid it, how can you get consistency in their collective decision making?
 >
@@ -686,7 +675,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=133)** And the problems are generally complicated, so I don't want to trivialize that reality.
 >
-> **[2:19](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=139)** Now, let's consider the IT risks related to phishing at a large organization.
+> **[2:19](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=139)** Now, let's consider the IT risks related to [[Phishing]] at a large organization.
 >
 > **[2:25](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=145)** Because a risk materializes when a threat exploits a vulnerability and then harms an asset, a phishing attack has multiple risks associated with it.
 >
@@ -728,7 +717,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=255)** Well, not easily.
 >
-> **[4:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=256)** Most cyber insurance companies now require policy holders to have multi-factor authentication, or MFA, to be turned on in order to even qualify to purchase a policy at any price.
+> **[4:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=256)** Most cyber insurance companies now require policy holders to have [[Multi-factor Authentication]], or MFA, to be turned on in order to even qualify to purchase a policy at any price.
 >
 > **[4:28](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-large-companies-24399265?u=76281980&t=268)** So we're back to controlling this IT risk.
 >
@@ -756,15 +745,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (9), data (7), [[IT Risk Management]] (2), [[Microsoft Office|Office]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (9), [[IT Risk Management]] (2), [[Microsoft Office|Office]] (2), [[Statistics]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** mfa (3), dbir (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [kip] (1)
 
-#### Quantitative vs. qualitative risk assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980)
+#### [Quantitative vs. qualitative risk assessments](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=23)** First, let's look at the quantitative approach.
 >
-> **[0:26](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=26)** This approach will be very data-driven, and will use probability estimation, statistical models, and algorithms.
+> **[0:26](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=26)** This approach will be very data-driven, and will use [[Probability]] estimation, statistical models, and [[Algorithms]].
 >
 > **[0:34](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=34)** Using this approach you'll calculate such values as annualized rate of occurrence and annual loss expectancy.
 >
@@ -796,7 +784,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=71)** There is usually a heavy reliance on interviews, and the results are often sorted into color-coded categories, such as red, yellow, and green.
 >
-> **[1:20](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=80)** NIST Special Publication 800-30, which is called the Guide for Conducting Risk Assessments, contains a lot of useful insights on tools and methods for conducting both qualitative and semi-qualitative risk assessments.
+> **[1:20](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=80)** [[NIST]] Special Publication 800-30, which is called the Guide for Conducting Risk Assessments, contains a lot of useful insights on tools and methods for conducting both qualitative and semi-qualitative risk assessments.
 >
 > **[1:35](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=95)** And you can see a comprehensive list of 31 distinct risk assessment techniques documented in ISO 31010.
 >
@@ -808,7 +796,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=123)** Formal quantitative measurements may work best at an engineering or data-intensive company.
 >
-> **[2:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=130)** While informal qualitative measurements may work best at a company where quick intuition-based decision-making is highly valued by executive management.
+> **[2:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=130)** While informal qualitative measurements may work best at a company where quick intuition-based [[Decision-Making]] is highly valued by executive management.
 >
 > **[2:21](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=141)** Now, my bias is towards a balanced, managerial view.
 >
@@ -820,27 +808,26 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=169)** I also want to be semi-quantitative so we can have a reliable means of assessing and prioritizing our risks and benefit from a simple, few statistical calculations while avoiding the murkiness of simple red, yellow, green labels.
 >
-> **[3:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=187)** A common approach I use is a gap assessment based on the NIST Cybersecurity Framework, along with a simple scoring system to measure how far an organization is from a reasonable implementation of any given framework requirement.
+> **[3:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=187)** A common approach I use is a gap assessment based on the NIST [[Cybersecurity]] Framework, along with a simple scoring system to measure how far an organization is from a reasonable implementation of any given framework requirement.
 >
-> **[3:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=202)** If you want to learn more about how I do this check out my course called Measuring and Managing Top Cyber Risks right here in the LinkedIn Learning Library.
+> **[3:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/quantitative-vs-qualitative-risk-assessments-24393849?u=76281980&t=202)** If you want to learn more about how I do this check out my course called Measuring and Managing Top Cyber Risks right here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[NIST]] (2), [[Probability]] (1), [[Algorithms]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Probability]] (1), [[Algorithms]] (1), [[Decision-Making]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (2), fair (1), iso (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The role of organizational culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-role-of-organizational-culture-14513304?u=76281980)
+#### [The role of organizational culture](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-role-of-organizational-culture-14513304?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-role-of-organizational-culture-14513304?u=76281980&t=0)** - [Instructor] In the last lesson I talked about considering the organization where you work prior to selecting a risk assessment technique.
 >
-> **[0:09](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-role-of-organizational-culture-14513304?u=76281980&t=9)** I said that formal, quantitative measurements may work best at an engineering or data intensive company, while informal qualitative measurements may work best at a company where quick, intuition based decision-making is highly valued by executive management.
+> **[0:09](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-role-of-organizational-culture-14513304?u=76281980&t=9)** I said that formal, quantitative measurements may work best at an engineering or data intensive company, while informal qualitative measurements may work best at a company where quick, intuition based [[Decision-Making]] is highly valued by executive management.
 >
 > **[0:25](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-role-of-organizational-culture-14513304?u=76281980&t=25)** Not only do you need to check your risk assessment methods for fit with your organization, you also need to know how big decisions get made, because that's the process you'll use to get your IT risk decisions made.
 >
@@ -872,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), data (1), [[Decision-Making]] (1), management (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** hoc (1)
 > **Cross-References:** in the last (1)
@@ -880,8 +867,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The minimum viable approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-minimum-viable-approach-14509367?u=76281980)
+#### [The minimum viable approach](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-minimum-viable-approach-14509367?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,13 +911,13 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-minimum-viable-approach-14509367?u=76281980&t=176)** There's just too many false positives and also approved exceptions to justify the interruptions and the delays at the desktop level.
 >
-> **[3:06](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-minimum-viable-approach-14509367?u=76281980&t=186)** But when you work directly with asset owners early in the IT risk management process, you'll get a chance to determine whether they'll support automatic blocking and under what conditions or if they won't support it at all.
+> **[3:06](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-minimum-viable-approach-14509367?u=76281980&t=186)** But when you work directly with asset owners early in the [[IT Risk Management]] process, you'll get a chance to determine whether they'll support automatic blocking and under what conditions or if they won't support it at all.
 >
 > **[3:21](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/the-minimum-viable-approach-14509367?u=76281980&t=201)** Either way, you'll have a much better chance to design a mitigation that avoids interrupting people's work and wasting resources, and that's the true meaning of minimum viable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (1), product (1), [[IT Risk Management]] (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** dlp (2)
 > **Definitions:** is a  (1)
@@ -943,18 +929,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Performing the IT risk assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980)
+#### [Performing the IT risk assessment](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=0)** - [Narrator] There's a standard risk assessment technique that both NIST 800-30 and ISO 27005 describe.
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=0)** - [Narrator] There's a standard risk assessment technique that both [[NIST]] 800-30 and ISO 27005 describe.
 >
 > **[0:08](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=8)** Here's how it works.
 >
-> **[0:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=10)** First, you identify the digital assets at risk, like health records or your company's order-taking web servers, then you identify the threats to your assets like cyber-criminals and natural disasters.
+> **[0:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=10)** First, you identify the digital assets at risk, like health records or your company's order-taking [[Web Servers]], then you identify the threats to your assets like cyber-criminals and natural disasters.
 >
-> **[0:24](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=24)** Next, you identify the vulnerabilities that could be successfully exploited by the threats, like known flaws in the software you use, or the lack of cybersecurity requirements in your outsourcing contracts.
+> **[0:24](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=24)** Next, you identify the vulnerabilities that could be successfully exploited by the threats, like known flaws in the software you use, or the lack of [[Cybersecurity]] requirements in your outsourcing contracts.
 >
 > **[0:37](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=37)** Now you determine the likelihood that an exploitation would happen.
 >
@@ -964,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=56)** This basic risk assessment technique is well-documented in either the NIST or the ISO standards.
 >
-> **[1:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=63)** It's also broadly accepted, and you'll find that it's already automated inside most commercial IT risk management tools.
+> **[1:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=63)** It's also broadly accepted, and you'll find that it's already automated inside most commercial [[IT Risk Management]] tools.
 >
 > **[1:12](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=72)** And you can use either qualitative or quantitative methods for calculating likelihood and impact.
 >
@@ -976,7 +961,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=111)** We have a 90% confidence, plus or minus 5%, that an unpatched vulnerability with a medium CVSS rating will be exploited at least once on one of our public-facing web servers over the next 12 months.
 >
-> **[2:06](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=126)** And after running a Monte Carlo simulation, we have determined a 30.78% probability of a $28,000 or greater loss based on our annualized loss exposure calculation.
+> **[2:06](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=126)** And after running a Monte Carlo [[Simulation]], we have determined a 30.78% [[Probability]] of a $28,000 or greater loss based on our annualized loss exposure calculation.
 >
 > **[2:20](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980&t=140)** Now here's a couple of warnings for you.
 >
@@ -1014,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), next (3), [[NIST]] (2), [[Cybersecurity]] (1), [[IT Risk Management]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (4), [[NIST]] (2), [[Cybersecurity]] (1), [[IT Risk Management]] (1), [[Simulation]] (1)
 > **Env Vars:** nist (2), iso (2), cvss (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
@@ -1023,12 +1008,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** watch out (1)
 
-#### Choosing an IT risk management framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980)
+#### [Choosing an IT risk management framework](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=0)** - [Instructor] When you begin to examine IT risk management frameworks and compare them, you begin to realize that there's actually very little agreement between them on the surface.
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=0)** - [Instructor] When you begin to examine [[IT Risk Management]] frameworks and compare them, you begin to realize that there's actually very little agreement between them on the surface.
 >
 > **[0:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=10)** Each standard is organized a little differently and they use different terminology.
 >
@@ -1050,11 +1034,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=77)** Now, let's consider the more specific ISO 27000 standards.
 >
-> **[1:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=82)** This family describes how to implement and operate an information security management system, also called an ISMS.
+> **[1:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=82)** This family describes how to implement and operate an [[Information Security Management]] system, also called an ISMS.
 >
 > **[1:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=91)** Of particular importance are these two standards.
 >
-> **[1:35](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=95)** ISO 27005, which is Information Security Risk Management Systems, and it's based on the ISO 31000 standard.
+> **[1:35](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=95)** ISO 27005, which is Information [[Security Risk]] Management Systems, and it's based on the ISO 31000 standard.
 >
 > **[1:44](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=104)** And ISO 27001, which lays out the requirements for an information security management system.
 >
@@ -1066,7 +1050,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=130)** And due to their origin and complexity, they're really best suited for use at larger companies.
 >
-> **[2:17](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=137)** Now, let's take a closer look at two NIST IT risk standards.
+> **[2:17](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=137)** Now, let's take a closer look at two [[NIST]] IT risk standards.
 >
 > **[2:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-framework-14512319?u=76281980&t=143)** We'll do this by looking at the risk management process described in NIST Special Publication 800-39.
 >
@@ -1104,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (7), management (6), [[IT Risk Management]] (2), [[Information Security Management]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[NIST]] (7), [[IT Risk Management]] (2), [[Information Security Management]] (2), [[Security Risk]] (1)
 > **Env Vars:** iso (12), nist (7), isms (1), acat (1)
 > **Warnings:** watch out (1), be careful (1)
 > **CLI Commands:** find (1)
@@ -1113,18 +1097,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing an IT risk management tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980)
+#### [Choosing an IT risk management tool](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=0)** - [Instructor] Gartner, the popular IT research and advisory firm that's based in the United States, uses the term IT risk management market to categorize all the software tools available to support your work.
+> **[0:00](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=0)** - [Instructor] Gartner, the popular IT research and advisory firm that's based in the United States, uses the term [[IT Risk Management]] market to categorize all the software tools available to support your work.
 >
 > **[0:15](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=15)** These solutions will automate common workflows and store your records.
 >
 > **[0:20](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=20)** This market is more commonly called the Governance, Risk, and Compliance tools, or GRC.
 >
-> **[0:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=27)** Some products, like Archer by RSA, have been on the market for about 20 years, while other products, like OneTrust, have only entered the market recently.
+> **[0:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=27)** Some [[Microsoft Products|products]], like Archer by RSA, have been on the market for about 20 years, while other products, like OneTrust, have only entered the market recently.
 >
 > **[0:37](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=37)** Some GRC tools are built on a software-as-a-service model, while others give you the option of installing software on your own servers.
 >
@@ -1148,18 +1131,17 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=147)** And in the case of GRC tools that have been around for a long time, the user interfaces can be complicated and clumsy.
 >
-> **[2:34](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=154)** Finally, exporting data can be difficult, and it may require a lot of your additional time in order to transform the export of data into something usable in a PowerPoint presentation, for example.
+> **[2:34](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-an-it-risk-management-tool-14512313?u=76281980&t=154)** Finally, exporting data can be difficult, and it may require a lot of your additional time in order to transform the export of data into something usable in a [[Microsoft PowerPoint|PowerPoint]] presentation, for example.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[IT Risk Management]] (2), [[Microsoft Products|Products]] (2), [[Automation]] (1), database (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[Microsoft Products|Products]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** grc (7), rsa (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining an acceptable level of IT risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980)
+#### [Determining an acceptable level of IT risk](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,7 +1155,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=40)** And this is true whether you're following a traditional waterfall development method or a newer iterative one.
 >
-> **[0:47](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=47)** Most people focus on IT risk management while a system or application is being actively used in a production environment like when an e-commerce website is actively taking online orders throughout the day and you need to make sure you have no unplanned downtime.
+> **[0:47](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=47)** Most people focus on [[IT Risk Management]] while a system or application is being actively used in a production environment like when an [[E-Commerce]] website is actively taking online orders throughout the day and you need to make sure you have no unplanned downtime.
 >
 > **[1:04](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=64)** So in this case, you would conduct a business impact analysis to identify which components, if they should fail, would likely result in unexpected downtime.
 >
@@ -1197,13 +1179,13 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=157)** In those cases, you can simply talk with a highly experienced systems engineer and they'll tell you what you're facing in a given situation.
 >
-> **[2:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=166)** And vendors will often include common controls in their products when a lot of their customers want to reduce the same IT risks.
+> **[2:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=166)** And vendors will often include common controls in their [[Microsoft Products|products]] when a lot of their customers want to reduce the same IT risks.
 >
-> **[2:55](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=175)** A great example is how most every operating system in use today lets you define accounts on a per user basis, then assign those accounts various rights, and require passwords and sometimes other forms of authentication to make sure that there are limits on what a person can do when they're logged in.
+> **[2:55](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/determining-an-acceptable-level-of-it-risk-14512316?u=76281980&t=175)** A great example is how most every operating system in use today lets you define accounts on a per user basis, then assign those accounts various rights, and require passwords and sometimes other [[Forms]] of authentication to make sure that there are limits on what a person can do when they're logged in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (2), [[IT Risk Management]] (2), [[E-Commerce]] (1), business (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sdlc (2)
 > **Prerequisites:** make sure you have (1), before you begin (1)
@@ -1211,8 +1193,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using an IT risk register
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980)
+#### [Using an IT risk register](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=8)** That place is called a risk register.
 >
-> **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=11)** Neither NIST 800-30 nor 800-39 use the term risk register, but NIST does define the term inside their inter-agency report number 8286 as a repository of risk information, including the data understood about risks over time.
+> **[0:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=11)** Neither [[NIST]] 800-30 nor 800-39 use the term risk register, but NIST does define the term inside their inter-agency report number 8286 as a repository of risk information, including the data understood about risks over time.
 >
 > **[0:33](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=33)** Oddly enough, ISO 31000 doesn't use the term risk register either, but it does state that risks need to be documented.
 >
@@ -1244,7 +1225,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=109)** You'll also want to record the impact or the consequence of a risk if the event actually occurs.
 >
-> **[1:56](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=116)** You'll want to write down the probability or the likelihood of a risk occurring.
+> **[1:56](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=116)** You'll want to write down the [[Probability]] or the likelihood of a risk occurring.
 >
 > **[2:02](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=122)** You'll want to put some kind of a risk score or a risk rating so you can prioritize the risks in your register.
 >
@@ -1262,7 +1243,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=183)** A risk register will also help you prove that you're meeting your organization's legal standard of due care.
 >
-> **[3:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=191)** For example, if you're a covered entity under the Health Insurance Portability and Accountability Act, the Office of Civil Rights, which enforces the HIPAA Privacy, Security and Breach Notification rules may expect to see you maintain a risk register as proof of compliance.
+> **[3:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=191)** For example, if you're a covered entity under the Health Insurance Portability and [[Accountability]] Act, the [[Microsoft Office|Office]] of Civil Rights, which enforces the HIPAA [[Privacy]], Security and Breach Notification rules may expect to see you maintain a risk register as proof of compliance.
 >
 > **[3:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/using-an-it-risk-register-14515282?u=76281980&t=211)** Risk registers are not foolproof though because people sometimes still ignore them, misuse them and misunderstand them.
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[NIST]] (2), management (1), [[Probability]] (1), functional (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Probability]] (1), [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Privacy]] (1)
 > **Env Vars:** nist (2), iso (2), hipaa (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (2), find (1)
@@ -1295,8 +1276,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### IT risk management techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-techniques-14515284?u=76281980)
+#### [IT risk management techniques](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-techniques-14515284?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1332,7 +1312,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-techniques-14515284?u=76281980&t=133)** For example, water sprinklers in buildings are designed to put out a fire to reduce the risk of loss of life and property damage.
 >
-> **[2:21](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-techniques-14515284?u=76281980&t=141)** And the use of multi-factor authentication is designed to reduce the likelihood of an online account from being taken over.
+> **[2:21](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-techniques-14515284?u=76281980&t=141)** And the use of [[Multi-factor Authentication]] is designed to reduce the likelihood of an online account from being taken over.
 >
 > **[2:29](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-techniques-14515284?u=76281980&t=149)** When you control an IT risk, you also need to pay attention to the unintended consequences of the control.
 >
@@ -1392,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (2), [[Multi-factor Authentication]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), is called (1)
 > **Env Vars:** acat (1)
@@ -1406,8 +1386,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right IT risk management technique
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980)
+#### [Choosing the right IT risk management technique](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1394,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=5)** First of all, if your employer already mandates an approach, then you'll need to follow that one, or you'll need to make the case that another approach is justified.
 >
-> **[0:15](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=15)** For example, the US federal government is going to require NIST standards in most cases, and European governments will default to ISO standards.
+> **[0:15](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=15)** For example, the US federal government is going to require [[NIST]] standards in most cases, and European governments will default to ISO standards.
 >
 > **[0:26](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=26)** A few lessons ago, I told you about a standard risk assessment technique that's contained in both NIST 800-30 and ISO 27005.
 >
@@ -1443,7 +1422,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=104)** Here's how that one works.
 >
-> **[1:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=106)** In a grid, you compare the probability of something happening against the severity of its impact.
+> **[1:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=106)** In a grid, you compare the [[Probability]] of something happening against the severity of its impact.
 >
 > **[1:53](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=113)** The cells contain labels such as low, medium-high, and very high.
 >
@@ -1457,7 +1436,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=139)** And what exactly is a medium impact?
 >
-> **[2:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=143)** And finally, the third one I want to talk to you about is called a Monte Carlo simulation.
+> **[2:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=143)** And finally, the third one I want to talk to you about is called a Monte Carlo [[Simulation]].
 >
 > **[2:29](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=149)** Now, this is a statistical method that uses repeated random sampling to get numeric results.
 >
@@ -1469,7 +1448,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=191)** Modern computers and software greatly automate the work.
 >
-> **[3:15](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=195)** In fact, you can do it using an Excel spreadsheet.
+> **[3:15](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=195)** In fact, you can do it using an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[3:18](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=198)** But Monte Carlo simulations require a certain amount of skill to perform and then to explain the results.
 >
@@ -1487,7 +1466,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=247)** And then you could use ACAT in order to close each gap, often by implementing controls until the requirement is met.
 >
-> **[4:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=256)** For example, in the NIST Cybersecurity Framework, there's a requirement that asks, "How well does your organization regularly test cyber incident detection processes and procedures?"
+> **[4:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=256)** For example, in the NIST [[Cybersecurity]] Framework, there's a requirement that asks, "How well does your organization regularly test cyber incident detection processes and procedures?"
 >
 > **[4:30](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=270)** So using a simple scoring system, and by doing a calibration exercise with anyone else who's involved, you could score your organization on this requirement in order to see if you have a gap.
 >
@@ -1501,15 +1480,15 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=307)** In other words, you could have too much security.
 >
-> **[5:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=310)** You'll still need a risk register and a risk management framework because each gap will need to be prioritized and closed, and that's usually done over a period of weeks or months.
+> **[5:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=310)** You'll still need a risk register and a [[Risk Management Framework (RMF)|risk management framework]] because each gap will need to be prioritized and closed, and that's usually done over a period of weeks or months.
 >
 > **[5:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=322)** I often use gap analysis instead of risk assessment because my customers like that it's more familiar, it's quicker, and it's less expensive than a full risk assessment.
 >
-> **[5:33](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=333)** You can see my gap analysis techniques by watching my course "Measuring and Managing Top Cyber Risks" right here in the LinkedIn Learning Library.
+> **[5:33](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980&t=333)** You can see my gap analysis techniques by watching my course "Measuring and Managing Top Cyber Risks" right here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (3), [[Probability]] (3), next (1), [[Simulation]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Probability]] (3), [[Simulation]] (1), [[Microsoft Excel|Excel]] (1), [[Cybersecurity]] (1)
 > **Analogies:** for example (5), such as (3), similar to (1)
 > **Env Vars:** nist (3), iso (3), acat (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
@@ -1517,8 +1496,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980)
+#### [Choosing controls](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1530,13 +1508,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=22)** Well, fortunately there are control catalogs that you can use.
 >
-> **[0:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=27)** Both NIST and ISO offer catalogs of controls.
+> **[0:27](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=27)** Both [[NIST]] and ISO offer catalogs of controls.
 >
 > **[0:33](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=33)** There's Special Publication 800-5, recommended security controls for federal information systems and organizations, and there's ISO 27002, the code of practice for information security controls.
 >
 > **[0:49](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=49)** Now the NIST catalog is free, and the ISO catalog costs money for you to access.
 >
-> **[0:54](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=54)** Now, you can also choose controls from other standards, like the Center for Internet Security's critical security controls, the Payment Card Industry data security standard, or even the Australian Cybersecurity Center's essential eight controls.
+> **[0:54](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=54)** Now, you can also choose controls from other standards, like the Center for Internet Security's critical security controls, the Payment Card Industry [[Data Security]] standard, or even the Australian [[Cybersecurity]] Center's essential eight controls.
 >
 > **[1:11](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=71)** I've used 800-53 the most because it's been very helpful in my work.
 >
@@ -1552,11 +1530,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=110)** Here's the first one.
 >
-> **[1:52](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=112)** Note that every time you see the word assignment in square brackets, that's actually a variable that you fill in based on the specific risk you're trying to reduce below the organization's tolerance level.
+> **[1:52](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=112)** Note that every time you see the [[Microsoft Word|word]] assignment in square brackets, that's actually a variable that you fill in based on the specific risk you're trying to reduce below the organization's tolerance level.
 >
 > **[2:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=127)** Here's how I might fill in the variables.
 >
-> **[2:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=130)** "Sanitize encrypted cloud databases prior to release out of organizational control using crypto shredding."
+> **[2:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=130)** "Sanitize encrypted cloud [[Databases]] prior to release out of organizational control using crypto shredding."
 >
 > **[2:18](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-controls-14515287?u=76281980&t=138)** A good use case for crypto shredding is when you want to quickly and permanently disabled access to encrypted data that you don't need anymore.
 >
@@ -1580,15 +1558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (5), [[NIST]] (4), [[Cybersecurity]] (2), cloud (2)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (2), [[Databases]] (2), [[Data Security]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nist (4), iso (3)
 > **Best Practices:** recommended (1), remember to (1)
 > **Definitions:** known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor (1)
 
-#### Implementing controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980)
+#### [Implementing controls](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=23)** An administrative control is usually non-technical, and typically happens behind the scenes from the perspective of a workforce member.
 >
-> **[0:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=31)** A common example would be the addition of cybersecurity requirements to a subcontractor agreement.
+> **[0:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=31)** A common example would be the addition of [[Cybersecurity]] requirements to a subcontractor agreement.
 >
 > **[0:38](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=38)** In contrast, and infrastructure control is technical in nature, but it also typically happens behind the scenes.
 >
@@ -1616,13 +1593,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=79)** In the worst case, the rollout could completely backfire, causing the workforce to be very unhappy, which destroys your political capital.
 >
-> **[1:29](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=89)** Let me give you a multi-factor authentication rollout as an example of how careful I try to be.
+> **[1:29](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=89)** Let me give you a [[Multi-factor Authentication]] rollout as an example of how careful I try to be.
 >
 > **[1:35](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=95)** It starts with a clear policy statement from senior decision makers.
 >
 > **[1:39](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=99)** Then, we may need to add into our job descriptions management's expectation that people will enroll and use the second form of authentication.
 >
-> **[1:50](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=110)** We also want to find a way to reward people for following the policy, and we need to work with the human resources team, so they're prepared to apply a progressive discipline process to deal with reluctant people.
+> **[1:50](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=110)** We also want to find a way to reward people for following the policy, and we need to work with the [[Human Resources (HR)|human resources]] team, so they're prepared to apply a progressive discipline process to deal with reluctant people.
 >
 > **[2:06](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/implementing-controls-14509366?u=76281980&t=126)** In terms of the rollout process itself, doing it in phases is a good technique.
 >
@@ -1652,13 +1629,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Multi-factor Authentication]] (2), [[Human Resources (HR)|Human resources]] (2), [[Cybersecurity]] (1), management (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2), [[Human Resources (HR)|Human resources]] (2), [[Cybersecurity]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operating controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980)
+#### [Operating controls](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,13 +1660,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=91)** That is, until about a million of them were exposed to the open internet due to a separate silence control failure.
 >
-> **[1:39](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=99)** Ultimately patient confidentiality was violated, which resulted in a penalty by the office of civil rights, as well as a financial settlement that resulted from a lawsuit.
+> **[1:39](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=99)** Ultimately patient confidentiality was violated, which resulted in a penalty by the [[Microsoft Office|office]] of civil rights, as well as a financial settlement that resulted from a lawsuit.
 >
 > **[1:51](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=111)** If an alert had been sounded when either of the controls failed, or if the system had failed in a way that prevented exploitation, the data breach probably wouldn't have happened.
 >
 > **[2:02](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=122)** When you design and operate controls, here are three design principles from Saltzer's and Schroeder's Seminole 1974 paper called The Protection of Information in Computer Systems.
 >
-> **[2:17](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=137)** First there's compromise recording, and you will need this in situations where a preventative control is unlikely to be good enough and so you want to add detective controls so that if your security is breached, first, the damage might be contained or limited by incident response and secondly, that evidence of the perpetrator's identity might be captured.
+> **[2:17](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=137)** First there's compromise recording, and you will need this in situations where a preventative control is unlikely to be good enough and so you want to add detective controls so that if your security is breached, first, the damage might be contained or limited by [[Incident Response]] and secondly, that evidence of the perpetrator's identity might be captured.
 >
 > **[2:46](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/operating-controls-14509365?u=76281980&t=166)** A second principle when designing controls is psychological acceptibility.
 >
@@ -1728,15 +1704,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (2), management (1), database (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Incident Response]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** hipaa (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validating controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980)
+#### [Validating controls](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,11 +1725,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=21)** But it's called an assessment if the control is being evaluated under the direct supervision of the management team.
 >
-> **[0:28](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=28)** Now this distinction is important because the word audit has adversarial connotations and it causes control operators to provide minimum cooperation.
+> **[0:28](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=28)** Now this distinction is important because the [[Microsoft Word|word]] audit has adversarial connotations and it causes control operators to provide minimum cooperation.
 >
 > **[0:39](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=39)** Now, let's get back to the control that we looked at a few lessons ago.
 >
-> **[0:43](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=43)** It was in NIST Special Publication 800-53, Revision 5, it was located on page 174, and it's called MP-6: Media Sanitization.
+> **[0:43](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=43)** It was in [[NIST]] Special Publication 800-53, Revision 5, it was located on page 174, and it's called MP-6: Media Sanitization.
 >
 > **[0:55](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=55)** The best way to validate this control is to first look up the procedure in NIST Special Publication 800-53A, which is a guide for assessing the security controls.
 >
@@ -1768,7 +1743,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=108)** You may recall that part a of the control template had many different options for constructing the control itself.
 >
-> **[1:56](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=116)** But my custom control was, "Sanitize encrypted cloud databases prior to release out of organizational control using crypto shredding."
+> **[1:56](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=116)** But my custom control was, "Sanitize encrypted cloud [[Databases]] prior to release out of organizational control using crypto shredding."
 >
 > **[2:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/validating-controls-14508359?u=76281980&t=127)** Now, my control statement is already very well-scoped, so I don't need to write several different assessments in order to evaluate it.
 >
@@ -1786,7 +1761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (2), management (1), [[Microsoft Word|Word]] (1), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** nist (2), f206 (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -1800,8 +1775,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with managing risk in IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980)
+#### [Next steps with managing risk in IT](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,19 +1785,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=5)** Well, there's just no substitute for direct experience, so I think you should get some right away.
 >
-> **[0:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=10)** I want you to start learning your organization's IT Risk Management Methods now.
+> **[0:10](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=10)** I want you to start learning your organization's [[IT Risk Management]] Methods now.
 >
 > **[0:16](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=16)** And that begins with reading the source documents and talking with experienced IT risk managers in your organization.
 >
 > **[0:24](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=24)** And then I want you to start doing risk work yourself.
 >
-> **[0:28](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=28)** Now, if your organization has no IT risk management standards, then you can get started by reading the NIST special publication 800-39, which is about managing information security risk.
+> **[0:28](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=28)** Now, if your organization has no IT risk management standards, then you can get started by reading the [[NIST]] special publication 800-39, which is about managing information [[Security Risk]].
 >
-> **[0:42](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=42)** If you feel like you need more training, there's many helpful courses right here in the LinkedIn Learning Library, including my own.
+> **[0:42](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=42)** If you feel like you need more training, there's many helpful courses right here in the [[LinkedIn]] Learning Library, including my own.
 >
 > **[0:50](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=50)** It's called Measuring and Managing Top Cyber Risks.
 >
-> **[0:53](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=53)** And it contains many lessons on how to conduct a gap analysis using the NIST cybersecurity framework, which is a great first step if you have an empty risk register and you want to quickly get going.
+> **[0:53](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=53)** And it contains many lessons on how to conduct a gap analysis using the NIST [[Cybersecurity]] framework, which is a great first step if you have an empty risk register and you want to quickly get going.
 >
 > **[1:07](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980&t=67)** Finally, you might also subscribe to the "Cyber Risk Management" podcast, which I host.
 >
@@ -1831,7 +1805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[NIST]] (2), next (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[IT Risk Management]] (2), [[NIST]] (2), [[Security Risk]] (1), [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)

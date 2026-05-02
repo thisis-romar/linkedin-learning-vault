@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for data integration and APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980)
+#### [The need for data integration and APIs](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=1)** Hi, and welcome to this course on Data Integration and API Development for AI Applications.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=1)** Hi, and welcome to this course on [[Data Integration]] and [[API Development]] for AI Applications.
 >
 > **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=7)** We know that AI applications are heavily dependent on good-quality data to train their models.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=46)** Integrating data from various sources provides a more holistic and comprehensive view of the information.
 >
-> **[0:52](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=52)** This leads to richer insights and more informed decision-making based on AI analysis.
+> **[0:52](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=52)** This leads to richer insights and more informed [[Decision-Making]] based on AI analysis.
 >
 > **[0:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=57)** When the underlying data is reliable and well integrated, the resulting AI-driven insights are more trustworthy and can be confidently used.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=82)** You need data integration to train your models with the right data, and you need the right kind of APIs to expose your models to the world.
 >
-> **[1:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=89)** This means you need data pipelines to get the data into your system, and ingesting data from disparate sources may require the use of APIs to access the data.
+> **[1:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=89)** This means you need [[Data Pipelines]] to get the data into your system, and ingesting data from disparate sources may require the use of APIs to access the data.
 >
 > **[1:42](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=102)** All of this makes your AI system automated and scalable.
 >
@@ -121,9 +120,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=114)** This ensures a continuous and scalable flow of clean and prepared data.
 >
-> **[1:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=119)** APIs often act as bridges, enabling AI systems to connect with and retrieve data from a wide range of internal and external applications, databases, and services.
+> **[1:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=119)** APIs often act as bridges, enabling AI systems to connect with and retrieve data from a wide range of internal and external applications, [[Databases]], and services.
 >
-> **[2:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=129)** This is what allows AI to leverage diverse data sets, including real-time streams and specialized data sources.
+> **[2:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=129)** This is what allows AI to leverage diverse data sets, including [[Real-Time]] streams and specialized data sources.
 >
 > **[2:16](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980&t=136)** Data pipelines facilitate the deployment of AI models by providing a streamlined way to feed them with the necessary data for making predictions or taking actions in real time.
 >
@@ -131,44 +130,42 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), ai (14), api (1), [[Decision-Making]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (4), [[Data Pipelines]] (3), [[API Development]] (1), [[Decision-Making]] (1), [[Databases]] (1)
 > **Env Vars:** api (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=1)** Before we get into the content of this course, here are some of the prerequisites that you need to have to make the most of your learning.
 >
-> **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=7)** This course assumes that you have a basic familiarity with machine learning and artificial intelligence solutions.
+> **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=7)** This course assumes that you have a basic familiarity with machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] solutions.
 >
 > **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=14)** Maybe you've built and trained machine learning and AI models, and you have a fundamental understanding of the AI workflow.
 >
-> **[0:21](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=21)** This course also assumes that you have a basic understanding of data integration.
+> **[0:21](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=21)** This course also assumes that you have a basic understanding of [[Data Integration]].
 >
 > **[0:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=25)** You understand the fact that data is retrieved from diverse sources and ingested into a unified platform that is typically used for analysis.
 >
 > **[0:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=34)** And finally, it would help if you had some hands-on experience with data pipeline services, especially for the hands-on portion of this course.
 >
-> **[0:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=40)** The demo in this course will involve the use of Microsoft Fabric, Microsoft's unified data analytics platform, to ingest data from diverse sources so that it's ready for analysis within Fabric.
+> **[0:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/prerequisites?u=76281980&t=40)** The demo in this course will involve the use of [[Microsoft]] Fabric, Microsoft's unified data analytics platform, to ingest data from diverse sources so that it's ready for analysis within Fabric.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (2), [[Microsoft]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Integration]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
 
-#### The need for data integration in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980)
+#### [The need for data integration in AI](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=1)** Let's now understand what exactly data integration is all about and its importance.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=1)** Let's now understand what exactly [[Data Integration]] is all about and its importance.
 >
 > **[0:06](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=6)** Data integration refers to the process of combining data from multiple disparate sources into a unified view.
 >
-> **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=14)** Essentially, the idea is that you get a single consistent dataset for analysis and decision-making.
+> **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=14)** Essentially, the idea is that you get a single consistent dataset for analysis and [[Decision-Making]].
 >
 > **[0:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=20)** Data in the real world is never available in a single place.
 >
@@ -176,19 +173,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=30)** Organizations may also make use of external data from third parties.
 >
-> **[0:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=34)** This means data integration involves pulling data from various locations like databases, applications, files, and cloud services.
+> **[0:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=34)** This means data integration involves pulling data from various locations like [[Databases]], applications, files, and [[Cloud Services]].
 >
 > **[0:42](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=42)** And this data may have different formats and structures.
 >
 > **[0:45](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=45)** The goal of data integration is to transform and consolidate this diverse data into a single coherent dataset, making it easier to understand and analyze this data.
 >
-> **[0:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=56)** Integration is often not just about pulling data together, but it also includes data cleaning and transformation processes.
+> **[0:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=56)** Integration is often not just about pulling data together, but it also includes [[Data Cleaning]] and transformation processes.
 >
-> **[1:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=65)** This is to ensure data quality and uniformity across the integrated dataset.
+> **[1:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=65)** This is to ensure [[Data Quality]] and uniformity across the integrated dataset.
 >
 > **[1:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=70)** What are some of the benefits of integrating data to a unified source?
 >
-> **[1:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=74)** The first is improved business intelligence.
+> **[1:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=74)** The first is improved [[Business Intelligence (BI)|business intelligence]].
 >
 > **[1:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=77)** When you consolidate data from various sources, organizations are able to get a comprehensive view of their operations, and this leads to more accurate and insightful analysis, better reporting, informed decision-making.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=211)** One department knows what orders a customer has made.
 >
-> **[3:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=214)** Another department stores the recommended products to a customer.
+> **[3:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=214)** Another department stores the recommended [[Microsoft Products|products]] to a customer.
 >
 > **[3:37](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=217)** A third department stores the personal details of a customer.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=245)** It'll slow down your processes and increase operational costs.
 >
-> **[4:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=249)** If you do not have automated pipelines for data ingestion and transfer, this increases the risk of errors when you manually move data between systems.
+> **[4:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=249)** If you do not have automated pipelines for [[Data Ingestion]] and transfer, this increases the risk of errors when you manually move data between systems.
 >
 > **[4:18](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=258)** Why is it important that you have good data integration systems for AI applications?
 >
@@ -268,9 +265,9 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=300)** Integrated data undergoes cleaning, transformation, and other processes, ensuring that the information used by AI is accurate, consistent, and reliable.
 >
-> **[5:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=310)** Your data pipelines can go beyond transforming data.
+> **[5:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=310)** Your [[Data Pipelines]] can go beyond transforming data.
 >
-> **[5:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=313)** Feature engineering, which is essential for AI performance, involves creating meaningful input features from raw data.
+> **[5:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=313)** [[Feature Engineering]], which is essential for AI performance, involves creating meaningful input features from raw data.
 >
 > **[5:21](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=321)** And data integration enables the combination of relevant attributes from multiple sources.
 >
@@ -278,17 +275,17 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=331)** Data used to train AI systems encounters some or all of these quality issues.
 >
-> **[5:37](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=337)** Data collection and storage issues often lead to silos, fragmentations, and format inconsistencies.
+> **[5:37](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=337)** [[Data Collection]] and storage issues often lead to silos, fragmentations, and format inconsistencies.
 >
 > **[5:42](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=342)** If there are different teams collecting this data, they may not store them in the same place or in the same format.
 >
-> **[5:49](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=349)** Data may be inaccurate or incomplete, and these are fundamental data quality issues, or you have no idea where the data came from, unknown data lineage.
+> **[5:49](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=349)** Data may be inaccurate or incomplete, and these are fundamental data quality issues, or you have no idea where the data came from, unknown [[Data Lineage]].
 >
 > **[6:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=360)** That's a quality issue, too.
 >
 > **[6:02](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=362)** Organizations may not be mindful of their data.
 >
-> **[6:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=364)** They may not have a data and AI governance framework, and this could end up exposing their data to misuse and their business to liabilities.
+> **[6:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=364)** They may not have a data and [[AI Governance]] framework, and this could end up exposing their data to misuse and their business to liabilities.
 >
 > **[6:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-in-ai?u=76281980&t=372)** And finally...and another problem, organizations are often understaffed.
 >
@@ -318,14 +315,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (78), ai (20), [[Decision-Making]] (2), teams (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Data Integration]] (10), [[Data Quality]] (3), [[Decision-Making]] (2), [[Databases]] (2), [[Data Cleaning]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (2), picture (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** recommended (1)
 
-#### Data silos
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980)
+#### [Data silos](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +359,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=95)** Each department or team might use their own tools and technologies to work with data.
 >
-> **[1:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=100)** Different software applications and databases may not be compatible, making data sharing difficult.
+> **[1:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=100)** Different software applications and [[Databases]] may not be compatible, making [[Data Sharing]] difficult.
 >
 > **[1:46](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=106)** Now the company culture might be such that there is no emphasis on data sharing on collaboration, and this can contribute to the formation of silos.
 >
@@ -385,7 +381,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=172)** This suggests that systems are not integrated, forcing manual workarounds.
 >
-> **[2:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=176)** If you find that your departments are not together well, if they struggle to share data and insights, leading to poor collaboration and decision-making, data silos are likely the culprit.
+> **[2:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=176)** If you find that your departments are not together well, if they struggle to share data and insights, leading to poor collaboration and [[Decision-Making]], data silos are likely the culprit.
 >
 > **[3:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/data-silos?u=76281980&t=187)** This can manifest as departments not having access to other departments' data and maybe missing out on crucial information that would improve the overall business.
 >
@@ -427,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), teams (3), business (3), database (1), web (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (3), [[Databases]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), picture (1)
 
@@ -436,12 +432,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Phases of data integration: Data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980)
+#### [Phases of data integration: Data sources](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=1)** Data integration is not a single operation.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=1)** [[Data Integration]] is not a single operation.
 >
 > **[0:03](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=3)** It consists of several phases.
 >
@@ -449,17 +444,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=8)** The first phase is to identify all of the data sources.
 >
-> **[0:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=12)** Data sources are the origins of data, and this can include databases, applications, cloud services, and more.
+> **[0:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=12)** Data sources are the origins of data, and this can include [[Databases]], applications, [[Cloud Services]], and more.
 >
 > **[0:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=19)** Efficient integration requires handling a diverse array of data sources.
 >
-> **[0:24](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=24)** Once we know what data we have to access, the next step is data ingestion.
+> **[0:24](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=24)** Once we know what data we have to access, the next step is [[Data Ingestion]].
 >
 > **[0:28](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=28)** This is the process of extracting data from various sources and preparing it for integration.
 >
-> **[0:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=34)** Data ingestion methods vary from batch processing to real-time processing.
+> **[0:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=34)** Data ingestion methods vary from [[Batch Processing]] to [[Real-Time]] processing.
 >
-> **[0:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=38)** Next, we have data mapping.
+> **[0:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=38)** Next, we have [[Data Mapping]].
 >
 > **[0:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=40)** This is what we need to combine data from different systems.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=51)** Now the way your source data is structured may not map what you need in the target system.
 >
-> **[0:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=56)** Data must often be transformed to match the target system schema, and this step includes data cleaning, where inconsistencies and errors are corrected.
+> **[0:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=56)** Data must often be transformed to match the target system schema, and this step includes [[Data Cleaning]], where inconsistencies and errors are corrected.
 >
 > **[1:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=65)** And finally, we have data loading.
 >
@@ -483,19 +478,19 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=94)** Now the data can be internal to the organization or externally provided by third party or the government.
 >
-> **[1:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=100)** The sources can include SQL databases, NoSQL systems, flat files like CSVs, APIs, and even cloud storage solutions. Every source is not the same.
+> **[1:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=100)** The sources can include [[SQL]] databases, [[NoSQL]] systems, flat files like CSVs, APIs, and even [[Cloud Storage]] solutions. Every source is not the same.
 >
 > **[1:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=110)** Every source may have different data formats, access protocols, and update frequencies.
 >
 > **[1:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=116)** You need to understand the characteristics of every individual source to plan effective integration.
 >
-> **[2:02](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=122)** You'll use this information to identify the kind of data pipelines to build and their refresh frequencies.
+> **[2:02](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=122)** You'll use this information to identify the kind of [[Data Pipelines]] to build and their refresh frequencies.
 >
 > **[2:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=128)** Every source may have different data formats.
 >
-> **[2:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=131)** Some data sources may be structured like relational databases.
+> **[2:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=131)** Some data sources may be structured like [[Relational Databases]].
 >
-> **[2:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=135)** Others might be semi-structured, like JSON data that you get from APIs.
+> **[2:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=135)** Others might be semi-structured, like [[JSON]] data that you get from APIs.
 >
 > **[2:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=140)** Or the data sources might be unstructured, like logs or documents.
 >
@@ -509,9 +504,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=161)** Data in relational databases and spreadsheets are examples.
 >
-> **[2:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=164)** Semi-structured data is data that doesn't fit neatly into a relational database but has some organizational properties, like, say, tags or metadata that separate the semantic elements.
+> **[2:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=164)** Semi-structured data is data that doesn't fit neatly into a relational database but has some organizational properties, like, say, tags or [[Metadata]] that separate the semantic elements.
 >
-> **[2:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=175)** Semi-structured data is easier to analyze than unstructured data.
+> **[2:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=175)** Semi-structured data is easier to analyze than [[Unstructured Data]].
 >
 > **[2:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=179)** Examples include JSON and XML data.
 >
@@ -527,7 +522,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=207)** Sources may expose data via different protocols.
 >
-> **[3:30](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=210)** Maybe JDBC or ODBC for databases, REST or SOAP APIs.
+> **[3:30](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=210)** Maybe [[Java Database Connectivity (JDBC)|JDBC]] or ODBC for databases, [[Representational State Transfer (REST)|REST]] or SOAP APIs.
 >
 > **[3:35](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980&t=215)** File system access might involve reading CSV or XML files.
 >
@@ -577,22 +572,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (55), [[Databases]] (3), cloud (2), next (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Data Integration]] (3), [[Databases]] (3), [[Data Ingestion]] (2), [[SQL]] (2), [[NoSQL]] (2)
 > **Env Vars:** sql (2), json (2), xml (2), api (2), jdbc (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
 
-#### Phases of data integration: Data ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980)
+#### [Phases of data integration: Data ingestion](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=1)** Once you've identified sources, let's talk about how you can use data ingestion to get them into a unified system.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=1)** Once you've identified sources, let's talk about how you can use [[Data Ingestion]] to get them into a unified system.
 >
 > **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=7)** Data ingestion is the process of collecting data from various sources and moving that data into a central system.
 >
-> **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=14)** Now this can happen in real-time mode, that is, streaming data, or at scheduled intervals for batch data.
+> **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=14)** Now this can happen in [[Real-Time]] mode, that is, streaming data, or at scheduled intervals for batch data.
 >
 > **[0:21](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=21)** Of course, how you choose to ingest data depends on the type of data source that you're working on.
 >
@@ -602,11 +596,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=38)** For data ingestion, you have to typically deal with two broad categories of data.
 >
-> **[0:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=43)** Streaming data is data that is generated continuously and processed in near real time, for example, sensor readings from IoT devices or financial transactions that are analyzed as they happen.
+> **[0:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=43)** Streaming data is data that is generated continuously and processed in near real time, for example, sensor readings from [[IoT]] devices or financial transactions that are analyzed as they happen.
 >
 > **[0:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=54)** Batch data, on the other hand, is collected over a period of time and processed in chunks or batches.
 >
-> **[1:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=61)** Payroll processing or analyzing website logs once a day or once a week; well, that's an example of batch processing.
+> **[1:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=61)** Payroll processing or analyzing website logs once a day or once a week; well, that's an example of [[Batch Processing]].
 >
 > **[1:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=68)** Here are some capabilities that your data ingestion layer should have.
 >
@@ -632,7 +626,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=128)** All of these are possible choices.
 >
-> **[2:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=131)** Now once you ingest data, you still need to be able to trace back where the data came from, so make sure your pipeline captures source metadata, such as timestamp, source systems, batch ID, or any versioning information.
+> **[2:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=131)** Now once you ingest data, you still need to be able to trace back where the data came from, so make sure your pipeline captures source [[Metadata]], such as timestamp, source systems, batch ID, or any versioning information.
 >
 > **[2:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-ingestion?u=76281980&t=145)** If you ever need to audit your data for compliance or regulatory reasons, this is going to help you.
 >
@@ -646,19 +640,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Real-Time]] (2), [[IoT]] (1), [[Batch Processing]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (4), [[Real-Time]] (2), [[IoT]] (1), [[Batch Processing]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (2), make sure you have (1), setup (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Phases of data integration: Data mapping, transformation, and loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980)
+#### [Phases of data integration: Data mapping, transformation, and loading](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=1)** Once you've ingested the data from disparate sources, the next step is to map your data to the target schema.
 >
-> **[0:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=8)** Data mapping defines how fields from different sources correspond to those in the target schema.
+> **[0:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=8)** [[Data Mapping]] defines how fields from different sources correspond to those in the target schema.
 >
 > **[0:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=13)** This is about aligning data elements like column names, data types, and units to what you want it to be finally.
 >
@@ -676,7 +669,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=66)** This is part of field mapping.
 >
-> **[1:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=68)** Once you've mapped your fields from the source system to the target system, the next step is data transformation.
+> **[1:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=68)** Once you've mapped your fields from the source system to the target system, the next step is [[Data Transformation]].
 >
 > **[1:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=75)** Transformation is about reshaping your data to meet the needs of the destination system or meet the needs of any downstream analysis that you perform.
 >
@@ -688,7 +681,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=129)** Here are some common transformation operations that you might perform.
 >
-> **[2:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=133)** Data cleaning involves removing or correcting invalid, incomplete, or duplicate records.
+> **[2:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=133)** [[Data Cleaning]] involves removing or correcting invalid, incomplete, or duplicate records.
 >
 > **[2:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=139)** You might standardize null values, fixed typos, make sure casing is consistent, or formatting is consistent for, say, phone numbers or dates.
 >
@@ -708,7 +701,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=188)** And finally, data enrichment.
 >
-> **[3:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=190)** And feature engineering is a part of this.
+> **[3:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=190)** And [[Feature Engineering]] is a part of this.
 >
 > **[3:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=192)** You might bring together data from multiple sources by adding new fields to your data.
 >
@@ -722,11 +715,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=219)** Once you're satisfied with the data itself, that's when it's time for data loading, getting the data into the target system.
 >
-> **[3:47](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=227)** This is often the final step in data integration when transformed data is written to a target system.
+> **[3:47](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=227)** This is often the final step in [[Data Integration]] when transformed data is written to a target system.
 >
 > **[3:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=234)** Now this can be a data warehouse, a data lake, or maybe some kind of analytics tool.
 >
-> **[3:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=239)** When you're building AI systems, such data will typically be in a data lake or a data warehouse, part of a unified analytics platform that supports predictive and large language models.
+> **[3:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=239)** When you're building AI systems, such data will typically be in a data lake or a data warehouse, part of a unified analytics platform that supports predictive and [[Large Language Models (LLM)|large language models]].
 >
 > **[4:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=250)** It's not necessary that all of your data is written in one go.
 >
@@ -750,7 +743,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=299)** Once the data is available in the target system, it's available within our organization.
 >
-> **[5:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=305)** The data is typically stored in a data warehouse, data lake, or made available to business intelligence tools.
+> **[5:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=305)** The data is typically stored in a data warehouse, data lake, or made available to [[Business Intelligence (BI)|business intelligence]] tools.
 >
 > **[5:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-mapping-transformation-and-loading?u=76281980&t=311)** It's important that this entire data integration system is automated, so you are not dealing with manual reconciliation and manual copying of data.
 >
@@ -758,20 +751,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (55), [[Analytics]] (3), ai (3), next (2), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (3), [[Data Mapping]] (2), [[Data Transformation]] (1), [[Data Cleaning]] (1), [[Feature Engineering]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sku (1), pin (1)
 > **Definitions:** is a  (1)
 
-#### Methods of data integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980)
+#### [Methods of data integration](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=0)** There are a variety of different techniques that you can use for data integration, and that's what we'll discuss in this movie.
+> **[0:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=0)** There are a variety of different techniques that you can use for [[Data Integration]], and that's what we'll discuss in this movie.
 >
-> **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=7)** The first and most common technique that you might have heard of is Extract, Transform, Load, or ETL.
+> **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=7)** The first and most common technique that you might have heard of is [[Extract, Transform, Load (ETL)|Extract, Transform, Load]], or ETL.
 >
 > **[0:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=13)** This is a traditional data integration process where data is extracted from source systems, transformed, that is, cleaned, standardized, enriched, and loaded into a target data warehouse or data lake.
 >
@@ -787,11 +779,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=65)** For streaming data integration, this involves the use of continuous ingestion, processing, and delivery of data in real time or near real time as the data is generated.
 >
-> **[1:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=77)** In AI applications, this enables the development of real-time applications like fraud detection, anomaly detection, and personalized recommendations by providing a constant flow of up-to-date information for model inference and continuous learning.
+> **[1:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=77)** In AI applications, this enables the development of [[Real-Time]] applications like fraud detection, anomaly detection, and personalized recommendations by providing a constant flow of up-to-date information for model inference and continuous learning.
 >
 > **[1:32](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=92)** And then we have Change Data Capture.
 >
-> **[1:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=94)** This is a technique for tracking and capturing only the changes made to the data and source systems, like databases, and replicating those changes to the target system in near real time.
+> **[1:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=94)** This is a technique for tracking and capturing only the changes made to the data and source systems, like [[Databases]], and replicating those changes to the target system in near real time.
 >
 > **[1:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/methods-of-data-integration?u=76281980&t=104)** In AI integration, Change Data Capture ensures that data used for training or real-time predictions is always up to date with the latest transactions and modifications in the operational system without needing full data refreshes.
 >
@@ -809,17 +801,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), ai (7), etl (3), [[Real-Time]] (3), cloud (1)
+> **Frameworks & Libraries:** [[Data Integration]] (3), [[Real-Time]] (3), [[Databases]] (1)
 > **Env Vars:** etl (3), elt (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1)
 
-#### ETL and ELT
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980)
+#### [ETL and ELT](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=1)** Let's talk about each of these methods in more detail, starting with Extract, Transform, Load, or ETL.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=1)** Let's talk about each of these methods in more detail, starting with [[Extract, Transform, Load (ETL)|Extract, Transform, Load]], or ETL.
 >
 > **[0:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=8)** ETL goes back several years, maybe even decades.
 >
@@ -835,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=40)** Here is a visual representation of how ETL pipelines work.
 >
-> **[0:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=44)** We have data from the original sources, and they can be a diverse set of sources: RDBMSs, tabular data, Excel, simple XML, anything.
+> **[0:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=44)** We have data from the original sources, and they can be a diverse set of sources: RDBMSs, tabular data, [[Microsoft Excel|Excel]], simple XML, anything.
 >
 > **[0:53](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=53)** Extraction involves connecting to these diverse variety of sources in order to extract the data or access the data in these sources.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=81)** Once data is available in the target system, it's available for analysis.
 >
-> **[1:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=85)** So you can make use of business intelligence tools, reporting, or build predictive models using this data.
+> **[1:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=85)** So you can make use of [[Business Intelligence (BI)|business intelligence]] tools, reporting, or build predictive models using this data.
 >
 > **[1:32](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=92)** ETL is the traditional method to get data into a target system.
 >
@@ -863,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=116)** Now an important reason that this approach is used in modern systems is because it takes advantage of modern cloud data warehouses that are incredibly powerful and support extensive transformations.
 >
-> **[2:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=129)** So data warehouses like Snowflake or BigQuery can handle transformations at scale.
+> **[2:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=129)** So data warehouses like [[Snowflake]] or BigQuery can handle transformations at scale.
 >
 > **[2:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=134)** ELT is also important from the point of view of AI systems, where raw data is needed for experimentation, model versioning, and reprocessing.
 >
@@ -877,13 +868,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=158)** Once again, data is accessed from a wide variety of sources.
 >
-> **[2:41](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=161)** These sources can be structured, semi-structured, or unstructured data.
+> **[2:41](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=161)** These sources can be structured, semi-structured, or [[Unstructured Data]].
 >
 > **[2:46](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=166)** You connect to these sources and extract the data as needed.
 >
 > **[2:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=170)** The data is directly loaded into the target system.
 >
-> **[2:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=174)** The target system is quite likely to be a unified analytics platform that has both warehouses and data lakes.
+> **[2:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=174)** The target system is quite likely to be a unified analytics platform that has both warehouses and [[Data Lakes]].
 >
 > **[3:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=181)** The data warehouses will hold your structured data, and your data lakes are likely to hold your semi-structured and unstructured data.
 >
@@ -913,7 +904,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=262)** With ETL, the performance of your data pipeline is limited by the compute power that is accessible to the intermediate server.
 >
-> **[4:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=271)** With ELT, they tend to be highly scalable and performant because modern databases have access to that compute power that we spoke of earlier.
+> **[4:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=271)** With ELT, they tend to be highly scalable and performant because modern [[Databases]] have access to that compute power that we spoke of earlier.
 >
 > **[4:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-and-elt?u=76281980&t=278)** This overall makes ETL less flexible for future changes to your pipeline.
 >
@@ -921,17 +912,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (44), etl (10), power (5), ai (2), [[Unstructured Data]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Data Lakes]] (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), [[Microsoft Excel|Excel]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** etl (10), elt (10), xml (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### Streaming integration and change data capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980)
+#### [Streaming integration and change data capture](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=1)** We are still on methods of data integration.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=1)** We are still on methods of [[Data Integration]].
 >
 > **[0:03](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=3)** Let's talk about streaming data integration.
 >
@@ -941,21 +931,21 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=23)** Data is constantly available because the events occur in real time.
 >
-> **[0:28](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=28)** This is crucial for AI use cases that rely on live inputs, like fraud detection, personalization, and IoT analytics.
+> **[0:28](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=28)** This is crucial for AI use cases that rely on live inputs, like fraud detection, personalization, and [[IoT]] analytics.
 >
-> **[0:36](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=36)** There are specialized frameworks that deal with streaming data ingestion and processing.
+> **[0:36](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=36)** There are specialized frameworks that deal with streaming [[Data Ingestion]] and processing.
 >
-> **[0:41](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=41)** This method uses frameworks like Apache Kafka, Apache Flink, or Spark Structured Streaming to handle high-throughput and low-latency pipelines.
+> **[0:41](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=41)** This method uses frameworks like [[Apache Kafka]], Apache Flink, or Spark Structured Streaming to handle high-throughput and low-latency pipelines.
 >
 > **[0:52](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=52)** And then we have Change Data Capture, which is all about only moving the deltas or changes to the target systemas needed.
 >
-> **[1:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=61)** CDC has special mechanisms to detect and capture changes in source databases.
+> **[1:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=61)** CDC has special mechanisms to detect and capture changes in source [[Databases]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=66)** These changes can be in the form of INSERTs, UPDATEs, or DELETEs.
 >
 > **[1:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=70)** With Change Data Capture, you detect these changes without reloading entire data sets.
 >
-> **[1:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=75)** An advantage of this is that it provides a near real-time feed of changes, making it ideal for syncing systems or retraining models on incremental data.
+> **[1:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=75)** An advantage of this is that it provides a near [[Real-Time]] feed of changes, making it ideal for syncing systems or retraining models on incremental data.
 >
 > **[1:27](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/streaming-integration-and-change-data-capture?u=76281980&t=87)** Change Data Capture or CDC is very, very efficient and it reduces the load on source systems, efficient because it reduces the input/output operations that you perform on the source data as well as the target data.
 >
@@ -963,16 +953,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (1), ai (1), [[IoT]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (2), [[IoT]] (1), [[Data Ingestion]] (1), [[Apache Kafka]] (1), [[Databases]] (1)
 > **CLI Commands:** apache (2)
 > **Env Vars:** cdc (2)
 
-#### Best practices and challenges in data integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980)
+#### [Best practices and challenges in data integration](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=1)** Let's discuss some data integration best practices.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=1)** Let's discuss some [[Data Integration]] best practices.
 >
 > **[0:03](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=3)** Make sure your integration process is modular and scalable so that it can grow with data volume and complexity.
 >
@@ -986,7 +975,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=29)** Make sure you always know where data comes from and how it got to the target system.
 >
-> **[0:35](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=35)** Maintain clear data lineage and metadata tracking.
+> **[0:35](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=35)** Maintain clear [[Data Lineage]] and [[Metadata]] tracking.
 >
 > **[0:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=38)** Knowing where data came from and how it was transformed is key for debugging, compliance, and auditability.
 >
@@ -1016,7 +1005,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=93)** With undetected failures, you won't even know when your AI models go wrong.
 >
-> **[1:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=98)** Make sure you never integrate sensitive data without considering its implications, security, and privacy requirements.
+> **[1:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=98)** Make sure you never integrate sensitive data without considering its implications, security, and [[Privacy]] requirements.
 >
 > **[1:46](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=106)** Think about encryption, masking, and access controls.
 >
@@ -1030,7 +1019,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=130)** In a production system, you're likely integrating different kinds of sources.
 >
-> **[2:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=134)** Some may be batch sources, others may be real-time or streaming sources.
+> **[2:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=134)** Some may be batch sources, others may be [[Real-Time]] or streaming sources.
 >
 > **[2:18](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=138)** Make sure you orchestrate them carefully to avoid duplication or latency issues.
 >
@@ -1054,15 +1043,15 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=197)** Different departments may have their own standards for data.
 >
-> **[3:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=200)** This can cause inconsistent naming conventions, formats, or units, and this increases the overhead of the data transformation process.
+> **[3:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=200)** This can cause inconsistent naming conventions, formats, or units, and this increases the overhead of the [[Data Transformation]] process.
 >
-> **[3:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=209)** Another common challenge you might encounter is that engineering data science and domain experts may have limited collaboration.
+> **[3:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=209)** Another common challenge you might encounter is that engineering [[Data Science]] and domain experts may have limited collaboration.
 >
 > **[3:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/best-practices-and-challenges-in-data-integration?u=76281980&t=218)** In order to create meaningful and usable datasets, these teams need to work together in a cohesive manner.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), ai (2), [[Metadata]] (2), [[Debugging]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (2), [[Metadata]] (2), [[Data Lineage]] (1), [[Privacy]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (9)
 > **Analogies:** for example (1)
 
@@ -1071,18 +1060,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uploading data to Azure Blob storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980)
+#### [Uploading data to Azure Blob storage](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=1)** In this demo, we'll see how you can ingest data into Microsoft Fabric from an external source using shortcuts.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=1)** In this demo, we'll see how you can ingest data into [[Microsoft]] Fabric from an external source using shortcuts.
 >
-> **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=7)** Microsoft Fabric is a unified data platform that brings together data engineering, data science, real-time analytics, and business intelligence on a single software-as-a-service platform.
+> **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=7)** Microsoft Fabric is a unified data platform that brings together [[Data Engineering]], [[Data Science]], [[Real-Time]] analytics, and [[Business Intelligence (BI)|business intelligence]] on a single software-as-a-service platform.
 >
-> **[0:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=19)** On Fabric, you can build and train ML models, build dashboards, or run simple queries on your data.
+> **[0:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=19)** On Fabric, you can build and train ML models, build [[Dashboards]], or run simple queries on your data.
 >
-> **[0:24](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=24)** In this demo, we'll access data stored in an Azure blob storage container from Microsoft Fabric.
+> **[0:24](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=24)** In this demo, we'll access data stored in an [[Microsoft Azure|Azure]] blob storage container from Microsoft Fabric.
 >
 > **[0:30](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=30)** I'm logged in here to my Azure portal, and I'm going to create a storage account and a blob storage container that will hold my data.
 >
@@ -1110,7 +1098,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=87)** Once the storage account has been successfully created, we'll create a container within that storage account.
 >
-> **[1:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=93)** Go to the storage account and on the left, under Data Storage, you'll find an option for Containers.
+> **[1:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=93)** Go to the storage account and on the left, under [[Data Storage]], you'll find an option for Containers.
 >
 > **[1:39](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980&t=99)** A container is just a logical grouping within a storage account used to organize and store blobs, that is, binary large objects.
 >
@@ -1158,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft]] (8), [[Microsoft Azure|Azure]] (4), [[Engineering]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (4), [[Data Science]] (1), [[Real-Time]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** sas (2)
@@ -1166,12 +1154,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Prerequisites:** set up (1)
 
-#### Ingesting data into Microsoft Fabric using shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980)
+#### [Ingesting data into Microsoft Fabric using shortcuts](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=1)** Here, I am logged in with a trial account on Microsoft Fabric.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=1)** Here, I am logged in with a trial account on [[Microsoft]] Fabric.
 >
 > **[0:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=4)** Microsoft Fabric is available at app.fabric.[microsoft.com](https://microsoft.com).
 >
@@ -1179,7 +1166,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=16)** All your operations within Microsoft Fabric are performed within a workspace.
 >
-> **[0:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=20)** Workspaces are a way to collaborate with the rest of your team on a project.
+> **[0:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=20)** Workspaces are a way to collaborate with the [[Representational State Transfer (REST)|rest]] of your team on a project.
 >
 > **[0:24](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=24)** I'm going to create a new workspace for this particular demo called LoonyWS.
 >
@@ -1189,13 +1176,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=38)** Click on New Item and find the option for Lakehouse.
 >
-> **[0:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=43)** A lakehouse is a modern data architecture that combines the scalable storage of a data lake with the structured data management and performance features of a data warehouse, and this enables unified analytics on all data types.
+> **[0:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=43)** A lakehouse is a modern [[Data Architecture]] that combines the scalable storage of a data lake with the structured [[Data Management]] and performance features of a data warehouse, and this enables unified analytics on all data types.
 >
 > **[0:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=56)** I'm going to create a new lakehouse called LoonyLakehouse.
 >
-> **[1:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=61)** And it's within this lakehouse that I'll create a shortcut to access the data that I have on my Azure account.
+> **[1:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=61)** And it's within this lakehouse that I'll create a shortcut to access the data that I have on my [[Microsoft Azure|Azure]] account.
 >
-> **[1:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=67)** Structured data in lakehouses are stored in tables, whereas unstructured data is stored in files.
+> **[1:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=67)** Structured data in lakehouses are stored in tables, whereas [[Unstructured Data]] is stored in files.
 >
 > **[1:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=72)** I'm going to click on the three dots next to Files and create a new shortcut.
 >
@@ -1209,7 +1196,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=95)** Now I need to create a new connection for this, and I specify the URL of my blob storage account.
 >
-> **[1:42](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=102)** This is simply https://, the name of your storage account, that is, loonyfabricsorage, in my case, and then dot dfs dot core dot windows dot net.
+> **[1:42](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=102)** This is simply https://, the name of your storage account, that is, loonyfabricsorage, in my case, and then dot dfs dot core dot [[Windows]] dot net.
 >
 > **[1:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=115)** Make sure you select the option to create a new connection.
 >
@@ -1251,7 +1238,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=211)** Let me show you how you can query this data.
 >
-> **[3:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=213)** If you click on the Lakehouse option here, select the SQL analytics endpoint.
+> **[3:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=213)** If you click on the Lakehouse option here, select the [[SQL]] analytics endpoint.
 >
 > **[3:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/ingesting-data-into-microsoft-fabric-using-shortcuts?u=76281980&t=218)** This will allow us to run SQL queries on our data.
 >
@@ -1265,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (7), [[Microsoft]] (5), [[Analytics]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (5), [[SQL]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Architecture]] (1)
 > **UI Navigation:** click on (7), select the (3)
 > **Env Vars:** sql (3), sas (2), url (1), csv (1)
 > **CLI Commands:** find (2), make (1)
@@ -1274,18 +1261,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### ETL with Fabric dataflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980)
+#### [ETL with Fabric dataflows](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=0)** In this demo, we'll continue working within the LoonyLakehouse that we had created in our Microsoft Fabric Workspace.
+> **[0:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=0)** In this demo, we'll continue working within the LoonyLakehouse that we had created in our [[Microsoft]] Fabric Workspace.
 >
 > **[0:06](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=6)** This time, when we ingest data, we'll do so using a simple ETL pipeline.
 >
-> **[0:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=12)** Fabric includes a feature called Dataflow, which is a low-code ETL Extract, Transform, low tool that lets users ingest clean and transformed data using Power Query.
+> **[0:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=12)** Fabric includes a feature called Dataflow, which is a low-code ETL Extract, Transform, low tool that lets users ingest clean and transformed data using [[Microsoft Power Query|Power Query]].
 >
-> **[0:23](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=23)** I'll create a new Dataflow and we'll use this to read our Adidas sales data from our Azure Blob Storage, transform it, and then store it within our LoonyLakehouse.
+> **[0:23](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=23)** I'll create a new Dataflow and we'll use this to read our Adidas sales data from our [[Microsoft Azure|Azure]] Blob Storage, transform it, and then store it within our LoonyLakehouse.
 >
 > **[0:34](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=34)** I'm going to call this Dataflow IngestDataFromADLS.
 >
@@ -1293,7 +1279,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=40)** This opens up Microsoft's Power Query Editor.
 >
-> **[0:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=43)** Power Query is a data transformation and preparation tool that lets users connect to various data sources, clean, reshape, and combine data using a visual step-by-step interface.
+> **[0:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=43)** Power Query is a [[Data Transformation]] and preparation tool that lets users connect to various data sources, clean, reshape, and combine data using a visual step-by-step interface.
 >
 > **[0:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=55)** You don't need to write any code.
 >
@@ -1399,7 +1385,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=290)** Let's query this data in Fabric to verify that everything is as expected.
 >
-> **[4:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=295)** Select the SQL analytics endpoint.
+> **[4:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=295)** Select the [[SQL]] analytics endpoint.
 >
 > **[4:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/etl-with-fabric-dataflows?u=76281980&t=297)** And here, let's find the table named Query.
 >
@@ -1417,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Azure|Azure]] (7), [[Microsoft Power Query|Power query]] (6), etl (5), hit (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Power Query|Power query]] (6), [[Microsoft]] (3), [[SQL]] (3), [[Data Transformation]] (1)
 > **Env Vars:** etl (5), sql (3), sas (1), url (1), csv (1)
 > **UI Navigation:** click on (4), select the (3), right-click (1)
 > **CLI Commands:** find (6), make (1)
@@ -1428,12 +1414,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### APIs to work with data and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980)
+#### [APIs to work with data and AI](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=1)** Now that we've discussed data integration, let's turn our attention to the APIs that you'll use to work with data and AI systems.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=1)** Now that we've discussed [[Data Integration]], let's turn our attention to the APIs that you'll use to work with data and AI systems.
 >
 > **[0:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=9)** An API is an acronym for Application Programming Interface, which is a defined interface that allows software components to communicate.
 >
@@ -1463,9 +1448,9 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=119)** Your AI application is finally going to be used by a mobile customer or a web customer.
 >
-> **[2:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=124)** APIs are essential for enabling communication and data exchange between mobile applications, cloud services, and on-premise systems.
+> **[2:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=124)** APIs are essential for enabling communication and data exchange between mobile applications, [[Cloud Services]], and on-premise systems.
 >
-> **[2:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=132)** And this is what supports the growing demand for ubiquitous and real-time access to AI solutions and services.
+> **[2:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=132)** And this is what supports the growing demand for ubiquitous and [[Real-Time]] access to [[AI Solutions]] and services.
 >
 > **[2:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=139)** Let's discuss the characteristics and features of good APIs, whether it's an API that you are exposing or you are consuming.
 >
@@ -1477,7 +1462,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=164)** Any application is likely to have few users when it first starts off, but as applications and user bases grow, an API must be able to handle increasing loads and traffic without compromising performance or availability.
 >
-> **[2:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=177)** Design your API with scalability in mind.
+> **[2:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=177)** Design your API with [[Scalability]] in mind.
 >
 > **[3:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=180)** Leverage techniques like caching, load balancing, and horizontal scaling to distribute the workload across multiple servers.
 >
@@ -1501,7 +1486,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=252)** APIs provide a way to leverage the power of prebuilt AI models for various tasks without needing to develop them from scratch.
 >
-> **[4:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=260)** For example, applications can use APIs offered by companies like OpenAI, Google Cloud, or Azure AI services for natural language processing, computer vision, and speech recognition.
+> **[4:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=260)** For example, applications can use APIs offered by companies like OpenAI, [[Google Cloud Platform (GCP)|Google Cloud]], or [[Microsoft Azure|Azure]] AI services for [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and [[Speech Recognition]].
 >
 > **[4:32](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=272)** This reduces your development time and complexity.
 >
@@ -1513,7 +1498,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=300)** Maybe you have a fraud detection model that's serving predictions behind an API.
 >
-> **[5:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=305)** An e-commerce platform can then send transaction details to this API in real time and receive a prediction on whether the transaction is likely fraudulent.
+> **[5:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=305)** An [[E-Commerce]] platform can then send transaction details to this API in real time and receive a prediction on whether the transaction is likely fraudulent.
 >
 > **[5:13](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=313)** AI applications often need to interact with existing business systems like your CRM systems or ERP systems, and maybe with a variety of data sources.
 >
@@ -1521,7 +1506,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=329)** For example, a marketing automation platform could use an AI API to analyze customer behavior data obtained through its existing APIs and then use the insights to personalize email campaigns or segment audiences.
 >
-> **[5:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=343)** Developers can use AI APIs to easily add intelligent features to their applications, enhancing user experience and providing new functionalities.
+> **[5:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=343)** Developers can use AI APIs to easily add intelligent features to their applications, enhancing [[User Experience (UX)|user experience]] and providing new functionalities.
 >
 > **[5:53](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980&t=353)** This can be chatbots, virtual assistants or personalized recommendations, and intelligent search.
 >
@@ -1529,7 +1514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), api (14), data (13), application (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (1), [[Cloud Services]] (1), [[Real-Time]] (1), [[AI Solutions]] (1), [[Scalability]] (1)
 > **Env Vars:** api (14), http (1), post (1), put (1), delete (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (3)
@@ -1537,8 +1522,7 @@ created: 2026-05-02
 > **API Endpoints:** delete
  (1)
 
-#### API types, benefits, and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980)
+#### [API types, benefits, and best practices](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,11 +1532,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=7)** Now APIs can be open APIs or public APIs that are accessible to external developers or users and are often published with public documentation.
 >
-> **[0:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=17)** In AI, these are used for exposing general-purpose models such as OpenAI's APIs or Hugging Face endpoints.
+> **[0:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=17)** In AI, these are used for exposing general-purpose models such as OpenAI's APIs or [[Hugging Face]] endpoints.
 >
 > **[0:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=25)** And then we have internal APIs that are meant for use within an organization and are not available to external developers.
 >
-> **[0:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=33)** These connect internal services like model-serving endpoints, feature stores, or data pipelines.
+> **[0:33](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=33)** These connect internal services like model-serving endpoints, feature stores, or [[Data Pipelines]].
 >
 > **[0:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=38)** They prioritize performance, consistency, and are tightly coupled with internal infrastructure.
 >
@@ -1566,7 +1550,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=74)** Companies often make their data or models available via open APIs to monetize them.
 >
-> **[1:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=80)** In AI applications, open APIs enable the integration of external AI services, such as machine learning models or natural language processing tools, into diverse platforms.
+> **[1:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=80)** In AI applications, open APIs enable the integration of external AI services, such as machine learning models or [[Natural Language Processing (NLP)|natural language processing]] tools, into diverse platforms.
 >
 > **[1:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=91)** Let's say your organization has built a great image generation system, make it available via an open API, so others have access to it, and you can monetize along the way.
 >
@@ -1576,15 +1560,15 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=114)** Now internal APIs are not publicly exposed.
 >
-> **[1:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=117)** They're designed for use within an organization, and they enable communication and data sharing between internal systems and teams.
+> **[1:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=117)** They're designed for use within an organization, and they enable communication and [[Data Sharing]] between internal systems and teams.
 >
 > **[2:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=124)** An internal API is what you're likely to use when you are integrating your organization's AI models with existing internal applications or even external applications.
 >
-> **[2:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=135)** You may have a data science and machine learning team responsible for building AI systems.
+> **[2:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=135)** You may have a [[Data Science]] and machine learning team responsible for building AI systems.
 >
-> **[2:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=139)** And then you may have different products that integrate these AI systems via internal APIs.
+> **[2:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=139)** And then you may have different [[Microsoft Products|products]] that integrate these AI systems via internal APIs.
 >
-> **[2:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=145)** It's important that these have proper documentation and a robust data governance framework, essential to maintain consistency and usability across various internal projects.
+> **[2:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=145)** It's important that these have proper documentation and a robust [[Data Governance]] framework, essential to maintain consistency and usability across various internal projects.
 >
 > **[2:35](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=155)** And then finally, the third kind of API, somewhere in between open APIs and internal APIs, partner APIs.
 >
@@ -1596,19 +1580,19 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=185)** These require that there are clear agreements and security protocols set up between the partners, vital to manage access rights and to protect sensitive information.
 >
-> **[3:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=195)** APIs are useful because they provide access to prebuilt AI models and functionalities, eliminating the need for developers to build complex AI algorithms from scratch.
+> **[3:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=195)** APIs are useful because they provide access to prebuilt AI models and functionalities, eliminating the need for developers to build complex AI [[Algorithms]] from scratch.
 >
 > **[3:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=205)** For example, if you're using a natural language processing API for sentiment analysis, that's going to be much faster than training and deploying your own model and likely better tool.
 >
 > **[3:36](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=216)** The API developers may have access to data that you don't.
 >
-> **[3:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=220)** AI models, especially deep learning models, can be very computationally expensive to run.
+> **[3:40](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=220)** AI models, especially [[Deep Learning]] models, can be very computationally expensive to run.
 >
-> **[3:45](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=225)** When you use API-based AI services, applications can offload the processing to powerful cloud infrastructure managed by the API provider.
+> **[3:45](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=225)** When you use API-based AI services, applications can offload the processing to powerful [[Cloud Infrastructure]] managed by the API provider.
 >
-> **[3:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=234)** This ensures scalability and avoids the need for individual applications to invest in and maintain expensive hardware and infrastructure.
+> **[3:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=234)** This ensures [[Scalability]] and avoids the need for individual applications to invest in and maintain expensive [[Hardware]] and infrastructure.
 >
-> **[4:03](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=243)** APIs offer standardized interfaces using common protocols like REST and common data formats like JSON, and this allows the integration of AI capabilities into a wide range of existing applications, systems, and data sources.
+> **[4:03](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=243)** APIs offer standardized interfaces using common protocols like [[Representational State Transfer (REST)|REST]] and common data formats like [[JSON]], and this allows the integration of AI capabilities into a wide range of existing applications, systems, and data sources.
 >
 > **[4:18](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=258)** If you have a specialized AI company, they act as API providers, and using their APIs is beneficial to you because those API providers often invest heavily in developing and refining their AI models.
 >
@@ -1620,15 +1604,15 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=290)** Make sure that you're using a standard protocol and format.
 >
-> **[4:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=294)** If you use REST, gRPC, or GraphQL, this gives wide compatibility across platforms and tools.
+> **[4:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=294)** If you use REST, gRPC, or [[GraphQL]], this gives wide compatibility across platforms and tools.
 >
-> **[5:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=301)** Use standard data formats like JSON or Protobuf to make your data exchange efficient and predictable.
+> **[5:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=301)** Use standard data formats like JSON or [[Protocol Buffers|Protobuf]] to make your data exchange efficient and predictable.
 >
 > **[5:09](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=309)** Make sure you implement strong authentication and authorization to prevent misuse and unauthorized access to APIs.
 >
 > **[5:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=317)** Encrypt traffic using TLS and sanitize input to guard against injection attacks.
 >
-> **[5:22](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=322)** Also, regularly audit your API usage and rotate any secrets or tokens to maintain security.
+> **[5:22](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=322)** Also, regularly audit your API usage and rotate any secrets or [[Tokens]] to maintain security.
 >
 > **[5:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-types-benefits-and-best-practices?u=76281980&t=329)** Make sure you have a robust API monitoring setup, monitor usage, response times, and error rates to ensure performance and stability.
 >
@@ -1646,15 +1630,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), api (14), data (13), [[Security]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (2), [[Hugging Face]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** api (14), rest (2), json (2), tls (1), url (1)
 > **CLI Commands:** make (11)
 > **Prerequisites:** set up (2), make sure you have (2), setup (1)
 > **Analogies:** such as (2), for example (1)
 > **Code Identifiers:** grpc (1)
 
-#### Designing APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980)
+#### [Designing APIs](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1679,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=98)** You should have consistent pluralization and verb choices.
 >
-> **[1:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=103)** When you decide the data format for your APIs, make sure you favor widely adopted formats like JSON for request and response bodies, design consistent structures for error responses, pagination, and metadata.
+> **[1:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=103)** When you decide the data format for your APIs, make sure you favor widely adopted formats like [[JSON]] for request and response bodies, design consistent structures for error responses, pagination, and [[Metadata]].
 >
 > **[1:57](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=117)** Avoid custom or overly complex formats unless they're absolutely necessary.
 >
@@ -1736,7 +1719,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=219)** Don't forget about API security to ensure only the right people have access to your APIs.
 >
-> **[3:45](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=225)** Implement industry-standard authentication mechanisms like OAuth 2.0 or JWT, that stands for JSON Web Tokens to verify the identity of clients.
+> **[3:45](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=225)** Implement industry-standard authentication mechanisms like OAuth 2.0 or JWT, that stands for JSON Web [[Tokens]] to verify the identity of clients.
 >
 > **[3:56](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=236)** Authentication is to verify the identity.
 >
@@ -1746,7 +1729,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=252)** For sensitive data stored by the API, make sure the data itself is encrypted. Protect your API against attacks.
 >
-> **[4:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=260)** Thoroughly validate all incoming data to prevent common security vulnerabilities like SQL injection, cross-site scripting, and command injection.
+> **[4:20](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=260)** Thoroughly validate all incoming data to prevent common security vulnerabilities like [[SQL]] injection, cross-site scripting, and command injection.
 >
 > **[4:29](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=269)** Also, sanitize user-provided input before processing or storing it.
 >
@@ -1762,7 +1745,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=295)** Make sure your database key masks are efficient and optimized to minimize latency and resource consumption.
 >
-> **[5:02](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=302)** Make use of caching mechanisms with technology such as Redis or Memcached to reduce database load for frequently accessed data.
+> **[5:02](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=302)** Make use of caching mechanisms with technology such as [[Redis]] or Memcached to reduce database load for frequently accessed data.
 >
 > **[5:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=311)** For long-running tasks, consider using asynchronous processing with techniques like message queues with say, RabbitMQ or Kafka.
 >
@@ -1770,7 +1753,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=325)** If you're exposing a complex AI application behind an API, don't consider one monolithic API.
 >
-> **[5:32](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=332)** Break down the API into smaller independent microservices, and this can improve scalability, fault isolation, and maintainability. And then, of course, documentation.
+> **[5:32](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=332)** Break down the API into smaller independent [[Microservices]], and this can improve [[Scalability]], fault isolation, and maintainability. And then, of course, documentation.
 >
 > **[5:43](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=343)** Don't reinvent the wheel as far as documentation is concerned.
 >
@@ -1782,7 +1765,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=371)** Make sure you have plenty of code examples and in multiple languages.
 >
-> **[6:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=375)** Offer code snippets in popular programming languages such as Python, JavaScript, or Java to demonstrate how you work with the API.
+> **[6:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=375)** Offer code snippets in popular programming languages such as [[Python (Programming Language)|Python]], [[JavaScript]], or [[Java]] to demonstrate how you work with the API.
 >
 > **[6:23](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/designing-apis?u=76281980&t=383)** And make sure your documentation is up to date.
 >
@@ -1790,7 +1773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (21), data (11), ai (7), [[Security]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Tokens]] (2), [[Metadata]] (1), [[SQL]] (1), [[Redis]] (1)
 > **Env Vars:** api (21), json (2), http (1), jwt (1), https (1)
 > **CLI Commands:** make (21), python (1)
 > **Analogies:** such as (3), for example (1)
@@ -1799,8 +1782,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
 
-#### Steps in API design
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980)
+#### [Steps in API design](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1808,15 +1790,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=6)** Now designing an API involves a series of deliberate steps to ensure that it meets the functional and non-functional requirements of AI applications.
 >
-> **[0:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=15)** If your API is well-defined, well, that lays the foundation of integrating AI capabilities into your different products.
+> **[0:15](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=15)** If your API is well-defined, well, that lays the foundation of integrating AI capabilities into your different [[Microsoft Products|products]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=24)** There are three steps to designing an API.
 >
 > **[0:27](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=27)** The first, clearly identify the specific needs of the AI application and determine the scope and functionality of the API that you're about to expose.
 >
-> **[0:37](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=37)** Next, structure your API endpoints to reflect resource hierarchies to make your API intuitive and align with RESTful principles if you're designing a REST API.
+> **[0:37](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=37)** Next, structure your API endpoints to reflect resource hierarchies to make your API intuitive and align with RESTful principles if you're designing a [[Representational State Transfer (REST)|REST]] API.
 >
-> **[0:48](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=48)** And then, of course, you need to choose the right authentication mechanism, whether it's OAuth 2.0 or tokens, to provide secure access control to the API.
+> **[0:48](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=48)** And then, of course, you need to choose the right authentication mechanism, whether it's OAuth 2.0 or [[Tokens]], to provide secure access control to the API.
 >
 > **[0:58](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/steps-in-api-design?u=76281980&t=58)** Let's start with discussing the API's purpose and its requirements.
 >
@@ -1912,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (21), data (11), ai (5), application (5), [[Security]] (5)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (21), rbac (2), rest (1), http (1), post (1)
 > **CLI Commands:** make (5)
 > **API Endpoints:** get  (1), post  (1), put  (1), delete  (1)
@@ -1921,8 +1903,7 @@ created: 2026-05-02
 > **Versions:** 2.0 (1)
 > **UI Navigation:** select the (1)
 
-#### API gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980)
+#### [API gateways](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,11 +1911,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=7)** API gateways act as intermediaries that manage and route client requests to the appropriate backend services.
 >
-> **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=14)** They help enforce security, monitor traffic, and simplify API management in production environments.
+> **[0:14](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=14)** They help enforce security, monitor traffic, and simplify [[API Management]] in production environments.
 >
 > **[0:21](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=21)** API gateways sit between clients and backend services that are exposed via APIs.
 >
-> **[0:26](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=26)** They're responsible for handling incoming requests and routing them appropriately.
+> **[0:26](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=26)** They're responsible for handling incoming requests and [[Routing]] them appropriately.
 >
 > **[0:31](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=31)** They act as the bridge between clients and backend services.
 >
@@ -1946,11 +1927,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=54)** There are cloud-specific API gateways and general-purpose API gateways.
 >
-> **[1:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=60)** Cloud-specific API gateways, such as those that are configurable on AWS, Azure, or Google Cloud, provide tight integration with cloud services.
+> **[1:00](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=60)** Cloud-specific API gateways, such as those that are configurable on AWS, [[Microsoft Azure|Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]], provide tight integration with [[Cloud Services]].
 >
-> **[1:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=67)** They have native support for cloud security.
+> **[1:07](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=67)** They have native support for [[Cloud Security]].
 >
-> **[1:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=70)** They're optimized for scalability and performance in the cloud, and they often provide simplified management and monitoring capabilities.
+> **[1:10](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=70)** They're optimized for [[Scalability]] and performance in the cloud, and they often provide simplified management and monitoring capabilities.
 >
 > **[1:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=77)** And they often tend to be cost-effective because they're priced based on usage.
 >
@@ -2010,7 +1991,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=268)** There's also a response aggregation, which involves combining responses from multiple backend services into a single response before sending it back to the client.
 >
-> **[4:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=278)** Data aggregation involves combining data from multiple sources, such as databases, APIs, or external services, into a unified response.
+> **[4:38](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=278)** Data aggregation involves combining data from multiple sources, such as [[Databases]], APIs, or external services, into a unified response.
 >
 > **[4:48](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=288)** This is often used when data needs to be fetched from various origins and presented together.
 >
@@ -2020,15 +2001,15 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=317)** For example, you may have a weather API, a location service, and a calendar API, all combined together to provide a daily itinerary.
 >
-> **[5:27](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=327)** Micro gateway aggregation aggregates requests and responses across multiple microservices or micro gateways, often within a larger microservices architecture, useful for managing dependencies and consolidating service outputs.
+> **[5:27](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=327)** Micro gateway aggregation aggregates requests and responses across multiple [[Microservices]] or micro gateways, often within a larger microservices architecture, useful for managing dependencies and consolidating service outputs.
 >
 > **[5:42](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=342)** An example here would be aggregating responses from several microservices that manage the user authentication, authorization, and session management into a single API response.
 >
-> **[5:52](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=352)** Protocol aggregation involves aggregating requests and responses across multiple communication protocols, such as HTTP, gRPC, WebSocket, or even legacy protocols.
+> **[5:52](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=352)** Protocol aggregation involves aggregating requests and responses across multiple communication protocols, such as HTTP, gRPC, [[WebSocket]], or even legacy protocols.
 >
 > **[6:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=364)** Useful when integrating services that use different protocols.
 >
-> **[6:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=368)** Content aggregation involves aggregating various content types, such as JSON, XML, and multimedia types, from different sources into a single cohesive response.
+> **[6:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=368)** Content aggregation involves aggregating various content types, such as [[JSON]], XML, and multimedia types, from different sources into a single cohesive response.
 >
 > **[6:19](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/api-gateways?u=76281980&t=379)** And this brings us to the third main function of an API gateway, traffic Management.
 >
@@ -2050,7 +2031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (34), traffic (10), [[Routing]] (10), cloud (8), management (7)
+> **Frameworks & Libraries:** [[Routing]] (10), [[Microservices]] (3), [[API Management]] (2), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** api (33), url (2), aws (1), http (1), json (1)
 > **Analogies:** for example (7), such as (4)
 > **CLI Commands:** aws (1), nginx (1), make (1)
@@ -2059,8 +2040,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** best practice (1)
 
-#### Capabilities and benefits of API gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980)
+#### [Capabilities and benefits of API gateways](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2068,7 +2048,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=6)** API gateways act as a single entry point for all client requests and routes them to the appropriate backend services based on request path, headers, or other criteria.
 >
-> **[0:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=17)** This makes the client interactions with the microservices architecture very simple.
+> **[0:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=17)** This makes the client interactions with the [[Microservices]] architecture very simple.
 >
 > **[0:22](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=22)** Since it's a central point of entry, the gateway often handles the initial authentication of clients.
 >
@@ -2106,7 +2086,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=128)** These can be web apps, mobile apps, or third-party clients. The API Gateway is the central point of entry for all requests.
 >
-> **[2:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=137)** This is where you'll set up authentication, authorization, rate limiting, routing, traffic management, and logging and monitoring.
+> **[2:17](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=137)** This is where you'll set up authentication, authorization, rate limiting, [[Routing]], traffic management, and logging and monitoring.
 >
 > **[2:25](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/capabilities-and-benefits-of-api-gateways?u=76281980&t=145)** Your backend services are where you've hosted your AI model.
 >
@@ -2128,7 +2108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), traffic (4), data (3), ai (3), management (2)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Routing]] (1)
 > **Env Vars:** api (8), http (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -2139,12 +2119,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and further study
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980)
+#### [Summary and further study](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=1)** And this brings us to the end of this course on Data Integration and API Development for AI Applications. Here's a quick look at what we covered.
+> **[0:01](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=1)** And this brings us to the end of this course on [[Data Integration]] and [[API Development]] for AI Applications. Here's a quick look at what we covered.
 >
 > **[0:08](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=8)** We first discussed phases in data integration, that is, the data integration workflow.
 >
@@ -2154,11 +2133,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=28)** And in all of these techniques, we set the context of how integrating data is crucial for AI applications.
 >
-> **[0:36](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=36)** We performed some hands-on demos where we saw how we can ingest data into Microsoft Fabric, a unified data analytics platform.
+> **[0:36](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=36)** We performed some hands-on demos where we saw how we can ingest data into [[Microsoft]] Fabric, a unified data analytics platform.
 >
 > **[0:44](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=44)** And then finally, we moved on to discussing APIs for data integrations and AI applications.
 >
-> **[0:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=50)** If you're interested in studying further, here are some other data-related topics that might interest you: [[Data Versioning, Lineage, and Quality Monitoring for AI]], and [[Secure Data Management for AI Implementation]].
+> **[0:50](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=50)** If you're interested in studying further, here are some other data-related topics that might interest you: [[Data Versioning, Lineage, and Quality Monitoring for AI]], and [[Secure [[Data Management]] for AI Implementation]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980&t=64)** Well, that's it from me here today.
 >
@@ -2168,7 +2147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (5), api (1), etl (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Data Integration]] (4), [[Microsoft]] (1), [[Data Management]] (1)
 > **Env Vars:** api (1), elt (1), etl (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** such as (1)

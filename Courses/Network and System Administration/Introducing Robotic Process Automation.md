@@ -88,16 +88,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the future of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980)
+#### [Welcome to the future of work](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980&t=0)** - It's impossible to miss, automation, AI agents, and autonomous systems are showing up everywhere.
+> **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980&t=0)** - It's impossible to miss, automation, [[AI Agents]], and autonomous systems are showing up everywhere.
 >
 > **[0:07](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980&t=7)** We're now in what I call the agentic era, a time where software doesn't just follow our instructions, it collaborates, learns, and even takes initiative.
 >
-> **[0:18](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980&t=18)** This course focuses on one critical layer of that new reality, robotic process automation or RPA.
+> **[0:18](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980&t=18)** This course focuses on one critical layer of that new reality, [[Robotic Process Automation (RPA)|robotic process automation]] or RPA.
 >
 > **[0:26](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980&t=26)** Without the stability and reliability of RPA, none of it works at scale.
 >
@@ -107,12 +106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (5), [[Automation]] (2), ai (2), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** rpa (5)
 > **Speakers:** - it (1)
 
-#### Your guide to watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980)
+#### [Your guide to watching this course](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,13 +148,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=111)** At the time of recording, several of the leading tools have truly stellar academies and training resources available.
 >
-> **[1:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=117)** So rest assured, there are plenty of resources out there to train members of your team in the detailed technical skills.
+> **[1:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=117)** So [[Representational State Transfer (REST)|rest]] assured, there are plenty of resources out there to train members of your team in the detailed technical skills.
 >
-> **[2:04](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=124)** But, mark my word, the most important thing you can do before embarking on tool training is to prepare your team and your organization for the journey ahead.
+> **[2:04](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=124)** But, mark my [[Microsoft Word|word]], the most important thing you can do before embarking on tool training is to prepare your team and your organization for the journey ahead.
 >
 > **[2:14](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=134)** Over the last decade I've seen too many companies race ahead before careful planning, and I've been called in to help countless organizations that wished they'd taken this course before they'd gotten started.
 >
-> **[2:24](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=144)** So please, take advantage of the materials that follow, share this course broadly across your organization, and follow me on LinkedIn to stay up to date with new content and valuable lessons.
+> **[2:24](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=144)** So please, take advantage of the materials that follow, share this course broadly across your organization, and follow me on [[LinkedIn]] to stay up to date with new content and valuable lessons.
 >
 > **[2:36](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/your-guide-to-watching-this-course?u=76281980&t=156)** This ride is an exciting one, and the outcomes can be truly extraordinary if executed successfully.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (8), [[Automation]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (8)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
@@ -178,16 +176,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980)
+#### [Digital transformation](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=0)** - So let's get started by looking at how RPA can fit into the digital transformation of your organization.
+> **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=0)** - So let's get started by looking at how RPA can fit into the [[Digital Transformation]] of your organization.
 >
 > **[0:06](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=6)** These days, it's pretty obvious that the world is becoming increasingly digital or digitized.
 >
-> **[0:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=12)** The largest and most well-known companies today, like Google, Microsoft and Amazon owe much of their success to fully capturing the digital trend.
+> **[0:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=12)** The largest and most well-known companies today, like [[Google]], [[Microsoft]] and Amazon owe much of their success to fully capturing the digital trend.
 >
 > **[0:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=20)** And every new startup is digital first and digitally centered.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=61)** Now, please note there is a significant amount of depth we can go into around the digital concept, but that's not the prime focus of this course.
 >
-> **[1:09](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=69)** If you're interested in exploring further levels of detail, you should definitely check out the wide variety of courses on digital transformation here on the LinkedIn Learning Library.
+> **[1:09](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=69)** If you're interested in exploring further levels of detail, you should definitely check out the wide variety of courses on digital transformation here on the [[LinkedIn]] Learning Library.
 >
 > **[1:18](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980&t=78)** So how does RPA fit into this story?
 >
@@ -229,14 +226,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (8), [[Digital Transformation]] (5), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (5), [[Google]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rpa (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - so (1)
 
-#### Corporate archeology
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980)
+#### [Corporate archeology](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,13 +248,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=49)** And now some or all of this is being combined with cloud apps or migrated into the cloud to keep up with this new trend in enterprise IT.
 >
-> **[0:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=58)** If any of that sounds familiar, rest assured you are not alone.
+> **[0:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=58)** If any of that sounds familiar, [[Representational State Transfer (REST)|rest]] assured you are not alone.
 >
 > **[1:03](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=63)** As I study a company's current state, I can't help but imagine an enterprise archeologist digging down layer by layer, uncovering historical artifacts and evidence of prior eras as they go.
 >
 > **[1:15](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=75)** Working with an organization can bear similarities that are actually not so absurd.
 >
-> **[1:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=80)** Depending on the industry and business function, it's not uncommon to come across mainframes, green screens, fax machines, cobalt, and a raft of homegrown Excel macros, access databases, and post-it notes, documenting everything from passwords, to work procedures.
+> **[1:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=80)** Depending on the industry and business function, it's not uncommon to come across mainframes, green screens, fax machines, cobalt, and a raft of homegrown [[Microsoft Excel|Excel]] macros, access [[Databases]], and post-it notes, documenting everything from passwords, to work procedures.
 >
 > **[1:38](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=98)** To deal with this excitement, enterprises employ people, passionate, hardworking people, around the world who spend their days doing what we call swivel chair integration, manually receiving and transcribing faxes, copying form data, executing wrote transactional processes, and performing repetitive tasks.
 >
@@ -270,21 +266,20 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=134)** But there's a new disruptive option available.
 >
-> **[2:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=137)** By using a class of automation technologies, including RPA, the routine, mundane, and transactional, are all ripe candidates for digital transformation.
+> **[2:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=137)** By using a class of automation technologies, including RPA, the routine, mundane, and transactional, are all ripe candidates for [[Digital Transformation]].
 >
 > **[2:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/corporate-archeology?u=76281980&t=147)** Enterprises realize there is a huge opportunity to unleash value by conducting this work a different way, in a way sometimes referred to as the fourth generation of work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), cloud (2), product (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1), [[Databases]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** rpa (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - as (1)
 
-#### The fourth generation of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980)
+#### [The fourth generation of work](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=44)** Fast forward from a hundred years ago to 20 years ago, and you'll find computers and those fax machines we talked about, but only just the beginnings of internet, email, and ethernet connecting everything everywhere.
 >
-> **[0:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=57)** Fast forward to today, and you find enterprises scrambling to adapt to and adopt cloud hosting, software as a service, and the connection of almost everything.
+> **[0:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=57)** Fast forward to today, and you find enterprises scrambling to adapt to and adopt cloud hosting, [[SaaS|software as a service]], and the connection of almost everything.
 >
 > **[1:09](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=69)** As you can imagine, this environment has been a very challenging one to keep up with.
 >
@@ -338,13 +333,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=148)** We are now entering the so-called Fourth Industrial Revolution.
 >
-> **[2:33](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=153)** This stage of industrial change is predicated on a new range of technologies that are driven by interconnectivity, such as autonomous production, artificial intelligence, analytics, and the exciting world of Internet of Things.
+> **[2:33](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=153)** This stage of industrial change is predicated on a new range of technologies that are driven by interconnectivity, such as autonomous production, [[Artificial Intelligence (AI)|artificial intelligence]], analytics, and the exciting world of [[IoT|Internet of Things]].
 >
 > **[2:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-fourth-generation-of-work?u=76281980&t=167)** More importantly, everything will produce data, and data will mean everything.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (2), data (2), next (1), cloud (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** rpa (2)
 > **Definitions:** refers to (1), known as (1)
@@ -352,8 +347,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - there (1)
 
-#### The worker of the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-worker-of-the-future?u=76281980)
+#### [The worker of the future](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-worker-of-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,20 +371,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), data (1), business (1), career (1)
 > **Analogies:** such as (1)
 > **Speakers:** - looking (1)
 
-#### The impact of robotic process automation (RPA) today
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980)
+#### [The impact of robotic process automation (RPA) today](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980&t=0)** - RPA remains one of the cornerstone technologies in this fourth industrial revolution, but the context has changed.
 >
-> **[0:08](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980&t=8)** We've entered the agentic era where RPA works alongside AI agents, large language models, and intelligent workflows to transform how businesses operate.
+> **[0:08](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980&t=8)** We've entered the agentic era where RPA works alongside [[AI Agents]], [[Large Language Models (LLM)|large language models]], and intelligent workflows to transform how businesses operate.
 >
-> **[0:19](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980&t=19)** RPA digitizes manual tasks, streamlines legacy processes, and forms the rule-based scaffolding that allows AI to operate safely and effectively.
+> **[0:19](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980&t=19)** RPA digitizes manual tasks, streamlines legacy processes, and [[Forms]] the rule-based scaffolding that allows AI to operate safely and effectively.
 >
 > **[0:31](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-impact-of-rpa-today-26922346?u=76281980&t=31)** The global outsourcing industry, now valued at over $550 billion, is being reshaped as more work is automated or augmented by these tools.
 >
@@ -414,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (4), ai (2), [[Automation]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Forms]] (1)
 > **Env Vars:** rpa (4)
 > **Best Practices:** the key is (1)
 > **Speakers:** - rpa (1)
@@ -424,8 +416,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is robotic process automation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980)
+#### [What is robotic process automation?](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=17)** Here we go.
 >
-> **[0:19](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=19)** RPA is a configurable software tool that uses business rules and sequences of actions to automatically complete processes in any number of different applications, the same way a human would, with the help of people for exception management.
+> **[0:19](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=19)** RPA is a configurable software tool that uses business rules and sequences of actions to automatically complete processes in any number of different applications, the same way a human would, with the help of people for [[Exception Management]].
 >
 > **[0:36](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=36)** If you understood that, then you're set, but there is a lot covered in that definition.
 >
@@ -447,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=51)** Configurable software is out of the box software that comes with built-in functionality and doesn't involve writing lines of raw code.
 >
-> **[0:59](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=59)** Think of Microsoft Excel.
+> **[0:59](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=59)** Think of [[Microsoft Excel]].
 >
 > **[1:01](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=61)** You don't write a spreadsheet application every time you need it.
 >
@@ -489,7 +480,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=150)** The key is that RPA mostly operates on the front end of applications, similar to the way that people use them.
 >
-> **[2:37](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=157)** Like I said, there are thousands of these, but for illustration, think of mainframe terminals, SAP, Oracle, BlackLine, Internet Explorer, Google Chrome, Windows and so on.
+> **[2:37](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=157)** Like I said, there are thousands of these, but for illustration, think of mainframe terminals, SAP, Oracle, BlackLine, Internet Explorer, [[Google]] Chrome, [[Windows]] and so on.
 >
 > **[2:49](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980&t=169)** Finally, exception management.
 >
@@ -511,15 +502,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (7), business (4), [[Exception Management]] (4), teams (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Exception Management]] (4), [[Microsoft Excel]] (1), [[Google]] (1), [[Windows]] (1)
 > **Env Vars:** rpa (7), sap (1)
 > **Definitions:** is a  (6), means that (1)
 > **Analogies:** such as (2), for instance (1), similar to (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - and (1)
 
-#### A simplified definition of RPA
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/a-simplified-definition-of-rpa?u=76281980)
+#### [A simplified definition of RPA](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/a-simplified-definition-of-rpa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +567,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (4), next (1), application (1)
 > **Env Vars:** rpa (4)
 > **Analogies:** imagine (1), for instance (1), just like (1)
 > **Cross-References:** in the last (1)
@@ -586,8 +575,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - the (1)
 
-#### What is robotic desktop automation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980)
+#### [What is robotic desktop automation?](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +585,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=18)** Well, this is also commonly referred to as RPA, but there's an interesting twist.
 >
-> **[0:24](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=24)** For software to react quickly to a person calling it into action, it often needs to reside on the person's desktop.
+> **[0:24](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=24)** For software to [[React.js|react]] quickly to a person calling it into action, it often needs to reside on the person's desktop.
 >
 > **[0:31](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=31)** So as a result, this form of automation is known as Robotic Desktop Automation, or RDA for short.
 >
@@ -627,11 +615,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=110)** A person uses their judgment and passes work off to this form of automation if and when needed.
 >
-> **[1:56](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=116)** You'll remember from the RPA definition that humans got involved there, too, but it was only when exception management was required.
+> **[1:56](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=116)** You'll remember from the RPA definition that humans got involved there, too, but it was only when [[Exception Management]] was required.
 >
 > **[2:03](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=123)** Humans are always involved in the RDA scenario.
 >
-> **[2:07](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=127)** An example of where you might see RDA used is in a front office or call center environment.
+> **[2:07](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=127)** An example of where you might see RDA used is in a front [[Microsoft Office|office]] or call center environment.
 >
 > **[2:13](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-desktop-automation?u=76281980&t=133)** We've all called to check on a credit card balance or to book a flight with an airline.
 >
@@ -645,15 +633,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), rpa (7), [[React.js|React]] (1), [[Exception Management]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Exception Management]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** rda (13), rpa (7)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** double-click (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - at (1)
 
-#### The automation spectrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980)
+#### [The automation spectrum](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,13 +650,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=13)** Let's stop and think a moment.
 >
-> **[0:15](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=15)** If you've had any exposure to business operations like human resources, finance and accounting or logistics and supply chain for example, you'll know that much of the work that goes on in an organization is rule-based routine, and defined by work procedures.
+> **[0:15](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=15)** If you've had any exposure to [[Business Operations]] like [[Human Resources (HR)|human resources]], finance and accounting or logistics and supply chain for example, you'll know that much of the work that goes on in an organization is rule-based routine, and defined by work procedures.
 >
 > **[0:30](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=30)** In fact, you wouldn't want it to be any other way.
 >
 > **[0:33](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=33)** People making up their jobs as they go along would be worrying.
 >
-> **[0:38](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=38)** Many employees spend a good portion of their day on procedural tasks, clicking boxes, waiting for the next screen to load, completing forms with tens to hundreds to thousands of discreet steps that are almost all rule-based.
+> **[0:38](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=38)** Many employees spend a good portion of their day on procedural tasks, clicking boxes, waiting for the next screen to load, completing [[Forms]] with tens to hundreds to thousands of discreet steps that are almost all rule-based.
 >
 > **[0:52](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=52)** In fact, as much as 80% of a person's job can be described as rule-based.
 >
@@ -707,7 +694,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=132)** Perhaps a little cartoonish, but I can't help but think of "Ironman" here.
 >
-> **[2:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=137)** A robot making a person, in this case, Tony Stark, much more capable.
+> **[2:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=137)** A robot making a person, in this case, Tony [[Stark (Accessibility Software)|Stark]], much more capable.
 >
 > **[2:22](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-automation-spectrum?u=76281980&t=142)** Having "Ironman" in your shared service center would be pretty cool.
 >
@@ -729,15 +716,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (10), rpa (9), data (3), business (2), next (2)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Human Resources (HR)|Human resources]] (1), [[Forms]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Env Vars:** rpa (9), rda (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
-#### The RPA vendor landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980)
+#### [The RPA vendor landscape](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -759,13 +745,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=52)** I've provided you with a comprehensive list of these in the exercise files.
 >
-> **[0:56](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=56)** As the Everest Group PEAK Matrix highlights, you will most likely consider Automation Anywhere, Blue Prism, Microsoft Power Automate, NICE and UiPath.
+> **[0:56](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=56)** As the Everest Group PEAK Matrix highlights, you will most likely consider Automation Anywhere, Blue Prism, [[Microsoft]] Power Automate, NICE and UiPath.
 >
 > **[1:08](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=68)** Similar research by other analysts also places these firms as leaders.
 >
 > **[1:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=72)** You may also consider other tools including Pega systems, SAP, WorkFusion and Appian.
 >
-> **[1:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=80)** Although I will point out this space is constantly evolving, there have been many acquisitions since I first wrote this course combining the capabilities of existing RPA players and adding RPA to other enterprise software firms suite of offerings.
+> **[1:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=80)** Although I will point out this space is constantly evolving, there have been many acquisitions since I first wrote this course combining the capabilities of existing RPA players and adding RPA to other [[Enterprise Software]] firms suite of offerings.
 >
 > **[1:35](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=95)** By the time you watch this, I'm certain there will be other changes so do your research.
 >
@@ -775,7 +761,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=110)** There are several characteristics I use when helping enterprises interpret the differences and relevant features of any given tool.
 >
-> **[1:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=118)** The first is software architecture.
+> **[1:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=118)** The first is [[Software Architecture]].
 >
 > **[2:01](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=121)** As our definition stated, RPA is pre-configured software.
 >
@@ -789,7 +775,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=158)** And then there are some tools that can handle both assisted and unassisted solutions.
 >
-> **[2:44](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=164)** In addition, many of the RPA vendors have added additional capabilities to their product suites like process mining, process discovery and higher order intelligence automation.
+> **[2:44](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=164)** In addition, many of the RPA vendors have added additional capabilities to their product suites like [[Process Mining]], process discovery and higher order intelligence automation.
 >
 > **[2:55](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=175)** For more information on these topics, I suggest you check out my courses on those topics.
 >
@@ -801,15 +787,15 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=197)** Others have a modular design that easily incorporates cognitive tools with RPA.
 >
-> **[3:22](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=202)** And as mentioned earlier, most leading RPA vendors have invested in supplementing their RPA capabilities through development of or acquisition of tools to handle character recognition, workflow management, machine learning, and more.
+> **[3:22](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=202)** And as mentioned earlier, most leading RPA vendors have invested in supplementing their RPA capabilities through development of or acquisition of tools to handle character recognition, [[Workflow Management]], machine learning, and more.
 >
 > **[3:37](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=217)** As I said, the space is changing quickly.
 >
-> **[3:40](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=220)** As with any software tool that's used frequently, you'll want an RPA tool that provides a good user experience.
+> **[3:40](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=220)** As with any software tool that's used frequently, you'll want an RPA tool that provides a good [[User Experience (UX)|user experience]].
 >
 > **[3:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=227)** RPA interfaces vary quite a bit despite their similarities.
 >
-> **[3:51](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=231)** Take Blue Prism for instance, its development interfaces based on workflow diagrams similar to those you might see in business process management tools, making it straightforward for non-programmers.
+> **[3:51](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=231)** Take Blue Prism for instance, its development interfaces based on workflow diagrams similar to those you might see in [[Business Process Management]] tools, making it straightforward for non-programmers.
 >
 > **[4:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=242)** Then there's Microsoft Power Automate and Automation Anywhere's interface.
 >
@@ -829,7 +815,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=282)** While most tools use design-based configuration, some also come with a recorder or task capture feature that observes and copies the user steps to simplify configuration.
 >
-> **[4:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=293)** Other features to consider are process mining, version control, collaborative tools, debugging assistance and credential vaults.
+> **[4:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=293)** Other features to consider are process mining, [[Version Control]], collaborative tools, debugging assistance and credential vaults.
 >
 > **[5:03](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-rpa-vendor-landscape?u=76281980&t=303)** As you learn about the nuances of RPA tools, you'll come across even more considerations.
 >
@@ -849,7 +835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (17), [[Automation]] (4), [[Microsoft]] (2), power (2), [[Software Architecture]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Software Architecture]] (2), [[Process Mining]] (2), [[Enterprise Software]] (1), [[Workflow Management]] (1)
 > **Env Vars:** rpa (17), peak (1), nice (1), sap (1)
 > **Analogies:** for example (2), for instance (2), similar to (1)
 > **Definitions:** is a  (1), means that (1)
@@ -858,8 +844,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** caution (1)
 
-#### Differences between RPA and other tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980)
+#### [Differences between RPA and other tools](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +856,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=14)** But where macros are tied to a single app, RPA can orchestrate entire workflows across dozens of systems, apply complex logic, and integrate securely with enterprise environments.
 >
-> **[0:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=27)** It's also different from business process management or BPM.
+> **[0:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=27)** It's also different from [[Business Process Management]] or BPM.
 >
 > **[0:32](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=32)** BPM is a methodology, a way to redesign processes from the ground up.
 >
@@ -881,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=47)** If you imagine this spectrum as a ladder of capabilities, it looks something like this.
 >
-> **[0:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=53)** Deterministic, RPA and rules engines, semi-cognitive, intelligent document processing, natural language processing, optical character recognition, generative, large language models, retrieval augmented generation models, domain tuned AI, agentic, multi-agent frameworks AI-to-AI orchestration.
+> **[0:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=53)** Deterministic, RPA and rules engines, semi-cognitive, intelligent document processing, [[Natural Language Processing (NLP)|natural language processing]], optical character recognition, generative, [[Large Language Models (LLM)|large language models]], retrieval augmented generation models, domain tuned AI, agentic, multi-agent frameworks AI-to-[[AI Orchestration]].
 >
 > **[1:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/differences-between-rpa-and-other-tools-26930359?u=76281980&t=80)** The higher you go, the more the system can interpret, decide, and act independently, but that also means greater complexity and risk.
 >
@@ -897,14 +882,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (8), ai (4), [[Business Process Management]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Business Process Management]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[AI Orchestration]] (1)
 > **Env Vars:** rpa (8), bpm (2), llm (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### RPA and low code and no code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-and-low-code-and-no-code?u=76281980)
+#### [RPA and low code and no code](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-and-low-code-and-no-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-and-low-code-and-no-code?u=76281980&t=23)** While low-code still implies some programming is needed.
 >
-> **[0:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-and-low-code-and-no-code?u=76281980&t=27)** So, how does low-code and no-code software compare with robotic process automation?
+> **[0:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-and-low-code-and-no-code?u=76281980&t=27)** So, how does low-code and no-code software compare with [[Robotic Process Automation (RPA)|robotic process automation]]?
 >
 > **[0:32](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-and-low-code-and-no-code?u=76281980&t=32)** Well, it doesn't.
 >
@@ -932,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (4), [[Programming]] (2), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** rpa (4)
 > **UI Navigation:** drag and drop (2)
 > **Definitions:** is a  (1)
@@ -944,8 +928,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980)
+#### [The importance of ROI](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=15)** And while I've seen a lot of hyped and inflated expectations and some frankly crazy ROI claims, the fact still remains, handling tasks using digital labor can make a lot of sense and save a lot of dollars and cents.
 >
-> **[0:29](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=29)** What's more, chances are very good that your [[Executive Leadership]] is already aware of this.
+> **[0:29](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=29)** What's more, chances are very good that your [[[[Executive Leadership]]]] is already aware of this.
 >
 > **[0:35](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=35)** I've been fascinated by what I'm calling the top-down mandate.
 >
@@ -971,7 +954,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=95)** The list goes on.
 >
-> **[1:37](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=97)** CEOs of Nordea Bank, Lloyd's Banking Group, Zurich Insurance Group, and numerous others have declared bold cost saving mandates for their organizations that are predicated on automation.
+> **[1:37](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=97)** CEOs of Nordea Bank, Lloyd's [[Banking]] Group, Zurich Insurance Group, and numerous others have declared bold cost saving mandates for their organizations that are predicated on automation.
 >
 > **[1:49](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980&t=109)** It's no wonder RPA is a popular topic.
 >
@@ -1001,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), rpa (6), business (3), [[Banking]] (2), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Executive Leadership]] (1)
 > **Env Vars:** rpa (6), ceo (3), roi (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
@@ -1010,8 +993,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### The seven benefit types
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-seven-benefit-types?u=76281980)
+#### [The seven benefit types](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-seven-benefit-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1047,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-seven-benefit-types?u=76281980&t=163)** Whether you're a customer, an employee, a patient, a citizen, a vendor, or a partner, it's clear that service that is better, faster, more accurate, and more painless is cause for celebration.
 >
-> **[2:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-seven-benefit-types?u=76281980&t=178)** No matter the recipient of the service automated, quality of user experience is greatly impacted by RPA.
+> **[2:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-seven-benefit-types?u=76281980&t=178)** No matter the recipient of the service automated, quality of [[User Experience (UX)|user experience]] is greatly impacted by RPA.
 >
 > **[3:04](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-seven-benefit-types?u=76281980&t=184)** I've seen this materializes higher net promoter scores, lower customer churn, lower employee attrition, and more.
 >
@@ -1087,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (11), business (3), [[Automation]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** rpa (11)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1095,8 +1077,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### The triple-win model
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980)
+#### [The triple-win model](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1095,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=46)** For example, the rule-based nature of RPA can be leveraged to maximize compliance or for operational agility in the face of surging demand Automated processes can be performed around the clock and can be scaled against a large and flexible workforce.
 >
-> **[1:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=62)** All are good things to tell investors, shareholders and [[Executive Leadership]].
+> **[1:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=62)** All are good things to tell investors, shareholders and [[[[Executive Leadership]]]].
 >
 > **[1:06](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=66)** So keep this in mind when building your business case.
 >
@@ -1166,7 +1147,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=203)** So ask yourself, if you could have 30% more capacity in your team, could you be more productive?
 >
-> **[3:29](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=209)** Could you focus on growing sales, improving regulatory compliance, or recalibrating to work on getting better insight from the operations and data that you're collecting in order to transform your business?
+> **[3:29](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=209)** Could you focus on growing sales, improving [[Regulatory Compliance]], or recalibrating to work on getting better insight from the operations and data that you're collecting in order to transform your business?
 >
 > **[3:42](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-triple-win-model?u=76281980&t=222)** Yes, yes, yes and yes.
 >
@@ -1178,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (10), [[Automation]] (4), business (2), data (2), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** rpa (10)
 > **Cross-References:** we discussed (2)
 > **Analogies:** for example (2)
@@ -1186,8 +1167,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - the (1)
 
-#### Don’t forget the cost of ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980)
+#### [Don’t forget the cost of ownership](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=59)** And I'm certain you can expect to see even more creative commercial models in the future.
 >
-> **[1:05](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=65)** Now that you have the software accounted for, you'll also need to be sure that you have the right hardware and IT infrastructure for the tool that you're choosing.
+> **[1:05](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=65)** Now that you have the software accounted for, you'll also need to be sure that you have the right [[Hardware]] and IT infrastructure for the tool that you're choosing.
 >
 > **[1:13](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=73)** Each tool vendor can help suggest a best infrastructure for their tool.
 >
@@ -1237,7 +1217,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=132)** With each passing day, I learn about more companies that are choosing the DIY, or do-it-yourself, approach to deploying RPA.
 >
-> **[2:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=140)** They do this by training up staff in their non-IT functions, like human resources, finance, supply chain, and more.
+> **[2:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=140)** They do this by training up staff in their non-IT functions, like [[Human Resources (HR)|human resources]], finance, supply chain, and more.
 >
 > **[2:28](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=148)** These non-IT RPA developers are referred to as citizens, and that's a huge topic in its own right, so we'll leave it here for now.
 >
@@ -1269,7 +1249,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=227)** And you'll want to think about having a budget for a formal communication plan as you roll out the RPA program.
 >
-> **[3:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=233)** Communication is yet another area that is often forgotten, but rest assured we'll cover that in a moment.
+> **[3:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=233)** Communication is yet another area that is often forgotten, but [[Representational State Transfer (REST)|rest]] assured we'll cover that in a moment.
 >
 > **[3:58](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-cost-of-ownership?u=76281980&t=238)** We've explored a lot of material in this chapter, including benefit types, benefactors, and cost categories you should consider in your business case.
 >
@@ -1279,7 +1259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (10), business (6), [[Hardware]] (2), cloud (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Human Resources (HR)|Human resources]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rpa (10), diy (1), roi (1)
 > **Prerequisites:** you'll need (3), set up (2)
 > **CLI Commands:** make (1)
@@ -1293,8 +1273,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying opportunities for automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980)
+#### [Identifying opportunities for automation](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1283,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=16)** That's still true, but our toolkit has expanded.
 >
-> **[0:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=20)** With intelligent document processing and LLMs, we can now handle far more unstructured inputs, from scanned forms to free text notes.
+> **[0:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=20)** With intelligent document processing and LLMs, we can now handle far more unstructured inputs, from scanned [[Forms]] to free text notes.
 >
 > **[0:30](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=30)** AI can handle probabilistic decisions, hand off to humans when confidence is low, and even learn from those interactions.
 >
@@ -1314,7 +1293,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=48)** RPA handles deterministic steps.
 >
-> **[0:51](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=51)** AI agents tackle variable decision points.
+> **[0:51](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=51)** [[AI Agents]] tackle variable decision points.
 >
 > **[0:55](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980&t=55)** Humans focus on exceptions and edge cases.
 >
@@ -1324,13 +1303,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (4), ai (3), [[Forms]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[AI Agents]] (1)
 > **Env Vars:** rpa (4)
 > **Analogies:** think of it as (1)
 > **Speakers:** - now (1)
 
-#### Efficiency drivers for automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/efficiency-drivers-for-automation?u=76281980)
+#### [Efficiency drivers for automation](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/efficiency-drivers-for-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1378,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/efficiency-drivers-for-automation?u=76281980&t=168)** The good news here is over the last few years, we've seen a lot of innovation in the areas of RPA process identification and RPA coordination and management.
 >
-> **[2:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/efficiency-drivers-for-automation?u=76281980&t=177)** Once bots are built and deployed, for example, tools like process mining and process discovery are able to help identify areas of latency, inefficiency, variability, and much more.
+> **[2:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/efficiency-drivers-for-automation?u=76281980&t=177)** Once bots are built and deployed, for example, tools like [[Process Mining]] and process discovery are able to help identify areas of latency, inefficiency, variability, and much more.
 >
 > **[3:08](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/efficiency-drivers-for-automation?u=76281980&t=188)** They also illustrate the crazy complex process flows in your business so you can better analyze and automate them.
 >
@@ -1412,15 +1390,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (10), business (2), management (2), [[Automation]] (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Process Mining]] (1)
 > **Env Vars:** rpa (10), roi (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - let (1)
 
-#### Prime opportunity areas for automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980)
+#### [Prime opportunity areas for automation](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1409,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=27)** If you've been paying attention, you probably already know, but the short answer is that RPA can be applied to pretty much any transactional process.
 >
-> **[0:35](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=35)** Some examples of where I've seen RPA implemented are: customer service, human resources, procurement, finance and accounting, data management, and internal auditing.
+> **[0:35](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=35)** Some examples of where I've seen RPA implemented are: customer service, [[Human Resources (HR)|human resources]], procurement, finance and accounting, [[Data Management]], and internal auditing.
 >
 > **[0:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=47)** In each of these areas, there are repetitive and transactional tasks that are prime opportunities for RPA.
 >
@@ -1444,7 +1421,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=71)** This is because HR tends to acquire information management and standardization across a large variety of systems and applications.
 >
-> **[1:19](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=79)** Think of a talent acquisition process, for example, which might involve several applications itself, ranging from personnel databases and file managers to salary and compensation analysis tools.
+> **[1:19](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=79)** Think of a talent acquisition process, for example, which might involve several applications itself, ranging from personnel [[Databases]] and file managers to salary and compensation analysis tools.
 >
 > **[1:31](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=91)** Payroll and pay integration are also great candidates for automation.
 >
@@ -1452,7 +1429,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=100)** There are also vast opportunities in finance and accounting, where the processes are also very rule-based, requiring high degrees of accuracy and speed, which RPA is designed for.
 >
-> **[1:52](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=112)** Some common F&A areas are order management, billing, regulatory compliance, accounting, and reconciliation.
+> **[1:52](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=112)** Some common F&A areas are order management, billing, [[Regulatory Compliance]], accounting, and reconciliation.
 >
 > **[2:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=120)** Finally, procurement is a prime area thanks to the abundance of structured documents and data.
 >
@@ -1468,13 +1445,13 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=156)** This means that opportunities for RPA are abundant.
 >
-> **[2:40](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=160)** To give an example, I've seen RPA campaigns flourish in the banking and financial services industries, where a bulk of transactional back office processes are ripe for automation.
+> **[2:40](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=160)** To give an example, I've seen RPA campaigns flourish in the [[Banking]] and financial services industries, where a bulk of transactional back [[Microsoft Office|office]] processes are ripe for automation.
 >
 > **[2:50](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=170)** Some of the largest banks in the world are using RPA to automate account opening and closure, reconciliations, and report generation.
 >
 > **[2:57](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=177)** I've also seen RPA pay dividends in regulatory compliance, where automated solutions help to meet deadlines and avoid fines, and in anti-money laundering and know-your-customer checks to validate customer data.
 >
-> **[3:10](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=190)** The healthcare industry is also a large adopter of RPA.
+> **[3:10](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=190)** The [[Healthcare Industry]] is also a large adopter of RPA.
 >
 > **[3:13](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/prime-opportunity-areas-for-automation?u=76281980&t=193)** Many of the largest hospital systems are using automation to simplify information management and payment cycles, which translates well to the overall patient experience.
 >
@@ -1488,15 +1465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (17), management (9), [[Automation]] (6), data (6), functional (4)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Human Resources (HR)|Human resources]] (2), [[Data Management]] (2), [[Regulatory Compliance]] (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** rpa (17)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### Process reengineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980)
+#### [Process reengineering](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,7 +1500,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=56)** For example, I work for the financial services firm where we identified a secured lending process as an ideal target.
 >
-> **[1:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=62)** There was a large volume of thousands of requests per week worked on by a large back office team.
+> **[1:02](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=62)** There was a large volume of thousands of requests per week worked on by a large back [[Microsoft Office|office]] team.
 >
 > **[1:08](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=68)** Many of the requests were received through digital means, which meant the data was relatively structured.
 >
@@ -1546,24 +1522,23 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=134)** Take it as an opportunity to rethink processes from the top down, and take it upon yourself and the team to extend your stakeholder education beyond simply RPA.
 >
-> **[2:25](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=145)** As I've touched on, there is a huge and very capable world of intelligent automation tools that have been developed to extend any digital transformation project well beyond the automation of the routine and rule-based.
+> **[2:25](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=145)** As I've touched on, there is a huge and very capable world of intelligent automation tools that have been developed to extend any [[Digital Transformation]] project well beyond the automation of the routine and rule-based.
 >
-> **[2:38](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=158)** And when RPA is able to work with intelligent automation tools like process intelligence, intelligent document processing, conversational AI, machine learning and deep learning, well, you have something very powerful on your hands.
+> **[2:38](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/process-reengineering?u=76281980&t=158)** And when RPA is able to work with intelligent automation tools like process intelligence, intelligent document processing, [[Conversational AI]], machine learning and [[Deep Learning]], well, you have something very powerful on your hands.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (5), [[Automation]] (3), data (2), [[Microsoft Office|Office]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Digital Transformation]] (1), [[Conversational AI]] (1), [[Deep Learning]] (1)
 > **Env Vars:** rpa (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - and (1)
 
-#### Practical RDA example
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980)
+#### [Practical RDA example](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=0)** - Let's walk through a practical example of RDA in the front office that will highlight why automation is most powerful when used to re-engineer the customer and employee experience.
+> **[0:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=0)** - Let's walk through a practical example of RDA in the front [[Microsoft Office|office]] that will highlight why automation is most powerful when used to re-engineer the customer and employee experience.
 >
 > **[0:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=12)** At telecom company A, customer service agents are frequently backlogged, and a lot of their time is spent on billing disputes, which are tedious and error prone.
 >
@@ -1591,7 +1566,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=103)** A customer wants their bill fixed, so the agent asks for their personal information.
 >
-> **[1:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=107)** A natural language processing module listens to the customer's voice and parses the relevant pieces of information to speed up the validation process.
+> **[1:47](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=107)** A [[Natural Language Processing (NLP)|natural language processing]] module listens to the customer's voice and parses the relevant pieces of information to speed up the validation process.
 >
 > **[1:55](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/practical-rda-example?u=76281980&t=115)** Once confirmed, at the click of a button, the agent commands the digital assistant to match and automatically fill in the extracted personal information across all necessary applications.
 >
@@ -1619,13 +1594,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), application (2), prompt (2), [[Automation]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** rda (5), rpa (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
-#### Key stakeholders in your RPA journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980)
+#### [Key stakeholders in your RPA journey](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,7 +1631,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=73)** This is also known as the Citizen Development Movement.
 >
-> **[1:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=77)** This do-it-yourself approach, much like in the era of Excel macros is not something I generally suggest, unless the initiative is highly structured, well governed and closely managed.
+> **[1:17](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=77)** This do-it-yourself approach, much like in the era of [[Microsoft Excel|Excel]] macros is not something I generally suggest, unless the initiative is highly structured, well governed and closely managed.
 >
 > **[1:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=87)** There is a ton to consider here.
 >
@@ -1719,11 +1693,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=245)** And remember, your primary role is education.
 >
-> **[4:09](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=249)** While robotic process automation has been a brilliant name to gain the attention of a massive global market, it does still confuse people into thinking of robotic arms on a shop floor, or C-3PO handling your accounting.
+> **[4:09](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-stakeholders-in-your-rpa-journey?u=76281980&t=249)** While [[Robotic Process Automation (RPA)|robotic process automation]] has been a brilliant name to gain the attention of a massive global market, it does still confuse people into thinking of robotic arms on a shop floor, or C-3PO handling your accounting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (14), business (4), [[Security]] (3), teams (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** rpa (14), sme (2)
 > **Definitions:** known as (1), is a  (1)
 > **UI Navigation:** select the (1)
@@ -1735,8 +1709,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start small but don't think small
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980)
+#### [Start small but don't think small](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1758,7 +1731,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980&t=40)** This manager calls up her operational lead and says, "I just learned about RPA, we need it, go figure it out."
 >
-> **[0:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980&t=46)** The operational lead, having never heard of RPA before, hits Google to figure out what to do next.
+> **[0:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980&t=46)** The operational lead, having never heard of RPA before, hits [[Google]] to figure out what to do next.
 >
 > **[0:52](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980&t=52)** With the knowledge they glean, they pick a tool, they then find a quick process to automate, one that's really close to them and they hope can deliver an easy win.
 >
@@ -1802,14 +1775,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (10), [[Automation]] (4), [[Google]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** rpa (10), smed (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - let (1)
 
-#### RPA is not about the robot
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-is-not-about-the-robot?u=76281980)
+#### [RPA is not about the robot](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-is-not-about-the-robot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,21 +1849,20 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-is-not-about-the-robot?u=76281980&t=180)** So start brainstorming names now, and yes, Rosie is already taken.
 >
-> **[3:05](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-is-not-about-the-robot?u=76281980&t=185)** Oh, and connect with me on LinkedIn and share those names with me.
+> **[3:05](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-is-not-about-the-robot?u=76281980&t=185)** Oh, and connect with me on [[LinkedIn]] and share those names with me.
 >
 > **[3:08](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/rpa-is-not-about-the-robot?u=76281980&t=188)** I'm keeping a list of cool robot names and I'd love to hear yours.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (9), next (3), management (2), cloud (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** rpa (9)
 > **Cross-References:** in the next (1), we covered (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - rpa (1)
 
-#### Don’t forget the fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-fundamentals?u=76281980)
+#### [Don’t forget the fundamentals](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/don-t-forget-the-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1929,14 +1900,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), rpa (2), business (2), management (2), product (1)
 > **Env Vars:** rpa (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - just (1)
 
-#### Leveraging a center of excellence
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980)
+#### [Leveraging a center of excellence](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1950,7 +1919,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=27)** As I hope I've impressed upon you, getting an RPA program right can be a complex initiative that requires careful planning and research.
 >
-> **[0:36](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=36)** But if you're able to get a capable COE up and running, it can help you achieve success and can provide advantages like economies of scale, reusable components, and the power of group purchasing for automation products and services.
+> **[0:36](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=36)** But if you're able to get a capable COE up and running, it can help you achieve success and can provide advantages like economies of scale, reusable components, and the power of group purchasing for automation [[Microsoft Products|products]] and services.
 >
 > **[0:49](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=49)** As you can see, having an internal capability can be a useful launching point for large scale development and support.
 >
@@ -1962,7 +1931,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=67)** For example, one organization might use their COE for demand generation, in which the aim is to educate other business units on RPA and how it can be applied.
 >
-> **[1:16](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=76)** Another organization might want to be self-reliant in RPA development as it scales up its digital transformation efforts.
+> **[1:16](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=76)** Another organization might want to be self-reliant in RPA development as it scales up its [[Digital Transformation]] efforts.
 >
 > **[1:23](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=83)** In this case, they would use a COE for internal training and solution design.
 >
@@ -1970,7 +1939,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=99)** Of course, if your organization is an overachiever, you could feasibly build a COE that does all of these functions.
 >
-> **[1:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=106)** But no matter what capability you decide to focus on, a COE brings scalability and reusability to the equation.
+> **[1:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=106)** But no matter what capability you decide to focus on, a COE brings [[Scalability]] and reusability to the equation.
 >
 > **[1:53](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/leveraging-a-center-of-excellence?u=76281980&t=113)** To coordinate all of these functions, governance is a key factor that must be carefully planned.
 >
@@ -2026,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (8), business (6), [[Automation]] (2), management (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Digital Transformation]] (1), [[Scalability]] (1)
 > **Env Vars:** coe (23), rpa (8), dna (3)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for example (2)
@@ -2037,8 +2006,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Real-world tips for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/tips-for-success-from-the-front-lines-26921389?u=76281980)
+#### [Real-world tips for success](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/tips-for-success-from-the-front-lines-26921389?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,13 +2054,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), rpa (3), [[Automation]] (2), data (2)
 > **Env Vars:** rpa (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - after (1)
 
-#### Key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980)
+#### [Key takeaways](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,7 +2076,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=36)** I also encourage you to check out other resources, such as many RPA vendors have online forums, and some as I mentioned, have outstanding academies.
 >
-> **[0:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=46)** There are several LinkedIn groups dedicated to RPA, intelligent automation, and digital transformation.
+> **[0:46](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=46)** There are several [[LinkedIn]] groups dedicated to RPA, intelligent automation, and [[Digital Transformation]].
 >
 > **[0:52](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=52)** I welcome you to join them and become part of a vibrant community of passionate people working to develop their own skills.
 >
@@ -2118,7 +2084,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=66)** My course RPA, AI, and Cognitive Tech for Leaders is a very good one to watch next.
 >
-> **[1:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=72)** You can then follow it up with courses on Process Mining, Process Discovery, Intelligent Automation, and Conversational AI.
+> **[1:12](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=72)** You can then follow it up with courses on [[Process Mining]], Process Discovery, Intelligent Automation, and [[Conversational AI]].
 >
 > **[1:20](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/key-takeaways?u=76281980&t=80)** And finally, please feel free to connect with me on LinkedIn.
 >
@@ -2134,7 +2100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rpa (6), [[LinkedIn]] (3), [[Automation]] (2), [[Digital Transformation]] (1), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Digital Transformation]] (1), [[Process Mining]] (1), [[Conversational AI]] (1)
 > **Env Vars:** rpa (6)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** find (1)

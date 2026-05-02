@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,11 +89,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=15)** And today I'll show you how you can use e-mail marketing to find engage and convert your audience.
 >
-> **[0:21](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=21)** In this course you'll learn how to tap into this unlimited potential and begin to create your own e-mail marketing strategy.
+> **[0:21](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=21)** In this course you'll learn how to tap into this unlimited potential and begin to create your own e-mail [[Marketing Strategy]].
 >
 > **[0:29](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=29)** I'll cover how to create an effective e-mail campaign.
 >
-> **[0:31](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=31)** And everything in between like how to grow and manage your e-mail lists and newsletters.
+> **[0:31](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=31)** And everything in between like how to grow and manage your e-mail lists and [[Newsletters]].
 >
 > **[0:37](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/welcome?u=76281980&t=37)** We'll also look at how you can begin to measure your results.
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), traffic (1), [[Marketing Strategy]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Newsletters]] (1)
 > **Prerequisites:** getting started (1), set up (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - e (1)
@@ -126,16 +125,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining email marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980)
+#### [Defining email marketing](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=0)** - I'd wager a bet that you have been doing email marketing in your business without even knowing it.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=0)** - I'd wager a bet that you have been doing [[Email Marketing]] in your business without even knowing it.
 >
 > **[0:06](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=6)** Email marketing is a form of direct marketing that uses email as its main medium of communication.
 >
-> **[0:12](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=12)** This means that you right now most likely have emails or newsletters in your inbox that a company created and sent out to you for their own email marketing campaign.
+> **[0:12](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=12)** This means that you right now most likely have emails or [[Newsletters]] in your inbox that a company created and sent out to you for their own email marketing campaign.
 >
 > **[0:22](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=22)** Basically, any email that you send to a potential or current customer can be considered email marketing.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=56)** Often, they work with expensive marketing firms that use cutting edge technology and data.
 >
-> **[1:02](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=62)** For the smaller guy, this means that you can look at what they're creating, and use that information to grow your own marketing strategy.
+> **[1:02](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=62)** For the smaller guy, this means that you can look at what they're creating, and use that information to grow your own [[Marketing Strategy]].
 >
 > **[1:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-email-marketing?u=76281980&t=70)** Once you have determined some marketing-savvy industry players, go ahead and get on their mailing list.
 >
@@ -173,21 +171,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (8), business (1), [[Newsletters]] (1), data (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (8), [[Newsletters]] (1), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - i (1)
 
-#### Considering the advantages
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980)
+#### [Considering the advantages](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=0)** - Whether it's Hotmail, Gmail, Yahoo, or Outlook, everyone has an email address.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=0)** - Whether it's Hotmail, Gmail, Yahoo, or [[Microsoft Outlook|Outlook]], everyone has an email address.
 >
 > **[0:06](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=6)** Simply put, this is the dream for marketers since email delivers the highest ROI out of any marketing method.
 >
-> **[0:14](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=14)** Let's dive into the key advantages of using email marketing in your business.
+> **[0:14](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=14)** Let's dive into the key advantages of using [[Email Marketing]] in your business.
 >
 > **[0:19](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=19)** As you watch, I want you to consider which advantages most relate to you.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=28)** It's expected.
 >
-> **[0:29](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=29)** Email is a professional marketing medium, and people expect to receive information about products and services through that channel.
+> **[0:29](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=29)** Email is a professional marketing medium, and people expect to receive information about [[Microsoft Products|products]] and services through that channel.
 >
 > **[0:37](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=37)** Studies show that 72% of people prefer to receive promotional content through email as compared to 17% who prefer social media.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=83)** And these measurements take all the guesswork out of your email marketing.
 >
-> **[1:27](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=87)** Most service providers offer dashboards with real-time metrics like opens, clicks, bounces, forwards, social shares, and more.
+> **[1:27](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=87)** Most service providers offer [[Dashboards]] with [[Real-Time]] metrics like opens, clicks, bounces, forwards, social shares, and more.
 >
 > **[1:37](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/considering-the-advantages?u=76281980&t=97)** Lastly, email marketing compliments all other marketing strategies.
 >
@@ -245,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (10), business (3), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (10), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
 > **Speakers:** - whether (1)
@@ -255,18 +252,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding email to your marketing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980)
+#### [Adding email to your marketing strategy](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=0)** - Adding email into your existing marketing efforts can be seamless while increasing your brand's awareness, driving traffic to your website and boosting your bottom line.
 >
-> **[0:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=10)** Your first step to integrating email marketing is to define your marketing objective.
+> **[0:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=10)** Your first step to integrating [[Email Marketing]] is to define your marketing objective.
 >
 > **[0:15](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=15)** Basically, that's determining what the nature of your email campaigns will be.
 >
-> **[0:20](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=20)** For example, you could decide to focus on newsletters that drive brand awareness and keep customers and prospects up-to-date on your business, services or products.
+> **[0:20](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=20)** For example, you could decide to focus on [[Newsletters]] that drive brand awareness and keep customers and prospects up-to-date on your business, services or [[Microsoft Products|products]].
 >
 > **[0:29](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=29)** In those newsletters, you could include recent company blog posts, upcoming events or unique content catered to your audience.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=87)** And there are two things to consider when choosing a provider, that's compliance and features.
 >
-> **[1:33](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=93)** Due to strict spam and privacy laws, be sure to find a provider that is in compliance and most large providers like MailChimp are.
+> **[1:33](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=93)** Due to strict spam and [[Privacy]] laws, be sure to find a provider that is in compliance and most large providers like MailChimp are.
 >
 > **[1:41](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=101)** But sending from your personal email account is not in compliance.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=126)** This means it makes it really easy for you to scale your email efforts.
 >
-> **[2:11](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=131)** And further down, mail chimp can help you, as well, with your Google remarketing advertisements.
+> **[2:11](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=131)** And further down, mail chimp can help you, as well, with your [[Google]] remarketing advertisements.
 >
 > **[2:19](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/adding-email-to-your-marketing-strategy?u=76281980&t=139)** If you do plan on a lot of volume, so that means you'll be sending out a lot of emails, you might wish to choose a provider with adequate pricing so that you aren't getting dinged every time you send out an email.
 >
@@ -318,17 +314,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (7), business (3), [[Newsletters]] (2), traffic (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (7), [[Newsletters]] (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[Google]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - adding (1)
 
-#### Defining key elements of email marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980)
+#### [Defining key elements of email marketing](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=0)** - When beginning email marketing understanding the individual elements of what makes up an email strategy is really important.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=0)** - When beginning [[Email Marketing]] understanding the individual elements of what makes up an email strategy is really important.
 >
 > **[0:07](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=7)** Let's go over these key elements.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=59)** For example, you might segment your list by creating a group of just customers.
 >
-> **[1:04](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=64)** You might also segment by location, products they purchased, or even have a group of prospects that have not yet bought anything.
+> **[1:04](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=64)** You might also segment by location, [[Microsoft Products|products]] they purchased, or even have a group of prospects that have not yet bought anything.
 >
 > **[1:12](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/defining-key-elements-of-email-marketing?u=76281980&t=72)** In this MailChimp example we can create a new segment based off of those qualifications.
 >
@@ -408,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Automation]] (2), web (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **Prerequisites:** set up (3), getting started (1)
 > **CLI Commands:** find (1), make (1)
@@ -421,16 +416,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintaining healthy email lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980)
+#### [Maintaining healthy email lists](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980&t=0)** - Maintaining your email list is the key to a healthy and effective email marketing strategy and it really goes with the old saying, if you don't use it, you lose it.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980&t=0)** - Maintaining your email list is the key to a healthy and effective [[Email Marketing]] strategy and it really goes with the old saying, if you don't use it, you lose it.
 >
 > **[0:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980&t=10)** Your list is a collection of people who have subscribed to hear from you by providing their emails and this is a privilege.
 >
-> **[0:17](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980&t=17)** By taking care of this list, you're ensuring it stays up-to-date so that it can be an effective part of your marketing strategy.
+> **[0:17](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980&t=17)** By taking care of this list, you're ensuring it stays up-to-date so that it can be an effective part of your [[Marketing Strategy]].
 >
 > **[0:23](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/maintaining-healthy-email-lists?u=76281980&t=23)** Here's what I mean by maintaining your list.
 >
@@ -506,14 +500,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (2), business (2), [[Marketing Strategy]] (1), management (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (3), means that (3), is an  (1)
 > **Best Practices:** recommended (2), don't forget (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - maintaining (1)
 
-#### Segmenting your list
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980)
+#### [Segmenting your list](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,9 +556,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980&t=127)** Online retailers do an amazing job of this.
 >
-> **[2:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980&t=130)** I encourage you to sign up for a popular online retailer and watch the personalized emails roll in with specific deals on products just for you.
+> **[2:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980&t=130)** I encourage you to sign up for a popular online retailer and watch the personalized emails roll in with specific deals on [[Microsoft Products|products]] just for you.
 >
-> **[2:19](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980&t=139)** This level of segmentation takes a lot of time and creativity, but there are certain ways that you can adapt these strategies into your own email marketing.
+> **[2:19](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980&t=139)** This level of segmentation takes a lot of time and creativity, but there are certain ways that you can adapt these strategies into your own [[Email Marketing]].
 >
 > **[2:28](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/segmenting-your-list?u=76281980&t=148)** As you begin to grow your email list, you can explore the different ways to segment your customers.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), traffic (1), business (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Email Marketing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -586,14 +579,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a good strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980)
+#### [Creating a good strategy](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980&t=0)** - As with any type of marketing the key to achieving success is all in your strategic planning.
 >
-> **[0:06](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980&t=6)** Let's go over how you can create a powerful email marketing strategy for your business.
+> **[0:06](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980&t=6)** Let's go over how you can create a powerful [[Email Marketing]] strategy for your business.
 >
 > **[0:10](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-a-good-strategy?u=76281980&t=10)** First and foremost, focus on list growth.
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), [[Email Marketing]] (3), product (3), business (1), next (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3)
 > **Prerequisites:** setup (3), make sure you have (2), set up (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** means that (1), is a  (1)
@@ -682,12 +674,11 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Analogies:** similar to (1)
 
-#### Creating powerful email marketing campaigns
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-powerful-email-marketing-campaigns?u=76281980)
+#### [Creating powerful email marketing campaigns](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-powerful-email-marketing-campaigns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-powerful-email-marketing-campaigns?u=76281980&t=0)** - You know how to sign up for an email marketing provider, what a campaign is and the elements of a great campaign.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-powerful-email-marketing-campaigns?u=76281980&t=0)** - You know how to sign up for an [[Email Marketing]] provider, what a campaign is and the elements of a great campaign.
 >
 > **[0:07](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/creating-powerful-email-marketing-campaigns?u=76281980&t=7)** Now it's time to put all that knowledge together.
 >
@@ -767,18 +758,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1)
 > **URLs:** [hanselandpetal.com](https://hanselandpetal.com) (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
-#### Choosing an email marketing theme
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980)
+#### [Choosing an email marketing theme](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=0)** - Choosing a theme for your emails is an important part of your email marketing strategy.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=0)** - Choosing a theme for your emails is an important part of your [[Email Marketing]] strategy.
 >
 > **[0:05](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=5)** It helps customers recognize your brand, makes your content easy to read, and can even help drive conversions.
 >
@@ -800,7 +790,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=61)** At the top, if I select Themes, it's here that you can choose a jazzier theme for your email, and you have the option of choosing a specific category.
 >
-> **[1:11](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=71)** So say you have an e-commerce store.
+> **[1:11](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=71)** So say you have an [[E-Commerce]] store.
 >
 > **[1:14](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=74)** It's here that MailChimp is going to offer you a bunch of themes based on that niche.
 >
@@ -822,7 +812,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=123)** This means that Hansel & Petal is pushing this specific product for purchase, and they have a bright blue button to select to drive that traffic to the website in order to purchase.
 >
-> **[2:16](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=136)** Below that, they do also have additional products.
+> **[2:16](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=136)** Below that, they do also have additional [[Microsoft Products|products]].
 >
 > **[2:20](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/choosing-an-email-marketing-theme?u=76281980&t=140)** So really the goal for this, and the layout serves and supports that goal, the goal is to get people to purchase these Mother's Day floral bouquets.
 >
@@ -856,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), product (2), [[Microsoft Products|Products]] (2), business (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
 > **UI Navigation:** scroll down (2), go to (1), scroll up (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Prerequisites:** set up (3)
@@ -865,8 +855,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - choosing (1)
 
-#### Building a high-performing email
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980)
+#### [Building a high-performing email](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,9 +895,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980&t=67)** This makes it really easy for the reader to act upon this email and place their order while claiming their 25% off.
 >
-> **[1:14](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980&t=74)** Notice the shop for mom big blue button and below we'll have the view similar products and shop the sale call to action.
+> **[1:14](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980&t=74)** Notice the shop for mom big blue button and below we'll have the view similar [[Microsoft Products|products]] and shop the sale call to action.
 >
-> **[1:22](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980&t=82)** Now if I scroll back up top, you'll see that there is no big storytelling or blog post in this email.
+> **[1:22](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980&t=82)** Now if I scroll back up top, you'll see that there is no big [[Storytelling]] or blog post in this email.
 >
 > **[1:30](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/building-a-high-performing-email?u=76281980&t=90)** Instead it's a quick hey you better get your flowers, order for mom right away and as an incentive here's 25% off because you're a trusted customer.
 >
@@ -966,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), [[Storytelling]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Storytelling]] (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **UI Navigation:** scroll down (2)
 > **Prerequisites:** setup (1)
@@ -977,12 +966,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using metrics in email marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980)
+#### [Using metrics in email marketing](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=0)** - Just like any other marketing method, paying close attention to your metrics and analytics are key with email marketing.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=0)** - Just like any other marketing method, paying close attention to your metrics and analytics are key with [[Email Marketing]].
 >
 > **[0:07](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=7)** By understanding what's working and what's not, you can iterate on your email campaigns so they hit your marketing goals, goals like increasing sales or driving traffic to your website.
 >
@@ -1004,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=69)** The first is if you have integrated your campaigns with your online store, you're able to track the amount of orders, order revenue and total revenue that has been produced from this specific campaign.
 >
-> **[1:20](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=80)** This is great if you run an e-commerce business.
+> **[1:20](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=80)** This is great if you run an [[E-Commerce]] business.
 >
 > **[1:24](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/using-metrics-in-email-marketing?u=76281980&t=84)** But further down is really what I want to focus on, and that's the open rate and the click rate.
 >
@@ -1038,15 +1026,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Analytics]] (1), hit (1), traffic (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[E-Commerce]] (1)
 > **UI Navigation:** select the (1), scroll down (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - just (1)
 
-#### Optimizing and testing your emails
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/optimizing-and-testing-your-emails?u=76281980)
+#### [Optimizing and testing your emails](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/optimizing-and-testing-your-emails?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1059,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/optimizing-and-testing-your-emails?u=76281980&t=48)** Variables such as subject line, content, or send time.
 >
-> **[0:52](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/optimizing-and-testing-your-emails?u=76281980&t=52)** Most email marketing services like MailChimp have this feature.
+> **[0:52](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/optimizing-and-testing-your-emails?u=76281980&t=52)** Most [[Email Marketing]] services like MailChimp have this feature.
 >
 > **[0:56](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/optimizing-and-testing-your-emails?u=76281980&t=56)** And this may be something that you seek out when choosing one.
 >
@@ -1158,7 +1145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Email Marketing]] (1), feature (1), data (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** select the (1)
@@ -1170,14 +1157,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=0)** - Congratulations on completing this course on email marketing.
+> **[0:00](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=0)** - Congratulations on completing this course on [[Email Marketing]].
 >
-> **[0:03](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=3)** You're now ready to begin integrating email into your marketing strategy, and I know you can begin to see some great results.
+> **[0:03](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=3)** You're now ready to begin integrating email into your [[Marketing Strategy]], and I know you can begin to see some great results.
 >
 > **[0:11](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=11)** It's your turn to create some email marketing campaigns and I encourage you to create a couple campaigns while this information is fresh.
 >
@@ -1189,11 +1175,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=36)** Thank you for watching my course.
 >
-> **[0:38](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=38)** You can always tweet me, @socialmegadams or connect with me on LinkedIn, and as always, don't hesitate to let me know how your email marketing is going.
+> **[0:38](https://www.linkedin.com/learning/email-and-newsletter-marketing-foundations/next-steps?u=76281980&t=38)** You can always tweet me, @socialmegadams or connect with me on [[LinkedIn]], and as always, don't hesitate to let me know how your email marketing is going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (4), [[Marketing Strategy]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (4), [[Marketing Strategy]] (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

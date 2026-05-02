@@ -79,16 +79,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python data structures: Stacks, queues, and deques
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980)
+#### [Python data structures: Stacks, queues, and deques](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980&t=0)** - [Dhhyey] Are you interested in mastering the fundamentals of Python data structures?
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980&t=0)** - [Dhhyey] Are you interested in mastering the fundamentals of [[Python (Programming Language)|Python]] [[Data Structures]]?
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980&t=4)** Well, look no further.
 >
-> **[0:06](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980&t=6)** In this course, we'll explore three essential data structures that form the backbone of many computer science algorithms, stacks, queues, and deques.
+> **[0:06](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980&t=6)** In this course, we'll explore three essential data structures that form the backbone of many computer science [[Algorithms]], stacks, queues, and deques.
 >
 > **[0:16](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980&t=16)** Throughout this course, you learn how to use these data structures to solve real world problems.
 >
@@ -104,18 +103,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Structures]] (4), [[Algorithms]] (2)
 > **CLI Commands:** python (4)
 > **Speakers:** - [dhhyey] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there are a few concepts that you should know.
 >
-> **[0:05](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/what-you-should-know?u=76281980&t=5)** The first is Python's built-in list data type, specifically knowing about the list data types built in append method and also how you could try to index into a list.
+> **[0:05](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/what-you-should-know?u=76281980&t=5)** The first is [[Python (Programming Language)|Python]]'s built-in list data type, specifically knowing about the list data types built in append method and also how you could try to index into a list.
 >
 > **[0:15](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/what-you-should-know?u=76281980&t=15)** You'll also want to know about classes in Python, how classes have attributes, methods and how to instantiate objects.
 >
@@ -125,14 +123,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Versions:** python 3 (1)
 > **Tools:** pycharm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the CoderPad environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/explore-the-coderpad-environment?u=76281980)
+#### [Explore the CoderPad environment](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/explore-the-coderpad-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/explore-the-coderpad-environment?u=76281980&t=14)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:20](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/explore-the-coderpad-environment?u=76281980&t=20)** We recommend you use a desktop browser for the best experience with the code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/explore-the-coderpad-environment?u=76281980&t=20)** We recommend you use a desktop browser for the best experience with the code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:29](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/explore-the-coderpad-environment?u=76281980&t=29)** The code challenge has four areas: Instructions in the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used in the bottom right, and a console for the output in the bottom left.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -207,8 +204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stacks: An introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stacks-an-introduction?u=76281980)
+#### [Stacks: An introduction](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stacks-an-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,18 +234,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **Env Vars:** lifo (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### The push() operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-push-operation?u=76281980)
+#### [The push() operation](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-push-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-push-operation?u=76281980&t=0)** - [Instructor] In this video, we're going to dive deeper into the stack data structure in Python and specifically look at the push operation.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-push-operation?u=76281980&t=0)** - [Instructor] In this video, we're going to dive deeper into the stack data structure in [[Python (Programming Language)|Python]] and specifically look at the push operation.
 >
 > **[0:07](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-push-operation?u=76281980&t=7)** So, first of all, let's recall what a stack is and how it works.
 >
@@ -299,18 +293,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The pop() operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-pop-operation?u=76281980)
+#### [The pop() operation](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-pop-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-pop-operation?u=76281980&t=0)** - [Instructor] In this video, we're going to continue our exploration of the stack data structure in Python and specifically look at the pop operation.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-pop-operation?u=76281980&t=0)** - [Instructor] In this video, we're going to continue our exploration of the stack data structure in [[Python (Programming Language)|Python]] and specifically look at the pop operation.
 >
 > **[0:08](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-pop-operation?u=76281980&t=8)** Now you may be asking, what is the pop operation and how does it work with a stack?
 >
@@ -354,18 +347,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The peek() operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-peek-operation?u=76281980)
+#### [The peek() operation](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-peek-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-peek-operation?u=76281980&t=0)** - [Instructor] So let's now continue our journey into the stack data structure in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-peek-operation?u=76281980&t=0)** - [Instructor] So let's now continue our journey into the stack data structure in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/the-peek-operation?u=76281980&t=4)** And in this video we'll look at the peek operation.
 >
@@ -405,15 +397,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Palindrome checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/solution-palindrome-checker?u=76281980)
+#### [Solution: Palindrome checker](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/solution-palindrome-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +472,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), data (3)
 > **CLI Commands:** node (6)
 > **Code Identifiers:** isempty (2)
 > **Definitions:** is a  (2)
@@ -495,8 +485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Queues: An introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980)
+#### [Queues: An introduction](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=9)** If you have stood in the line at an airport or to be served your favorite book at your neighborhood shop then you should know how things work in a queue.
 >
-> **[0:18](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=18)** Queues are also a very fundamental and important concept to grasp since many other data structures have been built upon these.
+> **[0:18](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=18)** Queues are also a very fundamental and important concept to grasp since many other [[Data Structures]] have been built upon these.
 >
 > **[0:26](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=26)** So of course we know how a queue works.
 >
@@ -530,22 +519,21 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=84)** It may have people who are already in the queue deciding to fall out or even others substituting in for them.
 >
-> **[1:30](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=90)** It's our intent to model all the dynamics that happen in a real queue in Python, but abstracting what a queue is and how it behaves enables us to solve a plethora of challenges, especially in computing.
+> **[1:30](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980&t=90)** It's our intent to model all the dynamics that happen in a real queue in [[Python (Programming Language)|Python]], but abstracting what a queue is and how it behaves enables us to solve a plethora of challenges, especially in computing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** fifo (2)
 > **CLI Commands:** python (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### List-based queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/list-based-queues?u=76281980)
+#### [List-based queues](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/list-based-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/list-based-queues?u=76281980&t=0)** - [Instructor] In this tutorial, we'll be looking at list-based queues in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/list-based-queues?u=76281980&t=0)** - [Instructor] In this tutorial, we'll be looking at list-based queues in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/list-based-queues?u=76281980&t=4)** A queue is a commonly used data structure.
 >
@@ -617,15 +605,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), known as (1)
 > **Code Identifiers:** is_empty (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack-based queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stack-based-queues?u=76281980)
+#### [Stack-based queues](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stack-based-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stack-based-queues?u=76281980&t=91)** All you need to do is initialize the class, add in some values, and we are good to go.
 >
-> **[1:35](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stack-based-queues?u=76281980&t=95)** We can now successfully implement a stack based queue in Python.
+> **[1:35](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stack-based-queues?u=76281980&t=95)** We can now successfully implement a stack based queue in [[Python (Programming Language)|Python]].
 >
 > **[1:39](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stack-based-queues?u=76281980&t=99)** We can also use his methods to enqueue and dequeue items as we've seen before.
 >
@@ -677,13 +664,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** known as (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Node-based queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/node-based-queues?u=76281980)
+#### [Node-based queues](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/node-based-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,14 +719,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (14), next (5)
 > **CLI Commands:** node (14)
 > **Definitions:** known as (2), means that (2)
 > **Code Identifiers:** is_empty (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Printer problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/solution-printer-problem?u=76281980)
+#### [Solution: Printer problem](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/solution-printer-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +802,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** isempty (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -830,12 +813,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deques: An introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980)
+#### [Deques: An introduction](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980&t=0)** - [Instructor] First of all, a deque stands for a double-ended queue, where we take the D, the E, and the first two letters of the queue and put them all together to create this new word called deque.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980&t=0)** - [Instructor] First of all, a deque stands for a double-ended queue, where we take the D, the E, and the first two letters of the queue and put them all together to create this new [[Microsoft Word|word]] called deque.
 >
 > **[0:11](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980&t=11)** The high-level definition of a deque is that it's an abstract data type that resembles both a stack and a queue.
 >
@@ -861,19 +843,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** fifo (1), lifo (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appending lists with deque
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/appending-lists-with-deque?u=76281980)
+#### [Appending lists with deque](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/appending-lists-with-deque?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/appending-lists-with-deque?u=76281980&t=0)** - [Instructor] In this video, 2 we'll be discussing how you can append list 3 with the Deque data structure in Python. 4 Deque, also known as double-ended queue, 5 is a data structure in Python that allows us to add 6 or remove elements from both ends of the list efficiently. 7 It's similar to regular list 8 but with faster insertion times and deletion times. 9 First, let's start off by importing the collections module 10 and creating a Deque. 11 So we can go ahead and say from collections import deque. 12 Now to add elements to the Deque, 13 we can use the append method to add to the right end 14 and the append left method to add the left end. 15 So first of all, let's go ahead and create our Deque. 16 We'll just go ahead and create a variable, my_deque 17 and initialize our Deque. 18
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/appending-lists-with-deque?u=76281980&t=0)** - [Instructor] In this video, 2 we'll be discussing how you can append list 3 with the Deque data structure in [[Python (Programming Language)|Python]]. 4 Deque, also known as double-ended queue, 5 is a data structure in Python that allows us to add 6 or remove elements from both ends of the list efficiently. 7 It's similar to regular list 8 but with faster insertion times and deletion times. 9 First, let's start off by importing the collections module 10 and creating a Deque. 11 So we can go ahead and say from collections import deque. 12 Now to add elements to the Deque, 13 we can use the append method to add to the right end 14 and the append left method to add the left end. 15 So first of all, let's go ahead and create our Deque. 16 We'll just go ahead and create a variable, my_deque 17 and initialize our Deque. 18
 >
 > **[0:51](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/appending-lists-with-deque?u=76281980&t=51)** Now let's make use of the append commands 19 to append our Deque. 20 We'll go ahead and say my_deque.append() 21 and we'll give in the number one. 22 And then we'll just go ahead and say my_deque.appendleft() 23 and then we'll give in the number two. 24 Now what's going to happen is our Deque 25 is going to get appended so that the number one 26 is inserted in. 27 However then, the number two is inserted 28 to the left of that. 29 So the output that we get would be two and then one. 30 Let's just go ahead and check this 31 by printing out our Deque. 32
 >
@@ -883,19 +864,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** my_deque (5)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### rotate(), reverse(), and extend()
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/rotate-reverse-and-extend?u=76281980)
+#### [rotate(), reverse(), and extend()](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/rotate-reverse-and-extend?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/rotate-reverse-and-extend?u=76281980&t=0)** - [Instructor] In this video, we'll be looking at some useful methods for working with a Deque data structure in Python.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/rotate-reverse-and-extend?u=76281980&t=0)** - [Instructor] In this video, we'll be looking at some useful methods for working with a Deque data structure in [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/rotate-reverse-and-extend?u=76281980&t=6)** As a quick review, the Deque data structure is also known as a double-ended queue, and is a structure that allows us to add or remove elements to both ends of the list efficiently.
 >
@@ -945,7 +925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** my_deque (3), my_deck (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** known as (1), is a  (1)
@@ -957,12 +937,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on completing the Python data structures course.
+> **[0:00](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on completing the [[Python (Programming Language)|Python]] [[Data Structures]] course.
 >
 > **[0:04](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980&t=4)** You've now gained a fundamental understanding of three essential data structures and learned how to apply them to solve real-world problems.
 >
@@ -994,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), next (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Data Structures]] (6), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

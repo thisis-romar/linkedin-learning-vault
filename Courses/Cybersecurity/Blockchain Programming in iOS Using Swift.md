@@ -79,14 +79,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=0)** - Hello and welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=2)** Before we dive into the blockchain technology I'd like to give you a small introduction.
+> **[0:02](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=2)** Before we dive into the [[Blockchain]] technology I'd like to give you a small introduction.
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=8)** My name is Mohammad Azam and I've been doing iOS since 2010.
 >
@@ -108,22 +107,21 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=77)** So basically, I go and teach people, that's my full-time job.
 >
-> **[1:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=81)** Before joining that, I was a lead instructor for Highland Yard where I was teaching iOS as well as full-stack web development.
+> **[1:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=81)** Before joining that, I was a lead instructor for Highland Yard where I was teaching iOS as well as full-stack [[Web Development]].
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=91)** So, I have a lot of teaching background.
 >
-> **[1:35](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=95)** I really hope that you enjoy this course and if you do have any questions don't hesitate to contact me and I will be more than happy to assist you further in your quest for learning Blockchain Technology in iOS Using Swift.
+> **[1:35](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=95)** I really hope that you enjoy this course and if you do have any questions don't hesitate to contact me and I will be more than happy to assist you further in your quest for learning Blockchain Technology in iOS Using [[Swift (Programming Language)|Swift]].
 >
 > **[1:51](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/introduction?u=76281980&t=111)** Thank you so much and I really hope that you enjoy the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), full-stack (1), [[Web Development]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Web Development]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (5), idev (1)
 > **Speakers:** - hello (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,9 +131,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980&t=23)** This is a not a beginner level course.
 >
-> **[0:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980&t=26)** This course does not teach you iOS application development.
+> **[0:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980&t=26)** This course does not teach you iOS [[Application Development]].
 >
-> **[0:31](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980&t=31)** This is focused entirely on how you can implement blockchain using iOS, using Swift.
+> **[0:31](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980&t=31)** This is focused entirely on how you can implement [[Blockchain]] using iOS, using [[Swift (Programming Language)|Swift]].
 >
 > **[0:40](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-you-should-know?u=76281980&t=40)** Familiarity with the Swift language is also necessary.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (9), [[Blockchain]] (4), web (1), api (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (9), [[Blockchain]] (4), [[Application Development]] (1)
 > **Code Identifiers:** ios (5)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -162,14 +160,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cryptocurrency?
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980)
+#### [What is cryptocurrency?](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980&t=0)** - [Instructor] Before we get into blockchain, it is very important to understand cryptocurrencies.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980&t=0)** - [Instructor] Before we get into [[Blockchain]], it is very important to understand cryptocurrencies.
 >
-> **[0:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980&t=7)** What exactly is cryptocurrency?
+> **[0:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980&t=7)** What exactly is [[Cryptocurrency]]?
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-cryptocurrency?u=76281980&t=12)** You might have heard of different cryptocurrencies, like Bitcoin, Ether, and even Ripple, but there are a lot more cryptocurrencies out there, Waves, Nexus, Dash, Litecoin, and so on.
 >
@@ -207,12 +204,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a centralized ledger?
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980)
+#### [What is a centralized ledger?](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=1)** - [Instructor] Let's say that John needs to send some money to Mary.
+> **[0:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=1)** - [Instructor] Let's say that [[John the Ripper|John]] needs to send some money to Mary.
 >
 > **[0:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=7)** And let's also assume that John and Mary are not neighbors but they live quite far apart, maybe thousands of miles apart.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=67)** Apart from the money, the transaction fee, the three to five business days now you have a central place, which is a bank, and if there are bad people like hackers they only have to hack one bank or one central place to get all the information.
 >
-> **[1:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=86)** Once these hackers hack the bank, or that particular central ledger, they can get access to all the accounts, all the Social Security identification, their addresses, first name, last name, bank account number, routing numbers and so on.
+> **[1:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=86)** Once these hackers hack the bank, or that particular central ledger, they can get access to all the accounts, all the Social Security identification, their addresses, first name, last name, bank account number, [[Routing]] numbers and so on.
 >
 > **[1:44](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-centralized-ledger?u=76281980&t=104)** And they can just take the money out of bank and John's account and Mary's account and transfer it to some offshore account.
 >
@@ -250,16 +246,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7), [[Routing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a distributed ledger?
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-distributed-ledger?u=76281980)
+#### [What is a distributed ledger?](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-distributed-ledger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-distributed-ledger?u=76281980&t=2)** - [Instructor] Let's say that John needs to send some money to Mary.
+> **[0:02](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-distributed-ledger?u=76281980&t=2)** - [Instructor] Let's say that [[John the Ripper|John]] needs to send some money to Mary.
 >
 > **[0:05](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-a-distributed-ledger?u=76281980&t=5)** And once again, we will assume that they are not next door neighbors, but they live thousands of miles apart.
 >
@@ -313,13 +308,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), next (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6)
 > **CLI Commands:** node (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public and private keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980)
+#### [Public and private keys](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=4)** We already know that the ledger consists of transactions from the users.
 >
-> **[0:09](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=9)** Now these transactions can be send $20 from John to Mary, send $15 from Mary to Steve, and so on.
+> **[0:09](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=9)** Now these transactions can be send $20 from [[John the Ripper|John]] to Mary, send $15 from Mary to Steve, and so on.
 >
 > **[0:18](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=18)** Each of these transaction is signed by the person who is approving these transaction like John, Steve, and Mary.
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=211)** That's particularly like saying that if I select one dot from the screen, and I selected 256 times, then you have to pick the same exact dot 256 times.
 >
-> **[3:46](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=226)** So the probability of doing that is well close to none.
+> **[3:46](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=226)** So the [[Probability]] of doing that is well close to none.
 >
 > **[3:54](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/public-and-private-keys?u=76281980&t=234)** We already know that the ledger is handled and is contained by different nodes.
 >
@@ -401,14 +395,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Probability]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Probability]] (1)
 > **Definitions:** is a  (3), means that (1), is called (1)
 > **Env Vars:** sha256 (3)
 > **CLI Commands:** node (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is mining?
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980)
+#### [What is mining?](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +415,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=21)** Now, let's remove the ledger and talk about the transaction first because this is how it actually happens.
 >
-> **[0:27](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=27)** A transaction comes to a node, which can be any transactions, like send $20 from John to Mary, send $5 from Steve to John, and so on.
+> **[0:27](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=27)** A transaction comes to a node, which can be any transactions, like send $20 from [[John the Ripper|John]] to Mary, send $5 from Steve to John, and so on.
 >
 > **[0:43](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=43)** Whenever a transaction comes, each of these nodes they start doing a very, very complicated computation.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=318)** Once you have found the hash, a block is generated for you, and you put all the transactions in that block, and then that block becomes part of other blocks in a chain.
 >
-> **[5:33](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=333)** And hence it's called a blockchain.
+> **[5:33](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=333)** And hence it's called a [[Blockchain]].
 >
 > **[5:37](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/what-is-mining?u=76281980&t=337)** Once it is added to the chain, all the different nodes, and there can be thousands of different nodes, they get an updated copy of the blockchain.
 >
@@ -568,21 +561,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (9), node (6), next (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (9), [[John the Ripper|John]] (6)
 > **CLI Commands:** find (12), node (6)
 > **Definitions:** known as (3), is a  (2)
 > **Code Identifiers:** previoushash (1)
 > **Versions:** 6.25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The longest chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980)
+#### [The longest chain](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=0)** - [Instructor] Hello and welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=1)** Now, I know that you are really eager to get started, but I just have one more small thing that I need to cover before we can jump into the implementation of the blockchain in iOS.
+> **[0:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=1)** Now, I know that you are really eager to get started, but I just have one more small thing that I need to cover before we can jump into the implementation of the [[Blockchain]] in iOS.
 >
 > **[0:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=15)** And this lecture is about the longest chain.
 >
@@ -610,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=115)** Now obviously, I am making this so simple because it's not really easy to create and to win and to find that secret hash with 30 zeroes or 60 zeroes again and again.
 >
-> **[2:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=128)** So it's the very, the probability of that hacked node, the evil node, to keep finding that hash again and again, is extremely low.
+> **[2:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=128)** So it's the very, the [[Probability]] of that hacked node, the evil node, to keep finding that hash again and again, is extremely low.
 >
 > **[2:19](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/the-longest-chain?u=76281980&t=139)** Well, let's just assume that it's able to keep up at the start, but then all these nodes validate and they find another block and they add to the blockchain.
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (12), [[Blockchain]] (10), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Probability]] (1)
 > **CLI Commands:** node (12), find (2)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
@@ -636,22 +628,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing blockchain models
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980)
+#### [Developing blockchain models](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=0)** - [Instructor] In this lecture, we will be implementing the models that will be responsible for creating our blockchain.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=0)** - [Instructor] In this lecture, we will be implementing the models that will be responsible for creating our [[Blockchain]].
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=9)** So we'll be looking at the transaction model, the blockchain model, as well as a block model.
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=15)** Now, I'm going to create all of these things in Swift Playgrounds for macOS.
+> **[0:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=15)** Now, I'm going to create all of these things in [[Swift (Programming Language)|Swift]] Playgrounds for macOS.
 >
 > **[0:22](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=22)** Now, why am I using macOS and not iOS?
 >
 > **[0:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=26)** Well, there are some helpful tools as well as APIs that we can use to create the SH, sha, basically, SHA-256 hash, which is available in macOS, but we'll have to do a little bit extra to do it on iOS, which we'll see later on.
 >
-> **[0:49](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=49)** So let's go ahead and start Xcode, and go ahead and say New, Playground.
+> **[0:49](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=49)** So let's go ahead and start [[Xcode]], and go ahead and say New, Playground.
 >
 > **[0:57](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/developing-blockchain-models?u=76281980&t=57)** And you can see that you can also create a playground for macOS, so that's what I'm gonna select, instead of the iOS, so go ahead and select macOS, and then just select a blank, empty playground.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (15), next (2), [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1), application (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Swift (Programming Language)|Swift]] (1), [[Xcode]] (1)
 > **Code Identifiers:** macos (6), ios (3)
 > **Definitions:** is an  (3)
 > **CLI Commands:** find (2)
@@ -755,8 +746,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating keys for blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980)
+#### [Generating keys for blocks](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=26)** and plus the index.
 >
-> **[0:28](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=28)** We can also add the index to it, which represents the position of the block inside the blockchain.
+> **[0:28](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=28)** We can also add the index to it, which represents the position of the block inside the [[Blockchain]].
 >
 > **[0:35](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=35)** So let's go ahead and create a key.
 >
@@ -804,9 +794,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=132)** We have to find a different way.
 >
-> **[2:14](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=134)** How about if we can actually convert these transactions into JSON and then we add the JSON string over here.
+> **[2:14](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=134)** How about if we can actually convert these transactions into [[JSON]] and then we add the JSON string over here.
 >
-> **[2:24](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=144)** The easiest way to convert the transaction object to JSON is to use Swift 4 feature, is to use Swift 4 feature, which is called a Codable.
+> **[2:24](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=144)** The easiest way to convert the transaction object to JSON is to use [[Swift (Programming Language)|Swift]] 4 feature, is to use Swift 4 feature, which is called a Codable.
 >
 > **[2:36](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/generating-keys-for-blocks?u=76281980&t=156)** So we will just say that this is Codable.
 >
@@ -890,7 +880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (9), data (5), [[Swift (Programming Language)|Swift]] (3), feature (2), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[JSON]] (9), [[Swift (Programming Language)|Swift]] (3), [[Blockchain]] (1)
 > **Env Vars:** json (9), sha (2)
 > **Definitions:** is a  (4), is called (1), means that (1), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -899,18 +889,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Initializing the blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980)
+#### [Initializing the blockchain](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=0)** - [Instructor] Okay, so let's continue with our quest of building the core framework for our Blockchain API.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=0)** - [Instructor] Okay, so let's continue with our quest of building the core framework for our [[Blockchain]] API.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=10)** Right now we have a Blockchain class.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=12)** We also have a block class which represents single, or each block in the Blockchain, and we also have a transaction class which represents many transactions that can be added to the block.
 >
-> **[0:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=26)** And these transactions can be: Mary is sending twenty dollars to John, Steve is sending ten dollars to Mary and so on.
+> **[0:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=26)** And these transactions can be: Mary is sending twenty dollars to [[John the Ripper|John]], Steve is sending ten dollars to Mary and so on.
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=36)** Now one thing to note about the Blockchain is that the first block in the Blockchain is called the Genesis Block.
 >
@@ -994,7 +983,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=307)** This method, which is the Sha1Hash uses some of the built-in libraries in the Mac OS framework, or the Mac OS system, to create the hash.
 >
-> **[5:23](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=323)** Now, if you are using JavaScript or Python, there might be some other functions in those languages that you can use.
+> **[5:23](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=323)** Now, if you are using [[JavaScript]] or [[Python (Programming Language)|Python]], there might be some other functions in those languages that you can use.
 >
 > **[5:32](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/initializing-the-blockchain?u=76281980&t=332)** So, now we have the hash, and we can return the hash.
 >
@@ -1032,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (15), api (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[John the Ripper|John]] (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** addblock (4)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is called (1), means that (1)
@@ -1041,8 +1030,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** setup (1)
 
-#### Proof of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980)
+#### [Proof of work](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,9 +1128,9 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980&t=310)** But so, for first things first, we need to get a transaction so let's go ahead and create a transaction.
 >
-> **[5:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980&t=317)** Transaction and we're gonna say from Mary to let's say John for $10.
+> **[5:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980&t=317)** Transaction and we're gonna say from Mary to let's say [[John the Ripper|John]] for $10.
 >
-> **[5:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980&t=326)** We can also say blockchain.getnextblock and we can pass the transaction or transactions to get the next block.
+> **[5:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980&t=326)** We can also say [[Blockchain]].getnextblock and we can pass the transaction or transactions to get the next block.
 >
 > **[5:35](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/proof-of-work?u=76281980&t=335)** So this will be our first block.
 >
@@ -1190,21 +1178,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Blockchain]] (4), [[Search]] (2), web (1), api (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[John the Ripper|John]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** api (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding blocks to the blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/adding-blocks-to-the-blockchain?u=76281980)
+#### [Adding blocks to the blockchain](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/adding-blocks-to-the-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/adding-blocks-to-the-blockchain?u=76281980&t=0)** - [Instructor] Hello and welcome back.
 >
-> **[0:03](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/adding-blocks-to-the-blockchain?u=76281980&t=3)** In our excitement for the last lecture, we totally forgot to add the block to the blockchain.
+> **[0:03](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/adding-blocks-to-the-blockchain?u=76281980&t=3)** In our excitement for the last lecture, we totally forgot to add the block to the [[Blockchain]].
 >
 > **[0:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/adding-blocks-to-the-blockchain?u=76281980&t=11)** So if I go ahead and print out the block, so lets say, blockchain.numberofblocks.count, you will see that instead of showing us two blocks, it's going to tell us that there's only one block in the blockchain.
 >
@@ -1241,18 +1228,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980)
+#### [Understanding smart contracts](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=0)** - [Instructor] Hello and welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=2)** In this lecture, we'll be talking about what exactly are smart contracts, and how smart contracts can be applied to the real world applications.
+> **[0:02](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=2)** In this lecture, we'll be talking about what exactly are [[Smart Contracts]], and how smart contracts can be applied to the real world applications.
 >
-> **[0:13](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=13)** The concept of smart contract was first introduced by the Ethereum blockchain app platform.
+> **[0:13](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=13)** The concept of smart contract was first introduced by the [[Ethereum]] [[Blockchain]] app platform.
 >
-> **[0:19](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=19)** Now, Ethereum is a company behind the ether cryptocurrency, which is the second most popular cryptocurrency, right behind the bitcoin.
+> **[0:19](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=19)** Now, Ethereum is a company behind the ether [[Cryptocurrency]], which is the second most popular cryptocurrency, right behind the bitcoin.
 >
 > **[0:33](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=33)** We already know what the blockchain is, it's just different blocks being connected together, forming a chain, and each block can contain a transactions, which can be a transaction about financial terms, or transaction about insurance, kind of transaction about medical records, and so on.
 >
@@ -1262,7 +1248,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=63)** So let's take an example of car insurance.
 >
-> **[1:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=68)** Let's say that we have a blockchain of car insurance company which manages all the records for the different people who get the car insurance, in this case, the car insurance for John insurance record that we will be talking about.
+> **[1:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=68)** Let's say that we have a blockchain of car insurance company which manages all the records for the different people who get the car insurance, in this case, the car insurance for [[John the Ripper|John]] insurance record that we will be talking about.
 >
 > **[1:25](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=85)** And all of this blockchain is called, let's say, insurance blockchain.
 >
@@ -1270,7 +1256,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=98)** Let's say, after a couple of months, maybe six months or so, it's time to renew the insurance.
 >
-> **[1:46](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=106)** Then the insurance blockchain is going to communicate with the driver license office, or the record holder, and is going to get the updated information from the driver license records for that particular user.
+> **[1:46](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=106)** Then the insurance blockchain is going to communicate with the driver license [[Microsoft Office|office]], or the record holder, and is going to get the updated information from the driver license records for that particular user.
 >
 > **[2:05](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=125)** For John, unfortunately, he got two tickets, which was updated, which was sent back to the blockchain using the smart contract.
 >
@@ -1290,24 +1276,23 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=216)** And all the smart contracts are ran again and verified again from scratch.
 >
-> **[3:45](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=225)** Now that we have enough information about smart contracts, which is just a piece of code running on the blockchain, let's go ahead and see how we can implement smart contract in Swift using iOS.
+> **[3:45](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/understanding-smart-contracts?u=76281980&t=225)** Now that we have enough information about smart contracts, which is just a piece of code running on the blockchain, let's go ahead and see how we can implement smart contract in [[Swift (Programming Language)|Swift]] using iOS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (15), [[Smart Contracts]] (6), node (3), [[Ethereum]] (2), [[Cryptocurrency]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Smart Contracts]] (6), [[John the Ripper|John]] (6), [[Ethereum]] (2), [[Cryptocurrency]] (2)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (1), is called (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980)
+#### [Implementing smart contracts](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=0)** - [Narrator] Hello and welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=1)** Now that you understand what exactly are smart contracts, let's go ahead and implement a very simple smart contract that is going to allow us to apply transaction fees based on the type of transaction that we're doing.
+> **[0:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=1)** Now that you understand what exactly are [[Smart Contracts]], let's go ahead and implement a very simple smart contract that is going to allow us to apply transaction fees based on the type of transaction that we're doing.
 >
 > **[0:16](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=16)** Currently, our transaction class doesn't even have anything called fees or transaction type, we're going to add that later.
 >
@@ -1371,7 +1356,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=247)** Alright, so now at this point, we are ready to display our transactions.
 >
-> **[4:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=251)** One thing that I would like to do is I would like to make our blockchain codable so that I can display to you in a JSON format.
+> **[4:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=251)** One thing that I would like to do is I would like to make our [[Blockchain]] codable so that I can display to you in a [[JSON]] format.
 >
 > **[4:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=261)** So let's go ahead and create or use codable.
 >
@@ -1389,7 +1374,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=309)** But we don't really want to apply JSON to this, I mean we don't really want this to be part of the JSON display or to encode and decode.
 >
-> **[5:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=321)** So we're gonna use a Swift for features.
+> **[5:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=321)** So we're gonna use a [[Swift (Programming Language)|Swift]] for features.
 >
 > **[5:23](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=323)** Basically, we are going to create an enum, which is going to allow us to define what different properties are going to be part of the codable and the encodable protocol.
 >
@@ -1431,7 +1416,7 @@ created: 2026-05-02
 >
 > **[8:26](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=506)** So you can see that the transaction amount is not 10 dollars, but the transaction amount came out to be 9.8.
 >
-> **[8:34](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=514)** The transaction type is domestic, and to John, the fee is 0.2 from Mary.
+> **[8:34](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=514)** The transaction type is domestic, and to [[John the Ripper|John]], the fee is 0.2 from Mary.
 >
 > **[8:40](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/implementing-smart-contracts?u=76281980&t=520)** So from Mary to John, it's a transaction, and the fees that was charged was 0.2, and that's what's done by the smart contract.
 >
@@ -1453,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Smart Contracts]] (10), [[Blockchain]] (10), [[JSON]] (5), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Smart Contracts]] (10), [[Blockchain]] (10), [[JSON]] (5), [[John the Ripper|John]] (4), [[Swift (Programming Language)|Swift]] (1)
 > **Versions:** 0.02 (2), 0.2 (2), 0.05 (1), 9.8 (1), 0.5 (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** json (5)
@@ -1467,12 +1452,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=0)** - [Instructor] Alright, so, before taking our blockchain to the cloud and exposing it as a web API, let's cover the prerequisites of this section.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=0)** - [Instructor] Alright, so, before taking our [[Blockchain]] to the cloud and exposing it as a web API, let's cover the prerequisites of this section.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=10)** I will be using Vapor 3, which is the latest one right now, to implement the blockchain for the web API, or to put in the blockchain and exposing it as web API.
 >
@@ -1480,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=29)** Now, this course is not really about the Vapor framework, it is about blockchain, so I won't really go deep into what exactly is Vapor.
 >
-> **[0:40](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=40)** I do have other courses, as you can see, which covers the Vapor framework, including Mastering Server Side Swift Using Vapor 3.
+> **[0:40](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=40)** I do have other courses, as you can see, which covers the Vapor framework, including Mastering Server Side [[Swift (Programming Language)|Swift]] Using Vapor 3.
 >
 > **[0:48](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/prerequisites?u=76281980&t=48)** So, if you do want to dive into the Vapor 3 framework, your best course would be this one.
 >
@@ -1500,7 +1484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), web (4), api (4), cloud (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (3), brew (3)
 > **Env Vars:** api (4)
 > **UI Navigation:** go to (2)
@@ -1509,8 +1493,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a server-side Swift project using Vapor
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980)
+#### [Setting up a server-side Swift project using Vapor](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=9)** So I'm gonna run vapor new and give it some sort of a name for your project, all right?
 >
-> **[0:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=17)** So I'm just gonna say over here you know, blockchain web api.
+> **[0:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=17)** So I'm just gonna say over here you know, [[Blockchain]] web api.
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=25)** But obviously you can name it anything that you like.
 >
@@ -1530,7 +1513,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=47)** So let's go ahead and jump into the particular folder and you'll see different files and sources folder and public folder and packaged or server sectra inside that particular folder.
 >
-> **[0:59](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=59)** But one thing you will notice is that you currently don't have any Xcode Project.
+> **[0:59](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=59)** But one thing you will notice is that you currently don't have any [[Xcode]] Project.
 >
 > **[1:05](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=65)** So if you don't have Xcode how are you even going to open this in Xcode?
 >
@@ -1574,7 +1557,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=190)** All right, so now that the build is finished, go ahead and open up the app folder and go to the routes.
 >
-> **[3:16](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=196)** Now there is already a bunch of code written in the routes or swift file.
+> **[3:16](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=196)** Now there is already a bunch of code written in the routes or [[Swift (Programming Language)|swift]] file.
 >
 > **[3:22](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-server-side-swift-project-using-vapor?u=76281980&t=202)** I haven't written any of this code, this code comes by default when you create a brand new Vapor project.
 >
@@ -1598,7 +1581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (16), [[Blockchain]] (2), web (2), api (2), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (16), [[Blockchain]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** go to (5), click on (2), select the (1)
 > **Versions:** 9.3 (4), 9.4 (2)
 > **CLI Commands:** make (2), find (1)
@@ -1607,18 +1590,17 @@ created: 2026-05-02
 > **Ports:** :8080 (1)
 > **Cross-References:** in the next (1)
 
-#### Setting up a controller and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980)
+#### [Setting up a controller and services](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=0)** - [Teacher] Okay, so now that we have confirmed that our route for "Hello, world!" is working, or any other route if we build one, it's working, we can go ahead and implement all the routes right over here in the routes.swift file.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=0)** - [Teacher] Okay, so now that we have confirmed that our route for "Hello, world!" is working, or any other route if we build one, it's working, we can go ahead and implement all the routes right over here in the routes.[[Swift (Programming Language)|swift]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=15)** But it's not really recommended that you do this way, because this particular file can grow up to be very big, and it will turn into a really bad, dirty spaghetti code.
 >
 > **[0:27](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=27)** So let's go ahead and organize the record in a form of controller and services.
 >
-> **[0:32](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=32)** So instead of writing all the code of our block chain over here, what I'm gonna do is I'm gonna add a brand New File, which will serve as a blockchain controller.
+> **[0:32](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=32)** So instead of writing all the code of our block chain over here, what I'm gonna do is I'm gonna add a brand New File, which will serve as a [[Blockchain]] controller.
 >
 > **[0:41](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/setting-up-a-controller-and-services?u=76281980&t=41)** So all the different actions or routes that's gonna happen will be going inside the block chain controller.
 >
@@ -1692,7 +1674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (15), [[Swift (Programming Language)|Swift]] (1), api (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** blockchaincontroller (3), blockchainservice (2), blockchaincontrollers (1)
 > **Definitions:** is a  (4), means that (1), is called (1)
 > **CLI Commands:** make (3)
@@ -1701,18 +1683,17 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Best Practices:** recommended (1)
 
-#### Returning the blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980)
+#### [Returning the blockchain](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=0)** - [Instructor] Okay, so in the last lecture we set up our blockchain controller as well as a blockchain service, and now we need to use our blockchain controller to return us the blockchain.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=0)** - [Instructor] Okay, so in the last lecture we set up our [[Blockchain]] controller as well as a blockchain service, and now we need to use our blockchain controller to return us the blockchain.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=12)** But the first question is: How do we even get access to the blockchain?
 >
-> **[0:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=17)** Remember, we were typing a lot of code in Xcode playgrounds.
+> **[0:17](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=17)** Remember, we were typing a lot of code in [[Xcode]] playgrounds.
 >
-> **[0:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=21)** So I have added all of that code, which basically presents a transaction, the block, as well as a blockchain, into Models.swift file.
+> **[0:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=21)** So I have added all of that code, which basically presents a transaction, the block, as well as a blockchain, into Models.[[Swift (Programming Language)|swift]] file.
 >
 > **[0:32](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=32)** So this is all the code that we have already been done.
 >
@@ -1778,7 +1759,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=235)** So if I go ahead and find out all of them, you can even Command-click on that, and jumping to the definition, so you're gonna see that this particular protocol, Content, is using the Codable protocol.
 >
-> **[4:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=251)** So just by using Content protocol, you will automatically start using Codable, which will make sure that all your classes, which in this case is Transaction, Block, and Blockchain, can be converted to JSON easily.
+> **[4:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=251)** So just by using Content protocol, you will automatically start using Codable, which will make sure that all your classes, which in this case is Transaction, Block, and Blockchain, can be converted to [[JSON]] easily.
 >
 > **[4:27](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/returning-the-blockchain?u=76281980&t=267)** Now the other thing that you need to do is you need to make sure that these, all classes are final, meaning you cannot really inherit from these classes.
 >
@@ -1808,7 +1789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (39), application (2), cloud (2), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (39), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1), [[JSON]] (1)
 > **Code Identifiers:** getblockchain (4), genesisblock (1), blockchaincontroller (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1817,12 +1798,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), initialization (1)
 > **File Paths:** models.swift (1)
 
-#### Mining a block
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-a-block?u=76281980)
+#### [Mining a block](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-a-block?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-a-block?u=76281980&t=0)** - [Instructor] In the last lecture, you learned that how you can return a blockchain in JSON format from our Web API implemented in Vapor.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-a-block?u=76281980&t=0)** - [Instructor] In the last lecture, you learned that how you can return a [[Blockchain]] in [[JSON]] format from our Web API implemented in Vapor.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-a-block?u=76281980&t=10)** But let's see how we can actually mine a new block.
 >
@@ -1966,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (21), [[JSON]] (11), next (5), web (1), api (1)
+> **Frameworks & Libraries:** [[Blockchain]] (21), [[JSON]] (11)
 > **Env Vars:** json (11), url (5), api (1), post (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (2), make (1)
@@ -1981,12 +1961,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating node models
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980)
+#### [Creating node models](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=0)** - [Instructor] In the last section, you learned how you can take your blockchain to the Cloud by using the Vapor framework.
+> **[0:00](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=0)** - [Instructor] In the last section, you learned how you can take your [[Blockchain]] to the Cloud by using the Vapor framework.
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=8)** But even though we were able to take it to the Cloud, it was a more of a centralized server that was running.
 >
@@ -2046,7 +2025,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=187)** And initialize it as an empty array.
 >
-> **[3:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=190)** Obviously we are using swift, and swift can infer the types.
+> **[3:10](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=190)** Obviously we are using [[Swift (Programming Language)|swift]], and swift can infer the types.
 >
 > **[3:14](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=194)** I don't really have to define this.
 >
@@ -2188,7 +2167,7 @@ created: 2026-05-02
 >
 > **[8:50](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=530)** First chain this to post, because we're actually posting.
 >
-> **[8:53](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=533)** The header, since we are sending in the JSON with send the content type, to application JSON.
+> **[8:53](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=533)** The header, since we are sending in the [[JSON]] with send the content type, to application JSON.
 >
 > **[9:04](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/creating-node-models?u=76281980&t=544)** I can go to the body, select raw.
 >
@@ -2298,7 +2277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (47), node (27), application (8), [[JSON]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Blockchain]] (47), [[JSON]] (3), [[Swift (Programming Language)|Swift]] (2)
 > **CLI Commands:** node (27), make (4), find (1)
 > **UI Navigation:** go to (9), open the (1)
 > **Env Vars:** url (5), json (3)
@@ -2307,8 +2286,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), be careful (1)
 > **Definitions:** is a  (1)
 
-#### Mining on nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980)
+#### [Mining on nodes](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,7 +2306,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=63)** You can see all of the hashes are done and our server is now running on local host 8080.
 >
-> **[1:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=71)** I can simply copy the URL and switch to a Postman and go ahead and request the blockchain.
+> **[1:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=71)** I can simply copy the URL and switch to a Postman and go ahead and request the [[Blockchain]].
 >
 > **[1:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=81)** You can see when I request the blockchain, I get the blockchain with only one node.
 >
@@ -2360,11 +2338,11 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=183)** And this information is transaction.
 >
-> **[3:05](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=185)** So, let's first go ahead and set the content type to be application json because we will be sending it in the form of json.
+> **[3:05](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=185)** So, let's first go ahead and set the content type to be application [[JSON]] because we will be sending it in the form of json.
 >
 > **[3:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=195)** I'm gonna select raw because I will be typing in json by hand.
 >
-> **[3:19](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=199)** There are three properties that we need to define from, I can state it from John, to which I can say over here, maybe, the name Mary and the amount that is going from John to Mary we can say $100.
+> **[3:19](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=199)** There are three properties that we need to define from, I can state it from [[John the Ripper|John]], to which I can say over here, maybe, the name Mary and the amount that is going from John to Mary we can say $100.
 >
 > **[3:35](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/mining-on-nodes?u=76281980&t=215)** Let's go ahead and send it.
 >
@@ -2408,7 +2386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (26), node (3), [[JSON]] (3), application (1), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (26), [[JSON]] (3), [[John the Ripper|John]] (2)
 > **CLI Commands:** node (3), make (1), find (1)
 > **Definitions:** is called (2), means that (1)
 > **Env Vars:** url (2)
@@ -2417,8 +2395,7 @@ created: 2026-05-02
 > **Code Identifiers:** updated (1)
 > **Cross-References:** go back to (1)
 
-#### Resolving conflicts
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980)
+#### [Resolving conflicts](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2426,7 +2403,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=8)** Now we're gonna learn that how we can resolve conflicts between different nodes, so let's get started.
 >
-> **[0:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=15)** I'm gonna jump into the blockchain service and create a function which will be responsible for resolving the conflicts between blockchains existing on different nodes.
+> **[0:15](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=15)** I'm gonna jump into the [[Blockchain]] service and create a function which will be responsible for resolving the conflicts between blockchains existing on different nodes.
 >
 > **[0:29](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=29)** I've called this function, resolve, and this is going to take in a completion which will return us a blockchain, the resolved blockchain in this case.
 >
@@ -2452,7 +2429,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=139)** That is one of the common mistakes that people do and can end up with hours and hours of debugging, so make sure you call resume.
 >
-> **[2:30](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=150)** You're to go ahead and unwrap the data, now the data that we're going to receive from the blockchain route will be an actual blockchain, so let's go ahead and convert it using the JSON decoder, so JSONDecoder.decode and we're gonna decode the blockchain itself, so it'll be Blockchain.self, and from the data which we are already passed to.
+> **[2:30](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=150)** You're to go ahead and unwrap the data, now the data that we're going to receive from the blockchain route will be an actual blockchain, so let's go ahead and convert it using the [[JSON]] decoder, so JSONDecoder.decode and we're gonna decode the blockchain itself, so it'll be Blockchain.self, and from the data which we are already passed to.
 >
 > **[3:01](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=181)** At this point we can go ahead and compare the blockchain which we have over here versus the blockchain which is running on this particular node so if the blockchain which is currently on this node is greater than the blockchain which we have just received, then this means that we can simply call the blockchain or the completion, passing in self.blockchain, basically the bigger blockchain.
 >
@@ -2482,7 +2459,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=340)** Alright that's pretty much it, the only thing remaining to do is to register our resolve in the routes.
 >
-> **[5:47](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=347)** So I'm gonna jump into the routes.swift file and I'm gonna go ahead and register this particular route.
+> **[5:47](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=347)** So I'm gonna jump into the routes.[[Swift (Programming Language)|swift]] file and I'm gonna go ahead and register this particular route.
 >
 > **[5:53](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=353)** This part will be called resolve, and it's going to use the blockchainController.resolve.
 >
@@ -2490,7 +2467,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=371)** So let's go ahead and run two different servers, one on port number 8080 and one on port number 8090.
 >
-> **[6:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=381)** Alright so let's start the server, I'm gonna first server I'm gonna start is from within the Xcode, and this server is going to run on the default port which I will leave it as 8080.
+> **[6:21](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=381)** Alright so let's start the server, I'm gonna first server I'm gonna start is from within the [[Xcode]], and this server is going to run on the default port which I will leave it as 8080.
 >
 > **[6:32](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift/resolving-conflicts?u=76281980&t=392)** But the second server that I'm going to start will be from the terminal, and I can simply go ahead and say vapor run - - port equals to 8090.
 >
@@ -2530,7 +2507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (38), node (7), data (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (38), [[Swift (Programming Language)|Swift]] (2), [[JSON]] (1), [[Xcode]] (1)
 > **CLI Commands:** node (7), make (2)
 > **Env Vars:** url (6), post (2), json (1)
 > **Code Identifiers:** eventloop (1), newpromise (1), blockchainservice (1), futureresult (1), blockchaincontroller (1)

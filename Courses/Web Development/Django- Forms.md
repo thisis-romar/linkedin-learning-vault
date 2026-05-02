@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deep dive into Django forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980)
+#### [Deep dive into Django forms](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980&t=0)** - Django Forms makes collecting and validating data from a user incredibly simple.
+> **[0:00](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980&t=0)** - [[Django]] [[Forms]] makes collecting and validating data from a user incredibly simple.
 >
 > **[0:05](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980&t=5)** It has a native form framework that is highly customizable.
 >
@@ -104,23 +103,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (2), [[Forms]] (2), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Django]] (2), [[Forms]] (2)
 > **Speakers:** - django (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=1)** - [Narrator] So before we start this course, let's go quickly over what it is that you should know before you begin.
 >
-> **[0:06](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=6)** You should have a basic grasp of Python 3.
+> **[0:06](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=6)** You should have a basic grasp of [[Python (Programming Language)|Python]] 3.
 >
 > **[0:09](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=9)** We're going to be using Python 3.7, but if you've used any of the recent versions of Python 3, you'll be more than fine.
 >
 > **[0:16](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=16)** You should be familiar with pip to install packages via Python.
 >
-> **[0:20](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=20)** Also you should be able to build a decent basic Django project.
+> **[0:20](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=20)** Also you should be able to build a decent basic [[Django]] project.
 >
 > **[0:25](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=25)** If you have any questions about that, please check out my course, [[Building a Personal Portfolio with Django]].
 >
@@ -132,13 +130,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=52)** I'm going to be using Adam, but feel free to use whatever you'd like.
 >
-> **[0:56](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=56)** Also, you should have some basic HTML and JavaScript knowledge for this course.
+> **[0:56](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=56)** Also, you should have some basic [[HTML]] and [[JavaScript]] knowledge for this course.
 >
 > **[1:02](https://www.linkedin.com/learning/django-forms/what-you-should-know?u=76281980&t=62)** Basically, be able to work with web technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Django]] (3), next (1), [[HTML]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Django]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (4), pip (1), make (1)
 > **Versions:** python 3 (3)
 > **Prerequisites:** before we start (1), before you begin (1), install (1)
@@ -146,12 +144,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Project walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/project-walkthrough?u=76281980)
+#### [Project walkthrough](https://www.linkedin.com/learning/django-forms/project-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/project-walkthrough?u=76281980&t=1)** - [Narrator] Now to give you a good idea about how Django forms work and where it is that we're going to be going in this course, I'd like to walk you through the end result.
+> **[0:01](https://www.linkedin.com/learning/django-forms/project-walkthrough?u=76281980&t=1)** - [Narrator] Now to give you a good idea about how [[Django]] [[Forms]] work and where it is that we're going to be going in this course, I'd like to walk you through the end result.
 >
 > **[0:09](https://www.linkedin.com/learning/django-forms/project-walkthrough?u=76281980&t=9)** We're going to be creating a website for a fictional restaurant called Nandia's Garden, and in Nandia's Garden, they have a big feature request.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), hit (3), [[Django]] (2), database (2), feature (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Django]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -202,8 +199,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting a new project
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980)
+#### [Starting a new project](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=50)** There you can see on our left, in parentheses, that we're inside of this Virtual Environment now.
 >
-> **[0:55](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=55)** So, with that in place, we need to make sure that we have Django installed.
+> **[0:55](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=55)** So, with that in place, we need to make sure that we have [[Django]] installed.
 >
 > **[0:59](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=59)** Let's do a pip install of Django.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=124)** Then once we're in there, let's just go ahead and test that our Django project is working.
 >
-> **[2:09](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=129)** Let's do python manage.py runserver.
+> **[2:09](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=129)** Let's do [[Python (Programming Language)|python]] manage.py runserver.
 >
 > **[2:14](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980&t=134)** And let's go ahead and move over to our browser, make sure we have the initial starting page.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (6), cd (2), hit (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), cd (2), ls (2), find (1), pip3 (1)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** manage.py (1)
@@ -274,8 +270,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** short for (1)
 
-#### Making forms from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980)
+#### [Making forms from scratch](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=14)** Go ahead and hit control C to get out of your server.
 >
-> **[0:17](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=17)** Then once you've done that let's go ahead and use our django-admin again, and we are going to start an app called pizza.
+> **[0:17](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=17)** Then once you've done that let's go ahead and use our [[Django]]-admin again, and we are going to start an app called pizza.
 >
 > **[0:26](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=26)** All of our codes around ordering pizza will live here.
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=91)** And then we'll say views.home for that, and let's go ahead and give it a name the same variety, we'll simply call it home, add a coma afterwards.
 >
-> **[1:43](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=103)** Let's go ahead and copy that path, paste it down below this time it will be for ordering, so we'll put the word order here, and same thing for the views, we'll change that to order, and also its name.
+> **[1:43](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=103)** Let's go ahead and copy that path, paste it down below this time it will be for ordering, so we'll put the [[Microsoft Word|word]] order here, and same thing for the views, we'll change that to order, and also its name.
 >
 > **[1:58](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=118)** Okay, so now we have the URL paths for two different places, the home page and the order page.
 >
@@ -317,7 +312,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=150)** So we'll go to pizza, views.
 >
-> **[2:34](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=154)** We'll first create a view for our home page, let's say def home, pass a request into there, as a parameter, and what we want to do is return a render where we first have the request, and then we're looking for a template called pizza/home.html, okay?
+> **[2:34](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=154)** We'll first create a view for our home page, let's say def home, pass a request into there, as a parameter, and what we want to do is return a render where we first have the request, and then we're looking for a template called pizza/home.[[HTML]], okay?
 >
 > **[3:01](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=181)** Our order page is going to be very similar so go ahead and copy our home function.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=301)** You can't get anything to show up if you don't have your server to start.
 >
-> **[5:05](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=305)** So, let's go ahead and do our python, manage.py, run server,
+> **[5:05](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=305)** So, let's go ahead and do our [[Python (Programming Language)|python]], manage.py, run server,
 >
 > **[5:14](https://www.linkedin.com/learning/django-forms/making-forms-from-scratch?u=76281980&t=314)** and look our server is up and running.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), hit (3), [[Django]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Django]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (9), ls (1), python (1)
 > **File Paths:** order.html (3), urls.py (2), home.html (2), settings.py (1), pizza/home.html (1)
 > **Exercise Files:** template (5)
@@ -366,18 +361,17 @@ created: 2026-05-02
 > **Env Vars:** url (2)
 > **Tools:** atom (2)
 
-#### Form fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980)
+#### [Form fields](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=1)** - [Narrator] This order page right now is really empty.
 >
-> **[0:03](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=3)** In fact, this is where we're going to be building most of the magic of forms.
+> **[0:03](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=3)** In fact, this is where we're going to be building most of the magic of [[Forms]].
 >
-> **[0:07](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=7)** So let's go ahead and spice up our order.html.
+> **[0:07](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=7)** So let's go ahead and spice up our order.[[HTML]].
 >
-> **[0:10](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=10)** So inside of our order.html, the big thing that we want to talk about in this video is how to create a form on our own, customize the fields, and use everything with our own power, and then that'll allow us to see the magic of Django's forms.
+> **[0:10](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=10)** So inside of our order.html, the big thing that we want to talk about in this video is how to create a form on our own, customize the fields, and use everything with our own power, and then that'll allow us to see the magic of [[Django]]'s forms.
 >
 > **[0:25](https://www.linkedin.com/learning/django-forms/form-fields?u=76281980&t=25)** So let's go ahead and start by creating a new form.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), [[HTML]] (2), power (1), [[Django]] (1), feature (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[HTML]] (2), [[Django]] (1)
 > **CLI Commands:** make (5)
 > **File Paths:** order.html (2)
 > **Cross-References:** go back to (1)
@@ -509,8 +503,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Submitting forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/submitting-forms?u=76281980)
+#### [Submitting forms](https://www.linkedin.com/learning/django-forms/submitting-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/django-forms/submitting-forms?u=76281980&t=215)** So reload, we're going to type in some information here, we'll use the cheese and pepperoni, but you'll notice when we hit Order Pizza, we get a big nasty error and it says, hey, you don't have a CSRF verification and so this is a cross-site scripting protection.
 >
-> **[3:53](https://www.linkedin.com/learning/django-forms/submitting-forms?u=76281980&t=233)** And so in order to have this as a Django thing, the first part of our form here we're simply just going to add the following tab.
+> **[3:53](https://www.linkedin.com/learning/django-forms/submitting-forms?u=76281980&t=233)** And so in order to have this as a [[Django]] thing, the first part of our form here we're simply just going to add the following tab.
 >
 > **[4:00](https://www.linkedin.com/learning/django-forms/submitting-forms?u=76281980&t=240)** Curly brackets with percentage signs and then we're just going to say lower case csrf_token.
 >
@@ -604,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Scripting]] (2), data (1), [[Django]] (1), database (1)
+> **Frameworks & Libraries:** [[Django]] (1)
 > **Env Vars:** url (6), post (6), csrf (1)
 > **API Endpoints:** get  (6), post  (4)
 > **CLI Commands:** make (3)
@@ -613,8 +606,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Django form class
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980)
+#### [Django form class](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,11 +614,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=3)** We've seen how we can create labels for the different inputs and that there's different types of inputs, we've learned how to submit that, the thing is, there's a much simpler way of doing this.
 >
-> **[0:14](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=14)** And the reason that I showed you this, the sort of manual, hard-working way here, is to give you appreciation for how awesome django can make this process.
+> **[0:14](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=14)** And the reason that I showed you this, the sort of manual, hard-working way here, is to give you appreciation for how awesome [[Django]] can make this process.
 >
 > **[0:23](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=23)** So, let's go ahead and go into our pizza directory here.
 >
-> **[0:25](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=25)** We're going to create a new file and we're going to call this forms.py.
+> **[0:25](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=25)** We're going to create a new file and we're going to call this [[Forms]].py.
 >
 > **[0:31](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=31)** So inside of our forms.py, we need to import some code from django, so we're going to say up at the top here, from django import forms.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=49)** So we're going to type out class capital Pizza capital Form and this is going to come from lower case forms.Form do our semicolon there and then now with this class, we can specify the fields that we want to be inside of this form.
 >
-> **[1:08](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=68)** So, if we go back to our order.html, you can see we want to have a topping1, a topping2, and a size.
+> **[1:08](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=68)** So, if we go back to our order.[[HTML]], you can see we want to have a topping1, a topping2, and a size.
 >
 > **[1:16](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=76)** So, let's go ahead and do that.
 >
@@ -654,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=155)** So we'll say choices is equal to and we need to provide a list here so the first item on the list is, we're going to specify, and in parentheses here, we want small, okay, and then we'll do a comma on that, and then we'll provide small again do comma, one half capital Medium, make sure that's in a string there, comma, we'll also do medium.
 >
-> **[3:03](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=183)** The reason that we're using the same word here is you can have a visual name but also a different name that gets passed via your form if you'd like to specify that, but for us, we're just going to keep each the same to make it simple.
+> **[3:03](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=183)** The reason that we're using the same [[Microsoft Word|word]] here is you can have a visual name but also a different name that gets passed via your form if you'd like to specify that, but for us, we're just going to keep each the same to make it simple.
 >
 > **[3:18](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=198)** Go ahead and enter that in.
 >
@@ -672,7 +664,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=247)** So we'll go ahead and save this and now, this is the real magical part.
 >
-> **[4:12](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=252)** When we go to our order.html we can take everything, keep your input for submitting and keep your csrf token, but take the rest of this text delete that and simply just put that we want to include our pizzaform that we passed to this template.
+> **[4:12](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=252)** When we go to our order.html we can take everything, keep your input for submitting and keep your csrf token, but take the [[Representational State Transfer (REST)|rest]] of this text delete that and simply just put that we want to include our pizzaform that we passed to this template.
 >
 > **[4:30](https://www.linkedin.com/learning/django-forms/django-form-class?u=76281980&t=270)** If we hit save and now go move to our home page reload you can see it's the exact same, we have the exact same form here, right?
 >
@@ -699,8 +691,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Using submitted data
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/using-submitted-data?u=76281980)
+#### [Using submitted data](https://www.linkedin.com/learning/django-forms/using-submitted-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +747,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/django-forms/using-submitted-data?u=76281980&t=258)** Alright, so with this in place, we'll go ahead and hit save.
 >
-> **[4:22](https://www.linkedin.com/learning/django-forms/using-submitted-data?u=76281980&t=262)** Then, we need to move over to our order.html so that we can display what the note was.
+> **[4:22](https://www.linkedin.com/learning/django-forms/using-submitted-data?u=76281980&t=262)** Then, we need to move over to our order.[[HTML]] so that we can display what the note was.
 >
 > **[4:29](https://www.linkedin.com/learning/django-forms/using-submitted-data?u=76281980&t=269)** So, we'll go ahead and create an H2 tag here, and here we'll just display whatever is inside of note.
 >
@@ -782,7 +773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (4), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** filled_form (2), is_valid (1)
 > **File Paths:** views.py (1), order.html (1)
@@ -797,8 +788,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding models
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980)
+#### [Adding models](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +812,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=56)** This is going to be a models.Charfield, and with this we're going to specify that the name of this should not be longer than 100 characters, so we'll say max_length is equal to 100 and that's really all we need for the size class.
 >
-> **[1:16](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=76)** We're going to provide one more function here, and that's just so that we'll be able to display a size class correctly showing the title, so we're going to do a def, and we'll do two underscores, str, two underscores again, and then pass self inside of our parentheses, and we'll do our semicolon, and here we simply just want to return whatever self.title is, so this will help us for showing the size in forms, also inside of the Admin panel, this just make things look that much cleaner.
+> **[1:16](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=76)** We're going to provide one more function here, and that's just so that we'll be able to display a size class correctly showing the title, so we're going to do a def, and we'll do two underscores, str, two underscores again, and then pass self inside of our parentheses, and we'll do our semicolon, and here we simply just want to return whatever self.title is, so this will help us for showing the size in [[Forms]], also inside of the Admin panel, this just make things look that much cleaner.
 >
 > **[1:49](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=109)** So, with this in place, let's go ahead and create our second class now which is the pizza class.
 >
@@ -854,7 +844,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=252)** Let's go ahead and hit Control + C to stop the server.
 >
-> **[4:16](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=256)** Then we're going to do python manage.py makemigrations.
+> **[4:16](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=256)** Then we're going to do [[Python (Programming Language)|python]] manage.py makemigrations.
 >
 > **[4:22](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980&t=262)** Go ahead and hit Enter on that.
 >
@@ -894,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Python (Programming Language)|Python]] (4), [[Forms]] (3), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Forms]] (3)
 > **CLI Commands:** make (7), python (4)
 > **File Paths:** manage.py (4), models.py (1), admin.py (1)
 > **Code Identifiers:** max_length (2), on_delete (1)
@@ -903,12 +893,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Model forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980)
+#### [Model forms](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=1)** - [Instructor] So, now that we have a new model, we're going to create a new form that's based off that model and it's going to saved us even more time than we already save from creating this Django Form.
+> **[0:01](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=1)** - [Instructor] So, now that we have a new model, we're going to create a new form that's based off that model and it's going to saved us even more time than we already save from creating this [[Django]] Form.
 >
 > **[0:11](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=11)** You're going to see, this is going to be really incredible.
 >
@@ -930,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=50)** Notice this is the exact same name that we have here, so this won't disrupt any of our view code or anything like that.
 >
-> **[0:56](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=56)** We're going to say pizza form is coming from lowercase forms dot capital model form, do our colon here, and then we just have to provide some information here.
+> **[0:56](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=56)** We're going to say pizza form is coming from lowercase [[Forms]] dot capital model form, do our colon here, and then we just have to provide some information here.
 >
 > **[1:09](https://www.linkedin.com/learning/django-forms/model-forms?u=76281980&t=69)** This is called meta information.
 >
@@ -1004,19 +993,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[Django]] (3), hit (3)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Django]] (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/working-with-widgets?u=76281980)
+#### [Working with widgets](https://www.linkedin.com/learning/django-forms/working-with-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/working-with-widgets?u=76281980&t=1)** - [Instructor] In our last video, we talked about how we could customize forms, and I'm going to show you how we can customize even further with something called widgets.
+> **[0:01](https://www.linkedin.com/learning/django-forms/working-with-widgets?u=76281980&t=1)** - [Instructor] In our last video, we talked about how we could customize [[Forms]], and I'm going to show you how we can customize even further with something called widgets.
 >
 > **[0:09](https://www.linkedin.com/learning/django-forms/working-with-widgets?u=76281980&t=9)** So to start here, let's say when someone's ordering a pizza, we think this little text box here is not enough space for them to talk about, you know, what it is they want on each particular topping.
 >
@@ -1167,12 +1155,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/advanced-widgets?u=76281980)
+#### [Advanced widgets](https://www.linkedin.com/learning/django-forms/advanced-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/advanced-widgets?u=76281980&t=1)** - [Instructor] So you've gotten a nice taste of the things that we can do with widgets, but we can do them not only just in a regular form, but we can also use them in model forms.
+> **[0:01](https://www.linkedin.com/learning/django-forms/advanced-widgets?u=76281980&t=1)** - [Instructor] So you've gotten a nice taste of the things that we can do with widgets, but we can do them not only just in a regular form, but we can also use them in model [[Forms]].
 >
 > **[0:11](https://www.linkedin.com/learning/django-forms/advanced-widgets?u=76281980&t=11)** So let's go ahead and comment out our top form that we have, and we will uncomment our model form below and I'll show you how we can now use widgets to make some sort of specific change if we'd like to.
 >
@@ -1220,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), hit (1)
+> **Frameworks & Libraries:** [[Forms]] (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** empty_label (1)
 > **Cross-References:** go back to (1)
@@ -1229,18 +1216,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forms and files
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980)
+#### [Forms and files](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=1)** - A very great feature of forms that we have not discussed yet is the ability to take files that the user wants to upload to us, whether it's going to be images or some sort of CSV data.
+> **[0:01](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=1)** - A very great feature of [[Forms]] that we have not discussed yet is the ability to take files that the user wants to upload to us, whether it's going to be images or some sort of CSV data.
 >
 > **[0:13](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=13)** Whatever it is, we can accept that into our project via forms.
 >
 > **[0:17](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=17)** If you're going to accept some sort of file, there's a few different pieces that we have to make sure are ready to accept it.
 >
-> **[0:25](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=25)** The first one is, we have to move to our order.html.
+> **[0:25](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=25)** The first one is, we have to move to our order.[[HTML]].
 >
 > **[0:28](https://www.linkedin.com/learning/django-forms/forms-and-files?u=76281980&t=28)** In our form, we have to specify that it's going to be able to take this type of information.
 >
@@ -1304,7 +1290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), [[HTML]] (3), hit (3), data (2), feature (1)
+> **Frameworks & Libraries:** [[Forms]] (5), [[HTML]] (3)
 > **File Paths:** order.html (2), views.py (2), forms.py (1)
 > **CLI Commands:** make (3), pip (2)
 > **Env Vars:** files (2), csv (1), html (1)
@@ -1313,18 +1299,17 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 
-#### Formsets: Multiple forms on a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980)
+#### [Formsets: Multiple forms on a page](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=1)** - [Instructor] We've gone very in-depth with forms, but I'm here to take you to the next level by talking about something called form sets.
+> **[0:01](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=1)** - [Instructor] We've gone very in-depth with [[Forms]], but I'm here to take you to the next level by talking about something called form sets.
 >
 > **[0:09](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=9)** Form sets allow you to take one form and repeat it over and over, so in our case, people could order multiple pizzas at once.
 >
 > **[0:18](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=18)** So, form sets take some work.
 >
-> **[0:20](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=20)** We're going to have to move step by step in order to get this live, but let's go ahead and start here inside of our order.html.
+> **[0:20](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=20)** We're going to have to move step by step in order to get this live, but let's go ahead and start here inside of our order.[[HTML]].
 >
 > **[0:27](https://www.linkedin.com/learning/django-forms/formsets-multiple-forms-on-a-page?u=76281980&t=27)** And we want to be able to send people over to our order page to order multiple pizzas, so let's go ahead and put in a few BR tags so that there's enough space in between the above order form and what we're creating down below.
 >
@@ -1400,7 +1385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), next (5), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (5), [[HTML]] (1)
 > **Code Identifiers:** multiple_form (5), min_value (1)
 > **Env Vars:** url (3)
 > **UI Navigation:** go to (2)
@@ -1409,8 +1394,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formset views
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980)
+#### [Formset views](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1420,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=97)** Now, after that, what we need to do is to create a class that's going to hold our formset.
 >
-> **[1:44](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=104)** Now in order to do that, we're going to have to import some code up at the top here, so what we're going to say is, from django.forms import, and we want to get formset_factory.
+> **[1:44](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=104)** Now in order to do that, we're going to have to import some code up at the top here, so what we're going to say is, from [[Django]].[[Forms]] import, and we want to get formset_factory.
 >
 > **[2:03](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=123)** Okay, so with that in place, we'll come back down.
 >
@@ -1480,7 +1464,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=340)** Alright, so with that in place, after we've done our little if else here, we want to return a render of the request.
 >
-> **[5:51](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=351)** We also want to pass forward the proper template, which doesn't exist yet, but we'll say pizza/pizzas.html, and we want to pass forward both the note that we've just created here.
+> **[5:51](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=351)** We also want to pass forward the proper template, which doesn't exist yet, but we'll say pizza/pizzas.[[HTML]], and we want to pass forward both the note that we've just created here.
 >
 > **[6:09](https://www.linkedin.com/learning/django-forms/formset-views?u=76281980&t=369)** So we'll say :note.
 >
@@ -1492,7 +1476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Django]] (1), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[Forms]] (1), [[HTML]] (1)
 > **Code Identifiers:** filled_multiple_pizza_form (3), is_valid (3), cleaned_data (3), formset_factory (3), filled_formset (3)
 > **CLI Commands:** make (4), find (1)
 > **API Endpoints:** post  (2), get
@@ -1502,8 +1486,7 @@ created: 2026-05-02
 > **File Paths:** pizza/pizzas.html (1)
 > **Exercise Files:** template (1)
 
-#### Controlling the number of formsets
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980)
+#### [Controlling the number of formsets](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,7 +1502,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=31)** Now, with that in place, we've got to go create a new template.
 >
-> **[0:34](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=34)** So under here, I'm going to create a new pizzas.html.
+> **[0:34](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=34)** So under here, I'm going to create a new pizzas.[[HTML]].
 >
 > **[0:40](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=40)** And inside of our pizzas.html, we want a few pieces of information, so let's make like a h1 tag.
 >
@@ -1531,7 +1514,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=70)** Excellent, now it's time for us to create our form, and this is not any ordinary form.
 >
-> **[1:15](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=75)** This is going to be the formset form, so it's essentially a bunch of forms all combined into one.
+> **[1:15](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=75)** This is going to be the formset form, so it's essentially a bunch of [[Forms]] all combined into one.
 >
 > **[1:22](https://www.linkedin.com/learning/django-forms/controlling-the-number-of-formsets?u=76281980&t=82)** Now, at the end of the day, it's actually just one form, but there's a lot of fields that's going to be handled here.
 >
@@ -1623,7 +1606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), management (2), hit (2), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **File Paths:** pizzas.html (2), views.py (1)
 > **Cross-References:** go back to (2), in the next (1)
@@ -1632,8 +1615,7 @@ created: 2026-05-02
 > **Env Vars:** url (2)
 > **Tools:** terminal (2)
 
-#### Editing objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/editing-objects?u=76281980)
+#### [Editing objects](https://www.linkedin.com/learning/django-forms/editing-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,11 +1671,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/django-forms/editing-objects?u=76281980&t=233)** So if this is the case lets go ahead, even if it's a post or a get, either way we want to return a render.
 >
-> **[4:00](https://www.linkedin.com/learning/django-forms/editing-objects?u=76281980&t=240)** So I'm going to copy one of these that we have from above and paste it, this time instead of just pizzas.html we want edit_order.html, in the data that we want to pass through here, is one called pizza form, and this is just going to be equal to our form object and we also want to pass inside of here our pizza, so we'll simply say pizza and then pass forward the pizza object.
+> **[4:00](https://www.linkedin.com/learning/django-forms/editing-objects?u=76281980&t=240)** So I'm going to copy one of these that we have from above and paste it, this time instead of just pizzas.[[HTML]] we want edit_order.html, in the data that we want to pass through here, is one called pizza form, and this is just going to be equal to our form object and we also want to pass inside of here our pizza, so we'll simply say pizza and then pass forward the pizza object.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[HTML]] (2), database (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Code Identifiers:** edit_order (3), createdpizza_pk (2), modelsimportpizza (1), is_valid (1)
 > **CLI Commands:** make (6)
 > **File Paths:** pizzas.html (1), edit_order.html (1)
@@ -1702,14 +1684,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Input confirmation
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980)
+#### [Input confirmation](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=0)** - [Narrator] So we'll go ahead and save this, this is all the code that we need inside of our views.
 >
-> **[0:05](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=5)** Then, we're going to go ahead and move over to our order.html, and we're going to provide a little bit of information after our note.
+> **[0:05](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=5)** Then, we're going to go ahead and move over to our order.[[HTML]], and we're going to provide a little bit of information after our note.
 >
 > **[0:11](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=11)** So we're going to say, all right, if we have a variable called created_pizza_pk, if this is something, and make sure whenever you make an if, you've got to have the ending if, so we're going to put and endif right at the end of there, but if we have this information, what we want to do is create an a tag, with an href, to take somebody to go edit their pizza.
 >
@@ -1719,7 +1700,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=85)** And inside of this edit order, this is going to be very similar to what we've seen inside of some other places, so we're going to have an h1 tag, we'll copy that over, this should just say something like edit pizza.
 >
-> **[1:37](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=97)** But we're also going to have a very similar form, so let's go ahead and copy the form that we have to order a regular pizza, and we'll paste this down below and make a few changes, so the first one is the action, the url that it should go to is edit_order, and we have to provide the id of what we're looking for so we're going to pass a pizza.id, we're going to keep it as a post, and the rest of this is going to stay the same except this isn't ordering a pizza, this is editing a pizza.
+> **[1:37](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=97)** But we're also going to have a very similar form, so let's go ahead and copy the form that we have to order a regular pizza, and we'll paste this down below and make a few changes, so the first one is the action, the url that it should go to is edit_order, and we have to provide the id of what we're looking for so we're going to pass a pizza.id, we're going to keep it as a post, and the [[Representational State Transfer (REST)|rest]] of this is going to stay the same except this isn't ordering a pizza, this is editing a pizza.
 >
 > **[2:08](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=128)** So we'll go ahead and hit save here.
 >
@@ -1729,7 +1710,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=145)** Once we can edit our order, here's all the information already filled out for us, and let's say you know what, I don't want pepperonis, I want olives, so I hit edit pizza, that has now been saved and changed in the database.
 >
-> **[2:38](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=158)** That's how simple Django Forms helps us to edit objects.
+> **[2:38](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=158)** That's how simple [[Django]] [[Forms]] helps us to edit objects.
 >
 > **[2:43](https://www.linkedin.com/learning/django-forms/input-confirmation?u=76281980&t=163)** Now, it's great that this editing has taken place, but from a user's perspective, if they change their topping to olives, and hit edit pizza, they have no way to know that this change has actually taken place, they might worry that things haven't actually updated.
 >
@@ -1743,7 +1724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Django]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** edit_order (3), created_pizza_pk (2)
 > **File Paths:** order.html (2), edit_order.html (1), views.py (1)
@@ -1757,12 +1738,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Local validation and errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980)
+#### [Local validation and errors](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=1)** - [Narrator] When it comes to validating your data, Django forms really helps you go far with a little bit of code.
+> **[0:01](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=1)** - [Narrator] When it comes to validating your data, [[Django]] [[Forms]] really helps you go far with a little bit of code.
 >
 > **[0:07](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=7)** You know some of the specifications that we have for our data, for instance we have said that we want toppings to be no bigger than 100 each.
 >
@@ -1794,7 +1774,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=145)** There's not even an @ sign."
 >
-> **[2:26](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=146)** So I say okay, I'll go ahead and throw @ in there but then it's going to say "Nope you still have to have something after that" So eventually, if I fill in the rest of an email here, and eventually order the pizza.
+> **[2:26](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=146)** So I say okay, I'll go ahead and throw @ in there but then it's going to say "Nope you still have to have something after that" So eventually, if I fill in the [[Representational State Transfer (REST)|rest]] of an email here, and eventually order the pizza.
 >
 > **[2:38](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=158)** Well then it's going to go through.
 >
@@ -1804,7 +1784,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=169)** So I'm going to go ahead and provide a URL field here and I'm going to say this is equal to forms.(capital)URLField Go ahead and save that, come back and reload our page here.
 >
-> **[3:05](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=185)** So let's say, you know, we put in some toppings here do cheese, pepperoni, size, we'll put in an email and for a URL let's say you know, I just let's do a URL for Google.
+> **[3:05](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=185)** So let's say, you know, we put in some toppings here do cheese, pepperoni, size, we'll put in an email and for a URL let's say you know, I just let's do a URL for [[Google]].
 >
 > **[3:19](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=199)** No that's not enough there, let's see [google.com](https://google.com) No that's still not enough for it, we've got to do the full http:// and then eventually once you have that in place you could order that pizza.
 >
@@ -1814,7 +1794,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=221)** For instance that URL thing is really strict like I don't want people to have to put in the http thing."
 >
-> **[3:46](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=226)** What we can do, if we move over to our order.html and go to our form for where we order all the pizzas, we can add and extra property here where we say no validate And basically this just says we're not doing any local validation despite what you have in your particular field.
+> **[3:46](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=226)** What we can do, if we move over to our order.[[HTML]] and go to our form for where we order all the pizzas, we can add and extra property here where we say no validate And basically this just says we're not doing any local validation despite what you have in your particular field.
 >
 > **[4:07](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980&t=247)** So if we add this no validate, let's go back and reload this page.
 >
@@ -1832,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), data (3), [[Google]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Forms]] (5), [[Google]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Env Vars:** url (6)
 > **Analogies:** for instance (4)
 > **File Paths:** models.py (1), forms.py (1), order.html (1)
@@ -1841,8 +1821,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Server-based errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980)
+#### [Server-based errors](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1852,7 +1831,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=13)** And that means that we don't have proper server side validation.
 >
-> **[0:17](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=17)** The good news is is that we're really close to having it because Django forms can handle so much of that for us.
+> **[0:17](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=17)** The good news is is that we're really close to having it because [[Django]] [[Forms]] can handle so much of that for us.
 >
 > **[0:24](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=24)** So, let's go ahead and move over to our views.py and make it so that our form here is able to handle some bad information if it was going to slip through our local validation.
 >
@@ -1882,7 +1861,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=134)** But if it was not successful in being valid, well in that situation we still want to pass back the filled_form in its error showing what's wrong with what the user has given us.
 >
-> **[2:26](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=146)** So let's go ahead and save this, and let's go ahead and move over to our order.html and let's put that no validate back on one more time.
+> **[2:26](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=146)** So let's go ahead and save this, and let's go ahead and move over to our order.[[HTML]] and let's put that no validate back on one more time.
 >
 > **[2:36](https://www.linkedin.com/learning/django-forms/server-based-errors?u=76281980&t=156)** So we'll go ahead and add that, hit Save, move back to our order page, let's reload that, and let's go ahead and say we don't add anything here, and we just decide you know what, we're ordering a pizza.
 >
@@ -1926,7 +1905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (3), hit (3), [[Forms]] (2), [[HTML]] (2), data (1)
+> **Frameworks & Libraries:** [[Django]] (3), [[Forms]] (2), [[HTML]] (2)
 > **Code Identifiers:** filled_form (4), pizza_pk (1), created_pizza_pk (1)
 > **File Paths:** views.py (2), order.html (2)
 > **CLI Commands:** make (4)
@@ -1935,18 +1914,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Form rendering
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980)
+#### [Form rendering](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=1)** - [Instructor] Up 'til this point, whenever we've had a Django form we've just displayed it in the default way however it is.
+> **[0:01](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=1)** - [Instructor] Up 'til this point, whenever we've had a [[Django]] form we've just displayed it in the default way however it is.
 >
 > **[0:07](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=7)** You can see it's just sort of lined up left to right here.
 >
-> **[0:10](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=10)** There's actually a couple of different ways that we can have our forms displayed, and I'm going to show you how to do that now.
+> **[0:10](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=10)** There's actually a couple of different ways that we can have our [[Forms]] displayed, and I'm going to show you how to do that now.
 >
-> **[0:17](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=17)** Let's go ahead and move back into our code and we're going to go to our order.html, and we're going to look at a couple different ways to lay out our form.
+> **[0:17](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=17)** Let's go ahead and move back into our code and we're going to go to our order.[[HTML]], and we're going to look at a couple different ways to lay out our form.
 >
 > **[0:25](https://www.linkedin.com/learning/django-forms/form-rendering?u=76281980&t=25)** First, inside of our order form here, we have our pizzaform.
 >
@@ -2027,12 +2005,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980)
+#### [Customizing forms](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=1)** - [Instructor] In our last video, we talked about how to change the outlook of forms via Sane, you know, lay this out in paragraph tags as an unordered list, but you can go even more custom them that with your form.
+> **[0:01](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=1)** - [Instructor] In our last video, we talked about how to change the [[Microsoft Outlook|outlook]] of [[Forms]] via Sane, you know, lay this out in paragraph tags as an unordered list, but you can go even more custom them that with your form.
 >
 > **[0:13](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=13)** So if you'd like to see how you can do that instead of just having a regular old pizzaform here, we can actually go field by field and lay things out exactly how we would like.
 >
@@ -2098,7 +2075,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=264)** It's exactly how we'd like it.
 >
-> **[4:27](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=267)** So, obvious the devil's in the details here that if you're going to get this customized, you're going to have to question is really using Django forms worth it to you?
+> **[4:27](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=267)** So, obvious the devil's in the details here that if you're going to get this customized, you're going to have to question is really using [[Django]] forms worth it to you?
 >
 > **[4:37](https://www.linkedin.com/learning/django-forms/customizing-forms?u=76281980&t=277)** I think it is still because you get great use of these errors automatically showing up and what not.
 >
@@ -2112,18 +2089,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[Microsoft Outlook|Outlook]] (1), data (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Microsoft Outlook|Outlook]] (1), [[Django]] (1)
 > **Analogies:** for instance (2), just like (2), for example (1)
 > **Code Identifiers:** label_tag (2), id_for_label (1)
 > **Cross-References:** we talked about (1), go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spicing up forms with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980)
+#### [Spicing up forms with CSS](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=1)** - [Instructor] We've learned how to layout our forms in different ways either as a p tag or completely customized, but, there's no denying the fact that our forms are kind of ugly.
+> **[0:01](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=1)** - [Instructor] We've learned how to layout our [[Forms]] in different ways either as a p tag or completely customized, but, there's no denying the fact that our forms are kind of ugly.
 >
 > **[0:11](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=11)** They don't look that great, but, we can use CSS to make them shine and look great.
 >
@@ -2137,7 +2113,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=32)** So let's do a Control + C to stop our server.
 >
-> **[0:36](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=36)** We're going to do a pip install, and we want django-widget-tweaks.
+> **[0:36](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=36)** We're going to do a pip install, and we want [[Django]]-widget-tweaks.
 >
 > **[0:46](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=46)** So we'll go ahead and install this.
 >
@@ -2161,7 +2137,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=102)** Great.
 >
-> **[1:43](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=103)** So with that in place, let's add that ending comma, we'll save this, and then let's go back to our order.html.
+> **[1:43](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=103)** So with that in place, let's add that ending comma, we'll save this, and then let's go back to our order.[[HTML]].
 >
 > **[1:51](https://www.linkedin.com/learning/django-forms/spicing-up-forms-with-css?u=76281980&t=111)** So, here, inside of our order.html, we want to go ahead and paste the following code.
 >
@@ -2257,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), [[HTML]] (3), hit (2), css (1), front-end (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[HTML]] (3), [[Django]] (1)
 > **CLI Commands:** make (14), pip (2)
 > **Code Identifiers:** widget_tweaks (5), label_tag (1), render_field (1)
 > **File Paths:** order.html (3), settings.py (2)
@@ -2266,12 +2242,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), switch to (1)
 > **Exercise Files:** template (2)
 
-#### Homepage styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/homepage-styling?u=76281980)
+#### [Homepage styling](https://www.linkedin.com/learning/django-forms/homepage-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/homepage-styling?u=76281980&t=1)** - [Instructor] Though we have some great styling from our order.html page, but its not complete yet and we'd like this applied to every part of our website.
+> **[0:01](https://www.linkedin.com/learning/django-forms/homepage-styling?u=76281980&t=1)** - [Instructor] Though we have some great styling from our order.[[HTML]] page, but its not complete yet and we'd like this applied to every part of our website.
 >
 > **[0:10](https://www.linkedin.com/learning/django-forms/homepage-styling?u=76281980&t=10)** So to do that, we're going to create a base template that we can apply to almost every single one of our pages so that it has great styling.
 >
@@ -2339,7 +2314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), hit (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (13)
 > **File Paths:** base.html (8), order.html (4)
 > **Cross-References:** go back to (2), next video (1)
 > **Exercise Files:** template (1), exercise files (1)
@@ -2348,14 +2323,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Form styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980)
+#### [Form styling](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=1)** - [Instructor] Let's go ahead and finish the styling of our website by adding our base template into each of our other templates.
 >
-> **[0:08](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=8)** So, with our home page, let's go ahead a move over to our home.html.
+> **[0:08](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=8)** So, with our home page, let's go ahead a move over to our home.[[HTML]].
 >
 > **[0:13](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=13)** We're going to go ahead and get rid of our h1 tag, we don't need that necessarily but we do need what we have over on the order.html.
 >
@@ -2381,7 +2355,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=99)** We already have a static URL but we need to add a STATIC_ROOT.
 >
-> **[1:46](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=106)** Then we're going to have this be equal to, let's scroll up a little bit here inside of databases, you can grab this os.path.
+> **[1:46](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=106)** Then we're going to have this be equal to, let's scroll up a little bit here inside of [[Databases]], you can grab this os.path.
 >
 > **[1:53](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=113)** Just go ahead and copy that, paste down below but instead of a database, let's go ahead and make a new static folder, so we'll go ahead and save that.
 >
@@ -2389,7 +2363,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=150)** Now with that inside of that static folder, we should be able to add whatever's inside of there into a new static folder at the root of our project, so we're going to go ahead and move over to our terminal.
 >
-> **[2:41](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=161)** Let's do a Control + C and then now we'll do a python manage.py collectstatic.
+> **[2:41](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=161)** Let's do a Control + C and then now we'll do a [[Python (Programming Language)|python]] manage.py collectstatic.
 >
 > **[2:50](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=170)** This is going to move everything over.
 >
@@ -2479,11 +2453,11 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=372)** Let's change this over to Olives, edit that pizza, order has been updated.
 >
-> **[6:18](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=378)** Excellent, we have a fabulous looking website that has been powered by Django forms.
+> **[6:18](https://www.linkedin.com/learning/django-forms/form-styling?u=76281980&t=378)** Excellent, we have a fabulous looking website that has been powered by [[Django]] [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), [[Databases]] (1), database (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Django]] (1), [[Forms]] (1)
 > **File Paths:** order.html (3), home.html (2), pizzas.html (2), settings.py (1), manage.py (1)
 > **CLI Commands:** make (3), python (1)
 > **Cross-References:** go back to (4)
@@ -2497,16 +2471,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=1)** - [Nick] Thanks for coming along and learning about Django forms with me.
+> **[0:01](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=1)** - [Nick] Thanks for coming along and learning about [[Django]] [[Forms]] with me.
 >
 > **[0:04](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=4)** Hopefully, you've realized how excellent they are and you'll be using them in your projects going forward.
 >
-> **[0:10](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=10)** Now, as far as next steps goes, if you'd like to dive deeper into how forms work, I'd recommend a course called [[HTML & CSS- Creating Forms]].
+> **[0:10](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=10)** Now, as far as next steps goes, if you'd like to dive deeper into how forms work, I'd recommend a course called [[[[HTML]] & CSS- Creating Forms]].
 >
 > **[0:19](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=19)** This isn't Django-specific, but it really gets behind the nuts and bolts about how forms work on the web.
 >
@@ -2516,13 +2489,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=33)** So in this course we're going to have one project and deploy it to four different places.
 >
-> **[0:37](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=37)** We're going to be working with DigitalOcean, AWS Beanstalk, Heroku, and even Azure.
+> **[0:37](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=37)** We're going to be working with DigitalOcean, AWS Beanstalk, Heroku, and even [[Microsoft Azure|Azure]].
 >
 > **[0:43](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=43)** You'll get to see the differences between each platform and decide which one is right for you.
 >
 > **[0:48](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=48)** If you want to share your project with the world, this is the course.
 >
-> **[0:52](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=52)** I also have a course on test-driven development in Django.
+> **[0:52](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=52)** I also have a course on [[Test-Driven Development]] in Django.
 >
 > **[0:56](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=56)** This will help ensure that you'll have confidence every time you ship your code.
 >
@@ -2532,11 +2505,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=72)** And I'd love it if you connected with me.
 >
-> **[1:15](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=75)** You can either connect with me on LinkedIn, or on Twitter.
+> **[1:15](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980&t=75)** You can either connect with me on [[LinkedIn]], or on Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Django]] (6), [[Forms]] (4), next (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[Forms]] (4), [[HTML]] (1), [[Microsoft Azure|Azure]] (1), [[Test-Driven Development]] (1)
 > **Env Vars:** html (1), css (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)

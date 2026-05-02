@@ -102,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dynamic websites with Node and Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980)
+#### [Dynamic websites with Node and Express](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=0)** - Today, Node.js is one of the major platforms for the web.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=0)** - Today, [[Node.js]] is one of the major platforms for the web.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=4)** Enterprises like Uber, Netflix, Autodesk, Intuit and even the NASA are using it for important parts of their business.
 >
@@ -117,38 +116,37 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=27)** After completing this course, you will be able to build a dynamic website with Express end-to-end.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=32)** You will also be able to use and transform any HTML theme you find online into a dynamic page.
+> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=32)** You will also be able to use and transform any [[HTML]] theme you find online into a dynamic page.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=38)** You will even learn how to create API endpoints to create Single-Page applications.
 >
-> **[0:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=43)** I invite you to join me on my LinkedIn Learning Course, where you will learn everything you will need to create a website with Express.
+> **[0:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980&t=43)** I invite you to join me on my [[LinkedIn]] Learning Course, where you will learn everything you will need to create a website with Express.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[Node.js]] (2), web (2), business (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[HTML]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** node (2), find (1)
 > **Env Vars:** nasa (1), html (1), api (1)
 > **File Paths:** node.js (2)
 > **Speakers:** - today (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=0)** - There is some knowledge you should have to get the most out of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=4)** You should specifically and most importantly know a little bit about Git, so you should have a Git client at least installed.
+> **[0:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=4)** You should specifically and most importantly know a little bit about [[Git]], so you should have a Git client at least installed.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=11)** And, you should be able to use it on the comment line.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=15)** You should know some HTML and CSS.
+> **[0:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=15)** You should know some [[HTML]] and CSS.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=18)** That makes sense because we are building a website, and we will also manipulate HTML and CSS to some degree here.
 >
-> **[0:25](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=25)** You should know JavaScript basics like how to declare variables, how to use functions, and callbacks.
+> **[0:25](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=25)** You should know [[JavaScript]] basics like how to declare variables, how to use functions, and callbacks.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=32)** You should also know some basics about Node.js like how to build a simple application and how to run it.
+> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=32)** You should also know some basics about [[Node.js]] like how to build a simple application and how to run it.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/what-you-should-know?u=76281980&t=38)** You should also be familiar with new features of JavaScript that came with ES6 like let and const, like arrow functions.
 >
@@ -160,20 +158,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[HTML]] (2), css (2), [[JavaScript]] (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[HTML]] (2), [[JavaScript]] (2), [[Node.js]] (1)
 > **Env Vars:** html (2), css (2), es6 (1)
 > **CLI Commands:** git (2), node (1), find (1)
 > **File Paths:** node.js (1)
 > **Speakers:** - there (1)
 
-#### Using the exercise files and GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980)
+#### [Using the exercise files and GitHub](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=0)** - [Instructor] All the files for this course are freely available as a GitHub repository at this URL.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=0)** - [Instructor] All the files for this course are freely available as a [[GitHub]] repository at this URL.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=6)** Assume that you have a Git client already installed on your machine, and have some basic knowledge about Git and GitHub.
+> **[0:06](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=6)** Assume that you have a [[Git]] client already installed on your machine, and have some basic knowledge about Git and GitHub.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=13)** If you're completely new to Git, I recommend taking the course, [[Learning Git and GitHub]] by Ray Villalobos, as git and GitHub are so commonly used, investing time in learning them is a great investment in your career.
 >
@@ -187,13 +184,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=57)** To download all the files and get started, you need to clone this Git repository.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=61)** I'll show you how to fetch all the branches to your machine, but if you already know how Git works and have your own workflow, feel also free to just clone the repository as you would do it normally.
+> **[1:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=61)** I'll show you how to [[Fetch]] all the branches to your machine, but if you already know how Git works and have your own workflow, feel also free to just clone the repository as you would do it normally.
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=74)** I will now click on this green button and there will copy this HTTPS URL to my clipboard.
 >
 > **[1:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=82)** Next, I'm going to open a terminal window.
 >
-> **[1:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=86)** On a Mac, I can use the regular Terminal app, on Windows, you can use Command Prompt, Partial, or Git Bash, which is included when you install Git.
+> **[1:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=86)** On a Mac, I can use the regular Terminal app, on [[Windows]], you can use Command Prompt, Partial, or Git Bash, which is included when you install Git.
 >
 > **[1:37](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=97)** Now in my terminal, I first created a directory and I call it building-website-nodejs-express.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=115)** For that I type git clone --bare, and now I paste in the GitHub URL that I copied before.
 >
-> **[2:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=125)** And then very important, I also have to add an empty space, a blank, and then I have to write .git because I want to clone the metadata of this repository into the .git directory.
+> **[2:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=125)** And then very important, I also have to add an empty space, a blank, and then I have to write .git because I want to clone the [[Metadata]] of this repository into the .git directory.
 >
 > **[2:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=142)** Now, hit return, and this now pulled down all the metadata of this repository, but we still don't have any files here.
 >
@@ -223,11 +220,11 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=208)** Going forward, we will use Visual Studio Code because it has a very good Git integration.
 >
-> **[3:34](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=214)** Let's install it now along with the rest of the development environment used for this course.
+> **[3:34](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-the-exercise-files-and-github-24696875?u=76281980&t=214)** Let's install it now along with the [[Representational State Transfer (REST)|rest]] of the development environment used for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (16), [[GitHub]] (5), [[Metadata]] (2), hit (2), career (1)
+> **Frameworks & Libraries:** [[Git]] (16), [[GitHub]] (5), [[Metadata]] (2), [[Fetch]] (1), [[Windows]] (1)
 > **CLI Commands:** git (16), ls (2)
 > **Tools:** github (5), terminal (3), command prompt (1), bash (1), visual studio (1)
 > **Env Vars:** url (3), https (1)
@@ -236,8 +233,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980)
+#### [Setting up your development environment](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=7)** In this course, I will use Visual Studio Code.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=9)** It's free, and it comes with great Node.js support out of the box.
+> **[0:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=9)** It's free, and it comes with great [[Node.js]] support out of the box.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=13)** I highly recommend that you use it as well, at least for this course.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=26)** And as you know, I placed the exercise files on my desktop, so I open it from right there.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=32)** Visual Studio Code comes with great Git integration.
+> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=32)** Visual Studio Code comes with great [[Git]] integration.
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-your-development-environment?u=76281980&t=35)** And here on the bottom left, you see that we are currently on the master branch.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), node (2), [[Search]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[Git]] (1)
 > **CLI Commands:** node (6), make (2), git (1)
 > **Tools:** visual studio (4), terminal (2)
 > **File Paths:** node.js (4)
@@ -303,8 +299,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an Express server in three minutes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980)
+#### [Create an Express server in three minutes](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,15 +309,15 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=8)** We will keep extending that application throughout the course.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=12)** Different than other platforms, Node.js has an HTTP module built into its core, Express utilizes the HTTP server in this core module, and at least during development, you don't need to set up a separate dedicated rep server to Express applications.
+> **[0:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=12)** Different than other platforms, [[Node.js]] has an HTTP module built into its core, Express utilizes the HTTP server in this core module, and at least during development, you don't need to set up a separate dedicated rep server to Express applications.
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=27)** Let's see how this works.
 >
-> **[0:29](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=29)** I already have Visual Studio Code open, and the only Node.js specific thing is the package.json file and the package-lock.json file, those are needed to maintain dependencies of our current project.
+> **[0:29](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=29)** I already have Visual Studio Code open, and the only Node.js specific thing is the package.[[JSON]] file and the package-lock.json file, those are needed to maintain dependencies of our current project.
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=43)** Now I will open the terminal that comes with Visual Studio Code by clicking View, and there, Terminal, and let's first install Express.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=53)** So in the terminal, I type npm install express, this will pull down Express and all dependencies, and add it to a project, and you see already in the package.json, this dependency is now here on line 14.
+> **[0:53](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=53)** So in the terminal, I type [[npm]] install express, this will pull down Express and all dependencies, and add it to a project, and you see already in the package.json, this dependency is now here on line 14.
 >
 > **[1:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980&t=71)** Next, I'm going to create a file for the server we are going to build, let's call it server.js.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (16), application (4), [[Node.js]] (3), [[JSON]] (3), next (3)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[JSON]] (3), [[npm]] (1)
 > **File Paths:** node.js (3), server.js (3), package.json (2), package-lock.json (1)
 > **Tools:** terminal (4), visual studio (3)
 > **CLI Commands:** node (4), npm (1)
@@ -353,8 +348,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** http (2)
 
-#### Building from a HTML page or template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980)
+#### [Building from a HTML page or template](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=13)** Let's first drag this folder into the root of our project.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=20)** When I look into the folder, I see that it consists of some HTML pages and also a folder for CSS styles, one for images and one for JavaScript.
+> **[0:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=20)** When I look into the folder, I see that it consists of some [[HTML]] pages and also a folder for CSS styles, one for images and one for [[JavaScript]].
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=31)** Let's look into the code of the index.html file real quick and we see that right on top here at line 6, it loads Bootstrap, a CSS framework that gives us some good default styles and offers a grid system to create responsive websites.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=63)** Depending on your operating system, you should have something similar here.
 >
-> **[1:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=67)** And here on the Finder, I can now select Open With Google Chrome.
+> **[1:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=67)** And here on the Finder, I can now select Open With [[Google]] Chrome.
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/building-from-a-html-page-or-template?u=76281980&t=73)** So what you want to do is you want to open the index.html file in your browser.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), express (4), css (2), [[JavaScript]] (2), web (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (2), [[Google]] (1)
 > **Env Vars:** html (3), css (2), nginx (1)
 > **UI Navigation:** click on (4), open the (1), scroll down (1)
 > **Definitions:** is a  (4), means that (1)
@@ -441,12 +435,11 @@ created: 2026-05-02
 > **File Paths:** index.html (3)
 > **Exercise Files:** template (1)
 
-#### Serving HTML pages and static content
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980)
+#### [Serving HTML pages and static content](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=0)** - [Instructor] Let's teach Express to send static HTML pages to the browser.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=0)** - [Instructor] Let's teach Express to send static [[HTML]] pages to the browser.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=5)** This is not yet what we understand as a dynamic website.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=70)** And for that I use the path module and there I use the join method that helps me just create a proper paths reference.
 >
-> **[1:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=80)** And this first argument I'm using __dirname, that's a constant provided by node.js that contains the current directory, and, as second argument, I'm now adding ./static and the index.html.
+> **[1:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=80)** And this first argument I'm using __dirname, that's a constant provided by [[Node.js]] that contains the current directory, and, as second argument, I'm now adding ./static and the index.html.
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=99)** Should be pretty clear what we're doing here so we are creating a paths reference that points to the index.html file in the static folder.
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=184)** So I'm back in Visual Studio code.
 >
-> **[3:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=187)** There see, in the static folder that we have the CSS images and javascript files in here.
+> **[3:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=187)** There see, in the static folder that we have the CSS images and [[JavaScript]] files in here.
 >
 > **[3:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=192)** But Express now has no way to know that it should serve static files from there.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=203)** We will learn more about middlewares later, but, for now, let's just use it.
 >
-> **[3:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=207)** So, before my routing handlers are defined, I will now add app.use and the middleware is called express.static.
+> **[3:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=207)** So, before my [[Routing]] handlers are defined, I will now add app.use and the middleware is called express.static.
 >
 > **[3:37](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/serving-html-pages-and-static-content?u=76281980&t=217)** So every time you see an app.use, this is how middlewares are applied in Express.
 >
@@ -534,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), express (7), web (2), application (2), node (2)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Node.js]] (1), [[JavaScript]] (1), [[Routing]] (1)
 > **File Paths:** server.js (4), index.html (3), node.js (1), speakers.html (1)
 > **Env Vars:** html (3), url (2), css (1)
 > **CLI Commands:** node (3)
@@ -543,8 +536,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **UI Navigation:** open the (1)
 
-#### Setting up ESLint and Prettier
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980)
+#### [Setting up ESLint and Prettier](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,21 +548,21 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=18)** You can use that for any other project just like that.
 >
-> **[0:21](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=21)** First I'm going to install ESLint.
+> **[0:21](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=21)** First I'm going to install [[ESLint]].
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=24)** ESLint is a so-called linter.
 >
 > **[0:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=26)** It uses a rule set to enforce some coding style rules and also points out common coding mistakes.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=32)** For that, I now run npm install, dash d because it's a development dependency, ESLint.
+> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=32)** For that, I now run [[npm]] install, dash d because it's a development dependency, ESLint.
 >
-> **[0:42](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=42)** And after this is installed, takes a little bit, if we look into package.json we see that this was now added as dev dependency.
+> **[0:42](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=42)** And after this is installed, takes a little bit, if we look into package.[[JSON]] we see that this was now added as dev dependency.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=50)** This means if we deploy our project into production, ESLint should not be included.
 >
 > **[0:56](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=56)** To initialize ESLint, we will use the common npx.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=61)** Npx comes with your Node.js installation and it will first look into your Node modules folder to find the script you want to execute.
+> **[1:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=61)** Npx comes with your [[Node.js]] installation and it will first look into your Node modules folder to find the script you want to execute.
 >
 > **[1:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=68)** Or if it isn't there, it will even pull it down from the npm repository.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=96)** I select CommonJS because that's the module Node.js uses.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=102)** We don't use React or Vue.js so I select none of these.
+> **[1:42](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=102)** We don't use [[React.js|React]] or [[Vue.js]] so I select none of these.
 >
 > **[1:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-eslint-and-prettier?u=76281980&t=106)** We are not using Typescript.
 >
@@ -728,7 +720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (17), [[npm]] (3), [[JSON]] (3), node (3), next (3)
+> **Frameworks & Libraries:** [[ESLint]] (17), [[npm]] (3), [[JSON]] (3), [[Node.js]] (2), [[React.js|React]] (1)
 > **CLI Commands:** node (5), npm (3), npx (3), find (2), make (2)
 > **Prerequisites:** install (12), set up (1)
 > **File Paths:** node.js (2), package.json (1), vue.js (1), server.js (1)
@@ -737,8 +729,7 @@ created: 2026-05-02
 > **Env Vars:** json (2)
 > **Definitions:** is a  (2)
 
-#### Setting up nodemon
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-nodemon?u=76281980)
+#### [Setting up nodemon](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-nodemon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-nodemon?u=76281980&t=18)** So let's install nodemon now and it's again a development dependency.
 >
-> **[0:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-nodemon?u=76281980&t=23)** I add npm, install, dash D, nodemon, and this will install nodemon for us and I'm already opening package.jason, because I have to change the startscript, they are now once nodemon is installed, because I will now add a new entry that I call dev.
+> **[0:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-nodemon?u=76281980&t=23)** I add [[npm]], install, dash D, nodemon, and this will install nodemon for us and I'm already opening package.jason, because I have to change the startscript, they are now once nodemon is installed, because I will now add a new entry that I call dev.
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/setting-up-nodemon?u=76281980&t=51)** You will see soon how we can run this then, and there I add nodemon, and then I add dash dash ignore, and this is now a little bit of spoiler, because later we will store feedback user submit into a feedback.jason file, and we don't want express to reload then every time this file is changed, so I am ignoring the feedback.jason file that we will have later, and then I add server.js, this is the script we want to start.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[npm]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **CLI Commands:** npm (2), make (1)
 > **Prerequisites:** install (3)
 > **File Paths:** server.js (1)
@@ -775,12 +766,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Template engines and Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980)
+#### [Template engines and Express](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980&t=0)** - When building a dynamic website, there's always some static HTML that should contain some dynamic data.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980&t=0)** - When building a dynamic website, there's always some static [[HTML]] that should contain some dynamic data.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980&t=6)** Let's look at an example.
 >
@@ -828,19 +818,18 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980&t=98)** It's always the same for any template engine.
 >
-> **[1:41](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980&t=101)** For this course, we will use the embedded JavaScript template engine, EJS, as it's simple, fast, and powerful.
+> **[1:41](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980&t=101)** For this course, we will use the embedded [[JavaScript]] template engine, EJS, as it's simple, fast, and powerful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), data (4), express (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** html (6), ejs (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
-#### Getting to know the EJS template engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980)
+#### [Getting to know the EJS template engine](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=11)** It also lists the features and benefits.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=15)** Most importantly ejs lets you use regular JavaScript as template language as you see here.
+> **[0:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=15)** Most importantly ejs lets you use regular [[JavaScript]] as template language as you see here.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=21)** So you don't have to learn any new syntax.
 >
@@ -862,9 +851,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=34)** Let's look at them.
 >
-> **[0:36](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=36)** The simple bracket with the percent sign is used for control flow like conditions or loop statements that don't produce any output.
+> **[0:36](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=36)** The simple bracket with the percent sign is used for [[Control Flow]] like conditions or loop statements that don't produce any output.
 >
-> **[0:44](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=44)** Add an equal sign and it will output the variable inside those tags and escape all html in it.
+> **[0:44](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=44)** Add an equal sign and it will output the variable inside those tags and escape all [[HTML]] in it.
 >
 > **[0:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=50)** If you use a minus sign the content will be un-escaped.
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=79)** No worries if something is still unclear we will use all of that throughout this course.
 >
-> **[1:24](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=84)** Now let's first add ejs to our project and I head back to my Visual Studio code and I stop node mon by pressing Control+C and now I will run npm install ejs.
+> **[1:24](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=84)** Now let's first add ejs to our project and I head back to my Visual Studio code and I stop node mon by pressing Control+C and now I will run [[npm]] install ejs.
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/getting-to-know-the-ejs-template-engine?u=76281980&t=99)** This will just install the ejs template engine to my project and now I have to also tell Express that it should use ejs so in my server.js right after Express was instantiated and maybe after the port was declared I add app.set and the configuration value we want to set this view blank engine and there I set ejs.
 >
@@ -908,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), [[HTML]] (2), [[npm]] (2), application (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[npm]] (2), [[JavaScript]] (1), [[Control Flow]] (1)
 > **Exercise Files:** template (7)
 > **CLI Commands:** npm (2), node (1), find (1)
 > **Prerequisites:** install (2)
@@ -917,8 +906,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rendering the index page with EJS
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/rendering-the-index-page-with-ejs?u=76281980)
+#### [Rendering the index page with EJS](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/rendering-the-index-page-with-ejs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/rendering-the-index-page-with-ejs?u=76281980&t=64)** Of course, I now have to also create this pages directory in views, so I add a new folder to views called pages.
 >
-> **[1:14](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/rendering-the-index-page-with-ejs?u=76281980&t=74)** And then I will move over the index.html file into this pages folder.
+> **[1:14](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/rendering-the-index-page-with-ejs?u=76281980&t=74)** And then I will move over the index.[[HTML]] file into this pages folder.
 >
 > **[1:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/rendering-the-index-page-with-ejs?u=76281980&t=80)** And I also have to change the extension now to ejs.
 >
@@ -962,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Exercise Files:** template (7)
 > **Env Vars:** ejs (4)
 > **File Paths:** server.js (1), index.html (1)
@@ -976,8 +964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Express middleware and routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980)
+#### [Express middleware and routes](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=3)** Basically everything is built around them.
 >
-> **[0:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=5)** We already created routing middlewares that will be executed when a specific URL matches, and to end a request for sending data back to the browser.
+> **[0:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=5)** We already created [[Routing]] middlewares that will be executed when a specific URL matches, and to end a request for sending data back to the browser.
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=13)** We also used the Express static middleware to support static files like style sheets or images.
 >
@@ -1019,7 +1006,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=99)** This is mostly true for routing middlewares because in the end, a routing middleware will send something back to the browser and will so end the execution flow and the request.
 >
-> **[1:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=110)** Finally, they can also call the next middleware in the stack, this means if more middlewares are defined, a middleware can pass on the control flow to the next middleware.
+> **[1:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=110)** Finally, they can also call the next middleware in the stack, this means if more middlewares are defined, a middleware can pass on the [[Control Flow]] to the next middleware.
 >
 > **[2:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=121)** Let's look at the general middleware first.
 >
@@ -1087,7 +1074,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=317)** In the beginning the application initializes.
 >
-> **[5:19](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=319)** It will execute all javascript code which will register all middlewares.
+> **[5:19](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=319)** It will execute all [[JavaScript]] code which will register all middlewares.
 >
 > **[5:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980&t=323)** Then it will start the http server and listen on a given port.
 >
@@ -1105,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), [[Routing]] (9), express (7), application (5), [[Control Flow]] (3)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Control Flow]] (3), [[JavaScript]] (1)
 > **Env Vars:** url (5)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (3)
@@ -1113,8 +1100,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modular routes with express.Router
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/modular-routes-with-express-router?u=76281980)
+#### [Modular routes with express.Router](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/modular-routes-with-express-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/modular-routes-with-express-router?u=76281980&t=39)** Next, I will copy that route definition for slash and while I'm here, I will remove the declaration of the speakers route.
 >
-> **[0:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/modular-routes-with-express-router?u=76281980&t=49)** We will add it to the new routing structure in a bit.
+> **[0:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/modular-routes-with-express-router?u=76281980&t=49)** We will add it to the new [[Routing]] structure in a bit.
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/modular-routes-with-express-router?u=76281980&t=55)** And I paste now the definition into my index.js file.
 >
@@ -1180,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (10), application (6), [[Routing]] (5), feature (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (5)
 > **File Paths:** index.js (4), server.js (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1189,14 +1175,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** good practice (1)
 
-#### Creating routes for all subpages
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980)
+#### [Creating routes for all subpages](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980&t=0)** - [Instructor] We just created our first routing module.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980&t=0)** - [Instructor] We just created our first [[Routing]] module.
 >
-> **[0:02](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980&t=2)** Let's now go ahead and create the rest of the modules that we need to build up our whole page.
+> **[0:02](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980&t=2)** Let's now go ahead and create the [[Representational State Transfer (REST)|rest]] of the modules that we need to build up our whole page.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-routes-for-all-subpages?u=76281980&t=9)** I decided to organize each sub-page into a file of its own.
 >
@@ -1286,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), application (5), express (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** index.js (3), feedback.js (2), speakers.js (2), server.js (2)
 > **Code Identifiers:** speakersroute (3), feedbackroute (1)
 > **Env Vars:** http (2)
@@ -1295,8 +1280,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Add business logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980)
+#### [Add business logic](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=27)** In any dynamic website, you will find some kind of business logic.
 >
-> **[0:31](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=31)** As this is regular JavaScript code and not really related to Express, I've already prepared classes that will give us that.
+> **[0:31](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=31)** As this is regular [[JavaScript]] code and not really related to Express, I've already prepared classes that will give us that.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=38)** You'll find them in the provided folder in Services.
 >
@@ -1326,13 +1310,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=64)** Let's look into the Data folder real quick, so I have all speakers information already in there, including the artwork for the given speaker and their short name.
 >
-> **[1:17](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=77)** And I also have a feedback.json file with all the feedback that we received so far.
+> **[1:17](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=77)** And I also have a feedback.[[JSON]] file with all the feedback that we received so far.
 >
 > **[1:24](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=84)** Let's real quick open the SpeakerService and, there, you'll find various methods to retrieve data from the JSON file and return it.
 >
 > **[1:36](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=96)** And, for the FeedbackService, we also have a method that gets all feedback and one to add an entry.
 >
-> **[1:45](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=105)** We will use all those methods throughout the rest of the course.
+> **[1:45](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=105)** We will use all those methods throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=109)** And, when you look closer into it, you may think that there are more efficient ways to work with this data loaded from a file, like we could load this data just once and not for every method.
 >
@@ -1342,7 +1326,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=132)** Speakers and feedback are going to be used within our routes, but I want to instantiate them centrally in server.js and make them then available to my routes from there.
 >
-> **[2:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=142)** And this is where the way we created the routing handlers before, like as a function, comes into play.
+> **[2:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=142)** And this is where the way we created the [[Routing]] handlers before, like as a function, comes into play.
 >
 > **[2:29](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=149)** So, first, I start out by opening server.js and there, I first have to require those two service classes.
 >
@@ -1398,7 +1382,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=428)** Again, I'm receiving params here and then I will now add const and, again, destructuring assignment: const feedbackService equals params.
 >
-> **[7:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=446)** And we create an async function here again and I fetch the feedback by adding const feedback equals await feedbackService.getList.
+> **[7:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=446)** And we create an async function here again and I [[Fetch]] the feedback by adding const feedback equals await feedbackService.getList.
 >
 > **[7:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-business-logic?u=76281980&t=463)** This will give us all feedback and, again, I'm returning JSON and, in this case, now the feedback.
 >
@@ -1414,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[JSON]] (9), application (5), [[Routing]] (3), business (2)
+> **Frameworks & Libraries:** [[JSON]] (9), [[Routing]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (1), [[Fetch]] (1)
 > **Code Identifiers:** feedbackservice (4), speakersservice (4), getlist (2)
 > **File Paths:** feedback.json (2), server.js (2), speakers.json (1), index.js (1), speakers.js (1)
 > **CLI Commands:** find (3), make (2)
@@ -1423,8 +1407,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), go to (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 
-#### Add a session management middleware
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980)
+#### [Add a session management middleware](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,13 +1431,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=53)** To get started we will now install the cookie session module, so I'm stopping nodemon and Express, by pressing CTRL + C.
 >
-> **[1:02](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=62)** And I will now type npm install cookie-session.
+> **[1:02](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=62)** And I will now type [[npm]] install cookie-session.
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=72)** And then I can start my application again.
 >
 > **[1:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=75)** And in the server js, I now add on top, as you expect already, const cookieSession equals require cookie session.
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=92)** And then I have to add this middleware to the request lifecycle, because it has to fetch those cookies that are sent with the headers that come from the client and parse them and also then set them on the request object so that we can work with them.
+> **[1:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=92)** And then I have to add this middleware to the request lifecycle, because it has to [[Fetch]] those cookies that are sent with the headers that come from the client and parse them and also then set them on the request object so that we can work with them.
 >
 > **[1:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=109)** Right before we set the view engine I will now add app.use and the middleware is called cookieSession, and I add some configuration object there.
 >
@@ -1528,7 +1511,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=352)** And there, let's just reload the page.
 >
-> **[5:58](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=358)** And right on top, this is where the page actually the HTML gets transferred.
+> **[5:58](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=358)** And right on top, this is where the page actually the [[HTML]] gets transferred.
 >
 > **[6:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-a-session-management-middleware?u=76281980&t=365)** And there, you have this tab Cookies, and you see that there is this session cookie, which contains this encrypted value.
 >
@@ -1540,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), express (4), data (3), web (2), management (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Fetch]] (1), [[HTML]] (1)
 > **Env Vars:** http (1), ctrl (1), nginx (1), html (1)
 > **CLI Commands:** npm (1), nginx (1), find (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
@@ -1554,8 +1537,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a site-wide layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980)
+#### [Create a site-wide layout](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1545,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=3)** If we look at it, there are parts that will be the same for any sub-page.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=8)** This would be the whole html head section with just the page title changing but also the navigation, the hero section with the large image is something that you may want to show on some sub-pages.
+> **[0:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=8)** This would be the whole [[HTML]] head section with just the page title changing but also the navigation, the hero section with the large image is something that you may want to show on some sub-pages.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=20)** Let's open Chrome developer tools real quick and for that I can just now click right into the page and choose inspect because we want to inspect the parts of the page.
 >
@@ -1601,13 +1583,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=160)** so we leave them in.
 >
-> **[2:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=163)** So and then I'm scrolling further and remove more or less the rest of it on the right side so here we are, that's still the main content.
+> **[2:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=163)** So and then I'm scrolling further and remove more or less the [[Representational State Transfer (REST)|rest]] of it on the right side so here we are, that's still the main content.
 >
 > **[2:53](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=173)** Scrolling, scrolling, scrolling.
 >
 > **[2:55](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=175)** Here we have the side bar with the pictures.
 >
-> **[2:58](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=178)** And then you end at the section with JavaScript and here we can actually remove everything until down to the html.
+> **[2:58](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=178)** And then you end at the section with [[JavaScript]] and here we can actually remove everything until down to the html.
 >
 > **[3:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980&t=187)** And if we save, you'll also see that Prettier will now fix the indentation and if you see something like that, so if the div is maybe here on the same level, you're most probably just forgot to remove something on top so then you just have to look at it again and just make sure that the indentations are really nested as you see them here.
 >
@@ -1657,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1), express (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (13)
 > **File Paths:** index.js (3), js/pixgrid.js (1)
 > **UI Navigation:** scroll down (2), open the (1), scroll up (1)
@@ -1666,8 +1648,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Definitions:** is an  (1)
 
-#### Using partials with EJS
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-partials-with-ejs?u=76281980)
+#### [Using partials with EJS](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-partials-with-ejs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,7 +1682,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-partials-with-ejs?u=76281980&t=99)** While I'm here, I also want to fix all links to actually point to the right sub-pages, as they will be named later then on my dynamic page.
 >
-> **[1:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-partials-with-ejs?u=76281980&t=109)** So I'm looking through the file, and I see that ./index.html, this is actually the slash path.
+> **[1:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-partials-with-ejs?u=76281980&t=109)** So I'm looking through the file, and I see that ./index.[[HTML]], this is actually the slash path.
 >
 > **[1:57](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-partials-with-ejs?u=76281980&t=117)** Here on line 15, there is the same.
 >
@@ -1775,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), functional (2), next (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **File Paths:** speakers.html (2), index.html (1), feedback.html (1), index.js (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** html (1), ejs (1)
@@ -1784,8 +1765,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Template variables in more detail
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-variables-in-more-detail?u=76281980)
+#### [Template variables in more detail](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-variables-in-more-detail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1847,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), next (4), application (3), data (1)
 > **Code Identifiers:** sitename (4), somevariable (2), speakernames (2), pagetitle (1), speakerservice (1)
 > **Exercise Files:** template (10)
 > **CLI Commands:** make (5)
@@ -1875,13 +1854,13 @@ created: 2026-05-02
 > **Env Vars:** roux (3)
 > **Definitions:** means that (1), is an  (1)
 > **Ports:** :3000 (1)
+> **UI Navigation:** dropdown (1)
 
-#### Looping through lists in templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980)
+#### [Looping through lists in templates](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=0)** - [Instructor] By now we have the list of speaker names that we fetch with every request and store into a template variable.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=0)** - [Instructor] By now we have the list of speaker names that we [[Fetch]] with every request and store into a template variable.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=6)** Let's see how we can now render the navigation from it.
 >
@@ -1901,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=64)** And for that, I first add the template tag we know already, and I don't use now a equal sign or a minus, because I'm not outputting anything.
 >
-> **[1:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=75)** So, for control structure I just use bracket percent, and there I now start out by adding speaker names, and there I can now call, like in Javascript, forEach on it.
+> **[1:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=75)** So, for control structure I just use bracket percent, and there I now start out by adding speaker names, and there I can now call, like in [[JavaScript]], forEach on it.
 >
 > **[1:29](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=89)** And as it is with a forEach function, this takes a callback that gets, for each iteration, the current array item.
 >
@@ -1925,7 +1904,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=186)** So, this should be it, let's head over to the page and reload it, and when we now look into the speaker array, we see that the links are now correct.
 >
-> **[3:16](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=196)** And we know that this list of speakers is fetched for each request, so when go now into our data, speakers JSON file, and I change Lorenzo Garcia to be Lorenzo Garcia the third, and I reload, this is now directly reflected in the navigation.
+> **[3:16](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=196)** And we know that this list of speakers is fetched for each request, so when go now into our data, speakers [[JSON]] file, and I change Lorenzo Garcia to be Lorenzo Garcia the third, and I reload, this is now directly reflected in the navigation.
 >
 > **[3:34](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=214)** We also see that it's not reflected yet in this section with the top speakers, with the pictures, because this is still static.
 >
@@ -1957,7 +1936,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=363)** And in there, I create the new file topSpeakers.ejs.
 >
-> **[6:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=371)** And then paste the content in here, and back in my index ejs file, I now have to add includes, so I add the bracket percent, again, with the minus, because I want to have unescaped HTML here.
+> **[6:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=371)** And then paste the content in here, and back in my index ejs file, I now have to add includes, so I add the bracket percent, again, with the minus, because I want to have unescaped [[HTML]] here.
 >
 > **[6:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/looping-through-lists-in-templates?u=76281980&t=387)** And I add include ./partials, topSpeakers.
 >
@@ -2035,7 +2014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[JavaScript]] (4), [[Fetch]] (3), data (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Fetch]] (3), [[JSON]] (2), [[HTML]] (1)
 > **Code Identifiers:** topspeakers (7), foreach (3), speakersservice (2), getlist (1)
 > **Exercise Files:** template (8)
 > **Env Vars:** json (2), url (2), ejs (1), html (1)
@@ -2044,8 +2023,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), dropdown (1)
 > **Analogies:** such as (1), for example (1)
 
-#### Creating a list page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980)
+#### [Creating a list page](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2069,13 +2047,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=49)** Let's implement the speakers list template and this should by now look very familiar to you.
 >
-> **[0:54](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=54)** And there, I look into my static folder and I will take this speakers.html file and I copy it into my views pages.
+> **[0:54](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=54)** And there, I look into my static folder and I will take this speakers.[[HTML]] file and I copy it into my views pages.
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=64)** Folder, and then I rename speakers.html into speakers.ejs.
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=72)** Next, I'm going to remove everything that is part of the layout, so this is everything down to this line 46 where we have this container mt-4.
 >
-> **[1:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=83)** Then I look for where the JavaScript tags start and I will remove that as well down to the HTML.
+> **[1:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=83)** Then I look for where the [[JavaScript]] tags start and I will remove that as well down to the HTML.
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-list-page?u=76281980&t=93)** Then, as I mentioned before, we have to fix those image links to be absolute but we will take care of this artwork sidebar anyways later so we can leave it as it is right now.
 >
@@ -2137,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), next (4), express (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1)
 > **Exercise Files:** template (7)
 > **File Paths:** speakers.html (2), index.js (1), speakers.js (1)
 > **Env Vars:** html (2), url (1)
@@ -2146,8 +2124,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 
-#### Using parameter routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980)
+#### [Using parameter routes](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2203,11 +2180,11 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=121)** It should be then speakers-detail and it gets the current speaker as an argument.
 >
-> **[2:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=129)** Of course, we now have to create the speakers-detail template so I look into my static folder and there I have this Hilary.Goldwyn.html file and I copy that over into my pages folder.
+> **[2:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=129)** Of course, we now have to create the speakers-detail template so I look into my static folder and there I have this Hilary.Goldwyn.[[HTML]] file and I copy that over into my pages folder.
 >
 > **[2:28](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=148)** And I rename it to speakers-detail.ejs.
 >
-> **[2:36](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=156)** And now very similar to what we did before, we remove everything that we have here until we reach this container statement and then we scroll down to find where the JavaScript starts and remove everything down to the HTML.
+> **[2:36](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=156)** And now very similar to what we did before, we remove everything that we have here until we reach this container statement and then we scroll down to find where the [[JavaScript]] starts and remove everything down to the HTML.
 >
 > **[2:52](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/using-parameter-routes?u=76281980&t=172)** And here in this file, we now have this speaker template variable and we have to now just use that to replace all static content with the dynamic content.
 >
@@ -2281,7 +2258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (1), css (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (1)
 > **Env Vars:** html (6)
 > **Exercise Files:** template (5)
 > **UI Navigation:** scroll down (3), click on (1)
@@ -2290,8 +2267,7 @@ created: 2026-05-02
 > **Analogies:** picture (2), similar to (1)
 > **File Paths:** speakers.js (1), hilary.goldwyn.html (1)
 
-#### Challenge: Partials and lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980)
+#### [Challenge: Partials and lists](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2323,25 +2299,24 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=101)** To understand this a little bit better let's also look into the data that gives us that.
 >
-> **[1:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=106)** So I open data, speakers.json, and there you see that each speaker has some array with artwork attached to them.
+> **[1:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=106)** So I open data, speakers.[[JSON]], and there you see that each speaker has some array with artwork attached to them.
 >
 > **[1:57](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=117)** So with that knowledge you should now be able to take this challenge.
 >
-> **[2:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=121)** You of course have to change the routes to fetch the right array of artwork.
+> **[2:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=121)** You of course have to change the routes to [[Fetch]] the right array of artwork.
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/challenge-partials-and-lists?u=76281980&t=126)** You have to provide them to the templates and you have to factor out the artwork on the sidebar and also iterate through the array of art work items to create the list that we see on the page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JSON]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Fetch]] (1)
 > **File Paths:** speakers.json (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Partials and lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980)
+#### [Solution: Partials and lists](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2357,7 +2332,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=42)** So, it's two article classes on the index page for instance.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=46)** When I look into this article class, we see that there is this pixgrid element, that's just a simple list of items, it's not even a HTML list, it's just all those images thrown into this element, pixgrid will then take care of rendering that properly.
+> **[0:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=46)** When I look into this article class, we see that there is this pixgrid element, that's just a simple list of items, it's not even a [[HTML]] list, it's just all those images thrown into this element, pixgrid will then take care of rendering that properly.
 >
 > **[1:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=67)** And we also see that we are rendering the thumbnails here.
 >
@@ -2405,7 +2380,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=230)** So, I'm heading back into Visual Studio Code, and there I open routes, index js.
 >
-> **[3:56](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=236)** And in there, I first want to now fetch a list of all artwork items.
+> **[3:56](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=236)** And in there, I first want to now [[Fetch]] a list of all artwork items.
 >
 > **[4:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=241)** So, add const artwork equals await speakersService.getAllArtwork.
 >
@@ -2443,7 +2418,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=378)** So I add &lt;% and I do artwork forEach, and this gets function, let's call this artwork item just item.
 >
-> **[6:34](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=394)** Then I continue, as I would do with regular Javascript, just closing the template tags here in the end, and also on the first line.
+> **[6:34](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=394)** Then I continue, as I would do with regular [[JavaScript]], just closing the template tags here in the end, and also on the first line.
 >
 > **[6:42](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/solution-partials-and-lists?u=76281980&t=402)** And then we'll just take one line out here.
 >
@@ -2483,7 +2458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[HTML]] (2), data (2), [[JavaScript]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2), [[Fetch]] (1)
 > **Exercise Files:** template (10)
 > **UI Navigation:** click on (2), go to (2), right-click (1), open the (1)
 > **Code Identifiers:** speakersservice (2), getallartwork (1), getartworkforspeaker (1), foreach (1)
@@ -2497,8 +2472,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to handle errors in express
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980)
+#### [How to handle errors in express](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2520,7 +2494,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=43)** I do this right after the express.static middleware.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=46)** I add app.get /throw and this gets as we know a request, response and the next argument and in there, I will now use the regular JavaScript function, throw new Error and I say Something did throw.
+> **[0:46](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=46)** I add app.get /throw and this gets as we know a request, response and the next argument and in there, I will now use the regular [[JavaScript]] function, throw new Error and I say Something did throw.
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=74)** Let's open the browser to run this route, so it's /throw localhost:3000/throw and we see we get the error message and we also get the so-called stack trace.
 >
@@ -2538,7 +2512,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=118)** I show you that by simply using setTimeout.
 >
-> **[2:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=121)** That's an easy way to simulate asynchronicity in Node.js, so I will create the setTimeout function here.
+> **[2:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=121)** That's an easy way to simulate asynchronicity in [[Node.js]], so I will create the setTimeout function here.
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=132)** And I move this throw statement into setTimeout and this should run after say 500 milliseconds.
 >
@@ -2598,7 +2572,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=341)** Next, let's apply what we just learned to the routes we already created so I go to the index route and there I will now create a new try catch statement and I copy over all this old code block into the try block and if an error occurs, I return next error and I have to get next as function argument here because I only had request, response because I was not using next yet.
 >
-> **[6:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=375)** This looks good but now ESLint complains we now also have to return from the try block.
+> **[6:15](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=375)** This looks good but now [[ESLint]] complains we now also have to return from the try block.
 >
 > **[6:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980&t=383)** I do the same now for the speakers route.
 >
@@ -2628,7 +2602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), express (8), application (7), [[JavaScript]] (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Node.js]] (2), [[ESLint]] (1)
 > **Code Identifiers:** settimeout (4), getnames (1)
 > **File Paths:** server.js (2), node.js (2)
 > **CLI Commands:** node (2), find (1)
@@ -2637,8 +2611,7 @@ created: 2026-05-02
 > **Ports:** :3000 (1)
 > **Tools:** visual studio (1)
 
-#### Creating an error page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980)
+#### [Creating an error page](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2656,7 +2629,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=31)** And I want to use that now as my error template in my application.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=35)** So, for that, I first click on html.
+> **[0:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=35)** So, for that, I first click on [[HTML]].
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=39)** And we see that it uses bootstrap already so there is not much to do for us.
 >
@@ -2720,7 +2693,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=209)** And there I want to actually create an error object, the proper http error.
 >
-> **[3:33](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=213)** And I can do that with a simple helper module provided by Express that I will install now so I add npm install http errors.
+> **[3:33](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=213)** And I can do that with a simple helper module provided by Express that I will install now so I add [[npm]] install http errors.
 >
 > **[3:49](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-an-error-page?u=76281980&t=229)** Now, I'm requiring this module so I add const and I call this create error equals require http dash errors.
 >
@@ -2784,7 +2757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), express (5), next (3), [[HTML]] (2), application (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[npm]] (1)
 > **Exercise Files:** template (8)
 > **CLI Commands:** find (1), npm (1)
 > **Cross-References:** as we saw (1), go back to (1)
@@ -2793,8 +2766,7 @@ created: 2026-05-02
 > **File Paths:** server.js (1)
 > **Tools:** visual studio (1)
 
-#### Populating the error page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/populating-the-error-page?u=76281980)
+#### [Populating the error page](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/populating-the-error-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2828,8 +2800,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a form template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980)
+#### [Creating a form template](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2847,7 +2818,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=27)** So you see that we have this main content and then feedback, but way up before there is this container with the content that we had before for the other template.
 >
-> **[0:41](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=41)** So I go into Visual Studio Code, there I open my static folder, and there we have a file feedback html and I'm now copying that into views, pages, and now I'm renaming the extension to .js, and then I again scroll, select everything, until I reach the container after the header section, and I can again remove everything starting with the script.
+> **[0:41](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=41)** So I go into Visual Studio Code, there I open my static folder, and there we have a file feedback [[HTML]] and I'm now copying that into views, pages, and now I'm renaming the extension to .js, and then I again scroll, select everything, until I reach the container after the header section, and I can again remove everything starting with the script.
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=73)** So this is, for now, the static template, and of course also need a random function for that, so I go into routes, feedback.js, and let's make our life easier by just copying the index route because we have this nice random function in there already, and I go back to feedback, and for this slash route, I now add the content I copied before but I'm removing the artwork and the top speakers, we don't need it here.
 >
@@ -2869,9 +2840,9 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=189)** Just to get that right, and when we save we see, yep, that works well, so now I again will do a loop statement.
 >
-> **[3:19](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=199)** So add feedback.forEach, function, and this function gets one feedback item per iteration, and again, I just act as if it was regular javascript and I close the template tags, and then I'm taking this whole block of feedback and I'm pasting it into this loop.
+> **[3:19](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=199)** So add feedback.forEach, function, and this function gets one feedback item per iteration, and again, I just act as if it was regular [[JavaScript]] and I close the template tags, and then I'm taking this whole block of feedback and I'm pasting it into this loop.
 >
-> **[3:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=230)** Now I'm wondering how those feedback items look like, and I can easily just look into my data folder and there I see the feedback json file and I see we have name, email, title, and message.
+> **[3:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=230)** Now I'm wondering how those feedback items look like, and I can easily just look into my data folder and there I see the feedback [[JSON]] file and I see we have name, email, title, and message.
 >
 > **[4:04](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980&t=244)** We won't print out the email, but we will show everything else, so I will now just change the feedback title from being static to item.title, then we have the name, so I replace the name chain with item.name, and then I also want to replace the message, so it's item.message.
 >
@@ -2885,7 +2856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (3), [[HTML]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **Exercise Files:** template (12)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** getlist (1), foreach (1)
@@ -2894,12 +2865,11 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **UI Navigation:** go to (1)
 
-#### Handling POST requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980)
+#### [Handling POST requests](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=0)** - [Instructor] So far, we've created a dynamic website that could display content that comes from some JSON file, but may be also stored in the database.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=0)** - [Instructor] So far, we've created a dynamic website that could display content that comes from some [[JSON]] file, but may be also stored in the database.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=8)** One reason to even create a dynamic website in the first place, though, is that we may need to handle user data in the one or the other way.
 >
@@ -2911,7 +2881,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=30)** We can see that there is a form in there already, but it misses a few things.
 >
-> **[0:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=35)** First of all, I hope you know HTML.
+> **[0:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=35)** First of all, I hope you know [[HTML]].
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=38)** It needs a method, so I add now the form method and I want to send this form via POST request, which is very common for any type of form.
 >
@@ -2959,7 +2929,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=170)** I stop my Nodemon server with Ctrl + C.
 >
-> **[2:54](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=174)** And I do an "npm install body-parser".
+> **[2:54](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=174)** And I do an "[[npm]] install body-parser".
 >
 > **[3:02](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=182)** Then I head over into my server.js file and there, on top, I will now add const bodyParser equals require body-parser.
 >
@@ -2969,7 +2939,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=213)** That is somewhere after line 24.
 >
-> **[3:37](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=217)** And now add app.use, bodyParser, and the Body Parser has several submodules included and we want to have URL encoded because that is how such forms are sent.
+> **[3:37](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=217)** And now add app.use, bodyParser, and the Body Parser has several submodules included and we want to have URL encoded because that is how such [[Forms]] are sent.
 >
 > **[3:54](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/handling-post-requests?u=76281980&t=234)** That's the format for that.
 >
@@ -2995,7 +2965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[JSON]] (2), [[npm]] (2), database (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[npm]] (2), [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** json (2), post (2), url (2), html (1)
 > **CLI Commands:** make (2), npm (2), find (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1)
@@ -3004,14 +2974,13 @@ created: 2026-05-02
 > **API Endpoints:** post  (2)
 > **Tools:** visual studio (1), terminal (1)
 
-#### Validating and sanitizing user input
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980)
+#### [Validating and sanitizing user input](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=0)** - [Instructor] We can now receive the form date of when a form is posted.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=3)** How can we make sure that this date is complete and also doesn't contain malicious data, like JavaScript malware?
+> **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=3)** How can we make sure that this date is complete and also doesn't contain malicious data, like [[JavaScript]] malware?
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=9)** Regardless of which measures you take in the browser to validate a form, a malicious user can always circumvent that.
 >
@@ -3023,13 +2992,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=30)** It makes input validation pretty easy.
 >
-> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=32)** So I'm just stopping my server again and I type npm install express-validator.
+> **[0:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=32)** So I'm just stopping my server again and I type [[npm]] install express-validator.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=45)** And in my feedback module, I can now add const and curly brackets because it's, again, destructuring assignment, check, validationResult equals require express-validator.
 >
 > **[1:09](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=69)** And this will all make sense to you in a second.
 >
-> **[1:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=73)** Check is a routing malware.
+> **[1:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=73)** Check is a [[Routing]] malware.
 >
 > **[1:14](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=74)** This means it accepts the same request response and next signature like any other handler function.
 >
@@ -3045,7 +3014,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=115)** Then I want to make sure that the length is at least three
 >
-> **[2:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=123)** because I assume that a name should be three characters long, Then I'm escaping that to make sure that there is no html and JavaScript embedded in this entry.
+> **[2:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=123)** because I assume that a name should be three characters long, Then I'm escaping that to make sure that there is no [[HTML]] and JavaScript embedded in this entry.
 >
 > **[2:18](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=138)** And then I add .widthMessage.
 >
@@ -3107,7 +3076,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=370)** In case an error happens, the request gets redirected to the get route, to the feedback route.
 >
-> **[6:17](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=377)** And in the get route, the can now fetch those errors from the session object.
+> **[6:17](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=377)** And in the get route, the can now [[Fetch]] those errors from the session object.
 >
 > **[6:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/validating-and-sanitizing-user-input?u=76281980&t=382)** So let's go up to the get route here on line 10 and there I now add somewhere, before the render function takes place, const errors = request.session.feedback, if this exists, so I'm adding a question mark.
 >
@@ -3167,7 +3136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (9), next (4), data (3), [[JavaScript]] (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[npm]] (2), [[Routing]] (1), [[HTML]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (5), npm (2)
 > **Code Identifiers:** validationresult (2), widthmessage (1), isemail (1), normailzeemail (1), isempty (1)
 > **Exercise Files:** template (5)
@@ -3176,8 +3145,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 
-#### Storing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/storing-data?u=76281980)
+#### [Storing data](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/storing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3199,7 +3167,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/storing-data?u=76281980&t=55)** Now I can just add await feedbackService.addEntry.
 >
-> **[1:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/storing-data?u=76281980&t=65)** Now I have to do two things, first of all I have to make this callback async because we are waiting here, and I also have to fetch all those items from my body.
+> **[1:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/storing-data?u=76281980&t=65)** Now I have to do two things, first of all I have to make this callback async because we are waiting here, and I also have to [[Fetch]] all those items from my body.
 >
 > **[1:18](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/storing-data?u=76281980&t=78)** These items are not sanitized and escaped by express validator.
 >
@@ -3235,7 +3203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Fetch]] (1), express (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Code Identifiers:** feedbackservice (2), addentry (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Exercise Files:** template (2)
@@ -3248,18 +3216,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A little intro to REST APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980)
+#### [A little intro to REST APIs](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=0)** - [Instructor] REST stands for Representational State Transfer, and it defines a way for creating web services.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=0)** - [Instructor] [[Representational State Transfer (REST)|REST]] stands for [[Representational State Transfer (REST)|Representational State Transfer]], and it defines a way for creating web services.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=7)** Today, such RESTful services are the most commonly used pattern for APIs.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=12)** You find courses dedicated to REST with Node.js in the library, yet in times of single-page apps, it's such a common use case for Express that I want to cover it in this course as well.
+> **[0:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=12)** You find courses dedicated to REST with [[Node.js]] in the library, yet in times of single-page apps, it's such a common use case for Express that I want to cover it in this course as well.
 >
-> **[0:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=22)** In this chapter, we will use some client-side JavaScript and the REST API to send feedback directly to a REST endpoint and also to update the webpage without reloading it, but let's first look at the basics.
+> **[0:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=22)** In this chapter, we will use some client-side [[JavaScript]] and the REST API to send feedback directly to a REST endpoint and also to update the webpage without reloading it, but let's first look at the basics.
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=37)** When we talked about routes, we already touched the topic of HTTP verbs.
 >
@@ -3269,7 +3236,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=73)** Get requests a resource, post creates a resource, put is usually used for updating a resource, and delete deletes a resource.
 >
-> **[1:24](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=84)** The main difference between the regular route and the REST route is that the regular route will return you HTML in most cases, but REST returns data, and in most cases, this is formatted as JSON, but let's look at an example, let's say we want to create a simple user management system.
+> **[1:24](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=84)** The main difference between the regular route and the REST route is that the regular route will return you [[HTML]] in most cases, but REST returns data, and in most cases, this is formatted as [[JSON]], but let's look at an example, let's say we want to create a simple [[User Management]] system.
 >
 > **[1:45](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=105)** When working with data, three operations are so common that they got their own acronym, it's create, update, and delete, in short, CRUD.
 >
@@ -3287,7 +3254,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=176)** Simply put, the initial request returns an initial document, this document usually contains a lot of JavaScript which is then used to actually render the HTML or the content into the page.
 >
-> **[3:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=192)** All subsequent interactions with the web sets and the data behind it is done by a so-called XHR, sometimes referred to as AJAX, it's an API built into JavaScript on the browser to do HTTP requests.
+> **[3:12](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=192)** All subsequent interactions with the web sets and the data behind it is done by a so-called XHR, sometimes referred to as [[AJAX]], it's an API built into JavaScript on the browser to do HTTP requests.
 >
 > **[3:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980&t=206)** So after that initial request, the page isn't reloaded anymore, but sends data to the back end when needed and is updated via JavaScript using the data received from the back end.
 >
@@ -3295,7 +3262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (11), data (7), [[JavaScript]] (4), web (2), api (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (11), [[JavaScript]] (4), [[HTML]] (2), [[JSON]] (2), [[Representational State Transfer (REST)|Representational state transfer]] (1)
 > **Env Vars:** rest (11), http (5), api (2), html (2), json (2)
 > **CLI Commands:** make (3), find (1), node (1)
 > **Analogies:** similar to (1), for instance (1)
@@ -3304,16 +3271,15 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and testing an API endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980)
+#### [Creating and testing an API endpoint](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=0)** - [Instructor] We've learned the basics about rest APIs already.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=0)** - [Instructor] We've learned the basics about [[Representational State Transfer (REST)|rest]] APIs already.
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=3)** Technically, a rest endpoint is no different from any other route in Express.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=7)** The only difference is that is won't return an html page, but most likely, json.
+> **[0:07](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=7)** The only difference is that is won't return an [[HTML]] page, but most likely, [[JSON]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=13)** I want to create a route now that can be used to insert a new feedback entry.
 >
@@ -3383,7 +3349,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=275)** And after this was done, after this was stored, I now want to return the now updated list of feedback entries, so I'm adding a new line, const feedback equals await feedback, service dot get list and in the variant, I will return response dot json, and I want to return an object that should contain and key feedback.
 >
-> **[5:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=313)** Next, I want to have an easy way to test this endpoint to make sure that this works properly and for any API testing I recommend a tool called Postman.
+> **[5:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=313)** Next, I want to have an easy way to test this endpoint to make sure that this works properly and for any [[API Testing]] I recommend a tool called Postman.
 >
 > **[5:23](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=323)** And I will, really quick, install that now.
 >
@@ -3421,7 +3387,7 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=446)** So what's happening here?
 >
-> **[7:28](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=448)** Maybe you can guess that similar to the body parts that we needed for forms, we now also need the body parts are for Jasn.
+> **[7:28](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=448)** Maybe you can guess that similar to the body parts that we needed for [[Forms]], we now also need the body parts are for Jasn.
 >
 > **[7:35](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-and-testing-an-api-endpoint?u=76281980&t=455)** This can be very easily edit.
 >
@@ -3441,7 +3407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), [[Representational State Transfer (REST)|Rest]] (7), api (5), next (5), data (4)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Representational State Transfer (REST)|Rest]] (7), [[HTML]] (1), [[API Testing]] (1), [[Forms]] (1)
 > **Env Vars:** api (5)
 > **UI Navigation:** go to (2), click on (1), dropdown (1)
 > **Tools:** postman (3)
@@ -3450,18 +3416,17 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
 
-#### Add client side JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980)
+#### [Add client side JavaScript](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=0)** - [Daniel] We now want to leverage those API endpoints that we just created to modify our feedback page to send the form to the server using XHR, and to update the feedback shown on the page.
 >
-> **[0:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=11)** Technically, we will first load the completely random page containing the JavaScript needed for those interactions, From then, all subsequent requests will use the REST API.
+> **[0:11](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=11)** Technically, we will first load the completely random page containing the [[JavaScript]] needed for those interactions, From then, all subsequent requests will use the [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=21)** This combination of initial server-side rendering and client-side updates is very common in so-called Single-Page apps.
 >
-> **[0:28](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=28)** As it would be completely out of scope to cover Single-page application frameworks like React, Angular or Vue.js in this course, we will take it easy and use jQuery, a simple, but powerful, library that lets us do XHR requests and also easily lets us update the page via JavaScript.
+> **[0:28](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=28)** As it would be completely out of scope to cover Single-page application frameworks like [[React.js|React]], [[Angular]] or [[Vue.js]] in this course, we will take it easy and use jQuery, a simple, but powerful, library that lets us do XHR requests and also easily lets us update the page via JavaScript.
 >
 > **[0:44](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/add-client-side-javascript?u=76281980&t=44)** You find plenty of courses on jQuery in the library if you want to dive deeper into the topic.
 >
@@ -3517,7 +3482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), api (2), [[Representational State Transfer (REST)|Rest]] (1), application (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1), [[Angular]] (1), [[Vue.js]] (1)
 > **Env Vars:** api (2), xhr (2), rest (1)
 > **Code Identifiers:** jquery (4)
 > **File Paths:** feedback.js (2), vue.js (1)
@@ -3526,12 +3491,11 @@ created: 2026-05-02
 > **Exercise Files:** template (2), source code (1)
 > **Tools:** visual studio (1)
 
-#### Updating the page from REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980)
+#### [Updating the page from REST](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=0)** - We just added the feedback.js client-side JavaScript to the page.
+> **[0:00](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=0)** - We just added the feedback.js client-side [[JavaScript]] to the page.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=5)** And now let's look into this script to understand what it's doing, basically.
 >
@@ -3585,7 +3549,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=133)** So if the form was successfully processed, we can then use the data that we get from this post request because our endpoint will give us the full list of feedback back.
 >
-> **[2:25](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=145)** So we now traverse that and create the HTML needed to replace the feedback list on the right side.
+> **[2:25](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=145)** So we now traverse that and create the [[HTML]] needed to replace the feedback list on the right side.
 >
 > **[2:32](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=152)** So this looks very similar to what we did before on the server side.
 >
@@ -3693,7 +3657,7 @@ created: 2026-05-02
 >
 > **[7:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=423)** We have a list with all speakers, and then also speakers detail pages, that will render just (unintelligible) off a given speaker.
 >
-> **[7:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=433)** This whole structure of the web page and what we created like forms or dynamic lists or galleries is very generic.
+> **[7:13](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=433)** This whole structure of the web page and what we created like [[Forms]] or dynamic lists or galleries is very generic.
 >
 > **[7:20](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/updating-the-page-from-rest?u=76281980&t=440)** So you will come across such patterns in a lot of websites.
 >
@@ -3701,7 +3665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (3), api (3), css (2), web (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (1), [[Forms]] (1)
 > **Env Vars:** api (3), xhr (2), css (2), enter (1), html (1)
 > **UI Navigation:** go to (2), scroll down (2), scroll up (1), open the (1)
 > **Code Identifiers:** jquery (4), successmessage (1)
@@ -3715,8 +3679,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build on what you've learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980)
+#### [Build on what you've learned](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3724,9 +3687,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980&t=1)** I hope you liked it.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980&t=3)** In this course you learned everything you need to know to create basic website with Node.js.
+> **[0:03](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980&t=3)** In this course you learned everything you need to know to create basic website with [[Node.js]].
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980&t=8)** If you want to take this further, I recommend you to now take my course Advanced Express, which dives deeper into the internals of Express, but also shows you how to use databases or how to upload files.
+> **[0:08](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980&t=8)** If you want to take this further, I recommend you to now take my course Advanced Express, which dives deeper into the internals of Express, but also shows you how to use [[Databases]] or how to upload files.
 >
 > **[0:22](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980&t=22)** If something during this course looked unfamiliar, please search our library for it.
 >
@@ -3742,7 +3705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), express (2), [[Databases]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Databases]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Speakers:** - [daniel] (1)

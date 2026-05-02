@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demystifying measurement in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980)
+#### [Demystifying measurement in business](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,17 +94,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=19)** We'll cover subjects like metrics, KPIs, the SMART methodology, differences between quantitative and qualitative metrics, and much more.
 >
-> **[0:29](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=29)** I'll also share my preferred metrics across businesses like e-commerce, subscription based businesses and services.
+> **[0:29](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=29)** I'll also share my preferred metrics across businesses like [[E-Commerce]], subscription based businesses and services.
 >
 > **[0:35](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=35)** My name is Nitesh Sharoff.
 >
 > **[0:37](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=37)** I'm an analytics consultant and over the years, I've worked with dozens of companies as well as founded a few of my own.
 >
-> **[0:43](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=43)** Join me in my LinkedIn learning course where we'll discover how to better measure performance across your department or business and ensure your focus stays where it's actually needed.
+> **[0:43](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980&t=43)** Join me in my [[LinkedIn]] learning course where we'll discover how to better measure performance across your department or business and ensure your focus stays where it's actually needed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Analytics]] (1), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[LinkedIn]] (1)
 > **Env Vars:** kpi (1), smart (1)
 > **Speakers:** - as (1)
 
@@ -114,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are KPIs and Why Do They Matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-kpis-and-why-do-they-matter?u=76281980)
+#### [What are KPIs and Why Do They Matter?](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-kpis-and-why-do-they-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,14 +157,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (1)
 > **Analogies:** picture (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** kpi (2)
 > **Speakers:** - [narrator] (1)
 
-#### How to Set Effective KPIs: SMART Methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/how-to-set-effective-kpis-smart-methodology?u=76281980)
+#### [How to Set Effective KPIs: SMART Methodology](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/how-to-set-effective-kpis-smart-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -246,7 +242,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), hit (1)
 > **Env Vars:** smart (3), kpi (2)
 > **Definitions:** is a  (1), known as (1), stands for (1), is an  (1)
 > **CLI Commands:** make (3)
@@ -259,12 +254,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are metrics and how can we use them?
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980)
+#### [What are metrics and how can we use them?](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=0)** - [Narrator] The word metric might sound intimidating, but it simply means a system of measurement.
+> **[0:00](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=0)** - [Narrator] The [[Microsoft Word|word]] metric might sound intimidating, but it simply means a system of measurement.
 >
 > **[0:05](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=5)** When we think about measuring anything, we tend to think in numbers and yes, numbers are metrics.
 >
@@ -272,7 +266,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=22)** Numbers are great indicators of whether things are higher, lower, better, or worse.
 >
-> **[0:27](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=27)** Business metrics can be loosely grouped into four categories.
+> **[0:27](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=27)** [[Business Metrics]] can be loosely grouped into four categories.
 >
 > **[0:31](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980&t=31)** Financial metrics.
 >
@@ -320,13 +314,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Business Metrics]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Env Vars:** nps (1)
 > **Speakers:** - [narrator] (1)
 
-#### What's the difference between a KPI and a metric?
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-s-the-difference-between-a-kpi-and-a-metric?u=76281980)
+#### [What's the difference between a KPI and a metric?](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-s-the-difference-between-a-kpi-and-a-metric?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,15 +373,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), business (1), next (1)
 > **Env Vars:** kpi (9)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Qualitative metrics and quantiative metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980)
+#### [Qualitative metrics and quantiative metrics](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=105)** It's common for us to measure quantitative metrics, as they're generally more widely available, but qualitative metrics offer a greater insight into how we're actually doing.
 >
-> **[1:56](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=116)** In the case of Carmen and her bakery, a quantitative metric could be the number of products sold.
+> **[1:56](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=116)** In the case of Carmen and her bakery, a quantitative metric could be the number of [[Microsoft Products|products]] sold.
 >
 > **[2:02](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=122)** This is an indicator of things going well from a sales perspective, but what if Carmen had replaced an ingredient?
 >
@@ -440,19 +431,18 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=132)** This is where qualitative metrics give her a better understanding of the customer experience.
 >
-> **[2:18](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=138)** If Carmen monitored her customer feedback forms and measured customer satisfaction rate, she could easily see what product customers did not like and potentially switch back to the previous ingredient too!
+> **[2:18](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=138)** If Carmen monitored her customer feedback [[Forms]] and measured customer satisfaction rate, she could easily see what product customers did not like and potentially switch back to the previous ingredient too!
 >
 > **[2:30](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/qualitative-metrics-and-quantiative-metrics?u=76281980&t=150)** No matter what you measure, my recommendation is to always have one quantitative metric and one qualitative metric at a minimum, ensuring both of these are tied to the business objective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (1), [[Forms]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding vanity metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/avoiding-vanity-metrics?u=76281980)
+#### [Avoiding vanity metrics](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/avoiding-vanity-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +468,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/avoiding-vanity-metrics?u=76281980&t=71)** To further explain this topic, let's relate vanity metrics to a digital world.
 >
-> **[1:16](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/avoiding-vanity-metrics?u=76281980&t=76)** Suppose we were talking about an online e-commerce business.
+> **[1:16](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/avoiding-vanity-metrics?u=76281980&t=76)** Suppose we were talking about an online [[E-Commerce]] business.
 >
 > **[1:19](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/avoiding-vanity-metrics?u=76281980&t=79)** A metric I consider a vanity metric is the total number of site visitors or sometimes referred to as site traffic.
 >
@@ -500,14 +490,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[E-Commerce]] (1), business (1), product (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kpi (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Proxy metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/proxy-metrics?u=76281980)
+#### [Proxy metrics](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/proxy-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,14 +546,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Calculated metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/calculated-metrics?u=76281980)
+#### [Calculated metrics](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/calculated-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/calculated-metrics?u=76281980&t=17)** Thinking back to Carmen's Bakery, imagine she introduced a new range of more expensive croissants.
 >
-> **[0:22](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/calculated-metrics?u=76281980&t=22)** Carmen is keen to understand whether these products bring in more sales for the bakery.
+> **[0:22](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/calculated-metrics?u=76281980&t=22)** Carmen is keen to understand whether these [[Microsoft Products|products]] bring in more sales for the bakery.
 >
 > **[0:27](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/calculated-metrics?u=76281980&t=27)** A quick way for Carmen to understand if this is working is by using a calculated metric like average order value.
 >
@@ -637,8 +624,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Critical Metrics for E-Commerce Success
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980)
+#### [Critical Metrics for E-Commerce Success](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=8)** Carmen finally opened up her eCommerce store and is working to make sure she's tracking the right metrics to ensure the success of her store.
 >
-> **[0:15](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=15)** eCommerce breaks down into four main areas, people, products, sales, and inventory.
+> **[0:15](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=15)** eCommerce breaks down into four main areas, people, [[Microsoft Products|products]], sales, and inventory.
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=22)** As a bare minimum, I always recommend one quantitative metric and one qualitative metric per area that can be shared across the business.
 >
@@ -694,7 +680,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=153)** Generally, in eCommerce, it's expensive for us to bring in new users, so bringing existing customers back is crucial.
 >
-> **[2:40](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=160)** Harvard University found that the probability of selling to an existing customer is 60 to 70% versus selling to a new customer, which is five to 20%.
+> **[2:40](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=160)** Harvard University found that the [[Probability]] of selling to an existing customer is 60 to 70% versus selling to a new customer, which is five to 20%.
 >
 > **[2:50](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980&t=170)** So it's really important to know if these customers are coming back to the site, even if it's just to browse.
 >
@@ -712,7 +698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), business (1), traffic (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Probability]] (1)
 > **Code Identifiers:** ecommerce (5)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
@@ -720,12 +706,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Critical Metrics for E-Commerce Success Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success-part-2?u=76281980)
+#### [Critical Metrics for E-Commerce Success Part 2](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success-part-2?u=76281980&t=0)** - [Narrator] In the previous video, I covered my preferred metrics for e-commerce, specifically people and products.
+> **[0:00](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success-part-2?u=76281980&t=0)** - [Narrator] In the previous video, I covered my preferred metrics for [[E-Commerce]], specifically people and [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success-part-2?u=76281980&t=6)** In this video, I'll talk over metrics for sales and inventory.
 >
@@ -771,14 +756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (5), [[Microsoft Products|Products]] (4), product (2), business (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (5), [[Microsoft Products|Products]] (4)
 > **Analogies:** for example (2)
 > **Env Vars:** aov (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Key Metrics for subscription businesses
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses?u=76281980)
+#### [Key Metrics for subscription businesses](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +842,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses?u=76281980&t=195)** This is the count of engaged users that use your product daily, weekly, or monthly.
 >
-> **[3:20](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses?u=76281980&t=200)** In our case, these would be the customers that are part of the coffee club as opposed to the rest of clients that visit the bakery.
+> **[3:20](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses?u=76281980&t=200)** In our case, these would be the customers that are part of the coffee club as opposed to the [[Representational State Transfer (REST)|rest]] of clients that visit the bakery.
 >
 > **[3:28](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses?u=76281980&t=208)** Because our coffee membership was only valid for a week, Carmen chose to monitor DAU and WAU, or daily and weekly active users.
 >
@@ -878,15 +862,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), business (1), management (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dau (2), wau (2), mau (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Key Metrics for subscription businesses Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses-part-2?u=76281980)
+#### [Key Metrics for subscription businesses Part 2](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-for-subscription-businesses-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,13 +927,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key metrics in the service industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-in-the-service-industry?u=76281980)
+#### [Key metrics in the service industry](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-in-the-service-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-in-the-service-industry?u=76281980&t=4)** Let me break down how we do this at Growth Runner, our data and analytics consultancy, and you'll be able to apply this method to any service sector.
 >
-> **[0:12](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-in-the-service-industry?u=76281980&t=12)** At Growth Runner, we get several inquiries a month asking us to support with tools like Google Analytics for or building out data warehouses for businesses.
+> **[0:12](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-in-the-service-industry?u=76281980&t=12)** At Growth Runner, we get several inquiries a month asking us to support with tools like [[Google]] Analytics for or building out data warehouses for businesses.
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/key-metrics-in-the-service-industry?u=76281980&t=22)** Our objective is to support as many clients as we can, and for that we need a sales process.
 >
@@ -992,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (2), [[Analytics]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
@@ -1002,8 +983,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying SMART KPIs: Carmen's Bakery Growth Plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/applying-smart-kpis-carmen-s-bakery-growth-plan?u=76281980)
+#### [Applying SMART KPIs: Carmen's Bakery Growth Plan](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/applying-smart-kpis-carmen-s-bakery-growth-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,14 +1055,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), business (2), next (1), hit (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** smart (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Meeting KPIs: Measuring performance in Sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-sales?u=76281980)
+#### [Meeting KPIs: Measuring performance in Sales](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,13 +1108,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** kpi (3), aov (1)
 > **Cross-References:** as we saw (1), in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Meeting KPIs: Measuring performance in Operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-operations?u=76281980)
+#### [Meeting KPIs: Measuring performance in Operations](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,13 +1164,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Meeting KPIs: Measuring performance in Purchasing
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-purchasing?u=76281980)
+#### [Meeting KPIs: Measuring performance in Purchasing](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-purchasing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,7 +1178,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-purchasing?u=76281980&t=11)** Purchasing is responsible for ensuring the operations team has the required raw ingredients to meet their new demand.
 >
-> **[0:18](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-purchasing?u=76281980&t=18)** Currently, their KPIs are cost per unit, the cost of all the ingredients divided by the number of products baked; stock-out days, the number of days purchasing was out of stock for any ingredient; waste percentage, the cost of ingredients for thrown away goods divided by the total cost of purchases.
+> **[0:18](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-purchasing?u=76281980&t=18)** Currently, their KPIs are cost per unit, the cost of all the ingredients divided by the number of [[Microsoft Products|products]] baked; stock-out days, the number of days purchasing was out of stock for any ingredient; waste percentage, the cost of ingredients for thrown away goods divided by the total cost of purchases.
 >
 > **[0:39](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/meeting-kpis-measuring-performance-in-purchasing?u=76281980&t=39)** And a typical week looks like this.
 >
@@ -1238,8 +1212,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sharing metrics and KPIs with your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980)
+#### [Sharing metrics and KPIs with your organization](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,7 +1226,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=13)** Now, I'm sure some of you're wondering what to do in your next steps.
 >
-> **[0:16](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=16)** So I think one area to focus on is how to share metrics and KPIs with the rest of the organization.
+> **[0:16](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=16)** So I think one area to focus on is how to share metrics and KPIs with the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[0:23](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=23)** And a great way to visualize KPIs is with a KPI tree.
 >
@@ -1263,13 +1236,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=37)** Thank you for taking the time to take this course.
 >
-> **[0:39](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=39)** If you have any questions about measurement as a whole or you'd simply like to stay in touch, feel free to connect with me on LinkedIn.
+> **[0:39](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=39)** If you have any questions about measurement as a whole or you'd simply like to stay in touch, feel free to connect with me on [[LinkedIn]].
 >
 > **[0:46](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980&t=46)** I wish you all the best with your learning journey, and I look forward to connecting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** kpi (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [narrator] (1)

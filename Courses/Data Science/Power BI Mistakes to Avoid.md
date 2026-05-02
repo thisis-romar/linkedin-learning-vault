@@ -78,16 +78,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your Power BI skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980)
+#### [Improve your Power BI skills](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980&t=0)** - Power BI is a really powerful tool for analyzing data and creating business intelligence reports.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980&t=0)** - [[Microsoft Power BI|Power BI]] is a really powerful tool for analyzing data and creating [[Business Intelligence (BI)|business intelligence]] reports.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980&t=6)** But whether you realize it or not, there are a set of mistakes and errors that can keep you from making the most out of Power BI.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980&t=14)** My name is John David Ariansen and I'm an analytics expert consultant, and I have years of experience teaching analytics both in and outside of the classroom.
+> **[0:14](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980&t=14)** My name is [[John the Ripper|John]] David Ariansen and I'm an analytics expert consultant, and I have years of experience teaching analytics both in and outside of the classroom.
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980&t=23)** I'm also the host of the "How to Get an Analytics Job" Podcast, where we've interviewed over 100 analytics experts to date.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), [[Analytics]] (4), data (3), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Business Intelligence (BI)|Business intelligence]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - power (1)
 
@@ -108,16 +107,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Main challenges of Power BI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980)
+#### [Main challenges of Power BI?](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=0)** - [Instructor] Power BI is an amazing tool that can really help an organization make the most of their data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=0)** - [Instructor] [[Microsoft Power BI|Power BI]] is an amazing tool that can really help an organization make the most of their data.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=5)** When used effectively, Power BI can help you take large unstructured data sources and turn them into reports that your management team can use to make better decisions.
+> **[0:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=5)** When used effectively, Power BI can help you take large [[Unstructured Data]] sources and turn them into reports that your management team can use to make better decisions.
 >
-> **[0:16](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=16)** According to the Microsoft certification exam, Power BI breaks down into five main functions.
+> **[0:16](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=16)** According to the [[Microsoft]] certification exam, Power BI breaks down into five main functions.
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=23)** Number one, we have connecting to data, number two, we have modeling data, three is visualizing data, four is analyzing data, and finally, number five is sharing insights.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=39)** The modeling the data section of this exam accounts for up to 30% of exam questions, so let's say it's safe to argue that this is probably the area of Power BI where most of the mistakes are made.
 >
-> **[0:53](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=53)** For those of you who are brand new to business intelligence, creating a data model is the process of combining your data sources together.
+> **[0:53](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=53)** For those of you who are brand new to [[Business Intelligence (BI)|business intelligence]], creating a data model is the process of combining your data sources together.
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=60)** You can think of your data model as the blueprint for how your data sources fit together.
 >
@@ -153,23 +151,22 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=154)** I would strongly suggest that you do some research on this topic, especially, if you want to make the most out of your analysis within Power BI.
 >
-> **[2:42](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=162)** In order for you to be an effective Power BI user, remember to study up on data modeling, visualizing, and analyzing data.
+> **[2:42](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980&t=162)** In order for you to be an effective Power BI user, remember to study up on [[Data Modeling]], visualizing, and analyzing data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (10), bi (10), management (2), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (10), [[Unstructured Data]] (1), [[Microsoft]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Modeling]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Best Practices:** best practice (1), remember to (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Systems thinking vs. ad hoc analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980)
+#### [Systems thinking vs. ad hoc analysis](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=0)** - [Instructor] A seasoned business intelligence developer knows how to take a systems approach to their analysis.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=0)** - [Instructor] A seasoned [[Business Intelligence (BI)|business intelligence]] developer knows how to take a systems approach to their analysis.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=6)** This kind of approach helps you eliminate human errors and build reports much faster.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=62)** Number one, I would help them define their goals and problems.
 >
-> **[1:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=65)** Number two, we would define key metrics, and number three, we would conduct a data governance audit.
+> **[1:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=65)** Number two, we would define key metrics, and number three, we would conduct a [[Data Governance]] audit.
 >
 > **[1:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=71)** Once we ran through these three steps, the analysis became a whole lot more clear.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=98)** You can think of this as a system or a systems approach.
 >
-> **[1:42](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=102)** Since the data is cleaned and updated automatically, I can now just add a new page within my Power BI workbook to start some brand new analysis.
+> **[1:42](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=102)** Since the data is cleaned and updated automatically, I can now just add a new page within my [[Microsoft Power BI|Power BI]] workbook to start some brand new analysis.
 >
 > **[1:51](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/systems-thinking-vs-ad-hoc-analysis?u=76281980&t=111)** I no longer have to manually pull, clean, and model the data every time a new question arises.
 >
@@ -209,16 +206,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Business Intelligence (BI)|Business intelligence]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Governance]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Being an effective analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980)
+#### [Being an effective analyst](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=0)** - [Instructor] Before you even sit down and start working with Power BI, you should know a thing or two about data analysis.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=0)** - [Instructor] Before you even sit down and start working with [[Microsoft Power BI|Power BI]], you should know a thing or two about data analysis.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=7)** Now, there are three things that make an analyst really effective, and they are, number one, business domain knowledge.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=100)** It's been my experience that chief marketing officers are a little bit more comfortable with visualization and like using the interactive components of data visualization tools like Power BI.
 >
-> **[1:53](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=113)** Now, on the other hand, I have had a consulting engagement where a chief financial officer asked me specifically to design the reports so that he could later pull out the data out of Power BI and into Excel.
+> **[1:53](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=113)** Now, on the other hand, I have had a consulting engagement where a chief financial officer asked me specifically to design the reports so that he could later pull out the data out of Power BI and into [[Microsoft Excel|Excel]].
 >
 > **[2:09](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=129)** He wanted to do further analysis on his own within Excel, where he was much more comfortable.
 >
@@ -260,9 +256,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=146)** Power BI is an amazing tool that can help you take huge amounts of raw data and turn them into reports that uncover insights.
 >
-> **[2:34](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=154)** Now, breaking Power BI down a little bit further, the core skills you need to develop to be an effective Power BI developer are data modeling, data visualization, analysis, and how to use Power BI service.
+> **[2:34](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=154)** Now, breaking Power BI down a little bit further, the core skills you need to develop to be an effective Power BI developer are [[Data Modeling]], data visualization, analysis, and how to use Power BI service.
 >
-> **[2:51](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=171)** You may also want to learn how to use DAX and M Code to customize your reports even further.
+> **[2:51](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=171)** You may also want to learn how to use [[DAX]] and M Code to customize your reports even further.
 >
 > **[2:56](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/being-an-effective-analyst?u=76281980&t=176)** DAX is the library of functions and operators that help you further analyze your data, and M Code is the language Power BI uses to create custom queries to a data source.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (9), data (8), business (7), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Microsoft Excel|Excel]] (2), [[DAX]] (2), [[Data Modeling]] (1)
 > **Env Vars:** dax (2), ceo (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you need to have (2)
@@ -280,8 +276,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keys to effective data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/keys-to-effective-data-visualization?u=76281980)
+#### [Keys to effective data visualization](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/keys-to-effective-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,7 +338,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), hit (1), next (1), business (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -355,14 +349,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Don't pull in too much data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980)
+#### [Don't pull in too much data](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980&t=0)** - [Instructor] A common mistake that Power BI users often make is that they pull in way too much data into Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980&t=0)** - [Instructor] A common mistake that [[Microsoft Power BI|Power BI]] users often make is that they pull in way too much data into Power BI.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980&t=6)** Then later use the Power Query editor to filter in only the data that they need.
+> **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980&t=6)** Then later use the [[Microsoft Power Query|Power Query]] editor to filter in only the data that they need.
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980&t=12)** So let's walk through a use case of why this problem might arise.
 >
@@ -388,15 +381,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), power (4), bi (4), [[Microsoft Power Query|Power query]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eliminate extra applied steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980)
+#### [Eliminate extra applied steps](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,15 +416,15 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=84)** And unfortunately, we're connecting to a flat file, and I need to uncover or unpack the concept of folding queries.
 >
-> **[1:34](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=94)** So what's happening in Power BI now is we're connecting to the full data source, then applying these steps to manipulate it.
+> **[1:34](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=94)** So what's happening in [[Microsoft Power BI|Power BI]] now is we're connecting to the full data source, then applying these steps to manipulate it.
 >
 > **[1:42](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=102)** Unfortunately, the steps that we just applied didn't really improve our performance too much.
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=108)** Now, if we were connecting to a database with a live connection, then we could push these applied steps back to the core data set and only pull what we need.
 >
-> **[2:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=120)** So in this situation, what I would advise you to do is to go back to the place where you're pulling your Excel file.
+> **[2:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=120)** So in this situation, what I would advise you to do is to go back to the place where you're pulling your [[Microsoft Excel|Excel]] file.
 >
-> **[2:08](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=128)** So for example, I have a client who sells through Lowe's Hardware and Home Depot, and what we have to do is we go into those big organizations' data sets, and then pull queries out.
+> **[2:08](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=128)** So for example, I have a client who sells through Lowe's [[Hardware]] and Home Depot, and what we have to do is we go into those big organizations' data sets, and then pull queries out.
 >
 > **[2:21](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-extra-applied-steps?u=76281980&t=141)** So in that situation, I wouldn't pull the full query of all of the past five years and all of the industries.
 >
@@ -446,23 +438,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (1), bi (1), database (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Microsoft Excel|Excel]] (1), [[Hardware]] (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remember to profile your data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980)
+#### [Remember to profile your data sources](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=0)** - [Host] A very common mistake that analysts often make, and this even supersedes just Power BI users, is that they fail to profile their data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=0)** - [Host] A very common mistake that analysts often make, and this even supersedes just [[Microsoft Power BI|Power BI]] users, is that they fail to profile their data.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=10)** So what does this mean?
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=11)** It means that you take a look at your data quality before you put your reports together and present them to your manager or end user.
+> **[0:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=11)** It means that you take a look at your [[Data Quality]] before you put your reports together and present them to your manager or end user.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=21)** What happens if you don't do this is you might run the risk of presenting bad data.
 >
@@ -472,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=38)** Luckily, Power BI actually has some great data profiling tools baked right into the platform.
 >
-> **[0:45](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=45)** I've gone ahead and connected to our sales data source and let's go ahead and open up the Power Query editor.
+> **[0:45](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=45)** I've gone ahead and connected to our sales data source and let's go ahead and open up the [[Microsoft Power Query|Power Query]] editor.
 >
 > **[0:52](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=52)** So click the transform data button, and now what you'll notice along the top of these rows, you'll see a green bar.
 >
@@ -492,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=109)** So right now we can select column distribution, and that's going to show us a breakdown of how each of these row values are distributed within a given field.
 >
-> **[2:02](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=122)** And we can also click on column profile to show a column statistics breakdown.
+> **[2:02](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=122)** And we can also click on column profile to show a column [[Statistics]] breakdown.
 >
 > **[2:09](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remember-to-profile-your-data-sources?u=76281980&t=129)** So we can see that there are 99 rows, zero errors in empty, there's 360 distinct values.
 >
@@ -508,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), power (2), bi (2), [[Microsoft Power Query|Power query]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
@@ -516,12 +507,11 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [host] (1)
 
-#### Remove unnecessary rows and columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980)
+#### [Remove unnecessary rows and columns](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=0)** - [Presenter] One of the common mistakes that my Power BI students often make is that they pull in too much data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=0)** - [Presenter] One of the common mistakes that my [[Microsoft Power BI|Power BI]] students often make is that they pull in too much data.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=7)** And what you wanna do is remove as many rows and columns from your query as possible.
 >
@@ -539,7 +529,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=52)** And one of the most effective ways to do that is to remove redundant columns.
 >
-> **[0:59](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=59)** So I've gone ahead and pulled up our sales data source into the Power Query Editor, and if we scroll over, I wanted to call your attention to Size of Team, Team Size Code, and also Team Size.
+> **[0:59](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=59)** So I've gone ahead and pulled up our sales data source into the [[Microsoft Power Query|Power Query]] Editor, and if we scroll over, I wanted to call your attention to Size of Team, Team Size Code, and also Team Size.
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=73)** So these are redundant.
 >
@@ -583,7 +573,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=177)** So Power BI will only connect to the three industries we selected, and also only to Team Size, as opposed to the other two columns.
 >
-> **[3:08](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=188)** So if you have a flat file, such as an Excel file, like in this example, you need to go back to your data source and only pull the data that is necessary.
+> **[3:08](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=188)** So if you have a flat file, such as an [[Microsoft Excel|Excel]] file, like in this example, you need to go back to your data source and only pull the data that is necessary.
 >
 > **[3:18](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/remove-unnecessary-rows-and-columns?u=76281980&t=198)** So the data cleanup in that process is actually before you get it into Power BI.
 >
@@ -591,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (4), bi (4), [[Microsoft Power Query|Power query]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** means that (1), is an  (1), in other words (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -605,12 +595,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a lookup table
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980)
+#### [Create a lookup table](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=0)** - [Instructor] Creating a data model can be a major challenge, and a common mistake that I see often is that Power BI users fail to create a fact or a lookup table.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=0)** - [Instructor] Creating a data model can be a major challenge, and a common mistake that I see often is that [[Microsoft Power BI|Power BI]] users fail to create a fact or a lookup table.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=11)** What this does is it enables you to connect all of your data sources to one central point with a key set of facts.
 >
@@ -618,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=24)** So I've pulled up Power BI, and let's go ahead and click Get data.
 >
-> **[0:29](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=29)** The sample files for this course are Excel files, so let's go ahead and connect to Excel, And we can go ahead and connect to our POWER_MISTAKES_DATA.
+> **[0:29](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=29)** The sample files for this course are [[Microsoft Excel|Excel]] files, so let's go ahead and connect to Excel, And we can go ahead and connect to our POWER_MISTAKES_DATA.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=41)** So within this Excel file, there are four different sheets.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=48)** So our Lead Code sheet, our Marketing Budget, our Sales Data, and also our Sales Representative.
 >
-> **[0:57](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=57)** And what we're going to do is head straight over to the Power Query editor so we can go ahead and create that lookup table.
+> **[0:57](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=57)** And what we're going to do is head straight over to the [[Microsoft Power Query|Power Query]] editor so we can go ahead and create that lookup table.
 >
 > **[1:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980&t=65)** So let's select Transform Data, and this is going to open up the Power Query editor.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (3), power (2), bi (2), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Power Query|Power query]] (2)
 > **UI Navigation:** right-click (2), double-click (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -702,8 +691,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use star schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980)
+#### [Use star schema](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +699,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=4)** And when you're working with this volume of data, it's very important that you choose the right schema.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=11)** In fact, this is one of the most common errors that I see Power BI users often make.
+> **[0:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=11)** In fact, this is one of the most common errors that I see [[Microsoft Power BI|Power BI]] users often make.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=16)** So, what do I mean by this?
 >
@@ -729,7 +717,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=48)** So there are two commonly used schemas.
 >
-> **[0:51](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=51)** The first is a snowflake schema.
+> **[0:51](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=51)** The first is a [[Snowflake]] schema.
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-star-schema?u=76281980&t=54)** The snowflake schema actually does somewhat resemble a snowflake.
 >
@@ -745,14 +733,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Snowflake]] (3), power (1), bi (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eliminate two-way relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-two-way-relationships?u=76281980)
+#### [Eliminate two-way relationships](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-two-way-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,7 +801,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-two-way-relationships?u=76281980&t=142)** So, now we have our two different tables that don't have a unique value per row for any given field.
 >
-> **[2:30](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-two-way-relationships?u=76281980&t=150)** The next step is to actually open up the Power Query Editor.
+> **[2:30](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-two-way-relationships?u=76281980&t=150)** The next step is to actually open up the [[Microsoft Power Query|Power Query]] Editor.
 >
 > **[2:34](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/eliminate-two-way-relationships?u=76281980&t=154)** So, click the Transform Data button.
 >
@@ -858,14 +845,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (3), [[Microsoft Power Query|Power query]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Definitions:** is a  (5)
 > **Versions:** 4.2 (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply user-friendly value replacements
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980)
+#### [Apply user-friendly value replacements](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,9 +859,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=6)** Now, a common mistake here would be to assume that you need to actually go back to your data source files and change the underlying data.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=15)** What you can do instead is actually open up the Power Query Editor and very quickly assign a value replacement.
+> **[0:15](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=15)** What you can do instead is actually open up the [[Microsoft Power Query|Power Query]] Editor and very quickly assign a value replacement.
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=24)** So I've opened up our Power BI workbook and I've connected to our sales data source.
+> **[0:24](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=24)** So I've opened up our [[Microsoft Power BI|Power BI]] workbook and I've connected to our sales data source.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=30)** So let's open up our Transform Data button here.
 >
@@ -883,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=38)** And what we can do is actually go over, for example, let's talk about Industry.
 >
-> **[0:44](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=44)** Let's say that our Utilities has actually changed, and we're wanting to call these Electronics instead of Utilities.
+> **[0:44](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=44)** Let's say that our Utilities has actually changed, and we're wanting to call these [[Electronics]] instead of Utilities.
 >
 > **[0:52](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/apply-user-friendly-value-replacements?u=76281980&t=52)** What we can simply do is right-click on this one box here and select Replace Values.
 >
@@ -897,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Power Query|Power query]] (2), power (2), bi (2), [[Electronics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), [[Microsoft Power BI|Power bi]] (2), [[Electronics]] (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** right-click (1)
 > **Definitions:** is a  (1)
@@ -905,8 +891,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define the right level of granularity
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980)
+#### [Define the right level of granularity](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,9 +915,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980&t=64)** Is it okay for us to do sales by state?
 >
-> **[1:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980&t=67)** Is that enough information for you to get the insight you're looking for, or do we need to go back to our data governance process and change the way that we're tracking our sales across our geography?"
+> **[1:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980&t=67)** Is that enough information for you to get the insight you're looking for, or do we need to go back to our [[Data Governance]] process and change the way that we're tracking our sales across our geography?"
 >
-> **[1:19](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980&t=79)** So how does this manifest within Power BI?
+> **[1:19](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980&t=79)** So how does this manifest within [[Microsoft Power BI|Power BI]]?
 >
 > **[1:22](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/define-the-right-level-of-granularity?u=76281980&t=82)** Well, I've gone ahead and connected to our Sales Data source, and let's run through a very quick use case.
 >
@@ -964,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), power (1), bi (1), business (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -974,12 +959,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing time series data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980)
+#### [Visualizing time series data](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=0)** - [Instructor] Let's talk about time series analysis.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=0)** - [Instructor] Let's talk about [[Time Series Analysis]].
 >
 > **[0:02](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=2)** So if your manager asked you to study sales over time, how would you visualize that data?
 >
@@ -987,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=14)** So I've gone ahead and connected to our sales data source, and let's pull in total amount, and then we can also pull in our close date.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=23)** So automatically Power BI has created a bar chart, but we need to talk about data visualization theory right quick.
+> **[0:23](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=23)** So automatically [[Microsoft Power BI|Power BI]] has created a bar chart, but we need to talk about data visualization theory right quick.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980&t=30)** A bar chart is a fantastic way to visualize data, but to get a little bit more nuanced, a line chart is a much more effective way of showing time series analysis.
 >
@@ -1005,14 +989,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Time Series Analysis]] (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Time Series Analysis]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** best practice (2)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use groups to break up the analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-groups-to-break-up-the-analysis?u=76281980)
+#### [Use groups to break up the analysis](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-groups-to-break-up-the-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1039,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-groups-to-break-up-the-analysis?u=76281980&t=159)** So we do have our groups 1, 2, 3, and 4.
 >
-> **[2:43](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-groups-to-break-up-the-analysis?u=76281980&t=163)** And then there's also this blank, which might speak to a data quality issue.
+> **[2:43](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-groups-to-break-up-the-analysis?u=76281980&t=163)** And then there's also this blank, which might speak to a [[Data Quality]] issue.
 >
 > **[2:47](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-groups-to-break-up-the-analysis?u=76281980&t=167)** So you may want to investigate what's going on there, but now what you've done is you've grouped your industries by a sorting mechanism.
 >
@@ -1068,18 +1051,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), hr (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Analogies:** for example (1), kind of like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use slicers to improve usability
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980)
+#### [Use slicers to improve usability](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980&t=0)** - [Instructor] One of the most potent features of Power BI is that you can create interactive visualizations.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980&t=0)** - [Instructor] One of the most potent features of [[Microsoft Power BI|Power BI]] is that you can create interactive visualizations.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980&t=6)** So what this means is if you create a dashboard with a bar chart, a pie chart, and a map, you could click on one of the bars within that bar chart and filter all of the other visualizations.
 >
@@ -1113,23 +1095,22 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980&t=122)** Power BI is an extremely powerful tool.
 >
-> **[2:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980&t=125)** Just remember to think through how you can make your visualizations more user-friendly, and you're going to be such a better and more effective business intelligence developer.
+> **[2:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-slicers-to-improve-usability?u=76281980&t=125)** Just remember to think through how you can make your visualizations more user-friendly, and you're going to be such a better and more effective [[Business Intelligence (BI)|business intelligence]] developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (2), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a custom tooltip to add detail
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-a-custom-tooltip-to-add-detail?u=76281980)
+#### [Use a custom tooltip to add detail](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-a-custom-tooltip-to-add-detail?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-a-custom-tooltip-to-add-detail?u=76281980&t=0)** - [Narrator] If you're brand new to Power BI, then you may not be familiar with the concept of a tooltip.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-a-custom-tooltip-to-add-detail?u=76281980&t=0)** - [Narrator] If you're brand new to [[Microsoft Power BI|Power BI]], then you may not be familiar with the concept of a tooltip.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-a-custom-tooltip-to-add-detail?u=76281980&t=5)** The long and the short of it is a tooltip allows you to add additional information to your visualizations.
 >
@@ -1165,18 +1146,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), bi (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** toggle (1), scroll down (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [narrator] (1)
 
-#### Be careful with pie charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/be-careful-with-pie-charts?u=76281980)
+#### [Be careful with pie charts](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/be-careful-with-pie-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/be-careful-with-pie-charts?u=76281980&t=0)** - [Instructor] One common mistake that Power BI users often make is that they use the wrong kind of visualization.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/be-careful-with-pie-charts?u=76281980&t=0)** - [Instructor] One common mistake that [[Microsoft Power BI|Power BI]] users often make is that they use the wrong kind of visualization.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/be-careful-with-pie-charts?u=76281980&t=6)** In fact, not all visualizations are created equal, and some are extremely effective at uncovering trends and others, not so much.
 >
@@ -1214,7 +1194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** toggle (1)
 > **Exercise Files:** exercise files (1)
@@ -1222,14 +1202,13 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use Top-N analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/when-to-use-top-n-analysis?u=76281980)
+#### [When to use Top-N analysis](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/when-to-use-top-n-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/when-to-use-top-n-analysis?u=76281980&t=0)** - [Instructor] If you've been working as an analyst for a while, then you've probably come across a massive data set.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/when-to-use-top-n-analysis?u=76281980&t=6)** A common problem that Power BI users often come across is trying to analyze too much data at a time.
+> **[0:06](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/when-to-use-top-n-analysis?u=76281980&t=6)** A common problem that [[Microsoft Power BI|Power BI]] users often come across is trying to analyze too much data at a time.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/when-to-use-top-n-analysis?u=76281980&t=13)** There's one specific tactic, though, that you can deploy to cut these huge data sets down to size.
 >
@@ -1267,22 +1246,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (2), bi (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### The full potential of visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980)
+#### [The full potential of visualizations](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980&t=0)** - [Instructor] A common mistake that Power BI users often make is that they don't leverage the full potential of their visualizations.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980&t=0)** - [Instructor] A common mistake that [[Microsoft Power BI|Power BI]] users often make is that they don't leverage the full potential of their visualizations.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980&t=7)** So let's talk about the bar chart.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980&t=9)** Now, the bar chart is one of the simplest forms of data visualization, yet I'd argue it's one of your most effective tools to quickly analyze data.
+> **[0:09](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980&t=9)** Now, the bar chart is one of the simplest [[Forms]] of data visualization, yet I'd argue it's one of your most effective tools to quickly analyze data.
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/the-full-potential-of-visualizations?u=76281980&t=21)** The reason for this is that our eyes are especially good at understanding and differentiating between different lengths.
 >
@@ -1326,18 +1304,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (5), power (1), bi (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Forms]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use color sparingly
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-color-sparingly?u=76281980)
+#### [Use color sparingly](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-color-sparingly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-color-sparingly?u=76281980&t=0)** - [Narrator] A common mistake for Power BI users to make is that they use color excessively.
+> **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-color-sparingly?u=76281980&t=0)** - [Narrator] A common mistake for [[Microsoft Power BI|Power BI]] users to make is that they use color excessively.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/use-color-sparingly?u=76281980&t=5)** Now, I'm gonna walk through a scenario, where we're going to need to use color, but I'm going to offer a solution to make sure that we're using color strategically.
 >
@@ -1385,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), bi (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Warnings:** common mistake (1)
@@ -1396,16 +1373,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980)
+#### [Additional resources](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=0)** - Congratulations on making it all the way through the course.
 >
-> **[0:04](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=4)** What you can do now is follow me here on LinkedIn.
+> **[0:04](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=4)** What you can do now is follow me here on [[LinkedIn]].
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=7)** I post regularly all about analytics and even Power BI.
+> **[0:07](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=7)** I post regularly all about analytics and even [[Microsoft Power BI|Power BI]].
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=11)** I also have a YouTube channel where I live stream my Greensboro College Analytics and I post my interview with analytics experts.
 >
@@ -1415,7 +1391,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=35)** There is one specific video that I wanted to highlight in this podcast episode.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=39)** Jenny Tumay, a senior analyst, talks about how she learned Power BI, covers some Power BI best practices, and even reviewed one of my students' Power BI dashboards.
+> **[0:39](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=39)** Jenny Tumay, a senior analyst, talks about how she learned Power BI, covers some Power BI best practices, and even reviewed one of my students' Power BI [[Dashboards]].
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980&t=49)** Check out this episode if you wanna see a deep dive in how a true expert uses Power BI day to day.
 >
@@ -1425,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), power (6), bi (6), [[LinkedIn]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[LinkedIn]] (1), [[Dashboards]] (1)
 > **Speakers:** - congratulations (1)
 
 

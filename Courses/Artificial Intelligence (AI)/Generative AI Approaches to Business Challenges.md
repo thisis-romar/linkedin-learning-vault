@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform your business with gen AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980)
+#### [Transform your business with gen AI](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=0)** - You're likely impacted by artificial intelligence every single day.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=0)** - You're likely impacted by [[Artificial Intelligence (AI)|artificial intelligence]] every single day.
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=5)** For years, your smartphone has been able to recognize your voice, organize your pictures by faces, and even predict your arrival time to the nearest grocery store.
 >
@@ -91,9 +90,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=27)** You can even communicate with it directly to collaborate on your work.
 >
-> **[0:31](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=31)** That is exactly why so many professionals are looking at a generative AI to write documents, generate code, summarize research, and much more.
+> **[0:31](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=31)** That is exactly why so many professionals are looking at a [[Generative AI]] to write documents, generate code, summarize research, and much more.
 >
-> **[0:41](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=41)** Hi, I'm Colby Hawker, and I've worked closely on the development of AI models and products that are used by some of the world's most admired companies.
+> **[0:41](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=41)** Hi, I'm Colby Hawker, and I've worked closely on the development of AI models and [[Microsoft Products|products]] that are used by some of the world's most admired companies.
 >
 > **[0:49](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980&t=49)** And I'm thrilled to share some insights about generative AI and I hope that you'll find this useful.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), ai (3), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is generative AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980)
+#### [What is generative AI?](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=11)** The results are usually pretty fun.
 >
-> **[0:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=13)** Generative AI is kind of like Mad Libs, but instead of using random words to fill in the blanks, it uses data.
+> **[0:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=13)** [[Generative AI]] is kind of like Mad Libs, but instead of using random words to fill in the blanks, it uses data.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=22)** There are many different types of generative AI models, and each type has its own applications and potential benefits in a business setting.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=43)** So what exactly is generative AI?
 >
-> **[0:47](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=47)** Well, generative AI is a type of artificial intelligence that can create new content, such as text, images, audio, and video.
+> **[0:47](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=47)** Well, generative AI is a type of [[Artificial Intelligence (AI)|artificial intelligence]] that can create new content, such as text, images, audio, and video.
 >
 > **[0:58](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980&t=58)** It does this by learning from large datasets of existing content.
 >
@@ -171,33 +169,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (11), game (2), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (11), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Analogies:** for example (2), kind of like (1), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### Explore AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980)
+#### [Explore AI systems](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=0)** - If you've been impressed by AI powered chatbots that can give human-like responses or how new computer programs can craft relatable stories, it's because of the power of large language models.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=0)** - If you've been impressed by AI powered chatbots that can give human-like responses or how new computer programs can craft relatable stories, it's because of the power of [[Large Language Models (LLM)|large language models]].
 >
-> **[0:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=13)** In order to use generative AI effectively, it's important to have a basic understanding of AI's fundamental components, like large language models.
+> **[0:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=13)** In order to use [[Generative AI]] effectively, it's important to have a basic understanding of AI's fundamental components, like large language models.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=22)** In this lesson, I'll describe both foundation and large language models, so you can understand how each can be used.
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=29)** Fundamentally, language models make predictions based on patterns in ambiguous text.
 >
-> **[0:36](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=36)** These models are based on statistics and seek to quantify the meaning of some blurb of text to determine what should come next based on a probability distribution.
+> **[0:36](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=36)** These models are based on [[Statistics]] and seek to quantify the meaning of some blurb of text to determine what should come next based on a [[Probability]] distribution.
 >
 > **[0:48](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=48)** Let's say, you want to create a language model that can write poems similar to Robert Frost.
 >
 > **[0:55](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=55)** Take the start of this poem, "The Road Not Taken."
 >
-> **[1:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=60)** In the poem, the word 'I' is used frequently, most often, it's followed by the word 'could.'
+> **[1:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=60)** In the poem, the [[Microsoft Word|word]] 'I' is used frequently, most often, it's followed by the word 'could.'
 >
 > **[1:07](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=67)** So if you're guessing the next word after 'I,' you might guess 'could,' but what does 'could' actually mean here?
 >
@@ -213,9 +210,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=106)** They're connected in more complex ways.
 >
-> **[1:49](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=109)** Trying to map the meaning and connection between words is actually really hard, and that's why researchers created artificial neural networks, programs that emulate a human brain by finding patterns in large amounts of information.
+> **[1:49](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=109)** Trying to map the meaning and connection between words is actually really hard, and that's why researchers created [[Artificial Neural Networks]], programs that emulate a human brain by finding patterns in large amounts of information.
 >
-> **[2:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=126)** And very large neural networks that can be used can help make the next word prediction in context are known as large language models.
+> **[2:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=126)** And very large [[Neural Networks]] that can be used can help make the next word prediction in context are known as large language models.
 >
 > **[2:17](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-ai-systems?u=76281980&t=137)** Once a large model learns enough information through massive data sets, it becomes a pre-trained foundation model capable of accomplishing a broad array of tasks, from creative writing to co-generation.
 >
@@ -235,19 +232,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Large Language Models (LLM)|Large language models]] (5), ai (4), next (4), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Large Language Models (LLM)|Large language models]] (5), [[Generative AI]] (1), [[Statistics]] (1), [[Probability]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - if (1)
 
-#### Prompt gen AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/prompt-gen-ai-models?u=76281980)
+#### [Prompt gen AI models](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/prompt-gen-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/prompt-gen-ai-models?u=76281980&t=0)** - When used effectively, generative AI is kind of like a crystal ball.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/prompt-gen-ai-models?u=76281980&t=0)** - When used effectively, [[Generative AI]] is kind of like a crystal ball.
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/prompt-gen-ai-models?u=76281980&t=5)** The model can understand your request or prompt and predict a response that will be most useful for your task, and that's really cool.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Generative AI]] (3), ai (2), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Definitions:** is called (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - when (1)
@@ -299,8 +295,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify common business challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980)
+#### [Identify common business challenges](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,18 +345,17 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980&t=144)** This will require some more expertise and you may need to bring in a developer to fine tune the foundation model depending on how specific the reporting should be.
 >
-> **[2:36](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980&t=156)** Now that you know how to identify some of the common business challenges, start identifying opportunities for generative AI in your own organization.
+> **[2:36](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980&t=156)** Now that you know how to identify some of the common business challenges, start identifying opportunities for [[Generative AI]] in your own organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), ai (2), data (2), [[Automation]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - although (1)
 
-#### Create engaging content
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980)
+#### [Create engaging content](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,9 +363,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=5)** I just couldn't come up with new ideas when I needed to create content.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=9)** Now, there's a solution in generative AI and it's actually easier than you think.
+> **[0:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=9)** Now, there's a solution in [[Generative AI]] and it's actually easier than you think.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=15)** Content creation is a fundamental business activity involving the generation of blog articles, social media posts, product descriptions, or promotional emails.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=15)** [[Content Creation]] is a fundamental business activity involving the generation of blog articles, social media posts, product descriptions, or promotional emails.
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=27)** Basically, any type of information that communicates your business's message.
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=112)** Next, provide concise, specific instructions on the task.
 >
-> **[1:58](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=118)** Let's say write a three to 500-word blog post about Easter Island that is targeted at young adults.
+> **[1:58](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=118)** Let's say write a three to 500-[[Microsoft Word|word]] blog post about Easter Island that is targeted at young adults.
 >
 > **[2:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=126)** Now, for tone and requirements, we can say the tone of the blog post should be informal and conversational, and we can also ask to include the following testimonial.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=168)** If your content needs are complex or specific, it's probably time to involve that developer.
 >
-> **[2:56](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=176)** For instance, if you want to generate content based on real-time data from your business, a developer can create custom solutions and they can also fine-tune the AI model to align with your unique requirements.
+> **[2:56](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=176)** For instance, if you want to generate content based on [[Real-Time]] data from your business, a developer can create custom solutions and they can also fine-tune the AI model to align with your unique requirements.
 >
 > **[3:10](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/create-engaging-content?u=76281980&t=190)** The ability to create content with AI is easier than you may have thought.
 >
@@ -431,14 +425,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), ai (4), [[Generative AI]] (2), [[Content Creation]] (2), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Content Creation]] (2), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Personalize customer experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980)
+#### [Personalize customer experiences](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +439,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=8)** This could involve personalized product recommendations, tailored support or custom content based on customer behavior and preferences.
 >
-> **[0:17](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=17)** In this lesson, I'll explain common forms of personalization, so you can use generative AI to help you personalize customer experiences.
+> **[0:17](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=17)** In this lesson, I'll explain common [[Forms]] of personalization, so you can use [[Generative AI]] to help you personalize customer experiences.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=26)** Let's explore some common forms of personalization and some basic requirements for each.
 >
@@ -456,9 +449,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=50)** Well, generative AI can help here by analyzing the customer's past behavior and preferences to generate relevant product recommendations.
 >
-> **[1:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=60)** This typically requires customer data, like browsing history and past purchases, and a robust catalog of your products or services.
+> **[1:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=60)** This typically requires customer data, like browsing history and past purchases, and a robust catalog of your [[Microsoft Products|products]] or services.
 >
-> **[1:10](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=70)** Next, consider tailored customer support.
+> **[1:10](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=70)** Next, consider tailored [[Customer Support]].
 >
 > **[1:14](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=74)** AI can generate responses to customer inquiries based on their past interactions, the nature of their issue, and even preferred communication style.
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=94)** This typically requires integration with a customer relationship management system and an understanding of common customer issues and solutions.
 >
-> **[1:44](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=104)** And finally, there's tailored content based on preferences, which can involve customizing email newsletters, tailoring website content or mobile app experiences based on customer behavior.
+> **[1:44](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=104)** And finally, there's tailored content based on preferences, which can involve customizing email [[Newsletters]], tailoring website content or mobile app experiences based on customer behavior.
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/personalize-customer-experiences?u=76281980&t=117)** Now, imagine a news aggregator that turns a massive amount of articles into quick, short form soundbites that are completely customized to your users' reading interests.
 >
@@ -482,12 +475,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (4), [[Generative AI]] (3), ai (3), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Forms]] (2), [[Microsoft Products|Products]] (1), [[Customer Support]] (1), [[Newsletters]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - personalized (1)
 
-#### Analyze unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980)
+#### [Analyze unstructured data](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,9 +487,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=10)** This happens all the time.
 >
-> **[0:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=13)** How can generative AI help you with this task?
+> **[0:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=13)** How can [[Generative AI]] help you with this task?
 >
-> **[0:16](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=16)** In this lesson, I'll detail the key limitations in working with unstructured data, and I'll explain how generative AI can be used to identify patterns and data that would be difficult or impossible to identify manually.
+> **[0:16](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=16)** In this lesson, I'll detail the key limitations in working with [[Unstructured Data]], and I'll explain how generative AI can be used to identify patterns and data that would be difficult or impossible to identify manually.
 >
 > **[0:30](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=30)** Unstructured data is information without a predefined model or schema.
 >
@@ -523,7 +515,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=118)** Similar to the previous example, I can create a prompt to extract a key description from an image which product is shown in this image and what is the color.
 >
-> **[2:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=129)** I can now use this information to quickly categorize a massive amount of images uploaded to my e-commerce website.
+> **[2:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=129)** I can now use this information to quickly categorize a massive amount of images uploaded to my [[E-Commerce]] website.
 >
 > **[2:16](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=136)** This capability enables new ways to organize and analyze information.
 >
@@ -531,27 +523,26 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=160)** With AI's general knowledge about the world, it has the ability to analyze various data types and provide insights that were typically really labor intensive.
 >
-> **[2:49](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=169)** These enable better decision making, trend prediction, and overall business intelligence.
+> **[2:49](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=169)** These enable better decision making, trend prediction, and overall [[Business Intelligence (BI)|business intelligence]].
 >
-> **[2:56](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=176)** Start exploring ways to leverage AI in your data mining, whether it's text or images, and see how it transforms your whole business process.
+> **[2:56](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=176)** Start exploring ways to leverage AI in your [[Data Mining]], whether it's text or images, and see how it transforms your whole business process.
 >
 > **[3:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/analyze-unstructured-data?u=76281980&t=186)** The world of unstructured data just became a lot more approachable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Unstructured Data]] (6), [[Generative AI]] (4), ai (3), business (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (6), [[Generative AI]] (4), [[E-Commerce]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Data Mining]] (1)
 > **Analogies:** imagine (1), similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - imagine (1)
 
-#### Automate tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980)
+#### [Automate tasks](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=0)** - When tasks are automated, you're able to focus on other business priorities.
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=6)** In this lesson, I'll help you identify repetitive tasks, so you can identify where generative AI can help automate these tasks within your organization.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=6)** In this lesson, I'll help you identify repetitive tasks, so you can identify where [[Generative AI]] can help automate these tasks within your organization.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=16)** So, how do you prioritize what to automate?
 >
@@ -583,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=123)** As a first line of defense, it's important that you collect the right data, which includes a transcript history of really good, accurate conversations and a knowledge base of answers.
 >
-> **[2:14](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=134)** Automation through generative AI is not just about saving time, it's about empowering your organization to be more agile, more innovative and just more responsive.
+> **[2:14](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=134)** Automation through generative AI is not just about saving time, it's about empowering your organization to be more [[Agile Development|agile]], more innovative and just more responsive.
 >
 > **[2:24](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/automate-tasks?u=76281980&t=144)** It begins with identifying the right tasks and ends with implementing thoughtful, efficient automation.
 >
@@ -593,21 +584,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), product (6), [[Generative AI]] (5), data (4), next (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
-#### Share and manage knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980)
+#### [Share and manage knowledge](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=0)** - Usually when you're under pressure to obtain key information, the last thing you want to do is write SQL queries or parse through a mountain of data.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=0)** - Usually when you're under pressure to obtain key information, the last thing you want to do is write [[SQL]] queries or parse through a mountain of data.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=9)** But what if you could command a tool to fetch, summarize, and present exactly what you need?
+> **[0:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=9)** But what if you could command a tool to [[Fetch]], summarize, and present exactly what you need?
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=15)** That's the power of Generative AI.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=15)** That's the power of [[Generative AI]].
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=18)** Generative AI can be used to summarize and retrieve information from large data sets, such as ones used by financial institutions, healthcare organizations, and even for research.
 >
@@ -615,13 +605,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=40)** First, pinpoint the type of information that is most heavily utilized by your business.
 >
-> **[0:46](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=46)** This will depend on your organization and could be customer data, could be product analytics, or some sort of financial data.
+> **[0:46](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=46)** This will depend on your organization and could be customer data, could be product analytics, or some sort of [[Financial Data]].
 >
 > **[0:54](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=54)** Understanding your primary data sources allows you to implement AI to access this information efficiently.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=62)** Using Generative AI to fetch or parse specific data from your database, you can use natural language queries to generate quick answers to questions or even entire reports.
 >
-> **[1:15](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=75)** You can ask simple questions like, what are the top 10 products sold?
+> **[1:15](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=75)** You can ask simple questions like, what are the top 10 [[Microsoft Products|products]] sold?
 >
 > **[1:19](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=79)** And let AI find the answer, turning raw data into useful insights.
 >
@@ -629,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=91)** Finally, you can utilize Generative AI to condense large amounts of information into concise summaries.
 >
-> **[1:39](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=99)** Whether summarizing a market research study or creating a customer onboarding guide, AI can simplify complex information, making it more accessible to employees, customers and partners, and enhancing communication and collaboration.
+> **[1:39](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=99)** Whether summarizing a [[Market Research]] study or creating a customer onboarding guide, AI can simplify complex information, making it more accessible to employees, customers and partners, and enhancing communication and collaboration.
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=117)** I've included some more helpful information about sharing and managing knowledge with Generative AI in the exercise files.
 >
@@ -639,13 +629,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=141)** Start small to experiment and just get ideas.
 >
-> **[2:26](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=146)** Next time you use an online word processor, see if there's an insights tool that you can use and experiment with.
+> **[2:26](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=146)** Next time you use an online [[Microsoft Word|word]] processor, see if there's an insights tool that you can use and experiment with.
 >
 > **[2:33](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/share-and-manage-knowledge?u=76281980&t=153)** If not, you can even copy that text over to your favorite AI powered chat bot for Q and A.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), ai (6), [[Fetch]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Fetch]] (2), [[SQL]] (1), [[Financial Data]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** exercise files (1)
@@ -657,18 +647,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore generative AI resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980)
+#### [Explore generative AI resources](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=0)** - Generative AI is always changing, and it's critical to be able to continuously build your knowledge, but what tools are available, and how can they be leveraged?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=0)** - [[Generative AI]] is always changing, and it's critical to be able to continuously build your knowledge, but what tools are available, and how can they be leveraged?
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=11)** In this lesson, I'll identify popular generative AI tools and resources that can be used to solve real-world problems.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=11)** In this lesson, I'll identify popular [[Generative AI Tools]] and resources that can be used to solve real-world problems.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=19)** The first category for the context of this lesson is AI collaborators, which are user-friendly, fully-managed services that allow people to interact directly with large AI models.
 >
-> **[0:31](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=31)** Think ChatGPT and Google Bard, conversational chat bots that are powered by generative AI.
+> **[0:31](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=31)** Think [[ChatGPT]] and [[Google]] Bard, conversational chat bots that are powered by generative AI.
 >
 > **[0:39](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=39)** Under the hood, AI collaborators are powered by carefully-tuned foundation models hidden behind a chat interface.
 >
@@ -680,13 +669,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=69)** The next category is managed foundation models.
 >
-> **[1:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=73)** These take the form of developer APIs, often coupled with user-friendly interfaces for quick prototyping without any code.
+> **[1:13](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=73)** These take the form of developer APIs, often coupled with user-friendly interfaces for quick [[Prototyping]] without any code.
 >
 > **[1:21](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=81)** This allows all users to be able to contribute to an AI project.
 >
 > **[1:26](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=86)** And when the project is complete, a developer will help implement some code that points back to the model and any specific prompts.
 >
-> **[1:34](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=94)** Often perceived as the most powerful type of artificial intelligence, managed foundation models make AI accessible to businesses.
+> **[1:34](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=94)** Often perceived as the most powerful type of [[Artificial Intelligence (AI)|artificial intelligence]], managed foundation models make AI accessible to businesses.
 >
 > **[1:43](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=103)** Some of them even provide tools to check the factuality of model responses.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=114)** Open-source foundation models democratize access to advanced AI, allowing more organizations to gain exposure to AI.
 >
-> **[2:04](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=124)** Organizations can download and use these models to train their own AI, or to use in their own products and services.
+> **[2:04](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=124)** Organizations can download and use these models to train their own AI, or to use in their own [[Microsoft Products|products]] and services.
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980&t=132)** Open-source foundation models are a good option for businesses and organizations that want to save money or want more control over their AI models with the help of data scientists.
 >
@@ -708,18 +697,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), open-source (3), [[Generative AI]] (2), data (2), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI Tools]] (1), [[ChatGPT]] (1), [[Google]] (1), [[Prototyping]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - generative (1)
 
-#### Choose the right generative AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980)
+#### [Choose the right generative AI tools](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=0)** - Like with any other task you do, having the right generative AI tool for the job makes all the difference.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=0)** - Like with any other task you do, having the right [[Generative AI]] tool for the job makes all the difference.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=8)** In this lesson, I'll outline how to choose the right generative AI tools for your business based on your needs and budget.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=8)** In this lesson, I'll outline how to choose the right [[Generative AI Tools]] for your business based on your needs and budget.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=16)** First, understand the task.
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=53)** Identify the specific problems, goals, or areas where AI can make an impact within your organization.
 >
-> **[1:01](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=61)** Ensure alignment with organizational values, safety guardrails, and data governance.
+> **[1:01](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=61)** Ensure alignment with organizational values, safety guardrails, and [[Data Governance]].
 >
 > **[1:08](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/choose-the-right-generative-ai-tools?u=76281980&t=68)** Not all AI has built-in safety tools, and your organization may have very specific needs.
 >
@@ -765,12 +753,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), ai (4), [[Generative AI]] (2), [[Generative AI Tools]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Generative AI Tools]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - like (1)
 
-#### Practice ethical AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980)
+#### [Practice ethical AI](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +765,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=8)** Who knows what the outcome would be?
 >
-> **[0:10](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=10)** This highlights why ethics in generative AI is not just a philosophical concern, but a practical necessity.
+> **[0:10](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=10)** This highlights why [[Ethics]] in [[Generative AI]] is not just a philosophical concern, but a practical necessity.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=19)** In this lesson, I'll explain the ethical considerations involved with using generative AI so you can deploy AI responsibly in your business context.
 >
@@ -802,17 +789,17 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=100)** Many managed services and AI collaborators will disclose their process for evaluating bias and fairness, and I encourage you to run your own evaluations on anything you may be deploying more broadly.
 >
-> **[1:54](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=114)** Finally, generative AI must be respectful of privacy.
+> **[1:54](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=114)** Finally, generative AI must be respectful of [[Privacy]].
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=117)** This involves not collecting or sharing personal data without people's consent, and using methods to anonymize the data.
 >
-> **[2:05](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=125)** Upholding individual privacy rights aligns with legal requirements and builds trust with users and stakeholders, a fundamental aspect of responsible AI utilization.
+> **[2:05](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=125)** Upholding individual privacy rights aligns with legal requirements and builds trust with users and stakeholders, a fundamental aspect of [[Responsible AI]] utilization.
 >
 > **[2:16](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/practice-ethical-ai?u=76281980&t=136)** As you engage with AI in your business, take the time to understand the ethical landscape, choose tools that align with these values, and maintain vigilance in monitoring for fairness and safety.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Generative AI]] (5), data (4), business (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Privacy]] (2), [[Ethics]] (1), [[Responsible AI]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
@@ -824,14 +811,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980)
+#### [Get started](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=0)** - Thank you for completing this course.
 >
-> **[0:02](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=2)** You now have a solid understanding of the basics of generative AI, how it works and its potential applications in business.
+> **[0:02](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=2)** You now have a solid understanding of the basics of [[Generative AI]], how it works and its potential applications in business.
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=11)** Now, you're ready to leverage generative AI in the workplace in order to tackle various business challenges, more effectively.
 >
@@ -839,25 +825,25 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=36)** Remember, start by reflecting on specific challenges and needs of your business and wait tasks where generative AI can add value.
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=45)** Experiment with tools and strategies, always considering ethics and don't be afraid to consult experts if needed.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=45)** Experiment with tools and strategies, always considering [[Ethics]] and don't be afraid to consult experts if needed.
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=53)** And the journey definitely doesn't end here.
 >
-> **[0:55](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=55)** Consider subscribing to relevant newsletters.
+> **[0:55](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=55)** Consider subscribing to relevant [[Newsletters]].
 >
-> **[0:58](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=58)** Couple I'd recommend are Alpha Signal or Deep Learning Weekly.
+> **[0:58](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=58)** Couple I'd recommend are Alpha Signal or [[Deep Learning]] Weekly.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=62)** Consider attending webinars or joining AI focused communities.
 >
 > **[1:06](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=66)** McKinsey Digital reports are also very helpful to identify new opportunities and risks.
 >
-> **[1:12](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=72)** I'd love to stay in touch, so feel free to connect with me on LinkedIn and share what tools you've used or insights you've gained.
+> **[1:12](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=72)** I'd love to stay in touch, so feel free to connect with me on [[LinkedIn]] and share what tools you've used or insights you've gained.
 >
 > **[1:20](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980&t=80)** Best of luck as you implement the incredible AI tools available for business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Generative AI]] (4), ai (2), power (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Ethics]] (1), [[Newsletters]] (1), [[Deep Learning]] (1), [[LinkedIn]] (1)
 > **Speakers:** - thank (1)
 
 

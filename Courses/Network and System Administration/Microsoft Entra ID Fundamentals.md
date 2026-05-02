@@ -102,14 +102,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A world of modern identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980)
+#### [A world of modern identity](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=2)** - [Instructor] Let's take a moment to reminisce about the good old days of computing, what it looked like a couple of decades ago.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=10)** Back then, employees had one desktop, one set of credentials, needed access to very few applications, and worked out of their physical office spaces.
+> **[0:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=10)** Back then, employees had one desktop, one set of credentials, needed access to very few applications, and worked out of their physical [[Microsoft Office|office]] spaces.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=22)** The digital world was a luxury, not an essential part of life as it is today.
 >
@@ -127,26 +126,25 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=81)** I invite you to join me in this course where we discuss the evolution of identity, its challenges, and how to tackle them.
 >
-> **[1:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=91)** Welcome to Microsoft Entra ID Fundamentals.
+> **[1:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980&t=91)** Welcome to [[Microsoft Entra ID]] Fundamentals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Security]] (1), management (1), [[Microsoft Entra ID]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Entra ID]] (1)
 > **CLI Commands:** cat (1)
 > **Speakers:** - [instructor] (1)
 
-#### History of Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980)
+#### [History of Active Directory](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=2)** - [Instructor] To appreciate the potential of Microsoft Entra in its full glory, it is essential to go back to its roots and trace the history of its development.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=2)** - [Instructor] To appreciate the potential of [[Microsoft]] [[Microsoft Entra ID|Entra]] in its full glory, it is essential to go back to its roots and trace the history of its development.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=13)** So let me take you through a quick overview of how it all began.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=19)** In the year 1999, Microsoft announced a preview of Active Directory for the first time, which subsequently made its way into Windows 2000 server and became generally available.
+> **[0:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=19)** In the year 1999, Microsoft announced a preview of [[Active Directory]] for the first time, which subsequently made its way into [[Windows]] 2000 server and became generally available.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=35)** I started my IT journey with Windows Server 2008 back in college.
+> **[0:35](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=35)** I started my IT journey with [[Windows Server]] 2008 back in college.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=41)** Between the years 2000 and 2008, there were three more iterations of the operating system, Windows Server 2003, then came Service Pack 1 and then Service Pack 2.
 >
@@ -158,23 +156,23 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=75)** These services included Active Directory Domain Services, Certificate Services, Federation Services, Rights Management Services, and Lightweight Directory Services.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=87)** To manage them, we used tools such as Windows PowerShell and the Active Directory Administrative Center.
+> **[1:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=87)** To manage them, we used tools such as Windows [[Powershell]] and the Active Directory Administrative Center.
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=95)** Since Active Directory was already quite advanced at this point, my learning curve was steep.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=102)** Then came the pivotal point that set the trajectory for today's generation of cloud computing.
+> **[1:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=102)** Then came the pivotal point that set the trajectory for today's generation of [[Cloud Computing]].
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=109)** In 2010, Windows Azure became generally available, along with Azure Active Directory.
+> **[1:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=109)** In 2010, Windows [[Microsoft Azure|Azure]] became generally available, along with [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=117)** I like to refer to the period from 2000 to 2010 as the server era, and from 2010 onwards, the cloud era, and it's not just me saying that.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=130)** In the year 2014, Microsoft CEO Satya Nadella also emphasized that in order to innovate for the future, businesses will have to adopt a mobile-first and cloud-first approach in their IT strategy.
+> **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=130)** In the year 2014, Microsoft CEO Satya Nadella also emphasized that in order to innovate for the future, businesses will have to adopt a mobile-first and cloud-first approach in their [[IT Strategy]].
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=146)** That's also the year when Windows Azure was rebranded as Microsoft Azure, dropping the Windows prefix from its name.
+> **[2:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=146)** That's also the year when Windows Azure was rebranded as [[Microsoft Azure]], dropping the Windows prefix from its name.
 >
-> **[2:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=157)** While the cloud era ushered in the digital transformation movement, it also presented its own set of challenges.
+> **[2:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=157)** While the cloud era ushered in the [[Digital Transformation]] movement, it also presented its own set of challenges.
 >
-> **[2:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=165)** Let us zoom into this period to understand the challenges we faced.
+> **[2:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=165)** Let us [[Zoom]] into this period to understand the challenges we faced.
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=171)** Typically in the server era, when a user needed access to an application, they would provide their credentials to a directory services server for authentication.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=229)** Unfortunately, that isn't a good idea.
 >
-> **[3:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=233)** The cloud is known for its elasticity, scalability, high availability, and fault tolerance capabilities, whereas the on-premises infrastructure just cannot offer the resilience a cloud can.
+> **[3:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=233)** The cloud is known for its elasticity, [[Scalability]], high availability, and fault tolerance capabilities, whereas the on-premises infrastructure just cannot offer the resilience a cloud can.
 >
 > **[4:08](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=248)** This creates a dependency that could result in bottlenecks, or worse, complete inaccessibility of apps running in the cloud.
 >
@@ -218,7 +216,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=330)** That was a quick summary of what transpired in the cloud era and the fresh challenges it brought for us.
 >
-> **[5:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=338)** Then in 2023, Microsoft officially rebranded Azure Active Directory to Microsoft Entra ID.
+> **[5:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=338)** Then in 2023, Microsoft officially rebranded Azure Active Directory to [[Microsoft Entra ID]].
 >
 > **[5:47](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=347)** Right now, we are at this juncture where it's the best time to learn about the Entra family, because the Entra family is still taking shape and only a few people have achieved expertise in it.
 >
@@ -226,15 +224,15 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=370)** I mean, Active Directory is still in use even after 24 years since its inception.
 >
-> **[6:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=377)** That rarely happens in the technological world, where most products have a life equivalent to a packet of cat food.
+> **[6:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=377)** That rarely happens in the technological world, where most [[Microsoft Products|products]] have a life equivalent to a packet of cat food.
 >
-> **[6:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=386)** In my opinion, Entra ID is here to stay for at least the next decade or two.
+> **[6:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=386)** In my opinion, [[Microsoft Entra ID|Entra ID]] is here to stay for at least the next decade or two.
 >
 > **[6:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/history-of-active-directory?u=76281980&t=392)** The question is, are you ready to participate in this journey and level up your career?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Active Directory]] (9), [[Microsoft]] (5), [[Windows]] (5), [[Windows Server]] (4)
+> **Frameworks & Libraries:** [[Active Directory]] (9), [[Microsoft]] (5), [[Windows]] (5), [[Windows Server]] (4), [[Microsoft Entra ID|Entra]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** cat (1)
 > **Env Vars:** ceo (1)
@@ -243,20 +241,19 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 
-#### The Microsoft Entra family
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980)
+#### [The Microsoft Entra family](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=2)** - [Instructor] Microsoft Entra is a family of identity and access management solutions designed to help organizations manage identities, permissions, and policies for their cloud-centric environments.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=2)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] is a family of identity and access management solutions designed to help organizations manage identities, permissions, and policies for their cloud-centric environments.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=17)** The word Entra is derived from the Latin word intrare, meaning to enter, and that makes sense because verifying one's identity is the first step in entering or gaining access to a digital environment.
+> **[0:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=17)** The [[Microsoft Word|word]] Entra is derived from the Latin word intrare, meaning to enter, and that makes sense because verifying one's identity is the first step in entering or gaining access to a digital environment.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=34)** This family consists of the following members, Microsoft Entra ID, the heavy weight of the Entra family, also formally known as Azure Active Directory.
+> **[0:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=34)** This family consists of the following members, [[Microsoft Entra ID]], the heavy weight of the Entra family, also formally known as [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=46)** I know what you're wondering.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=48)** Why does Microsoft keep renaming their products?
+> **[0:48](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=48)** Why does Microsoft keep renaming their [[Microsoft Products|products]]?
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=52)** It almost feels as if there's a dedicated person whose sole job is to change names.
 >
@@ -264,17 +261,17 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=60)** There are two excellent reasons why this rebranding was necessary.
 >
-> **[1:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=65)** Firstly, there was this constant confusion between Windows Server Active Directory and Azure Active Directory due to the similarity in names.
+> **[1:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=65)** Firstly, there was this constant confusion between [[Windows Server]] [[Active Directory]] and Azure Active Directory due to the similarity in names.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=76)** Secondly, the word Azure downplayed the product's capability.
+> **[1:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=76)** Secondly, the word [[Microsoft Azure|Azure]] downplayed the product's capability.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=81)** Azure AD could not only work within Azure, but it also integrated with the on-premises environments and multi-cloud environments.
+> **[1:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=81)** [[Microsoft Entra ID|Azure AD]] could not only work within Azure, but it also integrated with the on-premises environments and multi-cloud environments.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=91)** Its reach went beyond Azure, and hence, the new name, Microsoft Entra ID.
 >
-> **[1:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=98)** We will be discussing this product in greater detail throughout the rest of this course, but let me briefly describe what other members of the Entra family do.
+> **[1:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=98)** We will be discussing this product in greater detail throughout the [[Representational State Transfer (REST)|rest]] of this course, but let me briefly describe what other members of the Entra family do.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=111)** Entra ID Protection helps us identify anomalies and respond to unusual sign-in attempts and risky user behavior.
+> **[1:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=111)** [[Microsoft Entra ID|Entra ID]] Protection helps us identify anomalies and respond to unusual sign-in attempts and risky user behavior.
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=121)** Entra External ID allows us to securely collaborate with external partners by granting them access to internal resources using their own credentials.
 >
@@ -288,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=178)** Entra Workload ID helps us configure managed identities for apps and services.
 >
-> **[3:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=186)** Entra Internet Access allows us to streamline access to Microsoft 365, SaaS apps, and other internet resources by redirecting user requests through a gateway running in Azure.
+> **[3:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=186)** Entra Internet Access allows us to streamline access to [[Microsoft 365]], [[SaaS]] apps, and other internet resources by redirecting user requests through a gateway running in Azure.
 >
 > **[3:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/the-microsoft-entra-family?u=76281980&t=201)** Entra Private Access works similar to Entra Internet Access, except that it streamlines access to the on-premises environment, private apps, and multi-cloud resources through the same gateway in Azure.
 >
@@ -302,31 +299,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (13), cloud (5), [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (3), [[Microsoft Entra ID]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (13), [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (3), [[Microsoft Entra ID]] (3), [[Microsoft]] (2)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** ntlm (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=2)** - [Instructor] This course will cover the fundamental concepts of Microsoft Entra ID.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=2)** - [Instructor] This course will cover the fundamental concepts of [[Microsoft Entra ID]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=9)** The first chapter is the introduction, which you are currently watching.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=14)** In the next chapter, "Microsoft Entra ID Basics," we will discuss the concept of identity and access, understand what Entra ID exactly is, we'll take a look at its architecture, and see how it differs from Windows Server Active Directory.
+> **[0:14](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=14)** In the next chapter, "Microsoft Entra ID Basics," we will discuss the concept of identity and access, understand what [[Microsoft Entra ID|Entra ID]] exactly is, we'll take a look at its architecture, and see how it differs from [[Windows Server]] [[Active Directory]].
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=33)** We will then move on to the chapter, "Core Competence of Entra ID," where we will learn how to set up hybrid identities, manage users, groups, devices, apps, and administrative units in Azure.
+> **[0:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=33)** We will then move on to the chapter, "Core Competence of Entra ID," where we will learn how to set up hybrid identities, manage users, groups, devices, apps, and administrative units in [[Microsoft Azure|Azure]].
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=51)** After that, we'll get to "Standards and Compliance."
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=55)** Here, I'll talk about the industry standards Entra ID supports, and the regulatory compliance offering it adheres to.
+> **[0:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=55)** Here, I'll talk about the industry standards Entra ID supports, and the [[Regulatory Compliance]] offering it adheres to.
 >
-> **[1:04](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=64)** Finally, we'll talk a little about administering an Entra tenant.
+> **[1:04](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=64)** Finally, we'll talk a little about administering an [[Microsoft Entra ID|Entra]] tenant.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=70)** Here, I'll give you a trailer of what it's like managing an Entra tenant on a daily basis.
 >
@@ -344,9 +340,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=142)** If you are not familiar with Azure, no problem.
 >
-> **[2:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=146)** I have an entire learning path dedicated to Microsoft Azure Fundamentals.
+> **[2:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=146)** I have an entire learning path dedicated to [[Microsoft Azure]] Fundamentals.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=152)** It's one of the most popular and top-rated pieces of content on LinkedIn Learning, rated an average of 4.8 out of five, and watched by over 150K learners.
+> **[2:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=152)** It's one of the most popular and top-rated pieces of content on [[LinkedIn]] Learning, rated an average of 4.8 out of five, and watched by over 150K learners.
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-overview?u=76281980&t=166)** So, feel free to start your journey there if that sounds more relevant to you.
 >
@@ -360,7 +356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Entra ID]] (3), [[Microsoft Azure|Azure]] (3), [[Windows Server]] (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **Env Vars:** pdf (1)
 > **Versions:** 4.8 (1)
@@ -369,12 +365,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Prerequisites:** set up (1)
 
-#### Microsoft Entra admin center
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980)
+#### [Microsoft Entra admin center](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=2)** - [Kunal] As you gear up to embark on this course, I'd like to offer you a little sneak peek into the Microsoft Entra Admin Center, which is the central hub specifically designed for managing all services of the Entra family.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=2)** - [Kunal] As you gear up to embark on this course, I'd like to offer you a little sneak peek into the [[Microsoft]] [[Microsoft Entra ID|Entra]] Admin Center, which is the central hub specifically designed for managing all services of the Entra family.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=18)** Since this is only a sneak peek, I'm going to skip showing you the steps you need to take to get to the Admin Center.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=34)** If you are new, there is a link on the top to resources that will help you learn more about Microsoft Entra.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=42)** Then, if I scroll down, I can click here to view all products of the Entra family.
+> **[0:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=42)** Then, if I scroll down, I can click here to view all [[Microsoft Products|products]] of the Entra family.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=49)** On the right, there are these guides to help you with whatever features you want to deploy in Entra.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=91)** As we learned earlier, these are all the members of the Entra family.
 >
-> **[1:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=96)** Directly under each member is a hyperlink that takes you to the page where you can manage that specific service, including Microsoft Entra ID, which is on top of the list.
+> **[1:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=96)** Directly under each member is a hyperlink that takes you to the page where you can manage that specific service, including [[Microsoft Entra ID]], which is on top of the list.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=109)** I'll click on Done to exit out of this.
 >
@@ -430,11 +425,11 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=208)** We specialize in Microsoft data center and cloud technologies.
 >
-> **[3:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=213)** If you are interested in knowing more about the services we offer, please feel free to use the contact firm on my website, [serverbaba.com](https://serverbaba.com), or send me a message on LinkedIn.
+> **[3:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/microsoft-entra-admin-center?u=76281980&t=213)** If you are interested in knowing more about the services we offer, please feel free to use the contact firm on my website, [serverbaba.com](https://serverbaba.com), or send me a message on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (11), [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Entra ID]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (11), [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Entra ID]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Definitions:** is a  (3), is an  (1)
 > **URLs:** [serverbaba.com](https://serverbaba.com) (1)
@@ -446,16 +441,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identity and access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980)
+#### [Identity and access](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=2)** - [Instructor] I hope you are as excited to begin this course as I am.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=6)** So lock your doors, throw the keys aside, and let's get started with the chapter, Microsoft Entra ID Basics.
+> **[0:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=6)** So lock your doors, throw the keys aside, and let's get started with the chapter, [[Microsoft Entra ID]] Basics.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=15)** Here I'll explain what Entra ID is, its architecture, and how it differs from Windows Server Active Directory.
+> **[0:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=15)** Here I'll explain what [[Microsoft Entra ID|Entra ID]] is, its architecture, and how it differs from [[Windows Server]] [[Active Directory]].
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=24)** Imagine you are flying off to an exotic international destination for your holidays.
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=145)** This is done for the safety of passengers, crew, and the aircraft.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=150)** Here, you implement multi-factor authentication to provide extra security for your digital assets.
+> **[2:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=150)** Here, you implement [[Multi-factor Authentication]] to provide extra security for your digital assets.
 >
 > **[2:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980&t=158)** And finally, the local government or the immigration department issues passports for their citizens.
 >
@@ -515,31 +509,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (2), management (2), [[Microsoft Entra ID]] (1), [[Windows Server]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Entra ID]] (1), [[Windows Server]] (1), [[Active Directory]] (1), [[Multi-factor Authentication]] (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Env Vars:** iam (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Microsoft Entra ID?
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980)
+#### [What is Microsoft Entra ID?](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=2)** - [Narrator] First things first. 2 What is Microsoft Entra ID? 3 It is an identity as a service running in Microsoft Azure. 4 With Entra ID, you can authenticate and authorize users 5 to grant them access to modern cloud applications. 6 And because this is a cloud service, 7 you don't have to worry about any underlying pieces 8 of the identity infrastructure, like directory servers, 9 replication, networking, backups, or anything else. 10 Microsoft manages all of that for you. 11 Entra ID allows you to manage users their credentials, 12 assign them administrative rights, 13 provide them access to resources, 14 and manage the entire lifecycle of these user accounts. 15
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=2)** - [Narrator] First things first. 2 What is [[Microsoft Entra ID]]? 3 It is an identity as a service running in [[Microsoft Azure]]. 4 With [[Microsoft Entra ID|Entra ID]], you can authenticate and authorize users 5 to grant them access to modern cloud applications. 6 And because this is a cloud service, 7 you don't have to worry about any underlying pieces 8 of the identity infrastructure, like directory servers, 9 replication, networking, backups, or anything else. 10 [[Microsoft]] manages all of that for you. 11 Entra ID allows you to manage users their credentials, 12 assign them administrative rights, 13 provide them access to resources, 14 and manage the entire lifecycle of these user accounts. 15
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=53)** It also allows you to organize these user accounts 16 into groups so that you can manage them collectively 17 and enable them to collaborate among themselves. 18 Additionally, Entra ID enables you to manage all sorts 19 of devices as well, including desktops, laptops, 20 and mobile devices, running Windows, macOS, 21 Android, or iOS, the whole spectrum . 22 I consider users, groups, devices, and apps, 23 the four key pillars of a Microsoft Entra tenant. 24 That's because everything that Entra ID has to offer 25 mostly revolves around these four key entities. 26 Then many organizations worry that their existing 27 investments in Windows Server Active Directory 28
+> **[0:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=53)** It also allows you to organize these user accounts 16 into groups so that you can manage them collectively 17 and enable them to collaborate among themselves. 18 Additionally, Entra ID enables you to manage all sorts 19 of devices as well, including desktops, laptops, 20 and mobile devices, running [[Windows]], macOS, 21 [[Android]], or iOS, the whole spectrum . 22 I consider users, groups, devices, and apps, 23 the four key pillars of a Microsoft [[Microsoft Entra ID|Entra]] tenant. 24 That's because everything that Entra ID has to offer 25 mostly revolves around these four key entities. 26 Then many organizations worry that their existing 27 investments in [[Windows Server]] [[Active Directory]] 28
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=105)** may go to waste because of Entra ID. 29 They imagine directory servers being decommissioned 30 and thrown out of the windows. 31 But let me tell you, that is not true. 32 Entra ID is not a replacement 33 for active directory on premises. 34 Instead, think of Entra ID as a means to extend 35 your identity network beyond the on premises 36 and into the cloud. 37 You can do this by integrating Windows Server Active 38 Directory with Entra ID. 39 This allows users in your organization 40 to seamlessly access applications across both environments. 41 So in a sense, what I'm trying to say is, 42 that Entra ID is hybrid ready. 43 Next, Entra ID is driven by open industry standards. 44
 >
-> **[2:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=157)** This is crucial to enable interoperability 45 and prevent vendor lock-in. 46 For example, Entra ID supports common web security protocols 47 like OpenID, OAuth, and SAML. 48 In addition, it also supports SCIM for cross-domain 49 identity management and FIDO 50 for passwordless authentication. 51 So that's about the industry standards. 52 Then when it comes to regulatory compliance, 53 Azure also has a great reputation there. 54 For example, it complies with international certifications 55 like ISO and SOC, complies with PCI-DSS required 56 by the payment card industry, complies with HIPAA required 57 to safeguard medical information of patients, 58
+> **[2:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=157)** This is crucial to enable interoperability 45 and prevent vendor lock-in. 46 For example, Entra ID supports common web security protocols 47 like OpenID, OAuth, and SAML. 48 In addition, it also supports SCIM for cross-domain 49 identity management and FIDO 50 for passwordless authentication. 51 So that's about the industry standards. 52 Then when it comes to [[Regulatory Compliance]], 53 [[Microsoft Azure|Azure]] also has a great reputation there. 54 For example, it complies with international certifications 55 like ISO and SOC, complies with PCI-DSS required 56 by the payment card industry, complies with HIPAA required 57 to safeguard medical information of patients, 58
 >
-> **[3:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=206)** complies with FIPs, a federal standard 59 for information processing and GDPR, 60 which is European Unions latest set of guidelines 61 for data privacy of citizens in the EU. 62 These were just a few examples of the regulatory 63 compliances Azure adheres to. 64 All of this combined makes Entra ID one of the strongest 65 identity as a service providers out there.
+> **[3:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/what-is-microsoft-entra-id?u=76281980&t=206)** complies with FIPs, a federal standard 59 for information processing and GDPR, 60 which is European Unions latest set of guidelines 61 for [[Data Privacy]] of citizens in the EU. 62 These were just a few examples of the regulatory 63 compliances Azure adheres to. 64 All of this combined makes Entra ID one of the strongest 65 identity as a service providers out there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (12), cloud (3), [[Microsoft]] (2), [[Windows]] (2), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (12), [[Microsoft]] (2), [[Windows]] (2), [[Windows Server]] (2), [[Active Directory]] (2)
 > **Env Vars:** saml (1), scim (1), fido (1), iso (1), soc (1)
 > **Analogies:** for example (2), imagine (1)
 > **Code Identifiers:** macos (1), ios (1)
@@ -547,12 +540,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sign up for an Azure subscription
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980)
+#### [Sign up for an Azure subscription](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=2)** - [Kunal] To get started with Entra ID, let us first sign up for an Azure subscription.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=2)** - [Kunal] To get started with [[Microsoft Entra ID|Entra ID]], let us first sign up for an [[Microsoft Azure|Azure]] subscription.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=9)** Even if you have prior experience with Azure and have done this before, I insist you walk through this demo with me because my intent here is to not just show you what's happening on the screen but also explain what's happening in the background.
 >
@@ -560,9 +552,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=32)** It leads me to this page that you see on your screen.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=36)** Here, you'll need a Microsoft account to sign up.
+> **[0:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=36)** Here, you'll need a [[Microsoft]] account to sign up.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=40)** I've already created one beforehand, so, I'll type in that, sbckdm@[outlook.com](https://outlook.com).
+> **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=40)** I've already created one beforehand, so, I'll type in that, sbckdm@[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=48)** sbckdm is just an abbreviation of my company name and my name combined, Serverbaba Consulting, Kunal D. Metha.
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=214)** Everything looks good, so I'll click on the Sign up button.
 >
-> **[3:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=219)** Here, it gives me a nice little tip saying, "Enabling multi-factor authentication can block more than 99.9% of identity attacks."
+> **[3:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=219)** Here, it gives me a nice little tip saying, "Enabling [[Multi-factor Authentication]] can block more than 99.9% of identity attacks."
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/sign-up-for-an-azure-subscription?u=76281980&t=229)** That's good to know.
 >
@@ -664,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), next (5), [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Microsoft]] (4), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Entra ID|Entra id]] (1), [[Multi-factor Authentication]] (1)
 > **UI Navigation:** click on (9), open the (1), checkbox (1), go to (1)
 > **URLs:** [outlook.com](https://outlook.com) (2), [azure.com](https://azure.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** url (1), default (1), directory (1)
@@ -673,16 +665,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 
-#### Entra ID architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980)
+#### [Entra ID architecture](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=2)** - [Instructor] When you sign up for a new Azure subscription, there is a specific order in which Microsoft provisions your account.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=2)** - [Instructor] When you sign up for a new [[Microsoft Azure|Azure]] subscription, there is a specific order in which [[Microsoft]] provisions your account.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=10)** Despite what you may think, your subscription is not the first thing that comes into existence.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=17)** Instead, an Entra tenant is created at first, also known as the default directory because it's automatically created during the signup process.
+> **[0:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=17)** Instead, an [[Microsoft Entra ID|Entra]] tenant is created at first, also known as the default directory because it's automatically created during the signup process.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=28)** This tenant serves as the universal set for all your cloud assets.
 >
@@ -706,7 +697,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=89)** Underneath this tenant is the primary partition.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=93)** It's like a database that stores all the user objects, group objects, device objects, security identifiers, and core metadata about the tenant.
+> **[1:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=93)** It's like a database that stores all the user objects, group objects, device objects, security identifiers, and core [[Metadata]] about the tenant.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=105)** It's fairly accurate to say that this is the brain of your Azure account, which begs the question, where does it live?
 >
@@ -732,13 +723,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=205)** These copies are called secondary replicas.
 >
-> **[3:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=209)** This cross data center replication happens over the Microsoft Backbone Network, which powers its cloud services and not the public internet.
+> **[3:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=209)** This cross data center replication happens over the Microsoft Backbone Network, which powers its [[Cloud Services]] and not the public internet.
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=219)** This ensures safety and security.
 >
 > **[3:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=223)** The primary partition is writeable, whereas the secondary replicas are just read-only.
 >
-> **[3:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=230)** These secondary replicas are what allow Entra ID to scale globally and provide identity services to users around the world, regardless of their location.
+> **[3:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=230)** These secondary replicas are what allow [[Microsoft Entra ID|Entra ID]] to scale globally and provide identity services to users around the world, regardless of their location.
 >
 > **[4:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/entra-id-architecture?u=76281980&t=242)** In an event where the entire data center fails, a secondary replica can take over the role of a primary to provide business continuity.
 >
@@ -766,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (8), cloud (4), [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), [[Microsoft Entra ID|Entra id]] (3), [[Metadata]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** it's like (1), for example (1), such as (1), imagine (1)
 > **CLI Commands:** make (3)
@@ -774,16 +765,15 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure the default directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980)
+#### [Configure the default directory](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=2)** - [Instructor] Let's take a tour of our Entra tenant and configure the default directory.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=2)** - [Instructor] Let's take a tour of our [[Microsoft Entra ID|Entra]] tenant and configure the default directory.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=9)** In this demo, we'll try to reinforce our learnings from the last video and in the process, add our own custom domain to the tenant.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=19)** It is critical to add the custom domain before onboarding users and granting them access to services in Azure.
+> **[0:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=19)** It is critical to add the custom domain before onboarding users and granting them access to services in [[Microsoft Azure|Azure]].
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=28)** This is where we left off in the last demo, where we signed up for Azure.
 >
@@ -795,7 +785,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=62)** That was the Entra admin center, a central location to manage all Entra services, but this is the Azure portal.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=72)** When we sign up for Azure, it takes us to the Azure portal by default for managing Entra ID and other Azure resources.
+> **[1:12](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=72)** When we sign up for Azure, it takes us to the Azure portal by default for managing [[Microsoft Entra ID|Entra ID]] and other Azure resources.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=82)** I'll use the search box on the top to look for Entra ID.
 >
@@ -803,7 +793,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=90)** Here's the overview page for our Entra tenant.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=94)** There's some basic information and alerts, including the first one, telling us that Azure AD is now Microsoft Entra ID.
+> **[1:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=94)** There's some basic information and alerts, including the first one, telling us that [[Microsoft Entra ID|Azure AD]] is now [[Microsoft Entra ID]].
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=104)** You already know that because you're watching this course.
 >
@@ -881,7 +871,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=336)** We are not done yet.
 >
-> **[5:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=338)** I also have to prove Microsoft that I own this domain.
+> **[5:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=338)** I also have to prove [[Microsoft]] that I own this domain.
 >
 > **[5:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/configure-the-default-directory?u=76281980&t=343)** To do that, Microsoft requires me to either add a TXT record or an MX record in the DNS settings of my domain.
 >
@@ -951,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Entra]] (6), management (6), dns (5), [[Microsoft Entra ID|Entra id]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Entra ID|Entra]] (6), [[Microsoft Entra ID|Entra id]] (3), [[Microsoft]] (2), [[Microsoft Entra ID|Azure ad]] (1)
 > **UI Navigation:** click on (10), go to (2), scroll down (2), toggle (2)
 > **Env Vars:** dns (5), txt (4)
 > **Prerequisites:** configure (3), getting started (1), you'll need (1)
@@ -960,18 +950,17 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **Tools:** azure portal (2)
 
-#### Active Directory vs. Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980)
+#### [Active Directory vs. Entra ID](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=2)** - [Instructor] By now, you should have a good idea of what Entra ID is all about.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=2)** - [Instructor] By now, you should have a good idea of what [[Microsoft Entra ID|Entra ID]] is all about.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=8)** If you have experience as an Active Directory administrator, it's natural to think that Entra ID is simply the cloud version of Active Directory.
+> **[0:08](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=8)** If you have experience as an [[Active Directory]] administrator, it's natural to think that Entra ID is simply the cloud version of Active Directory.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=18)** Although both products aim to provide identity and access, their foundational elements are quite different.
+> **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=18)** Although both [[Microsoft Products|products]] aim to provide identity and access, their foundational elements are quite different.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=27)** Active Directory is an on-premises, Windows server based solution, whereas Entra ID is an Identity as a Service solution built into Microsoft Azure.
+> **[0:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=27)** Active Directory is an on-premises, [[Windows Server]] based solution, whereas Entra ID is an Identity as a Service solution built into [[Microsoft Azure]].
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=40)** Then Active Directory uses multi-master replication model where there are multiple writeable partitions of the directory.
 >
@@ -997,19 +986,19 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=135)** Then in Active Directory, we use NTLM and Kerberos protocols for authentication, and we use LDAP for interacting with directory services, whereas Entra ID leverages modern protocols, such as OpenID, OAuth, and SAML, for authentication and authorization.
 >
-> **[2:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=156)** And we use the Microsoft Graph API to access and interact with Microsoft Cloud Service resources, including Entra.
+> **[2:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=156)** And we use the [[Microsoft]] Graph API to access and interact with Microsoft Cloud Service resources, including [[Microsoft Entra ID|Entra]].
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=167)** Finally, there we have the Active Directory Administrative Center, which is an MMC built on top of PowerShell, used to manage all things related to Active Directory.
+> **[2:47](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=167)** Finally, there we have the Active Directory Administrative Center, which is an MMC built on top of [[Powershell]], used to manage all things related to Active Directory.
 >
 > **[2:59](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=179)** On the other hand, here, we have the web-based Microsoft Entra Admin Center.
 >
-> **[3:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=185)** This is our home for managing all services in the Entra family, but if you only want to manage Entra ID, you can use the Azure portal for that.
+> **[3:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=185)** This is our home for managing all services in the Entra family, but if you only want to manage Entra ID, you can use the [[Microsoft Azure|Azure]] portal for that.
 >
 > **[3:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=197)** We will also be using the Azure portal in this course to manage Entra ID.
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=203)** The Entra Admin Center is still in its initial stages, and the UI is constantly changing.
 >
-> **[3:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=210)** I already gave you a sneak peek of what it looks like in the Introduction chapter, so for the remainder of this course, it makes sense for us to stick to the Azure portal for consistent user experience.
+> **[3:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/active-directory-vs-entra-id?u=76281980&t=210)** I already gave you a sneak peek of what it looks like in the Introduction chapter, so for the remainder of this course, it makes sense for us to stick to the Azure portal for consistent [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
@@ -1025,36 +1014,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Entra Cloud Sync
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980)
+#### [Understand Entra Cloud Sync](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=2)** - [Instructor] I hope you now have a firm grasp of the basic concepts.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=6)** In this chapter, let us deconstruct and examine the core components of Entra ID.
+> **[0:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=6)** In this chapter, let us deconstruct and examine the core components of [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=13)** Here, we'll talk about managing users, groups, devices, and applications in the cloud.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=21)** It is possible for small businesses to run their entire organization in a purely cloud-only configuration without any enterprise hardware on-premises.
+> **[0:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=21)** It is possible for small businesses to run their entire organization in a purely cloud-only configuration without any enterprise [[Hardware]] on-premises.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=32)** But medium to large enterprises often have a significant presence of on-premises infrastructure.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=39)** This includes Windows Server Active Directory servers providing directory services to users, groups, applications, and devices.
+> **[0:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=39)** This includes [[Windows Server]] [[Active Directory]] servers providing directory services to users, groups, applications, and devices.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=49)** In such cases, taking a hybrid approach is recommended.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=53)** This allows businesses to keep their on-premises investments intact, and at the same time, leverage the goodness of Azure and Entra ID.
+> **[0:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=53)** This allows businesses to keep their on-premises investments intact, and at the same time, leverage the goodness of [[Microsoft Azure|Azure]] and Entra ID.
 >
-> **[1:04](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=64)** A hybrid cloud enables organizations to migrate workloads to the cloud at a pace they are comfortable with, and also provides users with seamless access to resources spanning across both environments.
+> **[1:04](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=64)** A [[Hybrid Cloud]] enables organizations to migrate workloads to the cloud at a pace they are comfortable with, and also provides users with seamless access to resources spanning across both environments.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=79)** This is accomplished by synchronizing a copy of the Active Directory user objects, group objects and device objects to Entra ID.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=90)** There are two ways to do that.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=93)** The first option is to use the Entra Connect tool.
+> **[1:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=93)** The first option is to use the [[Microsoft Entra ID|Entra]] Connect tool.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=97)** It requires installation on a Windows Server machine on-premises, along with the SQL Server database to store the synchronization metadata.
+> **[1:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=97)** It requires installation on a Windows Server machine on-premises, along with the [[Microsoft SQL Server|SQL Server]] database to store the synchronization [[Metadata]].
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=107)** Keeping the server up and running is essential for the hybrid identity infrastructure to function.
 >
@@ -1064,7 +1052,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=130)** As opposed to Entra Connect, you don't have to deploy a dedicated server or a database in this case.
 >
-> **[2:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=137)** Keeping the Cloud Sync service up and running is Microsoft's responsibility.
+> **[2:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=137)** Keeping the Cloud Sync service up and running is [[Microsoft]]'s responsibility.
 >
 > **[2:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=143)** Although at this point Entra Clouds Sync may seem like a better option, Entra Connect offers many granular level customizations that Cloud Sync doesn't.
 >
@@ -1084,7 +1072,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=204)** So what exactly is Entra Cloud Sync?
 >
-> **[3:28](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=208)** It is a powerful cloud-based tool that integrates Windows Server Active Directory with Microsoft Entra ID, allowing users to access applications across both on-premises and the cloud using a single set of credentials.
+> **[3:28](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=208)** It is a powerful cloud-based tool that integrates Windows Server Active Directory with [[Microsoft Entra ID]], allowing users to access applications across both on-premises and the cloud using a single set of credentials.
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980&t=225)** This simplifies identity management for administrators like us.
 >
@@ -1144,7 +1132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (25), [[Microsoft Entra ID|Entra]] (14), [[Microsoft Entra ID|Entra id]] (8), [[Active Directory]] (7), [[Windows Server]] (5)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (14), [[Microsoft Entra ID|Entra id]] (8), [[Active Directory]] (7), [[Windows Server]] (5), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **Analogies:** for instance (2), for example (1)
 > **Prerequisites:** configure (2), install (1)
@@ -1153,12 +1141,11 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Cross-References:** later in (1)
 
-#### Manage users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980)
+#### [Manage users](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=2)** - [Presenter] As an Entra administrator, it is important to have a comprehensive understanding of the four key pillars of an Entra tenant.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=2)** - [Presenter] As an [[Microsoft Entra ID|Entra]] administrator, it is important to have a comprehensive understanding of the four key pillars of an Entra tenant.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=11)** Those are users, groups, devices, and applications.
 >
@@ -1174,15 +1161,15 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=43)** That is why understanding the concept of source of authority will help you manage users appropriately.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=51)** Federated users are managed and authenticated in Active Directory, which is their source of authority, because that is where they are created.
+> **[0:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=51)** Federated users are managed and authenticated in [[Active Directory]], which is their source of authority, because that is where they are created.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=62)** These users are synchronized from environments where both Active Directory Domain Services and Active Directory Federation Services are deployed.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=72)** When a federated user attempts to sign into Azure, their sign-in session is redirected to the federation servers on-premises for authentication.
+> **[1:12](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=72)** When a federated user attempts to sign into [[Microsoft Azure|Azure]], their sign-in session is redirected to the federation servers on-premises for authentication.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=82)** This is because their password hashes are only stored in Active Directory and not synchronized to Azure.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=90)** Then we have synchronized users that can be authenticated in either Active Directory or Microsoft Entra ID.
+> **[1:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=90)** Then we have synchronized users that can be authenticated in either Active Directory or [[Microsoft Entra ID]].
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=98)** The source of authority for these user accounts is, again, Active Directory, because that is where they are created.
 >
@@ -1192,7 +1179,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=132)** Federated and synchronized accounts are meant for users who require access to both on-premises and cloud resources.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=141)** They can authenticate against Active Directory to access local resources, and against Entra ID to access cloud resources.
+> **[2:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=141)** They can authenticate against Active Directory to access local resources, and against [[Microsoft Entra ID|Entra ID]] to access cloud resources.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=151)** Next, we have cloud-native users that are entirely managed in Microsoft Entra ID.
 >
@@ -1258,7 +1245,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=386)** As you can see, there's only one user account, and that's mine.
 >
-> **[6:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=390)** I created this Microsoft account before signing up for Azure, which means it is external to Azure.
+> **[6:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=390)** I created this [[Microsoft]] account before signing up for Azure, which means it is external to Azure.
 >
 > **[6:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=398)** I suggest that once your Azure subscription is set up, create a strong password for this account and keep it reserved for emergency use only.
 >
@@ -1292,7 +1279,7 @@ created: 2026-05-02
 >
 > **[8:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=495)** Then Department, IT.
 >
-> **[8:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=497)** Office location, Hyderabad.
+> **[8:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=497)** [[Microsoft Office|Office]] location, Hyderabad.
 >
 > **[8:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=501)** Then I'll scroll down a little bit.
 >
@@ -1306,7 +1293,7 @@ created: 2026-05-02
 >
 > **[8:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=519)** I'll recheck everything to make sure there are no mistakes.
 >
-> **[8:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=523)** While it is not mandatory to fill in this information, I strongly recommend you do it, mainly because some Entra ID features depend on it and it also gives your employees a rich user experience to work with.
+> **[8:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=523)** While it is not mandatory to fill in this information, I strongly recommend you do it, mainly because some Entra ID features depend on it and it also gives your employees a rich [[User Experience (UX)|user experience]] to work with.
 >
 > **[8:58](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-users?u=76281980&t=538)** Once I'm done, I'll click on the Next Assignments button down here.
 >
@@ -1366,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (22), [[Microsoft Azure|Azure]] (13), [[Active Directory]] (11), [[Microsoft Entra ID|Entra]] (8), next (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Active Directory]] (11), [[Microsoft Entra ID|Entra]] (8), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft Entra ID]] (4)
 > **UI Navigation:** click on (10), go to (2), checkbox (1), scroll down (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (2), in the next (1)
@@ -1375,8 +1362,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Prerequisites:** set up (1)
 
-#### Manage groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980)
+#### [Manage groups](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,7 +1370,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=5)** Similar to users, the lifecycle of groups also depends on their source of authority.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=11)** Groups created on-premises are managed with Active Directory, and groups created in Azure are managed with Entra ID.
+> **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=11)** Groups created on-premises are managed with [[Active Directory]], and groups created in [[Microsoft Azure|Azure]] are managed with [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=19)** First, we have synchronized security groups that are managed in Active Directory.
 >
@@ -1406,7 +1392,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=93)** These groups provide ease of administration by allowing us to grant access to resources collectively instead of granting access to each individual user.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=106)** Next, we have Microsoft 365 groups, and their main purpose is to enable collaboration among users in Azure.
+> **[1:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=106)** Next, we have [[Microsoft 365]] groups, and their main purpose is to enable collaboration among users in Azure.
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=115)** These are also cloud-native because they are created and managed in Entra ID.
 >
@@ -1414,7 +1400,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=129)** Now, how does it enable collaboration, if you ask?
 >
-> **[2:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=133)** It does so by provisioning a shared mailbox, shared calendar, document libraries, and other collaborative tools for its members through seamless integration with Outlook, SharePoint, and Teams.
+> **[2:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=133)** It does so by provisioning a shared mailbox, shared calendar, document libraries, and other collaborative tools for its members through seamless integration with [[Microsoft Outlook|Outlook]], [[SharePoint]], and Teams.
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=147)** It is important to keep in mind that Microsoft 365 groups enable collaboration among users by providing them with shared workspaces.
 >
@@ -1454,7 +1440,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=273)** And then if I look below, the membership type is Assigned.
 >
-> **[4:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=278)** Do I want to enable Entra role assignment for this group?
+> **[4:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=278)** Do I want to enable [[Microsoft Entra ID|Entra]] role assignment for this group?
 >
 > **[4:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-groups?u=76281980&t=282)** I will toggle it to Yes.
 >
@@ -1538,7 +1524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Security]] (9), [[Microsoft Entra ID|Entra id]] (6), [[Active Directory]] (4), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (6), [[Active Directory]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft 365]] (3), [[Microsoft Entra ID|Entra]] (2)
 > **UI Navigation:** click on (12), dropdown (2), toggle (1), go to (1), select the (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1547,18 +1533,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980)
+#### [Manage devices](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=2)** - [Kunal] Now, let's explore how to manage devices in Entra ID.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=2)** - [Kunal] Now, let's explore how to manage devices in [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=8)** So far, you've learned that users and groups can either be synchronized or cloud native.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=14)** The same principle applies to devices.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=18)** First, we have an Entra hybrid join for computers that are already domain joined to Windows Server Active Directory on-premises.
+> **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=18)** First, we have an [[Microsoft Entra ID|Entra]] hybrid join for computers that are already domain joined to [[Windows Server]] [[Active Directory]] on-premises.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=28)** As you may have inferred, this dual join allows devices to seamlessly access resources across both environments.
 >
@@ -1568,7 +1553,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=66)** Enterprise organizations may also have System Center Configuration Manager deployed in addition to Group Policy for a more comprehensive approach towards managing devices and applications.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=80)** Then, we have Entra Join, which lets you add Windows devices directly to Entra ID without the need for on-premises Active Directory.
+> **[1:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=80)** Then, we have Entra Join, which lets you add [[Windows]] devices directly to Entra ID without the need for on-premises Active Directory.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=91)** The process to configure this is very straightforward.
 >
@@ -1584,11 +1569,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=129)** A user has to simply register their personal device with Entra ID.
 >
-> **[2:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=135)** Once registered, they can securely access corporate resources using their own devices and without compromising their privacy.
+> **[2:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=135)** Once registered, they can securely access corporate resources using their own devices and without compromising their [[Privacy]].
 >
-> **[2:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=145)** The main objective of Device Registration by design is to ensure that devices that are accessing Azure resources are recognized.
+> **[2:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=145)** The main objective of Device Registration by design is to ensure that devices that are accessing [[Microsoft Azure|Azure]] resources are recognized.
 >
-> **[2:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=156)** This method supports a wide range of operating systems, including Windows, Linux, macOS, Android, and also iOS.
+> **[2:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=156)** This method supports a wide range of operating systems, including Windows, [[Linux]], macOS, [[Android]], and also iOS.
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=166)** Although Entra Join is the preferred option for company-owned devices, it supports only Windows.
 >
@@ -1598,13 +1583,13 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=190)** The common denominator between Entra Join and Device Registration is that both can be managed with Intune or other MDM solutions.
 >
-> **[3:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=201)** If you are not aware, Intune is Microsoft's cloud-based mobile device management solution that we use for configuring policies, deploying applications, and in general, making sure devices are secure and compliant with organizational standards.
+> **[3:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=201)** If you are not aware, Intune is [[Microsoft]]'s cloud-based mobile device management solution that we use for configuring policies, deploying applications, and in general, making sure devices are secure and compliant with organizational standards.
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=219)** Intune supports Windows, as well as non-Windows devices.
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=225)** Now, let's try to implement Entra Join in Windows.
 >
-> **[3:52](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=232)** This is a Windows 10 computer.
+> **[3:52](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=232)** This is a [[Windows 10]] computer.
 >
 > **[3:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=234)** Let's assume my company has assigned this device to me and requested me to join it to Entra ID.
 >
@@ -1636,7 +1621,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=305)** But that's not what we want to do.
 >
-> **[5:08](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=308)** We want to perform an Entra Join, so I'll click on this link below that says, "Join this device to Microsoft Entra ID".
+> **[5:08](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=308)** We want to perform an Entra Join, so I'll click on this link below that says, "Join this device to [[Microsoft Entra ID]]".
 >
 > **[5:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-devices?u=76281980&t=318)** Enter my corporate email address, which is kunal@serverbaba.in, click next, enter my password, and click on Sign in.
 >
@@ -1678,7 +1663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (12), [[Microsoft Entra ID|Entra id]] (10), [[Windows]] (8), [[Active Directory]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (12), [[Microsoft Entra ID|Entra id]] (10), [[Windows]] (8), [[Active Directory]] (4), [[Windows 10]] (3)
 > **UI Navigation:** click on (11), go to (3), switch to (1)
 > **Prerequisites:** configure (3), required to (1)
 > **Env Vars:** byod (2), mdm (1)
@@ -1687,14 +1672,13 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
 
-#### Provision enterprise apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980)
+#### [Provision enterprise apps](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=2)** - [Instructor] Moving on to the fourth and final pillar of an Entra tenant, applications.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=2)** - [Instructor] Moving on to the fourth and final pillar of an [[Microsoft Entra ID|Entra]] tenant, applications.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=9)** At the beginning of this chapter, I gave you an overview of how to synchronize users, groups, and devices from Active Directory to Entra ID.
+> **[0:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=9)** At the beginning of this chapter, I gave you an overview of how to synchronize users, groups, and devices from [[Active Directory]] to [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=20)** There I mentioned that migrating applications is a complex process that depends on various factors.
 >
@@ -1714,13 +1698,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=86)** So without drifting away, let's talk about how to provision enterprise apps directly in Entra ID.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=94)** The Microsoft Identity Platform provides identity and access management for apps in Entra ID.
+> **[1:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=94)** The [[Microsoft]] Identity Platform provides identity and access management for apps in Entra ID.
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=102)** It offers a comprehensive set of APIs and services to developers for managing identities and integrating applications with Entra ID.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=113)** Leveraging an identity as a service solution is a lot easier than coding the entire authentication and authorization module of an application right from scratch.
 >
-> **[2:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=125)** If you are lucky, you may not have to do that because Entra ID comes with the Apps Gallery, which is a curated catalog of pre-integrated SaaS apps.
+> **[2:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=125)** If you are lucky, you may not have to do that because Entra ID comes with the Apps Gallery, which is a curated catalog of pre-integrated [[SaaS]] apps.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=137)** It has most of the popular business applications that organizations out there use pre-configured to work seamlessly with Entra ID.
 >
@@ -1728,7 +1712,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=153)** This reduces the administrator overhead and developer effort required for integration.
 >
-> **[2:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=160)** Organizations can also deploy the application they desire as a PaaS app if it is developed by third-party ISVs or in-house.
+> **[2:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=160)** Organizations can also deploy the application they desire as a [[PaaS]] app if it is developed by third-party ISVs or in-house.
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=170)** This works when organizations have either partial or more access to the application source code and developers know how to utilize the Microsoft Identity Platform.
 >
@@ -1738,9 +1722,9 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=205)** Then a process called app registration is required for all those apps that are not hosted in the gallery, but require integration with Entra ID.
 >
-> **[3:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=216)** This is the actual step where a vanilla application is integrated with Entra ID.
+> **[3:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=216)** This is the actual step where a [[Vanilla]] application is integrated with Entra ID.
 >
-> **[3:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=223)** This involves going to the Azure Portal, specifying the app's settings, permissions, and scope.
+> **[3:43](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=223)** This involves going to the [[Microsoft Azure|Azure]] Portal, specifying the app's settings, permissions, and scope.
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=231)** To put it in simple words, this is where you introduce your app to Azure and request Entra ID to start handling authentication and authorization on behalf of the app.
 >
@@ -1748,7 +1732,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=250)** Developers get a wide variety of SDKs and libraries to help them build web, mobile, and desktop applications quickly and at scale.
 >
-> **[4:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=260)** They also get the freedom to choose any of the popular platforms out there like .NET, JavaScript, Java, Python, Android, iOS, et cetera.
+> **[4:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=260)** They also get the freedom to choose any of the popular platforms out there like .NET, [[JavaScript]], [[Java]], [[Python (Programming Language)|Python]], [[Android]], iOS, et cetera.
 >
 > **[4:33](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=273)** Let us see how to provision an app from the Apps Gallery.
 >
@@ -1774,9 +1758,9 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=341)** There are apps like Box, WebEx, DocuSign, Dropbox, Salesforce.
 >
-> **[5:47](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=347)** If I scroll down, there's Slack, Zoom, and a whole bunch of other business apps.
+> **[5:47](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=347)** If I scroll down, there's [[Slack]], [[Zoom]], and a whole bunch of other business apps.
 >
-> **[5:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=355)** As far as my organization is concerned, I don't need any storage apps because I already have OneDrive.
+> **[5:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=355)** As far as my organization is concerned, I don't need any storage apps because I already have [[Microsoft OneDrive|OneDrive]].
 >
 > **[6:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/provision-enterprise-apps?u=76281980&t=362)** And we don't need any meeting or instant messaging apps either because we have Teams.
 >
@@ -1832,7 +1816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (12), application (8), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), [[Search]] (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (12), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID|Entra]] (3), [[SaaS]] (2)
 > **UI Navigation:** click on (8), scroll down (2)
 > **Exercise Files:** source code (5)
 > **Definitions:** is a  (3), is an  (1)
@@ -1841,14 +1825,13 @@ created: 2026-05-02
 > **CLI Commands:** python (1), make (1)
 > **Prerequisites:** set up (1), configure (1)
 
-#### Manage administrative units
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980)
+#### [Manage administrative units](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=1)** - [Instructor] It is common for larger companies to have multiple administrators with different levels of permissions to handle different administrative tasks because there's only so much a single person can do.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=16)** This is how a typical chain of command looks like in Entra ID.
+> **[0:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=16)** This is how a typical chain of command looks like in [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=21)** On the top, you have global administrators.
 >
@@ -1864,7 +1847,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=61)** Administrative units help you define the scope of administration for administrators.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=67)** Having clearly assigned roles and responsibilities helps improve efficiency and accountability while reducing confusion and friction among peers.
+> **[1:07](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=67)** Having clearly assigned roles and responsibilities helps improve efficiency and [[Accountability]] while reducing confusion and friction among peers.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=79)** When there is a conflict between administrators, it creates a negative vibe that is never good for the organization.
 >
@@ -1878,7 +1861,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=123)** This allows you to customize access control settings, security settings, and other configurations to meet the unique requirement of each unit.
 >
-> **[2:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=133)** This ensures you can be agile in adapting to your organizational policies based on operational needs.
+> **[2:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=133)** This ensures you can be [[Agile Development|agile]] in adapting to your organizational policies based on operational needs.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=142)** Administrative units can hold user objects, group objects, and device objects as members.
 >
@@ -1892,7 +1875,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=186)** In Entra ID, we also have something called Restricted Management AUs, and their sole purpose is to protect key objects in the tenant.
 >
-> **[3:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=196)** This feature helps us safeguard critical assets and objects in Azure, making sure only those administrators who are explicitly authorized to can access them.
+> **[3:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=196)** This feature helps us safeguard critical assets and objects in [[Microsoft Azure|Azure]], making sure only those administrators who are explicitly authorized to can access them.
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=209)** A classic use case is to protect user accounts, groups, and devices of your organization's top-level management, CSOs, or board members, because let's face it, you don't want anyone to mess with their settings, either accidentally or mischievously.
 >
@@ -1904,11 +1887,11 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=265)** Although this situation is rare, it's still possible.
 >
-> **[4:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=269)** Finally, it's important to note that organizational units from on-premises Active Directory are not synchronized into administrative units in Entra ID.
+> **[4:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=269)** Finally, it's important to note that organizational units from on-premises [[Active Directory]] are not synchronized into administrative units in Entra ID.
 >
 > **[4:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=280)** I am sure those of you who have experience in Active Directory may be wondering this.
 >
-> **[4:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=286)** Tools like Entra Connect and CloudSync help you synchronize users, groups, and devices, but this functionality does not extend to organizational units.
+> **[4:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=286)** Tools like [[Microsoft Entra ID|Entra]] Connect and CloudSync help you synchronize users, groups, and devices, but this functionality does not extend to organizational units.
 >
 > **[4:57](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/manage-administrative-units?u=76281980&t=297)** This is mainly because of the difference in how objects are organized and managed across these two environments.
 >
@@ -1918,7 +1901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Microsoft Entra ID|Entra id]] (5), [[Active Directory]] (3), [[Accountability]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (5), [[Active Directory]] (3), [[Accountability]] (1), [[Agile Development|Agile]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** rmau (1)
@@ -1930,12 +1913,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Industry standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980)
+#### [Industry standards](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=2)** - [Instructor] I hope you are now comfortable with the core elements of Entra ID.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=2)** - [Instructor] I hope you are now comfortable with the core elements of [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=7)** In this chapter, let's switch gears and talk about standards and compliance.
 >
@@ -1953,17 +1935,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=75)** These standards can apply to a wide range of items such as writing code, storing and transferring data, or even deploying services.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=87)** For instance, Azure allows you to run apps built on the .NET platform, as well as PHP, Python, Java, Ruby, and other popular languages out there.
+> **[1:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=87)** For instance, [[Microsoft Azure|Azure]] allows you to run apps built on the .NET platform, as well as [[PHP]], [[Python (Programming Language)|Python]], [[Java]], Ruby, and other popular languages out there.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=100)** These are some of the most widely used development platforms in the industry.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=106)** Microsoft does not restrict you to .NET only.
+> **[1:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=106)** [[Microsoft]] does not restrict you to .NET only.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=109)** You have the freedom to choose any language that best suits your needs.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=115)** Another example of this is virtual machines.
+> **[1:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=115)** Another example of this is [[Virtual Machines]].
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=119)** In Azure, you can not only provision VMs running Windows, but also Red Hat Linux, Ubuntu, and other commonly used operating systems.
+> **[1:59](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=119)** In Azure, you can not only provision VMs running [[Windows]], but also [[Red Hat Linux]], [[Ubuntu]], and other commonly used operating systems.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=131)** The point I'm trying to make is that Azure openly embraces industry standards, and does not force you into using something you don't want to.
 >
@@ -1985,7 +1967,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=202)** The list is actually much longer.
 >
-> **[3:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=205)** Regardless of whether you work in a predominantly Microsoft environment or not, you will still be able to use Azure and Entra with every bit of freedom and flexibility.
+> **[3:25](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=205)** Regardless of whether you work in a predominantly Microsoft environment or not, you will still be able to use Azure and [[Microsoft Entra ID|Entra]] with every bit of freedom and flexibility.
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=219)** Let me walk you through a few different documents that highlight what we just discussed in the slides.
 >
@@ -2001,7 +1983,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=271)** I'm highlighting these specifically, because they are the current industry standard protocols for modern cloud apps.
 >
-> **[4:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=279)** Secondly, here's the documentation for SCIM synchronization with Microsoft Entra ID.
+> **[4:39](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=279)** Secondly, here's the documentation for SCIM synchronization with [[Microsoft Entra ID]].
 >
 > **[4:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980&t=286)** The first line reads that SCIM is an open standard protocol for automating the exchange of user identity information between identity domains and IT systems.
 >
@@ -2015,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Entra ID|Entra id]] (4), [[Microsoft Entra ID|Entra]] (4), product (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Entra ID|Entra id]] (4), [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (2), [[Microsoft Entra ID]] (2)
 > **Env Vars:** scim (4), saml (3), fido (3), net (2), php (1)
 > **Definitions:** is an  (2), means that (1), stands for (1), is a  (1)
 > **CLI Commands:** php (1), python (1), ruby (1), make (1)
@@ -2024,18 +2006,17 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Versions:** 2.0 (1)
 
-#### Regulatory compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980)
+#### [Regulatory compliance](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=2)** - [Instructor] When a product claims to meet regulatory compliance requirements, it essentially means that it follows or ensures adherence to regulations, policies, or laws drafted by a competent authority.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=2)** - [Instructor] When a product claims to meet [[Regulatory Compliance]] requirements, it essentially means that it follows or ensures adherence to regulations, policies, or laws drafted by a competent authority.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=18)** These can be put in place for various reasons, such as optimization of existing business processes, strengthening security, safeguarding the privacy of employees and customers, or satisfying legal restrictions at the national and international level.
+> **[0:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=18)** These can be put in place for various reasons, such as optimization of existing business processes, strengthening security, safeguarding the [[Privacy]] of employees and customers, or satisfying legal restrictions at the national and international level.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=37)** When you comply with these requirements, it instills trust for the product in a customer's mind because they can be confident that the product or application functions as per expectations and won't get you into unforeseen trouble.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=55)** Let's talk about a few such compliance requirements that Azure adheres to.
+> **[0:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=55)** Let's talk about a few such compliance requirements that [[Microsoft Azure|Azure]] adheres to.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=61)** First, there's ISO, or the International Organization for Standardization.
 >
@@ -2043,27 +2024,27 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=78)** Then there's SOC, or System and Organization Controls.
 >
-> **[1:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=83)** This basically revolves around protecting financial statements and improving general operational efficiency.
+> **[1:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=83)** This basically revolves around protecting [[Financial Statements]] and improving general operational efficiency.
 >
-> **[1:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=92)** PCI DSS stands for Payment Card Industry Data Security Standard.
+> **[1:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=92)** PCI DSS stands for Payment Card Industry [[Data Security]] Standard.
 >
-> **[1:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=98)** This is pretty much mandatory for organizations that store credit card information or process payment transactions like most banking, financial, and FinTech institutions.
+> **[1:38](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=98)** This is pretty much mandatory for organizations that store credit card information or process payment transactions like most [[Banking]], financial, and FinTech institutions.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=113)** Next is HIPAA, the Health Insurance Portability and Accountability Act.
+> **[1:53](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=113)** Next is HIPAA, the Health Insurance Portability and [[Accountability]] Act.
 >
 > **[1:58](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=118)** This has provisions to ensure confidential medical data of patients is kept private and shared appropriately with authorized personnel only.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=130)** Then, FIPS, or Federal Information Processing Standard, is a US standard that applies to the security of data processing systems.
+> **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=130)** Then, FIPS, or Federal Information Processing Standard, is a US standard that applies to the security of [[Data Processing]] systems.
 >
-> **[2:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=140)** It outlines the minimum thresholds for data encryption at rest and in transit.
+> **[2:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=140)** It outlines the minimum thresholds for data encryption at [[Representational State Transfer (REST)|rest]] and in transit.
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=147)** The most recent one, GDPR, which stands for General Data Protection Regulations, was introduced by the European Union to protect the data and privacy of citizens residing in the European Economic Area.
 >
 > **[2:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=162)** Like I said, these are just a few examples of the hundreds of compliances Azure adheres to.
 >
-> **[2:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=170)** If you want to explore more on this, the exhaustive list is available on the Microsoft Service Trust Portal.
+> **[2:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=170)** If you want to explore more on this, the exhaustive list is available on the [[Microsoft]] Service Trust Portal.
 >
-> **[2:58](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=178)** Lastly, as you may already know, the responsibility for uptime and security is shared between the cloud service provider and the customer when it comes to cloud computing.
+> **[2:58](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=178)** Lastly, as you may already know, the responsibility for uptime and security is shared between the cloud service provider and the customer when it comes to [[Cloud Computing]].
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/regulatory-compliance?u=76281980&t=190)** This is known as the shared responsibility model.
 >
@@ -2097,7 +2078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (4), [[Microsoft Azure|Azure]] (4), product (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Financial Statements]] (1)
 > **Env Vars:** iso (2), soc (2), pci (2), dss (2), gdpr (2)
 > **Definitions:** stands for (2), means that (1), is a  (1), known as (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -2111,16 +2092,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing an Entra tenant
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980)
+#### [Managing an Entra tenant](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=2)** - [Instructor] So far, we have just scratched the surface of Entra ID.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=2)** - [Instructor] So far, we have just scratched the surface of [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=7)** A deeper appreciation will come only through hands-on practice.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=11)** However, in this chapter, I'll try my best to give you an overview of what it entails to be administering an Entra Tenant.
+> **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=11)** However, in this chapter, I'll try my best to give you an overview of what it entails to be administering an [[Microsoft Entra ID|Entra]] Tenant.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=21)** Managing an Entra tenant can be an immersive experience because of the great features and powerful tools we get for handling our identity and access needs.
 >
@@ -2128,15 +2108,15 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=35)** The Entra family is designed to facilitate dynamic modern identities that can adapt to the evolving needs of any organization.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=46)** It supports not only Azure, but also on-premises Active Directory, AWS, and GCP.
+> **[0:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=46)** It supports not only [[Microsoft Azure|Azure]], but also on-premises [[Active Directory]], AWS, and GCP.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=54)** It gives you the freedom to be agile and stay on top of trends in a rapidly changing digital landscape.
+> **[0:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=54)** It gives you the freedom to be [[Agile Development|agile]] and stay on top of trends in a rapidly changing digital landscape.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=63)** To me, that is an underrated luxury.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=66)** Then, Entra ID is a cloud powered identity as a service solution that gives you centralized administration and global reach, without the need for on-premises infrastructure.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=80)** It comes with all the built-in goodness of the cloud, like scalability, availability, fall tolerance, plus automatic backups and updates.
+> **[1:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=80)** It comes with all the built-in goodness of the cloud, like [[Scalability]], availability, fall tolerance, plus automatic backups and updates.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=91)** Then, end users are less dependent on the help desk and administrators because they can now avail self-service to edit their profiles, change or reset passwords, manage group memberships, and request access to apps.
 >
@@ -2154,7 +2134,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=166)** With Sign-in logs, you can view all sign-in attempts made against your tenant, along with the device and location information.
 >
-> **[2:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=175)** Audit logs allow you to keep a track of which user accessed what resources and when, for accountability.
+> **[2:55](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=175)** Audit logs allow you to keep a track of which user accessed what resources and when, for [[Accountability]].
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=183)** The health component provides a comprehensive insight into your entire identity infrastructure spanning across the cloud and on-premises environment.
 >
@@ -2162,19 +2142,18 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=212)** I personally love the dark mode and cannot do without it.
 >
-> **[3:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=217)** Despite the fact that these features are purely cosmetic and non-functional, they still help reinforce your brand and provide an engaging user experience.
+> **[3:37](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980&t=217)** Despite the fact that these features are purely cosmetic and non-functional, they still help reinforce your brand and provide an engaging [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), cloud (3), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Azure|Azure]] (1), [[Active Directory]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1), gcp (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing an Entra tenant
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980)
+#### [Securing an Entra tenant](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2182,9 +2161,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=6)** If we want to keep our environment secure and the bad actors out, what we need to begin with is a strong gatekeeper.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=14)** That's the reason why Microsoft says identity is the new control plane.
+> **[0:14](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=14)** That's the reason why [[Microsoft]] says identity is the new control plane.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=20)** An ideal solution should provide us with a multi-layered approach to security, and that's where Entra ID comes into play.
+> **[0:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=20)** An ideal solution should provide us with a multi-layered approach to security, and that's where [[Microsoft Entra ID|Entra ID]] comes into play.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=30)** It allows you to deploy controls at various layers to protect your tenant.
 >
@@ -2200,7 +2179,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=78)** Based on a study, implementing this one additional step effectively stops 99.9% of attacks on your accounts and prevents them from being compromised.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=90)** An even better way to improve security is to deploy Entra Conditional Access, which analyzes sign-in attempts based on user behavior, location, and device information.
+> **[1:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=90)** An even better way to improve security is to deploy [[Microsoft Entra ID|Entra]] Conditional Access, which analyzes sign-in attempts based on user behavior, location, and device information.
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=104)** Depending on the result of this analysis, it may do one of three things.
 >
@@ -2208,11 +2187,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=123)** So you see this solution is a little smarter than simply using multifactor authentication.
 >
-> **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=130)** Then Entra ID also supports passwordless authentication with the Authenticator app, Windows Hello, FIDO keys, and certificates.
+> **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=130)** Then Entra ID also supports passwordless authentication with the Authenticator app, [[Windows]] Hello, FIDO keys, and certificates.
 >
 > **[2:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=141)** This reduces the organization's dependency on passwords, thereby enhancing security and lowering the risk of credential theft.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=150)** Next, Entra ID Protection uses machine learning algorithms to detect and flag risky users, sign-in attempts, and apps.
+> **[2:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=150)** Next, Entra ID Protection uses machine learning [[Algorithms]] to detect and flag risky users, sign-in attempts, and apps.
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=161)** Depending on the level and type of suspicious activity, it may enforce preventive measures on the user account in question, like either require multifactor authentication or enforce a password reset.
 >
@@ -2224,13 +2203,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=197)** The higher, the better.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=199)** And the most recent member to join Azure's arsenal of security products is the Microsoft Copilot for Security, which is a generative AI tool.
+> **[3:19](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=199)** And the most recent member to join [[Microsoft Azure|Azure]]'s arsenal of security [[Microsoft Products|products]] is the [[Microsoft Copilot]] for Security, which is a [[Generative AI]] tool.
 >
 > **[3:31](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/securing-an-entra-tenant?u=76281980&t=211)** It promises to assist with rapid investigation into risks, faster troubleshooting, and bringing new levels of administrative efficiency, all of it done in natural language that we as humans use in our daily life.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Microsoft Entra ID|Entra id]] (4), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (4), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1), [[Windows]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** fido (1)
 > **Versions:** 99.9 (1)
@@ -2238,18 +2217,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Potential benefits of deploying Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980)
+#### [Potential benefits of deploying Entra ID](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=2)** - [Narrator] Deploying Entra ID can offer a wide array of benefits for businesses of all sizes.
+> **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=2)** - [Narrator] Deploying [[Microsoft Entra ID|Entra ID]] can offer a wide array of benefits for businesses of all sizes.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=9)** Let's explore some key advantages you may be able to enjoy.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=15)** Small to medium-sized businesses can save on the upfront cost of expensive hardware and software licenses.
+> **[0:15](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=15)** Small to medium-sized businesses can save on the upfront cost of expensive [[Hardware]] and software licenses.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=24)** It is quite possible for the number of physical domain controllers and Windows Server licenses to go down all the way to zero for such businesses.
+> **[0:24](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=24)** It is quite possible for the number of physical domain controllers and [[Windows Server]] licenses to go down all the way to zero for such businesses.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=34)** This allows SMBs to allocate their capital investments into growing the business.
 >
@@ -2265,9 +2243,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=100)** If you cannot authenticate, you cannot access them, as simple as that.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=106)** Then Entra ID also provides global scalability and resilient headquarters to branch office connectivity.
+> **[1:46](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=106)** Then Entra ID also provides global [[Scalability]] and resilient headquarters to branch [[Microsoft Office|office]] connectivity.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=114)** So, instead of relying on traditional slow LAN links for cross-site authentication or installing RODCs, you can now fashion your network in a hub-and-spoke topology where Azure is the hub and all other offices are the spokes.
+> **[1:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=114)** So, instead of relying on traditional slow LAN links for cross-site authentication or installing RODCs, you can now fashion your network in a hub-and-spoke topology where [[Microsoft Azure|Azure]] is the hub and all other offices are the spokes.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/potential-benefits-of-deploying-entra-id?u=76281980&t=133)** Then hybrid identity combined with single sign-on boosts employee productivity.
 >
@@ -2283,12 +2261,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (6), [[Hardware]] (2), business (2), [[Security]] (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (6), [[Hardware]] (2), [[Windows Server]] (1), [[Scalability]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** roi (1), lan (1)
 > **Speakers:** - [narrator] (1)
 
-#### Case study: Audi AG
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980)
+#### [Case study: Audi AG](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,19 +2273,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=5)** It belongs to Audi, one of the world's leading automobile manufacturers based Ingolstadt, Germany.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=13)** I have a case study here showcasing how Audi implemented Microsoft Intune for mobile device management to enhance security, streamline device management, and improve productivity.
+> **[0:13](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=13)** I have a case study here showcasing how Audi implemented [[Microsoft]] Intune for mobile device management to enhance security, streamline device management, and improve productivity.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=27)** Although the case study revolves around Intune, it is essential to note that Entra ID was the base identity and access management solution used to deploy this.
+> **[0:27](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=27)** Although the case study revolves around Intune, it is essential to note that [[Microsoft Entra ID|Entra ID]] was the base identity and access management solution used to deploy this.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=40)** Audi leveraged several Entra features such as zero trust, conditional access, and self-service among other things.
+> **[0:40](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=40)** Audi leveraged several [[Microsoft Entra ID|Entra]] features such as zero trust, conditional access, and self-service among other things.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=50)** This is the full range of products used in this implementation.
+> **[0:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=50)** This is the full range of [[Microsoft Products|products]] used in this implementation.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=54)** If you are interested, I've added the link to the whole story in exercise files for you to read.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=60)** This is just one of the 100s of success stories out there, but I specifically chose this one because it is special to me.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=70)** In my professional life I love working with Microsoft products, and in my personal time I love going out on long drives in my Audi.
+> **[1:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=70)** In my professional life I love working with [[Microsoft Products]], and in my personal time I love going out on long drives in my Audi.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/case-study-audi-ag?u=76281980&t=80)** So when this story came to my attention, it made me really happy.
 >
@@ -2316,7 +2293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Microsoft]] (1), [[Security]] (1), [[Microsoft Entra ID|Entra id]] (1), [[Microsoft Entra ID|Entra]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Entra ID|Entra id]] (1), [[Microsoft Entra ID|Entra]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Products]] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
@@ -2327,28 +2304,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=2)** - [Instructor] You can now take a deep breath, sit back and relax, because you've made it all the way to the last chapter, the conclusion.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=11)** Here, I'll quickly summarize the key takeaways of this course, and point you to the next step in your journey towards mastering Microsoft Entra ID.
+> **[0:11](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=11)** Here, I'll quickly summarize the key takeaways of this course, and point you to the next step in your journey towards mastering [[Microsoft Entra ID]].
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=23)** We started off with an analogy of international air travel, and compared it to identity and access management.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=32)** I tried to correlate the importance of passports and visas to authentication and authorization in the computing world.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=42)** Then I explained what Entra ID is.
+> **[0:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=42)** Then I explained what [[Microsoft Entra ID|Entra ID]] is.
 >
-> **[0:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=45)** We learned that it is an identity as a service running in Azure that allows us to manage users, groups, devices, and apps in the cloud.
+> **[0:45](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=45)** We learned that it is an identity as a service running in [[Microsoft Azure|Azure]] that allows us to manage users, groups, devices, and apps in the cloud.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=57)** After that, we looked into its architecture, including the writeable, primary partition, replication within and across the data centers, and read-only secondary replicas.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=70)** We also got an insight into how this whole design provides global scalability.
+> **[1:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=70)** We also got an insight into how this whole design provides global [[Scalability]].
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=76)** I then drew a comparison between Active Directory and Entra ID.
+> **[1:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=76)** I then drew a comparison between [[Active Directory]] and Entra ID.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=82)** We found that the main difference being Entra ID supports modern authentication and authorization protocols for a modern day app, whereas Active Directory supports legacy protocols for more traditional applications.
 >
@@ -2358,7 +2334,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=110)** If you can, then fantastic.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=114)** Moving on, we discussed the two tools that help us synchronize on-premises, users, groups, and devices from Windows Server to Azure, and they were Entra Connect and Entra Cloud Sync.
+> **[1:54](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=114)** Moving on, we discussed the two tools that help us synchronize on-premises, users, groups, and devices from [[Windows Server]] to Azure, and they were [[Microsoft Entra ID|Entra]] Connect and Entra Cloud Sync.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=130)** We then talked a little bit more about the latter, since it is a cloud-based solution.
 >
@@ -2366,7 +2342,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=142)** I explained the different types of users, including federated, synchronized, and cloud native users.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=150)** Then in groups, I explained about synchronized security groups, cloud native security groups, and Microsoft 365 groups.
+> **[2:30](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=150)** Then in groups, I explained about synchronized security groups, cloud native security groups, and [[Microsoft 365]] groups.
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=161)** Next, in devices, I explained about Entra hybrid join, a simple Entra join, and device registration.
 >
@@ -2382,7 +2358,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=209)** After that, I explained the concept of administrative units, and how they allow us to delegate the administration of a subset of resources in Azure to other users.
 >
-> **[3:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=222)** Next, we followed that up with a quick short chapter where we talked about industry standards and regulatory compliance.
+> **[3:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=222)** Next, we followed that up with a quick short chapter where we talked about industry standards and [[Regulatory Compliance]].
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=231)** The former allows us to utilize popular technical specifications for developing solutions, while the latter ensures adherence to required regulations, policies, and laws.
 >
@@ -2390,7 +2366,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=252)** Here we talked about dynamic modern identities and support for on-premises and multi-cloud environments, including AWS and GCP.
 >
-> **[4:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=263)** Next, I discussed the various security features that Entra ID offers, such as multi-factor authentication, conditional access, passwordless authentication, identity score, and the brand new Microsoft Copilot for Security.
+> **[4:23](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=263)** Next, I discussed the various security features that Entra ID offers, such as [[Multi-factor Authentication]], conditional access, passwordless authentication, identity score, and the brand new [[Microsoft Copilot]] for Security.
 >
 > **[4:42](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980&t=282)** Lastly, we got a glimpse into the potential benefits that an organization could experience by deploying Entra ID.
 >
@@ -2400,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), cloud (7), [[Security]] (6), next (4), [[Microsoft Entra ID|Entra]] (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Azure|Azure]] (3), [[Active Directory]] (3), [[Scalability]] (2)
 > **Env Vars:** isv (1), aws (1), gcp (1)
 > **Cross-References:** we talked about (2), we discussed (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -2408,8 +2384,7 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,15 +2392,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=5)** Great job.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=7)** I hope you enjoyed this course where we dissected and investigated the fundamental elements of Microsoft Entra ID.
+> **[0:07](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=7)** I hope you enjoyed this course where we dissected and investigated the fundamental elements of [[Microsoft Entra ID]].
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=16)** To reinforce your learning, I strongly recommend you do two things.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=21)** First, download the exercise files, and use the workbook included to make your own notes.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=29)** Second, sign up for Azure and retrace the demos you witnessed in this course.
+> **[0:29](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=29)** Second, sign up for [[Microsoft Azure|Azure]] and retrace the demos you witnessed in this course.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=36)** If you want to learn more about Entra ID, Azure and security, follow me on LinkedIn.
+> **[0:36](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=36)** If you want to learn more about [[Microsoft Entra ID|Entra ID]], Azure and security, follow me on [[LinkedIn]].
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/next-steps?u=76281980&t=44)** You can find me by searching for my name, Kunal D. Mehta.
 >
@@ -2441,7 +2416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Entra ID]] (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Entra ID]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - [kunal] (1)

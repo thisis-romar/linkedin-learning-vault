@@ -64,8 +64,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice your C# generic collections skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/practice-your-c-sharp-generic-collections-skills?u=76281980)
+#### [Practice your C# generic collections skills](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/practice-your-c-sharp-generic-collections-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,8 +86,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=95)** You'll get a chance to use it in the course.
 >
-> **[1:38](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=98)** To find out more about .NET collections check out the "C# Essential Training number two: "Generics, Collections and LINQ" course.
+> **[1:38](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=98)** To find out more about .NET collections check out the "C# Essential Training number two: "Generics, Collections and [[Language Integrated Query (LINQ)|LINQ]]" course.
 >
 > **[1:45](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=105)** It has details on generic types, collections and concurrent collections.
 >
@@ -152,11 +150,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=130)** The one that is most relevant to the code challenges in this course is ".NET Essentials: Working with LINQ".
 >
-> **[2:17](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=137)** The other courses for XML and databases are not as relevant to the challenges but I think you'll find them interesting if you want a complete picture of LINQ and .NET.
+> **[2:17](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/what-you-should-know?u=76281980&t=137)** The other courses for XML and [[Databases]] are not as relevant to the challenges but I think you'll find them interesting if you want a complete picture of LINQ and .NET.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (8), generic (4), next (1), concurrent (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (8), [[Databases]] (1)
 > **Env Vars:** linq (8), net (6), xml (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (3)
@@ -164,8 +162,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the code challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/explore-the-code-challenge?u=76281980)
+#### [Explore the code challenge](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/explore-the-code-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/explore-the-code-challenge?u=76281980&t=16)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course videos.
 >
-> **[0:24](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/explore-the-code-challenge?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/explore-the-code-challenge?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:32](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/explore-the-code-challenge?u=76281980&t=32)** Now, looking at the CoderPad UI, there are four panes.
 >
@@ -337,7 +334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), application (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** topnumbers (4)
 > **Definitions:** is a  (3), is called (1)
 > **Tools:** visual studio (2)
@@ -351,8 +348,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Insert into List<T>
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980)
+#### [Solution: Insert into List<T>](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +434,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980&t=198)** And this is a nice solution when you don't want side effects.
 >
-> **[3:21](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980&t=201)** If you've studied functional programming, one of the tenets of functional programming is that if you have an array or list, you don't modify the contents of that.
+> **[3:21](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980&t=201)** If you've studied [[Functional Programming]], one of the tenets of functional programming is that if you have an array or list, you don't modify the contents of that.
 >
 > **[3:30](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980&t=210)** Instead what you do is you create a new list with the new content and you return that.
 >
@@ -472,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (2), next (1), functional (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** starter code (1)
@@ -480,8 +476,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Examine dictionary contents
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-examine-dictionary-contents?u=76281980)
+#### [Solution: Examine dictionary contents](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-examine-dictionary-contents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +554,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), concurrent (1)
 > **Code Identifiers:** teamname (4), allteamitems (2), teamcard (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
@@ -567,8 +561,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
 
-#### Solution: PriorityQueue
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-priorityqueue?u=76281980)
+#### [Solution: PriorityQueue](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-priorityqueue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,8 +594,7 @@ created: 2026-05-02
 > **Code Identifiers:** prioritylevel (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Use a slice to get a subset
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-use-a-slice-to-get-a-subset?u=76281980)
+#### [Solution: Use a slice to get a subset](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-use-a-slice-to-get-a-subset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,13 +622,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: ConvertAll
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-convertall?u=76281980)
+#### [Solution: ConvertAll](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-convertall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,8 +660,7 @@ created: 2026-05-02
 >
 > **Speakers:** - for (1)
 
-#### Solution: HashSet operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980)
+#### [Solution: HashSet operations](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=21)** It also has very fast set operations.
 >
-> **[0:24](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=24)** So while the code challenge itself was to create this word search game, that's not what we're really doing here.
+> **[0:24](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=24)** So while the code challenge itself was to create this [[Microsoft Word|word]] search game, that's not what we're really doing here.
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=31)** Is we're just working with the hash set with a set of words in it, and we're modifying the code in these two methods to get player valid words method and the remove duplicate words method.
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=163)** And it says here, it's commonly used to find the differences between the two sequences.
 >
-> **[2:48](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=168)** So once that's done, the rest of the code runs.
+> **[2:48](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=168)** So once that's done, the [[Representational State Transfer (REST)|rest]] of the code runs.
 >
 > **[2:51](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/solution-hashset-operations?u=76281980&t=171)** And we see over here that player one has the high score.
 >
@@ -759,7 +748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), generic (1), [[Search]] (1), game (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -768,14 +757,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980&t=1)** - Thanks for participating in this code challenge course.
 >
-> **[0:04](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980&t=4)** If you like these interactive hands-on challenges, we have more to explore with challenges in Java, Go, C#, JavaScript, and SQL.
+> **[0:04](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980&t=4)** If you like these interactive hands-on challenges, we have more to explore with challenges in [[Java]], Go, C#, [[JavaScript]], and [[SQL]].
 >
 > **[0:18](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980&t=18)** Don't forget, we have a big library of .NET and C# related courses.
 >

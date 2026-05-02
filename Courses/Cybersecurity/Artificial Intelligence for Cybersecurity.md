@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unleashing the power of AI for cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980)
+#### [Unleashing the power of AI for cybersecurity](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=0)** - Artificial intelligence isn't just something you read about anymore.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] isn't just something you read about anymore.
 >
 > **[0:04](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=4)** It's part of everyday life.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=27)** Hi, I'm Sam.
 >
-> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=28)** I've spent more than a decade working across software engineering, machine learning, and cybersecurity.
+> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=28)** I've spent more than a decade working across software engineering, machine learning, and [[Cybersecurity]].
 >
 > **[0:34](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980&t=34)** My goal is to help you apply AI to real world security problems while also showing you risks you need to keep in mind.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1), [[Engineering]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - artificial (1)
@@ -121,16 +120,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980)
+#### [Defining artificial intelligence](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=0)** - [Instructor] Our society has arrived at a point where we can now spot the presence of AI all around us.
 >
-> **[0:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=8)** It's present in your car, in the software that calculates your monthly insurance premium, in your search engine, and conversational chatbots such as ChatGPT.
+> **[0:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=8)** It's present in your car, in the software that calculates your monthly insurance premium, in your search engine, and conversational chatbots such as [[ChatGPT]].
 >
-> **[0:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=21)** But let's take a step back and understand how artificial intelligence is different from natural intelligence.
+> **[0:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=21)** But let's take a step back and understand how [[Artificial Intelligence (AI)|artificial intelligence]] is different from natural intelligence.
 >
 > **[0:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=30)** As human beings, you and I demonstrate signs of intelligence.
 >
@@ -158,19 +156,19 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=110)** An intelligent agent is a machine, software, or system.
 >
-> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=115)** When you assign a goal to an intelligent agent, it does everything possible to maximize the probability of a goal completion by sensing, learning, and by acting.
+> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=115)** When you assign a goal to an intelligent agent, it does everything possible to maximize the [[Probability]] of a goal completion by sensing, learning, and by acting.
 >
 > **[2:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=130)** For example, a commonly used household floor cleaning robot by no means exhibits the general intelligence that we humans do.
 >
 > **[2:20](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=140)** But for the task it is assigned to perform, which of course is cleaning, an AI enabled robot can sense its surroundings, create a map of the floor, and learn to make corrections should a change in the baseline map occur.
 >
-> **[2:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=158)** Now let's pivot from the household gadget to a more recent phenomena in natural language processing, ChatGPT is a conversational natural language processing tool that is empowered with artificial intelligence.
+> **[2:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=158)** Now let's pivot from the household gadget to a more recent phenomena in [[Natural Language Processing (NLP)|natural language processing]], ChatGPT is a conversational natural language processing tool that is empowered with artificial intelligence.
 >
 > **[2:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=175)** This tool can have an intelligent written conversation with humans, respond to questions, write essays, write white papers, and even write source code.
 >
 > **[3:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=187)** Possibilities are limitless.
 >
-> **[3:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=190)** Well, you may find it straightforward to see the impact of AI in these simple examples, but to really appreciate the emerging role of AI in the field of cybersecurity, you must start with the current state of information security.
+> **[3:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=190)** Well, you may find it straightforward to see the impact of AI in these simple examples, but to really appreciate the emerging role of AI in the field of [[Cybersecurity]], you must start with the current state of information security.
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=208)** You hear about a new security breach and loss of confidential data every few days, and you may wonder how in the world these organizations with hefty resources at their disposal are still losing the battle.
 >
@@ -182,11 +180,11 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=258)** And what's profound is that the migration is accelerating not just in your personal data, but in the enterprise space as well.
 >
-> **[4:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=267)** You don't have to be a technology company to take advantage of digital transformation.
+> **[4:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=267)** You don't have to be a technology company to take advantage of [[Digital Transformation]].
 >
 > **[4:33](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=273)** In my opinion, there's not a single industry today that is not investing in transforming its processes, be it in healthcare, transportation, or textiles.
 >
-> **[4:45](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=285)** The world of sensors and industrial devices that was off the grid without connectivity is now being connected to an enterprise network through the internet of things.
+> **[4:45](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=285)** The world of sensors and industrial devices that was off the grid without connectivity is now being connected to an enterprise network through the [[IoT|internet of things]].
 >
 > **[4:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980&t=298)** This perfect storm has resulted in a massive explosion in the volume of data that organizations are now required to protect.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Security]] (4), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[ChatGPT]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Probability]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** such as (3), for example (1)
@@ -205,8 +203,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying AI to cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980)
+#### [Applying AI to cybersecurity](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=36)** Now, if you were to assign this task to an AI powered intelligent agent, it'll also need to first be trained on what normal looks like.
 >
-> **[0:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=46)** At its core, artificial intelligence enables you to create and leverage intelligent agents.
+> **[0:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=46)** At its core, [[Artificial Intelligence (AI)|artificial intelligence]] enables you to create and leverage intelligent agents.
 >
 > **[0:54](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=54)** An intelligent agent that has been previously trained to solve a particular security problem can be used in several ways.
 >
@@ -264,13 +261,13 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=243)** Using artificial intelligence, you can scan the source code with better accuracy and fewer false positives and help engineers discover security bugs before they deploy their applications to the production environment.
 >
-> **[4:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=259)** The process of threat modeling typically done at the architecture or design stage of development allows engineers to discover potential threats from an adversary's point of view threat modeling has been a manual process and continues to be an area that still requires a security engineer's creativity and knowledge.
+> **[4:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=259)** The process of [[Threat Modeling]] typically done at the architecture or design stage of development allows engineers to discover potential threats from an adversary's point of view threat modeling has been a manual process and continues to be an area that still requires a security engineer's creativity and knowledge.
 >
 > **[4:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=281)** Today, AI and automated threat modeling continues to be an area of research and is ripe for innovation.
 >
 > **[4:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=290)** An area where artificial intelligence has already made great strides is in the detection of external security threats that can breach your organization's network.
 >
-> **[5:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=302)** Many off-the-shelf products with AI capability are available today that can supplement the current approach to detect malware intrusion detection and user behavior anomalies.
+> **[5:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=302)** Many off-the-shelf [[Microsoft Products|products]] with AI capability are available today that can supplement the current approach to detect malware [[Intrusion Detection]] and user behavior anomalies.
 >
 > **[5:15](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/applying-ai-to-cybersecurity?u=76281980&t=315)** Another area where AI of assistance to security professionals is responding to threats.
 >
@@ -280,13 +277,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), ai (8), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Threat Modeling]] (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Threat Modeling]] (3), [[Microsoft Products|Products]] (1), [[Intrusion Detection]] (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disciplines of artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980)
+#### [Disciplines of artificial intelligence](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,13 +312,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=77)** Now, some advanced agents may possess all of these six capabilities, but in order to reap the benefits of AI for security, you actually don't need all of them in intelligent agent.
 >
-> **[1:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=90)** For example, if you are building or deploying an AI-based network intrusion detection system, the system doesn't need the ability to see or physically manipulate objects, but it must be able to store, process and learn from enormous amounts of network logs.
+> **[1:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=90)** For example, if you are building or deploying an AI-based network [[Intrusion Detection]] system, the system doesn't need the ability to see or physically manipulate objects, but it must be able to store, process and learn from enormous amounts of network logs.
 >
 > **[1:52](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=112)** On the other hand, an AI powered security surveillance robot watching the entrance of a data center must have the ability to see and distinguish a person from a wandering deer.
 >
-> **[2:06](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=126)** A chat bot such as OpenAI's chat bot, Google's Bard or Meta's LLaMA must be able to understand natural language and reason.
+> **[2:06](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=126)** A chat bot such as OpenAI's chat bot, [[Google]]'s Bard or Meta's [[LLaMA]] must be able to understand natural language and reason.
 >
-> **[2:20](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=140)** That said, at minimum, artificial intelligence systems employed in the field of security possess some common capabilities, capabilities that make them intelligent.
+> **[2:20](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=140)** That said, at minimum, [[Artificial Intelligence (AI)|artificial intelligence]] systems employed in the field of security possess some common capabilities, capabilities that make them intelligent.
 >
 > **[2:33](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/disciplines-of-artificial-intelligence?u=76281980&t=153)** They store and process large volume of data.
 >
@@ -342,15 +338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), ai (4), data (4), [[Intrusion Detection]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Google]] (1), [[LLaMA]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), vpn (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Role of machine learning in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980)
+#### [Role of machine learning in AI](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=72)** Can we train the underlying engine in such a way that it not only builds from the common knowledge, but is able to contextualize the question and then respond?
 >
-> **[1:24](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=84)** Similarly, in the case of an AI-powered malware detection system, it's not pre-programmed with a list of wire signatures, rather, data scientist train the malware detection system to identify program execution patterns that are not normal.
+> **[1:24](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=84)** Similarly, in the case of an AI-powered [[Malware Detection]] system, it's not pre-programmed with a list of wire signatures, rather, data scientist train the malware detection system to identify program execution patterns that are not normal.
 >
 > **[1:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=103)** But how exactly is the learning approach different from the traditional structured programming approach?
 >
@@ -388,11 +383,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=140)** In fact, most software developed today follows the traditional programming approach.
 >
-> **[2:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=147)** For example, if you are searching for security threats by combing through the HTTP or SQL server logs, in the programming approach, your security scanner will continuously look for parameters that are not within limits, the limits that are already hardcoded in the program.
+> **[2:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=147)** For example, if you are searching for security threats by combing through the HTTP or [[Microsoft SQL Server|SQL server]] logs, in the programming approach, your security scanner will continuously look for parameters that are not within limits, the limits that are already hardcoded in the program.
 >
 > **[2:47](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=167)** Put differently, the intelligence of the security scanner is bound by your ability to foresee the possible combinations and their ranges.
 >
-> **[2:59](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=179)** On the other hand, in a learning-based approach, you or your data science team first identify training data, which could be the source code, log files, or program execution context.
+> **[2:59](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=179)** On the other hand, in a learning-based approach, you or your [[Data Science]] team first identify training data, which could be the source code, log files, or program execution context.
 >
 > **[3:14](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/role-of-machine-learning-in-ai?u=76281980&t=194)** Next, you feed this data to machine learning models.
 >
@@ -404,19 +399,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Programming]] (7), [[Security]] (5), ai (2), [[Malware Detection]] (2)
+> **Frameworks & Libraries:** [[Malware Detection]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Data Science]] (1)
 > **Env Vars:** http (1), sql (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** imagine (1), for example (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [presenter] (1)
 
-#### Agentic AI vs. generative AI vs. discriminative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980)
+#### [Agentic AI vs. generative AI vs. discriminative AI](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=0)** - [Instructor] You have heard of Open AI's ChatGPT and Google's Gemini, which are fantastic conversation bots.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=0)** - [Instructor] You have heard of Open AI's [[ChatGPT]] and [[Google]]'s [[Gemini]], which are fantastic conversation bots.
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=7)** It's amazing to witness the interactive dialogue such an artificial intelligent agent can have with a human who is blessed with natural intelligence.
 >
@@ -426,9 +420,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=32)** This image has been generated with AI.
 >
-> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=36)** These examples fall into a category of AI known as generative artificial intelligence.
+> **[0:36](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=36)** These examples fall into a category of AI known as generative [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=43)** As the name suggests, generative AI is different from another branch known as discriminative AI.
+> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=43)** As the name suggests, [[Generative AI]] is different from another branch known as discriminative AI.
 >
 > **[0:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=51)** Both of them are used for solving different problems.
 >
@@ -440,13 +434,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=70)** For example, whether a given email is spam or not, whether the behavior of an active user on the company network is malicious or not.
 >
-> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=79)** Some of the examples of the algorithms used are logistic regression, support vector machines, decision trees, K nearest neighbors, or KNN, and so on.
+> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=79)** Some of the examples of the [[Algorithms]] used are [[Logistic Regression]], support vector machines, [[Decision Trees]], K nearest neighbors, or KNN, and so on.
 >
 > **[1:31](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=91)** Generative AI, on the other hand, is not interested in classifying the data.
 >
 > **[1:36](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=96)** Instead, it cares about the distribution of data and how it was generated.
 >
-> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=103)** Some of the example algorithms used here are generative adversarial networks, or GANs, diffusion models, generative pre-trained transformers or GPT and multimodal systems.
+> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=103)** Some of the example algorithms used here are [[Generative Adversarial Networks (GANs)|generative adversarial networks]], or GANs, diffusion models, generative pre-trained transformers or GPT and multimodal systems.
 >
 > **[1:57](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=117)** Now, let's contrast that with newer agentic AI.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=137)** They reason about goals, break them into steps, use tools like APIs or security platforms, and then adapt when conditions change.
 >
-> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=149)** For example, in cybersecurity, a discriminative model might flag suspicious activity and a generative model could draft a report about it.
+> **[2:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=149)** For example, in [[Cybersecurity]], a discriminative model might flag suspicious activity and a generative model could draft a report about it.
 >
 > **[2:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/agentic-ai-vs-generative-ai-vs-discriminative-ai?u=76281980&t=160)** But an agentic AI could go even further, pulling logs, correlating events, and even suggesting, or initiating containment steps all under human oversight.
 >
@@ -464,18 +458,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Generative AI]] (3), data (3), [[Algorithms]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Algorithms]] (2), [[ChatGPT]] (1), [[Google]] (1), [[Gemini]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** knn (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents and cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980)
+#### [AI agents and cybersecurity](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=0)** - [Instructor] Think of traditional AI models like traffic lights.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=0)** - [Instructor] Think of [[Traditional AI]] models like traffic lights.
 >
 > **[0:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=3)** A red light means stop, a green light means go.
 >
@@ -485,13 +478,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=16)** Not only can they change the light, but they can also wave cars around an accident, and even call in backup if a truck breaks down.
 >
-> **[0:24](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=24)** That's the leap from traditional AI models to AI agents.
+> **[0:24](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=24)** That's the leap from traditional AI models to [[AI Agents]].
 >
-> **[0:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=29)** When it comes to cybersecurity, we have to look at AI agents from two angles.
+> **[0:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=29)** When it comes to [[Cybersecurity]], we have to look at AI agents from two angles.
 >
 > **[0:34](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=34)** First angle is, how can they help with security?
 >
-> **[0:39](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=39)** Instead of just alerting you of a phishing email, they could cross-check it against threat intelligence feeds, trace whether anyone clicked the link, and even recommend how to contain the impact.
+> **[0:39](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=39)** Instead of just alerting you of a [[Phishing]] email, they could cross-check it against threat intelligence feeds, trace whether anyone clicked the link, and even recommend how to contain the impact.
 >
 > **[0:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-and-cybersecurity?u=76281980&t=50)** It's like going from a smoke detector that only beeps to a firefighter who runs into the building, pulls the alarm and starts directing people to safety.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), ai (3), [[Traditional AI]] (2), [[Cybersecurity]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Traditional AI]] (2), [[AI Agents]] (2), [[Cybersecurity]] (1), [[Phishing]] (1)
 > **Analogies:** it's like (2)
 > **Speakers:** - [instructor] (1)
 
@@ -522,8 +515,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CIA model of security
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980)
+#### [CIA model of security](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980&t=19)** In this chapter, I will introduce the foundational concepts as a stepping stone and make you comfortable with the terminologies used in the later chapters.
 >
-> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980&t=30)** But for a thorough treatment of this subject, I encourage you to watch other great courses on LinkedIn Learning that cover the topic of security in great depth.
+> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980&t=30)** But for a thorough treatment of this subject, I encourage you to watch other great courses on [[LinkedIn]] Learning that cover the topic of security in great depth.
 >
 > **[0:42](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980&t=42)** Let's start with CIA model of security.
 >
@@ -553,13 +545,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (5), ai (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cia (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cybersecurity-framework?u=76281980)
+#### [Cybersecurity framework](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cybersecurity-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +564,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cybersecurity-framework?u=76281980&t=37)** Sooner or later, you will find signs of internal or external threats in your enterprise environment.
 >
-> **[0:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cybersecurity-framework?u=76281980&t=46)** You want to be able to detect those activities as quickly as possible, or even better, be able to predict them using artificial intelligence.
+> **[0:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cybersecurity-framework?u=76281980&t=46)** You want to be able to detect those activities as quickly as possible, or even better, be able to predict them using [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:57](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cybersecurity-framework?u=76281980&t=57)** Not every attack on your network materializes in a security breach.
 >
@@ -585,13 +576,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resource challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980)
+#### [Resource challenges](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=12)** To orchestrate the framework we discussed in the last few videos, you need qualified security professionals and such professionals are needed by almost every organization that has information to protect.
 >
-> **[0:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=27)** As per ISC2 in 2022, there is a worldwide gap of 3.4 million cybersecurity professionals.
+> **[0:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=27)** As per ISC2 in 2022, there is a worldwide gap of 3.4 million [[Cybersecurity]] professionals.
 >
 > **[0:37](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=37)** That number is believed to be even higher for professionals worldwide.
 >
@@ -621,23 +611,22 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=115)** Training and education of workforce are necessary measures and a long-term solution.
 >
-> **[2:01](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=121)** Investment in secure design, security automation and artificial intelligence can augment your security team and improve their effectiveness and efficiency today.
+> **[2:01](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/resource-challenges?u=76281980&t=121)** Investment in secure design, security automation and [[Artificial Intelligence (AI)|artificial intelligence]] can augment your security team and improve their effectiveness and efficiency today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (1), [[Automation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** isc2 (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **Versions:** 3.4 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention, detection, and response
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980)
+#### [Prevention, detection, and response](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=0)** - [Instructor] Remember the orchestrated cybersecurity framework from the previous video?
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=0)** - [Instructor] Remember the orchestrated [[Cybersecurity]] framework from the previous video?
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=5)** Think of each of these stages as a collection of security controls or activities that the organization must address.
 >
@@ -647,27 +636,27 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=28)** And some of these controls are build a culture of shared security responsibility with training and awareness across the organization.
 >
-> **[0:39](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=39)** Define, enforce, and frequently communicate your security policies and standards to the rest of the organization.
+> **[0:39](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=39)** Define, enforce, and frequently communicate your security policies and standards to the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[0:49](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=49)** Screen your future employees, contractors, and vendors before onboarding.
 >
 > **[0:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=55)** Establish authentication and authorization access controls for all your organizational assets.
 >
-> **[1:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=63)** And lastly, for organizations that build hardware or software, perform threat modeling and follow the secure design and coding to best practices.
+> **[1:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=63)** And lastly, for organizations that build [[Hardware]] or software, perform [[Threat Modeling]] and follow the secure design and coding to best practices.
 >
 > **[1:15](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=75)** Scan for security vulnerabilities in code produced in-house or acquired from open source or third parties.
 >
 > **[1:25](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=85)** You can apply defense using in-depth controls when it comes to detecting suspicious activity in your network environment.
 >
-> **[1:35](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=95)** Some of these controls are monitor using network and host intrusion detection systems for unusual patterns and signs of attacks, such as denial of service attacks.
+> **[1:35](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=95)** Some of these controls are monitor using network and host [[Intrusion Detection]] systems for unusual patterns and signs of attacks, such as denial of service attacks.
 >
-> **[1:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=108)** Monitor the integrity of files and system configuration and settings.
+> **[1:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=108)** Monitor the integrity of files and [[System Configuration]] and settings.
 >
 > **[1:54](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=114)** Actively scan for malware such as viruses, ransomware, and Trojan horses.
 >
-> **[2:01](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=121)** Monitor social engineering attempts such as phishing attacks in which an adversary presents itself as a trusted entity and then tricks an unsuspecting user to take an unauthorized action.
+> **[2:01](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=121)** Monitor social engineering attempts such as [[Phishing]] attacks in which an adversary presents itself as a trusted entity and then tricks an unsuspecting user to take an unauthorized action.
 >
-> **[2:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=136)** And lastly, in your security operations center, you may use SIEM, which works in conjunction with all of the above tools and collects and correlates events to assist in decision-making and responding to threats.
+> **[2:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=136)** And lastly, in your [[Security Operations]] center, you may use SIEM, which works in conjunction with all of the above tools and collects and correlates events to assist in [[Decision-Making]] and responding to threats.
 >
 > **[2:34](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=154)** While preparation and detection are the first steps to an effective response, you want to have a playbook ready to execute when a compromise is detected.
 >
@@ -685,22 +674,21 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=223)** Remember, an adversary has to be right only once, but security teams have to be right every single time.
 >
-> **[3:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=231)** Empowered with the basics of artificial intelligence and cybersecurity, let's jump straight into applying artificial intelligence to solve some common cybersecurity problems.
+> **[3:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prevention-detection-and-response?u=76281980&t=231)** Empowered with the basics of [[Artificial Intelligence (AI)|artificial intelligence]] and cybersecurity, let's jump straight into applying artificial intelligence to solve some common cybersecurity problems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1), [[Threat Modeling]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** siem (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI agents security goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980)
+#### [AI agents security goals](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=0)** - [Instructor] AI agents are not just advanced chat bots.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=0)** - [Instructor] [[AI Agents]] are not just advanced chat bots.
 >
 > **[0:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=3)** They reason, act, and adapt, which makes them a new and complex attack surface.
 >
@@ -720,9 +708,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=66)** Oversight.
 >
-> **[1:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=67)** Without human oversight, an agent could execute high-impact actions without accountability.
+> **[1:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=67)** Without human oversight, an agent could execute high-impact actions without [[Accountability]].
 >
-> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=75)** We enforce human approval for sensitive steps, provide monitoring dashboards, and maintain immutable audit logs.
+> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=75)** We enforce human approval for sensitive steps, provide monitoring [[Dashboards]], and maintain immutable audit logs.
 >
 > **[1:25](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=85)** Proof comes when every critical action is linked to a responsible reviewer with a transparent record of decisions.
 >
@@ -768,7 +756,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=225)** Lastly, stress testing.
 >
-> **[3:47](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=227)** The greatest concern with AI agents is their probabilistic nature, how they might react to unforeseen stimuli, the unknown unknowns.
+> **[3:47](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=227)** The greatest concern with AI agents is their probabilistic nature, how they might [[React.js|react]] to unforeseen stimuli, the unknown unknowns.
 >
 > **[3:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-agents-security-goals?u=76281980&t=238)** Without proactive testing and validation, these vulnerabilities stay hidden until attackers exploit them.
 >
@@ -780,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (3), data (2), prompt (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Accountability]] (1), [[Dashboards]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -789,8 +777,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intrusion detection at scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980)
+#### [Intrusion detection at scale](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +789,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=16)** In the same way, an organization also guards the data and information it has stored on its servers that are accessible by the network.
 >
-> **[0:26](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=26)** Intrusion detection is the process of monitoring the corporate network and systems for malicious activity or policy violations.
+> **[0:26](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=26)** [[Intrusion Detection]] is the process of monitoring the corporate network and systems for malicious activity or policy violations.
 >
 > **[0:36](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=36)** If adversaries are going to attack your organization and go after the crown jewels, such as intellectual property and confidential data, they are invariably likely to leave a trail of actions.
 >
@@ -862,13 +849,13 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=258)** Whether the packet contains a script or not, and so on.
 >
-> **[4:22](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=262)** As you can see, this approach exponentially increases the amount of data the algorithms needs to continuously scan through.
+> **[4:22](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=262)** As you can see, this approach exponentially increases the amount of data the [[Algorithms]] needs to continuously scan through.
 >
 > **[4:32](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=272)** And that just does not scale.
 >
 > **[4:35](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=275)** Which, in turn, leads to a slow response or incorrect match.
 >
-> **[4:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=281)** When you apply an IDS tool that leverages artificial intelligence instead of searching for patterns, you're effectively creating a predictor model behind the scenes.
+> **[4:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=281)** When you apply an IDS tool that leverages [[Artificial Intelligence (AI)|artificial intelligence]] instead of searching for patterns, you're effectively creating a predictor model behind the scenes.
 >
 > **[4:54](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980&t=294)** And you do so by training it on data along with the features.
 >
@@ -884,15 +871,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Intrusion Detection]] (5), traffic (4), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (5), [[Algorithms]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** ids (5)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Insider threat
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980)
+#### [Insider threat](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,7 +906,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=111)** If you set the DLP thresholds too high, it will begin restricting even genuine messages, and suddenly, the email from the CEO to your top customer is blocked, and that's not what you want.
 >
-> **[2:05](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=125)** If you set the thresholds too low, the confidential data starts appearing in the personal folder of your employee's personal cloud storage.
+> **[2:05](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=125)** If you set the thresholds too low, the confidential data starts appearing in the personal folder of your employee's personal [[Cloud Storage]].
 >
 > **[2:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=136)** Let's take an example.
 >
@@ -928,11 +914,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=148)** The message from the first employee contains personal health records.
 >
-> **[2:33](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=153)** Health records are governed by HIPAA laws in the United States and must be handled under stringent security and privacy policies.
+> **[2:33](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=153)** Health records are governed by HIPAA laws in the United States and must be handled under stringent security and [[Privacy]] policies.
 >
 > **[2:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=163)** The message from the second employee does not contain personal information.
 >
-> **[2:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=168)** It's just a request to place an order for some office items.
+> **[2:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=168)** It's just a request to place an order for some [[Microsoft Office|office]] items.
 >
 > **[2:53](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=173)** If an employee of the organization were to read both of these messages, they would instantly be able to determine that one is more sensitive than the other.
 >
@@ -958,9 +944,9 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=256)** Keep in mind that the words and phrases that may be unprotected in one line of business may be protected in another.
 >
-> **[4:25](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=265)** And lastly, the model is fed information about semantic relationships among the words using a technique known as word embedding.
+> **[4:25](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=265)** And lastly, the model is fed information about semantic relationships among the words using a technique known as [[Microsoft Word|word]] embedding.
 >
-> **[4:35](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=275)** The model is then trained using a variety of learning algorithms.
+> **[4:35](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=275)** The model is then trained using a variety of learning [[Algorithms]].
 >
 > **[4:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=280)** Once the trained model is deployed on incoming new documents, it's able to recognize the relationship, also known as the spatial distance between words.
 >
@@ -970,11 +956,11 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=308)** The machine learning approach we discussed does not replace the traditional approach, rather, works in conjunction with it.
 >
-> **[5:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=317)** In fact, having a preset dictionary of sensitive keywords of specific industries such as banking, healthcare, or technology is a great starting point for teaching the model about the context in the first place.
+> **[5:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/insider-threat?u=76281980&t=317)** In fact, having a preset dictionary of sensitive keywords of specific industries such as [[Banking]], healthcare, or technology is a great starting point for teaching the model about the context in the first place.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (3), business (2), cloud (2), ai (2)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[Privacy]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Env Vars:** dlp (11), ceo (1), hipaa (1)
 > **Definitions:** known as (4), is a  (1)
 > **Analogies:** such as (2)
@@ -982,8 +968,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Phishing and decision errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980)
+#### [Phishing and decision errors](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,7 +994,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=65)** Take another example.
 >
-> **[1:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=67)** You are part of the security operations team and monitor the corporate network.
+> **[1:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=67)** You are part of the [[Security Operations]] team and monitor the corporate network.
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=72)** You suddenly discover a set of events in the log files that point to a potential breach.
 >
@@ -1025,11 +1010,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=97)** While being extremely cautious is a valuable trait in the security field, reporting and acting on false alarms is inefficient and dangerous.
 >
-> **[1:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=108)** Why? Because acting on false positives not only drains the organizational resources, but also distracts the rest of the team from a real issue that might be hidden behind the scenes.
+> **[1:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=108)** Why? Because acting on false positives not only drains the organizational resources, but also distracts the [[Representational State Transfer (REST)|rest]] of the team from a real issue that might be hidden behind the scenes.
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=123)** Remember, an adversary has to be right only once to cause significant damage, while security teams have to be on their toes and be right every single time.
 >
-> **[2:14](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=134)** Now, let's illustrate the need for accuracy and precision by looking into a phishing attack.
+> **[2:14](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=134)** Now, let's illustrate the need for accuracy and precision by looking into a [[Phishing]] attack.
 >
 > **[2:22](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/phishing-and-decision-errors?u=76281980&t=142)** Phishing is a type of social engineering attack where an attacker presents itself as a trusted entity and tricks an unsuspecting subject to take an unauthorized action.
 >
@@ -1099,15 +1084,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Phishing]] (9), ai (1), [[Scripting]] (1), application (1)
+> **Frameworks & Libraries:** [[Phishing]] (9), [[Security Operations]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **Env Vars:** url (4)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Speed of incidence response
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980)
+#### [Speed of incidence response](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1111,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=50)** So don't expect to see a big bang until after a security incident.
 >
-> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=56)** So how can artificial intelligence help you in catching such security threats that act almost like terrorist sleeper cells?
+> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=56)** So how can [[Artificial Intelligence (AI)|artificial intelligence]] help you in catching such security threats that act almost like terrorist sleeper cells?
 >
 > **[1:05](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=65)** Counterintuitively, AI does not directly improve your responsiveness after an incident has occurred but it prepares you to be a step ahead of the adversary by giving you the ability to predict a future incident and act beforehand.
 >
@@ -1135,13 +1119,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=86)** By analyzing the behavior and events ongoing in your environment, you can predict with reasonable accuracy whether the circumstances point to an impending attack.
 >
-> **[1:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=100)** Let's take a look at an example of how you can use predictive analytics to predict risky logins and take proactive action.
+> **[1:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=100)** Let's take a look at an example of how you can use [[Predictive Analytics]] to predict risky logins and take proactive action.
 >
 > **[1:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=110)** Any request to access network resources must go through authentication of access credentials, such as username and password.
 >
 > **[2:01](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=121)** But the fact that the credentials are validated doesn't necessarily mean that the requester is truly the person we think he or she is.
 >
-> **[2:11](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=131)** It's possible that the attacker has compromised the identity of an unsuspecting user through a phishing attack.
+> **[2:11](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=131)** It's possible that the attacker has compromised the identity of an unsuspecting user through a [[Phishing]] attack.
 >
 > **[2:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=139)** How can you tell?
 >
@@ -1151,11 +1135,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=159)** Some examples of those characteristics are the IP address of the users, their geolocation, usual days and times of login and so on.
 >
-> **[2:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=171)** For each new authentication attempt, the model estimates the probability of it being a suspicious and risky login.
+> **[2:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=171)** For each new authentication attempt, the model estimates the [[Probability]] of it being a suspicious and risky login.
 >
 > **[3:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=180)** It does so by taking into account location and time and many other factors that are supplied with the login attempt.
 >
-> **[3:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=190)** For example, if the user usually logs in from a Windows machine from New York between 7 AM and 7 PM Eastern, and next login happens to be from a Kali Linux machine from Portugal, it may consider that login as risky.
+> **[3:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=190)** For example, if the user usually logs in from a [[Windows]] machine from New York between 7 AM and 7 PM Eastern, and next login happens to be from a [[Kali Linux]] machine from Portugal, it may consider that login as risky.
 >
 > **[3:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/speed-of-incidence-response?u=76281980&t=210)** Of course, this is a very simple example.
 >
@@ -1163,18 +1147,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), teams (2), ai (2), data (1), web (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Predictive Analytics]] (1), [[Phishing]] (1), [[Probability]] (1), [[Windows]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-generated threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980)
+#### [AI-generated threats](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=0)** - [Instructor] As if traditional security threats weren't enough, we now have a new breed of security concerns emerging due to advancements in artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=0)** - [Instructor] As if traditional security threats weren't enough, we now have a new breed of security concerns emerging due to advancements in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=11)** Deepfakes.
 >
@@ -1188,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=48)** Deepfakes impersonating politicians and celebrities are made to trick innocent people into believing a certain ideology or buying a commercial product.
 >
-> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=62)** And the Department of Homeland Security states that the technology involved in creating this particular style of manipulative content or also known as fakes, involves the use of deep learning techniques.
+> **[1:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=62)** And the Department of Homeland Security states that the technology involved in creating this particular style of manipulative content or also known as fakes, involves the use of [[Deep Learning]] techniques.
 >
 > **[1:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=76)** All of these versions of deepfakes fall into a special category of AI known as synthetic data generation.
 >
@@ -1198,7 +1181,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=91)** You can actually generate data used for testing password strength, first testing, steganography, and so on.
 >
-> **[1:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=101)** You can do this by simply following the same probability distribution function, or the same pattern as in the existing data in hand.
+> **[1:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=101)** You can do this by simply following the same [[Probability]] distribution function, or the same pattern as in the existing data in hand.
 >
 > **[1:53](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=113)** The distribution of newly generated data will be so convincing that a statistical model will not be able to distinguish between the new and the old data.
 >
@@ -1216,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=204)** Now, let's pivot to another threat associated with synthetic data generation.
 >
-> **[3:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=210)** Chatbots such as ChatGPT, are natural language processing engines that can carry out a context driven conversation with a human being.
+> **[3:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=210)** Chatbots such as [[ChatGPT]], are [[Natural Language Processing (NLP)|natural language processing]] engines that can carry out a context driven conversation with a human being.
 >
 > **[3:42](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=222)** It can also write source code and text-based content such as articles and so on.
 >
@@ -1226,7 +1209,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=234)** Yes, that's true but the same is also true for adversaries who are planning to conduct security attacks.
 >
-> **[4:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=242)** In fact, researchers have demonstrated how ChatGPT can be used to create an end-to-end attack, starting from writing a phishing email with a malicious file attached.
+> **[4:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=242)** In fact, researchers have demonstrated how ChatGPT can be used to create an end-to-end attack, starting from writing a [[Phishing]] email with a malicious file attached.
 >
 > **[4:16](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=256)** When a recipient opens the file, a program downloads a reverse shell and not even a single line of code was written by human to achieve this.
 >
@@ -1234,11 +1217,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=272)** These are some of the ways AI generated threats materialize in everyday situations.
 >
-> **[4:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=278)** Since ChatGPT is so new, it's difficult to predict the level of impact on cybersecurity but we do know that this is going to change the way malicious actors attack our organizations and how security teams detect, prevent, and respond to such cyber attacks.
+> **[4:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/ai-generated-threats?u=76281980&t=278)** Since ChatGPT is so new, it's difficult to predict the level of impact on [[Cybersecurity]] but we do know that this is going to change the way malicious actors attack our organizations and how security teams detect, prevent, and respond to such cyber attacks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (6), [[ChatGPT]] (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1), [[Probability]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (3), for instance (1)
 > **Definitions:** known as (2), is an  (1)
 > **Warnings:** warning (2)
@@ -1247,8 +1230,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AI agents to solve cybersecurity challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/using-ai-agents-to-solve-cybersecurity-challenges?u=76281980)
+#### [Using AI agents to solve cybersecurity challenges](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/using-ai-agents-to-solve-cybersecurity-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/using-ai-agents-to-solve-cybersecurity-challenges?u=76281980&t=13)** That's exactly what security teams face with the flood of alerts.
 >
-> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/using-ai-agents-to-solve-cybersecurity-challenges?u=76281980&t=18)** AI agents change this.
+> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/using-ai-agents-to-solve-cybersecurity-challenges?u=76281980&t=18)** [[AI Agents]] change this.
 >
 > **[0:20](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/using-ai-agents-to-solve-cybersecurity-challenges?u=76281980&t=20)** Unlike traditional models that just predict, agents can act sometimes as assistants, and in few cases, as replacements.
 >
@@ -1284,7 +1266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Security]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3)
 > **Analogies:** imagine (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1293,8 +1275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right ML approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980)
+#### [Choosing the right ML approach](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,11 +1291,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=35)** Machine learning, on the other hand, is a type of learning that uses statistical techniques and modeling to perform a task without programming.
 >
-> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=45)** So that leaves us with deep learning.
+> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=45)** So that leaves us with [[Deep Learning]].
 >
-> **[0:49](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=49)** Deep learning is a type of machine learning that uses layering of many learning algorithms.
+> **[0:49](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=49)** Deep learning is a type of machine learning that uses layering of many learning [[Algorithms]].
 >
-> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=56)** It tries to mimic the way neural networks in our brain function.
+> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=56)** It tries to mimic the way [[Neural Networks]] in our brain function.
 >
 > **[1:01](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=61)** When you build an AI-based security solution you have many machine learning algorithms at your disposal.
 >
@@ -1326,7 +1307,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=100)** First, the type of data whose characteristics you fully understand, in other words, you already know that the data at hand is indicative of either genuine or suspicious behavior.
 >
-> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=115)** For example, a website that you know is fraudulent and is likely being used in a phishing attack, or a program trace that is a clear sign of malware execution.
+> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=115)** For example, a website that you know is fraudulent and is likely being used in a [[Phishing]] attack, or a program trace that is a clear sign of malware execution.
 >
 > **[2:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=128)** In fact, you know the data so well, you can label it with tags such as good or bad.
 >
@@ -1340,7 +1321,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=163)** This type of data is known as unlabeled data.
 >
-> **[2:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=168)** To train a machine learning model using label data or, in other words, using our prior knowledge of the relationship between the data and the desired outcome is known as supervised learning.
+> **[2:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=168)** To train a machine learning model using label data or, in other words, using our prior knowledge of the relationship between the data and the desired outcome is known as [[Supervised Learning]].
 >
 > **[3:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980&t=183)** On the other hand, when such a label doesn't exist and we use the machine learning model to discover new and interesting patterns within the data that process is known as unsupervised learning.
 >
@@ -1364,14 +1345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Security]] (6), ai (5), [[Algorithms]] (3), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Deep Learning]] (2), [[Neural Networks]] (1), [[Phishing]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is a  (4), known as (4), in other words (3)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prediction by regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980)
+#### [Prediction by regression](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1359,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=8)** Let's take two examples.
 >
-> **[0:11](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=11)** Your goal is to predict the count of IoT devices deployed in the field that may be tampered with during an attack.
+> **[0:11](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=11)** Your goal is to predict the count of [[IoT]] devices deployed in the field that may be tampered with during an attack.
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=21)** You want to build a machine learning model by using captured network packets and sensor data emitted from these devices over a period of time.
 >
@@ -1389,11 +1369,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=55)** Such prediction problems fall under the broad category of so-called regression problems.
 >
-> **[1:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=63)** By identifying your problem as a regression problem, you automatically narrow down the list of algorithms that you must choose from.
+> **[1:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=63)** By identifying your problem as a regression problem, you automatically narrow down the list of [[Algorithms]] that you must choose from.
 >
 > **[1:13](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=73)** Regression algorithms attempt to build a mapping function between the input variable and the output variable.
 >
-> **[1:22](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=82)** Some of the commonly used algorithms for solving regression problems are linear regression, support vector regression, random forest, decision trees, and regression artificial neural network, or ANN.
+> **[1:22](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=82)** Some of the commonly used algorithms for solving regression problems are [[Linear Regression]], support vector regression, random forest, [[Decision Trees]], and regression artificial neural network, or ANN.
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/prediction-by-regression?u=76281980&t=100)** Of all of the regression algorithms, linear regression is probably one of the simplest models of machine learning that is both easy to apply and easy to understand.
 >
@@ -1405,23 +1385,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (3), [[Linear Regression]] (2), [[Security]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Linear Regression]] (2), [[IoT]] (1), [[Decision Trees]] (1)
 > **Env Vars:** icmp (1), sin (1), ann (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classification: Intruder or not
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980)
+#### [Classification: Intruder or not](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=0)** - [Instructor] Let's say you want to segregate events into known categories, such as whether a website is a fraud or genuine, an email that you received is part of a phishing attack or from your customer, or whether the login attempt is from an expected user or an attacker.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=0)** - [Instructor] Let's say you want to segregate events into known categories, such as whether a website is a fraud or genuine, an email that you received is part of a [[Phishing]] attack or from your customer, or whether the login attempt is from an expected user or an attacker.
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=21)** Such problems fall into a broader category of so-called classification problems.
 >
 > **[0:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=28)** Generally speaking, classification is the process of segregating new data into previously known categories.
 >
-> **[0:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=38)** Now, both regression and classification problems can be solved with supervised learning because they both require prior knowledge, in other words, labeled data.
+> **[0:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=38)** Now, both regression and classification problems can be solved with [[Supervised Learning]] because they both require prior knowledge, in other words, labeled data.
 >
 > **[0:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=50)** So where is the difference?
 >
@@ -1429,7 +1408,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=62)** While in classification problem, the output is a categorical variable.
 >
-> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=68)** Put differently, you will use regression algorithms to solve a problem, like predicting the number of user accounts that are likely to be compromised.
+> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=68)** Put differently, you will use regression [[Algorithms]] to solve a problem, like predicting the number of user accounts that are likely to be compromised.
 >
 > **[1:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=79)** Now, take a look at some of the examples.
 >
@@ -1443,11 +1422,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=109)** To solve a classification problem, you choose one of the classifier algorithms that map data into categories.
 >
-> **[1:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=118)** Some of the algorithms used for classification are logistic regression, KNN, or K-Near Neighbors, support vector machines, and Naive Bayes.
+> **[1:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/classification-intruder-or-not?u=76281980&t=118)** Some of the algorithms used for classification are [[Logistic Regression]], KNN, or K-Near Neighbors, support vector machines, and Naive Bayes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (4), [[Phishing]] (1), [[Supervised Learning]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Phishing]] (1), [[Supervised Learning]] (1), [[Logistic Regression]] (1)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** knn (1)
 > **Cross-References:** previous chapter (1)
@@ -1455,8 +1434,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security anomaly detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980)
+#### [Security anomaly detection](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1450,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=47)** Now, why clustering?
 >
-> **[0:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=48)** Because the clustering algorithms group or cluster data with similar characteristics together.
+> **[0:48](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=48)** Because the clustering [[Algorithms]] group or cluster data with similar characteristics together.
 >
 > **[0:57](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=57)** But wait, isn't a classification problem same as a clustering problem?
 >
@@ -1486,7 +1464,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=83)** The clustering algorithm creates the group without any oversight.
 >
-> **[1:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=89)** So can you see how classification is enabled with supervised learning, while clustering is enabled with unsupervised learning?
+> **[1:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=89)** So can you see how classification is enabled with [[Supervised Learning]], while clustering is enabled with unsupervised learning?
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=100)** Furthermore, you can break a clustering problems into its own two use cases, pattern recognition and anomaly detection.
 >
@@ -1500,7 +1478,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=149)** Let's say you have a Docker-based container environment with many containers active and running.
 >
-> **[2:37](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=157)** And by the way, a container is a form of virtualization that virtualizes the operating system instead of the hardware.
+> **[2:37](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=157)** And by the way, a container is a form of virtualization that virtualizes the operating system instead of the [[Hardware]].
 >
 > **[2:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/security-anomaly-detection?u=76281980&t=166)** In order to detect suspicious program execution or network activity, you build an unsupervised anomaly detection model by using file access, network traffic, and process map as your input data.
 >
@@ -1510,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (3), traffic (2), web (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Supervised Learning]] (1), [[Hardware]] (1)
 > **CLI Commands:** find (2), docker (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** dbscan (1)
@@ -1518,20 +1496,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GAN, BERT, GPT, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980)
+#### [GAN, BERT, GPT, and more](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=0)** - [Instructor] Recall from the previous chapters the threats associated with synthetic data generation.
 >
-> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=6)** For example, threats emerging from the misuse of deep fakes and using generative AI to accelerate attacks.
+> **[0:06](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=6)** For example, threats emerging from the misuse of deep fakes and using [[Generative AI]] to accelerate attacks.
 >
-> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=14)** It's time to look under the hood and check out the technologies that are powering these advancements, starting with generative adversarial networks, or GANs, and generative pre-trained transformers, or GPT.
+> **[0:14](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=14)** It's time to look under the hood and check out the technologies that are powering these advancements, starting with [[Generative Adversarial Networks (GANs)|generative adversarial networks]], or GANs, and generative pre-trained transformers, or GPT.
 >
-> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=30)** GPT is a natural language processing model that is pre-trained on large amount of text with the goal to generate human readable text.
+> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=30)** GPT is a [[Natural Language Processing (NLP)|natural language processing]] model that is pre-trained on large amount of text with the goal to generate human readable text.
 >
-> **[0:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=41)** The introduction of GPT in 2018 marked a shift in how NLP models were trained, relying previously on label data and supervised learning.
+> **[0:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=41)** The introduction of GPT in 2018 marked a shift in how NLP models were trained, relying previously on label data and [[Supervised Learning]].
 >
 > **[0:51](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=51)** Obviously, that process was cumbersome, labor-intensive, and self-limiting.
 >
@@ -1543,13 +1520,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=72)** The term transformer in GPT refers to a special type of neural network architecture.
 >
-> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=79)** Neural networks allow us to analyze multidimensional complex data for audio, video, images and texts.
+> **[1:19](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=79)** [[Neural Networks]] allow us to analyze multidimensional complex data for audio, video, images and texts.
 >
-> **[1:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=87)** Some other types of neural networks are CNN and RNN, in other words, convolutional neural networks and recurrent neural networks.
+> **[1:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=87)** Some other types of neural networks are CNN and RNN, in other words, [[Convolutional Neural Networks (CNN)|convolutional neural networks]] and recurrent neural networks.
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=97)** However, unlike CNN and RNN, transformers are a new breed.
 >
-> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=103)** Transformers allow taking advantage of large-scale hardware and parallel computation.
+> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=103)** Transformers allow taking advantage of large-scale [[Hardware]] and parallel computation.
 >
 > **[1:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=110)** Although a full technical details of transformers are beyond the scope of the scores, it's worth noting a research paper titled, "Attention is All You Need," which set the foundation, not just for GPT, but for nearly all modern AI models, including GPT-5.
 >
@@ -1575,7 +1552,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=183)** Generative adversarial net, GANs, on the other hand, played an early role in synthetic media such as deep fake images and audio.
 >
-> **[3:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=192)** Though by 2025, diffusion models, like stable diffusion and DALI are dominant approaches for creating realistic synthetic content.
+> **[3:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=192)** Though by 2025, diffusion models, like [[Stable Diffusion]] and DALI are dominant approaches for creating realistic synthetic content.
 >
 > **[3:22](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/gan-bert-gpt-and-more-30112000?u=76281980&t=202)** GAN model actually consists of two underlying models, but before we get to that, I would like you to recall our earlier discussion of supervised and unsupervised learning, and then discriminative and generative models.
 >
@@ -1597,7 +1574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Neural Networks]] (3), cnn (2), ai (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Generative AI]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Supervised Learning]] (1)
 > **Env Vars:** gpt (7), cnn (2), rnn (2), gan (2), nlp (1)
 > **Definitions:** is a  (2), refers to (2), in other words (2), known as (1)
 > **Analogies:** for example (1), such as (1)
@@ -1609,8 +1586,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The ways AI can fail you
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980)
+#### [The ways AI can fail you](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,9 +1596,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980&t=17)** In fact, if anything, it is a double-edged sword which if not handled carefully, can lead to poor judgment, and even worse be the reason you could get compromised.
 >
-> **[0:31](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980&t=31)** In this chapter, I want to share with you three ways artificial intelligence can fail you.
+> **[0:31](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980&t=31)** In this chapter, I want to share with you three ways [[Artificial Intelligence (AI)|artificial intelligence]] can fail you.
 >
-> **[0:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980&t=38)** First, due to the inherent weaknesses in AI's machine learning algorithms and its dependencies.
+> **[0:38](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980&t=38)** First, due to the inherent weaknesses in AI's machine learning [[Algorithms]] and its dependencies.
 >
 > **[0:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980&t=46)** Second, due to the abuse against your own AI systems by a malicious actor.
 >
@@ -1632,12 +1608,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Security]] (2), power (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limitations and poor design
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980)
+#### [Limitations and poor design](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,7 +1622,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=18)** Machine learning is probabilistic.
 >
-> **[0:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=21)** The algorithms, especially deep learning algorithms don't have domain knowledge.
+> **[0:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=21)** The [[Algorithms]], especially [[Deep Learning]] algorithms don't have domain knowledge.
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=27)** They don't understand the underlying network topologies the physics, or your business logic.
 >
@@ -1665,7 +1640,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=100)** A probabilistic system does what it stands for.
 >
-> **[1:44](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=104)** It determines the probability of occurrence of an event but there is always going to be a degree of error associated with the probability.
+> **[1:44](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=104)** It determines the [[Probability]] of occurrence of an event but there is always going to be a degree of error associated with the probability.
 >
 > **[1:54](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/limitations-and-poor-design?u=76281980&t=114)** As a result there can still be false positives and false negatives with the recommendation made by your AI system.
 >
@@ -1675,13 +1650,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (5), ai (3), [[Security]] (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Probability]] (2), [[Deep Learning]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attack against your AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980)
+#### [Attack against your AI](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,9 +1665,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=11)** Even if your implementation is rock solid, your AI system, the one you are trusting to help secure your organization, is itself vulnerable to attacks.
 >
-> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=23)** And I'm not referring here to the well-known attacks or the vulnerabilities such as buffer overflow, denial of service, man in the middle or phishing attacks.
+> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=23)** And I'm not referring here to the well-known attacks or the vulnerabilities such as buffer overflow, denial of service, man in the middle or [[Phishing]] attacks.
 >
-> **[0:32](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=32)** I'm referring to a whole new breed of attacks against machine learning algorithms and the models that are the building blocks of your AI product or solution.
+> **[0:32](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=32)** I'm referring to a whole new breed of attacks against machine learning [[Algorithms]] and the models that are the building blocks of your AI product or solution.
 >
 > **[0:44](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=44)** Keep in mind that by creating an AI-based system, you have also created a whole new type of attack surface for your environment and opened yourself up to new ways of exploitation and abuse by malicious actors.
 >
@@ -1709,7 +1683,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=101)** An attacker can initiate the inference attack either at the time of training, which is considered an attack on the algorithm, or after the machine learning algorithm is deployed to production, which is considered as the attack on the model.
 >
-> **[1:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=118)** Regardless of the stage where the attack is performed, the inference attack can take many different forms.
+> **[1:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=118)** Regardless of the stage where the attack is performed, the inference attack can take many different [[Forms]].
 >
 > **[2:06](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/attack-against-your-ai?u=76281980&t=126)** For example, inferring the attributes or features used to train the model or inferring the actual data used for training.
 >
@@ -1763,7 +1737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (9), [[Forms]] (3), [[Algorithms]] (2), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Algorithms]] (2), [[Phishing]] (1)
 > **Definitions:** known as (3)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** cia (1)
@@ -1771,14 +1745,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Criminals use AI too
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980)
+#### [Criminals use AI too](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=0)** - [Instructor] So far in this chapter, we looked at how the limitations and abuse of your AI implementation can jeopardize the security of your organization.
 >
-> **[0:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=12)** But we haven't yet looked at the other side of the coin, meaning the ways artificial intelligence and machine learning are empowering cyber criminals to carry out security attacks with greater speed, scope, and stealth.
+> **[0:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=12)** But we haven't yet looked at the other side of the coin, meaning the ways [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning are empowering cyber criminals to carry out security attacks with greater speed, scope, and stealth.
 >
 > **[0:29](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=29)** Technologies and techniques of AI that you are counting on to protect your organization are as easily accessible to your adversaries as well.
 >
@@ -1788,7 +1761,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=60)** Though there are many tools that attackers use to automate common tasks, such as scanning the network, discovering services, yet most of the tasks that require creativity and human intelligence remain manual.
 >
-> **[1:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=77)** For example, bypassing the CAPTCHA control presented on a webpage, or another example, testing and fine tuning a malware code to make it fully undetectable.
+> **[1:17](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=77)** For example, bypassing the CAPTCHA control presented on a webpage, or another example, testing and [[Fine Tuning]] a malware code to make it fully undetectable.
 >
 > **[1:31](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=91)** Such tasks cannot be automated by traditional programming.
 >
@@ -1798,11 +1771,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=120)** The result is usually the information about their networks, applications, or employees, but without an effective way to further reduce the list of targets.
 >
-> **[2:13](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=133)** Acting on a large number of targets at once increases the probability of getting caught.
+> **[2:13](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=133)** Acting on a large number of targets at once increases the [[Probability]] of getting caught.
 >
 > **[2:21](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=141)** Not only does machine learning enable an attacker to be extremely precise, but also assists in launching the attack on a subset where the likelihood of success is going to be highest.
 >
-> **[2:34](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=154)** For example, in spear phishing, a type of social engineering attack, the attacker using machine learning identifies high up individuals at the target organizations through social media, recent travel, or other online or offline footprints.
+> **[2:34](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=154)** For example, in spear [[Phishing]], a type of social engineering attack, the attacker using machine learning identifies high up individuals at the target organizations through social media, recent travel, or other online or offline footprints.
 >
 > **[2:54](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=174)** Furthermore, the attacker does this at scale across multiple organizations, and finally operationalizes the machine learning model to automatically build and send targeted phishing emails with specific context unique to each recipient.
 >
@@ -1814,7 +1787,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=224)** Tasks that an attacker would have to perform themselves can now be done by a machine learning model running anonymously and autonomously and making intelligent decisions on behalf of the attacker.
 >
-> **[4:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=240)** If that wasn't enough, there is a brand new category of attacks that have been made possible in recent years due to advancements in deep learning.
+> **[4:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=240)** If that wasn't enough, there is a brand new category of attacks that have been made possible in recent years due to advancements in [[Deep Learning]].
 >
 > **[4:10](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/criminals-use-ai-too?u=76281980&t=250)** Attackers now have the ability to generate synthetic image, audio, and video.
 >
@@ -1822,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (4), [[Security]] (2), [[Phishing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Fine Tuning]] (1), [[Probability]] (1), [[Deep Learning]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** captcha (2), api (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -1830,12 +1803,11 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recipe for a successful AI project
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980)
+#### [Recipe for a successful AI project](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=0)** - [Instructor] By now, you know the strengths and weaknesses of artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=0)** - [Instructor] By now, you know the strengths and weaknesses of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:05](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=5)** You understand the ways it can be applied to address your security challenges.
 >
@@ -1873,7 +1845,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=127)** You will encounter many moving parts like lack of data readiness.
 >
-> **[2:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=132)** Challenges integrating your AI-powered system into your existing environment, adoption and education of your security staff, and the fine tuning and upkeep of your machine learning models.
+> **[2:12](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=132)** Challenges integrating your AI-powered system into your existing environment, adoption and education of your security staff, and the [[Fine Tuning]] and upkeep of your machine learning models.
 >
 > **[2:28](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=148)** Don't expect it to be plug and play or turnkey.
 >
@@ -1917,7 +1889,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=286)** Plan for building feedback loops early on.
 >
-> **[4:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=290)** Establish a workflow with automated data pipelines.
+> **[4:50](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=290)** Establish a workflow with automated [[Data Pipelines]].
 >
 > **[4:55](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/recipe-for-a-successful-ai-project?u=76281980&t=295)** You want your AI system to constantly be supplied with feedback on how it is performing on real data.
 >
@@ -1933,19 +1905,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (14), [[Security]] (7), next (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Fine Tuning]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to choose AI-based security products
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980)
+#### [How to choose AI-based security products](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=0)** - [Instructor] In the previous lesson, I encourage you to assess your core competency and choose between build or buy options when introducing AI to your organization.
 >
-> **[0:13](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=13)** Regardless of the choice you make, chances are, at that some point, you are going to buy or at least evaluate AI-enabled security products.
+> **[0:13](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=13)** Regardless of the choice you make, chances are, at that some point, you are going to buy or at least evaluate AI-enabled security [[Microsoft Products|products]].
 >
 > **[0:23](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=23)** Why wouldn't you?
 >
@@ -2009,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=238)** Is AI offered as an add-on module or is it the foundation of the underlying product implementation itself?
 >
-> **[4:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=248)** Last but not the least, evaluate the security and privacy capabilities of these AI products.
+> **[4:08](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=248)** Last but not the least, evaluate the security and [[Privacy]] capabilities of these AI products.
 >
 > **[4:15](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/how-to-choose-ai-based-security-products?u=76281980&t=255)** What's the vendor's security and privacy policy?
 >
@@ -2029,7 +2000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), product (13), data (11), [[Security]] (5), [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Privacy]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** just like (1), for example (1), such as (1)

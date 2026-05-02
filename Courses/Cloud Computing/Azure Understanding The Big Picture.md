@@ -117,28 +117,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure from a 10,000-foot view
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980)
+#### [Azure from a 10,000-foot view](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=0)** - [Walt] The Microsoft Azure Cloud is huge and is growing every month.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=0)** - [Walt] The [[Microsoft Azure]] Cloud is huge and is growing every month.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=4)** If you are considering moving to Azure, you may feel overwhelmed since there is so much to explore, you've come to the right place as this course zooms out and looks at the big picture of Azure.
+> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=4)** If you are considering moving to [[Microsoft Azure|Azure]], you may feel overwhelmed since there is so much to explore, you've come to the right place as this course zooms out and looks at the big picture of Azure.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=15)** You'll see how all the parts fit into the Microsoft Cloud vision.
+> **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=15)** You'll see how all the parts fit into the [[Microsoft]] Cloud vision.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=19)** We start with a look at the three cornerstones of cloud, infrastructure as a service, software as a service, and platform as a service.
+> **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=19)** We start with a look at the three cornerstones of cloud, [[IaaS|infrastructure as a service]], [[SaaS|software as a service]], and [[PaaS|platform as a service]].
 >
-> **[0:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=28)** Along the way, we'll explore code tools and cloud storage.
+> **[0:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=28)** Along the way, we'll explore code tools and [[Cloud Storage]].
 >
 > **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=32)** We'll see how to tie together your apps with event and notification services.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=36)** And for those of you who are web developers, there's a segment on hosting web apps and APIs on Azure App Service.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=43)** Finally, we'll look at DevOps tools like continuous deployment.
+> **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=43)** Finally, we'll look at [[DevOps Tools]] like continuous deployment.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=48)** In this course, you can review the services that interest you or zoom out for a more complete picture of this powerful cloud computing platform.
+> **[0:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=48)** In this course, you can review the services that interest you or [[Zoom]] out for a more complete picture of this powerful [[Cloud Computing]] platform.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980&t=56)** Hey there, I'm Walt Ritscher, and during the last few years I started migrating my work to Azure.
 >
@@ -146,16 +145,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (2), web (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (2), [[Microsoft]] (1), [[IaaS|Infrastructure as a service]] (1), [[SaaS|Software as a service]] (1)
 > **Analogies:** picture (2)
 > **Speakers:** - [walt] (1)
 
-#### Getting the best out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980)
+#### [Getting the best out of this course](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=0)** - [Instructor] During this course, we'll explore the range of Azure Cloud services from IT to DevOps, from databases to artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=0)** - [Instructor] During this course, we'll explore the range of [[Microsoft Azure|Azure]] [[Cloud Services]] from IT to [[DevOps]], from [[Databases]] to [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=8)** We'll look at many topics, but let's be realistic; it's not possible to cover every aspect of Azure in a few hours.
 >
@@ -163,9 +161,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=17)** Later, you can drill down into the parts you find interesting or essential for your organization.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=23)** My goal in this course was to find the core elements of Azure and condense those topics in a broad overview of what Microsoft offers in Azure so that you can get a general answer to the question: What is Azure?
+> **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=23)** My goal in this course was to find the core elements of Azure and condense those topics in a broad overview of what [[Microsoft]] offers in Azure so that you can get a general answer to the question: What is Azure?
 >
-> **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=36)** When it's time to find out more, consider watching the multitude of other LinkedIn Learning Azure courses.
+> **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=36)** When it's time to find out more, consider watching the multitude of other [[LinkedIn]] Learning Azure courses.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/getting-the-best-out-of-this-course?u=76281980&t=42)** If you like this course, may I suggest my other courses; I have several, including one on Azure security and DevOps.
 >
@@ -183,25 +181,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[DevOps]] (2), cloud (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[DevOps]] (2), [[Cloud Services]] (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### The fluctuating nature of the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980)
+#### [The fluctuating nature of the Azure portal](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=0)** - [Presenter] Before we go any further in the course, let's take a moment to appreciate the speed at which Azure Cloud tools improve every month.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=0)** - [Presenter] Before we go any further in the course, let's take a moment to appreciate the speed at which [[Microsoft Azure|Azure]] Cloud tools improve every month.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=7)** The updates happen frequently.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=8)** New features appear when they're stable and ready to deploy.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=12)** Microsoft rolls out improvements in a continual stream.
+> **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=12)** [[Microsoft]] rolls out improvements in a continual stream.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=15)** Most of the time, this is a benefit to us.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=24)** Of course, this means that the tools we use to interact with Azure must be updated to match the new features.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=29)** There will be new commands for the PowerShell API and the Azure web portal, UI gets updated every few months too.
+> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=29)** There will be new commands for the [[Powershell]] API and the Azure web portal, UI gets updated every few months too.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-fluctuating-nature-of-the-azure-portal?u=76281980&t=36)** That means that some of the examples in this course won't match the current Azure portal.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), cloud (1), [[Microsoft]] (1), [[Security]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), [[Powershell]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **Tools:** powershell (1), azure portal (1)
 > **CLI Commands:** find (1)
@@ -246,8 +243,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the cloud?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980)
+#### [What is the cloud?](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,9 +271,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=41)** That tiny cloud in the network diagram, which once represented the services outside the company firewall, is now a multi-billion dollar industry.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=50)** Cloud vendors build every kind of service and offer it to us as cloud services.
+> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=50)** Cloud vendors build every kind of service and offer it to us as [[Cloud Services]].
 >
-> **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=54)** To revisit the definition as defined by Microsoft, "Cloud computing is the delivery "of on-demand computing services over the internet," or the cloud.
+> **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=54)** To revisit the definition as defined by [[Microsoft]], "[[Cloud Computing]] is the delivery "of on-demand computing services over the internet," or the cloud.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=63)** The services offered by cloud vendors are extensive and varied.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=79)** Data analysts want to leverage machine learning tools in the cloud.
 >
-> **[1:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=82)** Think about all the online services you use, Office 365, Google Sheets, OneDrive, Slack, Microsoft Teams.
+> **[1:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=82)** Think about all the online services you use, [[Microsoft Office|Office]] 365, [[Google]] Sheets, [[Microsoft OneDrive|OneDrive]], [[Slack]], [[Microsoft Teams]].
 >
 > **[1:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=89)** Corporate purchasing departments think about buying these software suites that run in the cloud.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=107)** They need to create services that customers want and keep them available at all times and ensure they are secure from threats.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=114)** For the vendors, cloud is a new way of thinking about system architecture, and the definition is refined every month.
+> **[1:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=114)** For the vendors, cloud is a new way of thinking about [[System Architecture]], and the definition is refined every month.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=120)** There is plenty of thought given on cloud patterns, the best ways to build systems distributed across many data centers.
 >
@@ -311,9 +307,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=134)** It's not the same as having two server boxes in a closet.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=136)** For example, Azure has millions of servers deployed in data centers in every global region and available in 140 countries.
+> **[2:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=136)** For example, [[Microsoft Azure|Azure]] has millions of servers deployed in data centers in every global region and available in 140 countries.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=144)** Consider how much work it is to provision and maintain this mountain of hardware.
+> **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=144)** Consider how much work it is to provision and maintain this mountain of [[Hardware]].
 >
 > **[2:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=148)** The cloud is a new way of thinking about enormous network bandwidth.
 >
@@ -325,29 +321,29 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=166)** How do you virtualize network hardware in a way that makes sense for the cloud?
 >
-> **[2:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=170)** Or what about virtual machines?
+> **[2:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=170)** Or what about [[Virtual Machines]]?
 >
 > **[2:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=172)** The cloud is a new way of thinking about selling hardware and software.
 >
 > **[2:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=175)** This is where it starts getting closer to us.
 >
-> **[2:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=177)** Should you buy 10 servers with Windows operating system and SQL Server licenses for each box, or should you lease cloud services to handle the hardware and licensing for you?
+> **[2:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=177)** Should you buy 10 servers with [[Windows]] operating system and [[Microsoft SQL Server|SQL Server]] licenses for each box, or should you lease cloud services to handle the hardware and licensing for you?
 >
 > **[3:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=186)** Now that we understand that the cloud is where we buy and use on-demand services, we should talk about the acronym aaS, which stands for as a Service.
 >
 > **[3:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=196)** There are three broad categories of cloud service.
 >
-> **[3:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=198)** Infrastructure as a Service, or IaaS, is an on-demand access to cloud-hosted physical and virtual servers, storage, and networking, the backend IT infrastructure for running applications and workloads in the cloud.
+> **[3:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=198)** [[IaaS|Infrastructure as a Service]], or [[IaaS]], is an on-demand access to cloud-hosted physical and virtual servers, storage, and networking, the backend IT infrastructure for running applications and workloads in the cloud.
 >
-> **[3:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=213)** Software as a Service, or SaaS, is on-demand access to ready-to-use cloud-hosted application software.
+> **[3:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=213)** [[SaaS|Software as a Service]], or [[SaaS]], is on-demand access to ready-to-use cloud-hosted application software.
 >
-> **[3:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=220)** Platform as a Service, or PaaS, is on-demand access to a complete ready-to-use cloud-hosted platform for developing, running, maintaining, and managing applications.
+> **[3:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=220)** [[PaaS|Platform as a Service]], or [[PaaS]], is on-demand access to a complete ready-to-use cloud-hosted platform for developing, running, maintaining, and managing applications.
 >
 > **[3:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=232)** You'll find a discussion of these topics in the other videos in the course.
 >
 > **[3:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=236)** Let's continue our search for a useful cloud definition.
 >
-> **[3:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=238)** The US National Institute of Standards and Technology, or NIST, defines five essential characteristics of the cloud.
+> **[3:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=238)** The US National Institute of Standards and Technology, or [[NIST]], defines five essential characteristics of the cloud.
 >
 > **[4:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980&t=246)** On-demand self-service is one.
 >
@@ -415,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (47), [[Microsoft Azure|Azure]] (6), [[Hardware]] (6), [[Microsoft]] (4), data (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Hardware]] (6), [[Microsoft]] (4), [[Cloud Services]] (2), [[Cloud Computing]] (2)
 > **Definitions:** is a  (7), means that (2), in other words (1), stands for (1), is an  (1)
 > **Env Vars:** nist (2), sql (1), api (1), url (1)
 > **CLI Commands:** find (3)
@@ -424,14 +420,13 @@ created: 2026-05-02
 > **Versions:** 1.6 (1)
 > **Tools:** slack (1)
 
-#### Benefits of using the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980)
+#### [Benefits of using the cloud](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=0)** - [Instructor] Once you understand the ideals behind cloud services, I think the next question to ask is, what are the benefits of moving to the cloud?
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=0)** - [Instructor] Once you understand the ideals behind [[Cloud Services]], I think the next question to ask is, what are the benefits of moving to the cloud?
 >
-> **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=7)** Cloud computing eliminates the capital expense of buying hardware and software.
+> **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=7)** [[Cloud Computing]] eliminates the capital expense of buying [[Hardware]] and software.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=11)** This saves you money.
 >
@@ -483,7 +478,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=134)** Your data, apps, and infrastructure will be well-guarded from potential threats.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=139)** Their data center is going to have better access control than your suburban office space.
+> **[2:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=139)** Their data center is going to have better access control than your suburban [[Microsoft Office|office]] space.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=144)** Plus, lost laptops are a billion-dollar business problem.
 >
@@ -493,7 +488,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=152)** Because your data is stored in the cloud, you can access it no matter what happens to your machine.
 >
-> **[2:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=157)** Another benefit is scalability, which means that your resources can seamlessly increase or decrease in size or quantity.
+> **[2:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=157)** Another benefit is [[Scalability]], which means that your resources can seamlessly increase or decrease in size or quantity.
 >
 > **[2:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=165)** For a startup, this could mean having one database server to start with and adding servers when business grows.
 >
@@ -515,43 +510,42 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=216)** For example, a European company that has cloud data, that data must be geolocated within the European region.
 >
-> **[3:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=223)** The benefits I define in this video apply mostly to Infrastructure as a Service, but there are comparable benefits for Software as a Service and Platform as a Service.
+> **[3:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=223)** The benefits I define in this video apply mostly to [[IaaS|Infrastructure as a Service]], but there are comparable benefits for [[SaaS|Software as a Service]] and [[PaaS|Platform as a Service]].
 >
 > **[3:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=233)** The advantages of cloud computing are numerous.
 >
 > **[3:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=236)** Cloud adoption is on the rise every year.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=239)** There's a reason over 85% of enterprises have implemented a multi-cloud strategy in recent years.
+> **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=239)** There's a reason over 85% of enterprises have implemented a multi-[[Cloud Strategy]] in recent years.
 >
 > **[4:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/benefits-of-using-the-cloud?u=76281980&t=245)** Over time, the infrastructure will only get better, which will translate into increased benefits for all of us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (11), [[Hardware]] (5), [[Security]] (3), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[Hardware]] (5), [[Scalability]] (3), [[Cloud Services]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sla (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is infrastructure as a service (IaaS)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980)
+#### [What is infrastructure as a service (IaaS)?](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=0)** - [Instructor] What comes to mind when you think of cloud?
 >
-> **[0:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=2)** For many people, especially in the IT world, infrastructure as a service is what they envision.
+> **[0:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=2)** For many people, especially in the IT world, [[IaaS|infrastructure as a service]] is what they envision.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=7)** It's where Amazon made its cloud reputation with AWS and is a major part of how IT utilizes the cloud.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=14)** Infrastructure as service, or IaaS, is on-demand access to cloud-hosted physical and virtual servers, storage, and networking.
+> **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=14)** Infrastructure as service, or [[IaaS]], is on-demand access to cloud-hosted physical and virtual servers, storage, and networking.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=22)** Think of it as the backend IT infrastructure for running applications and workloads in the cloud.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=27)** IaaS allows customers to instantly build out new hardware and other network devices.
+> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=27)** IaaS allows customers to instantly build out new [[Hardware]] and other network devices.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=32)** Rather than doing it in-house, you have the IaaS provider provision the servers, virtual machines, hard drives, network switches, and firewalls.
+> **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=32)** Rather than doing it in-house, you have the IaaS provider provision the servers, [[Virtual Machines]], hard drives, [[Network Switches]], and firewalls.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=39)** IaaS is essentially outsourcing your computer infrastructure to the cloud.
 >
@@ -571,17 +565,17 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=73)** Traditionally, IaaS is about hardware, but as the cloud has grown, many providers offer other services that complement IaaS.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=79)** For example, customers often install databases or message queues on their servers, so it makes sense to make that easy to set up with your rented hardware.
+> **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=79)** For example, customers often install [[Databases]] or message queues on their servers, so it makes sense to make that easy to set up with your rented hardware.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=87)** This is not really IaaS, but the services are still useful.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=90)** Online dashboards are a big part of cloud services, and it's no different with IaaS.
+> **[1:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=90)** Online [[Dashboards]] are a big part of [[Cloud Services]], and it's no different with IaaS.
 >
 > **[1:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=95)** Provision and manage your new infrastructure through the dashboard or via web-connected management tools on your local admin computer.
 >
 > **[1:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=103)** You still have responsibilities.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=104)** It's up to you and your organization to determine the system architecture.
+> **[1:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=104)** It's up to you and your organization to determine the [[System Architecture]].
 >
 > **[1:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=108)** You have to configure the devices, buy software licenses, and install the software.
 >
@@ -641,7 +635,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=218)** Here's a short list of well-known providers.
 >
-> **[3:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=221)** Some examples of what you can do in Azure, you can create Azure virtual machines with either Windows or Linux operating systems.
+> **[3:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=221)** Some examples of what you can do in [[Microsoft Azure|Azure]], you can create Azure virtual machines with either [[Windows]] or [[Linux]] operating systems.
 >
 > **[3:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-infrastructure-as-a-service-iaas?u=76281980&t=227)** You can provision hard disks for the VMs and set up cloud file shares.
 >
@@ -653,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[IaaS]] (16), [[Hardware]] (10), data (5), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[IaaS]] (16), [[Hardware]] (10), [[Microsoft Azure|Azure]] (3), [[Virtual Machines]] (2), [[Cloud Services]] (2)
 > **Definitions:** is a  (5), means that (1)
 > **Prerequisites:** install (2), set up (2), configure (1)
 > **Env Vars:** aws (1), ssd (1), dns (1)
@@ -661,18 +655,17 @@ created: 2026-05-02
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is software as a service (SaaS)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980)
+#### [What is software as a service (SaaS)?](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=0)** - [Instructor] Software as a service, S-A-A-S, or SaaS, is a hugely successful part of cloud computing.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=0)** - [Instructor] [[SaaS|Software as a service]], S-A-A-S, or [[SaaS]], is a hugely successful part of [[Cloud Computing]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=6)** It is on demand access to ready-to-use, cloud-hosted application software.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=11)** Think of it as a subscription based model where the software is hosted in the cloud and accessed via the internet.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=17)** Keeping your family pictures in Google Photos is a smart use of a cloud service, so is saving your Garden Club files on Dropbox or OneDrive.
+> **[0:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=17)** Keeping your family pictures in [[Google]] Photos is a smart use of a cloud service, so is saving your Garden Club files on Dropbox or [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=24)** Your files are safely stored in another location accessible from many devices and locations.
 >
@@ -688,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=55)** While the browser is a popular way to access SaaS applications, they often have native clients too.
 >
-> **[1:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=60)** For example, Microsoft OneDrive has a website and a sync client.
+> **[1:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=60)** For example, [[Microsoft OneDrive]] has a website and a sync client.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=65)** The sync client ensures the files are available on your local computer or mobile device, but the key is that the file management is in the cloud.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=84)** SaaS is a huge and growing market.
 >
-> **[1:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=86)** Office software is the best example of businesses utilizing SaaS.
+> **[1:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=86)** [[Microsoft Office|Office]] software is the best example of businesses utilizing SaaS.
 >
 > **[1:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=90)** There are packages for every type of office work, office productivity tools, accounting, invoicing, sales, and planning.
 >
@@ -714,7 +707,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=113)** They manage the data.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=115)** They are responsible for the hardware too.
+> **[1:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=115)** They are responsible for the [[Hardware]] too.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=117)** Plus, the provider manages access to the application, including security, availability, and performance.
 >
@@ -768,21 +761,21 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=237)** Here's a list of some of the bigger and well-known SaaS providers.
 >
-> **[4:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=240)** Microsoft has a number of SaaS offerings.
+> **[4:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=240)** [[Microsoft]] has a number of SaaS offerings.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=243)** There are the familiar office tools like Word, Excel, Outlook, OneNote, and PowerPoint.
+> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=243)** There are the familiar office tools like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft Outlook|Outlook]], [[OneNote]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[4:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=248)** Microsoft has OneDrive for cloud files.
 >
-> **[4:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=251)** One of the newest product is Microsoft Teams, a cloud-based team collaboration software that is part of the Office 365 Suite of applications.
+> **[4:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=251)** One of the newest product is [[Microsoft Teams]], a cloud-based [[Team Collaboration]] software that is part of the Office 365 Suite of applications.
 >
-> **[4:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=258)** The core capabilities and teams include business messaging, calling, video meetings, file sharing, and SharePoint integration.
+> **[4:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=258)** The core capabilities and teams include business messaging, calling, video meetings, file sharing, and [[SharePoint]] integration.
 >
 > **[4:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=266)** Microsoft Dynamics 365 is a comprehensive accounting and business process software platform, sometimes referred to as an enterprise resource planning or ERP solution.
 >
 > **[4:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=276)** This helps businesses gain greater control over their financials, better manage their inventory and operations, and make informed decisions to help drive business success.
 >
-> **[4:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=284)** LinkedIn has a few SaaS offerings.
+> **[4:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=284)** [[LinkedIn]] has a few SaaS offerings.
 >
 > **[4:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-software-as-a-service-saas?u=76281980&t=286)** LinkedIn Sales Navigator is an advanced sales tool that aids sales teams, organizations, and individuals to build and nurture customer relationships on the network.
 >
@@ -798,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SaaS]] (18), cloud (12), [[Microsoft Office|Office]] (5), [[LinkedIn]] (4), [[SaaS|Software as a service]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (18), [[Microsoft Office|Office]] (5), [[LinkedIn]] (4), [[SaaS|Software as a service]] (3), [[Microsoft]] (3)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** think of it as (1), for example (1), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -807,12 +800,11 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is platform as a service (PaaS)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980)
+#### [What is platform as a service (PaaS)?](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=0)** - [Instructor] Platform as a Service, or PaaS, is a relatively new but rapidly growing segment in cloud computing.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=0)** - [Instructor] [[PaaS|Platform as a Service]], or [[PaaS]], is a relatively new but rapidly growing segment in [[Cloud Computing]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=7)** It provides an easy approach for accessing a development-rich environment for building applications.
 >
@@ -824,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=36)** A comprehensive platform includes many useful parts.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=39)** What's part of the platform varies depending on the programming language and the application type, but typically it includes the following components, hardware, operating systems, development tools, middleware, frameworks, and runtime environments.
+> **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=39)** What's part of the platform varies depending on the programming language and the application type, but typically it includes the following components, [[Hardware]], operating systems, development tools, middleware, frameworks, and runtime environments.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=53)** Platform as a Service offers several advantages.
 >
@@ -848,7 +840,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=126)** The platform offers scale out services that are ready to use.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=129)** Like Infrastructure as a Service, Platform as a Service includes infrastructure.
+> **[2:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=129)** Like [[IaaS|Infrastructure as a Service]], Platform as a Service includes infrastructure.
 >
 > **[2:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=134)** The hardware is there.
 >
@@ -856,11 +848,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=140)** Instead, they are configured and managed by the platform provider.
 >
-> **[2:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=143)** Since it is targeted as simplifying application development, it's not surprising to find that it includes lots of services that complement development.
+> **[2:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=143)** Since it is targeted as simplifying [[Application Development]], it's not surprising to find that it includes lots of services that complement development.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=151)** For example, you might get development tools and IDEs, business intelligence services and app analytics, and don't forget databases.
+> **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=151)** For example, you might get development tools and IDEs, [[Business Intelligence (BI)|business intelligence]] services and app analytics, and don't forget [[Databases]].
 >
-> **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=159)** It often includes DevOps tools that support the entire application lifecycle from development to deployment, testing and maintenance, and working with source control.
+> **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=159)** It often includes [[DevOps Tools]] that support the entire application lifecycle from development to deployment, testing and maintenance, and working with source control.
 >
 > **[2:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=168)** This integration streamlines processes and enhances productivity.
 >
@@ -876,7 +868,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=200)** It's basically a subscription-based pricing with no large initial investment.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=205)** In traditional, you have ongoing maintenance, continuous need for updates, repairs, and security management.
+> **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=205)** In traditional, you have ongoing maintenance, continuous need for updates, repairs, and [[Security Management]].
 >
 > **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=211)** Whereas Platform as a Service, the provider handles all the maintenance updates and security.
 >
@@ -884,7 +876,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=219)** You have to set up and configure environments that can delay project start times.
 >
-> **[3:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=223)** To be clear, this is becoming less of an issue due to the rise of customizable virtual machines and containers.
+> **[3:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=223)** To be clear, this is becoming less of an issue due to the rise of customizable [[Virtual Machines]] and containers.
 >
 > **[3:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-platform-as-a-service-paas?u=76281980&t=229)** Whereas in Platform as a Service, we've got these ready to use environments that enable faster project starts.
 >
@@ -898,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (11), [[Hardware]] (6), cloud (3), application (3), management (2)
+> **Frameworks & Libraries:** [[PaaS|Platform as a service]] (11), [[Hardware]] (6), [[PaaS]] (1), [[Cloud Computing]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Prerequisites:** setup (3), set up (1), configure (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -906,12 +898,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is services as a service (SEaaS)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-services-as-a-service-seaas?u=76281980)
+#### [What is services as a service (SEaaS)?](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-services-as-a-service-seaas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-services-as-a-service-seaas?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at SaaS, or software as a service.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-services-as-a-service-seaas?u=76281980&t=0)** - [Instructor] Earlier in this course, we looked at [[SaaS]], or [[SaaS|software as a service]].
 >
 > **[0:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-services-as-a-service-seaas?u=76281980&t=3)** Recently, there is another kind of service being offered that has the same acronym, it's services as a service.
 >
@@ -941,31 +932,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (3), [[SaaS]] (2), [[SaaS|Software as a service]] (2), data (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[SaaS|Software as a service]] (2)
 > **Env Vars:** sms (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Surveying the cloud market leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/surveying-the-cloud-market-leaders?u=76281980)
+#### [Surveying the cloud market leaders](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/surveying-the-cloud-market-leaders?u=76281980)
 
 
 ### 2. Azure Basics
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subscription choices for Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980)
+#### [Subscription choices for Azure](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=0)** - [Instructor] Azure is a subscription-based service.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] is a subscription-based service.
 >
 > **[0:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=2)** You'll need to have an active subscription.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=4)** Microsoft offers several choices for getting a subscription.
+> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=4)** [[Microsoft]] offers several choices for getting a subscription.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=7)** There is a business version, US government, nonprofits, students, and individual.
 >
@@ -1005,7 +994,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=92)** Government agencies are required to meet stringent security and compliance requirements.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=97)** Microsoft Azure for government is certified to meet these requirements.
+> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=97)** [[Microsoft Azure]] for government is certified to meet these requirements.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=101)** It does this through multiple avenues, including using a separate physical and network-isolated instance of Azure for each agency.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=112)** The broadest plan is called the Microsoft Cloud for Nonprofit.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=115)** This is a package deal that contains Microsoft Dynamics 365, Microsoft Power Platform, Microsoft 365, LinkedIn, and Microsoft Azure.
+> **[1:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=115)** This is a package deal that contains Microsoft Dynamics 365, Microsoft Power Platform, [[Microsoft 365]], [[LinkedIn]], and Microsoft Azure.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=125)** If you have an eligible nonprofit, you get all these apps and services at various price points.
 >
@@ -1031,7 +1020,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=166)** Signing up is free and does not require a credit card.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=169)** Azure for Students gives you over 25 free products, including the Visual Studio Code editor, virtual machines, Cosmos DB, and SQL Azure databases.
+> **[2:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=169)** Azure for Students gives you over 25 free [[Microsoft Products|products]], including the Visual Studio Code editor, [[Virtual Machines]], Cosmos DB, and [[SQL]] Azure [[Databases]].
 >
 > **[2:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980&t=179)** In addition to the free products just mentioned, you can also get $100 credit for 12 months.
 >
@@ -1061,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (23), [[Microsoft]] (10), cloud (4), [[Microsoft Products|Products]] (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (23), [[Microsoft]] (10), [[Microsoft Products|Products]] (3), [[Microsoft Azure]] (2), [[Microsoft 365]] (1)
 > **Definitions:** is a  (4), known as (1), is called (1)
 > **Tools:** visual studio (3), azure portal (1)
 > **Env Vars:** csp (1), stem (1), sql (1)
@@ -1069,16 +1058,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Azure costs and fees
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980)
+#### [Understand Azure costs and fees](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=0)** - [Instructor] Microsoft Azure, like most cloud service providers, has a billing and subscription model built on a pay-per-use basis.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]], like most cloud service providers, has a billing and subscription model built on a pay-per-use basis.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=7)** For example, if you use one hour of CPU time, you pay for the hour you have consumed.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=12)** Azure has hundreds of individual services available.
+> **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=12)** [[Microsoft Azure|Azure]] has hundreds of individual services available.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=16)** Each one has its own pricing model.
 >
@@ -1086,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=23)** The more storage or memory you add, the more you pay, the faster the CPU, the higher your monthly bill.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=29)** Databases use a pricing plan that makes sense for that market.
+> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=29)** [[Databases]] use a pricing plan that makes sense for that market.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=32)** When provisioning the database server, you have the option to set the number of instances, the type, is it a managed database, elastic pool, or single database?
 >
@@ -1100,7 +1088,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=59)** Here's another example.
 >
-> **[1:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=60)** When working with virtual networks, you are paying for the network hardware, but you'll also have to pay the bandwidth transfer costs too.
+> **[1:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=60)** When working with virtual networks, you are paying for the network [[Hardware]], but you'll also have to pay the bandwidth transfer costs too.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=68)** The Azure pricing calculator is an invaluable resource to understand Azure cost.
 >
@@ -1110,7 +1098,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=89)** Here's a look at the database services.
 >
-> **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=91)** In this screenshot, we're looking at the compute services like virtual machines, functions, and containers.
+> **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=91)** In this screenshot, we're looking at the compute services like [[Virtual Machines]], functions, and containers.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=97)** As you work through the estimate, click an item and it gets added to the running tally.
 >
@@ -1138,9 +1126,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=149)** So far, the cost is around $290 per month.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=153)** On this screen, I've added the SQL server license included, and that bumps the cost up over $3,300 extra per month.
+> **[2:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=153)** On this screen, I've added the [[Microsoft SQL Server|SQL server]] license included, and that bumps the cost up over $3,300 extra per month.
 >
-> **[2:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=161)** Here's the rest of the estimate, showing the cost of disc storage.
+> **[2:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=161)** Here's the [[Representational State Transfer (REST)|rest]] of the estimate, showing the cost of disc storage.
 >
 > **[2:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/understand-azure-costs-and-fees?u=76281980&t=164)** I'm choosing a standard SSD.
 >
@@ -1178,19 +1166,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), database (6), [[Databases]] (2), [[Virtual Machines]] (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Databases]] (2), [[Virtual Machines]] (2), [[Microsoft Azure]] (1), [[Hardware]] (1)
 > **Env Vars:** cpu (2), sql (1), ssd (1), gib (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The broad world of Azure services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980)
+#### [The broad world of Azure services](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=0)** - [Instructor] Azure is full of services.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] is full of services.
 >
 > **[0:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=1)** You can find one for every part of your organization.
 >
@@ -1202,15 +1189,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=23)** Before I look at the services page, there's an extra note.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=26)** Microsoft changed the name of Azure Active Directory to Entra ID.
+> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=26)** [[Microsoft]] changed the name of [[Microsoft Entra ID|Azure Active Directory]] to [[Microsoft Entra ID|Entra ID]].
 >
-> **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=31)** They say this new name helps communicate the multi-cloud, multi-platform functionality of the product and alleviates confusion with Windows Server Active Directory.
+> **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=31)** They say this new name helps communicate the multi-cloud, multi-platform functionality of the product and alleviates confusion with [[Windows Server]] [[Active Directory]].
 >
-> **[0:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=40)** Here on this site, you can browse all the Azure products down the left side of the screen.
+> **[0:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=40)** Here on this site, you can browse all the Azure [[Microsoft Products|products]] down the left side of the screen.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=45)** Now, a lot of the products that are available are shown in multiple sections.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=48)** For instance, if I look at developer tools, I can see something called Azure DevOps and Azure Pipelines.
+> **[0:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=48)** For instance, if I look at developer tools, I can see something called Azure [[DevOps]] and Azure Pipelines.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=54)** If I look in the DevOps section, I see some additional tools, like Azure Artifacts and Azure Boards, but I also see Azure DevOps and Azure Pipelines.
 >
@@ -1218,19 +1205,19 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=68)** So let's take a look at some of these categories, starting with AI.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=71)** Artificial intelligence is the capability of a computer to imitate intelligent human behavior.
+> **[1:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=71)** [[Artificial Intelligence (AI)|Artificial intelligence]] is the capability of a computer to imitate intelligent human behavior.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=77)** Through AI, machines can analyze images, comprehend speech, interact with natural ways, and make predictions using data.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=83)** And you can see there's a number of services available here, like Azure Databricks or Azure Machine Learning.
+> **[1:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=83)** And you can see there's a number of services available here, like [[Azure Databricks]] or Azure Machine Learning.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=88)** And speaking of machine learning, that is an AI technique that uses mathematical algorithms to create predictive models.
+> **[1:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=88)** And speaking of machine learning, that is an AI technique that uses mathematical [[Algorithms]] to create predictive models.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=94)** These models are used to make informed predictions about new data.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=98)** Got an analytics section.
 >
-> **[1:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=100)** This is where analytics solutions turn volumes of data into useful business intelligence, such as reports and visualizations, and through inventive artificial intelligence can make forecast based on machine learning.
+> **[1:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=100)** This is where analytics solutions turn volumes of data into useful [[Business Intelligence (BI)|business intelligence]], such as reports and visualizations, and through inventive artificial intelligence can make forecast based on machine learning.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=111)** So in here, you'll see things like Azure Data Explorer and Azure Databricks, and something called Azure Synapse and Analytics.
 >
@@ -1242,7 +1229,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=132)** We'll look at that later in the course.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=133)** It's also things like batch jobs and things like cloud services or static web apps.
+> **[2:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=133)** It's also things like batch jobs and things like [[Cloud Services]] or static web apps.
 >
 > **[2:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=139)** Those are part of this section, too, but you'll find those in the web section.
 >
@@ -1252,11 +1239,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=151)** Containers bundle an application's code together with the related configuration files and libraries and with the dependency required for the app to run.
 >
-> **[2:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=158)** Azure supports containers like Docker and container services like Kubernetes.
+> **[2:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=158)** Azure supports containers like Docker and container services like [[Kubernetes]].
 >
-> **[2:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=163)** In Databases, Azure Database Solutions include both traditional relational database management systems, also known as RDBMS, and big data solutions.
+> **[2:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=163)** In [[Databases]], Azure Database Solutions include both traditional relational [[Database Management]] systems, also known as RDBMS, and [[Big Data]] solutions.
 >
-> **[2:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=172)** So you can see here we've got Azure database from MySQL, we have Azure SQL, we have Azure SQL Databases, and then we've got Microsoft's Azure Cosmos DB, which is their fast NoSQL database.
+> **[2:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=172)** So you can see here we've got Azure database from [[MySQL]], we have Azure [[SQL]], we have Azure SQL Databases, and then we've got Microsoft's Azure Cosmos DB, which is their fast [[NoSQL]] database.
 >
 > **[3:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=185)** We've looked at developer tools.
 >
@@ -1268,9 +1255,9 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=201)** We've got Azure Pipelines for continuously building, testing, and deploying to any platform and cloud.
 >
-> **[3:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=207)** Got Azure Test Plans for testing and shipping with confidence, and Azure Repos, which is an alternative to GitHub Repos.
+> **[3:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=207)** Got Azure Test Plans for testing and shipping with confidence, and Azure Repos, which is an alternative to [[GitHub]] Repos.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=214)** Internet of Things, or IoT, is a collection of services that connect and control IoT devices.
+> **[3:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=214)** [[IoT|Internet of Things]], or [[IoT]], is a collection of services that connect and control IoT devices.
 >
 > **[3:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=220)** Azure IoT supports a large range of devices including industrial equipment, microcontrollers, and sensors.
 >
@@ -1302,7 +1289,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=299)** Most of these are not for creating the mobile applications.
 >
-> **[5:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=302)** The only exception here is the Xamarin, but these are things like Azure Maps and App Service and API Management.
+> **[5:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=302)** The only exception here is the Xamarin, but these are things like Azure Maps and App Service and [[API Management]].
 >
 > **[5:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=308)** These are tools that you might call from your mobile application into the cloud service.
 >
@@ -1314,9 +1301,9 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=327)** Now in security, you can find all these services to help secure your cloud applications, including Azure Active Directory.
 >
-> **[5:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=335)** We see that here, and we also have things like Microsoft Sentinel and Microsoft Defender for IoT and Microsoft Defender for Cloud.
+> **[5:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=335)** We see that here, and we also have things like Microsoft Sentinel and [[Microsoft Defender]] for IoT and Microsoft Defender for Cloud.
 >
-> **[5:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=343)** In the storage world, we have services to handle the modern data storage needs.
+> **[5:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=343)** In the storage world, we have services to handle the modern [[Data Storage]] needs.
 >
 > **[5:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=348)** There are many different storage types.
 >
@@ -1330,7 +1317,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=368)** Well, this is a desktop and app virtualization service that runs on the cloud.
 >
-> **[6:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=372)** You can set up Windows 10 or Windows 11 desktops, or your employees access them from the Azure Virtual Desktop client.
+> **[6:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=372)** You can set up [[Windows 10]] or [[Windows]] 11 desktops, or your employees access them from the Azure Virtual Desktop client.
 >
 > **[6:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-broad-world-of-azure-services?u=76281980&t=378)** And then finally at the very bottom, we have the web category.
 >
@@ -1352,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (40), cloud (10), web (9), data (7), [[IoT]] (7)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (40), [[IoT]] (7), [[DevOps]] (5), [[Microsoft]] (3), [[Microsoft Entra ID|Azure active directory]] (2)
 > **CLI Commands:** find (7), make (3), docker (1), mysql (1)
 > **Definitions:** is a  (3), is an  (2), refers to (1), known as (1)
 > **Env Vars:** sql (2), rdbms (1), api (1), dns (1), vpn (1)
@@ -1361,12 +1348,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Tools:** github (1)
 
-#### A quick tour of the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980)
+#### [A quick tour of the Azure portal](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=0)** - [Narrator] The first place most of us look after getting an Azure account is here on the Azure portal at portal.[azure.com](https://azure.com).
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=0)** - [Narrator] The first place most of us look after getting an [[Microsoft Azure|Azure]] account is here on the Azure portal at portal.[azure.com](https://azure.com).
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=7)** This is where you provision your services via templates.
 >
@@ -1406,15 +1392,15 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=74)** Below the top three links is a section called Favorites.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=77)** Now, when you first start Azure, this will be filled with favorites or services that Microsoft thinks you are interested in using.
+> **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=77)** Now, when you first start Azure, this will be filled with favorites or services that [[Microsoft]] thinks you are interested in using.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=84)** As you start working in Azure, this will change based on what services you use.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=88)** Here you can see some of the common services like Apps Services, Virtual machines, and SQL databases.
+> **[1:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=88)** Here you can see some of the common services like Apps Services, [[Virtual Machines]], and [[SQL]] [[Databases]].
 >
 > **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=94)** Now you notice when I hover over one of these, a flyout appears and I can do some actions.
 >
-> **[1:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=99)** So I can create a new SQL server database, I can view my existing databases, I can see my existing resources I've worked with, I can see links like Overview, Get started, and Documentation.
+> **[1:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=99)** So I can create a new [[Microsoft SQL Server|SQL server]] database, I can view my existing databases, I can see my existing resources I've worked with, I can see links like Overview, Get started, and Documentation.
 >
 > **[1:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-the-azure-portal?u=76281980&t=109)** And yes, if I click on this, it takes me over to the documentation site that we looked at in an earlier video.
 >
@@ -1456,7 +1442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), database (3), [[Virtual Machines]] (2), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Virtual Machines]] (2), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (5)
 > **Env Vars:** sql (3)
 > **Prerequisites:** set up (3)
@@ -1470,12 +1456,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick tour of Azure app service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980)
+#### [A quick tour of Azure app service](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=0)** - [Instructor] Azure App Service is a cornerstone of Microsoft Azure's cloud offerings.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] App Service is a cornerstone of [[Microsoft Azure]]'s cloud offerings.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=4)** It acts as a virtual web server in the cloud.
 >
@@ -1485,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=21)** A web server, as many of you might know, is a specialized computer system or software application that handles requests from clients, typically web browsers or other software applications, and responds by delivering the requested webpages or data.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=35)** This process involves several critical components, including server hardware, operating systems, networking protocols, and server-side software.
+> **[0:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=35)** This process involves several critical components, including server [[Hardware]], operating systems, networking protocols, and server-side software.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=43)** The location and nature of these servers has evolved significantly over the years.
 >
@@ -1503,13 +1488,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=79)** Each of these options offers varying levels of control, performance, and cost, allowing the business to select the best fit for their needs.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=87)** Setting up a web server also requires considerations for security, scalability, and maintenance, ensuring that the server can handle traffic efficiently and remain secure against potential threats.
+> **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=87)** Setting up a web server also requires considerations for security, [[Scalability]], and maintenance, ensuring that the server can handle traffic efficiently and remain secure against potential threats.
 >
 > **[1:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=98)** As your app service falls into the cloud category and provides all the necessary tools to make it easy to deploy and manage your web applications, APIs, and other project, it serves as your virtual web server in the cloud.
 >
 > **[1:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=110)** There are several choices available for publishing to the internet.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=113)** In the Microsoft cloud, the Azure App Service is the best choice for most web apps and services, and is the focus of this chapter.
+> **[1:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=113)** In the [[Microsoft]] cloud, the Azure App Service is the best choice for most web apps and services, and is the focus of this chapter.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=120)** It stands out as a robust and scalable solution.
 >
@@ -1517,9 +1502,9 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=135)** Service Fabric is a good choice if you're creating a new app or rewriting an existing app to use microservice architecture.
 >
-> **[2:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=142)** Service Fabric makes it easy to develop, package, deploy, and manage containerized and non-containerized microservices.
+> **[2:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=142)** Service Fabric makes it easy to develop, package, deploy, and manage containerized and non-containerized [[Microservices]].
 >
-> **[2:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=150)** If you really want to manage your own service, use Azure Virtual Machines or the Azure Container tools.
+> **[2:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=150)** If you really want to manage your own service, use Azure [[Virtual Machines]] or the Azure Container tools.
 >
 > **[2:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=155)** If you are considering this, you are responsible for correctly configuring and securing the VM or container.
 >
@@ -1527,7 +1512,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=164)** Check out some other videos in this course to learn more about Azure VMs.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=168)** To clarify where each of these options stands in the service areas, virtual machines is infrastructure as a service, while App Service and Service Fabric are platform as a service, Azure App Service is a fully managed platform as a service offering.
+> **[2:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=168)** To clarify where each of these options stands in the service areas, virtual machines is [[IaaS|infrastructure as a service]], while App Service and Service Fabric are [[PaaS|platform as a service]], Azure App Service is a fully managed platform as a service offering.
 >
 > **[3:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=182)** Let's review what platform as a service means.
 >
@@ -1553,11 +1538,11 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=239)** It supports a wide range of server-side programming languages, and frameworks.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=243)** As of now, it supports the following frameworks, [asp.net](https://asp.net) and [asp.net](https://asp.net) core.
+> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=243)** As of now, it supports the following frameworks, [[[ASP.NET]]](https://asp.net) and [asp.net](https://asp.net) core.
 >
-> **[4:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=249)** It supports Java as a language, Node.js, PHP, Python, and the Microsoft languages, C sharp, F sharp, and visual basic.
+> **[4:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=249)** It supports [[Java]] as a language, [[Node.js]], [[PHP]], [[Python (Programming Language)|Python]], and the Microsoft languages, C sharp, F sharp, and visual basic.
 >
-> **[4:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=257)** You can also run PowerShell and other scripts or executables as background services.
+> **[4:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=257)** You can also run [[Powershell]] and other scripts or executables as background services.
 >
 > **[4:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=262)** This flexibility allows developers to use the language and framework they are most comfortable with.
 >
@@ -1567,7 +1552,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=280)** You can choose from a list of pre-configured servers.
 >
-> **[4:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=283)** First, select the operating system, either Windows or Linux, and then choose a pricing tier.
+> **[4:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=283)** First, select the operating system, either [[Windows]] or [[Linux]], and then choose a pricing tier.
 >
 > **[4:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=288)** Once you've chosen your pricing tier, you can create a new app or service.
 >
@@ -1583,11 +1568,11 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=319)** This provides greater control over the application environment and makes it easier to manage dependencies.
 >
-> **[5:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=325)** It is optimized for DevOps.
+> **[5:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=325)** It is optimized for [[DevOps]].
 >
-> **[5:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=326)** It supports continuous integration and deployment.
+> **[5:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=326)** It supports [[Continuous Integration (CI)|continuous integration]] and deployment.
 >
-> **[5:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=329)** It works with Azure DevOps, GitHub, Bitbucket, Docker Hub, or Azure Container Registry.
+> **[5:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=329)** It works with Azure DevOps, [[GitHub]], [[Bitbucket]], Docker Hub, or Azure Container Registry.
 >
 > **[5:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=336)** This makes it easier for teams to collaborate and deliver updates more quickly.
 >
@@ -1605,11 +1590,11 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=369)** Azure functions, on the other hand, is a serverless compute service that lets you run event triggered code without having to explicitly provision or manage infrastructure.
 >
-> **[6:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=378)** This makes it ideal for building microservices and real-time data processing systems.
+> **[6:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=378)** This makes it ideal for building microservices and [[Real-Time]] [[Data Processing]] systems.
 >
 > **[6:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=383)** App Service is ISO, SOC, and PCI compliant.
 >
-> **[6:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=387)** You can authenticate users with Microsoft Entra ID or with social logins like Google, Facebook, and Microsoft accounts.
+> **[6:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=387)** You can authenticate users with [[Microsoft Entra ID]] or with social logins like [[Google]], Facebook, and Microsoft accounts.
 >
 > **[6:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980&t=394)** Plus, you can create IP address restrictions and manage service identities.
 >
@@ -1621,7 +1606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (20), [[Microsoft Azure|Azure]] (17), cloud (10), [[Microsoft]] (5), application (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft]] (5), [[PaaS|Platform as a service]] (3), [[DevOps]] (3), [[Scalability]] (2)
 > **Definitions:** is a  (10), means that (1), known as (1)
 > **CLI Commands:** make (2), docker (2), node (1), php (1), python (1)
 > **Env Vars:** api (1), php (1), iso (1), soc (1), pci (1)
@@ -1630,16 +1615,15 @@ created: 2026-05-02
 > **URLs:** [asp.net](https://asp.net) (2)
 > **UI Navigation:** select the (2)
 
-#### Relationship between Azure app service and app service plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980)
+#### [Relationship between Azure app service and app service plan](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=0)** - [Instructor] I'd like to clarify the relationship between an Azure App service plan and an Azure App service.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=0)** - [Instructor] I'd like to clarify the relationship between an [[Microsoft Azure|Azure]] App service plan and an Azure App service.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=5)** An app service plan in Azure represents a set of resources that are allocated for an app service.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=11)** These resources include the underlying virtual machines that run the app service, as well as other infrastructure components such as storage and networking resources.
+> **[0:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=11)** These resources include the underlying [[Virtual Machines]] that run the app service, as well as other infrastructure components such as storage and networking resources.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=20)** An app service is hosted on one app service plan.
 >
@@ -1647,7 +1631,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=25)** The app service is the actual web app or service running on resources defined by the app service plan.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=31)** When you create an app service, you associate it with an app service plan, which determines its performance characteristics such as scalability and reliability.
+> **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=31)** When you create an app service, you associate it with an app service plan, which determines its performance characteristics such as [[Scalability]] and reliability.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=39)** To create a plan, go to the Azure Portal and find the app service plan item and choose Create.
 >
@@ -1657,7 +1641,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=48)** I'm picking an operating system.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=50)** I've got a choice of Linux or Windows.
+> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=50)** I've got a choice of [[Linux]] or [[Windows]].
 >
 > **[0:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/relationship-between-azure-app-service-and-app-service-plan?u=76281980&t=52)** Next, choose the pricing plan.
 >
@@ -1697,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), web (2), [[Virtual Machines]] (1), [[Scalability]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Virtual Machines]] (1), [[Scalability]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** acu (2), p1v3 (1), cpu (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1706,16 +1690,15 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Definitions:** stands for (1)
 
-#### Build a new app service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980)
+#### [Build a new app service](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=0)** - [Instructor] When it's time to create an Azure App Service, we need to decide which App Service plan to use.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=0)** - [Instructor] When it's time to create an [[Microsoft Azure|Azure]] App Service, we need to decide which App Service plan to use.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=4)** Remember, the service plan represents a set of resources allocated for the service.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=9)** These resources include the underlying virtual machines that run the App Service, as well as other infrastructure components like storage and networking resources.
+> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=9)** These resources include the underlying [[Virtual Machines]] that run the App Service, as well as other infrastructure components like storage and networking resources.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=17)** So we need to either create a new service plan or use an existing one.
 >
@@ -1737,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=54)** Choose this option for dynamic web applications where the content is generated by server-side code.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=59)** It provides a fully managed platform for building, deploying, and scaling web applications using popular programming languages such as .NET, Java, Node.js, Python, and PHP.
+> **[0:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=59)** It provides a fully managed platform for building, deploying, and scaling web applications using popular programming languages such as .NET, [[Java]], [[Node.js]], [[Python (Programming Language)|Python]], and [[PHP]].
 >
 > **[1:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=70)** It includes features like automatic scaling, load balancing, continuous deployment, and monitoring.
 >
@@ -1773,7 +1756,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=135)** It's tailored to a developer's daily workflow with apps built and deployed based on code changes.
 >
-> **[2:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=141)** This provides features like web hosting for static content, integrated API support provided by Azure Functions, first class GitHub and Azure DevOps integration, globally distributed static content, free SSL certificates, custom domains, seamless security model, authentication provider integration.
+> **[2:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=141)** This provides features like web hosting for static content, integrated API support provided by Azure Functions, first class [[GitHub]] and Azure [[DevOps]] integration, globally distributed static content, free SSL certificates, custom domains, seamless security model, authentication provider integration.
 >
 > **[2:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=160)** It has customizable authorization, role definition and assignments and many more.
 >
@@ -1783,13 +1766,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=177)** There is an option to set up a service with a database so we can deploy data-driven applications.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=181)** This allows you to build robust applications that can leverage the scalability, reliability, and security of Azure while interacting with relational database services.
+> **[3:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=181)** This allows you to build robust applications that can leverage the [[Scalability]], reliability, and security of Azure while interacting with relational database services.
 >
 > **[3:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=190)** Here, I'm choosing the database.
 >
-> **[3:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=191)** I have several options, including SQL Azure, PostgreSQL, MySQL, and Cosmos for MongoDB.
+> **[3:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=191)** I have several options, including [[SQL]] Azure, [[PostgreSQL]], [[MySQL]], and Cosmos for [[MongoDB]].
 >
-> **[3:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=199)** App Service also supports hosting WordPress websites, which is a popular open-source content management system.
+> **[3:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=199)** App Service also supports hosting [[WordPress]] websites, which is a popular open-source [[Content Management]] system.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=205)** Azure provides a fully managed, scalable, and performant WordPress hosting solution.
 >
@@ -1801,13 +1784,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=224)** The type of content you create will depend on what type of website or web app you want.
 >
-> **[3:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=229)** You can have a simple static HTML site, or you can build complex applications based on programming languages.
+> **[3:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=229)** You can have a simple static [[HTML]] site, or you can build complex applications based on programming languages.
 >
 > **[3:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=236)** Azure App Service supports all of these and more.
 >
 > **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=239)** There are plenty of ways to create this content.
 >
-> **[4:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=241)** I won't dive into all the details here, but if you're using Microsoft Visual Studio or Visual Studio Code, they have handy tools to help you publish your content to Azure App Service.
+> **[4:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=241)** I won't dive into all the details here, but if you're using [[Microsoft]] Visual Studio or Visual Studio Code, they have handy tools to help you publish your content to Azure App Service.
 >
 > **[4:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-a-new-app-service?u=76281980&t=251)** Once the app is ready, the files that make up the site are deployed to App Service just like you would with your own web server or another hosting service.
 >
@@ -1817,7 +1800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), web (15), next (4), database (3), [[WordPress]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[WordPress]] (3), [[Java]] (2), [[Node.js]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** node (2), python (2), php (2), make (2), docker (1)
 > **Env Vars:** net (2), php (2), api (1), ssl (1), sql (1)
 > **Cross-References:** later in (2), in the next (1)
@@ -1826,12 +1809,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1), just like (1)
 > **File Paths:** node.js (2)
 
-#### Explore a web app on app service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980)
+#### [Explore a web app on app service](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=0)** - [Instructor] What we're looking at here is an [ASP.NET](https://ASP.NET) website that I created in Visual Studio, and I have deployed it as a web app in Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=0)** - [Instructor] What we're looking at here is an [[[ASP.NET]]](https://ASP.NET) website that I created in Visual Studio, and I have deployed it as a web app in [[Microsoft Azure|Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=9)** So this is the site we're looking at.
 >
@@ -1861,9 +1843,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=61)** There's one instance, there's one application inside this app service plan.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=66)** It's running on Windows, and there's some other information here about the subscription.
+> **[1:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=66)** It's running on [[Windows]], and there's some other information here about the subscription.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=71)** If I scroll down the page, I can see some statistics about how much memory is being used, data coming in and out of the application, CPU percentage and so on.
+> **[1:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=71)** If I scroll down the page, I can see some [[Statistics]] about how much memory is being used, data coming in and out of the application, CPU percentage and so on.
 >
 > **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=79)** I can see information about the file storage system over here.
 >
@@ -1903,11 +1885,11 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=154)** What we've seen in this chapter is that we can create app service plans, we can create app service, and then we can put our websites or our web APIs into those.
 >
-> **[2:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=162)** And then you can use the web portal or the Azure CLI to manage your service plans and your app services.
+> **[2:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-a-web-app-on-app-service?u=76281980&t=162)** And then you can use the web portal or the Azure [[CLI]] to manage your service plans and your app services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Microsoft Azure|Azure]] (3), application (2), [[Windows]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Windows]] (2), [[Statistics]] (2), [[ASP.NET]] (1), [[CLI]] (1)
 > **Env Vars:** asp (1), net (1), cpu (1), cli (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **CLI Commands:** find (2)
@@ -1921,8 +1903,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Host Web APIs on app service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980)
+#### [Host Web APIs on app service](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,7 +1915,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=12)** For example, it's possible to post a tweet using the Twitter API.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=16)** In Azure, these were once called Azure API apps.
+> **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=16)** In [[Microsoft Azure|Azure]], these were once called Azure API apps.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=19)** Now they are just another site that can be hosted in an app service.
 >
@@ -1952,9 +1933,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=37)** Then we need to build the API code.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=39)** Most APIs today are REST based, so we would need to code a REST component that does the work of the API.
+> **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=39)** Most APIs today are [[Representational State Transfer (REST)|REST]] based, so we would need to code a REST component that does the work of the API.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=45)** An API app can be developed in any technology that you can use to develop a REST API, such [ASB.NET](https://ASB.NET), Java, PHP, and other languages.
+> **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=45)** An API app can be developed in any technology that you can use to develop a REST API, such [ASB.NET](https://ASB.NET), [[Java]], [[PHP]], and other languages.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=54)** While the documentation on Azure implies that there are some extra features available for API apps and app services, that's not a very accurate portrayal.
 >
@@ -1978,13 +1959,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=120)** It can be added to any app service.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=122)** Finally, it's common nowadays for companies to build lots of APIs and microservices.
+> **[2:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=122)** Finally, it's common nowadays for companies to build lots of APIs and [[Microservices]].
 >
-> **[2:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=127)** In the next video, we'll look at Azure API Management Tools.
+> **[2:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980&t=127)** In the next video, we'll look at Azure [[API Management]] Tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (18), [[Microsoft Azure|Azure]] (10), web (5), [[Representational State Transfer (REST)|Rest]] (3), feature (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Representational State Transfer (REST)|Rest]] (3), [[Java]] (1), [[PHP]] (1), [[Microservices]] (1)
 > **Env Vars:** api (18), cors (4), rest (3), asb (1), net (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1993,12 +1974,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 
-#### Manage APIs with Azure API management service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980)
+#### [Manage APIs with Azure API management service](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=0)** - [Narrator] Azure API Management tools provide a reliable way to publish, consume, and manage the execution of APIs over the Azure platform.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=0)** - [Narrator] [[Microsoft Azure|Azure]] [[API Management]] tools provide a reliable way to publish, consume, and manage the execution of APIs over the Azure platform.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=8)** It's possible your company has multiple APIs available.
 >
@@ -2048,7 +2028,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=101)** So I can click here to add an API, and then I can pick how to do that.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=104)** I can define a brand new API through one of these three items, WebSocket, GraphQL, or HTTP.
+> **[1:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=104)** I can define a brand new API through one of these three items, [[WebSocket]], [[GraphQL]], or HTTP.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=111)** I can create it from a definition if I already have a definition file set up.
 >
@@ -2058,13 +2038,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=123)** Or it's possible to create one from an existing Azure service.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=127)** So for instance, if I've got an app service that is already hosting an [asp.net](https://asp.net) web API, I can just go in here and browse out, look at my existing resources on Azure, pick it, and then tell the Management tools to start managing that API.
+> **[2:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=127)** So for instance, if I've got an app service that is already hosting an [[[ASP.NET]]](https://asp.net) web API, I can just go in here and browse out, look at my existing resources on Azure, pick it, and then tell the Management tools to start managing that API.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=144)** Once you've added your existing APIs or defined your new APIs, then you can go in and create our what called products.
+> **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=144)** Once you've added your existing APIs or defined your new APIs, then you can go in and create our what called [[Microsoft Products|products]].
 >
 > **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=151)** Products let you group APIs, define your terms of use and your runtime policies, then developers and consumers can subscribe to those products, and that's where you see your subscriptions here.
 >
-> **[2:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=162)** And then you also got things like backends available, and also Microsoft's been pushing the Power Platform.
+> **[2:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=162)** And then you also got things like backends available, and also [[Microsoft]]'s been pushing the Power Platform.
 >
 > **[2:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-apis-with-azure-api-management-service?u=76281980&t=168)** And you can see here how to integrate it with PowerApps and Power Automate.
 >
@@ -2094,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), management (8), [[Microsoft Azure|Azure]] (5), [[Microsoft Products|Products]] (4), power (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[API Management]] (5), [[Microsoft Products|Products]] (4), [[WebSocket]] (1), [[GraphQL]] (1)
 > **Env Vars:** api (13), http (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (3)
@@ -2108,12 +2088,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Run serverless code with Azure Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980)
+#### [Run serverless code with Azure Functions](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=0)** - [Instructor] Azure functions is a solution for easily running small pieces of code in the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] functions is a solution for easily running small pieces of code in the cloud.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=5)** You can write just the code you need for the problem at hand without worrying about creating a whole application or building the infrastructure to run it.
 >
@@ -2135,7 +2114,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=59)** Azure function supports a variety of languages and their respective package managers.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=63)** Azure function supports NuGet and npm.
+> **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=63)** Azure function supports NuGet and [[npm]].
 >
 > **[1:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=66)** It supports PIP and Maven, so you can use your favorite libraries.
 >
@@ -2143,17 +2122,17 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=77)** If you're using a package that isn't included in the standard library of your chosen language, you need to include it in your project's dependencies.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=85)** Azure also offers Azure Artifacts, a universal package management service that lets you create, host, and share packages with your team.
+> **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=85)** Azure also offers Azure Artifacts, a universal [[Package Management]] service that lets you create, host, and share packages with your team.
 >
-> **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=94)** This service is part of the Azure DevOps family.
+> **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=94)** This service is part of the Azure [[DevOps]] family.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=97)** If you want to learn more, I have a course on this topic in the LinkedIn learning catalog.
+> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=97)** If you want to learn more, I have a course on this topic in the [[LinkedIn]] learning catalog.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=102)** The main advantage of Azure Functions is its simplicity and cost effectiveness.
 >
 > **[1:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=106)** It allows you to write less code, maintain less infrastructure, and save on costs.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=112)** Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running.
+> **[1:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=112)** Instead of worrying about deploying and maintaining servers, the [[Cloud Infrastructure]] provides all the up-to-date resources needed to keep your applications running.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=120)** A function remains idle until it is requested to execute, triggered by an event known as a trigger.
 >
@@ -2169,7 +2148,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=148)** There's a database-specific trigger called the CosmosDBTrigger.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=152)** This triggers when Azure Cosmos DB processes documents when they're added or updated in the collections in one of their NoSQL databases.
+> **[2:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=152)** This triggers when Azure Cosmos DB processes documents when they're added or updated in the collections in one of their [[NoSQL]] [[Databases]].
 >
 > **[2:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=160)** When Azure Storage blobs are added to containers that triggers the BlobTrigger.
 >
@@ -2197,7 +2176,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=214)** You choose a hosting option.
 >
-> **[3:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=216)** Azure Functions hosting options are facilitated by Azure App Service Infrastructure on both Linux and Windows virtual machines.
+> **[3:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=216)** Azure Functions hosting options are facilitated by Azure App Service Infrastructure on both [[Linux]] and [[Windows]] [[Virtual Machines]].
 >
 > **[3:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=224)** The hosting option impacts how your function app is scaled and the resources available to each function app instance.
 >
@@ -2205,13 +2184,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=234)** You pay only when your function runs with automatic scaling based on incoming events.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=239)** Next is the flex consumption plan, which offers high scalability with pre-provisioned instances and virtual networking for security.
+> **[3:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=239)** Next is the flex consumption plan, which offers high [[Scalability]] with pre-provisioned instances and virtual networking for security.
 >
 > **[4:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=247)** The premium plan provides pre-warmed workers for immediate execution, more control over instances and extended capabilities.
 >
 > **[4:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=254)** The dedicated plan runs functions within an app service plan, ideal for predictable billing and long-running scenarios.
 >
-> **[4:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=261)** And then finally, we have the container apps, deploys containerized functions apps in a managed environment, avoiding Kubernetes complexity and supporting high-end processing power.
+> **[4:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=261)** And then finally, we have the container apps, deploys containerized functions apps in a managed environment, avoiding [[Kubernetes]] complexity and supporting high-end processing power.
 >
 > **[4:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=271)** Once you pick your plan, you create your function app.
 >
@@ -2221,7 +2200,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=279)** On the bottom half of this page, I'm going to set the instance details.
 >
-> **[4:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=283)** For example, if I'm working in Python, I would set that as my runtime stack, and this would be running on Linux.
+> **[4:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=283)** For example, if I'm working in [[Python (Programming Language)|Python]], I would set that as my runtime stack, and this would be running on Linux.
 >
 > **[4:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=289)** If I'm working at .NET, then I pick version eight and I'm running on Windows.
 >
@@ -2241,9 +2220,9 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=320)** I'm doing this in the portal, but if you prefer, you can also do it in your code.
 >
-> **[5:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=324)** So if you're writing in Java or .NET, you use attributes in your code to specify the trigger that you want.
+> **[5:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=324)** So if you're writing in [[Java]] or .NET, you use attributes in your code to specify the trigger that you want.
 >
-> **[5:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=330)** If you're working in the other languages, then you specify it in a JSON file.
+> **[5:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=330)** If you're working in the other languages, then you specify it in a [[JSON]] file.
 >
 > **[5:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=334)** In this example, I'm back on the portal.
 >
@@ -2283,7 +2262,7 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=400)** Azure functions are a lightweight and serverless compute service.
 >
-> **[6:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=403)** There is no need to set up web servers or other infrastructure.
+> **[6:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=403)** There is no need to set up [[Web Servers]] or other infrastructure.
 >
 > **[6:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980&t=407)** They are compute on demand.
 >
@@ -2293,7 +2272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), data (7), cloud (3), [[LinkedIn]] (2), power (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[LinkedIn]] (2), [[Linux]] (2), [[Windows]] (2), [[npm]] (1)
 > **Env Vars:** url (3), net (2), pip (1), http (1), json (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** npm (1), pip (1), python (1), find (1)
@@ -2302,18 +2281,17 @@ created: 2026-05-02
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **UI Navigation:** click on (1)
 
-#### Building powerful workflows with logic apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980)
+#### [Building powerful workflows with logic apps](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=0)** - [Presenter] Azure Logic Apps and Power Automate are both powerful services provided by Microsoft that excel at automating business workflows.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=0)** - [Presenter] [[Microsoft Azure|Azure]] Logic Apps and Power Automate are both powerful services provided by [[Microsoft]] that [[Microsoft Excel|excel]] at automating business workflows.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=8)** Azure Logic Apps targets IT professionals and developers, whereas Power Automate is designed for business users and citizen developers.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=16)** A citizen developer in this context refers to a non-professional developer who creates applications or automates workflows using tools that require little or no coding knowledge.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=25)** Power Automate provides a user-friendly and focused-experience within Microsoft 365.
+> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=25)** Power Automate provides a user-friendly and focused-experience within [[Microsoft 365]].
 >
 > **[0:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=30)** Azure Logic Apps is a cloud service that helps you schedule, automate and orchestrate tasks, business processes and workflows when you need to integrate apps, data, systems, and services across enterprises and organizations.
 >
@@ -2329,7 +2307,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=65)** It starts with a trigger, such as receiving an email or a new file being added to a folder, and then performs a sequence of actions based on that trigger.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=74)** These actions can include tasks like sending notifications, updating databases, or integrating with other services.
+> **[1:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=74)** These actions can include tasks like sending notifications, updating [[Databases]], or integrating with other services.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=80)** The workflow is designed using a visual interface, making it easy to connect different tasks and services without needing to write code.
 >
@@ -2369,13 +2347,13 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=180)** Here are some examples.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=181)** There are Microsoft Office connectors like Outlook, Excel, OneDrive, and SharePoint.
+> **[3:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=181)** There are [[Microsoft Office]] connectors like [[Microsoft Outlook|Outlook]], Excel, [[Microsoft OneDrive|OneDrive]], and [[SharePoint]].
 >
-> **[3:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=185)** There are lots of database connectors I see, SQL Server, Amazon Redshift, data Warehouse, and MySQL.
+> **[3:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=185)** There are lots of database connectors I see, [[Microsoft SQL Server|SQL Server]], Amazon Redshift, data Warehouse, and [[MySQL]].
 >
 > **[3:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=192)** You can send bulk email with MailChimp and work with short links in Bitly.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=196)** All the social networks are available including LinkedIn, Pinterest, and Facebook, and there are connectors for interacting with Google apps like Calendar and mail.
+> **[3:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=196)** All the social networks are available including [[LinkedIn]], Pinterest, and Facebook, and there are connectors for interacting with [[Google]] apps like Calendar and mail.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=205)** All logic apps start with a trigger which defines the events that initiate and start a workflow.
 >
@@ -2395,7 +2373,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=240)** For example, in the Outlook connector, we can get the contact and the email body of an email.
 >
-> **[4:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=246)** Then later in the workflow, we can use that information to create a Slack message or create a Google Calendar event.
+> **[4:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=246)** Then later in the workflow, we can use that information to create a [[Slack]] message or create a Google Calendar event.
 >
 > **[4:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=252)** Let's try and clarify with the diagram.
 >
@@ -2409,7 +2387,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=272)** Remember that each operation defines definitions, the data that is utilized by the workflow.
 >
-> **[4:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=277)** In our example, we can use the email subject and body to compose the Slack message.
+> **[4:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=277)** In our example, we can use the email subject and body to [[Jetpack Compose|compose]] the Slack message.
 >
 > **[4:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=282)** One useful feature we have is the designer tool available in the Azure portal and Visual Studio.
 >
@@ -2421,7 +2399,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=294)** There's over 200 available.
 >
-> **[4:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=296)** Here's a connector for working with Office 365 Outlook.
+> **[4:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=296)** Here's a connector for working with [[Microsoft Office|Office]] 365 Outlook.
 >
 > **[4:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/building-powerful-workflows-with-logic-apps?u=76281980&t=299)** Yes, the official new name is Microsoft 365, but that change hasn't shown up in the Logic App connectors yet.
 >
@@ -2461,7 +2439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Azure|Azure]] (9), power (6), [[Microsoft Outlook|Outlook]] (6), business (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft Outlook|Outlook]] (6), [[Microsoft]] (4), [[Microsoft 365]] (4), [[Slack]] (4)
 > **Env Vars:** edi (2), ftp (1), api (1), sql (1), http (1)
 > **Tools:** slack (4), azure portal (1), visual studio (1)
 > **Definitions:** is a  (5)
@@ -2475,16 +2453,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick tour of Azure Storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980)
+#### [A quick tour of Azure Storage](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=0)** - [Presenter] Azure has a variety of services that are optimized for storing data in the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=0)** - [Presenter] [[Microsoft Azure|Azure]] has a variety of services that are optimized for storing data in the cloud.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=4)** Data comes in many forms and formats, so the services cater to these various shapes.
+> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=4)** Data comes in many [[Forms]] and formats, so the services cater to these various shapes.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=10)** Databases are one type of storage.
+> **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=10)** [[Databases]] are one type of storage.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=12)** I'll wager it's one of the first solutions that comes to your mind when you think about storing data.
 >
@@ -2506,7 +2483,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=45)** Each Storage service is optimized for a specific usage scenario.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=49)** Blob storage provides some client libraries and a REST interface that allow unstructured data to be stored and accessed at a massive scale.
+> **[0:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=49)** Blob storage provides some client libraries and a [[Representational State Transfer (REST)|REST]] interface that allow [[Unstructured Data]] to be stored and accessed at a massive scale.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=56)** It is perfect for storing audio and video files, and you can stream those as requested.
 >
@@ -2520,7 +2497,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=71)** Data stored in the cloud grows at an exponential pace.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=74)** To manage costs for your expanding data storage needs, it's helpful to organize your data based on attributes like frequency of access and planned retention periods to optimize costs.
+> **[1:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=74)** To manage costs for your expanding [[Data Storage]] needs, it's helpful to organize your data based on attributes like frequency of access and planned retention periods to optimize costs.
 >
 > **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=85)** Azure Storage offers different access tiers, which allows you to store your data in the most cost effective manner.
 >
@@ -2534,7 +2511,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=131)** With this feature, a user can allow access to a private asset for a specific amount of time.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=136)** Popular operating systems like Windows, Mac OS, and Linux can directly mount Azure file shares wherever they are in the world.
+> **[2:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=136)** Popular operating systems like [[Windows]], Mac OS, and [[Linux]] can directly mount Azure file shares wherever they are in the world.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=144)** A good use for this is when you want to lift and shift an application to the cloud which already uses the native file system APIs to share data between it and other applications running in Azure.
 >
@@ -2548,7 +2525,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=172)** Now let's talk about Disk Storage.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=174)** These are disks for virtual machines.
+> **[2:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=174)** These are disks for [[Virtual Machines]].
 >
 > **[2:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=176)** Just like any other computer, virtual machines in Azure use disks as a place to store their operating system, applications, and data.
 >
@@ -2560,13 +2537,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=198)** This is useful when you want to store data that is not required to be accessed from outside the virtual machine to which the disc is attached.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=205)** You choose the level of hardware.
+> **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=205)** You choose the level of [[Hardware]].
 >
 > **[3:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=206)** You can have standard HDD drives, and you can do standard or premium SSDs.
 >
 > **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=211)** The better the hardware, the more it costs.
 >
-> **[3:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=213)** Azure Table Storage is a service that stores non-relational structured data, also known as No-SQL data, in the cloud.
+> **[3:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=213)** Azure Table Storage is a service that stores non-relational structured data, also known as No-[[SQL]] data, in the cloud.
 >
 > **[3:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=221)** It provides a key-value attribute store with a schemeless design.
 >
@@ -2590,15 +2567,15 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=276)** So that's a brief look at Azure Storage.
 >
-> **[4:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=279)** There are other services which I didn't cover, like Azure Backup, a simple, secure, and cost effective solution to backup data and recover it from the Microsoft Azure Cloud.
+> **[4:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=279)** There are other services which I didn't cover, like Azure Backup, a simple, secure, and cost effective solution to backup data and recover it from the [[Microsoft Azure]] Cloud.
 >
 > **[4:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=288)** Then there is Azure Data Lake Storage.
 >
-> **[4:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=290)** Data lakes are a centralized repository that allow you to store all your structured and unstructured data in one place, then run data analytics across the lake.
+> **[4:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980&t=290)** [[Data Lakes]] are a centralized repository that allow you to store all your structured and unstructured data in one place, then run data analytics across the lake.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Microsoft Azure|Azure]] (22), cloud (5), [[Virtual Machines]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Virtual Machines]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Unstructured Data]] (2), [[Hardware]] (2)
 > **Env Vars:** rest (1), url (1), sas (1), hdd (1), sql (1)
 > **Definitions:** is a  (2), known as (1), refers to (1)
 > **Prerequisites:** configure (2), required to (1)
@@ -2606,12 +2583,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [presenter] (1)
 
-#### Store any kind of object in blob storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980)
+#### [Store any kind of object in blob storage](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=0)** - [Instructor] Let's explore Azure Blob storage, one of the options for putting data in a storage account.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=0)** - [Instructor] Let's explore [[Microsoft Azure|Azure]] Blob storage, one of the options for putting data in a storage account.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=5)** It's designed to store unstructured files; that's just a way of saying that we can store any type of file There is no structure required for the file type.
 >
@@ -2633,7 +2609,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=37)** Every object that you store in Azure storage has an address and includes this unique account name.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=42)** So you can find it at BigPicture; that's my chosen name, .blob.core.[windows.net](https://windows.net).
+> **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=42)** So you can find it at BigPicture; that's my chosen name, .blob.core.[[[Windows]].net](https://windows.net).
 >
 > **[0:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/store-any-kind-of-object-in-blob-storage?u=76281980&t=49)** Next, we configure the storage services.
 >
@@ -2667,7 +2643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), data (3), [[Windows]] (2), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Windows]] (2)
 > **Env Vars:** blob (4), url (2), mp3 (1), pdf (1)
 > **URLs:** [windows.net](https://windows.net) (2)
 > **Definitions:** is a  (2)
@@ -2676,14 +2652,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blob storage example
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/blob-storage-example?u=76281980)
+#### [Blob storage example](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/blob-storage-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/blob-storage-example?u=76281980&t=0)** - [Instructor] Start by looking at All services, then we'll go to Storage and look at Storage accounts.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/blob-storage-example?u=76281980&t=5)** You have to set up at least one storage account to start working with Azure Storage.
+> **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/blob-storage-example?u=76281980&t=5)** You have to set up at least one storage account to start working with [[Microsoft Azure|Azure]] Storage.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/blob-storage-example?u=76281980&t=8)** I've got three set up on my account.
 >
@@ -2739,19 +2714,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **UI Navigation:** click on (3), go to (2)
 > **Env Vars:** url (3), md5 (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### File share example
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980)
+#### [File share example](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=0)** - [Instructor] Another way of working with files in Azure Storage is using the file service.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=0)** - [Instructor] Another way of working with files in [[Microsoft Azure|Azure]] Storage is using the file service.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=5)** Now, in the last video, we looked at blob service and now we're looking at file service.
 >
@@ -2775,7 +2749,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=46)** So click here and I can see that I've got one folder and three files.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=51)** Now these are PowerPoint files that I'm using for this course.
+> **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=51)** Now these are [[Microsoft PowerPoint|PowerPoint]] files that I'm using for this course.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=54)** The way I added them was through the portal by clicking on upload and then selecting the files and uploading.
 >
@@ -2793,17 +2767,17 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=88)** That'll give you the script to use.
 >
-> **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=91)** Since I'm running a Windows virtual machine, I will choose Windows.
+> **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=91)** Since I'm running a [[Windows]] virtual machine, I will choose Windows.
 >
 > **[1:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=95)** You get to choose your authentication method.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=97)** Why do you want to use active directory or a storage key?
+> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=97)** Why do you want to use [[Active Directory]] or a storage key?
 >
 > **[1:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=100)** The storage key is already retrieved and is shown here in this script, but you can also get to that by looking at your storage account.
 >
 > **[1:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=110)** This is just the easiest way to do it though.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=112)** I'll go scroll down to the bottom and copy this, and then this is a script that I'll run in PowerShell.
+> **[1:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=112)** I'll go scroll down to the bottom and copy this, and then this is a script that I'll run in [[Powershell]].
 >
 > **[1:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/file-share-example?u=76281980&t=118)** So let me switch over to my virtual machine to do that.
 >
@@ -2855,7 +2829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), cloud (3), [[Windows]] (3), [[Powershell]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Windows]] (3), [[Powershell]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Active Directory]] (1)
 > **Tools:** powershell (2), azure portal (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** make (1)
@@ -2869,32 +2843,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick tour of Azure databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980)
+#### [A quick tour of Azure databases](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=0)** - [Instructor] Database systems are used to collect, organize, and manage large volumes of data.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=0)** - [Instructor] [[Database Systems]] are used to collect, organize, and manage large volumes of data.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=5)** They are a valuable part of any organization infrastructure.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=9)** Microsoft Azure offers a variety of database services that are secure, enterprise-grade, and fully managed.
+> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=9)** [[Microsoft Azure]] offers a variety of database services that are secure, enterprise-grade, and fully managed.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=15)** There's also support for open-source database engines and self-hosted implementations.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=20)** We'll explore some of these options.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=22)** Azure SQL Database is a fully managed database engine.
+> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=22)** [[Microsoft Azure|Azure]] [[SQL]] Database is a fully managed database engine.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=26)** It falls in the platform as a service category.
+> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=26)** It falls in the [[PaaS|platform as a service]] category.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=29)** It handles most of the database management functions such as upgrading, patching, backups, and monitoring without user involvement.
+> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=29)** It handles most of the [[Database Management]] functions such as upgrading, patching, backups, and monitoring without user involvement.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=36)** It's ideal for modern cloud native applications due to its fast provisioning, scalability, and elasticity on the database capacity.
+> **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=36)** It's ideal for modern cloud native applications due to its fast provisioning, [[Scalability]], and elasticity on the database capacity.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=44)** Azure SQL database is perfect when you need to store relational database in a transactional system with heavy duty querying capabilities.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=51)** Azure SQL Database is the fully managed cloud equivalent of the on-premises SQL Server product that has been around for decades.
+> **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=51)** Azure SQL Database is the fully managed cloud equivalent of the on-premises [[Microsoft SQL Server|SQL Server]] product that has been around for decades.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=58)** It is a schema-based system where the structure of your data is encoded in the database plan, you store data in tables with rows and columns.
 >
@@ -2908,7 +2881,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=87)** It provides additional features like highly scalable storage and compute performance.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=92)** It's designed to handle large databases with ease, supporting up to 100 terabyte of data.
+> **[1:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=92)** It's designed to handle large [[Databases]] with ease, supporting up to 100 terabyte of data.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=97)** Key features include rapid scaling of computer resources, high transaction log throughput, and fast database backups and restores.
 >
@@ -2918,13 +2891,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=116)** This provides a cloud-based platform for running SQL Server workloads.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=119)** It offers the full version of SQL Server with the additional benefits of Azure Cloud infrastructure.
+> **[1:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=119)** It offers the full version of SQL Server with the additional benefits of Azure [[Cloud Infrastructure]].
 >
 > **[2:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=125)** You can take advantage of the pay as you go licensing model and deploy in various regions globally.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=130)** This service is tailored for businesses looking to migrate their SQL Server databases to the cloud, aiming to minimize hardware management while optimizing cost efficiency.
+> **[2:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=130)** This service is tailored for businesses looking to migrate their SQL Server databases to the cloud, aiming to minimize [[Hardware]] management while optimizing cost efficiency.
 >
-> **[2:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=140)** Microsoft has put a lot of thought and effort into building their next database platform.
+> **[2:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=140)** [[Microsoft]] has put a lot of thought and effort into building their next database platform.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=145)** It's called CosmosDB.
 >
@@ -2932,7 +2905,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=151)** It is a globally distributed multimodal database service that supports documents store, key value, wide column, and graph databases.
 >
-> **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=159)** That means if you have non-relational or NoSQL data, this is a good candidate for storage.
+> **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=159)** That means if you have non-relational or [[NoSQL]] data, this is a good candidate for storage.
 >
 > **[2:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=165)** Essentially, Microsoft has created a universal backend for different kinds of NoSQL databases.
 >
@@ -2944,7 +2917,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=194)** In the realm of open source relational database management systems, three names often stand out.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=199)** MariaDB, PostgreSQL, and MySQL.
+> **[3:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=199)** MariaDB, [[PostgreSQL]], and [[MySQL]].
 >
 > **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=203)** In recent years, Microsoft has shown a growing commitment to the open source community.
 >
@@ -2958,13 +2931,13 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=232)** With automated operations and strong security, it's perfect for hybrid scenarios and cutting down on maintenance hassles.
 >
-> **[3:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=238)** If you're using MongoDB, check out MongoDB Atlas on Azure.
+> **[3:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=238)** If you're using [[MongoDB]], check out MongoDB Atlas on Azure.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=243)** Enjoy a flexible data model and integrated data architecture with seamless migration and global availability.
+> **[4:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=243)** Enjoy a flexible data model and integrated [[Data Architecture]] with seamless migration and global availability.
 >
 > **[4:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=250)** It's a fully managed platform that lets you run MongoDB workloads smoothly on Azure.
 >
-> **[4:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=256)** Redis Cache is a powerful tool for enhancing application performance, offering fast data access, and high throughput due to its in-memory storage.
+> **[4:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=256)** [[Redis]] Cache is a powerful tool for enhancing application performance, offering fast data access, and high throughput due to its in-memory storage.
 >
 > **[4:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=265)** Azure Cache Redis is a fully managed service that gives you a super fast in-memory data store based on Redis.
 >
@@ -2972,25 +2945,25 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=283)** You can use it for things like distributed data caching, session stores, and message brokering.
 >
-> **[4:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=289)** Your applications get a performance boost thanks to its low latency and high throughput data storage, making it a must have for modern responsive apps.
+> **[4:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=289)** Your applications get a performance boost thanks to its low latency and high throughput [[Data Storage]], making it a must have for modern responsive apps.
 >
 > **[4:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=298)** There are some database-adjacent services that you might find interesting.
 >
 > **[5:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=302)** Some of these belong in the analytics category.
 >
-> **[5:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=305)** Azure Synapse Analytics, formerly known as Azure SQL Data Warehouse, is a limitless analytics service that brings together enterprise data warehousing and big data analytics.
+> **[5:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=305)** Azure Synapse Analytics, formerly known as Azure SQL Data Warehouse, is a limitless analytics service that brings together enterprise [[Data Warehousing]] and [[Big Data Analytics]].
 >
 > **[5:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=317)** With it, you can query both relational and non-relational data using the familiar SQL language.
 >
 > **[5:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=323)** This can be done using serverless on demand queries for data exploration and ad hoc analysis.
 >
-> **[5:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=328)** It deeply integrates with Power BI, providing a valuable tool for business users.
+> **[5:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=328)** It deeply integrates with [[Microsoft Power BI|Power BI]], providing a valuable tool for business users.
 >
 > **[5:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=333)** Additionally, data scientists find it an invaluable resource for coding statistical models with Azure Machine Learning.
 >
 > **[5:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=339)** A data lake is like a giant storage pool where you can keep all your data in its original raw format.
 >
-> **[5:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=346)** Azure's Data Lake is specifically designed for big data, capable of handling everything from terabytes to petabytes of data from various sources, whether it's structured, semi-structured, or unstructured data.
+> **[5:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=346)** Azure's Data Lake is specifically designed for [[Big Data]], capable of handling everything from terabytes to petabytes of data from various sources, whether it's structured, semi-structured, or [[Unstructured Data]].
 >
 > **[5:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980&t=358)** Unlike traditional data warehouses, it stores data as is without transforming it during ingestion, which is great for big data environments where you don't yet know what insights you'll find.
 >
@@ -3008,7 +2981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (24), data (24), [[Microsoft Azure|Azure]] (24), [[SQL]] (11), [[Databases]] (8)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (24), [[SQL]] (11), [[Databases]] (8), [[Microsoft SQL Server|Sql server]] (5), [[Microsoft]] (5)
 > **Env Vars:** sql (16)
 > **Definitions:** is a  (9), known as (1)
 > **CLI Commands:** find (3), mysql (1), apache (1)
@@ -3016,24 +2989,23 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Cosmos DB, the multimodel, no-SQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980)
+#### [Explore Cosmos DB, the multimodel, no-SQL database](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=0)** - [Instructor] The latest database advance from Microsoft is Azure Cosmos DB.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=0)** - [Instructor] The latest database advance from [[Microsoft]] is [[Microsoft Azure|Azure]] Cosmos DB.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=4)** It is a versatile, globally-distributed database service.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=8)** It's designed to effortlessly scale and perform for today's modern applications.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=14)** Think of it as your all-in-one NoSQL and vector database that delivers lightning-fast, single-digit millisecond response times and instant scalability to handle loads of data and traffic.
+> **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=14)** Think of it as your all-in-one [[NoSQL]] and vector database that delivers lightning-fast, single-digit millisecond response times and instant [[Scalability]] to handle loads of data and traffic.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=26)** We've seen the steady rise of non-relational database systems during the internet and machine learning era.
+> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=26)** We've seen the steady rise of non-relational [[Database Systems]] during the internet and machine learning era.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=32)** While relational databases still are viable, non-relational, also known as NoSQL, databases were created to solve important data challenges that relational databases couldn't handle.
+> **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=32)** While [[Relational Databases]] still are viable, non-relational, also known as NoSQL, [[Databases]] were created to solve important data challenges that relational databases couldn't handle.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=43)** The major challenge in modern data collection is how to deal with big data, data that is too big for traditional relational systems to handle.
+> **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=43)** The major challenge in modern [[Data Collection]] is how to deal with [[Big Data]], data that is too big for traditional relational systems to handle.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=51)** Research shows that the trouble arises in three areas: volume, velocity, and variety, also known as the three Vs.
 >
@@ -3057,7 +3029,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=94)** That data has to be efficiently pushed into the database and immediately replicated to avoid data loss.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=101)** Plus, what about real-time querying of that massive amount of data?
+> **[1:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=101)** Plus, what about [[Real-Time]] querying of that massive amount of data?
 >
 > **[1:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=105)** There are over 200 billion tweets per year.
 >
@@ -3095,7 +3067,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=206)** It achieves this through proactive monitoring of data expansion and dynamically adjusts capacity via server-side partitioning.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=214)** Similarly, for data throughput, you determine the desired performance metrics, and Cosmos DB ensures consistent delivery by automatically provisioning data replicas to meet your specific performance targets.
+> **[3:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=214)** Similarly, for data throughput, you determine the desired [[Performance Metrics]], and Cosmos DB ensures consistent delivery by automatically provisioning data replicas to meet your specific performance targets.
 >
 > **[3:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=226)** And this reduces latency.
 >
@@ -3131,9 +3103,9 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=325)** Each API works with the underlying ARS data model, but presents the data in the specific style of the chosen API.
 >
-> **[5:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=332)** For example, let's assume you need to work with JSON Documents.
+> **[5:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=332)** For example, let's assume you need to work with [[JSON]] Documents.
 >
-> **[5:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=335)** In that case, you'd use the SQL API.
+> **[5:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=335)** In that case, you'd use the [[SQL]] API.
 >
 > **[5:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=339)** It lets you work with document data using a familiar SQL syntax that's been extended to support JSON.
 >
@@ -3161,7 +3133,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=404)** The Table API is perfect for large-scale applications that need a wide column store, that can easily scale.
 >
-> **[6:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=410)** It supports a variety of SDKs, including .NET, Java, Python, Node.js, and Go, making it accessible to many developers.
+> **[6:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=410)** It supports a variety of SDKs, including .NET, [[Java]], [[Python (Programming Language)|Python]], [[Node.js]], and Go, making it accessible to many developers.
 >
 > **[6:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-cosmos-db-the-multimodel-no-sql-database?u=76281980&t=419)** Each of these APIs is designed to make the most of Cosmos DB core features, like global distribution, elastic scaling of storage and throughput and low latency.
 >
@@ -3177,7 +3149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (50), [[Microsoft Azure|Azure]] (13), database (11), api (11), [[NoSQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[NoSQL]] (3), [[Scalability]] (2), [[Relational Databases]] (2), [[JSON]] (2)
 > **Env Vars:** api (11), ars (3), json (2), sql (2), sdk (1)
 > **Definitions:** is a  (2), known as (2), refers to (2), is an  (1)
 > **CLI Commands:** apache (2), python (1), node (1), make (1)
@@ -3186,14 +3158,13 @@ created: 2026-05-02
 > **Tools:** atom (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cosmos DB in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980)
+#### [Cosmos DB in action](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=0)** - [Instructor] In Azure Cosmos DB, you start by creating a database account.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=0)** - [Instructor] In [[Microsoft Azure|Azure]] Cosmos DB, you start by creating a database account.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=4)** This account is the top level entity that provides a unique DNS name and manages various databases.
+> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=4)** This account is the top level entity that provides a unique DNS name and manages various [[Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=10)** Next, create the database itself.
 >
@@ -3203,7 +3174,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=18)** The terminology for containers changes depending on the API used.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=22)** For the SQL API, they are referred to as containers.
+> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=22)** For the [[SQL]] API, they are referred to as containers.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=26)** For the Gremlin API, they are called graphs.
 >
@@ -3219,7 +3190,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=45)** Just choose the appropriate item.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=47)** For this example, I chose Azure Cosmos DB for NoSQL.
+> **[0:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=47)** For this example, I chose Azure Cosmos DB for [[NoSQL]].
 >
 > **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=51)** Next, I fill out some additional information.
 >
@@ -3245,7 +3216,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=92)** I chose "/HomeCity" as the partition key.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=95)** In this type of database, we work with documents that are stored in JSON format.
+> **[1:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=95)** In this type of database, we work with documents that are stored in [[JSON]] format.
 >
 > **[1:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/cosmos-db-in-action?u=76281980&t=100)** Here we see a simple example of what might be in the JSON.
 >
@@ -3281,7 +3252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), database (7), api (6), data (5), [[JSON]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[JSON]] (5), [[SQL]] (2), [[Databases]] (1), [[NoSQL]] (1)
 > **Env Vars:** api (6), json (5), sql (2), dns (1), url (1)
 > **Definitions:** is a  (3), means that (1)
 > **Tools:** azure portal (3)
@@ -3295,14 +3266,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect access to services with Microsoft Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980)
+#### [Protect access to services with Microsoft Entra ID](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=0)** - [Instructor] Identity and access management is a critical component for modern organizations providing a structured approach to managing digital identities and ensuring secure access to resources.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=10)** In this video, I want to look at why it's indispensable for your Azure subscription.
+> **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=10)** In this video, I want to look at why it's indispensable for your [[Microsoft Azure|Azure]] subscription.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=14)** One of the primary benefits is its ability to enhance security and mitigate various risks.
 >
@@ -3316,19 +3286,19 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=53)** They provide a framework for monitoring and reporting access to sensitive information, helping organizations demonstrate compliance with regulations such as GDPR, HIPAA and others.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=63)** The rise of remote work and cloud computing has heightened the importance of these types of solutions.
+> **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=63)** The rise of remote work and [[Cloud Computing]] has heightened the importance of these types of solutions.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=68)** These systems effectively manage remote employees access to company resources through the cloud, ensuring secure and efficient operations.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=75)** Microsoft Active Directory and Microsoft Entra ID are both identity access management services, but they serve different purposes and offer different capabilities.
+> **[1:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=75)** [[Microsoft]] [[Active Directory]] and [[Microsoft Entra ID]] are both identity access management services, but they serve different purposes and offer different capabilities.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=85)** Entra ID is the new name for Azure Active Directory.
+> **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=85)** [[Microsoft Entra ID|Entra ID]] is the new name for [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[1:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=89)** Microsoft Entra ID is Microsoft's cloud-based identity and access management service.
 >
 > **[1:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=95)** It provides the authentication and authorization services so that your resources are available to your employees and kept safe from the outside world.
 >
-> **[1:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=102)** It plays a crucial role in enhancing cloud security and providing a single point of control over who has access to what in your organization.
+> **[1:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=102)** It plays a crucial role in enhancing [[Cloud Security]] and providing a single point of control over who has access to what in your organization.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=111)** We'll need to have an authentication and authorization system in place.
 >
@@ -3336,13 +3306,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=116)** Using Entra ID is the easiest way to make that happen in Azure.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=120)** It will seem familiar to anyone comfortable with using Windows Active directory, but know that it is a cloud optimized version.
+> **[2:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=120)** It will seem familiar to anyone comfortable with using [[Windows]] Active directory, but know that it is a cloud optimized version.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=126)** If you already have an on-premises active directory, it can be extended to the cloud using the directory integration capabilities of Entra ID.
 >
 > **[2:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=134)** Entra ID can also be your organization's only directory service.
 >
-> **[2:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=138)** This is especially true for many startups today who rely on Microsoft 365 or other SaaS applications for their software needs.
+> **[2:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=138)** This is especially true for many startups today who rely on [[Microsoft 365]] or other [[SaaS]] applications for their software needs.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=147)** They don't need to have an on-premises active directory as Entra ID manages their users' identity and access to SaaS applications.
 >
@@ -3352,7 +3322,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=159)** Along the left side, we can see choices for managing users and groups, setting up roles and administrators, and even a section on working with custom domains.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=168)** We can also manage our Entra ID through the PowerShell command line.
+> **[2:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=168)** We can also manage our Entra ID through the [[Powershell]] command line.
 >
 > **[2:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=171)** Here we are preparing to add a new user to the directory.
 >
@@ -3360,11 +3330,11 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=182)** Entra ID is very scalable and provides high availability to its services.
 >
-> **[3:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=186)** Plus, like all cloud infrastructure, your organization doesn't have to maintain related infrastructure or worry about disaster recovery.
+> **[3:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=186)** Plus, like all [[Cloud Infrastructure]], your organization doesn't have to maintain related infrastructure or worry about disaster recovery.
 >
-> **[3:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=194)** All development related to identity management in your organization gets easier since Entra ID utilizes standardized REST and ODATA protocols.
+> **[3:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=194)** All development related to identity management in your organization gets easier since Entra ID utilizes standardized [[Representational State Transfer (REST)|REST]] and ODATA protocols.
 >
-> **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=203)** If required, you can easily use identity providers from Google or Facebook and others, which is useful for extranet situations.
+> **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=203)** If required, you can easily use identity providers from [[Google]] or Facebook and others, which is useful for extranet situations.
 >
 > **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980&t=211)** To summarize, you automatically get Entra ID with your Azure subscription.
 >
@@ -3374,7 +3344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), cloud (7), management (6), [[Microsoft Azure|Azure]] (4), [[Active Directory]] (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (11), [[Microsoft Azure|Azure]] (4), [[Active Directory]] (4), [[Microsoft]] (2), [[Microsoft Entra ID]] (2)
 > **Env Vars:** gdpr (1), hipaa (1), rest (1), odata (1)
 > **Tools:** powershell (1), command line (1)
 > **Definitions:** is a  (2)
@@ -3382,14 +3352,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the Azure networking components
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980)
+#### [Explore the Azure networking components](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=0)** - [Instructor] Building a network of interconnected systems is a lot like putting together a Lego creation, but with hardwares and wires, not plastic blocks.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=7)** With Azure, you can build out your network system from the web tool or the command line, and Microsoft creates the system for you.
+> **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=7)** With [[Microsoft Azure|Azure]], you can build out your network system from the web tool or the command line, and [[Microsoft]] creates the system for you.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=14)** This is the essence of Infrastructure-as-a-Service.
 >
@@ -3399,7 +3368,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=23)** There are a lot of choices.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=25)** Essentially, if you can add a type of hardware component to your data center, you can add it to Azure networking.
+> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=25)** Essentially, if you can add a type of [[Hardware]] component to your data center, you can add it to Azure networking.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=31)** Microsoft has a number of partners that also offer networking devices that can plug into your virtual network.
 >
@@ -3415,13 +3384,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=63)** Inside the VNET resides the other networking components.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=66)** Remember, if you are building VNETs, you are doing infrastructure as a service, so you'll need to create all the other parts of your infrastructure.
+> **[1:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=66)** Remember, if you are building VNETs, you are doing [[IaaS|infrastructure as a service]], so you'll need to create all the other parts of your infrastructure.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=72)** So a VNET becomes a central hub used to group any resources that need to be accessible on our Azure infrastructure, like our virtual machines, or storage accounts, or databases, they can all reside inside the virtual network.
+> **[1:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=72)** So a VNET becomes a central hub used to group any resources that need to be accessible on our Azure infrastructure, like our [[Virtual Machines]], or storage accounts, or [[Databases]], they can all reside inside the virtual network.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=83)** Let's look at some popular networking components.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=87)** ExpressRoute is a Microsoft Azure service that lets you create private connections between Microsoft data centers and infrastructure that is on your premises or in a co-location facility.
+> **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=87)** ExpressRoute is a [[Microsoft Azure]] service that lets you create private connections between Microsoft data centers and infrastructure that is on your premises or in a co-location facility.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=97)** ExpressRoute connections do not go over the public internet.
 >
@@ -3451,7 +3420,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=188)** Private IP addresses are used for communication within the Azure VNET and your on-premises network when you use a VPN gateway, or ExpressRoute circuit to extend your network to Azure.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=199)** In computing, a firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+> **[3:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=199)** In computing, a firewall is a [[Network Security]] system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
 >
 > **[3:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/explore-the-azure-networking-components?u=76281980&t=208)** A firewall typically establishes a barrier between a trusted internal network and untrusted external networks such as the internet.
 >
@@ -3465,7 +3434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), cloud (5), [[Microsoft]] (4), traffic (4), data (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[Microsoft]] (4), [[Hardware]] (2), [[Virtual Machines]] (2), [[Network Security]] (2)
 > **Env Vars:** vnet (6), vpn (3), tcp (1), udp (1), dns (1)
 > **Definitions:** is a  (6), known as (1)
 > **Tools:** command line (1), azure portal (1)
@@ -3473,12 +3442,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build out your system with virtual machines
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980)
+#### [Build out your system with virtual machines](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=0)** - [Instructor] Microsoft offers a wide range of Azure virtual machines, also known as VMs, giving you the ability to quickly develop, test, run application, and extend your data center to the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=0)** - [Instructor] [[Microsoft]] offers a wide range of [[Microsoft Azure|Azure]] [[Virtual Machines]], also known as VMs, giving you the ability to quickly develop, test, run application, and extend your data center to the cloud.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=11)** Azure VMs can be standalone.
 >
@@ -3494,9 +3462,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=47)** When you create a VM, you choose the operating system.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=50)** Obviously, we can pick a Windows operating system like Windows Server.
+> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=50)** Obviously, we can pick a [[Windows]] operating system like [[Windows Server]].
 >
-> **[0:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=53)** There's a number of Linux distributions available too.
+> **[0:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=53)** There's a number of [[Linux]] distributions available too.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=57)** This is a partial list.
 >
@@ -3520,7 +3488,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=99)** If you don't find one on this list that fits your needs, you can custom-build one too.
 >
-> **[1:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=103)** If you prefer the command line, you've got PowerShell and Bash options to create and manage your VMs.
+> **[1:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=103)** If you prefer the command line, you've got [[Powershell]] and Bash options to create and manage your VMs.
 >
 > **[1:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=108)** Here's an example using the in-browser Azure Cloud Shell, a great way to command line from the Azure portal.
 >
@@ -3530,11 +3498,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=122)** After the deployment is completed, you use remote desktop to connect to the virtual machine and manage it like any other server.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=129)** Though I didn't show it in the earlier screenshots, you can specify credentials like username and password during the provisioning, or better yet, use Entra ID and work with your existing admin accounts.
+> **[2:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/build-out-your-system-with-virtual-machines?u=76281980&t=129)** Though I didn't show it in the earlier screenshots, you can specify credentials like username and password during the provisioning, or better yet, use [[Microsoft Entra ID|Entra ID]] and work with your existing admin accounts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), application (2), cloud (2), [[Microsoft]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Windows]] (1), [[Windows Server]] (1)
 > **Tools:** command line (2), powershell (1), bash (1), azure portal (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** known as (1), is a  (1)
@@ -3548,8 +3516,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhance development and deployment with Azure DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980)
+#### [Enhance development and deployment with Azure DevOps](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3557,11 +3524,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=3)** Successful teams find effective ways to work on software at every stage of the development lifecycle.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=9)** In recent years, we've added DevOps to the development process to help standardize and automate more phases of the development workflow.
+> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=9)** In recent years, we've added [[DevOps]] to the development process to help standardize and automate more phases of the development workflow.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=16)** DevOps builds on several principles.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=19)** Think of it as a combination of shared planning tools, a shared code base, continuous integration, test-driven techniques, and automated deployment.
+> **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=19)** Think of it as a combination of shared planning tools, a shared code base, [[Continuous Integration (CI)|continuous integration]], test-driven techniques, and automated deployment.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=27)** None of these principles are new.
 >
@@ -3571,7 +3538,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=35)** We've given it a concrete name.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=36)** It emphasizes collaboration between all parts of the IT organization and the continuous delivery of software.
+> **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=36)** It emphasizes collaboration between all parts of the IT organization and the [[Continuous Delivery (CD)|continuous delivery]] of software.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=43)** You can think of DevOps as a cycle, the steps that happen through the development process.
 >
@@ -3613,13 +3580,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=144)** This way, the application will run on a production server like it did in the development environment.
 >
-> **[2:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=149)** Microsoft adopted the DevOps workflow in its own development processes.
+> **[2:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=149)** [[Microsoft]] adopted the DevOps workflow in its own development processes.
 >
 > **[2:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=153)** They've been automating key parts of their application lifecycle for years.
 >
 > **[2:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=157)** Microsoft bundle these services into a suite of team tools.
 >
-> **[2:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=161)** That set of tools is called Azure DevOps, a new name for services that have been around for many years.
+> **[2:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=161)** That set of tools is called [[Microsoft Azure|Azure]] DevOps, a new name for services that have been around for many years.
 >
 > **[2:47](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=167)** If you've heard about Visual Studio Team Services and the other names on this list, those are the predecessors.
 >
@@ -3629,9 +3596,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=178)** You can think of it it as a rebranding of some developer services to align it with this new vision.
 >
-> **[3:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=183)** To clarify, Azure contains all the cloud services from Microsoft.
+> **[3:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=183)** To clarify, Azure contains all the [[Cloud Services]] from Microsoft.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=187)** This is where you find the cloud databases and the serverless functions, where you configure virtual machines and cognitive services.
+> **[3:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=187)** This is where you find the cloud [[Databases]] and the serverless functions, where you configure [[Virtual Machines]] and cognitive services.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=194)** Those are Azure.
 >
@@ -3647,7 +3614,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=229)** Currently, there are five categories of services available, Azure Boards, Pipeline, Repos, Test Plans, and Artifacts.
 >
-> **[3:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=236)** Use Azure Boards to track work with Kanban boards, backlogs, team dashboards, and custom reporting.
+> **[3:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=236)** Use Azure Boards to track work with Kanban boards, backlogs, team [[Dashboards]], and custom reporting.
 >
 > **[4:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=242)** Work can be tracked across teams.
 >
@@ -3661,9 +3628,9 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=263)** It provides a continuous integration, continuous deployment system that can work with multiple languages.
 >
-> **[4:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=269)** Code can be pulled from popular source control systems, like GitHub or other Git providers.
+> **[4:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=269)** Code can be pulled from popular source control systems, like [[GitHub]] or other [[Git]] providers.
 >
-> **[4:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=274)** It has hosted Windows, Mac, OS, and Linux build agents.
+> **[4:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=274)** It has hosted [[Windows]], Mac, OS, and [[Linux]] build agents.
 >
 > **[4:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=278)** Also, integration with Visual Studio App Center enables mobile deployments.
 >
@@ -3673,7 +3640,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=290)** It supports Git of course.
 >
-> **[4:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=292)** Also, Microsoft has its own source control system called Team Foundation Version Control that is available.
+> **[4:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=292)** Also, Microsoft has its own source control system called Team Foundation [[Version Control]] that is available.
 >
 > **[4:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=297)** Yes, Microsoft bought GitHub, which is the biggest Git online repository, so you can always host there instead.
 >
@@ -3699,7 +3666,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=350)** Think of this as a way to manage dependencies in your code base.
 >
-> **[5:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=354)** As a developer, you may already be familiar with the idea of package management platforms, such as npm or NuGet.
+> **[5:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=354)** As a developer, you may already be familiar with the idea of [[Package Management]] platforms, such as [[npm]] or NuGet.
 >
 > **[6:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980&t=360)** Use artifacts to build a combined feed of all dependencies in your organization, including your private proprietary packages.
 >
@@ -3713,7 +3680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[DevOps]] (16), application (11), [[Microsoft]] (6), [[GitHub]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[DevOps]] (16), [[Microsoft]] (6), [[GitHub]] (4), [[Git]] (3)
 > **CLI Commands:** find (3), git (3), npm (1)
 > **Tools:** github (4), visual studio (2), azure portal (1)
 > **Definitions:** is a  (2), is called (1)
@@ -3722,14 +3689,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simplify app deployment with containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980)
+#### [Simplify app deployment with containers](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=0)** - [Instructor] DevOps is a set of cultural practices related to software development.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=0)** - [Instructor] [[DevOps]] is a set of cultural practices related to [[Software Development]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=4)** It emphasizes collaboration between all parts of the IT organization and the continuous delivery of software.
+> **[0:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=4)** It emphasizes collaboration between all parts of the IT organization and the [[Continuous Delivery (CD)|continuous delivery]] of software.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=9)** Containers are a type of technology that makes it easier to host applications inside portable deployable environments.
 >
@@ -3737,9 +3703,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=23)** The most popular container by far is Docker.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=27)** Microsoft Azure has full support for Docker.
+> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=27)** [[Microsoft Azure]] has full support for Docker.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=29)** If you use the Azure app service for your web app or web API, you can either deploy your app directly to the app service or place the app within a Docker container and deploy the container instead.
+> **[0:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=29)** If you use the [[Microsoft Azure|Azure]] app service for your web app or web API, you can either deploy your app directly to the app service or place the app within a Docker container and deploy the container instead.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/simplify-app-deployment-with-containers?u=76281980&t=40)** Containers offer several key benefits that help enable DevOps workflow.
 >
@@ -3771,7 +3737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[DevOps]] (2), [[Microsoft Azure|Azure]] (2), web (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Microsoft Azure|Azure]] (2), [[Software Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** docker (7), make (2)
 > **Tools:** visual studio (2)
 > **Env Vars:** api (1)
@@ -3779,16 +3745,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub and Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980)
+#### [GitHub and Azure](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=0)** - [Narrator] Judging from the number of questions I get, there is some confusion about how GitHub fits into the Azure ecosystem.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=0)** - [Narrator] Judging from the number of questions I get, there is some confusion about how [[GitHub]] fits into the [[Microsoft Azure|Azure]] ecosystem.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=7)** We'll start with a quick overview for those unfamiliar with GitHub.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=10)** The first concept is the difference between Git and GitHub.
+> **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=10)** The first concept is the difference between [[Git]] and GitHub.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=14)** Git is a distributed source control system.
 >
@@ -3820,7 +3785,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=73)** It's here you'll find the pull request feature, a favorite way to submit code changes to public projects.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=79)** It's here you find the new codespaces feature, the instant cloud development environment.
+> **[1:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=79)** It's here you find the new [[Codespaces]] feature, the instant [[Cloud Development]] environment.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=84)** There are tools to subscribe to notifications on GitHub repositories, so you will always know what's happening in your favorite code bases.
 >
@@ -3828,7 +3793,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=94)** GitHub has a robust automation system.
 >
-> **[1:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=96)** One common use is to automate continuous integration and continuous delivery, but it also automates things like project management, testing, planning, and approvals.
+> **[1:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=96)** One common use is to automate [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], but it also automates things like project management, testing, planning, and approvals.
 >
 > **[1:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=106)** There is a set of features that ensure your code is safe and secure.
 >
@@ -3850,7 +3815,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=153)** Because GitHub has this rich set of tools, it is a smart choice to use as your Git hosting provider.
 >
-> **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=159)** This is true whether or not you use Azure or Azure DevOps.
+> **[2:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=159)** This is true whether or not you use Azure or Azure [[DevOps]].
 >
 > **[2:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=164)** As we've seen in this chapter, Azure DevOps has project management tools, project boards, and repositories too.
 >
@@ -3862,7 +3827,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=184)** We can map Azure Board work items to GitHub commits, GitHub pull requests, and GitHub issues.
 >
-> **[3:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=191)** You can use GitHub for the software development while using Azure Boards to plan and track your work.
+> **[3:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=191)** You can use GitHub for the [[Software Development]] while using Azure Boards to plan and track your work.
 >
 > **[3:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/github-and-azure?u=76281980&t=196)** Azure Pipelines are the continuous integration and continuous deployment tools in Azure DevOps.
 >
@@ -3896,7 +3861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (30), [[Microsoft Azure|Azure]] (23), [[DevOps]] (7), [[Git]] (4), feature (4)
+> **Frameworks & Libraries:** [[GitHub]] (30), [[Microsoft Azure|Azure]] (23), [[DevOps]] (7), [[Git]] (4), [[Software Development]] (3)
 > **Tools:** github (30)
 > **CLI Commands:** git (4), find (3), make (1)
 > **Definitions:** is a  (5), is an  (2), is called (1)
@@ -3905,14 +3870,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure deployment environments: Streamline cloud infrastructure management
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980)
+#### [Azure deployment environments: Streamline cloud infrastructure management](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=0)** - [Narrator] Earlier in this chapter, we looked at containers and how they are essential in continuous integration and continuous deployment pipelines.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=0)** - [Narrator] Earlier in this chapter, we looked at containers and how they are essential in [[Continuous Integration (CI)|continuous integration]] and continuous deployment pipelines.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=8)** Microsoft created the Azure Deployment Environments to help Azure customers easily configure their deployment systems.
+> **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=8)** [[Microsoft]] created the [[Microsoft Azure|Azure]] Deployment Environments to help Azure customers easily configure their deployment systems.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=15)** To review, Docker containers ensure consistency across development, testing, and production environments.
 >
@@ -3934,7 +3898,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=60)** For a simple project, one container might suffice for development testing and deployment.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=64)** However, this is not the case for enterprise clients and other complex application development groups.
+> **[1:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=64)** However, this is not the case for enterprise clients and other complex [[Application Development]] groups.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=70)** In such scenarios, dozens of specialized configurations might be necessary, and the IT team needs to ensure that the containers in the entire pipeline comply with security and other company policies.
 >
@@ -3942,7 +3906,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=86)** They empower development teams to quickly and easily spin up app infrastructure with project-based templates that establish consistency and best practices while maximizing security.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=98)** This on-demand access to secure environments accelerates the stages of software development in a compliant and a cost-efficient way.
+> **[1:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=98)** This on-demand access to secure environments accelerates the stages of [[Software Development]] in a compliant and a cost-efficient way.
 >
 > **[1:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-deployment-environments-streamline-cloud-infrastructure-management?u=76281980&t=105)** A deployment environment is a collection of Azure infrastructure resources defined in a template called an environment definition.
 >
@@ -3960,7 +3924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), web (3), ci (2), cd (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Continuous Integration (CI)|Continuous integration]] (1), [[Microsoft]] (1), [[Application Development]] (1), [[Software Development]] (1)
 > **CLI Commands:** docker (2), cd (2)
 > **Prerequisites:** configure (2), set up (2)
 > **Analogies:** such as (2), for example (1)
@@ -3969,24 +3933,22 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Microsoft Dev Box: A cloud-based development workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/microsoft-dev-box-a-cloud-based-development-workstation?u=76281980)
+#### [Microsoft Dev Box: A cloud-based development workstation](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/microsoft-dev-box-a-cloud-based-development-workstation?u=76281980)
 
 
 ### 10. Other Services
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Azure AI family
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980)
+#### [The Azure AI family](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=0)** - [Instructor] Artificial intelligence has become one of the most transformative technologies of our time with the potential to revolutionize the way we create content and work.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] has become one of the most transformative technologies of our time with the potential to revolutionize the way we create content and work.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=9)** At its core, AI is about creating intelligent machines and software that can perform tasks that would normally require human intelligence, such as recognizing patterns, making decisions, and learning from experience.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=22)** This is such a large and important topic that I've created another course called, "[[Azure AI- The Big Picture]]."
+> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=22)** This is such a large and important topic that I've created another course called, "[[[[Microsoft Azure|Azure]] AI- The Big Picture]]."
 >
 > **[0:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=28)** That course has a more in-depth exploration of this fascinating topic.
 >
@@ -3994,7 +3956,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=37)** I've summarized the basics here in this video, but you'll get a lot more information in the other course.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=43)** AI technology is changing the way we interact with the world around us, whether it's from machine learning algorithms that can analyze vast amounts of data or auto caption services that can parse video and extract captions.
+> **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=43)** AI technology is changing the way we interact with the world around us, whether it's from machine learning [[Algorithms]] that can analyze vast amounts of data or auto caption services that can parse video and extract captions.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=55)** We are seeing the massive influence of AI on our lives.
 >
@@ -4004,7 +3966,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=64)** My guess is that it's one of these areas shown here.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=67)** Machine learning, cognitive services, large language models, generative AI or the Internet of things.
+> **[1:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=67)** Machine learning, cognitive services, [[Large Language Models (LLM)|large language models]], [[Generative AI]] or the [[IoT|Internet of things]].
 >
 > **[1:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=75)** Machine learning is a subset of AI that focuses on building algorithms that can learn from data and improve their performance over time.
 >
@@ -4050,7 +4012,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=207)** This is more time consuming for developers and data scientists, but it provides more customization.
 >
-> **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=211)** For the last few years, Microsoft has grouped the AI services into categories like cognitive services and applied AI services.
+> **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=211)** For the last few years, [[Microsoft]] has grouped the AI services into categories like cognitive services and applied AI services.
 >
 > **[3:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=219)** Microsoft has officially dropped these category names.
 >
@@ -4070,17 +4032,17 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=260)** They are a specific type of machine learning model that is specifically designed to process and understand natural language.
 >
-> **[4:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=266)** While other machine learning models may be designed to process structure data such as numerical or categorical data, large language models are designed to process unstructured data, such as text or speech.
+> **[4:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=266)** While other machine learning models may be designed to process structure data such as numerical or categorical data, large language models are designed to process [[Unstructured Data]], such as text or speech.
 >
 > **[4:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=278)** This requires different techniques and algorithms for processing and analyzing the data.
 >
-> **[4:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=282)** LLMs are typically built using deep learning techniques such as neural networks and are trained on large amounts of text data to learn patterns and relationships in language.
+> **[4:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=282)** LLMs are typically built using [[Deep Learning]] techniques such as [[Neural Networks]] and are trained on large amounts of text data to learn patterns and relationships in language.
 >
 > **[4:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=293)** Some of Azure services are based on large language models.
 >
 > **[4:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=296)** For example, the language understanding service sometimes called LUIS is based on a large language model that has been trained on a vast amount of text data to understand natural language queries and commands.
 >
-> **[5:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=308)** LUIS allows developers to build natural language processing capabilities into their application, enabling users to interact with the application using conversational language.
+> **[5:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=308)** LUIS allows developers to build [[Natural Language Processing (NLP)|natural language processing]] capabilities into their application, enabling users to interact with the application using conversational language.
 >
 > **[5:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=318)** Similarly, the text analytics service is based on large language models that have been trained on a vast amount of text data to identify sentiment, key phrases and other insights in the text.
 >
@@ -4088,7 +4050,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=340)** One of the most popular pre-trained LLMs is offered by OpenAI, an artificial intelligence research laboratory.
 >
-> **[5:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=346)** ChatGPT is a pre-trained language model for conversational AI based on the generative pre-trained transformer architecture.
+> **[5:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=346)** [[ChatGPT]] is a pre-trained language model for [[Conversational AI]] based on the generative pre-trained transformer architecture.
 >
 > **[5:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=354)** That's where you get the abbreviation GPT.
 >
@@ -4104,7 +4066,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=387)** For example, machine learning algorithms can be used to generate music, art, and even literature by analyzing patterns and styles in existing works and creating new ones based on that analysis.
 >
-> **[6:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=399)** One popular generative tool is DALL-E, a neural network based image generation system developed by OpenAI.
+> **[6:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=399)** One popular generative tool is [[DALL-E]], a neural network based image generation system developed by OpenAI.
 >
 > **[6:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=406)** It can generate high quality images from textual descriptions.
 >
@@ -4116,7 +4078,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=426)** It refers to a group of connected or network set of physical devices, vehicles, home appliances, and other items that are embedded with sensors, software, and connectivity.
 >
-> **[7:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=436)** IoT is rapidly expanding with billions of devices already connected to the internet and many more expected to come online in the coming years.
+> **[7:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=436)** [[IoT]] is rapidly expanding with billions of devices already connected to the internet and many more expected to come online in the coming years.
 >
 > **[7:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980&t=445)** This vast network of connected devices has the potential to transform industries ranging from healthcare and manufacturing to transportation and agriculture.
 >
@@ -4136,7 +4098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), ai (19), [[Microsoft Azure|Azure]] (18), [[Algorithms]] (8), [[Large Language Models (LLM)|Large language models]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Algorithms]] (8), [[Large Language Models (LLM)|Large language models]] (5), [[Microsoft]] (5), [[IoT]] (4)
 > **Definitions:** is a  (8), means that (1), refers to (1)
 > **Analogies:** such as (4), for example (3), picture (1)
 > **Env Vars:** luis (2), gpt (2), dall (2)
@@ -4145,12 +4107,11 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Messaging with event grid, event hub, or service bus
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980)
+#### [Messaging with event grid, event hub, or service bus](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=0)** - [Instructor] Azure offers multiple communication options for messaging between services.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] offers multiple communication options for messaging between services.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=5)** This is often necessary for integration of separate distributed services.
 >
@@ -4160,9 +4121,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=19)** Here's a look at the available messaging components.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=22)** Event Grid simplifies building event driven architectures with its fully managed event routing service using a published subscribed model.
+> **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=22)** Event Grid simplifies building event driven architectures with its fully managed event [[Routing]] service using a published subscribed model.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=30)** Event Hubs is a big data streaming platform that can handle millions of events per second.
+> **[0:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=30)** Event Hubs is a [[Big Data]] streaming platform that can handle millions of events per second.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=36)** The Service Bus provides enterprise-level messaging and it also offers published subscribed capabilities for one-to-many messaging.
 >
@@ -4228,7 +4189,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=212)** Event Grid is designed for reactive event-driven architectures, allowing you to publish and route events to various handlers.
 >
-> **[3:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=219)** It is ideal for scenarios where you need to react to changes in state or updates in real time.
+> **[3:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=219)** It is ideal for scenarios where you need to [[React.js|react]] to changes in state or updates in real time.
 >
 > **[3:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=225)** Event Hubs, on the other hand, is optimized for high throughput event ingestion and processing, suitable for streaming large amounts of data from various sources, such as telemetry and logs.
 >
@@ -4328,13 +4289,13 @@ created: 2026-05-02
 >
 > **[8:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=495)** In fact, it can handle millions of events per second.
 >
-> **[8:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=498)** Use the Event Hubs service to collect data or events from any IoT device, from an app, whether that's web, or mobile, or backend service, or feeds like social networks.
+> **[8:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=498)** Use the Event Hubs service to collect data or events from any [[IoT]] device, from an app, whether that's web, or mobile, or backend service, or feeds like social networks.
 >
 > **[8:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=508)** The data is ingested into the hub where it is stored for later use.
 >
 > **[8:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=512)** Once you collect events within the event hub, you can analyze the data using any real time analytics system, such as the Azure Stream Analytics service.
 >
-> **[8:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=521)** Additionally, you can store or transform the hub data into any Azure data storage system.
+> **[8:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=521)** Additionally, you can store or transform the hub data into any Azure [[Data Storage]] system.
 >
 > **[8:46](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=526)** Event Grid enables event driven reactive programming.
 >
@@ -4342,7 +4303,7 @@ created: 2026-05-02
 >
 > **[8:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=531)** Event Grid has built in support for events coming from Azure services, like Storage Blobs, and Resource Groups.
 >
-> **[8:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=538)** It also lends itself nicely to the serverless model of computing using Azure Cloud services, such as Azure Functions and Azure Logic Apps.
+> **[8:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=538)** It also lends itself nicely to the serverless model of computing using Azure [[Cloud Services]], such as Azure Functions and Azure Logic Apps.
 >
 > **[9:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/messaging-with-event-grid-event-hub-or-service-bus?u=76281980&t=546)** The system handles individual business logic activity events that are valuable on their own, not as part of a stream.
 >
@@ -4368,22 +4329,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), data (10), application (6), cloud (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[React.js|React]] (2), [[Routing]] (1), [[Big Data]] (1), [[IoT]] (1)
 > **Analogies:** such as (8), for example (2), just like (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Send mobile notifications with notification hubs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980)
+#### [Send mobile notifications with notification hubs](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=0)** - [Instructor] Azure Notification Hubs is a massively scalable mobile push notification engine.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Notification Hubs is a massively scalable mobile push notification engine.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=5)** Use it to quickly send millions of notifications to mobile devices.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=9)** For example, we could use it to send codes for multi-factor authentication.
+> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=9)** For example, we could use it to send codes for [[Multi-factor Authentication]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=14)** Another example, use notifications to send location-based coupons to interested users.
 >
@@ -4391,13 +4351,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=25)** When the forecast is for heavy traffic, send a notification to leave earlier.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=30)** Azure Notification Hubs works with many devices, from Android, iOS, Kindle, and Windows.
+> **[0:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=30)** Azure Notification Hubs works with many devices, from [[Android]], iOS, Kindle, and [[Windows]].
 >
 > **[0:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=36)** One nice feature is that you don't have to worry about the disparate native notification systems.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=41)** When you send a message with Notification Hubs, it gets sent with the proper native push system, so it'll use Apple Push Notification for Apple devices, Google Cloud Messaging for Android devices and so on.
+> **[0:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=41)** When you send a message with Notification Hubs, it gets sent with the proper native push system, so it'll use Apple Push Notification for Apple devices, [[Google Cloud Platform (GCP)|Google Cloud]] Messaging for Android devices and so on.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=53)** It is flexible enough to plug into any backend, for example, Microsoft .NET, PHP, Java, and Node.js.
+> **[0:53](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=53)** It is flexible enough to plug into any backend, for example, [[Microsoft]] .NET, [[PHP]], [[Java]], and [[Node.js]].
 >
 > **[1:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/send-mobile-notifications-with-notification-hubs?u=76281980&t=61)** This makes it easier to instantly update your mobile apps and engage your customers.
 >
@@ -4427,7 +4387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), feature (3), traffic (2), [[Android]] (2), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Android]] (2), [[Multi-factor Authentication]] (1), [[Windows]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** php (1), node (1)
 > **Env Vars:** net (1), php (1)
@@ -4436,14 +4396,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 
-#### Use media services to encode and stream media
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980)
+#### [Use media services to encode and stream media](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=0)** - [Instructor] Azure Media Services makes it easy to use high definition video encoding and streaming services to reach your audience on today's devices.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Media Services makes it easy to use high definition video encoding and streaming services to reach your audience on today's devices.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=9)** It also enables you to use state-of-the-art AI to extract rich metadata from your video content.
+> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=9)** It also enables you to use state-of-the-art AI to extract rich [[Metadata]] from your video content.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=15)** These are some of the media service tools we'll look at in this video.
 >
@@ -4491,7 +4450,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=137)** Now let's talk about the Indexer.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=139)** The Indexer is a cloud application which consolidates various audio and video artificial intelligence technologies offered by Microsoft into one integrated service.
+> **[2:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=139)** The Indexer is a cloud application which consolidates various audio and video [[Artificial Intelligence (AI)|artificial intelligence]] technologies offered by [[Microsoft]] into one integrated service.
 >
 > **[2:29](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=149)** I'll be talking about the video service, but the features are nearly identical for audio.
 >
@@ -4519,7 +4478,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=211)** It can scan for text content, and when found, extract and document the text that is visually displayed in the video.
 >
-> **[3:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=217)** In this picture, it would extract the word caution.
+> **[3:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=217)** In this picture, it would extract the [[Microsoft Word|word]] caution.
 >
 > **[3:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=220)** The Indexer automatically creates thumbnails from the video content.
 >
@@ -4545,7 +4504,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=271)** Due to the way the content is encrypted, if your content key is ever compromised, simply call the Azure APIs to change the key instead of re-encrypting your entire library.
 >
-> **[4:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=281)** Like all the other Azure services, you get easy, natural integration with Microsoft Entra ID, formerly known as Azure Active Directory.
+> **[4:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=281)** Like all the other Azure services, you get easy, natural integration with [[Microsoft Entra ID]], formerly known as [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[4:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=289)** Use it and your media service licensing tools to control access to your media assets.
 >
@@ -4553,7 +4512,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=303)** Use this feature to help manage your streaming media assets.
 >
-> **[5:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=307)** It's also helpful when developing or managing websites or mobile apps, gaming software, firmware updates, or IOT endpoints.
+> **[5:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=307)** It's also helpful when developing or managing websites or mobile apps, gaming software, firmware updates, or [[IoT]] endpoints.
 >
 > **[5:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=315)** With its distributed global presence, Azure CDN easily handles sudden traffic spikes and heavy loads, for example, during major product launches or global sporting events.
 >
@@ -4563,7 +4522,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=333)** It's built into the playback media content from Azure Media Services.
 >
-> **[5:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=338)** You can use Azure Media Player in a wide variety of browsers and devices with a simple HTML and JavaScript code.
+> **[5:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=338)** You can use Azure Media Player in a wide variety of browsers and devices with a simple [[HTML]] and [[JavaScript]] code.
 >
 > **[5:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/use-media-services-to-encode-and-stream-media?u=76281980&t=345)** It is easy to set up and use.
 >
@@ -4583,7 +4542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), web (3), [[Metadata]] (2), data (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Metadata]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** cdn (3), drm (2), mp4 (2), avi (1), aes (1)
 > **Analogies:** for example (3), such as (1), picture (1), for instance (1)
 > **Definitions:** is a  (3), means that (1), known as (1)
@@ -4592,28 +4551,27 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980)
+#### [Manage IoT devices](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=0)** - [Host] The Internet of Things rollout is moving crazy fast.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=0)** - [Host] The [[IoT|Internet of Things]] rollout is moving crazy fast.
 >
 > **[0:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=3)** Companies are putting sensors and wireless devices in factories, buses, wearables, smart buildings, farm equipment and more.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=12)** It's estimated that by the year 2025, there will be between 40 and 75 billion IOT devices.
+> **[0:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=12)** It's estimated that by the year 2025, there will be between 40 and 75 billion [[IoT]] devices.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=19)** Whatever the real number we can depend on seeing huge growth in this area.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=23)** Imagine this scenario.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=25)** Your building management company manages 200 office buildings, each building fitted with 1200 IOT devices, from elevator sensors to security cameras, from smoke detectors to temperature sensors.
+> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=25)** Your building management company manages 200 [[Microsoft Office|office]] buildings, each building fitted with 1200 IOT devices, from elevator sensors to security cameras, from smoke detectors to temperature sensors.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=37)** Each device captures a snapshot of its data, 12 times a second, every hour, every day.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=42)** That's over 2 billion data points to store every month.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=45)** This part of the IOT story has, well-known answers Store the data in a data store like Azure, cosmos DB, or SQL Server.
+> **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=45)** This part of the IOT story has, well-known answers Store the data in a data store like [[Microsoft Azure|Azure]], cosmos DB, or [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:52](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=52)** There are other areas that need addressing, however.
 >
@@ -4627,11 +4585,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=65)** Is there a story for removing devices when compromised, broken, or at end of life?
 >
-> **[1:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=70)** Microsoft has a variety of IOT services available on Azure that helps solve these issues.
+> **[1:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=70)** [[Microsoft]] has a variety of IOT services available on Azure that helps solve these issues.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=75)** Let's explore some of these in more detail.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=77)** IOT Central is a software as a service, you can provision it, connect your devices, and be working with your sensors immediately.
+> **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=77)** IOT Central is a [[SaaS|software as a service]], you can provision it, connect your devices, and be working with your sensors immediately.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=83)** Azure handles the data stores, the networking, the security, and all the details.
 >
@@ -4649,11 +4607,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=123)** Once you've picked your template, it can be deployed in minutes.
 >
-> **[2:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=126)** Then when it's operational, use the customizable portal, dashboards and views to manage the devices and see the state of your system.
+> **[2:06](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=126)** Then when it's operational, use the customizable portal, [[Dashboards]] and views to manage the devices and see the state of your system.
 >
 > **[2:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=135)** A similar service is the IOT hub.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=137)** This is platform as a service, the central area for developers to build IOT applications and connect, monitor and manage billions of devices using bidirectional messaging.
+> **[2:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=137)** This is [[PaaS|platform as a service]], the central area for developers to build IOT applications and connect, monitor and manage billions of devices using bidirectional messaging.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/manage-iot-devices?u=76281980&t=147)** So here's a summary.
 >
@@ -4697,19 +4655,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (22), [[Microsoft Azure|Azure]] (8), data (5), [[Security]] (4), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[IoT]] (22), [[Microsoft Azure|Azure]] (8), [[Microsoft]] (2), [[SaaS|Software as a service]] (2), [[PaaS|Platform as a service]] (2)
 > **Env Vars:** iot (22), sql (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [host] (1)
 
-#### Azure Virtual Desktop: Remote work with cloud-based desktops
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980)
+#### [Azure Virtual Desktop: Remote work with cloud-based desktops](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=0)** - [Instructor] Azure Virtual Desktop, or AVD, provides a powerful solution for virtual desktop SAN applications, allowing organizations to deliver a seamless Windows experience to users across devices.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Virtual Desktop, or AVD, provides a powerful solution for virtual desktop SAN applications, allowing organizations to deliver a seamless [[Windows]] experience to users across devices.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=13)** Formerly known as Windows Virtual Desktop, and other names, it was later rebranded as Azure Virtual Desktop.
 >
@@ -4719,27 +4676,27 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=31)** It's a high-performing, secure and cost effective form of desktop virtualization.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=37)** It liberates businesses from tying their operating systems and productivity software to physical hardware.
+> **[0:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=37)** It liberates businesses from tying their operating systems and productivity software to physical [[Hardware]].
 >
 > **[0:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=43)** Instead, Desktop as a Service allows access to virtual desktops over the internet from a cloud provider's data center.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=50)** In the evolving world of cloud computing, both Azure Virtual Desktop and Azure Virtual Machines offer unique advantages tailored to different needs.
+> **[0:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=50)** In the evolving world of [[Cloud Computing]], both Azure Virtual Desktop and Azure [[Virtual Machines]] offer unique advantages tailored to different needs.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=58)** Let us break down their key differences.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=61)** Think of Azure Virtual Desktop as your virtual office.
+> **[1:01](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=61)** Think of Azure Virtual Desktop as your virtual [[Microsoft Office|office]].
 >
-> **[1:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=65)** It's specifically designed to deliver virtual desktops and applications to end users offering a multi-user Windows 10 experience.
+> **[1:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=65)** It's specifically designed to deliver virtual desktops and applications to end users offering a multi-user [[Windows 10]] experience.
 >
 > **[1:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=73)** Perfect for those who need a virtual workshop that feels like their physical desktop.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=77)** VMs are the all-purpose workhorses of the cloud.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=80)** They can run various operating systems and workloads, including servers, databases and custom applications.
+> **[1:20](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=80)** They can run various operating systems and workloads, including servers, [[Databases]] and custom applications.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=87)** VMs are your go-to for back-end services.
 >
-> **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=91)** Now let's talk about the user experience.
+> **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=91)** Now let's talk about the [[User Experience (UX)|user experience]].
 >
 > **[1:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=93)** AVD focuses on the end user experience.
 >
@@ -4779,13 +4736,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=197)** IT administrators can efficiently handle user sessions, updates and security configurations.
 >
-> **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=203)** Azure's infrastructure ensures scalability.
+> **[3:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=203)** Azure's infrastructure ensures [[Scalability]].
 >
 > **[3:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=205)** Whether you need a few desktops or thousands, AVD can accommodate your requirements.
 >
 > **[3:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=211)** It's ideal, as I said earlier, for seasonal workloads, remote work scenarios or sudden spikes in demand.
 >
-> **[3:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=217)** AVD seamlessly integrates with Microsoft 365 apps for Enterprise.
+> **[3:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=217)** AVD seamlessly integrates with [[Microsoft 365]] apps for Enterprise.
 >
 > **[3:41](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-virtual-desktop-remote-work-with-cloud-based-desktops?u=76281980&t=221)** Users get a consistent experience across Windows 10, office apps and other productivity tools.
 >
@@ -4809,7 +4766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Windows]] (5), [[Windows 10]] (5), cloud (4), [[Microsoft Office|Office]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Windows]] (5), [[Windows 10]] (5), [[Microsoft Office|Office]] (3), [[User Experience (UX)|User experience]] (3)
 > **Env Vars:** avd (12), san (1), vdi (1)
 > **Tools:** azure portal (1), command line (1)
 > **CLI Commands:** make (1)
@@ -4817,30 +4774,29 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Arc: Unify multicloud and on-premises management
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980)
+#### [Azure Arc: Unify multicloud and on-premises management](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=0)** - [Instructor] A hybrid cloud is a computing environment that compliance an on-premises data center, also called a private cloud with a public cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=0)** - [Instructor] A [[Hybrid Cloud]] is a computing environment that compliance an on-premises data center, also called a private cloud with a public cloud.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=8)** Over 85% of enterprises use a hybrid approach because it allows data and applications to live where they need to.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=16)** It's common for companies to have legacy data centers or hardware that can't or won't be moved to the public cloud, yet these private resources often need to integrate with the public cloud parts.
+> **[0:16](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=16)** It's common for companies to have legacy data centers or [[Hardware]] that can't or won't be moved to the public cloud, yet these private resources often need to integrate with the public cloud parts.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=27)** Whether or not the private and public cloud services are integrated, no one wants to work with multiple management tools.
+> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=27)** Whether or not the private and public [[Cloud Services]] are integrated, no one wants to work with multiple management tools.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=34)** Companies want one tool to manage their hybrid clouds.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=38)** Microsoft knows this and has released several hybrid cloud management tools.
+> **[0:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=38)** [[Microsoft]] knows this and has released several hybrid cloud management tools.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=42)** Azure Arc is the newest hybrid management tool.
+> **[0:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=42)** [[Microsoft Azure|Azure]] Arc is the newest hybrid management tool.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=45)** It replaces the prior Azure stack and Azure Pack tools.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=49)** Azure Arc is a set of offerings that allow you to bring Azure management anywhere.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=54)** It extends Azure management features to resources not hosted within Azure, such as Kubernetes clusters, virtual machines, and more.
+> **[0:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=54)** It extends Azure management features to resources not hosted within Azure, such as [[Kubernetes]] clusters, [[Virtual Machines]], and more.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=62)** With Azure Arc, you can use familiar tools and management practices to take care of these resources across data centers, edge environments, and multi-cloud setups.
 >
@@ -4852,7 +4808,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=91)** When you project a resource, you essentially create a representation of it in Azure Resource Manager.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=97)** This representation includes metadata, tags and other relevant information.
+> **[1:37](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=97)** This representation includes [[Metadata]], tags and other relevant information.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=102)** By doing this, you can manage these resources alongside your Azure resources as if they were all running in Azure.
 >
@@ -4860,7 +4816,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=114)** This is the tools that you would use to manage your native Azure Cloud resources.
 >
-> **[1:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=118)** Azure Arc brings private cloud infrastructure to Azure Resource Manager.
+> **[1:58](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=118)** Azure Arc brings private [[Cloud Infrastructure]] to Azure Resource Manager.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=123)** There is no need to use this unless you want to manage non Azure resources from the Azure Management tools.
 >
@@ -4882,11 +4838,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=184)** You can communicate with Azure through three routes, a user interface, a command line interface, and an API.
 >
-> **[3:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=190)** It's good to know that Azure Arc supports these via the Azure portal, the Azure CLI, and the Azure REST API.
+> **[3:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-arc-unify-multi-cloud-and-on-premises-management?u=76281980&t=190)** It's good to know that Azure Arc supports these via the Azure portal, the Azure [[CLI]], and the Azure [[Representational State Transfer (REST)|REST]] API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (35), management (10), cloud (9), data (4), [[Hybrid Cloud]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (35), [[Hybrid Cloud]] (2), [[Hardware]] (2), [[Cloud Services]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (2), arm (1), cli (1), rest (1)
 > **Tools:** azure portal (3), command line (1)
 > **Definitions:** is a  (2)
@@ -4894,12 +4850,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Back up and recover data with Azure Backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980)
+#### [Back up and recover data with Azure Backup](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=0)** - [Instructor] The Azure Backup service provides simple, secure, and cost-effective solutions to back up your data and recover it From the Microsoft Azure Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] Backup service provides simple, secure, and cost-effective solutions to back up your data and recover it From the [[Microsoft Azure]] Cloud.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=9)** There are several backup agents and services available.
 >
@@ -4911,15 +4866,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=23)** MABS is the acronym for Microsoft Azure Backup Server.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=27)** Backups work for all of these Azure Cloud services.
+> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=27)** Backups work for all of these Azure [[Cloud Services]].
 >
-> **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=31)** That means you can back up your virtual machines, your file shares, your managed disks, your blob data, and there's a couple of places where you can back up your databases, SQL Server databases on virtual machines and PostgreSQL databases.
+> **[0:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=31)** That means you can back up your [[Virtual Machines]], your file shares, your managed disks, your blob data, and there's a couple of places where you can back up your [[Databases]], [[Microsoft SQL Server|SQL Server]] databases on virtual machines and [[PostgreSQL]] databases.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=44)** For Azure virtual machines, you get independent and isolated backups to guard against accidental destruction of original data.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=51)** Backups are stored in a recovery services vault with built-in management of recovery points.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=57)** Configuration and scalability are simple.
+> **[0:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=57)** Configuration and [[Scalability]] are simple.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=59)** Backups are optimized and you can easily restore as needed.
 >
@@ -4927,7 +4882,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=72)** Azure Backup can also backup on-premises items, not just data you have stored in the Azure Cloud.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=78)** This means that you can create copies of your data from servers and systems located in your own physical location, like your office or data center.
+> **[1:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=78)** This means that you can create copies of your data from servers and systems located in your own physical location, like your [[Microsoft Office|office]] or data center.
 >
 > **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=85)** For example, if you have physical servers running on your premises, Azure Backup can backup up files, it can back up folders and even system state data.
 >
@@ -4937,7 +4892,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=105)** This is done using the Data Protection Manager or the Azure Backup Server Agent.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=110)** Azure Backup can also protect other on-premises workloads such as SQL Server, SharePoint, and Exchange.
+> **[1:50](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=110)** Azure Backup can also protect other on-premises workloads such as SQL Server, [[SharePoint]], and Exchange.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=116)** Azure Backup offers short and long-term backup of on-premises resources without the need to deploy complex on-premises backup solutions.
 >
@@ -4951,7 +4906,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=148)** Attackers can't access the data as it moves to the cloud.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=151)** Azure also protects data at rest as the data is stored in an encrypted format, so it's not readable, should hackers gain access to the backup stores.
+> **[2:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=151)** Azure also protects data at [[Representational State Transfer (REST)|rest]] as the data is stored in an encrypted format, so it's not readable, should hackers gain access to the backup stores.
 >
 > **[2:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=160)** Hybrid environments often require mixed storage, some on-premises and some in the cloud.
 >
@@ -4963,40 +4918,39 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=183)** It can be used to backup data from different platforms to Azure.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=187)** It eliminates the need for additional infrastructure for backing up virtual machines and SQL servers, and maintains data and application consistency.
+> **[3:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=187)** It eliminates the need for additional infrastructure for backing up virtual machines and [[SQL]] servers, and maintains data and application consistency.
 >
 > **[3:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/backup-and-recover-data-with-azure-backup?u=76281980&t=195)** With the Azure Central Backup Management Portal, it is easy to manage resources and restore data when needed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), data (20), cloud (9), [[Virtual Machines]] (5), [[Microsoft Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (22), [[Virtual Machines]] (5), [[Microsoft Azure]] (3), [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** mars (3), sql (3), mabs (2)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Azure Marketplace: Use partner services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980)
+#### [The Azure Marketplace: Use partner services](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=0)** - [Narrator] One common theme across many Microsoft tools is they're built in extensibility through a Marketplace.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=0)** - [Narrator] One common theme across many [[Microsoft]] tools is they're built in extensibility through a Marketplace.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=5)** This lets us find, buy, and install applications and services.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=9)** You can find the Marketplace by going to the search bar and typing in the word market, then click here.
+> **[0:09](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=9)** You can find the Marketplace by going to the search bar and typing in the [[Microsoft Word|word]] market, then click here.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=15)** You'll see a list of available services and products.
+> **[0:15](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=15)** You'll see a list of available services and [[Microsoft Products|products]].
 >
-> **[0:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=18)** All of them listed here are certified as Azure compatible.
+> **[0:18](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=18)** All of them listed here are certified as [[Microsoft Azure|Azure]] compatible.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=21)** And now let's say we want to look at databases.
+> **[0:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=21)** And now let's say we want to look at [[Databases]].
 >
 > **[0:23](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=23)** I click here, and I can see that some of these are Microsoft.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=27)** I can see that this Azure Synapse Analytics and this SQL Elastic data pool are Microsoft.
+> **[0:27](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=27)** I can see that this Azure Synapse Analytics and this [[SQL]] Elastic data pool are Microsoft.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=32)** But I also see that there is MongoDB Atlas on Azure.
+> **[0:32](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=32)** But I also see that there is [[MongoDB]] Atlas on Azure.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-marketplace-use-partner-services?u=76281980&t=35)** That's from MongoDB.
 >
@@ -5024,23 +4978,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[MongoDB]] (3), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[MongoDB]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (4), apache (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### The rest of the services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980)
+#### [The rest of the services](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=0)** - [Narrator] The Microsoft Azure Cloud is huge.
+> **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=0)** - [Narrator] The [[Microsoft Azure]] Cloud is huge.
 >
 > **[0:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=2)** We've spent many hours looking at features and services, and there is so much more to learn.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=8)** I've been studying Azure for a while.
+> **[0:08](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=8)** I've been studying [[Microsoft Azure|Azure]] for a while.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=10)** I'm familiar with many parts of the Azure ecosystem.
 >
@@ -5050,7 +5003,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=22)** Many Azure services come with built-in analytic tools.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=25)** When these tools are enabled, the service collects statistics during its operation.
+> **[0:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=25)** When these tools are enabled, the service collects [[Statistics]] during its operation.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=30)** Use the analytics tools to delve into the information as needed.
 >
@@ -5076,7 +5029,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=93)** But what about after you started using the service?
 >
-> **[1:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=96)** That's where the Azure Cost Management Tool comes in, helping you monitor, control, and optimize your spending in real time.
+> **[1:36](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=96)** That's where the Azure [[Cost Management]] Tool comes in, helping you monitor, control, and optimize your spending in real time.
 >
 > **[1:43](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=103)** With this tool, you can learn how to analyze costs, create and manage budgets, export data, and review and act on recommendations.
 >
@@ -5114,7 +5067,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=228)** It's called Azure Orbital, a ground station as a service product, that allows organizations with satellites and spacecraft to communicate with and process data from those crafts without having to own a satellite ground station.
 >
-> **[4:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=240)** Azure Digital Twins is an IOT platform that enables you to create digital representations of real world entities such as things, places, business processes, and people.
+> **[4:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=240)** Azure Digital Twins is an [[IoT]] platform that enables you to create digital representations of real world entities such as things, places, business processes, and people.
 >
 > **[4:11](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=251)** These environments can include buildings, factories, farms, energy networks, railways, and stadiums.
 >
@@ -5126,13 +5079,13 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=271)** The list we've explored today is far from exhaustive.
 >
-> **[4:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=273)** Microsoft continually expands and enhances Azure, offering more innovative services with Azure.
+> **[4:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=273)** [[Microsoft]] continually expands and enhances Azure, offering more innovative services with Azure.
 >
 > **[4:40](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-rest-of-the-services?u=76281980&t=280)** There's always something new to learn and explore.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (33), cloud (4), [[Security]] (4), data (2), [[IoT]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (33), [[IoT]] (2), [[Microsoft Azure]] (1), [[Statistics]] (1), [[Cost Management]] (1)
 > **Env Vars:** iot (2), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -5146,14 +5099,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=0)** - [Walt] You've reached the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=2)** We've explored the range of Azure Cloud services and looked at many parts of the Azure ecosystem.
+> **[0:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=2)** We've explored the range of [[Microsoft Azure|Azure]] [[Cloud Services]] and looked at many parts of the Azure ecosystem.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=7)** Perhaps you are wondering what to do next when you are ready to learn the details on an Azure topic.
 >
@@ -5163,33 +5115,33 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=22)** If you like this course, be sure to check out my other courses.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=26)** I have some Azure specific topics like Azure DevOps, Azure Security, Azure AI, and ChatGPT.
+> **[0:26](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=26)** I have some Azure specific topics like Azure [[DevOps]], Azure Security, Azure AI, and [[ChatGPT]].
 >
 > **[0:33](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=33)** And when you tire up Azure topics, I have courses on C#, .NET, Visual Studio, and lots more.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=39)** I recommend studying the documentation available at the Microsoft Azure Documentation Center.
+> **[0:39](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=39)** I recommend studying the documentation available at the [[Microsoft Azure]] Documentation Center.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=44)** A few years ago, Microsoft undertook a major overhaul of their documentation resulting in significant improvements.
+> **[0:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=44)** A few years ago, [[Microsoft]] undertook a major overhaul of their documentation resulting in significant improvements.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=51)** The documentation is now maintained in a GitHub repository and Microsoft accepts pull requests for document changes.
+> **[0:51](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=51)** The documentation is now maintained in a [[GitHub]] repository and Microsoft accepts pull requests for document changes.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=57)** This means that the community can contribute to fixing and enhancing the help documents.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=62)** I recommend you study the documentation available at the Microsoft Azure Architecture Center.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=67)** Here, you'll find several design patterns for Azure Solutions that Microsoft has created for various business scenarios.
+> **[1:07](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=67)** Here, you'll find several [[Design Patterns]] for Azure Solutions that Microsoft has created for various business scenarios.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=73)** For example, this reference architecture shows established practices for a web application that uses Azure App Service and Azure SQL.
+> **[1:13](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=73)** For example, this reference architecture shows established practices for a web application that uses Azure App Service and Azure [[SQL]].
 >
-> **[1:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=81)** One topic we didn't cover much in this course is software as a service.
+> **[1:21](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=81)** One topic we didn't cover much in this course is [[SaaS|software as a service]].
 >
-> **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=85)** As you migrate more of your assets to the cloud, consider how many of your software services such as email, accounting, and content management can also be moved to the cloud.
+> **[1:25](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=85)** As you migrate more of your assets to the cloud, consider how many of your software services such as email, accounting, and [[Content Management]] can also be moved to the cloud.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=94)** There are various vendors offering software as a service solutions.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=98)** But if you prefer to stay with Microsoft, there is Office 365, SharePoint and Dynamics 365.
+> **[1:38](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=98)** But if you prefer to stay with Microsoft, there is [[Microsoft Office|Office]] 365, [[SharePoint]] and Dynamics 365.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=104)** These are mature products in this category and should be evaluated.
+> **[1:44](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=104)** These are mature [[Microsoft Products|products]] in this category and should be evaluated.
 >
 > **[1:48](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980&t=108)** Thank you for joining me as I explored the breadth of Azure Services.
 >
@@ -5199,7 +5151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (4), cloud (3), next (2), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microsoft]] (4), [[Microsoft Azure]] (2), [[Cloud Services]] (1), [[DevOps]] (1)
 > **Documentation:** the documentation (3)
 > **Env Vars:** net (1), sql (1)
 > **Tools:** visual studio (1), github (1)

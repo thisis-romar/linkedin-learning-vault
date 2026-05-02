@@ -92,18 +92,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits: Protocol-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980)
+#### [Benefits: Protocol-oriented programming](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=1)** - Most software developers are familiar with object oriented programming concepts, but in Swift we can take a different approach.
+> **[0:01](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=1)** - Most software developers are familiar with object oriented [[Programming Concepts]], but in [[Swift (Programming Language)|Swift]] we can take a different approach.
 >
 > **[0:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=9)** Protocol-oriented programming is a powerful paradigm that can simplify and improve the design of our systems considerably.
 >
 > **[0:17](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=17)** Hello, I am Karoly Nyisztor.
 >
-> **[0:19](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=19)** I have been developing software systems for more than two decades now, and I am passionate about Swift and IOS development.
+> **[0:19](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=19)** I have been developing software systems for more than two decades now, and I am passionate about Swift and [[iOS Development]].
 >
 > **[0:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980&t=26)** I have also authored several books and online courses.
 >
@@ -131,13 +130,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Programming Concepts]] (2), [[Swift (Programming Language)|Swift]] (2), [[iOS Development]] (1), power (1)
+> **Frameworks & Libraries:** [[Programming Concepts]] (2), [[Swift (Programming Language)|Swift]] (2), [[iOS Development]] (1)
 > **Env Vars:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - most (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,19 +143,19 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=9)** I'm going to explain all of the concepts and will provide thorough explanations regarding implementation details and about the sample code we used throughout this course.
 >
-> **[0:19](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=19)** However, since we delve into intermediate topics, prior knowledge about object-oriented software development and some experience in Swift programming is required.
+> **[0:19](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=19)** However, since we delve into intermediate topics, prior knowledge about object-oriented [[Software Development]] and some experience in [[Swift (Programming Language)|Swift]] programming is required.
 >
 > **[0:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=29)** For example, we're going to work with classes, value types, and closures.
 >
 > **[0:35](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=35)** If you're not familiar with these concepts, check out our Swift Essential Training course.
 >
-> **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=41)** To implement the exercises in this course, you will need Xcode 11.1 or later.
+> **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=41)** To implement the exercises in this course, you will need [[Xcode]] 11.1 or later.
 >
 > **[0:47](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-you-should-know?u=76281980&t=47)** You can download Xcode for free from the Mac App Store.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Swift (Programming Language)|Swift]] (2), [[Xcode]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Xcode]] (2), [[Software Development]] (1)
 > **Versions:** 11.1 (1)
 > **Exercise Files:** sample code (1)
 > **Analogies:** for example (1)
@@ -168,8 +166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is protocol-oriented programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980)
+#### [What is protocol-oriented programming?](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,11 +178,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=13)** Many object oriented programming languages rely on them as a means to define communication contracts between objects.
 >
-> **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=20)** Java, C#, or PHP use the term interface instead of protocol.
+> **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=20)** [[Java]], C#, or [[PHP]] use the term interface instead of protocol.
 >
 > **[0:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=26)** In C++ we've got the abstract class.
 >
-> **[0:30](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=30)** The creators of Objective-C and Swift decided to use the term protocol, so protocol is just another name for interface.
+> **[0:30](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=30)** The creators of Objective-C and [[Swift (Programming Language)|Swift]] decided to use the term protocol, so protocol is just another name for interface.
 >
 > **[0:39](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980&t=39)** But what exactly is a protocol?
 >
@@ -227,14 +224,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Programming]] (3), [[Java]] (1), [[PHP]] (1), functional (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Java]] (1), [[PHP]] (1)
 > **Env Vars:** php (1), pop (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing the protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980)
+#### [Introducing the protocol](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=41)** Let's get started exploring the protocol syntax.
 >
-> **[0:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=45)** Open up Xcode and create a playground called protocols.
+> **[0:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=45)** Open up [[Xcode]] and create a playground called protocols.
 >
 > **[0:57](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=57)** Let's make it full screen and I'm going to remove the generated code except the import will need Foundation.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=292)** Also, default values computed properly, initializer, and method definitions are not allowed in the protocol.
 >
-> **[5:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=300)** Since we can't assign default values to the properties defined in the protocol, Swift's type inference engine has no way of working out the type.
+> **[5:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=300)** Since we can't assign default values to the properties defined in the protocol, [[Swift (Programming Language)|Swift]]'s type inference engine has no way of working out the type.
 >
 > **[5:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-protocol-2?u=76281980&t=309)** Therefore, we must specify the type of our properties explicitly.
 >
@@ -352,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1), next (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), similar to (1), for instance (1)
 > **Code Identifiers:** incrementcounter (1)
@@ -361,8 +357,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Best Practices:** recommended (1)
 
-#### Adopting protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-protocols?u=76281980)
+#### [Adopting protocols](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,14 +407,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conforming to protocols via extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980)
+#### [Conforming to protocols via extensions](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,9 +422,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=8)** I create a new playground called ProtocolConformance.
 >
-> **[0:14](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=14)** Now, let's assume that we want to build a cryptography framework.
+> **[0:14](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=14)** Now, let's assume that we want to build a [[Cryptography]] framework.
 >
-> **[0:18](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=18)** We start with a protocol, but first, I'm going to to remove the generated code, we only need to keep the foundation framework and the rest will be deleted.
+> **[0:18](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=18)** We start with a protocol, but first, I'm going to to remove the generated code, we only need to keep the foundation framework and the [[Representational State Transfer (REST)|rest]] will be deleted.
 >
 > **[0:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=29)** So let's create the protocol, I'm going to call it encrypting, and it defines a single-method requirement, the XOR method.
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=52)** We can adopt this protocol in our types easily.
 >
-> **[0:55](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=55)** If I create a structure like TaggedData, Xcode will help out and create the stubs, and I could provide the implementation here.
+> **[0:55](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=55)** If I create a structure like TaggedData, [[Xcode]] will help out and create the stubs, and I could provide the implementation here.
 >
 > **[1:08](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/conforming-to-protocols-via-extensions?u=76281980&t=68)** Now, what if I want to make the string type conform to the protocol?
 >
@@ -493,20 +486,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Xcode]] (1), feature (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Xcode]] (1)
 > **Env Vars:** xor (7), utf (2)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/understanding-polymorphism?u=76281980)
+#### [Understanding polymorphism](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/understanding-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/understanding-polymorphism?u=76281980&t=0)** - Polymorphism is a fundamental object oriented programming concept and it's also essential to protocol oriented programming.
 >
-> **[0:08](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/understanding-polymorphism?u=76281980&t=8)** Polymorphism comes from Greek and means many forms in programming.
+> **[0:08](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/understanding-polymorphism?u=76281980&t=8)** Polymorphism comes from Greek and means many [[Forms]] in programming.
 >
 > **[0:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/understanding-polymorphism?u=76281980&t=13)** It denotes the ability to provide a single interface to different types.
 >
@@ -588,7 +580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** var (1), vra (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -597,8 +589,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - polymorphism (1)
 
-#### Protocol inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-inheritance?u=76281980)
+#### [Protocol inheritance](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +679,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (2), next (1)
 > **Env Vars:** url (3)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **UI Navigation:** open the (1), select the (1)
@@ -697,8 +687,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adopting multiple protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-multiple-protocols?u=76281980)
+#### [Adopting multiple protocols](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-multiple-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-multiple-protocols?u=76281980&t=9)** Protocol composition is one of the pillars of the protocol oriented programming paradigm.
 >
-> **[0:15](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-multiple-protocols?u=76281980&t=15)** Swift, like many other programming languages doesn't allow multiple inheritance for classes.
+> **[0:15](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-multiple-protocols?u=76281980&t=15)** [[Swift (Programming Language)|Swift]], like many other programming languages doesn't allow multiple inheritance for classes.
 >
 > **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/adopting-multiple-protocols?u=76281980&t=20)** However, any type can adapt to multiple protocols.
 >
@@ -816,15 +805,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Programming]] (2), next (2), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** url (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protocol extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-extensions?u=76281980)
+#### [Protocol extensions](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-extensions?u=76281980&t=133)** I call it PersistableData and make it conform to TaggedPersistable.
 >
-> **[2:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-extensions?u=76281980&t=141)** Xcode added three properties, and the new type is ready.
+> **[2:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-extensions?u=76281980&t=141)** [[Xcode]] added three properties, and the new type is ready.
 >
 > **[2:27](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/protocol-extensions?u=76281980&t=147)** I only need to provide an initializer.
 >
@@ -892,15 +880,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Xcode]] (1), data (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **UI Navigation:** open the (1), scroll up (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Removing tight coupling
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-removing-tight-coupling?u=76281980)
+#### [Challenge: Removing tight coupling](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-removing-tight-coupling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-removing-tight-coupling?u=76281980&t=11)** We have a payment controller class that declared two properties, Amazon service and Etsy service. It has an initializer and the method that calculates how much money we are making on Amazon and Etsy.
 >
-> **[0:25](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-removing-tight-coupling?u=76281980&t=25)** The Amazon service and the assay service types are defined in the services does Swift file.
+> **[0:25](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-removing-tight-coupling?u=76281980&t=25)** The Amazon service and the assay service types are defined in the services does [[Swift (Programming Language)|Swift]] file.
 >
 > **[0:31](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-removing-tight-coupling?u=76281980&t=31)** Their implementation is straightforward.
 >
@@ -972,15 +959,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Removing tight coupling
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-removing-tight-coupling?u=76281980)
+#### [Solution: Removing tight coupling](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-removing-tight-coupling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1040,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-removing-tight-coupling?u=76281980&t=201)** Let's fix this.
 >
-> **[3:23](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-removing-tight-coupling?u=76281980&t=203)** So, I go back to the services.swift file.
+> **[3:23](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-removing-tight-coupling?u=76281980&t=203)** So, I go back to the services.[[Swift (Programming Language)|swift]] file.
 >
 > **[3:28](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-removing-tight-coupling?u=76281980&t=208)** I declare a public enumeration called "service type".
 >
@@ -1166,7 +1152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (8)
 > **Non-Speech:** (typing) (2), (upbeat music) (1)
 > **File Paths:** services.swift (1)
@@ -1180,8 +1166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why protocols?
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980)
+#### [Why protocols?](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,7 +1178,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=17)** What's wrong with inheritance, you might ask?
 >
-> **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=20)** It's been around for a while, and we've been using it to build various software products.
+> **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=20)** It's been around for a while, and we've been using it to build various software [[Microsoft Products|products]].
 >
 > **[0:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=26)** That's right, inheritance works great until we hit some of its restrictions.
 >
@@ -1211,7 +1196,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=69)** However, it has some serious limitations too.
 >
-> **[1:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=73)** Limitation number one, Swift, like many other programming languages, prohibits multiple inheritance.
+> **[1:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=73)** Limitation number one, [[Swift (Programming Language)|Swift]], like many other programming languages, prohibits multiple inheritance.
 >
 > **[1:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980&t=80)** Thus, if our subclass needs functionality from a different superclass, we can't make it work.
 >
@@ -1237,14 +1222,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Programming]] (2), [[Microsoft Products|Products]] (1), hit (1), feature (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - why (1)
 
-#### From unstructured code to POP
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/from-unstructured-code-to-pop?u=76281980)
+#### [From unstructured code to POP](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/from-unstructured-code-to-pop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1282,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/from-unstructured-code-to-pop?u=76281980&t=120)** Named functions improved code readability and reduced development times considerably.
 >
-> **[2:06](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/from-unstructured-code-to-pop?u=76281980&t=126)** Structured programming seemed to be the ultimate answer to all software development challenges.
+> **[2:06](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/from-unstructured-code-to-pop?u=76281980&t=126)** Structured programming seemed to be the ultimate answer to all [[Software Development]] challenges.
 >
 > **[2:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/from-unstructured-code-to-pop?u=76281980&t=132)** However, as the software systems kept growing in complexity, it became clear that breaking down the code into smaller, logical units, can solve all the issues.
 >
@@ -1312,20 +1296,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), feature (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** basic (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [narrator] (1)
 
-#### Designing with classes: First try
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980)
+#### [Designing with classes: First try](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=0)** - [Instructor] In Swift, you can follow the object-oriented way of thinking or try to adopt the new protocol-oriented approach.
+> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=0)** - [Instructor] In [[Swift (Programming Language)|Swift]], you can follow the object-oriented way of thinking or try to adopt the new protocol-oriented approach.
 >
-> **[0:07](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=7)** You can even rely on generic and functional programming.
+> **[0:07](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=7)** You can even rely on generic and [[Functional Programming]].
 >
 > **[0:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=12)** Swift blurs the line between the various programming paradigms.
 >
@@ -1335,7 +1318,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=29)** Store data along with a unique identifier, provide file system storage and restoration capabilities, and return a Base64-encoded representation.
 >
-> **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=41)** Let's open up Xcode.
+> **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=41)** Let's open up [[Xcode]].
 >
 > **[0:43](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=43)** I create a new playground called Tagged Data.
 >
@@ -1373,7 +1356,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=126)** And since this method can throw an error, we have to call it using Try.
 >
-> **[2:11](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=131)** Also the Persist method has to be marked with the throws key word.
+> **[2:11](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=131)** Also the Persist method has to be marked with the throws key [[Microsoft Word|word]].
 >
 > **[2:17](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=137)** Next, I create a convenience initializer to load the data from Persistence.
 >
@@ -1407,7 +1390,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=219)** One of the five basic software engineering principles known as Solid.
 >
-> **[3:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=225)** I talk about these principles and more in my course iOS Development: Architecture.
+> **[3:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=225)** I talk about these principles and more in my course [[iOS Development]]: Architecture.
 >
 > **[3:51](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-first-try?u=76281980&t=231)** The Single Responsibility Principle states that every class should have responsibility over a single part of the functionality provided by the software.
 >
@@ -1429,15 +1412,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Swift (Programming Language)|Swift]] (2), [[Programming]] (2), next (2), generic (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Functional Programming]] (1), [[Xcode]] (1), [[Microsoft Word|Word]] (1), [[iOS Development]] (1)
 > **Env Vars:** url (6)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing with classes: Subclassing
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-subclassing?u=76281980)
+#### [Designing with classes: Subclassing](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-subclassing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,7 +1487,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-subclassing?u=76281980&t=175)** We got an error.
 >
-> **[2:56](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-subclassing?u=76281980&t=176)** Swift doesn't support multiple inheritance.
+> **[2:56](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-subclassing?u=76281980&t=176)** [[Swift (Programming Language)|Swift]] doesn't support multiple inheritance.
 >
 > **[2:59](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/designing-with-classes-subclassing?u=76281980&t=179)** So this approach won't work.
 >
@@ -1523,15 +1505,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), feature (2), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **UI Navigation:** select the (2), switch to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** based64encodingstring (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
-#### The benefits of thinking in protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980)
+#### [The benefits of thinking in protocols](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1548,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=84)** URL of type URL.
 >
-> **[1:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=86)** And the persist method for data storage in the file system, we need to provide a URL.
+> **[1:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=86)** And the persist method for [[Data Storage]] in the file system, we need to provide a URL.
 >
 > **[1:34](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=94)** And this method can also throw an error.
 >
@@ -1611,7 +1592,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=206)** It adopts the taggable protocol.
 >
-> **[3:31](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=211)** Let Xcode create the stabs and the initializer.
+> **[3:31](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=211)** Let [[Xcode]] create the stabs and the initializer.
 >
 > **[3:37](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-benefits-of-thinking-in-protocols?u=76281980&t=217)** We initialize the data and the tag properties.
 >
@@ -1649,14 +1630,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), feature (3), next (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Xcode]] (1)
 > **Env Vars:** url (7)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** taggeddata (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlighting the differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/highlighting-the-differences?u=76281980)
+#### [Highlighting the differences](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/highlighting-the-differences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1668,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - let (1)
 
@@ -1697,8 +1676,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980)
+#### [The importance of generics](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,7 +1688,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980&t=12)** Whenever we encounter protocols, we'll often also see generics.
 >
-> **[0:17](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980&t=17)** As an example, the built-in Swift collection types conform to the collection protocol and several other protocols as well.
+> **[0:17](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980&t=17)** As an example, the built-in [[Swift (Programming Language)|Swift]] collection types conform to the collection protocol and several other protocols as well.
 >
 > **[0:26](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980&t=26)** Besides, they are also implemented as generic types.
 >
@@ -1780,13 +1758,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), generic (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Env Vars:** dry (1)
 > **Versions:** 2.71 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining generic functions and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-generic-functions-and-methods?u=76281980)
+#### [Defining generic functions and methods](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-generic-functions-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1801,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-generic-functions-and-methods?u=76281980&t=81)** Now, our code doesn't compile.
 >
-> **[1:24](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-generic-functions-and-methods?u=76281980&t=84)** That's because Swift doesn't know how to compare the two objects of place holder type.
+> **[1:24](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-generic-functions-and-methods?u=76281980&t=84)** That's because [[Swift (Programming Language)|Swift]] doesn't know how to compare the two objects of place holder type.
 >
 > **[1:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-generic-functions-and-methods?u=76281980&t=89)** A type needs to conform to the equator where protocol to test whether its instances are equal.
 >
@@ -1874,12 +1851,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), data (4), [[Swift (Programming Language)|Swift]] (3), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3)
 > **Versions:** 3.14 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with generic types
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-generic-types?u=76281980)
+#### [Working with generic types](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-generic-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1887,7 +1863,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-generic-types?u=76281980&t=5)** Generic types can work with any type and not only with a particular class, structure or enumeration.
 >
-> **[0:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-generic-types?u=76281980&t=12)** That's why the built-in Swift collection types, the array, the set and the dictionary, are implemented as generic collections.
+> **[0:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-generic-types?u=76281980&t=12)** That's why the built-in [[Swift (Programming Language)|Swift]] collection types, the array, the set and the dictionary, are implemented as generic collections.
 >
 > **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-generic-types?u=76281980&t=20)** Now, imagine that we need the wrapper that can hold values of various types.
 >
@@ -1965,7 +1941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (7), [[Swift (Programming Language)|Swift]] (2)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** piwrapped (1), stringwrapped (1)
 > **Analogies:** imagine (1), for example (1)
 > **UI Navigation:** open the (1)
@@ -1973,8 +1949,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Placeholder types in protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980)
+#### [Placeholder types in protocols](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,13 +1967,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=31)** Now, wouldn't it be great to create a protocol that's not restricted to the data type?
 >
-> **[0:36](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=36)** Swift allows us to declare a place for the types in protocols.
+> **[0:36](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=36)** [[Swift (Programming Language)|Swift]] allows us to declare a place for the types in protocols.
 >
 > **[0:40](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=40)** Let's see how.
 >
 > **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=41)** I declare an associated type next.
 >
-> **[0:44](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=44)** The associated type key word lets us define the place for the name for a type within a protocol.
+> **[0:44](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=44)** The associated type key [[Microsoft Word|word]] lets us define the place for the name for a type within a protocol.
 >
 > **[0:50](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/placeholder-types-in-protocols?u=76281980&t=50)** I'm going to call it Content.
 >
@@ -2030,13 +2005,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), generic (1), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Using generics with protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/using-generics-with-protocols?u=76281980)
+#### [Using generics with protocols](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/using-generics-with-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2054,7 +2028,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/using-generics-with-protocols?u=76281980&t=39)** And let's initialize it with a tag called pi, and the value Double.pi for the data.
 >
-> **[0:48](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/using-generics-with-protocols?u=76281980&t=48)** We could even delete the type, because Swift's type inference engine can figure it out without our help.
+> **[0:48](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/using-generics-with-protocols?u=76281980&t=48)** We could even delete the type, because [[Swift (Programming Language)|Swift]]'s type inference engine can figure it out without our help.
 >
 > **[0:55](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/using-generics-with-protocols?u=76281980&t=55)** I'm going to remove the type, and it should combine just fine.
 >
@@ -2076,14 +2050,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (5), data (2), [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** taggeddouble (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Implementing a generic stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-implementing-a-generic-stack?u=76281980)
+#### [Challenge: Implementing a generic stack](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-implementing-a-generic-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,15 +2100,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), next (1)
 > **Code Identifiers:** isempty (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Implementing a generic stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-implementing-a-generic-stack?u=76281980)
+#### [Solution: Implementing a generic stack](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-implementing-a-generic-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,7 +2214,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-implementing-a-generic-stack?u=76281980&t=250)** Know that I am not using return here.
 >
-> **[4:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-implementing-a-generic-stack?u=76281980&t=252)** Swift 5.1 no longer requires the return keyword in single expression functions, but it's not a mistake if you add it.
+> **[4:12](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-implementing-a-generic-stack?u=76281980&t=252)** [[Swift (Programming Language)|Swift]] 5.1 no longer requires the return keyword in single expression functions, but it's not a mistake if you add it.
 >
 > **[4:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-implementing-a-generic-stack?u=76281980&t=261)** The peak method returns the top element without removing it.
 >
@@ -2287,7 +2258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (5), next (3), data (1), generic (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (5)
 > **CLI Commands:** make (5)
 > **Versions:** 5.1 (2)
 > **Definitions:** is an  (1)
@@ -2299,8 +2270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Weather app design
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980)
+#### [Weather app design](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2350,7 +2320,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=115)** The ViewModel uses a data provider.
 >
-> **[1:58](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=118)** The Model to fetch weather information.
+> **[1:58](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=118)** The Model to [[Fetch]] weather information.
 >
 > **[2:01](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=121)** We'll make it conform to the ObservableObject protocol to enable data binding.
 >
@@ -2360,15 +2330,15 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=134)** We encapsulate the required initialization steps, network cause and data conversions into dedicated controller types.
 >
-> **[2:22](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=142)** We'll rely on built-in protocols to decode the JSON payloads.
+> **[2:22](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=142)** We'll rely on built-in protocols to decode the [[JSON]] payloads.
 >
 > **[2:27](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=147)** So this is our high-level design.
 >
-> **[2:30](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=150)** Now let's switch to Xcode.
+> **[2:30](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980&t=150)** Now let's switch to [[Xcode]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), web (2), [[Fetch]] (2), functional (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[JSON]] (1), [[Xcode]] (1)
 > **Env Vars:** mvvm (3), json (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
@@ -2376,12 +2346,11 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining the UI using SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980)
+#### [Defining the UI using SwiftUI](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=0)** - [Instructor] Open up Xcode and create a new iOS project.
+> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=0)** - [Instructor] Open up [[Xcode]] and create a new iOS project.
 >
 > **[0:06](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=6)** Select Single View App, and enter WeatherApp as the Product Name.
 >
@@ -2391,7 +2360,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=30)** SwiftUI lets us lay out user-interfaces in a declarative way.
 >
-> **[0:34](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=34)** Now, select the ContentView.swift file.
+> **[0:34](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=34)** Now, select the ContentView.[[Swift (Programming Language)|swift]] file.
 >
 > **[0:39](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/defining-the-ui-using-swiftui?u=76281980&t=39)** There are two structures.
 >
@@ -2495,7 +2464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (2), product (1), data (1), [[Swift (Programming Language)|Swift]] (1), feature (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (2)
 > **File Paths:** contentview.swift (1)
 > **CLI Commands:** make (1)
@@ -2504,8 +2473,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### The WebServiceController protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980)
+#### [The WebServiceController protocol](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2521,7 +2489,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=20)** We're going to use two web services provided by [openweathermap.org](https://openweathermap.org) and [weatherstack.com](https://weatherstack.com).
 >
-> **[0:28](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=28)** Both services return their response in JSON format, but the payload structure and contents are different.
+> **[0:28](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=28)** Both services return their response in [[JSON]] format, but the payload structure and contents are different.
 >
 > **[0:35](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=35)** Although the APIs are incompatible, we need to integrate them seamlessly into our application.
 >
@@ -2533,9 +2501,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=60)** Thus we won't have to deal with different, incompatible interfaces in our application code.
 >
-> **[1:06](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=66)** Now let's go back to Xcode.
+> **[1:06](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=66)** Now let's go back to [[Xcode]].
 >
-> **[1:10](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=70)** I create a group called Model, and I add a new Swift file that will hold the definition of the service protocol.
+> **[1:10](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=70)** I create a group called Model, and I add a new [[Swift (Programming Language)|Swift]] file that will hold the definition of the service protocol.
 >
 > **[1:20](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=80)** It will be a Swift file, and I call it WebServiceController.
 >
@@ -2549,7 +2517,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=115)** It should be a string.
 >
-> **[1:58](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=118)** This method is supposed to fetch data from the internet.
+> **[1:58](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=118)** This method is supposed to [[Fetch]] data from the internet.
 >
 > **[2:01](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=121)** Such long running tasks should be implemented as asynchronous methods.
 >
@@ -2589,7 +2557,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=227)** The returned response, rephrase, the returned response could also be invalid.
 >
-> **[3:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=232)** For example, the JSON payload may be malformed or the server might return an HTML page instead of a JSON string and so on.
+> **[3:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=232)** For example, the JSON payload may be malformed or the server might return an [[HTML]] page instead of a JSON string and so on.
 >
 > **[4:01](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=241)** To report such issues, I introduced the invalid payload case.
 >
@@ -2619,13 +2587,13 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=299)** And this is the final signature of our fetch weather data method.
 >
-> **[5:03](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=303)** We established the mapping between the web service calls and the rest of our application.
+> **[5:03](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=303)** We established the mapping between the web service calls and the [[Representational State Transfer (REST)|rest]] of our application.
 >
 > **[5:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-webservicecontroller-protocol?u=76281980&t=309)** Now it's time to integrate our first real weather API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), data (5), [[Fetch]] (5), [[Swift (Programming Language)|Swift]] (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[Swift (Programming Language)|Swift]] (4), [[JSON]] (3), [[Xcode]] (1), [[HTML]] (1)
 > **Env Vars:** url (5), json (3), api (2), html (1)
 > **CLI Commands:** make (2)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1), [weatherstack.com](https://weatherstack.com) (1)
@@ -2634,12 +2602,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Working with a third-party API
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-a-third-party-api?u=76281980)
+#### [Working with a third-party API](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-a-third-party-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-a-third-party-api?u=76281980&t=0)** - [Instructor] We're going to fetch real weather data using the Open Weather Map web service.
+> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-a-third-party-api?u=76281980&t=0)** - [Instructor] We're going to [[Fetch]] real weather data using the Open Weather Map web service.
 >
 > **[0:05](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/working-with-a-third-party-api?u=76281980&t=5)** Open [openweathermap.org](https://openweathermap.org) and navigate to the API page.
 >
@@ -2667,7 +2634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (3), [[Fetch]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1)
@@ -2676,14 +2643,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the OpenWeatherMap controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980)
+#### [Implementing the OpenWeatherMap controller](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980&t=0)** - In this video, we integrate the open weather map API and fetch live weather information.
+> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980&t=0)** - In this video, we integrate the open weather map API and [[Fetch]] live weather information.
 >
-> **[0:07](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980&t=7)** We need a new file created in the model group and name it OpenWeatherMapController.Swift.
+> **[0:07](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980&t=7)** We need a new file created in the model group and name it OpenWeatherMapController.[[Swift (Programming Language)|Swift]].
 >
 > **[0:16](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/implementing-the-openweathermap-controller?u=76281980&t=16)** Let's declare the class next.
 >
@@ -2767,7 +2733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Fetch]] (2), data (2), [[Swift (Programming Language)|Swift]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **Env Vars:** api (9), url (9), https (1), nil (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** safeurlstring (1), invalidurl (1)
@@ -2776,8 +2742,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 
-#### Completing the OpenWeatherMap controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980)
+#### [Completing the OpenWeatherMap controller](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2809,9 +2774,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980&t=99)** Next, we're going to process the response.
 >
-> **[1:42](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980&t=102)** Bars and json data is beyond the scope of this course.
+> **[1:42](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980&t=102)** Bars and [[JSON]] data is beyond the scope of this course.
 >
-> **[1:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980&t=105)** The json data to Swift's structures mappings are defined in the OenWeatherMap data Swift file.
+> **[1:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980&t=105)** The json data to [[Swift (Programming Language)|Swift]]'s structures mappings are defined in the OenWeatherMap data Swift file.
 >
 > **[1:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/completing-the-openweathermap-controller?u=76281980&t=112)** I'm going to add it to our project.
 >
@@ -2837,19 +2802,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[JSON]] (4), [[Swift (Programming Language)|Swift]] (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Swift (Programming Language)|Swift]] (3)
 > **Code Identifiers:** completionhandler (8), datatask (3), endpointurl (2), webservicecontrollererror (2), invalidpayload (2)
 > **Env Vars:** url (4)
 > **UI Navigation:** right-click (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
 
-#### Introducing the view model
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980)
+#### [Introducing the view model](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=0)** - [Instructor] We can now fetch current weather data using the OpenWeatherMap service and we've also got the user interface.
+> **[0:00](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=0)** - [Instructor] We can now [[Fetch]] current weather data using the OpenWeatherMap service and we've also got the user interface.
 >
 > **[0:07](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=7)** So, let's connect the dots.
 >
@@ -2861,7 +2825,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=23)** First, add a new group and call it ViewModel.
 >
-> **[0:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=29)** Then create a new swift file called WeatherViewModel.
+> **[0:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=29)** Then create a new [[Swift (Programming Language)|swift]] file called WeatherViewModel.
 >
 > **[0:36](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/introducing-the-view-model?u=76281980&t=36)** Now let's declare the ViewModel class.
 >
@@ -2919,14 +2883,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Fetch]] (3), next (3), [[Swift (Programming Language)|Swift]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** weatherinfo (5), weatherservice (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Presenting weather data
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/presenting-weather-data?u=76281980)
+#### [Presenting weather data](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/presenting-weather-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2970,7 +2933,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/presenting-weather-data?u=76281980&t=114)** First, I'm going to check if there's a valid input.
 >
-> **[1:58](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/presenting-weather-data?u=76281980&t=118)** If not, self.input is empty, and if the user provided some text, that's called the weather view model's fetch method, and I pass in the input.
+> **[1:58](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/presenting-weather-data?u=76281980&t=118)** If not, self.input is empty, and if the user provided some text, that's called the weather view model's [[Fetch]] method, and I pass in the input.
 >
 > **[2:15](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/presenting-weather-data?u=76281980&t=135)** Note that we're not returning the weather information here.
 >
@@ -2982,14 +2945,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Fetch]] (2), next (1), functional (1), application (1)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **Code Identifiers:** oneditingchanged (2), uncommit (2)
 > **UI Navigation:** switch to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Integrating a fallback service
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-integrating-a-fallback-service?u=76281980)
+#### [Challenge: Integrating a fallback service](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-integrating-a-fallback-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3005,7 +2967,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-integrating-a-fallback-service?u=76281980&t=29)** Editors, please remove the transition from the slides to this X code view.
 >
-> **[0:34](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-integrating-a-fallback-service?u=76281980&t=34)** I added a new web service controller that allows us to fetch weather information using the weather stack API.
+> **[0:34](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-integrating-a-fallback-service?u=76281980&t=34)** I added a new web service controller that allows us to [[Fetch]] weather information using the weather stack API.
 >
 > **[0:45](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/challenge-integrating-a-fallback-service?u=76281980&t=45)** The corresponding code, the birth structures can be found in the Jason Mappers Group.
 >
@@ -3041,7 +3003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Fetch]] (2), [[Security]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **Env Vars:** http (2), api (1), ssl (1), https (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
@@ -3050,8 +3012,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - web (1)
 
-#### Solution: Integrating a fallback service
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980)
+#### [Solution: Integrating a fallback service](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3081,7 +3042,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=49)** Clients are not supposed to set its value.
 >
-> **[0:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=52)** And now, I am going to switch to the open ethernet controller, the Swift file.
+> **[0:52](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=52)** And now, I am going to switch to the open ethernet controller, the [[Swift (Programming Language)|Swift]] file.
 >
 > **[0:59](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=59)** I add the fallback service property first.
 >
@@ -3093,7 +3054,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=79)** And all it does is setting the fallback service property.
 >
-> **[1:27](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=87)** Now I'm going to incorporate the fallback logic into the fetch weather data method.
+> **[1:27](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=87)** Now I'm going to incorporate the fallback logic into the [[Fetch]] weather data method.
 >
 > **[1:33](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/solution-integrating-a-fallback-service?u=76281980&t=93)** Let's have a look at the data desk's completion handler.
 >
@@ -3143,7 +3104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), data (4), next (3), [[Fetch]] (2), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -3154,8 +3115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3165,21 +3125,21 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=5)** Now, you've got the taste of how powerful protocols can be.
 >
-> **[0:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=9)** If you're interested in more Swift content, you should check my other courses.
+> **[0:09](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=9)** If you're interested in more [[Swift (Programming Language)|Swift]] content, you should check my other courses.
 >
-> **[0:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=13)** Practical Design Patterns in Swift delves into the most popular design patterns and Swift programming best practices.
+> **[0:13](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=13)** Practical [[Design Patterns]] in Swift delves into the most popular design patterns and Swift programming best practices.
 >
-> **[0:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=21)** iOS Development: Architecture explores the fundamental concepts behind modern iOS application design and architecture.
+> **[0:21](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=21)** [[iOS Development]]: Architecture explores the fundamental concepts behind modern iOS application design and architecture.
 >
 > **[0:30](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=30)** And if you'd like to build more secure iOS apps, check out my iOS Development: Security course.
 >
-> **[0:36](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=36)** You can find me on LinkedIn, Twitter, YouTube and my blog.
+> **[0:36](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=36)** You can find me on [[LinkedIn]], Twitter, YouTube and my blog.
 >
 > **[0:41](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980&t=41)** Thanks again for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Design Patterns]] (2), [[iOS Development]] (2), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (3), [[Design Patterns]] (2), [[iOS Development]] (2), [[LinkedIn]] (1)
 > **Code Identifiers:** ios (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)

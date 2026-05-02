@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going from wireframes to prototypes in Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980)
+#### [Going from wireframes to prototypes in Figma](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,35 +88,34 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=28)** Once we have a defined problem, the team then works on identifying and brainstorming solutions.
 >
-> **[0:35](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=35)** Empathize, define, ID, prototype, and test, the design thinking process to develop thoughtful solutions and tackle complex problems.
+> **[0:35](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=35)** Empathize, define, ID, prototype, and test, the [[Design Thinking]] process to develop thoughtful solutions and tackle complex problems.
 >
-> **[0:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=45)** Often after the ideation phase, I explore ways of making the prototyping phase meaningful and organized.
+> **[0:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=45)** Often after the ideation phase, I explore ways of making the [[Prototyping]] phase meaningful and organized.
 >
-> **[0:53](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=53)** In this course, I will share with you the process of transforming ideas into a high fidelity prototype using Figma and more digital product that you can then share with your team and stakeholders.
+> **[0:53](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=53)** In this course, I will share with you the process of transforming ideas into a high fidelity prototype using [[Figma (Software)|Figma]] and more digital product that you can then share with your team and stakeholders.
 >
-> **[1:05](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=65)** So if you are feeling stuck or confused in your projects, join me, Tanvi Janani on LinkedIn Learning where we'll transform an idea into a solution and learn to leverage online resources to better build your career as an experienced designer.
+> **[1:05](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=65)** So if you are feeling stuck or confused in your projects, join me, Tanvi Janani on [[LinkedIn]] Learning where we'll transform an idea into a solution and learn to leverage online resources to better build your career as an experienced designer.
 >
 > **[1:22](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980&t=82)** Together, let's grow your idea into something special.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), product (2), [[Design Thinking]] (1), [[Prototyping]] (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1), [[Prototyping]] (1), [[Figma (Software)|Figma]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Speakers:** - [tanvi] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=0)** - [Narrator] This course is focused on developing digital wire frames and prototypes using the advanced prototyping software known as Figma.
+> **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=0)** - [Narrator] This course is focused on developing digital wire frames and prototypes using the advanced [[Prototyping]] software known as [[Figma (Software)|Figma]].
 >
 > **[0:08](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=8)** Don't worry if you're not an export with Figma.
 >
 > **[0:11](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=11)** Having a general understanding of prototyping tools and terminology is more important than having specific knowledge.
 >
-> **[0:18](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=18)** Because we will be starting from the prototyping phase of design thinking, I highly recommend having a clear understanding of the design thinking process in its entirety.
+> **[0:18](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=18)** Because we will be starting from the prototyping phase of [[Design Thinking]], I highly recommend having a clear understanding of the design thinking process in its entirety.
 >
 > **[0:28](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/what-you-need-to-know?u=76281980&t=28)** The process consists of five steps, empathize, define, ideate, prototype, and test.
 >
@@ -129,20 +127,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), [[Figma (Software)|Figma]] (2), [[Design Thinking]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Figma (Software)|Figma]] (2), [[Design Thinking]] (2)
 > **Tools:** figma (2)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Defining a problem statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/defining-a-problem-statement?u=76281980)
+#### [Defining a problem statement](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/defining-a-problem-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/defining-a-problem-statement?u=76281980&t=0)** - [Instructor] Before defining a Problem Statement, it is essential to understand the user needs and pain points.
 >
-> **[0:06](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/defining-a-problem-statement?u=76281980&t=6)** This is achieved through primary and secondary user research, which happens in the first phase of Design Thinking process, which is called as the Empathize phase.
+> **[0:06](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/defining-a-problem-statement?u=76281980&t=6)** This is achieved through primary and secondary user research, which happens in the first phase of [[Design Thinking]] process, which is called as the Empathize phase.
 >
 > **[0:15](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/defining-a-problem-statement?u=76281980&t=15)** Consider this as the foundation of your Design Thinking process.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (2), data (2), ux (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -182,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital vs. physical wireframing mediums
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980)
+#### [Digital vs. physical wireframing mediums](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,9 +193,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=13)** Similarly, we as UX designers build wireframes to understand the usability before building the final product.
 >
-> **[0:22](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=22)** Wireframes essentially are a crucial part of the design thinking process because they help us in identifying opportunities and constraints.
+> **[0:22](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=22)** Wireframes essentially are a crucial part of the [[Design Thinking]] process because they help us in identifying opportunities and constraints.
 >
-> **[0:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=31)** In this video, we will understand the difference between paper wireframing and digital wireframing, and also learn to leverage the method of sketching from paper wireframing to brainstorm more ideas.
+> **[0:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=31)** In this video, we will understand the difference between paper wireframing and digital wireframing, and also learn to leverage the method of [[Sketching]] from paper wireframing to brainstorm more ideas.
 >
 > **[0:43](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=43)** Do you know how wireframes and prototypes were created before we had all the advanced design softwares?
 >
@@ -227,13 +223,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=114)** As designers, today we are very fortunate to have advanced tools and softwares at our disposal.
 >
-> **[2:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=120)** With softwares like Figma, Adobe XD, Sketch, etcetera, available to us, it has become even more fun and easy to make quick iterations of designs.
+> **[2:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=120)** With softwares like [[Figma (Software)|Figma]], [[Adobe XD]], Sketch, etcetera, available to us, it has become even more fun and easy to make quick iterations of designs.
 >
-> **[2:10](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=130)** Unlike paper prototypes, these softwares have also become a great tool for team collaboration, which is key to designing great products.
+> **[2:10](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=130)** Unlike paper prototypes, these softwares have also become a great tool for [[Team Collaboration]], which is key to designing great [[Microsoft Products|products]].
 >
 > **[2:20](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=140)** Digital wireframes and prototypes also offer prebuilt templates.
 >
-> **[2:25](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=145)** We have components that we can copy and paste on multiple screens, we have tools to pick colors, and we can also collaborate and share our prototype virtually with the rest of the team.
+> **[2:25](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=145)** We have components that we can copy and paste on multiple screens, we have tools to pick colors, and we can also collaborate and share our prototype virtually with the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[2:39](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980&t=159)** Now we know why the industry is rapidly moving towards the digital prototypes using advanced softwares.
 >
@@ -243,15 +239,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (4), product (3), ux (1), [[Design Thinking]] (1), teams (1)
+> **Frameworks & Libraries:** [[Sketching]] (4), [[Design Thinking]] (1), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1), [[Team Collaboration]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** figma (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting color schemes and visual elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980)
+#### [Selecting color schemes and visual elements](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,9 +284,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=110)** Stakeholders will help you in bringing in value to your product, understanding the marketing requirements for the product, and understanding the legal complications, and also some of the dos and don'ts when doing a business.
 >
-> **[2:03](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=123)** Now let's begin designing a mood board for a dessert delivery app using Figma.
+> **[2:03](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=123)** Now let's begin designing a mood board for a dessert delivery app using [[Figma (Software)|Figma]].
 >
-> **[2:09](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=129)** On the Figma board, I have created two different layouts for a mood board and also mention some of the resources, like plugins, references, UI inspirations, typography that I usually use during any of my UX or UI project.
+> **[2:09](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=129)** On the Figma board, I have created two different layouts for a mood board and also mention some of the resources, like plugins, references, UI inspirations, [[Typography]] that I usually use during any of my UX or UI project.
 >
 > **[2:24](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=144)** I've also used some of these plugins during our course.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=326)** And this time I'm going to select a smaller box because I don't want that image to dominate our entire layout.
 >
-> **[5:33](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=333)** And our focus should be mostly incorporating desserts like chocolates, ice creams, donuts, and something that's very close to our product and what kind of products we are going to sell through the app.
+> **[5:33](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=333)** And our focus should be mostly incorporating desserts like chocolates, ice creams, donuts, and something that's very close to our product and what kind of [[Microsoft Products|products]] we are going to sell through the app.
 >
 > **[5:47](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=347)** Notice how the images that we have added is slowly shaping our ideas of how a product will look like in the future.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=388)** There you go!
 >
-> **[6:30](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=390)** Now I'm going to adjust and align it with the rest of our rectangles and make sure everything is in proportion.
+> **[6:30](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=390)** Now I'm going to adjust and align it with the [[Representational State Transfer (REST)|rest]] of our rectangles and make sure everything is in proportion.
 >
 > **[6:39](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/selecting-color-schemes-and-visual-elements?u=76281980&t=399)** That's it.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (29), next (7), [[Typography]] (7), business (2), ux (2)
+> **Frameworks & Libraries:** [[Typography]] (7), [[Figma (Software)|Figma]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Analogies:** for example (2), imagine (2), picture (1)
@@ -478,8 +473,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sketching for wireframing
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980)
+#### [Sketching for wireframing](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,13 +481,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=4)** Take a moment.
 >
-> **[0:05](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=5)** It is the creative freedom, which comes through sketching.
+> **[0:05](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=5)** It is the creative freedom, which comes through [[Sketching]].
 >
 > **[0:10](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=10)** Sketching helps in shaping ideas by hashing out the details, analyzing the interaction, and understanding the complexity of the experience.
 >
 > **[0:18](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=18)** It also helps in quick iteration, and is very inexpensive.
 >
-> **[0:23](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=23)** Advanced softwares like Figma and Sketch, provide pre-made material that often could lead to a creative blog.
+> **[0:23](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=23)** Advanced softwares like [[Figma (Software)|Figma]] and Sketch, provide pre-made material that often could lead to a creative blog.
 >
 > **[0:30](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=30)** Hence, I really want to encourage all of you to start with paper and pencil, just our basics.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=118)** The crazy eight technique can be used in any brainstorming session as a challenge to generate eight different ideas in eight minutes.
 >
-> **[2:05](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=125)** It is one of the most used methods in design thinking.
+> **[2:05](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=125)** It is one of the most used methods in [[Design Thinking]].
 >
 > **[2:10](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/sketching-for-wireframing?u=76281980&t=130)** For crazy eight, all you'll need is an A4 size paper or maybe something close to that size.
 >
@@ -585,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (4), product (2), next (2), [[Figma (Software)|Figma]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (4), [[Figma (Software)|Figma]] (1), [[Design Thinking]] (1)
 > **Prerequisites:** you'll need (1), before you begin (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
@@ -594,12 +588,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** don't forget (1)
 
-#### Finalizing low-fidelity wireframes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980)
+#### [Finalizing low-fidelity wireframes](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=0)** - [Instructor] Let's continue on and see what our premature sketches look like when we start creating them on a digital platform like Figma.
+> **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=0)** - [Instructor] Let's continue on and see what our premature sketches look like when we start creating them on a digital platform like [[Figma (Software)|Figma]].
 >
 > **[0:08](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=8)** In this lesson, we will be recreating our sketches into Figma and develop them into digital low-fidelity wireframes.
 >
@@ -623,7 +616,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=85)** You have screen sizes for phone, you have screen sizes for tablets, desktop presentations, et cetera.
 >
-> **[1:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=91)** And for this project, we are going to stick to Android large screen, which is 360 by 800 pixels.
+> **[1:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=91)** And for this project, we are going to stick to [[Android]] large screen, which is 360 by 800 pixels.
 >
 > **[1:38](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=98)** Once a click on Android large it will automatically show up on your Figma board.
 >
@@ -725,9 +718,9 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=433)** We have the input field for a delivery address.
 >
-> **[7:16](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=436)** We have a search bar with our filter icon and then we have different image components that will help us in adding description for the products that we are selling.
+> **[7:16](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=436)** We have a search bar with our filter icon and then we have different image components that will help us in adding description for the [[Microsoft Products|products]] that we are selling.
 >
-> **[7:29](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=449)** Let's zoom out and take a look at it once again.
+> **[7:29](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=449)** Let's [[Zoom]] out and take a look at it once again.
 >
 > **[7:35](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/finalizing-low-fidelity-wireframes?u=76281980&t=455)** I think we can still reduce the size of the name, font size of the name to 20 pixels and increase the size of our menu icon to 26.
 >
@@ -757,7 +750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Search]] (6), hit (4), [[Android]] (3), product (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (7), [[Android]] (3), [[Microsoft Products|Products]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (3), select the (3), go to (3)
 > **Tools:** figma (7)
 > **CLI Commands:** make (4)
@@ -769,8 +762,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Brush up on the basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980)
+#### [Brush up on the basics](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +770,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980&t=10)** Brushing up will help us apply these techniques when building the mid fidelity and high fidelity mockups.
 >
-> **[0:17](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980&t=17)** Let's take a look at what plugins Figma offers.
+> **[0:17](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980&t=17)** Let's take a look at what plugins [[Figma (Software)|Figma]] offers.
 >
 > **[0:21](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980&t=21)** Content Reel.
 >
@@ -882,7 +874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), feature (3), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3)
 > **UI Navigation:** select the (2), drag and drop (1), click on (1), go to (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** figma (3)
@@ -890,8 +882,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating mid-fidelity mock-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980)
+#### [Creating mid-fidelity mock-up](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,11 +932,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=117)** I'm going to change the font style to open sans.
 >
-> **[2:02](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=122)** You can select any font that you like, you can even download extra fonts, and install it into your system which automatically gets installed into Figma.
+> **[2:02](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=122)** You can select any font that you like, you can even download extra fonts, and install it into your system which automatically gets installed into [[Figma (Software)|Figma]].
 >
 > **[2:11](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=131)** And then, I'm going to increase the font weight to semi bold, and increase the size to 30.
 >
-> **[2:21](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=141)** Let's zoom out and see how proportionate it looks.
+> **[2:21](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=141)** Let's [[Zoom]] out and see how proportionate it looks.
 >
 > **[2:24](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=144)** That looks super big.
 >
@@ -1005,7 +996,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=336)** Next, let's adjust the size of the search bar, and also edit the font type of the text here.
 >
-> **[5:43](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=343)** So I'm going to select the font, and put it to open sans, adjust it to 16 pixels, 16 pixels, for an Android screen of 360 by 800 pixels, is perfect.
+> **[5:43](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=343)** So I'm going to select the font, and put it to open sans, adjust it to 16 pixels, 16 pixels, for an [[Android]] screen of 360 by 800 pixels, is perfect.
 >
 > **[6:03](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-mid-fidelity-mock-up?u=76281980&t=363)** Change the font style, of the input field.
 >
@@ -1159,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Search]] (7), hit (2), [[Figma (Software)|Figma]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Zoom]] (1), [[Android]] (1)
 > **UI Navigation:** go to (9), select the (5), click on (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -1168,8 +1159,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Analogies:** it's like (1)
 
-#### Creating a prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980)
+#### [Creating a prototype](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1191,9 +1181,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=55)** How are we really going to be able to achieve all of this?
 >
-> **[0:59](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=59)** The prototype that we create will help us in anticipating constraints, evaluate technicality, feasibility and viability, build quality products using the feedback and insights and identify opportunities.
+> **[0:59](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=59)** The prototype that we create will help us in anticipating constraints, evaluate technicality, feasibility and viability, build quality [[Microsoft Products|products]] using the feedback and insights and identify opportunities.
 >
-> **[1:12](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=72)** So let's begin to develop a mid fidelity prototype using Figma.
+> **[1:12](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=72)** So let's begin to develop a mid fidelity prototype using [[Figma (Software)|Figma]].
 >
 > **[1:17](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=77)** After our last lesson I spent some more time looking at the flow and refining the screens by adding extra details.
 >
@@ -1233,7 +1223,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=209)** So mount a little bit.
 >
-> **[3:32](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=212)** Okay. To pick in with the prototype, click on the prototype tab on the right bar and change the device to Android large, which is a 360 by 800 pixels.
+> **[3:32](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=212)** Okay. To pick in with the prototype, click on the prototype tab on the right bar and change the device to [[Android]] large, which is a 360 by 800 pixels.
 >
 > **[3:43](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/creating-a-prototype?u=76281980&t=223)** You can change the model to whatever color you want.
 >
@@ -1369,7 +1359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Search]] (5), hit (2), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Figma (Software)|Figma]] (1), [[Android]] (1)
 > **UI Navigation:** click on (11), select the (4), go to (3), checkbox (2), navigate to (2)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3)
@@ -1378,8 +1368,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - we (1)
 
-#### Usability testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980)
+#### [Usability testing](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,7 +1420,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=139)** Then, we talk about the hypothesis.
 >
-> **[2:21](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=141)** The hypothesis is basically an assumption you, as a team, developed and designed, and now we are trying to test and validate the hypothesis through usability testing.
+> **[2:21](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=141)** The hypothesis is basically an assumption you, as a team, developed and designed, and now we are trying to test and validate the hypothesis through [[Usability Testing]].
 >
 > **[2:33](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=153)** Next is our objectives.
 >
@@ -1455,7 +1444,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=197)** Next comes consent.
 >
-> **[3:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=199)** Participants are usually aware of this, but it is a good practice to let them know that you are recording their responses, and you will be sharing these responses and recordings with the rest of the design team.
+> **[3:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=199)** Participants are usually aware of this, but it is a good practice to let them know that you are recording their responses, and you will be sharing these responses and recordings with the [[Representational State Transfer (REST)|rest]] of the design team.
 >
 > **[3:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/usability-testing?u=76281980&t=211)** But, you are going to do that in order to develop a better experience for the product, and the recordings, or any of this information, or personal information won't go outside the company.
 >
@@ -1489,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), product (4), [[Usability Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
@@ -1498,8 +1487,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 
-#### Iterating with the help of key findings
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/iterating-with-the-help-of-key-findings?u=76281980)
+#### [Iterating with the help of key findings](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/iterating-with-the-help-of-key-findings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1575,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), next (3)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
@@ -1595,18 +1582,18 @@ created: 2026-05-02
 > **URLs:** [usertesting.com](https://usertesting.com) (1)
 > **Env Vars:** wcag (1)
 > **Cross-References:** in the next (1)
+> **Analogies:** for example (1)
 
 
 ### 3. High-Fidelity
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing the layout for your high-fidelity mock-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980)
+#### [Preparing the layout for your high-fidelity mock-up](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=0)** - [Instructor] We have moved from sketching to low fidelity to mid fidelity by testing and iterating and iterating.
+> **[0:00](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=0)** - [Instructor] We have moved from [[Sketching]] to low fidelity to mid fidelity by testing and iterating and iterating.
 >
 > **[0:06](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=6)** Seems like we have come a very long way and I appreciate you all for staying with me til the last leg.
 >
@@ -1624,7 +1611,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=45)** It'll help us in designing the visual assets based on the mood board environment that everyone including the stakeholders had agreed upon.
 >
-> **[0:54](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=54)** So first, let's go to Figma and start prepping for a high fidelity mock-up.
+> **[0:54](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=54)** So first, let's go to [[Figma (Software)|Figma]] and start prepping for a high fidelity mock-up.
 >
 > **[0:59](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980&t=59)** Here I've created a new project file and named it as designing high fidelity mock-up.
 >
@@ -1642,15 +1629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (1), data (1), product (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (1), [[Figma (Software)|Figma]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Tools:** figma (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the key findings to your high-fidelity mock-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/applying-the-key-findings-to-your-high-fidelity-mock-up?u=76281980)
+#### [Applying the key findings to your high-fidelity mock-up](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/applying-the-key-findings-to-your-high-fidelity-mock-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1666,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/applying-the-key-findings-to-your-high-fidelity-mock-up?u=76281980&t=87)** This is actually a very good insight that we got from the usability test.
 >
-> **[1:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/applying-the-key-findings-to-your-high-fidelity-mock-up?u=76281980&t=91)** It shows that we were in the right direction in terms of design thinking and solutioning of problems.
+> **[1:31](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/applying-the-key-findings-to-your-high-fidelity-mock-up?u=76281980&t=91)** It shows that we were in the right direction in terms of [[Design Thinking]] and solutioning of problems.
 >
 > **[1:37](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/applying-the-key-findings-to-your-high-fidelity-mock-up?u=76281980&t=97)** The flavors, the multiple flavors that we show on the filter model actually help participants to browse through the variety of flavors and make a selection based on their needs and wants.
 >
@@ -1702,14 +1688,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (1), product (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1)
 > **UI Navigation:** double-click (1), click on (1), go to (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing your high-fidelity mock-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980)
+#### [Designing your high-fidelity mock-up](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1767,9 +1752,9 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980&t=246)** Now let's go to our main component, and another way to find the main component is, click on any instance component, go to the right, and click on this icon, which is an icon for main component.
 >
-> **[4:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980&t=259)** So I'm going to click there, and it will directly zoom in, and take me to the main component of what we are looking to.
+> **[4:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980&t=259)** So I'm going to click there, and it will directly [[Zoom]] in, and take me to the main component of what we are looking to.
 >
-> **[4:26](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980&t=266)** I don't want to incorporate and make the product very colorful, because I do want to make sure that our actual products like pastries, cakes and ice creams they stand out and they look bright.
+> **[4:26](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980&t=266)** I don't want to incorporate and make the product very colorful, because I do want to make sure that our actual [[Microsoft Products|products]] like pastries, cakes and ice creams they stand out and they look bright.
 >
 > **[4:39](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/designing-your-high-fidelity-mock-up?u=76281980&t=279)** So I want to maintain the same primary color across all the other elements.
 >
@@ -1907,7 +1892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (2), [[Zoom]] (1), [[Microsoft Products|Products]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (21), find (1)
 > **UI Navigation:** select the (9), go to (6), click on (3), scroll down (1)
 > **Non-Speech:** (keyboard typing) (6)
@@ -1915,8 +1900,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Developing functional prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980)
+#### [Developing functional prototypes](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1928,7 +1912,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=12)** Similarly, we will now design the high fidelity prototype to understand how usable and intuitive our final product is.
 >
-> **[0:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=19)** So let's move to Figma, and get started with designing the prototype.
+> **[0:19](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=19)** So let's move to [[Figma (Software)|Figma]], and get started with designing the prototype.
 >
 > **[0:24](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=24)** In our last movie, we learned some of the ways to design high fidelity mockups with the help of the key findings and master components.
 >
@@ -1990,7 +1974,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=278)** Once you do that, in smart animation, only the elements that change animate.
 >
-> **[4:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=285)** The rest of the elements, they stay the same, they don't move or animate at all.
+> **[4:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=285)** The [[Representational State Transfer (REST)|rest]] of the elements, they stay the same, they don't move or animate at all.
 >
 > **[4:49](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=289)** Once the users come on the screen, they type in the address, which is Austin 60401, and then they confirm it, and to confirm it, they have to tap on the checkbox, so let's add an interaction to the checkbox.
 >
@@ -2038,7 +2022,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=455)** Now finally, we have one more screen here, which is the item expand model.
 >
-> **[7:40](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=460)** Now what I'm going to do is, I'm going to unclip this frame because we have more images and more products underneath which we have hidden it, or clip, and I want participants to tap on this particular item, so I'm going to add an interaction to that item.
+> **[7:40](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=460)** Now what I'm going to do is, I'm going to unclip this frame because we have more images and more [[Microsoft Products|products]] underneath which we have hidden it, or clip, and I want participants to tap on this particular item, so I'm going to add an interaction to that item.
 >
 > **[7:57](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/developing-functional-prototypes?u=76281980&t=477)** So prototype, and then here.
 >
@@ -2146,7 +2130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Search]] (5), product (2), [[Figma (Software)|Figma]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** select the (8), checkbox (3), go to (2), navigate to (2), open the (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** we discussed (1), go back to (1)
@@ -2154,8 +2138,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Another round of usability testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980)
+#### [Another round of usability testing](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2177,23 +2160,23 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=41)** If everything goes well, they go for an MVP launch.
 >
-> **[0:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=45)** Based on the statistics then gathered by the researchers after the MVP launch, the features or products are again iterated and prepared for a national launch.
+> **[0:45](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=45)** Based on the [[Statistics]] then gathered by the researchers after the MVP launch, the features or [[Microsoft Products|products]] are again iterated and prepared for a national launch.
 >
 > **[0:56](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=56)** After this, it becomes a continuous process for researchers and analysts to see how the product is progressing in the market.
 >
-> **[1:04](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=64)** And therefore, the design thinking framework that we, as designers, follow is a non-linear continuous process.
+> **[1:04](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=64)** And therefore, the [[Design Thinking]] framework that we, as designers, follow is a non-linear continuous process.
 >
 > **[1:11](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=71)** And that's it.
 >
 > **[1:12](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=72)** Congratulations on your first well-designed product.
 >
-> **[1:16](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=76)** We have completed our product development process from low fidelity to five high fidelity prototype.
+> **[1:16](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=76)** We have completed our [[Product Development]] process from low fidelity to five high fidelity prototype.
 >
 > **[1:22](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/another-round-of-usability-testing?u=76281980&t=82)** Stay with me to learn more about resources, best practices as a experienced designer, and recap of the work we developed in this course, and how you can continue improving your product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), next (1), feature (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Products|Products]] (1), [[Design Thinking]] (1), [[Product Development]] (1)
 > **Env Vars:** mvp (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2204,8 +2187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and helpful resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980)
+#### [Next steps and helpful resources](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2215,7 +2197,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=12)** Being an experienced designer, it is our responsibility to continuously develop and improve user experiences.
 >
-> **[0:18](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=18)** I urge you all to continue exploring and talking to people about your products.
+> **[0:18](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=18)** I urge you all to continue exploring and talking to people about your [[Microsoft Products|products]].
 >
 > **[0:23](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=23)** You do not necessarily have to conduct usability tests to get feedback or insights, but just observing our users.
 >
@@ -2253,7 +2235,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=99)** The third one is the NNG group.
 >
-> **[1:41](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=101)** Nielsen Norman Group is a UX research and consulting firm, trusted by leading organizations worldwide to provide reliable guidance on user experience.
+> **[1:41](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=101)** Nielsen Norman Group is a [[UX Research]] and consulting firm, trusted by leading organizations worldwide to provide reliable guidance on [[User Experience (UX)|user experience]].
 >
 > **[1:49](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980&t=109)** It was founded by Jakob Nielsen and Donald Norman.
 >
@@ -2291,7 +2273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (5), next (3), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[UX Research]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** nng (1)

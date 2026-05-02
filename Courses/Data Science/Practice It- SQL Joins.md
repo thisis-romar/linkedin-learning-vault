@@ -90,18 +90,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980)
+#### [Welcome to the course](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=0)** - [Nikiya] SQL is a commonly used programming language used to work with relational databases.
+> **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=0)** - [Nikiya] [[SQL]] is a commonly used programming language used to work with [[Relational Databases]].
 >
-> **[0:05](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=5)** Whether working in business analysis, data science, or software development, writing good SQL queries is an essential skill.
+> **[0:05](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=5)** Whether working in business analysis, [[Data Science]], or [[Software Development]], writing good SQL queries is an essential skill.
 >
 > **[0:13](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=13)** In this course, we'll practice different join types for each relationship with multiple entities.
 >
-> **[0:19](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=19)** You'll have an opportunity to see an overview and practice these concepts within VS Code using GitHub Codespaces while you work with this course.
+> **[0:19](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=19)** You'll have an opportunity to see an overview and practice these concepts within VS Code using [[GitHub]] [[Codespaces]] while you work with this course.
 >
 > **[0:29](https://www.linkedin.com/learning/practice-it-sql-joins/welcome-to-the-course?u=76281980&t=29)** My name is Nikiya Simpson and I work with relational databases from everything from small businesses, large marketing firms, education, and healthcare.
 >
@@ -115,22 +114,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Relational Databases]] (2), [[GitHub]] (2), [[Codespaces]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Relational Databases]] (2), [[GitHub]] (2), [[Codespaces]] (2), [[Data Science]] (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **Tools:** vs code (2), github (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [nikiya] (1)
 
-#### Prerequisites and preassessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980)
+#### [Prerequisites and preassessment](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=0)** - [Instructor] Before we begin, let's discuss some skills that you may need to know first.
 >
-> **[0:04](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=4)** This course will assume you have previous experience writing SQL database queries.
+> **[0:04](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=4)** This course will assume you have previous experience writing [[SQL]] [[Database Queries]].
 >
-> **[0:09](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=9)** First, you'll need some familiarity with performing Data Manipulation Language statements, specifically SELECT statements, and the different keywords and clauses necessary to write simple queries.
+> **[0:09](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=9)** First, you'll need some familiarity with performing [[Data Manipulation]] Language statements, specifically SELECT statements, and the different keywords and clauses necessary to write simple queries.
 >
 > **[0:21](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=21)** You'll also need to know Data Definition Language to understand how to create or drop database objects like tables and views.
 >
@@ -138,39 +136,38 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=39)** Some of these items should automatically populate for you within the Codespace environment, but I'll walk you through anything we need to set up later.
 >
-> **[0:48](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=48)** Some experience using an IDE like Visual Studio Code, a CLI, or command-line interface, is also helpful in getting through the material in this course.
+> **[0:48](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=48)** Some experience using an IDE like Visual Studio Code, a [[CLI]], or command-line interface, is also helpful in getting through the material in this course.
 >
-> **[0:58](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=58)** We'll also use SQLite as the database management system for this course.
+> **[0:58](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=58)** We'll also use SQLite as the [[Database Management]] system for this course.
 >
 > **[1:02](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=62)** Now, you won't need to be specifically familiar with SQLite.
 >
 > **[1:06](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=66)** There will be some commands that we use that are specific to SQLite, but most of the queries used in this course can be performed within any relational database management system.
 >
-> **[1:18](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=78)** If you are new to SQL, or Sequel, there are lots of courses within the LinkedIn Learning Library to help you get started with understanding the language.
+> **[1:18](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=78)** If you are new to SQL, or Sequel, there are lots of courses within the [[LinkedIn]] Learning Library to help you get started with understanding the language.
 >
 > **[1:26](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=86)** I suggest that beginners start with those courses first and come back to this one to practice later.
 >
-> **[1:32](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=92)** Before starting the practice materials in this course, I'm going to have Ray Villalobos discuss how to use Codespaces, and then I'll be back.
+> **[1:32](https://www.linkedin.com/learning/practice-it-sql-joins/prerequisites-and-preassessment?u=76281980&t=92)** Before starting the practice materials in this course, I'm going to have Ray Villalobos discuss how to use [[Codespaces]], and then I'll be back.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[SQL]] (2), management (2), [[Data Manipulation]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Database Management]] (2), [[Database Queries]] (1), [[Data Manipulation]] (1), [[CLI]] (1)
 > **Env Vars:** sql (2), select (1), ide (1), cli (1)
 > **Tools:** vs code (2), terminal (1), visual studio (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **SQL:** select (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980)
+#### [Getting started with GitHub Codespaces](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -282,7 +279,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/practice-it-sql-joins/getting-started-with-github-codespaces?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -298,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -307,14 +304,13 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Warnings:** note that (1)
 
-#### Installing the database in GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/installing-the-database-in-github-codespaces-25894066?u=76281980)
+#### [Installing the database in GitHub Codespaces](https://www.linkedin.com/learning/practice-it-sql-joins/installing-the-database-in-github-codespaces-25894066?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/installing-the-database-in-github-codespaces-25894066?u=76281980&t=0)** - [Instructor] Now that we know how to use code spaces, let's make sure that the database that we'll use for this course is loaded for our practice.
 >
-> **[0:07](https://www.linkedin.com/learning/practice-it-sql-joins/installing-the-database-in-github-codespaces-25894066?u=76281980&t=7)** Start by opening up your code space from GitHub.
+> **[0:07](https://www.linkedin.com/learning/practice-it-sql-joins/installing-the-database-in-github-codespaces-25894066?u=76281980&t=7)** Start by opening up your code space from [[GitHub]].
 >
 > **[0:10](https://www.linkedin.com/learning/practice-it-sql-joins/installing-the-database-in-github-codespaces-25894066?u=76281980&t=10)** The link to the repository is shown here on your screen.
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[GitHub]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
@@ -351,8 +347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL commands for determining relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980)
+#### [SQL commands for determining relationships](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=31)** Let's hit Enter, and this will open a new SQLite session.
 >
-> **[0:36](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=36)** Other database management systems like Postgres have commands to list and describe tables.
+> **[0:36](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=36)** Other [[Database Management]] systems like [[PostgreSQL|Postgres]] have commands to list and describe tables.
 >
 > **[0:41](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=41)** This course, of course, will use SQLite, which uses Dot commands that can perform similar functions as in other systems.
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=98)** So in this instance of the DimCustomer table, we can see the CustomerKey is our primary key, and we can also see a GeographyKey as a foreign key.
 >
-> **[1:48](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=108)** Let's try to set up some information about our tables using SQL.
+> **[1:48](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=108)** Let's try to set up some information about our tables using [[SQL]].
 >
 > **[1:52](https://www.linkedin.com/learning/practice-it-sql-joins/sql-commands-for-determining-relationships-25892082?u=76281980&t=112)** Next, we can type in sqlite new query in the command palette.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), hit (3), [[SQL]] (2), management (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Database Management]] (1), [[PostgreSQL|Postgres]] (1)
 > **Tools:** terminal (7), vs code (2), command line (2)
 > **Env Vars:** sql (2), gui (1)
 > **UI Navigation:** go to (2), right-click (1)
@@ -425,8 +420,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Schema description SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980)
+#### [Try it: Schema description SQL commands](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=37)** Over the next few exercises, you'll be building scripts to describe the AdventureWorks database.
 >
-> **[0:43](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=43)** You'll use the output from the scripts in this chapter to help build the scripts related to the different types of SQL joins.
+> **[0:43](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=43)** You'll use the output from the scripts in this chapter to help build the scripts related to the different types of [[SQL]] joins.
 >
 > **[0:50](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=50)** In your code editor, you'll write a script that will output a list of all the tables in the database.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=83)** This report will be helpful for us as we get ready to query our data in the next few chapters.
 >
-> **[1:30](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=90)** To get you started, let's type in ".mode" and "html."
+> **[1:30](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=90)** To get you started, let's type in ".mode" and "[[HTML]]."
 >
 > **[1:37](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=97)** Then we'll put ".output adventureworks_docs.html."
 >
@@ -468,11 +462,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=123)** After you're done, come back to the next video to check your work.
 >
-> **[2:07](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=127)** You can also review the text files in the solution directory on GitHub, to compare your practice code solution and the HTML document.
+> **[2:07](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-schema-description-sql-commands?u=76281980&t=127)** You can also review the text files in the solution directory on [[GitHub]], to compare your practice code solution and the HTML document.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), database (4), next (3), [[Analytics]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[SQL]] (1), [[GitHub]] (1)
 > **Env Vars:** html (2), sql (1), erd (1)
 > **File Paths:** chapter1.txt (1), adventureworks_docs.html (1), adventureworks.html (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -481,8 +475,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (computer keys clicking) (1)
 
-#### Check it: Schema description SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980)
+#### [Check it: Schema description SQL commands](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -504,11 +497,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=54)** And then let's open our AdventureWorks database AdventureWorks.db.
 >
-> **[1:03](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=63)** Let's add some additional parameters for formatting the results on the command line to show the SQL results in a more readable format.
+> **[1:03](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=63)** Let's add some additional parameters for formatting the results on the command line to show the [[SQL]] results in a more readable format.
 >
 > **[1:11](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=71)** So I'll use .headers on to turn the headers on so that we can see headers for our columns.
 >
-> **[1:19](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=79)** And we'll do .mode html and .output AdventureWorks_docs.html.
+> **[1:19](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=79)** And we'll do .mode [[HTML]] and .output AdventureWorks_docs.html.
 >
 > **[1:34](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-schema-description-sql-commands?u=76281980&t=94)** And this will allow us to create our output in the HTML format and place it within the AdventureWorks_docs.html file that you can see it right here.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[HTML]] (6), [[SQL]] (5), next (2), hit (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[SQL]] (5)
 > **Code Identifiers:** sqlite_master (7)
 > **Env Vars:** sql (4), html (3)
 > **Tools:** command line (2), visual studio (1), terminal (1)
@@ -569,8 +562,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - review (1)
 
-#### Try it: Table and column description SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980)
+#### [Try it: Table and column description SQL commands](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=6)** We'll first create a script that documents the different attributes for each table and their constraints.
 >
-> **[0:11](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=11)** We're going to add to the documentation we created earlier so if you haven't already, let's make sure we type in the following, .mode space html and .output space adventureworks_docs.html into the SQLite CLI in the terminal.
+> **[0:11](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=11)** We're going to add to the documentation we created earlier so if you haven't already, let's make sure we type in the following, .mode space [[HTML]] and .output space adventureworks_docs.html into the SQLite [[CLI]] in the terminal.
 >
 > **[0:30](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=30)** This allows us to create our output in the HTML format and place it in the adventureworks_docs.html file.
 >
@@ -600,13 +592,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=99)** You can use the following structure and save it as the create_documentation.sh file.
 >
-> **[1:46](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=106)** You can review your solution within the solution directory within GitHub.
+> **[1:46](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=106)** You can review your solution within the solution directory within [[GitHub]].
 >
-> **[1:50](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=110)** The HTML documentation that you build can not only be used for the rest of this practice course, but also as a template for any SQLite projects you may work with in the future.
+> **[1:50](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-table-and-column-description-sql-commands?u=76281980&t=110)** The HTML documentation that you build can not only be used for the [[Representational State Transfer (REST)|rest]] of this practice course, but also as a template for any SQLite projects you may work with in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), next (2), [[CLI]] (1), database (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[CLI]] (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** adventureworks_docs (2), table_info (2), create_documentation (2)
 > **Env Vars:** html (3), cli (1), pragma (1)
 > **File Paths:** adventureworks_docs.html (2), create_documentation.sh (2)
@@ -615,8 +607,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Exercise Files:** template (1)
 
-#### Check it: Table and column description SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-table-and-column-description-sql-commands?u=76281980)
+#### [Check it: Table and column description SQL commands](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-table-and-column-description-sql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +649,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), next (1)
 > **Env Vars:** pragma (3)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** table_info (1)
@@ -672,8 +662,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding inner joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-inner-joins?u=76281980)
+#### [Understanding inner joins](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-inner-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,14 +704,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Analogies:** for instance (2), such as (1), for example (1)
 > **Warnings:** note that (1), be aware (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Inner join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-inner-join?u=76281980)
+#### [Try it: Inner join](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-inner-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +743,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), database (1), data (1)
 > **CLI Commands:** find (2)
 > **Best Practices:** don't forget (2)
 > **Cross-References:** in the next (1)
@@ -764,8 +750,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Inner join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-inner-join?u=76281980)
+#### [Check it: Inner join](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-inner-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +834,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** dimcustomer (1)
 > **UI Navigation:** go to (1)
@@ -857,8 +841,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - let (1)
 
-#### Understanding self joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980)
+#### [Understanding self joins](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,11 +849,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=9)** The self-join is useful for comparing values in a column to other values in the same column.
 >
-> **[0:15](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=15)** Let's say we need a list of all products in the same product sub-category.
+> **[0:15](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=15)** Let's say we need a list of all [[Microsoft Products|products]] in the same product sub-category.
 >
 > **[0:20](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=20)** We can use a self-join in this case on the dim product table.
 >
-> **[0:24](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=24)** In the following SQL statement, we perform an inner join on the dim product table to the same dim product table and in the "on" criteria, we choose the product keys that don't match, but are in the same product sub-category.
+> **[0:24](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=24)** In the following [[SQL]] statement, we perform an inner join on the dim product table to the same dim product table and in the "on" criteria, we choose the product keys that don't match, but are in the same product sub-category.
 >
 > **[0:38](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-self-joins?u=76281980&t=38)** The resulting data set gives us all of the products that are in the same product sub-class as a product in the first column.
 >
@@ -890,13 +873,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (2), [[SQL]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Self join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980)
+#### [Try it: Self join](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,21 +892,20 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980&t=25)** Next, write a sequel query that returns the employee name and the manager's name using the EmployeeKey and the ParentEmployeeKey for your self join in.
 >
-> **[0:36](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980&t=36)** Also, feel free to save your queries to your form copy of the repository as .SQL files.
+> **[0:36](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980&t=36)** Also, feel free to save your queries to your form copy of the repository as .[[SQL]] files.
 >
-> **[0:42](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980&t=42)** You can also review your solution with the solution files in the GitHub repo.
+> **[0:42](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-self-join?u=76281980&t=42)** You can also review your solution with the solution files in the [[GitHub]] repo.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (1), [[SQL]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[GitHub]] (1)
 > **Env Vars:** dim (1), sql (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [narrator] (1)
 
-#### Check it: Self join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-self-join?u=76281980)
+#### [Check it: Self join](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-self-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,7 +927,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
@@ -957,8 +937,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding left joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980)
+#### [Understanding left joins](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,7 +945,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980&t=3)** You'll sometimes hear them referred to as left outer joins.
 >
-> **[0:07](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980&t=7)** Some people wonder what we mean when we say left and right in SQL.
+> **[0:07](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980&t=7)** Some people wonder what we mean when we say left and right in [[SQL]].
 >
 > **[0:11](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-left-joins?u=76281980&t=11)** Well, it's pretty simple.
 >
@@ -1008,14 +987,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), next (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Left join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980)
+#### [Try it: Left join](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,7 +1013,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=60)** In this exercise, we'll look at the AdventureWorks product and sales.
 >
-> **[1:05](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=65)** We should have some products that have not sold and some products that have sold more than once.
+> **[1:05](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=65)** We should have some [[Microsoft Products|products]] that have not sold and some products that have sold more than once.
 >
 > **[1:11](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=71)** Practice left joins between the DimProduct and FactInternetSales on ProductKey.
 >
@@ -1045,18 +1023,17 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=99)** Notice those columns that are returned null from the views.
 >
-> **[1:43](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=103)** Try these exercises in your code space and as always you can check your solution against the solution files within GitHub.
+> **[1:43](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-left-join?u=76281980&t=103)** Try these exercises in your code space and as always you can check your solution against the solution files within [[GitHub]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (2), [[Microsoft Products|Products]] (2), data (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[GitHub]] (1)
 > **Code Identifiers:** customer_email_a (1), customer_address_us (1)
 > **Non-Speech:** (beeping) (1), (typing) (1)
 > **Tools:** github (1)
 > **Speakers:** - let (1)
 
-#### Check it: Left join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-left-join?u=76281980)
+#### [Check it: Left join](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-left-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,7 +1053,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-left-join?u=76281980&t=69)** For one to many relationships, we'll look at our product and sales.
 >
-> **[1:12](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-left-join?u=76281980&t=72)** We should have some products that have not sold and some products that have sold more than once.
+> **[1:12](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-left-join?u=76281980&t=72)** We should have some [[Microsoft Products|products]] that have not sold and some products that have sold more than once.
 >
 > **[1:17](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-left-join?u=76281980&t=77)** Let's look at the following sequel: our left table is our DIM product table and our internet sales are on the right.
 >
@@ -1098,15 +1075,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), data (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** dim (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Multiple complex joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-multiple-complex-joins?u=76281980)
+#### [Try it: Multiple complex joins](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-multiple-complex-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,20 +1102,19 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-multiple-complex-joins?u=76281980&t=58)** So think about those relationships.
 >
-> **[1:01](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-multiple-complex-joins?u=76281980&t=61)** I've included the solution files within GitHub however, please try this one first before going directly to the solution code.
+> **[1:01](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-multiple-complex-joins?u=76281980&t=61)** I've included the solution files within [[GitHub]] however, please try this one first before going directly to the solution code.
 >
 > **[1:09](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-multiple-complex-joins?u=76281980&t=69)** There may be more than one way to create this query so don't be discouraged if it isn't exactly the same.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
 > **Non-Speech:** (keyboard keys clicking) (1)
 
-#### Check it: Multiple complex joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-multiple-complex-joins?u=76281980)
+#### [Check it: Multiple complex joins](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-multiple-complex-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,7 +1138,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1171,8 +1145,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding right joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-right-joins?u=76281980)
+#### [Understanding right joins](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-right-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,11 +1165,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Right join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-right-join?u=76281980)
+#### [Try it: Right join](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-right-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,12 +1183,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (computer beeping) (1)
 
-#### Check it: Right join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-right-join?u=76281980)
+#### [Check it: Right join](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-right-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,7 +1202,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-right-join?u=76281980&t=25)** "DimProduct" is our left table, and "FactInternetSales" is our right and we're joining on the "ProductKey."
 >
-> **[0:35](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-right-join?u=76281980&t=35)** This will result in all products from the product table and those that did not have a match to internet sales, resulting in null values for those internet sales columns.
+> **[0:35](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-right-join?u=76281980&t=35)** This will result in all [[Microsoft Products|products]] from the product table and those that did not have a match to internet sales, resulting in null values for those internet sales columns.
 >
 > **[0:45](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-right-join?u=76281980&t=45)** Let's switch this statement around.
 >
@@ -1249,13 +1218,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** join (5), left (4), right (1)
 > **SQL:** left join (4), join (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Full outer join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-full-outer-join?u=76281980)
+#### [Try it: Full outer join](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-full-outer-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,19 +1257,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - let (1)
 
-#### Check it: Full outer join
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-full-outer-join?u=76281980)
+#### [Check it: Full outer join](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-full-outer-join?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-full-outer-join?u=76281980&t=2)** - [Instructor] Let's combine the left and right outer join to create a full outer join.
 >
-> **[0:07](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-full-outer-join?u=76281980&t=7)** In the SQL, you have a pretty simple solution of a left and right join statement here, union together.
+> **[0:07](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-full-outer-join?u=76281980&t=7)** In the [[SQL]], you have a pretty simple solution of a left and right join statement here, union together.
 >
 > **[0:13](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-full-outer-join?u=76281980&t=13)** I can run this query by just right-clicking and choose Run Query.
 >
@@ -1325,8 +1291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cross joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-cross-joins?u=76281980)
+#### [Understanding cross joins](https://www.linkedin.com/learning/practice-it-sql-joins/understanding-cross-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,13 +1317,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), data (1), database (1)
 > **Analogies:** imagine (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Cross joins and Cartesian joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-cross-joins-and-cartesian-joins?u=76281980)
+#### [Try it: Cross joins and Cartesian joins](https://www.linkedin.com/learning/practice-it-sql-joins/try-it-cross-joins-and-cartesian-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,14 +1337,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Check it: Cross joins and Cartesian joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-cross-joins-and-cartesian-joins?u=76281980)
+#### [Check it: Cross joins and Cartesian joins](https://www.linkedin.com/learning/practice-it-sql-joins/check-it-cross-joins-and-cartesian-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1374,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** erd (1)
 > **Warnings:** keep in mind (1)
@@ -1424,20 +1384,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980)
+#### [Continuing on with SQL](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=0)** - [Nikiya] Thanks for joining me in this SQL practice.
+> **[0:00](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=0)** - [Nikiya] Thanks for joining me in this [[SQL]] practice.
 >
 > **[0:02](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=2)** Congratulations on finishing this course, and I hope you've learned a lot of new data skills and enjoyed the material.
 >
-> **[0:09](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=9)** If you're looking for more SQL-related coursework, there are many courses here in the LinkedIn Learning Library from Basic SQL to Advanced SQL for Data Science, as well as specific courses for different database management systems like MySQL and SQL Server.
+> **[0:09](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=9)** If you're looking for more SQL-related coursework, there are many courses here in the [[LinkedIn]] Learning Library from Basic SQL to Advanced SQL for [[Data Science]], as well as specific courses for different [[Database Management]] systems like [[MySQL]] and [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:23](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=23)** If you're looking to find out different career paths you want to take your data skills, check out my other course on Finding Career Paths with SQL.
 >
-> **[0:30](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=30)** You can also follow me on LinkedIn for more data and software development content.
+> **[0:30](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=30)** You can also follow me on LinkedIn for more data and [[Software Development]] content.
 >
 > **[0:35](https://www.linkedin.com/learning/practice-it-sql-joins/continuing-on-with-sql?u=76281980&t=35)** Again, my name is Nikiya Simpson.
 >
@@ -1445,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (4), [[LinkedIn]] (2), career (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[LinkedIn]] (2), [[Data Science]] (1), [[Database Management]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** mysql (1), find (1)
 > **Speakers:** - [nikiya] (1)

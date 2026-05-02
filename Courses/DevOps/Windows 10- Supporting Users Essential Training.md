@@ -106,22 +106,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supporting users in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980)
+#### [Supporting users in Windows 10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=0)** - [Brian] History has shown that whenever Microsoft releases a new Windows operating system, most organizations will take a wait and see approach.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=0)** - [Brian] History has shown that whenever [[Microsoft]] releases a new [[Windows]] operating system, most organizations will take a wait and see approach.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=7)** They'll hold off on upgrading until some of the bugs have been worked out and the new operating system has been proven to be reliable.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=14)** Right now, all signs point to this long-term trend holding true for Windows 11.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=19)** What that means is that Windows 10 will likely remain the operating system of choice for most organizations for quite some time to come.
+> **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=19)** What that means is that [[Windows 10]] will likely remain the operating system of choice for most organizations for quite some time to come.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=26)** That's why it's so important to keep learning the skills necessary to manage and support Windows 10.
 >
-> **[0:30](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=30)** In this LinkedIn Learning course, I'll teach you the key skills that you need in order to support Windows 10 in your own organization.
+> **[0:30](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=30)** In this [[LinkedIn]] Learning course, I'll teach you the key skills that you need in order to support Windows 10 in your own organization.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980&t=37)** My goal is to give you practical information that you can use right now, and I'll be covering topics such as application performance and compatibility, remote connectivity to user systems, and backup and recovery and so much more.
 >
@@ -133,28 +132,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (3), [[Windows]] (2), [[LinkedIn]] (2), application (1)
+> **Frameworks & Libraries:** [[Windows 10]] (4), [[Microsoft]] (3), [[Windows]] (2), [[LinkedIn]] (2)
 > **Env Vars:** mvp (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [brian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] Many of the topics that I cover in this course are foundational in nature so there aren't many prerequisites for you to worry about.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=6)** Even so, it will be helpful for you to have at least some prior Windows experience.
+> **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=6)** Even so, it will be helpful for you to have at least some prior [[Windows]] experience.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=11)** This can be Windows 10 experience, but it could also be experience with a previous version of Windows, such as Windows 7 or 8 or even Windows XP.
+> **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=11)** This can be [[Windows 10]] experience, but it could also be experience with a previous version of Windows, such as Windows 7 or 8 or even Windows XP.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=19)** At any rate, you should have at least some level of familiarity with Windows.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=23)** The other thing that you'll need is some basic IT knowledge.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=26)** I won't be going into anything overly advanced in this course, but it will be helpful for you to have some basic knowledge of things like networking and PC hardware.
+> **[0:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/what-you-should-know?u=76281980&t=26)** I won't be going into anything overly advanced in this course, but it will be helpful for you to have some basic knowledge of things like networking and PC [[Hardware]].
 
 > [!info]- Semantic Content
 >
@@ -168,16 +166,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980)
+#### [Start menu](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980&t=0)** - [Instructor] Windows 10 contains numerous features and enhancements that simply didn't exist in Windows eight.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980&t=0)** - [Instructor] [[Windows 10]] contains numerous features and enhancements that simply didn't exist in [[Windows]] eight.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980&t=5)** But one of the changes that seems to have gotten the most attention is the return of the start menu.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980&t=10)** As you may recall, Microsoft removed the start menu from Windows eight and there was such an outcry over that decision that Microsoft brought the start menu back in Windows 10.
+> **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980&t=10)** As you may recall, [[Microsoft]] removed the start menu from Windows eight and there was such an outcry over that decision that Microsoft brought the start menu back in Windows 10.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980&t=19)** Even so the start menu looks a little bit different from what it did in Windows seven.
 >
@@ -226,12 +223,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Action Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980)
+#### [The Action Center](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=0)** - [Instructor] Another interface item that Microsoft introduced in Windows 10 is the Windows Action Center.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=0)** - [Instructor] Another interface item that [[Microsoft]] introduced in [[Windows 10]] is the [[Windows]] Action Center.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=5)** You can access the Windows Action Center through the icon that's located in the lower-right corner of the screen.
 >
@@ -241,11 +237,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=28)** So, the Action Center is primarily designed to tell us what's going on with Windows, it gives us notifications.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=34)** So at the very top, you can see that we have a notification from OneDrive and this particular notification refers to a privacy update.
+> **[0:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=34)** So at the very top, you can see that we have a notification from [[Microsoft OneDrive|OneDrive]] and this particular notification refers to a [[Privacy]] update.
 >
 > **[0:41](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=41)** Beneath that, we have a notification from settings indicating that there's a problem with the Microsoft account on this machine and that we need to go in and fix that.
 >
-> **[0:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=50)** Next, we have a notification from Mail indicating that the Outlook account settings are out of date and that that is something that needs to be fixed.
+> **[0:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=50)** Next, we have a notification from Mail indicating that the [[Microsoft Outlook|Outlook]] account settings are out of date and that that is something that needs to be fixed.
 >
 > **[0:58](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-action-center?u=76281980&t=58)** So as you can see, the Action Center gives us insight into what's going on with our machine and what we can do in order to make things run a little bit better.
 >
@@ -278,14 +274,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tablet mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980)
+#### [Tablet mode](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=0)** - [Tutor] Even though Windows 10 is often thought of as a PC operating system, it can be used on a variety of different device types, including tablets.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=0)** - [Tutor] Even though [[Windows 10]] is often thought of as a PC operating system, it can be used on a variety of different device types, including tablets.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=8)** And Microsoft even includes something called tablet mode in Windows 10 that's designed to make Windows a little bit easier to use on touch screen devices.
+> **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=8)** And [[Microsoft]] even includes something called tablet mode in Windows 10 that's designed to make [[Windows]] a little bit easier to use on touch screen devices.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=16)** So I want to take a look at tablet mode.
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=31)** Now we have two main options on the tablet screen.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=34)** The first option controls what happens when you log into Windows, and the default behavior is that Windows will automatically be placed in the appropriate mode based on the hardware that you're using.
+> **[0:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=34)** The first option controls what happens when you log into Windows, and the default behavior is that Windows will automatically be placed in the appropriate mode based on the [[Hardware]] that you're using.
 >
 > **[0:44](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/tablet-mode?u=76281980&t=44)** So in other words, if Windows detects a keyboard, then it's going to operate in normal mode.
 >
@@ -358,12 +353,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [tutor] (1)
 
-#### Manage and switch apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980)
+#### [Manage and switch apps](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980&t=0)** - [Tutor] If you've spent much time working with Windows, then you've probably noticed that Windows can become increasingly cluttered and messy as you open more and more applications.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980&t=0)** - [Tutor] If you've spent much time working with [[Windows]], then you've probably noticed that Windows can become increasingly cluttered and messy as you open more and more applications.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980&t=9)** And it can sometimes be difficult to switch between applications.
 >
@@ -429,22 +423,21 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980&t=176)** And when I do groove music is brought to the front.
 >
-> **[2:58](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980&t=178)** So those are just a few tricks for navigating between open applications in Windows 10.
+> **[2:58](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-and-switch-apps?u=76281980&t=178)** So those are just a few tricks for navigating between open applications in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Windows]] (5), hit (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1)
 > **UI Navigation:** click on (4), open the (1), select the (1)
 > **CLI Commands:** make (2), snap (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### The new clipboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980)
+#### [The new clipboard](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=0)** - [Instructor] The Clipboard has been a part of Windows from the very beginning.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=0)** - [Instructor] The Clipboard has been a part of [[Windows]] from the very beginning.
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=3)** If you're not familiar with the Clipboard, the Clipboard allows you to copy data from one application to another.
 >
@@ -454,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=12)** It can be any variety of other data types.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=15)** So just to give you a very simple example of how the Clipboard works, I have the Microsoft Edge browser open on the left side of the screen, and I have Notepad open on the right side of the screen.
+> **[0:15](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=15)** So just to give you a very simple example of how the Clipboard works, I have the [[Microsoft]] Edge browser open on the left side of the screen, and I have Notepad open on the right side of the screen.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=25)** So I'm just going to select some text.
 >
@@ -528,23 +521,22 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=176)** And all you have to do is make sure that you're logged in on both of those PCs and just turn this on.
 >
-> **[3:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=182)** So that's how you use the Clipboard in Windows 10.
+> **[3:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-new-clipboard?u=76281980&t=182)** So that's how you use the Clipboard in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), application (4), data (3), [[Microsoft]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Microsoft]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (3), go to (1), right-click (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as you saw (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Focus Assist
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980)
+#### [Focus Assist](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=0)** - [Instructor] Focus assist, which used to be known as quiet hours, helps you to tune out some of the distractions that can often come when using Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=0)** - [Instructor] Focus assist, which used to be known as quiet hours, helps you to tune out some of the distractions that can often come when using [[Windows 10]].
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=8)** So let me show you how this works.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=60)** For example, when focus assist is set to off, you'll get all of the notifications from your apps and your contacts.
 >
-> **[1:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=67)** When focus assist is set to priority only, you'll see only selected notifications from the priority list, and the rest are going to go straight into the action center.
+> **[1:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=67)** When focus assist is set to priority only, you'll see only selected notifications from the priority list, and the [[Representational State Transfer (REST)|rest]] are going to go straight into the action center.
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/focus-assist?u=76281980&t=77)** Incidentally you can customize your priority list by clicking on the customize your priority list link that you can see right here.
 >
@@ -592,19 +584,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1), game (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), open the (1), go to (1), select the (1)
 > **Ports:** :00 (2)
 > **Analogies:** for example (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Search interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980)
+#### [The Search interface](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=0)** - [Tutor] Windows 10 contains a built-in search interface that you can use to search for items on your computer hand on the web.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=0)** - [Tutor] [[Windows 10]] contains a built-in search interface that you can use to search for items on your computer hand on the web.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=7)** Let me show you how it works.
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=21)** Right now the all tab is selected, so if I were to type a search query, I would see all kinds of results related to that query.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=29)** Right now we see some default results, I haven't even typed in any kind of query, but Microsoft gives me a few things that they think I might be interested in.
+> **[0:29](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=29)** Right now we see some default results, I haven't even typed in any kind of query, but [[Microsoft]] gives me a few things that they think I might be interested in.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=37)** For example, we have top apps, things like settings, File Explorer, Microsoft Edge, and so on.
 >
@@ -656,7 +647,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=143)** So let me just begin typing a couple of letters.
 >
-> **[2:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=146)** I'll type I am, and immediately, Windows finds a document called important document.text, and we have some very similar options for this document as to what we had for the WordPad application that I searched on a moment ago.
+> **[2:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=146)** I'll type I am, and immediately, [[Windows]] finds a document called important document.text, and we have some very similar options for this document as to what we had for the WordPad application that I searched on a moment ago.
 >
 > **[2:41](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=161)** We can open it, we can open the file location, and we can even see the full path.
 >
@@ -686,7 +677,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=217)** So I'll go ahead and type my own name.
 >
-> **[3:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=222)** And when I type that, I see a link to my LinkedIn profile, I see a link to my own personal webpage.
+> **[3:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=222)** And when I type that, I see a link to my [[LinkedIn]] profile, I see a link to my own personal webpage.
 >
 > **[3:49](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-search-interface?u=76281980&t=229)** And then if I were to scroll down, I'm sure there would be plenty of other web results, but that's how the web tab works.
 >
@@ -702,19 +693,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), web (7), [[Microsoft]] (6), application (6), next (3)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Windows]] (3), [[Windows 10]] (2), [[LinkedIn]] (1)
 > **UI Navigation:** click on (5), open the (3), scroll down (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Customize Search settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980)
+#### [Customize Search settings](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=0)** - [Instructor] Microsoft has built a search engine directly into Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=0)** - [Instructor] [[Microsoft]] has built a search engine directly into [[Windows 10]].
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=3)** You can see it in the lower-left corner of your screen.
 >
@@ -736,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=43)** The default configuration is moderate.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=45)** That means that if adult content is found in response to a search that you've performed, then Windows will filter out any sort of images or videos, but it will keep text-based results.
+> **[0:45](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=45)** That means that if adult content is found in response to a search that you've performed, then [[Windows]] will filter out any sort of images or videos, but it will keep text-based results.
 >
 > **[0:56](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/customize-search-settings?u=76281980&t=56)** If you don't want to see those results, then you can set SafeSearch to strict, and that will get rid of images, video, and adult text.
 >
@@ -770,17 +760,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), [[Microsoft]] (6), [[Windows]] (4), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Windows]] (4), [[Windows 10]] (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access work through Timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980)
+#### [Access work through Timeline](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=0)** - [Instructor] The Timeline is a convenience feature found in Windows 10, that allows you to see what you were previously working on and go back to where you left off.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=0)** - [Instructor] The Timeline is a convenience feature found in [[Windows 10]], that allows you to see what you were previously working on and go back to where you left off.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=8)** So to access the Timeline, what you would do is go down to the Task Bar and then you would click on the Task View icon, which you can see right here.
 >
@@ -788,9 +777,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=18)** And here we can see what I was doing earlier today.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=21)** For example, I downloaded VLC from the Microsoft Store.
+> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=21)** For example, I downloaded VLC from the [[Microsoft]] Store.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=25)** I wrote a PowerShell script in Notepad, and I got driving directions from Los Angeles to New York.
+> **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=25)** I wrote a [[Powershell]] script in Notepad, and I got driving directions from Los Angeles to New York.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=32)** I was also on the download Microsoft Edge web browser webpage.
 >
@@ -804,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=52)** I'll go ahead and close that out.
 >
-> **[0:54](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=54)** Now, a lot of people have expressed privacy concerns with regard to the Timeline, because it does indeed store a lot of personal information.
+> **[0:54](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=54)** Now, a lot of people have expressed [[Privacy]] concerns with regard to the Timeline, because it does indeed store a lot of personal information.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/access-work-through-timeline?u=76281980&t=62)** And the good news is that you can disable the Timeline if you want to.
 >
@@ -828,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (2), [[Privacy]] (2), feature (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (2), [[Privacy]] (2), [[Powershell]] (1)
 > **UI Navigation:** click on (5), go to (2), checkbox (2), select the (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** for example (2)
@@ -837,14 +826,13 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
 
-#### Using the Microsoft Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980)
+#### [Using the Microsoft Store](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980&t=0)** - [Instructor] Like mobile platforms such as iOS and Android, Windows 10 has its own app store.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980&t=0)** - [Instructor] Like mobile platforms such as iOS and [[Android]], [[Windows 10]] has its own app store.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980&t=6)** Historically this app store has been used for installing modern apps, but going forward in Windows 11, the app store can also be used for Win 32 apps, and even for Android apps.
+> **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980&t=6)** Historically this app store has been used for installing modern apps, but going forward in [[Windows]] 11, the app store can also be used for Win 32 apps, and even for Android apps.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/using-the-microsoft-store?u=76281980&t=16)** So the app store is going to be increasingly important as time goes on.
 >
@@ -878,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), [[Windows 10]] (2), application (2), [[Search]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Windows 10]] (2), [[Windows]] (1)
 > **Prerequisites:** install (5), you'll need (1)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **Env Vars:** vlc (3)
@@ -886,8 +874,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create virtual desktops
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980)
+#### [Create virtual desktops](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=6)** If you look at this screen, for example, you can see that even though I only have three applications open, the screen is really messy and cluttered.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=13)** In the past, the best solution for this has been to install additional monitors and spread the Windows display across those monitors.
+> **[0:13](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=13)** In the past, the best solution for this has been to install additional monitors and spread the [[Windows]] display across those monitors.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=21)** That gives you additional desktop real estate.
 >
@@ -903,7 +890,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=28)** If, for example, you have a laptop user who does most of their work from the road, taking additional monitors with them might not be a realistic option.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=37)** Fortunately, Microsoft provides you with a way of expanding the display without having to install monitors.
+> **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=37)** Fortunately, [[Microsoft]] provides you with a way of expanding the display without having to install monitors.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=42)** Let me show you how this works.
 >
@@ -933,7 +920,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=142)** So, when I'm done with the additional desktops, I simply go back to task view, I hover over the desktop that I'm done with and click the close icon and that desktop goes away, and so now I'm just left with my original desktop.
 >
-> **[2:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=157)** So, that's how virtual desktops work in Windows 10.
+> **[2:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-virtual-desktops?u=76281980&t=157)** So, that's how virtual desktops work in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
@@ -951,12 +938,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage application compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980)
+#### [Manage application compatibility](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980&t=0)** - [Instructor] You may occasionally find that applications that ran without issue in earlier versions of Windows simply won't work in Windows 10 due to compatibility problems.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980&t=0)** - [Instructor] You may occasionally find that applications that ran without issue in earlier versions of [[Windows]] simply won't work in [[Windows 10]] due to compatibility problems.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980&t=8)** Fortunately, there are some tools that are built into the operating system that can help you to resolve these types of issues.
 >
@@ -1010,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), application (2), next (2)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3)
 > **UI Navigation:** click on (2), right-click (1), checkbox (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** find (2)
@@ -1019,18 +1005,17 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### Disable S mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980)
+#### [Disable S mode](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=0)** - [Instructor] Some Windows 10 devices come pre-configured from the factory to operate in S mode, or what used to be known as Windows 10 S.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=0)** - [Instructor] Some [[Windows 10]] devices come pre-configured from the factory to operate in S mode, or what used to be known as Windows 10 S.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=8)** Now S mode can improve both performance and security, but these improvements come at a cost.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=14)** Specifically, there are certain Windows features and capabilities that are disabled in S mode.
+> **[0:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=14)** Specifically, there are certain [[Windows]] features and capabilities that are disabled in S mode.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=19)** The most significant of these is that you can only install applications from the Microsoft Store.
+> **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=19)** The most significant of these is that you can only install applications from the [[Microsoft]] Store.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/disable-s-mode?u=76281980&t=24)** You can't simply download an application from the internet and install it yourself.
 >
@@ -1108,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (8), [[Microsoft]] (8), application (4), [[Windows]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (8), [[Microsoft]] (8), [[Windows]] (3)
 > **UI Navigation:** click on (7), go to (5), scroll down (2), switch to (2)
 > **Prerequisites:** install (9)
 > **Env Vars:** vlc (3)
@@ -1116,16 +1101,15 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application compatibility and the ADK
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980)
+#### [Application compatibility and the ADK](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=0)** - [Instructor] Before you deploy Windows 10 in your own environment, it's important to assess your applications to make sure that they're compatible with Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=0)** - [Instructor] Before you deploy [[Windows 10]] in your own environment, it's important to assess your applications to make sure that they're compatible with Windows 10.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=7)** Fortunately, Microsoft offers a free tool that you can use to help with this evaluation process.
+> **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=7)** Fortunately, [[Microsoft]] offers a free tool that you can use to help with this evaluation process.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=12)** So I want to show you how to set up the Windows assessment and deployment kit and to use one of its tools to evaluate your applications.
+> **[0:12](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=12)** So I want to show you how to set up the [[Windows]] assessment and deployment kit and to use one of its tools to evaluate your applications.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=20)** What I'm going to do is to scroll down and I'm going to click on the link to download the Windows ADK for Windows 10 version 2004.
 >
@@ -1143,7 +1127,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=67)** And for the technique that I'm about to demonstrate, you only really need one of these tools.
 >
-> **[1:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=71)** So I'm going to go ahead and click next, and then I'll click next on the privacy screen, I'll click accept and now I'm taken to a screen that asks me which components I want to install.
+> **[1:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=71)** So I'm going to go ahead and click next, and then I'll click next on the [[Privacy]] screen, I'll click accept and now I'm taken to a screen that asks me which components I want to install.
 >
 > **[1:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/application-compatibility-and-the-adk?u=76281980&t=88)** So I'm going to de-select all of the components, and then I'm going to select the application compatibility tools, and you can see the estimated displace required value dropped to 7.8 megabytes.
 >
@@ -1193,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (7), [[Windows]] (5), application (4), [[Search]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Windows]] (5), [[Microsoft]] (3), [[Privacy]] (1)
 > **UI Navigation:** click on (7), scroll down (1), open the (1), select the (1), go to (1)
 > **Prerequisites:** install (3), set up (1)
 > **Versions:** version 2004 (1), 1.1 (1), 7.8 (1)
@@ -1202,12 +1186,11 @@ created: 2026-05-02
 > **Env Vars:** adk (1)
 > **Analogies:** for example (1)
 
-#### Get performance data from Task Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/get-performance-data-from-task-manager?u=76281980)
+#### [Get performance data from Task Manager](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/get-performance-data-from-task-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/get-performance-data-from-task-manager?u=76281980&t=0)** - If you're trying to diagnose a Window's performance problem, or you just want to get a better feel for how Windows is using the available hardware, then one of the best options is to simply use the Task Manager.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/get-performance-data-from-task-manager?u=76281980&t=0)** - If you're trying to diagnose a Window's performance problem, or you just want to get a better feel for how [[Windows]] is using the available [[Hardware]], then one of the best options is to simply use the Task Manager.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/get-performance-data-from-task-manager?u=76281980&t=10)** You can access the Task Manager by pressing control, delete, and then choosing the Task Manager option.
 >
@@ -1259,12 +1242,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### An introduction to the Resource Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-the-resource-monitor?u=76281980)
+#### [An introduction to the Resource Monitor](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-the-resource-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-the-resource-monitor?u=76281980&t=0)** - Although the task manager is a good tool for viewing hardware resource usage on a windows machine, you may sometimes find that the task manager doesn't give you enough information by itself.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-the-resource-monitor?u=76281980&t=0)** - Although the task manager is a good tool for viewing [[Hardware]] resource usage on a [[Windows]] machine, you may sometimes find that the task manager doesn't give you enough information by itself.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-the-resource-monitor?u=76281980&t=11)** In those types of situations, you may be better off using the resource monitor.
 >
@@ -1332,7 +1314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Windows]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Windows]] (1)
 > **Env Vars:** cpu (10)
 > **UI Navigation:** click on (4), open the (2)
 > **CLI Commands:** find (1), cp (1)
@@ -1341,12 +1323,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### An introduction to Performance Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980)
+#### [An introduction to Performance Monitor](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=0)** - [Instructor] The most comprehensive tool that's available for assessing Windows hardware usage is the Performance Monitor.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=0)** - [Instructor] The most comprehensive tool that's available for assessing [[Windows]] [[Hardware]] usage is the Performance Monitor.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=6)** To access the Performance Monitor, right-click on the Start button, choose Run, and then type perfmon and click OK.
 >
@@ -1402,9 +1383,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=143)** We can also remove counters simply by selecting the counter and then clicking on the red X icon at the top of the screen.
 >
-> **[2:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=154)** And so by adding and removing counters, you can see exactly the performance metrics that you're interested in.
+> **[2:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=154)** And so by adding and removing counters, you can see exactly the [[Performance Metrics]] that you're interested in.
 >
-> **[2:40](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=160)** And that's how the Performance Monitor works in Windows 10.
+> **[2:40](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-introduction-to-performance-monitor?u=76281980&t=160)** And that's how the Performance Monitor works in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
@@ -1414,12 +1395,11 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing your hardware specifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980)
+#### [Viewing your hardware specifications](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=0)** - [Instructor] When troubleshooting a performance problem in Windows 10, it can sometimes be helpful to review a machine's hardware specifications.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=0)** - [Instructor] When troubleshooting a performance problem in [[Windows 10]], it can sometimes be helpful to review a machine's [[Hardware]] specifications.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=7)** There are a couple of different ways of doing this.
 >
@@ -1441,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=54)** This is what the Device Manager looks like.
 >
-> **[0:56](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=56)** And if it looks a little bit familiar, it's probably because this has been a part of Windows for many, many years.
+> **[0:56](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=56)** And if it looks a little bit familiar, it's probably because this has been a part of [[Windows]] for many, many years.
 >
 > **[1:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/viewing-your-hardware-specifications?u=76281980&t=63)** What we see here is a listing of various categories of hardware.
 >
@@ -1471,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (4), [[Windows 10]] (2), [[Troubleshooting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Windows 10]] (2), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** ram (1), acpi (1), cpu (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1480,12 +1460,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Storage Sense
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980)
+#### [Windows Storage Sense](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980&t=0)** - Occasionally you may find that Windows begins to run low on hard disk space.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980&t=0)** - Occasionally you may find that [[Windows]] begins to run low on hard disk space.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980&t=4)** And when that happens, you can use a feature called Windows storage sense to reclaim some disc space from the Windows Operating System.
 >
@@ -1567,11 +1546,11 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980&t=201)** And then finally there's a clean now button at the bottom of the screen that you can use if you want to run storage sense right now to free up some disk space.
 >
-> **[3:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980&t=208)** So that's just a quick overview of storage sense in Windows 10.
+> **[3:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-storage-sense?u=76281980&t=208)** So that's just a quick overview of storage sense in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), next (4), feature (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Windows 10]] (1)
 > **UI Navigation:** click on (9)
 > **Prerequisites:** configure (6), set up (1)
 > **CLI Commands:** find (2)
@@ -1579,22 +1558,21 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - occasionally (1)
 
-#### Uninstalling unwanted applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980)
+#### [Uninstalling unwanted applications](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=0)** - You may occasionally find that your Windows 10 PC contains applications that you don't wish to have installed.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=0)** - You may occasionally find that your [[Windows 10]] PC contains applications that you don't wish to have installed.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=6)** In these types of situations, it's easy to remove an unwanted application.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=10)** The machine that you see here is a Microsoft Surface Book 3 and it's running a default configuration.
+> **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=10)** The machine that you see here is a [[Microsoft]] Surface Book 3 and it's running a default configuration.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=16)** As you can see on the desktop, this machine came preloaded with Microsoft Teams.
+> **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=16)** As you can see on the desktop, this machine came preloaded with [[Microsoft Teams]].
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=20)** Now, that's a normal thing.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=21)** Windows 11 comes with Microsoft Teams integrated in it.
+> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=21)** [[Windows]] 11 comes with Microsoft Teams integrated in it.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/uninstalling-unwanted-applications?u=76281980&t=24)** But hypothetically speaking, let's suppose that for whatever reason, we didn't want Teams to be installed on this machine.
 >
@@ -1620,19 +1598,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (4), application (3), [[Windows 10]] (2), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (4), [[Windows 10]] (2), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
 
-#### Remove Windows bloatware
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980)
+#### [Remove Windows bloatware](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=0)** - [Instructor] Whether you install Windows 10 yourself, or you purchase a brand new machine with Windows 10 preloaded, you're likely to find that Windows comes pre-installed with a number of items that you don't necessarily want.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=0)** - [Instructor] Whether you install [[Windows 10]] yourself, or you purchase a brand new machine with Windows 10 preloaded, you're likely to find that [[Windows]] comes pre-installed with a number of items that you don't necessarily want.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=11)** This is especially true if you're going to be using Windows 10 in our business environment.
 >
@@ -1644,13 +1621,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=37)** There are also some potentially unwanted shortcuts in the start menu itself.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=42)** For example, we have Adobe Photoshop, Dolby Access, if I scroll down a little bit, we have Hidden City, which is a game, we have the Microsoft Solitaire collection.
+> **[0:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=42)** For example, we have [[Adobe Photoshop]], Dolby Access, if I scroll down a little bit, we have Hidden City, which is a game, we have the [[Microsoft]] Solitaire collection.
 >
 > **[0:52](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=52)** So there are a lot of different things going on here, fortunately, this can be removed.
 >
 > **[0:58](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=58)** Now you can remove these items manually, but it can be a tedious and time consuming process, especially if you have to do more than one PC, but there's also a utility that you can use to uninstall these items for you.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=70)** Now, before I show you what this utility is and how it works, I need to point out that this utility isn't a part of Windows, it's a free ware utility that you would have to download from GitHub, and that means that it's unsupported.
+> **[1:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=70)** Now, before I show you what this utility is and how it works, I need to point out that this utility isn't a part of Windows, it's a free ware utility that you would have to download from [[GitHub]], and that means that it's unsupported.
 >
 > **[1:23](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=83)** Now, having said that, this utility is something that I've personally had really good luck with so I wanted to show you how it works in case it can be of benefit to you in your own organization.
 >
@@ -1666,7 +1643,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=136)** I'll go to This PC, and I'll go to my C-Drive, and what I'm going to just show you is that I've already downloaded the Debloater and I've placed the files in a folder called Debloater.
 >
-> **[2:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=148)** And these are PowerShell scripts, and the one that we're especially interested in is Windows 10 Debloater GUI, which you can see right here.
+> **[2:28](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=148)** And these are [[Powershell]] scripts, and the one that we're especially interested in is Windows 10 Debloater GUI, which you can see right here.
 >
 > **[2:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remove-windows-bloatware?u=76281980&t=157)** So with that said, I'm going to go ahead, close out File Explorer and switch over to PowerShell.
 >
@@ -1694,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (10), [[Powershell]] (5), [[Windows]] (3), [[GitHub]] (2), cd (2)
+> **Frameworks & Libraries:** [[Windows 10]] (10), [[Powershell]] (5), [[Windows]] (3), [[GitHub]] (2), [[Adobe Photoshop]] (1)
 > **UI Navigation:** click on (5), go to (2), scroll down (1)
 > **Tools:** powershell (5), github (2)
 > **CLI Commands:** find (2), cd (2)
@@ -1703,18 +1680,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **Analogies:** for example (1)
 
-#### Modifying Windows Startup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980)
+#### [Modifying Windows Startup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=0)** - [Narrator] As you use Windows, you may find that it becomes slower and slower over time.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=0)** - [Narrator] As you use [[Windows]], you may find that it becomes slower and slower over time.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=4)** One of the main reasons why that happens is because as you install applications, those applications can add items to the Startup.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=11)** So in other words, as Windows starts up, it also loads components that belong to those various applications thereby causing the startup process to take a little bit longer.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=21)** Well, fortunately Windows 10 contains a mechanism that you can use to review items that start automatically.
+> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=21)** Well, fortunately [[Windows 10]] contains a mechanism that you can use to review items that start automatically.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=27)** So let's take a look at what that looks like.
 >
@@ -1736,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=83)** Very often as you review this list, you may find that there are certain items on the list that either shouldn't be there or that you're not sure if they should be there or not, because you don't recognize them.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=93)** So Microsoft gives you some tools that you can use to kind of narrow things down a little bit.
+> **[1:33](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=93)** So [[Microsoft]] gives you some tools that you can use to kind of narrow things down a little bit.
 >
 > **[1:38](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/modifying-windows-startup?u=76281980&t=98)** Let's take a look at how this works.
 >
@@ -1760,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), application (3), [[Windows 10]] (2), web (2), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (2), [[Microsoft]] (1)
 > **Definitions:** means that (2), is a  (2), in other words (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1), right-click (1)
@@ -1772,22 +1748,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of Microsoft Edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980)
+#### [An overview of Microsoft Edge](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=0)** - [Instructor] One of the big changes that Microsoft introduced in Windows 10 was to replace the aging Internet Explorer browser with Microsoft Edge.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=0)** - [Instructor] One of the big changes that [[Microsoft]] introduced in [[Windows 10]] was to replace the aging Internet Explorer browser with Microsoft Edge.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=8)** Now, Internet Explorer is still exists within Windows 10.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=11)** You can access it by clicking on the Start button, going to the W section, expanding Windows Accessories, and here we have Internet Explorer.
+> **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=11)** You can access it by clicking on the Start button, going to the W section, expanding [[Windows]] Accessories, and here we have Internet Explorer.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=25)** Now, Microsoft Edge was introduced with Windows 10, so it's been around for a while, but a while back, Microsoft ended up making a major change to Edge because early on, Edge was a proprietary browser.
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=36)** However, Microsoft rewrote Edge to use Chromium.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=39)** That's the same engine that Google Chrome uses.
+> **[0:39](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=39)** That's the same engine that [[Google]] Chrome uses.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980&t=42)** So Edge is now based on the same underlying code as Google Chrome, which really helps Edge to be more compatible with various websites.
 >
@@ -1815,16 +1790,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows 10]] (3), [[Google]] (2), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows 10]] (3), [[Google]] (2), [[Windows]] (1)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edge settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980)
+#### [Edge settings](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=0)** - [Instructor] The Microsoft Edge browser is highly configurable and there are any number of settings that are available to you that you can use to fine tune the browser's performance to your liking.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=0)** - [Instructor] The [[Microsoft]] Edge browser is highly configurable and there are any number of settings that are available to you that you can use to fine tune the browser's performance to your liking.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=9)** All of these settings are available through the More menu.
 >
@@ -1854,24 +1828,23 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=101)** Now the main thing that I wanted to show you within the Settings is the search box and the reason why I wanted to show you the search box is because there are a huge number of settings buried within the Settings screen and the search box can make it a lot easier to find whatever it is that you happen to be looking for.
 >
-> **[1:55](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=115)** If, for example, you're looking for something related to downloads, you could simply type the word download into the search box and anything even remotely related to downloading would be exposed.
+> **[1:55](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=115)** If, for example, you're looking for something related to downloads, you could simply type the [[Microsoft Word|word]] download into the search box and anything even remotely related to downloading would be exposed.
 >
 > **[2:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-settings?u=76281980&t=125)** So that's just a quick taste of the settings that are available for Microsoft Edge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft]] (2), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Edge with Group Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980)
+#### [Configure Edge with Group Policy](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=0)** - [Instructor] In a business environment where the vast majority of your Windows 10 machines are joined to an Active Directory domain, it often makes sense to use Group Policy settings to configure the Edge browser.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=0)** - [Instructor] In a business environment where the vast majority of your [[Windows 10]] machines are joined to an [[Active Directory]] domain, it often makes sense to use Group Policy settings to configure the Edge browser.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=10)** And the reason for this is simple, the vast majority of the security threats that your users face every single day come from the internet.
 >
@@ -1937,7 +1910,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=179)** And the way that we do that is by going to our browser.
 >
-> **[3:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=182)** And as you can see, I'm on a page called Download and deploy Microsoft Edge for business.
+> **[3:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=182)** And as you can see, I'm on a page called Download and deploy [[Microsoft]] Edge for business.
 >
 > **[3:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=186)** You can see the URL in the address bar in the upper-left corner of the screen.
 >
@@ -1953,7 +1926,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=228)** Within the zip file, there are several sub folders.
 >
-> **[3:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=230)** I'm going to go to windows, and admx.
+> **[3:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=230)** I'm going to go to [[Windows]], and admx.
 >
 > **[3:55](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/configure-edge-with-group-policy?u=76281980&t=235)** And you can see that the structure here is similar to the Policy Setting files that we copied from Windows 10 a moment ago.
 >
@@ -1993,7 +1966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (7), [[Active Directory]] (5), next (4), management (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows 10]] (7), [[Active Directory]] (5), [[Microsoft]] (3), [[Windows]] (2)
 > **UI Navigation:** go to (7), right-click (6), click on (5), select the (4), scroll down (2)
 > **Prerequisites:** configure (3), install (2), you'll need (1)
 > **Env Vars:** rsat (3), url (1)
@@ -2002,12 +1975,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edge browser extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-browser-extensions?u=76281980)
+#### [Edge browser extensions](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-browser-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-browser-extensions?u=76281980&t=0)** - Like most modern browsers, Microsoft Edge supports the use of browser extensions.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-browser-extensions?u=76281980&t=0)** - Like most modern browsers, [[Microsoft]] Edge supports the use of browser extensions.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/edge-browser-extensions?u=76281980&t=5)** An extension gives new capabilities to the browser that aren't included natively.
 >
@@ -2041,17 +2013,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Prerequisites:** install (4)
 > **Speakers:** - like (1)
 
-#### Inking with Edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980)
+#### [Inking with Edge](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980&t=0)** - [Instructor] One of my favorite features in the Edge browser is the ability to use Windows Inking to mark up a PDF file.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980&t=0)** - [Instructor] One of my favorite features in the Edge browser is the ability to use [[Windows]] Inking to mark up a PDF file.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980&t=6)** So as you can see, I went to a webpage and opened a sample PDF file.
 >
@@ -2075,7 +2046,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980&t=53)** For example, I just erased the highlighting that I did a moment ago.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980&t=57)** So that's how Inking works for PDF documents in Microsoft Edge.
+> **[0:57](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/inking-with-edge?u=76281980&t=57)** So that's how Inking works for PDF documents in [[Microsoft]] Edge.
 
 > [!info]- Semantic Content
 >
@@ -2085,12 +2056,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safe Browsing with Application Guard
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980)
+#### [Safe Browsing with Application Guard](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=0)** - [Tutor] Microsoft defender application guard uses virtualization to create a sandbox environment around the edge browser.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=0)** - [Tutor] [[Microsoft Defender]] application guard uses virtualization to create a sandbox environment around the edge browser.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=6)** That way you can access potentially risky web content without having to worry about it harming your PC.
 >
@@ -2098,7 +2068,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=16)** I'm going to begin by right clicking on the start button, from there, I'll go to run, and I'm going to type control to access the control panel.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=25)** Next, I'm going to click on programs, and then I'm going to click on turn Windows features on or off.
+> **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=25)** Next, I'm going to click on programs, and then I'm going to click on turn [[Windows]] features on or off.
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=35)** Now, I'm going to select a Microsoft defender application guard.
 >
@@ -2134,7 +2104,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=127)** I'll go ahead and close out Windows security, and I'm going to open my web browser.
 >
-> **[2:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=134)** Now, Microsoft Edge isn't protected by application guard by default, you actually have to open an application guard session.
+> **[2:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=134)** Now, [[Microsoft]] Edge isn't protected by application guard by default, you actually have to open an application guard session.
 >
 > **[2:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/safe-browsing-with-application-guard?u=76281980&t=141)** And the way that you do that is by clicking on the more menu and then click on new application guard window.
 >
@@ -2150,7 +2120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), [[Windows]] (4), [[Microsoft Defender]] (3), next (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Defender]] (3), [[Microsoft]] (3), [[Microsoft Defender|Defender]] (1)
 > **UI Navigation:** click on (7), go to (2)
 > **Definitions:** is a  (1), in other words (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -2162,12 +2132,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Smartphone connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980)
+#### [Smartphone connectivity](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=0)** - [Instructor] Microsoft makes it possible to pair your Windows 10 device, to your smartphone.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=0)** - [Instructor] [[Microsoft]] makes it possible to pair your [[Windows 10]] device, to your smartphone.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=4)** So I want to show you how to do that.
 >
@@ -2179,11 +2148,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=16)** So, let's go ahead and do that.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=21)** So here we have the, Your Phone app, and this is built into Windows, this isn't anything that you have to install.
+> **[0:21](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=21)** So here we have the, Your Phone app, and this is built into [[Windows]], this isn't anything that you have to install.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=27)** The first thing that I have to do, is choose what type of phone that I have.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=31)** I'm going to go with Android, because the Surface Duo runs the Android operating system, even though it is a Surface device.
+> **[0:31](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=31)** I'm going to go with [[Android]], because the Surface Duo runs the Android operating system, even though it is a Surface device.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980&t=37)** So I'll choose Android and click, "Continue."
 >
@@ -2289,19 +2258,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows 10]] (6), next (5), [[Android]] (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows 10]] (6), [[Android]] (3), [[Windows]] (2)
 > **UI Navigation:** click on (2), select the (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** install (2)
 > **Env Vars:** sms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Ink and the Surface Pen
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980)
+#### [Windows Ink and the Surface Pen](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=0)** - [Instructor] One of the key capabilities built into Windows 10 is inking, that is, the ability to interact with the Windows 10 Operating System using a digital pen, so I want to show you how that works.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=0)** - [Instructor] One of the key capabilities built into [[Windows 10]] is inking, that is, the ability to interact with the Windows 10 Operating System using a digital pen, so I want to show you how that works.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=10)** Now, the first thing that you're going to need to do, if you haven't already, is to pair a pen to your Windows 10 PC, and the method that you use to do this is going to vary widely depending on what type of pen that you're using, a lot of the pens on the market use Bluetooth connectivity.
 >
@@ -2319,13 +2287,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=84)** Now that we've paired the Surface Pen with the Surface Book 3 device, you might be wondering what we can do with it.
 >
-> **[1:29](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=89)** Well, if you have any use Office 365, and there is extensive inking support built into all of the Office applications, but there's also a level of ink support built directly into Windows, so I'm going to show you a couple of examples.
+> **[1:29](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=89)** Well, if you have any use [[Microsoft Office|Office]] 365, and there is extensive inking support built into all of the Office applications, but there's also a level of ink support built directly into [[Windows]], so I'm going to show you a couple of examples.
 >
 > **[1:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=102)** If you look at the lower right corner of the screen, you'll notice a couple of icons, and one of those icons kind of resembles a pen, I'm going to click on that icon now.
 >
 > **[1:51](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=111)** And when I do, you'll see an option for the whiteboard, the whiteboard is a freeform canvas that will allow you to play with the pen and just kind of get a feel for it, I'll go ahead and open that up.
 >
-> **[2:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=122)** So this is what the Microsoft Whiteboard looks like, and I'm just going to scribble on the screen a little bit.
+> **[2:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=122)** So this is what the [[Microsoft]] Whiteboard looks like, and I'm just going to scribble on the screen a little bit.
 >
 > **[2:09](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=129)** And you'll notice that down at the bottom of the screen, we have icons for changing the pen color, using the pen as a highlighter, we have an eraser, and several other tools.
 >
@@ -2351,7 +2319,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=230)** One of the things that you can do is to cross out things that don't come out quite right.
 >
-> **[3:54](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=234)** For example, if I meant to write the word one instead of ones, I could simply cross out ones, and it goes away, and then I could write the correct word.
+> **[3:54](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=234)** For example, if I meant to write the [[Microsoft Word|word]] one instead of ones, I could simply cross out ones, and it goes away, and then I could write the correct word.
 >
 > **[4:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/windows-ink-and-the-surface-pen?u=76281980&t=245)** Now, you might've also noticed some unwanted spaces, Windows separated the word every from one, and it even put a space after the E and every.
 >
@@ -2377,16 +2345,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Miracast support
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980)
+#### [Miracast support](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=0)** - [Instructor] Microsoft gives you the ability to broadcast your Windows 10 machine to a wireless display using a protocol called Miracast.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=0)** - [Instructor] [[Microsoft]] gives you the ability to broadcast your [[Windows 10]] machine to a wireless display using a protocol called Miracast.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=7)** So let's take a look at how to set this up.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=9)** I've already got a Miracast enabled display set up on the other side of my office.
+> **[0:09](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=9)** I've already got a Miracast enabled display set up on the other side of my [[Microsoft Office|office]].
 >
 > **[0:13](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=13)** So let's connect this Windows 10 machine to that display.
 >
@@ -2402,7 +2369,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=38)** I'll go ahead and click that link now.
 >
-> **[0:41](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=41)** When I do, Windows begin searching for wireless displays and it immediately finds my Miracast enabled device, it's called Microsoft display adaptor for E.
+> **[0:41](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=41)** When I do, [[Windows]] begin searching for wireless displays and it immediately finds my Miracast enabled device, it's called Microsoft display adaptor for E.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/miracast-support?u=76281980&t=51)** I'm going to click on that display adapter.
 >
@@ -2416,24 +2383,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Microsoft]] (2), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Microsoft]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (6), scroll down (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bluetooth
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980)
+#### [Bluetooth](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=0)** - [Instructor] Much of the new hardware that's being released today is Bluetooth enabled.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=0)** - [Instructor] Much of the new [[Hardware]] that's being released today is Bluetooth enabled.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=4)** So it's really important to know how to connect a Bluetooth device to a Windows 10 machine.
+> **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=4)** So it's really important to know how to connect a Bluetooth device to a [[Windows 10]] machine.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=8)** So let's take a look at how to do that.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=11)** The screen that you're looking at right now is the desktop on a Microsoft Surface Book 3 device.
+> **[0:11](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=11)** The screen that you're looking at right now is the desktop on a [[Microsoft]] Surface Book 3 device.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=16)** And I've got a set of second generation Microsoft Surface Headphones that I'm going to pair to this device.
 >
@@ -2453,7 +2419,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=66)** And you can see the Bluetooth and other devices is selected by default.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=70)** Now, if you look at the very bottom of the screen, you can see that there's a check box to show notifications, to connect using Swift Pair.
+> **[1:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=70)** Now, if you look at the very bottom of the screen, you can see that there's a check box to show notifications, to connect using [[Swift (Programming Language)|Swift]] Pair.
 >
 > **[1:16](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/bluetooth?u=76281980&t=76)** That's what that pop-up was that you saw a moment ago.
 >
@@ -2483,24 +2449,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Hardware]] (2), [[Windows 10]] (2), power (2), [[Swift (Programming Language)|Swift]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Hardware]] (2), [[Windows 10]] (2), [[Swift (Programming Language)|Swift]] (2)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Surface Dial
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980)
+#### [The Surface Dial](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=0)** - [Instructor] The Surface Dial is one of the more unique pieces of hardware offered by Microsoft.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=0)** - [Instructor] The Surface Dial is one of the more unique pieces of [[Hardware]] offered by [[Microsoft]].
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=4)** It's probably best known as a drawing tool, but it can be used for other purposes, as well.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=9)** For example, some people will use the Surface Dial as a volume control, and those who are into video editing oftentimes use the Surface Dial as a jog control.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=19)** So, I want to take a moment and show you how to set up the Surface Dial for use with windows 10.
+> **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=19)** So, I want to take a moment and show you how to set up the Surface Dial for use with [[Windows 10]].
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=25)** I'm going to begin by clicking on the Start button.
 >
@@ -2512,7 +2477,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=45)** And now that the Surface Dial is in pairing mode, I'm going to click on Bluetooth.
 >
-> **[0:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=50)** And Windows discovers the Surface Dial, so I'm going to click on it and click Done.
+> **[0:50](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=50)** And [[Windows]] discovers the Surface Dial, so I'm going to click on it and click Done.
 >
 > **[0:59](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=59)** So now the Surface Dial is paired for use with Windows 10.
 >
@@ -2540,7 +2505,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=109)** Then we have the Scroll control.
 >
-> **[1:52](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=112)** Then Zoom.
+> **[1:52](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=112)** Then [[Zoom]].
 >
 > **[1:54](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/the-surface-dial?u=76281980&t=114)** Then Undo.
 >
@@ -2580,7 +2545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Hardware]] (1), [[Microsoft]] (1), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Hardware]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (3), go to (1), toggle (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** configure (2), set up (1)
@@ -2589,12 +2554,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mixed Reality Portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980)
+#### [Mixed Reality Portal](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=0)** - [Instructor] One of my favorite Windows 10 features is the mixed reality portal.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=0)** - [Instructor] One of my favorite [[Windows 10]] features is the mixed reality portal.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=4)** If you're not familiar with the mixed reality portal, it's essentially a virtual reality environment.
 >
@@ -2614,7 +2578,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=68)** So there are all manner of applications that you can run in the mixed reality portal.
 >
-> **[1:13](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=73)** To use the mixed reality portal, simply plug in your headset and then Windows walks you through a very simple setup process and then coaches you through basic use.
+> **[1:13](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=73)** To use the mixed reality portal, simply plug in your headset and then [[Windows]] walks you through a very simple setup process and then coaches you through basic use.
 >
 > **[1:22](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=82)** One other thing that I want to show you about the mixed reality portal is how to access your applications.
 >
@@ -2634,7 +2598,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=127)** If you click on all apps, you can access all of the basic Windows applications.
 >
-> **[2:12](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=132)** Additionally, the Microsoft store contains a number of free and paid applications that you can download.
+> **[2:12](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=132)** Additionally, the [[Microsoft]] store contains a number of free and paid applications that you can download.
 >
 > **[2:18](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/mixed-reality-portal?u=76281980&t=138)** And then to close out the start menu, simply click the Windows button on the handheld controller once again.
 >
@@ -2642,7 +2606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (1), business (1), [[Engineering]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1), known as (1)
 > **Cross-References:** go back to (1)
@@ -2654,12 +2618,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enable remote connectivity to Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980)
+#### [Enable remote connectivity to Windows 10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=0)** - [Instructor] Windows 10 supports remote connectivity by way of the RDP Protocol.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=0)** - [Instructor] [[Windows 10]] supports remote connectivity by way of the RDP Protocol.
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=4)** This is useful if you need to enable Windows 10 machines to be remotely supported, because the technician will be able to establish a remote connection to a machine rather than having to visit the machine in person.
 >
@@ -2667,7 +2630,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=19)** I'm going to begin by clicking on the Start button, and then I'm going to click on Settings.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=25)** Once Windows Settings opens, I'm going to click on System.
+> **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=25)** Once [[Windows]] Settings opens, I'm going to click on System.
 >
 > **[0:29](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=29)** And then from there, I'm going to click on the Remote Desktop tab.
 >
@@ -2691,7 +2654,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=79)** So I'll go ahead and click on that now.
 >
-> **[1:22](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=82)** And as you can see, this particular machine is connected to an active directory domain.
+> **[1:22](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=82)** And as you can see, this particular machine is connected to an [[Active Directory]] domain.
 >
 > **[1:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980&t=86)** So the domain administrator already has access to this machine once we enable remote desktop.
 >
@@ -2709,12 +2672,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Remote Desktop Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980)
+#### [Use Remote Desktop Services](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to set up Windows 10 to support remote connectivity.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to set up [[Windows 10]] to support remote connectivity.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=5)** Now, I want to show you how to actually establish a connection to your remote system.
 >
@@ -2750,7 +2712,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=84)** So you generally won't have to worry about this.
 >
-> **[1:27](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=87)** But if you find that you're unable to establish a connection, then you might want to check the Windows Firewall just to make sure that that port is open.
+> **[1:27](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=87)** But if you find that you're unable to establish a connection, then you might want to check the [[Windows]] Firewall just to make sure that that port is open.
 >
 > **[1:34](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/use-remote-desktop-services?u=76281980&t=94)** So with that said, I'm going to go ahead and close this out.
 >
@@ -2855,16 +2817,15 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **URLs:** [poseylab.com](https://poseylab.com) (1)
 
-#### Remote Desktop Connection Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980)
+#### [Remote Desktop Connection Manager](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=0)** - [Instructor] If you use the Windows remote desktop software to occasionally connect to a remote system, then it generally works fine.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=0)** - [Instructor] If you use the [[Windows]] remote desktop software to occasionally connect to a remote system, then it generally works fine.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=7)** But if you frequently find yourself having to remotely connect to a large number of systems, then you may benefit from using something a bit more advanced.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=14)** Microsoft offers a free tool that can help with this sort of thing.
+> **[0:14](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=14)** [[Microsoft]] offers a free tool that can help with this sort of thing.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=19)** As you can see on the screen, this tool is called the remote desktop connection manager, and it's something that you have to download, it doesn't come with Windows.
 >
@@ -2884,7 +2845,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=61)** And from here, what I have to do is create a group.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=63)** I'm going to call my group Windows 10.
+> **[1:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=63)** I'm going to call my group [[Windows 10]].
 >
 > **[1:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-desktop-connection-manager?u=76281980&t=67)** And as you can see, the tool created a container called Windows 10, and then I can begin creating sessions within this container.
 >
@@ -2936,7 +2897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (8), [[Windows]] (2), [[Microsoft]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (8), [[Windows]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (6), select the (1), go to (1), right-click (1)
 > **Env Vars:** wks2 (2), wks1 (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2945,12 +2906,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote Assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980)
+#### [Remote Assistance](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=0)** - [Instructor] Although the Windows Remote Desktop software is often used for support purposes, it isn't the only option.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=0)** - [Instructor] Although the [[Windows]] Remote Desktop software is often used for support purposes, it isn't the only option.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=6)** Another option is to use Remote Assistance.
 >
@@ -2966,7 +2926,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=38)** So the way that this user would need to get started is by right clicking on the Start button, and going to Run, and then typing msra.
 >
-> **[0:46](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=46)** That stands for Microsoft Remote Assistance.
+> **[0:46](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=46)** That stands for [[Microsoft]] Remote Assistance.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=48)** I'll click OK.
 >
@@ -2988,7 +2948,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=80)** In this case, the only real option is to create an invitation file.
 >
-> **[1:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=85)** But if this machine were equipped with a fully provisioned mail client, such as Outlook, then we would have the option of sending a request by email.
+> **[1:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=85)** But if this machine were equipped with a fully provisioned mail client, such as [[Microsoft Outlook|Outlook]], then we would have the option of sending a request by email.
 >
 > **[1:33](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=93)** Likewise, there's also an easy Connect Option that you can use but this machine isn't set up for Easy Connect.
 >
@@ -3064,11 +3024,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=278)** There's a chat option, and then we have some settings and an option for help.
 >
-> **[4:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=282)** So that's how you use Remote Assistance in Windows 10.
+> **[4:42](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/remote-assistance?u=76281980&t=282)** So that's how you use Remote Assistance in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Windows]] (1), [[Microsoft]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Windows]] (1), [[Microsoft]] (1), [[Windows 10]] (1)
 > **UI Navigation:** click on (4), open the (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [outlook.com](https://outlook.com) (1)
@@ -3081,12 +3041,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a traditional backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980)
+#### [Create a traditional backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=0)** - [Instructor] Microsoft provides a number of options for backing up Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=0)** - [Instructor] [[Microsoft]] provides a number of options for backing up [[Windows 10]].
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=4)** And so in this video, I want to show you how to create a traditional backup.
 >
@@ -3096,7 +3055,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=24)** Now, click on update and security, and then click on the backup tab.
 >
-> **[0:30](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=30)** Next, I'm going to click on go to backup and restore Windows 7.
+> **[0:30](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=30)** Next, I'm going to click on go to backup and restore [[Windows]] 7.
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980&t=36)** If you look at the backup section on the screen, you'll see a message indicating that Windows backup has not been set up, so we're going to set it up by clicking on setup backup.
 >
@@ -3126,18 +3085,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Windows]] (5), [[Windows 10]] (2), [[Microsoft]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (5), select the (2), go to (1)
 > **Prerequisites:** set up (1), setup (1), you'll need (1), required to (1)
 > **Env Vars:** efi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore a traditional backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980)
+#### [Restore a traditional backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to back up Windows.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980&t=0)** - [Instructor] In the previous video, I showed you how to back up [[Windows]].
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980&t=3)** Now I want to show you how to do a restoration.
 >
@@ -3199,22 +3157,21 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980&t=137)** So it has indeed been restored from backup.
 >
-> **[2:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980&t=140)** So that's how you perform a restoration from Windows 10 backups.
+> **[2:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-traditional-backup?u=76281980&t=140)** So that's how you perform a restoration from [[Windows 10]] backups.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), next (2), [[Security]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
 > **UI Navigation:** go to (5), click on (4)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an image backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980)
+#### [Create an image backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=0)** - [Instructor] If you want to back up your entire Windows 10 machine so that you can restore not just the operating system, and your files, but also the applications.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=0)** - [Instructor] If you want to back up your entire [[Windows 10]] machine so that you can restore not just the operating system, and your files, but also the applications.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=7)** Then the best approach is often to create a system image backup.
 >
@@ -3222,7 +3179,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=12)** Using the native Windows 10 tools, I'm going to begin by clicking on the start button, and then I'll go to settings, update and security, and I'll select the backup tab.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=24)** Now I'm going to click on, go to backup and restore Windows seven, and then rather than creating a Window seven style backup, what I'm going to do instead is click on, create a system image it's in the upper left corner of the screen.
+> **[0:24](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=24)** Now I'm going to click on, go to backup and restore [[Windows]] seven, and then rather than creating a Window seven style backup, what I'm going to do instead is click on, create a system image it's in the upper left corner of the screen.
 >
 > **[0:38](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-an-image-backup?u=76281980&t=38)** Now I'm prompted as to where I'm wanting to save the backup.
 >
@@ -3258,16 +3215,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (2)
 > **UI Navigation:** go to (2), click on (2), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore an image backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-an-image-backup?u=76281980)
+#### [Restore an image backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-an-image-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-an-image-backup?u=76281980&t=0)** - [Instructor] The easiest way to restore a Windows system image like the one that I created in the previous video is to boot your system off of the Windows 10 installation media, as I've done here.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-an-image-backup?u=76281980&t=0)** - [Instructor] The easiest way to restore a [[Windows]] system image like the one that I created in the previous video is to boot your system off of the [[Windows 10]] installation media, as I've done here.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-an-image-backup?u=76281980&t=10)** So when you boot your system off of the installation media, the first thing that you see is a screen like this one, prompting you to select the language that you want to install, your time and currency format, and your keyboard or input method.
 >
@@ -3309,7 +3265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Windows]] (3), [[Windows 10]] (3), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (3)
 > **Prerequisites:** install (6)
 > **UI Navigation:** click on (3), select the (1), checkbox (1)
 > **Cross-References:** previous video (1)
@@ -3317,12 +3273,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a file history backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-file-history-backup?u=76281980)
+#### [Create a file history backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-file-history-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-file-history-backup?u=76281980&t=0)** - [Instructor] If you save data locally on a Windows 10 device, it's a good idea to enable File History Backup.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-file-history-backup?u=76281980&t=0)** - [Instructor] If you save data locally on a [[Windows 10]] device, it's a good idea to enable File History Backup.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-file-history-backup?u=76281980&t=6)** File History Backup copies your files over to another drive so that there is a backup copy of those files.
 >
@@ -3392,15 +3347,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows 10]] (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore a file history backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-file-history-backup?u=76281980)
+#### [Restore a file history backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/restore-a-file-history-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3470,17 +3424,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (1)
 > **UI Navigation:** go to (9), click on (5), select the (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refresh the Windows operating system
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980)
+#### [Refresh the Windows operating system](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=0)** - [Instructor] If you find that Windows 10 isn't running all that well, it may make more sense to refresh the operating system files than to restore a backup.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=0)** - [Instructor] If you find that [[Windows 10]] isn't running all that well, it may make more sense to refresh the operating system files than to restore a backup.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=8)** So I want to show you how to do that.
 >
@@ -3508,7 +3460,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=58)** So for the purposes of this video, I'm going to choose the keep my files option.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=63)** And now I'm asked how I would like to reinstall Windows.
+> **[1:03](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=63)** And now I'm asked how I would like to reinstall [[Windows]].
 >
 > **[1:06](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/refresh-the-windows-operating-system?u=76281980&t=66)** We can download the operating system from the cloud, or we can use a local copy of Windows.
 >
@@ -3536,7 +3488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (3), data (2), cloud (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (3)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Warnings:** warning (2)
@@ -3549,14 +3501,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add an account to OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980)
+#### [Add an account to OneDrive](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=0)** - [Instructor] OneDrive is natively integrated into Windows 10, but before you can use it, you'll need to associate your Microsoft account with OneDrive.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=0)** - [Instructor] [[Microsoft OneDrive|OneDrive]] is natively integrated into [[Windows 10]], but before you can use it, you'll need to associate your [[Microsoft]] account with OneDrive.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=8)** Now, if you've already associated a Microsoft account with Windows, then you won't have to do this, because that account will automatically be recognized by OneDrive.
+> **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=8)** Now, if you've already associated a Microsoft account with [[Windows]], then you won't have to do this, because that account will automatically be recognized by OneDrive.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=15)** But if you need to add an account, or if you want to link an additional account, I want to show you how to do that.
 >
@@ -3566,7 +3517,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=33)** This will bring up the Set up OneDrive screen and it prompts you to enter your email address.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=37)** The email address that you enter here will be the address of your Microsoft account, or if you happen to be using OneDrive with Microsoft 365, then you would enter that address.
+> **[0:37](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=37)** The email address that you enter here will be the address of your Microsoft account, or if you happen to be using OneDrive with [[Microsoft 365]], then you would enter that address.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=46)** So I'm going to enter my Microsoft address.
 >
@@ -3588,21 +3539,20 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=82)** And finally, I get a message indicating that OneDrive is ready for use.
 >
-> **[1:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=86)** So that's how you associate an account with Microsoft OneDrive.
+> **[1:26](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980&t=86)** So that's how you associate an account with [[Microsoft OneDrive]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[Microsoft]] (4), next (4), [[Windows 10]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (8), [[Microsoft]] (4), [[Windows 10]] (1), [[Windows]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Files On-Demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980)
+#### [Files On-Demand](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=0)** - [Instructor] When you enable One Drive in Windows 10, Windows will automatically synchronize the contents of your file libraries up to One Drive.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=0)** - [Instructor] When you enable One Drive in [[Windows 10]], [[Windows]] will automatically synchronize the contents of your file libraries up to One Drive.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=8)** But the interesting thing about the way that Windows does this is that it will attempt to free up space on your Windows 10 device in the process.
 >
@@ -3616,7 +3566,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=36)** What I'm going to do is to right click on the One Drive icon, and then I'm going to choose Settings.
 >
-> **[0:43](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=43)** And this brings up the Microsoft One Drive dialog box with the Account tab selected.
+> **[0:43](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=43)** And this brings up the [[Microsoft]] One Drive dialog box with the Account tab selected.
 >
 > **[0:47](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/files-on-demand?u=76281980&t=47)** If you look at the middle of this tab, you can see that there is an option called Choose Folders.
 >
@@ -3682,17 +3632,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Windows]] (5), [[Windows 10]] (4), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (4), [[Microsoft]] (1)
 > **UI Navigation:** click on (5), select the (3), checkbox (1), scroll down (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### OneDrive backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980)
+#### [OneDrive backup](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=0)** - [Instructor] When you enable OneDrive in Windows 10, Windows will automatically back up your data to OneDrive.
+> **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=0)** - [Instructor] When you enable [[Microsoft OneDrive|OneDrive]] in [[Windows 10]], [[Windows]] will automatically back up your data to OneDrive.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=5)** So I want to show you how to see what's being backed up, and more importantly, how to restore that data if necessary.
 >
@@ -3700,7 +3649,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=15)** It's the icon that's located in the lower right corner of the screen.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=20)** Next, I'm going to click Settings, and this brings up the Microsoft OneDrive dialog box.
+> **[0:20](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=20)** Next, I'm going to click Settings, and this brings up the [[Microsoft OneDrive]] dialog box.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/onedrive-backup?u=76281980&t=25)** And you'll notice that we have a tab called Backup.
 >
@@ -3758,7 +3707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), data (6), next (2), [[Windows 10]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (13), [[Windows 10]] (1), [[Windows]] (1), [[Microsoft OneDrive]] (1)
 > **UI Navigation:** click on (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3768,22 +3717,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More about Windows 10 IT support
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980)
+#### [More about Windows 10 IT support](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980&t=0)** - [Narrator] Thank you for watching my course.
 >
-> **[0:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980&t=2)** I truly hope that you enjoyed learning about Windows 10, as much as I enjoyed creating this course for you.
+> **[0:02](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980&t=2)** I truly hope that you enjoyed learning about [[Windows 10]], as much as I enjoyed creating this course for you.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980&t=7)** If you'd like to learn more, then I would encourage you to check out some of my other LinkedIn learning courses, I've created several other Windows 10 courses and have also developed courses on other key topics, such as cloud computing in Azure and AWS and Microsoft 365.
+> **[0:07](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980&t=7)** If you'd like to learn more, then I would encourage you to check out some of my other [[LinkedIn]] learning courses, I've created several other Windows 10 courses and have also developed courses on other key topics, such as [[Cloud Computing]] in [[Microsoft Azure|Azure]] and AWS and [[Microsoft 365]].
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980&t=22)** I'm Brian Posey, thanks again for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[LinkedIn]] (1), cloud (1), [[Microsoft Azure|Azure]] (1), aws (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[LinkedIn]] (1), [[Cloud Computing]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

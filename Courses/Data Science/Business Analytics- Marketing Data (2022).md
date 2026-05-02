@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gaining marketing insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980)
+#### [Gaining marketing insights](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,13 +85,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=13)** Now, it's one thing to capture this data, but the true power lies in how you process, analyze, and generate insights from your marketing efforts, and that's what this course is all about.
 >
-> **[0:24](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=24)** My name is John David Ariansen, and I'm the co-founder of Silvertone Analytics.
+> **[0:24](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=24)** My name is [[John the Ripper|John]] David Ariansen, and I'm the co-founder of Silvertone Analytics.
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=29)** I also host the How to Get an Analytics Job podcast, where we've interviewed over 100 experts in the analytics space.
 >
 > **[0:36](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=36)** And in this course, I'm going to share how you can use your marketing data to supercharge your business.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=42)** I'll share the basics of analytics best practices like data governance, and how to make data-informed decisions.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=42)** I'll share the basics of analytics best practices like [[Data Governance]], and how to make data-informed decisions.
 >
 > **[0:48](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/gaining-marketing-insights?u=76281980&t=48)** Then, I'll show you how to track your marketing data effectively.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (4), power (1), business (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - as (1)
 
@@ -113,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980)
+#### [The value of data](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=23)** First, studying marketing data can greatly inform your marketing message.
 >
-> **[0:28](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=28)** For example, when one email marketing campaign gets significantly more traction than another, that's a clear signal that one campaign has a solid message and the other isn't speaking in a way that moves your customer base.
+> **[0:28](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=28)** For example, when one [[Email Marketing]] campaign gets significantly more traction than another, that's a clear signal that one campaign has a solid message and the other isn't speaking in a way that moves your customer base.
 >
 > **[0:41](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=41)** Secondly, marketing data can help you understand which channels to use.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=49)** But as time goes on, you'll start to focus your marketing on the channels that provide the biggest return.
 >
-> **[0:56](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=56)** For my consulting business, Facebook ads didn't move the needle much, but LinkedIn ads had a much better return.
+> **[0:56](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=56)** For my consulting business, Facebook ads didn't move the needle much, but [[LinkedIn]] ads had a much better return.
 >
 > **[1:03](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/the-value-of-data?u=76281980&t=63)** And third, you can use data to inform when and where you are targeting your audience.
 >
@@ -160,13 +158,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Email Marketing]] (1), business (1), [[LinkedIn]] (1), management (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[LinkedIn]] (1)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - marketing (1)
 
-#### Common challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980)
+#### [Common challenges](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=15)** First, you need to understand what a goal conversion is and how you can track this.
 >
-> **[0:21](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=21)** Google Analytics is the strongest tool in terms of tracking marketing data.
+> **[0:21](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=21)** [[Google]] Analytics is the strongest tool in terms of tracking marketing data.
 >
 > **[0:26](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=26)** It helps you understand how potential customers are interacting with your website.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=71)** You need to understand which of your marketing efforts are not only having an impact in terms of likes, views, and comments, but also what's driving sales.
 >
-> **[1:21](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=81)** You can get this job done by using data visualization tools like Tableau or Power BI.
+> **[1:21](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=81)** You can get this job done by using data visualization tools like [[Tableau]] or [[Microsoft Power BI|Power BI]].
 >
 > **[1:26](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/common-challenges-14531767?u=76281980&t=86)** They allow you to connect to multiple data sources and create visualizations that span these different data sources.
 >
@@ -210,13 +207,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (3), [[Analytics]] (3), [[Tableau]] (1), power (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** such as (1), picture (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data source map
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-source-map-14529792?u=76281980)
+#### [Data source map](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-source-map-14529792?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-source-map-14529792?u=76281980&t=6)** Not only in terms of different data sources, but these data sources may show up in different types of data.
 >
-> **[0:14](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-source-map-14529792?u=76281980&t=14)** Some may show up in Excel, while others may show up in a SQL database.
+> **[0:14](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-source-map-14529792?u=76281980&t=14)** Some may show up in [[Microsoft Excel|Excel]], while others may show up in a [[SQL]] database.
 >
 > **[0:19](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-source-map-14529792?u=76281980&t=19)** I created this map to simplify the system.
 >
@@ -272,15 +268,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), product (3), feature (2), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **Definitions:** is an  (1), means that (1), in other words (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980)
+#### [Types of analysis](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,11 +291,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=33)** The second type of analytics is predictive.
 >
-> **[0:37](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=37)** This phase is quite a bit more sophisticated than descriptive, as it leans on more advanced forms of calculations to get the job done, such as linear regression modeling.
+> **[0:37](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=37)** This phase is quite a bit more sophisticated than descriptive, as it leans on more advanced [[Forms]] of calculations to get the job done, such as [[Linear Regression]] modeling.
 >
 > **[0:46](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=46)** This phase builds off of descriptive analytics in that you need solid data sources with a lot of data to create an effective predictive model.
 >
-> **[0:55](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=55)** Last we have prescriptive analytics, and this form takes predictive analytics even further by not only predicting the future but also providing a recommendation on how you can capitalize on these potential future recurrences.
+> **[0:55](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=55)** Last we have prescriptive analytics, and this form takes [[Predictive Analytics]] even further by not only predicting the future but also providing a recommendation on how you can capitalize on these potential future recurrences.
 >
 > **[1:11](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/types-of-analysis?u=76281980&t=71)** This process is often referred to as creating an optimization model.
 >
@@ -314,7 +309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (9), data (5), [[Forms]] (1), [[Linear Regression]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Linear Regression]] (1), [[Predictive Analytics]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -324,18 +319,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools for studying your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980)
+#### [Tools for studying your data](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=0)** - [Instructor] If you've got great data governance in place, your marketing data will start to pose new challenges to you.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=0)** - [Instructor] If you've got great [[Data Governance]] in place, your marketing data will start to pose new challenges to you.
 >
 > **[0:07](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=7)** As you scale up the amount of data you're collecting, analyzing this data becomes much more of a challenge.
 >
 > **[0:14](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=14)** Luckily, there are a few tools out on the market that will help make this task a whole lot more manageable.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=20)** First, you have Excel.
+> **[0:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=20)** First, you have [[Microsoft Excel|Excel]].
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=22)** Excel is by far the most popular data analysis tool out on the market.
 >
@@ -349,11 +343,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=56)** You can create charts, find specific insights about your data, create optimization models, and also combine data sources together through a VLOOKUP function.
 >
-> **[1:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=66)** Next, we have data visualization tools such as Tableau or Power BI.
+> **[1:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=66)** Next, we have data visualization tools such as [[Tableau]] or [[Microsoft Power BI|Power BI]].
 >
 > **[1:12](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=72)** They build off the same functionality of a PivotChart, but add in the capability of extremely powerful data visualizations.
 >
-> **[1:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=80)** Data visualization is the process of turning raw data into infographics that clearly demonstrate trends within your data sources.
+> **[1:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=80)** Data visualization is the process of turning raw data into [[Infographics]] that clearly demonstrate trends within your data sources.
 >
 > **[1:30](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=90)** You can even combine multiple data visualizations together to create a dashboard.
 >
@@ -361,9 +355,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=99)** This gives you the ability to drill down into your data with just a click of a mouse.
 >
-> **[1:44](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=104)** Dashboards fall under the umbrella of reporting infrastructure.
+> **[1:44](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=104)** [[Dashboards]] fall under the umbrella of reporting infrastructure.
 >
-> **[1:47](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=107)** This means that once you've done the work of identifying your key metrics, an effective dashboard will allow you to monitor changes in these metrics, which can really inform your decision-making process.
+> **[1:47](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=107)** This means that once you've done the work of identifying your key metrics, an effective dashboard will allow you to monitor changes in these metrics, which can really inform your [[Decision-Making]] process.
 >
 > **[1:59](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=119)** It gives you the ability to intervene when your key metrics just aren't trending the way that you want.
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=132)** These kinds of insights can have a huge impact on how you run your organization.
 >
-> **[2:18](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=138)** I've created quite a few dashboards that hook directly into my client's Google Analytics account with Tableau, and I can very quickly build them a dashboard that looks into revenue and sessions by location, channel, webpage, gender and other demographics.
+> **[2:18](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=138)** I've created quite a few dashboards that hook directly into my client's [[Google]] Analytics account with Tableau, and I can very quickly build them a dashboard that looks into revenue and sessions by location, channel, webpage, gender and other demographics.
 >
 > **[2:33](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/tools-for-studying-your-data?u=76281980&t=153)** This kind of a dashboard can really help them understand why they need to focus on their marketing efforts.
 >
@@ -383,15 +377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (3), [[Analytics]] (2), next (2), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Tableau]] (2), [[Dashboards]] (2), [[Data Governance]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** vba (1), vlookup (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics to track
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980)
+#### [Metrics to track](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=29)** First, we have website data.
 >
-> **[0:32](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=32)** Now you may be thinking this is a little outside of the scope of marketing analytics, but I'd argue that your website is your strongest marketing tool.
+> **[0:32](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=32)** Now you may be thinking this is a little outside of the scope of [[Marketing Analytics]], but I'd argue that your website is your strongest marketing tool.
 >
 > **[0:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=42)** You can track what landing pages are converting, which blog posts are getting the most traction and even see when your customer base is likely to buy by studying when your website is getting the most traction.
 >
@@ -417,31 +410,30 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=67)** I actually use social media to help validate which course I should publish.
 >
-> **[1:12](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=72)** Finally, we have lead generation data.
+> **[1:12](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=72)** Finally, we have [[Lead Generation]] data.
 >
 > **[1:16](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=76)** This kind of data is kind of like your marketing engine.
 >
 > **[1:19](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=79)** You need a certain amount of leads to generate a certain amount of sales.
 >
-> **[1:23](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=83)** Common lead generation data sources are paid advertisements and email marketing data.
+> **[1:23](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=83)** Common lead generation data sources are paid advertisements and [[Email Marketing]] data.
 >
 > **[1:28](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=88)** The goal here is that you want to maximize your ROI on both your time and dollars spent on marketing.
 >
 > **[1:34](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=94)** Are you tracking all three kinds of marketing data effectively?
 >
-> **[1:38](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=98)** I hope this video has given you some ideas on how you can leverage your marketing data to improve your decision-making process.
+> **[1:38](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/metrics-to-track?u=76281980&t=98)** I hope this video has given you some ideas on how you can leverage your marketing data to improve your [[Decision-Making]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Lead Generation]] (2), product (1), [[Marketing Analytics]] (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Lead Generation]] (2), [[Marketing Analytics]] (1), [[Email Marketing]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goals in Google Analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980)
+#### [Goals in Google Analytics](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,9 +441,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980&t=3)** Is there a specific goal you're looking to achieve?
 >
-> **[0:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980&t=6)** This is the most important question you need to consider when you are trying to figure out how to track your goals in Google Analytics.
+> **[0:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980&t=6)** This is the most important question you need to consider when you are trying to figure out how to track your goals in [[Google]] Analytics.
 >
-> **[0:14](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980&t=14)** Generally speaking, there are three kinds of websites, ecommerce, lead generation, and content websites.
+> **[0:14](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980&t=14)** Generally speaking, there are three kinds of websites, ecommerce, [[Lead Generation]], and content websites.
 >
 > **[0:22](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/goals-in-google-analytics?u=76281980&t=22)** Depending on which of these three broad categories you fall under, this will affect what kind of goals you are tracking.
 >
@@ -485,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Analytics]] (2), [[Lead Generation]] (2), product (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Lead Generation]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -496,8 +488,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data visualization basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980)
+#### [Data visualization basics](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -507,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=14)** In this video, I'll walk you through some of the basic concepts to keep in mind when you're visualizing your data.
 >
-> **[0:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=20)** You could spend hours and hours learning all the specifics of a tool like Power BI or Tableau, but if you're not making useful dashboards, all that effort is for nothing.
+> **[0:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=20)** You could spend hours and hours learning all the specifics of a tool like [[Microsoft Power BI|Power BI]] or [[Tableau]], but if you're not making useful [[Dashboards]], all that effort is for nothing.
 >
 > **[0:32](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=32)** Oftentimes, I see analysts losing the forest for the trees.
 >
@@ -517,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=44)** The first fundamental is to keep your data visualizations simple.
 >
-> **[0:49](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=49)** I know we often see beautiful and elaborate data visualizations all over LinkedIn, but for you and your business, you should keep things simple.
+> **[0:49](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=49)** I know we often see beautiful and elaborate data visualizations all over [[LinkedIn]], but for you and your business, you should keep things simple.
 >
 > **[0:58](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=58)** The next principle is to focus on the important metrics.
 >
@@ -551,21 +542,20 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=137)** This video was a very short primer on data visualization.
 >
-> **[2:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=140)** If you would like additional information, you should check out the book "Storytelling with Data" for some data visualization theory.
+> **[2:20](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=140)** If you would like additional information, you should check out the book "[[Storytelling]] with Data" for some data visualization theory.
 >
 > **[2:26](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/data-visualization-basics?u=76281980&t=146)** Or if you want a more business-focused book, "The Big Book of Dashboards" is a great resource.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Dashboards]] (2), business (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1), [[LinkedIn]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reporting infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/reporting-infrastructure-14526897?u=76281980)
+#### [Reporting infrastructure](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/reporting-infrastructure-14526897?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +589,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/reporting-infrastructure-14526897?u=76281980&t=84)** And last, a reporting infrastructure can help you make better decisions.
 >
-> **[1:29](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/reporting-infrastructure-14526897?u=76281980&t=89)** For example, if you're selling products high on the weekend, then this is most likely a great time for you to advertise.
+> **[1:29](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/reporting-infrastructure-14526897?u=76281980&t=89)** For example, if you're selling [[Microsoft Products|products]] high on the weekend, then this is most likely a great time for you to advertise.
 >
 > **[1:37](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/reporting-infrastructure-14526897?u=76281980&t=97)** Your customers are kind of voting with their dollars and you really should be listening.
 >
@@ -611,17 +601,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), traffic (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (2), for instance (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Marketing dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980)
+#### [Marketing dashboard](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=0)** - [Narrator] Google Analytics is a great platform to track your website data.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=0)** - [Narrator] [[Google]] Analytics is a great platform to track your website data.
 >
 > **[0:04](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=4)** If you're like most businesses, then your website is one of your greatest marketing tools.
 >
@@ -629,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=18)** Unfortunately, the native data analysis functionality within Google Analytics is not very robust.
 >
-> **[0:25](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=25)** This is why it's a great idea to connect the data stored in Google Analytics to a data visualization tool like Tableau or Power BI.
+> **[0:25](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=25)** This is why it's a great idea to connect the data stored in Google Analytics to a data visualization tool like [[Tableau]] or [[Microsoft Power BI|Power BI]].
 >
 > **[0:34](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/marketing-dashboard?u=76281980&t=34)** Here's an example of what you can do with the data inside Google Analytics.
 >
@@ -663,7 +652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Google]] (5), [[Analytics]] (5), [[Tableau]] (3), power (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Tableau]] (3), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
@@ -674,16 +663,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key performance indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980)
+#### [Key performance indicators](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=0)** - [Instructor] Email marketing campaigns generate a ton of data.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=0)** - [Instructor] [[Email Marketing]] campaigns generate a ton of data.
 >
 > **[0:03](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=3)** In this video, we're going to study a sample email marketing data source.
 >
-> **[0:08](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=8)** We're going to connect that data source to Tableau and then analyze the three main KPIs which are total emails sent, open rate, and click through rate.
+> **[0:08](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=8)** We're going to connect that data source to [[Tableau]] and then analyze the three main KPIs which are total emails sent, open rate, and click through rate.
 >
 > **[0:17](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=17)** Right now we're looking at a fresh Tableau workbook.
 >
@@ -693,9 +681,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=25)** If you click connect to data here, you'll have the option to choose which types of files you want to connect to.
 >
-> **[0:32](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=32)** And this example, the raw data source is an Excel file.
+> **[0:32](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=32)** And this example, the raw data source is an [[Microsoft Excel|Excel]] file.
 >
-> **[0:36](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=36)** So click Microsoft Excel.
+> **[0:36](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=36)** So click [[Microsoft Excel]].
 >
 > **[0:38](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/key-performance-indicators?u=76281980&t=38)** And here we are at a sample email data, click open.
 >
@@ -747,23 +735,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (3), [[Email Marketing]] (2), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **Env Vars:** kpi (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Click-through rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980)
+#### [Click-through rates](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980&t=0)** - [Narrator] One effective way of understanding how your customers are interacting with your emails is by studying the unique clicks.
 >
-> **[0:08](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980&t=8)** In this video, we're going to walk through a very simple case study and look at different customer segments and how they are interacting with email marketing campaigns.
+> **[0:08](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980&t=8)** In this video, we're going to walk through a very simple case study and look at different customer segments and how they are interacting with [[Email Marketing]] campaigns.
 >
-> **[0:18](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980&t=18)** Currently I am on a blank Tableau worksheet and we've connected to an email marketing data source.
+> **[0:18](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980&t=18)** Currently I am on a blank [[Tableau]] worksheet and we've connected to an email marketing data source.
 >
 > **[0:25](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/click-through-rates?u=76281980&t=25)** So the first step is to double-click on Customer List.
 >
@@ -785,16 +772,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Tableau]] (1), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (3), [[Tableau]] (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [narrator] (1)
 
-#### Open rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/open-rates?u=76281980)
+#### [Open rates](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/open-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/open-rates?u=76281980&t=0)** - [Instructor] If you've done a great job at tracking the different types of campaigns that you're running for your email marketing efforts, then you can very quickly study them using Tableau.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/open-rates?u=76281980&t=0)** - [Instructor] If you've done a great job at tracking the different types of campaigns that you're running for your [[Email Marketing]] efforts, then you can very quickly study them using [[Tableau]].
 >
 > **[0:09](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/open-rates?u=76281980&t=9)** I am on a blank Tableau worksheet here, and I connected to some raw sample email marketing data.
 >
@@ -822,20 +808,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (2), [[Tableau]] (2), data (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (2), [[Tableau]] (2)
 > **UI Navigation:** click on (2), right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding insights in dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980)
+#### [Finding insights in dashboards](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=0)** - [Instructor] A dashboard is a great way of finding insights in your data.
 >
-> **[0:04](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=4)** In this video, we're going to combine multiple data visualizations related to email marketing and build out an email marketing dashboard.
+> **[0:04](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=4)** In this video, we're going to combine multiple data visualizations related to [[Email Marketing]] and build out an email marketing dashboard.
 >
-> **[0:12](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=12)** I'm looking at a Tableau workbook that has three individual sheets, and each one of these is a visualization looking at an email marketing dataset.
+> **[0:12](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=12)** I'm looking at a [[Tableau]] workbook that has three individual sheets, and each one of these is a visualization looking at an email marketing dataset.
 >
 > **[0:23](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=23)** The first step is to click the New Dashboard tab.
 >
@@ -865,11 +850,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=96)** So now you've seen a very brief walkthrough of someone creating a dashboard with email marketing data.
 >
-> **[1:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=102)** With just a few clicks of the mouse, you can start to build out your own interactive dashboards as well.
+> **[1:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/finding-insights-in-dashboards?u=76281980&t=102)** With just a few clicks of the mouse, you can start to build out your own interactive [[Dashboards]] as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Email Marketing]] (5), data (4), [[Tableau]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (5), [[Tableau]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -880,12 +865,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Engaging with community forums
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980)
+#### [Engaging with community forums](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980&t=0)** - [Instructor] The Tableau Forums are a great place to learn about marketing analytics.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980&t=0)** - [Instructor] The [[Tableau]] Forums are a great place to learn about [[Marketing Analytics]].
 >
 > **[0:04](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/engaging-with-community-forums?u=76281980&t=4)** Even if your organization is not currently using Tableau, you can download the free version of Tableau, called Tableau Public, and start analyzing your own data.
 >
@@ -909,19 +893,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (8), [[Marketing Analytics]] (2), data (2), [[Analytics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (8), [[Marketing Analytics]] (2)
 > **Exercise Files:** download the (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing Reddit
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/utilizing-reddit?u=76281980)
+#### [Utilizing Reddit](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/utilizing-reddit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/utilizing-reddit?u=76281980&t=0)** - [Instructor] Reddit is a great resource to learn more about marketing analysis from experts that are currently out in the field.
 >
-> **[0:07](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/utilizing-reddit?u=76281980&t=7)** The Tableau and Power BI subreddits are a great tool that I've leaned on from time to time whenever I came across a problem that I wasn't quite sure how to solve.
+> **[0:07](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/utilizing-reddit?u=76281980&t=7)** The [[Tableau]] and [[Microsoft Power BI|Power BI]] subreddits are a great tool that I've leaned on from time to time whenever I came across a problem that I wasn't quite sure how to solve.
 >
 > **[0:16](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/utilizing-reddit?u=76281980&t=16)** Now, Reddit is not only a good problem-solving tool, though.
 >
@@ -951,18 +934,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Tableau]] (1), power (1), bi (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Watching YouTube
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980)
+#### [Watching YouTube](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980&t=0)** - [Instructor] Most people think of YouTube as a place to watch entertainment videos, but it's actually an amazing place to expand your marketing analytics knowledge.
+> **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980&t=0)** - [Instructor] Most people think of YouTube as a place to watch entertainment videos, but it's actually an amazing place to expand your [[Marketing Analytics]] knowledge.
 >
-> **[0:10](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980&t=10)** In fact, YouTube has become the second largest search engine, right behind Google.
+> **[0:10](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980&t=10)** In fact, YouTube has become the second largest search engine, right behind [[Google]].
 >
 > **[0:15](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/watching-youtube?u=76281980&t=15)** Analytics content creators like myself have really caught onto this trend and started posting more and more educational content on YouTube as a result.
 >
@@ -986,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), [[Marketing Analytics]] (2), [[Search]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (2), [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -994,16 +976,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time to analyze
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980)
+#### [Time to analyze](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=0)** - Congratulations on making it all the way through the course.
 >
-> **[0:03](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=3)** What you can do now is follow me here on LinkedIn.
+> **[0:03](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=3)** What you can do now is follow me here on [[LinkedIn]].
 >
-> **[0:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=6)** I post regularly all about analytics and even marketing analytics, in particular.
+> **[0:06](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=6)** I post regularly all about analytics and even [[Marketing Analytics]], in particular.
 >
 > **[0:11](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=11)** I also have a YouTube channel where I livestream my Greensboro College analytics lectures and also interview analytics experts.
 >
@@ -1013,7 +994,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=35)** There's one specific video that I wanted to highlight, and it's actually this episode right here.
 >
-> **[0:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=42)** In this podcast episode, Aash Viswanathan, a former LinkedIn data scientist turned analytics expert, talks about his career journey, interesting marketing analytics concepts, such as attribution, and even gives feedback to one of my students who built out a marketing analytics dashboard in Power BI.
+> **[0:42](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=42)** In this podcast episode, Aash Viswanathan, a former LinkedIn data scientist turned analytics expert, talks about his career journey, interesting marketing analytics concepts, such as attribution, and even gives feedback to one of my students who built out a marketing analytics dashboard in [[Microsoft Power BI|Power BI]].
 >
 > **[1:00](https://www.linkedin.com/learning/business-analytics-marketing-data-2022/time-to-analyze?u=76281980&t=60)** Check out this episode if you want to see a deep dive and how a true expert thinks about marketing analytics day-to-day.
 >
@@ -1021,7 +1002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (7), [[Marketing Analytics]] (5), [[LinkedIn]] (2), data (1), career (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (5), [[LinkedIn]] (2), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 

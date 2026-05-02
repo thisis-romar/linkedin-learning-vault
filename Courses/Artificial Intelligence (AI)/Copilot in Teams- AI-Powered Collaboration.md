@@ -66,14 +66,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the Copilot AI assistant in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980)
+#### [Use the Copilot AI assistant in Teams](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980&t=0)** - Copilot can help you catch up on work or find critical information just by asking.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] can help you catch up on work or find critical information just by asking.
 >
-> **[0:06](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980&t=6)** Copilot is Microsoft's artificial intelligence assistant and it enables several AI features in Microsoft Teams.
+> **[0:06](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980&t=6)** Copilot is [[Microsoft]]'s [[Artificial Intelligence (AI)|artificial intelligence]] assistant and it enables several AI features in [[Microsoft Teams]].
 >
 > **[0:14](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980&t=14)** Chat conversations and online meetings are vital communication tools in Teams, and with Copilot, you can ask for summaries for both, and even ask direct questions about ongoing conversations.
 >
@@ -87,16 +86,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), ai (2), teams (2), [[Microsoft]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - copilot (1)
 
-#### Understand the subscription needed for Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980)
+#### [Understand the subscription needed for Copilot](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=0)** - [Instructor] The Copilot AI tools that we'll see in this course are only available to users with a Microsoft 365 account in their school, company, or similar organization.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=0)** - [Instructor] The [[Microsoft Copilot|Copilot]] AI tools that we'll see in this course are only available to users with a [[Microsoft 365]] account in their school, company, or similar organization.
 >
 > **[0:10](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=10)** The version of Teams that uses Copilot is not available for home, personal, or family subscribers.
 >
@@ -106,21 +104,21 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=28)** You'll also need a license for the add-on subscription called Copilot for Microsoft 365.
 >
-> **[0:35](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=35)** Organizations with a Microsoft 365 subscription have a Microsoft Administrator.
+> **[0:35](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=35)** Organizations with a Microsoft 365 subscription have a [[Microsoft]] Administrator.
 >
 > **[0:41](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=41)** That's usually somebody in the IT department who can purchase these licenses.
 >
 > **[0:46](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=46)** If you do not have the Copilot license, then you should contact your administrator to ask if they can activate it.
 >
-> **[0:52](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=52)** And for more information about the different Copilot products and the accounts or subscriptions that you need to use them, you can take a look at our short workshop on LinkedIn Learning called What Is Copilot.
+> **[0:52](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=52)** And for more information about the different Copilot [[Microsoft Products|products]] and the accounts or subscriptions that you need to use them, you can take a look at our short workshop on [[LinkedIn]] Learning called What Is Copilot.
 >
 > **[1:03](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=63)** If you have a Microsoft 365 account with the Copilot add-on, then you should open Teams, and then just go into the account menu near the top right and confirm that you are signed into that account.
 >
-> **[1:15](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=75)** If you have that set, then you're ready to use the Copilot AI tools in Microsoft Teams.
+> **[1:15](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/understand-the-subscription-needed-for-copilot?u=76281980&t=75)** If you have that set, then you're ready to use the Copilot AI tools in [[Microsoft Teams]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft 365]] (6), ai (2), teams (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft 365]] (6), [[Microsoft]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -128,12 +126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get summaries and answers about chat conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980)
+#### [Get summaries and answers about chat conversations](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980&t=0)** - [Instructor] In Microsoft Teams, the Copilot AI tools can summarize or answer questions about conversations in the chat section.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980&t=0)** - [Instructor] In [[Microsoft Teams]], the [[Microsoft Copilot|Copilot]] AI tools can summarize or answer questions about conversations in the chat section.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980&t=7)** So to start, I'll go to the sidebar on the left and click the Chat button to go to the Chat section.
 >
@@ -175,17 +172,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (2), hit (2), [[Microsoft Teams]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (3), open the (1), click on (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use copilot to rewrite messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980)
+#### [Use copilot to rewrite messages](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=0)** - [Instructor] The Copilot AI is great at drafting text or rewriting texts that you've written to change the style or tone.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=0)** - [Instructor] The [[Microsoft Copilot|Copilot]] AI is great at drafting text or rewriting texts that you've written to change the style or tone.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-to-rewrite-messages?u=76281980&t=7)** When you have chat conversations or post messages in Team channels, Copilot can help you revise or rewrite your text to improve those messages.
 >
@@ -239,19 +235,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), ai (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8)
 > **UI Navigation:** in the sidebar (2), go to (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Copilot during a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-during-a-meeting?u=76281980)
+#### [Use Copilot during a meeting](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-during-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-during-a-meeting?u=76281980&t=0)** - Copilot can summarize, answer questions, and offer information about meetings while those meetings are in progress.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-during-a-meeting?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] can summarize, answer questions, and offer information about meetings while those meetings are in progress.
 >
 > **[0:08](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-copilot-during-a-meeting?u=76281980&t=8)** But first, you should know that Copilot depends on a transcript of what is said during a meeting.
 >
@@ -393,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21)
 > **CLI Commands:** make (7)
 > **UI Navigation:** in the sidebar (1), in the toolbar (1), go to (1), scroll down (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -402,12 +397,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1), keep in mind (1)
 > **Best Practices:** remember to (1)
 
-#### Get meeting summaries after meetings have ended
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-meeting-summaries-after-meetings-have-ended?u=76281980)
+#### [Get meeting summaries after meetings have ended](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-meeting-summaries-after-meetings-have-ended?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-meeting-summaries-after-meetings-have-ended?u=76281980&t=0)** - [Instructor] Copilot in Microsoft Teams can help you get information about a meeting even after the meeting is over.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-meeting-summaries-after-meetings-have-ended?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] in [[Microsoft Teams]] can help you get information about a meeting even after the meeting is over.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-meeting-summaries-after-meetings-have-ended?u=76281980&t=7)** I'll click the calendar button on the left to switch over to the calendar section.
 >
@@ -467,24 +461,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Teams]] (1), hit (1), prompt (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Teams]] (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Copilot chat assistant in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980)
+#### [Use the Copilot chat assistant in Teams](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=0)** - [Instructor] I'm looking at the website, Copilot.[microsoft.com](https://microsoft.com), where you can use the Copilot Chat Assistant.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=0)** - [Instructor] I'm looking at the website, [[Microsoft Copilot|Copilot]].[[[Microsoft]].com](https://microsoft.com), where you can use the Copilot Chat Assistant.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=7)** This is available to anybody.
 >
 > **[0:09](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=9)** However, remember the subscription I mentioned at the beginning of this course.
 >
-> **[0:13](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=13)** If you sign in here with an account that has the Copilot from Microsoft 365 license, then the Copilot Assistant can answer questions about your organization.
+> **[0:13](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=13)** If you sign in here with an account that has the Copilot from [[Microsoft 365]] license, then the Copilot Assistant can answer questions about your organization.
 >
 > **[0:24](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=24)** And if you use Teams, then you can use this assistant to get information about your organization inside of Teams.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=61)** So this is an AI Chat Assistant, but instead of answering questions using information from the internet, this is able to answer questions using information from your organization's Microsoft Graph.
 >
-> **[1:14](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=74)** So it's able to find information about the people in your organization, documents stored on your company's OneDrive or SharePoint libraries, messages sent and meetings scheduled between your coworkers and more.
+> **[1:14](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=74)** So it's able to find information about the people in your organization, documents stored on your company's [[Microsoft OneDrive|OneDrive]] or [[SharePoint]] libraries, messages sent and meetings scheduled between your coworkers and more.
 >
 > **[1:25](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=85)** So let's give it a try.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=151)** These tell me where it found this information.
 >
-> **[2:33](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=153)** So I could click on one of these citations and it would take me to Outlook and show me that actual email message.
+> **[2:33](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=153)** So I could click on one of these citations and it would take me to [[Microsoft Outlook|Outlook]] and show me that actual email message.
 >
 > **[2:40](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=160)** You can also ask questions about people in your organization.
 >
@@ -548,7 +541,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=187)** I see it found Stewart Mori, so I can click on him here.
 >
-> **[3:10](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=190)** Then finish writing in the rest of the question.
+> **[3:10](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=190)** Then finish writing in the [[Representational State Transfer (REST)|rest]] of the question.
 >
 > **[3:14](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-chat-assistant-in-teams?u=76281980&t=194)** Then hit the Return key and it found the answer in my company's directory.
 >
@@ -578,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft 365]] (4), teams (4), [[Microsoft OneDrive|Onedrive]] (3), hit (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft 365]] (4), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft]] (2), [[SharePoint]] (1)
 > **UI Navigation:** click on (5), in the sidebar (3), go to (2)
 > **CLI Commands:** find (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -587,18 +580,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extend skills with Copilot Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980)
+#### [Extend skills with Copilot Studio](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=0)** - [Instructor] In this video, I want to briefly mention Copilot Studio.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=0)** - [Instructor] In this video, I want to briefly mention [[Microsoft Copilot|Copilot]] Studio.
 >
 > **[0:04](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=4)** This product is separate from the other tools we've seen in this course, and it requires its own separate subscription.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=11)** Copilot Studio allows users to create their own custom AI chat tools.
 >
-> **[0:16](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=16)** Custom Copilot chat bots can be published on a website or other platforms, or somebody can make a Copilot and publish it for their teammates to use inside of Microsoft Teams.
+> **[0:16](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=16)** Custom Copilot chat bots can be published on a website or other platforms, or somebody can make a Copilot and publish it for their teammates to use inside of [[Microsoft Teams]].
 >
 > **[0:28](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/extend-skills-with-copilot-studio?u=76281980&t=28)** If you want to learn how to use Copilot Studio, I recommend the course Copilot Studio First Look.
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Search]] (3), [[Microsoft Teams]] (2), product (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Microsoft Teams]] (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** in the sidebar (1)
 > **Speakers:** - [instructor] (1)

@@ -19,7 +19,7 @@ tags:
   - topic/cloud-computing
   - topic/data-science
   - topic/security
-course_count: 218
+course_count: 219
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Agile Development
 
-> **Type:** Concept | **Courses:** 218 | **Topics:** [[DevOps]], [[Software Development]], [[Cloud Computing]], [[Data Science]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 219 | **Topics:** [[DevOps]], [[Software Development]], [[Cloud Computing]], [[Data Science]], [[Cybersecurity]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Agile Development in the New World of Work]] — 49 mentions
 10. [[Agile Project Management with Jira Cloud- 1 Projects, Boards, and Issues]] — 49 mentions
 
-> [!note]- See all 218 courses
+> [!note]- See all 219 courses
 > 11. [[Software Development Life Cycle (SDLC)]] — 40 mentions
 > 12. [[UX Research for Agile Teams]] — 38 mentions
 > 13. [[Agile Software Development- Scrum for Developers]] — 32 mentions
@@ -53,9 +53,9 @@ created: 2026-05-02
 > 18. [[Strategic Agility for Organizational Leaders]] — 17 mentions
 > 19. [[Devops Foundations Devsecops]] — 16 mentions
 > 20. [[Azure DevOps for Beginners]] — 16 mentions
-> 21. [[Business Analysis for Project Managers]] — 15 mentions
-> 22. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 15 mentions
-> 23. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 15 mentions
+> 21. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 16 mentions
+> 22. [[Business Analysis for Project Managers]] — 15 mentions
+> 23. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 15 mentions
 > 24. [[Agile Software Development- Extreme Programming]] — 13 mentions
 > 25. [[Generative AI-Powered Strategic Business Analysis]] — 13 mentions
 > 26. [[Static Application Security Testing]] — 12 mentions
@@ -225,32 +225,33 @@ created: 2026-05-02
 > 190. [[MPLS- Traffic Engineering]] — 1 mentions
 > 191. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
 > 192. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 1 mentions
-> 193. [[Artificial Intelligence Foundations- Machine Learning]] — 1 mentions
-> 194. [[Deep Learning- Model Optimization and Tuning (2022)]] — 1 mentions
-> 195. [[Learning Jira Cloud Edition]] — 1 mentions
-> 196. [[Google Cloud Security for Beginners- Tools and Services]] — 1 mentions
-> 197. [[Putting ITIL® into Practice- Incident Management]] — 1 mentions
-> 198. [[Business Acumen for Project Managers]] — 1 mentions
-> 199. [[Starting Your Career As A Financial Analyst]] — 1 mentions
-> 200. [[Automated Data Governance in Practice]] — 1 mentions
-> 201. [[React Native Essential Training]] — 1 mentions
-> 202. [[Test-Driven Development in C++]] — 1 mentions
-> 203. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
-> 204. [[Preparing To Get A Job In Data Analytics]] — 1 mentions
-> 205. [[IT Service Management Foundations- Measures and Metrics]] — 1 mentions
-> 206. [[Developer Career Paths and Certifications]] — 1 mentions
-> 207. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
-> 208. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
-> 209. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 1 mentions
-> 210. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 211. [[Benefits of GitHub Community]] — 1 mentions
-> 212. [[Learning Bitbucket]] — 1 mentions
-> 213. [[Marketing Analytics Foundations]] — 1 mentions
-> 214. [[Advanced SQL for Application Development]] — 1 mentions
-> 215. [[Writing Customer Service Emails]] — 1 mentions
-> 216. [[Complete Guide to AWS Software Deployment]] — 1 mentions
-> 217. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 1 mentions
-> 218. [[Empathy in UX Design]] — 1 mentions
+> 193. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 194. [[Artificial Intelligence Foundations- Machine Learning]] — 1 mentions
+> 195. [[Deep Learning- Model Optimization and Tuning (2022)]] — 1 mentions
+> 196. [[Learning Jira Cloud Edition]] — 1 mentions
+> 197. [[Google Cloud Security for Beginners- Tools and Services]] — 1 mentions
+> 198. [[Putting ITIL® into Practice- Incident Management]] — 1 mentions
+> 199. [[Business Acumen for Project Managers]] — 1 mentions
+> 200. [[Starting Your Career As A Financial Analyst]] — 1 mentions
+> 201. [[Automated Data Governance in Practice]] — 1 mentions
+> 202. [[React Native Essential Training]] — 1 mentions
+> 203. [[Test-Driven Development in C++]] — 1 mentions
+> 204. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
+> 205. [[Preparing To Get A Job In Data Analytics]] — 1 mentions
+> 206. [[IT Service Management Foundations- Measures and Metrics]] — 1 mentions
+> 207. [[Developer Career Paths and Certifications]] — 1 mentions
+> 208. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
+> 209. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
+> 210. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 1 mentions
+> 211. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+> 212. [[Benefits of GitHub Community]] — 1 mentions
+> 213. [[Learning Bitbucket]] — 1 mentions
+> 214. [[Marketing Analytics Foundations]] — 1 mentions
+> 215. [[Advanced SQL for Application Development]] — 1 mentions
+> 216. [[Writing Customer Service Emails]] — 1 mentions
+> 217. [[Complete Guide to AWS Software Deployment]] — 1 mentions
+> 218. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 1 mentions
+> 219. [[Empathy in UX Design]] — 1 mentions
 
 ## Learning Paths
 

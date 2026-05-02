@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to strategic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/welcome-strategic-thinking?u=76281980)
+#### [Welcome to strategic thinking](https://www.linkedin.com/learning/strategic-thinking-22616141/welcome-strategic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +97,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), business (1), game (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
 
@@ -107,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embrace the strategic thinking mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980)
+#### [Embrace the strategic thinking mindset](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,13 +123,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=29)** Write that report according to the standard format, check.
 >
-> **[0:32](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=32)** Design that PowerPoint, process that customer claim, get that mailing out the door, check, check, check.
+> **[0:32](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=32)** Design that [[Microsoft PowerPoint|PowerPoint]], process that customer claim, get that mailing out the door, check, check, check.
 >
 > **[0:38](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=38)** But your success at doing what you're told is actually misleading.
 >
 > **[0:42](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=42)** It's great in the early days, but if you keep doing it, your career is going to stagnate, stall and eventually decline.
 >
-> **[0:51](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=51)** What's useful in the early part of your career and absolutely mandatory later on, is the ability to embrace strategic thinking.
+> **[0:51](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=51)** What's useful in the early part of your career and absolutely mandatory later on, is the ability to embrace [[Strategic Thinking]].
 >
 > **[0:59](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=59)** And what I mean by that is asking higher level questions that keep the future and your priorities in mind.
 >
@@ -168,11 +165,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=163)** If you can interrogate habits and practices in a targeted way, you can often uncover new ideas and efficiencies that others simply have never thought about.
 >
-> **[2:52](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=172)** Why are we filling out two forms?
+> **[2:52](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=172)** Why are we filling out two [[Forms]]?
 >
 > **[2:54](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=174)** Couldn't they actually be combined?
 >
-> **[2:56](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=176)** Wouldn't orientation be more efficient if the second half took place in a field office?
+> **[2:56](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=176)** Wouldn't orientation be more efficient if the second half took place in a field [[Microsoft Office|office]]?
 >
 > **[3:01](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980&t=181)** Whatever it is, sometimes asking targeted questions can unlock great potential.
 >
@@ -208,16 +205,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (5), career (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (5), [[Microsoft PowerPoint|Powerpoint]] (1), [[Forms]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
-#### Make time to be strategic
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980)
+#### [Make time to be strategic](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=1)** - We know it's important to be strategic, and that means, of course, making time for strategic thinking, but that's easier said than done.
+> **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=1)** - We know it's important to be strategic, and that means, of course, making time for [[Strategic Thinking]], but that's easier said than done.
 >
 > **[0:09](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=9)** Most of us are already pushed to the limit when it comes to scheduling.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=110)** Enlist a friend.
 >
-> **[1:51](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=111)** Sometimes commitments are easier to keep if you have an accountability partner.
+> **[1:51](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=111)** Sometimes commitments are easier to keep if you have an [[Accountability]] partner.
 >
 > **[1:55](https://www.linkedin.com/learning/strategic-thinking-22616141/make-time-to-be-strategic-29717001?u=76281980&t=115)** We all know that from going to the gym.
 >
@@ -306,8 +302,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
-#### Get strategic about your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980)
+#### [Get strategic about your career](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=30)** If we're expanding in Latin America, HR might need to focus on hiring more Spanish and Portuguese speaking employees.
 >
-> **[0:37](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=37)** Operations might need to rent office space in Sao Paulo and Bogota and marketing will want to start conducting regional focus groups.
+> **[0:37](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=37)** Operations might need to rent [[Microsoft Office|office]] space in Sao Paulo and Bogota and marketing will want to start conducting regional focus groups.
 >
 > **[0:44](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=44)** The fact that they're doing those things means they're not doing something else, and that's a strategic choice, but it also plays out at the individual level as well.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=82)** What will get them to take notice and say, wow, she's really killing it?
 >
-> **[1:26](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=86)** And keep in mind, strategic thinking shouldn't just extend to how you're spending your time at work.
+> **[1:26](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=86)** And keep in mind, [[Strategic Thinking]] shouldn't just extend to how you're spending your time at work.
 >
 > **[1:31](https://www.linkedin.com/learning/strategic-thinking-22616141/get-strategic-about-your-career-29715002?u=76281980&t=91)** It also impacts your entire career, not just the job you're doing now.
 >
@@ -363,13 +358,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Strategic Thinking]] (2), career (2), product (1), hr (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - everyone (1)
 
-#### Understand the sequence of strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980)
+#### [Understand the sequence of strategy](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -387,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=26)** Strategy is about the big picture choices you make, how you decide which road to go down.
 >
-> **[0:33](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=33)** You decide to take the job in healthcare rather than in finance, or you decide you're going to become a specialist in artificial intelligence because you believe it's the next important wave.
+> **[0:33](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=33)** You decide to take the job in healthcare rather than in finance, or you decide you're going to become a specialist in [[Artificial Intelligence (AI)|artificial intelligence]] because you believe it's the next important wave.
 >
 > **[0:42](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=42)** Strategy is being clear and proactive in choosing what you're going to do, and especially this is the part people forget, what you're not going to do.
 >
@@ -433,11 +427,11 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=168)** Whatever it is, it pays to think it out, maybe even write it out and be precise.
 >
-> **[2:53](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=173)** Strategic thinking is a virtue, but to make strategy happen, you have to know how the pieces fit together so you can succeed.
+> **[2:53](https://www.linkedin.com/learning/strategic-thinking-22616141/understand-the-sequence-of-strategy-29719000?u=76281980&t=173)** [[Strategic Thinking]] is a virtue, but to make strategy happen, you have to know how the pieces fit together so you can succeed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** picture (2)
@@ -449,8 +443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consider the future and learn from the past
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980)
+#### [Consider the future and learn from the past](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,20 +499,19 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980&t=167)** Learning to take a holistic view of the past can yield insights that are often hidden to others.
 >
-> **[2:53](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980&t=173)** Getting good at strategic thinking means we can't afford to just live in the present.
+> **[2:53](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980&t=173)** Getting good at [[Strategic Thinking]] means we can't afford to just live in the present.
 >
 > **[2:57](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980&t=177)** We have to develop a healthy intuition about the future and a clear-eyed understanding of the past.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), imagine (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - to (1)
 
-#### Create an informed strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/create-an-informed-strategy-29713003?u=76281980)
+#### [Create an informed strategy](https://www.linkedin.com/learning/strategic-thinking-22616141/create-an-informed-strategy-29713003?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/strategic-thinking-22616141/create-an-informed-strategy-29713003?u=76281980&t=7)** You can't input faulty assumptions and expect something amazing to come out of it just because you're being strategic.
 >
-> **[0:14](https://www.linkedin.com/learning/strategic-thinking-22616141/create-an-informed-strategy-29713003?u=76281980&t=14)** Here are three ways you can become smarter and more nuanced in your strategic thinking.
+> **[0:14](https://www.linkedin.com/learning/strategic-thinking-22616141/create-an-informed-strategy-29713003?u=76281980&t=14)** Here are three ways you can become smarter and more nuanced in your [[Strategic Thinking]].
 >
 > **[0:20](https://www.linkedin.com/learning/strategic-thinking-22616141/create-an-informed-strategy-29713003?u=76281980&t=20)** First, recognize that good strategy doesn't actually have to be innovative.
 >
@@ -579,20 +571,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (2), next (2), product (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** iphone (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - strategy (1)
 
-#### Practicality: Get real about your strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980)
+#### [Practicality: Get real about your strategy](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=1)** - A strategy that's good in theory isn't much help in the real world.
 >
-> **[0:06](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=6)** You want your strategic thinking to be relevant and useful and something you can actually use.
+> **[0:06](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=6)** You want your [[Strategic Thinking]] to be relevant and useful and something you can actually use.
 >
 > **[0:11](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=11)** That means you can't just figure out what would work best in an ideal world.
 >
@@ -604,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=25)** What skills or knowledge or experience do you possess that can help you?
 >
-> **[0:30](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=30)** If your big focus is expansion into the Latin American market, speaking Spanish is going to be a huge help along with the rotation you did in the Buenos Aires office, and perhaps your knowledge of social media, if that's going to be a key component of the corporate strategy there.
+> **[0:30](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=30)** If your big focus is expansion into the Latin American market, speaking Spanish is going to be a huge help along with the rotation you did in the Buenos Aires [[Microsoft Office|office]], and perhaps your knowledge of social media, if that's going to be a key component of the corporate strategy there.
 >
 > **[0:44](https://www.linkedin.com/learning/strategic-thinking-22616141/practicality-get-real-about-your-strategy-29716002?u=76281980&t=44)** And what relationships, which allies can you tap?
 >
@@ -656,14 +647,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Strategic Thinking]] (1), [[Microsoft Office|Office]] (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - a (1)
 
-#### AI and strategic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980)
+#### [AI and strategic thinking](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=6)** It's important to use your own knowledge and discretion here, AI can still get things wrong, so you need to apply a critical lens, but AI tools can help both speed up your thinking and broaden it so you can include possibilities you might otherwise have missed.
 >
-> **[0:21](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=21)** Here are three key ways you can use AI to help enhance your strategic thinking.
+> **[0:21](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=21)** Here are three key ways you can use AI to help enhance your [[Strategic Thinking]].
 >
 > **[0:26](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=26)** First, it's fantastic for idea generation.
 >
@@ -681,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=43)** You can ask questions related to your own life and career, as well as generating ideas related to your work.
 >
-> **[0:48](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=48)** Just be sure to be mindful of privacy settings in your company's usage policies.
+> **[0:48](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=48)** Just be sure to be mindful of [[Privacy]] settings in your company's usage policies.
 >
 > **[0:53](https://www.linkedin.com/learning/strategic-thinking-22616141/ai-and-strategic-thinking?u=76281980&t=53)** Second, you can stress test the ideas you already have.
 >
@@ -717,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Strategic Thinking]] (1), product (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
@@ -726,12 +716,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic thinking with your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980)
+#### [Strategic thinking with your team](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=1)** - Strategic thinking by yourself is nice, but oftentimes your goals can't be accomplished alone.
+> **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=1)** - [[Strategic Thinking]] by yourself is nice, but oftentimes your goals can't be accomplished alone.
 >
 > **[0:07](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=7)** You need buy-in and support from your boss, your colleagues, and your employees.
 >
@@ -769,7 +758,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=135)** You may never win them over completely if you're stepping on heir turf, but if you can at least turn the volume down on their dissatisfaction, that's a win.
 >
-> **[2:24](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=144)** Finally, you'll want to put a system in place to maintain accountability with your team.
+> **[2:24](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=144)** Finally, you'll want to put a system in place to maintain [[Accountability]] with your team.
 >
 > **[2:29](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980&t=149)** At a basic level, that might look like sending around an email after every meeting with a recap of what was agreed on and who's doing what.
 >
@@ -781,14 +770,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (1), product (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - strategic (1)
 
-#### Measure your success
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/measure-your-success-29720001?u=76281980)
+#### [Measure your success](https://www.linkedin.com/learning/strategic-thinking-22616141/measure-your-success-29720001?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -832,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/strategic-thinking-22616141/measure-your-success-29720001?u=76281980&t=112)** We're not just doing strategy for strategy's sake.
 >
-> **[1:55](https://www.linkedin.com/learning/strategic-thinking-22616141/measure-your-success-29720001?u=76281980&t=115)** We're engaged in strategic thinking because we want to get better at making smart decisions.
+> **[1:55](https://www.linkedin.com/learning/strategic-thinking-22616141/measure-your-success-29720001?u=76281980&t=115)** We're engaged in [[Strategic Thinking]] because we want to get better at making smart decisions.
 >
 > **[2:00](https://www.linkedin.com/learning/strategic-thinking-22616141/measure-your-success-29720001?u=76281980&t=120)** We want to learn and improve over time, but that is not going to happen by itself.
 >
@@ -848,19 +836,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), business (2), [[Strategic Thinking]] (2), product (1), career (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - how (1)
 
-#### Strategic thinking is an ongoing process
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980)
+#### [Strategic thinking is an ongoing process](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=1)** - You've failed yourself.
 >
-> **[0:03](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=3)** If you do strategic thinking once, set a course and just keep at it forever.
+> **[0:03](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=3)** If you do [[Strategic Thinking]] once, set a course and just keep at it forever.
 >
 > **[0:08](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=8)** Circumstances change and you may end up steering yourself wildly off course.
 >
@@ -916,7 +903,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=142)** Hopefully not much.
 >
-> **[2:24](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=144)** The only correct answer is that something that provides you with a far greater probability for growth and success than the path you're already pursuing.
+> **[2:24](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=144)** The only correct answer is that something that provides you with a far greater [[Probability]] for growth and success than the path you're already pursuing.
 >
 > **[2:33](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-is-an-ongoing-process-29716003?u=76281980&t=153)** Note that I said probability, not possibility, it needs to be very likely.
 >
@@ -940,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Probability]] (2), next (1), business (1), prompt (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Probability]] (2)
 > **Analogies:** for instance (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -949,8 +936,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
-#### The limits of strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/the-limits-of-strategy-29713002?u=76281980)
+#### [The limits of strategy](https://www.linkedin.com/learning/strategic-thinking-22616141/the-limits-of-strategy-29713002?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,7 +964,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/strategic-thinking-22616141/the-limits-of-strategy-29713002?u=76281980&t=53)** You didn't plan for this, so what do you do?
 >
-> **[0:56](https://www.linkedin.com/learning/strategic-thinking-22616141/the-limits-of-strategy-29713002?u=76281980&t=56)** That's where the real value of strategic thinking lies, because it's not just about a fixed plan.
+> **[0:56](https://www.linkedin.com/learning/strategic-thinking-22616141/the-limits-of-strategy-29713002?u=76281980&t=56)** That's where the real value of [[Strategic Thinking]] lies, because it's not just about a fixed plan.
 >
 > **[1:02](https://www.linkedin.com/learning/strategic-thinking-22616141/the-limits-of-strategy-29713002?u=76281980&t=62)** It's the ability to think in a strategic way that adapts to changing circumstances.
 >
@@ -1020,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** you need to have (1)
@@ -1031,18 +1017,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make strategic thinking a habit
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980)
+#### [Make strategic thinking a habit](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=1)** - Strategic thinking is a valuable asset to cultivate.
+> **[0:01](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=1)** - [[Strategic Thinking]] is a valuable asset to cultivate.
 >
 > **[0:04](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=4)** In fact, as you ascend in your organization, it's essentially mandatory, but no one teaches you this and most people don't even realize they need to learn it themselves.
 >
 > **[0:13](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=13)** That's why you taking the initiative to steep yourself in strategic thinking is a competitive advantage that can pay major dividends for you, your team, and your company.
 >
-> **[0:23](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=23)** I'm so glad you dived into it in this course, and if you'd like to learn more, you can also check out my LinkedIn Learning course, Make Strategic Thinking a Habit.
+> **[0:23](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=23)** I'm so glad you dived into it in this course, and if you'd like to learn more, you can also check out my [[LinkedIn]] Learning course, Make Strategic Thinking a Habit.
 >
 > **[0:31](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980&t=31)** Let me know how it goes, and you can find further strategic thinking resources in my book, "The Long Game," and at [dorieclark.com](https://dorieclark.com).
 >
@@ -1050,7 +1035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[LinkedIn]] (1), game (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **URLs:** [dorieclark.com](https://dorieclark.com) (1)

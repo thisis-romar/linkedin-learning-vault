@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze network problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980)
+#### [Analyze network problems](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980&t=0)** - [Lisa] Wireshark is a free open source tool that opens the gateway to troubleshooting and dissecting multiple networking issues.
+> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980&t=0)** - [Lisa] [[Wireshark]] is a free open source tool that opens the gateway to troubleshooting and dissecting multiple networking issues.
 >
 > **[0:09](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980&t=9)** But here's the secret.
 >
@@ -109,16 +108,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), [[Troubleshooting]] (1), data (1), power (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-you-need-to-know?u=76281980&t=0)** - [Narrator] Wireshark is a popular tool for packet analysis.
+> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-you-need-to-know?u=76281980&t=0)** - [Narrator] [[Wireshark]] is a popular tool for packet analysis.
 >
 > **[0:04](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-you-need-to-know?u=76281980&t=4)** This course is appropriate for anyone who would like to learn more on how to troubleshoot your network with Wireshark, including network administrators, teachers, security analysts, and students.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** tcp (1), osi (1)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
@@ -137,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the most out of Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980)
+#### [Getting the most out of Wireshark](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=1)** - [Instructor] Wireshark provides the necessary tools to gather, analyze and study network data.
+> **[0:01](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=1)** - [Instructor] [[Wireshark]] provides the necessary tools to gather, analyze and study network data.
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=8)** In this segment, we'll review how to install Wireshark on a PC, or a Mac, cover choices you'll have during installation and learn why you should update Wireshark when prompted.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=96)** Now first you'll see the following, this is the standard download for Wireshark 64 bit Operating Systems.
 >
-> **[1:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=105)** Next is the Windows Arm Installer.
+> **[1:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=105)** Next is the [[Windows]] Arm Installer.
 >
 > **[1:48](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=108)** Arm means Advanced Risk Machine.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=200)** Here, you can select additional tasks such as creating a shortcut and associated file extensions.
 >
-> **[3:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=207)** And you can take a look at all those file extensions that will allow you to work with other software products that can capture packets.
+> **[3:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=207)** And you can take a look at all those file extensions that will allow you to work with other software [[Microsoft Products|products]] that can capture packets.
 >
 > **[3:37](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=217)** I'll leave that as the default and select Next.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=245)** Now, you'll need to install this if you want to capture packets.
 >
-> **[4:09](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=249)** NPcap comes from the Nmap project and it's the packet sniffing library for Windows.
+> **[4:09](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=249)** NPcap comes from the [[Nmap]] project and it's the packet sniffing library for Windows.
 >
 > **[4:16](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980&t=256)** Windows will prompt you to update if you have an older version of NPcap.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (17), next (6), [[Windows]] (5), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Wireshark]] (17), [[Windows]] (5), [[Microsoft Products|Products]] (1), [[Nmap]] (1)
 > **Prerequisites:** install (9), you'll need (3)
 > **Analogies:** such as (4), for example (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -263,12 +260,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **CLI Commands:** find (1)
 
-#### Navigating the Wireshark interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980)
+#### [Navigating the Wireshark interface](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=0)** - [Instructor] When you first launch Wireshark, you may think that there isn't much going on on the welcome screen.
+> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=0)** - [Instructor] When you first launch [[Wireshark]], you may think that there isn't much going on on the welcome screen.
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=6)** Well, while it's a streamlined interface, you'll find that there's everything you need to begin capturing packets and analyzing traffic.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=126)** But over here, on the right-hand side, this is an intelligent scroll bar.
 >
-> **[2:10](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=130)** The intelligent scroll bar will help us to zoom in on problems very easily.
+> **[2:10](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=130)** The intelligent scroll bar will help us to [[Zoom]] in on problems very easily.
 >
 > **[2:15](https://www.linkedin.com/learning/wireshark-network-troubleshooting/navigating-the-wireshark-interface?u=76281980&t=135)** So here's some black, and I'll select that.
 >
@@ -394,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (1), [[Troubleshooting]] (1), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (5), [[Zoom]] (1)
 > **UI Navigation:** go to (3), right-click (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** http (2), tcp (1)
@@ -403,8 +399,7 @@ created: 2026-05-02
 > **Code Identifiers:** smallflows (2)
 > **Speakers:** - [instructor] (1)
 
-#### Investigating the Edit Menu choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980)
+#### [Investigating the Edit Menu choice](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +523,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=262)** We'll open this up.
 >
-> **[4:24](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=264)** This is where I can truly put the preferences as to the way I want Wireshark to look.
+> **[4:24](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=264)** This is where I can truly put the preferences as to the way I want [[Wireshark]] to look.
 >
 > **[4:30](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=270)** As you can see, we talk about the appearance, the columns, font and color, layout.
 >
@@ -540,13 +535,13 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=292)** In this case, you can see here's just an example.
 >
-> **[4:55](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=295)** Babel Routing Protocol and if we change that to another port, then that would reflect it so that I would know that that is using the Babel protocol.
+> **[4:55](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=295)** Babel [[Routing]] Protocol and if we change that to another port, then that would reflect it so that I would know that that is using the Babel protocol.
 >
 > **[5:04](https://www.linkedin.com/learning/wireshark-network-troubleshooting/investigating-the-edit-menu-choice?u=76281980&t=304)** So, as you can see, while we're working with the capture, the Edit menu choice has a lot of options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Troubleshooting]] (1), management (1), [[Wireshark]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Routing]] (1)
 > **CLI Commands:** find (6), make (1)
 > **UI Navigation:** go to (5)
 > **Analogies:** for example (2)
@@ -554,8 +549,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the View Menu choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980)
+#### [Exploring the View Menu choice](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +683,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=235)** So I don't want to do that.
 >
-> **[3:58](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=238)** Now Zoom is a helpful feature.
+> **[3:58](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=238)** Now [[Zoom]] is a helpful feature.
 >
 > **[4:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=240)** Now I'll tell you why I would use that.
 >
@@ -711,7 +705,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=277)** Now as you see in frame four, and each of these headers.
 >
-> **[4:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=280)** Of course frame four is just the metadata about frame four.
+> **[4:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=280)** Of course frame four is just the [[Metadata]] about frame four.
 >
 > **[4:44](https://www.linkedin.com/learning/wireshark-network-troubleshooting/exploring-the-view-menu-choice?u=76281980&t=284)** But each of these headers, there's a little caret on the left-hand side.
 >
@@ -777,15 +771,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), feature (2), next (1), application (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Metadata]] (1)
 > **UI Navigation:** go to (6), select the (1)
 > **Env Vars:** tcp (2), mac (2), dns (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Getting ready to capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980)
+#### [Getting ready to capture](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -827,7 +820,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=158)** So you can use what's called a ring buffer.
 >
-> **[2:41](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=161)** Now I can do this by outputting it, as you see, to bring .pcap, and then I'm going to say create a new file automatically after, and in this case, we'll make it really small because it'll go fairly quickly, 30 packets, and here, we can say use a ring buffer with two files and we're going to keep this really small, but what will happen is Wireshark will simply overwrite the ring buffer.
+> **[2:41](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=161)** Now I can do this by outputting it, as you see, to bring .pcap, and then I'm going to say create a new file automatically after, and in this case, we'll make it really small because it'll go fairly quickly, 30 packets, and here, we can say use a ring buffer with two files and we're going to keep this really small, but what will happen is [[Wireshark]] will simply overwrite the ring buffer.
 >
 > **[3:07](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-ready-to-capture?u=76281980&t=187)** In some cases, we then can go to options, and if we go to options, you can see here, stop capture automatically after, and what I can say is stop it after a certain number of packets or in certain number of files, and in this case, I'm going to say after four files.
 >
@@ -855,13 +848,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Troubleshooting]] (3), [[Wireshark]] (3), management (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **UI Navigation:** go to (6), open the (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining a capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-a-capture?u=76281980)
+#### [Examining a capture](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-a-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +877,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-a-capture?u=76281980&t=58)** Keep in mind, the applications and end points will work to manage the delays and congestion.
 >
-> **[1:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-a-capture?u=76281980&t=66)** You'll see evidence of this in Wireshark with indicators, such as keep-alives, duplicate acknowledgments, and retransmissions.
+> **[1:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-a-capture?u=76281980&t=66)** You'll see evidence of this in [[Wireshark]] with indicators, such as keep-alives, duplicate acknowledgments, and retransmissions.
 >
 > **[1:15](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-a-capture?u=76281980&t=75)** The server keeps track of the client acknowledging the data.
 >
@@ -961,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Troubleshooting]] (1), [[Wireshark]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **UI Navigation:** go to (3), open the (2)
 > **Env Vars:** tcp (3)
 > **Speakers:** - troubleshooting (1), - now (1)
@@ -970,8 +962,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
 
-#### Challenge: Examining evidence of congestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-examining-evidence-of-congestion?u=76281980)
+#### [Challenge: Examining evidence of congestion](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-examining-evidence-of-congestion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,8 +990,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Response: Examining evidence of congestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-examining-evidence-of-congestion?u=76281980)
+#### [Response: Examining evidence of congestion](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-examining-evidence-of-congestion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1046,7 +1036,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), web (1)
 > **Env Vars:** tcp (4)
 > **UI Navigation:** go to (3), open the (1)
 > **Ports:** port 80 (1)
@@ -1058,8 +1047,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Displaying time
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980)
+#### [Displaying time](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=24)** And we can take a look over here and it says your clock is off by 1.017 seconds.
 >
-> **[0:33](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=33)** So now I'm in Wireshark and let's take a look at how we can view time.
+> **[0:33](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=33)** So now I'm in [[Wireshark]] and let's take a look at how we can view time.
 >
 > **[0:38](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=38)** We'll go to View and a significant sub-menu choice deals with the time display.
 >
@@ -1135,7 +1123,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=223)** So we'll do one more thing and I'll shown you this.
 >
-> **[3:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=225)** I'll go to Statistics and then I'll go to TCP Stream Graphs and we'll do a time sequence graph.
+> **[3:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=225)** I'll go to [[Statistics]] and then I'll go to TCP Stream Graphs and we'll do a time sequence graph.
 >
 > **[3:54](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980&t=234)** And here what it is really going to show you is confirming that nothing is happening for gaps of time.
 >
@@ -1149,7 +1137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Wireshark]] (1), traffic (1), [[Statistics]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Statistics]] (1)
 > **UI Navigation:** go to (5)
 > **Env Vars:** tcp (2), cis (1)
 > **Versions:** 66.220 (2), 1.017 (1)
@@ -1158,20 +1146,19 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing Details and Expert Info
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980)
+#### [Viewing Details and Expert Info](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=0)** - [Teacher] Part of effective packet analysis is knowing how to use the tools within Wireshark.
+> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=0)** - [Teacher] Part of effective packet analysis is knowing how to use the tools within [[Wireshark]].
 >
 > **[0:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=6)** Let me show you a couple of things that I refer to, just to help keep track of what's happening.
 >
-> **[0:11](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=11)** The one thing is when you go to Statistics, and you can see that there are a lot of choices in Statistics, I want to go to Capture File Properties.
+> **[0:11](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=11)** The one thing is when you go to [[Statistics]], and you can see that there are a lot of choices in Statistics, I want to go to Capture File Properties.
 >
-> **[0:21](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=21)** Now, when you open this, you can see a lot of the metadata about this capture.
+> **[0:21](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=21)** Now, when you open this, you can see a lot of the [[Metadata]] about this capture.
 >
-> **[0:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=26)** And down below, it tells you the time of when it was taken, how long it had taken to run, and if it knows the hardware it will put that in as well.
+> **[0:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=26)** And down below, it tells you the time of when it was taken, how long it had taken to run, and if it knows the [[Hardware]] it will put that in as well.
 >
 > **[0:37](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-details-and-expert-information?u=76281980&t=37)** This also tells us a little bit about statistics as far as average bytes per second, average bits per second, and any interface information.
 >
@@ -1273,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), [[Wireshark]] (2), [[Search]] (2), [[Metadata]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Wireshark]] (2), [[Metadata]] (1), [[Hardware]] (1)
 > **Env Vars:** ack (1), dns (1), tcp (1), fin (1), finack (1)
 > **Analogies:** such as (2), for example (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -1282,14 +1269,13 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [teacher] (1)
 
-#### Graphing the TCP Streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980)
+#### [Graphing the TCP Streams](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=0)** - [Instructor] Another tool that we can use while troubleshooting is TCP stream graphs.
 >
-> **[0:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=5)** Now this is a way that we can visualize TCP data stream and we get to those by going to statistics and then TCP stream graphs.
+> **[0:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=5)** Now this is a way that we can visualize TCP data stream and we get to those by going to [[Statistics]] and then TCP stream graphs.
 >
 > **[0:13](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=13)** But first, let's force it to follow one of the streams.
 >
@@ -1311,7 +1297,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=60)** We'll go to window scaling.
 >
-> **[1:04](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=64)** Now up at the top, it'll tell you windows scaling for these two IP addresses.
+> **[1:04](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=64)** Now up at the top, it'll tell you [[Windows]] scaling for these two IP addresses.
 >
 > **[1:09](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=69)** Now it will give you the window received or the bytes out and the window scaling is a factor that helps us to assess really how much I can send, and in this case, I'm going to uncheck bytes out and you can see that'll go away, and the receive window is the one up at the top.
 >
@@ -1353,7 +1339,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=205)** I'll pull this down here.
 >
-> **[3:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=207)** I'm going to switch directions, and then I'm going to also show you how we can do a zoom.
+> **[3:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=207)** I'm going to switch directions, and then I'm going to also show you how we can do a [[Zoom]].
 >
 > **[3:33](https://www.linkedin.com/learning/wireshark-network-troubleshooting/graphing-the-tcp-streams?u=76281980&t=213)** As you can see, I can move this around or I can put my finger on control and then roll it in and that can zoom it in.
 >
@@ -1371,7 +1357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Zoom]] (4), [[Troubleshooting]] (2), [[Statistics]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Statistics]] (2), [[Windows]] (1)
 > **Env Vars:** tcp (13), sac (1), pdf (1), png (1), jpeg (1)
 > **UI Navigation:** go to (3), right-click (1), scroll down (1), click on (1)
 > **CLI Commands:** make (3)
@@ -1380,8 +1366,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: Using time to view gaps in transmission
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-time-to-view-gaps-in-transmission?u=76281980)
+#### [Challenge: Using time to view gaps in transmission](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-time-to-view-gaps-in-transmission?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,15 +1384,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** tcp (1)
 > **Versions:** 72.14.213 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Response: Using time to view gaps in transmission
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980)
+#### [Response: Using time to view gaps in transmission](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,7 +1442,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=120)** The last thing is run a TCP Time Sequence Stevens Graph.
 >
-> **[2:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=125)** Now Stevens Graphs are available by going to statistics, dropping statistics, and then down at the bottom where it says TCP stream graphs.
+> **[2:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=125)** Now Stevens Graphs are available by going to [[Statistics]], dropping statistics, and then down at the bottom where it says TCP stream graphs.
 >
 > **[2:14](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=134)** Now understand that all of these graphs are within the one frame so I can select any of those.
 >
@@ -1469,7 +1452,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=142)** And okay, now I'm just going to close this and so we can get a better look at this and there you see those large gaps.
 >
-> **[2:32](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=152)** Now, once I'm in this graph and this is just letting me drag it over, if I want to zoom in on any of those areas, I could, you select right here and then you lasso it and then it zooms it in.
+> **[2:32](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=152)** Now, once I'm in this graph and this is just letting me drag it over, if I want to [[Zoom]] in on any of those areas, I could, you select right here and then you lasso it and then it zooms it in.
 >
 > **[2:46](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-time-to-view-gaps-in-transmission?u=76281980&t=166)** Then I can go back to drag and then pull this over so you get a better look at it.
 >
@@ -1483,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), next (1), traffic (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tcp (2)
 > **Versions:** 72.14.213 (1), 72.14 (1)
@@ -1497,18 +1480,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Viewing conversations and endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980)
+#### [Viewing conversations and endpoints](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=0)** - [Narrator] In Wireshark, you can view conversations and endpoints in a capture to provide valuable insight on how devices communicate with one another to help assess network efficiency and security.
+> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=0)** - [Narrator] In [[Wireshark]], you can view conversations and endpoints in a capture to provide valuable insight on how devices communicate with one another to help assess network efficiency and security.
 >
 > **[0:15](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=15)** In this segment, we'll outline how to examine endpoints, which represents one side of a conversation, along with conversations or communication between two endpoints.
 >
-> **[0:29](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=29)** To see the conversations that are taking place on a Windows operating system, you can go to the command-line interface and run the command netstat.
+> **[0:29](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=29)** To see the conversations that are taking place on a [[Windows]] operating system, you can go to the command-line interface and run the command netstat.
 >
-> **[0:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=40)** netstat is a handy utility that shows network connections, routing tables, and interface statistics.
+> **[0:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=40)** netstat is a handy utility that shows network connections, [[Routing]] tables, and interface [[Statistics]].
 >
 > **[0:48](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980&t=48)** In this case, I'll use the switch -n, which forces netstat to display numeric values instead of a domain name for the IP address.
 >
@@ -1620,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), [[Wireshark]] (2), [[Troubleshooting]] (2), [[Search]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Wireshark]] (2), [[Windows]] (1), [[Routing]] (1)
 > **UI Navigation:** go to (9), open the (1)
 > **Env Vars:** tcp (3), rtp (3), udp (2)
 > **Ports:** port 1104 (4), port 16464 (2)
@@ -1629,12 +1611,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Creating a flow graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980)
+#### [Creating a flow graph](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=0)** - [Instructor] While doing troubleshooting, there are a couple other tools within the Statistics, one being a flow graph.
+> **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=0)** - [Instructor] While doing troubleshooting, there are a couple other tools within the [[Statistics]], one being a flow graph.
 >
 > **[0:07](https://www.linkedin.com/learning/wireshark-network-troubleshooting/creating-a-flow-graph?u=76281980&t=7)** Now, a flow graph helps us take a look at the exchange of data.
 >
@@ -1760,7 +1741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (10), dns (3), [[Troubleshooting]] (2), data (2), traffic (1)
+> **Frameworks & Libraries:** [[Statistics]] (10)
 > **Env Vars:** dhcp (4), dns (3), http (3), syn (2), png (2)
 > **UI Navigation:** click on (2), dropdown (1), right-click (1), go to (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1768,8 +1749,7 @@ created: 2026-05-02
 > **Code Identifiers:** smallflows (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plotting an IO graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980)
+#### [Plotting an IO graph](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1789,7 +1769,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=35)** So now let's take a look at the IO graph.
 >
-> **[0:37](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=37)** We'll go to Statistics and IO Graph.
+> **[0:37](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=37)** We'll go to [[Statistics]] and IO Graph.
 >
 > **[0:41](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=41)** And when we open it, you'll see that there are All Packets and generally that's there as default.
 >
@@ -1827,7 +1807,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=107)** Drag is me just allowing me to move throughout this.
 >
-> **[1:51](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=111)** Zoom is when I want to zoom in, you select that and then lasso a certain area, and we'll pull this back to drag so that you can move this up and around.
+> **[1:51](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=111)** [[Zoom]] is when I want to zoom in, you select that and then lasso a certain area, and we'll pull this back to drag so that you can move this up and around.
 >
 > **[2:01](https://www.linkedin.com/learning/wireshark-network-troubleshooting/plot-an-i-o-graph?u=76281980&t=121)** Now, I'm going to just close this and we're going to find a filter.
 >
@@ -1893,7 +1873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), [[Zoom]] (3), traffic (2), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Zoom]] (3)
 > **UI Navigation:** go to (3), right-click (2), scroll up (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** tcp (2)
@@ -1901,8 +1881,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Using a Flow Graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-a-flow-graph?u=76281980)
+#### [Challenge: Using a Flow Graph](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-a-flow-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1910,7 +1889,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-a-flow-graph?u=76281980&t=11)** You'll want to create two I/O graphs, one that shows duplicate acknowledgments and one that shows retransmissions.
 >
-> **[0:19](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-a-flow-graph?u=76281980&t=19)** You'll also want to make the graph stand out, add a different color and style, and then zoom in on an interesting area.
+> **[0:19](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-a-flow-graph?u=76281980&t=19)** You'll also want to make the graph stand out, add a different color and style, and then [[Zoom]] in on an interesting area.
 >
 > **[0:29](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-using-a-flow-graph?u=76281980&t=29)** This challenge should take you about five minutes.
 >
@@ -1924,8 +1903,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Response: Using a Flow Graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-a-flow-graph?u=76281980)
+#### [Response: Using a Flow Graph](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-a-flow-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1933,7 +1911,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-a-flow-graph?u=76281980&t=8)** You were to create two IO graphs, one showing duplicate acknowledgments, and one showing retransmissions.
 >
-> **[0:16](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-a-flow-graph?u=76281980&t=16)** Then you were to make the graph stand out by adding a different color and style, and then zoom in on an interesting area.
+> **[0:16](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-a-flow-graph?u=76281980&t=16)** Then you were to make the graph stand out by adding a different color and style, and then [[Zoom]] in on an interesting area.
 >
 > **[0:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-using-a-flow-graph?u=76281980&t=23)** Well, first we're going to go into IO graphs and take a look.
 >
@@ -1990,8 +1968,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshooting the Network
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980)
+#### [Troubleshooting the Network](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,13 +2052,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=184)** When you're done with the capture and you've gotten enough packets, you'll want to do a quick analysis.
 >
-> **[3:10](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=190)** Now what I do is generally go up to statistics and then I look at the protocol hierarchy.
+> **[3:10](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=190)** Now what I do is generally go up to [[Statistics]] and then I look at the protocol hierarchy.
 >
 > **[3:15](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=195)** You can do a quick look to see if there's any protocols out of line or that shouldn't be on that sub network, and then once you're done with that, you could just simply close it.
 >
 > **[3:25](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=205)** One more thing I do is go to statistics in capture file properties.
 >
-> **[3:30](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=210)** Once you're in there, you'll see the metadata of that capture is evident as far as the time it started, how long it lasted and a little bit about the interface hardware and operating system.
+> **[3:30](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=210)** Once you're in there, you'll see the [[Metadata]] of that capture is evident as far as the time it started, how long it lasted and a little bit about the interface [[Hardware]] and operating system.
 >
 > **[3:42](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980&t=222)** But down below, you could put capture file comments, and maybe we'll put sub network 20.
 >
@@ -2097,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (3), traffic (2), [[Statistics]] (2), [[Metadata]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Metadata]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (4)
 > **URLs:** [cisco.com](https://cisco.com) (1)
 > **UI Navigation:** go to (1)
@@ -2105,8 +2082,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spotting an ARP Storm
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980)
+#### [Spotting an ARP Storm](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2116,7 +2092,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=9)** We'll go to export, download file, and you can either export a new pcapng with CloudSharp comments and annotations if there are any, or I'm just going to download the original file.
 >
-> **[0:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=23)** And I'll open it in Wireshark.
+> **[0:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=23)** And I'll open it in [[Wireshark]].
 >
 > **[0:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=26)** Once in Wireshark, we'll put a filter for ARP.
 >
@@ -2124,7 +2100,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=38)** I'll also create an IO graph.
 >
-> **[0:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=40)** Go to statistics and IO graph.
+> **[0:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=40)** Go to [[Statistics]] and IO graph.
 >
 > **[0:44](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=44)** It already assumes I'd like to filter on ARP.
 >
@@ -2142,7 +2118,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=72)** Now, how can this happen?
 >
-> **[1:13](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=73)** Well, it could be the result of a hardware misconfiguration, that's one way, but it can also be an attack that once launched will keep generating ARP broadcast packets.
+> **[1:13](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=73)** Well, it could be the result of a [[Hardware]] misconfiguration, that's one way, but it can also be an attack that once launched will keep generating ARP broadcast packets.
 >
 > **[1:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/spotting-an-arp-storm?u=76281980&t=87)** There's one more thing.
 >
@@ -2156,14 +2132,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1), traffic (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1), [[Hardware]] (1)
 > **Env Vars:** arp (14)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying bursty traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980)
+#### [Identifying bursty traffic](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2187,11 +2162,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=66)** Let's take a look.
 >
-> **[1:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=68)** I'm at this website, and we can download an example file by going here to click download, and then you'll want to extract it and open it in Wireshark.
+> **[1:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=68)** I'm at this website, and we can download an example file by going here to click download, and then you'll want to extract it and open it in [[Wireshark]].
 >
 > **[1:19](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=79)** Now, as you can see, this is multicast traffic.
 >
-> **[1:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=83)** What we can do in Wireshark is go to statistics and UDP multicast streams, and within this, we see a lot of buffer alarms.
+> **[1:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=83)** What we can do in Wireshark is go to [[Statistics]] and UDP multicast streams, and within this, we see a lot of buffer alarms.
 >
 > **[1:33](https://www.linkedin.com/learning/wireshark-network-troubleshooting/identifying-bursty-traffic?u=76281980&t=93)** Now, we can go to any of these and then create a filter.
 >
@@ -2211,15 +2186,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (15), [[Wireshark]] (3), [[Statistics]] (2), data (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (2)
 > **UI Navigation:** go to (3)
 > **Versions:** 224.0.0 (1), 239.255.255 (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** udp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting from packet sniffing
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980)
+#### [Protecting from packet sniffing](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2231,7 +2205,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=14)** And the reason is it can expose sensitive information.
 >
-> **[0:18](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=18)** I'm going to take you to a browser and behind the scenes, when we look at privacy and security.
+> **[0:18](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=18)** I'm going to take you to a browser and behind the scenes, when we look at [[Privacy]] and security.
 >
 > **[0:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/protecting-from-packet-sniffing?u=76281980&t=23)** One of the things that our browsers do, as long as we keep them updated, they try to protect us.
 >
@@ -2267,14 +2241,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **UI Navigation:** go to (3)
 > **Env Vars:** http (1), post (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining Macof attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980)
+#### [Examining Macof attacks](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,9 +2269,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=57)** At that point, the switch will simply act like a hub and allow all the traffic to flow out all the ports.
 >
-> **[1:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=65)** Next, let's take a look at launching a Macof attack in Kali Linux.
+> **[1:05](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=65)** Next, let's take a look at launching a Macof attack in [[Kali Linux]].
 >
-> **[1:12](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=72)** I'm in Kali Linux now to demonstrate a Macof attack, first I'll open Wireshark as I want to do a quick capture so that you can see what happens on the backend during a Macof attack.
+> **[1:12](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=72)** I'm in Kali Linux now to demonstrate a Macof attack, first I'll open [[Wireshark]] as I want to do a quick capture so that you can see what happens on the backend during a Macof attack.
 >
 > **[1:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=86)** We'll go to Applications, Sniffing & Spoofing, wireshark.
 >
@@ -2332,7 +2305,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=202)** To see all of the IP addresses, I ran a report.
 >
-> **[3:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=207)** I went to Statistics, and then IP Version 4 Statistics, and then All Addresses.
+> **[3:27](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=207)** I went to [[Statistics]], and then IP Version 4 Statistics, and then All Addresses.
 >
 > **[3:35](https://www.linkedin.com/learning/wireshark-network-troubleshooting/examining-macof-attacks-23827197?u=76281980&t=215)** Now, this took a while to load as there are a lot of packets, but here is the report.
 >
@@ -2392,7 +2365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (6), traffic (2), [[Kali Linux]] (2), [[Statistics]] (2), data (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[Kali Linux]] (2), [[Statistics]] (2)
 > **Env Vars:** mac (5), syn (5), cam (1), tcp (1)
 > **UI Navigation:** go to (3), scroll up (1)
 > **CLI Commands:** make (2)
@@ -2401,14 +2374,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
 
-#### Challenge: Identify a scanning signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980)
+#### [Challenge: Identify a scanning signature](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=0)** - [Instructor] Let's do a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=7)** In this challenge, we'll evaluate a scanning signature using Wireshark.
+> **[0:07](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=7)** In this challenge, we'll evaluate a scanning signature using [[Wireshark]].
 >
 > **[0:13](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=13)** First, let's talk about why we don't want to allow any scanning to take place on our network.
 >
@@ -2424,17 +2396,17 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=60)** Suddenly a series of alarms cuts through the quiet atmosphere indicating potential intrusion activity.
 >
-> **[1:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=68)** Alex's heart races, as he quickly navigates through the network monitoring tools to investigate further.
+> **[1:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=68)** Alex's heart races, as he quickly navigates through the [[Network Monitoring Tools]] to investigate further.
 >
 > **[1:16](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=76)** Now, here's your challenge.
 >
-> **[1:18](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=78)** Using your favorite generative AI tool, you'll enter the following prompts and read through the information.
+> **[1:18](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=78)** Using your favorite [[Generative AI]] tool, you'll enter the following prompts and read through the information.
 >
 > **[1:26](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=86)** What are signs that someone is scanning the network?
 >
 > **[1:30](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=90)** How can you use Wireshark to see if someone is scanning the network?
 >
-> **[1:35](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=95)** Next, you'll go to the exercise folder and obtain the Wireshark network troubleshooting challenges and links document along with the file Nmap_Scan.pcapng, and then you'll answer the following.
+> **[1:35](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=95)** Next, you'll go to the exercise folder and obtain the Wireshark [[Network Troubleshooting]] challenges and links document along with the file Nmap_Scan.pcapng, and then you'll answer the following.
 >
 > **[1:51](https://www.linkedin.com/learning/wireshark-network-troubleshooting/challenge-identify-a-scanning-signature?u=76281980&t=111)** You'll look for TCP SYN or TCP connect packets to various ports on multiple hosts.
 >
@@ -2450,14 +2422,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), [[Generative AI]] (2), [[Network Monitoring Tools]] (1), next (1), [[Network Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Generative AI]] (2), [[Network Monitoring Tools]] (1), [[Network Troubleshooting]] (1)
 > **Env Vars:** tcp (2), syn (1), arp (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Identify a scanning signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980)
+#### [Solution: Identify a scanning signature](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2465,13 +2436,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=8)** First you are to use your favorite gen AI tool and enter the following prompts.
 >
-> **[0:14](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=14)** What are signs that someone is scanning the network and how can you use Wireshark to see if someone is scanning the network?
+> **[0:14](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=14)** What are signs that someone is scanning the network and how can you use [[Wireshark]] to see if someone is scanning the network?
 >
 > **[0:23](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=23)** And then you were to read through the information to get a feel as to what you should do next.
 >
 > **[0:29](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=29)** Next, you were to open Nmap_Scan.pcapng.
 >
-> **[0:34](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=34)** Now the first thing I wanted you to do is go to Statistics Protocol Hierarchy.
+> **[0:34](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=34)** Now the first thing I wanted you to do is go to [[Statistics]] Protocol Hierarchy.
 >
 > **[0:41](https://www.linkedin.com/learning/wireshark-network-troubleshooting/solution-identify-a-scanning-signature?u=76281980&t=41)** Now this is a nice first step because you can take a look at what protocols are out there, maybe to see if there's something that's unusual.
 >
@@ -2579,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), ai (2), [[Wireshark]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1)
 > **Env Vars:** tcp (4), arp (3), sip (2), syn (2), act (1)
 > **UI Navigation:** go to (7), right-click (2), scroll up (1), scroll down (1)
 > **Definitions:** is a  (3)
@@ -2593,24 +2564,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=0)** - [Instructor] Thank you for watching.
 >
-> **[0:03](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=3)** In this course, we took a look at ways to evaluate the network for issues and how to get the most out of Wireshark.
+> **[0:03](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=3)** In this course, we took a look at ways to evaluate the network for issues and how to get the most out of [[Wireshark]].
 >
 > **[0:11](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=11)** We saw how we can use time as a metric to see gaps in transmission and ways we can recognize abnormal or malicious traffic.
 >
 > **[0:21](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=21)** If you're interested in learning more, please check out the library where new courses are added all the time.
 >
-> **[0:28](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=28)** You might want to check out my Cisco Network Security series.
+> **[0:28](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=28)** You might want to check out my Cisco [[Network Security]] series.
 >
 > **[0:32](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=32)** And if you're interested in learning more about security basics, check out my Foundations of IT Security series.
 >
-> **[0:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=40)** And any course in the Ethical Hacking series will be well worth your time.
+> **[0:40](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=40)** And any course in the [[Ethical Hacking]] series will be well worth your time.
 >
 > **[0:45](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980&t=45)** For a complete list of courses, visit my author page.
 >
@@ -2618,7 +2588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Wireshark]] (1), traffic (1), [[Network Security]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Network Security]] (1), [[Ethical Hacking]] (1)
 > **Speakers:** - [instructor] (1)
 
 

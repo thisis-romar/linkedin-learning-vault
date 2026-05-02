@@ -106,12 +106,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use a database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980)
+#### [Why use a database?](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=0)** - Databases let us work with large amounts of data efficiently.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=0)** - [[Databases]] let us work with large amounts of data efficiently.
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=4)** They make updating data easy and reliable, and they help to ensure accuracy.
 >
@@ -123,9 +122,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=25)** The kind we'll focus on here is the relational database.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=28)** These are found in many places, from banking and order processing systems, to mobile apps, to content management systems like WordPress, and beyond.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=28)** These are found in many places, from [[Banking]] and order processing systems, to mobile apps, to [[Content Management Systems (CMS)|content management systems]] like [[WordPress]], and beyond.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=36)** Most of the concepts we'll need to understand when it comes to relational databases are interconnected, and in this course, I'll take a sort of progressive approach to explaining them.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=36)** Most of the concepts we'll need to understand when it comes to [[Relational Databases]] are interconnected, and in this course, I'll take a sort of progressive approach to explaining them.
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=44)** We'll cover the very basics of relational databases, and then look at the foundational concepts we'll need to understand how they work.
 >
@@ -133,27 +132,26 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=54)** So the first or second time I mention something, know that we'll get into more detail as we go.
 >
-> **[0:58](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=58)** I'm Scott Simpson, and I hope you'll join me in this LinkedIn Learning Course to explore the fundamentals of databases.
+> **[0:58](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980&t=58)** I'm Scott Simpson, and I hope you'll join me in this [[LinkedIn]] Learning Course to explore the fundamentals of databases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), data (2), database (2), [[Relational Databases]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Relational Databases]] (2), [[Banking]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - databases (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=0)** - Before we start, I want to make one important distinction.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=3)** We'll be talking about databases in general, not any particular database management system or DBMS.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=3)** We'll be talking about [[Databases]] in general, not any particular [[Database Management]] system or DBMS.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=9)** A DBMS is the software, like SQL Server, MySQL or Access, we use to interact with the database.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=9)** A DBMS is the software, like [[Microsoft SQL Server|SQL Server]], [[MySQL]] or Access, we use to interact with the database.
 >
-> **[0:15](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=15)** In this course, I'll be talking about databases in general and about the concepts that make relational databases work.
+> **[0:15](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=15)** In this course, I'll be talking about databases in general and about the concepts that make [[Relational Databases]] work.
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-databases-2/what-you-should-know?u=76281980&t=21)** You don't need any special software to follow along with the course, and you don't even need a database of your own.
 >
@@ -161,14 +159,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Databases]] (2), management (1), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Database Management]] (1), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Env Vars:** dbms (2), sql (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - before (1)
 
-#### Understanding databases: Benefits of spreadsheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-spreadsheets?u=76281980)
+#### [Understanding databases: Benefits of spreadsheets](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-spreadsheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-spreadsheets?u=76281980&t=80)** With this little bit of structure added, it's a lot easier to see gaps in the data and it becomes easier to do other things like print those party invitations or send happy birthday emails with the name included.
 >
-> **[1:31](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-spreadsheets?u=76281980&t=91)** Here we have some of the basic structure we'll work with when using databases.
+> **[1:31](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-spreadsheets?u=76281980&t=91)** Here we have some of the basic structure we'll work with when using [[Databases]].
 >
 > **[1:35](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-spreadsheets?u=76281980&t=95)** We've organized information about a particular thing, in this case, individual customers, into rows, and we've organized pieces of data with the same characteristics into columns, names, email addresses, phone numbers, and so on.
 >
@@ -210,13 +207,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (2), business (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - a (1)
 
-#### Understanding databases: Benefits of structured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-structured-data?u=76281980)
+#### [Understanding databases: Benefits of structured data](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-structured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-structured-data?u=76281980&t=23)** If you want to know what a customer has ordered, you'll need to dig through those fields and count sandwiches, or salads, or bowls of pasta each time and you'll need to add data without accidentally removing what's there or you'll need to keep adding fields.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-structured-data?u=76281980&t=36)** We've reached another limitation and it's in overcoming this limitation where databases become even more helpful.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-structured-data?u=76281980&t=36)** We've reached another limitation and it's in overcoming this limitation where [[Databases]] become even more helpful.
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-databases-2/understanding-databases-benefits-of-structured-data?u=76281980&t=43)** If we think about all those meal orders are their own cards, we can take their information and create another set of rows and columns.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (5), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Databases]] (3)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1)
@@ -268,14 +264,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980)
+#### [Relational databases](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=0)** - There's more than one type of database out there.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=3)** Graph databases like Neo4j, object databases like Realm and Objectivity/DB, document databases like CouchDB and MongoDB and more.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=3)** Graph [[Databases]] like [[Neo4j]], object databases like Realm and Objectivity/DB, document databases like CouchDB and [[MongoDB]] and more.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=12)** But by far, the most common is the relational database, which is named for the way that it organizes data into relations or tables of related data.
 >
@@ -315,17 +310,16 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=120)** All the values in a specific column will be the same kind of information, though the individual values will vary.
 >
-> **[2:06](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=126)** In this chapter, we'll explore the general properties of relational databases and get into details later on.
+> **[2:06](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980&t=126)** In this chapter, we'll explore the general properties of [[Relational Databases]] and get into details later on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Databases]] (3), data (3), [[Neo4j]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Neo4j]] (1), [[MongoDB]] (1), [[Relational Databases]] (1)
 > **Definitions:** is an  (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Keys and unique values
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980)
+#### [Keys and unique values](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=13)** In a table of a few hundred customers, we might have customer names and their phone numbers, and it's pretty simple to ask the database for a customer's information.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=21)** We could say, give me the record for Taylor Jenkins, and the database would return their row.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=21)** We could say, give me the record for Taylor [[Jenkins]], and the database would return their row.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=26)** But what happens when two people have the same name?
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=42)** We certainly wouldn't want to call the wrong person.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=44)** Unique values allow us to unlock the power that databases provide.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=44)** Unique values allow us to unlock the power that [[Databases]] provide.
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-databases-2/keys-and-unique-values-2?u=76281980&t=49)** In a database, a unique value is a value that doesn't show up in any other row in a given column.
 >
@@ -385,14 +379,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (2), [[Jenkins]] (1), power (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), is called (2)
 > **Env Vars:** dbms (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
-#### Relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relationships-2?u=76281980)
+#### [Relationships](https://www.linkedin.com/learning/programming-foundations-databases-2/relationships-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-databases-2/relationships-2?u=76281980&t=16)** Simply querying a piece of information from this table and a piece of information from that table, but being able to connect records to each other in various ways, lets us use data in more complex and realistic applications.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-databases-2/relationships-2?u=76281980&t=28)** There are three general kinds of relationships to use with databases, one to may, many to many, and one to one.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-databases-2/relationships-2?u=76281980&t=28)** There are three general kinds of relationships to use with [[Databases]], one to may, many to many, and one to one.
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-databases-2/relationships-2?u=76281980&t=35)** A relationship starts out as something that exists in the model of the data.
 >
@@ -442,14 +435,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (5), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** dbms (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### ACID and transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980)
+#### [ACID and transactions](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,13 +485,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=129)** The change has been made.
 >
-> **[2:10](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=130)** Even though we often hear the word transaction as it relates to financial activity, a transaction in a database doesn't have to deal with financial information.
+> **[2:10](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=130)** Even though we often hear the [[Microsoft Word|word]] transaction as it relates to financial activity, a transaction in a database doesn't have to deal with financial information.
 >
 > **[2:19](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=139)** We might use a transaction when booking a reservation at a restaurant, to prevent other customers from sneaking in at the same time and grabbing the table we want, or we might use a transaction when we check the stock level of something in our inventory, where we want to keep another worker from altering the amount while we look it up.
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=156)** Anytime we have an activity made up of steps that must happen together, and when we want to ensure that we have exclusive access to certain information while we perform a task, we'll use a transaction.
 >
-> **[2:47](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=167)** The capability for following the ACID principles are part of database management systems already, so instead of having to write the code into logic that makes sure these conditions are followed, all you have to do is tell the DBMS that you're doing a transaction, and the software takes cares of the ACID requirements for you.
+> **[2:47](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=167)** The capability for following the ACID principles are part of [[Database Management]] systems already, so instead of having to write the code into logic that makes sure these conditions are followed, all you have to do is tell the DBMS that you're doing a transaction, and the software takes cares of the ACID requirements for you.
 >
 > **[3:03](https://www.linkedin.com/learning/programming-foundations-databases-2/acid-and-transactions-2?u=76281980&t=183)** How you do that varies by software, so we're not going to get into the details.
 >
@@ -507,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (4), power (1), [[Microsoft Word|Word]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Database Management]] (1)
 > **Definitions:** means that (4), is a  (1)
 > **Env Vars:** acid (3), dbms (1)
 > **Analogies:** for example (1), such as (1)
@@ -515,26 +507,25 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - the (1)
 
-#### Basic SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980)
+#### [Basic SQL](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=0)** - Once we have a database, we'll need to actually talk to it.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=3)** A common language used to do this is called SQL, often called Sequel, and it stands for structured query language.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=3)** A common language used to do this is called [[SQL]], often called Sequel, and it stands for structured query language.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=11)** Most relational database management system tools, also called RDBMS tools, support ANSI SQL.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=11)** Most relational [[Database Management]] system tools, also called RDBMS tools, support ANSI SQL.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=17)** That's the version of SQL defined by the American National Standards Institute, which is generally considered to be the standard or minimum most widely supported set of commands for the SQL language.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=27)** Though many tools offer their own flavor or version of the language that extends ANSI SQL to add features specific to that DBMS.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=35)** Two examples of this are T-SQL or Transact-SQL used by Microsoft SQL Server and MySQL, an open-source DBMS that includes a few other useful features on top of the SQL standard.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=35)** Two examples of this are T-SQL or [[Transact-SQL (T-SQL)|Transact-SQL]] used by [[Microsoft SQL Server]] and [[MySQL]], an open-source DBMS that includes a few other useful features on top of the SQL standard.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=45)** SQL allows us to write statements which the DBMS interprets, and that's how we interact with the data in the database, from apps, or even within the DBMS itself.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=56)** In this role of interacting with data, SQL is called a data manipulation language, or DML.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=56)** In this role of interacting with data, SQL is called a [[Data Manipulation]] language, or DML.
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=62)** SQL also offers features to manage the database itself by creating and modifying tables and controlling access to tables.
 >
@@ -552,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=106)** Expressions and predicates set parameters within which to operate.
 >
-> **[1:50](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=110)** Statements can be written inside of software that works directly with the database, like SQL Server Management Studio or phpMyAdmin.
+> **[1:50](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=110)** Statements can be written inside of software that works directly with the database, like [[Microsoft SQL Server|SQL Server]] Management Studio or phpMyAdmin.
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-databases-2/basic-sql?u=76281980&t=117)** Or they can be incorporated directly into program code in order to allow an app to access data.
 >
@@ -592,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (19), database (14), data (10), management (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
+> **Frameworks & Libraries:** [[SQL]] (19), [[Database Management]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1), [[Microsoft SQL Server]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (22), dbms (5), ansi (2), dml (2), ddl (2)
 > **Definitions:** is called (2), stands for (1)
 > **Cross-References:** later in (2)
@@ -606,8 +597,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modeling and planning a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/modeling-and-planning-a-database?u=76281980)
+#### [Modeling and planning a database](https://www.linkedin.com/learning/programming-foundations-databases-2/modeling-and-planning-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,14 +657,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8)
 > **Env Vars:** dbms (1)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - with (1)
 
-#### Naming tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/naming-tables-2?u=76281980)
+#### [Naming tables](https://www.linkedin.com/learning/programming-foundations-databases-2/naming-tables-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,7 +690,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-databases-2/naming-tables-2?u=76281980&t=46)** It wouldn't make sense to ask the database for one person's birthdays.
 >
-> **[0:51](https://www.linkedin.com/learning/programming-foundations-databases-2/naming-tables-2?u=76281980&t=51)** This way of writing the names with each word capitalized and without spaces between them is called UpperCamelCase, from the way that the words are thought to look like bumps on a camel's back.
+> **[0:51](https://www.linkedin.com/learning/programming-foundations-databases-2/naming-tables-2?u=76281980&t=51)** This way of writing the names with each [[Microsoft Word|word]] capitalized and without spaces between them is called UpperCamelCase, from the way that the words are thought to look like bumps on a camel's back.
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-databases-2/naming-tables-2?u=76281980&t=60)** There's two kinds of camel case, lower and upper, where the first word is lower-cased or upper-cased respectively.
 >
@@ -720,7 +708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** dbms (1)
 > **Definitions:** is called (1)
@@ -728,8 +716,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - usually (1)
 
-#### Columns and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/columns-and-data-types?u=76281980)
+#### [Columns and data types](https://www.linkedin.com/learning/programming-foundations-databases-2/columns-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-databases-2/columns-and-data-types?u=76281980&t=44)** For string types and for some other types, the length of the information we're storing becomes important.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-databases-2/columns-and-data-types?u=76281980&t=50)** Databases generally accept a handful of string types, including CHAR, a fixed length of characters, VARCHAR, a variable length of characters up to a certain limit, and longer text fields intended for something like a description.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-databases-2/columns-and-data-types?u=76281980&t=50)** [[Databases]] generally accept a handful of string types, including CHAR, a fixed length of characters, VARCHAR, a variable length of characters up to a certain limit, and longer text fields intended for something like a description.
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-databases-2/columns-and-data-types?u=76281980&t=62)** The database needs to know how long these fields are so it can efficiently store the information.
 >
@@ -793,19 +780,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** char (4), varchar (3), date (2), datetime (2), timestamp (2)
 > **SQL:** varchar (3), timestamp (2)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Analogies:** for example (2)
 > **Speakers:** - we (1)
 
-#### Numbers and other types
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980)
+#### [Numbers and other types](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=0)** - Databases also offer specific data types for different kinds of numbers.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=0)** - [[Databases]] also offer specific data types for different kinds of numbers.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=5)** These types are for integers, double precision numbers, floating point numbers, decimals of varying length, and more.
 >
@@ -831,7 +817,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=74)** Some databases also accommodate geographic data, graphs, objects, and other more exotic types, but we won't get into those here.
 >
-> **[1:22](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=82)** Let's take a moment and assign data types to the rest of the columns.
+> **[1:22](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=82)** Let's take a moment and assign data types to the [[Representational State Transfer (REST)|rest]] of the columns.
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=86)** Nothing new here.
 >
@@ -843,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=103)** That should be enough to describe a dish without writing a whole novel about it.
 >
-> **[1:47](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=107)** In different databases, there are more specialized types for this kind of text, like the text type in MySQL or SQL Server, or other types for even longer text, up into the multi-gigabyte range.
+> **[1:47](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=107)** In different databases, there are more specialized types for this kind of text, like the text type in [[MySQL]] or [[Microsoft SQL Server|SQL Server]], or other types for even longer text, up into the multi-gigabyte range.
 >
 > **[1:58](https://www.linkedin.com/learning/programming-foundations-databases-2/numbers-and-other-types-2?u=76281980&t=118)** But we're keeping things general here.
 >
@@ -879,7 +865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (3), database (3), [[Representational State Transfer (REST)|Rest]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (1), mysql (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
@@ -887,8 +873,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - databases (1)
 
-#### Primary and foreign keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/primary-and-foreign-keys-2?u=76281980)
+#### [Primary and foreign keys](https://www.linkedin.com/learning/programming-foundations-databases-2/primary-and-foreign-keys-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,7 +939,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), next (1), data (1), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** uuid (1), dbms (1)
 > **Analogies:** just like (1)
@@ -965,8 +949,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980)
+#### [Creating relationships](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +957,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980&t=8)** We thought about this a little bit when we were defining keys.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980&t=11)** Some databases can be used without connecting records in different tables at all.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980&t=11)** Some [[Databases]] can be used without connecting records in different tables at all.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980&t=15)** A database can simply retrieve records from one table or another table.
 >
@@ -998,19 +981,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (4), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** dbms (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - once (1)
 
-#### One-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-many-relationships-2?u=76281980)
+#### [One-to-many relationships](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-many-relationships-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-many-relationships-2?u=76281980&t=0)** - Let's take a look at the one-to-many relationship.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-many-relationships-2?u=76281980&t=3)** This is the most common type of relationship that databases use.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-many-relationships-2?u=76281980&t=3)** This is the most common type of relationship that [[Databases]] use.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-many-relationships-2?u=76281980&t=7)** It connects one piece of data, one row of a table to one or more other pieces of data.
 >
@@ -1068,16 +1050,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - let (1)
 
-#### Many-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/many-to-many-relationships-2?u=76281980)
+#### [Many-to-many relationships](https://www.linkedin.com/learning/programming-foundations-databases-2/many-to-many-relationships-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/many-to-many-relationships-2?u=76281980&t=0)** - Another relationship used frequently in databases is called a many-to-many relationship.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/many-to-many-relationships-2?u=76281980&t=0)** - Another relationship used frequently in [[Databases]] is called a many-to-many relationship.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-databases-2/many-to-many-relationships-2?u=76281980&t=6)** This model is useful when we want to associate more than one thing with more than one other thing.
 >
@@ -1139,15 +1120,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is an  (1)
 > **Env Vars:** dbms (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - another (1)
 
-#### One-to-one relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-one-relationships-2?u=76281980)
+#### [One-to-one relationships](https://www.linkedin.com/learning/programming-foundations-databases-2/one-to-one-relationships-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,20 +1165,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Security]] (1), data (1)
 > **Code Identifiers:** ipads (1)
 > **Env Vars:** dbms (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - there (1)
 
-#### Relationship rules and referential integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980)
+#### [Relationship rules and referential integrity](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=0)** - Once we've decided what our relationships will be, what they represent, and how they connect data, it's time to decide whether to enforce them.
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=8)** Databases allow us to benefit from referential integrity, which means the database will be aware of the relationship and will not let you or another user modify data in a way that violates that relationship.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=8)** [[Databases]] allow us to benefit from referential integrity, which means the database will be aware of the relationship and will not let you or another user modify data in a way that violates that relationship.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=19)** This helps us to maintain the consistency of the database.
 >
@@ -1224,7 +1202,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=84)** If we were to delete a customer record, it may be that we want that customer's orders to be deleted along with them.
 >
-> **[1:29](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=89)** Depending on your privacy restrictions or business requirements, this could be something you need to do.
+> **[1:29](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=89)** Depending on your [[Privacy]] restrictions or business requirements, this could be something you need to do.
 >
 > **[1:35](https://www.linkedin.com/learning/programming-foundations-databases-2/relationship-rules-and-referential-integrity?u=76281980&t=95)** It can be done manually, but these rules allow us to have the database perform a cascading delete, where associated records are removed in order to maintain consistency.
 >
@@ -1242,7 +1220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (4), [[Databases]] (1), [[Privacy]] (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
@@ -1254,8 +1232,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980)
+#### [Normalization](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,9 +1246,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980&t=26)** These rules are sets of formal criteria, and they build on top of each other, step by step.
 >
-> **[0:31](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980&t=31)** We move through the forms as we optimize our database to third normal form.
+> **[0:31](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980&t=31)** We move through the [[Forms]] as we optimize our database to third normal form.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980&t=35)** The definitions of these forms are pretty academic, and they're interesting to look up if you're curious about the mathematics behind how databases work.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980&t=35)** The definitions of these forms are pretty academic, and they're interesting to look up if you're curious about the mathematics behind how [[Databases]] work.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980&t=42)** When a normalization rule has been applied to a database, we can say that the database is in that normal form.
 >
@@ -1281,12 +1258,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (3), [[Forms]] (3), business (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Databases]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### First normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/first-normal-form?u=76281980)
+#### [First normal form](https://www.linkedin.com/learning/programming-foundations-databases-2/first-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,14 +1330,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (3)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - first (1)
 
-#### Second normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/second-normal-form?u=76281980)
+#### [Second normal form](https://www.linkedin.com/learning/programming-foundations-databases-2/second-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1416,8 +1390,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Third normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/third-normal-form-2?u=76281980)
+#### [Third normal form](https://www.linkedin.com/learning/programming-foundations-databases-2/third-normal-form-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,16 +1436,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (1), business (1), data (1)
 > **Definitions:** means that (2)
 > **Speakers:** - while (1)
 
-#### Denormalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/denormalization?u=76281980)
+#### [Denormalization](https://www.linkedin.com/learning/programming-foundations-databases-2/denormalization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/denormalization?u=76281980&t=0)** - While normalizing databases to third normal form is a best practice, occasionally there may be a business need or a database performance issue that requires violating the rules of normalization.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/denormalization?u=76281980&t=0)** - While normalizing [[Databases]] to third normal form is a best practice, occasionally there may be a business need or a database performance issue that requires violating the rules of normalization.
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-databases-2/denormalization?u=76281980&t=11)** Denormalization is the process of intentionally duplicating information in tables in violation of normalization rules.
 >
@@ -1502,7 +1473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), business (2), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 26.98 (1)
 > **Definitions:** is a  (1)
@@ -1516,20 +1487,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980)
+#### [Creating a database](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=0)** - After we've planned, designed, and normalized a database, the next step is to create it.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=6)** Depending on the database management system you're using, that task will either be done by writing SQL commands by hand or in a graphical environment, where software takes care of composing those commands for you.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=6)** Depending on the [[Database Management]] system you're using, that task will either be done by writing [[SQL]] commands by hand or in a graphical environment, where software takes care of composing those commands for you.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=16)** I can't show you how to create a database in every possible DBMS, so I want to talk about the general approach and about one important distinction in how we interact with the database.
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=25)** Chances are, if you're working with a relational database, you'll be communicating with it using SQL or a structured query language.
 >
-> **[0:32](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=32)** We saw a little bit of this earlier, and you may remember that I mentioned SQL can be used both as a DDL, or data definition language, and a DML, or a data manipulation language.
+> **[0:32](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=32)** We saw a little bit of this earlier, and you may remember that I mentioned SQL can be used both as a DDL, or data definition language, and a DML, or a [[Data Manipulation]] language.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=42)** When we create a database or modify its schema, we'll use SQL as a DDL, and when we work with data inside the structure of a database, we'll use SQL as a DML.
 >
@@ -1539,7 +1509,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=60)** I just want to show you how it's done in general.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=62)** As you learn more about databases, about SQL, and about your DBMS in particular, you'll learn how to do this on your system.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=62)** As you learn more about [[Databases]], about SQL, and about your DBMS in particular, you'll learn how to do this on your system.
 >
 > **[1:09](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=69)** Before we define tables, we need to create a database, and in SQL, that's done like this.
 >
@@ -1547,23 +1517,22 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=79)** Now that I have a database, I'm going to switch over to software that will let me show you SQL statements and their results.
 >
-> **[1:25](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=85)** For the rest of this chapter, I'll go through some examples using SQL that you can watch but that you don't need to follow along with.
+> **[1:25](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=85)** For the [[Representational State Transfer (REST)|rest]] of this chapter, I'll go through some examples using SQL that you can watch but that you don't need to follow along with.
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980&t=91)** If you have a DBMS to use, that's great, but the intention here is just to show you how SQL queries work in general.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[SQL]] (10), data (2), next (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Database Management]] (1), [[Data Manipulation]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (10), dbms (3), ddl (2), dml (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - after (1)
 
-#### Creating tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980)
+#### [Creating tables](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980&t=0)** - [Instructor] Once I have a database I can work with I'll use the CREATE keyword in SQL along with parameters for our fields to tell the database what we want a table to look like.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980&t=0)** - [Instructor] Once I have a database I can work with I'll use the CREATE keyword in [[SQL]] along with parameters for our fields to tell the database what we want a table to look like.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980&t=9)** In SQL we'll start writing a description of how to create a table and we'll give it the name Customers.
 >
@@ -1621,23 +1590,22 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980&t=145)** These are used to define and refine the schema of the database.
 >
-> **[2:28](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980&t=148)** Once a schema is in place we need to use SQL as a data manipulation language to work with the data itself.
+> **[2:28](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-tables?u=76281980&t=148)** Once a schema is in place we need to use SQL as a [[Data Manipulation]] language to work with the data itself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[SQL]] (4), data (3), business (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Manipulation]] (1)
 > **Env Vars:** sql (4), create (1), null (1), dbms (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980)
+#### [Writing SQL queries](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=0)** - [Instructor] Now I want to shift gears a little bit and show you how we manipulate data in the database using SQL, I've taken a moment to finish creating the database and I've added some data that will let us see how the database will work, one common task you'll need to do with SQL is write queries.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=0)** - [Instructor] Now I want to shift gears a little bit and show you how we manipulate data in the database using [[SQL]], I've taken a moment to finish creating the database and I've added some data that will let us see how the database will work, one common task you'll need to do with SQL is write queries.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=15)** A query returns specific information that we ask for.
 >
@@ -1645,7 +1613,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=23)** These videos are intended more as a demonstration than a tutorial on the specifics of SQL.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=28)** If you'd like to learn more about SQL in particular take a look at [[Learning SQL Programming]] here on LinkedIn Learning, when we ask for information from a database we'll use the select statement.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=28)** If you'd like to learn more about SQL in particular take a look at [[Learning SQL Programming]] here on [[LinkedIn]] Learning, when we ask for information from a database we'll use the select statement.
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-databases-2/writing-sql-queries?u=76281980&t=38)** This tells the database we want to see information from specific fields, I'll write a select statement here and to start out I'll use the asterisk or star character which SQL treats as a wildcard, or a character that indicates all possible values in order to ask the database to give me information from all the fields in the table that I'll specify.
 >
@@ -1679,15 +1647,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[SQL]] (7), data (3), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[LinkedIn]] (1)
 > **Env Vars:** sql (7)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Narrowing query results
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/narrowing-query-results?u=76281980)
+#### [Narrowing query results](https://www.linkedin.com/learning/programming-foundations-databases-2/narrowing-query-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,14 +1744,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (3), [[Search]] (1)
 > **SQL:** where (5), select (3)
 > **Env Vars:** where (5), select (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Sorting results
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/sorting-results?u=76281980)
+#### [Sorting results](https://www.linkedin.com/learning/programming-foundations-databases-2/sorting-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,17 +1793,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), [[Search]] (1), power (1)
 > **Env Vars:** asc (1), desc (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/aggregate-functions?u=76281980)
+#### [Aggregate functions](https://www.linkedin.com/learning/programming-foundations-databases-2/aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/aggregate-functions?u=76281980&t=0)** - [Instructor] SQL offers aggregate functions which use more than one piece of data to generate a value.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/aggregate-functions?u=76281980&t=0)** - [Instructor] [[SQL]] offers aggregate functions which use more than one piece of data to generate a value.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-databases-2/aggregate-functions?u=76281980&t=6)** One of the most common aggregate functions is count, which returns the number of records in a particular field from rows that match a particular condition.
 >
@@ -1896,17 +1859,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1), database (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** avg (2), sql (1)
 > **Versions:** 176.93 (1), 9.99 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/joining-tables?u=76281980)
+#### [Joining tables](https://www.linkedin.com/learning/programming-foundations-databases-2/joining-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/joining-tables?u=76281980&t=0)** - [Instructor] One of the powerful features of relational databases is the ability to connect records across different relations or tables.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/joining-tables?u=76281980&t=0)** - [Instructor] One of the powerful features of [[Relational Databases]] is the ability to connect records across different relations or tables.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-databases-2/joining-tables?u=76281980&t=7)** Those relationships are part of our data model, and when we're getting data from a database, we can write a query that uses the connections between data to return us a useful result.
 >
@@ -1982,7 +1944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1)
 > **CLI Commands:** make (3)
 > **SQL:** join (2), select (1)
 > **Env Vars:** join (2), select (1)
@@ -1990,12 +1952,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying data
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980)
+#### [Modifying data](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=0)** - [Instructor] While we can query information from a database with SQL, we can also use SQL to modify data, retrieving data or reading it is the R in the CRUD acronym.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=0)** - [Instructor] While we can query information from a database with [[SQL]], we can also use SQL to modify data, retrieving data or reading it is the R in the CRUD acronym.
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=9)** Let's take a look at the others, create, update, and delete.
 >
@@ -2015,7 +1976,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=75)** When working with statements that will modify data in the database, it's always a good idea to do a select first to make sure you're targeting the records you think you are.
 >
-> **[1:23](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=83)** I'll write select star from customers where first name equals Taylor and last name equals Jenkins, and I'll run the query.
+> **[1:23](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=83)** I'll write select star from customers where first name equals Taylor and last name equals [[Jenkins]], and I'll run the query.
 >
 > **[1:40](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=100)** Let's change the email address for a Taylor Jenkins who lives in Florida, we've got two customers by that name so to be precise let's work with a unique key for the customer instead of trying to target them based on non-key fields.
 >
@@ -2025,7 +1986,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=122)** I'll write update and the table name customers, set email the field name equals Tjenkins@[landonhotel.com](https://landonhotel.com)
 >
-> **[2:17](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=137)** where customer ID equals one, if I left off this conditional clause here the database would update the email address for all the records in the table to this email address and generally speaking there's no undo button in databases.
+> **[2:17](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=137)** where customer ID equals one, if I left off this conditional clause here the database would update the email address for all the records in the table to this email address and generally speaking there's no undo button in [[Databases]].
 >
 > **[2:29](https://www.linkedin.com/learning/programming-foundations-databases-2/modifying-data?u=76281980&t=149)** Sometimes that behavior is useful, but for this purpose it's not, and if we just use the names to match two records would be updated instead of just the one we want.
 >
@@ -2051,7 +2012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (8), [[SQL]] (3), [[Jenkins]] (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Jenkins]] (3), [[Databases]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sql (3), crud (1)
 > **File Paths:** d.c (2)
@@ -2065,8 +2026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Indexes, transactions, and stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980)
+#### [Indexes, transactions, and stored procedures](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2092,7 +2052,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980&t=59)** Even though I mentioned transactions earlier, I want to touch on them here again.
 >
-> **[1:03](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980&t=63)** Once you learn to read SQL, it's easy to write up some queries and statements and just start using your database through a command prompt or in an app.
+> **[1:03](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980&t=63)** Once you learn to read [[SQL]], it's easy to write up some queries and statements and just start using your database through a command prompt or in an app.
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980&t=71)** Constraints that you put in place can help protect data, but it's still important to make sure your queries aren't causing integrity problems with the database.
 >
@@ -2124,7 +2084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (6), [[Search]] (3), [[SQL]] (2), prompt (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** dbms (3), sql (2)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -2133,16 +2093,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - indexes (1)
 
-#### Access control, compliance, and injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980)
+#### [Access control, compliance, and injection](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=0)** - We haven't talked about security for our simple database.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=3)** But this is an important aspect of databases, especially when they contain personally identifiable information or other sensitive data.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=3)** But this is an important aspect of [[Databases]], especially when they contain personally identifiable information or other sensitive data.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=10)** Most database management systems provide various access control mechanisms, including user accounts and control over whether certain people can access certain tables or even individual columns.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=10)** Most [[Database Management]] systems provide various access control mechanisms, including user accounts and control over whether certain people can access certain tables or even individual columns.
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=21)** In the database we can grant user varying levels of access to hold databases, tables, and even specific actions.
 >
@@ -2166,7 +2125,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=86)** Normally we expected a user will enter valid information into a field.
 >
-> **[1:30](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=90)** But an attacker could try to enter a value that is part of an SQL command to hijack the query we think we're running and change how it works.
+> **[1:30](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=90)** But an attacker could try to enter a value that is part of an [[SQL]] command to hijack the query we think we're running and change how it works.
 >
 > **[1:38](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=98)** This is called SQL injection.
 >
@@ -2180,7 +2139,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=130)** Instead of sending us a full name they sent us a piece of SQL that ends the regular command and adds another command that erases the whole customers table.
 >
-> **[2:19](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=139)** And then to keep the SQL statement valid the attacker adds a comment at the end that keeps the database from trying to use the rest of the original command.
+> **[2:19](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=139)** And then to keep the SQL statement valid the attacker adds a comment at the end that keeps the database from trying to use the [[Representational State Transfer (REST)|rest]] of the original command.
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-databases-2/access-control-compliance-and-injection?u=76281980&t=147)** Proper design of access control, best practices for interacting with data, safety features offered by programming languages, and proper processing of data that's entered can all help to secure a database against injection attacks.
 >
@@ -2196,7 +2155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (7), [[SQL]] (7), [[Security]] (5), [[Databases]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Databases]] (2), [[Database Management]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (7), pii (1), hipaa (1), gdpr (1)
 > **Definitions:** is an  (1), is called (1)
 > **Analogies:** for example (1)
@@ -2204,22 +2163,21 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - we (1)
 
-#### Software options
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980)
+#### [Software options](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=0)** - When planning, building, and using a database, there are many database management systems to choose from.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=0)** - When planning, building, and using a database, there are many [[Database Management]] systems to choose from.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=5)** Common relational database management systems include Microsoft SQL Server, Oracle, dBase, FileMaker Pro, Microsoft Access, MySQL, MariaDB, SAP HANA, and SQLite.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=5)** Common relational database management systems include [[Microsoft SQL Server]], Oracle, dBase, FileMaker Pro, [[Microsoft]] Access, [[MySQL]], MariaDB, SAP HANA, and SQLite.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=19)** some systems offer a whole graphical environment to build, manage, and edit the database.
 >
-> **[0:24](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=24)** Others provide a text console where you'll write SQL directly to work with the database.
+> **[0:24](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=24)** Others provide a text console where you'll write [[SQL]] directly to work with the database.
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=29)** While the interfaces and sets of features differ, the general principles are the same.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=33)** Some of these tools are intended for small solutions with just a few users, and these are called desktop databases.
+> **[0:33](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=33)** Some of these tools are intended for small solutions with just a few users, and these are called desktop [[Databases]].
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=40)** Usually, but not always, this type of database is hosted on a workstation rather than a dedicated server.
 >
@@ -2229,11 +2187,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=61)** These are often called enterprise database management systems.
 >
-> **[1:04](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=64)** Examples include SQL Server, Oracle, and SAP HANA.
+> **[1:04](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=64)** Examples include [[Microsoft SQL Server|SQL Server]], Oracle, and SAP HANA.
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=68)** They can be used for smaller workloads, too, but the licensing and infrastructure costs for some of them may not be worth it for small projects.
 >
-> **[1:14](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=74)** Other solutions like MariaDB and MySQL may be the right fit for many different applications, especially for prototyping an idea or providing access to dozens, hundreds, or thousands of clients.
+> **[1:14](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=74)** Other solutions like MariaDB and MySQL may be the right fit for many different applications, especially for [[Prototyping]] an idea or providing access to dozens, hundreds, or thousands of clients.
 >
 > **[1:25](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=85)** DBMS tools can generally be used for most scenarios, though in certain domains and for certain uses, some are better suited than others.
 >
@@ -2241,19 +2199,19 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=97)** SQLite is a great choice for very small databases like you might use for storing user preferences on a mobile device.
 >
-> **[1:43](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=103)** When you get into the realm of big data, that term which itself has kind of a fuzzy definition, sometimes you need to move beyond traditional relational database management systems to processing frameworks like Hadoop or Spark.
+> **[1:43](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=103)** When you get into the realm of [[Big Data]], that term which itself has kind of a fuzzy definition, sometimes you need to move beyond traditional relational database management systems to processing frameworks like [[Hadoop]] or Spark.
 >
 > **[1:54](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=114)** Depending on your needs, you might be able to choose the RDBMS you'll work with yourself, or if you're working in an organization, they may already have an RDBMS in place, and you'll need to learn how to work with that particular tool.
 >
-> **[2:07](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=127)** while relational databases are extremely common, not all data can be stored in relations or tables.
+> **[2:07](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=127)** while [[Relational Databases]] are extremely common, not all data can be stored in relations or tables.
 >
 > **[2:13](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=133)** To accommodate this need, there are other kinds of databases which store information in other ways.
 >
-> **[2:18](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=138)** A popular term for this kind of database is NoSQL, which stands for Not Only SQL, and NoSQL databases can be anything, from just a collection of unstructured data to key-value pairs to graphs like the Facebook social graph to objects, geographic data points, and streams of information, like posts and comments on social media websites.
+> **[2:18](https://www.linkedin.com/learning/programming-foundations-databases-2/software-options?u=76281980&t=138)** A popular term for this kind of database is [[NoSQL]], which stands for Not Only SQL, and NoSQL databases can be anything, from just a collection of [[Unstructured Data]] to key-value pairs to graphs like the Facebook social graph to objects, geographic data points, and streams of information, like posts and comments on social media websites.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), management (4), [[Databases]] (4), [[MySQL]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Database Management]] (4), [[Databases]] (4), [[MySQL]] (2), [[SQL]] (2), [[NoSQL]] (2)
 > **Env Vars:** sql (4), sap (2), hana (2), rdbms (2), dbms (1)
 > **Definitions:** is an  (1), is a  (1), stands for (1)
 > **CLI Commands:** mysql (2)
@@ -2271,18 +2229,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=0)** - In this course, we've planned, diagrammed, normalized created and queried a basic database.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=6)** We've taken a look at the fundamentals of relational databases, and learned about the principles that apply regardless of what specific relational database management system you're using.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=6)** We've taken a look at the fundamentals of [[Relational Databases]], and learned about the principles that apply regardless of what specific relational [[Database Management]] system you're using.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=16)** Now that you've had a high level look at the concepts, it's time to take some further steps in your learning journey.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=22)** It's a good idea to learn more about SQL, the language we use to query most relational databases.
+> **[0:22](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=22)** It's a good idea to learn more about [[SQL]], the language we use to query most relational databases.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=27)** Take a look at my course called [[Learning SQL Programming]] for a hands on introduction to the language.
 >
@@ -2290,9 +2247,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=36)** Or to take some time to look at software options if you're just getting started.
 >
-> **[0:40](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=40)** Here at LinkedIn Learning, we offer courses about Microsoft SQL Server, MySQL, Oracle, Microsoft Access, FileMaker Pro and other tools as well.
+> **[0:40](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=40)** Here at [[LinkedIn]] Learning, we offer courses about [[Microsoft SQL Server]], [[MySQL]], Oracle, [[Microsoft]] Access, FileMaker Pro and other tools as well.
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=49)** Throughout many of our programming courses, you'll find information about using databases within your own app.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=49)** Throughout many of our programming courses, you'll find information about using [[Databases]] within your own app.
 >
 > **[0:54](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980&t=54)** And we offer other courses that dig into the concepts behind relational databases even more.
 >
@@ -2302,7 +2259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Relational Databases]] (3), database (2), [[SQL]] (2), [[Programming]] (2), management (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (3), [[SQL]] (2), [[Database Management]] (1), [[LinkedIn]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (3), rdbms (1)
 > **CLI Commands:** mysql (1), find (1)
 > **Prerequisites:** getting started (1)

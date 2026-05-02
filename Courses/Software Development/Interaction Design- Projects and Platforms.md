@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design anything
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980)
+#### [Design anything](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980&t=35)** I'd like to give you some tools you can use to find your way forward, no matter what the obstacle.
 >
-> **[0:41](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980&t=41)** In my LinkedIn Learning course, I'm going to share specific examples of the concepts and approaches to solving design problems that I've learned throughout my career.
+> **[0:41](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980&t=41)** In my [[LinkedIn]] Learning course, I'm going to share specific examples of the concepts and approaches to solving design problems that I've learned throughout my career.
 >
 > **[0:50](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980&t=50)** By exploring a wide variety of use cases, I'll explain how to approach the diversity of projects that will undoubtedly come your way.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), application (1), product (1), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [diane] (1)
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User research overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980)
+#### [User research overview](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=24)** For example, if you're embarking on a new product or service, you'll want to do some interviews to get a sense of what users need to determine how to approach the design.
 >
-> **[0:33](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=33)** If you've already created a design, you might want to do some usability testing to see if the design is easy to use.
+> **[0:33](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=33)** If you've already created a design, you might want to do some [[Usability Testing]] to see if the design is easy to use.
 >
 > **[0:39](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=39)** These are different methods of user research for different parts of the design process.
 >
@@ -147,11 +145,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=81)** Quantitative research focuses on measuring user behavior and relies on numerical data to help quantify problems.
 >
-> **[1:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=88)** Typical quantitative approaches for design research are surveys, web analytics, and eye tracking.
+> **[1:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=88)** Typical quantitative approaches for design research are surveys, [[Web Analytics]], and eye tracking.
 >
 > **[1:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=96)** Both approaches are useful for informing your designs, and most times, you'll need both to fully understand the design problem.
 >
-> **[1:44](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=104)** The main benefits of user research is that you'll hear directly from the user, including their frustrations, opportunities for new products and services, or gaps in the current offerings.
+> **[1:44](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=104)** The main benefits of user research is that you'll hear directly from the user, including their frustrations, opportunities for new [[Microsoft Products|products]] and services, or gaps in the current offerings.
 >
 > **[1:55](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980&t=115)** Good design research will help you understand the product from the user's perspective and will give you the information you need to design the right experience or address needs in the current experience.
 >
@@ -167,14 +165,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (3), web (2), [[Analytics]] (2), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Web Analytics]] (2), [[Usability Testing]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** nps (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### User archetypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980)
+#### [User archetypes](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=158)** Maybe some calender reminders or notifications when a document has been submitted.
 >
-> **[2:43](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=163)** Here's another example from Atlassian, the company behind Confluence and Gira Project Management Software.
+> **[2:43](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=163)** Here's another example from [[Atlassian]], the company behind [[Confluence]] and Gira Project Management Software.
 >
 > **[2:49](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=169)** This is a unique approach to personas.
 >
@@ -242,13 +239,13 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=188)** When I read these questions around configurer, I'm thinking about how can I design a system with enough flexibility by exposing certain types of data or adding filters with the ability to save?
 >
-> **[3:20](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=200)** The Maker section helps me by challenging my design thinking into making sure the design is clear and maps to the user's understanding.
+> **[3:20](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=200)** The Maker section helps me by challenging my [[Design Thinking]] into making sure the design is clear and maps to the user's understanding.
 >
-> **[3:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=208)** This approach is more about making the teams think about the products they're creating without being prescriptive.
+> **[3:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=208)** This approach is more about making the teams think about the [[Microsoft Products|products]] they're creating without being prescriptive.
 >
 > **[3:35](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=215)** Good archetypes give you enough information about the user that will affect how you design a product.
 >
-> **[3:41](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=221)** They will also give the stakeholders and product development team enough information to help them understand which problems to solve for the user.
+> **[3:41](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=221)** They will also give the stakeholders and [[Product Development]] team enough information to help them understand which problems to solve for the user.
 >
 > **[3:49](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-archetypes?u=76281980&t=229)** This is the difference between marketing personas and design personas.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), teams (2), management (2), [[Product Development]] (2), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Atlassian]] (1), [[Confluence]] (1), [[Design Thinking]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
@@ -271,8 +268,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Context of use
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980)
+#### [Context of use](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=27)** Behavioral describes the user's activities and tasks.
 >
-> **[0:30](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=30)** And systems refers to how the product is interrelated to other products in a cohesive system.
+> **[0:30](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=30)** And systems refers to how the product is interrelated to other [[Microsoft Products|products]] in a cohesive system.
 >
 > **[0:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=36)** For example, when ordering a product online, there's a logistics process and a customer service system, all of which need to be taken into account when thinking about how the product fits into the overall ecosystem and product experience.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=90)** The customers had elaborate workarounds for minor tasks, and the experience was much slower when not on the company network.
 >
-> **[1:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=98)** In my example, the product had been developed for a specific set of environmental conditions, an office work environment with a desktop set up with multiple monitors, the behavioral aspect of elaborate task workarounds, and from the systems perspective, the product required full network access to work efficiently.
+> **[1:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=98)** In my example, the product had been developed for a specific set of environmental conditions, an [[Microsoft Office|office]] work environment with a desktop set up with multiple monitors, the behavioral aspect of elaborate task workarounds, and from the systems perspective, the product required full network access to work efficiently.
 >
 > **[1:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/context-of-use?u=76281980&t=118)** The product was unusable at home on the couch with your laptop.
 >
@@ -310,14 +306,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (17), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** refers to (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980)
+#### [Defining scenarios](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=36)** Let's look at an example of a scenario for a file sharing service.
 >
-> **[0:39](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=39)** John has a meeting with the sales team and wants to share sales numbers with them before the meeting.
+> **[0:39](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=39)** [[John the Ripper|John]] has a meeting with the sales team and wants to share sales numbers with them before the meeting.
 >
 > **[0:45](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=45)** John updates documents on his laptop at home and syncs it to his work folder.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=111)** Taking our scenario, I would start to list out the key use cases.
 >
-> **[1:57](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=117)** For example, file sync from desktop client to web, real-time updates from desktop to mobile, and file editing from the mobile application.
+> **[1:57](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=117)** For example, file sync from desktop client to web, [[Real-Time]] updates from desktop to mobile, and file editing from the mobile application.
 >
 > **[2:07](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-scenarios-3?u=76281980&t=127)** Use cases are a description of a feature or a requirement.
 >
@@ -375,13 +370,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), web (1), [[Real-Time]] (1), mobile application (1), feature (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Defining design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980)
+#### [Defining design principles](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=63)** These principles are more generalized and not necessarily at the product level, but are specific to how they approach design in general.
 >
-> **[1:12](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=72)** The one experience principle is a good one because it's more difficult than it seems in large companies to have a one experience feel, so I can see this principle inciting decision-making.
+> **[1:12](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=72)** The one experience principle is a good one because it's more difficult than it seems in large companies to have a one experience feel, so I can see this principle inciting [[Decision-Making]].
 >
 > **[1:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=84)** Here's one more example from Firefox, a Web browser.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=127)** Having a clear set of design principles ensures that everyone is held accountable for the product experience.
 >
-> **[2:15](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=135)** It seems obvious, but when it comes to product development, there's a lot of competing priorities and features fall off the road map or get shifted.
+> **[2:15](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=135)** It seems obvious, but when it comes to [[Product Development]], there's a lot of competing priorities and features fall off the road map or get shifted.
 >
 > **[2:23](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/defining-design-principles?u=76281980&t=143)** After creating them, test out your principles against a product decision and see if the team can make decisions against them.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), ux (3), [[Decision-Making]] (2), management (1), web (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Product Development]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ebay (1)
@@ -439,8 +433,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing for novices and beginners
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980)
+#### [Designing for novices and beginners](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=145)** Here's an example from Podeo, a project management app.
 >
-> **[2:29](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=149)** A simple approach is a tooltip in various intervals of product use, and here's an example from Outlook.
+> **[2:29](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=149)** A simple approach is a tooltip in various intervals of product use, and here's an example from [[Microsoft Outlook|Outlook]].
 >
 > **[2:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=158)** This is also the case for voice-enabled tasks.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=179)** For example, Gmail draws attention to the toolbar after using Gmail for a while.
 >
-> **[3:05](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=185)** While we'd like to design products that are self-explanatory some products are complex and will always require some sort of help.
+> **[3:05](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=185)** While we'd like to design [[Microsoft Products|products]] that are self-explanatory some products are complex and will always require some sort of help.
 >
 > **[3:13](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=193)** We just have to make sure we provide this help as contextual as possible.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=205)** Here's an example from Outlook that uses a pervasive Help panel.
 >
-> **[3:29](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=209)** Unity, a game engine, opens the help documentation to the page contextual to the component.
+> **[3:29](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=209)** [[Unity]], a game engine, opens the help documentation to the page contextual to the component.
 >
 > **[3:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-novices-and-beginners?u=76281980&t=217)** Onboarding patterns are also present on mobile devices and you may have seen them as onboarding screens, or cards alerting you of new functionality.
 >
@@ -520,15 +513,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Products|Products]] (2), power (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Products|Products]] (2), [[Unity]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing for intermediate and experts
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980)
+#### [Designing for intermediate and experts](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +556,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=112)** For example, if you're working in a system in which you have to run reports or create a dashboard, instead of selecting the fields you need every time, you can save the report and run the same report again.
 >
-> **[2:03](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=123)** You can see this example in Google Analytics.
+> **[2:03](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=123)** You can see this example in [[Google]] Analytics.
 >
 > **[2:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=126)** There's an option to create a shortcut which opens the dialog to save the report.
 >
@@ -572,7 +564,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=138)** If you're working in a tool all day, it can be laborious to have to move your mouse to buttons on the interface and it's often faster to use the keyboard.
 >
-> **[2:26](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=146)** There are conventional keyboard shortcuts like command S for save or control S on Windows.
+> **[2:26](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=146)** There are conventional keyboard shortcuts like command S for save or control S on [[Windows]].
 >
 > **[2:32](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=152)** Allowing the user to create their own set of keyboard shortcuts is also a good option to give users full control over the application.
 >
@@ -582,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=174)** Integrating into other tools allows for better workflow customization.
 >
-> **[2:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=178)** For example, for UX designers working in multiple tools, you might be using Sketch for wireframes and want to quickly prototype ideas in a prototyping tool like Overflow, like in this example.
+> **[2:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=178)** For example, for UX designers working in multiple tools, you might be using Sketch for wireframes and want to quickly prototype ideas in a [[Prototyping]] tool like Overflow, like in this example.
 >
 > **[3:10](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-for-intermediate-and-experts?u=76281980&t=190)** And integration between these tools makes it faster to do that rather than exporting and importing screens manually.
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), product (1), [[Google]] (1), [[Analytics]] (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Windows]] (1), [[Prototyping]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is an  (1), refers to (1)
 > **CLI Commands:** make (1)
@@ -603,14 +595,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consumer experience considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980)
+#### [Consumer experience considerations](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=0)** - You may have heard the term consumer as it applies to user experience.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=0)** - You may have heard the term consumer as it applies to [[User Experience (UX)|user experience]].
 >
-> **[0:04](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=4)** Designing consumer products means that your products are designed for use by customers directly and not for a business or business users.
+> **[0:04](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=4)** Designing consumer [[Microsoft Products|products]] means that your products are designed for use by customers directly and not for a business or business users.
 >
 > **[0:13](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=13)** For example, if we're talking about the webspace, consumer products would include sites like Amazon, eBay, and YouTube.
 >
@@ -634,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=80)** Your designs will have to take into account localization, or in some cases you may have to design a different experience altogether for a different country.
 >
-> **[1:30](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=90)** Another difference is that your work as a designer will be tied closely to business metrics and analytics.
+> **[1:30](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=90)** Another difference is that your work as a designer will be tied closely to [[Business Metrics]] and analytics.
 >
 > **[1:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980&t=97)** Consumer products are often measured through product analytics, and design updates can impact revenue directly.
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), product (7), [[Microsoft Products|Products]] (6), [[Analytics]] (4), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[User Experience (UX)|User experience]] (1), [[Business Metrics]] (1)
 > **Code Identifiers:** ebay (1)
 > **URLs:** [youtube.com](https://youtube.com) (1)
 > **UI Navigation:** go to (1)
@@ -656,8 +647,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### Designing ecommerce experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-ecommerce-experiences?u=76281980)
+#### [Designing ecommerce experiences](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-ecommerce-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +681,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-ecommerce-experiences?u=76281980&t=82)** The third is to do product research.
 >
-> **[1:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-ecommerce-experiences?u=76281980&t=84)** This seems similar to browsing, but this user may have narrowed down products and is still comparison shopping or getting more details.
+> **[1:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-ecommerce-experiences?u=76281980&t=84)** This seems similar to browsing, but this user may have narrowed down [[Microsoft Products|products]] and is still comparison shopping or getting more details.
 >
 > **[1:32](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-ecommerce-experiences?u=76281980&t=92)** And the last goal is to return a product.
 >
@@ -797,15 +787,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Search]] (5), [[Microsoft Products|Products]] (3), business (3), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** find (8), make (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for example (2), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing social experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980)
+#### [Designing social experiences](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=6)** I'm broadening the definition of social to discuss elements of social that include activity feeds, following, sharing, and connecting.
 >
-> **[0:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=14)** Business platforms also use social elements integrated into their products to encourage organizational sharing and collaboration.
+> **[0:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=14)** Business platforms also use social elements integrated into their [[Microsoft Products|products]] to encourage organizational sharing and collaboration.
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=21)** Humor is an example of this.
 >
@@ -827,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=49)** One is a group's admin.
 >
-> **[0:51](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=51)** This is someone who may not share openly but has a small group in which he shares content to regularly with a goal of moderating the group's privacy and content.
+> **[0:51](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=51)** This is someone who may not share openly but has a small group in which he shares content to regularly with a goal of moderating the group's [[Privacy]] and content.
 >
 > **[1:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=60)** Another archetype is someone who wants to share content and engage with others frequently.
 >
@@ -865,7 +854,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=156)** Almost every interaction is a click away and users are rewarded with immediate design feedback.
 >
-> **[2:42](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=162)** You can see this in the LinkedIn experience.
+> **[2:42](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=162)** You can see this in the [[LinkedIn]] experience.
 >
 > **[2:45](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=165)** Social experiences follow similar paradigms and patterns as a way of familiarizing users to the product.
 >
@@ -889,7 +878,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=230)** Social profiles are designed to share personal interest with others to encourage people to connect with us.
 >
-> **[3:56](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=236)** Here's some examples from Facebook, Twitter, and GitHub.
+> **[3:56](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=236)** Here's some examples from Facebook, Twitter, and [[GitHub]].
 >
 > **[4:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-social-experiences?u=76281980&t=240)** For our goal of adding friends, these elements are designed to support that goal.
 >
@@ -899,15 +888,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), business (1), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing content-rich experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980)
+#### [Designing content-rich experiences](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=22)** The selected content is delivered to the user through a feed or populated as a row of content.
 >
-> **[0:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=28)** Content-rich interfaces use recommendation engines or algorithms that learn which types of content is interesting to the user.
+> **[0:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=28)** Content-rich interfaces use recommendation engines or [[Algorithms]] that learn which types of content is interesting to the user.
 >
 > **[0:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=36)** This is based on attributes like previous consumption habits and are used to recommend similar types of content.
 >
@@ -955,7 +943,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=139)** Let's take a look at the layout of some content experiences and take notice of some approaches.
 >
-> **[2:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=145)** In this first example, The New York Times, the layout on the desktop is in a grid, with a mix of different tile layouts and different size typography headings.
+> **[2:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=145)** In this first example, The New York Times, the layout on the desktop is in a grid, with a mix of different tile layouts and different size [[Typography]] headings.
 >
 > **[2:34](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-content-rich-experiences?u=76281980&t=154)** The grid layout allows for flexibility of presentation of the content.
 >
@@ -1007,7 +995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), [[Typography]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Typography]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
@@ -1016,8 +1004,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Consumer experience for mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980)
+#### [Consumer experience for mobile](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,7 +1038,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=89)** Best practices for mobile menus are to use a navigation that's easily viewed so people understand how to move around the app.
 >
-> **[1:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=97)** Let's talk about filling out forms on mobile.
+> **[1:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=97)** Let's talk about filling out [[Forms]] on mobile.
 >
 > **[1:40](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=100)** Forms on mobile are prevalent when needing to create an account for shopping experience or if you have to sign in to pay for something.
 >
@@ -1065,7 +1052,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=132)** Give users the option for a text message to recover their password.
 >
-> **[2:16](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=136)** For payment, using convenient pay services like Apple or Android Pay that are already integrated into their phone.
+> **[2:16](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=136)** For payment, using convenient pay services like Apple or [[Android]] Pay that are already integrated into their phone.
 >
 > **[2:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=144)** Design for top tasks and activities.
 >
@@ -1105,13 +1092,13 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=238)** This seems obvious but make sure your tap targets are big enough and have enough distance between them to tap easily.
 >
-> **[4:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=246)** Use standard design patterns and gestures since it's much more difficult to discover gestures beyond standard swipes and taps on mobile.
+> **[4:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=246)** Use standard [[Design Patterns]] and gestures since it's much more difficult to discover gestures beyond standard swipes and taps on mobile.
 >
 > **[4:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-for-mobile?u=76281980&t=254)** Designing for consumer mobile is all about looking for opportunities to reduce friction, help users get the information they need all while keeping them engaged.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), [[Search]] (1), [[Android]] (1), application (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Android]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1123,22 +1110,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enterprise experience considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980)
+#### [Enterprise experience considerations](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=0)** - [Instructor] You may have heard the term enterprise as it applies to user experience.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=0)** - [Instructor] You may have heard the term enterprise as it applies to [[User Experience (UX)|user experience]].
 >
-> **[0:05](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=5)** Designing enterprise products means that your products are designed for business users.
+> **[0:05](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=5)** Designing enterprise [[Microsoft Products|products]] means that your products are designed for business users.
 >
 > **[0:10](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=10)** Typically these are products that are designed for doing work.
 >
-> **[0:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=14)** For example, some brands that come to mind when thinking about enterprise users are Microsoft, Oracle, and Salesforce.
+> **[0:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=14)** For example, some brands that come to mind when thinking about enterprise users are [[Microsoft]], Oracle, and Salesforce.
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=21)** However, any brand that sells to consumer users may have an enterprise aspect to it.
 >
-> **[0:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=28)** Facebook and Google are traditionally thought of as a consumer product, but its ads and analytics products cater to marketers who are using the tool as part of their work.
+> **[0:28](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=28)** Facebook and [[Google]] are traditionally thought of as a consumer product, but its ads and analytics products cater to marketers who are using the tool as part of their work.
 >
 > **[0:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=37)** When designing for enterprise experiences, you're designing for complex workflows.
 >
@@ -1164,7 +1150,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=111)** Using Salesforce again as an example, sales reps often email clients to check in or keep them updated.
 >
-> **[1:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=118)** To streamline this workflow, Salesforce has an add-in for Outlook to associate key pieces of information like accounts and contacts with that email.
+> **[1:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=118)** To streamline this workflow, Salesforce has an add-in for [[Microsoft Outlook|Outlook]] to associate key pieces of information like accounts and contacts with that email.
 >
 > **[2:09](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980&t=129)** As part of designing for how people work, the goal is typically to increase productivity and ease of use through optimizing workflows.
 >
@@ -1184,19 +1170,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), business (4), product (2), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), [[Google]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing software and web applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980)
+#### [Designing software and web applications](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=0)** - [Instructor] The user-centered design process applies to every type of design problem.
 >
-> **[0:04](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=4)** When we distinguish between platforms, it's because the goals and needs of users are different and design patterns and interactions might differ between platforms.
+> **[0:04](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=4)** When we distinguish between platforms, it's because the goals and needs of users are different and [[Design Patterns]] and interactions might differ between platforms.
 >
 > **[0:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=14)** For this video, I'm scoping software and web applications for the enterprise user.
 >
@@ -1220,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=81)** Doing contextual inquiries and user research will give you a good understanding of what your users are doing.
 >
-> **[1:27](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=87)** Let's imagine that we're designing a customer service system that handles customer service request, coupons, customer inquiries, and support for an e-commerce site.
+> **[1:27](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=87)** Let's imagine that we're designing a customer service system that handles customer service request, coupons, customer inquiries, and support for an [[E-Commerce]] site.
 >
 > **[1:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=98)** This example is to illustrate how you might approach a complex workflow with multiple users and you'll want to employ a similar process, but your workflow and your problem might be different.
 >
@@ -1306,7 +1291,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=370)** Here's an example in InDesign of a panel with left align headings and fields, making it easier to scan.
 >
-> **[6:18](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=378)** In this Microsoft Dynamics example, this list view is made to scan long pages of information quickly.
+> **[6:18](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=378)** In this [[Microsoft]] Dynamics example, this list view is made to scan long pages of information quickly.
 >
 > **[6:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=385)** To increase productivity, and enhance the user's experience, allow the user to create hotkeys, and use standard hotkeys and keyboard controls.
 >
@@ -1314,9 +1299,9 @@ created: 2026-05-02
 >
 > **[6:40](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=400)** Keyboard shortcuts are for both web and software applications.
 >
-> **[6:44](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=404)** Here's an example of shortcut keys for Google Analytics.
+> **[6:44](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=404)** Here's an example of shortcut keys for [[Google]] Analytics.
 >
-> **[6:48](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=408)** And here's another example from Jira, a project management web application.
+> **[6:48](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=408)** And here's another example from [[Jira]], a project management web application.
 >
 > **[6:54](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-software-and-web-applications?u=76281980&t=414)** And in this example from Photoshop, this allows the user to customize their options which is a good, best practice for enterprise design.
 >
@@ -1344,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), ux (2), web application (2), data (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Design Patterns]] (1), [[E-Commerce]] (1), [[Microsoft]] (1), [[Jira]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1353,8 +1338,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing intranets
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980)
+#### [Designing intranets](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,13 +1378,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=115)** Our last archetype is the content creator for the intranet.
 >
-> **[1:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=118)** This person is responsible for updating the intranet with company news and creating forms for employee engagement.
+> **[1:58](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=118)** This person is responsible for updating the intranet with company news and creating [[Forms]] for employee engagement.
 >
 > **[2:04](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=124)** The context of use for intranets is desktops and laptops for most activities and sometimes mobile for a subset of common objectives.
 >
 > **[2:14](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=134)** Tasks for intranet archetypes are typically searching for people using an org chart, accessing other integrated systems like payroll and time off systems, searching for document templates or policies, and creating content for the intranet for corporate communications and employee engagement.
 >
-> **[2:33](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=153)** At a high level, intranet design is an information retrieval challenge.
+> **[2:33](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=153)** At a high level, intranet design is an [[Information Retrieval]] challenge.
 >
 > **[2:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-intranets?u=76281980&t=157)** If the content isn't organized and structured in a format that maps to users' mental models, then it's going to be difficult to retrieve the correct information.
 >
@@ -1464,7 +1448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), teams (1), next (1), hr (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Information Retrieval]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Analogies:** for example (3)
@@ -1472,8 +1456,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise experiences for mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980)
+#### [Enterprise experiences for mobile](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=3)** Enterprise users are in a work context and are focused on getting their work done as quickly as possible.
 >
-> **[0:10](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=10)** Enterprise workflows can be complex, and most enterprise products were not designed with mobile in mind which means the application will need to be adapted for mobile, or some of those tasks adapted specifically for mobile.
+> **[0:10](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=10)** Enterprise workflows can be complex, and most enterprise [[Microsoft Products|products]] were not designed with mobile in mind which means the application will need to be adapted for mobile, or some of those tasks adapted specifically for mobile.
 >
 > **[0:23](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=23)** Some design challenges designing for mobile enterprise, is that workflows will need to be broken out into smaller tasks or by user role.
 >
@@ -1489,7 +1472,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=41)** Inbox is a focused app on a specific workflow for managing contacts, and there's an app specifically for the Salesforce Admin role who manages their company's instance of Salesforce.
 >
-> **[0:54](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=54)** Microsoft takes a similar approach where each product has its own app but even within products like Dynamics 365, different workflows and users have a specific app experience.
+> **[0:54](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=54)** [[Microsoft]] takes a similar approach where each product has its own app but even within products like Dynamics 365, different workflows and users have a specific app experience.
 >
 > **[1:07](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experiences-for-mobile?u=76281980&t=67)** Enterprise apps for mobile don't have to include every feature of a workflow.
 >
@@ -1595,7 +1578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), [[Microsoft Products|Products]] (2), product (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
@@ -1608,14 +1591,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing smart home devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980)
+#### [Designing smart home devices](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980&t=0)** - [Instructor] Smart home devices are products designed to be controlled remotely through an app or through a user interface.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980&t=0)** - [Instructor] Smart home devices are [[Microsoft Products|products]] designed to be controlled remotely through an app or through a user interface.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980&t=6)** Popular smart home ecosystems are Apple and Google Home.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980&t=6)** Popular smart home ecosystems are Apple and [[Google]] Home.
 >
 > **[0:10](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980&t=10)** Some examples of smart home products include the smart lock, doorbells with cameras, lighting, thermostats, blinds, just about anything.
 >
@@ -1689,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (3), product (3), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (3)
 > **Prerequisites:** setup (3), set up (2), you'll need (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -1697,8 +1679,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing wearables
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980)
+#### [Designing wearables](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1706,7 +1687,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=3)** This includes fitness trackers, watches, VR headsets and smart clothing.
 >
-> **[0:09](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=9)** Both Google and Apple have platforms for watch development.
+> **[0:09](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=9)** Both [[Google]] and Apple have platforms for watch development.
 >
 > **[0:13](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=13)** The small screen real estate of a watch is a forcing function to design simple interactions and reduce complexity.
 >
@@ -1748,7 +1729,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=140)** Images and icons can range in size depending on the platform size guidelines.
 >
-> **[2:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=145)** Designing complications will heavily rely on color and typography to communicate data clearly.
+> **[2:25](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=145)** Designing complications will heavily rely on color and [[Typography]] to communicate data clearly.
 >
 > **[2:30](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=150)** Both platforms have general templates to help discern the proper layout for the complication.
 >
@@ -1776,7 +1757,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=218)** Apple's approach is both page-based and hierarchical.
 >
-> **[3:42](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=222)** Hierarchy based navigation should generally not be any deeper than two to three levels, which follows the same guidance on the rest of Apple's touch-based interfaces.
+> **[3:42](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=222)** Hierarchy based navigation should generally not be any deeper than two to three levels, which follows the same guidance on the [[Representational State Transfer (REST)|rest]] of Apple's touch-based interfaces.
 >
 > **[3:52](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=232)** Here's a couple of examples from Under Armour and from Yelp that use both types of navigation.
 >
@@ -1788,7 +1769,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=261)** Watches use location data and you can surface information like how close you are to your destination or a QR code to get when you arrive at a venue.
 >
-> **[4:31](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=271)** Google has four main styles of notifications and uses the same structure as Android notifications, utilizing material design patterns.
+> **[4:31](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=271)** Google has four main styles of notifications and uses the same structure as [[Android]] notifications, utilizing material [[Design Patterns]].
 >
 > **[4:40](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-wearables?u=76281980&t=280)** Notifications can have an expanded view that gives more detailed content and includes an action button.
 >
@@ -1810,15 +1791,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), data (4), [[Typography]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Typography]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Android]] (1), [[Design Patterns]] (1)
 > **Code Identifiers:** watchos (3)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - wearables (1)
 
-#### Designing voice interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-voice-interfaces?u=76281980)
+#### [Designing voice interfaces](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-voice-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1882,7 +1862,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-voice-interfaces?u=76281980&t=147)** Ava then gives a short list of three items and prompts for more.
 >
-> **[2:32](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-voice-interfaces?u=76281980&t=152)** Okay, tonight we have a scavenger hunt, fireside storytelling, and movie night.
+> **[2:32](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-voice-interfaces?u=76281980&t=152)** Okay, tonight we have a scavenger hunt, fireside [[Storytelling]], and movie night.
 >
 > **[2:38](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-voice-interfaces?u=76281980&t=158)** Which one would you like to hear more about?
 >
@@ -1962,7 +1942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :30 (2)
 > **Definitions:** is a  (2)
@@ -1971,8 +1951,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instruction] (1)
 
-#### Designing automotive transit interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980)
+#### [Designing automotive transit interfaces](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1980,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=6)** This translates to ensuring that apps do not distract the driver, and are limited in interaction behavior.
 >
-> **[0:13](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=13)** Both Google and Apple have guidelines for how to design apps to meet the strict standards for driver interaction.
+> **[0:13](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=13)** Both [[Google]] and Apple have guidelines for how to design apps to meet the strict standards for driver interaction.
 >
 > **[0:19](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=19)** Let's take a look at Google's systems.
 >
@@ -1992,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=43)** Both frameworks have different design guidelines to adhere to, but are optimized for eliminating distractions.
 >
-> **[0:50](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=50)** Android Automotive OS is a standalone operating system that has programmed into the vehicle's dashboard device.
+> **[0:50](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=50)** [[Android]] Automotive OS is a standalone operating system that has programmed into the vehicle's dashboard device.
 >
 > **[0:57](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=57)** As a result, the phone is not required.
 >
@@ -2090,7 +2069,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=350)** The drawer navigation.
 >
-> **[5:52](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=352)** The navigation drawer is the paradigm throughout the rest of Android products and is a familiar element to provide quick actions, and voice commands.
+> **[5:52](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=352)** The navigation drawer is the paradigm throughout the [[Representational State Transfer (REST)|rest]] of Android [[Microsoft Products|products]] and is a familiar element to provide quick actions, and voice commands.
 >
 > **[6:02](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-automotive-transit-interfaces?u=76281980&t=362)** Auto apps rely heavily on voice commands to ensure focus on the road.
 >
@@ -2136,7 +2115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (13), [[Google]] (7), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (2), application (1)
+> **Frameworks & Libraries:** [[Android]] (13), [[Google]] (7), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** similar to (6)
 > **Code Identifiers:** ios (2), displays (1), iphone (1)
 > **Definitions:** is a  (3), refers to (1)
@@ -2145,8 +2124,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **URLs:** [google.com](https://google.com) (1)
 
-#### Designing kiosks
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980)
+#### [Designing kiosks](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2188,7 +2166,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=94)** The last step is payment.
 >
-> **[1:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=96)** Payment on kiosks can be done with a regular credit cards, but they can also be through various payment methods, like Apple Pay, Android Pay and PayPal.
+> **[1:36](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=96)** Payment on kiosks can be done with a regular credit cards, but they can also be through various payment methods, like Apple Pay, [[Android]] Pay and PayPal.
 >
 > **[1:45](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=105)** When thinking about kiosk's design, especially for a customer service scenario, it should feel faster than interacting with a person.
 >
@@ -2204,7 +2182,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=143)** Give visual feedback when a button is selected, and incorporate sound to reinforce selections.
 >
-> **[2:31](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=151)** For all forms of design, prototyping is a requirement, and kiosk's design is no different.
+> **[2:31](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=151)** For all [[Forms]] of design, [[Prototyping]] is a requirement, and kiosk's design is no different.
 >
 > **[2:37](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-kiosks?u=76281980&t=157)** Low fidelity drawing is a good place to start, when developing concepts for your design.
 >
@@ -2214,7 +2192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Android]] (1), [[Forms]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Forms]] (1), [[Prototyping]] (1)
 > **Analogies:** similar to (1), for example (1), imagine (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** atm (1)
@@ -2226,8 +2204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2235,17 +2212,17 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=1)** I hope you enjoyed this course and took away some insights to apply to your next UX project.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=6)** You can check out my other courses, UX Foundations: Multidevice Design and [[UX Foundations- Prototyping]] to learn more relevant material.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=6)** You can check out my other courses, UX Foundations: Multidevice Design and [[UX Foundations- [[Prototyping]]]] to learn more relevant material.
 >
 > **[0:15](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=15)** If you have any follow up questions, feel free to post them on the Q and A on this course's page.
 >
 > **[0:21](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=21)** I look forward to hearing your thoughts and questions.
 >
-> **[0:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=24)** Also, feel free to follow me on LinkedIn or Twitter.
+> **[0:24](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980&t=24)** Also, feel free to follow me on [[LinkedIn]] or Twitter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), next (1), [[Prototyping]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [diane] (1)
 
 

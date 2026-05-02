@@ -167,27 +167,27 @@ created: 2026-05-02
 > 134. [[Node- Authentication]] — 8 mentions
 > 135. [[Azure AI- The Big Picture]] — 8 mentions
 > 136. [[Building Advanced AI Apps with Prompt Flow]] — 8 mentions
-> 137. [[Swift 5- Protocol-Oriented Programming]] — 8 mentions
-> 138. [[OpenAI API- Vision]] — 8 mentions
-> 139. [[Tuning Kafka]] — 8 mentions
-> 140. [[Building a Web Application on Microsoft Azure]] — 8 mentions
-> 141. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 8 mentions
-> 142. [[DevOps Foundations- Your First Project]] — 8 mentions
-> 143. [[Introduction to Couchbase]] — 8 mentions
-> 144. [[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]] — 8 mentions
-> 145. [[WordPress- Custom Post Types and Taxonomies]] — 8 mentions
-> 146. [[Data Science for Java Developers]] — 8 mentions
-> 147. [[Playwright- Design Patterns]] — 8 mentions
-> 148. [[Learning the Python 3 Standard Library]] — 8 mentions
-> 149. [[Unit Testing in Python]] — 8 mentions
-> 150. [[Creating Block Patterns in WordPress]] — 8 mentions
-> 151. [[C Sharp Essential Training 1 Types And Control Flow]] — 7 mentions
-> 152. [[Angular Essential Training]] — 7 mentions
-> 153. [[Angular- Testing and Debugging]] — 7 mentions
-> 154. [[Data Management Essential Training]] — 7 mentions
-> 155. [[Scalable Data Storage and Processing for AI Workloads]] — 7 mentions
-> 156. [[Refactoring with GitHub Copilot]] — 7 mentions
-> 157. [[Azure Understanding The Big Picture]] — 7 mentions
+> 137. [[Azure Understanding The Big Picture]] — 8 mentions
+> 138. [[Swift 5- Protocol-Oriented Programming]] — 8 mentions
+> 139. [[OpenAI API- Vision]] — 8 mentions
+> 140. [[Tuning Kafka]] — 8 mentions
+> 141. [[Building a Web Application on Microsoft Azure]] — 8 mentions
+> 142. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 8 mentions
+> 143. [[DevOps Foundations- Your First Project]] — 8 mentions
+> 144. [[Introduction to Couchbase]] — 8 mentions
+> 145. [[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]] — 8 mentions
+> 146. [[WordPress- Custom Post Types and Taxonomies]] — 8 mentions
+> 147. [[Data Science for Java Developers]] — 8 mentions
+> 148. [[Playwright- Design Patterns]] — 8 mentions
+> 149. [[Learning the Python 3 Standard Library]] — 8 mentions
+> 150. [[Unit Testing in Python]] — 8 mentions
+> 151. [[Creating Block Patterns in WordPress]] — 8 mentions
+> 152. [[C Sharp Essential Training 1 Types And Control Flow]] — 7 mentions
+> 153. [[Angular Essential Training]] — 7 mentions
+> 154. [[Angular- Testing and Debugging]] — 7 mentions
+> 155. [[Data Management Essential Training]] — 7 mentions
+> 156. [[Scalable Data Storage and Processing for AI Workloads]] — 7 mentions
+> 157. [[Refactoring with GitHub Copilot]] — 7 mentions
 > 158. [[React Hooks]] — 7 mentions
 > 159. [[Building Modern Projects with React]] — 7 mentions
 > 160. [[Data Integration And Api Development For Ai Applications]] — 7 mentions
@@ -250,34 +250,34 @@ created: 2026-05-02
 > 217. [[Learning Kubernetes]] — 4 mentions
 > 218. [[Implementing a Data Strategy for Responsible AI]] — 4 mentions
 > 219. [[Getting Hands-On with GPT Models- Tips and Tricks]] — 4 mentions
-> 220. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 4 mentions
-> 221. [[Introduction to Terraform on Azure (2022)]] — 4 mentions
-> 222. [[Structured Vibe Coding with AI Coding Agents]] — 4 mentions
-> 223. [[Power BI Data Dashboards]] — 4 mentions
-> 224. [[Building Serverless Applications in AWS]] — 4 mentions
-> 225. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 4 mentions
-> 226. [[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]] — 4 mentions
-> 227. [[Rust for Data Engineering]] — 4 mentions
-> 228. [[Learning App Building With Vanilla Javascript]] — 4 mentions
-> 229. [[NoSQL Essential Training]] — 4 mentions
-> 230. [[Spring Data 2]] — 4 mentions
-> 231. [[Google Gemini For Developers]] — 4 mentions
-> 232. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 4 mentions
-> 233. [[SQL Server- Reporting Services]] — 4 mentions
-> 234. [[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]] — 4 mentions
-> 235. [[From React to React Native]] — 4 mentions
-> 236. [[Introduction to Modern Data Engineering with Snowflake]] — 4 mentions
-> 237. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 4 mentions
-> 238. [[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging]] — 4 mentions
-> 239. [[Securing Django Applications]] — 4 mentions
-> 240. [[Python In Excel Getting Started With Data Analysis]] — 4 mentions
-> 241. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 4 mentions
-> 242. [[Docker- Your First Project]] — 4 mentions
-> 243. [[PHP- Creating Secure Websites]] — 4 mentions
-> 244. [[Continuous Integration- Tools]] — 4 mentions
-> 245. [[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]] — 4 mentions
-> 246. [[Building in Azure AI Foundry]] — 3 mentions
-> 247. [[Ethical Hacking- Enumeration]] — 3 mentions
+> 220. [[Ethical Hacking- Enumeration]] — 4 mentions
+> 221. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 4 mentions
+> 222. [[Introduction to Terraform on Azure (2022)]] — 4 mentions
+> 223. [[Structured Vibe Coding with AI Coding Agents]] — 4 mentions
+> 224. [[Power BI Data Dashboards]] — 4 mentions
+> 225. [[Building Serverless Applications in AWS]] — 4 mentions
+> 226. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 4 mentions
+> 227. [[Hands-On AI- Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)]] — 4 mentions
+> 228. [[Rust for Data Engineering]] — 4 mentions
+> 229. [[Learning App Building With Vanilla Javascript]] — 4 mentions
+> 230. [[NoSQL Essential Training]] — 4 mentions
+> 231. [[Spring Data 2]] — 4 mentions
+> 232. [[Google Gemini For Developers]] — 4 mentions
+> 233. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 4 mentions
+> 234. [[SQL Server- Reporting Services]] — 4 mentions
+> 235. [[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]] — 4 mentions
+> 236. [[From React to React Native]] — 4 mentions
+> 237. [[Introduction to Modern Data Engineering with Snowflake]] — 4 mentions
+> 238. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 4 mentions
+> 239. [[Twilio Essentials Unit 1 Introducing Twilio And Programmable Messaging]] — 4 mentions
+> 240. [[Securing Django Applications]] — 4 mentions
+> 241. [[Python In Excel Getting Started With Data Analysis]] — 4 mentions
+> 242. [[Red Hat Certified Engineer (EX294) Cert Prep- 3 Managing Systems with Ansible]] — 4 mentions
+> 243. [[Docker- Your First Project]] — 4 mentions
+> 244. [[PHP- Creating Secure Websites]] — 4 mentions
+> 245. [[Continuous Integration- Tools]] — 4 mentions
+> 246. [[Data Engineering Project- Build Streaming Ingestion Pipelines for Snowflake with AWS]] — 4 mentions
+> 247. [[Building in Azure AI Foundry]] — 3 mentions
 > 248. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 3 mentions
 > 249. [[DevOps Foundations- Infrastructure as Code]] — 3 mentions
 > 250. [[Azure Data Lake for Developers]] — 3 mentions

@@ -94,14 +94,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=0)** - [Joe] Hi, I'm Joe Chellman, and welcome to Learning JavaScript Debugging.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=0)** - [Joe] Hi, I'm Joe Chellman, and welcome to Learning [[JavaScript]] Debugging.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=4)** As developers, our main job is to find ways to turn ideas into working products, apps, websites, art pieces, whatever.
+> **[0:04](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=4)** As developers, our main job is to find ways to turn ideas into working [[Microsoft Products|products]], apps, websites, art pieces, whatever.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=12)** Knowing how to write code is a beautiful thing, with a computer doing exactly what we tell them to, or so we hope.
 >
@@ -121,7 +120,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=62)** Like all software on the web, debuggers are constantly being refined to work better with the sites and projects all of us are building everyday.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=69)** So, we'll look at how JavaScript debugging works in the context of jQuery, a React project, mobile websites, Node.js, and a WordPress theme.
+> **[1:09](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=69)** So, we'll look at how JavaScript debugging works in the context of jQuery, a [[React.js|React]] project, mobile websites, [[Node.js]], and a [[WordPress]] theme.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980&t=78)** We'll also take a look at using an integrated development environment, an IDE, in a JavaScript project and what a difference that can make in terms of your productivity.
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Debugging]] (2), [[Microsoft Products|Products]] (1), job description (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Microsoft Products|Products]] (1), [[React.js|React]] (1), [[Node.js]] (1), [[WordPress]] (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **File Paths:** node.js (1)
 > **Code Identifiers:** jquery (1)
@@ -139,24 +138,23 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=0)** - [Instructor] Let's talk about what you should know to get the most out of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=3)** You should understand HTML and CSS at an intermediate level or so.
+> **[0:03](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=3)** You should understand [[HTML]] and CSS at an intermediate level or so.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=7)** Almost every example we're looking at here will be based in HTML, but we won't be talking through any of the specifics.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=14)** For JavaScript, beginning to intermediate is good.
+> **[0:14](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=14)** For [[JavaScript]], beginning to intermediate is good.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=16)** You should be familiar with ES5, the version of JavaScript that runs in every environment out of the box.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=22)** ES6 wasn't required to illustrate how debugging works, so I've left it out.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=26)** Along with Vanilla JavaScript, other JavaScript libraries and frameworks will appear, especially jQuery, React and Node.
+> **[0:26](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=26)** Along with [[Vanilla]] JavaScript, other JavaScript libraries and frameworks will appear, especially jQuery, [[React.js|React]] and Node.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-you-should-know?u=76281980&t=34)** We'll talk through the parts of these that we need to in order to understand the examples, but you don't need to be an expert in any of them to understand what we're doing.
 >
@@ -164,15 +162,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2), css (1), [[Debugging]] (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2), [[Vanilla]] (1), [[React.js|React]] (1)
 > **Env Vars:** html (2), css (1), es5 (1), es6 (1)
 > **CLI Commands:** node (1)
 > **Code Identifiers:** jquery (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,13 +181,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=19)** When the time comes, we'll talk through those.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=22)** One example targets Node.js.
+> **[0:22](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=22)** One example targets [[Node.js]].
 >
 > **[0:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=23)** So if you don't have that installed and want to follow along, you'll need to download it from [nodejs.org](https://nodejs.org).
 >
-> **[0:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=29)** Otherwise you should be able to open the folder for a particular video and open the index.html file in your browser of choice and proceed with the examples.
+> **[0:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=29)** Otherwise you should be able to open the folder for a particular video and open the index.[[HTML]] file in your browser of choice and proceed with the examples.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=39)** I have a special note for Windows users.
+> **[0:39](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=39)** I have a special note for [[Windows]] users.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-javascript-debugging-2/exercise-files-2?u=76281980&t=41)** Please make sure to decompress or extract the exercise file's zip archive before you try to run any of the examples in a browser.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Windows]] (2), [[Debugging]] (1), [[Node.js]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Node.js]] (1), [[HTML]] (1)
 > **UI Navigation:** open the (2), in the toolbar (1)
 > **Exercise Files:** exercise files (2), exercise file (1)
 > **File Paths:** node.js (1), index.html (1)
@@ -223,8 +220,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** you'll need (1)
 
-#### What's new in this update
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980)
+#### [What's new in this update](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980&t=16)** I hope you'll find them interesting and engaging.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980&t=19)** There are also a couple of updates to videos dealing with JavaScript framework, React, and the editor visual studio code to account for updates in each that can impact working through the examples.
+> **[0:19](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980&t=19)** There are also a couple of updates to videos dealing with [[JavaScript]] framework, [[React.js|React]], and the editor visual studio code to account for updates in each that can impact working through the examples.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/what-s-new-in-this-update?u=76281980&t=29)** As you proceed through the course, you may note that Chrome and its debugger look a little different in the original videos, but the locations of everything we're using are pretty much the same, and following along in the current version should not be an issue.
 
@@ -248,8 +244,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/using-challenges?u=76281980)
+#### [Using challenges](https://www.linkedin.com/learning/learning-javascript-debugging-2/using-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,18 +277,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing our friend, the debugger
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980)
+#### [Introducing our friend, the debugger](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=0)** - [Instructor] The tool we'll be using in this course is called a debugger, or sometimes a stepwise debugger.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=5)** Almost every programming language has one of these, so once you get a feel for using one in JavaScript, you'll be able to take that knowledge and apply it directly to PHP, C, Python, whatever.
+> **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=5)** Almost every programming language has one of these, so once you get a feel for using one in [[JavaScript]], you'll be able to take that knowledge and apply it directly to [[PHP]], C, [[Python (Programming Language)|Python]], whatever.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=15)** My intention in this course is to teach you not how to write code, but how to use the debugger to better understand your code, so you can finish projects more quickly.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=23)** A debugger is software that lets you closely inspect what's happening in other software in real-time.
+> **[0:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=23)** A debugger is software that lets you closely inspect what's happening in other software in [[Real-Time]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980&t=28)** It's one of the most effective tools we have for finding and squashing bugs, and fortunately, in JavaScript, debuggers are quite easy to use.
 >
@@ -329,15 +323,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), web (2), [[Programming]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[PHP]] (1), [[Python (Programming Language)|Python]] (1), [[Real-Time]] (1)
 > **CLI Commands:** php (1), python (1)
 > **Env Vars:** php (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Important jargon and concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/important-jargon-and-concepts?u=76281980)
+#### [Important jargon and concepts](https://www.linkedin.com/learning/learning-javascript-debugging-2/important-jargon-and-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/important-jargon-and-concepts?u=76281980&t=8)** The first is breakpoint.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/important-jargon-and-concepts?u=76281980&t=10)** Now if you've had some exposure to responsive web design, this term may already have some meaning for you, but in the context of a debugger, a breakpoint is a place where you tell the debugger to stop execution of your code and do something.
+> **[0:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/important-jargon-and-concepts?u=76281980&t=10)** Now if you've had some exposure to [[Responsive Web Design]], this term may already have some meaning for you, but in the context of a debugger, a breakpoint is a place where you tell the debugger to stop execution of your code and do something.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-javascript-debugging-2/important-jargon-and-concepts?u=76281980&t=22)** Usually for our purposes, that's just going to be stopping execution, suspending it so it doesn't go any further so you can look around at what's happening.
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Responsive Web Design]] (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Env Vars:** ide (2)
 > **Cross-References:** later in (1), coming up (1)
@@ -393,8 +386,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debuggers in web browsers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980)
+#### [Debuggers in web browsers](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,13 +404,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=17)** You may not know that there's also a developer built called Chrome Canary.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=21)** These are both provided by Google and of course, they're free.
+> **[0:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=21)** These are both provided by [[Google]] and of course, they're free.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=24)** The debugger that's built into chrome is called the developer tools.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=28)** And that's what you'll be using on the desktop.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=30)** If you're debugging a mobile device, there is a version of Chrome for Android and you can connect the browser from your Android device to Chrome on your desktop using the remote debugging tools for Android.
+> **[0:30](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=30)** If you're debugging a mobile device, there is a version of Chrome for [[Android]] and you can connect the browser from your Android device to Chrome on your desktop using the remote debugging tools for Android.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=41)** You can even connect iOS devices using a little more convoluted process called the RemoteDebug iOS WebKit Adapter, if that's of interest to you.
 >
@@ -442,9 +434,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=88)** The debugger in Safari is called the Web Inspector.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=90)** And if you're going to debug java script that's running in iOS, you have two options.
+> **[1:30](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=90)** And if you're going to debug [[Java]] script that's running in iOS, you have two options.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=96)** One is the simulator which comes with Xcode, used to be called the iOS simulator but now includes WatchOS as well.
+> **[1:36](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=96)** One is the simulator which comes with [[Xcode]], used to be called the iOS simulator but now includes WatchOS as well.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=102)** So it's just simulator.
 >
@@ -452,9 +444,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=109)** You'll be able to make a connection into Safari and use the Safari Web Inspector to debug the java script that's actually running on your device.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=116)** And then finally, we'll look at Microsoft's browsers, Edge and Internet Explorer.
+> **[1:56](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=116)** And then finally, we'll look at [[Microsoft]]'s browsers, Edge and Internet Explorer.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=122)** Of course these are both free and available on all Windows machines.
+> **[2:02](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=122)** Of course these are both free and available on all [[Windows]] machines.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=126)** The debugger that's built into these browsers is called the F12 developer tools.
 >
@@ -466,7 +458,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=142)** But that seems to be best way to go about it.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=144)** There are also the modern.ie project and [browserstack.com](https://browserstack.com) which give Mac users like me access to virtual machines and other instances of Microsoft Edge that we can run right in a browser to debug our projects.
+> **[2:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=144)** There are also the modern.ie project and [browserstack.com](https://browserstack.com) which give Mac users like me access to [[Virtual Machines]] and other instances of Microsoft Edge that we can run right in a browser to debug our projects.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/debuggers-in-web-browsers?u=76281980&t=160)** Both java script and just general websites.
 >
@@ -486,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (5), [[Android]] (4), [[Java]] (4), web (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Android]] (4), [[Java]] (4), [[Microsoft]] (3), [[Windows]] (2), [[Google]] (1)
 > **Tools:** firefox (7), safari (6), visual studio (1)
 > **Definitions:** is called (3), is a  (3)
 > **Code Identifiers:** ios (5)
@@ -495,12 +487,11 @@ created: 2026-05-02
 > **URLs:** [browserstack.com](https://browserstack.com) (1)
 > **Analogies:** just like (1)
 
-#### The importance of a good editor and IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980)
+#### [The importance of a good editor and IDE](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=0)** - [Instructor] The debugging tools we're talking about here are mainly in web browsers, but debugging code also means being able to understand it better and having a text editor or IDE that you like will give you a huge boost.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=0)** - [Instructor] The debugging tools we're talking about here are mainly in web browsers, but [[Debugging Code]] also means being able to understand it better and having a text editor or IDE that you like will give you a huge boost.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=11)** Like all software, this is an area that changes a lot, but let's run through why a good editor is so important.
 >
@@ -512,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=34)** Looking at this, this is the editor that's just built into macOS.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=37)** I have this really small JavaScript file here.
+> **[0:37](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=37)** I have this really small [[JavaScript]] file here.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=40)** You can see I've got stuff like spell checking that I don't really care about and I can't really tell what anything is.
 >
@@ -542,7 +533,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=95)** That kind of enhancement might seem rather small, but as you're typing lots and lots of code, it gets to be really, really helpful.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=102)** Some editors also include tools like Emmet that can make writing blocks of HTML and CSS a lot easier.
+> **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=102)** Some editors also include tools like Emmet that can make writing blocks of [[HTML]] and CSS a lot easier.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=107)** For example, if I create a new file here, I'll switch it using the mode selector to HTML.
 >
@@ -606,7 +597,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=296)** There are several open-source options that are also completely free.
 >
-> **[5:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=300)** Visual Studio Code is the one we'll be using for the most part in this course, but there's also Brackets from Adobe and Atom from GitHub.
+> **[5:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=300)** Visual Studio Code is the one we'll be using for the most part in this course, but there's also Brackets from Adobe and Atom from [[GitHub]].
 >
 > **[5:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=307)** Finally, there's my old friend BBEdit, which I just love and always have to mention, but it is available on the Mac only.
 >
@@ -636,7 +627,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=398)** Save lots and lots of keystrokes.
 >
-> **[6:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=400)** It'll also know about any frameworks you've imported, jQuery, React, all that sort of thing.
+> **[6:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=400)** It'll also know about any frameworks you've imported, jQuery, [[React.js|React]], all that sort of thing.
 >
 > **[6:45](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=405)** Mistake avoidance is another feature of IDEs that's particularly helpful.
 >
@@ -664,9 +655,9 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=475)** Here are some options for IDEs that you might want to explore.
 >
-> **[7:59](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=479)** WebStorm and PhpStorm from JetBrains are commercial products with very generous free trials.
+> **[7:59](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=479)** WebStorm and PhpStorm from JetBrains are commercial [[Microsoft Products|products]] with very generous free trials.
 >
-> **[8:04](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=484)** I happen to use PhpStorm in most of my work because I do JavaScript and PHP development.
+> **[8:04](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=484)** I happen to use PhpStorm in most of my work because I do JavaScript and [[PHP]] development.
 >
 > **[8:09](https://www.linkedin.com/learning/learning-javascript-debugging-2/the-importance-of-a-good-editor-and-ide?u=76281980&t=489)** PhpStorm basically wraps WebStorm with PHP as well.
 >
@@ -686,7 +677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (9), [[Search]] (8), [[Debugging]] (4), [[HTML]] (3), css (3)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[HTML]] (3), [[PHP]] (2), [[Debugging Code]] (1), [[GitHub]] (1)
 > **Env Vars:** ide (9), html (3), css (3), http (2), https (2)
 > **Tools:** visual studio (6), sublime (3), command line (2), atom (1), github (1)
 > **CLI Commands:** make (3), find (2), php (2), grep (1), apache (1)
@@ -695,12 +686,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), checkbox (1)
 > **Code Identifiers:** macos (1), jquery (1)
 
-#### Why debugging AJAX can be tricky
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980)
+#### [Why debugging AJAX can be tricky](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=0)** - [Instructor] When you're getting started debugging projects involving AJAX, where your code is loading data dynamically, you might start to run into some trouble.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=0)** - [Instructor] When you're getting started debugging projects involving [[AJAX]], where your code is loading data dynamically, you might start to run into some trouble.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=7)** Let's talk a little bit about what kinds of issues you might see and how to deal with them.
 >
@@ -716,9 +706,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=32)** Then there's CORS which is access control for sharing data across domains basically.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=38)** If you just take an example HTML file from the exercise files in this course, for example, and drop it into your browser, it'll be loaded with a file URL that looks like this.
+> **[0:38](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=38)** If you just take an example [[HTML]] file from the exercise files in this course, for example, and drop it into your browser, it'll be loaded with a file URL that looks like this.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=47)** If you try to load data from another file or from the web from the scripts in that file, you'll almost certainly run afoul of one or both of these policies which can result in data not loading and errors filing up your JavaScript console.
+> **[0:47](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=47)** If you try to load data from another file or from the web from the scripts in that file, you'll almost certainly run afoul of one or both of these policies which can result in data not loading and errors filing up your [[JavaScript]] console.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=60)** So how, aside from frantic internet searches, do we deal with this?
 >
@@ -728,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=80)** If you get to the point that you need to know more, you can refer to other videos in the library on those topics.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=85)** If you don't already have a local web server, MAMP or XAMPP are easy to install options, and, as with everything in web development, there are countless other free options available as well.
+> **[1:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=85)** If you don't already have a local web server, MAMP or XAMPP are easy to install options, and, as with everything in [[Web Development]], there are countless other free options available as well.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-javascript-debugging-2/why-debugging-ajax-can-be-tricky?u=76281980&t=96)** It's also possible to tweak settings in the browsers to get around some of these issues.
 >
@@ -748,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), data (5), [[Security]] (3), [[Debugging]] (2), [[AJAX]] (2)
+> **Frameworks & Libraries:** [[AJAX]] (2), [[HTML]] (1), [[JavaScript]] (1), [[Web Development]] (1)
 > **Env Vars:** ajax (2), cors (2), html (1), url (1), http (1)
 > **Tools:** firefox (1), safari (1)
 > **Definitions:** means that (1), is an  (1)
@@ -762,8 +752,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging without a debugger
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980)
+#### [Debugging without a debugger](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980&t=20)** The expected behavior is that if I click any of these flower images, it's gonna load in a little lightbox.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980&t=27)** If I click the images though, it loads the image directly, no JavaScript happening here.
+> **[0:27](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980&t=27)** If I click the images though, it loads the image directly, no [[JavaScript]] happening here.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980&t=33)** So something is clearly broken and we need to find out why.
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), [[JavaScript]] (3), api (2), business (2), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **UI Navigation:** go to (3), open the (2), switch to (2), toggle (1)
 > **Code Identifiers:** jquery (2), swipeleft (1), swiperight (1)
 > **CLI Commands:** make (2), find (1)
@@ -886,14 +875,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Leverage more of the Console API
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980)
+#### [Leverage more of the Console API](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=0)** - [Narrator] In this video, we're going to take a look at some other features of the console API that you might not be quite as familiar with.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=6)** Here in my JavaScript console, I can type console and as soon as I type dot, I get a list of all these methods that are available.
+> **[0:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=6)** Here in my [[JavaScript]] console, I can type console and as soon as I type dot, I get a list of all these methods that are available.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=14)** There's a whole bunch of 'em.
 >
@@ -951,7 +939,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=174)** Another feature of the console.log method is that instead of just passing a string as the first argument, that's just a simple string.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=183)** I can pass this string with some special formatting tokens.
+> **[3:03](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=183)** I can pass this string with some special formatting [[Tokens]].
 >
 > **[3:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=186)** And that will insert my other parameters into this original message.
 >
@@ -977,7 +965,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=255)** And aside from just looking through the Autocomplete that comes up in your browser's JavaScript console, you can also refer to the documentation that's available.
 >
-> **[4:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=263)** These are available for Chrome, for Firefox, and for Microsoft Edge.
+> **[4:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=263)** These are available for Chrome, for Firefox, and for [[Microsoft]] Edge.
 >
 > **[4:33](https://www.linkedin.com/learning/learning-javascript-debugging-2/leverage-more-of-the-console-api?u=76281980&t=273)** A notable absence here is Safari.
 >
@@ -1045,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[JavaScript]] (6), next (3), css (3), feature (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[Tokens]] (2), [[Microsoft]] (1)
 > **Env Vars:** api (7), css (3)
 > **Tools:** safari (2), visual studio (1), firefox (1)
 > **Code Identifiers:** bigerrorstyle (2), jquery (1)
@@ -1054,8 +1042,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 
-#### Stop and look around: Simple breakpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/stop-and-look-around-simple-breakpoints?u=76281980)
+#### [Stop and look around: Simple breakpoints](https://www.linkedin.com/learning/learning-javascript-debugging-2/stop-and-look-around-simple-breakpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/stop-and-look-around-simple-breakpoints?u=76281980&t=5)** So, first let's open up our developer tools with Command + Option + I here on the Mac.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/stop-and-look-around-simple-breakpoints?u=76281980&t=10)** And I'm going to change the sources panel if I need to and open my index.html file, which is where all the JavaScript for this page lives.
+> **[0:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/stop-and-look-around-simple-breakpoints?u=76281980&t=10)** And I'm going to change the sources panel if I need to and open my index.[[HTML]] file, which is where all the [[JavaScript]] for this page lives.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-javascript-debugging-2/stop-and-look-around-simple-breakpoints?u=76281980&t=18)** Let's scroll all the way to the bottom where my JavaScript is.
 >
@@ -1193,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (3), [[Debugging]] (3), next (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (3)
 > **Env Vars:** es5 (2), ide (1)
 > **Definitions:** in other words (1), is called (1), is a  (1)
 > **Warnings:** watch out (2), note that (1)
@@ -1202,8 +1189,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), open the (1)
 > **Analogies:** for example (1)
 
-#### Explore other breakpoint options
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980)
+#### [Explore other breakpoint options](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1209,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=40)** So I'm gonna open up my developer tools with command + option + I.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=43)** And here in the sources pane, I'm going to open the index.html file where my JavaScript is, and scroll all the way down.
+> **[0:43](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=43)** And here in the sources pane, I'm going to open the index.[[HTML]] file where my [[JavaScript]] is, and scroll all the way down.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=53)** So here's our new implementation.
 >
@@ -1337,7 +1323,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=342)** If we look over here in the right pane, we have a couple of different kinds of breakpoints, aside from the regular ones.
 >
-> **[5:48](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=348)** We have these XHR slash fetch breakpoints, which are breakpoints that you can set, depending on Ajax type activity.
+> **[5:48](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=348)** We have these XHR slash [[Fetch]] breakpoints, which are breakpoints that you can set, depending on [[AJAX]] type activity.
 >
 > **[5:58](https://www.linkedin.com/learning/learning-javascript-debugging-2/explore-other-breakpoint-options?u=76281980&t=358)** Then there's DOM breakpoints.
 >
@@ -1375,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), dom (4), next (2), [[HTML]] (1), generic (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (1), [[Fetch]] (1), [[AJAX]] (1)
 > **Env Vars:** dom (4), xhr (1)
 > **Analogies:** just like (3), for example (1)
 > **CLI Commands:** make (1), node (1), find (1)
@@ -1384,8 +1370,7 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **Definitions:** is called (1)
 
-#### Challenge: Knowing when to stop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-knowing-when-to-stop?u=76281980)
+#### [Challenge: Knowing when to stop](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-knowing-when-to-stop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1440,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** open the (2), scroll down (1)
 > **Definitions:** is a  (2)
@@ -1463,8 +1447,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Knowing when to stop
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-knowing-when-to-stop?u=76281980)
+#### [Solution: Knowing when to stop](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-knowing-when-to-stop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,21 +1535,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (2), node (2)
 > **CLI Commands:** node (2)
 > **Env Vars:** dom (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Step into, over, and out of functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980)
+#### [Step into, over, and out of functions](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980&t=0)** - [Instructor] In this video, we're going to try the various stepping functions that we can use to navigate our JavaScript in the debugger once we're stopped.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980&t=0)** - [Instructor] In this video, we're going to try the various stepping functions that we can use to navigate our [[JavaScript]] in the debugger once we're stopped.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980&t=7)** So I have my index.html file open in my Chrome debugger, and I'm down here where my custom JavaScript exists, so I'm gonna set a break point right here at the very beginning of my custom JavaScript, so in this case, on line 311.
+> **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980&t=7)** So I have my index.[[HTML]] file open in my Chrome debugger, and I'm down here where my custom JavaScript exists, so I'm gonna set a break point right here at the very beginning of my custom JavaScript, so in this case, on line 311.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-javascript-debugging-2/step-into-over-and-out-of-functions?u=76281980&t=20)** Now I'll reload the page.
 >
@@ -1684,7 +1665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), next (4), hit (3), [[HTML]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2)
 > **Code Identifiers:** fadeto (7), jquery (6), flowerlinks (4), floweropacity (1), touchswipe (1)
 > **Tools:** firefox (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1693,8 +1674,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find out where you are using the call stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980)
+#### [Find out where you are using the call stack](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,7 +1682,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=3)** And see how it's a little bit like a time machine.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=5)** This example looks just the same but I've added a little be it a new JavaScript for the purpose of illustrating the Call Stack.
+> **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=5)** This example looks just the same but I've added a little be it a new [[JavaScript]] for the purpose of illustrating the Call Stack.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=12)** Let's scroll down a little bit.
 >
@@ -1816,7 +1796,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=247)** Using the Call Stack can get a lot more complicated than this when you're dealing with a synchronous JavaScript.
 >
-> **[4:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=252)** Your Call Stack can get much, much more complicated than this especially when you're dealing with Ajax and you have a synchronous pieces that are firing at different times.
+> **[4:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=252)** Your Call Stack can get much, much more complicated than this especially when you're dealing with [[AJAX]] and you have a synchronous pieces that are firing at different times.
 >
 > **[4:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/find-out-where-you-are-using-the-call-stack?u=76281980&t=261)** But this is the basics at how this works.
 >
@@ -1826,21 +1806,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (2), next (2), [[Debugging]] (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[AJAX]] (1)
 > **Code Identifiers:** gogetsomedata (6), getmyreturnables (3), jquery (2), myreadyfunction (2)
 > **UI Navigation:** scroll down (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitor variables with watches
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/monitor-variables-with-watches?u=76281980)
+#### [Monitor variables with watches](https://www.linkedin.com/learning/learning-javascript-debugging-2/monitor-variables-with-watches?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/monitor-variables-with-watches?u=76281980&t=0)** - [Narrator] In this video, we're going to talk about watches which are a way to monitor variable values and expression values over time.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/monitor-variables-with-watches?u=76281980&t=8)** So here in this example file, here's my custom JavaScript at the bottom of the index.html.
+> **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/monitor-variables-with-watches?u=76281980&t=8)** So here in this example file, here's my custom [[JavaScript]] at the bottom of the index.[[HTML]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-javascript-debugging-2/monitor-variables-with-watches?u=76281980&t=14)** And I have some new functions here, some new data.
 >
@@ -1956,7 +1935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JavaScript]] (2), hit (2), [[HTML]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Code Identifiers:** actiontime (5), gogetsomedata (3), getmyreturnables (3), tolocaletimestring (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for example (2), just like (1)
@@ -1965,12 +1944,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Source maps to debug minified files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/source-maps-to-debug-minified-files?u=76281980)
+#### [Source maps to debug minified files](https://www.linkedin.com/learning/learning-javascript-debugging-2/source-maps-to-debug-minified-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/source-maps-to-debug-minified-files?u=76281980&t=0)** - [Instructor] In this video we're going to look at source maps, which are tool you can use to map the minified production ready versions of JavaScript files, to their corresponding, more readable development versions.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/source-maps-to-debug-minified-files?u=76281980&t=0)** - [Instructor] In this video we're going to look at source maps, which are tool you can use to map the minified production ready versions of [[JavaScript]] files, to their corresponding, more readable development versions.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/source-maps-to-debug-minified-files?u=76281980&t=10)** This is a feature that is likely enabled out of the box in your debugger of choice, but just to make sure, we're going to look at the settings here in Chrome.
 >
@@ -2072,7 +2050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), feature (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **CLI Commands:** find (6), make (1)
 > **Code Identifiers:** jquery (7)
 > **Definitions:** is a  (2), is called (2)
@@ -2080,8 +2058,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-putting-it-all-together?u=76281980)
+#### [Challenge: Putting it all together](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2169,7 +2146,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-putting-it-all-together?u=76281980&t=215)** First, we're going to fix the timing on the animation or transition when the modal closes.
 >
-> **[3:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-putting-it-all-together?u=76281980&t=220)** Remember you aren't editing CSS for this challenge, only JavaScript.
+> **[3:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-putting-it-all-together?u=76281980&t=220)** Remember you aren't editing CSS for this challenge, only [[JavaScript]].
 >
 > **[3:43](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-putting-it-all-together?u=76281980&t=223)** Also, as a little hint, the transition stops when the element is hidden by the display property.
 >
@@ -2187,7 +2164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), api (2), data (2), hit (2), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** sessionstorage (5), modalviewed (1)
 > **Env Vars:** css (3), api (2)
 > **CLI Commands:** make (4)
@@ -2196,8 +2173,7 @@ created: 2026-05-02
 > **UI Navigation:** in the sidebar (1), open the (1)
 > **Exercise Files:** exercise files (2)
 
-#### Solution: Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-putting-it-all-together?u=76281980)
+#### [Solution: Putting it all together](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-putting-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2405,7 +2381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), css (1), data (1), next (1), [[Debugging]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** scroll down (2), open the (1), toggle (1), scroll up (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -2413,14 +2388,14 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Env Vars:** css (1)
 > **Versions:** 2.1 (1)
+> **Tools:** visual studio (1)
 
 
 ### 3. Debugging in Practice
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging the use of a jQuery plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980)
+#### [Debugging the use of a jQuery plugin](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2434,7 +2409,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=24)** There's a jQuery plugin called Lettering.js that can help with this.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=28)** The goal is to make certain words look different from the rest of the title.
+> **[0:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=28)** The goal is to make certain words look different from the [[Representational State Transfer (REST)|rest]] of the title.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=32)** Also included in the exercise files is the Lettering.js example page that I've enhanced a little bit to include a very fancy treatment of the plug-in name here using the plugin.
 >
@@ -2456,15 +2431,15 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=91)** And here on the sources pane, we can start to look things over.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=95)** First, I'll open the index.html file.
+> **[1:35](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=95)** First, I'll open the index.[[HTML]] file.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=99)** We'll scroll down to where the script tags are.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=102)** Here's jQuery, and then the Lettering.js plugin, with its jQuery prefix that helps us know that it's a plugin for jQuery, and then here's our main.js file, which should have the custom JavaScript.
+> **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=102)** Here's jQuery, and then the Lettering.js plugin, with its jQuery prefix that helps us know that it's a plugin for jQuery, and then here's our main.js file, which should have the custom [[JavaScript]].
 >
 > **[1:54](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=114)** So I could open that over here in the sidebar by clicking this.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=117)** But also in the sources pane, I could use command P, or control P on Windows or Linux, to open any file that Chrome is aware of.
+> **[1:57](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=117)** But also in the sources pane, I could use command P, or control P on [[Windows]] or [[Linux]], to open any file that Chrome is aware of.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=126)** I start typing main.js, and here it is.
 >
@@ -2508,7 +2483,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=261)** Okay, now we've skipped jQuery, and we've just gone over to the lettering plugin, and because I'm in the developer build of jQuery lettering, it's not minified and I can really see what's going on here.
 >
-> **[4:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=274)** And it's showing me that the method I've passed in to the lettering function is word.
+> **[4:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=274)** And it's showing me that the method I've passed in to the lettering function is [[Microsoft Word|word]].
 >
 > **[4:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980&t=280)** Which sounds right, but it's not working.
 >
@@ -2536,7 +2511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), css (2), [[HTML]] (2), [[Troubleshooting]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1), [[Windows]] (1)
 > **Code Identifiers:** jquery (14)
 > **File Paths:** lettering.js (5), main.js (3), index.html (2)
 > **UI Navigation:** open the (2), scroll down (2), in the sidebar (1)
@@ -2545,14 +2520,13 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Exercise Files:** exercise files (1)
 
-#### Debugging a React application in Chrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980)
+#### [Debugging a React application in Chrome](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=0)** - [Instructor] In this video, we're going to look at an example using React with both the built-in debugger and React's own custom developer tools.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=0)** - [Instructor] In this video, we're going to look at an example using [[React.js|React]] with both the built-in debugger and React's own custom developer tools.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=7)** If you've never seen React before, it's a very popular JavaScript user interface framework based on components.
+> **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=7)** If you've never seen React before, it's a very popular [[JavaScript]] user interface framework based on components.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=12)** So you break up your project into logical pieces with their own bits of data all built in JavaScript and assemble your UI from those components.
 >
@@ -2560,9 +2534,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=24)** But ultimately, it's all JavaScript.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=26)** This example involves some Ajax, so to run it successfully, you'll need a local web server.
+> **[0:26](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=26)** This example involves some [[AJAX]], so to run it successfully, you'll need a local web server.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=32)** I'm using MAMP, which is available for macOS or Windows, but there are tons of options available.
+> **[0:32](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=32)** I'm using MAMP, which is available for macOS or [[Windows]], but there are tons of options available.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=37)** If you don't have a local web server like this and you want to learn more, you can search the library for Apache or local web server and find lots of videos with more detail.
 >
@@ -2598,7 +2572,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=135)** And there's a link that'll take me there, so let's do that.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=139)** These tools are available for Chrome, Firefox, or Microsoft Edge.
+> **[2:19](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=139)** These tools are available for Chrome, Firefox, or [[Microsoft]] Edge.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=143)** I'm using Chrome here, so we'll go to the Chrome Web Store, following that link.
 >
@@ -2630,7 +2604,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=211)** But first, let's take a look at the code.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=214)** So over here in my editor, I've opened the directory.js file and the index.html file.
+> **[3:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=214)** So over here in my editor, I've opened the directory.js file and the index.[[HTML]] file.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=220)** In React, components are either ES6 classes or functions.
 >
@@ -2648,7 +2622,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=260)** Going to set a breakpoint inside this callback function.
 >
-> **[4:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=263)** This is called after Axios goes and gets that directorydata.json file, which contains all the people that should be displayed on the page.
+> **[4:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=263)** This is called after Axios goes and gets that directorydata.[[JSON]] file, which contains all the people that should be displayed on the page.
 >
 > **[4:31](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-react-application-in-chrome-22151337?u=76281980&t=271)** I'm going to reload so we can trigger this, except it doesn't get triggered because Babel has transpiled this page.
 >
@@ -2736,7 +2710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), data (8), web (7), [[JavaScript]] (3), [[AJAX]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[JavaScript]] (3), [[AJAX]] (2), [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** mamp (7), url (1), es6 (1), xml (1), http (1)
 > **Code Identifiers:** isloaded (4), macos (1), postmessage (1), visiblepeople (1), setisloaded (1)
 > **File Paths:** directory.js (3), index.html (1), directorydata.json (1)
@@ -2745,12 +2719,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (3), go to (1)
 > **Ports:** port 8888 (2), port 80 (1)
 
-#### Debugging on iOS using Simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-on-ios-using-simulator?u=76281980)
+#### [Debugging on iOS using Simulator](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-on-ios-using-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-on-ios-using-simulator?u=76281980&t=0)** - [Instructor] In this video we're going to look at how to debug JavaScript running on an iOS device using Safari's developer tools and the simulator built into x code.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-on-ios-using-simulator?u=76281980&t=0)** - [Instructor] In this video we're going to look at how to debug [[JavaScript]] running on an iOS device using Safari's developer tools and the simulator built into x code.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-on-ios-using-simulator?u=76281980&t=8)** Most of what we see here applies when debugging on actual devices plugged in over USB as well.
 >
@@ -2926,7 +2899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[JavaScript]] (3), dom (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Tools:** safari (12)
 > **Code Identifiers:** jquery (8), ios (3)
 > **CLI Commands:** make (4), find (3)
@@ -2935,12 +2908,11 @@ created: 2026-05-02
 > **Env Vars:** usb (2), url (1)
 > **Prerequisites:** setup (1), you'll need (1)
 
-#### Remote debugging on an Android device
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980)
+#### [Remote debugging on an Android device](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how to do remote debugging on an Android device.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how to do remote debugging on an [[Android]] device.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=4)** This is possible in Chrome or Firefox.
 >
@@ -3050,7 +3022,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=188)** Many of these features are available for Firefox, as well.
 >
-> **[3:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=190)** Especially the JavaScript debugging.
+> **[3:10](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=190)** Especially the [[JavaScript]] debugging.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/remote-debugging-on-an-android-device?u=76281980&t=192)** Look for the web IDE tool in Firefox to find your device there.
 >
@@ -3060,7 +3032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (8), [[Debugging]] (4), web (3), prompt (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Android]] (8), [[JavaScript]] (1)
 > **Env Vars:** usb (3), url (1), ide (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** firefox (3)
@@ -3069,8 +3041,7 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1)
 > **Definitions:** is an  (1)
 
-#### Challenge: Other people's code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980)
+#### [Challenge: Other people's code](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3102,13 +3073,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=67)** Here it is, a little card table that will deal out the number of cards you ask for.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=71)** You want to have this running from your local web server, as we saw with our previous react example.
+> **[1:11](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=71)** You want to have this running from your local web server, as we saw with our previous [[React.js|react]] example.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=76)** I've tried to keep the amount of very idiomatically react syntax moderate so those who have never used it before don't want to just throw their computers at the nearest window.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=84)** This is supposed to be a challenge, not something that feels impossible.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=87)** There's plenty of Vanilla JavaScript here.
+> **[1:27](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=87)** There's plenty of [[Vanilla]] [[JavaScript]] here.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-other-people-s-code?u=76281980&t=89)** Okay, let's try it.
 >
@@ -3244,7 +3215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (13), data (3), web (2), [[Debugging]] (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (13), [[Vanilla]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (2), stands for (2), means that (1), is an  (1)
 > **UI Navigation:** scroll down (2), open the (1)
 > **CLI Commands:** pip (1), make (1)
@@ -3253,8 +3224,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Other people's code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980)
+#### [Solution: Other people's code](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3332,7 +3302,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=169)** Here it is, array.prototype.slice.
 >
-> **[2:55](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=175)** So I can see looking at this array that passing in just one parameter will give me the rest of the array after the first two.
+> **[2:55](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=175)** So I can see looking at this array that passing in just one parameter will give me the [[Representational State Transfer (REST)|rest]] of the array after the first two.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=184)** That is our problem.
 >
@@ -3372,7 +3342,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=243)** This part isn't working either.
 >
-> **[4:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=247)** Referring back to the react developer tools, I do know if I look at the table that the number of cards that I want is actually being tracked correctly by the component.
+> **[4:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=247)** Referring back to the [[React.js|react]] developer tools, I do know if I look at the table that the number of cards that I want is actually being tracked correctly by the component.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-other-people-s-code?u=76281980&t=256)** I'm just not using it properly.
 >
@@ -3430,15 +3400,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), hit (1), [[Representational State Transfer (REST)|Rest]] (1), [[Debugging]] (1), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (1), scroll down (1), scroll up (1)
 > **Tools:** visual studio (2)
 > **File Paths:** cards.js (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Debugging a Node.js application in WebStorm
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980)
+#### [Debugging a Node.js application in WebStorm](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3462,7 +3431,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=50)** I'm going to choose two.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=52)** It retrieves the data and then gives it back to me, but it's in the form of this massive JSON blob.
+> **[0:52](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=52)** It retrieves the data and then gives it back to me, but it's in the form of this massive [[JSON]] blob.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=58)** I want this as plain text that I can copy and paste.
 >
@@ -3486,7 +3455,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=121)** There's a search field here in the preferences which is good because there's a lot of options.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=126)** And when I search for node, what I get selected here is under languages and frameworks, Node.js.
+> **[2:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=126)** And when I search for node, what I get selected here is under languages and frameworks, [[Node.js]].
 >
 > **[2:13](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=133)** And what I want to turn on is this coding assistance for Node.js.
 >
@@ -3512,7 +3481,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=195)** Then we're using the question method from readline and prompting for how many paragraphs we want.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=201)** To that we pass this git paragraphs callback function.
+> **[3:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=201)** To that we pass this [[Git]] paragraphs callback function.
 >
 > **[3:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=204)** The answer that the user gave is the parameter that's passed in, which we're calling numb paragraphs.
 >
@@ -3538,7 +3507,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=267)** And so basically this just keeps firing over and over again until we've collected all the data that's coming back.
 >
-> **[4:33](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=273)** Then once we've collected all that data, the end event fires, and that's where we're doing the rest of the work.
+> **[4:33](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=273)** Then once we've collected all that data, the end event fires, and that's where we're doing the [[Representational State Transfer (REST)|rest]] of the work.
 >
 > **[4:40](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=280)** Note that when that end event fires, currently we're just basically barfing that JSON blob out to standard out, and then adding a new line.
 >
@@ -3570,7 +3539,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=374)** I'm just going to give this a name, we'll call it lipsum.
 >
-> **[6:18](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=378)** And then the JavaScript file that we're going to run is all I need in terms of configuration.
+> **[6:18](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=378)** And then the [[JavaScript]] file that we're going to run is all I need in terms of configuration.
 >
 > **[6:23](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-a-node-js-application-in-webstorm?u=76281980&t=383)** So I'll just set this to gitlipsum.js.
 >
@@ -3708,7 +3677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), node (11), [[JSON]] (8), [[Node.js]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Node.js]] (3), [[Git]] (2), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (14), make (6), git (2), find (1)
 > **Env Vars:** json (7), ide (6), https (3), api (1), http (1)
 > **File Paths:** node.js (3), gitlipsum.js (2), feed.json (1)
@@ -3717,16 +3686,15 @@ created: 2026-05-02
 > **URLs:** [lipsum.com](https://lipsum.com) (3), [jetbrains.com](https://jetbrains.com) (1)
 > **Prerequisites:** setup (1), set up (1), install (1)
 
-#### Setting up the WordPress example
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980)
+#### [Setting up the WordPress example](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=0)** - [Instructor] The next example is going to involve working on a WordPress theme in Visual Studio Code.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=0)** - [Instructor] The next example is going to involve working on a [[WordPress]] theme in Visual Studio Code.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=5)** In this video, we're going to do some setup for that WordPress portion.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=9)** This will require a local web server, just as our React example did.
+> **[0:09](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=9)** This will require a local web server, just as our [[React.js|React]] example did.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=13)** We're still using MAMP, but I'm going to make a configuration change this time.
 >
@@ -3758,13 +3726,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=102)** And the reason we're interested in this is is because we are going to need to import the database.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=107)** And we can do that here under the tools menu and go to PHP My Admin.
+> **[1:47](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=107)** And we can do that here under the tools menu and go to [[PHP]] My Admin.
 >
 > **[1:53](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=113)** If it doesn't open it for you or you don't want to go to that start page, you can just go to localhost/phpmyadmin5.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=122)** And now we're going to go to the import tab and choose the file that we want to import.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=132)** I'm going to browse to the exercise files and this can be either on the desktop or in the ones you've copied into MAMP's folder and grab the _database.sql file.
+> **[2:12](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=132)** I'm going to browse to the exercise files and this can be either on the desktop or in the ones you've copied into MAMP's folder and grab the _database.[[SQL]] file.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=145)** Scroll down and import.
 >
@@ -3772,7 +3740,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=156)** And we can open this up to see that there are tables here in the database to make sure it worked.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=163)** Most local development servers include PHP admin like this, but you can use any database management tool you like, even the command line, if that's what your server of choice supports.
+> **[2:43](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=163)** Most local development servers include PHP admin like this, but you can use any [[Database Management]] tool you like, even the command line, if that's what your server of choice supports.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-javascript-debugging-2/setting-up-the-wordpress-example-22153322?u=76281980&t=174)** As long as you're using the root user, this should all work.
 >
@@ -3792,7 +3760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), database (5), next (3), web (3), [[PHP]] (3)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[PHP]] (3), [[React.js|React]] (1), [[SQL]] (1), [[Database Management]] (1)
 > **Env Vars:** mamp (7), php (2), dbgwp (1), dbgjs_wp (1)
 > **UI Navigation:** go to (5), open the (2), scroll down (1)
 > **CLI Commands:** make (4), php (3)
@@ -3801,8 +3769,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1), command line (1)
 > **Exercise Files:** exercise files (2)
 
-#### Challenge: Debugging with an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-debugging-with-an-ide?u=76281980)
+#### [Challenge: Debugging with an IDE](https://www.linkedin.com/learning/learning-javascript-debugging-2/challenge-debugging-with-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3854,7 +3821,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), web (2), hit (1)
 > **Tools:** visual studio (2)
 > **Prerequisites:** configure (2)
 > **Env Vars:** ide (1)
@@ -3862,8 +3828,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Debugging with an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980)
+#### [Solution: Debugging with an IDE](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3875,7 +3840,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=16)** So while I'm here, I'm going to copy the URL of this page that we're debugging, and then over here in Visual Studio Code, I'm going to create a debugging configuration.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=25)** That's going to be here in the run or debug panel, and I'll create my launch.json file against Chrome.
+> **[0:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=25)** That's going to be here in the run or debug panel, and I'll create my launch.[[JSON]] file against Chrome.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=33)** I can leave everything just like it is except for the URL.
 >
@@ -3883,7 +3848,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=39)** There we go, and incidentally, you don't have to debug in Chrome.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=44)** There are other extensions if you search for debugger, there's one for Firefox, down here, you can see there's another one for Microsoft Edge.
+> **[0:44](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=44)** There are other extensions if you search for debugger, there's one for Firefox, down here, you can see there's another one for [[Microsoft]] Edge.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=51)** So we have some options.
 >
@@ -3899,11 +3864,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=88)** Each of these can be treated individually.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=95)** Okay, so let's go to the JavaScript folder, and we'll open main.js.
+> **[1:35](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=95)** Okay, so let's go to the [[JavaScript]] folder, and we'll open main.js.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=102)** Before we just had maybe one line here, but now we have some more code to look at.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=108)** And I know that we have these event listeners on each word, we're getting a random color and then we're setting the style.
+> **[1:48](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=108)** And I know that we have these event listeners on each [[Microsoft Word|word]], we're getting a random color and then we're setting the style.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-javascript-debugging-2/solution-debugging-with-an-ide?u=76281980&t=115)** Everything looks okay, so I guess we need to add a breakpoint inside this callback function that should colorize the words and see what is wrong.
 >
@@ -3967,7 +3932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), [[Microsoft Word|Word]] (3), [[JSON]] (1), [[Search]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[JSON]] (1), [[Microsoft]] (1), [[JavaScript]] (1)
 > **Tools:** visual studio (2), firefox (1)
 > **File Paths:** launch.json (1), main.js (1)
 > **Env Vars:** url (2)
@@ -3976,14 +3941,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** set up (1)
 
-#### Debug a WordPress theme in Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980)
+#### [Debug a WordPress theme in Visual Studio Code](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=0)** - [Instructor] In this video we're going to explore setting up web debugging in Visual Studio Code with Chrome.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=5)** We'll be using this example WordPress site where the site's theme has a JavaScript issue that needs to be resolved.
+> **[0:05](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=5)** We'll be using this example [[WordPress]] site where the site's theme has a [[JavaScript]] issue that needs to be resolved.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=11)** First, we'll take a look at what the page is doing and what we're expecting it to do.
 >
@@ -4013,7 +3977,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=78)** I'm going to click run and debug, and choose web app Chrome.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=84)** This creates a hidden.visual studio code folder in my project folder, and then creates a launch.json file with this configuration.
+> **[1:24](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=84)** This creates a hidden.visual studio code folder in my project folder, and then creates a launch.[[JSON]] file with this configuration.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-javascript-debugging-2/debug-a-wordpress-theme-in-visual-studio-code-22151336?u=76281980&t=94)** So, I can see that this is going to launch Chrome, and it's going to use this URL.
 >
@@ -4123,7 +4087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Debugging]] (5), web (3), [[JavaScript]] (3), next (3)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[WordPress]] (1), [[JSON]] (1)
 > **Tools:** visual studio (9)
 > **Env Vars:** url (5), ide (1)
 > **CLI Commands:** make (1), node (1)
@@ -4132,12 +4096,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 
-#### Use a debugger as a learning tool on a live site
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/use-a-debugger-as-a-learning-tool-on-a-live-site-22149297?u=76281980)
+#### [Use a debugger as a learning tool on a live site](https://www.linkedin.com/learning/learning-javascript-debugging-2/use-a-debugger-as-a-learning-tool-on-a-live-site-22149297?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/use-a-debugger-as-a-learning-tool-on-a-live-site-22149297?u=76281980&t=0)** - [Instructor] Up to this point, we've been using a JavaScript debugger to look for problems in code we're editing, but there's another way to employ a debugger that's also quite useful.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/use-a-debugger-as-a-learning-tool-on-a-live-site-22149297?u=76281980&t=0)** - [Instructor] Up to this point, we've been using a [[JavaScript]] debugger to look for problems in code we're editing, but there's another way to employ a debugger that's also quite useful.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/use-a-debugger-as-a-learning-tool-on-a-live-site-22149297?u=76281980&t=8)** You can bring all the same tools to bear on a live website to learn about how it works.
 >
@@ -4263,7 +4226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), business (1), css (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5)
 > **Code Identifiers:** jquery (2)
 > **Definitions:** is a  (2)
 > **File Paths:** improved.js (1)
@@ -4277,12 +4240,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=0)** - [Instructor] Now that you have a richer understanding of how to debug JavaScript, you might want to explore some other related parts of the library.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=0)** - [Instructor] Now that you have a richer understanding of how to debug [[JavaScript]], you might want to explore some other related parts of the library.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=7)** The selection of courses is ever expanding.
 >
@@ -4306,7 +4268,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=41)** And then Node dot JS development.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=44)** And then finally, there's my own course, React for web designers.
+> **[0:44](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=44)** And then finally, there's my own course, [[React.js|React]] for web designers.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980&t=47)** If you're interested in getting started with React, it's a great way to start to dip your toes in the water and see how it works.
 >
@@ -4338,7 +4300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (11), web (3), node (2), [[React.js|React]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[React.js|React]] (2)
 > **CLI Commands:** node (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** es6 (2)
@@ -4347,16 +4309,15 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extra JavaScript resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980)
+#### [Extra JavaScript resources](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=0)** - [Joe] Having explored JavaScript debugging, you may be wondering what a possible next step would be in your learning journey.
+> **[0:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=0)** - [Joe] Having explored [[JavaScript]] debugging, you may be wondering what a possible next step would be in your learning journey.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=6)** Let's look at a couple possibilities.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=8)** First up is version control.
+> **[0:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=8)** First up is [[Version Control]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=9)** Version control software lets developers keep track of our work over time.
 >
@@ -4366,7 +4327,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=25)** It's kind of like undo and redo on a larger scale.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=28)** Some examples of version control software are Git, which is definitely the most popular right now, but also Mercurial, which is abbreviated as Hg, and Subversion, which has been around for a long time.
+> **[0:28](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=28)** Some examples of version control software are [[Git]], which is definitely the most popular right now, but also Mercurial, which is abbreviated as Hg, and Subversion, which has been around for a long time.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=39)** These tools keep getting easier to use, both the command line tools themselves and a whole bunch of graphical UIs that are built on top of them.
 >
@@ -4376,7 +4337,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=52)** First is Version Control for Everyone, which is a course of mine that explores version control as applied to things that are not strictly just programming.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=61)** GitHub for Web Designers is a great introduction to GitHub for web designers.
+> **[1:01](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=61)** [[GitHub]] for Web Designers is a great introduction to GitHub for web designers.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=66)** [[Learning Git and GitHub]] is more general.
 >
@@ -4384,7 +4345,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=79)** And then Learning Software Version Control is a more general course that helps you apply these concepts more generally.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=85)** Next up, I'd recommend you look at test-driven development.
+> **[1:25](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=85)** Next up, I'd recommend you look at [[Test-Driven Development]].
 >
 > **[1:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=89)** This is a different way of working than you might be used to.
 >
@@ -4416,7 +4377,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=173)** This makes it much faster to run and execute your tests, and it basically gives you a programmable web browser.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=180)** Some other tools that don't necessarily work with Chrome but work with other browsers as well are PhantomJS and Selenium and WebDriver.
+> **[3:00](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=180)** Some other tools that don't necessarily work with Chrome but work with other browsers as well are PhantomJS and [[Selenium]] and WebDriver.
 >
 > **[3:08](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=188)** All of these tools are worth exploring.
 >
@@ -4424,9 +4385,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=193)** Here are a couple of examples.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=195)** Test-Driven Development with Node.js will show you how to work with all these tools in a JavaScript context for writing Node apps.
+> **[3:15](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=195)** Test-Driven Development with [[Node.js]] will show you how to work with all these tools in a JavaScript context for writing Node apps.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=201)** And then [[Programming Foundations- Test-Driven Development]] will explore all of these concepts in a more general fashion that you can apply to any programming language.
+> **[3:21](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=201)** And then [[[[Programming Foundations]]- Test-Driven Development]] will explore all of these concepts in a more general fashion that you can apply to any programming language.
 >
 > **[3:29](https://www.linkedin.com/learning/learning-javascript-debugging-2/extra-javascript-resources?u=76281980&t=209)** So those are a couple of options for where you can look next, version control and test-driven development.
 >
@@ -4434,7 +4395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (10), [[GitHub]] (6), web (5), [[Test-Driven Development]] (5), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[Version Control]] (10), [[GitHub]] (6), [[Test-Driven Development]] (5), [[JavaScript]] (4), [[Git]] (3)
 > **Tools:** github (6), command line (1)
 > **CLI Commands:** git (3), node (2)
 > **Definitions:** is a  (4)

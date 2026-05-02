@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mitigate spoofing threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980)
+#### [Mitigate spoofing threats](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=1)** - Fakery and manipulation are in the news every day.
 >
-> **[0:05](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=5)** There's phishing, troll bots, and clever attackers.
+> **[0:05](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=5)** There's [[Phishing]], troll bots, and clever attackers.
 >
 > **[0:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=9)** Your bank doesn't know who's trying to log in from a foreign country, you on vacation or a criminal organization.
 >
@@ -100,21 +99,20 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=42)** I'm Adam Shostack.
 >
-> **[0:44](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=44)** Over my 20 years of threat modeling, I've published a book, shipped software, and created a game, all to help people threat model.
+> **[0:44](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=44)** Over my 20 years of [[Threat Modeling]], I've published a book, shipped software, and created a game, all to help people threat model.
 >
-> **[0:53](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=53)** Join me in my course where I'll explore many of the ways attackers spoof people, files, and even systems, to help you deliver more secure products and services.
+> **[0:53](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980&t=53)** Join me in my course where I'll explore many of the ways attackers spoof people, files, and even systems, to help you deliver more secure [[Microsoft Products|products]] and services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (1), [[Threat Modeling]] (1), game (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Threat Modeling]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - fakery (1)
 
-#### Four-question framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/four-question-framework?u=76281980)
+#### [Four-question framework](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/four-question-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/four-question-framework?u=76281980&t=1)** - At the heart of threat modeling are four incredibly simple questions.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/four-question-framework?u=76281980&t=1)** - At the heart of [[Threat Modeling]] are four incredibly simple questions.
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/four-question-framework?u=76281980&t=5)** What are we working on?
 >
@@ -140,12 +138,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
-#### Spoofing as a part of STRIDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980)
+#### [Spoofing as a part of STRIDE](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=3)** All sorts of things can be faked, from apples, are they really organic, to Zydeco, if you hum a few bars.
 >
-> **[0:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=9)** In cybersecurity, the focus of fakery is spoofing.
+> **[0:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=9)** In [[Cybersecurity]], the focus of fakery is spoofing.
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=13)** Spoofing is really simple.
 >
@@ -179,9 +176,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=55)** Identities that are faked or spoofed include both human and technical identities.
 >
-> **[1:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=61)** Those technical identities include just about anything referred to by a name, machines, processes, microservices, web services, even files.
+> **[1:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=61)** Those technical identities include just about anything referred to by a name, machines, processes, [[Microservices]], web services, even files.
 >
-> **[1:11](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=71)** I can fake a specific person, hello, I'm William Shakespeare, a random person, hello, my name's John Doe, or a person in a role, hello, I am a Nigerian Prince.
+> **[1:11](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=71)** I can fake a specific person, hello, I'm William Shakespeare, a random person, hello, my name's [[John the Ripper|John]] Doe, or a person in a role, hello, I am a Nigerian Prince.
 >
 > **[1:23](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-as-a-part-of-stride?u=76281980&t=83)** I can also fake systems.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (2), [[Cybersecurity]] (1), web (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Cybersecurity]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** stride (2)
 > **URLs:** [http://r0uxacademy.com](http://r0uxacademy.com) (1)
@@ -223,8 +220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Account creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980)
+#### [Account creation](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=94)** Sometimes the account names for these are carefully controlled.
 >
-> **[1:38](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=98)** There's only one John Smith at [rouxacademy.com](https://rouxacademy.com), but anyone can be John Smith on Facebook.
+> **[1:38](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=98)** There's only one [[John the Ripper|John]] Smith at [rouxacademy.com](https://rouxacademy.com), but anyone can be John Smith on Facebook.
 >
 > **[1:44](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980&t=104)** Every step in account creation is vulnerable to threats.
 >
@@ -284,15 +280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **Prerequisites:** set up (2), setup (1)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - some (1)
 
-#### Authentication factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/authentication-factors?u=76281980)
+#### [Authentication factors](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/authentication-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/authentication-factors?u=76281980&t=97)** My versions are more specific than something because something is vague.
 >
-> **[1:42](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/authentication-factors?u=76281980&t=102)** These five factors drive multi-factor authentication.
+> **[1:42](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/authentication-factors?u=76281980&t=102)** These five factors drive [[Multi-factor Authentication]].
 >
 > **[1:47](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/authentication-factors?u=76281980&t=107)** A system should rely on more than one type of factor to increase the reliability of an authentication decision.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1)
 > **Tools:** atom (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -381,8 +376,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Attacking what you know
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980)
+#### [Attacking what you know](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,7 +418,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=103)** They'll steal them from clients.
 >
-> **[1:45](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=105)** Attackers will try to trick people into revealing them through phishing.
+> **[1:45](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=105)** Attackers will try to trick people into revealing them through [[Phishing]].
 >
 > **[1:49](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=109)** They'll trick people into revealing backup authentication information.
 >
@@ -442,20 +436,19 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=143)** Lastly, what you know can be made stronger when you prove what you know.
 >
-> **[2:30](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=150)** For example with asymmetric cryptography I can sign a challenge the server provides and prove that I have the private key that's associated with a given account without ever revealing it.
+> **[2:30](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=150)** For example with asymmetric [[Cryptography]] I can sign a challenge the server provides and prove that I have the private key that's associated with a given account without ever revealing it.
 >
 > **[2:42](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980&t=162)** What you know is both easy to use and easy to attack, which is why there are so many exciting ways to use cryptography for authentication, to strengthen the what you know factor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (2), cloud (1), game (1), database (1), data (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Phishing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - good (1)
 
-#### Attacking what you have
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-have?u=76281980)
+#### [Attacking what you have](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-have?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,12 +478,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - attacks (1)
 
-#### Attacking what you are
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-are?u=76281980)
+#### [Attacking what you are](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-are?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,12 +547,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Analogies:** picture (3), for example (1)
 > **Speakers:** - biometric (1)
 
-#### Attacking where you are
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-where-you-are?u=76281980)
+#### [Attacking where you are](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-where-you-are?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -613,19 +602,18 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-where-you-are?u=76281980&t=145)** Systems like this can get confused by VPNs or mobile networks, which will often haul traffic to a new interconnect without apparent rhyme or reason.
 >
-> **[2:35](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-where-you-are?u=76281980&t=155)** Your real customers may be cut off if you include the wrong factors in your authentication systems.
+> **[2:35](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-where-you-are?u=76281980&t=155)** Your real customers may be cut off if you include the wrong factors in your [[Authentication Systems]].
 >
 > **[2:43](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-where-you-are?u=76281980&t=163)** Where you are is important in very different ways to both the person choosing to authenticate and the system performing the authentication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Authentication Systems]] (1)
+> **Frameworks & Libraries:** [[Authentication Systems]] (1)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - the (1)
 
-#### Attacking who you know
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-who-you-know?u=76281980)
+#### [Attacking who you know](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-who-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,8 +648,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - who (1)
 
-#### Attacking phone authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-phone-authentication?u=76281980)
+#### [Attacking phone authentication](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-phone-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,8 +690,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spoofing a host
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980)
+#### [Spoofing a host](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +718,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980&t=59)** The router may impose some additional policies about inbound or outbound packets.
 >
-> **[1:04](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980&t=64)** And those can make other forms of spoofing harder.
+> **[1:04](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980&t=64)** And those can make other [[Forms]] of spoofing harder.
 >
 > **[1:07](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980&t=67)** Every single system in this network has more than one address.
 >
@@ -756,7 +742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Security]] (1), [[Forms]] (1), web (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** nat (3), ssl (2), isp (1)
 > **URLs:** [apple.com](https://apple.com) (2)
 > **Versions:** 10.2.3 (1), 18.4.5 (1)
@@ -765,8 +751,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - when (1)
 
-#### Advanced host spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980)
+#### [Advanced host spoofing](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +763,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=16)** Some security tools do this with simple command line options.
 >
-> **[0:20](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=20)** For example, this nmap command tells nmap to spoof packets as if they're coming from IP 10.2.3.5 while scanning 10.2.3.6.
+> **[0:20](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=20)** For example, this [[Nmap]] command tells nmap to spoof packets as if they're coming from IP 10.2.3.5 while scanning 10.2.3.6.
 >
 > **[0:32](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=32)** I'll call the three machines Spoofer, Target, and Spoofee so I don't have to keep repeating the numbers.
 >
@@ -788,7 +773,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=64)** Obviously, it's easier to spoof well when I know more about what's goin' on.
 >
-> **[1:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=69)** That knowledge can come from using promiscuous mode on a network interface and a tool like tcpdump or Wireshark.
+> **[1:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=69)** That knowledge can come from using promiscuous mode on a network interface and a tool like tcpdump or [[Wireshark]].
 >
 > **[1:17](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=77)** Those let me view all the packets on the network including their TCP sequence numbers, which I can use to craft packets of my own.
 >
@@ -800,13 +785,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=112)** And although IPv6 has tools for integrating Crypto to make spoofing harder, it's difficult to deploy.
 >
-> **[1:59](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=119)** While the goal was for IPv6 to have mandatory cryptography, that plan was abandoned.
+> **[1:59](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=119)** While the goal was for IPv6 to have mandatory [[Cryptography]], that plan was abandoned.
 >
 > **[2:06](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/advanced-host-spoofing?u=76281980&t=126)** Spoofing is feasible even when you're not playing monkey in the middle with the packets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Wireshark]] (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (2), [[Wireshark]] (1), [[Cryptography]] (1)
 > **CLI Commands:** make (3)
 > **Versions:** 10.2.3 (2)
 > **Env Vars:** tcp (1)
@@ -815,8 +800,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Spoofing the OSI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-the-osi-model?u=76281980)
+#### [Spoofing the OSI model](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-the-osi-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -900,7 +884,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (7), data (1), cloud (1), [[Security]] (1)
 > **Env Vars:** dns (7), tcp (5), mac (3), osi (1)
 > **Code Identifiers:** rouxacademy (3)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (3)
@@ -909,8 +892,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - attackers (1)
 
-#### What you know in host spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/what-you-know-in-host-spoofing?u=76281980)
+#### [What you know in host spoofing](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/what-you-know-in-host-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +920,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/what-you-know-in-host-spoofing?u=76281980&t=83)** So even if I don't know them, a program blasting out thousands of guesses is going to get some hits.
 >
-> **[1:31](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/what-you-know-in-host-spoofing?u=76281980&t=91)** It's easy to get into the trap of thinking that local machines are trustworthy or these lower levels of a stack are secure, but that's a much weaker assumption than my attacker can't break well-implemented cryptography.
+> **[1:31](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/what-you-know-in-host-spoofing?u=76281980&t=91)** It's easy to get into the trap of thinking that local machines are trustworthy or these lower levels of a stack are secure, but that's a much weaker assumption than my attacker can't break well-implemented [[Cryptography]].
 >
 > **[1:47](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/what-you-know-in-host-spoofing?u=76281980&t=107)** Now, protocols like TCP and DNS are out of your control, but you can bring this thinking to what you build on top of them.
 >
@@ -962,15 +944,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), traffic (1), [[Cryptography]] (1), data (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1)
 > **Env Vars:** dns (5), tcp (3), ssh (2), hmap (1), tls (1)
 > **CLI Commands:** ssh (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - one (1)
 
-#### Spoofing TLS
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-tls?u=76281980)
+#### [Spoofing TLS](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-tls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-tls?u=76281980&t=31)** The TLS connection won't work unless the host someone is trying to reach is the name on that certificate.
 >
-> **[0:39](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-tls?u=76281980&t=39)** Most certificates rely on asymmetric cryptography where keys have mathematically related parts.
+> **[0:39](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-tls?u=76281980&t=39)** Most certificates rely on asymmetric [[Cryptography]] where keys have mathematically related parts.
 >
 > **[0:47](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-tls?u=76281980&t=47)** Some of those systems can be used to produce a digital signature where the private part of the key is used to create a signature that can be verified with the public part.
 >
@@ -1056,7 +1037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cryptography]] (1), dns (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1)
 > **URLs:** [rouxacademy.com](https://rouxacademy.com) (6), [example.com](https://example.com) (2), [r0uxacademy.com](https://r0uxacademy.com) (1), [evil.com](https://evil.com) (1)
 > **Env Vars:** tls (3), dns (1), url (1)
 > **Definitions:** is a  (3)
@@ -1070,8 +1051,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spoofing a specific person in email
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-specific-person-in-email?u=76281980)
+#### [Spoofing a specific person in email](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-specific-person-in-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), dns (1), business (1)
 > **URLs:** [badguys.com](https://badguys.com) (3), [ridinghoods.com](https://ridinghoods.com) (1)
 > **Definitions:** is a  (2)
 > **Ports:** port 25 (1)
@@ -1143,8 +1122,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - i (1)
 
-#### Spoofing a person on a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980)
+#### [Spoofing a person on a website](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=8)** Some websites have limits on overlap between display names.
 >
-> **[0:12](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=12)** Now Facebook has some controls over names, but frankly, they don't work very consistently, and when they are consistent, they don't deal with the fact that there are a lot of John Smiths in the world.
+> **[0:12](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=12)** Now Facebook has some controls over names, but frankly, they don't work very consistently, and when they are consistent, they don't deal with the fact that there are a lot of [[John the Ripper|John]] Smiths in the world.
 >
 > **[0:23](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-on-a-website?u=76281980&t=23)** They're better at catching obvious fakery, which is okay until you realize that there probably are parents who really name their kids after fruits or seasons or.
 >
@@ -1190,11 +1168,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Speakers:** - if (1)
 
-#### Spoofing a person in video and audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980)
+#### [Spoofing a person in video and audio](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,13 +1199,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980&t=88)** Now combine that with AI that can have simple phone conversations.
 >
-> **[1:34](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980&t=94)** In 2018, Google demonstrated a system called Duplex which does exactly that.
+> **[1:34](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980&t=94)** In 2018, [[Google]] demonstrated a system called Duplex which does exactly that.
 >
 > **[1:40](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-person-in-video-and-audio?u=76281980&t=100)** They haven't integrated video or voice cloning yet, but technology's only going to get better.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), business (1), ai (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - the (1)
 
@@ -1237,8 +1214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The nature of "open" and paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980)
+#### [The nature of "open" and paths](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1266,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980&t=170)** A more modern version of this is the Downloads folder, on which your browser relies.
 >
-> **[2:56](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980&t=176)** Almost any Windows program is linked to a library file called ieframe.dll.
+> **[2:56](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980&t=176)** Almost any [[Windows]] program is linked to a library file called ieframe.dll.
 >
 > **[3:02](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980&t=182)** If I serve up a file with that name, and a user downloads it, the trap is set for anyone whose downloaded code is not careful as it loads libraries.
 >
@@ -1298,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), web (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **File Paths:** file.txt (2), ruacademy.com/grades.txt (1), temp/runme.sh (1)
 > **URLs:** [ruacademy.com](https://ruacademy.com) (2)
 > **Env Vars:** unc (1), nfs (1)
@@ -1306,8 +1282,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - opening (1)
 
-#### Libraries (LD_PATH, %Downloads%)
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980)
+#### [Libraries (LD_PATH, %Downloads%)](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1331,23 +1306,23 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=66)** Environment variables like LD library path were also used for this purpose.
 >
-> **[1:12](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=72)** Lastly, there are package management utilities like npm.
+> **[1:12](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=72)** Lastly, there are [[Package Management]] utilities like [[npm]].
 >
 > **[1:16](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=76)** npm's mission in life is to muck with, I mean, update the libraries that you're using.
 >
 > **[1:23](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=83)** But you don't need to be using npm to get special libraries.
 >
-> **[1:27](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=87)** For example, in July of 2018, a package called eslint-scope that gets 2 million downloads a week was backdoored by attackers.
+> **[1:27](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=87)** For example, in July of 2018, a package called [[ESLint]]-scope that gets 2 million downloads a week was backdoored by attackers.
 >
 > **[1:38](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=98)** Much of the web involves getting code from other sites, and while this may seem like more of a tampering attack than spoofing, it's a great way to get a target to load the wrong library.
 >
-> **[1:50](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=110)** In that vein, in November 2018, a web analytics company was breached.
+> **[1:50](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=110)** In that vein, in November 2018, a [[Web Analytics]] company was breached.
 >
-> **[1:56](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=116)** They provide a library a website can use to gather statistics about their visitors.
+> **[1:56](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=116)** They provide a library a website can use to gather [[Statistics]] about their visitors.
 >
-> **[2:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=121)** The attackers added a few lines of code to the main stats counter JavaScript used on over 2 million sites.
+> **[2:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=121)** The attackers added a few lines of code to the main stats counter [[JavaScript]] used on over 2 million sites.
 >
-> **[2:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=129)** This particular attack intended to steal cryptocurrency at an exchange site.
+> **[2:09](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=129)** This particular attack intended to steal [[Cryptocurrency]] at an exchange site.
 >
 > **[2:16](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/libraries-ld-path-downloads?u=76281980&t=136)** The way it did that was to check the URL of the page that was loading the library, and if that URL included the string myaccount/withdraw/BTC, then the malware loaded.
 >
@@ -1361,14 +1336,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), web (3), [[Package Management]] (1), [[ESLint]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Package Management]] (1), [[ESLint]] (1), [[Web Analytics]] (1), [[Statistics]] (1)
 > **Env Vars:** url (2), btc (2), uid (1)
 > **CLI Commands:** npm (3)
 > **Analogies:** for example (1)
 > **Speakers:** - libraries (1)
 
-#### Defenses with extra fail
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980)
+#### [Defenses with extra fail](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1370,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=54)** So really, I'd set my permission's umask, then create the directory.
 >
-> **[1:00](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=60)** I can know that there's a directory that's Mode 700 and files in it are writeable only by group threat modeling and it does me, the attacker, no good.
+> **[1:00](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=60)** I can know that there's a directory that's Mode 700 and files in it are writeable only by group [[Threat Modeling]] and it does me, the attacker, no good.
 >
 > **[1:10](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=70)** The operating system will control access and that's what the developer wants.
 >
@@ -1414,7 +1388,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=113)** Similarly, enhancing authentication via text message, so full of fail, I don't even know where to start.
 >
-> **[2:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=121)** SIM porting attacks where someone spoofs me and gets the phone company to move my phone number changing my effective telco, malware that steals it off a phone, unprotected cloud storage at text message companies, these are among the answers you should see while looking at the phone threat model.
+> **[2:01](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=121)** SIM porting attacks where someone spoofs me and gets the phone company to move my phone number changing my effective telco, malware that steals it off a phone, unprotected [[Cloud Storage]] at text message companies, these are among the answers you should see while looking at the phone threat model.
 >
 > **[2:21](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/defenses-with-extra-fail?u=76281980&t=141)** There are many controls out there which have been through extensive cycles of being attacked and improved.
 >
@@ -1428,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** xyz (2), sim (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1441,8 +1415,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure by Design: Bring authenticity to your systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980)
+#### [Secure by Design: Bring authenticity to your systems](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1429,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980&t=21)** Make some of it real so you can speak to spoofing as you analyze new systems.
 >
-> **[0:28](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980&t=28)** This course is a great introduction to understanding spoofing threats, so you can apply it to threat modeling work.
+> **[0:28](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980&t=28)** This course is a great introduction to understanding spoofing threats, so you can apply it to [[Threat Modeling]] work.
 >
 > **[0:36](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980&t=36)** For a more comprehensive view, check out my book Threat Modeling: Designing for Security.
 >
@@ -1466,7 +1439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - spoofing (1)

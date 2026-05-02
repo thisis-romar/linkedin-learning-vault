@@ -65,20 +65,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototyping for user experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980)
+#### [Prototyping for user experience](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=1)** - Welcome to the Foundations of UX Prototyping.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=1)** - Welcome to the Foundations of UX [[Prototyping]].
 >
 > **[0:04](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=4)** I'm Diane Cronenwett.
 >
-> **[0:05](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=5)** I'm a user experience designer and I've worked for leading Silicon Valley-based tech companies for over 18 years.
+> **[0:05](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=5)** I'm a [[User Experience (UX)|user experience]] designer and I've worked for leading Silicon Valley-based tech companies for over 18 years.
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=12)** In this course, we'll cover prototyping as part of the design process and how prototyping creates better experiences.
 >
-> **[0:19](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=19)** We'll also cover different prototyping fidelities, and we'll wrap it up by creating an interactive prototype with Figma.
+> **[0:19](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=19)** We'll also cover different prototyping fidelities, and we'll wrap it up by creating an interactive prototype with [[Figma (Software)|Figma]].
 >
 > **[0:26](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980&t=26)** This course is an overview of prototyping, and we'll get to learn some of the tools that help support the prototyping process.
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (7), ux (2), [[User Experience (UX)|User experience]] (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (7), [[User Experience (UX)|User experience]] (1), [[Figma (Software)|Figma]] (1)
 > **Tools:** figma (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - welcome (1)
@@ -96,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is UX prototyping?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980)
+#### [What is UX prototyping?](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=43)** Wireframes can be grayscale or black-and-white.
 >
-> **[0:47](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=47)** A mockup is usually a fully rendered user interface with color details, typography, and general layout defined.
+> **[0:47](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=47)** A mockup is usually a fully rendered user interface with color details, [[Typography]], and general layout defined.
 >
 > **[0:54](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=54)** A mockup looks like the final product.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=115)** How user interfaces interact are a key aspect of the overall design.
 >
-> **[2:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=120)** Prototyping enables us to test out flows, validate design concepts, iterate through different ideas, and deliver cohesive experiences.
+> **[2:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=120)** [[Prototyping]] enables us to test out flows, validate design concepts, iterate through different ideas, and deliver cohesive experiences.
 >
 > **[2:10](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980&t=130)** One of the key concepts behind prototyping is to validate your designs early and often and without a lot of overhead.
 >
@@ -147,16 +145,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), [[Typography]] (1), product (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Typography]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - a (1)
 
-#### Why do we prototype?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980)
+#### [Why do we prototype?](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=1)** - One of the key things to remember about prototyping, is that it's not about the tool, it's about the design.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=1)** - One of the key things to remember about [[Prototyping]], is that it's not about the tool, it's about the design.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=7)** The tool is there to support your design, but the design is a primary focus.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=59)** The third is to determine if a product experience is usable.
 >
-> **[1:04](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=64)** Prototypes for usability testing are typically more detailed and higher fidelity, because at this point the design direction has already been sorted out, and now the feedback is focused on whether the product is usable.
+> **[1:04](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=64)** Prototypes for [[Usability Testing]] are typically more detailed and higher fidelity, because at this point the design direction has already been sorted out, and now the feedback is focused on whether the product is usable.
 >
 > **[1:16](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/why-do-we-prototype?u=76281980&t=76)** The kind of feedback you might look for in this phase, would include feedback on whether button labels are clear, and if interactions are understood.
 >
@@ -192,17 +189,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), business (3), [[Prototyping]] (2), feature (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Usability Testing]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Avoid costly mistakes with prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980)
+#### [Avoid costly mistakes with prototyping](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=1)** - Developing products without first getting early feedback from your target market is risky.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=1)** - Developing [[Microsoft Products|products]] without first getting early feedback from your target market is risky.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=6)** It's expensive to build a product without first determining if your market is amenable to the idea or to the approach.
 >
@@ -210,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=18)** If you have a product idea and create a fully functioning experience, you might find that the product isn't what users expect.
 >
-> **[0:25](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=25)** This is where prototyping can help.
+> **[0:25](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=25)** This is where [[Prototyping]] can help.
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/avoid-costly-mistakes-with-prototyping?u=76281980&t=27)** You'll find out through the prototyping process where your design ideas fail and where they shine.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Prototyping]] (4), [[Microsoft Products|Products]] (1), functional (1), data (1)
+> **Frameworks & Libraries:** [[Prototyping]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** make sure you have (1), required to (1)
@@ -255,16 +251,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototyping and the design process
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980)
+#### [Prototyping and the design process](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980&t=1)** - There are a few distinct models of the design process and how to apply design thinking to your product or to anything really.
+> **[0:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980&t=1)** - There are a few distinct models of the design process and how to apply [[Design Thinking]] to your product or to anything really.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980&t=7)** Design thinking is a problem-solving method, and while there are different design process models, the key steps are largely the same.
 >
-> **[0:16](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980&t=16)** Prototyping is a key phase in the design process, and as a product becomes more defined, the prototyping techniques can change accordingly.
+> **[0:16](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980&t=16)** [[Prototyping]] is a key phase in the design process, and as a product becomes more defined, the prototyping techniques can change accordingly.
 >
 > **[0:24](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980&t=24)** Moving from low fidelity to a higher fidelity.
 >
@@ -310,15 +305,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (5), product (3), [[Design Thinking]] (2), next (2), functional (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Design Thinking]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Master design fidelity in prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980)
+#### [Master design fidelity in prototyping](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,9 +326,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=22)** Staying low fidelity is a good way to focus on getting the interactions in the flow correct without being overly concerned about the visual representation.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=31)** An example of when you may want to use a low fidelity approach is when you're in the early phase of interviewing your users and you have some ideas of the problems you want to solve, but you want to get feedback before going too far into the idea.
+> **[0:31](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=31)** An example of when you may want to use a low fidelity approach is when you're in the early phase of [[Interviewing]] your users and you have some ideas of the problems you want to solve, but you want to get feedback before going too far into the idea.
 >
-> **[0:45](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=45)** In this case, sketching out some high level ideas and putting them in front of users is a great way to get feedback and track their reactions.
+> **[0:45](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=45)** In this case, [[Sketching]] out some high level ideas and putting them in front of users is a great way to get feedback and track their reactions.
 >
 > **[0:53](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=53)** Sketches can introduce new ideas that the user may not have thought about until seeing the sketch.
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=74)** You can have a low fidelity prototype that has a very unpolished interface, like a gray scale wire frame.
 >
-> **[1:20](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=80)** Some prototyping tools are designed to simulate a sketchy interface, using basic shapes to convey this low level of fidelity.
+> **[1:20](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=80)** Some [[Prototyping]] tools are designed to simulate a sketchy interface, using basic shapes to convey this low level of fidelity.
 >
 > **[1:27](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=87)** Medium fidelity prototypes can have a mix of basic functionality and some defined interface elements, but some flows may not be complete because you want more input and feedback from the user to guide the design.
 >
@@ -354,7 +348,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=105)** Only a few of the links worked because we wanted feedback on the links that didn't work, and we wanted the user to tell us where they think they should go and why.
 >
-> **[1:54](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=114)** In this example, the design was partially defined, but we needed more understanding from the user to define the rest of the design.
+> **[1:54](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=114)** In this example, the design was partially defined, but we needed more understanding from the user to define the [[Representational State Transfer (REST)|rest]] of the design.
 >
 > **[2:02](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/master-design-fidelity-in-prototyping?u=76281980&t=122)** Typically, medium fidelity prototypes are used in the phase of design where you have some key elements in place, but still need to validate some concepts to get a better understanding of the user's needs.
 >
@@ -372,13 +366,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (2), [[Prototyping]] (2), [[Interviewing]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Sketching]] (2), [[Prototyping]] (2), [[Interviewing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Explore your design ideas through low-fidelity prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/explore-your-design-ideas-through-low-fidelity-prototyping?u=76281980)
+#### [Explore your design ideas through low-fidelity prototyping](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/explore-your-design-ideas-through-low-fidelity-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/explore-your-design-ideas-through-low-fidelity-prototyping?u=76281980&t=16)** Low fidelity is sometimes defined as only paper-based, like a sketch.
 >
-> **[0:21](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/explore-your-design-ideas-through-low-fidelity-prototyping?u=76281980&t=21)** There's some nuances to this debate, but I'm defining low fidelity to include clickable wire frames, which can be created in a prototyping software that mimics low fidelity interfaces.
+> **[0:21](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/explore-your-design-ideas-through-low-fidelity-prototyping?u=76281980&t=21)** There's some nuances to this debate, but I'm defining low fidelity to include clickable wire frames, which can be created in a [[Prototyping]] software that mimics low fidelity interfaces.
 >
 > **[0:32](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/explore-your-design-ideas-through-low-fidelity-prototyping?u=76281980&t=32)** There's a lot of pros to using low fidelity prototypes, especially early in the user-centered design process.
 >
@@ -440,14 +433,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1), next (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - low (1)
 
-#### Medium- and high-fidelity prototyping for flexibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/medium-and-high-fidelity-prototyping-for-flexibility?u=76281980)
+#### [Medium- and high-fidelity prototyping for flexibility](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/medium-and-high-fidelity-prototyping-for-flexibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,18 +507,17 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/medium-and-high-fidelity-prototyping-for-flexibility?u=76281980&t=176)** As a result, they can be difficult to update, especially if there are some issues with core functionality that is highlighted through testing.
 >
-> **[3:04](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/medium-and-high-fidelity-prototyping-for-flexibility?u=76281980&t=184)** Prototyping is a fundamental aspect of the user-centered design process, but knowing the advantages and disadvantages are helpful when thinking about which fidelity is right for you and where you are in your design process.
+> **[3:04](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/medium-and-high-fidelity-prototyping-for-flexibility?u=76281980&t=184)** [[Prototyping]] is a fundamental aspect of the user-centered design process, but knowing the advantages and disadvantages are helpful when thinking about which fidelity is right for you and where you are in your design process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - medium (1)
 
-#### Testing your prototype and avoiding confirmation bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/testing-your-prototype-and-avoiding-confirmation-bias?u=76281980)
+#### [Testing your prototype and avoiding confirmation bias](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/testing-your-prototype-and-avoiding-confirmation-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/testing-your-prototype-and-avoiding-confirmation-bias?u=76281980&t=73)** Open-ended research can be tricky because people will have questions, and a good facilitator will be able to let the conversation flow, but bring the focus back to the design if needed.
 >
-> **[1:25](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/testing-your-prototype-and-avoiding-confirmation-bias?u=76281980&t=85)** Typically, while a facilitator is interviewing the user, either remotely or in person, the project team and the designer will observe the session.
+> **[1:25](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/testing-your-prototype-and-avoiding-confirmation-bias?u=76281980&t=85)** Typically, while a facilitator is [[Interviewing]] the user, either remotely or in person, the project team and the designer will observe the session.
 >
 > **[1:34](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/testing-your-prototype-and-avoiding-confirmation-bias?u=76281980&t=94)** It's critical that the designer be present at the user research sessions to hear the feedback directly from the user.
 >
@@ -572,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), next (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (2)
 > **Warnings:** be aware (1)
@@ -583,8 +574,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Paper prototyping for simple explorations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980)
+#### [Paper prototyping for simple explorations](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +586,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=19)** A facilitator will be able to offer context by providing scenarios for them to think about and help guide the user if they get stuck, or to get the user to speak more about their thoughts on the design.
 >
-> **[0:32](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=32)** Paper prototyping is pretty easy to do.
+> **[0:32](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=32)** Paper [[Prototyping]] is pretty easy to do.
 >
 > **[0:35](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=35)** You don't have to worry about whether or not you can draw, and the fidelity just needs to be clear enough to get your point across.
 >
@@ -606,13 +596,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=50)** For testing mobile paper prototypes, it's nice to have a cutout of a mobile frame to simulate the limited view of items in the viewport.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=59)** The rest of the prototype can be drawn on paper.
+> **[0:59](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=59)** The [[Representational State Transfer (REST)|rest]] of the prototype can be drawn on paper.
 >
 > **[1:04](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=64)** When you're using the same prototype for multiple people, sometimes the paper will get torn or worn out, so a heavier weight of paper helps prevent that.
 >
-> **[1:14](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=74)** So let's say that we want to create an e-commerce store mobile site.
+> **[1:14](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=74)** So let's say that we want to create an [[E-Commerce]] store mobile site.
 >
-> **[1:19](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=79)** When approaching any type of prototype, you'll want to start by sketching out ideas of the screens and the flows for your design.
+> **[1:19](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=79)** When approaching any type of prototype, you'll want to start by [[Sketching]] out ideas of the screens and the flows for your design.
 >
 > **[1:26](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980&t=86)** For example, I have a few iterations where I just came up with some different approaches for the design of the homepage and the kind of content I want to showcase.
 >
@@ -630,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1), [[Sketching]] (1), next (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[E-Commerce]] (1), [[Sketching]] (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -641,14 +631,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic prototyping with Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980)
+#### [Basic prototyping with Figma](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=0)** - [Instructor] I created these screens for an e-commerce hat company using these elements.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=0)** - [Instructor] I created these screens for an [[E-Commerce]] hat company using these elements.
 >
-> **[0:06](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=6)** If you have access to the files, all of these assets are included so you can follow along in Figma.
+> **[0:06](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=6)** If you have access to the files, all of these assets are included so you can follow along in [[Figma (Software)|Figma]].
 >
 > **[0:14](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=14)** Let's walk through the overall flow and the interactions.
 >
@@ -662,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=50)** When I tap out of this sheet, I can tap onto the Customize button and customize the hat color, select the sizing, and add this item to the cart.
 >
-> **[1:02](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=62)** Let's start with organizing the screens and elements and start connecting them using the Figma prototyping functionality.
+> **[1:02](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=62)** Let's start with organizing the screens and elements and start connecting them using the Figma [[Prototyping]] functionality.
 >
 > **[1:09](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=69)** I'm going to use the frame size of iPhone, 390 by 844, as a default size.
 >
@@ -676,13 +665,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=97)** Let's name the first frame Home, the second one, Product Detail, and the last one, Bottom Sheet.
 >
-> **[1:45](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=105)** I have the elements we're going to use on the left, and we'll compose the screens using these elements.
+> **[1:45](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=105)** I have the elements we're going to use on the left, and we'll [[Jetpack Compose|compose]] the screens using these elements.
 >
 > **[1:52](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=112)** Here, I have three frames.
 >
 > **[1:54](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=114)** One for the homepage header, one for the content, and the last one for the tab bar.
 >
-> **[2:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=121)** I'm going to select the homepage header from the layer and copy and paste it to the frame I named Home using the Command + C on a Mac or Control + C on Windows to copy.
+> **[2:01](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=121)** I'm going to select the homepage header from the layer and copy and paste it to the frame I named Home using the Command + C on a Mac or Control + C on [[Windows]] to copy.
 >
 > **[2:13](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980&t=133)** I'm going to select the Home frame and paste it into the frame.
 >
@@ -718,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Figma (Software)|Figma]] (2), next (2), [[E-Commerce]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[E-Commerce]] (1), [[Prototyping]] (1), [[Jetpack Compose|Compose]] (1), [[Windows]] (1)
 > **UI Navigation:** select the (5)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** iphone (2)
@@ -727,8 +716,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Connecting screens and interactions in Figma prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/connecting-screens-and-interactions-in-figma-prototypes?u=76281980)
+#### [Connecting screens and interactions in Figma prototypes](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/connecting-screens-and-interactions-in-figma-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/connecting-screens-and-interactions-in-figma-prototypes?u=76281980&t=34)** With the home screen selected, let's tap on the prototype.
 >
-> **[0:38](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/connecting-screens-and-interactions-in-figma-prototypes?u=76281980&t=38)** When you tap on the frame elements in the Prototyping mode, you'll see shape outlines that have circles, and when you hover over them, they turn into plus signs.
+> **[0:38](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/connecting-screens-and-interactions-in-figma-prototypes?u=76281980&t=38)** When you tap on the frame elements in the [[Prototyping]] mode, you'll see shape outlines that have circles, and when you hover over them, they turn into plus signs.
 >
 > **[0:47](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/connecting-screens-and-interactions-in-figma-prototypes?u=76281980&t=47)** These are the connection points where you can drag arrows to other screens to create interactions.
 >
@@ -806,15 +794,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Prototyping]] (4), product (4)
+> **Frameworks & Libraries:** [[Prototyping]] (4)
 > **UI Navigation:** select the (6), go to (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1), in the next (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Scrolling and overlay interactions in Figma prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/scrolling-and-overlay-interactions-in-figma-prototypes?u=76281980)
+#### [Scrolling and overlay interactions in Figma prototypes](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/scrolling-and-overlay-interactions-in-figma-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,24 +867,23 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/scrolling-and-overlay-interactions-in-figma-prototypes?u=76281980&t=183)** Okay, we were able to connect the bottom sheet to the product detail, and learned how to use the drag interaction with scrolling.
 >
-> **[3:11](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/scrolling-and-overlay-interactions-in-figma-prototypes?u=76281980&t=191)** In the next video, let's dive into using interactive components for prototyping.
+> **[3:11](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/scrolling-and-overlay-interactions-in-figma-prototypes?u=76281980&t=191)** In the next video, let's dive into using interactive components for [[Prototyping]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), product (3), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **UI Navigation:** select the (5), go to (1)
 > **Cross-References:** previous video (1), in the last (1), in the next (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactive components in Figma prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980)
+#### [Interactive components in Figma prototyping](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980&t=0)** - [Instructor] In the previous video, we dove into dragging and scrolling interactions using Figma and using an overlay.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980&t=0)** - [Instructor] In the previous video, we dove into dragging and scrolling interactions using [[Figma (Software)|Figma]] and using an overlay.
 >
-> **[0:07](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980&t=7)** In this video, let's talk about prototyping with interactive components in Figma.
+> **[0:07](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980&t=7)** In this video, let's talk about [[Prototyping]] with interactive components in Figma.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/interactive-components-in-figma-prototyping?u=76281980&t=13)** The last part of this prototype is the customization flow, and let's talk a little bit about the design.
 >
@@ -993,7 +979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), next (6), [[Prototyping]] (1), product (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), [[Prototyping]] (1)
 > **Tools:** figma (6)
 > **CLI Commands:** make (5)
 > **UI Navigation:** select the (4), switch to (1)
@@ -1007,16 +993,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your prototyping journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980)
+#### [Continue your prototyping journey](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980&t=0)** - Thank you so much for watching the course.
 >
-> **[0:02](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980&t=2)** I hope that you feel confident in understanding how prototyping fits into the overall design process and how you can achieve the best user experience and bring your designs to life.
+> **[0:02](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980&t=2)** I hope that you feel confident in understanding how [[Prototyping]] fits into the overall design process and how you can achieve the best [[User Experience (UX)|user experience]] and bring your designs to life.
 >
-> **[0:13](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980&t=13)** To find out more about me, please visit my LinkedIn profile.
+> **[0:13](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980&t=13)** To find out more about me, please visit my [[LinkedIn]] profile.
 >
 > **[0:17](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980&t=17)** I also write on my website at [dianecronenwett.com](https://dianecronenwett.com).
 >
@@ -1028,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (3), [[User Experience (UX)|User experience]] (2), [[LinkedIn]] (1), ux (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[User Experience (UX)|User experience]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [dianecronenwett.com](https://dianecronenwett.com) (1)
 > **Speakers:** - thank (1)

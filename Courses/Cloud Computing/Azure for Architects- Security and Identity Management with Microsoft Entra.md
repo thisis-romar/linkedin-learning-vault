@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security and identity management with Microsoft Entra
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980)
+#### [Security and identity management with Microsoft Entra](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,11 +92,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=3)** If so, you are in the right place.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=6)** In this course, I will teach you the new Microsoft Entra ID and the Entra suite of products, which will help you to secure and manage your identity infrastructure.
+> **[0:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=6)** In this course, I will teach you the new [[Microsoft Entra ID]] and the [[Microsoft Entra ID|Entra]] suite of [[Microsoft Products|products]], which will help you to secure and manage your identity infrastructure.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=18)** I will tell you how to automate the employee lifecycle, work closer with customers and partners, protect your identities, and make your employees more productive from day one.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=31)** Microsoft is now embracing an identity-centric architecture in Azure, so there is no better time to learn this than now.
+> **[0:31](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=31)** [[Microsoft]] is now embracing an identity-centric architecture in [[Microsoft Azure|Azure]], so there is no better time to learn this than now.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980&t=42)** I'm Gary Grudzinskas.
 >
@@ -116,14 +115,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Microsoft Entra ID authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980)
+#### [Understanding Microsoft Entra ID authentication](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=0)** - [Instructor] Understanding Microsoft Entra Authentication.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=0)** - [Instructor] Understanding [[Microsoft]] [[Microsoft Entra ID|Entra]] Authentication.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=4)** I think the most important thing to provide context of what we're doing here is this word right here, or a double hyphenated word, identity-centric.
+> **[0:04](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=4)** I think the most important thing to provide context of what we're doing here is this [[Microsoft Word|word]] right here, or a double hyphenated word, identity-centric.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=15)** What this means is your identity and your customer's identity, your partner's identity, your employees identity are going to be central to their access.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=59)** What I want you to have is a knowledge of what is available to you with Microsoft Entra.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=66)** You know when and where to use each one of these products, and instead of just a PowerPoint that spells out everything that you want for that particular product, what I'm going to do is show you inside the product itself.
+> **[1:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=66)** You know when and where to use each one of these [[Microsoft Products|products]], and instead of just a [[Microsoft PowerPoint|PowerPoint]] that spells out everything that you want for that particular product, what I'm going to do is show you inside the product itself.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=83)** Now, let's take a look at identities.
 >
@@ -157,19 +155,19 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=127)** Once you're authenticated, well, what can you do according to your identity?
 >
-> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=133)** These become more important because Microsoft Azure is shifting towards identity-centric, so we have authorization and authentication wrapped within the identity infrastructure now.
+> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=133)** These become more important because [[Microsoft Azure]] is shifting towards identity-centric, so we have authorization and authentication wrapped within the identity infrastructure now.
 >
-> **[2:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=150)** The new product to take care of identities in Microsoft Azure is called the Entra ID, and this is the heart of Microsoft Azure identity infrastructure.
+> **[2:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=150)** The new product to take care of identities in Microsoft Azure is called the [[Microsoft Entra ID|Entra ID]], and this is the heart of Microsoft Azure identity infrastructure.
 >
 > **[2:43](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=163)** I want you to think of it like this.
 >
 > **[2:46](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=166)** Identity as a service.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=168)** We don't have IaaS, which is infrastructure-as-a-service, but this really helps you.
+> **[2:48](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=168)** We don't have [[IaaS]], which is infrastructure-as-a-service, but this really helps you.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=176)** All your identity needs are in one place right now and that should be looked at as an identity-as-a-service.
 >
-> **[3:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=185)** This is separate from Active Directory, both the Active Directory in Azure and your local on-premises Active Directory directory services, and that is because we used to separate the identities.
+> **[3:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=185)** This is separate from [[Active Directory]], both the Active Directory in [[Microsoft Azure|Azure]] and your local on-premises Active Directory directory services, and that is because we used to separate the identities.
 >
 > **[3:22](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=202)** That was one interface, one thing we dealt with, and then all the access and a lot of the security was another interface and we just kind of brought the identities into that and it's the way you should look at this when we're talking about identity-centric infrastructure.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=247)** What I want to do is just show you basically what we're talking about here.
 >
-> **[4:12](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=252)** If you had Azure Active Directory, you had P1 and P2, and it's the same thing with the Entra ID.
+> **[4:12](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=252)** If you had [[Microsoft Entra ID|Azure Active Directory]], you had P1 and P2, and it's the same thing with the Entra ID.
 >
 > **[4:18](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=258)** You're going to get a few more services with a P2 than you do with the P1.
 >
@@ -239,7 +237,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=420)** And now, we have an External ID that we can do a lot more things with.
 >
-> **[7:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=425)** We have Permissions Management and this allows you to interact with the different cloud providers: AWS and the Google Cloud Platform.
+> **[7:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=425)** We have Permissions Management and this allows you to interact with the different cloud providers: AWS and the [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[7:16](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=436)** We have the Workload ID, which, your workloads can actually have an ID that you deal with as you would deal with any other identity.
 >
@@ -249,11 +247,11 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=462)** So it's a great technology if you're going to lift and shift up to the cloud and go cloud-first infrastructure.
 >
-> **[7:51](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=471)** So that is a look at how we're going to conduct the course and a general idea of the Microsoft Entra ID and the Entra Suite of products.
+> **[7:51](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980&t=471)** So that is a look at how we're going to conduct the course and a general idea of the [[Microsoft Entra ID]] and the Entra Suite of products.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (9), [[Microsoft]] (8), [[Microsoft Products|Products]] (6), [[Active Directory]] (4), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (9), [[Microsoft]] (8), [[Microsoft Products|Products]] (6), [[Active Directory]] (4), [[Microsoft Azure]] (3)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** scroll down (2)
 > **CLI Commands:** aws (1)
@@ -261,18 +259,17 @@ created: 2026-05-02
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Microsoft Entra ID authentication options
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980)
+#### [Understanding Microsoft Entra ID authentication options](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=0)** - [Instructor] Here is kind of what's changed when you're dealing with identities and managing them in Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=0)** - [Instructor] Here is kind of what's changed when you're dealing with identities and managing them in [[Microsoft Azure]].
 >
-> **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=8)** All identities, all application access, all the policies are now in one place, and that place is the Microsoft Entra Admin Center.
+> **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=8)** All identities, all application access, all the policies are now in one place, and that place is the [[Microsoft]] [[Microsoft Entra ID|Entra]] Admin Center.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=21)** The idea is this, that you don't have to spread yourself around and have four different open windows in order to do something with the identities in Microsoft Azure.
+> **[0:21](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=21)** The idea is this, that you don't have to spread yourself around and have four different open [[Windows]] in order to do something with the identities in Microsoft Azure.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=34)** It's all in one place, And I might say that it has been separated from the general Azure interface that you're dealing with.
+> **[0:34](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=34)** It's all in one place, And I might say that it has been separated from the general [[Microsoft Azure|Azure]] interface that you're dealing with.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=45)** So let's go in there and have a look.
 >
@@ -292,7 +289,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=92)** We'll talk about those identity scores as we go on.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=95)** There's a few things I want to show you inside of here before we get into the details of the specific products and what they do.
+> **[1:35](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=95)** There's a few things I want to show you inside of here before we get into the details of the specific [[Microsoft Products|products]] and what they do.
 >
 > **[1:43](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=103)** We can go to what's new.
 >
@@ -324,7 +321,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=208)** From protection, I'm going to say show more and we're going to go to authentication methods that we can see right here.
 >
-> **[3:37](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=217)** These methods, there's not a lot new here from Microsoft Azure Active Directory, but a few of them are being highlighted more than before.
+> **[3:37](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=217)** These methods, there's not a lot new here from Microsoft Azure [[Active Directory]], but a few of them are being highlighted more than before.
 >
 > **[3:50](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=230)** Microsoft really wants to move to password-less identification or password-less authorization.
 >
@@ -352,7 +349,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=321)** We're all trying to go to MFA multifactor authentication or password-less if we possibly can.
 >
-> **[5:29](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=329)** The Authenticator app, if you're not familiar with this, it's just a little app you get on your iPhone or you get on your Android phone and it goes through there and it works in two different ways.
+> **[5:29](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=329)** The Authenticator app, if you're not familiar with this, it's just a little app you get on your iPhone or you get on your [[Android]] phone and it goes through there and it works in two different ways.
 >
 > **[5:41](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=341)** It can send you a little pass key and that pass key, you type into whatever resource that you're trying to get into, or it can prompt you and say, hey, was this you trying to get into this particular application.
 >
@@ -366,7 +363,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=371)** This can be bound to a device.
 >
-> **[6:14](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=374)** So usually it's somebody with their laptop and they have Windows 10 or Windows 11, or hopefully Windows 12 on their laptop.
+> **[6:14](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=374)** So usually it's somebody with their laptop and they have [[Windows 10]] or Windows 11, or hopefully Windows 12 on their laptop.
 >
 > **[6:22](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=382)** And with that device, with that camera, they can look at the face of the individual and just log them in that way.
 >
@@ -382,15 +379,15 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=429)** Now this diagram shows you what is secure for you to authenticate your users, bad, password bad, good password, and an SMS text message or a voice call to make sure they are who they say they are.
 >
-> **[7:29](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=449)** A little bit better than that is the Authenticator app that we just talked about, software access tokens and hardware access token, hardware in preview as the recording of this course.
+> **[7:29](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=449)** A little bit better than that is the Authenticator app that we just talked about, software access [[Tokens]] and [[Hardware]] access token, hardware in preview as the recording of this course.
 >
 > **[7:42](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=462)** The best, password-less, the authenticator with the iPhone sign in, Windows Hello, the secure key that you take along with you and any type of certificate based access.
 >
-> **[7:56](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=476)** So that is a general look at the Microsoft Intra Admin Center and the different forms of authentication that you can use and decide which one works best for you in Microsoft Azure.
+> **[7:56](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication-options?u=76281980&t=476)** So that is a general look at the Microsoft Intra Admin Center and the different [[Forms]] of authentication that you can use and decide which one works best for you in Microsoft Azure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure]] (5), [[Windows]] (4), [[Microsoft Entra ID|Entra]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure]] (5), [[Windows]] (4), [[Microsoft Entra ID|Entra]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** mfa (5), sms (2), url (1)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (3)
@@ -399,12 +396,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
-#### Microsoft Entra ID security solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980)
+#### [Microsoft Entra ID security solutions](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=0)** - [Instructor] We're going to take a look now at different security solutions that you have with the Microsoft Entra identities.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=0)** - [Instructor] We're going to take a look now at different security solutions that you have with the [[Microsoft]] [[Microsoft Entra ID|Entra]] identities.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=8)** I want to first go over this, and these are the five steps that you take in order to secure your identities.
 >
@@ -438,7 +434,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=114)** Enable end user self-service, and the self-service, one, prevents calls to your help desk, and two, makes your network more secure because people, if they have something happen with their password, then they can go in there and they can change it themselves.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=133)** Let's take a look at different products and different services within the Entra universe.
+> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=133)** Let's take a look at different [[Microsoft Products|products]] and different services within the Entra universe.
 >
 > **[2:21](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=141)** First off, we have Entra smart lockout.
 >
@@ -456,11 +452,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=176)** By default, it's 10 password attempts and then they're locked out.
 >
-> **[3:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=180)** But that can all be customized, which brings us to the Entra ID Password Protection.
+> **[3:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=180)** But that can all be customized, which brings us to the [[Microsoft Entra ID|Entra ID]] Password Protection.
 >
 > **[3:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=188)** There are passwords globally.
 >
-> **[3:11](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=191)** It's a pretty long list and you can guess one thing on that list for bad passwords is the word password.
+> **[3:11](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=191)** It's a pretty long list and you can guess one thing on that list for bad passwords is the [[Microsoft Word|word]] password.
 >
 > **[3:19](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=199)** This is automatically enabled, so nobody can do password as a password.
 >
@@ -532,7 +528,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=399)** I'm going to come down here to Identity and we're going to go to Overview, and this is an overview of all your identities.
 >
-> **[6:46](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=406)** The Azure AD is now Microsoft Entra ID, and you can see different things that are kind of warning you that there are going to be some changes coming down the pipe that might affect you.
+> **[6:46](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=406)** The [[Microsoft Entra ID|Azure AD]] is now [[Microsoft Entra ID]], and you can see different things that are kind of warning you that there are going to be some changes coming down the pipe that might affect you.
 >
 > **[6:58](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-id-security-solutions?u=76281980&t=418)** Our secure score, look at that.
 >
@@ -568,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Entra ID|Entra]] (6), [[Automation]] (3), [[Security]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Entra ID|Entra]] (6), [[Microsoft Products|Products]] (2), [[Microsoft Entra ID|Entra id]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** vpn (1), mfa (1)
@@ -577,12 +573,11 @@ created: 2026-05-02
 > **Versions:** 92.86 (1)
 > **Warnings:** warning (1)
 
-#### Recommending a multifactor authentication (MFA) solution in Microsoft Entra
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980)
+#### [Recommending a multifactor authentication (MFA) solution in Microsoft Entra](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=0)** - [Instructor] We're going to talk about recommending a multifactor authentication, or MFA, solution in Microsoft Entra.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=0)** - [Instructor] We're going to talk about recommending a multifactor authentication, or MFA, solution in [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=7)** Let me give you this quote, and this is by me.
 >
@@ -592,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=24)** Every once in a while, you have to get a text message or get an email, something to verify your account, and that is triggered by maybe having a new device trying to get to an old website that you were a part of.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=40)** So multifactor authentication in Azure, the user is prompted during or after the sign in process for some additional form of identification.
+> **[0:40](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=40)** So multifactor authentication in [[Microsoft Azure|Azure]], the user is prompted during or after the sign in process for some additional form of identification.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=51)** The reason we do this is passwords, and only using passwords and usernames, is very insecure.
 >
@@ -618,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=113)** You have a smartphone, and with that smartphone, you can use something like the Authenticator app.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=120)** You can actually have your laptop that has a hardware key, something you have.
+> **[2:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=120)** You can actually have your laptop that has a [[Hardware]] key, something you have.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=126)** And then we have something you are.
 >
@@ -654,7 +649,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=233)** It might be a user, it might be a group that user is part of, it might be the IP location that suddenly they have moved all the way across the country.
 >
-> **[4:04](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=244)** It could be a particular application that they're trying to get to, and it could be the new real-time assessment that this is looking like it's a problem, and this might be a risky user and a risky sign-in, so let's hit 'em up for another form of ID.
+> **[4:04](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=244)** It could be a particular application that they're trying to get to, and it could be the new [[Real-Time]] assessment that this is looking like it's a problem, and this might be a risky user and a risky sign-in, so let's hit 'em up for another form of ID.
 >
 > **[4:27](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recommending-a-multi-factor-authentication-mfa-solution-in-microsoft-entra?u=76281980&t=267)** And then you have the decision.
 >
@@ -684,21 +679,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (2), [[Security]] (2), [[Hardware]] (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (2), [[Hardware]] (2), [[Microsoft Azure|Azure]] (1), [[Real-Time]] (1)
 > **Env Vars:** mfa (13), usb (1), oath (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra authentication for a hybrid environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980)
+#### [Microsoft Entra authentication for a hybrid environment](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=0)** - [Instructor] We're going to take a look now at a hybrid environment.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=3)** Of course, that is where you have your active directory domain services with its identities on-premises, and then you have your Entra ID identities that are in the cloud, and those two should be synchronized up.
+> **[0:03](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=3)** Of course, that is where you have your [[Active Directory]] domain services with its identities on-premises, and then you have your [[Microsoft Entra ID|Entra ID]] identities that are in the cloud, and those two should be synchronized up.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=20)** Now, the different authentication protocols that we have for that, we have three.
 >
@@ -742,7 +736,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=173)** And think about this now we have Facebook as an authenticator.
 >
-> **[2:57](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=177)** We have Google as a trusted authenticator.
+> **[2:57](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=177)** We have [[Google]] as a trusted authenticator.
 >
 > **[3:01](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=181)** So this is being seen more and more often.
 >
@@ -756,11 +750,11 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=216)** So you don't need any paid additions to do this.
 >
-> **[3:39](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=219)** They can do it through their access panel, Outlook on the web, Office 365, the Azure portal.
+> **[3:39](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=219)** They can do it through their access panel, [[Microsoft Outlook|Outlook]] on the web, [[Microsoft Office|Office]] 365, the [[Microsoft Azure|Azure]] portal.
 >
 > **[3:46](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=226)** Most web browsers are going to support this, and there is something new right at the bottom here.
 >
-> **[3:52](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=232)** You now can use this with the Entra External IDs.
+> **[3:52](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=232)** You now can use this with the [[Microsoft Entra ID|Entra]] External IDs.
 >
 > **[3:56](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=236)** What that scenario is, is you have a partner with your company, well, guess what?
 >
@@ -776,7 +770,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=280)** If you have leaked credentials and mostly, right here, enforced user level active directory security policies, you're not going to get that with hash synchronization.
 >
-> **[4:52](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=292)** However, hash synchronization gives you the cloud-first strategy that Microsoft is pushing.
+> **[4:52](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=292)** However, hash synchronization gives you the cloud-first strategy that [[Microsoft]] is pushing.
 >
 > **[5:01](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=301)** So the sign in is handled completely through the cloud and you don't have to have any integration with the federation.
 >
@@ -816,11 +810,11 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=465)** This provides you with the posture of being cloud-first, so it doesn't really support pass-through authentication.
 >
-> **[7:57](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=477)** So that's a look at a hybrid authentication from an on-premises active director domain controller up to the Entra ID in Microsoft Azure.
+> **[7:57](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-authentication-for-a-hybrid-environment?u=76281980&t=477)** So that's a look at a hybrid authentication from an on-premises active director domain controller up to the Entra ID in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (18), [[Microsoft Entra ID|Entra]] (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (3), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (3), [[Active Directory]] (2), [[Google]] (1)
 > **Env Vars:** ldap (1), ntlm (1)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -833,12 +827,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Microsoft Entra ID authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980)
+#### [Understanding Microsoft Entra ID authorization](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=0)** - [Instructor] We're going to take a look at authorization now, and in particular, I'm going to show you a couple products that you can use to grant people outside of your network and your company internal access to your private applications, and also to control what internet access your people have going outside of the corporation.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=0)** - [Instructor] We're going to take a look at authorization now, and in particular, I'm going to show you a couple [[Microsoft Products|products]] that you can use to grant people outside of your network and your company internal access to your private applications, and also to control what internet access your people have going outside of the corporation.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=23)** So it has made things much more simple.
 >
@@ -846,15 +839,15 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=29)** Authorization is the act of granting an authenticated party permission to do something.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=35)** And in Microsoft Azure, the identity platform, acts as the server.
+> **[0:35](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=35)** And in [[Microsoft Azure]], the identity platform, acts as the server.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=41)** It handles the end user's information, what kind of access they have, and most importantly, the trust relationship between the two parties.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=50)** Now, what does this mean in a practical sense?
 >
-> **[0:54](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=54)** It means that now, granting access internally from an external entity is much simplified because the authorization server is Azure itself.
+> **[0:54](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=54)** It means that now, granting access internally from an external entity is much simplified because the authorization server is [[Microsoft Azure|Azure]] itself.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=69)** The first one I want to show you is this, the Microsoft Entra Private Access.
+> **[1:09](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=69)** The first one I want to show you is this, the [[Microsoft]] [[Microsoft Entra ID|Entra]] Private Access.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980&t=75)** An identity-centric, it replaces a VPN, so you don't have to set anything up.
 >
@@ -950,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Microsoft Entra ID|Entra]] (6), [[Microsoft]] (3), web (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (6), [[Microsoft]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Azure]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** vpn (1), fqdn (1), cidr (1), udp (1), tcp (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** means that (1), is a  (1)
@@ -958,14 +951,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Microsoft hierarchical structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980)
+#### [Understanding the Microsoft hierarchical structure](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980&t=0)** - [Instructor] When we're talking about authorization and controlling what type of access people have, we need to look at the administration of a network, so the hierarchical structure of Microsoft Azure becomes important.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980&t=0)** - [Instructor] When we're talking about authorization and controlling what type of access people have, we need to look at the administration of a network, so the hierarchical structure of [[Microsoft Azure]] becomes important.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980&t=16)** The Azure Authorization Hierarchy, it goes like this.
+> **[0:16](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980&t=16)** The [[Microsoft Azure|Azure]] Authorization Hierarchy, it goes like this.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-the-microsoft-hierarchial-structure?u=76281980&t=20)** We have management groups, and that's usually where you have Azure policy or role-based access control.
 >
@@ -1011,13 +1003,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Microsoft Azure]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Microsoft Azure|Azure]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing identity solutions with RBACs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980)
+#### [Developing identity solutions with RBACs](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1050,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=105)** And what this is going to do is make it easier for you to manage your identities and choose what administrative roles are available to you so you can follow the idea of least privileged access.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=122)** Let's go into the Entra admin center.
+> **[2:02](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=122)** Let's go into the [[Microsoft Entra ID|Entra]] admin center.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=125)** From the landing page, right down here under Identity, see that?
 >
@@ -1091,7 +1082,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=197)** So keep track of that.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=199)** All right, so the best way, I'm going to scroll down so you can see this, the attributes, the DevOps, and some of these are going to look like, "Hey, wait a minute, this doesn't really have anything per se to do with identities."
+> **[3:19](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=199)** All right, so the best way, I'm going to scroll down so you can see this, the attributes, the [[DevOps]], and some of these are going to look like, "Hey, wait a minute, this doesn't really have anything per se to do with identities."
 >
 > **[3:34](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=214)** What I want you to remember is that the whole strategy now is identity centric architecture, meaning that by their identity, they have a particular environment and particular access.
 >
@@ -1111,7 +1102,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=281)** Most of these are going to have a predefined scope.
 >
-> **[4:44](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=284)** They're going to have a predefined set of permissions to that scope, and then they're going to be somewhat descriptive, like Tenant Creator can create new Microsoft Entra or Azure AD B2C tenants.
+> **[4:44](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=284)** They're going to have a predefined set of permissions to that scope, and then they're going to be somewhat descriptive, like Tenant Creator can create new [[Microsoft]] Entra or [[Microsoft Entra ID|Azure AD]] B2C tenants.
 >
 > **[4:59](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=299)** So you should be able to find what you're looking for.
 >
@@ -1139,11 +1130,11 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=361)** And the second one is what kind of tasks were performed with that level of access.
 >
-> **[6:10](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=370)** So that is a look at using RBACs and in particular using the built-in roles for Microsoft Entra and Microsoft Azure.
+> **[6:10](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/developing-identity-solutions-with-rbacs?u=76281980&t=370)** So that is a look at using RBACs and in particular using the built-in roles for Microsoft Entra and [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (4), [[Security]] (3), [[Microsoft]] (3), business (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (3), [[DevOps]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** b2c (1)
@@ -1151,14 +1142,13 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra Privileged Identity Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980)
+#### [Microsoft Entra Privileged Identity Management](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=0)** - [Instructor] Let's say that you want to give permissions only for a little while, just so somebody can perform their task.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=8)** Well, Microsoft Entra Privileged Identity Management, sometimes called PIM, PIM, is your solution for that.
+> **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=8)** Well, [[Microsoft]] [[Microsoft Entra ID|Entra]] Privileged Identity Management, sometimes called PIM, PIM, is your solution for that.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=17)** You provide just-in-time privileged access to resources and it is time-bound.
 >
@@ -1246,11 +1236,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=272)** So we know each time when he did that privileged role.
 >
-> **[4:36](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=276)** So there is a look at privileged identity management in Microsoft Azure.
+> **[4:36](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/5984103?u=76281980&t=276)** So there is a look at privileged identity management in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Microsoft Entra ID|Entra]] (2), next (2), [[Microsoft]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** pim (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -1263,14 +1253,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recommending an Azure application identity security solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980)
+#### [Recommending an Azure application identity security solution](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=0)** - [Instructor] Recommending an Azure Application Identity Security Solution.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=0)** - [Instructor] Recommending an [[Microsoft Azure|Azure]] Application Identity Security Solution.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=5)** For this, we need to look at some of the more primitive applications, let's just say, a legacy IaaS, or infrastructure as a service.
+> **[0:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=5)** For this, we need to look at some of the more primitive applications, let's just say, a legacy [[IaaS]], or [[IaaS|infrastructure as a service]].
 >
 > **[0:16](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=16)** It's hosted on a VM and an OS, and this is where you can get into trouble.
 >
@@ -1280,7 +1269,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=34)** Well, with those, you have a different set of priorities for securing access to them.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=41)** The more modern, just below the software as a service, is the platform as a service.
+> **[0:41](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=41)** The more modern, just below the [[SaaS|software as a service]], is the [[PaaS|platform as a service]].
 >
 > **[0:47](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=47)** And these don't require the application owner to manage and secure the underlying server operating system.
 >
@@ -1310,7 +1299,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=124)** Now, that is a look at applications that you have to watch out for, your more primitive applications.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=132)** Let's go into the Entra admin center and see some of the things that we can do with applications.
+> **[2:12](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=132)** Let's go into the [[Microsoft Entra ID|Entra]] admin center and see some of the things that we can do with applications.
 >
 > **[2:20](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=140)** From the landing page, we're going to come down here to Identity and then Applications.
 >
@@ -1320,7 +1309,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=165)** Well, they have to be part of your identity infrastructure in order to give them access to it.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=174)** Remember, one of the changes that have happened from Azure Active Directory to the Microsoft Entra environment is that, now, everything is pretty much in the same place.
+> **[2:54](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=174)** Remember, one of the changes that have happened from [[Microsoft Entra ID|Azure Active Directory]] to the [[Microsoft]] Entra environment is that, now, everything is pretty much in the same place.
 >
 > **[3:07](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=187)** And you notice, Applications are under Identity now.
 >
@@ -1330,28 +1319,27 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=216)** All you're doing is creating an endpoint to get access to that application, and then you can control whatever identities and conditional access and all the other features that we have with the Entra environment.
 >
-> **[3:55](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=235)** So that's a quick look at how Microsoft Entra deals with applications in Microsoft Azure.
+> **[3:55](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980&t=235)** So that's a quick look at how Microsoft Entra deals with applications in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Microsoft Entra ID|Entra]] (4), data (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1), [[IaaS]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **CLI Commands:** find (2)
 > **Warnings:** be careful (1), watch out (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Microsoft Entra managed identities
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980)
+#### [Using Microsoft Entra managed identities](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=0)** - [Instructor] Let's take a look at using Microsoft Entra Managed Identities.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=0)** - [Instructor] Let's take a look at using [[Microsoft]] [[Microsoft Entra ID|Entra]] Managed Identities.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=5)** Managed identities are used by applications from Azure resources that require some kind of login, and traditionally we've done this with secrets and keys and things like that.
+> **[0:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=5)** Managed identities are used by applications from [[Microsoft Azure|Azure]] resources that require some kind of login, and traditionally we've done this with secrets and keys and things like that.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=18)** Well, this is an alternate to that.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=21)** The managed identity can obtain tokens from Entra ID.
+> **[0:21](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=21)** The managed identity can obtain [[Tokens]] from [[Microsoft Entra ID|Entra ID]].
 >
 > **[0:26](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=26)** There's two types of managed identities.
 >
@@ -1389,7 +1377,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=122)** I have a virtual machine that we're going to assign this to, and simply come down here and say, Review + create.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=133)** It takes a little while for this to create, and as soon as we do, we have a user-defined managed identity and we can assign it to various resources in Microsoft Azure.
+> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=133)** It takes a little while for this to create, and as soon as we do, we have a user-defined managed identity and we can assign it to various resources in [[Microsoft Azure]].
 >
 > **[2:31](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=151)** What I'm going to do now is I'm going to go to the home.
 >
@@ -1437,7 +1425,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=278)** And there it is.
 >
-> **[4:39](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=279)** We can click on the Manage identity for virtual machines, and this is where we can delete it from here.
+> **[4:39](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=279)** We can click on the Manage identity for [[Virtual Machines]], and this is where we can delete it from here.
 >
 > **[4:47](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-microsoft-entra-managed-identities?u=76281980&t=287)** So go ahead and click on Delete.
 >
@@ -1462,20 +1450,19 @@ created: 2026-05-02
 > **Tools:** azure portal (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using external identities in Microsoft Entra
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980)
+#### [Using external identities in Microsoft Entra](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=0)** - [Instructor] Like any business, you deal with a lot of partners, so you have to develop a business-to-business strategy with Microsoft Entra.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=0)** - [Instructor] Like any business, you deal with a lot of partners, so you have to develop a business-to-business strategy with [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=8)** This is where you're going to see some improvements.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=10)** We have this new thing called Entra ID External Identity.
+> **[0:10](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=10)** We have this new thing called [[Microsoft Entra ID|Entra ID]] External Identity.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=15)** This allows you to work with people outside of your organization, and the key here is the users just bring in an external identity, and you can manage a lot of external collaboration settings.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=30)** The external identity accounts, they might be a government-issued account, a company-issued account, Google, Facebook.
+> **[0:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=30)** The external identity accounts, they might be a government-issued account, a company-issued account, [[Google]], Facebook.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/using-external-identities-in-microsoft-entra?u=76281980&t=38)** And the external identities, they allow people outside of your company to securely access your apps and resources within the company.
 >
@@ -1523,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Google]] (3), [[Microsoft Entra ID|Entra id]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Google]] (3), [[Microsoft Entra ID|Entra id]] (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1533,12 +1520,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Entra identity governance: Entitlement management
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980)
+#### [Understanding Entra identity governance: Entitlement management](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=0)** - [Instructor] We're going to look at Entra Identity Governance, and it's important to have a good understanding of this, especially large enterprises that have a lot of users and a lot of complexity.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=0)** - [Instructor] We're going to look at [[Microsoft Entra ID|Entra]] Identity Governance, and it's important to have a good understanding of this, especially large enterprises that have a lot of users and a lot of complexity.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=13)** Here's what it does.
 >
@@ -1594,7 +1580,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=193)** We can put 'em into a group or a team.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=196)** We can assign them applications, we can give them access to SharePoint sites, and we can actually assign an Entra role to them based on this access package.
+> **[3:16](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=196)** We can assign them applications, we can give them access to [[SharePoint]] sites, and we can actually assign an Entra role to them based on this access package.
 >
 > **[3:30](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=210)** Requests, how do they request this?
 >
@@ -1616,22 +1602,21 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=263)** And then we have Custom extensions that fine-tune the triggers and the events that we have.
 >
-> **[4:31](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=271)** So, that is a look at entitlement management with Identity Governance in Microsoft Azure.
+> **[4:31](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980&t=271)** So, that is a look at entitlement management with Identity Governance in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Microsoft Entra ID|Entra]] (3), [[Automation]] (1), product (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (3), [[SharePoint]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Entra identity governance: Lifecycle workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980)
+#### [Understanding Entra identity governance: Lifecycle workflows](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980&t=0)** - [Instructor] We're going to take a look at the Entra Identity Lifestyle workflow.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980&t=0)** - [Instructor] We're going to take a look at the [[Microsoft Entra ID|Entra]] Identity Lifestyle workflow.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980&t=5)** Let me explain what this is.
 >
@@ -1717,22 +1702,21 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980&t=282)** So we can control what schedule this workflow operates with.
 >
-> **[4:49](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980&t=289)** And that is a look at how you can utilize lifestyle workflows to make it much easier to get your people what they need to do their job when they need it in Microsoft Azure.
+> **[4:49](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-lifecycle-workflows?u=76281980&t=289)** And that is a look at how you can utilize lifestyle workflows to make it much easier to get your people what they need to do their job when they need it in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), [[Automation]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (2), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Entra identity governance: Monitoring and auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980)
+#### [Understanding Entra identity governance: Monitoring and auditing](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=0)** - [Instructor] I want to show you how to monitor your identity infrastructure with Microsoft Entra.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=0)** - [Instructor] I want to show you how to monitor your identity infrastructure with [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[0:08](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=8)** The Microsoft Entra monitoring and health can help you determine how apps and services are being utilized, detect potential risks, discover what is preventing users from getting their work done.
 >
@@ -1768,7 +1752,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=93)** We also have risky activities.
 >
-> **[1:36](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=96)** This is an artificial intelligence-induced evaluation of risky items.
+> **[1:36](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=96)** This is an [[Artificial Intelligence (AI)|artificial intelligence]]-induced evaluation of risky items.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=102)** Those risky items: workload identities, users, and sign-ins.
 >
@@ -1784,7 +1768,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=126)** I don't have a lot of sign-ins in here besides myself, but you get the idea.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=133)** Look how many times I've signed in, and this records when I signed in to different items besides just signing into my account for Microsoft Azure.
+> **[2:13](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=133)** Look how many times I've signed in, and this records when I signed in to different items besides just signing into my account for [[Microsoft Azure]].
 >
 > **[2:27](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-monitoring-and-auditing?u=76281980&t=147)** The audit logs are right here, and you can go through and check out those.
 >
@@ -1806,18 +1790,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), [[Microsoft]] (3), [[Microsoft Azure]] (3), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), [[Microsoft]] (3), [[Microsoft Azure]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980)
+#### [Microsoft Entra best practices](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=0)** - [Instructor] I want to conclude by talkin' about the best practices for Microsoft Entra.
+> **[0:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=0)** - [Instructor] I want to conclude by talkin' about the best practices for [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=6)** Let's start with the security principles.
 >
@@ -1849,7 +1832,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=100)** You should use Entra managed identities whenever possible.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=104)** You should use certificates if you have a hybrid service account, that's an on-premises active directory domain services account that is acting as a service account for the applications that you have migrated up to the cloud.
+> **[1:44](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=104)** You should use certificates if you have a hybrid service account, that's an on-premises [[Active Directory]] domain services account that is acting as a service account for the applications that you have migrated up to the cloud.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=123)** Looking at just authentication: strong credentials.
 >
@@ -1885,7 +1868,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=245)** That's where you have the access packages in order to control assigning resources to identities, and taking away that access to the resources as well when it's no longer needed.
 >
-> **[4:18](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=258)** You should use direct assignment if ya have third party SaaS services, which will make access to them within the realm of your control.
+> **[4:18](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=258)** You should use direct assignment if ya have third party [[SaaS]] services, which will make access to them within the realm of your control.
 >
 > **[4:29](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=269)** Finally, administrator accounts, and this is what we've always called them.
 >
@@ -1899,20 +1882,19 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=300)** With privileged identity management, you can put a time restriction on when they can use it.
 >
-> **[5:07](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=307)** If you have administrator accounts, every time, require multi-factor authentication.
+> **[5:07](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=307)** If you have administrator accounts, every time, require [[Multi-factor Authentication]].
 >
 > **[5:15](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/microsoft-entra-best-practices?u=76281980&t=315)** If you have on-premises administrators, do not synchronize that administration account up to the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (3), [[Security]] (3), cloud (3), management (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (3), [[Microsoft]] (1), [[Active Directory]] (1), [[SaaS]] (1), [[Multi-factor Authentication]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Creating Entra lifecycle workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/solution-creating-entra-workforce-lifecycles?u=76281980)
+#### [Solution: Creating Entra lifecycle workflows](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/solution-creating-entra-workforce-lifecycles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +2016,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), teams (1)
 > **UI Navigation:** click on (7)
 > **Code Identifiers:** jobtitle (2), employeeleavedatetime (1), accountenabled (1)
 > **Prerequisites:** configure (3)
@@ -2042,14 +2023,14 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making a more efficient organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980)
+#### [Making a more efficient organization](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2057,11 +2038,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980&t=4)** For the next step, I encourage you to apply the insights that you have gained to create a better running organization.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980&t=14)** I would love to hear from you, so let's connect on LinkedIn.
+> **[0:14](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980&t=14)** I would love to hear from you, so let's connect on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

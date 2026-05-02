@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced cyber concepts simplified
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/advanced-cyber-concepts-simplified?u=76281980)
+#### [Advanced cyber concepts simplified](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/advanced-cyber-concepts-simplified?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), business (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ciso (1)
 > **Speakers:** - are (1)
@@ -106,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threats, risks, and vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980)
+#### [Threats, risks, and vulnerabilities](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,13 +138,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=57)** And risk is assessing how likely and damaging a threat exploding that gap could be.
 >
-> **[1:03](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=63)** Each plays a unique role in the cybersecurity risk management ecosystem to better grasp the differences between threats, vulnerabilities, and risks.
+> **[1:03](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=63)** Each plays a unique role in the [[Cybersecurity]] risk management ecosystem to better grasp the differences between threats, vulnerabilities, and risks.
 >
 > **[1:12](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=72)** Let's consider something we all rely on daily are smartphones.
 >
 > **[1:17](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=77)** These devices are treasure troves of personal and professional data, making them prime targets.
 >
-> **[1:23](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=83)** Threats to your smartphone can come in various forms such as malware, spyware, or phishing attempts.
+> **[1:23](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=83)** Threats to your smartphone can come in various [[Forms]] such as malware, spyware, or [[Phishing]] attempts.
 >
 > **[1:29](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980&t=89)** These are like the digital thieves lurking around looking for an opportunity to strike.
 >
@@ -173,12 +170,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Cybersecurity]] (2), management (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Forms]] (1), [[Phishing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - first (1)
 
-#### Defense in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980)
+#### [Defense in depth](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=24)** These are the first line of defense.
 >
-> **[0:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=26)** Think firewalls, intrusion detection systems, and network segmentation.
+> **[0:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=26)** Think firewalls, [[Intrusion Detection]] systems, and network segmentation.
 >
 > **[0:31](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=31)** At the network level, think of this like the gate around your home.
 >
@@ -204,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=45)** It's like a guard dog, alarm system, and minefield, all built within the house meant to stop an intruder or alert you to their presence.
 >
-> **[0:53](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=53)** At the user level, the controls focus on the individuals accessing the system with strong authentication methods like multi-factor authentication and access control policies.
+> **[0:53](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=53)** At the user level, the controls focus on the individuals accessing the system with strong authentication methods like [[Multi-factor Authentication]] and access control policies.
 >
 > **[1:03](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=63)** It's all about ensuring that only the right people have the right access.
 >
@@ -216,17 +212,17 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=88)** Data level controls secure the core of your kingdom.
 >
-> **[1:31](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=91)** Your data, encryption, backups, and data classification are all paramount.
+> **[1:31](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=91)** Your data, encryption, backups, and [[Data Classification]] are all paramount.
 >
 > **[1:37](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=97)** Even if someone breaches your defenses, encryption acts as a safe, keeping your data secure and unreadable to unauthorized users.
 >
 > **[1:45](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=105)** When considering defense in depth, the most comprehensive strategies encompass protective, detective and responsive-based controls.
 >
-> **[1:52](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=112)** Protective measures aim to prevent attacks, detective controls alert you to ongoing or potential attacks, and the response controls like incident response teams and automated system alerts help you react swiftly to mitigate damage.
+> **[1:52](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=112)** Protective measures aim to prevent attacks, detective controls alert you to ongoing or potential attacks, and the response controls like [[Incident Response]] teams and automated system alerts help you [[React.js|react]] swiftly to mitigate damage.
 >
 > **[2:09](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=129)** Together, these form a comprehensive defense strategy, ensuring resilience against attacks from all angles.
 >
-> **[2:17](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=137)** Okay, so we've explored defense in depth through the lens of cybersecurity, but one thing I found fascinating is that this strategy is actually rooted in military history.
+> **[2:17](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=137)** Okay, so we've explored defense in depth through the lens of [[Cybersecurity]], but one thing I found fascinating is that this strategy is actually rooted in military history.
 >
 > **[2:27](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/defense-in-depth?u=76281980&t=147)** It originated as a tactic designed to delay rather than prevent the advance of an attacker by employing multiple layers of defense, thus buying time and creating opportunities for counter attacks.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), cloud (2), [[Cybersecurity]] (2), [[Intrusion Detection]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Intrusion Detection]] (1), [[Multi-factor Authentication]] (1), [[Data Classification]] (1), [[Incident Response]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** it's like (1), similar to (1)
 > **Env Vars:** edr (1)
@@ -251,8 +247,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Insider threat
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980)
+#### [Insider threat](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=22)** Employees, contractors, or partners, who have access to sensitive information and systems.
 >
-> **[0:29](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=29)** They can manifest in three main ways, malicious insiders who intentionally harm the company, negligent insiders who inadvertently cause damage through carelessness, and accidental insiders who fall victim to phishing or social engineering attacks.
+> **[0:29](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=29)** They can manifest in three main ways, malicious insiders who intentionally harm the company, negligent insiders who inadvertently cause damage through carelessness, and accidental insiders who fall victim to [[Phishing]] or social engineering attacks.
 >
 > **[0:44](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=44)** Imagine a sports team where one player decides to share the team's playbook with the competition, or a player leaves the playbook in a public place.
 >
@@ -280,28 +275,27 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=82)** Incidents like these happen all too often.
 >
-> **[1:25](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=85)** Preventing insider threats involves a mix of technical controls, such as access management, and user behavior analytics, as well as organizational measures like regular training, and a culture of security awareness, which would include encouraging employees to report suspicious activities, and ensuring they understand the protocols for handling sensitive information.
+> **[1:25](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=85)** Preventing insider threats involves a mix of technical controls, such as access management, and user behavior analytics, as well as organizational measures like regular training, and a culture of [[Security Awareness]], which would include encouraging employees to report suspicious activities, and ensuring they understand the protocols for handling sensitive information.
 >
 > **[1:43](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=103)** Now, these are too simple, but key ways to mitigating these risks.
 >
-> **[1:47](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=107)** Insider threats pose a complex challenge, blending the lines between cybersecurity and human factors.
+> **[1:47](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=107)** Insider threats pose a complex challenge, blending the lines between [[Cybersecurity]] and human factors.
 >
 > **[1:54](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980&t=114)** Remember, security is not just the responsibility of IT and Cyber, it's a team effort, and we are only as strong as the team members we work with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Phishing]] (1), [[Engineering]] (1), management (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Security Awareness]] (1), [[Cybersecurity]] (1)
 > **Analogies:** imagine (1), for example (1), such as (1)
 > **Speakers:** - one (1)
 
-#### Ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980)
+#### [Ransomware](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=0)** - One of the most feared type of security threats is ransomware.
 >
-> **[0:04](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=4)** Ransomware is malicious software that encrypts files on a device or network, holding them hostage until a ransom is paid, usually in some form of cryptocurrency.
+> **[0:04](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=4)** Ransomware is malicious software that encrypts files on a device or network, holding them hostage until a ransom is paid, usually in some form of [[Cryptocurrency]].
 >
 > **[0:13](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=13)** Ransomware attackers are no longer satisfied with just locking down your files.
 >
@@ -311,15 +305,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=33)** While it may seem daunting, understand that, at its core, ransomware, it's still just malware, and that will help you in crafting effective defenses.
 >
-> **[0:42](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=42)** We'll cover everything from basic resiliency controls to ransomware-specific countermeasures.
+> **[0:42](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=42)** We'll cover everything from basic [[Resiliency]] controls to ransomware-specific countermeasures.
 >
-> **[0:47](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=47)** Ransomware operates by infiltrating systems in ways similar to other malware, through phishing emails, exploiting vulnerabilities, or malicious downloads.
+> **[0:47](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=47)** Ransomware operates by infiltrating systems in ways similar to other malware, through [[Phishing]] emails, exploiting vulnerabilities, or malicious downloads.
 >
 > **[0:57](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=57)** This means standard malware protection techniques are also your first line of defense against ransomware.
 >
 > **[1:03](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=63)** Let's break down some of the basics before diving into the specifics.
 >
-> **[1:07](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=67)** Foundational cybersecurity measures include regular software updates, robust endpoint security solutions, and educating employees about phishing.
+> **[1:07](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=67)** Foundational [[Cybersecurity]] measures include regular software updates, robust [[Endpoint Security]] solutions, and educating employees about phishing.
 >
 > **[1:15](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=75)** These practices are top priority for keeping most malware at bay, including ransomware.
 >
@@ -329,9 +323,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=100)** Implementing application whitelisting, restricting administrative privileges, and segmenting networks can also drastically reduce the risk and impact of an attack by limiting its blast radius, which is another way of saying limiting how much it can spread.
 >
-> **[1:56](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=116)** Moreover, leveraging end-to-end encryption protects data in transit and at rest, making the data useless to attackers if they steal it.
+> **[1:56](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=116)** Moreover, leveraging end-to-end encryption protects data in transit and at [[Representational State Transfer (REST)|rest]], making the data useless to attackers if they steal it.
 >
-> **[2:06](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=126)** Having a well-tested incident response plan and engaging in threat hunting activities can help identify and mitigate threats before they cause damage.
+> **[2:06](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=126)** Having a well-tested [[Incident Response]] plan and engaging in threat hunting activities can help identify and mitigate threats before they cause damage.
 >
 > **[2:14](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/ransomware?u=76281980&t=134)** Additionally, leveraging threat intelligence services can provide an early warning about emerging ransomware campaigns.
 >
@@ -349,13 +343,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Phishing]] (2), [[Cybersecurity]] (2), [[Security]] (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Cybersecurity]] (2), [[Cryptocurrency]] (1), [[Resiliency]] (1), [[Endpoint Security]] (1)
 > **Analogies:** similar to (1)
 > **Warnings:** warning (1)
 > **Speakers:** - one (1)
 
-#### Denial of service attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/denial-of-service-attacks?u=76281980)
+#### [Denial of service attacks](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/denial-of-service-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +392,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), traffic (3), next (1), data (1)
 > **Env Vars:** osi (1), icmp (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -410,8 +402,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Passwordless authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980)
+#### [Passwordless authentication](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,11 +430,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=80)** This is known as a FIDO2 key.
 >
-> **[1:23](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=83)** FIDO2 keys or tokens are intended to enhance the security and convenience of the authentication process.
+> **[1:23](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=83)** FIDO2 keys or [[Tokens]] are intended to enhance the security and convenience of the authentication process.
 >
 > **[1:30](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=90)** They work by creating a unique cryptographic link between the user and the application, ensuring that only the holder of that specific token can gain access.
 >
-> **[1:39](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=99)** Unlike traditional passwords that can be guessed, or stolen, or phished, FIDO2 keys leverage public key cryptography to offer a much stronger form of security that's also user friendly.
+> **[1:39](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=99)** Unlike traditional passwords that can be guessed, or stolen, or phished, FIDO2 keys leverage public key [[Cryptography]] to offer a much stronger form of security that's also user friendly.
 >
 > **[1:51](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=111)** When you use a FIDO2 key, you're essentially carrying a digital handshake that uniquely identifies you to the application you're logging into without the need for typing in passwords or remembering complex sequences of characters.
 >
@@ -451,7 +442,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=142)** Because I, for example, will never be logging in from East Asia, and if I am, I welcome the extra scrutiny.
 >
-> **[2:28](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=148)** This combination significantly enhances security, but also the user experience.
+> **[2:28](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=148)** This combination significantly enhances security, but also the [[User Experience (UX)|user experience]].
 >
 > **[2:34](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980&t=154)** It's rare that a game-changing preventative control enhances the experiences our users face, but this is one of them.
 >
@@ -459,14 +450,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), application (2), data (1), [[Tokens]] (1), [[Cryptography]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Cryptography]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** fido2 (4), pin (1), fido (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - now (1)
 
-#### Zero Trust model
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/zero-trust-model?u=76281980)
+#### [Zero Trust model](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/zero-trust-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +496,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/zero-trust-model?u=76281980&t=108)** Use the data gleaned from the first two best practices for advanced analytics to gain insights into network traffic, helping to detect and respond to anomalies quickly.
 >
-> **[1:59](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/zero-trust-model?u=76281980&t=119)** Now, zero trust is widely misunderstood outside of cybersecurity circles.
+> **[1:59](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/zero-trust-model?u=76281980&t=119)** Now, zero trust is widely misunderstood outside of [[Cybersecurity]] circles.
 >
 > **[2:03](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/zero-trust-model?u=76281980&t=123)** So I want to end with one more analogy.
 >
@@ -532,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (3), application (2), cloud (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Analogies:** imagine (2), it's like (1), similar to (1)
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** open the (1)
@@ -540,12 +530,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - imagine (1)
 
-#### Threat modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980)
+#### [Threat modeling](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=0)** - Shifting our focus to the indispensable practice of cyber-threat modeling.
+> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=0)** - Shifting our focus to the indispensable practice of cyber-[[Threat Modeling]].
 >
 > **[0:05](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=5)** It's like mapping the terrain and planning the defense in a digital battlefield.
 >
@@ -577,7 +566,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=80)** Imagine sending a sealed letter, but along the way, someone opens it and changes the message.
 >
-> **[1:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=86)** In cybersecurity, tampering refers to unauthorized alterations made to data.
+> **[1:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=86)** In [[Cybersecurity]], tampering refers to unauthorized alterations made to data.
 >
 > **[1:34](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threat-modeling?u=76281980&t=94)** R is for repudiation, which is like having someone deny they ever sent the letter even when they did, especially because they left no evidence behind.
 >
@@ -605,15 +594,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (6), data (2), game (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (6), [[Cybersecurity]] (1)
 > **Env Vars:** stride (4), mitre (2), att (1), vip (1)
 > **Analogies:** imagine (3), it's like (2), picture (1), just like (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - shifting (1)
 
-#### Web application firewall vs. traditional firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980)
+#### [Web application firewall vs. traditional firewall](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -621,9 +609,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=8)** This specifically allows them to defend against unique web-based threats in ways that traditional firewalls cannot.
 >
-> **[0:15](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=15)** WAFs can be deployed in three forms to bolster your security.
+> **[0:15](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=15)** WAFs can be deployed in three [[Forms]] to bolster your security.
 >
-> **[0:20](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=20)** WAFs are designed to combat a variety of specific threats, such as SQL injection, where attackers manipulate the backend database through web forms; or denial of service attacks, like we've covered a couple times already.
+> **[0:20](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=20)** WAFs are designed to combat a variety of specific threats, such as [[SQL]] injection, where attackers manipulate the backend database through web forms; or denial of service attacks, like we've covered a couple times already.
 >
 > **[0:32](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=32)** Among other threats, they also protect against bots running AI or automated attacks.
 >
@@ -633,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=46)** Now, these are all threats that take place on the application layer, where web applications interact with users and data, making WAFs the most used technology for maintaining the integrity and security of web-based services.
 >
-> **[1:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=60)** Whether through physical devices, services provided by your favorite public cloud provider, or via SaaS-based content delivery network platforms, WAFs provide the flexibility and robust protection needed to secure the modern web.
+> **[1:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=60)** Whether through physical devices, services provided by your favorite public cloud provider, or via [[SaaS]]-based content delivery network platforms, WAFs provide the flexibility and robust protection needed to secure the modern web.
 >
 > **[1:13](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/web-application-firewall-vs-traditional-firewall?u=76281980&t=73)** Imagining your mailman could not only deliver your letters, but also check them to ensure they're safe before handing them over.
 >
@@ -653,35 +641,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), traffic (2), [[Forms]] (2), [[Security]] (2), web application (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[SQL]] (1), [[SaaS]] (1)
 > **Env Vars:** http (2), https (2), sql (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - web (1)
 
-#### Shifting left
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980)
+#### [Shifting left](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=0)** - Have you ever heard the term shift left in the world of software development?
+> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=0)** - Have you ever heard the term shift left in the world of [[Software Development]]?
 >
 > **[0:04](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=4)** It means integrating security measures early in the software development lifecycle rather than at the end.
 >
-> **[0:09](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=9)** This approach ensures that security is a priority from the start, leading to more secure and quality software products and applications.
+> **[0:09](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=9)** This approach ensures that security is a priority from the start, leading to more secure and quality software [[Microsoft Products|products]] and applications.
 >
 > **[0:17](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=17)** Imagine you're building a new skyscraper before any construction begins.
 >
 > **[0:21](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=21)** A city inspector reviews the blueprints checking for compliance with safety and environmental standards.
 >
-> **[0:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=26)** This early inspection is analogous to shifting left in cybersecurity where security checks are made during the design phase of software development, ensuring a solid foundation from the start.
+> **[0:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=26)** This early inspection is analogous to shifting left in [[Cybersecurity]] where security checks are made during the design phase of software development, ensuring a solid foundation from the start.
 >
 > **[0:37](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=37)** Bugs uncovered late in the development lifecycle can derail production schedules and push back release dates.
 >
 > **[0:43](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=43)** However, by adopting a shift left approach, we can sidestep these hurdles as we approach the finish line.
 >
-> **[0:50](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=50)** An illuminating report by Tech Giant, which I've made available in the handouts, also highlights the stark cost contrast as well.
+> **[0:50](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=50)** An illuminating report by Tech Giant, which I've made available in the handouts, also highlights the [[Stark (Accessibility Software)|stark]] cost contrast as well.
 >
 > **[0:57](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/shifting-left?u=76281980&t=57)** Fixing defects and vulnerabilities early in development costs an average of $80 compared to a staggering $7,600 for those found in production.
 >
@@ -697,7 +684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Software Development]] (2), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1), [[Stark (Accessibility Software)|Stark]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1), [[Stark (Accessibility Software)|Stark]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - have (1)
@@ -707,8 +694,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compliance vs. security
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980)
+#### [Compliance vs. security](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=108)** It's like being prepared for yesterday's weather, today, useful but not foolproof.
 >
-> **[1:54](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=114)** In contrast, cybersecurity best practices advocate for endpoint detection and response or EDR.
+> **[1:54](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=114)** In contrast, [[Cybersecurity]] best practices advocate for endpoint detection and response or EDR.
 >
 > **[2:01](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=121)** EDR doesn't just look for known threats.
 >
@@ -764,20 +750,19 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=157)** However, the dynamic nature of cyber risks demands more.
 >
-> **[2:43](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=163)** The pursuit of comprehensive security means going beyond compliance, adapting to emerging threats with agility and implementing proactive measures that anticipate rather than react.
+> **[2:43](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=163)** The pursuit of comprehensive security means going beyond compliance, adapting to emerging threats with agility and implementing proactive measures that anticipate rather than [[React.js|react]].
 >
 > **[2:54](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980&t=174)** By doing so, organizations not only adhere to standards, but also increase their defenses against the ever-evolving landscape of cyber threats.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Cybersecurity]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[React.js|React]] (1)
 > **Analogies:** it's like (2), imagine (1)
 > **Env Vars:** edr (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - compliance (1)
 
-#### Native vs. third-party security services
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980)
+#### [Native vs. third-party security services](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,13 +772,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=12)** Join me as we examine how these services can work together to provide a comprehensive security for your cloud setup.
 >
-> **[0:18](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=18)** Native services from the public cloud providers such as AWS, Google Cloud and Azure, those are integrated directly into your cloud platform, designed to offer seamless security that compliments the specific architecture and services of the platform.
+> **[0:18](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=18)** Native services from the public cloud providers such as AWS, [[Google Cloud Platform (GCP)|Google Cloud]] and [[Microsoft Azure|Azure]], those are integrated directly into your cloud platform, designed to offer seamless security that compliments the specific architecture and services of the platform.
 >
 > **[0:33](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=33)** The benefits include immediate access to security features, simplified management through a unified interface, and optimize performance for the cloud environment in question.
 >
 > **[0:42](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=42)** Third party services bring external solutions into your cloud environment.
 >
-> **[0:46](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=46)** They simplify security architectures for organizations using a multi-cloud strategy as they can offer consistent security across different platforms.
+> **[0:46](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=46)** They simplify security architectures for organizations using a multi-[[Cloud Strategy]] as they can offer consistent security across different platforms.
 >
 > **[0:55](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=55)** Moreover, many security vendors can extend their protection to on-premise environments in stronger cohesive security posture that covers both cloud and traditional data centers.
 >
@@ -801,7 +786,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=81)** The vendor approach also offers you options as there are many different vendors out there.
 >
-> **[1:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=86)** The art of cloud security lies in leveraging the strengths of both the native and third party services.
+> **[1:26](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=86)** The art of [[Cloud Security]] lies in leveraging the strengths of both the native and third party services.
 >
 > **[1:32](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/native-vs-third-party-security-services?u=76281980&t=92)** By utilizing native services for commoditized capabilities and complimenting them with third party solutions for advanced threats and specialized needs, organizations can achieve a flexible and comprehensive security posture.
 >
@@ -817,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), cloud (13), strengths (2), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[Cloud Strategy]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
@@ -829,14 +814,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Post-quantum cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980)
+#### [Post-quantum cryptography](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=0)** - You may think you need a degree in math to understand post-quantum cryptography or PQC, but that's not the case.
+> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=0)** - You may think you need a degree in math to understand post-quantum [[Cryptography]] or PQC, but that's not the case.
 >
-> **[0:07](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=7)** PQC is the term used for cryptographic algorithms that are designed to be secure against attacks by quantum computers.
+> **[0:07](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=7)** PQC is the term used for cryptographic [[Algorithms]] that are designed to be secure against attacks by quantum computers.
 >
 > **[0:16](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=16)** The algorithms in use before the introduction of quantum computers, such as RSA and ECC, can take a lifetime to break.
 >
@@ -852,13 +836,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=55)** Now envision being able to operate at a rate thousands of times faster.
 >
-> **[1:01](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=61)** Thanks to quantum computing, you may be able to find the lock-to-key combination a lot faster.
+> **[1:01](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=61)** Thanks to [[Quantum Computing]], you may be able to find the lock-to-key combination a lot faster.
 >
 > **[1:07](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=67)** Suddenly, data we've encrypted and considered safe, such as data breaches of encrypted data that never made it to the news, is now at risk.
 >
 > **[1:16](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=76)** This includes personally identifiable information, which remains valuable for a person's entire lifetime.
 >
-> **[1:23](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=83)** In response to these quantum threats, in 2020, the US National Institute of Standards and Technology, or NIST, began evaluating new cryptographic methods that could resist quantum attacks.
+> **[1:23](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=83)** In response to these quantum threats, in 2020, the US National Institute of Standards and Technology, or [[NIST]], began evaluating new cryptographic methods that could resist quantum attacks.
 >
 > **[1:35](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980&t=95)** This initiative aimed to safeguard our digital communications against the unprecedented power of quantum computers.
 >
@@ -878,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (3), [[Cryptography]] (2), game (1), [[Quantum Computing]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Cryptography]] (2), [[Quantum Computing]] (1), [[NIST]] (1)
 > **Env Vars:** pqc (2), https (2), rsa (1), ecc (1), nist (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** find (1)
@@ -889,12 +873,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spread your new found expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980)
+#### [Spread your new found expertise](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980&t=0)** - As we wrap up, I want to take a moment to thank you for joining me on this journey to demystify cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980&t=0)** - As we wrap up, I want to take a moment to thank you for joining me on this journey to demystify [[Cybersecurity]].
 >
 > **[0:07](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980&t=7)** Communicating these topics effectively is more than just understanding them.
 >
@@ -924,7 +907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), leadership (2), career (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - as (1)

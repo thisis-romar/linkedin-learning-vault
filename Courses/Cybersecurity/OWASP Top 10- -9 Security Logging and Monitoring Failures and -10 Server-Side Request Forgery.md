@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 2021 OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980)
+#### [2021 OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980&t=8)** The best way to secure web applications is to find and fix security vulnerabilities.
 >
-> **[0:14](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980&t=14)** OWASP stands for Open Web Application Security Project and the top 10 List is a resource for any and everyone who is involved in building web applications.
+> **[0:14](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980&t=14)** [[OWASP]] stands for Open [[Web Application Security]] Project and the top 10 List is a resource for any and everyone who is involved in building web applications.
 >
 > **[0:26](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980&t=26)** It helps us to understand the most common types of security vulnerabilities.
 >
@@ -97,20 +96,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Security]] (4), [[OWASP]] (2), web application (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Web Application Security]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
-#### OWASP Top 10 series
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/owasp-top-10-series?u=76281980)
+#### [OWASP Top 10 series](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/owasp-top-10-series?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/owasp-top-10-series?u=76281980&t=0)** - [Narrator] Here are a few things that may be helpful to know so that you can get the most out of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/owasp-top-10-series?u=76281980&t=6)** First, this course covers the ninth and 10th categories in the 2021 OWASP Top 10.
+> **[0:06](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/owasp-top-10-series?u=76281980&t=6)** First, this course covers the ninth and 10th categories in the 2021 [[OWASP]] Top 10.
 >
 > **[0:15](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/owasp-top-10-series?u=76281980&t=15)** I recommend watching my previous courses that cover the first several categories.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -134,12 +132,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are security monitoring and logging failures?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980)
+#### [What are security monitoring and logging failures?](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=0)** - [Instructor] The ninth vulnerability category for the 2021 OWASP Top 10 is security monitoring and logging failures.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=0)** - [Instructor] The ninth vulnerability category for the 2021 [[OWASP]] Top 10 is security monitoring and logging failures.
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=8)** The official OWASP website says, "This category is to help detect, escalate, and respond to active breaches.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=136)** The setup needs to be configured such that it alerts when something is happening that we should be looking at.
 >
-> **[2:24](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=144)** As you can see, there's a lot involved in making security cameras work effectively, beyond just purchasing some hardware.
+> **[2:24](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=144)** As you can see, there's a lot involved in making security cameras work effectively, beyond just purchasing some [[Hardware]].
 >
 > **[2:33](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980&t=153)** Similarly, security monitoring and logging for web applications requires a number of different activities to occur in order to be most effective.
 >
@@ -179,20 +176,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[OWASP]] (3), application (2), power (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Hardware]] (1)
 > **Env Vars:** owasp (3)
 > **Prerequisites:** install (1), setup (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 1: 2018 Starwood data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980)
+#### [Example 1: 2018 Starwood data breach](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=0)** - [Instructor] Marriott International is a group of 30 hotel brands with more than 6,000 properties worldwide.
 >
-> **[0:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=7)** On November 30th, 2018, Marriott announced that a data security incident had occurred in which unauthorized users had gained access to their guest reservation database, affecting up to 500 million guests.
+> **[0:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=7)** On November 30th, 2018, Marriott announced that a [[Data Security]] incident had occurred in which unauthorized users had gained access to their guest reservation database, affecting up to 500 million guests.
 >
 > **[0:24](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=24)** The data types which had been compromised included a lot of sensitive information like names, mailing addresses, phone numbers, email addresses, passport numbers, dates of birth, payment card numbers and payment card expiration dates.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=79)** With proper logging and monitoring in place, an organization greatly increases the chances that once a system has been compromised, they can find out right away.
 >
-> **[1:30](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=90)** This will allow them to react and respond, potentially containing a security incident before it spreads and causes further damage.
+> **[1:30](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=90)** This will allow them to [[React.js|react]] and respond, potentially containing a security incident before it spreads and causes further damage.
 >
 > **[1:39](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2018-starwood-data-breach?u=76281980&t=99)** In a news announcement on the company website, Marriott's president and CEO wrote, "We deeply regret this incident happened.
 >
@@ -224,21 +220,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), database (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 2: 2021 South Georgia Medical Center insider threat
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980)
+#### [Example 2: 2021 South Georgia Medical Center insider threat](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=0)** - [Instructor] I want to tell you about what a security incident looks like when proper security monitoring is in place.
 >
-> **[0:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=7)** In stark contrast to the four year period between the Marriott data breach and when it was discovered, the 2021 South Georgia Medical Center breach occurred on November 12th, and was found out that very same day.
+> **[0:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=7)** In [[Stark (Accessibility Software)|stark]] contrast to the four year period between the Marriott data breach and when it was discovered, the 2021 South Georgia Medical Center breach occurred on November 12th, and was found out that very same day.
 >
 > **[0:22](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=22)** South Georgia Medical Center, commonly known as SGMC, is a not-for-profit medical system located in Valdosta, Georgia.
 >
@@ -260,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=94)** Ronald Dean, the hospital's president and CEO said, "We don't have any reason to believe that the downloaded information was used in any way."
 >
-> **[1:44](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=104)** The former employee was charged with felony computer theft and felony computer invasion of privacy.
+> **[1:44](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=104)** The former employee was charged with felony computer theft and felony computer invasion of [[Privacy]].
 >
 > **[1:52](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2021-south-georgia-medical-center-insider-threat?u=76281980&t=112)** On the day the breach took place, they actually had legitimate access to the information, but violated policy by downloading the information to a personal USB stick.
 >
@@ -268,17 +263,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (4), [[Stark (Accessibility Software)|Stark]] (1), next (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1), [[Privacy]] (1)
 > **Env Vars:** usb (2), sgmc (1), ceo (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Ensure logging includes sufficient user context
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-logging-includes-sufficient-user-context?u=76281980)
+#### [Prevention technique: Ensure logging includes sufficient user context](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-logging-includes-sufficient-user-context?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-logging-includes-sufficient-user-context?u=76281980&t=0)** - [Presenter] The first part of this category's description on the official OWASP Top 10 website addresses this prevention technique: Ensure logging includes sufficient user context.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-logging-includes-sufficient-user-context?u=76281980&t=0)** - [Presenter] The first part of this category's description on the official [[OWASP]] Top 10 website addresses this prevention technique: Ensure logging includes sufficient user context.
 >
 > **[0:13](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-logging-includes-sufficient-user-context?u=76281980&t=13)** It says, "Insufficient logging, detection, monitoring, and active response occurs anytime auditable events such as logins, failed logins, and high-value transactions are not logged; warnings and errors generate no, inadequate, or unclear log messages.
 >
@@ -318,15 +312,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), application (2), data (2), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3)
 > **Env Vars:** owasp (3)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Prevention technique: Ensure monitoring and alerting are active and consistent
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980)
+#### [Prevention technique: Ensure monitoring and alerting are active and consistent](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,7 +337,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=39)** These are, number one, logging, number two, monitoring, and number three, alerting.
 >
-> **[0:46](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=46)** Here are a few key statements from the official OWASP description related to this prevention technique.
+> **[0:46](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=46)** Here are a few key statements from the official [[OWASP]] description related to this prevention technique.
 >
 > **[0:55](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=55)** Logs of applications and APIs must be monitored for suspicious activity.
 >
@@ -356,9 +349,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=85)** In addition to the logs being captured and monitoring taking place, mechanisms need to be in place for alerts to be sent to and received by the folks who can respond in the event that something suspicious is taking place.
 >
-> **[1:42](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=102)** There should be a set of instructions for how incident response should escalate throughout an organization, depending on how severe the incident seems during the initial analysis.
+> **[1:42](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=102)** There should be a set of instructions for how [[Incident Response]] should escalate throughout an organization, depending on how severe the incident seems during the initial analysis.
 >
-> **[1:55](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=115)** The application must detect, escalate, or alert for active attacks in real-time, or near-real-time.
+> **[1:55](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=115)** The application must detect, escalate, or alert for active attacks in [[Real-Time]], or near-real-time.
 >
 > **[2:04](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-ensure-monitoring-and-alerting-are-active-and-consistent?u=76281980&t=124)** When it comes to this particular security control, time is of the essence.
 >
@@ -378,17 +371,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Real-Time]] (2), [[OWASP]] (1), [[Incident Response]] (1), application (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[OWASP]] (1), [[Incident Response]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Establish an incident response and recovery plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980)
+#### [Prevention technique: Establish an incident response and recovery plan](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=0)** - [Narrator] The third prevention technique for this category is to establish an incident response and recovery plan.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=0)** - [Narrator] The third prevention technique for this category is to establish an [[Incident Response]] and recovery plan.
 >
 > **[0:06](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=6)** The main purpose of implementing a logging monitoring and alerting program for web applications is to find out as early as possible when an attack is occurring.
 >
@@ -400,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=49)** Throughout an incident's lifecycle, several decisions will also need to be made.
 >
-> **[0:55](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=55)** An incident response plan will support decision making from a roles and responsibilities perspective, and may also include timing that depends on organizational risk tolerance as well as regulatory compliance factors.
+> **[0:55](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=55)** An incident response plan will support decision making from a roles and responsibilities perspective, and may also include timing that depends on organizational risk tolerance as well as [[Regulatory Compliance]] factors.
 >
 > **[1:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=70)** According to incident response expert Robert Lelewski, the number one issue that occurs during incidents is not properly managing internal communication.
 >
@@ -424,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=174)** If customer data is involved in an incident, then customer facing teams may be involved as well as they will be responsible for reporting the incident to the customers who have been affected, either because their data was accessed or because the application may be unavailable for a period of time while the incident is ongoing.
 >
-> **[3:18](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=198)** Legal and privacy teams may also be brought in to provide guidance on timelines and requirements for breach reporting.
+> **[3:18](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=198)** Legal and [[Privacy]] teams may also be brought in to provide guidance on timelines and requirements for breach reporting.
 >
 > **[3:26](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=206)** Leadership and executive teams will be interested in frequent updates as to the incident status, and these will need to be provided on a regular basis.
 >
@@ -436,11 +428,11 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=247)** Incidents that are detected at earlier stages of an attack also have less impact than incidents which are detected at later stages of an attack.
 >
-> **[4:18](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=258)** This is why logging, monitoring and alerting are critically important activities for web application security.
+> **[4:18](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-establish-an-incident-response-and-recovery-plan?u=76281980&t=258)** This is why logging, monitoring and alerting are critically important activities for [[Web Application Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (9), teams (5), data (2), web (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (9), [[Regulatory Compliance]] (1), [[Privacy]] (1), [[Web Application Security]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
@@ -450,12 +442,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Server-Side Request Forgery (SSRF)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980)
+#### [What is Server-Side Request Forgery (SSRF)?](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=0)** - [Instructor] The final vulnerability category in the 2021 OWASP Top 10 is SSRF, which stands for server-side request forgery.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=0)** - [Instructor] The final vulnerability category in the 2021 [[OWASP]] Top 10 is SSRF, which stands for server-side request forgery.
 >
 > **[0:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=10)** The name of this vulnerability category is descriptive, and as you might be able to guess, these vulnerabilities involve a hacker manipulating a server to forge or send unintended requests.
 >
@@ -469,17 +460,17 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=59)** And it acts like an intermediary between the client, or browser, and the application.
 >
-> **[1:05](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=65)** During an SSRF attack, the web application server may be tricked into making unintended requests such as: accessing internal files, such as configuration files, accessing internal APIs, port scans to look for open ports or vulnerable services, requests to database servers in an attempt to access restricted data or execute database queries, requests for cloud metadata, such as access keys or credentials.
+> **[1:05](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=65)** During an SSRF attack, the web application server may be tricked into making unintended requests such as: accessing internal files, such as configuration files, accessing internal APIs, port scans to look for open ports or vulnerable services, requests to database servers in an attempt to access restricted data or execute [[Database Queries]], requests for cloud [[Metadata]], such as access keys or credentials.
 >
 > **[1:41](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=101)** The impact of these unintended requests can lead to undesirable results.
 >
-> **[1:47](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=107)** The attacker may be able to gain access to internal databases, internal APIs, or other systems that should not be accessible for unauthorized users.
+> **[1:47](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=107)** The attacker may be able to gain access to internal [[Databases]], internal APIs, or other systems that should not be accessible for unauthorized users.
 >
 > **[1:59](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=119)** The attacker may be able to trick the web application into disclosing sensitive information from internal resources, such as internal IP addresses, server names, or configuration information.
 >
 > **[2:14](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=134)** In a severe situation, the attacker may be able to perform remote execution, also known as RCE, by executing their own malicious code on the web app server or on other systems accessible by the web app server.
 >
-> **[2:32](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=152)** One way that I think about server-side request forgery is sort of like a digital version of phishing.
+> **[2:32](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=152)** One way that I think about server-side request forgery is sort of like a digital version of [[Phishing]].
 >
 > **[2:39](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980&t=159)** In a phishing attack, the attacker tries to convince their target, a human, to willingly provide sensitive information.
 >
@@ -491,30 +482,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (6), web (4), database (3), [[Phishing]] (2), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[OWASP]] (1), [[Database Queries]] (1), [[Metadata]] (1), [[Databases]] (1)
 > **Analogies:** such as (4), kind of like (1)
 > **Env Vars:** ssrf (2), owasp (1), rce (1)
 > **Definitions:** stands for (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 1: 2019 Capital One breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980)
+#### [Example 1: 2019 Capital One breach](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=0)** - [Narrator] Capital One is a financial services organization that provides commercial and retail banking as well as credit card services.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=0)** - [Narrator] Capital One is a financial services organization that provides commercial and retail [[Banking]] as well as credit card services.
 >
-> **[0:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=10)** Between March and July, 2019, their cloud environment suffered a major cybersecurity attack, one that leveraged an SSRF vulnerability.
+> **[0:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=10)** Between March and July, 2019, their cloud environment suffered a major [[Cybersecurity]] attack, one that leveraged an SSRF vulnerability.
 >
 > **[0:22](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=22)** Personal data, belonging to more than 100 million Capital One customers, was compromised due to this data breach.
 >
 > **[0:31](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=31)** Stolen data included credit card and bank account information, addresses and social security numbers from across a range of dates between 2005 and 2019.
 >
-> **[0:44](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=44)** The attacker posted the stolen information on GitHub.
+> **[0:44](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=44)** The attacker posted the stolen information on [[GitHub]].
 >
 > **[0:48](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=48)** GitHub is a software platform, intended to provide collaboration between developers and information posted there can be downloaded and used by others.
 >
-> **[1:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=60)** At the time, Capital One had made significant progress toward a digital transformation to fully transition to a cloud model.
+> **[1:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=60)** At the time, Capital One had made significant progress toward a [[Digital Transformation]] to fully transition to a cloud model.
 >
 > **[1:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=70)** They had planned to close their data centers in 2020.
 >
@@ -532,24 +522,23 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=127)** In July, 2019, a Washington State Court indicted the former Amazon employee, who was responsible for the attack.
 >
-> **[2:16](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=136)** The hacker had posted in Slack and on GitHub, her intent to breach and share Capital One data, providing clues to the FBI for her arrest.
+> **[2:16](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=136)** The hacker had posted in [[Slack]] and on GitHub, her intent to breach and share Capital One data, providing clues to the FBI for her arrest.
 >
 > **[2:28](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-1-2019-capital-one-breach?u=76281980&t=148)** Capital One provided free credit monitoring and identity protection to all the individuals who were affected by the incident.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (3), [[GitHub]] (3), [[Cybersecurity]] (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Cybersecurity]] (2), [[Banking]] (1), [[Digital Transformation]] (1), [[Slack]] (1)
 > **Tools:** github (3), slack (1)
 > **Env Vars:** ssrf (2), fbi (1)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Example 2: 2017 GitHub Enterprise chained exploits
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980)
+#### [Example 2: 2017 GitHub Enterprise chained exploits](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=0)** - [Instructor] GitHub Enterprise is a platform that teams of software developers use to build and deploy code.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=0)** - [Instructor] [[GitHub]] Enterprise is a platform that teams of software developers use to build and deploy code.
 >
 > **[0:07](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=7)** In 2017, security researcher Orange Tsai decided to try and hack GitHub Enterprise to see what types of vulnerabilities he could find and exploit.
 >
@@ -569,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=74)** He wanted to see what else he could do to further infiltrate the GitHub Enterprise system.
 >
-> **[1:21](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=81)** He persistently keeps working at trying to hack the software and a few days later discovers that there is actually a second SSRF vulnerability in a system called graphite, which is used for graphing statistics.
+> **[1:21](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=81)** He persistently keeps working at trying to hack the software and a few days later discovers that there is actually a second SSRF vulnerability in a system called graphite, which is used for graphing [[Statistics]].
 >
 > **[1:37](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/example-2-2017-github-enterprise-chained-exploits?u=76281980&t=97)** Orange uses the first SSRF attack in combination with the second SSRF attack, and then manages to combine them with an injection attack.
 >
@@ -587,19 +576,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Security]] (3), teams (1), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Statistics]] (1)
 > **Env Vars:** ssrf (7), rce (2)
 > **Tools:** github (6)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Network layer prevention techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980)
+#### [Prevention technique: Network layer prevention techniques](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=0)** - [Instructor] The first statement from OWASP about prevention for SSRF is to segment remote resource access functionality in separate networks.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=0)** - [Instructor] The first statement from [[OWASP]] about prevention for SSRF is to segment remote resource access functionality in separate networks.
 >
 > **[0:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=10)** This is called network segmentation.
 >
@@ -607,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=28)** There are many ways to implement network segmentation.
 >
-> **[0:32](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=32)** The Australia Cybersecurity Center has published an informative resource that describes these different techniques in a paper called Implementing Network Segmentation and Segregation.
+> **[0:32](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=32)** The Australia [[Cybersecurity]] Center has published an informative resource that describes these different techniques in a paper called Implementing Network Segmentation and Segregation.
 >
 > **[0:46](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=46)** The second statement from OWASP about SSRF prevention is to enforce deny by default firewall policies or network access control rules to block all but essential intranet traffic.
 >
@@ -631,24 +619,23 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=149)** A firewall that is not looked after and just sits there without a proactive lifecycle will simply not be as effective.
 >
-> **[2:38](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=158)** The final hint provided by OWASP to accompany these network security prevention statements is to log all accepted and blocked network flows on firewalls.
+> **[2:38](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=158)** The final hint provided by OWASP to accompany these [[Network Security]] prevention statements is to log all accepted and blocked network flows on firewalls.
 >
 > **[2:50](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-network-layer-prevention-techniques?u=76281980&t=170)** If suspicious or unauthorized traffic flows are occurring then logging both the successful and the unsuccessful attempts will provide insight into possible SSRF vulnerabilities and related attacks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (4), traffic (3), [[Cybersecurity]] (2), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Cybersecurity]] (2), [[Network Security]] (1)
 > **Env Vars:** owasp (4), ssrf (3)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Application layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-application-layer?u=76281980)
+#### [Prevention technique: Application layer](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-application-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-application-layer?u=76281980&t=0)** - [Instructor] OWASP provides a handful of application layer-specific prevention techniques for SSRF, and I'm going to talk through them, one by one.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-application-layer?u=76281980&t=0)** - [Instructor] [[OWASP]] provides a handful of application layer-specific prevention techniques for SSRF, and I'm going to talk through them, one by one.
 >
 > **[0:10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-application-layer?u=76281980&t=10)** The first application layer prevention technique is to sanitize and validate all client-supplied input data.
 >
@@ -700,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), data (7), [[OWASP]] (2), web (2), web application (2)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** url (5), ssrf (3), owasp (2), http (2)
 > **Definitions:** means that (3), stands for (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -708,8 +695,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Require authentication for internal services
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980)
+#### [Prevention technique: Require authentication for internal services](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,9 +703,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=14)** Therefore, an important prevention technique is to implement additional security controls on the internal resources themselves.
 >
-> **[0:23](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=23)** Specifically, this OWASP recommendation is to require authentication for internal services.
+> **[0:23](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=23)** Specifically, this [[OWASP]] recommendation is to require authentication for internal services.
 >
-> **[0:31](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=31)** Internal services may include data storage and retrieval systems, like Elasticsearch and MongoDB, Elasticsearch helps with full tech search, and MongoDB provides flexible and scalable storage.
+> **[0:31](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=31)** Internal services may include [[Data Storage]] and retrieval systems, like [[Elasticsearch]] and [[MongoDB]], Elasticsearch helps with full tech search, and MongoDB provides flexible and scalable storage.
 >
 > **[0:47](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=47)** Both of these internal services and many others often contains sensitive or confidential information that an organization would not want an outsider, much less a malicious hacker to access.
 >
@@ -727,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=77)** When it comes to web applications, we are familiar with authentication methods that we use every day.
 >
-> **[1:24](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=84)** These include username and password, two-factor or multi-factor authentication, single sign-on, and digital certificates.
+> **[1:24](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=84)** These include username and password, two-factor or [[Multi-factor Authentication]], single sign-on, and digital certificates.
 >
 > **[1:34](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=94)** Setting up authentication for internal services and not just the front end logins adds an additional layer of defense in depth to combat the potential negative impact of SSRF vulnerabilities.
 >
@@ -735,7 +721,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=112)** A house requires a key to get in through the front door, but once you're inside the house, you have freedom to walk from room to room through doors that do not have locks.
 >
-> **[2:05](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=125)** This recommendation basically says put a lock on the door to your office so that if someone is trying to get in and access your private files or computer, they need to authenticate before they enter.
+> **[2:05](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=125)** This recommendation basically says put a lock on the door to your [[Microsoft Office|office]] so that if someone is trying to get in and access your private files or computer, they need to authenticate before they enter.
 >
 > **[2:19](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/prevention-technique-require-authentication-for-internal-services?u=76281980&t=139)** One of the worst things that could happen with an SSRF vulnerability is unintended access to internal resources.
 >
@@ -743,7 +729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[MongoDB]] (2), [[Security]] (1), [[OWASP]] (1), data (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[MongoDB]] (2), [[OWASP]] (1), [[Data Storage]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** ssrf (3), owasp (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -754,18 +740,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore more of the OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980)
+#### [Explore more of the OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=0)** - [Instructor] And there you have it.
 >
-> **[0:01](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=1)** Items number nine and 10 in the OWASP Top 10.
+> **[0:01](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=1)** Items number nine and 10 in the [[OWASP]] Top 10.
 >
 > **[0:05](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=5)** Security logging and monitoring failures and server side request forgery have both been key information security concepts for decades now.
 >
-> **[0:16](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=16)** I so appreciate our time together discussing incident response planning, network segmentation, and so much more.
+> **[0:16](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=16)** I so appreciate our time together discussing [[Incident Response]] planning, network segmentation, and so much more.
 >
 > **[0:25](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=25)** Here's the most important thing that I need you to know.
 >
@@ -773,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=35)** In order to build more secure web applications, we have to actually do these things.
 >
-> **[0:42](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=42)** If your role has anything to do with software development you have an opportunity to ask about and insist on including security activities in all stages of the software development process.
+> **[0:42](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=42)** If your role has anything to do with [[Software Development]] you have an opportunity to ask about and insist on including security activities in all stages of the software development process.
 >
 > **[0:56](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980&t=56)** It's up to us.
 >
@@ -783,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Software Development]] (2), [[OWASP]] (1), web (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[OWASP]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)

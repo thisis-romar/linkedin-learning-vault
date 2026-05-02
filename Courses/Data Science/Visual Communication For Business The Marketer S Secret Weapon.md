@@ -61,8 +61,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is visual communication?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-communication?u=76281980)
+#### [What is visual communication?](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,12 +99,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - have (1), - visual (1), - but (1)
 > **Non-Speech:** (upbeat music) (2)
 
-#### Visual communication is all around us
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-is-all-around-us?u=76281980)
+#### [Visual communication is all around us](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-is-all-around-us?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-is-all-around-us?u=76281980&t=14)** Writing wasn't actually natural to us 'cause we don't think in text.
 >
-> **[0:19](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-is-all-around-us?u=76281980&t=19)** We think in images and so we had to evolve to communicate via the written word while naturally we already communicate visually.
+> **[0:19](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-is-all-around-us?u=76281980&t=19)** We think in images and so we had to evolve to communicate via the written [[Microsoft Word|word]] while naturally we already communicate visually.
 >
 > **[0:28](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-is-all-around-us?u=76281980&t=28)** You can see this everywhere you go.
 >
@@ -193,15 +190,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - since (1)
 > **Non-Speech:** (calm music) (1)
 
-#### Visual communication can share broad ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-broad-ideas?u=76281980)
+#### [Visual communication can share broad ideas](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-broad-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -225,7 +221,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-broad-ideas?u=76281980&t=72)** Especially because you have to get the information across as cars drive by.
 >
-> **[1:17](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-broad-ideas?u=76281980&t=77)** This is why letting visuals carry the story forward is a great way to grasp at the emotions of somebody and the purest forms of visual communication end up coming across when you have something that drives with emotion first and text second.
+> **[1:17](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-broad-ideas?u=76281980&t=77)** This is why letting visuals carry the story forward is a great way to grasp at the emotions of somebody and the purest [[Forms]] of visual communication end up coming across when you have something that drives with emotion first and text second.
 
 > [!info]- Semantic Content
 >
@@ -234,8 +230,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - visual (1)
 
-#### Data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980)
+#### [Data visualization](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=15)** To make sense of all this data, people have started to lean heavily on good quality data visualizations.
 >
-> **[0:22](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=22)** Data visualizations help you understand analytics, what's working and what isn't working with your marketing, whether your product or service is going to exceed the rest.
+> **[0:22](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=22)** Data visualizations help you understand analytics, what's working and what isn't working with your marketing, whether your product or service is going to exceed the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:31](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=31)** Data visualizations are things people crave today.
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=296)** That's how you show an increase or a decrease in percentage.
 >
-> **[5:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=300)** This is the most common data visualization mistake that I see across infographics, e-books, white papers, and more.
+> **[5:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=300)** This is the most common data visualization mistake that I see across [[Infographics]], e-books, white papers, and more.
 >
 > **[5:08](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/data-visualization?u=76281980&t=308)** The problem with something like this is when you see the wrong data visualizations being used, you quickly question the intent of the person who's delivering that content.
 >
@@ -359,14 +354,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Analytics]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Infographics]] (1)
 > **CLI Commands:** make (5)
 > **Best Practices:** rule of thumb (1), you should always (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - one (1)
 
-#### Visual communication can drive quick conclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-drive-quick-conclusions?u=76281980)
+#### [Visual communication can drive quick conclusions](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-drive-quick-conclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -414,26 +408,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Non-Speech:** (upbeat music) (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - it (1)
 
-#### Why marketers need visual communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980)
+#### [Why marketers need visual communication](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=0)** (light music)
 >
-> **[0:05](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=5)** - Did you know that 91% of today's audiences prefer visual content over traditional forms of content.
+> **[0:05](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=5)** - Did you know that 91% of today's audiences prefer visual content over traditional [[Forms]] of content.
 >
 > **[0:13](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=13)** 91%.
 >
 > **[0:15](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=15)** This is why visual communication is so important, because content marketing is the best form of getting your information across to your end audience.
 >
-> **[0:26](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=26)** It's truly the most natural way of thought leadership marketing.
+> **[0:26](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=26)** It's truly the most natural way of [[Thought Leadership]] marketing.
 >
 > **[0:30](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=30)** But the problem is, if you're leading with text, you're going to fall short with your audience.
 >
@@ -459,7 +451,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=93)** In addition to that, today's marketers are developing 12 to 14 types of visual content for a single campaign.
 >
-> **[1:41](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=101)** So that means to accomplish a single goal, today's marketers are having to produce multiple infographics, e-books, motion graphics, interactive experiences, the list goes on.
+> **[1:41](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=101)** So that means to accomplish a single goal, today's marketers are having to produce multiple [[Infographics]], e-books, motion graphics, interactive experiences, the list goes on.
 >
 > **[1:53](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/why-marketers-need-visual-communication?u=76281980&t=113)** They're doing this because today's audiences are craving that type of content.
 >
@@ -476,16 +468,15 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - did (1)
 
-#### Visual communication can share key data
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980)
+#### [Visual communication can share key data](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=0)** - When you think about visual communication, it's important to note that there are two types of visual communication that most people are producing on a regular basis, information visualization and visual storytelling.
+> **[0:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=0)** - When you think about visual communication, it's important to note that there are two types of visual communication that most people are producing on a regular basis, information visualization and visual [[Storytelling]].
 >
 > **[0:19](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=19)** The idea behind information visualization is simply that the information itself is shown but there's nothing in the narrative to draw conclusion for the end audience.
 >
-> **[0:31](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=31)** Instead, we're taking very big data sets or very big complex ideas or theories and visualizing them so that the end audience can come to their own conclusions.
+> **[0:31](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=31)** Instead, we're taking very [[Big Data]] sets or very big complex ideas or theories and visualizing them so that the end audience can come to their own conclusions.
 >
 > **[0:43](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=43)** Here's an example of what I mean.
 >
@@ -493,7 +484,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=55)** These are all the big tech players in the Seattle area.
 >
-> **[0:59](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=59)** When you look at it, we're showing how different tech players are connected to one another, so as an example, if we look at a very big hub of tech, which is Microsoft, you can see all the different companies that have spun out of Microsoft based on people leaving Microsoft and starting their own companies.
+> **[0:59](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=59)** When you look at it, we're showing how different tech players are connected to one another, so as an example, if we look at a very big hub of tech, which is [[Microsoft]], you can see all the different companies that have spun out of Microsoft based on people leaving Microsoft and starting their own companies.
 >
 > **[1:18](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/visual-communication-can-share-key-data?u=76281980&t=78)** As you start to connect the dots with the various types of arrows that are used, you can see where different people come from different companies to start a new one.
 >
@@ -511,14 +502,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), data (3), [[Storytelling]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Storytelling]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### People care less than goldfish and dogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/people-care-less-than-goldfish-and-dogs?u=76281980)
+#### [People care less than goldfish and dogs](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/people-care-less-than-goldfish-and-dogs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -534,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/people-care-less-than-goldfish-and-dogs?u=76281980&t=25)** It's official, people care less than goldfish.
 >
-> **[0:32](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/people-care-less-than-goldfish-and-dogs?u=76281980&t=32)** Today, we only have five seconds to hook your audience before they swim away with the rest of the fish.
+> **[0:32](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/people-care-less-than-goldfish-and-dogs?u=76281980&t=32)** Today, we only have five seconds to hook your audience before they swim away with the [[Representational State Transfer (REST)|rest]] of the fish.
 >
 > **[0:40](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/people-care-less-than-goldfish-and-dogs?u=76281980&t=40)** Visual communication gets to the brain in 1/10 of a second, 60,000 times faster than any other form of communication that exists.
 >
@@ -559,8 +549,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - did (1)
 
-#### Is text dead?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/is-text-dead?u=76281980)
+#### [Is text dead?](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/is-text-dead?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,14 +618,13 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Best Practices:** rule of thumb (1)
 
-#### Internal coms need visual communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980)
+#### [Internal coms need visual communication](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=0)** - You might be thinking that visual communication is just for marketers trying to connect with an end consumer.
 >
-> **[0:14](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=14)** It might be something that you think is for sales purposes only, or for thought leadership content.
+> **[0:14](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=14)** It might be something that you think is for sales purposes only, or for [[Thought Leadership]] content.
 >
 > **[0:20](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=20)** Well, the fact is, visual communication is something that everybody is expecting today, all audiences.
 >
@@ -658,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=69)** The reason we do this is because 75% of employees prefer video training over any other form of training materials.
 >
-> **[1:19](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=79)** In fact, multiple companies, like Microsoft, have incorporated visual training tools instead of one-on-one instructor-led training, and it has saved them 13.9 million dollars a year.
+> **[1:19](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=79)** In fact, multiple companies, like [[Microsoft]], have incorporated visual training tools instead of one-on-one instructor-led training, and it has saved them 13.9 million dollars a year.
 >
 > **[1:34](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=94)** 13.9 million!
 >
@@ -676,7 +664,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=129)** Well, think about interactive tools.
 >
-> **[2:11](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=131)** Tools that utilize different iconography to help people understand things that are going on in their office.
+> **[2:11](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=131)** Tools that utilize different iconography to help people understand things that are going on in their [[Microsoft Office|office]].
 >
 > **[2:19](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=139)** For instance, maybe the icons can be about values that a company has.
 >
@@ -710,7 +698,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=252)** Rather than having a workforce that's bored with all of the content that you're producing and tired of hearing the same old messaging, they're going to get excited about learning from you and taking in that content.
 >
-> **[4:25](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=265)** They're going to watch those 30-second to 60-second videos, read those process infographics or fun e-books that you're producing about your values.
+> **[4:25](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=265)** They're going to watch those 30-second to 60-second videos, read those process [[Infographics]] or fun e-books that you're producing about your values.
 >
 > **[4:35](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/internal-coms-need-visual-communication?u=76281980&t=275)** (ding) This will keep your employees engaged, and it will also keep them excited to live the vision of the company.
 >
@@ -718,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Thought Leadership]] (1), hr (1), [[Microsoft]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Thought Leadership]] (1), [[Microsoft]] (1), [[Infographics]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 13.9 (2)
 > **Definitions:** is a  (2)
@@ -726,18 +714,17 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
-#### What is visual storytelling?
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980)
+#### [What is visual storytelling?](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=0)** - In the world of visual communication, there are a couple of different products of design that people focus on.
+> **[0:00](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=0)** - In the world of visual communication, there are a couple of different [[Microsoft Products|products]] of design that people focus on.
 >
 > **[0:13](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=13)** One such product is visual story telling.
 >
 > **[0:16](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=16)** Visual story telling is about giving a full narrative where you have an introduction statement or thesis, you have supporting text or supporting information that follows it, and then you have a conclusion.
 >
-> **[0:30](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=30)** The idea of visual storytelling is to drive the viewer to an end conclusion.
+> **[0:30](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=30)** The idea of visual [[Storytelling]] is to drive the viewer to an end conclusion.
 >
 > **[0:35](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=35)** (engine rumbles) Let's take this infographic as an example.
 >
@@ -757,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=89)** Now when you think about the long scroll infographic, they became really popular in 2009.
 >
-> **[1:37](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=97)** The reason long scroll infographics became popular in '09 is actually because in 2007, this came out.
+> **[1:37](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=97)** The reason long scroll [[Infographics]] became popular in '09 is actually because in 2007, this came out.
 >
 > **[1:45](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-storytelling?u=76281980&t=105)** (fanfare sounds) The iPhone drastically changed how we take in information.
 >
@@ -785,15 +772,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (6), [[Infographics]] (2), [[Microsoft Products|Products]] (1), product (1), data (1)
+> **Frameworks & Libraries:** [[Storytelling]] (6), [[Infographics]] (2), [[Microsoft Products|Products]] (1)
 > **Non-Speech:** (upbeat music) (1), (fanfare sounds) (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Tiny visual changes can communicate volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980)
+#### [Tiny visual changes can communicate volumes](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +803,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=48)** Instead of simply using it to bookmark a tweet, people were actually using it in arguments, going back and forth.
 >
-> **[0:56](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=56)** If somebody was in a heated Twitter debate, and another person wanted to be done with that debate, they would have that final last word and hit that star button as a virtual microphone drop.
+> **[0:56](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=56)** If somebody was in a heated Twitter debate, and another person wanted to be done with that debate, they would have that final last [[Microsoft Word|word]] and hit that star button as a virtual microphone drop.
 >
 > **[1:07](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=67)** (microphone squeals) It was kind of like, you know what, I'm completely done with this conversation, so star, I'm out.
 >
@@ -855,19 +841,18 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=173)** If you're going to be adding these visual cues, they need to be intentional.
 >
-> **[2:59](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=179)** You shouldn't be adding universal iconography to a piece of visual storytelling or a piece of visual communication that doesn't have intention behind it because you don't want that iconography to change how somebody interacts with your product or service or how somebody interprets your product or service, so you have to consider, in the world of visual communication, that all small visual cues can have a very large impact on your end audience.
+> **[2:59](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/tiny-visual-changes-can-communicate-volumes?u=76281980&t=179)** You shouldn't be adding universal iconography to a piece of visual [[Storytelling]] or a piece of visual communication that doesn't have intention behind it because you don't want that iconography to change how somebody interacts with your product or service or how somebody interprets your product or service, so you have to consider, in the world of visual communication, that all small visual cues can have a very large impact on your end audience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (1), hit (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
 > **UI Navigation:** click on (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Definitions:** in other words (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - are (1)
 
-#### Keep audience top of mind
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/keep-audience-top-of-mind?u=76281980)
+#### [Keep audience top of mind](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/keep-audience-top-of-mind?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,14 +936,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **Speakers:** - when (1), - you (1), - yeah (1), - hey (1), - oh (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (2), for example (1)
 > **Non-Speech:** (upbeat music) (2), (light music) (1)
 
-#### Don't make this mistake in your visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980)
+#### [Don't make this mistake in your visuals](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,7 +949,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=7)** - You know, on a regular basis, I see visual content that looks exactly what you're seeing in front of you.
 >
-> **[0:14](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=14)** These designs that people often package as infographics aren't truly infographics, because you have to read all of the text to fully understand them.
+> **[0:14](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=14)** These designs that people often package as [[Infographics]] aren't truly infographics, because you have to read all of the text to fully understand them.
 >
 > **[0:25](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=25)** Now at the exact same time, there are about 10 000 or so infographics released online every single day, with 99% of them looking exactly like what you see on my screen, and people wonder why they don't succeed.
 >
@@ -986,7 +969,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=99)** Seven.
 >
-> **[1:41](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=101)** If you're relying on stock imagery to put your visual content together, it might send a message that you're not necessarily dedicated to custom, unique quality content, and instead, it might send a message that you're looking for cheap, quick-churn products.
+> **[1:41](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=101)** If you're relying on stock imagery to put your visual content together, it might send a message that you're not necessarily dedicated to custom, unique quality content, and instead, it might send a message that you're looking for cheap, quick-churn [[Microsoft Products|products]].
 >
 > **[1:57](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=117)** And if you're looking for cheap and quick-churn content, people might think that your product or service is also cheap and quick-churn.
 >
@@ -1012,7 +995,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=185)** In other words, research didn't happen first.
 >
-> **[3:08](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=188)** The word-for-word text or the script of the design didn't happen first, it happened in tandem with the design.
+> **[3:08](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=188)** The [[Microsoft Word|word]]-for-word text or the script of the design didn't happen first, it happened in tandem with the design.
 >
 > **[3:16](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=196)** This makes it very hard to plan ahead to build a wholistic product or a wholistic design or visual.
 >
@@ -1020,7 +1003,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=208)** And that leads to a cluttered look and feel at the very end, because it's clear that a lot of information was just kind of jam-packed at the very bottom.
 >
-> **[3:37](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=217)** Having a cluttered design is as disruptive as playing an untuned guitar in the middle of a busy office all day.
+> **[3:37](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=217)** Having a cluttered design is as disruptive as playing an untuned guitar in the middle of a busy [[Microsoft Office|office]] all day.
 >
 > **[3:45](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/don-t-make-this-mistake-in-your-visuals?u=76281980&t=225)** Not like I'd ever do that.
 >
@@ -1046,14 +1029,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infographics]] (4), product (2), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - you (1), - stop (1), - now (1)
 > **Non-Speech:** (electronic music) (2), (aww sound effect) (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (2)
 
-#### Quality matters in visual communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/quality-matters-in-visual-communication?u=76281980)
+#### [Quality matters in visual communication](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/quality-matters-in-visual-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1127,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Speakers:** - you (1), - hey (1), - sure (1), - could (1), - oh (1)
 > **Code Identifiers:** iphone (2)
 > **Non-Speech:** (upbeat music) (2)

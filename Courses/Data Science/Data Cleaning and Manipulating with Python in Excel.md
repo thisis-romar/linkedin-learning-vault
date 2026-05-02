@@ -94,16 +94,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980)
+#### [Leverage Python in Excel](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980&t=0)** - [Chris] The next biggest thing in the analytics world is here, Python in Excel.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980&t=0)** - [Chris] The next biggest thing in the analytics world is here, [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980&t=5)** With the rising popularity of Python, it's never been easier to integrate it into your Excel work.
 >
-> **[0:10](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980&t=10)** I'll show you how Python can help with tasks within Excel, such as data cleaning, manipulation, and aggregation.
+> **[0:10](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980&t=10)** I'll show you how Python can help with tasks within Excel, such as [[Data Cleaning]], manipulation, and aggregation.
 >
 > **[0:18](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/leverage-python-in-excel?u=76281980&t=18)** If you're curious about how Python' can enhance your Excel work, you've come to the right place.
 >
@@ -117,23 +116,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (4), [[Analytics]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (4), [[Data Cleaning]] (1)
 > **CLI Commands:** python (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [chris] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=0)** - [Instructor] Here are a few things you need to know before we dive into this course.
 >
-> **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=5)** It's helpful to have some foundational Excel knowledge, such as experience with pivot tables and functions like SUM and COUNT.
+> **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=5)** It's helpful to have some foundational [[Microsoft Excel|Excel]] knowledge, such as experience with [[Pivot Tables]] and functions like SUM and COUNT.
 >
-> **[0:12](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=12)** It's also useful to have foundational analytics knowledge, like data cleaning, manipulation, and aggregation.
+> **[0:12](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=12)** It's also useful to have foundational analytics knowledge, like [[Data Cleaning]], manipulation, and aggregation.
 >
-> **[0:20](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=20)** You also need to have a Microsoft 365 account to access Python in Excel.
+> **[0:20](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=20)** You also need to have a [[Microsoft 365]] account to access [[Python (Programming Language)|Python]] in Excel.
 >
 > **[0:25](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/what-you-should-know?u=76281980&t=25)** I have to remind you that Python in Excel is a new feature, so be on the lookout for continuous updates.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Pivot Tables]] (1), [[Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (2), [[Pivot Tables]] (1), [[Data Cleaning]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** sum (1), count (1)
 > **Definitions:** is a  (1)
@@ -159,20 +157,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dataframes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980)
+#### [Dataframes](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=0)** - [Instructor] One of the first things you'll see when working with Python is something called a data frame.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=0)** - [Instructor] One of the first things you'll see when working with [[Python (Programming Language)|Python]] is something called a data frame.
 >
 > **[0:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=3)** So you may be wondering what is a data frame?
 >
-> **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=7)** A data frame is essentially a table with rows and columns similar to a spreadsheet or table you'd find in Excel.
+> **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=7)** A data frame is essentially a table with rows and columns similar to a spreadsheet or table you'd find in [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=13)** It allows us to store and manage data sets with ease.
 >
-> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=16)** It supports fast and efficient data manipulation, aggregation, and transformation operations.
+> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=16)** It supports fast and efficient [[Data Manipulation]], aggregation, and transformation operations.
 >
 > **[0:22](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=22)** Perfect for working with data sets within Excel.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=149)** What that does is it'll tell you the exact table name that we chose and then also the columns.
 >
-> **[2:34](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=154)** Since we chose all of the columns within the table, it'll say the word all and same thing applies for headers equal true.
+> **[2:34](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=154)** Since we chose all of the columns within the table, it'll say the [[Microsoft Word|word]] all and same thing applies for headers equal true.
 >
 > **[2:41](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/dataframes?u=76281980&t=161)** Do control enter to execute this.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (6), [[Data Manipulation]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (6), [[Data Manipulation]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (7), make (2), find (1)
 > **Env Vars:** g11 (2), df1 (1), j15 (1), df2 (1)
 > **UI Navigation:** go to (3)
@@ -247,8 +244,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** similar to (1)
 
-#### Missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/missing-values?u=76281980)
+#### [Missing values](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/missing-values?u=76281980&t=12)** In order to deliver it, we need to correct these data mistakes and fill in some of the key missing data.
 >
-> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/missing-values?u=76281980&t=17)** We'll learn how to handle and fill missing values using Python in Excel.
+> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/missing-values?u=76281980&t=17)** We'll learn how to handle and fill missing values using [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/missing-values?u=76281980&t=21)** We also learned to replace and fill an A function in Python, which is how we will correct some of the data we'll be working with.
 >
@@ -384,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (3), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (12), make (2), find (1)
 > **Analogies:** just like (4), similar to (1)
 > **Code Identifiers:** name_swap (1), region_swap (1), charlie_id (1)
@@ -393,8 +389,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Removing duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980)
+#### [Removing duplicates](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +401,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=17)** Being able to simply remove duplicates can make your analysis as accurate and clean as possible.
 >
-> **[0:23](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=23)** In this video, we will understand the different ways we can remove duplicates using Python.
+> **[0:23](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=23)** In this video, we will understand the different ways we can remove duplicates using [[Python (Programming Language)|Python]].
 >
 > **[0:28](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=28)** We will identify the Python code needed to remove the duplicates to ensure we are removing all necessary data.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=138)** It's clearly a lot less than what we had.
 >
-> **[2:21](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=141)** What I'm going to do really quickly is going to go into here and I want to put this as an Excel value.
+> **[2:21](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=141)** What I'm going to do really quickly is going to go into here and I want to put this as an [[Microsoft Excel|Excel]] value.
 >
 > **[2:27](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/removing-duplicates?u=76281980&t=147)** So I'm going to click this and see what we got.
 >
@@ -542,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (4), next (2), [[Microsoft Excel|Excel]] (2), career (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2)
 > **Code Identifiers:** employee_id (3), drop_duplicates (2), duplicate_rows (1), duplicate_id (1)
 > **CLI Commands:** python (4), make (2)
 > **Analogies:** for example (2), just like (1)
@@ -551,20 +546,19 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise file (1)
 
-#### Correcting date types
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980)
+#### [Correcting date types](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=0)** - [Instructor] Dates. Oh boy, oh boy.
 >
-> **[0:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=3)** The number of times I've had to clean up date types in Excel.
+> **[0:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=3)** The number of times I've had to clean up date types in [[Microsoft Excel|Excel]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=6)** There are times when you're conducting your analysis and for example, you find out the date column is all kinds of messed up.
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=11)** Nothing causes more confusion and annoyance than incorrect date types.
 >
-> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=16)** In this video, we'll be looking at different date formats and how to create them by using Python in Excel.
+> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=16)** In this video, we'll be looking at different date formats and how to create them by using [[Python (Programming Language)|Python]] in Excel.
 >
 > **[0:22](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/correcting-date-types?u=76281980&t=22)** We'll explore the flexibility and creativity that goes into making these date types.
 >
@@ -658,7 +652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1)
 > **Analogies:** for example (4)
 > **Code Identifiers:** short_date (2), to_datetime (1)
@@ -667,14 +661,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-cleaning?u=76281980)
+#### [Challenge: Data cleaning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-cleaning?u=76281980&t=0)** (soft upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-cleaning?u=76281980&t=5)** - [Instructor] Now that we've begun exploring data cleaning using Python and Excel, it's time for you to try it out on a dataset for yourself.
+> **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-cleaning?u=76281980&t=5)** - [Instructor] Now that we've begun exploring [[Data Cleaning]] using [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]], it's time for you to try it out on a dataset for yourself.
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-cleaning?u=76281980&t=11)** Here's the situation.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Env Vars:** s2077 (1)
 > **Cross-References:** in the next (1)
@@ -709,14 +702,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980)
+#### [Solution: Data cleaning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=0)** (bright rhythmic music) (bright rhythmic music ending)
 >
-> **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=5)** - [Instructor] I hope you enjoyed working on your first assignment with Python, in Excel.
+> **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=5)** - [Instructor] I hope you enjoyed working on your first assignment with [[Python (Programming Language)|Python]], in [[Microsoft Excel|Excel]].
 >
 > **[0:09](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=9)** I'll be alongside you as we go through each step to ensure all of our work is accurate and correct.
 >
@@ -732,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=40)** Everything that we see in here, we're going to be applying to this specific DataFrame.
 >
-> **[0:46](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=46)** So for now on, for the rest of the challenge, we are referencing to the "new_df," for our DataFrame.
+> **[0:46](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=46)** So for now on, for the [[Representational State Transfer (REST)|rest]] of the challenge, we are referencing to the "new_df," for our DataFrame.
 >
 > **[0:54](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-cleaning?u=76281980&t=54)** So the first thing we want to do, like I said, is taking that Date column from the short date into a log date.
 >
@@ -856,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** new_df (5), new_date (1), new_id (1), new_salesperson (1), west_to_north (1)
 > **CLI Commands:** python (5), make (3)
 > **Env Vars:** s2077 (3), d14 (1)
@@ -870,8 +862,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cleaning text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980)
+#### [Cleaning text data](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,13 +872,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=10)** With more time and experience, handling text data can still be difficult, but knowing how to think smarter, not harder is key.
 >
-> **[0:18](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=18)** This is where Python can really help transform our data into being clean and usable.
+> **[0:18](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=18)** This is where [[Python (Programming Language)|Python]] can really help transform our data into being clean and usable.
 >
-> **[0:24](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=24)** In this video, we will learn how to handle text data using Python in Excel.
+> **[0:24](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=24)** In this video, we will learn how to handle text data using Python in [[Microsoft Excel|Excel]].
 >
 > **[0:28](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=28)** We will also dive into the different ways to handle this, for example, trimming white spaces.
 >
-> **[0:33](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=33)** Lastly, we will understand how the Python code conducts our data cleaning.
+> **[0:33](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=33)** Lastly, we will understand how the Python code conducts our [[Data Cleaning]].
 >
 > **[0:38](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=38)** We have a bit to cover in this video, so let's dive right in.
 >
@@ -955,7 +946,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=277)** I want them all to be uppercase.
 >
-> **[4:39](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=279)** So, I'm going to type in the word upper, do my parentheses at the end, and commit my code and take a look.
+> **[4:39](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=279)** So, I'm going to type in the [[Microsoft Word|word]] upper, do my parentheses at the end, and commit my code and take a look.
 >
 > **[4:48](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/cleaning-text-data?u=76281980&t=288)** Okay, perfect.
 >
@@ -969,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (8), next (3), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (1), [[Data Cleaning]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (8), make (5)
 > **Analogies:** for example (2), just like (2), similar to (1)
 > **UI Navigation:** go to (4)
@@ -978,16 +969,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Time data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980)
+#### [Time data](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980&t=0)** - [Instructor] I don't know about you, but working with time data can be incredibly tricky: making sure the time is appropriately formatted, using the correct format itself and so on.
 >
-> **[0:10](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980&t=10)** Excel's a fantastic tool for analyzing time data, but using Python within Excel makes it even better.
+> **[0:10](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980&t=10)** [[Microsoft Excel|Excel]]'s a fantastic tool for analyzing time data, but using [[Python (Programming Language)|Python]] within Excel makes it even better.
 >
-> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980&t=17)** In this video, we'll learn how Python can enhance our time data cleaning processes.
+> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980&t=17)** In this video, we'll learn how Python can enhance our time [[Data Cleaning]] processes.
 >
 > **[0:22](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/time-data?u=76281980&t=22)** We'll also learn how to extract time from data within Excel.
 >
@@ -1101,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (3), [[Data Cleaning]] (1)
 > **CLI Commands:** python (4), make (2), find (1)
 > **Ports:** :00 (4), :15 (1), :30 (1)
 > **Analogies:** similar to (2), for example (1)
@@ -1110,18 +1100,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 
-#### Validating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980)
+#### [Validating data](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=0)** - [Instructor] If you've been working with Excel for some time, you've likely had to validate data in your work.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=0)** - [Instructor] If you've been working with [[Microsoft Excel|Excel]] for some time, you've likely had to validate data in your work.
 >
 > **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=5)** Nothing's worse than data from marketing coming by and ruining the Excel report you've been spending countless hours on.
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=11)** Validating data is a necessity in Excel that helps ensure the accuracy and consistency of your data.
 >
-> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=17)** By using Python, we could take a look at our dataset to ensure our data is as accurate as it can be.
+> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=17)** By using [[Python (Programming Language)|Python]], we could take a look at our dataset to ensure our data is as accurate as it can be.
 >
 > **[0:23](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=23)** In this video you'll learn the importance of validating data.
 >
@@ -1161,7 +1150,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=116)** What that means is this basically saying we want to see anything in the name column that is not Wilson.
 >
-> **[2:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=123)** So the exclamation point really means the word not.
+> **[2:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=123)** So the exclamation point really means the [[Microsoft Word|word]] not.
 >
 > **[2:06](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/validating-data?u=76281980&t=126)** And if we take a look right here at our preview, we see that one column comes back and we see the name and we see clear right here that Amber is in row six.
 >
@@ -1201,19 +1190,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980)
+#### [Manipulating columns](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=0)** - [Instructor] If you're a frequent Excel user, then you can understand the frustrations that bad data can give you.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=0)** - [Instructor] If you're a frequent [[Microsoft Excel|Excel]] user, then you can understand the frustrations that bad data can give you.
 >
 > **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=5)** You're finally ready to get started on your project or ad hoc requests, to then realize that data is all combined into a bunch of cells and whatnot.
 >
@@ -1221,7 +1209,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=22)** In this video, you'll be learning why manipulating columns can enhance your data analysis.
 >
-> **[0:26](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=26)** You will also learn how Python can help make the process more efficient.
+> **[0:26](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=26)** You will also learn how [[Python (Programming Language)|Python]] can help make the process more efficient.
 >
 > **[0:31](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-columns?u=76281980&t=31)** And lastly, you will learn how to implement these processes using Python code.
 >
@@ -1307,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (5), next (2), [[Microsoft Excel|Excel]] (1), game (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (5), make (4)
 > **Code Identifiers:** drop_region (1), city_state (1), full_name (1)
 > **UI Navigation:** go to (3)
@@ -1315,8 +1303,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Advanced data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-cleaning?u=76281980)
+#### [Challenge: Advanced data cleaning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1339,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (1)
 > **Cross-References:** we discussed (1)
 > **Exercise Files:** exercise file (1)
@@ -1360,8 +1346,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Advanced data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-cleaning?u=76281980)
+#### [Solution: Advanced data cleaning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1381,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-cleaning?u=76281980&t=24)** Okay, so the first thing we want to do is we want to give each of the conditions in here a proper title.
 >
-> **[0:30](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-cleaning?u=76281980&t=30)** So let's go into I5, go to insert Python, and let's do title is equal to where I reference our original data frame.
+> **[0:30](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-cleaning?u=76281980&t=30)** So let's go into I5, go to insert [[Python (Programming Language)|Python]], and let's do title is equal to where I reference our original data frame.
 >
 > **[0:39](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-cleaning?u=76281980&t=39)** So dF. Then our brackets, we want to look at the conditions column.
 >
@@ -1489,7 +1474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (3), find (1)
 > **Code Identifiers:** df (4), east_rows (1), date_hour (1)
 > **UI Navigation:** go to (3)
@@ -1503,12 +1488,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980)
+#### [Data aggregation](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=0)** - [Instructor] As a numbers nerd myself, I find data aggregation is where Python makes a job significantly easier and more accurate.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=0)** - [Instructor] As a numbers nerd myself, I find data aggregation is where [[Python (Programming Language)|Python]] makes a job significantly easier and more accurate.
 >
 > **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=7)** So in this video, we'll learn the different ways we can aggregate data using Python.
 >
@@ -1560,7 +1544,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=101)** We have the one that's going to tell Python what is the column we want to do.
 >
-> **[1:44](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=104)** And for this we have to think, what is the right word to use?
+> **[1:44](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=104)** And for this we have to think, what is the right [[Microsoft Word|word]] to use?
 >
 > **[1:48](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-aggregation?u=76281980&t=108)** Within Python, we use the mean function.
 >
@@ -1646,7 +1630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (9), next (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (9), find (7), make (1)
 > **Versions:** 50.25 (1), 56.16 (1)
 > **Cross-References:** next video (1)
@@ -1655,18 +1639,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Filtering and sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980)
+#### [Filtering and sorting](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=0)** - [Instructor] Okay, try to think back to the first time you used Excel.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=0)** - [Instructor] Okay, try to think back to the first time you used [[Microsoft Excel|Excel]].
 >
 > **[0:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=3)** Maybe you filtered some columns in a dataset.
 >
 > **[0:06](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=6)** You must have felt like some kind of magician.
 >
-> **[0:08](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=8)** Well, maybe it's just me, but anyway, filtering and sorting data in Excel are some of the more common parts of navigating the tool, and with the power of Python, you'll feel even more confident finding exactly what you want.
+> **[0:08](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=8)** Well, maybe it's just me, but anyway, filtering and sorting data in Excel are some of the more common parts of navigating the tool, and with the power of [[Python (Programming Language)|Python]], you'll feel even more confident finding exactly what you want.
 >
 > **[0:21](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/filtering-and-sorting?u=76281980&t=21)** In this video, we'll learn the different ways of filtering and sorting using Python.
 >
@@ -1788,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (3), next (3), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** python (11), find (8), make (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** sort_values (1)
@@ -1796,8 +1779,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/grouping-data?u=76281980)
+#### [Grouping data](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/grouping-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1809,7 +1791,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/grouping-data?u=76281980&t=14)** So, in this video we'll dive into the insights we can get from grouping data.
 >
-> **[0:19](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/grouping-data?u=76281980&t=19)** We also learn how to group data by using Python in Excel.
+> **[0:19](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/grouping-data?u=76281980&t=19)** We also learn how to group data by using [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/grouping-data?u=76281980&t=23)** Finally, will look into different ways into grouping data and how Python can allow the flexibility we need to do so.
 >
@@ -1901,7 +1883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** python (5), find (3), make (3)
 > **Code Identifiers:** reset_index (1)
 > **Env Vars:** h14 (1)
@@ -1910,12 +1892,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980)
+#### [Manipulating text data](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=0)** - [Instructor] One of the main issues I've ran into in my analytics career has been text data quality.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=0)** - [Instructor] One of the main issues I've ran into in my analytics career has been text [[Data Quality]].
 >
 > **[0:05](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=5)** Having to manipulate it to get the data I need is a common occurrence.
 >
@@ -1923,7 +1904,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=11)** In this video, we will discuss proper ways of manipulating text data.
 >
-> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=16)** We will also learn how to manipulate text data by using Python, which will make the process more efficient and easier.
+> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=16)** We will also learn how to manipulate text data by using [[Python (Programming Language)|Python]], which will make the process more efficient and easier.
 >
 > **[0:23](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=23)** Finally, we will learn some of the key details that go into the Python code to manipulate the data.
 >
@@ -1943,7 +1924,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=62)** We're going to click Insert Python, and what we want to do for this first one is we're going to be using the left function to extract the first three characters within the data.
 >
-> **[1:12](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=72)** So what I want to do for this one, I'm going to type in type in the word left is equal to our data frame, and within our brackets, we have to say, "Okay, what's the column we're trying to look at?"
+> **[1:12](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=72)** So what I want to do for this one, I'm going to type in type in the [[Microsoft Word|word]] left is equal to our data frame, and within our brackets, we have to say, "Okay, what's the column we're trying to look at?"
 >
 > **[1:22](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/manipulating-text-data?u=76281980&t=82)** We're trying to look at the Customer_ID column right there.
 >
@@ -2003,7 +1984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (7), next (2), [[Analytics]] (1), career (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Data Quality]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (7), make (2), find (2)
 > **Env Vars:** str (2)
 > **Definitions:** is a  (2)
@@ -2011,12 +1992,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-manipulation?u=76281980)
+#### [Challenge: Data manipulation](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-manipulation?u=76281980&t=0)** - [Instructor] In chapter 3, we discussed ways to aggregate data, filtering and sorting, grouping data, and manipulating text data, all while using Python.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-manipulation?u=76281980&t=0)** - [Instructor] In chapter 3, we discussed ways to aggregate data, filtering and sorting, grouping data, and manipulating text data, all while using [[Python (Programming Language)|Python]].
 >
 > **[0:15](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-data-manipulation?u=76281980&t=15)** Now, it's time to put those skills to the test in our chapter 3 challenge.
 >
@@ -2038,15 +2018,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **Cross-References:** we discussed (1), later in (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980)
+#### [Solution: Data manipulation](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2062,7 +2041,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=32)** So in this situation, we're going to use the mid function to get this information out.
 >
-> **[0:37](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=37)** So going up to Insert Python, into H6, we will type in, middle is equal to our data frame and within our brackets we want to look at the Customer ID columns, so Customer_ID.
+> **[0:37](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=37)** So going up to Insert [[Python (Programming Language)|Python]], into H6, we will type in, middle is equal to our data frame and within our brackets we want to look at the Customer ID columns, so Customer_ID.
 >
 > **[0:53](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=53)** Close up our brackets there.
 >
@@ -2180,7 +2159,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=279)** And we see right here in our preview, we have our employees right here by name and their revenue and expenses.
 >
-> **[4:45](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=285)** And like I said, we could take a quicker look at this if we paste this as an Excel value.
+> **[4:45](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=285)** And like I said, we could take a quicker look at this if we paste this as an [[Microsoft Excel|Excel]] value.
 >
 > **[4:50](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-data-manipulation?u=76281980&t=290)** So I'm going to do that really quickly so we could dive into it a little bit more.
 >
@@ -2198,7 +2177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (5), next (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (10), python (9), make (1)
 > **UI Navigation:** go to (5), open the (1)
 > **Env Vars:** h10 (1), h12 (1)
@@ -2212,14 +2191,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Merging and joining
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980)
+#### [Merging and joining](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980&t=0)** - [Instructor] There are plenty of situations where I've had to join several sheets of data in Excel, and I remember it being a complete disaster.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980&t=0)** - [Instructor] There are plenty of situations where I've had to join several sheets of data in [[Microsoft Excel|Excel]], and I remember it being a complete disaster.
 >
-> **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980&t=7)** This is where Python in Excel comes in handy with its merging and joining features.
+> **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980&t=7)** This is where [[Python (Programming Language)|Python]] in Excel comes in handy with its merging and joining features.
 >
 > **[0:13](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/merging-and-joining?u=76281980&t=13)** In this video, we will learn how to merge and join tables using Python in Excel.
 >
@@ -2377,7 +2355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (4), data (3), next (2), game (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** python (10)
 > **Env Vars:** c10 (1), c11 (1), c12 (1)
 > **Analogies:** just like (3)
@@ -2386,18 +2364,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 
-#### PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980)
+#### [PivotTables](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=0)** - [Instructor] When I was starting out in Excel, I felt like a genius when working with data aggregate formulas, like sum and count.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=0)** - [Instructor] When I was starting out in [[Microsoft Excel|Excel]], I felt like a genius when working with data aggregate formulas, like sum and count.
 >
-> **[0:06](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=6)** But when I found out how to create pivot tables, my mind was blown.
+> **[0:06](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=6)** But when I found out how to create [[Pivot Tables]], my mind was blown.
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=11)** Pivot tables are commonly used in Excel due to its quick and simple analysis among a group of data.
 >
-> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=17)** But wouldn't it be better to use Python to create pivot tables?
+> **[0:17](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=17)** But wouldn't it be better to use [[Python (Programming Language)|Python]] to create pivot tables?
 >
 > **[0:20](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/pivot-tables?u=76281980&t=20)** In this video, we'll discuss how pivot tables are an essential part of a quality analysis.
 >
@@ -2521,7 +2498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pivot Tables]] (6), data (5), next (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pivot Tables]] (6), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** python (7), find (2), make (2)
 > **Code Identifiers:** pivot_table (2), aggfunction (1), reset_index (1)
 > **UI Navigation:** go to (2)
@@ -2530,8 +2507,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980)
+#### [Creating charts](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2541,7 +2517,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=11)** In this video, we will discuss the importance of data visualization.
 >
-> **[0:15](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=15)** We will also learn how Python's abilities can help customize our visuals to the way we want them.
+> **[0:15](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=15)** We will also learn how [[Python (Programming Language)|Python]]'s abilities can help customize our visuals to the way we want them.
 >
 > **[0:20](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=20)** And finally, we'll create a bar and line chart to see how the Python code is similar and different.
 >
@@ -2603,7 +2579,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=162)** And you'll see this one that's different, right?
 >
-> **[2:44](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=164)** It comes up with the word image.
+> **[2:44](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=164)** It comes up with the [[Microsoft Word|word]] image.
 >
 > **[2:45](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/creating-charts?u=76281980&t=165)** That's because the code we put in there will put out an image.
 >
@@ -2697,7 +2673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (5), find (1)
 > **UI Navigation:** go to (1), right-click (1), click on (1)
 > **Cross-References:** previous chapter (1), next video (1)
@@ -2706,8 +2682,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Prerequisites:** set up (1)
 
-#### Data trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980)
+#### [Data trends](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,7 +2690,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=3)** I want to take a moment to tell you you've done an amazing job and have learned so much during your time here.
 >
-> **[0:09](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=9)** What better way to finish this course than by finding data trends using Python in Excel?
+> **[0:09](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=9)** What better way to finish this course than by finding data trends using [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]]?
 >
 > **[0:15](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=15)** A key part of anyone's role in analytics is being able to find and assess data trends.
 >
@@ -2773,7 +2748,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=155)** That's because we have the first row, but we don't have a previous one.
 >
-> **[2:39](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=159)** So in that case, it'll come back as nan, but we can see the rest that is taking the current row and adding up the previous one to make a two month rolling sum.
+> **[2:39](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=159)** So in that case, it'll come back as nan, but we can see the [[Representational State Transfer (REST)|rest]] that is taking the current row and adding up the previous one to make a two month rolling sum.
 >
 > **[2:51](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/data-trends?u=76281980&t=171)** Next up, I want to do something pretty similar, except I want to do a rolling average.
 >
@@ -2847,7 +2822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (6), next (2), [[Microsoft Excel|Excel]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (8), find (8), make (3)
 > **Code Identifiers:** rolling_sum (1), rolling_average (1), revenue_change (1), pct_change (1)
 > **Analogies:** for example (3), it's like (1)
@@ -2856,12 +2831,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 
-#### Challenge: Advanced data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-manipulation?u=76281980)
+#### [Challenge: Advanced data manipulation](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-manipulation?u=76281980&t=0)** - [Instructor] In chapter 4, we discuss ways on how to merge and join data, create pivot tables, how to create charts, and find data trends, all while using Python.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-manipulation?u=76281980&t=0)** - [Instructor] In chapter 4, we discuss ways on how to merge and join data, create [[Pivot Tables]], how to create charts, and find data trends, all while using [[Python (Programming Language)|Python]].
 >
 > **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/challenge-advanced-data-manipulation?u=76281980&t=16)** Now, let's put those skill set of tests for our chapter 4 challenge.
 >
@@ -2885,15 +2859,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pivot Tables]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), python (1), make (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Advanced data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-manipulation?u=76281980)
+#### [Solution: Advanced data manipulation](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2909,7 +2882,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-manipulation?u=76281980&t=28)** And just to clarify here into our data frame, we have right here, our employee table is everything from A1 to B6 and our revenue table is everything from D1 to G13.
 >
-> **[0:41](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-manipulation?u=76281980&t=41)** So right into J4, I'll click insert Python, and I'm going to call this one new_df just so we know that we are referencing this as a new data frame, and I'm going to type in p.merge since we are merging data together, and within my parentheses I have to reference the name of the tables I want to merge, which would be employee, and after that, revenue.
+> **[0:41](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-manipulation?u=76281980&t=41)** So right into J4, I'll click insert [[Python (Programming Language)|Python]], and I'm going to call this one new_df just so we know that we are referencing this as a new data frame, and I'm going to type in p.merge since we are merging data together, and within my parentheses I have to reference the name of the tables I want to merge, which would be employee, and after that, revenue.
 >
 > **[1:08](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/solution-advanced-data-manipulation?u=76281980&t=68)** We're going to do on, and with this, once again, we have to say, okay, well, what are we trying to merge these based off of?
 >
@@ -3031,7 +3004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (5), next (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), find (3), make (2)
 > **Code Identifiers:** new_df (2), pivot_table (2), employee_pivot (1), underscore_df (1)
 > **Env Vars:** g13 (1), j10 (1)
@@ -3045,8 +3018,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next steps with Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980)
+#### [Your next steps with Python in Excel](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3054,11 +3026,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=2)** I want to truly thank you so much for taking the time to be on this journey with me.
 >
-> **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=7)** As Python in Excel is a newer feature within Excel, I highly encourage you to view other Python in Excel content on LinkedIn Learning.
+> **[0:07](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=7)** As [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] is a newer feature within Excel, I highly encourage you to view other Python in Excel content on [[LinkedIn]] Learning.
 >
-> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=16)** To deepen your learning on this topic, check out courses on Pandas in Python, data cleaning, and data manipulation in Excel.
+> **[0:16](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=16)** To deepen your learning on this topic, check out courses on [[Pandas (Software)|Pandas]] in Python, [[Data Cleaning]], and [[Data Manipulation]] in Excel.
 >
-> **[0:25](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=25)** As the tool continues to evolve, it's also best to stay updated with the latest news and press releases by Microsoft.
+> **[0:25](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=25)** As the tool continues to evolve, it's also best to stay updated with the latest news and press releases by [[Microsoft]].
 >
 > **[0:33](https://www.linkedin.com/learning/data-cleaning-and-manipulating-with-python-in-excel/your-next-steps-with-python-in-excel?u=76281980&t=33)** And if you'd like to follow me on my socials for data analytics content, you can find me at DataFrenchy Academy on YouTube.
 >
@@ -3074,7 +3046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (3), data (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (3), [[Pandas (Software)|Pandas]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

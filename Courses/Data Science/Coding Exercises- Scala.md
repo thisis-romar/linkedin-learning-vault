@@ -70,14 +70,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test your Scala skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980)
+#### [Test your Scala skills](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980&t=0)** (upbeat video game music)
 >
-> **[0:06](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980&t=6)** - You can level up your Scala skills with practice.
+> **[0:06](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980&t=6)** - You can level up your [[Scala]] skills with practice.
 >
 > **[0:09](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980&t=9)** In my Scala code challenges course, I challenge you to get to grips with the fundamentals of the Scala programming language.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (5), [[Programming]] (2), game (1)
+> **Frameworks & Libraries:** [[Scala]] (5)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat video game music) (1)
@@ -105,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Palindrome detector
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980)
+#### [Palindrome detector](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=4)** - In this first challenge we'll write a method that detects palindromes.
 >
-> **[0:07](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=7)** A palindrome is a word that is the same backwards and forwards.
+> **[0:07](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=7)** A palindrome is a [[Microsoft Word|word]] that is the same backwards and forwards.
 >
 > **[0:11](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=11)** For example, "radar", "level", and "kayak" are palindromes, but "canoe", "bumpy", and "lighter" are not.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=49)** Here's a hint to get you started.
 >
-> **[0:51](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=51)** Scala provides methods on a string that do everything you need to solve this problem.
+> **[0:51](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=51)** [[Scala]] provides methods on a string that do everything you need to solve this problem.
 >
 > **[0:56](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980&t=56)** Your solution should be just a few method calls.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), game (2), [[Scala]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Scala]] (1)
 > **Analogies:** for example (2)
 > **Non-Speech:** (video game sounds and music) (1), (video game music) (1)
 > **CLI Commands:** make (1)
@@ -185,8 +183,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - in (1)
 
-#### Password checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/password-checker?u=76281980)
+#### [Password checker](https://www.linkedin.com/learning/coding-exercises-scala/password-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/coding-exercises-scala/password-checker?u=76281980&t=73)** Your task is to implement isValidPassword that accepts a string and returns a Boolean indicating if the password is valid or not.
 >
-> **[1:22](https://www.linkedin.com/learning/coding-exercises-scala/password-checker?u=76281980&t=82)** There are methods in the Scala standard library that will help you with your implementation.
+> **[1:22](https://www.linkedin.com/learning/coding-exercises-scala/password-checker?u=76281980&t=82)** There are methods in the [[Scala]] standard library that will help you with your implementation.
 >
 > **[1:27](https://www.linkedin.com/learning/coding-exercises-scala/password-checker?u=76281980&t=87)** Now, pause the video, write your method, and then I'll share how I solved the challenge.
 >
@@ -286,15 +283,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Scala]] (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (1)
 > **Code Identifiers:** haspunctuation (2), isvalidpassword (1), isupper (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Colored boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/colored-boxes?u=76281980)
+#### [Colored boxes](https://www.linkedin.com/learning/coding-exercises-scala/colored-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/coding-exercises-scala/colored-boxes?u=76281980&t=9)** This requires a bit of setup, so make sure you download the code bundle we've provided.
 >
-> **[0:14](https://www.linkedin.com/learning/coding-exercises-scala/colored-boxes?u=76281980&t=14)** The file you want is called 01_03b.scala, and it's in the directory 01_03b.
+> **[0:14](https://www.linkedin.com/learning/coding-exercises-scala/colored-boxes?u=76281980&t=14)** The file you want is called 01_03b.[[Scala]], and it's in the directory 01_03b.
 >
 > **[0:23](https://www.linkedin.com/learning/coding-exercises-scala/colored-boxes?u=76281980&t=23)** Your task is twofold.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), [[Scala]] (2), next (1)
+> **Frameworks & Libraries:** [[Scala]] (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Non-Speech:** (video game beeps) (1), (video game chiptune music) (1)
@@ -362,8 +358,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### System properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980)
+#### [System properties](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,11 +366,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=4)** - [Instructor] In this challenge, we'll find the values of system properties.
 >
-> **[0:07](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=7)** System properties control a lot of the behavior of the Java virtual machine.
+> **[0:07](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=7)** System properties control a lot of the behavior of the [[Java]] virtual machine.
 >
 > **[0:12](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=12)** Properties come from environment variables and from settings passed to the JVM, that's the Java virtual machine, when it is started.
 >
-> **[0:19](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=19)** The Scala Standard Library provides an API for accessing system properties, which is in Scala.sys.SystemProperties.
+> **[0:19](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=19)** The [[Scala]] Standard Library provides an API for accessing system properties, which is in Scala.sys.SystemProperties.
 >
 > **[0:27](https://www.linkedin.com/learning/coding-exercises-scala/system-properties?u=76281980&t=27)** Your challenge is to find and print all the system properties.
 >
@@ -403,14 +398,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Java]] (2), [[Scala]] (2), api (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Scala]] (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** jvm (1), api (1)
 > **Speakers:** - [instructor] (1), - here (1)
 > **Non-Speech:** (arcade game sounds) (2)
 
-#### Resistor tolerance
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980)
+#### [Resistor tolerance](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,9 +424,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980&t=31)** For you electrical engineers out there, we're assuming the resistors are connected in series so the resistances add.
 >
-> **[0:37](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980&t=37)** We've already defined some data structures to represent resistors.
+> **[0:37](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980&t=37)** We've already defined some [[Data Structures]] to represent resistors.
 >
-> **[0:40](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980&t=40)** You'll find them in the file 01_05.scala.
+> **[0:40](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980&t=40)** You'll find them in the file 01_05.[[Scala]].
 >
 > **[0:45](https://www.linkedin.com/learning/coding-exercises-scala/resistor-tolerance?u=76281980&t=45)** Your task is to implement a method range with the signature shown on the screen.
 >
@@ -472,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (1), [[Scala]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Scala]] (1)
 > **Env Vars:** e12 (3)
 > **Analogies:** for example (2)
 > **Non-Speech:** (video game noises) (1), (upbeat video game music) (1)
@@ -481,18 +475,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Snakes and camels
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980)
+#### [Snakes and camels](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=0)** (electronic music)
 >
-> **[0:04](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=4)** - [Instructor] Scala uses so-called camel case.
+> **[0:04](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=4)** - [Instructor] [[Scala]] uses so-called camel case.
 >
-> **[0:07](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=7)** Names consisting of multiple words have spaces removed and the start of each word is capitalized.
+> **[0:07](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=7)** Names consisting of multiple words have spaces removed and the start of each [[Microsoft Word|word]] is capitalized.
 >
-> **[0:12](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=12)** Some other languages, like Rust and Python, use snake case.
+> **[0:12](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=12)** Some other languages, like [[Rust (Programming Language)|Rust]] and [[Python (Programming Language)|Python]], use snake case.
 >
 > **[0:17](https://www.linkedin.com/learning/coding-exercises-scala/snakes-and-camels?u=76281980&t=17)** In snake case spaces are replaced with an underscore and capital letters are not used.
 >
@@ -539,8 +532,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stuff the stats sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/stuff-the-stats-sheet?u=76281980)
+#### [Stuff the stats sheet](https://www.linkedin.com/learning/coding-exercises-scala/stuff-the-stats-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +606,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), data (1)
 > **Code Identifiers:** groupby (3), boxscore (2), eventsbyteam (2), homestats (2), makestatline (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -622,9 +613,9 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
+> **Speakers:** - [instructor] (1)
 
-#### A slice of Pi
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980)
+#### [A slice of Pi](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=6)** I mean, the irrational number pi which relates a circle's radius to a circumference and diameter.
 >
-> **[0:12](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=12)** Let's look at how we can estimate the value of pi using a so-called Monte Carlo simulation.
+> **[0:12](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=12)** Let's look at how we can estimate the value of pi using a so-called Monte Carlo [[Simulation]].
 >
 > **[0:18](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=18)** Here's how it works.
 >
@@ -662,7 +653,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=70)** Therefore the proportional points that fall within the circle converges to pi on four.
 >
-> **[1:15](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=75)** Your mission is to translate this algorithm into Scala.
+> **[1:15](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=75)** Your mission is to translate this algorithm into [[Scala]].
 >
 > **[1:19](https://www.linkedin.com/learning/coding-exercises-scala/a-slice-of-pi?u=76281980&t=79)** Implement a method pi, that takes a number of iterations or points that we should draw and returns at double the estimate of the value of pi.
 >
@@ -756,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scala]] (2), [[Simulation]] (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (2), [[Simulation]] (1)
 > **Versions:** 0.5 (4), 3.1452 (1)
 > **UI Navigation:** click on (2)
 > **Non-Speech:** (digital jingle music plays) (2)
@@ -765,8 +756,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - who (1)
 
-#### Cron and regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/cron-and-regular-expressions?u=76281980)
+#### [Cron and regular expressions](https://www.linkedin.com/learning/coding-exercises-scala/cron-and-regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,8 +863,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (happy music) (1)
 
-#### Reservoir sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/reservoir-sampling?u=76281980)
+#### [Reservoir sampling](https://www.linkedin.com/learning/coding-exercises-scala/reservoir-sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/coding-exercises-scala/reservoir-sampling?u=76281980&t=15)** The trick is to keep account of the number of elements we've seen so far.
 >
-> **[0:19](https://www.linkedin.com/learning/coding-exercises-scala/reservoir-sampling?u=76281980&t=19)** And then we choose the current element with probability equal to one on the number of elements.
+> **[0:19](https://www.linkedin.com/learning/coding-exercises-scala/reservoir-sampling?u=76281980&t=19)** And then we choose the current element with [[Probability]] equal to one on the number of elements.
 >
 > **[0:25](https://www.linkedin.com/learning/coding-exercises-scala/reservoir-sampling?u=76281980&t=25)** This means we choose the first element with probability one on one: one.
 >
@@ -994,20 +983,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (7), game (2), next (2)
+> **Frameworks & Libraries:** [[Probability]] (7)
 > **Definitions:** is a  (2)
 > **Non-Speech:** (gentle 8-bit video game music) (2)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Evaluate a decision tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/evaluate-a-decision-tree?u=76281980)
+#### [Evaluate a decision tree](https://www.linkedin.com/learning/coding-exercises-scala/evaluate-a-decision-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/coding-exercises-scala/evaluate-a-decision-tree?u=76281980&t=0)** (computer whirling) (computer chiming) (computer whirling)
 >
-> **[0:04](https://www.linkedin.com/learning/coding-exercises-scala/evaluate-a-decision-tree?u=76281980&t=4)** - [Instructor] Decision trees are a useful way to systematize decisions.
+> **[0:04](https://www.linkedin.com/learning/coding-exercises-scala/evaluate-a-decision-tree?u=76281980&t=4)** - [Instructor] [[Decision Trees]] are a useful way to systematize decisions.
 >
 > **[0:08](https://www.linkedin.com/learning/coding-exercises-scala/evaluate-a-decision-tree?u=76281980&t=8)** In this challenge, we're going to give you a decision tree, and we want you to evaluate it, which means to find the decision it would make, given input.
 >
@@ -1076,8 +1064,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (videogame music) (1)
 
-#### Calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980)
+#### [Calculator](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=9)** Your challenge is to implement a method that evaluates those expressions, meaning to work out the answer of the expression they represent.
 >
-> **[0:17](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=17)** To do this, you need to implement the apply method in the Eval object, in the file 01_12b.scala.
+> **[0:17](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=17)** To do this, you need to implement the apply method in the Eval object, in the file 01_12b.[[Scala]].
 >
 > **[0:25](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=25)** Now pause the video, and come back when you completed the challenge to see how I did it.
 >
@@ -1117,7 +1104,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=95)** And let's write out the short hand, like so, just make the code a little bit easier to read.
 >
-> **[1:43](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=103)** Now it's the same thing for the rest of the cases.
+> **[1:43](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=103)** Now it's the same thing for the [[Representational State Transfer (REST)|rest]] of the cases.
 >
 > **[1:47](https://www.linkedin.com/learning/coding-exercises-scala/calculator?u=76281980&t=107)** Subtraction, multiplication,
 >
@@ -1139,14 +1126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Scala]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Scala]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (2)
 > **Non-Speech:** (videogame music) (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/error-handling?u=76281980)
+#### [Error handling](https://www.linkedin.com/learning/coding-exercises-scala/error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1142,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/coding-exercises-scala/error-handling?u=76281980&t=6)** In this challenge, we're going to get some practice with error handling in a simplified version of an online store.
 >
-> **[0:13](https://www.linkedin.com/learning/coding-exercises-scala/error-handling?u=76281980&t=13)** In the file, 01>_13b.scala, you'll find some methods that sketch out how order fulfillment in an eCommerce store might work.
+> **[0:13](https://www.linkedin.com/learning/coding-exercises-scala/error-handling?u=76281980&t=13)** In the file, 01>_13b.[[Scala]], you'll find some methods that sketch out how order fulfillment in an eCommerce store might work.
 >
 > **[0:23](https://www.linkedin.com/learning/coding-exercises-scala/error-handling?u=76281980&t=23)** We have methods to get an order, given a user ID, get delivery details, given an order ID and get fulfillment details, given an order and delivery details.
 >
@@ -1212,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), game (2), [[Scala]] (2)
+> **Frameworks & Libraries:** [[Scala]] (2)
 > **Code Identifiers:** ecommerce (1), processorderforuser (1)
 > **Definitions:** is an  (2)
 > **Non-Speech:** (bright video game music) (2)
@@ -1220,8 +1206,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sierpinski Triangle
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/sierpinski-triangle?u=76281980)
+#### [Sierpinski Triangle](https://www.linkedin.com/learning/coding-exercises-scala/sierpinski-triangle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1220,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/coding-exercises-scala/sierpinski-triangle?u=76281980&t=17)** Your challenge is to implement the Sierpinski triangle.
 >
-> **[0:20](https://www.linkedin.com/learning/coding-exercises-scala/sierpinski-triangle?u=76281980&t=20)** We've given you a bit of code to start with in the file 01_14b.scala.
+> **[0:20](https://www.linkedin.com/learning/coding-exercises-scala/sierpinski-triangle?u=76281980&t=20)** We've given you a bit of code to start with in the file 01_14b.[[Scala]].
 >
 > **[0:26](https://www.linkedin.com/learning/coding-exercises-scala/sierpinski-triangle?u=76281980&t=26)** Now pause the video, come back when you've completed the challenge, and see how I did it.
 >
@@ -1277,14 +1262,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Scala]] (1)
+> **Frameworks & Libraries:** [[Scala]] (1)
 > **Non-Speech:** (playful game music) (1), (system chimes) (1), (upbeat retro video game music) (1)
 > **Env Vars:** sbt (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rocketship
-> [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/rocketship?u=76281980)
+#### [Rocketship](https://www.linkedin.com/learning/coding-exercises-scala/rocketship?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,7 +1324,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/coding-exercises-scala/rocketship?u=76281980&t=143)** So that's that.
 >
-> **[2:24](https://www.linkedin.com/learning/coding-exercises-scala/rocketship?u=76281980&t=144)** Now we need to, now we need to implement the rest of it.
+> **[2:24](https://www.linkedin.com/learning/coding-exercises-scala/rocketship?u=76281980&t=144)** Now we need to, now we need to implement the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[2:29](https://www.linkedin.com/learning/coding-exercises-scala/rocketship?u=76281980&t=149)** And the description here is not quite all visible on my screen, but probably is for you.
 >
@@ -1476,7 +1460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** drawcountdown (2), drawflying (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sbt (1)

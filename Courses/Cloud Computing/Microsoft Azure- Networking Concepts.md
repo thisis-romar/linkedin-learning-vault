@@ -76,18 +76,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Microsoft Azure networking concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980)
+#### [Understand Microsoft Azure networking concepts](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=0)** - In Microsoft's premium cloud solution, Microsoft Azure, you can deploy a wide array of services and resources for your organization's IT needs.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=0)** - In [[Microsoft]]'s premium cloud solution, [[Microsoft Azure]], you can deploy a wide array of services and resources for your organization's IT needs.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=9)** By deploying networking solutions, organizations provide the means to interconnect users, devices, applications, and services through a feature-rich set of network solutions.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=20)** Putting this all together can be a daunting task.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=23)** In this course, we will look at the tools required to connect on-premises networks to Azure, the tools used to publish virtual machines to the internet, as well as the many other tools used to create a reliable, scalable, and secure Azure Virtual Networking solution.
+> **[0:23](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=23)** In this course, we will look at the tools required to connect on-premises networks to [[Microsoft Azure|Azure]], the tools used to publish [[Virtual Machines]] to the internet, as well as the many other tools used to create a reliable, scalable, and secure Azure Virtual Networking solution.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980&t=39)** Welcome, my name is David Elfassy, and I will help you navigate through the networking solutions available from Microsoft Azure.
 >
@@ -95,21 +94,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), cloud (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Speakers:** - in (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=0)** - [Narrator] Before you take on this course, you should have basic understanding of cloud computing, as well as a good understanding of the fundamentals of networking components as they relate to internal on-premises infrastructures.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=0)** - [Narrator] Before you take on this course, you should have basic understanding of [[Cloud Computing]], as well as a good understanding of the fundamentals of networking components as they relate to internal on-premises infrastructures.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=13)** Having a basic understanding of TCP IP processes, IP addresses, subnetting and routing can also be very useful in following this course.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=13)** Having a basic understanding of TCP IP processes, IP addresses, subnetting and [[Routing]] can also be very useful in following this course.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=22)** As well as having a good understanding of resources that can be hosted and provisioned in an Azure cloud, such as virtual machines, storage accounts and databases.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=22)** As well as having a good understanding of resources that can be hosted and provisioned in an [[Microsoft Azure|Azure]] cloud, such as [[Virtual Machines]], storage accounts and [[Databases]].
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=32)** Azure is a cloud-based platform, and as such, Microsoft is constantly updating and improving Azure.
+> **[0:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=32)** Azure is a cloud-based platform, and as such, [[Microsoft]] is constantly updating and improving Azure.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/what-you-should-know?u=76281980&t=39)** And the way that the Azure interface looks like today may not be exactly the way that it is deployed in your environment.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), cloud (3), [[Routing]] (1), [[Virtual Machines]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cloud Computing]] (1), [[Routing]] (1), [[Virtual Machines]] (1), [[Databases]] (1)
 > **Env Vars:** tcp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -132,18 +130,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure networking components
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980)
+#### [Understanding Azure networking components](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=0)** - [Instructor] Similarly to other concepts related to Azure Computing, the concepts around Azure Virtual Networking are based on the three primary tenants of Azure Computing, and that is reliability, security, and performance.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=0)** - [Instructor] Similarly to other concepts related to [[Microsoft Azure|Azure]] Computing, the concepts around Azure Virtual Networking are based on the three primary tenants of Azure Computing, and that is reliability, security, and performance.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=16)** If you have previously managed other cloud computing solutions or on-prem computing solutions, you may be familiar with some of the concepts that virtual networking within Azure is based on.
+> **[0:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=16)** If you have previously managed other [[Cloud Computing]] solutions or on-prem computing solutions, you may be familiar with some of the concepts that virtual networking within Azure is based on.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=30)** So, let's first talk about some of that terminology and some of these components.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=35)** And here what I have is the Microsoft page for Azure Virtual Networking where we'll get to see some of the concepts and technologies.
+> **[0:35](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=35)** And here what I have is the [[Microsoft]] page for Azure Virtual Networking where we'll get to see some of the concepts and technologies.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=44)** First, I want to mention that Azure Virtual Networking is really the solution that we will use to provide inbound access to our resources and outbound access from our resources to the internet or to other networks.
 >
@@ -175,13 +172,13 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=155)** For example, IP addresses, DNS servers.
 >
-> **[2:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=159)** The solutions that provide the addressing solution to be able to identify the resource throughout the internet that we want to connect to, we use a concept of IP addressing or internet protocol addressing.
+> **[2:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=159)** The solutions that provide the addressing solution to be able to identify the resource throughout the internet that we want to connect to, we use a concept of [[IP Addressing]] or internet protocol addressing.
 >
 > **[2:53](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=173)** And of course, the cloud solutions in Azure support both IPv4 and IPv6 addressing.
 >
-> **[3:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=180)** DNS or Domain Name System is the solution that is used to provide a name resolution or to be able to translate that cryptic IP address to a name.
+> **[3:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=180)** DNS or [[Domain Name System (DNS)|Domain Name System]] is the solution that is used to provide a name resolution or to be able to translate that cryptic IP address to a name.
 >
-> **[3:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=193)** And that translation is performed by DNS or the Domain Name System, the Domain Name Service as it's installed in Windows, or sometimes referred to as Domain Name Servers.
+> **[3:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=193)** And that translation is performed by DNS or the Domain Name System, the Domain Name Service as it's installed in [[Windows]], or sometimes referred to as Domain Name Servers.
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980&t=204)** So, DNS is a solution that is embedded into Azure where we have many different types of implementation of DNS that we can provide through the Azure subscription.
 >
@@ -197,19 +194,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), dns (5), cloud (3), [[Microsoft]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Microsoft]] (2), [[Domain Name System (DNS)|Domain name system]] (2), [[Cloud Computing]] (1), [[IP Addressing]] (1)
 > **Env Vars:** dns (5), wan (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to the Azure management portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980)
+#### [Introduction to the Azure management portal](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=0)** - [Narrator] So before we dive into the various Azure virtual networking resources and how we configure them, let's talk a little bit about the management tool that we use to manage, create, configure, troubleshoot all of the various Azure virtual networking resources that will exist in my environment.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=0)** - [Narrator] So before we dive into the various [[Microsoft Azure|Azure]] virtual networking resources and how we configure them, let's talk a little bit about the management tool that we use to manage, create, configure, troubleshoot all of the various Azure virtual networking resources that will exist in my environment.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=19)** The tool that I use to manage all resources in Azure, including virtual networking, is the Azure portal.
 >
@@ -225,9 +221,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=59)** I have Bash.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=60)** And if you come from a Linux environment, you are familiar with Bash scripting or PowerShell.
+> **[1:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=60)** And if you come from a [[Linux]] environment, you are familiar with Bash scripting or [[Powershell]].
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=66)** If you are coming from a Microsoft environment both on-prem or cloud, you're familiar with Microsoft PowerShell, the scripting interface.
+> **[1:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=66)** If you are coming from a [[Microsoft]] environment both on-prem or cloud, you're familiar with Microsoft PowerShell, the scripting interface.
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=76)** So if I click on PowerShell, I then have a choice to either select a storage account that exists to actually maintain persistence between my Cloud Shell sessions, or I can say that I don't want to maintain persistence and not use a storage account.
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=332)** This is where you can tag your resources using key pair values to later on be able to find them easier.
 >
-> **[5:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=339)** So it's sort of like applying a little bit of metadata to your resource so that later on you can search for those resources and find them easily.
+> **[5:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=339)** So it's sort of like applying a little bit of [[Metadata]] to your resource so that later on you can search for those resources and find them easily.
 >
 > **[5:50](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-the-azure-management-portal?u=76281980&t=350)** As well, I have here monitoring, which allows you to specify various alerts and diagnostic logging to review what's happening to your resources.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (11), [[Powershell]] (4), management (3), [[Scripting]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Powershell]] (4), [[Microsoft]] (2), [[Linux]] (1), [[Metadata]] (1)
 > **Tools:** powershell (4), azure portal (3), command line (3), bash (2)
 > **UI Navigation:** click on (3), select the (2), go to (1)
 > **CLI Commands:** find (2), make (1)
@@ -314,14 +310,13 @@ created: 2026-05-02
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Definitions:** is a  (1)
 
-#### Introduction to Azure networking resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980)
+#### [Introduction to Azure networking resources](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=0)** - [Instructor] So how do we implement virtual networking and how do we build these virtual network resources?
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=6)** How do we provide access to our databases, our virtual machines, our applications to the outside world?
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=6)** How do we provide access to our [[Databases]], our [[Virtual Machines]], our applications to the outside world?
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=14)** And how do we do that securely?
 >
@@ -339,11 +334,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=59)** As well, I'm going to show you how to create some new resources.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=63)** So to create a new resource, I'm going to click on the create a resource link within the Azure portal, and this is where I can create any type of resource, a virtual machine, a storage account, a database, a firewall, anything that I want virtually within my Azure subscription.
+> **[1:03](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=63)** So to create a new resource, I'm going to click on the create a resource link within the [[Microsoft Azure|Azure]] portal, and this is where I can create any type of resource, a virtual machine, a storage account, a database, a firewall, anything that I want virtually within my Azure subscription.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=80)** But if I want to segment the view of these resources to virtual networking, I'm going to click here on Networking.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=87)** Now, you'll notice right away that within this interface, this Microsoft Azure Marketplace interface, there are different types of Azure providers, and some of them are third party.
+> **[1:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=87)** Now, you'll notice right away that within this interface, this [[Microsoft Azure]] Marketplace interface, there are different types of Azure providers, and some of them are third party.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=100)** So they are third party network resources that can be created by other companies that are storing the resources within the Azure portal.
 >
@@ -357,9 +352,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=133)** You're then utilizing this digital resource and you're paying a subscription fee to the provider to be able to gain benefit from this resource.
 >
-> **[2:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=142)** Most of these resources are VPN resources and firewall resources that can be created and that are provided by these third party products, which do a great job at providing some advanced features that are not built into Azure.
+> **[2:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=142)** Most of these resources are VPN resources and firewall resources that can be created and that are provided by these third party [[Microsoft Products|products]], which do a great job at providing some advanced features that are not built into Azure.
 >
-> **[2:36](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=156)** However, here on the left, most of the resources that I have here are Microsoft resources, so resources that are created and published by Microsoft.
+> **[2:36](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=156)** However, here on the left, most of the resources that I have here are [[Microsoft]] resources, so resources that are created and published by Microsoft.
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=166)** These resources usually come in free tiers, basic tiers, and then premium tiers.
 >
@@ -407,7 +402,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=342)** But for the purpose of this demonstration, I'm just going to pick a Basic IP address, and then I have the option of specifying the IP address assignment.
 >
-> **[5:52](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=352)** So in IP addressing, since that's been available in on-prem network, there's always been the concept of a static IP address, so an IP address that I manually provide myself, or a dynamic IP address, an IP address that is assigned by servers that just push out that IP address to the available resources.
+> **[5:52](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=352)** So in [[IP Addressing]], since that's been available in on-prem network, there's always been the concept of a static IP address, so an IP address that I manually provide myself, or a dynamic IP address, an IP address that is assigned by servers that just push out that IP address to the available resources.
 >
 > **[6:11](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=371)** So an on-prem network, we talk about DHCP or a dynamic host configuration protocol, where the IP address is pushed out or made available to the servers that request it.
 >
@@ -415,7 +410,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=392)** Then I have the option for a DNS label, which is basically the name that's going to be assigned to that IP address or the name that will be used to resolve to that IP address.
 >
-> **[6:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=402)** So I mentioned earlier DNS, or domain name system, the technology that allows names to be resolved to IP addresses, or translated to IP addresses.
+> **[6:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=402)** So I mentioned earlier DNS, or [[Domain Name System (DNS)|domain name system]], the technology that allows names to be resolved to IP addresses, or translated to IP addresses.
 >
 > **[6:53](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=413)** The DNS label will be the internet name for this resource that will then be used to provide access to this connection.
 >
@@ -433,7 +428,7 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=487)** However, in the background, what happens is that there is a deployment script that is triggered, and I can actually view that script and then I can reuse and modify that script later on if I want to automate both the management or the creation of more resources.
 >
-> **[8:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=505)** So by clicking on template, I actually see this JSON script that provides all of the details for this deployment.
+> **[8:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=505)** So by clicking on template, I actually see this [[JSON]] script that provides all of the details for this deployment.
 >
 > **[8:34](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/introduction-to-azure-networking-resources?u=76281980&t=514)** I can then take that, I can modify it, and I can redeploy a resource using the script, or I can either trigger, as you'll remember, we talked about how we can use a cloud shell to use scripting.
 >
@@ -449,7 +444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (5), cloud (4), [[Microsoft Azure]] (3), dns (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft Azure]] (3), [[Microsoft]] (2), [[JSON]] (2), [[Databases]] (1)
 > **Env Vars:** sku (4), dns (3), ipv (2), json (2), vpn (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (4)
@@ -458,20 +453,19 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Warnings:** warning (1), troubleshoot (1)
 
-#### Using Copilot for Azure Virtual Networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980)
+#### [Using Copilot for Azure Virtual Networking](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=0)** - [Instructor] So if you've recently looked at Microsoft products, you've noticed that Copilot is now embedded into many of the Microsoft solutions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=0)** - [Instructor] So if you've recently looked at [[Microsoft Products]], you've noticed that [[Microsoft Copilot|Copilot]] is now embedded into many of the [[Microsoft]] solutions.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=9)** Whether it be an application that you're using on your desktop computer or an online portal, Microsoft Copilot is visible in many of those solutions and is there to help you, assist you in implementing, configuring, or identifying information within those tools.
+> **[0:09](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=9)** Whether it be an application that you're using on your desktop computer or an online portal, [[Microsoft Copilot]] is visible in many of those solutions and is there to help you, assist you in implementing, configuring, or identifying information within those tools.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=27)** So Microsoft Copilot is the artificial intelligence agent that has been created by Microsoft as an assistant.
+> **[0:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=27)** So Microsoft Copilot is the [[Artificial Intelligence (AI)|artificial intelligence]] agent that has been created by Microsoft as an assistant.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=36)** So Copilot is more or less an assistant that you are meant to use to be more efficient in your tasks.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=43)** And Microsoft has now embedded Copilot into the Azure portal.
+> **[0:43](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=43)** And Microsoft has now embedded Copilot into the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=48)** Note that the Copilot may not be visible in all regions, and it's still in preview.
 >
@@ -507,7 +501,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=160)** So I'm going to ask it another question again.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=162)** Modify the inbound security rules of a network security group, which is another resource within my Azure portal.
+> **[2:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=162)** Modify the inbound security rules of a [[Network Security]] group, which is another resource within my Azure portal.
 >
 > **[2:54](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/using-copilot-for-azure-virtual-networking?u=76281980&t=174)** And let's see what it's going to tell me.
 >
@@ -550,8 +544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage virtual networking for a virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980)
+#### [Manage virtual networking for a virtual machine](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +556,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=26)** And so the easiest way to demonstrate that is to actually show you how the resources are connected.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=33)** And the first part of this course is focused on looking at the connections of resources to virtual networking objects and to those virtual networking tools we have in Azure.
+> **[0:33](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=33)** And the first part of this course is focused on looking at the connections of resources to virtual networking objects and to those virtual networking tools we have in [[Microsoft Azure|Azure]].
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=46)** So I already have several resources in my Azure subscription, and I want to show you how, during the deployment of these resources, they were connected to virtual networking.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=84)** Now VM1 was created and I deployed it in my environment.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=88)** It's a Linux virtual machine.
+> **[1:28](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=88)** It's a [[Linux]] virtual machine.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=90)** And during the deployment, I actually had to assign virtual networking resources to that virtual machine.
 >
@@ -615,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=202)** The virtual network is going to have resource within it.
 >
-> **[3:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=205)** And the primary resource that I must always have is a subnet, defining the IP addressing scheme.
+> **[3:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=205)** And the primary resource that I must always have is a subnet, defining the [[IP Addressing]] scheme.
 >
 > **[3:33](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=213)** So defining all of the IP addresses that are accessible to my virtual network, that's defined in my subnet.
 >
@@ -679,13 +672,13 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=413)** We know that it's connected to this virtual machine.
 >
-> **[6:56](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=416)** We know that this virtual machine is connected to a virtual network, and then the whole thing is secured, using a network security group.
+> **[6:56](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=416)** We know that this virtual machine is connected to a virtual network, and then the whole thing is secured, using a [[Network Security]] group.
 >
 > **[7:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=426)** So the network security group, which is also connected to our interface, determines the inbound and the outbound rules for connections.
 >
 > **[7:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=436)** Inbound is ingress, anything that can go into the virtual machine.
 >
-> **[7:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=441)** So any allowed connections inbound to the virtual machines are determined here.
+> **[7:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=441)** So any allowed connections inbound to the [[Virtual Machines]] are determined here.
 >
 > **[7:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980&t=447)** And the outbound rules are determined here, which is any connections out from the virtual machine.
 >
@@ -709,7 +702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Network Security]] (5), dns (4), [[Security]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Network Security]] (5), [[Linux]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** vm1 (5), dns (4), ipv4 (1), ipv6 (1), cidr (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (2)
@@ -717,12 +710,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage virtual networking for a storage account
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980)
+#### [Manage virtual networking for a storage account](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=0)** - [Instructor] One of the most common resources in an Azure subscription is an Azure storage account.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=0)** - [Instructor] One of the most common resources in an [[Microsoft Azure|Azure]] subscription is an Azure storage account.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=6)** A storage account is essentially a repository where you can store any type of data such as files, queues, or blobs.
 >
@@ -746,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=90)** And I'll get back to those settings in a couple of minutes.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=93)** I also have here a network security perimeter, which is a new type of resource that I'm not going to touch on right just yet because it's still in preview, it's in public preview.
+> **[1:33](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=93)** I also have here a [[Network Security]] perimeter, which is a new type of resource that I'm not going to touch on right just yet because it's still in preview, it's in public preview.
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=104)** And it provides a set of security settings similar to a virtual network and network security groups, which create this, again, the security boundary around a resource.
 >
@@ -770,7 +762,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=175)** And in a later video in this course, we'll talk about a database and the private connection points to the database, the private endpoint to the database, and we'll take a look at that in that video.
 >
-> **[3:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=187)** Then I have network routing.
+> **[3:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=187)** Then I have network [[Routing]].
 >
 > **[3:09](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-storage-account?u=76281980&t=189)** So the network routing essentially allows me to determine how the data will be accessible or what route it will take to get to my private endpoint.
 >
@@ -826,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Network Security]] (5), data (4), database (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Network Security]] (5), [[Routing]] (2)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** cname (2), dns (2), vm1 (1)
 > **URLs:** [contoso.com](https://contoso.com) (3)
@@ -835,14 +827,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** configure (1)
 
-#### Manage virtual networking for a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980)
+#### [Manage virtual networking for a database](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=0)** - [Instructor] Now from the Azure portal, we can also configure the remote access to a database.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=0)** - [Instructor] Now from the [[Microsoft Azure|Azure]] portal, we can also configure the remote access to a database.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=6)** So a database, here, I'm going to use the example of a SQL database that's been pre deployed in my environment.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=6)** So a database, here, I'm going to use the example of a [[SQL]] database that's been pre deployed in my environment.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=12)** The SQL database can store structured data that they can then be accessed by applications or other tools or users that need to perform queries.
 >
@@ -868,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=86)** I'm going to click on the server, and when I click on the server, I see that here I actually have networking settings.
 >
-> **[1:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=92)** So you will not have networking settings on a SQL database, but you'll have it on a SQL Server.
+> **[1:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=92)** So you will not have networking settings on a SQL database, but you'll have it on a [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=98)** So I'm going to click on network settings, which actually links me right down here to the Networking blade, and from here, I can specify the public access to the database.
 >
@@ -884,7 +875,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=144)** And those endpoints, for example, can be set on a SQL Server.
 >
-> **[2:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=147)** They can also be set on a storage account and a number of other resources that are in Azure, such as Service Buses, Event Hubs, App Services, or Key Vaults, also, other types of databases like Cosmo DB.
+> **[2:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=147)** They can also be set on a storage account and a number of other resources that are in Azure, such as Service Buses, Event Hubs, App Services, or Key Vaults, also, other types of [[Databases]] like Cosmo DB.
 >
 > **[2:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-database?u=76281980&t=162)** So these endpoints, these efficient paths of connection to the database, are going to be determined here.
 >
@@ -958,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), [[SQL]] (7), [[Microsoft Azure|Azure]] (6), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Azure|Azure]] (6), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (3)
 > **Env Vars:** sql (13), tls (3), dns (1)
 > **UI Navigation:** click on (6)
 > **Versions:** 1.2 (2), 1.3 (1)
@@ -967,8 +958,7 @@ created: 2026-05-02
 > **Tools:** azure portal (1), visual studio (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Manage network security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980)
+#### [Manage network security groups](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=21)** What defines what is allowed by default, what is blocked by default and how these things are configured are directly within a set of security networking solutions.
 >
-> **[0:34](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=34)** One of those that is probably the most common and one that you are more likely to use in an environment of Azure infrastructure is going to be the network security group.
+> **[0:34](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=34)** One of those that is probably the most common and one that you are more likely to use in an environment of [[Microsoft Azure|Azure]] infrastructure is going to be the [[Network Security]] group.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=46)** A network security group is going to be assigned or attached to a network interface that belongs to a virtual machine.
 >
@@ -992,7 +982,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=82)** So the primary information that relates to the security group are the rules, the set of rules that define what is allowed to come in to our resource or go out from our resource.
 >
-> **[1:35](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=95)** So the inbound port rules and the outbound port rules define the access to our virtual machine or the access from our virtual machine out to the rest of the networks, to the internet, or to other specific resources within our Azure infrastructure.
+> **[1:35](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=95)** So the inbound port rules and the outbound port rules define the access to our virtual machine or the access from our virtual machine out to the [[Representational State Transfer (REST)|rest]] of the networks, to the internet, or to other specific resources within our Azure infrastructure.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-network-security-groups?u=76281980&t=113)** So here you see I have a set of rules that exist.
 >
@@ -1088,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (10), next (4), [[Security]] (3), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (10), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (3), is an  (3), is a  (2)
 > **Env Vars:** tcp (3), ssh (2), rdp (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1102,12 +1092,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating virtual networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980)
+#### [Creating virtual networks](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=0)** - [Speaker] With the namesake of this course being Azure Virtual Networking, let's start to look at the Azure Virtual Network Resource.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=0)** - [Speaker] With the namesake of this course being [[Microsoft Azure|Azure]] Virtual Networking, let's start to look at the Azure Virtual Network Resource.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=8)** So I mentioned before that we will want to attach our resources to a virtual network and then configure that virtual network with the various security settings that are appropriate for our environment to create a security boundary.
 >
@@ -1135,7 +1124,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=105)** We have a network manager that allows us to manage all of our networking resources.
 >
-> **[1:50](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=110)** A network security perimeter, which is a new type of a resource still in preview that allows us to segment our resources through networking.
+> **[1:50](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=110)** A [[Network Security]] perimeter, which is a new type of a resource still in preview that allows us to segment our resources through networking.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=119)** So there are many, many resource types available, but here what we're going to create is a virtual network resource, and I click on the create button here to start the process of creating our virtual network resource.
 >
@@ -1159,7 +1148,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=185)** First, virtual network encryption.
 >
-> **[3:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=187)** Virtual network encryption is a option that ensures that traffic between virtual machines inside of a virtual network is going to be encrypted, so that's private to private traffic.
+> **[3:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=187)** Virtual network encryption is a option that ensures that traffic between [[Virtual Machines]] inside of a virtual network is going to be encrypted, so that's private to private traffic.
 >
 > **[3:19](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=199)** If there is traffic that is coming from outside of the virtual network, that traffic will not be encrypted using virtual network encryption.
 >
@@ -1189,7 +1178,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=302)** And there are other steps involved as well.
 >
-> **[5:05](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=305)** I'm going to click on next and go into the IP addressing.
+> **[5:05](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=305)** I'm going to click on next and go into the [[IP Addressing]].
 >
 > **[5:08](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980&t=308)** So the IP addressing here is the definition of the IP address range that will be allowed or used within my virtual network.
 >
@@ -1217,7 +1206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), traffic (5), next (4), [[Security]] (3), [[Virtual Machines]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (3), [[IP Addressing]] (2), [[Network Security]] (1)
 > **Definitions:** is a  (7)
 > **UI Navigation:** click on (5), select the (1)
 > **Env Vars:** rdp (3), vpn (1)
@@ -1226,8 +1215,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** azure portal (1)
 
-#### Managing virtual networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980)
+#### [Managing virtual networks](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1223,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=9)** So here it is in my list of available resource, my Vnet-2, virtual network that was created in the location, East US in my subscription resource group.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=19)** I see some of these details in this information card here, which is always useful when you're browsing for resources inside of the Azure portal.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=19)** I see some of these details in this information card here, which is always useful when you're browsing for resources inside of the [[Microsoft Azure|Azure]] portal.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=27)** So let me click on it and let's look at this resource.
 >
@@ -1281,9 +1269,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=159)** Again, there are costs associated to that, if I want to add that.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=162)** The firewall I will be adding later on this course, I have of course, the Defender for cloud, this fantastic resource from Microsoft for managing security posture throughout your environment.
+> **[2:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=162)** The firewall I will be adding later on this course, I have of course, the [[Microsoft Defender|Defender]] for cloud, this fantastic resource from [[Microsoft]] for managing security posture throughout your environment.
 >
-> **[2:53](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=173)** I have a course on the LinkedIn library that deals specifically with Azure security that focuses on Defender for cloud.
+> **[2:53](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=173)** I have a course on the [[LinkedIn]] library that deals specifically with Azure security that focuses on Defender for cloud.
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=180)** I highly recommend that you audit that course.
 >
@@ -1295,7 +1283,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=207)** So peering is the ability to connect multiple virtual networks together so that the resources on those virtual networks can communicate to each other.
 >
-> **[3:37](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=217)** So if you have multiple virtual machines in Vnet-1 and multiple virtual machines in Vnet-2, and you want those to communicate with each other, a great way of doing that is by peering the virtual networks.
+> **[3:37](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=217)** So if you have multiple [[Virtual Machines]] in Vnet-1 and multiple virtual machines in Vnet-2, and you want those to communicate with each other, a great way of doing that is by peering the virtual networks.
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/managing-virtual-networks?u=76281980&t=231)** So to do that, I would add a virtual network peer.
 >
@@ -1361,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Defender|Defender]] (2), cloud (2), [[Security]] (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Defender|Defender]] (2), [[Virtual Machines]] (2), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rbac (2), nic (1), vpn (1), dns (1)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **Definitions:** is a  (2), means that (2)
@@ -1370,8 +1358,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
 
-#### Creating an Azure load balancer
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980)
+#### [Creating an Azure load balancer](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=13)** The load balancer will then use a public IP address to make the resources available to external users or a network somewhere else in an on-premises data center.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=25)** In order to make a load balancer available, we need to create a Azure load balancer resource, a resource that is publicly available from Microsoft that is published by Microsoft.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=25)** In order to make a load balancer available, we need to create a [[Microsoft Azure|Azure]] load balancer resource, a resource that is publicly available from [[Microsoft]] that is published by Microsoft.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=35)** Or we can create a load balancer from a number of third party vendors that are publishing their load balancers in the Azure marketplace.
 >
@@ -1449,7 +1436,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=240)** And these are availability zones.
 >
-> **[4:02](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=242)** Then I have my routing preference here.
+> **[4:02](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=242)** Then I have my [[Routing]] preference here.
 >
 > **[4:05](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=245)** So the routing preference will determine whether or not the connections to this public IP address will use the Microsoft network as the primary connection, basically utilizing a closer connection to the user that connects or will it use the backbone of the internet.
 >
@@ -1483,7 +1470,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=337)** So it allows me to now publish this resource of VM1.
 >
-> **[5:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=342)** If I had a more complex configuration, I would then deploy some inbound rules and outbound rules, which would essentially determine if I have multiple virtual machines, that would be balancing a specific application.
+> **[5:42](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=342)** If I had a more complex configuration, I would then deploy some inbound rules and outbound rules, which would essentially determine if I have multiple [[Virtual Machines]], that would be balancing a specific application.
 >
 > **[5:55](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-load-balancer?u=76281980&t=355)** I can specify some inbound rules as well as network address translation if I want to grab the connections on a specific port and then redirect them on a different port, I can specify that with the inbound rules and outbound rules.
 >
@@ -1497,7 +1484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (5), next (3), [[Routing]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft]] (5), [[Routing]] (2)
 > **Env Vars:** sku (4), vm1 (3), isp (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
@@ -1506,18 +1493,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating public IP prefixes and addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980)
+#### [Creating public IP prefixes and addresses](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=0)** - [Instructor] There's one type of resource that we commonly create in this course, and it's an IP address.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=6)** As we deal with networking, one of the core components of a networking infrastructure is your IP addressing scheme, all of the IP addresses that you use, both internally in your network and externally from the internet.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=6)** As we deal with networking, one of the core components of a networking infrastructure is your [[IP Addressing]] scheme, all of the IP addresses that you use, both internally in your network and externally from the internet.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=21)** So for the most part, dynamic IP addresses are chosen when you create IP addresses in Azure on a public side.
+> **[0:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=21)** So for the most part, dynamic IP addresses are chosen when you create IP addresses in [[Microsoft Azure|Azure]] on a public side.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=29)** And those are IP addresses that are owned by Microsoft and that can be made available to the organizations, the companies that utilize its infrastructure.
+> **[0:29](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=29)** And those are IP addresses that are owned by [[Microsoft]] and that can be made available to the organizations, the companies that utilize its infrastructure.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-public-ip-prefixes-and-addresses?u=76281980&t=39)** And then those IP addresses are the ones that people will use when they will be connecting to your resources from the internet.
 >
@@ -1558,12 +1544,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Azure Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980)
+#### [Create an Azure Firewall](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=0)** - [Instructor] In this course, we've looked at building many resources inside of an Azure virtual network, and we've talked about connecting all those resources to that virtual network or a group of virtual networks, and then grouping those virtual networks together.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=0)** - [Instructor] In this course, we've looked at building many resources inside of an [[Microsoft Azure|Azure]] virtual network, and we've talked about connecting all those resources to that virtual network or a group of virtual networks, and then grouping those virtual networks together.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=16)** This all creates our internal infrastructure in Azure, where our resources will live and connect.
 >
@@ -1573,9 +1558,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=38)** We'll want to create a resource that's very familiar to most administrators of on-prem solution, and that is a firewall.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=46)** So Microsoft Azure includes several firewall services, and here I'm in the Marketplace, the Azure Marketplace, and a simple search on the word firewall provides a long list of different firewall solutions from many different providers.
+> **[0:46](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=46)** So [[Microsoft Azure]] includes several firewall services, and here I'm in the Marketplace, the Azure Marketplace, and a simple search on the [[Microsoft Word|word]] firewall provides a long list of different firewall solutions from many different providers.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=60)** These firewall solutions are not unlike the many on-prem solutions that are hardware-based solutions, where they provide similar management options and very similar tools.
+> **[1:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=60)** These firewall solutions are not unlike the many on-prem solutions that are [[Hardware]]-based solutions, where they provide similar management options and very similar tools.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=71)** Some of them are quite advanced.
 >
@@ -1583,7 +1568,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=79)** So many firewall solutions to choose from, depending on your preferred vendor.
 >
-> **[1:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=85)** However, if you want, you can also create a firewall that is provided by Microsoft Azure, the Azure firewall service, and some of the concepts relating to firewalls are similar to the ones that are available directly from Microsoft, like the Azure firewall service, to the ones that are available from third-party vendor.
+> **[1:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=85)** However, if you want, you can also create a firewall that is provided by Microsoft Azure, the Azure firewall service, and some of the concepts relating to firewalls are similar to the ones that are available directly from [[Microsoft]], like the Azure firewall service, to the ones that are available from third-party vendor.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/create-an-azure-firewall?u=76281980&t=103)** From a conceptual place, they are quite similar.
 >
@@ -1643,7 +1628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), management (5), [[Microsoft Azure]] (2), feature (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Azure]] (2), [[Microsoft Word|Word]] (1), [[Hardware]] (1), [[Microsoft]] (1)
 > **Env Vars:** sku (6), ssl (3), idps (1), nic (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), for example (1)
@@ -1656,14 +1641,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating Azure ExpressRoute
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980)
+#### [Creating Azure ExpressRoute](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=0)** - [Instructor] There are essentially three methods for connecting your on-premises data center to an Azure infrastructure.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=0)** - [Instructor] There are essentially three methods for connecting your on-premises data center to an [[Microsoft Azure|Azure]] infrastructure.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=7)** You can build a virtual private network or connect your on-premises VPN to a virtual network gateway that exists in Azure, you can also create an Azure private link that connects to private endpoints in Azure, or you can create a dedicated connection between your on-premises data center and the Azure environment if you have a hybrid coexistence environment by using an Azure ExpressRoute.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=7)** You can build a [[Virtual Private Network (VPN)|virtual private network]] or connect your on-premises VPN to a virtual network gateway that exists in Azure, you can also create an Azure private link that connects to private endpoints in Azure, or you can create a dedicated connection between your on-premises data center and the Azure environment if you have a hybrid coexistence environment by using an Azure ExpressRoute.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=39)** This is the fastest, this is the most reliable, and the one that has the most configuration options for having that private secure link between Azure and your on-premises infrastructure.
 >
@@ -1679,7 +1663,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=76)** You'll see that there are other options here as well, and we will go through some of these options in later videos in this course.
 >
-> **[1:24](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=84)** So the ExpressRoute, I can create by clicking on the Create button over here, and you'll see that once again, I have to select my Subscription and my Resource group, but then I have an interesting new option here, which is the Resiliency option.
+> **[1:24](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=84)** So the ExpressRoute, I can create by clicking on the Create button over here, and you'll see that once again, I have to select my Subscription and my Resource group, but then I have an interesting new option here, which is the [[Resiliency]] option.
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=101)** Now if I select different Resiliency options, I see that this diagram below opens up with different representation of what I am building.
 >
@@ -1691,7 +1675,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=129)** It means that you have a connection from your on-premises network to a partner edge.
 >
-> **[2:15](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=135)** A partner edge is essentially a local provider, a telecom provider in your region, and then from that telecom provider directly a link to Microsoft.
+> **[2:15](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=135)** A partner edge is essentially a local provider, a telecom provider in your region, and then from that telecom provider directly a link to [[Microsoft]].
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=145)** So the provider has to be an approved provider, and I'll show you how we select the provider, and they have a dedicated connection to the Microsoft infrastructure through their Microsoft Enterprise Edge connection points.
 >
@@ -1753,11 +1737,11 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=337)** I'm not going to review and create this resource because it is quite costly, and as soon as I create the resource in my infrastructure, I'm going to start incurring cost, and I don't want to do that for this demonstration.
 >
-> **[5:48](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=348)** But these are all the options in order to create your ExpressRoute circuit, your ExpressRoute connecting your on-premises data center to Microsoft Azure.
+> **[5:48](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980&t=348)** But these are all the options in order to create your ExpressRoute circuit, your ExpressRoute connecting your on-premises data center to [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Resiliency]] (7), [[Microsoft]] (4), data (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Resiliency]] (7), [[Microsoft]] (4), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** select the (5), click on (1)
 > **Env Vars:** sku (4), vpn (1)
 > **Definitions:** means that (2), basically means (1), is called (1), is a  (1)
@@ -1766,22 +1750,21 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an Azure Private Link service
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980)
+#### [Creating an Azure Private Link service](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=0)** - [Instructor] Similarly to the Azure Express route, there is another method of providing a direct connection to our resources, either from a non-prem solution or directly between resources that are stored in Azure, if you want to keep them out of the internet.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=0)** - [Instructor] Similarly to the [[Microsoft Azure|Azure]] Express route, there is another method of providing a direct connection to our resources, either from a non-prem solution or directly between resources that are stored in Azure, if you want to keep them out of the internet.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=16)** So let's say you have a resource in Azure that needs to be accessed by another resource.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=21)** It may be in your subscription, it may be in another subscription, and you want that connection to stay on the Microsoft backend, to not be included in the overall internet backbone.
+> **[0:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=21)** It may be in your subscription, it may be in another subscription, and you want that connection to stay on the [[Microsoft]] backend, to not be included in the overall internet backbone.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=32)** In order to do that, we would use private connections or private links.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=36)** So we already have some type of a private connection, which is a private endpoint.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=41)** In an earlier video in this course, we created a private endpoint for our SQL database resource.
+> **[0:41](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=41)** In an earlier video in this course, we created a private endpoint for our [[SQL]] database resource.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=48)** So this resource can be accessed directly by this endpoint that we created.
 >
@@ -1797,7 +1780,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=83)** As well, we can publish existing resources through Private Link services.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=88)** So Private Link services allows you to publish other resources such as virtual machines, for example, and you can put those virtual machines behind a load balancer.
+> **[1:28](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=88)** So Private Link services allows you to publish other resources such as [[Virtual Machines]], for example, and you can put those virtual machines behind a load balancer.
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=97)** Actually, you must put those virtual machines behind a load balancer in order to publish them with a Private Link service.
 >
@@ -1805,7 +1788,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=123)** Of course, these components require additional costs.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=126)** For hybrid environments, if your organization uses Azure Arc, relatively new service, that allows you to extend your infrastructure for hybrid infrastructures, you can create Azure Arc Private Links, and then allow connections to pass services, for example, platform as a service services.
+> **[2:06](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=126)** For hybrid environments, if your organization uses Azure Arc, relatively new service, that allows you to extend your infrastructure for hybrid infrastructures, you can create Azure Arc Private Links, and then allow connections to pass services, for example, [[PaaS|platform as a service]] services.
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-an-azure-private-link-service?u=76281980&t=145)** You can also use Azure Monitor to monitor these various links.
 >
@@ -1813,18 +1796,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (6), application (3), express (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Virtual Machines]] (6), [[Microsoft]] (1), [[SQL]] (1), [[PaaS|Platform as a service]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a virtual network gateway to support a VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980)
+#### [Creating a virtual network gateway to support a VPN](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=0)** - [Instructor] So I mentioned that there are multiple ways to extend your on-prem network to Azure or to create direct connections to your Azure resources, and one of those methods is the cheapest of all methods available if you are wanting to create a secure or direct link, and that is the virtual private network, VPN.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=0)** - [Instructor] So I mentioned that there are multiple ways to extend your on-prem network to [[Microsoft Azure|Azure]] or to create direct connections to your Azure resources, and one of those methods is the cheapest of all methods available if you are wanting to create a secure or direct link, and that is the [[Virtual Private Network (VPN)|virtual private network]], VPN.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=23)** So you are likely comfortable with the term VPN if you've worked on on-prem solutions, and you've worked with networks that contain multiple access to resources from users that work remotely or extending your network between multiple sites.
 >
@@ -1846,7 +1828,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=105)** And you'll see that there are multiple types of resources that become available.
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=109)** Those resources are third-party VPN solutions, so third-party virtual network gateways that would exist in Azure to connect to an on-prem VPN solution, and that VPN solution could be a hardware solution.
+> **[1:49](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=109)** Those resources are third-party VPN solutions, so third-party virtual network gateways that would exist in Azure to connect to an on-prem VPN solution, and that VPN solution could be a [[Hardware]] solution.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=123)** So there are hardware appliances that are dedicated for VPNs, or there's software VPNs.
 >
@@ -1868,7 +1850,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=193)** I actually don't have any Azure Extended Zones in my environment, so I can't actually deploy it.
 >
-> **[3:18](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=198)** It is based on Microsoft's availability based on your location.
+> **[3:18](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=198)** It is based on [[Microsoft]]'s availability based on your location.
 >
 > **[3:21](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=201)** So then I can specify the gateway type.
 >
@@ -1920,7 +1902,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=343)** And then I can specify various modes, so active-active mode as opposed to active-passive is basically the type of redundance that I'm going to have with this virtual private network connection.
 >
-> **[5:55](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=355)** BGP is the type of routing protocol, whether or not it'll be allowed.
+> **[5:55](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=355)** BGP is the type of [[Routing]] protocol, whether or not it'll be allowed.
 >
 > **[5:59](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-a-virtual-network-gateway-to-support-a-vpn?u=76281980&t=359)** BGP is a routing protocol, and whether or not we will have access to the key vault.
 >
@@ -1958,7 +1940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), vpn (16), [[Virtual Private Network (VPN)|Virtual private network]] (5), [[Hardware]] (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Virtual Private Network (VPN)|Virtual private network]] (5), [[Hardware]] (2), [[Routing]] (2), [[Microsoft]] (1)
 > **Env Vars:** vpn (16), sku (2), bgp (2)
 > **UI Navigation:** click on (5), select the (1)
 > **Definitions:** is a  (4)
@@ -1971,16 +1953,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about Azure networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980)
+#### [Learning more about Azure networking](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980&t=0)** - [Instructor] Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980&t=2)** If you want to learn more about Azure Virtual Networking and Azure, I recommend that you access the various free resources available from Microsoft to build solutions, deploy solutions directly in Azure, and then you can play around with all of the various networking configurations and see how they work and adapt before you deploy them on your live network.
+> **[0:02](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980&t=2)** If you want to learn more about [[Microsoft Azure|Azure]] Virtual Networking and Azure, I recommend that you access the various free resources available from [[Microsoft]] to build solutions, deploy solutions directly in Azure, and then you can play around with all of the various networking configurations and see how they work and adapt before you deploy them on your live network.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980&t=25)** If you're looking to go more in-depth on the various features and products that I've discussed throughout this course, I suggest that you dive into the Virtual Network documentation that is available on learn.[microsoft.com](https://microsoft.com).
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980&t=25)** If you're looking to go more in-depth on the various features and [[Microsoft Products|products]] that I've discussed throughout this course, I suggest that you dive into the Virtual Network documentation that is available on learn.[microsoft.com](https://microsoft.com).
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980&t=39)** There, you will find tutorials, and very detailed documents that describe the various features, products, and services that are used to implement Azure Virtual Networking.
 >

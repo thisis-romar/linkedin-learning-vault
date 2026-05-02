@@ -101,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thinking about causality
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980)
+#### [Thinking about causality](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980&t=0)** - [Keith] Are you ready to continue your journey and to learn about causal inference and causal modeling?
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980&t=0)** - [Keith] Are you ready to continue your journey and to learn about [[Causal Inference]] and causal modeling?
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980&t=7)** This course is a companion to the course, Prediction, Causation, and Statistical Inference.
 >
@@ -140,12 +139,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Causal Inference]] (1), data (1), power (1)
+> **Frameworks & Libraries:** [[Causal Inference]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/what-you-should-know?u=76281980&t=12)** And here would be some of the reasons I would list.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/what-you-should-know?u=76281980&t=15)** If you want to know more about why causality is challenging, if you want a review of statistics including hypothesis testing, or if you want to better understand how stats and machine learning are different, and when to use which, then I would go back and start with the companion course.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/what-you-should-know?u=76281980&t=15)** If you want to know more about why causality is challenging, if you want a review of [[Statistics]] including hypothesis testing, or if you want to better understand how stats and machine learning are different, and when to use which, then I would go back and start with the companion course.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/what-you-should-know?u=76281980&t=37)** However, there are some folks that might want to dive right in and start here.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
@@ -182,12 +180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The investigator, the jury, and the judge
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980)
+#### [The investigator, the jury, and the judge](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980&t=0)** - [Instructor] A friend and colleague of mine, Vince Polito, has a wonderful metaphor that he uses with analytics stakeholders that will allow us to briefly summarize the differences between statistics and machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980&t=0)** - [Instructor] A friend and colleague of mine, Vince Polito, has a wonderful metaphor that he uses with analytics stakeholders that will allow us to briefly summarize the differences between [[Statistics]] and machine learning.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980&t=14)** That distinction was a major topic of the sibling course to this one, [[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]].
 >
@@ -231,13 +228,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (7), data (6), [[Analytics]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (7)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Fisher and experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/fisher-and-experiments?u=76281980)
+#### [Fisher and experiments](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/fisher-and-experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/fisher-and-experiments?u=76281980&t=18)** So what was he up to?
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/fisher-and-experiments?u=76281980&t=19)** He was using statistics to study how to best apply artificial fertilizer to optimally grow winter wheat and other crops.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/fisher-and-experiments?u=76281980&t=19)** He was using [[Statistics]] to study how to best apply artificial fertilizer to optimally grow winter wheat and other crops.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/fisher-and-experiments?u=76281980&t=28)** While he was at it, Fisher laid the groundwork of statistical inference, invented experimental design featuring randomization and Inova.
 >
@@ -337,18 +333,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [voiceover] (1)
 
-#### John Snow and natural experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980)
+#### [John Snow and natural experiments](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=0)** - [Narrator] One of the most famous epidemiological detective stories is the story of John Snow and the cholera epidemics in London in the middle of the 19th century.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=0)** - [Narrator] One of the most famous epidemiological detective stories is the story of [[John the Ripper|John]] Snow and the cholera epidemics in London in the middle of the 19th century.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=11)** There were multiple outbreaks, so we're not going to get caught up in the timeline and we'll discuss just enough to address our theme.
 >
@@ -402,7 +397,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=195)** He actually made this statement about Snow's analysis, He actually made this statement about Snow's analysis, "To measure the effects of good or bad water supply, "it is requisite to find of inhabitants."
 >
-> **[3:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=208)** And then he went on to list a bunch of what we would now call control variables, things like living at the same altitude.
+> **[3:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=208)** And then he went on to list a bunch of what we would now [[Call Control]] variables, things like living at the same altitude.
 >
 > **[3:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=216)** Remember that he favored the airborne theory.
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=328)** "They were safer because they tended to have cleaner water."
 >
-> **[5:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=333)** See, miasma is the word that they used for bad air.
+> **[5:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=333)** See, miasma is the [[Microsoft Word|word]] that they used for bad air.
 >
 > **[5:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/john-snow-and-natural-experiments?u=76281980&t=338)** The claim was that was the cause.
 >
@@ -472,15 +467,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Call Control]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Call Control]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** ucla (2)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Double blind studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/double-blind-studies?u=76281980)
+#### [Double blind studies](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/double-blind-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,13 +508,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control variables (ANCOVA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980)
+#### [Control variables (ANCOVA)](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +536,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=88)** It's the PSAT causality dataset.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=90)** I'll be providing it for your convenience but we won't be doing an analysis in Excel, but I do want to show you some results.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=90)** I'll be providing it for your convenience but we won't be doing an analysis in [[Microsoft Excel|Excel]], but I do want to show you some results.
 >
 > **[1:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=101)** If you're unfamiliar with t-tests, then you might want to consider going back to the other course because we will be increasingly referring to concepts that are reviewed in more depth there but that we need here.
 >
@@ -656,7 +648,7 @@ created: 2026-05-02
 >
 > **[9:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=570)** First, it complicates your analysis.
 >
-> **[9:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=573)** You might need to upgrade your statistics toolkit if you aren't already familiar with advanced statistical techniques.
+> **[9:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=573)** You might need to upgrade your [[Statistics]] toolkit if you aren't already familiar with advanced statistical techniques.
 >
 > **[9:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/control-variables-ancova?u=76281980&t=582)** ANCOVA is just the beginning, there are dozens of different variations and flavors.
 >
@@ -684,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), parallel (3), next (2), ai (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
 > **Env Vars:** ancova (12), psat (8), pdf (2), anova (1)
 > **Versions:** 6.233 (1), 6.2 (1)
 > **Prerequisites:** you'll need (2)
@@ -693,8 +685,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** imagine (1)
 
-#### Judea Pearl: Problems with control variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980)
+#### [Judea Pearl: Problems with control variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,23 +719,22 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980&t=109)** We have to overcome this reluctance to discuss causality even when the data gives us ample evidence to do so.
 >
-> **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980&t=118)** And what's also trying not to be overly concerned about the fact that in data science, we often find ourselves in a position where it is a poor fit to imitate controlled experiments like double blind studies or like the techniques that Fisher innovated at Rothamsted.
+> **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980&t=118)** And what's also trying not to be overly concerned about the fact that in [[Data Science]], we often find ourselves in a position where it is a poor fit to imitate controlled experiments like double blind studies or like the techniques that Fisher innovated at Rothamsted.
 >
 > **[2:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980&t=134)** Those techniques simply don't fit every situation so our professional development requires us to be familiar with how experiments work and how to use tricks, like statistical controls, but they are just some of the tools in the toolkit.
 >
-> **[2:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980&t=152)** In the second half of the course, we'll be exposed to some of the newer options in the study and practice of causal inference.
+> **[2:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-problems-with-control-variables?u=76281980&t=152)** In the second half of the course, we'll be exposed to some of the newer options in the study and practice of [[Causal Inference]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Causal Inference]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Causal Inference]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** incova (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moderation, mediation, and lurking variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/moderation-mediation-and-lurking-variables?u=76281980)
+#### [Moderation, mediation, and lurking variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/moderation-mediation-and-lurking-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/moderation-mediation-and-lurking-variables?u=76281980&t=28)** Well, it means to intervene between people or it can mean connected indirectly.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/moderation-mediation-and-lurking-variables?u=76281980&t=35)** Well, when we use the term in statistics, the key word is between.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/moderation-mediation-and-lurking-variables?u=76281980&t=35)** Well, when we use the term in [[Statistics]], the key [[Microsoft Word|word]] is between.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/moderation-mediation-and-lurking-variables?u=76281980&t=40)** It's the variable that is in between as in an A causes B causes C pattern.
 >
@@ -860,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (4), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** psat (1), ancova (1), sat (1)
 > **Analogies:** for instance (2), for example (1)
 > **Definitions:** is a  (2)
@@ -868,8 +858,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simpson's paradox
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980)
+#### [Simpson's paradox](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +902,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=128)** But what I want to do is I want to focus on some statistical elements that usually don't get discussed.
 >
-> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=135)** So let's scroll down here to the key table, and I'm going to zoom in a bit.
+> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=135)** So let's scroll down here to the key table, and I'm going to [[Zoom]] in a bit.
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=142)** So here's the figure that I want you to see.
 >
@@ -947,7 +936,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=214)** So we have, at this level, we have evidence of bias, but of course that's not the end of the story.
 >
-> **[3:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=220)** So they say right in the paper, "We could not find many biased decision-making units by examining them individually."
+> **[3:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=220)** So they say right in the paper, "We could not find many biased [[Decision-Making]] units by examining them individually."
 >
 > **[3:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=231)** What do they mean by this?
 >
@@ -983,7 +972,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=349)** Fisher has a method for pooling the results of a bunch of chi-squares.
 >
-> **[5:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=354)** So they say in the paper, "If we apply Fisher's method to the chi-square statistics of the 85 individual contingency tables, we obtain a value that has a probability of occurrence by chance alone."
+> **[5:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=354)** So they say in the paper, "If we apply Fisher's method to the chi-square [[Statistics]] of the 85 individual contingency tables, we obtain a value that has a [[Probability]] of occurrence by chance alone."
 >
 > **[6:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/simpson-s-paradox?u=76281980&t=368)** What they're saying is they're worried about a false positive.
 >
@@ -1031,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Probability]] (2), [[Zoom]] (1), [[Decision-Making]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Zoom]] (1), [[Decision-Making]] (1), [[Statistics]] (1)
 > **Warnings:** keep in mind (2), note that (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1040,12 +1029,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Moderation, mediation, or a third variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-moderation-mediation-or-a-third-variable?u=76281980)
+#### [Challenge: Moderation, mediation, or a third variable](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-moderation-mediation-or-a-third-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-moderation-mediation-or-a-third-variable?u=76281980&t=0)** - [Instructor] Okay, I'm in Excel with a new data set and it's time for another challenge.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-moderation-mediation-or-a-third-variable?u=76281980&t=0)** - [Instructor] Okay, I'm in [[Microsoft Excel|Excel]] with a new data set and it's time for another challenge.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-moderation-mediation-or-a-third-variable?u=76281980&t=11)** So we've switched to a different one now, it's called Bank Salaries Causality and I'm going to provide the data set for you.
 >
@@ -1087,14 +1075,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Moderation, mediation, or a third variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-moderation-mediation-or-a-third-variable?u=76281980)
+#### [Solution: Moderation, mediation, or a third variable](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-moderation-mediation-or-a-third-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,7 +1147,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1170,8 +1156,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Turing, Enigma, and CAPTCHA
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980)
+#### [Turing, Enigma, and CAPTCHA](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=37)** As an undergrad, I remember studying Turing machines, and I'd have to imitate their behavior on paper on homework assignments and on exams.
 >
-> **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=47)** The Turing test, which is referred to as the imitation game in the movie of the same name, is a way of evaluating the progress of artificial intelligence.
+> **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=47)** The Turing test, which is referred to as the imitation game in the movie of the same name, is a way of evaluating the progress of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=58)** Keep in mind, Turing came up with this concept long before we felt we had made any progress in AI.
 >
@@ -1205,7 +1190,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=129)** It turns out that Turing was a Bayesian and used Bayesian methods to help crack Enigma.
 >
-> **[2:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=137)** Bayesian statistics is a major theme of this course.
+> **[2:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=137)** Bayesian [[Statistics]] is a major theme of this course.
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=142)** There's something else that you may not connect with Turing that's very interesting indeed.
 >
@@ -1245,7 +1230,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=300)** You could also think of information gain as a measure of how much the uncertainty was going down.
 >
-> **[5:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=308)** Even if you haven't heard of Turing's ban, I bet you've heard a different word for a similar concept, a bit.
+> **[5:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=308)** Even if you haven't heard of Turing's ban, I bet you've heard a different [[Microsoft Word|word]] for a similar concept, a bit.
 >
 > **[5:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980&t=318)** Turing and Claude Shannon were contemporaries.
 >
@@ -1259,7 +1244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** captcha (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** in the next (1)
@@ -1267,8 +1252,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enigma and uncertainty
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980)
+#### [Enigma and uncertainty](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1300,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=140)** They were also trying to do the same thing, crack Enigma.
 >
-> **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=146)** Alan Hodge's amazing biography of Turing, The Enigma, explains all of this in detail, but a shorter easier explanation appears in the book, The Theory That Would Not Die, which is about the history of Bayesian statistics.
+> **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=146)** Alan Hodge's amazing biography of Turing, The Enigma, explains all of this in detail, but a shorter easier explanation appears in the book, The Theory That Would Not Die, which is about the history of Bayesian [[Statistics]].
 >
 > **[2:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=164)** The author writes, "One of Turing's first jobs was "to reduce the number of tests a bombe had to conduct."
 >
@@ -1326,7 +1310,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=186)** Turing used the fact that certain words almost always appeared in the messages.
 >
-> **[3:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=192)** For instance, the German word for one, eine, appeared in 90% of Enigma messages.
+> **[3:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=192)** For instance, the German [[Microsoft Word|word]] for one, eine, appeared in 90% of Enigma messages.
 >
 > **[3:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/enigma-and-uncertainty?u=76281980&t=201)** It would let him guess a stretch of letters, using Bayesian methods to assess their probabilities and add more clues as they arrived.
 >
@@ -1338,20 +1322,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (1), picture (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing an intuition for Bayes with Wordle
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980)
+#### [Developing an intuition for Bayes with Wordle](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=0)** - [Lecturer] There's a fun way to explore what Turing was up to when he was trying to crack Enigma.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=7)** And it also allows us to talk a bit about Bayes' and about concepts like conditional probability.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=7)** And it also allows us to talk a bit about Bayes' and about concepts like conditional [[Probability]].
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=14)** It's a game and it's called Wordle.
 >
@@ -1363,7 +1346,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=24)** Well, you have to guess five-letter words and you get six guesses to do it, but they have to be words in a list.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=33)** So for instance, you can't do a nonsense word.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=33)** So for instance, you can't do a nonsense [[Microsoft Word|word]].
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/developing-an-intuition-for-bayes-with-wordle?u=76281980&t=36)** You couldn't do X-Y-Z-V-B, just some letters at random.
 >
@@ -1515,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), game (7), next (2), [[Probability]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Probability]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1), coming up (1)
@@ -1523,18 +1506,17 @@ created: 2026-05-02
 > **Env Vars:** aeiou (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Wordle and conditional probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980)
+#### [Wordle and conditional probability](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=0)** - [Instructor] I've put together a little spreadsheet with 500 five letter words, just as a simple way to practice some math regarding conditional probability in Bayes' rule and Wordle.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=0)** - [Instructor] I've put together a little spreadsheet with 500 five letter words, just as a simple way to practice some math regarding conditional [[Probability]] in Bayes' rule and Wordle.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=14)** So let me orient you to this.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=17)** Across the top, there are some simple calculations that I've made like whether or not it has an A and it turns out there's 228 words out of 500 that have an A, whether it has an I, whether it has an E or whether it has a U.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=31)** You may recognize that these are the vowels in the word, adieu, which I've been using as a first guess.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=31)** You may recognize that these are the vowels in the [[Microsoft Word|word]], adieu, which I've been using as a first guess.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-conditional-probability?u=76281980&t=40)** But then it gets a little bit more interesting in that this A I E U calculation is whether or not it has any of the letters or rather, how many of those letters it has, whether or not there's an O and whether or not there's more than one O.
 >
@@ -1620,14 +1602,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (17), [[Microsoft Word|Word]] (2), game (2)
+> **Frameworks & Libraries:** [[Probability]] (17), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2)
 > **Versions:** 2.2 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wordle, bans, and bits
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-bans-and-bits?u=76281980)
+#### [Wordle, bans, and bits](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-bans-and-bits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,7 +1638,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-bans-and-bits?u=76281980&t=67)** Okay, so here we are in our Wordle spreadsheet, and we're going to discuss how the concept of bans and bits can be helpful to us.
 >
-> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-bans-and-bits?u=76281980&t=76)** So column B is whether or not the word has an A.
+> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-bans-and-bits?u=76281980&t=76)** So column B is whether or not the [[Microsoft Word|word]] has an A.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-bans-and-bits?u=76281980&t=82)** So if I go down to the bottom, I've got a sum there, and there's 228 words out of 500 that have an A.
 >
@@ -1729,22 +1710,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Versions:** 3.22 (2)
 > **Cross-References:** we mentioned (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wordle and Bayes' theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980)
+#### [Wordle and Bayes' theorem](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=0)** - [Instructor] We've already seen how to calculate a conditional probability using the data in our Wordle spreadsheet, specifically, we calculated the probability of having two Os given that we don't have an A, I, E or U.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=0)** - [Instructor] We've already seen how to calculate a conditional [[Probability]] using the data in our Wordle spreadsheet, specifically, we calculated the probability of having two Os given that we don't have an A, I, E or U.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=18)** But what if we had to calculate the other way?
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=21)** The probability of no A, I, E, or U given two Os in our word.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=21)** The probability of no A, I, E, or U given two Os in our [[Microsoft Word|word]].
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=30)** A natural first reaction would be to simply go back to the spreadsheet.
 >
@@ -1780,7 +1760,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=139)** Constantly ingesting new information and updating all of the probabilities.
 >
-> **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=146)** I especially like a phrase from John Kruschke's book, "Doing Bayesian Data Analysis."
+> **[2:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=146)** I especially like a phrase from [[John the Ripper|John]] Kruschke's book, "Doing Bayesian Data Analysis."
 >
 > **[2:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/wordle-and-bayes-theorem?u=76281980&t=153)** "Bayesian inference is the reallocation of credibility across possibilities."
 >
@@ -1820,14 +1800,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (13), data (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Probability]] (13), [[Microsoft Word|Word]] (2), [[John the Ripper|John]] (1)
 > **Versions:** 0.022 (1), 0.082 (1), 0.171 (1), 63.7 (1)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Conditional probability and Bayes' theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-conditional-probability-and-bayes-theorem?u=76281980)
+#### [Challenge: Conditional probability and Bayes' theorem](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-conditional-probability-and-bayes-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1820,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-conditional-probability-and-bayes-theorem?u=76281980&t=19)** It has eye color and hair color, and I believe when this was originally collected, it was a bunch of college students that were probably in a psychology class.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-conditional-probability-and-bayes-theorem?u=76281980&t=31)** But what we're going to do is we're going to use this for practice doing these basic probability calculations.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-conditional-probability-and-bayes-theorem?u=76281980&t=31)** But what we're going to do is we're going to use this for practice doing these basic [[Probability]] calculations.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-conditional-probability-and-bayes-theorem?u=76281980&t=40)** So your mission is to do three calculations.
 >
@@ -1869,19 +1848,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), next (1)
+> **Frameworks & Libraries:** [[Probability]] (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Conditional probability and Bayes' theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-conditional-probability-and-bayes-theorem?u=76281980)
+#### [Solution: Conditional probability and Bayes' theorem](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-conditional-probability-and-bayes-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-conditional-probability-and-bayes-theorem?u=76281980&t=0)** - [Instructor] Okay, let's do our solution.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-conditional-probability-and-bayes-theorem?u=76281980&t=7)** So first, what's the probability of brown eyes?
+> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-conditional-probability-and-bayes-theorem?u=76281980&t=7)** So first, what's the [[Probability]] of brown eyes?
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-conditional-probability-and-bayes-theorem?u=76281980&t=10)** This is going to be pretty simple.
 >
@@ -1939,7 +1917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), data (1)
+> **Frameworks & Libraries:** [[Probability]] (14)
 > **Versions:** 0.372 (2), 0.12 (2), 0.118 (2), 36.6 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
@@ -1950,14 +1928,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Contrasting frequentist statistics and Bayesian statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980)
+#### [Contrasting frequentist statistics and Bayesian statistics](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980&t=0)** - [Instructor] A full discussion of Bayesian statistics would require a whole course, but we will discuss it briefly in this section to place two topics into a fuller context.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980&t=0)** - [Instructor] A full discussion of Bayesian [[Statistics]] would require a whole course, but we will discuss it briefly in this section to place two topics into a fuller context.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980&t=10)** First, we want to build upon our discussion of conditional probability and Bayes' rule.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980&t=10)** First, we want to build upon our discussion of conditional [[Probability]] and Bayes' rule.
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980&t=16)** Second, we want to prepare for an eventual brief discussion of Bayesian networks, that will be in the next section.
 >
@@ -2023,7 +2000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (7), [[Probability]] (2), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (7), [[Probability]] (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2031,8 +2008,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bayesian T-Test with JASP
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-t-test-with-jasp?u=76281980)
+#### [Bayesian T-Test with JASP](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-t-test-with-jasp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2124,7 +2100,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-t-test-with-jasp?u=76281980&t=212)** He is the guy who developed this, so a little bit of stats history there.
 >
-> **[3:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-t-test-with-jasp?u=76281980&t=216)** And then down under alternative hypotheses, remember that when we're doing traditional or frequentist statistics, our null hypothesis is almost always that group one equals group two.
+> **[3:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-t-test-with-jasp?u=76281980&t=216)** And then down under alternative hypotheses, remember that when we're doing traditional or frequentist [[Statistics]], our null hypothesis is almost always that group one equals group two.
 >
 > **[3:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-t-test-with-jasp?u=76281980&t=229)** So here, our alternate hypothesis is group one does not equal group two.
 >
@@ -2294,7 +2270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Statistics]] (3), cloud (2), game (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Versions:** 2.2 (4), 0.05 (1), 0.2 (1), 0.5 (1), 0.8 (1)
 > **Env Vars:** jasp (3), drp (2), aka (1)
 > **UI Navigation:** click on (2), scroll up (2), scroll down (2)
@@ -2303,8 +2279,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Optimize
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980)
+#### [Google Optimize](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,7 +2287,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=6)** It will reinforce why a Bayesian approach can fit certain situations very well.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=12)** Now, A/B testing is most often associated with traditional statistics, specifically a t-test, but the team at Google Optimize chose a Bayesian approach for their A/B testing, and they discuss it on their resources hub.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=12)** Now, A/B testing is most often associated with traditional [[Statistics]], specifically a t-test, but the team at [[Google]] Optimize chose a Bayesian approach for their A/B testing, and they discuss it on their resources hub.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=30)** There are three reasons that the folks at Google Optimize mention that a Bayes approach was a good one for their platform.
 >
@@ -2356,7 +2331,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=163)** They're saying that you can actually have a pretty good guess based on a small amount of data if all of the data is telling you the same story, which I think is really powerful.
 >
-> **[2:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=175)** And then, finally, "Don't significance and p-values tell me the probability "that my variant would beat my control?"
+> **[2:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=175)** And then, finally, "Don't significance and p-values tell me the [[Probability]] "that my variant would beat my control?"
 >
 > **[3:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/google-optimize?u=76281980&t=182)** Now, of course, we've talked about p-values at some length in the sibling course to this one.
 >
@@ -2368,19 +2343,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), data (3), [[Statistics]] (1), traffic (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Statistics]] (1), [[Probability]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bayes and rare events
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980)
+#### [Bayes and rare events](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=0)** - [Instructor] There was a Cold War policy in the late '60s that would surprise most of us today.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=8)** And it led to an amazing story of the successful use of Bayesian statistics.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=8)** And it led to an amazing story of the successful use of Bayesian [[Statistics]].
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=15)** Operation Chrome Dome was a program that kept B-52s armed with nuclear weapons in continuous flight in case of attack.
 >
@@ -2396,7 +2370,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=64)** The chapter about it in "The Theory That Would Not Die" reads like a suspense novel.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=70)** Now, it's a complicated story but it's interesting to reflect on some of the hypotheses that John Craven, the scientist that the Navy sent came up with.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=70)** Now, it's a complicated story but it's interesting to reflect on some of the hypotheses that [[John the Ripper|John]] Craven, the scientist that the Navy sent came up with.
 >
 > **[1:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayes-and-rare-events?u=76281980&t=81)** Now, these were based on subject matter experts that he spoke to and also some guesswork on his part prior to the search.
 >
@@ -2440,12 +2414,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[John the Ripper|John]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: JASP
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-jasp?u=76281980)
+#### [Challenge: JASP](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-jasp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2455,7 +2428,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-jasp?u=76281980&t=14)** So I'm going to go to the main menu here and down to Open and Recent Files, and I just want to indicate that we're going to use the PSAT_causality dataset, which we've seen a number of times.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-jasp?u=76281980&t=27)** I'm going to provide you with the CSV version of that file but it's just like the Excel file, it's just a different format to facilitate JASP.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-jasp?u=76281980&t=27)** I'm going to provide you with the CSV version of that file but it's just like the [[Microsoft Excel|Excel]] file, it's just a different format to facilitate JASP.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/challenge-jasp?u=76281980&t=40)** As a reminder, your copy is not going to be on my desktop.
 >
@@ -2487,7 +2460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** jasp (2), csv (1), psat (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (1)
@@ -2496,8 +2469,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: JASP
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-jasp?u=76281980)
+#### [Solution: JASP](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/solution-jasp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2583,7 +2555,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Versions:** 90.5 (2), 79.69 (1), 79.7 (1)
 > **Env Vars:** psat (2)
 > **Analogies:** picture (1)
@@ -2595,8 +2566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sewell Wright
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sewell-wright?u=76281980)
+#### [Sewell Wright](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sewell-wright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,7 +2652,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** scroll down (1)
@@ -2691,8 +2660,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introducing path analysis and SEM
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-path-analysis-and-sem?u=76281980)
+#### [Introducing path analysis and SEM](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-path-analysis-and-sem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2764,13 +2732,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4)
 > **Env Vars:** sem (4), vip (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SEM example: Intention
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sem-example-intention?u=76281980)
+#### [SEM example: Intention](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sem-example-intention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2842,14 +2808,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** scm (5), pbc (3), rmsea (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Myths about SEM
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/myths-about-sem?u=76281980)
+#### [Myths about SEM](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/myths-about-sem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2939,15 +2903,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1), next (1)
 > **Env Vars:** sem (14), rmsea (1), bic (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
 > **Analogies:** think of it as (1)
 > **Speakers:** - kenneth (1)
 
-#### Latent variables in SEM
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/latent-variables-in-sem?u=76281980)
+#### [Latent variables in SEM](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/latent-variables-in-sem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2993,7 +2955,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/latent-variables-in-sem?u=76281980&t=110)** The circles are error terms.
 >
-> **[1:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/latent-variables-in-sem?u=76281980&t=113)** You might be familiar with the notion of error terms if you know your linear regression but we won't be discussing that detail in this course either.
+> **[1:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/latent-variables-in-sem?u=76281980&t=113)** You might be familiar with the notion of error terms if you know your [[Linear Regression]] but we won't be discussing that detail in this course either.
 >
 > **[2:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/latent-variables-in-sem?u=76281980&t=121)** Finally, there are some stats and a number in a larger font as the captions basically.
 >
@@ -3017,7 +2979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Env Vars:** sem (3), rmsea (2), vip (1), pdf (1), ancova (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we talked about (1)
@@ -3025,8 +2987,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding direction of causality with SEM (PSAT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/finding-direction-of-causality-with-sem-psat?u=76281980)
+#### [Finding direction of causality with SEM (PSAT)](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/finding-direction-of-causality-with-sem-psat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3086,7 +3047,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), application (1)
 > **Env Vars:** scm (5), psat (4), pdf (2), mpsat (1)
 > **Versions:** 0.05 (1), 0.67 (1), 0.13 (1)
 > **CLI Commands:** make (1)
@@ -3098,8 +3058,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Judea Pearl and the causal revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980)
+#### [Judea Pearl and the causal revolution](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3109,7 +3068,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=12)** We've talked about the challenges of causality.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=15)** We've talked about statistics and experiments.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=15)** We've talked about [[Statistics]] and experiments.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=19)** We've introduced Bayesian statistics and we've even talked about SEM.
 >
@@ -3135,7 +3094,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=100)** We've been preparing for this section of the course all along.
 >
-> **[1:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=106)** Some of the things that we've already seen are conditional probability during our discussion of Bayes, causal diagrams, we've seen a number of them now, mediation, and I bet you'll recall our discussion of Simpson's paradox.
+> **[1:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=106)** Some of the things that we've already seen are conditional [[Probability]] during our discussion of Bayes, causal diagrams, we've seen a number of them now, mediation, and I bet you'll recall our discussion of Simpson's paradox.
 >
 > **[2:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980&t=124)** And there's a topic that has been a theme throughout this course and the companion course.
 >
@@ -3185,7 +3144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sem (1)
 > **Tools:** notion (1)
@@ -3193,8 +3152,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - judea (1)
 
-#### Downloading BayesiaLab and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/downloading-bayesialab-and-resources?u=76281980)
+#### [Downloading BayesiaLab and resources](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/downloading-bayesialab-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3246,15 +3204,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** ebook (2)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing BayesiaLab: Hair and eye color
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-bayesialab-hair-and-eye-color?u=76281980)
+#### [Introducing BayesiaLab: Hair and eye color](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-bayesialab-hair-and-eye-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3288,7 +3244,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-bayesialab-hair-and-eye-color?u=76281980&t=71)** So, here we go.
 >
-> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-bayesialab-hair-and-eye-color?u=76281980&t=72)** I'm going to double click on eye, and we can see the probability distribution for blue, brown, green, and hazel.
+> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-bayesialab-hair-and-eye-color?u=76281980&t=72)** I'm going to double click on eye, and we can see the [[Probability]] distribution for blue, brown, green, and hazel.
 >
 > **[1:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introducing-bayesialab-hair-and-eye-color?u=76281980&t=80)** Notice it's just four values, it's not a matrix at all.
 >
@@ -3358,7 +3314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Analogies:** similar to (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -3367,8 +3323,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to causal modeling with Bayesian networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introduction-to-causal-modeling-with-bayesian-networks?u=76281980)
+#### [Introduction to causal modeling with Bayesian networks](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/introduction-to-causal-modeling-with-bayesian-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3498,7 +3453,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1), node (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (2)
 > **CLI Commands:** find (2), make (1), node (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -3506,8 +3460,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bayesian Networks: Black Swan case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-networks-black-swan-case-study?u=76281980)
+#### [Bayesian Networks: Black Swan case study](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/bayesian-networks-black-swan-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3567,7 +3520,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), traffic (2), node (1), management (1)
 > **CLI Commands:** make (2), node (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -3579,8 +3531,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking causality further
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980)
+#### [Taking causality further](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3628,7 +3579,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=102)** Although, there's not a lot of heavy math in it.
 >
-> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=105)** It's written for a general audience, but it's pretty intense when it gets to statistics and hypothesis testing and so on.
+> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=105)** It's written for a general audience, but it's pretty intense when it gets to [[Statistics]] and hypothesis testing and so on.
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=112)** So, if that side of the story, the statistics and hypothesis testing and comparing traditional statistics to Bayesian is your cup of tea, you might really enjoy this book.
 >
@@ -3642,13 +3593,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=144)** I hope you'll use the Q and A feature in the course.
 >
-> **[2:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=147)** I hope you'll follow me on LinkedIn.
+> **[2:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=147)** I hope you'll follow me on [[LinkedIn]].
 >
 > **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980&t=149)** And I hope you'll let me know how your quest to learn about and practice causal modeling is going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (1), next (1), feature (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[LinkedIn]] (1)
 > **Env Vars:** jasp (1), ancova (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** download the (1)

@@ -111,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install and configure Windows Server 2022 DHCP and DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980)
+#### [Install and configure Windows Server 2022 DHCP and DNS](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=0)** - [Robert] If you're looking to upgrade to Windows Server 2022 and you have an Active Directory domain in forest, you'll need to know all about Dynamic Host Configuration Protocol and Domain Name Services.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=0)** - [Robert] If you're looking to upgrade to [[Windows Server]] 2022 and you have an [[Active Directory]] domain in forest, you'll need to know all about Dynamic Host Configuration Protocol and Domain Name Services.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=12)** DHCP is essential for managing a modern network.
 >
@@ -126,17 +125,17 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=32)** You'll learn all about installing, configuring, and troubleshooting both Active Directory DNS and standard DNS zones.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=39)** I then give you demonstrations in how to manage both DNS and DHCP using management consoles, PowerShell, IPAM, and Windows Admin Center.
+> **[0:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=39)** I then give you demonstrations in how to manage both DNS and DHCP using management consoles, [[Powershell]], IPAM, and [[Windows]] Admin Center.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=49)** My name is Robert McMillen.
 >
-> **[0:51](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=51)** I'm a Microsoft-certified trainer and Solutions expert.
+> **[0:51](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=51)** I'm a [[Microsoft]]-certified trainer and Solutions expert.
 >
 > **[0:54](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980&t=54)** I invite you to join me to learn all these skills and more in my Microsoft Windows Server 2022 course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), [[Windows Server]] (3), [[Active Directory]] (2), [[Microsoft]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Active Directory]] (2), [[Microsoft]] (2), [[Powershell]] (1), [[Windows]] (1)
 > **Env Vars:** dns (5), dhcp (4), ipam (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Tools:** powershell (1)
@@ -148,8 +147,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DHCP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980)
+#### [What is DHCP?](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,11 +157,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=35)** BOOTP, as it's also known, was the original way computers received IP info, and DHCP is its successor.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=45)** All Windows servers include DHCP.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=45)** All [[Windows]] servers include DHCP.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=48)** This is an optional network server role that you can add to your network to lease IP addresses and other information to DHCP clients.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=57)** All Windows-based client operating systems include the DHCP client as part of IP addressing.
+> **[0:57](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=57)** All Windows-based client operating systems include the DHCP client as part of [[IP Addressing]].
 >
 > **[1:04](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=64)** And the DHCP client is enabled by default.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=79)** Without DHCP, IP addresses for new computers or computers that are moved from one subnet to another must be configured manually with what's also known as a static IP address.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=93)** There are many options that we can add into a Windows DHCP server, such as routing, relaying to other DHCP servers, special options for other devices like IP phones, and dozens more.
+> **[1:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=93)** There are many options that we can add into a Windows DHCP server, such as [[Routing]], relaying to other DHCP servers, special options for other devices like IP phones, and dozens more.
 >
 > **[1:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=108)** You can even create your own special options for certain vendors as needed.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=126)** You can have two separate non-overlapping scopes that can share the load and add redundancy.
 >
-> **[2:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=132)** And you can use a failover cluster with many nodes all running synced DHCP databases that can be ready to take over DHCP duties when needed.
+> **[2:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=132)** And you can use a failover cluster with many nodes all running synced DHCP [[Databases]] that can be ready to take over DHCP duties when needed.
 >
 > **[2:23](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980&t=143)** Let's take a look at how DHCP works between a client and a server.
 >
@@ -215,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Engineering]] (1), [[IP Addressing]] (1), [[Routing]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[IP Addressing]] (1), [[Routing]] (1), [[Databases]] (1)
 > **Env Vars:** dhcp (31), rfc (1), bootp (1)
 > **Definitions:** known as (2), is a  (1), is an  (1)
 > **Analogies:** such as (2)
@@ -224,12 +222,11 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP on various devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-on-various-devices?u=76281980)
+#### [DHCP on various devices](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-on-various-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-on-various-devices?u=76281980&t=0)** - [Speaker] Windows DHCP services are included with every Windows server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-on-various-devices?u=76281980&t=0)** - [Speaker] [[Windows]] DHCP services are included with every [[Windows Server]].
 >
 > **[0:04](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-on-various-devices?u=76281980&t=4)** And at no additional charge, you can also have redundancy and a wide array of DHCP options, exclusions, and reservations.
 >
@@ -257,18 +254,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Windows Server]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Windows Server]] (1)
 > **Env Vars:** dhcp (18)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### The importance of DHCP in the enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980)
+#### [The importance of DHCP in the enterprise](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=0)** - [Instructor] Enterprise DHCP is for any organization that extensively uses DHCP and many of the DHCP options that you can find on a Windows or other type of server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=0)** - [Instructor] Enterprise DHCP is for any organization that extensively uses DHCP and many of the DHCP options that you can find on a [[Windows]] or other type of server.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=11)** Since Windows Servers have more options than options for redundancy available, I'll choose this type of server for this discussion.
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=99)** Not all options will be popular or even in use still today as the list hasn't been updated in a long time.
 >
-> **[1:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=107)** If you want to migrate DHCP databases to another server because of server retirement, you can do this quickly and easily with a backup and restore to a file on the new server.
+> **[1:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=107)** If you want to migrate DHCP [[Databases]] to another server because of server retirement, you can do this quickly and easily with a backup and restore to a file on the new server.
 >
 > **[1:59](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=119)** In older versions, you had to copy the items and recreate reservations.
 >
@@ -306,9 +302,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=127)** I've used DHCP relay in many enterprise setups.
 >
-> **[2:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=131)** This usually occurs when the IT administrator would like to keep just a single Windows DHCP solution, but has many subnets, VLANs, and possibly remote offices connected by VPN, MPLS, or SD-WAN connections.
+> **[2:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=131)** This usually occurs when the IT administrator would like to keep just a single Windows DHCP solution, but has many subnets, VLANs, and possibly remote offices connected by VPN, [[Multiprotocol Label Switching (MPLS)|MPLS]], or SD-WAN connections.
 >
-> **[2:27](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=147)** You set up routing and remote access using the DHCP relay agent on a remote Windows Server at each location, or you could set up a DHCP helper on each router or firewall that points back to the Windows Server and a DHCP scope for each location.
+> **[2:27](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=147)** You set up [[Routing]] and remote access using the DHCP relay agent on a remote [[Windows Server]] at each location, or you could set up a DHCP helper on each router or firewall that points back to the Windows Server and a DHCP scope for each location.
 >
 > **[2:44](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/the-importance-of-dhcp-in-the-enterprise?u=76281980&t=164)** A DHCP helper is a command that you would type on many different types of routers and switches such as those on Cisco.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (2), dns (1), [[Databases]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (2), [[Databases]] (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[Routing]] (1)
 > **Env Vars:** dhcp (17), dns (1), mac (1), vpn (1), mpls (1)
 > **Prerequisites:** set up (4), you need to have (1), you'll need (1)
 > **CLI Commands:** find (2)
@@ -331,12 +327,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing the DHCP server role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980)
+#### [Installing the DHCP server role](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=0)** - [Instructor] The DHCP server role is not added by default in Windows Server 2022 so I'm going to go ahead and add it in my Server Manager by clicking on the Add roles and features option.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=0)** - [Instructor] The DHCP server role is not added by default in [[Windows Server]] 2022 so I'm going to go ahead and add it in my Server Manager by clicking on the Add roles and features option.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=12)** The wizard shows up and now I'll click Next. Next again.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=37)** After installation is done, I'll go in and configure DHCP by adding in the scope, adding in reservations and other scope options that we can add in to a DHCP server.
 >
-> **[0:51](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=51)** But before I do that, I'm going to show how to install DHCP as a server role inside PowerShell.
+> **[0:51](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=51)** But before I do that, I'm going to show how to install DHCP as a server role inside [[Powershell]].
 >
 > **[0:59](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=59)** The server role has completely installed.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=154)** If I don't include the management tools then I won't be able to see the DHCP console.
 >
-> **[2:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=159)** The role will be installed but I'll have to manage it from another device such as another server or Windows Admin Center.
+> **[2:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=159)** The role will be installed but I'll have to manage it from another device such as another server or [[Windows]] Admin Center.
 >
 > **[2:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=167)** Even though this is a server role, there is no commandlet in PowerShell to install a server role.
 >
@@ -410,11 +405,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=197)** And now I see DHCP installed on my second server.
 >
-> **[3:21](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=201)** The DHCP server role is the first step to adding automatic IP addressing in Windows Server 2022.
+> **[3:21](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980&t=201)** The DHCP server role is the first step to adding automatic [[IP Addressing]] in Windows Server 2022.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Powershell]] (4), management (3), feature (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows Server]] (2), [[Windows]] (2), [[IP Addressing]] (1)
 > **Env Vars:** dhcp (17)
 > **Prerequisites:** install (5), configure (3)
 > **Tools:** powershell (4)
@@ -423,8 +418,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### DHCP authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980)
+#### [DHCP authorization](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=22)** Whereas if you installed it onto member servers, then you will have to right click and choose to authorize.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=29)** Another way to check to make sure that you have authorized servers is you can open up PowerShell.
+> **[0:29](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=29)** Another way to check to make sure that you have authorized servers is you can open up [[Powershell]].
 >
 > **[0:36](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=36)** You can type in get-dhcpserverindc.
 >
@@ -456,21 +450,20 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=80)** And now my authorization should allow me to set up DHCP on both servers once again.
 >
-> **[1:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=88)** There is no DHCP without authorization in a Windows server.
+> **[1:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=88)** There is no DHCP without authorization in a [[Windows Server]].
 >
 > **[1:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-authorization?u=76281980&t=93)** This keeps rogue DHCP servers from handing out IP addresses which could be a potential security issue.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (1), [[Windows Server]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Windows Server]] (1)
 > **Env Vars:** dhcp (6)
 > **CLI Commands:** make (1)
 > **Tools:** powershell (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating scopes
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980)
+#### [Creating scopes](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=103)** I can set up a least duration.
 >
-> **[1:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=105)** I prefer to do one day instead of eight, and that's just because you could run out of IP addresses if people hang onto their IP addresses for too long, and they don't come back into the office.
+> **[1:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=105)** I prefer to do one day instead of eight, and that's just because you could run out of IP addresses if people hang onto their IP addresses for too long, and they don't come back into the [[Microsoft Office|office]].
 >
 > **[1:55](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=115)** I'm going to click Next.
 >
@@ -528,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=152)** You may decide you don't want to activate a scope yet until you get a chance to deactivate another scope, so you don't have overlapping IP addresses.
 >
-> **[2:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=159)** Now I'm going to go into PowerShell, and I'm going to type a PowerShell commandlet that will allow me to do the same thing, but instead of doing it through the graphical user interface, I'm going to do it through PowerShell.
+> **[2:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=159)** Now I'm going to go into [[Powershell]], and I'm going to type a PowerShell commandlet that will allow me to do the same thing, but instead of doing it through the graphical user interface, I'm going to do it through PowerShell.
 >
 > **[2:52](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/creating-scopes?u=76281980&t=172)** At this time, I'm going to add another scope called Scope 2, and you can see this scope starts at 220 and ends at .230.
 >
@@ -548,7 +541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), next (3), power (1), [[Microsoft Office|Office]] (1), hit (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** right-click (2), click on (2), double-click (1)
 > **Tools:** powershell (4)
 > **Env Vars:** dhcp (3)
@@ -557,8 +550,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Versions:** 21.200 (1), 255.0 (1)
 
-#### Configuring DHCP options
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/configuring-dhcp-options?u=76281980)
+#### [Configuring DHCP options](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/configuring-dhcp-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +594,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/configuring-dhcp-options?u=76281980&t=83)** I'm going to scroll down a little bit until I get to number 15, which is the DNS domain name.
 >
-> **[1:30](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/configuring-dhcp-options?u=76281980&t=90)** So, I'm going to put that in as my domain name for active directory.
+> **[1:30](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/configuring-dhcp-options?u=76281980&t=90)** So, I'm going to put that in as my domain name for [[Active Directory]].
 >
 > **[1:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/configuring-dhcp-options?u=76281980&t=97)** And after applying that, you can see that appear.
 >
@@ -616,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **Env Vars:** dns (4), dhcp (3)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 192.168.21 (1), 6821.195 (1)
@@ -625,8 +617,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Scope activation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-activation?u=76281980)
+#### [Scope activation](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-activation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,8 +643,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Client configuration for DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-configuration-for-dhcp?u=76281980)
+#### [Client configuration for DHCP](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-configuration-for-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +681,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Search]] (1), next (1)
 > **Env Vars:** dhcp (8)
 > **UI Navigation:** go to (2), click on (2), open the (1)
 > **CLI Commands:** make (2)
@@ -699,14 +688,14 @@ created: 2026-05-02
 > **Versions:** 192.168.21 (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 3. Managing DHCP
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up reservations
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980)
+#### [Setting up reservations](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=9)** And the reason that's useful is because sometimes you need to have devices, like printers need to always have the same IP address, so they're always reachable at the same place.
 >
-> **[0:18](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=18)** And if you set up a static IP in a printer instead, and you have say a lot of printers in your office, and they all need to have the IP addresses changed, that would require a lot of effort.
+> **[0:18](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=18)** And if you set up a static IP in a printer instead, and you have say a lot of printers in your [[Microsoft Office|office]], and they all need to have the IP addresses changed, that would require a lot of effort.
 >
 > **[0:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=28)** However, with the reservation, you can change that fairly easily right from the DHCP management console.
 >
@@ -750,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=105)** And we know that's within our address pool of dot 220 through dot 235.
 >
-> **[1:52](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=112)** Now let's take a look at the same way of doing this, but through PowerShell.
+> **[1:52](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=112)** Now let's take a look at the same way of doing this, but through [[Powershell]].
 >
 > **[1:56](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980&t=116)** So I'm going to right-click and choose PowerShell, open that up.
 >
@@ -788,7 +777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), hit (2), [[Microsoft Office|Office]] (1), management (1), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** dhcp (4), mac (3), dns (1)
 > **Tools:** powershell (2), command prompt (1)
 > **UI Navigation:** right-click (2), double-click (1)
@@ -796,8 +785,7 @@ created: 2026-05-02
 > **Code Identifiers:** bootp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up exclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-exclusions?u=76281980)
+#### [Setting up exclusions](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-exclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,8 +831,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import and export databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/import-and-export-databases?u=76281980)
+#### [Import and export databases](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/import-and-export-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,14 +869,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), management (1)
 > **Env Vars:** dhcp (7), dc2 (3), dc01 (2)
 > **UI Navigation:** right-click (2), click on (1), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scope reconciliation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-reconciliation?u=76281980)
+#### [Scope reconciliation](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-reconciliation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,21 +894,20 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-reconciliation?u=76281980&t=41)** If you were to get a message that said the database was not consistent, you would have the opportunity to fix that.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-reconciliation?u=76281980&t=47)** And then that would make it so all the databases matched up properly to the computers to which they're assigned.
+> **[0:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-reconciliation?u=76281980&t=47)** And then that would make it so all the [[Databases]] matched up properly to the computers to which they're assigned.
 >
 > **[0:53](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/scope-reconciliation?u=76281980&t=53)** Reconciling a scope is a quick process to make sure your database is consistent.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** dhcp (4)
 > **UI Navigation:** go to (1), right-click (1), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980)
+#### [DHCP troubleshooting](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=115)** Sometimes I see dozens of them and you can just go to those addresses, select them, right click, and then just choose delete, and that will clear them out of there and release those IP addresses back.
 >
-> **[2:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=126)** Bad addresses can happen sometimes when devices that are not Windows devices, such as Android, Macintosh, iOS devices, things like that.
+> **[2:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=126)** Bad addresses can happen sometimes when devices that are not [[Windows]] devices, such as [[Android]], Macintosh, iOS devices, things like that.
 >
 > **[2:15](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=135)** Sometimes they don't register properly and they show up as bad devices and they just get stuck there.
 >
@@ -981,7 +965,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=178)** And if this is set properly and you still can't get out, check to make sure that the firewall and the gateway router are functioning properly.
 >
-> **[3:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=186)** You want to make sure that your firewall is also listening on the proper ports, so I'm going to go to control panel, and I'm going to go to the Windows defender firewall.
+> **[3:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=186)** You want to make sure that your firewall is also listening on the proper ports, so I'm going to go to control panel, and I'm going to go to the Windows [[Microsoft Defender|defender]] firewall.
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=197)** You could also just go to the search box and type in firewall as well.
 >
@@ -997,13 +981,13 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=239)** So, this one is listening properly.
 >
-> **[4:02](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=242)** If your users are getting IP addresses outside their normal scope, such as a 172 address, when you're using a 192 address, then the likely issue is that you have a rogue DHCP server in your network, and that it may be running Linux or some other operating system.
+> **[4:02](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=242)** If your users are getting IP addresses outside their normal scope, such as a 172 address, when you're using a 192 address, then the likely issue is that you have a rogue DHCP server in your network, and that it may be running [[Linux]] or some other operating system.
 >
 > **[4:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-troubleshooting?u=76281980&t=257)** There are many different reasons for DHCP to not work as expected, but if you go through this list of potential issues, you'll likely find the reason for the outage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), next (1), [[Android]] (1), dns (1), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Android]] (1), [[Microsoft Defender|Defender]] (1), [[Linux]] (1)
 > **UI Navigation:** go to (12), click on (2)
 > **CLI Commands:** make (8), find (1)
 > **Env Vars:** dhcp (6), udp (2), dns (1)
@@ -1012,8 +996,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980)
+#### [DHCP filters](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=33)** So I'm going to go to, say, command prompt.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=35)** You could also go to PowerShell.
+> **[0:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=35)** You could also go to [[Powershell]].
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=37)** And I'm going to get a list of various different MAC addresses in my network.
 >
@@ -1079,11 +1062,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=160)** Or you can right click and you can delete those filters.
 >
-> **[2:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=165)** MAC address filters in a computer network can keep unknown or unwanted devices from being added into DHCP, which can increase your network security.
+> **[2:45](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-filters?u=76281980&t=165)** MAC address filters in a computer network can keep unknown or unwanted devices from being added into DHCP, which can increase your [[Network Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Powershell]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Network Security]] (1)
 > **Env Vars:** dhcp (8), mac (7)
 > **UI Navigation:** go to (4), click on (1)
 > **Definitions:** means that (2), known as (1), is called (1), is an  (1)
@@ -1097,8 +1080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DHCP failover and high availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980)
+#### [DHCP failover and high availability](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1096,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980&t=39)** If one server fails, then the other server continues to serve IP addresses but does so in a scope that doesn't overlap the first.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980&t=47)** Windows is unique from many other DHCP servers in that it offers multiple ways to create high availability and redundancy in a DHCP configuration.
+> **[0:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980&t=47)** [[Windows]] is unique from many other DHCP servers in that it offers multiple ways to create high availability and redundancy in a DHCP configuration.
 
 > [!info]- Semantic Content
 >
@@ -1123,8 +1105,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP failover setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-setup?u=76281980)
+#### [DHCP failover setup](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1194,7 +1175,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **Env Vars:** dc2 (4), dhcp (3), dc01 (1), dc1 (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is called (1), means that (1), is a  (1)
@@ -1202,19 +1182,19 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
+> **Speakers:** - [instructor] (1)
 
-#### DHCP relay using switches and routers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980)
+#### [DHCP relay using switches and routers](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=0)** - [Instructor] DHCP Relay on a Windows server allows the Windows DHCP server to connect to client computers in other VLANs and subnets and give them IP addresses when requested.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=0)** - [Instructor] DHCP Relay on a [[Windows Server]] allows the [[Windows]] DHCP server to connect to client computers in other VLANs and subnets and give them IP addresses when requested.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=11)** So first we start out with the Windows DHCP server and we have the layer 3 switch in routing mode or an actual router.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=11)** So first we start out with the Windows DHCP server and we have the layer 3 switch in [[Routing]] mode or an actual router.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=20)** And we add in the DHCP helper command to forward any request to that Windows DHCP server.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=26)** After that we have the clients, so when the DHCP clients start up they're going to want an IP address so they can communicate with the local area network as well as the internet and other subnets.
+> **[0:26](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=26)** After that we have the clients, so when the DHCP clients start up they're going to want an IP address so they can communicate with the [[Local Area Network (LAN)|local area network]] as well as the internet and other subnets.
 >
 > **[0:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-relay-using-switches-and-routers?u=76281980&t=39)** So they make a request, they send out this request asking any device that can take the request to assign them an IP address.
 >
@@ -1280,15 +1260,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), [[Windows]] (6), next (5), [[Local Area Network (LAN)|Local area network]] (3), lan (3)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Windows]] (6), [[Local Area Network (LAN)|Local area network]] (3), [[Windows Server]] (1)
 > **Env Vars:** dhcp (20), lan (3), dns (2), vlan (1), wins (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Prerequisites:** configure (2), set up (2), install (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing using DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/routing-using-dhcp?u=76281980)
+#### [Routing using DHCP](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/routing-using-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1296,7 +1275,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/routing-using-dhcp?u=76281980&t=12)** Here we have a layer three switch or router that's connecting two different subnets.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/routing-using-dhcp?u=76281980&t=16)** I have a wired client and this wired client is going to need an IP address and some static routing information.
+> **[0:16](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/routing-using-dhcp?u=76281980&t=16)** I have a wired client and this wired client is going to need an IP address and some static [[Routing]] information.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/routing-using-dhcp?u=76281980&t=25)** So it looks to the layer three switch to find the DHCP server, which it does.
 >
@@ -1355,8 +1334,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-policies?u=76281980)
+#### [DHCP policies](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-policies?u=76281980&t=18)** Inside my scope, I'm going to go to where it says IPv4 and right click and choose to define vendor classes.
 >
-> **[0:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-policies?u=76281980&t=28)** It already has some pre-defined policies for things like Windows 2000, Windows 98, things like that.
+> **[0:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-policies?u=76281980&t=28)** It already has some pre-defined policies for things like [[Windows]] 2000, Windows 98, things like that.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-policies?u=76281980&t=33)** I'm going to click on add to create a new one.
 >
@@ -1430,15 +1408,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), next (3), hit (2)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Env Vars:** dhcp (4), i2004 (1)
 > **Prerequisites:** you'll need (3), configure (2)
 > **UI Navigation:** dropdown (2), go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Split scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/split-scope?u=76281980)
+#### [Split scope](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/split-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1479,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1)
 > **Env Vars:** dhcp (1)
 > **Versions:** 192.168.21 (1)
 > **UI Navigation:** go to (1)
@@ -1515,12 +1491,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DNS importance with Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980)
+#### [DNS importance with Active Directory](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=0)** - [Instructor] Active directory, domain services uses domain name system, name, resolution services to connect clients to domain controllers and for the domain controllers that host the directory services to communicate with each other.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=0)** - [Instructor] [[Active Directory]], domain services uses [[Domain Name System (DNS)|domain name system]], name, resolution services to connect clients to domain controllers and for the domain controllers that host the directory services to communicate with each other.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=15)** It has features such as active directory integrated DNS zones, and it makes it easier for us to deploy DNS by eliminating the need to set up secondary zones and then configure zone transfers and replication.
 >
@@ -1528,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=34)** These names are called records and they are located in zones on a DNS server.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=40)** They can be managed through the DNS manager on a Windows server.
+> **[0:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=40)** They can be managed through the DNS manager on a [[Windows Server]].
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980&t=43)** Prior to active directory, DNS wasn't that important to managing users back in the NT 4.0 days.
 >
@@ -1538,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), [[Active Directory]] (7), [[Domain Name System (DNS)|Domain name system]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (7), [[Domain Name System (DNS)|Domain name system]] (1), [[Windows Server]] (1)
 > **Env Vars:** dns (9)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
@@ -1546,12 +1521,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS manager overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980)
+#### [DNS manager overview](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=0)** - [Instructor] When we have a domain controller and a Windows active directory domain and forest, it automatically adds in the DNS server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=0)** - [Instructor] When we have a domain controller and a [[Windows]] [[Active Directory]] domain and forest, it automatically adds in the DNS server.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=8)** This particular server is a domain controller.
 >
@@ -1559,7 +1533,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=18)** Minimize, and now I'll go to tools, and I'll go to DNS.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=23)** This opens up the DNS management console, and here I can see my active directory forest and domain DNS zones.
+> **[0:23](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=23)** This opens up the [[DNS Management]] console, and here I can see my active directory forest and domain DNS zones.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-manager-overview?u=76281980&t=34)** This is the actual DNS zone for the domain.
 >
@@ -1617,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), [[Active Directory]] (5), traffic (3), [[Windows]] (2), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (2), [[DNS Management]] (1)
 > **Env Vars:** dns (10), msdcs (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (4)
@@ -1625,14 +1599,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Important Active Directory DNS records
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980)
+#### [Important Active Directory DNS records](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=0)** - [Instructor] I want to demonstrate what are the most important records in a DNS zone when it's created.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=6)** Now, in this particular DNS zone, it's on an active directory domain controller.
+> **[0:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=6)** Now, in this particular DNS zone, it's on an [[Active Directory]] domain controller.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=11)** So, we have these particular zones, the LIL.int, as well as the msdcs.LIL.int.
 >
@@ -1704,7 +1677,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=213)** So, it uses LDAP to look that up.
 >
-> **[3:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=215)** Now, I've used LDAP in other operating systems besides Windows, for instance, I've used a Linux spam filter, and when an email comes in for a user, it uses LDAP to find out if that user exists in active directory.
+> **[3:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=215)** Now, I've used LDAP in other operating systems besides [[Windows]], for instance, I've used a [[Linux]] spam filter, and when an email comes in for a user, it uses LDAP to find out if that user exists in active directory.
 >
 > **[3:52](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/important-active-directory-dns-records?u=76281980&t=232)** And if they do it will forward on that email to their particular mailbox as long as it's not marked as spam.
 >
@@ -1724,7 +1697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), dns (3), application (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ldap (7), dns (3), lil (3), dc2 (3), dc01 (3)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** means that (1), is called (1), stands for (1), is a  (1)
@@ -1738,8 +1711,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install DNS on a member server
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980)
+#### [Install DNS on a member server](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1773,25 +1745,24 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980&t=91)** This makes it a little bit easier if I decide I want to create secondary zones that replicate with the file server because I can set it all up from one location.
 >
-> **[1:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980&t=99)** Adding DNS to a member server can add redundancy and load balancing to DNS zones in a Windows domain and forest.
+> **[1:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980&t=99)** Adding DNS to a member server can add redundancy and load balancing to DNS zones in a [[Windows]] domain and forest.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (13), next (2), traffic (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** dns (13)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Client DNS configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980)
+#### [Client DNS configuration](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980&t=0)** - [Instructor] A DNS forwarder is an IP address that we can add into our DNS server properties to let us know when there's a request for something outside of our local area network, that they can go out and find out the resolution from this forwarding address.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980&t=0)** - [Instructor] A DNS forwarder is an IP address that we can add into our DNS server properties to let us know when there's a request for something outside of our [[Local Area Network (LAN)|local area network]], that they can go out and find out the resolution from this forwarding address.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980&t=16)** So I'm going to right click on my file server, go to properties, and then I'll go to the forwarders tab and I'll click edit and put in the Google public DNS server.
+> **[0:16](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980&t=16)** So I'm going to right click on my file server, go to properties, and then I'll go to the forwarders tab and I'll click edit and put in the [[Google]] public DNS server.
 >
 > **[0:29](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/client-dns-configuration?u=76281980&t=29)** Now, how do you know which one to use?
 >
@@ -1851,7 +1822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Google]] (4), [[Local Area Network (LAN)|Local area network]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dns (8)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** find (2), make (1)
@@ -1860,8 +1831,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 
-#### DNS forwarders
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980)
+#### [DNS forwarders](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1889,7 +1859,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=42)** We can also take a look at another type of logging.
 >
-> **[0:46](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=46)** And if we go into the DNS management console, and I'm going to right-click on File Server for instance and go to Properties.
+> **[0:46](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=46)** And if we go into the [[DNS Management]] console, and I'm going to right-click on File Server for instance and go to Properties.
 >
 > **[0:53](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=53)** There's a debug logging.
 >
@@ -1925,7 +1895,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=135)** There's the type of record such as the SOA record, which is the start of authority, and the zone.
 >
-> **[2:22](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=142)** In this case, it's the MSDCS zone, which is one of the two domain zones that you get when you install Active Directory on a server, which would make that a domain controller.
+> **[2:22](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=142)** In this case, it's the MSDCS zone, which is one of the two domain zones that you get when you install [[Active Directory]] on a server, which would make that a domain controller.
 >
 > **[2:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-forwarders?u=76281980&t=153)** Also take a look that it says no error on most of these.
 >
@@ -1941,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), traffic (2), web (1), [[Search]] (1), management (1)
+> **Frameworks & Libraries:** [[DNS Management]] (1), [[Active Directory]] (1)
 > **Env Vars:** dns (4), tcp (1), udp (1), dco1 (1), soa (1)
 > **UI Navigation:** go to (3), right-click (1)
 > **Analogies:** for instance (2), such as (2)
@@ -1955,8 +1925,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Forward DNS zones and AD integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980)
+#### [Forward DNS zones and AD integration](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1951,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980&t=49)** Click Next.
 >
-> **[0:51](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980&t=51)** Now, we have the option for creating a primary zone, secondary zone, stub zone, and we can also choose whether or not to store it in Active Directory.
+> **[0:51](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980&t=51)** Now, we have the option for creating a primary zone, secondary zone, stub zone, and we can also choose whether or not to store it in [[Active Directory]].
 >
 > **[0:59](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980&t=59)** If we leave it stored in Active Directory, it will replicate with every other domain controller.
 >
@@ -2028,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), dns (4), next (3)
+> **Frameworks & Libraries:** [[Active Directory]] (5)
 > **Env Vars:** dns (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
@@ -2037,12 +2006,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reverse DNS zones and AD integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/reverse-dns-zones-and-ad-integration?u=76281980)
+#### [Reverse DNS zones and AD integration](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/reverse-dns-zones-and-ad-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/reverse-dns-zones-and-ad-integration?u=76281980&t=0)** - [Instructor] I've created a forward lookup zone called test.local, and I also have a couple of other forward lookup zones that have the active directory domain zones listed in them as well.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/reverse-dns-zones-and-ad-integration?u=76281980&t=0)** - [Instructor] I've created a forward lookup zone called test.local, and I also have a couple of other forward lookup zones that have the [[Active Directory]] domain zones listed in them as well.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/reverse-dns-zones-and-ad-integration?u=76281980&t=11)** But now, I want to create a reverse lookup zone.
 >
@@ -2132,7 +2100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), dns (3), next (3)
+> **Frameworks & Libraries:** [[Active Directory]] (5)
 > **Env Vars:** dns (3), dc2 (1)
 > **UI Navigation:** right-click (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2141,8 +2109,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Versions:** 192.168.21 (1)
 
-#### Secondary zone creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/secondary-zone-creation?u=76281980)
+#### [Secondary zone creation](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/secondary-zone-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2240,7 +2207,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), dns (1)
 > **UI Navigation:** go to (5), right-click (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** dns (1)
@@ -2248,8 +2214,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - a (1)
 
-#### Stub zone creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/stub-zone-creation?u=76281980)
+#### [Stub zone creation](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/stub-zone-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2271,7 +2236,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/stub-zone-creation?u=76281980&t=43)** So, a stub zone is different from a secondary zone in that it doesn't replicate all the records over from the primary in this case, the DC01 server, because you don't need it.
 >
-> **[0:56](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/stub-zone-creation?u=76281980&t=56)** And so, if you have a remote office and you have a slow connection, then you may want to choose a secondary zone because the secondary zone will replicate all the records over.
+> **[0:56](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/stub-zone-creation?u=76281980&t=56)** And so, if you have a remote [[Microsoft Office|office]] and you have a slow connection, then you may want to choose a secondary zone because the secondary zone will replicate all the records over.
 >
 > **[1:09](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/stub-zone-creation?u=76281980&t=69)** And then you have that copy on that particular location.
 >
@@ -2317,7 +2282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Office|Office]] (2), dns (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Env Vars:** dc01 (7), dns (1)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** find (1)
@@ -2331,12 +2296,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Forward and reverse zone records
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980)
+#### [Forward and reverse zone records](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980&t=0)** - [Instructor] If we take a look at the Active Directory domain zone that we see with lil.int, you can see some host A records.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980&t=0)** - [Instructor] If we take a look at the [[Active Directory]] domain zone that we see with lil.int, you can see some host A records.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980&t=9)** You can either call a forward lookup zone record a host record or an A record.
 >
@@ -2418,7 +2382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (1), prompt (1), next (1), hit (1), dns (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **Env Vars:** ptr (1), dns (1)
 > **Versions:** 21.200 (2)
 > **Analogies:** for instance (2)
@@ -2427,8 +2391,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alias (CNAME) records
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/alias-cname-records?u=76281980)
+#### [Alias (CNAME) records](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/alias-cname-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2427,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/alias-cname-records?u=76281980&t=60)** Now I'm going to go down to my Command Prompt.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/alias-cname-records?u=76281980&t=63)** And this also works in PowerShell if you need it.
+> **[1:03](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/alias-cname-records?u=76281980&t=63)** And this also works in [[Powershell]] if you need it.
 >
 > **[1:05](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/alias-cname-records?u=76281980&t=65)** I'm going to click ping web dot companya dot local.
 >
@@ -2534,7 +2497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), prompt (2), [[Powershell]] (1), career (1)
+> **Frameworks & Libraries:** [[Powershell]] (1)
 > **Env Vars:** cname (4)
 > **Definitions:** known as (3), stands for (1)
 > **Tools:** command prompt (2), powershell (1)
@@ -2543,14 +2506,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mail (MX) records
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980)
+#### [Mail (MX) records](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=0)** - [Instructor] Mail records allows us to direct mail to a specific server within an organization.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=6)** Typically you don't use mail records in most internal organizations because most mail stores are out in the public such as at Microsoft Azure using Microsoft 365 or Google for Gmail and others.
+> **[0:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=6)** Typically you don't use mail records in most internal organizations because most mail stores are out in the public such as at [[Microsoft Azure]] using [[Microsoft 365]] or [[Google]] for Gmail and others.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=20)** But in some cases you may want to redirect email to a local mail server if it's necessary because you have multiple mail servers in your organization.
 >
@@ -2608,7 +2570,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=154)** I have a website here that I own, and what I'm going to do is do a DNS lookup for mail records.
 >
-> **[2:42](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=162)** So I'm going to put in the name of a domain in this case I'll do [linkedin.com](https://linkedin.com).
+> **[2:42](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=162)** So I'm going to put in the name of a domain in this case I'll do [[[LinkedIn]].com](https://linkedin.com).
 >
 > **[2:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=168)** Instead of choosing the a or host record, I'm going to choose the MX record to see where email gets delivered whenever I want to send an email to someone@[linkedin.com](https://linkedin.com) And here's the MX preferences followed by the host names.
 >
@@ -2632,11 +2594,11 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=227)** So they have some redundancy and some failover built in in case any particular mail server goes down.
 >
-> **[3:53](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=233)** MX records are typically used externally and not entered into a Windows server, but there are some circumstances where multiple email servers are internal to a domain using different email domains where a Windows MX record may be created.
+> **[3:53](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/mail-mx-records?u=76281980&t=233)** MX records are typically used externally and not entered into a [[Windows Server]], but there are some circumstances where multiple email servers are internal to a domain using different email domains where a [[Windows]] MX record may be created.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), next (2), [[Microsoft Azure]] (1), [[Microsoft 365]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Azure]] (1), [[Microsoft 365]] (1), [[Google]] (1), [[Windows Server]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** dns (1), acd (1)
@@ -2645,8 +2607,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Other record types
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980)
+#### [Other record types](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2668,7 +2629,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=66)** Now here I can put in some text that's going to be required for that particular vendor and I'll just click Okay.
 >
-> **[1:14](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=74)** Now you may not find a use for a TXT record in an internal Windows server, but that's just an example of the different types of records you can create.
+> **[1:14](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=74)** Now you may not find a use for a TXT record in an internal [[Windows Server]], but that's just an example of the different types of records you can create.
 >
 > **[1:22](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=82)** So here we have a next domain record, NXT record, and here you can see the description of what an NXT record is.
 >
@@ -2676,11 +2637,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=97)** So I'll click on create record, and you can put in the next domain name followed by the record types.
 >
-> **[1:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=108)** In most cases, you'll never have a reason to create other record types that you see here unless you find a vendor that requires it, but this is the location you would use to find other records in a Windows DNS server.
+> **[1:48](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/other-record-types?u=76281980&t=108)** In most cases, you'll never have a reason to create other record types that you see here unless you find a vendor that requires it, but this is the location you would use to find other records in a [[Windows]] DNS server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (2), next (2), [[Windows Server]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Windows]] (1)
 > **Env Vars:** dns (2), txt (2), nxt (2)
 > **CLI Commands:** find (3)
 > **Analogies:** for instance (1), just like (1)
@@ -2694,8 +2655,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DNS queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-queries?u=76281980)
+#### [DNS queries](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,23 +2681,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6)
 > **Env Vars:** dns (6)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980)
+#### [DNS cache](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=0)** - [Instructor] Windows DNS servers that have forwarders turned on are not just for resolving types of records internally, but also for caching records that were done externally.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=0)** - [Instructor] [[Windows]] DNS servers that have forwarders turned on are not just for resolving types of records internally, but also for caching records that were done externally.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=14)** So for instance, if I go up to View and click Advanced, it's going to show some additional things it didn't show before and one of those is cached lookups.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=25)** And the advantage to cached lookups is if I go to say [google.com](https://google.com), it's going to go out the first time to my internet service provider or whatever DNS forwarder I put in and it's going to look for that IP address and then it's going to give me that resolution and then I can go out to [google.com](https://google.com).
+> **[0:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=25)** And the advantage to cached lookups is if I go to say [[[Google]].com](https://google.com), it's going to go out the first time to my internet service provider or whatever DNS forwarder I put in and it's going to look for that IP address and then it's going to give me that resolution and then I can go out to [google.com](https://google.com).
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=43)** However, the next time I go, I don't want to have to wait for it to go to do that.
 >
@@ -2749,7 +2707,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=68)** Now, there might be some websites that are in here that you didn't go to and it's just because some of these various different ads went ahead and added themselves into the webpage that you were browsing and therefore that's why you see those there.
 >
-> **[1:22](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=82)** So if I go to Microsoft, we can see some various different records there as well.
+> **[1:22](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=82)** So if I go to [[Microsoft]], we can see some various different records there as well.
 >
 > **[1:28](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=88)** I'm going to go back to com and I'm going to go to my command prompt and I'm going to ping [google.com](https://google.com) since it didn't show up in the list there and you see I get a resolution.
 >
@@ -2769,13 +2727,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=150)** So if I go into properties and I go to root hints, these are all the main servers that are out there online running the internet.
 >
-> **[2:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=159)** So when you have DNS or your internet provider has DNS that synchronizes with these root hint servers, these are the servers that feed out to the rest of the world.
+> **[2:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=159)** So when you have DNS or your internet provider has DNS that synchronizes with these root hint servers, these are the servers that feed out to the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[2:50](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache?u=76281980&t=170)** Cached lookups from your ISP's DNS server or from the root hint servers can make browsing to the same websites go much more quickly the next time you visit them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), dns (5), next (3), [[Windows]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Windows]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (8), right-click (1)
 > **Env Vars:** dns (5), isp (1)
 > **URLs:** [google.com](https://google.com) (3)
@@ -2784,20 +2742,19 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 
-#### Conditional forwarders
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980)
+#### [Conditional forwarders](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=0)** - [Instructor] Conditional forwarders allows us to forward any requests for specific domains to other DNS servers.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=8)** If you look at a general forwarder in the properties of your server, what this does is it forwards any requests that are not local to your DNS or your active directory domain off to, say, a public DNS server, as you see here, which is Google.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=8)** If you look at a general forwarder in the properties of your server, what this does is it forwards any requests that are not local to your DNS or your [[Active Directory]] domain off to, say, a public DNS server, as you see here, which is [[Google]].
 >
 > **[0:24](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=24)** However, if you have an individual domain that you would like to forward to a specific DNS server, then you can use conditional forwarders.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=33)** So they have a condition to their forwarding.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=36)** So if I right-click and choose new conditional forwarder, I'll put in the name, I'll just put in [kentoso.com](https://kentoso.com), which is one of Microsoft's favorite test domains.
+> **[0:36](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=36)** So if I right-click and choose new conditional forwarder, I'll put in the name, I'll just put in [kentoso.com](https://kentoso.com), which is one of [[Microsoft]]'s favorite test domains.
 >
 > **[0:44](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/conditional-forwarders?u=76281980&t=44)** And I'm going to enter an IP address for what I believe is the DNS server for [kentoso.com](https://kentoso.com).
 >
@@ -2823,7 +2780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Active Directory]] (2), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** dns (8)
 > **URLs:** [kentoso.com](https://kentoso.com) (4)
 > **CLI Commands:** make (1)
@@ -2836,14 +2793,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DNS cache locking
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980)
+#### [DNS cache locking](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=0)** - [Instructor] Domain name systems security extensions, or DNSSEC, is a suite of extensions that add security to DNS by enabling DNS responses so they can be validated.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=11)** DNS security provides data integrity and authenticated denial of existence.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=11)** DNS security provides [[Data Integrity]] and authenticated denial of existence.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=16)** DNS spoofing is a type of attack that involves impersonation of DNS servers, and it does that so it can introduce false information to redirect a user.
 >
@@ -2871,15 +2827,15 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=120)** On DNS servers, trust anchors are stored in a file, and that file is called trustanchor.dns.
 >
-> **[2:07](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=127)** A DNS server running Windows Server 2012 or newer, is also going to display the configured trust anchors in the DNS manager console tree in the trust points container.
+> **[2:07](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=127)** A DNS server running [[Windows Server]] 2012 or newer, is also going to display the configured trust anchors in the DNS manager console tree in the trust points container.
 >
-> **[2:18](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=138)** And you can use the PowerShell commandlets, or dnscmd.exe to view trust anchors.
+> **[2:18](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=138)** And you can use the [[Powershell]] commandlets, or dnscmd.exe to view trust anchors.
 >
 > **[2:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=145)** DNS key management strategy, is going to include planning for key generation, key storage, key expiration and key replacement.
 >
 > **[2:36](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=156)** When you put them all together, key expiration and replacement in DNS security is called key rollover.
 >
-> **[2:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=163)** In Windows Server key management is made easier with flexible key generation, active directory storage and replication and automated key rollover.
+> **[2:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=163)** In Windows Server key management is made easier with flexible key generation, [[Active Directory]] storage and replication and automated key rollover.
 >
 > **[2:53](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980&t=173)** When the DNS client issues a query, it can indicate to the DNS server that it understands DNS security.
 >
@@ -2893,7 +2849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (26), [[Security]] (10), [[Windows Server]] (2), management (2), data (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Data Integrity]] (1), [[Powershell]] (1), [[Active Directory]] (1)
 > **Env Vars:** dns (25), dnssec (3), rrsig (2), dnskey (2)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (1)
@@ -2901,8 +2857,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS socket pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-socket-pool?u=76281980)
+#### [DNS socket pool](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-socket-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2938,7 +2893,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-socket-pool?u=76281980&t=91)** We can also do cache locking by command prompt as well.
 >
-> **[1:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-socket-pool?u=76281980&t=95)** I'm going to go open up a command prompt and you can do this in PowerShell if you'd like.
+> **[1:35](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-socket-pool?u=76281980&t=95)** I'm going to go open up a command prompt and you can do this in [[Powershell]] if you'd like.
 >
 > **[1:39](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-socket-pool?u=76281980&t=99)** I'll clear the screen.
 >
@@ -2960,7 +2915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), prompt (2), data (1), traffic (1), feature (1)
+> **Frameworks & Libraries:** [[Powershell]] (1)
 > **Env Vars:** dns (4)
 > **CLI Commands:** make (3)
 > **Tools:** command prompt (2), powershell (1)
@@ -2968,8 +2923,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS zone signing
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-zone-signing?u=76281980)
+#### [DNS zone signing](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-zone-signing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2979,7 +2933,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-zone-signing?u=76281980&t=12)** They won't know which port you're going to be doing the query on because it's randomized.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-zone-signing?u=76281980&t=17)** So what I'm going to do is go down to my PowerShell and type in get-dnsserver.
+> **[0:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-zone-signing?u=76281980&t=17)** So what I'm going to do is go down to my [[Powershell]] and type in get-dnsserver.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-zone-signing?u=76281980&t=25)** However, if I hit Enter, it's going to give me pages and pages of information.
 >
@@ -3025,7 +2979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), [[Powershell]] (3), hit (2), [[Security]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (3)
 > **Env Vars:** dns (5)
 > **Tools:** powershell (3), command line (1), command prompt (1)
 > **File Paths:** dns2.txt (2), dns.txt (1)
@@ -3033,8 +2987,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS security extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-security-extensions?u=76281980)
+#### [DNS security extensions](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-security-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3132,7 +3085,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), dns (8), [[Security]] (2), data (1)
 > **Env Vars:** dns (8), dnssec (4), ksk (2), nsec (1)
 > **Definitions:** short for (1), is an  (1)
 > **Analogies:** such as (1), for instance (1)
@@ -3146,16 +3098,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing DNS and DHCP using Admin Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980)
+#### [Managing DNS and DHCP using Admin Center](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=0)** - [Instructor] We can manage DNS and DHCP using another utility besides just the DHCP and DNS console.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=8)** And that is using Windows Admin Center.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=8)** And that is using [[Windows]] Admin Center.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=11)** Windows Admin Center is a web-based administrative tool that we can download for free from Microsoft.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=11)** Windows Admin Center is a web-based administrative tool that we can download for free from [[Microsoft]].
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=17)** So I'm just going to do a search for downloading Windows Admin Center, and I'll click the website, and make sure that you're choosing a [microsoft.com](https://microsoft.com) website, you can always click on the lock at the top and just make sure it says that the connection is secure, and then download Windows Admin Center.
 >
@@ -3195,7 +3146,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=152)** I can add additional computers though, so I can click on Add, and here I have lots of different options.
 >
-> **[2:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=157)** I can put in servers, PCs, clusters, or even Azure virtual machines.
+> **[2:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=157)** I can put in servers, PCs, clusters, or even [[Microsoft Azure|Azure]] [[Virtual Machines]].
 >
 > **[2:43](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=163)** I'm going to add a server, and I'm going to add the server name here.
 >
@@ -3249,7 +3200,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=321)** It's loading up all the different zones, and here they are.
 >
-> **[5:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=325)** We have company A and B, Contoso, and then of course the active directory zones and the test.local.
+> **[5:25](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=325)** We have company A and B, Contoso, and then of course the [[Active Directory]] zones and the test.local.
 >
 > **[5:31](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980&t=331)** I'm going to click on company A, and here I can create a new DNS record.
 >
@@ -3263,7 +3214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (11), dns (8), next (4), web (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows]] (11), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (1), [[Virtual Machines]] (1), [[Active Directory]] (1)
 > **Env Vars:** dns (8), dhcp (8), ssl (1), dc01 (1), ptr (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Prerequisites:** install (5)
@@ -3272,12 +3223,11 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Definitions:** is a  (1)
 
-#### Managing DNS and DHCP using IPAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980)
+#### [Managing DNS and DHCP using IPAM](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=0)** - [Instructor] Another utility besides Windows Admin Center and the DNS and DHCP consoles that we can use to manage those two services is IPAM or IP Address Management.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=0)** - [Instructor] Another utility besides [[Windows]] Admin Center and the DNS and DHCP consoles that we can use to manage those two services is IPAM or IP Address Management.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=12)** And IP Address Management does have a lot of steps involved in order to get it installed.
 >
@@ -3287,7 +3237,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=29)** You cannot do this on a domain controller.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=31)** Microsoft does not allow it.
+> **[0:31](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=31)** [[Microsoft]] does not allow it.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=33)** So I'll click Next until we get to Features.
 >
@@ -3301,7 +3251,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=72)** The IPAM feature has been installed. I'll click Close.
 >
-> **[1:15](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=75)** Now I need to open up PowerShell as the admin, and I'm going to run the command.
+> **[1:15](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=75)** Now I need to open up [[Powershell]] as the admin, and I'm going to run the command.
 >
 > **[1:20](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=80)** Now we're going to invoke the IpamGpoProvisioning, and it's going to do this on our domain, the lil.int, and we're installing it on the fileserver because the fileserver is not a domain controller.
 >
@@ -3327,9 +3277,9 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=157)** IPAM is going to require a database to store all the records.
 >
-> **[2:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=160)** So you can either use the free Windows Internal Database that comes with this, which is very similar to SQL Express, or you could just choose the Microsoft SQL Server, and you could purchase that and choose the server name and database information here.
+> **[2:40](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=160)** So you can either use the free Windows Internal Database that comes with this, which is very similar to [[SQL]] Express, or you could just choose the [[Microsoft SQL Server]], and you could purchase that and choose the server name and database information here.
 >
-> **[2:55](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=175)** I don't have a SQL Server, so I'm just going to choose the Windows Internal Database.
+> **[2:55](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=175)** I don't have a [[Microsoft SQL Server|SQL Server]], so I'm just going to choose the Windows Internal Database.
 >
 > **[3:00](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=180)** Now it's asking me for a provisioning method.
 >
@@ -3425,7 +3375,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=430)** So I can go to Advanced.
 >
-> **[7:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=432)** I can change this from storing in Active Directory to just being local.
+> **[7:12](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=432)** I can change this from storing in [[Active Directory]] to just being local.
 >
 > **[7:17](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-ipam?u=76281980&t=437)** I can change how long the zone aging and scavenging properties are.
 >
@@ -3441,7 +3391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), next (7), management (5), database (4), data (4)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (1), [[Powershell]] (1), [[SQL]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** dhcp (14), ipam (13), dns (10), sql (3), dc01 (2)
 > **UI Navigation:** click on (4), go to (4), right-click (3), select the (1)
 > **Analogies:** similar to (1), such as (1), for instance (1), just like (1)

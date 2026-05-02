@@ -121,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simplified AWS administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/simplified-aws-administration?u=76281980)
+#### [Simplified AWS administration](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/simplified-aws-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,19 +141,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), cloud (2), business (1), [[Security]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Speakers:** - [shyam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980&t=0)** - Amazon Web Services offers various tools for compute, storage, governance, controlling costs, migration, and more.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980&t=0)** - [[Amazon Web Services (AWS)|Amazon Web Services]] offers various tools for compute, storage, governance, controlling costs, migration, and more.
 >
-> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980&t=8)** To appreciate the concepts discussed in this course, I recommend that you have a basic understanding of cloud computing.
+> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980&t=8)** To appreciate the concepts discussed in this course, I recommend that you have a basic understanding of [[Cloud Computing]].
 >
 > **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/what-you-should-know?u=76281980&t=14)** You will also need an AWS account to follow along with the exercises.
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (3)
 > **Speakers:** - amazon (1)
@@ -176,24 +173,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud computing fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980)
+#### [Cloud computing fundamentals](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=0)** - [Instructor] Let's begin this course by discussing basic cloud computing concepts, and understanding of these concepts will help us with the other topics in this course.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=0)** - [Instructor] Let's begin this course by discussing basic [[Cloud Computing]] concepts, and understanding of these concepts will help us with the other topics in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=8)** AWS defines cloud computing as the on-demand delivery of IT services over the internet.
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=13)** Traditionally, organizations have owned IT resources and maintain them on-premises or contracted a third party to maintain them in a data center.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=22)** With cloud computing, you can deploy many of these on-premises resources in the cloud, such as servers, storage infrastructure, databases, and even networking components, such as routers and firewalls.
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=22)** With cloud computing, you can deploy many of these on-premises resources in the cloud, such as servers, storage infrastructure, [[Databases]], and even networking components, such as routers and firewalls.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=35)** Cloud computing services are offered in different service models, such as Infrastructure as a Service, or IaaS, Platform as a Service, or Paas, and Software as a Service, or SaaS.
+> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=35)** Cloud computing services are offered in different service models, such as [[IaaS|Infrastructure as a Service]], or [[IaaS]], [[PaaS|Platform as a Service]], or [[PaaS]], and [[SaaS|Software as a Service]], or [[SaaS]].
 >
 > **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=48)** With Infrastructure as a Service, cloud computing service providers, like AWS, in this case, will give you the infrastructure on which you can host your services.
 >
-> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=57)** An example of this is Virtual Machines, known as Elastic Compute Cloud or EC2 instances.
+> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=57)** An example of this is [[Virtual Machines]], known as Elastic Compute Cloud or [[Amazon EC2|EC2]] instances.
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=63)** These EC2 instances serve as the infrastructure for your deployment.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=162)** Some services also allow you to make upfront payments and reserve capacity in return for discounted pricing.
 >
-> **[2:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=168)** And, not to forget, you don't have to own hardware to run your services.
+> **[2:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=168)** And, not to forget, you don't have to own [[Hardware]] to run your services.
 >
 > **[2:54](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-computing-fundamentals?u=76281980&t=174)** Another significant advantage is elasticity.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), aws (7), [[IaaS|Infrastructure as a service]] (4), application (4), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (9), [[IaaS|Infrastructure as a service]] (4), [[Databases]] (3), [[PaaS|Platform as a service]] (3), [[SaaS]] (3)
 > **Env Vars:** aws (7), ec2 (2)
 > **CLI Commands:** aws (7), make (1)
 > **Analogies:** such as (4), for example (1)
@@ -267,12 +263,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980)
+#### [AWS fundamentals](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=0)** - [Instructor] Amazon Web Services or AWS offers over 200 different services to its customers.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=0)** - [Instructor] [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS offers over 200 different services to its customers.
 >
 > **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=5)** These services are delivered using regions and availability zones.
 >
@@ -308,15 +303,15 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=106)** Services that AWS provides to its customers are grouped in different categories.
 >
-> **[1:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=111)** Important categories include compute, storage, networking, databases, identity and access management, containers, developer tools, management and governance, machine learning, and more.
+> **[1:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=111)** Important categories include compute, storage, networking, [[Databases]], identity and access management, containers, developer tools, management and governance, machine learning, and more.
 >
-> **[2:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=126)** Most of these categories include multiple products and have flexible pricing options so as an administrator, you can choose from a wide selection of tools.
+> **[2:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=126)** Most of these categories include multiple [[Microsoft Products|products]] and have flexible pricing options so as an administrator, you can choose from a wide selection of tools.
 >
 > **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=136)** Customers planning on migrating their resources to the cloud commonly have two concerns, security and compliance.
 >
 > **[2:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=143)** Talking about security, AWS uses a shared responsibility model where AWS manages the security of the cloud while you are responsible for security in the cloud.
 >
-> **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=153)** As an example, AWS will manage the physical hardware that powers their cloud services but you'll be responsible for the data and applications you host on them.
+> **[2:33](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=153)** As an example, AWS will manage the physical [[Hardware]] that powers their [[Cloud Services]] but you'll be responsible for the data and applications you host on them.
 >
 > **[2:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-fundamentals?u=76281980&t=163)** To better understand how security is managed in the AWS cloud, I encourage you to review the AWS shared responsibility model.
 >
@@ -336,15 +331,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (21), cloud (8), [[Security]] (5), data (3), management (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1), [[Hardware]] (1), [[Cloud Services]] (1)
 > **Env Vars:** aws (21), iso (2), soc1 (1), pci (1), dss (1)
 > **CLI Commands:** aws (21)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools to connect with AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980)
+#### [Tools to connect with AWS](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,15 +348,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=13)** This is the web user interface and a commonly used method.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=16)** You can also use the CLI, or command line interface.
+> **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=16)** You can also use the [[CLI]], or command line interface.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=20)** This requires you to download and configure the tool before connecting to AWS.
 >
 > **[0:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=24)** But once configured, you can control multiple AWS services and automate them through scripts.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=31)** You can also use the SDKs, or software development kits.
+> **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=31)** You can also use the SDKs, or [[Software Development]] kits.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=35)** In addition to the above two methods, AWS also provides SDKs that allow you to develop applications on AWS in several supported languages, such as Java, .net, Node.js, PHP, Python, and more.
+> **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=35)** In addition to the above two methods, AWS also provides SDKs that allow you to develop applications on AWS in several supported languages, such as [[Java]], .net, [[Node.js]], [[PHP]], [[Python (Programming Language)|Python]], and more.
 >
 > **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=51)** You will find more information about SDKs in the online documentation.
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=65)** Now let's talk about how you can configure the AWS CLI on your local machine.
 >
-> **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=70)** First, you will need to download the CLI installer, which is available for Windows, macOS, and Linux operating systems.
+> **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=70)** First, you will need to download the CLI installer, which is available for [[Windows]], macOS, and [[Linux]] operating systems.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=77)** To download the installer, go to the URL, aws.[amazon.com/cli](https://amazon.com/cli).
 >
@@ -424,7 +418,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=214)** Click Next Tags.
 >
-> **[3:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=218)** Tags are key value pairs that you associate with objects for classification, filtering, and cost management purposes.
+> **[3:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=218)** Tags are key value pairs that you associate with objects for classification, filtering, and [[Cost Management]] purposes.
 >
 > **[3:46](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=226)** For now, you will skip Tags.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=302)** The default output format specifies how the results are formatted.
 >
-> **[5:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=306)** This can be JSON, YAML, YAML Stream, text, or table.
+> **[5:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=306)** This can be [[JSON]], YAML, YAML Stream, text, or table.
 >
 > **[5:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/tools-to-connect-with-aws?u=76281980&t=312)** For now, leave it at the default, which is JSON.
 >
@@ -496,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (38), [[CLI]] (16), management (10), next (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[CLI]] (16), [[JSON]] (2), [[Software Development]] (1), [[Java]] (1), [[Node.js]] (1)
 > **Env Vars:** aws (35), cli (15), iam (4), json (2), yaml (2)
 > **CLI Commands:** aws (38), find (2), node (1), php (1), python (1)
 > **Prerequisites:** configure (6)
@@ -510,8 +504,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to IAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980)
+#### [Introduction to IAM](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +526,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=49)** You can also define granular permissions so you can grant only the required permissions for users and resources.
 >
-> **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=56)** For example, if you need to provide only permissions to list EC2 instances but not allow making any changes, like starting or stopping them, you can do this easily with IAM.
+> **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=56)** For example, if you need to provide only permissions to list [[Amazon EC2|EC2]] instances but not allow making any changes, like starting or stopping them, you can do this easily with IAM.
 >
 > **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=67)** With IAM, you can also share access to your AWS account.
 >
@@ -547,25 +540,25 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=102)** This allows you to configure temporary access for users who already have a password elsewhere.
 >
-> **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=107)** For example, in your corporate network or with an internet identity provider like Amazon, Facebook, or Google.
+> **[1:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=107)** For example, in your corporate network or with an internet identity provider like Amazon, Facebook, or [[Google]].
 >
 > **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=115)** Administrators find this useful as they can use existing identities instead of creating new IAM users.
 >
 > **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=122)** With IAM, you can also to analyze and identify unintended access.
 >
-> **[2:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=128)** You can use the IAM access analyzer tool to identify resources such as S3 buckets that users may have unintentionally shared with external entities posing a security risk to your organization.
+> **[2:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=128)** You can use the IAM access analyzer tool to identify resources such as S3 buckets that users may have unintentionally shared with external entities posing a [[Security Risk]] to your organization.
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=141)** Bear in mind that IAM is free to use, but you're charged when you or your AIM users use other AWS resources.
 >
 > **[2:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=149)** So for example, you are not charged for creating a user named Bob but if Bob creates other resources like EC2 instances or S3 buckets, they are charged.
 >
-> **[2:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=160)** As you've seen, IAM forms the basis of managing and controlling access in your AWS account.
+> **[2:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=160)** As you've seen, IAM [[Forms]] the basis of managing and controlling access in your AWS account.
 >
 > **[2:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-iam?u=76281980&t=167)** Now that we have a basic understanding of its capabilities let's learn how to configure IAM entities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Security]] (2), [[Amazon EC2|Ec2]] (2), management (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Google]] (1), [[Security Risk]] (1), [[Forms]] (1)
 > **Env Vars:** iam (13), aws (9), ec2 (2), aim (1)
 > **CLI Commands:** aws (9), find (1)
 > **Analogies:** for example (3), such as (2)
@@ -573,8 +566,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### IAM users and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-users-and-groups?u=76281980)
+#### [IAM users and groups](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-users-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +686,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), next (5), management (4), application (1)
 > **Env Vars:** aws (10), iam (7), arn (2), csv (1), url (1)
 > **CLI Commands:** aws (10), make (2)
 > **UI Navigation:** select the (3), switch to (1), checkbox (1)
@@ -702,9 +693,9 @@ created: 2026-05-02
 > **Warnings:** note that (3)
 > **Prerequisites:** configure (2)
 > **Analogies:** for example (1)
+> **Speakers:** - an (1)
 
-#### IAM roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980)
+#### [IAM roles](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,9 +707,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=16)** For example, consider two services in your AWS account.
 >
-> **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=20)** Amazon EC2 and Amazon S3.
+> **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=20)** [[Amazon EC2]] and Amazon S3.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=23)** an EC2 instance wants to access the contents of an S3 bucket.
+> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=23)** an [[Amazon EC2|EC2]] instance wants to access the contents of an S3 bucket.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=28)** Even though both services belong to your AWS account, access is not permitted.
 >
@@ -740,11 +731,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=91)** I'm here at the AWS management console, and I'm currently in the EC2 service.
 >
-> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=96)** I've got a running windows EC2 instance.
+> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=96)** I've got a running [[Windows]] EC2 instance.
 >
 > **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=99)** I'll switch to this instance terminal.
 >
-> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=102)** On this instance, I've installed the AWS CLI, but I haven't configured it with key and secret access Key details.
+> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=102)** On this instance, I've installed the AWS [[CLI]], but I haven't configured it with key and secret access Key details.
 >
 > **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-roles?u=76281980&t=109)** I'll begin with the command, AWS S3LS.
 >
@@ -824,7 +815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (23), [[Amazon EC2|Ec2]] (13), next (3), management (2), [[CLI]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (13), [[CLI]] (2), [[Amazon EC2]] (1), [[Windows]] (1)
 > **Env Vars:** aws (23), ec2 (14), iam (13), cli (2), saml (2)
 > **CLI Commands:** aws (23), ls (1), find (1)
 > **UI Navigation:** select the (4), switch to (2), navigate to (2), dropdown (1)
@@ -833,8 +824,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** configure (3)
 
-#### IAM policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980)
+#### [IAM policies](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=22)** IAM policies define permissions for actions regardless of the method you use to perform the operation.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=28)** For example, if a policy allows a user to launch an EC2 instance, the user with that policy can launch an EC2 instance from the AWS management console, the AWS CLI or Command Line Interface, or the AWS API.
+> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=28)** For example, if a policy allows a user to launch an [[Amazon EC2|EC2]] instance, the user with that policy can launch an EC2 instance from the AWS management console, the AWS [[CLI]] or Command Line Interface, or the AWS API.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=43)** Now let's switch to the AWS management console and see policies in action.
 >
@@ -862,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=70)** This policy has a simple configuration and works well to understand policies at a high level.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=76)** Under the permissions tab, you will see the JSON document that defines the policy.
+> **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=76)** Under the permissions tab, you will see the [[JSON]] document that defines the policy.
 >
 > **[1:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-policies?u=76281980&t=81)** It includes an effect which can be allow or deny, an action definition that establishes a list of actions that the policy allows or denies, and a resource definition that specifies a list of resources to which the actions apply.
 >
@@ -920,7 +910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (2), management (2), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[CLI]] (1), [[JSON]] (1)
 > **Env Vars:** aws (7), iam (6), ec2 (2), cli (1), api (1)
 > **CLI Commands:** aws (7)
 > **UI Navigation:** switch to (1), dropdown (1), select the (1)
@@ -929,8 +919,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### IAM best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980)
+#### [IAM best practices](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,15 +981,15 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=180)** For example, this policy grants limited list and write permissions on CloudWatch logs.
 >
-> **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=186)** To see the exact permissions granted, switch to the JSON editor.
+> **[3:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=186)** To see the exact permissions granted, switch to the [[JSON]] editor.
 >
-> **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=195)** The next recommendation is to use roles for applications that run on Amazon EC2 instances.
+> **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=195)** The next recommendation is to use roles for applications that run on [[Amazon EC2]] instances.
 >
-> **[3:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=201)** When you have applications running on EC2 instances, they will need credentials to access other AWS services.
+> **[3:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=201)** When you have applications running on [[Amazon EC2|EC2]] instances, they will need credentials to access other AWS services.
 >
 > **[3:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=208)** A common misconfiguration is to store AWS credentials directly within the EC2 instance and allow applications running on the instance to use those credentials.
 >
-> **[3:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=218)** As you can imagine, this is a security risk.
+> **[3:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=218)** As you can imagine, this is a [[Security Risk]].
 >
 > **[3:41](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/iam-best-practices?u=76281980&t=221)** A secure way to grant permissions to the application is to create an IAM role with the required permissions and attach it to the EC2 instance.
 >
@@ -1022,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), next (5), [[Security]] (3), [[Amazon EC2|Ec2]] (3), application (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[JSON]] (1), [[Amazon EC2]] (1), [[Security Risk]] (1)
 > **Env Vars:** aws (19), iam (10), ec2 (4), json (1)
 > **CLI Commands:** aws (19)
 > **Analogies:** for example (1), imagine (1), such as (1)
@@ -1036,12 +1025,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Amazon Machine Image
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-machine-image?u=76281980)
+#### [Amazon Machine Image](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-machine-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-machine-image?u=76281980&t=0)** - [Instructor] AWS provides scalable compute capacity in the form of virtual machines, known as EC2 instances.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-machine-image?u=76281980&t=0)** - [Instructor] AWS provides scalable compute capacity in the form of [[Virtual Machines]], known as [[Amazon EC2|EC2]] instances.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-machine-image?u=76281980&t=7)** These instances are powered by preconfigured templates known as Amazon Machine Images, or AMIs, that package the bits needed for your instances, such as operating system and additional software.
 >
@@ -1143,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Amazon EC2|Ec2]] (5), management (2), [[Virtual Machines]] (1), feature (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Virtual Machines]] (1)
 > **Env Vars:** ami (19), aws (8), ec2 (5), ebs (5), ena (1)
 > **CLI Commands:** aws (8), find (4)
 > **Definitions:** known as (2), means that (2), is an  (2), in other words (1)
@@ -1152,12 +1140,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1), install (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### EBS volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980)
+#### [EBS volumes](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=0)** - [Instructor] Amazon EBS, or Elastic Block Store, provides block-level storage for EC2 instances.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=0)** - [Instructor] Amazon EBS, or Elastic Block Store, provides block-level storage for [[Amazon EC2|EC2]] instances.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=6)** EBS volumes are raw, unformatted block devices, so you can create a file system on top of these volumes or use them in any way you would use a block device, just like how you'd use a hard drive.
 >
@@ -1165,11 +1152,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=23)** So you can terminate your EC2 instance, but continue to retain the EBS volume attached to it.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=28)** EBS volumes are well suited for use as the primary storage for file systems and databases or applications requiring access to raw, unformatted block-level storage.
+> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=28)** EBS volumes are well suited for use as the primary storage for file systems and [[Databases]] or applications requiring access to raw, unformatted block-level storage.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=40)** EBS volumes support encryption using AES-256 and an Amazon-managed key infrastructure.
 >
-> **[0:46](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=46)** This allows you to meet your data at rest encryption requirements.
+> **[0:46](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=46)** This allows you to meet your data at [[Representational State Transfer (REST)|rest]] encryption requirements.
 >
 > **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=50)** EBS volumes are available in two main types, solid-state drives or SSD.
 >
@@ -1177,7 +1164,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=63)** And the second type is hard disk drives or HDD.
 >
-> **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=67)** These are optimized for large streaming workloads, like big data and log processing.
+> **[1:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=67)** These are optimized for large streaming workloads, like [[Big Data]] and log processing.
 >
 > **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=73)** SSD and HDD volume types are classified into subtypes, each supporting a specific use case and performance requirement.
 >
@@ -1187,7 +1174,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=91)** You can restore these snapshots to create new EBS volumes or move your existing volumes across availability zones.
 >
-> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=98)** Now let's switch to the Amazon EC2 console and look at EBS volumes.
+> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=98)** Now let's switch to the [[Amazon EC2]] console and look at EBS volumes.
 >
 > **[1:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ebs-volumes?u=76281980&t=104)** From the Amazon EC2 console, click Volumes on the left navigation pane.
 >
@@ -1235,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Databases]] (2), [[Amazon EC2]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Databases]] (2), [[Amazon EC2]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
 > **Env Vars:** ebs (14), ec2 (8), iops (4), hdd (3), ssd (2)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** find (2)
@@ -1244,14 +1231,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Launching an EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980)
+#### [Launching an EC2 instance](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=0)** - [Instructor] An important aspect of an administrator's job is to create and manage virtual machines.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=0)** - [Instructor] An important aspect of an administrator's job is to create and manage [[Virtual Machines]].
 >
-> **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=5)** Virtual machines on AWS are known as EC2 instances or elastic compute cloud instances.
+> **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=5)** Virtual machines on AWS are known as [[Amazon EC2|EC2]] instances or elastic compute cloud instances.
 >
 > **[0:11](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=11)** Let's understand how to create EC2 instances.
 >
@@ -1259,7 +1245,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=22)** The first step is to select an AMI.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=25)** For this example, select a Windows server base AMI.
+> **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=25)** For this example, select a [[Windows Server]] base AMI.
 >
 > **[0:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=35)** In the second step, you will select an instance type.
 >
@@ -1283,13 +1269,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=89)** Important ones include the number of instances, purchasing option, network, subnet, IAM role, and user data.
 >
-> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=102)** If you'd like to learn more about these settings in detail, please refer to my course titled Amazon EC2 Fundamentals in the LinkedIn Learning Library.
+> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=102)** If you'd like to learn more about these settings in detail, please refer to my course titled [[Amazon EC2]] Fundamentals in the [[LinkedIn]] Learning Library.
 >
 > **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=110)** For now, ensure that you set auto assign public IP to enable so that the instance will receive a public IP address.
 >
 > **[1:59](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=119)** Click next, add storage.
 >
-> **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=122)** In this step, you will see the root volume that AWS will attach to the instance which is 30 GB for Windows instances.
+> **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=122)** In this step, you will see the root volume that AWS will attach to the instance which is 30 GB for [[Windows]] instances.
 >
 > **[2:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=130)** Note that you have the option to attach additional volumes.
 >
@@ -1317,7 +1303,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=177)** Note that a rule to allow inbound RDP traffic is already defined because you selected a Windows AMI.
 >
-> **[3:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=185)** If you had chosen a Linux AMI, a default rule to allow SSH will be configured.
+> **[3:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=185)** If you had chosen a [[Linux]] AMI, a default rule to allow SSH will be configured.
 >
 > **[3:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launching-an-ec2-instance?u=76281980&t=190)** Set the source of this rule to anywhere.
 >
@@ -1355,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), next (5), [[Security]] (5), traffic (5), aws (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Virtual Machines]] (2), [[Windows]] (2), [[Windows Server]] (1), [[Amazon EC2]] (1)
 > **Env Vars:** ec2 (6), aws (4), ami (4), rdp (2), cpu (1)
 > **CLI Commands:** aws (4), find (1), ssh (1)
 > **Prerequisites:** configure (5)
@@ -1364,12 +1350,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Definitions:** known as (1), is a  (1)
 
-#### Connect to the EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980)
+#### [Connect to the EC2 instance](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=0)** - [Instructor] With the EC2 instance up and running it's now time to connect to it.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=0)** - [Instructor] With the [[Amazon EC2|EC2]] instance up and running it's now time to connect to it.
 >
 > **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=4)** To connect, you will require the public IP address of the instance.
 >
@@ -1379,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=21)** The to connect are the same.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=23)** If you're trying from a Windows, Linux, or Macintosh computer.
+> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=23)** If you're trying from a [[Windows]], [[Linux]], or Macintosh computer.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=27)** Open a remote desktop client and add the IP address you copied.
 >
@@ -1437,11 +1422,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=174)** You will find more information about this in the EC2 documentation.
 >
-> **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=178)** You'll also find this and more related information in the Amazon EC2 Fundamentals course in the LinkedIn Learning Library.
+> **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/connect-to-the-ec2-instance?u=76281980&t=178)** You'll also find this and more related information in the [[Amazon EC2]] Fundamentals course in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Amazon EC2|Ec2]] (6), [[Windows]] (3), next (2), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Amazon EC2|Ec2]] (6), [[Windows]] (3), [[Amazon EC2]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ec2 (6), ssh (3), rdp (2)
 > **CLI Commands:** ssh (4), find (2), chmod (1)
 > **UI Navigation:** select the (1), navigate to (1)
@@ -1450,12 +1435,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Launch templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980)
+#### [Launch templates](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=0)** - [Instructor] In the previous video, we looked at the steps to launch an EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=0)** - [Instructor] In the previous video, we looked at the steps to launch an [[Amazon EC2|EC2]] instance.
 >
 > **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=4)** In total there were seven steps to complete to launch an instance.
 >
@@ -1477,7 +1461,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=59)** When you launch an instance from a Launch Template you can use any Launch Template version.
 >
-> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=65)** For example, consider a Launch Template named Linux Server Template.
+> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=65)** For example, consider a Launch Template named [[Linux]] Server Template.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/launch-templates?u=76281980&t=70)** It has three versions.
 >
@@ -1565,7 +1549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Amazon EC2|Ec2]] (4), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Linux]] (2)
 > **Exercise Files:** template (26)
 > **Env Vars:** ami (6), ec2 (4)
 > **UI Navigation:** select the (4), switch to (1), click on (1), navigate to (1), scroll down (1)
@@ -1574,12 +1558,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** previous video (1)
 
-#### Elastic IP and Elastic Network Interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/elastic-ip-and-elastic-network-interface?u=76281980)
+#### [Elastic IP and Elastic Network Interface](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/elastic-ip-and-elastic-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/elastic-ip-and-elastic-network-interface?u=76281980&t=0)** - [Instructor] Each EC2 instance has a default network interface, or in other words, an elastic network interface, known as the primary network interface.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/elastic-ip-and-elastic-network-interface?u=76281980&t=0)** - [Instructor] Each [[Amazon EC2|EC2]] instance has a default network interface, or in other words, an elastic network interface, known as the primary network interface.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/elastic-ip-and-elastic-network-interface?u=76281980&t=8)** An elastic network interface is a logical networking component, that represents a virtual network card.
 >
@@ -1713,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), traffic (4), aws (3), management (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5)
 > **Env Vars:** ec2 (5), aws (3), mac (1), ips (1)
 > **UI Navigation:** select the (5), switch to (1), navigate to (1)
 > **CLI Commands:** aws (3), find (1), make (1)
@@ -1722,14 +1705,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** remember to (1)
 
-#### Security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/security-groups?u=76281980)
+#### [Security groups](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/security-groups?u=76281980&t=0)** - [Instructor] In an earlier video, we spoke about security groups.
 >
-> **[0:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/security-groups?u=76281980&t=3)** You can use them to regulate traffic for EC2 instances.
+> **[0:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/security-groups?u=76281980&t=3)** You can use them to regulate traffic for [[Amazon EC2|EC2]] instances.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/security-groups?u=76281980&t=7)** Now, let's dive into the details.
 >
@@ -1829,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (31), traffic (17), [[Amazon EC2|Ec2]] (5)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5)
 > **Env Vars:** ec2 (5), tcp (3), vpc (1), udp (1)
 > **Prerequisites:** configure (4)
 > **Analogies:** for example (2), imagine (1)
@@ -1838,14 +1820,13 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), select the (1)
 > **Definitions:** is an  (1)
 
-#### Snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/snapshots?u=76281980)
+#### [Snapshots](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/snapshots?u=76281980&t=0)** - In an earlier video, we talked about EBS volumes.
 >
-> **[0:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/snapshots?u=76281980&t=3)** They provide persistent, block-level storage for EC2 instances.
+> **[0:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/snapshots?u=76281980&t=3)** They provide persistent, block-level storage for [[Amazon EC2|EC2]] instances.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/snapshots?u=76281980&t=7)** You can back up the data on your EPS volumes by taking point-in-time snapshots.
 >
@@ -1959,7 +1940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), aws (4), [[Amazon EC2|Ec2]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** ebs (9), aws (4), ec2 (3), eps (1)
 > **CLI Commands:** aws (4), find (2), make (2)
 > **UI Navigation:** select the (2), switch to (1), dropdown (1), navigate to (1)
@@ -1968,12 +1949,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 
-#### EC2 purchasing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980)
+#### [EC2 purchasing options](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=0)** - [Instructor] Amazon EC2 various purchasing options for EC2 instances, allowing you to choose a suitable model for your use case.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=0)** - [Instructor] [[Amazon EC2]] various purchasing options for [[Amazon EC2|EC2]] instances, allowing you to choose a suitable model for your use case.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=8)** The available options are on-demand instances, spot instances, reserved instances, dedicated hosts, dedicated instances, savings plans and capacity reservations.
 >
@@ -2025,7 +2005,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=203)** Now, let's talk about dedicated instances and dedicated hosts.
 >
-> **[3:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=208)** As the name suggests, a dedicated instance is an instance that runs on hardware that is dedicated to a single customer.
+> **[3:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=208)** As the name suggests, a dedicated instance is an instance that runs on [[Hardware]] that is dedicated to a single customer.
 >
 > **[3:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=216)** It is a good fit for workloads that need to run on dedicated hardware, like for compliance reasons.
 >
@@ -2037,7 +2017,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=235)** A dedicated host gives you the visibility into the number of sockets and physical cores.
 >
-> **[4:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=240)** So if you have existing per-socket, per-core or per-VM software licenses, like Windows servers, Microsoft SQL Server, SUSE and Linux Enterprise Server, you can bring them over to dedicated hosts.
+> **[4:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=240)** So if you have existing per-socket, per-core or per-VM software licenses, like [[Windows]] servers, [[Microsoft SQL Server]], SUSE and [[Linux]] Enterprise Server, you can bring them over to dedicated hosts.
 >
 > **[4:14](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/ec2-purchasing-options?u=76281980&t=254)** So if you need dedicated hardware to run your instances, a dedicated instance is a good fit.
 >
@@ -2077,7 +2057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10), [[Hardware]] (4), aws (3), [[Amazon EC2]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (10), [[Hardware]] (4), [[Amazon EC2]] (1), [[Windows]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** ec2 (11), aws (3), sql (1), suse (1)
 > **Definitions:** is a  (4), known as (2), is an  (1)
 > **CLI Commands:** aws (3), find (1), make (1)
@@ -2085,12 +2065,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980)
+#### [Lambda](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=0)** - [Instructor] In the previous videos we saw that Amazon EC2 allows you to deploy servers in the AWS Cloud.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=0)** - [Instructor] In the previous videos we saw that [[Amazon EC2]] allows you to deploy servers in the AWS Cloud.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=6)** AWS has another service called Lambda, that provides serverless compute capacity.
 >
@@ -2108,13 +2087,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=50)** Administrators find Lambda to be a valuable service as it frees them from having to manage servers to host and run code.
 >
-> **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=58)** AWS Lambda natively supports Java, Go, PowerShell, Node.js, C#, Python, and Ruby code.
+> **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=58)** AWS Lambda natively supports [[Java]], Go, [[Powershell]], [[Node.js]], C#, [[Python (Programming Language)|Python]], and Ruby code.
 >
 > **[1:09](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=69)** It also provides a runtime API that allows you to use any additional programming languages to author your functions.
 >
 > **[1:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=76)** Now, let's switch to the AWS management console and learn how to create and run a Lambda function.
 >
-> **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=83)** Let's create a function will automatically stop an EC2 instance.
+> **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=83)** Let's create a function will automatically stop an [[Amazon EC2|EC2]] instance.
 >
 > **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=87)** So, to follow along this exercise, make sure that you've got a running EC2 instance.
 >
@@ -2126,7 +2105,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=113)** On the left navigation pane click, Policies, and then click, Create Policy.
 >
-> **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=121)** Switch to the JSON editor.
+> **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=121)** Switch to the [[JSON]] editor.
 >
 > **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/lambda?u=76281980&t=124)** To save some time we are going to add a policy definition from an AWS support article.
 >
@@ -2226,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (7), next (3), [[Python (Programming Language)|Python]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Python (Programming Language)|Python]] (2), [[JSON]] (2), [[Amazon EC2]] (1), [[Java]] (1)
 > **Env Vars:** ec2 (8), aws (7), iam (4), json (2), api (1)
 > **CLI Commands:** aws (7), find (5), python (2), make (2), node (1)
 > **UI Navigation:** navigate to (3), select the (3), switch to (2), scroll down (2), go to (1)
@@ -2240,8 +2219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Amazon S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980)
+#### [Amazon S3](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2253,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=17)** Data is stored as objects within buckets.
 >
-> **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=20)** An object is a file and any metadata that describes the file, while a bucket is a container for objects.
+> **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=20)** An object is a file and any [[Metadata]] that describes the file, while a bucket is a container for objects.
 >
 > **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=27)** So, to start using Amazon S3, you will first create a bucket.
 >
@@ -2333,7 +2311,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=280)** We'll talk more about this later in the course.
 >
-> **[4:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=283)** Please refer to my course titled AWS Cost and Performance Optimization for a detailed understanding of cost allocation tags available in the LinkedIn Learning library.
+> **[4:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=283)** Please refer to my course titled AWS Cost and Performance Optimization for a detailed understanding of cost allocation tags available in the [[LinkedIn]] Learning library.
 >
 > **[4:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=293)** By default, all Amazon S3 resources are private.
 >
@@ -2343,7 +2321,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=308)** Doing so allows you to decide who is getting the permissions, which S3 resources they're getting permissions for, and the specific actions you want to allow on those resources.
 >
-> **[5:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=319)** Amazon S3 also supports protecting data while in transit and at rest.
+> **[5:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=319)** Amazon S3 also supports protecting data while in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[5:25](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-s3?u=76281980&t=325)** You can protect data in transit using SSL/TLS or client-side encryption.
 >
@@ -2359,7 +2337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), aws (6), feature (2), [[Representational State Transfer (REST)|Rest]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Metadata]] (1), [[LinkedIn]] (1)
 > **Env Vars:** aws (6), worm (1), ssl (1), tls (1)
 > **CLI Commands:** aws (6), find (2)
 > **Definitions:** is a  (3), is an  (1), stands for (1), known as (1)
@@ -2368,8 +2346,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Prerequisites:** configure (1)
 
-#### Configure an S3 bucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-an-s3-bucket?u=76281980)
+#### [Configure an S3 bucket](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-an-s3-bucket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2539,7 +2516,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), aws (5), management (4), feature (4), next (1)
 > **CLI Commands:** aws (5), find (4)
 > **Env Vars:** aws (5), acls (2), kms (1), iam (1)
 > **UI Navigation:** scroll down (2), dropdown (1), navigate to (1), go to (1)
@@ -2548,8 +2524,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### S3 Glacier
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980)
+#### [S3 Glacier](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2561,13 +2536,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=22)** These storage classes are incredibly low cost and aimed at long-term backup for months, years, or even decades.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=30)** Using Glacier, administrators can offload critical storage related tasks commonly found in on-premises environments such as capacity planning, hardware provisioning, data replication, and hardware failure detection and recovery.
+> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=30)** Using Glacier, administrators can offload critical storage related tasks commonly found in on-premises environments such as [[Capacity Planning]], [[Hardware]] provisioning, data replication, and hardware failure detection and recovery.
 >
 > **[0:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=44)** There's a couple of ways by which you can store your files in Glacier.
 >
 > **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=48)** One way is to upload objects to an S3 bucket and use one of the Glacier storage classes.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=54)** Another way is to use the AWS CLI.
+> **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=54)** Another way is to use the AWS [[CLI]].
 >
 > **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/s3-glacier?u=76281980&t=57)** It is important to note that when you upload objects to Glacier using the first method, that is using an S3 bucket, you can't access them from the S3 Glacier service console even though internally, the objects are stored in Glacier.
 >
@@ -2707,7 +2682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), data (6), [[CLI]] (4), [[Hardware]] (2), management (2)
+> **Frameworks & Libraries:** [[CLI]] (4), [[Hardware]] (2), [[Capacity Planning]] (1)
 > **CLI Commands:** aws (9), make (2), find (1)
 > **Env Vars:** aws (6), cli (4)
 > **UI Navigation:** navigate to (2), switch to (2), select the (1)
@@ -2716,14 +2691,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **Warnings:** note that (2)
 
-#### Amazon EFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980)
+#### [Amazon EFS](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=0)** - [Instructor] In an on-premises environment, it is common to have a file sharing service that allows users to share files and documents, and collaborate with other users.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=10)** AWS has a similar service known as elastic file system, or EFS, for use with AWS cloud services and on-premises resources.
+> **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=10)** AWS has a similar service known as elastic file system, or EFS, for use with AWS [[Cloud Services]] and on-premises resources.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=18)** It is serverless and scales automatically as you add and remove files, eliminating the need to provision and manage capacity to accommodate growth, which is a common concern in on-premises environments.
 >
@@ -2745,13 +2719,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=71)** And as you would expect, Amazon EFS supports authentication, authorization, and encryption.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=77)** It supports encryption in transit and at rest.
+> **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=77)** It supports encryption in transit and at [[Representational State Transfer (REST)|rest]].
 >
-> **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=80)** To start using EFS, you will first create a file system and then mount it on an Amazon EC2 instance.
+> **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=80)** To start using EFS, you will first create a file system and then mount it on an [[Amazon EC2]] instance.
 >
-> **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=87)** Bear in mind that you can only use EFS on a Linux instance.
+> **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=87)** Bear in mind that you can only use EFS on a [[Linux]] instance.
 >
-> **[1:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=92)** You cannot use EFS with a Microsoft Windows-based instance.
+> **[1:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=92)** You cannot use EFS with a [[Microsoft]] [[Windows]]-based instance.
 >
 > **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=96)** You will find the list of supported AMIs in the EFS documentation.
 >
@@ -2777,7 +2751,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=143)** Here, you will find the mount targets that EFS has created in each availability zone.
 >
-> **[2:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=149)** To use the file system, you will need to mount it on an EC2 instance.
+> **[2:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=149)** To use the file system, you will need to mount it on an [[Amazon EC2|EC2]] instance.
 >
 > **[2:34](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-efs?u=76281980&t=154)** From the services drop-down menu navigate to the EC2 service.
 >
@@ -2839,7 +2813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Windows]] (4), [[Amazon EC2|Ec2]] (4), [[Linux]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Amazon EC2|Ec2]] (4), [[Linux]] (3), [[Cloud Services]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** efs (18), aws (7), ec2 (5), vpc (1), ami (1)
 > **CLI Commands:** aws (7), find (2), ssh (1), cd (1)
 > **UI Navigation:** navigate to (3), select the (2), switch to (1), scroll down (1)
@@ -2848,16 +2822,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 
-#### Amazon FSx for Windows File Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980)
+#### [Amazon FSx for Windows File Server](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=0)** - In an earlier video, we looked at Amazon EFS, or Elastic File System, a file system for use with Linux instances.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=0)** - In an earlier video, we looked at Amazon EFS, or Elastic File System, a file system for use with [[Linux]] instances.
 >
-> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=8)** AWS also has a file server for use with Windows instances and it is called Amazon FSx for Windows File Server.
+> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=8)** AWS also has a file server for use with [[Windows]] instances and it is called Amazon FSx for Windows File Server.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=15)** It is a fully managed service, eliminating the administrative overhead of provisioning hardware, maintaining software, addressing failures and performing backups.
+> **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=15)** It is a fully managed service, eliminating the administrative overhead of provisioning [[Hardware]], maintaining software, addressing failures and performing backups.
 >
 > **[0:25](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=25)** It is backed by a fully native Windows file system, and supports the industry standard Server Message Block, or SMB protocol, to access file storage over a network.
 >
@@ -2871,11 +2844,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=57)** You can access your shares from all Windows versions, starting from Windows 2008 and Windows 7, and current Linux versions.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=66)** You can also map your FSx shares on EC2 instances, Amazon WorkSpaces instances, Amazon AppStream 2.0 instances, and VMware Cloud on AWS VMs.
+> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=66)** You can also map your FSx shares on [[Amazon EC2|EC2]] instances, Amazon WorkSpaces instances, Amazon AppStream 2.0 instances, and VMware Cloud on AWS VMs.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=77)** Now, let's get to the configuration.
 >
-> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=79)** To perform the exercises in this demonstration, you will need an AWS Managed or Self-managed Microsoft Active Directory.
+> **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=79)** To perform the exercises in this demonstration, you will need an AWS Managed or Self-managed [[Microsoft]] [[Active Directory]].
 >
 > **[1:26](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-fsx-for-windows-file-server?u=76281980&t=86)** If you don't have one already, you can create one when creating the file system.
 >
@@ -3001,7 +2974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), [[Active Directory]] (7), aws (6), [[Security]] (5), [[Microsoft]] (4)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Active Directory]] (7), [[Microsoft]] (4), [[Linux]] (2), [[Hardware]] (1)
 > **Env Vars:** aws (6), smb (3), dns (3), efs (2), ec2 (1)
 > **UI Navigation:** right-click (3), navigate to (2), go to (2), open the (2), switch to (2)
 > **CLI Commands:** aws (6), az (2), make (1), find (1)
@@ -3010,12 +2983,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), required to (1)
 > **Versions:** 2.0 (1)
 
-#### Cloud storage with AWS storage gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980)
+#### [Cloud storage with AWS storage gateway](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=0)** - [Instructor] One of the challenges businesses face when moving to the cloud is bridging the gap between their on-premises environment and the cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=0)** - [Instructor] One of the challenges businesses face when moving to the cloud is bridging the gap between their on-premises environment and the [[Cloud Infrastructure]].
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=7)** You may want to use cloud backed storage but your applications still need to remain on-premises, maybe because they're legacy applications, or simply because it's a complex migration.
 >
@@ -3025,7 +2997,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=26)** This is a win-win for businesses and administrators.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=29)** Businesses benefit from having access to virtually unlimited, low latency cloud backed storage, while administrators benefit from having a simplified storage management solution.
+> **[0:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=29)** Businesses benefit from having access to virtually unlimited, low latency cloud backed storage, while administrators benefit from having a simplified [[Storage Management]] solution.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=40)** And it's easy for developers too because they don't need to change application code.
 >
@@ -3035,7 +3007,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=54)** With the Amazon S3 file gateway You will store and retrieve objects from Amazon S3, using standard protocols such as Network File System or NFS, and Server Message Block or SMB.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=66)** Amazon FSx file gateway allows you to create file shares on a Windows file server.
+> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=66)** Amazon FSx file gateway allows you to create file shares on a [[Windows]] file server.
 >
 > **[1:11](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=71)** Volume-based file gateways provide storage volumes that you can mount as iSCSI devices from your on-premises application servers, it supports cached and stored volume configuration.
 >
@@ -3043,13 +3015,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=90)** Many of you may know about the effort involved in maintaining a physical tape infrastructure, and the tape-based gateway frees you from that.
 >
-> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=98)** Regardless of the type, the gateway is a software appliance you deploy in your on-premises environment as a virtual machine running on VMware ESXi, Microsoft HyperV, or Linux KVM Hypervisor.
+> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=98)** Regardless of the type, the gateway is a software appliance you deploy in your on-premises environment as a virtual machine running on VMware ESXi, [[Microsoft]] HyperV, or [[Linux]] KVM Hypervisor.
 >
-> **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=110)** You can also deploy the gateway on an Amazon EC2 instance, using a specific file gateway AMI, we'll use it in this video.
+> **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=110)** You can also deploy the gateway on an [[Amazon EC2]] instance, using a specific file gateway AMI, we'll use it in this video.
 >
 > **[1:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=117)** Now let's look at the configuration.
 >
-> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=120)** We'll understand how to deploy an Amazon S3 file gateway on an EC2 instance.
+> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=120)** We'll understand how to deploy an Amazon S3 file gateway on an [[Amazon EC2|EC2]] instance.
 >
 > **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=124)** Once deployed, we'll create a file share that connects to an S3 bucket.
 >
@@ -3067,7 +3039,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=160)** Before proceeding further, it's worth noting the prerequisites.
 >
-> **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=164)** You will need an S3 bucket to connect to the gateway, you will also need an IAM role with appropriate permissions, you will also need to ensure that port requirements are met, the storage gateway documentation explains this in detail, and if you plan to use SMB file shares with Active Directory Authentication, you will need an administrator user account.
+> **[2:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=164)** You will need an S3 bucket to connect to the gateway, you will also need an IAM role with appropriate permissions, you will also need to ensure that port requirements are met, the storage gateway documentation explains this in detail, and if you plan to use SMB file shares with [[Active Directory]] Authentication, you will need an administrator user account.
 >
 > **[3:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloud-storage-with-aws-storage-gateway?u=76281980&t=184)** Click next.
 >
@@ -3225,7 +3197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (11), aws (7), cloud (6), [[Amazon EC2|Ec2]] (3), traffic (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Linux]] (2), [[Amazon EC2]] (2), [[Cloud Infrastructure]] (1), [[Storage Management]] (1)
 > **Env Vars:** aws (7), ec2 (5), nfs (4), smb (2), ami (2)
 > **UI Navigation:** select the (5), dropdown (3), navigate to (2), open the (1), switch to (1)
 > **CLI Commands:** aws (7), make (1), sudo (1), cat (1), cp (1)
@@ -3234,8 +3206,7 @@ created: 2026-05-02
 > **Analogies:** such as (3)
 > **Warnings:** note that (3)
 
-#### AWS Backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-backup?u=76281980)
+#### [AWS Backup](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3265,7 +3236,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-backup?u=76281980&t=84)** You can backup the following resources using AWS backup.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-backup?u=76281980&t=88)** Amazon FSx, Elastic File System or EFS, DynamoDB, EC2, Elastic Block Store or EBS, Relational Database Service or RDS, Amazon Aurora, AWS Storage Gateway and Windows Volume Shadow Copy Service.
+> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-backup?u=76281980&t=88)** Amazon FSx, Elastic File System or EFS, DynamoDB, [[Amazon EC2|EC2]], Elastic Block Store or EBS, Relational Database Service or RDS, Amazon Aurora, AWS Storage Gateway and [[Windows]] Volume Shadow Copy Service.
 >
 > **[1:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-backup?u=76281980&t=108)** This list can change, so please refer to the AWS Backup Documentation for the latest information.
 >
@@ -3421,7 +3392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (23), [[Amazon EC2|Ec2]] (7), data (4), management (2), database (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Windows]] (1)
 > **Env Vars:** aws (23), ec2 (7), ebs (3), utc (2), iam (2)
 > **CLI Commands:** aws (23)
 > **Prerequisites:** configure (6), set up (2), required to (1), you'll need (1)
@@ -3435,12 +3406,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980)
+#### [CloudWatch](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=0)** - [Instructor] The responsibilities of administrators include EC2 key aspects: monitoring and logging.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=0)** - [Instructor] The responsibilities of administrators include [[Amazon EC2|EC2]] key aspects: monitoring and logging.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=6)** In this video and the following two, we'll focus on the tools to help you with these two aspects.
 >
@@ -3448,7 +3418,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=14)** CloudWatch is an AWS service that collects monitoring and operational data in the form of logs, metrics, and events, providing you with a unified view of your AWS resources, applications, and services that you run on AWS and on-premises servers.
 >
-> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=30)** With CloudWatch, you can monitor usage of your workloads and applications, set alarms to monitor and get notified when resource utilization breaches a configured threshold, configure dashboards that give you a bird's eye view of your account, take automated actions in response to events, detect anomalous behavior in your environment, and visualize logs and metrics side by side.
+> **[0:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=30)** With CloudWatch, you can monitor usage of your workloads and applications, set alarms to monitor and get notified when resource utilization breaches a configured threshold, configure [[Dashboards]] that give you a bird's eye view of your account, take automated actions in response to events, detect anomalous behavior in your environment, and visualize logs and metrics side by side.
 >
 > **[0:56](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=56)** In this video, I'd like to introduce you to those capabilities that you as an administrator will find most useful, precisely monitoring, setting alarms, configuring dashboards, and visualizing logs.
 >
@@ -3462,11 +3432,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=89)** You can also collect detailed operating system and application-related metrics by installing the CloudWatch agent on the instance.
 >
-> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=96)** You can install it on a variety of operating systems, both on Amazon EC2 and on-premises servers.
+> **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=96)** You can install it on a variety of operating systems, both on [[Amazon EC2]] and on-premises servers.
 >
 > **[1:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=103)** To know about how you can install the agent for your preferred operating system, please refer to the CloudWatch documentation.
 >
-> **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=110)** I also explained this in detail in my LinkedIn Learning course titled AWS Monitoring and Reporting.
+> **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=110)** I also explained this in detail in my [[LinkedIn]] Learning course titled AWS Monitoring and Reporting.
 >
 > **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudwatch?u=76281980&t=115)** Before navigating away from here, copy the instance ID.
 >
@@ -3636,7 +3606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), aws (8), [[Dashboards]] (5), data (4), next (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (9), [[Dashboards]] (5), [[Amazon EC2]] (1), [[LinkedIn]] (1)
 > **Env Vars:** ec2 (10), aws (8), cpu (5), vpc (4), iam (3)
 > **CLI Commands:** aws (8), find (6), make (1)
 > **UI Navigation:** navigate to (4), select the (4), dropdown (2), go to (1), scroll down (1)
@@ -3645,8 +3615,7 @@ created: 2026-05-02
 > **Analogies:** for example (3), imagine (2), such as (1)
 > **Code Identifiers:** bytestransferred (1)
 
-#### CloudTrail
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980)
+#### [CloudTrail](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3686,7 +3655,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=109)** So this trail will log events from all AWS regions.
 >
-> **[1:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=113)** If you'd like to log events in a single region you will need to use the AWS CLI, though AWS does not recommend doing so.
+> **[1:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=113)** If you'd like to log events in a single region you will need to use the AWS [[CLI]], though AWS does not recommend doing so.
 >
 > **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=121)** Provide a name for the trail, then choose to create a new S3 bucket or select an existing bucket.
 >
@@ -3732,7 +3701,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=225)** Select the log file and click Download.
 >
-> **[3:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=229)** Once downloaded, you can use a JSON reader to view details.
+> **[3:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=229)** Once downloaded, you can use a [[JSON]] reader to view details.
 >
 > **[3:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cloudtrail?u=76281980&t=233)** Now I'm going to switch to another AWS account where I have a trail that captures Insights events.
 >
@@ -3768,7 +3737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (18), management (6), next (2), [[CLI]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[JSON]] (1)
 > **Env Vars:** aws (18), sns (2), cli (1), json (1), api (1)
 > **CLI Commands:** aws (18), find (1)
 > **UI Navigation:** switch to (2), navigate to (2), dropdown (1), select the (1)
@@ -3777,8 +3746,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** command line (1)
 
-#### EventBridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980)
+#### [EventBridge](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3800,7 +3768,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=49)** First is to configure a pattern to match events.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=52)** For example, the EC2 service creating a snapshot of an EBS volume is an example of an event, or when the state of a CloudWatch alarm has changed.
+> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=52)** For example, the [[Amazon EC2|EC2]] service creating a snapshot of an EBS volume is an example of an event, or when the state of a CloudWatch alarm has changed.
 >
 > **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=62)** When a pattern match occurs, EventBridge will invoke the configure target.
 >
@@ -3890,13 +3858,13 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=320)** As you've seen, EventBridge allows you to seamlessly connect events across services and build decoupled event-driven architectures.
 >
-> **[5:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=328)** It also allows you to connect events from third party software as a service applications such as Shopify, MongoDB, Salesforce and more.
+> **[5:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=328)** It also allows you to connect events from third party [[SaaS|software as a service]] applications such as Shopify, [[MongoDB]], Salesforce and more.
 >
 > **[5:37](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/eventbridge?u=76281980&t=337)** Lastly, make sure that you delete the rules that you've configured in this exercise as automatic snapshot creation can add to your storage costs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (5), data (2), management (2), cloud (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[SaaS|Software as a service]] (1), [[MongoDB]] (1)
 > **Env Vars:** ec2 (6), aws (5), ebs (5), sns (2), http (1)
 > **UI Navigation:** select the (4), dropdown (4), scroll down (2), switch to (1), navigate to (1)
 > **CLI Commands:** aws (5), make (1)
@@ -3910,8 +3878,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access Analyzer
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/access-analyzer?u=76281980)
+#### [Access Analyzer](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/access-analyzer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4035,7 +4002,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), management (2), data (1), [[Security]] (1)
 > **Env Vars:** iam (5), aws (5), kms (2), sqs (1), acl (1)
 > **UI Navigation:** go to (2), scroll down (2), navigate to (2), switch to (1), dropdown (1)
 > **CLI Commands:** aws (5), find (3)
@@ -4043,9 +4009,9 @@ created: 2026-05-02
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** imagine (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
-#### Managing keys and secrets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980)
+#### [Managing keys and secrets](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4101,7 +4067,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=125)** In this step, you can choose the IM Rules and users allowed to administer this key.
 >
-> **[2:11](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=131)** Typically, you would want this permission to rest with specific accounts only.
+> **[2:11](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=131)** Typically, you would want this permission to [[Representational State Transfer (REST)|rest]] with specific accounts only.
 >
 > **[2:16](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=136)** Click next.
 >
@@ -4119,7 +4085,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=163)** The key has been created and will be available when you try to perform an operation like encryption.
 >
-> **[2:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=170)** For example, let's navigate to the EC2 service.
+> **[2:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=170)** For example, let's navigate to the [[Amazon EC2|EC2]] service.
 >
 > **[2:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/managing-keys-and-secrets?u=76281980&t=177)** On the left navigation pane, click volumes, and then click create volume.
 >
@@ -4225,7 +4191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (15), next (10), application (8), database (8), [[Security]] (4)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (15), kms (7), ec2 (1), api (1), rds (1)
 > **CLI Commands:** aws (15), find (1)
 > **UI Navigation:** select the (4), go to (3), switch to (2), dropdown (2), navigate to (2)
@@ -4234,8 +4200,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** aws console (1)
 
-#### Amazon GuardDuty
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980)
+#### [Amazon GuardDuty](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4249,11 +4214,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=39)** Each finding has a severity level within the range of 0.1 to 8.9, that reflects the potential risk the finding could have in your network.
 >
-> **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=47)** A higher value indicates a higher security risk.
+> **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=47)** A higher value indicates a higher [[Security Risk]].
 >
-> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=50)** For EC2 instances, some of the findings that GuardDuty detects include backdoors, unusual behavior, cryptocurrency related activity, Trojans, unauthorized access, and more.
+> **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=50)** For [[Amazon EC2|EC2]] instances, some of the findings that GuardDuty detects include backdoors, unusual behavior, [[Cryptocurrency]] related activity, Trojans, unauthorized access, and more.
 >
-> **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=63)** For S3 findings include, penetration testing, unauthorized access, attempts to discover resources in your AWS account, attempts to modify access permissions on an S3 bucket, and more.
+> **[1:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=63)** For S3 findings include, [[Penetration Testing]], unauthorized access, attempts to discover resources in your AWS account, attempts to modify access permissions on an S3 bucket, and more.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/amazon-guardduty?u=76281980&t=77)** For IAM, findings include, penetration testing, unauthorized access, attempts to access credentials, attempts to evade defensive measures, attempts to obtain high level permissions, and more.
 >
@@ -4311,7 +4276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), aws (4), [[Amazon EC2|Ec2]] (3), management (2), [[Penetration Testing]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Penetration Testing]] (2), [[Security Risk]] (1), [[Cryptocurrency]] (1)
 > **Env Vars:** aws (4), ec2 (3), sns (2), vpc (1), dns (1)
 > **UI Navigation:** navigate to (2), go to (2), switch to (1), dropdown (1)
 > **CLI Commands:** aws (4), find (1)
@@ -4320,8 +4285,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), imagine (1)
 > **Prerequisites:** configure (2)
 
-#### Protect sensitive data with Amazon Macie
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980)
+#### [Protect sensitive data with Amazon Macie](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4331,7 +4295,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=15)** As you can imagine, for large organizations that use S3 as an object storage service, it can be an challenge to ensure that sensitive data is not publicly exposed and buckets are not incorrectly configured.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=28)** AWS has a service called Amazon Macie that automatically discovers sensitive data, such as personally identifiable information, personal health information, and financial data stored in your S3 buckets.
+> **[0:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=28)** AWS has a service called Amazon Macie that automatically discovers sensitive data, such as personally identifiable information, personal health information, and [[Financial Data]] stored in your S3 buckets.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=40)** It does so using managed data identifiers, which are pre-configured patterns and criteria used to detect sensitive data types for many countries and regions.
 >
@@ -4469,13 +4433,13 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=365)** Then you can invoke a target each time a finding is generated, like passing the finding details to a Lambda function, which can then send it to your security incident and event management system, or SIEM system, or you also send a notification via SMS.
 >
-> **[6:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=381)** So as you've seen, Macie is simple to configure and it can help improve your data security and data privacy.
+> **[6:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=381)** So as you've seen, Macie is simple to configure and it can help improve your [[Data Security]] and [[Data Privacy]].
 >
 > **[6:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/protect-sensitive-data-with-amazon-macie?u=76281980&t=387)** It can also be helpful in meeting regulations, such as HIPAA and GDPR.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (7), aws (5), [[Security]] (3), application (2)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Data Security]] (1), [[Data Privacy]] (1)
 > **Env Vars:** aws (5), siem (1), sms (1), hipaa (1), gdpr (1)
 > **Analogies:** such as (5), for example (2), imagine (1)
 > **UI Navigation:** select the (3), switch to (2), go to (1), navigate to (1)
@@ -4484,8 +4448,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Manage SSL certificates with AWS Certificate Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980)
+#### [Manage SSL certificates with AWS Certificate Manager](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4517,7 +4480,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=96)** They have a validated period of 13 months.
 >
-> **[1:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=100)** They are trusted by major browsers, such as Google Chrome, Mozilla Firefox, and others and they support the use of wild card names such as star.[example.com](https://example.com).
+> **[1:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=100)** They are trusted by major browsers, such as [[Google]] Chrome, Mozilla Firefox, and others and they support the use of wild card names such as star.[example.com](https://example.com).
 >
 > **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=110)** Which you can use to protect multiple domains like blog.[example.com](https://example.com) and images.[example.com](https://example.com).
 >
@@ -4573,7 +4536,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=274)** Let's look at it.
 >
-> **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=276)** First, I'll switch to the EC2 service.
+> **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=276)** First, I'll switch to the [[Amazon EC2|EC2]] service.
 >
 > **[4:41](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=281)** On the left navigation pane, I'll click Load Balancers.
 >
@@ -4619,7 +4582,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=401)** It uses an S3 bucket.
 >
-> **[6:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=403)** Or you can use OSCP, also known as Online Certificate Status Protocol.
+> **[6:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=403)** Or you can use [[OSCP]], also known as Online Certificate Status Protocol.
 >
 > **[6:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/manage-ssl-certificates-with-aws-certificate-manager?u=76281980&t=408)** If you're not sure which is the right one for you your IT infrastructure team may be able to help.
 >
@@ -4637,7 +4600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), next (6), application (5), data (2), cloud (2)
+> **Frameworks & Libraries:** [[Google]] (1), [[Amazon EC2|Ec2]] (1), [[OSCP]] (1)
 > **Env Vars:** acm (21), aws (11), ssl (4), tls (3), dns (2)
 > **CLI Commands:** aws (11)
 > **UI Navigation:** switch to (3), dropdown (2), navigate to (1), go to (1), scroll down (1)
@@ -4646,8 +4609,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), configure (2), setup (1), you'll need (1)
 > **Analogies:** such as (4)
 
-#### AWS Security Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980)
+#### [AWS Security Hub](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4659,7 +4621,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=20)** Another way is to use an automated tool.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=22)** AWS Security Hub is a service that collects security data from your AWS accounts, services and third party partner products, analyzes and compares them against security standards and best practices.
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=22)** [[AWS Security]] Hub is a service that collects security data from your AWS accounts, services and third party partner [[Microsoft Products|products]], analyzes and compares them against security standards and best practices.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=36)** With Security Hub, you can continuously and automatically review configuration, reduce the effort required to collect and prioritize for findings, get a consolidated view of findings across your AWS accounts and partner products and automate remediation of findings by integrating with services such as Amazon EventBridge.
 >
@@ -4711,7 +4673,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=175)** I'll reverse sort by severity so we are looking at the most important ones first.
 >
-> **[3:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=182)** Here I've got a critical severity finding that has failed because I do not have hardware multifactor authentication enabled for the root account.
+> **[3:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=182)** Here I've got a critical severity finding that has failed because I do not have [[Hardware]] multifactor authentication enabled for the root account.
 >
 > **[3:09](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=189)** I've already secured this account with a virtual MFA device.
 >
@@ -4763,7 +4725,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=312)** An insight is a collection of related findings and helps identify a security area that requires attention.
 >
-> **[5:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=319)** Some important ones include S3 buckets with public write or read permissions, AWS principles with suspicious access key activity, S3 buckets with sensitive data, credentials that may have leaked, EC2 instances with general unusual behavior and more.
+> **[5:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=319)** Some important ones include S3 buckets with public write or read permissions, AWS principles with suspicious access key activity, S3 buckets with sensitive data, credentials that may have leaked, [[Amazon EC2|EC2]] instances with general unusual behavior and more.
 >
 > **[5:37](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-security-hub?u=76281980&t=337)** And all generated findings are listed under the findings tab.
 >
@@ -4839,7 +4801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (31), aws (14), data (3), [[Microsoft Products|Products]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[AWS Security]] (1), [[Hardware]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (14), arn (3), iam (2), sns (2), mfa (1)
 > **CLI Commands:** aws (14), make (1), find (1)
 > **UI Navigation:** navigate to (4), go to (4), select the (4), switch to (1), click on (1)
@@ -4853,8 +4815,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS Organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-organizations?u=76281980)
+#### [AWS Organizations](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4924,14 +4885,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), management (11), business (2), [[Security]] (2)
 > **CLI Commands:** aws (13)
 > **Env Vars:** aws (13)
 > **Definitions:** known as (3), is called (2), is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an AWS Organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/create-an-aws-organization?u=76281980)
+#### [Create an AWS Organization](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/create-an-aws-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5015,7 +4974,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/create-an-aws-organization?u=76281980&t=198)** By default, member account users have full access but you can control this with SCPs.
 >
-> **[3:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/create-an-aws-organization?u=76281980&t=204)** Let's say users in the production OU account need access to the ec2 service, and you have determined that they do not need access to other services.
+> **[3:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/create-an-aws-organization?u=76281980&t=204)** Let's say users in the production OU account need access to the [[Amazon EC2|ec2]] service, and you have determined that they do not need access to other services.
 >
 > **[3:34](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/create-an-aws-organization?u=76281980&t=214)** So let's create a service control policy that will allow permissions on the ec2 service, but nothing else.
 >
@@ -5107,7 +5066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (18), management (12), [[Amazon EC2|Ec2]] (4), [[Security]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4)
 > **Env Vars:** aws (18), scp (4), iam (3)
 > **CLI Commands:** aws (18)
 > **UI Navigation:** navigate to (5), select the (4), go to (3), scroll down (2), dropdown (1)
@@ -5116,8 +5075,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Single Sign-On
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980)
+#### [AWS Single Sign-On](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5125,7 +5083,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=5)** In such situations, it becomes cumbersome for users to maintain multiple login accounts, and for administrators to manage user access to multiple applications, single sign-on in general, is an authentication method that allows users to authenticate to multiple applications using just one set of credentials.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=23)** AWS Single Sign-on is a service that allows you to centrally manage SSO access to all of your AWS accounts, and commonly used cloud applications such as Salesforce, Box and Office 365.
+> **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=23)** AWS Single Sign-on is a service that allows you to centrally manage SSO access to all of your AWS accounts, and commonly used cloud applications such as Salesforce, Box and [[Microsoft Office|Office]] 365.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=36)** AWS SSO integrates with AWS organizations.
 >
@@ -5133,7 +5091,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=45)** It also allows you to create, and manage users and groups.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=49)** You can manage your users and groups directly in the SSO console or connect to an existing AWS Managed Microsoft Active Directory to manage users with active directory management tools.
+> **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=49)** You can manage your users and groups directly in the SSO console or connect to an existing AWS Managed [[Microsoft]] [[Active Directory]] to manage users with active directory management tools.
 >
 > **[1:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=60)** It also allows you to use your existing corporate entities.
 >
@@ -5273,7 +5231,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=362)** Click the account, and choose how you'd like to access it using the Management Console or Command Line.
 >
-> **[6:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=370)** From the Management Console, I'll navigate to the EC2 services.
+> **[6:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=370)** From the Management Console, I'll navigate to the [[Amazon EC2|EC2]] services.
 >
 > **[6:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-single-sign-on?u=76281980&t=379)** I'm able to view the EC2 resources such as security groups.
 >
@@ -5295,7 +5253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (28), management (9), [[Active Directory]] (5), next (4), [[Amazon EC2|Ec2]] (3)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Amazon EC2|Ec2]] (3), [[Microsoft]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** aws (28), sso (23), ec2 (3), iam (2), mfa (2)
 > **CLI Commands:** aws (28), make (1)
 > **UI Navigation:** navigate to (3), select the (2), switch to (1), go to (1)
@@ -5304,8 +5262,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** command line (1)
 
-#### Introduction to AWS Control Tower
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-aws-control-tower?u=76281980)
+#### [Introduction to AWS Control Tower](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/introduction-to-aws-control-tower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5441,7 +5398,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), management (8), [[Security]] (5), next (4), cloud (2)
 > **Env Vars:** aws (16), sso (2), api (1)
 > **CLI Commands:** aws (16)
 > **Prerequisites:** set up (4), configure (2), you'll need (1)
@@ -5449,9 +5405,9 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** picture (1), for example (1), imagine (1), such as (1)
 > **Cross-References:** in the last (1)
+> **Speakers:** - [instructor] (1)
 
-#### Configure AWS Control Tower
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980)
+#### [Configure AWS Control Tower](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5501,7 +5457,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=111)** When you create a Control Tower landing zone, it creates a service catalog portfolio.
 >
-> **[1:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=117)** A portfolio is simply a collection of products and allows you to define who can use specific products.
+> **[1:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=117)** A portfolio is simply a collection of [[Microsoft Products|products]] and allows you to define who can use specific products.
 >
 > **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=123)** We'll talk more about this in an upcoming video.
 >
@@ -5587,7 +5543,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=362)** You will need to wait for the account enrollment to complete before enabling the guardrail.
 >
-> **[6:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=368)** Now let's look at a guardrail that detects EBS volumes that are not attached to EC2 instances.
+> **[6:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=368)** Now let's look at a guardrail that detects EBS volumes that are not attached to [[Amazon EC2|EC2]] instances.
 >
 > **[6:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/configure-aws-control-tower?u=76281980&t=377)** As you can see, this guardrail's status is in violation, scrolling down, we can see the resource ID and the account in which this violation has occurred.
 >
@@ -5633,7 +5589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), management (7), [[Microsoft Products|Products]] (3), [[Security]] (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** sso (11), aws (10), iam (8), vpc (2), url (2)
 > **CLI Commands:** aws (10), find (1)
 > **UI Navigation:** navigate to (5), switch to (2), click on (1), scroll down (1), select the (1)
@@ -5642,8 +5598,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), required to (1)
 > **Cross-References:** earlier in (1)
 
-#### AWS Service Catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980)
+#### [AWS Service Catalog](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5651,9 +5606,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=4)** As an administrator, it might benefit you to control the AWS services that your users have access to and how they're allowed to deploy those services.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=13)** For example, you might want your development team to have permissions to deploy EC2 instances only and deploy only using allowed instance sizes and apply the required tags.
+> **[0:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=13)** For example, you might want your development team to have permissions to deploy [[Amazon EC2|EC2]] instances only and deploy only using allowed instance sizes and apply the required tags.
 >
-> **[0:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=24)** Having centralized control over user access allows you to meet your governance and compliance goals because they're allowed to access only the required products and you can standardize deployment by specifying the configuration options.
+> **[0:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=24)** Having centralized control over user access allows you to meet your governance and compliance goals because they're allowed to access only the required [[Microsoft Products|products]] and you can standardize deployment by specifying the configuration options.
 >
 > **[0:37](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=37)** It also allows you to control costs, because your users can launch only the products to which you've granted access.
 >
@@ -5661,7 +5616,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=47)** It allows administrators to create and manage catalogs of approved products for end users.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=52)** Examples of products that you can include in a catalog include virtual machine images, servers, software, databases, and more.
+> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=52)** Examples of products that you can include in a catalog include virtual machine images, servers, software, [[Databases]], and more.
 >
 > **[1:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=61)** With service catalog, there are two types of users.
 >
@@ -5709,7 +5664,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=178)** Click products on the left navigation pane and then click upload new product.
 >
-> **[3:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=185)** You'll create a product that allows your dev team to deploy Linux instance with SSH access.
+> **[3:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=185)** You'll create a product that allows your dev team to deploy [[Linux]] instance with SSH access.
 >
 > **[3:11](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=191)** Enter a product name and specify the owner.
 >
@@ -5741,7 +5696,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=271)** Now the portfolio will be a available to the selected end users when they sign in.
 >
-> **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=276)** Now, let's see the end user experience.
+> **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=276)** Now, let's see the end [[User Experience (UX)|user experience]].
 >
 > **[4:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=279)** In another browser window, I've logged in as the end user.
 >
@@ -5771,7 +5726,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=357)** This end user will need appropriate IAM permissions to deploy this product.
 >
-> **[6:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=362)** In this case, the role you assign to the end user must include permissions to access service catalog, to view the products, Amazon S3 to retrieve the stored cloud formation template and Amazon EC2 to deploy the instance.
+> **[6:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=362)** In this case, the role you assign to the end user must include permissions to access service catalog, to view the products, Amazon S3 to retrieve the stored cloud formation template and [[Amazon EC2]] to deploy the instance.
 >
 > **[6:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-service-catalog?u=76281980&t=375)** So make sure that you've granted these permissions to the end user before you deploy the product, otherwise the deployment will fail.
 >
@@ -5849,7 +5804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (31), [[Microsoft Products|Products]] (18), cloud (13), aws (5), management (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (18), [[Amazon EC2|Ec2]] (2), [[Databases]] (1), [[Linux]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aws (5), ec2 (3), ssh (3), url (2), iam (2)
 > **Exercise Files:** template (17)
 > **CLI Commands:** aws (5), make (5), ssh (3), find (1)
@@ -5858,8 +5813,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (4)
 > **Cross-References:** we talked about (1), earlier in (1)
 
-#### AWS Resource Access Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980)
+#### [AWS Resource Access Manager](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5873,7 +5827,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=32)** With AWS Resource Access Manager or AWS Ram, you can share resources with individual AWS accounts or with accounts in an AWS organization.
 >
-> **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=42)** Important resource types that you can share with AWS Ram include Amazon Aurora, AWS Certificate Manager, Private Certificate Authority, AWS Code Build, Amazon Ec2 , AWS Glue, AWS License Manager, AWS network firewall, Amazon VPC, and more.
+> **[0:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=42)** Important resource types that you can share with AWS Ram include Amazon Aurora, AWS Certificate Manager, Private Certificate Authority, AWS Code Build, [[Amazon EC2]] , AWS Glue, AWS License Manager, AWS network firewall, Amazon VPC, and more.
 >
 > **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=62)** For a full list of resources you can share using Resource Access Manager, please refer to the documentation.
 >
@@ -5887,7 +5841,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=91)** In this demonstration you will create a resource share to share a subnet with other AWS accounts in your organization.
 >
-> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=98)** Once done, the users can deploy resources like Ec2 instances and RDS instances in the shared subnet.
+> **[1:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=98)** Once done, the users can deploy resources like [[Amazon EC2|Ec2]] instances and RDS instances in the shared subnet.
 >
 > **[1:45](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-resource-access-manager?u=76281980&t=105)** First, let's look at the VPC in which the subnet is located.
 >
@@ -5979,7 +5933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (17), management (3), [[Amazon EC2|Ec2]] (3), next (3), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Amazon EC2]] (1)
 > **Env Vars:** aws (17), vpc (7), rds (1), ram (1), ami (1)
 > **CLI Commands:** aws (17)
 > **UI Navigation:** select the (5), navigate to (3), switch to (2), dropdown (2), go to (1)
@@ -5988,8 +5942,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### AWS Trusted Advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980)
+#### [AWS Trusted Advisor](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6009,7 +5962,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=50)** Cost optimization recommendations, focus on opportunities to reduce your costs by highlighting unused resources.
 >
-> **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=58)** For example, a checks for EC2 instances showing low utilization, idle load balancers, underutilized EBS volumes, unassociated elastic IP addresses and more.
+> **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=58)** For example, a checks for [[Amazon EC2|EC2]] instances showing low utilization, idle load balancers, underutilized EBS volumes, unassociated elastic IP addresses and more.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=70)** Performance recommendations focus on opportunities to improve the speed and response time of your applications.
 >
@@ -6027,7 +5980,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=141)** Service limit recommendations inspect your accounts usage, and check to see if your account is approaching or exceeding specific service limits, also known as quotas.
 >
-> **[2:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=150)** For example, it looks for service usage that is more than 80% of the service limit for important services such as Amazon VPC, Amazon EC2, Auto scaling groups, elastic block store or EBS volumes, Simple Email Service, AWS CloudFormation Stacks, elastic load balancers, relational database service or RDS instances, identity and access management or IM entities such as users, roles, groups and policies, and other services.
+> **[2:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=150)** For example, it looks for service usage that is more than 80% of the service limit for important services such as Amazon VPC, [[Amazon EC2]], Auto scaling groups, elastic block store or EBS volumes, Simple Email Service, AWS CloudFormation Stacks, elastic load balancers, relational database service or RDS instances, identity and access management or IM entities such as users, roles, groups and policies, and other services.
 >
 > **[3:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=181)** This list is only partial, AWS provides service limit checks for many services.
 >
@@ -6063,7 +6016,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=272)** I haven't exceeded the quota for any region.
 >
-> **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=276)** You also have a link to request a limit increase, and a link to a document explaining this products limits.
+> **[4:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=276)** You also have a link to request a limit increase, and a link to a document explaining this [[Microsoft Products|products]] limits.
 >
 > **[4:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-trusted-advisor?u=76281980&t=283)** Now let's look at security checks.
 >
@@ -6121,7 +6074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), aws (11), [[Amazon EC2|Ec2]] (4), management (3), business (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Amazon EC2]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aws (11), ec2 (5), ebs (3), rds (2), cpu (1)
 > **CLI Commands:** aws (11), make (2)
 > **Analogies:** for example (7), such as (3)
@@ -6130,8 +6083,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Definitions:** known as (1)
 
-#### AWS Config
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980)
+#### [AWS Config](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6147,7 +6099,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=53)** It also allows you to view relationships between resources.
 >
-> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=57)** For example, how many EC2 instances use a specific security group.
+> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=57)** For example, how many [[Amazon EC2|EC2]] instances use a specific security group.
 >
 > **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=62)** And it also allows you to export a complete inventory of your AWS resources with all configuration details.
 >
@@ -6157,7 +6109,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=77)** It represents a point-in-time view of the various attributes of a supported AWS resource.
 >
-> **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=84)** A configuration item includes metadata, attributes, relationships, current configuration, and related events.
+> **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=84)** A configuration item includes [[Metadata]], attributes, relationships, current configuration, and related events.
 >
 > **[1:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=92)** AWS Config creates a configuration item whenever it detects a change to a resource type it is recording.
 >
@@ -6217,7 +6169,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=241)** The updated configuration of the security group and the instances are saved as configuration items and delivered to an S3 bucket.
 >
-> **[4:09](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=249)** AWS Config supports key AWS resource types such as Amazon EC2, Amazon S3, Amazon VPC, AWS IAM or identity and access management, AWS Lambda, AWS CloudFormation, Amazon CloudWatch, AWS CloudTrail, and more.
+> **[4:09](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=249)** AWS Config supports key AWS resource types such as [[Amazon EC2]], Amazon S3, Amazon VPC, AWS IAM or identity and access management, AWS Lambda, AWS CloudFormation, Amazon CloudWatch, AWS CloudTrail, and more.
 >
 > **[4:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-config?u=76281980&t=269)** For a complete list of supported AWS resources, please refer to the AWS Config documentation.
 >
@@ -6415,7 +6367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (46), [[Amazon EC2|Ec2]] (14), [[Security]] (11), next (8), management (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (14), [[Metadata]] (2), [[Amazon EC2]] (1)
 > **Env Vars:** aws (46), ec2 (15), sns (2), vpc (2), arn (1)
 > **CLI Commands:** aws (46), make (1)
 > **UI Navigation:** select the (3), switch to (2), scroll down (2), navigate to (1), dropdown (1)
@@ -6424,8 +6376,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (6), set up (1)
 > **Warnings:** note that (6)
 
-#### AWS Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980)
+#### [AWS Systems Manager](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6447,9 +6398,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=55)** You can group AWS resources together using different attributes such as application, region, project, business unit and more.
 >
-> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=65)** You can also automatically collect inventory information about your Amazon EC2 and on-premises manage instances.
+> **[1:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=65)** You can also automatically collect inventory information about your [[Amazon EC2]] and on-premises manage instances.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=73)** Inventory information includes metadata such as applications, network configuration and more.
+> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=73)** Inventory information includes [[Metadata]] such as applications, network configuration and more.
 >
 > **[1:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=79)** Systems Manager groups these capabilities into five categories, operations management, application management, change management, node management, and shared resources.
 >
@@ -6457,11 +6408,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=97)** Systems Manager was formally known as Simple Systems Manager or SSM.
 >
-> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=102)** Systems Manager provides an agent called a Systems Manager agent also known as the SSM agent that you can install on EC2 instances, on-premises servers or virtual machines.
+> **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=102)** Systems Manager provides an agent called a Systems Manager agent also known as the SSM agent that you can install on [[Amazon EC2|EC2]] instances, on-premises servers or [[Virtual Machines]].
 >
 > **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=115)** With this agent, Systems Manager updates, manages and configures your resources.
 >
-> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=120)** You can install the SSM agent on Linux, MacOS and Windows operating systems.
+> **[2:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=120)** You can install the SSM agent on [[Linux]], MacOS and [[Windows]] operating systems.
 >
 > **[2:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=126)** For specific operating system, flavors and versions, please refer to the Systems Manager documentation.
 >
@@ -6609,7 +6560,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=540)** Choose the type as command or session.
 >
-> **[9:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=543)** You can specify the document content in JSON or YAML format.
+> **[9:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=543)** You can specify the document content in [[JSON]] or YAML format.
 >
 > **[9:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-systems-manager?u=76281980&t=548)** The distributor feature allows you to install software on your managed instances.
 >
@@ -6677,7 +6628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), management (12), node (5), [[Amazon EC2|Ec2]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Windows]] (4), [[Virtual Machines]] (3), [[Metadata]] (2), [[Linux]] (2)
 > **Env Vars:** aws (12), ssm (6), ec2 (5), json (1), yaml (1)
 > **Prerequisites:** install (12), configure (6), required to (2), you'll need (1), setup (1)
 > **CLI Commands:** aws (12), node (5), find (2), ssh (1)
@@ -6686,8 +6637,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), known as (1)
 > **Documentation:** the documentation (2)
 
-#### AWS License Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980)
+#### [AWS License Manager](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6713,7 +6663,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=62)** With License Manager, you can and track software that is licensed based on virtual cores, or VCPUs, physical cores, sockets, and number of instances.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=73)** Common use cases include tracking Microsoft Windows Server, SQL Server, and Oracle Database licenses.
+> **[1:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=73)** Common use cases include tracking [[Microsoft]] [[Windows Server]], [[Microsoft SQL Server|SQL Server]], and Oracle Database licenses.
 >
 > **[1:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=80)** Now, let's switch to the AWS management console and look at the configuration.
 >
@@ -6741,7 +6691,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=151)** You can also restrict license usage by the instance tendency.
 >
-> **[2:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=155)** For example, only allow license usage on EC2 instances that have a dedicated tendency.
+> **[2:35](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=155)** For example, only allow license usage on [[Amazon EC2|EC2]] instances that have a dedicated tendency.
 >
 > **[2:41](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=161)** And you can also configure it to honor CPU options.
 >
@@ -6757,7 +6707,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=180)** You can associate this configuration with an AMI, so anytime a user uses the associated AMI to launch an instance, the consumption will be tracked.
 >
-> **[3:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=190)** You can also associate it with a CloudFormation template or with service catalog products.
+> **[3:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=190)** You can also associate it with a CloudFormation template or with service catalog [[Microsoft Products|products]].
 >
 > **[3:15](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-license-manager?u=76281980&t=195)** For this example, let's associate it with an EC2 launch template, so anytime a user launches an instance with the template, the user will be tracked.
 >
@@ -6835,7 +6785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), [[Amazon EC2|Ec2]] (5), management (4), [[Microsoft]] (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Microsoft]] (3), [[Windows Server]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aws (12), ec2 (5), ami (4), byol (2), sql (1)
 > **CLI Commands:** aws (12)
 > **Exercise Files:** template (12)
@@ -6844,8 +6794,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), go back to (1)
 > **Analogies:** for example (2)
 
-#### AWS CloudFormation
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980)
+#### [AWS CloudFormation](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6865,11 +6814,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=45)** Imagine you have a multi-tiered web application.
 >
-> **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=48)** The application is accessible from the internet so it has a public-facing load balancer that distributes traffic to the connected web servers.
+> **[0:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=48)** The application is accessible from the internet so it has a public-facing load balancer that distributes traffic to the connected [[Web Servers]].
 >
-> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=57)** The solution also includes two internal load balancers that distribute traffic to the application servers and to the connected databases.
+> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=57)** The solution also includes two internal load balancers that distribute traffic to the application servers and to the connected [[Databases]].
 >
-> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=66)** A simple solution like this could require configuring several services, such as VPC, EC2, security groups, load balancers, autoscaling groups, database instances, Route 53 for DNS management, CloudWatch for monitoring, SNS for notifications, and more.
+> **[1:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=66)** A simple solution like this could require configuring several services, such as VPC, [[Amazon EC2|EC2]], security groups, load balancers, autoscaling groups, database instances, Route 53 for [[DNS Management]], CloudWatch for monitoring, SNS for notifications, and more.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=84)** Each of these services is configured from their individual consoles requiring time and is prone to error.
 >
@@ -6877,7 +6826,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=97)** The template will configure the solution when executed.
 >
-> **[1:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=100)** The template is a JSON or YAML formatted text file.
+> **[1:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=100)** The template is a [[JSON]] or YAML formatted text file.
 >
 > **[1:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=103)** Resources created by a template are managed as a single unit called a Stack.
 >
@@ -6887,7 +6836,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=118)** For this example, we'll use a sample solution template provided by AWS.
 >
-> **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=123)** We'll use the WordPress basic single instance template that installs and deploys WordPress on a single Amazon EC2 instance with a local MySQL database for storage.
+> **[2:03](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=123)** We'll use the [[WordPress]] basic single instance template that installs and deploys WordPress on a single [[Amazon EC2]] instance with a local [[MySQL]] database for storage.
 >
 > **[2:14](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cloudformation?u=76281980&t=134)** Before we run the template, let's examine it.
 >
@@ -6981,7 +6930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), aws (4), next (3), application (2), traffic (2)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Amazon EC2|Ec2]] (2), [[Web Servers]] (1), [[Databases]] (1), [[DNS Management]] (1)
 > **Exercise Files:** template (28)
 > **Env Vars:** aws (4), ec2 (3), ami (3), url (3), vpc (1)
 > **CLI Commands:** aws (4), find (1), make (1), mysql (1)
@@ -6990,8 +6939,7 @@ created: 2026-05-02
 > **Analogies:** for example (3), imagine (1), such as (1)
 > **Definitions:** is a  (4)
 
-#### AWS Audit Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-audit-manager?u=76281980)
+#### [AWS Audit Manager](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-audit-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7145,7 +7093,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-audit-manager?u=76281980&t=387)** Let's dive into the details of a control in the IAM section.
 >
-> **[6:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-audit-manager?u=76281980&t=392)** Here is a control that states Hardware multifactor authentication should be enabled for the root user.
+> **[6:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-audit-manager?u=76281980&t=392)** Here is a control that states [[Hardware]] multifactor authentication should be enabled for the root user.
 >
 > **[6:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-audit-manager?u=76281980&t=398)** Let's click on it.
 >
@@ -7223,7 +7171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (17), [[Security]] (10), next (7), data (2), management (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** aws (17), iam (4), uri (2), vpc (1), cis (1)
 > **CLI Commands:** aws (17), find (1)
 > **UI Navigation:** select the (3), click on (3), switch to (2), navigate to (2), dropdown (1)
@@ -7232,24 +7180,23 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Exercise Files:** download the (1), template (1)
 
-#### AWS Directory Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980)
+#### [AWS Directory Service](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=0)** - [Instructor] When you migrate your Active Directory-dependent and Windows workloads to the AWS cloud, they will need access to Active Directory Domain Controllers, or DCs.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=0)** - [Instructor] When you migrate your [[Active Directory]]-dependent and [[Windows]] workloads to the AWS cloud, they will need access to Active Directory Domain Controllers, or DCs.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=10)** Also, if you plan to use AWS services, such as Amazon WorkSpaces, with your Active Directory account, you will need to integrate them with Active Directory.
 >
 > **[0:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=19)** AWS Directory Service allows your directory-aware workloads, and AWS resources, to use Managed Active Directory in AWS.
 >
-> **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=27)** With AWS Directory Service, you can set up and run directories in the AWS cloud, manage users and groups, provide single sign-on to applications and services, create and apply group policy, and join Amazon EC2 instances to a domain.
+> **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=27)** With AWS Directory Service, you can set up and run directories in the AWS cloud, manage users and groups, provide single sign-on to applications and services, create and apply group policy, and join [[Amazon EC2]] instances to a domain.
 >
-> **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=43)** AWS Directory Service for Microsoft Active Directory is referred to as AWS Managed Microsoft AD.
+> **[0:43](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=43)** AWS Directory Service for [[Microsoft]] Active Directory is referred to as AWS Managed Microsoft AD.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=49)** It is powered by Windows Server 2012 R2.
+> **[0:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=49)** It is powered by [[Windows Server]] 2012 R2.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=52)** It allows your end-users to use their existing corporate credentials when accessing AWS applications, such as Amazon WorkSpaces, Amazon WorkDocs, and Amazon WorkMail, as well as directory-aware Microsoft workloads, including custom .NET and SQL Server-based applications.
+> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=52)** It allows your end-users to use their existing corporate credentials when accessing AWS applications, such as Amazon WorkSpaces, Amazon WorkDocs, and Amazon WorkMail, as well as directory-aware Microsoft workloads, including custom .NET and [[Microsoft SQL Server|SQL Server]]-based applications.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=70)** You can also configure a trust relationship between AWS Managed Microsoft AD and your on-premises Microsoft AD, allowing users and groups to access resources in either domain using single sign-on.
 >
@@ -7265,7 +7212,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=115)** To follow along this demonstration, you will need an existing Active Directory.
 >
-> **[1:59](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=119)** If you don't have one already, you can deploy it on an EC2 instance.
+> **[1:59](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=119)** If you don't have one already, you can deploy it on an [[Amazon EC2|EC2]] instance.
 >
 > **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=124)** You will use it to create a trust relationship with the AWS Managed AD.
 >
@@ -7349,7 +7296,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=326)** By doing so, your users can use a single set of credentials to access multiple applications.
 >
-> **[5:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=332)** This includes the AWS Management Console and other business applications, such as Office 365, Salesforce, and others.
+> **[5:32](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=332)** This includes the AWS Management Console and other business applications, such as [[Microsoft Office|Office]] 365, Salesforce, and others.
 >
 > **[5:41](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-directory-service?u=76281980&t=341)** Navigate to the SSO service and click Enable AWS SSO.
 >
@@ -7421,7 +7368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (32), [[Active Directory]] (14), [[Microsoft]] (7), next (7), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Active Directory]] (14), [[Microsoft]] (7), [[Windows]] (3), [[Amazon EC2|Ec2]] (3), [[Windows Server]] (2)
 > **Env Vars:** aws (32), sso (8), ec2 (4), vpc (2), url (2)
 > **CLI Commands:** aws (32)
 > **UI Navigation:** select the (6), switch to (2), dropdown (2), go to (2), open the (2)
@@ -7435,8 +7382,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS Pricing Calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980)
+#### [AWS Pricing Calculator](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7452,11 +7398,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=31)** Let's estimate the cost of running a multi-tiered web application that has the following components.
 >
-> **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=36)** It has a public facing web tier hosted on two on-demand EC2 instances, sitting behind an application load balancer.
+> **[0:36](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=36)** It has a public facing web tier hosted on two on-demand [[Amazon EC2|EC2]] instances, sitting behind an application load balancer.
 >
 > **[0:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=44)** The web tier is connected to the application tier consisting of two on-demand EC2 instances sitting behind an internal application load balancer.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=52)** The application tier is connected to two load balanced RDS SQL server databases.
+> **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=52)** The application tier is connected to two load balanced RDS [[Microsoft SQL Server|SQL server]] [[Databases]].
 >
 > **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=58)** For simplicity, we'll assume that the EC2 instances and RDS instances are of type T3 large and all services are hosted in the Ohio region.
 >
@@ -7470,13 +7416,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=84)** Select the required region.
 >
-> **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=87)** In our case, the operating system is Linux.
+> **[1:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=87)** In our case, the operating system is [[Linux]].
 >
 > **[1:31](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=91)** Search instances by name and set it to T3 large.
 >
-> **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=99)** Set the quantity to four, two for the web servers and two for application servers.
+> **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=99)** Set the quantity to four, two for the [[Web Servers]] and two for application servers.
 >
-> **[1:45](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=105)** Configure the expected usage to 50% utilization per month and set the pricing strategy as on demand.
+> **[1:45](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=105)** Configure the expected usage to 50% utilization per month and set the [[Pricing Strategy]] as on demand.
 >
 > **[1:56](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=116)** In a production environment, you are likely to reserve capacity, but we'll use on demand for this example.
 >
@@ -7524,7 +7470,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=233)** In a production solution, you are likely to use other services such as reserved instances for compute infrastructure, auto scaling to respond to spikes or dips in traffic, route 53 for DNS, cloud front for content delivery, cloud watch for monitoring, cloud trail for logging and SNS for notifications among others.
 >
-> **[4:14](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=254)** You may also use other services like Lambda and EventBridge for event driven architecture, S3 for object storage and long term archival and a technical support plan.
+> **[4:14](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=254)** You may also use other services like Lambda and EventBridge for event driven architecture, S3 for object storage and long term archival and a [[Technical Support]] plan.
 >
 > **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-pricing-calculator?u=76281980&t=264)** Also, a production solution is likely to be deployed across multiple regions.
 >
@@ -7538,7 +7484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), application (6), aws (4), [[Amazon EC2|Ec2]] (4), [[Search]] (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Linux]] (1), [[Web Servers]] (1)
 > **Env Vars:** aws (4), ec2 (4), rds (3), sql (2), ssd (1)
 > **CLI Commands:** aws (4), az (2)
 > **UI Navigation:** switch to (1), select the (1)
@@ -7547,8 +7493,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cost allocation tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980)
+#### [Cost allocation tags](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7562,9 +7507,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=19)** Essentially, it's a key value pair.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=22)** As an example, here are some tags applied to an EC2 instance.
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=22)** As an example, here are some tags applied to an [[Amazon EC2|EC2]] instance.
 >
-> **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=27)** Name equals Windows Server WS1, department equals Engineering, project equals App 1, and cost center equals 10012.
+> **[0:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=27)** Name equals [[Windows Server]] WS1, department equals Engineering, project equals App 1, and cost center equals 10012.
 >
 > **[0:38](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=38)** When configured correctly, tags can be used to organize efficiently, search for, and filter your resources.
 >
@@ -7588,7 +7533,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=116)** For cost allocation tags to work effectively, there's a couple of items to bear in mind.
 >
-> **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=121)** First, you should configure your resources with the required tags, and second, you should designate tags that you intend to use for cost allocation purposes, as cost allocation tags in the billing and cost management console, AWS will include them in your billing data.
+> **[2:01](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=121)** First, you should configure your resources with the required tags, and second, you should designate tags that you intend to use for cost allocation purposes, as cost allocation tags in the billing and [[Cost Management]] console, AWS will include them in your billing data.
 >
 > **[2:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=137)** When you begin exploring the usage of cost allocation tags, a natural question is, how you should plan the tags?
 >
@@ -7630,7 +7575,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=252)** The tag Key is aws: createdBy, the tag Value includes Root, which is the account type followed by the account ID.
 >
-> **[4:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=260)** Important services to which AWS apply is the CreatedBy tag include AWS CloudFormation, Amazon EC2, AWS Elastic Beanstalk, Elastic Load Balancing, Amazon S3, Amazon Relational Database Service or RDS, Amazon Route53, and more.
+> **[4:20](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=260)** Important services to which AWS apply is the CreatedBy tag include AWS CloudFormation, [[Amazon EC2]], AWS Elastic Beanstalk, Elastic Load Balancing, Amazon S3, Amazon Relational Database Service or RDS, Amazon Route53, and more.
 >
 > **[4:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/cost-allocation-tags?u=76281980&t=280)** For a complete list of supported resource types and events, please refer to the AWS documentation.
 >
@@ -7696,7 +7641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (40), management (4), [[Cost Management]] (3), next (3), data (2)
+> **Frameworks & Libraries:** [[Cost Management]] (3), [[Amazon EC2|Ec2]] (1), [[Windows Server]] (1), [[Amazon EC2]] (1)
 > **CLI Commands:** aws (40), make (2), find (1)
 > **Env Vars:** aws (37), ec2 (2), ws1 (1), csv (1), iam (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -7705,12 +7650,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (2)
 > **Tools:** aws console (2)
 
-#### AWS Budgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980)
+#### [AWS Budgets](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=0)** - An essential requirement for organizations using cloud services, such as AWS, is planning and analyzing their cloud costs.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=0)** - An essential requirement for organizations using [[Cloud Services]], such as AWS, is planning and analyzing their cloud costs.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=7)** AWS provides several tools to calculate, forecast, and analyze your spending.
 >
@@ -7746,7 +7690,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=83)** This is useful in identifying savings plans that are unused, or underutilized.
 >
-> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=88)** Similar to reserved instances, savings plan is a pricing model that offers lower prices on Amazon EC2 instance usage, regardless of instance family, size, operating system, tenancy, or AWS region.
+> **[1:28](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=88)** Similar to reserved instances, savings plan is a pricing model that offers lower prices on [[Amazon EC2]] instance usage, regardless of instance family, size, operating system, tenancy, or AWS region.
 >
 > **[1:42](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=102)** Of course, this is an exchange for a commitment that you will use a specific amount of compute power for a one, or three year period.
 >
@@ -7834,7 +7778,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=321)** Or attach a service control policy to limit permissions at the account level.
 >
-> **[5:26](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=326)** You can also stop EC2 or RDS instances.
+> **[5:26](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=326)** You can also stop [[Amazon EC2|EC2]] or RDS instances.
 >
 > **[5:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-budgets?u=76281980&t=330)** Before you can configure an action, you will need to attach an IAM role that grants the required permissions.
 >
@@ -7850,7 +7794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), next (4), cloud (2), data (1), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Amazon EC2]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (13), iam (3), ec2 (2), sns (1), rds (1)
 > **CLI Commands:** aws (13)
 > **Prerequisites:** configure (9)
@@ -7859,8 +7803,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 
-#### AWS Cost Explorer
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980)
+#### [AWS Cost Explorer](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7882,7 +7825,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=52)** After enabling, the current months data is available in about 24 hours.
 >
-> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=57)** The rest of your data takes a few days longer.
+> **[0:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=57)** The [[Representational State Transfer (REST)|rest]] of your data takes a few days longer.
 >
 > **[0:59](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=59)** And Cost Explorer updates your data at least once every 24 hours.
 >
@@ -7914,7 +7857,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=122)** I'll change the granularity to monthly and then choose to group by service.
 >
-> **[2:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=127)** As you can see, in my case most of the charges are incurred from the EC2 service.
+> **[2:07](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=127)** As you can see, in my case most of the charges are incurred from the [[Amazon EC2|EC2]] service.
 >
 > **[2:13](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=133)** Let's narrow this down further to see usage hours.
 >
@@ -7952,7 +7895,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=246)** AWS recommends that if I opt for reserved instances for a one-year term, with the all upfront payment option I can save 41% of my spending.
 >
-> **[4:18](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=258)** As you can imagine, this can be useful for forecasting, estimating and planning infrastructure costs.
+> **[4:18](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=258)** As you can imagine, this can be useful for [[Forecasting]], estimating and planning infrastructure costs.
 >
 > **[4:24](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-cost-explorer?u=76281980&t=264)** So you've seen how to use Cost Explorer to analyze your usage based on different criteria and how to use the forecasting tool to plan ahead.
 >
@@ -7960,7 +7903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), aws (7), [[Amazon EC2|Ec2]] (3), next (2), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Forecasting]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (7), ec2 (3), csv (1)
 > **CLI Commands:** aws (7), find (1)
 > **UI Navigation:** scroll down (1), dropdown (1)
@@ -7974,16 +7917,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of migration services
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980)
+#### [Overview of migration services](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=0)** - [Instructor] More organizations today are considering moving their workloads to the cloud for benefits such as cost savings, efficient IT infrastructure management, reduced unplanned downtime, improved productivity, business agility, and a modern operating model.
+> **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=0)** - [Instructor] More organizations today are considering moving their workloads to the cloud for benefits such as cost savings, efficient [[IT Infrastructure Management]], reduced unplanned downtime, improved productivity, business agility, and a modern operating model.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=17)** Almost all workloads used in an on-premises environment can be moved to AWS.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=22)** This includes physical or virtual servers, storage, websites, databases, and applications.
+> **[0:22](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=22)** This includes physical or virtual servers, storage, websites, [[Databases]], and applications.
 >
 > **[0:29](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=29)** When you decide to migrate to the cloud, common questions that could come up include, what should be the strategy to move workloads?
 >
@@ -8017,7 +7959,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=124)** The migrate and modernized phase is about designing, migrating, and validating applications.
 >
-> **[2:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=130)** A service called AWS Application Migration Service allows you to quickly lift and shift a large number of servers from physical, virtual or cloud infrastructure to AWS.
+> **[2:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=130)** A service called AWS Application Migration Service allows you to quickly lift and shift a large number of servers from physical, virtual or [[Cloud Infrastructure]] to AWS.
 >
 > **[2:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/overview-of-migration-services?u=76281980&t=141)** It automatically converts your source servers to run natively on AWS.
 >
@@ -8045,7 +7987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (23), cloud (5), business (4), application (4), data (4)
+> **Frameworks & Libraries:** [[Databases]] (2), [[IT Infrastructure Management]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** aws (23)
 > **Env Vars:** aws (23)
 > **Definitions:** is a  (1)
@@ -8053,8 +7995,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Application Migration Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980)
+#### [AWS Application Migration Service](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8090,7 +8031,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=93)** This includes replication servers, staging volumes and EBS snapshots.
 >
-> **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=99)** Replication servers are Amazon EC2 instances used to replicate data from your source servers and these are automatically launched and terminated as needed.
+> **[1:39](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=99)** Replication servers are [[Amazon EC2]] instances used to replicate data from your source servers and these are automatically launched and terminated as needed.
 >
 > **[1:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=108)** After the required resources are provisioned, the replication begins.
 >
@@ -8138,7 +8079,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=228)** Now let's see how to download and install the replication agent.
 >
-> **[3:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=231)** The replication agent can be installed on Windows and Linux instances.
+> **[3:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=231)** The replication agent can be installed on [[Windows]] and [[Linux]] instances.
 >
 > **[3:57](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=237)** I'm here on a windows host and I've already downloaded and installed the replication agent.
 >
@@ -8146,7 +8087,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=246)** Once you've downloaded the installer, follow these steps.
 >
-> **[4:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=250)** First, use the Start menu and open PowerShell as an administrator Then use the CD command to navigate to the downloads folder.
+> **[4:10](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=250)** First, use the Start menu and open [[Powershell]] as an administrator Then use the CD command to navigate to the downloads folder.
 >
 > **[4:21](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=261)** Then execute the replication agent exe file and include three parameters Region, access key ID, and secret access key.
 >
@@ -8176,7 +8117,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=337)** Under launch settings, you can configure the settings you'd like to use for launching the test and cutover instances.
 >
-> **[5:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=344)** MGN uses an EC2 to launch template to specify the instant settings.
+> **[5:44](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=344)** MGN uses an [[Amazon EC2|EC2]] to launch template to specify the instant settings.
 >
 > **[5:49](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=349)** A launch template is simply a collection of settings used to launch an EC2 instance.
 >
@@ -8212,7 +8153,7 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=447)** Change the instance type right sizing setting.
 >
-> **[7:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=450)** With the default setting, MGN will launch a test or cutover instance that best matches the source server's hardware configuration, which overrides the configuration in the launch template.
+> **[7:30](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=450)** With the default setting, MGN will launch a test or cutover instance that best matches the source server's [[Hardware]] configuration, which overrides the configuration in the launch template.
 >
 > **[7:41](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-application-migration-service?u=76281980&t=461)** It is the ideal setting for production environments but will control the instance type in this exercise.
 >
@@ -8262,7 +8203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (20), data (8), application (6), [[Amazon EC2|Ec2]] (4), cloud (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Windows]] (2), [[Amazon EC2]] (1), [[Linux]] (1), [[Powershell]] (1)
 > **Env Vars:** aws (20), mgn (10), ec2 (5), ebs (2), iam (2)
 > **CLI Commands:** aws (20), find (1), cd (1)
 > **UI Navigation:** navigate to (3), select the (3), switch to (2), go to (2), dropdown (1)
@@ -8271,8 +8212,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **Cross-References:** go back to (2)
 
-#### AWS Snow Family
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980)
+#### [AWS Snow Family](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8290,7 +8230,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=40)** AWS Snowcone is the smallest of the three, and you can use it to transfer up to 8 TB or 14 TB of data to the AWS cloud by shipping the device back to AWS.
 >
-> **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=51)** In addition to migrating data, you can also use Snowcone to run edge computing workloads that use Amazon EC2 instances.
+> **[0:51](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=51)** In addition to migrating data, you can also use Snowcone to run edge computing workloads that use [[Amazon EC2]] instances.
 >
 > **[0:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=58)** You can also use it to store data securely.
 >
@@ -8310,7 +8250,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=110)** After you load your data onto the Snowmobile, it is driven back to an AWS region, where the data is loaded into Amazon S3.
 >
-> **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=118)** AWS has a feature comparison table that contains the technical differences between the various Snow products.
+> **[1:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=118)** AWS has a feature comparison table that contains the technical differences between the various Snow [[Microsoft Products|products]].
 >
 > **[2:05](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-snow-family?u=76281980&t=125)** So that is a high-level overview of the various Snow Family products.
 >
@@ -8318,21 +8258,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), aws (11), cloud (4), [[Microsoft Products|Products]] (2), [[Amazon EC2]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Amazon EC2]] (1)
 > **Env Vars:** aws (11), ec2 (1), gpu (1)
 > **CLI Commands:** aws (11)
 > **Definitions:** is a  (3), is an  (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS Migration Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980)
+#### [AWS Migration Hub](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=0)** - [Instructor] Once you start migrating your servers and applications to the AWS cloud, you will need a mechanism to track these migrations.
 >
-> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=8)** AWS Migration Hub provides a central location to track the status of the various components your migrating such as servers, applications, and databases.
+> **[0:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=8)** AWS Migration Hub provides a central location to track the status of the various components your migrating such as servers, applications, and [[Databases]].
 >
 > **[0:18](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=18)** It makes it easy to view the overall migration progress and reduces the time spent determining the next steps.
 >
@@ -8380,7 +8319,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=128)** The applications tab will list the applications you're migrating.
 >
-> **[2:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=132)** Here, I've got an application called WordPress whose migration status is in progress.
+> **[2:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=132)** Here, I've got an application called [[WordPress]] whose migration status is in progress.
 >
 > **[2:19](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=139)** I'll add another application that's part of the ongoing server migration.
 >
@@ -8394,7 +8333,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=178)** You can use an import template to upload data about your servers and applications, deploy a discovery connector in VMware vCenter, or use the discovery agent, which we did in an earlier movie with application migration service.
 >
-> **[3:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=192)** You can use EC2 instance recommendations to get recommendations for your servers.
+> **[3:12](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=192)** You can use [[Amazon EC2|EC2]] instance recommendations to get recommendations for your servers.
 >
 > **[3:18](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/aws-migration-hub?u=76281980&t=198)** This is based on your server's current configuration.
 >
@@ -8428,7 +8367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), aws (8), data (3), next (2), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[WordPress]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (8), ec2 (1), cpu (1), ram (1), csv (1)
 > **CLI Commands:** aws (8)
 > **UI Navigation:** dropdown (1), navigate to (1), go to (1), select the (1)
@@ -8442,8 +8381,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8453,7 +8391,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980&t=9)** I hope you appreciated the different services and strategies you can deploy to improve the administration and effectiveness of your AWS Solutions.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980&t=17)** Cloud computing is a constantly evolving technology, and AWS keeps updating its toolset.
+> **[0:17](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980&t=17)** [[Cloud Computing]] is a constantly evolving technology, and AWS keeps updating its toolset.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-essential-training-for-administrators-2022/next-steps?u=76281980&t=23)** I recommend regularly checking the AWS documentation for the latest updates and service offerings.
 >
@@ -8461,7 +8399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** aws (7)
 > **Env Vars:** aws (7)
 > **Definitions:** is a  (1)

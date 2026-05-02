@@ -95,28 +95,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stay organized with OneNote
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980)
+#### [Stay organized with OneNote](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=0)** - [Heather] OneNote has quickly become one of the go-to applications for capturing notes.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=0)** - [Heather] [[OneNote]] has quickly become one of the go-to applications for capturing notes.
 >
 > **[0:05](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=5)** It's not surprising why this is the case.
 >
-> **[0:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=8)** OneNote comes in many different forms.
+> **[0:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=8)** OneNote comes in many different [[Forms]].
 >
-> **[0:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=10)** The OneNote app, OneNote for the web, OneNote Mobile for Android and iOS devices, OneNote for Windows 10 and more.
+> **[0:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=10)** The OneNote app, OneNote for the web, OneNote Mobile for [[Android]] and iOS devices, OneNote for [[Windows 10]] and more.
 >
-> **[0:20](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=20)** Since it's part of the Microsoft Office Suite of applications, it integrates with Outlook Mail, Calendar, Tasks, and other Microsoft Office apps and services.
+> **[0:20](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=20)** Since it's part of the [[Microsoft Office]] Suite of applications, it integrates with [[Microsoft Outlook|Outlook]] Mail, Calendar, Tasks, and other Microsoft Office apps and services.
 >
 > **[0:31](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=31)** I'm going to show you how to leverage OneNote's built-in tools to build a structured shareable notebook, to capture many types of notes and to organize notes for quick retrieval.
 >
-> **[0:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=43)** I'm Heather Severino, a Microsoft Most Valuable Professional, a Microsoft Certified trainer, and a Microsoft Office Specialist Master.
+> **[0:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=43)** I'm Heather Severino, a [[Microsoft]] Most Valuable Professional, a Microsoft Certified trainer, and a Microsoft Office Specialist Master.
 >
 > **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=52)** I've been helping professionals, educators, and students learn Microsoft productivity applications for over two decades.
 >
-> **[1:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=60)** If you're ready to take your digital note-taking skills to the next level, then join me in my LinkedIn Learning course on OneNote for Windows 10 essentials.
+> **[1:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980&t=60)** If you're ready to take your digital note-taking skills to the next level, then join me in my [[LinkedIn]] Learning course on OneNote for Windows 10 essentials.
 
 > [!info]- Semantic Content
 >
@@ -124,39 +123,37 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [heather] (1)
 
-#### Who this course is for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980)
+#### [Who this course is for?](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=0)** - [Instructor] You might be wondering who is this course for?
 >
-> **[0:04](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=4)** This course is for anyone that's new to digital note-taking, anyone that's new to OneNote in general.
+> **[0:04](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=4)** This course is for anyone that's new to digital note-taking, anyone that's new to [[OneNote]] in general.
 >
 > **[0:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=10)** There's many different versions of OneNote.
 >
-> **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=12)** It could be the OneNote app formerly called OneNote 2016, OneNote for the web, a OneNote mobile app on an Android or iOS device, and OneNote for Windows 10, so anyone new to that version as well.
+> **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=12)** It could be the OneNote app formerly called OneNote 2016, OneNote for the web, a OneNote mobile app on an [[Android]] or iOS device, and OneNote for [[Windows 10]], so anyone new to that version as well.
 >
 > **[0:27](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/who-this-course-is-for?u=76281980&t=27)** It's also for the novice to expert OneNote note taker that have worked with other versions of OneNote and need to understand the differences with OneNote for Windows 10.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (10), [[Windows 10]] (2), web (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (10), [[Windows 10]] (2), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Launch OneNote
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980)
+#### [Launch OneNote](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=0)** - [Instructor] The OneNote for Windows 10 app comes with the Windows 10 Operating System.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=0)** - [Instructor] The [[OneNote]] for [[Windows 10]] app comes with the Windows 10 Operating System.
 >
 > **[0:04](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=4)** While you can locate this app by going to the Start Menu Apps listing, instead, let's search for it.
 >
 > **[0:11](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=11)** We'll go ahead and view the Windows 10 taskbar and select the magnifying glass.
 >
-> **[0:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=17)** In the Type Here To Search area, let's start typing the word One.
+> **[0:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=17)** In the Type Here To Search area, let's start typing the [[Microsoft Word|word]] One.
 >
 > **[0:22](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=22)** That's the first part of the OneNote app name.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=57)** We'll go ahead and say No, Thanks to rating OneNote for now.
 >
-> **[1:01](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=61)** And if this is your first time launching the app, you will need to log-in with your Microsoft account.
+> **[1:01](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=61)** And if this is your first time launching the app, you will need to log-in with your [[Microsoft]] account.
 >
 > **[1:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/launch-onenote?u=76281980&t=66)** I'm already logged in as Jennifer, and you'll notice in the upper right corner, it indicates which account I'm logged in with.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (10), [[Windows 10]] (6), [[Search]] (3), application (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (10), [[Windows 10]] (6), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2), means that (1), known as (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1), right-click (1)
@@ -210,14 +207,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a notebook stored in OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980)
+#### [Create a notebook stored in OneDrive](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=0)** - [Instructor] You might be new to note-taking with OneNote.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=0)** - [Instructor] You might be new to note-taking with [[OneNote]].
 >
-> **[0:02](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=2)** And if you are, and you've just launched the OneNote for Windows 10 app, you'll have a notebook to get you started with taking notes.
+> **[0:02](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=2)** And if you are, and you've just launched the OneNote for [[Windows 10]] app, you'll have a notebook to get you started with taking notes.
 >
 > **[0:09](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=9)** And in the upper left corner is where you'll find the name of that notebook.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=88)** You'll notice up here, it now says "Landon Hotel 2022 Projects."
 >
-> **[1:32](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=92)** This notebook that was created was saved in the OneDrive document library that's associated with this Microsoft account.
+> **[1:32](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=92)** This notebook that was created was saved in the [[Microsoft OneDrive|OneDrive]] document library that's associated with this [[Microsoft]] account.
 >
 > **[1:40](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980&t=100)** Now. I have that open in a browser window, so let's go ahead and minimize this app.
 >
@@ -289,25 +285,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (6), [[Microsoft OneDrive|Onedrive]] (5), [[Windows 10]] (2), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (6), [[Microsoft OneDrive|Onedrive]] (5), [[Windows 10]] (2), [[Microsoft]] (1)
 > **UI Navigation:** select the (1), go to (1), scroll down (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open a notebook stored on your computer
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980)
+#### [Open a notebook stored on your computer](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=0)** - [Heather] If you have Notebooks that were saved locally on your device, and you worked with those Notebooks in a different OneNote application such as the OneNote app or OneNote 2016, these Notebooks can be opened in OneNote for Windows 10.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=0)** - [Heather] If you have Notebooks that were saved locally on your device, and you worked with those Notebooks in a different [[OneNote]] application such as the OneNote app or OneNote 2016, these Notebooks can be opened in OneNote for [[Windows 10]].
 >
 > **[0:13](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=13)** Here's how you can do it.
 >
 > **[0:14](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=14)** You can either use the keyboard shortcut Control O to get to the Open Notebooks menu, or you can select the downward facing arrow that is next to the Notebook that's currently open.
 >
-> **[0:24](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=24)** Next, we'll go ahead and select More Notebooks, and this takes us to a listing of all the Notebooks, whether they are saved in a cloud library such as OneDrive, or they are saved locally on the device that you're working from.
+> **[0:24](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=24)** Next, we'll go ahead and select More Notebooks, and this takes us to a listing of all the Notebooks, whether they are saved in a cloud library such as [[Microsoft OneDrive|OneDrive]], or they are saved locally on the device that you're working from.
 >
 > **[0:36](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/open-a-notebook-stored-on-your-computer?u=76281980&t=36)** You'll notice that it lists the name of the notebook here, and when it was last accessed by you, and the most recent things are here at the top.
 >
@@ -353,21 +348,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Windows 10]] (3), next (3), cloud (2)
+> **Frameworks & Libraries:** [[OneNote]] (5), [[Microsoft OneDrive|Onedrive]] (4), [[Windows 10]] (3)
 > **UI Navigation:** select the (2), scroll down (2), go to (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [heather] (1)
 
-#### Share a notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980)
+#### [Share a notebook](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980&t=0)** - [Instructor] Notebooks that are accessed through OneNote for Windows 10 are considered private notebooks until you choose to share that notebook with someone else.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980&t=0)** - [Instructor] Notebooks that are accessed through [[OneNote]] for [[Windows 10]] are considered private notebooks until you choose to share that notebook with someone else.
 >
-> **[0:09](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980&t=9)** So if you are the owner of the notebook, and it resides in your OneDrive document library, it will be a private notebook until you share it with another person or multiple people.
+> **[0:09](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980&t=9)** So if you are the owner of the notebook, and it resides in your [[Microsoft OneDrive|OneDrive]] document library, it will be a private notebook until you share it with another person or multiple people.
 >
 > **[0:19](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/share-a-notebook?u=76281980&t=19)** It's just like if you've created or uploaded a file to your OneDrive document library.
 >
@@ -429,20 +423,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[OneNote]] (2), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[OneNote]] (2), [[Windows 10]] (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sync notebook content
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/sync-notebook-content?u=76281980)
+#### [Sync notebook content](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/sync-notebook-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/sync-notebook-content?u=76281980&t=0)** - [Instructor] While taking notes in a notebook, the changes are saved automatically for you, and they are synced across all of your devices that you're working from and back to where that notebook is saved in the cloud library.
 >
-> **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/sync-notebook-content?u=76281980&t=12)** This means no matter which OneNote app you're using, what device you're working from, and if you're connected to the internet or not.
+> **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/sync-notebook-content?u=76281980&t=12)** This means no matter which [[OneNote]] app you're using, what device you're working from, and if you're connected to the internet or not.
 >
 > **[0:20](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/sync-notebook-content?u=76281980&t=20)** If you're offline taking notes, once you're connected online all of those new notes and the edits are synced across all of your devices and to where that notebook is saved.
 >
@@ -532,17 +525,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[OneNote]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (1)
 > **UI Navigation:** go to (3), right-click (3), select the (2), scroll down (1), toggle (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the interface color setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/change-the-interface-color-setting?u=76281980)
+#### [Change the interface color setting](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/change-the-interface-color-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/change-the-interface-color-setting?u=76281980&t=0)** - [Instructor] What we're viewing right now in the OneNote for Windows 10 app, is the default interface color setting, and this setting is known as light.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/change-the-interface-color-setting?u=76281980&t=0)** - [Instructor] What we're viewing right now in the [[OneNote]] for [[Windows 10]] app, is the default interface color setting, and this setting is known as light.
 >
 > **[0:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/change-the-interface-color-setting?u=76281980&t=8)** If you'd like to change this, you need to go to options to make the selection.
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (1), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[OneNote]] (1), [[Windows 10]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -569,8 +561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a section
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-section?u=76281980)
+#### [Create a section](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,13 +625,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Rename, move, and delete a section
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rename-move-and-delete-a-section?u=76281980)
+#### [Rename, move, and delete a section](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rename-move-and-delete-a-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,14 +733,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (3), right-click (3), switch to (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a linked section
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-linked-section?u=76281980)
+#### [Create a linked section](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-linked-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,14 +772,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (2), select the (1), open the (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [heather] (1)
 
-#### Password-protect a section
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/password-protect-a-section?u=76281980)
+#### [Password-protect a section](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/password-protect-a-section?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/password-protect-a-section?u=76281980&t=7)** If the notebook is shared with the group, sections can be password-protected to prevent those without the password from viewing the pages within.
 >
-> **[0:16](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/password-protect-a-section?u=76281980&t=16)** Since all notebooks you work with in OneNote for Windows 10 are saved in OneDrive, you will need to be connected to the internet to set up password-protected sections, and to manage any changes to these.
+> **[0:16](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/password-protect-a-section?u=76281980&t=16)** Since all notebooks you work with in [[OneNote]] for [[Windows 10]] are saved in [[Microsoft OneDrive|OneDrive]], you will need to be connected to the internet to set up password-protected sections, and to manage any changes to these.
 >
 > **[0:26](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/password-protect-a-section?u=76281980&t=26)** Start by locating the section that you want to password-protect, right-click over the section name, and then from the menu, choose password protection.
 >
@@ -852,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[OneNote]] (1), [[Windows 10]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (1), [[Windows 10]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** right-click (3), go to (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Cross-References:** go back to (2)
@@ -865,8 +850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create, move, and delete a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-move-and-delete-a-page?u=76281980)
+#### [Create, move, and delete a page](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-move-and-delete-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,8 +955,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make a subpage
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/make-a-subpage?u=76281980)
+#### [Make a subpage](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/make-a-subpage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,14 +995,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rearranging with the Cut, Copy, and Paste tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980)
+#### [Rearranging with the Cut, Copy, and Paste tools](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1073,17 +1054,16 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=119)** And here's the container with all of the images included.
 >
-> **[2:05](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=125)** Now content can also be copied from your notebook page and pasted somewhere else outside of OneNote, like a Teams Chat or a conversation, an Outlook Email message, maybe a Word document, or even a PowerPoint presentation.
+> **[2:05](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/rearranging-with-the-cut-copy-and-paste-tools?u=76281980&t=125)** Now content can also be copied from your notebook page and pasted somewhere else outside of [[OneNote]], like a Teams Chat or a conversation, an [[Microsoft Outlook|Outlook]] Email message, maybe a [[Microsoft Word|Word]] document, or even a [[Microsoft PowerPoint|PowerPoint]] presentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (1), teams (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** go to (4), select the (2), right-click (2), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working in Full Screen mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/working-in-full-screen-mode?u=76281980)
+#### [Working in Full Screen mode](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/working-in-full-screen-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,12 +1110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the look of other content to text
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980)
+#### [Apply the look of other content to text](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=0)** - [Instructor] Typed notes in a notebook page have the same text editing formatting tools that are available in other apps like Microsoft word, PowerPoint, Word Pad, and Notepad.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=0)** - [Instructor] Typed notes in a notebook page have the same text editing formatting tools that are available in other apps like [[Microsoft Word]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Word|Word]] Pad, and Notepad.
 >
 > **[0:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=10)** If you have texted has font formatting applied and you want to apply that formatting elsewhere, you'll want to start by selecting the text.
 >
@@ -1175,17 +1154,16 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=103)** And that's how you can repeat formatting of Notes.
 >
-> **[1:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=106)** Format Painter is also available in other Microsoft Office desktop applications like Excel, PowerPoint, and Word.
+> **[1:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=106)** Format Painter is also available in other [[Microsoft Office]] desktop applications like [[Microsoft Excel|Excel]], PowerPoint, and Word.
 >
 > **[1:53](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980&t=113)** It's located within the clipboard section of the home ribbon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), next (2), [[Microsoft Word]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), [[Microsoft Office]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format notes with bullets and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/format-notes-with-bullets-and-tables?u=76281980)
+#### [Format notes with bullets and tables](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/format-notes-with-bullets-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,7 +1213,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/format-notes-with-bullets-and-tables?u=76281980&t=105)** If you're working with a numbered list, you'll notice that none is not a choice, and instead, what you can do is you can select that list, and from your Home ribbon, you can choose to Clear All Formatting.
 >
-> **[1:57](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/format-notes-with-bullets-and-tables?u=76281980&t=117)** A word of caution, though.
+> **[1:57](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/format-notes-with-bullets-and-tables?u=76281980&t=117)** A [[Microsoft Word|word]] of caution, though.
 >
 > **[1:58](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/format-notes-with-bullets-and-tables?u=76281980&t=118)** It is truly going to clear all formatting, including any of the font attributes.
 >
@@ -1283,7 +1261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), select the (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1291,8 +1269,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a to-do list
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-to-do-list?u=76281980)
+#### [Create a to-do list](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-to-do-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,16 +1325,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set the default paste option
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/set-the-default-paste-option?u=76281980)
+#### [Set the default paste option](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/set-the-default-paste-option?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/set-the-default-paste-option?u=76281980&t=0)** - [Instructor] If you plan to copy and paste information from other sources into a OneNote notebook, like the essential info area of this landing hotel page that you see here, you may always want to copy and paste and have it either include formatting, not include formatting, maybe merge the formatting to the formatting settings of that notebook.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/set-the-default-paste-option?u=76281980&t=0)** - [Instructor] If you plan to copy and paste information from other sources into a [[OneNote]] notebook, like the essential info area of this landing hotel page that you see here, you may always want to copy and paste and have it either include formatting, not include formatting, maybe merge the formatting to the formatting settings of that notebook.
 >
 > **[0:20](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/set-the-default-paste-option?u=76281980&t=20)** Well, you can go in and set the default for this within the OneNote paste options.
 >
@@ -1444,8 +1419,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add space for additional notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-space-for-additional-notes?u=76281980)
+#### [Add space for additional notes](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-space-for-additional-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,8 +1482,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Copy and paste a link to a paragraph
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/copy-and-paste-a-link-to-a-paragraph?u=76281980)
+#### [Copy and paste a link to a paragraph](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/copy-and-paste-a-link-to-a-paragraph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,8 +1539,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [heather] (1)
 
-#### Add meeting details
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980)
+#### [Add meeting details](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,7 +1549,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=4)** Is it a paper notepad and pen?
 >
-> **[0:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=6)** Typing notes in a Word document?
+> **[0:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=6)** Typing notes in a [[Microsoft Word|Word]] document?
 >
 > **[0:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=8)** Or something else?
 >
@@ -1589,13 +1561,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=15)** Type those handwritten notes into a document?
 >
-> **[0:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=17)** Maybe add tasks to Outlook or to the To-Do app?
+> **[0:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=17)** Maybe add tasks to [[Microsoft Outlook|Outlook]] or to the To-Do app?
 >
 > **[0:21](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=21)** Or something else?
 >
 > **[0:22](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=22)** Feel free to pause this movie while you think about your answers, but be sure to come right back.
 >
-> **[0:27](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=27)** There's really no wrong answer, but I think the OneNote meeting details tool helps you do less set-up and get more actionable notes quicker.
+> **[0:27](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=27)** There's really no wrong answer, but I think the [[OneNote]] meeting details tool helps you do less set-up and get more actionable notes quicker.
 >
 > **[0:36](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=36)** You'll start by going to the Insert ribbon.
 >
@@ -1605,7 +1577,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=42)** Now, when you select Meeting Details, it is going to display the Meeting Details pane.
 >
-> **[0:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=46)** If this is the first time that you're accessing this, you will need to log-in with your Microsoft account in order for it to connect your Outlook Calendar here within OneNote.
+> **[0:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=46)** If this is the first time that you're accessing this, you will need to log-in with your [[Microsoft]] account in order for it to connect your Outlook Calendar here within OneNote.
 >
 > **[0:55](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=55)** So that would be logging in with either your personal account, your school account or your business account.
 >
@@ -1635,7 +1607,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=116)** This gives me any notes that I need to know as far as are there things I need to review before I go into this meeting.
 >
-> **[2:01](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=121)** And since this is a Microsoft Teams meeting, I also have everything I need to join that meeting when it comes time.
+> **[2:01](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=121)** And since this is a [[Microsoft Teams]] meeting, I also have everything I need to join that meeting when it comes time.
 >
 > **[2:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/add-meeting-details?u=76281980&t=128)** If I want to see who's been invited to this meeting, I can expand the participants list.
 >
@@ -1649,18 +1621,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[OneNote]] (2), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[OneNote]] (2), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Take notes with dictation
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980)
+#### [Take notes with dictation](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=0)** - [Instructor] If you have a microphone built into your device or you have an external microphone connected to your device, you can capture speech-to-text notes with the Office Dictation tool.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=0)** - [Instructor] If you have a microphone built into your device or you have an external microphone connected to your device, you can capture speech-to-text notes with the [[Microsoft Office|Office]] Dictation tool.
 >
 > **[0:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=10)** You'll start by going to the Home ribbon.
 >
@@ -1682,7 +1653,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=52)** Now, when I select this microphone, you are going to see a red dot show up, and that indicates that it's currently listening, and it's going to be transcribing the spoken words as typed text on the page where the cursor is positioned.
 >
-> **[1:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=66)** If it's the first time that you're working with Office Dictation, there is going to be a Privacy Information pop-up that you will need to acknowledge before you can start working with this tool.
+> **[1:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=66)** If it's the first time that you're working with Office Dictation, there is going to be a [[Privacy]] Information pop-up that you will need to acknowledge before you can start working with this tool.
 >
 > **[1:18](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-notes-with-dictation?u=76281980&t=78)** All right, let's give it a try.
 >
@@ -1709,8 +1680,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handwrite notes on a ruled page
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980)
+#### [Handwrite notes on a ruled page](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1780,7 +1750,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=143)** Interestingly enough, rainbow was an idea from a student in a back of a classroom.
 >
-> **[2:28](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=148)** You can look this story up on Twitter if you follow OneNote there.
+> **[2:28](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=148)** You can look this story up on Twitter if you follow [[OneNote]] there.
 >
 > **[2:32](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/handwrite-notes-on-a-ruled-page?u=76281980&t=152)** And galaxy, the texture for this was created from real photos taken by the Hubble Telescope.
 >
@@ -1833,8 +1803,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Take quick notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980)
+#### [Take quick notes](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,7 +1909,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=190)** In the Share menu, notice at the bottom there are different ways that we can share this content.
 >
-> **[3:15](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=195)** One of these is OneNote for Windows 10.
+> **[3:15](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=195)** One of these is [[OneNote]] for [[Windows 10]].
 >
 > **[3:18](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/take-quick-notes?u=76281980&t=198)** That's what we're going to select.
 >
@@ -1976,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[OneNote]] (3), [[Windows 10]] (3), next (1), application (1)
+> **Frameworks & Libraries:** [[OneNote]] (3), [[Windows 10]] (3)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1988,8 +1957,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embed videos
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980)
+#### [Embed videos](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2017,7 +1985,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=64)** I have notification that it's copied it to the clipboard, so we'll close this.
 >
-> **[1:07](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=67)** I'm going to minimize this web browser because I do have OneNote for Windows 10 open.
+> **[1:07](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=67)** I'm going to minimize this web browser because I do have [[OneNote]] for [[Windows 10]] open.
 >
 > **[1:11](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980&t=71)** So we're going to go back to OneNote.
 >
@@ -2055,18 +2023,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (2), web (1), [[Windows 10]] (1), next (1)
+> **Frameworks & Libraries:** [[OneNote]] (2), [[Windows 10]] (1)
 > **UI Navigation:** go to (2), switch to (1), select the (1)
 > **Env Vars:** url (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [heather] (1)
 
-#### Insert a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980)
+#### [Insert a document](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=0)** - [Instructor] Many types of files can be inserted in a notebook page, including an Excel workbook, a PowerPoint presentation, a Word document, and even a PDF.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=0)** - [Instructor] Many types of files can be inserted in a notebook page, including an [[Microsoft Excel|Excel]] workbook, a [[Microsoft PowerPoint|PowerPoint]] presentation, a [[Microsoft Word|Word]] document, and even a PDF.
 >
 > **[0:10](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=10)** We'll start the process by going to the page where we want to insert the attached file or the printout to.
 >
@@ -2078,11 +2045,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=28)** The file that I happen to need is an Excel workbook that's here on the desktop, so I'll select it, and then I'll select Open.
 >
-> **[0:36](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=36)** Now, this insert file process that we're following is going to present you with some choices, and this file command that we chose is what you'll want to use if you're inserting an Office type of a file, like an Excel workbook, a PowerPoint presentation, or a Word document.
+> **[0:36](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=36)** Now, this insert file process that we're following is going to present you with some choices, and this file command that we chose is what you'll want to use if you're inserting an [[Microsoft Office|Office]] type of a file, like an Excel workbook, a PowerPoint presentation, or a Word document.
 >
-> **[0:50](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=50)** It's going to ask if you would like to take this locally saved file and upload it to your OneDrive document library, and then insert a link on this notebook page.
+> **[0:50](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=50)** It's going to ask if you would like to take this locally saved file and upload it to your [[Microsoft OneDrive|OneDrive]] document library, and then insert a link on this notebook page.
 >
-> **[1:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=60)** You also have the choice to insert it as an attachment, and it's going to look similar to how an attachment looks in an Outlook email, where you have the logo of the file type that's associated, and then the name of the file, and you're able to double click that attachment to open it in its associated application.
+> **[1:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=60)** You also have the choice to insert it as an attachment, and it's going to look similar to how an attachment looks in an [[Microsoft Outlook|Outlook]] email, where you have the logo of the file type that's associated, and then the name of the file, and you're able to double click that attachment to open it in its associated application.
 >
 > **[1:15](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/insert-a-document?u=76281980&t=75)** Or, you can insert it as a printout, and what it's going to do in the notebook page is make it look like it would if it were printed on real paper.
 >
@@ -2122,7 +2089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), application (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), [[Microsoft OneDrive|Onedrive]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (2), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** pdf (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2135,8 +2102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tag notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/tag-notes?u=76281980)
+#### [Tag notes](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/tag-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2230,18 +2196,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **UI Navigation:** go to (3), select the (2), dropdown (2)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Search for notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980)
+#### [Search for notes](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=0)** - [Instructor] OneNote has some pretty robust searching capabilities, including finding keyword results for a page, a section, an entire notebook, all open notebooks and for finding tagged notes.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=0)** - [Instructor] [[OneNote]] has some pretty robust searching capabilities, including finding keyword results for a page, a section, an entire notebook, all open notebooks and for finding tagged notes.
 >
 > **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=12)** To start a search, you'll need to select the magnifying glass over here on the rail.
 >
@@ -2251,7 +2215,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=32)** So I've selected Chef and you'll notice that there are two areas here, Pages and Tags.
 >
-> **[0:37](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=37)** It's indicating that there is a page called Meet the Chef and what's showing in purple in bold here is the matching criteria and, if I select this area, it takes me directly to the Meet the Chef page, where it has highlighted the matching word.
+> **[0:37](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=37)** It's indicating that there is a page called Meet the Chef and what's showing in purple in bold here is the matching criteria and, if I select this area, it takes me directly to the Meet the Chef page, where it has highlighted the matching [[Microsoft Word|word]].
 >
 > **[0:52](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=52)** Now, if I'd like to search for something else, I can simply replace it here in the search field, like cooking, and we get a list of results where we have a match for the name of a section.
 >
@@ -2269,7 +2233,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=97)** If we weren't on this page, though, by selecting one of these, it would take us directly to the page and it would highlight the match that it finds on that page.
 >
-> **[1:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=106)** Now, you may have noticed that we're only searching this current notebook, if you need to expand, or refine the results that you're looking for, go ahead and select this, and you can choose to search all notebooks that are open within OneNote for Windows 10, just this current notebook, just this section, or even just this page.
+> **[1:46](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=106)** Now, you may have noticed that we're only searching this current notebook, if you need to expand, or refine the results that you're looking for, go ahead and select this, and you can choose to search all notebooks that are open within OneNote for [[Windows 10]], just this current notebook, just this section, or even just this page.
 >
 > **[2:06](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/search-for-notes?u=76281980&t=126)** Now, to exit out of the search results you can go ahead and select the magnifying glass again, and that will hide the search pane.
 >
@@ -2283,7 +2247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[OneNote]] (2), [[Microsoft Word|Word]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (2), [[Microsoft Word|Word]] (1), [[Windows 10]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
@@ -2291,12 +2255,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### View who authored a note
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/view-who-authored-a-note?u=76281980)
+#### [View who authored a note](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/view-who-authored-a-note?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/view-who-authored-a-note?u=76281980&t=0)** - [Instructor] Every note container created in a notebook has some metadata included with it, like the date and time it was created and who created it.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/view-who-authored-a-note?u=76281980&t=0)** - [Instructor] Every note container created in a notebook has some [[Metadata]] included with it, like the date and time it was created and who created it.
 >
 > **[0:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/view-who-authored-a-note?u=76281980&t=8)** If you want to see who authored a note, place your mouse over the note container, right click, and then look at the bottom of the menu.
 >
@@ -2307,8 +2270,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Metadata]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980)
+#### [Print notes](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2322,11 +2284,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=13)** Now, your printer choices may differ from mine, depending on what you have installed on your device.
 >
-> **[0:19](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=19)** I have the OneNote app, that's the other desktop app installed.
+> **[0:19](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=19)** I have the [[OneNote]] app, that's the other desktop app installed.
 >
 > **[0:22](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=22)** So, that's why I have the choice here, OneNote Desktop.
 >
-> **[0:25](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=25)** You can also print as a PDF by choosing Microsoft Print to PDF, or you can specify one of your printers.
+> **[0:25](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=25)** You can also print as a PDF by choosing [[Microsoft]] Print to PDF, or you can specify one of your printers.
 >
 > **[0:32](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/print-notes?u=76281980&t=32)** After you make that selection, you'll continue on to choose the orientation for the page, portrait or landscape; how many copies you would like; if you would like this to print in color if your printer supports that; which page range you would like to include; and if there's any scaling needed to get the notes to fit to the paper.
 >
@@ -2342,8 +2304,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replay notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/replay-notes?u=76281980)
+#### [Replay notes](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/replay-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2383,12 +2344,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keyboard shortcuts and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980)
+#### [Keyboard shortcuts and resources](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=0)** - [Instructor] I'd like to share helpful resources, both in the OneNote app and online.
+> **[0:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=0)** - [Instructor] I'd like to share helpful resources, both in the [[OneNote]] app and online.
 >
 > **[0:05](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=5)** We're going to start with tell me what you want to do.
 >
@@ -2416,7 +2376,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=68)** We're going to select help because that presents the help pane over here to the right, where again, you can type in what you need help with.
 >
-> **[1:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=77)** This is a great place for you to get started with the fundamentals of OneNote for Windows 10.
+> **[1:17](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=77)** This is a great place for you to get started with the fundamentals of OneNote for [[Windows 10]].
 >
 > **[1:21](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=81)** Notice that we have a get started link to help us with that.
 >
@@ -2430,9 +2390,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=103)** Okay, let's go ahead and close the help panel.
 >
-> **[1:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=105)** Now I'm going to minimize this application, and in the browser, I have it already pre-populated with some of the resources that I recommend, starting here with support.[microsoft.com](https://microsoft.com).
+> **[1:45](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=105)** Now I'm going to minimize this application, and in the browser, I have it already pre-populated with some of the resources that I recommend, starting here with support.[[[Microsoft]].com](https://microsoft.com).
 >
-> **[1:56](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=116)** This is the official site for Office help and training, all of the various office applications that you use.
+> **[1:56](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=116)** This is the official site for [[Microsoft Office|Office]] help and training, all of the various office applications that you use.
 >
 > **[2:03](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=123)** Now as we scroll down, you'll notice that it's organized by some of the more popular applications, including OneNote.
 >
@@ -2454,7 +2414,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=180)** They work across the different apps, but some are specific.
 >
-> **[3:03](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=183)** So the one that says Windows here, that's the OneNote app that comes with an Office subscription.
+> **[3:03](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=183)** So the one that says [[Windows]] here, that's the OneNote app that comes with an Office subscription.
 >
 > **[3:08](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980&t=188)** It's a desktop app that supported.
 >
@@ -2494,7 +2454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (21), [[Windows 10]] (6), [[Microsoft Office|Office]] (4), application (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[OneNote]] (21), [[Windows 10]] (6), [[Microsoft Office|Office]] (4), [[Microsoft]] (3), [[Windows]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (3)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -2503,8 +2463,7 @@ created: 2026-05-02
 > **Code Identifiers:** ebooks (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expand your note-taking skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980)
+#### [Expand your note-taking skills](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2512,17 +2471,17 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=2)** I hope you have an opportunity to put your note-taking skills to work.
 >
-> **[0:07](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=7)** To continue your OneNote journey, I recommend these courses.
+> **[0:07](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=7)** To continue your [[OneNote]] journey, I recommend these courses.
 >
 > **[0:11](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=11)** OneNote Quick Tips.
 >
-> **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=12)** This course has many one-minute videos about OneNote for Windows 10, and the other desktop app known as OneNote.
+> **[0:12](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=12)** This course has many one-minute videos about OneNote for [[Windows 10]], and the other desktop app known as OneNote.
 >
 > **[0:19](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=19)** OneNote Tips and Tricks.
 >
 > **[0:20](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=20)** This course helps you streamline your note-taking with the OneNote app.
 >
-> **[0:24](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=24)** Learning OneNote for the web for Microsoft 365 and Office 365.
+> **[0:24](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=24)** Learning OneNote for the web for [[Microsoft 365]] and [[Microsoft Office|Office]] 365.
 >
 > **[0:29](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=29)** This course covers the fundamentals of note-taking with the web-based OneNote app.
 >
@@ -2534,15 +2493,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=48)** This course shows you how to set up a digital journal-style notebook for capturing notes in various timelines.
 >
-> **[0:54](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=54)** It includes downloadable page templates to help you structure your journal for work, personal, school, wellness. and all of the above.
+> **[0:54](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=54)** It includes downloadable page templates to help you structure your journal for work, personal, school, [[Wellness]]. and all of the above.
 >
-> **[1:02](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=62)** You can find me on LinkedIn and Twitter.
+> **[1:02](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=62)** You can find me on [[LinkedIn]] and Twitter.
 >
 > **[1:05](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/expand-your-note-taking-skills?u=76281980&t=65)** Let's keep the note-taking conversation going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (9), web (2), [[Microsoft 365]] (2), [[Windows 10]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[OneNote]] (9), [[Microsoft 365]] (2), [[Windows 10]] (1), [[Microsoft Office|Office]] (1), [[Wellness]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)

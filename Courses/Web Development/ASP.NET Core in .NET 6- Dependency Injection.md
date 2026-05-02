@@ -79,14 +79,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dependency injection overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980)
+#### [Dependency injection overview](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=0)** - If you're looking for a job as a .NET developer, it is essential that you understand what dependency injection is and how it works.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=0)** - If you're looking for a job as a .NET developer, it is essential that you understand what [[Dependency Injection]] is and how it works.
 >
-> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=7)** It's a popular feature in software development that allows for having entities that are not dependent on each other.
+> **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=7)** It's a popular feature in [[Software Development]] that allows for having entities that are not dependent on each other.
 >
 > **[0:12](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=12)** I'm David Grace and I've been a .NET, C# programmer for over 15 years.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=19)** We'll have a look at how to set up and configure dependency injection and walk you through the different service lifetimes and how they work.
 >
-> **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=26)** Afterwards, we'll implement dependency injection into a real-life example using an [ASP.NET](https://ASP.NET) Core MVC application to show you how to inject a service and use the methods within it.
+> **[0:26](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=26)** Afterwards, we'll implement dependency injection into a real-life example using an [[[ASP.NET]]](https://ASP.NET) Core MVC application to show you how to inject a service and use the methods within it.
 >
 > **[0:36](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980&t=36)** Then, you'll have the opportunity to try it out for yourselves.
 >
@@ -104,15 +103,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (6), [[ASP.NET Core]] (2), feature (1), [[Software Development]] (1), application (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (6), [[ASP.NET Core]] (2), [[Software Development]] (1)
 > **Env Vars:** net (4), asp (2), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,11 +120,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=9)** We'll be using variables, fields, and access modifiers within the course, to name a few.
 >
-> **[0:15](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=15)** As well as that, you'll need to have an understanding of object-oriented principles and how they work, in particular, knowledge of classes, interfaces, as well as inheritance is vital for understanding dependency injection.
+> **[0:15](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=15)** As well as that, you'll need to have an understanding of object-oriented principles and how they work, in particular, knowledge of classes, interfaces, as well as inheritance is vital for understanding [[Dependency Injection]].
 >
 > **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=28)** You'll also need to know how a constructor works and how it can be overloaded.
 >
-> **[0:32](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=32)** You should also have some experience in working with an [ASP.NET](https://ASP.NET) Core application.
+> **[0:32](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=32)** You should also have some experience in working with an [[[ASP.NET]]](https://ASP.NET) Core application.
 >
 > **[0:37](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-you-should-know?u=76281980&t=37)** There are some big changes to its predecessor, [ASP.NET](https://ASP.NET), including the way it is configured.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET Core]] (2), application (1), [[ASP.NET]] (1), web application (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET Core]] (2), [[ASP.NET]] (1)
 > **Env Vars:** asp (3), net (3), mvc (2), ide (1)
 > **URLs:** [asp.net](https://asp.net) (3)
 > **CLI Commands:** make (2)
@@ -150,8 +148,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,9 +158,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=7)** You can use other IDE such as Visual Studio Code if you wish but I will be using Visual Studio.
 >
-> **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=14)** You can download Visual Studio from Microsoft's website, either the free community edition or the paid professional and enterprise editions will work for this course.
+> **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=14)** You can download Visual Studio from [[Microsoft]]'s website, either the free community edition or the paid professional and enterprise editions will work for this course.
 >
-> **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=23)** I will be using a Windows machine with Visual Studio 2022 version 17.0.5.
+> **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=23)** I will be using a [[Windows]] machine with Visual Studio 2022 version 17.0.5.
 >
 > **[0:30](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=30)** If you're using an older copy of Visual Studio such as 2019, you'll need to download Visual Studio 2022 because .NET 6 projects are not supported in earlier versions.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=98)** There are a number of course videos where you can download the source code to follow along on your machine.
 >
-> **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=103)** The source code is located in a GitHub repository and is available at this URL.
+> **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=103)** The source code is located in a [[GitHub]] repository and is available at this URL.
 >
 > **[1:49](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-your-environment?u=76281980&t=109)** Each course video that has a code (indistinct) is located within a branch of that repay.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[GitHub]] (2), application (2), web application (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[GitHub]] (2), [[Microsoft]] (1)
 > **Tools:** visual studio (13), command line (2), github (2)
 > **Env Vars:** sdk (7), ide (2), net (2), url (2), mvc (2)
 > **Exercise Files:** download the (5), source code (3)
@@ -263,14 +260,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is dependency injection?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980)
+#### [What is dependency injection?](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=0)** - The Inversion of Control, or IoC design principle, is defined as given responsibility for control or logic to something else such as a framework.
 >
-> **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=10)** Dependency injection, or DI, is a design pattern that is part of the IoC design pattern allows dependent objects of a class to be created elsewhere rather than in the class itself.
+> **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=10)** [[Dependency Injection]], or DI, is a design pattern that is part of the IoC design pattern allows dependent objects of a class to be created elsewhere rather than in the class itself.
 >
 > **[0:21](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=21)** Take this example, a customer wishes to purchase a baseball bat from an online store.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=55)** By doing this, it means the customer can view the product, and the system doesn't have to work out what the shipping costs are.
 >
-> **[1:01](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=61)** [ASP.NET](https://ASP.NET) Core has a built in DI container and is designed to support dependency injection.
+> **[1:01](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=61)** [[[ASP.NET]]](https://ASP.NET) Core has a built in DI container and is designed to support dependency injection.
 >
 > **[1:07](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=67)** The way it works is that you register the classes as services in your [ASP.NET](https://ASP.NET) Core application.
 >
@@ -306,27 +302,26 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=109)** It can also be used in many different parts of the application's life cycle.
 >
-> **[1:53](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=113)** Maybe you need to display how many products a customer has added to their shopping cart, or whether they have purchased a product previously, dependency injection caters for both scenarios.
+> **[1:53](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=113)** Maybe you need to display how many [[Microsoft Products|products]] a customer has added to their shopping cart, or whether they have purchased a product previously, dependency injection caters for both scenarios.
 >
 > **[2:03](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980&t=123)** In addition, it has support for different service lifetimes where we can specify when a new service is created, and when it is disposed of.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Dependency Injection]] (5), application (3), [[ASP.NET Core]] (2), web application (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (5), [[ASP.NET Core]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** asp (2), net (2)
 > **Definitions:** is a  (2), defined as (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Service lifetimes
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980)
+#### [Service lifetimes](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=0)** - We're now going to look at the different Service Lifetimes independency injection.
 >
-> **[0:04](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=4)** We mentioned that [ASP.NET](https://ASP.NET) Core has a built-in DI container, and it's designed to support dependency injection.
+> **[0:04](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=4)** We mentioned that [[[ASP.NET]]](https://ASP.NET) Core has a built-in DI container, and it's designed to support [[Dependency Injection]].
 >
 > **[0:10](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=10)** We are going to have a look at the different Service Lifetimes so that we can register the classes to the [ASP.NET](https://ASP.NET) Core DI container classes can be registered as services with the following Service Lifetimes Singleton, Scoped, and Transient.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=102)** Scope Service Lifetime classes can also be explicitly defined.
 >
-> **[1:46](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=106)** And one example of this is in a background service just say we wanted to email a report of all the products that we are selling for less than 20 dollars.
+> **[1:46](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=106)** And one example of this is in a background service just say we wanted to email a report of all the [[Microsoft Products|products]] that we are selling for less than 20 dollars.
 >
 > **[1:55](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/service-lifetimes?u=76281980&t=115)** In this instance, we will create a task within our background service to do this.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (4), application (3), database (3), product (2), api (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[Dependency Injection]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** asp (4), net (4), http (2), api (2)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **Analogies:** such as (3)
@@ -397,14 +392,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the services
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980)
+#### [Setting up the services](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=0)** - [Presenter] We are now going to set up the services that we are going to use for dependency injection.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=0)** - [Presenter] We are now going to set up the services that we are going to use for [[Dependency Injection]].
 >
-> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=5)** To demonstrate this, we're going to set up an [ASP.NET](https://ASP.NET) Core MVC web application in .NET 6.
+> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=5)** To demonstrate this, we're going to set up an [[[ASP.NET]]](https://ASP.NET) Core MVC web application in .NET 6.
 >
 > **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=11)** The web application will be an online shopping website where we are selling merchandise.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=73)** Think of it as a database for this example.
 >
-> **[1:17](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=77)** It will store all the products, that will be available to buy on the website, as well as any shopping cart records that customers have been using to add products.
+> **[1:17](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=77)** It will store all the [[Microsoft Products|products]], that will be available to buy on the website, as well as any shopping cart records that customers have been using to add products.
 >
 > **[1:26](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980&t=86)** As this information will be used by any user hitting the web application, we will set this up with a singleton service lifetime.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), web application (4), [[Microsoft Products|Products]] (3), database (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Dependency Injection]] (1), [[ASP.NET Core]] (1)
 > **Prerequisites:** set up (5)
 > **Env Vars:** net (2), asp (1), mvc (1)
 > **Analogies:** such as (1), think of it as (1)
@@ -474,12 +468,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to configure dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980)
+#### [How to configure dependency injection](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=0)** - [Instructor] Now we're going to go ahead and configure these classes up as services in our [ASP.NET](https://ASP.NET) Core Web Application using the appropriate Service lifetimes.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=0)** - [Instructor] Now we're going to go ahead and configure these classes up as services in our [[[ASP.NET]]](https://ASP.NET) Core Web Application using the appropriate Service lifetimes.
 >
 > **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=8)** In .NET 6, there are some major changes that focused around cleaner code.
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=33)** We need to ensure that each class inherits an Interface and contains the members we wish to use.
 >
-> **[0:38](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=38)** The Interface will be exposed as a service to be used in Dependency Injection.
+> **[0:38](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=38)** The Interface will be exposed as a service to be used in [[Dependency Injection]].
 >
 > **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-configure-dependency-injection?u=76281980&t=42)** The reason why we expose the Interface is because an Interface only exposes the name and return types of its members.
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (4), web application (2), web (1), [[Dependency Injection]] (1), product (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[Dependency Injection]] (1)
 > **Env Vars:** net (10), asp (4), nbc (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [asp.net](https://asp.net) (4)
@@ -570,14 +563,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Other dependency injection configuration methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980)
+#### [Other dependency injection configuration methods](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=0)** - [Instructor] We've talked about the AddSingleton AddScoped and AddTransient extension methods.
 >
-> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=5)** Let's have a look at these overloads for these methods and how we can use them to configure dependency injection in our [asp.net](https://asp.net) call web application.
+> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=5)** Let's have a look at these overloads for these methods and how we can use them to configure [[Dependency Injection]] in our [[[ASP.NET]]](https://asp.net) call web application.
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=13)** When adding a service to the DI container we can pass in the type as a generic type into the method.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=23)** Whichever way we do it, we're also able to override the default behavior and run a delegate to create an instance of our service.
 >
-> **[0:31](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=31)** For example, there may be many customers that have added products to their shopping cart.
+> **[0:31](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=31)** For example, there may be many customers that have added [[Microsoft Products|products]] to their shopping cart.
 >
 > **[0:35](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/other-dependency-injection-configuration-methods?u=76281980&t=35)** We need a way of defining which shopping cart belongs to which customer, one way we can do that is to pass in a unique identifier which defines which shopping cart belongs to which customer.
 >
@@ -645,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (3), generic (3), [[ASP.NET]] (1), web application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -658,14 +650,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to inject services into a controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980)
+#### [How to inject services into a controller](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=0)** - [Instructor] We've already added our services to the DI Container.
 >
-> **[0:03](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=3)** Now we're going to start using these services in different components within our [ASP.NET](https://ASP.NET) Core application.
+> **[0:03](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=3)** Now we're going to start using these services in different components within our [[[ASP.NET]]](https://ASP.NET) Core application.
 >
 > **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=9)** The first way of doing this is to inject a service into a controller.
 >
@@ -681,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=42)** We have our product controller and we have an empty constructor.
 >
-> **[0:46](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=46)** We are going to pass in our services from our DI Container to use for dependency injection.
+> **[0:46](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=46)** We are going to pass in our services from our DI Container to use for [[Dependency Injection]].
 >
 > **[0:51](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=51)** First, we're going to pass in our product service as a parameter, as we're using the interface as the service, we're going to declare the eye product service interface as the type.
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=163)** Let's run the application and see if we're getting the data.
 >
-> **[2:48](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=168)** Looking at our storage service, we're storing the products that we wish to include as part of our online shopping website.
+> **[2:48](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=168)** Looking at our storage service, we're storing the [[Microsoft Products|products]] that we wish to include as part of our online shopping website.
 >
 > **[2:55](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980&t=175)** One of these products has a SKU of BUB-APR.
 >
@@ -739,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (23), application (4), data (3), [[ASP.NET Core]] (2), web application (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[Microsoft Products|Products]] (2), [[Dependency Injection]] (1)
 > **Env Vars:** sku (7), asp (3), net (3), mvc (2), bub (2)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -748,12 +739,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inject services in other components of a web application
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/inject-services-in-other-components-of-a-web-application?u=76281980)
+#### [Inject services in other components of a web application](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/inject-services-in-other-components-of-a-web-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/inject-services-in-other-components-of-a-web-application?u=76281980&t=0)** - It's time to look at injecting services into other components of [ASP.NET](https://ASP.NET) Core.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/inject-services-in-other-components-of-a-web-application?u=76281980&t=0)** - It's time to look at injecting services into other components of [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:06](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/inject-services-in-other-components-of-a-web-application?u=76281980&t=6)** There may be scenarios where we want to inject a service outside of a class.
 >
@@ -831,15 +821,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (16), [[ASP.NET Core]] (2), application (2), generic (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2)
 > **Env Vars:** asp (2), net (2), http (2), mvc (1), sku (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Code Identifiers:** hasproduct (1)
 > **Speakers:** - it (1)
 
-#### How to set up a hosted service
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980)
+#### [How to set up a hosted service](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=8)** A hosted service is a service that allows tasks to run in the background.
 >
-> **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=13)** They can either be configured in an [ASP.NET](https://ASP.NET) Core application, or be set up for a Worker Service template.
+> **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=13)** They can either be configured in an [[[ASP.NET]]](https://ASP.NET) Core application, or be set up for a Worker Service template.
 >
 > **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=19)** A Worker Service template is designed specifically for background tasks.
 >
@@ -879,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=83)** It uses that scope to get the product service instance from the di container.
 >
-> **[1:28](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=88)** Next, it makes an API call to get the stock levels for all the products.
+> **[1:28](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=88)** Next, it makes an API call to get the stock levels for all the [[Microsoft Products|products]].
 >
 > **[1:33](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=93)** Assuming the API call is successful, it binds adjacent response to a product stock model class.
 >
@@ -913,11 +902,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=179)** Refreshing our product page, We can see that it's now displaying our stock level to 10.
 >
-> **[3:04](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=184)** So we have successfully used dependency injection in a hosted service to update stock level of a product.
+> **[3:04](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-set-up-a-hosted-service?u=76281980&t=184)** So we have successfully used [[Dependency Injection]] in a hosted service to update stock level of a product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), application (4), api (3), [[ASP.NET Core]] (2), web application (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[Microsoft Products|Products]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** api (3), asp (2), net (2), apr (2)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -926,8 +915,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disposing of a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/disposing-of-a-service?u=76281980)
+#### [Disposing of a service](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/disposing-of-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +925,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/disposing-of-a-service?u=76281980&t=12)** This is done by inheriting the IDisposable interface and implementing the Disposable method into the class.
 >
-> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/disposing-of-a-service?u=76281980&t=19)** And it works in the same way with classes that use dependency injection.
+> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/disposing-of-a-service?u=76281980&t=19)** And it works in the same way with classes that use [[Dependency Injection]].
 >
 > **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/disposing-of-a-service?u=76281980&t=23)** The disposable method is implemented and any instances that need to be disposed of will sit in that method.
 >
@@ -981,29 +969,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (4), product (3), database (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (4)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **Best Practices:** general rule (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Set up an application using dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980)
+#### [Challenge: Set up an application using dependency injection](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=5)** - [Instructor] It's time for you to put dependency injection into action.
+> **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=5)** - [Instructor] It's time for you to put [[Dependency Injection]] into action.
 >
-> **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=9)** The goal here is to display a list of all the products on the homepage of the web application.
+> **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=9)** The goal here is to display a list of all the [[Microsoft Products|products]] on the homepage of the web application.
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=13)** There is a method called GetAll in the ProductService class that will retrieve all the products when called.
 >
-> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=19)** When using an [ASP.NET](https://ASP.NET) Core MVC application, the aim here is to inject the product service from the DI container so it could be used to achieve the end result.
+> **[0:19](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=19)** When using an [[[ASP.NET]]](https://ASP.NET) Core MVC application, the aim here is to inject the product service from the DI container so it could be used to achieve the end result.
 >
-> **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=28)** So we already have a Visual Studio solution which you can download from GitHub.
+> **[0:28](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=28)** So we already have a Visual Studio solution which you can download from [[GitHub]].
 >
 > **[0:32](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/challenge-set-up-an-application-using-dependency-injection?u=76281980&t=32)** There are two projects within that solution.
 >
@@ -1025,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), application (4), [[Dependency Injection]] (2), [[ASP.NET Core]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Dependency Injection]] (2), [[ASP.NET Core]] (2), [[GitHub]] (1)
 > **Env Vars:** mvc (4), asp (2), net (2)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -1034,12 +1021,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Solution: Set up an application using dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/solution-set-up-an-application-using-dependency-injection?u=76281980)
+#### [Solution: Set up an application using dependency injection](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/solution-set-up-an-application-using-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/solution-set-up-an-application-using-dependency-injection?u=76281980&t=0)** - [Instructor] Here is one solution that displays all the products on the homepage using dependency injection and [ASP.NET](https://ASP.NET) Core MVC.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/solution-set-up-an-application-using-dependency-injection?u=76281980&t=0)** - [Instructor] Here is one solution that displays all the [[Microsoft Products|products]] on the homepage using [[Dependency Injection]] and [[[ASP.NET]]](https://ASP.NET) Core MVC.
 >
 > **[0:13](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/solution-set-up-an-application-using-dependency-injection?u=76281980&t=13)** The first thing we have to do is to add the storage service and product service to the DI container.
 >
@@ -1057,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), application (2), [[Dependency Injection]] (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Dependency Injection]] (1), [[ASP.NET Core]] (1)
 > **Env Vars:** mvc (2), asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
@@ -1068,12 +1054,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Forgetting to add a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980)
+#### [Forgetting to add a service](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980&t=0)** - [Instructor] We're now going to look at some common errors that occur when using dependency injection.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980&t=0)** - [Instructor] We're now going to look at some common errors that occur when using [[Dependency Injection]].
 >
 > **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980&t=5)** The first one is forgetting to add a service.
 >
@@ -1121,12 +1106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), application (4), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting services with different service lifetimes
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/injecting-services-with-different-service-lifetimes?u=76281980)
+#### [Injecting services with different service lifetimes](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/injecting-services-with-different-service-lifetimes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,14 +1176,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** http (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Circular dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980)
+#### [Circular dependency](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,17 +1189,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=5)** For example, we have a product service, and we wish to inject the category service to get all a categories that a product belongs to.
 >
-> **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=11)** However, with the category service, we wish to inject the product service to get all the products that belong to a particular category.
+> **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=11)** However, with the category service, we wish to inject the product service to get all the [[Microsoft Products|products]] that belong to a particular category.
 >
 > **[0:17](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=17)** This is an example of circular dependency as the category service relies on the product service, and the product service relies on the category service.
 >
-> **[0:25](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=25)** Circular dependency is a bad idea as it can involve tight coupling between classes, something that dependency injection is designed to reduce.
+> **[0:25](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=25)** Circular dependency is a bad idea as it can involve tight coupling between classes, something that [[Dependency Injection]] is designed to reduce.
 >
 > **[0:32](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=32)** In addition, it can make the code confusing as it goes against the single responsibility principle.
 >
 > **[0:37](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=37)** If both services rely on each other, they both have a responsibility for each other.
 >
-> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=42)** In [ASP.NET](https://ASP.NET) Core, it's forbidden to use circular dependency to inject services for a class's constructor.
+> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=42)** In [[[ASP.NET]]](https://ASP.NET) Core, it's forbidden to use circular dependency to inject services for a class's constructor.
 >
 > **[0:49](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/circular-dependency?u=76281980&t=49)** If you really need to use circular dependency, you can inject the service by injecting the service collection into the constructor and using that service collection to get the service.
 >
@@ -1251,7 +1233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), application (4), [[Dependency Injection]] (2), [[ASP.NET Core]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (2), [[ASP.NET Core]] (2), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** productservice (6), serviceprovider (4), storageservice (1)
 > **Env Vars:** asp (2), net (2)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -1260,8 +1242,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ambiguous constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/ambiguous-constructors?u=76281980)
+#### [Ambiguous constructors](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/ambiguous-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/ambiguous-constructors?u=76281980&t=8)** C Sharp can tell the difference in constructors even through the number of parameters specified, the type given to each parameter or the way they are ordered.
 >
-> **[0:16](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/ambiguous-constructors?u=76281980&t=16)** What happens if a service use for dependency injection takes advantage of constructor overloading?
+> **[0:16](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/ambiguous-constructors?u=76281980&t=16)** What happens if a service use for [[Dependency Injection]] takes advantage of constructor overloading?
 >
 > **[0:22](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/ambiguous-constructors?u=76281980&t=22)** For example, the ShoppingCartService has a constructor where it passes in the productService as a parameter.
 >
@@ -1315,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (3), application (2)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3)
 > **Code Identifiers:** productservice (2), serviceprovider (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
@@ -1327,12 +1308,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your ASP.NET Core journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980)
+#### [Continue your ASP.NET Core journey](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=0)** - Now that you have a better understanding of dependency injection and how it is used in [ASP.NET](https://ASP.NET) Core, I encourage you to start using it in your web applications to get a better understanding on how it works and how it behaves.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=0)** - Now that you have a better understanding of [[Dependency Injection]] and how it is used in [[[ASP.NET]]](https://ASP.NET) Core, I encourage you to start using it in your web applications to get a better understanding on how it works and how it behaves.
 >
 > **[0:11](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=11)** The built-in DI container is just one of several DI containers that are available for [ASP.NET](https://ASP.NET) Core.
 >
@@ -1348,7 +1328,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=40)** I'm sure you agree with me that it's a great design pattern when you use it regularly.
 >
-> **[0:44](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=44)** If you want to get in touch with me, you can find me on LinkedIn, visit my website, or my YouTube channel.
+> **[0:44](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=44)** If you want to get in touch with me, you can find me on [[LinkedIn]], visit my website, or my YouTube channel.
 >
 > **[0:49](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980&t=49)** Thanks very much for watching.
 >
@@ -1356,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET Core]] (2), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (3), [[ASP.NET Core]] (2), [[LinkedIn]] (1)
 > **Env Vars:** asp (2), net (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **CLI Commands:** find (1)

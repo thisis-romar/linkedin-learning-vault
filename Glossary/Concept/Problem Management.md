@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/it-help-desk
   - topic/cloud-computing
-course_count: 11
+course_count: 12
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Problem Management
 
-> **Type:** Concept | **Courses:** 11 | **Topics:** [[DevOps]], [[Network and System Administration]], [[Data Science]], [[IT Help Desk]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 12 | **Topics:** [[DevOps]], [[Network and System Administration]], [[Data Science]], [[IT Help Desk]], [[Cloud Computing]]
 
 ## Courses
 
@@ -37,11 +37,12 @@ created: 2026-05-02
 6. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 3 mentions
 7. [[IT Service Desk- Customer Service Fundamentals]] — 2 mentions
 8. [[Everything as a Service (XaaS) is the Future of Business]] — 1 mentions
-9. [[IT Service Management Foundations- Measures and Metrics]] — 1 mentions
-10. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
+9. [[Operational Excellence Foundations]] — 1 mentions
+10. [[IT Service Management Foundations- Measures and Metrics]] — 1 mentions
 
-> [!note]- See all 11 courses
-> 11. [[Jira Service Management- Administration]] — 1 mentions
+> [!note]- See all 12 courses
+> 11. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
+> 12. [[Jira Service Management- Administration]] — 1 mentions
 
 ## Learning Paths
 
@@ -50,7 +51,8 @@ created: 2026-05-02
 3. [[Improve Your ITIL® Skills]] — 32 total mentions
 4. [[Advance Your Skills as an IT Help Desk Specialist]] — 2 total mentions
 5. [[Improve Your Digital Transformation Skills]] — 1 total mentions
-6. [[Mastering Jira Administration]] — 1 total mentions
+6. [[Advance Your Skills as a Supply Chain Manager]] — 1 total mentions
+7. [[Mastering Jira Administration]] — 1 total mentions
 
 ---
 

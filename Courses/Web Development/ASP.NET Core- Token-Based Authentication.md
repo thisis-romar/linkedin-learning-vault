@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use exception token-based authentication?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980)
+#### [Why use exception token-based authentication?](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,24 +91,23 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=14)** We'll start off by talking about the difference between the authentication and authorization and the common capabilities of the Identity framework.
 >
-> **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=23)** Next, you'll learn how to register users to your app, generate access and refresh tokens, and also store the refresh tokens in an SQL database using the Entity Framework core.
+> **[0:23](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=23)** Next, you'll learn how to register users to your app, generate access and refresh [[Tokens]], and also store the refresh tokens in an [[SQL]] database using the Entity Framework core.
 >
 > **[0:36](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=36)** By the end of this course, you'll learn how to add role claims to an access token and implement the role-based authentication in a Web API.
 >
 > **[0:45](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=45)** Hi, I am Ervis Trupja and I specialize in building .NET web applications.
 >
-> **[0:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=51)** Join me in my LinkedIn Learning course as we explore the token-based authentication in an [ASP.NET](https://ASP.NET) Web API application.
+> **[0:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980&t=51)** Join me in my [[LinkedIn]] Learning course as we explore the token-based authentication in an [[[ASP.NET]]](https://ASP.NET) Web API application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (2), web (2), [[Security]] (1), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[SQL]] (1), [[LinkedIn]] (1), [[ASP.NET Web API]] (1)
 > **Env Vars:** api (2), net (2), sql (1), asp (1)
 > **CLI Commands:** make (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [ervis] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,11 +127,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-you-should-know?u=76281980&t=35)** As my coding editor, I'll be using Visual Studio 2019 Community Edition, but you can use any version of Visual Studio 2019 or later.
 >
-> **[0:46](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-you-should-know?u=76281980&t=46)** Throughout these course, if you'd like to follow along while I'm coding, you can download the exercise files from the GitHub repository of these course.
+> **[0:46](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-you-should-know?u=76281980&t=46)** Throughout these course, if you'd like to follow along while I'm coding, you can download the exercise files from the [[GitHub]] repository of these course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), api (1), application (1), [[Programming]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** net (2), api (1)
 > **Tools:** visual studio (2), github (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -146,8 +144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication vs. authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980)
+#### [Authentication vs. authorization](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980&t=99)** And this is when authorization comes into place.
 >
-> **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980&t=103)** So for example, the managers are authorized to access the manager office.
+> **[1:43](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980&t=103)** So for example, the managers are authorized to access the manager [[Microsoft Office|office]].
 >
 > **[1:49](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980&t=109)** The programmers are authorized to access the programmer offices.
 >
@@ -187,12 +184,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cookie-based vs. token-based authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/cookie-based-vs-token-based-authentication?u=76281980)
+#### [Cookie-based vs. token-based authentication](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/cookie-based-vs-token-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/cookie-based-vs-token-based-authentication?u=76281980&t=155)** The server is going to check if the token is valid, it is going to return some data.
 >
-> **[2:41](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/cookie-based-vs-token-based-authentication?u=76281980&t=161)** So far we have resolved the first problem, which was that this server would get overloaded if millions of users let's say tried to access the application at the same time, because in this case, the server does not create sessions, but instead it just generates tokens, and the tokens are returned to the user, which then gets stored in the browser or in the device or wherever you are accessing the application from.
+> **[2:41](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/cookie-based-vs-token-based-authentication?u=76281980&t=161)** So far we have resolved the first problem, which was that this server would get overloaded if millions of users let's say tried to access the application at the same time, because in this case, the server does not create sessions, but instead it just generates [[Tokens]], and the tokens are returned to the user, which then gets stored in the browser or in the device or wherever you are accessing the application from.
 >
 > **[3:07](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/cookie-based-vs-token-based-authentication?u=76281980&t=187)** But the second problem is still valid.
 >
@@ -256,19 +252,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), data (5), application (3), next (2), web application (1)
+> **Frameworks & Libraries:** [[Tokens]] (7)
 > **Code Identifiers:** sessionid (5), sessionids (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is identity platform?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980)
+#### [What is identity platform?](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=0)** - [Instructor] In this course we are going to use the Entity Framework Core to work with data in an SQL server database.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=0)** - [Instructor] In this course we are going to use the Entity Framework Core to work with data in an [[Microsoft SQL Server|SQL server]] database.
 >
 > **[0:08](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=8)** We are also going to use another .NET framework, which is going to help us manage identity-related functionality, for example, to create a new user account, to add roles to a user, et cetera.
 >
@@ -278,7 +273,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=46)** For example, we are going to use it to manage users, to manage passwords, and to manage roles.
 >
-> **[0:53](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=53)** But you can also use this framework to manage the profile data, to manage the user claims, the tokens, the email confirmation, and much more.
+> **[0:53](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=53)** But you can also use this framework to manage the profile data, to manage the user claims, the [[Tokens]], the email confirmation, and much more.
 >
 > **[1:04](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/what-is-identity-platform-14186101?u=76281980&t=64)** To be able to use the identity framework, you will have to install this package.
 >
@@ -286,18 +281,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft SQL Server|Sql server]] (1), database (1), application (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Tokens]] (1)
 > **Env Vars:** sql (1), net (1), mvc (1), api (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### JSON Web Token
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/json-web-token-14185181?u=76281980)
+#### [JSON Web Token](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/json-web-token-14185181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/json-web-token-14185181?u=76281980&t=0)** - [Instructor] The JSON Web Token, or the JWT, is the token type that we are going to use throughout this course.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/json-web-token-14185181?u=76281980&t=0)** - [Instructor] The [[JSON]] Web Token, or the JWT, is the token type that we are going to use throughout this course.
 >
 > **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/json-web-token-14185181?u=76281980&t=9)** And, per definition, the JWT is an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 >
@@ -337,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** jwt (7), json (2), url (1)
 > **Definitions:** is an  (1), in other words (1), is a  (1)
 > **Analogies:** for example (3)
@@ -350,8 +344,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Entity Framework Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980)
+#### [Setting up Entity Framework Core](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,9 +370,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=58)** And if you do not see the Server Explorer in here, you can just go to View, and then in here go to the Server Explorer.
 >
-> **[1:07](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=67)** Now, in the Data Connections, I'll just right-click and then Create New SQL Server Database, and then here I'll type my server name, and my server name is ETR then /sqlserver.
+> **[1:07](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=67)** Now, in the Data Connections, I'll just right-click and then Create New [[Microsoft SQL Server|SQL Server]] Database, and then here I'll type my server name, and my server name is ETR then /sqlserver.
 >
-> **[1:24](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=84)** I'll just use Windows Authentication and then define a database name.
+> **[1:24](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=84)** I'll just use [[Windows]] Authentication and then define a database name.
 >
 > **[1:29](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=89)** I'll name this database, let's say, school-db, or just school-api-db, and then click the OK button.
 >
@@ -389,7 +382,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=115)** So Control + A to select the value and then Control + C to copy the value.
 >
-> **[2:02](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=122)** Now, let us go to the Solution Explorer and then here go to the appsettings.json file, and we are going to store this value in this file because in the Web API projects, this is the file where you put the Connection Strings, the API keys, et cetera.
+> **[2:02](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=122)** Now, let us go to the Solution Explorer and then here go to the appsettings.[[JSON]] file, and we are going to store this value in this file because in the Web API projects, this is the file where you put the Connection Strings, the API keys, et cetera.
 >
 > **[2:20](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=140)** So I'm going to create a new section in here.
 >
@@ -411,7 +404,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=193)** Now, inside the Data folder, we are going to add the DbContext file.
 >
-> **[3:17](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=197)** The DbContext file is also known as the translator file because it is able to understand SQL code but also C# code.
+> **[3:17](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=197)** The DbContext file is also known as the translator file because it is able to understand [[SQL]] code but also C# code.
 >
 > **[3:27](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=207)** Now, we are going to create our custom DbContext file.
 >
@@ -437,7 +430,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=268)** And in the Browse section, search for EntityFrameworkCore, so EntityFrameworkCore.
 >
-> **[4:37](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=277)** Then select the first option, which is the Microsoft.EntityFrameworkCore, select the project and click Install.
+> **[4:37](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=277)** Then select the first option, which is the [[Microsoft]].EntityFrameworkCore, select the project and click Install.
 >
 > **[4:47](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980&t=287)** Then accept the licenses.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), data (7), database (7), [[Microsoft SQL Server|Sql server]] (5), web (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft]] (4), [[JSON]] (3), [[SQL]] (3), [[Windows]] (1)
 > **UI Navigation:** go to (16), right-click (3), select the (3)
 > **Env Vars:** api (9), sql (6), net (1), etr (1)
 > **Prerequisites:** install (4), set up (2), configure (2)
@@ -508,8 +501,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Tools:** visual studio (1)
 
-#### Adding default identity tables using EF Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980)
+#### [Adding default identity tables using EF Core](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=40)** Then we are going to add a custom property.
 >
-> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=42)** And we are going to see how this custom property creates a custom column in the SQL Server database that we created on the last part.
+> **[0:42](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=42)** And we are going to see how this custom property creates a custom column in the [[Microsoft SQL Server|SQL Server]] database that we created on the last part.
 >
 > **[0:52](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=52)** So for that, let us go to the Solution Explorer.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=217)** Now, let us also add the namespace for the identityDbcontext.
 >
-> **[3:42](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=222)** And for that, we need to install the package, Microsoft.ASPNETCore.identity.entityframeworkcore.
+> **[3:42](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=222)** And for that, we need to install the package, [[Microsoft]].ASPNETCore.identity.entityframeworkcore.
 >
 > **[3:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=231)** So I'll just select in here find and install latest version.
 >
@@ -605,7 +597,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=244)** And then here, scroll down to the configure services method.
 >
-> **[4:08](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=248)** And just after the configure Dbcontext with SQL, we are going to first add identity, which we are going to also use in the upcoming part.
+> **[4:08](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=248)** And just after the configure Dbcontext with [[SQL]], we are going to first add identity, which we are going to also use in the upcoming part.
 >
 > **[4:18](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-default-identity-tables-using-ef-core?u=76281980&t=258)** So just add identity.
 >
@@ -727,7 +719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (4), next (3), application (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **UI Navigation:** go to (10), right-click (2), select the (2), scroll down (1), open the (1)
 > **Prerequisites:** install (4), configure (2)
 > **Analogies:** for example (3)
@@ -736,8 +728,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
 
-#### Configuring token-based authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980)
+#### [Configuring token-based authentication](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +776,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=125)** Now let us import the namespace because we see that we get an error.
 >
-> **[2:10](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=130)** And at the namespace, you'll need to install the package Microsoft.Authentication.JwtBearer.
+> **[2:10](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=130)** And at the namespace, you'll need to install the package [[Microsoft]].Authentication.JwtBearer.
 >
 > **[2:19](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=139)** So I'll just select this option, and then go to the find and install latest version.
 >
@@ -819,7 +810,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=252)** The second property is the RequireHttpsMetadata.
 >
-> **[4:17](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=257)** RequireHttpsMetadata, and if you check the description, it says that this gets or sets if HTTPS is required for the metadata address or authority.
+> **[4:17](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=257)** RequireHttpsMetadata, and if you check the description, it says that this gets or sets if HTTPS is required for the [[Metadata]] address or authority.
 >
 > **[4:32](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=272)** So basically, by setting this property to false, what you do is that you allow the token-based authentication to work over HTTP as well.
 >
@@ -829,7 +820,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=297)** So options.tokenValidationParameters is equal to new TokenValidationParameters.
 >
-> **[5:07](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=307)** I'm just going to remove the IdentityModel.Tokens.
+> **[5:07](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=307)** I'm just going to remove the IdentityModel.[[Tokens]].
 >
 > **[5:13](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=313)** And then import the namespace for the TokenValidationParameters.
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=340)** And once you set this property to true, what you need to do next is that you need to define or you need to set which is the issuer signing key.
 >
-> **[5:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=351)** And now our signing key was just added in the appsettings.json file.
+> **[5:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=351)** And now our signing key was just added in the appsettings.[[JSON]] file.
 >
 > **[5:55](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/configuring-token-based-authentication?u=76281980&t=355)** So basically we are going to use this key to check if the token is valid because the same key is also used to generate the token.
 >
@@ -921,7 +912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), api (2), [[Tokens]] (2), [[JSON]] (2), data (2)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[JSON]] (2), [[Microsoft]] (1), [[Metadata]] (1)
 > **Env Vars:** jwt (9), api (2), https (1), http (1), ascii (1)
 > **UI Navigation:** go to (8), scroll down (1)
 > **Prerequisites:** configure (5), install (2), set up (1), you'll need (1)
@@ -930,8 +921,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
 
-#### Adding the authentication controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980)
+#### [Adding the authentication controller](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +961,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=111)** The userManager is just a C# class, which provides the APIs for managing users in a persistent store.
 >
-> **[2:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=120)** And the persistent store in our case is the SQL Server database.
+> **[2:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=120)** And the persistent store in our case is the [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[2:05](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=125)** So this is basically just an AspNetCore.Identity class that we can use to work with our users.
 >
@@ -989,13 +979,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=175)** So private readonly is going to be the AppDbContext, and then just _context.
 >
-> **[3:04](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=184)** Then at the end, we are going to inject the IConfiguration interface because if we want to get some data from the appsettings.json file, we need the IConfiguration interface.
+> **[3:04](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=184)** Then at the end, we are going to inject the IConfiguration interface because if we want to get some data from the appsettings.[[JSON]] file, we need the IConfiguration interface.
 >
 > **[3:14](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=194)** So private readonly, and this is going to be the IConfiguration and then just _configuration.
 >
 > **[3:26](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=206)** Now, let us import the namespace for the AppDbContext, and for the AppDbContext, that is the API.Data.
 >
-> **[3:33](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=213)** And for the IConfiguration, that is the Microsoft.Extensions.Configuration.
+> **[3:33](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=213)** And for the IConfiguration, that is the [[Microsoft]].Extensions.Configuration.
 >
 > **[3:41](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-authentication-controller?u=76281980&t=221)** Now, let us create the constructor because we need to inject all these classes and interfaces.
 >
@@ -1037,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (5), next (3), database (3), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[JSON]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (7), sql (2)
 > **Code Identifiers:** usermanager (3), rolemanager (1)
 > **UI Navigation:** go to (3), select the (1)
@@ -1045,8 +1035,7 @@ created: 2026-05-02
 > **File Paths:** appsettings.json (1)
 > **Speakers:** - [instructor] (1)
 
-#### Registering new users using UserManager
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/registering-new-users-using-usermanager?u=76281980)
+#### [Registering new users using UserManager](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/registering-new-users-using-usermanager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1179,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), api (7), database (6), next (2), [[Security]] (1)
 > **Code Identifiers:** registervm (5), registeredvm (3), registeruser (2), modelstate (1), newuser (1)
 > **UI Navigation:** go to (5), scroll down (3), click on (2)
 > **Env Vars:** api (7)
@@ -1198,9 +1186,9 @@ created: 2026-05-02
 > **URLs:** [gmail.com](https://gmail.com) (2)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (2)
+> **CLI Commands:** make (1)
 
-#### Logging in users
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/logging-in-users?u=76281980)
+#### [Logging in users](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/logging-in-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1264,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), api (2), data (1), power (1), application (1)
 > **Code Identifiers:** loginvm (7), usermanager (3), userexists (2), logvm (1)
 > **UI Navigation:** scroll down (3), go to (2), open the (1), scroll up (1)
 > **Env Vars:** api (2), http (1)
@@ -1284,9 +1271,9 @@ created: 2026-05-02
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - on (1)
 
-#### Generating an access token
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980)
+#### [Generating an access token](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,7 +1341,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=212)** We have the subject and have just said the subject to be the email, we had the GTI and for the GTI I have just created a NewGuid.
 >
-> **[3:44](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=224)** Next, we need to get the secret key from the app settings.json file.
+> **[3:44](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=224)** Next, we need to get the secret key from the app settings.[[JSON]] file.
 >
 > **[3:50](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=230)** So I'll just go to the solution explorer because we have already typed that code and then go to the startup.cs, scroll down in here to the secret part, and then just copy these parts, so Ctrl + C, then go back to the authentication controller and I'll type in here var authSigningKey is equal to, and I'll let us import this symmetric security key, then import the Encoding and then replace the configuration with the _configuration.
 >
@@ -1428,7 +1415,7 @@ created: 2026-05-02
 >
 > **[8:33](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=513)** This' going to be a post, an antibody when you go to the row and then change the text in here to be JSON.
 >
-> **[8:42](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=522)** Then inside here, I'm going to define the email address to be, let's say, test@[gmail.com](https://gmail.com) and the best word is going to be Coding@2021.
+> **[8:42](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=522)** Then inside here, I'm going to define the email address to be, let's say, test@[gmail.com](https://gmail.com) and the best [[Microsoft Word|word]] is going to be Coding@2021.
 >
 > **[9:01](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-an-access-token?u=76281980&t=541)** And here, if I change the API endpoint to be api/authentication/login-user, and then click, the Send button is a response now we get an expires at an a talk on value.
 >
@@ -1442,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Security]] (5), [[JSON]] (5), next (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (10), scroll down (2), scroll up (1)
 > **Code Identifiers:** userexists (4), authclaims (2), registerclaims (2), authsigningkey (2), tokenvalue (1)
 > **Env Vars:** api (7), json (3), gti (2)
@@ -1451,12 +1438,11 @@ created: 2026-05-02
 > **File Paths:** settings.json (2)
 > **Cross-References:** go back to (2)
 
-#### Adding the RefreshToken table
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-refreshtoken-table?u=76281980)
+#### [Adding the RefreshToken table](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-refreshtoken-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-refreshtoken-table?u=76281980&t=0)** - [Instructor] So far, you have learned how to generate an access token, but access tokens, or just tokens, are short-lived because they are valid for typically five to 10 minutes.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-refreshtoken-table?u=76281980&t=0)** - [Instructor] So far, you have learned how to generate an access token, but access [[Tokens]], or just tokens, are short-lived because they are valid for typically five to 10 minutes.
 >
 > **[0:14](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-the-refreshtoken-table?u=76281980&t=14)** Once a token is expired, you need to use a refresh token to generate a new token.
 >
@@ -1556,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (12), next (6), database (5), data (5), application (1)
+> **Frameworks & Libraries:** [[Tokens]] (12)
 > **UI Navigation:** go to (6)
 > **Code Identifiers:** isrevoked (1), appdbcontext (1), refreshtokenstableadded (1)
 > **Env Vars:** jwt (2)
@@ -1565,12 +1551,11 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Prerequisites:** set up (1)
 
-#### Generating and storing refresh tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-and-storing-refresh-tokens?u=76281980)
+#### [Generating and storing refresh tokens](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-and-storing-refresh-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-and-storing-refresh-tokens?u=76281980&t=0)** - [Instructor] So now that you've created the refresh token stable, it is time to generate a refresh token and also store that token in the SQL database.
+> **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-and-storing-refresh-tokens?u=76281980&t=0)** - [Instructor] So now that you've created the refresh token stable, it is time to generate a refresh token and also store that token in the [[SQL]] database.
 >
 > **[0:12](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/generating-and-storing-refresh-tokens?u=76281980&t=12)** So, let's go to Visual Studio and see connection.
 >
@@ -1642,7 +1627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (3), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** refreshtoken (4), generatejwttokenasync (1), jwttoken (1), expiresat (1), jwtid (1)
 > **UI Navigation:** go to (5), scroll down (2)
 > **Tools:** visual studio (4), postman (1)
@@ -1651,14 +1636,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting TokenValidationParameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/injecting-tokenvalidationparameters?u=76281980)
+#### [Injecting TokenValidationParameters](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/injecting-tokenvalidationparameters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/injecting-tokenvalidationparameters?u=76281980&t=0)** - [Instructor] If a token is expired, it's really important to be able to generate a new access token using a refresh token.
 >
-> **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/injecting-tokenvalidationparameters?u=76281980&t=9)** But before we write the actual code of refreshing tokens, we are going to first inject the token validation parameters as we are going to need it in the next part.
+> **[0:09](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/injecting-tokenvalidationparameters?u=76281980&t=9)** But before we write the actual code of refreshing [[Tokens]], we are going to first inject the token validation parameters as we are going to need it in the next part.
 >
 > **[0:20](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/injecting-tokenvalidationparameters?u=76281980&t=20)** So let's go to Visual Studio.
 >
@@ -1694,7 +1678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **UI Navigation:** go to (2), scroll down (2)
 > **Code Identifiers:** tokenvalidationparameters (2), addsingleton (1)
 > **Cross-References:** in the next (2)
@@ -1702,8 +1686,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refreshing expired tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980)
+#### [Refreshing expired tokens](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1743,7 +1726,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=105)** And if it is valid, then we are going to verify and generate a token.
 >
-> **[1:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=111)** So I'm just going to remove the rest of the code.
+> **[1:51](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=111)** So I'm just going to remove the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[1:56](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=116)** And then here I'll just type var result is equal to await VerifyAndGenerateTokenAsync, and this is going to take as a parameter the tokenRequestVM.
 >
@@ -1865,7 +1848,7 @@ created: 2026-05-02
 >
 > **[10:37](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=637)** Now, this is going to be refresh-token.
 >
-> **[10:41](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=641)** Then go to the Body part, then go to Role, and change the Text to be JSON.
+> **[10:41](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=641)** Then go to the Body part, then go to Role, and change the Text to be [[JSON]].
 >
 > **[10:50](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/refreshing-expired-tokens?u=76281980&t=650)** Then I'll just go to the other POST request and then just copy this whole section, Control + C, and then just paste it in here, and then just remove the expiresAt.
 >
@@ -1889,7 +1872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Security]] (2), database (2), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Code Identifiers:** storedtoken (9), refreshtoken (7), tokenrequestvm (4), dbuser (4), rtoken (3)
 > **UI Navigation:** go to (13), right-click (1), scroll down (1), scroll up (1)
 > **Env Vars:** post (4), api (2), jwt (1), json (1)
@@ -1903,8 +1886,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Seeding the database with roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980)
+#### [Seeding the database with roles](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,7 +1912,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980&t=76)** And the parameter is going to be the IApplicationBuilder interface, IApplicationBuilder, and then I'll just name it applicationBuilder.
 >
-> **[1:28](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980&t=88)** Now, let us import the namespace for the IApplicationBuilder, and that is part of the Microsoft.AspNetCore.Builder.
+> **[1:28](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980&t=88)** Now, let us import the namespace for the IApplicationBuilder, and that is part of the [[Microsoft]].AspNetCore.Builder.
 >
 > **[1:37](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980&t=97)** Then inside here I'm going to create a reference to the role manager.
 >
@@ -2006,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (4), [[Microsoft]] (2), application (2), api (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **UI Navigation:** go to (9), right-click (2), scroll down (1)
 > **Code Identifiers:** rolemanager (3), applicationbuilder (2), servicescope (2)
 > **Tools:** visual studio (2)
@@ -2015,8 +1997,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Adding role claims to tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-role-claims-to-tokens?u=76281980)
+#### [Adding role claims to tokens](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-role-claims-to-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2124,7 +2105,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1), api (1)
 > **UI Navigation:** go to (7), scroll down (5)
 > **Env Vars:** jwt (2), var (2), api (1), jti (1)
 > **URLs:** [student.com](https://student.com) (2), [jwt.io](https://jwt.io) (1)
@@ -2133,8 +2113,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
 
-#### Adding role authentication to a controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-role-authentication-to-a-controller?u=76281980)
+#### [Adding role authentication to a controller](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-role-authentication-to-a-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2222,7 +2201,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), data (2), api (1)
 > **UI Navigation:** go to (8), open the (1)
 > **Tools:** visual studio (3), postman (1)
 > **URLs:** [manager.com](https://manager.com) (1), [students.com](https://students.com) (1)
@@ -2231,8 +2209,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding multiple roles to a controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-multiple-roles-to-a-controller?u=76281980)
+#### [Adding multiple roles to a controller](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/adding-multiple-roles-to-a-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2332,7 +2309,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), management (1), application (1)
 > **Env Vars:** api (10), post (2)
 > **UI Navigation:** go to (9)
 > **Code Identifiers:** httpget (5)
@@ -2340,14 +2316,14 @@ created: 2026-05-02
 > **URLs:** [student.com](https://student.com) (2), [manager.com](https://manager.com) (1)
 > **Cross-References:** go back to (3)
 > **API Endpoints:** post  (2)
+> **Definitions:** is a  (1), means that (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps for learning more token-based authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980)
+#### [Next steps for learning more token-based authentication](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,13 +2353,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980&t=71)** Now you could try to invalidate a refresh token by setting for example, the expiry time to a date in the past or just setting the IsRevoked property to true.
 >
-> **[1:22](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980&t=82)** In any case, if you need help to resolve your challenges or have a question about this course, feel free to get in touch with me via Twitter or LinkedIn.
+> **[1:22](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980&t=82)** In any case, if you need help to resolve your challenges or have a question about this course, feel free to get in touch with me via Twitter or [[LinkedIn]].
 >
 > **[1:34](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980&t=94)** And if you want to learn more about the .net technologies, you can check out my other courses here at LinkedIn Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), web (1), api (1), database (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** jwt (1), api (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

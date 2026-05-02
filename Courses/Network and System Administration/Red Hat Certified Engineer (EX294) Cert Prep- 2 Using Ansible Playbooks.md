@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=0)** - The Red Hat RHCE certification is one of the most respected and valued in the IT industry, Possessing credentials as well known as the RHCE EX294 certification will help secure a position in IT automation.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=0)** - The Red Hat RHCE certification is one of the most respected and valued in the IT industry, Possessing credentials as well known as the RHCE EX294 certification will help secure a position in [[IT Automation]].
 >
-> **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=12)** The RHCE is a popular Linux engineering certification and the current version focuses on IT automation using Ansible Engine.
+> **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=12)** The RHCE is a popular [[Linux]] engineering certification and the current version focuses on IT automation using [[Ansible]] Engine.
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=19)** And that information can be invaluable in today's world no matter which operating systems or devices you're managing.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=49)** My name is Grant McWilliams, college professor and Linux enthusiast.
 >
-> **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=54)** Over the course of the past 20 years, I've taught advanced Linux topics to many people in higher education, as well as corporate environments.
+> **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=54)** Over the course of the past 20 years, I've taught advanced Linux topics to many people in [[Higher Education]], as well as corporate environments.
 >
 > **[1:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980&t=60)** And that experience is accessible to you.
 >
@@ -123,32 +122,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Ansible]] (3), [[IT Automation]] (2), [[Engineering]] (1), [[Higher Education]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ansible]] (3), [[IT Automation]] (2), [[Higher Education]] (1)
 > **Env Vars:** rhce (4), ex294 (4)
 > **CLI Commands:** ansible (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=0)** - [Instructor] As Red Hat EX294 Certification covers technologies included in Red Hat Enterprise Linux 8, we'll be using a version of that operating system for this course.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=0)** - [Instructor] As Red Hat EX294 Certification covers technologies included in Red Hat Enterprise [[Linux]] 8, we'll be using a version of that operating system for this course.
 >
 > **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=10)** In this course, when I use the generic term, Enterprise Linux 8, I mean, Red Hat Enterprise Linux 8, or any other direct clones, such as CentOS Enterprise Linux.
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=21)** Anything we do in this course will work fine on either of these operating systems.
 >
-> **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=25)** Since this certification focuses on Ansible Engine, most of the course can also be done without modification on Fedora Linux, or any spin of Fedora as well.
+> **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=25)** Since this certification focuses on [[Ansible]] Engine, most of the course can also be done without modification on Fedora Linux, or any spin of Fedora as well.
 >
-> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=34)** Furthermore, most of the technologies covered in this course, are not distribution specific and focus on IT Automation using Ansible.
+> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=34)** Furthermore, most of the technologies covered in this course, are not distribution specific and focus on [[IT Automation]] using Ansible.
 >
 > **[0:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=42)** As such, they can be applied to any operating system utilizing Ansible Engine for Automation.
 >
-> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=48)** For this course, we'll be using Linux in VirtualBox Virtual Machines.
+> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=48)** For this course, we'll be using Linux in VirtualBox [[Virtual Machines]].
 >
-> **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=51)** There are versions of VirtualBox for Windows, macOS, Solaris, and various Linux distributions.
+> **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=51)** There are versions of VirtualBox for [[Windows]], macOS, Solaris, and various Linux distributions.
 >
 > **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=57)** For this course, I'll be running VirtualBox on a Linux host.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=143)** In that course, we install a 64-bit version of VirtualBox, install CentOS 8 Linux in a VirtualBox virtual machine, and set up our VirtualBox lab environment, including, installing VirtualBox Guest Additions in CentOS, making a clone of our CentOS 8 VM, as well as managing VirtualBox networking with NAT in a private network.
 >
-> **[2:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=162)** If you haven't taken that course yet, you'll want to do that before proceeding with this one for the best user experience.
+> **[2:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=162)** If you haven't taken that course yet, you'll want to do that before proceeding with this one for the best [[User Experience (UX)|user experience]].
 >
 > **[2:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/what-you-should-know?u=76281980&t=168)** If you already have foundational knowledge of Ansible, you may want to just watch the videos for CentOS 8 Installation, VirtualBox Lab Setup, as well as the videos to Install Ansible on the Control Node, Preparing the Managed Nodes, and Building Static Inventory.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), [[Ansible]] (6), [[Windows]] (3), [[Virtual Machines]] (2), [[Virtualization]] (2)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ansible]] (6), [[Windows]] (3), [[Virtual Machines]] (2), [[IT Automation]] (1)
 > **Env Vars:** ex294 (3), amd (3), cpu (1), iso (1), ram (1)
 > **CLI Commands:** ansible (6), make (1), node (1)
 > **Prerequisites:** install (3), you'll need (2), make sure you have (1), set up (1), setup (1)
@@ -197,8 +195,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### About the EX294 exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980)
+#### [About the EX294 exam](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,11 +203,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=5)** RHCE stands for Red Hat Certified Engineer.
 >
-> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=8)** The RHCE is at Red Hat certification which uses Red Hat Enterprise Linux 8 as its operating system platform.
+> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=8)** The RHCE is at Red Hat certification which uses Red Hat Enterprise [[Linux]] 8 as its operating system platform.
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=15)** In the past, the RHCE EX300 was a certification that tested the general skills of system engineers.
 >
-> **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=21)** The new RHCE EX294 certification however, is not a general engineer certification as the focus has changed to IT automation using Red Hat Ansible Engine 2.8.
+> **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=21)** The new RHCE EX294 certification however, is not a general engineer certification as the focus has changed to [[IT Automation]] using Red Hat [[Ansible]] Engine 2.8.
 >
 > **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=32)** All exam takers will need to have previously passed the RHCSA EX200 exam.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=93)** This hands on practical exam requires you to use Red Hat Ansible Engine to perform real world tasks.
 >
-> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=99)** You will be provided with multiple systems and will be required to install and configure Ansible Engine, and then use it to perform standard system administration tasks similar to what you do on a job.
+> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=99)** You will be provided with multiple systems and will be required to install and configure Ansible Engine, and then use it to perform standard [[System Administration]] tasks similar to what you do on a job.
 >
 > **[1:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=110)** You will be required to create Ansible playbooks and users playbooks to configure systems for specific roles and behaviors.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=216)** If you're not a Red Hat administrator or a person pursuing a Red Hat certification, this course will still be valuable to you if you're interested in IT automation using Ansible.
 >
-> **[3:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=226)** I can't stress enough that this course and certification is general in nature, and useful even if your infrastructure comprises Ubuntu, SUSE or even Windows hosts.
+> **[3:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=226)** I can't stress enough that this course and certification is general in nature, and useful even if your infrastructure comprises [[Ubuntu]], SUSE or even [[Windows]] hosts.
 >
 > **[3:55](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=235)** This course is the second of a three part series covering objectives of the RHCE EX294 exam.
 >
@@ -282,13 +279,13 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=260)** If you want to prepare for the RHCE certification then take the EX200 course as well as this EX294 course.
 >
-> **[4:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=267)** If you want more in depth training on administering Red Hat Linux, take the Linux System Engineer Learning Paths in the course library.
+> **[4:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=267)** If you want more in depth training on administering [[Red Hat Linux]], take the Linux System Engineer Learning Paths in the course library.
 >
 > **[4:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-the-ex294-exam?u=76281980&t=274)** This course is one of a three part series covering objectives of the RHCE EX294 exam.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), business (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), [[Ubuntu]] (1)
 > **Env Vars:** rhce (13), ex294 (7), rhcsa (4), ex200 (4), rhca (2)
 > **CLI Commands:** ansible (6)
 > **Prerequisites:** required to (2), configure (2), install (1), you'll need (1)
@@ -297,8 +294,7 @@ created: 2026-05-02
 > **Versions:** 2.8 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Reconfigure-Migrate CentOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980)
+#### [Reconfigure-Migrate CentOS](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=13)** If you have a CentOS installation, and it cannot install software from its repositories, execute these steps.
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=19)** If you're using Rocky Linux or AlmaLinux OS, you can skip this video.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=19)** If you're using Rocky [[Linux]] or AlmaLinux OS, you can skip this video.
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=24)** First, make sure your networking is turned on by clicking on your top right-hand menu, and clicking wired off.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=205)** To migrate CentOS eight to AlmaLinux OS, point your web browser to [almalinux.org](https://almalinux.org), and then click on the migrate button.
 >
-> **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=216)** This will take you to their GitHub page.
+> **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=216)** This will take you to their [[GitHub]] page.
 >
 > **[3:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/reconfigure-migrate-centos?u=76281980&t=219)** About halfway down the page, there is an almalinux dash deploy dot sh link.
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (5), cd (4), web (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (2), make (1), yum (1)
 > **UI Navigation:** click on (12), go to (1)
 > **Tools:** terminal (3), github (2), bash (2)
@@ -420,22 +416,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to playbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980)
+#### [Introduction to playbooks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=0)** - [Instructor] In the EX294 Ansible Foundations course, we talked quite a bit about using ad hoc commands, which can be very powerful for running commands on a remote host.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=0)** - [Instructor] In the EX294 [[Ansible]] Foundations course, we talked quite a bit about using ad hoc commands, which can be very powerful for running commands on a remote host.
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=9)** Playbooks are a completely different way to use Ansible, and are extremely flexible.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=13)** Playbooks are the very basis for simple configuration management using Ansible.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=13)** Playbooks are the very basis for simple [[Configuration Management]] using Ansible.
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=17)** Playbooks can be used for multi-machine deployment and are particularly well suited for deploying complex configurations and applications.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=24)** Playbook files will be used to push Azure configurations to your infrastructure, this ensures that all devices being managed by Ansible are kept up to date.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=24)** Playbook files will be used to push [[Microsoft Azure|Azure]] configurations to your infrastructure, this ensures that all devices being managed by Ansible are kept up to date.
 >
-> **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=32)** We can use the Ansible program for running ad hoc commands, but playbooks are very different, they're stored in text files, and as such, can be managed by source control systems like subversion or git.
+> **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=32)** We can use the Ansible program for running ad hoc commands, but playbooks are very different, they're stored in text files, and as such, can be managed by source control systems like subversion or [[Git]].
 >
 > **[0:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980&t=43)** Playbooks are displayed in YAML format and can include multiple plays.
 >
@@ -459,14 +454,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Configuration Management]] (1), [[Microsoft Azure|Azure]] (1), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Configuration Management]] (1), [[Microsoft Azure|Azure]] (1), [[Git]] (1)
 > **CLI Commands:** ansible (6), git (1)
 > **Env Vars:** ex294 (1), yaml (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Playbook language
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980)
+#### [Playbook language](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=17)** A play is a sports analogy.
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=19)** Just as you can run a play in a football game that can do different things at different times, you can run Ansible plays at different times that do different things.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=19)** Just as you can run a play in a football game that can do different things at different times, you can run [[Ansible]] plays at different times that do different things.
 >
 > **[0:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=27)** Plays map hosts to well-defined roles using tasks.
 >
@@ -492,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=38)** This might still be a bit abstract, so let me give you an example.
 >
-> **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=41)** You could have a playbook that would include plays with tasks that target the web servers group.
+> **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=41)** You could have a playbook that would include plays with tasks that target the [[Web Servers]] group.
 >
 > **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-language?u=76281980&t=46)** Modules would run on all hosts in this group, and then run other tasks on all hosts in the DNS servers group, and lastly, return to the web servers group and finish off by running more tasks there.
 >
@@ -532,19 +526,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Ansible]] (2), [[Programming]] (1), game (1), dns (1)
+> **Frameworks & Libraries:** [[Web Servers]] (3), [[Ansible]] (2)
 > **CLI Commands:** ansible (2), yum (2), apache (1)
 > **Env Vars:** yaml (3), dns (1), http (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### YAML tips and tricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980)
+#### [YAML tips and tricks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=0)** - [Instructor] In computing, there are many different configuration data formats, including Key-value pairs, INI files, YAML formatted files, JSON files, and XML.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=0)** - [Instructor] In computing, there are many different configuration data formats, including Key-value pairs, INI files, YAML formatted files, [[JSON]] files, and XML.
 >
 > **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=9)** This is just a short list.
 >
@@ -552,7 +545,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=13)** Some are more human readable and others are more capable.
 >
-> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=15)** Most configuration management systems allow you to choose the file format, and Ansible is no different.
+> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=15)** Most [[Configuration Management]] systems allow you to choose the file format, and [[Ansible]] is no different.
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=21)** Most often, however, YAML is used for Ansible Playbooks.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=35)** YAML supports a hierarchical structure so we can have nested items easily.
 >
-> **[0:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=40)** However, not everyone loves YAML because of its Python-like reliance on syntactic whitespaces.
+> **[0:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=40)** However, not everyone loves YAML because of its [[Python (Programming Language)|Python]]-like reliance on syntactic whitespaces.
 >
 > **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/yaml-tips-and-tricks?u=76281980&t=46)** This means it uses whitespaces to differentiate between hierarchy levels.
 >
@@ -656,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Ansible]] (4), [[Programming]] (3), next (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Ansible]] (4), [[JSON]] (2), [[Configuration Management]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** yaml (24), json (2), ini (1), xml (1)
 > **CLI Commands:** ansible (4), make (2), python (1), yum (1), find (1)
 > **Tools:** atom (2), emacs (1), vim (1)
@@ -665,14 +658,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (2)
 
-#### Install the Atom editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/install-the-atom-editor?u=76281980)
+#### [Install the Atom editor](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/install-the-atom-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/install-the-atom-editor?u=76281980&t=0)** - [Instructor] There are multiple editors you can use for writing YAML.
 >
-> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/install-the-atom-editor?u=76281980&t=3)** For this course, we'll be installing the Atom editor created by GitHub, as well as configuring VIM.
+> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/install-the-atom-editor?u=76281980&t=3)** For this course, we'll be installing the Atom editor created by [[GitHub]], as well as configuring VIM.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/install-the-atom-editor?u=76281980&t=8)** But you can use whichever editor you like.
 >
@@ -726,7 +718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Tools:** atom (14), github (1), vim (1), terminal (1)
 > **CLI Commands:** yum (3), sudo (2), make (1)
 > **Prerequisites:** install (3), configure (1)
@@ -735,8 +727,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure VIM for YAML
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980)
+#### [Configure VIM for YAML](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +759,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=99)** The first line is a comment but the second line search was a huge exclamation point, which tells VIM not to add these auto commands twice if they're already set.
 >
-> **[1:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=108)** The rest of the line says that when reading a new file or reading a file with a Colon read command and that file name ends with dot YAML or dot yml, then set the file type to YAML and the fold method to indent.
+> **[1:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=108)** The [[Representational State Transfer (REST)|rest]] of the line says that when reading a new file or reading a file with a Colon read command and that file name ends with dot YAML or dot yml, then set the file type to YAML and the fold method to indent.
 >
 > **[2:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=120)** The next line says for file types equal YAML said these configuration items.
 >
@@ -790,7 +781,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=160)** Save and Exit VIM by pressing Escape + : + X, exclamation mark and hitting Enter.
 >
-> **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=166)** Now type in clear, and then type in git space clone space [https://github.com./Yggdroot/indentLine](https://github.com./Yggdroot/indentLine)
+> **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=166)** Now type in clear, and then type in [[Git]] space clone space [https://[[GitHub]].com./Yggdroot/indentLine](https://github.com./Yggdroot/indentLine)
 >
 > **[3:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/configure-vim-for-yaml?u=76281980&t=183)** with a capital L dot git space Tilda slash dot VIM slash pack slash vendor slash start, slash indent Line with a capital L again, and hit Enter.
 >
@@ -862,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Git]] (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Env Vars:** vim (14), yaml (13), vimrc (4), sts (2), yml (1)
 > **Tools:** vim (15), terminal (1), github (1)
 > **CLI Commands:** git (3), sudo (1), yum (1), mkdir (1), cd (1)
@@ -871,12 +862,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Code Identifiers:** indentline (2)
 
-#### Playbook hosts and users
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980)
+#### [Playbook hosts and users](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=0)** - [Narrator] In EX294 Foundations of Ansible course, we set up a direct instruction in our home directory of rhhost1.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=0)** - [Narrator] In EX294 Foundations of [[Ansible]] course, we set up a direct instruction in our home directory of rhhost1.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=6)** Let's verify this.
 >
@@ -898,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=42)** After line numbering them, by pressing escape, colon and then typing in set space number.
 >
-> **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=49)** As a quick review, we can see that we have specified on line two, that we're going to target all hosts, in the web servers group.
+> **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=49)** As a quick review, we can see that we have specified on line two, that we're going to target all hosts, in the [[Web Servers]] group.
 >
 > **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=56)** This could have been a host name IP address or a group of hosts.
 >
@@ -948,7 +938,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=180)** Along with become and become_user, you can also specify the method that you elevate privileges using become_method.
 >
-> **[3:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=187)** The values can be su, sudo, runas of the noted windows, or many more.
+> **[3:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=187)** The values can be su, sudo, runas of the noted [[Windows]], or many more.
 >
 > **[3:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=191)** Check the Ansible documentation for the become plugins for more information.
 >
@@ -992,7 +982,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=289)** The first is to use pipelining.
 >
-> **[4:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=291)** With pipelining, the module is piped to the Python interpreter and never saved on the disc.
+> **[4:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=291)** With pipelining, the module is piped to the [[Python (Programming Language)|Python]] interpreter and never saved on the disc.
 >
 > **[4:55](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-hosts-and-users?u=76281980&t=295)** Next, you can also mount the temporary director with POSIX ACLs turned on.
 >
@@ -1008,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (10), hit (1), web (1), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Ansible]] (10), [[Web Servers]] (1), [[Windows]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (10), apache (9), ssh (3), make (2), sudo (2)
 > **Code Identifiers:** remote_user (12), become_user (6), become_method (2), http_port (1), become_flags (1)
 > **Analogies:** such as (4), for instance (3), for example (1)
@@ -1017,8 +1007,7 @@ created: 2026-05-02
 > **Warnings:** note that (3)
 > **File Paths:** apache.yml (2)
 
-#### Playbook tasks list
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-tasks-list?u=76281980)
+#### [Playbook tasks list](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-tasks-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-tasks-list?u=76281980&t=90)** Rerunning the module again, reruns the commands.
 >
-> **[1:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-tasks-list?u=76281980&t=93)** Ansible provides a creates flag to help make shell and command module task idempotent.
+> **[1:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-tasks-list?u=76281980&t=93)** [[Ansible]] provides a creates flag to help make shell and command module task idempotent.
 >
 > **[1:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-tasks-list?u=76281980&t=98)** If a file is to be created, this flag check to see if the file already exists.
 >
@@ -1086,15 +1075,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (2), next (1), application (1), web (1)
+> **Frameworks & Libraries:** [[Ansible]] (2)
 > **CLI Commands:** ansible (2), make (1)
 > **Analogies:** such as (2)
 > **URLs:** [localnet.com](https://localnet.com) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Playbook change handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-change-handlers?u=76281980)
+#### [Playbook change handlers](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-change-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-change-handlers?u=76281980&t=7)** If a task is already in the desired state, that task should exit.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-change-handlers?u=76281980&t=11)** If a task makes a change, we can fire an event using Ansible's basic event system that can be used to respond to that change.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-change-handlers?u=76281980&t=11)** If a task makes a change, we can fire an event using [[Ansible]]'s basic event system that can be used to respond to that change.
 >
 > **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/playbook-change-handlers?u=76281980&t=18)** Let me first talk about how we'd do this without using Ansible's event system and outline the pitfalls.
 >
@@ -1174,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (5), functional (3), web (3), generic (2), node (1)
+> **Frameworks & Libraries:** [[Ansible]] (5)
 > **CLI Commands:** apache (6), ansible (5), make (3), node (1)
 > **Analogies:** for instance (2), just like (1)
 > **Versions:** 2.2 (1)
@@ -1183,14 +1171,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Verify Playbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980)
+#### [Verify Playbooks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=0)** - To minimize troubleshooting and frustration.
 >
-> **[0:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=2)** It's a good idea to verify your Ansible playbooks before running them.
+> **[0:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=2)** It's a good idea to verify your [[Ansible]] playbooks before running them.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=5)** There are several different ways that we can verify Ansible playbook files.
 >
@@ -1208,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=41)** And as of the time of this recording, wasn't available to install via software repository.
 >
-> **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=46)** As such, we'll install it with a Python package installer.
+> **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=46)** As such, we'll install it with a [[Python (Programming Language)|Python]] package installer.
 >
 > **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/verify-playbooks?u=76281980&t=49)** First, let's install pip in case is not installed.
 >
@@ -1254,7 +1241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (16), hit (8), [[Python (Programming Language)|Python]] (2), [[Troubleshooting]] (1), cd (1)
+> **Frameworks & Libraries:** [[Ansible]] (16), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** ansible (16), apache (8), pip (4), python (2), cd (1)
 > **Prerequisites:** install (6)
 > **Tools:** terminal (1), vim (1), command line (1)
@@ -1266,12 +1253,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create structured configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980)
+#### [Create structured configuration](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=0)** - [Instructor] As we've seen, it's fairly easy to create a global Ansible host file in a single Ansible playbook for testing.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=0)** - [Instructor] As we've seen, it's fairly easy to create a global [[Ansible]] host file in a single Ansible playbook for testing.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=6)** We created both of these in the EX294 Ansible Foundations Course.
 >
@@ -1285,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=34)** We need to do this so we can use host names in our Ansible inventory files.
 >
-> **[0:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=37)** You can manage name resolution by creating records in a DNS server if you have one, but to keep things simple, we'll configure the ATSE host files on our virtual machines.
+> **[0:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=37)** You can manage name resolution by creating records in a DNS server if you have one, but to keep things simple, we'll configure the ATSE host files on our [[Virtual Machines]].
 >
 > **[0:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=45)** First, get the IP address of rhhost1.
 >
@@ -1413,11 +1399,11 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=348)** It would be very easy to recursively duplicate this entire structure to be modified for other configurations.
 >
-> **[5:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=353)** It would also be simple to create a GetProject to put all the configuration data under version control.
+> **[5:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980&t=353)** It would also be simple to create a GetProject to put all the configuration data under [[Version Control]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Ansible]] (9), dns (1), [[Virtual Machines]] (1), cd (1)
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Virtual Machines]] (1), [[Version Control]] (1)
 > **CLI Commands:** ansible (9), ssh (3), mkdir (2), make (1), find (1)
 > **Env Vars:** ssh (3), ex294 (2), atse (2), dns (1), nat (1)
 > **Versions:** 192.168.3 (6)
@@ -1426,8 +1412,7 @@ created: 2026-05-02
 > **Tools:** terminal (1), bash (1)
 > **Cross-References:** go back to (1)
 
-#### About playbook roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980)
+#### [About playbook roles](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1424,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=16)** These directories will be automatically processed for the role.
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=19)** In this example, the web servers rule.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=19)** In this example, the [[Web Servers]] rule.
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=21)** Each role has to have at least one of these directories.
 >
@@ -1459,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=52)** The default directory however, stores default variables for the role.
 >
-> **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=56)** And lastly, the meta directory defines metadata for the role.
+> **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=56)** And lastly, the meta directory defines [[Metadata]] for the role.
 >
 > **[1:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=60)** We may define role dependencies in the meta directory so roles can require other roles.
 >
@@ -1473,7 +1458,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=83)** If a role has a dependency for more than one other role, it will not be called twice.
 >
-> **[1:28](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=88)** Ansible is smart enough to only execute the role once.
+> **[1:28](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=88)** [[Ansible]] is smart enough to only execute the role once.
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/about-playbook-roles?u=76281980&t=91)** That is unless you include allow_duplicates: true to the same meta/main.yml file.
 >
@@ -1511,7 +1496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (3), data (1), web (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[Web Servers]] (1), [[Metadata]] (1)
 > **File Paths:** meta/main.yml (3), main.yml (2), handlers/main.yml (1), vars/main.yml (1), defaults/main.yml (1)
 > **CLI Commands:** ansible (3), make (1), apache (1), nginx (1)
 > **Analogies:** for instance (3), such as (1)
@@ -1520,14 +1505,13 @@ created: 2026-05-02
 > **Versions:** 2.4 (1)
 > **Prerequisites:** you'll need (1)
 
-#### Creating roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/creating-roles?u=76281980)
+#### [Creating roles](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/creating-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/creating-roles?u=76281980&t=0)** - [Instructor] Let's put what we've learned into practice and create a working role.
 >
-> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/creating-roles?u=76281980&t=3)** We'll start by creating the site dot YML file at the top of our Ansible files directory structure.
+> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/creating-roles?u=76281980&t=3)** We'll start by creating the site dot YML file at the top of our [[Ansible]] files directory structure.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/creating-roles?u=76281980&t=8)** When we run our playbook, we'll specify this file along with our host file in this directory.
 >
@@ -1577,7 +1561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), hit (4)
+> **Frameworks & Libraries:** [[Ansible]] (7)
 > **Env Vars:** yml (6), vim (3), yalm (1), yaml (1), yum (1)
 > **CLI Commands:** ansible (7), yum (2), make (1)
 > **Tools:** vim (3)
@@ -1586,8 +1570,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static and dynamic content
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/static-and-dynamic-content?u=76281980)
+#### [Static and dynamic content](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/static-and-dynamic-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1595,7 +1578,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/static-and-dynamic-content?u=76281980&t=7)** It's better to break up the playbook into smaller pieces.
 >
-> **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/static-and-dynamic-content?u=76281980&t=10)** In Ansible, there are three ways of doing this.
+> **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/static-and-dynamic-content?u=76281980&t=10)** In [[Ansible]], there are three ways of doing this.
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/static-and-dynamic-content?u=76281980&t=13)** Roles, includes, and imports.
 >
@@ -1686,18 +1669,17 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using includes in Playbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980)
+#### [Using includes in Playbooks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=0)** - [Instructor] Now let's use includes in playbooks.
 >
-> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=3)** In our choice one be sure that you're in your ansible files directory.
+> **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=3)** In our choice one be sure that you're in your [[Ansible]] files directory.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=6)** Now change into your web service task directory.
 >
-> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=8)** Type cd space roles slash web servers, slash tasks and hit Enter.
+> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=8)** Type cd space roles slash [[Web Servers]], slash tasks and hit Enter.
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-includes-in-playbooks?u=76281980&t=15)** Let's create a file here called main.yml.
 >
@@ -1803,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), [[Ansible]] (8), hit (6), cd (2), traffic (1)
+> **Frameworks & Libraries:** [[Web Servers]] (9), [[Ansible]] (8)
 > **CLI Commands:** apache (10), ansible (8), cd (2), yum (2), make (1)
 > **File Paths:** main.yml (4), apache.yml (4), site.yml (4)
 > **Prerequisites:** install (8), configure (1)
@@ -1817,8 +1799,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting inventory and playbook variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980)
+#### [Setting inventory and playbook variables](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1809,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=14)** In setting up a name resolution we put the IP addresses of rhhost1 and rhhost2 in our etc host file.
 >
-> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=20)** Instead of hard coding the address in the file, we can provide a variable that is populated from another source if we are configuring our systems with Ansible.
+> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=20)** Instead of hard coding the address in the file, we can provide a variable that is populated from another source if we are configuring our systems with [[Ansible]].
 >
 > **[0:28](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=28)** Before we can start using variables, we need to follow some guidelines as far as naming them.
 >
@@ -1850,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=72)** We would access each specific field in the dictionary by specifying the name of the dictionary and then the name of the key inside square brackets.
 >
-> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=79)** There is also a dotted notation, but I'll avoid using it as there can be conflicts with Python methods.
+> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=79)** There is also a dotted notation, but I'll avoid using it as there can be conflicts with [[Python (Programming Language)|Python]] methods.
 >
 > **[1:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=85)** It looks like this, dictionary name dot in the key.
 >
@@ -1892,7 +1873,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=162)** We can create a file in that directory named after the group and put our variables in it.
 >
-> **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=166)** For instance, for the web service group, we'd create Ansible files, slash group vars, slash web servers and inside of that, we'd add our variables.
+> **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=166)** For instance, for the web service group, we'd create Ansible files, slash group vars, slash [[Web Servers]] and inside of that, we'd add our variables.
 >
 > **[2:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980&t=174)** I need to add one more node that's specific to my example, choice a variables.
 >
@@ -1906,7 +1887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), node (3), web (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Python (Programming Language)|Python]] (1), [[Web Servers]] (1)
 > **CLI Commands:** ansible (6), ssh (5), node (3), find (3), python (1)
 > **Env Vars:** yaml (6), ssh (5), ini (5), ymi (1), ameco (1)
 > **Analogies:** for instance (4), similar to (1)
@@ -1915,8 +1896,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - although (1)
 
-#### Using variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980)
+#### [Using variables](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,9 +1904,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=3)** We can do this various ways, including using them in playbooks directly and in Jinja2 templates.
 >
-> **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=9)** Let's start by creating a file of variables for all host and web servers group.
+> **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=9)** Let's start by creating a file of variables for all host and [[Web Servers]] group.
 >
-> **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=13)** In a terminal on rhhost1, change to your Ansible files directory by typing in cd space, tilde, slash, Ansible dash files and hit enter.
+> **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=13)** In a terminal on rhhost1, change to your [[Ansible]] files directory by typing in cd space, tilde, slash, Ansible dash files and hit enter.
 >
 > **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=20)** And then list the contents with ls.
 >
@@ -2032,7 +2012,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=289)** We can specify the string prefix to make the MAC address appear to be from a certain manufacturer.
 >
-> **[4:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=294)** There are filters for formatting data, list filters, dictionary filters, math filters, JSON query filters, an IP address filter that can test if a number is a valid IP address, hashing filters that will take a value and return a SHA1 or MD5 hash, URL split filters, regular expression filters and many many more.
+> **[4:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=294)** There are filters for formatting data, list filters, dictionary filters, math filters, [[JSON]] query filters, an IP address filter that can test if a number is a valid IP address, hashing filters that will take a value and return a SHA1 or MD5 hash, URL split filters, regular expression filters and many many more.
 >
 > **[5:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-variables?u=76281980&t=316)** See the complete list of filters by visiting the Ansbile playbook filters web page.
 >
@@ -2054,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (15), [[Ansible]] (12), hit (5), [[JSON]] (5), cd (3)
+> **Frameworks & Libraries:** [[Ansible]] (12), [[Web Servers]] (5), [[JSON]] (5)
 > **CLI Commands:** ansible (12), apache (6), cd (3), ls (2), make (1)
 > **Env Vars:** yml (9), json (5), mac (1), sha1 (1), md5 (1)
 > **Analogies:** for instance (4), such as (2)
@@ -2063,8 +2043,7 @@ created: 2026-05-02
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (2)
 
-#### Registering variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables?u=76281980)
+#### [Registering variables](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2072,7 +2051,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables?u=76281980&t=6)** This runs the command whoami and assigns the output to the variable named NAME.
 >
-> **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables?u=76281980&t=10)** We can do something similar with Ansible variables by registering the result of a task as a variable.
+> **[0:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables?u=76281980&t=10)** We can do something similar with [[Ansible]] variables by registering the result of a task as a variable.
 >
 > **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables?u=76281980&t=16)** When you execute a task and save the returned value in a variable for later use, you create a registered variable.
 >
@@ -2124,7 +2103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (5), data (4), hit (2), cd (1)
+> **Frameworks & Libraries:** [[Ansible]] (5)
 > **CLI Commands:** ansible (5), grep (1), cd (1)
 > **Env Vars:** bash (1), name (1), grep (1)
 > **UI Navigation:** go to (2), scroll up (1)
@@ -2133,18 +2112,17 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **Tools:** bash (1), terminal (1)
 
-#### Discovering variables from facts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980)
+#### [Discovering variables from facts](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=0)** - [Instructor] Ansible facts are properties that are collected by Ansible When it runs a playbook on a remote system.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=0)** - [Instructor] [[Ansible]] facts are properties that are collected by Ansible When it runs a playbook on a remote system.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=5)** The fact contains useful information about the host.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=8)** Let's take a look at some facts.
 >
-> **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=9)** We'll use the Ansible command along with the setup module to retrieve the facts about the host and our web servers Ansible group.
+> **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=9)** We'll use the Ansible command along with the setup module to retrieve the facts about the host and our [[Web Servers]] Ansible group.
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/discovering-variables-from-facts?u=76281980&t=15)** In a terminal r h host one type in Ansible space web servers space dash M space setup and hit enter.
 >
@@ -2240,7 +2218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (24), web (4), hit (4), data (1), cd (1)
+> **Frameworks & Libraries:** [[Ansible]] (24), [[Web Servers]] (3)
 > **CLI Commands:** ansible (24), yum (1), cd (1)
 > **Env Vars:** ipv (4), yml (3), vim (1), yaml (1)
 > **Analogies:** for instance (3), such as (3), just like (1)
@@ -2254,8 +2232,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The when statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980)
+#### [The when statement](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2265,7 +2242,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980&t=18)** If we use conditionals in our configuration files, we can have one playbook that can work on multiple different host operating systems.
 >
-> **[0:26](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980&t=26)** It's fairly easy in Ansible to create a task that will do something only if the condition exists.
+> **[0:26](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980&t=26)** It's fairly easy in [[Ansible]] to create a task that will do something only if the condition exists.
 >
 > **[0:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980&t=31)** For this we'll use the when conditional clause, just like any task will give it a descriptive name.
 >
@@ -2353,7 +2330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), next (2), generic (1), data (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (7)
 > **CLI Commands:** ansible (7), yum (2)
 > **Tools:** bash (5)
 > **Env Vars:** url (3), rpm (1)
@@ -2362,12 +2339,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Code Identifiers:** ansible_os_family (1)
 
-#### Looping methods in Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980)
+#### [Looping methods in Ansible](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=0)** - [Instructor] There are two different methods of looping through data in Ansible with underscore and loop.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=0)** - [Instructor] There are two different methods of looping through data in [[Ansible]] with underscore and loop.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=6)** The original method use the with keyword followed by a lookup plugin.
 >
@@ -2375,7 +2351,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=11)** You can see a list by typing into a terminal Ansible dash doc space dash t space lookup space dash l for list and hit Enter.
 >
-> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=20)** We can see that we have lookup plugins for CSV files, dictionaries, files which reads file contents, file glob which reads file names by pattern, file tree which shows a recursive directory list, items for a list of items, nested for nested data structures, sequence, vars and many others.
+> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=20)** We can see that we have lookup plugins for CSV files, dictionaries, files which reads file contents, file glob which reads file names by pattern, file tree which shows a recursive directory list, items for a list of items, nested for nested [[Data Structures]], sequence, vars and many others.
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-methods-in-ansible?u=76281980&t=40)** To see the documentation for a certain lookup plugins such as the items plugin type in Q to quit and then type in Ansible dash doc space dash t space lookup space items and hit Enter.
 >
@@ -2435,7 +2411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Ansible]] (3), hit (2), power (1)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[Data Structures]] (1)
 > **CLI Commands:** ansible (3)
 > **Analogies:** such as (2), for instance (1)
 > **Documentation:** the documentation (2)
@@ -2444,8 +2420,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looping with lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-lists?u=76281980)
+#### [Looping with lists](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,7 +2446,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-lists?u=76281980&t=49)** You will see a lot of examples using with_items:, and there's nothing wrong with that.
 >
-> **[0:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-lists?u=76281980&t=53)** Although Ansible is moving towards using loop in the future, so be aware.
+> **[0:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-lists?u=76281980&t=53)** Although [[Ansible]] is moving towards using loop in the future, so be aware.
 >
 > **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-lists?u=76281980&t=57)** We can shorten this play further by placing the package names in a list called base_packages.
 >
@@ -2549,7 +2524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), hit (6), cd (3), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (7)
 > **CLI Commands:** ansible (7), yum (4), cd (3), python3 (2)
 > **Code Identifiers:** base_packages (4), group_vars (4), with_items (2)
 > **Prerequisites:** install (4)
@@ -2558,8 +2533,7 @@ created: 2026-05-02
 > **Tools:** vim (2)
 > **Analogies:** such as (2)
 
-#### Looping with dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980)
+#### [Looping with dictionaries](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2567,7 +2541,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=4)** There are over 70 different lookup plugins that can be used to loop through different types of data.
 >
-> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=8)** Instead, I'm going to show you how to loop through several types of data structures.
+> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=8)** Instead, I'm going to show you how to loop through several types of [[Data Structures]].
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=12)** I think this is a better use of our time.
 >
@@ -2577,7 +2551,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=25)** Let's do this now.
 >
-> **[0:26](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=26)** On rhhost1, go to your ansible-files roles/base/tasks directory by typing in "cd ~/ansible-files/roles/base/tasks",
+> **[0:26](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=26)** On rhhost1, go to your [[Ansible]]-files roles/base/tasks directory by typing in "cd ~/ansible-files/roles/base/tasks",
 >
 > **[0:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-with-dictionaries?u=76281980&t=39)** and hit Enter.
 >
@@ -2659,7 +2633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Ansible]] (6), data (2), cd (2)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Data Structures]] (1)
 > **CLI Commands:** ansible (6), cd (2), apache (2), ssh (2), cat (1)
 > **File Paths:** loop-dictionary.yml (3), main.yml (2), site.yml (1)
 > **Code Identifiers:** zr (2)
@@ -2668,8 +2642,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [instructor] (1), - i (1)
 
-#### Looping and conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980)
+#### [Looping and conditionals](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2683,7 +2656,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=20)** I've created a runnable version of the script in this chapter's exercise files directory named loop-list-conditional.yml.
 >
-> **[0:28](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=28)** You can execute it by changing into that directory and using Ansible playbook.
+> **[0:28](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=28)** You can execute it by changing into that directory and using [[Ansible]] playbook.
 >
 > **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=32)** We can combine looping through a dictionary with a condition as well.
 >
@@ -2711,7 +2684,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=92)** The output is stored in a registered variable named result that we've defined.
 >
-> **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=96)** The loop will continue until the word success can be found in the result variable.
+> **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=96)** The loop will continue until the [[Microsoft Word|word]] success can be found in the result variable.
 >
 > **[1:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/looping-and-conditionals?u=76281980&t=101)** If it is not found, then it will wait 10 seconds and try again.
 >
@@ -2728,8 +2701,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Registering variables in loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables-in-loops?u=76281980)
+#### [Registering variables in loops](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables-in-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2771,7 +2743,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables-in-loops?u=76281980&t=74)** Exit by pressing the escape column Q exclamation mark and hitting enter.
 >
-> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables-in-loops?u=76281980&t=79)** Now run the play book by typing ansible-playbook loop-register-vars.yml and hit enter.
+> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables-in-loops?u=76281980&t=79)** Now run the play book by typing [[Ansible]]-playbook loop-register-vars.yml and hit enter.
 >
 > **[1:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/registering-variables-in-loops?u=76281980&t=90)** In the second task section, we have a lot of information to look through.
 >
@@ -2811,7 +2783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Ansible]] (2), next (1)
+> **Frameworks & Libraries:** [[Ansible]] (2)
 > **CLI Commands:** cat (3), ansible (2), find (1), make (1)
 > **Env Vars:** cat (3), win (1), dva (1)
 > **Tools:** vim (4)
@@ -2825,12 +2797,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980)
+#### [Using blocks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980&t=0)** - [Instructor] Using basic Ansible constructs, we can group tasks by creating Separate playbook files, and then importing or including them when they're needed.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980&t=0)** - [Instructor] Using basic [[Ansible]] constructs, we can group tasks by creating Separate playbook files, and then importing or including them when they're needed.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980&t=7)** We can combine this with conditionals, and even simulate group-level error handling, at least to a degree.
 >
@@ -2898,7 +2869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (9), data (1), hit (1)
+> **Frameworks & Libraries:** [[Ansible]] (9)
 > **CLI Commands:** ansible (9), apache (1)
 > **Env Vars:** vim (4)
 > **Tools:** vim (4)
@@ -2907,12 +2878,11 @@ created: 2026-05-02
 > **Versions:** 2.3 (1)
 > **Analogies:** such as (1)
 
-#### Block error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/block-error-handling?u=76281980)
+#### [Block error handling](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/block-error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/block-error-handling?u=76281980&t=0)** - [Instructor] If you only look at blocks as a way of executing multiple tasks based on a condition, then you'll be missing a very important feature of Ansible.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/block-error-handling?u=76281980&t=0)** - [Instructor] If you only look at blocks as a way of executing multiple tasks based on a condition, then you'll be missing a very important feature of [[Ansible]].
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/block-error-handling?u=76281980&t=8)** Most modern programming languages have a concept of exceptions.
 >
@@ -3004,7 +2974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (4), hit (2), next (2), feature (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (4)
 > **Tools:** vim (3), terminal (2)
 > **CLI Commands:** ansible (4)
 > **Code Identifiers:** ansible_failed_task (1), ansible_failed_result (1)
@@ -3013,8 +2983,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **File Paths:** block-exceptions.yml (1)
 
-#### Using tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-tags?u=76281980)
+#### [Using tags](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3050,7 +3019,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-tags?u=76281980&t=89)** As such, it may be valuable to know which tasks will get run if we're providing the --tags option.
 >
-> **[1:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-tags?u=76281980&t=95)** For that, append --list-tags to your line, and Ansible will show you which tasks will get run.
+> **[1:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-tags?u=76281980&t=95)** For that, append --list-tags to your line, and [[Ansible]] will show you which tasks will get run.
 >
 > **[1:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-tags?u=76281980&t=101)** Where this becomes really powerful is when we provide multiple tags.
 >
@@ -3090,7 +3059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (2), data (1)
+> **Frameworks & Libraries:** [[Ansible]] (2)
 > **CLI Commands:** ansible (2), make (1), yum (1)
 > **Analogies:** such as (2), for instance (1)
 > **Code Identifiers:** include_role (1), include_task (1)
@@ -3104,12 +3073,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Jinja2 template files
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980)
+#### [Using Jinja2 template files](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=0)** - [Instructor] Sometimes it's hard to know where Ansible ends and Jinja2 starts.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=0)** - [Instructor] Sometimes it's hard to know where [[Ansible]] ends and Jinja2 starts.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=4)** Jinja2 is used for templating but also for accessing variables, using data filters and tests, some of which we've already discussed.
 >
@@ -3129,7 +3097,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=54)** There are many, many more tests mentioned in the Ansible documentation.
 >
-> **[0:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=58)** So Jinja2 templating provides a lot of the heavy lifting for Ansible's dynamic content creation.
+> **[0:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=58)** So Jinja2 templating provides a lot of the heavy lifting for Ansible's dynamic [[Content Creation]].
 >
 > **[1:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=63)** Note that Jinja2 has capabilities beyond what I'm going to cover here, including lookups to query external data sources, Jinja2 conditionals and loops.
 >
@@ -3139,7 +3107,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=80)** If you'd like to dig into Jinja2 deeper, you can visit the Jinja2 website.
 >
-> **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=84)** It's worth noting that other content management systems built on Python, including SaltStack, use Jinja2 for templating as well.
+> **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=84)** It's worth noting that other [[Content Management Systems (CMS)|content management systems]] built on [[Python (Programming Language)|Python]], including SaltStack, use Jinja2 for templating as well.
 >
 > **[1:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980&t=90)** So any effort you spend learning Jinja2 now can be transferred to other systems later.
 >
@@ -3215,7 +3183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (12), data (5), hit (3), next (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (12), [[Content Creation]] (1), [[Content Management Systems (CMS)|Content management systems]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (12), ssh (2), python (1), make (1), cat (1)
 > **Exercise Files:** template (8), exercise files (1)
 > **Env Vars:** archos (4), mac (1), yaml (1), ssh (1)
@@ -3224,8 +3192,7 @@ created: 2026-05-02
 > **Analogies:** such as (4)
 > **Code Identifiers:** group_vars (1), host_vars (1)
 
-#### Using modules to manipulate files
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980)
+#### [Using modules to manipulate files](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3233,7 +3200,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=6)** However, a lot of a host configuration is going to be stored in files that we can provision.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=11)** Ansible has multiple modules for dealing with managing files.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=11)** [[Ansible]] has multiple modules for dealing with managing files.
 >
 > **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=14)** Let's start with the file module.
 >
@@ -3241,7 +3208,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=21)** We can also remove files directories and links.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=24)** If your hosts are using the Windows OS, you'll want to use the win_file module instead.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=24)** If your hosts are using the [[Windows]] OS, you'll want to use the win_file module instead.
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=29)** Attributes that we can set include permissions, using group ownership, as well as access and modify times.
 >
@@ -3275,7 +3242,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=100)** If you specify backup equals yes and the file already exists, it will make a backup of the original file before copying over the new file.
 >
-> **[1:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=107)** If you need to copy a file from a remote machine to a local machine, you want to use the fetch module instead of copy.
+> **[1:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=107)** If you need to copy a file from a remote machine to a local machine, you want to use the [[Fetch]] module instead of copy.
 >
 > **[1:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=114)** The fetch module is pretty simple in comparison.
 >
@@ -3291,7 +3258,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=138)** This is useful when there may be a bunch of configuration files and pieces, such as what you'd have in the HTTPd.conf.d or sudors dot d directories.
 >
-> **[2:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=147)** This is very common in Linux.
+> **[2:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=147)** This is very common in [[Linux]].
 >
 > **[2:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-modules-to-manipulate-files?u=76281980&t=149)** The assemble module would take the fragment files and assemble them into one file and then save it in a destination location.
 >
@@ -3301,19 +3268,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Fetch]] (2), [[Ansible]] (1), node (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Fetch]] (2), [[Ansible]] (1), [[Linux]] (1)
 > **CLI Commands:** ssh (2), ansible (1), make (1), node (1)
 > **Analogies:** such as (2), for instance (2)
 > **Code Identifiers:** win_file (1), win_copy (1), sshd_config (1)
 > **Env Vars:** tmp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying files from templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/deploying-files-from-templates?u=76281980)
+#### [Deploying files from templates](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/deploying-files-from-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/deploying-files-from-templates?u=76281980&t=0)** - Let's put the lessons of this course in action change to the base role directory by typing in cd space tilde slash Ansible dash files slash roles, slash base, slash tasks, and hit enter.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/deploying-files-from-templates?u=76281980&t=0)** - Let's put the lessons of this course in action change to the base role directory by typing in cd space tilde slash [[Ansible]] dash files slash roles, slash base, slash tasks, and hit enter.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/deploying-files-from-templates?u=76281980&t=12)** Now load the main dot yml file into an editor, type in vim space main dot yml and hit enter, expand all fold by pressing z, uppercase R, we're going to provision the e-p-e-l repository file and its related GPG key.
 >
@@ -3431,7 +3397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (17), hit (12), cd (3), next (2)
+> **Frameworks & Libraries:** [[Ansible]] (17)
 > **CLI Commands:** ansible (17), yum (5), cd (3), cp (2), make (1)
 > **Env Vars:** gpg (10), rpm (3), epel (1)
 > **Exercise Files:** template (8), exercise files (2)
@@ -3445,12 +3411,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=0)** - [Instructor] This is the second course in a three course series on Ansible Engine for the Red Hat EX294 certification.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=0)** - [Instructor] This is the second course in a three course series on [[Ansible]] Engine for the Red Hat EX294 certification.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=6)** In this course, we created global variable files, configured static inventory, created a scalable configuration directory structure with separate roles, templates, and task directories.
 >
@@ -3460,7 +3425,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=31)** Lastly, we learned to use Jinja2 templates for dynamic file creation.
 >
-> **[0:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=35)** We're not done with this series on using Ansible for IT automation, which includes Ansible foundations, using Ansible playbooks, which is this course, and managing systems using Ansible.
+> **[0:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=35)** We're not done with this series on using Ansible for [[IT Automation]], which includes Ansible foundations, using Ansible playbooks, which is this course, and managing systems using Ansible.
 >
 > **[0:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980&t=45)** Before attempting to take your exam, you'll want to watch the other two courses.
 >

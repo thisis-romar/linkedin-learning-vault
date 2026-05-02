@@ -82,31 +82,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use AWS CLI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980)
+#### [Why use AWS CLI?](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=0)** - Using the command line interface for AWS allows you to interact with AWS services right from your terminal.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=6)** With a few keystrokes you can create resources, modify configurations, and manage your cloud infrastructure.
+> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=6)** With a few keystrokes you can create resources, modify configurations, and manage your [[Cloud Infrastructure]].
 >
 > **[0:13](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=13)** I'm Rishab Kumar.
 >
-> **[0:14](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=14)** I'm a Developer Evangelist, and AWS Community Builder and this LinkedIn Learning Course will cover all you need to know about setting up and using CLI for AWS.
+> **[0:14](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=14)** I'm a Developer Evangelist, and AWS Community Builder and this [[LinkedIn]] Learning Course will cover all you need to know about setting up and using [[CLI]] for AWS.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980&t=23)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Cloud Infrastructure]] (1), [[LinkedIn]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1), [[LinkedIn]] (1), [[CLI]] (1)
 > **Env Vars:** aws (4), cli (1)
 > **CLI Commands:** aws (4)
 > **Tools:** command line (1), terminal (1)
 > **Speakers:** - using (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,13 +112,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=9)** While you don't need to be an AWS expert, having a solid understanding of the following concepts will certainly help.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=16)** The first is familiarity with basic cloud computing concepts.
+> **[0:16](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=16)** The first is familiarity with basic [[Cloud Computing]] concepts.
 >
-> **[0:20](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=20)** Understanding things like virtualization, scalability and cloud computing models will provide you with a solid foundation for the rest of the course.
+> **[0:20](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=20)** Understanding things like virtualization, [[Scalability]] and cloud computing models will provide you with a solid foundation for the [[Representational State Transfer (REST)|rest]] of the course.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=29)** Next, a general understanding of Amazon Web Services is beneficial.
+> **[0:29](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=29)** Next, a general understanding of [[Amazon Web Services (AWS)|Amazon Web Services]] is beneficial.
 >
-> **[0:35](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=35)** Knowing about Key AWS services like EC2, S3, IAM, RDS and CloudWatch will help you grasp the concepts more easily.
+> **[0:35](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=35)** Knowing about Key AWS services like [[Amazon EC2|EC2]], S3, IAM, RDS and CloudWatch will help you grasp the concepts more easily.
 >
 > **[0:45](https://www.linkedin.com/learning/aws-for-developers-cli-tips/what-you-should-know?u=76281980&t=45)** Finally, while you don't need to be an expert in using the command line, some familiarity with basic command line operations will be helpful.
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), cloud (2), [[Virtualization]] (1), [[Scalability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Scalability]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (3), ec2 (1), iam (1), rds (1)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** command line (3)
@@ -139,12 +137,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of AWS CLI and its benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980)
+#### [Overview of AWS CLI and its benefits](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=0)** - [Instructor] Welcome to chapter one of our AWS CLI course.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=0)** - [Instructor] Welcome to chapter one of our AWS [[CLI]] course.
 >
 > **[0:03](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=3)** In this video, we'll start by providing an overview of the AWS Command Line Interface, also known as the AWS CLI, and explore its numerous benefits.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=70)** AWS CLI enables you to perform actions quickly and efficiently.
 >
-> **[1:15](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=75)** With a few keystrokes, you can create resources, modify configurations, and manage your cloud infrastructure.
+> **[1:15](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=75)** With a few keystrokes, you can create resources, modify configurations, and manage your [[Cloud Infrastructure]].
 >
 > **[1:23](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=83)** By leveraging the power of the command line, you can save valuable time and streamline your workflows.
 >
@@ -174,13 +171,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=99)** You can write scripts to automate repetitive tasks, set up complex deployments, and orchestrate resource management.
 >
-> **[1:47](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=107)** This allows you to standardize and reproduce your configurations consistently, reducing the chances of human error and promoting Infrastructure as Code practices.
+> **[1:47](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=107)** This allows you to standardize and reproduce your configurations consistently, reducing the chances of human error and promoting [[Infrastructure as code (IaC)|Infrastructure as Code]] practices.
 >
 > **[2:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=120)** Third one is flexibility and portability.
 >
 > **[2:04](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=124)** One of the great advantages of AWS CLI is its flexibility and portability.
 >
-> **[2:11](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=131)** It works seamlessly across different platforms including Windows, macOS, and Linux.
+> **[2:11](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=131)** It works seamlessly across different platforms including [[Windows]], macOS, and [[Linux]].
 >
 > **[2:18](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980&t=138)** Whether you're working on your local machine or within a remote environment, you can rely on AWS CLI to manage your AWS resources consistently.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[CLI]] (14), management (4), [[Automation]] (3), [[Scripting]] (3)
+> **Frameworks & Libraries:** [[CLI]] (14), [[Cloud Infrastructure]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** aws (22), cli (14)
 > **CLI Commands:** aws (22)
 > **Tools:** command line (4), terminal (1)
@@ -207,18 +204,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and configuring AWS CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980)
+#### [Installing and configuring AWS CLI](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=0)** - [Instructor] Let's go through the process of installing and configuring the AWS Command Line Interface on your local machine.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=7)** By the end of this video you'll be ready to start using AWS CLI and manage your AWS resources from the command line.
+> **[0:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=7)** By the end of this video you'll be ready to start using AWS [[CLI]] and manage your AWS resources from the command line.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=16)** Let's get started.
 >
-> **[0:18](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=18)** The first thing that's needed is Python 3.
+> **[0:18](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=18)** The first thing that's needed is [[Python (Programming Language)|Python]] 3.
 >
 > **[0:22](https://www.linkedin.com/learning/aws-for-developers-cli-tips/installing-and-configuring-aws-cli?u=76281980&t=22)** Ensure that you have Python 3 version 3.3 or higher installed on your machine.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (31), [[CLI]] (14), [[Python (Programming Language)|Python]] (5), next (4), management (3)
+> **Frameworks & Libraries:** [[CLI]] (14), [[Python (Programming Language)|Python]] (5)
 > **Env Vars:** aws (27), cli (12), iam (3), csv (1), gui (1)
 > **CLI Commands:** aws (31), python (5), find (2), python3 (1), make (1)
 > **Tools:** command line (8), terminal (4)
@@ -371,12 +367,11 @@ created: 2026-05-02
 > **Versions:** python 3 (3), version 3 (1), version 2 (1), 13.7 (1)
 > **Definitions:** is a  (3), is an  (1)
 
-#### Basic commands and syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980)
+#### [Basic commands and syntax](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=0)** - [Instructor] Let's cover the basics of AWS CLI commands and syntax.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=0)** - [Instructor] Let's cover the basics of AWS [[CLI]] commands and syntax.
 >
 > **[0:05](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=5)** Understanding these fundamentals is crucial as we'll be using them throughout the course.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=84)** Each AWS service has its own set of commands tailored to its functionalities.
 >
-> **[1:30](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=90)** For example, ec2 run-instances is a command specific to Amazon EC2 that launches EC2 instances.
+> **[1:30](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=90)** For example, [[Amazon EC2|ec2]] run-instances is a command specific to [[Amazon EC2]] that launches EC2 instances.
 >
 > **[1:40](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=100)** Next is flags.
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=120)** AWS CLI provides various output formats to display command results.
 >
-> **[2:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=126)** The --output flag allows you to specify the desired format, such as JSON, text or table.
+> **[2:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=126)** The --output flag allows you to specify the desired format, such as [[JSON]], text or table.
 >
 > **[2:15](https://www.linkedin.com/learning/aws-for-developers-cli-tips/basic-commands-and-syntax?u=76281980&t=135)** We also have filtering and curing.
 >
@@ -492,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[CLI]] (16), next (3), [[Amazon EC2|Ec2]] (2), hit (2)
+> **Frameworks & Libraries:** [[CLI]] (16), [[Amazon EC2|Ec2]] (2), [[Amazon EC2]] (1), [[JSON]] (1)
 > **Env Vars:** aws (17), cli (16), ec2 (2), iam (2), json (1)
 > **CLI Commands:** aws (22), ls (4), make (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
@@ -506,12 +501,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and launching EC2 instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980)
+#### [Creating and launching EC2 instances](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of AWS CLI, let's dive into creating and launching Amazon Elastic Compute Cloud instances, also known as EC2 instances using the AWS CLI.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of AWS [[CLI]], let's dive into creating and launching Amazon Elastic Compute Cloud instances, also known as [[Amazon EC2|EC2]] instances using the AWS CLI.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=14)** By the end of this video, you'll be able to leverage AWS CLI to provision EC2 instances with ease.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=78)** You can do that by clicking on the AMI catalog, and now, you can see we have 44 Quickstart AMIs.
 >
-> **[1:27](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=87)** For the purposes of this course, I'll be using Amazon Linux 2023 AMI.
+> **[1:27](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=87)** For the purposes of this course, I'll be using Amazon [[Linux]] 2023 AMI.
 >
 > **[1:33](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980&t=93)** In order to create an instance, you'll need the AMI ID, which you can find right under the name of the Amazon Linux 2023 AMI or whatever AMI you decide to use.
 >
@@ -561,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon EC2|Ec2]] (7), [[CLI]] (5), [[Security]] (4), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[CLI]] (5), [[Linux]] (3)
 > **Env Vars:** ami (10), aws (7), ec2 (7), cli (5)
 > **CLI Commands:** aws (7), find (2)
 > **UI Navigation:** click on (2)
@@ -570,14 +564,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with EC2 security groups and key pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980)
+#### [Working with EC2 security groups and key pairs](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=0)** - [Instructor] Now let's work with EC2 security groups and key pairs using the AWS Command Line Interface.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=0)** - [Instructor] Now let's work with [[Amazon EC2|EC2]] security groups and key pairs using the AWS Command Line Interface.
 >
-> **[0:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=7)** By the end of this video you'll be able to effectively create and manage EC2 security groups and key pairs using AWS CLI.
+> **[0:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=7)** By the end of this video you'll be able to effectively create and manage EC2 security groups and key pairs using AWS [[CLI]].
 >
 > **[0:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=17)** EC2 security groups and key pairs are essential components for securing your EC2 instances.
 >
@@ -681,7 +674,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=330)** And if we hit enter again, you can see that the ingress rule was added to our security group which allows SSH access from this specific public IP which is 172.217.22.14.
 >
-> **[5:45](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=345)** Moving forward, key pairs provides secure access to your EC2 instances by enabling SSH connectivity for Linux instances.
+> **[5:45](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=345)** Moving forward, key pairs provides secure access to your EC2 instances by enabling SSH connectivity for [[Linux]] instances.
 >
 > **[5:54](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=354)** Let's explore how to create and manage key pairs using AWS CLI.
 >
@@ -737,7 +730,7 @@ created: 2026-05-02
 >
 > **[8:32](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=512)** Hit enter.
 >
-> **[8:35](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=515)** Now you can see that it gave us an output with some of the instance settings in JSON format.
+> **[8:35](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=515)** Now you can see that it gave us an output with some of the instance settings in [[JSON]] format.
 >
 > **[8:42](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-ec2-security-groups-and-key-pairs?u=76281980&t=522)** And to confirm if the EC2 instance was created we can go into our management console and visit the EC2 dashboard.
 >
@@ -753,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (35), [[Amazon EC2|Ec2]] (21), aws (15), [[CLI]] (8), hit (6)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (21), [[CLI]] (8), [[Linux]] (2), [[JSON]] (1)
 > **Env Vars:** ec2 (21), aws (15), cli (8), ssh (5), cidr (5)
 > **CLI Commands:** aws (15), ssh (5), make (1)
 > **Tools:** terminal (4), command line (1)
@@ -762,14 +755,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** configure (1), you'll need (1)
 
-#### Managing EC2 instances with AWS CLI commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980)
+#### [Managing EC2 instances with AWS CLI commands](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=0)** - [Instructor] We launched our first EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=0)** - [Instructor] We launched our first [[Amazon EC2|EC2]] instance.
 >
-> **[0:03](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=3)** Now let's start managing that instance using AWS CLI.
+> **[0:03](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=3)** Now let's start managing that instance using AWS [[CLI]].
 >
 > **[0:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=7)** Specifically, we'll explore how to start, stop, and terminate instances to have full control over your compute resources.
 >
@@ -787,7 +779,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=56)** To do that, type in: aws ec2 describe-instances, hit Enter.
 >
-> **[1:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=67)** And you'll see A JSON output of all the instances in your account.
+> **[1:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=67)** And you'll see A [[JSON]] output of all the instances in your account.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-ec2-instances-with-aws-cli-commands?u=76281980&t=72)** And as you can see, the instance ID: i-091 is the t2.micro instance that we just launched, and the t2.micro as I said.
 >
@@ -849,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), [[Amazon EC2|Ec2]] (15), [[CLI]] (8), hit (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (15), [[CLI]] (8), [[JSON]] (3)
 > **Env Vars:** aws (10), ec2 (9), cli (8), json (3)
 > **CLI Commands:** aws (16)
 > **Tools:** terminal (4)
@@ -863,8 +855,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uploading, downloading, and managing files in S3 buckets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980)
+#### [Uploading, downloading, and managing files in S3 buckets](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,11 +863,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=11)** Specifically, we'll cover uploading, downloading, and managing files.
 >
-> **[0:16](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=16)** By the end of this video, you'll have the skills to efficiently handle your files in S3 using CLI.
+> **[0:16](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=16)** By the end of this video, you'll have the skills to efficiently handle your files in S3 using [[CLI]].
 >
 > **[0:23](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=23)** What is Amazon S3?
 >
-> **[0:25](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=25)** S3 is a highly scalable and durable object storage service offered by Amazon Web Services.
+> **[0:25](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=25)** S3 is a highly scalable and durable object storage service offered by [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:32](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=32)** Let's dive into how you can interact with S3 buckets and manage your files using AWS CLI.
 >
@@ -986,11 +977,11 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=409)** Fantastic, you now know how to upload, download, and manage files in S3 bucket using the CLI.
 >
-> **[6:56](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=416)** This knowledge will empower you to efficiently handle your data in S3 and leverage its scalability and durability.
+> **[6:56](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980&t=416)** This knowledge will empower you to efficiently handle your data in S3 and leverage its [[Scalability]] and durability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (17), [[CLI]] (9), hit (3), management (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[CLI]] (9), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Scalability]] (1)
 > **CLI Commands:** aws (17), cp (6), ls (3), make (2), mv (1)
 > **Env Vars:** aws (10), cli (8), txt (1)
 > **File Paths:** hello.txt (9)
@@ -999,8 +990,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** make_bucket (1)
 
-#### Managing S3 bucket policies and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980)
+#### [Managing S3 bucket policies and permissions](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=1)** Now, we'll dive into managing S3 bucket policies and permissions using the AWS command line interface.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=9)** By the end of this video, you'll be able to effectively control access to your S3 buckets and manage bucket level permissions using AWS CLI.
+> **[0:09](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=9)** By the end of this video, you'll be able to effectively control access to your S3 buckets and manage bucket level permissions using AWS [[CLI]].
 >
 > **[0:19](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=19)** Let's get started.
 >
@@ -1020,7 +1010,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=37)** But first, let's understand S3 bucket policies.
 >
-> **[0:41](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=41)** "S3 bucket policies are a JSON-based access policies that define who can access your S3 bucket and what actions they can perform."
+> **[0:41](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=41)** "S3 bucket policies are a [[JSON]]-based access policies that define who can access your S3 bucket and what actions they can perform."
 >
 > **[0:51](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-s3-bucket-policies-and-permissions?u=76281980&t=51)** These policies are powerful tools for managing fine grain access control.
 >
@@ -1170,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (18), [[JSON]] (10), hit (7), [[CLI]] (6), api (3)
+> **Frameworks & Libraries:** [[JSON]] (10), [[CLI]] (6)
 > **Env Vars:** aws (13), json (10), https (7), cli (6), acl (4)
 > **CLI Commands:** aws (18), find (3), make (1), cat (1)
 > **UI Navigation:** click on (5), go to (1), scroll down (1)
@@ -1178,8 +1168,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AWS CLI to automate S3 tasks and workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-automate-s3-tasks-and-workflows?u=76281980)
+#### [Using AWS CLI to automate S3 tasks and workflows](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-automate-s3-tasks-and-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-automate-s3-tasks-and-workflows?u=76281980&t=11)** Specifically we'll focus on automating file synchronization between local and S3 storage.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-automate-s3-tasks-and-workflows?u=76281980&t=17)** By the end of this video, you'll have the skills to automate repetitive S3 tasks using AWS CLI.
+> **[0:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-automate-s3-tasks-and-workflows?u=76281980&t=17)** By the end of this video, you'll have the skills to automate repetitive S3 tasks using AWS [[CLI]].
 >
 > **[0:25](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-automate-s3-tasks-and-workflows?u=76281980&t=25)** Automation is a key aspect of managing your S3 storage efficiently.
 >
@@ -1263,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (17), [[CLI]] (12), [[Automation]] (5), hit (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[CLI]] (12)
 > **Env Vars:** aws (11), cli (9), txt (1)
 > **CLI Commands:** aws (17), ls (1)
 > **Definitions:** is a  (3), is called (1)
@@ -1277,8 +1266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to IAM users, groups, and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980)
+#### [Introduction to IAM users, groups, and policies](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1288,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980&t=66)** Instead of individually assigning permissions to each user, you can assign permissions to groups, making it easier to manage permissions as your team or organization grows.
 >
-> **[1:18](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980&t=78)** In the beginning of this course, we did work with IAM when we created a IAM user specifically for our CLI use.
+> **[1:18](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980&t=78)** In the beginning of this course, we did work with IAM when we created a IAM user specifically for our [[CLI]] use.
 >
 > **[1:26](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980&t=86)** And we also generated an access key and secret access key for the CLI access.
 >
@@ -1314,21 +1302,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), management (2), [[CLI]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[CLI]] (2)
 > **Env Vars:** iam (11), aws (5), cli (2)
 > **CLI Commands:** aws (5)
 > **Tools:** command line (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and managing IAM users and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-managing-iam-users-and-groups?u=76281980)
+#### [Creating and managing IAM users and groups](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-managing-iam-users-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-managing-iam-users-and-groups?u=76281980&t=0)** - [Instructor] IAM users and groups play a crucial role in managing access to your AWS resources.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-managing-iam-users-and-groups?u=76281980&t=6)** In this video, we'll explore how to create and manage IAM users and groups using AWS CLI, providing you with the flexibility and automation you need.
+> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-managing-iam-users-and-groups?u=76281980&t=6)** In this video, we'll explore how to create and manage IAM users and groups using AWS [[CLI]], providing you with the flexibility and automation you need.
 >
 > **[0:16](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-managing-iam-users-and-groups?u=76281980&t=16)** To create an IAM user using the AWS CLI, we'll use the create-user command.
 >
@@ -1416,21 +1403,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (17), [[CLI]] (8), hit (3), [[Automation]] (1), management (1)
+> **Frameworks & Libraries:** [[CLI]] (8)
 > **Env Vars:** iam (16), aws (11), cli (8)
 > **CLI Commands:** aws (17)
 > **Tools:** terminal (3)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using AWS CLI to manage IAM roles and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980)
+#### [Using AWS CLI to manage IAM roles and policies](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=0)** - [Instructor] IAM roles and policies provide a powerful mechanism for granting temporary access to AWS resources and defining permissions.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=10)** Using AWS CLI, we can create, manage and attach these roles and policies seamlessly.
+> **[0:10](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=10)** Using AWS [[CLI]], we can create, manage and attach these roles and policies seamlessly.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=17)** To create an IAM role using AWS CLI will use the create-role command.
 >
@@ -1450,7 +1436,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=66)** Head over to your terminal.
 >
-> **[1:09](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=69)** So I have a policy document in my aws-cli directory called assume-role-policy.json.
+> **[1:09](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=69)** So I have a policy document in my aws-cli directory called assume-role-policy.[[JSON]].
 >
 > **[1:22](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=82)** This trust policy allows users and roles of my account to assume this role if they allow the sts:AssumeRole action in their permission policy.
 >
@@ -1512,7 +1498,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=319)** And here you specify the S3 access policy document.
 >
-> **[5:23](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=323)** Again, these resources will be available on the GitHub repo.
+> **[5:23](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=323)** Again, these resources will be available on the [[GitHub]] repo.
 >
 > **[5:35](https://www.linkedin.com/learning/aws-for-developers-cli-tips/using-aws-cli-to-manage-iam-roles-and-policies?u=76281980&t=335)** Hit Enter. And there we go.
 >
@@ -1558,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), [[CLI]] (7), hit (6), [[JSON]] (5), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[CLI]] (7), [[JSON]] (5), [[GitHub]] (1)
 > **Env Vars:** iam (15), aws (11), cli (5), arn (2), json (1)
 > **CLI Commands:** aws (19), ls (1), find (1)
 > **Tools:** terminal (3), github (1)
@@ -1572,14 +1558,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing RDS databases with AWS CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980)
+#### [Managing RDS databases with AWS CLI](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=0)** - [Instructor] Now we'll explore managing other AWS services with the AWS Command Line Interface.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=6)** Specifically, we'll focus on managing Amazon RDS databases using AWS CLI.
+> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=6)** Specifically, we'll focus on managing Amazon RDS [[Databases]] using AWS [[CLI]].
 >
 > **[0:13](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=13)** By the end of this video, you'll be equipped with the skills to manage your RDS databases efficiently using AWS CLI.
 >
@@ -1635,7 +1620,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=158)** Here you select the desired database engine.
 >
-> **[2:42](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=162)** Popular ones are MySQL and Postgres.
+> **[2:42](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=162)** Popular ones are [[MySQL]] and [[PostgreSQL|Postgres]].
 >
 > **[2:45](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=165)** The next one is the --db-instance-class.
 >
@@ -1669,7 +1654,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=231)** So it's a little big.
 >
-> **[3:52](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=232)** I'm going to copy and paste it into my terminal but you can find the exact command in the GitHub repo.
+> **[3:52](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=232)** I'm going to copy and paste it into my terminal but you can find the exact command in the [[GitHub]] repo.
 >
 > **[3:59](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980&t=239)** So for the DB instance identifier I'm using mydemordsdatabase as the name.
 >
@@ -1769,7 +1754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), aws (22), [[CLI]] (7), management (5), [[Databases]] (4)
+> **Frameworks & Libraries:** [[CLI]] (7), [[Databases]] (4), [[PostgreSQL|Postgres]] (2), [[GitHub]] (2), [[MySQL]] (1)
 > **Env Vars:** rds (24), aws (17), cli (7), rdss (1)
 > **CLI Commands:** aws (22), find (3), mysql (1), make (1)
 > **Tools:** terminal (5), github (2), command line (1)
@@ -1778,14 +1763,13 @@ created: 2026-05-02
 > **Analogies:** such as (3)
 > **Exercise Files:** github repo (2)
 
-#### Managing RDS Snapshots and monitoring with CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980)
+#### [Managing RDS Snapshots and monitoring with CloudWatch](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=0)** - [Instructor] Now let's explore managing RDS snapshots With the AWS Command line interface.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=6)** We'll also focus on monitoring RDS databases using CloudWatch with AWS CLI.
+> **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=6)** We'll also focus on monitoring RDS [[Databases]] using CloudWatch with AWS [[CLI]].
 >
 > **[0:12](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=12)** By the end of this video, you'll be equipped with scales to manage your RDS databases efficiently using AWS CLI.
 >
@@ -1887,7 +1871,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=409)** Here's an example command, aws space cloudwatch.
 >
-> **[6:53](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=413)** The first option is region and the command is get-metric-statistics.
+> **[6:53](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=413)** The first option is region and the command is get-metric-[[Statistics]].
 >
 > **[7:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-snapshots-and-monitoring-with-cloudwatch?u=76281980&t=420)** And then we have the namespace option followed by metric name, start time, end time, period, statistics and dimensions.
 >
@@ -1935,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[Statistics]] (9), [[Databases]] (7), [[CLI]] (7), database (6)
+> **Frameworks & Libraries:** [[Statistics]] (9), [[Databases]] (7), [[CLI]] (7)
 > **Env Vars:** rds (23), aws (20), cli (7), cpu (6), arn (4)
 > **CLI Commands:** aws (22), find (1), make (1)
 > **Tools:** terminal (5), command line (1)
@@ -1944,12 +1928,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with CloudWatch using AWS CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980)
+#### [Working with CloudWatch using AWS CLI](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=0)** - [Instructor] We saw how we can monitor our AWS RDS instance using AWS CLI.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=0)** - [Instructor] We saw how we can monitor our AWS RDS instance using AWS [[CLI]].
 >
 > **[0:05](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=5)** In this video, let's learn more on how to effectively use and manage AWS CloudWatch using AWS command line interface.
 >
@@ -1957,7 +1940,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=25)** By the end of this video, you'll have the knowledge to leverage AWS CLI to interact with CloudWatch and gain valuable insights into your AWS resources.
 >
-> **[0:36](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=36)** AWS CloudWatch offers a comprehensive set of monitoring tools that allow you to collect and track metrics, collect and monitor log files, set alarms, and react to changes in your AWS resources and applications.
+> **[0:36](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=36)** AWS CloudWatch offers a comprehensive set of monitoring tools that allow you to collect and track metrics, collect and monitor log files, set alarms, and [[React.js|react]] to changes in your AWS resources and applications.
 >
 > **[0:51](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=51)** To get started, let's take a look at how to list CloudWatch metrics using AWS CLI.
 >
@@ -1969,13 +1952,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=73)** This will return a list of metrics across all AWS services.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=77)** Once you have identified the metrics of interest, you can retrieve their data using get-metric-statistics command.
+> **[1:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=77)** Once you have identified the metrics of interest, you can retrieve their data using get-metric-[[Statistics]] command.
 >
 > **[1:24](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=84)** This command enables you to curate and analyze metric data over a specified time period, just like we did with RDS metrics in last video.
 >
 > **[1:34](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=94)** Here's an example command.
 >
-> **[1:37](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=97)** This command fetches the average CPU utilization for an EC2 instance with the ID i-12345678 over the specified time range.
+> **[1:37](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=97)** This command fetches the average CPU utilization for an [[Amazon EC2|EC2]] instance with the ID i-12345678 over the specified time range.
 >
 > **[1:48](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=108)** Now let's try this on one of our instances.
 >
@@ -1989,7 +1972,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=139)** and then copy the instance ID, head back to your terminal.
 >
-> **[2:24](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=144)** The command for get-metric-statistics is a bit lengthy, so I'm going to copy and paste it into my terminal, but again, this will be available in the GitHub repo.
+> **[2:24](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=144)** The command for get-metric-statistics is a bit lengthy, so I'm going to copy and paste it into my terminal, but again, this will be available in the [[GitHub]] repo.
 >
 > **[2:34](https://www.linkedin.com/learning/aws-for-developers-cli-tips/working-with-cloudwatch-using-aws-cli?u=76281980&t=154)** So we'll be using the CloudWatch service.
 >
@@ -2019,7 +2002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (21), [[CLI]] (7), [[Amazon EC2|Ec2]] (5), [[Statistics]] (4), data (3)
+> **Frameworks & Libraries:** [[CLI]] (7), [[Amazon EC2|Ec2]] (5), [[Statistics]] (4), [[React.js|React]] (1), [[GitHub]] (1)
 > **Env Vars:** aws (19), cli (7), ec2 (5), cpu (4), rds (2)
 > **CLI Commands:** aws (21), make (1)
 > **Tools:** terminal (2), command line (1), github (1)
@@ -2033,18 +2016,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating AWS CLI with AWS CloudTrail
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980)
+#### [Integrating AWS CLI with AWS CloudTrail](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=0)** - [Instructor] Let's dive into the powerful world of AWS CloudTrail and learn how to integrate it with AWS CLI.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=0)** - [Instructor] Let's dive into the powerful world of AWS CloudTrail and learn how to integrate it with AWS [[CLI]].
 >
 > **[0:06](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=6)** AWS CloudTrail is a service that enables you to monitor AWS API calls and track changes to your AWS resources in real time.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=17)** By integrating AWS CLI with CloudTrail, you gain valuable insights into the activities occurring within your AWS environment.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=25)** By the end of this video you'll have the knowledge to set up CloudTrail with CLI and enhance your AWS security and governance.
+> **[0:25](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=25)** By the end of this video you'll have the knowledge to set up CloudTrail with CLI and enhance your [[AWS Security]] and governance.
 >
 > **[0:34](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=34)** Let's get started.
 >
@@ -2066,7 +2048,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=91)** Also, remember how we set up an S3 bucket using the CLI, and applied a specific policy to it, same is needed here.
 >
-> **[1:39](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=99)** I have set up a S3 bucket with a policy for CloudTrail, and this link is also available in the GitHub repo.
+> **[1:39](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=99)** I have set up a S3 bucket with a policy for CloudTrail, and this link is also available in the [[GitHub]] repo.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980&t=106)** And now let me show the S3 bucket that I have configured.
 >
@@ -2142,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (32), [[CLI]] (10), api (5), hit (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[CLI]] (10), [[GitHub]] (2), [[AWS Security]] (1)
 > **Env Vars:** aws (31), cli (10), api (5)
 > **CLI Commands:** aws (32), find (1)
 > **Tools:** terminal (3), github (2)
@@ -2151,12 +2133,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll down (1)
 
-#### Troubleshooting AWS CLI issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980)
+#### [Troubleshooting AWS CLI issues](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=0)** - [Presenter] So now that we understand how AWS CLI works let's talk about some of the common issues and how you can troubleshoot them.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=0)** - [Presenter] So now that we understand how AWS [[CLI]] works let's talk about some of the common issues and how you can troubleshoot them.
 >
 > **[0:07](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=7)** The first one is config and credentials.
 >
@@ -2224,7 +2205,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=204)** One of the other common issues you might face is AWS CLI not having the run permission.
 >
-> **[3:30](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=210)** On Linux or Mac OS, make sure that the AWS program has run permissions for the calling user.
+> **[3:30](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=210)** On [[Linux]] or Mac OS, make sure that the AWS program has run permissions for the calling user.
 >
 > **[3:37](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=217)** Typically the permissions are set to 755 to add run permissions for your user, run the following command, chmod space plus X space dot local slash bin slash AWS but you might have to substitute this with a pad to program on your computer based on the installation process you followed.
 >
@@ -2244,7 +2225,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=285)** So these are all the common errors that you might get or might run into as issues but AWS has a dedicated document for any of the common errors or issues that you might run into with AWS CLI.
 >
-> **[4:59](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=299)** The link to that documentation page will be shared in the GitHub repo.
+> **[4:59](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=299)** The link to that documentation page will be shared in the [[GitHub]] repo.
 >
 > **[5:04](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=304)** So this is the page provided by AWS dedicated to AWS CLI errors.
 >
@@ -2254,7 +2235,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=322)** Now you know how to work with AWS CLI but there is this one last step and that is cleaning up our environment.
 >
-> **[5:29](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=329)** So let's go through all the resources that were deployed especially the expensive ones like RDS and EC2 instances and let's delete them.
+> **[5:29](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=329)** So let's go through all the resources that were deployed especially the expensive ones like RDS and [[Amazon EC2|EC2]] instances and let's delete them.
 >
 > **[5:38](https://www.linkedin.com/learning/aws-for-developers-cli-tips/troubleshooting-aws-cli-issues?u=76281980&t=338)** Also, you can find a cool dashboard on your console home in AWS management console for any cost that you might have had.
 >
@@ -2334,7 +2315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[CLI]] (9), [[Amazon EC2|Ec2]] (3), database (3), [[Linux]] (1)
+> **Frameworks & Libraries:** [[CLI]] (9), [[Amazon EC2|Ec2]] (3), [[Linux]] (1), [[GitHub]] (1)
 > **Env Vars:** aws (21), cli (9), rds (5), ec2 (3), aws3 (1)
 > **CLI Commands:** aws (22), make (6), cat (1), chmod (1), ls (1)
 > **UI Navigation:** click on (5), scroll down (1), dropdown (1), go to (1)
@@ -2348,16 +2329,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=0)** - Congratulations on completing the AWS CLI course.
+> **[0:00](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=0)** - Congratulations on completing the AWS [[CLI]] course.
 >
 > **[0:03](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=3)** You have taken an incredible journey through the world of AWS command line interface, exploring how to manage various AWS services efficiently and effectively.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=13)** As you venture further into AWS there are several exciting avenues you can explore to deepen your expertise and stay ahead in the fast paced cloud computing world.
+> **[0:13](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=13)** As you venture further into AWS there are several exciting avenues you can explore to deepen your expertise and stay ahead in the fast paced [[Cloud Computing]] world.
 >
 > **[0:24](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=24)** Here are some recommended next steps for you to consider.
 >
@@ -2369,7 +2349,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=42)** You can practice managing more complex AWS resources and leveraging AWS CLI to automate advanced workflows.
 >
-> **[0:51](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=51)** Next, check out the AWS Cloud Formation and infrastructure as code.
+> **[0:51](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=51)** Next, check out the AWS Cloud Formation and [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:56](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980&t=56)** Exploring infrastructure as code or IaC with AWS cloud formation is highly valuable.
 >
@@ -2399,7 +2379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (22), [[CLI]] (6), cloud (6), next (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
+> **Frameworks & Libraries:** [[CLI]] (6), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Cloud Computing]] (1)
 > **Env Vars:** aws (22), cli (6)
 > **CLI Commands:** aws (22)
 > **Definitions:** is a  (2), is an  (2)

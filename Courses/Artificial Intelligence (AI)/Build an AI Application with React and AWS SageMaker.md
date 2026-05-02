@@ -83,24 +83,22 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build an AI application with React and SageMaker
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980)
+#### [Build an AI application with React and SageMaker](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980&t=0)** - [Emmanuel] Have you ever been looking to build a project 2 where you'd like to create a front end in React 3 that leverages SageMaker for machine learning project, 4 all the meanwhile, you'd like to learn 5 the basics of SageMaker? 6 If you've answered yes to any of these questions, 7 you've come to the right place. 8 In this course, we'll explore 9 how these two can be integrated in a full project. 10 First, we'll walk through the initial setup of our project. 11 Then we'll explore the front end application with React 12 and build the components required. 13 Next, start to explore how we'll build our ML model 14 with working with our data for training purposes. 15 Then we'll train and tune our model in SageMaker. 16 And finally, we'll deploy our model 17 and connect the endpoint to our application. 18 Hi, I'm Manny Henri, 19
+> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980&t=0)** - [Emmanuel] Have you ever been looking to build a project 2 where you'd like to create a front end in [[React.js|React]] 3 that leverages SageMaker for machine learning project, 4 all the meanwhile, you'd like to learn 5 the basics of SageMaker? 6 If you've answered yes to any of these questions, 7 you've come to the right place. 8 In this course, we'll explore 9 how these two can be integrated in a full project. 10 First, we'll walk through the initial setup of our project. 11 Then we'll explore the front end application with React 12 and build the components required. 13 Next, start to explore how we'll build our ML model 14 with working with our data for training purposes. 15 Then we'll train and tune our model in SageMaker. 16 And finally, we'll deploy our model 17 and connect the endpoint to our application. 18 Hi, I'm Manny Henri, 19
 >
 > **[0:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980&t=49)** and I've been working with React 20 since it was introduced to the market, 21 and built a few projects in SageMaker for ML purposes. 22 So if you're ready to learn about building an application 23 leveraging machine learning with React and SageMaker, 24 fire up your favorite editor and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), next (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Versions:** react 3 (1), react 12 (1), react 20 (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/course-prerequisites?u=76281980&t=4)** So if you come in with no prior experience with SageMaker, we'll cover everything you need to know.
 >
-> **[0:10](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/course-prerequisites?u=76281980&t=10)** However, experience with React is a must, as we won't cover the basics of this framework as we build a front end.
+> **[0:10](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/course-prerequisites?u=76281980&t=10)** However, experience with [[React.js|React]] is a must, as we won't cover the basics of this framework as we build a front end.
 >
 > **[0:17](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/course-prerequisites?u=76281980&t=17)** You can follow along as I write the code, but it's strongly suggested to have some experience with React.
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), aws (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Definitions:** is a  (1)
@@ -129,18 +127,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980)
+#### [Basics of machine learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=0)** - [Presenter] Machine learning is a subset of artificial intelligence that enables computers to learn from data, identify patterns, and make decisions with minimal human intervention.
+> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=0)** - [Presenter] Machine learning is a subset of [[Artificial Intelligence (AI)|artificial intelligence]] that enables computers to learn from data, identify patterns, and make decisions with minimal human intervention.
 >
 > **[0:12](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=12)** From voice assistance to self-driving cars, machine learning is everywhere.
 >
-> **[0:17](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=17)** The concept of machine learning has been around since the mid 20th century, involving from simple pattern recognition to complex algorithms capable of learning and adapting.
+> **[0:17](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=17)** The concept of machine learning has been around since the mid 20th century, involving from simple pattern recognition to complex [[Algorithms]] capable of learning and adapting.
 >
-> **[0:29](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=29)** There are three primary types of machine learning: supervised learning, where the model learns from labeled data; unsupervised learning where it discovers patterns in unlabeled data; and reinforcement learning where it learns by trial and error to achieve a specific goal.
+> **[0:29](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=29)** There are three primary types of machine learning: [[Supervised Learning]], where the model learns from labeled data; unsupervised learning where it discovers patterns in unlabeled data; and [[Reinforcement Learning]] where it learns by trial and error to achieve a specific goal.
 >
 > **[0:47](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980&t=47)** For example, we'll use to provide learning in this course.
 >
@@ -152,14 +149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Introduction to SageMaker
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980)
+#### [Introduction to SageMaker](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,13 +165,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=20)** Key among these is the streamlining of the training and deployment processes.
 >
-> **[0:25](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=25)** SageMaker offers a suite of powerful tools designed to efficient data preparation, which is often the time consuming steps in machine learning.
+> **[0:25](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=25)** SageMaker offers a suite of powerful tools designed to efficient [[Data Preparation]], which is often the time consuming steps in machine learning.
 >
 > **[0:34](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=34)** Additionally, it's deployment capabilities are robust and user-friendly.
 >
 > **[0:40](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=40)** By utilizing this comprehensive service, you can significantly reduce the time and effort typically required for machine learning task.
 >
-> **[0:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=49)** SageMaker not only accelerates the development cycle, but also enhances the overall effectiveness and scalability of your machine learning projects.
+> **[0:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=49)** SageMaker not only accelerates the development cycle, but also enhances the overall effectiveness and [[Scalability]] of your machine learning projects.
 >
 > **[0:59](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker?u=76281980&t=59)** SageMaker is designed for users of all skill levels, from beginners in machine learning to experienced data scientists.
 >
@@ -183,12 +179,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Scalability]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS SageMaker setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/aws-sagemaker-setup?u=76281980)
+#### [AWS SageMaker setup](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/aws-sagemaker-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +231,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** aws (2), find (2)
 > **UI Navigation:** click on (3), select the (1)
@@ -244,15 +238,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Initializing the React project
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980)
+#### [Initializing the React project](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980&t=0)** - [Instructor] Okay, so now what we're going to do 2 is create our base project for React, 3 the project that's going to be our front end, 4 and calling into the endpoint for SageMaker. 5 So what I'm going to use is Vite as the base of my project. 6 I used to leverage Create React App in the past, 7 but now this is no longer being maintained. 8 And there's several options. 9 There's Remix, there's Next.js. I personally prefer Vite. 10 You can use whatever you want to create your React project 11 as long as you're using one of the latest frameworks. 12 So I'm going to open my terminal to do this 13 and I'm going to go on my desktop 14 and then I'm going to create the project. 15 So how you create a project with Vite is npm 16 create vite@latest, 17
+> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980&t=0)** - [Instructor] Okay, so now what we're going to do 2 is create our base project for [[React.js|React]], 3 the project that's going to be our front end, 4 and calling into the endpoint for SageMaker. 5 So what I'm going to use is Vite as the base of my project. 6 I used to leverage Create React App in the past, 7 but now this is no longer being maintained. 8 And there's several options. 9 There's [[Remix]], there's [[Next.js]]. I personally prefer Vite. 10 You can use whatever you want to create your React project 11 as long as you're using one of the latest frameworks. 12 So I'm going to open my terminal to do this 13 and I'm going to go on my desktop 14 and then I'm going to create the project. 15 So how you create a project with Vite is [[npm]] 16 create vite@latest, 17
 >
-> **[0:50](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980&t=50)** and then you name the project. 18 So I'm going to call this mlreact. 19 And then yes, you say yes to this one. 20 We're going to use React. 21 So if you want to use something else 22 for the front end, feel free to do so. 23 But I'm going to use React. 24 I'm going to use JavaScript for this one. 25 And that's it. 26 So now what you need to do 27 is actually get into the folder that you just created 28 and then you need to do the npm install, 29 'cause it doesn't do the installation 30 of all the dependencies automatically. 31 But it's going to do it now. 32 Okay, so I'm going to clear my terminal 33 and then what I'm going to do to run the project, 34 it's npm run dev. 35 And then you can check directly on your browser, open link. 36
+> **[0:50](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980&t=50)** and then you name the project. 18 So I'm going to call this mlreact. 19 And then yes, you say yes to this one. 20 We're going to use React. 21 So if you want to use something else 22 for the front end, feel free to do so. 23 But I'm going to use React. 24 I'm going to use [[JavaScript]] for this one. 25 And that's it. 26 So now what you need to do 27 is actually get into the folder that you just created 28 and then you need to do the npm install, 29 'cause it doesn't do the installation 30 of all the dependencies automatically. 31 But it's going to do it now. 32 Okay, so I'm going to clear my terminal 33 and then what I'm going to do to run the project, 34 it's npm run dev. 35 And then you can check directly on your browser, open link. 36
 >
 > **[1:44](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/initializing-the-react-project?u=76281980&t=104)** And this is the project. 37 So if you want to see what it looks like, 38 you can actually drop this into your favorite editor. 39 I'm going to turn this off, close this terminal, 40 and drag and drop into VS Code. 41 And you're going to see the project. 42 So basically the main files 43 that you're used to are pretty similar. 44 So you're going to have your app.jsx, main.jsx, 45 the CSS files 46 and all your static assets are in the assets here. 47 And that's how Vite actually compiles the code. 48 So if you've never worked with Vite, 49 the main public files are here. 50 And basically if you want to take a look at 51 what the Vite configuration is, 52 this is where you see all the details, 53
 >
@@ -274,8 +268,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to SageMaker Data Wrangler
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980)
+#### [Introduction to SageMaker Data Wrangler](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,9 +286,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980&t=29)** It's an integrated application that allows users to create and manage Jupyter Notebooks, which are essential for running code, visualizing data, and documenting the machine learning process.
 >
-> **[0:41](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980&t=41)** Then, you have RStudio.
+> **[0:41](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980&t=41)** Then, you have [[RStudio]].
 >
-> **[0:44](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980&t=44)** This is for users who prefer R over Python.
+> **[0:44](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980&t=44)** This is for users who prefer R over [[Python (Programming Language)|Python]].
 >
 > **[0:47](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980&t=47)** It's available for statistical computing and graphics.
 >
@@ -435,7 +428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (3), next (3), application (2), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
 > **Env Vars:** noaa (1), ghcn (1), pdf (1), csv (1)
 > **CLI Commands:** make (2), python (1)
@@ -444,14 +437,13 @@ created: 2026-05-02
 > **Tools:** jupyter (1), vs code (1)
 > **Definitions:** is a  (1)
 
-#### Data cleaning and processing with Data Wrangler
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980)
+#### [Data cleaning and processing with Data Wrangler](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=0)** - [Instructor] Now let's use the data we've gathered from the previous step and start using Data Wrangler to prep the data.
 >
-> **[0:06](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=6)** So Data Wrangler is a tool within AWS that simplifies the process of data preparation for machine learning and it allows you to aggregate, explore, and prepare your data visually without writing code.
+> **[0:06](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=6)** So Data Wrangler is a tool within AWS that simplifies the process of [[Data Preparation]] for machine learning and it allows you to aggregate, explore, and prepare your data visually without writing code.
 >
 > **[0:20](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=20)** So if we go to data here and we click on Data Wrangler, you're going to see here run in Canvas.
 >
@@ -459,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=38)** And while this is happening, I'm going to also show you something about the data.
 >
-> **[0:43](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=43)** So I have the data that I got from NOAA directly in Excel here.
+> **[0:43](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=43)** So I have the data that I got from NOAA directly in [[Microsoft Excel|Excel]] here.
 >
 > **[0:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/data-cleaning-and-processing-with-wrangler?u=76281980&t=49)** So I don't know what happened with the average, it didn't give me anything, so there's no numbers here, so I'm going to basically use the max and the min.
 >
@@ -545,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), next (4), [[Microsoft Excel|Excel]] (2), aws (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Data Preparation]] (1)
 > **Env Vars:** tmax (2), aws (1), noaa (1), tmin_attributes (1), csv (1)
 > **CLI Commands:** make (5), aws (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
@@ -554,20 +546,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature engineering and transforming data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980)
+#### [Feature engineering and transforming data](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=0)** - [Instructor] Data preparation is probably one of the most important step in creating your ML model.
+> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=0)** - [Instructor] [[Data Preparation]] is probably one of the most important step in creating your ML model.
 >
 > **[0:05](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=5)** So, we'll keep working on our data in Data Wrangler.
 >
-> **[0:08](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=8)** So, let's work on feature engineering.
+> **[0:08](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=8)** So, let's work on [[Feature Engineering]].
 >
 > **[0:11](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=11)** Just as an introduction, feature engineering in machine learning is the process of using domain knowledge to extract and select features.
 >
-> **[0:21](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=21)** So, the features are characteristics, properties, or attributes from the raw data that makes the machine learning algorithms work.
+> **[0:21](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=21)** So, the features are characteristics, properties, or attributes from the raw data that makes the machine learning [[Algorithms]] work.
 >
 > **[0:31](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/feature-engineering-and-transform-data?u=76281980&t=31)** It is a fundamental step in the data pre-processing phase and can greatly impact the performance of a model.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Feature Engineering]] (3), [[Algorithms]] (1), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Data Preparation]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** tmax (3), date (3), tmin (2)
 > **Code Identifiers:** max_temperature (2), min_temperature (1)
@@ -689,8 +680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of algorithms and the training process
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980)
+#### [Overview of algorithms and the training process](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=80)** As far as the algorithm is concerned, here are the popular ones.
 >
-> **[1:25](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=85)** Linear regression.
+> **[1:25](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=85)** [[Linear Regression]].
 >
 > **[1:27](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=87)** This is used for regression tasks, predicting continuous values.
 >
@@ -728,11 +718,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=93)** It's popular due to its simplicity and basis in statistical theory.
 >
-> **[1:39](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=99)** Logistic regression, used for binary classification tasks.
+> **[1:39](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=99)** [[Logistic Regression]], used for binary classification tasks.
 >
 > **[1:43](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=103)** Yes, no predictions.
 >
-> **[1:45](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=105)** It estimates a probability that a given instance belongs to a particular class.
+> **[1:45](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=105)** It estimates a [[Probability]] that a given instance belongs to a particular class.
 >
 > **[1:50](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=110)** Decision tree, used for both regression and classification.
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=129)** Random forest, an ensemble learning method used for classification and regression.
 >
-> **[2:15](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=135)** It builds multiple decision trees and merges them to get a more accurate and stable prediction.
+> **[2:15](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=135)** It builds multiple [[Decision Trees]] and merges them to get a more accurate and stable prediction.
 >
 > **[2:22](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=142)** The next one is support vector machines.
 >
@@ -756,13 +746,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=161)** It builds models sequentially with each one correcting the errors of the previous model, often resulting in higher accuracy.
 >
-> **[2:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=169)** Neural networks used for wide range of task, classification, regression, pattern recognition, et cetera.
+> **[2:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=169)** [[Neural Networks]] used for wide range of task, classification, regression, pattern recognition, et cetera.
 >
-> **[2:57](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=177)** Neural networks are considered deep learning, particularly powerful for complex problems and large datasets, for example, image recognition.
+> **[2:57](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=177)** Neural networks are considered [[Deep Learning]], particularly powerful for complex problems and large datasets, for example, image recognition.
 >
-> **[3:07](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=187)** clustering algorithms or K-Means, used for unsupervised learning tasks, like segmenting data into groups, useful for discovering patterns or groupings and data without pre-label outcomes.
+> **[3:07](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=187)** clustering [[Algorithms]] or K-Means, used for unsupervised learning tasks, like segmenting data into groups, useful for discovering patterns or groupings and data without pre-label outcomes.
 >
-> **[3:22](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=202)** Reinforcement learning algorithm or Q-learning, used for decision-making problems where an agent learns to behave in an environment by performing actions and seeing the results.
+> **[3:22](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=202)** [[Reinforcement Learning]] algorithm or Q-learning, used for [[Decision-Making]] problems where an agent learns to behave in an environment by performing actions and seeing the results.
 >
 > **[3:34](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980&t=214)** So these are some of the algorithms that are used in machine learning and deep learning.
 >
@@ -770,17 +760,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Linear Regression]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Algorithms]] (2), [[Logistic Regression]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Train the model with Autopilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980)
+#### [Train the model with Autopilot](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=0)** - [Instructor] Using AutoML in AWS SageMaker, specifically SageMaker Autopilot, allows you to automate the process of machine learning model development.
+> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=0)** - [Instructor] Using AutoML in [[AWS SageMaker]], specifically SageMaker Autopilot, allows you to automate the process of machine learning model development.
 >
 > **[0:11](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=11)** Once you have prepared your data with Data Wrangler, you can use Autopilot to automatically build, train, and tune a machine learning model based on the data you provide.
 >
@@ -816,7 +805,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=114)** So this does basically everything for you.
 >
-> **[1:58](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=118)** So you're not going to select your own algorithm and then do the fine tuning and all this.
+> **[1:58](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=118)** So you're not going to select your own algorithm and then do the [[Fine Tuning]] and all this.
 >
 > **[2:05](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/train-the-model-with-autopilot?u=76281980&t=125)** SageMaker will do it for you.
 >
@@ -866,7 +855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (2), aws (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[AWS SageMaker]] (1), [[Fine Tuning]] (1)
 > **CLI Commands:** aws (1), find (1), make (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Code Identifiers:** weathermodel (1)
@@ -875,8 +864,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Review models and deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980)
+#### [Review models and deploy](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,7 +906,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=127)** Or what you could do is change the algorithm.
 >
-> **[2:10](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=130)** We actually explore what are the different algorithms.
+> **[2:10](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=130)** We actually explore what are the different [[Algorithms]].
 >
 > **[2:13](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=133)** You could select a different algorithm, and retrain the model with a different algorithm, and see what the actual accuracy comes at the end.
 >
@@ -928,11 +916,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=163)** So this is a non-coding approach to building your model.
 >
-> **[2:47](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=167)** It works very well for people that don't know Python, that don't know JavaScript, and so on so forth.
+> **[2:47](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=167)** It works very well for people that don't know [[Python (Programming Language)|Python]], that don't know [[JavaScript]], and so on so forth.
 >
 > **[2:53](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=173)** You can build it this way.
 >
-> **[2:55](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=175)** So once you're satisfied with that result, clearly this is not a good result, but I need to show you how the rest works.
+> **[2:55](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=175)** So once you're satisfied with that result, clearly this is not a good result, but I need to show you how the [[Representational State Transfer (REST)|rest]] works.
 >
 > **[3:03](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/review-models-and-deploy?u=76281980&t=183)** You can go to Predict.
 >
@@ -974,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (4)
 > **Versions:** 9.11 (2), 3.297 (1)
 > **UI Navigation:** go to (2)
@@ -983,8 +971,7 @@ created: 2026-05-02
 > **Code Identifiers:** min_temperature (1)
 > **Env Vars:** noaa (1)
 
-#### Predict and clean up resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/predict-and-clean-up-resources?u=76281980)
+#### [Predict and clean up resources](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/predict-and-clean-up-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/predict-and-clean-up-resources?u=76281980&t=68)** So we're going to click on View details, and if you want, you can actually view sample code.
 >
-> **[1:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/predict-and-clean-up-resources?u=76281980&t=74)** So let's say for example, you're in Python, you can view the sample code from Python here.
+> **[1:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/predict-and-clean-up-resources?u=76281980&t=74)** So let's say for example, you're in [[Python (Programming Language)|Python]], you can view the sample code from Python here.
 >
 > **[1:24](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/predict-and-clean-up-resources?u=76281980&t=84)** If you want to know more how to invoke the URL, you can click on here but it's fairly easy, and I'm going to show you once we actually implement the code in the front-end application.
 >
@@ -1022,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Python (Programming Language)|Python]] (2), front-end (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** sample code (2)
@@ -1035,8 +1022,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Base app component
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/base-app-component?u=76281980)
+#### [Base app component](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/base-app-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1120,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), next (2), css (1)
 > **Code Identifiers:** usestate (3), setmintemp (1), settemperature (1), handlemintempchange (1), handledatechange (1)
 > **CLI Commands:** make (2)
 > **File Paths:** app.jsx (1)
@@ -1143,8 +1128,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Form component
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/form-component?u=76281980)
+#### [Form component](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/form-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,7 +1228,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), next (4)
 > **Code Identifiers:** handlesubmit (4), classname (3), setloading (2), onsubmit (1), onchange (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** make (4)
@@ -1253,8 +1236,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Results component
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980)
+#### [Results component](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1258,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=77)** If you run the application right now, let's take a look.
 >
-> **[1:21](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=81)** Npm run dev.
+> **[1:21](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=81)** [[npm]] run dev.
 >
 > **[1:24](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=84)** If we run the application here, we have these two fields and we have the Get Temperature.
 >
@@ -1298,7 +1280,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=134)** And what we're going to do also is actually go into the index.css right here.
 >
-> **[2:23](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=143)** And the one thing that I'm going to do in the body, and I'm going to put a comma html to make sure that we're fully covering, the screen is adding two items here, padding zero and margin zero.
+> **[2:23](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=143)** And the one thing that I'm going to do in the body, and I'm going to put a comma [[HTML]] to make sure that we're fully covering, the screen is adding two items here, padding zero and margin zero.
 >
 > **[2:43](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/results-component?u=76281980&t=163)** So I'm going to connect this here and then I'm going to go into the CSS of the app and we're going to start entering some stuff here.
 >
@@ -1386,7 +1368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), css (3), [[npm]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[HTML]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Analogies:** picture (4)
 > **Env Vars:** css (2), fyi (1)
@@ -1395,8 +1377,7 @@ created: 2026-05-02
 > **Code Identifiers:** classname (1), maxtemp (1)
 > **File Paths:** index.css (1)
 
-#### Finish results component
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980)
+#### [Finish results component](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1406,11 +1387,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=12)** This course is not about building a backend.
 >
-> **[0:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=14)** It's about building a front end that connects to the endpoint that we created on AWS SageMaker.
+> **[0:14](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=14)** It's about building a front end that connects to the endpoint that we created on [[AWS SageMaker]].
 >
 > **[0:21](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=21)** The problem is, you can't really call an endpoint, like SageMaker, from a front end.
 >
-> **[0:27](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=27)** You need to have a backend that's going to call into SageMaker and then externally have react call into the APIs of your backend.
+> **[0:27](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=27)** You need to have a backend that's going to call into SageMaker and then externally have [[React.js|react]] call into the APIs of your backend.
 >
 > **[0:35](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=35)** So what I've done is built a backend for you, and I'm going to show you what it looks like.
 >
@@ -1418,7 +1399,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=49)** Okay, so if we go into the exercise files in the chapter four and the video four, you have a backend right here.
 >
-> **[1:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=60)** So all you have to do is copy and paste this into another folder, do an NPM install, which we'll do in a second, and then add a few customized things that relates to you and then you have your backend running.
+> **[1:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=60)** So all you have to do is copy and paste this into another folder, do an [[npm]] install, which we'll do in a second, and then add a few customized things that relates to you and then you have your backend running.
 >
 > **[1:15](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=75)** Let me go into the backend file here just to make sure you have everything that you need to get it started.
 >
@@ -1470,7 +1451,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=244)** And what I'm going to do is parse float min temp.
 >
-> **[4:10](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=250)** The reason why we're doing this and prepping all of this here is because the SageMaker instance is actually taking CSV as the format, not JSON, but CSV.
+> **[4:10](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=250)** The reason why we're doing this and prepping all of this here is because the SageMaker instance is actually taking CSV as the format, not [[JSON]], but CSV.
 >
 > **[4:23](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/finish-results-component?u=76281980&t=263)** So there's a couple of things that we need to do to format the information that we get from the front end, which is react, and then sending it to the backend.
 >
@@ -1570,7 +1551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[React.js|React]] (3), [[npm]] (3), application (2), data (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[npm]] (3), [[AWS SageMaker]] (1), [[JSON]] (1)
 > **Env Vars:** csv (7), aws (3), npm (3), api (1), npmi (1)
 > **CLI Commands:** make (10), aws (3), npm (3)
 > **Prerequisites:** install (4), make sure you have (2), you need to have (1), configure (1)
@@ -1584,16 +1565,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning SageMaker
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980)
+#### [Continue learning SageMaker](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980&t=0)** - [Instructor] This was a quick exploration of building a project that leverages SageMaker and React to give you a foundation in machine learning.
+> **[0:00](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980&t=0)** - [Instructor] This was a quick exploration of building a project that leverages SageMaker and [[React.js|React]] to give you a foundation in machine learning.
 >
 > **[0:08](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980&t=8)** Needless to say, there is a lot more to explore on the subject and simply doing a quick research in our library will allow you to deepen your knowledge on the subject.
 >
-> **[0:17](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980&t=17)** Do a simple search under machine learning, SageMaker, or even go into TensorFlow or Keras for other venues in the world of artificial intelligence.
+> **[0:17](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980&t=17)** Do a simple search under machine learning, SageMaker, or even go into [[TensorFlow]] or Keras for other venues in the world of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:27](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980&t=27)** Finally, if you got lost a bit in the front end React project, there are tons of courses to give you the basics or more to be more efficient in React.
 >
@@ -1601,7 +1581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[Search]] (1), [[TensorFlow]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[TensorFlow]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

@@ -90,14 +90,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kickstart your DevOps journey with Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980)
+#### [Kickstart your DevOps journey with Jenkins](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=0)** - Automation is essential in modern software development.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=0)** - Automation is essential in modern [[Software Development]].
 >
-> **[0:03](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=3)** And Jenkins is one of the best tools to help you get started.
+> **[0:03](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=3)** And [[Jenkins]] is one of the best tools to help you get started.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=7)** Hi, I'm Michael Jenkins.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=15)** We'll walk through installing Jenkins, creating your first jobs and organizing jobs with folders and views.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=22)** I'll also highlight other useful features you can use right away, like connecting Jenkins to Git repositories and archiving artifacts.
+> **[0:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=22)** I'll also highlight other useful features you can use right away, like connecting Jenkins to [[Git]] repositories and archiving artifacts.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980&t=30)** Then, we'll preview advanced topics for future exploration, like pipelines and build agents.
 >
@@ -115,16 +114,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), [[Automation]] (1), [[Software Development]] (1), application (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Software Development]] (1), [[Git]] (1)
 > **CLI Commands:** git (1)
 > **Speakers:** - automation (1)
 
-#### Why choose Jenkins?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980)
+#### [Why choose Jenkins?](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=0)** - [Instructor] Along with Jenkins, there are plenty of amazing tools that we can use to automate software development.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=0)** - [Instructor] Along with [[Jenkins]], there are plenty of amazing tools that we can use to automate [[Software Development]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=6)** So if there are other viable alternatives, you might be asking yourself, "Why should I choose Jenkins?"
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=53)** Neither of you will pay a dime in licensing or royalties.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=58)** Jenkins is also open source with all the code available on [github.com](https://github.com).
+> **[0:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=58)** Jenkins is also open source with all the code available on [[[GitHub]].com](https://github.com).
 >
 > **[1:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/why-choose-jenkins?u=76281980&t=64)** This means that anyone can submit enhancements or fixes to the code base for consideration in future releases.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (11), [[Software Development]] (1), [[GitHub]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (11), [[Software Development]] (1), [[GitHub]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -171,24 +169,23 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites and key terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980)
+#### [Prerequisites and key terms](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=0)** - [Instructor] Before starting this course, there are a few things you should be familiar with.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=5)** Whether you're running Windows, macOS, or Linux, you should be able to access your operating system's terminal program or command line interface.
+> **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=5)** Whether you're running [[Windows]], macOS, or [[Linux]], you should be able to access your operating system's terminal program or command line interface.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=15)** At the least, you'll need to be able to run programs and simple commands.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=19)** Jenkins is a web-based application, but from time to time, you'll need to access the command line interface, especially during installation.
+> **[0:19](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=19)** [[Jenkins]] is a web-based application, but from time to time, you'll need to access the command line interface, especially during installation.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=29)** The majority of the instructions we give to Jenkins will be in the form of a script.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=33)** I'll be using the Bash shell, which is readily available on Mac or Linux-based systems.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=39)** If you're on Windows, you'll probably be using batch commands to interface with CMD or perhaps even PowerShell.
+> **[0:39](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=39)** If you're on Windows, you'll probably be using batch commands to interface with CMD or perhaps even [[Powershell]].
 >
 > **[0:47](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=47)** I also want you to be familiar with a few key terms I'll be using throughout the course.
 >
@@ -220,13 +217,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=124)** Plugins enhance Jenkins in a number of ways.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=127)** For example, they can enrich the interface with custom dashboards, integrate with source control and collaboration systems, or add specialized build and deployment steps.
+> **[2:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=127)** For example, they can enrich the interface with custom [[Dashboards]], integrate with source control and collaboration systems, or add specialized build and deployment steps.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/prerequisites-and-key-terms?u=76281980&t=138)** Honestly, just about all the functionality we use in Jenkins is provided by a plugin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (10), [[Windows]] (2), [[Linux]] (2), web (1), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (10), [[Windows]] (2), [[Linux]] (2), [[Powershell]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Tools:** command line (2), terminal (1), bash (1), powershell (1)
 > **Analogies:** for example (2)
@@ -240,12 +237,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### System requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980)
+#### [System requirements](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=0)** - Jenkins is a web-based application that can be installed on a variety of systems, from laptops to servers.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=0)** - [[Jenkins]] is a web-based application that can be installed on a variety of systems, from laptops to servers.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=7)** For this course, we need just enough horsepower to get Jenkins up and running.
 >
@@ -253,9 +249,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=15)** With that said, most modern laptops and servers and plenty of old ones too, have sufficient resources to run Jenkins efficiently.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=24)** For your hardware, you'll need to have at least 256 megabytes of RAM and one gigabyte of storage.
+> **[0:24](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=24)** For your [[Hardware]], you'll need to have at least 256 megabytes of RAM and one gigabyte of storage.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=31)** Jenkins requires Java to be installed on the system where it runs.
+> **[0:31](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=31)** Jenkins requires [[Java]] to be installed on the system where it runs.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=36)** We'll be using Java 21, one of the most widely supported versions.
 >
@@ -275,13 +271,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=74)** The pre-configured Docker images will include Java, and any other runtime dependencies.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=80)** In the next few sections of the course, you'll find instructions to install Jenkins on systems running Windows, Ubuntu Linux, macOS, and Docker.
+> **[1:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=80)** In the next few sections of the course, you'll find instructions to install Jenkins on systems running [[Windows]], [[Ubuntu]] [[Linux]], macOS, and Docker.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980&t=88)** Pick the one that fits your situation the best.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (7), [[Java]] (6), [[Hardware]] (2), web (1), application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Java]] (6), [[Hardware]] (2), [[Windows]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** docker (4), find (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **Env Vars:** ram (2)
@@ -290,12 +286,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** docker desktop (1)
 
-#### Finish a Jenkins installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/finish-a-jenkins-installation?u=76281980)
+#### [Finish a Jenkins installation](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/finish-a-jenkins-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/finish-a-jenkins-installation?u=76281980&t=0)** - [Narrator] I've completed a Jenkins installation using Docker, and I've opened my browser to show local host Port 80 80.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/finish-a-jenkins-installation?u=76281980&t=0)** - [Narrator] I've completed a [[Jenkins]] installation using Docker, and I've opened my browser to show local host Port 80 80.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/finish-a-jenkins-installation?u=76281980&t=8)** No matter what system you used for your installation, you'll need to get the initial admin password to unlock the software before you can continue.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (4), next (2)
+> **Frameworks & Libraries:** [[Jenkins]] (4)
 > **CLI Commands:** docker (2), find (1)
 > **Prerequisites:** install (2), you'll need (1)
 > **Ports:** port 80 (1)
@@ -337,12 +332,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### The Jenkins user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-jenkins-user-interface?u=76281980)
+#### [The Jenkins user interface](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-jenkins-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-jenkins-user-interface?u=76281980&t=0)** - [Instructor] I'm logged into a freshly installed Jenkins server, and I want to highlight some of the menus we'll be interacting with in this course.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-jenkins-user-interface?u=76281980&t=0)** - [Instructor] I'm logged into a freshly installed [[Jenkins]] server, and I want to highlight some of the menus we'll be interacting with in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-jenkins-user-interface?u=76281980&t=8)** The New Item link here on the left will be the link that you use the most.
 >
@@ -368,17 +362,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), next (1), node (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5)
 > **Prerequisites:** install (2), getting started (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980)
+#### [Manage plugins](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=0)** - [Instructor] Jenkins provides a lot of functionality out of the box, but we can add functionality with plugins.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=0)** - [Instructor] [[Jenkins]] provides a lot of functionality out of the box, but we can add functionality with plugins.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=7)** From the dashboard, select Manage Jenkins and then select Plugins.
 >
@@ -426,13 +419,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=128)** So the easiest way to do this is to add Safe Restart to the Jenkins URL.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=134)** And note the capital R in the word Restart.
+> **[2:14](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=134)** And note the capital R in the [[Microsoft Word|word]] Restart.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-plugins?u=76281980&t=137)** Once the restart is complete, we can be sure that the plugin was removed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), [[Search]] (2), feature (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (2), click on (1), checkbox (1), go to (1)
 > **Env Vars:** ldap (2), url (1)
 > **Prerequisites:** install (2)
@@ -441,16 +434,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 
-#### Manage tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980)
+#### [Manage tools](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=0)** - [Instructor] Jenkins provides an interface for installing and configuring tools that can be used by any job that needs them.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=0)** - [Instructor] [[Jenkins]] provides an interface for installing and configuring tools that can be used by any job that needs them.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=7)** On the Jenkins dashboard, select Manage Jenkins and then select tools.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=13)** On the tools page, you can manage several tools, including Maven, Java, Git and others.
+> **[0:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=13)** On the tools page, you can manage several tools, including Maven, [[Java]], [[Git]] and others.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=20)** The process of configuring a tool is pretty much the same for each one, so let's use Maven to demonstrate.
 >
@@ -476,7 +468,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=83)** Now let's take a look at the Git section.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=86)** If you're following along on a Windows system, you'll also need to configure Git.
+> **[1:26](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=86)** If you're following along on a [[Windows]] system, you'll also need to configure Git.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-tools?u=76281980&t=91)** Please take a look at the exercise files for instructions and more information.
 
@@ -491,16 +483,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 
-#### Solution: Set up a Jenkins server on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980)
+#### [Solution: Set up a Jenkins server on Windows](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=0)** - [Instructor] In this challenge, I'm installing Jenkins on a Windows server.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=0)** - [Instructor] In this challenge, I'm installing [[Jenkins]] on a [[Windows Server]].
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=9)** You can complete this challenge on other operating systems, but I'm using Windows to demonstrate the steps that are a bit different compared to installing Jenkins on Linux and macOS.
+> **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=9)** You can complete this challenge on other operating systems, but I'm using [[Windows]] to demonstrate the steps that are a bit different compared to installing Jenkins on [[Linux]] and macOS.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=20)** Let's start with a Java installation.
+> **[0:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=20)** Let's start with a [[Java]] installation.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=23)** Jenkins needs to have a Java Runtime Environment installed, and at the time I'm recording this, the recommended version of Java for use with Jenkins is Java 21.
 >
@@ -514,9 +505,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=53)** And now finally, we can select Install.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=56)** All right, Java is installed, now let's install Git.
+> **[0:56](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=56)** All right, Java is installed, now let's install [[Git]].
 >
-> **[1:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=60)** We need to install Git so Jenkins can connect to code repositories like GitHub, GitLab and Bitbucket.
+> **[1:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=60)** We need to install Git so Jenkins can connect to code repositories like [[GitHub]], GitLab and [[Bitbucket]].
 >
 > **[1:08](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=68)** I've downloaded the installer and I'll get started by selecting it.
 >
@@ -540,7 +531,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=161)** Now we need to select the Java that Jenkins will use as it operates.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=166)** I'll select Change, and then browse to the location where I installed the Microsoft JDK 21.
+> **[2:46](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=166)** I'll select Change, and then browse to the location where I installed the [[Microsoft]] JDK 21.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-set-up-a-jenkins-server-on-windows?u=76281980&t=174)** Under Program Files, I'll select Microsoft jdk-21.0 hotspot.
 >
@@ -578,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (18), next (10), [[Java]] (7), [[Windows]] (3), [[Git]] (3)
+> **Frameworks & Libraries:** [[Jenkins]] (18), [[Java]] (7), [[Windows]] (3), [[Git]] (3), [[Microsoft]] (2)
 > **Prerequisites:** install (7), setup (2)
 > **CLI Commands:** git (3), make (1)
 > **UI Navigation:** select the (2), open the (1), go to (1)
@@ -592,8 +583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your first jenkins job
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980)
+#### [Your first jenkins job](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=7)** The purpose of a Hello World is to make sure everything is running as expected and to get an introduction to basic configurations and settings.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=16)** So let's do that now with a "Hello, Jenkins" freestyle job.
+> **[0:16](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=16)** So let's do that now with a "Hello, [[Jenkins]]" freestyle job.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=21)** If you're working with a new Jenkins installation, your homepage probably looks like this.
 >
@@ -629,9 +619,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=80)** Now, select Add Build Step.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=82)** If you're on a Windows system, select Execute Windows Batch command.
+> **[1:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=82)** If you're on a [[Windows]] system, select Execute Windows Batch command.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=87)** If you're on a Mac, Linux, or Docker system, select Execute Shell.
+> **[1:27](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=87)** If you're on a Mac, [[Linux]], or Docker system, select Execute Shell.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980&t=93)** I'm using a Docker system, so I'll be using the Execute Shell option.
 >
@@ -669,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (7), [[Windows]] (3), application (1), [[Programming]] (1), api (1)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Windows]] (3), [[Linux]] (1)
 > **CLI Commands:** make (2), docker (2)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Env Vars:** api (1)
@@ -678,8 +668,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - just (1)
 
-#### Job types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/job-types?u=76281980)
+#### [Job types](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/job-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +676,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/job-types?u=76281980&t=5)** The freestyle job is the most commonly used job type.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/job-types?u=76281980&t=10)** As the name implies, freestyle jobs provide a wide range of options that let you tailor how Jenkins runs your job.
+> **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/job-types?u=76281980&t=10)** As the name implies, freestyle jobs provide a wide range of options that let you tailor how [[Jenkins]] runs your job.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/job-types?u=76281980&t=18)** Pipeline jobs are perfect for projects that outgrow freestyle jobs.
 >
@@ -717,12 +706,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Build description and source code management
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980)
+#### [Build description and source code management](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=0)** - [Instructor] Let's take a closer look at the configuration page for the Hello Jenkins job.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=0)** - [Instructor] Let's take a closer look at the configuration page for the Hello [[Jenkins]] job.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=5)** From the dashboard, I'll select the job and then select Configure.
 >
@@ -752,7 +740,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=78)** For now, let's move on to the source code management section.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=82)** The source code management options control the way Jenkins interacts with any code you have stored in a Git repository.
+> **[1:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=82)** The source code management options control the way Jenkins interacts with any code you have stored in a [[Git]] repository.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=89)** Selecting the Git option opens a dialogue where you can enter the repository URL.
 >
@@ -760,11 +748,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=100)** This is another powerful feature of Jenkins because it allows you to pull code from outside of your job configuration into the workspace where the job runs.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=110)** This is key for using Jenkins as an integration, test and deployment tool for code stored in repositories like GitHub, GitLab, and Bitbucket.
+> **[1:50](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-description-and-source-code-management?u=76281980&t=110)** This is key for using Jenkins as an integration, test and deployment tool for code stored in repositories like [[GitHub]], GitLab, and [[Bitbucket]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), management (2), [[Git]] (2), feature (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Git]] (2), [[GitHub]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Tools:** github (1), gitlab (1), bitbucket (1)
 > **Exercise Files:** source code (2)
@@ -773,8 +761,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build triggers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980)
+#### [Build triggers](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=6)** A trigger is any action that starts a job.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=10)** Jenkins gives you plenty of ways to customize how your job can be started.
+> **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=10)** [[Jenkins]] gives you plenty of ways to customize how your job can be started.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=14)** The trigger builds remotely option lets processes outside of Jenkins start jobs by accessing a URL through the Jenkins web API.
 >
@@ -798,11 +785,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=64)** We'll go into greater detail on scheduling jobs in an upcoming lesson.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=68)** The GitHub trigger option is very useful for projects that are tied to GitHub.
+> **[1:08](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=68)** The [[GitHub]] trigger option is very useful for projects that are tied to GitHub.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=73)** This option allows Jenkins to start jobs based on activity in GitHub, like releases, tags, or other types of commits.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=82)** Using this feature, you can set up a tight relationship between Jenkins and GitHub called continuous integration.
+> **[1:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=82)** Using this feature, you can set up a tight relationship between Jenkins and GitHub called [[Continuous Integration (CI)|continuous integration]].
 >
 > **[1:29](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-triggers?u=76281980&t=89)** If something happens in GitHub, Jenkins gets notified by a webhook and then takes some action.
 >
@@ -820,15 +807,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (12), [[GitHub]] (7), feature (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Jenkins]] (12), [[GitHub]] (7), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** github (7)
 > **Env Vars:** url (1), api (1), scm (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The build environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980)
+#### [The build environment](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +822,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=4)** The delete workspace option is useful for cleaning things up a bit before the job gets started.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=9)** Each time a job runs, it uses a specific directory on the Jenkins system called the Workspace.
+> **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=9)** Each time a job runs, it uses a specific directory on the [[Jenkins]] system called the Workspace.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=16)** By default, any files created by a job and saved to the workspace will stay there between job runs.
 >
@@ -866,13 +852,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=106)** Selecting the add build step button displays the different types of steps that you can apply.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=112)** If your Jenkins is running on Windows, you will likely select execute Windows batch command.
+> **[1:52](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=112)** If your Jenkins is running on [[Windows]], you will likely select execute Windows batch command.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=118)** And if your Jenkins is running on other operating systems, you'll likely use the execute shell step.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=124)** In either case, these steps provide a way to enter commands or scripts that Jenkins can run.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=131)** There are also build steps for Ant, Cradle and Maven, if you're working with Java-based projects.
+> **[2:11](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=131)** There are also build steps for Ant, Cradle and Maven, if you're working with [[Java]]-based projects.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/the-build-environment?u=76281980&t=137)** One other thing to note is that you can have multiple build steps.
 >
@@ -902,12 +888,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run and monitor jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980)
+#### [Run and monitor jobs](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=0)** - [Instructor] Let's see how we can monitor jobs in the Jenkins interface.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=0)** - [Instructor] Let's see how we can monitor jobs in the [[Jenkins]] interface.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=4)** To help with the discussion, I'm starting with a freestyle job named long-running-job.
 >
@@ -915,9 +900,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=21)** The script counts from one to 30, sleeping for one second between each count.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=27)** If you're following along on Mac, Linux, or a Docker, you can use this same script.
+> **[0:27](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=27)** If you're following along on Mac, [[Linux]], or a Docker, you can use this same script.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=33)** If you're following along with Jenkins on a Windows system, you'll want to use the execute windows batch command build step.
+> **[0:33](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=33)** If you're following along with Jenkins on a [[Windows]] system, you'll want to use the execute windows batch command build step.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs?u=76281980&t=41)** There's also a script just for you in the exercise files that will let you do the same 30-second count.
 >
@@ -949,7 +934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3), [[Windows]] (2), next (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Windows]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
 > **Tools:** bash (1)
@@ -958,8 +943,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run and monitor jobs using console output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs-using-console-output?u=76281980)
+#### [Run and monitor jobs using console output](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs-using-console-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs-using-console-output?u=76281980&t=43)** Once the build gets started, select the check mark next to the running job to open the console.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs-using-console-output?u=76281980&t=48)** You'll see that Jenkins is updating the console output as the job runs the page, even scrolls along automatically so you can follow the most recent output without having to scroll down.
+> **[0:48](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs-using-console-output?u=76281980&t=48)** You'll see that [[Jenkins]] is updating the console output as the job runs the page, even scrolls along automatically so you can follow the most recent output without having to scroll down.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/run-and-monitor-jobs-using-console-output?u=76281980&t=60)** This is helpful if you want to follow the output from a build in real time.
 >
@@ -1017,7 +1001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Jenkins]] (4), power (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4)
 > **UI Navigation:** select the (3), open the (1), scroll down (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **Prerequisites:** configure (2)
@@ -1025,8 +1009,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitor build trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/monitor-build-trends?u=76281980)
+#### [Monitor build trends](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/monitor-build-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,13 +1027,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Automate system monitoring with Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980)
+#### [Solution: Automate system monitoring with Jenkins](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,13 +1043,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=24)** Other options include the Daily alias or a Cron pattern that would run the job once daily.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=32)** After entering a schedule, Jenkins provides verification by explaining when the job would have run last and the next time it will run.
+> **[0:32](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=32)** After entering a schedule, [[Jenkins]] provides verification by explaining when the job would have run last and the next time it will run.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=40)** Then I added a build step.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=43)** The commands for this build step were available in the exercise files.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=47)** The exercise files contained scripts for both Windows and other operating systems.
+> **[0:47](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=47)** The exercise files contained scripts for both [[Windows]] and other operating systems.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-automate-system-monitoring-with-jenkins?u=76281980&t=53)** I'm on a non-Windows system, so I use the second script.
 >
@@ -1086,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Jenkins]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Jenkins]] (1)
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
@@ -1097,24 +1078,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using a global build tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980)
+#### [Using a global build tool](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=0)** - In this lesson, we'll be configuring a job that uses tools, specifically Git and Maven.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=0)** - In this lesson, we'll be configuring a job that uses tools, specifically [[Git]] and Maven.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=7)** Tool configurations allow us to install different versions of a tool once, and then use that same configuration across multiple projects.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=15)** Let's go to the Jenkins console to see how tools work.
+> **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=15)** Let's go to the [[Jenkins]] console to see how tools work.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=20)** I'm logged into my Jenkins server and I'm viewing the tools configuration.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=24)** If you're following along on a Windows system, you'll need to configure Git.
+> **[0:24](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=24)** If you're following along on a [[Windows]] system, you'll need to configure Git.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=29)** If you haven't done that already, please review the lesson and exercise files on managing tools.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=35)** If you're following along on a Mac, Linux, or Docker system, GIT should already be installed.
+> **[0:35](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=35)** If you're following along on a Mac, [[Linux]], or Docker system, GIT should already be installed.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=41)** For all platforms, you'll need to set up Maven.
 >
@@ -1122,7 +1102,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=50)** I've already started a new job called Hello Maven.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=54)** We'll be using Git to check out code and then using Maven to build a Java application.
+> **[0:54](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=54)** We'll be using Git to check out code and then using Maven to build a [[Java]] application.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=60)** Let's start by selecting Source Code Management.
 >
@@ -1148,7 +1128,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=118)** At the time that I'm recording this, Jenkins uses the master branch as the default.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=124)** However, many projects in GitHub use a branch called Main as the default.
+> **[2:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=124)** However, many projects in [[GitHub]] use a branch called Main as the default.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980&t=129)** So if you're pulling code from GitHub and get errors, make sure you have your job configured to use the correct branch.
 >
@@ -1211,18 +1191,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** github (3)
 
-#### Browse a job's workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980)
+#### [Browse a job's workspace](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=0)** - [Instructor] Each job is given a dedicated directory on the Jenkins server, called a workspace.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=0)** - [Instructor] Each job is given a dedicated directory on the [[Jenkins]] server, called a workspace.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=5)** This is where the job stores any files that are generated during the build.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=10)** Let's take a look at the workspace for the Hello-Maven job from the previous lesson.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=15)** This job was configured to pull code from GitHub, so right away you can see the files and directories that got checked out at the beginning of the build.
+> **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=15)** This job was configured to pull code from [[GitHub]], so right away you can see the files and directories that got checked out at the beginning of the build.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/browse-a-job-s-workspace?u=76281980&t=24)** Selecting a directory opens that directory and may reveal additional files and directories.
 >
@@ -1252,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (2), next (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[GitHub]] (1)
 > **Prerequisites:** configure (1), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -1260,16 +1239,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage artifacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980)
+#### [Manage artifacts](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980&t=0)** - [Instructor] Most Jenkins jobs will generate some sort of product at the end of each build.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980&t=0)** - [Instructor] Most [[Jenkins]] jobs will generate some sort of product at the end of each build.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980&t=5)** It could be a compiled executable, like an EXC, an archive, like a JAR file, or it might even be a report in a text file.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980&t=13)** These products are referred to as artifacts.
+> **[0:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980&t=13)** These [[Microsoft Products|products]] are referred to as artifacts.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/manage-artifacts?u=76281980&t=16)** Let's take a look at the artifacts created by the Hello Maven job that we've used in previous lessons.
 >
@@ -1315,7 +1293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3), product (1), [[Microsoft Products|Products]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** exc (1), jar (1)
 > **UI Navigation:** go to (1)
@@ -1323,8 +1301,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parameters and environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980)
+#### [Parameters and environment variables](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1332,13 +1309,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=6)** One way to do that is to create projects that accept parameters.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=11)** Jenkins supports this approach by letting you create jobs that accept different types of parameters, including strings, Booleans, and multiple choice among others.
+> **[0:11](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=11)** [[Jenkins]] supports this approach by letting you create jobs that accept different types of parameters, including strings, Booleans, and multiple choice among others.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=21)** These values are then injected into the job and accessed as environment variables.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=28)** On a Windows system, environment variables are accessed in batch command build steps using the percent variable percent format.
+> **[0:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=28)** On a [[Windows]] system, environment variables are accessed in batch command build steps using the percent variable percent format.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=36)** On Macs, Linux, and Docker systems, environment variables are accessed using a dollar sign and then the variable name.
+> **[0:36](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=36)** On Macs, [[Linux]], and Docker systems, environment variables are accessed using a dollar sign and then the variable name.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=45)** Typically, Jenkins parameters are named in all uppercase.
 >
@@ -1348,7 +1325,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=67)** It's also good practice to use parameter names that don't have spaces or special characters in them.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=74)** It's better to use a single word or multiple words with underscores.
+> **[1:14](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=74)** It's better to use a single [[Microsoft Word|word]] or multiple words with underscores.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/parameters-and-environment-variables?u=76281980&t=79)** Just above each build step field, there's a link that shows additional environment variables you can use.
 >
@@ -1362,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3), [[Windows]] (2), [[Linux]] (2), [[Automation]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[Windows]] (2), [[Linux]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (2)
 > **Env Vars:** build_id (1), build_number (1)
 > **Best Practices:** good practice (2)
@@ -1370,8 +1347,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### String parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980)
+#### [String parameters](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,13 +1371,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=36)** Now, let's use this parameter in a build step.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=40)** I'm running Jenkins on a Docker system, and I'll be using a shell step.
+> **[0:40](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=40)** I'm running [[Jenkins]] on a Docker system, and I'll be using a shell step.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=44)** If you're running Jenkins on a window system, use a batch command step, and to help us out, there's a script in the exercise files for this example.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=54)** Again, I'm copying the code for macOS, Linux, and Docker.
+> **[0:54](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=54)** Again, I'm copying the code for macOS, [[Linux]], and Docker.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=58)** If you're on a Windows system, you'll want to use the script for Windows, and I'll paste this into the Build step.
+> **[0:58](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=58)** If you're on a [[Windows]] system, you'll want to use the script for Windows, and I'll paste this into the Build step.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/string-parameters?u=76281980&t=64)** Now, I'll save this job.
 >
@@ -1413,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (2), [[Windows]] (2), next (1), prompt (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Windows]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (2)
 > **Versions:** 1.0.0 (2)
 > **Code Identifiers:** macos (1)
@@ -1421,8 +1397,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choice parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980)
+#### [Choice parameters](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1440,9 +1415,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980&t=32)** Now, let's add a build step that uses this parameter.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980&t=36)** I'm running Jenkins on a Docker system, and I'll be using a shell step.
+> **[0:36](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980&t=36)** I'm running [[Jenkins]] on a Docker system, and I'll be using a shell step.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980&t=40)** If you're running Jenkins on a Windows system, use a batch command step, and there are scripts in the exercise files that we can use for this example.
+> **[0:40](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980&t=40)** If you're running Jenkins on a [[Windows]] system, use a batch command step, and there are scripts in the exercise files that we can use for this example.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/choice-parameters?u=76281980&t=49)** Again, I'm using the script for Docker.
 >
@@ -1462,14 +1437,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Jenkins]] (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Jenkins]] (2)
 > **CLI Commands:** docker (2)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [michael] (1)
 
-#### Boolean parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980)
+#### [Boolean parameters](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,9 +1467,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980&t=41)** Now, let's add a build step that uses this parameter.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980&t=45)** I'm running Jenkins on a Docker system, and I'll be using a shell step.
+> **[0:45](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980&t=45)** I'm running [[Jenkins]] on a Docker system, and I'll be using a shell step.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980&t=49)** If you're running Jenkins on a Windows system, use a batch command step.
+> **[0:49](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980&t=49)** If you're running Jenkins on a [[Windows]] system, use a batch command step.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/boolean-parameters?u=76281980&t=53)** Let's go to the exercise files to get the script for this example.
 >
@@ -1531,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), next (2), [[Jenkins]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Jenkins]] (2)
 > **Env Vars:** run_tests (6)
 > **CLI Commands:** docker (2)
 > **UI Navigation:** checkbox (1), go to (1)
@@ -1539,8 +1513,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Schedule jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980)
+#### [Schedule jobs](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,9 +1523,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=12)** Running jobs on a schedule helps with automating things like updating software, checking system details, or downloading and processing data.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=21)** If you're familiar with system administration, the thought of using Cron to run a schedule task might come to mind.
+> **[0:21](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=21)** If you're familiar with [[System Administration]], the thought of using Cron to run a schedule task might come to mind.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=28)** In fact, Jenkins defines schedules using a format very similar to Cron.
+> **[0:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=28)** In fact, [[Jenkins]] defines schedules using a format very similar to Cron.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=33)** In both cases, we use an expression to represent the schedule for running the job.
 >
@@ -1584,7 +1557,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=125)** That way, if multiple jobs are scheduled for the same time, Jenkins can spread them out without worrying about missing the schedule.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=133)** Basically using H lets us cut Jenkins some slack.
+> **[2:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=133)** Basically using H lets us cut Jenkins some [[Slack]].
 >
 > **[2:18](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/schedule-jobs?u=76281980&t=138)** Jenkins also provides aliases for general times like hourly, daily, and monthly.
 >
@@ -1630,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (12), next (2), data (1), [[System Administration]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (12), [[System Administration]] (1), [[Slack]] (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (2)
 > **Analogies:** similar to (1), for example (1)
@@ -1639,8 +1612,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Tools:** slack (1)
 
-#### Solution: Use a build tool and parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980)
+#### [Solution: Use a build tool and parameters](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,15 +1622,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=10)** I hope you did too.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=12)** This challenge required us to use tool configurations, set up parameters, and check out code from GitHub to build a calculator app written in Java.
+> **[0:12](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=12)** This challenge required us to use tool configurations, set up parameters, and check out code from [[GitHub]] to build a calculator app written in [[Java]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=22)** Let's review.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=23)** Before I created my Jenkins job, I had to make sure two tools were in place.
+> **[0:23](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=23)** Before I created my [[Jenkins]] job, I had to make sure two tools were in place.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=28)** Git and Maven.
+> **[0:28](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=28)** [[Git]] and Maven.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=30)** I'm on a non-Windows system, so the default git configuration was already in place.
+> **[0:30](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=30)** I'm on a non-[[Windows]] system, so the default git configuration was already in place.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-use-a-build-tool-and-parameters?u=76281980&t=37)** If you solve this challenge on a Window system, you would need to install Git and set up the path here under Git installations, I also added a tool configuration for Maven.
 >
@@ -1740,8 +1712,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Views and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980)
+#### [Views and folders](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980&t=3)** You're working with a team of mobile app developers, and they're making apps for every team in a basketball little league.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980&t=10)** Every team wants their own app, and the developers have asked you to set up jobs on a Jenkins server that will build, test, and deploy each app.
+> **[0:10](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980&t=10)** Every team wants their own app, and the developers have asked you to set up jobs on a [[Jenkins]] server that will build, test, and deploy each app.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980&t=21)** As you start creating the jobs, you realize you'll soon end up with more than 100 jobs on your Jenkins server.
 >
@@ -1779,14 +1750,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), feature (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - i (1)
 
-#### Create a view
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980)
+#### [Create a view](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1770,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=22)** By the way, the All tab is actually a view.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=25)** The All view shows all jobs and folders at the top level of the Jenkins dashboard.
+> **[0:25](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=25)** The All view shows all jobs and folders at the top level of the [[Jenkins]] dashboard.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=31)** Let's move on to creating a new view.
 >
@@ -1832,7 +1802,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=105)** Again, we're looking for jobs with build anywhere in their name, so I'll use a pattern like this: .*BUILD.*.
 >
-> **[1:55](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=115)** The first and last parts of this expression, the dot stars, match all characters, and of course, build will match the word build.
+> **[1:55](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=115)** The first and last parts of this expression, the dot stars, match all characters, and of course, build will match the [[Microsoft Word|word]] build.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-view?u=76281980&t=125)** This will match all existing jobs and any new jobs we create with build in their name.
 >
@@ -1850,15 +1820,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jenkins]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** build (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a folder
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-folder?u=76281980)
+#### [Create a folder](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-folder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-folder?u=76281980&t=11)** Creating a folder is a lot like creating a job.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-folder?u=76281980&t=13)** You even start the same way as you would by selecting New Item on the Jenkins dashboard.
+> **[0:13](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-folder?u=76281980&t=13)** You even start the same way as you would by selecting New Item on the [[Jenkins]] dashboard.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/create-a-folder?u=76281980&t=19)** And again, similarly, you have to give the item a name.
 >
@@ -1940,20 +1909,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (4), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4)
 > **UI Navigation:** drag and drop (1), select the (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search with the command palette
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980)
+#### [Search with the command palette](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980&t=0)** - [Instructor] Along with organizing Jenkins jobs using views and folders, there's another feature we can use for searching, the command palette.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980&t=0)** - [Instructor] Along with organizing [[Jenkins]] jobs using views and folders, there's another feature we can use for searching, the command palette.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980&t=9)** You can access the command palette by pressing the Command and K keys on a Mac or the Control and K keys on Windows.
+> **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980&t=9)** You can access the command palette by pressing the Command and K keys on a Mac or the Control and K keys on [[Windows]].
 >
 > **[0:18](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/search-with-the-command-palette?u=76281980&t=18)** This opens the dialogue where we can enter search terms.
 >
@@ -1979,13 +1947,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), [[Jenkins]] (4), feature (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[Windows]] (1)
 > **Env Vars:** deploy (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete views and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/delete-views-and-folders?u=76281980)
+#### [Delete views and folders](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/delete-views-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2019,12 +1986,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create folders and views
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980)
+#### [Solution: Create folders and views](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=0)** - [Instructor] In this challenge, we're helping developers use folders and views to organize their Jenkins jobs.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=0)** - [Instructor] In this challenge, we're helping developers use folders and views to organize their [[Jenkins]] jobs.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=12)** To begin the solution, I've created four jobs to match the departments using Jenkins.
 >
@@ -2040,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=47)** I also need to configure a regular expression for the content of the view.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=52)** Since this is the deploy view, I use the regular expression .* followed by the word deploy and then .*.
+> **[0:52](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=52)** Since this is the deploy view, I use the regular expression .* followed by the [[Microsoft Word|word]] deploy and then .*.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=61)** Now I'll take a moment to create folders and organize the jobs by department.
 >
@@ -2060,7 +2026,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=106)** I'm on a Mac system, so I'll be pressing command K.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=110)** If you're on a Windows system, you'll be selecting control K and I'll search for Engineering and then select the Engineering folder.
+> **[1:50](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=110)** If you're on a [[Windows]] system, you'll be selecting control K and I'll search for Engineering and then select the Engineering folder.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/solution-create-folders-and-views?u=76281980&t=119)** With these views and folders in place and then also using the Command palette, I'm going to go ahead and call it.
 >
@@ -2068,7 +2034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (2), [[Engineering]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **UI Navigation:** select the (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2079,12 +2045,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pipeline as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980)
+#### [Pipeline as code](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=0)** - [Instructor] So far, we've been manually configuring our jobs in the console, but Jenkins also allows us to configure jobs as code.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=0)** - [Instructor] So far, we've been manually configuring our jobs in the console, but [[Jenkins]] also allows us to configure jobs as code.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=9)** These types of jobs are called pipelines.
 >
@@ -2110,7 +2075,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=80)** To really get a feel for a pipeline, let's take a look at the pipeline version of our freestyle project we created earlier in the course.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=89)** I'm viewing the Jenkinsfile for the Java calculator application that we worked with earlier in the course.
+> **[1:29](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=89)** I'm viewing the Jenkinsfile for the [[Java]] calculator application that we worked with earlier in the course.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980&t=95)** This file sets up a project using the same configuration we used in the freestyle job, including parameters and steps that include the Maven commands to test and build the Java application.
 >
@@ -2134,7 +2099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), [[Java]] (3), application (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Java]] (3)
 > **Cross-References:** earlier in (2)
 > **Prerequisites:** configure (2)
 > **Definitions:** is a  (1)
@@ -2142,12 +2107,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build agents and cloud runners
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980)
+#### [Build agents and cloud runners](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=0)** - [Instructor] So far, we've been working with Jenkins running all jobs on a single machine.
+> **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=0)** - [Instructor] So far, we've been working with [[Jenkins]] running all jobs on a single machine.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=5)** This is perfect for learning Jenkins and experimenting, but in real-world projects is common to distribute jobs across multiple machines.
 >
@@ -2163,7 +2127,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=53)** Some teams use cloud runners.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=55)** In this case, the build agents run on servers, hosted in Amazon Web Services, Microsoft Azure, or Google Cloud.
+> **[0:55](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=55)** In this case, the build agents run on servers, hosted in [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[1:03](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/build-agents-and-cloud-runners?u=76281980&t=63)** Plugins designed specifically for these clouds allow Jenkins to dynamically create agents as needed.
 >
@@ -2173,27 +2137,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), cloud (4), teams (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps with Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980)
+#### [Next steps with Jenkins](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980&t=0)** - We covered a lot in this course, and even though this is the end, it's really just the beginning.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980&t=6)** I encourage you to apply Jenkins to real projects, stay curious, and learn as much as you can about this powerful automation platform.
+> **[0:06](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980&t=6)** I encourage you to apply [[Jenkins]] to real projects, stay curious, and learn as much as you can about this powerful automation platform.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980&t=15)** As you continue your automation journey, come back to the LinkedIn Learning Library for more courses on Jenkins.
+> **[0:15](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980&t=15)** As you continue your automation journey, come back to the [[LinkedIn]] Learning Library for more courses on Jenkins.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/next-steps-with-jenkins?u=76281980&t=22)** It's been my pleasure to be your instructor for learning Jenkins, and I can't wait to see what you automate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3), [[Automation]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - we (1)
 

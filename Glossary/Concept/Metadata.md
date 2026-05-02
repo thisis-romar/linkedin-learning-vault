@@ -76,14 +76,14 @@ created: 2026-05-02
 > 43. [[Configure and Manage SharePoint Online]] — 7 mentions
 > 44. [[HTML Essential Training]] — 7 mentions
 > 45. [[Learning SharePoint Online]] — 7 mentions
-> 46. [[Building Generative AI Apps to Talk to Your Data]] — 7 mentions
-> 47. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 7 mentions
-> 48. [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]] — 7 mentions
-> 49. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 7 mentions
-> 50. [[Learning Python (2021)]] — 7 mentions
-> 51. [[Learning QGIS]] — 7 mentions
-> 52. [[Angular Essential Training]] — 6 mentions
-> 53. [[Scalable Data Storage and Processing for AI Workloads]] — 6 mentions
+> 46. [[Scalable Data Storage and Processing for AI Workloads]] — 7 mentions
+> 47. [[Building Generative AI Apps to Talk to Your Data]] — 7 mentions
+> 48. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 7 mentions
+> 49. [[Advanced LLMs with Retrieval Augmented Generation (RAG)- Practical Projects for AI Applications]] — 7 mentions
+> 50. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 7 mentions
+> 51. [[Learning Python (2021)]] — 7 mentions
+> 52. [[Learning QGIS]] — 7 mentions
+> 53. [[Angular Essential Training]] — 6 mentions
 > 54. [[Level Up- Rust]] — 6 mentions
 > 55. [[Semantic Search and Information Retrieval using GenAI]] — 6 mentions
 > 56. [[Learning Vertex AI- MLOps with Google Cloud]] — 6 mentions
@@ -339,7 +339,7 @@ created: 2026-05-02
 4. [[Building Generative AI Skills for Developers]] — 76 total mentions
 5. [[Moving from Data Scientist to Data Analyst]] — 72 total mentions
 6. [[Infrastructure Management on AWS- Skills for Administrators]] — 68 total mentions
-7. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 55 total mentions
+7. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 56 total mentions
 8. [[Working with Data- Engineering, Integration, and MLOps for AI]] — 55 total mentions
 9. [[Introduction to Fundamental Skills for Data Work- Data Storage]] — 53 total mentions
 10. [[Build for Digital Accessibility]] — 48 total mentions

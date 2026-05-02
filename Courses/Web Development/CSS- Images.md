@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with images in CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/working-with-images-in-css?u=76281980)
+#### [Working with images in CSS](https://www.linkedin.com/learning/css-images-25655459/working-with-images-in-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,42 +121,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (1), hit (1)
 > **Env Vars:** css (3)
 > **Speakers:** - did (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, we're going to dive straight into different scenarios where we're using images in a webpage, and then using CSS to solve specific problems or to get a particular visual effect.
 >
-> **[0:11](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=11)** That means I'm not going to spend a lot of time here on core concepts, so to get the most out of this course, you'll want to already have a solid understanding of the fundamentals of working with CSS and HTML.
+> **[0:11](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=11)** That means I'm not going to spend a lot of time here on core concepts, so to get the most out of this course, you'll want to already have a solid understanding of the fundamentals of working with CSS and [[HTML]].
 >
 > **[0:23](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=23)** If you need a refresher, I'd highly recommend these courses from the library.
 >
 > **[0:28](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=28)** Other than that, you'll need familiarity with using a code editor and browser developer tools for inspecting elements and/or styles.
 >
-> **[0:36](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=36)** We'll also be using GitHub Codespaces in this course.
+> **[0:36](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=36)** We'll also be using [[GitHub]] [[Codespaces]] in this course.
 >
 > **[0:39](https://www.linkedin.com/learning/css-images-25655459/what-you-should-know?u=76281980&t=39)** If you haven't used that before, no worries, I'll give you a primer for that in the next lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[GitHub]] (1), [[Codespaces]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** css (2), html (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/css-images-25655459/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-images-25655459/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] For this course, we're using GitHub Codespaces for the code samples that I share.
+> **[0:00](https://www.linkedin.com/learning/css-images-25655459/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] For this course, we're using [[GitHub]] [[Codespaces]] for the code samples that I share.
 >
 > **[0:05](https://www.linkedin.com/learning/css-images-25655459/using-github-codespaces-with-this-course?u=76281980&t=5)** In order to open up GitHub Codespaces for this project, there are two ways to get there.
 >
@@ -203,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (4), feature (1)
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (4)
 > **UI Navigation:** go to (3), navigate to (2)
 > **Tools:** github (4)
 > **Analogies:** for example (3)
@@ -217,12 +213,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern image markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980)
+#### [Modern image markup](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=0)** - [Instructor] If you're like me and you've been working with HTML for a while, you may take the image element for granted.
+> **[0:00](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=0)** - [Instructor] If you're like me and you've been working with [[HTML]] for a while, you may take the image element for granted.
 >
 > **[0:07](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=7)** You know what it does, but you don't really think that much about it.
 >
@@ -294,7 +289,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=282)** There are non-visual browsers, such as screen readers used by people with visual impairments.
 >
-> **[4:47](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=287)** A user might opt to not display images either due to bandwidth issues or privacy concerns, or maybe the image path is wrong.
+> **[4:47](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=287)** A user might opt to not display images either due to bandwidth issues or [[Privacy]] concerns, or maybe the image path is wrong.
 >
 > **[4:57](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980&t=297)** In these cases, the alternate or alt text is really important as that's what replaces images.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (3), next (2), [[Privacy]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Privacy]] (1)
 > **Env Vars:** html (4), css (3), url (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** such as (1), for example (1)
@@ -357,8 +352,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 
-#### Removing space underneath an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980)
+#### [Removing space underneath an image](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=38)** So why is it happening?
 >
-> **[0:41](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=41)** Well, all HTML elements have a default display.
+> **[0:41](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=41)** Well, all [[HTML]] elements have a default display.
 >
 > **[0:45](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=45)** Some elements such as a paragraph or a div or block level elements, while other elements such as links and images are in line by default.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=119)** Because the image is an inline element, what's happening is that we've basically got space left beneath the image for a descender.
 >
-> **[2:08](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=128)** Now that seems really odd in the context of modern web design and the way that we use the images now, but when the image element first made its way into the HTML specification, the web was primarily text-based.
+> **[2:08](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=128)** Now that seems really odd in the context of modern [[Web Design]] and the way that we use the images now, but when the image element first made its way into the HTML specification, the web was primarily text-based.
 >
 > **[2:21](https://www.linkedin.com/learning/css-images-25655459/removing-space-underneath-an-image?u=76281980&t=141)** The image element offered a way to include inline graphics such as icons or other small graphics along with the text.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Web Design]] (1)
 > **Env Vars:** html (4)
 > **Analogies:** such as (3), imagine (1)
 > **Cross-References:** go back to (2)
@@ -439,8 +433,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### Fitting an image inside any container
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-any-container?u=76281980)
+#### [Fitting an image inside any container](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-any-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +547,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -563,8 +555,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fitting and positioning a background image in a container
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/fitting-and-positioning-a-background-image-in-a-container?u=76281980)
+#### [Fitting and positioning a background image in a container](https://www.linkedin.com/learning/css-images-25655459/fitting-and-positioning-a-background-image-in-a-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,15 +661,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), web (1)
 > **Env Vars:** css (1), mdn (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Documentation:** mdn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating square and proportionate images
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980)
+#### [Creating square and proportionate images](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,9 +677,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980&t=16)** For example, a container with an image that's always squared regardless of its width, to maybe it's always 16 by nine, or some other proportion.
 >
-> **[0:25](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980&t=25)** These are common design patterns that you'll see for card layouts, project grid layouts, and that sort of thing.
+> **[0:25](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980&t=25)** These are common [[Design Patterns]] that you'll see for card layouts, project grid layouts, and that sort of thing.
 >
-> **[0:32](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980&t=32)** You could use a very specifically defined CSS flex box or grid to achieve this sort of thing or depending on your html markup, you could use the aspect ratio property to define an aspect-ratio for a container and leverage that to set your images to a percentage or a proportion of that ratio.
+> **[0:32](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980&t=32)** You could use a very specifically defined CSS flex box or grid to achieve this sort of thing or depending on your [[HTML]] markup, you could use the aspect ratio property to define an aspect-ratio for a container and leverage that to set your images to a percentage or a proportion of that ratio.
 >
 > **[0:51](https://www.linkedin.com/learning/css-images-25655459/creating-square-and-proportionate-images?u=76281980&t=51)** But I want to show you a hack you can use to get a proportionate image inside of a responsive container that works across all browsers.
 >
@@ -806,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (3), next (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Design Patterns]] (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (1), for example (1)
@@ -814,8 +803,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Fitting an image inside a grid cell
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-grid-cell?u=76281980)
+#### [Fitting an image inside a grid cell](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-grid-cell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +847,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-grid-cell?u=76281980&t=97)** So if we look at the image markup right now, you'll see in the CSS we have the images set to display block with the height set to auto and the width at 100%.
 >
-> **[1:52](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-grid-cell?u=76281980&t=112)** This is the default setting we can use for all images on the web thanks to responsive web design.
+> **[1:52](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-grid-cell?u=76281980&t=112)** This is the default setting we can use for all images on the web thanks to [[Responsive Web Design]].
 >
 > **[1:58](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-grid-cell?u=76281980&t=118)** What we need now is for these images to stretch to fit within these grid cells so we can create a new rule.
 >
@@ -905,7 +893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (1), [[Responsive Web Design]] (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1)
 > **CLI Commands:** cat (3)
 > **Env Vars:** css (2)
 > **Cross-References:** go back to (2)
@@ -914,8 +902,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fitting an image inside a flexbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-flexbox?u=76281980)
+#### [Fitting an image inside a flexbox](https://www.linkedin.com/learning/css-images-25655459/fitting-an-image-inside-a-flexbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1087,7 +1074,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), next (1)
 > **Tools:** firefox (3), safari (1)
 > **UI Navigation:** go to (3), select the (1)
 > **Analogies:** just like (2)
@@ -1095,14 +1081,14 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [speaker] (1)
 
 
 ### 2. Clip Masks, Paths, and Custom Shapes
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rounded corners with border-radius
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/rounded-corners-with-border-radius?u=76281980)
+#### [Rounded corners with border-radius](https://www.linkedin.com/learning/css-images-25655459/rounded-corners-with-border-radius?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,15 +1182,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), next (1)
 > **Cross-References:** previous chapter (2), later in (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom shapes using clip-path
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/custom-shapes-using-clip-path?u=76281980)
+#### [Custom shapes using clip-path](https://www.linkedin.com/learning/css-images-25655459/custom-shapes-using-clip-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,15 +1210,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), web (1), next (1)
 > **Env Vars:** css (1), svg (1), mdn (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** mdn (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating circles and ellipses with clip-path
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-circles-and-ellipses-with-clip-path?u=76281980)
+#### [Creating circles and ellipses with clip-path](https://www.linkedin.com/learning/css-images-25655459/creating-circles-and-ellipses-with-clip-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1364,7 +1346,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3)
 > **Tools:** firefox (4)
 > **Env Vars:** css (3)
 > **Cross-References:** go back to (2), later in (1)
@@ -1372,9 +1353,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
+> **Analogies:** such as (1)
 
-#### Creating straight-lined shapes with polygon
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-straight-lined-shapes-with-polygon?u=76281980)
+#### [Creating straight-lined shapes with polygon](https://www.linkedin.com/learning/css-images-25655459/creating-straight-lined-shapes-with-polygon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1437,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/css-images-25655459/creating-straight-lined-shapes-with-polygon?u=76281980&t=272)** Instead of trying to draw the lines like this in the browser environment, which is not the easiest, use a tool.
 >
-> **[4:39](https://www.linkedin.com/learning/css-images-25655459/creating-straight-lined-shapes-with-polygon?u=76281980&t=279)** If you're comfortable in design tools like Figma or Illustrator, you can use those to create paths with coordinates and then translate those over.
+> **[4:39](https://www.linkedin.com/learning/css-images-25655459/creating-straight-lined-shapes-with-polygon?u=76281980&t=279)** If you're comfortable in design tools like [[Figma (Software)|Figma]] or Illustrator, you can use those to create paths with coordinates and then translate those over.
 >
 > **[4:47](https://www.linkedin.com/learning/css-images-25655459/creating-straight-lined-shapes-with-polygon?u=76281980&t=287)** Or you could use an online generator like the Clip-Path maker I showed you in the previous lesson, or here's another option.
 >
@@ -1466,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Search]] (1), css (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** css (1)
 > **Cross-References:** go back to (1)
@@ -1474,8 +1455,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating rectangles with clip-path
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-rectangles-with-clip-path?u=76281980)
+#### [Creating rectangles with clip-path](https://www.linkedin.com/learning/css-images-25655459/creating-rectangles-with-clip-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,7 +1491,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/css-images-25655459/creating-rectangles-with-clip-path?u=76281980&t=116)** We can also add rounded corners to the inset.
 >
-> **[1:59](https://www.linkedin.com/learning/css-images-25655459/creating-rectangles-with-clip-path?u=76281980&t=119)** If you wanted to do that, you would type in the word round and then you specify what the radius should be for those rounded corners, and that could be any length or percentage value.
+> **[1:59](https://www.linkedin.com/learning/css-images-25655459/creating-rectangles-with-clip-path?u=76281980&t=119)** If you wanted to do that, you would type in the [[Microsoft Word|word]] round and then you specify what the radius should be for those rounded corners, and that could be any length or percentage value.
 >
 > **[2:11](https://www.linkedin.com/learning/css-images-25655459/creating-rectangles-with-clip-path?u=76281980&t=131)** So let's just say it's five rems, and now we get this five-rem radius on each corner of our inset.
 >
@@ -1529,7 +1509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), css (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Env Vars:** css (1)
@@ -1538,8 +1518,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom paths with clip-path
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-custom-paths-with-clip-path?u=76281980)
+#### [Creating custom paths with clip-path](https://www.linkedin.com/learning/css-images-25655459/creating-custom-paths-with-clip-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,7 +1584,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** svg (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1613,8 +1591,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom shapes with SVG
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-custom-shapes-with-svg?u=76281980)
+#### [Creating custom shapes with SVG](https://www.linkedin.com/learning/css-images-25655459/creating-custom-shapes-with-svg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1671,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/css-images-25655459/creating-custom-shapes-with-svg?u=76281980&t=309)** Then we have our transform function where we're saying scale everything down to fit inside a normalized one by one box.
 >
-> **[5:17](https://www.linkedin.com/learning/css-images-25655459/creating-custom-shapes-with-svg?u=76281980&t=317)** Now when we apply this to an HTML element using CSS, the clipPath will correctly adapt to the container size.
+> **[5:17](https://www.linkedin.com/learning/css-images-25655459/creating-custom-shapes-with-svg?u=76281980&t=317)** Now when we apply this to an [[HTML]] element using CSS, the clipPath will correctly adapt to the container size.
 >
 > **[5:25](https://www.linkedin.com/learning/css-images-25655459/creating-custom-shapes-with-svg?u=76281980&t=325)** So that completes our SVG modifications.
 >
@@ -1718,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), next (2), application (1), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** svg (24), css (10), html (1)
 > **Code Identifiers:** clippath (21), clippathunits (3), objectboundingbox (3), clippaths (1)
 > **Non-Speech:** (keys clicking) (7)
@@ -1727,8 +1704,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using an alternative to clip-path: mask-image
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/using-an-alternative-to-clip-path-mask-image?u=76281980)
+#### [Using an alternative to clip-path: mask-image](https://www.linkedin.com/learning/css-images-25655459/using-an-alternative-to-clip-path-mask-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1784,21 +1760,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2)
 > **Env Vars:** svg (5), css (2), url (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a text knockout effect with background-clip
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/creating-a-text-knockout-effect-with-background-clip?u=76281980)
+#### [Creating a text knockout effect with background-clip](https://www.linkedin.com/learning/css-images-25655459/creating-a-text-knockout-effect-with-background-clip?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-images-25655459/creating-a-text-knockout-effect-with-background-clip?u=76281980&t=0)** - [Instructor] Now that you know how to use custom paths to clip images, you may be wondering if you can use text to clip images as well.
 >
-> **[0:08](https://www.linkedin.com/learning/css-images-25655459/creating-a-text-knockout-effect-with-background-clip?u=76281980&t=8)** The answer is yes, but instead of using an SVG or some other clip path, we can do this using regular old HTML and CSS.
+> **[0:08](https://www.linkedin.com/learning/css-images-25655459/creating-a-text-knockout-effect-with-background-clip?u=76281980&t=8)** The answer is yes, but instead of using an SVG or some other clip path, we can do this using regular old [[HTML]] and CSS.
 >
 > **[0:17](https://www.linkedin.com/learning/css-images-25655459/creating-a-text-knockout-effect-with-background-clip?u=76281980&t=17)** So here I've got an h1 element, and if we look in our developer tools, we can see that we have got a background image applied to this.
 >
@@ -1828,7 +1802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (3), svg (1), html (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1838,8 +1812,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering and blending
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/filtering-and-blending?u=76281980)
+#### [Filtering and blending](https://www.linkedin.com/learning/css-images-25655459/filtering-and-blending?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1859,12 +1832,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), css (2)
 > **Env Vars:** css (2), svg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looking at the filter property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/looking-at-the-filter-property?u=76281980)
+#### [Looking at the filter property](https://www.linkedin.com/learning/css-images-25655459/looking-at-the-filter-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1962,7 +1933,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2)
 > **Definitions:** is a  (4)
 > **Analogies:** similar to (2), think of it like (1), just like (1)
 > **CLI Commands:** make (2)
@@ -1970,8 +1940,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/combining-filters?u=76281980)
+#### [Combining filters](https://www.linkedin.com/learning/css-images-25655459/combining-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2019,13 +1988,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using custom SVG filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/using-custom-svg-filters?u=76281980)
+#### [Using custom SVG filters](https://www.linkedin.com/learning/css-images-25655459/using-custom-svg-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2057,7 +2024,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/css-images-25655459/using-custom-svg-filters?u=76281980&t=87)** Let's do this one.
 >
-> **[1:30](https://www.linkedin.com/learning/css-images-25655459/using-custom-svg-filters?u=76281980&t=90)** I'll copy that code and let's head over to our index.html file for this lesson.
+> **[1:30](https://www.linkedin.com/learning/css-images-25655459/using-custom-svg-filters?u=76281980&t=90)** I'll copy that code and let's head over to our index.[[HTML]] file for this lesson.
 >
 > **[1:37](https://www.linkedin.com/learning/css-images-25655459/using-custom-svg-filters?u=76281980&t=97)** And I'm just going to create an inline SVG, so I'll say SVG and literally paste in that filter code.
 >
@@ -2105,7 +2072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** svg (10), css (5), url (2)
 > **CLI Commands:** make (1), find (1), cat (1)
 > **File Paths:** index.html (2)
@@ -2113,8 +2080,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mix-blend-mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/mix-blend-mode?u=76281980)
+#### [Mix-blend-mode](https://www.linkedin.com/learning/css-images-25655459/mix-blend-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2154,7 +2120,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** find (1)
 > **Documentation:** mdn (1)
 > **Tools:** firefox (1)
@@ -2163,8 +2128,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Experimenting with blend modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/experimenting-with-blend-modes?u=76281980)
+#### [Experimenting with blend modes](https://www.linkedin.com/learning/css-images-25655459/experimenting-with-blend-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2206,7 +2170,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), feature (1), css (1)
 > **Env Vars:** svg (1), mdn (1), css (1)
 > **CLI Commands:** make (1)
 > **Documentation:** mdn (1)
@@ -2214,8 +2177,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [person] (1)
 
-#### Background-blend-mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/background-blend-mode?u=76281980)
+#### [Background-blend-mode](https://www.linkedin.com/learning/css-images-25655459/background-blend-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2258,8 +2220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Translate, scale, rotate, and manipulate perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980)
+#### [Translate, scale, rotate, and manipulate perspective](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2279,7 +2240,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980&t=54)** Fast forward to the present day CSS transforms module, and we've got some better options for handling transformations.
 >
-> **[1:02](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980&t=62)** This transform property still has some use cases, which we'll cover later, but for the rest of this lesson, I want to focus on four standalone properties you can use to transform any block level element, including images.
+> **[1:02](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980&t=62)** This transform property still has some use cases, which we'll cover later, but for the [[Representational State Transfer (REST)|rest]] of this lesson, I want to focus on four standalone properties you can use to transform any block level element, including images.
 >
 > **[1:15](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980&t=75)** We've got translate, rotate, scale, and there's one more not in this list called perspective.
 >
@@ -2407,7 +2368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (4), sku (1)
 > **Versions:** 0.5 (3), 0.25 (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -2416,8 +2377,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Warnings:** note that (1)
 
-#### Animated effects with transitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/animated-effects-with-transitions?u=76281980)
+#### [Animated effects with transitions](https://www.linkedin.com/learning/css-images-25655459/animated-effects-with-transitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2491,7 +2451,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (1)
 > **Env Vars:** css (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** means that (1), is a  (1)
@@ -2500,8 +2459,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keyframe animations for image effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/keyframe-animations-for-image-effects?u=76281980)
+#### [Keyframe animations for image effects](https://www.linkedin.com/learning/css-images-25655459/keyframe-animations-for-image-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2629,11 +2587,11 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/css-images-25655459/keyframe-animations-for-image-effects?u=76281980&t=370)** This is a very simple example using keyframes just to show you what's possible.
 >
-> **[6:15](https://www.linkedin.com/learning/css-images-25655459/keyframe-animations-for-image-effects?u=76281980&t=375)** I'd encourage you to search online for examples, and you will come across some really sophisticated animations that are pure CSS, no JavaScript required, which is really a testament to how far CSS has come.
+> **[6:15](https://www.linkedin.com/learning/css-images-25655459/keyframe-animations-for-image-effects?u=76281980&t=375)** I'd encourage you to search online for examples, and you will come across some really sophisticated animations that are pure CSS, no [[JavaScript]] required, which is really a testament to how far CSS has come.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Search]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** css (4)
 > **Cross-References:** go back to (3), in the last (1)
 > **Analogies:** for example (2), just like (1)
@@ -2641,8 +2599,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Important notes on using animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/important-notes-on-using-animations?u=76281980)
+#### [Important notes on using animations](https://www.linkedin.com/learning/css-images-25655459/important-notes-on-using-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2708,7 +2665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), css (2), next (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Env Vars:** css (2)
@@ -2719,8 +2675,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Delivering responsive images
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980)
+#### [Delivering responsive images](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2732,7 +2687,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980&t=27)** The first technologies we have for this have been around a long time, and that's srcset and sizes.
 >
-> **[0:34](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980&t=34)** When you look at basic HTML markup for an image, there's the source to the image and the alt text, which serves as a fallback in the event that the image either isn't available or we're serving an image to a non-visual user.
+> **[0:34](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980&t=34)** When you look at basic [[HTML]] markup for an image, there's the source to the image and the alt text, which serves as a fallback in the event that the image either isn't available or we're serving an image to a non-visual user.
 >
 > **[0:47](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980&t=47)** But we can use the srcset attribute to serve images with different resolutions to different devices, and then use that in conjunction with the sizes attribute to tell the browser how much space we expect an image to occupy in different viewport sizes.
 >
@@ -2752,14 +2707,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Analogies:** picture (4), imagine (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/optimizing-performance?u=76281980)
+#### [Optimizing performance](https://www.linkedin.com/learning/css-images-25655459/optimizing-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2785,19 +2739,18 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/css-images-25655459/optimizing-performance?u=76281980&t=61)** Finally, if you have an image heavy or other resource heavy site, think about using a CDN to boost performance.
 >
-> **[1:08](https://www.linkedin.com/learning/css-images-25655459/optimizing-performance?u=76281980&t=68)** All of these are tools available to you to help you optimize page load time to create a better user experience and a better web.
+> **[1:08](https://www.linkedin.com/learning/css-images-25655459/optimizing-performance?u=76281980&t=68)** All of these are tools available to you to help you optimize page load time to create a better [[User Experience (UX)|user experience]] and a better web.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[User Experience (UX)|User experience]] (1), web (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** png (1), jpeg (1), cdn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring cross-browser compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/ensuring-cross-browser-compatibility?u=76281980)
+#### [Ensuring cross-browser compatibility](https://www.linkedin.com/learning/css-images-25655459/ensuring-cross-browser-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2839,7 +2792,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), css (3), web (3)
 > **Env Vars:** css (3), mdn (2)
 > **Documentation:** mdn (2)
 > **UI Navigation:** in the sidebar (1), click on (1)
@@ -2847,14 +2799,14 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/css-images-25655459/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2878,7 +2830,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), web (2), next (1)
 > **Env Vars:** css (4), mdn (1)
 > **CLI Commands:** find (1), go build (1)
 > **Cross-References:** we covered (1), in the next (1)

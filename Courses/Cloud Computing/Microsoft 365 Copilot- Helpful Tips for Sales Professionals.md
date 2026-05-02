@@ -61,32 +61,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Copilot's role in sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980)
+#### [Understand Copilot's role in sales](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=0)** - Based on research from Microsoft, 79% of sellers say that selling is getting more difficult as they need to support more and more accounts while they're spending 70% of their time on administrative tasks like research, planning, generating proposals, data entry, and internal meetings.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=0)** - Based on research from [[Microsoft]], 79% of sellers say that selling is getting more difficult as they need to support more and more accounts while they're spending 70% of their time on administrative tasks like research, planning, generating proposals, data entry, and internal meetings.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=18)** Fortunately, Copilot for Microsoft 365 is your AI powered assistant to help you with tedious tasks like preparing for meetings, creating pitches, generating proposals, and much more.
+> **[0:18](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=18)** Fortunately, [[Microsoft Copilot|Copilot]] for [[Microsoft 365]] is your AI powered assistant to help you with tedious tasks like preparing for meetings, creating pitches, generating proposals, and much more.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=29)** Copilot can also help with things like improving the quality of your marketing content, improving customer interactions through emails and meetings, and it can even draft entire proposals or presentations for you through apps like Word and PowerPoint.
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=29)** Copilot can also help with things like improving the quality of your marketing content, improving customer interactions through emails and meetings, and it can even draft entire proposals or presentations for you through apps like [[Microsoft Word|Word]] and [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=43)** Hi, I'm LinkedIn Learning senior staff instructor, Garrick Chow.
+> **[0:43](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=43)** Hi, I'm [[LinkedIn]] Learning senior staff instructor, Garrick Chow.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980&t=46)** And in this course we're going to focus on some different use case examples where Copilot and Microsoft 365 applications can help you reach your sales goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft 365]] (2), [[Microsoft]] (1), data (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft 365]] (2), [[Microsoft]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Speakers:** - based (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=0)** - This course assumes that you have some basic knowledge and experience working with Copilot in Microsoft M365 applications.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=0)** - This course assumes that you have some basic knowledge and experience working with [[Microsoft Copilot|Copilot]] in [[Microsoft]] [[Microsoft 365|M365]] applications.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=7)** So we won't be covering things here like the different versions of Copilot subscriptions, where to find Copilot in the M365 apps, or how to write a prompt.
 >
@@ -94,13 +92,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=25)** Get Started with Microsoft's Everyday AI Companion."
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=29)** From there, you may also want to explore courses like Nick's "[[Learning Microsoft 365]] Copilot," or my two courses, "Microsoft Copilot: the Art of Prompt Writing," and "Building AI Skills with Microsoft Copilot Lab."
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=29)** From there, you may also want to explore courses like Nick's "[[Learning [[Microsoft 365]]]] Copilot," or my two courses, "[[Microsoft Copilot]]: the Art of Prompt Writing," and "Building AI Skills with Microsoft Copilot Lab."
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/what-you-should-know?u=76281980&t=41)** These courses will give you the background you need to get the most out of this course on using Copilot with a focus on sales.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft]] (2), [[Microsoft 365|M365]] (2), prompt (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft]] (2), [[Microsoft 365|M365]] (2), [[Microsoft Copilot]] (2), [[Microsoft 365]] (1)
 > **Env Vars:** m365 (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - this (1)
@@ -110,14 +108,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boost customer research and sales preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980)
+#### [Boost customer research and sales preparation](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=0)** - [Host] Copilot can help accelerate and streamline customer research and sales preparation tasks in a number of significant ways.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=0)** - [Host] [[Microsoft Copilot|Copilot]] can help accelerate and streamline customer research and sales preparation tasks in a number of significant ways.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=7)** I'm currently in my web browser at copilot.[microsoft.com](https://microsoft.com), and from here you can use Copilot to help you with things like customer outreach, creating presentations, preparing for cold calls, and so on.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=7)** I'm currently in my web browser at copilot.[[[Microsoft]].com](https://microsoft.com), and from here you can use Copilot to help you with things like customer outreach, creating presentations, preparing for cold calls, and so on.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=19)** Let's say for example, we want to contact a new potential client, in this case, a company called Leaf and Mortar Landscaping Company.
 >
@@ -131,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=53)** And now Copilot has given us a couple of ideas we can consider bringing to the conversation.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=58)** We can talk about the durability and reliability of our products, the performance, brand loyalty, ease of service, and so on.
+> **[0:58](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=58)** We can talk about the durability and reliability of our [[Microsoft Products|products]], the performance, brand loyalty, ease of service, and so on.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=68)** Now, you might want to get even more specific and ask Copilot about a particular company by including their website.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=216)** You could try a prompt like create a presentation outline that addresses Leaf and Mortar's needs and describes the benefits of my products, use their website for more information about them, and I've included the website again.
 >
-> **[4:08](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=248)** And just like that, we have this in-depth presentation outline that we can use when we go into PowerPoint to build our presentation deck.
+> **[4:08](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=248)** And just like that, we have this in-depth presentation outline that we can use when we go into [[Microsoft PowerPoint|PowerPoint]] to build our presentation deck.
 >
 > **[4:18](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980&t=258)** Again, in a real scenario, you'll provide more specific information about your products or services for Copilot to work with, but you get the idea of how it can help you start preparing for your meetings.
 >
@@ -185,25 +182,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Products|Products]] (5), prompt (2), web (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Products|Products]] (5), [[Microsoft]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), just like (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
 
-#### Create a customized pitch
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980)
+#### [Create a customized pitch](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=0)** - [Instructor] When creating a pitch for a potential customer, Copilot can assist during several stages of the process.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=0)** - [Instructor] When creating a pitch for a potential customer, [[Microsoft Copilot|Copilot]] can assist during several stages of the process.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=5)** Let's say you want your pitch to be customized to the potential client and you want to demonstrate knowledge of their company and their market.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=11)** Copilot can help you with your research.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=14)** For example, I'm in my web browser at copilot.[microsoft.com](https://microsoft.com).
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=14)** For example, I'm in my web browser at copilot.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=17)** And one way you can get started with your research is by asking Copilot to quickly pull information from a customer's website or their annual report or any other source of information that you think is relevant.
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=144)** And with this information on hand, you can create much more personalized pitches or presentations.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=150)** Now, you can also use Copilot in M365 apps like PowerPoint or Word to work on your Pitch.
+> **[2:30](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=150)** Now, you can also use Copilot in [[Microsoft 365|M365]] apps like [[Microsoft PowerPoint|PowerPoint]] or [[Microsoft Word|Word]] to work on your Pitch.
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=156)** For example, I could take the relevant information Copilot has pulled for me here, and then in PowerPoint, we could ask Copilot to personalize our presentation deck with talking points and data specific to that information.
 >
@@ -259,13 +255,13 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=288)** Notice that it followed my instructions by mentioning our shared values, our alignment of values and goals, and even came up with this entire list of proposed collaboration areas.
 >
-> **[5:02](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=302)** So again, I could copy and paste this into my own email program like Outlook and continue to customize it for my needs.
+> **[5:02](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=302)** So again, I could copy and paste this into my own email program like [[Microsoft Outlook|Outlook]] and continue to customize it for my needs.
 >
 > **[5:09](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-a-customized-pitch?u=76281980&t=309)** All right, so there we have some examples of ways Copilot can make it easier to research your potential clients and draft customized proposals to them based on the information you find.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Word|Word]] (5), [[Microsoft]] (4), web (3), [[Microsoft PowerPoint|Powerpoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Word|Word]] (5), [[Microsoft]] (4), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft 365|M365]] (1)
 > **Analogies:** for example (4), for instance (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -274,22 +270,21 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an unsolicited proposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980)
+#### [Create an unsolicited proposal](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=0)** - [Instructor] In previous videos, we saw how you can use Copilot to research potential clients using various sources such as their website, annual reports, or other online sources of information about the company that may be relevant.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=0)** - [Instructor] In previous videos, we saw how you can use [[Microsoft Copilot|Copilot]] to research potential clients using various sources such as their website, annual reports, or other online sources of information about the company that may be relevant.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=13)** Copilot can gather and analyze relevant client data like their spending changes and product needs and help you identify specific opportunities.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=21)** We also saw how you can use Copilot to take this data to create a customized pitch, and one of the examples we looked at was asking Copilot to create a presentation outline using the information it had gathered on our potential landscaping company client.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=33)** So I have a version of that outline here that Copilot generated that I've copied into this Word document.
+> **[0:33](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=33)** So I have a version of that outline here that Copilot generated that I've copied into this [[Microsoft Word|Word]] document.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=40)** Now I've saved this to my OneDrive so I'll be able to access it through other M365 apps.
+> **[0:40](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=40)** Now I've saved this to my [[Microsoft OneDrive|OneDrive]] so I'll be able to access it through other [[Microsoft 365|M365]] apps.
 >
-> **[0:45](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=45)** So let's see how we can turn this outline into an actual presentation in PowerPoint using Copilot.
+> **[0:45](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=45)** So let's see how we can turn this outline into an actual presentation in [[Microsoft PowerPoint|PowerPoint]] using Copilot.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/create-an-unsolicited-proposal?u=76281980&t=54)** All right, so in PowerPoint, I'll create a new presentation.
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft OneDrive|Onedrive]] (3), data (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Word|Word]] (2), [[Microsoft 365|M365]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** template (3)
 > **Warnings:** be aware (1), warning (1)
@@ -359,16 +354,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respond to an RFP
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980)
+#### [Respond to an RFP](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=0)** - [Instructor] Another common task Copilot can help facilitate is responding to requests for proposals, or RFPs.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=0)** - [Instructor] Another common task [[Microsoft Copilot|Copilot]] can help facilitate is responding to requests for proposals, or RFPs.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=6)** Responding to RFPs in a timely manner can give you a competitive edge, especially as many RFPs have strict deadlines, and writing a prompt, well-informed response ensures that your proposal is considered.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=18)** I have here an example of an RFP open in Word.
+> **[0:18](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=18)** I have here an example of an RFP open in [[Microsoft Word|Word]].
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=21)** Now, of course, it's important that you read and understand the RFP, but Copilot can help you with a summary by focusing in on the most important aspects and requirements of the document.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=162)** Notice they correctly pulled the name and email address of the procurement manager from the RFP and has laid out the benefits of selecting our company to be their vendor.
 >
-> **[2:52](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=172)** Now, of course, in a real scenario, you'll probably want to spend a little more time prompting Copilot with the specifics of your products and how they meet the needs of the potential customer.
+> **[2:52](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=172)** Now, of course, in a real scenario, you'll probably want to spend a little more time prompting Copilot with the specifics of your [[Microsoft Products|products]] and how they meet the needs of the potential customer.
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/respond-to-an-rfp?u=76281980&t=180)** But you can see that even in this example, Copilot does a pretty good job of drafting this email, which we can now copy out of Word and paste into our email program and further edit or customize it.
 >
@@ -426,7 +420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Word|Word]] (3), prompt (2), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (12), [[Microsoft Word|Word]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rfp (7)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

@@ -106,12 +106,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The essentials of using JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980)
+#### [The essentials of using JSON](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=0)** - You use JSON every day.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=0)** - You use [[JSON]] every day.
 >
 > **[0:02](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=2)** Behind the scenes, it packages up your email, online purchases, and even today's weather forecast.
 >
@@ -123,20 +122,19 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=29)** I'll show you how to build your own JSON structures and introduce you to situations where JSON's used.
 >
-> **[0:35](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=35)** We'll also explore how JSON's applied to some programming scenarios, including data security and API requests.
+> **[0:35](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=35)** We'll also explore how JSON's applied to some programming scenarios, including [[Data Security]] and API requests.
 >
-> **[0:42](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=42)** I designed this hands-on course to help you use JSON data to accomplish tasks from software configuration to search engine optimization to programming.
+> **[0:42](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=42)** I designed this hands-on course to help you use JSON data to accomplish tasks from software configuration to [[Search Engine Optimization (SEO)|search engine optimization]] to programming.
 >
 > **[0:51](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980&t=51)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), data (4), [[Programming]] (2), [[Security]] (1), api (1)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Data Security]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** json (8), api (1)
 > **Speakers:** - you (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/json-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,17 +144,16 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/json-essential-training/what-you-should-know?u=76281980&t=6)** So, if you'd like to familiarize yourself in advance, check out a course here in the library on programming fundamentals.
 >
-> **[0:12](https://www.linkedin.com/learning/json-essential-training/what-you-should-know?u=76281980&t=12)** We'll also be working with some JavaScript code in this course.
+> **[0:12](https://www.linkedin.com/learning/json-essential-training/what-you-should-know?u=76281980&t=12)** We'll also be working with some [[JavaScript]] code in this course.
 >
 > **[0:15](https://www.linkedin.com/learning/json-essential-training/what-you-should-know?u=76281980&t=15)** You don't need to have a background in JavaScript to complete the course, but if you'd like to understand the essentials, a basic JavaScript course would be a great place to start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Set up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980)
+#### [Set up your environment](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=6)** You undoubtedly already have a web browser installed on your machine.
 >
-> **[0:10](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=10)** And any major browser, Chrome, Firefox, or Microsoft edge is fine for this course.
+> **[0:10](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=10)** And any major browser, Chrome, Firefox, or [[Microsoft]] edge is fine for this course.
 >
 > **[0:16](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=16)** I'll be using Firefox in these videos, which includes a powerful suite of developer tools.
 >
@@ -174,15 +171,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=30)** So if you have a code editor you like such as Sublime Text or Adam, it's fine to use that.
 >
-> **[0:35](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=35)** I use Visual Studio Code in these videos, which is a version of Microsoft Visual Studio created specifically for web development.
+> **[0:35](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=35)** I use Visual Studio Code in these videos, which is a version of Microsoft Visual Studio created specifically for [[Web Development]].
 >
-> **[0:43](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=43)** Visual Studio Code is free and has Windows, Mac, and Linux releases.
+> **[0:43](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=43)** Visual Studio Code is free and has [[Windows]], Mac, and [[Linux]] releases.
 >
-> **[0:47](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=47)** The code is available on GitHub and users can submit issues there as well.
+> **[0:47](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=47)** The code is available on [[GitHub]] and users can submit issues there as well.
 >
 > **[0:52](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=52)** I've also installed one extension in Visual Studio Code and that's Live Server by Ritwick Day.
 >
-> **[0:58](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=58)** This is an HTTP server that you can launch with a single click and that automatically opens the current HTML document in your default browser.
+> **[0:58](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=58)** This is an HTTP server that you can launch with a single click and that automatically opens the current [[HTML]] document in your default browser.
 >
 > **[1:06](https://www.linkedin.com/learning/json-essential-training/set-up-your-environment?u=76281980&t=66)** This makes testing some of our code in the browser quick and easy to do.
 >
@@ -190,19 +187,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Microsoft]] (2), [[Web Development]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Web Development]] (1), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **Tools:** visual studio (4), firefox (2), sublime (1), github (1)
 > **Env Vars:** http (1), html (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the GitHub repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980)
+#### [Work with the GitHub repo](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=0)** - [Instructor] All of the files for this course are freely available for download on the course page but if you prefer to work with a Git repo instead, you can clone the GitHub repo at this URL.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=0)** - [Instructor] All of the files for this course are freely available for download on the course page but if you prefer to work with a [[Git]] repo instead, you can clone the [[GitHub]] repo at this URL.
 >
 > **[0:11](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=11)** The repository is built so there are branches for each of the videos in the course.
 >
@@ -218,7 +214,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=52)** So if you want to use branches, you can, but you'll also have access to all the content you need without using the branches.
 >
-> **[0:58](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=58)** You may need to install NPM, as well as Git, before you clone this repo.
+> **[0:58](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=58)** You may need to install [[npm]], as well as Git, before you clone this repo.
 >
 > **[1:02](https://www.linkedin.com/learning/json-essential-training/work-with-the-github-repo?u=76281980&t=62)** If you want to work with this GitHub repo but you need a little more experience with Git and GitHub, do a search for GitHub in our library.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Git]] (3), [[npm]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Git]] (3), [[npm]] (1)
 > **Tools:** github (5)
 > **CLI Commands:** git (3), npm (1)
 > **Env Vars:** url (1), npm (1)
@@ -240,14 +236,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is JSON?
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980)
+#### [What is JSON?](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980&t=0)** - [Instructor] JSON is a popular format used for sharing data online.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980&t=0)** - [Instructor] [[JSON]] is a popular format used for sharing data online.
 >
-> **[0:04](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980&t=4)** The name is short for JavaScript Object Notation.
+> **[0:04](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980&t=4)** The name is short for [[JavaScript]] Object Notation.
 >
 > **[0:07](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980&t=7)** JSON syntax is based on the JavaScript language, but you don't need to know JavaScript in order to use JSON.
 >
@@ -279,23 +274,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (11), data (8), [[JavaScript]] (3), [[Programming]] (2), web (2)
+> **Frameworks & Libraries:** [[JSON]] (11), [[JavaScript]] (3)
 > **Env Vars:** json (11), xml (5), api (1)
 > **Definitions:** is a  (2), short for (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand objects in programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980)
+#### [Understand objects in programming](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=0)** - [Instructor] The acronym JSON stands for JavaScript Object Notation.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=0)** - [Instructor] The acronym [[JSON]] stands for [[JavaScript]] Object Notation.
 >
 > **[0:04](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=4)** The JavaScript part of that name is pretty straightforward.
 >
-> **[0:07](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=7)** JavaScript is the programming language whose syntax forms the basis of JSON syntax, however, you don't need to know the JavaScript programming language in order to use JSON.
+> **[0:07](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=7)** JavaScript is the programming language whose syntax [[Forms]] the basis of JSON syntax, however, you don't need to know the JavaScript programming language in order to use JSON.
 >
 > **[0:17](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=17)** The N, for Notation, is pretty self-explanatory.
 >
@@ -305,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=29)** In this case, it's not a common sense of object, meaning just a thing.
 >
-> **[0:34](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=34)** The word Object, in JavaScript Object Notation, references a technical meaning of the word object.
+> **[0:34](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=34)** The [[Microsoft Word|word]] Object, in JavaScript Object Notation, references a technical meaning of the word object.
 >
 > **[0:40](https://www.linkedin.com/learning/json-essential-training/understand-objects-in-programming?u=76281980&t=40)** In JavaScript, like in other programming languages, an object is a collection of data that's similar to a list.
 >
@@ -343,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (14), [[JSON]] (9), data (8), [[Programming]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (14), [[JSON]] (9), [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **Env Vars:** json (9)
 > **Definitions:** is a  (5), known as (2), stands for (1), is an  (1)
 > **Analogies:** similar to (1), for instance (1)
@@ -351,12 +345,11 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structure JSON by following the rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/structure-json-by-following-the-rules?u=76281980)
+#### [Structure JSON by following the rules](https://www.linkedin.com/learning/json-essential-training/structure-json-by-following-the-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/structure-json-by-following-the-rules?u=76281980&t=0)** - [Instructor] The basic structure of both JavaScript objects and JSON that stores key value pairs starts and ends with a curly brace.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/structure-json-by-following-the-rules?u=76281980&t=0)** - [Instructor] The basic structure of both [[JavaScript]] objects and [[JSON]] that stores key value pairs starts and ends with a curly brace.
 >
 > **[0:08](https://www.linkedin.com/learning/json-essential-training/structure-json-by-following-the-rules?u=76281980&t=8)** For JavaScript arrays and JSON that stores an ordered list of values, the beginning and ending characters are square brackets.
 >
@@ -430,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (26), [[JavaScript]] (17), data (3), next (1), feature (1)
+> **Frameworks & Libraries:** [[JSON]] (26), [[JavaScript]] (17)
 > **Env Vars:** json (25), es6 (1)
 > **Definitions:** is a  (2), means that (1)
 > **URLs:** [json.org](https://json.org) (1)
@@ -439,12 +432,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a basic JSON structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/build-a-basic-json-structure?u=76281980)
+#### [Build a basic JSON structure](https://www.linkedin.com/learning/json-essential-training/build-a-basic-json-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/build-a-basic-json-structure?u=76281980&t=0)** - [Instructor] JSON is just text.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/build-a-basic-json-structure?u=76281980&t=0)** - [Instructor] [[JSON]] is just text.
 >
 > **[0:02](https://www.linkedin.com/learning/json-essential-training/build-a-basic-json-structure?u=76281980&t=2)** So you can write and save JSON in any plain text editor.
 >
@@ -528,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (11), feature (2), next (2)
+> **Frameworks & Libraries:** [[JSON]] (11)
 > **Env Vars:** json (9)
 > **File Paths:** highestfeatures.json (1), peaks.json (1)
 > **Tools:** visual studio (2)
@@ -536,12 +528,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a nested JSON structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/build-a-nested-json-structure?u=76281980)
+#### [Build a nested JSON structure](https://www.linkedin.com/learning/json-essential-training/build-a-nested-json-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/build-a-nested-json-structure?u=76281980&t=0)** - [Instructor] In real world JSON data, it's common to encounter structures with multiple layers.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/build-a-nested-json-structure?u=76281980&t=0)** - [Instructor] In real world [[JSON]] data, it's common to encounter structures with multiple layers.
 >
 > **[0:05](https://www.linkedin.com/learning/json-essential-training/build-a-nested-json-structure?u=76281980&t=5)** For instance, an array, in which each element is itself an object, this file contains departure estimates for trains in the bay area, rapid transit system in California, the starting curly brace indicates that the overall structure is an object, but many of the keys have additional objects as their values and some even have arrays as their values.
 >
@@ -593,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), data (3), next (2), power (1)
+> **Frameworks & Libraries:** [[JSON]] (6)
 > **Env Vars:** json (6)
 > **Definitions:** is an  (3)
 > **Analogies:** for instance (2)
@@ -602,12 +593,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 
-#### Challenge: Debug a JSON structure and create your own
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980)
+#### [Challenge: Debug a JSON structure and create your own](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=0)** - [Instructor] Ready to try your hand at working with JSON.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=0)** - [Instructor] Ready to try your hand at working with [[JSON]].
 >
 > **[0:11](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=11)** It's time for a challenge.
 >
@@ -633,7 +623,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=59)** This ensures you're not trying to fix something that's being affected by an error earlier in the code.
 >
-> **[1:04](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=64)** For instance, I see the word item flagged in the first key value pair.
+> **[1:04](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=64)** For instance, I see the [[Microsoft Word|word]] item flagged in the first key value pair.
 >
 > **[1:08](https://www.linkedin.com/learning/json-essential-training/challenge-debug-a-json-structure-and-create-your-own?u=76281980&t=68)** When I hover over it, I get a pretty helpful message.
 >
@@ -655,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[Debugging]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (4)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Analogies:** for instance (2)
@@ -663,8 +653,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Debug a JSON structure and create your own
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/solution-debug-a-json-structure-and-create-your-own?u=76281980)
+#### [Solution: Debug a JSON structure and create your own](https://www.linkedin.com/learning/json-essential-training/solution-debug-a-json-structure-and-create-your-own?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/json-essential-training/solution-debug-a-json-structure-and-create-your-own?u=76281980&t=91)** Now that's not super helpful. So let's think about this.
 >
-> **[1:34](https://www.linkedin.com/learning/json-essential-training/solution-debug-a-json-structure-and-create-your-own?u=76281980&t=94)** This is a number and we already corrected an error with a decimal, but there's one other rule in JSON about numbers.
+> **[1:34](https://www.linkedin.com/learning/json-essential-training/solution-debug-a-json-structure-and-create-your-own?u=76281980&t=94)** This is a number and we already corrected an error with a decimal, but there's one other rule in [[JSON]] about numbers.
 >
 > **[1:43](https://www.linkedin.com/learning/json-essential-training/solution-debug-a-json-structure-and-create-your-own?u=76281980&t=103)** And the other rule is that they can't start with a zero, and this one does.
 >
@@ -788,7 +777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Versions:** 99.95 (1), 94.95 (1), 85.00 (1), 124.95 (1)
 > **Code Identifiers:** listpricehistory (3)
 > **Env Vars:** json (3)
@@ -802,12 +791,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Process JSON with language tools and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980)
+#### [Process JSON with language tools and libraries](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=0)** - [Instructor] JSON data is generally shared as a string of characters, but JSON is useful as a notation because it can describe a structure, either an object or an array.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=0)** - [Instructor] [[JSON]] data is generally shared as a string of characters, but JSON is useful as a notation because it can describe a structure, either an object or an array.
 >
 > **[0:10](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=10)** So how does a programming language work with a JSON string, and how does it create a JSON string from an object or array?
 >
@@ -817,27 +805,26 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=34)** Serializing JSON means turning a structure into a JSON string, while deserializing is the reverse, turning a JSON string into a structure that a programming language can work with.
 >
-> **[0:47](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=47)** Remember that even though JSON is based on the object notation used in JavaScript, JSON can be used across languages and platforms.
+> **[0:47](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=47)** Remember that even though JSON is based on the object notation used in [[JavaScript]], JSON can be used across languages and platforms.
 >
-> **[0:55](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=55)** Some languages like JavaScript and Python include utilities right in the language that serialize and deserialize JSON.
+> **[0:55](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=55)** Some languages like JavaScript and [[Python (Programming Language)|Python]] include utilities right in the language that serialize and deserialize JSON.
 >
-> **[1:03](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=63)** In other languages like Java, you need to augment the basic features of the language with a library to manipulate JSON, Whatever language you're working in, you can check documentation or other resources for best practices on working with JSON data most efficiently.
+> **[1:03](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980&t=63)** In other languages like [[Java]], you need to augment the basic features of the language with a library to manipulate JSON, Whatever language you're working in, you can check documentation or other resources for best practices on working with JSON data most efficiently.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (15), data (4), [[Programming]] (3), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JSON]] (15), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Env Vars:** json (15)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert JSON to an object or array
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980)
+#### [Convert JSON to an object or array](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=0)** - [Instructor] Converting a JSON string to a data structure is pretty straightforward.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=0)** - [Instructor] Converting a [[JSON]] string to a data structure is pretty straightforward.
 >
-> **[0:04](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=4)** I'm going to show you what that looks like in JavaScript using the built-in JSON.parse method.
+> **[0:04](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=4)** I'm going to show you what that looks like in [[JavaScript]] using the built-in JSON.parse method.
 >
 > **[0:09](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=9)** But in general, no matter what language you're working with, the process of deserializing data involves passing the JSON string to the utility method, which returns the data structure.
 >
@@ -849,13 +836,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=41)** This data is provided to the frontend as it JSON string.
 >
-> **[0:44](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=44)** The items.js file contains a snippet of that JSON string, containing data about two products.
+> **[0:44](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=44)** The items.js file contains a snippet of that JSON string, containing data about two [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=51)** I'm going to use the JavaScript JSON.parse method to convert this to a data structure.
 >
 > **[0:57](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=57)** The product variable contains my data.
 >
-> **[0:59](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=59)** On a live website, this would be the result of an HTTP request using something like fetch, but for exploration, I've hard coded this in a file.
+> **[0:59](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=59)** On a live website, this would be the result of an HTTP request using something like [[Fetch]], but for exploration, I've hard coded this in a file.
 >
 > **[1:08](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=68)** I'll start by creating a new variable called productsParsed.
 >
@@ -865,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=90)** And that's a reference to the product variable above on line one.
 >
-> **[1:34](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=94)** I'll save those changes, and then it needs to open up products.html, and I'm going to use my Go Live function for my web server to open that up in Firefox.
+> **[1:34](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=94)** I'll save those changes, and then it needs to open up products.[[HTML]], and I'm going to use my Go Live function for my web server to open that up in Firefox.
 >
 > **[1:45](https://www.linkedin.com/learning/json-essential-training/convert-json-to-an-object-or-array?u=76281980&t=105)** And then I need to open my browser console.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (21), data (15), [[Microsoft Products|Products]] (6), [[JavaScript]] (5), product (4)
+> **Frameworks & Libraries:** [[JSON]] (21), [[Microsoft Products|Products]] (6), [[JavaScript]] (5), [[Fetch]] (1), [[HTML]] (1)
 > **Env Vars:** json (21), http (1)
 > **Code Identifiers:** itemparsed (5), productsparsed (4)
 > **Definitions:** is a  (3), is an  (1)
@@ -950,18 +937,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** firefox (1)
 
-#### Convert an object or array to JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980)
+#### [Convert an object or array to JSON](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=0)** - [Instructor] When you want to transmit data, especially on the web, you generally need to convert it to JSON.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=0)** - [Instructor] When you want to transmit data, especially on the web, you generally need to convert it to [[JSON]].
 >
 > **[0:05](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=5)** There are other formats in use.
 >
 > **[0:07](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=7)** So depending on the system you're sending data to, you may instead need to convert to one of them.
 >
-> **[0:13](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=13)** Other popular notations for data sharing include YAML, which stands for yet another markup language and XML or extensible markup language.
+> **[0:13](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=13)** Other popular notations for [[Data Sharing]] include YAML, which stands for yet another markup language and XML or extensible markup language.
 >
 > **[0:22](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=22)** JSON is common, but by no means universal.
 >
@@ -969,7 +955,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=31)** But JSON is by far the most popular on the web.
 >
-> **[0:34](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=34)** And whether you have an object or an array that you want a stringify into JSON, the process is pretty straightforward in JavaScript.
+> **[0:34](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=34)** And whether you have an object or an array that you want a stringify into JSON, the process is pretty straightforward in [[JavaScript]].
 >
 > **[0:41](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=41)** The built-in method is pretty self-explanatory, JSON.stringify.
 >
@@ -989,7 +975,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=91)** And the value is going to be the result of calling JSON.stringify and passing the cart array in the cart variable.
 >
-> **[1:40](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=100)** I'll save those changes and then open up products.html and use my web server to check that out in my browser.
+> **[1:40](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=100)** I'll save those changes and then open up [[Microsoft Products|products]].[[HTML]] and use my web server to check that out in my browser.
 >
 > **[1:50](https://www.linkedin.com/learning/json-essential-training/convert-an-object-or-array-to-json?u=76281980&t=110)** And I have the browser console open.
 >
@@ -1025,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (16), data (5), web (5), [[JavaScript]] (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[JSON]] (16), [[JavaScript]] (3), [[Data Sharing]] (1), [[Microsoft Products|Products]] (1), [[HTML]] (1)
 > **Env Vars:** json (16), yaml (1), xml (1), http (1)
 > **Code Identifiers:** cartjson (3), singlejson (2)
 > **File Paths:** cart.js (2), products.html (1)
@@ -1033,16 +1019,15 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Process JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980)
+#### [Challenge: Process JSON data](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980&t=0)** (light music)
 >
-> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980&t=8)** - [Instructor] Ready to write code to process JSON data?
+> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980&t=8)** - [Instructor] Ready to write code to process [[JSON]] data?
 >
-> **[0:10](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980&t=10)** It's time for a challenge, in this challenge, you'll write JavaScript to destringify an object and an array.
+> **[0:10](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980&t=10)** It's time for a challenge, in this challenge, you'll write [[JavaScript]] to destringify an object and an array.
 >
 > **[0:17](https://www.linkedin.com/learning/json-essential-training/challenge-process-json-data?u=76281980&t=17)** And you'll also write JavaScript to stringify an object and an array.
 >
@@ -1062,15 +1047,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (7), [[JSON]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[JSON]] (4)
 > **Env Vars:** json (4)
 > **File Paths:** blog.js (1), issue.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Process JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980)
+#### [Solution: Process JSON data](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=10)** So I have this array, it contains objects and down here on line 17, I'm going to write code that stringifies it.
 >
-> **[0:17](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=17)** So I'm going to create a variable first and I'm going to make that postsJson, and the value is going to be using JSON.stringify and passing it hosts.
+> **[0:17](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=17)** So I'm going to create a variable first and I'm going to make that postsJson, and the value is going to be using [[JSON]].stringify and passing it hosts.
 >
 > **[0:34](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=34)** And so that is going to stringify my posts array.
 >
@@ -1088,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=47)** So I'm going to use const articleJson, and I'm going to use JSON.stringify, and I'm going to pass it article.
 >
-> **[1:00](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=60)** So let me go ahead and check just to make sure these worked, I'm going to open up my HTML file for this blog.html, going to open that with my web server.
+> **[1:00](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=60)** So let me go ahead and check just to make sure these worked, I'm going to open up my [[HTML]] file for this blog.html, going to open that with my web server.
 >
 > **[1:12](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=72)** So I've got the page loaded and down in my console, I can check postsJson and I indeed have stringified version of that variable.
 >
@@ -1126,7 +1110,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=165)** That is an object that's recognized by the browser as a data structure rather than JSON string.
 >
-> **[2:52](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=172)** So it's just using JSON.parse or JSON.stringify to go back and forth between JSON and data structures in JavaScript.
+> **[2:52](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=172)** So it's just using JSON.parse or JSON.stringify to go back and forth between JSON and [[Data Structures]] in [[JavaScript]].
 >
 > **[3:01](https://www.linkedin.com/learning/json-essential-training/solution-process-json-data?u=76281980&t=181)** And again, if you're using a different programming language, you're going to want to get familiar with the tools that do the same thing in that programming language.
 >
@@ -1134,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), data (7), [[HTML]] (2), [[Programming]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[HTML]] (2), [[Data Structures]] (1), [[JavaScript]] (1)
 > **Env Vars:** json (12), html (1)
 > **Code Identifiers:** postsjson (2), articlejson (2), queuedata (2)
 > **File Paths:** blog.html (1), issue.js (1)
@@ -1148,12 +1132,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to send and receive JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980)
+#### [How to send and receive JSON data](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980&t=0)** - [Instructor] A common use of JSON data is on websites.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980&t=0)** - [Instructor] A common use of [[JSON]] data is on websites.
 >
 > **[0:03](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980&t=3)** Many websites you interact with regularly receive and send JSON data in the background in response to your interactions.
 >
@@ -1215,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[JSON]] (10), web (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (10)
 > **Env Vars:** json (10), http (7), xhr (3)
 > **UI Navigation:** in the menu (1), open the (1), scroll down (1)
 > **Tools:** firefox (2)
@@ -1224,14 +1207,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an HTTP request
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980)
+#### [Create an HTTP request](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=0)** - [Instructor] To get JSON data from a remote source on the web starts with an HTTP request.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=0)** - [Instructor] To get [[JSON]] data from a remote source on the web starts with an HTTP request.
 >
-> **[0:06](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=6)** We're going to work with the h+ sport website, which is a site for a fictitious company that we're using just for this course, the h+ website displays a number of products that the company sells with a name, image, and price for each one.
+> **[0:06](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=6)** We're going to work with the h+ sport website, which is a site for a fictitious company that we're using just for this course, the h+ website displays a number of [[Microsoft Products|products]] that the company sells with a name, image, and price for each one.
 >
 > **[0:19](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=19)** All of this product data on the page is a result of an HTTP request for product data and an HTTP response that contains that product data.
 >
@@ -1241,7 +1223,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=43)** For example, these are the URIs of two end points for the fictitious h+ sport company.
 >
-> **[0:49](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=49)** These may look like web page URLs, but instead of returning an HTML document to be displayed in your browser, they return JSON data.
+> **[0:49](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=49)** These may look like web page URLs, but instead of returning an [[HTML]] document to be displayed in your browser, they return JSON data.
 >
 > **[0:56](https://www.linkedin.com/learning/json-essential-training/create-an-http-request?u=76281980&t=56)** Now building an HTTP request in a programming language can be a little complex and it's beyond the scope of what we're doing here, but we can get a taste of what goes into an HTTP request and how it works without writing code by simply entering the URL for an endpoint in a web browser and seeing what data we get back.
 >
@@ -1271,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[JSON]] (10), web (4), product (4), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Microsoft Products|Products]] (3), [[HTML]] (1)
 > **Env Vars:** http (11), json (10), url (3), html (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
@@ -1280,26 +1262,25 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with an HTTP response
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980)
+#### [Work with an HTTP response](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=0)** - [Instructor] After a program receives JSON data, it puts it to work, depending on what the program is designed to do, there are all sorts of things it can do with the data such as add it to a database, check it for errors or format it and display it.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=0)** - [Instructor] After a program receives [[JSON]] data, it puts it to work, depending on what the program is designed to do, there are all sorts of things it can do with the data such as add it to a database, check it for errors or format it and display it.
 >
 > **[0:14](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=14)** To get a taste of the process, let's look at a web based example.
 >
 > **[0:17](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=17)** The start files for this video include web page files for the H Plus Fitness Company.
 >
-> **[0:22](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=22)** If I open up products.html and use my web server or view that in the browser, I can see that the structure of the page is pretty bare bones, just the heading, but the page is supposed to display images and information about available products that it retrieves in the server as JSON.
+> **[0:22](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=22)** If I open up [[Microsoft Products|products]].[[HTML]] and use my web server or view that in the browser, I can see that the structure of the page is pretty bare bones, just the heading, but the page is supposed to display images and information about available products that it retrieves in the server as JSON.
 >
 > **[0:39](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=39)** The script.js file is set up to fill in the product information.
 >
 > **[0:42](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=42)** It begins with a variable called raw data, which is one long string of JSON data containing information on several products, in everyday code, this would instead use an actual server request that returns JSON data, but for our purposes, we'll assume that's done and the data has been fetched and stored in this variable.
 >
-> **[1:02](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=62)** Further on down, the rest of the file contains code that takes data for each item and adds it to the webpage.
+> **[1:02](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=62)** Further on down, the [[Representational State Transfer (REST)|rest]] of the file contains code that takes data for each item and adds it to the webpage.
 >
-> **[1:08](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=68)** The only step that's missing is to parse the JSON into a format that JavaScript can work with.
+> **[1:08](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=68)** The only step that's missing is to parse the JSON into a format that [[JavaScript]] can work with.
 >
 > **[1:14](https://www.linkedin.com/learning/json-essential-training/work-with-an-http-response?u=76281980&t=74)** JavaScript uses the JSON.parse method to convert a JSON string to a JavaScript object or array.
 >
@@ -1323,7 +1304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[JSON]] (11), [[JavaScript]] (6), web (5), [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [[JSON]] (11), [[JavaScript]] (6), [[Microsoft Products|Products]] (4), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (11)
 > **File Paths:** script.js (2), products.html (1)
 > **CLI Commands:** make (1)
@@ -1332,12 +1313,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Convert between JSON and other data formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980)
+#### [Convert between JSON and other data formats](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=0)** - [Instructor] JSON is not the only data format in wide use, and sometimes, when a program requests data, it's only available in a format other than JSON.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=0)** - [Instructor] [[JSON]] is not the only data format in wide use, and sometimes, when a program requests data, it's only available in a format other than JSON.
 >
 > **[0:09](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=9)** Fortunately, converting is pretty straightforward in many situations.
 >
@@ -1345,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=22)** XML stands for extensible markup language.
 >
-> **[0:25](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=25)** XML is related to HTML, which is the markup language used to structure webpages.
+> **[0:25](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=25)** XML is related to [[HTML]], which is the markup language used to structure webpages.
 >
 > **[0:30](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=30)** XML can be customized in ways that HTML can't and it's been widely used for data exchange since before JSON existed.
 >
@@ -1353,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=42)** You got to love it when the name of a language to structure data can make you laugh.
 >
-> **[0:46](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=46)** YAML was created with the goal of making structured data easy to write and it has fewer rules than other data structures like XML.
+> **[0:46](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=46)** YAML was created with the goal of making structured data easy to write and it has fewer rules than other [[Data Structures]] like XML.
 >
 > **[0:53](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=53)** CSV stands for comma separated values.
 >
@@ -1367,7 +1347,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=78)** Different programming languages use different libraries for data conversion, and often, many libraries are available to choose from.
 >
-> **[1:25](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=85)** For instance, in JavaScript, you can use this XML to JSON utility.
+> **[1:25](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=85)** For instance, in [[JavaScript]], you can use this XML to JSON utility.
 >
 > **[1:29](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=89)** Now this is an older utility, and on the modern web, a lot of frameworks are in use that have this conversion capability built in.
 >
@@ -1411,7 +1391,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=232)** So I'll save those changes.
 >
-> **[3:54](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=234)** Then I'm going to open up products.html and use my web server to open that up in the browser.
+> **[3:54](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=234)** Then I'm going to open up [[Microsoft Products|products]].html and use my web server to open that up in the browser.
 >
 > **[4:00](https://www.linkedin.com/learning/json-essential-training/convert-between-json-and-other-data-formats?u=76281980&t=240)** And now my product data is populated.
 >
@@ -1425,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[JSON]] (13), [[HTML]] (3), [[JavaScript]] (3), web (2)
+> **Frameworks & Libraries:** [[JSON]] (13), [[HTML]] (3), [[JavaScript]] (3), [[Data Structures]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** json (13), xml (13), yaml (3), csv (3), html (2)
 > **Definitions:** stands for (3), is a  (3), is an  (3)
 > **CLI Commands:** make (2), node (2)
@@ -1434,16 +1414,15 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** for instance (1)
 
-#### Make sense of JSON-P
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980)
+#### [Make sense of JSON-P](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=0)** - [Instructor] As you start working with JSON, you'll likely start to encounter other terms with the word JSON in them.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=0)** - [Instructor] As you start working with [[JSON]], you'll likely start to encounter other terms with the [[Microsoft Word|word]] JSON in them.
 >
 > **[0:06](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=6)** That's because JSON is used as a foundation for a few other technologies that rely on structured data.
 >
-> **[0:12](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=12)** One web development approach you may encounter is JSON-P, JSON-P stands for JSON with padding.
+> **[0:12](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=12)** One [[Web Development]] approach you may encounter is JSON-P, JSON-P stands for JSON with padding.
 >
 > **[0:18](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=18)** JSON-P is a technique for fetching data for a webpage that's intended to work around some security limits that web browsers impose on web applications.
 >
@@ -1453,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=38)** This is a same origin policy, and it's intended to prevent malware from injecting a request to another domain that accesses a user' sensitive information, it's a useful limitation.
 >
-> **[0:49](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=49)** And on the modern web servers have many configuration options that enable them to work with selected other domains they trust.
+> **[0:49](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=49)** And on the modern [[Web Servers]] have many configuration options that enable them to work with selected other domains they trust.
 >
 > **[0:56](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=56)** But earlier in the web's evolution, this same origin policy was a blunt tool.
 >
@@ -1461,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=64)** As part of the site's own code a statement is included that adds a script element to the page.
 >
-> **[1:09](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=69)** Adding elements is totally allowed, even script elements, but the script element is going to load a script that returns data and the data is formatted in such a way that the browser makes it accessible to the rest of the application.
+> **[1:09](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=69)** Adding elements is totally allowed, even script elements, but the script element is going to load a script that returns data and the data is formatted in such a way that the browser makes it accessible to the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[1:22](https://www.linkedin.com/learning/json-essential-training/make-sense-of-json-p?u=76281980&t=82)** It's a neat trick and some web services continue to support JSON-P, but JSON-P is not as secure as a standard request for data.
 >
@@ -1473,21 +1452,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), web (9), data (6), [[Security]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Microsoft Word|Word]] (1), [[Web Development]] (1), [[Web Servers]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (12), cors (1), http (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Cross-References:** earlier in (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Examine JSON data used by websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/challenge-examine-json-data-used-by-websites?u=76281980)
+#### [Challenge: Examine JSON data used by websites](https://www.linkedin.com/learning/json-essential-training/challenge-examine-json-data-used-by-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/json-essential-training/challenge-examine-json-data-used-by-websites?u=76281980&t=0)** (light music)
 >
-> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-examine-json-data-used-by-websites?u=76281980&t=8)** - [Instructor] Ready to explore the JSON data that powers some everyday experiences?
+> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-examine-json-data-used-by-websites?u=76281980&t=8)** - [Instructor] Ready to explore the [[JSON]] data that powers some everyday experiences?
 >
 > **[0:12](https://www.linkedin.com/learning/json-essential-training/challenge-examine-json-data-used-by-websites?u=76281980&t=12)** It's time for a challenge.
 >
@@ -1505,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** xhr (3), json (1)
 > **Cross-References:** in the next (1)
 > **Tools:** firefox (1)
@@ -1513,8 +1491,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Examine JSON data used by websites
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980)
+#### [Solution: Examine JSON data used by websites](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1515,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=67)** And so there's all the requests I need to go ahead and deal with their cookie policy.
 >
-> **[1:12](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=72)** So this includes all of the images, all of the JavaScript, all of the HTML, the fonts, everything that's coming on this page, there's an HTTP request for it.
+> **[1:12](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=72)** So this includes all of the images, all of the [[JavaScript]], all of the [[HTML]], the fonts, everything that's coming on this page, there's an HTTP request for it.
 >
 > **[1:22](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=82)** What we want to look at is the XHR requests and that's the data.
 >
@@ -1546,7 +1523,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=92)** So let's keep looking.
 >
-> **[1:34](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=94)** I'm going to try the explore tab, and now I can see that I have one JSON type here.
+> **[1:34](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=94)** I'm going to try the explore tab, and now I can see that I have one [[JSON]] type here.
 >
 > **[1:44](https://www.linkedin.com/learning/json-essential-training/solution-examine-json-data-used-by-websites?u=76281980&t=104)** So I'm going to go ahead and click this file.
 >
@@ -1598,7 +1575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (10), web (3), data (2), [[JavaScript]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (10), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** json (10), http (4), xhr (2), html (1), css (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** open the (2)
@@ -1611,18 +1588,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prevent data reuse
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980)
+#### [Prevent data reuse](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=0)** - [Instructor] When an application makes data available, especially sensitive data like financial information, data security is an important concern.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=0)** - [Instructor] When an application makes data available, especially sensitive data like financial information, [[Data Security]] is an important concern.
 >
-> **[0:08](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=8)** The JSON data in app provides in response to a request can be formatted in many ways.
+> **[0:08](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=8)** The [[JSON]] data in app provides in response to a request can be formatted in many ways.
 >
 > **[0:14](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=14)** For instance, you can provide data that parses into an object, but your data can also be in the form of a JSON array or even a function in the case of JSON-P.
 >
-> **[0:23](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=23)** Because some forms of JSON data can be evaluated as JavaScript by a client, you need to be aware of any security holes opened by different formats and take steps to mitigate them where necessary.
+> **[0:23](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=23)** Because some [[Forms]] of JSON data can be evaluated as [[JavaScript]] by a client, you need to be aware of any security holes opened by different formats and take steps to mitigate them where necessary.
 >
 > **[0:34](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=34)** Browsers enforce what are known as same-origin policies.
 >
@@ -1632,13 +1608,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=51)** So this effectively limits a script from accessing data that comes from another server.
 >
-> **[0:55](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=55)** Now in some cases, I want to permit data sharing, and there are a number of schemes in use that let us do this.
+> **[0:55](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=55)** Now in some cases, I want to permit [[Data Sharing]], and there are a number of schemes in use that let us do this.
 >
 > **[1:01](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=61)** At the same time, I have to recognize any unintentional backdoors and be sure to lock them up.
 >
 > **[1:07](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=67)** Same-origin policies apply to code in a script.
 >
-> **[1:11](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=71)** However, an HTML document can load scripts from any origin.
+> **[1:11](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=71)** However, an [[HTML]] document can load scripts from any origin.
 >
 > **[1:15](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=75)** Some attackers have taken advantage of this by running malicious code that adds a new script element to an HTML document.
 >
@@ -1668,7 +1644,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=183)** In the script.js file for this video, the protected data variable on line one contains data like you might receive from a web service, and this data is prefixed with the while one statement.
 >
-> **[3:15](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=195)** If I open products.html and I go live, and then I open up my console, I can see that there's an error and that the contents of my webpage aren't actually loading.
+> **[3:15](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=195)** If I open [[Microsoft Products|products]].html and I go live, and then I open up my console, I can see that there's an error and that the contents of my webpage aren't actually loading.
 >
 > **[3:28](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=208)** And this is the behavior I want from my raw data, but I don't want to be parsing the data in this form, instead, because I know that my data contains this extra while statement at the start, I can write code to edit that out and work with just the data itself.
 >
@@ -1682,7 +1658,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=260)** And those first nine characters are the while statement.
 >
-> **[4:23](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=263)** So this clean data function is taking my data, removing that while statement, and then returning the rest of it, which is just the data.
+> **[4:23](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=263)** So this clean data function is taking my data, removing that while statement, and then returning the [[Representational State Transfer (REST)|rest]] of it, which is just the data.
 >
 > **[4:31](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980&t=271)** Then down here on line nine, I need to update my existing JSON.parse statement to use that clean data function.
 >
@@ -1706,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), [[JSON]] (8), [[JavaScript]] (4), [[HTML]] (3), web (3)
+> **Frameworks & Libraries:** [[JSON]] (8), [[JavaScript]] (4), [[HTML]] (3), [[Microsoft Products|Products]] (2), [[Data Security]] (1)
 > **Env Vars:** json (8), html (2), http (1), https (1), xssi (1)
 > **Definitions:** known as (2), is an  (1)
 > **File Paths:** script.js (1), products.html (1)
@@ -1715,14 +1691,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** configure (1)
 
-#### Return readable JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980)
+#### [Return readable JSON](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=0)** - [Instructor] Sometimes it's handy to have a JSON string in human readable format.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=0)** - [Instructor] Sometimes it's handy to have a [[JSON]] string in human readable format.
 >
-> **[0:04](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=4)** For instance, when you're encoding a JavaScript object or array into JSON, especially a large one, you may run into problems that require debugging.
+> **[0:04](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=4)** For instance, when you're encoding a [[JavaScript]] object or array into JSON, especially a large one, you may run into problems that require debugging.
 >
 > **[0:12](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=12)** It can be useful to examine the JSON string and identify where things go wrong, but JSON is not made for human readability, so examining the raw JSON won't necessarily do you any good.
 >
@@ -1750,7 +1725,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=103)** But instead of stopping there, I want to add those indents so I can examine the string in the browser console.
 >
-> **[1:49](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=109)** So after the word data, but before that closing paren, I'm going to add a comma, and then I need to add the second argument.
+> **[1:49](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=109)** So after the [[Microsoft Word|word]] data, but before that closing paren, I'm going to add a comma, and then I need to add the second argument.
 >
 > **[1:57](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=117)** Now I don't have a function that I want to use to modify the stringification process, so instead, I'm going to specify null, and then I'm going to add another comma, and then my third argument, and this is the number of spaces to use for indents.
 >
@@ -1760,7 +1735,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=137)** So I'll save that.
 >
-> **[2:18](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=138)** I will open up my products.html file and use my HTTP server to open that in the browser.
+> **[2:18](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=138)** I will open up my [[Microsoft Products|products]].[[HTML]] file and use my HTTP server to open that in the browser.
 >
 > **[2:26](https://www.linkedin.com/learning/json-essential-training/return-readable-json?u=76281980&t=146)** I'll open my Developer Tools, and in the console, I can see that I have readable content here for my last console.log statement.
 >
@@ -1780,7 +1755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), [[JavaScript]] (5), data (5), [[Debugging]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[JavaScript]] (5), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1), [[HTML]] (1)
 > **Env Vars:** json (12), http (1)
 > **Analogies:** for instance (2), such as (1)
 > **File Paths:** script.js (1), products.html (1)
@@ -1788,18 +1763,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Test for an empty object
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980)
+#### [Test for an empty object](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=0)** - [Instructor] When you process data returned from a call to a web service, a useful first step is to check whether any data has been returned.
 >
-> **[0:07](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=7)** A JSON string will generally contain some characters, even if they're just the opening and closing braces for an encoded object or the brackets for an array.
+> **[0:07](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=7)** A [[JSON]] string will generally contain some characters, even if they're just the opening and closing braces for an encoded object or the brackets for an array.
 >
 > **[0:16](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=16)** So parsing is a common first step.
 >
-> **[0:18](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=18)** If you're using JavaScript though, checking whether the object or array is empty isn't as straightforward as checking for empty data of some other types.
+> **[0:18](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=18)** If you're using [[JavaScript]] though, checking whether the object or array is empty isn't as straightforward as checking for empty data of some other types.
 >
 > **[0:26](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=26)** Unlike an empty string, for example, which is falsy in JavaScript, an empty object is truthy.
 >
@@ -1841,7 +1815,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=177)** So I'm going to save my work here.
 >
-> **[2:59](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=179)** I'm going to go ahead, and this is an HTML file.
+> **[2:59](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=179)** I'm going to go ahead, and this is an [[HTML]] file.
 >
 > **[3:02](https://www.linkedin.com/learning/json-essential-training/test-for-an-empty-object?u=76281980&t=182)** So I'm going to use my HTTP server, open this in my browser.
 >
@@ -1925,7 +1899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[JSON]] (3), [[JavaScript]] (2), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), [[HTML]] (1)
 > **Code Identifiers:** testdata (4), emptyobject (3), nonemptyobject (3), datecontent (2), hasownproperty (2)
 > **Env Vars:** json (3), html (1), http (1), api (1)
 > **Definitions:** is an  (2), is a  (1), means that (1)
@@ -1939,12 +1913,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is JSON Schema?
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980)
+#### [What is JSON Schema?](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980&t=0)** - [Instructor] What happens when you make a request for JSON data and the data you receive is different than what you expect?
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980&t=0)** - [Instructor] What happens when you make a request for [[JSON]] data and the data you receive is different than what you expect?
 >
 > **[0:06](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980&t=6)** What if the JSON is organized differently than your code expects, or it's simply not a valid response to your request?
 >
@@ -2004,7 +1977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[JSON]] (9), [[Engineering]] (1), hit (1)
+> **Frameworks & Libraries:** [[JSON]] (9)
 > **Env Vars:** json (9)
 > **Analogies:** for instance (3), imagine (2)
 > **Code Identifiers:** invoicenum (2)
@@ -2013,8 +1986,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a basic schema with JSON Schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980)
+#### [Create a basic schema with JSON Schema](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2028,17 +2000,17 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=17)** But for the purpose of creating a schema, I've stored the data from a request in my file.
 >
-> **[0:22](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=22)** Right now, this is JSON.
+> **[0:22](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=22)** Right now, this is [[JSON]].
 >
 > **[0:24](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=24)** It's a string and the editor won't display it for me with line breaks and indents.
 >
-> **[0:28](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=28)** But I can open product study HTML, start up my live server and look at it in the console.
+> **[0:28](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=28)** But I can open product study [[HTML]], start up my live server and look at it in the console.
 >
 > **[0:35](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=35)** So, I'll go ahead and open that HTML file.
 >
 > **[0:38](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=38)** Start up my HTTP server and then opening up the console.
 >
-> **[0:42](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=42)** My project includes JavaScript code that parses the JSON strings into JavaScript objects and then logs these to the console.
+> **[0:42](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=42)** My project includes [[JavaScript]] code that parses the JSON strings into JavaScript objects and then logs these to the console.
 >
 > **[0:49](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=49)** And now, I can examine the structure of this data.
 >
@@ -2088,7 +2060,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=159)** Generally, you want to use a domain you control and specify a unique path.
 >
-> **[2:43](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=163)** I'm creating a schema for the products displayed on the H+ Sport website.
+> **[2:43](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=163)** I'm creating a schema for the [[Microsoft Products|products]] displayed on the H+ Sport website.
 >
 > **[2:47](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=167)** So, I'll use [http://hplussport.com/schemas/product.json](http://hplussport.com/schemas/product.json).
 >
@@ -2136,7 +2108,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=311)** And then, comma after that object value.
 >
-> **[5:15](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=315)** And then, I just need to go through all the rest of my objects.
+> **[5:15](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=315)** And then, I just need to go through all the [[Representational State Transfer (REST)|rest]] of my objects.
 >
 > **[5:18](https://www.linkedin.com/learning/json-essential-training/create-a-basic-schema-with-json-schema?u=76281980&t=318)** And so, I can switch back to my console and just look here.
 >
@@ -2176,7 +2148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (18), data (16), [[JavaScript]] (8), product (5), api (2)
+> **Frameworks & Libraries:** [[JSON]] (18), [[JavaScript]] (8), [[HTML]] (2), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** json (16), api (2), http (2), html (2), uri (2)
 > **File Paths:** data.js (2), schema.js (1), hplussport.com/schemas/product.json (1)
 > **URLs:** [http://json-schema.org/draft-07/schema](http://json-schema.org/draft-07/schema) (1), [http://hplussport.com/schemas/product.json](http://hplussport.com/schemas/product.json) (1)
@@ -2185,16 +2157,15 @@ created: 2026-05-02
 > **Code Identifiers:** image_title (1)
 > **Documentation:** specification (1)
 
-#### Validate JSON data against a schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980)
+#### [Validate JSON data against a schema](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=0)** - [Instructor] The easiest way to validate JSON data against the JSON Schema is to use a validator written for that purpose.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=0)** - [Instructor] The easiest way to validate [[JSON]] data against the JSON Schema is to use a validator written for that purpose.
 >
-> **[0:07](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=7)** Free open source validators exist for a number of languages, including Java, Python, Ruby and PHP, as well as browser-based utilities.
+> **[0:07](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=7)** Free open source validators exist for a number of languages, including [[Java]], [[Python (Programming Language)|Python]], Ruby and [[PHP]], as well as browser-based utilities.
 >
-> **[0:16](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=16)** For the H+ Sport website, I'll use a JavaScript validator called Ajv.
+> **[0:16](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=16)** For the H+ Sport website, I'll use a [[JavaScript]] validator called Ajv.
 >
 > **[0:21](https://www.linkedin.com/learning/json-essential-training/validate-json-data-against-a-schema?u=76281980&t=21)** Ajv is designed for backend use, but I can try the tool out without installing it by using an online instance called a REPL.
 >
@@ -2270,7 +2241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[JSON]] (4), [[JavaScript]] (2), product (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[JavaScript]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[PHP]] (1)
 > **Env Vars:** json (4), repl (4), php (1)
 > **UI Navigation:** scroll down (2), open the (1), go to (1), select the (1)
 > **CLI Commands:** python (1), ruby (1), php (1), make (1)
@@ -2279,12 +2250,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Specify required properties with JSON Schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/specify-required-properties-with-json-schema?u=76281980)
+#### [Specify required properties with JSON Schema](https://www.linkedin.com/learning/json-essential-training/specify-required-properties-with-json-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/specify-required-properties-with-json-schema?u=76281980&t=0)** - [Instructor] In addition to specifying data types for the properties of JSON data, JSON schema also allows you to specify that one or more properties are required.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/specify-required-properties-with-json-schema?u=76281980&t=0)** - [Instructor] In addition to specifying data types for the properties of [[JSON]] data, JSON schema also allows you to specify that one or more properties are required.
 >
 > **[0:09](https://www.linkedin.com/learning/json-essential-training/specify-required-properties-with-json-schema?u=76281980&t=9)** At this point, my schema specifies a data structure for an array that contains objects and each object contains five properties, ID, name, description, image title and image.
 >
@@ -2386,19 +2356,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[JSON]] (5), product (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (5)
 > **Env Vars:** json (5), ajv (2)
 > **UI Navigation:** scroll down (3), select the (1)
 > **File Paths:** schema.js (1), data.js (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with schema generators
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980)
+#### [Work with schema generators](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=0)** - [Instructor] Building a JSON schema from scratch can be a challenging and tedious process.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=0)** - [Instructor] Building a [[JSON]] schema from scratch can be a challenging and tedious process.
 >
 > **[0:05](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=5)** You can get a leg up on coding the components and the basic structure though by using a schema generator, like the one at [jsonschema.net](https://jsonschema.net).
 >
@@ -2470,7 +2439,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=184)** First, it includes a $schema value by default, along with $id, type, title, and description.
 >
-> **[3:13](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=193)** So these are all metadata keywords for the schema.
+> **[3:13](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=193)** So these are all [[Metadata]] keywords for the schema.
 >
 > **[3:16](https://www.linkedin.com/learning/json-essential-training/work-with-schema-generators?u=76281980&t=196)** And as I scroll through the data, when I start looking at things, I notice that every property that was included in my data is marked as required.
 >
@@ -2554,7 +2523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[JSON]] (12), api (1), web (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Metadata]] (1)
 > **Env Vars:** json (11), uri (2), api (1)
 > **Code Identifiers:** personschema (4), rawpersondata (2)
 > **File Paths:** data.js (2), schema.js (2), hplussport.com/schemas/person.json (1)
@@ -2563,14 +2532,13 @@ created: 2026-05-02
 > **URLs:** [jsonschema.net](https://jsonschema.net) (2), [http://hplussport.com/schemas/person.json](http://hplussport.com/schemas/person.json) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Work with JSON Schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/challenge-work-with-json-schema?u=76281980)
+#### [Challenge: Work with JSON Schema](https://www.linkedin.com/learning/json-essential-training/challenge-work-with-json-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/json-essential-training/challenge-work-with-json-schema?u=76281980&t=0)** (light music)
 >
-> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-work-with-json-schema?u=76281980&t=8)** - [Instructor] Ready to try your hand at working with JSON schema?
+> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-work-with-json-schema?u=76281980&t=8)** - [Instructor] Ready to try your hand at working with [[JSON]] schema?
 >
 > **[0:10](https://www.linkedin.com/learning/json-essential-training/challenge-work-with-json-schema?u=76281980&t=10)** It's time for a challenge.
 >
@@ -2588,7 +2556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), data (2), api (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** json (2), api (1), uri (1)
 > **File Paths:** schema.js (1)
 > **CLI Commands:** make (1)
@@ -2596,8 +2564,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Work with JSON Schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/solution-work-with-json-schema?u=76281980)
+#### [Solution: Work with JSON Schema](https://www.linkedin.com/learning/json-essential-training/solution-work-with-json-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2607,7 +2574,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/json-essential-training/solution-work-with-json-schema?u=76281980&t=19)** Now, if you want an extra challenge sitting down, parsing this data out and then building out level by level, your own schema is a really great challenge, but I'm going to walk through just building this out, using a generator.
 >
-> **[0:33](https://www.linkedin.com/learning/json-essential-training/solution-work-with-json-schema?u=76281980&t=33)** So I'm going to start by copying the content between the quotes, take that to the clipboard, and then I'll go over to [jsonschema.net](https://jsonschema.net) and I'll replace the existing JSON with my JSON.
+> **[0:33](https://www.linkedin.com/learning/json-essential-training/solution-work-with-json-schema?u=76281980&t=33)** So I'm going to start by copying the content between the quotes, take that to the clipboard, and then I'll go over to [jsonschema.net](https://jsonschema.net) and I'll replace the existing [[JSON]] with my JSON.
 >
 > **[0:48](https://www.linkedin.com/learning/json-essential-training/solution-work-with-json-schema?u=76281980&t=48)** And I will go ahead and make a couple changes to the settings.
 >
@@ -2679,7 +2646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JSON]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **File Paths:** schema.js (2), california.com/schemas/weather.json (1)
 > **CLI Commands:** make (3)
 > **URLs:** [jsonschema.net](https://jsonschema.net) (1), [http://explore](http://explore) (1), [california.com](https://california.com) (1)
@@ -2693,14 +2660,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is JSON-LD?
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980)
+#### [What is JSON-LD?](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=0)** - [Instructor] You can create JSON structures and schemas for a wide variety of data, but when you're sharing that data with another organization or receiving data built by someone else, it often takes human intervention to classify the content and decide how to integrate it.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=0)** - [Instructor] You can create [[JSON]] structures and schemas for a wide variety of data, but when you're sharing that data with another organization or receiving data built by someone else, it often takes human intervention to classify the content and decide how to integrate it.
 >
-> **[0:16](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=16)** You can make it possible to automate tasks like this by adding semantic markup to your data.
+> **[0:16](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=16)** You can make it possible to automate tasks like this by adding [[Semantic Markup]] to your data.
 >
 > **[0:21](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=21)** Semantic markup not only organizes the data, but indicates its meaning using a common vocabulary of objects and key names.
 >
@@ -2716,7 +2682,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=65)** Together, these two JSON-LD features enable an application to parse data and make decisions about what it contains and how it should be used.
 >
-> **[1:14](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=74)** For instance, Google encourages websites to include JSON-LD in their HTML to provide page content summaries for search results.
+> **[1:14](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=74)** For instance, [[Google]] encourages websites to include JSON-LD in their [[HTML]] to provide page content summaries for search results.
 >
 > **[1:23](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=83)** JSON-LD also enables applications to examine data from multiple sources and identify how they relate to each other.
 >
@@ -2730,7 +2696,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=124)** This can be especially helpful when retrieving different types of data about a common item from different sources.
 >
-> **[2:10](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=130)** For instance, if I wanted to compile information on organizations for job seekers, one source might provide a company's location and number of employees while another might give me information on the company's diversity policy and ethics policy.
+> **[2:10](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=130)** For instance, if I wanted to compile information on organizations for job seekers, one source might provide a company's location and number of employees while another might give me information on the company's diversity policy and [[Ethics]] policy.
 >
 > **[2:23](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980&t=143)** If both sources provided data structured with JSON-LD, I would be able to recognize the company name as a shared value between both datasets and I could reliably compile all values together into a single merged record.
 >
@@ -2738,7 +2704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[JSON]] (14), application (3), [[Semantic Markup]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (14), [[Semantic Markup]] (2), [[Google]] (1), [[HTML]] (1), [[Ethics]] (1)
 > **Env Vars:** json (14), w3c (1), html (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for instance (4)
@@ -2747,12 +2713,11 @@ created: 2026-05-02
 > **Documentation:** w3c (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement predefined key names
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980)
+#### [Implement predefined key names](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=0)** - [Instructor] Common vocabularies exist for many popular types of data, and JSON-LD supports tagging data using vocabularies from a variety of sources.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=0)** - [Instructor] Common vocabularies exist for many popular types of data, and [[JSON]]-LD supports tagging data using vocabularies from a variety of sources.
 >
 > **[0:09](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=9)** To specify a vocabulary for a JSON object, you use the special @context key name.
 >
@@ -2832,7 +2797,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=191)** And back in my browser, if I go back to the [schema.org](https://schema.org) page for organization, I can see right at the top, it says organization, a [schema.org](https://schema.org) type.
 >
-> **[3:19](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=199)** So I know I can use the word organization as my type value here.
+> **[3:19](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=199)** So I know I can use the [[Microsoft Word|word]] organization as my type value here.
 >
 > **[3:23](https://www.linkedin.com/learning/json-essential-training/implement-predefined-key-names?u=76281980&t=203)** So I'll go back to my code, and use Organization for my type name.
 >
@@ -2890,7 +2855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (16), data (10), next (4), generic (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (16), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (14), url (4), uri (1)
 > **URLs:** [schema.org](https://schema.org) (10), [http://schema.org](http://schema.org) (2)
 > **Definitions:** is a  (4)
@@ -2899,12 +2864,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **UI Navigation:** scroll down (2)
 
-#### Map a data structure with JSON-LD
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/map-a-data-structure-with-json-ld?u=76281980)
+#### [Map a data structure with JSON-LD](https://www.linkedin.com/learning/json-essential-training/map-a-data-structure-with-json-ld?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/map-a-data-structure-with-json-ld?u=76281980&t=0)** - [Instructor] Sometimes it's not realistic to change the key names in JSON data that you want to share.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/map-a-data-structure-with-json-ld?u=76281980&t=0)** - [Instructor] Sometimes it's not realistic to change the key names in [[JSON]] data that you want to share.
 >
 > **[0:05](https://www.linkedin.com/learning/json-essential-training/map-a-data-structure-with-json-ld?u=76281980&t=5)** For instance, if you want to simply provide data from a large database you maintain, and you already use a set of key names that are different from those in the public context and type that you want to use.
 >
@@ -2980,7 +2944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[JSON]] (8), database (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (8)
 > **Env Vars:** json (7), url (5)
 > **URLs:** [schema.org](https://schema.org) (5), [http://www.schema.org](http://www.schema.org) (1)
 > **File Paths:** snippet.json (1)
@@ -2989,12 +2953,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with JSON-LD generators
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980)
+#### [Work with JSON-LD generators](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=0)** - JSON-LD can be relatively straightforward to write for small snippets, but for larger content or content that relies on more than one vocabulary type automatic JSON-LD generators can save you a lot of time.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=0)** - [[JSON]]-LD can be relatively straightforward to write for small snippets, but for larger content or content that relies on more than one vocabulary type automatic JSON-LD generators can save you a lot of time.
 >
 > **[0:13](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=13)** Generators still rely on you to identify the content that corresponds to each key.
 >
@@ -3076,7 +3039,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=203)** And so next I want to copy my JSON-LD code and paste it over into my file.
 >
-> **[3:30](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=210)** Now this generator automatically generates opening and closing script tags for an HTML file, but we're not putting this in HTML.
+> **[3:30](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=210)** Now this generator automatically generates opening and closing script tags for an [[HTML]] file, but we're not putting this in HTML.
 >
 > **[3:38](https://www.linkedin.com/learning/json-essential-training/work-with-json-ld-generators?u=76281980&t=218)** We're going to keep this as just a JSON-LD snippet.
 >
@@ -3110,7 +3073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (16), data (5), [[Search]] (4), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (16), [[HTML]] (2)
 > **Env Vars:** json (15), html (2), url (1)
 > **Ports:** :00 (4)
 > **File Paths:** 5ktraining.txt (1), 5ktraining.json (1)
@@ -3119,20 +3082,19 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - json (1)
 
-#### Add a JSON-LD snippet to a web page
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980)
+#### [Add a JSON-LD snippet to a web page](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=0)** - [Instructor] JSON-LD has a variety of uses.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=0)** - [Instructor] [[JSON]]-LD has a variety of uses.
 >
 > **[0:02](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=2)** Perhaps the most common way that many of us consume JSON-LD content is on the web where JSON-LD snippets may be displayed as part of search results.
 >
-> **[0:11](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=11)** Adding JSON-LD to a webpage uses the same script tags that are used for JavaScript.
+> **[0:11](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=11)** Adding JSON-LD to a webpage uses the same script tags that are used for [[JavaScript]].
 >
 > **[0:17](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=17)** However, while the JavaScript file type is application/javascript, the type for JSON-LD is application/ld+json.
 >
-> **[0:27](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=27)** An HTML document contains two main sections, the head and the body.
+> **[0:27](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=27)** An [[HTML]] document contains two main sections, the head and the body.
 >
 > **[0:32](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=32)** The head contains information about the page, while the body section includes the content that is rendered by a browser, or other user agent, and presented to the user.
 >
@@ -3142,9 +3104,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=50)** I want to add this to the product page for the company website, so search engines can use the information when indexing the site.
 >
-> **[0:56](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=56)** So opening up the products.html file, at the very top of the file, I have a DOCTYPE on line one followed by the opening HTML tag, and then the opening head tag on line three.
+> **[0:56](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=56)** So opening up the [[Microsoft Products|products]].html file, at the very top of the file, I have a DOCTYPE on line one followed by the opening HTML tag, and then the opening head tag on line three.
 >
-> **[1:08](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=68)** Several lines later, on line nine, is the closing head tag, which includes a slash before the word head.
+> **[1:08](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=68)** Several lines later, on line nine, is the closing head tag, which includes a slash before the [[Microsoft Word|word]] head.
 >
 > **[1:15](https://www.linkedin.com/learning/json-essential-training/add-a-json-ld-snippet-to-a-web-page?u=76281980&t=75)** My first step is to add a script tag, for my JSON-LD snippet, anywhere between the start and end head tags.
 >
@@ -3176,21 +3138,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (11), [[HTML]] (4), [[Search]] (3), [[JavaScript]] (3), application (3)
+> **Frameworks & Libraries:** [[JSON]] (11), [[HTML]] (4), [[JavaScript]] (3), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (9), html (3), doctype (1)
 > **File Paths:** products.html (1)
 > **UI Navigation:** switch to (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Structure data with JSON-LD
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/challenge-structure-data-with-json-ld?u=76281980)
+#### [Challenge: Structure data with JSON-LD](https://www.linkedin.com/learning/json-essential-training/challenge-structure-data-with-json-ld?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/json-essential-training/challenge-structure-data-with-json-ld?u=76281980&t=0)** (energetic music)
 >
-> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-structure-data-with-json-ld?u=76281980&t=8)** - [Instructor] Ready to build your own JSON-LD snippet?
+> **[0:08](https://www.linkedin.com/learning/json-essential-training/challenge-structure-data-with-json-ld?u=76281980&t=8)** - [Instructor] Ready to build your own [[JSON]]-LD snippet?
 >
 > **[0:11](https://www.linkedin.com/learning/json-essential-training/challenge-structure-data-with-json-ld?u=76281980&t=11)** It's time for a challenge.
 >
@@ -3216,19 +3177,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), data (3), next (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Env Vars:** json (3)
 > **URLs:** [jasonld.org](https://jasonld.org) (1), [schema.org](https://schema.org) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: Structure data with JSON-LD
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980)
+#### [Solution: Structure data with JSON-LD](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=0)** - [Instructor] I could generate my JSON-LD for a person using a generator, but I'm going to build it myself just to take it step by step what needs to be in the data, and how to put it together.
+> **[0:00](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=0)** - [Instructor] I could generate my [[JSON]]-LD for a person using a generator, but I'm going to build it myself just to take it step by step what needs to be in the data, and how to put it together.
 >
 > **[0:17](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=17)** So I'm going to go ahead and select Person in the JSON-LD playground.
 >
@@ -3300,7 +3260,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=186)** Use Role for expressing dates.
 >
-> **[3:11](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=191)** And then all of the other uses seem to be just talking about the word role.
+> **[3:11](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=191)** And then all of the other uses seem to be just talking about the [[Microsoft Word|word]] role.
 >
 > **[3:16](https://www.linkedin.com/learning/json-essential-training/solution-structure-data-with-json-ld?u=76281980&t=196)** So let me do a broader search on [schema.org](https://schema.org).
 >
@@ -3362,7 +3322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), [[Search]] (4), data (2), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** hasoccupation (3), rolename (3), startdate (3), enddate (3), jobtitle (1)
 > **Env Vars:** json (5), url (4)
 > **URLs:** [schema.org](https://schema.org) (6)
@@ -3376,20 +3336,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=0)** - [Instructor] Thanks so much for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=2)** You now understand what JSON is and a few of the many ways that it's used to structure and exchange data.
+> **[0:02](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=2)** You now understand what [[JSON]] is and a few of the many ways that it's used to structure and exchange data.
 >
 > **[0:09](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=9)** If you want to learn more about programming check here in our library for a course on programming fundamentals.
 >
 > **[0:14](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=14)** To learn more about how to share and access data on the web, try a course on APIs and web services.
 >
-> **[0:20](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=20)** If you're interested in learning more about creating content, that's easy for search engines to index, check out a course on search engine optimization or SEO.
+> **[0:20](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=20)** If you're interested in learning more about creating content, that's easy for search engines to index, check out a course on [[Search Engine Optimization (SEO)|search engine optimization]] or SEO.
 >
 > **[0:28](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980&t=28)** Feel free to follow me online.
 >
@@ -3397,7 +3356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (2), web (2), [[JSON]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** json (1), seo (1)
 > **Speakers:** - [instructor] (1)
 

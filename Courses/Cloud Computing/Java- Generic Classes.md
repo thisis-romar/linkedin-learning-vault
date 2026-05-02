@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generics in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980)
+#### [Generics in Java](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980&t=0)** - [Ketkee] When you write code, it is always better to have bugs and programming issues identified and addressed at compile time, rather than them showing up at runtime.
 >
-> **[0:11](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980&t=11)** Generics in Java provides a way to define parameterized types.
+> **[0:11](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980&t=11)** Generics in [[Java]] provides a way to define parameterized types.
 >
 > **[0:16](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980&t=16)** It implements strict type safety checks at compile time and helps eliminate bugs at runtime.
 >
@@ -108,18 +107,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), feature (2), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [ketkee] (1)
 
-#### Prerequisites for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/prerequisites-for-this-course?u=76281980)
+#### [Prerequisites for this course](https://www.linkedin.com/learning/java-generic-classes-14576260/prerequisites-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/prerequisites-for-this-course?u=76281980&t=0)** - [Instructor] In order to make the most out of this course, there are a few things to consider.
 >
-> **[0:05](https://www.linkedin.com/learning/java-generic-classes-14576260/prerequisites-for-this-course?u=76281980&t=5)** You should have a solid foundation of object-oriented programming concepts in Java.
+> **[0:05](https://www.linkedin.com/learning/java-generic-classes-14576260/prerequisites-for-this-course?u=76281980&t=5)** You should have a solid foundation of [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts in [[Java]].
 >
 > **[0:10](https://www.linkedin.com/learning/java-generic-classes-14576260/prerequisites-for-this-course?u=76281980&t=10)** This includes classes, objects, inheritance, encapsulation, and polymorphism.
 >
@@ -167,14 +165,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the need for generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980)
+#### [Understand the need for generics](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=0)** - [Instructor] Let us understand the need for generics.
 >
-> **[0:03](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=3)** But before that, we will have to know a couple of things well, the first one is recap of a few common terms that we use in the Java language.
+> **[0:03](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=3)** But before that, we will have to know a couple of things well, the first one is recap of a few common terms that we use in the [[Java]] language.
 >
 > **[0:11](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=11)** The first term is type.
 >
@@ -246,7 +243,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=252)** Under this, you have the source folder, the SRC folder, let's right click on it and create a package first.
 >
-> **[4:18](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=258)** So we'll call it com.linkedin.generics.
+> **[4:18](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=258)** So we'll call it com.[[LinkedIn]].generics.
 >
 > **[4:26](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980&t=266)** And on this, I will write a class, let's call this NonGenericsCode.
 >
@@ -396,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (19), data (13), next (7), product (5), application (3)
+> **Frameworks & Libraries:** [[Java]] (19), [[LinkedIn]] (1)
 > **Definitions:** is a  (5), means that (5), is an  (2)
 > **Env Vars:** ide (4), src (1), api (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -405,14 +402,13 @@ created: 2026-05-02
 > **Code Identifiers:** processlanguages (1)
 > **Versions:** java 11 (1)
 
-#### Understand generics in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980)
+#### [Understand generics in Java](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=0)** - [Instructor] Let us now understand what is this generics feature all about.
 >
-> **[0:04](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=4)** Generics in Java gives you a way to define parameterized types.
+> **[0:04](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=4)** Generics in [[Java]] gives you a way to define parameterized types.
 >
 > **[0:08](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=8)** This means that you can have classes and interfaces with parameters enabled on them.
 >
@@ -474,7 +470,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=201)** This kind of a generic class can then hold all kinds of operations to be performed on a varied number of types.
 >
-> **[3:29](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=209)** And this offers developers an opportunity to develop generic algorithms.
+> **[3:29](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=209)** And this offers developers an opportunity to develop generic [[Algorithms]].
 >
 > **[3:34](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=214)** Generics feature was introduced as a part of Java JDK 5.0 version, and it is one of the most indispensable features in the language today.
 >
@@ -546,7 +542,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=396)** So we'll say new ArrayList.
 >
-> **[6:41](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=401)** Now the word ArrayList will again be followed by a pair of angle brackets, and I'm going to mention the type here as well, followed by the pair of round brackets, the constructor call which is the object creation process in Java.
+> **[6:41](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=401)** Now the [[Microsoft Word|word]] ArrayList will again be followed by a pair of angle brackets, and I'm going to mention the type here as well, followed by the pair of round brackets, the constructor call which is the object creation process in Java.
 >
 > **[6:53](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generics-in-java?u=76281980&t=413)** And please note that the type argument String is exactly the same on both the sides of the assignment operator.
 >
@@ -626,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (15), product (9), [[Java]] (8), feature (6), data (6)
+> **Frameworks & Libraries:** [[Java]] (8), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **Cross-References:** previous video (3), go back to (1), we talked about (1)
 > **Env Vars:** api (2), jdk (1), ide (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
@@ -635,8 +631,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Terms in generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980)
+#### [Terms in generics](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=47)** List of E, extends collection of E.
 >
-> **[0:50](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=50)** So, collection of E, is another generic type that has been defined in the Java APIs.
+> **[0:50](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=50)** So, collection of E, is another generic type that has been defined in the [[Java]] APIs.
 >
 > **[0:56](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=56)** Let's also see the Map interface of Java APIs.
 >
@@ -766,7 +761,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=342)** For example, in this line of code, List of String data equal to new ArrayList.
 >
-> **[5:48](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=348)** And then the word ArrayList is followed by a pair of empty angle brackets, and after that, you have the constructor call, which is responsible for the object creation.
+> **[5:48](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=348)** And then the [[Microsoft Word|word]] ArrayList is followed by a pair of empty angle brackets, and after that, you have the constructor call, which is responsible for the object creation.
 >
 > **[5:59](https://www.linkedin.com/learning/java-generic-classes-14576260/terms-in-generics?u=76281980&t=359)** This pair of empty angle brackets that are marked in red, is called the diamond operator.
 >
@@ -806,7 +801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (16), [[Java]] (7), next (4), feature (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (3), is a  (2), known as (2)
 > **Analogies:** for example (6)
 > **Cross-References:** in the next (1), go back to (1), previous video (1)
@@ -815,8 +810,7 @@ created: 2026-05-02
 > **Env Vars:** ide (2)
 > **CLI Commands:** find (1)
 
-#### Rules and naming conventions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980)
+#### [Rules and naming conventions](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=28)** In this, I'll write the main method.
 >
-> **[0:31](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=31)** And now, let's create a list of ints, and this would be primitive ints, so List, that is java.util, the angle brackets, and this time, the type argument is the primitive int.
+> **[0:31](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=31)** And now, let's create a list of ints, and this would be primitive ints, so List, that is [[Java]].util, the angle brackets, and this time, the type argument is the primitive int.
 >
 > **[0:43](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=43)** Let's name this variable as integers, and let's create new ArrayList.
 >
@@ -926,7 +920,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=384)** This naming convention that you see is very different from what Java usually recommends.
 >
-> **[6:29](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=389)** Java recommends that you give elaborate names for your variable, methods, etc., but this kind of a naming convention was designed or laid down to differentiate your type parameters from the rest of your Java code.
+> **[6:29](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=389)** Java recommends that you give elaborate names for your variable, methods, etc., but this kind of a naming convention was designed or laid down to differentiate your type parameters from the [[Representational State Transfer (REST)|rest]] of your Java code.
 >
 > **[6:41](https://www.linkedin.com/learning/java-generic-classes-14576260/rules-and-naming-conventions?u=76281980&t=401)** At the end of the day, this is just a convention.
 >
@@ -934,14 +928,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (11), [[Java]] (7), next (4), feature (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ide (2), api (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages of generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980)
+#### [Advantages of generics](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,15 +956,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980&t=40)** Lastly, Generics have a way to define operations that can be performed on a varied number of types.
 >
-> **[0:46](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980&t=46)** This essentially will give you a chance to develop generic algorithms.
+> **[0:46](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980&t=46)** This essentially will give you a chance to develop generic [[Algorithms]].
 >
-> **[0:51](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980&t=51)** Generics is a very powerful feature in the Java language.
+> **[0:51](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980&t=51)** Generics is a very powerful feature in the [[Java]] language.
 >
 > **[0:54](https://www.linkedin.com/learning/java-generic-classes-14576260/advantages-of-generics?u=76281980&t=54)** Ensure that you always write your code with Generics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Algorithms]] (1), feature (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Java]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructors] (1)
 
@@ -980,8 +973,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generic classes/interface use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-classes-interface-use-case?u=76281980)
+#### [Generic classes/interface use case](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-classes-interface-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,14 +1075,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), generic (3), next (2)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a generic class demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/create-a-generic-class-demo?u=76281980)
+#### [Create a generic class demo](https://www.linkedin.com/learning/java-generic-classes-14576260/create-a-generic-class-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1114,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/java-generic-classes-14576260/create-a-generic-class-demo?u=76281980&t=65)** So we need to incorporate that by means of an instance variable declaration.
 >
-> **[1:10](https://www.linkedin.com/learning/java-generic-classes-14576260/create-a-generic-class-demo?u=76281980&t=70)** So let's go ahead and say private, all your instance variables should always be private in Java.
+> **[1:10](https://www.linkedin.com/learning/java-generic-classes-14576260/create-a-generic-class-demo?u=76281980&t=70)** So let's go ahead and say private, all your instance variables should always be private in [[Java]].
 >
 > **[1:16](https://www.linkedin.com/learning/java-generic-classes-14576260/create-a-generic-class-demo?u=76281980&t=76)** So private, list.
 >
@@ -1304,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (7), next (6), [[Java]] (5)
+> **Frameworks & Libraries:** [[Java]] (5)
 > **Code Identifiers:** tostring (6), getname (2), getweight (2), getauthor (1), getcountryoforigin (1)
 > **UI Navigation:** select the (2), go to (2), click on (2)
 > **Env Vars:** ide (3), pojo (1)
@@ -1312,8 +1302,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand generic methods and constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generic-methods-and-constructors?u=76281980)
+#### [Understand generic methods and constructors](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-generic-methods-and-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,7 +1494,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (25), next (4), api (1)
 > **Versions:** 0.5 (2), 0.25 (1), 0.3 (1)
 > **Env Vars:** ide (1), api (1), cis (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1513,9 +1501,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Implement a generic method as a utility
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/implement-a-generic-method-as-a-utility?u=76281980)
+#### [Implement a generic method as a utility](https://www.linkedin.com/learning/java-generic-classes-14576260/implement-a-generic-method-as-a-utility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1615,15 +1603,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (12), next (1)
 > **Code Identifiers:** getcountofitems (5), fruitbox (2), getitems (1), bookbox (1)
 > **Cross-References:** go back to (2), previous video (1), we mentioned (1)
 > **Env Vars:** ide (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Using bounded types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/using-bounded-types?u=76281980)
+#### [Using bounded types](https://www.linkedin.com/learning/java-generic-classes-14576260/using-bounded-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,7 +1633,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/java-generic-classes-14576260/using-bounded-types?u=76281980&t=48)** So how do you implement this?
 >
-> **[0:50](https://www.linkedin.com/learning/java-generic-classes-14576260/using-bounded-types?u=76281980&t=50)** Java in conjunction with inheritance provides a very powerful and elegant solution to define bounded types in order to implement such scenarios.
+> **[0:50](https://www.linkedin.com/learning/java-generic-classes-14576260/using-bounded-types?u=76281980&t=50)** [[Java]] in conjunction with inheritance provides a very powerful and elegant solution to define bounded types in order to implement such scenarios.
 >
 > **[1:00](https://www.linkedin.com/learning/java-generic-classes-14576260/using-bounded-types?u=76281980&t=60)** So bounded types help you to add restrictions and these restrictions can be specified using the extends keyword.
 >
@@ -1939,7 +1925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (8), [[Java]] (8), api (4), next (2), application (1)
+> **Frameworks & Libraries:** [[Java]] (8)
 > **Code Identifiers:** getweight (10), gettotalweight (6), getcountofitems (1), bookbox (1)
 > **Versions:** 0.5 (2), 0.0 (1), 0.25 (1), 0.75 (1), 0.3 (1)
 > **Definitions:** is a  (4), is an  (2), means that (1)
@@ -1948,8 +1934,7 @@ created: 2026-05-02
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2)
 
-#### Challenge: Write code using generic classes/bounded types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/challenge-write-code-using-generic-classes-bounded-types?u=76281980)
+#### [Challenge: Write code using generic classes/bounded types](https://www.linkedin.com/learning/java-generic-classes-14576260/challenge-write-code-using-generic-classes-bounded-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1954,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/java-generic-classes-14576260/challenge-write-code-using-generic-classes-bounded-types?u=76281980&t=39)** Then add yet another method to calculate the maximum value among them.
 >
-> **[0:44](https://www.linkedin.com/learning/java-generic-classes-14576260/challenge-write-code-using-generic-classes-bounded-types?u=76281980&t=44)** And to do the above, you could always use standard APIs in Java as far as possible to perform your mathematical operations.
+> **[0:44](https://www.linkedin.com/learning/java-generic-classes-14576260/challenge-write-code-using-generic-classes-bounded-types?u=76281980&t=44)** And to do the above, you could always use standard APIs in [[Java]] as far as possible to perform your mathematical operations.
 >
 > **[0:51](https://www.linkedin.com/learning/java-generic-classes-14576260/challenge-write-code-using-generic-classes-bounded-types?u=76281980&t=51)** So there is no need to sit and write your own logic for either sorting or getting the maximum value among the numbers.
 >
@@ -1987,12 +1972,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Java]] (1), generic (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Write code using generic classes/bounded types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980)
+#### [Solution: Write code using generic classes/bounded types](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2006,13 +1990,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=19)** This project will hold only our challenge solution.
 >
-> **[0:22](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=22)** It's a Java version 11 project.
+> **[0:22](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=22)** It's a [[Java]] version 11 project.
 >
 > **[0:24](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=24)** Let's say next and give it a name.
 >
 > **[0:27](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=27)** So we will call that ChallengeSolution.
 >
-> **[0:31](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=31)** The project opens up in a new Window and under the source folder, let's create a package first which is com.linkedin.generics.solution.
+> **[0:31](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=31)** The project opens up in a new Window and under the source folder, let's create a package first which is com.[[LinkedIn]].generics.solution.
 >
 > **[0:48](https://www.linkedin.com/learning/java-generic-classes-14576260/solution-write-code-using-generic-classes-bounded-types?u=76281980&t=48)** Let's get started now with building the solution.
 >
@@ -2164,7 +2148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Java]] (3), api (3), [[LinkedIn]] (1), generic (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[LinkedIn]] (1)
 > **Code Identifiers:** getmax (3), sortnumbers (2), numericaloperations (2), longlist (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
@@ -2178,12 +2162,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generic class hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980)
+#### [Generic class hierarchies](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980&t=0)** - [Instructor] Let us now understand generic class hierarchies but before that, let's do a quick recap of Java inheritance.
+> **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980&t=0)** - [Instructor] Let us now understand generic class hierarchies but before that, let's do a quick recap of [[Java]] inheritance.
 >
 > **[0:06](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980&t=6)** When you implement inheritance with Java, you can always assign an object of the child class to a reference variable of the parent class.
 >
@@ -2373,15 +2356,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (21), [[Java]] (6), next (5), data (2)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Code Identifiers:** gettotalweight (3)
 > **Env Vars:** ide (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type argument hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/type-argument-hierarchies?u=76281980)
+#### [Type argument hierarchies](https://www.linkedin.com/learning/java-generic-classes-14576260/type-argument-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2401,7 +2383,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/java-generic-classes-14576260/type-argument-hierarchies?u=76281980&t=29)** Let's see how.
 >
-> **[0:30](https://www.linkedin.com/learning/java-generic-classes-14576260/type-argument-hierarchies?u=76281980&t=30)** We know that the class double is a subclass, of the class number in the Java APIs.
+> **[0:30](https://www.linkedin.com/learning/java-generic-classes-14576260/type-argument-hierarchies?u=76281980&t=30)** We know that the class double is a subclass, of the class number in the [[Java]] APIs.
 >
 > **[0:36](https://www.linkedin.com/learning/java-generic-classes-14576260/type-argument-hierarchies?u=76281980&t=36)** Now, just because this relationship is true, that does not mean that an array list of double, becomes a subtype of list of number.
 >
@@ -2525,15 +2507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), next (3), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand type erasure in generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980)
+#### [Understand type erasure in generics](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2551,7 +2532,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=26)** So what really happens in the type erasure process.
 >
-> **[0:28](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=28)** In this the Java compiler is going to replace your type parameters.
+> **[0:28](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=28)** In this the [[Java]] compiler is going to replace your type parameters.
 >
 > **[0:33](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=33)** And there are two scenarios here.
 >
@@ -2641,7 +2622,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=267)** There is one last bit of information that we need to understand in type erasure.
 >
-> **[4:32](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=272)** That is generic's metadata in the .class files.
+> **[4:32](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=272)** That is generic's [[Metadata]] in the .class files.
 >
 > **[4:35](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-erasure-in-generics?u=76281980&t=275)** In order to do this let's look at the decompiled version of the ArrayList class in our IntelliJ IDE.
 >
@@ -2693,7 +2674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (8), data (4), [[Metadata]] (4), [[Java]] (3), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Java]] (3)
 > **Definitions:** means that (2), is a  (2), is called (1), is an  (1)
 > **Env Vars:** ide (3)
 > **Tools:** intellij (2)
@@ -2702,8 +2683,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand bridge methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-bridge-methods?u=76281980)
+#### [Understand bridge methods](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-bridge-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2711,7 +2691,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-bridge-methods?u=76281980&t=5)** This is applicable in certain unanticipated situation where some subclasses extend generic classes and they're needed, because the type erasure for the overriding method in the subclass is different from the type erasure of the method in the superclass.
 >
-> **[0:21](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-bridge-methods?u=76281980&t=21)** So in order to handle this kind of a situation, Java compiler generates a synthetic method for you which is the bridge method.
+> **[0:21](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-bridge-methods?u=76281980&t=21)** So in order to handle this kind of a situation, [[Java]] compiler generates a synthetic method for you which is the bridge method.
 >
 > **[0:29](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-bridge-methods?u=76281980&t=29)** Now, this is just an implementation detail.
 >
@@ -2761,15 +2741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (4), [[Java]] (3), api (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** api (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand type inference and target types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980)
+#### [Understand type inference and target types](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2805,7 +2784,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=66)** So now, I'm going to find out what is the type of list that was returned.
 >
-> **[1:10](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=70)** And I will do that using a Java 11 feature of the var keyboard or the var keyboard, as they say.
+> **[1:10](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=70)** And I will do that using a [[Java]] 11 feature of the var keyboard or the var keyboard, as they say.
 >
 > **[1:17](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=77)** the var keyboard, which is this allows you to create a local variable without mentioning a data type to it.
 >
@@ -3095,7 +3074,7 @@ created: 2026-05-02
 >
 > **[13:39](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=819)** Let's look at the last one, that is with target types.
 >
-> **[13:42](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=822)** This means, that the compiler is going to infer the types based on the target that you're using in order to fetch the value of the method invocation.
+> **[13:42](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=822)** This means, that the compiler is going to infer the types based on the target that you're using in order to [[Fetch]] the value of the method invocation.
 >
 > **[13:53](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-type-inference-and-target-types?u=76281980&t=833)** Let's see this with an example.
 >
@@ -3177,7 +3156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), next (3), [[Java]] (1), feature (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (11), is called (3), is an  (3), means that (1)
 > **Env Vars:** ide (6)
 > **Cross-References:** go back to (6)
@@ -3186,11 +3165,9 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), open the (1), go to (1)
 > **CLI Commands:** find (2)
 
-#### Applying wildcard arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/applying-wildcard-arguments?u=76281980)
+#### [Applying wildcard arguments](https://www.linkedin.com/learning/java-generic-classes-14576260/applying-wildcard-arguments?u=76281980)
 
-#### Restrictions on generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/restrictions-on-generics?u=76281980)
+#### [Restrictions on generics](https://www.linkedin.com/learning/java-generic-classes-14576260/restrictions-on-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3218,7 +3195,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/java-generic-classes-14576260/restrictions-on-generics?u=76281980&t=69)** The next restriction is on the instanceof operator.
 >
-> **[1:12](https://www.linkedin.com/learning/java-generic-classes-14576260/restrictions-on-generics?u=76281980&t=72)** instanceof operator in Java is used to check if a variable is an instance of a certain class and this check happens at runtime.
+> **[1:12](https://www.linkedin.com/learning/java-generic-classes-14576260/restrictions-on-generics?u=76281980&t=72)** instanceof operator in [[Java]] is used to check if a variable is an instance of a certain class and this check happens at runtime.
 >
 > **[1:21](https://www.linkedin.com/learning/java-generic-classes-14576260/restrictions-on-generics?u=76281980&t=81)** Let's say, if you write code like this, Box<fruit>fruitBox = new Box<>(); and then you make a check like this, if (fruitBox instanceof Box<Fruit>).
 >
@@ -3274,7 +3251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), generic (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** fruitbox (5), fruitboxarray (1), bookbox (1)
 > **Definitions:** is an  (5), is a  (1)
 > **CLI Commands:** make (3)
@@ -3287,14 +3264,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980&t=0)** - [Ketkee] Now that you are equipped with the fundamental knowledge of generics, it would be beneficial for you to pick up and learn the collections framework in detail if you haven't already done so.
 >
-> **[0:12](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980&t=12)** You can use the course, "Learning Collections in Java," right here on LinkedIn Learning.
+> **[0:12](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980&t=12)** You can use the course, "Learning Collections in [[Java]]," right here on [[LinkedIn]] Learning.
 >
 > **[0:17](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980&t=17)** Even if you know the collections framework, it would still make a of sense to look at it again in order to understand the best practices that Java collections framework uses with generics.
 >

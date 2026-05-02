@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting answers from data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980)
+#### [Getting answers from data](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=14)** Wouldn't it be nice if you could just ask your data a question in natural language and have it answer you?
 >
-> **[0:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=20)** Well, by connecting the power of generative AI to data, we can do just that, and in this course, you'll learn how.
+> **[0:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=20)** Well, by connecting the power of [[Generative AI]] to data, we can do just that, and in this course, you'll learn how.
 >
 > **[0:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=27)** Hi, I'm Josh.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=58)** You've also been asked to see if there are any insights that can be gleaned from the last 10 years of research papers that have been saved.
 >
-> **[1:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=64)** You pause and think about how the structured data, sales numbers, customer demographics, and performance metrics are all in the database and ready to query.
+> **[1:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=64)** You pause and think about how the structured data, sales numbers, customer demographics, and [[Performance Metrics]] are all in the database and ready to query.
 >
 > **[1:13](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=73)** But the emails, is the research locked away in PDFs and the feedback scattered all across social media?
 >
@@ -137,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=114)** From smart watches and tech-enabled glasses to audio recording pendants, there are more and more ways to capture data from our day-to-day life.
 >
-> **[2:02](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=122)** Armed with today's generative AI tools, we can now make sense of all of this data, gain longer term memory, and ask questions about the data that these devices record.
+> **[2:02](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=122)** Armed with today's [[Generative AI Tools]], we can now make sense of all of this data, gain longer term memory, and ask questions about the data that these devices record.
 >
 > **[2:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=132)** This presents a big opportunity for anyone that wants to get answers to their questions from all of their data, not just the data that sits nicely in tables.
 >
@@ -145,7 +144,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=148)** Now it's a good time to stop for a second and introduce myself.
 >
-> **[2:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=151)** My name is Josh and I'm a developer advocate at Snowflake.
+> **[2:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=151)** My name is Josh and I'm a developer advocate at [[Snowflake]].
 >
 > **[2:34](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=154)** I joined the Snowflake team via a startup that Snowflake acquired named TruEra that was focused on building tooling for trustworthy AI.
 >
@@ -159,7 +158,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=188)** So in this course, we're going to learn how to build applications that enable users to ask questions of their data, whether structured or unstructured, all using natural language and without having to rely on an analyst or a programmer to get those answers.
 >
-> **[3:22](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=202)** We'll do this using two approaches, retrieval-augmented generation or RAG for unstructured data and text-to-SQL for structured data.
+> **[3:22](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=202)** We'll do this using two approaches, [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG for [[Unstructured Data]] and text-to-[[SQL]] for structured data.
 >
 > **[3:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=211)** We'll first introduce these approaches in a general sense in this module, and then we'll learn how to implement them using Snowflake in upcoming modules.
 >
@@ -199,7 +198,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=302)** In this video, we introduced the course and noted that we'll use RAG for unstructured data and text-to-SQL for structured data to enable users to ask questions of their data.
 >
-> **[5:10](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=310)** When used together, these two tools can empower application development by enabling dynamic and intelligent interactions with databases all using natural language.
+> **[5:10](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=310)** When used together, these two tools can empower [[Application Development]] by enabling dynamic and intelligent interactions with [[Databases]] all using natural language.
 >
 > **[5:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980&t=320)** Think about how these tools could impact the performance and workflows around you.
 >
@@ -207,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[SQL]] (5), [[Generative AI]] (4), [[Snowflake]] (4), rag (4)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Generative AI]] (4), [[Snowflake]] (4), [[Unstructured Data]] (4), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2)
 > **Env Vars:** sql (5), rag (4), complete (1)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **CLI Commands:** make (2)
@@ -216,14 +215,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Getting answers from data: Using RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980)
+#### [Getting answers from data: Using RAG](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=0)** - Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=1)** In this video, we're going to look at how RAG helps us find answers from reams, documents, books, transcripts, and other unstructured data.
+> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=1)** In this video, we're going to look at how RAG helps us find answers from reams, documents, books, transcripts, and other [[Unstructured Data]].
 >
 > **[0:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=9)** Imagine a curious child.
 >
@@ -259,13 +257,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=96)** To stretch the metaphor a bit, this is efficient because the child does not have to carry all of the current knowledge of the world in their head to be ready to answer questions.
 >
-> **[1:44](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=104)** Instead, they can just fetch what they need and answer using the information gathered.
+> **[1:44](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=104)** Instead, they can just [[Fetch]] what they need and answer using the information gathered.
 >
 > **[1:49](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=109)** In an idealized world, we would be able to give all of the information to our LMs at infancy time so that they could answer all questions correctly.
 >
 > **[1:57](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=117)** But there are important limitations that stand in our way.
 >
-> **[2:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=121)** One problem is the limited context windows compared to the data that we want to query.
+> **[2:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=121)** One problem is the limited context [[Windows]] compared to the data that we want to query.
 >
 > **[2:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=126)** To work around this, RAG pulls out only the most relevant information to deliver into the context window.
 >
@@ -277,7 +275,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=147)** Perhaps one day we'll be able to solve this and have LMs that can generate answers losslessly.
 >
-> **[2:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=152)** Even in that case, it'd be obscenely expensive to process all of our tokens each time we call the model.
+> **[2:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=152)** Even in that case, it'd be obscenely expensive to process all of our [[Tokens]] each time we call the model.
 >
 > **[2:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=158)** Until then, we have RAG.
 >
@@ -287,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=173)** I want to paint a picture in your head about why we need RAG and some of the useful things it can do for us when we're building question answering apps.
 >
-> **[3:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=180)** So in the next video, we'll look at Text-to-SQL and how it can be used to build the same sort of apps, but this time for data sitting in structured format.
+> **[3:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=180)** So in the next video, we'll look at Text-to-[[SQL]] and how it can be used to build the same sort of apps, but this time for data sitting in structured format.
 >
 > **[3:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-rag?u=76281980&t=189)** See you in a moment.
 >
@@ -295,7 +293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (7), data (3), [[Unstructured Data]] (2), [[Fetch]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Fetch]] (1), [[Windows]] (1), [[Tokens]] (1), [[SQL]] (1)
 > **Env Vars:** rag (7), sql (1)
 > **Analogies:** imagine (3), kind of like (1), similar to (1), just like (1), picture (1)
 > **CLI Commands:** find (1), make (1)
@@ -304,8 +302,7 @@ created: 2026-05-02
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (uptempo music) (1)
 
-#### Getting answers from data: Using text-to-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980)
+#### [Getting answers from data: Using text-to-SQL](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,13 +310,13 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=1)** Now, let's talk about another tool that we have in our toolbelt.
 >
-> **[0:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=4)** Text to SQL.
+> **[0:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=4)** Text to [[SQL]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=6)** And let's go back to the story about the child in the library from earlier.
 >
 > **[0:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=9)** This time, let's think about what a high school student would do when exploring a new library for their first time.
 >
-> **[0:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=15)** Unlike before, when the child was running in with a question, grabbing different books, articles, and newspapers that they needed on their own and running away, this time, the high school student has access to the library's data management system and can query the library records.
+> **[0:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=15)** Unlike before, when the child was running in with a question, grabbing different books, articles, and newspapers that they needed on their own and running away, this time, the high school student has access to the library's [[Data Management]] system and can query the library records.
 >
 > **[0:29](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=29)** In this case, the student has to learn about how to use the library software interface, and they must know all of the identifying and cataloging information and how to query this information before they have any chance of finding the answer to their question.
 >
@@ -341,9 +338,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=98)** So let's move on from the library back into the business world.
 >
-> **[1:41](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=101)** It goes without saying that accuracy in any response to a business intelligence query is vitally important.
+> **[1:41](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=101)** It goes without saying that accuracy in any response to a [[Business Intelligence (BI)|business intelligence]] query is vitally important.
 >
-> **[1:48](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=108)** LLMs, even those trained for SQL generation, have difficulty understanding real world databases and schemas, especially when these databases often have hundreds of tables and require complex joins to query correctly, at least when the LLM is operating alone.
+> **[1:48](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=108)** LLMs, even those trained for SQL generation, have difficulty understanding real world [[Databases]] and schemas, especially when these databases often have hundreds of tables and require complex joins to query correctly, at least when the LLM is operating alone.
 >
 > **[2:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data-using-text-to-sql?u=76281980&t=124)** This is an important challenge to overcome.
 >
@@ -391,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (11), data (10), llm (3), [[Databases]] (3), business (2)
+> **Frameworks & Libraries:** [[SQL]] (11), [[Databases]] (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Data Management]] (1)
 > **Env Vars:** sql (11), llm (3), rag (1)
 > **Cross-References:** go back to (1), we discussed (1), in the last (1), coming up (1), in the next (1)
 > **Analogies:** just like (1), analogous to (1), picture (1)
@@ -400,8 +397,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), you'll need (1)
 > **Speakers:** - hi (1)
 
-#### What we will build: Success in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980)
+#### [What we will build: Success in this course](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,11 +405,11 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=1)** Now that we have done a high level overview of the course, let's talk about who this course is best suited for.
 >
-> **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=7)** This course is open to anybody, but it's going to be best suited for AI builders such as data scientists, machine learning engineers, or AI builders who are interested in developing applications and practices that unlock unstructured data and provide a direct connection between users and the data that they want to ask questions of.
+> **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=7)** This course is open to anybody, but it's going to be best suited for AI builders such as data scientists, machine learning engineers, or AI builders who are interested in developing applications and practices that unlock [[Unstructured Data]] and provide a direct connection between users and the data that they want to ask questions of.
 >
-> **[0:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=25)** To succeed in this course, you should have experience with Snowflake, Python, and SQL.
+> **[0:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=25)** To succeed in this course, you should have experience with [[Snowflake]], [[Python (Programming Language)|Python]], and [[SQL]].
 >
-> **[0:30](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=30)** A basic understanding of generative AI concepts will be helpful as well.
+> **[0:30](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=30)** A basic understanding of [[Generative AI]] concepts will be helpful as well.
 >
 > **[0:34](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-we-will-build-success-in-this-course?u=76281980&t=34)** Our Intro to Generative AI course covered a lot of information and a highly recommend taking it after you've completed this course.
 >
@@ -461,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Snowflake]] (8), [[Unstructured Data]] (5), [[SQL]] (4), rag (4)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Unstructured Data]] (5), [[SQL]] (4), [[Generative AI]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (4), rag (4), pdf (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** python (1)
@@ -475,14 +471,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying unstructured data: RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980)
+#### [Querying unstructured data: RAG](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=0)** - Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=1)** In this video, we're going to briefly cover how we get answers from unstructured data.
+> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=1)** In this video, we're going to briefly cover how we get answers from [[Unstructured Data]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=6)** As I mentioned earlier, most of the data in the world is unstructured.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=41)** Retail analysts deal with a combination of unstructured data from customer emails, images, voice, and store traffic.
 >
-> **[0:48](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=48)** Financial data often includes contracts, agreements, and earnings call transcripts, and logistics operators can examine shipping manifests to see what is going where at any given time to track demand patterns.
+> **[0:48](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=48)** [[Financial Data]] often includes contracts, agreements, and earnings call transcripts, and logistics operators can examine shipping manifests to see what is going where at any given time to track demand patterns.
 >
 > **[0:59](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=59)** Lawyers and paralegals scan legal briefs and court decisions to learn about new case law as it develops.
 >
@@ -512,7 +507,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=78)** For starters, the document that a workplace creates every day record the day-to-day events in an industry or workplace.
 >
-> **[1:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=84)** A lot of this information is valuable, but not queryable from databases.
+> **[1:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=84)** A lot of this information is valuable, but not queryable from [[Databases]].
 >
 > **[1:29](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=89)** There's a lot of information sitting out in the open, ready for us to grab it and draw insights from.
 >
@@ -526,7 +521,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=117)** Let's take a classic simplified example where we've plotted the words queen, king, man, and woman in a two-dimensional vector space.
 >
-> **[2:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=125)** Because each word is located in the vector space based on its meaning, we can understand relations between the words based on their position relative to each other in the vector space.
+> **[2:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=125)** Because each [[Microsoft Word|word]] is located in the vector space based on its meaning, we can understand relations between the words based on their position relative to each other in the vector space.
 >
 > **[2:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980&t=135)** For example, we can say that king plus woman minus man is more or less queen.
 >
@@ -552,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Unstructured Data]] (8), rag (2), teams (1), traffic (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (8), [[Financial Data]] (1), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** rag (2), pdf (1), llm (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
@@ -561,8 +556,7 @@ created: 2026-05-02
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (light music) (1)
 
-#### Querying unstructured data: Hybrid search
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980)
+#### [Querying unstructured data: Hybrid search](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=18)** In keyword search each vector will be the length of the number of unique words that are in your text corpus.
 >
-> **[0:23](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=23)** Each element in the vector represents a unique word.
+> **[0:23](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=23)** Each element in the vector represents a unique [[Microsoft Word|word]].
 >
 > **[0:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=27)** Any word represented in the text will be captured with a one, and all other elements in the vector will be zero.
 >
@@ -630,7 +624,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=177)** We'll talk about this in more detail later in the course.
 >
-> **[3:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=180)** So in this module, we discussed a high level overview of how we get answers from our unstructured data.
+> **[3:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=180)** So in this module, we discussed a high level overview of how we get answers from our [[Unstructured Data]].
 >
 > **[3:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-hybrid-search?u=76281980&t=186)** It's important to understand the conceptual structure of how we search our unstructured data with hybrid search and re-ranking to build a highly performance search system.
 >
@@ -642,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (26), llm (3), [[Microsoft Word|Word]] (2), data (2), [[Unstructured Data]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Unstructured Data]] (2)
 > **Env Vars:** llm (3), rag (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** later in (1), we discussed (1), in the next (1)
@@ -650,14 +644,13 @@ created: 2026-05-02
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Querying structured data: Text-to-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980)
+#### [Querying structured data: Text-to-SQL](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=0)** - Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=1)** We covered the basics of how Text-to-SQL allows us to ask questions and get accurate answers from our structured data in an earlier video.
+> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=1)** We covered the basics of how Text-to-[[SQL]] allows us to ask questions and get accurate answers from our structured data in an earlier video.
 >
 > **[0:10](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=10)** So let's go into more detail here before we start building our applications in the following modules.
 >
@@ -687,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=95)** Imagine for a second that I am someone who prizes themselves on delivering valuable insights to people.
 >
-> **[1:40](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=100)** One morning my boss storms into my office, looking frustrated, and asks, "Why are last week's sales numbers dropping in the Southwest Region?"
+> **[1:40](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=100)** One morning my boss storms into my [[Microsoft Office|office]], looking frustrated, and asks, "Why are last week's sales numbers dropping in the Southwest Region?"
 >
 > **[1:48](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=108)** I tell my boss that I'll look into it.
 >
@@ -705,9 +698,9 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=145)** I'm becoming frustrated with having to constantly craft bespoke queries, and my boss is frustrated that the answers keep taking so long to get.
 >
-> **[2:33](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=153)** So, let's talk about dashboards for a second.
+> **[2:33](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=153)** So, let's talk about [[Dashboards]] for a second.
 >
-> **[2:36](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=156)** Dashboards are very popular business intelligence tools, but they only display what they are built to display.
+> **[2:36](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=156)** Dashboards are very popular [[Business Intelligence (BI)|business intelligence]] tools, but they only display what they are built to display.
 >
 > **[2:42](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=162)** So if someone has a question that the dashboard does not answer, they get up and head over to someone like me to ask the question.
 >
@@ -773,7 +766,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=368)** So applications that use Text-to-SQL enable users to directly query their data and get responses that are highly precise.
 >
-> **[6:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=375)** These answers can then be used to power BI applications, or they can be used to ground LLM generation in conversational apps.
+> **[6:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=375)** These answers can then be used to [[Microsoft Power BI|power BI]] applications, or they can be used to ground LLM generation in conversational apps.
 >
 > **[6:22](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=382)** Really flexible tools.
 >
@@ -787,7 +780,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=411)** Please go through the short reading after this video to set up your account and your notebook environment.
 >
-> **[6:56](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=416)** If you've taken our Intro to Generative AI course, we've improved a couple things and made it even easier to create a new notebook.
+> **[6:56](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=416)** If you've taken our Intro to [[Generative AI]] course, we've improved a couple things and made it even easier to create a new notebook.
 >
 > **[7:02](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-structured-data-text-to-sql?u=76281980&t=422)** After you finish the readings, we'll talk quickly about the concrete projects you'll build in the course, discuss goal setting, and then we'll dive into the practical modules of this course.
 >
@@ -797,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (18), data (12), llm (6), database (5), [[Dashboards]] (3)
+> **Frameworks & Libraries:** [[SQL]] (18), [[Dashboards]] (3), [[Microsoft Office|Office]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** sql (18), llm (6)
 > **Analogies:** such as (2), imagine (1), similar to (1), just like (1)
 > **CLI Commands:** make (2), find (1)
@@ -806,18 +799,17 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1), set up (1)
 > **Speakers:** - welcome (1)
 
-#### Let’s dive in
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980)
+#### [Let’s dive in](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=0)** - Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=1)** Now that you have your notebook set up, you're ready to get started on building your own generative AI applications.
+> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=1)** Now that you have your notebook set up, you're ready to get started on building your own [[Generative AI]] applications.
 >
 > **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=7)** These applications can query any data no matter what the look of it it is.
 >
-> **[0:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=12)** To do this, we'll work in this Snowflake environment, which will allow us to access enterprise data and generative AI primitives.
+> **[0:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=12)** To do this, we'll work in this [[Snowflake]] environment, which will allow us to access enterprise data and generative AI primitives.
 >
 > **[0:19](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=19)** These primitives are ready for AI engineers and scientists to use and are what we'll use in this course.
 >
@@ -837,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=61)** Thanks for sticking with me this far.
 >
-> **[1:03](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=63)** I'm very excited about what we're going to build together in the rest of this course.
+> **[1:03](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=63)** I'm very excited about what we're going to build together in the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[1:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/let-s-dive-in?u=76281980&t=67)** Now, let's get started.
 >
@@ -845,7 +837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), data (2), ai (2), career (2), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Snowflake]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - welcome (1)
@@ -856,8 +848,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Opening up unstructured data with RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980)
+#### [Opening up unstructured data with RAG](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=23)** So imagine a treasure chest, where 80% of the wealth remains untouched.
 >
-> **[0:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=27)** That's what's happening with unstructured data today.
+> **[0:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=27)** That's what's happening with [[Unstructured Data]] today.
 >
 > **[0:30](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=30)** It's not just lost value, it's lost opportunities to predict trends, understand our customers, and gain a competitive advantage.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=43)** To do this, we'll build a rag using Cortex Search as our backend for retrieval and a Cortex LM for generation.
 >
-> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=51)** We'll walk through how to create a Cortex Search service and learn how it works under the hood, and we'll do this with a live example where you'll load unstructured data in the form of PDFs to a Snowflake stage, and then parse and split the documents into chunks that the search service can consume.
+> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=51)** We'll walk through how to create a Cortex Search service and learn how it works under the hood, and we'll do this with a live example where you'll load unstructured data in the form of PDFs to a [[Snowflake]] stage, and then parse and split the documents into chunks that the search service can consume.
 >
 > **[1:08](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=68)** Of course, we'll create a Cortex Search service that sits on the data we've prepared.
 >
@@ -901,7 +892,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=110)** The problem is that not everyone is able to attend these meetings and frankly, reading meeting minutes, really boring.
 >
-> **[1:57](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=117)** It'd be great if there is a way for everyone in the community to get their questions answered about what went on at the meeting, but it can be really time consuming for the council to spread the word and answer the questions from all of our neighbors about decisions made by the council.
+> **[1:57](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=117)** It'd be great if there is a way for everyone in the community to get their questions answered about what went on at the meeting, but it can be really time consuming for the council to spread the [[Microsoft Word|word]] and answer the questions from all of our neighbors about decisions made by the council.
 >
 > **[2:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=132)** And it's critical that the community always gets the latest accurate information.
 >
@@ -919,7 +910,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=187)** FOMC minutes are detailed records of the discussions and actions taken by the Federal Reserve regarding monetary policy.
 >
-> **[3:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=195)** These are released three weeks after each meeting, and they provide insights into the Fed's outlook on the economy, potential future policy actions that they may take or may be considering.
+> **[3:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=195)** These are released three weeks after each meeting, and they provide insights into the Fed's [[Microsoft Outlook|outlook]] on the economy, potential future policy actions that they may take or may be considering.
 >
 > **[3:26](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980&t=206)** So together, we'll parse the FOMC meeting minutes to get texts out of the raw PDFs, and we'll split and chunk the text using a recursive character splitter.
 >
@@ -945,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), rag (7), [[Snowflake]] (5), [[Unstructured Data]] (4), data (3)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Unstructured Data]] (4), [[Microsoft Word|Word]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** rag (6), fomc (3)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
@@ -953,8 +944,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - welcome (1)
 
-#### What is Cortex Search?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980)
+#### [What is Cortex Search?](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=1)** In this video, we're going to dive into a more detailed discussion about what Cortex Search is.
 >
-> **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=7)** You'll learn how Cortex Search works and the elements that make it far superior to keyword search or semantic search being used on their own.
+> **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=7)** You'll learn how Cortex Search works and the elements that make it far superior to keyword search or [[Semantic Search]] being used on their own.
 >
 > **[0:14](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=14)** We'll talk about who gets access to the search and how we set this up.
 >
@@ -994,7 +984,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=116)** The other, semantic search, helps us discover when the document answers our question but with different words than what was used in the original query.
 >
-> **[2:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=124)** Helpfully the semantic search used by Cortex Search is powered by a state-of-the-art open source embedding model trained by Snowflake called Arctic Embed.
+> **[2:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=124)** Helpfully the semantic search used by Cortex Search is powered by a state-of-the-art open source embedding model trained by [[Snowflake]] called Arctic Embed.
 >
 > **[2:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=132)** I'll drop a link in the reading about Arctic Embed so you can learn all about it.
 >
@@ -1062,9 +1052,9 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=354)** So to combat these challenges, Snowflake can optimize the refresh by batching updates within your chosen target lag, and in some cases complete a full refresh when needed to retain optimal query performance.
 >
-> **[6:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=366)** Before we talk about searching unstructured data, we need to start with how to get the data in.
+> **[6:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=366)** Before we talk about searching [[Unstructured Data]], we need to start with how to get the data in.
 >
-> **[6:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=372)** If you completed our Intro to Generative AI with Snowflake course, you might remember that Snowflake offers a number of tasks specific LLM functions, which we use in that course to complete common tasks with GenAI.
+> **[6:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=372)** If you completed our Intro to [[Generative AI]] with Snowflake course, you might remember that Snowflake offers a number of tasks specific LLM functions, which we use in that course to complete common tasks with GenAI.
 >
 > **[6:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=384)** In this module, to help with preparing data for search, we'll introduce two new task specific functions.
 >
@@ -1072,7 +1062,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=392)** Parse document combines optical character recognition or OCR, capabilities with machine learning models to identify text content and information stored in tables and the structural elements of PDF documents.
 >
-> **[6:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=405)** You can use the parse document function to extract text and document layout, to build information retrieval systems on large archives of business documents, and to load the extracted information into structured Snowflake tables for use by your applications.
+> **[6:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=405)** You can use the parse document function to extract text and document layout, to build [[Information Retrieval]] systems on large archives of business documents, and to load the extracted information into structured Snowflake tables for use by your applications.
 >
 > **[7:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/what-is-cortex-search?u=76281980&t=420)** For text heavy documents, we can stick with the OCR mode.
 >
@@ -1128,7 +1118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (43), data (15), rag (8), [[Snowflake]] (6), [[Semantic Search]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[Semantic Search]] (3), [[Unstructured Data]] (2), [[Generative AI]] (1), [[Information Retrieval]] (1)
 > **Env Vars:** rag (8), llm (3), ocr (2), target_lag (1), pdf (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3), means that (2), refers to (1)
@@ -1137,8 +1127,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - good (1)
 
-#### Loading unstructured data to a Snowflake stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980)
+#### [Loading unstructured data to a Snowflake stage](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,13 +1143,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=22)** You'll be introduced to the FOMC, Federal Open Market Committee dataset, that you'll use in the hands-on practice we'll do together in this video.
 >
-> **[0:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=31)** We should talk about Snowflake stages.
+> **[0:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=31)** We should talk about [[Snowflake]] stages.
 >
 > **[0:33](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=33)** Snowflake is pretty flexible.
 >
-> **[0:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=35)** It allows you to load your data from both internal and external stages, where internal stages are stored in the Snowflake environment and external stages are stored in the big three cloud storage providers, or CSP, which are Amazon S3, Google Cloud Storage Buckets, and Azure Containers.
+> **[0:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=35)** It allows you to load your data from both internal and external stages, where internal stages are stored in the Snowflake environment and external stages are stored in the big three [[Cloud Storage]] providers, or CSP, which are Amazon S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage Buckets, and [[Microsoft Azure|Azure]] Containers.
 >
-> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=51)** This is where we'll load our unstructured data.
+> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=51)** This is where we'll load our [[Unstructured Data]].
 >
 > **[0:55](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=55)** Now, let's get your hand a little dirty by loading your own data.
 >
@@ -1176,7 +1165,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=97)** Then, I'll choose a compute warehouse.
 >
-> **[1:41](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=101)** And last, I'll choose the Python environment to be a warehouse notebook.
+> **[1:41](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=101)** And last, I'll choose the [[Python (Programming Language)|Python]] environment to be a warehouse notebook.
 >
 > **[1:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/loading-unstructured-data-to-a-snowflake-stage?u=76281980&t=105)** For a more flexible environment with more packages, I could choose to run on a container, but I'll run on warehouse here.
 >
@@ -1260,7 +1249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Snowflake]] (7), next (6), database (6), rag (3)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Cloud Storage]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** rag (3), fomc (3), pdf (3), create (2), csp (1)
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** dropdown (1), go to (1), open the (1)
@@ -1269,14 +1258,13 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - i (1)
 
-#### Parsing and chunking text
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980)
+#### [Parsing and chunking text](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=0)** - Hello again.
 >
-> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=1)** Imagine for a second that I am back in my office and have just finished uploading the council meeting minutes to stage.
+> **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=1)** Imagine for a second that I am back in my [[Microsoft Office|office]] and have just finished uploading the council meeting minutes to stage.
 >
 > **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=7)** First, I need to parse the text from the raw PDFs.
 >
@@ -1290,7 +1278,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=31)** After that, you will do this in your own notebook in the next part of the hands-on practice.
 >
-> **[0:37](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=37)** Within the Snowflake environment, we can use the PARSE_DOCUMENT task specific function, which returns the extracted content from the documents at stage.
+> **[0:37](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=37)** Within the [[Snowflake]] environment, we can use the PARSE_DOCUMENT task specific function, which returns the extracted content from the documents at stage.
 >
 > **[0:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=45)** I've left a link to the documentation in the reading following this video.
 >
@@ -1304,7 +1292,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=66)** For this, you'll create a new table called PARSED_FOMC_CONTENT to store the parse text using a query.
 >
-> **[1:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=72)** The first column we'll add is the relative_path, and then the second will use the PARSE_DOCUMENT SQL function.
+> **[1:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=72)** The first column we'll add is the relative_path, and then the second will use the PARSE_DOCUMENT [[SQL]] function.
 >
 > **[1:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=80)** Our parse document functions will take the location of our stage, the relative file path, and the extraction method we want to use.
 >
@@ -1324,7 +1312,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=124)** So now that we have our documents in a readable format, we need to split or chunk the data.
 >
-> **[2:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=129)** The simplest way to chunk our data is by counting characters or even we could chunk by counting tokens.
+> **[2:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=129)** The simplest way to chunk our data is by counting characters or even we could chunk by counting [[Tokens]].
 >
 > **[2:14](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/parsing-and-chunking-text?u=76281980&t=134)** But to level up, we can consider smarter ways to split text that make sense for a RAG setting.
 >
@@ -1368,7 +1356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), rag (3), [[Search]] (3), next (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Snowflake]] (1), [[SQL]] (1), [[Tokens]] (1)
 > **Env Vars:** rag (3), parse_document (2), parsed_fomc_content (2), ocr (2), chunked_fomc (2)
 > **Cross-References:** in the next (2), go back to (1), in the last (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
@@ -1377,8 +1365,7 @@ created: 2026-05-02
 > **Code Identifiers:** relative_path (1)
 > **Analogies:** imagine (1)
 
-#### Creating the Cortex Search Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980)
+#### [Creating the Cortex Search Service](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,7 +1377,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=8)** This video will be very hands-on.
 >
-> **[0:10](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=10)** Take a moment and pause the video if you need to log back into your Snowflake account and get your notebook open.
+> **[0:10](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=10)** Take a moment and pause the video if you need to log back into your [[Snowflake]] account and get your notebook open.
 >
 > **[0:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=15)** Now that we have our data ready, we can create the Cortex Search service.
 >
@@ -1398,7 +1385,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=25)** We'll point the search service to the table we created in the last video storing our chunks.
 >
-> **[0:29](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=29)** You'll see this in the first part of the SQL query and in the select query at the end.
+> **[0:29](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=29)** You'll see this in the first part of the [[SQL]] query and in the select query at the end.
 >
 > **[0:34](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=34)** You'll also set the warehouse and the target lag and the target lag sets the refresh schedule and tells the service how often to check and update the index.
 >
@@ -1430,7 +1417,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=105)** You'll import the list and from Snow Park you import session.
 >
-> **[1:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=110)** Then we'll create our Python class to set up our retriever.
+> **[1:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=110)** Then we'll create our [[Python (Programming Language)|Python]] class to set up our retriever.
 >
 > **[1:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/creating-the-cortex-search-service?u=76281980&t=113)** This is not strictly necessary, but it's a good way to keep things organized.
 >
@@ -1462,7 +1449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Snowflake]] (3), data (2), rag (2), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[SQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** in the last (2), in the next (1), we covered (1)
 > **Env Vars:** sql (1), llm (1)
 > **Versions:** version 2 (1), 2.0 (1)
@@ -1471,8 +1458,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - welcome (1)
 
-#### Building a RAG with Cortex Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980)
+#### [Building a RAG with Cortex Search](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,9 +1472,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=19)** Remember, this is what makes it a hybrid search.
 >
-> **[0:21](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=21)** The semantic search is more of a fuzzy search where the retriever identifies relevant chunks based on their meaning, and then the keyword search makes sure we don't miss chunks using key terminology.
+> **[0:21](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=21)** The [[Semantic Search]] is more of a fuzzy search where the retriever identifies relevant chunks based on their meaning, and then the keyword search makes sure we don't miss chunks using key terminology.
 >
-> **[0:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=32)** After the hybrid search returns the data, the retriever then passes the content and the associated metadata to the reranker.
+> **[0:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=32)** After the hybrid search returns the data, the retriever then passes the content and the associated [[Metadata]] to the reranker.
 >
 > **[0:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=38)** The re-ranking further evaluates the returns and puts them in a top end order, which is a subset of the top K that the retriever passed to it.
 >
@@ -1510,13 +1496,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=87)** Open telemetry allows us to collect what's called spans, representing units of work in our system.
 >
-> **[1:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=92)** In our case, the spans will include information about the retriever, the LLM call, and include key metadata, like what data went in and came out, usage information like tokens and cost and more.
+> **[1:32](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=92)** In our case, the spans will include information about the retriever, the LLM call, and include key metadata, like what data went in and came out, usage information like [[Tokens]] and cost and more.
 >
 > **[1:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=103)** Then we'll create a new database in schema to use for storing our spans and evaluation metrics.
 >
 > **[1:49](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=109)** Now we can go build our app.
 >
-> **[1:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=111)** We'll do this by creating a Python class called RAG.
+> **[1:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=111)** We'll do this by creating a [[Python (Programming Language)|Python]] class called RAG.
 >
 > **[1:54](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=114)** The RAG will take our retriever, but this time we'll have three methods, retrieve context, that'll use our retriever, generate completion, which we'll use an LLM to answer questions and query, which is going to put everything together.
 >
@@ -1540,7 +1526,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=167)** This is what I've been promising you'll get from this video.
 >
-> **[2:49](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=169)** You imported complete from Snowflake Cortex.
+> **[2:49](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=169)** You imported complete from [[Snowflake]] Cortex.
 >
 > **[2:52](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-a-rag-with-cortex-search?u=76281980&t=172)** Now we'll call it and pass in the query and retrieve context into a template, and you can modify this template as you'd like.
 >
@@ -1582,7 +1568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), rag (9), llm (6), data (3), [[Metadata]] (3)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Semantic Search]] (1), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1), [[Snowflake]] (1)
 > **Env Vars:** rag (9), llm (6)
 > **Exercise Files:** template (4)
 > **CLI Commands:** go build (2), python (1)
@@ -1591,8 +1577,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### How to measure success
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980)
+#### [How to measure success](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1593,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=18)** To begin our experimentation, the first thing we need to do is register this version of our app.
 >
-> **[0:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=24)** This gives us a way to keep track of our tests and allows us to capture metadata, like application name and version.
+> **[0:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=24)** This gives us a way to keep track of our tests and allows us to capture [[Metadata]], like application name and version.
 >
 > **[0:30](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=30)** We'll do so by using TruApp.
 >
@@ -1624,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=47)** We'll instantiate TruApp with the app and app name and app version.
 >
-> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=51)** We'll also add the TruLens Snowflake Connector.
+> **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=51)** We'll also add the TruLens [[Snowflake]] Connector.
 >
 > **[0:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/how-to-measure-success?u=76281980&t=58)** When we're conducting experiments with a RAG, we want to test it against the same dataset in a batch.
 >
@@ -1764,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), llm (8), rag (7), [[Metadata]] (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Snowflake]] (1)
 > **Env Vars:** llm (8), rag (7)
 > **Code Identifiers:** tru_rag (1), compute_metrics (1)
 > **Cross-References:** in the next (2)
@@ -1773,8 +1758,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** find (1)
 
-#### Automatic processing of new documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/automatic-processing-of-new-documents?u=76281980)
+#### [Automatic processing of new documents](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/automatic-processing-of-new-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1842,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Search]] (4), rag (3), next (2), database (1)
 > **Env Vars:** rag (3), fomx (1), pdf (1), fomc (1)
 > **Cross-References:** go back to (2), in the last (1)
 > **CLI Commands:** make (1)
@@ -1867,8 +1850,7 @@ created: 2026-05-02
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Building out the front end
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980)
+#### [Building out the front end](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,13 +1870,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=35)** We want to remove all of the code here and replace it with our own.
 >
-> **[0:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=38)** To get the code, you want to open up the repository you cloned from GitHub before.
+> **[0:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=38)** To get the code, you want to open up the repository you cloned from [[GitHub]] before.
 >
-> **[0:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=43)** In the module_2 folder, you'll see a Python file called chat_with_unstructured_data_app.
+> **[0:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=43)** In the module_2 folder, you'll see a [[Python (Programming Language)|Python]] file called chat_with_unstructured_data_app.
 >
 > **[0:48](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=48)** Open that up and copy all of the code, and then paste it into your Streamlit app.
 >
-> **[0:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=53)** Before we click Run, we'll add the snowflake-ml-python, and snowflake-core libraries to our app.
+> **[0:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=53)** Before we click Run, we'll add the [[Snowflake]]-ml-python, and snowflake-core libraries to our app.
 >
 > **[1:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-out-the-front-end?u=76281980&t=65)** Now we're good to go.
 >
@@ -1984,7 +1966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (8), next (5), [[Python (Programming Language)|Python]] (3), [[Snowflake]] (3), database (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Snowflake]] (3), [[GitHub]] (1)
 > **Env Vars:** rag (8), fomc (1), llm (1)
 > **Code Identifiers:** write_stream (2), chat_with_unstructured_data_app (1), build_messages_with_context (1), session_state_variable (1), st_spinner (1)
 > **CLI Commands:** python (3)
@@ -1993,8 +1975,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** template (1)
 
-#### Well done!
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980)
+#### [Well done!](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2004,11 +1985,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=2)** You covered a lot in this module, so let's remember what you did.
 >
-> **[0:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=6)** In this module, you learned how you can directly ask questions of your unstructured data.
+> **[0:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=6)** In this module, you learned how you can directly ask questions of your [[Unstructured Data]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=11)** You built a RAG using the Cortex Search service, and you improved the accuracy of results when searching the data.
 >
-> **[0:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=18)** You learned what the Cortex Search service is and you loaded unstructured data into a Snowflake stage.
+> **[0:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=18)** You learned what the Cortex Search service is and you loaded unstructured data into a [[Snowflake]] stage.
 >
 > **[0:23](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=23)** You learned how to parse your documents and how to split or chunk your data.
 >
@@ -2024,11 +2005,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=51)** To do this, we'll use Cortex Analyst.
 >
-> **[0:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=53)** You will learn about the semantic model specification, how Cortex Analyst works, and how to use the Cortex Analyst REST API, as well as learn about the data and execution layer.
+> **[0:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=53)** You will learn about the semantic model specification, how Cortex Analyst works, and how to use the Cortex Analyst [[Representational State Transfer (REST)|REST]] API, as well as learn about the data and execution layer.
 >
 > **[1:03](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=63)** You will further add to your toolkit by building a Text2SQL application using Snowflake Notebooks.
 >
-> **[1:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=69)** This is going to be a game changer because it will free up time that you can use on other tasks instead of manually querying structured data each time with the bespoke SQL queries, more time for higher level work.
+> **[1:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=69)** This is going to be a game changer because it will free up time that you can use on other tasks instead of manually querying structured data each time with the bespoke [[SQL]] queries, more time for higher level work.
 >
 > **[1:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/well-done?u=76281980&t=80)** I'm very excited about the next module, where we'll build an app that queries our structured data.
 >
@@ -2038,7 +2019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Search]] (4), [[Snowflake]] (3), next (3), [[Unstructured Data]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Unstructured Data]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Env Vars:** rag (1), rest (1), api (1), sql (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
@@ -2050,14 +2031,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding death by dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980)
+#### [Avoiding death by dashboard](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=5)** - In a past role, I used to watch more senior analysts with total admiration.
 >
-> **[0:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=15)** They had this amazing ability to receive vague requests, like, "Show me which products perform best in Q3, but don't forget those external factors."
+> **[0:15](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=15)** They had this amazing ability to receive vague requests, like, "Show me which [[Microsoft Products|products]] perform best in Q3, but don't forget those external factors."
 >
 > **[0:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=24)** They're able to produce spot-on, neatly packaged insights from this.
 >
@@ -2081,7 +2061,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=74)** For me, it felt like playing phone tag with incomplete information.
 >
-> **[1:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=78)** I knew how to write really good SQL, but the real trick was decoding what was really meant when they tossed out terms like, "Perform best," and, "Factor in."
+> **[1:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=78)** I knew how to write really good [[SQL]], but the real trick was decoding what was really meant when they tossed out terms like, "Perform best," and, "Factor in."
 >
 > **[1:27](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=87)** I wanted the interpretation ability that I saw from more senior people around me.
 >
@@ -2105,7 +2085,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=156)** Over time, more follow-up requests come in, I modify the dashboard or create a new one for each new request that comes in.
 >
-> **[2:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=163)** But after a while, these dashboards really start to pile up, and this can result in death by dashboard.
+> **[2:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=163)** But after a while, these [[Dashboards]] really start to pile up, and this can result in death by dashboard.
 >
 > **[2:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=170)** Dashboards that may see little use or be subject to constant change requests.
 >
@@ -2137,7 +2117,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=243)** So let's talk about what we will cover in this module.
 >
-> **[4:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=246)** You'll learn how to use the Cortex Analyst API to create a Text2SQL app in a Snowflake Notebook.
+> **[4:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=246)** You'll learn how to use the Cortex Analyst API to create a Text2SQL app in a [[Snowflake]] Notebook.
 >
 > **[4:11](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980&t=251)** You'll learn all about semantic models and how they can give LLMs the power to write accurate SQL that works on your complex database.
 >
@@ -2151,19 +2131,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3), [[Dashboards]] (3), [[Microsoft Products|Products]] (2), business (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Dashboards]] (3), [[Microsoft Products|Products]] (2), [[Snowflake]] (1)
 > **Env Vars:** sql (3), api (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Analogies:** imagine (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)
 
-#### Setting up the app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980)
+#### [Setting up the app](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=0)** - Imagine I'm a product manager working with a data engineering team that is tracking feature adoption metrics.
+> **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=0)** - Imagine I'm a product manager working with a [[Data Engineering]] team that is tracking feature adoption metrics.
 >
 > **[0:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=6)** Before we had built our own Texas Equal Workflow, my team wasted hours writing requests for data.
 >
@@ -2181,17 +2160,17 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=46)** And this allowed us to immediately get accurate results.
 >
-> **[0:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=50)** This workflow not only removed bottlenecks, but it also empowered my team to explore data on their own and make faster and more agile decisions.
+> **[0:50](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=50)** This workflow not only removed bottlenecks, but it also empowered my team to explore data on their own and make faster and more [[Agile Development|agile]] decisions.
 >
 > **[0:59](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=59)** Everyone loved this.
 >
-> **[1:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=60)** Pause the video here if you need a moment to log into your Snowflake trial account.
+> **[1:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=60)** Pause the video here if you need a moment to log into your [[Snowflake]] trial account.
 >
 > **[1:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=66)** Once you're logged in, go to projects and select notebooks, and then select the downward facing carrot on the right of the blue plus notebook button in the top right of the screen and select import ipy notebook file.
 >
 > **[1:19](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=79)** Select the file.
 >
-> **[1:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=80)** And then in the next window, choose a name, warehouse, and Python environment.
+> **[1:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=80)** And then in the next window, choose a name, warehouse, and [[Python (Programming Language)|Python]] environment.
 >
 > **[1:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=85)** Remember, this notebook is owned by my user, as you can see at the top, and the notebook will be stored in a personal database and schema specially for notebooks.
 >
@@ -2257,7 +2236,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=271)** Recent improvements in generation have come from the semantic models that we create for the LLM to use.
 >
-> **[4:36](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=276)** Semantic models assist the generation of SQL in a much more efficient way than previous methods, and now that we have everything set up, you'll see how to build your own semantic model.
+> **[4:36](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=276)** Semantic models assist the generation of [[SQL]] in a much more efficient way than previous methods, and now that we have everything set up, you'll see how to build your own semantic model.
 >
 > **[4:46](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/setting-up-the-app?u=76281980&t=286)** Well done.
 >
@@ -2269,7 +2248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), product (5), [[Snowflake]] (5), data (3), next (3)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1), [[Agile Development|Agile]] (1), [[SQL]] (1)
 > **UI Navigation:** select the (2), go to (1), switch to (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** var (1), llm (1), sql (1)
@@ -2278,8 +2257,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Understanding the semantic model
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980)
+#### [Understanding the semantic model](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2293,7 +2271,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=13)** A semantic model represents a collection of tables, each of which contains descriptions of specific aspects of the table.
 >
-> **[0:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=20)** Each table described in the semantic model maps to a base table in Snowflake.
+> **[0:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=20)** Each table described in the semantic model maps to a base table in [[Snowflake]].
 >
 > **[0:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=25)** The semantic model addresses issues related to language differences between business users and database definitions, and this provides semantic details like descriptive names and synonyms that allow cortex analysts to answer questions about data the way you intend.
 >
@@ -2307,7 +2285,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=67)** The semantic model should be organized by business domain or topic with limited scope.
 >
-> **[1:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=72)** For example, one semantic model for sales analytics, and another for marketing analytics.
+> **[1:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=72)** For example, one semantic model for sales analytics, and another for [[Marketing Analytics]].
 >
 > **[1:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=78)** This leads to a well scoped semantic model and well scoped semantic models ensure high precision and accuracy of results.
 >
@@ -2341,7 +2319,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=144)** In these base tables, you can describe the columns available for querying.
 >
-> **[2:28](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=148)** Each is described with a name, synonyms, a description, a SQL expression, and the data type of the column.
+> **[2:28](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=148)** Each is described with a name, synonyms, a description, a [[SQL]] expression, and the data type of the column.
 >
 > **[2:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=155)** This is the first part of the yaml file.
 >
@@ -2377,7 +2355,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=241)** First, head over to the left pane of UI.
 >
-> **[4:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=245)** There's a database icon next to the word data, and select that, and then select add data.
+> **[4:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=245)** There's a database icon next to the [[Microsoft Word|word]] data, and select that, and then select add data.
 >
 > **[4:12](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=252)** From here, you get a wide variety of options to add data to your project.
 >
@@ -2391,7 +2369,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=282)** Let's check that everything is uploaded.
 >
-> **[4:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=285)** In the snow site UI, navigate to data and then databases.
+> **[4:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=285)** In the snow site UI, navigate to data and then [[Databases]].
 >
 > **[4:49](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/understanding-the-semantic-model?u=76281980&t=289)** Here, you see all the databases on your account that are associated with the role that you're using.
 >
@@ -2469,7 +2447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (11), [[SQL]] (11), next (5), [[Snowflake]] (3)
+> **Frameworks & Libraries:** [[SQL]] (11), [[Snowflake]] (3), [[Databases]] (2), [[Marketing Analytics]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (11), llm (3), csv (1), lms (1)
 > **Cross-References:** later in (1), go back to (1), we mentioned (1), in the next (1)
 > **Definitions:** is a  (4)
@@ -2478,8 +2456,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Versions:** 3.5 (1)
 
-#### Working with the semantic model
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980)
+#### [Working with the semantic model](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2487,9 +2464,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980&t=1)** In this video we'll learn how to use the Cortex Analyst API.
 >
-> **[0:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980&t=5)** We'll start by calling the REST API, so if your notebook is not already open, open it up again and rewind it to this cell, using semantic models to share context with LLMs.
+> **[0:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980&t=5)** We'll start by calling the [[Representational State Transfer (REST)|REST]] API, so if your notebook is not already open, open it up again and rewind it to this cell, using semantic models to share context with LLMs.
 >
-> **[0:16](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980&t=16)** Ready? Let's go. (graphic whooshing) The reason that we use semantic models is to improve the SQL generated by our LLMs.
+> **[0:16](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980&t=16)** Ready? Let's go. (graphic whooshing) The reason that we use semantic models is to improve the [[SQL]] generated by our LLMs.
 >
 > **[0:24](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/working-with-the-semantic-model?u=76281980&t=24)** These models give us a structured way to capture the information that we need from our data which relates to our business.
 >
@@ -2577,7 +2554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), next (5), [[SQL]] (4), data (3), prompt (3)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** region_id (6), daily_revenue (3), sales_region (3), base_table (2), product_id (2)
 > **Env Vars:** llm (6), sql (4), api (2), rest (1), sota (1)
 > **Cross-References:** in the next (4)
@@ -2586,8 +2563,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - welcome (1)
 
-#### Using Cortex Analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980)
+#### [Using Cortex Analyst](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2629,11 +2605,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=98)** Jump back into your notebook and we'll test the semantic model we've built and then build it out even further to overcome this hurdle.
 >
-> **[1:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=105)** (graphics whooshing) The reason that the LM did not produce SQL that was any better than okay is because it did not deal with the joints properly.
+> **[1:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=105)** (graphics whooshing) The reason that the LM did not produce [[SQL]] that was any better than okay is because it did not deal with the joints properly.
 >
 > **[1:52](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=112)** Now we'll call Cortex Analyst and see how it's able to deal with this new level of complexity.
 >
-> **[1:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=118)** We start by importing from JSON and Snowflake.
+> **[1:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=118)** We start by importing from [[JSON]] and [[Snowflake]].
 >
 > **[2:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/using-cortex-analyst?u=76281980&t=121)** Now we set the API endpoint in the timeout for 50,000 milliseconds.
 >
@@ -2711,7 +2687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), api (8), data (7), [[JSON]] (3), [[Snowflake]] (2)
+> **Frameworks & Libraries:** [[SQL]] (14), [[JSON]] (3), [[Snowflake]] (2)
 > **Env Vars:** sql (14), api (8), json (3), llm (2), rag (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2720,12 +2696,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - welcome (1)
 
-#### From text-to-SQL to TAG: Creating table-assisted generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980)
+#### [From text-to-SQL to TAG: Creating table-assisted generation](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=0)** - Back to the SQL.
+> **[0:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=0)** - Back to the [[SQL]].
 >
 > **[0:01](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=1)** The SQL that was returned is pretty good, but will not stop here.
 >
@@ -2741,11 +2716,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=25)** TAG stands for table assisted generation, which is what we're going to do with Cortex Analyst.
 >
-> **[0:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=31)** Just like in the last module where RAG augmented the LLM generation with the retrieval service for unstructured data, TAG augments the LLM with SQL results.
+> **[0:31](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=31)** Just like in the last module where RAG augmented the LLM generation with the retrieval service for [[Unstructured Data]], TAG augments the LLM with SQL results.
 >
 > **[0:41](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=41)** Before we move on, make sure that you have installed the tabulate library.
 >
-> **[0:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=45)** This will allow you to convert the SQL output using pandas into LLM readable markdown format, which can then be sent to the LLM with the query.
+> **[0:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=45)** This will allow you to convert the SQL output using [[Pandas (Software)|pandas]] into LLM readable markdown format, which can then be sent to the LLM with the query.
 >
 > **[0:54](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/from-text-to-sql-to-tag-creating-table-assisted-generation?u=76281980&t=54)** We see the output here.
 >
@@ -2801,7 +2776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), llm (10), rag (2), [[Unstructured Data]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[SQL]] (14), [[Unstructured Data]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** sql (14), llm (10), tag (4), rag (2)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
 > **CLI Commands:** make (2)
@@ -2810,8 +2785,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (1)
 > **Speakers:** - back (1)
 
-#### Expanding the scope of the semantic model
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980)
+#### [Expanding the scope of the semantic model](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2839,7 +2813,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=74)** For example, if someone asks, "How much revenue could be attributed to apparel?"
 >
-> **[1:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=78)** We can use Cortex search behind the scenes to resolve apparel to clothing, and then use the term clothing as their product line in our generated SQL.
+> **[1:18](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=78)** We can use Cortex search behind the scenes to resolve apparel to clothing, and then use the term clothing as their product line in our generated [[SQL]].
 >
 > **[1:25](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=85)** We can do this by integrating Cortex search into our semantic model, which will help to make sure we reference the correct product categories in the SQL generated by Cortex Analyst.
 >
@@ -2849,7 +2823,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=105)** and a nested select distinct product line from the Dimension Table product.
 >
-> **[1:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=113)** The search service now has a list of all distinct products to find.
+> **[1:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=113)** The search service now has a list of all distinct [[Microsoft Products|products]] to find.
 >
 > **[1:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=118)** In this next cell, we build and update the semantic model with our product search service by adding the product dimension table, and we set this table and its dimensions for this update.
 >
@@ -2909,7 +2883,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=322)** Wonderful. Everything is where we expect it to be.
 >
-> **[5:26](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=326)** Now that we have looked at how semantic models are built, we will move on to look at the Semantic model generator that Snowflake offers in the Snowflake UI.
+> **[5:26](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=326)** Now that we have looked at how semantic models are built, we will move on to look at the Semantic model generator that [[Snowflake]] offers in the Snowflake UI.
 >
 > **[5:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=335)** This model generator can be used to either build your model from scratch or edit and update your model once it's already built.
 >
@@ -3009,7 +2983,7 @@ created: 2026-05-02
 >
 > **[9:54](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=594)** It tells us the model contains information about revenue, cost of products, and regions.
 >
-> **[9:59](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=599)** This tells a user that they can do financial analysis or ask questions like, "What is the total revenue and cost of goods sold for electronic products in North America?"
+> **[9:59](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=599)** This tells a user that they can do [[Financial Analysis]] or ask questions like, "What is the total revenue and cost of goods sold for electronic products in North America?"
 >
 > **[10:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=609)** The questions here are the onboarding questions I mentioned earlier, which can be specified in the Semantic Model.
 >
@@ -3053,13 +3027,13 @@ created: 2026-05-02
 >
 > **[11:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=713)** We need a front-end UI for users to interact with, and we're going to use Streamlit for that.
 >
-> **[11:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=718)** To quickly turn the same code we already wrote into a simple Python-based UI, let's do it next.
+> **[11:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=718)** To quickly turn the same code we already wrote into a simple [[Python (Programming Language)|Python]]-based UI, let's do it next.
 >
 > **[12:05](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/expanding-the-scope-of-the-semantic-model?u=76281980&t=725)** (air whooshing) (bright upbeat music)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (26), next (11), [[SQL]] (10), [[Search]] (8), data (6)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Microsoft Products|Products]] (3), [[Snowflake]] (3), [[Financial Analysis]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (10), yaml (2)
 > **CLI Commands:** make (6), find (1), python (1)
 > **UI Navigation:** select the (2), go to (1), checkbox (1)
@@ -3068,8 +3042,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Building the Streamlit app
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980)
+#### [Building the Streamlit app](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3083,9 +3056,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=30)** The last step I need is to build a front end and deploy the workflow to users.
 >
-> **[0:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=35)** This will let the users ask questions in natural language without the need for someone like me to craft a SQL query for them.
+> **[0:35](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=35)** This will let the users ask questions in natural language without the need for someone like me to craft a [[SQL]] query for them.
 >
-> **[0:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=43)** No more interruptions and no more constant query-tweaking, real-time answers for everyone.
+> **[0:43](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=43)** No more interruptions and no more constant query-tweaking, [[Real-Time]] answers for everyone.
 >
 > **[0:49](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=49)** More time for me to focus on high-value insights that can generate value.
 >
@@ -3111,7 +3084,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=118)** All we have to do now is build this into an app that can be deployed to users so that they can start asking their questions.
 >
-> **[2:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=124)** We're going to pull in a lot of the same code we wrote in our notebook, but for time's sake, I've already put it together in a new Python file for you to use with Streamlit.
+> **[2:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=124)** We're going to pull in a lot of the same code we wrote in our notebook, but for time's sake, I've already put it together in a new [[Python (Programming Language)|Python]] file for you to use with Streamlit.
 >
 > **[2:13](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=133)** Get the code from the course repo to follow along if you don't already have it.
 >
@@ -3125,7 +3098,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=158)** Download the "chat_with_structured_data_app" Python file that has all of the source code needed to build the AI app.
 >
-> **[2:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=165)** (light whooshing) Next, go to your Snowflake account and navigate to the "Projects" tab in the left panel and select "Streamlit."
+> **[2:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=165)** (light whooshing) Next, go to your [[Snowflake]] account and navigate to the "Projects" tab in the left panel and select "Streamlit."
 >
 > **[2:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=173)** Select the blue button on the upper-right side of the screen which reads "Streamlit App" to create your app.
 >
@@ -3145,7 +3118,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=225)** We'll use these in our app.
 >
-> **[3:46](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=226)** (no audio) Next, at the top of the file, we'll import some packages we need, notably "streamlit," "json," and "_snowflake."
+> **[3:46](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=226)** (no audio) Next, at the top of the file, we'll import some packages we need, notably "streamlit," "[[JSON]]," and "_snowflake."
 >
 > **[4:00](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=240)** We'll also import "snowflake get_active_session" from "snowpark context" and complete from "cortex."
 >
@@ -3201,7 +3174,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=426)** Because we're building an enterprise app, it's better to be safe here.
 >
-> **[7:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=429)** The second it is that we're using streaming to get output tokens as soon as they're available to us.
+> **[7:09](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=429)** The second it is that we're using streaming to get output [[Tokens]] as soon as they're available to us.
 >
 > **[7:14](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/building-the-streamlit-app?u=76281980&t=434)** This is great for lowering the perceived latency felt by the user, and they can start reading the response before the full response is generated.
 >
@@ -3289,7 +3262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (17), [[Python (Programming Language)|Python]] (5), next (5), ai (4), product (4)
+> **Frameworks & Libraries:** [[SQL]] (17), [[Python (Programming Language)|Python]] (5), [[Snowflake]] (3), [[JSON]] (2), [[Real-Time]] (1)
 > **Env Vars:** sql (17), llm (3), api (2), url (1), cortex_analyst_wh (1)
 > **CLI Commands:** python (5), make (4)
 > **UI Navigation:** navigate to (2), select the (2), click on (1), go to (1)
@@ -3298,8 +3271,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), install (1)
 > **Cross-References:** we covered (1), in the next (1)
 
-#### Congratulations!
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980)
+#### [Congratulations!](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3309,7 +3281,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=3)** You've covered a lot in this course, so let's look back at what you did.
 >
-> **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=7)** In the first module, I introduced you to the structure of conversational apps that can be built on structured and unstructured data, and I showed you the power that these apps unlock for non-technical users in an organization when they're paired with an LLM.
+> **[0:07](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=7)** In the first module, I introduced you to the structure of conversational apps that can be built on structured and [[Unstructured Data]], and I showed you the power that these apps unlock for non-technical users in an organization when they're paired with an LLM.
 >
 > **[0:23](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=23)** You learned a lot about the information architecture of conversational data apps and all of the different data sources that they can use.
 >
@@ -3321,7 +3293,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=53)** You built a RAG app that answers questions asked in natural language using unstructured data and paired this all with a Streamlit Front End to make an easy user interface that can be deployed.
 >
-> **[1:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=64)** In this module, you learned how to ask questions of structured data with Cortex Analyst and you built a text to SQL application paired with table-augmented generation that allows users to ask questions and receive answers in natural language.
+> **[1:04](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=64)** In this module, you learned how to ask questions of structured data with Cortex Analyst and you built a text to [[SQL]] application paired with table-augmented generation that allows users to ask questions and receive answers in natural language.
 >
 > **[1:20](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=80)** These answers are backed up by valid and executable SQL of the organization's structured data using table-augmented generation.
 >
@@ -3359,7 +3331,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=172)** Thanks so much.
 >
-> **[2:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=173)** If you enjoyed this course, I would like to recommend the other Snowflake courses that are available.
+> **[2:53](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=173)** If you enjoyed this course, I would like to recommend the other [[Snowflake]] courses that are available.
 >
 > **[2:58](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/congratulations?u=76281980&t=178)** I'm sure you'll love them.
 >
@@ -3367,7 +3339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Unstructured Data]] (5), rag (4), llm (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (5), [[SQL]] (2), [[Snowflake]] (1)
 > **Env Vars:** rag (4), llm (2), sql (2), tag (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)

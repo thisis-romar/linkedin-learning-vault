@@ -105,12 +105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your C# applications with efficient algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980)
+#### [Improve your C# applications with efficient algorithms](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=0)** - [Kathryn] Algorithms are one of the fundamental pillars in every software application.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=0)** - [Kathryn] [[Algorithms]] are one of the fundamental pillars in every software application.
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=5)** In order to create more advanced and sophisticated applications, it's important to hone in on the algorithms your software is using.
 >
@@ -132,19 +131,18 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=58)** In this course, we'll explore what makes a given algorithm effective as well as how to make informed assumptions about your data in order to speed up that processing time.
 >
-> **[1:09](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=69)** We'll also discover how to leverage different data structures in order to make your algorithms more efficient.
+> **[1:09](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=69)** We'll also discover how to leverage different [[Data Structures]] in order to make your algorithms more efficient.
 >
 > **[1:15](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980&t=75)** Without any further delay, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), data (4), application (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Structures]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [kathryn] (1)
 
-#### Introducing CoderPad challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/introducing-coderpad-challenges?u=76281980)
+#### [Introducing CoderPad challenges](https://www.linkedin.com/learning/c-sharp-algorithms/introducing-coderpad-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-algorithms/introducing-coderpad-challenges?u=76281980&t=17)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:27](https://www.linkedin.com/learning/c-sharp-algorithms/introducing-coderpad-challenges?u=76281980&t=27)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:27](https://www.linkedin.com/learning/c-sharp-algorithms/introducing-coderpad-challenges?u=76281980&t=27)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:35](https://www.linkedin.com/learning/c-sharp-algorithms/introducing-coderpad-challenges?u=76281980&t=35)** The code challenge has four main areas: Instructions, a console for output.
 >
@@ -196,12 +194,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 
-#### What is an algorithm?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-an-algorithm?u=76281980)
+#### [What is an algorithm?](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,20 +234,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to optimize an algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-optimize-an-algorithm?u=76281980)
+#### [How to optimize an algorithm](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-optimize-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-optimize-an-algorithm?u=76281980&t=0)** - [Instructor] There are many different ways to complete a given task.
 >
-> **[0:03](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-optimize-an-algorithm?u=76281980&t=3)** As such, there are many different algorithms to solve a problem.
+> **[0:03](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-optimize-an-algorithm?u=76281980&t=3)** As such, there are many different [[Algorithms]] to solve a problem.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-optimize-an-algorithm?u=76281980&t=8)** Some algorithms are more efficient and others are less efficient.
 >
@@ -284,14 +279,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), data (4)
+> **Frameworks & Libraries:** [[Algorithms]] (5)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimize an algorithm in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/optimize-an-algorithm-in-c-sharp?u=76281980)
+#### [Optimize an algorithm in C#](https://www.linkedin.com/learning/c-sharp-algorithms/optimize-an-algorithm-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +379,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (2), find (2), dotnet (1)
 > **Tools:** terminal (3), vs code (1)
 > **Code Identifiers:** findmaximum (1), findmaximum2 (1)
@@ -394,12 +387,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to describe the time complexity of an algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980)
+#### [How to describe the time complexity of an algorithm](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980&t=0)** - [Instructor] Some algorithms are more efficient than others and we often describe an algorithm sufficiency using Big-O notation.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980&t=0)** - [Instructor] Some [[Algorithms]] are more efficient than others and we often describe an algorithm sufficiency using Big-O notation.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980&t=8)** Big-O notation allows us to compare algorithms independent of input size.
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (7), [[Search]] (4), data (1), generic (1)
+> **Frameworks & Libraries:** [[Algorithms]] (7)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -465,8 +457,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Validate strings in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980)
+#### [Validate strings in C#](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=35)** The string either has the given properties, or it does not.
 >
-> **[0:39](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=39)** Let's try creating some validation algorithms in C#.
+> **[0:39](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=39)** Let's try creating some validation [[Algorithms]] in C#.
 >
 > **[0:45](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=45)** Now there are several tools in the standard library that can help us out.
 >
@@ -492,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=60)** This is a validation algorithm, so it will return a Boolean, and we need a string to validate, so it will take in a string.
 >
-> **[1:11](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=71)** In the C# standard library, there's a tool called Linq.
+> **[1:11](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=71)** In the C# standard library, there's a tool called [[Language Integrated Query (LINQ)|Linq]].
 >
 > **[1:17](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980&t=77)** Linq is a uniform query syntax that makes it easy for us to work with data in C#, it can also make your code more compact and readable, in fact, to validate whether a string is all uppercase takes only one line of Linq code.
 >
@@ -566,15 +557,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), [[Language Integrated Query (LINQ)|Linq]] (3), data (2)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Language Integrated Query (LINQ)|Linq]] (3)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** isuppercase (1), isupper (1), islowercase (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Normalize strings in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980)
+#### [Normalize strings in C#](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +580,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=33)** With this approach, you could search for the letter in the lowercase form and only have to search for one form of the letter.
 >
-> **[0:41](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=41)** With two different forms, you're still iterating through the string twice.
+> **[0:41](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=41)** With two different [[Forms]], you're still iterating through the string twice.
 >
 > **[0:46](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=46)** But if the number of different forms the letter can appear as increases, the amount you have to search stays the same.
 >
@@ -602,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=80)** For example, your processing algorithm would only take in strings with all lowercase letters and it could use a validation algorithm to deny any other type of input.
 >
-> **[1:33](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=93)** However, we want our algorithms to be flexible so we can reuse them for strings with many different contents.
+> **[1:33](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=93)** However, we want our [[Algorithms]] to be flexible so we can reuse them for strings with many different contents.
 >
 > **[1:41](https://www.linkedin.com/learning/c-sharp-algorithms/normalize-strings-in-c-sharp?u=76281980&t=101)** Normalizing your input to a common form can help you accomplish this.
 >
@@ -666,14 +656,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (4), [[Algorithms]] (3), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Forms]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** buddy (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parse and search strings in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/parse-and-search-strings-in-c-sharp?u=76281980)
+#### [Parse and search strings in C#](https://www.linkedin.com/learning/c-sharp-algorithms/parse-and-search-strings-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,14 +802,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (4), [[Programming]] (1)
 > **CLI Commands:** find (4), ls (3), make (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create algorithm-driven strings in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980)
+#### [Create algorithm-driven strings in C#](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +829,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=59)** That covers our base cases.
 >
-> **[1:01](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=61)** When starting your software development journey, sometimes it can feel like you're cheating by using the functions built into the language or the standard library.
+> **[1:01](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=61)** When starting your [[Software Development]] journey, sometimes it can feel like you're cheating by using the functions built into the language or the standard library.
 >
 > **[1:12](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=72)** This is not cheating.
 >
@@ -890,7 +877,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=203)** And we'll continue to decrement until we get to the end of the string at index zero.
 >
-> **[3:29](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=209)** Using a for loop in this way, allows us to iterate through the string backwards, which can be good for many algorithms, including this one.
+> **[3:29](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=209)** Using a for loop in this way, allows us to iterate through the string backwards, which can be good for many [[Algorithms]], including this one.
 >
 > **[3:39](https://www.linkedin.com/learning/c-sharp-algorithms/create-algorithm-driven-strings-in-c-sharp?u=76281980&t=219)** Since we are going through the string backwards, all we have to do is append the character we're at to the string builder.
 >
@@ -962,19 +949,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Programming]] (3), [[Software Development]] (1), [[Engineering]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** tolower (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: reverse each word
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/solution-reverse-each-word-19866902?u=76281980)
+#### [Solution: reverse each word](https://www.linkedin.com/learning/c-sharp-algorithms/solution-reverse-each-word-19866902?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/solution-reverse-each-word-19866902?u=76281980&t=0)** Let's create an algorithm that reverses each word in a sentence.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/solution-reverse-each-word-19866902?u=76281980&t=0)** Let's create an algorithm that reverses each [[Microsoft Word|word]] in a sentence.
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-algorithms/solution-reverse-each-word-19866902?u=76281980&t=4)** First, we'll split up the sentence into words.
 >
@@ -1032,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8)
 > **Definitions:** is a  (3)
 > **Code Identifiers:** reversedsentence (1)
 
@@ -1041,12 +1027,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear search arrays in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980)
+#### [Linear search arrays in C#](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980&t=0)** - [Narrator] As a software engineer, you'll need to search through data structures, using algorithms in order to retrieve relevant data.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980&t=0)** - [Narrator] As a software engineer, you'll need to search through [[Data Structures]], using [[Algorithms]] in order to retrieve relevant data.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980&t=8)** With a search algorithm, you often input the data you need to search and the item you're trying to find.
 >
@@ -1142,19 +1127,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Search]] (8), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (16)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** ent (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Binary search arrays in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/binary-search-arrays-in-c-sharp?u=76281980)
+#### [Binary search arrays in C#](https://www.linkedin.com/learning/c-sharp-algorithms/binary-search-arrays-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/binary-search-arrays-in-c-sharp?u=76281980&t=0)** - [Instructor] Searching data is a common task in software development.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/binary-search-arrays-in-c-sharp?u=76281980&t=0)** - [Instructor] Searching data is a common task in [[Software Development]].
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-algorithms/binary-search-arrays-in-c-sharp?u=76281980&t=4)** In order to optimize our search algorithm, we'll need to make assumptions about the data.
 >
@@ -1292,15 +1276,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (20), data (6), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Code Identifiers:** inputarray (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate and filter arrays in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/aggregate-and-filter-arrays-in-c-sharp?u=76281980)
+#### [Aggregate and filter arrays in C#](https://www.linkedin.com/learning/c-sharp-algorithms/aggregate-and-filter-arrays-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1307,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/c-sharp-algorithms/aggregate-and-filter-arrays-in-c-sharp?u=76281980&t=52)** However, sorting wouldn't be much help here since even items could be very large or very small values.
 >
-> **[1:01](https://www.linkedin.com/learning/c-sharp-algorithms/aggregate-and-filter-arrays-in-c-sharp?u=76281980&t=61)** Given this, each of these algorithms will have different time complexities, depending on what type of data is inputted.
+> **[1:01](https://www.linkedin.com/learning/c-sharp-algorithms/aggregate-and-filter-arrays-in-c-sharp?u=76281980&t=61)** Given this, each of these [[Algorithms]] will have different time complexities, depending on what type of data is inputted.
 >
 > **[1:09](https://www.linkedin.com/learning/c-sharp-algorithms/aggregate-and-filter-arrays-in-c-sharp?u=76281980&t=69)** To keep things simple, we're going to take the second approach where we check each item before adding it to the new array.
 >
@@ -1390,12 +1373,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reverse an array in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/reverse-an-array-in-c-sharp?u=76281980)
+#### [Reverse an array in C#](https://www.linkedin.com/learning/c-sharp-algorithms/reverse-an-array-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,17 +1461,16 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/c-sharp-algorithms/reverse-an-array-in-c-sharp?u=76281980&t=271)** The reverse of a reverse is the original content and we get the original ordering in the console.
 >
-> **[4:41](https://www.linkedin.com/learning/c-sharp-algorithms/reverse-an-array-in-c-sharp?u=76281980&t=281)** Understanding how to work with data in place and move it around in memory using variables is essential to creating efficient algorithms.
+> **[4:41](https://www.linkedin.com/learning/c-sharp-algorithms/reverse-an-array-in-c-sharp?u=76281980&t=281)** Understanding how to work with data in place and move it around in memory using variables is essential to creating efficient [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: rotate an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/solution-rotate-an-array-19866903?u=76281980)
+#### [Solution: rotate an array](https://www.linkedin.com/learning/c-sharp-algorithms/solution-rotate-an-array-19866903?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,17 +1512,12 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/c-sharp-algorithms/solution-rotate-an-array-19866903?u=76281980&t=131)** The output is as we expect, we get 2 through 6 and then 1.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** next (2)
-
 
 ### 3. Linked List Algorithms
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a linked list?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980)
+#### [What is a linked list?](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1589,18 +1565,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980&t=134)** In other languages, there might be more memory cleanup required, but in C# we have a garbage collector and this memory manager will handle it for us.
 >
-> **[2:25](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980&t=145)** Operations, like these were major data modifications can be made with just a few lines of code make link lists a useful tool when creating algorithms that manipulate your data.
+> **[2:25](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980&t=145)** Operations, like these were major data modifications can be made with just a few lines of code make link lists a useful tool when creating [[Algorithms]] that manipulate your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (8), next (6), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** node (8), find (1), make (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common linked list operations in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980)
+#### [Common linked list operations in C#](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,7 +1653,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=247)** We can also retrieve its next pointer and the value that the node holds.
 >
-> **[4:14](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=254)** Understanding the implementation of C# built-in data structures can help you make better choices about what tools you use in your algorithms, which is why we've explored it here.
+> **[4:14](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=254)** Understanding the implementation of C# built-in [[Data Structures]] can help you make better choices about what tools you use in your [[Algorithms]], which is why we've explored it here.
 >
 > **[4:25](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=265)** Since the state of structure is built in, we don't have to worry about the maintenance of modifying next pointers or the implementation of a list every time we add data.
 >
@@ -1686,11 +1661,11 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=289)** Simplifying complex operations through interfaces is a great principle to follow when creating data structures and developing algorithms.
 >
-> **[5:00](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=300)** It's also what makes the linked list a great addition to your software development toolkit.
+> **[5:00](https://www.linkedin.com/learning/c-sharp-algorithms/common-linked-list-operations-in-c-sharp?u=76281980&t=300)** It's also what makes the linked list a great addition to your [[Software Development]] toolkit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (3), node (3), generic (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Algorithms]] (2), [[Software Development]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -1698,14 +1673,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linked list algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980)
+#### [Linked list algorithms](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=0)** - [Instructor] Although there is a linked list data structure available in C#, not every algorithm you'll ever need will be built into the standard library.
 >
-> **[0:10](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=10)** Instead, you may need to create your own data structure with your own algorithms to manipulate your data more efficiently.
+> **[0:10](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=10)** Instead, you may need to create your own data structure with your own [[Algorithms]] to manipulate your data more efficiently.
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=19)** For example, let's say we want to delete the back half of a linked list.
 >
@@ -1739,7 +1713,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=120)** We'll access the list, its head attribute, and assign it to be the value of firstNode.
 >
-> **[2:09](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=129)** To put the rest of the nodes in the list, we'll need to link the next pointers.
+> **[2:09](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=129)** To put the [[Representational State Transfer (REST)|rest]] of the nodes in the list, we'll need to link the next pointers.
 >
 > **[2:15](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=135)** firstNode.next.
 >
@@ -1851,11 +1825,11 @@ created: 2026-05-02
 >
 > **[8:12](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=492)** The output is as expected.
 >
-> **[8:14](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=494)** By using different variables and creating custom data structures, we can develop algorithms that let us manipulate our data in exactly the way we want.
+> **[8:14](https://www.linkedin.com/learning/c-sharp-algorithms/linked-list-algorithms?u=76281980&t=494)** By using different variables and creating custom [[Data Structures]], we can develop algorithms that let us manipulate our data in exactly the way we want.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (28), next (21), data (13), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Structures]] (1)
 > **CLI Commands:** node (28), make (1)
 > **Code Identifiers:** firstnode (2), deletebackhalf (2), customlinkedlist (1), linkedlist (1), displaycontents (1)
 > **Definitions:** is a  (1)
@@ -1863,8 +1837,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Sum contents of a linked list
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/solution-sum-contents-of-a-linked-list?u=76281980)
+#### [Solution: Sum contents of a linked list](https://www.linkedin.com/learning/c-sharp-algorithms/solution-sum-contents-of-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1875,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
@@ -1911,12 +1883,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a queue?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980)
+#### [What is a queue?](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980&t=0)** - [Instructor] The queue is another data structure that can be particularly useful in algorithms where you need to process data in order.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980&t=0)** - [Instructor] The queue is another data structure that can be particularly useful in [[Algorithms]] where you need to process data in order.
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980&t=9)** Like an array or list, a queue represents a series of objects, but the way we access, add, and remove items is slightly different.
 >
@@ -1956,13 +1927,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), data (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **Env Vars:** fifo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standard queue operations in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/standard-queue-operations-in-c-sharp?u=76281980)
+#### [Standard queue operations in C#](https://www.linkedin.com/learning/c-sharp-algorithms/standard-queue-operations-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2046,19 +2016,18 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/c-sharp-algorithms/standard-queue-operations-in-c-sharp?u=76281980&t=244)** And that's exactly what we see.
 >
-> **[4:06](https://www.linkedin.com/learning/c-sharp-algorithms/standard-queue-operations-in-c-sharp?u=76281980&t=246)** If you need to process data in the order it's received, the queue data structure is a great tool to add to your algorithms.
+> **[4:06](https://www.linkedin.com/learning/c-sharp-algorithms/standard-queue-operations-in-c-sharp?u=76281980&t=246)** If you need to process data in the order it's received, the queue data structure is a great tool to add to your [[Algorithms]].
 >
 > **[4:15](https://www.linkedin.com/learning/c-sharp-algorithms/standard-queue-operations-in-c-sharp?u=76281980&t=255)** Queues reduce complexity by removing the index and applying the constraint of first in, first out, making your data easy to work with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), generic (2), next (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queue algorithms: Generate binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/queue-algorithms-generate-binary-numbers?u=76281980)
+#### [Queue algorithms: Generate binary numbers](https://www.linkedin.com/learning/c-sharp-algorithms/queue-algorithms-generate-binary-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2094,7 +2063,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/c-sharp-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=99)** We process the first item, and then the second item, in a FIFO fashion.
 >
-> **[1:44](https://www.linkedin.com/learning/c-sharp-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=104)** This pattern follows throughout the rest of the binary numbers.
+> **[1:44](https://www.linkedin.com/learning/c-sharp-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=104)** This pattern follows throughout the [[Representational State Transfer (REST)|rest]] of the binary numbers.
 >
 > **[1:48](https://www.linkedin.com/learning/c-sharp-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=108)** We can leverage this pattern with the queue data structure to create an efficient algorithm that generates binary numbers.
 >
@@ -2172,19 +2141,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** dotnet (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a stack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-stack?u=76281980)
+#### [What is a stack?](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-stack?u=76281980&t=0)** - [Instructor] The stack data structure can be useful for algorithms where you need to keep track of state.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-stack?u=76281980&t=0)** - [Instructor] The stack data structure can be useful for [[Algorithms]] where you need to keep track of state.
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-stack?u=76281980&t=6)** A stack is a series of ordered objects, just like a list, but similar to a queue, the way we add access and remove items is a little different.
 >
@@ -2220,24 +2188,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (1), similar to (1)
 > **Env Vars:** lifo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic stack operations in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980)
+#### [Basic stack operations in C#](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=0)** - [Instructor] C# has a built-in stack data structure that we can use in our custom algorithms.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=0)** - [Instructor] C# has a built-in stack data structure that we can use in our custom [[Algorithms]].
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=7)** It lives in the System.Collections.Generic namespace.
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=13)** We can create a stack using the constructor.
 >
-> **[0:16](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=16)** Like the other C# data structures, it's generic and this stack will hold strings.
+> **[0:16](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=16)** Like the other C# [[Data Structures]], it's generic and this stack will hold strings.
 >
 > **[0:23](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=23)** To add items to the stack, we'll use the push method.
 >
@@ -2271,7 +2238,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=104)** To help us visualize this more, we'll print out those items that are popped off.
 >
-> **[1:50](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=110)** We'll also add the word END so it shows it's the end of this method's execution.
+> **[1:50](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=110)** We'll also add the [[Microsoft Word|word]] END so it shows it's the end of this method's execution.
 >
 > **[1:57](https://www.linkedin.com/learning/c-sharp-algorithms/basic-stack-operations-in-c-sharp?u=76281980&t=117)** We'll do this for the others as well.
 >
@@ -2315,19 +2282,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), generic (2), [[Algorithms]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Structures]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), dotnet (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** picture (1), similar to (1)
 > **Env Vars:** end (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack algorithms: Theorizing an algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980)
+#### [Stack algorithms: Theorizing an algorithm](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980&t=0)** - [Instructor] As a software engineer, you'll need to know how to leverage the built-in stack functionality when working with algorithms that keep track of state.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980&t=0)** - [Instructor] As a software engineer, you'll need to know how to leverage the built-in stack functionality when working with [[Algorithms]] that keep track of state.
 >
 > **[0:10](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980&t=10)** In this lesson, we'll look at how to use the stack data structure to solve software problems.
 >
@@ -2423,15 +2389,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (26), data (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack algorithms: Implementing next greater element
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-implementing-next-greater-element?u=76281980)
+#### [Stack algorithms: Implementing next greater element](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-implementing-next-greater-element?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2517,18 +2482,17 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-implementing-next-greater-element?u=76281980&t=261)** If we got to the end of the array and still had some items where we did not find a match, we were able to retrieve those and give them the next greater element of negative one.
 >
-> **[4:32](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-implementing-next-greater-element?u=76281980&t=272)** Understanding how to leverage stacks in algorithms where you need to keep track of state is key to creating efficient solutions.
+> **[4:32](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-implementing-next-greater-element?u=76281980&t=272)** Understanding how to leverage stacks in [[Algorithms]] where you need to keep track of state is key to creating efficient solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (29), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (5)
 > **Code Identifiers:** printnextgreaterelement (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack algorithms: Matching parentheses
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980)
+#### [Stack algorithms: Matching parentheses](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2594,7 +2558,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=190)** The output is as expected.
 >
-> **[3:12](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=192)** The first four are true and the rest are false.
+> **[3:12](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=192)** The first four are true and the [[Representational State Transfer (REST)|rest]] are false.
 >
 > **[3:16](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=196)** Now since we're only dealing with one symbol type, parentheses, we can actually keep track of whether we've seen that opening symbol with just an integer.
 >
@@ -2632,18 +2596,17 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=344)** The modified algorithm is also less complex and easier to read because it uses simpler tools to achieve the same output.
 >
-> **[5:53](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=353)** While adding a data structure can often make your algorithms more efficient, they're not always the solution to every problem.
+> **[5:53](https://www.linkedin.com/learning/c-sharp-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=353)** While adding a data structure can often make your [[Algorithms]] more efficient, they're not always the solution to every problem.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** matchingsymboltracker (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: evaluate reverse polish notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/challenge-evaluate-reverse-polish-notation-19868187?u=76281980)
+#### [Solution: evaluate reverse polish notation](https://www.linkedin.com/learning/c-sharp-algorithms/challenge-evaluate-reverse-polish-notation-19868187?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2683,7 +2646,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/c-sharp-algorithms/challenge-evaluate-reverse-polish-notation-19868187?u=76281980&t=92)** We know that each operand and operator is separated by spaces.
 >
-> **[1:37](https://www.linkedin.com/learning/c-sharp-algorithms/challenge-evaluate-reverse-polish-notation-19868187?u=76281980&t=97)** Given this, we can split the string into tokens using the split method, with the space as a delimiter.
+> **[1:37](https://www.linkedin.com/learning/c-sharp-algorithms/challenge-evaluate-reverse-polish-notation-19868187?u=76281980&t=97)** Given this, we can split the string into [[Tokens]] using the split method, with the space as a delimiter.
 >
 > **[1:47](https://www.linkedin.com/learning/c-sharp-algorithms/challenge-evaluate-reverse-polish-notation-19868187?u=76281980&t=107)** This will return an array containing only the operands and operators.
 >
@@ -2731,7 +2694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Tokens]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Env Vars:** rpn (1)
 > **Definitions:** is a  (1)
 
@@ -2740,8 +2703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hash-based structures in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980)
+#### [Hash-based structures in C#](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2773,7 +2735,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980&t=74)** Then, you can quickly look up an employee by their ID in constant time.
 >
-> **[1:20](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980&t=80)** If there's an identifier you can use to navigate your data, like an ID or a code, the dictionary type proves to be a very helpful tool in creating your algorithms.
+> **[1:20](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980&t=80)** If there's an identifier you can use to navigate your data, like an ID or a code, the dictionary type proves to be a very helpful tool in creating your [[Algorithms]].
 >
 > **[1:32](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980&t=92)** There is also the Hashtable type.
 >
@@ -2797,18 +2759,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (1), generic (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionary and HashSet operations in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/dictionary-and-hashset-operations-in-c-sharp?u=76281980)
+#### [Dictionary and HashSet operations in C#](https://www.linkedin.com/learning/c-sharp-algorithms/dictionary-and-hashset-operations-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/dictionary-and-hashset-operations-in-c-sharp?u=76281980&t=0)** - [Instructor] Let's look at how to use hash structures so we can build algorithms that work with key-value pairs.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/dictionary-and-hashset-operations-in-c-sharp?u=76281980&t=0)** - [Instructor] Let's look at how to use hash structures so we can build [[Algorithms]] that work with key-value pairs.
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-algorithms/dictionary-and-hashset-operations-in-c-sharp?u=76281980&t=7)** We start off with an employee class.
 >
@@ -2900,15 +2861,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (4), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** employeesbyid (1)
 > **Env Vars:** j2h762 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage the HashSet type in C# algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/leverage-the-hashset-type-in-c-sharp-algorithms?u=76281980)
+#### [Leverage the HashSet type in C# algorithms](https://www.linkedin.com/learning/c-sharp-algorithms/leverage-the-hashset-type-in-c-sharp-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2986,19 +2946,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Dictionary type in C# algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/use-the-dictionary-type-in-c-sharp-algorithms?u=76281980)
+#### [Use the Dictionary type in C# algorithms](https://www.linkedin.com/learning/c-sharp-algorithms/use-the-dictionary-type-in-c-sharp-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/use-the-dictionary-type-in-c-sharp-algorithms?u=76281980&t=0)** - [Instructor] We can also leverage the dictionary type in our own algorithms.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/use-the-dictionary-type-in-c-sharp-algorithms?u=76281980&t=0)** - [Instructor] We can also leverage the dictionary type in our own [[Algorithms]].
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-algorithms/use-the-dictionary-type-in-c-sharp-algorithms?u=76281980&t=4)** For example, let's say we want to display the count of each element in an unsorted array.
 >
@@ -3062,13 +3020,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Best Practices:** the key is (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: detect a cyclic linkedlist
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/solution-detect-a-cyclic-linkedlist?u=76281980)
+#### [Solution: detect a cyclic linkedlist](https://www.linkedin.com/learning/c-sharp-algorithms/solution-detect-a-cyclic-linkedlist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3134,7 +3091,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), next (4)
 > **CLI Commands:** node (11), make (1)
 > **Definitions:** is a  (3)
 
@@ -3143,8 +3099,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a tree?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980)
+#### [What is a tree?](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3228,19 +3183,18 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980&t=247)** Although the worst case is still linear since all the elements might be on one side of the tree.
 >
-> **[4:13](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980&t=253)** By adding constraints to basic data structure ideas, we can create tools that help make our algorithms more efficient.
+> **[4:13](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980&t=253)** By adding constraints to basic data structure ideas, we can create tools that help make our [[Algorithms]] more efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (17), data (13), [[Search]] (7), power (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** node (17), make (2), find (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we talked about (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a binary search tree in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/create-a-binary-search-tree-in-c-sharp?u=76281980)
+#### [Create a binary search tree in C#](https://www.linkedin.com/learning/c-sharp-algorithms/create-a-binary-search-tree-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3258,7 +3212,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/c-sharp-algorithms/create-a-binary-search-tree-in-c-sharp?u=76281980&t=37)** We'll give it a left node, a right node, and some data.
 >
-> **[0:45](https://www.linkedin.com/learning/c-sharp-algorithms/create-a-binary-search-tree-in-c-sharp?u=76281980&t=45)** Then we'll also give each of these, get and set access, so they're easy to use in our algorithms.
+> **[0:45](https://www.linkedin.com/learning/c-sharp-algorithms/create-a-binary-search-tree-in-c-sharp?u=76281980&t=45)** Then we'll also give each of these, get and set access, so they're easy to use in our [[Algorithms]].
 >
 > **[0:57](https://www.linkedin.com/learning/c-sharp-algorithms/create-a-binary-search-tree-in-c-sharp?u=76281980&t=57)** Now this node class itself is a tree.
 >
@@ -3348,15 +3302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (23), data (12), [[Search]] (8), [[Algorithms]] (5), next (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5)
 > **CLI Commands:** node (23), find (2)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Analogies:** similar to (2), for example (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - in (1)
 
-#### What are tree traversals?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-are-tree-traversals?u=76281980)
+#### [What are tree traversals?](https://www.linkedin.com/learning/c-sharp-algorithms/what-are-tree-traversals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3428,7 +3381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), data (6), next (6), [[Search]] (3)
 > **CLI Commands:** node (7)
 > **Definitions:** we call this (2), is a  (2), means that (1)
 > **Cross-References:** in the next (1)
@@ -3436,8 +3388,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using recursion to implement tree traversals in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/using-recursion-to-implement-tree-traversals-in-c-sharp?u=76281980)
+#### [Using recursion to implement tree traversals in C#](https://www.linkedin.com/learning/c-sharp-algorithms/using-recursion-to-implement-tree-traversals-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3455,7 +3406,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/c-sharp-algorithms/using-recursion-to-implement-tree-traversals-in-c-sharp?u=76281980&t=29)** The concept of recursion can be a useful tool in this type of algorithm, because we're doing the same operation with a slight modification to the input.
 >
-> **[0:39](https://www.linkedin.com/learning/c-sharp-algorithms/using-recursion-to-implement-tree-traversals-in-c-sharp?u=76281980&t=39)** Let's look at how we can apply this to tree traversal algorithms.
+> **[0:39](https://www.linkedin.com/learning/c-sharp-algorithms/using-recursion-to-implement-tree-traversals-in-c-sharp?u=76281980&t=39)** Let's look at how we can apply this to tree traversal [[Algorithms]].
 >
 > **[0:45](https://www.linkedin.com/learning/c-sharp-algorithms/using-recursion-to-implement-tree-traversals-in-c-sharp?u=76281980&t=45)** We have some sample code here that we've carried over from the previous videos, with a few modifications.
 >
@@ -3571,15 +3522,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), data (4), [[Algorithms]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: find height of binary tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/solution-find-height-of-binary-tree?u=76281980)
+#### [Solution: find height of binary tree](https://www.linkedin.com/learning/c-sharp-algorithms/solution-find-height-of-binary-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3629,7 +3579,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1)
 > **CLI Commands:** node (1)
 
 
@@ -3637,14 +3586,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue optimizing algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980)
+#### [Continue optimizing algorithms](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=0)** - [Kathryn] Congrats on finishing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=2)** Now you know how to create more efficient programs by optimizing your algorithms.
+> **[0:02](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=2)** Now you know how to create more efficient programs by optimizing your [[Algorithms]].
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=9)** As part of this course, we discovered what makes a given algorithm effective, as well as how to make informed assumptions in order to speed up the processing time.
 >
@@ -3652,13 +3600,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=30)** C# has many built-in tools to work with your data.
 >
-> **[0:33](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=33)** And we discovered how to leverage different data structures in order to make your algorithms more efficient.
+> **[0:33](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=33)** And we discovered how to leverage different [[Data Structures]] in order to make your algorithms more efficient.
 >
 > **[0:40](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=40)** Creating more efficient algorithms is all about understanding the assumptions you can make about your data and leveraging the tools in your toolkit.
 >
 > **[0:49](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=49)** To continue optimizing your programs in C#, I encourage you to learn more about what C# has to offer in terms of built-in tools.
 >
-> **[1:00](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=60)** The more specific LinkedIn Learning courses, such as C# Collections, are great for building your knowledge of a specific set of tools in C#.
+> **[1:00](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=60)** The more specific [[LinkedIn]] Learning courses, such as C# Collections, are great for building your knowledge of a specific set of tools in C#.
 >
 > **[1:09](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980&t=69)** Then using the knowledge we've built here, you can decide whether a given tool fits your needs for a particular algorithm.
 >
@@ -3674,7 +3622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), data (5), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Structures]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)

@@ -91,8 +91,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving from analysis to visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/moving-from-analasys-to-visualization?u=76281980)
+#### [Moving from analysis to visualization](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/moving-from-analasys-to-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +111,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** find (1)
 
 
@@ -120,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Humans are visual creatures
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980)
+#### [Humans are visual creatures](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980&t=136)** Now, what do we do if we can't make sense of a table?
 >
-> **[2:19](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980&t=139)** Well, we turn to math, statistics.
+> **[2:19](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980&t=139)** Well, we turn to math, [[Statistics]].
 >
 > **[2:22](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980&t=142)** Turns out math tells us these four data sets are the same.
 >
@@ -225,12 +222,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), hit (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 
-#### Understanding visual perception
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/understanding-visual-perception?u=76281980)
+#### [Understanding visual perception](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/understanding-visual-perception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,13 +344,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), parallel (3), next (2)
 > **Definitions:** known as (2), in other words (1), is called (1), is a  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 
-#### Meeting communications challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980)
+#### [Meeting communications challenges](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +402,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=124)** They'll self-select into the conversation based on their interest in the subject.
 >
-> **[2:08](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=128)** The rest go back to their desks.
+> **[2:08](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=128)** The [[Representational State Transfer (REST)|rest]] go back to their desks.
 >
 > **[2:10](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=130)** That's okay.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=140)** It gets you a bit deeper into the subject.
 >
-> **[2:23](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=143)** Now it turns out two of those people at the cafe, they're total football statistics nerds.
+> **[2:23](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=143)** Now it turns out two of those people at the cafe, they're total football [[Statistics]] nerds.
 >
 > **[2:30](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=150)** They want to go to the research library the next level down.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=188)** You can't just drop somebody into a 100-page PDF or into a dashboard without setting it up with great watercooler moments and café content.
 >
-> **[3:17](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=197)** The second four and the 4x4 are those four key components you want to build into all of your content at all the levels; visualization, storytelling, interactivity, and shareability.
+> **[3:17](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=197)** The second four and the 4x4 are those four key components you want to build into all of your content at all the levels; visualization, [[Storytelling]], interactivity, and shareability.
 >
 > **[3:28](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/meeting-communications-challenges?u=76281980&t=208)** We're not here really to talk about most of these today.
 >
@@ -470,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Representational State Transfer (REST)|Rest]] (2), teams (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Statistics]] (1), [[Storytelling]] (1)
 > **CLI Commands:** find (1), curl (1), make (1)
 > **Env Vars:** pdf (3)
 > **Definitions:** is a  (3)
@@ -478,8 +472,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 
-#### Focus using the KWYs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/focus-using-the-kwys?u=76281980)
+#### [Focus using the KWYs](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/focus-using-the-kwys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +596,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **Env Vars:** kwyrwts (4), kwydis (3), kwyanth (3)
 > **Definitions:** stands for (2)
 > **Analogies:** imagine (1), for instance (1)
@@ -614,18 +606,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to begin? Matrix heatmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980)
+#### [Where to begin? Matrix heatmaps](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=0)** Once our data is cleaned up, and in our analysis tool of choice, there are certain things you probably tend to do first and foremost.
 >
-> **[0:07](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=7)** For instance, if I'm in Excel, the very first step I take 99% of the time is to turn on filters so I can quickly filter and sort my columns.
+> **[0:07](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=7)** For instance, if I'm in [[Microsoft Excel|Excel]], the very first step I take 99% of the time is to turn on filters so I can quickly filter and sort my columns.
 >
 > **[0:16](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=16)** And by the way, this is a data set of salespeople for a company, and it includes each person's total sales and their height.
 >
-> **[0:24](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=24)** Or maybe run some summary statistics like getting the sum, average, or min-max of different columns of data.
+> **[0:24](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=24)** Or maybe run some summary [[Statistics]] like getting the sum, average, or min-max of different columns of data.
 >
 > **[0:30](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980&t=30)** Now, the question for this class is how quickly do you turn to visualizations?
 >
@@ -659,13 +650,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### Where to go next? Distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-go-next-distributions?u=76281980)
+#### [Where to go next? Distributions](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-go-next-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,11 +699,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **CLI Commands:** make (2), find (1)
 
-#### Scatterplot mania
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/scatterplot-mania?u=76281980)
+#### [Scatterplot mania](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/scatterplot-mania?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,13 +769,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Definitions:** in other words (1), is a  (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 
-#### Bars, pies, and lines, why not?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/bars-pies-and-lines-why-not?u=76281980)
+#### [Bars, pies, and lines, why not?](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/bars-pies-and-lines-why-not?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,17 +815,16 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/bars-pies-and-lines-why-not?u=76281980&t=132)** But that doesn't mean you should completely ignore what we know about which charts do what more or less effectively than other charts.
 >
-> **[2:19](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/bars-pies-and-lines-why-not?u=76281980&t=139)** For more about chart picking, see my course here on LinkedIn Learning, "[[Picking the Right Chart for Your Data]]."
+> **[2:19](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/bars-pies-and-lines-why-not?u=76281980&t=139)** For more about chart picking, see my course here on [[LinkedIn]] Learning, "[[Picking the Right Chart for Your Data]]."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Benchmarking everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/benchmarking-everything?u=76281980)
+#### [Benchmarking everything](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/benchmarking-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +858,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/benchmarking-everything?u=76281980&t=88)** Like this person who has very strong sales despite being below average height.
 >
-> **[1:35](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/benchmarking-everything?u=76281980&t=95)** You do this all the time, I'm sure, but how often do you add benchmarks like average lines or highlighted segments in a scatterplot just in the PowerPoint slide you create from the data for your audience, but you don't go back and put it into your analysis visuals?
+> **[1:35](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/benchmarking-everything?u=76281980&t=95)** You do this all the time, I'm sure, but how often do you add benchmarks like average lines or highlighted segments in a scatterplot just in the [[Microsoft PowerPoint|PowerPoint]] slide you create from the data for your audience, but you don't go back and put it into your analysis visuals?
 >
 > **[1:51](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/benchmarking-everything?u=76281980&t=111)** Your audience gets the benefit of that insight, which is great, but you might miss the insight if you aren't treating yourself to the visual experience during analysis as well.
 >
@@ -887,12 +872,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), leadership (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 
-#### Quick and ugly is fine
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/quick-and-ugly-is-fine?u=76281980)
+#### [Quick and ugly is fine](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/quick-and-ugly-is-fine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -934,7 +918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (1)
 
@@ -943,8 +926,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the right data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980)
+#### [Using the right data](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=10)** But here's the thing. From my experience, often my clients who are closest to the data do struggle with this idea.
 >
-> **[0:18](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=18)** And the struggle comes in two primary forms.
+> **[0:18](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=18)** And the struggle comes in two primary [[Forms]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=21)** You've heard the phrase, "If your only tool is a hammer, everything looks like a nail"?
 >
@@ -1032,7 +1014,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=227)** But what are we really trying to communicate here?
 >
-> **[3:51](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=231)** If we take the headline at face value, and the point is that the outlook for revenue growth is dim, we're really just concerned with 2014 and 2015 as far as the main point of this chart.
+> **[3:51](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=231)** If we take the headline at face value, and the point is that the [[Microsoft Outlook|outlook]] for revenue growth is dim, we're really just concerned with 2014 and 2015 as far as the main point of this chart.
 >
 > **[4:03](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980&t=243)** So why are we going all the way back to 2002 with our data?
 >
@@ -1050,14 +1032,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Forms]] (1), teams (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), for example (1)
 > **Best Practices:** remember to (2)
 > **CLI Commands:** make (1)
 
-#### The power of story
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980)
+#### [The power of story](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,13 +1064,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=40)** It does this mostly by helping us understand what might happen in the future, based on past events that we've experienced or that we've heard about through story.
 >
-> **[0:49](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=49)** Effective stories reach us because they give us what the brain craves, a sense of urgency about what happens next, and a way to understand it so we can plan for and react to it if it happens.
+> **[0:49](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=49)** Effective stories reach us because they give us what the brain craves, a sense of urgency about what happens next, and a way to understand it so we can plan for and [[React.js|react]] to it if it happens.
 >
 > **[1:02](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=62)** So communicating data, like communicating anything, is about reaching your audience in a way that they can relate to.
 >
 > **[1:08](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=68)** Stories really are the best way to do this.
 >
-> **[1:11](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=71)** But that doesn't mean that every data visualization is a storytelling experience.
+> **[1:11](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=71)** But that doesn't mean that every data visualization is a [[Storytelling]] experience.
 >
 > **[1:15](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=75)** However, it does mean that the more you can use the structure of a story, no matter how simple, the better off you'll be.
 >
@@ -1101,7 +1082,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=98)** If you think of everything that you create as being in this context, even a single slide, the better off you'll be.
 >
-> **[1:45](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=105)** Now, let's say you're creating some PowerPoint slide.
+> **[1:45](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=105)** Now, let's say you're creating some [[Microsoft PowerPoint|PowerPoint]] slide.
 >
 > **[1:48](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-story?u=76281980&t=108)** First thing, you define the headline or title.
 >
@@ -1157,12 +1138,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Storytelling]] (3), next (2), [[React.js|React]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[React.js|React]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 
-#### Headlines bring focus
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/headlines-bring-focus?u=76281980)
+#### [Headlines bring focus](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/headlines-bring-focus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,7 +1236,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/headlines-bring-focus?u=76281980&t=174)** Now, in this example, the caption is the actual headline.
 >
-> **[2:57](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/headlines-bring-focus?u=76281980&t=177)** The outlook for revenue growth is dim.
+> **[2:57](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/headlines-bring-focus?u=76281980&t=177)** The [[Microsoft Outlook|outlook]] for revenue growth is dim.
 >
 > **[2:59](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/headlines-bring-focus?u=76281980&t=179)** That's the interesting story here.
 >
@@ -1308,7 +1288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), game (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** picture (1), think of it like (1), for instance (1)
 > **Cross-References:** coming up (1)
@@ -1316,8 +1296,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 
-#### Picking the right chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980)
+#### [Picking the right chart](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1330,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=63)** You might be worried about using "boring charts."
 >
-> **[1:06](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=66)** At the same time, there's a visual language and user experience reality that you have to deal with.
+> **[1:06](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=66)** At the same time, there's a visual language and [[User Experience (UX)|user experience]] reality that you have to deal with.
 >
 > **[1:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=72)** Your audience knows how to read and understand certain charts.
 >
@@ -1373,19 +1352,18 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=131)** You want to keep your audience interested.
 >
-> **[2:13](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=133)** You want to use alternative forms, but you want to use alternative forms that are understandable.
+> **[2:13](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=133)** You want to use alternative [[Forms]], but you want to use alternative forms that are understandable.
 >
 > **[2:18](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/picking-the-right-chart?u=76281980&t=138)** So experiment. Be inspired and just find great forms that show the data, tell the stories you're trying to tell, and trigger the actions and responses you want your audience to take. And test, test, test to make sure they're doing what you intend.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forms]] (3)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **CLI Commands:** make (3), find (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Simple tips and tools for using color in data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980)
+#### [Simple tips and tools for using color in data visualization](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,11 +1377,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=24)** You could spend years learning about how to pick and combine colors and the human psychology and cultural significance of color.
 >
-> **[0:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=31)** In fact, you can do some of that here on LinkedIn Learning.
+> **[0:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=31)** In fact, you can do some of that here on [[LinkedIn]] Learning.
 >
 > **[0:34](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=34)** Anyway, the main thing you need to understand is that color is probably the hardest thing to master in design.
 >
-> **[0:41](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=41)** And unfortunately, many of the tools you use, yeah, I'm looking at you Excel, they don't help because they sometimes use default color schemes that can lead you astray even before you blink.
+> **[0:41](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=41)** And unfortunately, many of the tools you use, yeah, I'm looking at you [[Microsoft Excel|Excel]], they don't help because they sometimes use default color schemes that can lead you astray even before you blink.
 >
 > **[0:54](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=54)** So the first place to start, if you can, is to hire a great designer with a fantastic color sense to establish a color palette for you.
 >
@@ -1445,7 +1423,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=155)** This may look elegant, but up to 30% of your audience won't be able to distinguish or maybe even see light shades of color in gray.
 >
-> **[2:44](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=164)** Just google contrast ratio checker, and you'll find websites that will help you check your contrast ratios based on your color palette, or you can even upload images and have them checked that way.
+> **[2:44](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=164)** Just [[Google]] contrast ratio checker, and you'll find websites that will help you check your contrast ratios based on your color palette, or you can even upload images and have them checked that way.
 >
 > **[2:55](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=175)** Another accessibility concern is color blindness.
 >
@@ -1467,7 +1445,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=225)** There's also this tool that I really love.
 >
-> **[3:47](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=227)** You just upload an image of your work and it'll show you what your design looks like, as though you had different forms of colorblindness.
+> **[3:47](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=227)** You just upload an image of your work and it'll show you what your design looks like, as though you had different [[Forms]] of colorblindness.
 >
 > **[3:55](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/simple-tips-and-tools-for-using-color-in-data-visualization?u=76281980&t=235)** So you can adjust colors into the ability to distinguish between elements as optimized.
 >
@@ -1511,14 +1489,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), hit (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1), [[Google]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Analogies:** for instance (1)
 
-#### Tips for axes, labeling, and legends
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/tips-for-axes-labeling-and-legends?u=76281980)
+#### [Tips for axes, labeling, and legends](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/tips-for-axes-labeling-and-legends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,12 +1587,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 
-#### Setting scales in data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980)
+#### [Setting scales in data visualization](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=47)** And yeah, I guess A is the best, but not so high.
 >
-> **[0:51](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=51)** And finally, we have this last company. A is killing it, B is close behind, and the rest are doing poorly, especially F, who has barely sold anything, right?
+> **[0:51](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=51)** And finally, we have this last company. A is killing it, B is close behind, and the [[Representational State Transfer (REST)|rest]] are doing poorly, especially F, who has barely sold anything, right?
 >
 > **[1:02](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=62)** So you're all data analysts who are watching this course.
 >
@@ -1693,7 +1668,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=202)** Just don't use bars.
 >
-> **[3:24](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=204)** Many other chart forms are okay to use with different y-axis, different y scales.
+> **[3:24](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=204)** Many other chart [[Forms]] are okay to use with different y-axis, different y scales.
 >
 > **[3:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=211)** So see this line chart.
 >
@@ -1763,7 +1738,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=349)** But by default, there should be less, not more.
 >
-> **[5:53](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=353)** Another rule people sometimes forget is that when working outside of software that automatically creates visualizations for you, so maybe you're creating your graphic in Photoshop or Illustrator, or you're programming something in Python or D3, you need to decide how to create your shapes and set the parameters manually.
+> **[5:53](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=353)** Another rule people sometimes forget is that when working outside of software that automatically creates visualizations for you, so maybe you're creating your graphic in Photoshop or Illustrator, or you're programming something in [[Python (Programming Language)|Python]] or D3, you need to decide how to create your shapes and set the parameters manually.
 >
 > **[6:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/setting-scales-in-data-visualization?u=76281980&t=372)** So this becomes really important when thinking about a bunch of non-rectangular shapes, especially. For instance, circles.
 >
@@ -1817,15 +1792,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (3), [[Forms]] (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Forms]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** we talked about (1)
 > **Warnings:** be careful (1)
 
-#### Some thoughts about tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980)
+#### [Some thoughts about tools](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1833,7 +1807,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=1)** You have your tools.
 >
-> **[0:03](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=3)** You're probably working in SPSS or Stata or R or whatever, you're working in tools that are built for your data, right?
+> **[0:03](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=3)** You're probably working in SPSS or [[Stata]] or R or whatever, you're working in tools that are built for your data, right?
 >
 > **[0:11](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=11)** But you may or may not be working in tools built to make beautiful and simple graphic displays of that data.
 >
@@ -1841,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=28)** First, let's talk about the standbys that you're likely using.
 >
-> **[0:32](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=32)** Whether you're in Excel, Stata, SPSS, or another tool, you can, and probably already do, generate your own charts and graphs.
+> **[0:32](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=32)** Whether you're in [[Microsoft Excel|Excel]], Stata, SPSS, or another tool, you can, and probably already do, generate your own charts and graphs.
 >
 > **[0:39](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=39)** This is what you do all day long, right?
 >
@@ -1883,13 +1857,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=126)** I have every tool across the horizontal, and then I have all the different types of things I might want to do on the vertical.
 >
-> **[2:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=132)** So let's say I decided that I wanted to create a word cloud or a proportional shape chart, I can just sort of go across and figure out whether different tools will do it, and in fact find links to specific examples.
+> **[2:12](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=132)** So let's say I decided that I wanted to create a [[Microsoft Word|word]] cloud or a proportional shape chart, I can just sort of go across and figure out whether different tools will do it, and in fact find links to specific examples.
 >
 > **[2:25](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=145)** So, for instance, D3, I can click through and literally see an example of this being done in D3.
 >
 > **[2:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=151)** So very helpful to find tools to do specific things.
 >
-> **[2:36](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=156)** And speaking of D3, D3 is a fantastic tool. If you know how to program or are willing to learn how to program, D3 is a JavaScript library for creating really sexy, cool, animated, interactive visualizations.
+> **[2:36](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=156)** And speaking of D3, D3 is a fantastic tool. If you know how to program or are willing to learn how to program, D3 is a [[JavaScript]] library for creating really sexy, cool, animated, interactive visualizations.
 >
 > **[2:51](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=171)** So I highly recommend D3 if you're able to do programming.
 >
@@ -1919,7 +1893,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=262)** CARTO makes it really easy to make amazingly cool maps.
 >
-> **[4:26](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=266)** It's click and drag cloud-based interface, upload your data, follow a couple of wizards, and you can make incredibly sophisticated, beautiful maps again for a website or for a print or static report or a PowerPoint.
+> **[4:26](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=266)** It's click and drag cloud-based interface, upload your data, follow a couple of wizards, and you can make incredibly sophisticated, beautiful maps again for a website or for a print or static report or a [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[4:40](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/some-thoughts-about-tools?u=76281980&t=280)** We could probably do a whole course on tools for data visualization.
 >
@@ -1929,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (6), [[Stata]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Stata]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (6), find (3)
 > **Env Vars:** spss (2), carto (2), pdf (1)
 > **Definitions:** is a  (3), is called (1)
@@ -1937,12 +1911,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Warnings:** be aware (1)
 
-#### Sketching and wireframing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980)
+#### [Sketching and wireframing](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=0)** Sketching and wireframing is one of the very first things you should do in your process.
+> **[0:00](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=0)** [[Sketching]] and wireframing is one of the very first things you should do in your process.
 >
 > **[0:04](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=4)** It's really important, but it's also the thing that data analysts are probably most reluctant to do.
 >
@@ -1958,7 +1931,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=27)** So what do you do once you have your insights?
 >
-> **[0:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=31)** You know you need to make a PowerPoint slide about it.
+> **[0:31](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=31)** You know you need to make a [[Microsoft PowerPoint|PowerPoint]] slide about it.
 >
 > **[0:34](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/sketching-and-wireframing?u=76281980&t=34)** So you export that chart and put it into PowerPoint and you're done.
 >
@@ -2068,12 +2041,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Sketching]] (4), [[Microsoft PowerPoint|Powerpoint]] (2)
+> **Frameworks & Libraries:** [[Sketching]] (4), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 
-#### What about leave-behinds?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980)
+#### [What about leave-behinds?](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2057,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=18)** Sometimes, it's because they feel they need to backup every point they're making with minutia and details, and I can usually get them past that argument.
 >
-> **[0:26](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=26)** But I never win the next most common argument, which is that the PowerPoint or the PDF they're creating is a leave-behind, not just speaker support for a meeting.
+> **[0:26](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=26)** But I never win the next most common argument, which is that the [[Microsoft PowerPoint|PowerPoint]] or the PDF they're creating is a leave-behind, not just speaker support for a meeting.
 >
 > **[0:36](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=36)** And this is a fair point. If you're creating a leave-behind so you won't be there to walk the audience through the data, then yes, you may have to include more details, but -- and this is critical, that does not give you carte blanche to put every detail back in that I might have just started to convince you should come out.
 >
@@ -2111,7 +2083,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=105)** And you do your editing and slimming down in that version. You only include the top most important detail for this version that you're going to present.
 >
-> **[1:54](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=114)** The main point for my presentation on this is that one number, 119, all the rest of it in that previous version is just noise.
+> **[1:54](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=114)** The main point for my presentation on this is that one number, 119, all the [[Representational State Transfer (REST)|rest]] of it in that previous version is just noise.
 >
 > **[2:03](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/what-about-leave-behinds?u=76281980&t=123)** And, of course, you can also use builds.
 >
@@ -2123,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft PowerPoint|Powerpoint]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdf (2)
 > **Documentation:** spec (2)
 > **Definitions:** is a  (2)
@@ -2134,8 +2106,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding the missing link with visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/finding-the-missing-link-with-visuals?u=76281980)
+#### [Finding the missing link with visuals](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/finding-the-missing-link-with-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2199,11 +2170,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is a  (1)
 
-#### Rethinking some charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980)
+#### [Rethinking some charts](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,7 +2186,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=25)** The scenario here is we have, let's say, data from two companies.
 >
-> **[0:28](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=28)** One's a manufacturer and one's a retailer and they've agreed to sell the products at a certain price.
+> **[0:28](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=28)** One's a manufacturer and one's a retailer and they've agreed to sell the [[Microsoft Products|products]] at a certain price.
 >
 > **[0:35](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=35)** The retailer is trying to make the point that when they are under contract to sell the product at a certain price, they adhered to those rules.
 >
@@ -2339,7 +2308,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=273)** So very briefly, the title at the top is the headline.
 >
-> **[4:37](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=277)** The outlook for revenue growth is dim, which means knowing that this data came from 2014, the point is about 2014 and 2015.
+> **[4:37](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=277)** The [[Microsoft Outlook|outlook]] for revenue growth is dim, which means knowing that this data came from 2014, the point is about 2014 and 2015.
 >
 > **[4:44](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/rethinking-some-charts?u=76281980&t=284)** So everything else is grayed out.
 >
@@ -2537,15 +2506,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Products|Products]] (1), product (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** gdp (2), dpi (2)
 > **Versions:** 99.999 (1), 2.4 (1), 7.5 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** just like (1)
 
-#### The power of simplification: Convincing your bosses
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-simplification-convincing-your-bosses?u=76281980)
+#### [The power of simplification: Convincing your bosses](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-simplification-convincing-your-bosses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2637,7 +2605,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-simplification-convincing-your-bosses?u=76281980&t=188)** Another thing to consider is that your boss may not perceive you as an expert on the subject, but by leveraging the expertise of people in the field, you can bask in their glow of expertise.
 >
-> **[3:19](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-simplification-convincing-your-bosses?u=76281980&t=199)** You need one or two statistics or facts to pull out to make the case for simplicity.
+> **[3:19](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-simplification-convincing-your-bosses?u=76281980&t=199)** You need one or two [[Statistics]] or facts to pull out to make the case for simplicity.
 >
 > **[3:25](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/the-power-of-simplification-convincing-your-bosses?u=76281980&t=205)** Tell me this guy doesn't have some serious expert glow to benefit from.
 >
@@ -2747,7 +2715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), game (1), [[Statistics]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (8)
 > **Best Practices:** don't forget (2)
 > **Warnings:** note that (2)
@@ -2759,8 +2727,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2768,11 +2735,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=4)** And for data analysts who are neck-deep in data, it can sometimes be hard to separate from the data itself and think about the communications of the stories behind the data.
 >
-> **[0:14](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=14)** I hope this course has helped you think a bit about the storytelling and that it's helped you think more strategically about how to communicate that information in a visual way that will connect with your audience, and the same principles will help you connect with your data during analysis.
+> **[0:14](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=14)** I hope this course has helped you think a bit about the [[Storytelling]] and that it's helped you think more strategically about how to communicate that information in a visual way that will connect with your audience, and the same principles will help you connect with your data during analysis.
 >
 > **[0:29](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=29)** There are a lot of great resources out there that I'd like to recommend to any data visualization enthusiast.
 >
-> **[0:35](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=35)** First, follow me here on LinkedIn. I share a lot of data visualization content, inspirational examples, research, thought leadership, my own musings and advice on the subject, et cetera and check out my other courses here on LinkedIn Learning on related topics.
+> **[0:35](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=35)** First, follow me here on [[LinkedIn]]. I share a lot of data visualization content, inspirational examples, research, [[Thought Leadership]], my own musings and advice on the subject, et cetera and check out my other courses here on LinkedIn Learning on related topics.
 >
 > **[0:52](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980&t=52)** There are plenty of books on the subject, including some of my favorites like "The Functional Art", "Now You See It", "Visualize This" and "History of Information Graphics."
 >
@@ -2792,7 +2759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Storytelling]] (2), [[LinkedIn]] (2), [[Thought Leadership]] (1), functional (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2), [[LinkedIn]] (2), [[Thought Leadership]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)

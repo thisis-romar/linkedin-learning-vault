@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data-informed strategic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980)
+#### [Data-informed strategic thinking](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,38 +106,37 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980&t=19)** As a data scientist, I've got tools to help business leaders make better decisions, and as a strategic thinker, I utilize a lot of business vocabulary to help those leaders learn more from data and from data scientists just like you.
 >
-> **[0:31](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980&t=31)** Join me now as we intersect the concepts of strategic thinking with good data science.
+> **[0:31](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980&t=31)** Join me now as we intersect the concepts of [[Strategic Thinking]] with good [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** swot (1)
 > **Analogies:** just like (1)
 > **Speakers:** - vision (1)
 
-#### What experience should you have for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980)
+#### [What experience should you have for this course?](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=0)** - [Instructor] To get the most out of our course, you should have experience and expertise in a more advanced statistical analysis software suite, such as SAS, R, Stata, or SPSS.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=0)** - [Instructor] To get the most out of our course, you should have experience and expertise in a more advanced [[Statistical Analysis]] software suite, such as SAS, R, [[Stata]], or SPSS.
 >
 > **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=11)** While we'll review some exercises using SAS output, you don't have to be proficient in SAS or in the SAS programming language in order to follow along.
 >
 > **[0:19](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=19)** We'll show you code and outputs and explain them as we move forward.
 >
-> **[0:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=23)** Knowing key data science concepts however, things like descriptive analyses, inferential tests, and regression is essential, and this background will be assumed throughout the course.
+> **[0:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=23)** Knowing key [[Data Science]] concepts however, things like descriptive analyses, inferential tests, and regression is essential, and this background will be assumed throughout the course.
 >
-> **[0:35](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=35)** If you're looking for a good SAS preparatory course in data analysis, you may want to consider the LinkedIn Learning Course SAS Essential Training 1, Descriptive Analysis for Healthcare Research.
+> **[0:35](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=35)** If you're looking for a good SAS preparatory course in data analysis, you may want to consider the [[LinkedIn]] Learning Course SAS Essential Training 1, Descriptive Analysis for Healthcare Research.
 >
 > **[0:45](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=45)** Links are available on the website.
 >
-> **[0:48](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=48)** Again, welcome to the course, and we look forward to sharing data analysis tools combined with good strategic thinking.
+> **[0:48](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-experience-should-you-have-for-this-course?u=76281980&t=48)** Again, welcome to the course, and we look forward to sharing data analysis tools combined with good [[Strategic Thinking]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistical Analysis]] (1), [[Stata]] (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1), [[Stata]] (1), [[Data Science]] (1), [[LinkedIn]] (1), [[Strategic Thinking]] (1)
 > **Env Vars:** sas (6), spss (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -148,14 +146,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is strategy, and what role does data science play?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980)
+#### [What is strategy, and what role does data science play?](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=0)** - [Instructor] The goals in this course are simple.
 >
-> **[0:02](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=2)** Learn how you and data science can become a more integral part of your firm's strategic thinking.
+> **[0:02](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=2)** Learn how you and [[Data Science]] can become a more integral part of your firm's [[Strategic Thinking]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=7)** But what is strategy to you and how's a plan different from thinking?
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=102)** Note in this chart how the term strategy or strategic became very popular after World War II.
 >
-> **[1:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=110)** Thus, you want to develop plans that not only help you achieve goals within reasonable time periods, but also do so in such a way that you have a higher probability of winning against your competition.
+> **[1:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=110)** Thus, you want to develop plans that not only help you achieve goals within reasonable time periods, but also do so in such a way that you have a higher [[Probability]] of winning against your competition.
 >
 > **[2:02](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980&t=122)** But a strategic plan is not enough.
 >
@@ -247,15 +244,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Strategic Thinking]] (6), business (6), [[Probability]] (2), management (2)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[Strategic Thinking]] (6), [[Probability]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leadership and management: Strategic challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/leadership-and-management-strategic-challenges?u=76281980)
+#### [Leadership and management: Strategic challenges](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/leadership-and-management-strategic-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,15 +313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), leadership (3), power (2), business (2), next (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** next video (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why strategy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980)
+#### [Why strategy?](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=78)** Competitors want the same customers and resources.
 >
-> **[1:22](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=82)** Customers want the same products and services from several providers.
+> **[1:22](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=82)** Customers want the same [[Microsoft Products|products]] and services from several providers.
 >
 > **[1:26](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=86)** People who supply the market, those holders of resources, decide how to allocate their supplies to the competitor that they believe will be most profitable for them.
 >
@@ -375,11 +369,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=150)** And this is precisely why we need strategy, which we'll talk about in terms of a timeline here in a moment.
 >
-> **[2:37](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=157)** Without a solid plan for your business, resources, and so on, keeping in mind how other players might react, you'll likely just coast along.
+> **[2:37](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=157)** Without a solid plan for your business, resources, and so on, keeping in mind how other players might [[React.js|react]], you'll likely just coast along.
 >
 > **[2:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=167)** And perhaps at some point, you'll become outdated or irrelevant in the eyes of consumers and suppliers.
 >
-> **[2:53](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=173)** Research has clearly shown that firms that have strategies simply have a higher probability of winning or getting those scarce resources in a competitive environment.
+> **[2:53](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=173)** Research has clearly shown that firms that have strategies simply have a higher [[Probability]] of winning or getting those scarce resources in a competitive environment.
 >
 > **[3:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=184)** And that's why you need strategy, which we'll lay out here on the next slide.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=363)** There are many ways that we can get from today to tomorrow, but what's the path, or the plan, or the goals that we think will get us there fastest and will help us win before anyone else can?
 >
-> **[6:18](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=378)** So a different way to think about strategy or strategic thinking is a process, not just a report, but a process of choosing a better future state where we'd like to be, that's our vision, and using that chosen state to guide what we do today, or our mission.
+> **[6:18](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=378)** So a different way to think about strategy or [[Strategic Thinking]] is a process, not just a report, but a process of choosing a better future state where we'd like to be, that's our vision, and using that chosen state to guide what we do today, or our mission.
 >
 > **[6:35](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/why-strategy?u=76281980&t=395)** We'll then use the outcomes of our work from our day-to-day efforts to constantly assess whether we're moving toward our vision or not.
 >
@@ -465,14 +459,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), next (4), [[Strategic Thinking]] (4), [[Microsoft Products|Products]] (2), data (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (4), [[Microsoft Products|Products]] (2), [[React.js|React]] (1), [[Probability]] (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** nfe (1)
 > **Speakers:** - [instructor] (1)
 
-#### Three levels of strategic thinking and decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980)
+#### [Three levels of strategic thinking and decision-making](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=12)** Now, back to our course.
 >
-> **[0:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=14)** We can summarize our strategic thinking process in these three steps or phases that you see on this chart.
+> **[0:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=14)** We can summarize our [[Strategic Thinking]] process in these three steps or phases that you see on this chart.
 >
 > **[0:21](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=21)** It's important that you address all three of them, although it really doesn't matter in what order you go through them.
 >
@@ -524,7 +517,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=116)** Many business leaders develop great ideas, that's the conceptual level, but then jump straight down to the operational level and try to do it.
 >
-> **[2:05](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=125)** But that's why you're taking this course, to make sure any mission or vision can actually be validated with good data and good data science.
+> **[2:05](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=125)** But that's why you're taking this course, to make sure any mission or vision can actually be validated with good data and good [[Data Science]].
 >
 > **[2:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/three-levels-of-strategic-thinking-and-decision-making?u=76281980&t=134)** Finally, after you've proven your idea's viability or feasibility, it's time to put your idea into practice, and that means looking at the operational level of strategic thinking.
 >
@@ -552,18 +545,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (6), data (4), next (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (6), [[Data Science]] (2)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conceptual strategy: Vision, mission, and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980)
+#### [Conceptual strategy: Vision, mission, and values](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=0)** - [Instructor] Now let's explore each of the three areas of strategic thinking: conceptual, analytical, and operational in a bit more detail and see how you can inform them with data science.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=0)** - [Instructor] Now let's explore each of the three areas of [[Strategic Thinking]]: conceptual, analytical, and operational in a bit more detail and see how you can inform them with [[Data Science]].
 >
 > **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=11)** Let's start with a conceptual level of strategic thinking.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=52)** Those are the values that you'll never sacrifice in order to be successful.
 >
-> **[0:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=57)** Those legal rules and good ethics I talked about before.
+> **[0:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=57)** Those legal rules and good [[Ethics]] I talked about before.
 >
 > **[1:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=61)** Where do you want to be at a specific point in time?
 >
@@ -665,7 +657,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=259)** They should also help identify you and your firm and separate it from the competition.
 >
-> **[4:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=264)** Missions are often articulated in terms of the unique resources you use, the processes that you employ, or the products and markets that you serve.
+> **[4:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=264)** Missions are often articulated in terms of the unique resources you use, the processes that you employ, or the [[Microsoft Products|products]] and markets that you serve.
 >
 > **[4:33](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/conceptual-strategy-vision-mission-and-values?u=76281980&t=273)** So what are your firm's visions and missions, or the missions for your team?
 >
@@ -685,23 +677,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Strategic Thinking]] (2), data (1), [[Ethics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Data Science]] (1), [[Ethics]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: How to see a firm's vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980)
+#### [Practice: How to see a firm's vision](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=0)** - [Narrator] In this video, you'll walk through some practice exercises using test data and the statistical analysis software or SaaS programming package.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=0)** - [Narrator] In this video, you'll walk through some practice exercises using test data and the [[Statistical Analysis]] software or [[SaaS]] programming package.
 >
 > **[0:10](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=10)** You do not need to perform any calculations, however, or use any software, even though you will see some outputs and code from the SaaS programming language.
 >
 > **[0:20](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=20)** Just follow along and consider the solutions shown.
 >
-> **[0:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=24)** Think along with me now as we consider how to use data science to assess and to refine some conceptual strategic elements like mission and vision.
+> **[0:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=24)** Think along with me now as we consider how to use [[Data Science]] to assess and to refine some conceptual strategic elements like mission and vision.
 >
 > **[0:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=34)** And don't forget that all of these practice outputs are available in the notes, and you're welcome to take notes on the handouts as you see fit.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=220)** Why could this be the case?
 >
-> **[3:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=222)** If we look at return on investment for our customers, this is how much money they are making by virtue of investing in our bank's products, we notice that we actually, have pretty good returns.
+> **[3:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=222)** If we look at return on investment for our customers, this is how much money they are making by virtue of investing in our bank's [[Microsoft Products|products]], we notice that we actually, have pretty good returns.
 >
 > **[3:54](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=234)** In fact, our bank is the second best bank in the market, yet, our customer satisfaction is the lowest.
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=254)** So, if our bank's mission is to help our customers succeed financially, while providing them with high levels of customer satisfaction, perhaps we have some work to do in the customer satisfaction department.
 >
-> **[4:26](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=266)** There's only one bank, Bank E here, that outpaces the industry, while we're not terribly different from all the rest.
+> **[4:26](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=266)** There's only one bank, Bank E here, that outpaces the industry, while we're not terribly different from all the [[Representational State Transfer (REST)|rest]].
 >
 > **[4:36](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-see-a-firm-s-vision?u=76281980&t=276)** This means you should probably see what Company E is doing to wow their customers much better than our bank and a number of the other competitors.
 >
@@ -765,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SaaS]] (4), [[Programming]] (2), [[Statistical Analysis]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (4), [[Data Science]] (2), [[Statistical Analysis]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pthf (7)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
@@ -779,8 +770,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analytical strategy: Assessing a competitive market
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980)
+#### [Analytical strategy: Assessing a competitive market](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +838,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=169)** They were so convinced that people wanted the in-person store-based browsing experience, that they completely underestimated this new competitor.
 >
-> **[2:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=177)** And that new competitor very rapidly assented to a leadership position in the rental movie market, certainly helped by the then early e-commerce boom, no doubt.
+> **[2:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=177)** And that new competitor very rapidly assented to a leadership position in the rental movie market, certainly helped by the then early [[E-Commerce]] boom, no doubt.
 >
 > **[3:07](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=187)** And today, Netflix reigns supreme, and Blockbuster is gone, as is the Netflix mail order channel.
 >
@@ -856,13 +846,13 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=196)** But knowing that the competition was out there doing something, and then adapting and making choices about how to compete, those were critical signals and signs and decisions that our friends at Blockbuster missed.
 >
-> **[3:29](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=209)** So don't forget, look outside and use data science to see the world around you.
+> **[3:29](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=209)** So don't forget, look outside and use [[Data Science]] to see the world around you.
 >
 > **[3:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980&t=214)** We'll talk about how to do that in our upcoming videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), leadership (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Data Science]] (1)
 > **Analogies:** picture (4)
 > **Env Vars:** vhs (2)
 > **Tools:** notion (2)
@@ -871,8 +861,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Macrostrategy: Porter's five forces
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980)
+#### [Macrostrategy: Porter's five forces](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +875,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=44)** Competitors we typically understand as those firms or individuals who are competing with us.
 >
-> **[0:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=50)** Namely, they are trying to sell products and services in a way to attract customers to them and away from us.
+> **[0:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=50)** Namely, they are trying to sell [[Microsoft Products|products]] and services in a way to attract customers to them and away from us.
 >
 > **[0:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=57)** So these are firms that are really engaged with suppliers and competing with us based on products and services that are similar to ours.
 >
@@ -978,7 +967,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=391)** It's not a new entrant, but it's something that can substitute for something as invasive or radical as surgery, for example.
 >
-> **[6:39](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=399)** So now the question becomes how do we use data science?
+> **[6:39](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=399)** So now the question becomes how do we use [[Data Science]]?
 >
 > **[6:43](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/macro-strategy-porter-s-five-forces?u=76281980&t=403)** How does that help us understand suppliers and competitors, et cetera?
 >
@@ -1054,13 +1043,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), data (4), power (3), next (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Data Science]] (2)
 > **Analogies:** for example (4), similar to (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microstrategy: SWOT
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980)
+#### [Microstrategy: SWOT](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1078,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=78)** Our employees like working for us.
 >
-> **[1:21](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=81)** And we also may provide our banking services at very competitive prices.
+> **[1:21](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=81)** And we also may provide our [[Banking]] services at very competitive prices.
 >
 > **[1:25](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=85)** In fact, we saw from one of our earlier analyses that we actually do provide very good returns on investment for our stakeholders, for our customers.
 >
@@ -1100,13 +1088,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=100)** These are the deficiencies or the challenges that you have in your market space.
 >
-> **[1:45](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=105)** For example, although you might be strong in your pricing, your ability to retain customers or change or innovate your products might be limited.
+> **[1:45](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=105)** For example, although you might be strong in your pricing, your ability to retain customers or change or innovate your [[Microsoft Products|products]] might be limited.
 >
 > **[1:56](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=116)** For example, in our bank, we may be good at handling our commercial accounts, but not good at adding new and innovative services for our account holders as fast as competitors do.
 >
 > **[2:08](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=128)** We might be seen as difficult to work with or not very customer focused because of this.
 >
-> **[2:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=134)** Again, we can use data science to see where these deficiencies are, where these weaknesses occur, and start to think about strategies to improve upon them.
+> **[2:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=134)** Again, we can use [[Data Science]] to see where these deficiencies are, where these weaknesses occur, and start to think about strategies to improve upon them.
 >
 > **[2:25](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/micro-strategy-swot?u=76281980&t=145)** Now, let's look at the rows in the table, opportunities and threats.
 >
@@ -1162,14 +1150,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (10), [[Banking]] (4), business (3), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Banking]] (4), [[Microsoft Products|Products]] (1), [[Data Science]] (1)
 > **Analogies:** for example (5), picture (3)
 > **Env Vars:** swot (5), pthf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SWOTs to derive strategic options
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980)
+#### [Using SWOTs to derive strategic options](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=32)** A useful approach for developing these strategic options is to create these intersections.
 >
-> **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=38)** For example, as you see here, if you intersect your strengths, like employees with deep knowledge of your affordable products, with some opportunities, like phone-based banking or paper-free ATMs, you could deploy some of your staff to phones to answer customer questions or develop even cheaper banking products because you no longer need to provide deposit slips at ATMs.
+> **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=38)** For example, as you see here, if you intersect your strengths, like employees with deep knowledge of your affordable [[Microsoft Products|products]], with some opportunities, like phone-based [[Banking]] or paper-free ATMs, you could deploy some of your staff to phones to answer customer questions or develop even cheaper banking products because you no longer need to provide deposit slips at ATMs.
 >
 > **[1:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=60)** These might be investments and improvements that you want to make quickly before the competition has a chance to beat you.
 >
@@ -1241,7 +1228,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=300)** You can't overcome every weakness while taking advantage of every opportunity.
 >
-> **[5:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=304)** So prioritization here is key, and data science can certainly help with that prioritization.
+> **[5:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=304)** So prioritization here is key, and [[Data Science]] can certainly help with that prioritization.
 >
 > **[5:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/using-swots-to-derive-strategic-options?u=76281980&t=311)** When we have to make choices among things that we can go do easily or places where we need to upskill and partner against things where we need to defend against threats or maybe walk away from because we're weak and being threatened, data science plays an important role in addition to good experience and judgment.
 >
@@ -1257,7 +1244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (7), [[Banking]] (4), business (4), data (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Banking]] (4), [[Data Science]] (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (4)
 > **Env Vars:** swot (3)
 > **Cross-References:** in the last (1), we talked about (1), in the next (1)
@@ -1265,22 +1252,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: How to assess a firm's competitiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980)
+#### [Practice: How to assess a firm's competitiveness](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=0)** - [Narrator] In this next practice exercise, you now have expanded your data collection to include information about 20 major consumer finance companies, including our bank, PTHF Bank, with information that's related to our bank's mission.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=0)** - [Narrator] In this next practice exercise, you now have expanded your [[Data Collection]] to include information about 20 major consumer finance companies, including our bank, PTHF Bank, with information that's related to our bank's mission.
 >
 > **[0:15](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=15)** You'll seek to now quantitatively examine the question of whether our bank is achieving its mission by exploring the distribution of the different variables in your dataset and how our bank compares with its major competitors.
 >
-> **[0:28](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=28)** Just for review, recall some basic descriptive statistics noted here, such as the mean, the median, the standard deviations, skewness, kurtosis, and so forth.
+> **[0:28](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=28)** Just for review, recall some basic descriptive [[Statistics]] noted here, such as the mean, the median, the standard deviations, skewness, kurtosis, and so forth.
 >
 > **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=38)** And don't forget to download the exercise outputs from the course website.
 >
 > **[0:43](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=43)** Feel free to take notes on them as we go through this example.
 >
-> **[0:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=47)** Remember, we may show you some SaaS code and data, but you don't have to run any of these.
+> **[0:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=47)** Remember, we may show you some [[SaaS]] code and data, but you don't have to run any of these.
 >
 > **[0:53](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=53)** We'll show you all of the outputs and go through them in detail.
 >
@@ -1316,7 +1302,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=195)** The PTHF Bank's lifetime ROI average is 5.6.
 >
-> **[3:20](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=200)** Notice that's pretty good relative to the rest of the market.
+> **[3:20](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=200)** Notice that's pretty good relative to the [[Representational State Transfer (REST)|rest]] of the market.
 >
 > **[3:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-how-to-assess-a-firm-s-competitiveness?u=76281980&t=204)** So we've got low customer satisfaction, but our investors seem to be making more money than they would be with our competitors.
 >
@@ -1364,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (4), next (2), [[SaaS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Data Collection]] (1), [[SaaS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pthf (8), roi (5), swot (1)
 > **Versions:** 4.9 (1), 5.6 (1), 8.2 (1)
 > **Analogies:** such as (2), for example (1)
@@ -1378,8 +1364,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Operational strategy: Scorecards and action plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980)
+#### [Operational strategy: Scorecards and action plans](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1387,13 +1372,13 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=1)** Dr. Paul Thurman here checking in with you.
 >
-> **[0:03](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=3)** How's your LinkedIn Learning experience going?
+> **[0:03](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=3)** How's your [[LinkedIn]] Learning experience going?
 >
 > **[0:06](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=6)** Speaking the vocabulary of business is critical for data scientists like you who support critical functions and business planning.
 >
 > **[0:13](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=13)** Key terms like vision and mission and values that we've discussed in our conceptual thinking, as well as the porter and SWOT analysis that come from the analytical strategy component of the course are well known to most business leaders, and I hope you're getting more comfortable using them because the more comfortable you are using these terms, the more aligned you'll be with the important business goals and decisions that your leadership is making.
 >
-> **[0:36](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=36)** Now let's dive back into our course and informed decision making and strategic thinking.
+> **[0:36](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=36)** Now let's dive back into our course and informed decision making and [[Strategic Thinking]].
 >
 > **[0:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=42)** Let's take stock of your progress.
 >
@@ -1401,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=47)** That's part of conceptual strategy.
 >
-> **[0:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=50)** And you've market tested with good data science, your strategic options in your marketplace.
+> **[0:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=50)** And you've market tested with good [[Data Science]], your strategic options in your marketplace.
 >
 > **[0:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980&t=57)** That's thanks to the analytical strategy elements.
 >
@@ -1441,13 +1426,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (3), [[LinkedIn]] (1), leadership (1), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[LinkedIn]] (1), [[Strategic Thinking]] (1)
 > **Env Vars:** swot (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - hi (1)
 
-#### Milestones and obstacles: Folding back and action planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/milestones-and-obstacles-folding-back-and-action-planning?u=76281980)
+#### [Milestones and obstacles: Folding back and action planning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/milestones-and-obstacles-folding-back-and-action-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,15 +1499,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), management (1), business (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** roi (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics and targets for success: The balanced scorecard
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980)
+#### [Metrics and targets for success: The balanced scorecard](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1571,7 +1553,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=133)** Internal operational metrics comprise those metrics that are important to your internal operations, but that the customer likely never sees or cares about until they notice poor performance.
 >
-> **[2:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=144)** Back office functions such as human resources, information technology, finance and accounting, and so forth often have metrics that are critical to business success.
+> **[2:24](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=144)** Back [[Microsoft Office|office]] functions such as [[Human Resources (HR)|human resources]], information technology, finance and accounting, and so forth often have metrics that are critical to business success.
 >
 > **[2:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=154)** For example, numbers of open positions that need to be filled, the network uptime or wifi quality inside an organization.
 >
@@ -1603,7 +1585,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=238)** Also, make sure you can actually collect data and calculate easily key measurements.
 >
-> **[4:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=244)** Creating metrics that require large surveys or databases to be created may not be worth the effort.
+> **[4:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=244)** Creating metrics that require large surveys or [[Databases]] to be created may not be worth the effort.
 >
 > **[4:10](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/metrics-and-targets-for-success-the-balanced-scorecard?u=76281980&t=250)** Finally, a balanced scorecard doesn't mean you need the same number of metrics in each of the four areas either.
 >
@@ -1631,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Human Resources (HR)|Human resources]] (1), [[Databases]] (1)
 > **Analogies:** for example (4), such as (1), just like (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (1)
@@ -1640,8 +1622,7 @@ created: 2026-05-02
 > **Warnings:** common error (1)
 > **Speakers:** - [narrator] (1)
 
-#### Practice: Aligning key metrics and action plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980)
+#### [Practice: Aligning key metrics and action plans](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1709,9 +1690,9 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980&t=245)** Also, what other factors might also be related to customer satisfaction in lifetime ROI at a customer level, not at a bank level.
 >
-> **[4:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980&t=254)** Data science and scientists like you can come to the rescue here.
+> **[4:14](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980&t=254)** [[Data Science]] and scientists like you can come to the rescue here.
 >
-> **[4:19](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980&t=259)** As this brief introduction to the three levels of strategic thinking ends, let's review the key concepts covered thus far.
+> **[4:19](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980&t=259)** As this brief introduction to the three levels of [[Strategic Thinking]] ends, let's review the key concepts covered thus far.
 >
 > **[4:25](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-aligning-key-metrics-and-action-plans?u=76281980&t=265)** In the next series of videos, you'll drill down more deeply into the conceptual, analytical, and operational levels of strategic thinking and the tools that we've already covered in these chapters.
 >
@@ -1721,7 +1702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Strategic Thinking]] (3), next (2), business (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (3), [[Data Science]] (2)
 > **Env Vars:** pthf (3), roi (3), sas (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
@@ -1734,16 +1715,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deeper conceptual thinking: Values, leadership, and conflict
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980)
+#### [Deeper conceptual thinking: Values, leadership, and conflict](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980&t=0)** - [Narrator] Let's back up now and take a more focused look at the conceptual level of strategic thinking.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980&t=0)** - [Narrator] Let's back up now and take a more focused look at the conceptual level of [[Strategic Thinking]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980&t=6)** Here, we'll explore the ideas of mission, vision, and values a bit more closely.
 >
-> **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980&t=11)** You'll learn how to create a solid mission and vision, and how to apply graphical and data science tools to test these concepts.
+> **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980&t=11)** You'll learn how to create a solid mission and vision, and how to apply graphical and [[Data Science]] tools to test these concepts.
 >
 > **[0:18](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980&t=18)** You'll look back at some of the work you've already done with our PTHF bank, so be sure to follow along with the course handouts.
 >
@@ -1799,16 +1779,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Strategic Thinking]] (1), teams (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Strategic Thinking]] (1)
 > **Env Vars:** pthf (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a compelling vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/creating-a-compelling-vision?u=76281980)
+#### [Creating a compelling vision](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/creating-a-compelling-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/creating-a-compelling-vision?u=76281980&t=0)** - [Instructor] Recall that the conceptual level of strategic thinking focuses on defining who you or your firm is and why you and your firm exist.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/creating-a-compelling-vision?u=76281980&t=0)** - [Instructor] Recall that the conceptual level of [[Strategic Thinking]] focuses on defining who you or your firm is and why you and your firm exist.
 >
 > **[0:08](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/creating-a-compelling-vision?u=76281980&t=8)** Mission.
 >
@@ -1884,18 +1863,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (3), next (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (3)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Seeing a firm's vision part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980)
+#### [Practice: Seeing a firm's vision part two](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=0)** - [Instructor] In this next practice exercise, let's look at some data science tools to help review and assess different firm's missions and visions.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=0)** - [Instructor] In this next practice exercise, let's look at some [[Data Science]] tools to help review and assess different firm's missions and visions.
 >
 > **[0:07](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=7)** Let's go back to our bank, the PTHF Bank example from earlier discussions, where you assessed average performance of the bank relative to its competitors.
 >
@@ -1917,7 +1895,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=81)** For example, internal quality assessment, and the year or years that they've been a customer with us.
 >
-> **[1:29](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=89)** Let's now look at some descriptive statistics from the two years of data that we have for our bank's customers, roughly 500 of them.
+> **[1:29](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=89)** Let's now look at some descriptive [[Statistics]] from the two years of data that we have for our bank's customers, roughly 500 of them.
 >
 > **[1:36](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-seeing-a-firm-s-vision-part-ii?u=76281980&t=96)** Shown here are some descriptive statistics for several measures, like need for professional advice and customer satisfaction for the years 2014 and 2017.
 >
@@ -1971,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (5), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Data Science]] (1)
 > **Analogies:** for example (5)
 > **Env Vars:** pthf (3), roi (1)
 > **Cross-References:** go back to (1)
@@ -1979,8 +1957,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aligning mission and vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980)
+#### [Aligning mission and vision](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1967,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=12)** Your mission statement should really answer some key questions, such as how do you add value and why do you exist for your customers, and what it is that makes you special or unique in terms of servicing them?
 >
-> **[0:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=23)** Key elements of a good mission statement include your rationale for why you do what you do, and to what end, or for what purpose, what resources you need, and what processes you use, and what products and services you offer to specific customer groups.
+> **[0:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=23)** Key elements of a good mission statement include your rationale for why you do what you do, and to what end, or for what purpose, what resources you need, and what processes you use, and what [[Microsoft Products|products]] and services you offer to specific customer groups.
 >
 > **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=38)** Like visions, though, missions can be misleading or misstated.
 >
@@ -2014,7 +1991,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=101)** Otherwise, you'll lose focus and your team may lose focus and not be able to manage its tasks.
 >
-> **[1:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=107)** Middle management, especially data scientists like you, can become frustrated because executives want to go in one direction with their visioning dialogues, seen here at the top, whereas the rest of the organization and you may want to go in a different direction and believe in a different mission to get to a particular vision.
+> **[1:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=107)** Middle management, especially data scientists like you, can become frustrated because executives want to go in one direction with their visioning dialogues, seen here at the top, whereas the [[Representational State Transfer (REST)|rest]] of the organization and you may want to go in a different direction and believe in a different mission to get to a particular vision.
 >
 > **[2:07](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=127)** Resolving these challenges and disconnects is critical, yet it's often difficult with larger organizations with different levels of management and lots of people, depending on the decisions being made.
 >
@@ -2030,37 +2007,36 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=207)** In fact, if you think about the common tools that leaders and managers use to convey direction or vision that a firm should have in place, an interesting observation is made.
 >
-> **[3:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=218)** Executives and outside advisors and consultants, for example, tend to use tools like Microsoft PowerPoint to convey a vision.
+> **[3:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=218)** Executives and outside advisors and consultants, for example, tend to use tools like [[Microsoft PowerPoint]] to convey a vision.
 >
 > **[3:45](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=225)** These tend to be in colorful pictures that illustrate futuristic or conceptual ideals and goals that the organization wants to achieve.
 >
 > **[3:55](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=235)** And that's good, because that can get people on board in terms of where the organization or the team is headed.
 >
-> **[4:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=241)** However, middle management, like you, the data scientists, now have to test those visions for feasibility, often using analytical tools, Microsoft Excel, SAS, R, and other packages to really validate the feasibility and viability.
+> **[4:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=241)** However, middle management, like you, the data scientists, now have to test those visions for feasibility, often using analytical tools, [[Microsoft Excel]], SAS, R, and other packages to really validate the feasibility and viability.
 >
 > **[4:20](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=260)** Understanding market trends, for example, from the Porter model and whether the competitive positioning supports that vision, perhaps through SWOT analysis.
 >
-> **[4:30](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=270)** Assuming that all of the data science helps pass the feasibility and reality tests of a vision, that now has to be turned into something that's doable and executable.
+> **[4:30](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=270)** Assuming that all of the [[Data Science]] helps pass the feasibility and reality tests of a vision, that now has to be turned into something that's doable and executable.
 >
-> **[4:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=282)** To do this, we often tend to use tools like Microsoft Word to develop policies and procedures, or process flows and workflows that teams can do and put in place to get the job done.
+> **[4:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=282)** To do this, we often tend to use tools like [[Microsoft Word]] to develop policies and procedures, or process flows and workflows that teams can do and put in place to get the job done.
 >
 > **[4:56](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=296)** Again, these tools don't always align or integrate well with each other.
 >
-> **[5:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=300)** Anyone who's ever worked with the Microsoft Office Suite can talk about how it's sometimes challenging to get information in a Word document to display properly in PowerPoint and vice versa.
+> **[5:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=300)** Anyone who's ever worked with the [[Microsoft Office]] Suite can talk about how it's sometimes challenging to get information in a [[Microsoft Word|Word]] document to display properly in [[Microsoft PowerPoint|PowerPoint]] and vice versa.
 >
 > **[5:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/aligning-mission-and-vision?u=76281980&t=311)** So even at a software level, it's often hard to align these concepts, it's also harder in a management context, but that's why we're here talking about strategy and how data science can help us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), data (5), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft PowerPoint]] (1), [[Microsoft Excel]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** sas (1), swot (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Using regression to create alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980)
+#### [Practice: Using regression to create alignment](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2094,7 +2070,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=108)** So how well do our activities today, our mission, align or connect to the vision of tomorrow?
 >
-> **[1:55](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=115)** Let's see how data science can help us.
+> **[1:55](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=115)** Let's see how [[Data Science]] can help us.
 >
 > **[1:58](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=118)** Let's use some regression modeling here, in this example, to see how well aligned our mission and vision are.
 >
@@ -2102,9 +2078,9 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=141)** Those input variables we want to do a good job of explaining the output variable in order to make good predictions.
 >
-> **[2:28](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=148)** We're going to examine a few key metrics or diagnostics of regression, such as looking at the adjusted R-squared, looking at Q-Q plots, assessing variance inflation factors, and identifying big outliers through the use of studentized residuals that are more common in advanced statistical tools like R, and SSAS, and Stata.
+> **[2:28](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=148)** We're going to examine a few key metrics or diagnostics of regression, such as looking at the adjusted R-squared, looking at Q-Q plots, assessing variance inflation factors, and identifying big outliers through the use of studentized residuals that are more common in advanced statistical tools like R, and SSAS, and [[Stata]].
 >
-> **[2:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=170)** Note that simple tools like Excel may not be able to report or generate all of these types of outputs.
+> **[2:50](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=170)** Note that simple tools like [[Microsoft Excel|Excel]] may not be able to report or generate all of these types of outputs.
 >
 > **[2:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=177)** Be sure to refer to the handout for this lecture as we go through the example and the SSAS output.
 >
@@ -2178,7 +2154,7 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=454)** So remember, not all of those variables were significant in predicting satisfaction, and this could be contributing to some of the outlier effects we see with some of the residuals in this plot.
 >
-> **[7:45](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=465)** Again, look for a nice straight line of residuals along a 45-degree line to ensure that you are satisfying the residual normality assumption for linear regression.
+> **[7:45](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=465)** Again, look for a nice straight line of residuals along a 45-degree line to ensure that you are satisfying the residual normality assumption for [[Linear Regression]].
 >
 > **[7:58](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=478)** In terms of collinearity, an effect that is caused when different input variables will predict each other as opposed to predicting the output, this is something we want to minimize when we build regression models.
 >
@@ -2186,7 +2162,7 @@ created: 2026-05-02
 >
 > **[8:22](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=502)** This can lead to an estimated standard error of the regression coefficient being overestimated or the model being so-called over-fitted.
 >
-> **[8:30](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=510)** And as a result, the magnitude of the statistics in the model can be underestimated.
+> **[8:30](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=510)** And as a result, the magnitude of the [[Statistics]] in the model can be underestimated.
 >
 > **[8:36](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-regression-to-create-alignment?u=76281980&t=516)** You can examine collinearity and see if it exists in your regression model by looking at a variance inflation factor.
 >
@@ -2242,7 +2218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (4), next (3), [[Statistics]] (2), management (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Statistics]] (2), [[Stata]] (1), [[Microsoft Excel|Excel]] (1), [[Linear Regression]] (1)
 > **Env Vars:** ssas (5), roi (2), pthf (1)
 > **Analogies:** for example (2), picture (1), such as (1)
 > **Warnings:** note that (2), keep in mind (1)
@@ -2256,14 +2232,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deeper analytics: Assessing key market participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980)
+#### [Deeper analytics: Assessing key market participants](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980&t=1)** - Hey, LinkedIn learners, Paul Thurman back here with you again, just doing a quick check in.
+> **[0:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980&t=1)** - Hey, [[LinkedIn]] learners, Paul Thurman back here with you again, just doing a quick check in.
 >
-> **[0:05](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980&t=5)** You know, even the best data science and the best data scientists aren't always able to convince leadership to go down the best business path.
+> **[0:05](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980&t=5)** You know, even the best [[Data Science]] and the best data scientists aren't always able to convince leadership to go down the best business path.
 >
 > **[0:13](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980&t=13)** That's why the whole concept of alignment of our values and our mission and of our mission and vision is so critical as you learn the vocabulary of business strategy.
 >
@@ -2287,20 +2262,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), leadership (2), [[LinkedIn]] (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Data Science]] (1)
 > **Env Vars:** swot (2), pest (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hey (1)
 
-#### Porter's Five (+2) Forces
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980)
+#### [Porter's Five (+2) Forces](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=0)** - The first macro market tool that you looked at earlier was the Porter Five Forces model, which is used to assess industry-level trends.
 >
-> **[0:08](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=8)** Here, you assessed competitive rivalry based on key market suppliers and consumers, the so-called supply chain, as well as new entrants to your market and substitutes that offer essentially the same products and services, but via other methods and means.
+> **[0:08](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=8)** Here, you assessed competitive rivalry based on key market suppliers and consumers, the so-called supply chain, as well as new entrants to your market and substitutes that offer essentially the same [[Microsoft Products|products]] and services, but via other methods and means.
 >
 > **[0:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=23)** Note that this model, at first, does not include the forces of government and regulation or of the users in contrast to buyers.
 >
@@ -2348,7 +2322,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=238)** But even so, you have to remember that although you might be pursuing small p-values, you also have to be aware of the practical significance of your work and of your results.
 >
-> **[4:07](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=247)** Businesses often need to make decisions regardless of the p-value that's created from a statistical test and need to make decisions based on the practical value to business operations and customers.
+> **[4:07](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=247)** Businesses often need to make decisions regardless of the p-value that's created from a statistical test and need to make decisions based on the practical value to [[Business Operations]] and customers.
 >
 > **[4:20](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/porter-s-five-plus-2-forces?u=76281980&t=260)** With that in mind, let's return to your personal mission and vision.
 >
@@ -2376,7 +2350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (2), data (2), management (2), leadership (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Business Operations]] (1)
 > **Env Vars:** pest (6), porter (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (2), for example (1)
@@ -2384,12 +2358,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - the (1)
 
-#### Practice: Macro-market analytics part two
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980)
+#### [Practice: Macro-market analytics part two](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=0)** - [Instructor] Now you can, again, unleash the power of data science to help you with your macro-market analytics.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=0)** - [Instructor] Now you can, again, unleash the power of [[Data Science]] to help you with your macro-market analytics.
 >
 > **[0:06](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=6)** Let's continue with our PTHF Bank example and some of its competitors, customers, and other market players.
 >
@@ -2401,7 +2374,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=32)** How did PTHF Bank compare in 2014 versus 2017?
 >
-> **[0:37](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=37)** Here's some output from SaaS that shows some descriptive statistics from those two years.
+> **[0:37](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=37)** Here's some output from [[SaaS]] that shows some descriptive [[Statistics]] from those two years.
 >
 > **[0:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=42)** Do we see any major changes?
 >
@@ -2425,7 +2398,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=118)** We could confirm this with statistical tests.
 >
-> **[2:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=121)** If regulations have changed, like the allowance of online-only banks, that may change the way customers and investors prefer to do banking.
+> **[2:01](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=121)** If regulations have changed, like the allowance of online-only banks, that may change the way customers and investors prefer to do [[Banking]].
 >
 > **[2:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-macro-market-analytics-part-ii?u=76281980&t=131)** That will change investor sentiment as well with respect to satisfaction.
 >
@@ -2435,7 +2408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (3), power (1), [[Analytics]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data Science]] (2), [[SaaS]] (1), [[Banking]] (1)
 > **Env Vars:** pthf (2)
 > **Versions:** 7.2 (1), 6.0 (1)
 > **Cross-References:** in the next (1)
@@ -2443,8 +2416,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing variability in markets: Insights from Porter
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980)
+#### [Assessing variability in markets: Insights from Porter](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2478,7 +2450,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=71)** Users or buyers tend to have more power in a market when they can buy in large groups or in bulk.
 >
-> **[1:17](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=77)** When products and services aren't all that different and thus low price is key, or when there are lots of suppliers of essentially the same thing like a pizza shop or a deli.
+> **[1:17](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=77)** When [[Microsoft Products|products]] and services aren't all that different and thus low price is key, or when there are lots of suppliers of essentially the same thing like a pizza shop or a deli.
 >
 > **[1:28](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=88)** In this case, customers can have some power in a market against suppliers.
 >
@@ -2518,7 +2490,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=259)** But competition affects all participants, not just your firm.
 >
-> **[4:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=263)** So you can rest assured that all your competitors are dealing with the same strategic questions that you are.
+> **[4:23](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=263)** So you can [[Representational State Transfer (REST)|rest]] assured that all your competitors are dealing with the same strategic questions that you are.
 >
 > **[4:29](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/assessing-variability-in-markets-insights-from-porter?u=76281980&t=269)** As we end this part of this chapter, let's revisit your porter model or pest model that you built in the last video.
 >
@@ -2542,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), business (3), express (3), [[Microsoft Products|Products]] (2), game (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (4), picture (2), such as (1), similar to (1)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** make (1)
@@ -2551,8 +2523,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Assessing market forces
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-market-forces?u=76281980)
+#### [Practice: Assessing market forces](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-market-forces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2564,7 +2535,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-market-forces?u=76281980&t=30)** Be sure to review the discussion prompts and exercise outputs so you can follow along and take notes as we go through this exercise.
 >
-> **[0:37](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-market-forces?u=76281980&t=37)** Here we see some output from SaaS where we're showing a variety of different correlation matrices.
+> **[0:37](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-market-forces?u=76281980&t=37)** Here we see some output from [[SaaS]] where we're showing a variety of different correlation matrices.
 >
 > **[0:43](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-market-forces?u=76281980&t=43)** On the left-hand side, we see correlations for 2014, and on the right, we see correlations for 2017.
 >
@@ -2638,14 +2609,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (3), [[SaaS]] (1), management (1), next (1)
+> **Frameworks & Libraries:** [[SaaS]] (1)
 > **Env Vars:** pthf (1), anova (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Competitive advantage: Creating differentiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/competitive-advantage-creating-differentiation?u=76281980)
+#### [Competitive advantage: Creating differentiation](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/competitive-advantage-creating-differentiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2733,18 +2703,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (4), business (1), power (1), game (1)
 > **Env Vars:** swot (4)
 > **Analogies:** for example (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Assessing or creating competitive differentiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980)
+#### [Practice: Assessing or creating competitive differentiation](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980&t=0)** - [Instructor] Let's use data science now to see how to assess your relative competitive successes and failures in the market in which PTHF Bank competes for banking services.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980&t=0)** - [Instructor] Let's use [[Data Science]] now to see how to assess your relative competitive successes and failures in the market in which PTHF Bank competes for [[Banking]] services.
 >
 > **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980&t=11)** Your earlier first regression used only limited variables and demonstrated that two terms were associated with customer satisfaction in a significant way, investor knowledge and the quality of service, represented by our internal quality assessment variable.
 >
@@ -2800,11 +2768,11 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980&t=273)** As we move into the next chapter, in the next video, you'll turn your attention to operational strategy, including building action plans based on metrics and targets that you can use to prove your strategies are working in your market.
 >
-> **[4:46](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980&t=286)** We'll see you in the next chapter as we delve into operational strategic thinking.
+> **[4:46](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-creating-competitive-differentiation?u=76281980&t=286)** We'll see you in the next chapter as we delve into operational [[Strategic Thinking]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), [[Banking]] (1), business (1), strengths (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Banking]] (1), [[Strategic Thinking]] (1)
 > **Env Vars:** pthf (1), pest (1), swot (1)
 > **Cross-References:** in the next (2), next chapter (1)
 > **Analogies:** for example (1)
@@ -2815,12 +2783,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deeper operational thinking: The balanced scorecard and action planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980)
+#### [Deeper operational thinking: The balanced scorecard and action planning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980&t=0)** - [Instructor] You've now come to the final level of strategic thinking, operational strategy.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980&t=0)** - [Instructor] You've now come to the final level of [[Strategic Thinking]], operational strategy.
 >
 > **[0:05](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980&t=5)** When you have a solid concept of where you want to go and what to do today to get there, that's your vision and mission, and you've analytically verified that your strategy is feasible through analytical methods, then it's time to implement your strategies, instill new and improved behaviors, and drive your firm to actions that are aligned with your new and revised mission and vision.
 >
@@ -2932,7 +2899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (3), teams (2), leadership (2), data (2), business (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** bsc (1)
 > **Definitions:** refers to (1)
@@ -2940,16 +2907,15 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Using data science to create a scorecard
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980)
+#### [Practice: Using data science to create a scorecard](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980&t=0)** - [Narrator] Let's continue forward with our PTHF Bank example.
 >
-> **[0:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980&t=4)** This time, you'll use data science to help you look at some possible metrics for your scorecard.
+> **[0:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980&t=4)** This time, you'll use [[Data Science]] to help you look at some possible metrics for your scorecard.
 >
-> **[0:09](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980&t=9)** Some SaaS outputs will be shown while keeping in mind that our bank's mission is to satisfy customer financial needs and success.
+> **[0:09](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980&t=9)** Some [[SaaS]] outputs will be shown while keeping in mind that our bank's mission is to satisfy customer financial needs and success.
 >
 > **[0:16](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-using-data-science-to-create-a-scorecard?u=76281980&t=16)** PTHF Bank is interested in developing a business scorecard and as a bank, there are many different metrics they could choose or to look at, but specifically want to follow the template of having at least one or two metrics in the areas of finance, internal process, customer, and learning and growth.
 >
@@ -3049,15 +3015,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SaaS]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[SaaS]] (1)
 > **Env Vars:** pthf (5)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** just like (1), such as (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 
-#### Action planning: Designing tasks tied to scorecard metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/action-planning-designing-tasks-tied-to-scorecard-metrics?u=76281980)
+#### [Action planning: Designing tasks tied to scorecard metrics](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/action-planning-designing-tasks-tied-to-scorecard-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3183,19 +3148,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), hit (1), [[Analytics]] (1)
 > **Analogies:** for example (7), similar to (1)
 > **Env Vars:** iii (1), m1a (1), m1b (1), i1a (1), swat (1)
 > **Definitions:** means that (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice: Assessing competitor impacts on your plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980)
+#### [Practice: Assessing competitor impacts on your plans](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=0)** - [Instructor] And for the final data science application in this course, let's return to our PTHF banking example and see how you can apply the same scorecarding and action planning principles to customer satisfaction for your banking customers using some real data.
+> **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=0)** - [Instructor] And for the final [[Data Science]] application in this course, let's return to our PTHF [[Banking]] example and see how you can apply the same scorecarding and action planning principles to customer satisfaction for your banking customers using some real data.
 >
 > **[0:15](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=15)** Now, we've learned from the past that PTHF Bank's return on investment and investor knowledge are higher than competitors, and that's a good thing.
 >
@@ -3235,7 +3198,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=171)** It's important to note that PTHF's leadership has stated that customer satisfaction values below six are considered poor and therefore unacceptable.
 >
-> **[3:02](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=182)** So regardless of any statistical analysis, management's goal is to make sure that customer satisfaction never falls below 6.0.
+> **[3:02](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=182)** So regardless of any [[Statistical Analysis]], management's goal is to make sure that customer satisfaction never falls below 6.0.
 >
 > **[3:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/practice-assessing-competitor-impacts-on-your-plans?u=76281980&t=191)** This chart actually shows in the square that you see the number of satisfaction scores that were above 6.0.
 >
@@ -3267,7 +3230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Banking]] (2), leadership (2), application (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Data Science]] (1), [[Statistical Analysis]] (1)
 > **Versions:** 6.0 (3), 5.33 (1), 6.51 (1), 5.15 (1), 6.69 (1)
 > **Env Vars:** pthf (4)
 > **Warnings:** note that (2)
@@ -3276,8 +3239,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### The missing piece: Contingency planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980)
+#### [The missing piece: Contingency planning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3297,7 +3259,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=38)** What's your plan B?
 >
-> **[0:40](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=40)** What operational plans or changes would you need to put in place if your Porter model suddenly changes dramatically, or something goes wrong with a partnership that you've identified in your SWAT or a new threat emerges in a marketplace, like an internet-only banking competitor?
+> **[0:40](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=40)** What operational plans or changes would you need to put in place if your Porter model suddenly changes dramatically, or something goes wrong with a partnership that you've identified in your SWAT or a new threat emerges in a marketplace, like an internet-only [[Banking]] competitor?
 >
 > **[0:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=57)** What's your own personal plan B or fallback position if you think about your personal strategy?
 >
@@ -3323,19 +3285,19 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=128)** Pause here and take some notes.
 >
-> **[2:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=131)** Recall that in operational strategic thinking, your goal is to have a balanced view of what good performance is, and that means going beyond just simple financial measurements of success.
+> **[2:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=131)** Recall that in operational [[Strategic Thinking]], your goal is to have a balanced view of what good performance is, and that means going beyond just simple financial measurements of success.
 >
 > **[2:21](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=141)** Action plans should be directly tied and linked to those metrics, otherwise, you may not make progress with some metrics while working on things irrelevant to your strategic success.
 >
 > **[2:31](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=151)** But don't forget about contingencies.
 >
-> **[2:33](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=153)** Data science gives us some powerful tools, as we've seen in our examples, to illustrate warning signs, or things that will give us a heads-up about where our strategies and our visions may run into trouble.
+> **[2:33](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=153)** [[Data Science]] gives us some powerful tools, as we've seen in our examples, to illustrate warning signs, or things that will give us a heads-up about where our strategies and our visions may run into trouble.
 >
 > **[2:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/the-missing-piece-contingency-planning?u=76281980&t=167)** The sooner we can anticipate those and then plan contingencies to get around them, the better off we'll be, and the more effective and efficient we'll be at achieving our ultimate goal, our vision.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), hit (1), [[Strategic Thinking]] (1), data (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Strategic Thinking]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** don't forget (2)
 > **Env Vars:** swat (1)
@@ -3348,24 +3310,22 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review of course objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980)
+#### [Review of course objectives](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980&t=0)** - [Lecturer] Throughout this course, you've been introduced to a number of methods for basic statistical and analytical methods that can help support and complement large-scale strategic and project planning efforts for organizations.
 >
-> **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980&t=11)** You've learned conceptual strategic thinking elements, analytical tools to assess those elements, and how to operationalize strategies with scorecards and action plans.
+> **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980&t=11)** You've learned conceptual [[Strategic Thinking]] elements, analytical tools to assess those elements, and how to operationalize strategies with scorecards and action plans.
 >
 > **[0:20](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980&t=20)** First, you learned about the overarching concept of business strategy as a set of activities that purposely take you from your mission, what you do today, toward your vision, where you want to be at a particular point in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (1), business (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **Speakers:** - [lecturer] (1)
 
-#### What is strategy: Defined in three levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-three-levels?u=76281980)
+#### [What is strategy: Defined in three levels](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-three-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3381,7 +3341,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-three-levels?u=76281980&t=36)** We do this to assess feasibility and rationality of our mission and vision analyses here.
 >
-> **[0:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-three-levels?u=76281980&t=42)** Support the analytical strategy component of strategic thinking and help you confirm that you really are better or advantaged than other competitors when it comes to being in a particular market space at a particular time with a particular set of customers.
+> **[0:42](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-three-levels?u=76281980&t=42)** Support the analytical strategy component of [[Strategic Thinking]] and help you confirm that you really are better or advantaged than other competitors when it comes to being in a particular market space at a particular time with a particular set of customers.
 >
 > **[0:57](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-three-levels?u=76281980&t=57)** But even if you have a great idea or concept that you can validate for a market, can you actually do it?
 >
@@ -3391,17 +3351,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), [[Strategic Thinking]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Supporting analytics, pitfalls, and a one-page summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980)
+#### [Supporting analytics, pitfalls, and a one-page summary](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=0)** - [Instructor] Thus, the idea of strategy or of a strategic plan captures the gamut of analysis from concept through to operations with supporting qualitative and quantitative analytics.
 >
-> **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=11)** Although you've only scratched the surface, hopefully you'll find even some of these basic tools to be powerful allies as you think about new products, services, and markets to approach in your business, as well as how to convince business owners and leadership to follow you to your own vision.
+> **[0:11](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=11)** Although you've only scratched the surface, hopefully you'll find even some of these basic tools to be powerful allies as you think about new [[Microsoft Products|products]], services, and markets to approach in your business, as well as how to convince business owners and leadership to follow you to your own vision.
 >
 > **[0:28](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=28)** Make sure that with any set of analytics, you cross-compare them for consistency.
 >
@@ -3409,7 +3368,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=34)** Markets have to support operations and the mission of the firm.
 >
-> **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=38)** It doesn't matter where you start in this strategic thinking process, as long as you consider all three phases as you plan to capture your chosen future.
+> **[0:38](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=38)** It doesn't matter where you start in this [[Strategic Thinking]] process, as long as you consider all three phases as you plan to capture your chosen future.
 >
 > **[0:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=47)** However, developing strategies isn't as easy as just creating a single chosen plan.
 >
@@ -3431,7 +3390,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=91)** Here's a one-page summary that you might find helpful that essentially highlights all the tools you've covered in the course, and that business owners and consultants frankly use in their strategic thinking and process too.
 >
-> **[1:43](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=103)** How will you apply data science to some of these areas now?
+> **[1:43](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=103)** How will you apply [[Data Science]] to some of these areas now?
 >
 > **[1:47](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/supporting-analytics-pitfalls-and-a-one-page-summary?u=76281980&t=107)** Hopefully we've given you some examples of how to apply them as you continue to connect mission to vision with different strategies.
 >
@@ -3451,7 +3410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), business (3), [[Strategic Thinking]] (3), data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (3), [[Data Science]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Env Vars:** swot (1)
@@ -3463,8 +3422,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where do you go from here: Other courses of interest
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980)
+#### [Where do you go from here: Other courses of interest](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3472,9 +3430,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980&t=4)** Remember that any notes you took on the course page or in your downloaded discussion prompts and exercise output files are available to you forever.
 >
-> **[0:12](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980&t=12)** You've covered a lot in this course, but perhaps this is only the beginning of your business journey, armed with sound data science skills and strategic thinking acumen.
+> **[0:12](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980&t=12)** You've covered a lot in this course, but perhaps this is only the beginning of your business journey, armed with sound [[Data Science]] skills and [[Strategic Thinking]] acumen.
 >
-> **[0:22](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980&t=22)** LinkedIn Learning has a number of other courses you might also find useful and applicable if this course in strategy has motivated you to learn more.
+> **[0:22](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980&t=22)** [[LinkedIn]] Learning has a number of other courses you might also find useful and applicable if this course in strategy has motivated you to learn more.
 >
 > **[0:29](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980&t=29)** I hope you'll look online and search out those courses.
 >
@@ -3496,7 +3454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), data (2), [[Strategic Thinking]] (2), business (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Data Science]] (2), [[Strategic Thinking]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** dba (1)
 > **Speakers:** - congratulations (1)

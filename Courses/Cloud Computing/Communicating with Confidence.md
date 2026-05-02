@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare to become a more confident communicator
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/prepare-to-become-a-more-confident-communicator?u=76281980)
+#### [Prepare to become a more confident communicator](https://www.linkedin.com/learning/communicating-with-confidence-23450131/prepare-to-become-a-more-confident-communicator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Confident communication is a skill
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980)
+#### [Confident communication is a skill](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=27)** Hey, everyone.
 >
-> **[0:29](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=29)** Welcome to my garage office/home where I sleep, everything.
+> **[0:29](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=29)** Welcome to my garage [[Microsoft Office|office]]/home where I sleep, everything.
 >
 > **[0:38](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=38)** I just have to make this video.
 >
@@ -205,7 +203,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=188)** Oh gosh, that's such a bad, bad Texan accent.
 >
-> **[3:12](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=192)** I could choose to sound like that for the rest of my life.
+> **[3:12](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=192)** I could choose to sound like that for the [[Representational State Transfer (REST)|rest]] of my life.
 >
 > **[3:15](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980&t=195)** I mean, why did I do that example?
 >
@@ -225,8 +223,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### The three elements of powerful communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-three-elements-of-powerful-communication?u=76281980)
+#### [The three elements of powerful communication](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-three-elements-of-powerful-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,8 +298,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communication blocks that hold you back
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980)
+#### [Communication blocks that hold you back](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=113)** I've said it before and it's worth saying again.
 >
-> **[1:56](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=116)** People tend to have this belief that a great and confident communicator is someone who is perfect and never says one non word or filler word.
+> **[1:56](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=116)** People tend to have this belief that a great and confident communicator is someone who is perfect and never says one non [[Microsoft Word|word]] or filler word.
 >
 > **[2:03](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=123)** They remember every single word in their script.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=128)** Do you know what that's called?
 >
-> **[2:10](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=130)** That's called ChatGPT or AI.
+> **[2:10](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=130)** That's called [[ChatGPT]] or AI.
 >
 > **[2:13](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communication-blocks-that-hold-you-back?u=76281980&t=133)** Now, this is useful if you're communicating with other robots, but if you're connecting with other human beings, then it's not about being perfect.
 >
@@ -446,14 +442,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2), [[ChatGPT]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[ChatGPT]] (1)
 > **Definitions:** known as (3), is a  (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** faq (1)
 > **Speakers:** - there (1)
 
-#### The power of presence when you communicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-power-of-presence-when-you-communicate?u=76281980)
+#### [The power of presence when you communicate](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-power-of-presence-when-you-communicate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +506,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-power-of-presence-when-you-communicate?u=76281980&t=124)** Our reaction with our body are a direct response, and they're not filtered through conscious thinking.
 >
-> **[2:11](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-power-of-presence-when-you-communicate?u=76281980&t=131)** Often we think that people only react to what we are saying after we've finished talking and their reaction comes in the form of their response.
+> **[2:11](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-power-of-presence-when-you-communicate?u=76281980&t=131)** Often we think that people only [[React.js|react]] to what we are saying after we've finished talking and their reaction comes in the form of their response.
 >
 > **[2:19](https://www.linkedin.com/learning/communicating-with-confidence-23450131/the-power-of-presence-when-you-communicate?u=76281980&t=139)** Whereas in reality, people are reacting in the moment as you are talking.
 >
@@ -539,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -549,8 +544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Consider your audience when preparing to communicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/consider-your-audience-when-preparing-to-communicate?u=76281980)
+#### [Consider your audience when preparing to communicate](https://www.linkedin.com/learning/communicating-with-confidence-23450131/consider-your-audience-when-preparing-to-communicate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,8 +619,7 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - one (1)
 
-#### Use the golden structure to organize your thoughts
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-the-golden-structure-to-organize-your-thoughts?u=76281980)
+#### [Use the golden structure to organize your thoughts](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-the-golden-structure-to-organize-your-thoughts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,7 +699,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-the-golden-structure-to-organize-your-thoughts?u=76281980&t=164)** And with these dot points, put down information that's relevant to your audience.
 >
-> **[2:47](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-the-golden-structure-to-organize-your-thoughts?u=76281980&t=167)** Underneath these modules on the stickies, add studies, statistics, stories, analogies, metaphors, similes, even write down pictures or video ideas.
+> **[2:47](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-the-golden-structure-to-organize-your-thoughts?u=76281980&t=167)** Underneath these modules on the stickies, add studies, [[Statistics]], stories, analogies, metaphors, similes, even write down pictures or video ideas.
 >
 > **[2:57](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-the-golden-structure-to-organize-your-thoughts?u=76281980&t=177)** And you might have a few sticky notes for the ingredients underneath each module.
 >
@@ -794,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), power (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (1)
@@ -805,8 +798,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If you breathe better, you sound better when speaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980)
+#### [If you breathe better, you sound better when speaking](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,7 +860,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980&t=149)** Do this before you get out of bed.
 >
-> **[2:31](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980&t=151)** And then in the afternoon, do another five minutes while you're sitting at the office.
+> **[2:31](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980&t=151)** And then in the afternoon, do another five minutes while you're sitting at the [[Microsoft Office|office]].
 >
 > **[2:35](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980&t=155)** And then at night, do another five minutes while standing.
 >
@@ -886,8 +878,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - when (1)
 
-#### Vary your rate of speech to add clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/vary-your-rate-of-speech-to-add-clarity?u=76281980)
+#### [Vary your rate of speech to add clarity](https://www.linkedin.com/learning/communicating-with-confidence-23450131/vary-your-rate-of-speech-to-add-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +898,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/communicating-with-confidence-23450131/vary-your-rate-of-speech-to-add-clarity?u=76281980&t=31)** Welcome to my online class about communication skills.
 >
-> **[0:36](https://www.linkedin.com/learning/communicating-with-confidence-23450131/vary-your-rate-of-speech-to-add-clarity?u=76281980&t=36)** You've most likely left this video open a new tab to watch another LinkedIn learning course.
+> **[0:36](https://www.linkedin.com/learning/communicating-with-confidence-23450131/vary-your-rate-of-speech-to-add-clarity?u=76281980&t=36)** You've most likely left this video open a new tab to watch another [[LinkedIn]] learning course.
 >
 > **[0:41](https://www.linkedin.com/learning/communicating-with-confidence-23450131/vary-your-rate-of-speech-to-add-clarity?u=76281980&t=41)** Now let's see what happens if I do the complete polar opposite, and I stick to a faster default rate of speech.
 >
@@ -955,13 +946,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), functional (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** think of it as (1), imagine (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - rate (1)
 
-#### Use volume to radiate more confidence when speaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-volume-to-radiate-more-confidence-when-speaking?u=76281980)
+#### [Use volume to radiate more confidence when speaking](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-volume-to-radiate-more-confidence-when-speaking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,14 +1033,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), functional (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - volume (1)
 
-#### Make your message memorable with melody
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/make-your-message-memorable-with-melody?u=76281980)
+#### [Make your message memorable with melody](https://www.linkedin.com/learning/communicating-with-confidence-23450131/make-your-message-memorable-with-melody?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,7 +1046,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/communicating-with-confidence-23450131/make-your-message-memorable-with-melody?u=76281980&t=3)** My first question to you is this.
 >
-> **[0:05](https://www.linkedin.com/learning/communicating-with-confidence-23450131/make-your-message-memorable-with-melody?u=76281980&t=5)** If I gave you a book and I said to you, I want you to recite one page of this book for me, word for word, without getting one word wrong, and I gave you an hour to do this, do you think you could do it?
+> **[0:05](https://www.linkedin.com/learning/communicating-with-confidence-23450131/make-your-message-memorable-with-melody?u=76281980&t=5)** If I gave you a book and I said to you, I want you to recite one page of this book for me, [[Microsoft Word|word]] for word, without getting one word wrong, and I gave you an hour to do this, do you think you could do it?
 >
 > **[0:16](https://www.linkedin.com/learning/communicating-with-confidence-23450131/make-your-message-memorable-with-melody?u=76281980&t=16)** Maybe.
 >
@@ -1163,8 +1151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use eye contact effectively while communicating
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-eye-contact-effectively-while-communicating?u=76281980)
+#### [Use eye contact effectively while communicating](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-eye-contact-effectively-while-communicating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,14 +1315,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Talk with your hands to show confidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/talk-with-your-hands-to-show-confidence?u=76281980)
+#### [Talk with your hands to show confidence](https://www.linkedin.com/learning/communicating-with-confidence-23450131/talk-with-your-hands-to-show-confidence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,12 +1456,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), power (2), functional (1)
 > **Definitions:** is a  (2), is called (2), known as (1)
 > **Speakers:** - before (1)
 
-#### Move with purpose and impact while communicating
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/move-with-purpose-and-impact-while-communicating?u=76281980)
+#### [Move with purpose and impact while communicating](https://www.linkedin.com/learning/communicating-with-confidence-23450131/move-with-purpose-and-impact-while-communicating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1573,8 +1556,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
-#### Communicate with your face
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-your-face?u=76281980)
+#### [Communicate with your face](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-your-face?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,7 +1692,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), express (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), it's like (1)
@@ -1721,8 +1702,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicate with confidence digitally
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-confidence-digitally?u=76281980)
+#### [Communicate with confidence digitally](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-confidence-digitally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1810,7 +1790,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Definitions:** is a  (3), known as (1), means that (1)
 > **CLI Commands:** make (2)
 > **Warnings:** common mistake (1)
@@ -1821,8 +1800,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Five ways to handle nervousness when speaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/five-ways-to-handle-nervousness-when-speaking?u=76281980)
+#### [Five ways to handle nervousness when speaking](https://www.linkedin.com/learning/communicating-with-confidence-23450131/five-ways-to-handle-nervousness-when-speaking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,16 +1890,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Tap into real confidence when communicating
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/tap-into-real-confidence-when-communicating?u=76281980)
+#### [Tap into real confidence when communicating](https://www.linkedin.com/learning/communicating-with-confidence-23450131/tap-into-real-confidence-when-communicating?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/communicating-with-confidence-23450131/tap-into-real-confidence-when-communicating?u=76281980&t=0)** - I love this quote by Coach John Wooden who says, "If you focus on the things you have no control over, "you'll soon lose control over the things you "do have control over."
+> **[0:00](https://www.linkedin.com/learning/communicating-with-confidence-23450131/tap-into-real-confidence-when-communicating?u=76281980&t=0)** - I love this quote by Coach [[John the Ripper|John]] Wooden who says, "If you focus on the things you have no control over, "you'll soon lose control over the things you "do have control over."
 >
 > **[0:14](https://www.linkedin.com/learning/communicating-with-confidence-23450131/tap-into-real-confidence-when-communicating?u=76281980&t=14)** This quote has a lot of wisdom to remind us to focus on the right things when we want to feel more confident.
 >
@@ -1967,7 +1943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Speakers:** - i (1)
 
 
@@ -1975,8 +1951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Frequently asked questions on communicating confidently
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/frequently-asked-questions-on-communicating-confidently?u=76281980)
+#### [Frequently asked questions on communicating confidently](https://www.linkedin.com/learning/communicating-with-confidence-23450131/frequently-asked-questions-on-communicating-confidently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2073,8 +2048,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
 
-#### Self-awareness to build your communication skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/self-awareness-to-build-your-communication-skills?u=76281980)
+#### [Self-awareness to build your communication skills](https://www.linkedin.com/learning/communicating-with-confidence-23450131/self-awareness-to-build-your-communication-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2194,13 +2168,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), next (1), game (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - i (1)
 
-#### Practice to improve your communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/practice-to-improve-your-communication?u=76281980)
+#### [Practice to improve your communication](https://www.linkedin.com/learning/communicating-with-confidence-23450131/practice-to-improve-your-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2264,7 +2236,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** ceo (2)
 > **UI Navigation:** go to (1)

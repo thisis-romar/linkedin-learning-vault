@@ -67,14 +67,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A guide to NoSQL: No programming needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980)
+#### [A guide to NoSQL: No programming needed](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=0)** - [David] Did you know that many of the apps and services you use today simply wouldn't have been possible not too long ago?
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=7)** The advent of no NoSQL databases forever changed the landscape of capability, leaping us forward into the types of experiences we've come to expect.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=7)** The advent of no [[NoSQL]] [[Databases]] forever changed the landscape of capability, leaping us forward into the types of experiences we've come to expect.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=16)** NoSQL databases have significantly changed our lives, but outside of the technical sphere, most don't even know they exist.
 >
@@ -86,11 +85,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=42)** So no matter if you have a technical background or not, I'll help you right along.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=47)** Join me on LinkedIn Learning as we dig into some fun facts, real world examples, and NoSQL database knowledge that is sure to give you a new appreciation for the technology behind your favorite services and apps, not to mention a leg up in the technical know-how you can bring to bear.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980&t=47)** Join me on [[LinkedIn]] Learning as we dig into some fun facts, real world examples, and NoSQL database knowledge that is sure to give you a new appreciation for the technology behind your favorite services and apps, not to mention a leg up in the technical know-how you can bring to bear.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (3), [[LinkedIn]] (1), database (1)
+> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (3), [[LinkedIn]] (1)
 > **Speakers:** - [david] (1)
 
 
@@ -98,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### So what is NoSQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980)
+#### [So what is NoSQL?](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=23)** All of these have something in common.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=25)** They're all using NoSQL databases.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=25)** They're all using [[NoSQL]] [[Databases]].
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=27)** And in fact, some of them like Facebook, created some of the very first NoSQL databases.
 >
@@ -137,11 +135,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=52)** First off the acronym.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=54)** NoSQL means not only SQL or SQL.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=54)** NoSQL means not only [[SQL]] or SQL.
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=58)** And SQL stands for Structured Query Language.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=62)** SQL is the language that we use to talk to relational databases.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=62)** SQL is the language that we use to talk to [[Relational Databases]].
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=66)** Whether this is to create a table in a database or maybe we want to create, read, update or delete data itself, all of these are tasks that we can do with SQL.
 >
@@ -161,29 +159,28 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=120)** And this is just one example.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=122)** This theme plays out again and again with ever growing big data and response time requirements.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=122)** This theme plays out again and again with ever growing [[Big Data]] and response time requirements.
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=127)** There are now hundreds of NoSQL databases on the market in a very healthy ecosystem NoSQL databases, power so many of the apps and services that we use every day.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=138)** They're literally behind everything that we do, from watching movies to banking, to getting directions for our next destination.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=138)** They're literally behind everything that we do, from watching movies to [[Banking]], to getting directions for our next destination.
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=145)** They enable the amazing increase in an application's capability, and performance we all take for granted.
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=151)** But this just scratches the surface.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=153)** Let's dig in a little further as we learn more about what databases are and how applications talk to them and what exactly horizontal scalability means.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980&t=153)** Let's dig in a little further as we learn more about what databases are and how applications talk to them and what exactly horizontal [[Scalability]] means.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (10), [[Databases]] (9), [[SQL]] (6), [[Relational Databases]] (4), data (3)
+> **Frameworks & Libraries:** [[NoSQL]] (10), [[Databases]] (9), [[SQL]] (6), [[Relational Databases]] (4), [[Big Data]] (1)
 > **Env Vars:** sql (6)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - [instructor] (1)
 
-#### Asking data questions with query languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980)
+#### [Asking data questions with query languages](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=22)** Not only would this take a lot more effort, but it would also take significantly more time.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=27)** Databases are the containers of our data, and without them, applications would be quite limited in what they could accomplish.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=27)** [[Databases]] are the containers of our data, and without them, applications would be quite limited in what they could accomplish.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=34)** That's only one part of the story though.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=41)** So let's learn a bit about the way we talk to databases.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=44)** So in the previous section, I mentioned something called SQL, or Structured Query Language.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=44)** So in the previous section, I mentioned something called [[SQL]], or Structured Query Language.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=49)** This is the language we've been using for decades to talk to databases.
 >
@@ -243,23 +240,22 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=146)** Imagine how long it would take to scroll to the bottom.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=150)** Now, NoSQL databases have a lot more language variation that we'll talk about a little later.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=150)** Now, [[NoSQL]] databases have a lot more language variation that we'll talk about a little later.
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=154)** As a matter of fact, the examples we just went through came from a NoSQL database.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=158)** And now that you have a basic idea of how we talk to databases, let's jump into exactly what horizontal scalability means.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-nosql/asking-data-questions-with-query-languages?u=76281980&t=158)** And now that you have a basic idea of how we talk to databases, let's jump into exactly what horizontal [[Scalability]] means.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Databases]] (7), database (6), [[NoSQL]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (7), [[NoSQL]] (2), [[SQL]] (1), [[Scalability]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Horizontal scalability
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980)
+#### [Horizontal scalability](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,11 +271,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=21)** This is called vertical scaling, which means if we want to increase the capability of a computer, we scale its components up making them bigger, faster, et cetera.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=31)** Now, NoSQL databases use a scale out approach called horizontal scalability.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=31)** Now, [[NoSQL]] [[Databases]] use a scale out approach called horizontal [[Scalability]].
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=36)** So instead of vertically scaling a single computer, we add more and more computers that spread the load around them.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=42)** This is a completely different approach from how we scale databases for decades and is at the core of how NoSQL databases deliver near instant experiences, no matter how big data gets.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=42)** This is a completely different approach from how we scale databases for decades and is at the core of how NoSQL databases deliver near instant experiences, no matter how [[Big Data]] gets.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-nosql/horizontal-scalability?u=76281980&t=54)** Okay, so NoSQL databases use multiple computers that coordinate their efforts as compared to a single machine.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (7), data (7), database (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (7), [[Scalability]] (1), [[Big Data]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
@@ -334,8 +330,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You're already using NoSQL databases—you just don't know it
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980)
+#### [You're already using NoSQL databases—you just don't know it](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=3)** You can start the movie in one part of the world before you get on the plane, and then seamlessly pick up where you left off the moment you touch down or connect to a network.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=12)** This is enabled through the distributed nature of NoSQL databases and the ability to quickly distribute data around the globe.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=12)** This is enabled through the distributed nature of [[NoSQL]] [[Databases]] and the ability to quickly distribute data around the globe.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=20)** Netflix is a pioneer in the NoSQL space.
 >
@@ -373,13 +368,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=94)** This is a distinction from the traditional general-purpose databases we've been using for decades, which we'll get into a bit later.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=101)** Services like Netflix take advantage of the scalability, performance and reliability of NoSQL databases to provide near instant feeling and never down experiences we pretty much take for granted today.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=101)** Services like Netflix take advantage of the [[Scalability]], performance and reliability of NoSQL databases to provide near instant feeling and never down experiences we pretty much take for granted today.
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980&t=113)** And as you'll find out in the next section, they're not the only ones.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (9), [[Databases]] (7), data (3), power (1), database (1)
+> **Frameworks & Libraries:** [[NoSQL]] (9), [[Databases]] (7), [[Scalability]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -387,16 +382,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Give more examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980)
+#### [Give more examples](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=0)** - [Instructor] Previously in this course, we talked about how Netflix uses NoSQL technologies to provide a pretty awesome experience.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=0)** - [Instructor] Previously in this course, we talked about how Netflix uses [[NoSQL]] technologies to provide a pretty awesome experience.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=8)** But they're not the only ones doing this.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=10)** A huge majority of Fortune 100 companies use NoSQL databases.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=10)** A huge majority of Fortune 100 companies use NoSQL [[Databases]].
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=14)** Some estimates have this as high as 90%, as well as thousands of others.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=59)** That's five times the amount of data contained in the Library of Congress.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=63)** This kind of scale, and many of the services Apple provides, most likely wouldn't exist without the ability of NoSQL databases to horizontally scale while maintaining consistent performance, and at a cost much lower than scaling traditional relational databases.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=63)** This kind of scale, and many of the services Apple provides, most likely wouldn't exist without the ability of NoSQL databases to horizontally scale while maintaining consistent performance, and at a cost much lower than scaling traditional [[Relational Databases]].
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-nosql/give-more-examples?u=76281980&t=76)** Another example is Home Depot.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (5), data (2), database (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (5), [[Relational Databases]] (1)
 > **CLI Commands:** find (1), apache (1), make (1)
 > **Code Identifiers:** ecommerce (1), icloud (1), itunes (1)
 > **Env Vars:** covid (1)
@@ -449,8 +443,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Volume: How much data are you really talking about?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980)
+#### [Volume: How much data are you really talking about?](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -466,15 +459,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=33)** I sure hope you like popcorn. Here's some butter.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=35)** So, let's talk about the volume requirements that spawned NoSQL databases and continues to fuel their growth.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=35)** So, let's talk about the volume requirements that spawned [[NoSQL]] [[Databases]] and continues to fuel their growth.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=41)** If one zetabyte sounds like a lot, try to wrap your head around 175 zetabytes, which is the predicted value in the next few years.
 >
-> **[0:48](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=48)** If we thought big data was big in 2010, it's growing absolutely enormous and shows no signs of letting up.
+> **[0:48](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=48)** If we thought [[Big Data]] was big in 2010, it's growing absolutely enormous and shows no signs of letting up.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=54)** So it's one thing to say that NoSQL databases can handle huge amounts of data, but how do they do this?
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=61)** Now, think back to our conversation on horizontal scalability.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=61)** Now, think back to our conversation on horizontal [[Scalability]].
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=64)** Remember that NoSQL databases distribute data around multiple nodes or machines in a single database.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=141)** That's a good question.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=143)** NoSQL databases were designed in what we call low commodity hardware.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=143)** NoSQL databases were designed in what we call low commodity [[Hardware]].
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980&t=147)** Generally, a single machine needed for a NoSQL database is much cheaper than it was normally needed for a traditional database.
 >
@@ -526,15 +519,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[NoSQL]] (9), [[Databases]] (9), database (4), node (3)
+> **Frameworks & Libraries:** [[NoSQL]] (9), [[Databases]] (9), [[Big Data]] (2), [[Scalability]] (2), [[Hardware]] (1)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2)
 > **Versions:** 4.5 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Velocity: Defining online speeds with OLTP
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980)
+#### [Velocity: Defining online speeds with OLTP](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,13 +534,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=13)** How many of us have used an application that took, say five, maybe 10 seconds to respond, and immediately felt frustrated and wanted to leave the site?
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=21)** Today, we simply expect that our experiences will be instant, and this gives us part of the picture of why NoSQL databases are built the way they are, and why they came into the scene.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=21)** Today, we simply expect that our experiences will be instant, and this gives us part of the picture of why [[NoSQL]] [[Databases]] are built the way they are, and why they came into the scene.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=31)** We'll discuss the difference between transactional and analytical queries, and how those apply to both relational and NoSQL databases.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=38)** Let's get into it.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=41)** So to really grasp the distinction between NoSQL and relational databases, we need to talk about OLTP and OLAP.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=41)** So to really grasp the distinction between NoSQL and [[Relational Databases]], we need to talk about OLTP and OLAP.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=49)** Yes, acronyms!
 >
@@ -588,13 +580,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=132)** You can do this all in a single database, this is a feature, and one of the reasons that some people continue to use relational databases.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=139)** But as you might have guessed, because of their general purpose nature and limits on scalability, performance can degrade as data size increases.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=139)** But as you might have guessed, because of their general purpose nature and limits on [[Scalability]], performance can degrade as data size increases.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=147)** For example, you might start to run into performance issues in a relational database with a table that has millions of rows, compared to some NoSQL databases that can handle billions of rows while providing online performance.
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=161)** But here's a key point.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=162)** Comparing relational SQL databases to NoSQL databases is not an apples to apples comparison.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=162)** Comparing relational [[SQL]] databases to NoSQL databases is not an apples to apples comparison.
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-nosql/velocity-defining-online-speeds-with-oltp?u=76281980&t=168)** They're each built for different needs which is an important distinction.
 >
@@ -614,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Databases]] (9), [[NoSQL]] (8), [[Relational Databases]] (5), application (3)
+> **Frameworks & Libraries:** [[Databases]] (9), [[NoSQL]] (8), [[Relational Databases]] (5), [[Scalability]] (1), [[SQL]] (1)
 > **Env Vars:** oltp (7), olap (6), sql (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** picture (1), for example (1)
@@ -622,12 +614,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Velocity: Understanding and increasing throughput
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980)
+#### [Velocity: Understanding and increasing throughput](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=0)** - [Instructor] Throughout this course, we've talked a lot about how NoSQL databases can maintain performance at scale and handle extremely large sets of data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=0)** - [Instructor] Throughout this course, we've talked a lot about how [[NoSQL]] [[Databases]] can maintain performance at scale and handle extremely large sets of data.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=8)** But I want you to think on this a moment: how?
 >
@@ -635,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=14)** The answer lies in one of the key features of NoSQL databases.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=17)** Now it's one thing to say that a database can handle big data, but it wouldn't matter much if the database just got slower and slower as more data is added to it.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=17)** Now it's one thing to say that a database can handle [[Big Data]], but it wouldn't matter much if the database just got slower and slower as more data is added to it.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=26)** As we learned in the last video, NoSQL databases operate at online speeds and they need to maintain query response times, usually in milliseconds, in order to stay effective.
 >
@@ -673,21 +664,20 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=112)** In reality, there's a lot more to it.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=114)** We could spend hours digging into things like replication, linear scalability, asynchronous communication, and how they affect actual throughput.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=114)** We could spend hours digging into things like replication, linear [[Scalability]], asynchronous communication, and how they affect actual throughput.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-nosql/velocity-understanding-and-increasing-throughput?u=76281980&t=122)** What's important is understanding how the same ability to horizontally scale not only increases the amount of data a NoSQL database can store, but it's also key to maintaining performance as that data grows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[NoSQL]] (4), database (4), [[Databases]] (3), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (3), [[Big Data]] (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variety: Rethinking the data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980)
+#### [Variety: Rethinking the data model](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=10)** You just want to add a bit of variety of your taste buds.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=12)** This experience is similar to what we face when data modeling for relational databases compared to no SQL databases.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=12)** This experience is similar to what we face when [[Data Modeling]] for [[Relational Databases]] compared to no [[SQL]] [[Databases]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=19)** One is tried and true.
 >
@@ -745,9 +735,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=125)** Now we've been using virtually the same methods of data model for decades with relational databases to great effect.
 >
-> **[2:10](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=130)** However, they simply don't scale when big data comes into play.
+> **[2:10](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=130)** However, they simply don't scale when [[Big Data]] comes into play.
 >
-> **[2:15](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=135)** And when those SQL databases came into the scene, they were built to handle data modeling in a different way to improve performance and scalability.
+> **[2:15](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=135)** And when those SQL databases came into the scene, they were built to handle data modeling in a different way to improve performance and [[Scalability]].
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-nosql/variety-rethinking-the-data-model?u=76281980&t=141)** And this led to a set of different approaches that really changed how applications are built.
 >
@@ -755,21 +745,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Relational Databases]] (5), [[Databases]] (4), [[SQL]] (3), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (5), [[Data Modeling]] (4), [[Databases]] (4), [[SQL]] (3), [[Big Data]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2), we call this (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variety: NoSQL data models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980)
+#### [Variety: NoSQL data models](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=0)** - [Narrator] By taking advantage of advances in technology, they simply weren't constrained the same way traditional databases were.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=0)** - [Narrator] By taking advantage of advances in technology, they simply weren't constrained the same way traditional [[Databases]] were.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=6)** Now, relational databases use a tabular, structured data modeling approach that focuses on keeping data redundancy low.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=6)** Now, [[Relational Databases]] use a tabular, structured [[Data Modeling]] approach that focuses on keeping data redundancy low.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=12)** Think rows and columns in a table, like a spreadsheet.
 >
@@ -787,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=47)** We don't have any of the table definitions, constraints, or joins between tables, which results in less processing needed to get the data.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=53)** Now there are plenty of other examples like document stores, graph, time series, and even tabular NoSQL databases.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=53)** Now there are plenty of other examples like document stores, graph, time series, and even tabular [[NoSQL]] databases.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=59)** And there's data modeling approaches can vary quite a bit.
 >
@@ -801,7 +790,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=85)** This could be very useful for storing patient medical information because each patient's data is so unique.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=90)** No SQL databases opened up possibilities that allowed application builders to evolve the kinds of experiences and services we all consume every day.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=90)** No [[SQL]] databases opened up possibilities that allowed application builders to evolve the kinds of experiences and services we all consume every day.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-nosql/variety-nosql-data-models?u=76281980&t=99)** However, there is a trade off. Nothing comes for free.
 >
@@ -813,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (9), data (9), [[SQL]] (3), database (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (9), [[Data Modeling]] (5), [[SQL]] (3), [[Relational Databases]] (1), [[NoSQL]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
@@ -824,12 +813,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing the three Vs to current relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980)
+#### [Comparing the three Vs to current relational databases](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=0)** - [Instructor] Comparing relational and NoSQL databases is like comparing an Olympic decathlon athlete to a hundred meter world record holder.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=0)** - [Instructor] Comparing relational and [[NoSQL]] [[Databases]] is like comparing an Olympic decathlon athlete to a hundred meter world record holder.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=7)** While the decathlon includes a hundred meter sprint, pure 100 meter spinners are usually faster.
 >
@@ -837,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=17)** One being more general purpose while the other focus is on a specific ability.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=21)** Now, since the time of the NoSQL revolution, relational databases have shored up some of the gap but they simply can't scale the same performance as NoSQL databases.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=21)** Now, since the time of the NoSQL revolution, [[Relational Databases]] have shored up some of the gap but they simply can't scale the same performance as NoSQL databases.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=30)** They are though great general purpose systems that can perform a wide range of operations.
 >
@@ -845,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=41)** Over the years, they've made marked improvements in the volume of data they can handle, the velocity at which they can process that data and the variety of data formats they can use.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=50)** Many can even scale out in a sense as compared to only vertically scaling but when combining the three Vs together, volume, velocity and variety, they don't match in a SQL databases.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=50)** Many can even scale out in a sense as compared to only vertically scaling but when combining the three Vs together, volume, velocity and variety, they don't match in a [[SQL]] databases.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=60)** Now one can argue this isn't a fair comparison because we're taking relational databases and comparing them to a whole class of various NoSQL databases, each that are specialized reform specific functions.
 >
@@ -865,7 +853,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=114)** They conform to a set of standards that keep data consistent at the database level, generally preventing developers from worrying about this in their applications.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=121)** But with these abilities com constraints and availability and performance and scalability as data grows.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=121)** But with these abilities com constraints and availability and performance and [[Scalability]] as data grows.
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980&t=127)** Now, NoSQL databases have more variety in the types of data formats available to them but these aren't all usually available in a single database and it can take more time for developers to learn each of these variations.
 >
@@ -875,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (7), data (7), [[Relational Databases]] (6), database (5)
+> **Frameworks & Libraries:** [[NoSQL]] (7), [[Databases]] (7), [[Relational Databases]] (6), [[SQL]] (1), [[Scalability]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
@@ -885,8 +873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### That's a wrap
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980)
+#### [That's a wrap](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=4)** Great job.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=6)** I hope you have a new appreciation and understanding for the ways that NoSQL databases power everything we do.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=6)** I hope you have a new appreciation and understanding for the ways that [[NoSQL]] [[Databases]] power everything we do.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=11)** The size and scale of data out there is mind-boggling, and it shows no signs of letting up.
 >
@@ -910,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=33)** If you've gained some knowledge along the way, I'll take it as a solid win for both of us.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=37)** Now, feel free to reach out to me at david-gilardi on LinkedIn and SonicDMG on Twitter and GitHub.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=37)** Now, feel free to reach out to me at david-gilardi on [[LinkedIn]] and SonicDMG on Twitter and [[GitHub]].
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980&t=42)** Take care.
 >
@@ -918,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (2), power (1), data (1), database (1)
+> **Frameworks & Libraries:** [[NoSQL]] (4), [[Databases]] (2), [[LinkedIn]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)

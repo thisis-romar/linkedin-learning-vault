@@ -101,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why design thinking matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980)
+#### [Why design thinking matters](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980&t=0)** Are you ready to transform how your team tackles problems and generates unexpected solutions?
 >
-> **[0:06](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980&t=6)** Do you need a practical refresher on how to engage your team in design thinking in the age of AI and hybrid teams?
+> **[0:06](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980&t=6)** Do you need a practical refresher on how to engage your team in [[Design Thinking]] in the age of AI and hybrid teams?
 >
 > **[0:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980&t=13)** My name is Turi McKinley.
 >
@@ -122,15 +121,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), ai (2), teams (1), product (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3)
 > **CLI Commands:** make (1)
 
-#### About this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980)
+#### [About this course](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=0)** You may be coming to this course for the first time or because we've updated it to include how remote and hybrid teams use design thinking to innovate and collaborate, and how AI can become an effective part of that team.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=0)** You may be coming to this course for the first time or because we've updated it to include how remote and hybrid teams use [[Design Thinking]] to innovate and collaborate, and how AI can become an effective part of that team.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=13)** If you're new to this course, this course will introduce you to ways of taking action on the most pressing challenges you seek to solve with others at work, in your community, and beyond.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=68)** In this course, you will learn strategies for bringing this powerful form of ideation and problem-solving into your organization or team.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=77)** This course will define design thinking and the mindset behind it, and it will cover the leadership strategies to build that mindset, plus specific tools like journey mapping, concepting, and prototyping, which you can apply every day to make this a sustainable success.
+> **[1:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=77)** This course will define design thinking and the mindset behind it, and it will cover the leadership strategies to build that mindset, plus specific tools like journey mapping, concepting, and [[Prototyping]], which you can apply every day to make this a sustainable success.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/about-this-course?u=76281980&t=96)** We will also share an approach to integrating AI capabilities into your team, and how to effectively work with remote and hybrid teams.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), teams (2), ai (2), leadership (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Prototyping]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mit (1)
 > **Definitions:** is a  (1)
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is design thinking?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980)
+#### [What is design thinking?](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980&t=0)** To define design thinking in the context of today's business world, it's a making-based approach to problem-solving that's rooted in human empathy and done in collaborative, multidisciplinary teams.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980&t=0)** To define [[Design Thinking]] in the context of today's business world, it's a making-based approach to problem-solving that's rooted in human empathy and done in collaborative, multidisciplinary teams.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980&t=14)** Let's break that definition down.
 >
@@ -211,21 +208,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (6), teams (6), product (3), business (2)
+> **Frameworks & Libraries:** [[Design Thinking]] (6)
 > **CLI Commands:** find (3), make (2)
 
-#### The value of design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980)
+#### [The value of design thinking](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=0)** Design thinking is how designers work; we make to solve problems.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=0)** [[Design Thinking]] is how designers work; we make to solve problems.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=5)** And businesses from big ones like GE and McKinsey to small fast movers have integrated this mindset into how they work because it's particularly good at enabling teams to grasp and address really complex problems.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=21)** Most of the challenges businesses face today are complex.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=26)** We live in a global marketplace where businesses are conducted across platforms and continents, where the customer relationship is no longer tied to a single channel, and where developing a product or service often means changing an organizational culture as much as changing the user interface.
+> **[0:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=26)** We live in a global marketplace where businesses are conducted across platforms and continents, where the customer relationship is no longer tied to a single channel, and where developing a product or service often means changing an [[Organizational Culture]] as much as changing the user interface.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=46)** Because we need to deliver meaningful experiences at every touchpoint, our teams now include many skill sets, from business to technology to engineering to what's classically called design.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=197)** It is the integrative thinking and empathy-based skills of designers, which companies are seeking to strengthen internally in order to drive their success.
 >
-> **[3:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=206)** When they describe why they want this change, many companies will focus on the bottom line, like outperforming the S&P 500 or examples of great products that respond elegantly to human needs, like Disney's MagicBand.
+> **[3:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=206)** When they describe why they want this change, many companies will focus on the bottom line, like outperforming the S&P 500 or examples of great [[Microsoft Products|products]] that respond elegantly to human needs, like Disney's MagicBand.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-value-of-design-thinking?u=76281980&t=220)** But the best leaders understand that design thinking is a mindset.
 >
@@ -263,17 +259,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (8), teams (2), business (2), [[Engineering]] (2), product (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (8), [[Organizational Culture]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ibm (1), cad (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### The design thinking approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980)
+#### [The design thinking approach](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=0)** The first question I'm often asked about design thinking is what's the process we should follow? Make sense?
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=0)** The first question I'm often asked about [[Design Thinking]] is what's the process we should follow? Make sense?
 >
 > **[0:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=7)** In our business culture, we're trained to seek a repeatable process to control risk and ensure we're moving in the right direction.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=64)** I'd like you to write down three to five things you see in common across them then restart this video.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=77)** So there's not one process, but you probably notice common themes: development of human empathy from the earliest discovery to final delivery, a continual reframing and questioning of the problem you're trying to solve, and prototyping and making throughout the process.
+> **[1:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=77)** So there's not one process, but you probably notice common themes: development of human empathy from the earliest discovery to final delivery, a continual reframing and questioning of the problem you're trying to solve, and [[Prototyping]] and making throughout the process.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-design-thinking-approach?u=76281980&t=98)** And as you may have read between the lines, there's a high tolerance for risk and ambiguity.
 >
@@ -319,15 +314,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (9), business (1), [[Search]] (1), [[Prototyping]] (1), teams (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (9), [[Prototyping]] (1)
 > **CLI Commands:** make (1)
 
-#### The six elements of a design thinking mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980)
+#### [The six elements of a design thinking mindset](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=0)** The best design thinking teams approach hard questions with a mindset of six characteristics.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=0)** The best [[Design Thinking]] teams approach hard questions with a mindset of six characteristics.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=6)** The first is optimism, the core belief that the team will come up with a great solution.
 >
@@ -351,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=71)** Third is collaboration.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=74)** Watch for collaboration on all channels in Slack and email or over video calls.
+> **[1:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=74)** Watch for collaboration on all channels in [[Slack]] and email or over video calls.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=80)** Is everyone engaged, particularly those with different points of views or different skill sets?
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=149)** You'll see this if your team is making fast prototypes to evolve and improve solutions and is willing to test ideas.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=158)** Is failure a word the team is afraid of?
+> **[2:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=158)** Is failure a [[Microsoft Word|word]] the team is afraid of?
 >
 > **[2:41](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/the-6-elements-of-a-design-thinking-mindset?u=76281980&t=161)** Does every experiment need to be fully polished?
 >
@@ -405,19 +399,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Design Thinking]] (2), teams (1), express (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Slack]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** hipaa (1), ceo (1)
 > **Cross-References:** in the last (1)
 > **Tools:** slack (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** watch out (1)
 
-#### Avoiding common pitfalls of design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/avoiding-common-pitfalls-of-design-thinking?u=76281980)
+#### [Avoiding common pitfalls of design thinking](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/avoiding-common-pitfalls-of-design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/avoiding-common-pitfalls-of-design-thinking?u=76281980&t=0)** As you bring design thinking to life within your teams, you'll probably experience some common pitfalls.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/avoiding-common-pitfalls-of-design-thinking?u=76281980&t=0)** As you bring [[Design Thinking]] to life within your teams, you'll probably experience some common pitfalls.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/avoiding-common-pitfalls-of-design-thinking?u=76281980&t=6)** They will sound like it's just a workshop, or it's a set process that guarantees better ideas, or he's the design thinking rep on the team, not me.
 >
@@ -469,18 +462,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (12), teams (2), next (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (12)
 > **Warnings:** pitfall (5), watch out (1)
 > **CLI Commands:** make (1)
 
-#### Why multidisciplinary matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980)
+#### [Why multidisciplinary matters](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=0)** Most business is about problem-solving for your consumers, for the bottom line, towards a new vision, or towards a metric like your net promoter score.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=10)** Design thinking is a mindset teams take towards problem-solving.
+> **[0:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=10)** [[Design Thinking]] is a mindset teams take towards problem-solving.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=15)** While it's a personal mindset, it is also a collaborative mindset of the team.
 >
@@ -496,7 +488,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=67)** For the purposes of design thinking, I encourage you to see these roles as perspectives on problem-solving.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=74)** The developer may write code, but in team collaboration, they're bringing a perspective on what's possible and soon-to-be possible with technology.
+> **[1:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=74)** The developer may write code, but in [[Team Collaboration]], they're bringing a perspective on what's possible and soon-to-be possible with technology.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=85)** Like the researcher, they help uncover people's unstated needs, but they also help maintain human empathy throughout the project.
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=138)** It's the socialization manager.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=140)** This is somebody who works with understanding the rest of the business and makes outreach to the business units, to the stakeholders, and leads the negotiations to help people in the business understand this great idea and why it's going to be so meaningful to our customers.
+> **[2:20](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=140)** This is somebody who works with understanding the [[Representational State Transfer (REST)|rest]] of the business and makes outreach to the business units, to the stakeholders, and leads the negotiations to help people in the business understand this great idea and why it's going to be so meaningful to our customers.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-multidisciplinary-matters?u=76281980&t=160)** Once the idea is socialized, you still need to get that idea out to market, and that takes all the delivery parts of the business.
 >
@@ -534,17 +526,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), product (4), [[Design Thinking]] (2), teams (2), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Team Collaboration]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
-#### Tangibility: Making space to create
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980)
+#### [Tangibility: Making space to create](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=0)** Design thinking is most often used to tackle hard problems with undefined outcomes where there isn't an obvious linear solution.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=0)** [[Design Thinking]] is most often used to tackle hard problems with undefined outcomes where there isn't an obvious linear solution.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=9)** Exploring these undefined problems and finding solutions requires the ability to stand back from the immediate details and explore what might be.
 >
@@ -584,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=177)** A great deal of the best design thinking happens when your team is working collaboratively and making things tangible as they go.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=185)** If you try to communicate emerging ideas and knowledge without making tangible sketches, you'll find it hampers decision-making and the ability of the team to work efficiently.
+> **[3:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=185)** If you try to communicate emerging ideas and knowledge without making tangible sketches, you'll find it hampers [[Decision-Making]] and the ability of the team to work efficiently.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create?u=76281980&t=198)** It doesn't have to be a lot of space, but it does need to be shared.
 >
@@ -594,12 +585,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), business (1), [[Decision-Making]] (1), next (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Decision-Making]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 
-#### Tangibility: Making space to create when remote
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980)
+#### [Tangibility: Making space to create when remote](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +597,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=3)** We can engage knowledge, skills, and team members from around the world.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=8)** While the tools will continue to evolve, the principles of how they support effective collaboration and what design thinking needs from them are consistent.
+> **[0:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=8)** While the tools will continue to evolve, the principles of how they support effective collaboration and what [[Design Thinking]] needs from them are consistent.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=19)** The three elements your remote spaces need to enable are, first, shared thinking.
 >
@@ -643,23 +633,23 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=110)** These are tools like Vidlet, Dscout, and other AI-supported research tools.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=116)** This category can overlap with digital canvases and reference tools, but in general has features that ease user management and data collection.
+> **[1:56](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=116)** This category can overlap with digital canvases and reference tools, but in general has features that ease [[User Management]] and [[Data Collection]].
 >
-> **[2:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=128)** You often use diagramming tools, which help tease insight from complex information.
+> **[2:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=128)** You often use [[Diagramming]] tools, which help tease insight from complex information.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=135)** These could be tools like FigJam or Creately.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=138)** And they also show up as diagramming templates in other tools like Miro.
 >
-> **[2:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=146)** You'll probably also need collaborative documentation tools like Excel or Google Sheets, Airtable, or Keynote.
+> **[2:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=146)** You'll probably also need collaborative documentation tools like [[Microsoft Excel|Excel]] or [[Google]] Sheets, Airtable, or Keynote.
 >
 > **[2:34](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=154)** These are particularly good for long-term reference, storing the details, and getting to a final version.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=164)** Remote workshopping and rapid prototyping tools are also important.
+> **[2:44](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=164)** Remote workshopping and rapid [[Prototyping]] tools are also important.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=169)** Remote workshopping tools like Zuddl and Butter often have a digital canvas, plus breakout rooms and templates to help manage participation by a wide range of people.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=182)** Rapid prototyping tools like Figma can blur the lines between digital canvas, diagramming, and prototyping, but your core evaluation criteria should be the ease of making things visual and the ease of rapid iteration.
+> **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=182)** Rapid prototyping tools like [[Figma (Software)|Figma]] can blur the lines between digital canvas, diagramming, and prototyping, but your core evaluation criteria should be the ease of making things visual and the ease of rapid iteration.
 >
 > **[3:20](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-space-to-create-when-remote?u=76281980&t=200)** As you examine these tools, don't forget ease of access, security, and data export.
 >
@@ -681,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Diagramming]] (3), [[Prototyping]] (3), [[Design Thinking]] (2), feature (1)
+> **Frameworks & Libraries:** [[Diagramming]] (3), [[Prototyping]] (3), [[Design Thinking]] (2), [[User Management]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** ibm (1)
 > **Versions:** 16.4 (1)
@@ -689,8 +679,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Tangibility: Making complexity visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-complexity-visual?u=76281980)
+#### [Tangibility: Making complexity visual](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-complexity-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +721,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-complexity-visual?u=76281980&t=137)** Eventually, this diagram became core to how our client understands the problem they need to solve.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-complexity-visual?u=76281980&t=143)** Today, I'm showing this on paper, but a digital canvas or diagramming tool might be easier to use since the elements can be moved around simply as the team is thinking, and there's often a nice collection of great icons.
+> **[2:23](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-complexity-visual?u=76281980&t=143)** Today, I'm showing this on paper, but a digital canvas or [[Diagramming]] tool might be easier to use since the elements can be moved around simply as the team is thinking, and there's often a nice collection of great icons.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/tangibility-making-complexity-visual?u=76281980&t=158)** So I encourage you to grow your own skills in making this kind of shorthand for complex information in order to reveal what's important.
 >
@@ -748,16 +737,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), next (1), hit (1), [[Diagramming]] (1), ai (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2), for example (1)
 
-#### Explore design thinking attributes in your teams today
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980)
+#### [Explore design thinking attributes in your teams today](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=0)** I've been talking about design thinking for a while.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=0)** I've been talking about [[Design Thinking]] for a while.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=3)** Let's turn that eye on ourselves now.
 >
@@ -805,7 +793,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=121)** For example, a little later in the course, we're going to talk about using AI as part of your design thinking team.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=128)** So you could try asking ChatGPT or another AI to generate a short design thinking self-assessment for me.
+> **[2:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=128)** So you could try asking [[ChatGPT]] or another AI to generate a short design thinking self-assessment for me.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/explore-design-thinking-attributes-in-your-teams-today?u=76281980&t=137)** See if its suggestions are helpful.
 >
@@ -815,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), ai (2), product (1), next (1), strengths (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** later in (1)
@@ -827,8 +815,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980)
+#### [Leading design thinking](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +823,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=2)** Some are guides integrated into the team, some lead many efforts, and others have very large teams.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=10)** Regardless of where you are, there are four abilities good design thinking leaders practice to help their teams stay in the flow of effective, creative problem-solving.
+> **[0:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=10)** Regardless of where you are, there are four abilities good [[Design Thinking]] leaders practice to help their teams stay in the flow of effective, creative problem-solving.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=22)** Understanding these abilities is crucial to developing your design-thinking leadership.
 >
@@ -862,13 +849,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=128)** The third skill, communicating ideas is less often discussed as a key for successful design thinking, but I find it very important.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=139)** Companies are interested in design thinking for the promise of generating new products, new services, and new experiences that will lead in their industry.
+> **[2:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=139)** Companies are interested in design thinking for the promise of generating new [[Microsoft Products|products]], new services, and new experiences that will lead in their industry.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=149)** These new ideas are often very different from today's status quo, and this difference can introduce a lot of resistance in the company.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=158)** So how you communicate the insights, the new idea, the people's needs will shape how your peers react to the solutions your teams create.
+> **[2:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=158)** So how you communicate the insights, the new idea, the people's needs will shape how your peers [[React.js|react]] to the solutions your teams create.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=169)** You need to be able to speak to a memorable narrative of the vision for the rest of the business.
+> **[2:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=169)** You need to be able to speak to a memorable narrative of the vision for the [[Representational State Transfer (REST)|rest]] of the business.
 >
 > **[2:56](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980&t=176)** One strategy is to have a spot in your team's space, whether it's online or in-person, for the current elevator-length narrative, and make a weekly practice of refreshing that top-line narrative with what's been learned and what's been done.
 >
@@ -888,17 +875,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), leadership (2), business (2), [[Design Thinking]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Microsoft Products|Products]] (1), [[React.js|React]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** keep in mind (1)
 
-#### Challenges of leading design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/challenges-of-leading-design-thinking?u=76281980)
+#### [Challenges of leading design thinking](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/challenges-of-leading-design-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/challenges-of-leading-design-thinking?u=76281980&t=0)** Design thinking activities are organized by the continual reframing or redefining of the problem based on current knowledge and making progress.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/challenges-of-leading-design-thinking?u=76281980&t=0)** [[Design Thinking]] activities are organized by the continual reframing or redefining of the problem based on current knowledge and making progress.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/challenges-of-leading-design-thinking?u=76281980&t=12)** The problems addressed usually don't have a clear answer we can measure our progress towards.
 >
@@ -986,13 +972,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), next (3), leadership (2)
+> **Frameworks & Libraries:** [[Design Thinking]] (3)
 > **CLI Commands:** find (2), make (1), rails (1)
 > **Analogies:** picture (2), just like (1)
 > **Definitions:** is a  (1)
 
-#### Building your skills in leading a design thinking team
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/building-your-skills-in-leading-a-design-thinking-team?u=76281980)
+#### [Building your skills in leading a design thinking team](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/building-your-skills-in-leading-a-design-thinking-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +993,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/building-your-skills-in-leading-a-design-thinking-team?u=76281980&t=17)** Understanding the skills of a leader in an effective, creative problem-solving environment, and your own relationship with those skills is crucial to developing your own leadership.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/building-your-skills-in-leading-a-design-thinking-team?u=76281980&t=28)** So design thinking is making-based problem solving by collaborative teams, working from a shared mindset that's experimental, human-centered, and optimistic.
+> **[0:28](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/building-your-skills-in-leading-a-design-thinking-team?u=76281980&t=28)** So [[Design Thinking]] is making-based problem solving by collaborative teams, working from a shared mindset that's experimental, human-centered, and optimistic.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/building-your-skills-in-leading-a-design-thinking-team?u=76281980&t=40)** So what skills do you need to help that happen?
 >
@@ -1058,12 +1043,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), leadership (1), [[Design Thinking]] (1), teams (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 
-#### Aligning the team
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980)
+#### [Aligning the team](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1073,11 +1057,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=13)** This means teams often kick off projects or phases focused on the outcomes, the business goals, or the needs of the customers, but without aligning on the team member goals and needs.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=26)** This team self-awareness is particularly important in the context of design thinking, where people from different disciplines are collaborating in these experimental iterations that are filled with a lot of creative ambiguity, and where we need to trust each other's intentions in order to manage the frustrations that will show up.
+> **[0:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=26)** This team self-awareness is particularly important in the context of [[Design Thinking]], where people from different disciplines are collaborating in these experimental iterations that are filled with a lot of creative ambiguity, and where we need to trust each other's intentions in order to manage the frustrations that will show up.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=47)** Many avoidable issues can arise over the course of a project.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=51)** In debriefs, I'm sure you've heard a variation of I didn't know your vacation was the week before we presented to the CEO, or everybody but me is an extrovert, and I had a hard time getting a word in.
+> **[0:51](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=51)** In debriefs, I'm sure you've heard a variation of I didn't know your vacation was the week before we presented to the CEO, or everybody but me is an extrovert, and I had a hard time getting a [[Microsoft Word|word]] in.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/aligning-the-team?u=76281980&t=65)** Or worse, Joe didn't believe in what we were doing; he was always late to stand up.
 >
@@ -1117,14 +1101,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), next (2), teams (1), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Analogies:** for example (1), picture (1)
 > **Env Vars:** ceo (1)
 > **Exercise Files:** exercise files (1)
 
-#### Employing a team leap activity
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/employing-a-team-leap-activity?u=76281980)
+#### [Employing a team leap activity](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/employing-a-team-leap-activity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,19 +1201,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1), ai (1)
 > **CLI Commands:** make (2), find (1)
 > **Ports:** :15 (2)
 > **Analogies:** for example (2)
 > **Env Vars:** pdf (1)
 > **Best Practices:** remember to (1)
 
-#### Set a shared goal: Mission countdown
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980)
+#### [Set a shared goal: Mission countdown](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=0)** Creating products and services today is inherently multidisciplinary.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=0)** Creating [[Microsoft Products|products]] and services today is inherently multidisciplinary.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=5)** Everyone on the team brings a different set of skills needed to make a great product.
 >
@@ -1240,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=24)** One of my favorite tools for this is the mission countdown activity.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=28)** It's a 45-minute activity that takes us from those long, verbose, and hard-to-follow mission documents to a tight four-word summary of what are we trying to do, why, and for whom.
+> **[0:28](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=28)** It's a 45-minute activity that takes us from those long, verbose, and hard-to-follow mission documents to a tight four-[[Microsoft Word|word]] summary of what are we trying to do, why, and for whom.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=42)** At the end, you'll have a four-word mission statement like accelerate health through relationships, which answers what are we trying to do and how we'll do it.
 >
@@ -1294,7 +1275,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=194)** Like accelerate health through relationships helped focus the experience design of a medical innovation center.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=202)** Now, post it up in the digital and physical team room, in your Slack channel header, and refer back to it often.
+> **[3:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=202)** Now, post it up in the digital and physical team room, in your [[Slack]] channel header, and refer back to it often.
 >
 > **[3:30](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/set-a-shared-goal-mission-countdown?u=76281980&t=210)** A good mission statement should align the team on the goal, it should be memorable throughout all stages of design, and it should guide the work for all the disciplines on your team.
 >
@@ -1308,13 +1289,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Products|Products]] (1), product (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Products|Products]] (1), [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Analogies:** picture (1)
 
-#### Active alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/active-alignment?u=76281980)
+#### [Active alignment](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/active-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,14 +1348,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), teams (1), generic (1), product (1), business (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 
-#### Considerations when remote
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980)
+#### [Considerations when remote](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,7 +1383,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=96)** The speed and access to people is fantastic, but when you're working through complex experiences, you may need to build in a proxy for physical or contextual experiences like role-playing to Wizard of Oz moments to get meaningful feedback for these mixed mediums.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=116)** It's ubiquitous today to use shared drives or platforms like Google Drive to store our project documents, insights, and designs.
+> **[1:56](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=116)** It's ubiquitous today to use shared drives or platforms like [[Google Drive]] to store our project documents, insights, and designs.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=126)** However, the number of these tools from canvases to research tools, presentations, prototypes, and blueprints can make it hard for the team members to trust they're viewing the most up-to-date items.
 >
@@ -1421,7 +1399,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=183)** A few tips.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=185)** Use digital tools for collaboration, communication, research, and prototyping, and see them as your friend.
+> **[3:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=185)** Use digital tools for collaboration, communication, research, and [[Prototyping]], and see them as your friend.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=192)** But like any relationship, invest the time in making sure they're working for you.
 >
@@ -1429,17 +1407,17 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=204)** This can be all-team meetings like stand ups, but also don't forget one-on-ones.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=211)** Establish clear communication channels and norms to facilitate effective team collaboration.
+> **[3:31](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=211)** Establish clear communication channels and norms to facilitate effective [[Team Collaboration]].
 >
 > **[3:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=218)** Use interactive and engaging methods during remote workshops to maintain participation and creativity.
 >
 > **[3:46](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=226)** Maintain thorough and accessible documentation of all design-thinking activities, decisions, and outcomes.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=234)** By adapting to these differences, remote teams can effectively conduct design thinking and achieve innovative results even when they're physically distant.
+> **[3:54](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/considerations-when-remote?u=76281980&t=234)** By adapting to these differences, remote teams can effectively conduct [[Design Thinking]] and achieve innovative results even when they're physically distant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Google Drive]] (1), [[Prototyping]] (1), [[Team Collaboration]] (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (1), [[Prototyping]] (1), [[Team Collaboration]] (1), [[Design Thinking]] (1)
 > **Cross-References:** we mentioned (2), earlier in (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1), don't forget (1)
@@ -1450,12 +1428,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Human-centered design (HCD) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980)
+#### [Human-centered design (HCD) overview](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=0)** Design thinking focuses on the act of making to explore possibilities, and the goal is always to be making something real in the world.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=0)** [[Design Thinking]] focuses on the act of making to explore possibilities, and the goal is always to be making something real in the world.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=9)** So this exploration needs to be based in some solid realities.
 >
@@ -1493,7 +1470,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=192)** Experts in human-centered design tend to have a strong design research background, and the ability to communicate insights that inspire empathy.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=202)** While I encourage you to have some of those experts handy, the mindset that we do our best work when we understand the needs of the people our products are for is one that everyone on the team should share.
+> **[3:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=202)** While I encourage you to have some of those experts handy, the mindset that we do our best work when we understand the needs of the people our [[Microsoft Products|products]] are for is one that everyone on the team should share.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980&t=217)** Diving deep into building the skills of design research is beyond the scope of this overview course, but there are many toolkits and courses available online, and I've listed a few in the course exercise files.
 >
@@ -1501,13 +1478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (1), business (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Hypothesis generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/hypothesis-generation?u=76281980)
+#### [Hypothesis generation](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/hypothesis-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1581,17 +1557,16 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/hypothesis-generation?u=76281980&t=241)** Often, the assumptions we make about why people use something aren't correct, and they may reflect how our organization sees the problem more than how people actually experience it.
 >
-> **[4:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/hypothesis-generation?u=76281980&t=253)** Actively stating and testing our hypotheses helps us deepen our understanding of unmet needs and motivations and fuels the human empathy which effective design thinking relies on.
+> **[4:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/hypothesis-generation?u=76281980&t=253)** Actively stating and testing our hypotheses helps us deepen our understanding of unmet needs and motivations and fuels the human empathy which effective [[Design Thinking]] relies on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), feature (1), next (1), power (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 
-#### Empathy for the journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980)
+#### [Empathy for the journey](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1607,15 +1582,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=42)** These stages will vary by industry but generally go from either low to high engagement or chronologically over time.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=52)** For example, in digital services like LinkedIn Learning, you'll often see stages like awareness of the product, evaluation, purchase, use, and eventually, advocating to others.
+> **[0:52](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=52)** For example, in digital services like [[LinkedIn]] Learning, you'll often see stages like awareness of the product, evaluation, purchase, use, and eventually, advocating to others.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=70)** But for industrial hardware, the stages will be different, like specification of the product, commitment to build the product, actual production, installation, use, maintenance, and eventually, end of life.
+> **[1:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=70)** But for industrial [[Hardware]], the stages will be different, like specification of the product, commitment to build the product, actual production, installation, use, maintenance, and eventually, end of life.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=93)** Or for a student, it might be before, during, and after the course.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=99)** But if you look at it from another perspective, it could be from admissions through graduation, depending on what you're designing for.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=108)** Then it dives into the complexity of an experience and helps the team see the relationships between the parts of the experience, like the products, the services, the points of access, and the people involved.
+> **[1:48](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=108)** Then it dives into the complexity of an experience and helps the team see the relationships between the parts of the experience, like the [[Microsoft Products|products]], the services, the points of access, and the people involved.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=124)** This course is actually a good example of these things.
 >
@@ -1635,7 +1610,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=177)** In the next video, we'll walk through an example to make this more tangible.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=182)** The journey map is useful as a design thinking foundation at all stages of iteration.
+> **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=182)** The journey map is useful as a [[Design Thinking]] foundation at all stages of iteration.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/empathy-for-the-journey?u=76281980&t=189)** At the beginning, it lets you establish your assumption of your users' mindset and activities.
 >
@@ -1647,14 +1622,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[LinkedIn]] (2), teams (1), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Hardware]] (1), [[Microsoft Products|Products]] (1), [[Design Thinking]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** specification (1)
 > **Analogies:** for example (1)
 
-#### Journey example
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/journey-example?u=76281980)
+#### [Journey example](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/journey-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1706,7 +1680,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/journey-example?u=76281980&t=161)** It usually doesn't start quite as polished as this is.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/journey-example?u=76281980&t=165)** It usually starts with just a horizontal line and a team discussion, sketching out the possible frameworks based on what you think you know, or what you've already found in the field.
+> **[2:45](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/journey-example?u=76281980&t=165)** It usually starts with just a horizontal line and a team discussion, [[Sketching]] out the possible frameworks based on what you think you know, or what you've already found in the field.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/journey-example?u=76281980&t=178)** Whether you're working online or on a whiteboard, there's a few practices that help the team arrive at their first draft.
 >
@@ -1724,12 +1698,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (1), data (1)
+> **Frameworks & Libraries:** [[Sketching]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** emt (1)
 
-#### Synthesis: Making sense of the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980)
+#### [Synthesis: Making sense of the data](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1714,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=20)** It is hard to do well, and it can feel a little bit like black magic until you've done it a few times.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=26)** You start with your raw data; those observations, quotes, videos and photos, and even statistics or other data.
+> **[0:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=26)** You start with your raw data; those observations, quotes, videos and photos, and even [[Statistics]] or other data.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=35)** We'll then filter that data into themes and insights and finally arrive at a few key opportunities.
 >
@@ -1777,7 +1750,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=131)** Jumping ahead, imagine you've now got many of these groups.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=134)** You want to stand back from the boards or zoom out the UI and start to compare those groups.
+> **[2:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=134)** You want to stand back from the boards or [[Zoom]] out the UI and start to compare those groups.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=141)** Are you seeing any themes that emerge?
 >
@@ -1809,24 +1782,23 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=251)** This is a good opportunity area because it can be addressed in many concepts.
 >
-> **[4:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=257)** This idea of celebration could be applied to the packaging, to the injectable, and to the overall user experience in a wide range of ways.
+> **[4:17](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=257)** This idea of celebration could be applied to the packaging, to the injectable, and to the overall [[User Experience (UX)|user experience]] in a wide range of ways.
 >
 > **[4:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=266)** There are many approaches to research synthesis.
 >
 > **[4:29](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=269)** The best help you get to a clear direction on how to move forward.
 >
-> **[4:34](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=274)** Look in the course exercise files for more information and to other LinkedIn courses to go deeper on synthesis.
+> **[4:34](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/synthesis-making-sense-of-the-data?u=76281980&t=274)** Look in the course exercise files for more information and to other [[LinkedIn]] courses to go deeper on synthesis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (3), [[Statistics]] (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (6), find (4)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 
-#### Concept generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/concept-generation?u=76281980)
+#### [Concept generation](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/concept-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,7 +1864,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), teams (2), feature (1)
 > **Analogies:** imagine (1), for example (1), similar to (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** select the (1)
@@ -1900,12 +1871,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 
-#### Developing a service blueprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980)
+#### [Developing a service blueprint](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=0)** As ideas become more refined, design thinking continues to enable the team to creatively address the complexity of delivering a meaningful experience.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=0)** As ideas become more refined, [[Design Thinking]] continues to enable the team to creatively address the complexity of delivering a meaningful experience.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=10)** Delivering often involves far more people than just the end customer.
 >
@@ -1949,7 +1919,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=182)** A blueprint, when it's operationalized, is most often digital, with a visual front end for high-level understanding and backed by deeper views that let you dig in.
 >
-> **[3:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=194)** A good service blueprint includes the strong horizontal flow that's appropriate for your industry, and it covers the whole user experience.
+> **[3:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=194)** A good service blueprint includes the strong horizontal flow that's appropriate for your industry, and it covers the whole [[User Experience (UX)|user experience]].
 >
 > **[3:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/developing-a-service-blueprint?u=76281980&t=202)** It also has a clear vertical breakout of all the key players and how they will interact with the service over time.
 >
@@ -1959,14 +1929,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (2), [[Design Thinking]] (1), next (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), imagine (1)
 > **Env Vars:** emt (1)
 > **Definitions:** is a  (1)
 
-#### Managing creative flow with the wider group
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/managing-creative-flow-with-the-wider-group?u=76281980)
+#### [Managing creative flow with the wider group](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/managing-creative-flow-with-the-wider-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2016,7 +1985,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/managing-creative-flow-with-the-wider-group?u=76281980&t=165)** Now they're sharing those ideas out with the bigger group.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/managing-creative-flow-with-the-wider-group?u=76281980&t=169)** When time gets tight, it's tempting to skip this kind of share-out, but verbalizing what you've done and listening to others for inspiration is one of the key moments in facilitating design thinking.
+> **[2:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/managing-creative-flow-with-the-wider-group?u=76281980&t=169)** When time gets tight, it's tempting to skip this kind of share-out, but verbalizing what you've done and listening to others for inspiration is one of the key moments in facilitating [[Design Thinking]].
 >
 > **[3:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/managing-creative-flow-with-the-wider-group?u=76281980&t=183)** In this example, timeboxing took the team from very off-the-wall inputs to idea generation to shareable sketches in less than an hour.
 >
@@ -2030,18 +1999,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (3), teams (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1)
 
-#### Is design thinking just a workshop?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980)
+#### [Is design thinking just a workshop?](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=0)** I've been talking a lot about workshops and online work sessions.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=4)** That's because these formats are particularly useful for supporting the multidisciplinary collaboration central to design thinking, and because having those clearly time-boxed opportunities for collaboration helps people set aside other considerations to focus efficiently.
+> **[0:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=4)** That's because these formats are particularly useful for supporting the multidisciplinary collaboration central to [[Design Thinking]], and because having those clearly time-boxed opportunities for collaboration helps people set aside other considerations to focus efficiently.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=22)** However, one of the clearest critiques or misunderstandings of design thinking is that it is just collaboration workshops.
 >
@@ -2057,7 +2025,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=63)** It's a rare team today that can bring great ideas to life at scale without involving other teams, other parts of the business, and other partners.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=74)** These collaborative workshops are often used to engage those folks in the process, to get them into the creative flow, and for them to share their expertise to make the products better.
+> **[1:14](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=74)** These collaborative workshops are often used to engage those folks in the process, to get them into the creative flow, and for them to share their expertise to make the [[Microsoft Products|products]] better.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/is-design-thinking-just-a-workshop?u=76281980&t=86)** Unfortunately, in some organizations, design thinking has come to mean a team that puts on great work sessions.
 >
@@ -2073,7 +2041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (9), teams (2), business (2), [[Microsoft Products|Products]] (2), leadership (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (9), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -2082,8 +2050,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design thinking and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980)
+#### [Design thinking and AI](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,15 +2068,15 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=39)** The core answer is to remember that you are the captain.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=43)** Think of the many forms of AI you have access to as talented junior team members.
+> **[0:43](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=43)** Think of the many [[Forms]] of AI you have access to as talented junior team members.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=50)** They can rapidly generate structured answers to the questions you ask, but it remains your core skill and responsibility to ask the right questions and to decide how to move forward.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=64)** This is where that design thinking mindset comes in.
+> **[1:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=64)** This is where that [[Design Thinking]] mindset comes in.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=68)** Framing the right questions to ask, building human connections, and synthesizing information into insights and decisions.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=78)** AI, with its rapid data processing and pattern recognition capabilities, is capable of augmenting our human-centered design process at every stage.
+> **[1:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=78)** AI, with its rapid [[Data Processing]] and pattern recognition capabilities, is capable of augmenting our human-centered design process at every stage.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=89)** This section will touch on how to engage that AI-shaped junior team member at several key stages: researching, concepting, and in overall thinking.
 >
@@ -2123,7 +2090,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=132)** During ideation, you might ask it to generate a variety of concepts based on specific user needs.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=139)** When prototyping, AI can help predict how different designs might perform in real-world conditions to help you compare with what you found in direct research.
+> **[2:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=139)** When [[Prototyping]], AI can help predict how different designs might perform in real-world conditions to help you compare with what you found in direct research.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980&t=150)** Regardless of stage, it's important to remember AI is only as good as the prompts you give it and the data it's trained on.
 >
@@ -2147,16 +2114,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (3), [[Forms]] (1), [[Design Thinking]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Design Thinking]] (1), [[Data Processing]] (1), [[Prototyping]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** just like (1)
 
-#### AI as a research assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980)
+#### [AI as a research assistant](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=0)** At the heart of design thinking lies a commitment to understanding and integrating a human-centered view into every aspect of your work.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=0)** At the heart of [[Design Thinking]] lies a commitment to understanding and integrating a human-centered view into every aspect of your work.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=8)** This approach requires a keen ability to balance human, business, and technology needs, identifying opportunities that can lead to truly innovative solutions.
 >
@@ -2168,9 +2134,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=54)** Imagine AI as your diligent research assistant.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=58)** It can dive into vast datasets, pulling out information on user needs, it can examine business intelligence, and identify market trends.
+> **[0:58](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=58)** It can dive into vast datasets, pulling out information on user needs, it can examine [[Business Intelligence (BI)|business intelligence]], and identify market trends.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=67)** Your AI can also help you create mood boards and analyze feedback from current experiences or assess what's going on with competing products.
+> **[1:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=67)** Your AI can also help you create mood boards and analyze feedback from current experiences or assess what's going on with competing [[Microsoft Products|products]].
 >
 > **[1:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-a-research-assistant?u=76281980&t=78)** Whether you need to sift through or transcribe text or visualize trends or analyze internal and external data, AI can support your team in gathering the inputs needed to shape a strong design foundation.
 >
@@ -2202,22 +2168,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Design Thinking]] (3), business (2), data (2), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 
-#### AI as a concepting partner
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980)
+#### [AI as a concepting partner](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=0)** Much of the attention today on AI is on its generative abilities in images, video, text, architecture, even business models, and the speed of this generation.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=13)** The key as a leader is to bring these tools in without losing the core empathy, experimentation, and synthesis of design thinking.
+> **[0:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=13)** The key as a leader is to bring these tools in without losing the core empathy, experimentation, and synthesis of [[Design Thinking]].
 >
-> **[0:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=22)** Design thinking thrives on divergent thinking, exploring a wide array of possibilities, and generative AI is an excellent partner in this.
+> **[0:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=22)** Design thinking thrives on divergent thinking, exploring a wide array of possibilities, and [[Generative AI]] is an excellent partner in this.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=33)** Imagine you're designing a new e-learning platform like LinkedIn Learning.
+> **[0:33](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=33)** Imagine you're designing a new e-learning platform like [[LinkedIn]] Learning.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=38)** Using generative AI, your team could mock up user interfaces in different styles in just minutes, something which would have taken hours manually.
 >
@@ -2225,7 +2190,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=53)** Or perhaps you're rethinking a subscription services business model.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=57)** Generative AI tools could suggest pricing structures or even code snippets for a prototype.
+> **[0:57](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=57)** [[Generative AI Tools]] could suggest pricing structures or even code snippets for a prototype.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=63)** These can fuel discussion and experimentation.
 >
@@ -2249,7 +2214,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=155)** As the team responds to the current round of generated input, use the discussion to shape the next prompt.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=162)** And fifth, always bring the focus back to real-world insights from user research, from the business, from your partners to ensure that human intuition and insight guides decision-making.
+> **[2:42](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=162)** And fifth, always bring the focus back to real-world insights from user research, from the business, from your partners to ensure that human intuition and insight guides [[Decision-Making]].
 >
 > **[2:56](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-a-concepting-partner?u=76281980&t=176)** Much of the design thinking approach and tools support you and the people on the team in making a creative, almost intuitive leaps to see new ideas.
 >
@@ -2261,13 +2226,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (4), prompt (4), [[Design Thinking]] (3), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Design Thinking]] (3), [[Generative AI]] (3), [[Generative AI Tools]] (2), [[LinkedIn]] (1), [[Decision-Making]] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 
-#### AI as your thought partner
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980)
+#### [AI as your thought partner](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2275,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=10)** One of the common frustrations of those working remote is missing that partner in the team room, across the desk, or at lunch to bounce ideas off of.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=19)** Design thinking thrives on rapid iteration, collaboration, and diverse input.
+> **[0:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=19)** [[Design Thinking]] thrives on rapid iteration, collaboration, and diverse input.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=24)** These processes evolved in physical team environments where ideas are quickly exchanged and challenged.
 >
@@ -2285,7 +2249,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=41)** Let's imagine you're working from home, and you're generating ideas for how a customer need might be addressed in your product, but you feel like you're just rehashing ideas you've seen before.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=52)** If you were in the office, you might bounce that idea off a colleague and together generate some new ideas.
+> **[0:52](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=52)** If you were in the [[Microsoft Office|office]], you might bounce that idea off a colleague and together generate some new ideas.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=59)** And this would feed your thinking.
 >
@@ -2303,13 +2267,13 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=117)** The answers the AI provides may only be as accurate as the data you fed it, but having the framework present will remind you to consider those elements.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=129)** A good example of how to use AI and a thinking framework is available in the Miro template, AI-aided six thinking hats with ChatGPT that's linked in the exercise files.
+> **[2:09](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=129)** A good example of how to use AI and a thinking framework is available in the Miro template, AI-aided six thinking hats with [[ChatGPT]] that's linked in the exercise files.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=141)** This takes the classic de Bono thinking hats for evaluating an idea from different perspectives into a series of prompts for AI.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=150)** This template is both a good example of how a solo person can use AI as a thought partner, and of the value of keeping a record of the prompts that have worked for you from project to project, so that you have a tool you can return to each time you face a design thinking challenge on your own or with your team.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=172)** While AI can be a great thinking partner, remember that it is a junior one that's able to react swiftly to the prompts you give, but limited in its accuracy and ability to truly innovate.
+> **[2:52](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=172)** While AI can be a great thinking partner, remember that it is a junior one that's able to [[React.js|react]] swiftly to the prompts you give, but limited in its accuracy and ability to truly innovate.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/ai-as-your-thought-partner?u=76281980&t=184)** You remain the ultimate decision-maker.
 >
@@ -2317,7 +2281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Design Thinking]] (2), product (2), [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (2), [[Microsoft Office|Office]] (1), [[ChatGPT]] (1), [[React.js|React]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
@@ -2327,8 +2291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototyping fast and often
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980)
+#### [Prototyping fast and often](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2336,7 +2299,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=3)** Putting an experience in words, even on stickies or a digital canvas will never explain it as well as the actual experience of it.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=12)** Prototyping is, in essence, sketching an idea in time and form.
+> **[0:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=12)** [[Prototyping]] is, in essence, [[Sketching]] an idea in time and form.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=18)** Like a sketch, they are disposable and changeable, but nothing puts your ideas to the test faster than making them experienceable.
 >
@@ -2344,7 +2307,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=32)** A prototype for an app might be a few clickthrough screens for feedback from potential users, but for an industrial product, it might mean modeling a substation to facilitate a conversation between potential partners.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=46)** For something as abstract as insurance products, it could be a storyboard to trial a new underwriting approach with 10 brokers.
+> **[0:46](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=46)** For something as abstract as insurance [[Microsoft Products|products]], it could be a storyboard to trial a new underwriting approach with 10 brokers.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=54)** As different as these examples are, the common goals are to swiftly learn from interacting with the prototype, to share it within the team and with real people, and to quickly adapt with what you've learned.
 >
@@ -2354,7 +2317,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=90)** Effective prototyping is about selecting the information you need to learn right now, and creating a prototype at the lowest level of polish needed to get input to shape your next moves.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=103)** So prototyping comes in many forms.
+> **[1:43](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=103)** So prototyping comes in many [[Forms]].
 >
 > **[1:46](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980&t=106)** Generally, we look at prototypes as serving three purposes.
 >
@@ -2386,12 +2349,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (5), [[Microsoft Products|Products]] (2), [[Sketching]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Microsoft Products|Products]] (2), [[Sketching]] (1), [[Forms]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (1)
 
-#### Lo-fi prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980)
+#### [Lo-fi prototyping](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2399,7 +2361,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=7)** In fact, the ability to rapidly and cheaply flesh out a concept to test and refine is often crucial for maintaining your momentum.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=16)** Low-fidelity prototypes are low-polish, quick, and made with the materials at hand that could even be paper, PowerPoint, a digital canvas, or with generative AI.
+> **[0:16](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=16)** Low-fidelity prototypes are low-polish, quick, and made with the materials at hand that could even be paper, [[Microsoft PowerPoint|PowerPoint]], a digital canvas, or with [[Generative AI]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=28)** Their goal is to iterate an idea as a team, or gather input from people or stakeholders on a key moment in the experience.
 >
@@ -2407,13 +2369,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=47)** The low-fidelity prototype should explore just enough to make it comprehensible.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=53)** First, determine what you need to explore in that prototype, and not everything is right for prototyping.
+> **[0:53](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=53)** First, determine what you need to explore in that prototype, and not everything is right for [[Prototyping]].
 >
 > **[0:59](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=59)** For example, a core element of your concept might be the financial model.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=65)** And while this could be shown in a spreadsheet, it's perhaps less effective for getting feedback from users than a prototype of your user interface.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=75)** Once you've selected what to prototype, use the materials available to you to start sketching the concept.
+> **[1:15](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=75)** Once you've selected what to prototype, use the materials available to you to start [[Sketching]] the concept.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=82)** Ask yourself, what do you want to show?
 >
@@ -2433,7 +2395,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=130)** It's also useful to get input from real people.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=133)** For example, if you are prototyping a voice-activated car system, you might have one of your teammates sit behind a screen to speak like the car to see how people react without the expense of building out the whole car.
+> **[2:13](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=133)** For example, if you are prototyping a voice-activated car system, you might have one of your teammates sit behind a screen to speak like the car to see how people [[React.js|react]] without the expense of building out the whole car.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/lo-fi-prototyping?u=76281980&t=148)** People are often quite willing to suspend their expectations when prototypes are presented as sketches and performances in a way they're not willing to do when a concept looks too real and then fails to meet the interactivity expectations that realness set.
 >
@@ -2449,16 +2411,15 @@ created: 2026-05-02
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 
-#### Prototyping beyond the screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980)
+#### [Prototyping beyond the screen](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=0)** Products and services today often exist beyond a single screen or the edges of a physical product.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=0)** [[Microsoft Products|Products]] and services today often exist beyond a single screen or the edges of a physical product.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=7)** They exist in spaces, in environments, and in journeys over time.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=11)** Journey mapping and low-fidelity prototyping are great ways to make concepts tangible over time and in hand.
+> **[0:11](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=11)** Journey mapping and low-fidelity [[Prototyping]] are great ways to make concepts tangible over time and in hand.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=19)** But when you move beyond the scale of the hand, you need to start prototyping in spaces.
 >
@@ -2478,7 +2439,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=128)** But just as in low-fidelity prototypes, the goal is to keep the prototype a sketch, something raw that can be quickly changed and iterated by the team.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=138)** So use foam core over metal, or a performance over a coated interaction, or even a rapid simulation over a full build-out.
+> **[2:18](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=138)** So use foam core over metal, or a performance over a coated interaction, or even a rapid [[Simulation]] over a full build-out.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-beyond-the-screen?u=76281980&t=147)** Then get people in and encourage them to change things with you.
 >
@@ -2488,7 +2449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (4), teams (2), [[Microsoft Products|Products]] (1), product (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (4), [[Microsoft Products|Products]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (3), go build (1)
 > **Analogies:** for example (1), imagine (1)
 
@@ -2497,8 +2458,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Culture change to make this mindset real
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980)
+#### [Culture change to make this mindset real](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2542,26 +2502,25 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980&t=179)** Finally, don't forget yourself as a part of this change.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980&t=182)** Set a reminder for yourself to check in on how you're finding design thinking working for you and ask a peer to give you feedback along the way.
+> **[3:02](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980&t=182)** Set a reminder for yourself to check in on how you're finding [[Design Thinking]] working for you and ask a peer to give you feedback along the way.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980&t=192)** Remember, it's all learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (2), business (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1)
 > **Best Practices:** remember to (1), don't forget (1)
 > **CLI Commands:** find (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=0)** I hope you enjoyed this course and that you're leaving with an understanding of design thinking and how you can support the growth of this mindset within your teams.
+> **[0:00](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=0)** I hope you enjoyed this course and that you're leaving with an understanding of [[Design Thinking]] and how you can support the growth of this mindset within your teams.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=9)** When you speak to others about what you've learned, the top four things to remember are, first, that design-led organizations are outperforming their competition because of how designers approach problem-solving.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=23)** Second, that this benefit comes from a mindset and an organizational culture, not a single process.
+> **[0:23](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=23)** Second, that this benefit comes from a mindset and an [[Organizational Culture]], not a single process.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=31)** And third, remember that it can take time to develop this culture of design thinking.
 >
@@ -2569,7 +2528,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=42)** So get to know the people who use your product or service as well as you know your own team members.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=49)** And if nothing else, bring design thinking into your every day by asking what if, by welcoming unusual ideas, and by sketching and prototyping to refine those ideas.
+> **[0:49](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=49)** And if nothing else, bring design thinking into your every day by asking what if, by welcoming unusual ideas, and by [[Sketching]] and [[Prototyping]] to refine those ideas.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=63)** To continue to build your practice, explore the tools that help you connect and communicate with people.
 >
@@ -2585,13 +2544,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=107)** And you'll find some helpful worksheets in the exercise files, along with a reading list with books and links to other articles I've found useful and lots of tools.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=119)** If this course was useful to you, please share it with your networks and follow me on LinkedIn for ongoing thoughts and updates.
+> **[1:59](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=119)** If this course was useful to you, please share it with your networks and follow me on [[LinkedIn]] for ongoing thoughts and updates.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/next-steps?u=76281980&t=127)** I hope to see you there and to see you out in the world making great human-centered experiences come to life for your organizations, your communities, and the people you serve.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Thinking]] (4), [[Prototyping]] (2), teams (1), product (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (4), [[Prototyping]] (2), [[Sketching]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)

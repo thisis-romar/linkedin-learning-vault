@@ -59,19 +59,19 @@ created: 2026-05-02
 > 26. [[Outlook on the Web Essential Training]] — 4 mentions
 > 27. [[Effectively Leading Digital Transformation]] — 4 mentions
 > 28. [[Power BI Quick Tips]] — 4 mentions
-> 29. [[Learning Microsoft 365 Copilot for Work (2024)]] — 4 mentions
-> 30. [[Learning PowerPoint Online (Microsoft 365)]] — 3 mentions
-> 31. [[Introduction To Cloud Computing For It Pros]] — 3 mentions
-> 32. [[Azure Understanding The Big Picture]] — 3 mentions
-> 33. [[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]] — 3 mentions
-> 34. [[Microsoft Azure- Identity and Access Management]] — 3 mentions
-> 35. [[Agentic AI- Building Data-First AI Agents]] — 2 mentions
-> 36. [[Microsoft Copilot The Art Of Prompt Writing]] — 2 mentions
-> 37. [[Copilot in PowerPoint- From Prompt to Presentation]] — 2 mentions
-> 38. [[Complete Guide to Power BI for Data Analysts by Microsoft Press]] — 2 mentions
-> 39. [[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]] — 2 mentions
-> 40. [[Azure AI Services Essential Training]] — 2 mentions
-> 41. [[Azure Administration Essential Training]] — 2 mentions
+> 29. [[Azure Understanding The Big Picture]] — 4 mentions
+> 30. [[Learning Microsoft 365 Copilot for Work (2024)]] — 4 mentions
+> 31. [[Learning PowerPoint Online (Microsoft 365)]] — 3 mentions
+> 32. [[Introduction To Cloud Computing For It Pros]] — 3 mentions
+> 33. [[Azure Administration Essential Training]] — 3 mentions
+> 34. [[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]] — 3 mentions
+> 35. [[Microsoft Azure- Identity and Access Management]] — 3 mentions
+> 36. [[Agentic AI- Building Data-First AI Agents]] — 2 mentions
+> 37. [[Microsoft Copilot The Art Of Prompt Writing]] — 2 mentions
+> 38. [[Copilot in PowerPoint- From Prompt to Presentation]] — 2 mentions
+> 39. [[Complete Guide to Power BI for Data Analysts by Microsoft Press]] — 2 mentions
+> 40. [[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]] — 2 mentions
+> 41. [[Azure AI Services Essential Training]] — 2 mentions
 > 42. [[Slack Essential Training]] — 2 mentions
 > 43. [[Cert Prep- Excel Expert - Microsoft Office Specialist for Microsoft 365 Apps]] — 2 mentions
 > 44. [[Automating SQL Server with dbatools]] — 2 mentions
@@ -123,7 +123,7 @@ created: 2026-05-02
 3. [[Digital Transformation in Practice- Virtual Collaboration Tools]] — 123 total mentions
 4. [[Powershell- Automate IT Tasks and Microsoft 365 Administration]] — 82 total mentions
 5. [[Become a Power BI Specialist]] — 57 total mentions
-6. [[The Top Skills IT Professionals Have Right Now]] — 29 total mentions
+6. [[The Top Skills IT Professionals Have Right Now]] — 30 total mentions
 7. [[Explore a Career as a Power BI Specialist]] — 23 total mentions
 8. [[Become a Data Analyst]] — 20 total mentions
 9. [[Become a Business Intelligence Specialist]] — 19 total mentions

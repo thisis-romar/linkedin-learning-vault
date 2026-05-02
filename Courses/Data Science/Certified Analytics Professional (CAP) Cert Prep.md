@@ -126,8 +126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The growing field of analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/the-growing-field-of-analytics?u=76281980)
+#### [The growing field of analytics](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/the-growing-field-of-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,27 +152,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), data (2)
 > **Env Vars:** cap (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jungwoo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980&t=0)** - [Instructor] Let's talk about what you should know before taking this course.
 >
-> **[0:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980&t=4)** My goal is to help you quickly learn essential data analytics concepts and develop an overall understanding of all the seven CAP domains, but background knowledge and data science would be helpful.
+> **[0:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980&t=4)** My goal is to help you quickly learn essential data analytics concepts and develop an overall understanding of all the seven CAP domains, but background knowledge and [[Data Science]] would be helpful.
 >
-> **[0:19](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980&t=19)** Throughout the course, there are case studies using data analytics applications, such as Tableau and Neo4j, but don't worry if you don't have any spare computers to practice your skills on.
+> **[0:19](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980&t=19)** Throughout the course, there are case studies using data analytics applications, such as [[Tableau]] and [[Neo4j]], but don't worry if you don't have any spare computers to practice your skills on.
 >
 > **[0:33](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/what-you-should-know?u=76281980&t=33)** Watching the demos without doing them yourself will still be effective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (2), [[Tableau]] (1), [[Neo4j]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Tableau]] (1), [[Neo4j]] (1)
 > **Env Vars:** cap (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -183,12 +180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980&t=0)** - [Instructor] Data science is a broad term that encompasses everything that allows us to extract knowledge and insights from datasets.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980&t=0)** - [Instructor] [[Data Science]] is a broad term that encompasses everything that allows us to extract knowledge and insights from datasets.
 >
 > **[0:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980&t=10)** What's more, it's getting more popular as I speak.
 >
@@ -224,15 +220,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), career (3), [[Search]] (1), product (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (7)
 > **Env Vars:** cap (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### CAP history
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cap-history?u=76281980)
+#### [CAP history](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cap-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,13 +257,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), data (2), management (1), [[Engineering]] (1), product (1)
 > **Env Vars:** cap (4), informs (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### CAP domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cap-domains?u=76281980)
+#### [CAP domains](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cap-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,26 +311,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (5), [[Analytics]] (2), next (1), management (1)
 > **Env Vars:** cap (2), informs (1), jta (1)
 > **Analogies:** similar to (1), just like (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Related certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980)
+#### [Related certifications](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=1)** - [Jungwoo] CAP is unique because it's vendor neutral.
 >
-> **[0:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=5)** Many of the existing analytics certifications are tied to specific vendors or products.
+> **[0:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=5)** Many of the existing analytics certifications are tied to specific vendors or [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=12)** AWS Certification is a great example of this because it focuses on Amazon Cloud content.
 >
 > **[0:20](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=20)** There are also companies that require their employees to obtain certain certifications and pay for the expenses.
 >
-> **[0:30](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=30)** Therefore, it's sometimes better to hold your certification aspirations on hold until getting a data science industry job.
+> **[0:30](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=30)** Therefore, it's sometimes better to hold your certification aspirations on hold until getting a [[Data Science]] industry job.
 >
 > **[0:39](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/related-certifications?u=76281980&t=39)** The certification markets are getting more crowded as we speak.
 >
@@ -349,18 +340,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (3), [[Microsoft Products|Products]] (1), aws (1), cloud (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cap (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jungwoo] (1)
 
-#### Career paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/career-paths?u=76281980)
+#### [Career paths](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/career-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/career-paths?u=76281980&t=0)** - [Instructor] BI, or business intelligence, is critical in the success of an organization.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/career-paths?u=76281980&t=0)** - [Instructor] BI, or [[Business Intelligence (BI)|business intelligence]], is critical in the success of an organization.
 >
 > **[0:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/career-paths?u=76281980&t=7)** Until recently, the process of obtaining BI was reactive.
 >
@@ -394,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Analytics]] (7), bi (3), [[Business Intelligence (BI)|Business intelligence]] (3), business (3)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (3)
 > **Analogies:** such as (3)
 > **Env Vars:** cap (1)
 > **Speakers:** - [instructor] (1)
@@ -404,8 +394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying business problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980)
+#### [Identifying business problems](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980&t=36)** We call these people stakeholders.
 >
-> **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980&t=40)** Let's look at cybersecurity as an example.
+> **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980&t=40)** Let's look at [[Cybersecurity]] as an example.
 >
 > **[0:44](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980&t=44)** The stakeholders in solving a cybersecurity problem include end users, customers, system administrators, network engineers, and software developers.
 >
@@ -445,13 +434,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (4), [[Analytics]] (4), [[Cybersecurity]] (2), next (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Identifying and analyzing stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-analyzing-stakeholders?u=76281980)
+#### [Identifying and analyzing stakeholders](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-analyzing-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,13 +475,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), data (2), business (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/collecting-requirements?u=76281980)
+#### [Collecting requirements](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/collecting-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,13 +517,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), data (2), business (1), next (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determining the feasibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/determining-the-feasibility?u=76281980)
+#### [Determining the feasibility](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/determining-the-feasibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,12 +561,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), data (4), business (2)
 > **Env Vars:** roi (4)
 > **Speakers:** - [instructor] (1)
 
-#### Refining the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980)
+#### [Refining the problem](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=67)** The result of an analysis may make a certain group of people in an organization look bad, which is an example of political constraint.
 >
-> **[1:18](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=78)** If the analysis outcome could indicate the repeated mistakes of the upper management, the decision makers may cancel the project altogether, regardless of a positive ROI outlook.
+> **[1:18](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=78)** If the analysis outcome could indicate the repeated mistakes of the upper management, the decision makers may cancel the project altogether, regardless of a positive ROI [[Microsoft Outlook|outlook]].
 >
 > **[1:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=92)** Keeping open-minded is still valuable despite these analytical, financial, and political constraints.
 >
@@ -610,21 +592,21 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=108)** The problem to solve may be developing a response model to help with marketing efforts to compensate for the current trend of losing customers.
 >
-> **[2:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=120)** The model quantifies the likelihood of customers actually purchasing products at an online shop based on how they respond to an email campaign.
+> **[2:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=120)** The model quantifies the likelihood of customers actually purchasing [[Microsoft Products|products]] at an online shop based on how they respond to an email campaign.
 >
 > **[2:11](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=131)** During a refinement phase, a stakeholder points out that whether a customer responds positively or negatively, may have nothing to do with the email solicitations.
 >
-> **[2:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=144)** Some customers may never shop online due to cybersecurity concerns, regardless of the marketing efforts.
+> **[2:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=144)** Some customers may never shop online due to [[Cybersecurity]] concerns, regardless of the marketing efforts.
 >
 > **[2:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=152)** Analytics professionals then factor this possibility into the problem statement.
 >
 > **[2:38](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=158)** The newly gained insight could force the team to reframe the problem statement altogether to focus only on potential buyers who are keen on online shopping.
 >
-> **[2:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=171)** As you can see in this example, a refinement process can reveal hidden complexities in a problem and increases the probability of project success by making it as realistic and complete as possible.
+> **[2:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/refining-the-problem?u=76281980&t=171)** As you can see in this example, a refinement process can reveal hidden complexities in a problem and increases the [[Probability]] of project success by making it as realistic and complete as possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), [[Analytics]] (2), management (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1), [[Probability]] (1)
 > **Env Vars:** roi (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -635,8 +617,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transforming business problems to analytics problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980)
+#### [Transforming business problems to analytics problems](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,20 +643,19 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980&t=97)** And to accomplish this goal, we need to know how to measure our success in the form of key success metrics.
 >
-> **[1:46](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980&t=106)** Finally, all the stakeholders need to sign off on the documented business analytics problem complete with input, output, drivers, assumptions, and key metrics of success.
+> **[1:46](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980&t=106)** Finally, all the stakeholders need to sign off on the documented [[Business Analytics]] problem complete with input, output, drivers, assumptions, and key metrics of success.
 >
-> **[2:03](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980&t=123)** Analytics problem framing is critical in the business data analytics process because it decides the direction and scope of the rest of the solution phase.
+> **[2:03](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980&t=123)** Analytics problem framing is critical in the business data analytics process because it decides the direction and scope of the [[Representational State Transfer (REST)|rest]] of the solution phase.
 >
 > **[2:15](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980&t=135)** Let's dive into business problem framing in this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Analytics]] (6), traffic (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reformulating problem statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/reformulating-problem-statements?u=76281980)
+#### [Reformulating problem statements](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/reformulating-problem-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,13 +695,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), business (4), [[Security]] (3), data (2), product (1)
 > **Env Vars:** qfd (2), pin (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining drivers and relationships to outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980)
+#### [Defining drivers and relationships to outputs](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,11 +709,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=16)** Examples of business outputs include production volumes, annual revenue, and sales figures.
 >
-> **[0:25](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=25)** Let's say that we're interested in reducing the number of defective products in our production line.
+> **[0:25](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=25)** Let's say that we're interested in reducing the number of defective [[Microsoft Products|products]] in our production line.
 >
 > **[0:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=32)** In this example, the output is the number of products with defects.
 >
-> **[0:38](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=38)** The possible inputs to this output of our interest include quality assurance or QA team size, the time spent on QA efforts, the types of QA activities, and changes in the production line.
+> **[0:38](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=38)** The possible inputs to this output of our interest include [[Quality Assurance]] or QA team size, the time spent on QA efforts, the types of QA activities, and changes in the production line.
 >
 > **[0:54](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-drivers-and-relationships-to-outputs?u=76281980&t=54)** Please note that we're not trying to establish a cause and effect relationship at this stage.
 >
@@ -761,12 +739,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (3), [[Quality Assurance]] (1), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Quality Assurance]] (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stating assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/stating-assumptions?u=76281980)
+#### [Stating assumptions](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/stating-assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,14 +783,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Analytics]] (3), product (1), [[Engineering]] (1), data (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Defining success metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-success-metrics?u=76281980)
+#### [Defining success metrics](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/defining-success-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,15 +828,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), business (3), [[Analytics]] (1)
 > **Env Vars:** kpi (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Obtaining stakeholder agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/obtaining-stakeholder-agreement?u=76281980)
+#### [Obtaining stakeholder agreement](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/obtaining-stakeholder-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (9), data (4), business (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -909,8 +881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working effectively with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980)
+#### [Working effectively with data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -934,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980&t=58)** Rescaling data is another important task when having to compare multiple datasets in different units, like, for example, Fahrenheit and Celsius.
 >
-> **[1:11](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980&t=71)** After cleaning, harmonizing and rescaling a dataset you may want to reformat it into something that's more universally shareable, such as a java script object notation, or JSON file.
+> **[1:11](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980&t=71)** After cleaning, harmonizing and rescaling a dataset you may want to reformat it into something that's more universally shareable, such as a [[Java]] script object notation, or [[JSON]] file.
 >
 > **[1:28](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980&t=88)** To store data in a traditional relational database, identifying relationships is also a must.
 >
@@ -952,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (3), [[Analytics]] (2), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[JSON]] (1)
 > **Env Vars:** cap (1), json (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -960,8 +931,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying and prioritizing data needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980)
+#### [Identifying and prioritizing data needs](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +957,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=74)** Soft data tends to be qualitative and subjective, although it can also be obtained through observations.
 >
-> **[1:23](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=83)** We collect soft data through interviews, as in framing business analytics problems.
+> **[1:23](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=83)** We collect soft data through interviews, as in framing [[Business Analytics]] problems.
 >
 > **[1:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=91)** What we need for data analysis is hard data, but we often end up with soft data.
 >
@@ -1001,7 +971,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=139)** On the other hand, videos and website texts are unstructured because we cannot establish a table structure out of them.
 >
-> **[2:28](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=148)** Data analytics cannot handle unstructured data.
+> **[2:28](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=148)** Data analytics cannot handle [[Unstructured Data]].
 >
 > **[2:33](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-and-prioritizing-data-needs?u=76281980&t=153)** Therefore, it's necessary to convert the unstructured data into its structured version.
 >
@@ -1017,20 +987,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Analytics]] (5), business (3), next (2), [[Unstructured Data]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Business Analytics]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Acquiring data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980)
+#### [Acquiring data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=0)** - [Instructor] After identifying and prioritizing data needs and resources, we can move on to actually collecting the data we need.
 >
-> **[0:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=10)** During this phase, our focus should be finding out which type of data acquisition will be most effective for solving our analytics problem.
+> **[0:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=10)** During this phase, our focus should be finding out which type of [[Data Acquisition]] will be most effective for solving our analytics problem.
 >
 > **[0:20](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=20)** We can use a decision tree to reach our conclusion on the choice of the data acquisition method.
 >
@@ -1054,7 +1023,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=93)** To make the decision tree more useful, we need to combine the values or utilities of choices with probabilities.
 >
-> **[1:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=103)** Let's say that P is the probability of getting a significant increase in revenue if you try innovative approaches.
+> **[1:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=103)** Let's say that P is the [[Probability]] of getting a significant increase in revenue if you try innovative approaches.
 >
 > **[1:52](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/acquiring-data?u=76281980&t=112)** Capital U is the utility of making innovations happen with an excellent revenue outcome.
 >
@@ -1072,13 +1041,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), data (3), [[Data Acquisition]] (2), business (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Data Acquisition]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning, transforming, and validating data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cleaning-transforming-and-validating-data?u=76281980)
+#### [Cleaning, transforming, and validating data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cleaning-transforming-and-validating-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cleaning-transforming-and-validating-data?u=76281980&t=33)** Survey takers can provide whatever responses they want despite the desires of its creators.
 >
-> **[0:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cleaning-transforming-and-validating-data?u=76281980&t=41)** There are a couple of important concepts to understand in data cleaning, transformation, and validation.
+> **[0:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cleaning-transforming-and-validating-data?u=76281980&t=41)** There are a couple of important concepts to understand in [[Data Cleaning]], transformation, and validation.
 >
 > **[0:49](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/cleaning-transforming-and-validating-data?u=76281980&t=49)** Technically correct data is the first one.
 >
@@ -1124,13 +1092,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (4)
 > **Definitions:** means that (1), is an  (1), is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying relationships in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-relationships-in-data?u=76281980)
+#### [Identifying relationships in data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-relationships-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1158,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-relationships-in-data?u=76281980&t=95)** Aggregation refers to ways to summarize your data.
 >
-> **[1:39](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-relationships-in-data?u=76281980&t=99)** This could be as simple as producing summary statistics like mean, median, standard deviation, and so on.
+> **[1:39](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-relationships-in-data?u=76281980&t=99)** This could be as simple as producing summary [[Statistics]] like mean, median, standard deviation, and so on.
 >
 > **[1:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-relationships-in-data?u=76281980&t=111)** Plotting data in graphs is another aggregation method.
 >
@@ -1178,14 +1145,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), feature (2), [[Statistics]] (2), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Documenting and reporting findings
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-and-reporting-findings?u=76281980)
+#### [Documenting and reporting findings](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-and-reporting-findings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,7 +1173,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-and-reporting-findings?u=76281980&t=53)** An executive summary is a must in this scenario.
 >
-> **[0:58](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-and-reporting-findings?u=76281980&t=58)** Tech advantage of visualization include charts and infographics in strategic locations of your document.
+> **[0:58](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-and-reporting-findings?u=76281980&t=58)** Tech advantage of visualization include charts and [[Infographics]] in strategic locations of your document.
 >
 > **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-and-reporting-findings?u=76281980&t=67)** Business leaders are always interested in knowing the bottom line and you should deliver this information.
 >
@@ -1225,13 +1191,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), business (5), data (1), management (1), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Infographics]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
 
-#### Redefining problem statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/redefining-problem-statements?u=76281980)
+#### [Redefining problem statements](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/redefining-problem-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1222,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (5), data (2), business (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1267,8 +1231,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying available problem-solving methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-available-problem-solving-methodologies?u=76281980)
+#### [Identifying available problem-solving methodologies](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-available-problem-solving-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,12 +1269,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (3), business (2), next (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating and selecting descriptive analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980)
+#### [Evaluating and selecting descriptive analysis](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,24 +1290,23 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=36)** More specifically, it visualizes the trend of the number of transistors that can fit in a circuit over the years.
 >
-> **[0:47](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=47)** Descriptive statistics such as mean, median, and center deviation is a form of the numerical representation in the descriptive category of data analytics approaches.
+> **[0:47](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=47)** Descriptive [[Statistics]] such as mean, median, and center deviation is a form of the numerical representation in the descriptive category of data analytics approaches.
 >
 > **[1:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=60)** Tools such as R have a built-in function to produce descriptive statistics of a data set.
 >
 > **[1:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=68)** Later in this chapter we'll try this in our hands-on exercise.
 >
-> **[1:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=74)** Now that we've covered descriptive analytics let's talk about prescriptive and predictive analytics next.
+> **[1:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-descriptive-analysis?u=76281980&t=74)** Now that we've covered descriptive analytics let's talk about prescriptive and [[Predictive Analytics]] next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (2), [[Analytics]] (2), [[Predictive Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating and selecting predictive analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980)
+#### [Evaluating and selecting predictive analysis](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,19 +1316,19 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=15)** Statistical modeling is what makes this possible.
 >
-> **[0:19](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=19)** Therefore, knowledge in statistics is essential for effectively using predictive analytics methodologies and tools.
+> **[0:19](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=19)** Therefore, knowledge in [[Statistics]] is essential for effectively using [[Predictive Analytics]] methodologies and tools.
 >
 > **[0:29](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=29)** In the previous chapter, we touched on some of the predictive methodologies such as regression and clustering.
 >
 > **[0:37](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=37)** We talked about them in the context of identifying relationships in a data set.
 >
-> **[0:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=43)** The predictive methods we didn't cover at that time, are classification, statistical inference, and simulation.
+> **[0:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=43)** The predictive methods we didn't cover at that time, are classification, statistical inference, and [[Simulation]].
 >
 > **[0:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=53)** Though similar, classification is different from clustering.
 >
 > **[0:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=57)** Classification starts with predefined class labels, while clustering doesn't.
 >
-> **[1:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=64)** Because of the initial labeling process, classification is also called supervised learning.
+> **[1:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=64)** Because of the initial labeling process, classification is also called [[Supervised Learning]].
 >
 > **[1:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-predictive-analysis?u=76281980&t=72)** On the other hand, clustering is referred to as unsupervised learning.
 >
@@ -1386,15 +1346,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), data (2), [[Statistics]] (2), [[Simulation]] (2), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Simulation]] (2), [[Predictive Analytics]] (1), [[Supervised Learning]] (1)
 > **Cross-References:** previous chapter (1), we talked about (1), we discussed (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating and selecting prescriptive analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980)
+#### [Evaluating and selecting prescriptive analysis](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,15 +1373,15 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=51)** Another branch of the discipline of optimization is stochastic.
 >
-> **[0:56](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=56)** Here the word stochastic means random.
+> **[0:56](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=56)** Here the [[Microsoft Word|word]] stochastic means random.
 >
 > **[1:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=60)** Therefore, stochastic optimization relies on a random process and probabilities to estimate the best case scenario.
 >
-> **[1:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=70)** You can also use simulation as a prescriptive method.
+> **[1:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=70)** You can also use [[Simulation]] as a prescriptive method.
 >
 > **[1:15](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=75)** Queueing theory is one of the most well known applications of simulation in solving an optimization problem.
 >
-> **[1:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=84)** They use the Queuing theory to optimize network traffic flow in telecommunications.
+> **[1:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=84)** They use the Queuing theory to optimize network traffic flow in [[Telecommunications]].
 >
 > **[1:30](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=90)** Agent-based modeling, or ABM, is another simulation method.
 >
@@ -1430,17 +1389,16 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=102)** Each agent is programmed to follow a certain set of rules that reflect the behaviors of their real life counterparts.
 >
-> **[1:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=111)** Prescriptive methods are an excellent way to try out different business approaches without risking any disruptions in business operations.
+> **[1:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-and-selecting-prescriptive-analysis?u=76281980&t=111)** Prescriptive methods are an excellent way to try out different business approaches without risking any disruptions in [[Business Operations]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), business (2), [[Microsoft Word|Word]] (1), traffic (1), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Word|Word]] (1), [[Telecommunications]] (1), [[Business Operations]] (1)
 > **Env Vars:** abm (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting software tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980)
+#### [Selecting software tools](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,27 +1406,27 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=5)** It's now time to examine software tools that support these methodologies.
 >
-> **[0:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=12)** The features of our interest are statistics, data management, optimization, simulation, and visualization.
+> **[0:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=12)** The features of our interest are [[Statistics]], [[Data Management]], optimization, [[Simulation]], and visualization.
 >
-> **[0:23](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=23)** Among the software applications available in this area are household names like Microsoft Excel and Access.
+> **[0:23](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=23)** Among the software applications available in this area are household names like [[Microsoft Excel]] and Access.
 >
 > **[0:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=32)** You'll be surprised to know how much you can accomplish with everyday information technology tools like these.
 >
-> **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=40)** Both Excel and Access offer an acceptable set of features in statistics and data management.
+> **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=40)** Both [[Microsoft Excel|Excel]] and Access offer an acceptable set of features in statistics and data management.
 >
 > **[0:49](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=49)** Excel does a decent job in visualization but Access doesn't.
 >
 > **[0:55](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=55)** There are tools much better suited for simulation and optimization such as MATLAB.
 >
-> **[1:03](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=63)** MySQL is another famous tool, but its strength many lies in database management.
+> **[1:03](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=63)** [[MySQL]] is another famous tool, but its strength many lies in [[Database Management]].
 >
-> **[1:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=70)** Due to the rapid growth of big data industries, solutions specializing in handling unstructured big data sets are also coming out.
+> **[1:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=70)** Due to the rapid growth of [[Big Data]] industries, solutions specializing in handling unstructured big data sets are also coming out.
 >
 > **[1:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=81)** SPSS and SAS are statistical packages and still very popular among data scientists and statistics professionals.
 >
 > **[1:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=91)** There are also programming languages with powerful analytics libraries.
 >
-> **[1:38](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=98)** Python is one such language, though it can be used to develop any kind of software applications.
+> **[1:38](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=98)** [[Python (Programming Language)|Python]] is one such language, though it can be used to develop any kind of software applications.
 >
 > **[1:46](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-software-tools?u=76281980&t=106)** You don't have to master all these tools, but it's important to develop expertise in the ones you will be using heavily at work.
 >
@@ -1476,24 +1434,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (3), management (3), [[Analytics]] (2), [[Simulation]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data Management]] (2), [[Simulation]] (2), [[Microsoft Excel|Excel]] (2), [[Big Data]] (2)
 > **Env Vars:** matlab (1), spss (1), sas (1)
 > **CLI Commands:** mysql (1), python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using R to analyze data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980)
+#### [Using R to analyze data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=0)** - [Instructor] R is a programming language for statistical analysis.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=0)** - [Instructor] R is a programming language for [[Statistical Analysis]].
 >
 > **[0:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=5)** It's a highly successful open-source project with numerous active contributors.
 >
 > **[0:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=12)** Let's give R a try using MacOS.
 >
-> **[0:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=17)** The process should be similar on Windows.
+> **[0:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=17)** The process should be similar on [[Windows]].
 >
 > **[0:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=21)** You can download R by visiting this website.
 >
@@ -1507,13 +1464,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=67)** Installing a new package is also possible, and there are tons of R packages available, as you can see at this website.
 >
-> **[1:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=77)** In this chapter, I mentioned Moore's law during our discussion of descriptive statistics.
+> **[1:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=77)** In this chapter, I mentioned Moore's law during our discussion of descriptive [[Statistics]].
 >
 > **[1:25](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=85)** I downloaded the comma-separated values or CSV file containing the data for Moore's law from this website.
 >
 > **[1:35](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=95)** You can find it in the exercise files, it's called moore.csv.
 >
-> **[1:42](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=102)** I had to do a little bit of data cleaning of my own because the data values weren't actually separated by commas but semicolons.
+> **[1:42](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=102)** I had to do a little bit of [[Data Cleaning]] of my own because the data values weren't actually separated by commas but semicolons.
 >
 > **[1:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-r-to-analyze-data?u=76281980&t=113)** All the semicolons in the file were replaced by commas.
 >
@@ -1539,7 +1496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (3), [[Statistics]] (2), [[Programming]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Statistical Analysis]] (1), [[Windows]] (1), [[Data Cleaning]] (1)
 > **File Paths:** moore.csv (2), read.csv (1)
 > **Code Identifiers:** my_data (3)
 > **Exercise Files:** exercise files (2), download the (1)
@@ -1548,12 +1505,11 @@ created: 2026-05-02
 > **Env Vars:** csv (1)
 > **Tools:** command prompt (1)
 
-#### Using Tableau to visualize data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-data?u=76281980)
+#### [Using Tableau to visualize data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-data?u=76281980&t=0)** - [Narrator] Tableau is a powerful visualization tool.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-data?u=76281980&t=0)** - [Narrator] [[Tableau]] is a powerful visualization tool.
 >
 > **[0:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-data?u=76281980&t=4)** You can download the software for free from this website.
 >
@@ -1591,7 +1547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), power (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4)
 > **UI Navigation:** click on (5), go to (1)
 > **Env Vars:** ufo (4)
 > **Exercise Files:** download the (3), exercise files (1)
@@ -1603,8 +1559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bike rental analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980)
+#### [Bike rental analysis](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,21 +1581,20 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980&t=98)** The dataset is available in comma-separated value or CSV format.
 >
-> **[1:44](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980&t=104)** Let's look at the content of the CSV file in Microsoft Excel.
+> **[1:44](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980&t=104)** Let's look at the content of the CSV file in [[Microsoft Excel]].
 >
 > **[1:49](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980&t=109)** It has 731 records and the fields I talked about earlier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
 > **Code Identifiers:** weather_sit (1), day_of_week (1), is_holiday (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** csv (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [jungwoo] (1)
 
-#### Framing a problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/framing-a-problem?u=76281980)
+#### [Framing a problem](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/framing-a-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,7 +1612,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/framing-a-problem?u=76281980&t=40)** All of the stakeholders are eager to help and excited to get new insights.
 >
-> **[0:46](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/framing-a-problem?u=76281980&t=46)** However, one potential constraint you immediately realize is a difficulty in communicating and sharing information between the customers and the rest of the stakeholders.
+> **[0:46](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/framing-a-problem?u=76281980&t=46)** However, one potential constraint you immediately realize is a difficulty in communicating and sharing information between the customers and the [[Representational State Transfer (REST)|rest]] of the stakeholders.
 >
 > **[0:58](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/framing-a-problem?u=76281980&t=58)** A strategy you develop is to interview customers in separate meetings when confidentiality becomes an issue.
 >
@@ -1676,13 +1630,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Analytics]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using RStudio for predictive analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980)
+#### [Using RStudio for predictive analysis](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1690,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=6)** It's a version created after cleaning the original data set posted on this Capital Bikeshare website.
 >
-> **[0:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=14)** Let's import our Bikeshare data into our RStudio environment first and then we can look at the descriptive statistics.
+> **[0:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=14)** Let's import our Bikeshare data into our [[RStudio]] environment first and then we can look at the descriptive [[Statistics]].
 >
 > **[0:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=24)** Notice this is RStudio, a free download and not just R.
 >
@@ -1708,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=72)** Finally, ensure that the .csv file exists in the R Workspace directory.
 >
-> **[1:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=81)** If it doesn't, drag it into that directory in your Finder, or Windows File Explorer.
+> **[1:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=81)** If it doesn't, drag it into that directory in your Finder, or [[Windows]] File Explorer.
 >
 > **[1:29](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-rstudio-for-predictive-analysis?u=76281980&t=89)** We are now all set to import our data file.
 >
@@ -1746,7 +1699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[RStudio]] (3), [[Statistics]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (3), [[Statistics]] (2), [[Windows]] (1)
 > **File Paths:** read.csv (1), bike_rental.csv (1)
 > **Env Vars:** true (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -1755,12 +1708,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Tableau to visualize statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980)
+#### [Using Tableau to visualize statistics](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=0)** - [Narrator] As I already mentioned, Tableau is a powerful visualization tool.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=0)** - [Narrator] As I already mentioned, [[Tableau]] is a powerful visualization tool.
 >
 > **[0:06](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=6)** We also talked about the importance of including intuitive visuals in your documentation throughout a project.
 >
@@ -1774,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=42)** Click on Open.
 >
-> **[0:44](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=44)** Let's change the sheet name to Capital Bike Rental Statistics.
+> **[0:44](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=44)** Let's change the sheet name to Capital Bike Rental [[Statistics]].
 >
 > **[0:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-visualize-statistics?u=76281980&t=53)** Switch your connection option to Extract, because our data is not going to be updated periodically.
 >
@@ -1802,21 +1754,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), data (6), [[Statistics]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Statistics]] (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** csv (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Tableau to making predictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980)
+#### [Using Tableau to making predictions](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=0)** - [Lecturer] The highlight of our case study is the demonstration of predictive analysis.
 >
-> **[0:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=5)** Let's continue to use Tableau for this purpose.
+> **[0:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=5)** Let's continue to use [[Tableau]] for this purpose.
 >
 > **[0:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=10)** What we're trying to predict, also called dependent variable, is the total number of bike rentals.
 >
@@ -1842,7 +1793,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=107)** Switch the option from year to day like this.
 >
-> **[1:56](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=116)** Next, let's apply linear regression to these results.
+> **[1:56](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=116)** Next, let's apply [[Linear Regression]] to these results.
 >
 > **[2:02](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/using-tableau-to-making-predictions?u=76281980&t=122)** Click on the Analytics tab.
 >
@@ -1878,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), data (2), [[Linear Regression]] (2), next (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Linear Regression]] (2)
 > **UI Navigation:** click on (3), open the (1)
 > **File Paths:** bike_rental.csv (1)
 > **Code Identifiers:** bike_rental (1)
@@ -1892,8 +1843,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding model building
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980)
+#### [Understanding model building](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,18 +1863,17 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980&t=56)** A predictive model is relevant to this scenario because our goal is to tell whether a purchase is legitimate or not based on the understanding of a customer's expected behavior.
 >
-> **[1:09](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980&t=69)** In this case, the analytics model literally predicts the probability of a sale to be fraudulent.
+> **[1:09](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980&t=69)** In this case, the analytics model literally predicts the [[Probability]] of a sale to be fraudulent.
 >
 > **[1:18](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980&t=78)** Other models using prescriptive or descriptive approaches have their own relevance in scenarios like optimizing the efficiency of a product line or trying to gain more insights on a customer base.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), data (2), business (1), [[Probability]] (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Env Vars:** cap (1)
 > **Speakers:** - [narrator] (1)
 
-#### Identifying model structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980)
+#### [Identifying model structures](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1881,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=7)** Especially in its structure.
 >
-> **[0:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=10)** These details include a particular probability distribution or algorithm to use.
+> **[0:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=10)** These details include a particular [[Probability]] distribution or algorithm to use.
 >
 > **[0:18](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=18)** Is normal distribution better than binomial?
 >
@@ -1940,7 +1889,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=26)** Take our earlier example on fraud detection.
 >
-> **[0:30](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=30)** Predictive modeling is where we started, but there are multiple options such as classification and clustering.
+> **[0:30](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=30)** [[Predictive Modeling]] is where we started, but there are multiple options such as classification and clustering.
 >
 > **[0:39](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=39)** Let's say that you pick clustering.
 >
@@ -1948,7 +1897,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=46)** Is it going to be a decision tree or random forest?
 >
-> **[0:50](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=50)** What about neural networks?
+> **[0:50](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=50)** What about [[Neural Networks]]?
 >
 > **[0:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-model-structures?u=76281980&t=53)** Or support vector machines?
 >
@@ -1960,8 +1909,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build and verify the models
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/build-and-verify-the-models?u=76281980)
+#### [Build and verify the models](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/build-and-verify-the-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1931,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/build-and-verify-the-models?u=76281980&t=57)** The more we know about their expectations and our model's compliance, the better.
 >
-> **[1:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/build-and-verify-the-models?u=76281980&t=64)** The analyst should verify data quality.
+> **[1:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/build-and-verify-the-models?u=76281980&t=64)** The analyst should verify [[Data Quality]].
 >
 > **[1:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/build-and-verify-the-models?u=76281980&t=68)** They must check any gaps in the data and address them.
 >
@@ -1993,11 +1941,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Running and evaluating models
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980)
+#### [Running and evaluating models](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2015,7 +1962,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=56)** More academic way of saying the same thing is classification with a binary target, which sounds impressive, but may not mean anything to lay people.
 >
-> **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=67)** Decision trees, logistic regression, and neural networks can all accomplish this task.
+> **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=67)** [[Decision Trees]], [[Logistic Regression]], and [[Neural Networks]] can all accomplish this task.
 >
 > **[1:16](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=76)** You just need to try them out and select the best technique that produces the highest accuracy.
 >
@@ -2025,23 +1972,22 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=103)** False positive is another name for detecting something when it's not what you're looking for.
 >
-> **[1:50](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=110)** Testing out different models also means that you need to prepare your data differently because each model responds better or worse to different data structures and types.
+> **[1:50](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=110)** Testing out different models also means that you need to prepare your data differently because each model responds better or worse to different [[Data Structures]] and types.
 >
 > **[2:03](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=123)** The complex nature of running, and evaluating models requires a group effort well beyond what a single analytics professional is capable of.
 >
-> **[2:13](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=133)** A subject matter expert must work closely with a data science specialist to provide appropriate data sets, and to also help evaluate the accuracy of outcomes.
+> **[2:13](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=133)** A subject matter expert must work closely with a [[Data Science]] specialist to provide appropriate data sets, and to also help evaluate the accuracy of outcomes.
 >
 > **[2:26](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/running-and-evaluating-models?u=76281980&t=146)** For example, the data person doesn't know what relevant features are available or what are the evaluation criteria for deciding performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (2), [[Decision Trees]] (1), [[Logistic Regression]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Logistic Regression]] (1), [[Neural Networks]] (1), [[Data Structures]] (1), [[Data Science]] (1)
 > **Analogies:** just like (1), for example (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calibrating models and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/calibrating-models-and-data?u=76281980)
+#### [Calibrating models and data](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/calibrating-models-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2073,7 +2019,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/calibrating-models-and-data?u=76281980&t=87)** The choice of a model development methodology can help here.
 >
-> **[1:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/calibrating-models-and-data?u=76281980&t=92)** Agile is popular these days and it promotes incremental design and implementation.
+> **[1:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/calibrating-models-and-data?u=76281980&t=92)** [[Agile Development|Agile]] is popular these days and it promotes incremental design and implementation.
 >
 > **[1:39](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/calibrating-models-and-data?u=76281980&t=99)** When you design a little and implement it immediately to get instant user feedback, the burden of expectation management is much, much lower.
 >
@@ -2083,13 +2029,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), [[Agile Development|Agile]] (1), management (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating the models
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980)
+#### [Integrating the models](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,9 +2046,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=22)** Application programming interface, or API, is usually a mechanism through which your model interacts with other systems in a production environment.
 >
-> **[0:35](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=35)** Let's say that your model needs to send an output to a MySQL database.
+> **[0:35](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=35)** Let's say that your model needs to send an output to a [[MySQL]] database.
 >
-> **[0:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=41)** If you built the model using Python, connecting to the database requires invoking the MySQL API, like this.
+> **[0:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=41)** If you built the model using [[Python (Programming Language)|Python]], connecting to the database requires invoking the MySQL API, like this.
 >
 > **[0:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=51)** First, import a MySQL connector module by issuing the command import mysql.connector.
 >
@@ -2113,7 +2058,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=88)** Of course, you must provide information like username, password, database host IP, and the name of the database you are attempting to use.
 >
-> **[1:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=101)** After establishing this connection, you have access to the rest of the MySQL API to manipulate the database of your choice.
+> **[1:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=101)** After establishing this connection, you have access to the [[Representational State Transfer (REST)|rest]] of the MySQL API to manipulate the database of your choice.
 >
 > **[1:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/integrating-the-models?u=76281980&t=111)** For example, to query the database, call the cursor method on the context object cnx like this.
 >
@@ -2127,15 +2072,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[MySQL]] (7), api (6), [[Python (Programming Language)|Python]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (7), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (7), python (2)
 > **Env Vars:** api (6)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting findings: ROC
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-findings-roc?u=76281980)
+#### [Documenting findings: ROC](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/documenting-findings-roc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2175,15 +2119,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1)
 > **Env Vars:** roc (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Communicating findings
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/communicating-findings?u=76281980)
+#### [Communicating findings](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/communicating-findings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2235,8 +2177,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment?u=76281980)
+#### [Understanding deployment](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2260,11 +2201,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), business (2), [[Troubleshooting]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Performing business validation of the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/performing-business-validation-of-the-model?u=76281980)
+#### [Performing business validation of the model](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/performing-business-validation-of-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2292,13 +2231,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), business (1), data (1), management (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [presenter] (1)
 
-#### Developing a deployment plan and delivering it
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980)
+#### [Developing a deployment plan and delivering it](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,7 +2251,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=27)** If your existing system doesn't work well with what you are delivering, the deployment team needs to be alerted.
 >
-> **[0:36](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=36)** Change management, also called configuration management or CM, is important in this context because it's a mechanism to keep track of the history of deployment details.
+> **[0:36](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=36)** Change management, also called [[Configuration Management]] or CM, is important in this context because it's a mechanism to keep track of the history of deployment details.
 >
 > **[0:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=51)** If you don't know what was installed or updated on the same system where your model is to be implemented it's almost impossible to tell whether the system will be operational as a whole.
 >
@@ -2334,7 +2271,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=100)** What about the programming environment?
 >
-> **[1:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=103)** Your model may rely on specific application programming interfaces, or APIs, to work adequately.
+> **[1:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=103)** Your model may rely on specific [[Application Programming Interfaces (API)|application programming interfaces]], or APIs, to work adequately.
 >
 > **[1:52](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=112)** Let's say that your system uses a machine learning library which is only accessible through an API to another system such as Weka.
 >
@@ -2342,9 +2279,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=129)** Your team will have to create one if necessary.
 >
-> **[2:13](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=133)** The last item to include is seamless integration with the rest of the IT systems of your organization.
+> **[2:13](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=133)** The last item to include is seamless integration with the [[Representational State Transfer (REST)|rest]] of the IT systems of your organization.
 >
-> **[2:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=141)** Is your system going to be part of a business intelligence or BI dashboard?
+> **[2:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=141)** Is your system going to be part of a [[Business Intelligence (BI)|business intelligence]] or BI dashboard?
 >
 > **[2:25](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/developing-a-deployment-plan-and-delivering-it?u=76281980&t=145)** How would it push data to it?
 >
@@ -2356,15 +2293,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (1), [[Configuration Management]] (1), next (1), database (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating model requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980)
+#### [Creating model requirements](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2374,13 +2310,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=14)** These days, one of the most common is a cloud service provider because many organizations outsource their IT.
 >
-> **[0:22](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=22)** Does your model require an Amazon Elastic Compute Cloud or EC2?
+> **[0:22](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=22)** Does your model require an Amazon Elastic Compute Cloud or [[Amazon EC2|EC2]]?
 >
 > **[0:29](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=29)** If so, what type of service?
 >
-> **[0:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=31)** Is it platform as a service or PaaS or software as a service, or SaaS.
+> **[0:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=31)** Is it [[PaaS|platform as a service]] or [[PaaS]] or [[SaaS|software as a service]], or [[SaaS]].
 >
-> **[0:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=41)** The requirement could also be less extensive like access to a database or an interpreter for a scripting language such as Python.
+> **[0:41](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=41)** The requirement could also be less extensive like access to a database or an interpreter for a scripting language such as [[Python (Programming Language)|Python]].
 >
 > **[0:52](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/creating-model-requirements?u=76281980&t=52)** The nature of data your model requires is also important.
 >
@@ -2414,15 +2350,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), cloud (2), [[Amazon EC2|Ec2]] (1), [[PaaS|Platform as a service]] (1), [[PaaS]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[PaaS|Platform as a service]] (1), [[PaaS]] (1), [[SaaS|Software as a service]] (1), [[SaaS]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Env Vars:** ec2 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delivering, monitoring, and sustaining the production model or system
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/delivering-monitoring-and-sustaining-the-production-model-or-system?u=76281980)
+#### [Delivering, monitoring, and sustaining the production model or system](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/delivering-monitoring-and-sustaining-the-production-model-or-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,13 +2399,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), business (1), [[Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding deployment approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980)
+#### [Understanding deployment approaches](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2492,11 +2425,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=69)** These models include suppliers, inputs, process, outputs, and customers, or SIPOC; define, measure, analyze, improve, and control, or DMAIC;
 >
-> **[1:29](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=89)** and cross-industry standard process for data mining, or CRISP-DM.
+> **[1:29](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=89)** and cross-industry standard process for [[Data Mining]], or [[CRISP-DM]].
 >
 > **[1:36](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=96)** Let's take a closer look at each of these models.
 >
-> **[1:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=100)** Process improvement approaches, such as Six Sigma and Kaizen, adopt SIPOC as a mechanism to identify their inputs and outputs, as well as stakeholders.
+> **[1:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=100)** Process improvement approaches, such as [[Six Sigma]] and Kaizen, adopt SIPOC as a mechanism to identify their inputs and outputs, as well as stakeholders.
 >
 > **[1:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment-approaches?u=76281980&t=113)** Take a hotel reservation process.
 >
@@ -2518,7 +2451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Analytics]] (4), data (2), next (2), [[CRISP-DM]] (2)
+> **Frameworks & Libraries:** [[CRISP-DM]] (2), [[Data Mining]] (1), [[Six Sigma]] (1)
 > **Env Vars:** sipoc (2), dmaic (2), crisp (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -2526,14 +2459,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding DMAIC and CRISP-DM
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980)
+#### [Understanding DMAIC and CRISP-DM](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=0)** - [Instructor] DMAIC stands for define, measure, analyze, improve, and control.
 >
-> **[0:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=8)** DMAIC is an essential part of Six Sigma, which is a well known process improvement methodology.
+> **[0:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=8)** DMAIC is an essential part of [[Six Sigma]], which is a well known process improvement methodology.
 >
 > **[0:15](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=15)** DMAIC is a data-driven approach designed to enhance a business process and has five distinct phases in its cycle.
 >
@@ -2559,7 +2491,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=102)** You can apply it to any process improvement effort.
 >
-> **[1:45](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=105)** CRISP-DM stands for Cross-Industry Standard Process for Data Mining.
+> **[1:45](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=105)** [[CRISP-DM]] stands for Cross-Industry Standard Process for [[Data Mining]].
 >
 > **[1:52](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-dmaic-and-crisp-dm?u=76281980&t=112)** It's a process model developed by European Union, or EU, for data mining professionals.
 >
@@ -2571,13 +2503,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (3), [[Six Sigma]] (2), [[CRISP-DM]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Data Mining]] (4), [[Six Sigma]] (2), [[CRISP-DM]] (2)
 > **Env Vars:** dmaic (6), crisp (2), ibm (1), cap (1)
 > **Definitions:** stands for (2), is a  (2), is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project management approaches to deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980)
+#### [Project management approaches to deployment](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2611,9 +2542,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980&t=112)** CPM revolves around project activities and are more geared toward project team members, while PERT provides a project event view more germane to customer interests.
 >
-> **[2:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980&t=127)** Both CPM and PERT offer an estimated time for project completion with a probability, that is, you may get an answer like, your project will be over in six months with the probability of 75%.
+> **[2:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980&t=127)** Both CPM and PERT offer an estimated time for project completion with a [[Probability]], that is, you may get an answer like, your project will be over in six months with the probability of 75%.
 >
-> **[2:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980&t=144)** Popular project management tools such as Microsoft Project support both CPM and PERT.
+> **[2:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980&t=144)** Popular project management tools such as [[Microsoft]] Project support both CPM and PERT.
 >
 > **[2:33](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/project-management-approaches-to-deployment?u=76281980&t=153)** Knowing the relevance of CPM and PERT to project management, and deployment in particular, is important.
 >
@@ -2621,7 +2552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Analytics]] (3), [[Probability]] (2), data (1), teams (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Microsoft]] (1)
 > **Env Vars:** cpm (9), pert (8), cap (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -2632,8 +2563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding model lifecycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-lifecycle-management?u=76281980)
+#### [Understanding model lifecycle management](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2681,14 +2611,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), data (3), business (1)
 > **Analogies:** such as (2), just like (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tracking model quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/tracking-model-quality?u=76281980)
+#### [Tracking model quality](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/tracking-model-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2730,13 +2658,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2)
 > **CLI Commands:** make (2)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recalibrating the model through validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/recalibrating-the-model-through-validation?u=76281980)
+#### [Recalibrating the model through validation](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/recalibrating-the-model-through-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2744,7 +2670,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/recalibrating-the-model-through-validation?u=76281980&t=9)** Validation is a crucial part of recalibration because it allows us to measure performance improvements after adjusting a model for better outcomes.
 >
-> **[0:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/recalibrating-the-model-through-validation?u=76281980&t=21)** In predictive analytics, we divide data into training and test sets.
+> **[0:21](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/recalibrating-the-model-through-validation?u=76281980&t=21)** In [[Predictive Analytics]], we divide data into training and test sets.
 >
 > **[0:27](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/recalibrating-the-model-through-validation?u=76281980&t=27)** As its name suggests, the training data set is for training a machine learning or ML algorithm.
 >
@@ -2782,13 +2708,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Analytics]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **Definitions:** is a  (6), we call this (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/maintaining-the-model?u=76281980)
+#### [Maintaining the model](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/maintaining-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2806,7 +2731,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/maintaining-the-model?u=76281980&t=49)** There is always a chance that end users simply ignore a newly delivered analytics model due to its complexity and the amount of learning involved.
 >
-> **[1:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/maintaining-the-model?u=76281980&t=60)** This is why you should follow up after deploying a model by interviewing your stakeholders.
+> **[1:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/maintaining-the-model?u=76281980&t=60)** This is why you should follow up after deploying a model by [[Interviewing]] your stakeholders.
 >
 > **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/maintaining-the-model?u=76281980&t=67)** An important question to ask is whether they regularly use the model or not.
 >
@@ -2830,7 +2755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), business (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Analogies:** such as (1)
@@ -2838,8 +2763,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supporting training activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/supporting-training-activities?u=76281980)
+#### [Supporting training activities](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/supporting-training-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2851,7 +2775,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/supporting-training-activities?u=76281980&t=20)** Having a good understanding of the status of model adoption in an organization provides a solid foundation for building an effective training program.
 >
-> **[0:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/supporting-training-activities?u=76281980&t=32)** The starting point could be raising awareness on data science in general and cultivating analytics literacy among all stakeholders.
+> **[0:32](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/supporting-training-activities?u=76281980&t=32)** The starting point could be raising awareness on [[Data Science]] in general and cultivating analytics literacy among all stakeholders.
 >
 > **[0:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/supporting-training-activities?u=76281980&t=43)** Users will be more receptive of a data model when they have more background knowledge.
 >
@@ -2879,12 +2803,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (2), management (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Evaluating the business benefit of the model over time
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980)
+#### [Evaluating the business benefit of the model over time](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2902,29 +2825,29 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=45)** Articulating the written words and bringing them alive provides even more value.
 >
-> **[0:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=51)** Don't get blindsided by just focusing on the technical aspect of your career development as an analytics professional.
+> **[0:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=51)** Don't get blindsided by just focusing on the technical aspect of your [[Career Development]] as an analytics professional.
 >
 > **[0:58](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=58)** I would dare to say that communication skills are more than, or at least as important as, your technical capabilities.
 >
 > **[1:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=67)** Context knowledge helps because it allows you to speak in your client's terms.
 >
-> **[1:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=74)** If the business you're helping to succeed is cybersecurity, you should at a minimum acquire a basic understanding of information assurance and computer networking.
+> **[1:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=74)** If the business you're helping to succeed is [[Cybersecurity]], you should at a minimum acquire a basic understanding of information assurance and [[Computer Networking]].
 >
 > **[1:25](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=85)** What's also helpful is a positive attitude and willingness to learn.
 >
-> **[1:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=91)** I've seen a few data science professionals who refuse to learn the domain.
+> **[1:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=91)** I've seen a few [[Data Science]] professionals who refuse to learn the domain.
 >
 > **[1:37](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=97)** In these situations, it's difficult to expect meaningful outcomes because the negative stance is hindering communication among stakeholders.
 >
 > **[1:47](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=107)** Being open-minded may sound like a cliche, but it's one of the most important qualities you need to develop as an analytics professional.
 >
-> **[1:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=117)** So-called soft skills play a significant role here.
+> **[1:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=117)** So-called [[Soft Skills]] play a significant role here.
 >
 > **[2:02](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/evaluating-the-business-benefit-of-the-model-over-time?u=76281980&t=122)** Always remember to continuously develop your soft skills while maintaining your technical expertise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), business (2), data (2), [[Soft Skills]] (2), [[Career Development]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Career Development]] (1), [[Cybersecurity]] (1), [[Computer Networking]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
@@ -2935,12 +2858,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business intelligence examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980)
+#### [Business intelligence examples](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=0)** - [Instructor] Business intelligence, or BI, refers to the data-driven insights necessary to make informed decisions for promoting organizational goals and objectives.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=0)** - [Instructor] [[Business Intelligence (BI)|Business intelligence]], or BI, refers to the data-driven insights necessary to make informed decisions for promoting organizational goals and objectives.
 >
 > **[0:12](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=12)** It wouldn't be an overstatement to say that the CAP certification is all about generating BI for stakeholders.
 >
@@ -2966,7 +2888,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=121)** Many enterprises struggle to spot fraudulent transactions.
 >
-> **[2:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=127)** They range from credit card companies, to retailers, or cybersecurity firms.
+> **[2:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=127)** They range from credit card companies, to retailers, or [[Cybersecurity]] firms.
 >
 > **[2:13](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980&t=133)** In these situations, employing an advanced tool like machine learning or ML is necessary.
 >
@@ -2986,25 +2908,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (5), [[Analytics]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), data (1), hr (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), refers to (1)
 > **Env Vars:** cap (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting a methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980)
+#### [Selecting a methodology](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=0)** - [Instructor] You already learned that there are numerous options for data analytics methodologies, business intelligence, or BI, is not an exception.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=0)** - [Instructor] You already learned that there are numerous options for data analytics methodologies, [[Business Intelligence (BI)|business intelligence]], or BI, is not an exception.
 >
 > **[0:11](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=11)** However, the choices are not always yours.
 >
-> **[0:15](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=15)** Your organization may already have a certain analytics platform in use, and the higher education or human capital analytics examples I introduced earlier, products like interactive BI visualizations, are common and you're expected to leverage them to produce useful information.
+> **[0:15](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=15)** Your organization may already have a certain analytics platform in use, and the [[Higher Education]] or human capital analytics examples I introduced earlier, [[Microsoft Products|products]] like interactive BI visualizations, are common and you're expected to leverage them to produce useful information.
 >
-> **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=40)** Microsoft Power BI is one of the popular business analytics tools.
+> **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=40)** [[Microsoft Power BI]] is one of the popular [[Business Analytics]] tools.
 >
 > **[0:47](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=47)** Your job, as an analytics professional, is often to build a dashboard, which is a form of graphical user interface, or GUI, and provide an intuitive summary of how your organization is doing in meeting its business goals and objectives.
 >
@@ -3018,7 +2939,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=117)** That is, you don't get to build a system from scratch, but build on an existing platform.
 >
-> **[2:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=124)** There are still plenty of opportunities here because building dashboards is nontrivial and requires knowledge in databases, Structured Query Language, or SQL, or scripting languages like Python.
+> **[2:04](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=124)** There are still plenty of opportunities here because building [[Dashboards]] is nontrivial and requires knowledge in [[Databases]], Structured Query Language, or [[SQL]], or scripting languages like [[Python (Programming Language)|Python]].
 >
 > **[2:20](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=140)** Fraud detection is quite different from the university and human capital analytics cases because it goes way beyond simply crunching numbers or analyzing data.
 >
@@ -3026,19 +2947,19 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=163)** Therefore, a generic BI software tool isn't sufficient.
 >
-> **[2:50](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=170)** There are cloud-based services like Microsoft Azure Machine Learning.
+> **[2:50](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=170)** There are cloud-based services like [[Microsoft Azure]] Machine Learning.
 >
-> **[2:55](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=175)** Although being more user friendly and offering a drag and drop development environment, the Azure services still require their users to go through an entire data analytics model lifecycle.
+> **[2:55](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=175)** Although being more user friendly and offering a drag and drop development environment, the [[Microsoft Azure|Azure]] services still require their users to go through an entire data analytics model lifecycle.
 >
 > **[3:10](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=190)** By the way, the methodology doesn't always have to be machine learning based.
 >
-> **[3:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=197)** A more database centric tool, like Neo4j is another viable option.
+> **[3:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=197)** A more database centric tool, like [[Neo4j]] is another viable option.
 >
 > **[3:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/selecting-a-methodology?u=76281980&t=204)** Let's take a closer look at this in our next lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (9), data (3), bi (3), business (2), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Higher Education]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Power BI]] (1), [[Business Analytics]] (1)
 > **Env Vars:** gui (1), sql (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** drag and drop (1)
@@ -3046,18 +2967,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980)
+#### [Building a model](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=0)** - [Instructor] Neo4j is a graph database.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=0)** - [Instructor] [[Neo4j]] is a graph database.
 >
 > **[0:03](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=3)** A graph consists of nodes and edges as shown here.
 >
 > **[0:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=8)** A graph database uses nodes to represent entities or things in layman's term.
 >
-> **[0:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=14)** For our purposes, Neo4j knows our banking accounts and the goal in this case study is to detect fraudulent accounts.
+> **[0:14](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=14)** For our purposes, Neo4j knows our [[Banking]] accounts and the goal in this case study is to detect fraudulent accounts.
 >
 > **[0:24](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=24)** Banks are constantly looking out for activities like credit card frauds, overdrafting, and money laundering.
 >
@@ -3083,17 +3003,17 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=121)** In this visual output Neo4j returned, you can see the existence of a potential fraud ring.
 >
-> **[2:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=128)** John, Jane, and Matt all share the same address, phone number and SSN.
+> **[2:08](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=128)** [[John the Ripper|John]], Jane, and Matt all share the same address, phone number and SSN.
 >
 > **[2:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=137)** There are many other clues to search for too.
 >
 > **[2:20](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=140)** These include similar transactions occurring within a short period of time, such as depositing and the drawing of money, bounced checks, et cetera.
 >
-> **[2:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=151)** The rest is up to you and this is where your creativity and problem solving skills shine.
+> **[2:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/building-a-model?u=76281980&t=151)** The [[Representational State Transfer (REST)|rest]] is up to you and this is where your creativity and problem solving skills shine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (7), database (2), [[Banking]] (2), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (7), [[Banking]] (2), [[John the Ripper|John]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ssn (2), pii (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -3101,12 +3021,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980)
+#### [Deploying a model](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=0)** - [Narrator] You can run Neo4j on your own development machine and experiment with it.
+> **[0:00](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=0)** - [Narrator] You can run [[Neo4j]] on your own development machine and experiment with it.
 >
 > **[0:07](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=7)** But when it comes to deploying your fraud detection solution, like Neo4j, to a production environment, there are several careful steps to take to ensure success.
 >
@@ -3114,7 +3033,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=26)** The challenging part here is the scarcity of test datasets.
 >
-> **[0:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=31)** Fraudsters do their best to hide their transactions and analytics specialists may not have access to a real life dataset due to security and privacy concerns.
+> **[0:31](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=31)** Fraudsters do their best to hide their transactions and analytics specialists may not have access to a real life dataset due to security and [[Privacy]] concerns.
 >
 > **[0:44](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=44)** An alternative is a synthetic dataset generated by a script with intentionally embedded fraudulent transactions.
 >
@@ -3130,7 +3049,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=77)** When you're dealing with a large database and real time query requests, identifying the technologies that will support the deployment requirements is crucial.
 >
-> **[1:28](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=88)** We do have big data options like clustering and high availability solutions to help with this.
+> **[1:28](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=88)** We do have [[Big Data]] options like clustering and high availability solutions to help with this.
 >
 > **[1:36](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/deploying-a-model?u=76281980&t=96)** There are also other tasks, such as monitoring and sustaining the model.
 >
@@ -3142,14 +3061,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (4), next (2), [[Analytics]] (1), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (4), [[Privacy]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing the model lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980)
+#### [Managing the model lifecycle](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3159,11 +3077,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=27)** The phases stay in a recursive loop to ensure incremental refinement and continuous improvement.
 >
-> **[0:35](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=35)** DMLC usually comes into the picture when a project group is already using a well-established software development life cycle, or SDLC, A Neo4j team will have its own SDLC.
+> **[0:35](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=35)** DMLC usually comes into the picture when a project group is already using a well-established [[Software Development]] life cycle, or SDLC, A [[Neo4j]] team will have its own SDLC.
 >
 > **[0:51](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=51)** You should ensure that the two life cycles work together well.
 >
-> **[0:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=57)** Let's assume that you're using an Agile SDLC.
+> **[0:57](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=57)** Let's assume that you're using an [[Agile Development|Agile]] SDLC.
 >
 > **[1:01](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/managing-the-model-lifecycle?u=76281980&t=61)** The DMLC phases are highly compatible with and complementary to those of any Agile SDLC of your choice.
 >
@@ -3185,7 +3103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), data (3), business (2), [[Analytics]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Software Development]] (1), [[Neo4j]] (1)
 > **Env Vars:** dmlc (9), sdlc (9), cap (1)
 > **Analogies:** picture (1), such as (1)
 > **Speakers:** - [instructor] (1)
@@ -3195,8 +3113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional study resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980)
+#### [Next steps and additional study resources](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3212,17 +3129,17 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=40)** Among the seven domains covered in this CAP course, I encourage you to invest more time, especially in the data domain, since its rate is much higher than the others.
 >
-> **[0:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=53)** Fundamental knowledge in statistics and programming languages is also crucial.
+> **[0:53](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=53)** Fundamental knowledge in [[Statistics]] and programming languages is also crucial.
 >
 > **[0:59](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=59)** It's never too late to strengthen your skills in those areas.
 >
-> **[1:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=65)** If you want to advance your knowledge on data science in general, I recommend checking out the other data science courses in the library.
+> **[1:05](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=65)** If you want to advance your knowledge on [[Data Science]] in general, I recommend checking out the other data science courses in the library.
 >
 > **[1:16](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980&t=76)** I hope to see you again soon in my future courses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (1), [[Statistics]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Statistics]] (1)
 > **Env Vars:** cap (4), informs (1)
 > **Speakers:** - [instructor] (1)
 

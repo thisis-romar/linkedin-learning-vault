@@ -59,8 +59,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Appreciating the phone
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980)
+#### [Appreciating the phone](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -68,7 +67,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980&t=6)** - Hi, there. I'm Craig and I'm a developer.
 >
-> **[0:08](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980&t=8)** Welcome to Twilio Essentials with Programmable Voice.
+> **[0:08](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980&t=8)** Welcome to [[Twilio]] Essentials with Programmable Voice.
 >
 > **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980&t=11)** A quick heads up that this is a course in a series, and I'm going to be assuming that you've obtained some Twilio knowledge from prior content.
 >
@@ -146,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (5), prompt (1), api (1), application (1)
+> **Frameworks & Libraries:** [[Twilio]] (5)
 > **CLI Commands:** snap (1), make (1)
 > **Env Vars:** api (1), pstn (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -155,8 +154,7 @@ created: 2026-05-02
 > **Speakers:** - hi (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Receive a call
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980)
+#### [Receive a call](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=13)** I remember once trying to make it say cheeseburger, and it came back as "chess ebeger," but the tech has gotten so much better, and it's had to.
 >
-> **[0:21](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=21)** There are many of these personal assistance devices everywhere, (whispering) the Alexas or the Google Home devices.
+> **[0:21](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=21)** There are many of these personal assistance devices everywhere, (whispering) the Alexas or the [[Google]] Home devices.
 >
 > **[0:26](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=26)** I'm whispering 'cause I don't want to trigger yours.
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=89)** So I'm going to head back over to my console and I'm going to go to my TwiML bins and I'm going to pin those.
 >
-> **[1:36](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=96)** So if I scroll down under explore products here I'm going to find my TwiML bins and I'm going to pin those to the side.
+> **[1:36](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=96)** So if I scroll down under explore [[Microsoft Products|products]] here I'm going to find my TwiML bins and I'm going to pin those to the side.
 >
 > **[1:45](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=105)** I'll go into my TwiML bins here.
 >
@@ -356,7 +354,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=389)** - [Machine "Matthew" Voice] And now an important message- (record scratch)
 >
-> **[6:31](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=391)** - Hi there I'm Twilio's Craig Dennis and I am sorry to interrupt, but right here what we were trying to do, was we would've played some drums and it would've sounded something like (impersonating sound of drums) And you would've been like, "That sounds a lot like that Rick Astley... wait a second, did they just Rickroll me?"
+> **[6:31](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=391)** - Hi there I'm [[Twilio]]'s Craig Dennis and I am sorry to interrupt, but right here what we were trying to do, was we would've played some drums and it would've sounded something like (impersonating sound of drums) And you would've been like, "That sounds a lot like that Rick Astley... wait a second, did they just Rickroll me?"
 >
 > **[6:50](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/receive-a-call?u=76281980&t=410)** And we did, or at least we tried to, but legally we couldn't.
 >
@@ -380,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Google]] (1), api (1), [[Microsoft Products|Products]] (1), [[Twilio]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[Twilio]] (1)
 > **Speakers:** - [machine (7), - [craig] (3), - text (1), - hi (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** scroll down (3), go to (2), navigate to (1), click on (1)
@@ -389,8 +387,7 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
 
-#### Gather input
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980)
+#### [Gather input](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=36)** This is using that web hook pattern from before.
 >
-> **[0:39](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=39)** When your call receives DTMF, Twilio passes control to your app via a URL that you specify in that request your application will contain the digits that were pressed and your expected return follow up twiml.
+> **[0:39](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=39)** When your call receives DTMF, [[Twilio]] passes control to your app via a URL that you specify in that request your application will contain the digits that were pressed and your expected return follow up twiml.
 >
 > **[0:49](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=49)** Let's dive in.
 >
@@ -426,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=67)** So I'll come in here and I'll start a new gather tag.
 >
-> **[1:12](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=72)** You can kind of think of this like a HTML form element.
+> **[1:12](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=72)** You can kind of think of this like a [[HTML]] form element.
 >
 > **[1:17](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=77)** So I'm going to leave the action blank right now.
 >
@@ -640,13 +637,13 @@ created: 2026-05-02
 >
 > **[9:46](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=586)** And that queue didn't even have to exist.
 >
-> **[9:48](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=588)** I just typed the word managers and it made a brand new queue and people will queue in there and we could have another phone number that called in and they would automatically get the next person in the queue and be connected with them to talk about how they're offended by the Rick roll joke.
+> **[9:48](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=588)** I just typed the [[Microsoft Word|word]] managers and it made a brand new queue and people will queue in there and we could have another phone number that called in and they would automatically get the next person in the queue and be connected with them to talk about how they're offended by the Rick roll joke.
 >
 > **[10:02](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=602)** More on cues in the notes.
 >
 > **[10:04](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=604)** Pretty awesome right?
 >
-> **[10:05](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=605)** We just created an IVR, an interactive voice response, and our options were able to trigger any code that we wanted over a URL, super powerful concept, right?
+> **[10:05](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=605)** We just created an IVR, an [[Interactive Voice Response (IVR)|interactive voice response]], and our options were able to trigger any code that we wanted over a URL, super powerful concept, right?
 >
 > **[10:16](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=616)** Twilio passes control to whatever web application via web hook.
 >
@@ -674,7 +671,7 @@ created: 2026-05-02
 >
 > **[11:08](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=668)** You can pass code off to functions or any URL whenever you need to.
 >
-> **[11:12](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=672)** It's powerful, scalable, and you can import and export the entire flow in JSON format, which means you can keep it alongside your code in version control.
+> **[11:12](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=672)** It's powerful, scalable, and you can import and export the entire flow in [[JSON]] format, which means you can keep it alongside your code in [[Version Control]].
 >
 > **[11:20](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/gather-input?u=76281980&t=680)** I can't recommend it enough, especially for IVRs.
 >
@@ -688,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Twilio]] (5), application (2), web application (2), api (2)
+> **Frameworks & Libraries:** [[Twilio]] (5), [[HTML]] (1), [[Microsoft Word|Word]] (1), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[JSON]] (1)
 > **Env Vars:** url (10), dtmf (2), api (2), html (1), http (1)
 > **Speakers:** - [automated (2), - [instructor] (2), - so (1), - [female (1)
 > **CLI Commands:** make (4)
@@ -697,8 +694,7 @@ created: 2026-05-02
 > **URLs:** [twil.io](https://twil.io) (1)
 > **Warnings:** warning (1)
 
-#### Create an outbound call
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980)
+#### [Create an outbound call](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=5)** The call API is very similar to the message API, so it should feel pretty familiar.
 >
-> **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=11)** So on [twilio.com/docs](https://twilio.com/docs), I'm going to click on voice.
+> **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=11)** So on [[[Twilio]].com/docs](https://twilio.com/docs), I'm going to click on voice.
 >
 > **[0:18](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=18)** And in here, I'm going to look for the API reference.
 >
@@ -740,9 +736,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=78)** Now I've got that in my clipboard.
 >
-> **[1:21](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=81)** And if we go back and we look at the notes, I could definitely do this in note, or C sharp or Python but I don't really have one of those servers and we're just kind of exploring.
+> **[1:21](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=81)** And if we go back and we look at the notes, I could definitely do this in note, or C sharp or [[Python (Programming Language)|Python]] but I don't really have one of those servers and we're just kind of exploring.
 >
-> **[1:28](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=88)** So I'm going to go ahead, I'm going to do that in the CLI.
+> **[1:28](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=88)** So I'm going to go ahead, I'm going to do that in the [[CLI]].
 >
 > **[1:30](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/create-an-outbound-call?u=76281980&t=90)** And you'll see, very similar, calls, create, URL, to and from.
 >
@@ -1058,7 +1054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Twilio]] (7), web (4), application (3), [[CLI]] (2)
+> **Frameworks & Libraries:** [[Twilio]] (7), [[CLI]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** url (13), api (9), cli (2), cps (2), ivr (1)
 > **Speakers:** - [phone] (4), - [instructor] (4), - we (1)
 > **CLI Commands:** make (6), python (1), find (1)
@@ -1067,8 +1063,7 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **UI Navigation:** click on (1), dropdown (1)
 
-#### Review and practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980)
+#### [Review and practice](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1089,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=50)** Check the notes for more information on that.
 >
-> **[0:53](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=53)** And if you're looking to do more real-time work with voice, make sure to check out Media Streams.
+> **[0:53](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=53)** And if you're looking to do more [[Real-Time]] work with voice, make sure to check out Media Streams.
 >
 > **[0:57](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=57)** This gives you direct access to the audio from the phone in real time and even lets you pipe audio back in.
 >
@@ -1112,7 +1107,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=92)** Typically they're pressing those buttons because they're responding to prompts like, "Press one to chat with an agent."
 >
-> **[1:37](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=97)** These applications are called IVRs or Interactive Voice Response.
+> **[1:37](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=97)** These applications are called IVRs or [[Interactive Voice Response (IVR)|Interactive Voice Response]].
 >
 > **[1:42](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=102)** Most likely you'll be sending out a lot of calls and there's a default throughput of one CPS that's Call Per Second.
 >
@@ -1128,7 +1123,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=132)** SIP is the protocol that kicks things off.
 >
-> **[2:15](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=135)** Twilio offers rich solutions like SIP domains and SIP trunking in this space with all the programmability available.
+> **[2:15](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=135)** [[Twilio]] offers rich solutions like SIP domains and SIP trunking in this space with all the programmability available.
 >
 > **[2:21](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=141)** Please check the notes for more information.
 >
@@ -1146,7 +1141,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=164)** Using the SDK allows you to have a fully functional browser based phone that can do all the programmable tricks that you just learned.
 >
-> **[2:51](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=171)** The SDK is also available for iOS and Android.
+> **[2:51](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=171)** The SDK is also available for iOS and [[Android]].
 >
 > **[2:54](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/review-and-practice?u=76281980&t=174)** So you can build a phone wherever you need one.
 >
@@ -1166,7 +1161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Twilio]] (2), [[Real-Time]] (1), api (1), oop (1)
+> **Frameworks & Libraries:** [[Twilio]] (2), [[Real-Time]] (1), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[Android]] (1)
 > **Env Vars:** sip (4), sdk (4), url (3), pstn (2), api (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - awesome (1), - we (1)

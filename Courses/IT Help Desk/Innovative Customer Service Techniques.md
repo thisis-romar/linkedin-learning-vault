@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Help your team unlock their potential
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/help-your-team-unlock-their-potential?u=76281980)
+#### [Help your team unlock their potential](https://www.linkedin.com/learning/innovative-customer-service-techniques/help-your-team-unlock-their-potential?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,11 +91,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (1)
 > **Speakers:** - one (1)
 
-#### What you'll learn from watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/what-you-ll-learn-from-watching-this-course?u=76281980)
+#### [What you'll learn from watching this course](https://www.linkedin.com/learning/innovative-customer-service-techniques/what-you-ll-learn-from-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,14 +121,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Understanding why customer service is hard
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980)
+#### [Understanding why customer service is hard](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=9)** Just think about some of the challenges we face each and every day.
 >
-> **[0:12](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=12)** Difficult customers, inflexible policies, demanding bosses, challenging coworkers, defective products, and even our own personal limitations.
+> **[0:12](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=12)** Difficult customers, inflexible policies, demanding bosses, challenging coworkers, defective [[Microsoft Products|products]], and even our own personal limitations.
 >
 > **[0:22](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=22)** It takes a lot of hard work to overcome these obstacles.
 >
@@ -161,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=59)** Here's what the results typically look like.
 >
-> **[1:03](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=63)** People consistently rate themselves higher than the rest of the team.
+> **[1:03](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=63)** People consistently rate themselves higher than the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[1:07](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-why-customer-service-is-hard-2?u=76281980&t=67)** It's human nature for all of us to feel like we're special or stand out in some way.
 >
@@ -191,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - one (1)
@@ -201,8 +196,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying the most important need
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980)
+#### [Identifying the most important need](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,7 +272,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980&t=153)** Here's some examples.
 >
-> **[2:35](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980&t=155)** Someone in technical support might say they help customers solve computer problems.
+> **[2:35](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980&t=155)** Someone in [[Technical Support]] might say they help customers solve computer problems.
 >
 > **[2:39](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980&t=159)** A restaurant server might say they wait tables.
 >
@@ -300,15 +294,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Support]] (2), next (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** laura (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - think (1)
 
-#### Winning the moments of truth
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/winning-the-moments-of-truth-2?u=76281980)
+#### [Winning the moments of truth](https://www.linkedin.com/learning/innovative-customer-service-techniques/winning-the-moments-of-truth-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +325,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/innovative-customer-service-techniques/winning-the-moments-of-truth-2?u=76281980&t=38)** A great first impression creates a positive memory.
 >
-> **[0:41](https://www.linkedin.com/learning/innovative-customer-service-techniques/winning-the-moments-of-truth-2?u=76281980&t=41)** If the rest of a customer's experiences are neutral, the customer will feel they have received great service.
+> **[0:41](https://www.linkedin.com/learning/innovative-customer-service-techniques/winning-the-moments-of-truth-2?u=76281980&t=41)** If the [[Representational State Transfer (REST)|rest]] of a customer's experiences are neutral, the customer will feel they have received great service.
 >
 > **[0:47](https://www.linkedin.com/learning/innovative-customer-service-techniques/winning-the-moments-of-truth-2?u=76281980&t=47)** That's because neutral experiences aren't memorable, but positive experiences are.
 >
@@ -402,14 +395,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** known as (1), is a  (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - what (1)
 
-#### Making wait time more bearable
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/making-wait-time-more-bearable-2?u=76281980)
+#### [Making wait time more bearable](https://www.linkedin.com/learning/innovative-customer-service-techniques/making-wait-time-more-bearable-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,7 +465,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/innovative-customer-service-techniques/making-wait-time-more-bearable-2?u=76281980&t=136)** The solution here is to find a way to occupy your customers.
 >
-> **[2:19](https://www.linkedin.com/learning/innovative-customer-service-techniques/making-wait-time-more-bearable-2?u=76281980&t=139)** Examples include a doctor's office having patients fill out paperwork.
+> **[2:19](https://www.linkedin.com/learning/innovative-customer-service-techniques/making-wait-time-more-bearable-2?u=76281980&t=139)** Examples include a doctor's [[Microsoft Office|office]] having patients fill out paperwork.
 >
 > **[2:23](https://www.linkedin.com/learning/innovative-customer-service-techniques/making-wait-time-more-bearable-2?u=76281980&t=143)** Or a call center having catchy hold music interspersed with helpful messages.
 >
@@ -495,14 +487,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Security]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - customers (1)
 
-#### Getting customers to know your name
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/getting-customers-to-know-your-name-2?u=76281980)
+#### [Getting customers to know your name](https://www.linkedin.com/learning/innovative-customer-service-techniques/getting-customers-to-know-your-name-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +565,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
@@ -584,8 +574,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improving your powers of observation
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/improving-your-powers-of-observation-2?u=76281980)
+#### [Improving your powers of observation](https://www.linkedin.com/learning/innovative-customer-service-techniques/improving-your-powers-of-observation-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,8 +686,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - customer (1)
 
-#### Overcoming the illusion of speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980)
+#### [Overcoming the illusion of speed](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +714,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=41)** Well, let's take a look at the email I received.
 >
-> **[0:44](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=44)** Here's the email word for word.
+> **[0:44](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=44)** Here's the email [[Microsoft Word|word]] for word.
 >
 > **[0:49](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=49)** You probably noticed a few problems.
 >
@@ -758,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=95)** But, I also know that they're busy on Sunday afternoons.
 >
-> **[1:38](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=98)** The person responding to my emails was also working the counter in the office, handling walk-in traffic and answering phones.
+> **[1:38](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=98)** The person responding to my emails was also working the counter in the [[Microsoft Office|office]], handling walk-in traffic and answering phones.
 >
 > **[1:45](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=105)** They were focused on speed, rather than quality.
 >
@@ -782,7 +770,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=148)** If you want to go fast, take a deep breath and slow down enough to get things right the first time.
 >
-> **[2:34](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=154)** The next tip is to prioritize what's most important and set aside the rest.
+> **[2:34](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=154)** The next tip is to prioritize what's most important and set aside the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:40](https://www.linkedin.com/learning/innovative-customer-service-techniques/overcoming-the-illusion-of-speed-2?u=76281980&t=160)** That means focusing on the customer right in front of you rather than the long line behind him.
 >
@@ -808,14 +796,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), traffic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - customers (1)
 
-#### Understanding the consequences of multitasking
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980)
+#### [Understanding the consequences of multitasking](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +822,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=35)** You may have noticed just a little twinge in your brain on that one.
 >
-> **[0:39](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=39)** That was your brain sending you a signal that said, hey, the word green isn't green.
+> **[0:39](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=39)** That was your brain sending you a signal that said, hey, the [[Microsoft Word|word]] green isn't green.
 >
 > **[0:43](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=43)** These colors are all wrong.
 >
@@ -889,7 +876,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=146)** Try to reduce the amount of distractions that might cause you to multitask.
 >
-> **[2:30](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=150)** Don't keep extra windows open on your computer.
+> **[2:30](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=150)** Don't keep extra [[Windows]] open on your computer.
 >
 > **[2:32](https://www.linkedin.com/learning/innovative-customer-service-techniques/understanding-the-consequences-of-multitasking-2?u=76281980&t=152)** Turn off unnecessary alerts.
 >
@@ -919,8 +906,7 @@ created: 2026-05-02
 > **Env Vars:** icmi (1)
 > **Definitions:** is a  (1)
 
-#### Avoiding directed attention fatigue
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/avoiding-directed-attention-fatigue-2?u=76281980)
+#### [Avoiding directed attention fatigue](https://www.linkedin.com/learning/innovative-customer-service-techniques/avoiding-directed-attention-fatigue-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +974,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/innovative-customer-service-techniques/avoiding-directed-attention-fatigue-2?u=76281980&t=122)** So what's the cure?
 >
-> **[2:04](https://www.linkedin.com/learning/innovative-customer-service-techniques/avoiding-directed-attention-fatigue-2?u=76281980&t=124)** There's only one known way to recover, and that's rest.
+> **[2:04](https://www.linkedin.com/learning/innovative-customer-service-techniques/avoiding-directed-attention-fatigue-2?u=76281980&t=124)** There's only one known way to recover, and that's [[Representational State Transfer (REST)|rest]].
 >
 > **[2:07](https://www.linkedin.com/learning/innovative-customer-service-techniques/avoiding-directed-attention-fatigue-2?u=76281980&t=127)** Here are a few specific examples.
 >
@@ -1028,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (2), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** add (1)
 > **Speakers:** - do (1)
@@ -1038,8 +1024,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying the secrets of employee motivation
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-secrets-of-employee-motivation-2?u=76281980)
+#### [Identifying the secrets of employee motivation](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-secrets-of-employee-motivation-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,12 +1110,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), business (1), strengths (1), next (1)
 > **CLI Commands:** make (7), find (1)
 > **Speakers:** - if (1)
 
-#### Increasing teamwork between departments
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/increasing-teamwork-between-departments-2?u=76281980)
+#### [Increasing teamwork between departments](https://www.linkedin.com/learning/innovative-customer-service-techniques/increasing-teamwork-between-departments-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,15 +1225,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - have (1)
 
-#### Creating positive social pressure
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/creating-positive-social-pressure-2?u=76281980)
+#### [Creating positive social pressure](https://www.linkedin.com/learning/innovative-customer-service-techniques/creating-positive-social-pressure-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,7 +1275,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/innovative-customer-service-techniques/creating-positive-social-pressure-2?u=76281980&t=84)** So if the correct answer was B, they might say A.
 >
-> **[1:28](https://www.linkedin.com/learning/innovative-customer-service-techniques/creating-positive-social-pressure-2?u=76281980&t=88)** Asch found that 75% of people went along with the rest of the group and gave the wrong answer too.
+> **[1:28](https://www.linkedin.com/learning/innovative-customer-service-techniques/creating-positive-social-pressure-2?u=76281980&t=88)** Asch found that 75% of people went along with the [[Representational State Transfer (REST)|rest]] of the group and gave the wrong answer too.
 >
 > **[1:35](https://www.linkedin.com/learning/innovative-customer-service-techniques/creating-positive-social-pressure-2?u=76281980&t=95)** After the experiment, some people said they knew they were right, but felt uncomfortable going against the group.
 >
@@ -1373,8 +1354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resources to improve your customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/resources-to-improve-your-customer-service?u=76281980)
+#### [Resources to improve your customer service](https://www.linkedin.com/learning/innovative-customer-service-techniques/resources-to-improve-your-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,7 +1384,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Definitions:** is a  (2)
 > **URLs:** [insidecustomerservice.com](https://insidecustomerservice.com) (1)
 > **Cross-References:** go back to (1)

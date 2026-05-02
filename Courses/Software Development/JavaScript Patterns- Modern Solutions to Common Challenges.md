@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Javascript: Finding the utility in less common patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980)
+#### [Learning Javascript: Finding the utility in less common patterns](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980&t=0)** - Do you ever hear about parts of JavaScript and wonder, what on earth is that for?
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980&t=0)** - Do you ever hear about parts of [[JavaScript]] and wonder, what on earth is that for?
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980&t=5)** I know I have.
 >
@@ -104,11 +103,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Programming]] (2), game (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=3)** And a few things to be aware of generally.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=6)** To appreciate the pain points and have felt them you'll need JavaScript experience, not necessarily a lot, but you should have been working with JavaScript regularly for at least a year or two.
+> **[0:06](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=6)** To appreciate the pain points and have felt them you'll need [[JavaScript]] experience, not necessarily a lot, but you should have been working with JavaScript regularly for at least a year or two.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=15)** That being said, if you do have some experience, some of the pain points we'll discuss will be things that you may have a solution for.
 >
@@ -128,11 +126,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=30)** Some of the example code in this course is set up in ways that are appropriate for examples, but that you wouldn't necessarily use on a live website.
 >
-> **[0:37](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=37)** For example, there are some script tags in the head tag of the HTML documents, which can block rendering.
+> **[0:37](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=37)** For example, there are some script tags in the head tag of the [[HTML]] documents, which can block rendering.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=43)** So, just remember that the code itself is sound, but the way the examples are set up is to support the goal of making a good and maintainable course, which can be different from websites for live use.
 >
-> **[0:53](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=53)** A terminology note, ES6 is short for ECMAScript 6, which is itself an alias for ECMAScript 2015.
+> **[0:53](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=53)** A terminology note, ES6 is short for [[ECMAScript]] 6, which is itself an alias for ECMAScript 2015.
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/what-you-should-know-14180830?u=76281980&t=60)** All these terms are used interchangeably in this course and elsewhere.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (3), css (3), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ECMAScript]] (3), [[HTML]] (1)
 > **Env Vars:** css (3), html (1), es6 (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Definitions:** short for (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,11 +164,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=11)** There's a folder for each chapter that requires files and a folder for each video within that chapter where code editing takes place, which is most of the examples.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=20)** There's a start.js file for where you'll start and there's an HTML file that goes with that start file named index.html.
+> **[0:20](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=20)** There's a start.js file for where you'll start and there's an [[HTML]] file that goes with that start file named index.html.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=31)** There's also an end.js and end.html file pair with the code and markup as they stand at the end of that video.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=40)** I have a special note for Windows users.
+> **[0:40](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=40)** I have a special note for [[Windows]] users.
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/using-the-exercise-files-14186127?u=76281980&t=42)** Please make sure to decompress or extract the exercise file zip archive before you try to run any of the examples in a browser.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[Windows]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Windows]] (2)
 > **Exercise Files:** exercise files (3), exercise file (1), zip file (1)
 > **File Paths:** start.js (1), index.html (1), end.js (1), end.html (1)
 > **CLI Commands:** make (1)
@@ -206,8 +203,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Definitions:** means that (1)
 
-#### How to work with CoderPad challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980)
+#### [How to work with CoderPad challenges](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/how-to-work-with-coderpad-challenges?u=76281980&t=28)** The code challenge has four areas: Instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -272,8 +268,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pain point: Sequential "for" loops become tedious
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980)
+#### [Pain point: Sequential "for" loops become tedious](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980&t=22)** So we can think about these decisions more carefully.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980&t=25)** Over here in my editor, I have the JavaScript file that goes with this video.
+> **[0:25](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980&t=25)** Over here in my editor, I have the [[JavaScript]] file that goes with this video.
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980&t=30)** I have to arrays here.
 >
@@ -369,13 +364,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Three alternatives sequential "for" loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980)
+#### [Solution: Three alternatives sequential "for" loops](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,13 +377,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=12)** A different kind of For Loop and then two array methods.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=16)** I've loaded up the index.html file that goes with this exercise here in my browser and I'm going to open the developer tools with Command option I, that works here in Chrome.
+> **[0:16](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=16)** I've loaded up the index.[[HTML]] file that goes with this exercise here in my browser and I'm going to open the developer tools with Command option I, that works here in Chrome.
 >
-> **[0:26](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=26)** And Control option I if you're on Windows or Linux.
+> **[0:26](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=26)** And Control option I if you're on [[Windows]] or [[Linux]].
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=31)** So I'm going to click here in the developer tools and just make this a little bigger.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=35)** Using the zoom command, which is Command + on a Mac, make this a little easier to see, and now we'll go to the code.
+> **[0:35](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=35)** Using the [[Zoom]] command, which is Command + on a Mac, make this a little easier to see, and now we'll go to the code.
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=44)** All right, so we're going to start by rewriting this simple For Loop.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=122)** Introducing this member, I can save this.
 >
-> **[2:07](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=127)** Now a few things to mention about forEach, it doesn't return anything, or rather it returns undefined and just like with anything else in JavaScript, you can pass it call back functions that are anonymous functions like this one.
+> **[2:07](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=127)** Now a few things to mention about forEach, it doesn't return anything, or rather it returns undefined and just like with anything else in [[JavaScript]], you can pass it call back functions that are anonymous functions like this one.
 >
 > **[2:18](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-three-alternatives-14183625?u=76281980&t=138)** You could also define a function in advance and pass that in and if your environment supports it, you could also do arrow functions, like this.
 >
@@ -558,8 +552,7 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **Documentation:** the documentation (1)
 
-#### Pain point: Processing arrays with loops is inelegant
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-processing-arrays-with-loops-is-inelegant-14182725?u=76281980)
+#### [Pain point: Processing arrays with loops is inelegant](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-processing-arrays-with-loops-is-inelegant-14182725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +616,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** indexof (1)
 > **URLs:** [allmusic.com](https://allmusic.com) (1)
@@ -631,8 +623,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Use filter(), map(), and reduce()
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-filter-map-and-reduce-14181691?u=76281980)
+#### [Solution: Use filter(), map(), and reduce()](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-filter-map-and-reduce-14181691?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +649,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-filter-map-and-reduce-14181691?u=76281980&t=51)** Map transforms each item of an array using a callback function.
 >
-> **[0:55](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-filter-map-and-reduce-14181691?u=76281980&t=55)** You'll often see these used in react or other JavaScript frameworks to print out a list of Dom elements generated from an array.
+> **[0:55](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-filter-map-and-reduce-14181691?u=76281980&t=55)** You'll often see these used in [[React.js|react]] or other [[JavaScript]] frameworks to print out a list of Dom elements generated from an array.
 >
 > **[1:02](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-filter-map-and-reduce-14181691?u=76281980&t=62)** It can be used to transform an array from one form to another, with the expectation that every item in the array will be processed, just like we saw with for each.
 >
@@ -872,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[React.js|React]] (1), [[JavaScript]] (1), dom (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (4), is called (1), in other words (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -880,8 +871,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Transform a list of places
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-iterate-differently-25798165?u=76281980)
+#### [Solution: Transform a list of places](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-iterate-differently-25798165?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,8 +914,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pain point: Copied objects are not actually copies
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980)
+#### [Pain point: Copied objects are not actually copies](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -935,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980&t=9)** If you've ever tried to do that, you surely know where this is going.
 >
-> **[0:13](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980&t=13)** If you haven't run into this tricky aspect of JavaScript yet, here's the issue.
+> **[0:13](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980&t=13)** If you haven't run into this tricky aspect of [[JavaScript]] yet, here's the issue.
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980&t=18)** In this little block of code where template is an object with one property called item, you might think that assigning myCopy to template will create a copy that I can modify by, say, setting item in that copy to two.
 >
@@ -987,7 +976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (3), cat (1)
 > **Exercise Files:** template (3), source code (1)
 > **Code Identifiers:** mycopy (2)
@@ -995,18 +984,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: JSON.stringify() and JSON.parse()
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980)
+#### [Solution: JSON.stringify() and JSON.parse()](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=0)** - [Instructor] In this video, we'll address how to make actual copies of objects in JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=0)** - [Instructor] In this video, we'll address how to make actual copies of objects in [[JavaScript]].
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=5)** There is, as far as I know, anyway, no completely simple answer to this question, but there are good ones.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=10)** We just need to consider what's in our objects before we choose one.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=14)** So I'd recommend loading up the index.html file for this example in your browser before we start.
+> **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=14)** So I'd recommend loading up the index.[[HTML]] file for this example in your browser before we start.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=20)** Back here in my editor, I have the JavaScript file that goes with the example, and I've made my kitty object a little more complex here.
 >
@@ -1018,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=55)** So we have a few different types of data that are going to get copied with this object when we attempt our various cloning procedures.
 >
-> **[1:02](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=62)** We'll start with one that's fairly simple, and that you see in a lot of places, this is taking the entire object and running it through a couple of JSON methods.
+> **[1:02](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=62)** We'll start with one that's fairly simple, and that you see in a lot of places, this is taking the entire object and running it through a couple of [[JSON]] methods.
 >
 > **[1:12](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-json-stringify-and-json-parse-14184434?u=76281980&t=72)** So we'll create a new kitty, maybe call it mudge.
 >
@@ -1152,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), data (4), [[JavaScript]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** json (6), ea6 (1)
 > **CLI Commands:** make (4), cat (2)
 > **Definitions:** is a  (2)
@@ -1161,12 +1149,11 @@ created: 2026-05-02
 > **File Paths:** index.html (1)
 > **Exercise Files:** template (1)
 
-#### Pain point: The value of "this" can be hard to follow
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980)
+#### [Pain point: The value of "this" can be hard to follow](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=0)** - [Instructor] In every object-oriented programming language I've used there's a way for an object to refer to itself.
+> **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=0)** - [Instructor] In every [[Object-Oriented Programming (OOP)|object-oriented programming]] language I've used there's a way for an object to refer to itself.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=5)** That way is usually through the keyword, this.
 >
@@ -1180,15 +1167,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=21)** And we're going to wire up an event listener to this button to take some action.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=25)** Over here in Visual Studio Code, I have that HTML file pulled up.
+> **[0:25](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=25)** Over here in Visual Studio Code, I have that [[HTML]] file pulled up.
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=29)** The only thing to note is that we have our go button here.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=33)** And its ID is go.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=36)** Then here in the script file, we're pretending to run a website that uses the popular PHP CMS, Drupal.
+> **[0:36](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=36)** Then here in the script file, we're pretending to run a website that uses the popular [[PHP]] CMS, [[Drupal]].
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=42)** Drupal uses an eponymous global JavaScript object that is its name, Drupal, which has a property called behaviors.
+> **[0:42](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=42)** Drupal uses an eponymous global [[JavaScript]] object that is its name, Drupal, which has a property called behaviors.
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-the-value-of-this-like-and-always-14183629?u=76281980&t=49)** If we want to add some script-based behavior, we add an object to that behaviors object.
 >
@@ -1282,7 +1269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[HTML]] (1), [[PHP]] (1), cms (1)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[HTML]] (1), [[PHP]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** getdata (5), mymodule (1), clickgo (1)
 > **Env Vars:** url (2), html (1), php (1), cms (1)
 > **CLI Commands:** find (2), php (1)
@@ -1291,8 +1278,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Solution: Fix "this" using bind()
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980)
+#### [Solution: Fix "this" using bind()](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1286,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=8)** Indeed, we'll tell our code exactly what it should be, using the global function object's bind method.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=14)** If you've used React before, you've probably seen this pattern.
+> **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=14)** If you've used [[React.js|React]] before, you've probably seen this pattern.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=16)** It was actually through using React that I first came to understand how bind works, and now I use it in any project, React or not.
 >
@@ -1432,7 +1418,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=309)** So as you can see, basically anywhere we can define a function, we can use bind to set the value that this should take inside the body of the function.
 >
-> **[5:18](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=318)** This pattern has existed in JavaScript for many years and I for one am glad that I finally understand it.
+> **[5:18](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=318)** This pattern has existed in [[JavaScript]] for many years and I for one am glad that I finally understand it.
 >
 > **[5:23](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-14183630?u=76281980&t=323)** It can feel a little tedious sometimes to pepper a large object with lots of binds but I find the trade-off is worth it to simplify the bodies of those functions.
 >
@@ -1440,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), application (1), business (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2)
 > **Code Identifiers:** clickgo (5), mymodule (3), getdata (2)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** refers to (4), is a  (1)
@@ -1449,14 +1435,13 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### ES6+ solution: Arrow functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980)
+#### [ES6+ solution: Arrow functions](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=0)** - [Instructor] Using the function objects bind method lets us prescribe what this should be inside a function.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=6)** In this video, we're going to take a quick look at how to address the same issue using arrow functions, a feature of ES6 or ECMAScript 2015.
+> **[0:06](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=6)** In this video, we're going to take a quick look at how to address the same issue using arrow functions, a feature of ES6 or [[ECMAScript]] 2015.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=14)** If you haven't seen it before, an arrow function is a compact way to write a function.
 >
@@ -1522,7 +1507,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=187)** As with any language feature that encourages terse code, arrow functions can be a little challenging for us and our fellow humans to parse, especially when they're very concise.
 >
-> **[3:15](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=195)** This is mainly a matter of getting used to them, but if you're working with other people who aren't as up to speed on modern JavaScript as you are, you can expect a little bit of explaining to take place.
+> **[3:15](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=195)** This is mainly a matter of getting used to them, but if you're working with other people who aren't as up to speed on modern [[JavaScript]] as you are, you can expect a little bit of explaining to take place.
 >
 > **[3:24](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/es6-plus-solution-arrow-functions-14180825?u=76281980&t=204)** So at this point, we've covered a couple of different ways of dealing with the problem of this inside our event handlers and other functions inside our objects.
 >
@@ -1530,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[ECMAScript]] (2), node (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[ECMAScript]] (2), [[JavaScript]] (1)
 > **CLI Commands:** find (1), make (1), node (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Code Identifiers:** clickgo (1)
@@ -1539,8 +1524,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Analogies:** just like (1)
 
-#### Solution: Creating a unique robot army
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-creating-a-friendly-robot-army?u=76281980)
+#### [Solution: Creating a unique robot army](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-creating-a-friendly-robot-army?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,7 +1546,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-creating-a-friendly-robot-army?u=76281980&t=50)** and just spread the properties into a new object.
 >
-> **[0:55](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-creating-a-friendly-robot-army?u=76281980&t=55)** If we want to make a totally deep copy, we could use JSON.parse and JSON.stringify on the template.
+> **[0:55](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-creating-a-friendly-robot-army?u=76281980&t=55)** If we want to make a totally deep copy, we could use [[JSON]].parse and JSON.stringify on the template.
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-creating-a-friendly-robot-army?u=76281980&t=74)** The serial number is supposed to increment by 10 for every single robot.
 >
@@ -1607,8 +1591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pain point: Send extra parameters to an event handler
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980)
+#### [Pain point: Send extra parameters to an event handler](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,13 +1599,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=10)** Is it possible to add to those parameters, and if so, how?
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=14)** If you've written anything JavaScript for the web, you've surely written an event handler like this countless times.
+> **[0:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=14)** If you've written anything [[JavaScript]] for the web, you've surely written an event handler like this countless times.
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=19)** You pass the event object if needed inside the function.
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=22)** And if you need other contexts, it comes from variables to find outside the function.
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=27)** The same logic generally applies to other uses of callback functions like timers, promises, and AJAX requests.
+> **[0:27](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=27)** The same logic generally applies to other uses of callback functions like timers, promises, and [[AJAX]] requests.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=33)** There's usually some known parameters passed in and that's it, or at least that's how it appears.
 >
@@ -1634,7 +1617,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=52)** External data can change when there's asynchronous network activity taking place on a different schedule from when this function might execute.
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=59)** Inaccessible data can happen in component-based frameworks like React or Vue, where components you've built can't always know the data contained in the others.
+> **[0:59](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=59)** Inaccessible data can happen in component-based frameworks like [[React.js|React]] or [[Vue.js|Vue]], where components you've built can't always know the data contained in the others.
 >
 > **[1:07](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=67)** To solve problems like these, it would be nice to add the extra data we need as parameters, as we see here with the color parameter.
 >
@@ -1646,7 +1629,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=92)** There were rows of videos to watch in groups by category or purpose like favorites or recent.
 >
-> **[1:38](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=98)** The page configuration contained an array of the AJAX requests necessary to fetch those items.
+> **[1:38](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=98)** The page configuration contained an array of the AJAX requests necessary to [[Fetch]] those items.
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980&t=103)** And we had to make sure that the rows appeared in the correct order, no matter how long the network requests took to respond and be rendered.
 >
@@ -1670,15 +1653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[AJAX]] (2), [[JavaScript]] (1), web (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (2), [[JavaScript]] (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[Fetch]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ajax (2)
 > **Code Identifiers:** rowid (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [joe] (1)
 
-#### Solution: Use bind() a different way
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980)
+#### [Solution: Use bind() a different way](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,11 +1676,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=29)** You can do this until I get an error down here that I've run out of items, but I can see that the two buttons are doing exactly the same thing, where what I'd really like is for button one to place items in the first column and button two to place items in the second.
 >
-> **[0:44](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=44)** Here in my editor, I could see my two buttons with the IDs one and two spelled out as a word.
+> **[0:44](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=44)** Here in my editor, I could see my two buttons with the IDs one and two spelled out as a [[Microsoft Word|word]].
 >
 > **[0:51](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=51)** And then I have a slot, slot one and slot two, for the first and second column where those items will be placed.
 >
-> **[1:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=60)** Now in my JavaScript file, everything is wrapped up in a little myApp object, which is initialized via an init method.
+> **[1:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=60)** Now in my [[JavaScript]] file, everything is wrapped up in a little myApp object, which is initialized via an init method.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-bind-again-14186131?u=76281980&t=69)** And here's my dataset of items that I'm going to pull from.
 >
@@ -1806,7 +1788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), dom (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** placebot (5), myapp (1), preventdefault (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dom (1)
@@ -1815,8 +1797,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pain point: Function signature doesn’t accept arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-function-signature-doesn-t-accept-arrays-14180827?u=76281980)
+#### [Pain point: Function signature doesn’t accept arrays](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-function-signature-doesn-t-accept-arrays-14180827?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1839,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), web (1), api (1), next (1)
 > **Code Identifiers:** jquery (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (1)
@@ -1867,8 +1847,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Apply and spread
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980)
+#### [Solution: Apply and spread](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1857,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=16)** It has some similarities to bind as we'll see.
 >
-> **[0:19](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=19)** We're also going to reduce some duplication in this code using some more modern JavaScript tools.
+> **[0:19](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=19)** We're also going to reduce some duplication in this code using some more modern [[JavaScript]] tools.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=24)** Recapping our example here, we're using jQueries when method down here on line 25, which needs an argument list and can't accept arrays.
 >
@@ -1988,7 +1967,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=301)** There's one more thing I can do to get rid of this Array.from.
 >
-> **[5:08](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=308)** I can use what's called the rest operator, which looks just like the spread operator, except it works in the opposite direction.
+> **[5:08](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=308)** I can use what's called the [[Representational State Transfer (REST)|rest]] operator, which looks just like the spread operator, except it works in the opposite direction.
 >
 > **[5:16](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=316)** So I'm going to put in my three dots here and I'll call this args just to differentiate it from the built-in arguments object.
 >
@@ -2010,7 +1989,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=358)** It also works.
 >
-> **[6:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=360)** These three dots are quite a handy edition from ECMAScript 2015, but it's certainly a little tricky at first to remember which one is which.
+> **[6:00](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=360)** These three dots are quite a handy edition from [[ECMAScript]] 2015, but it's certainly a little tricky at first to remember which one is which.
 >
 > **[6:08](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-function-prototype-apply-14181693?u=76281980&t=368)** If it helps try remembering that spread is for invocation.
 >
@@ -2024,7 +2003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[JavaScript]] (5), data (3), feature (2), dom (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[JavaScript]] (5), [[ECMAScript]] (1)
 > **Env Vars:** es6 (5), dom (1)
 > **Analogies:** just like (2), similar to (1)
 > **Code Identifiers:** jqueries (1), foreach (1)
@@ -2033,8 +2012,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pain point: Refactoring function signatures
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-refactoring-function-signatures-14179881?u=76281980)
+#### [Pain point: Refactoring function signatures](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-refactoring-function-signatures-14179881?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2072,7 +2050,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-refactoring-function-signatures-14179881?u=76281980&t=115)** A good IDE can help with some of this, but it's all just a little bit more friction than we'd like to deal with.
 >
-> **[2:01](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-refactoring-function-signatures-14179881?u=76281980&t=121)** Coming up, we'll see one way to structure our function signatures that offers more flexibility, especially when we're working with modern JavaScript.
+> **[2:01](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-refactoring-function-signatures-14179881?u=76281980&t=121)** Coming up, we'll see one way to structure our function signatures that offers more flexibility, especially when we're working with modern [[JavaScript]].
 
 > [!info]- Semantic Content
 >
@@ -2084,8 +2062,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Objects for arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980)
+#### [Solution: Objects for arguments](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,7 +2078,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=34)** The parameter object also could have a lot more data than we actually need in the function that's using it.
 >
-> **[0:39](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=39)** We can just pull out the parts we do need and ignore the rest.
+> **[0:39](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=39)** We can just pull out the parts we do need and ignore the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=42)** This example shows that to an extent so far only using parameter p1.
 >
@@ -2115,7 +2092,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=73)** So with these benefits outlined, let's give this a try and some code.
 >
-> **[1:17](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=77)** In the editor, we're going to refactor play spot to use an object for its arguments first with older JavaScript, and then with some help from ES6.
+> **[1:17](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=77)** In the editor, we're going to refactor play spot to use an object for its arguments first with older [[JavaScript]], and then with some help from ES6.
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=86)** So we'll start by scrolling down to where the function is actually invoked.
 >
@@ -2157,7 +2134,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=209)** So everything is still working as we expect.
 >
-> **[3:33](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=213)** ECMAScript 2015 brought us some nice enhancements to syntax that make objects less verbose to work with, particularly as object parameters.
+> **[3:33](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=213)** [[ECMAScript]] 2015 brought us some nice enhancements to syntax that make objects less verbose to work with, particularly as object parameters.
 >
 > **[3:40](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-objects-for-arguments-14183626?u=76281980&t=220)** So let's try that out now.
 >
@@ -2215,7 +2192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[JavaScript]] (1), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1), [[ECMAScript]] (1)
 > **Code Identifiers:** toppadding (3), leftpadding (3)
 > **Env Vars:** es6 (5), api (1)
 > **CLI Commands:** make (5)
@@ -2224,8 +2201,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution overview: Story generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-overview-story-generator-25790976?u=76281980)
+#### [Solution overview: Story generator](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-overview-story-generator-25790976?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2233,7 +2209,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-overview-story-generator-25790976?u=76281980&t=5)** - [Instructor] Let's go over the solution to this Story Generator Challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-overview-story-generator-25790976?u=76281980&t=9)** Remember that we need to use an object as the one argument into the makeStory function, and we need to compute the minimum and maximum word length results correctly as well.
+> **[0:09](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-overview-story-generator-25790976?u=76281980&t=9)** Remember that we need to use an object as the one argument into the makeStory function, and we need to compute the minimum and maximum [[Microsoft Word|word]] length results correctly as well.
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/solution-overview-story-generator-25790976?u=76281980&t=27)** So, the first thing we'll do is change the function signature here.
 >
@@ -2286,8 +2262,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980)
+#### [Next steps and thank you](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,17 +2272,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=8)** This course is a bit of a new idea, and it could be expanded, and updated in the future.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=12)** Have you been working on a JavaScript project, and suddenly had a eureka, or an aha moment with a language feature?
+> **[0:12](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=12)** Have you been working on a [[JavaScript]] project, and suddenly had a eureka, or an aha moment with a language feature?
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=18)** Are there aspects of JavaScript you think are tricky and that you're just on the verge of understanding, but not quite getting there?
 >
-> **[0:23](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=23)** If so, leave a message in the course Q&A, or reach out directly to me on LinkedIn.
+> **[0:23](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=23)** If so, leave a message in the course Q&A, or reach out directly to me on [[LinkedIn]].
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=27)** It could be covered in a future edition of this course.
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=30)** I first really thought about getting rid of loops while reading the book Refactoring to Collections by Adam Wathan.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=36)** The PHP framework Laravel includes a very rich suite of functions for dealing with collections of things in a way that are much more expressive, and fun than using loops.
+> **[0:36](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=36)** The [[PHP]] framework [[Laravel]] includes a very rich suite of functions for dealing with collections of things in a way that are much more expressive, and fun than using loops.
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=44)** It was reading this book that really got me thinking this way, even though the book is written for a PHP audience, it might be worth considering for expanding that mindset.
 >
@@ -2317,7 +2292,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=74)** We occasionally discuss the idea of keeping our functions self-contained with the only inputs being the parameters passed, instead of relying on external data.
 >
-> **[1:22](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=82)** This is one of the tenants of functional programming, a way of thinking and doing to which JavaScript is pretty well suited.
+> **[1:22](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=82)** This is one of the tenants of [[Functional Programming]], a way of thinking and doing to which JavaScript is pretty well suited.
 >
 > **[1:28](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980&t=88)** If this sounds interesting to you, Learning Functional Programming with JavaScript ES6+ is a good introduction to functional programming in JavaScript.
 >
@@ -2337,7 +2312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (11), [[Functional Programming]] (3), [[PHP]] (2), [[Laravel]] (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[Functional Programming]] (3), [[PHP]] (2), [[Laravel]] (2), [[LinkedIn]] (1)
 > **Env Vars:** php (2), api (1), es6 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (2)

@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI tools for UX designers
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980)
+#### [AI tools for UX designers](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980&t=0)** - [Eric Nordquist] Are you a UX designer that's feeling a bit nervous about the future of your role with all these new AI tools being released?
 >
-> **[0:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980&t=7)** We will complete a branding exercise for a new business using tools such as Midjourney, DALL-E 2 and ChatGPT to create some website concepts, image icon assets, brand colors, and placeholder text content.
+> **[0:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980&t=7)** We will complete a branding exercise for a new business using tools such as [[Midjourney]], [[DALL-E]] 2 and [[ChatGPT]] to create some website concepts, image icon assets, brand colors, and placeholder text content.
 >
 > **[0:23](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980&t=23)** After completing this course, you will feel confident that you can successfully continue building on your skills using AI tools to ensure you are knowledgeable on the next generation of tools that can help you be a more efficient UX designer.
 >
@@ -96,13 +95,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), ai (2), business (1), [[Midjourney]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (1), [[DALL-E]] (1), [[ChatGPT]] (1)
 > **Env Vars:** dall (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [eric (1)
 
-#### Expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/expectations?u=76281980)
+#### [Expectations](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/expectations?u=76281980&t=5)** I'm assuming you're an experienced UI/UX designer with a lot of knowledge using design tools.
 >
-> **[0:10](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/expectations?u=76281980&t=10)** I will be using Figma throughout this course to store the outputs from the AI tools we'll be working with, but we won't be doing any actual work inside of Figma.
+> **[0:10](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/expectations?u=76281980&t=10)** I will be using [[Figma (Software)|Figma]] throughout this course to store the outputs from the AI tools we'll be working with, but we won't be doing any actual work inside of Figma.
 >
 > **[0:19](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/expectations?u=76281980&t=19)** So feel free to use Sketch or another design tool if you're more comfortable with those.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), ux (2), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **CLI Commands:** make (2)
 > **Tools:** figma (2)
 > **Analogies:** for example (1), picture (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Client's ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/client-s-ask?u=76281980)
+#### [Client's ask](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/client-s-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +216,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -229,8 +225,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to text-to-image AI apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980)
+#### [Introduction to text-to-image AI apps](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,17 +235,17 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=16)** Right, and if we think about that name text-to-image, it's hinting at the fact that we are going to be interacting with these tools via text.
 >
-> **[0:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=24)** Right, our creativity is going to come from how we word the prompts inside of these tools.
+> **[0:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=24)** Right, our creativity is going to come from how we [[Microsoft Word|word]] the prompts inside of these tools.
 >
 > **[0:30](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=30)** What words we use, and how we frame those words are going to drastically distinguish the type of artwork that comes out of it or the type of imagery.
 >
-> **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=40)** Right, so when you hear about prompt engineering, what we're talking about for the level that we're at is how we're typing that prompt in order to tell the tool what it is we're looking to get out of the tool.
+> **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=40)** Right, so when you hear about [[Prompt Engineering]], what we're talking about for the level that we're at is how we're typing that prompt in order to tell the tool what it is we're looking to get out of the tool.
 >
 > **[0:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=51)** So that's going to be the key thing that you need to practice and play with, and also where your creativity can shine.
 >
 > **[0:57](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=57)** So let's start looking at some of the top players inside the text-to-image generator space.
 >
-> **[1:02](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=62)** The first one I have open is Midjourney.
+> **[1:02](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=62)** The first one I have open is [[Midjourney]].
 >
 > **[1:04](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=64)** [Midjourney.com](https://Midjourney.com).
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=84)** So [midjourney.com](https://midjourney.com).
 >
-> **[1:26](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=86)** And the second one, which I think is a close second behind Midjourney, depending again on what type of assets you're trying to create because all these tools excel at creating different types of artwork.
+> **[1:26](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=86)** And the second one, which I think is a close second behind Midjourney, depending again on what type of assets you're trying to create because all these tools [[Microsoft Excel|excel]] at creating different types of artwork.
 >
 > **[1:36](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=96)** They're all based on different models on the backend.
 >
@@ -278,11 +273,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=108)** Right, maybe for one project you need something photorealistic, so you use Midjourney.
 >
-> **[1:53](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=113)** Maybe for another project, it's more Illustrator or paint-based, so maybe DALL-E does a better job.
+> **[1:53](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=113)** Maybe for another project, it's more Illustrator or paint-based, so maybe [[DALL-E]] does a better job.
 >
 > **[1:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=118)** But DALL-E too is the second one.
 >
-> **[1:59](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=119)** It's created by a company called OpenAI, which you've probably heard of because they also made ChatGPT, which we'll be using in this course as well.
+> **[1:59](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=119)** It's created by a company called OpenAI, which you've probably heard of because they also made [[ChatGPT]], which we'll be using in this course as well.
 >
 > **[2:06](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=126)** So for me, DALL-E, is what I use a lot for icons and some illustrative stuff.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=133)** And then these other three we're not going to get into in the course, but I want to go ahead and just make you aware of them.
 >
-> **[2:17](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=137)** The other one closely following Midjourney and DALL-E is by [stability.ai](https://stability.ai), and it is called Stable Diffusion.
+> **[2:17](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=137)** The other one closely following Midjourney and DALL-E is by [stability.ai](https://stability.ai), and it is called [[Stable Diffusion]].
 >
 > **[2:25](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=145)** Stable Diffusion is just as powerful as Midjourney and DALL-E 2, so make sure you keep that on your radar and look into that.
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=175)** And the next one we have is recently released by Twitter, now known as X, and it is Grok.
 >
-> **[3:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=180)** That one's still in early stages, as is Google's Gemini, which recently came out as well.
+> **[3:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=180)** That one's still in early stages, as is [[Google]]'s [[Gemini]], which recently came out as well.
 >
 > **[3:06](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980&t=186)** So again, we're going to focus on this course using the first two, Midjourney and DALL-E, but make sure you keep all these on your radar, play around with all of them, especially as the later two get more developed so you can start to see what each of these tools excels at.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (11), [[DALL-E]] (7), ai (3), [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (11), [[DALL-E]] (7), [[Stable Diffusion]] (3), [[Microsoft Word|Word]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** dall (7)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (2), [stability.ai](https://stability.ai) (2)
@@ -320,12 +315,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Midjourney: Setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980)
+#### [Midjourney: Setup](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=0)** - [Instructor] Of all the tools we're going to utilize throughout this course, Midjourney requires the most setup initially in order to get started.
+> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=0)** - [Instructor] Of all the tools we're going to utilize throughout this course, [[Midjourney]] requires the most setup initially in order to get started.
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=8)** So let's just take some time getting comfortable with Midjourney and how to set up the tool and how we're going to use it throughout the course.
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=125)** So it's a very busy page, but don't worry, it's all okay, we'll walk you through it, everything's going to be just fine.
 >
-> **[2:11](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=131)** We starting on the left hand side, we have all the channels just like we do in in Slack, Discord, whatever tool it is you're used to using.
+> **[2:11](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=131)** We starting on the left hand side, we have all the channels just like we do in in [[Slack]], Discord, whatever tool it is you're used to using.
 >
 > **[2:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-setup?u=76281980&t=138)** Starting off with the announcements, there's also a nice channel here for getting started.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (22), hit (1), [[Slack]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Midjourney]] (22), [[Slack]] (1)
 > **Tools:** discord (12), slack (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (3), [discord.com](https://discord.com) (1)
 > **Prerequisites:** set up (2), setup (1), getting started (1)
@@ -436,12 +430,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Midjourney: Using commands to create concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980)
+#### [Midjourney: Using commands to create concepts](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=0)** - [Instructor] Now that we have Discord and Midjourney working together, let's just dive right in and start creating some images.
+> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=0)** - [Instructor] Now that we have Discord and [[Midjourney]] working together, let's just dive right in and start creating some images.
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=7)** So like I mentioned previously, I'm going to be using Discord from a direct message with the Midjourney bot, which you can see here on the left-hand side, I would direct message with the Midjourney bot.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=176)** Let's just click outside of here to close this down.
 >
-> **[2:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=178)** Go over the rest of the tools and options that we have.
+> **[2:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=178)** Go over the [[Representational State Transfer (REST)|rest]] of the tools and options that we have.
 >
 > **[3:01](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=181)** Down beneath the preview images, you'll notice the U1, U2, U3, U4, and then what looks like a refresh icon.
 >
@@ -591,7 +584,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=370)** So again, R1, R2, R3.
 >
-> **[6:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=373)** So I'm going to click on upscale the third image, and that's going to create a higher resolution version for us, so we can then move into Figma.
+> **[6:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=373)** So I'm going to click on upscale the third image, and that's going to create a higher resolution version for us, so we can then move into [[Figma (Software)|Figma]].
 >
 > **[6:20](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=380)** So we'll click that now, and give Midjourney a minute to generate that.
 >
@@ -617,7 +610,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=435)** So just to increase our resolution.
 >
-> **[7:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=438)** And the other thing we can do is zoom out.
+> **[7:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=438)** And the other thing we can do is [[Zoom]] out.
 >
 > **[7:20](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=440)** We can zoom out by 2x, zoom out by 1.5.
 >
@@ -679,7 +672,7 @@ created: 2026-05-02
 >
 > **[9:14](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=554)** Let's do beautiful.
 >
-> **[9:19](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=559)** Go beautiful web design.
+> **[9:19](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=559)** Go beautiful [[Web Design]].
 >
 > **[9:23](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-using-commands-to-create-concepts?u=76281980&t=563)** And we're looking for a screenshot, let's add that in.
 >
@@ -771,7 +764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (21), prompt (9), [[Zoom]] (7), hit (6), [[Figma (Software)|Figma]] (5)
+> **Frameworks & Libraries:** [[Midjourney]] (21), [[Zoom]] (7), [[Figma (Software)|Figma]] (5), [[Web Design]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** discord (8), figma (5)
 > **Analogies:** imagine (9), for example (1)
 > **UI Navigation:** click on (5), select the (1)
@@ -780,14 +773,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Midjourney: Finer control using commands and parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980)
+#### [Midjourney: Finer control using commands and parameters](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=0)** - [Instructor] Okay, so we're making some really good progress here with very little effort, considering we've just typed in some super simple prompts.
 >
-> **[0:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=7)** So let's dive in a little bit more to other commands that Midjourney will accept as well as some of the parameters.
+> **[0:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=7)** So let's dive in a little bit more to other commands that [[Midjourney]] will accept as well as some of the parameters.
 >
 > **[0:14](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=14)** So to get you up to speed, let's just head back to [midjourney.com](https://midjourney.com).
 >
@@ -899,7 +891,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=288)** We're going to use the same prompt we did last time.
 >
-> **[4:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=291)** So I'll just come up here and grab our beautiful web design screenshot prompt we used, and we will copy that just forward slash imagine again.
+> **[4:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=291)** So I'll just come up here and grab our beautiful [[Web Design]] screenshot prompt we used, and we will copy that just forward slash imagine again.
 >
 > **[5:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=303)** Get our prompt.
 >
@@ -947,7 +939,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=418)** So let's go ahead and just grab that one.
 >
-> **[6:59](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=419)** Let's throw that into Figma as well, just to help us with our client feedback.
+> **[6:59](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=419)** Let's throw that into [[Figma (Software)|Figma]] as well, just to help us with our client feedback.
 >
 > **[7:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-finer-control-using-commands-and-parameters?u=76281980&t=423)** Remember, early on, we're just trying to create some dramatically different concepts just to run 'em by our client and understand what it is they're liking, which parts they don't like, if they don't like something.
 >
@@ -993,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (18), prompt (9), hit (4), [[Figma (Software)|Figma]] (4), web (2)
+> **Frameworks & Libraries:** [[Midjourney]] (18), [[Figma (Software)|Figma]] (4), [[Web Design]] (2)
 > **UI Navigation:** click on (4), go to (3), scroll down (1), scroll up (1)
 > **Analogies:** imagine (5), for example (1)
 > **Tools:** figma (4), discord (1)
@@ -1002,8 +994,7 @@ created: 2026-05-02
 > **URLs:** [midjourney.com](https://midjourney.com) (1)
 > **Warnings:** be aware (1)
 
-#### Midjourney: Uploading reference photos
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980)
+#### [Midjourney: Uploading reference photos](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,13 +1006,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=11)** Since so far we didn't have that.
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=13)** We asked Midjourney to create a variant of the illustrated version.
+> **[0:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=13)** We asked [[Midjourney]] to create a variant of the illustrated version.
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=16)** It didn't pick up on the illustrative part.
 >
 > **[0:19](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=19)** So right now, we just have this, and to me this isn't really conveying the idea of illustrative that I want to.
 >
-> **[0:25](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=25)** So if we go to Figma, you can see we've got these two concepts, I'm okay with, kind of a lighter one, a darker one, maybe.
+> **[0:25](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=25)** So if we go to [[Figma (Software)|Figma]], you can see we've got these two concepts, I'm okay with, kind of a lighter one, a darker one, maybe.
 >
 > **[0:33](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=33)** This isn't really conveying the illustrative aspect I want.
 >
@@ -1029,7 +1020,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=41)** So we can use whatever reference site you typically use whenever you were doing concept work, right?
 >
-> **[0:46](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=46)** We can go to Dribbble, go to Adobe Stock, just Google Search, use our image section, whatever it is.
+> **[0:46](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=46)** We can go to Dribbble, go to Adobe Stock, just [[Google]] Search, use our image section, whatever it is.
 >
 > **[0:52](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=52)** So for me, let's just go to Dribbble.
 >
@@ -1053,7 +1044,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=87)** And what we need to do for Midjourney is simply get a URL to the image.
 >
-> **[1:31](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=91)** So if we click on here and zoom in, we can right click and we would just say copy image link, right?
+> **[1:31](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=91)** So if we click on here and [[Zoom]] in, we can right click and we would just say copy image link, right?
 >
 > **[1:39](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/midjourney-uploading-reference-photos?u=76281980&t=99)** We need to feed Midjourney a link or URL to the image.
 >
@@ -1169,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (14), prompt (7), [[Figma (Software)|Figma]] (4), hit (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (14), [[Figma (Software)|Figma]] (4), [[Google]] (1), [[Zoom]] (1)
 > **UI Navigation:** go to (5), click on (5)
 > **Tools:** figma (4), discord (3)
 > **Env Vars:** url (6)
@@ -1178,12 +1169,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alternative and beta tools for concept work
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980)
+#### [Alternative and beta tools for concept work](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=0)** - [Instructor] Feeling good with where we are at this point, as far as learning Midjourney, to make some quick concepts, come back to our Figma file.
+> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=0)** - [Instructor] Feeling good with where we are at this point, as far as learning [[Midjourney]], to make some quick concepts, come back to our [[Figma (Software)|Figma]] file.
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=9)** I think you can see the idea with this hypothetical project we have for how we can use these text-to-image generators to quickly give us some concepts, so we can at least start getting feedback from the client on a direction that they like.
 >
@@ -1205,11 +1195,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=85)** This one just came out, and it's showing a lot of promise.
 >
-> **[1:28](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=88)** You can see it was in collaboration with Microsoft Research Asia and Peking University.
+> **[1:28](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=88)** You can see it was in collaboration with [[Microsoft]] Research Asia and Peking University.
 >
-> **[1:33](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=93)** But one of the things that stands out to me about this is that they're leveraging multiple large language models.
+> **[1:33](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=93)** But one of the things that stands out to me about this is that they're leveraging multiple [[Large Language Models (LLM)|large language models]].
 >
-> **[1:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=100)** So if I kind of zoom in here so you can read this, you can see "Our COLE system consists of multiple fine-tuned Large Language Models, as well as Large Multimodal Models and Diffusion Models."
+> **[1:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=100)** So if I kind of [[Zoom]] in here so you can read this, you can see "Our COLE system consists of multiple fine-tuned Large Language Models, as well as Large Multimodal Models and Diffusion Models."
 >
 > **[1:53](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=113)** So basically, they're trying to take a lot of the best of other folks and combine them together.
 >
@@ -1217,7 +1207,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=123)** So it's a step ahead of, you know, let's just create some images from text.
 >
-> **[2:08](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=128)** This is actually focused on more what we do as UX designers, but I also like this part here, where you can see they're working on, I'll zoom back out, just an overview of their method, but you can see they're working on creating these text fields right here, this Typography-LLM.
+> **[2:08](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=128)** This is actually focused on more what we do as UX designers, but I also like this part here, where you can see they're working on, I'll zoom back out, just an overview of their method, but you can see they're working on creating these text fields right here, this [[Typography]]-LLM.
 >
 > **[2:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=144)** So typography, like we're seeing, is a huge problem with these tools right now, right?
 >
@@ -1291,13 +1281,13 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=285)** You can see the Screenshot Scanner which we've done, Theme Generators, et cetera, so keep this one on your radar.
 >
-> **[4:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=291)** It's one of the smaller projects compared to Midjourney or DALL-E, of course, but it's starting to show some promise, so just keep Uizard on your radar.
+> **[4:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=291)** It's one of the smaller projects compared to Midjourney or [[DALL-E]], of course, but it's starting to show some promise, so just keep Uizard on your radar.
 >
 > **[5:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=300)** And the other one I want to talk about is Galileo AI.
 >
 > **[5:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=303)** This one I haven't been able to actually use yet.
 >
-> **[5:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=305)** It's so new that whenever I come in here, you can see if we type in, this is our prompt, so beautiful web design screenshot for a cafe, and hit Generate.
+> **[5:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=305)** It's so new that whenever I come in here, you can see if we type in, this is our prompt, so beautiful [[Web Design]] screenshot for a cafe, and hit Generate.
 >
 > **[5:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/alternative-and-beta-tools-for-concept-work?u=76281980&t=313)** Right now, we're being put on a wait list 'cause this is early beta, so early, early, early days on a lot of these tools, but keep this one in mind as well.
 >
@@ -1321,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (10), ai (7), [[Figma (Software)|Figma]] (3), [[Typography]] (3), prompt (3)
+> **Frameworks & Libraries:** [[Midjourney]] (10), [[Figma (Software)|Figma]] (3), [[Typography]] (3), [[Large Language Models (LLM)|Large language models]] (2), [[Zoom]] (2)
 > **Env Vars:** cole (2), dall (2), llm (1)
 > **CLI Commands:** make (3)
 > **URLs:** [automake.ai](https://automake.ai) (2), [u-i-z-a-r-d.io](https://u-i-z-a-r-d.io) (1)
@@ -1335,14 +1325,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upscaling your image assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980)
+#### [Upscaling your image assets](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=0)** - [Instructor] So we have a few different concepts that I'm ready to take to the client.
 >
-> **[0:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=3)** I just want to polish them up a little bit just so that they don't get too confused or too distracted by some of the details and nonsense stuff that was created by Midjourney.
+> **[0:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=3)** I just want to polish them up a little bit just so that they don't get too confused or too distracted by some of the details and nonsense stuff that was created by [[Midjourney]].
 >
 > **[0:13](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=13)** I think on this top one, I think I'm pretty good here, I'll be able to tell the client, for now just ignore the font and the logo, of course, but just the overall idea of this color scheme, really trying to see if they want the hero image to be a just more moody, cafe type of image, some of the product photography down here, just the color scheme.
 >
@@ -1412,7 +1401,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=207)** We can click our download button.
 >
-> **[3:30](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=210)** I'll hop over to Figma, and then we'll just go to our downloads folder, take the output that we received and drop it in.
+> **[3:30](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=210)** I'll hop over to [[Figma (Software)|Figma]], and then we'll just go to our downloads folder, take the output that we received and drop it in.
 >
 > **[3:39](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=219)** And there you go, as we can see, we have a much larger image.
 >
@@ -1424,11 +1413,11 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=247)** So just keep those two in mind.
 >
-> **[4:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=249)** May not be something that we necessarily needed to do for this stage of our project, but as we have other items or you have other tools, maybe you're creating icons or photography for hero sections, and you really want to zoom in on a part of the image in Midjourney, upscaling it, using these AI tools, gives you the ability to then go into Photoshop, tweak, convert, whatever it is you're trying to do, and you still have a lot of resolution left to use it in whatever your final product is.
+> **[4:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980&t=249)** May not be something that we necessarily needed to do for this stage of our project, but as we have other items or you have other tools, maybe you're creating icons or photography for hero sections, and you really want to [[Zoom]] in on a part of the image in Midjourney, upscaling it, using these AI tools, gives you the ability to then go into Photoshop, tweak, convert, whatever it is you're trying to do, and you still have a lot of resolution left to use it in whatever your final product is.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (4), ai (4), product (3), hit (2), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Midjourney]] (4), [[Figma (Software)|Figma]] (2), [[Zoom]] (1)
 > **URLs:** [bigjpg.com](https://bigjpg.com) (2), [letsenhance.io](https://letsenhance.io) (1)
 > **Env Vars:** dall (1), cpu (1)
 > **Tools:** figma (2)
@@ -1441,8 +1430,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating hero imagery with Midjourney
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980)
+#### [Creating hero imagery with Midjourney](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1438,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=2)** I met with the client and we now have some direction.
 >
-> **[0:06](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=6)** So after using Midjourney to very quickly create some concepts, I was able to go to the client with these three concepts.
+> **[0:06](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=6)** So after using [[Midjourney]] to very quickly create some concepts, I was able to go to the client with these three concepts.
 >
 > **[0:12](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=12)** I called it dark, light, and illustrative just to get some feedback from them.
 >
@@ -1546,7 +1534,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=245)** All right, so we'll upscale number four, go ahead and just view that.
 >
-> **[4:15](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=255)** We can go ahead and play with the zoom out that I mentioned earlier.
+> **[4:15](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=255)** We can go ahead and play with the [[Zoom]] out that I mentioned earlier.
 >
 > **[4:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=258)** Let's just say we want to build out maybe some more of these tables, see what it gives us on the left and the right of either side.
 >
@@ -1590,13 +1578,13 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=345)** Go ahead and just do a rough crop here 'cause I know I'm not going to want a lot of this stuff.
 >
-> **[5:50](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=350)** Go ahead and leave the windows for now.
+> **[5:50](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=350)** Go ahead and leave the [[Windows]] for now.
 >
 > **[5:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=351)** Worry about those later.
 >
 > **[5:53](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=353)** And we'll just give ourselves some room down here at the bottom, turn some things up, perfect.
 >
-> **[5:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=358)** Go on to Figma with that.
+> **[5:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=358)** Go on to [[Figma (Software)|Figma]] with that.
 >
 > **[6:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=360)** And we have some image assets starting to be created.
 >
@@ -1770,11 +1758,11 @@ created: 2026-05-02
 >
 > **[12:35](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=755)** So I think we have a good method for doing that.
 >
-> **[12:38](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=758)** Now we can move on to creating icons and other illustrative assets using DALL-E.
+> **[12:38](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980&t=758)** Now we can move on to creating icons and other illustrative assets using [[DALL-E]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (26), prompt (8), product (6), [[Zoom]] (6), hit (4)
+> **Frameworks & Libraries:** [[Midjourney]] (26), [[Zoom]] (6), [[Figma (Software)|Figma]] (2), [[Windows]] (1), [[DALL-E]] (1)
 > **Tools:** figma (2), discord (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** imagine (3)
@@ -1783,12 +1771,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Dall·E 2 for icon creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980)
+#### [Using Dall·E 2 for icon creation](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=0)** - [Instructor] So now that we know how to create our image assets inside of Midjourney that are not necessarily specific to our concepts, but building out our individual assets.
+> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=0)** - [Instructor] So now that we know how to create our image assets inside of [[Midjourney]] that are not necessarily specific to our concepts, but building out our individual assets.
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=8)** We know how to upscale those now using Bigjpg.
 >
@@ -1802,9 +1789,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=36)** So what we'll do is go to [openai.com](https://openai.com).
 >
-> **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=40)** OpenAI is the firm, the company, the consortium that makes ChatGPT, which we will also play with just a bit later.
+> **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=40)** OpenAI is the firm, the company, the consortium that makes [[ChatGPT]], which we will also play with just a bit later.
 >
-> **[0:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=48)** For now, we're going to focus on DALL-E 2.
+> **[0:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=48)** For now, we're going to focus on [[DALL-E]] 2.
 >
 > **[0:50](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=50)** Now of course, for us as UX professionals, I'm not too excited about how to navigate this website.
 >
@@ -1878,7 +1865,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=216)** You can see over here on the right hand side all the different versions that I've been playing with in the past.
 >
-> **[3:41](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=221)** So I'm just going to download this and we'll take it into Figma.
+> **[3:41](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=221)** So I'm just going to download this and we'll take it into [[Figma (Software)|Figma]].
 >
 > **[3:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=228)** Go our downloads folder, grab this and drag it over, perfect.
 >
@@ -1980,11 +1967,11 @@ created: 2026-05-02
 >
 > **[8:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=483)** So again, just all early tools that we can play around with to help us as we're starting to leverage AI into our workflows.
 >
-> **[8:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=489)** So the ability to generate icons using generative AI allows us to start to stray away from some of our more generic icon packs that we may be typically using today.
+> **[8:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-dall-e-2-for-icon-creation?u=76281980&t=489)** So the ability to generate icons using [[Generative AI]] allows us to start to stray away from some of our more generic icon packs that we may be typically using today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (17), [[DALL-E]] (17), [[ChatGPT]] (3), hit (3), [[Figma (Software)|Figma]] (3)
+> **Frameworks & Libraries:** [[Midjourney]] (17), [[DALL-E]] (17), [[ChatGPT]] (3), [[Figma (Software)|Figma]] (3), [[Generative AI]] (1)
 > **Env Vars:** dall (18)
 > **Analogies:** just like (7), imagine (2), similar to (1)
 > **UI Navigation:** go to (3), click on (1), scroll down (1)
@@ -1993,14 +1980,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (1), install (1)
 
-#### Creating vectors from your AI-generated imagery
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980)
+#### [Creating vectors from your AI-generated imagery](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=0)** - [Instructor] So we've learned how to use DALL-E 2 to help us make some icons.
+> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=0)** - [Instructor] So we've learned how to use [[DALL-E]] 2 to help us make some icons.
 >
-> **[0:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=3)** We also have a nice illustration from Midjourney, and then we just played around with Magician to see what it could do as well for creating icons for us.
+> **[0:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=3)** We also have a nice illustration from [[Midjourney]], and then we just played around with Magician to see what it could do as well for creating icons for us.
 >
 > **[0:12](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=12)** As we know as UX designers, the more we start working with illustrations and icons, we're going to need to start working with vectors.
 >
@@ -2010,7 +1996,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=35)** It's going to drop it into our canvas.
 >
-> **[0:38](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=38)** So we have up here now in our layers asset pane, a new coffee cup, we can close down Magician and zoom in, and we have our vectorized image of our coffee cup icon.
+> **[0:38](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=38)** So we have up here now in our layers asset pane, a new coffee cup, we can close down Magician and [[Zoom]] in, and we have our vectorized image of our coffee cup icon.
 >
 > **[0:49](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=49)** So that works great if the image that we wanted to vectorize came from Magician, but what about the other assets we worked on?
 >
@@ -2024,7 +2010,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=76)** So if we open up our browser and go to [Vectorizer.AI](https://Vectorizer.AI), it brings us to this page.
 >
-> **[1:22](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=82)** And all we need to do here is export out the Illustrator image from Figma and bring it into Vectorizer and Vectorizer is going to go ahead and take care of the rest for us.
+> **[1:22](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=82)** And all we need to do here is export out the Illustrator image from [[Figma (Software)|Figma]] and bring it into Vectorizer and Vectorizer is going to go ahead and take care of the [[Representational State Transfer (REST)|rest]] for us.
 >
 > **[1:31](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-vectors-from-your-ai-generated-imagery?u=76281980&t=91)** So I'll walk you through that process.
 >
@@ -2144,7 +2130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Midjourney]] (3), ai (3), [[DALL-E]] (2), ux (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Midjourney]] (3), [[DALL-E]] (2), [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** figma (8)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** click on (3), go to (1), drag and drop (1)
@@ -2158,8 +2144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating color swatches with Colormind and the other tools in Obsidian
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980)
+#### [Creating color swatches with Colormind and the other tools in Obsidian](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,7 +2170,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=55)** It's just going to help you kind of find color matchings.
 >
-> **[0:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=58)** Google has, of course, their color option as well, so it's very similar to that.
+> **[0:58](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=58)** [[Google]] has, of course, their color option as well, so it's very similar to that.
 >
 > **[1:02](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=62)** I like this one just because it has a nice little thing we can copy and paste.
 >
@@ -2291,7 +2276,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=242)** I'm just going to copy this.
 >
-> **[4:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=243)** Just take a screenshot of this and drop this right into Figma.
+> **[4:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=243)** Just take a screenshot of this and drop this right into [[Figma (Software)|Figma]].
 >
 > **[4:08](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=248)** Cool, so we can start to build out our branding and style guides that way.
 >
@@ -2365,7 +2350,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=392)** We're just trying to quickly create some color swatches, so we can start moving into a style guide for the client, but if we're really working on a personalized brand for colors, you know, for yourself or maybe for a long-term project you're working on, going through this process at [khroma.co](https://khroma.co) could also be useful for you.
 >
-> **[6:47](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=407)** And then lastly, we have Midjourney, right?
+> **[6:47](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=407)** And then lastly, we have [[Midjourney]], right?
 >
 > **[6:49](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=409)** Let's not forget the tools we already have.
 >
@@ -2405,7 +2390,7 @@ created: 2026-05-02
 >
 > **[8:12](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=492)** So not as useful for us in Midjourney, but just keep in mind all the different ways we can feed prompts into Midjourney just to see what type of output we can get.
 >
-> **[8:20](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=500)** Same thing with DALL-E as well and the other tools that we discussed.
+> **[8:20](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=500)** Same thing with [[DALL-E]] as well and the other tools that we discussed.
 >
 > **[8:23](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980&t=503)** So that's it for color palettes.
 >
@@ -2415,7 +2400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (8), hit (5), ai (2), prompt (2), [[DALL-E]] (2)
+> **Frameworks & Libraries:** [[Midjourney]] (8), [[DALL-E]] (2), [[Google]] (1), [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** go to (4), click on (1), scroll down (1), right-click (1)
 > **URLs:** [colormind.io](https://colormind.io) (2), [khroma.co](https://khroma.co) (2), [huemint.com](https://huemint.com) (1)
 > **Analogies:** similar to (2), imagine (2)
@@ -2424,8 +2409,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), we discussed (1)
 > **Tools:** figma (1), discord (1)
 
-#### Creating font pairing using Fontjoy and other tools in Obsidian
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980)
+#### [Creating font pairing using Fontjoy and other tools in Obsidian](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2439,7 +2423,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=22)** We need to start playing around with fonts as well.
 >
-> **[0:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=24)** And just like our color generators, there's a lot of font generators out there that use different models, different algorithms to pair fonts.
+> **[0:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=24)** And just like our color generators, there's a lot of font generators out there that use different models, different [[Algorithms]] to pair fonts.
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=31)** And we can easily just generate and scroll through some fonts until we find something that we like.
 >
@@ -2491,7 +2475,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=126)** Well, I'm going to just geek out here a little bit.
 >
-> **[2:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=129)** Unlock these, shift to command four, just grab all these, and bring them right into Figma, just as a guide for me.
+> **[2:09](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=129)** Unlock these, shift to command four, just grab all these, and bring them right into [[Figma (Software)|Figma]], just as a guide for me.
 >
 > **[2:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=138)** I'll clean that up.
 >
@@ -2517,7 +2501,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=198)** They have a whole library full of really gorgeous fonts.
 >
-> **[3:21](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=201)** But if we come to our products, we can just go to font pair generator.
+> **[3:21](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=201)** But if we come to our [[Microsoft Products|products]], we can just go to font pair generator.
 >
 > **[3:26](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=206)** And again, very nice looking website.
 >
@@ -2549,11 +2533,11 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=263)** So now that we have some direction on our fonts, we need to start working on tone of voice, and then we can move into logo creation.
 >
-> **[4:29](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=269)** So we'll start exploring ChatGPT and figure how we can combine all of this to start finalizing our branding style guide for the client.
+> **[4:29](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-font-pairing-using-fontjoy-and-other-tools-in-obsidian?u=76281980&t=269)** So we'll start exploring [[ChatGPT]] and figure how we can combine all of this to start finalizing our branding style guide for the client.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Algorithms]] (1), hit (1), [[Figma (Software)|Figma]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Figma (Software)|Figma]] (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
 > **URLs:** [fontjoy.com](https://fontjoy.com) (3), [monotype.com](https://monotype.com) (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
@@ -2562,12 +2546,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Chat GPT as your branding expert
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980)
+#### [Using Chat GPT as your branding expert](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=0)** - [Instructor] So, what we need to do now is start working on our content, and I want to leverage ChatGPT to do that.
+> **[0:00](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=0)** - [Instructor] So, what we need to do now is start working on our content, and I want to leverage [[ChatGPT]] to do that.
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=7)** It's one of the most exciting parts, I think, of kind of the AI tools that have come out and the efficiencies that I've seen in my work.
 >
@@ -2583,7 +2566,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=38)** We've got some product photography.
 >
-> **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=40)** We've learned how to make more product photography inside of Midjourney.
+> **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=40)** We've learned how to make more product photography inside of [[Midjourney]].
 >
 > **[0:43](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=43)** Sample content is something that we're going to focus on now.
 >
@@ -2591,7 +2574,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=48)** We have our colors, we have some fonts to find.
 >
-> **[0:49](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=49)** We've got those loaded up already inside of Figma.
+> **[0:49](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=49)** We've got those loaded up already inside of [[Figma (Software)|Figma]].
 >
 > **[0:52](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=52)** So, sample content, that is something that I just do not like doing as a UX designer.
 >
@@ -2609,7 +2592,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=96)** So, the first thing we'll do is go back to [openai.com](https://openai.com).
 >
-> **[1:39](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=99)** You already have an account from your DALL-E 2 session that we did in this course.
+> **[1:39](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=99)** You already have an account from your [[DALL-E]] 2 session that we did in this course.
 >
 > **[1:45](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=105)** So, we'll head back to OpenAI, we can click on ChatGPT, or we can click on Log In, whichever one you want to do.
 >
@@ -2789,7 +2772,7 @@ created: 2026-05-02
 >
 > **[9:24](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=564)** Okay, so what we're doing is we've used GPT to just come up with a name, right, for a company.
 >
-> **[9:29](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=569)** I didn't have to sit there and search Google and try and find names and try and find words.
+> **[9:29](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=569)** I didn't have to sit there and search [[Google]] and try and find names and try and find words.
 >
 > **[9:33](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=573)** I found something in two minutes, right, with a slogan that I can use to help build out my concept, so hugely valuable.
 >
@@ -2839,7 +2822,7 @@ created: 2026-05-02
 >
 > **[11:42](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=702)** And the more you utilize GPT to help with your creative concept work the more tricks you're going to learn.
 >
-> **[11:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=708)** I've seen people build sessions in GPT writing multi-page prompts so that they actually can use GPT as a full design team with researchers, designers, marketing professionals, project managers, to completely simulate a design thinking session, or a design thinking flow.
+> **[11:48](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=708)** I've seen people build sessions in GPT writing multi-page prompts so that they actually can use GPT as a full design team with researchers, designers, marketing professionals, project managers, to completely simulate a [[Design Thinking]] session, or a design thinking flow.
 >
 > **[12:08](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-chat-gpt-as-your-branding-expert?u=76281980&t=728)** So, it's a really powerful tool for you to play around with.
 >
@@ -2857,7 +2840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), ux (7), [[Midjourney]] (5), ai (2), product (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Midjourney]] (5), [[Figma (Software)|Figma]] (2), [[DALL-E]] (2), [[Design Thinking]] (2)
 > **Env Vars:** gpt (22), dall (2)
 > **CLI Commands:** brew (6), make (3), find (3)
 > **Definitions:** is a  (6)
@@ -2866,8 +2849,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (2)
 > **Tools:** figma (2)
 
-#### Using AI for concept logos
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980)
+#### [Using AI for concept logos](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2899,7 +2881,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=78)** You're not going to lose your job making logos tomorrow because of these tools.
 >
-> **[1:22](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=82)** For me, just kind of like Midjourney, these tools are good to generate quick concepts that help me start to understand what direction I then need to create the logo.
+> **[1:22](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=82)** For me, just kind of like [[Midjourney]], these tools are good to generate quick concepts that help me start to understand what direction I then need to create the logo.
 >
 > **[1:33](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=93)** So today, anything AI gives us is still going to need some tweaking on our part, but the amount of time that is reduced using these tools to generate quick concepts is amazing.
 >
@@ -2965,7 +2947,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=220)** Whatever we want to do, we can download this.
 >
-> **[3:42](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=222)** I'm just going to grab it real quick and just throw it right into Figma, just so that we have something to work with.
+> **[3:42](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=222)** I'm just going to grab it real quick and just throw it right into [[Figma (Software)|Figma]], just so that we have something to work with.
 >
 > **[3:51](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=231)** This'll be one idea that we can show the client.
 >
@@ -3155,7 +3137,7 @@ created: 2026-05-02
 >
 > **[9:38](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=578)** So basically it just really elevates the speed at which I can create concept logos.
 >
-> **[9:43](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=583)** So my old workflow would've been to just search Google for coffee shop logos or something similar, start getting concepts that I would use for inspiration.
+> **[9:43](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=583)** So my old workflow would've been to just search [[Google]] for coffee shop logos or something similar, start getting concepts that I would use for inspiration.
 >
 > **[9:52](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/using-ai-for-concept-logos?u=76281980&t=592)** But with AI sites, because I can add in my own company name and slogan, right?
 >
@@ -3167,7 +3149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (2), [[Figma (Software)|Figma]] (2), data (1), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Midjourney]] (1), [[Google]] (1)
 > **UI Navigation:** click on (5), go to (4)
 > **CLI Commands:** brew (5), make (1)
 > **Env Vars:** gpt (5)
@@ -3181,8 +3163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrapping up
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980)
+#### [Wrapping up](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3190,7 +3171,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=1)** You have made it to the end of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=5)** During our project, I introduced you to Midjourney, DALI-2, and ChatGPT.
+> **[0:05](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=5)** During our project, I introduced you to [[Midjourney]], DALI-2, and [[ChatGPT]].
 >
 > **[0:10](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=10)** We also used several other tools to create our brand colors, our font pairings, and some logos.
 >
@@ -3200,13 +3181,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=40)** A good next step would be for you to continue studying how to write prompts for all the major tools we reviewed so you're better able to tailor the output to your needs and also to really start to include your creativity into this process.
 >
-> **[0:56](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=56)** These tools are super robust and those that master prompt engineering will be leaders in this space.
+> **[0:56](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=56)** These tools are super robust and those that master [[Prompt Engineering]] will be leaders in this space.
 >
 > **[1:03](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980&t=63)** You should feel confident now in your ability to quickly create concepts, image and icon assets, as well as leverage smaller tools to help increase the resolution and vectorizing of images and that you feel you will be completely successful as a UX designer surrounded by this new age of AI tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), ux (2), [[Midjourney]] (1), [[ChatGPT]] (1), next (1)
+> **Frameworks & Libraries:** [[Midjourney]] (1), [[ChatGPT]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** dali (1)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)

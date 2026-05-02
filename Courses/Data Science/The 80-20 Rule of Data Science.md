@@ -78,14 +78,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the 80/20 rule of data science?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980)
+#### [What is the 80/20 rule of data science?](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980&t=0)** - Data science can feel overwhelming.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980&t=0)** - [[Data Science]] can feel overwhelming.
 >
-> **[0:02](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980&t=2)** The sheer amount of data, complex algorithms, and sophisticated software out there can create the illusion that massive effort is required.
+> **[0:02](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980&t=2)** The sheer amount of data, complex [[Algorithms]], and sophisticated software out there can create the illusion that massive effort is required.
 >
 > **[0:11](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980&t=11)** But here's the secret, that's often not the case.
 >
@@ -105,12 +104,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Algorithms]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - data (1)
 
-#### What you should know for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-you-should-know-for-this-course?u=76281980)
+#### [What you should know for this course](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-you-should-know-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-you-should-know-for-this-course?u=76281980&t=53)** These form the foundations on which your analysis stands.
 >
-> **[0:59](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-you-should-know-for-this-course?u=76281980&t=59)** Now, here's what you don't need when applying the 80-20 rules of data science.
+> **[0:59](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-you-should-know-for-this-course?u=76281980&t=59)** Now, here's what you don't need when applying the 80-20 rules of [[Data Science]].
 >
 > **[1:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-you-should-know-for-this-course?u=76281980&t=64)** You can leave behind the most cutting edge AI models since they're often overkill.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -159,12 +157,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining success
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980)
+#### [Defining success](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980&t=0)** - In the realm of data science, the thrill often lies in building models, analyzing trends, and crafting insights from raw data.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980&t=0)** - In the realm of [[Data Science]], the thrill often lies in building models, analyzing trends, and crafting insights from raw data.
 >
 > **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980&t=9)** These are all critical, yet without clearly delineating what success looks like for your project, all these efforts risk amounting to very little.
 >
@@ -256,18 +253,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (2), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Make minimum viable products (MVP) your friend
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/make-minimal-viable-products-mvp-your-friend?u=76281980)
+#### [Make minimum viable products (MVP) your friend](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/make-minimal-viable-products-mvp-your-friend?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/make-minimal-viable-products-mvp-your-friend?u=76281980&t=0)** - Here's the secret to success in data science that so many teams overlook.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/make-minimal-viable-products-mvp-your-friend?u=76281980&t=0)** - Here's the secret to success in [[Data Science]] that so many teams overlook.
 >
 > **[0:05](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/make-minimal-viable-products-mvp-your-friend?u=76281980&t=5)** Start small and iterate fast.
 >
@@ -333,20 +329,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (2), functional (2), teams (1), application (1)
+> **Frameworks & Libraries:** [[Data Science]] (4)
 > **Env Vars:** mvp (8)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - here (1)
 
-#### The point of diminishing returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980)
+#### [The point of diminishing returns](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=0)** - In data science, there's an undeniable thrill in pursuing perfection, that relentless drive to squeeze every last drop of accuracy or predictive power out of your model.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=0)** - In [[Data Science]], there's an undeniable thrill in pursuing perfection, that relentless drive to squeeze every last drop of accuracy or predictive power out of your model.
 >
-> **[0:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=14)** The idea is more data, more complex models, more tweaking, and surely those performance metrics will keep soaring, right?
+> **[0:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=14)** The idea is more data, more complex models, more tweaking, and surely those [[Performance Metrics]] will keep soaring, right?
 >
 > **[0:23](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=23)** Well, not quite.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=67)** Encouraged.
 >
-> **[1:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=69)** You invest time investigating advanced text analysis, techniques, building custom features based on word frequency.
+> **[1:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=69)** You invest time investigating advanced text analysis, techniques, building custom features based on [[Microsoft Word|word]] frequency.
 >
 > **[1:18](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=78)** After significant effort, you managed to reach 93%.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=130)** The exact spot where it flattens significantly is when you might be reaching your point of diminishing returns.
 >
-> **[2:17](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=137)** This point of diminishing returns is a reminder that data science products are also subject to cost benefit analysis, not just examining the technical performance of a model.
+> **[2:17](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=137)** This point of diminishing returns is a reminder that data science [[Microsoft Products|products]] are also subject to cost benefit analysis, not just examining the technical performance of a model.
 >
 > **[2:29](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/the-point-of-diminishing-returns?u=76281980&t=149)** To think about the cost benefit of a data science project, you can ask yourself about each of these factors.
 >
@@ -424,18 +419,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (1), [[Performance Metrics]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Performance Metrics]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - in (1)
 
-#### Why do data science projects fail?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980)
+#### [Why do data science projects fail?](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=0)** - The harsh reality of data science is that a significant number of data science projects fail to deliver on their potential.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=0)** - The harsh reality of [[Data Science]] is that a significant number of data science projects fail to deliver on their potential.
 >
 > **[0:08](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=8)** They might get stuck in development purgatory, produce results that are irrelevant to the business, have insurmountable implementation issues, or lose the confidence of their business customers.
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=96)** It requires not just data, but appropriate software, computational power, and crucially, skilled data scientists.
 >
-> **[1:45](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=105)** Underestimating these needs can lead to project stalling with insufficient tools, a lack of necessary expertise, and a loss of customer confidence when the data science team has to return to the customer to say they fail to anticipate the costs, software needs, human resources, or some other necessary component.
+> **[1:45](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=105)** Underestimating these needs can lead to project stalling with insufficient tools, a lack of necessary expertise, and a loss of customer confidence when the data science team has to return to the customer to say they fail to anticipate the costs, software needs, [[Human Resources (HR)|human resources]], or some other necessary component.
 >
 > **[2:08](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=128)** The time factor.
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=146)** Misaligned incentives.
 >
-> **[2:28](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=148)** Data scientists often get excited by bleeding edge algorithms and technical elegance.
+> **[2:28](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=148)** Data scientists often get excited by bleeding edge [[Algorithms]] and technical elegance.
 >
 > **[2:35](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/why-do-data-science-projects-fail?u=76281980&t=155)** But if the incentives within the organization solely reward complexity over utility, they may build solutions that are impressive in theory but impractical for the real world.
 >
@@ -511,17 +505,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), management (5), business (2), power (2), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (10), [[Human Resources (HR)|Human resources]] (1), [[Algorithms]] (1)
 > **CLI Commands:** rails (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### Plan for deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980)
+#### [Plan for deployment](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=0)** - Think of a data science model, like a finely-crafted surgical scalpel.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=0)** - Think of a [[Data Science]] model, like a finely-crafted surgical scalpel.
 >
 > **[0:05](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=5)** It may be brilliant, sharp and polished, but its true value lies in how it's used.
 >
@@ -535,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=43)** Will the results be fed into a dashboard?
 >
-> **[0:46](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=46)** Directly triggered action in another system, or support human decision-making?
+> **[0:46](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=46)** Directly triggered action in another system, or support human [[Decision-Making]]?
 >
 > **[0:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/plan-for-deployment?u=76281980&t=52)** Each has different implications for how the model needs to be integrated.
 >
@@ -595,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Decision-Making]] (1), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mvp (1)
 > **Prerequisites:** set up (1)
@@ -606,8 +599,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comb the literature
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980)
+#### [Comb the literature](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=10)** Effective coaching starts with understanding not just your own team's talents and opportunities, but also combing through videos, reports, and analysis of the opponents.
 >
-> **[0:22](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=22)** The same goes for data science.
+> **[0:22](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=22)** The same goes for [[Data Science]].
 >
 > **[0:24](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=24)** We often look around to understand what has been done before diving headfirst into a major analysis.
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=58)** What behaviors and demographics have been significant in similar studies?
 >
-> **[1:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=64)** Their findings become a springboard for your feature engineering.
+> **[1:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=64)** Their findings become a springboard for your [[Feature Engineering]].
 >
 > **[1:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=69)** Second, data source scouting.
 >
@@ -649,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=107)** And fourth, realistic benchmarks.
 >
-> **[1:50](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=110)** Published papers often include performance metrics.
+> **[1:50](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=110)** Published papers often include [[Performance Metrics]].
 >
 > **[1:54](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=114)** This gives you an achievable baseline and lets you spot if your results are shockingly good, which suggests maybe you had an error such as data leakage or vastly underperforming, which hints that more work is likely needed.
 >
@@ -665,7 +657,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=149)** Second, use reputable sources.
 >
-> **[2:33](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=153)** Focus on academic journals, conference papers, and maybe even code repositories like GitHub.
+> **[2:33](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=153)** Focus on academic journals, conference papers, and maybe even code repositories like [[GitHub]].
 >
 > **[2:39](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980&t=159)** It's quality over quantity, so don't get fooled by marketing pamphlets that promise the world and deliver nothing.
 >
@@ -697,19 +689,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (3), feature (1), [[Feature Engineering]] (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Feature Engineering]] (1), [[Performance Metrics]] (1), [[GitHub]] (1)
 > **Analogies:** imagine (2), such as (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - imagine (1)
 
-#### Triaging data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980)
+#### [Triaging data sources](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=0)** - Just as patients in an ER need to be triaged to prioritize care and stabilize those most in need, data science demands a similar triage approach.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=0)** - Just as patients in an ER need to be triaged to prioritize care and stabilize those most in need, [[Data Science]] demands a similar triage approach.
 >
 > **[0:12](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=12)** Not all data sources are created equal.
 >
@@ -749,7 +740,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=90)** Fourth is frequency of updates.
 >
-> **[1:33](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=93)** If you are predicting a real-time outcome, then stale annually, updated data won't cut it.
+> **[1:33](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=93)** If you are predicting a [[Real-Time]] outcome, then stale annually, updated data won't cut it.
 >
 > **[1:41](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/triaging-data-sources?u=76281980&t=101)** Find data with time resolution and update frequency that aligns with your problem.
 >
@@ -781,12 +772,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Security]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Real-Time]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - just (1)
 
-#### Checking data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980)
+#### [Checking data quality](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=14)** Bad data can derail models, leading to laughably incorrect predictions and costly business mistakes.
 >
-> **[0:22](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=22)** So let's roll up our sleeves and get into some data quality detective work so you can set the right foundation for everything that follows.
+> **[0:22](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=22)** So let's roll up our sleeves and get into some [[Data Quality]] detective work so you can set the right foundation for everything that follows.
 >
 > **[0:31](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=31)** To do that, let's build you a quality control toolkit.
 >
@@ -814,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=60)** You should inquire about why the data is missing.
 >
-> **[1:03](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=63)** High rates of missing data point to data collection problems or signal that correcting these missing data might not be worth the hassle.
+> **[1:03](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=63)** High rates of missing data point to [[Data Collection]] problems or signal that correcting these missing data might not be worth the hassle.
 >
 > **[1:13](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=73)** Range check reality.
 >
@@ -860,7 +850,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=173)** You don't need to hand inspect every row.
 >
-> **[2:56](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=176)** Use descriptive statistics and random sampling to understand the overall quality of the features.
+> **[2:56](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=176)** Use descriptive [[Statistics]] and random sampling to understand the overall quality of the features.
 >
 > **[3:03](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/checking-data-quality?u=76281980&t=183)** And we're going to want to automate the basics.
 >
@@ -888,15 +878,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), business (3), product (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Data Collection]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Speakers:** - imagine (1)
 
-#### Dealing with missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980)
+#### [Dealing with missing data](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,9 +925,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980&t=90)** Understanding the why behind missing data helps you choose the right fix.
 >
-> **[1:37](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980&t=97)** You also need to consider the implications on algorithms.
+> **[1:37](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980&t=97)** You also need to consider the implications on [[Algorithms]].
 >
-> **[1:42](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980&t=102)** There are some tolerant algorithms, like decision trees or certain ensemble models that can handle missing data without major modeling interruptions.
+> **[1:42](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980&t=102)** There are some tolerant algorithms, like [[Decision Trees]] or certain ensemble models that can handle missing data without major modeling interruptions.
 >
 > **[1:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/dealing-with-missing-data?u=76281980&t=112)** Other algorithms, such as linear aggression, have to drop observations when a feature is missing.
 >
@@ -970,13 +959,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), feature (4), [[Algorithms]] (3), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Decision Trees]] (1)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - imagine (1)
 
-#### Finding strong features
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/finding-strong-features?u=76281980)
+#### [Finding strong features](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/finding-strong-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1022,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (17)
 > **Definitions:** is a  (1)
 > **Speakers:** - not (1)
 
@@ -1043,12 +1030,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Feature transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980)
+#### [Feature transformations](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=0)** - Feature transformations are one of the best examples of applying the 80-20 rule of data science.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=0)** - Feature transformations are one of the best examples of applying the 80-20 rule of [[Data Science]].
 >
 > **[0:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=7)** They can result in boosting performance with minimal effort since you don't need to gather new data sources or clean data sets.
 >
@@ -1064,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=47)** In other cases, the algorithm assumptions work best for certain types of data.
 >
-> **[0:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=52)** Think of linear regression, which can give good results in many situations, but works best with normally distributed data.
+> **[0:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=52)** Think of [[Linear Regression]], which can give good results in many situations, but works best with normally distributed data.
 >
 > **[1:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980&t=60)** A feature transformation can improve the model performance substantially in this case.
 >
@@ -1096,13 +1082,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), data (6), [[Linear Regression]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Linear Regression]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - feature (1)
 
-#### Transforming continuous features
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980)
+#### [Transforming continuous features](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,15 +1111,15 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=46)** Think of it like grouping different rainfall amounts, one to 10 millimeters drought, 10 to 30 millimeters ideal growth, more than 30 millimeters oversaturation.
 >
-> **[0:58](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=58)** Now within a model like linear regression, we're not limited to a single regression coefficient to represent the impact.
+> **[0:58](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=58)** Now within a model like [[Linear Regression]], we're not limited to a single regression coefficient to represent the impact.
 >
 > **[1:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=67)** Each bin can have its own impact on crop yield revealing those non-linear effects.
 >
-> **[1:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=74)** Of course, more complicated algorithms can allow for non-linear interactions without the need for transformations.
+> **[1:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=74)** Of course, more complicated [[Algorithms]] can allow for non-linear interactions without the need for transformations.
 >
 > **[1:22](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=82)** Another very useful transformation is turning multiple features into something more insightful.
 >
-> **[1:28](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=88)** Ratios, such as the price per square foot, and products of two features can often provide substantial value.
+> **[1:28](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=88)** Ratios, such as the price per square foot, and [[Microsoft Products|products]] of two features can often provide substantial value.
 >
 > **[1:38](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/transforming-continuous-features?u=76281980&t=98)** The 80/20 approach to transformations is about doing the simple first, and then seeing what helps.
 >
@@ -1156,13 +1141,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Linear Regression]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), think of it like (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - imagine (1)
 
-#### Interaction terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/interaction-terms?u=76281980)
+#### [Interaction terms](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/interaction-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,7 +1154,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/interaction-terms?u=76281980&t=3)** Flour and sugar are important, but it's their interaction that creates the delicious result.
 >
-> **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/interaction-terms?u=76281980&t=9)** Similarly, features in a data science model can interact to create effects you can't see in isolation.
+> **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/interaction-terms?u=76281980&t=9)** Similarly, features in a [[Data Science]] model can interact to create effects you can't see in isolation.
 >
 > **[0:17](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/interaction-terms?u=76281980&t=17)** That's where interaction terms come in.
 >
@@ -1240,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), data (2), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1248,22 +1232,21 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - imagine (1)
 
-#### Adding data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980)
+#### [Adding data sources](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=0)** - Let's start this video with a key takeaway.
 >
-> **[0:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=4)** Throwing fancy algorithms at limited data gets you only so far.
+> **[0:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=4)** Throwing fancy [[Algorithms]] at limited data gets you only so far.
 >
 > **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=9)** Unleashing your model's potential often means finding the right data sources and features to feed it.
 >
 > **[0:17](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=17)** Imagine you're building a self-driving car.
 >
-> **[0:20](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=20)** Top-notch computer vision algorithms are crucial, but without a map and sensor data, your car goes nowhere.
+> **[0:20](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=20)** Top-notch [[Computer Vision]] algorithms are crucial, but without a map and sensor data, your car goes nowhere.
 >
-> **[0:29](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=29)** The same applies to data science projects.
+> **[0:29](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=29)** The same applies to [[Data Science]] projects.
 >
 > **[0:32](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/adding-data-sources?u=76281980&t=32)** New data unlocks new insights.
 >
@@ -1337,7 +1320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Algorithms]] (2), [[Computer Vision]] (1), application (1), game (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Computer Vision]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
@@ -1345,8 +1328,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - let (1)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,9 +1336,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=8)** In fact, when the residuals are normal, it is the best linear algorithm.
 >
-> **[0:15](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=15)** More advanced algorithms are tempting and can often offer stronger predictive value, but don't underestimate the power of simplicity and explainability.
+> **[0:15](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=15)** More advanced [[Algorithms]] are tempting and can often offer stronger predictive value, but don't underestimate the power of simplicity and explainability.
 >
-> **[0:27](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=27)** Linear regression is often the best place to start when predicting continuous outcomes, offering insight, simplicity of interpretation, and a solid baseline on which to improve.
+> **[0:27](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=27)** [[Linear Regression]] is often the best place to start when predicting continuous outcomes, offering insight, simplicity of interpretation, and a solid baseline on which to improve.
 >
 > **[0:41](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=41)** At its heart, linear aggression is about finding the best fit line through a multidimensional scatterplot of your data.
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=116)** If the residuals are normally distributed, then linear regression is often particularly strong.
 >
-> **[2:02](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=122)** If you're seeing patterns in the residuals, then you probably should consider feature engineering, adding new features and data sources, or a more advanced model.
+> **[2:02](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=122)** If you're seeing patterns in the residuals, then you probably should consider [[Feature Engineering]], adding new features and data sources, or a more advanced model.
 >
 > **[2:13](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/linear-regression?u=76281980&t=133)** Similarly, if the model performance is insufficient to be useful, then you should explore new features and data sources, but also be open to moving to a more advanced model.
 >
@@ -1396,29 +1378,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Linear Regression]] (4), [[Algorithms]] (1), power (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Algorithms]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - least (1)
 
-#### Logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980)
+#### [Logistic regression](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=0)** - The logistic function, the basis of logistic regression is another old algorithm.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=0)** - The logistic function, the basis of [[Logistic Regression]] is another old algorithm.
 >
 > **[0:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=7)** Its history dates back more than 100 years, and it is still providing a great deal of power and insight today for problems with binary or classification outcomes.
 >
 > **[0:19](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=19)** Binary outcomes, ones that take on a zero or one, either yes or no, are found throughout the business world.
 >
-> **[0:27](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=27)** In banking, there is risk and fraud.
+> **[0:27](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=27)** In [[Banking]], there is risk and fraud.
 >
 > **[0:30](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=30)** In health, we predict mortality, and retail where we find binary outcomes like cross-sell and churn.
 >
 > **[0:39](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=39)** Logistic regression can even be used when there are more than two outcomes or when the outcomes are ordered, like predicting if someone will finish high school, college, graduate school, or higher.
 >
-> **[0:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=52)** Logistic regression is a great example of using the 80-20 rule of data science because it gives us a prediction of probability that is useful for decision-making and it is readily interpretable.
+> **[0:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=52)** Logistic regression is a great example of using the 80-20 rule of [[Data Science]] because it gives us a prediction of [[Probability]] that is useful for [[Decision-Making]] and it is readily interpretable.
 >
 > **[1:05](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/logistic-regression?u=76281980&t=65)** The coefficients tell us how much a feature influences the probability and in what direction.
 >
@@ -1438,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Probability]] (3), feature (2), power (1), business (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (6), [[Probability]] (3), [[Banking]] (1), [[Data Science]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
@@ -1448,8 +1429,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980)
+#### [Choosing metrics](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980&t=19)** It depends on your goal.
 >
-> **[0:21](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980&t=21)** Data science metrics are very much the same.
+> **[0:21](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980&t=21)** [[Data Science]] metrics are very much the same.
 >
 > **[0:25](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980&t=25)** Different metrics shine a light on different aspects of performance, and some are more appropriate than others for specific problems.
 >
@@ -1531,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.1 (1)
@@ -1539,8 +1519,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - not (1)
 
-#### Designing simple dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980)
+#### [Designing simple dashboards](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,7 +1527,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=9)** But when you present a long spreadsheet of results, eyes glaze over.
 >
-> **[0:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=14)** That's where dashboards step in.
+> **[0:14](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=14)** That's where [[Dashboards]] step in.
 >
 > **[0:16](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=16)** They bridge the gap between complex analysis and actionable takeaways.
 >
@@ -1588,7 +1567,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=99)** Have you included the right information for your target audience?
 >
-> **[1:44](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=104)** You should have model performance metrics.
+> **[1:44](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=104)** You should have model [[Performance Metrics]].
 >
 > **[1:47](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=107)** Does the chosen metric, such as accuracy or area under the curve, make sense?
 >
@@ -1618,25 +1597,24 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=183)** Remember, a dashboard isn't just about pretty visuals.
 >
-> **[3:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=187)** It's your tool to drive understanding, track progress, and trigger the right actions from your data science insights.
+> **[3:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/designing-simple-dashboards?u=76281980&t=187)** It's your tool to drive understanding, track progress, and trigger the right actions from your [[Data Science]] insights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (4), data (4), feature (2), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Performance Metrics]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Rapid prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980)
+#### [Rapid prototyping](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=0)** - In data science, sometimes the fastest path to the best solution is by building lots of good enough models quickly.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=0)** - In [[Data Science]], sometimes the fastest path to the best solution is by building lots of good enough models quickly.
 >
 > **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=9)** Embrace experimentation and iteration.
 >
-> **[0:13](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=13)** What are the advantages of rapid prototyping?
+> **[0:13](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=13)** What are the advantages of rapid [[Prototyping]]?
 >
 > **[0:16](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=16)** Well, it allows you to uncover hidden assumptions.
 >
@@ -1648,19 +1626,19 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=40)** Additionally, these early prototypes allow you to get feedback from stakeholders early on, ensuring your project stays aligned with real world needs.
 >
-> **[0:51](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=51)** One of my favorite ways of developing rapid prototyping is using automated machine learning software, AutoML for short.
+> **[0:51](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=51)** One of my favorite ways of developing rapid prototyping is using [[Automated Machine Learning (AutoML)|automated machine learning]] software, AutoML for short.
 >
 > **[1:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=60)** AutoML tools streamline large parts of the model building process.
 >
-> **[1:06](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=66)** It assists a little in the data cleaning process by identifying issues like missing values, format inconsistencies, and potential target leakage.
+> **[1:06](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=66)** It assists a little in the [[Data Cleaning]] process by identifying issues like missing values, format inconsistencies, and potential target leakage.
 >
 > **[1:17](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=77)** It automatically tries different feature transformations and combinations so you don't have to manually explore them.
 >
-> **[1:25](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=85)** It tests a large variety of algorithms to find ones that are suitable for your data and often does hyper-parameter tuning automatically.
+> **[1:25](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=85)** It tests a large variety of [[Algorithms]] to find ones that are suitable for your data and often does hyper-parameter tuning automatically.
 >
 > **[1:34](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=94)** Have you tried AutoML software in your work?
 >
-> **[1:38](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=98)** There are many options to choose from out there, including DataRobot, H2O, SageMaker, Google Cloud AutoML, and Azure AutoML.
+> **[1:38](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=98)** There are many options to choose from out there, including DataRobot, H2O, SageMaker, [[Google Cloud Platform (GCP)|Google Cloud]] AutoML, and [[Microsoft Azure|Azure]] AutoML.
 >
 > **[1:49](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/rapid-prototyping?u=76281980&t=109)** AutoML is not a magic bullet, but is certainly helpful in the rapid prototyping process.
 >
@@ -1670,17 +1648,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Prototyping]] (5), feature (1), [[Algorithms]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Data Science]] (2), [[Data Cleaning]] (1), [[Algorithms]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** h2o (1)
 > **Speakers:** - in (1)
 
-#### When to stop
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/when-to-stop?u=76281980)
+#### [When to stop](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/when-to-stop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/when-to-stop?u=76281980&t=0)** - Data science isn't about endless accuracy chasing.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/when-to-stop?u=76281980&t=0)** - [[Data Science]] isn't about endless accuracy chasing.
 >
 > **[0:05](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/when-to-stop?u=76281980&t=5)** Understanding when a model is good enough for real world impact is essential for delivering value within time and budget constraints.
 >
@@ -1746,7 +1723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Best Practices:** remember to (1)
@@ -1757,12 +1734,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Focus on outcome, not technique
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980)
+#### [Focus on outcome, not technique](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=1)** - Clients care about solving problems and their return on investment, not the fancy algorithms you use.
+> **[0:01](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=1)** - Clients care about solving problems and their return on investment, not the fancy [[Algorithms]] you use.
 >
 > **[0:09](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=9)** Imagine you call a plumber with a leaky faucet.
 >
@@ -1770,7 +1746,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=19)** You just want the leak fixed.
 >
-> **[0:21](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=21)** Business clients feel the same way about data science.
+> **[0:21](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=21)** Business clients feel the same way about [[Data Science]].
 >
 > **[0:24](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=24)** They're looking for solutions, not a jargon-filled lecture.
 >
@@ -1800,7 +1776,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=119)** This means a faster time to gain value from your project.
 >
-> **[2:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=124)** The strategic focus means that the 80/20 approach keeps us agile.
+> **[2:04](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=124)** The strategic focus means that the 80/20 approach keeps us [[Agile Development|agile]].
 >
 > **[2:10](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980&t=130)** We can quickly pivot if new information or priorities emerge.
 >
@@ -1812,14 +1788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (3), [[Algorithms]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Algorithms]] (1), [[Agile Development|Agile]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Env Vars:** roi (1)
 > **Definitions:** means that (1)
 > **Speakers:** - clients (1)
 
-#### Manage expectations and build trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/manage-expectations-and-build-trust?u=76281980)
+#### [Manage expectations and build trust](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/manage-expectations-and-build-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1855,7 +1830,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/manage-expectations-and-build-trust?u=76281980&t=109)** Fourth, adapt as the client's priorities or the market changes.
 >
-> **[1:55](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/manage-expectations-and-build-trust?u=76281980&t=115)** Since business needs shift, you and your modeling need to be agile and prepared to adapt suit and remember to always think of your client as a partnership.
+> **[1:55](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/manage-expectations-and-build-trust?u=76281980&t=115)** Since business needs shift, you and your modeling need to be [[Agile Development|agile]] and prepared to adapt suit and remember to always think of your client as a partnership.
 >
 > **[2:07](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/manage-expectations-and-build-trust?u=76281980&t=127)** Emphasize that you're working with the client, not just for them.
 >
@@ -1875,24 +1850,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - clients (1)
 
-#### Emphasize collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980)
+#### [Emphasize collaboration](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=0)** - Clients should never just hand you a problem or a data set and walk away.
 >
-> **[0:06](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=6)** They're bringing problems to be solved, and if you treat data science as a team sport, the results will be far better than working in isolation.
+> **[0:06](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=6)** They're bringing problems to be solved, and if you treat [[Data Science]] as a team sport, the results will be far better than working in isolation.
 >
 > **[0:16](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=16)** Close collaboration isn't a nice-to-have, it's essential.
 >
-> **[0:20](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=20)** A good way to start is by framing questions together, with the client, where the key word in that sentence was together.
+> **[0:20](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=20)** A good way to start is by framing questions together, with the client, where the key [[Microsoft Word|word]] in that sentence was together.
 >
 > **[0:29](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/emphasize-collaboration?u=76281980&t=29)** You'll start that conversation by getting clear on the what.
 >
@@ -1944,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1956,12 +1930,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways for your future career in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980)
+#### [Key takeaways for your future career in data science](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=0)** - The 80/20 rule of data science is centered around one thing, keeping the business impact front and center.
+> **[0:00](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=0)** - The 80/20 rule of [[Data Science]] is centered around one thing, keeping the business impact front and center.
 >
 > **[0:08](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=8)** That means more than a fancy model.
 >
@@ -1977,7 +1950,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=52)** Embrace the challenges, celebrate the wins, and let your curiosity be your guide as you unlock ever greater value for both yourself and your organization.
 >
-> **[1:05](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=65)** If you enjoyed this course, please check out some of my other LinkedIn Learning courses, including Becoming a Good Data Science Customer and the Data Science Playbook for Private Equity and Venture Capital.
+> **[1:05](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=65)** If you enjoyed this course, please check out some of my other [[LinkedIn]] Learning courses, including Becoming a Good Data Science Customer and the Data Science Playbook for Private Equity and Venture Capital.
 >
 > **[1:18](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980&t=78)** Also, you can contact me on LinkedIn through my website, [winningwithdatascience.com](https://winningwithdatascience.com), and check out my latest book, "Winning with Data Science."
 >
@@ -1985,7 +1958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[LinkedIn]] (2)
 > **URLs:** [winningwithdatascience.com](https://winningwithdatascience.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)

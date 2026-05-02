@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Growing demand for climate jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980)
+#### [Growing demand for climate jobs](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=3)** If I were to show it using sand, this is where we were in pre-industrial times, and this is where we are today.
 >
-> **[0:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=10)** At this rate, we have less than 10 years before experiencing the even greater catastrophic effects of climate change.
+> **[0:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=10)** At this rate, we have less than 10 years before experiencing the even greater catastrophic effects of [[Climate Change]].
 >
 > **[0:17](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=17)** I'm not here to scare you.
 >
@@ -100,17 +99,16 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=39)** Clearly, there's a demand.
 >
-> **[0:41](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=41)** In this LinkedIn Learning course, I'm going to teach you the power of individual action and how you can do your part in getting a job in climate.
+> **[0:41](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=41)** In this [[LinkedIn]] Learning course, I'm going to teach you the power of individual action and how you can do your part in getting a job in climate.
 >
 > **[0:49](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980&t=49)** Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (1), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[LinkedIn]] (1)
 > **Speakers:** - carbon (1)
 
-#### Real-world examples of people in climate careers
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980)
+#### [Real-world examples of people in climate careers](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=35)** I didn't feel satisfied in this tech role, but felt as though there was no space for my skillset in climate tech.
 >
-> **[0:41](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=41)** That was until I met the founder of Climate People, Brendan, over LinkedIn.
+> **[0:41](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=41)** That was until I met the founder of Climate People, Brendan, over [[LinkedIn]].
 >
 > **[0:45](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=45)** He opened my eyes to the possibility of a career in climate and I haven't looked back since.
 >
@@ -142,19 +140,19 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=91)** I found that for myself, I really wanted to be engaged kind of with a team moving things forward
 >
-> **[1:38](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=98)** - [Natalie] Followed by Janet Lee, who took a role as a head of product at an artificial intelligence weather prediction company.
+> **[1:38](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=98)** - [Natalie] Followed by Janet Lee, who took a role as a head of product at an [[Artificial Intelligence (AI)|artificial intelligence]] weather prediction company.
 >
 > **[1:44](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=104)** Janet shares how her current company wanted climate experience that she did not have.
 >
 > **[1:50](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=110)** She was able to highlight her transferrable skills from her experience in big tech and land the job.
 >
-> **[1:56](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=116)** - I really enjoy learning about the science behind weather forecasting, and I know this is a cliche, but I wake up every morning excited to go to work to try to figure out how to help people make better decisions in the face of climate change.
+> **[1:56](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=116)** - I really enjoy learning about the science behind weather [[Forecasting]], and I know this is a cliche, but I wake up every morning excited to go to work to try to figure out how to help people make better decisions in the face of [[Climate Change]].
 >
 > **[2:12](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/real-world-examples-of-people-in-climate-careers?u=76281980&t=132)** - Now that you've heard the stories of people in different industries and sectors with varying levels of experience who have transitioned their careers to climate, let's jump into how you can pave your unique path.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[LinkedIn]] (1), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forecasting]] (1), [[Climate Change]] (1)
 > **Speakers:** - i (2), - before (1), - [natalie] (1), - now (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nasa (1)
@@ -166,8 +164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is climate tech?
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980)
+#### [What is climate tech?](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,11 +196,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=64)** Electric vehicles, solar panels, and walkable city infrastructure would all fall into this category.
 >
-> **[1:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=70)** Climate adaptation is a technology that reduces the inevitable harms of climate change.
+> **[1:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=70)** Climate adaptation is a technology that reduces the inevitable harms of [[Climate Change]].
 >
 > **[1:16](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=76)** The effects of climate change are already here and we must be resilient in the face of them.
 >
-> **[1:21](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=81)** Sensors that detect pollution, weather prediction artificial intelligence, and flood-proofing innovation would fit into this category.
+> **[1:21](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=81)** Sensors that detect pollution, weather prediction [[Artificial Intelligence (AI)|artificial intelligence]], and flood-proofing innovation would fit into this category.
 >
 > **[1:30](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980&t=90)** Carbon technology is any technology that removes, repurpose, or stores carbon.
 >
@@ -243,14 +240,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (6), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
+> **Frameworks & Libraries:** [[Climate Change]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** co2 (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### What is a climate job?
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980)
+#### [What is a climate job?](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=52)** Engineers can act as a link between the idea and the implementation of green building practices.
 >
-> **[0:58](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=58)** Using their own practical experiences, they are uniquely positioned to educate policymakers on how design infrastructure delivers more efficiency with fewer emissions and greater resiliency.
+> **[0:58](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=58)** Using their own practical experiences, they are uniquely positioned to educate policymakers on how design infrastructure delivers more efficiency with fewer emissions and greater [[Resiliency]].
 >
 > **[1:12](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=72)** These engineers can directly and indirectly impact the carbon emissions of these buildings.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=133)** My role at Climate People would also fit into the climate job mold.
 >
-> **[2:18](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=138)** Through all of my marketing work and this course specifically, I am spreading the word about climate jobs and encouraging people to join the fight against climate change.
+> **[2:18](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=138)** Through all of my marketing work and this course specifically, I am spreading the [[Microsoft Word|word]] about climate jobs and encouraging people to join the fight against [[Climate Change]].
 >
 > **[2:27](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-a-climate-job?u=76281980&t=147)** To reiterate, a climate job can be twofold.
 >
@@ -302,14 +298,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Resiliency]] (1), business (1), [[Microsoft Word|Word]] (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1), [[Microsoft Word|Word]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
 
-#### Growth trajectory in climate
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/growth-trajectory-in-climate?u=76281980)
+#### [Growth trajectory in climate](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/growth-trajectory-in-climate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/growth-trajectory-in-climate?u=76281980&t=39)** Again, Climate Tech isn't an industry or an individual sector, it's a global economic shift.
 >
-> **[0:46](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/growth-trajectory-in-climate?u=76281980&t=46)** The hard reality is that climate change is real and it's continuing to worsen.
+> **[0:46](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/growth-trajectory-in-climate?u=76281980&t=46)** The hard reality is that [[Climate Change]] is real and it's continuing to worsen.
 >
 > **[0:51](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/growth-trajectory-in-climate?u=76281980&t=51)** Climate change isn't hanging out on the sidelines and therefore, neither can the investment dollars, climate companies, or mission-driven talent.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (3), product (2), [[Security]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Climate Change]] (3)
 > **Versions:** 1.5 (1), 1.1 (1)
 > **Env Vars:** ctvc (1)
 > **Cross-References:** in the next (1)
@@ -399,8 +394,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - according (1)
 
-#### The expansion of ESG
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980)
+#### [The expansion of ESG](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=93)** However, if they were to implement green building practices and echo those sentiments to their supervisors, they would be making their job a climate job.
 >
-> **[1:43](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=103)** It can no longer be the sole responsibility of small sustainability teams to do the climate work of an entire company.
+> **[1:43](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=103)** It can no longer be the sole responsibility of small [[Sustainability]] teams to do the climate work of an entire company.
 >
 > **[1:50](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=110)** Rather, individual employees can encourage internal actions that extend the realm of sustainability teams.
 >
@@ -450,17 +444,16 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=154)** We no longer have the luxury of ignoring the importance of sustainability, nor can the privilege of taking the easier or cheaper way out be an option.
 >
-> **[2:44](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=164)** We have less than 10 years to evade the catastrophic effects of climate change, and everyone has a role to play.
+> **[2:44](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/the-expansion-of-esg?u=76281980&t=164)** We have less than 10 years to evade the catastrophic effects of [[Climate Change]], and everyone has a role to play.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (3), leadership (2), career (2), teams (2), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Climate Change]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - climate (1)
 
-#### Getting your start in the climate space early
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/getting-your-start-in-the-climate-space-early?u=76281980)
+#### [Getting your start in the climate space early](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/getting-your-start-in-the-climate-space-early?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +521,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), next (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - terra (1)
 
@@ -537,8 +529,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why climate experience isn't necessary
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980)
+#### [Why climate experience isn't necessary](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980&t=38)** Terra.do predicts this bottleneck will be a direct result of being slow to adapt, having significant coverage gaps, unscalable solutions and not being outcome oriented.
 >
-> **[0:51](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980&t=51)** Further, LinkedIn's 2022 Global Green Skills Report found that green talent increased from 9.6% in 2015 to 13.3% in 2021, a cumulative growth rate of 38.5%,
+> **[0:51](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980&t=51)** Further, [[LinkedIn]]'s 2022 Global Green Skills Report found that green talent increased from 9.6% in 2015 to 13.3% in 2021, a cumulative growth rate of 38.5%,
 >
 > **[1:09](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980&t=69)** while job postings requiring green skills grew at roughly 8% annually since 2015.
 >
@@ -614,14 +605,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), career (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Versions:** 9.6 (1), 13.3 (1), 38.5 (1)
 > **Cross-References:** we discussed (1), next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - demand (1)
 
-#### How to do a deep dive into the climate industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980)
+#### [How to do a deep dive into the climate industry](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,7 +625,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=23)** First, do your homework.
 >
-> **[0:24](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=24)** Read books, listen to podcasts, check out newsletters, watch documentaries and browse websites.
+> **[0:24](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=24)** Read books, listen to podcasts, check out [[Newsletters]], watch documentaries and browse websites.
 >
 > **[0:31](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=31)** My favorites are linked in the exercise files.
 >
@@ -647,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=51)** There are countless climate communities that are designed to teach, engage, inform, and ultimately inspire action.
 >
-> **[0:58](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=58)** The majority of them live on Slack and are incredible networking hubs.
+> **[0:58](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=58)** The majority of them live on [[Slack]] and are incredible networking hubs.
 >
 > **[1:03](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-do-a-deep-dive-into-the-climate-industry?u=76281980&t=63)** My favorites are Work On Climate, My Climate Journey, Climate Action Tech, Women In Climate Tech, Tofu For Climate Marketers, and AirMiners.
 >
@@ -689,8 +679,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - despite (1)
 
-#### Overcoming climate job imposter syndrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/overcoming-climate-job-imposter-syndrome?u=76281980)
+#### [Overcoming climate job imposter syndrome](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/overcoming-climate-job-imposter-syndrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +721,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/overcoming-climate-job-imposter-syndrome?u=76281980&t=126)** Being your own worst critic will only set you back.
 >
-> **[2:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/overcoming-climate-job-imposter-syndrome?u=76281980&t=130)** Resilient people create resilient solutions, the very thing we need to address the full scope of climate change.
+> **[2:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/overcoming-climate-job-imposter-syndrome?u=76281980&t=130)** Resilient people create resilient solutions, the very thing we need to address the full scope of [[Climate Change]].
 >
 > **[2:18](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/overcoming-climate-job-imposter-syndrome?u=76281980&t=138)** Don't let fear of the unknown define your potential impact.
 >
@@ -740,7 +729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Climate Change]] (1), next (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [narrator] (1)
@@ -750,8 +739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why climate job searches are different
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980)
+#### [Why climate job searches are different](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +767,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=54)** Remember, failed startups are not always a red flag for a founder.
 >
-> **[0:58](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=58)** They can learn a lot from this experience, and resiliency is often a great sign.
+> **[0:58](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=58)** They can learn a lot from this experience, and [[Resiliency]] is often a great sign.
 >
 > **[1:03](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=63)** Who are the investors? What successes have they had?
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=103)** I also encourage you to consider your desire to make an impact.
 >
-> **[1:47](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=107)** To grow and scale these climate technologies at the rate needed to address the worsening effects of climate change, we need people to join in at the early funding stages.
+> **[1:47](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=107)** To grow and scale these climate technologies at the rate needed to address the worsening effects of [[Climate Change]], we need people to join in at the early funding stages.
 >
 > **[1:59](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980&t=119)** This cause-and-effect scenario shows a need for innovation and displays how climate startups can offer more job security than traditional early-stage endeavors.
 >
@@ -817,13 +805,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Search]] (2), career (1), [[Resiliency]] (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Reversing eco-anxiety
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/reversing-eco-anxiety?u=76281980)
+#### [Reversing eco-anxiety](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/reversing-eco-anxiety?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -837,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/reversing-eco-anxiety?u=76281980&t=28)** And, over half admitted that they believe humanity is doomed.
 >
-> **[0:33](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/reversing-eco-anxiety?u=76281980&t=33)** Climate change is pressing, and its effects are catastrophic.
+> **[0:33](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/reversing-eco-anxiety?u=76281980&t=33)** [[Climate Change]] is pressing, and its effects are catastrophic.
 >
 > **[0:37](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/reversing-eco-anxiety?u=76281980&t=37)** However, falling victim to this hopelessness leads to inaction.
 >
@@ -877,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (4), [[Search]] (2), [[Security]] (1), game (1), career (1)
+> **Frameworks & Libraries:** [[Climate Change]] (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -886,14 +873,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Five steps for getting your foot in the door in climate
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980)
+#### [Five steps for getting your foot in the door in climate](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=0)** - So, you're considering a career in climate.
 >
-> **[0:03](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=3)** Maybe you saw an inspirational LinkedIn post on eco anxiety, listen to a podcast that dove deep into the depths of regenerative agriculture, or a Twitter thread on the controversies behind carbon credits.
+> **[0:03](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=3)** Maybe you saw an inspirational [[LinkedIn]] post on eco anxiety, listen to a podcast that dove deep into the depths of regenerative agriculture, or a Twitter thread on the controversies behind carbon credits.
 >
 > **[0:16](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=16)** Nonetheless, you are introduced and now you're intrigued.
 >
@@ -917,7 +903,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=66)** It's critical to be well versed in various sectors advancements and trajectories of the space.
 >
-> **[1:13](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=73)** Read books, listen to podcasts, and subscribe to newsletters.
+> **[1:13](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=73)** Read books, listen to podcasts, and subscribe to [[Newsletters]].
 >
 > **[1:17](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=77)** If you're viewing this right now, you've already checked this box.
 >
@@ -945,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=131)** Take notes of all of the recurring skills and qualifications.
 >
-> **[2:15](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=135)** This research will be essential when interviewing and applying.
+> **[2:15](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=135)** This research will be essential when [[Interviewing]] and applying.
 >
 > **[2:19](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980&t=139)** The hiring manager will be impressed if you can pinpoint these skills on your resume and articulate them in interviews.
 >
@@ -969,13 +955,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), career (1), [[LinkedIn]] (1), [[Newsletters]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Newsletters]] (1), [[Interviewing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Laying the foundation for your climate job search
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/laying-the-foundation-for-your-climate-job-search?u=76281980)
+#### [Laying the foundation for your climate job search](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/laying-the-foundation-for-your-climate-job-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/laying-the-foundation-for-your-climate-job-search?u=76281980&t=49)** I encourage you to think about your why as you would a thesis statement of an essay.
 >
-> **[0:54](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/laying-the-foundation-for-your-climate-job-search?u=76281980&t=54)** You need one to two sentences at the forefront of your resume, your cover letter, and on your LinkedIn that explain your intentions.
+> **[0:54](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/laying-the-foundation-for-your-climate-job-search?u=76281980&t=54)** You need one to two sentences at the forefront of your resume, your cover letter, and on your [[LinkedIn]] that explain your intentions.
 >
 > **[1:03](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/laying-the-foundation-for-your-climate-job-search?u=76281980&t=63)** Your why should include why you're interested in the climate sector, why you like the company, and what sets you apart.
 >
@@ -1033,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), strengths (4), [[Search]] (3), [[Engineering]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -1041,8 +1026,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - whether (1)
 
-#### Enhancing your climate job resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/enhancing-your-climate-job-resume?u=76281980)
+#### [Enhancing your climate job resume](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/enhancing-your-climate-job-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1046,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/enhancing-your-climate-job-resume?u=76281980&t=31)** You must convey your professional experience and climate passion clearly and concisely.
 >
-> **[0:37](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/enhancing-your-climate-job-resume?u=76281980&t=37)** Every word should count towards the why you outlined in the previous lesson.
+> **[0:37](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/enhancing-your-climate-job-resume?u=76281980&t=37)** Every [[Microsoft Word|word]] should count towards the why you outlined in the previous lesson.
 >
 > **[0:43](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/enhancing-your-climate-job-resume?u=76281980&t=43)** The second step is to demonstrate your career progression.
 >
@@ -1114,14 +1098,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[Microsoft Word|Word]] (1), job description (1), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - your (1)
 
-#### How to network in the climate space
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980)
+#### [How to network in the climate space](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1148,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=114)** My third tip is to network before you need it.
 >
-> **[1:57](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=117)** As you know, networking is beneficial for job hunting, but at its root, it's all about relationship building.
+> **[1:57](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=117)** As you know, networking is beneficial for job hunting, but at its root, it's all about [[Relationship Building]].
 >
 > **[2:05](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=125)** So rather than building an entire network when needed, make it a small function of your typical week and gradually create a community of people on your side.
 >
@@ -1191,7 +1174,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=186)** Use that to your advantage and start building your network.
 >
-> **[3:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=190)** Take a moment now to go to your LinkedIn page.
+> **[3:10](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=190)** Take a moment now to go to your [[LinkedIn]] page.
 >
 > **[3:13](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/how-to-network-in-the-climate-space?u=76281980&t=193)** Find three people you have a shared interest with.
 >
@@ -1199,14 +1182,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), job description (1), [[Relationship Building]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** cnbc (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - according (1)
 
-#### Advice for submitting your climate application
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/advice-for-submitting-your-climate-application?u=76281980)
+#### [Advice for submitting your climate application](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/advice-for-submitting-your-climate-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,7 +1218,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/advice-for-submitting-your-climate-application?u=76281980&t=55)** Data from Adzuna's Resume service showed that women only submit 31% of resumes to its website while men submit 69%.
 >
-> **[1:05](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/advice-for-submitting-your-climate-application?u=76281980&t=65)** A LinkedIn study discovered that men and women displayed similar habits when browsing for jobs but women were 14% less likely to apply after viewing.
+> **[1:05](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/advice-for-submitting-your-climate-application?u=76281980&t=65)** A [[LinkedIn]] study discovered that men and women displayed similar habits when browsing for jobs but women were 14% less likely to apply after viewing.
 >
 > **[1:16](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/advice-for-submitting-your-climate-application?u=76281980&t=76)** Don't sell yourself short, submit that application.
 >
@@ -1280,14 +1262,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Search]] (3), [[LinkedIn]] (2), strengths (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (5), find (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tips and tricks for climate job interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980)
+#### [Tips and tricks for climate job interviews](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1317,9 +1298,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=53)** Make sure you have also done sufficient research on your interviewers.
 >
-> **[0:57](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=57)** Do more than simply scrolling through their LinkedIn.
+> **[0:57](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=57)** Do more than simply scrolling through their [[LinkedIn]].
 >
-> **[1:00](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=60)** You should find their websites, dive deep into their GitHub and learn as much as possible about them.
+> **[1:00](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=60)** You should find their websites, dive deep into their [[GitHub]] and learn as much as possible about them.
 >
 > **[1:07](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=67)** The second step is to go back to your roots and ask yourself why you want this job.
 >
@@ -1353,7 +1334,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=138)** Well, yes, you are part of a team, but the interviewer wants to know about your unique contributions.
 >
-> **[2:25](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=145)** Interviewing isn't a natural skillset for most people.
+> **[2:25](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=145)** [[Interviewing]] isn't a natural skillset for most people.
 >
 > **[2:29](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/tips-and-tricks-for-climate-job-interviews?u=76281980&t=149)** You must practice.
 >
@@ -1369,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[LinkedIn]] (1), [[GitHub]] (1), job description (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[GitHub]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** make sure you have (2)
@@ -1377,8 +1358,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - so (1)
 
-#### Preparing for later-stage interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/preparing-for-later-stage-interviews?u=76281980)
+#### [Preparing for later-stage interviews](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/preparing-for-later-stage-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,11 +1432,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/preparing-for-later-stage-interviews?u=76281980&t=167)** Put yourself out there and sell your commitment.
 >
-> **[2:50](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/preparing-for-later-stage-interviews?u=76281980&t=170)** Now that you're armed with tactical advice for laying the foundation for your job search, crafting your why statement, networking, writing your resume, applying for jobs, and interviewing, you should be ready to put this knowledge to work.
+> **[2:50](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/preparing-for-later-stage-interviews?u=76281980&t=170)** Now that you're armed with tactical advice for laying the foundation for your job search, crafting your why statement, networking, writing your resume, applying for jobs, and [[Interviewing]], you should be ready to put this knowledge to work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Search]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Speakers:** - so (1)
@@ -1466,8 +1446,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Act now
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980)
+#### [Act now](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1477,9 +1456,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980&t=16)** The underlying theme of this entire course has been focused on how climate work is becoming the new mainstream.
 >
-> **[0:22](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980&t=22)** Climate can no longer be the sole responsibility of sustainability teams or grassroot environmental advocates.
+> **[0:22](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980&t=22)** Climate can no longer be the sole responsibility of [[Sustainability]] teams or grassroot environmental advocates.
 >
-> **[0:29](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980&t=29)** Mitigating the effects of human-caused climate change is a responsibility of all of us, and each and every person in all industries has a role to play.
+> **[0:29](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980&t=29)** Mitigating the effects of human-caused [[Climate Change]] is a responsibility of all of us, and each and every person in all industries has a role to play.
 >
 > **[0:39](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980&t=39)** Thank you for joining me on this journey.
 >
@@ -1493,7 +1472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1), teams (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Climate Change]] (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)

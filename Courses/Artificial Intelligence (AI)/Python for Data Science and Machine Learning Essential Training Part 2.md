@@ -112,58 +112,55 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science life hacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980)
+#### [Data science life hacks](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=0)** - [Lillian] Ever wanted to be the point person at your company, you know, that person who uses data to make valuable business recommendations and then automates routine work tasks in their sleep?
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=12)** If so, then I'm going to show you how to use machine learning algorithms to give you the insiders' insights that only data scientists have.
+> **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=12)** If so, then I'm going to show you how to use machine learning [[Algorithms]] to give you the insiders' insights that only data scientists have.
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=21)** And once you've seen how these algorithms work, you can start using them to automate almost anything you can think of.
 >
 > **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=29)** I'm Lillian Pierson, and I'm a data and AI growth strategist with nearly three decades of experience working with data.
 >
-> **[0:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=36)** Let's get going on Python for Data Science.
+> **[0:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980&t=36)** Let's get going on [[Python (Programming Language)|Python]] for [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (2), business (1), ai (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [lillian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=0)** - [Instructor] Let's talk about what you should know for this course.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=3)** You should have taken the first part of Python for Data Science Essential Training.
+> **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=3)** You should have taken the first part of [[Python (Programming Language)|Python]] for [[Data Science]] Essential Training.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=8)** We're going to be using Jupyter Notebooks as our interactive programming environment.
 >
 > **[0:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=13)** In case you've never worked with Jupyter Notebooks before, then you can go and check out the Work with Jupyter Notebooks Video in the Python Programming Efficiently Course.
 >
-> **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=23)** Don't worry too much about the Notebooks part of the course though, because you're going to be getting the course notebooks with the Codespaces environment.
+> **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=23)** Don't worry too much about the Notebooks part of the course though, because you're going to be getting the course notebooks with the [[Codespaces]] environment.
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/what-you-should-know?u=76281980&t=31)** More on Codespaces in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (2), [[Codespaces]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Codespaces]] (2), [[Data Science]] (1)
 > **Tools:** jupyter (3)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use Codespaces in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980)
+#### [How to use Codespaces in this course](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=0)** - [Instructor] Let's look at how to configure Codespaces.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=0)** - [Instructor] Let's look at how to configure [[Codespaces]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=4)** To begin, head over to the courses repository.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=47)** How Codespaces works is that essentially it initiates a virtual machine that provides you a web interface with which to interact.
 >
-> **[0:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=57)** Within the terminal here, you're free to execute common Linux commands and Python scripts.
+> **[0:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=57)** Within the terminal here, you're free to execute common [[Linux]] commands and [[Python (Programming Language)|Python]] scripts.
 >
 > **[1:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=65)** For our course, simply open this folder here called notebooks, and this is the primary folder for our course.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=157)** And I'll be showing you how to use this data throughout the body of this course.
 >
-> **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=163)** And this demo guided you through opening a project on GitHub, creating a codespace, opening a jupyter notebook, and executing it via Codespaces.
+> **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=163)** And this demo guided you through opening a project on [[GitHub]], creating a codespace, opening a jupyter notebook, and executing it via Codespaces.
 >
 > **[2:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/how-to-use-codespaces-in-this-course?u=76281980&t=173)** Codespaces is a really handy GitHub project, and I find that it simplifies project initiation by removing the hostile of environment configuration.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[Python (Programming Language)|Python]] (4), web (2), hit (2), data (2)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Linux]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Tools:** terminal (2), jupyter (2), github (2)
 > **UI Navigation:** select the (2), go to (1), click on (1)
@@ -249,12 +246,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980)
+#### [Defining data science](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=0)** - [Instructor] Let's talk about the definition of data science.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=0)** - [Instructor] Let's talk about the definition of [[Data Science]].
 >
 > **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=3)** Drew Conway defined data science back in 2010.
 >
@@ -262,13 +258,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=8)** The classical definition of data science is that it's comprised of three core elements.
 >
-> **[0:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=13)** One is programming skills, two is math and statistics knowledge, and three is subject matter expertise.
+> **[0:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=13)** One is programming skills, two is math and [[Statistics]] knowledge, and three is subject matter expertise.
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=20)** With respect to the programming skills that are required in data science, we've talked about some of those already, but let's just review that.
 >
-> **[0:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=27)** Those are Python, R, SQL, and JavaScript, more specifically, D3.js.
+> **[0:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=27)** Those are [[Python (Programming Language)|Python]], R, [[SQL]], and [[JavaScript]], more specifically, [[D3.js]].
 >
-> **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=34)** You use Python for a data preparation, analysis, visualization, and predictive modeling.
+> **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=34)** You use Python for a [[Data Preparation]], analysis, visualization, and [[Predictive Modeling]].
 >
 > **[0:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=40)** You use R for basically the same exact reasons, and you could use SQL for data preparation and aggregation.
 >
@@ -276,15 +272,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=53)** I showed you how to use Streamlit in Part 1 of this course.
 >
-> **[0:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=58)** Moving into math and statistics knowledge, the kind of math and statistics knowledge you need for data science includes advanced algebra, linear algebra, probability, Bayesian statistics, and calculus.
+> **[0:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=58)** Moving into math and statistics knowledge, the kind of math and statistics knowledge you need for data science includes advanced algebra, [[Linear Algebra]], [[Probability]], Bayesian statistics, and [[Calculus]].
 >
-> **[1:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=72)** You need advanced algebra for all forms of data analysis, including linear regression.
+> **[1:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=72)** You need advanced algebra for all [[Forms]] of data analysis, including [[Linear Regression]].
 >
 > **[1:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=76)** You need linear algebra for regression in matrix decomposition methods.
 >
-> **[1:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=82)** You need probability for logistic regression.
+> **[1:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=82)** You need probability for [[Logistic Regression]].
 >
-> **[1:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=86)** You would need Bayesian statistics for implementing things like naive base classification, and then you would need calculus for doing gradient descent and neural networks.
+> **[1:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=86)** You would need Bayesian statistics for implementing things like naive base classification, and then you would need calculus for doing gradient descent and [[Neural Networks]].
 >
 > **[1:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980&t=97)** Now, let's look at subject matter expertise that's involved.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Statistics]] (10), [[Python (Programming Language)|Python]] (6), [[Programming]] (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (13), [[Statistics]] (10), [[Python (Programming Language)|Python]] (6), [[SQL]] (2), [[D3.js]] (2)
 > **CLI Commands:** python (6), make (1)
 > **File Paths:** d3.js (2)
 > **Env Vars:** sql (2)
@@ -340,8 +336,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seeing where machine learning fits in
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980)
+#### [Seeing where machine learning fits in](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,9 +350,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=28)** There are hundreds if not thousands of machine learning use cases.
 >
-> **[0:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=32)** Some simple ones include: sales forecasting, customer segment analysis, insurance fraud detection, hedge fund classification, and spam detection.
+> **[0:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=32)** Some simple ones include: sales [[Forecasting]], customer segment analysis, insurance fraud detection, hedge fund classification, and spam detection.
 >
-> **[0:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=43)** In terms of applications of machine learning, you see a machine learning algorithm being applied in things like adaptive websites, recommendation engines, robot locomotion, natural language processing, search engines, speech and hand recognition, and self-driving cars amongst others.
+> **[0:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=43)** In terms of applications of machine learning, you see a machine learning algorithm being applied in things like adaptive websites, recommendation engines, robot locomotion, [[Natural Language Processing (NLP)|natural language processing]], search engines, speech and hand recognition, and self-driving cars amongst others.
 >
 > **[1:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=63)** Now, what is machine learning exactly?
 >
@@ -371,15 +366,15 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=102)** If this all sounds like mumbo-jumbo to you at this point, do not worry, because we're going to cover these methods in detail throughout the remainder of this course.
 >
-> **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=111)** In terms of where machine learning comes from, machine learning is a field of computer science where algorithms learn from data.
+> **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=111)** In terms of where machine learning comes from, machine learning is a field of computer science where [[Algorithms]] learn from data.
 >
 > **[1:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=119)** But machine learning is not strictly of the computer science domain.
 >
-> **[2:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=124)** It's really a synthesis of computational statistics, pattern recognition, mathematical optimization, and computational learning theory in artificial intelligence.
+> **[2:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=124)** It's really a synthesis of computational [[Statistics]], pattern recognition, mathematical optimization, and computational learning theory in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[2:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=134)** It also involves data mining and exploratory data analysis.
+> **[2:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=134)** It also involves [[Data Mining]] and exploratory data analysis.
 >
-> **[2:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=139)** If you were to describe machine learning algorithms in terms of functions, those would be regression, clustering, dimension analysis, association rules, deep learning, instance-based learning, decision trees, Bayesian statistics, ensemble methods, and regularization algorithms.
+> **[2:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=139)** If you were to describe machine learning algorithms in terms of functions, those would be regression, clustering, dimension analysis, association rules, [[Deep Learning]], instance-based learning, [[Decision Trees]], Bayesian statistics, ensemble methods, and regularization algorithms.
 >
 > **[2:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=158)** But before that, I need to give you a little background about the vocabulary of machine learning.
 >
@@ -397,9 +392,9 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=204)** Instance is synonymous with the term row, observation, data point of value, or case.
 >
-> **[3:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=210)** So these are basically just rows in a dataset, if you're thinking of a simple dataset in Excel.
+> **[3:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=210)** So these are basically just rows in a dataset, if you're thinking of a simple dataset in [[Microsoft Excel|Excel]].
 >
-> **[3:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=217)** In terms of the word target, a target variable is synonymous with the terms predicted and dependent variable: it's basically what we're predicting for.
+> **[3:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=217)** In terms of the [[Microsoft Word|word]] target, a target variable is synonymous with the terms predicted and dependent variable: it's basically what we're predicting for.
 >
 > **[3:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=227)** The term data in machine learning refers to the predictor or the set of predictor variables.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=261)** The other 20% of the data will go into the test set for testing to see how well that model actually performs.
 >
-> **[4:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=268)** In terms of learning styles in machine learning, we have supervised, unsupervised, and semi-supervised learning.
+> **[4:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=268)** In terms of learning styles in machine learning, we have supervised, unsupervised, and semi-[[Supervised Learning]].
 >
 > **[4:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/seeing-where-machine-learning-fits-in?u=76281980&t=275)** So supervised methods make predictions from labeled data.
 >
@@ -515,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), feature (4), [[Algorithms]] (3), [[Supervised Learning]] (3), ai (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Supervised Learning]] (3), [[Statistics]] (2), [[Forecasting]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (7), find (2)
 > **Definitions:** is a  (5), is an  (3), refers to (1)
 > **Analogies:** imagine (3), for example (1), similar to (1)
@@ -523,12 +518,11 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning AI foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980)
+#### [Machine learning AI foundations](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=0)** - [Instructor] Let's look at where artificial intelligence fits into data science.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=0)** - [Instructor] Let's look at where [[Artificial Intelligence (AI)|artificial intelligence]] fits into [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=4)** Is it the same thing?
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=37)** So what I want you to do is think about machine learning as the brains behind AI.
 >
-> **[0:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=42)** It is the decision-making mechanism.
+> **[0:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=42)** It is the [[Decision-Making]] mechanism.
 >
 > **[0:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=45)** Machine learning is the thing that makes predictions upon which actions are taken.
 >
@@ -564,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=90)** One is prediction, and the other is execution.
 >
-> **[1:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=92)** So the prediction comes from the predictive modeling, which is part of data science and machine learning, and then the execution comes from some sort of autonomous response.
+> **[1:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=92)** So the prediction comes from the [[Predictive Modeling]], which is part of data science and machine learning, and then the execution comes from some sort of autonomous response.
 >
 > **[1:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=102)** That could be from an engineered system in the case of robotics.
 >
@@ -590,7 +584,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=178)** It really requires mechanical engineering, some electrical engineering, as well as computer science and information engineering.
 >
-> **[3:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=186)** In reality, AI can be found at the sweet spot of convergence between machine learning and software development.
+> **[3:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=186)** In reality, AI can be found at the sweet spot of convergence between machine learning and [[Software Development]].
 >
 > **[3:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/machine-learning-ai-foundations?u=76281980&t=194)** In some cases, when you have an actual robotic system that is executing upon the decisions made by the machine learning models, then you would have robotics as an element within the Venn diagram, as shown here.
 >
@@ -598,17 +592,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), application (3), [[Engineering]] (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Data Science]] (5), [[Software Development]] (2), [[Decision-Making]] (1), [[Predictive Modeling]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping machine learning algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980)
+#### [Grouping machine learning algorithms](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=0)** - [Lecturer] Let's look at how to group machine learning algorithms.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=0)** - [Lecturer] Let's look at how to group machine learning [[Algorithms]].
 >
 > **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=3)** Grouping algorithms is really helpful in order to put some context around what you're learning so that it's easier to remember and reference later.
 >
@@ -626,13 +619,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=77)** So the modules of this course are broken up according to machine learning function.
 >
-> **[1:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=83)** Those functions would be regression clustering, dimension reduction association rules, deep learning, instance-based learning decision trees, Bayesian ensemble methods, and regularization models.
+> **[1:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=83)** Those functions would be regression clustering, dimension reduction association rules, [[Deep Learning]], instance-based learning [[Decision Trees]], Bayesian ensemble methods, and regularization models.
 >
 > **[1:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=96)** And lastly, you could group machine learning algorithms according to use case.
 >
 > **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=101)** So you can use machine learning algorithms for, like I said, over a hundred use cases.
 >
-> **[1:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=107)** Some of those include fraud detection, recommendation engines, price forecasting, inventory demand forecasting, water consumption forecasting, infrastructure demand forecasting, and so, so many more.
+> **[1:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=107)** Some of those include fraud detection, recommendation engines, price [[Forecasting]], inventory demand forecasting, water consumption forecasting, infrastructure demand forecasting, and so, so many more.
 >
 > **[2:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=120)** But if you think about it, imagine that you have a particular type of problem you're trying to solve.
 >
@@ -642,7 +635,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=140)** So it's good to kind of in your mind start assigning machine learning methods to use cases, but also functions, and then learning styles is the most rudimentary way of grouping them.
 >
-> **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=153)** Like I said, in terms of grouping by learning style, you've got supervised, unsupervised, and semi-supervised learning.
+> **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=153)** Like I said, in terms of grouping by learning style, you've got supervised, unsupervised, and semi-[[Supervised Learning]].
 >
 > **[2:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=161)** We talked about supervised and unsupervised learning earlier in this course.
 >
@@ -680,7 +673,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=298)** Now let's look at an example of grouping machine learning models by use case.
 >
-> **[5:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=303)** So let's look at K-means clustering, and I'm just going to list out a number of potential use cases to which you could assign K-means clustering as a potential predictive solution.
+> **[5:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=303)** So let's look at [[k-means clustering]], and I'm just going to list out a number of potential use cases to which you could assign K-means clustering as a potential predictive solution.
 >
 > **[5:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=313)** Those would be locations-based crime prediction and prevention, customer segmentation for marketing, document classification, insurance fraud, fraud prediction and prevention, IT operational efficiencies, oil and gas site evaluations, video analytics, and patient segmentation for preventative medicine.
 >
@@ -688,7 +681,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=347)** Say you're looking to make predictions of fraud for cases of fraud in the insurance industry.
 >
-> **[5:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=354)** You've got insurance fraud prevention as your use case, and then the different methods that actually apply toward that would be K-means clustering, time series analysis, multi-criteria decision-making, logistic regression support, vector machines, and decision trees.
+> **[5:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=354)** You've got insurance fraud prevention as your use case, and then the different methods that actually apply toward that would be K-means clustering, [[Time Series Analysis]], multi-criteria [[Decision-Making]], [[Logistic Regression]] support, vector machines, and decision trees.
 >
 > **[6:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/grouping-machine-learning-algorithms?u=76281980&t=371)** As we discussed above, K-means clustering would be one of those many methods.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Algorithms]] (10), [[k-means clustering]] (5), [[Forecasting]] (4), [[Supervised Learning]] (4)
+> **Frameworks & Libraries:** [[Algorithms]] (10), [[k-means clustering]] (5), [[Forecasting]] (4), [[Supervised Learning]] (4), [[Decision Trees]] (2)
 > **Cross-References:** we talked about (1), earlier in (1), we discussed (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
@@ -709,14 +702,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [lecturer] (1)
 
-#### High-level machine learning roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980)
+#### [High-level machine learning roadmap](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=0)** - [Instructor] Machine learning algorithms are designed to improve their performance over time by learning from data.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=0)** - [Instructor] Machine learning [[Algorithms]] are designed to improve their performance over time by learning from data.
 >
-> **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=5)** This process begins with data ingestion.
+> **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=5)** This process begins with [[Data Ingestion]].
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=9)** Data ingestion is the process of collecting and importing data for immediate use or storage in a database.
 >
@@ -732,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=42)** These are typically evaluated to see how well the model is performing, which is necessary before moving into further optimization.
 >
-> **[0:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=50)** Optimization step involves fine tuning the model to improve its accuracy.
+> **[0:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=50)** Optimization step involves [[Fine Tuning]] the model to improve its accuracy.
 >
 > **[0:56](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=56)** Techniques like adjusting the learning rate, changing model parameters, or using different algorithms for better performance are common here.
 >
@@ -750,23 +742,23 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=110)** Like I said, we're covering regression models, clustering models, dimension reduction methods, and then other popular machine learning methods.
 >
-> **[1:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=119)** So for regression models, we're going to be looking at linear regression, both simple and multiple linear regression, and we're also going to be covering logistic regression.
+> **[1:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=119)** So for regression models, we're going to be looking at [[Linear Regression]], both simple and multiple linear regression, and we're also going to be covering [[Logistic Regression]].
 >
 > **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=130)** For clustering, we're going to cover K-means methods, hierarchal clustering, and depth scan.
 >
 > **[2:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=135)** For dimension reduction, we're going to be covering exploratory factor analysis, principle component analysis.
 >
-> **[2:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=142)** And then in terms of other machine learning methods we're going to cover, I just tried to make this a really well-rounded course, and so I covered just the most popular machine learning methods, so those would include association rules, neural networks with the perceptron, instance-based learning with k-nearest neighbor algorithms, and then decision tree models with CART.
+> **[2:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=142)** And then in terms of other machine learning methods we're going to cover, I just tried to make this a really well-rounded course, and so I covered just the most popular machine learning methods, so those would include association rules, [[Neural Networks]] with the perceptron, instance-based learning with k-nearest neighbor algorithms, and then decision tree models with CART.
 >
 > **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=163)** We're going to cover Bayesian models with Naive Bayes and ensemble methods with random force.
 >
-> **[2:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=170)** After that, I'll show you the ins and outs of natural language processing, as well as what you need to get started with generative models.
+> **[2:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=170)** After that, I'll show you the ins and outs of [[Natural Language Processing (NLP)|natural language processing]], as well as what you need to get started with generative models.
 >
 > **[2:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/high-level-machine-learning-roadmap?u=76281980&t=177)** All right, so let's get going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Algorithms]] (3), [[Linear Regression]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Data Ingestion]] (2), [[Linear Regression]] (2), [[Fine Tuning]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
@@ -776,12 +768,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=0)** - [Instructor] Linear regression is a simple machine learning method that you can use to predict an observation's value based on the relationship between target variable and independent, linearly-related numeric predictive features.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=0)** - [Instructor] [[Linear Regression]] is a simple machine learning method that you can use to predict an observation's value based on the relationship between target variable and independent, linearly-related numeric predictive features.
 >
 > **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=12)** For example, imagine you have a dataset that describes key characteristics of a set of homes like land acreage, number of stories, building area, and sales price.
 >
@@ -791,7 +782,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=48)** I'm going to show you how to do both of these in the coding demonstrations in this chapter.
 >
-> **[0:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=53)** In terms of use cases, linear regression is used for sales forecasting, resource consumption, forecasting, supply cost forecasting, as well as telecom services lifecycle forecasting.
+> **[0:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=53)** In terms of use cases, linear regression is used for sales [[Forecasting]], resource consumption, forecasting, supply cost forecasting, as well as telecom services lifecycle forecasting.
 >
 > **[1:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=66)** Of course, though, there are a wide variety of use cases for a linear regression.
 >
@@ -809,7 +800,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=118)** So we will import numpy as np.
 >
-> **[2:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=129)** and we'll import pandas as pd.
+> **[2:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=129)** and we'll import [[Pandas (Software)|pandas]] as pd.
 >
 > **[2:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980&t=134)** We want to import matplotlib, and then specifically we want the pyplot module.
 >
@@ -995,7 +986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (15), data (8), [[Forecasting]] (4), power (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (15), [[Forecasting]] (4), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 5.95 (1), 0.99 (1), 0.998 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (1), imagine (1), similar to (1)
@@ -1004,12 +995,11 @@ created: 2026-05-02
 > **Env Vars:** usd (1)
 > **Tools:** jupyter (1)
 
-#### Multiple linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980)
+#### [Multiple linear regression](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=0)** In this demo, we're using the same NumPy, Pandas, Matplotlib, and sklearn packages as the last video, and the notebooks also coming preloaded here with our Seaborn figure settings.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=0)** In this demo, we're using the same NumPy, [[Pandas (Software)|Pandas]], Matplotlib, and sklearn packages as the last video, and the notebooks also coming preloaded here with our Seaborn figure settings.
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=14)** Also, just run that cell.
 >
@@ -1093,7 +1083,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=284)** We're really just looking to make sure that our predictors are not completely dependent on one another.
 >
-> **[4:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=290)** That would definitely not be a good thing for linear regression.
+> **[4:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=290)** That would definitely not be a good thing for [[Linear Regression]].
 >
 > **[4:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=294)** Here is our unemployment variable, and hgrad is down here.
 >
@@ -1199,11 +1189,11 @@ created: 2026-05-02
 >
 > **[10:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=643)** Of course, this could be better, but this is a fast demonstration of linear regression.
 >
-> **[10:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=648)** So next, I'm going to show you how to do a logistic regression.
+> **[10:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/multiple-linear-regression-31065039?u=76281980&t=648)** So next, I'm going to show you how to do a [[Logistic Regression]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Linear Regression]] (5), next (3), [[Pandas (Software)|Pandas]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), [[Pandas (Software)|Pandas]] (1), [[Logistic Regression]] (1)
 > **UI Navigation:** select the (2), right-click (1), scroll down (1), scroll up (1)
 > **CLI Commands:** make (3)
 > **Versions:** 0.99 (1), 0.01 (1), 0.85 (1)
@@ -1212,16 +1202,15 @@ created: 2026-05-02
 > **Env Vars:** csv (1)
 > **Warnings:** note that (1)
 
-#### Logistic regression: Concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980)
+#### [Logistic regression: Concepts](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=0)** - [Instructor] Logistic regression is a simple machine learning method that you can use to predict the value of a numeric categorical variable based on its relationship with predictor variables.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=0)** - [Instructor] [[Logistic Regression]] is a simple machine learning method that you can use to predict the value of a numeric categorical variable based on its relationship with predictor variables.
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=10)** For example, imagine you're a marketing data scientist for a major telecom service provider.
 >
-> **[0:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=16)** You've got a customer dataset that describes each customer with variables like age, income, average call duration, interaction history with customer support, leftover minutes per month, and customer status.
+> **[0:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=16)** You've got a customer dataset that describes each customer with variables like age, income, average call duration, interaction history with [[Customer Support]], leftover minutes per month, and customer status.
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=31)** Customer status is a variable that describes whether a customer is active, or has canceled services.
 >
@@ -1229,7 +1218,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=51)** This is called a customer churn model.
 >
-> **[0:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=54)** Logistic regression differs from linear regression in that with logistic regression, you are predicting categories for ordinal variables.
+> **[0:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=54)** Logistic regression differs from [[Linear Regression]] in that with logistic regression, you are predicting categories for ordinal variables.
 >
 > **[1:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=62)** In linear regression, you're predicting values for numeric, continuous variables.
 >
@@ -1247,7 +1236,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=131)** Your Jupyter notebook is coming loaded with all of the basic libraries that we've been using for the course so far.
 >
-> **[2:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=138)** So those are NumPy, Pandas, Seaborn, Matplotlib, and scikit-learn.
+> **[2:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=138)** So those are NumPy, [[Pandas (Software)|Pandas]], Seaborn, Matplotlib, and scikit-learn.
 >
 > **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=143)** I'm also going to be inputting the logistic regression model here, and we also need the metrics module, and that's to score out our predictive model.
 >
@@ -1257,7 +1246,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=178)** It's a titanic data set.
 >
-> **[3:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=180)** The first thing we need to do is to read in that data set, so the URL is equal to, and we've got it set up straight inside of Codespaces.
+> **[3:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=180)** The first thing we need to do is to read in that data set, so the URL is equal to, and we've got it set up straight inside of [[Codespaces]].
 >
 > **[3:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=192)** So all you need to do is go over and right click on titanic training data, and then copy the path and paste that in.
 >
@@ -1313,7 +1302,7 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=394)** But then again, here you can see that cabin has 204 values only, and age has also substantial missing values, with only 714 out of 891 values in that attribute being populated.
 >
-> **[6:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=413)** The rest are missing.
+> **[6:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=413)** The [[Representational State Transfer (REST)|rest]] are missing.
 >
 > **[6:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-concepts?u=76281980&t=414)** So we'll have to figure out something about these.
 >
@@ -1341,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Logistic Regression]] (9), [[Linear Regression]] (3), [[Customer Support]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (9), [[Linear Regression]] (3), [[Customer Support]] (1), [[Pandas (Software)|Pandas]] (1), [[Codespaces]] (1)
 > **Definitions:** is a  (4), is called (1), in other words (1)
 > **Env Vars:** url (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1350,8 +1339,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Tools:** jupyter (1)
 
-#### Logistic regression: Data preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-data-preparation?u=76281980)
+#### [Logistic regression: Data preparation](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-data-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1403,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-data-preparation?u=76281980&t=211)** And then what we're getting here is count of the number of data points in each variable.
 >
-> **[3:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-data-preparation?u=76281980&t=216)** This is nice also because you get an idea of the summary statistics about each of the variables.
+> **[3:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-data-preparation?u=76281980&t=216)** This is nice also because you get an idea of the summary [[Statistics]] about each of the variables.
 >
 > **[3:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-data-preparation?u=76281980&t=222)** Now we know that we have 891 rows in the Titanic data frame and the cabin variable is almost all missing values.
 >
@@ -1505,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** hls (1)
@@ -1514,8 +1502,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression: Treat missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980)
+#### [Logistic regression: Treat missing values](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1597,7 +1584,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=267)** So we'll say cols 1.
 >
-> **[4:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=271)** Now what we want Python to do is to loop through any of the rows where age has a null value and make an approximation or basically assign a value based on the parch category.
+> **[4:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=271)** Now what we want [[Python (Programming Language)|Python]] to do is to loop through any of the rows where age has a null value and make an approximation or basically assign a value based on the parch category.
 >
 > **[4:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=284)** So to do that we're going to say if, and then we need to use the null value method here.
 >
@@ -1627,7 +1614,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=420)** What I'm doing here is I'm just closing this out with the average value of the age of the passengers on the boat.
 >
-> **[7:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=427)** So you can get that by going up here and looking at the descriptive statistics we generated, you can see that the average age of the passenger on a boat is 29.7.
+> **[7:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=427)** So you can get that by going up here and looking at the descriptive [[Statistics]] we generated, you can see that the average age of the passenger on a boat is 29.7.
 >
 > **[7:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-treat-missing-values?u=76281980&t=440)** So down here what I'm doing is I'm just saying if a passenger doesn't fall in one of the categories, then just assign them the average age of a person on the boat.
 >
@@ -1719,7 +1706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Statistics]] (1)
 > **Code Identifiers:** titanic_data (12), age_approx (2), parch_groups (1), reset_index (1)
 > **CLI Commands:** make (3), python (1)
 > **UI Navigation:** select the (2)
@@ -1728,8 +1715,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression: Re-encode variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-re-encode-variable?u=76281980)
+#### [Logistic regression: Re-encode variable](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-re-encode-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,7 +1867,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (2)
 > **Non-Speech:** (keyboard clicking) (44), (mouse clicking) (2)
 > **Code Identifiers:** label_encoder (6), titanic_data (6), gender_encoded (5), embarked_encoded (4), gender_cat (2)
 > **CLI Commands:** make (6)
@@ -1890,8 +1875,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression: Validating dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-validating-data-set?u=76281980)
+#### [Logistic regression: Validating dataset](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-validating-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1897,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-validating-data-set?u=76281980&t=44)** If you remember from part one of this course, if you have a correlation that's close to one or negative one, that means you're having some sort of strong linear relation between a variable pair.
 >
-> **[0:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-validating-data-set?u=76281980&t=55)** And as you recall, logistic regression assumes that features are independent of one another.
+> **[0:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-validating-data-set?u=76281980&t=55)** And as you recall, [[Logistic Regression]] assumes that features are independent of one another.
 >
 > **[1:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-validating-data-set?u=76281980&t=60)** So we can't have that.
 >
@@ -1969,7 +1953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Logistic Regression]] (3), feature (2), next (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (3)
 > **Code Identifiers:** titanic_dmy (4)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -1977,8 +1961,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression: Model deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-deployment?u=76281980)
+#### [Logistic regression: Model deployment](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,7 +2035,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-deployment?u=76281980&t=211)** Okay, run this, move it up.
 >
-> **[3:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-deployment?u=76281980&t=216)** So now we can go ahead and implement a logistic regression model and then see how well it performs.
+> **[3:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-deployment?u=76281980&t=216)** So now we can go ahead and implement a [[Logistic Regression]] model and then see how well it performs.
 >
 > **[3:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-deployment?u=76281980&t=222)** So the first thing we need to do is of course, to instantiate a logistic regression model.
 >
@@ -2098,7 +2081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Logistic Regression]] (4), next (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (4)
 > **CLI Commands:** make (3)
 > **Versions:** 0.2 (1)
 > **Cross-References:** in the next (1)
@@ -2106,8 +2089,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression: Model evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-evaluation?u=76281980)
+#### [Logistic regression: Model evaluation](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-model-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,14 +2147,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Code Identifiers:** y_train_pred (4), y_train (4), classification_report (1), y_test (1), y_pred (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression: Test prediction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980)
+#### [Logistic regression: Test prediction](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2216,7 +2196,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=112)** And then we will switch up the age a bit and say that this fictitious person is 40 instead of 42.
 >
-> **[2:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=121)** And then for the rest of the variables, I'll just leave everything the same as in the example above.
+> **[2:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=121)** And then for the [[Representational State Transfer (REST)|rest]] of the variables, I'll just leave everything the same as in the example above.
 >
 > **[2:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=128)** So it's going to be zero, everything's zero except for the last variable, which is one, two, five zeros and a one here.
 >
@@ -2224,7 +2204,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=144)** So to do that we're going to say .reshape, and that should be one and negative one.
 >
-> **[2:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=154)** Now let's make a prediction and take a look at the probability of whether or not that prediction is correct.
+> **[2:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=154)** Now let's make a prediction and take a look at the [[Probability]] of whether or not that prediction is correct.
 >
 > **[2:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=160)** So to do that we're going to call the print function and we're going to call our LogReg model.
 >
@@ -2248,11 +2228,11 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=241)** And these two individuals would in theory be almost identical except for age.
 >
-> **[4:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=247)** Now, the probability of this prediction being correct is 75%, and that is how you would do a logistic regression on the Titanic dataset.
+> **[4:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/logistic-regression-test-prediction?u=76281980&t=247)** Now, the probability of this prediction being correct is 75%, and that is how you would do a [[Logistic Regression]] on the Titanic dataset.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** predict_proba (1)
 > **Speakers:** - [instructor] (1)
@@ -2262,12 +2242,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cluster analysis with the K-means method
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980)
+#### [Cluster analysis with the K-means method](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=0)** - [Instructor] K-means clustering is an unsupervised machine learning algorithm that you can use to predict subgroups within a dataset.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=0)** - [Instructor] [[k-means clustering]] is an unsupervised machine learning algorithm that you can use to predict subgroups within a dataset.
 >
 > **[0:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=7)** With K-means clustering, you usually have an idea of how many subgroups are appropriate.
 >
@@ -2283,7 +2262,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=68)** That might not make a ton of sense to you right now, but I'm going to show you how to do this in practice in just a few seconds.
 >
-> **[1:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=78)** Okay, so here we are in our Jupyter Notebook and the Jupyter Notebook is coming preloaded with NumPy, pandas, Matplotlib and scikit-learn.
+> **[1:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=78)** Okay, so here we are in our Jupyter Notebook and the Jupyter Notebook is coming preloaded with NumPy, [[Pandas (Software)|pandas]], Matplotlib and scikit-learn.
 >
 > **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=87)** I do want to show you how to import K-means though.
 >
@@ -2419,7 +2398,7 @@ created: 2026-05-02
 >
 > **[8:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=535)** Okay, now we'll call the subplot function again.
 >
-> **[9:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=541)** And for the third parameter, this time we'll pass in a value of two to tell Python that we want the next scatter plot to be the second of the two charts.
+> **[9:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=541)** And for the third parameter, this time we'll pass in a value of two to tell [[Python (Programming Language)|Python]] that we want the next scatter plot to be the second of the two charts.
 >
 > **[9:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980&t=550)** So we'll say plt.subplot, and then it'll be one, two, and two.
 >
@@ -2511,7 +2490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[k-means clustering]] (4), next (2), [[Pandas (Software)|Pandas]] (1), feature (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (4), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** iris_df (3), load_iris (1), variable_names (1), feature_names (1), n_clusters (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** jupyter (3)
@@ -2520,8 +2499,7 @@ created: 2026-05-02
 > **Versions:** 1.0 (1)
 > **Warnings:** keep in mind (1)
 
-#### Hierarchical cluster analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980)
+#### [Hierarchical cluster analysis](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2557,19 +2535,19 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=107)** That's what we're going to do in our coding demonstration.
 >
-> **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=111)** Popular use cases for hierarchical clustering include hospital resource management, business process management, customer segmentation analysis, and social network analysis.
+> **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=111)** Popular use cases for hierarchical clustering include hospital resource management, [[Business Process Management]], customer segmentation analysis, and social network analysis.
 >
 > **[2:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=123)** Before moving into the coding demo, I want to tell you about important model parameters.
 >
 > **[2:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=128)** You're going to have to set parameters for distance metrics and linkage parameters.
 >
-> **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=133)** Distance metrics can be set as either Euclidean, Manhattan, or cosine, and the linkage parameters are word, complete, and average.
+> **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=133)** Distance metrics can be set as either Euclidean, Manhattan, or cosine, and the linkage parameters are [[Microsoft Word|word]], complete, and average.
 >
 > **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=143)** Basically, with hierarchical clustering, you are just going to try every combination of parameter settings that are possible, and the model that returns the most accurate results is the one you want to go with.
 >
 > **[2:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=156)** So here we are in our Jupyter notebook, and your Jupyter notebook is coming pre-loaded with the standard libraries we like to use.
 >
-> **[2:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=164)** So, of course, those are NumPy, Pandas, Matplotlib, Seaborn, and sklearn or scikit-learn.
+> **[2:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=164)** So, of course, those are NumPy, [[Pandas (Software)|Pandas]], Matplotlib, Seaborn, and sklearn or scikit-learn.
 >
 > **[2:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/hierarchicalcluster-analysis?u=76281980&t=171)** So, I'll just run this.
 >
@@ -2825,7 +2803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Word|Word]] (4), functional (1), management (1), [[Business Process Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Business Process Management]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Non-Speech:** (keypads clicking) (5)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (3)
@@ -2834,14 +2812,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (2)
 
-#### DBSCAN for outlier detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980)
+#### [DBSCAN for outlier detection](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=0)** - [Instructor] DBSCAN is an unsupervised machine learning method that clusters core samples from dense areas of a dataset and denotes non-core samples from sparse areas of that dataset.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=11)** An example of where you would use DBSCAN is imagine you're working on a computer vision project for the advancement of self-driving cars.
+> **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=11)** An example of where you would use DBSCAN is imagine you're working on a [[Computer Vision]] project for the advancement of self-driving cars.
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=20)** You've got some line data that's supposed to represent lanes, but you need to be able to predict lanes from lines.
 >
@@ -2871,7 +2848,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=94)** Looking at our Jupyter Notebook, you can see that it's coming preloaded with the libraries you'll need.
 >
-> **[1:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=99)** So those are Pandas, Matplotlib, Seaborn, and Scikit-learn.
+> **[1:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=99)** So those are [[Pandas (Software)|Pandas]], Matplotlib, Seaborn, and Scikit-learn.
 >
 > **[1:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=104)** And then I'm also giving you the parameters for Matplotlib state of visualization.
 >
@@ -2927,7 +2904,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=315)** We want eps to equal 0.8 and min_samples to equal 19.
 >
-> **[5:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=329)** This tells Python that we want a maximum distance of 0.8 between two samples in order for them to still be considered in the same neighborhood.
+> **[5:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=329)** This tells [[Python (Programming Language)|Python]] that we want a maximum distance of 0.8 between two samples in order for them to still be considered in the same neighborhood.
 >
 > **[5:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/dbscan-for-outlier-detection?u=76281980&t=340)** And as far as min_samples, we want to set that to 19 because that tells Python that each point must have a minimum of 19 samples to be considered as a core port.
 >
@@ -3039,7 +3016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (2), [[Python (Programming Language)|Python]] (2), [[Computer Vision]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Computer Vision]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** min_samples (3), outliers_df (2), read_csv (1), min_sample (1), add_axes (1)
 > **Env Vars:** dbscan (9)
 > **CLI Commands:** make (2), python (2)
@@ -3053,8 +3030,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explanatory factor analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980)
+#### [Explanatory factor analysis](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3062,7 +3038,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=2)** Factor analysis is a regression method you can apply to discover root causes or hidden factors that are present in the dataset, but not observable.
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=12)** For example, imagine you're in marketing data science and you must identify actionable customer segments for use in strategic marketing planning.
+> **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=12)** For example, imagine you're in marketing [[Data Science]] and you must identify actionable customer segments for use in strategic marketing planning.
 >
 > **[0:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=22)** You've got response data from a customer survey, so you can apply factor analysis as a simple way to group respondents into meaningful customer segments based on similarities and how respondents answered a specific subset of survey questions.
 >
@@ -3106,7 +3082,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=153)** Looking at your Jupyter notebook now, it's coming preloaded with all the libraries you'll need.
 >
-> **[2:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=158)** So you have NumPy and Pandas as well as scikit-learn.
+> **[2:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=158)** So you have NumPy and [[Pandas (Software)|Pandas]] as well as scikit-learn.
 >
 > **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980&t=163)** In this demonstration we'll be doing exploratory factor analysis.
 >
@@ -3164,7 +3140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), feature (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** in other words (2), is a  (1), means that (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -3173,12 +3149,11 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Prerequisites:** you'll need (1)
 
-#### Principal component analysis (PCA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980)
+#### [Principal component analysis (PCA)](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=0)** - [Instructor] Singular value decomposition is a linear algebra method that you can use to decompose a matrix into three resultant matrices.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=0)** - [Instructor] Singular value decomposition is a [[Linear Algebra]] method that you can use to decompose a matrix into three resultant matrices.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=8)** You do this in order to reduce information redundancy and noise.
 >
@@ -3208,21 +3183,21 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=93)** For an example, imagine you work for a major grocery store chain and you've got some data that was generated by customers making purchases with their rewards card.
 >
-> **[1:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=103)** The dataset describes customers and the products they purchase.
+> **[1:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=103)** The dataset describes customers and the [[Microsoft Products|products]] they purchase.
 >
 > **[1:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=108)** You need to identify what key factors, perhaps like age or income, that most affect the customers' purchasing behavior.
 >
-> **[1:56](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=116)** You can use PCA to decompose your customer purchasing data into one vector that describes the factors that influence the customers' purchasing behavior, and another vector that describes the probability that products will be purchased based on those key influencing factors.
+> **[1:56](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=116)** You can use PCA to decompose your customer purchasing data into one vector that describes the factors that influence the customers' purchasing behavior, and another vector that describes the [[Probability]] that products will be purchased based on those key influencing factors.
 >
 > **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=133)** Principal components are synthetic representations of a dataset.
 >
 > **[2:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=138)** Principal components contain all of the dataset's important information but do not include the noise, information redundancy, and outliers that were present in the original dataset.
 >
-> **[2:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=150)** PCA use cases include fraud detection, spam detection, speech recognition, and image recognition.
+> **[2:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=150)** PCA use cases include fraud detection, spam detection, [[Speech Recognition]], and image recognition.
 >
 > **[2:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=159)** Just to compare the differences between factors that you learned about in factor analysis and components that you are learning about here, in principal component analysis, both factors and components represent what is left of a dataset after information redundancy and noise has been stripped out.
 >
-> **[2:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=177)** You use them as input variables for machine learning algorithms to generate predictions from those compressed representations of your data.
+> **[2:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=177)** You use them as input variables for machine learning [[Algorithms]] to generate predictions from those compressed representations of your data.
 >
 > **[3:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=186)** Now let's make a DataFrame so we can look at our principal components.
 >
@@ -3290,7 +3265,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=373)** So here we are, here in our Jupyter Notebook and you'll be happy to see that you've got a lot of these libraries already preloaded for you.
 >
-> **[6:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=382)** So we've got the standard numpy, pandas, seaborn, as well as scikit-learn.
+> **[6:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=382)** So we've got the standard numpy, [[Pandas (Software)|pandas]], seaborn, as well as scikit-learn.
 >
 > **[6:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=386)** And I just want to point out here that we are importing the decomposition module from within sklearn, and then from within that, we are importing PCA, which we'll use for principal component analysis.
 >
@@ -3326,7 +3301,7 @@ created: 2026-05-02
 >
 > **[8:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=498)** So to print it out, we'll just say pca.explained_variance_ratio.
 >
-> **[8:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=513)** And I have a problem here because I've made this PCA big and then the rest of the PCAs are small.
+> **[8:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=513)** And I have a problem here because I've made this PCA big and then the [[Representational State Transfer (REST)|rest]] of the PCAs are small.
 >
 > **[8:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/principal-component-analysis-pca?u=76281980&t=519)** So let me just change this, make it a small pca, and then I can run this.
 >
@@ -3374,7 +3349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Linear Algebra]] (2), [[Microsoft Products|Products]] (2), [[Algorithms]] (2), application (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (2), [[Microsoft Products|Products]] (2), [[Algorithms]] (2), [[Probability]] (1), [[Speech Recognition]] (1)
 > **Env Vars:** pca (8), svd (3)
 > **Code Identifiers:** variable_names (2), explained_variance_ratio (2), iris_pca (1), fit_transform (1)
 > **Versions:** 92.5 (2), 97.8 (1), 97.7 (1)
@@ -3388,8 +3363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Association rules models with the Apriori algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980)
+#### [Association rules models with the Apriori algorithm](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3401,7 +3375,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=23)** Association rules seek to find relationships between purchases made by customers.
 >
-> **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=29)** This is very important for supermarkets and online stores for placements of products and recommendations of products for existing or new customers.
+> **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=29)** This is very important for supermarkets and online stores for placements of [[Microsoft Products|products]] and recommendations of products for existing or new customers.
 >
 > **[0:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=38)** Looking at a simple association rules use case, say, for example, eggs and bread are frequently purchased together.
 >
@@ -3415,7 +3389,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=100)** Association rules offer several advantages.
 >
-> **[1:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=103)** Those include: this method is relatively fast, it works well with small qualities of data, and it doesn't require much feature engineering.
+> **[1:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=103)** Those include: this method is relatively fast, it works well with small qualities of data, and it doesn't require much [[Feature Engineering]].
 >
 > **[1:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=114)** This is the first time we've talked about feature engineering.
 >
@@ -3439,7 +3413,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=173)** In our example, the support for bread can be calculated as the support of bread is equal to transactions containing bread divided by the total number of transactions, which in this example would be 500 divided by 5,000 or 0.1.
 >
-> **[3:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=191)** Confidence is the probability of seeing the consequence item.
+> **[3:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=191)** Confidence is the [[Probability]] of seeing the consequence item.
 >
 > **[3:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=196)** In other words, the then term of the equation within the data, given that the data also contains the antecedent, or the if term.
 >
@@ -3509,11 +3483,11 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=417)** And now we need to import our libraries.
 >
-> **[7:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=420)** So in this demonstration, we're going to use pandas.
+> **[7:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=420)** So in this demonstration, we're going to use [[Pandas (Software)|pandas]].
 >
 > **[7:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=423)** So we'll say import pandas as pd.
 >
-> **[7:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=431)** And then we also need to bring in our Apriori algorithms from the mlxtend.
+> **[7:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=431)** And then we also need to bring in our Apriori [[Algorithms]] from the mlxtend.
 >
 > **[7:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=439)** So we'll say from mlxtend.frequent_patterns, we want to import apriori.
 >
@@ -3557,7 +3531,7 @@ created: 2026-05-02
 >
 > **[8:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=535)** So we can convert our data by using the get_dummies function from the pandas library and then implementing one-hot encoding.
 >
-> **[9:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=545)** You saw one-hot encoding back in the logistic regression demo.
+> **[9:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=545)** You saw one-hot encoding back in the [[Logistic Regression]] demo.
 >
 > **[9:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980&t=550)** So the first thing we'll do is we'll just create an object called baskets_sets,
 >
@@ -3785,7 +3759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Products|Products]] (7), next (3), [[Feature Engineering]] (3), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Feature Engineering]] (3), [[Pandas (Software)|Pandas]] (3), [[Probability]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** frequent_itemsets (9), baskets_sets (5), get_dummies (2), baskets_set (2), use_colnames (2)
 > **Definitions:** is a  (7), in other words (7), means that (2), refers to (1)
 > **Versions:** 0.9 (3), 0.1 (1), 0.3 (1), 0.07 (1), 4.28 (1)
@@ -3794,8 +3768,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Cross-References:** in the next (1)
 
-#### Instance-based learning with KNN
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980)
+#### [Instance-based learning with KNN](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3817,7 +3790,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=73)** You also want to avoid using K-nearest neighbor on large datasets because it's probably going to take a very, very long time, depending on how big your dataset actually is.
 >
-> **[1:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=83)** So let's use Python to implement the K-nearest neighbor algorithm.
+> **[1:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=83)** So let's use [[Python (Programming Language)|Python]] to implement the K-nearest neighbor algorithm.
 >
 > **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=87)** So let's use Python to implement the K-nearest neighbor algorithm.
 >
@@ -3937,11 +3910,11 @@ created: 2026-05-02
 >
 > **[10:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=600)** That's it for instance-based learning.
 >
-> **[10:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=602)** Hold on, because next I'm going to show you how to use Python for decision trees with CART.
+> **[10:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/instance-based-learning-with-knn?u=76281980&t=602)** Hold on, because next I'm going to show you how to use Python for [[Decision Trees]] with CART.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Python (Programming Language)|Python]] (3), next (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Decision Trees]] (1)
 > **CLI Commands:** make (4), python (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Code Identifiers:** y_pred (2)
@@ -3950,12 +3923,11 @@ created: 2026-05-02
 > **Non-Speech:** (keypads clicking) (2)
 > **File Paths:** mtcars.csv (1)
 
-#### Decision trees with CART
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980)
+#### [Decision trees with CART](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=0)** - [Instructor] Let's look at decision trees with classification and regression.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=0)** - [Instructor] Let's look at [[Decision Trees]] with classification and regression.
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=4)** A decision tree is a decision-support tool that models decisions in order to predict probable outcomes of those decisions.
 >
@@ -3977,7 +3949,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=60)** So leaf nodes are the end nodes, they're leaves of the tree, the very end points of the tree, whereas the root is the base.
 >
-> **[1:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=69)** Now let's look at decision tree algorithms.
+> **[1:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=69)** Now let's look at decision tree [[Algorithms]].
 >
 > **[1:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=73)** Those are a class of supervised machine learning methods that are useful for making predictions from nonlinear data.
 >
@@ -4003,7 +3975,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=141)** These trees can be graphically represented in a way that's easy to read and easy to interpret.
 >
-> **[2:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=148)** Lastly, decision trees require less data preparation.
+> **[2:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=148)** Lastly, decision trees require less [[Data Preparation]].
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=153)** It's also nice that they can take care of categorical variables without having to implement one-hot encoding.
 >
@@ -4073,7 +4045,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=420)** This is a measure of total variance across K classes.
 >
-> **[7:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=423)** It measures the probability of misclassification.
+> **[7:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=423)** It measures the [[Probability]] of misclassification.
 >
 > **[7:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/decision-trees-with-cart?u=76281980&t=428)** Another important term that you need to know in decision trees is tree pruning.
 >
@@ -4113,15 +4085,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (15), node (13), data (13), [[Algorithms]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (15), [[Algorithms]] (2), [[Data Preparation]] (1), [[Probability]] (1)
 > **CLI Commands:** node (13), make (2), find (1)
 > **Definitions:** is a  (7), in other words (1), known as (1)
 > **Tools:** terminal (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bayesian statistics with Naïve Bayes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980)
+#### [Bayesian statistics with Naïve Bayes](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4135,7 +4106,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=30)** Using them, we can build a spam filtering system with a Naive Bayes model and successfully predict which incoming emails are spam, and which are not.
 >
-> **[0:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=41)** In the world of statistics, when you predict the likelihood that an event will occur given evidence that's present in your data, this prediction is called conditional probability.
+> **[0:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=41)** In the world of [[Statistics]], when you predict the likelihood that an event will occur given evidence that's present in your data, this prediction is called conditional [[Probability]].
 >
 > **[0:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=55)** There are three types of Naive Bayes models.
 >
@@ -4159,7 +4130,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=118)** A little note I wanted to add here is that actually all regression models maintain an a priori assumption.
 >
-> **[2:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=127)** The Jupyter Notebook for this demonstration is coming preloaded with NumPy, Pandas, urllib and scikit-learn, so all you need to do is run this, and I want to show you how to import the Naive Bayes models.
+> **[2:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=127)** The Jupyter Notebook for this demonstration is coming preloaded with NumPy, [[Pandas (Software)|Pandas]], urllib and scikit-learn, so all you need to do is run this, and I want to show you how to import the Naive Bayes models.
 >
 > **[2:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=144)** Those are from sklearn.
 >
@@ -4201,7 +4172,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=296)** Now we need to isolate predictive variables from this dataset.
 >
-> **[5:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=302)** The variables that describe word frequencies are standardized on the same scale, where other variables have differing magnitudes.
+> **[5:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=302)** The variables that describe [[Microsoft Word|word]] frequencies are standardized on the same scale, where other variables have differing magnitudes.
 >
 > **[5:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/bayesian-statisticss-with-naive-bayes?u=76281980&t=309)** The reasonable thing to do here is to analyze only the 48 features that describe word frequency counts.
 >
@@ -4321,7 +4292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Word|Word]] (2), [[Statistics]] (1), [[Probability]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Statistics]] (1), [[Probability]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** x_train (2), x_test (2), y_train (2), y_test (2), y_expect (2)
 > **Env Vars:** url (3)
 > **Versions:** 0.1 (2), 0.2 (1)
@@ -4330,8 +4301,7 @@ created: 2026-05-02
 > **File Paths:** np.load.txt (1)
 > **Tools:** jupyter (1)
 
-#### Ensemble learning with random forest
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980)
+#### [Ensemble learning with random forest](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4341,11 +4311,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=15)** They combine decisions from multiple models to improve the overall performance.
 >
-> **[0:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=22)** Ensemble learning involves creating a collection or ensemble of multiple algorithms for the purpose of generating a single model that's far more powerful and reliable than its component parts.
+> **[0:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=22)** Ensemble learning involves creating a collection or ensemble of multiple [[Algorithms]] for the purpose of generating a single model that's far more powerful and reliable than its component parts.
 >
 > **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=37)** These methods can be comprised of the same algorithm more than once or many types of algorithms that are aggregated.
 >
-> **[0:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=46)** Random forest is an ensemble of decision trees.
+> **[0:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=46)** Random forest is an ensemble of [[Decision Trees]].
 >
 > **[0:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=49)** There are different types of ensemble methods.
 >
@@ -4459,7 +4429,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=342)** All right, so here we are in our Jupyter Notebook and it's coming loaded with the libraries you'll need.
 >
-> **[5:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=349)** So, Numpy, Pandas, and scikit-learn, and we're doing ensemble methods with random forest.
+> **[5:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=349)** So, Numpy, [[Pandas (Software)|Pandas]], and scikit-learn, and we're doing ensemble methods with random forest.
 >
 > **[5:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/ensemble-learning-with-random-forest?u=76281980&t=357)** This is a classification problem wherein we'll be estimating the species labels for iris flowers.
 >
@@ -4629,7 +4599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Decision Trees]] (3), next (3), feature (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Decision Trees]] (3), [[Algorithms]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** y_pred (5), y_test (4), y_test_array (3), x_train (2), x_test (2)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **CLI Commands:** make (2), node (1)
@@ -4638,12 +4608,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Neural networks with perceptrons
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980)
+#### [Neural networks with perceptrons](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=0)** - [Instructor] Now it's time to learn the fundamental concept behind neural networks by building a perceptron.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=0)** - [Instructor] Now it's time to learn the fundamental concept behind [[Neural Networks]] by building a perceptron.
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=5)** There are five fundamental concepts we will need to explore before going into the demonstration.
 >
@@ -4677,7 +4646,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=95)** To accommodate for this, we need to add more layers and different types of activation functions to our neural network.
 >
-> **[1:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=102)** Adding these is what transforms this from a simple perceptron to an actual deep learning network.
+> **[1:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=102)** Adding these is what transforms this from a simple perceptron to an actual [[Deep Learning]] network.
 >
 > **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/neural-networks-with-perceptrons?u=76281980&t=111)** This brings us to the activation function.
 >
@@ -4695,18 +4664,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (2), data (2), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Deep Learning]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980)
+#### [Building a neural network](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=0)** - [Instructor] All right, so your Jupyter notebook is coming preloaded with all of the libraries you'll need in general.
 >
-> **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=8)** So there's numpy, pandas, sklearn.
+> **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=8)** So there's numpy, [[Pandas (Software)|pandas]], sklearn.
 >
 > **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=12)** And for this demonstration, we'll be working with the Iris dataset.
 >
@@ -4902,11 +4870,11 @@ created: 2026-05-02
 >
 > **[8:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=520)** This wraps up our demonstration of the perceptron model.
 >
-> **[8:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=525)** So next, we're going to move into natural language processing.
+> **[8:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/building-a-neural-network?u=76281980&t=525)** So next, we're going to move into [[Natural Language Processing (NLP)|natural language processing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (1), next (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** standardized_x_test (5), y_pred (4), y_train (3), y_test (3), x_train (2)
 > **Versions:** 0.2 (2), 0.15 (2)
 > **Prerequisites:** you'll need (2), set up (1)
@@ -4920,12 +4888,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to natural language processing (NLP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980)
+#### [Introduction to natural language processing (NLP)](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=0)** - [Instructor] Now it's time to talk about natural language processing a little bit.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=0)** - [Instructor] Now it's time to talk about [[Natural Language Processing (NLP)|natural language processing]] a little bit.
 >
 > **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=3)** There are quite a few new concepts you'll need to grasp before we can get into the actual analysis here.
 >
@@ -4937,7 +4904,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=30)** For example, sentence tokenization of the sentence that reads, "Geoffrey Hinton, Yann LeCun, Yoshua Bengio won Turing award this year.
 >
-> **[0:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=42)** They have been awarded for their significant contribution in the field of artificial intelligence."
+> **[0:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=42)** They have been awarded for their significant contribution in the field of [[Artificial Intelligence (AI)|artificial intelligence]]."
 >
 > **[0:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=47)** That would be our plain sentence.
 >
@@ -4949,7 +4916,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=79)** So it has taken this two sentence paragraph and broken it into two sentences.
 >
-> **[1:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=86)** Word tokenization on the other hand is the process of breaking down a paragraph, a sentence or a complete text corpus into an array of words.
+> **[1:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=86)** [[Microsoft Word|Word]] tokenization on the other hand is the process of breaking down a paragraph, a sentence or a complete text corpus into an array of words.
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=95)** So for example, if we had a plain sentence that read, "They have been awarded for their significant contribution in the field of artificial intelligence," the tokenized output would be each word in that sentence printed out as its own element within a list.
 >
@@ -4969,7 +4936,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=139)** Words such as a, these, they'd, do, have and you would all be considered stop words.
 >
-> **[2:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=149)** We will be using the Natural Language Toolkit, NLTK, library in Python to do our little NLP demo.
+> **[2:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=149)** We will be using the Natural Language Toolkit, NLTK, library in [[Python (Programming Language)|Python]] to do our little NLP demo.
 >
 > **[2:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980&t=158)** A nice thing about NLTK is that it has a set of stop words already defined within it, so you don't have to waste your time putting that together.
 >
@@ -5143,7 +5110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (37), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (37), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (5), in other words (2), stands for (2), is called (1), is an  (1)
 > **Code Identifiers:** sent_tk (4), sent_tokenize (2), word_tk (2)
 > **Env Vars:** nltk (6), nlp (1), vbz (1)
@@ -5152,8 +5119,7 @@ created: 2026-05-02
 > **CLI Commands:** pip (2), python (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning and stemming textual data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cleaning-and-stemming-textual-data?u=76281980)
+#### [Cleaning and stemming textual data](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cleaning-and-stemming-textual-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5211,7 +5177,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cleaning-and-stemming-textual-data?u=76281980&t=140)** Now we can use these to remove them from our text.
 >
-> **[2:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cleaning-and-stemming-textual-data?u=76281980&t=145)** To do that, we need to pass through each item or word in the word tokenized text, and tell Python to print out that item or word if it's not listed within the body of stop words.
+> **[2:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cleaning-and-stemming-textual-data?u=76281980&t=145)** To do that, we need to pass through each item or [[Microsoft Word|word]] in the word tokenized text, and tell [[Python (Programming Language)|Python]] to print out that item or word if it's not listed within the body of stop words.
 >
 > **[2:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cleaning-and-stemming-textual-data?u=76281980&t=157)** So first, we'll create a filter, and that filter is going to filter out stop words in the way just described.
 >
@@ -5331,15 +5297,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), next (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** stemmed_words (5), filtered_words (4), port_stem (2), word_tk (1), ascent_tokenized (1)
 > **Env Vars:** nltk (3), stem (1)
 > **CLI Commands:** python (2)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lemmatizing and analyzing textual data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980)
+#### [Lemmatizing and analyzing textual data](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5419,13 +5384,13 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=281)** So that's super handy.
 >
-> **[4:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=283)** This is useful for basically being able to analyze each word using Python.
+> **[4:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=283)** This is useful for basically being able to analyze each [[Microsoft Word|word]] using [[Python (Programming Language)|Python]].
 >
 > **[4:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=288)** This is useful for understanding the context of each word as it fits within a sentence and within an array of sentences.
 >
 > **[4:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=298)** Lastly, let's look at frequency distribution plotting.
 >
-> **[5:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=302)** So for this, you'll need to access the probability module inside of NLTK, and we need to import the frequency distribution function from that.
+> **[5:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=302)** So for this, you'll need to access the [[Probability]] module inside of NLTK, and we need to import the frequency distribution function from that.
 >
 > **[5:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=314)** So we'll say from nltk.probability import FreqDist.
 >
@@ -5483,11 +5448,11 @@ created: 2026-05-02
 >
 > **[9:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=551)** So the most frequently occurring character within our body of text was N.
 >
-> **[9:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=556)** And at this point, I want to ask you to congratulate yourself because you have actually gotten a pretty good start on knowing how to do natural language processing in Python.
+> **[9:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=556)** And at this point, I want to ask you to congratulate yourself because you have actually gotten a pretty good start on knowing how to do [[Natural Language Processing (NLP)|natural language processing]] in Python.
 >
 > **[9:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=567)** And in the first half of this course, you learned how to build a web scraper.
 >
-> **[9:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=573)** So what you could actually do now is begin scraping data from the internet and then using natural language processing to analyze that data and generate summaries, sort of like you could do with generative AI, but in this case with natural language processing.
+> **[9:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=573)** So what you could actually do now is begin scraping data from the internet and then using natural language processing to analyze that data and generate summaries, sort of like you could do with [[Generative AI]], but in this case with natural language processing.
 >
 > **[9:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/lemmatizing-and-analyzing-textual-data?u=76281980&t=590)** Speaking of generative AI, we're about to dig into the details of generative AI, how it's different than an LP, and go ahead and get you started with a little hands-on work in building with generative AI.
 >
@@ -5495,7 +5460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Generative AI]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (3), next (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Generative AI]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Python (Programming Language)|Python]] (2), [[Probability]] (2)
 > **Code Identifiers:** lemm_words (6), word_tk (4), pos_tagged_words (3), fd_alpha (3), pos_tag (2)
 > **CLI Commands:** python (2)
 > **Env Vars:** nltk (1)
@@ -5509,8 +5474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deep dive into generative AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980)
+#### [Deep dive into generative AI models](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5518,9 +5482,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=2)** This is a high-level sampler chapter and not, of course, a full GenAI implementation module.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=9)** Today, the most common GenAI systems you'll hear about in practice are large language models, diffusion models for image generation, and embeddings that power search and retrieval.
+> **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=9)** Today, the most common GenAI systems you'll hear about in practice are [[Large Language Models (LLM)|large language models]], diffusion models for image generation, and embeddings that power search and retrieval.
 >
-> **[0:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=21)** In this video, we'll zoom out and map the broader landscape, including foundational model families like GANs and VAEs, so that you have the right mental model of what fits where.
+> **[0:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=21)** In this video, we'll [[Zoom]] out and map the broader landscape, including foundational model families like GANs and VAEs, so that you have the right mental model of what fits where.
 >
 > **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=34)** Now let's explore the diverse landscape of generative models, which are at the forefront of AI's ability to create new synthetic data that mimics real-world distributions.
 >
@@ -5528,7 +5492,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=53)** At the heart of this landscape are several key types of models.
 >
-> **[0:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=58)** There's Generative Adversarial Networks or GANs, and these involve two neural networks, the generator and the discriminator, competing against each other.
+> **[0:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=58)** There's [[Generative Adversarial Networks (GANs)|Generative Adversarial Networks]] or GANs, and these involve two [[Neural Networks]], the generator and the discriminator, competing against each other.
 >
 > **[1:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=69)** The generator creates data, while the discriminator evaluates it against real data, in order to drive the generator to produce increasingly accurate outputs.
 >
@@ -5538,7 +5502,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=101)** Then there's transformer-based models.
 >
-> **[1:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=104)** These were originally designed for natural language processing tasks.
+> **[1:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=104)** These were originally designed for [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[1:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=108)** Transformers use self-attention mechanisms to generate highly coherent and contextually relevant text.
 >
@@ -5548,7 +5512,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=130)** Each of these models offers unique advantages and is suited for different types of generative tasks, from creating realistic images and music to synthesizing textual content.
 >
-> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=143)** represent a revolutionary approach in the field of generative AI.
+> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=143)** represent a revolutionary approach in the field of [[Generative AI]].
 >
 > **[2:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980&t=148)** Developed by Ian Goodfellow and his colleagues in 2014, GANs involve two neural networks engaged in a game theoretic scenario where each network learns to improve its performance based on the other's output.
 >
@@ -5606,14 +5570,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (3), [[Neural Networks]] (2), next (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (2), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Zoom]] (1), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** vae (1), gpt (1), brt (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Cross-References:** in the next (1)
 
-#### Keeping up with AI developments
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980)
+#### [Keeping up with AI developments](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5629,9 +5592,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=26)** The first C stands for community and conferences.
 >
-> **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=29)** In the rapidly evolving generative AI space, staying connected through professional networks and communities is vital.
+> **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=29)** In the rapidly evolving [[Generative AI]] space, staying connected through professional networks and communities is vital.
 >
-> **[0:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=38)** Considering engaging with these groups, such as LinkedIn AI focus groups, specialized AI forums like Stack Exchange, or broader tech communities on Reddit.
+> **[0:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=38)** Considering engaging with these groups, such as [[LinkedIn]] AI focus groups, specialized AI forums like Stack Exchange, or broader tech communities on Reddit.
 >
 > **[0:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=50)** This will provide a platform to share knowledge, discuss new developments, and gain diverse perspectives.
 >
@@ -5689,9 +5652,9 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=255)** Additionally, leveraging social media and news aggregators can be very helpful.
 >
-> **[4:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=261)** Following AI influencers and thought leaders on platforms like LinkedIn or X, and subscribing to AI topics on news aggregators will help to ensure you receive real-time updates and diverse viewpoints.
+> **[4:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=261)** Following AI influencers and thought leaders on platforms like LinkedIn or X, and subscribing to AI topics on news aggregators will help to ensure you receive [[Real-Time]] updates and diverse viewpoints.
 >
-> **[4:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=275)** Consider setting up a Google alert to send you notifications about the latest developments in AI so that you never miss out on important in advancements.
+> **[4:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=275)** Consider setting up a [[Google]] alert to send you notifications about the latest developments in AI so that you never miss out on important in advancements.
 >
 > **[4:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=286)** The last C stands for creative experimentation.
 >
@@ -5699,7 +5662,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=295)** Actively using AI tools and platforms both deepens your understanding while also sparking innovation.
 >
-> **[5:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=303)** Platforms like TensorFlow and PyTorch offer robust environments where you can experiment with building and training models.
+> **[5:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=303)** Platforms like [[TensorFlow]] and [[PyTorch]] offer robust environments where you can experiment with building and training models.
 >
 > **[5:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=310)** These hands-on experiences are vital to your understanding of the practical applications of theoretical concepts.
 >
@@ -5713,21 +5676,20 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=348)** They are pivotal in keeping your skills sharp as well as in driving the field of AI forward overall.
 >
-> **[5:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=355)** Now that you've seen how to keep up with AI advancements, let's get a little practice working with transformer models.
+> **[5:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=355)** Now that you've seen how to keep up with AI advancements, let's get a little practice working with [[Transformer Models]].
 >
 > **[6:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/keeping-up-with-ai-developments?u=76281980&t=363)** That's what's coming up next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (32), [[LinkedIn]] (3), [[Generative AI]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Generative AI]] (1), [[Real-Time]] (1), [[Google]] (1), [[TensorFlow]] (1)
 > **Definitions:** stands for (4), is a  (2)
 > **Analogies:** such as (3)
 > **Versions:** 3.0 (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Coding demo: Implementing a generative AI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980)
+#### [Coding demo: Implementing a generative AI model](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5773,9 +5735,9 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=148)** and then also GPT-2 tokenizer.
 >
-> **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=155)** Back to the warnings, we need to suppress a specific feature warning from Hugging Face Hub.
+> **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=155)** Back to the warnings, we need to suppress a specific feature warning from [[Hugging Face]] Hub.
 >
-> **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=163)** When I was developing this demo, HuggingFace was throwing future warnings about a resume download function that we're not actually using directly within this demo.
+> **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=163)** When I was developing this demo, [[Hugging Face|HuggingFace]] was throwing future warnings about a resume download function that we're not actually using directly within this demo.
 >
 > **[2:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=174)** This warning was probably raised by internal mechanisms within the HuggingFace hub, when it tries to download the model files or other resources.
 >
@@ -5859,7 +5821,7 @@ created: 2026-05-02
 >
 > **[9:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=544)** We'll call this output generated underscore text, set it equal to our tokenizer.decode, and then we'll just read out the first line.
 >
-> **[9:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=560)** So we'll say output, select zero, and then let's skip special tokens.
+> **[9:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=560)** So we'll say output, select zero, and then let's skip special [[Tokens]].
 >
 > **[9:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=567)** So just set the skip underscore special, underscore tokens parameter equal to true, and then we can print out our generated text.
 >
@@ -5879,11 +5841,11 @@ created: 2026-05-02
 >
 > **[10:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=622)** Then that took care of that.
 >
-> **[10:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=624)** Then as you can see what the model has done is it took the text, we provided it the input text in the AI field, and then went ahead and generated the rest of the sentence.
+> **[10:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=624)** Then as you can see what the model has done is it took the text, we provided it the input text in the AI field, and then went ahead and generated the [[Representational State Transfer (REST)|rest]] of the sentence.
 >
 > **[10:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=636)** So it generated, in the AI field, the most important thing to understand is the underlying mechanisms that drive the behavior of the systems.
 >
-> **[10:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=645)** The AI system is a collection of algorithms that are designed to perform tasks that require a certain amount of processing power.
+> **[10:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=645)** The AI system is a collection of [[Algorithms]] that are designed to perform tasks that require a certain amount of processing power.
 >
 > **[10:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/coding-demo-implementing-a-generative-ai-model?u=76281980&t=651)** The AI systems are not designed for the specific task at hand, but rather a specific set of tasks.
 >
@@ -5897,7 +5859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (5), [[Hugging Face|Huggingface]] (2), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Hugging Face|Huggingface]] (2), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Hugging Face]] (1), [[Algorithms]] (1)
 > **Env Vars:** gpt (5), eos (3), pad (2), llm (1), lmh (1)
 > **CLI Commands:** pip (4), make (2)
 > **Code Identifiers:** numbeams (1), norepeat (1), gramsize (1), filterwarnings (1), futurewarning (1)
@@ -5911,24 +5873,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=0)** - [Instructor] In terms of next steps, I encourage you next to go and learn how to build responsible and ethical AI systems in the course [[Responsible AI- Principles and Practical Applications]].
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=0)** - [Instructor] In terms of next steps, I encourage you next to go and learn how to build responsible and ethical AI systems in the course [[[[Responsible AI]]- Principles and Practical Applications]].
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=14)** Also, I really want to encourage you to go ahead and start practicing your new data skills by working to create efficiencies in your daily workflows with your employer or in your business.
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=26)** Lastly, I want to invite you to join The Convergence.
 >
-> **[0:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=30)** The Convergence Community is dedicated to empowering leaders of SaaS startups and tech consultancies to achieve consistent, predictable revenue growth through advanced AI-led growth initiatives, data-driven marketing strategies, and executive insights, and my goal is for the newsletter to be a strategic resource to help tech leaders to increase brand revenue and drive sustainable growth.
+> **[0:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=30)** The Convergence Community is dedicated to empowering leaders of [[SaaS]] startups and tech consultancies to achieve consistent, predictable revenue growth through advanced AI-led growth initiatives, data-driven marketing strategies, and executive insights, and my goal is for the newsletter to be a strategic resource to help tech leaders to increase brand revenue and drive sustainable growth.
 >
 > **[0:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980&t=57)** To join The Convergence Newsletter, simply visit this page and drop your details so that we can send you a kickoff email that is loaded to the brim with free goodies to get you ahead in your growth journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), data (2), [[Responsible AI]] (1), business (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[SaaS]] (1)
 > **Speakers:** - [instructor] (1)
 
 

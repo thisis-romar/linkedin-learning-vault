@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with Azure tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980)
+#### [Get started with Azure tools](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980&t=0)** - Do you want to do more in Microsoft Azure, this vast environment with thousands of wonderful technologies that you can implement?
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980&t=0)** - Do you want to do more in [[Microsoft Azure]], this vast environment with thousands of wonderful technologies that you can implement?
 >
 > **[0:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980&t=9)** Well, you got to know how to use the tools in order to do this, and that is why I created this course.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980&t=16)** To get you up and running on each tool, the portal, Azure CLI, PowerShell, ARM templates, and the Bicep language.
+> **[0:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980&t=16)** To get you up and running on each tool, the portal, [[Microsoft Azure|Azure]] [[CLI]], [[Powershell]], ARM templates, and the Bicep language.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980&t=26)** You won't need expertise in Microsoft Azure for this course.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (2), cloud (2), [[CLI]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Azure]] (2), [[CLI]] (1), [[Powershell]] (1)
 > **Env Vars:** cli (1), arm (1)
 > **Tools:** powershell (1)
 > **Speakers:** - do (1)
@@ -118,12 +117,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980)
+#### [Understand the Azure portal](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=0)** - [Instructor] We're going to introduce you to the Azure Portal, and it's important to know when is the right time to use the portal as opposed to some of the other tools that we're going to go over.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=0)** - [Instructor] We're going to introduce you to the [[Microsoft Azure|Azure]] Portal, and it's important to know when is the right time to use the portal as opposed to some of the other tools that we're going to go over.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=11)** The first reason is an overview.
 >
@@ -135,11 +133,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=43)** The second is you only have a few tasks to perform.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=48)** If you have multiple virtual machines, web apps, et cetera, to install, it's not going to be easy through the portal, but when you only have a few things, it works great.
+> **[0:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=48)** If you have multiple [[Virtual Machines]], web apps, et cetera, to install, it's not going to be easy through the portal, but when you only have a few things, it works great.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=60)** The next reason: you want to see the options that are available to you.
 >
-> **[1:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=65)** You will be learning new things if you're working with Microsoft Azure, undoubtedly, and you're not always going to know just what to do with a particular resource.
+> **[1:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=65)** You will be learning new things if you're working with [[Microsoft Azure]], undoubtedly, and you're not always going to know just what to do with a particular resource.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980&t=76)** Well, with the portal, you can bring it up, you can take a look at it, you can examine all the different options that you have for that particular resource, and just by inspection, just by looking at it, you can educate yourself on what options are available to you.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), next (2), [[Microsoft Azure|Azure]] (1), [[Virtual Machines]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Virtual Machines]] (1), [[Microsoft Azure]] (1)
 > **Tools:** azure portal (1), command line (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -165,8 +163,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### The layout of Microsoft Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980)
+#### [The layout of Microsoft Azure portal](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=2)** We'll start off by locating the portal, where it is on the internet and how you get in there, and then we'll identify the homepage.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=11)** The homepage is where you land when you go into Microsoft Azure.
+> **[0:11](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=11)** The homepage is where you land when you go into [[Microsoft Azure]].
 >
 > **[0:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=16)** The homepage is divided into sections.
 >
@@ -186,11 +183,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=31)** You can use any browser.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=33)** We're going to use Google Chrome for this, but you can use whatever browser you would like.
+> **[0:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=33)** We're going to use [[Google]] Chrome for this, but you can use whatever browser you would like.
 >
 > **[0:37](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=37)** Just make sure it's the latest version to assure that the functionality is all there.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=44)** I'm going to come up here and simply type in portal.[azure.com](https://azure.com).
+> **[0:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=44)** I'm going to come up here and simply type in portal.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=52)** I'm going to hit Enter and it comes in here automatically for me, and that is because I have logged in here before.
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=106)** The dashboard.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=108)** Dashboards are something where you can customize the look and feel and content of your Microsoft Azure.
+> **[1:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=108)** [[Dashboards]] are something where you can customize the look and feel and content of your Microsoft Azure.
 >
 > **[1:56](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=116)** And then we have all services.
 >
@@ -230,9 +227,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=161)** So this is key to finding stuff in Microsoft Azure.
 >
-> **[2:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=166)** Moving to the right, we have something that's called the Cloud Shell, and the Cloud Shell allows you with your credentials and your subscription and your proper Entra ID focus right in onto your account.
+> **[2:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=166)** Moving to the right, we have something that's called the Cloud Shell, and the Cloud Shell allows you with your credentials and your subscription and your proper [[Microsoft Entra ID|Entra ID]] focus right in onto your account.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=181)** So if you have command lines that you want to do with PowerShell or Azure CLI, you can do this through the Cloud Shell.
+> **[3:01](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=181)** So if you have command lines that you want to do with [[Powershell]] or Azure [[CLI]], you can do this through the Cloud Shell.
 >
 > **[3:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=189)** And then we have notifications.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=237)** And then we have feedback.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=239)** We can give a smiley face, we can give a frowny face as feedback to Microsoft so they can adjust according to what the mass of people say.
+> **[3:59](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=239)** We can give a smiley face, we can give a frowny face as feedback to [[Microsoft]] so they can adjust according to what the mass of people say.
 >
 > **[4:11](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/the-layout-of-microsoft-azure-portal?u=76281980&t=251)** So it's a good idea to give feedback.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (11), [[Microsoft Azure|Azure]] (3), cloud (3), [[Google]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (11), [[Microsoft Azure|Azure]] (3), [[Google]] (1), [[Dashboards]] (1), [[Microsoft Entra ID|Entra id]] (1)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** make (2)
 > **URLs:** [azure.com](https://azure.com) (1)
@@ -277,18 +274,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Create and use a dashboard in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980)
+#### [Create and use a dashboard in Azure](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=0)** - In this demonstration, we're going to show you how to customize your Microsoft Azure to fit your needs, to make you comfortable within the portal.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=0)** - In this demonstration, we're going to show you how to customize your [[Microsoft Azure]] to fit your needs, to make you comfortable within the portal.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=11)** So we'll begin by looking at the favorites.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=13)** We're going to build a dashboard.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=15)** We're going to change the look and fill of Microsoft Azure and the whole purpose of this is to make Azure work for you.
+> **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=15)** We're going to change the look and fill of Microsoft Azure and the whole purpose of this is to make [[Microsoft Azure|Azure]] work for you.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=24)** So let's go into the portal.
 >
@@ -298,9 +294,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=44)** So it's a little tough to find what you're looking for sometimes.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=48)** And if you have the main things that you use within favorites, that's going to help you out quite a bit and getting rid of things inside of here that you don't use, which should be the majority of Microsoft resources, then go ahead and eliminate those, let me show you how to do that.
+> **[0:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=48)** And if you have the main things that you use within favorites, that's going to help you out quite a bit and getting rid of things inside of here that you don't use, which should be the majority of [[Microsoft]] resources, then go ahead and eliminate those, let me show you how to do that.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=66)** Let's say SQL databases, you're just not interested in something like that.
+> **[1:06](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=66)** Let's say [[SQL]] [[Databases]], you're just not interested in something like that.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=70)** You can come through here, see the little star, delete it, and what that's going to do is that's going to take it off.
 >
@@ -320,7 +316,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=124)** So we're going to create a new one and we do that by clicking here where it says create.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=129)** Under Create you can see as I scroll down, you have some built-in dashboards that you can just release that you have here or you can customize it.
+> **[2:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=129)** Under Create you can see as I scroll down, you have some built-in [[Dashboards]] that you can just release that you have here or you can customize it.
 >
 > **[2:23](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?u=76281980&t=143)** And what we're going to do is we're going to customize it and this is what it looks like.
 >
@@ -398,8 +394,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Create and deploy a resource in the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980)
+#### [Create and deploy a resource in the Azure portal](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,13 +404,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=17)** I'll show you a few examples, but we're going to go through the entire process for creating a Virtual Machine.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=23)** The reason we do this is so that you can now know how to use the portal in order to do what you would like to do in Microsoft Azure.
+> **[0:23](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=23)** The reason we do this is so that you can now know how to use the portal in order to do what you would like to do in [[Microsoft Azure]].
 >
 > **[0:32](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=32)** Let's go to the portal.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=34)** From the portal, there's at least three ways to do the same thing.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=40)** The options that we have is you can come up here to create a resource and you could just go over here to Virtual Machines to create a Virtual Machine.
+> **[0:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=40)** The options that we have is you can come up here to create a resource and you could just go over here to [[Virtual Machines]] to create a Virtual Machine.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-deploy-a-resource-in-the-azure-portal?u=76281980&t=48)** I'd like to take you through the process.
 >
@@ -535,7 +530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (4), next (3), web (2), [[Virtual Machines]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Virtual Machines]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (2)
@@ -544,8 +539,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Work with resources in the Azure portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980)
+#### [Work with resources in the Azure portal](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=16)** We're going to do something, we're going to apply a tag to portalvm and then when we're all done, we're going to delete the Resource Group.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=25)** Now we do this so you don't get charged for that virtual machine and other resources that you have in Microsoft Azure.
+> **[0:25](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=25)** Now we do this so you don't get charged for that virtual machine and other resources that you have in [[Microsoft Azure]].
 >
 > **[0:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=33)** You delete the Resource Group, it deletes everything within it.
 >
@@ -583,7 +577,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=81)** The Activity Log, not a lot in it now, because we just created this, but the Activity Log is going to be a good place for you to go to find out what all has happened and who did what to this particular resource, in this case, a virtual machine.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=97)** Access Control, with Microsoft Azure, you have a user database formerly called, Azure Active Directory, now Entra ID.
+> **[1:37](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=97)** Access Control, with Microsoft Azure, you have a user database formerly called, [[Microsoft Entra ID|Azure Active Directory]], now [[Microsoft Entra ID|Entra ID]].
 >
 > **[1:49](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=109)** But the idea is the same, that you can give access and rights to resources to certain individual accounts.
 >
@@ -609,7 +603,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=160)** We can connect to this server through this interface as well.
 >
-> **[2:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=165)** We have the Windows Admin Center for that particular virtual machine because it's Windows.
+> **[2:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=165)** We have the [[Windows]] Admin Center for that particular virtual machine because it's Windows.
 >
 > **[2:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=172)** And then coming down here, we have the Network Settings, Load Balancing, Network Manager, Disks, and all the different things that go on this particular machine.
 >
@@ -629,7 +623,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=211)** And as you know, backing up is one of the most important things you do, in particular for your servers.
 >
-> **[3:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=218)** Well, Azure has this whole built-in mechanism for Backing Up, for Creating Restore Points for Disaster Recovery, all through this different interface here.
+> **[3:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=218)** Well, [[Microsoft Azure|Azure]] has this whole built-in mechanism for Backing Up, for Creating Restore Points for Disaster Recovery, all through this different interface here.
 >
 > **[3:50](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/work-with-resources-in-the-azure-portal?u=76281980&t=230)** The Operations, we have a Run Command that we can run on this particular virtual machine.
 >
@@ -703,21 +697,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (6), [[Windows]] (2), database (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Entra ID|Entra id]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (6), [[Windows]] (2), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Entra ID|Entra id]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (5), go to (4)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** dept (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Azure remote app
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980)
+#### [Use the Azure remote app](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to do something a little bit different.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=3)** I'm going to show you my phone screen and the Azure app that is available to you that can make your life easier as you're dealing with and working with Microsoft Azure.
+> **[0:03](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=3)** I'm going to show you my phone screen and the [[Microsoft Azure|Azure]] app that is available to you that can make your life easier as you're dealing with and working with [[Microsoft Azure]].
 >
 > **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=15)** I'm going to show you how to get the app and once we're inside of the app, how to navigate around and what is available to you in the Azure app.
 >
@@ -727,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=33)** This is the Azure mobile app.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=35)** And you get here simply by going to the Google Store, or going to the Apple Store, searching for Azure and it'll pop up right there, the Azure Mobile app.
+> **[0:35](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=35)** And you get here simply by going to the [[Google]] Store, or going to the Apple Store, searching for Azure and it'll pop up right there, the Azure Mobile app.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=45)** Once you download it, you initiate it or start it.
 >
@@ -743,7 +736,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=89)** I'm going to start off.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=90)** You see virtual machines, We deleted our virtual machine, but if we had it, it would be in here and we could do pretty much anything to that virtual machine that we could with the Microsoft portal.
+> **[1:30](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=90)** You see [[Virtual Machines]], We deleted our virtual machine, but if we had it, it would be in here and we could do pretty much anything to that virtual machine that we could with the [[Microsoft]] portal.
 >
 > **[1:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=104)** Very convenient.
 >
@@ -769,7 +762,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=162)** And then we have Service Health.
 >
-> **[2:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=165)** The products in Microsoft Azure are going to have issues.
+> **[2:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=165)** The [[Microsoft Products|products]] in Microsoft Azure are going to have issues.
 >
 > **[2:51](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=171)** They're going to work better sometimes than others.
 >
@@ -783,13 +776,13 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=189)** Cloud Shell is a way for you to get into your Microsoft account and subscription and perform command lines on those resources.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=200)** You can see as it built in here, it's automatically connected to my subscription, automatically connected to my Entra ID and everything that I have inside of the portal available through the command line interface you can do through this.
+> **[3:20](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=200)** You can see as it built in here, it's automatically connected to my subscription, automatically connected to my [[Microsoft Entra ID|Entra ID]] and everything that I have inside of the portal available through the command line interface you can do through this.
 >
 > **[3:35](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=215)** Now obviously if you're typing in with a phone keypad, a very long script is not going to be very reasonable.
 >
 > **[3:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=225)** You probably want to wait till you get on the portal.
 >
-> **[3:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=228)** We're going to close the PowerShell and we're going to scroll down a little bit more to see the favorites.
+> **[3:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=228)** We're going to close the [[Powershell]] and we're going to scroll down a little bit more to see the favorites.
 >
 > **[3:58](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-the-azure-remote-app?u=76281980&t=238)** So if we had our favorites that we put in here, the things that we commonly use, we can go right here and use those.
 >
@@ -805,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Azure]] (5), cloud (3), [[Microsoft]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Microsoft Azure]] (5), [[Microsoft]] (2), [[Google]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** scroll down (2), go to (1), scroll up (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** command line (1), powershell (1)
@@ -818,16 +811,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Azure CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980)
+#### [Understand the Azure CLI](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=0)** - [Instructor] Welcome to Azure CLI.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=0)** - [Instructor] Welcome to [[Microsoft Azure|Azure]] [[CLI]].
 >
 > **[0:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=2)** Let's define what it is.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=4)** It's a cross-platform command line tool to connect to Azure and execute administrative commands to the resources you have in Microsoft Azure.
+> **[0:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=4)** It's a cross-platform command line tool to connect to Azure and execute administrative commands to the resources you have in [[Microsoft Azure]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=14)** Here are the benefits.
 >
@@ -875,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=111)** You have az and then the group, the subgroup, so here's an example.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=115)** az, we're talking about virtual machines, no subgroup, just a virtual machine.
+> **[1:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=115)** az, we're talking about [[Virtual Machines]], no subgroup, just a virtual machine.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=120)** What the command is, is it's create, and then you're required for a resource group, we're going to put it in this resource group, the name of the virtual machine, the image that we're using, and then finally the admin username, and in this case it's AzureToolsAdmin.
 >
@@ -905,7 +897,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=185)** So a big part of this course is what tool to use in what circumstance.
 >
-> **[3:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=189)** So the Azure CLI is best used when you're using a Linux or Apple operating system.
+> **[3:09](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=189)** So the Azure CLI is best used when you're using a [[Linux]] or Apple operating system.
 >
 > **[3:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980&t=196)** Again, it's cross-platform.
 >
@@ -933,21 +925,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[CLI]] (5), cross-platform (3), [[Microsoft Azure]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[CLI]] (5), [[Microsoft Azure]] (1), [[Virtual Machines]] (1), [[Linux]] (1)
 > **CLI Commands:** az (6), find (1)
 > **Env Vars:** cli (5)
 > **Tools:** command line (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Get help with the Azure CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980)
+#### [Get help with the Azure CLI](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=0)** - [Instructor] In this demonstration, I'm going to show you how to launch the Cloud Shell from the portal.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=5)** Now, there's different ways of using the Azure CLI, there's a client you can install and there are also modules that you can install with a PowerShell command to use Azure CLI.
+> **[0:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=5)** Now, there's different ways of using the [[Microsoft Azure|Azure]] [[CLI]], there's a client you can install and there are also modules that you can install with a [[Powershell]] command to use Azure CLI.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=19)** I'm going to show you how to find help.
 >
@@ -977,7 +968,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=84)** And it connects to the terminal, it connects to our subscription that we're logged in with.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=90)** And what we have for our account inside of Microsoft Azure will have the ability to do inside of the Azure CLI.
+> **[1:30](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=90)** And what we have for our account inside of [[Microsoft Azure]] will have the ability to do inside of the Azure CLI.
 >
 > **[1:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=100)** So it just takes a moment, and there we are, we have our prompt.
 >
@@ -1015,7 +1006,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=223)** I'm going to scroll up.
 >
-> **[3:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=226)** And as we're going through, notice like mysql, it tells you what that particular thing is for.
+> **[3:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=226)** And as we're going through, notice like [[MySQL]], it tells you what that particular thing is for.
 >
 > **[3:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-with-the-azure-cli?u=76281980&t=235)** And as you have learned, we can just say az, say mysql --help, and it's going to give us information about using that particular resource with the Azure CLI.
 >
@@ -1057,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[CLI]] (12), cloud (3), [[Microsoft Azure]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[CLI]] (12), [[Microsoft Azure]] (2), [[MySQL]] (2), [[Powershell]] (1)
 > **CLI Commands:** az (8), find (4), mysql (2)
 > **Env Vars:** cli (12)
 > **UI Navigation:** scroll up (2), go to (1), click on (1)
@@ -1066,12 +1057,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy resources with the Azure CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980)
+#### [Deploy resources with the Azure CLI](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to create a resource group and then create a virtual machine inside of that resource group, all through the Azure CLI.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to create a resource group and then create a virtual machine inside of that resource group, all through the [[Microsoft Azure|Azure]] [[CLI]].
 >
 > **[0:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=12)** We'll then take a look at the properties through the Azure CLI of the virtual machine and the resource group.
 >
@@ -1167,7 +1157,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=284)** Most of what you see here is just the default.
 >
-> **[4:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=288)** It doesn't take any eviction policy, it doesn't do a hardware profile necessarily, and a lot of these settings are null.
+> **[4:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=288)** It doesn't take any eviction policy, it doesn't do a [[Hardware]] profile necessarily, and a lot of these settings are null.
 >
 > **[4:57](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=297)** All of these settings that you see right now, you can change or you can create those parameters when you're creating your virtual machine.
 >
@@ -1195,7 +1185,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=348)** And then this, what resource type are we talking about?
 >
-> **[5:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=352)** And in this case, it's Microsoft.compute/virtualMachines.
+> **[5:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=352)** And in this case, it's [[Microsoft]].compute/virtualMachines.
 >
 > **[5:57](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=357)** You hit Enter and it is as simple as that.
 >
@@ -1207,7 +1197,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=373)** So it is a little more involved applying the same thing, tags, with the portal, we just had to go in there and put it in.
 >
-> **[6:21](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=381)** However, you can iterate through all the different virtual machines that you have or want to tag and apply this to each one so you don't have to go in there and click and apply and type in for each tag.
+> **[6:21](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=381)** However, you can iterate through all the different [[Virtual Machines]] that you have or want to tag and apply this to each one so you don't have to go in there and click and apply and type in for each tag.
 >
 > **[6:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-resources-with-the-azure-cli?u=76281980&t=398)** It makes things a lot more simple.
 >
@@ -1249,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Microsoft Azure|Azure]] (5), [[CLI]] (4), power (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[CLI]] (4), [[Hardware]] (1), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** az (5)
 > **Env Vars:** cli (4), mac (1)
 > **UI Navigation:** scroll up (2), go to (1), click on (1)
@@ -1258,12 +1248,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Azure CLI interactive mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980)
+#### [Use Azure CLI interactive mode](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=0)** - [Instructor] In this demonstration for interactive mode with the Azure CLI, we're going to launch interactive mode, discover how this all works, and then create a resource group, a virtual machine.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=0)** - [Instructor] In this demonstration for interactive mode with the [[Microsoft Azure|Azure]] [[CLI]], we're going to launch interactive mode, discover how this all works, and then create a resource group, a virtual machine.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=12)** And the reason we're doing this is this is an easier way to use the Azure CLI and you should be familiar with it.
 >
@@ -1271,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=23)** We have our cloud shell set up.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=25)** It is set up for home Azure with a PowerShell prompt.
+> **[0:25](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=25)** It is set up for home Azure with a [[Powershell]] prompt.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=30)** And how we get into interactive mode is we simply come in here, AZ, and then interactive, hit return, and this takes a while to install.
 >
@@ -1341,7 +1330,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=232)** Then that's all the things that we can do with a VM.
 >
-> **[3:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=235)** Now let's say we're just working with virtual machines.
+> **[3:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=235)** Now let's say we're just working with [[Virtual Machines]].
 >
 > **[3:58](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-cli-interactive-mode?u=76281980&t=238)** I want to show you something about the scope here.
 >
@@ -1447,7 +1436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (34), [[Microsoft Azure|Azure]] (6), [[CLI]] (5), prompt (3), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[CLI]] (5), [[Powershell]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** cli (5), azvm (3), azcli (1), vmazcli (1)
 > **CLI Commands:** make (5), az (4)
 > **UI Navigation:** scroll up (2), go to (1)
@@ -1461,16 +1450,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980)
+#### [Understand Azure PowerShell](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=0)** - [Instructor] Welcome to learning about PowerShell.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=0)** - [Instructor] Welcome to learning about [[Powershell]].
 >
-> **[0:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=2)** In particular, PowerShell with a Microsoft Azure module added.
+> **[0:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=2)** In particular, PowerShell with a [[Microsoft Azure]] module added.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=7)** PowerShell is a comprehensive command line interface and scripting language for Microsoft Windows.
+> **[0:07](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=7)** PowerShell is a comprehensive command line interface and scripting language for [[Microsoft]] [[Windows]].
 >
 > **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=15)** Now, here are the benefits.
 >
@@ -1482,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=24)** So it's very well established.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=27)** You can work with Linux with this and the functionality of the PowerShell, you add modules to it, and one of those modules includes the module for Microsoft Azure, and then you have all the different commands available through the PowerShell.
+> **[0:27](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=27)** You can work with [[Linux]] with this and the functionality of the PowerShell, you add modules to it, and one of those modules includes the module for Microsoft Azure, and then you have all the different commands available through the PowerShell.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=45)** Now syntax, you have a verb and a noun.
 >
@@ -1512,7 +1500,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=100)** You can guess what that is, right?
 >
-> **[1:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=101)** You can create a new Azure virtual machine, the name of it, what resource group that you're going to put this in, the location, and what this does is credential, Get-Credential, is it's going to ask you, prompt you for that particular credential.
+> **[1:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=101)** You can create a new [[Microsoft Azure|Azure]] virtual machine, the name of it, what resource group that you're going to put this in, the location, and what this does is credential, Get-Credential, is it's going to ask you, prompt you for that particular credential.
 >
 > **[1:59](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=119)** You can also put this credential in.
 >
@@ -1528,7 +1516,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=165)** If you want to iterate operations over numerous resources, this is the tool that you want to use.
 >
-> **[2:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=172)** If you're just adding something, changing a name, something standardized that you are doing for several virtual machines or several web apps or any kind of resource, then the PowerShell is best used for that because again, a full-on scripting language that you can use.
+> **[2:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=172)** If you're just adding something, changing a name, something standardized that you are doing for several [[Virtual Machines]] or several web apps or any kind of resource, then the PowerShell is best used for that because again, a full-on scripting language that you can use.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980&t=194)** So that is the basics of PowerShell, what it is, some of the syntax about it, when you would use it, what the benefits are.
 >
@@ -1536,20 +1524,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft Azure]] (4), [[Scripting]] (4), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft Azure]] (4), [[Microsoft]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** powershell (12), command line (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** az (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980)
+#### [Use Azure PowerShell](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to launch PowerShell with the cloud shell.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to launch [[Powershell]] with the cloud shell.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=5)** We're going to examine the commands that are available to you, create a resource group, take a look at that resource group, and the idea here, what I want for you, is for you to be comfortable using the PowerShell in Microsoft Azure.
+> **[0:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=5)** We're going to examine the commands that are available to you, create a resource group, take a look at that resource group, and the idea here, what I want for you, is for you to be comfortable using the PowerShell in [[Microsoft Azure]].
 >
 > **[0:19](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=19)** We start off here with the cloud shell, and we're going to just find out, okay, well, what all commands can I have?
 >
@@ -1557,7 +1544,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=40)** I'll scroll up a little bit so you can see this, but it cuts off about at the Rs.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=45)** So there's literally thousands of different commands that you can perform with the Microsoft PowerShell for Azure.
+> **[0:45](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=45)** So there's literally thousands of different commands that you can perform with the [[Microsoft]] PowerShell for [[Microsoft Azure|Azure]].
 >
 > **[0:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/use-azure-powershell?u=76281980&t=55)** You can see just a whole bunch of them.
 >
@@ -1619,23 +1606,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), hit (7), cloud (2), [[Microsoft Azure]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft Azure]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** powershell (8)
 > **CLI Commands:** az (4), find (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get help in Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980)
+#### [Get help in Azure PowerShell](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=0)** - [Instructor] I want to show you how to get help in Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=0)** - [Instructor] I want to show you how to get help in [[Microsoft Azure]].
 >
 > **[0:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=4)** We're going to cover the basic help commands and that includes get help and get command.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=8)** And the idea here is make it easier for you to use PowerShell in Microsoft Azure.
+> **[0:08](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=8)** And the idea here is make it easier for you to use [[Powershell]] in Microsoft Azure.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=15)** Let's go to the cloud Shell.
 >
@@ -1717,7 +1703,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=193)** I'm going to backspace and this is going to be a noun and all the things we want to do with an A Z V M.
 >
-> **[3:22](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=202)** What are all the commands that we can do to an Azure virtual machine?
+> **[3:22](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=202)** What are all the commands that we can do to an [[Microsoft Azure|Azure]] virtual machine?
 >
 > **[3:27](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-help-in-azure-powershell?u=76281980&t=207)** We say get command dash noun A Z V M and there it is.
 >
@@ -1731,19 +1717,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (4), hit (4), [[Powershell]] (3), [[Microsoft Azure|Azure]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Powershell]] (3), [[Microsoft Azure|Azure]] (2)
 > **Tools:** powershell (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy a resource in Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980)
+#### [Deploy a resource in Azure PowerShell](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=0)** - [Instructor] In this demonstration, I'm going to show you how to use the PowerShell to create a resource.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=0)** - [Instructor] In this demonstration, I'm going to show you how to use the [[Powershell]] to create a resource.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=5)** We're going to start in, create a virtual machine in interactive mode, which makes it a lot easier for you, but restricts what you can do to this virtual machine.
 >
@@ -1753,7 +1738,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=31)** I'm going to show you that.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=31)** Once we're done, we'll examine the properties, and the reason we do this, I want you to be able to create any resource in Microsoft Azure with the PowerShell.
+> **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=31)** Once we're done, we'll examine the properties, and the reason we do this, I want you to be able to create any resource in [[Microsoft Azure]] with the PowerShell.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=42)** So we begin here at the cloud shell.
 >
@@ -1763,7 +1748,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=60)** And naturally, it's going to need a name.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=62)** So we're going to call this somethin' simple: P-S, for PowerShell, V-M and we're creating two virtual machines, so we're going to call this one.
+> **[1:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=62)** So we're going to call this somethin' simple: P-S, for PowerShell, V-M and we're creating two [[Virtual Machines]], so we're going to call this one.
 >
 > **[1:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=72)** I hit return and what is the name of the administrator for this account.
 >
@@ -1801,7 +1786,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=155)** It took that by default.
 >
-> **[2:36](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=156)** The size and everything else pretty much by default, or whatever Microsoft assumes you're going to want for this.
+> **[2:36](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=156)** The size and everything else pretty much by default, or whatever [[Microsoft]] assumes you're going to want for this.
 >
 > **[2:43](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-in-azure-powershell?u=76281980&t=163)** I'm going to clear this screen.
 >
@@ -1889,18 +1874,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Azure]] (4), hit (4), cloud (1), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Azure]] (4), [[Virtual Machines]] (1), [[Microsoft]] (1)
 > **Tools:** powershell (4), command line (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure resources in Azure PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980)
+#### [Configure resources in Azure PowerShell](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to dig a bit deeper inside of what we can do with the PowerShell for resources.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to dig a bit deeper inside of what we can do with the [[Powershell]] for resources.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=8)** So we'll discover resource options.
 >
@@ -1918,7 +1902,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=31)** We're going to start off with the basic command, and that's going to be simply get-azvm.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=36)** And that should return all the virtual machines we have.
+> **[0:36](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=36)** And that should return all the [[Virtual Machines]] we have.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=39)** And you can see the two that we have listed here.
 >
@@ -1960,7 +1944,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=138)** I'm going to say stop instead of get.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=144)** So all the rest is going to be pretty much the same here.
+> **[2:24](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=144)** So all the [[Representational State Transfer (REST)|rest]] is going to be pretty much the same here.
 >
 > **[2:26](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=146)** I do have to get rid of this format.
 >
@@ -2088,11 +2072,11 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=396)** So everything is all cleaned up.
 >
-> **[6:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=398)** So that is a little more advanced PowerShell for you in Microsoft Azure.
+> **[6:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/configure-resources-in-azure-powershell?u=76281980&t=398)** So that is a little more advanced PowerShell for you in [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Powershell]] (6), [[Virtual Machines]] (4), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Virtual Machines]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure]] (1)
 > **Tools:** powershell (6)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), az (1)
@@ -2105,14 +2089,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand JSON templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980)
+#### [Understand JSON templates](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=0)** - [Instructor] I'm so happy to introduce you to ARM Templates.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=4)** These are standardized templates that are used to deploy a resource and all of its dependent assets in Microsoft Azure.
+> **[0:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=4)** These are standardized templates that are used to deploy a resource and all of its dependent assets in [[Microsoft Azure]].
 >
 > **[0:13](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=13)** The benefits are far and wide.
 >
@@ -2124,13 +2107,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=41)** Well, how about you begin at the end, meaning that somebody already came up with all the answers for just what you're looking for.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=49)** You just get their JSON template and deploy it.
+> **[0:49](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=49)** You just get their [[JSON]] template and deploy it.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=52)** And it's as simple as that.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=55)** You don't have to reinvent the wheel.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=57)** If you have current resources, let's say you have an SQL database, you really like it, love the way it's set up.
+> **[0:57](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=57)** If you have current resources, let's say you have an [[SQL]] database, you really like it, love the way it's set up.
 >
 > **[1:04](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=64)** You can redeploy that SQL database through the JSON templates.
 >
@@ -2144,11 +2127,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=84)** However, it is important to know that everything that you do in Microsoft Azure is from a template.
 >
-> **[1:34](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=94)** You have Azure CLI, you put in those commands for whatever you're trying to build.
+> **[1:34](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=94)** You have [[Microsoft Azure|Azure]] [[CLI]], you put in those commands for whatever you're trying to build.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=99)** It converts it to a JSON template.
 >
-> **[1:42](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=102)** The portal, you click here, you click there, you set it up, and then say Create, it forms a template.
+> **[1:42](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=102)** The portal, you click here, you click there, you set it up, and then say Create, it [[Forms]] a template.
 >
 > **[1:49](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980&t=109)** So this is the raw instruction set for Microsoft Azure, ARM, Azure Resource Manager.
 >
@@ -2190,25 +2173,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), [[Microsoft Azure]] (5), database (4), web (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Microsoft Azure]] (5), [[SQL]] (2), [[Microsoft Azure|Azure]] (2), [[CLI]] (1)
 > **Env Vars:** json (8), arm (4), sql (2), cli (1)
 > **Exercise Files:** template (8)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find the appropriate JSON template
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980)
+#### [Find the appropriate JSON template](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to go to GitHub and find Azure templates.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to go to [[GitHub]] and find [[Microsoft Azure|Azure]] templates.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=5)** We're going to explore the available templates and open up a template so you can have a look inside.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=11)** And the reason we're doing this is just to get you started with GitHub.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=16)** I'll do a Google search on it, code with GitHub.
+> **[0:16](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=16)** I'll do a [[Google]] search on it, code with GitHub.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=20)** You can also just say [github.com](https://github.com) if you'd like.
 >
@@ -2238,7 +2220,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=83)** You can do that through right here.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=85)** If you are looking for SQL, type in SQL, 128.
+> **[1:25](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=85)** If you are looking for [[SQL]], type in SQL, 128.
 >
 > **[1:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=91)** Provision and SQL database with TDE, et cetera.
 >
@@ -2246,7 +2228,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=97)** With these quick start templates, you're not reinventing the wheel.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=101)** If somebody already discovered how to do what you want to do at Microsoft Azure, this is where you go, with the quick start templates.
+> **[1:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=101)** If somebody already discovered how to do what you want to do at [[Microsoft Azure]], this is where you go, with the quick start templates.
 >
 > **[1:50](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=110)** I'm going to scroll up a bit more to go to the search again, and I'm going to put a simple VM.
 >
@@ -2262,7 +2244,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=150)** Click on it and then this is the template.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=153)** See this, azuredeploy.json?
+> **[2:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=153)** See this, azuredeploy.[[JSON]]?
 >
 > **[2:36](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/find-the-appropriate-json-template?u=76281980&t=156)** Click on it and this is that syntax that we discussed before.
 >
@@ -2278,7 +2260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Search]] (6), [[Microsoft Azure|Azure]] (4), [[SQL]] (3), web (2)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Microsoft Azure|Azure]] (4), [[SQL]] (3), [[Microsoft Azure]] (2), [[Google]] (1)
 > **UI Navigation:** click on (5), scroll up (1), go to (1), scroll down (1)
 > **Tools:** github (7)
 > **Env Vars:** sql (3), tde (1)
@@ -2287,8 +2269,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Deploy a resource with a JSON template
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980)
+#### [Deploy a resource with a JSON template](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,11 +2277,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=6)** We'll take a look at the template inputs and find out what customization options that you have, and then we'll examine the created VM and the reason we're doing this, so you know how to deploy a template, so let's go to our template.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=20)** It's right here, deploy a simple Windows virtual machine, and all I really have to do is come down here, see where it says Deploy to Azure?
+> **[0:20](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=20)** It's right here, deploy a simple [[Windows]] virtual machine, and all I really have to do is come down here, see where it says Deploy to [[Microsoft Azure|Azure]]?
 >
 > **[0:29](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=29)** I click on it.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=31)** I'm already logged in to Microsoft Azure.
+> **[0:31](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=31)** I'm already logged in to [[Microsoft Azure]].
 >
 > **[0:34](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-a-json-template?u=76281980&t=34)** Otherwise, you might be hit with a prompt for this.
 >
@@ -2384,7 +2365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Windows]] (1), [[Microsoft Azure|Azure]] (1), hit (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Windows]] (1), [[Microsoft Azure|Azure]] (1)
 > **Exercise Files:** template (16)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **CLI Commands:** make (2), find (1)
@@ -2393,8 +2374,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Redeploy a resource with a JSON template
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980)
+#### [Redeploy a resource with a JSON template](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2404,11 +2384,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=15)** The whole reason, I want you to be able to reuse templates, set it up to where you have your templates, and if you have to deploy something over and over again, you're going to know how.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=28)** We start here with the virtual machine Windows quick create template.
+> **[0:28](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=28)** We start here with the virtual machine [[Windows]] quick create template.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=32)** I've given you the URL, and all you have to do is come in here and say Copy.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=39)** That copies this entire template so you can save that template in Microsoft Azure.
+> **[0:39](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=39)** That copies this entire template so you can save that template in [[Microsoft Azure]].
 >
 > **[0:46](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/redeploy-a-resource-with-a-json-template?u=76281980&t=46)** And let me show you how to do that right now.
 >
@@ -2510,7 +2490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Azure]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Azure]] (1)
 > **Exercise Files:** template (16)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **CLI Commands:** make (3), find (1)
@@ -2524,18 +2504,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Azure Bicep
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980)
+#### [Understand Azure Bicep](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=0)** - [Narrator] I'm happy to introduce you to the Bicep language.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=3)** It's a domain-specific language otherwise known as a DSL, and it uses declarative syntax to deploy Microsoft resources.
+> **[0:03](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=3)** It's a domain-specific language otherwise known as a DSL, and it uses declarative syntax to deploy [[Microsoft]] resources.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=13)** Here's the idea.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=15)** In a Bicep file, you define the infrastructure that you want to deploy to Azure, and then Microsoft Azure will take care of doing that for you.
+> **[0:15](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=15)** In a Bicep file, you define the infrastructure that you want to deploy to [[Microsoft Azure|Azure]], and then [[Microsoft Azure]] will take care of doing that for you.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=27)** You use this file all throughout the deployment lifecycle of your infrastructure.
 >
@@ -2569,7 +2548,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=147)** You have strict standards for resources, meaning that remember, no state management.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=153)** So if you have a virtual machine, let's say 20 virtual machines.
+> **[2:33](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=153)** So if you have a virtual machine, let's say 20 [[Virtual Machines]].
 >
 > **[2:38](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=158)** "Oh, I want to make a change to those 20 virtual machines."
 >
@@ -2581,22 +2560,21 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=178)** Lastly, when you reconfigure previously-deployed resources, Bicep is the best tool because it can go through there and just make the changes that you want to make.
 >
-> **[3:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=192)** Up next, I want to show you infrastructure as code and why that is important for you to at least consider moving to that framework.
+> **[3:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980&t=192)** Up next, I want to show you [[Infrastructure as code (IaC)|infrastructure as code]] and why that is important for you to at least consider moving to that framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (4), management (3), [[Virtual Machines]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (4), [[Virtual Machines]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (2), known as (1)
 > **Env Vars:** dsl (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to infrastructure as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980)
+#### [Introduction to infrastructure as code](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=0)** - [Presenter] Infrastructure as code.
+> **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=0)** - [Presenter] [[Infrastructure as code (IaC)|Infrastructure as code]].
 >
 > **[0:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=2)** Now, what is that?
 >
@@ -2648,7 +2626,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=175)** An imperative versus declarative code.
 >
-> **[2:59](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=179)** Imperative, think of Azure CLI, think of PowerShell.
+> **[2:59](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=179)** Imperative, think of [[Microsoft Azure|Azure]] [[CLI]], think of [[Powershell]].
 >
 > **[3:03](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=183)** You tell it what to do and how to do it.
 >
@@ -2656,20 +2634,19 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=192)** Imperative: You code, step by step, do this, then this, then this, then this.
 >
-> **[3:17](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=197)** Declarative: You just declare what you want and then let the underlying technology of Microsoft Azure be the one that does the step by step.
+> **[3:17](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=197)** Declarative: You just declare what you want and then let the underlying technology of [[Microsoft Azure]] be the one that does the step by step.
 >
 > **[3:29](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/introduction-to-infrastructure-as-code?u=76281980&t=209)** So infrastructure as a code is something that you should seriously consider implementing in the entire environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), feature (2), cloud (1), web (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Microsoft Azure|Azure]] (1), [[CLI]] (1), [[Powershell]] (1), [[Microsoft Azure]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cli (1)
 > **Tools:** powershell (1)
 > **Speakers:** - [presenter] (1)
 
-#### Deploy a resource with Azure Bicep
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980)
+#### [Deploy a resource with Azure Bicep](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2689,7 +2666,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=41)** You make any kind of changes within this deployment of a virtual machine with the actual command line that you run this file with.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=51)** Let's just go down and take a look at a few of these things, and then implement this very script in Microsoft Azure.
+> **[0:51](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=51)** Let's just go down and take a look at a few of these things, and then implement this very script in [[Microsoft Azure]].
 >
 > **[0:59](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=59)** We start off, you can see username for virtual machine, parameter, adminUsername, and we're going to change this adminUsername within the script that we launch this file with.
 >
@@ -2779,7 +2756,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=340)** And this list looks a lot like the actual script that was run, security type and all this information in here and the value of that.
 >
-> **[5:49](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=349)** So in summary, infrastructure as code using the Bicep language, though it can be a little bit daunting to know how to use this.
+> **[5:49](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=349)** So in summary, [[Infrastructure as code (IaC)|infrastructure as code]] using the Bicep language, though it can be a little bit daunting to know how to use this.
 >
 > **[6:02](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/deploy-a-resource-with-azure-bicep?u=76281980&t=362)** Once you learn how to use it, it seems quite natural.
 >
@@ -2787,7 +2764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Microsoft Azure]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), power (1), dns (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
 > **Code Identifiers:** adminusername (3), publicip (1), publicipallocationmethod (1)
 > **CLI Commands:** make (4)
 > **Tools:** command line (2)
@@ -2801,20 +2778,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=0)** - With that in mind, I have a course which goes into a lot of detail on ARM templates and Bicep.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=8)** It's called Microsoft Azure Design and Deploy ARM Templates.
+> **[0:08](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=8)** It's called [[Microsoft Azure]] Design and Deploy ARM Templates.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=14)** Thank you for spending your time watching my course.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=18)** Please keep in touch with me.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=19)** You can connect with me on LinkedIn.
+> **[0:19](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=19)** You can connect with me on [[LinkedIn]].
 >
 > **[0:22](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980&t=22)** I wish you all the best.
 

@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scripting with C# in Unity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980)
+#### [Scripting with C# in Unity](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=0)** - [Instructor] Greetings and welcome to this Unity Certified Associate Course on scripting with C# in Unity, presented by LinkedIn learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=0)** - [Instructor] Greetings and welcome to this [[Unity]] Certified Associate Course on scripting with C# in Unity, presented by [[LinkedIn]] learning.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=11)** This course explores how to create game play mechanics and interactive media by programming with C#.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=27)** We'll also see how to create volumes and triggers for responding to important events and how to create timed behaviors like counters and timers.
 >
-> **[0:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=38)** And we'll also assemble basic artificial intelligence for non-player characters like an enemy that can chase the player around the scene.
+> **[0:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=38)** And we'll also assemble basic [[Artificial Intelligence (AI)|artificial intelligence]] for non-player characters like an enemy that can chase the player around the scene.
 >
 > **[0:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980&t=47)** Overall we'll cover critically important coding functionality right here inside Unity.
 >
@@ -105,16 +104,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), [[Scripting]] (1), [[LinkedIn]] (1), game (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Companion files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/companion-files?u=76281980)
+#### [Companion files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/companion-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/companion-files?u=76281980&t=0)** - If you have access to the Course exercise files then you can follow along with each video and open up the project files inside Unity.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/companion-files?u=76281980&t=0)** - If you have access to the Course exercise files then you can follow along with each video and open up the project files inside [[Unity]].
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/companion-files?u=76281980&t=9)** Nearly every single one of these folders represents a Unity project and they will be called out inside the relevant video, so you can open that in Unity and follow along step-by-step.
 >
@@ -142,14 +140,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating C# files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980)
+#### [Creating C# files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980&t=0)** - In this chapter, we'll look at getting started with the C# scripting language.
 >
-> **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980&t=5)** You'll need to learn and to use this language If you want to create interactive behaviors here inside Unity.
+> **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980&t=5)** You'll need to learn and to use this language If you want to create interactive behaviors here inside [[Unity]].
 >
 > **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980&t=13)** if you want characters in your games to be able to run, jump, and respond, to player commands then you'll need to know C# script.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (2), [[Unity]] (2), next (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Prerequisites:** you'll need (3), getting started (1), configure (1)
 > **UI Navigation:** click on (1), open the (1)
 > **CLI Commands:** make (1)
@@ -201,8 +198,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - in (1)
 
-#### Configuring the code editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980)
+#### [Configuring the code editor](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,9 +210,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980&t=20)** But here, I want to take a look at ways in which we can customize our code editor and even change our code editor if we want to.
 >
-> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980&t=29)** Let's start by looking at how Unity configures the code editor so that we can change it.
+> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980&t=29)** Let's start by looking at how [[Unity]] configures the code editor so that we can change it.
 >
-> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980&t=34)** Inside the Unity editor, if you're on a Windows PC, you'll want to choose Edit and then select Preferences, but I'm using a Mac computer here, and for Mac users, you'll want to choose Unity and then select Preferences.
+> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980&t=34)** Inside the Unity editor, if you're on a [[Windows]] PC, you'll want to choose Edit and then select Preferences, but I'm using a Mac computer here, and for Mac users, you'll want to choose Unity and then select Preferences.
 >
 > **[0:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/configuring-the-code-editor?u=76281980&t=49)** This displays the preferences dialogue.
 >
@@ -272,21 +268,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (5), [[Windows]] (2), application (2), [[Scripting]] (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (5), [[Windows]] (2)
 > **Tools:** visual studio (12)
 > **UI Navigation:** click on (1), dropdown (1), select the (1), double-click (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Printing to the console
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980)
+#### [Printing to the console](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=0)** - [Instructor] In the very first video of this chapter we created our first script file which we called first script and we've loaded that here into visual studio to stop editing that file.
 >
-> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=12)** It contains the default functions and data that unity generates for every newly generated script file.
+> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=12)** It contains the default functions and data that [[Unity]] generates for every newly generated script file.
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=19)** We're going to be building here in this video the very first program that many coders create that's the hello world program.
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=61)** If our game sustains 25 frames per second then update is going to happen 25 frames per second is going to happen 25 times for every single second.
 >
-> **[1:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=74)** Now, typically video games and interactive media products.
+> **[1:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=74)** Now, typically video games and interactive media [[Microsoft Products|products]].
 >
 > **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/printing-to-the-console?u=76281980&t=77)** They have frame rates that are much higher than 25.
 >
@@ -396,7 +391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (15), game (7), hit (2), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Unity]] (15), [[Microsoft Products|Products]] (1)
 > **Cross-References:** go back to (6)
 > **UI Navigation:** drag and drop (2), select the (1), switch to (1), double-click (1)
 > **Tools:** visual studio (3)
@@ -405,8 +400,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Documentation:** specification (1)
 
-#### Components
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/components?u=76281980)
+#### [Components](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/components?u=76281980&t=19)** It's part of the car project.
 >
-> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/components?u=76281980&t=21)** This is a standard unity project to which I've added an asset pack provided for free by unity technologies.
+> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/components?u=76281980&t=21)** This is a standard [[Unity]] project to which I've added an asset pack provided for free by unity technologies.
 >
 > **[0:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/components?u=76281980&t=28)** I'm just going to pop over to the asset store to show you where I've downloaded that asset pack.
 >
@@ -584,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (10), game (9), hit (4), next (2), application (1)
+> **Frameworks & Libraries:** [[Unity]] (10)
 > **UI Navigation:** checkbox (6), open the (2), click on (2), select the (2), dropdown (1)
 > **CLI Commands:** find (8), make (1)
 > **Cross-References:** go back to (5), in the next (2)
@@ -593,8 +587,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 
-#### Start, awake and update
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980)
+#### [Start, awake and update](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=11)** This race track scene is based on the same course assets that we used in the proceeding movie.
 >
-> **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=17)** It's a standard unity car project.
+> **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=17)** It's a standard [[Unity]] car project.
 >
 > **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=20)** It includes the vehicle tools asset pack provided for free by UT technologies from the asset store.
 >
@@ -630,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=106)** By default, it's displayed here at the center of the screen, but I can simply move that around, not moving that one here, but I can expand it and begin to move it around here.
 >
-> **[1:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=117)** Let's zoom into the right-hand side to resize this a little bit.
+> **[1:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=117)** Let's [[Zoom]] into the right-hand side to resize this a little bit.
 >
 > **[2:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/start-awake-and-update?u=76281980&t=123)** I want to align the text to the right-hand side and also make sure that it's at the top right hand side here.
 >
@@ -750,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), [[Unity]] (5), [[Zoom]] (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Unity]] (5), [[Zoom]] (2)
 > **UI Navigation:** double-click (2), select the (2), go to (2), scroll down (1), right-click (1)
 > **Tools:** visual studio (4)
 > **Analogies:** for example (2), kind of like (1), just like (1)
@@ -764,8 +757,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Timed behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980)
+#### [Timed behaviors](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +833,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980&t=224)** Now we're going to be creating a script using a coroutine, which is a function that runs asynchronously in the background, allowing us to perform various kinds of timed behaviors.
 >
-> **[3:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980&t=234)** Now to get started at using coroutines in collaboration with this countdown UI object, I'm going to make sure I move to the top here under the Unity engine section and we're going to be including the UI namespace.
+> **[3:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980&t=234)** Now to get started at using coroutines in collaboration with this countdown UI object, I'm going to make sure I move to the top here under the [[Unity]] engine section and we're going to be including the UI namespace.
 >
 > **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980&t=247)** So I'm going to choose using Unity engine dot UI, like so here.
 >
@@ -963,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), next (5), game (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **UI Navigation:** select the (3), scroll down (2), drag and drop (2), switch to (1), go to (1)
 > **CLI Commands:** make (5), find (3)
 > **Cross-References:** go back to (3), previous chapter (1), in the next (1)
@@ -972,8 +964,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Env Vars:** int (1)
 
-#### Triggers and events
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980)
+#### [Triggers and events](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,7 +1004,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=97)** When the car enters a particular region we want to display a particular message.
 >
-> **[1:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=102)** Well, to do that we're going to be using triggers here inside Unity.
+> **[1:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=102)** Well, to do that we're going to be using triggers here inside [[Unity]].
 >
 > **[1:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=106)** Now I'm going to switch back to the scene tab here.
 >
@@ -1023,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=113)** But if you are in this mode just hit 2D at the top here to come out of that.
 >
-> **[1:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=118)** And I want to zoom in on the car itself.
+> **[1:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=118)** And I want to [[Zoom]] in on the car itself.
 >
 > **[2:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=121)** So that's the family car.
 >
@@ -1217,11 +1208,11 @@ created: 2026-05-02
 >
 > **[11:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=703)** Using those combination of ingredients, you can detect when any moveable object enters a specific region of the level and then respond appropriately.
 >
-> **[11:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=715)** This is incredibly important and critical behavior for when you're creating any kind of game, visualization or simulation.
+> **[11:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/triggers-and-events?u=76281980&t=715)** This is incredibly important and critical behavior for when you're creating any kind of game, visualization or [[Simulation]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (8), next (5), hit (4), game (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Unity]] (8), [[Zoom]] (1), [[Simulation]] (1)
 > **UI Navigation:** select the (3), click on (3), checkbox (3), drag and drop (2), dropdown (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (2)
@@ -1230,8 +1221,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980)
+#### [Vectors](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1239,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=13)** To demonstrate this, I've opened up this project here on transformations included inside the course exercise files.
 >
-> **[0:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=22)** It contains an asset pack from unity technologies that I've downloaded and imported from the unity asset store.
+> **[0:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=22)** It contains an asset pack from [[Unity]] technologies that I've downloaded and imported from the unity asset store.
 >
 > **[0:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=30)** You can go to the unity asset store to download the package separately.
 >
@@ -1265,7 +1255,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=135)** In this instance we have this buggy vehicle object.
 >
-> **[2:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=139)** Now, when I select the object, you can see that we have a full word vector here and a red axis pointing to the right hand side and then the green up vector.
+> **[2:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=139)** Now, when I select the object, you can see that we have a full [[Microsoft Word|word]] vector here and a red axis pointing to the right hand side and then the green up vector.
 >
 > **[2:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/vectors?u=76281980&t=151)** Now I want to make this object simply move forwards in the direction that it's looking.
 >
@@ -1371,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (7), game (4), next (2), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (7), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (10)
 > **UI Navigation:** select the (3), go to (1), drag and drop (1), switch to (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -1380,8 +1370,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Definitions:** means that (1)
 
-#### Quaternions
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/quaternions?u=76281980)
+#### [Quaternions](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/quaternions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1428,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/quaternions?u=76281980&t=194)** To do this, I'm going to select the Transform component and choose .rotation.
 >
-> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/quaternions?u=76281980&t=201)** Now inside Unity internally, rotations are measured using a special unit called Quaternion.
+> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/quaternions?u=76281980&t=201)** Now inside [[Unity]] internally, rotations are measured using a special unit called Quaternion.
 >
 > **[3:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/quaternions?u=76281980&t=208)** This is a particular way of measuring rotation.
 >
@@ -1495,7 +1484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), game (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (4)
 > **UI Navigation:** select the (5), go to (1), right-click (1), drag and drop (1), double-click (1)
 > **Definitions:** is an  (3), is a  (2)
 > **CLI Commands:** make (3)
@@ -1504,8 +1493,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Reading user input
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980)
+#### [Reading user input](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1563,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=219)** For horizontal, it's going to equal Input.GetAxis, and I'm going to choose to read the horizontal axis.
 >
-> **[3:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=229)** Now by default here inside Unity, that is set up to mean left and right.
+> **[3:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=229)** Now by default here inside [[Unity]], that is set up to mean left and right.
 >
 > **[3:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=234)** If we're pressing the left key on the keyboard, this function is going to return a value of negative one.
 >
@@ -1609,7 +1597,7 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=349)** So we want to multiply that by the vertical axis.
 >
-> **[5:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=354)** Remember, vertical is going to be one if we're pressing up, and so it's going to get multiplied with the rest of this.
+> **[5:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=354)** Remember, vertical is going to be one if we're pressing up, and so it's going to get multiplied with the [[Representational State Transfer (REST)|rest]] of this.
 >
 > **[6:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/reading-user-input?u=76281980&t=361)** It's negative one if we're pressing down.
 >
@@ -1659,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), next (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** visual studio (2)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -1673,16 +1661,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing a state machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980)
+#### [Designing a state machine](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=0)** - [Instructor] In this chapter and the next chapter we'll be working together step-by-step to build a complete Unity project that could be the beginnings of a stealth video game.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=0)** - [Instructor] In this chapter and the next chapter we'll be working together step-by-step to build a complete [[Unity]] project that could be the beginnings of a stealth video game.
 >
 > **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=13)** A game where a player has to creep around an environment without being seen by intelligent enemy characters.
 >
-> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=21)** We're going to be looking at Artificial Intelligence to create intelligent non-player characters that can walk around a level, search for the player and when they've found the player, chase after the player without walking through walls or bumping into solid objects.
+> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=21)** We're going to be looking at [[Artificial Intelligence (AI)|Artificial Intelligence]] to create intelligent non-player characters that can walk around a level, search for the player and when they've found the player, chase after the player without walking through walls or bumping into solid objects.
 >
 > **[0:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=39)** To begin this project, I've opened up the sample AI Chase files here that I've included inside the course exercise files.
 >
@@ -1708,7 +1695,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=126)** If I select the enemy and move to the inspector in the tags list you can see we don't yet have a tag for enemy.
 >
-> **[2:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=134)** I'm going to choose, add tag here and from the tag list click on the plus icon and simply enter the word Enemy to create an enemy tag.
+> **[2:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=134)** I'm going to choose, add tag here and from the tag list click on the plus icon and simply enter the [[Microsoft Word|word]] Enemy to create an enemy tag.
 >
 > **[2:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980&t=145)** Let's go back to the enemy object here in the hierarchy and tag that as an enemy character.
 >
@@ -1774,7 +1761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (4), [[Unity]] (4), game (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), next chapter (1), in the next (1)
 > **UI Navigation:** drag and drop (2), select the (1), click on (1)
@@ -1783,8 +1770,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Best Practices:** good practice (1)
 
-#### Building a navigation mesh
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/building-a-navigation-mesh?u=76281980)
+#### [Building a navigation mesh](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/building-a-navigation-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,7 +1792,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/building-a-navigation-mesh?u=76281980&t=63)** If this enemy character was to chase the player character, we wouldn't want them to simply take the most direct line through these walls to reach the player, instead, they should be moving around the walls, taking into account the floor plan of the level.
 >
-> **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/building-a-navigation-mesh?u=76281980&t=77)** Now, to create that kind of behavior, we need to create, or to generate a navigation mesh which is an invisible map of the floor that our AI is going to be referencing to know how to move.
+> **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/building-a-navigation-mesh?u=76281980&t=77)** Now, to create that kind of behavior, we need to create, or to generate a navigation [[Mesh]] which is an invisible map of the floor that our AI is going to be referencing to know how to move.
 >
 > **[1:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/building-a-navigation-mesh?u=76281980&t=91)** I'm going to move to our menu here and choose Window, select AI, and then choose Navigation.
 >
@@ -1872,7 +1858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Mesh]] (3), next (3), feature (1)
+> **Frameworks & Libraries:** [[Mesh]] (3)
 > **Env Vars:** npc (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** drag and drop (1), select the (1), switch to (1)
@@ -1881,12 +1867,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Testing navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980)
+#### [Testing navigation](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=0)** - [Narrator] In the previous movie, we generated a navigation mesh floor for the entirety of our environment.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=0)** - [Narrator] In the previous movie, we generated a navigation [[Mesh]] floor for the entirety of our environment.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=6)** And it's looking good.
 >
@@ -1906,13 +1891,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=52)** For the agent type, I want to make sure that humanoid is selected.
 >
-> **[0:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=57)** And the rest of the parameters, I'm going to leave at their defaults here.
+> **[0:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=57)** And the [[Representational State Transfer (REST)|rest]] of the parameters, I'm going to leave at their defaults here.
 >
 > **[1:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=61)** Notice that the NavMeshAgent has the radius and height properties, and these match up with the values that we plugged in on the navigation tab here, when generating the details for the maximum size of an enemy agent.
 >
 > **[1:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=76)** I'm going to go back to the inspector.
 >
-> **[1:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=79)** If I zoom in on the enemy character, now that I've added the Nav Mesh Agent, you can see that this cylinder has been applied to the object, indicating the volume of the enemy character and how it relates to the floor here.
+> **[1:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=79)** If I [[Zoom]] in on the enemy character, now that I've added the Nav Mesh Agent, you can see that this cylinder has been applied to the object, indicating the volume of the enemy character and how it relates to the floor here.
 >
 > **[1:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=96)** We have a good beginning.
 >
@@ -1952,7 +1937,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=186)** To access the NavMeshAgent, I need to include an additional namespace up here at the top of our script file.
 >
-> **[3:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=194)** So I'm going to insert a new line and type using [unityEngine.ai](https://unityEngine.ai) for artificial intelligence.
+> **[3:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=194)** So I'm going to insert a new line and type using [unityEngine.ai](https://unityEngine.ai) for [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[3:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=204)** Next, I'm going to move down to this section here and create a new variable that is going to reference the Nav Mesh Agent.
 >
@@ -2018,7 +2003,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=367)** Let's give that a test.
 >
-> **[6:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=370)** I'm going to choose file and then save and go back to unity.
+> **[6:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=370)** I'm going to choose file and then save and go back to [[Unity]].
 >
 > **[6:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/testing-navigation?u=76281980&t=376)** Now to keep good track of this, I'm going to be moving the game in the scene tab side by side.
 >
@@ -2052,7 +2037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (9), ai (8), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (9), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Unity]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (2), go to (1)
 > **Cross-References:** go back to (2)
@@ -2061,14 +2046,13 @@ created: 2026-05-02
 > **URLs:** [unityengine.ai](https://unityengine.ai) (1)
 > **Env Vars:** mpc (1)
 
-#### Working with agents and obstacles
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/working-with-agents-and-obstacles?u=76281980)
+#### [Working with agents and obstacles](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/working-with-agents-and-obstacles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/working-with-agents-and-obstacles?u=76281980&t=0)** - [Instructor] In the previous movie, we looked at how we could create an enemy character that would follow the player intelligently.
 >
-> **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/working-with-agents-and-obstacles?u=76281980&t=8)** But of course, in creating that character we had to generate a navigation mesh and a navigation mesh depends on our environment being completely static.
+> **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/working-with-agents-and-obstacles?u=76281980&t=8)** But of course, in creating that character we had to generate a navigation [[Mesh]] and a navigation mesh depends on our environment being completely static.
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/working-with-agents-and-obstacles?u=76281980&t=19)** But what happens in cases where maybe we want to have a sliding door that opens and closes and moves around and that's going to have an effect on whether the enemy character can reach us and how it can chase us.
 >
@@ -2112,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (12), game (1)
+> **Frameworks & Libraries:** [[Mesh]] (12)
 > **Env Vars:** nav (5), caav (1), mpc (1)
 > **UI Navigation:** switch to (1), open the (1)
 > **CLI Commands:** make (1)
@@ -2123,8 +2107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the Patrol state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980)
+#### [Creating the Patrol state](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2318,7 +2301,7 @@ created: 2026-05-02
 >
 > **[10:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980&t=608)** To do that I'm going to use the Start function here by choosing void Start and inside here I'm going to initiate the patrol coroutine simply by using StartCoroutine to initiate StatePatrol.
 >
-> **[10:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980&t=623)** And now I'm going to choose File and Save again and go back to Unity to test out the code that we have just created.
+> **[10:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980&t=623)** And now I'm going to choose File and Save again and go back to [[Unity]] to test out the code that we have just created.
 >
 > **[10:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980&t=631)** In very few lines, using a pretty short coroutine, the StatePatrol here, alongside the initiation of it here, we've created some pretty straightforward behavior and yet it's going to have a really important effect to how intelligent our NPC appears.
 >
@@ -2364,7 +2347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ai (4), game (2), [[Unity]] (2)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Env Vars:** npc (19), aistatepatrol (1)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** select the (3), double-click (2), click on (2), right-click (1)
@@ -2373,8 +2356,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Warnings:** be careful (1)
 
-#### Creating the Chase state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-chase-state?u=76281980)
+#### [Creating the Chase state](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-chase-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2446,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-chase-state?u=76281980&t=319)** I'm now going to save this code by choosing File and then Save.
 >
-> **[5:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-chase-state?u=76281980&t=325)** And I'll go back to Unity to test out our code.
+> **[5:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-chase-state?u=76281980&t=325)** And I'll go back to [[Unity]] to test out our code.
 >
 > **[5:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-chase-state?u=76281980&t=329)** Now our code compiles here, and that's looking good.
 >
@@ -2526,7 +2508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (2), game (2), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Env Vars:** npc (9), aistate (5), chase (3), patrol (1), attack (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** select the (2), click on (1), scroll down (1)
@@ -2535,8 +2517,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Definitions:** is a  (1)
 
-#### Creating the Attack state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980)
+#### [Creating the Attack state](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2566,7 +2547,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=114)** And we're going to print the message here to the console print attack.
 >
-> **[2:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=123)** In addition to printing the message attack we're also going to use the NAF mesh agent to continually chase the player so that as they are attacking, they're also chasing the player.
+> **[2:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=123)** In addition to printing the message attack we're also going to use the NAF [[Mesh]] agent to continually chase the player so that as they are attacking, they're also chasing the player.
 >
 > **[2:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=136)** The other thing that we need to do here as well is we need to have a yield return null to ensure we don't have an infinite loop here.
 >
@@ -2580,7 +2561,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=198)** like so.
 >
-> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=201)** And I'm now going to save my code with file and save to go back to unity.
+> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=201)** And I'm now going to save my code with file and save to go back to [[Unity]].
 >
 > **[3:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-attack-state?u=76281980&t=208)** The code now compiles, I'm going to switch to the console to look out for our print message.
 >
@@ -2618,7 +2599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Mesh]] (2), [[Unity]] (1), hit (1)
+> **Frameworks & Libraries:** [[Mesh]] (2), [[Unity]] (1)
 > **Env Vars:** npc (10), naf (2)
 > **UI Navigation:** go to (1), click on (1), switch to (1)
 > **CLI Commands:** make (1)
@@ -2627,8 +2608,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimzing the FSM
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/optimzing-the-fsm?u=76281980)
+#### [Optimzing the FSM](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/optimzing-the-fsm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2690,7 +2670,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/optimzing-the-fsm?u=76281980&t=199)** But we can make private variables visible to the inspector, by moving to the private property here, and indicating using a C-sharp attribute that this is a serialized field.
 >
-> **[3:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/optimzing-the-fsm?u=76281980&t=211)** I can now choose file and save to save the code, and go back to Unity here.
+> **[3:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/optimzing-the-fsm?u=76281980&t=211)** I can now choose file and save to save the code, and go back to [[Unity]] here.
 >
 > **[3:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/optimzing-the-fsm?u=76281980&t=217)** If I check out the AISTATE here, you can see that CurrentState is still visible in the inspector.
 >
@@ -2704,7 +2684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Env Vars:** aistate (3), patrol (2), chase (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2718,12 +2698,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=0)** - [Alan] Well, congratulations on reaching the end of this Unity Certified Associate training course presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=0)** - [Alan] Well, congratulations on reaching the end of this [[Unity]] Certified Associate training course presented by [[LinkedIn]] Learning.
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=8)** In reaching this far in the course you've seen a lot of scripting functionality right here inside of Unity.
 >
@@ -2731,7 +2710,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=36)** We then took all of this to one stage further by creating a finite state machine.
 >
-> **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=42)** To create artificial intelligence for a non-player character inside the scene, we built a navigation mesh so that character could intelligently move around and chase the player.
+> **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=42)** To create [[Artificial Intelligence (AI)|artificial intelligence]] for a non-player character inside the scene, we built a navigation [[Mesh]] so that character could intelligently move around and chase the player.
 >
 > **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980&t=54)** Now, this is just the beginning of what scripting can do here inside Unity.
 >
@@ -2751,7 +2730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (7), [[Scripting]] (5), [[LinkedIn]] (2), next (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Unity]] (7), [[LinkedIn]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Mesh]] (1)
 > **Env Vars:** api (1)
 > **Documentation:** api reference (1)
 > **Analogies:** such as (1)

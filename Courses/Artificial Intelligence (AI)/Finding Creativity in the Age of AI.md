@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where does creativity live?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980)
+#### [Where does creativity live?](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980&t=6)** And if you're like me, you may find yourself marveling at the advancements being made in this field on a weekly, if not daily basis.
 >
-> **[0:14](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980&t=14)** Large language models have brought this encyclopedia of knowledge and assets at our fingertips.
+> **[0:14](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980&t=14)** [[Large Language Models (LLM)|Large language models]] have brought this encyclopedia of knowledge and assets at our fingertips.
 >
 > **[0:20](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980&t=20)** I only wish I had when I was younger.
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - this (1)
 
@@ -134,14 +133,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your creative baseline
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980)
+#### [Your creative baseline](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=0)** - We've all heard about creativity.
 >
-> **[0:02](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=2)** Maybe you're close to the word.
+> **[0:02](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=2)** Maybe you're close to the [[Microsoft Word|word]].
 >
 > **[0:04](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=4)** Whatever your relationship, this view you hold has an impact on your actions and your work.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=34)** Now, to do this, I have a list of questions for you.
 >
-> **[0:37](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=37)** Take the time to sit with them and see what comes up, what will serve you as the fuel for what you need to take you through the rest of this course and decipher where this all sits.
+> **[0:37](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=37)** Take the time to sit with them and see what comes up, what will serve you as the fuel for what you need to take you through the [[Representational State Transfer (REST)|rest]] of this course and decipher where this all sits.
 >
 > **[0:49](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980&t=49)** Now, as an example, consider Jane, a graphic designer who has been in the industry for over a decade.
 >
@@ -179,12 +177,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [nickharauz.com](https://nickharauz.com) (1)
 > **Speakers:** - we (1)
 
-#### Is creativity what you're looking for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/is-creativity-what-you-re-looking-for?u=76281980)
+#### [Is creativity what you're looking for?](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/is-creativity-what-you-re-looking-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +219,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), product (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - okay (1)
@@ -232,8 +228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The FINDS framework: How AI can assist creativity
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980)
+#### [The FINDS framework: How AI can assist creativity](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=60)** One of the key principles of divergent thinking is to seek novelty.
 >
-> **[1:05](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=65)** We can use it to connect ideas and concepts that seem unrelated through forms of association.
+> **[1:05](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=65)** We can use it to connect ideas and concepts that seem unrelated through [[Forms]] of association.
 >
 > **[1:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980&t=72)** For instance, let's say finding a connection between the clothes you are wearing and the ancient ruins found in Mexico's Yucatan Peninsula.
 >
@@ -299,14 +294,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Search]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** stands for (5), is an  (1), is a  (1)
 > **Analogies:** such as (2), for instance (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
 
-#### Fuel: AI and idea generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980)
+#### [Fuel: AI and idea generation](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=96)** Again, these are in the exercise files for you to look at.
 >
-> **[1:40](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=100)** From the list, you've been recently fascinated with quantum computing, so you say, "Thanks, can you expand on number 40?"
+> **[1:40](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=100)** From the list, you've been recently fascinated with [[Quantum Computing]], so you say, "Thanks, can you expand on number 40?"
 >
 > **[1:47](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=107)** Claude comes back to you with this, "Certainly, I'll expand on prompt number 40: 'Quantum computing breakthrough.'
 >
@@ -378,9 +372,9 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=206)** Four square Pictures will be produced, and on a paid account, you could increase this number by a lot.
 >
-> **[3:32](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=212)** Last I wanted to talk about Midjourney and a feature called permutations, which we can use for fueling image ideation.
+> **[3:32](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=212)** Last I wanted to talk about [[Midjourney]] and a feature called permutations, which we can use for fueling image ideation.
 >
-> **[3:39](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=219)** Midjourney has this incredible feature which allows you to produce multiple jobs that consist of four images each when testing out word variations in a text prompt by putting your desired ones in curly brackets.
+> **[3:39](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=219)** Midjourney has this incredible feature which allows you to produce multiple jobs that consist of four images each when testing out [[Microsoft Word|word]] variations in a text prompt by putting your desired ones in curly brackets.
 >
 > **[3:53](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/fuel-ai-and-idea-generation?u=76281980&t=233)** For instance, you know you'd like to generate out of a picture, but unsure of the color scheme.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (6), [[Quantum Computing]] (3), feature (3), [[Midjourney]] (3)
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Midjourney]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (1), such as (1), for instance (1), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [claude.ai](https://claude.ai) (1), [leonardo.ai](https://leonardo.ai) (1)
@@ -407,8 +401,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - ai (1)
 
-#### Ignite: AI and divergent thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980)
+#### [Ignite: AI and divergent thinking](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +463,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=191)** Here's the symbol and icon, and for the color scheme, enigmatic purples and intriguing greens.
 >
-> **[3:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=199)** So you now ask the LLM that can produce images to take on the persona of an expert package designer to help create the look of your products.
+> **[3:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=199)** So you now ask the LLM that can produce images to take on the persona of an expert package designer to help create the look of your [[Microsoft Products|products]].
 >
 > **[3:28](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=208)** You type, create me a picture grid of 30 product packages for the appetizer in number 19, Elgar's "Enigma Variations" and Mysterious Vegan Appetizers.
 >
@@ -478,7 +471,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=225)** Take your time.
 >
-> **[3:47](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=227)** So here are some pictures I came up with in ChatGPT.
+> **[3:47](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=227)** So here are some pictures I came up with in [[ChatGPT]].
 >
 > **[3:51](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ignite-ai-and-divergent-thinking?u=76281980&t=231)** And let's just say that you love some of the package design, but you start to wonder what these dishes would look like if they were musical notes from the song.
 >
@@ -496,15 +489,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), product (2), llm (1), [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[ChatGPT]] (1)
 > **Analogies:** such as (2), picture (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - divergent (1)
 
-#### Nurturing the work
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980)
+#### [Nurturing the work](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,7 +514,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=50)** After finishing all the editing work, there still remains the title, the description, all of which has influence over how many people click or download the content.
 >
-> **[1:01](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=61)** So using the title as an example, I'll usually come up with one or two options and then run a text prompt into ChatGPT to give me multiple alternative titles.
+> **[1:01](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=61)** So using the title as an example, I'll usually come up with one or two options and then run a text prompt into [[ChatGPT]] to give me multiple alternative titles.
 >
 > **[1:13](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=73)** I'll do this in a text thread that already has all the information about my podcast.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=149)** The best part is I can always go back to this chat over and over again for additional titles as we produce more videos.
 >
-> **[2:39](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=159)** If we think about nurturing and refining creative visuals, Adobe Photoshop has some wonderful use cases to dramatically speed up the process of enhancing images.
+> **[2:39](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=159)** If we think about nurturing and refining creative visuals, [[Adobe Photoshop]] has some wonderful use cases to dramatically speed up the process of enhancing images.
 >
 > **[2:49](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/nuturing-the-work?u=76281980&t=169)** We can use Gen AI and neural filters to enhance work and extend the capabilities of what's possible.
 >
@@ -568,14 +560,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (2), [[ChatGPT]] (1), [[Adobe Photoshop]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Adobe Photoshop]] (1)
 > **Cross-References:** coming up (1), go back to (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - while (1)
 
-#### Defending and honing an existing concept
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980)
+#### [Defending and honing an existing concept](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=100)** The LLM provides us information on the marketing team, sales team, editorial board, legal and rights team.
 >
-> **[1:48](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=108)** For the ideal pitch from the self-published author, it should ideally include: a unique angle or insight, your target audience, marketing strategy, competitive analysis, outline and chapter, and samples.
+> **[1:48](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=108)** For the ideal pitch from the self-published author, it should ideally include: a unique angle or insight, your target audience, [[Marketing Strategy]], competitive analysis, outline and chapter, and samples.
 >
 > **[2:03](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=123)** Now, regarding books already published on similar topics, here are a few it spat out: "Digital Minimalism," "The Shallows," "Indistractable," and "Hooked" by the same above author.
 >
@@ -689,9 +680,9 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=368)** He has no interest in 3D modeling and sees no direct application to his intended career path, making him disengaged and unenthusiastic.
 >
-> **[6:18](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=378)** For his engagement tips, to keep him involved, discuss and demonstrate the role of 3D modeling in various industries, including marketing and product design, which are more relevant to his interests.
+> **[6:18](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=378)** For his engagement tips, to keep him involved, discuss and demonstrate the role of 3D modeling in various industries, including marketing and [[Product Design]], which are more relevant to his interests.
 >
-> **[6:30](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=390)** And encourage him to work on the projects that involve modeling potential business products or marketing materials.
+> **[6:30](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=390)** And encourage him to work on the projects that involve modeling potential business [[Microsoft Products|products]] or marketing materials.
 >
 > **[6:38](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/defending-and-honing-an-existing-concept?u=76281980&t=398)** Thus, showing the practical utility of 3D skills in his future endeavors.
 >
@@ -699,15 +690,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), ai (2), next (2), business (2), database (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Product Design]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** llm (5)
 > **Analogies:** picture (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Sharing and collaborating with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980)
+#### [Sharing and collaborating with AI](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=12)** Let's take a look at a few examples in both text-to-image apps and LLMs.
 >
-> **[0:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=19)** Midjourney on the web or in Discord offers features for you to learn about what can be created, along with the text prompts and parameters that were used to produce a given image for those who choose to share it.
+> **[0:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=19)** [[Midjourney]] on the web or in Discord offers features for you to learn about what can be created, along with the text prompts and parameters that were used to produce a given image for those who choose to share it.
 >
 > **[0:32](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=32)** Go to [midjourney.com](https://midjourney.com), and on the sidebar, head to Explore.
 >
@@ -727,9 +717,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=63)** Other text-to-image apps like Adobe's Firefly and Leonardo AI also offer easy share and copy options for the wider community.
 >
-> **[1:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=72)** Now, while working in large language models might feel siloed, you can usually share a conversation with others as a link.
+> **[1:12](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=72)** Now, while working in [[Large Language Models (LLM)|large language models]] might feel siloed, you can usually share a conversation with others as a link.
 >
-> **[1:20](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=80)** In ChatGPT, for instance, if you click on the three-dot icon on the sidebar next to the desired conversation, it will reveal the option to share it.
+> **[1:20](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=80)** In [[ChatGPT]], for instance, if you click on the three-dot icon on the sidebar next to the desired conversation, it will reveal the option to share it.
 >
 > **[1:29](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=89)** As long as the chat meets the criteria that it's not too long or containing rich media, a public link will then be created you can send to others.
 >
@@ -743,7 +733,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=124)** GPTs have their own course altogether, but sharing them with teams can be a great way to collaborate.
 >
-> **[2:11](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=131)** They've been created for book writing, product design, marketing, et cetera, and you can explore them all in ChatGPT.
+> **[2:11](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=131)** They've been created for book writing, [[Product Design]], marketing, et cetera, and you can explore them all in ChatGPT.
 >
 > **[2:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/sharing-and-collaborating-with-ai?u=76281980&t=139)** Once you get familiar, you can create your own GPT.
 >
@@ -751,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Midjourney]] (2), ai (2), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Midjourney]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Product Design]] (1)
 > **Env Vars:** gpt (3)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -760,8 +750,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Analogies:** for instance (1)
 
-#### When is creativity with AI not helpful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980)
+#### [When is creativity with AI not helpful?](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=34)** A CVL Economic studies surveyed three creative industries, film and television, music and gaming.
 >
-> **[0:41](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=41)** And of the three, gaming was far in the lead for its AI uptake with around 86.7% reporting the adoption of generative AI tools.
+> **[0:41](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=41)** And of the three, gaming was far in the lead for its AI uptake with around 86.7% reporting the adoption of [[Generative AI Tools]].
 >
 > **[0:52](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-is-creativity-with-ai-not-helpful?u=76281980&t=52)** The same report estimated that 13.4% of gaming jobs would be disrupted by 2026.
 >
@@ -801,22 +790,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI Tools]] (1), generic (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1)
 > **Versions:** 86.7 (1), 13.4 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cvl (1)
 > **Speakers:** - well (1)
 
-#### AI and copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ai-and-copyright?u=76281980)
+#### [AI and copyright](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ai-and-copyright?u=76281980)
 
 
 ### 3. Finding Creativity without AI
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The CREATE framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-create-framework?u=76281980)
+#### [The CREATE framework](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-create-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,14 +843,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), express (1)
 > **Definitions:** stands for (6), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** create (1)
 > **Speakers:** - so (1)
 
-#### Cease
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/cease?u=76281980)
+#### [Cease](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/cease?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/cease?u=76281980&t=85)** Finding more from something you feel is in deficit seems preposterous.
 >
-> **[1:30](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/cease?u=76281980&t=90)** When you're in it, it's hard to see the forest from the trees, but the trees are what you need to see for sustainability.
+> **[1:30](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/cease?u=76281980&t=90)** When you're in it, it's hard to see the forest from the trees, but the trees are what you need to see for [[Sustainability]].
 >
 > **[1:38](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/cease?u=76281980&t=98)** My tip for you to cease is to carve a manageable amount of time to take your brain off autopilot.
 >
@@ -923,12 +908,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### Making room for creativity
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/making-room-for-creativity?u=76281980)
+#### [Making room for creativity](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/making-room-for-creativity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,8 +977,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - if (1)
 
-#### Embracing our journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/embracing-our-journey?u=76281980)
+#### [Embracing our journey](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/embracing-our-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,8 +1021,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - let (1)
 
-#### Getting closer to art and its history
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980)
+#### [Getting closer to art and its history](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1031,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=15)** Both AI and non-AI come from the physical world.
 >
-> **[0:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=19)** The history of the art forms is rich and complex, and expanding your knowledge of these methods can help you learn how to better steer the direction in digital.
+> **[0:19](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=19)** The history of the art [[Forms]] is rich and complex, and expanding your knowledge of these methods can help you learn how to better steer the direction in digital.
 >
 > **[0:29](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=29)** There's also the added benefit that if you consider the art form you are studying as creative in boosting that baseline.
 >
@@ -1083,7 +1065,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=100)** As it's all tangible, you can touch it, and as you begin to take photos and make mistakes, you can bring all of these findings to your other work.
 >
-> **[1:50](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=110)** This includes using apps like Midjourney, Leonardo AI, and DALL-E.
+> **[1:50](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=110)** This includes using apps like [[Midjourney]], Leonardo AI, and [[DALL-E]].
 >
 > **[1:54](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/getting-closer-to-art-and-its-history?u=76281980&t=114)** Knowing what angles you like focal length exposure, and ISO can be entered into a text pro to engineer your desired output.
 >
@@ -1095,13 +1077,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), traffic (1), [[Forms]] (1), [[Midjourney]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Midjourney]] (1), [[DALL-E]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dall (1), iso (1)
 > **Speakers:** - at (1)
 
-#### Tuning out to tune in
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/tuning-out-to-tune-in?u=76281980)
+#### [Tuning out to tune in](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/tuning-out-to-tune-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,8 +1153,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - a (1)
 
-#### Express and act on your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/express-and-act-on-your-work?u=76281980)
+#### [Express and act on your work](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/express-and-act-on-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,13 +1193,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** snap (1)
 > **Speakers:** - everything (1)
 
-#### When creativity alone might not be enough
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-creativity-alone-might-not-be-enough?u=76281980)
+#### [When creativity alone might not be enough](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-creativity-alone-might-not-be-enough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1229,7 +1207,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-creativity-alone-might-not-be-enough?u=76281980&t=23)** AI is becoming a fundamental part of how many industries operate.
 >
-> **[0:27](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-creativity-alone-might-not-be-enough?u=76281980&t=27)** In a Forbes Advisor survey, 64% of businesses believe that artificial intelligence will help increase their overall productivity.
+> **[0:27](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-creativity-alone-might-not-be-enough?u=76281980&t=27)** In a Forbes Advisor survey, 64% of businesses believe that [[Artificial Intelligence (AI)|artificial intelligence]] will help increase their overall productivity.
 >
 > **[0:38](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/when-creativity-alone-might-not-be-enough?u=76281980&t=38)** And if you create for a client or employer, will they expect you to use these tools?
 >
@@ -1255,13 +1233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Cross-References:** earlier in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - while (1)
 
-#### Revisiting creativity with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/revisiting-creativity-with-ai?u=76281980)
+#### [Revisiting creativity with AI](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/revisiting-creativity-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,7 +1254,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/revisiting-creativity-with-ai?u=76281980&t=32)** Embrace, viewing creativity as a journey filled with failures and lessons.
 >
-> **[0:37](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/revisiting-creativity-with-ai?u=76281980&t=37)** Art, getting closer to traditional art, forms to deepen our foundational skills.
+> **[0:37](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/revisiting-creativity-with-ai?u=76281980&t=37)** Art, getting closer to traditional art, [[Forms]] to deepen our foundational skills.
 >
 > **[0:43](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/revisiting-creativity-with-ai?u=76281980&t=43)** Tuning in to tune out, embracing periods of boredom to allow for insight.
 >
@@ -1339,7 +1316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Forms]] (1), express (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
@@ -1348,8 +1325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,9 +1333,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980&t=3)** We've looked at creativity through a wide lens, incorporating skills to improve our own baseline, and AI tools to augment and assist in the output of our work.
 >
-> **[0:14](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980&t=14)** And as you continue on your learning path, LinkedIn is a great resource for more information about enhancing creativity and all things AI.
+> **[0:14](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980&t=14)** And as you continue on your learning path, [[LinkedIn]] is a great resource for more information about enhancing creativity and all things AI.
 >
-> **[0:22](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980&t=22)** Now, if you're looking to learn more about what text-to-image apps can do, I have a course on Midjourney covering the Essentials to get you started.
+> **[0:22](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980&t=22)** Now, if you're looking to learn more about what text-to-image apps can do, I have a course on [[Midjourney]] covering the Essentials to get you started.
 >
 > **[0:30](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980&t=30)** I'd also love to know what you thought of this course.
 >
@@ -1369,7 +1345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Midjourney]] (1)
 > **URLs:** [nickharauz.com](https://nickharauz.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)

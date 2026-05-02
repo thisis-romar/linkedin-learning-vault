@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect your enterprise with the four disciplines of cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980)
+#### [Protect your enterprise with the four disciplines of cybersecurity](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980&t=0)** - [Pete] Cybersecurity today is a serious challenge.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980&t=0)** - [Pete] [[Cybersecurity]] today is a serious challenge.
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980&t=3)** The risk of compromise is increasing as well as the potential losses.
 >
@@ -101,12 +100,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cybersecurity]] (1), product (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [pete] (1)
 
-#### A brief introduction to security architecture frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-brief-introduction-to-security-architecture-frameworks?u=76281980)
+#### [A brief introduction to security architecture frameworks](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-brief-introduction-to-security-architecture-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-brief-introduction-to-security-architecture-frameworks?u=76281980&t=126)** Fast forward through literally dozens of control frameworks, architectures, and even regulations to today, and we land on two key security control frameworks.
 >
-> **[2:16](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-brief-introduction-to-security-architecture-frameworks?u=76281980&t=136)** The Nist Cybersecurity Framework, with its five categories and 108 subcategories, and the ISO 27001, standard with its 14 domains.
+> **[2:16](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-brief-introduction-to-security-architecture-frameworks?u=76281980&t=136)** The [[NIST]] [[Cybersecurity]] Framework, with its five categories and 108 subcategories, and the ISO 27001, standard with its 14 domains.
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-brief-introduction-to-security-architecture-frameworks?u=76281980&t=147)** If one were to compare those two control frameworks to the ones created 50 years ago, the similarities would be easily recognizable.
 >
@@ -142,13 +140,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (2), next (1), [[NIST]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** cia (1), rand (1), adp (1), iso (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### A function and component-based approach to security architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-function-and-component-based-approach-to-security-architecture?u=76281980)
+#### [A function and component-based approach to security architecture](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-function-and-component-based-approach-to-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-function-and-component-based-approach-to-security-architecture?u=76281980&t=93)** Often, we also want to protect the users, so we apply our controls in reverse, we verify the identity of the server, we validate the data and information along the response pathway, and of course, we monitor and encrypt wherever necessary.
 >
-> **[1:49](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-function-and-component-based-approach-to-security-architecture?u=76281980&t=109)** Though real-time controls provide the strongest defenses, we aren't operating in a vacuum.
+> **[1:49](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-function-and-component-based-approach-to-security-architecture?u=76281980&t=109)** Though [[Real-Time]] controls provide the strongest defenses, we aren't operating in a vacuum.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/a-function-and-component-based-approach-to-security-architecture?u=76281980&t=114)** We can create administrative management strategies to protect our environment around the billions and trillions of user sessions and transactions that might occur every day, week, month, or year.
 >
@@ -196,12 +193,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), management (2), [[Security]] (1), functional (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### The four disciplines of cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980)
+#### [The four disciplines of cybersecurity](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=35)** If we look at these sets of controls more analytically, we can see that they can be organized and aligned into groups with related functions and objectives.
 >
-> **[0:44](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=44)** That brings us to the four core functions, which I call the four disciplines of a cybersecurity program.
+> **[0:44](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=44)** That brings us to the four core functions, which I call the four disciplines of a [[Cybersecurity]] program.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=51)** The first discipline is identity management.
 >
@@ -249,13 +245,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=172)** Threat management begins proactively with intelligence gathering on latest attack methods, for example, and continues through to real time monitoring and then response and recovery of the computing environment after detection of any sort of attack.
 >
-> **[3:07](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=187)** These are the four disciplines of security management: identity management, where we manage all users and accounts, as well as their credentials throughout the environment; vulnerability management, where we manage the security posture of all our systems, our applications, and our data; threat management, where we monitor all sessions, flows, transactions, anything activity-wise in search of inappropriate or malicious behavior; and finally, trust management, which is a governing strategy, as well as managing trusted actions within our environment.
+> **[3:07](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=187)** These are the four disciplines of [[Security Management]]: identity management, where we manage all users and accounts, as well as their credentials throughout the environment; vulnerability management, where we manage the security posture of all our systems, our applications, and our data; threat management, where we monitor all sessions, flows, transactions, anything activity-wise in search of inappropriate or malicious behavior; and finally, trust management, which is a governing strategy, as well as managing trusted actions within our environment.
 >
 > **[3:39](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/the-four-disciplines-of-cybersecurity?u=76281980&t=219)** It's useful to keep these functions in mind to provide grounding during any enterprise security architecture initiative where things can get very complex very quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (14), [[Security]] (4), [[Cybersecurity]] (3), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security Management]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -265,12 +261,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating your identity management objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980)
+#### [Generating your identity management objectives](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980&t=0)** - [Instructor] I describe the four disciplines of cybersecurity in a previous video.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980&t=0)** - [Instructor] I describe the four disciplines of [[Cybersecurity]] in a previous video.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980&t=4)** They are identity management, vulnerability management, trust management, and threat management.
 >
@@ -302,12 +297,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting your core identity management capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980)
+#### [Collecting your core identity management capabilities](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=20)** Second, are the administrative or management functions that we have available for use.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=25)** And finally, we have the real-time inline controls that we might use as well.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=25)** And finally, we have the [[Real-Time]] inline controls that we might use as well.
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=31)** Our core identity management elements are the users themselves.
 >
@@ -335,7 +329,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=78)** We round things out with our inline real-time controls, and on that front, we deploy our capabilities for authentication, single sign-on, in-line user access control, and user behavior analysis.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=93)** By now, you've probably noticed the resemblance of these capabilities to cybersecurity product categories.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=93)** By now, you've probably noticed the resemblance of these capabilities to [[Cybersecurity]] product categories.
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-identity-management-capabilities?u=76281980&t=98)** That of course, is how the market works.
 >
@@ -345,11 +339,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Real-Time]] (2), business (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Cybersecurity]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assembling your identity management platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980)
+#### [Assembling your identity management platform](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,11 +352,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=25)** A basic identity management architecture provides an account directory that is the authoritative source for identities and credentials.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=34)** A secondary server may manage various forms of multifactor authentication, and then applications will consume the credential information and take appropriate actions based on the privileges assigned.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=34)** A secondary server may manage various [[Forms]] of multifactor authentication, and then applications will consume the credential information and take appropriate actions based on the privileges assigned.
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=46)** Considering a standard identity and access management implementation, step one is to define your authoritative source for user accounts and directories.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=56)** For the vast majority of folks, that's going to be some flavor of Microsoft's Active Directory.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=56)** For the vast majority of folks, that's going to be some flavor of [[Microsoft]]'s [[Active Directory]].
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-identity-management-platform?u=76281980&t=61)** Step two is to connect all the native applications.
 >
@@ -399,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Forms]] (1), [[Microsoft]] (1), [[Active Directory]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft]] (1), [[Active Directory]] (1)
 > **Env Vars:** xacml (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
@@ -409,12 +402,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating your vulnerability management objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980)
+#### [Generating your vulnerability management objectives](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=0)** - [Instructor] I describe the four disciplines of cybersecurity in a companion video.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=0)** - [Instructor] I describe the four disciplines of [[Cybersecurity]] in a companion video.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=4)** They are identity management, vulnerability management, trust management, and threat management.
 >
@@ -444,7 +436,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=89)** This last objective is slightly different from the first four.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=93)** While the first four objectives are accomplished through administrative processes, the final one is addressed in real-time in between the source users and their destination platforms, all the while filtering out unwanted activity.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=93)** While the first four objectives are accomplished through administrative processes, the final one is addressed in [[Real-Time]] in between the source users and their destination platforms, all the while filtering out unwanted activity.
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980&t=107)** In summary, when thinking about vulnerability management, keep in mind the following three things.
 >
@@ -456,17 +448,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Security]] (2), [[Cybersecurity]] (1), [[Real-Time]] (1), feature (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Real-Time]] (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting your core vulnerability management capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-vulnerability-management-capabilities?u=76281980)
+#### [Collecting your core vulnerability management capabilities](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-vulnerability-management-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-vulnerability-management-capabilities?u=76281980&t=0)** - [Instructor] The vulnerability management discipline incorporates both the most common and tedious functions of a cybersecurity program.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-vulnerability-management-capabilities?u=76281980&t=0)** - [Instructor] The vulnerability management discipline incorporates both the most common and tedious functions of a [[Cybersecurity]] program.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-vulnerability-management-capabilities?u=76281980&t=8)** It is both unforgiving in its need for perfection and tedious in its need for continuous management.
 >
@@ -504,12 +495,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), [[Search]] (2), [[Cybersecurity]] (1), application (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** rasp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assembling your vulnerability management platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980)
+#### [Assembling your vulnerability management platform](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,9 +529,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=64)** Or we can meet somewhere in the middle and develop a strategy to remediate the vulnerability by patching systems or changing configurations.
 >
-> **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=72)** Let's look at these options through the lens of a DevOps, or in this case DevSecOps, environment.
+> **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=72)** Let's look at these options through the lens of a [[DevOps]], or in this case [[DevSecOps]], environment.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=78)** This reference diagram for the United States Department of Defense shows a software development environment on the left and the production or operations environment on the right.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=78)** This reference diagram for the United States Department of Defense shows a [[Software Development]] environment on the left and the production or operations environment on the right.
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=89)** On the left side, we employ vulnerability management tools focused on the software development life cycle, where we can assess source code and test modules.
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=121)** On these systems, we can identify and remediate vulnerabilities with vulnerability scanners that identify configuration weaknesses or we can leverage patch managers to apply patches from vendors.
 >
-> **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=133)** On the mitigation side, we have options focused on real-time filters and separation provided at the network level, usually by firewalls and potentially at the application level through runtime application self-protection solutions.
+> **[2:13](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=133)** On the mitigation side, we have options focused on [[Real-Time]] filters and separation provided at the network level, usually by firewalls and potentially at the application level through runtime application self-protection solutions.
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-vulnerability-management-platform?u=76281980&t=147)** Let's look a bit more carefully at this real-time separation option using a basic diagram that illustrates a set of endpoint servers and applications across the network.
 >
@@ -575,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Real-Time]] (2), application (2), cloud (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[DevOps]] (1), [[DevSecOps]] (1), [[Software Development]] (1)
 > **Exercise Files:** source code (2)
 > **Env Vars:** cots (1)
 > **Speakers:** - [instructor] (1)
@@ -585,12 +575,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating your threat management objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980)
+#### [Generating your threat management objectives](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=0)** - [Instructor] I describe the four disciplines of cybersecurity in a companion video.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=0)** - [Instructor] I describe the four disciplines of [[Cybersecurity]] in a companion video.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=4)** They are identity management, vulnerability management, trust management, and threat management.
 >
@@ -616,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=84)** And number five, manage identified incidents and take corrective action wherever necessary.
 >
-> **[1:30](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=90)** While it is reasonable to think of vulnerability management as a slow and steady tortoise of a cybersecurity program, threat management is most definitely the hare with its need to react and respond as quickly as possible to prevent or minimize the impact of any incident on a computing environment.
+> **[1:30](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=90)** While it is reasonable to think of vulnerability management as a slow and steady tortoise of a cybersecurity program, threat management is most definitely the hare with its need to [[React.js|react]] and respond as quickly as possible to prevent or minimize the impact of any incident on a computing environment.
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980&t=108)** When thinking about threat management, keep the following three things in mind.
 >
@@ -628,12 +617,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (12), [[Cybersecurity]] (2), [[React.js|React]] (2), game (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[React.js|React]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting your core threat management capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980)
+#### [Collecting your core threat management capabilities](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,20 +651,19 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980&t=71)** And forensics solutions that provide more technical and analytical support.
 >
-> **[1:16](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980&t=76)** In the real time monitoring space, which is crucial for threat management, we have intrusion detection solutions operating as sensors, security information and event management solutions that provide aggregation.
+> **[1:16](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980&t=76)** In the real time monitoring space, which is crucial for threat management, we have [[Intrusion Detection]] solutions operating as sensors, security information and event management solutions that provide aggregation.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980&t=88)** And we also have targeted solutions for anti malware, which protect against the oldest type of attack, and data loss protection that identifies sensitive data leakage.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980&t=98)** Ultimately, our threat management capabilities are intended to detect attacks in progress, react to specific alerts, sometimes through automated responses, respond to incidents and recover systems back to normal.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-threat-management-capabilities?u=76281980&t=98)** Ultimately, our threat management capabilities are intended to detect attacks in progress, [[React.js|react]] to specific alerts, sometimes through automated responses, respond to incidents and recover systems back to normal.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), data (3), [[Security]] (2), [[Search]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[React.js|React]] (1)
 > **CLI Commands:** cat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assembling your threat management platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980)
+#### [Assembling your threat management platform](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +673,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=22)** Let's look at how these elements can be put together in a four step threat management process.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=27)** First, we perform the data collection.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=27)** First, we perform the [[Data Collection]].
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=29)** That's where we look at all of the logs and output from sensors that we can find from various sources throughout our environment.
 >
@@ -696,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=51)** And once again, on the right hand side, we show a whole host of techniques and methods that can be brought to bear in search of these intrusions or compromise.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=61)** In step three, we react and respond to any analysis that leads us to believe an intrusion or compromise is taking place, and we have a handful of options available for response.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=61)** In step three, we [[React.js|react]] and respond to any analysis that leads us to believe an intrusion or compromise is taking place, and we have a handful of options available for response.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-threat-management-platform?u=76281980&t=73)** These range from simply logging the activity, on through to blocking or encrypting various pieces of data or information.
 >
@@ -712,7 +699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), data (3), [[Search]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
@@ -723,12 +710,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating your trust management objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980)
+#### [Generating your trust management objectives](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980&t=0)** - [Instructor] I described the four disciplines of cybersecurity in a companion video.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980&t=0)** - [Instructor] I described the four disciplines of [[Cybersecurity]] in a companion video.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980&t=4)** They are identity management, vulnerability management, trust management, and threat management.
 >
@@ -762,20 +748,19 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980&t=104)** When thinking about trust management, it's useful to keep in mind the following three things.
 >
-> **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980&t=111)** Trust management is focused on program management, the strategic cybersecurity program; trust management is oriented towards protecting legitimate activity; and finally, trust management leverages cryptography for its technical control capabilities.
+> **[1:51](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980&t=111)** Trust management is focused on program management, the strategic cybersecurity program; trust management is oriented towards protecting legitimate activity; and finally, trust management leverages [[Cryptography]] for its technical control capabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (13), [[Cybersecurity]] (3), data (3), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Cryptography]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collecting your core trust management capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980)
+#### [Collecting your core trust management capabilities](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=0)** - [Instructor] Trust management is about designing a cybersecurity program that enables legitimate users and activity by providing ground rules for acceptable use and sometimes deploying guard rails on the data and programs themselves.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=0)** - [Instructor] Trust management is about designing a [[Cybersecurity]] program that enables legitimate users and activity by providing ground rules for acceptable use and sometimes deploying guard rails on the data and programs themselves.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=13)** This may seem strange, but think about highways where drivers are pretty good, though not perfect, at staying within their lanes.
 >
@@ -783,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=21)** But, in higher risk areas like bridges or work areas, they often erect physical barriers to keep cars from changing lanes.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=29)** That's like in cryptography.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=29)** That's like in [[Cryptography]].
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=32)** Let's consider three core aspects of trust management.
 >
@@ -791,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=41)** Second, we'll look at the administrative tools available to support the discipline and automate some of the processes.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=47)** And finally, we'll identify the real-time solutions available to protect our computing environment from a trust management perspective.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=47)** And finally, we'll identify the [[Real-Time]] solutions available to protect our computing environment from a trust management perspective.
 >
 > **[0:55](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=55)** There are three core elements of trust management.
 >
@@ -799,13 +784,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=76)** On the management side, we have policy management capabilities, audit compliance capabilities, and finally, keys and certificate management capabilities.
 >
-> **[1:28](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=88)** When considering real-time monitoring, it's all about encryption, that is encrypt data in transit, encrypt data at rest, and encrypt data in use.
+> **[1:28](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=88)** When considering real-time monitoring, it's all about encryption, that is encrypt data in transit, encrypt data at [[Representational State Transfer (REST)|rest]], and encrypt data in use.
 >
-> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=100)** Another cryptographic operation that often gets ignored is validation of data integrity.
+> **[1:40](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=100)** Another cryptographic operation that often gets ignored is validation of [[Data Integrity]].
 >
 > **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=106)** So we can synthesize these administrative and real-time functions to summarize our trust management capabilities with a full set of product solutions.
 >
-> **[1:56](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=116)** We have governance risk and compliance management solutions that track the policy's audits and then provide overall program management of the cybersecurity program.
+> **[1:56](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=116)** We have governance risk and [[Compliance Management]] solutions that track the policy's audits and then provide overall program management of the cybersecurity program.
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/collecting-your-core-trust-management-capabilities?u=76281980&t=126)** We have virtual private networks that provide encrypted communications, that is of data and transit, to provide confidentiality and integrity of those sessions.
 >
@@ -815,13 +800,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (12), data (10), [[Real-Time]] (3), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Cryptography]] (1), [[Data Integrity]] (1)
 > **CLI Commands:** rails (1)
 > **Env Vars:** pki (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assembling your trust management platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980)
+#### [Assembling your trust management platform](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,11 +831,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=66)** At this next layer, we have trusted systems.
 >
-> **[1:09](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=69)** This is where individual servers, including virtual machines and containers are affected, and we apply system integrity checks as well as the potential for file and folder encryption.
+> **[1:09](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=69)** This is where individual servers, including [[Virtual Machines]] and containers are affected, and we apply system integrity checks as well as the potential for file and folder encryption.
 >
 > **[1:20](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=80)** And finally, we trust the code and the data.
 >
-> **[1:23](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=83)** Of course, addressing data and application security, we provide application integrity as well as rights management solutions at this layer.
+> **[1:23](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=83)** Of course, addressing data and [[Application Security]], we provide application integrity as well as rights management solutions at this layer.
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=92)** In conclusion, think of trust management the following three ways.
 >
@@ -859,11 +843,11 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=101)** Second, policies, procedures, and plans provide the tools that build the human trust.
 >
-> **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=106)** And finally, cryptography and key management provide the tools for digital trust.
+> **[1:46](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/assembling-your-trust-management-platform?u=76281980&t=106)** And finally, [[Cryptography]] and key management provide the tools for digital trust.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), data (3), next (2), application (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Application Security]] (1), [[Cryptography]] (1)
 > **Env Vars:** grc (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
@@ -873,12 +857,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building an enterprise reference security architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980)
+#### [Building an enterprise reference security architecture](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=0)** - [Instructor] Early in this course, we described the high level cybersecurity model that provides a foundation for the building blocks of a reference security architecture.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=0)** - [Instructor] Early in this course, we described the high level [[Cybersecurity]] model that provides a foundation for the building blocks of a reference security architecture.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=8)** It defined the four disciplines of cybersecurity.
 >
@@ -906,9 +889,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=79)** What's more these functions serve as a reminder as we integrate more innovative security capabilities like passwordless, federation, conditional access and user behavior analytics for identity management.
 >
-> **[1:31](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=91)** Security orchestration, DevSecOps, and API security for vulnerability management.
+> **[1:31](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=91)** Security orchestration, [[DevSecOps]], and API security for vulnerability management.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=96)** Threat intelligence, deception and artificial intelligence machine learning for threat management.
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=96)** Threat intelligence, deception and [[Artificial Intelligence (AI)|artificial intelligence]] machine learning for threat management.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980&t=102)** And distributed integrity, rights management, and continuous audit for trust management.
 >
@@ -922,16 +905,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (13), [[Security]] (7), [[Cybersecurity]] (5), product (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[DevSecOps]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a zero trust architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-a-zero-trust-architecture?u=76281980)
+#### [Building a zero trust architecture](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-a-zero-trust-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-a-zero-trust-architecture?u=76281980&t=0)** - [Instructor] Early in this course, we described a high level cybersecurity model called the Four Disciplines of Cybersecurity that provides a foundation for the building blocks of a reference security architecture.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-a-zero-trust-architecture?u=76281980&t=0)** - [Instructor] Early in this course, we described a high level [[Cybersecurity]] model called the Four Disciplines of Cybersecurity that provides a foundation for the building blocks of a reference security architecture.
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-a-zero-trust-architecture?u=76281980&t=11)** The question is, can it hold up when applied to real world security requirements like zero-trust.
 >
@@ -969,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (2), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -977,32 +959,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=0)** - [Pete] I hope this short course on [[Cybersecurity Foundations]] provided the insight and building blocks you need to develop a strong security architecture for your organization.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=0)** - [Pete] I hope this short course on [[[[Cybersecurity]] Foundations]] provided the insight and building blocks you need to develop a strong security architecture for your organization.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=9)** If you keep in mind these four disciplines, identity management, vulnerability management, threat management, and trust management, you'll start to see how they could be useful throughout your program, first as this reference architecture that we're discussing here, but also as a way to organize and manage your activities with metrics and economic analysis.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=9)** If you keep in mind these four disciplines, identity management, vulnerability management, threat management, and trust management, you'll start to see how they could be useful throughout your program, first as this reference architecture that we're discussing here, but also as a way to organize and manage your activities with metrics and [[Economic Analysis]].
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=30)** As you continue on your journey, here are some tips on where to go from here.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=34)** Read all you can about cybersecurity, especially in trade journals like CSO Online or on robust social media communities like those on Twitter.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=45)** Learn from courses on LinkedIn Learning, like those from my friends Mike Chapel and Ron Warner.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=45)** Learn from courses on [[LinkedIn]] Learning, like those from my friends Mike Chapel and Ron Warner.
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=50)** Attend conferences like RSA Conference and InfoSec World, and finally, participate in communities like your local information system security association group.
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=60)** These will all put you in good stead.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=63)** In addition, I hope you'll join me in our combined cybersecurity mission to enable the benefits of digital transformation through a strong cybersecurity program that makes effective control decisions and successfully reduces risk.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=63)** In addition, I hope you'll join me in our combined cybersecurity mission to enable the benefits of [[Digital Transformation]] through a strong cybersecurity program that makes effective control decisions and successfully reduces risk.
 >
 > **[1:17](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980&t=77)** Thanks for your time, and I look forward to connecting with you in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), management (4), [[Security]] (2), [[Economic Analysis]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Economic Analysis]] (1), [[LinkedIn]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** cso (1), rsa (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [pete] (1)

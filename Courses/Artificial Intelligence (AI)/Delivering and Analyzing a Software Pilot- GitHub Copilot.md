@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980)
+#### [Introduction and overview](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980&t=12)** In this course, we're going to learn how to run a successful software pilot, how to analyze both user feedback and system usage, and how to build a business case for full deployment.
 >
-> **[0:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980&t=26)** We're going to use GitHub Copilot as an example through this course, but the lessons apply to any software.
+> **[0:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980&t=26)** We're going to use [[GitHub Copilot]] as an example through this course, but the lessons apply to any software.
 >
 > **[0:34](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980&t=34)** And by the end of this course, you'll be able to analyze your pilot data and confidently present it to your stakeholders.
 >
@@ -119,12 +118,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [michael] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=70)** This course will guide you through all of the processes.
 >
-> **[1:14](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=74)** Now, whilst familiarity with GitHub Copilot will be beneficial, it's certainly not a requirement.
+> **[1:14](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=74)** Now, whilst familiarity with [[GitHub Copilot]] will be beneficial, it's certainly not a requirement.
 >
 > **[1:21](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=81)** We're using GitHub Copilot as a primary example throughout this course.
 >
@@ -158,11 +156,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=91)** You don't need to be an expert, but a basic understanding of just what GitHub Copilot is and how it integrates into development will be a bonus.
 >
-> **[1:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=101)** Another key area of knowledge is natural language processing or NLP, and while you certainly don't need to be a data scientist, having just a basic grasp of NLP concepts will help you understand how we will be using it to analyze user feedback during the pilot.
+> **[1:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=101)** Another key area of knowledge is [[Natural Language Processing (NLP)|natural language processing]] or NLP, and while you certainly don't need to be a data scientist, having just a basic grasp of NLP concepts will help you understand how we will be using it to analyze user feedback during the pilot.
 >
 > **[1:58](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=118)** If you're brand new to natural language processing, consider familiarizing yourself with some of the basic concepts like sentiment analysis and text classification.
 >
-> **[2:08](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=128)** Finally, it's important to be comfortable using tools like Excel and other data analysis software, as we'll be dealing with data throughout the course.
+> **[2:08](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=128)** Finally, it's important to be comfortable using tools like [[Microsoft Excel|Excel]] and other data analysis software, as we'll be dealing with data throughout the course.
 >
 > **[2:19](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/what-you-should-know?u=76281980&t=139)** You'll need to know how to manipulate data, create visualizations, and interpret results to build your business case.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[GitHub Copilot]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), business (2), nlp (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Microsoft Excel|Excel]] (1)
 > **Tools:** github (5)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** make (1)
@@ -178,8 +176,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,11 +190,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=28)** If you're a project manager, IT director, product owner, or anyone who needs to ensure the new software tool is thoroughly tested before full deployment, then you're in the right place.
 >
-> **[0:42](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=42)** Throughout this course, we'll be using GitHub Copilot as our main example.
+> **[0:42](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=42)** Throughout this course, we'll be using [[GitHub Copilot]] as our main example.
 >
 > **[0:47](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=47)** However, the strategies, frameworks, and techniques you'll learn here are transferable to any software you might be piloting.
 >
-> **[0:56](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=56)** Whether you are testing a new CRM, an enterprise solution, or an AI-driven tool like Copilot, the principles for running a successful pilot remain the same.
+> **[0:56](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=56)** Whether you are testing a new CRM, an enterprise solution, or an AI-driven tool like [[Microsoft Copilot|Copilot]], the principles for running a successful pilot remain the same.
 >
 > **[1:08](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=68)** This course is especially valuable for those who need to make data-driven decisions about whether or not to fully deploy new software.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=87)** If you're responsible for these critical decisions, this course will provide you with the tools and knowledge you need to make those informed choices.
 >
-> **[1:38](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=98)** It's also worth noting that this course is ideal for professionals who want to enhance their skills in natural language processing and data analysis using Python.
+> **[1:38](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=98)** It's also worth noting that this course is ideal for professionals who want to enhance their skills in [[Natural Language Processing (NLP)|natural language processing]] and data analysis using [[Python (Programming Language)|Python]].
 >
 > **[1:50](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/who-this-course-is-for?u=76281980&t=110)** While the course is accessible to those with a basic understanding, it's particularly beneficial for those who want to deepen their expertise in these areas, using them to gain insights from user feedback and pilot data.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (3), product (1), [[GitHub Copilot]] (1), ai (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1), [[Microsoft Copilot|Copilot]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** crm (1)
 > **Tools:** github (1)
@@ -231,18 +228,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of GitHub Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980)
+#### [Overview of GitHub Copilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=0)** - [Speaker] Have you ever wished for a coding assistant that could help you write code faster and more efficiently?
 >
-> **[0:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=7)** Well, GitHub copilot might be just the solution you've been looking for.
+> **[0:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=7)** Well, [[GitHub Copilot]] might be just the solution you've been looking for.
 >
 > **[0:13](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=13)** In this video, I'll introduce you to GitHub Copilot, explore its key features, and discuss the benefits and considerations of using it in your development projects.
 >
-> **[0:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=25)** Now, for those who don't know, GitHub Copilot is an AI-powered code completion tool developed by GitHub and OpenAI.
+> **[0:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=25)** Now, for those who don't know, GitHub Copilot is an AI-powered code completion tool developed by [[GitHub]] and OpenAI.
 >
 > **[0:34](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=34)** It is designed to assist developers by suggesting code snippets or entire functions as you type based on the context of your code.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=65)** Another feature is its capability to generate code for common programming tasks.
 >
-> **[1:11](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=71)** For example, if you're writing a function to sort an array, copilot can suggest the entire function for you.
+> **[1:11](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=71)** For example, if you're writing a function to sort an array, [[Microsoft Copilot|copilot]] can suggest the entire function for you.
 >
 > **[1:20](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980&t=80)** GitHub Copilot also supports multiple programming languages, making a really versatile tool for developers working with different technologies.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (9), [[Programming]] (2), [[Microsoft Copilot|Copilot]] (2), ai (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (9), [[Microsoft Copilot|Copilot]] (2), [[GitHub]] (1)
 > **Tools:** github (10)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -293,20 +289,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Setting up GitHub Copilot for development
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980)
+#### [Setting up GitHub Copilot for development](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=0)** - [Narrator] Have you ever felt like coding could be more efficient if you had an intelligent assistant by your side?
 >
-> **[0:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=6)** Well, with GitHub Copilot, you could make that a reality.
+> **[0:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=6)** Well, with [[GitHub Copilot]], you could make that a reality.
 >
-> **[0:11](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=11)** In this video, I'll guide you through the process of setting up GitHub Copilot for your development environment, and by the end, you'll have Copilot ready to assist you in all your coding tasks.
+> **[0:11](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=11)** In this video, I'll guide you through the process of setting up GitHub Copilot for your development environment, and by the end, you'll have [[Microsoft Copilot|Copilot]] ready to assist you in all your coding tasks.
 >
 > **[0:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=25)** So let's start with the installation.
 >
-> **[0:27](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=27)** To begin, you will need a GitHub account and an active subscription to GitHub Copilot.
+> **[0:27](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=27)** To begin, you will need a [[GitHub]] account and an active subscription to GitHub Copilot.
 >
 > **[0:35](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/setting-up-github-copilot-for-development?u=76281980&t=35)** If you don't have these yet, head on over to GitHub and set these up.
 >
@@ -360,7 +355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (12), [[Microsoft Copilot|Copilot]] (6), [[GitHub]] (5), [[Search]] (2), feature (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (12), [[Microsoft Copilot|Copilot]] (6), [[GitHub]] (5)
 > **Tools:** github (17), vs code (3), neovim (1)
 > **UI Navigation:** click on (3), navigate to (1), go to (1)
 > **Prerequisites:** install (2), configure (1), setup (1), set up (1)
@@ -374,8 +369,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining objectives and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980)
+#### [Defining objectives and goals](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980&t=83)** And whilst this is a great objective, we can make it a bit well smarter by being a touch more specific.
 >
-> **[1:33](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980&t=93)** To make the objective SMART, we'd want to say something along the lines of "Increase market awareness of our new product by 20%, "as measured by customer surveys "and online engagement metrics, "through a comprehensive marketing strategy "including digital campaigns, PR, "and targeted advertising within six months, "starting from Q3, "with progress reviewed every two months."
+> **[1:33](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980&t=93)** To make the objective SMART, we'd want to say something along the lines of "Increase market awareness of our new product by 20%, "as measured by customer surveys "and online engagement metrics, "through a comprehensive [[Marketing Strategy]] "including digital campaigns, PR, "and targeted advertising within six months, "starting from Q3, "with progress reviewed every two months."
 >
 > **[2:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980&t=126)** This is a SMART objective.
 >
@@ -443,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Marketing Strategy]] (1), next (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1)
 > **Env Vars:** smart (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -452,8 +446,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Selecting the pilot team
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/selecting-the-pilot-team?u=76281980)
+#### [Selecting the pilot team](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/selecting-the-pilot-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,13 +524,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), leadership (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing key performance indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/establishing-key-performance-indicators?u=76281980)
+#### [Establishing key performance indicators](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/establishing-key-performance-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +588,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/establishing-key-performance-indicators?u=76281980&t=214)** For a marketing campaign, try the click through rate and return on investment as a KPI.
 >
-> **[3:39](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/establishing-key-performance-indicators?u=76281980&t=219)** For a software development project, the bug fix rates and feature adoption rate would make good KPIs.
+> **[3:39](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/establishing-key-performance-indicators?u=76281980&t=219)** For a [[Software Development]] project, the bug fix rates and feature adoption rate would make good KPIs.
 >
 > **[3:48](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/establishing-key-performance-indicators?u=76281980&t=228)** And for a customer service initiative, average resolution time and overall customer satisfaction score would be great KPIs.
 >
@@ -611,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Software Development]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Env Vars:** kpi (3), nps (1), smart (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1), in the next (1)
@@ -619,8 +610,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Preparing your environment for the pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980)
+#### [Preparing your environment for the pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,11 +630,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=54)** The first step is to identify and gather all of the necessary resources.
 >
-> **[0:59](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=59)** This includes software, hardware, documentation, and any of the materials your team will need.
+> **[0:59](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=59)** This includes software, [[Hardware]], documentation, and any of the materials your team will need.
 >
 > **[1:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=67)** Make sure to install and configure any required software in advance.
 >
-> **[1:13](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=73)** Remember, whilst GitHub Copilot is the primary focus of this pilot project example, this can be applied to any pilot project.
+> **[1:13](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=73)** Remember, whilst [[GitHub Copilot]] is the primary focus of this pilot project example, this can be applied to any pilot project.
 >
 > **[1:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-environment-for-the-pilot?u=76281980&t=84)** This might also include project management tools, calibration platforms, or any specialist software relevant to your pilot project.
 >
@@ -696,7 +686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[GitHub Copilot]] (1), management (1), teams (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[GitHub Copilot]] (1)
 > **Prerequisites:** set up (3), install (1), configure (1)
 > **Best Practices:** make sure to (2), best practice (2)
 > **CLI Commands:** make (3)
@@ -710,8 +700,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Steps to officially start the pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980)
+#### [Steps to officially start the pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=78)** This helps to provide structure and clarity.
 >
-> **[1:21](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=81)** Setting a positive tone for the rest of the project.
+> **[1:21](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=81)** Setting a positive tone for the [[Representational State Transfer (REST)|rest]] of the project.
 >
 > **[1:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=86)** It can be more powerful than you might think.
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=130)** Now, before the pilot officially starts, confirm that all the resources are in place.
 >
-> **[2:17](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=137)** This includes verifying all the necessary software, all the hardware, all of the documentation is ready and accessible, conduct some final pre-flight checks to ensure everything is in order.
+> **[2:17](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=137)** This includes verifying all the necessary software, all the [[Hardware]], all of the documentation is ready and accessible, conduct some final pre-flight checks to ensure everything is in order.
 >
 > **[2:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980&t=151)** On the launch day, start by making a formal announcement to the team.
 >
@@ -797,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
@@ -806,8 +795,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initial challenges and how to address them
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/initial-challenges-and-how-to-address-them?u=76281980)
+#### [Initial challenges and how to address them](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/initial-challenges-and-how-to-address-them?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +827,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/initial-challenges-and-how-to-address-them?u=76281980&t=100)** Technical issues can also pose significant challenges early on in the pilot.
 >
-> **[1:46](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/initial-challenges-and-how-to-address-them?u=76281980&t=106)** These might include software bugs, hardware malfunctions, or integration problems.
+> **[1:46](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/initial-challenges-and-how-to-address-them?u=76281980&t=106)** These might include software bugs, [[Hardware]] malfunctions, or integration problems.
 >
 > **[1:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/initial-challenges-and-how-to-address-them?u=76281980&t=112)** Such issues can derail your project if not addressed promptly.
 >
@@ -875,15 +863,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Troubleshooting]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communication strategies during the pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980)
+#### [Communication strategies during the pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +900,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=87)** Another key strategy is to use a central communications platform.
 >
-> **[1:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=91)** Tools like Slack, Microsoft Teams, or similar platforms can help streamline communication, keeping all conversations and documents in one accessible place.
+> **[1:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=91)** Tools like [[Slack]], [[Microsoft Teams]], or similar platforms can help streamline communication, keeping all conversations and documents in one accessible place.
 >
 > **[1:44](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=104)** Consistency is crucial.
 >
@@ -923,7 +910,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=124)** Additionally, use visual aids to enhance communication.
 >
-> **[2:08](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=128)** Diagrams, charts, and project dashboards can help convey complex information far more clearly and effectively.
+> **[2:08](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=128)** Diagrams, charts, and project [[Dashboards]] can help convey complex information far more clearly and effectively.
 >
 > **[2:19](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=139)** Visuals can make it easier for team members to understand and retain key points and goals.
 >
@@ -941,13 +928,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=186)** Now let's talk about some specific tools and techniques.
 >
-> **[3:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=189)** For instance, project management tools like Asana, Trello, and Jira can help track progress, assign tasks, and keep everyone updated on the project status.
+> **[3:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=189)** For instance, project management tools like Asana, [[Trello]], and [[Jira]] can help track progress, assign tasks, and keep everyone updated on the project status.
 >
-> **[3:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=203)** Video conferencing tools like Zoom or Teams are great for face-to-face meetings, especially for remote teams.
+> **[3:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=203)** Video conferencing tools like [[Zoom]] or Teams are great for face-to-face meetings, especially for remote teams.
 >
 > **[3:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=211)** They help maintain a personal connection and ensure that everyone can participate fully in discussions.
 >
-> **[3:40](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=220)** Lastly, document everything in something like OneDrive or your business's most prevalent documenting software.
+> **[3:40](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=220)** Lastly, document everything in something like [[Microsoft OneDrive|OneDrive]] or your business's most prevalent documenting software.
 >
 > **[3:50](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/communication-strategies-during-the-pilot?u=76281980&t=230)** Meeting notes, decisions, action items, and updates should be well-documented and shared with the team.
 >
@@ -961,15 +948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Slack]] (1), [[Microsoft Teams]] (1), [[Dashboards]] (1), management (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Microsoft Teams]] (1), [[Dashboards]] (1), [[Trello]] (1), [[Jira]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** slack (1), jira (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring smooth operations and support
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980)
+#### [Ensuring smooth operations and support](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,13 +977,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=66)** For example, create a detailed project plan that outlines all the tasks, deadlines, and who is responsible for each task.
 >
-> **[1:15](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=75)** This helps in tracking progress and ensures accountability too.
+> **[1:15](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=75)** This helps in tracking progress and ensures [[Accountability]] too.
 >
 > **[1:22](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=82)** Communication is also key.
 >
 > **[1:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=84)** Regular check-ins, updates, and open channels for communication help in quickly addressing any issues that might arise.
 >
-> **[1:34](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=94)** Use platforms like Slack or Teams, or even email for constant communication.
+> **[1:34](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=94)** Use platforms like [[Slack]] or Teams, or even email for constant communication.
 >
 > **[1:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=101)** Monitoring and reporting are also essential.
 >
@@ -1007,7 +993,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=115)** Providing effective support is another crucial aspect.
 >
-> **[2:01](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=121)** Ensure that technical support, training and resources are readily available to your team where possible.
+> **[2:01](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=121)** Ensure that [[Technical Support]], training and resources are readily available to your team where possible.
 >
 > **[2:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/ensuring-smooth-operations-and-support?u=76281980&t=129)** This includes having a dedicated support team or individuals who can assist with any issues that might come up and encourage a culture of continuous improvements.
 >
@@ -1027,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (1), [[Slack]] (1), teams (1), [[Technical Support]] (1), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Slack]] (1), [[Technical Support]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** coming up (1)
@@ -1039,8 +1025,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools and techniques for monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980)
+#### [Tools and techniques for monitoring](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,17 +1045,17 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=52)** One of the most commonly used tools is project management software.
 >
-> **[0:57](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=57)** Programs like Asana, Trello, and Jira help you organize tasks, assign responsibilities, and track deadlines.
+> **[0:57](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=57)** Programs like Asana, [[Trello]], and [[Jira]] help you organize tasks, assign responsibilities, and track deadlines.
 >
-> **[1:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=67)** These tools provide visual dashboards that give you a real-time overview of your project's status.
+> **[1:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=67)** These tools provide visual [[Dashboards]] that give you a [[Real-Time]] overview of your project's status.
 >
 > **[1:15](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=75)** You can see which tasks are completed, which ones are in progress, and which are overdue, allowing you to quickly address any bottlenecks.
 >
 > **[1:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=86)** Another essential tool is time tracking software, like Toggl, Harvest, or Clockify, primarily for monitoring the duration your team devotes to various tasks.
 >
-> **[1:37](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=97)** While this data can be useful for workflow optimization, it is important to know that time spent is not necessarily an indicator of productivity.
+> **[1:37](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=97)** While this data can be useful for [[Workflow Optimization]], it is important to know that time spent is not necessarily an indicator of productivity.
 >
-> **[1:48](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=108)** Additionally, consider using communication tools, like Slack or Teams.
+> **[1:48](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=108)** Additionally, consider using communication tools, like [[Slack]] or Teams.
 >
 > **[1:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980&t=112)** These platforms facilitate real-time communication and collaboration, making it so much easier to address issues as they arise and keep everyone on the same page.
 >
@@ -1112,15 +1097,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Real-Time]] (2), teams (2), management (1), [[Trello]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Trello]] (1), [[Jira]] (1), [[Dashboards]] (1), [[Workflow Optimization]] (1)
 > **Tools:** jira (1), slack (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capturing and analyzing metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980)
+#### [Capturing and analyzing metrics](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,7 +1122,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=48)** One of the first steps in capturing metrics is to define what you need to measure.
 >
-> **[0:53](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=53)** Now, this can all depend on the goal of your pilot, but common metrics include performance metrics, user engagement metrics, and financial metrics.
+> **[0:53](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=53)** Now, this can all depend on the goal of your pilot, but common metrics include [[Performance Metrics]], user engagement metrics, and financial metrics.
 >
 > **[1:04](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=64)** Performance metrics might include things like system uptime, response times, and error rates.
 >
@@ -1152,9 +1136,9 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=101)** These metrics are essential for understanding the financial health of your project.
 >
-> **[1:49](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=109)** Now, once you've identified the key metrics to track, the next step is to use the right tools for data collection.
+> **[1:49](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=109)** Now, once you've identified the key metrics to track, the next step is to use the right tools for [[Data Collection]].
 >
-> **[1:57](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=117)** Tools like Power BI, Tableau, or custom dashboards can help you gather and visualize this data effectively, and regularly review the collected data to monitor progress and detect any anomalies, set up automatic reports or alerting to stay informed about critical changes or any issues.
+> **[1:57](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=117)** Tools like [[Microsoft Power BI|Power BI]], [[Tableau]], or custom [[Dashboards]] can help you gather and visualize this data effectively, and regularly review the collected data to monitor progress and detect any anomalies, set up automatic reports or alerting to stay informed about critical changes or any issues.
 >
 > **[2:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/capturing-and-analyzing-metrics?u=76281980&t=143)** Analyzing and investigating the metrics involves looking for trends and patterns.
 >
@@ -1182,14 +1166,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Performance Metrics]] (2), next (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[Data Collection]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making adjustments during the pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980)
+#### [Making adjustments during the pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,7 +1196,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=66)** Look for trends, anomalies, and feedback that indicate a need for change.
 >
-> **[1:14](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=74)** For example, if user engagement metrics are lower than expected, it might indicate that the user experience needs improvement.
+> **[1:14](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=74)** For example, if user engagement metrics are lower than expected, it might indicate that the [[User Experience (UX)|user experience]] needs improvement.
 >
 > **[1:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=83)** Similarly, if you've consistently missed deadlines, you might suggest the need for better resource allocation.
 >
@@ -1241,7 +1224,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=177)** This helps to validate the effectiveness of the change and helps you make any necessary tweaks before broader implementation.
 >
-> **[3:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=187)** Now, continuous monitoring is essential during this phase.
+> **[3:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=187)** Now, [[Continuous Monitoring]] is essential during this phase.
 >
 > **[3:11](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/making-adjustments-during-the-pilot?u=76281980&t=191)** Keep tracking your metrics to evaluate the impact of these adjustments.
 >
@@ -1261,14 +1244,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Continuous Monitoring]] (1), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Continuous Monitoring]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case studies of effective monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980)
+#### [Case studies of effective monitoring](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=58)** They were piloting a new student resource monitoring system.
 >
-> **[1:03](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=63)** They implemented a robust monitoring system using real time dashboards to track user engagement and system performance.
+> **[1:03](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=63)** They implemented a robust monitoring system using real time [[Dashboards]] to track user engagement and system performance.
 >
 > **[1:12](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=72)** By monitoring these metrics daily, they identified a trend where user engagement dropped during certain times of the day.
 >
@@ -1304,7 +1286,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=109)** They were piloting a new customer management system, and they used comprehensive analytics to monitor customer feedback, system usage, and staff efficiency.
 >
-> **[2:02](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=122)** Through detailed surveys and feedback forms, they collected customer satisfaction scores.
+> **[2:02](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=122)** Through detailed surveys and feedback [[Forms]], they collected customer satisfaction scores.
 >
 > **[2:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=129)** They also tracked how often the staff were using key features of the system, and this data was analyzed weekly.
 >
@@ -1316,7 +1298,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=174)** Finally, let's look at Two Trees Olive Oil, which piloted a completely new production line.
 >
-> **[3:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=180)** Now, they used IOT sensors to monitor crop performance and production efficiency in real time.
+> **[3:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=180)** Now, they used [[IoT]] sensors to monitor crop performance and production efficiency in real time.
 >
 > **[3:08](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=188)** The sensors provided data on things like soil saturation, production speed, and the overall health of their harvest.
 >
@@ -1326,7 +1308,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=215)** Production efficiency improves significantly as a result as well.
 >
-> **[3:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=221)** This case study underscores the importance of leveraging technology for real-time monitoring and immediate problem resolution.
+> **[3:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=221)** This case study underscores the importance of leveraging technology for [[Real-Time]] monitoring and immediate problem resolution.
 >
 > **[3:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/case-studies-of-effective-monitoring?u=76281980&t=232)** So in summary, effective monitoring is essential for the success of any pilot project.
 >
@@ -1338,7 +1320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Dashboards]] (1), management (1), [[Analytics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Forms]] (1), [[IoT]] (1), [[Real-Time]] (1)
 > **Env Vars:** iot (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1350,8 +1332,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Criteria for concluding the pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980)
+#### [Criteria for concluding the pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,7 +1358,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=60)** Review the key metrics that you've been tracking.
 >
-> **[1:03](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=63)** These could include performance metrics, user engagements, cost effectiveness, and any other indicators that might be relevant to the project.
+> **[1:03](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=63)** These could include [[Performance Metrics]], user engagements, cost effectiveness, and any other indicators that might be relevant to the project.
 >
 > **[1:14](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=74)** It's also important to consider qualitative feedback.
 >
@@ -1387,7 +1368,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=84)** This feedback can provide context that numbers alone might miss.
 >
-> **[1:30](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=90)** Another critical aspect is the sustainability of the results.
+> **[1:30](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=90)** Another critical aspect is the [[Sustainability]] of the results.
 >
 > **[1:34](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980&t=94)** So, ask yourself, are the successes of the pilot replicable and scalable?
 >
@@ -1423,14 +1404,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Sustainability]] (1), next (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps for a structured wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-for-a-structured-wrap-up?u=76281980)
+#### [Steps for a structured wrap-up](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-for-a-structured-wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1500,13 +1480,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (6)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transitioning from pilot to full deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/transitioning-from-pilot-to-full-deployment?u=76281980)
+#### [Transitioning from pilot to full deployment](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/transitioning-from-pilot-to-full-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,20 +1538,19 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/transitioning-from-pilot-to-full-deployment?u=76281980&t=174)** In summary, the transition from pilot to full deployment requires careful planning and communication.
 >
-> **[3:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/transitioning-from-pilot-to-full-deployment?u=76281980&t=180)** By ensuring scalability, developing a detailed rollout plan, preparing your team, and enhancing support systems, you can increase the chances of a successful deployment.
+> **[3:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/transitioning-from-pilot-to-full-deployment?u=76281980&t=180)** By ensuring [[Scalability]], developing a detailed rollout plan, preparing your team, and enhancing support systems, you can increase the chances of a successful deployment.
 >
 > **[3:14](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/transitioning-from-pilot-to-full-deployment?u=76281980&t=194)** Coming up next, we'll look at the common pitfalls to avoid during this stage, helping you steer clear of potential obstacles as you move forward with your deployment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), game (1), management (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common pitfalls to avoid at this stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/common-pitfalls-to-avoid-at-this-stage?u=76281980)
+#### [Common pitfalls to avoid at this stage](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/common-pitfalls-to-avoid-at-this-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1618,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5), find (1)
 > **Warnings:** pitfall (2)
 > **Definitions:** is a  (1)
@@ -1653,8 +1629,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Methods for collecting feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980)
+#### [Methods for collecting feedback](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1669,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980&t=150)** Sometimes watching how users interact with your product or process can reveal issues or opportunities that participants might not think to mention in a survey or an interview.
 >
-> **[2:43](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980&t=163)** Observational feedback is especially useful for any UI or UX projects or when physically testing products.
+> **[2:43](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980&t=163)** Observational feedback is especially useful for any UI or UX projects or when physically testing [[Microsoft Products|products]].
 >
 > **[2:53](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980&t=173)** Each of these methods has its strength.
 >
@@ -1720,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), product (1), ux (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -1728,12 +1703,11 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organizing and preparing feedback for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980)
+#### [Organizing and preparing feedback for analysis](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=0)** - [Narrator] Have you ever tried solving a jigsaw puzzle without first sorting the pieces?
+> **[0:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=0)** - [Narrator] Have you ever tried solving a [[Jigsaw]] puzzle without first sorting the pieces?
 >
 > **[0:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=6)** I know some people can, but personally it's a bit overwhelming and progress is slow.
 >
@@ -1753,7 +1727,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=56)** Start by grouping similar comments or observations together.
 >
-> **[1:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=60)** Categories could include product, features, user experience, customer support, or any other relevant aspects of your project.
+> **[1:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=60)** Categories could include product, features, [[User Experience (UX)|user experience]], [[Customer Support]], or any other relevant aspects of your project.
 >
 > **[1:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=69)** Once you have your categories, it's helpful to sort the feedback within each category.
 >
@@ -1765,7 +1739,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=98)** This allows you to easily filter and search for specific themes later on.
 >
-> **[1:44](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=104)** I find simply having a few tags in something like Excel can be really helpful for this.
+> **[1:44](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=104)** I find simply having a few tags in something like [[Microsoft Excel|Excel]] can be really helpful for this.
 >
 > **[1:51](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/organizing-and-preparing-feedback-for-analysis?u=76281980&t=111)** And as you organize, be sure to consolidate duplicate feedback.
 >
@@ -1791,15 +1765,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Jigsaw]] (1), product (1), [[User Experience (UX)|User experience]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (1), [[User Experience (UX)|User experience]] (1), [[Customer Support]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** picture (1), for example (1), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prioritizing feedback and identifying trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/prioritizing-feedback-and-identifying-trends?u=76281980)
+#### [Prioritizing feedback and identifying trends](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/prioritizing-feedback-and-identifying-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1839,7 +1812,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/prioritizing-feedback-and-identifying-trends?u=76281980&t=109)** You just need to start analyzing the data.
 >
-> **[1:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/prioritizing-feedback-and-identifying-trends?u=76281980&t=112)** Using tools like word clouds or even sentiment analysis can help you quickly spot trends in large volumes of feedback.
+> **[1:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/prioritizing-feedback-and-identifying-trends?u=76281980&t=112)** Using tools like [[Microsoft Word|word]] clouds or even sentiment analysis can help you quickly spot trends in large volumes of feedback.
 >
 > **[2:02](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/prioritizing-feedback-and-identifying-trends?u=76281980&t=122)** These tools visually represent the most common words or phrases, making it easier to see what's on people's minds.
 >
@@ -1863,14 +1836,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Engaging with pilot teams post-pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/engaging-with-pilot-teams-post-pilot?u=76281980)
+#### [Engaging with pilot teams post-pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/engaging-with-pilot-teams-post-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,13 +1902,13 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/engaging-with-pilot-teams-post-pilot?u=76281980&t=203)** By gathering their insights through debriefing sessions, surveys, and interviews, and then integrating that feedback into your ongoing work, you can drive continuous improvement and set the stage for future success.
 >
-> **[3:40](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/engaging-with-pilot-teams-post-pilot?u=76281980&t=220)** And coming up next, we're going to dive into the technical segment of our course and go through the introduction of natural language processing for text analysis, where you'll learn how to leverage this powerful tool to analyze textual data effectively.
+> **[3:40](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/engaging-with-pilot-teams-post-pilot?u=76281980&t=220)** And coming up next, we're going to dive into the technical segment of our course and go through the introduction of [[Natural Language Processing (NLP)|natural language processing]] for text analysis, where you'll learn how to leverage this powerful tool to analyze textual data effectively.
 >
 > **[3:58](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/engaging-with-pilot-teams-post-pilot?u=76281980&t=238)** So stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -1949,8 +1921,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to NLTK for text analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980)
+#### [Introduction to NLTK for text analysis](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,13 +1931,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=13)** It's like having a powerful translator that helps you analyze and understand large amounts of text data.
 >
-> **[0:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=23)** In this video, I'll introduce you to the Natural Language Toolkit, or NLTK, a leading library in Python for working with human language data.
+> **[0:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=23)** In this video, I'll introduce you to the Natural Language Toolkit, or NLTK, a leading library in [[Python (Programming Language)|Python]] for working with human language data.
 >
 > **[0:35](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=35)** We'll cover its key features, how it supports text analysis, and ways you can apply it in your own projects.
 >
 > **[0:45](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=45)** NLTK is a comprehensive library for text processing and analysis.
 >
-> **[0:51](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=51)** It provides easy to use interfaces to over 50 corpora, which are collections of written and spoken text, and lexical resources, which are databases of words.
+> **[0:51](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=51)** It provides easy to use interfaces to over 50 corpora, which are collections of written and spoken text, and lexical resources, which are [[Databases]] of words.
 >
 > **[1:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=66)** NLTK also includes a suite of text processing libraries for classification tokenization, stemming and much more.
 >
@@ -1980,7 +1951,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=98)** This makes sure that I have all of the additional packages I need for using NLTK with Python, packages like numpai, for example, that otherwise I'd have to install separately.
 >
-> **[1:51](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=111)** Now to install this on Windows, simply go to the Anaconda website and head to their download section.
+> **[1:51](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=111)** Now to install this on [[Windows]], simply go to the Anaconda website and head to their download section.
 >
 > **[1:58](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=118)** They will initially ask you for your email address, so enter it and you'll get a URL to the download link.
 >
@@ -2036,7 +2007,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=316)** It's one of those syntactical rules you have to follow.
 >
-> **[5:19](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=319)** And I'm going to say some sample text here, and I will replace that shortly with an actual fictitious review of GitHub copilot that I've got on standby.
+> **[5:19](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=319)** And I'm going to say some sample text here, and I will replace that shortly with an actual fictitious review of [[GitHub Copilot]] that I've got on standby.
 >
 > **[5:32](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=332)** But right now I'm just going to leave it as that.
 >
@@ -2048,7 +2019,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=370)** And between the double quote and the parentheses, I'm going to say comma and then sentence_tokens.
 >
-> **[6:20](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=380)** So that should also be sentence underscore tokens above it.
+> **[6:20](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=380)** So that should also be sentence underscore [[Tokens]] above it.
 >
 > **[6:22](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=382)** Yep, excellent stuff.
 >
@@ -2058,7 +2029,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=391)** Now with the text sum sample text here, that's not going to be very useful, but with the text I'm going to put in there in a second, it will be very useful.
 >
-> **[6:39](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=399)** So I'm going to say word, I'm going to scroll down very slightly.
+> **[6:39](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=399)** So I'm going to say [[Microsoft Word|word]], I'm going to scroll down very slightly.
 >
 > **[6:45](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=405)** Underscore tokens equals word_tokenize,
 >
@@ -2292,7 +2263,7 @@ created: 2026-05-02
 >
 > **[23:01](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=1381)** And based on that training, it's classified our sample text as positive.
 >
-> **[23:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=1389)** Applying NLTK to real world tasks can open up numerous possibilities, whether you are analyzing customer reviews, processing large data sets for legal documents, or even performing natural language processing on social media data.
+> **[23:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=1389)** Applying NLTK to real world tasks can open up numerous possibilities, whether you are analyzing customer reviews, processing large data sets for legal documents, or even performing [[Natural Language Processing (NLP)|natural language processing]] on social media data.
 >
 > **[23:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980&t=1406)** NLTK provides the tools you need to make sense of it all.
 >
@@ -2306,7 +2277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), data (9), next (7), [[Python (Programming Language)|Python]] (6), [[GitHub Copilot]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Python (Programming Language)|Python]] (6), [[GitHub Copilot]] (3), [[Tokens]] (3), [[Databases]] (1)
 > **Code Identifiers:** feature_sets (4), word_tokenize (3), word_tokens (3), movie_reviews (3), extract_features (3)
 > **Env Vars:** nltk (20), url (1), pos (1)
 > **CLI Commands:** python (6), make (1)
@@ -2315,8 +2286,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), just like (2), it's like (1)
 > **Exercise Files:** download the (3), exercise files (1)
 
-#### Preparing your data for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980)
+#### [Preparing your data for analysis](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,7 +2298,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=18)** Before you can dive into the analysis, you need to prepare your data properly.
 >
-> **[0:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=24)** In this video, we'll focus on the importance of preparing your data for analysis, explore key techniques for cleaning and preprocessing text data, and walk you through coding examples that show you how to remove stop words and identify bigrams using Python.
+> **[0:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=24)** In this video, we'll focus on the importance of preparing your data for analysis, explore key techniques for cleaning and preprocessing text data, and walk you through coding examples that show you how to remove stop words and identify bigrams using [[Python (Programming Language)|Python]].
 >
 > **[0:45](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=45)** Preparing your data is a crucial step that can significantly impact the quality of your analysis.
 >
@@ -2370,7 +2340,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=204)** That's an important distinction.
 >
-> **[3:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=205)** Word for word in words.
+> **[3:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=205)** [[Microsoft Word|Word]] for word in words.
 >
 > **[3:30](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=210)** Lots of the use of the word 'word' there, almost as though that's a stop word in itself.
 >
@@ -2384,7 +2354,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=256)** So if I say sample underscore text equals, and if you've watched the previous videos, you know exactly what I'm about to paste in here.
 >
-> **[4:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=263)** It's our fictitious GitHub copilot review, also surrounded by triple quotation marks.
+> **[4:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=263)** It's our fictitious [[GitHub Copilot]] review, also surrounded by triple quotation marks.
 >
 > **[4:31](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=271)** And then under that, I'm going to say cleaned underscore text equals, remove underscore stop words, parentheses, sample underscore, underscore text, close parentheses, and then print parentheses cleaned text, close parentheses.
 >
@@ -2402,7 +2372,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=337)** For example, machine learning is more meaningful as a bigram than the two words machine and learning.
 >
-> **[5:45](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=345)** Given the sentence, I love Mike's LinkedIn learning course, the bigrams would be, I love, love Mike's, Mike's LinkedIn, LinkedIn Learning and Learning course.
+> **[5:45](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=345)** Given the sentence, I love Mike's [[LinkedIn]] learning course, the bigrams would be, I love, love Mike's, Mike's LinkedIn, LinkedIn Learning and Learning course.
 >
 > **[6:01](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/preparing-your-data-for-analysis?u=76281980&t=361)** So let's use nltk to identify bigrams in our sample text.
 >
@@ -2448,7 +2418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (6), [[LinkedIn]] (3), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[LinkedIn]] (3), [[Python (Programming Language)|Python]] (1), [[GitHub Copilot]] (1)
 > **CLI Commands:** find (6), make (2), python (1)
 > **Analogies:** imagine (1), such as (1), for example (1), similar to (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2457,8 +2427,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Techniques to identify sentiments and themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/techniques-to-identify-sentiments-and-themes?u=76281980)
+#### [Techniques to identify sentiments and themes](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/techniques-to-identify-sentiments-and-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,7 +2439,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/techniques-to-identify-sentiments-and-themes?u=76281980&t=25)** We'll walk through a coding example where we extract sentiments from individual product reviews, and by the end, you'll be able to automate this process and apply it to your own data sets.
 >
-> **[0:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/techniques-to-identify-sentiments-and-themes?u=76281980&t=41)** So in my jupyter notebook, let's say I have seven reviews for GitHub Copilot or whatever software I happen to be piloting.
+> **[0:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/techniques-to-identify-sentiments-and-themes?u=76281980&t=41)** So in my jupyter notebook, let's say I have seven reviews for [[GitHub Copilot]] or whatever software I happen to be piloting.
 >
 > **[0:51](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/techniques-to-identify-sentiments-and-themes?u=76281980&t=51)** If I were to sit and read through these, I could ascertain whether or not they were positive, negative, or neutral.
 >
@@ -2538,7 +2507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (1), [[GitHub Copilot]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1)
 > **Code Identifiers:** sentiment_type (4)
 > **Versions:** 0.46875 (1), 0.0 (1), 0.4 (1)
 > **Tools:** jupyter (1), github (1)
@@ -2547,8 +2516,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gathering metrics from GitHub regarding Copilot usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980)
+#### [Gathering metrics from GitHub regarding Copilot usage](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2556,11 +2524,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=5)** It's pretty impossible, right?
 >
-> **[0:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=6)** Just as passwords protect your personal information, access tokens serve as the key to access GitHub's API securely.
+> **[0:06](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=6)** Just as passwords protect your personal information, access [[Tokens]] serve as the key to access [[GitHub]]'s API securely.
 >
-> **[0:17](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=17)** Without them, you wouldn't be able to retrieve valuable data like how often GitHub Copilot is being used across your organization.
+> **[0:17](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=17)** Without them, you wouldn't be able to retrieve valuable data like how often [[GitHub Copilot]] is being used across your organization.
 >
-> **[0:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=26)** In this video, we're going to cover how to generate a GitHub access token, install GitHub on the CLI, and also use the CLI to harvest Copilot usage data from the GitHub API.
+> **[0:26](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=26)** In this video, we're going to cover how to generate a GitHub access token, install GitHub on the [[CLI]], and also use the CLI to harvest [[Microsoft Copilot|Copilot]] usage data from the GitHub API.
 >
 > **[0:41](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=41)** Let's start by understanding what a GitHub access token actually is and why it's important.
 >
@@ -2602,7 +2570,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=165)** The GitHub CLI is a really powerful tool that lets you interact with GitHub directly from your terminal.
 >
-> **[2:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=172)** To install it, just navigate to cli.[github.com](https://github.com) and download the executable file here for Windows.
+> **[2:52](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=172)** To install it, just navigate to cli.[github.com](https://github.com) and download the executable file here for [[Windows]].
 >
 > **[3:02](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=182)** Now with the GitHub CLI installed, it is time to authenticate it using the access token we generate earlier, so in your terminal, run hg auth login, and it will ask if you want to log into [github.com](https://github.com) or the GitHub Enterprise Server, I'm going to choose [github.com](https://github.com).
 >
@@ -2622,7 +2590,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=235)** We're going to use the following command to retrieve the Copilot usage metrics, GH for GitHub, and then API-H, and then in quotation marks, accept application slash vnvd.github
 >
-> **[4:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=263)** plus JSON, which is what we're going to be getting the data back in.
+> **[4:23](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=263)** plus [[JSON]], which is what we're going to be getting the data back in.
 >
 > **[4:28](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/gathering-metrics-from-github-regarding-copilot-usage?u=76281980&t=268)** Then after that quotation mark, have another header, so -H again, and say in, double quotation marks, X-github-API-version, colon, space, 2022-11-28, and that's outside of that quotation marks.
 >
@@ -2650,7 +2618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (28), data (11), api (9), [[CLI]] (7), [[GitHub Copilot]] (5)
+> **Frameworks & Libraries:** [[GitHub]] (28), [[CLI]] (7), [[GitHub Copilot]] (5), [[Tokens]] (4), [[Microsoft Copilot|Copilot]] (4)
 > **Tools:** github (33), terminal (3), command line (1)
 > **Env Vars:** api (9), cli (6), json (3), https (1)
 > **Prerequisites:** install (3), you'll need (2), getting started (1)
@@ -2659,14 +2627,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### Visualizing data and results
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980)
+#### [Visualizing data and results](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=0)** - [Narrator] In this video, we have reached the moment of this course where everything starts coming together that we've gathered so far.
 >
-> **[0:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=7)** It is time to transform our data into visualizations that help us understand the trends and patterns within it, whether it's qualitative data like sentiment analysis or quantitative metrics gathered through the GitHub Copilot API.
+> **[0:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=7)** It is time to transform our data into visualizations that help us understand the trends and patterns within it, whether it's qualitative data like sentiment analysis or quantitative metrics gathered through the [[GitHub Copilot]] API.
 >
 > **[0:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=24)** Turning this raw data into graphs will be key to drawing insights and presenting a compelling business case for this pilot project.
 >
@@ -2680,7 +2647,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=67)** This can be useful to find common areas or routinely mentioned areas of the system that were piloting.
 >
-> **[1:16](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=76)** We can visualize this by creating a pie chart that shows us the number of reviews that fell into each sentiment category, and by doing this, we can quickly grasp the overall user experience in one simple graphic.
+> **[1:16](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=76)** We can visualize this by creating a pie chart that shows us the number of reviews that fell into each sentiment category, and by doing this, we can quickly grasp the overall [[User Experience (UX)|user experience]] in one simple graphic.
 >
 > **[1:33](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=93)** Next, let's move onto the metrics we gathered through the GitHub Copilot API.
 >
@@ -2688,13 +2655,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=106)** This data includes things like the total number of suggestions and acceptances, the lines of code generated, and how many users were actively engaging with the software.
 >
-> **[1:59](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=119)** Now, because this data was in JSON format, I have paused it separately into a CSV file to make it more manageable and ready for visualization.
+> **[1:59](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=119)** Now, because this data was in [[JSON]] format, I have paused it separately into a CSV file to make it more manageable and ready for visualization.
 >
 > **[2:09](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=129)** So here's how it looks in a CSV format.
 >
 > **[2:15](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=135)** Now, whilst this goes a little beyond the scope of this course, if you wanted to convert JSON format data into CSV quite easily.
 >
-> **[2:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=145)** I will include a script in the exercise files that you can run to do this using Excel.
+> **[2:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=145)** I will include a script in the exercise files that you can run to do this using [[Microsoft Excel|Excel]].
 >
 > **[2:33](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/visualizing-data-and-results?u=76281980&t=153)** We can graph this data over time.
 >
@@ -2722,7 +2689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[GitHub Copilot]] (2), api (2), business (2), next (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[JSON]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (3), api (2), json (2)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** github (2)
@@ -2736,11 +2703,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring your business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/structuring-your-business-case?u=76281980)
+#### [Structuring your business case](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/structuring-your-business-case?u=76281980)
 
-#### Incorporating data and insights from the pilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/incorporating-data-and-insights-from-the-pilot?u=76281980)
+#### [Incorporating data and insights from the pilot](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/incorporating-data-and-insights-from-the-pilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2754,7 +2719,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/incorporating-data-and-insights-from-the-pilot?u=76281980&t=29)** In this video, we're going to explore how to incorporate data and insights from the pilot phase into your evolving business case that we started in the previous video.
 >
-> **[0:39](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/incorporating-data-and-insights-from-the-pilot?u=76281980&t=39)** We'll discuss the best methods for integrating this data and how to present it effectively, particularly using tools like PowerPoint.
+> **[0:39](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/incorporating-data-and-insights-from-the-pilot?u=76281980&t=39)** We'll discuss the best methods for integrating this data and how to present it effectively, particularly using tools like [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:50](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/incorporating-data-and-insights-from-the-pilot?u=76281980&t=50)** So let's start by understanding why data from the pilot phase is so crucial.
 >
@@ -2810,14 +2775,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (6), [[Microsoft PowerPoint|Powerpoint]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1), coming up (1)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Presenting results to stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/presenting-results-to-stakeholders?u=76281980)
+#### [Presenting results to stakeholders](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/presenting-results-to-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2907,7 +2871,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (2), next (2)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Cross-References:** coming up (1)
@@ -2915,8 +2878,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies for gaining support for full deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/strategies-for-gaining-support-for-full-deployment?u=76281980)
+#### [Strategies for gaining support for full deployment](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/strategies-for-gaining-support-for-full-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2994,20 +2956,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps to continue your software pilot journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980)
+#### [Next steps to continue your software pilot journey](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=0)** - [Narrator] Congratulations, you've just completed this course on running a successful software pilot and using that information to build a solid business case for full deployment.
 >
-> **[0:12](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=12)** Whether you are testing GitHub Copilot or any other software, you now have a comprehensive framework to ensure your pilot is a success.
+> **[0:12](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=12)** Whether you are testing [[GitHub Copilot]] or any other software, you now have a comprehensive framework to ensure your pilot is a success.
 >
 > **[0:24](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=24)** Over the last few lessons, we've explored a range of strategies to help you confidently manage your software pilot projects.
 >
 > **[0:33](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=33)** We began by discussing how to plan and execute a pilot, including identifying the right team and defining clear objectives.
 >
-> **[0:46](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=46)** From there, we dove into gathering metrics from both qualitative feedback like sentiment analysis and quantitative feedback, such as the usage statistics from GitHub Copilot.
+> **[0:46](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=46)** From there, we dove into gathering metrics from both qualitative feedback like sentiment analysis and quantitative feedback, such as the usage [[Statistics]] from GitHub Copilot.
 >
 > **[1:02](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=62)** You've learned how to organize and analyze that data to draw meaningful results.
 >
@@ -3017,7 +2978,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=85)** And the key takeaway, you now have the tools to ensure that any pilot you run is well organized data-driven and convincing enough to secure stakeholder buy-in for future deployments.
 >
-> **[1:42](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=102)** And as for next steps, I highly recommend checking out the GitHub Copilot training videos by Ray Villalobos on LinkedIn Learning to deepen your knowledge of how to best leverage GitHub Copilot for your team.
+> **[1:42](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=102)** And as for next steps, I highly recommend checking out the GitHub Copilot training videos by Ray Villalobos on [[LinkedIn]] Learning to deepen your knowledge of how to best leverage GitHub Copilot for your team.
 >
 > **[1:58](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980&t=118)** And don't forget, you can follow me on LinkedIn and other social media platforms for more insights, tips, and other tech and gaming related content.
 >
@@ -3025,7 +2986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (4), business (2), data (2), [[LinkedIn]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[LinkedIn]] (2), [[Statistics]] (1)
 > **Tools:** github (4)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)

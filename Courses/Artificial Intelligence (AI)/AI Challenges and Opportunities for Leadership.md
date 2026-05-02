@@ -69,14 +69,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tackling AI as a leadership challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980)
+#### [Tackling AI as a leadership challenge](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980&t=0)** - AI is going to change your organization but it's hard to know where the opportunities are and how to address the challenges that are going to arise.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980&t=7)** Hey, I'm Connor Grennan, I'm the Dean of Students at NYU Stern, Head of Generative AI at Stern, and a New York Times bestselling author.
+> **[0:07](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980&t=7)** Hey, I'm Connor Grennan, I'm the Dean of Students at NYU Stern, Head of [[Generative AI]] at Stern, and a New York Times bestselling author.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980&t=13)** And I train leadership teams in how to use generative AI to maximize productivity.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (2), leadership (2), teams (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Env Vars:** nyu (1)
 > **Speakers:** - ai (1)
 
@@ -101,14 +100,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building an AI-friendly culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980)
+#### [Building an AI-friendly culture](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=0)** - In 1980, IBM, renowned for their colossal mainframe computers, found themselves at a crossroads, the rise of personal computing.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=10)** CEO John Opel knew IBM would need a major pivot to survive and compete, but he had a serious challenge.
+> **[0:10](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=10)** CEO [[John the Ripper|John]] Opel knew IBM would need a major pivot to survive and compete, but he had a serious challenge.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=19)** His people, engineers, system administrators, technicians, only knew one way of working on mainframes.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=142)** Make sure your teams understand that AI is designed to go through them, not around them.
 >
-> **[2:29](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=149)** Generative AI augments the capabilities of the user.
+> **[2:29](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=149)** [[Generative AI]] augments the capabilities of the user.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980&t=152)** Remind them that you hired them for their ingenuity, their creativity, and their experience.
 >
@@ -172,24 +170,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), power (2), leadership (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Generative AI]] (1)
 > **Env Vars:** ibm (5), ceo (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### AI and organizational structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980)
+#### [AI and organizational structure](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=1)** - Think back to your first office job.
+> **[0:01](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=1)** - Think back to your first [[Microsoft Office|office]] job.
 >
 > **[0:03](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=3)** More often than not, it involved routine tasks and filling a well-defined role.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=8)** As you progress in the company, you'd find yourself managing and improving the work of those entry-level folks, and then ultimately becoming more responsible for the big picture.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=17)** But today, advancements in artificial intelligence, and especially generative AI, are allowing innovative companies to rethink this entire corporate structure, from what we might be able to automate to the future of roles and job descriptions.
+> **[0:17](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=17)** But today, advancements in [[Artificial Intelligence (AI)|artificial intelligence]], and especially [[Generative AI]], are allowing innovative companies to rethink this entire corporate structure, from what we might be able to automate to the future of roles and job descriptions.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=33)** So how could this impact traditional hierarchy?
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=61)** As AI automates operational tasks, they'll evolve into project leaders with a focus on nurturing talent.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=68)** Traditional tasks like report generation or project tracking can be automated with AI, and that means fewer people in this role.
+> **[1:08](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=68)** Traditional tasks like report generation or [[Project Tracking]] can be automated with AI, and that means fewer people in this role.
 >
 > **[1:17](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-organizational-structure?u=76281980&t=77)** Instead, middle managers will see an evolution towards strategy, talent development, and innovation.
 >
@@ -225,14 +222,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), management (3), [[Microsoft Office|Office]] (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Microsoft Office|Office]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Project Tracking]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - think (1)
 
-#### Lessons in AI implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/lessons-in-ai-implementation?u=76281980)
+#### [Lessons in AI implementation](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/lessons-in-ai-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/lessons-in-ai-implementation?u=76281980&t=49)** They started with a clear problem, how to optimize their vast supply chain.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/lessons-in-ai-implementation?u=76281980&t=53)** They curated large amounts of data, developed flexible algorithms, and adopted a global approach to AI implementation.
+> **[0:53](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/lessons-in-ai-implementation?u=76281980&t=53)** They curated large amounts of data, developed flexible [[Algorithms]], and adopted a global approach to AI implementation.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/lessons-in-ai-implementation?u=76281980&t=62)** IKEA, the Swedish furniture company, didn't just add AI to its customer service.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), business (3), management (2), data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ikea (1)
 > **Speakers:** - remember (1)
@@ -314,8 +310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and employee retention
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980)
+#### [AI and employee retention](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,11 +320,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=24)** It's a lot on one person's plate.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=26)** Luckily, AI excels in personalization and there are practical strategies and tools emerging that your teams can begin implementing, starting with real-time feedback.
+> **[0:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=26)** Luckily, AI excels in personalization and there are practical strategies and tools emerging that your teams can begin implementing, starting with [[Real-Time]] feedback.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=38)** AI tools can help leaders by providing real-time feedback to enhance communication among teams.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=44)** From the moment an employee comes on board, generative AI can be at their service, answering questions, guiding them to the resources they need to get started.
+> **[0:44](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=44)** From the moment an employee comes on board, [[Generative AI]] can be at their service, answering questions, guiding them to the resources they need to get started.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=53)** When they're provided immediate responses to their inquiries, there's no reason to stop their workflow as they wait for a manager or an HR response.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=97)** AI can analyze extensive individual performance data, enabling a bespoke approach to rewards and recognition.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=105)** It can track performance metrics against benchmarks, highlighting outperformers, AI can then help design personalized rewards that align with each employee's unique motivations and interests.
+> **[1:45](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=105)** It can track [[Performance Metrics]] against benchmarks, highlighting outperformers, AI can then help design personalized rewards that align with each employee's unique motivations and interests.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980&t=118)** Workhuman, for example, it uses its AI powered social recognition platform to reward employees for their contributions.
 >
@@ -377,13 +372,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Real-Time]] (3), teams (2), [[Generative AI]] (2), data (2)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Generative AI]] (2), [[Performance Metrics]] (1)
 > **Env Vars:** sap (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 
-#### AI and employee development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980)
+#### [AI and employee development](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=97)** AI can also track your reading preferences and stay updated with the latest industry trends so you can learn at your pace.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=105)** Large Language Models like Perplexity AI can curate materials quickly based on interest.
+> **[1:45](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=105)** [[Large Language Models (LLM)|Large Language Models]] like Perplexity AI can curate materials quickly based on interest.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=111)** Other AI tools recommend learning materials to employees, significantly streamlining their information search by having relevant information ready to serve up.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=169)** They offer personalized advice to employees, keeping 'em engaged and assisting them in overcoming obstacles.
 >
-> **[2:56](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=176)** Imagine these AI mentors providing real-time feedback and promptly resolving queries.
+> **[2:56](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=176)** Imagine these AI mentors providing [[Real-Time]] feedback and promptly resolving queries.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-development?u=76281980&t=183)** Today's workforce is shifting toward a skill-based economy, where a diverse skillset is more valuable than a single specific expertise.
 >
@@ -441,20 +435,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), teams (1), strengths (1), cloud (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **URLs:** [rocky.ai](https://rocky.ai) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - most (1)
 
-#### AI and performance management
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980)
+#### [AI and performance management](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=1)** - Imagine an orchestra where each musician's performance is judged solely based on their loudness, not on the harmony or the rhythm they create together.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=10)** Traditional performance metrics in the corporate world often focus more on sales numbers or customer interactions, both AI.
+> **[0:10](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=10)** Traditional [[Performance Metrics]] in the corporate world often focus more on sales numbers or customer interactions, both AI.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=19)** An opportunity exists to shift towards a holistic approach.
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=84)** One size fits all performance plans often fall short.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=89)** Generative AI having analyzed individual performances might suggest a course in project management for Sarah while encouraging Mateo to participate in strategic decision making discussions.
+> **[1:29](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=89)** [[Generative AI]] having analyzed individual performances might suggest a course in project management for Sarah while encouraging Mateo to participate in strategic decision making discussions.
 >
 > **[1:41](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-performance-management?u=76281980&t=101)** By creating custom plans for each employee you foster individual development and increase your team's performance.
 >
@@ -516,14 +509,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Performance Metrics]] (4), management (3), [[Generative AI]] (3), strengths (2)
+> **Frameworks & Libraries:** [[Performance Metrics]] (4), [[Generative AI]] (3)
 > **Analogies:** for instance (2), imagine (1), picture (1), such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - imagine (1)
 
-#### AI and team effectiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980)
+#### [AI and team effectiveness](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,13 +537,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=84)** By fostering this kind of communication, we allow creativity to flourish, build stronger team bonds, and avoid misunderstandings.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=95)** AI-driven platforms like Microsoft Teams enhance these interactions.
+> **[1:35](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=95)** AI-driven platforms like [[Microsoft Teams]] enhance these interactions.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=99)** And for those tricky moments when ideas seem too complex to put into words, generative AI tools act as like an English-to-English translator, making complex concepts easier to understand.
+> **[1:39](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=99)** And for those tricky moments when ideas seem too complex to put into words, [[Generative AI Tools]] act as like an English-to-English translator, making complex concepts easier to understand.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=113)** But clear communication alone is not enough.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=116)** We need to create an environment of transparency and accountability where everyone understands their roles, their responsibilities, and how their tasks are progressing.
+> **[1:56](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=116)** We need to create an environment of transparency and [[Accountability]] where everyone understands their roles, their responsibilities, and how their tasks are progressing.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=127)** This kind of environment promotes mutual respect and makes everyone feel like they're pulling their weight.
 >
@@ -563,7 +555,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=154)** Fairly distributing tasks based on individual skills and capacity ensures that the team can work efficiently and harmoniously.
 >
-> **[2:43](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=163)** And that's where AI comes into play again with tools like Trello, which utilize artificial intelligence to intelligently balance workloads, ensuring that no one feels overwhelmed.
+> **[2:43](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=163)** And that's where AI comes into play again with tools like [[Trello]], which utilize [[Artificial Intelligence (AI)|artificial intelligence]] to intelligently balance workloads, ensuring that no one feels overwhelmed.
 >
 > **[2:53](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=173)** Finally, all of these elements lead us to create positive team dynamics, the kind that promotes productivity, encourages collaboration, and makes the work environment something to look forward to.
 >
@@ -577,7 +569,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=206)** Reflect on the types of strengths your people bring to work every day and their unique contributions.
 >
-> **[3:32](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=212)** Now, think about how tools like Microsoft Teams for better communication, ChatGPT for simplifying complex ideas, [monday.com](https://monday.com) for tracking responsibilities, Trello for balancing workloads, and Humu for boosting team dynamics could enhance these strengths.
+> **[3:32](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=212)** Now, think about how tools like Microsoft Teams for better communication, [[ChatGPT]] for simplifying complex ideas, [monday.com](https://monday.com) for tracking responsibilities, Trello for balancing workloads, and Humu for boosting team dynamics could enhance these strengths.
 >
 > **[3:53](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-team-effectiveness?u=76281980&t=233)** These aren't just tech trends.
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), teams (2), [[Microsoft Teams]] (2), [[Accountability]] (2), [[Trello]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (2), [[Accountability]] (2), [[Trello]] (2), [[Generative AI Tools]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **URLs:** [monday.com](https://monday.com) (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** nasa (1)
@@ -609,8 +601,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and business differentiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980)
+#### [AI and business differentiation](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -642,7 +633,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=72)** They help your people discover intelligent ways to work, providing them with more time for strategic initiatives.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=78)** AI solutions like [Otter.ai](https://Otter.ai), which handles transcribing and summarizing notes, functions like a personal assistant for every employee.
+> **[1:18](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=78)** [[AI Solutions]] like [Otter.ai](https://Otter.ai), which handles transcribing and summarizing notes, functions like a personal assistant for every employee.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=87)** Few things inspire as effectively as eliminating mundane tasks from our employees' workloads.
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=134)** True differentiation and growth happen when innovation permeates every level of your organization.
 >
-> **[2:20](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=140)** That's where generative AI, like ChatGPT, really excels.
+> **[2:20](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=140)** That's where [[Generative AI]], like [[ChatGPT]], really excels.
 >
 > **[2:25](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980&t=145)** These tools democratize AI in a way that's unprecedented and that's key because real differentiation doesn't have to come from a big, bold move.
 >
@@ -684,13 +675,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Automation]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [otter.ai](https://otter.ai) (1)
 > **Speakers:** - ai (1)
 
-#### Mitigating AI risks while fostering innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980)
+#### [Mitigating AI risks while fostering innovation](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,11 +694,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=29)** You don't want to inhibit your employee's use of AI out of fear, but you also don't want to give your employees free reign without guardrails.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=39)** What do guardrails look like in AI and large language models?
+> **[0:39](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=39)** What do guardrails look like in AI and [[Large Language Models (LLM)|large language models]]?
 >
 > **[0:43](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=43)** How do we protect our data and still get the most out of these tools?
 >
-> **[0:48](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=48)** First, we need to establish a clear data classification framework.
+> **[0:48](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=48)** First, we need to establish a clear [[Data Classification]] framework.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=54)** This helps employees understand what data can be processed by AI systems and what has to be kept away, but how to do this?
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=71)** Use an easy to remember acronym or pneumonic that helps your people avoid entering proprietary information, anything breaching third party agreements, or using data in a way that could have legal repercussions.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=86)** Making data guardrails clear and memorable assists team members in their daily decision-making process.
+> **[1:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=86)** Making data guardrails clear and memorable assists team members in their daily [[Decision-Making]] process.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=93)** We're in new territory here.
 >
@@ -742,9 +732,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=156)** Understanding this isn't just about satisfying curiosity.
 >
-> **[2:40](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=160)** It's about ensuring that the technology aligns with ethical standards, which is critical to building trust and accountability in your organization.
+> **[2:40](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=160)** It's about ensuring that the technology aligns with ethical standards, which is critical to [[Building Trust]] and [[Accountability]] in your organization.
 >
-> **[2:49](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=169)** Next, build out comprehensive data governance policies.
+> **[2:49](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=169)** Next, build out comprehensive [[Data Governance]] policies.
 >
 > **[2:54](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/mitigating-ai-risks-while-fostering-innovation?u=76281980&t=174)** Imagine crafting a detailed roadmap for your data's journey.
 >
@@ -782,13 +772,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (13), [[Building Trust]] (3), [[Data Classification]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (3), [[Data Classification]] (2), [[Data Governance]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - my (1)
 
-#### Ethics and fairness in AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980)
+#### [Ethics and fairness in AI adoption](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=23)** How do these systems prioritize different values?
 >
-> **[0:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=26)** How do they align with our human need for ethical decision-making and combating bias and protecting privacy?
+> **[0:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=26)** How do they align with our human need for ethical [[Decision-Making]] and combating bias and protecting [[Privacy]]?
 >
 > **[0:34](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=34)** The answers to these questions will have profound impacts on our business decisions and outcomes and even our society at large.
 >
@@ -812,7 +801,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=60)** The impartiality of an AI's conclusions depends on the objectivity of the data it's trained on.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=68)** So for business leaders, gaining a clear understanding of the AI system including the algorithms it employs, is essential.
+> **[1:08](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=68)** So for business leaders, gaining a clear understanding of the AI system including the [[Algorithms]] it employs, is essential.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=76)** The ideal time to identify and rectify bias and ethical issues is before that system is put into place.
 >
@@ -832,7 +821,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=139)** We learned some hard lessons in the past decade about how social media giants used our personal data in those early days.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=146)** So companies need clear data management policies that involve continuous monitoring as this technology evolves. The misuse of data can lead to legal and regulatory issues, but it can also erode public trust in your organization.
+> **[2:26](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=146)** So companies need clear [[Data Management]] policies that involve [[Continuous Monitoring]] as this technology evolves. The misuse of data can lead to legal and regulatory issues, but it can also erode public trust in your organization.
 >
 > **[2:41](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=161)** In a way, it's just really difficult to come back from.
 >
@@ -850,7 +839,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=201)** Don't leave this to chance.
 >
-> **[3:23](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=203)** Ethics and fairness in AI is going to be all of society's responsibility.
+> **[3:23](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=203)** [[Ethics]] and fairness in AI is going to be all of society's responsibility.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ethics-and-fairness-in-ai-adoption?u=76281980&t=208)** But as it relates to your business, your brand is built on trust.
 >
@@ -862,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (6), business (5), [[Privacy]] (2), management (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Decision-Making]] (1), [[Algorithms]] (1), [[Data Management]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - as (1)
 
@@ -871,12 +860,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leadership in the age of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980)
+#### [Leadership in the age of AI](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=0)** - Everything we've talked about in this course from differentiation to strategy to ethics, it all comes down to one central theme, your people.
+> **[0:00](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=0)** - Everything we've talked about in this course from differentiation to strategy to [[Ethics]], it all comes down to one central theme, your people.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=11)** Meeting the challenges and opportunities of AI in your organization requires a learning and adaptable culture that your people are all in on.
 >
@@ -892,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=55)** Thanks for joining me on this course.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=57)** I'd love to connect with you on LinkedIn.
+> **[0:57](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=57)** I'd love to connect with you on [[LinkedIn]].
 >
 > **[0:59](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980&t=59)** Reach out to me there.
 >
@@ -904,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Ethics]] (1), power (1), [[Automation]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[LinkedIn]] (1)
 > **Speakers:** - everything (1)
 
 

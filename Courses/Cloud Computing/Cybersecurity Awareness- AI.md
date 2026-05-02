@@ -75,18 +75,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980)
+#### [Cybersecurity and AI](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=0)** - Do you trust AI?
 >
-> **[0:03](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=3)** Artificial intelligence has become the topic of discussion in cybersecurity.
+> **[0:03](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=3)** [[Artificial Intelligence (AI)|Artificial intelligence]] has become the topic of discussion in [[Cybersecurity]].
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=8)** Whether you're scared, excited, or on the fence, one thing is for sure, AI isn't going anywhere.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=15)** In this course, you'll learn to spot AI-enhanced phishing scams that don't have convenient spelling errors, recognize deep fakes that could fool the most intelligent person you know, and navigate a world where seeing is no longer believing.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=15)** In this course, you'll learn to spot AI-enhanced [[Phishing]] scams that don't have convenient spelling errors, recognize deep fakes that could fool the most intelligent person you know, and navigate a world where seeing is no longer believing.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980&t=30)** You'll walk away with practical tools to protect yourself and your organization from the latest AI-enhanced threats.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Phishing]] (1)
 > **Speakers:** - do (1)
 
 
@@ -108,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI's impact on cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980)
+#### [AI's impact on cybersecurity](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=0)** - Let's say you walk into the office or sign into work and there's mayhem.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=0)** - Let's say you walk into the [[Microsoft Office|office]] or sign into work and there's mayhem.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=5)** Someone has been posing as you all morning, making phone calls, emailing clients and coworkers, even Slacking your teammates like you would.
 >
@@ -121,11 +119,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=20)** This isn't science fiction.
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=22)** It's a reality that organizations are grappling with right now, thanks to artificial intelligence.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=22)** It's a reality that organizations are grappling with right now, thanks to [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=28)** According to TechTarget, "Artificial Intelligence is the simulation of human intelligence processes by machines, especially computer systems."
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=28)** According to TechTarget, "Artificial Intelligence is the [[Simulation]] of human intelligence processes by machines, especially computer systems."
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=37)** Basically, AI emulates human reasoning and decision-making in order to help us accelerate, well, everything.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=37)** Basically, AI emulates human reasoning and [[Decision-Making]] in order to help us accelerate, well, everything.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=44)** It can analyze large amounts of information to identify patterns, predict things, and even generate new content that mimics what it's learned.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=77)** Think about how you learned to recognize your colleagues' voice or writing style.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=82)** Over time, your brain picks up on subtle patterns, their word choices, tone, and common phrases.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=82)** Over time, your brain picks up on subtle patterns, their [[Microsoft Word|word]] choices, tone, and common phrases.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=88)** AI does something similar but at an unprecedented scale and speed.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=121)** But here's where things get a bit worrisome.
 >
-> **[2:03](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=123)** Cyber criminals are using these same capabilities to make deepfake videos and clone voices for more convincing social engineering attacks, make super convincing phishing emails that change depending on the target, automate cyber attacks and scale attacks to reach more innocent people, and create malware that evolves to evade anti-virus and anti-malware software.
+> **[2:03](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=123)** Cyber criminals are using these same capabilities to make deepfake videos and clone voices for more convincing social engineering attacks, make super convincing [[Phishing]] emails that change depending on the target, automate cyber attacks and scale attacks to reach more innocent people, and create malware that evolves to evade anti-virus and anti-malware software.
 >
 > **[2:26](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=146)** And now, anyone can access AI.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=154)** Attacks that could've taken months of planning can now be carried out in a single day or even a few hours.
 >
-> **[2:41](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=161)** As a cybersecurity professional, we're not just dealing with regular security threats by super organized criminal enterprises or nation-states.
+> **[2:41](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=161)** As a [[Cybersecurity]] professional, we're not just dealing with regular security threats by super organized criminal enterprises or nation-states.
 >
 > **[2:49](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980&t=169)** We're facing AI-enhanced deception that can be very difficult to catch.
 >
@@ -181,13 +179,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cybersecurity]] (2), [[Microsoft Office|Office]] (1), [[Simulation]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - let (1)
 
-#### Identifying AI-enhanced phishing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/identifying-ai-enhanced-phishing-attacks?u=76281980)
+#### [Identifying AI-enhanced phishing attacks](https://www.linkedin.com/learning/cybersecurity-awareness-ai/identifying-ai-enhanced-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-ai/identifying-ai-enhanced-phishing-attacks?u=76281980&t=14)** Today, we're facing a similar challenge in our inboxes.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-ai/identifying-ai-enhanced-phishing-attacks?u=76281980&t=19)** AI-enhanced phishing attacks are like digital forgeries crafted with such precision that traditional red flags no longer apply.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-ai/identifying-ai-enhanced-phishing-attacks?u=76281980&t=19)** AI-enhanced [[Phishing]] attacks are like digital forgeries crafted with such precision that traditional red flags no longer apply.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-ai/identifying-ai-enhanced-phishing-attacks?u=76281980&t=28)** Just as art authenticators had to develop new techniques to spot increasingly convincing forgeries, we need to adapt our detection skills for this new generation of threats.
 >
@@ -269,13 +266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Phishing]] (6), generic (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (6)
 > **Analogies:** think of it like (1), just like (1), picture (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
 
-#### Deepfakes and misinformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980)
+#### [Deepfakes and misinformation](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=30)** Deepfake technology has made it so that we can no longer fully trust what we see or hear.
 >
-> **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=36)** Deepfake technology is a type of artificial intelligence that creates highly realistic fake images, videos, or audio.
+> **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=36)** Deepfake technology is a type of [[Artificial Intelligence (AI)|artificial intelligence]] that creates highly realistic fake images, videos, or audio.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=44)** You may have come across deepfake generated songs from your favorite artists, music that sounds real but was never actually recorded by them.
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=103)** AI just enhances its reach and credibility.
 >
-> **[1:46](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=106)** In the past, rumors spread through word of mouth or tabloids.
+> **[1:46](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=106)** In the past, rumors spread through [[Microsoft Word|word]] of mouth or tabloids.
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=111)** Now, false information appears right alongside real news in your social media feed designed to trick you and provoke you.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=124)** What if there was a fake news video circulating claiming your company is going bankrupt?
 >
-> **[2:09](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=129)** Employees who believe it might panic, spread the false information, or even fall for phishing scams that take advantage of their fears.
+> **[2:09](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=129)** Employees who believe it might panic, spread the false information, or even fall for [[Phishing]] scams that take advantage of their fears.
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=137)** Whether it's fake security warnings, altered financial reports, or viral conspiracy theories, misinformation can cause real-world harm, especially when combined with deepfake technology.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=155)** Have you ever encountered a deepfake or misinformation?
 >
-> **[2:39](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=159)** How did you react?
+> **[2:39](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=159)** How did you [[React.js|react]]?
 >
 > **[2:41](https://www.linkedin.com/learning/cybersecurity-awareness-ai/deepfakes-and-misinformation?u=76281980&t=161)** Did you verify the information or did it seem real enough to trust?
 >
@@ -347,15 +343,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1), [[Phishing]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1), [[Phishing]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
 
-#### Spotting other AI-enhanced threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980)
+#### [Spotting other AI-enhanced threats](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=73)** It constantly shifts its approach based on whatever obstacles it encounters.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=78)** According to Palo Alto Networks, researchers are alarmed by the potential for AI to come up with a vast array of malware variants that do similar things, resulting in an overwhelm for cybersecurity professionals.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=78)** According to Palo Alto Networks, researchers are alarmed by the potential for AI to come up with a vast array of malware variants that do similar things, resulting in an overwhelm for [[Cybersecurity]] professionals.
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=91)** It's called polymorphic malware, and the best part for cyber criminals is they don't even have to be actively involved.
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=126)** With deepfakes, their voice could sound exactly the same, but it isn't.
 >
-> **[2:11](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=131)** AI-enhanced voice spoofing is making voice phishing, or vishing, more convincing.
+> **[2:11](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=131)** AI-enhanced voice spoofing is making voice [[Phishing]], or vishing, more convincing.
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-ai/spotting-other-ai-enhanced-threats?u=76281980&t=137)** Now, scammers can impersonate executives, IT support, vendors, or clients, all to get employees to give up details or authorized changes.
 >
@@ -439,7 +434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Security]] (1), [[Cybersecurity]] (1), next (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Phishing]] (1)
 > **Cross-References:** in the last (1), we talked about (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -451,8 +446,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarizing data privacy, compliance, and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980)
+#### [Summarizing data privacy, compliance, and AI](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,7 +466,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=45)** But it's real.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=45)** And while it might seem like a heartwarming way to bring someone back, it raises some big privacy concerns.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=45)** And while it might seem like a heartwarming way to bring someone back, it raises some big [[Privacy]] concerns.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=52)** Who owns that data?
 >
@@ -516,15 +510,15 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=122)** While it's state specific, it's influencing privacy laws across the country.
 >
-> **[2:08](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=128)** In Europe, the General Data Protection Regulation is one of the strictest data privacy laws.
+> **[2:08](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=128)** In Europe, the General Data Protection Regulation is one of the strictest [[Data Privacy]] laws.
 >
 > **[2:14](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=134)** It requires AI systems to process data fairly and securely, and it was ahead of its time predicting a lot of the issues we're facing today.
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=143)** And then there are the more industry specific regulations.
 >
-> **[2:27](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=147)** The Health Insurance Portability and Accountability Act protects patient data in healthcare.
+> **[2:27](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=147)** The Health Insurance Portability and [[Accountability]] Act protects patient data in healthcare.
 >
-> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=153)** The Payment Card Industry Data Security Standard keeps financial transactions secure.
+> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=153)** The Payment Card Industry [[Data Security]] Standard keeps financial transactions secure.
 >
 > **[2:39](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980&t=159)** While these weren't created for AI specifically, they still apply to AI systems handling sensitive data.
 >
@@ -556,17 +550,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (15), [[Privacy]] (7), [[Security]] (3), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Privacy]] (2), [[Accountability]] (1), [[Data Security]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - all (1)
 
-#### Using AI ethically and responsibly
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980)
+#### [Using AI ethically and responsibly](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=0)** - We've discussed how legislation and company policies hold organizations accountable when it comes to data privacy, but you've got a role to play in this too.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=0)** - We've discussed how legislation and company policies hold organizations accountable when it comes to [[Data Privacy]], but you've got a role to play in this too.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=10)** Ai, just like anything else can be taken advantage of, and it's up to you to uphold your integrity while using it.
 >
@@ -582,7 +575,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=40)** Let's bring to light some concerns that AI poses.
 >
-> **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=44)** These concerns stem from bias, misinformation, privacy, and accountability.
+> **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=44)** These concerns stem from bias, misinformation, [[Privacy]], and [[Accountability]].
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-ai/using-ai-ethically-and-responsibly?u=76281980&t=50)** Remember how we discussed that AI learns from data collected from everywhere?
 >
@@ -656,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), data (7), [[Privacy]] (2), [[Accountability]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Privacy]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
@@ -664,16 +657,15 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - we (1)
 
-#### Considering the fine line companies walk with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980)
+#### [Considering the fine line companies walk with AI](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=0)** - As organizations rush to harness the power of artificial intelligence, they face complex ethical decisions that can have major consequences.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=0)** - As organizations rush to harness the power of [[Artificial Intelligence (AI)|artificial intelligence]], they face complex ethical decisions that can have major consequences.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=10)** Let's explore this delicate balance together.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=13)** This tightrope of ethics mirrors the cybersecurity challenges companies have faced for decades, balancing innovation and growth against security, responsibility, and trust.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=13)** This tightrope of [[Ethics]] mirrors the [[Cybersecurity]] challenges companies have faced for decades, balancing innovation and growth against security, responsibility, and trust.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=25)** Let's explore how these parallel challenges require similar thoughtful approaches with AI.
 >
@@ -683,13 +675,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=44)** It's at this stage, when the pressure is mounting, that you want to slow down.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=50)** Avoid racing to implementation before taking the time to truly understand the risks, kind of like what we saw with early cloud adoption and IoT.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=50)** Avoid racing to implementation before taking the time to truly understand the risks, kind of like what we saw with early cloud adoption and [[IoT]].
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=59)** It's like installing a complex security system without knowing how it works or who has the keys.
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=66)** We see this play out when ethical or security questions get pushed to vendors or tech teams with a simple, "You handle it."
 >
-> **[1:14](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=74)** The results are predictable: AI systems with vulnerability blind spots, inadequate data protection, or decision-making processes no one can explain.
+> **[1:14](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=74)** The results are predictable: AI systems with vulnerability blind spots, inadequate data protection, or [[Decision-Making]] processes no one can explain.
 >
 > **[1:25](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=85)** And when breaches happen, which they inevitably do, companies find themselves scrambling to explain how their own systems work.
 >
@@ -703,7 +695,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=117)** The gap between public commitments and internal practices can be astounding.
 >
-> **[2:03](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=123)** A company might publicly champion data protection while their AI systems receive virtually no security testing.
+> **[2:03](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=123)** A company might publicly champion data protection while their AI systems receive virtually no [[Security Testing]].
 >
 > **[2:10](https://www.linkedin.com/learning/cybersecurity-awareness-ai/considering-the-fine-line-companies-walk-with-ai?u=76281980&t=130)** Why does this happen?
 >
@@ -737,7 +729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Security]] (6), data (3), [[Ethics]] (2), power (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1), [[IoT]] (1), [[Decision-Making]] (1)
 > **Analogies:** just like (1), kind of like (1), it's like (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** roi (1)
@@ -748,8 +740,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing AI tool usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980)
+#### [Implementing AI tool usage](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +748,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=4)** Now, I'm going to arm you with best practices so that you can apply what you've learned in real life to keep you and your organization safe.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=12)** AI is an artificial intelligence.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=12)** AI is an [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=15)** It's not your bestie, it's not a second mind.
 >
@@ -795,9 +786,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=98)** You don't have to go too in depth, but be sure to share where and how AI is being used.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=103)** How involved AI is in decision making or content creation, and what human oversight exists in the process.
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=103)** How involved AI is in decision making or [[Content Creation]], and what human oversight exists in the process.
 >
-> **[1:51](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=111)** Building trust and providing an opportunity for checks and balances will help you use AI more responsibly in the long run.
+> **[1:51](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=111)** [[Building Trust]] and providing an opportunity for checks and balances will help you use AI more responsibly in the long run.
 >
 > **[1:58](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=118)** Make sure to avoid inputting sensitive data into AI tools.
 >
@@ -827,18 +818,17 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=196)** You'll also take more precautions when working with sensitive information.
 >
-> **[3:21](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=201)** These best practices will allow you to harness AI and all its awesomeness while maintaining security, privacy, and professional standards at work.
+> **[3:21](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980&t=201)** These best practices will allow you to harness AI and all its awesomeness while maintaining security, [[Privacy]], and professional standards at work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), data (7), [[Security]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Content Creation]] (1), [[Building Trust]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - we (1)
 
-#### Developing a security-focused approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980)
+#### [Developing a security-focused approach](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,7 +926,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=221)** In a world of oversharing, it's tempting to post life updates in real time, but attackers use that information to craft targeted scams.
 >
-> **[3:49](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=229)** Updating your LinkedIn with your new job on the day you start may result in you getting an email to your work address about required security training that your company doesn't even offer.
+> **[3:49](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=229)** Updating your [[LinkedIn]] with your new job on the day you start may result in you getting an email to your work address about required security training that your company doesn't even offer.
 >
 > **[4:00](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=240)** A simple fix?
 >
@@ -944,7 +934,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=244)** I promise everyone will still be happy for you.
 >
-> **[4:08](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=248)** Cybersecurity awareness isn't about paranoia.
+> **[4:08](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=248)** [[Cybersecurity]] awareness isn't about paranoia.
 >
 > **[4:11](https://www.linkedin.com/learning/cybersecurity-awareness-ai/developing-a-security-focused-approach?u=76281980&t=251)** That's for the security teams.
 >
@@ -958,14 +948,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Security]] (7), teams (2), hr (2), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
-#### Reporting suspicious AI content
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/reporting-suspicious-ai-content?u=76281980)
+#### [Reporting suspicious AI content](https://www.linkedin.com/learning/cybersecurity-awareness-ai/reporting-suspicious-ai-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-ai/reporting-suspicious-ai-content?u=76281980&t=57)** It's also important to note, AI can confidently present false information as fact.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-ai/reporting-suspicious-ai-content?u=76281980&t=62)** In 2024, Google was under fire when Gemini, their AI search assistant, instructed searchers to put glue on their pizza.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-ai/reporting-suspicious-ai-content?u=76281980&t=62)** In 2024, [[Google]] was under fire when [[Gemini]], their AI search assistant, instructed searchers to put glue on their pizza.
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-awareness-ai/reporting-suspicious-ai-content?u=76281980&t=71)** This is what we call an AI hallucination.
 >
@@ -1059,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Security]] (2), [[Google]] (1), [[Gemini]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Gemini]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), in other words (1)
 > **Env Vars:** sift (1)
@@ -1070,8 +1059,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,11 +1081,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=23)** Maintain a healthy skepticism.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=26)** Second, have a conversation with your team about AI security.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=26)** Second, have a conversation with your team about [[AI Security]].
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=30)** Share something you've learned from this course or something that surprised you.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=34)** Security awareness is a team effort, and while we all have individual roles, educating those around you contributes to a safer environment for everyone.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=34)** [[Security Awareness]] is a team effort, and while we all have individual roles, educating those around you contributes to a safer environment for everyone.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=44)** Lastly, keep the education going.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=51)** Use the Q&A function to ask questions if you're confused.
 >
-> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=55)** To expand your cybersecurity awareness knowledge, check out my other courses covering topics like phishing, social engineering, and malware.
+> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=55)** To expand your [[Cybersecurity]] awareness knowledge, check out my other courses covering topics like [[Phishing]], social engineering, and malware.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980&t=64)** You can also visit [stephandsec.com](https://stephandsec.com) for more written content on cybersecurity awareness.
 >
@@ -1129,7 +1117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Security]] (3), [[Cybersecurity]] (3), next (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[AI Security]] (2), [[Security Awareness]] (1), [[Phishing]] (1)
 > **URLs:** [stephandsec.com](https://stephandsec.com) (1)
 > **Env Vars:** sift (1)
 > **Definitions:** is a  (1)

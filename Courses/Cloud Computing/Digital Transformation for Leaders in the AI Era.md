@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital transformation for leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980)
+#### [Digital transformation for leaders](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,15 +93,15 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=18)** Now I'm a bestselling author.
 >
-> **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=21)** By broadening your expertise in technology, data, and product management, you can drive digital transformation initiatives, and it's more critically important today as we are in the early stages of the GenAI era.
+> **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=21)** By broadening your expertise in technology, data, and product management, you can drive [[Digital Transformation]] initiatives, and it's more critically important today as we are in the early stages of the GenAI era.
 >
-> **[0:36](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=36)** In this course, we'll simplify the steps to develop your vision, plan Agile initiatives, deliver AI innovations and drive culture change.
+> **[0:36](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=36)** In this course, we'll simplify the steps to develop your vision, plan [[Agile Development|Agile]] initiatives, deliver AI innovations and drive culture change.
 >
 > **[0:46](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980&t=46)** Join me to develop the confidence to lead initiatives that truly drive transformational change.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), data (1), product (1), management (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** cto (1), cio (1)
 > **Speakers:** - over (1)
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital transformation's next wave
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980)
+#### [Digital transformation's next wave](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -162,45 +160,44 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=160)** But by 2020, revenue leveled off at $10 billion, almost an 80% decline.
 >
-> **[2:48](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=168)** Newspapers didn't challenge their status quo fast enough as advertisers shifted to other mediums from Craigslist to Google, and subscribers found other ways to get the news.
+> **[2:48](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=168)** Newspapers didn't challenge their status quo fast enough as advertisers shifted to other mediums from Craigslist to [[Google]], and subscribers found other ways to get the news.
 >
 > **[3:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=180)** Other businesses successfully transformed their business models during this same period.
 >
-> **[3:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=185)** A great example is Microsoft, which went from a model focused on software licensing to a top cloud provider and AI innovator.
+> **[3:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=185)** A great example is [[Microsoft]], which went from a model focused on software licensing to a top cloud provider and AI innovator.
 >
-> **[3:14](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=194)** Companies that successfully transform focus on the changing customer needs, establish agile ways of working, develop AI and technology advantages, and evolve their business models.
+> **[3:14](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=194)** Companies that successfully transform focus on the changing customer needs, establish [[Agile Development|agile]] ways of working, develop AI and technology advantages, and evolve their business models.
 >
 > **[3:29](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=209)** Innovation leaders face the same need to transform their collaborative practices and skills.
 >
 > **[3:34](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=214)** Whether you're a product manager, program manager, technical leader, data scientist, or other role in leading innovation, you have the opportunity to lead transformation initiatives.
 >
-> **[3:46](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=226)** If you're leading projects with the same tools without committing to lifelong learning, you're less likely to be as effective with today's teams, technologies, and AI-driven opportunities.
+> **[3:46](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=226)** If you're leading projects with the same tools without committing to [[Lifelong Learning]], you're less likely to be as effective with today's teams, technologies, and AI-driven opportunities.
 >
 > **[3:59](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980&t=239)** This course will guide you through the key practices for becoming a transformation leader and continuously evolving your leadership.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), ai (4), teams (2), data (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1), [[Agile Development|Agile]] (1), [[Lifelong Learning]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - you (1)
 
-#### Digital transformation business objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980)
+#### [Digital transformation business objectives](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=0)** - A new important technology emerges every few years that drives innovation and business disruption.
 >
-> **[0:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=8)** We built websites in the late 1990s, developed mobile and social applications in the 2000s, and migrated to cloud computing in the 2010s.
+> **[0:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=8)** We built websites in the late 1990s, developed mobile and social applications in the 2000s, and migrated to [[Cloud Computing]] in the 2010s.
 >
 > **[0:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=18)** We're all now experimenting with gen AI.
 >
-> **[0:22](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=22)** Now ask yourself, is just adopting these technologies a digital transformation?
+> **[0:22](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=22)** Now ask yourself, is just adopting these technologies a [[Digital Transformation]]?
 >
 > **[0:27](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=27)** The simple answer is no.
 >
-> **[0:29](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=29)** Digital transformation is a proactive evolution of business models, products, services, and operations to excel with technology's opportunities.
+> **[0:29](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=29)** Digital transformation is a proactive evolution of business models, [[Microsoft Products|products]], services, and operations to [[Microsoft Excel|excel]] with technology's opportunities.
 >
 > **[0:41](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=41)** Let's consider some examples.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=62)** Or how about helping your friend who owns a growing manufacturing business?
 >
-> **[1:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=67)** How might he transform to a services model by embedding IoT devices in its products, predicting when maintenance is needed, and offering proactive equipment servicing?
+> **[1:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=67)** How might he transform to a services model by embedding [[IoT]] devices in its products, predicting when maintenance is needed, and offering proactive equipment servicing?
 >
 > **[1:20](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=80)** These are transformation examples.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=173)** Delightful experiences impact the brand's reputation, employee recruitment and retention, and ease of forming business partnerships.
 >
-> **[3:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=182)** Now, we want to release features quickly, but without disrupting operations, introducing security problems or creating legal compliance issues.
+> **[3:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=182)** Now, we want to release features quickly, but without disrupting operations, introducing security problems or creating [[Legal Compliance]] issues.
 >
 > **[3:12](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=192)** Risk reduction and quality improvements are essential digital transformation drivers.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=202)** Think about what it means to scale organizational intelligence, which ensures an organization can continually innovate and transform.
 >
-> **[3:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=212)** Culture transformation, learning programs, AI productivity improvements, and technology self-service solutions are some of the key investments that drive organizational intelligence.
+> **[3:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=212)** Culture transformation, learning programs, [[AI Productivity]] improvements, and technology self-service solutions are some of the key investments that drive organizational intelligence.
 >
 > **[3:44](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-business-objectives?u=76281980&t=224)** One thing to keep in mind, transformation objectives often impact everything.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Digital Transformation]] (5), ai (4), [[Microsoft Products|Products]] (4), data (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (5), [[Microsoft Products|Products]] (4), [[Cloud Computing]] (1), [[Microsoft Excel|Excel]] (1), [[IoT]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -271,14 +268,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evolving a digital strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980)
+#### [Evolving a digital strategy](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=0)** - Here's a challenge for you.
 >
-> **[0:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=2)** Consider a digital transformation initiative you led, were involved in, or watched from the sidelines.
+> **[0:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=2)** Consider a [[Digital Transformation]] initiative you led, were involved in, or watched from the sidelines.
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=9)** Pause and write down 10 words that describe the initiative.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=95)** We'll walk through how to use it together.
 >
-> **[1:39](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=99)** The top of the template asks you to name a product and not a project, because in transformation, we're always thinking about delivering and improving products and services for customers.
+> **[1:39](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=99)** The top of the template asks you to name a product and not a project, because in transformation, we're always thinking about delivering and improving [[Microsoft Products|products]] and services for customers.
 >
 > **[1:52](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980&t=112)** I want to know who the vision's authors are, in other words, the founders, because you are putting your reputation on the line when you take a leadership role in a transformation initiative.
 >
@@ -350,14 +346,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Digital Transformation]] (1), cloud (1), ai (1), business (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Microsoft Products|Products]] (1)
 > **Exercise Files:** template (3), exercise files (2)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - here (1)
 
-#### Repositioning transitions into transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980)
+#### [Repositioning transitions into transformation](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,13 +366,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=26)** In many cases, your big idea can be repositioned as a transformation.
 >
-> **[0:33](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=33)** Let's say the marketing and product organization recognizes issues with an old e-commerce platform.
+> **[0:33](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=33)** Let's say the marketing and product organization recognizes issues with an old [[E-Commerce]] platform.
 >
 > **[0:40](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=40)** It has an outdated user interface, limited mobile capabilities, a slow search engine, and only basic reporting capabilities.
 >
 > **[0:50](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=50)** And let's say they've already started speaking to vendors, researching solutions and even getting pricing.
 >
-> **[0:58](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=58)** They know you're a leader in digital transformation, and want you to lead the initiative.
+> **[0:58](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=58)** They know you're a leader in [[Digital Transformation]], and want you to lead the initiative.
 >
 > **[1:04](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=64)** Before taking the assignment on, you should really review the objectives.
 >
@@ -423,7 +418,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=174)** Marketing should target millennials interested in our niche categories.
 >
-> **[3:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=180)** Operations can optimize when and how much product to buy with real-time reporting.
+> **[3:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=180)** Operations can optimize when and how much product to buy with [[Real-Time]] reporting.
 >
 > **[3:06](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/repositioning-transitions-into-transformation?u=76281980&t=186)** Executives recognize future opportunities to create subscriptions in our biggest categories.
 >
@@ -451,13 +446,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[E-Commerce]] (2), business (2), cloud (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Digital Transformation]] (1), [[Real-Time]] (1)
 > **Env Vars:** crm (1), erp (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - transitions (1)
 
-#### How does AI impact digital strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980)
+#### [How does AI impact digital strategy](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +475,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=70)** These will provide lasting competitive advantages and help avoid disruption in the years to come.
 >
-> **[1:17](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=77)** In the last video, we reviewed how a customer facing e-commerce solution with revenue opportunity transforms operations in marketing and other departments.
+> **[1:17](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=77)** In the last video, we reviewed how a customer facing [[E-Commerce]] solution with revenue opportunity transforms operations in marketing and other departments.
 >
 > **[1:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=88)** These are outside in transformations where we first consider customer impacts and then look at how to they transform operations, find AI opportunities from the inside out where internal changes provide significantly greater business value than simple productivity improvements.
 >
@@ -489,21 +483,21 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=122)** Let's consider three ways you can find big inside out ideas.
 >
-> **[2:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=127)** First, you should go spend time with your customer support teams.
+> **[2:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=127)** First, you should go spend time with your [[Customer Support]] teams.
 >
 > **[2:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=131)** These teams have often been last in line for digital investments, but should be first in line for AI opportunities.
 >
 > **[2:19](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=139)** What's needed to help shift more calls to customer self-service capabilities?
 >
-> **[2:25](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=145)** Where can real-time information that AI summarizes help reps solve customer problems smarter and faster?
+> **[2:25](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=145)** Where can [[Real-Time]] information that AI summarizes help reps solve customer problems smarter and faster?
 >
 > **[2:33](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=153)** Then flip the script and look for customer pain points to drive product improvements or improve customer satisfaction.
 >
-> **[2:42](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=162)** Next, seek a partnership with your data governance, data science, and your most data-driven departments.
+> **[2:42](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=162)** Next, seek a partnership with your [[Data Governance]], [[Data Science]], and your most data-driven departments.
 >
-> **[2:49](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=169)** This is an opportunity to see where your company's proprietary data and intellectual property can be used in new ways with gen AI capabilities, such as large language models or LLMs and AI agents.
+> **[2:49](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=169)** This is an opportunity to see where your company's proprietary data and intellectual property can be used in new ways with gen AI capabilities, such as [[Large Language Models (LLM)|large language models]] or LLMs and [[AI Agents]].
 >
-> **[3:04](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=184)** LLMs are like ChatGPT built on your company's data and can become a super knowledge base.
+> **[3:04](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=184)** LLMs are like [[ChatGPT]] built on your company's data and can become a super knowledge base.
 >
 > **[3:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=191)** AI agents connect natural language prompts to actions, automations and decisions.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=253)** I'm looking for where cross team collaborations augmented with AI enables new capabilities.
 >
-> **[4:20](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=260)** I want you to see three key skills of digital transformation leaders from these examples.
+> **[4:20](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=260)** I want you to see three key skills of [[Digital Transformation]] leaders from these examples.
 >
 > **[4:26](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/how-does-ai-impact-digital-strategy?u=76281980&t=266)** Ask open-ended questions, visit customer and operation teams and facilitate cross team discussions.
 >
@@ -537,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), data (6), teams (4), hr (2), next (2)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[E-Commerce]] (1), [[Customer Support]] (1), [[Real-Time]] (1), [[Data Governance]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the last (1)
@@ -549,8 +543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key leadership roles in transformation initiatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980)
+#### [Key leadership roles in transformation initiatives](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=9)** Leading the shoot are three key people, the producer who creates the vision, the director who executes it, and the executive producer who secures the financial resources.
 >
-> **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=21)** On a digital transformation initiative, we also need to define roles and establish who makes what types of decisions.
+> **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=21)** On a [[Digital Transformation]] initiative, we also need to define roles and establish who makes what types of decisions.
 >
 > **[0:30](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=30)** We reviewed the vision statement template, which identified only the ideas founders and collaborators.
 >
@@ -572,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=65)** Even if your organization has formalized roles, you'll find similarities to my recommendations.
 >
-> **[1:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=71)** My approach aligns with agile product management architecture and design thinking.
+> **[1:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=71)** My approach aligns with [[Agile Development|agile]] product management architecture and [[Design Thinking]].
 >
 > **[1:17](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=77)** The three primary roles are the product manager, delivery leader, and sponsor.
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=122)** In classic project management terminology, they are responsible for on-time delivery and quality.
 >
-> **[2:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=129)** To succeed, they're also responsible for the solution architecture and for defining the operations and support functions of what's developed.
+> **[2:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=129)** To succeed, they're also responsible for the [[Solution Architecture]] and for defining the operations and support functions of what's developed.
 >
 > **[2:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=138)** Delivery leaders must be versed in the solutions technical domain.
 >
@@ -614,7 +607,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=215)** Change leaders lead the change management program and are critical when initiative's impact many employees or transform workflows.
 >
-> **[3:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=225)** Experts define standards and requirements and include UX designers, solution architects, data governance leaders, and security professionals.
+> **[3:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=225)** Experts define standards and requirements and include UX designers, solution architects, [[Data Governance]] leaders, and security professionals.
 >
 > **[3:55](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980&t=235)** They consult with agile teams on requirements and solutions and sometimes will commit to working with them.
 >
@@ -626,18 +619,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), product (6), [[Agile Development|Agile]] (5), teams (5), functional (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Digital Transformation]] (2), [[Design Thinking]] (1), [[Solution Architecture]] (1), [[Data Governance]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - on (1)
 
-#### The ecosystems transformation leaders must influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980)
+#### [The ecosystems transformation leaders must influence](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=0)** - [Instructor] 51% of technology executives have not seen a performance increase or profitability from digital transformation investments.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=0)** - [Instructor] 51% of technology executives have not seen a performance increase or profitability from [[Digital Transformation]] investments.
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=9)** What separates success from slumping digital transformation initiatives is how leaders work with people to adopt new and different ways of doing things.
 >
@@ -657,7 +649,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=68)** The first two are groups from outside your organization.
 >
-> **[1:12](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=72)** Customers are your organization's buyers and end users of your products and services.
+> **[1:12](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=72)** Customers are your organization's buyers and end users of your [[Microsoft Products|products]] and services.
 >
 > **[1:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=78)** They can be classified as early adopters, mainstream adopters, and laggards.
 >
@@ -709,17 +701,16 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=247)** Create a spreadsheet to capture your ecosystem.
 >
-> **[4:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=250)** When you're done, you're ready for the next step on using agile planning, delivery, and change management.
+> **[4:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/the-ecosystems-transformation-leaders-must-influence?u=76281980&t=250)** When you're done, you're ready for the next step on using [[Agile Development|agile]] planning, delivery, and change management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), management (3), leadership (3), next (3), product (3)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why Agile is a fundamental transformation practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980)
+#### [Why Agile is a fundamental transformation practice](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=21)** We follow waterfall project methods and require sign-offs before implementations.
 >
-> **[0:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=28)** We're agile, but with different approaches by team.
+> **[0:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=28)** We're [[Agile Development|agile]], but with different approaches by team.
 >
 > **[0:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=32)** We use an agile framework and stick to it.
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=81)** We can't predict a timeline precisely because when customers and end users provide feedback, we will likely adjust priorities and scope to drive meaningful outcomes.
 >
-> **[1:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=92)** Scrum is the most commonly used methodology for transformation initiatives.
+> **[1:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=92)** [[Scrum]] is the most commonly used methodology for transformation initiatives.
 >
 > **[1:37](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=97)** Small-sized teams commit to work they can do in one to two weeks called sprints.
 >
@@ -767,7 +758,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=121)** The sprint closes with a retrospective to discuss continuous process improvement, and then the sprint cycle restarts.
 >
-> **[2:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=130)** Scrum is a key vehicle for driving digital transformation.
+> **[2:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=130)** Scrum is a key vehicle for driving [[Digital Transformation]].
 >
 > **[2:14](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=134)** Commitment empowers the team to confirm they understand requirements and decide work capacity.
 >
@@ -789,7 +780,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=198)** I recommend product owners adopt continuous agile planning, an approach where teams commit to planning and delivery work every sprint.
 >
-> **[3:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=208)** Product owners should use design thinking principles to develop experiences, and teams working on complex implementations may assign a business analyst to write requirements and test cases.
+> **[3:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=208)** Product owners should use [[Design Thinking]] principles to develop experiences, and teams working on complex implementations may assign a business analyst to write requirements and test cases.
 >
 > **[3:41](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/why-agile-is-a-fundamental-transformation-practice?u=76281980&t=221)** Teams should estimate the work as part of their planning.
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (15), [[Agile Development|Agile]] (10), [[Scrum]] (7), product (5), management (4)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Scrum]] (7), [[Digital Transformation]] (1), [[Design Thinking]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -832,8 +823,7 @@ created: 2026-05-02
 > **Speakers:** - take (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Which innovation practices drive transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980)
+#### [Which innovation practices drive transformation](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,13 +833,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=7)** The plane has a charter with a leadership team, and its ecosystem is defined.
 >
-> **[0:12](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=12)** At least one team has been assigned, and we're using Scrum to manage the program, including planning, delivery, and change management.
+> **[0:12](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=12)** At least one team has been assigned, and we're using [[Scrum]] to manage the program, including planning, delivery, and change management.
 >
 > **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=21)** Our next step is to understand what types of work we schedule during the sprint.
 >
 > **[0:26](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=26)** Let's also review how other innovation disciplines are utilized within a transformation program.
 >
-> **[0:34](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=34)** Agile planning helps teams break down ideas into an execution plan.
+> **[0:34](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=34)** [[Agile Development|Agile]] planning helps teams break down ideas into an execution plan.
 >
 > **[0:40](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=40)** Planning should be used to answer questions, conduct research, review data, and design solutions.
 >
@@ -857,11 +847,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=57)** Consider a bank that wants to develop an AI agent for their wealth managers, to help them answer a client's questions.
 >
-> **[1:04](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=64)** If you are the product manager, you should prioritize the backlog with several planning questions, such as what are other banks already doing with AI agents; what types of questions might wealth managers ask during a client call; what data is needed, and what AI platforms can the teams use; how will wealth managers incorporate AI agents into their daily work; how should we define quality, success criteria, compliance requirements, and security non-negotiables?
+> **[1:04](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=64)** If you are the product manager, you should prioritize the backlog with several planning questions, such as what are other banks already doing with [[AI Agents]]; what types of questions might wealth managers ask during a client call; what data is needed, and what AI platforms can the teams use; how will wealth managers incorporate AI agents into their daily work; how should we define quality, success criteria, compliance requirements, and security non-negotiables?
 >
 > **[1:40](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=100)** These questions illustrate several important transformation skills.
 >
-> **[1:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=105)** To answer these questions, a multidisciplinary Agile team needs skills in market research, design thinking, data engineering, Six Sigma process mapping, data security, and solutions architecture skills.
+> **[1:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=105)** To answer these questions, a multidisciplinary Agile team needs skills in [[Market Research]], [[Design Thinking]], [[Data Engineering]], [[Six Sigma]] process mapping, [[Data Security]], and solutions architecture skills.
 >
 > **[2:02](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=122)** Starting in the first sprints of this initiative, this team would collaborate and commit to finding answers.
 >
@@ -871,13 +861,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=144)** First, most transformation initiatives require data specialists, but the role and scale may change during the Agile lifecycle.
 >
-> **[2:34](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=154)** Using the previous example, first, as part of planning, data engineers and data governance specialists may be needed to identify data sources for the AI agents.
+> **[2:34](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=154)** Using the previous example, first, as part of planning, data engineers and [[Data Governance]] specialists may be needed to identify data sources for the AI agents.
 >
 > **[2:48](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=168)** Next, the agent will need an AI model tuned for different client types.
 >
 > **[2:53](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=173)** As the team develops the AI agent, data scientists will join the team to develop the model.
 >
-> **[3:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=180)** The team will also need DataOps and data management specialists to prepare the data for the AI agent.
+> **[3:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=180)** The team will also need DataOps and [[Data Management]] specialists to prepare the data for the AI agent.
 >
 > **[3:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=187)** Most importantly, we learned the wealth management team has several citizen data scientists, who build customer data visualizations for the largest clients.
 >
@@ -887,17 +877,17 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=209)** Another discipline we'll need is if the initiative requires developing software, such as applications and integrations.
 >
-> **[3:38](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=218)** When developing software, DevSecOps is a fundamental transformation practice.
+> **[3:38](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=218)** When developing software, [[DevSecOps]] is a fundamental transformation practice.
 >
 > **[3:44](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=224)** It helps align developers and data scientists who want to deploy capabilities quickly and frequently with the security and operational responsibilities related to reliability, security, and performance.
 >
-> **[3:57](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=237)** DevSecOps includes building automations to configure cloud infrastructure, deploy code, run regression tests, and respond to operational alerts.
+> **[3:57](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=237)** DevSecOps includes building automations to configure [[Cloud Infrastructure]], deploy code, run regression tests, and respond to operational alerts.
 >
 > **[4:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=248)** Let's return to our example.
 >
-> **[4:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=250)** To develop the AI agent, the transformation team will need data and DevOps practices and skills.
+> **[4:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=250)** To develop the AI agent, the transformation team will need data and [[DevOps]] practices and skills.
 >
-> **[4:17](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=257)** We'll also call in an expert design thinker to develop the user experience.
+> **[4:17](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=257)** We'll also call in an expert design thinker to develop the [[User Experience (UX)|user experience]].
 >
 > **[4:23](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=263)** We may bring in a product marketer if we want to consider how to promote this new capability to wealth management clients.
 >
@@ -911,7 +901,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=303)** You might be thinking, how does this happen in practice?
 >
-> **[5:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=307)** Digital transformation initiatives require collaboration between the product manager and delivery leader on when to call in different disciplines, skills, and outside experts.
+> **[5:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=307)** [[Digital Transformation]] initiatives require collaboration between the product manager and delivery leader on when to call in different disciplines, skills, and outside experts.
 >
 > **[5:19](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=319)** Think back to your vision statement, epics, and prioritized features.
 >
@@ -925,19 +915,18 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=346)** This is how you'll execute on your initiatives.
 >
-> **[5:50](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=350)** As you get better at Agile planning and forecasting what expertise you need when, you'll develop a key skill for leading digital transformation initiatives.
+> **[5:50](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/which-innovation-practices-drive-transformation?u=76281980&t=350)** As you get better at Agile planning and [[Forecasting]] what expertise you need when, you'll develop a key skill for leading digital transformation initiatives.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), ai (11), management (8), [[Agile Development|Agile]] (7), [[Security]] (4)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[AI Agents]] (3), [[DevSecOps]] (2), [[Digital Transformation]] (2), [[Scrum]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - let (1)
 
-#### Technology in digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980)
+#### [Technology in digital transformation](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,7 +936,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=11)** A business may also transform in response to a crisis.
 >
-> **[0:15](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=15)** What sets digital transformation apart is how organizations develop technology, data, and AI as a competitive advantage.
+> **[0:15](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=15)** What sets [[Digital Transformation]] apart is how organizations develop technology, data, and AI as a competitive advantage.
 >
 > **[0:24](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=24)** We've discussed leadership and practices in digital transformation.
 >
@@ -957,13 +946,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=36)** Like a house, in technology, there are many ways to diagram architectures and highlight what's important.
 >
-> **[0:44](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=44)** You're thinking about technology and architecture, but I want you to step away from a commercial notion of platforms and products you buy and deploy.
+> **[0:44](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=44)** You're thinking about technology and architecture, but I want you to step away from a commercial notion of platforms and [[Microsoft Products|products]] you buy and deploy.
 >
 > **[0:53](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=53)** Instead, let's develop a digital architecture specific to your business that connects customers with operations.
 >
-> **[1:01](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=61)** Let's zoom into the top layer experiences.
+> **[1:01](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=61)** Let's [[Zoom]] into the top layer experiences.
 >
-> **[1:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=65)** These are the user interfaces your technologies provide to people, and increasingly more to machines like robots and AI agents.
+> **[1:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=65)** These are the user interfaces your technologies provide to people, and increasingly more to machines like robots and [[AI Agents]].
 >
 > **[1:14](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=74)** Developers are anyone building or supporting the organization's technology.
 >
@@ -975,13 +964,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=104)** Many types of platforms and products are used for integration.
 >
-> **[1:49](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=109)** On the left are the most basic integration forms, application program interfaces, or APIs that help connect different software services.
+> **[1:49](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=109)** On the left are the most basic integration [[Forms]], application program interfaces, or APIs that help connect different software services.
 >
 > **[1:59](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=119)** Automation and business process platforms are the highest levels and are used to automate workflows such as order to cash or employee onboarding.
 >
 > **[2:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=130)** The information layer is like your brain, where data is processed, joined, stored, and queried.
 >
-> **[2:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=138)** The data architectures store and process real-time information.
+> **[2:18](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=138)** The data architectures store and process [[Real-Time]] information.
 >
 > **[2:22](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=142)** The two right ones represent your organization's intellectual property, knowledge analytics, and AI models.
 >
@@ -995,7 +984,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=173)** For example, a customer relationship management platform or CRM will have employee, developer, and some customer experiences with APIs, automation, and integration capabilities.
 >
-> **[3:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=188)** The technologies underpinning your architecture are likely a mix of SaaS, low code, homegrown, and other technologies, some modernized and others legacy that require modernization.
+> **[3:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=188)** The technologies underpinning your architecture are likely a mix of [[SaaS]], low code, homegrown, and other technologies, some modernized and others legacy that require modernization.
 >
 > **[3:22](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/technology-in-digital-transformation?u=76281980&t=202)** Your company creates competitive differentiation based on how it assembles, deploys, and markets these capabilities.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Products|Products]] (5), data (4), ai (4), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Digital Transformation]] (2), [[Zoom]] (2), [[AI Agents]] (2), [[Forms]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** crm (1)
 > **Tools:** notion (1)
@@ -1024,8 +1013,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to find AI's transformational use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980)
+#### [Where to find AI's transformational use cases](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,9 +1051,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=96)** When we reviewed how AI impacts digital strategy, I suggested three activities to generate inside-out ideas.
 >
-> **[1:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=105)** Visit your customer support teams, review proprietary data with your data science and governance teams, and facilitate cross-departmental conversations.
+> **[1:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=105)** Visit your [[Customer Support]] teams, review proprietary data with your [[Data Science]] and governance teams, and facilitate cross-departmental conversations.
 >
-> **[1:57](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=117)** To be transformational, we now have to add in the outside view and develop a strong perspective on new products, growth, and customer expectations.
+> **[1:57](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=117)** To be transformational, we now have to add in the outside view and develop a strong perspective on new [[Microsoft Products|products]], growth, and customer expectations.
 >
 > **[2:08](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=128)** First, I urge you to investigate how AI impacts your industry, markets, and customers.
 >
@@ -1077,7 +1065,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=164)** Review how they use your products and services today in their workflow, and consider where AI can help them achieve their objectives.
 >
-> **[2:55](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=175)** Imagine a future where people could solve problems differently, where they have AI agents assisting them, or autonomous agents that can turn decisions into actions.
+> **[2:55](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=175)** Imagine a future where people could solve problems differently, where they have [[AI Agents]] assisting them, or autonomous agents that can turn decisions into actions.
 >
 > **[3:07](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=187)** Expand the scope of your data analysis to include customers and revenue.
 >
@@ -1097,11 +1085,11 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=237)** Now, this is important before we go further.
 >
-> **[4:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=240)** For AI initiatives, solicit guidance from legal, risk management, and data security experts.
+> **[4:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=240)** For AI initiatives, solicit guidance from legal, risk management, and [[Data Security]] experts.
 >
-> **[4:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=249)** Find someone to become your initiatives expert on AI regulations, compliance requirements, data security non-negotiables, data biases, and your organization's AI ethics.
+> **[4:09](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=249)** Find someone to become your initiatives expert on AI regulations, compliance requirements, data security non-negotiables, data biases, and your organization's AI [[Ethics]].
 >
-> **[4:23](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=263)** A good starting point is if your organization has AI governance policies.
+> **[4:23](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=263)** A good starting point is if your organization has [[AI Governance]] policies.
 >
 > **[4:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980&t=268)** These will be your constraints, especially when connecting your company's data with AI technologies.
 >
@@ -1113,14 +1101,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (7), [[Security]] (3), product (2), business (2)
+> **Frameworks & Libraries:** [[Customer Support]] (2), [[Microsoft Products|Products]] (2), [[Data Security]] (2), [[Data Science]] (1), [[AI Agents]] (1)
 > **Env Vars:** cfo (2), cmo (2)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### Digital transformation and organizational culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980)
+#### [Digital transformation and organizational culture](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1141,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=85)** By focusing on experimentation, you acknowledge that you don't have all the answers.
 >
-> **[1:30](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=90)** Solicit people's input, experimentation, and data-driven practices lead to learning faster decision-making, and reassessing agile priorities.
+> **[1:30](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=90)** Solicit people's input, experimentation, and data-driven practices lead to learning faster [[Decision-Making]], and reassessing [[Agile Development|agile]] priorities.
 >
 > **[1:42](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=102)** While sharing your vision, listen for ways people can contribute to your experiment.
 >
@@ -1168,7 +1155,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=144)** As you document the ecosystem, learn what types of communications are needed to keep people informed and excited.
 >
-> **[2:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=152)** As you start working with the leadership group and agile teams, you'll answer questions, prioritize capabilities, and define your solution architecture.
+> **[2:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=152)** As you start working with the leadership group and agile teams, you'll answer questions, prioritize capabilities, and define your [[Solution Architecture]].
 >
 > **[2:41](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-and-organizational-culture?u=76281980&t=161)** This process requires collaboration between a multidisciplinary team of business data and technology specialists.
 >
@@ -1194,19 +1181,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), teams (4), data (2), ai (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Decision-Making]] (1), [[Solution Architecture]] (1)
 > **Analogies:** such as (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - you (1)
 
-#### Measuring success in digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980)
+#### [Measuring success in digital transformation](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=0)** - Your sponsor wants to know if your initiative is on track to deliver the OKRs or KPIs identified in the vision statement.
 >
-> **[0:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=10)** What's more, the CEO or GM of your business unit needs to know if the digital transformation investments and initiatives are truly transforming the business.
+> **[0:10](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=10)** What's more, the CEO or GM of your business unit needs to know if the [[Digital Transformation]] investments and initiatives are truly transforming the business.
 >
 > **[0:21](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=21)** I look for measurements in five categories, growth, efficiency, customer and employee experience, quality, and risk reduction.
 >
@@ -1222,7 +1208,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=71)** Quality metrics are important to help balance the pressure on delivering capabilities fast and perhaps recklessly.
 >
-> **[1:19](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=79)** As examples, measure how you plan to reduce defects, lower the impacts of human errors, and improve data quality.
+> **[1:19](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=79)** As examples, measure how you plan to reduce defects, lower the impacts of human errors, and improve [[Data Quality]].
 >
 > **[1:28](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=88)** The way to think about risk reduction metrics is as an upside, even if your initiative is slow to achieve the target financial benefits.
 >
@@ -1258,7 +1244,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=212)** When we improve change management and customer communication practices during our initiative, then our time-to-value should improve.
 >
-> **[3:40](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=220)** Investments in citizen data science capabilities can improve time-to-decision, while dev-ops can reduce lead time on delivering new capabilities.
+> **[3:40](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=220)** Investments in citizen [[Data Science]] capabilities can improve time-to-decision, while dev-ops can reduce lead time on delivering new capabilities.
 >
 > **[3:51](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/measuring-success-in-digital-transformation?u=76281980&t=231)** The highest level represents business model evolutions.
 >
@@ -1278,7 +1264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (5), data (3), product (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (5), [[Data Quality]] (1), [[Data Science]] (1)
 > **Env Vars:** ceo (2), okr (1), kpi (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -1290,14 +1276,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways for leading digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980)
+#### [Key takeaways for leading digital transformation](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=0)** - Thank you for joining me on this digital transformation leadership journey.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=0)** - Thank you for joining me on this [[Digital Transformation]] leadership journey.
 >
-> **[0:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=5)** You're ready to translate your biggest ideas into vision statements and agile plans.
+> **[0:05](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=5)** You're ready to translate your biggest ideas into vision statements and [[Agile Development|agile]] plans.
 >
 > **[0:11](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=11)** You'll create a leadership team and introduce the experts to plan, deliver, and drive transformational change.
 >
@@ -1307,7 +1292,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=34)** There are articles, podcasts, and analyst reports to learn from, but I highly recommend reading books and establishing a book club.
 >
-> **[0:43](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=43)** Second, leave your office.
+> **[0:43](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=43)** Second, leave your [[Microsoft Office|office]].
 >
 > **[0:45](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=45)** Visit your customers and live in their shoes.
 >
@@ -1327,7 +1312,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=83)** Celebrate the small wins.
 >
-> **[1:26](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=86)** I'd love for you to follow me on LinkedIn and join me for a weekly coffee hour.
+> **[1:26](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=86)** I'd love for you to follow me on [[LinkedIn]] and join me for a weekly coffee hour.
 >
 > **[1:31](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980&t=91)** Fridays at 11:00 a.m. Eastern Time.
 >
@@ -1339,7 +1324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), [[Digital Transformation]] (1), [[Agile Development|Agile]] (1), business (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **Ports:** :00 (1)
 > **Speakers:** - thank (1)
 

@@ -61,45 +61,45 @@ created: 2026-05-02
 > 28. [[Windows 10 Configure And Support Core Services]] — 4 mentions
 > 29. [[IT Support for a Hybrid Workforce]] — 3 mentions
 > 30. [[Vulnerability Management- Assessing the Risks with CVSS v3.1]] — 3 mentions
-> 31. [[Microsoft SQL Server 2022 Essential Training]] — 3 mentions
-> 32. [[Cloud Computing- Understanding Private Cloud Options]] — 2 mentions
-> 33. [[Stable Diffusion- Tips, Tricks, and Techniques]] — 2 mentions
-> 34. [[Practical Cybersecurity for IT Professionals]] — 2 mentions
-> 35. [[Migrating to Azure]] — 2 mentions
-> 36. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 2 mentions
-> 37. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 2 mentions
-> 38. [[Database Foundations- Administration]] — 2 mentions
-> 39. [[Azure Networking and Security for Beginners- Tools and Services]] — 2 mentions
-> 40. [[Aws Essential Training For Developers]] — 2 mentions
-> 41. [[SQL Server 2022 Administration]] — 2 mentions
-> 42. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 2 mentions
-> 43. [[Complete Guide to AWS Software Deployment]] — 2 mentions
-> 44. [[AWS- Monitoring, Logging, and Remediation (2021)]] — 2 mentions
-> 45. [[Soft Skills for Information Security Professionals]] — 1 mentions
-> 46. [[Learning Ansible]] — 1 mentions
-> 47. [[Ethical Hacking- Enumeration]] — 1 mentions
-> 48. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
-> 49. [[Ethical Hacking- Sniffers]] — 1 mentions
-> 50. [[Ethical Hacking- Hacking Web Servers and Web Applications]] — 1 mentions
-> 51. [[Windows 10- Administration]] — 1 mentions
-> 52. [[Securing Cloud Resources with Microsoft Defender for Cloud]] — 1 mentions
-> 53. [[Configure and Manage OneDrive]] — 1 mentions
-> 54. [[Configure and Manage SharePoint Online]] — 1 mentions
-> 55. [[IT Service Desk Careers and Certifications]] — 1 mentions
-> 56. [[IT Security Foundations- Network Security]] — 1 mentions
-> 57. [[Cybersecurity with Cloud Computing]] — 1 mentions
-> 58. [[Introduction to Terraform on Azure (2022)]] — 1 mentions
-> 59. [[Power Bi Essential Training]] — 1 mentions
-> 60. [[Networking Foundations Networking Basics]] — 1 mentions
-> 61. [[Powershell 7 Essential Training]] — 1 mentions
-> 62. [[Offensive Penetration Testing]] — 1 mentions
-> 63. [[Data Steward Foundations]] — 1 mentions
-> 64. [[Introduction To Cloud Computing For It Pros]] — 1 mentions
-> 65. [[Getting Started With Power Bi]] — 1 mentions
-> 66. [[Amazon EC2 Essential Training]] — 1 mentions
-> 67. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
-> 68. [[AWS- Storage and Data Management]] — 1 mentions
-> 69. [[Azure Understanding The Big Picture]] — 1 mentions
+> 31. [[Aws Essential Training For Developers]] — 3 mentions
+> 32. [[Microsoft SQL Server 2022 Essential Training]] — 3 mentions
+> 33. [[Cloud Computing- Understanding Private Cloud Options]] — 2 mentions
+> 34. [[Stable Diffusion- Tips, Tricks, and Techniques]] — 2 mentions
+> 35. [[Practical Cybersecurity for IT Professionals]] — 2 mentions
+> 36. [[Migrating to Azure]] — 2 mentions
+> 37. [[Kali Linux for Advanced Pen Testing and Ethical Hacking]] — 2 mentions
+> 38. [[Penetration Testing Web Apps with Kali and Burp Suite]] — 2 mentions
+> 39. [[Database Foundations- Administration]] — 2 mentions
+> 40. [[Azure Understanding The Big Picture]] — 2 mentions
+> 41. [[Azure Networking and Security for Beginners- Tools and Services]] — 2 mentions
+> 42. [[SQL Server 2022 Administration]] — 2 mentions
+> 43. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 2 mentions
+> 44. [[Complete Guide to AWS Software Deployment]] — 2 mentions
+> 45. [[AWS- Monitoring, Logging, and Remediation (2021)]] — 2 mentions
+> 46. [[Soft Skills for Information Security Professionals]] — 1 mentions
+> 47. [[Learning Ansible]] — 1 mentions
+> 48. [[Ethical Hacking- Enumeration]] — 1 mentions
+> 49. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
+> 50. [[Ethical Hacking- Sniffers]] — 1 mentions
+> 51. [[Ethical Hacking- Hacking Web Servers and Web Applications]] — 1 mentions
+> 52. [[Windows 10- Administration]] — 1 mentions
+> 53. [[Securing Cloud Resources with Microsoft Defender for Cloud]] — 1 mentions
+> 54. [[Configure and Manage OneDrive]] — 1 mentions
+> 55. [[Configure and Manage SharePoint Online]] — 1 mentions
+> 56. [[IT Service Desk Careers and Certifications]] — 1 mentions
+> 57. [[IT Security Foundations- Network Security]] — 1 mentions
+> 58. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 59. [[Introduction to Terraform on Azure (2022)]] — 1 mentions
+> 60. [[Power Bi Essential Training]] — 1 mentions
+> 61. [[Networking Foundations Networking Basics]] — 1 mentions
+> 62. [[Powershell 7 Essential Training]] — 1 mentions
+> 63. [[Offensive Penetration Testing]] — 1 mentions
+> 64. [[Data Steward Foundations]] — 1 mentions
+> 65. [[Introduction To Cloud Computing For It Pros]] — 1 mentions
+> 66. [[Getting Started With Power Bi]] — 1 mentions
+> 67. [[Amazon EC2 Essential Training]] — 1 mentions
+> 68. [[Complete Guide to AWS Security and Compliance Management]] — 1 mentions
+> 69. [[AWS- Storage and Data Management]] — 1 mentions
 > 70. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
 > 71. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
 > 72. [[Microsoft Azure- Identity and Access Management]] — 1 mentions
@@ -127,7 +127,7 @@ created: 2026-05-02
 7. [[Essential New Skills in IT Administration]] — 31 total mentions
 8. [[Explore a Career in IT Support]] — 23 total mentions
 9. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 22 total mentions
-10. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 21 total mentions
+10. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 22 total mentions
 
 ---
 

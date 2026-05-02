@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn how to properly scope your variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980)
+#### [Learn how to properly scope your variables](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980&t=0)** - [Emmanuel] Have you heard about local, global, and block scope variables, and don't know how they work or what they mean?
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980&t=7)** Are you coming from another language, and are trying to understand how variable scopes are used in JavaScript?
+> **[0:07](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980&t=7)** Are you coming from another language, and are trying to understand how variable scopes are used in [[JavaScript]]?
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-scope/learn-how-to-properly-scope-your-variables?u=76281980&t=13)** If you've answered yes to any of these questions, you've come to the right place.
 >
@@ -100,17 +99,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Speakers:** - [emmanuel] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980&t=0)** - [Instructor] This course is considered an intermediate to advanced course.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980&t=4)** We won't go over any basics of the language or syntax use, therefore, prior JavaScript knowledge, or at least a good understanding of functions, variables, types, object literals, and most of the basic syntax use is important to be able to follow along.
+> **[0:04](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980&t=4)** We won't go over any basics of the language or syntax use, therefore, prior [[JavaScript]] knowledge, or at least a good understanding of functions, variables, types, object literals, and most of the basic syntax use is important to be able to follow along.
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-scope/course-prerequisites?u=76281980&t=19)** If you've never done any JavaScript or would like to learn more on the subject, take a look at our library for the Essentials course.
 
@@ -124,8 +122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980)
+#### [Course setup](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=26)** This is the one we need to install.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=29)** When you have the extension Live Server all you have to do is click on the little button at the bottom of your screen here to start a Live Server right away, without doing anything like NPM servers and stuff like that.
+> **[0:29](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=29)** When you have the extension Live Server all you have to do is click on the little button at the bottom of your screen here to start a Live Server right away, without doing anything like [[npm]] servers and stuff like that.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=41)** It will start your server directly from VS Code.
 >
@@ -153,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=68)** Inside of that directory we'll create two new files.
 >
-> **[1:12](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=72)** One will be the index.html and the second one will be a JavaScript file, so let's call this the index.js.
+> **[1:12](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=72)** One will be the index.[[HTML]] and the second one will be a [[JavaScript]] file, so let's call this the index.js.
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=83)** Let's call this welcome.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=137)** Let's go to the index and do Shift + Command + p and type live, and click on Open Live Server.
 >
-> **[2:29](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=149)** To bring up the developer tools in Chrome for Mac it's Command + Shift + i, and for Windows it's it's Control + Shift + i.
+> **[2:29](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=149)** To bring up the developer tools in Chrome for Mac it's Command + Shift + i, and for [[Windows]] it's it's Control + Shift + i.
 >
 > **[2:40](https://www.linkedin.com/learning/javascript-scope/setup-for-this-course?u=76281980&t=160)** Once you have that, let's take a look at the console, that's okay.
 >
@@ -200,12 +197,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1), npm (1)
 > **Cross-References:** go back to (1)
 
-#### What is scope in JavaScript?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980)
+#### [What is scope in JavaScript?](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980&t=0)** - [Instructor] For some, JavaScript's code can be a bit intimidating but it's very simple.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980&t=0)** - [Instructor] For some, [[JavaScript]]'s code can be a bit intimidating but it's very simple.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-scope/what-is-scope-in-javascript?u=76281980&t=5)** Put in its simplest terms, scope determines accessibility or visibility of the variable.
 >
@@ -244,8 +240,7 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are closures?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-closures?u=76281980)
+#### [What are closures?](https://www.linkedin.com/learning/javascript-scope/what-are-closures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,12 +291,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The different types of scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980)
+#### [The different types of scope](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980&t=0)** - [Instructor] In JavaScript there are a few different types of scope, local, global and block scope.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980&t=0)** - [Instructor] In [[JavaScript]] there are a few different types of scope, local, global and block scope.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-scope/the-different-types-of-scope?u=76281980&t=6)** We'll explore each one in depth with code examples but, in short, local scope is when a variable object or function is only available locally to a function, like the warrior2 variable.
 >
@@ -343,14 +337,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hoisting explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980)
+#### [Hoisting explained](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=0)** - [Instructor] Hoisting is often misunderstood so let's focus some time on this mysterious word and what does it mean.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=0)** - [Instructor] Hoisting is often misunderstood so let's focus some time on this mysterious [[Microsoft Word|word]] and what does it mean.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=6)** In short, hoisting is JavaScript's behavior of moving all declarations to the top of its scope.
+> **[0:06](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=6)** In short, hoisting is [[JavaScript]]'s behavior of moving all declarations to the top of its scope.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-scope/hoisting-explained?u=76281980&t=13)** When you declare a variable at the bottom of your file it will be hosted or moved to the top of its scope when the code is compiled.
 >
@@ -436,16 +429,14 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/coderpad-introduction?u=76281980)
+#### [CoderPad introduction](https://www.linkedin.com/learning/javascript-scope/coderpad-introduction?u=76281980)
 
 
 ### 2. Global Variables
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are global variables?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980)
+#### [What are global variables?](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -465,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=35)** Let's say for example you initialize a global variable with user data.
 >
-> **[0:38](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=38)** This can be a privacy or security issue.
+> **[0:38](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=38)** This can be a [[Privacy]] or security issue.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=41)** As someone could literally pull data from this variable in the browser.
 >
@@ -475,7 +466,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=56)** Another danger, it is always better to declare your variables.
 >
-> **[1:00](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=60)** But if you use strict mode in JavaScript, they won't be automatically global.
+> **[1:00](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=60)** But if you use strict mode in [[JavaScript]], they won't be automatically global.
 >
 > **[1:04](https://www.linkedin.com/learning/javascript-scope/what-are-global-variables?u=76281980&t=64)** Let's take a look at all this in code.
 >
@@ -579,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JavaScript]] (2), application (1), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Privacy]] (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), means that (1)
@@ -593,8 +584,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are local variables?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-local-variables?u=76281980)
+#### [What are local variables?](https://www.linkedin.com/learning/javascript-scope/what-are-local-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,8 +677,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are block-scoped variables?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/what-are-block-scoped-variables?u=76281980)
+#### [What are block-scoped variables?](https://www.linkedin.com/learning/javascript-scope/what-are-block-scoped-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +711,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** warriorsperplatoon (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Env Vars:** es6 (1)
@@ -730,8 +718,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore block-scoped variables with code
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/explore-block-scoped-variables-with-code?u=76281980)
+#### [Explore block-scoped variables with code](https://www.linkedin.com/learning/javascript-scope/explore-block-scoped-variables-with-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,12 +811,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript strict mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980)
+#### [JavaScript strict mode](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980&t=0)** - [Instructor] Let's delve into JavaScript strict mode.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980&t=0)** - [Instructor] Let's delve into [[JavaScript]] strict mode.
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-scope/javascript-strict-mode?u=76281980&t=3)** This feature allows you to place your entire script or individual functions in a strict operating context.
 >
@@ -867,19 +853,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
 > **Code Identifiers:** unintendedglobal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980&t=0)** - [Emmanuel] Hopefully you've gained a bit more knowledge on what are JavaScript globals, local, and lexical variables and how to define and use them.
+> **[0:00](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980&t=0)** - [Emmanuel] Hopefully you've gained a bit more knowledge on what are [[JavaScript]] globals, local, and lexical variables and how to define and use them.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-scope/next-steps?u=76281980&t=8)** Considering this subject has been an advanced one, the next step could be any JavaScript knowledge you may not have at this point.
 >
@@ -889,7 +874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Speakers:** - [emmanuel] (1)
 
 

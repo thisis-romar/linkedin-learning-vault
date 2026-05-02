@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting AI to people and practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980)
+#### [Connecting AI to people and practice](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980&t=61)** Clear governance, ethical guardrails, and organizational readiness make AI safer, more consistent, and more trustworthy.
 >
-> **[1:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980&t=70)** When nonprofits connect AI to purpose and integrate it into existing workflows, they unlock new opportunities for efficiency and insight without compromising mission, ethics, or community trust.
+> **[1:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980&t=70)** When nonprofits connect AI to purpose and integrate it into existing workflows, they unlock new opportunities for efficiency and insight without compromising mission, [[Ethics]], or community trust.
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980&t=83)** This is not about chasing trends.
 >
@@ -120,11 +119,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), teams (2), data (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **CLI Commands:** make (1)
 
-#### Connecting AI to organizational goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980)
+#### [Connecting AI to organizational goals](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=42)** AI should not be adopted for its novelty.
 >
-> **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=45)** It should be used where it strengthens mission outcomes, improves decision-making, or increases operational efficiency.
+> **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=45)** It should be used where it strengthens mission outcomes, improves [[Decision-Making]], or increases operational efficiency.
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=52)** Strategic alignment rests on three key elements.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=72)** Organizational buy-in ensures teams understand AI's value and how it supports their work.
 >
-> **[1:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=78)** AI readiness is not about having perfect systems, it is about understanding what foundations exist and where gaps may limit impact.
+> **[1:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=78)** [[AI Readiness]] is not about having perfect systems, it is about understanding what foundations exist and where gaps may limit impact.
 >
 > **[1:28](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=88)** This includes four key areas.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=129)** Strategic value tests assess alignment with mission and confirm whether AI is truly needed.
 >
-> **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=135)** Feasibility tests evaluate data quality, system readiness, and team capacity to validate outputs.
+> **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=135)** Feasibility tests evaluate [[Data Quality]], system readiness, and team capacity to validate outputs.
 >
 > **[2:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-organizational-goals?u=76281980&t=142)** Responsible use tests address bias, transparency, and data protection.
 >
@@ -182,10 +180,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (4), teams (2), [[Decision-Making]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[AI Readiness]] (1), [[Data Quality]] (1)
 
-#### AI adoption step by step guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980)
+#### [AI adoption step by step guide](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,13 +208,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=81)** Not all tasks are suitable starting points.
 >
-> **[1:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=83)** This includes high-stakes decision-making, context-dependent workstreams, and tasks involving sensitive data.
+> **[1:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=83)** This includes high-stakes [[Decision-Making]], context-dependent workstreams, and tasks involving sensitive data.
 >
-> **[1:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=90)** AI should also be avoided where data quality is insufficient or inaccessible.
+> **[1:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=90)** AI should also be avoided where [[Data Quality]] is insufficient or inaccessible.
 >
 > **[1:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=96)** To choose the right AI solution, nonprofits must assess a set of practical factors that determine whether a tool will fit their organizational needs and succeed in practice.
 >
-> **[1:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=107)** These include Scalability, Cost, Technical Requirements and Organizational Readiness.
+> **[1:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=107)** These include [[Scalability]], Cost, Technical Requirements and Organizational Readiness.
 >
 > **[1:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=114)** Scalability evaluates whether a solution can handle increased data, functionality and users without declining performance.
 >
@@ -227,9 +224,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=131)** Suitable solutions align with budget constraints while delivering clear value through efficiency, reduced workload, or improved service delivery.
 >
-> **[2:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=141)** Technical requirements assess compatibility with existing systems, the need for specific hardware or software, and the expertise required for implementation and ongoing maintenance.
+> **[2:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=141)** Technical requirements assess compatibility with existing systems, the need for specific [[Hardware]] or software, and the expertise required for implementation and ongoing maintenance.
 >
-> **[2:33](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=153)** Readiness depends on team capacity, data maturity, and organizational culture.
+> **[2:33](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=153)** Readiness depends on team capacity, data maturity, and [[Organizational Culture]].
 >
 > **[2:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=159)** Teams must be able to evaluate AI outputs, maintain human-in-the-loop oversight, adapt workflows, and work with data that supports accuracy and trust.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=221)** It also means strengthening your digital ecosystem and involving a diverse group of people in selecting and using tools, so feedback reflects real-world needs.
 >
-> **[3:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=232)** Responsible AI use includes knowing when not to use it.
+> **[3:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=232)** [[Responsible AI]] use includes knowing when not to use it.
 >
 > **[3:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ai-adoption-step-by-step-guide?u=76281980&t=237)** AI works best when you already have enough expertise to review outputs, catch errors and apply judgment.
 >
@@ -259,11 +256,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (9), [[Scalability]] (2), teams (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Decision-Making]] (1), [[Data Quality]] (1), [[Hardware]] (1), [[Organizational Culture]] (1)
 > **Best Practices:** you should never (1)
 
-#### Integrating AI into existing workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/integrating-ai-into-existing-workflows?u=76281980)
+#### [Integrating AI into existing workflows](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/integrating-ai-into-existing-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/integrating-ai-into-existing-workflows?u=76281980&t=58)** AI fits most naturally when anchored to established workflows across functions.
 >
-> **[1:03](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/integrating-ai-into-existing-workflows?u=76281980&t=63)** In program design, delivery, and meal, AI can help analyze program data, draft narrative sections, support basic forecasting, and synthesize monitoring information.
+> **[1:03](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/integrating-ai-into-existing-workflows?u=76281980&t=63)** In [[Program Design]], delivery, and meal, AI can help analyze program data, draft narrative sections, support basic [[Forecasting]], and synthesize monitoring information.
 >
 > **[1:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/integrating-ai-into-existing-workflows?u=76281980&t=75)** In fundraising and donor engagement, AI can assist with segmentation, outreach drafting, and early donor materials using CRM data.
 >
@@ -311,11 +307,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), teams (6), data (2), [[Program Design]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Program Design]] (1), [[Forecasting]] (1)
 > **Env Vars:** crm (1), ngo (1)
 
-#### Setting up governance and capacity building structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/setting-up-governance-and-capacity-building-structures?u=76281980)
+#### [Setting up governance and capacity building structures](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/setting-up-governance-and-capacity-building-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/setting-up-governance-and-capacity-building-structures?u=76281980&t=45)** Oversight should be ongoing, not just at launch to ensure AI continues to function as intended as data, conditions, and technologies change.
 >
-> **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/setting-up-governance-and-capacity-building-structures?u=76281980&t=57)** Practical mechanisms include establishing bodies or processes for regular evaluation, integration with existing governance structures, clear escalation paths, and guidance on fairness, accountability, transparency, and human-in-the-loop expectations.
+> **[0:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/setting-up-governance-and-capacity-building-structures?u=76281980&t=57)** Practical mechanisms include establishing bodies or processes for regular evaluation, integration with existing governance structures, clear escalation paths, and guidance on fairness, [[Accountability]], transparency, and human-in-the-loop expectations.
 >
 > **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/setting-up-governance-and-capacity-building-structures?u=76281980&t=77)** frameworks such as NetHope's humanitarian AI code of conduct, help organizations align with sector standards.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), teams (3), data (1), [[Accountability]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Analogies:** such as (2)
 
 
@@ -375,8 +370,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Changing habits, not just systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980)
+#### [Changing habits, not just systems](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980&t=31)** When staff ask AI for a first draft, summarize a meeting, or explore a new idea with a model, those small actions begin to reshape team norms.
 >
-> **[0:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980&t=41)** Over time, micro-habits compound into organizational culture.
+> **[0:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980&t=41)** Over time, micro-habits compound into [[Organizational Culture]].
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980&t=45)** Habits grow when the environment supports them.
 >
@@ -410,11 +404,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), teams (2), [[Organizational Culture]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Organizational Culture]] (1)
 > **CLI Commands:** make (1)
 
-#### Foundations for successful AI adoption and sustainable implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980)
+#### [Foundations for successful AI adoption and sustainable implementation](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -440,13 +433,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=59)** Sustainable adoption depends on these conditions, not tools alone, to ensure safe, intentional, and mission-aligned use.
 >
-> **[1:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=66)** AI readiness is a collective effort.
+> **[1:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=66)** [[AI Readiness]] is a collective effort.
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=69)** Leaders set direction, and teams co-create the change.
 >
 > **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=73)** AI adoption isn't a traditional IT rollout.
 >
-> **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=77)** AI initiatives evolve continuously, so they require ongoing monitoring as capabilities, data sharing terms, and security practices change.
+> **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=77)** AI initiatives evolve continuously, so they require ongoing monitoring as capabilities, [[Data Sharing]] terms, and security practices change.
 >
 > **[1:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=86)** Adoption requires both behavioral and structural readiness.
 >
@@ -464,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=151)** People and culture shape how teams engage with AI.
 >
-> **[2:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=155)** In non-profits, long-term adoption requires transparent communication to reduce fear and uncertainty, key drivers of resistance, and to build trust and accountability.
+> **[2:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=155)** In non-profits, long-term adoption requires transparent communication to reduce fear and uncertainty, key drivers of resistance, and to build trust and [[Accountability]].
 >
 > **[2:45](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/foundations-for-successful-ai-adoption-and-sustainable-implementation?u=76281980&t=165)** Alongside this, organizations should foster psychological safety and norms for experimentation, supported by leadership modeling and staff buy-in.
 >
@@ -510,12 +503,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), data (6), teams (5), [[Security]] (2), leadership (2)
+> **Frameworks & Libraries:** [[Data Sharing]] (2), [[AI Readiness]] (1), [[Accountability]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 
-#### Assessing opportunities, risks and barriers in AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980)
+#### [Assessing opportunities, risks and barriers in AI adoption](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,9 +529,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=51)** Assessing opportunities shows where AI can strengthen mission delivery without disrupting core practices.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=56)** Team members play a critical role by surfacing workflow friction, privacy concerns, and practical insights from lived experience.
+> **[0:56](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=56)** Team members play a critical role by surfacing workflow friction, [[Privacy]] concerns, and practical insights from lived experience.
 >
-> **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=65)** Barriers to AI adoption in the nonprofit sector can fall into five areas, psychosocial, ethical, resource and infrastructure, and organizational culture and funding and sustainability barriers.
+> **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=65)** Barriers to AI adoption in the nonprofit sector can fall into five areas, psychosocial, ethical, resource and infrastructure, and [[Organizational Culture]] and funding and [[Sustainability]] barriers.
 >
 > **[1:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=79)** Together, these shape readiness, confidence, and the perceived safety of adopting AI in mission-driven environments.
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=129)** are guided by strong mission-driven values and responsibilities to stakeholders and communities they serve, which shape the ethical considerations in adopting AI.
 >
-> **[2:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=139)** Ethical considerations such as bias and discrimination, use of data, and lack of transparency and accountability can deter organizations from integrating AI tools.
+> **[2:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=139)** Ethical considerations such as bias and discrimination, use of data, and lack of transparency and [[Accountability]] can deter organizations from integrating AI tools.
 >
 > **[2:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=150)** Nonprofits often operate with constrained budgets, legacy systems, and limited staff capacity.
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=189)** Nonprofits often lack funding models that support sustained AI adoption.
 >
-> **[3:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=194)** Program-based funding limits, investment in organization-wide AI capabilities, lack of dedicated funding for maintenance and capacity building, can result in stalled or inconsistent adoption, while short-term budgets can inhibit continuous learning, retraining, and data governance.
+> **[3:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=194)** Program-based funding limits, investment in organization-wide AI capabilities, lack of dedicated funding for maintenance and capacity building, can result in stalled or inconsistent adoption, while short-term budgets can inhibit continuous learning, retraining, and [[Data Governance]].
 >
 > **[3:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=211)** which require recurring funding.
 >
@@ -581,21 +573,20 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=218)** These risks shape trust, safety, and operational stability.
 >
-> **[3:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=223)** Cybersecurity risks can expose sensitive systems or data.
+> **[3:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=223)** [[Cybersecurity]] risks can expose sensitive systems or data.
 >
 > **[3:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=227)** Ethical and privacy risks affect community trust and accountability.
 >
-> **[3:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=231)** And operational risks emerge when tools are poorly integrated or data quality is weak.
+> **[3:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=231)** And operational risks emerge when tools are poorly integrated or [[Data Quality]] is weak.
 >
 > **[4:01](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/assessing-opportunities-risks-and-barriers-in-ai-adoption?u=76281980&t=241)** These risks can act as barriers when they deter teams from exploring new tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (5), teams (4), [[Privacy]] (2), [[Organizational Culture]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Organizational Culture]] (2), [[Accountability]] (2), [[Sustainability]] (1), [[Data Governance]] (1)
 > **Analogies:** such as (1)
 
-#### Strategies to overcome barriers and enable long-term AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980)
+#### [Strategies to overcome barriers and enable long-term AI adoption](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,9 +600,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=20)** The correct answer is C, hands-on practice and small, low-risk experiments.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=27)** Strategies for sustainable and responsible AI adoption address both behavioral and structural change.
+> **[0:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=27)** Strategies for sustainable and [[Responsible AI]] adoption address both behavioral and structural change.
 >
-> **[0:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=34)** The goal is not just introducing tools, but building trust, confidence, and readiness over time.
+> **[0:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=34)** The goal is not just introducing tools, but [[Building Trust]], confidence, and readiness over time.
 >
 > **[0:41](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=41)** These six strategies respond directly to the barriers explored earlier.
 >
@@ -647,7 +638,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=177)** This strategy continues by making adoption measurable and visible.
 >
-> **[3:01](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=181)** Dashboards, clear metrics, and simple statistics help teams see that AI use is growing and shared across the organization.
+> **[3:01](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=181)** [[Dashboards]], clear metrics, and simple [[Statistics]] help teams see that AI use is growing and shared across the organization.
 >
 > **[3:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/strategies-to-overcome-barriers-and-enable-long-term-ai-adoption?u=76281980&t=190)** Visibility rituals, like sharing small wins in meetings or channels, normalize experimentation and keep AI use present in daily work.
 >
@@ -661,15 +652,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), teams (5), [[Responsible AI]] (1), [[Building Trust]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Building Trust]] (1), [[Dashboards]] (1), [[Statistics]] (1)
 > **Definitions:** is an  (1)
 
-#### Budgeting and funding for sustainable AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980)
+#### [Budgeting and funding for sustainable AI adoption](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=0)** This course focuses on how non-profits move beyond short-term pilots by planning financially for long-term, responsible AI use.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=0)** This course focuses on how non-profits move beyond short-term pilots by planning financially for long-term, [[Responsible AI]] use.
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=10)** Let's start with a quick question.
 >
@@ -679,23 +669,23 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=23)** The correct answer is C, underestimating ongoing costs such as maintenance, retraining, and governance.
 >
-> **[0:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=31)** AI adoption fails when funding is limited to short-term pilots without financial planning for ongoing use.
+> **[0:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=31)** AI adoption fails when funding is limited to short-term pilots without [[Financial Planning]] for ongoing use.
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=39)** Nonprofits often encounter challenges such as program-restricted budgets, limited operational reserves, hidden cloud costs, ongoing training needs, and underfunded maintenance.
 >
 > **[0:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=51)** must plan for these realities early to avoid stalled pilots, abandoned tools, or fragmented adoption.
 >
-> **[0:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=58)** Teams can support sustainability by documenting time saved, workflow improvements, and impact gains – evidence that helps justify ongoing investment to leadership and donors.
+> **[0:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=58)** Teams can support [[Sustainability]] by documenting time saved, workflow improvements, and impact gains – evidence that helps justify ongoing investment to leadership and donors.
 >
 > **[1:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=70)** To address these realities, strategic budget planning for AI focuses on three essentials • Aligning Budgets with Organizational Strategy • Ensuring Allocation and Cost Transparency • Funding Continuous Learning Aligning Budgets with Organizational Strategy means treating AI as part of core operations rather than a side project.
 >
-> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=91)** This includes integrating AI costs into broader digital transformation plans, linking budget lines to mission outcomes, including AI in annual budgeting cycles, and planning for cross-team needs, recognizing that AI affects multiple functions.
+> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=91)** This includes integrating AI costs into broader [[Digital Transformation]] plans, linking budget lines to mission outcomes, including AI in annual budgeting cycles, and planning for cross-team needs, recognizing that AI affects multiple functions.
 >
 > **[1:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=107)** Allocation and cost transparency help set realistic expectations from the start.
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=113)** Many AI costs are ongoing rather than fixed and should be documented clearly.
 >
-> **[1:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=118)** These include licensing or subscriptions, cloud storage or API usage, model retraining and updates, staff training and upskilling, governance and compliance activities, and technical support or vendor contracts.
+> **[1:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=118)** These include licensing or subscriptions, [[Cloud Storage]] or API usage, model retraining and updates, staff training and upskilling, governance and compliance activities, and [[Technical Support]] or vendor contracts.
 >
 > **[2:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=133)** Visibility builds trust with leadership and donors.
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=187)** Funding alone is not enough.
 >
-> **[3:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=190)** Sustainable AI use also depends on operational support, including ongoing training, governance practices, internal resources, AI ambassadors, visible AI use, scheduled experimentation time, and cross-team collaboration.
+> **[3:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=190)** Sustainable AI use also depends on operational support, including ongoing training, governance practices, internal resources, AI ambassadors, visible AI use, scheduled experimentation time, and [[Cross-team Collaboration]].
 >
 > **[3:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/budgeting-and-funding-for-sustainable-ai-adoption?u=76281980&t=206)** It's also important to acknowledge the challenges that can arise.
 >
@@ -723,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), cloud (2), leadership (2), [[Responsible AI]] (1), teams (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Sustainability]] (1), [[Digital Transformation]] (1), [[Cloud Storage]] (1), [[Technical Support]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** api (1)
 
@@ -732,8 +722,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When AI goes wrong, people pay the price
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980)
+#### [When AI goes wrong, people pay the price](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,9 +740,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980&t=26)** Behind every prediction, every ranking, every automated decision is a real person who deserves fairness and protection.
 >
-> **[0:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980&t=34)** That's why Responsible AI isn't optional.
+> **[0:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980&t=34)** That's why [[Responsible AI]] isn't optional.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980&t=37)** It's essential to ensuring dignity, transparency, and accountability in every outcome.
+> **[0:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980&t=37)** It's essential to ensuring dignity, transparency, and [[Accountability]] in every outcome.
 >
 > **[0:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980&t=43)** Responsible AI means auditing bias before it causes harm, collecting only the data required, ensuring people understand how their information is used, and grounding every tool in human rights and humanitarian principles.
 >
@@ -771,22 +760,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (3), ai (2), data (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Ethical use and accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980)
+#### [Ethical use and accountability](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=0)** As nonprofits increasingly adopt AI tools, a critical question emerges.
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=6)** What do ethical use and accountability really mean in practice?
+> **[0:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=6)** What do ethical use and [[Accountability]] really mean in practice?
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=10)** Before we explore this in detail, let's start with a quick question.
 >
-> **[0:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=14)** Which statement best reflects the idea of ethical use of artificial intelligence, or AI, in nonprofits?
+> **[0:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=14)** Which statement best reflects the idea of ethical use of [[Artificial Intelligence (AI)|artificial intelligence]], or AI, in nonprofits?
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=21)** Take a moment to read the options.
 >
@@ -804,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=63)** They are real outcomes that can impact people's lives.
 >
-> **[1:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=66)** This is why responsible AI practices are critical in nonprofit work.
+> **[1:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=66)** This is why [[Responsible AI]] practices are critical in nonprofit work.
 >
 > **[1:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=72)** Ethical use, clear accountability, and careful review aren't just safeguards.
 >
@@ -862,7 +850,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=239)** They also reduce the risk of unintended harm, misuse, or loss of trust.
 >
-> **[4:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=245)** Once we've talked about ethics and legal responsibilities, the next question is accountability.
+> **[4:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=245)** Once we've talked about [[Ethics]] and legal responsibilities, the next question is accountability.
 >
 > **[4:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-use-and-accountability?u=76281980&t=250)** Even when AI is involved, responsibility doesn't shift to the technology.
 >
@@ -892,11 +880,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), [[Accountability]] (8), data (5), [[Responsible AI]] (2), next (2)
+> **Frameworks & Libraries:** [[Accountability]] (8), [[Responsible AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 
-#### Ethical principles guiding AI use
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980)
+#### [Ethical principles guiding AI use](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +909,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=63)** Let's look at the key principles most relevant to safeguarding rights, dignity, and fairness.
 >
-> **[1:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=69)** At the heart of responsible AI is a principle nonprofits already know well—do no harm.
+> **[1:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=69)** At the heart of [[Responsible AI]] is a principle nonprofits already know well—do no harm.
 >
 > **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=77)** When AI is used in humanitarian and non-profit contexts, it must never put people at risk, whether physically, psychologically, socially, or digitally.
 >
@@ -946,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=156)** This requires organizations to actively reduce bias and routinely review AI outputs to ensure no group is excluded or disadvantaged.
 >
-> **[2:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=167)** Non-profits routinely handle sensitive information, making privacy, data protection, and informed use critical to their ethical assessment of AI tools.
+> **[2:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=167)** Non-profits routinely handle sensitive information, making [[Privacy]], data protection, and informed use critical to their ethical assessment of AI tools.
 >
 > **[2:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=178)** Some practices include obtaining informed consent, anonymizing data, protecting individuals from misuse and surveillance, and being transparent about how data is collected, stored, and shared.
 >
@@ -960,7 +947,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=224)** Ethical use requires explaining what AI systems do, how they influence decisions, and allowing outcomes to be questioned or challenged.
 >
-> **[3:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=233)** Transparency builds trust and supports accountability.
+> **[3:53](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=233)** Transparency builds trust and supports [[Accountability]].
 >
 > **[3:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=238)** Even when AI supports workstreams, humans remain responsible.
 >
@@ -972,18 +959,17 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=271)** AI systems can require significant energy and computing resources.
 >
-> **[4:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=275)** For non-profits, ethical use also means considering environmental impact, choosing efficient tools, avoiding unnecessary computation, and balancing benefits of AI with sustainability and conservation goals.
+> **[4:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=275)** For non-profits, ethical use also means considering environmental impact, choosing efficient tools, avoiding unnecessary computation, and balancing benefits of AI with [[Sustainability]] and conservation goals.
 >
 > **[4:49](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-principles-guiding-ai-use?u=76281980&t=289)** Responsible AI can support both mission impact and environmental stewardships.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), data (6), [[Responsible AI]] (3), [[Privacy]] (3), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Privacy]] (3), [[Accountability]] (2), [[Sustainability]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### What responsible AI use looks like in the nonprofit sector
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980)
+#### [What responsible AI use looks like in the nonprofit sector](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=4)** Now comes the practical question.
 >
-> **[0:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=6)** What does responsible AI actually look like in the non-profit sector?
+> **[0:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=6)** What does [[Responsible AI]] actually look like in the non-profit sector?
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=12)** Before we explore this in detail, let's start with a quick question.
 >
@@ -999,7 +985,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=22)** Take a moment to read the options.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=27)** Actually, reviewing AI outputs and providing redress mechanisms show strong human oversight and accountability key elements of responsible AI in non-profit settings.
+> **[0:27](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=27)** Actually, reviewing AI outputs and providing redress mechanisms show strong human oversight and [[Accountability]] key elements of responsible AI in non-profit settings.
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=39)** Keep this idea in mind as we look more closely at what responsible AI looks like in day-to-day non-profit work.
 >
@@ -1053,7 +1039,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=248)** Finally, confidential or intellectual property materials, including sensitive proposals, strategies, or donor information, should not be shared with AI systems.
 >
-> **[4:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=259)** Following this guidance helps prevent misuse, protects privacy and safety, and ensures AI is used responsibly across nonprofit operations.
+> **[4:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=259)** Following this guidance helps prevent misuse, protects [[Privacy]] and safety, and ensures AI is used responsibly across nonprofit operations.
 >
 > **[4:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/what-responsible-ai-use-looks-like-in-the-nonprofit-sector?u=76281980&t=271)** Let's look at two quick examples.
 >
@@ -1067,16 +1053,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Responsible AI]] (10), data (7), [[Accountability]] (3), hr (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (10), [[Accountability]] (3), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Using sector standards and practical tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980)
+#### [Using sector standards and practical tools](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=0)** When nonprofits rely on sector standards and practical tools, how does that shape responsible AI use in practice?
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=0)** When nonprofits rely on sector standards and practical tools, how does that shape [[Responsible AI]] use in practice?
 >
 > **[0:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=8)** Before we explore this in detail, let's start with a quick question.
 >
@@ -1086,7 +1071,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=26)** Working on recognized AI standards ensures that non-profit AI practices remain ethical, transparent, and aligned with human rights.
 >
-> **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=35)** These frameworks help organizations protect communities, assess risks, and maintain accountability.
+> **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=35)** These frameworks help organizations protect communities, assess risks, and maintain [[Accountability]].
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=42)** We'll build on this idea as we explore what responsible AI looks like in everyday non-profit practice.
 >
@@ -1096,13 +1081,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=58)** While laws differ by country, most AI regulations tend to focus on a few common areas.
 >
-> **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=65)** As you can see in the diagram, these include ethical AI and human rights, data privacy and protection, employment and labor, national security and defense, and copyright infringement.
+> **[1:05](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=65)** As you can see in the diagram, these include ethical AI and human rights, [[Data Privacy]] and protection, employment and labor, national security and defense, and copyright infringement.
 >
 > **[1:18](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=78)** A major focus of AI regulation is protecting human rights.
 >
 > **[1:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=82)** This includes reducing bias, preventing discrimination, and ensuring transparency when AI influences decisions that affect people's lives.
 >
-> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=91)** There's also a strong emphasis on accountability, making sure responsibility stays with humans, not algorithms.
+> **[1:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=91)** There's also a strong emphasis on accountability, making sure responsibility stays with humans, not [[Algorithms]].
 >
 > **[1:38](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=98)** Another shared focus is data privacy and protection.
 >
@@ -1114,13 +1099,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=126)** This includes concerns about automation, reskilling, and the use of AI to monitor or evaluate employees.
 >
-> **[2:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=134)** The goal is to ensure AI doesn't undermine workers' rights or privacy.
+> **[2:14](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=134)** The goal is to ensure AI doesn't undermine workers' rights or [[Privacy]].
 >
 > **[2:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=139)** Some AI regulations focus on high-risk uses.
 >
-> **[2:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=142)** International discussions continue around AI in military contexts, especially autonomous weapons, with strong attention to ethics and the laws of war.
+> **[2:22](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=142)** International discussions continue around AI in military contexts, especially autonomous weapons, with strong attention to [[Ethics]] and the laws of war.
 >
-> **[2:33](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=153)** Cybersecurity is also critical, as AI systems used in infrastructure must be secure and resilient against threats.
+> **[2:33](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=153)** [[Cybersecurity]] is also critical, as AI systems used in infrastructure must be secure and resilient against threats.
 >
 > **[2:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=162)** Copyright is another key area in AI regulation.
 >
@@ -1140,11 +1125,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=231)** The EUAI Act introduces a risk-based framework.
 >
-> **[3:55](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=235)** The United States takes a more fragmented approach, while China emphasizes data security and oversight.
+> **[3:55](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=235)** The United States takes a more fragmented approach, while China emphasizes [[Data Security]] and oversight.
 >
 > **[4:02](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=242)** Other countries are also developing frameworks that emphasize ethical AI development and the need for international cooperation.
 >
-> **[4:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=250)** One of the biggest challenges in AI governance is that regulation doesn't move at the same pace as technology.
+> **[4:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=250)** One of the biggest challenges in [[AI Governance]] is that regulation doesn't move at the same pace as technology.
 >
 > **[4:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=257)** AI systems often operate across national borders, which creates jurisdiction challenges when different countries apply different rules.
 >
@@ -1162,11 +1147,11 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=319)** This is where practical tools make a difference.
 >
-> **[5:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=321)** Checklists, AI suitability toolkits, bias audits, impact assessments, vendor due diligence forms, and monitoring tools help nonprofits assess risks and apply standards in real situations.
+> **[5:21](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=321)** Checklists, AI suitability toolkits, bias audits, impact assessments, vendor due diligence [[Forms]], and monitoring tools help nonprofits assess risks and apply standards in real situations.
 >
 > **[5:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=336)** Applying AI standards and workflows starts with knowing what tools are in use, setting up internal oversight, gathering community feedback, and establishing data agreements with vendors.
 >
-> **[5:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=347)** Each AI system should be mapped to its risk level, supported by integrated data governance, clear ethics oversight, governance committees and role-based access controls, regular system evaluations, clear AI use policies, and documented decision making.
+> **[5:47](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=347)** Each AI system should be mapped to its risk level, supported by integrated [[Data Governance]], clear ethics oversight, governance committees and role-based access controls, regular system evaluations, clear AI use policies, and documented decision making.
 >
 > **[6:04](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/using-sector-standards-and-practical-tools?u=76281980&t=364)** Together, these steps embed responsible AI into everyday nonprofit practice.
 >
@@ -1174,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (37), data (8), [[Accountability]] (3), [[Privacy]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Responsible AI]] (2), [[Privacy]] (2), [[Ethics]] (2), [[Algorithms]] (1)
 > **Env Vars:** gdpr (1), oecd (1), euai (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1184,8 +1169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data shapes decisions, decisions shape data
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980)
+#### [Data shapes decisions, decisions shape data](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1197,7 +1181,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=31)** Behind every trustworthy digital tool is something invisible but essential.
 >
-> **[0:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=36)** Data governance.
+> **[0:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=36)** [[Data Governance]].
 >
 > **[0:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=37)** It's the system that makes sure data is consistent, secure, and handled with dignity before AI ever uses it.
 >
@@ -1209,7 +1193,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=66)** And governance doesn't end after setup.
 >
-> **[1:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=68)** It requires constant assessment, regular reviews, clear accountability, and transparency with partners and communities.
+> **[1:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=68)** It requires constant assessment, regular reviews, clear [[Accountability]], and transparency with partners and communities.
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980&t=76)** But governance also works best when people understand why these practices matter, have the skills and time to apply them correctly and see their organization modeling the behavior it expects from everyone.
 >
@@ -1221,15 +1205,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (4), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Accountability]] (1)
 > **Prerequisites:** setup (1)
 
-#### Ethical foundations of AI and data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980)
+#### [Ethical foundations of AI and data governance](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=0)** How do the ethical foundations of AI and data governance shape responsible non-profit practice?
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=0)** How do the ethical foundations of AI and [[Data Governance]] shape responsible non-profit practice?
 >
 > **[0:06](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=6)** Before we explore this in detail, let's start with a quick question.
 >
@@ -1241,17 +1224,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=23)** Ethical AI depends on trustworthy data, human oversight, transparency and safeguards that protect dignity and prevent harm, all supported by strong data governance.
 >
-> **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=35)** We'll build on this idea as we explore the ethical foundations behind responsible AI use in non-profit work.
+> **[0:35](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=35)** We'll build on this idea as we explore the ethical foundations behind [[Responsible AI]] use in non-profit work.
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=42)** As AI use increases, organizations are expected to clearly document how AI tools are used how data is protected, and who is accountable for the outcomes.
 >
-> **[0:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=54)** Strong data and AI governance help non-profits manage risk, meet regulatory expectations, and most importantly, maintain trust with the communities they serve.
+> **[0:54](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=54)** Strong data and [[AI Governance]] help non-profits manage risk, meet regulatory expectations, and most importantly, maintain trust with the communities they serve.
 >
 > **[1:04](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=64)** This is why ethical foundations and governance aren't optional add-ons.
 >
 > **[1:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=68)** They're essential as AI becomes part of everyday non-profit work.
 >
-> **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=73)** Data sits at the heart of digital transformation, but it only creates value when it is governed and protected.
+> **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=73)** Data sits at the heart of [[Digital Transformation]], but it only creates value when it is governed and protected.
 >
 > **[1:20](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=80)** Without strong data governance, even good intentions can lead to inaccurate insights, misuse of sensitive information, and poor decisions.
 >
@@ -1273,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=145)** Ethical and transparent AI use also depends on meeting legal and regulatory obligations.
 >
-> **[2:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=150)** Frameworks like GDPR emphasize consent, data minimization, individual rights and accountability.
+> **[2:30](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=150)** Frameworks like GDPR emphasize consent, data minimization, individual rights and [[Accountability]].
 >
 > **[2:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=156)** The EU AI Act introduces risk-based classification, bans certain practices and requires human oversight and transparency for high-risk AI.
 >
@@ -1289,7 +1272,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=216)** These frameworks ensure AI use aligns with human rights, democratic values and responsible innovation.
 >
-> **[3:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=223)** In the United States, AI governance is fragmented, shaped through a mix of executive guidance and state-level privacy laws.
+> **[3:43](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=223)** In the United States, AI governance is fragmented, shaped through a mix of executive guidance and state-level [[Privacy]] laws.
 >
 > **[3:50](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=230)** The blueprint for an AI Bill of Rights outlines principles for safe, fair and accountable AI.
 >
@@ -1301,27 +1284,26 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=255)** It emphasises transparency, consent, accountability and responsible handling of data, including by third-party providers.
 >
-> **[4:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=264)** Kenya's Data Protection Act establishes principles for lawful data processing, consent, individual rights, cross-border transfers, and regulatory oversight supporting responsible data use as digital systems expand.
+> **[4:24](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=264)** Kenya's Data Protection Act establishes principles for lawful [[Data Processing]], consent, individual rights, cross-border transfers, and regulatory oversight supporting responsible data use as digital systems expand.
 >
-> **[4:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=276)** China's generative AI regulations emphasize data security, content governance, transparency, and state oversight.
+> **[4:36](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=276)** China's [[Generative AI]] regulations emphasize [[Data Security]], content governance, transparency, and state oversight.
 >
 > **[4:44](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/ethical-foundations-of-ai-and-data-governance?u=76281980&t=284)** Recent labeling rules require clear identification of AI-generated content, supporting transparency across text, audio, images, and video, while reinforcing regulatory control.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), ai (23), [[Accountability]] (4), [[Responsible AI]] (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (7), [[Accountability]] (4), [[Responsible AI]] (2), [[AI Governance]] (2), [[Privacy]] (2)
 > **Env Vars:** gdpr (2), ccpa (1), cpra (1), pepeda (1)
 
-#### Governance structures and organizational accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980)
+#### [Governance structures and organizational accountability](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=0)** This course will explore how governance structures and organisational accountability guide responsible, ethical and trustworthy use of AI and data in non-profit work.
+> **[0:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=0)** This course will explore how governance structures and organisational [[Accountability]] guide responsible, ethical and trustworthy use of AI and data in non-profit work.
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=11)** Let's start with a quick question.
 >
-> **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=13)** Which option best reflects the core purpose of having documented AI and data governance policies within an organisation?
+> **[0:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=13)** Which option best reflects the core purpose of having documented AI and [[Data Governance]] policies within an organisation?
 >
 > **[0:20](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=20)** Take a moment to read the options on screen.
 >
@@ -1335,13 +1317,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=60)** Clear, documented policies act as guardrails for responsible practice.
 >
-> **[1:04](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=64)** Data collection and use defines what data can be gathered, processed or shared.
+> **[1:04](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=64)** [[Data Collection]] and use defines what data can be gathered, processed or shared.
 >
-> **[1:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=68)** Responsible AI use clarifies when and how AI tools may be deployed.
+> **[1:08](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=68)** [[Responsible AI]] use clarifies when and how AI tools may be deployed.
 >
-> **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=73)** Data quality and integrity ensure information remains accurate and reliable.
+> **[1:13](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=73)** [[Data Quality]] and integrity ensure information remains accurate and reliable.
 >
-> **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=77)** Privacy and security protect personal and sensitive data.
+> **[1:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=77)** [[Privacy]] and security protect personal and sensitive data.
 >
 > **[1:20](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=80)** data.
 >
@@ -1359,9 +1341,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=129)** Accountability ensures non-profits remain responsible for decisions informed by AI.
 >
-> **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=135)** This includes human oversight of AI outputs, documented decision-making, clear escalation pathways, and regular audits to detect bias or misuse.
+> **[2:15](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=135)** This includes human oversight of AI outputs, documented [[Decision-Making]], clear escalation pathways, and regular audits to detect bias or misuse.
 >
-> **[2:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=145)** Review mechanisms aligned with humanitarian principles guide ethical use, while robust cybersecurity measures protect systems and data, ensuring AI supports rather than overrides responsible decision-making.
+> **[2:25](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=145)** Review mechanisms aligned with humanitarian principles guide ethical use, while robust [[Cybersecurity]] measures protect systems and data, ensuring AI supports rather than overrides responsible decision-making.
 >
 > **[2:40](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/governance-structures-and-organizational-accountability?u=76281980&t=160)** Transparency builds trust with stakeholders and communities.
 >
@@ -1371,10 +1353,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (12), [[Accountability]] (6), business (2), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Accountability]] (6), [[Data Quality]] (2), [[Data Governance]] (2), [[Decision-Making]] (2), [[Data Collection]] (1)
 
-#### Protection of community data
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980)
+#### [Protection of community data](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,7 +1383,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980&t=89)** Identifiers include names, current addresses, birthdates and national identity numbers.
 >
-> **[1:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980&t=94)** Technical methods such as data masking, tokenization, hashing, k-anonymity and differential privacy help reduce exposure.
+> **[1:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980&t=94)** Technical methods such as data masking, tokenization, hashing, k-anonymity and differential [[Privacy]] help reduce exposure.
 >
 > **[1:42](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/protection-of-community-data?u=76281980&t=102)** For AI training, synthetic data or federated learning can preserve privacy while maintaining data utility.
 >
@@ -1414,11 +1395,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (5), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Analogies:** such as (1)
 
-#### Sustainable and trust-building digital governance practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980)
+#### [Sustainable and trust-building digital governance practices](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1426,7 +1406,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=10)** Let's start with a quick question.
 >
-> **[0:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=12)** Which statement best reflects why data and AI governance must be continuous rather than a one-off effort?
+> **[0:12](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=12)** Which statement best reflects why data and [[AI Governance]] must be continuous rather than a one-off effort?
 >
 > **[0:17](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=17)** Take a moment to read the options on screen.
 >
@@ -1440,7 +1420,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=56)** Sustainable digital governance is built on a few reinforcing elements.
 >
-> **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=60)** Ongoing evaluation of AI systems ensures data quality, performance, bias, security, and compliance risks are reviewed regularly.
+> **[1:00](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=60)** Ongoing evaluation of AI systems ensures [[Data Quality]], performance, bias, security, and compliance risks are reviewed regularly.
 >
 > **[1:09](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=69)** A clear, living data strategy defines priorities, sets governance indicators, plans for future data needs, and aligns AI use with data maturity.
 >
@@ -1448,7 +1428,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=94)** Culture often determines whether governance succeeds.
 >
-> **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=97)** Responsible digital practice is strengthened when organisations build data and AI literacy, provide safe channels to raise concerns, encourage human oversight, share responsibility for data ethics and model responsible behaviour through leadership.
+> **[1:37](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=97)** Responsible digital practice is strengthened when organisations build data and [[AI Literacy]], provide safe channels to raise concerns, encourage human oversight, share responsibility for [[Data Ethics]] and model responsible behaviour through leadership.
 >
 > **[1:52](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/sustainable-and-trust-building-digital-governance-practices?u=76281980&t=112)** When culture supports governance, compliance becomes practice, not enforcement.
 >
@@ -1470,7 +1450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (9), [[Security]] (2), [[Ethics]] (1), leadership (1)
+> **Frameworks & Libraries:** [[AI Governance]] (1), [[Data Quality]] (1), [[AI Literacy]] (1), [[Data Ethics]] (1)
 > **Definitions:** is an  (1)
 
 

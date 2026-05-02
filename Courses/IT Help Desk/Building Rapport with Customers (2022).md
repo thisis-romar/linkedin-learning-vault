@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Does rapport really matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980)
+#### [Does rapport really matter?](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980&t=90)** Plus, you'll see how you can maintain rapport even when you have to give bad news.
 >
-> **[1:37](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980&t=97)** So join me in this LinkedIn Learning course and learn how to deliver better customer interactions by creating rapport.
+> **[1:37](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980&t=97)** So join me in this [[LinkedIn]] Learning course and learn how to deliver better customer interactions by creating rapport.
 
 > [!info]- Semantic Content
 >
@@ -125,8 +124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build rapport in six seconds or less
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/build-rapport-in-six-seconds-or-less-14480262?u=76281980)
+#### [Build rapport in six seconds or less](https://www.linkedin.com/learning/building-rapport-with-customers-2022/build-rapport-in-six-seconds-or-less-14480262?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -174,8 +172,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - one (1)
 
-#### Acknowledge concern with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980)
+#### [Acknowledge concern with customers](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=14)** And I'm met with dead silence.
 >
-> **[0:17](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=17)** How do you think I'd feel, if I opened with an energetic greeting and no one said a word?
+> **[0:17](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=17)** How do you think I'd feel, if I opened with an energetic greeting and no one said a [[Microsoft Word|word]]?
 >
 > **[0:23](https://www.linkedin.com/learning/building-rapport-with-customers-2022/acknowledge-concern-with-customers?u=76281980&t=23)** I'd feel awkward, embarrassed.
 >
@@ -245,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -256,8 +253,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Yield to customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/yield-to-customers-14476332?u=76281980)
+#### [Yield to customers](https://www.linkedin.com/learning/building-rapport-with-customers-2022/yield-to-customers-14476332?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,13 +303,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1)
 > **Speakers:** - recently (1)
 
-#### Pace customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980)
+#### [Pace customers](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=148)** Pacing the customer who wants a quick answer means you go straight to what they need.
 >
-> **[2:33](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=153)** A word of caution.
+> **[2:33](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=153)** A [[Microsoft Word|word]] of caution.
 >
 > **[2:35](https://www.linkedin.com/learning/building-rapport-with-customers-2022/pace-customers-14480261?u=76281980&t=155)** Make sure you only pace positive things.
 >
@@ -385,14 +379,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Warnings:** caution (1)
 > **Speakers:** - when (1)
 
-#### Speak in complete sentences with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/speak-in-complete-sentences-with-customers-14482231?u=76281980)
+#### [Speak in complete sentences with customers](https://www.linkedin.com/learning/building-rapport-with-customers-2022/speak-in-complete-sentences-with-customers-14482231?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,8 +449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### End customer interactions with a fond farewell
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/end-customer-interactions-with-a-fond-farewell-14479289?u=76281980)
+#### [End customer interactions with a fond farewell](https://www.linkedin.com/learning/building-rapport-with-customers-2022/end-customer-interactions-with-a-fond-farewell-14479289?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,12 +503,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Create rapport in a customer chat interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/create-rapport-in-a-customer-chat-interaction-14481267?u=76281980)
+#### [Create rapport in a customer chat interaction](https://www.linkedin.com/learning/building-rapport-with-customers-2022/create-rapport-in-a-customer-chat-interaction-14481267?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,8 +579,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - studies (1)
 
-#### Create rapport in a customer email
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/create-rapport-in-a-customer-email-14479288?u=76281980)
+#### [Create rapport in a customer email](https://www.linkedin.com/learning/building-rapport-with-customers-2022/create-rapport-in-a-customer-email-14479288?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,14 +629,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), express (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** abc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
-#### Use rapport to disarm angry customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/use-rapport-to-disarm-angry-customers-14478314?u=76281980)
+#### [Use rapport to disarm angry customers](https://www.linkedin.com/learning/building-rapport-with-customers-2022/use-rapport-to-disarm-angry-customers-14478314?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,15 +680,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - picture (1)
 
-#### Maintain rapport when delivering bad news to customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980)
+#### [Maintain rapport when delivering bad news to customers](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=53)** Let me show you how this looks in action.
 >
-> **[0:56](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=56)** I'm currently working with a client that sells food products.
+> **[0:56](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=56)** I'm currently working with a client that sells food [[Microsoft Products|products]].
 >
 > **[1:00](https://www.linkedin.com/learning/building-rapport-with-customers-2022/maintain-rapport-when-delivering-bad-news-to-customers-14477301?u=76281980&t=60)** A question they get from customers is, "What ingredients are in this yogurt?"
 >
@@ -773,7 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** iphone (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
@@ -783,8 +768,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start, stop, continue exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/start-stop-continue-exercise-14481266?u=76281980)
+#### [Start, stop, continue exercise](https://www.linkedin.com/learning/building-rapport-with-customers-2022/start-stop-continue-exercise-14481266?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +802,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

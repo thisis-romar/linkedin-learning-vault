@@ -80,16 +80,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role that analytics plays in financial forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980)
+#### [The role that analytics plays in financial forecasting](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=0)** - [Michael] Financial forecasting is a foundational business task that is relevant to every company out there.
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=0)** - [Michael] [[Financial Forecasting]] is a foundational business task that is relevant to every company out there.
 >
-> **[0:06](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=6)** Everyone from accountants and corporate finance folks to regular investors and financial advisors need to know how to use data to evaluate sales, profits, and other metrics for a firm in the future.
+> **[0:06](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=6)** Everyone from accountants and [[Corporate Finance]] folks to regular investors and financial advisors need to know how to use data to evaluate sales, profits, and other metrics for a firm in the future.
 >
-> **[0:20](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=20)** New analytic tools and techniques can be combined with Excel to create easy and effective forecasts for any business.
+> **[0:20](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=20)** New analytic tools and techniques can be combined with [[Microsoft Excel|Excel]] to create easy and effective forecasts for any business.
 >
 > **[0:27](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=27)** And that is what this course is all about, using Excel to build financial forecasts with analytics and data.
 >
@@ -97,11 +96,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=41)** I'm a professor of finance and a frequent consultant to industry and government groups, especially in the area of data and analytics.
 >
-> **[0:48](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=48)** So, if you're ready to dive in and learn how to start using Excel for forecasting, then please, join me here on LinkedIn Learning and let's get started.
+> **[0:48](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980&t=48)** So, if you're ready to dive in and learn how to start using Excel for [[Forecasting]], then please, join me here on [[LinkedIn]] Learning and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), business (2), [[Analytics]] (2), [[Financial Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Financial Forecasting]] (1), [[Corporate Finance]] (1), [[Forecasting]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [michael] (1)
 
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is analytics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980)
+#### [What is analytics?](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=1)** Let's get started.
 >
-> **[0:03](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=3)** Today we're going to talk about business decision-making.
+> **[0:03](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=3)** Today we're going to talk about business [[Decision-Making]].
 >
 > **[0:06](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=6)** In particular, for any business that's out there, there's two ways of making decisions: intuition or data.
 >
@@ -133,11 +131,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=46)** "I like to look at what's happened, "and then make an informed decision."
 >
-> **[0:49](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=49)** So each of these two methods has its own adherence and data is really just another way of talking about business intelligence.
+> **[0:49](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=49)** So each of these two methods has its own adherence and data is really just another way of talking about [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=57)** And that's the focus for this course as we're going to see.
 >
-> **[1:01](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=61)** Now you might ask why is big data so important?
+> **[1:01](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=61)** Now you might ask why is [[Big Data]] so important?
 >
 > **[1:04](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=64)** Why do I keep hearing about this?
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=207)** Now all big data projects are going to follow the same set of steps.
 >
-> **[3:31](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=211)** It doesn't matter whether we are a banking industry executive, an insurance executive, a manufacturing firm executive, or someone else all together, all big data projects, all business intelligence projects are following the same set of steps.
+> **[3:31](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=211)** It doesn't matter whether we are a [[Banking]] industry executive, an insurance executive, a manufacturing firm executive, or someone else all together, all big data projects, all business intelligence projects are following the same set of steps.
 >
 > **[3:45](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980&t=225)** Jack and Diane are in very different industries, but they're going to follow the same four steps.
 >
@@ -197,19 +195,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Big Data]] (9), business (8), [[Decision-Making]] (2), [[Business Intelligence (BI)|Business intelligence]] (2)
+> **Frameworks & Libraries:** [[Big Data]] (9), [[Decision-Making]] (2), [[Business Intelligence (BI)|Business intelligence]] (2), [[Banking]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business intelligence and company financials
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980)
+#### [Business intelligence and company financials](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=0)** - [Instructor] What is business intelligence?
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=0)** - [Instructor] What is [[Business Intelligence (BI)|business intelligence]]?
 >
 > **[0:03](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=3)** You've probably heard the term, but what exactly does it mean when we're talking about business intelligence?
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=186)** Instead, you're making an objective choice based on the best available information that's out there.
 >
-> **[3:12](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=192)** In fact, business intelligence has been shown in various studies to improve forecasting for the business.
+> **[3:12](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=192)** In fact, business intelligence has been shown in various studies to improve [[Forecasting]] for the business.
 >
 > **[3:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=199)** That improved forecasting is a key advantage for all firms out there.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=224)** If our highest paid person takes another job or decides they're going to leave the company for whatever reason, that creates a business continuity problem.
 >
-> **[3:53](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=233)** If instead, our decisions are based on objective decision-making using business intelligence, we reduce that risk.
+> **[3:53](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=233)** If instead, our decisions are based on objective [[Decision-Making]] using business intelligence, we reduce that risk.
 >
 > **[4:01](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/business-intelligence-and-company-financials-14242859?u=76281980&t=241)** And then finally, as you might imagine, business intelligence reduces subjectivity.
 >
@@ -313,21 +310,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (22), data (13), business (8), [[Forecasting]] (3), bi (2)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (22), [[Forecasting]] (3), [[Decision-Making]] (1)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Analogies:** for example (1), imagine (1), picture (1)
 > **Env Vars:** hppo (2)
 > **Speakers:** - [instructor] (1)
 
-#### Conventional financial forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980)
+#### [Conventional financial forecasting](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=0)** - [Instructor] Now that you have a handle on the basics of financial statements and how they work for a business, let's take a look at how practical financial forecasting works on a basic level.
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=0)** - [Instructor] Now that you have a handle on the basics of [[Financial Statements]] and how they work for a business, let's take a look at how practical [[Financial Forecasting]] works on a basic level.
 >
-> **[0:10](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=10)** I'm in the 01_03_Begin Excel sheet.
+> **[0:10](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=10)** I'm in the 01_03_Begin [[Microsoft Excel|Excel]] sheet.
 >
 > **[0:14](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=14)** Now what we have here is a very simple income statement along with a basic balance sheet consisting of our asset section and our liabilities and equity section.
 >
@@ -385,11 +381,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=224)** Now you should have a handle on how you can go through and do this type of basic financial forecasting.
 >
-> **[3:49](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=229)** Try doing some of this in the rest of this sheet or using some financials from your firm on your own and see how you make out.
+> **[3:49](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/conventional-financial-forecasting-14239803?u=76281980&t=229)** Try doing some of this in the [[Representational State Transfer (REST)|rest]] of this sheet or using some financials from your firm on your own and see how you make out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Forecasting]] (6), business (3), [[Financial Statements]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Financial Forecasting]] (6), [[Financial Statements]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cagr (1)
@@ -397,8 +393,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basics of financial regression analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/basics-of-financial-regression-analysis-14236972?u=76281980)
+#### [Basics of financial regression analysis](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/basics-of-financial-regression-analysis-14236972?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +485,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (6), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), is called (1), refers to (1), is an  (1)
 > **Analogies:** for example (2), picture (2)
@@ -498,8 +492,7 @@ created: 2026-05-02
 > **Versions:** 1.57 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predict values with regression analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/predict-values-with-regression-analysis-14239802?u=76281980)
+#### [Predict values with regression analysis](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/predict-values-with-regression-analysis-14239802?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,15 +550,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.57 (2), 5.436 (1), 30.3 (1), 0.3030 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Doing a forecast in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980)
+#### [Doing a forecast in Excel](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=20)** Let's take a look at an example.
 >
-> **[0:21](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=21)** I'm in the 0106 begin Excel file.
+> **[0:21](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=21)** I'm in the 0106 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:25](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=25)** Now what I've got here is just a basic set of data.
 >
@@ -589,13 +580,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=40)** And at the end of our data set, 240 days later, it's up to 453.89.
 >
-> **[0:46](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=46)** Now we've also got information that we might use for forecasting our sales.
+> **[0:46](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=46)** Now we've also got information that we might use for [[Forecasting]] our sales.
 >
 > **[0:52](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=52)** We've got our spending on digital marketing, and our spending on conventional marketing.
 >
 > **[0:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=57)** And this would also be on a daily basis.
 >
-> **[0:59](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=59)** So this might be for instance, our daily budget on Google, or our daily expenditures on Google.
+> **[0:59](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=59)** So this might be for instance, our daily budget on [[Google]], or our daily expenditures on Google.
 >
 > **[1:05](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/doing-a-forecast-in-excel-14236977?u=76281980&t=65)** And conventional marketing spend might be something like how much money we spent on local print advertising or something like that.
 >
@@ -693,7 +684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), [[Google]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Google]] (2), [[Forecasting]] (1)
 > **Versions:** 107.26 (1), 453.89 (1), 1.77 (1), 3.82 (1), 235.18 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -707,12 +698,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial forecasting applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980)
+#### [Financial forecasting applications](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=0)** - [Instructor] What is financial forecasting?
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=0)** - [Instructor] What is [[Financial Forecasting]]?
 >
 > **[0:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=2)** Financial forecasting, broadly defined, can mean predicting any outcome of interest in business.
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=11)** You're probably most familiar with the concept of financial forecasting as it relates to profits at a firm or sales at a firm.
 >
-> **[0:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=19)** But the reality is that businesses that embrace forecasting can use a variety of data to predict many useful but unconventional metrics using forecasting.
+> **[0:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=19)** But the reality is that businesses that embrace [[Forecasting]] can use a variety of data to predict many useful but unconventional metrics using forecasting.
 >
 > **[0:31](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=31)** There are a few things that are holding back business though when it comes to this type of forecasting.
 >
@@ -730,7 +720,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=67)** Similarly, perhaps if they have the data, they're missing people who understand how to make these kinds of forecasts.
 >
-> **[1:14](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=74)** These two key factors are a big issue that drives a lot of the opportunity in the white space that's still available in the future in business intelligence and big data.
+> **[1:14](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=74)** These two key factors are a big issue that drives a lot of the opportunity in the white space that's still available in the future in [[Business Intelligence (BI)|business intelligence]] and [[Big Data]].
 >
 > **[1:26](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=86)** Recall, we had two friends that we talked about previously, Jack and Diane.
 >
@@ -744,7 +734,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=112)** And as a result, they've had a hard time building out future income statements and balance sheets.
 >
-> **[1:58](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=118)** Diane on the other hand works for a software company and she's interested in figuring out the optimal price for products that software company offers.
+> **[1:58](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=118)** Diane on the other hand works for a software company and she's interested in figuring out the optimal price for [[Microsoft Products|products]] that software company offers.
 >
 > **[2:07](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=127)** Currently, the software company is charging everyone the same price for using their software.
 >
@@ -776,29 +766,28 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=190)** When we send out coupons for a particular customer, how do we know that that's the right coupon for that customer?
 >
-> **[3:16](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=196)** And then finally, we think about something like locating different facilities such as a store or an office.
+> **[3:16](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=196)** And then finally, we think about something like locating different facilities such as a store or an [[Microsoft Office|office]].
 >
 > **[3:23](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980&t=203)** How do we know that we've got that store or office in the right place?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Forecasting]] (4), [[Financial Forecasting]] (3), [[Big Data]] (3), business (2)
+> **Frameworks & Libraries:** [[Forecasting]] (4), [[Financial Forecasting]] (3), [[Big Data]] (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Microsoft Office|Office]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** we talked about (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using data in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980)
+#### [Using data in Excel](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=0)** - [Instructor] Using regressions and other more advanced financial forecasting techniques does not preclude us from using simplistic methods, like a percent of sales forecast.
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=0)** - [Instructor] Using regressions and other more advanced [[Financial Forecasting]] techniques does not preclude us from using simplistic methods, like a percent of sales forecast.
 >
 > **[0:11](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=11)** Let's take a look at an example.
 >
-> **[0:12](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=12)** I'm in the 0202 begin Excel file.
+> **[0:12](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=12)** I'm in the 0202 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:16](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=16)** Now what I'm going to do here is go through and build a percent of sales forecast based on a sales CAGR, assumptions about cost inflation, depreciation, amortization, inflation, the debt cost of capital, the tax rate, and the assumed interest rate.
 >
@@ -868,13 +857,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=250)** And we get back to kind of where we were before.
 >
-> **[4:13](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=253)** Regardless, at this point, now you can see how you can tie together more sophisticated methods like the regression, which we've talked about previously, with basic methods, like percent of sales forecasting.
+> **[4:13](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=253)** Regardless, at this point, now you can see how you can tie together more sophisticated methods like the regression, which we've talked about previously, with basic methods, like percent of sales [[Forecasting]].
 >
 > **[4:26](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-data-in-excel-14243264?u=76281980&t=266)** Try this on your own and see how you make out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Financial Forecasting]] (1), [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Financial Forecasting]] (1), [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1)
 > **Env Vars:** cagr (3), eps (3)
 > **Versions:** 7.33 (3), 1.70 (1)
 > **CLI Commands:** make (1)
@@ -882,8 +871,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision-making with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decision-making-with-data-14236974?u=76281980)
+#### [Decision-making with data](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decision-making-with-data-14236974?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decision-making-with-data-14236974?u=76281980&t=9)** Let's look at an example.
 >
-> **[0:11](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decision-making-with-data-14236974?u=76281980&t=11)** I'm in the 0203 begin Excel file.
+> **[0:11](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decision-making-with-data-14236974?u=76281980&t=11)** I'm in the 0203 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decision-making-with-data-14236974?u=76281980&t=15)** So we have here is a relatively simple forecast for a firm based on a growth rate over time.
 >
@@ -1015,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -1026,12 +1014,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decide on a finance question
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980)
+#### [Decide on a finance question](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=0)** - [Instructor] Business intelligence is useful for making a wide variety of forecasts and helping businesses to be more efficient in running their operations, but not all questions can be answered by data realistically.
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=0)** - [Instructor] [[Business Intelligence (BI)|Business intelligence]] is useful for making a wide variety of forecasts and helping businesses to be more efficient in running their operations, but not all questions can be answered by data realistically.
 >
 > **[0:12](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=12)** Some questions are inherently subjective and don't require data to come up with an answer.
 >
@@ -1045,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=40)** We refer to this as omitted variables bias.
 >
-> **[0:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=44)** In particular, if we think about questions on forecasting sales, for example, if we're in a totally new environment and we've never seen any environment like this before, it's very difficult to gather data.
+> **[0:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=44)** In particular, if we think about questions on [[Forecasting]] sales, for example, if we're in a totally new environment and we've never seen any environment like this before, it's very difficult to gather data.
 >
 > **[0:58](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980&t=58)** If our company has expanded internationally for the first time selling a completely new product, we won't have any data available that can help us with making forecasts on sales.
 >
@@ -1093,13 +1080,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), product (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[Forecasting]] (1), next (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Gather financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980)
+#### [Gather financial data](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=2)** We're going to forecast a key variable that our company has never thought about before.
 >
-> **[0:08](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=8)** Now we need to gather the data that's going to let us do that forecasting.
+> **[0:08](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=8)** Now we need to gather the data that's going to let us do that [[Forecasting]].
 >
 > **[0:12](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=12)** The reality is that your firm, and all businesses out there, have access to lots of data.
 >
@@ -1131,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=54)** There's lots of data vendors out there that will sell you data.
 >
-> **[0:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=57)** Just do a Google search and you'll find many of them.
+> **[0:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=57)** Just do a [[Google]] search and you'll find many of them.
 >
 > **[0:59](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=59)** I can't really talk about the proprietary data that you'll have available.
 >
@@ -1155,11 +1141,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=112)** There's a number of major public sources of data that are available.
 >
-> **[1:56](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=116)** The Bureau of Labor Statistics, the Federal Reserve, and the US Census Bureau, for example.
+> **[1:56](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=116)** The Bureau of Labor [[Statistics]], the Federal Reserve, and the US Census Bureau, for example.
 >
 > **[2:01](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=121)** Google Trends is also great for survey data.
 >
-> **[2:04](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=124)** And further, in today's day and age with Facebook, and LinkedIn, and a variety of other tools out there, you can actually gather customer comments and social media data online, although this can require textual analysis in some cases.
+> **[2:04](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=124)** And further, in today's day and age with Facebook, and [[LinkedIn]], and a variety of other tools out there, you can actually gather customer comments and social media data online, although this can require textual analysis in some cases.
 >
 > **[2:18](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=138)** Let's take a look at how we could gather data from, say, the US Census Bureau, though.
 >
@@ -1171,7 +1157,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=174)** This is the DataFerrett website.
 >
-> **[2:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=177)** We can get started using DataFerrett by unblocking our pop-up windows.
+> **[2:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=177)** We can get started using DataFerrett by unblocking our pop-up [[Windows]].
 >
 > **[3:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=182)** Once we do that, we have a variety of different datasets that are available to us.
 >
@@ -1201,9 +1187,9 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=285)** Now, if you need specific data, buying it might realistically be the only option.
 >
-> **[4:49](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=289)** For example, financial data is often available online, say price to earnings ratios for various companies, or earnings reports.
+> **[4:49](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=289)** For example, [[Financial Data]] is often available online, say price to earnings ratios for various companies, or earnings reports.
 >
-> **[4:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=297)** But in order to gather it en masse, you're typically going to need a Python script.
+> **[4:57](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=297)** But in order to gather it en masse, you're typically going to need a [[Python (Programming Language)|Python]] script.
 >
 > **[5:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=302)** And so buying that kind of data is usually the most realistic option.
 >
@@ -1211,13 +1197,13 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=311)** The most interesting questions for a company can be answered using their own proprietary data.
 >
-> **[5:17](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=317)** You want to look at opportunities to tap customer databases that you have, and potentially develop in-house methods of collecting additional data.
+> **[5:17](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=317)** You want to look at opportunities to tap customer [[Databases]] that you have, and potentially develop in-house methods of collecting additional data.
 >
 > **[5:25](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=325)** Even think about surveying your customers.
 >
 > **[5:27](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=327)** That can be a great option, too.
 >
-> **[5:29](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=329)** For example, I recently worked on a survey with an investment banking group.
+> **[5:29](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=329)** For example, I recently worked on a survey with an investment [[Banking]] group.
 >
 > **[5:35](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=335)** They were trying to predict the characteristics of particular customers that let them win deals.
 >
@@ -1233,7 +1219,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=373)** The key you have to remember with any of these kinds of surveys is what's called survey data bias.
 >
-> **[6:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=379)** In particular, if you're trying to figure out how to sell to other customers, and you're surveying your own customers, you have to ask yourself: "Are my own customers representative of the rest of the world?
+> **[6:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=379)** In particular, if you're trying to figure out how to sell to other customers, and you're surveying your own customers, you have to ask yourself: "Are my own customers representative of the [[Representational State Transfer (REST)|rest]] of the world?
 >
 > **[6:31](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/gather-financial-data-14236973?u=76281980&t=391)** Or am I gathering data on the people that already like me, and maybe I'm missing out on the factors that caused other people to not be willing to do business with me."
 >
@@ -1241,14 +1227,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Google]] (3), [[Search]] (2), [[Statistics]] (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Statistics]] (2), [[Forecasting]] (1), [[LinkedIn]] (1), [[Windows]] (1)
 > **Analogies:** for example (7), for instance (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Clean financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/clean-financial-data-14242860?u=76281980)
+#### [Clean financial data](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/clean-financial-data-14242860?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1407,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (48), next (1), database (1), product (1), feature (1)
 > **Analogies:** for example (12), for instance (1)
 > **Env Vars:** sic (3), naics (2), gdp (1), zip (1)
 > **CLI Commands:** find (1)
@@ -1434,8 +1418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applied forecasting with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980)
+#### [Applied forecasting with data](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1443,7 +1426,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=2)** Jack has just discovered some suspicious cash shortages at a company outlet store.
 >
-> **[0:07](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=7)** He was in the process of beginning his sales forecasting when he discovered we've got some missing cash.
+> **[0:07](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=7)** He was in the process of beginning his sales [[Forecasting]] when he discovered we've got some missing cash.
 >
 > **[0:14](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=14)** In fact, theft and cash handling are major issues at many firms, so Jack is not alone here.
 >
@@ -1489,11 +1472,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=199)** To figure out the answer to this question, we need a regression analysis.
 >
-> **[3:25](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=205)** In order to run a regression analysis in Excel, we're going to need to go through and we're going to need to download what's called the Analysis ToolPak.
+> **[3:25](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=205)** In order to run a regression analysis in [[Microsoft Excel|Excel]], we're going to need to go through and we're going to need to download what's called the Analysis ToolPak.
 >
 > **[3:32](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=212)** This is a special addition or add-on to Excel that'll let us do some very creative and useful analysis.
 >
-> **[3:41](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=221)** So I'm going to use Google.
+> **[3:41](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=221)** So I'm going to use [[Google]].
 >
 > **[3:43](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=223)** I'm going to type in Analysis ToolPak, and I'm looking for this from Excel.
 >
@@ -1581,7 +1564,7 @@ created: 2026-05-02
 >
 > **[8:22](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=502)** Rather than thinking about this in a negative context like shrinkages or theft, for example, we could think about this as the opposite.
 >
-> **[8:30](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=510)** Perhaps we've got particular employees who help customers and upsell them on new products.
+> **[8:30](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=510)** Perhaps we've got particular employees who help customers and upsell them on new [[Microsoft Products|products]].
 >
 > **[8:36](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980&t=516)** We could run a similar analysis that would tell us which employees were most effective at promoting new sales or helping us to grow our revenue.
 >
@@ -1589,7 +1572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (4), [[Forecasting]] (1), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Forecasting]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), in other words (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (3)
@@ -1598,14 +1581,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Regressions for forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980)
+#### [Regressions for forecasting](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=0)** - [Instructor] Once we've gone through, figured out what our question is, gathered our data, cleaned it up, and run our analysis, then we're ready to test our options.
 >
-> **[0:10](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=10)** Now the reality is that big data today is generally used for monitoring and identifying problems.
+> **[0:10](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=10)** Now the reality is that [[Big Data]] today is generally used for monitoring and identifying problems.
 >
 > **[0:16](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=16)** And the reality is that that's great, but it's really not fully capturing the power that data has.
 >
@@ -1627,13 +1609,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=71)** So when it comes to making decisions based on data, data can be the basis for objective choices.
 >
-> **[1:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=79)** Whether it's making choices like how much marketing spend should we use or forecasting investment returns on a particular project or pricing optimizations or resource allocations, all of these types of questions are best going to be answered with data.
+> **[1:19](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=79)** Whether it's making choices like how much marketing spend should we use or [[Forecasting]] investment returns on a particular project or pricing optimizations or resource allocations, all of these types of questions are best going to be answered with data.
 >
 > **[1:35](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=95)** Once we have gathered the appropriate data, we need to test our choices based on the data that we have.
 >
 > **[1:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=104)** Data forecasting doesn't have to be hard.
 >
-> **[1:47](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=107)** As we've seen already, we can start with Excel and we can run some kind of a regression analysis.
+> **[1:47](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=107)** As we've seen already, we can start with [[Microsoft Excel|Excel]] and we can run some kind of a regression analysis.
 >
 > **[1:53](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/regressions-for-forecasting-14236979?u=76281980&t=113)** For example, we could regress sales on our other variables, or we could regress cash holdings at the end of the day on the employees who are working.
 >
@@ -1647,15 +1629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (2), [[Forecasting]] (2), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** coming up (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Excel for regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-excel-for-regressions-14242855?u=76281980)
+#### [Using Excel for regressions](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-excel-for-regressions-14242855?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,11 +1716,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-excel-for-regressions-14242855?u=76281980&t=243)** This is a very powerful tool that you can use in a variety of circumstances.
 >
-> **[4:09](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-excel-for-regressions-14242855?u=76281980&t=249)** Next time, we'll take a look at how we can use this type of analysis in forecasting.
+> **[4:09](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/using-excel-for-regressions-14242855?u=76281980&t=249)** Next time, we'll take a look at how we can use this type of analysis in [[Forecasting]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Versions:** 10.10 (2), 7.403 (1), 1.74 (1), 6.66 (1), 2.52 (1)
 > **Definitions:** in other words (2), is called (1), is a  (1)
 > **UI Navigation:** drag and drop (1)
@@ -1752,14 +1733,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What do the results mean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980)
+#### [What do the results mean?](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=0)** - [Instructor] Jack and Diane are back!
 >
-> **[0:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=2)** Jack and Diane have been following along with us, learning about financial forecasting as we have.
+> **[0:02](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=2)** Jack and Diane have been following along with us, learning about [[Financial Forecasting]] as we have.
 >
 > **[0:08](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=8)** Now they're ready to put what they've learned into practice.
 >
@@ -1771,9 +1751,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=37)** This dataset has almost 400,000 rows of data, and roughly a dozen different variables.
 >
-> **[0:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=44)** This is essentially all of the data that Excel can handle.
+> **[0:44](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=44)** This is essentially all of the data that [[Microsoft Excel|Excel]] can handle.
 >
-> **[0:47](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=47)** If you have any more data than this, you'll probably need to move to a professional software package, something like SAS, or Stata, or R.
+> **[0:47](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=47)** If you have any more data than this, you'll probably need to move to a professional software package, something like SAS, or [[Stata]], or R.
 >
 > **[0:56](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=56)** I've certainly done projects using those kinds of software, and your company perhaps has enough data that it might make sense to invest in that type of software.
 >
@@ -1853,7 +1833,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=269)** We're able to explain 45% of the variation in our data based on these set of variables that we've constructed.
 >
-> **[4:39](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=279)** That's not a bad regression, especially in a corporate finance setting.
+> **[4:39](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=279)** That's not a bad regression, especially in a [[Corporate Finance]] setting.
 >
 > **[4:42](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980&t=282)** We're using roughly 400,000 different observations across a variety of firms.
 >
@@ -1877,7 +1857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (2), [[Financial Forecasting]] (1), [[Stata]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Forecasting]] (1), [[Stata]] (1), [[Corporate Finance]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sas (1), nps (1), hhi (1)
@@ -1885,8 +1865,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Confidence intervals around the result
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/confidence-intervals-around-the-result-14236971?u=76281980)
+#### [Confidence intervals around the result](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/confidence-intervals-around-the-result-14236971?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2020,15 +1999,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), product (2)
 > **Versions:** 0.295 (1), 0.299 (1), 29.5 (1), 29.9 (1), 29.7 (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** hhi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stress testing the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/stress-testing-the-results-14238776?u=76281980)
+#### [Stress testing the results](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/stress-testing-the-results-14238776?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,7 +2063,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **Versions:** 751.5 (2), 816.8 (2), 808.34 (2), 825.3 (2), 751.53 (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nps (1)
@@ -2098,16 +2074,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your financial forecasting learning path
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980)
+#### [Continuing your financial forecasting learning path](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980&t=0)** - [Michael] In this course, we've talked about what business intelligence is and the role that it plays in business analytics.
+> **[0:00](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980&t=0)** - [Michael] In this course, we've talked about what [[Business Intelligence (BI)|business intelligence]] is and the role that it plays in [[Business Analytics]].
 >
 > **[0:08](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980&t=8)** We've explained how to use regression analysis to make forecasts of key performance indicators based on hard data.
 >
-> **[0:15](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980&t=15)** We've outlined the steps involved in a business forecasting project from choosing a question to gathering data, to running a regression, to stress testing our results.
+> **[0:15](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980&t=15)** We've outlined the steps involved in a business [[Forecasting]] project from choosing a question to gathering data, to running a regression, to stress testing our results.
 >
 > **[0:25](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980&t=25)** And we've performed several examples of real world business forecasting based on actual data from companies just like yours.
 >
@@ -2131,7 +2106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), [[Analytics]] (2), [[Forecasting]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (2), [[Forecasting]] (2), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [michael] (1)

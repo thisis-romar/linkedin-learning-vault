@@ -103,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making the transition to a career in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980)
+#### [Making the transition to a career in cybersecurity](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980&t=0)** - Cybersecurity is one of the most in demand career fields, with thousands of job vacancies waiting to be filled, now is a great time to consider a career transition to help fill this massive need.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980&t=0)** - [[Cybersecurity]] is one of the most in demand career fields, with thousands of job vacancies waiting to be filled, now is a great time to consider a career transition to help fill this massive need.
 >
 > **[0:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980&t=11)** Hi, my name is Marc Menninger, and I've been a cybersecurity expert for over 20 years.
 >
@@ -122,17 +121,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), [[Cybersecurity]] (5)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - cybersecurity (1)
 
-#### Why transition to cybersecurity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/why-transition-to-cybersecurity?u=76281980)
+#### [Why transition to cybersecurity?](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/why-transition-to-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/why-transition-to-cybersecurity?u=76281980&t=0)** - [Instructor] Why make the leap to cybersecurity?
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/why-transition-to-cybersecurity?u=76281980&t=0)** - [Instructor] Why make the leap to [[Cybersecurity]]?
 >
 > **[0:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/why-transition-to-cybersecurity?u=76281980&t=3)** Here are three good reasons.
 >
@@ -160,17 +158,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (12), career (6), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (12)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Maximizing your earning potential in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980)
+#### [Maximizing your earning potential in cybersecurity](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=0)** - Cybersecurity professionals command competitive salaries because their skills are in such high demand.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=0)** - [[Cybersecurity]] professionals command competitive salaries because their skills are in such high demand.
 >
 > **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=5)** You can boost your income even more by continuing to develop your skills throughout your career journey.
 >
@@ -178,15 +175,15 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=17)** Most cybersecurity professionals hold one or more certifications, and many cybersecurity job descriptions require certifications as a prerequisite.
 >
-> **[0:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=25)** I cover getting certifications in detail in other videos, but for now, just know that getting certified in high-demand areas like cloud security can help ramp up your earning potential.
+> **[0:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=25)** I cover getting certifications in detail in other videos, but for now, just know that getting certified in high-demand areas like [[Cloud Security]] can help ramp up your earning potential.
 >
-> **[0:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=37)** While technical skills are essential in cybersecurity, balancing your technical knowledge with soft skills can not only help you stand out, but it can boost your salary.
+> **[0:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=37)** While technical skills are essential in cybersecurity, balancing your technical knowledge with [[Soft Skills]] can not only help you stand out, but it can boost your salary.
 >
 > **[0:47](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=47)** For instance, a cybersecurity sales engineer with both strong technical and interpersonal skills can make a salary that compares to the salaries of cybersecurity managers.
 >
 > **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=57)** I'll cover more about soft skills in another video in this course.
 >
-> **[1:02](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=62)** Finally, strategize your career development.
+> **[1:02](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=62)** Finally, strategize your [[Career Development]].
 >
 > **[1:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/maximizing-your-earning-potential-in-cybersecurity?u=76281980&t=65)** The better you plan your career by focusing on hot security skills and gaining practical experience, the more likely it will reflect in a higher paycheck.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), career (3), [[Security]] (2), [[Soft Skills]] (2), [[Career Development]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Soft Skills]] (2), [[Career Development]] (2), [[Cloud Security]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** prerequisite (1)
@@ -207,12 +204,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage your current advantages
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980)
+#### [Leverage your current advantages](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=0)** - [Narrator] Do you want to transition to a cybersecurity career?
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=0)** - [Narrator] Do you want to transition to a [[Cybersecurity]] career?
 >
 > **[0:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=3)** Believe it or not, your current job, even if it's not in IT or security, can give you some solid advantages.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=58)** If you're planning on changing careers, make sure you gather current recommendations from people you've worked with.
 >
-> **[1:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=64)** A great way to do this is by collecting LinkedIn recommendations.
+> **[1:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=64)** A great way to do this is by collecting [[LinkedIn]] recommendations.
 >
 > **[1:07](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980&t=67)** Here's how.
 >
@@ -258,17 +254,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), career (4), [[Security]] (4), [[LinkedIn]] (1), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cybersecurity soft skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980)
+#### [Cybersecurity soft skills](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=0)** - [Instructor] Here's a short personality quiz to see if a cybersecurity career might be a good fit for you.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=0)** - [Instructor] Here's a short personality quiz to see if a [[Cybersecurity]] career might be a good fit for you.
 >
 > **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=5)** Do you often spot small mistakes that others overlook?
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=21)** If it rains during your outdoor event, would you quickly switch to an indoor activity without any fuss?
 >
-> **[0:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=28)** If you answered all of these with yes, then you likely have the soft skills employers look for when hiring cybersecurity professionals.
+> **[0:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=28)** If you answered all of these with yes, then you likely have the [[Soft Skills]] employers look for when hiring cybersecurity professionals.
 >
 > **[0:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=35)** But what are these soft skills and why are they essential to cybersecurity?
 >
@@ -306,9 +301,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=98)** An ethical mindset.
 >
-> **[1:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=99)** You'll have access to confidential and sensitive information and be entrusted to treat this information responsibly and protect its privacy.
+> **[1:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=99)** You'll have access to confidential and sensitive information and be entrusted to treat this information responsibly and protect its [[Privacy]].
 >
-> **[1:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=108)** As a cybersecurity professional, you'll be expected to have a strong set of ethics and a moral code.
+> **[1:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=108)** As a cybersecurity professional, you'll be expected to have a strong set of [[Ethics]] and a moral code.
 >
 > **[1:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-soft-skills?u=76281980&t=114)** Finally, adaptability.
 >
@@ -328,18 +323,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Soft Skills]] (3), [[Security]] (3), career (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (13), [[Soft Skills]] (3), [[Privacy]] (1), [[Ethics]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing your first cybersecurity job
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980)
+#### [Choosing your first cybersecurity job](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=0)** - [Instructor] When choosing your first cybersecurity job, the possibilities may seem overwhelming.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=0)** - [Instructor] When choosing your first [[Cybersecurity]] job, the possibilities may seem overwhelming.
 >
 > **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=5)** The good news is whether you have strong interpersonal skills or you're a tech expert, there's probably a cybersecurity job that fits your abilities and interests.
 >
@@ -349,11 +343,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=19)** If you enjoy engaging with people, you might be great in security training or sales.
 >
-> **[0:24](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=24)** Leveraging your people skills could also pave the path toward leadership roles such as security director or chief Information Security Officer, which heavily emphasize collaboration and relationship building.
+> **[0:24](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=24)** Leveraging your people skills could also pave the path toward leadership roles such as security director or chief Information Security Officer, which heavily emphasize collaboration and [[Relationship Building]].
 >
-> **[0:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=35)** Do you have strong technical skills such as knowledge of network protocols or competence in operating systems, like Windows, Linux and Mac OS?
+> **[0:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=35)** Do you have strong technical skills such as knowledge of network protocols or competence in operating systems, like [[Windows]], [[Linux]] and Mac OS?
 >
-> **[0:44](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=44)** If so, consider entry-level cybersecurity positions such as a security operations center analyst, IT support specialist, or junior systems administrator.
+> **[0:44](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=44)** If so, consider entry-level cybersecurity positions such as a [[Security Operations]] center analyst, IT support specialist, or junior systems administrator.
 >
 > **[0:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=54)** These roles are ideal for applying your technical expertise to keep data and systems secure.
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=78)** There are plenty of legit ways to make a living if your true love is hacking and if you know how to code, your skills are in high demand.
 >
-> **[1:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=86)** You could be an application security analyst or junior DevSecOps engineer, ensuring software is built securely from the ground up.
+> **[1:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=86)** You could be an [[Application Security]] analyst or junior [[DevSecOps]] engineer, ensuring software is built securely from the ground up.
 >
 > **[1:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/choosing-your-first-cybersecurity-job?u=76281980&t=94)** If you're not sure what your skills or passions are, you can do a personal assessment to help figure that out.
 >
@@ -375,18 +369,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (6), leadership (1), [[Relationship Building]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Relationship Building]] (1), [[Windows]] (1), [[Linux]] (1), [[Security Operations]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Researching cybersecurity jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980)
+#### [Researching cybersecurity jobs](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=0)** - [Instructor] Cybersecurity job listings can be used as treasure maps guiding you to the skills, certifications, and experience required for your ideal job.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=0)** - [Instructor] [[Cybersecurity]] job listings can be used as treasure maps guiding you to the skills, certifications, and experience required for your ideal job.
 >
 > **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=8)** In this video, you'll learn how to become a job listing detective and create your job roadmap.
 >
@@ -422,7 +415,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=124)** You'll know what the interviewers are looking for and how you qualify.
 >
-> **[2:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=129)** In addition to what I've covered, researching cybersecurity job listings offers valuable information, including salary ranges, company culture insights, and awareness of industry trends, like the growing demand for cloud security experts.
+> **[2:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=129)** In addition to what I've covered, researching cybersecurity job listings offers valuable information, including salary ranges, company culture insights, and awareness of industry trends, like the growing demand for [[Cloud Security]] experts.
 >
 > **[2:24](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/researching-cybersecurity-jobs?u=76281980&t=144)** Using this method to build your job roadmap, you'll go from winging it to having a solid game plan.
 >
@@ -432,16 +425,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (2), [[Search]] (1), next (1), job description (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Cloud Security]] (1)
 > **Env Vars:** iso (1), cissp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity training options
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980)
+#### [Cybersecurity training options](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=0)** - [Instructor] Do you want a cybersecurity job, but have some skill gaps?
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=0)** - [Instructor] Do you want a [[Cybersecurity]] job, but have some skill gaps?
 >
 > **[0:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=4)** In this video, I'll cover many ways to get the training you need, including plenty of free options.
 >
@@ -453,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=37)** You can find a helpful listing of many MOOCs at [cyberdegrees.org](https://cyberdegrees.org).
 >
-> **[0:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=42)** Of course, one of the best places to come up to speed on many cybersecurity topics is LinkedIn learning.
+> **[0:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=42)** Of course, one of the best places to come up to speed on many cybersecurity topics is [[LinkedIn]] learning.
 >
 > **[0:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-training-options?u=76281980&t=48)** Hundreds of courses on practically every cybersecurity certification or skill are available, and can be taken based on your schedule.
 >
@@ -479,19 +471,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (12), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [cyberdegrees.org](https://cyberdegrees.org) (1)
 > **Env Vars:** soc (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity laws and regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980)
+#### [Cybersecurity laws and regulations](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=0)** - [Instructor] Transitioning to a career in cybersecurity requires understanding laws like HIPAA, GDPR, CCPA, and more.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=0)** - [Instructor] Transitioning to a career in [[Cybersecurity]] requires understanding laws like HIPAA, GDPR, CCPA, and more.
 >
 > **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=8)** Why are there so many laws related to cybersecurity?
 >
@@ -501,19 +492,19 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=28)** Let's take a look at some key laws and regulations that impact US companies and organizations.
 >
-> **[0:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=34)** HIPAA stands for Health Insurance Portability and Accountability Act.
+> **[0:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=34)** HIPAA stands for Health Insurance Portability and [[Accountability]] Act.
 >
 > **[0:38](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=38)** That might sound unrelated to cybersecurity, but HIPAA is all about keeping protected health information, or PHI, secure if you're working with healthcare data.
 >
-> **[0:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=49)** Federal Information Security Management Act, or FISMA, is a US law that defines how government agencies need to secure their data.
+> **[0:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=49)** Federal [[Information Security Management]] Act, or FISMA, is a US law that defines how government agencies need to secure their data.
 >
-> **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=57)** California Consumer Privacy Act, or CCPA, is a California law that gives consumers control over how companies use their data.
+> **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=57)** California Consumer [[Privacy]] Act, or CCPA, is a California law that gives consumers control over how companies use their data.
 >
 > **[1:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=66)** Make sure you're up on this law if your business operates there.
 >
-> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=70)** If you deal with credit card information, the Payment Card Industry Data Security Standard, or PCI DSS, is the standard you need to follow to prevent fraud and data breaches.
+> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=70)** If you deal with credit card information, the Payment Card Industry [[Data Security]] Standard, or PCI DSS, is the standard you need to follow to prevent fraud and data breaches.
 >
-> **[1:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=80)** There are also many global cybersecurity laws and regulations that you might encounter, including GDPR in the European Union, PIPEDA in Canada, Data Protection Act in the UK, and Personal Data Protection Act in Singapore.
+> **[1:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=80)** There are also many global cybersecurity laws and regulations that you might encounter, including GDPR in the European Union, PIPEDA in Canada, Data Protection Act in the UK, and [[Personal Data Protection]] Act in Singapore.
 >
 > **[1:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=96)** government agencies have issued multimillion dollar fines for cybersecurity law violations.
 >
@@ -533,7 +524,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=145)** Schedule regular audits to validate that your organization's security practices align with legal requirements.
 >
-> **[2:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=152)** And last, build an incident response plan.
+> **[2:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=152)** And last, build an [[Incident Response]] plan.
 >
 > **[2:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-laws-and-regulations?u=76281980&t=155)** If a cyber attack or data breach hits your organization, this is the plan you'll follow.
 >
@@ -547,20 +538,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (15), data (8), [[Security]] (3), [[Incident Response]] (2), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (15), [[Incident Response]] (2), [[Accountability]] (1), [[Information Security Management]] (1), [[Privacy]] (1)
 > **Env Vars:** hipaa (4), gdpr (2), ccpa (2), fisma (2), pci (2)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Industry trends and emerging technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980)
+#### [Industry trends and emerging technologies](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=0)** - Staying current with the latest developments and innovations is vital.
 >
-> **[0:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=4)** As technology advances, cybersecurity has to keep pace to protect your organization's data.
+> **[0:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=4)** As technology advances, [[Cybersecurity]] has to keep pace to protect your organization's data.
 >
 > **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=10)** In this video, I'll share insights into the latest cybersecurity industry trends and emerging technologies.
 >
@@ -568,15 +558,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=25)** This approach follows a never trust, always verify principle, which assumes nothing is trusted and requires verification before granting access to networks and systems.
 >
-> **[0:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=36)** Organizations are revamping authentication systems and networks to align with this strategy, making this an excellent trend to understand.
+> **[0:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=36)** Organizations are revamping [[Authentication Systems]] and networks to align with this strategy, making this an excellent trend to understand.
 >
-> **[0:44](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=44)** Another significant trend is DevSecOps, which combines development, security, and operations, integrating security into the software development lifecycle.
+> **[0:44](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=44)** Another significant trend is [[DevSecOps]], which combines development, security, and operations, integrating security into the [[Software Development]] lifecycle.
 >
 > **[0:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=54)** Traditionally, these functions operated separately, leading to applications riddled with vulnerabilities requiring expensive and time consuming fixes.
 >
 > **[1:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=63)** DevSecOps is a relatively new collaboration between developers, security experts, and operations teams, to build software that is secure by design.
 >
-> **[1:14](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=74)** The last cybersecurity trend I want to cover is supply chain security.
+> **[1:14](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=74)** The last cybersecurity trend I want to cover is [[Supply Chain Security]].
 >
 > **[1:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=78)** For a long time, focus has been placed on securing our own networks and systems.
 >
@@ -588,11 +578,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=102)** Let's explore technologies leading to an evolution in cybersecurity, starting with AI and machine learning.
 >
-> **[1:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=109)** Artificial intelligence raises concerns due to its use by attackers in creating deep fakes, which I cover in my Cybersecurity Threat Landscape course.
+> **[1:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=109)** [[Artificial Intelligence (AI)|Artificial intelligence]] raises concerns due to its use by attackers in creating deep fakes, which I cover in my Cybersecurity Threat Landscape course.
 >
 > **[1:58](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=118)** However, these technologies also offer benefits, helping cybersecurity professionals with threat detection, vulnerability management, and automating security processes.
 >
-> **[2:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=128)** Next, there is blockchain.
+> **[2:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=128)** Next, there is [[Blockchain]].
 >
 > **[2:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=129)** It's the foundation of cryptocurrencies like Bitcoin, using a secure digital ledger for recording transactions.
 >
@@ -600,13 +590,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=146)** Blockchain technology supports ultra secure systems for identity and access management, authentication, records access, and more.
 >
-> **[2:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=155)** Lastly, quantum computing also raises concerns among cybersecurity professionals.
+> **[2:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=155)** Lastly, [[Quantum Computing]] also raises concerns among cybersecurity professionals.
 >
-> **[2:40](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=160)** Quantum computers can break current cryptographic algorithms due to their exponential speed.
+> **[2:40](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=160)** Quantum computers can break current cryptographic [[Algorithms]] due to their exponential speed.
 >
 > **[2:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=165)** This threatens our current data encryption methods.
 >
-> **[2:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=168)** However, quantum computing may also lead to theoretically unhackable quantum cryptography.
+> **[2:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=168)** However, quantum computing may also lead to theoretically unhackable quantum [[Cryptography]].
 >
 > **[2:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/industry-trends-and-emerging-technologies?u=76281980&t=173)** Watch out for quantum computing, because its impact on cybersecurity could be significant.
 >
@@ -618,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Security]] (6), data (3), [[Quantum Computing]] (3), [[DevSecOps]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Quantum Computing]] (3), [[DevSecOps]] (2), [[Blockchain]] (2), [[Authentication Systems]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - staying (1)
@@ -628,12 +618,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing IT skills gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980)
+#### [Assessing IT skills gaps](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=0)** - [Instructor] Information technology is the foundation of cybersecurity and many IT skills are essential in this field.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=0)** - [Instructor] Information technology is the foundation of [[Cybersecurity]] and many IT skills are essential in this field.
 >
 > **[0:07](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=7)** If you have some IT experience, you likely have skills that will transfer over.
 >
@@ -645,29 +634,29 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=28)** These core skills include networking fundamentals.
 >
-> **[0:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=31)** You understand IP routing, VPNs, and subnets.
+> **[0:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=31)** You understand IP [[Routing]], VPNs, and subnets.
 >
 > **[0:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=34)** Risk assessment.
 >
 > **[0:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=36)** You know how to analyze systems to identify weak points.
 >
-> **[0:40](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=40)** Cryptography basics.
+> **[0:40](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=40)** [[Cryptography]] basics.
 >
 > **[0:41](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=41)** You understand encryption and secure data transmission.
 >
-> **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=45)** And system administration.
+> **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=45)** And [[System Administration]].
 >
 > **[0:46](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=46)** You know how to manage and maintain servers and systems.
 >
 > **[0:51](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=51)** Other IT skills are valuable in specialized cybersecurity roles.
 >
-> **[0:55](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=55)** If you have cloud computing skills, that can transfer to a cloud security analyst role.
+> **[0:55](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=55)** If you have [[Cloud Computing]] skills, that can transfer to a [[Cloud Security]] analyst role.
 >
 > **[1:01](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=61)** Programming skills are essential for security software developers and malware analysts.
 >
 > **[1:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=66)** Web technology skills are needed if you want to be a penetration tester.
 >
-> **[1:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=71)** And API management skills can help you become an API security analyst.
+> **[1:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=71)** And [[API Management]] skills can help you become an API security analyst.
 >
 > **[1:17](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=77)** In the handout for this video, you'll find a worksheet that lists 20 common IT skills.
 >
@@ -683,11 +672,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=108)** Prioritize the skills at the top of the sheet, such as networking fundamentals, risk assessment, and cryptography basics.
 >
-> **[1:56](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=116)** If you have a target cybersecurity role, like penetration tester, decide if you're strong enough in the skills needed, like programming, web technologies, and Linux or Unix administration.
+> **[1:56](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=116)** If you have a target cybersecurity role, like penetration tester, decide if you're strong enough in the skills needed, like programming, web technologies, and [[Linux]] or Unix administration.
 >
 > **[2:07](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=127)** Develop a training plan for each skill you know you need to improve.
 >
-> **[2:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=131)** Take advantage of resources like LinkedIn Learning, books, blogs, and webinars to get up to speed.
+> **[2:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=131)** Take advantage of resources like [[LinkedIn]] Learning, books, blogs, and webinars to get up to speed.
 >
 > **[2:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980&t=138)** Decide what you should brush up on to feel comfortable in areas that aren't your strengths.
 >
@@ -695,19 +684,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (3), [[Programming]] (3), [[Cryptography]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Cryptography]] (2), [[Routing]] (1), [[System Administration]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### IT jobs complementary to cybersecurity jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980)
+#### [IT jobs complementary to cybersecurity jobs](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=0)** - [Instructor] If you're in an IT role, you might be closer to a cybersecurity job than you think.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=0)** - [Instructor] If you're in an IT role, you might be closer to a [[Cybersecurity]] job than you think.
 >
 > **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=5)** Many IT jobs will help you build the baseline skills you need for a cybersecurity career.
 >
@@ -715,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=17)** Let's take a look at some of them.
 >
-> **[0:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=20)** Working on an IT Help desk builds key skills, including troubleshooting, problem solving, and verbal communication.
+> **[0:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=20)** Working on an [[IT Help Desk]] builds key skills, including troubleshooting, problem solving, and verbal communication.
 >
 > **[0:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=27)** As a security analyst, you would use these skills daily to help solve security problems and implement security solutions.
 >
@@ -725,19 +713,19 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=45)** The transition from IT help desk to security analyst is so straightforward that I've even hired an IT help desk technician to be a security analyst on my team.
 >
-> **[0:56](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=56)** A job in network operations demands technical skills, such as understanding network protocols, firewalls, and routing and switching.
+> **[0:56](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=56)** A job in network operations demands technical skills, such as understanding network protocols, firewalls, and [[Routing]] and switching.
 >
-> **[1:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=64)** These skills are essential for testing network security and finding vulnerabilities.
+> **[1:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=64)** These skills are essential for testing [[Network Security]] and finding vulnerabilities.
 >
 > **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=70)** That makes network operations a great launching pad for someone who wants to become a penetration tester.
 >
-> **[1:16](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=76)** If you're in network operations, you might need to pick up ethical hacking and scripting skills to transition to penetration testing successfully.
+> **[1:16](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=76)** If you're in network operations, you might need to pick up [[Ethical Hacking]] and scripting skills to transition to [[Penetration Testing]] successfully.
 >
-> **[1:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=85)** When you're a software developer, you apply programming skills like software design, implementation, and testing.
+> **[1:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=85)** When you're a software developer, you apply programming skills like [[Software Design]], implementation, and testing.
 >
-> **[1:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=92)** As an application security developer, you'll use your programming skills to integrate security into application software during its design and development stages.
+> **[1:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=92)** As an [[Application Security]] developer, you'll use your programming skills to integrate security into application software during its design and development stages.
 >
-> **[1:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=102)** Mastering secure coding practices is the critical building block to help you transition from software developer to application security developer.
+> **[1:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=102)** Mastering [[Secure Coding]] practices is the critical building block to help you transition from software developer to application security developer.
 >
 > **[1:51](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/it-jobs-complementary-to-cybersecurity-jobs?u=76281980&t=111)** Take a few minutes to download and review the handout that goes with this video.
 >
@@ -749,13 +737,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (5), [[IT Help Desk]] (3), application (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[IT Help Desk]] (3), [[Application Security]] (2), [[Routing]] (1), [[Network Security]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning security systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/learning-security-systems?u=76281980)
+#### [Learning security systems](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/learning-security-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,7 +778,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/learning-security-systems?u=76281980&t=87)** If your organization allows it and you have the correct permissions, study how the security systems are configured.
 >
-> **[1:33](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/learning-security-systems?u=76281980&t=93)** For instance, if you can access Windows Active Directory in your organization, look at how the security groups are set up.
+> **[1:33](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/learning-security-systems?u=76281980&t=93)** For instance, if you can access [[Windows]] [[Active Directory]] in your organization, look at how the security groups are set up.
 >
 > **[1:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/learning-security-systems?u=76281980&t=99)** Are they configured correctly?
 >
@@ -813,7 +800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[Windows]] (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Active Directory]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (1), for instance (1)
 > **Prerequisites:** set up (2)
@@ -821,12 +808,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shadowing cybersecurity pros
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/shadowing-cybersecurity-pros?u=76281980)
+#### [Shadowing cybersecurity pros](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/shadowing-cybersecurity-pros?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/shadowing-cybersecurity-pros?u=76281980&t=0)** - [Instructor] If you're looking to transition from an IT role to cybersecurity, one of the best resources for ramping up your skills could be the colleague sitting beside you.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/shadowing-cybersecurity-pros?u=76281980&t=0)** - [Instructor] If you're looking to transition from an IT role to [[Cybersecurity]], one of the best resources for ramping up your skills could be the colleague sitting beside you.
 >
 > **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/shadowing-cybersecurity-pros?u=76281980&t=10)** Learning from a cybersecurity colleague in your organization will help boost your skills faster and get practical hands-on experience with your organization's specific tools and systems.
 >
@@ -872,12 +858,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (6)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Earning cybersecurity certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980)
+#### [Earning cybersecurity certifications](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,7 +872,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=13)** Common ones include Security+ CISA, and CISSP.
 >
-> **[0:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=18)** In this video, I'll cover which certifications to consider if you want to transition to a cybersecurity career.
+> **[0:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=18)** In this video, I'll cover which certifications to consider if you want to transition to a [[Cybersecurity]] career.
 >
 > **[0:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=25)** It might seem unfair, but employers filter out candidates based on whether or not they have certain certifications.
 >
@@ -899,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=41)** If you're job hunting in cybersecurity, you've likely seen a line like this.
 >
-> **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=45)** Must hold certifications such as CISSP, CISA, CISM, OSCP, CEH or similar.
+> **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=45)** Must hold certifications such as CISSP, CISA, CISM, [[OSCP]], [[CEH]] or similar.
 >
 > **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=53)** This list of search shows that just about any cybersecurity certification can make you a good candidate for that job.
 >
@@ -921,7 +906,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=100)** For example, OSCP candidates must demonstrate their hacking skills to earn a certification.
 >
-> **[1:46](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=106)** Of course, cybersecurity certifications focus on security concepts like network protection, threat analysis, security governance, risk management, and penetration testing.
+> **[1:46](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=106)** Of course, cybersecurity certifications focus on security concepts like network protection, threat analysis, security governance, risk management, and [[Penetration Testing]].
 >
 > **[1:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=117)** Certifications are a great way to stand out to hiring managers and recruiters.
 >
@@ -933,7 +918,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=136)** Download the handout and begin exploring which cybersecurity certifications are best for you.
 >
-> **[2:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=142)** To dive deeper into this topic, consider taking my course, [[Cybersecurity Careers and Certifications]].
+> **[2:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=142)** To dive deeper into this topic, consider taking my course, [[[[Cybersecurity Careers]] and Certifications]].
 >
 > **[2:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/earning-cybersecurity-certifications?u=76281980&t=147)** In that course, I'll guide you through the nine most common cybersecurity jobs, their duties, qualifications, and which certifications are the best matches for the roles.
 >
@@ -941,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Security]] (7), [[Search]] (3), career (2), [[OSCP]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[OSCP]] (2), [[CEH]] (2), [[Penetration Testing]] (1), [[Cybersecurity Careers]] (1)
 > **Env Vars:** cisa (2), cissp (2), oscp (2), ceh (2), cism (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **CLI Commands:** find (2), make (1)
@@ -953,14 +938,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Studying IT basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980)
+#### [Studying IT basics](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=0)** - [Narrator] Nearly all cybersecurity roles require some basic IT knowledge.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=0)** - [Narrator] Nearly all [[Cybersecurity]] roles require some basic IT knowledge.
 >
-> **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=5)** I'll break down IT essentials into six broad categories, computer hardware and systems, operating systems, software and applications, networking and protocols, servers and cloud infrastructure and programming and scripting.
+> **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=5)** I'll break down IT essentials into six broad categories, computer [[Hardware]] and systems, operating systems, software and applications, networking and protocols, servers and [[Cloud Infrastructure]] and programming and scripting.
 >
 > **[0:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=21)** As I go through these areas, ask yourself how well you know them.
 >
@@ -974,13 +958,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=51)** A cybersecurity professional should have a fundamental understanding of these components and how they interact.
 >
-> **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=57)** A functional understanding of operating systems such as Windows, Linux and Mac OS is also essential.
+> **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=57)** A functional understanding of operating systems such as [[Windows]], [[Linux]] and Mac OS is also essential.
 >
 > **[1:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=63)** These operating systems can have vulnerabilities if not properly patched or configured.
 >
 > **[1:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=68)** Diving deeper into the operating system you already use and others is a good idea if you're considering a career in cybersecurity.
 >
-> **[1:15](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=75)** Software and applications cover a range of programs like word processors, spreadsheets and databases.
+> **[1:15](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=75)** Software and applications cover a range of programs like [[Microsoft Word|word]] processors, spreadsheets and [[Databases]].
 >
 > **[1:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=82)** While they're essential tools, they can also be sources of security risks.
 >
@@ -988,7 +972,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=93)** And like operating systems, many applications will need regular patches to stay secure.
 >
-> **[1:38](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=98)** To thrive in cybersecurity, you'll need a solid understanding of software and application security configurations and potential vulnerabilities.
+> **[1:38](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=98)** To thrive in cybersecurity, you'll need a solid understanding of software and [[Application Security]] configurations and potential vulnerabilities.
 >
 > **[1:47](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=107)** Networking and protocols include all the protocols and technologies behind computer networks, including LANs, WANs, wi-fi, TCP/IP, DNS, DHCP and more.
 >
@@ -996,13 +980,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=126)** I recommend prioritizing basic network concepts if you need to become more familiar with them.
 >
-> **[2:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=132)** Servers and cloud infrastructure include specialized systems such as Windows domain controllers, web servers and cloud platforms like Microsoft Azure and Amazon Web Services.
+> **[2:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=132)** Servers and cloud infrastructure include specialized systems such as Windows domain controllers, [[Web Servers]] and cloud platforms like [[Microsoft Azure]] and [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[2:23](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=143)** These are frequent targets for attackers due to their valuable data and access to other parts of the network.
 >
-> **[2:29](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=149)** A basic understanding of the roles and security implications of different server types and cloud services will be essential in your cybersecurity career.
+> **[2:29](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=149)** A basic understanding of the roles and security implications of different server types and [[Cloud Services]] will be essential in your cybersecurity career.
 >
-> **[2:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=157)** Programming and scripting involve understanding basic coding concepts such as variables and loops, and being familiar with popular languages like Python, JavaScript or PowerShell.
+> **[2:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=157)** Programming and scripting involve understanding basic coding concepts such as variables and loops, and being familiar with popular languages like [[Python (Programming Language)|Python]], [[JavaScript]] or [[Powershell]].
 >
 > **[2:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=168)** Scripts can be helpful or malicious.
 >
@@ -1012,13 +996,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=181)** If you know you have knowledge gaps in IT fundamentals, invest time educating yourself.
 >
-> **[3:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=186)** LinkedIn Learning offers courses on all of these topics.
+> **[3:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=186)** [[LinkedIn]] Learning offers courses on all of these topics.
 >
 > **[3:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980&t=190)** Identify your weakest area and start a course to bring yourself up to speed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), career (4), [[Security]] (4), data (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Hardware]] (2), [[Cloud Infrastructure]] (2), [[Windows]] (2), [[Linux]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** tcp (1), dns (1), dhcp (1)
 > **CLI Commands:** python (1), find (1)
@@ -1027,8 +1011,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Benefits of entry-level IT jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980)
+#### [Benefits of entry-level IT jobs](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,25 +1019,25 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=9)** Also with an IT job, you'll earn while you learn, which you won't get through self-study or formal education.
 >
-> **[0:15](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=15)** In this video, I'll discuss why you should think about starting your cybersecurity career with an entry-level IT job.
+> **[0:15](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=15)** In this video, I'll discuss why you should think about starting your [[Cybersecurity]] career with an entry-level IT job.
 >
 > **[0:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=22)** A help desk technician is an excellent entry-level role to gain skills and hands-on experience.
 >
-> **[0:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=28)** While it typically requires at least a year of prior IT experience, soft skills like good verbal communication, organization and time management are almost as essential.
+> **[0:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=28)** While it typically requires at least a year of prior IT experience, [[Soft Skills]] like good verbal communication, organization and time management are almost as essential.
 >
-> **[0:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=39)** You'll also acquire technical skills such as troubleshooting hardware and software issues, configuring and maintaining computer systems, and familiarity with operating systems.
+> **[0:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=39)** You'll also acquire technical skills such as troubleshooting [[Hardware]] and software issues, configuring and maintaining computer systems, and familiarity with operating systems.
 >
 > **[0:50](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=50)** This role exposes you to real world problems, driving you to learn new IT concepts you might not have learned otherwise.
 >
-> **[0:58](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=58)** You can find plenty of entry-level IT jobs by searching job sites like LinkedIn using the term "entry-level IT."
+> **[0:58](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=58)** You can find plenty of entry-level IT jobs by searching job sites like [[LinkedIn]] using the term "entry-level IT."
 >
 > **[1:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=65)** In addition to traditional jobs, you might come across IT internships, which are also entry-level opportunities, but they're usually reserved for people enrolled in a bachelor's or master's degree program.
 >
-> **[1:17](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=77)** A detailed job hunting and putting your best foot forward when interviewing in other videos in this course.
+> **[1:17](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=77)** A detailed job hunting and putting your best foot forward when [[Interviewing]] in other videos in this course.
 >
 > **[1:23](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=83)** If you can't find an entry-level job and still need IT experience, volunteering for organizations needing IT help can be a smart move.
 >
-> **[1:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=91)** Your help will be highly appreciated, and you'll gain valuable skills and hands-on experience such as assisting with network troubleshooting or setting up computer systems.
+> **[1:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=91)** Your help will be highly appreciated, and you'll gain valuable skills and hands-on experience such as assisting with [[Network Troubleshooting]] or setting up computer systems.
 >
 > **[1:41](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/benefits-of-entry-level-it-jobs?u=76281980&t=101)** If you're mid-career in another field, transferring to an entry-level IT job may mean a pay cut.
 >
@@ -1068,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), [[Cybersecurity]] (3), [[Soft Skills]] (1), management (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Soft Skills]] (1), [[Hardware]] (1), [[LinkedIn]] (1), [[Interviewing]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -1079,12 +1062,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Revising your resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980)
+#### [Revising your resume](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=0)** - [Instructor] Your resume is probably the first thing recruiters and hiring managers will see when considering you for a cybersecurity job.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=0)** - [Instructor] Your resume is probably the first thing recruiters and hiring managers will see when considering you for a [[Cybersecurity]] job.
 >
 > **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=8)** That's why making sure it leaves an excellent first impression is essential.
 >
@@ -1110,7 +1092,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=74)** The more your resume aligns with the job posting, the stronger it becomes.
 >
-> **[1:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=78)** For instance, if you want a security manager job, your resume should highlight examples of people management, collaboration, and leadership.
+> **[1:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=78)** For instance, if you want a security manager job, your resume should highlight examples of [[People Management]], collaboration, and leadership.
 >
 > **[1:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=87)** I recommend limiting your resume length to two pages maximum.
 >
@@ -1122,7 +1104,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=112)** Your resume is almost ready, except for the final step: keywords.
 >
-> **[1:56](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=116)** Just as websites benefit from including keywords for search engine optimization, incorporating keywords into your resume is vital for visibility on job sites.
+> **[1:56](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=116)** Just as websites benefit from including keywords for [[Search Engine Optimization (SEO)|search engine optimization]], incorporating keywords into your resume is vital for visibility on job sites.
 >
 > **[2:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980&t=126)** Include keywords such as your certifications, relevant security skills, and technologies you have experience with.
 >
@@ -1142,17 +1124,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (5), strengths (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[People Management]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Analogies:** imagine (1), for example (1), for instance (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating your LinkedIn profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980)
+#### [Updating your LinkedIn profile](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=0)** - [Marc] With nearly a billion users, LinkedIn is a primary tool for corporate recruiters to find cybersecurity job candidates.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=0)** - [Marc] With nearly a billion users, [[LinkedIn]] is a primary tool for corporate recruiters to find [[Cybersecurity]] job candidates.
 >
 > **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=8)** To increase your chances of being discovered by these recruiters, you must have a LinkedIn profile that stands out.
 >
@@ -1162,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=27)** It should also establish you as a valuable contributor in the cybersecurity field.
 >
-> **[0:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=32)** Did you know your LinkedIn profile often ranks at the top of Google search results for your name?
+> **[0:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=32)** Did you know your LinkedIn profile often ranks at the top of [[Google]] search results for your name?
 >
 > **[0:38](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/updating-your-linkedin-profile?u=76281980&t=38)** Heightened visibility on search engines is a big deal when potential employers are researching you.
 >
@@ -1202,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Cybersecurity]] (6), [[Security]] (4), [[Search]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Cybersecurity]] (6), [[Google]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** cissp (1), iso (1), url (1)
 > **Definitions:** is a  (2)
@@ -1210,12 +1191,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [marc] (1)
 
-#### Job application and interview strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980)
+#### [Job application and interview strategies](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=0)** - [Instructor] Don't worry about lacking the experience or certification specified in cybersecurity job listings.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=0)** - [Instructor] Don't worry about lacking the experience or certification specified in [[Cybersecurity]] job listings.
 >
 > **[0:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=6)** There are advantages to actively applying for these positions even if you don't think you're ready.
 >
@@ -1263,7 +1243,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=131)** Are you studying security independently?
 >
-> **[2:14](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=134)** Have you built a home lab for hands-on practice, such as penetration testing?
+> **[2:14](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=134)** Have you built a home lab for hands-on practice, such as [[Penetration Testing]]?
 >
 > **[2:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/job-application-and-interview-strategies?u=76281980&t=140)** I list these and other cybersecurity interview strategies in the handout that goes with this video.
 >
@@ -1273,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Security]] (3), next (1), career (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Penetration Testing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1283,14 +1263,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Personal development and goal-setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980)
+#### [Personal development and goal-setting](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=0)** - Building a successful career in cybersecurity has two critical components.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=0)** - Building a successful career in [[Cybersecurity]] has two critical components.
 >
-> **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=5)** Personal development and setting clear career goals, both of which will help you excel as a cybersecurity professional.
+> **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=5)** Personal development and setting clear career goals, both of which will help you [[Microsoft Excel|excel]] as a cybersecurity professional.
 >
 > **[0:13](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=13)** For personal development in cybersecurity, follow the show, don't tell principle.
 >
@@ -1310,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=57)** Personal development initiatives will enhance your skills and provide valuable topics to discuss during job interviews.
 >
-> **[1:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=63)** Remember to include any ongoing development in your resume and LinkedIn profile.
+> **[1:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=63)** Remember to include any ongoing development in your resume and [[LinkedIn]] profile.
 >
 > **[1:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980&t=69)** Now that we've explored personal development, let's shift to setting career goals to guide you towards success.
 >
@@ -1346,19 +1325,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (16), [[Cybersecurity]] (11), [[Security]] (5), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (11), [[Microsoft Excel|Excel]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** picture (1), such as (1), for instance (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - building (1)
 
-#### Networking in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980)
+#### [Networking in cybersecurity](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=0)** - [Instructor] Did you know many open cybersecurity jobs aren't advertised?
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=0)** - [Instructor] Did you know many open [[Cybersecurity]] jobs aren't advertised?
 >
 > **[0:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=4)** One of the best ways to find these hidden opportunities is through your personal network.
 >
@@ -1396,7 +1374,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=91)** Offer to do the same for them if they're interested.
 >
-> **[1:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=94)** While in-person networking is best, you should also connect with cybersecurity professionals on platforms like LinkedIn.
+> **[1:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=94)** While in-person networking is best, you should also connect with cybersecurity professionals on platforms like [[LinkedIn]].
 >
 > **[1:41](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/networking-in-cybersecurity?u=76281980&t=101)** Prioritize connections with local cybersecurity people and those who work at your target companies.
 >
@@ -1414,17 +1392,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[Security]] (4), [[LinkedIn]] (2), career (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (14), [[LinkedIn]] (2)
 > **CLI Commands:** find (4)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a professional brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980)
+#### [Creating a professional brand](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=0)** - [Narrator] As someone transitioning from a different field, you might wonder how to align your background with your cybersecurity career goals.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=0)** - [Narrator] As someone transitioning from a different field, you might wonder how to align your background with your [[Cybersecurity]] career goals.
 >
 > **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=8)** Potential employers will review your online presence to assess your qualifications, so it's essential to make a compelling case that you are right for the role.
 >
@@ -1432,13 +1409,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=25)** Imagine you're a field service technician at an IT services company.
 >
-> **[0:30](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=30)** Your responsibilities include various types of IT support, from hardware and software installations to troubleshooting.
+> **[0:30](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=30)** Your responsibilities include various types of IT support, from [[Hardware]] and software installations to troubleshooting.
 >
 > **[0:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=37)** You've decided to leverage your passion for data analysis and expertise in hard drives to pivot into a digital forensic analyst role.
 >
 > **[0:46](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=46)** Even if you're a field service technician, it's okay to align your professional brand with digital forensic analysis.
 >
-> **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=53)** For instance, instead of having, "Field Service Technician" in your LinkedIn headline, consider starting it with, "Passionate about digital forensics."
+> **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=53)** For instance, instead of having, "Field Service Technician" in your [[LinkedIn]] headline, consider starting it with, "Passionate about [[Digital Forensics]]."
 >
 > **[1:02](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/creating-a-professional-brand?u=76281980&t=62)** Your headline doesn't have to be your job title and with 220 characters to work with, it's an excellent way to convey your professional brand.
 >
@@ -1470,23 +1447,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Cybersecurity]] (4), career (3), [[Security]] (2), strengths (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Cybersecurity]] (4), [[Hardware]] (1), [[Digital Forensics]] (1)
 > **Analogies:** imagine (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building data analysis skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980)
+#### [Building data analysis skills](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=0)** - [Narrator] Big data refers to how modern technology generates so much data that it can be challenging to manage or understand it all.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=0)** - [Narrator] [[Big Data]] refers to how modern technology generates so much data that it can be challenging to manage or understand it all.
 >
-> **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=8)** Cybersecurity also involves large quantities of data.
+> **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=8)** [[Cybersecurity]] also involves large quantities of data.
 >
 > **[0:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=12)** Examples of big data and cybersecurity include threat hunting and investigation, where you'll analyze network logs to uncover suspicious patterns, examine endpoint data for signs of malware or unauthorized access and assess user activity logs to detect anomalies indicating compromised accounts.
 >
-> **[0:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=31)** Incident response, where you'll analyze security event logs to understand incident timelines, study packet captures to decipher attacker techniques and communications and inspect file system metadata to trace the movement of malicious files and security analytics and predictive modeling, where you'll analyze historical threat data to gain insights into common attack tactics.
+> **[0:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=31)** [[Incident Response]], where you'll analyze security event logs to understand incident timelines, study packet captures to decipher attacker techniques and communications and inspect file system [[Metadata]] to trace the movement of malicious files and security analytics and [[Predictive Modeling]], where you'll analyze historical threat data to gain insights into common attack tactics.
 >
 > **[0:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=54)** Review vulnerability scans to identify exploitable weaknesses and assess user behavior data to build models for predictive security.
 >
@@ -1498,11 +1474,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=82)** That's where data reduction comes in.
 >
-> **[1:24](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=84)** Excel is a go-to tool for this, offering functions to make a mountain of data more manageable.
+> **[1:24](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=84)** [[Microsoft Excel|Excel]] is a go-to tool for this, offering functions to make a mountain of data more manageable.
 >
-> **[1:30](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=90)** If you're unfamiliar with Excel's filters, pivot tables and macros, it's time to learn.
+> **[1:30](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=90)** If you're unfamiliar with Excel's filters, [[Pivot Tables]] and macros, it's time to learn.
 >
-> **[1:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=96)** For advanced data manipulation, consider Python.
+> **[1:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=96)** For advanced [[Data Manipulation]], consider [[Python (Programming Language)|Python]].
 >
 > **[1:40](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=100)** Once you've reduced, processed, and interpreted your data, effective reporting is usually the next step.
 >
@@ -1514,11 +1490,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=124)** Machine learning can detect complex patterns and anomalies in large data sets, helping identify potential security threats.
 >
-> **[2:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=132)** Getting familiar with machine learning libraries and techniques, such as those available in Python's Scikit-learn or TensorFlow, can give you the power to gain valuable insights from the never ending sea of cybersecurity data.
+> **[2:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=132)** Getting familiar with machine learning libraries and techniques, such as those available in Python's Scikit-learn or [[TensorFlow]], can give you the power to gain valuable insights from the never ending sea of cybersecurity data.
 >
 > **[2:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=146)** Getting familiar with machine learning libraries and techniques, such as those available in Python's Scikit-learn or TensorFlow can give you the power to gain valuable insights from the never ending sea of cybersecurity data.
 >
-> **[2:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=159)** You can find comprehensive training for all the data analysis skills covered in this video on LinkedIn Learning.
+> **[2:39](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=159)** You can find comprehensive training for all the data analysis skills covered in this video on [[LinkedIn]] Learning.
 >
 > **[2:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/building-data-analysis-skills?u=76281980&t=165)** I highly recommend you explore these courses to build your skills.
 >
@@ -1528,32 +1504,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Cybersecurity]] (8), [[Security]] (4), [[Big Data]] (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[Big Data]] (3), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[TensorFlow]] (2)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Career progression in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980)
+#### [Career progression in cybersecurity](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=0)** - [Instructor] What can a cybersecurity career look like?
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=0)** - [Instructor] What can a [[Cybersecurity]] career look like?
 >
 > **[0:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=3)** If you start at an entry-level role, such as cybersecurity analyst, where can you go from there?
 >
 > **[0:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=9)** There are many paths your cybersecurity career can take, but let's look at one to give you an idea of the possibilities.
 >
-> **[0:16](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=16)** You start your career as a cybersecurity analyst, focusing on monitoring security events, basic incident response, and initial analysis.
+> **[0:16](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=16)** You start your career as a cybersecurity analyst, focusing on monitoring security events, basic [[Incident Response]], and initial analysis.
 >
 > **[0:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=26)** After three years in that role, you're promoted to cybersecurity specialist, which involves more project-based security work and requires a deeper technical focus.
 >
-> **[0:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=35)** After another three years, you're promoted to security engineer, designing and implementing security solutions in specific areas like network or application security.
+> **[0:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=35)** After another three years, you're promoted to security engineer, designing and implementing security solutions in specific areas like network or [[Application Security]].
 >
-> **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=45)** You're hired as a security operations center or SOC manager four years later.
+> **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=45)** You're hired as a [[Security Operations]] center or SOC manager four years later.
 >
-> **[0:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=49)** This is your first people management role and you're in charge of a team that monitors and responds to security incidents.
+> **[0:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=49)** This is your first [[People Management]] role and you're in charge of a team that monitors and responds to security incidents.
 >
 > **[0:57](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=57)** In three years, you take a job as an information security manager.
 >
@@ -1577,7 +1552,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=131)** Some high level technical roles, such as senior security architect, don't involve managing people, but offer opportunities to grow your expertise and specialization.
 >
-> **[2:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=141)** I cover career paths in detail in my [[Cybersecurity Careers and Certifications]] course and I recommend you take that course to learn more about cybersecurity career possibilities.
+> **[2:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=141)** I cover career paths in detail in my [[[[Cybersecurity Careers]] and Certifications]] course and I recommend you take that course to learn more about cybersecurity career possibilities.
 >
 > **[2:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/career-progression-in-cybersecurity?u=76281980&t=151)** Take what you've learned from this video to start planning your career path in cybersecurity.
 >
@@ -1585,21 +1560,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), career (10), [[Cybersecurity]] (7), management (4), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Incident Response]] (1), [[Application Security]] (1), [[Security Operations]] (1), [[People Management]] (1)
 > **Env Vars:** ciso (2), soc (1), cio (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Managing stress and avoiding burnout
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980)
+#### [Managing stress and avoiding burnout](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=0)** - Imagine you're in the middle of the second week of helping your organization recover from a severe cybersecurity incident.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=0)** - Imagine you're in the middle of the second week of helping your organization recover from a severe [[Cybersecurity]] incident.
 >
 > **[0:07](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=7)** A good night's sleep has become a distant memory.
 >
-> **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=10)** You've skipped meals and you're under extreme pressure to ensure that hackers can't access your systems and that normal business operations are restored.
+> **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=10)** You've skipped meals and you're under extreme pressure to ensure that hackers can't access your systems and that normal [[Business Operations]] are restored.
 >
 > **[0:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=18)** I've been in high stress situations like that, and if you're in cybersecurity long enough, chances are you will be too.
 >
@@ -1623,13 +1597,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=75)** It can lead to chronic exhaustion, losing interest in work, and feeling detached from colleagues.
 >
-> **[1:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=81)** Burnout can cause people to quit their cybersecurity careers altogether.
+> **[1:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=81)** Burnout can cause people to quit their [[Cybersecurity Careers]] altogether.
 >
 > **[1:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=86)** If you recognize signs of stress or burnout, taking proactive steps to manage them is essential.
 >
 > **[1:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=92)** Here are some suggestions.
 >
-> **[1:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=94)** Take some time off to rest and rejuvenate.
+> **[1:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=94)** Take some time off to [[Representational State Transfer (REST)|rest]] and rejuvenate.
 >
 > **[1:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/managing-stress-and-avoiding-burnout?u=76281980&t=97)** Do something that brings you joy.
 >
@@ -1657,19 +1631,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), career (3), business (1), [[Cybersecurity Careers]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Business Operations]] (1), [[Cybersecurity Careers]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - imagine (1)
 
-#### Cybersecurity career tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980)
+#### [Cybersecurity career tips](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=0)** - [Narrator] When you launch your cybersecurity career, I want you to have the greatest chance of success.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=0)** - [Narrator] When you launch your [[Cybersecurity]] career, I want you to have the greatest chance of success.
 >
 > **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=5)** In my over 20 years in the field, I've consistently observed five qualities among colleagues who've enjoyed long and rewarding careers.
 >
@@ -1689,7 +1662,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=43)** Continuously hone your skills by participating in cybersecurity conferences and pursuing certifications or advanced degrees.
 >
-> **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=53)** Developing soft skills.
+> **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=53)** Developing [[Soft Skills]].
 >
 > **[0:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-career-tips?u=76281980&t=54)** Cybersecurity isn't just about technology.
 >
@@ -1711,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (10), career (10), [[Security]] (5), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Soft Skills]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1720,12 +1693,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on tools and labs
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980)
+#### [Hands-on tools and labs](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=0)** - [Instructor] Cybersecurity tools can be used for various purposes, including network scanning, traffic analysis, and web security testing.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=0)** - [Instructor] [[Cybersecurity Tools]] can be used for various purposes, including network scanning, traffic analysis, and web [[Security Testing]].
 >
 > **[0:07](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=7)** Hackers also use these tools, though, to exploit weaknesses.
 >
@@ -1735,17 +1707,17 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=26)** You'll find the labs for each tool in the handouts for this course.
 >
-> **[0:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=31)** You'll want to do all these labs in virtual machines or VMs, not on a PC.
+> **[0:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=31)** You'll want to do all these labs in [[Virtual Machines]] or VMs, not on a PC.
 >
 > **[0:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=35)** It's much safer to run the tools on VMs because they're contained environments where you can experiment without risking harm to your PC or network.
 >
 > **[0:45](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=45)** If you make a mistake like accidentally launching malware, only the VM will be impacted, and you can quickly delete it and start over.
 >
-> **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=53)** Plus, building VMs is a helpful skill in cybersecurity, so this is an excellent opportunity to learn it.
+> **[0:53](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=53)** Plus, building VMs is a helpful skill in [[Cybersecurity]], so this is an excellent opportunity to learn it.
 >
 > **[1:01](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=61)** You can find instructions for building VMs in this video's handouts.
 >
-> **[1:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=66)** You'll notice that the labs are for Linux only.
+> **[1:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=66)** You'll notice that the labs are for [[Linux]] only.
 >
 > **[1:09](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=69)** Linux is the operating system of choice for most cybersecurity professionals because it's open source and highly customizable.
 >
@@ -1753,31 +1725,31 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=79)** If you're unfamiliar with Linux, use these labs to help you get up to speed.
 >
-> **[1:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=85)** All of the tools I'll cover in this video have Windows equivalents, and I encourage you to explore those as a separate exercise.
+> **[1:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=85)** All of the tools I'll cover in this video have [[Windows]] equivalents, and I encourage you to explore those as a separate exercise.
 >
-> **[1:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=92)** Network scanning is often the first step attackers and protectors take to understand the security landscape, so the first tool we'll look at is nmap.
+> **[1:32](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=92)** Network scanning is often the first step attackers and protectors take to understand the security landscape, so the first tool we'll look at is [[Nmap]].
 >
 > **[1:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=102)** nmap is a free and open source tool that you can use for network discovery, security auditing, and vulnerability checking.
 >
-> **[1:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=109)** It can give detailed real-time information about all the devices on your network.
+> **[1:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=109)** It can give detailed [[Real-Time]] information about all the devices on your network.
 >
 > **[1:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=114)** In the nmap lab, you'll install nmap on your VM to conduct a ping sweep of your virtual network to discover other devices.
 >
 > **[2:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=123)** If only one VM is on your network, this will be a dull scan so add other VMs of different types to give you more interesting results.
 >
-> **[2:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=132)** The next tool is Wireshark, a powerful packet analyzer commonly used for network troubleshooting and traffic analysis.
+> **[2:12](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=132)** The next tool is [[Wireshark]], a powerful packet analyzer commonly used for [[Network Troubleshooting]] and traffic analysis.
 >
 > **[2:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=140)** It captures packets from network connections, allowing security professionals to inspect those packets for signs of malicious activity.
 >
 > **[2:27](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=147)** In the Wireshark lab, you'll set up Wireshark on your virtual machine and use it to capture and analyze unusual network activity from another VM.
 >
-> **[2:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=157)** The third tool is Burp Suite, which you can use for penetration testing of web applications.
+> **[2:37](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=157)** The third tool is [[Burp Suite]], which you can use for [[Penetration Testing]] of web applications.
 >
 > **[2:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=162)** It works by setting up a proxy server that intercepts all web requests you send from your browser.
 >
 > **[2:48](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=168)** In the Burp Suite lab, you'll use it to intercept, inspect, and modify web requests.
 >
-> **[2:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=174)** There are many more security tools I encourage you to explore, including Snort, an intrusion detection and prevention system, John the Ripper for password cracking, OpenVAS, a powerful vulnerability scanner, tcpdump, a command line packet analyzer, netcat, a networking utility for reading from and writing to network connections, ClamAV, an antivirus engine, Cuckoo Sandbox, an advanced malware analysis tool, and Aircrack-ng, for wifi network security testing.
+> **[2:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=174)** There are many more security tools I encourage you to explore, including Snort, an [[Intrusion Detection]] and prevention system, [[John the Ripper]] for password cracking, OpenVAS, a powerful vulnerability scanner, tcpdump, a command line packet analyzer, [[Netcat]], a networking utility for reading from and writing to network connections, ClamAV, an antivirus engine, Cuckoo Sandbox, an advanced malware analysis tool, and Aircrack-ng, for wifi [[Network Security]] testing.
 >
 > **[3:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980&t=208)** You can install all of these on your Linux VM for free.
 >
@@ -1789,15 +1761,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Linux]] (5), web (4), [[Cybersecurity]] (4), [[Wireshark]] (3)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Cybersecurity]] (4), [[Nmap]] (4), [[Wireshark]] (3), [[Burp Suite]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cybersecurity incident response
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980)
+#### [Cybersecurity incident response](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,19 +1776,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=5)** Think urgent care nurse, fireman, and air traffic controller.
 >
-> **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=10)** Cybersecurity jobs also deal with incidents and crises, but cyber emergencies are unique in several ways.
+> **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=10)** [[Cybersecurity]] jobs also deal with incidents and crises, but cyber emergencies are unique in several ways.
 >
 > **[0:17](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=17)** Cyber incidents can escalate rapidly, going from minor to catastrophic in minutes or even seconds.
 >
 > **[0:24](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=24)** You'll need a solid plan to respond to such fast-paced emergencies.
 >
-> **[0:29](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=29)** Cyber incidents are often highly complex, requiring deep, specialized knowledge of many technologies, networking, coding skills, and digital forensics to respond to and recover from a cyber attack quickly.
+> **[0:29](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=29)** Cyber incidents are often highly complex, requiring deep, specialized knowledge of many technologies, networking, coding skills, and [[Digital Forensics]] to respond to and recover from a cyber attack quickly.
 >
 > **[0:42](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=42)** And unlike most real-world incidents, figuring out who is responsible for a cyber attack can be hard or even impossible.
 >
 > **[0:49](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=49)** Not knowing who is attacking you can make the response process difficult.
 >
-> **[0:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=54)** In this video, I'll talk about ways to prepare for the unique challenges of cyber incident response.
+> **[0:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=54)** In this video, I'll talk about ways to prepare for the unique challenges of cyber [[Incident Response]].
 >
 > **[1:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=60)** When it comes to incident response, organizations can't just wing it when an attack happens.
 >
@@ -1829,7 +1800,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=81)** Your incident response team should include key players responsible for rapidly executing the plan, including an incident manager, security analyst, forensic analyst, threat researcher, and communication lead.
 >
-> **[1:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=95)** You'll also need the right tools for responding to cybersecurity incidents, including an intrusion detection system, or IDS to spot suspicious activity in real time, a security information and event management system, or SIEM to collect and analyze logs related to security events, which will help the incident response team identify the threat and how to contain it, an endpoint protection system that can provide endpoint detection and response, or EDR, such as isolating an endpoint from the rest of the network if it becomes infected with malware, forensic tools to analyze logs and compromise systems to determine how the intrusion happened in everything that was affected, and network scanners to discover what devices are on the network and what might be compromised.
+> **[1:35](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=95)** You'll also need the right tools for responding to cybersecurity incidents, including an [[Intrusion Detection]] system, or IDS to spot suspicious activity in real time, a security information and event management system, or SIEM to collect and analyze logs related to security events, which will help the incident response team identify the threat and how to contain it, an endpoint protection system that can provide endpoint detection and response, or EDR, such as isolating an endpoint from the [[Representational State Transfer (REST)|rest]] of the network if it becomes infected with malware, forensic tools to analyze logs and compromise systems to determine how the intrusion happened in everything that was affected, and network scanners to discover what devices are on the network and what might be compromised.
 >
 > **[2:20](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=140)** These tools will be the backbone of an effective incident response plan, and as a cybersecurity professional, you'll likely use some or all of them.
 >
@@ -1843,7 +1814,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=174)** Being prepared with a solid plan, the right team and tools, and plenty of practice will help you handle the unique challenges of cybersecurity emergencies.
 >
-> **[3:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=183)** For a deeper dive into how to build a cyber incident response plan, I highly recommend Jason Dion's Incident Response Planning course on LinkedIn Learning.
+> **[3:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=183)** For a deeper dive into how to build a cyber incident response plan, I highly recommend Jason Dion's Incident Response Planning course on [[LinkedIn]] Learning.
 >
 > **[3:13](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/cybersecurity-incident-response?u=76281980&t=193)** If you're considering a career in cybersecurity, know that crisis management and incident response will be part of the job.
 >
@@ -1855,7 +1826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (12), [[Cybersecurity]] (6), [[Security]] (3), management (2), traffic (1)
+> **Frameworks & Libraries:** [[Incident Response]] (12), [[Cybersecurity]] (6), [[Digital Forensics]] (1), [[Intrusion Detection]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ids (1), siem (1), edr (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -1864,14 +1835,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Case studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980)
+#### [Case studies](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=0)** - [Instructor] You can learn a lot by studying the mistakes of others.
 >
-> **[0:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=3)** Unfortunately, in the world of cybersecurity, there are plenty of mistakes to learn from.
+> **[0:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=3)** Unfortunately, in the world of [[Cybersecurity]], there are plenty of mistakes to learn from.
 >
 > **[0:08](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=8)** In this video, I'll describe three real-world case studies, including the attack, the consequences, and ways the victims could have prevented it.
 >
@@ -1887,7 +1857,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=58)** Also, in 2017, a major credit reporting agency announced a data breach.
 >
-> **[1:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=63)** Hackers had exploited a known vulnerability in a web development tool, giving them access to the personal data of 147 million Americans.
+> **[1:03](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=63)** Hackers had exploited a known vulnerability in a [[Web Development]] tool, giving them access to the personal data of 147 million Americans.
 >
 > **[1:13](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/case-studies?u=76281980&t=73)** The agency spent $700 million in settlement fees, suffered severe reputational damage, and lost consumer trust.
 >
@@ -1917,17 +1887,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (3), [[Cybersecurity]] (2), [[Web Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Web Development]] (1)
 > **Env Vars:** mfa (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Day in the life of a cybersecurity pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980)
+#### [Day in the life of a cybersecurity pro](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=0)** - [Instructor] Imagine stepping into the shoes of a cybersecurity professional for a day, dealing with the ever-changing threat landscape, and using your skills to protect your organization from cyber attacks.
+> **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=0)** - [Instructor] Imagine stepping into the shoes of a [[Cybersecurity]] professional for a day, dealing with the ever-changing threat landscape, and using your skills to protect your organization from cyber attacks.
 >
 > **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=10)** In this video, I'll give you an insider's view of a typical day in cybersecurity.
 >
@@ -1939,17 +1908,17 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=34)** Then go to your backup system and make sure data backups have completed successfully, rerun any that have failed.
 >
-> **[0:41](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=41)** Next, if your network is cloud-based, go to Security Hub on AWS or security center on Azure to review system statuses and look for anything unusual.
+> **[0:41](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=41)** Next, if your network is cloud-based, go to Security Hub on AWS or security center on [[Microsoft Azure|Azure]] to review system statuses and look for anything unusual.
 >
 > **[0:52](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=52)** You'll go to your patch management system to confirm that all devices have the latest security patches and updates applied, and scan your threat intelligence fees for any emerging threats that could impact your organization.
 >
 > **[1:05](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=65)** Throughout your day, you'll attend meetings, either leading them or just participating.
 >
-> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=70)** Typical meetings include project status updates, security program reviews for the steering committee or [[Executive Leadership]], strategy talks with your boss, vendor meetings to discuss product issues or to learn about new offerings, compliance and audit updates, and cross departmental meetings like with DevOps or HR.
+> **[1:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=70)** Typical meetings include project status updates, security program reviews for the steering committee or [[[[Executive Leadership]]]], strategy talks with your boss, vendor meetings to discuss product issues or to learn about new offerings, compliance and audit updates, and cross departmental meetings like with [[DevOps]] or HR.
 >
 > **[1:31](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=91)** In the afternoons, you'll likely work on longer term projects related to security initiatives, such as deploying multifactor authentication, hardening end user or network systems, or implementing a zero-trust architecture.
 >
-> **[1:44](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=104)** You could update your risk register or perform a security gap analysis based on the CIS or NIST frameworks.
+> **[1:44](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=104)** You could update your risk register or perform a security gap analysis based on the CIS or [[NIST]] frameworks.
 >
 > **[1:51](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=111)** You'll revise or create new security policies, standards, or procedures, and your day will wrap up with writing your weekly status report and setting up meetings and tasks for the upcoming days.
 >
@@ -1957,13 +1926,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=127)** Expect to drop everything though if there's a security incident or a security issue comes up that only you can handle.
 >
-> **[2:13](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=133)** To help prepare for being in crisis management mode, I recommend watching the Cybersecurity Incident Response video in this course.
+> **[2:13](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=133)** To help prepare for being in crisis management mode, I recommend watching the [[Cybersecurity Incident Response]] video in this course.
 >
 > **[2:21](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=141)** Your life as a cybersecurity pro doesn't stop at the end of the workday.
 >
 > **[2:25](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=145)** To stay current, you'll be continuously learning.
 >
-> **[2:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=148)** This includes reading industry reports, blogs, newsletters, and listening to podcasts.
+> **[2:28](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=148)** This includes reading industry reports, blogs, [[Newsletters]], and listening to podcasts.
 >
 > **[2:33](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/day-in-the-life-of-a-cybersecurity-pro?u=76281980&t=153)** To enhance your cybersecurity skills, attend webinars and virtual trainings on the latest threats and defensive strategies.
 >
@@ -1977,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Cybersecurity]] (9), management (3), career (2), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (9), [[Microsoft Azure|Azure]] (1), [[Executive Leadership]] (1), [[DevOps]] (1), [[NIST]] (1)
 > **Env Vars:** siem (1), aws (1), cis (1), nist (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), aws (1)
@@ -1989,14 +1958,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your career transition action plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980)
+#### [Your career transition action plan](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=0)** - Benjamin Franklin once said, "Energy and persistence conquer all things."
 >
-> **[0:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=6)** This applies to your transition to a cybersecurity career.
+> **[0:06](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=6)** This applies to your transition to a [[Cybersecurity]] career.
 >
 > **[0:10](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=10)** Never give up.
 >
@@ -2006,7 +1974,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=18)** So here's what you do.
 >
-> **[0:19](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=19)** Choose the first cybersecurity job you plan to get, research openings for that job to learn the requirements, assess your skills gaps and take action to fill them in, revise your resume and LinkedIn profile, start interviewing for jobs, and never stop learning.
+> **[0:19](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=19)** Choose the first cybersecurity job you plan to get, research openings for that job to learn the requirements, assess your skills gaps and take action to fill them in, revise your resume and [[LinkedIn]] profile, start [[Interviewing]] for jobs, and never stop learning.
 >
 > **[0:36](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980&t=36)** Use the tools and tips from this course to grow your skillset.
 >
@@ -2026,7 +1994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (3), career (2), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[LinkedIn]] (3), [[Interviewing]] (1)
 > **Speakers:** - benjamin (1)
 
 

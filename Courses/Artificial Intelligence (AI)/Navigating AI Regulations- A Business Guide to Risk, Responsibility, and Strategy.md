@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What business leaders need to know about AI regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980)
+#### [What business leaders need to know about AI regulations](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,11 +107,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980&t=35)** I've seen how regulation is evolving across sectors and borders from the United Nations all the way down to local government.
 >
-> **[0:42](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980&t=42)** If you want to turn regulatory compliance into a strategic advantage around AI and make smart forward-looking decisions, this is the course for you.
+> **[0:42](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980&t=42)** If you want to turn [[Regulatory Compliance]] into a strategic advantage around AI and make smart forward-looking decisions, this is the course for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (2), teams (1), career (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -121,18 +120,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why AI governance has become a business imperative
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980)
+#### [Why AI governance has become a business imperative](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=0)** - If you're waiting for a perfect AI law before acting, you're already behind.
 >
-> **[0:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=5)** Around the world, regulators are moving quickly to respond to the rapid rise of artificial intelligence.
+> **[0:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=5)** Around the world, regulators are moving quickly to respond to the rapid rise of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:10](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=10)** And this time, it's not just about privacy policies or data security, we're talking about the systems that decides who gets a loan, who gets hired, what content we see, and how public services are delivered.
+> **[0:10](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=10)** And this time, it's not just about [[Privacy]] policies or [[Data Security]], we're talking about the systems that decides who gets a loan, who gets hired, what content we see, and how public services are delivered.
 >
-> **[0:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=23)** AI is no longer a back office experiment.
+> **[0:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=23)** AI is no longer a back [[Microsoft Office|office]] experiment.
 >
 > **[0:25](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=25)** It's at the heart of how value is created and how risk is distributed, and that makes governance a business issue.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=38)** First, acceleration.
 >
-> **[0:40](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=40)** Generative AI models like ChatGPT and Claude went from experimental to widely used in just under a year.
+> **[0:40](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=40)** [[Generative AI]] models like [[ChatGPT]] and Claude went from experimental to widely used in just under a year.
 >
 > **[0:47](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=47)** And now every major company is piloting some form of AI, whether to serve customers, analyze data, or streamline operations.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=63)** And governments are taking note.
 >
-> **[1:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=65)** Second, public pressure, across industries, there's growing unease about how AI affects fairness, privacy, and accountability.
+> **[1:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=65)** Second, public pressure, across industries, there's growing unease about how AI affects fairness, privacy, and [[Accountability]].
 >
 > **[1:13](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=73)** Think of AI systems that might misidentify a face, deny a legitimate benefit or automated decision with no human recourse.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=113)** So what does this mean for business leaders?
 >
-> **[1:56](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=116)** It means treating AI governance as a strategic function, not just a compliance issue.
+> **[1:56](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=116)** It means treating [[AI Governance]] as a strategic function, not just a compliance issue.
 >
 > **[2:01](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980&t=121)** The company's making progress aren't waiting for final legislation.
 >
@@ -198,12 +196,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), business (3), [[Privacy]] (2), data (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Security]] (1), [[Microsoft Office|Office]] (1), [[Generative AI]] (1)
 > **Env Vars:** oecd (1)
 > **Speakers:** - if (1)
 
-#### How public pressure and policy gaps are forcing action
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-public-pressure-and-policy-gaps-are-forcing-action?u=76281980)
+#### [How public pressure and policy gaps are forcing action](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-public-pressure-and-policy-gaps-are-forcing-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-public-pressure-and-policy-gaps-are-forcing-action?u=76281980&t=32)** We've seen generative tools that produce false information, voice cloning used in online scams and facial recognition that misidentifies people.
 >
-> **[0:41](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-public-pressure-and-policy-gaps-are-forcing-action?u=76281980&t=41)** These stories spread fast and they create anxiety, and they build demand for accountability.
+> **[0:41](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-public-pressure-and-policy-gaps-are-forcing-action?u=76281980&t=41)** These stories spread fast and they create anxiety, and they build demand for [[Accountability]].
 >
 > **[0:46](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-public-pressure-and-policy-gaps-are-forcing-action?u=76281980&t=46)** When people start asking, who made this decision, and the answer is an algorithm, well lawmakers pay attention.
 >
@@ -269,14 +266,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Accountability]] (1), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - when (1)
 
-#### Why business leaders can’t wait for perfect laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980)
+#### [Why business leaders can’t wait for perfect laws](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=39)** Your stakeholders, customers, employees, partners, even your investors are watching how you use and implement AI.
 >
-> **[0:46](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=46)** They're asking questions about transparency, fairness, and accountability.
+> **[0:46](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=46)** They're asking questions about transparency, fairness, and [[Accountability]].
 >
 > **[0:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=50)** And if your organization can't answer those questions confidently, you've got a problem that no legislation is ever going to fix.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=115)** It's about seeing regulation not just as a constraint, but as a catalyst.
 >
-> **[2:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=120)** When done well, AI governance can accelerate your adoption.
+> **[2:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=120)** When done well, [[AI Governance]] can accelerate your adoption.
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-business-leaders-can-t-wait-for-perfect-laws?u=76281980&t=123)** It can help you deploy AI faster and with fewer risks and stronger results.
 >
@@ -336,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (1), [[Accountability]] (1), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[AI Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 
@@ -345,8 +341,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What counts as regulated AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980)
+#### [What counts as regulated AI](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,11 +361,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=51)** The complexity of a model matters less than the weight of its decisions.
 >
-> **[0:55](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=55)** Even simple tools such as automated screeners or customer support chat bots might be regulated if they influence outcomes in ways that affect individuals or rely on sensitive data without clear mechanisms for review.
+> **[0:55](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=55)** Even simple tools such as automated screeners or [[Customer Support]] chat bots might be regulated if they influence outcomes in ways that affect individuals or rely on sensitive data without clear mechanisms for review.
 >
 > **[1:09](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=69)** Some categories are already being flagged for prohibition.
 >
-> **[1:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=72)** These include systems designed for social scoring or manipulative content targeting, or even real-time biometric surveillance in public spaces.
+> **[1:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=72)** These include systems designed for social scoring or manipulative content targeting, or even [[Real-Time]] biometric surveillance in public spaces.
 >
 > **[1:21](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=81)** Any organization operating in these areas should be reviewing their practices now.
 >
@@ -388,18 +383,17 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=123)** Quiet failures inside of core processes create real exposure, and business leaders need a clear line of sight into where those risks are concentrated and what guardrails are being put in place.
 >
-> **[2:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=135)** Strong AI governance begins with a current and a complete understanding of where and how AI is used inside the business and across the organization.
+> **[2:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=135)** Strong [[AI Governance]] begins with a current and a complete understanding of where and how AI is used inside the business and across the organization.
 >
 > **[2:24](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980&t=144)** That map becomes the basis for responsible oversight and most importantly, for earning trust in a changing landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), [[Customer Support]] (1), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Real-Time]] (1), [[AI Governance]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - not (1)
 
-#### How regulation shows up across the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980)
+#### [How regulation shows up across the organization](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=15)** AI touches every department, often in ways that aren't obvious at first.
 >
-> **[0:19](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=19)** A model that's built by the data science team might be deployed in a customer service workflow.
+> **[0:19](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=19)** A model that's built by the [[Data Science]] team might be deployed in a customer service workflow.
 >
 > **[0:24](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=24)** And the same model could be trained on data that's collected by marketing, with decisions audited by legal, and impacts felt in operations.
 >
@@ -427,7 +421,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=65)** In legal and compliance functions, the challenge is translating broad regulatory frameworks into concrete and real safeguards.
 >
-> **[1:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=72)** Legal teams need to track evolving global standards, review model documentation, and ensure that the organization has very clear accountability structures.
+> **[1:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=72)** Legal teams need to track evolving global standards, review model documentation, and ensure that the organization has very clear [[Accountability]] structures.
 >
 > **[1:21](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=81)** They also become the frontline for responding to audits, to complaints, or even to litigation that might be related to AI use.
 >
@@ -457,7 +451,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=160)** They equip marketers to review AI generated content, and they ensure that operations leaders know that when automation could trigger regulatory review, they've already reviewed it for compliance.
 >
-> **[2:52](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=172)** What works best is a shared understanding that AI governance is a part of everyone's job.
+> **[2:52](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=172)** What works best is a shared understanding that [[AI Governance]] is a part of everyone's job.
 >
 > **[2:57](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/how-regulation-shows-up-across-the-organization?u=76281980&t=177)** The goal isn't to create bottlenecks, but to build coordination.
 >
@@ -465,13 +459,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), product (3), teams (3), data (2), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Accountability]] (1), [[AI Governance]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - most (1)
 
-#### Understanding regulatory exposure and business risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980)
+#### [Understanding regulatory exposure and business risk](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=10)** Start with liability.
 >
-> **[0:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=12)** As AI systems begin to influence decisions with real consequences, accountability moves upstream.
+> **[0:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=12)** As AI systems begin to influence decisions with real consequences, [[Accountability]] moves upstream.
 >
 > **[0:18](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=18)** If a model produces an unfair outcome in lending, or healthcare, or hiring, the responsibility lands with the organization that deployed it.
 >
@@ -511,7 +504,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=98)** Now, consider competitive positioning.
 >
-> **[1:41](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=101)** Strong AI governance does more than prevent problems.
+> **[1:41](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=101)** Strong [[AI Governance]] does more than prevent problems.
 >
 > **[1:44](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=104)** It creates a path for scale.
 >
@@ -527,15 +520,14 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=137)** Understand where risk lives, assign ownership and embed it in existing decision making processes.
 >
-> **[2:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=143)** Legal teams, risk officers, product leads and [[Executive Leadership]] all play a role in making your business stronger.
+> **[2:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/understanding-regulatory-exposure-and-business-risk?u=76281980&t=143)** Legal teams, risk officers, product leads and [[[[Executive Leadership]]]] all play a role in making your business stronger.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), teams (2), [[Accountability]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[AI Governance]] (1), [[Executive Leadership]] (1)
 > **Speakers:** - ai (1)
 
-#### Connecting governance to strategic priorities
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980)
+#### [Connecting governance to strategic priorities](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,11 +539,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=11)** The companies setting the pace in AI, they're not limiting themselves to legal checklists.
 >
-> **[0:16](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=16)** They're using regulatory awareness to inform product development, to build trust with their stakeholders, and to support the long-term resilience of the business.
+> **[0:16](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=16)** They're using regulatory awareness to inform [[Product Development]], to build trust with their stakeholders, and to support the long-term resilience of the business.
 >
 > **[0:25](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=25)** Start with innovation.
 >
-> **[0:26](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=26)** When teams understand the principles behind regulation, they can design systems that are more transparent, more auditable, and better aligned with user expectations.
+> **[0:26](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=26)** When teams understand the principles behind regulation, they can [[Design Systems]] that are more transparent, more auditable, and better aligned with user expectations.
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/connecting-governance-to-strategic-priorities?u=76281980&t=36)** That approach lowers the cost of compliance later and it increases the chances that a product will be accepted by customers, partners, and regulators.
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (2), teams (2), [[Product Development]] (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Design Systems]] (1)
 > **Speakers:** - governance (1)
 
 
@@ -599,8 +591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating a patchwork of global AI rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980)
+#### [Navigating a patchwork of global AI rules](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=13)** For global businesses, this creates both complexity and opportunity.
 >
-> **[0:18](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=18)** In the European Union, the focus is on rights, safety, and systemic accountability.
+> **[0:18](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=18)** In the European Union, the focus is on rights, safety, and systemic [[Accountability]].
 >
 > **[0:24](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=24)** The EU's approach is built on a belief that regulation should set the boundaries of acceptable use and ensure that technology serves democratic principles.
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=123)** Understanding this landscape is essential for strategy.
 >
-> **[2:06](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=126)** It affects how you enter new markets, how you structure governance, and how you design systems that can operate across multiple jurisdictions.
+> **[2:06](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=126)** It affects how you enter new markets, how you structure governance, and how you [[Design Systems]] that can operate across multiple jurisdictions.
 >
 > **[2:14](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980&t=134)** So the following videos will explore specific regions in more detail.
 >
@@ -660,12 +651,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Accountability]] (1), leadership (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Design Systems]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ai (1)
 
-#### Inside the EU AI Act
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980)
+#### [Inside the EU AI Act](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -677,13 +667,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=20)** The AI Act classifies AI systems by risk.
 >
-> **[0:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=23)** It starts with prohibited uses, things like social scoring and certain types of real-time biometric surveillance.
+> **[0:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=23)** It starts with prohibited uses, things like social scoring and certain types of [[Real-Time]] biometric surveillance.
 >
 > **[0:31](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=31)** Then come high-risk systems.
 >
 > **[0:33](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=33)** Those used in employment, education, financial services, healthcare, and public services.
 >
-> **[0:39](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=39)** Those systems must meet a series of higher obligations around detailed documentation, clear human oversight, risk management plans, and data quality reviews.
+> **[0:39](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=39)** Those systems must meet a series of higher obligations around detailed documentation, clear human oversight, risk management plans, and [[Data Quality]] reviews.
 >
 > **[0:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=50)** Lower risk systems might be subject to transparency obligations such as disclosure when users interact with AI or consume AI-generated content.
 >
@@ -707,7 +697,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=123)** Third, build internal processes for review, monitoring, and risk assessment, not just at deployment, but through the system lifecycle.
 >
-> **[2:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=132)** Fourth, assign accountability, ensuring that somebody within the organization is prepared to engage directly with regulatory bodies.
+> **[2:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=132)** Fourth, assign [[Accountability]], ensuring that somebody within the organization is prepared to engage directly with regulatory bodies.
 >
 > **[2:22](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=142)** And finally, make sure you evaluate any third-party tools or vendors for alignment with these requirements, including supply chain liability.
 >
@@ -719,17 +709,16 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=170)** So the time to act is now.
 >
-> **[2:52](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=172)** Align your systems with the structure of the act, identify gaps, and build the internal practices that help support trustworthy and responsible AI at scale.
+> **[2:52](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/inside-the-eu-ai-act?u=76281980&t=172)** Align your systems with the structure of the act, identify gaps, and build the internal practices that help support trustworthy and [[Responsible AI]] at scale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (2), [[Real-Time]] (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Data Quality]] (1), [[Accountability]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### What US regulators are doing now
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980)
+#### [What US regulators are doing now](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,11 +740,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=63)** These agencies have made it clear that AI-related harms will be subject to the same rules that govern other digital practices.
 >
-> **[1:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=72)** And enforcement has already begun, using tools like consumer protection law, anti-discrimination statutes, and even data privacy frameworks.
+> **[1:12](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=72)** And enforcement has already begun, using tools like consumer protection law, anti-discrimination statutes, and even [[Data Privacy]] frameworks.
 >
 > **[1:22](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=82)** Congress has yet to pass a comprehensive AI law.
 >
-> **[1:25](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=85)** A few bills have moved significantly through the process, including legislation to address deepfakes and potentially to expand AI research funding, but other proposals, from national privacy legislation to a bill that might block states from creating their own AI regulations for the next decade, are still being debated.
+> **[1:25](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=85)** A few bills have moved significantly through the process, including legislation to address deepfakes and potentially to expand AI research funding, but other proposals, from national [[Privacy]] legislation to a bill that might block states from creating their own AI regulations for the next decade, are still being debated.
 >
 > **[1:44](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=104)** With that uncertainty at the federal level, states have moved forward.
 >
@@ -775,7 +764,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=165)** So the right approach is one of preparation, not prediction.
 >
-> **[2:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=170)** Mapping existing AI systems against the jurisdictions where you operate and identifying where accountability sits can be a great first starting point.
+> **[2:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=170)** Mapping existing AI systems against the jurisdictions where you operate and identifying where [[Accountability]] sits can be a great first starting point.
 >
 > **[2:59](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-u-s-regulators-are-doing-now?u=76281980&t=179)** From there, building documentation that meets a high standard, not just a minimal one, and making sure you have a process in place to update your approach as laws change.
 >
@@ -787,12 +776,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (2), [[Privacy]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Privacy]] (1), [[Accountability]] (1)
 > **Warnings:** warning (1)
 > **Speakers:** - in (1)
 
-#### Global trends beyond the US and EU
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980)
+#### [Global trends beyond the US and EU](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +790,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=17)** The OECD has played a foundational role in creating shared AI principles that have been adopted by dozens of countries.
 >
-> **[0:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=23)** These include fairness, transparency, human-centered values, and accountability.
+> **[0:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=23)** These include fairness, transparency, human-centered values, and [[Accountability]].
 >
 > **[0:28](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=28)** And while these aren't legally binding, they are shaping how national laws and trade agreements are evolving.
 >
@@ -814,7 +802,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=71)** Beyond the US, national governments are also taking action.
 >
-> **[1:14](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=74)** China has moved quickly, creating binding rules on generative AI and setting limits on training data, model transparency, and content controls.
+> **[1:14](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=74)** China has moved quickly, creating binding rules on [[Generative AI]] and setting limits on training data, model transparency, and content controls.
 >
 > **[1:23](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/global-trends-beyond-the-u-s-and-eu?u=76281980&t=83)** Singapore, Canada, Brazil, India, and Japan have each released frameworks or begun drafting legislation tailored to their specific priorities.
 >
@@ -826,12 +814,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (1), [[Accountability]] (1), [[Generative AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Generative AI]] (1)
 > **Env Vars:** oecd (1)
 > **Speakers:** - while (1)
 
-#### Comparing frameworks and finding patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/comparing-frameworks-and-finding-patterns?u=76281980)
+#### [Comparing frameworks and finding patterns](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/comparing-frameworks-and-finding-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +842,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/comparing-frameworks-and-finding-patterns?u=76281980&t=61)** Building explainability into the design of your systems is no longer optional.
 >
-> **[1:07](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/comparing-frameworks-and-finding-patterns?u=76281980&t=67)** The third is human accountability.
+> **[1:07](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/comparing-frameworks-and-finding-patterns?u=76281980&t=67)** The third is human [[Accountability]].
 >
 > **[1:09](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/comparing-frameworks-and-finding-patterns?u=76281980&t=69)** Whether through laws, agency guidance, or voluntary frameworks, there's a growing expectation that people remain responsible for AI outcomes.
 >
@@ -885,7 +872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Accountability]] (1), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - no (1)
 
@@ -894,12 +881,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What internal governance really means
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980)
+#### [What internal governance really means](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=0)** - AI governance inside an organization starts with structure.
+> **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=0)** - [[AI Governance]] inside an organization starts with structure.
 >
 > **[0:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=5)** And to be effective, that structure needs to be specific, visible, and repeatable.
 >
@@ -909,7 +895,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=20)** This includes technical leads, legal reviewers, compliance officers, and business sponsors.
 >
-> **[0:26](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=26)** Each AI system should have a clear point of accountability, somebody who understands the system, not just its function, but also its risks and its oversight requirements.
+> **[0:26](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=26)** Each AI system should have a clear point of [[Accountability]], somebody who understands the system, not just its function, but also its risks and its oversight requirements.
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980&t=36)** Second, consider use policies and controls.
 >
@@ -941,13 +927,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (2), business (1), [[Accountability]] (1), leadership (1)
+> **Frameworks & Libraries:** [[AI Governance]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - ai (1)
 
-#### Mapping roles and responsibilities for oversight
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980)
+#### [Mapping roles and responsibilities for oversight](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,9 +944,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=10)** In this video, we'll walk through a structure for assigning responsibility across your organization.
 >
-> **[0:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=15)** Start with [[Executive Leadership]] and ownership.
+> **[0:15](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=15)** Start with [[[[Executive Leadership]]]] and ownership.
 >
-> **[0:18](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=18)** Someone at the senior level needs to be accountable for overall AI strategy across your organization.
+> **[0:18](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=18)** Someone at the senior level needs to be accountable for overall [[AI Strategy]] across your organization.
 >
 > **[0:24](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=24)** It might be a chief AI officer, a chief data officer, or another executive with authority across departments, and that role is responsible for aligning technical goals, legal standards, and business outcomes.
 >
@@ -991,7 +976,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=104)** As we design these systems, we also need to focus on coordinating governance to keep the rules connected.
 >
-> **[1:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=110)** Form a cross-functional AI governance group, include representatives from product and legal, engineering, compliance, and security.
+> **[1:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=110)** Form a cross-functional [[AI Governance]] group, include representatives from product and legal, engineering, compliance, and security.
 >
 > **[1:58](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/mapping-roles-and-responsibilities-for-oversight?u=76281980&t=118)** Meet regularly to review new AI use cases across the business, refine policies, and respond to issues before they arise.
 >
@@ -1007,13 +992,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), business (4), data (3), teams (3), [[Executive Leadership]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[AI Strategy]] (1), [[AI Governance]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - ai (1)
 
-#### Creating AI use policies that work
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980)
+#### [Creating AI use policies that work](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=5)** They take high level principles and they turn them into day-to-day guidance for teams.
 >
-> **[0:09](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=9)** A good AI use policy answers three questions: First, what kinds of AI uses are encouraged or allowed across the organization and in products?
+> **[0:09](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=9)** A good AI use policy answers three questions: First, what kinds of AI uses are encouraged or allowed across the organization and in [[Microsoft Products|products]]?
 >
 > **[0:19](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=19)** Second, what practices are prohibited, either by law or by the company's values and its understanding of the market it's entering?
 >
@@ -1033,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=49)** Include practical examples.
 >
-> **[0:51](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=51)** Clarify when generative tools can be used for content creation or in other areas.
+> **[0:51](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=51)** Clarify when generative tools can be used for [[Content Creation]] or in other areas.
 >
 > **[0:56](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/creating-ai-use-policies-that-work?u=76281980&t=56)** Define how sensitive data should be handled, and understand how it needs to operate in a regulatory context.
 >
@@ -1049,16 +1033,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), teams (4), [[Microsoft Products|Products]] (1), [[Content Creation]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Content Creation]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - ai (1)
 
-#### Working across teams to build trust and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980)
+#### [Working across teams to build trust and compliance](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=0)** - Strong AI governance only works when teams collaborate.
+> **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=0)** - Strong [[AI Governance]] only works when teams collaborate.
 >
 > **[0:05](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=5)** And that collaboration doesn't happen by accident.
 >
@@ -1074,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=39)** Next, create shared templates and tracking tools that allow for better team time.
 >
-> **[0:45](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=45)** Develop simple forms for documenting model purpose, training data, risk levels, and sign-offs.
+> **[0:45](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=45)** Develop simple [[Forms]] for documenting model purpose, training data, risk levels, and sign-offs.
 >
 > **[0:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=50)** And store these in shared workspaces that are accessible to all relevant teams.
 >
@@ -1094,13 +1077,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=91)** This makes them more prepared to move fast without cutting corners.
 >
-> **[1:35](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=95)** You can start by drafting a council charter, choosing your first use case to review, or prototyping a shared intake mechanism.
+> **[1:35](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=95)** You can start by drafting a council charter, choosing your first use case to review, or [[Prototyping]] a shared intake mechanism.
 >
 > **[1:43](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/working-across-teams-to-build-trust-and-compliance?u=76281980&t=103)** What matters most is making collaboration an ongoing habit, not just a one-time fix.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), ai (4), business (2), product (2), next (2)
+> **Frameworks & Libraries:** [[AI Governance]] (4), [[Forms]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - strong (1)
 
@@ -1109,12 +1092,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compliance to competitive advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980)
+#### [Compliance to competitive advantage](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=0)** - Strong AI governance doesn't slow down innovation.
+> **[0:00](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=0)** - Strong [[AI Governance]] doesn't slow down innovation.
 >
 > **[0:04](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=4)** Done right, it actually creates the conditions for AI to scale quickly and with confidence.
 >
@@ -1162,7 +1144,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=127)** They position themselves to shape how AI is adopted, trusted and scaled, not just within their business, but across the entire sector.
 >
-> **[2:16](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=136)** You don't need to wait for new laws to get started: map your current systems, identify where accountability lives, and build a review process that catches problems early, train teams to know the guardrails.
+> **[2:16](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=136)** You don't need to wait for new laws to get started: map your current systems, identify where [[Accountability]] lives, and build a review process that catches problems early, train teams to know the guardrails.
 >
 > **[2:29](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980&t=149)** Governance can become a strategic asset when it helps you move with speed and confidence.
 >
@@ -1170,12 +1152,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), teams (3), [[Engineering]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[AI Governance]] (2), [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - strong (1)
 
-#### Communicating regulatory strategy to boards and stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/communicating-regulatory-strategy-to-boards-and-stakeholders?u=76281980)
+#### [Communicating regulatory strategy to boards and stakeholders](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/communicating-regulatory-strategy-to-boards-and-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,12 +1200,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (3), teams (2), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - regulation (1)
 
-#### Preparing for what comes next in AI regulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/preparing-for-what-comes-next-in-ai-regulation?u=76281980)
+#### [Preparing for what comes next in AI regulation](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/preparing-for-what-comes-next-in-ai-regulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/preparing-for-what-comes-next-in-ai-regulation?u=76281980&t=99)** Because these systems build the agility to respond when new requirements are introduced.
 >
-> **[1:45](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/preparing-for-what-comes-next-in-ai-regulation?u=76281980&t=105)** This work is about more than just forecasting a specific law or a specific regulation.
+> **[1:45](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/preparing-for-what-comes-next-in-ai-regulation?u=76281980&t=105)** This work is about more than just [[Forecasting]] a specific law or a specific regulation.
 >
 > **[1:50](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/preparing-for-what-comes-next-in-ai-regulation?u=76281980&t=110)** It's about developing a new habit and the infrastructure that supports ongoing responsiveness.
 >
@@ -1264,7 +1243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), product (1), management (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - regulation (1)
 
@@ -1273,8 +1252,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Moving forward
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980)
+#### [Moving forward](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,7 +1270,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980&t=29)** Take stock of where AI shows up across your business, clarify rules, build processes that support responsible use, and get involved in the conversations that are shaping those rules.
 >
-> **[0:41](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980&t=41)** Because the questions that are being asked right now about fairness, transparency, and accountability, they're not just legal questions, they're leadership questions, and how we answer them will define the kinds of organizations that we build.
+> **[0:41](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980&t=41)** Because the questions that are being asked right now about fairness, transparency, and [[Accountability]], they're not just legal questions, they're leadership questions, and how we answer them will define the kinds of organizations that we build.
 >
 > **[0:55](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980&t=55)** Thank you for joining me.
 >
@@ -1300,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), teams (1), business (1), [[Accountability]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Speakers:** - you (1)
 
 

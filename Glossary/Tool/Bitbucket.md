@@ -7,16 +7,16 @@ linkedin_topics:
   - DevOps
   - Software Development
   - Network and System Administration
-  - Cybersecurity
   - Cloud Computing
+  - Cybersecurity
 tags:
   - glossary
   - type/tool
   - topic/devops
   - topic/software-development
   - topic/network-and-system-administration
-  - topic/security
   - topic/cloud-computing
+  - topic/security
 course_count: 46
 created: 2026-05-02
 ---
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Bitbucket
 
-> **Type:** Tool | **Courses:** 46 | **Topics:** [[DevOps]], [[Software Development]], [[Network and System Administration]], [[Cybersecurity]], [[Cloud Computing]]
+> **Type:** Tool | **Courses:** 46 | **Topics:** [[DevOps]], [[Software Development]], [[Network and System Administration]], [[Cloud Computing]], [[Cybersecurity]]
 
 ## Courses
 
@@ -45,15 +45,15 @@ created: 2026-05-02
 > 12. [[Increasing Efficiency with Jira and Confluence Integrations]] — 3 mentions
 > 13. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 3 mentions
 > 14. [[Jira- Managing Custom Workflows]] — 3 mentions
-> 15. [[Xcode 15 Essential Training]] — 2 mentions
-> 16. [[Agile Software Development- Remote Teams (2019)]] — 2 mentions
-> 17. [[Nail Your DevOps Interview]] — 2 mentions
-> 18. [[Learning Jenkins Automating Software Development And System Administration]] — 2 mentions
-> 19. [[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]] — 2 mentions
-> 20. [[Jira- Basic Administration]] — 2 mentions
-> 21. [[Jira Service Management- Administration]] — 2 mentions
-> 22. [[Databricks Certified Data Engineer Associate Cert Prep]] — 2 mentions
-> 23. [[Complete Guide to AWS Software Deployment]] — 2 mentions
+> 15. [[Complete Guide to AWS Software Deployment]] — 3 mentions
+> 16. [[Xcode 15 Essential Training]] — 2 mentions
+> 17. [[Agile Software Development- Remote Teams (2019)]] — 2 mentions
+> 18. [[Nail Your DevOps Interview]] — 2 mentions
+> 19. [[Learning Jenkins Automating Software Development And System Administration]] — 2 mentions
+> 20. [[Running Jenkins on AWS- Deploying and Managing Jenkins on Cloud Infrastructure]] — 2 mentions
+> 21. [[Jira- Basic Administration]] — 2 mentions
+> 22. [[Jira Service Management- Administration]] — 2 mentions
+> 23. [[Databricks Certified Data Engineer Associate Cert Prep]] — 2 mentions
 > 24. [[Node.js- Testing and Code Quality]] — 2 mentions
 > 25. [[Git Essential Training]] — 1 mentions
 > 26. [[Ethical Hacking- Footprinting and Reconnaissance]] — 1 mentions

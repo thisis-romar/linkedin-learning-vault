@@ -85,22 +85,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with Dependabot
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980)
+#### [Get started with Dependabot](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=0)** - [Carlos] If you've done any sort of web development projects or Python scripting in recent years, chances are you're using some really cool open source libraries that your code depends on to get the job done.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=0)** - [Carlos] If you've done any sort of [[Web Development]] projects or [[Python (Programming Language)|Python]] scripting in recent years, chances are you're using some really cool open source libraries that your code depends on to get the job done.
 >
 > **[0:11](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=11)** Problem is, once you go pass a handful of these libraries, it can become time consuming to track updates, security patches, and new releases for all the libraries that you may be using.
 >
 > **[0:21](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=21)** Enter Dependabot.
 >
-> **[0:23](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=23)** Dependabot is a tool within GitHub that you can use to manage your dependencies automatically, including updates, patching, and keeping your depository up-to-date.
+> **[0:23](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=23)** Dependabot is a tool within [[GitHub]] that you can use to manage your dependencies automatically, including updates, patching, and keeping your depository up-to-date.
 >
-> **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=33)** Hi, my name is Carlos and I'm a software engineer, cloud architect, and I'm all about productivity and efficiency when it comes to software development practices.
+> **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=33)** Hi, my name is Carlos and I'm a software engineer, cloud architect, and I'm all about productivity and efficiency when it comes to [[Software Development]] practices.
 >
-> **[0:41](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=41)** Please join me in my LinkedIn learning course.
+> **[0:41](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=41)** Please join me in my [[LinkedIn]] learning course.
 >
 > **[0:43](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980&t=43)** Let me show you how to use Dependabot and GitHub to manage dependencies in all your programming projects.
 >
@@ -108,26 +107,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Web Development]] (1), [[Python (Programming Language)|Python]] (1), [[Scripting]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Web Development]] (1), [[Python (Programming Language)|Python]] (1), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [carlos] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you proceed since we're going to be using GitHub, it's useful to have a prior understanding of version control, including branching, ample requests.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you proceed since we're going to be using [[GitHub]], it's useful to have a prior understanding of [[Version Control]], including branching, ample requests.
 >
-> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=9)** If you need a refresher there's plenty of information, around Git and GitHub here in the LinkedIn Learning Library.
+> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=9)** If you need a refresher there's plenty of information, around [[Git]] and GitHub here in the [[LinkedIn]] Learning Library.
 >
 > **[0:15](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=15)** Any programming language that you use is totally fine.
 >
-> **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=18)** I'll be doing demos using Python, PHB, and JavaScript.
+> **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=18)** I'll be doing demos using [[Python (Programming Language)|Python]], PHB, and [[JavaScript]].
 >
-> **[0:22](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=22)** But if you're using another language that also happens to be supported by Dependabot such as Ruby or Java, that's okay too.
+> **[0:22](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=22)** But if you're using another language that also happens to be supported by Dependabot such as Ruby or [[Java]], that's okay too.
 >
 > **[0:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/what-you-should-know?u=76281980&t=29)** The same principles and benefits will apply to you and your code.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Version Control]] (1), [[Git]] (1), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Version Control]] (1), [[Git]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** git (1), python (1), ruby (1)
 > **Tools:** github (3)
 > **Env Vars:** phb (1)
@@ -150,18 +148,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GitHub and Dependabot features
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980)
+#### [GitHub and Dependabot features](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=0)** [Instructor] If you are watching this course on Dependabot, chances are you already know what GitHub is.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=0)** [Instructor] If you are watching this course on Dependabot, chances are you already know what [[GitHub]] is.
 >
 > **[0:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=5)** Here's a quick refresh.
 >
-> **[0:07](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=7)** GitHub provides hosting and version control for software development projects.
+> **[0:07](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=7)** GitHub provides hosting and [[Version Control]] for [[Software Development]] projects.
 >
-> **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=12)** Locally, in your development environment, you have a tool such as Git that can help you manage versions and send your code updates to the centralized location, GitHub, in this case.
+> **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=12)** Locally, in your development environment, you have a tool such as [[Git]] that can help you manage versions and send your code updates to the centralized location, GitHub, in this case.
 >
 > **[0:22](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=22)** You can use it this way as a safeguard location for your code, or even better, use it as a way to keep a remote team working in sync while developing the same projects.
 >
@@ -185,13 +182,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=106)** It keeps track of security patches and new versions of the dependencies that you use in your code and lets you know when these are available to merge into your main branch, by automatically creating the aforementioned pull request.
 >
-> **[1:59](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=119)** Best of all, Dependabot is really easy to use, you can set it up by including a simple configuration file in your repository, and it supports plenty of languages such as Java, Python, PHP, and JavaScript.
+> **[1:59](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=119)** Best of all, Dependabot is really easy to use, you can set it up by including a simple configuration file in your repository, and it supports plenty of languages such as [[Java]], [[Python (Programming Language)|Python]], [[PHP]], and [[JavaScript]].
 >
 > **[2:11](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980&t=131)** And it can even update your Docker file if you're into building Docker containers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Version Control]] (1), [[Software Development]] (1), [[Git]] (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Version Control]] (1), [[Software Development]] (1), [[Git]] (1), [[Java]] (1)
 > **CLI Commands:** docker (2), git (1), make (1), python (1), php (1)
 > **Tools:** github (5)
 > **Definitions:** is an  (2), is a  (2)
@@ -199,22 +196,21 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Cross-References:** in the next (1)
 
-#### Dependabot advanced features
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980)
+#### [Dependabot advanced features](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=0)** - [Instructor] Here are a few things that would be considered a little bit more advanced than going beyond the basics.
 >
-> **[0:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=5)** Starting with using the Dependabot GitHub actions integration.
+> **[0:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=5)** Starting with using the Dependabot [[GitHub]] actions integration.
 >
 > **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=9)** This includes the ability to run automated events, such as tests, assigning team members to review pull requests, downloading additional artifacts, and so on.
 >
-> **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=18)** Dependabot supports the handling of sensitive data, such as passwords and access tokens that you may need when downloading files from certain sources, such as your AWS cloud stores, for example.
+> **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=18)** Dependabot supports the handling of sensitive data, such as passwords and access [[Tokens]] that you may need when downloading files from certain sources, such as your AWS cloud stores, for example.
 >
 > **[0:30](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=30)** This way you can refer to these secrets from your dependable configuration files, without having to hard code them in there directly.
 >
-> **[0:37](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=37)** You will be able to securely pull them when needed, and rest assured that they won't be stored in your call repository.
+> **[0:37](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=37)** You will be able to securely pull them when needed, and [[Representational State Transfer (REST)|rest]] assured that they won't be stored in your call repository.
 >
 > **[0:43](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-advanced-features?u=76281980&t=43)** This is considered an industry standard best practice.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), data (1), [[Tokens]] (1), aws (1), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Tokens]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -241,8 +237,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ideal uses cases for Dependabot
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/ideal-uses-cases-for-dependabot?u=76281980)
+#### [Ideal uses cases for Dependabot](https://www.linkedin.com/learning/github-dependabot-dependency-updates/ideal-uses-cases-for-dependabot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,12 +259,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Security]] (1), ci (1), cd (1), [[Automation]] (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Dependabot anti-patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-anti-patterns?u=76281980)
+#### [Challenge: Dependabot anti-patterns](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-anti-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-anti-patterns?u=76281980&t=10)** Now let's talk about what we shouldn't do.
 >
-> **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-anti-patterns?u=76281980&t=12)** There are some scenarios when automated dependency management is just not the way to go.
+> **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-anti-patterns?u=76281980&t=12)** There are some scenarios when automated [[Dependency Management]] is just not the way to go.
 >
 > **[0:17](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-anti-patterns?u=76281980&t=17)** So before I tell you, I want you to take a couple of minutes and think of a use case or two when using a tool such as Dependabot is not as useful.
 >
@@ -296,8 +289,7 @@ created: 2026-05-02
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Dependabot anti-patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980)
+#### [Solution: Dependabot anti-patterns](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,11 +305,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=26)** These are software libraries that you're allowed to use but they're simply not updated at all anymore.
 >
-> **[0:32](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=32)** Examples would be libraries to manage and control industrial equipment or interface with legacy hardware that is not supported anymore.
+> **[0:32](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=32)** Examples would be libraries to manage and control industrial equipment or interface with legacy [[Hardware]] that is not supported anymore.
 >
 > **[0:40](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=40)** This is actually very common in industries that don't keep up pace with changing technology because everything they do works just fine as is for years and sometimes even decades.
 >
-> **[0:50](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=50)** So a tool for dependency management in this case, wouldn't add any value, at least for this particular software dependency because you'll be forever pinned to a specific version that is never going to change.
+> **[0:50](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=50)** So a tool for [[Dependency Management]] in this case, wouldn't add any value, at least for this particular software dependency because you'll be forever pinned to a specific version that is never going to change.
 >
 > **[1:02](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=62)** Another example that you can probably relate to is working in an isolated environment.
 >
@@ -331,7 +323,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=94)** The reason why is probably because your updates needs to be approved by your IT department before they get into your work laptop.
 >
-> **[1:43](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=103)** In some environments, this is going to also be said about software development libraries, that you just can't go online and download whatever you like and just proceed to use it, there's often an approval process to make sure it doesn't have any obvious vulnerabilities and that it doesn't perform any functions outside of this spec, this scope.
+> **[1:43](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=103)** In some environments, this is going to also be said about [[Software Development]] libraries, that you just can't go online and download whatever you like and just proceed to use it, there's often an approval process to make sure it doesn't have any obvious vulnerabilities and that it doesn't perform any functions outside of this spec, this scope.
 >
 > **[2:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-anti-patterns?u=76281980&t=120)** In this case, using a dependency update tool such as dependabot can certainly help just not as fast because you'll need to wait on approvals for every single update.
 >
@@ -339,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Dependency Management]] (1), data (1), next (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Dependency Management]] (1), [[Software Development]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -353,14 +345,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python project architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980)
+#### [Python project architecture](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=0)** - [Instructor] Here we have a small Python project that we're going to use as our subject for dependabot.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=0)** - [Instructor] Here we have a small [[Python (Programming Language)|Python]] project that we're going to use as our subject for dependabot.
 >
-> **[0:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=5)** We also have a matching GitHub repository that we're going to use to keep track of changes to this code, but more on that later when we get to the dependabot dashboard.
+> **[0:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=5)** We also have a matching [[GitHub]] repository that we're going to use to keep track of changes to this code, but more on that later when we get to the dependabot dashboard.
 >
 > **[0:13](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=13)** Anyways, this is an application that uses two external libraries or dependencies to check a couple of blogs to see if they're up to date.
 >
@@ -376,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=55)** And what it does is it goes to certain URLs to look for daytime stamps which then we can use to determine if the pages were updated.
 >
-> **[1:04](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=64)** In this case, we're going to the AWS official blog to see if there's any updates as well as the Microsoft Azure blog to see if there's updates there as well.
+> **[1:04](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=64)** In this case, we're going to the AWS official blog to see if there's any updates as well as the [[Microsoft Azure]] blog to see if there's updates there as well.
 >
 > **[1:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=72)** This is the code and as you can see there's not much to it.
 >
@@ -402,13 +393,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=135)** The issue at the moment is that these dependencies are stored locally.
 >
-> **[2:19](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=139)** So before we can tell dependabot to keep track of updates for this libraries, we need a way to tell dependabot and the rest of our development team for that matter, which dependencies we're using.
+> **[2:19](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=139)** So before we can tell dependabot to keep track of updates for this libraries, we need a way to tell dependabot and the [[Representational State Transfer (REST)|rest]] of our development team for that matter, which dependencies we're using.
 >
 > **[2:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980&t=149)** And we can do that in Python by using a requirements file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), application (2), aws (2), [[Microsoft Azure]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Azure]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (3), aws (2), pip (1)
 > **Env Vars:** aws (2), nss (1)
 > **Tools:** command prompt (2), github (1)
@@ -417,12 +408,11 @@ created: 2026-05-02
 > **File Paths:** getdata.py (1)
 > **Cross-References:** we mentioned (1)
 
-#### requirements.txt
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980)
+#### [requirements.txt](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=0)** - [Instructor] Here we are looking at the official user guide for Pip, which is the tool that you use to install additional modules into your Python environment.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=0)** - [Instructor] Here we are looking at the official user guide for Pip, which is the tool that you use to install additional modules into your [[Python (Programming Language)|Python]] environment.
 >
 > **[0:08](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=8)** Now, if we scroll down here, it says that you can specify a requirements file, which is nothing more than a list of items to be installed by Pip.
 >
@@ -448,13 +438,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=80)** With this information, now let's get back to Visual Studio Code and take a look at our requirements file.
 >
-> **[1:25](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=85)** Here we are in Visual Studio Code, and as you can see, our file contains arrow and HTML date in addition to a couple of comments there.
+> **[1:25](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=85)** Here we are in Visual Studio Code, and as you can see, our file contains arrow and [[HTML]] date in addition to a couple of comments there.
 >
 > **[1:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=93)** If we go back to our code, you can see that I have the daytime module and is not specified in our requirements txt file simply because that daytime module is part of the standard Python library.
 >
 > **[1:46](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=106)** So it's not a third party library that we want the panda bot to keep track of.
 >
-> **[1:51](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=111)** With our module specified here, the rest of the development team, or even just yourself from another computer can go ahead and execute something like pip install -R requirements.
+> **[1:51](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=111)** With our module specified here, the [[Representational State Transfer (REST)|rest]] of the development team, or even just yourself from another computer can go ahead and execute something like pip install -R requirements.
 >
 > **[2:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/requirements-txt?u=76281980&t=120)** I'll type it out for you, .txt, and your modules will be installed and you can rest assure your code will compile and execute properly.
 >
@@ -473,12 +463,11 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Cross-References:** go back to (1)
 
-#### dependabot.yml for Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980)
+#### [dependabot.yml for Python](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=0)** - [Instructor] At this point in time our code is ready to be checked in to GitHub for bursting control, but dependabot is not yet enabled and it would be nice to have since we want it to track updates and security patches related to our dependencies.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=0)** - [Instructor] At this point in time our code is ready to be checked in to [[GitHub]] for bursting control, but dependabot is not yet enabled and it would be nice to have since we want it to track updates and security patches related to our dependencies.
 >
 > **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=12)** So how do we enable it?
 >
@@ -504,7 +493,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=67)** And this is related to the dependabot.yml file.
 >
-> **[1:11](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=71)** This has nothing to do with Python version or anything specific to your project.
+> **[1:11](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=71)** This has nothing to do with [[Python (Programming Language)|Python]] version or anything specific to your project.
 >
 > **[1:16](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-python?u=76281980&t=76)** This is a version number for this file format.
 >
@@ -546,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Python (Programming Language)|Python]] (2), [[Security]] (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Python (Programming Language)|Python]] (2)
 > **File Paths:** dependabot.yml (2), requirements.txt (2)
 > **CLI Commands:** python (2), pip (2)
 > **Tools:** github (4)
@@ -554,8 +543,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Dependabot pull requests for Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-python?u=76281980)
+#### [Challenge: Dependabot pull requests for Python](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-python?u=76281980&t=7)** It's time for your first hands-on Dependabot challenge.
 >
-> **[0:10](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-python?u=76281980&t=10)** In this challenge, I want you to intentionally specify an old version of one of the modules on requirements.tx and go ahead and commit and push those changes to GitHub.
+> **[0:10](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-python?u=76281980&t=10)** In this challenge, I want you to intentionally specify an old version of one of the modules on requirements.tx and go ahead and commit and push those changes to [[GitHub]].
 >
 > **[0:20](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-python?u=76281980&t=20)** Once you do this, this should trigger Dependabot to start working.
 >
@@ -585,14 +573,13 @@ created: 2026-05-02
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Dependabot pull requests for Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980)
+#### [Solution: Dependabot pull requests for Python](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=0)** - [Instructor] Alright, let me show you my solutions to the challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=8)** I went ahead and looked for PIP Arrow, trying to suggest, "Hey, do you know this is a PIP library "for Python and it's called Arrow."
+> **[0:08](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=8)** I went ahead and looked for PIP Arrow, trying to suggest, "Hey, do you know this is a PIP library "for [[Python (Programming Language)|Python]] and it's called Arrow."
 >
 > **[0:16](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=16)** And we got lucky and got the result on the very first line.
 >
@@ -612,7 +599,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=61)** Of course, Dependabot is not going to like that and it's going to suggest that we update to the latest, which is what we're after in this case.
 >
-> **[1:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=69)** Now I'll go here to version control and stage might change and give it a name say, old version test.
+> **[1:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=69)** Now I'll go here to [[Version Control]] and stage might change and give it a name say, old version test.
 >
 > **[1:19](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=79)** I'm going to commit my changes.
 >
@@ -622,7 +609,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=89)** Okay, that's completed.
 >
-> **[1:30](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=90)** Now let's go ahead and check in with GitHub and we're going to force Dependabot to detect what just happened.
+> **[1:30](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=90)** Now let's go ahead and check in with [[GitHub]] and we're going to force Dependabot to detect what just happened.
 >
 > **[1:38](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-python?u=76281980&t=98)** Here we are in GitHub.
 >
@@ -690,18 +677,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PHP project architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980)
+#### [PHP project architecture](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=0)** - [Lecturer] We're looking at Sculpin here, which is a static website generator.
 >
-> **[0:03](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=3)** It's essentially a PHP application that allows you to generate HTML files from templates that you provide.
+> **[0:03](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=3)** It's essentially a [[PHP]] application that allows you to generate [[HTML]] files from templates that you provide.
 >
 > **[0:10](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=10)** This way, for example, you can host a blog without the need for a database or dynamic code, which makes it very, very fast.
 >
-> **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=18)** This is an open source project, it's available on GitHub, and it will be the use case for this chapter.
+> **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=18)** This is an open source project, it's available on [[GitHub]], and it will be the use case for this chapter.
 >
 > **[0:24](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980&t=24)** I have the GitHub page right here, and we're going to dive a little bit deeper into Dependabot.
 >
@@ -721,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[PHP]] (1), application (1), [[HTML]] (1), database (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[PHP]] (1), [[HTML]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** php (1), html (1)
 > **Tools:** github (2)
@@ -730,26 +716,25 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [lecturer] (1)
 
-#### composer.json
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980)
+#### [composer.json](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=0)** - [Tutor] All right, since we are interested in dependency management for our project, let's go ahead and scroll down to the manifest file.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=0)** - [Tutor] All right, since we are interested in [[Dependency Management]] for our project, let's go ahead and scroll down to the manifest file.
 >
-> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=9)** In this case is composer.json, and this is the equivalent of the requirements.txt file that we saw in Python.
+> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=9)** In this case is composer.[[JSON]], and this is the equivalent of the requirements.txt file that we saw in [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=19)** If we scroll through here, you'll see there's a require key.
 >
 > **[0:24](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=24)** And within require, there's quite a bit of dependencies that you can see.
 >
-> **[0:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=29)** For example symphony, react/http, some apache modules and several others.
+> **[0:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=29)** For example symphony, [[React.js|react]]/http, some apache modules and several others.
 >
 > **[0:37](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=37)** So how do we understand this format, this JSON formatted document?
 >
 > **[0:42](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=42)** Let's go to composer here.
 >
-> **[0:44](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=44)** This is the official page for composer, which is the dependency management for PHP.
+> **[0:44](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=44)** This is the official page for composer, which is the dependency management for [[PHP]].
 >
 > **[0:48](https://www.linkedin.com/learning/github-dependabot-dependency-updates/composer-json?u=76281980&t=48)** We're going to go ahead and click on documentation.
 >
@@ -810,12 +795,11 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (2)
 
-#### dependabot.yml for PHP and branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980)
+#### [dependabot.yml for PHP and branches](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=0)** - [Lecturer] This is our original Python, dependabot.ymi file and we're going to do a quick conversion to php just for illustration purposes only because this is going to be part of the challenge that's coming up for you.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=0)** - [Lecturer] This is our original [[Python (Programming Language)|Python]], dependabot.ymi file and we're going to do a quick conversion to [[PHP]] just for illustration purposes only because this is going to be part of the challenge that's coming up for you.
 >
 > **[0:13](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=13)** So let's get started right away.
 >
@@ -829,7 +813,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=33)** That's the change that you want.
 >
-> **[0:34](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=34)** The directory is the same, We're going to keep it as the main directory of the repository to look for composer.json in this case.
+> **[0:34](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=34)** The directory is the same, We're going to keep it as the main directory of the repository to look for composer.[[JSON]] in this case.
 >
 > **[0:42](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-php-and-branches?u=76281980&t=42)** The schedule we're going to leave it as daily, that's fine.
 >
@@ -868,8 +852,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Challenge: Dependabot pull requests for PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-php?u=76281980)
+#### [Challenge: Dependabot pull requests for PHP](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-php?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -879,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-php?u=76281980&t=7)** We're ready for the next challenge, which is going to be a Dependabot branching challenge.
 >
-> **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-php?u=76281980&t=12)** Obviously, we can not work directly over the Sculpin GitHub repository.
+> **[0:12](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-php?u=76281980&t=12)** Obviously, we can not work directly over the Sculpin [[GitHub]] repository.
 >
 > **[0:17](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-php?u=76281980&t=17)** So I want you to go ahead, and fork a copy into your own GitHub repository, and then perhaps download it to your local environment when you can go ahead, and create a development branch.
 >
@@ -901,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -909,12 +892,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat instrumental music) (1)
 
-#### Solution: Dependabot pull requests for PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980)
+#### [Solution: Dependabot pull requests for PHP](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=0)** - [Instructor] Here we are in the open source GitHub repo for Sculpin.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=0)** - [Instructor] Here we are in the open source [[GitHub]] repo for Sculpin.
 >
 > **[0:10](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=10)** As you probably know, we cannot make any changes directly here.
 >
@@ -928,7 +910,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=36)** Now, I'll meet you at the command prompt.
 >
-> **[0:39](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=39)** Here at the command prompt, I'll type git clone and the value, of course.
+> **[0:39](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=39)** Here at the command prompt, I'll type [[Git]] clone and the value, of course.
 >
 > **[0:46](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=46)** Now, we have a local copy.
 >
@@ -938,7 +920,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=55)** Now we're here in Visual Studio Code and we can start making those changes.
 >
-> **[0:59](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=59)** The first things you'll notice is that we have composer.json in the main directory of the repository.
+> **[0:59](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=59)** The first things you'll notice is that we have composer.[[JSON]] in the main directory of the repository.
 >
 > **[1:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=65)** This is important to know because we need that for the Dependabot YAML file, even though there is a source directory, but we don't care about that, we just care of the location of composer.json.
 >
@@ -974,7 +956,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=148)** Let's go over the contents here.
 >
-> **[2:30](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=150)** The first line to note is that it says composer and not pip or php.
+> **[2:30](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=150)** The first line to note is that it says composer and not pip or [[PHP]].
 >
 > **[2:35](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=155)** The directory is the main of the repo and that's the location of composer.json.
 >
@@ -1072,7 +1054,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=436)** This is absolutely awesome.
 >
-> **[7:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=438)** You can make changes and be rest assured that you won't have to deal with this stuff in your main branch.
+> **[7:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=438)** You can make changes and be [[Representational State Transfer (REST)|rest]] assured that you won't have to deal with this stuff in your main branch.
 >
 > **[7:24](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-php?u=76281980&t=444)** Like I said, it could be your production branch and you don't want changes happening without proper testing.
 >
@@ -1100,7 +1082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), [[JSON]] (5), prompt (2), [[Git]] (1), cd (1)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[JSON]] (5), [[Git]] (1), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (10), composer (7), git (1), cd (1), pip (1)
 > **Tools:** github (11), visual studio (3), command prompt (2)
 > **UI Navigation:** click on (7), go to (7), select the (1)
@@ -1114,20 +1096,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript project architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980)
+#### [JavaScript project architecture](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=0)** - [Instructor] I've chosen this Vue.js-based project as our last one for JavaScript simply because Vue.js is a very, very popular library.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=0)** - [Instructor] I've chosen this [[Vue.js]]-based project as our last one for [[JavaScript]] simply because Vue.js is a very, very popular library.
 >
-> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=9)** By the way, if you want to learn Vue.js, you can do so right here in the LinkedIn Learning Library, there's amazing courses to learn this particular framework.
+> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=9)** By the way, if you want to learn Vue.js, you can do so right here in the [[LinkedIn]] Learning Library, there's amazing courses to learn this particular framework.
 >
 > **[0:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=18)** In our case, of course we're talking about dependabot, and since JavaScript is a front end type of language, you are exposed to security vulnerabilities.
 >
 > **[0:28](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=28)** Fortunately for us, dependabot can certainly help with those as well.
 >
-> **[0:31](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=31)** So we're going to start by forking this particular project to our own Git repo.
+> **[0:31](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=31)** So we're going to start by forking this particular project to our own [[Git]] repo.
 >
 > **[0:38](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=38)** This is just a 'Hello world' type of application in Vue.js by the way.
 >
@@ -1137,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=58)** And I will go into the folder now and start Visual Studio Code.
 >
-> **[1:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=65)** And when working with JavaScript projects, you're going to be working with a file call package.json and that's the one that's going to contain your list of dependencies.
+> **[1:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=65)** And when working with JavaScript projects, you're going to be working with a file call package.[[JSON]] and that's the one that's going to contain your list of dependencies.
 >
 > **[1:15](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980&t=75)** I'm also noticing here, there is no .gethub folder.
 >
@@ -1155,12 +1136,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### package.json
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980)
+#### [package.json](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=0)** - [Instructor] So, if we look up a repository here, it has the package.JSON file.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=0)** - [Instructor] So, if we look up a repository here, it has the package.[[JSON]] file.
 >
 > **[0:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=5)** Let's take a look at that.
 >
@@ -1170,13 +1150,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=26)** Even the use of the carrot symbol in the version number is exactly the same where you are accepting updates up to and not including the next major update.
 >
-> **[0:37](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=37)** So even that is consistent with the format that we use for PHP.
+> **[0:37](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=37)** So even that is consistent with the format that we use for [[PHP]].
 >
 > **[0:42](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=42)** Now, how do we actually use this?
 >
-> **[0:44](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=44)** Well, you need a tool called NPM, stands for a node.JS package manager.
+> **[0:44](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=44)** Well, you need a tool called [[npm]], stands for a [[Node.js]] package manager.
 >
-> **[0:49](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=49)** This is essentially a software registry where you're going to find most, if not all JavaScript libraries and dependencies.
+> **[0:49](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=49)** This is essentially a software registry where you're going to find most, if not all [[JavaScript]] libraries and dependencies.
 >
 > **[0:56](https://www.linkedin.com/learning/github-dependabot-dependency-updates/package-json?u=76281980&t=56)** So it's a great tool to use.
 >
@@ -1186,23 +1166,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (1), next (1), [[PHP]] (1), [[npm]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[PHP]] (1), [[npm]] (1), [[Node.js]] (1), [[JavaScript]] (1)
 > **CLI Commands:** composer (1), php (1), npm (1), node (1), find (1)
 > **Env Vars:** json (1), phb (1), php (1), npm (1), mpm (1)
 > **File Paths:** package.json (1), node.js (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### dependabot.yml for JavaScript projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980)
+#### [dependabot.yml for JavaScript projects](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=0)** - [Tutor] Now it's time to configure Dependabot for JavaScript.
+> **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=0)** - [Tutor] Now it's time to configure Dependabot for [[JavaScript]].
 >
 > **[0:04](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=4)** So let's go ahead and do that.
 >
-> **[0:06](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=6)** We're looking at package.json, and I want you to pay attention to something.
+> **[0:06](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=6)** We're looking at package.[[JSON]], and I want you to pay attention to something.
 >
 > **[0:10](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=10)** We have devDependencies as well as dependencies.
 >
@@ -1214,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=22)** We're going to start by creating a folder and you can probably guess the name by now.
 >
-> **[0:26](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=26)** It's going to be .GitHub.
+> **[0:26](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=26)** It's going to be .[[GitHub]].
 >
 > **[0:30](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=30)** And inside this folder, we're going to go right ahead, right click, new file.
 >
@@ -1224,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=49)** In this case is going to be N-P-M.
 >
-> **[0:52](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=52)** This is for our JavaScript package management.
+> **[0:52](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=52)** This is for our JavaScript [[Package Management]].
 >
 > **[0:55](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=55)** The directory is going to be the same.
 >
@@ -1250,7 +1229,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=126)** So in this dependency type, production, it will only touch, or scan rather, the ones that are in the first group or the production dependency group.
 >
-> **[2:17](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=137)** Another key word for you is the key word Ignore, which is used very similar to allow.
+> **[2:17](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=137)** Another key [[Microsoft Word|word]] for you is the key word Ignore, which is used very similar to allow.
 >
 > **[2:24](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=144)** In this case, I will type the dependency name, and say, for example, Axios.
 >
@@ -1278,7 +1257,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=204)** I'll click on comment.
 >
-> **[3:26](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=206)** I can synchronize those changes back to Git Hub.
+> **[3:26](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=206)** I can synchronize those changes back to [[Git]] Hub.
 >
 > **[3:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/dependabot-yml-for-javascript-projects?u=76281980&t=209)** And that's how you enable package management for JavaScript using the Dependabot.
 
@@ -1293,8 +1272,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
 
-#### Challenge: Dependabot pull requests for JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980)
+#### [Challenge: Dependabot pull requests for JavaScript](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,11 +1282,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=14)** We're going to do that by adding an additional ecosystem to an existing file.
 >
-> **[0:19](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=19)** So in this case what we're trying to simulate is that you have a project that uses JavaScript for the front end, and let's say you have PHP or Python for the backend.
+> **[0:19](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=19)** So in this case what we're trying to simulate is that you have a project that uses [[JavaScript]] for the front end, and let's say you have [[PHP]] or [[Python (Programming Language)|Python]] for the backend.
 >
 > **[0:29](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=29)** And in this case you're going to configure both using a single dependabot.yml file.
 >
-> **[0:35](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=35)** Now, if you add let's say PHP, you may need an additional composer.json file so that dependabot doesn't error out when trying to look for this file.
+> **[0:35](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=35)** Now, if you add let's say PHP, you may need an additional composer.[[JSON]] file so that dependabot doesn't error out when trying to look for this file.
 >
 > **[0:45](https://www.linkedin.com/learning/github-dependabot-dependency-updates/challenge-dependabot-pull-requests-for-javascript?u=76281980&t=45)** Another thing we're going to try here is the allow and ignore commands of the dependabot.yml file.
 >
@@ -1331,8 +1309,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Dependabot pull requests for JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980)
+#### [Solution: Dependabot pull requests for JavaScript](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1340,9 +1317,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=8)** Let me show you.
 >
-> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=9)** So we have this package.json, which contains JavaScript dependencies, but we also want to extend our dependabot.yml.
+> **[0:09](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=9)** So we have this package.[[JSON]], which contains [[JavaScript]] dependencies, but we also want to extend our dependabot.yml.
 >
-> **[0:17](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=17)** Let's say that we want to use PHP as the backend and JavaScript as the front end for our application while we want to just keep it to a single file.
+> **[0:17](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=17)** Let's say that we want to use [[PHP]] as the backend and JavaScript as the front end for our application while we want to just keep it to a single file.
 >
 > **[0:24](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=24)** So let's take a look.
 >
@@ -1412,7 +1389,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=163)** We're going to commit and synchronize our changes.
 >
-> **[2:46](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=166)** Let's go now to GitHub to verify that it worked.
+> **[2:46](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=166)** Let's go now to [[GitHub]] to verify that it worked.
 >
 > **[2:50](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=170)** Here we are in GitHub, and as you can see, it says one minute ago, click on GitHub.
 >
@@ -1422,9 +1399,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=185)** Click on dependency graph and dependabot.
 >
-> **[3:08](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=188)** And as you can see, we have package.json with the NPM logo there and composer.json with a PHP logo there.
+> **[3:08](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=188)** And as you can see, we have package.json with the [[npm]] logo there and composer.json with a PHP logo there.
 >
-> **[3:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=198)** So as you can see, dependendabot has no problem if you're using Python, Java, JavaScript, it doesn't matter the language, or a combination of them, you can manage all of those dependencies from a single location.
+> **[3:18](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=198)** So as you can see, dependendabot has no problem if you're using [[Python (Programming Language)|Python]], [[Java]], JavaScript, it doesn't matter the language, or a combination of them, you can manage all of those dependencies from a single location.
 >
 > **[3:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/solution-dependabot-pull-requests-for-javascript?u=76281980&t=213)** So please do that.
 >
@@ -1434,7 +1411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), [[PHP]] (7), [[JavaScript]] (5), [[GitHub]] (3), application (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[PHP]] (7), [[JavaScript]] (5), [[GitHub]] (3), [[npm]] (1)
 > **CLI Commands:** php (7), composer (6), make (1), npm (1), python (1)
 > **File Paths:** composer.json (5), dependabot.yml (3), package.json (2)
 > **Env Vars:** php (7), npm (1)
@@ -1448,24 +1425,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Links and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980)
+#### [Links and resources](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=0)** - Real quick before we go, let me give you some resources that are useful to me and you'll likely find useful as well.
 >
-> **[0:06](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=6)** First of all, the official documentation for our GitHub Dependabot is very user-friendly and to the point, so I highly recommend it.
+> **[0:06](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=6)** First of all, the official documentation for our [[GitHub]] Dependabot is very user-friendly and to the point, so I highly recommend it.
 >
-> **[0:14](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=14)** And of course, if you're still learning about GitHub, GitHub actions, Git in general and continuous integration, the LinkedIn learning library is just an amazing resource.
+> **[0:14](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=14)** And of course, if you're still learning about GitHub, GitHub actions, [[Git]] in general and [[Continuous Integration (CI)|continuous integration]], the [[LinkedIn]] learning library is just an amazing resource.
 >
 > **[0:25](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=25)** If you need to get specifics about the needs of a particular computer language on Dependabot, here's a short list based on the code that we just went through.
 >
-> **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=33)** The user guide to Python's PIP package manager has a link to requirements.txt, where it explains way more than you'll ever need to know about dependency management and versioning using PIP.
+> **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=33)** The user guide to [[Python (Programming Language)|Python]]'s PIP package manager has a link to requirements.txt, where it explains way more than you'll ever need to know about [[Dependency Management]] and versioning using PIP.
 >
-> **[0:47](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=47)** The same can be said about package.json, which you can find in the NPM official documentation page.
+> **[0:47](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=47)** The same can be said about package.[[JSON]], which you can find in the [[npm]] official documentation page.
 >
-> **[0:54](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=54)** And finally, since we also played with PHP, here's your link to PHPs composer documentation.
+> **[0:54](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980&t=54)** And finally, since we also played with [[PHP]], here's your link to PHPs composer documentation.
 
 > [!info]- Semantic Content
 >
@@ -1476,8 +1452,7 @@ created: 2026-05-02
 > **File Paths:** requirements.txt (1), package.json (1)
 > **Speakers:** - real (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,9 +1468,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980&t=31)** Dependabot plays really well, we get top actions.
 >
-> **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980&t=33)** So if you're an advanced user of GitHub, and you are comfortable with GitHub Actions, consider integrating these two tools.
+> **[0:33](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980&t=33)** So if you're an advanced user of [[GitHub]], and you are comfortable with GitHub Actions, consider integrating these two tools.
 >
-> **[0:42](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980&t=42)** You can learn more about GitHub Actions in the LinkedIn Learning Library.
+> **[0:42](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980&t=42)** You can learn more about GitHub Actions in the [[LinkedIn]] Learning Library.
 >
 > **[0:46](https://www.linkedin.com/learning/github-dependabot-dependency-updates/next-steps?u=76281980&t=46)** Finally, should you have questions or feedback, please use the Q&A section of this course, and I'll be glad to help you out.
 >
@@ -1503,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), next (2), [[Automation]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[LinkedIn]] (1)
 > **Tools:** github (3)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)

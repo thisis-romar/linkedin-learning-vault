@@ -17,7 +17,7 @@ tags:
   - topic/security
   - topic/network-and-system-administration
   - topic/devops
-course_count: 25
+course_count: 26
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Serverless Computing
 
-> **Type:** Concept | **Courses:** 25 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Network and System Administration]], [[DevOps]]
+> **Type:** Concept | **Courses:** 26 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Cybersecurity]], [[Network and System Administration]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 4 mentions
 10. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 3 mentions
 
-> [!note]- See all 25 courses
+> [!note]- See all 26 courses
 > 11. [[Building Serverless Applications in AWS]] — 3 mentions
 > 12. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
 > 13. [[Cloud Concepts Planning An Application Migration Strategy]] — 2 mentions
@@ -49,13 +49,14 @@ created: 2026-05-02
 > 16. [[A Beginner's Guide to Public Cloud Options]] — 1 mentions
 > 17. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
 > 18. [[Ethical Hacking- Cloud Computing]] — 1 mentions
-> 19. [[Migrating to Azure]] — 1 mentions
-> 20. [[Cloud for Business- Developing a Cloud Center of Excellence]] — 1 mentions
-> 21. [[AWS Essential Training for Architects]] — 1 mentions
-> 22. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 1 mentions
-> 23. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
-> 24. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
-> 25. [[Planning a Multicloud Solution (2022)]] — 1 mentions
+> 19. [[Cybersecurity with Cloud Computing]] — 1 mentions
+> 20. [[Migrating to Azure]] — 1 mentions
+> 21. [[Cloud for Business- Developing a Cloud Center of Excellence]] — 1 mentions
+> 22. [[AWS Essential Training for Architects]] — 1 mentions
+> 23. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 1 mentions
+> 24. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
+> 25. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
+> 26. [[Planning a Multicloud Solution (2022)]] — 1 mentions
 
 ## Learning Paths
 

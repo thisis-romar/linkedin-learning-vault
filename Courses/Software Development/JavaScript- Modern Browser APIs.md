@@ -93,14 +93,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building apps with modern JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980)
+#### [Building apps with modern JavaScript](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=1)** - It's never been a better time to be a web developer.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=4)** The kinds of applications that you can build on the web today using standard JavaScript, HTML, and CSS are highly capable, performant, and can do almost anything a native app can.
+> **[0:04](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=4)** The kinds of applications that you can build on the web today using standard [[JavaScript]], [[HTML]], and CSS are highly capable, performant, and can do almost anything a native app can.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=15)** It's hard to picture this today, but there was once a time when validating the content of a web form, or dynamically changing images on a page was about as advanced as JavaScript could get.
 >
@@ -112,31 +111,30 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=46)** Browser capabilities have evolved significantly, and, in many cases, the kinds of features that used to require third party libraries, or resorting to native application building can now be done with standard JavaScript.
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=59)** Hi, I'm Joe Marini, and I've been building software professionally for over 30 years at companies like Microsoft, Google, and Adobe.
+> **[0:59](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=59)** Hi, I'm Joe Marini, and I've been building software professionally for over 30 years at companies like [[Microsoft]], [[Google]], and Adobe.
 >
 > **[1:07](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980&t=67)** Come join me in my course, and see how we can build great applications with JavaScript, and modern browser APIs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[JavaScript]] (4), [[HTML]] (1), css (1), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** html (1), css (1)
 > **Analogies:** picture (1)
 > **Speakers:** - it (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=1)** - [Instructor] Before we get started, there are some things that you should already be familiar with.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=5)** First, you should be familiar with programming in JavaScript, since that's the main language that web browsers use and it's what we will be using in this course.
+> **[0:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=5)** First, you should be familiar with programming in [[JavaScript]], since that's the main language that web browsers use and it's what we will be using in this course.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=14)** You don't need to be an expert, but I do expect that you already know how to do things like write functions and handle events, and you're reasonably up to speed on the most recent version of JavaScript.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=24)** If you need to brush up on your JavaScript skills, I suggest you take a look at [[JavaScript Essential Training]].
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=29)** You should also have some experience building webpages with HTML and CSS.
+> **[0:29](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=29)** You should also have some experience building webpages with [[HTML]] and CSS.
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=34)** There are plenty of great courses to check out if you need to shore up your skills in these areas, and I'd suggest looking at [[HTML Essential Training]] and Learning CSS.
 >
@@ -146,17 +144,17 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=56)** VS Code is a free code editor that has a rich set of features and extensions that make it a great editor for almost any language.
 >
-> **[1:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=63)** It's available on Mac, Windows, and Linux, so whatever operating system you happen to be using, it should work there.
+> **[1:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=63)** It's available on Mac, [[Windows]], and [[Linux]], so whatever operating system you happen to be using, it should work there.
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=70)** You can download it for free from code.[visualstudio.com](https://visualstudio.com).
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=74)** If you'd like to learn more about VS Code before starting this course, I'd suggest you watch Visual Studio Code for Web Developers.
 >
-> **[1:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=80)** Once you feel comfortable with the subjects, you're ready to move on with the rest of the course.
+> **[1:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/what-you-should-know?u=76281980&t=80)** Once you feel comfortable with the subjects, you're ready to move on with the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), web (2), [[HTML]] (2), css (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2), [[Windows]] (1), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** visual studio (2), vs code (2), sublime (1), emacs (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (1)
@@ -164,8 +162,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/set-up-the-development-environment?u=76281980)
+#### [Set up the development environment](https://www.linkedin.com/learning/javascript-modern-browser-apis/set-up-the-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-modern-browser-apis/set-up-the-development-environment?u=76281980&t=87)** The reason I like httpbin is because it's a great resource for testing out web apps.
 >
-> **[1:32](https://www.linkedin.com/learning/javascript-modern-browser-apis/set-up-the-development-environment?u=76281980&t=92)** For example, I can generate sample JSON data just by going to [httpbin.org/JSON](httpbin.org/JSON).
+> **[1:32](https://www.linkedin.com/learning/javascript-modern-browser-apis/set-up-the-development-environment?u=76281980&t=92)** For example, I can generate sample [[JSON]] data just by going to [httpbin.org/JSON](httpbin.org/JSON).
 >
 > **[1:40](https://www.linkedin.com/learning/javascript-modern-browser-apis/set-up-the-development-environment?u=76281980&t=100)** And there you can see, if I choose the raw data, and there you can see the sample JSON data.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JSON]] (3), web (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Env Vars:** json (3)
 > **Tools:** vs code (2), visual studio (1)
 > **Prerequisites:** set up (2), install (1)
@@ -217,8 +214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Smoother animation with requestAnimationFrame()
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980)
+#### [Smoother animation with requestAnimationFrame()](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980&t=64)** So let's open the editor and build this example.
 >
-> **[1:07](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980&t=67)** Alright, so here I'm going to open up animation start.html.
+> **[1:07](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980&t=67)** Alright, so here I'm going to open up animation start.[[HTML]].
 >
 > **[1:11](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980&t=71)** And you can see my page here has a canvas element which is right down here.
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** open the (2), scroll down (2), scroll up (1)
 > **Code Identifiers:** animationref (4)
 > **Env Vars:** api (3)
@@ -311,8 +307,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Prerequisites:** initialization (1)
 
-#### Faster navigation with prefetch
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980)
+#### [Faster navigation with prefetch](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=101)** I'm going to say link rel is equal to prefetch and then I'm going to specify the destination as that destination page.
 >
-> **[1:52](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=112)** That's going to be prefetch page underscore page dot html.
+> **[1:52](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=112)** That's going to be prefetch page underscore page dot [[HTML]].
 >
 > **[1:58](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=118)** And I'll close the link.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=139)** So the browser is making a request for the prefetch page resource even though I haven't yet clicked on it.
 >
-> **[2:26](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=146)** So what I've done is I've told the browser that this page is very likely to be visited so to go ahead and fetch that page while the user is still on this one.
+> **[2:26](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=146)** So what I've done is I've told the browser that this page is very likely to be visited so to go ahead and [[Fetch]] that page while the user is still on this one.
 >
 > **[2:38](https://www.linkedin.com/learning/javascript-modern-browser-apis/faster-navigation-with-prefetch?u=76281980&t=158)** And this feature works with more than just pages.
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (3), [[HTML]] (2), [[Analytics]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Fetch]] (1)
 > **UI Navigation:** click on (3), open the (1)
 > **Code Identifiers:** prefetch_start (2), prefetch_page (1)
 > **Cross-References:** go back to (3)
@@ -385,8 +380,7 @@ created: 2026-05-02
 > **URLs:** [w3.org](https://w3.org) (1)
 > **Definitions:** is a  (1)
 
-#### Prioritized loading with preload
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/prioritized-loading-with-preload?u=76281980)
+#### [Prioritized loading with preload](https://www.linkedin.com/learning/javascript-modern-browser-apis/prioritized-loading-with-preload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-modern-browser-apis/prioritized-loading-with-preload?u=76281980&t=7)** Now, they may sound like similar operations, and they are, but there is an important difference.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/prioritized-loading-with-preload?u=76281980&t=12)** The prefetch directive we saw earlier gives a hint to the browser to fetch a resource that will likely be needed for the next navigation event.
+> **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/prioritized-loading-with-preload?u=76281980&t=12)** The prefetch directive we saw earlier gives a hint to the browser to [[Fetch]] a resource that will likely be needed for the next navigation event.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-modern-browser-apis/prioritized-loading-with-preload?u=76281980&t=23)** So for example, if we know that a user is very likely to visit a specific page after the one that they are currently on, because it's the next page of search results or the next page of a form, then we can ask the browser to get it in advance.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (3), data (2), [[Fetch]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** css (4), w3c (1)
 > **Documentation:** spec (2), w3c (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -468,14 +462,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - a (1)
 
-#### Server communication with Beacon API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980)
+#### [Server communication with Beacon API](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=1)** - [Instructor] Alright, now let's learn about the Beacon API.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=3)** So chances are, you've probably written code that makes use of Ajax to send data to a server using the XML http request object.
+> **[0:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=3)** So chances are, you've probably written code that makes use of [[AJAX]] to send data to a server using the XML http request object.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=12)** This capability makes it possible to send all kinds of data to the server from your web app, including analytics and other kinds of diagnostic data.
 >
@@ -549,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=234)** Alright, and here you can see our request.
 >
-> **[3:57](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=237)** So, right there, you can see that the post to this URL was the load event and I'm sending back a nonsense response, but you can customize the response up here in the Java Script.
+> **[3:57](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=237)** So, right there, you can see that the post to this URL was the load event and I'm sending back a nonsense response, but you can customize the response up here in the [[Java]] Script.
 >
 > **[4:09](https://www.linkedin.com/learning/javascript-modern-browser-apis/server-communication-with-beacon-api?u=76281980&t=249)** And you can see that we've got our first event being sent.
 >
@@ -593,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[AJAX]] (8), api (7), [[Analytics]] (3), web (1)
+> **Frameworks & Libraries:** [[AJAX]] (8), [[Java]] (1)
 > **Env Vars:** api (7), url (6), xml (1), w3c (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** sendbeacon (2), strevent (2)
@@ -602,8 +595,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 
-#### Element visibility with Intersection Observer
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/element-visibility-with-intersection-observer?u=76281980)
+#### [Element visibility with Intersection Observer](https://www.linkedin.com/learning/javascript-modern-browser-apis/element-visibility-with-intersection-observer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/javascript-modern-browser-apis/element-visibility-with-intersection-observer?u=76281980&t=53)** So let's take it for a spin in our code editor and exercise it a little bit.
 >
-> **[0:57](https://www.linkedin.com/learning/javascript-modern-browser-apis/element-visibility-with-intersection-observer?u=76281980&t=57)** So here in my editor, I'm going to open up intersection_start.html, and I'll hide the files so we have some more room.
+> **[0:57](https://www.linkedin.com/learning/javascript-modern-browser-apis/element-visibility-with-intersection-observer?u=76281980&t=57)** So here in my editor, I'm going to open up intersection_start.[[HTML]], and I'll hide the files so we have some more room.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-modern-browser-apis/element-visibility-with-intersection-observer?u=76281980&t=66)** And you can see that it contains a bunch of placeholder text along with an element that's down here in the content, and that's this element right here.
 >
@@ -709,7 +701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), data (2), web (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** isintersecting (2), intersectionratio (2), intersection_start (1), getelementbyid (1), targetelem (1)
 > **Env Vars:** api (3), css (1), w3c (1)
 > **Definitions:** is a  (2), means that (2), in other words (1)
@@ -723,8 +715,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980)
+#### [Overview of data handling](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +725,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=11)** In this chapter, we're going to spend some time looking at the modern APIs available to make working with data easier.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=18)** Over the years, various web standards have emerged to give developers the tools needed to perform basic data-related tasks.
+> **[0:18](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=18)** Over the years, various [[Web Standards]] have emerged to give developers the tools needed to perform basic data-related tasks.
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=25)** And this has resulted in a fairly complex set of APIs for working with data.
 >
@@ -748,11 +739,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=57)** Application cache never really fully solved all the scenarios of building true offline capable web apps, and WebSQL was never universally adopted.
 >
-> **[1:06](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=66)** The APIs that we're going to be working with in this chapter provide the functionality you need to work with data using the latest JavaScript standards, like Promises.
+> **[1:06](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=66)** The APIs that we're going to be working with in this chapter provide the functionality you need to work with data using the latest [[JavaScript]] standards, like Promises.
 >
-> **[1:15](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=75)** So we're going to start off learning about the fetch() API, which is a much nicer way of getting and posting data than XMLHttpRequest.
+> **[1:15](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=75)** So we're going to start off learning about the [[Fetch]]() API, which is a much nicer way of getting and posting data than XMLHttpRequest.
 >
-> **[1:24](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=84)** Then we'll take a look at an API provided by Mozilla Foundation, called localForage, which gives you a nice wrapper around the IndexedDB API, and simplifies some common data storage scenarios.
+> **[1:24](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=84)** Then we'll take a look at an API provided by Mozilla Foundation, called localForage, which gives you a nice wrapper around the IndexedDB API, and simplifies some common [[Data Storage]] scenarios.
 >
 > **[1:36](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980&t=96)** After that, we'll combine what we've learned about fetch() with the newer Cache API to see how to easily cache http request and response pairs locally.
 >
@@ -760,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (5), web (3), application (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Web Standards]] (1), [[JavaScript]] (1), [[Data Storage]] (1)
 > **Env Vars:** api (5)
 > **Code Identifiers:** localstorage (1), sessionstorage (1), localforage (1)
 > **CLI Commands:** make (2)
@@ -768,14 +759,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Easier Ajax with the Fetch API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980)
+#### [Easier Ajax with the Fetch API](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=1)** - [Speaker] Back when it was first introduced, the XML HTTP request API, sometimes called xHR, or even Ajax for short, had a huge impact on the quality of web applications.
+> **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=1)** - [Speaker] Back when it was first introduced, the XML HTTP request API, sometimes called xHR, or even [[AJAX]] for short, had a huge impact on the quality of web applications.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=12)** The modern API equivalent of xHR is called fetch.
+> **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=12)** The modern API equivalent of xHR is called [[Fetch]].
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=15)** And it dramatically simplifies writing code that requests data from remote servers.
 >
@@ -785,11 +775,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=29)** And let's begin by implementing a simple HTTP GET operation.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=35)** And I'm going to be using the HTTP [been.org](https://been.org) site here to retrieve some sample JSON code.
+> **[0:35](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=35)** And I'm going to be using the HTTP [been.org](https://been.org) site here to retrieve some sample [[JSON]] code.
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=42)** So let's start off with the code to perform, a get so all right fetch and the URL is HTTP [been.org/JSON](https://been.org/JSON).
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=59)** Now because the fetch API uses JavaScript promises, I can use the then function to chain onto this call and define the code for what happens next.
+> **[0:59](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=59)** Now because the fetch API uses [[JavaScript]] promises, I can use the then function to chain onto this call and define the code for what happens next.
 >
 > **[1:11](https://www.linkedin.com/learning/javascript-modern-browser-apis/easier-ajax-with-the-fetch-api?u=76281980&t=71)** So all right then, and that takes a callback function with the response.
 >
@@ -885,7 +875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Fetch]] (8), api (5), [[JSON]] (4), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[Fetch]] (8), [[JSON]] (4), [[JavaScript]] (4), [[AJAX]] (2)
 > **Env Vars:** api (5), http (4), json (4), url (2), xml (1)
 > **Code Identifiers:** xhr (2), underscore_start (1), content_type (1)
 > **Cross-References:** go back to (3)
@@ -894,8 +884,7 @@ created: 2026-05-02
 > **URLs:** [been.org](https://been.org) (2)
 > **API Endpoints:** get  (1), post  (1)
 
-#### Simplified IndexedDB with localForage
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980)
+#### [Simplified IndexedDB with localForage](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,11 +906,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=49)** You can download it from this sight, which also contains the detailed docs for it.
 >
-> **[0:54](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=54)** Using localForage you can treat IndexedDB databases as simple key value storage.
+> **[0:54](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=54)** Using localForage you can treat IndexedDB [[Databases]] as simple key value storage.
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=61)** So let's fire it up in our editor and take it for a spin.
 >
-> **[1:04](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=64)** So here in our editor I'm going to open up indexed_start.html and I've already downloaded and stored the minimized version of localForage.js in my folder here, so I've already got that in place.
+> **[1:04](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=64)** So here in our editor I'm going to open up indexed_start.[[HTML]] and I've already downloaded and stored the minimized version of localForage.js in my folder here, so I've already got that in place.
 >
 > **[1:21](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=81)** And you can see I'm accessing it here in this script tag.
 >
@@ -935,7 +924,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=116)** So when the user clicks the set button, I'm going to write localForage.setitem and that takes a key and a value, which we've already retrieved from the forum using these statements.
 >
-> **[2:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=132)** And what's nice is that localForage uses javascript promises, so I can just write then, and then I have my callback function, which will give me a value and I can write to the console that set item stored this value.
+> **[2:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=132)** And what's nice is that localForage uses [[JavaScript]] promises, so I can just write then, and then I have my callback function, which will give me a value and I can write to the console that set item stored this value.
 >
 > **[2:33](https://www.linkedin.com/learning/javascript-modern-browser-apis/simplified-indexeddb-with-localforage?u=76281980&t=153)** And then let's add the code to retrieve the data.
 >
@@ -989,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (2), [[Databases]] (2), api (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[HTML]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** localforage (10), indexed_start (1)
 > **File Paths:** indexed_start.html (1), localforage.js (1)
 > **CLI Commands:** make (1)
@@ -998,8 +987,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### localForage and multiple instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980)
+#### [localForage and multiple instances](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,7 +1001,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=27)** Alright, so here in the event handler for the create instances button which if we scroll back up you can see that there is a button here called btnMulti which is for Create Instances and then we've got buttons for storing and getting data.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=46)** So back down here in the event handler for the create instances button I'm going to create two different databases.
+> **[0:46](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=46)** So back down here in the event handler for the create instances button I'm going to create two different [[Databases]].
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=56)** So I'll have instance1 which will be localforage and I'll use the createInstance function and I have to pass in some options.
 >
@@ -1061,7 +1049,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=205)** Local forages are a really useful library for simplifying the IndexDB API for storing key value pairs while keeping the advantages of using this modern storage mechanism.
 >
-> **[3:37](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=217)** You get Javascript promises.
+> **[3:37](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=217)** You get [[JavaScript]] promises.
 >
 > **[3:39](https://www.linkedin.com/learning/javascript-modern-browser-apis/localforage-and-multiple-instances?u=76281980&t=219)** You get asynchronous code execution.
 >
@@ -1069,7 +1057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (1), [[Databases]] (1), api (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** indexed_start (1), btnmulti (1), createinstance (1), setitem (1), getitem (1)
 > **Env Vars:** api (1)
 > **Cross-References:** previous video (1)
@@ -1077,8 +1065,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - alright (1)
 
-#### Caching data with the Cache API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980)
+#### [Caching data with the Cache API](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1098,7 +1085,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=60)** So lets take a look at how we can modify an existing resource request to use the Cache API when available.
 >
-> **[1:06](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=66)** So over here in my code, I'm going to open up cache_start and if I scroll down you can see that when the user clicks this Get JSON data button it calls this function to get JSON data from this sample URL and that calls this function here so we use the Fetch API to get some data and then log it out to the console.
+> **[1:06](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=66)** So over here in my code, I'm going to open up cache_start and if I scroll down you can see that when the user clicks this Get [[JSON]] data button it calls this function to get JSON data from this sample URL and that calls this function here so we use the [[Fetch]] API to get some data and then log it out to the console.
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=93)** So lets go ahead and bring this up in the browser.
 >
@@ -1118,7 +1105,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=129)** So I'll write if caches is in the window property then we know that the Cache API is there.
 >
-> **[2:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=140)** So now I can open the Cache and check to see if our data is already there and just like with IndexedDB databases, you can have multiple different named caches.
+> **[2:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=140)** So now I can open the Cache and check to see if our data is already there and just like with IndexedDB [[Databases]], you can have multiple different named caches.
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-modern-browser-apis/caching-data-with-the-cache-api?u=76281980&t=151)** So I'm going to open, and I'm going to call it my-data-cache, and the Cache API uses promises so the result of that will be a function that comes back with my cache object.
 >
@@ -1186,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), api (12), [[JSON]] (10), hit (9), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Fetch]] (3), [[Databases]] (1)
 > **Env Vars:** api (12), json (10), url (10), http (3), mdn (1)
 > **UI Navigation:** click on (4), scroll down (1), open the (1)
 > **Analogies:** for example (2), just like (1)
@@ -1195,8 +1182,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** mdn (1)
 
-#### Making storage persistent
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/making-storage-persistent?u=76281980)
+#### [Making storage persistent](https://www.linkedin.com/learning/javascript-modern-browser-apis/making-storage-persistent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,7 +1214,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/making-storage-persistent?u=76281980&t=80)** So storage space is allocated on the browser on an origin by origin basis.
 >
-> **[1:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/making-storage-persistent?u=76281980&t=85)** So, if we go back to the code, I already have some code here that does Feature Detection to see if the Storage API is available, and if it is, I'll call the Estimate Function, which just like many new APIs these days, revolves as a Javascript promise.
+> **[1:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/making-storage-persistent?u=76281980&t=85)** So, if we go back to the code, I already have some code here that does Feature Detection to see if the Storage API is available, and if it is, I'll call the Estimate Function, which just like many new APIs these days, revolves as a [[JavaScript]] promise.
 >
 > **[1:44](https://www.linkedin.com/learning/javascript-modern-browser-apis/making-storage-persistent?u=76281980&t=104)** So I'll write: navigator.storage.estimate and then, use my Then Function to get a callback.
 >
@@ -1282,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (3), feature (3), web (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** getelementbyid (2), persistel (2), storage_start (1), dtpersisted (1), textcontent (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** api (3), ram (2)
@@ -1291,8 +1277,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Definitions:** in other words (1)
 
-#### Getting device memory information
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/getting-device-memory-information?u=76281980)
+#### [Getting device memory information](https://www.linkedin.com/learning/javascript-modern-browser-apis/getting-device-memory-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-modern-browser-apis/getting-device-memory-information?u=76281980&t=15)** So I've brought the spec up here in a browser and you can learn more about it by following this link.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/getting-device-memory-information?u=76281980&t=20)** In the mean time, let's jump over to the code and fill out the rest of our storage example to use the device memory API.
+> **[0:20](https://www.linkedin.com/learning/javascript-modern-browser-apis/getting-device-memory-information?u=76281980&t=20)** In the mean time, let's jump over to the code and fill out the [[Representational State Transfer (REST)|rest]] of our storage example to use the device memory API.
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-modern-browser-apis/getting-device-memory-information?u=76281980&t=28)** So I'm going to open up storage_start and I'll close the files list, so we have some space.
 >
@@ -1342,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Representational State Transfer (REST)|Rest]] (1), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (7), ram (5)
 > **Code Identifiers:** devmem (2), storage_start (1), devicememory (1), getelementbyid (1), devmemory (1)
 > **CLI Commands:** make (1)
@@ -1355,16 +1340,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Native overlays with the Dialog API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980)
+#### [Native overlays with the Dialog API](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=1)** - [Instructor] Dialogues and overlays are a fairly common sight on modern web apps.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=5)** But until recently they had to be built manually using position div elements and other CSS and JavaScript hacks.
+> **[0:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=5)** But until recently they had to be built manually using position div elements and other CSS and [[JavaScript]] hacks.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=12)** The HTML 5.2 spec introduced an official dialog element which is currently supported natively in Chrome and other browsers based on the Blink engine and is under development in Firefox.
+> **[0:12](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=12)** The [[HTML]] 5.2 spec introduced an official dialog element which is currently supported natively in Chrome and other browsers based on the Blink engine and is under development in Firefox.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=26)** In this page here, you know, click on the dialog element.
 >
@@ -1424,7 +1408,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=259)** All right, there's one more thing to look at so let's go back to the code.
 >
-> **[4:22](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=262)** So the values that are passed to the dialog close function are actually available to the rest of the program as returned values from the dialog.
+> **[4:22](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=262)** So the values that are passed to the dialog close function are actually available to the [[Representational State Transfer (REST)|rest]] of the program as returned values from the dialog.
 >
 > **[4:32](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980&t=272)** So dialogs also have a couple of events that your code can listen for, and I'm going to demonstrate both features here.
 >
@@ -1448,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (2), web (1), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (3), css (2), api (1)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** click on (2), open the (1), scroll down (1), scroll up (1)
@@ -1457,8 +1441,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Versions:** 5.2 (1)
 
-#### Integrating with native notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/integrating-with-native-notifications?u=76281980)
+#### [Integrating with native notifications](https://www.linkedin.com/learning/javascript-modern-browser-apis/integrating-with-native-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1506,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/javascript-modern-browser-apis/integrating-with-native-notifications?u=76281980&t=176)** Now this is going to look different based on the OS that you're running this on.
 >
-> **[2:59](https://www.linkedin.com/learning/javascript-modern-browser-apis/integrating-with-native-notifications?u=76281980&t=179)** So this is on the Mac, this will look different on Windows, it'll also look different on Linux or on mobile devices.
+> **[2:59](https://www.linkedin.com/learning/javascript-modern-browser-apis/integrating-with-native-notifications?u=76281980&t=179)** So this is on the Mac, this will look different on [[Windows]], it'll also look different on [[Linux]] or on mobile devices.
 >
 > **[3:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/integrating-with-native-notifications?u=76281980&t=185)** So we can customize this, let's go back to the code.
 >
@@ -1560,7 +1543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), api (2), feature (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Documentation:** spec (2), the documentation (2), w3c (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2), w3c (1)
@@ -1569,8 +1552,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), basically means (1)
 > **Speakers:** - [narrator] (1)
 
-#### Detecting network conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/detecting-network-conditions?u=76281980)
+#### [Detecting network conditions](https://www.linkedin.com/learning/javascript-modern-browser-apis/detecting-network-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,7 +1680,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), web (3), feature (3), css (1), application (1)
 > **Code Identifiers:** conntype (3), netstate (1), isonline (1), statuselem (1), onlinestate (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** api (4), css (1)
@@ -1706,9 +1687,9 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
+> **Best Practices:** don't forget (1)
 
-#### Using page visibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-page-visibility?u=76281980)
+#### [Using page visibility](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-page-visibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1742,7 +1723,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), web (1), data (1), next (1), game (1)
 > **Env Vars:** api (5)
 > **Code Identifiers:** pagevis_start (1), outputdiv (1), innerhtml (1), visibilitystate (1)
 > **Definitions:** is a  (1)
@@ -1750,8 +1730,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Going full screen with content
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/going-full-screen-with-content?u=76281980)
+#### [Going full screen with content](https://www.linkedin.com/learning/javascript-modern-browser-apis/going-full-screen-with-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,7 +1784,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/javascript-modern-browser-apis/going-full-screen-with-content?u=76281980&t=169)** So there's one for WebKit, and there's one for Mozilla, which is M-O-Z, and that's request fullscreen, that's a capital s in their case.
 >
-> **[3:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/going-full-screen-with-content?u=76281980&t=185)** And then there's one for Microsoft.
+> **[3:05](https://www.linkedin.com/learning/javascript-modern-browser-apis/going-full-screen-with-content?u=76281980&t=185)** And then there's one for [[Microsoft]].
 >
 > **[3:10](https://www.linkedin.com/learning/javascript-modern-browser-apis/going-full-screen-with-content?u=76281980&t=190)** And then I'll just simply copy and paste each of these.
 >
@@ -1835,15 +1814,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), web (1), feature (1), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** api (5)
 > **UI Navigation:** open the (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - modern (1)
 
-#### Using full-screen events and styling
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980)
+#### [Using full-screen events and styling](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1899,9 +1877,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980&t=137)** Which is dash moz dash fullscreen.
 >
-> **[2:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980&t=145)** And then there's another one and in this case there's the Microsoft version which is dash ms dash fullscreen.
+> **[2:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980&t=145)** And then there's another one and in this case there's the [[Microsoft]] version which is dash ms dash fullscreen.
 >
-> **[2:34](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980&t=154)** That's all one word.
+> **[2:34](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980&t=154)** That's all one [[Microsoft Word|word]].
 >
 > **[2:35](https://www.linkedin.com/learning/javascript-modern-browser-apis/using-full-screen-events-and-styling?u=76281980&t=155)** Then finally an older version of the API which is full dash screen button.
 >
@@ -1959,18 +1937,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), css (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (4), css (1)
 > **UI Navigation:** scroll down (1), open the (1), go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic images with CSS Paint API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980)
+#### [Dynamic images with CSS Paint API](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=1)** - [Instructor] What I'm about to say might surprise you, but there's a very important area of web development that hasn't really seen a whole lot of innovation for JavaScript programmers, and that's CSS.
+> **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=1)** - [Instructor] What I'm about to say might surprise you, but there's a very important area of [[Web Development]] that hasn't really seen a whole lot of innovation for [[JavaScript]] programmers, and that's CSS.
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=11)** Now of course, CSS has added a ton of features for designers over the years, and most of those are accessible to developers.
 >
@@ -2000,7 +1977,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=107)** And the way that this works is we're going to create something called a paint worklet that will do the drawing.
 >
-> **[1:53](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=113)** And by the way, this uses the HTML Canvas API, so if you're not familiar with Canvas, I suggest you go take a look at the Learning HTML Canvas course.
+> **[1:53](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=113)** And by the way, this uses the [[HTML]] Canvas API, so if you're not familiar with Canvas, I suggest you go take a look at the Learning HTML Canvas course.
 >
 > **[2:02](https://www.linkedin.com/learning/javascript-modern-browser-apis/dynamic-images-with-css-paint-api?u=76281980&t=122)** Alright, so step number one is to see if paint worklets are supported, and then register our painting module.
 >
@@ -2070,7 +2047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (14), [[JavaScript]] (5), [[HTML]] (5), api (2), next (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (5), [[Web Development]] (1)
 > **Env Vars:** css (13), html (5), api (2)
 > **Code Identifiers:** csspaint_start (3), registerpaint (3), paintworklet (2), addmodule (2), linewidth (1)
 > **File Paths:** csspaint_start.js (2)
@@ -2079,14 +2056,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
-#### Parameters with CSS Paint API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980)
+#### [Parameters with CSS Paint API](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=1)** - [Instructor] Okay, let's pick up where we left off on our last example by adding the ability to customize the image that gets drawn by using CSS custom properties.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=10)** So, here in my editor, I'm going to open up the CSS start html and CSS paint start JS files, and you can see this is where we left off.
+> **[0:10](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=10)** So, here in my editor, I'm going to open up the CSS start [[HTML]] and CSS paint start JS files, and you can see this is where we left off.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=21)** So, what I need to do first is define two custom properties in my style sheet that are going to represent the thickness and color of the lines.
 >
@@ -2118,13 +2094,13 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=202)** I'll change that to purple, and you can see the color is changing.
 >
-> **[3:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=205)** So, I can use the built in browser tools to change the values in the style sheet, and you can see that my JavaScript class is picking up those values and using them on the fly.
+> **[3:25](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=205)** So, I can use the built in browser tools to change the values in the style sheet, and you can see that my [[JavaScript]] class is picking up those values and using them on the fly.
 >
 > **[3:37](https://www.linkedin.com/learning/javascript-modern-browser-apis/parameters-with-css-paint-api?u=76281980&t=217)** So, this is a really exciting new area for developers, and I encourage you to check out and follow the Houdini project as it progresses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (5)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** make (1)
@@ -2137,20 +2113,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=1)** - [Instructor] Well congratulations on finishing the course.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=3)** I hope you enjoyed learning about the modern features available to JavaScript developers in today's modern browsers.
+> **[0:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=3)** I hope you enjoyed learning about the modern features available to [[JavaScript]] developers in today's modern browsers.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=9)** And that hopefully you're inspired to try some of these APIs out in your projects.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=13)** Of course, there's a lot more to building great modern web apps than just using APIs, and I have a few suggestions on where you might want to go next.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=22)** If you want to learn more about building modern, progressive web apps, then there are a couple of courses to consider watching: Building a Progressive Web App and Vanilla [[JavaScript- Service Workers]].
+> **[0:22](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=22)** If you want to learn more about building modern, progressive web apps, then there are a couple of courses to consider watching: Building a Progressive Web App and [[Vanilla]] [[JavaScript- Service Workers]].
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=34)** Each of which cover important topics that are key to building great progressive web apps.
 >
@@ -2158,7 +2133,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=53)** Finally, if you liked what you saw in Using Visual Studio Code and want to learn more about it, then I suggest watching Visual Studio Code for Web Developers.
 >
-> **[1:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=63)** And of course, remember to stay on top of new developments by checking out the emerging web standards at the W3C and WHATWG working groups.
+> **[1:03](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=63)** And of course, remember to stay on top of new developments by checking out the emerging [[Web Standards]] at the W3C and WHATWG working groups.
 >
 > **[1:11](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980&t=71)** I hope to see you again in another one of my courses soon.
 >
@@ -2166,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[JavaScript]] (2), next (1), [[Vanilla]] (1), web application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Vanilla]] (1), [[Web Standards]] (1)
 > **Env Vars:** w3c (1), whatwg (1)
 > **Tools:** visual studio (2)
 > **Documentation:** w3c (1)

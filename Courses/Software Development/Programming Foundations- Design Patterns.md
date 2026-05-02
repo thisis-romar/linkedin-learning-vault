@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Don't reinvent the wheel
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980)
+#### [Don't reinvent the wheel](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980&t=18)** But chances are some developer has already encountered a design challenge similar to yours, and they've come up with a solution and captured it in a design pattern, a design pattern that's well documented and ready for you to use.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980&t=35)** - Design patterns are general solutions to common object-oriented problems.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980&t=35)** - [[Design Patterns]] are general solutions to common object-oriented problems.
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980&t=40)** You can use design patterns to create software that is more flexible, maintainable, and resilient to change.
 >
@@ -133,12 +132,11 @@ created: 2026-05-02
 > **Speakers:** - object (1), - design (1), - hi (1), - and (1)
 > **Analogies:** similar to (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=0)** - To be successful in this course, you should have experience with a programming language like Java, C#, Python, Swift or another object-oriented language.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=0)** - To be successful in this course, you should have experience with a programming language like [[Java]], C#, [[Python (Programming Language)|Python]], [[Swift (Programming Language)|Swift]] or another object-oriented language.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=12)** During the course, we'll be looking at small snippets of code.
 >
@@ -150,17 +148,17 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=41)** You don't need prior experience with Java but it will be helpful.
 >
-> **[0:45](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=45)** We've kept examples fairly simple, so you should be able to easily transfer the ideas to your favorite object-oriented programming language.
+> **[0:45](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=45)** We've kept examples fairly simple, so you should be able to easily transfer the ideas to your favorite [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=53)** - We won't be using a specific IDE for this course, so if you'd like any additional information on how to compile and run Java code on your own, we'd recommend you take a look at some of the Java courses available like Java Essential Training or Java IDE Overview courses.
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=72)** Both of these courses will get you started with Java if you want to compile and run the examples.
 >
-> **[1:18](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=78)** - This course builds on the principles of object-oriented programming, but at any point during this course you need a review of inheritance, polyno-rithms, abstraction or encapsulation, take a look at Programming Foundations Object-Oriented Design for a good overview.
+> **[1:18](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-you-should-know?u=76281980&t=78)** - This course builds on the principles of object-oriented programming, but at any point during this course you need a review of inheritance, polyno-rithms, abstraction or encapsulation, take a look at [[Programming Foundations]] Object-Oriented Design for a good overview.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Java]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1), [[Programming Foundations]] (1)
 > **Speakers:** - to (1), - you (1), - we (1), - this (1)
 > **Env Vars:** ide (2), uml (1)
 > **CLI Commands:** python (1)
@@ -171,14 +169,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object-oriented design experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980)
+#### [Object-oriented design experience](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=0)** - Object-oriented design experience doesn't come easy, and it can take a lot of trial and error to come up with designs that are flexible and extensible.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=10)** We're all taught the importance of the fundamental properties of object-oriented programming, namely inheritance, polymorphism, abstraction, and encapsulation.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=10)** We're all taught the importance of the fundamental properties of [[Object-Oriented Programming (OOP)|object-oriented programming]], namely inheritance, polymorphism, abstraction, and encapsulation.
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=21)** When these are the only tools in your toolbox, your design process can quickly go off the rails.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=41)** This is packaged up code that you compile into your application so that you can benefit from code that other developers have written.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=50)** Design patterns, on the other hand, give us packaged up design insight and experience.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=50)** [[Design Patterns]], on the other hand, give us packaged up design insight and experience.
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=56)** Design patterns provide paths to solutions for some of the most common object-oriented design conundrums.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=89)** In this course, we're going to start to get those patterns into your brain.
 >
-> **[1:34](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=94)** - Design patterns were first described in the book Design Patterns: Elements of Reusable Object-Oriented Software Design.
+> **[1:34](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=94)** - Design patterns were first described in the book Design Patterns: Elements of Reusable Object-Oriented [[Software Design]].
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980&t=103)** This book was written by four software engineers affectionately known as the gang of four.
 >
@@ -230,22 +227,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), application (1), [[Software Design]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Software Design]] (1)
 > **Speakers:** - object (1), - no (1), - we (1), - design (1), - so (1)
 > **CLI Commands:** make (2), rails (1)
 > **Prerequisites:** you'll need (2)
 > **Definitions:** known as (1)
 
-#### What are design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980)
+#### [What are design patterns?](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=0)** - [Instructor] Design patterns are all about reusing experience, design experience.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=0)** - [Instructor] [[Design Patterns]] are all about reusing experience, design experience.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=5)** Design patterns aren't algorithms, and they're not code.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=5)** Design patterns aren't [[Algorithms]], and they're not code.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=9)** A design pattern is an approach to thinking about software design that incorporates the experience of developers who've had similar problems, as well as fundamental design principles that guide how we structure software designs.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=9)** A design pattern is an approach to thinking about [[Software Design]] that incorporates the experience of developers who've had similar problems, as well as fundamental design principles that guide how we structure software designs.
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=24)** A design pattern is usually expressed by a definition, and a class diagram, and collected into a catalog of patterns.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=57)** Design patterns are not specific solutions for specific kinds of software.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=62)** There isn't one design pattern for banking software, and a different design pattern for game software, and another pattern for social media software.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=62)** There isn't one design pattern for [[Banking]] software, and a different design pattern for game software, and another pattern for social media software.
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-patterns?u=76281980&t=72)** Rather, design patterns are general solutions for common problems that crop up in all kinds of applications.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Algorithms]] (1), [[Software Design]] (1), [[Banking]] (1), game (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Algorithms]] (1), [[Software Design]] (1), [[Banking]] (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is an  (1)
@@ -297,12 +293,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are design principles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980)
+#### [What are design principles?](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=0)** - [Instructor] Although this course is about design patterns, you'll also find it beneficial to learn a set of object-oriented design principles.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=0)** - [Instructor] Although this course is about [[Design Patterns]], you'll also find it beneficial to learn a set of object-oriented design principles.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=8)** These principles go beyond the object-oriented basics you already know, like inheritance, polymorphism, abstraction, and encapsulation.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=108)** This also won't be the last you see of the encapsulate what varies principle.
 >
-> **[1:52](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=112)** This one principle forms the basis for almost every design pattern.
+> **[1:52](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=112)** This one principle [[Forms]] the basis for almost every design pattern.
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/what-are-design-principles?u=76281980&t=117)** Almost all patterns provide a way to let some part of the system vary independently from the other parts.
 >
@@ -356,8 +351,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Revisiting inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980)
+#### [Revisiting inheritance](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980&t=43)** This is a powerful technique, and there are many designs where inheritance is exactly the right choice.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980&t=50)** While inheritance is a core concept in object-oriented programming, it's also easy to overdo inheritance and make it the basis of all your object-oriented design.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980&t=50)** While inheritance is a core concept in [[Object-Oriented Programming (OOP)|object-oriented programming]], it's also easy to overdo inheritance and make it the basis of all your object-oriented design.
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980&t=61)** It's easy to treat inheritance as a hammer, making every design look like it needs superclasses and subclasses, in other words, your nails.
 >
@@ -393,14 +387,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **CLI Commands:** cat (2), make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - inheritance (1)
 
-#### Limitations of inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/limitations-of-inheritance?u=76281980)
+#### [Limitations of inheritance](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/limitations-of-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,19 +487,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), application (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trying interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980)
+#### [Trying interfaces](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=0)** - [Instructor] Now if you're a well-schooled Java developer, you might be saying, hey, let's use interfaces instead.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=0)** - [Instructor] Now if you're a well-schooled [[Java]] developer, you might be saying, hey, let's use interfaces instead.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=7)** You might remember that an interface defines the methods an object must implement in order to be a particular type.
 >
@@ -538,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=115)** Worse, any changes needed to flying or quacking would cause a maintenance nightmare as we'll probably have to look at the code in every one of those classes and make changes.
 >
-> **[2:05](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=125)** And another thing, we can't easily make runtime changes to our behaviors should we want to, if wanted a duck to start life not being able to fly and then for that duck to acquire the ability to fly midway through the simulation.
+> **[2:05](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=125)** And another thing, we can't easily make runtime changes to our behaviors should we want to, if wanted a duck to start life not being able to fly and then for that duck to acquire the ability to fly midway through the [[Simulation]].
 >
 > **[2:20](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/trying-interfaces?u=76281980&t=140)** How would we do that in an elegant way?
 >
@@ -551,8 +542,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get inspiration from design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980)
+#### [Get inspiration from design principles](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,7 +576,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=62)** Encapsulate what varies.
 >
-> **[1:04](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=64)** This principles says that if some aspect of your code is changing, for instance, say you find yourself altering the flying and quacking code every time you add a new type of duck, well, that's a strong indication that you need to pull out those parts that are changing and to separate them from the rest of your code.
+> **[1:04](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=64)** This principles says that if some aspect of your code is changing, for instance, say you find yourself altering the flying and quacking code every time you add a new type of duck, well, that's a strong indication that you need to pull out those parts that are changing and to separate them from the [[Representational State Transfer (REST)|rest]] of your code.
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=80)** How does that help?
 >
@@ -596,7 +586,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=90)** As an example, if we can separate out what's varying in our ducks, like their flying and quacking behaviors, then we can isolate all the changes we'll need to make to those behaviors in the future.
 >
-> **[1:41](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=101)** As we've said, this idea of separating what varies is an idea you're going to see over and over with design patterns and in general with good object-oriented design and each pattern tends to provide a unique way of achieving this.
+> **[1:41](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=101)** As we've said, this idea of separating what varies is an idea you're going to see over and over with [[Design Patterns]] and in general with good object-oriented design and each pattern tends to provide a unique way of achieving this.
 >
 > **[1:55](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/get-inspiration-from-design-principles?u=76281980&t=115)** Now let's see if we can apply the encapsulate what varies principles to our duck simulator.
 >
@@ -649,8 +639,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Programming to an interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/programming-to-an-interface?u=76281980)
+#### [Programming to an interface](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/programming-to-an-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,21 +679,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** sample code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980)
+#### [Applying the principles](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=0)** - [Instructor] Let's take a look at some sample code to demonstrate how we implement our new design and pull out and separate what varies in our code.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=9)** For this sample code, we'll just Java.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=9)** For this sample code, we'll just [[Java]].
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=13)** We'll be showing just a few snippets of code.
 >
@@ -744,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=110)** We've got two variables in the Duck class, flyBehavior and quackBehavior.
 >
-> **[1:55](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=115)** We'll use these variables to compose a duck with its flying and quacking behavior.
+> **[1:55](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=115)** We'll use these variables to [[Jetpack Compose|compose]] a duck with its flying and quacking behavior.
 >
 > **[2:01](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-the-principles?u=76281980&t=121)** Notice that we're using the interface types for these variables, so we can store any flying and quacking behavior in these variables.
 >
@@ -802,8 +789,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/exploring-the-strategy-pattern?u=76281980)
+#### [Exploring the strategy pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/exploring-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -823,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/exploring-the-strategy-pattern?u=76281980&t=53)** Any algorithm that an object might need to perform.
 >
-> **[0:57](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/exploring-the-strategy-pattern?u=76281980&t=57)** By moving these algorithms out from the main inheritance hierarchy, we get the benefit of being able to choose which algorithm each object gets.
+> **[0:57](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/exploring-the-strategy-pattern?u=76281980&t=57)** By moving these [[Algorithms]] out from the main inheritance hierarchy, we get the benefit of being able to choose which algorithm each object gets.
 >
 > **[1:06](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/exploring-the-strategy-pattern?u=76281980&t=66)** We can change these algorithms at runtime and if multiple objects need to use the same algorithm, we get the benefit of code reuse too.
 >
@@ -844,8 +830,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why HAS-A is better than IS-A
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/why-has-a-is-better-than-is-a?u=76281980)
+#### [Why HAS-A is better than IS-A](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/why-has-a-is-better-than-is-a?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/why-has-a-is-better-than-is-a?u=76281980&t=88)** Rather than limiting us to one specific implementation of behavior, we can make use of any appropriate concrete behavior, that's been implemented as a fly behavior.
 >
-> **[1:38](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/why-has-a-is-better-than-is-a?u=76281980&t=98)** In fact, we can say that composition gives us a whole new family of algorithms, that we can make use of.
+> **[1:38](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/why-has-a-is-better-than-is-a?u=76281980&t=98)** In fact, we can say that composition gives us a whole new family of [[Algorithms]], that we can make use of.
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/why-has-a-is-better-than-is-a?u=76281980&t=104)** Now if you've happily been using inheritance, in your designs, this principle may surprise you.
 >
@@ -905,8 +890,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980)
+#### [Challenge: The Strategy pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,7 +904,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=21)** BasicCameraApp, and CameraPlusApp.
 >
-> **[0:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=24)** The edit method in the superclass is abstract, because each camera app will provide its own specialized editor, but the rest of the methods can be inherited by the subclasses.
+> **[0:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=24)** The edit method in the superclass is abstract, because each camera app will provide its own specialized editor, but the [[Representational State Transfer (REST)|rest]] of the methods can be inherited by the subclasses.
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=36)** We get a lot of code reuse, because the taking, saving and sharing are the same across many apps.
 >
@@ -938,7 +922,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=87)** You'd love to separate that sharing code from the rest of the PhoneCameraApp superclass so you don't risk causing a problem each time you have to edit the class.
 >
-> **[1:37](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=97)** Your challenge is to redesign this class design to use the Strategy pattern, to encapsulate what's varying, that is, the sharing algorithm, and make it easy to modify the code and add new sharing algorithms without having to open up the superclass to do so.
+> **[1:37](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=97)** Your challenge is to redesign this class design to use the Strategy pattern, to encapsulate what's varying, that is, the sharing algorithm, and make it easy to modify the code and add new sharing [[Algorithms]] without having to open up the superclass to do so.
 >
 > **[1:54](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-strategy-pattern?u=76281980&t=114)** And, while you're at it, go ahead and add the social media sharing to the class design, too.
 
@@ -950,8 +934,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: The Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-strategy-pattern?u=76281980)
+#### [Solution: The Strategy pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-strategy-pattern?u=76281980&t=8)** We've pulled out the different ways of sharing into a separate family of classes that implement sharing by texting, sharing by email, and sharing on social media.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-strategy-pattern?u=76281980&t=18)** This is our family of algorithms.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-strategy-pattern?u=76281980&t=18)** This is our family of [[Algorithms]].
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-strategy-pattern?u=76281980&t=20)** We've also added a property to the PhoneCameraApp superclass that will be composed with a strategy that the user selects.
 >
@@ -981,12 +964,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980)
+#### [Understanding the adapter pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980&t=0)** - We just learned about the strategy pattern so you might have this idea that all design patterns are abstract and un-intuitive.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980&t=0)** - We just learned about the strategy pattern so you might have this idea that all [[Design Patterns]] are abstract and un-intuitive.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980&t=8)** Well, that's not the case.
 >
@@ -1024,8 +1006,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - we (1)
 
-#### The Adapter pattern defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-adapter-pattern-defined?u=76281980)
+#### [The Adapter pattern defined](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-adapter-pattern-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,12 +1056,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-adapter-pattern?u=76281980)
+#### [Using the Adapter pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1133,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-adapter-pattern?u=76281980&t=219)** We have a client that's expecting to make calls on a class with a given interface.
 >
-> **[3:44](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-adapter-pattern?u=76281980&t=224)** So we compose that client with an adapter and we compose the adapter with the adaptee.
+> **[3:44](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-adapter-pattern?u=76281980&t=224)** So we [[Jetpack Compose|compose]] that client with an adapter and we compose the adapter with the adaptee.
 >
 > **[3:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-adapter-pattern?u=76281980&t=230)** The adaptor sits in the middle of the client and the adaptee and delegates the client's calls to the adaptee.
 >
@@ -1171,8 +1150,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-adapter-pattern?u=76281980)
+#### [Challenge: The Adapter pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,8 +1178,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: The Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-adapter-pattern?u=76281980)
+#### [Solution: The Adapter pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,8 +1227,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-observer-pattern?u=76281980)
+#### [Understanding the Observer pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,13 +1281,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
-#### The Observer pattern defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-observer-pattern-defined?u=76281980)
+#### [The Observer pattern defined](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-observer-pattern-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,17 +1327,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** analogous to (1)
 > **Speakers:** - thinking (1)
 
-#### Using the Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-observer-pattern?u=76281980)
+#### [Using the Observer pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-observer-pattern?u=76281980&t=0)** - [Instructor] Let's take a look at the Java code to implement our basic observer pattern design.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-observer-pattern?u=76281980&t=0)** - [Instructor] Let's take a look at the [[Java]] code to implement our basic observer pattern design.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-observer-pattern?u=76281980&t=6)** We'll start with the Subject interface.
 >
@@ -1413,13 +1385,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** registerobserver (3), removeobserver (2), notifyobservers (2), setvalue (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Observer pattern and loose coupling
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-observer-pattern-and-loose-coupling?u=76281980)
+#### [The Observer pattern and loose coupling](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-observer-pattern-and-loose-coupling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,8 +1431,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-observer-pattern?u=76281980)
+#### [Challenge: The Observer pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,14 +1455,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (high energy music) (1)
 
-#### Solution: The Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-observer-pattern?u=76281980)
+#### [Solution: The Observer pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1480,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
@@ -1521,8 +1488,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating chaos with inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/creating-chaos-with-inheritance?u=76281980)
+#### [Creating chaos with inheritance](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/creating-chaos-with-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,8 +1586,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - we (1)
 
-#### Understanding the open-closed principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-open-closed-principle?u=76281980)
+#### [Understanding the open-closed principle](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-open-closed-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1651,7 +1616,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-open-closed-principle?u=76281980&t=79)** "How do we allow something to be extended "that can't be modified?"
 >
-> **[1:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-open-closed-principle?u=76281980&t=84)** Well, that's one place that design patterns can help and we already know we're going to apply the decorator pattern to this problem.
+> **[1:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-open-closed-principle?u=76281980&t=84)** Well, that's one place that [[Design Patterns]] can help and we already know we're going to apply the decorator pattern to this problem.
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-open-closed-principle?u=76281980&t=91)** But before we actually introduce the pattern let's get some hints from some things that we've already learned in this course.
 >
@@ -1679,13 +1644,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Design Patterns]] (1), power (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending behavior with composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/extending-behavior-with-composition?u=76281980)
+#### [Extending behavior with composition](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/extending-behavior-with-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1663,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/extending-behavior-with-composition?u=76281980&t=25)** Let's also call this object our base object, the coffee itself.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/extending-behavior-with-composition?u=76281980&t=30)** Next, the customer wants Mocha, so let's create a second object, a Mocha object and wrap it around or compose it with the DarkRoast object.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/extending-behavior-with-composition?u=76281980&t=30)** Next, the customer wants Mocha, so let's create a second object, a Mocha object and wrap it around or [[Jetpack Compose|compose]] it with the DarkRoast object.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/extending-behavior-with-composition?u=76281980&t=41)** We'll call Mocha a Decorator and as to the hint to the structure of all this, Mocha's type is going to mirror the type of the object that it's composed with.
 >
@@ -1755,15 +1719,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jetpack Compose|Compose]] (2)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2)
 > **Versions:** 0.99 (1), 0.20 (1), 0.10 (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-decorator-pattern?u=76281980)
+#### [Understanding the decorator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,14 +1766,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-decorator-pattern?u=76281980)
+#### [Using the Decorator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,14 +1885,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Versions:** 1.09 (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [female (1)
 
-#### Challenge: The Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-decorator-pattern?u=76281980)
+#### [Challenge: The Decorator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1953,8 +1912,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
 
-#### Solution: The Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-decorator-pattern?u=76281980)
+#### [Solution: The Decorator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,16 +1953,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Encapsulating iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980)
+#### [Encapsulating iteration](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980&t=0)** - We have many ways to store collections of objects in data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980&t=0)** - We have many ways to store collections of objects in [[Data Structures]].
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980&t=5)** For example, most modern programming languages provide arrays.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980&t=10)** If you're using Java, you could store menu items for a menu in an array like this.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980&t=10)** If you're using [[Java]], you could store menu items for a menu in an array like this.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980&t=16)** Most languages provide additional structures for storing collections of objects like lists, dictionaries and sets.
 >
@@ -2038,13 +1995,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Data Structures]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Understanding the Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-iterator-pattern?u=76281980)
+#### [Understanding the Iterator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,7 +2042,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-iterator-pattern?u=76281980&t=68)** First, what is an aggregate object?
 >
-> **[1:11](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-iterator-pattern?u=76281980&t=71)** Well that's just a collection of objects, like an Array, Well that's just a collection of objects, like an Array, or in Java, the Collection classes, like an ArrayList.
+> **[1:11](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-iterator-pattern?u=76281980&t=71)** Well that's just a collection of objects, like an Array, Well that's just a collection of objects, like an Array, or in [[Java]], the Collection classes, like an ArrayList.
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-iterator-pattern?u=76281980&t=74)** or in Java, the Collection classes, like an ArrayList.
 >
@@ -2133,8 +2089,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-iterator-pattern?u=76281980)
+#### [Using the Iterator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2192,18 +2147,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), api (1)
 > **Code Identifiers:** hasnext (5)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using built-in iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-built-in-iterators?u=76281980)
+#### [Using built-in iterators](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-built-in-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-built-in-iterators?u=76281980&t=0)** - [Instructor] Java offers a built-in iterator interface.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-built-in-iterators?u=76281980&t=0)** - [Instructor] [[Java]] offers a built-in iterator interface.
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-built-in-iterators?u=76281980&t=3)** Java.util.iterator.
 >
@@ -2229,8 +2182,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The single responsibility principle
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-single-responsibility-principle?u=76281980)
+#### [The single responsibility principle](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-single-responsibility-principle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2274,18 +2226,17 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### The iterator pattern as language feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980)
+#### [The iterator pattern as language feature](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=0)** - [Instructor] The iterator pattern is one of those patterns that is so useful it's become built-in to languages as language features.
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=8)** Languages provide built-in iterators as we saw with Java collections and they use iterators in language statements too.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=8)** Languages provide built-in iterators as we saw with [[Java]] collections and they use iterators in language statements too.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=16)** These statements hide the iterator pattern and it's iterators behind the scenes and make it easy to iterate through collections of values.
 >
-> **[0:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=24)** Java, Python and JavaScript all have statements that use the iterator pattern behind the scenes.
+> **[0:24](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=24)** Java, [[Python (Programming Language)|Python]] and [[JavaScript]] all have statements that use the iterator pattern behind the scenes.
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-iterator-pattern-as-language-feature?u=76281980&t=31)** Java's enhanced for statement is designed for iteration through collections and arrays.
 >
@@ -2308,8 +2259,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-iterator-pattern?u=76281980)
+#### [Challenge: The Iterator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2335,17 +2285,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: The Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-iterator-pattern?u=76281980)
+#### [Solution: The Iterator pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-iterator-pattern?u=76281980&t=0)** - [Narrator] For our challenge solution, we chose the Swift programming language.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-iterator-pattern?u=76281980&t=0)** - [Narrator] For our challenge solution, we chose the [[Swift (Programming Language)|Swift]] programming language.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-iterator-pattern?u=76281980&t=10)** And Swift aggregate objects, like arrays and sets and dictionaries, are all sequences, and they all provide built-in iterators.
 >
@@ -2357,7 +2305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2366,8 +2314,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for factory patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980)
+#### [The need for factory patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2425,7 +2372,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=177)** And the method will make the pizza for us and return and object that implements the pizza interface.
 >
-> **[3:03](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=183)** All this creation code is now in one place, nicely separated from the rest of the restaurant code.
+> **[3:03](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=183)** All this creation code is now in one place, nicely separated from the [[Representational State Transfer (REST)|rest]] of the restaurant code.
 >
 > **[3:09](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=189)** Let's integrate this back into the original restaurant code.
 >
@@ -2453,20 +2400,19 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=255)** Now to generalize this a bit, here's the same diagram without the pizzas.
 >
-> **[4:20](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=260)** Here we have a client, a factory, and a set of products that implement a product interface.
+> **[4:20](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=260)** Here we have a client, a factory, and a set of [[Microsoft Products|products]] that implement a product interface.
 >
 > **[4:27](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980&t=267)** The simple factory pattern is pretty simple, but it's a common way to deal with creating objects, and it's the first step to understanding some of the more powerful factory patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Programming]] (1), application (1), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), is an  (1), we call this (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
-#### The Factory Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-factory-method-pattern?u=76281980)
+#### [The Factory Method pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-factory-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,8 +2486,7 @@ created: 2026-05-02
 > **Code Identifiers:** orderpizza (1), createpizza (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Factory Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-factory-method-pattern?u=76281980)
+#### [Using the Factory Method pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/using-the-factory-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2598,8 +2543,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The simple Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-simple-factory-pattern?u=76281980)
+#### [Challenge: The simple Factory pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/challenge-the-simple-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2628,8 +2572,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (futuristic electronic music) (1)
 
-#### Solution: The simple Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-simple-factory-pattern?u=76281980)
+#### [Solution: The simple Factory pattern](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/solution-the-simple-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2668,12 +2611,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980)
+#### [Applying patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=0)** - After a long discussion of design patterns, it's easy to see design patterns can be powerful.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=0)** - After a long discussion of [[Design Patterns]], it's easy to see design patterns can be powerful.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=6)** And it's easy to see all kinds of ways you can use design patterns in your current and future designs.
 >
@@ -2693,7 +2635,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=45)** Otherwise, review patterns that look like they might solve the problem.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=50)** Once you've found a pattern that appears to be a good match, make sure it has a set of consequences you can live with and study its effects on the rest of your design.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=50)** Once you've found a pattern that appears to be a good match, make sure it has a set of consequences you can live with and study its effects on the [[Representational State Transfer (REST)|rest]] of your design.
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980&t=60)** If everything looks good, go for it.
 >
@@ -2724,8 +2666,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2733,7 +2674,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/where-to-go-from-here?u=76281980&t=3)** Starting with the definitive book by the gang of four.
 >
-> **[0:07](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/where-to-go-from-here?u=76281980&t=7)** This is a catalog of the 23 original design patterns.
+> **[0:07](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/where-to-go-from-here?u=76281980&t=7)** This is a catalog of the 23 original [[Design Patterns]].
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/where-to-go-from-here?u=76281980&t=11)** You'll find each pattern outlined in the catalog including each pattern's historical examples in C++ and Smalltalk.
 >
@@ -2757,7 +2698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (8), [[Search]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (8)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [elisabeth] (1)

@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL challenges to test your knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980)
+#### [SQL challenges to test your knowledge](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=0)** - [Scott] When we're learning how to use SQL, it's useful to practice with real world examples.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=0)** - [Scott] When we're learning how to use [[SQL]], it's useful to practice with real world examples.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=5)** We'll use two databases that represent real world situations.
+> **[0:05](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=5)** We'll use two [[Databases]] that represent real world situations.
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980&t=9)** First, we'll perform some practical tasks with a database that a restaurant might use, and then we'll shift our focus to common operations that we might perform in a library setting.
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 
-#### Exploring the databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980)
+#### [Exploring the databases](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using two databases, one for a small local restaurant and one for a community library.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980&t=0)** - [Instructor] For the challenges in this course, we'll be using two [[Databases]], one for a small local restaurant and one for a community library.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/exploring-the-databases?u=76281980&t=7)** In each challenge, I'll provide you with information about what tables I expect you to use to solve the challenges, but I'd like to give you a high level overview of what these databases look like before we start.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Databases]] (3), next (2)
+> **Frameworks & Libraries:** [[Databases]] (3)
 > **Definitions:** refers to (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -168,8 +166,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980&t=12)** These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980&t=18)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:18](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980&t=18)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/coderpad-tour?u=76281980&t=25)** The code challenge has three areas, instructions in the top left, a console for output in the bottom left and a code editor for your answer on the right.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -210,8 +207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Create invitations for a party
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-invitations-for-a-party?u=76281980)
+#### [Solution: Create invitations for a party](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-invitations-for-a-party?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,13 +233,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4)
 > **SQL:** select (1), order by (1)
 > **Env Vars:** select (1), order (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a table to store information
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-a-table-to-store-information?u=76281980)
+#### [Solution: Create a table to store information](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-a-table-to-store-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +287,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **Env Vars:** create (3), table (1), int (1), null (1), show (1)
 > **CLI Commands:** make (1)
 > **SQL:** create table (1)
@@ -301,8 +294,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Print a menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-print-a-menu?u=76281980)
+#### [Solution: Print a menu](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-print-a-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,8 +324,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Sign a customer up for your loyalty program
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-sign-a-customer-up-for-your-loyalty-program?u=76281980)
+#### [Solution: Sign a customer up for your loyalty program](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-sign-a-customer-up-for-your-loyalty-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,12 +368,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Update a customer's personal information
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980)
+#### [Solution: Update a customer's personal information](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=79)** I'll end my update clause with a semi-colon.
 >
-> **[1:22](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=82)** The challenge also asked us to return a report of customers with this name, FirstName Taylor, LastName Jenkins.
+> **[1:22](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=82)** The challenge also asked us to return a report of customers with this name, FirstName Taylor, LastName [[Jenkins]].
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-update-a-customer-s-personal-information?u=76281980&t=88)** So I wrote a select statement here to show all the fields with star from the Customers table where the FirstName and LastName are the values provided.
 >
@@ -440,14 +429,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Jenkins]] (3)
+> **Frameworks & Libraries:** [[Jenkins]] (3)
 > **CLI Commands:** find (1), make (1)
 > **SQL:** update (1), where (1)
 > **Env Vars:** update (1), where (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Remove information from the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-remove-information-from-the-database?u=76281980)
+#### [Solution: Remove information from the database](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-remove-information-from-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +515,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (4), business (1)
 > **SQL:** select (4)
 > **Env Vars:** select (4)
 > **CLI Commands:** find (1), make (1)
@@ -535,8 +522,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Log customer responses to an invitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-log-customer-responses-to-an-invitation?u=76281980)
+#### [Solution: Log customer responses to an invitation](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-log-customer-responses-to-an-invitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,15 +560,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (1), next (1)
 > **Env Vars:** select (3), values (2), insert (1), into (1)
 > **SQL:** select (3), insert into (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Look up reservations
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-look-up-reservations?u=76281980)
+#### [Solution: Look up reservations](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-look-up-reservations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,8 +600,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Take a reservation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980)
+#### [Solution: Take a reservation](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980&t=65)** Looks like it does.
 >
-> **[1:07](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980&t=67)** There are often many ways to solve a problem using SQL, and some are more efficient than others, but don't spend your time over optimizing if you don't have to.
+> **[1:07](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-reservation?u=76281980&t=67)** There are often many ways to solve a problem using [[SQL]], and some are more efficient than others, but don't spend your time over optimizing if you don't have to.
 
 > [!info]- Semantic Content
 >
@@ -653,8 +636,7 @@ created: 2026-05-02
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Take a delivery order
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-delivery-order?u=76281980)
+#### [Solution: Take a delivery order](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-take-a-delivery-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,8 +703,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Track your customer's favorite dishes
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-track-your-customer-s-favorite-dishes?u=76281980)
+#### [Solution: Track your customer's favorite dishes](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-track-your-customer-s-favorite-dishes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,15 +733,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2)
 > **SQL:** group by (1)
 > **Env Vars:** group (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Prepare a report of your top customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-prepare-a-report-of-your-top-customers?u=76281980)
+#### [Solution: Prepare a report of your top customers](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-prepare-a-report-of-your-top-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,8 +787,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Check book availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-book-availability?u=76281980)
+#### [Solution: Check book availability](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-book-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,15 +821,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** null (5), select (2), count (2), where (1)
 > **CLI Commands:** find (3)
 > **SQL:** select (2), where (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add new books to the library
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-add-new-books-to-the-library?u=76281980)
+#### [Solution: Add new books to the library](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-add-new-books-to-the-library?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,13 +873,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), management (1)
 > **Env Vars:** insert (2), into (1), select (1), limit (1)
 > **SQL:** insert into (1), select (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Check out books
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980)
+#### [Solution: Check out books](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +901,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=52)** I'll provide the patron ID using another subquery that uses the email address from the patron's library card.
 >
-> **[0:58](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=58)** And I'll put in the loan date and due date in SQL date format, with a year first, a dash, the month, another dash, and the day.
+> **[0:58](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=58)** And I'll put in the loan date and due date in [[SQL]] date format, with a year first, a dash, the month, another dash, and the day.
 >
 > **[1:07](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-out-books?u=76281980&t=67)** In an automated system, this would be generated by the software according to whatever rules we might have set up, but here, we're using explicitly provided values.
 >
@@ -951,13 +925,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Check for books due back
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-for-books-due-back?u=76281980)
+#### [Solution: Check for books due back](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-for-books-due-back?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,12 +980,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Return books to the library
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-return-books-to-the-library?u=76281980)
+#### [Solution: Return books to the library](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-return-books-to-the-library?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,8 +1038,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [speaker] (1)
 
-#### Solution: Encourage patrons to check out books
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-encourage-patrons-to-check-out-books?u=76281980)
+#### [Solution: Encourage patrons to check out books](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-encourage-patrons-to-check-out-books?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,15 +1078,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** having (2), select (1), where (1), between (1), order (1)
 > **SQL:** having (2), select (1), where (1), order by (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find books to feature for an event
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-find-books-to-feature-for-an-event?u=76281980)
+#### [Solution: Find books to feature for an event](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-find-books-to-feature-for-an-event?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,15 +1120,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), next (1)
 > **Env Vars:** where (3), count (2), between (1), null (1), group (1)
 > **CLI Commands:** find (3), make (1)
 > **SQL:** where (3), group by (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Book statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-book-statistics?u=76281980)
+#### [Solution: Book statistics](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-book-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1198,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** dense_rank (4), select (2), where (1), order (1)
 > **SQL:** select (2), where (1), order by (1)
 > **Analogies:** for example (1)
@@ -1243,16 +1208,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in your SQL journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980)
+#### [Next steps in your SQL journey](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=0)** - [Scott] We've spent some time completing hands-on challenges that put our SQL skills to the test.
+> **[0:00](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=0)** - [Scott] We've spent some time completing hands-on challenges that put our [[SQL]] skills to the test.
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=5)** Now, I encourage you to challenge yourself further.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=8)** If you have a database to work with, set yourself some challenges that reflect real world tasks, or spend some time with our other hands-on SQL challenge courses here on LinkedIn Learning.
+> **[0:08](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=8)** If you have a database to work with, set yourself some challenges that reflect real world tasks, or spend some time with our other hands-on SQL challenge courses here on [[LinkedIn]] Learning.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980&t=17)** There's nothing like hands-on practice to improve your skills.
 >
@@ -1260,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), database (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [scott] (1)
 

@@ -60,8 +60,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using generative AI strategically as a manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/using-generative-ai-strategically-as-a-manager?u=76281980)
+#### [Using generative AI strategically as a manager](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/using-generative-ai-strategically-as-a-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -81,7 +80,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (4), ai (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - ai (1)
 
@@ -90,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI prompts for team communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-communication?u=76281980)
+#### [AI prompts for team communication](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,13 +150,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - ever (1)
 
-#### AI prompts for conflict resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-conflict-resolution?u=76281980)
+#### [AI prompts for conflict resolution](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-conflict-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-conflict-resolution?u=76281980&t=58)** You're seeing other teammates' moods sour, and you need to manage this resistance before it takes over.
 >
-> **[1:05](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-conflict-resolution?u=76281980&t=65)** You can ask AI to create a chart with productive counterpoints to the forms of resistance and conflict you're seeing.
+> **[1:05](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-conflict-resolution?u=76281980&t=65)** You can ask AI to create a chart with productive counterpoints to the [[Forms]] of resistance and conflict you're seeing.
 >
 > **[1:13](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-conflict-resolution?u=76281980&t=73)** For example, you can specify.
 >
@@ -213,13 +208,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Forms]] (2), hit (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - conflict (1)
 
-#### AI prompts for team coaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-coaching?u=76281980)
+#### [AI prompts for team coaching](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-coaching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-coaching?u=76281980&t=18)** That's where AI can be a game changer.
 >
-> **[0:21](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-coaching?u=76281980&t=21)** AI-driven coaching tools can help you provide structured, personalized feedback, create skill development plans, and even offer real-time insights to help your employees grow.
+> **[0:21](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-coaching?u=76281980&t=21)** AI-driven coaching tools can help you provide structured, personalized feedback, create skill development plans, and even offer [[Real-Time]] insights to help your employees grow.
 >
 > **[0:33](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-coaching?u=76281980&t=33)** Instead of taking a one-size-fits-all approach, you can tailor your coaching to each team member's needs.
 >
@@ -293,12 +287,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), management (2), prompt (2), career (2), game (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - great (1)
 
-#### AI prompts for performance management
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-performance-management?u=76281980)
+#### [AI prompts for performance management](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-performance-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +325,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-performance-management?u=76281980&t=140)** Even outside of formal reviews, AI-driven insights can help managers provide real time feedback and coaching throughout the year.
 >
-> **[2:29](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-performance-management?u=76281980&t=149)** It could be identifying skill gaps, suggesting career development resources, or tracking progress over time.
+> **[2:29](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-performance-management?u=76281980&t=149)** It could be identifying skill gaps, suggesting [[Career Development]] resources, or tracking progress over time.
 >
 > **[2:37](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-performance-management?u=76281980&t=157)** For each of these, I continually find that AI makes performance management more dynamic and effective, knowing that performance development is ongoing.
 >
@@ -348,14 +341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), next (3), prompt (2), leadership (2), management (2)
+> **Frameworks & Libraries:** [[Career Development]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - what (1)
 
-#### AI Prompts for smarter decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-decision-making?u=76281980)
+#### [AI Prompts for smarter decision-making](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +375,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-decision-making?u=76281980&t=78)** Instead of going purely on instinct, you can use AI to generate a decision matrix.
 >
-> **[1:25](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-decision-making?u=76281980&t=85)** Using our product launch example, here's a prompt you could try, generate a decision-making matrix for expanding our product line to our new demographic, weighing risks, benefits, and potential outcomes.
+> **[1:25](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-decision-making?u=76281980&t=85)** Using our product launch example, here's a prompt you could try, generate a [[Decision-Making]] matrix for expanding our product line to our new demographic, weighing risks, benefits, and potential outcomes.
 >
 > **[1:39](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-decision-making?u=76281980&t=99)** Present the results in a table, comparing three scenarios, gradual expansion, full scale launch, and a partnership strategy.
 >
@@ -403,13 +395,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), product (4), prompt (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** imagine (1), picture (1), for example (1)
 > **Speakers:** - leaders (1)
 
-#### AI prompts for optimizing resource allocation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-optimizing-resource-allocation?u=76281980)
+#### [AI prompts for optimizing resource allocation](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-optimizing-resource-allocation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,12 +442,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), product (2), prompt (1), data (1), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - resourcing (1)
 
-#### AI prompts for change management
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980)
+#### [AI prompts for change management](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,9 +485,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980&t=85)** You'll see for each, there's a description of what can go wrong and a tip to avoid it.
 >
-> **[1:32](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980&t=92)** Now you could use this as is or turn this into a discussion guide, talking points, a PowerPoint, or something else.
+> **[1:32](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980&t=92)** Now you could use this as is or turn this into a discussion guide, talking points, a [[Microsoft PowerPoint|PowerPoint]], or something else.
 >
-> **[1:41](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980&t=101)** You can imagine how these insights would better equip any manager and help them lead change with more purpose and empathy, especially during an overwhelming time.
+> **[1:41](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980&t=101)** You can imagine how these insights would better equip any manager and help them [[Lead Change]] with more purpose and empathy, especially during an overwhelming time.
 >
 > **[1:52](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-change-management?u=76281980&t=112)** You could also use even simpler AI prompts in our scenario, like give me five possible reasons why merging customer experience and marketing departments into one customer engagement department could benefit our team, even if it feels disruptive at first.
 >
@@ -510,13 +499,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), teams (3), leadership (2), management (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Lead Change]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
-#### AI prompts for new hire onboarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-new-hire-onboarding?u=76281980)
+#### [AI prompts for new hire onboarding](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-new-hire-onboarding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,13 +516,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), job description (2), hit (1), next (1), prompt (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - gallup (1)
 
-#### AI Prompts for smarter hiring decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-hiring-decisions?u=76281980)
+#### [AI Prompts for smarter hiring decisions](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-smarter-hiring-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,14 +532,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (2), prompt (2), hr (1), job description (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - did (1)
 
-#### AI prompts for cross-functional collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-cross-functional-collaboration?u=76281980)
+#### [AI prompts for cross-functional collaboration](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-cross-functional-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,11 +579,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), product (2), career (1), prompt (1), functional (1)
 > **Speakers:** - i (1)
 
-#### AI prompts for employee well-being
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-employee-well-being?u=76281980)
+#### [AI prompts for employee well-being](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-employee-well-being?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,18 +639,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (4), prompt (3)
 > **Analogies:** imagine (2), for example (2)
 > **Env Vars:** ukg (2)
 > **Warnings:** warning (2)
 > **Speakers:** - imagine (1)
 
-#### AI prompts for strategic planning and goal setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-strategic-planning-and-goal-setting?u=76281980)
+#### [AI prompts for strategic planning and goal setting](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-strategic-planning-and-goal-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-strategic-planning-and-goal-setting?u=76281980&t=0)** - One of the biggest benefits of making strategic thinking a priority is that we can set clear and motivating goals for our teams, not overly simplified goals that seem vague or too broad, and not overly complicated ones that people don't know how to interpret.
+> **[0:00](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-strategic-planning-and-goal-setting?u=76281980&t=0)** - One of the biggest benefits of making [[Strategic Thinking]] a priority is that we can set clear and motivating goals for our teams, not overly simplified goals that seem vague or too broad, and not overly complicated ones that people don't know how to interpret.
 >
 > **[0:18](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-strategic-planning-and-goal-setting?u=76281980&t=18)** Think about it.
 >
@@ -702,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), prompt (2), business (2), [[Strategic Thinking]] (1), teams (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for example (1), picture (1)
 > **Env Vars:** okr (1)
@@ -713,14 +693,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI in action: Applying what you've learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980)
+#### [Generative AI in action: Applying what you've learned](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980&t=0)** - It's hard to deny that AI is transforming our workplaces, our processes, and how we manage teams.
 >
-> **[0:07](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980&t=7)** In fact, one Microsoft study shows that by 2029, 41% of leaders expect to redesign business processes from the ground up with AI.
+> **[0:07](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980&t=7)** In fact, one [[Microsoft]] study shows that by 2029, 41% of leaders expect to redesign business processes from the ground up with AI.
 >
 > **[0:20](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980&t=20)** Whether you are an AI pro or more of a novice or observer, one of the biggest questions we face today is, how do we harness the best of AI to be more efficient and effective managers while maintaining our distinctly human touch?
 >
@@ -786,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), product (2), teams (1), [[Microsoft]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** scan (1)

@@ -77,24 +77,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=0)** - [Instructor] At Google Cloud, we understand the responsibility that comes with hosting, serving, and safeguarding our customers' valuable data.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=0)** - [Instructor] At [[Google Cloud Platform (GCP)|Google Cloud]], we understand the responsibility that comes with hosting, serving, and safeguarding our customers' valuable data.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=8)** As organizations increasingly migrate their data and applications to the cloud, it becomes crucial to address the emerging security challenges.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=17)** Trust and security lie at the heart of our product design and development philosophy.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=17)** Trust and security lie at the heart of our [[Product Design]] and development philosophy.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=21)** We firmly believe that customers own their data and have complete control over its usage.
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=27)** Although we've implemented robust security measures to defend against potential breaches, we also acknowledge that security is a dynamic and ongoing process that demands constant attention and investment.
 >
-> **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=39)** To support you in this journey, we provide a range of security products and services that enable you to detect, investigate, and mitigate cyber threats while aligning with your policy, regulatory, and business objectives.
+> **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=39)** To support you in this journey, we provide a range of security [[Microsoft Products|products]] and services that enable you to detect, investigate, and mitigate cyber threats while aligning with your policy, regulatory, and business objectives.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=53)** The objective of this course trust and security with Google Cloud is to equip you with the knowledge and skills necessary to discuss fundamental cloud security concepts, explain the business value of Google's multilayered approach to infrastructure security, and describe how Google Cloud earns and maintains customer trust in the cloud.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=53)** The objective of this course trust and security with Google Cloud is to equip you with the knowledge and skills necessary to discuss fundamental [[Cloud Security]] concepts, explain the business value of [[Google]]'s multilayered approach to infrastructure security, and describe how Google Cloud earns and maintains customer trust in the cloud.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980&t=73)** Throughout the course, you're presented with graded knowledge assessments.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (3), data (3), cloud (3), business (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Product Design]] (1), [[Microsoft Products|Products]] (1), [[Cloud Security]] (1), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -113,12 +112,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=0)** - [Instructor] In recent years, the rise of cloud computing has transformed the way that organizations store, process, and manage their data.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=0)** - [Instructor] In recent years, the rise of [[Cloud Computing]] has transformed the way that organizations store, process, and manage their data.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=8)** However, with this increased reliance on the cloud, the need for robust security measures has become essential.
 >
@@ -128,24 +126,23 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=32)** In this section of the course, you'll define key security terms and concepts.
 >
-> **[0:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=37)** Describe the importance of confidentiality, integrity, availability, control, and compliance in a cloud security model.
+> **[0:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=37)** Describe the importance of confidentiality, integrity, availability, control, and compliance in a [[Cloud Security]] model.
 >
 > **[0:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=45)** Differentiate between cloud security and traditional on-premises security.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=50)** And describe today's top cybersecurity threats and business implications.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980&t=50)** And describe today's top [[Cybersecurity]] threats and business implications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), cloud (5), data (2), [[Cybersecurity]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Cloud Computing]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key security terms and concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980)
+#### [Key security terms and concepts](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=0)** - [Instructor] In the field of cloud security, understanding the terminology is crucial to navigating the landscape effectively.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=0)** - [Instructor] In the field of [[Cloud Security]], understanding the terminology is crucial to navigating the landscape effectively.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=7)** In this lesson, we introduce essential security terms and concepts that are commonly encountered when discussing cloud security.
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=85)** Every user and device must be authenticated and authorized before accessing resources.
 >
-> **[1:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=91)** Zero-rust architecture helps ensure robust security by implementing strict access controls and continuously verifying user identities.
+> **[1:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=91)** Zero-[[Rust (Programming Language)|rust]] architecture helps ensure robust security by implementing strict access controls and continuously verifying user identities.
 >
 > **[1:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=101)** The next three concepts relate to how an organization can protect itself from cyber threats.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=173)** It follows certain rules to decide which traffic is allowed to enter or leave a network.
 >
-> **[2:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=179)** These rules help keep unauthorized people or harmful things away from important cloud resources such as servers, databases, and applications.
+> **[2:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=179)** These rules help keep unauthorized people or harmful things away from important cloud resources such as servers, [[Databases]], and applications.
 >
 > **[3:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/key-security-terms-and-concepts?u=76281980&t=189)** Following our previous analogy, a security guard checks everyone who wants to enter and only lets in those who have permission.
 >
@@ -211,18 +208,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), cloud (6), data (6), traffic (3), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Rust (Programming Language)|Rust]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), refers to (2)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud security components
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980)
+#### [Cloud security components](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=0)** - [Instructor] In this lesson, we learn about the components that make up a cloud security model and discover how they contribute to a robust security posture in today's digital landscape.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=0)** - [Instructor] In this lesson, we learn about the components that make up a [[Cloud Security]] model and discover how they contribute to a robust security posture in today's digital landscape.
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=11)** We'll first explore three essential aspects of security: Confidentiality, integrity, and availability.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=109)** Integrity in the cloud involves ensuring the accuracy and trustworthiness of data throughout its lifecycle.
 >
-> **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=116)** Implementing data integrity controls, such as checksums or digital signatures, enables organizations to verify the authenticity and reliability of their data in the cloud.
+> **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=116)** Implementing [[Data Integrity]] controls, such as checksums or digital signatures, enables organizations to verify the authenticity and reliability of their data in the cloud.
 >
 > **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=128)** This helps prevent unauthorized modifications or tampering, ensuring the integrity of critical information stored and processed in cloud environments.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=181)** It involves establishing policies, procedures, and technical safeguards to protect against unauthorized access, misuse, and potential threats.
 >
-> **[3:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=191)** Control measures in the cloud include implementing robust authentication mechanisms, access restrictions, and security awareness training.
+> **[3:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=191)** Control measures in the cloud include implementing robust authentication mechanisms, access restrictions, and [[Security Awareness]] training.
 >
 > **[3:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=200)** These measures help organizations manage and mitigate security risks associated with cloud-based systems.
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=226)** It involves ensuring that security practices and measures align with established standards and guidelines.
 >
-> **[3:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=233)** Meeting compliance standards in the cloud demonstrates an organization's commitment to data privacy and security, building trust with stakeholders, and minimizing legal and financial risks.
+> **[3:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=233)** Meeting compliance standards in the cloud demonstrates an organization's commitment to [[Data Privacy]] and security, [[Building Trust]] with stakeholders, and minimizing legal and financial risks.
 >
 > **[4:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-components?u=76281980&t=244)** Cloud providers often offer compliance frameworks and certifications that organizations can leverage to meet their regulatory obligations.
 >
@@ -284,25 +280,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (13), [[Security]] (11), business (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (2), [[Data Integrity]] (2), [[Security Awareness]] (1), [[Data Privacy]] (1), [[Building Trust]] (1)
 > **Analogies:** think of it like (1), such as (1), it's like (1)
 > **Env Vars:** cia (2)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud security vs. traditional on-premises security
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980)
+#### [Cloud security vs. traditional on-premises security](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=0)** - [Host] In the past, businesses heavily relied on their own infrastructure and local data centers to manage and protect their digital assets.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=8)** They had complete control over their hardware, software, and network components fostering a sense of trust within their premises.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=8)** They had complete control over their [[Hardware]], software, and network components fostering a sense of trust within their premises.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=17)** However, as organizations now connect digitally with customers, partners, and employees worldwide, new risks have emerged that require enhanced security measures.
 >
-> **[0:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=29)** This is where cloud security comes into play by offering a different approach compared to traditional on-premises security.
+> **[0:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=29)** This is where [[Cloud Security]] comes into play by offering a different approach compared to traditional on-premises security.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=36)** Let's explore these important differences.
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=89)** On the other hand, in an on-premises setup, the organization is responsible for securing the entire infrastructure, including hardware, network, operating systems, applications, and data.
 >
-> **[1:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=101)** The next difference is scalability.
+> **[1:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=101)** The next difference is [[Scalability]].
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cloud-security-versus-traditional-on-premises-security?u=76281980&t=104)** Cloud security offers scalability and elasticity, which allows organizations to easily scale their resources up or down based on demand.
 >
@@ -354,14 +349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), cloud (11), data (8), [[Hardware]] (4), [[Scalability]] (4)
+> **Frameworks & Libraries:** [[Cloud Security]] (6), [[Hardware]] (4), [[Scalability]] (4)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [host] (1)
 
-#### Cybersecurity threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980)
+#### [Cybersecurity threats](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,13 +369,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=22)** The realm of cyber attacks is evolving rapidly, and these threats can emerge from unexpected sources, even disguised as government entities.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=31)** So what are some common cybersecurity threats faced by organizations?
+> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=31)** So what are some common [[Cybersecurity]] threats faced by organizations?
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=36)** First is deceptive social engineering.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=39)** Imagine that a skilled manipulator is seeking to extract confidential system information from unsuspecting individuals.
 >
-> **[0:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=46)** These cyber criminals employ phishing attacks which collect personal details about you, your employees, or your students.
+> **[0:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=46)** These cyber criminals employ [[Phishing]] attacks which collect personal details about you, your employees, or your students.
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=55)** They skillfully craft tailored emails and mimic authenticity to deceive their targets.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=71)** Next is physical damage.
 >
-> **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=73)** Whether it be damage to hardware components, power disruptions, or natural disasters, such as floods, fires, and earthquakes, organizations are responsible for safeguarding data even in the face of physical adversity.
+> **[1:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=73)** Whether it be damage to [[Hardware]] components, power disruptions, or natural disasters, such as floods, fires, and earthquakes, organizations are responsible for safeguarding data even in the face of physical adversity.
 >
 > **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=87)** You can think of this as protecting precious assets amidst nature's unforgiving forces.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=133)** Many organizations rely on third party systems for essential functions such as finance, inventory management, or account operations.
 >
-> **[2:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=142)** However, without adequate security measures and regular evaluations, these systems can transform into potential threats, leaving data security vulnerable.
+> **[2:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=142)** However, without adequate security measures and regular evaluations, these systems can transform into potential threats, leaving [[Data Security]] vulnerable.
 >
 > **[2:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=153)** It's like using a tool that unwittingly introduces risks to your own treasured possessions.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=165)** Misconfiguration occurs when errors arise during the setup or configuration of resources, which inadvertently exposes sensitive data and systems to unauthorized access.
 >
-> **[2:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=176)** Surveys consistently identify misconfiguration as the most prominent threat to cloud security.
+> **[2:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=176)** Surveys consistently identify misconfiguration as the most prominent threat to [[Cloud Security]].
 >
 > **[3:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/cybersecurity-threats?u=76281980&t=183)** In turn, adopting principles of least privileged and privileged access are imperative because they allow resource access only when explicitly required and authorized.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Security]] (5), [[Cybersecurity]] (2), next (2), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Data Security]] (2), [[Phishing]] (1), [[Hardware]] (1), [[Cloud Security]] (1)
 > **Analogies:** imagine (2), such as (2), it's like (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
@@ -440,37 +434,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=0)** - [Narrator] At Google Cloud, we believe in going beyond reliance on a single technology for security.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=0)** - [Narrator] At [[Google Cloud Platform (GCP)|Google Cloud]], we believe in going beyond reliance on a single technology for security.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=5)** Our multi-layered strategy builds progressive security layers, combining global data centers, purpose-built servers, custom security hardware and software, and two-step authentication.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=5)** Our multi-layered strategy builds progressive security layers, combining global data centers, purpose-built servers, custom security [[Hardware]] and software, and two-step authentication.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=18)** This approach provides true defense in depth.
 >
-> **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=21)** In this section of the course, you'll learn about how Google designs and builds its own data centers by using purpose-built servers, networking, and custom security hardware and software.
+> **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=21)** In this section of the course, you'll learn about how [[Google]] designs and builds its own data centers by using purpose-built servers, networking, and custom security hardware and software.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=33)** The role that encryption plays in securing an organization's data and the ways that it can protect data exposed to risks in different states, the differences between authentication, authorization, and auditing, the benefits of using two-step verification and cloud identity and access management, or IAM, how an organization can protect against network attacks by using Google products, in security operations in the cloud and its related business benefits.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980&t=33)** The role that encryption plays in securing an organization's data and the ways that it can protect data exposed to risks in different states, the differences between authentication, authorization, and auditing, the benefits of using two-step verification and cloud identity and access management, or IAM, how an organization can protect against network attacks by using Google [[Microsoft Products|products]], in [[Security Operations]] in the cloud and its related business benefits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Hardware]] (2), [[Google]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Products|Products]] (1), [[Security Operations]] (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data centers
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980)
+#### [Data centers](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=0)** - [Presenter] Data centers are more than just facilities filled with computers.
 >
-> **[0:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=4)** They're the backbone of round-the-clock operations for Google Services, including Search, Gmail and YouTube.
+> **[0:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=4)** They're the backbone of round-the-clock operations for [[Google]] Services, including Search, Gmail and YouTube.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=11)** Moreover, they play a crucial role in storing and processing data for all the services provided on Google Cloud.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=11)** Moreover, they play a crucial role in storing and processing data for all the services provided on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=18)** At present, Google operates over 30 state-of-the-art data centers worldwide, with some still under construction.
 >
@@ -480,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=44)** By using cutting edge technologies and renewable energy sources, we strive to reduce our ecological footprint.
 >
-> **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=52)** Let's explore the benefits of Google designing and building its own data centers using purpose-built servers, advanced networking solutions, and custom security hardware and software.
+> **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=52)** Let's explore the benefits of Google designing and building its own data centers using purpose-built servers, advanced networking solutions, and custom security [[Hardware]] and software.
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=63)** One of the greatest advantages of Google's data centers is the implementation of a zero-trust architecture, which ensures enhanced security at every level.
 >
@@ -510,7 +502,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=171)** Its innovative cooling system, which uses sea water from the Bay of Finland, sets a new standard for energy efficiency worldwide.
 >
-> **[3:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=180)** Scalability is another benefit.
+> **[3:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=180)** [[Scalability]] is another benefit.
 >
 > **[3:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-centers?u=76281980&t=182)** Our data centers can quickly and seamlessly accommodate new hardware and servers, which allows us to scale up computing resources on demand.
 >
@@ -526,17 +518,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Google]] (9), [[Security]] (8), [[Hardware]] (5), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Google]] (9), [[Hardware]] (5), [[Scalability]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** pue (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
 
-#### Secure storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980)
+#### [Secure storage](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=0)** - [Presenter] Previously, we learned that encryption is like a secret code that transforms data into an unreadable format using special algorithms.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=0)** - [Presenter] Previously, we learned that encryption is like a secret code that transforms data into an unreadable format using special [[Algorithms]].
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=8)** This process ensures that only those with the right key or password can make sense of the data.
 >
@@ -550,11 +541,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=33)** Let's take a closer look at how encryption protects your data In different states.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=38)** When data is at rest, it's stored on physical devices like computers or servers.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=38)** When data is at [[Representational State Transfer (REST)|rest]], it's stored on physical devices like computers or servers.
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=44)** By encrypting data at rest, even if someone gains physical access to the device, they won't be able to decipher the data without the encryption key.
 >
-> **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=52)** At Google Cloud, we automatically encrypt all customer content at rest without any effort required from you.
+> **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=52)** At [[Google Cloud Platform (GCP)|Google Cloud]], we automatically encrypt all customer content at rest without any effort required from you.
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=60)** It's a free and built-in feature that adds an extra layer of protection to your valuable data.
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=85)** It's like sending your information in a locked box that only the intended recipient can open.
 >
-> **[1:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=91)** At Google Cloud, we employ robust security measures to ensure the authenticity, integrity, and privacy of your data during transit.
+> **[1:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=91)** At Google Cloud, we employ robust security measures to ensure the authenticity, integrity, and [[Privacy]] of your data during transit.
 >
 > **[1:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/secure-storage?u=76281980&t=100)** We encrypt and authenticate data at multiple network layers, especially when it travels outside the physical boundaries we control.
 >
@@ -590,15 +581,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Representational State Transfer (REST)|Rest]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Algorithms]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Algorithms]] (2), [[Privacy]] (1)
 > **Analogies:** it's like (3), such as (1), imagine (1)
 > **Env Vars:** aes (2), kms (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980)
+#### [Identity](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,17 +598,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=18)** It serves as a gatekeeper because it verifies the identity of users or systems that seek access.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=24)** Authentication involves presenting unique credentials such as passwords, physical tokens, or biometric data like fingerprints or voice recognition.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=24)** Authentication involves presenting unique credentials such as passwords, physical [[Tokens]], or biometric data like fingerprints or voice recognition.
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=33)** Think of it as presenting your identification card before entering a restricted area.
 >
 > **[0:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=37)** By validating the credentials provided, the server confirms that you are who you claim to be.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=43)** Two-step verification, which you may also hear being referred to as two-factor authentication or multi-factor authentication is a security feature that adds an extra layer of protection to cloud-based systems.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=43)** Two-step verification, which you may also hear being referred to as two-factor authentication or [[Multi-factor Authentication]] is a security feature that adds an extra layer of protection to cloud-based systems.
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=55)** With two SV enabled, users need to provide two different pieces of information to log in.
 >
-> **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=61)** For example, it could be a combination of a password and a code sent to their phone through text message, voice call, or an app like Google Authenticator.
+> **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=61)** For example, it could be a combination of a password and a code sent to their phone through text message, voice call, or an app like [[Google]] Authenticator.
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=70)** This powerful feature makes unauthorized access more difficult even if someone manages to obtain your password.
 >
@@ -642,7 +632,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=153)** Just like the surveillance cameras in a shopping mall, auditing keeps a watchful eye on activities happening within your system.
 >
-> **[2:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=162)** To provide granular control over who has access to Google Cloud resources and what they can do with those resources, organizations can use Identity and Access Management or IAM.
+> **[2:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=162)** To provide granular control over who has access to [[Google Cloud Platform (GCP)|Google Cloud]] resources and what they can do with those resources, organizations can use Identity and Access Management or IAM.
 >
 > **[2:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/identity?u=76281980&t=172)** With IAM, you can create and manage user accounts, assign roles to users, grant and revoke permissions to resources, audit user activity, and monitor your security position.
 >
@@ -656,14 +646,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), management (3), data (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Tokens]] (1), [[Multi-factor Authentication]] (1), [[Google]] (1)
 > **Analogies:** think of it as (2), for example (2), such as (1), just like (1), imagine (1)
 > **Env Vars:** iam (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network security
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980)
+#### [Network security](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +660,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=6)** Unlike traditional on-premises setups with clear perimeters, the cloud brings new possibilities and challenges.
 >
-> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=14)** Let's explore some strategies to secure your organization's network and ensure the safety of your valuable data and workloads in Google Cloud.
+> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=14)** Let's explore some strategies to secure your organization's network and ensure the safety of your valuable data and workloads in [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=23)** Embrace the power of zero-trust networks.
 >
@@ -685,7 +674,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=51)** Secure your connections to on-premises and multi-cloud environments.
 >
-> **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=56)** Many organizations have a mix of cloud and on-premises workloads, or they use multiple cloud providers for resiliency.
+> **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=56)** Many organizations have a mix of cloud and on-premises workloads, or they use multiple cloud providers for [[Resiliency]].
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=63)** Ensuring secure connectivity across these environments is crucial.
 >
@@ -715,7 +704,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=163)** Think of infrastructure provisioning tools as your personal assistance for setting up and maintaining your cloud environment.
 >
-> **[2:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=170)** When you use tools like Terraform, Jenkins, and Cloud Build, they handle all the behind the scenes work to create a secure and reliable cloud environment.
+> **[2:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=170)** When you use tools like [[Terraform]], [[Jenkins]], and Cloud Build, they handle all the behind the scenes work to create a secure and reliable cloud environment.
 >
 > **[2:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/network-security?u=76281980&t=179)** It's like having a team of efficient workers who build and organize everything you need to run your environment smoothly.
 >
@@ -731,7 +720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Security]] (5), data (1), power (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Resiliency]] (1), [[Terraform]] (1), [[Jenkins]] (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
 > **Env Vars:** vpc (2), vpn (1)
 > **CLI Commands:** make (1), terraform (1)
@@ -739,12 +728,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980)
+#### [Security operations](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=0)** - [Instructor] SecOps, short for Security Operations, is all about protecting your organization's data and systems in the cloud.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=0)** - [Instructor] SecOps, short for [[Security Operations]], is all about protecting your organization's data and systems in the cloud.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=7)** It involves a combination of processes and technologies that help reduce the risk of data breaches, system outages, and other security incidents.
 >
@@ -752,11 +740,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=21)** Let's explore some of the essential activities involved in SecOps.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=26)** Vulnerability management is the process of identifying and fixing security vulnerabilities in cloud infrastructure and applications.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=26)** Vulnerability management is the process of identifying and fixing security vulnerabilities in [[Cloud Infrastructure]] and applications.
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=34)** It's like regularly checking your castle walls for weak spots.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=38)** Google Cloud's Security Command Center or SCC provides a centralized view of your security posture.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=38)** [[Google Cloud Platform (GCP)|Google Cloud]]'s Security Command Center or SCC provides a centralized view of your security posture.
 >
 > **[0:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=45)** It helps to identify and fix vulnerabilities, and it ensures that your infrastructure remains solid and protected.
 >
@@ -770,7 +758,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=76)** Of course, being prepared for security incidents is equally important.
 >
-> **[1:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=81)** This is where incident response comes in.
+> **[1:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=81)** This is where [[Incident Response]] comes in.
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=84)** Imagine having a team of knights ready to defend your castle at a moment's notice.
 >
@@ -778,7 +766,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=99)** Another crucial aspect of SecOps is educating your employees on security best practices.
 >
-> **[1:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=105)** Just like teaching everyone in the castle to be vigilant and lock the gates, security awareness training helps prevent incidents by raising awareness and empowering employees to protect themselves and the organization.
+> **[1:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=105)** Just like teaching everyone in the castle to be vigilant and lock the gates, [[Security Awareness]] training helps prevent incidents by raising awareness and empowering employees to protect themselves and the organization.
 >
 > **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=118)** Now, you might be wondering, why should your organization implement SecOps?
 >
@@ -788,7 +776,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=128)** SecOps helps identify and fixed vulnerabilities, which significantly reduces the risk of data breaches≥ Increased uptime.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=137)** A swift and effective incident response minimizes the impact of outages on your business operations, which ensures smoother and uninterrupted services.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=137)** A [[Swift (Programming Language)|swift]] and effective incident response minimizes the impact of outages on your [[Business Operations]], which ensures smoother and uninterrupted services.
 >
 > **[2:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=147)** Improved compliance.
 >
@@ -800,11 +788,11 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=173)** SecOps is an integral part of your organization's security strategy.
 >
-> **[2:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=177)** By implementing SecOps practices, you can fortify your defenses, reduce security risks, and protect your data in the ever-changing landscape of cloud security.
+> **[2:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/security-operations?u=76281980&t=177)** By implementing SecOps practices, you can fortify your defenses, reduce security risks, and protect your data in the ever-changing landscape of [[Cloud Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), data (7), [[Google Cloud Platform (GCP)|Google cloud]] (4), cloud (3), management (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Incident Response]] (2), [[Security Operations]] (1), [[Cloud Infrastructure]] (1), [[Security Awareness]] (1)
 > **Analogies:** it's like (2), think of it as (1), imagine (1), just like (1), such as (1)
 > **Env Vars:** scc (1), gdpr (1)
 > **Definitions:** short for (1), is an  (1)
@@ -815,30 +803,28 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980&t=0)** - [Narrator] At Google, we know that privacy plays a critical role in earning and maintaining trust.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980&t=0)** - [Narrator] At [[Google]], we know that [[Privacy]] plays a critical role in earning and maintaining trust.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980&t=5)** Customers need to be sure that their data and applications are safe and secure, and so Google Cloud has a strong set of trust principles and compliance programs in place, which are designed to protect customer data and meet the needs of a wide range of customers, from small businesses to large enterprises.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980&t=5)** Customers need to be sure that their data and applications are safe and secure, and so [[Google Cloud Platform (GCP)|Google Cloud]] has a strong set of trust principles and compliance programs in place, which are designed to protect customer data and meet the needs of a wide range of customers, from small businesses to large enterprises.
 >
 > **[0:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980&t=23)** In this final section of the course, you learn about Google's seven trust principles, data residency and data sovereignty options with Google Cloud, and how the Google Cloud Compliance Resource Center and Compliance Reports Manager support industry and regional compliance needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[Privacy]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### The Google Cloud trust principles and transparency reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980)
+#### [The Google Cloud trust principles and transparency reports](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=0)** - [Narrator] At Google, we believe in transparency and want you to have complete confidence in our services.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=0)** - [Narrator] At [[Google]], we believe in transparency and want you to have complete confidence in our services.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=6)** Google Cloud's trust principles are designed to empower you and ensure that the security and control of your business data isn't compromised.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=6)** [[Google Cloud Platform (GCP)|Google Cloud]]'s trust principles are designed to empower you and ensure that the security and control of your business data isn't compromised.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=14)** Let's review these principles.
 >
@@ -866,13 +852,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=78)** Your data remains secure and no government entity can access it without proper authorization.
 >
-> **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=85)** And seven, our privacy practices are audited against international standards.
+> **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=85)** And seven, our [[Privacy]] practices are audited against international standards.
 >
 > **[1:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=90)** We undergo regular audits to ensure compliance with rigorous privacy standards.
 >
 > **[1:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=97)** Transparency reports and independent audits transparency are a core element of our commitment to trust.
 >
-> **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=104)** We provide valuable insights and accountability through our transparency reports, which shed light on government and corporate actions that affect privacy, security, and access to information.
+> **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=104)** We provide valuable insights and [[Accountability]] through our transparency reports, which shed light on government and corporate actions that affect privacy, security, and access to information.
 >
 > **[1:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/the-google-cloud-trust-principles-and-transparency-reports?u=76281980&t=115)** These reports let you stay informed and maintain trust in our services.
 >
@@ -884,11 +870,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (4), [[Security]] (3), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Google]] (4), [[Privacy]] (3), [[Accountability]] (2)
 > **Speakers:** - [narrator] (1)
 
-#### Data residency and data sovereignty
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980)
+#### [Data residency and data sovereignty](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,7 +893,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=60)** This ensures data remains within the jurisdiction of local laws.
 >
-> **[1:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=65)** Now let's explore how Google Cloud addresses data residency requirements.
+> **[1:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=65)** Now let's explore how [[Google Cloud Platform (GCP)|Google Cloud]] addresses data residency requirements.
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=70)** We offer a range of options to control the physical location of your data through regions.
 >
@@ -916,9 +901,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=83)** For example, within the European Union, you can select regions located in various countries like the UK, Belgium, Germany, Finland, Switzerland, and the Netherlands.
 >
-> **[1:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=95)** By configuring your resources in specific regions, Google ensures that your data is stored only within the selected region as stated in our service specific terms.
+> **[1:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=95)** By configuring your resources in specific regions, [[Google]] ensures that your data is stored only within the selected region as stated in our service specific terms.
 >
-> **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=106)** Additionally, Google Cloud provides organization policy constraints coupled with IAM configuration to prevent accidental data storage in the wrong region.
+> **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=106)** Additionally, Google Cloud provides organization policy constraints coupled with IAM configuration to prevent accidental [[Data Storage]] in the wrong region.
 >
 > **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/data-residency-and-data-sovereignty?u=76281980&t=116)** These controls offer peace of mind and reinforce your data residency requirements.
 >
@@ -932,14 +917,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google]] (1), [[Data Storage]] (1)
 > **Env Vars:** gdpr (1), iam (1), vpc (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** refers to (2)
 > **Speakers:** - [narrator] (1)
 
-#### Industry and regional compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980)
+#### [Industry and regional compliance](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,13 +931,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=12)** Compliance is a critical aspect of the cloud journey because not meeting regulatory obligations can have far-reaching consequences.
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=20)** To assist you in achieving compliance, Google Cloud offers robust resources and tools tailored to support your specific needs.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=20)** To assist you in achieving compliance, [[Google Cloud Platform (GCP)|Google Cloud]] offers robust resources and tools tailored to support your specific needs.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=28)** First, let's explore the Google Cloud Compliance Resource Center.
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=33)** This comprehensive hub provides detailed information on the certifications and compliance standards we satisfy.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=41)** You can find mappings of our security, privacy, and compliance controls to global standards.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=41)** You can find mappings of our security, [[Privacy]], and compliance controls to global standards.
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=47)** This transparency lets you validate our adherence to industry-leading practices.
 >
@@ -963,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=75)** The Resource Center equips you with the necessary insights and documentation to align your compliance efforts with HIPAA requirements.
 >
-> **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=84)** Similarly, if you operate within the financial sector, you'll find guidance on meeting regulations like PCI DSS, which stands for Payment Card Industry Data Security Standard.
+> **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=84)** Similarly, if you operate within the financial sector, you'll find guidance on meeting regulations like PCI DSS, which stands for Payment Card Industry [[Data Security]] Standard.
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=96)** Google Cloud's compliance resource center is your go-to source for actionable information and support.
 >
@@ -987,13 +971,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=178)** Together we create an integrated controls and governance framework, while we ensure a robust compliance posture.
 >
-> **[3:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=186)** You can visit the compliance resource center at cloud.[google.com/security/compliance](https://google.com/security/compliance).
+> **[3:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=186)** You can visit the compliance resource center at cloud.[[[Google]].com/security/compliance](https://google.com/security/compliance).
 >
 > **[3:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/industry-and-regional-compliance?u=76281980&t=193)** And explore the Compliance Reports Manager at cloud.[google.com/security/compliance](https://google.com/security/compliance)/ compliance-reports-manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Security]] (4), [[Google]] (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Google]] (2), [[Privacy]] (1), [[Data Security]] (1)
 > **Env Vars:** hipaa (2), iso (2), iec (2), pci (1), dss (1)
 > **CLI Commands:** find (2)
 > **URLs:** [google.com](https://google.com) (2)
@@ -1006,28 +990,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the Trust and Security with Google Cloud course.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the Trust and Security with [[Google Cloud Platform (GCP)|Google Cloud]] course.
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=4)** Let's do a quick recap.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=6)** In the first section of the course, titled Trust and Security in the Cloud, you explored important security terms and concepts, the difference between cloud security and traditional on-premises security, today's top cybersecurity threats and business implications, and the importance of control, compliance, confidentiality, integrity, and availability in a cloud security model.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=6)** In the first section of the course, titled Trust and Security in the Cloud, you explored important security terms and concepts, the difference between [[Cloud Security]] and traditional on-premises security, today's top [[Cybersecurity]] threats and business implications, and the importance of control, compliance, confidentiality, integrity, and availability in a cloud security model.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=33)** In the second section of the course, titled Google's Trusted Infrastructure, you learned about how Google designs and builds data centers, the role encryption plays in securing an organization's data, the differences between authentication, authorization, and auditing, the benefits of using two-step verification in IAM, ways to protect against network attacks by using Google products, and security operations in the cloud and its related business benefits.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=33)** In the second section of the course, titled [[Google]]'s Trusted Infrastructure, you learned about how Google designs and builds data centers, the role encryption plays in securing an organization's data, the differences between authentication, authorization, and auditing, the benefits of using two-step verification in IAM, ways to protect against network attacks by using Google [[Microsoft Products|products]], and [[Security Operations]] in the cloud and its related business benefits.
 >
 > **[1:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=65)** And finally, in the third section of the course, titled Google Cloud's Trust Principles and Compliance, you examined Google seven trust principles, data residency and data sovereignty options with Google Cloud and how the Google Cloud compliance resource center and Compliance Reports Manager support industry and regional compliance needs.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=87)** Now that you had a comprehensive introduction to trust and security on Google Cloud, you can move on to the final course in the Cloud Digital Leader series, Scaling with Google Cloud Operations, where you'll learn about how Google Cloud supports an organization's financial governance and ability to control their cloud costs, the basic concepts of modern operations, reliability, and resilience in the cloud, and how Google Cloud helps organizations meet sustainability goals and reduce environmental impact.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=87)** Now that you had a comprehensive introduction to trust and security on Google Cloud, you can move on to the final course in the Cloud Digital Leader series, Scaling with Google Cloud Operations, where you'll learn about how Google Cloud supports an organization's financial governance and ability to control their cloud costs, the basic concepts of modern operations, reliability, and resilience in the cloud, and how Google Cloud helps organizations meet [[Sustainability]] goals and reduce environmental impact.
 >
 > **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980&t=116)** We'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (8), cloud (7), [[Google]] (4), data (4)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Google]] (4), [[Cloud Security]] (2), [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - [instructor] (1)
 

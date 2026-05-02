@@ -101,35 +101,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become an Azure cognitive services MVP
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980)
+#### [Become an Azure cognitive services MVP](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=0)** - [Sahil] Artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=0)** - [Sahil] [[Artificial Intelligence (AI)|Artificial intelligence]].
 >
 > **[0:02](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=2)** Some say it's bigger than the internet or even the Industrial Revolution, and I think I agree.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=7)** Azure AI Services brings the power of AI in the hands of every developer.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=7)** [[Microsoft Azure|Azure]] AI Services brings the power of AI in the hands of every developer.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=12)** You need to have no background in AI to build AI capabilities in your applications when you use Azure AI services.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=20)** This course will walk you through all such capabilities such as vision, speech, language, search, content safety, translations, document intelligence, and rounds up with a great introduction with Azure AI Studio building even more compelling applications.
+> **[0:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=20)** This course will walk you through all such capabilities such as vision, speech, language, search, content safety, translations, document intelligence, and rounds up with a great introduction with [[Azure AI Studio]] building even more compelling applications.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=35)** Hi, I'm Sahil Malik, a longtime ex-Microsoft MVP employee and a general tech nerd, and I'm thrilled to share what I've learned.
+> **[0:35](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=35)** Hi, I'm Sahil Malik, a longtime ex-[[Microsoft]] MVP employee and a general tech nerd, and I'm thrilled to share what I've learned.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980&t=44)** So join me and let's embark on this journey in learning AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Azure AI Studio]] (1), [[Microsoft]] (1)
 > **Env Vars:** mvp (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [sahil] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=13)** This course is aimed towards developers that are interested in building AI-driven applications.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=20)** Now you don't need to be just a .net developer, or Node.js, or Python, just any kind of developer.
+> **[0:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=20)** Now you don't need to be just a .net developer, or [[Node.js]], or [[Python (Programming Language)|Python]], just any kind of developer.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=25)** My code examples here are going to be in Node.js, but the examples are very generic, and I'll be referring to the other languages as I go along.
 >
@@ -147,13 +145,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=39)** Here's the good news.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=41)** To follow along this course, you need to have zero background in artificial intelligence, just a general interest, and I assure you that by the end of this course, you'll be well on your way to build really compelling artificial intelligence-based applications.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=41)** To follow along this course, you need to have zero background in [[Artificial Intelligence (AI)|artificial intelligence]], just a general interest, and I assure you that by the end of this course, you'll be well on your way to build really compelling artificial intelligence-based applications.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/what-you-should-know?u=76281980&t=57)** With that, let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (1), [[Python (Programming Language)|Python]] (1), generic (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (2), python (1)
 > **File Paths:** node.js (2)
 > **Prerequisites:** you need to have (1)
@@ -164,16 +162,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI vision services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980)
+#### [Understanding Azure AI vision services](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=0)** - [Instructor] Let's start by understanding Azure AI Vision Services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=0)** - [Instructor] Let's start by understanding [[Microsoft Azure|Azure]] AI Vision Services.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=6)** Azure AI Vision Services is pretty simple, things we see.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=10)** You input that as an image as data or a URL to Azure AI APIs, which will then help you run advance algorithms and return meaningful information.
+> **[0:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=10)** You input that as an image as data or a URL to Azure AI APIs, which will then help you run advance [[Algorithms]] and return meaningful information.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=21)** So what are the things that we can do with Azure AI Vision Services?
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=108)** Face service provides AI algorithms that can detect and recognize and analyze human faces and images.
 >
-> **[1:56](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=116)** Facial recognition software is important in so many scenarios, such as identification, touchless access control, and maybe even automatic face blurring for privacy.
+> **[1:56](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=116)** Facial recognition software is important in so many scenarios, such as identification, touchless access control, and maybe even automatic face blurring for [[Privacy]].
 >
 > **[2:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980&t=127)** Then you have video service, and there are two parts to this.
 >
@@ -217,19 +214,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (6), [[Algorithms]] (4), api (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Algorithms]] (4), [[Privacy]] (1)
 > **Env Vars:** api (3), url (2), ocr (1), tiff (1), pdf (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### OCR service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980)
+#### [OCR service](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=0)** - [Tutor] Next, let's dive a little bit deeper into the OCR Service that is part of Azure AI Vision Services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=0)** - [Tutor] Next, let's dive a little bit deeper into the OCR Service that is part of [[Microsoft Azure|Azure]] AI Vision Services.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=7)** The OCR Service will allow you to extract text from images that may contain printed or handwritten content.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=103)** where exactly does the text appear in that image?
 >
-> **[1:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=107)** Then, within that line, what are the words contained in that line and exactly where the word occurs?
+> **[1:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=107)** Then, within that line, what are the words contained in that line and exactly where the [[Microsoft Word|word]] occurs?
 >
 > **[1:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ocr-service?u=76281980&t=114)** And finally, confidence score on that recognition.
 >
@@ -275,18 +271,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Microsoft Azure|Azure]] (2), ai (2), api (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ocr (6), api (2), pdf (1), tiff (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [tutor] (1)
 
-#### Image analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980)
+#### [Image analysis](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=0)** - [Instructor] Next, let's talk about image analysis, which is another very important part of Azure AI Vision Service.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=0)** - [Instructor] Next, let's talk about image analysis, which is another very important part of [[Microsoft Azure|Azure]] AI Vision Service.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=7)** Image analysis lets you input an image either as a URL or as a data stream, and you can return useful information from it.
 >
@@ -322,7 +317,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=120)** Then you call the API with your image and an authentication token.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=124)** So when you provision that resource, the vision service, you'll be given an authentication token, and calling the API can be done over rest or via SDKs.
+> **[2:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=124)** So when you provision that resource, the vision service, you'll be given an authentication token, and calling the API can be done over [[Representational State Transfer (REST)|rest]] or via SDKs.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/image-analysis?u=76281980&t=133)** The image must follow certain criterion, certain limitations of course, and then the API will return your results.
 >
@@ -340,14 +335,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (6), api (5), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (5), url (1), ocr (1), css (1)
 > **Analogies:** picture (3), such as (2), for example (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Face service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980)
+#### [Face service](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=3)** Well, it allows you to detect, recognize, and analyze human faces in a submitted image.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=10)** Now it is worth pointing out that the face service access is limited based on eligibility and usage criteria in order to support Microsoft's responsible AI principles.
+> **[0:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=10)** Now it is worth pointing out that the face service access is limited based on eligibility and usage criteria in order to support [[Microsoft]]'s [[Responsible AI]] principles.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=21)** So face service is only available to Microsoft managed customers and partners.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=118)** So imagine that you are in a scenario where you want to take a picture of an environment where there are people's faces, but you don't have the consent of those people to be present in the picture.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=130)** So how do you protect their privacy?
+> **[2:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=130)** So how do you protect their [[Privacy]]?
 >
 > **[2:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=132)** Well, of course you could open a photo editing program and start blurring the faces manually.
 >
@@ -399,7 +393,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=150)** So how exactly does Face API work?
 >
-> **[2:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=153)** Well, when you call the Face API, which is a matter of calling a simple rest API, you submit an image and you get some results back.
+> **[2:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=153)** Well, when you call the Face API, which is a matter of calling a simple [[Representational State Transfer (REST)|rest]] API, you submit an image and you get some results back.
 >
 > **[2:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=161)** The results that you are going to get back, it'll tell you where in the image the face is.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=226)** Well, I think you can guess this, but it's actually pretty simple.
 >
-> **[3:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=228)** You provision a resource in Azure.
+> **[3:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=228)** You provision a resource in [[Microsoft Azure|Azure]].
 >
 > **[3:51](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/face-service?u=76281980&t=231)** Basically the Azure AI vision services, get an access key call an API.
 >
@@ -451,19 +445,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Microsoft]] (3), feature (2), [[Privacy]] (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Privacy]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Azure|Azure]] (2), [[Responsible AI]] (1)
 > **Analogies:** such as (4), picture (4), imagine (1)
 > **Env Vars:** api (8)
 > **Definitions:** is an  (3), is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [tutor] (1)
 
-#### Video analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980)
+#### [Video analysis](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=0)** - [Instructor] Now let's talk about video analysis in Azure AI Vision services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=0)** - [Instructor] Now let's talk about video analysis in [[Microsoft Azure|Azure]] AI Vision services.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=5)** Video analysis allows you to input a video or even a video stream and do spatial analysis or video retrieval.
 >
@@ -487,22 +480,21 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=59)** Video retrieval is a service that lets you create a search index, add documents, videos, and images to it, and search through it with natural language.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=68)** Developers can define metadata schemas for each index and ingest metadata to the service to help with retrieval.
+> **[1:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=68)** Developers can define [[Metadata]] schemas for each index and ingest metadata to the service to help with retrieval.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/video-analysis?u=76281980&t=76)** And developers can also specify what features to extract from the index, like vision, speech, and then filter their search based on those features.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Metadata]] (2), [[Microsoft Azure|Azure]] (1), ai (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Handwriting recognition with vision services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980)
+#### [Demo: Handwriting recognition with vision services](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=0)** - [Instructor] Now, let's look at a code example of using Azure AI Computer Vision to do handwriting recognition.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=0)** - [Instructor] Now, let's look at a code example of using [[Microsoft Azure|Azure]] AI [[Computer Vision]] to do handwriting recognition.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=7)** Now, I'd encourage you to view this code example generically because there's so many capabilities in Computer Vision.
 >
@@ -512,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=23)** So I don't exactly remember what the exact name was for the service I'm trying to provision, so I'll just type vision.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=32)** Check Azure Services only so these are the ones coming from Microsoft.
+> **[0:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=32)** Check Azure Services only so these are the ones coming from [[Microsoft]].
 >
 > **[0:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=36)** And the one I'm interested in is Computer Vision.
 >
@@ -538,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=90)** So effectively for development, this is free.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=93)** You have to agree to the responsible AI notice and click on Review and Create.
+> **[1:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=93)** You have to agree to the [[Responsible AI]] notice and click on Review and Create.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=99)** Now, there are a bunch of other things that you can specify, like restrict it to a particular network, assign a managed identity, that's common between almost every AI service you will provision in the Azure Portal.
 >
@@ -574,11 +566,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=191)** Like for example, if you're in .NET, what would the equivalence be?
 >
-> **[3:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=194)** So in package.json, I've taken a few dependencies to node packages.
+> **[3:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=194)** So in package.[[JSON]], I've taken a few dependencies to node packages.
 >
 > **[3:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=200)** In .NET, these would be NuGet packages.
 >
-> **[3:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=202)** In Python, these would be PyPi packages.
+> **[3:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=202)** In [[Python (Programming Language)|Python]], these would be PyPi packages.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=205)** So I've taken a dependency on three of these .env let me read config information.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=342)** Basically what is happening here is that I call a function called readInStream, and I pass in the file as a stream.
 >
-> **[5:52](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=352)** Now, if you were passing in a URL, you would just say client.read, and the rest API equivalents have similar constructs as well.
+> **[5:52](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=352)** Now, if you were passing in a URL, you would just say client.read, and the [[Representational State Transfer (REST)|rest]] API equivalents have similar constructs as well.
 >
 > **[6:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-handwriting-recognition-with-vision-services?u=76281980&t=360)** You're welcome to look that up in the reference.
 >
@@ -678,7 +670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Vision]] (15), ai (8), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (4), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Computer Vision]] (15), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (4), [[JSON]] (2), [[Responsible AI]] (1)
 > **Env Vars:** net (3), pdf (3), url (2), tiff (2), api (1)
 > **UI Navigation:** click on (6), go to (4), scroll down (1)
 > **Code Identifiers:** nodejs (2), createreadstream (1), readtextfromfile (1), readinstream (1)
@@ -692,12 +684,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI speech services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980)
+#### [Understanding Azure AI speech services](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980&t=0)** - [Instructor] Next, let's talk about understanding Azure AI Speech services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980&t=0)** - [Instructor] Next, let's talk about understanding [[Microsoft Azure|Azure]] AI Speech services.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980&t=5)** As you can imagine, Azure AI Speech services deals with voice.
 >
@@ -727,21 +718,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), api (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** api (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Speech to text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980)
+#### [Speech to text](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=0)** - [Instructor] Now let's talk about a very important part of Azure AI speech service, which is speech-to-text.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=0)** - [Instructor] Now let's talk about a very important part of [[Microsoft Azure|Azure]] AI speech service, which is speech-to-text.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=6)** Can you guess what speech-to-text means?
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=8)** Well, obviously, it's spoken audio converted to text, but you have the ability to upload an audio file or connect it to an audio stream and do it as a batch or real-time.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=8)** Well, obviously, it's spoken audio converted to text, but you have the ability to upload an audio file or connect it to an audio stream and do it as a batch or [[Real-Time]].
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=21)** It supports all of that, and it does so in multiple languages.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=185)** So what is the custom speech workflow look like?
 >
-> **[3:09](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=189)** Well, it starts with data collection.
+> **[3:09](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=189)** Well, it starts with [[Data Collection]].
 >
 > **[3:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=191)** You would gather relevant audio files and corresponding transcripts, and these should represent the acoustic conditions, vocabulary and speaking styles of your target application.
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=276)** Another important facet to consider here is model expiration.
 >
-> **[4:40](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=280)** See, the idea is that Microsoft is continuously improving on these speech models.
+> **[4:40](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=280)** See, the idea is that [[Microsoft]] is continuously improving on these speech models.
 >
 > **[4:45](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speech-to-text?u=76281980&t=285)** And what I mean by that is that there are base models that Microsoft works on and then you can do custom models on top of that.
 >
@@ -843,16 +833,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (9), [[Real-Time]] (6), ai (4), [[Microsoft]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Real-Time]] (6), [[Microsoft]] (4), [[Data Collection]] (1)
 > **Env Vars:** api (3)
 > **Speakers:** - [instructor] (1)
 
-#### Text to speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980)
+#### [Text to speech](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=0)** - [Instructor] Next, let's talk about yet another very important building block of Azure AI Speech Services, which is text to speech.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=0)** - [Instructor] Next, let's talk about yet another very important building block of [[Microsoft Azure|Azure]] AI Speech Services, which is text to speech.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=7)** Can you guess what text to speech does?
 >
@@ -890,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=108)** And these out of the box neural voices, they sound pretty good.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=113)** Microsoft has already built them for you, but of course they're pre-built.
+> **[1:53](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=113)** [[Microsoft]] has already built them for you, but of course they're pre-built.
 >
 > **[1:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/text-to-speech?u=76281980&t=118)** That means they're available to all Microsoft customers.
 >
@@ -918,17 +907,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft]] (3), next (2), ai (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft]] (3)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Speaker recognition
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speaker-recognition?u=76281980)
+#### [Speaker recognition](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speaker-recognition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speaker-recognition?u=76281980&t=0)** - [Instructor] Now let's talk about a fascinating capability of Azure AI Speech Services, which is speaker recognition.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speaker-recognition?u=76281980&t=0)** - [Instructor] Now let's talk about a fascinating capability of [[Microsoft Azure|Azure]] AI Speech Services, which is speaker recognition.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/speaker-recognition?u=76281980&t=7)** This is the ability of a computer, as in backed by Azure AI, of course, to listen to a voice and recognize who the voice belongs to.
 >
@@ -962,17 +950,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (4), data (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Translation
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/translation?u=76281980)
+#### [Translation](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/translation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/translation?u=76281980&t=0)** - [Instructor] Yet another amazing capability of Azure AI Speech services is translation.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/translation?u=76281980&t=0)** - [Instructor] Yet another amazing capability of [[Microsoft Azure|Azure]] AI Speech services is translation.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/translation?u=76281980&t=6)** Translation API allows you to do speech-to-text or speech-to-speech translations between many naturally spoken languages.
 >
@@ -1012,18 +999,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Microsoft Azure|Azure]] (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (5)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intent recognition
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980)
+#### [Intent recognition](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=0)** - [Instructor] Another amazing capability of Azure AI Speech Services is intent recognition.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=0)** - [Instructor] Another amazing capability of [[Microsoft Azure|Azure]] AI Speech Services is intent recognition.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=5)** There was a precursor to this called as LUIS, Language Understanding Intelligent Service, which is now on the way to deprecation, but the capabilities have been absorbed under this umbrella, which is intent recognition.
 >
@@ -1089,7 +1075,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=144)** So for example, I could ask the same question in multiple ways, right?
 >
-> **[2:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=150)** What is the stock price of Microsoft?
+> **[2:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=150)** What is the stock price of [[Microsoft]]?
 >
 > **[2:31](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=151)** What is the current price of Microsoft?
 >
@@ -1127,7 +1113,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=229)** And out of that, there is an entity which is in the place of symbol.
 >
-> **[3:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=234)** So now, instead of Microsoft, I could say Google, for example, and the symbol gets replaced by Google 'cause that's the entity I'm interested in.
+> **[3:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=234)** So now, instead of Microsoft, I could say [[Google]], for example, and the symbol gets replaced by Google 'cause that's the entity I'm interested in.
 >
 > **[4:03](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/intent-recognition?u=76281980&t=243)** So how does this work?
 >
@@ -1155,23 +1141,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Azure|Azure]] (2), ai (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Azure|Azure]] (2), [[Google]] (2)
 > **Definitions:** in other words (1), is a  (1), is called (1), is an  (1)
 > **Analogies:** for example (3), imagine (1)
 > **Env Vars:** msft (2), luis (1)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Text to speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980)
+#### [Demo: Text to speech](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=1)** - Now let's look at a demo of using Azure AI speech services to do text to speech.
+> **[0:01](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=1)** - Now let's look at a demo of using [[Microsoft Azure|Azure]] AI speech services to do text to speech.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=7)** It's pretty simple.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=8)** I'm logged into my Azure portal under all resources, I'm going to click on create and search for the word speech.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=8)** I'm logged into my Azure portal under all resources, I'm going to click on create and search for the [[Microsoft Word|word]] speech.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=17)** Okay, let's select the first choice here.
 >
@@ -1189,7 +1174,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=45)** I'll call it Sahil Speech and choose the free tier.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=50)** Microsoft will allow you to create a free tier one per subscription, so I can use that over here and click on review and create.
+> **[0:50](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=50)** [[Microsoft]] will allow you to create a free tier one per subscription, so I can use that over here and click on review and create.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=60)** You can choose to limit the network to which your service is accessible and assign a managed identity if you wish.
 >
@@ -1209,9 +1194,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=104)** So again, this is a node JS code example.
 >
-> **[1:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=107)** So I'll walk you through concepts and mention the relevant equivalent concepts in dot net and Python as we move along.
+> **[1:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=107)** So I'll walk you through concepts and mention the relevant equivalent concepts in dot net and [[Python (Programming Language)|Python]] as we move along.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=115)** Package JSON is where I define all my scripts and the dependencies I take a dependence on.
+> **[1:55](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=115)** Package [[JSON]] is where I define all my scripts and the dependencies I take a dependence on.
 >
 > **[2:01](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=121)** So I've taken a dependency on something called dotenv, which lets me read configuration files and Microsoft Cognitive Services speech sdk.
 >
@@ -1283,7 +1268,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=327)** And running it has produced the following result.
 >
-> **[5:29](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=329)** Recognize text, hello, this is a test of speech recognition API.
+> **[5:29](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=329)** Recognize text, hello, this is a test of [[Speech Recognition]] API.
 >
 > **[5:35](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-to-speech?u=76281980&t=335)** Let's listen to this input audio file that I recorded a moment ago.
 >
@@ -1295,7 +1280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (4), [[Microsoft]] (3), [[Speech Recognition]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (3), [[Speech Recognition]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1), scroll down (1)
 > **CLI Commands:** python (2), node (1), dotnet (1)
 > **Env Vars:** api (2), json (1)
@@ -1309,12 +1294,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI language services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980)
+#### [Understanding Azure AI language services](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=0)** - [Instructor] Now let's dive deeper into yet another important capability of Azure AI Services, which is Language services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=0)** - [Instructor] Now let's dive deeper into yet another important capability of [[Microsoft Azure|Azure]] AI Services, which is Language services.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=8)** Azure AI Language services lets you make sense of conversational natural language.
 >
@@ -1342,7 +1326,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=81)** It'll allow you to do things like question answering.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=84)** Let's say you have a lot of unstructured data and people are asking questions that requires you to go back to that data and answer those questions.
+> **[1:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=84)** Let's say you have a lot of [[Unstructured Data]] and people are asking questions that requires you to go back to that data and answer those questions.
 >
 > **[1:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980&t=93)** Would it be nice to turn that into question-answer pairs?
 >
@@ -1356,17 +1340,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), ai (5), [[Unstructured Data]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Unstructured Data]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** clu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extract information
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/extract-information?u=76281980)
+#### [Extract information](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/extract-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/extract-information?u=76281980&t=0)** - [Instructor] Let's dive deeper into the extract information part of Azure AI Language Services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/extract-information?u=76281980&t=0)** - [Instructor] Let's dive deeper into the extract information part of [[Microsoft Azure|Azure]] AI Language Services.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/extract-information?u=76281980&t=6)** It'll allow you to extract valuable information from unstructured text.
 >
@@ -1418,19 +1401,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), ai (3), [[Microsoft Azure|Azure]] (2), data (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (3)
 > **Env Vars:** umls (1), pii (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize content
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/summarize-content?u=76281980)
+#### [Summarize content](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/summarize-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/summarize-content?u=76281980&t=0)** - [Instructor] Next, let's talk about another fascinating capability of Azure AI Services called summarized content.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/summarize-content?u=76281980&t=0)** - [Instructor] Next, let's talk about another fascinating capability of [[Microsoft Azure|Azure]] AI Services called summarized content.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/summarize-content?u=76281980&t=7)** Summarized content will allow you to take large amounts of input text as text or a conversation, or as a document, and then create a gist of it, a summarized version, that you can quickly ground.
 >
@@ -1452,17 +1434,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Azure|Azure]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** pdf (1), docx (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classify text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980)
+#### [Classify text](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=0)** - [Instructor] Another fascinating capability of Azure AI Services is classify text.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=0)** - [Instructor] Another fascinating capability of [[Microsoft Azure|Azure]] AI Services is classify text.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=6)** What does it allow me to do?
 >
@@ -1514,7 +1495,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=114)** What else could you do with it?
 >
-> **[1:55](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=115)** For example, let's say you have built a customer support ticketing system.
+> **[1:55](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=115)** For example, let's say you have built a [[Customer Support]] ticketing system.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/classify-text?u=76281980&t=120)** Would it be nice if we could analyze the text of the incoming ticket and automatically classify it?
 >
@@ -1524,23 +1505,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (3), next (1), generic (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Customer Support]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Answer questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980)
+#### [Answer questions](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=0)** - [Instructor] Yet another amazing capability of Azure AI services is answering questions.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=0)** - [Instructor] Yet another amazing capability of [[Microsoft Azure|Azure]] AI services is answering questions.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=6)** Okay, this is not exactly like the large language models, which can answer any question.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=6)** Okay, this is not exactly like the [[Large Language Models (LLM)|large language models]], which can answer any question.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=12)** This is answering questions based on your data.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=15)** So, this capability allows you to create a natural conversational layer on top of unstructured data.
+> **[0:15](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=15)** So, this capability allows you to create a natural conversational layer on top of [[Unstructured Data]].
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=23)** Think of it this way, that you have a lot of documents, and wouldn't it be nice to turn those documents into a chat bot?
 >
@@ -1558,24 +1538,23 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=70)** That is what multi turn conversations will allow you to do.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=74)** And you can do iterative improvement, the idea being that as the application gets used, you can add metadata, you can add more data, you can add questions, tests, and keep improving this in a loop and keep improving your results.
+> **[1:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=74)** And you can do iterative improvement, the idea being that as the application gets used, you can add [[Metadata]], you can add more data, you can add questions, tests, and keep improving this in a loop and keep improving your results.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/answer-questions?u=76281980&t=87)** And that is what the question/answering capability of Azure AI services allows you to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), ai (2), data (2), [[Unstructured Data]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Unstructured Data]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Metadata]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980)
+#### [Understand conversations](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980&t=0)** - [Instructor] Another fascinating capability of Azure AI language services is understand conversations.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980&t=0)** - [Instructor] Another fascinating capability of [[Microsoft Azure|Azure]] AI language services is understand conversations.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980&t=7)** Now, it is used to understand natural language and understand the overall intent of an incoming utterance, like when I say, "What is the stock price of Microsoft?"
+> **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980&t=7)** Now, it is used to understand natural language and understand the overall intent of an incoming utterance, like when I say, "What is the stock price of [[Microsoft]]?"
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understand-conversations?u=76281980&t=16)** Well, I'm trying to get price; that's the intent.
 >
@@ -1589,21 +1568,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Key phrase extraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980)
+#### [Demo: Key phrase extraction](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=0)** - [Instructor] Now let's look at a simple code example, how I can use Azure AI Language services to do keyphrase extraction, it's pretty simple.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=0)** - [Instructor] Now let's look at a simple code example, how I can use [[Microsoft Azure|Azure]] AI Language services to do keyphrase extraction, it's pretty simple.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=8)** Logged into my Azure portal, I'm going to click on the Create button under All Resources and search for Language Service.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=17)** Here you go.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=19)** Once the choices show up, look for the language service provided by Microsoft and choose to create it.
+> **[0:19](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=19)** Once the choices show up, look for the language service provided by [[Microsoft]] and choose to create it.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=27)** Now, when you create a language service instance in your Azure subscription, you see that there are these default features that are included in the language service.
 >
@@ -1655,13 +1633,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=146)** Okay, now let's walk through this code.
 >
-> **[2:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=148)** First, going to package.json.
+> **[2:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=148)** First, going to package.[[JSON]].
 >
-> **[2:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=150)** Again, this is a Node.js code example, but the .NET and Python concepts are almost equivalent.
+> **[2:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=150)** Again, this is a [[Node.js]] code example, but the .NET and [[Python (Programming Language)|Python]] concepts are almost equivalent.
 >
-> **[2:37](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=157)** You can also choose to call the REST API directly if you wish.
+> **[2:37](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=157)** You can also choose to call the [[Representational State Transfer (REST)|REST]] API directly if you wish.
 >
-> **[2:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=161)** So I've taken a dependency on an NPM package called @azure/ai-text-analytics.
+> **[2:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=161)** So I've taken a dependency on an [[npm]] package called @azure/ai-text-analytics.
 >
 > **[2:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=168)** There's an equivalent such package in NuGet, there is another such package for Python, as well.
 >
@@ -1673,7 +1651,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=190)** Remember, we're doing keyphrase extraction.
 >
-> **[3:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=192)** The point here is pretty simple, that I want to submit a text sentence or something like this, like, "Learning about artificial intelligence on LinkedIn Learning can be fun."
+> **[3:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=192)** The point here is pretty simple, that I want to submit a text sentence or something like this, like, "Learning about [[Artificial Intelligence (AI)|artificial intelligence]] on [[LinkedIn]] Learning can be fun."
 >
 > **[3:23](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=203)** And then I want Azure AI to do keyphrase extraction on this text.
 >
@@ -1685,7 +1663,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=230)** I just say client.extractKeyPhrases.
 >
-> **[3:53](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=233)** This is an async API, promise-based in the JavaScript world.
+> **[3:53](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=233)** This is an async API, promise-based in the [[JavaScript]] world.
 >
 > **[3:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-key-phrase-extraction?u=76281980&t=238)** And once this completes, I get the results back.
 >
@@ -1703,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), ai (6), [[Analytics]] (3), [[Python (Programming Language)|Python]] (2), api (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Python (Programming Language)|Python]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (2), [[Microsoft]] (1)
 > **Env Vars:** api (2), net (1), rest (1), npm (1), debug (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **CLI Commands:** python (2), make (1), node (1), npm (1)
@@ -1717,12 +1695,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980)
+#### [Understanding Azure AI search](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=0)** - [Instructor] Now let's talk about another fantastic capability of Azure AI services, which is Azure AI Search.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=0)** - [Instructor] Now let's talk about another fantastic capability of [[Microsoft Azure|Azure]] AI services, which is Azure AI Search.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=8)** Azure AI Search is an enterprise class search engine that searches on your data and adds AI capabilities to it.
 >
@@ -1730,13 +1707,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=19)** But let's understand what this actually means.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=22)** Well, first, there are so many search offerings even from Microsoft.
+> **[0:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=22)** Well, first, there are so many search offerings even from [[Microsoft]].
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=26)** So where does Azure AI search fit in?
 >
 > **[0:29](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=29)** Well, you may be familiar with something called as Microsoft Search.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=32)** Microsoft search is where M365 authenticated user, they would search content across SharePoint, et cetera, right?
+> **[0:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=32)** Microsoft search is where [[Microsoft 365|M365]] authenticated user, they would search content across [[SharePoint]], et cetera, right?
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=40)** This is something that we've used, we're familiar with.
 >
@@ -1754,7 +1731,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=67)** Then you have full tech searching, database search.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=71)** This is where you have Azure SQL or Azure Cosmos DB, and they have some interesting capabilities around full tech search or vector searching.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=71)** This is where you have Azure [[SQL]] or Azure Cosmos DB, and they have some interesting capabilities around full tech search or vector searching.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=81)** So the question then is, where does Azure AI Search fit in?
 >
@@ -1780,7 +1757,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=153)** Full-text search, on the other hand, is like plain text searching stored in an index.
 >
-> **[2:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=159)** It might do some interesting things like lower text or removing stop words like, "the," reducing terms to primitive root forms, et cetera.
+> **[2:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=159)** It might do some interesting things like lower text or removing stop words like, "the," reducing terms to primitive root [[Forms]], et cetera.
 >
 > **[2:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980&t=167)** But at the end of the day, it is text matching.
 >
@@ -1830,7 +1807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (38), ai (20), [[Microsoft Azure|Azure]] (19), [[Microsoft]] (4), [[SharePoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Microsoft]] (4), [[SharePoint]] (2), [[Microsoft 365|M365]] (1), [[SQL]] (1)
 > **Env Vars:** m365 (1), sql (1), dbms (1), pdf (1), ocr (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1839,12 +1816,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI enrichment
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980)
+#### [AI enrichment](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=0)** - [Instructor] Now let's talk about a fantastic capability of Azure AI Search, which is AI enrichment.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=0)** - [Instructor] Now let's talk about a fantastic capability of [[Microsoft Azure|Azure]] AI Search, which is AI enrichment.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=7)** Thing is, the real world is complex, and not all data is easily searchable.
 >
@@ -1866,7 +1842,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=36)** Well, all these cognitive services that I've been talking about so far.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=40)** So for example, if I have the word dog appear and the individual issuing the search query searches for the word hund, H-U-N-D, which is the German word for dog.
+> **[0:40](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=40)** So for example, if I have the [[Microsoft Word|word]] dog appear and the individual issuing the search query searches for the word hund, H-U-N-D, which is the German word for dog.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/ai-enrichment?u=76281980&t=53)** Well, you know what?
 >
@@ -1894,7 +1870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Search]] (4), data (3), [[Microsoft Word|Word]] (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** api (3), pdf (2), ocr (1), aml (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
@@ -1902,14 +1878,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Semantic ranking
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980)
+#### [Semantic ranking](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=0)** - Any discussion of a real world enterprise class search engine cannot exclude semantic ranking.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=7)** So certainly Azure AI search supports this.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=7)** So certainly [[Microsoft Azure|Azure]] AI search supports this.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=9)** Let's understand this a little bit more.
 >
@@ -1919,7 +1894,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=20)** But what results are at the top, the more relevant ones, semantic ranking improves that ranking.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=28)** So another closely related concept to semantic ranking is semantic search.
+> **[0:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=28)** So another closely related concept to semantic ranking is [[Semantic Search]].
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=34)** Semantic search gives you two additional features to improve your results, the first being captions.
 >
@@ -1945,7 +1920,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=109)** Well, you simply add "search=semantic" to your queries.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=114)** Well, executing these queries is just a simple REST API.
+> **[1:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=114)** Well, executing these queries is just a simple [[Representational State Transfer (REST)|REST]] API.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/semantic-ranking?u=76281980&t=117)** And you just say that this search is semantic.
 >
@@ -1963,29 +1938,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Semantic Search]] (5), [[Microsoft Azure|Azure]] (1), ai (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (5), [[Microsoft Azure|Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1), api (1), sdk (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - any (1)
 
-#### Vectors in AI search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980)
+#### [Vectors in AI search](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=0)** - [Instructor] A very important capability of Azure AI Search is vectors, so let's understand that a little bit better.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=0)** - [Instructor] A very important capability of [[Microsoft Azure|Azure]] AI Search is vectors, so let's understand that a little bit better.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=8)** Vectors are mathematical representation of your text data, words, phrases, documents as numerical vectors.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=15)** This allows your social algorithms to compute similarities and relationships between different pieces of text.
+> **[0:15](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=15)** This allows your social [[Algorithms]] to compute similarities and relationships between different pieces of text.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=22)** Vector embeddings, another closely-related concept, is also known as dense vector representations.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=28)** This is a technique to map text data to a multidimensional vector space.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=34)** Each word, phrase or document is represented as a vector of numbers embedding, which captures its semantic meaning.
+> **[0:34](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=34)** Each [[Microsoft Word|word]], phrase or document is represented as a vector of numbers embedding, which captures its semantic meaning.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/vectors-in-ai-search?u=76281980&t=42)** "Why is vector search useful?"
 >
@@ -2021,24 +1995,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft Azure|Azure]] (3), ai (3), data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** hnsw (1), knn (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Build and use a search index
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980)
+#### [Demo: Build and use a search index](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=0)** - [Instructor] Now let's get a feel for what Azure AI search looks like.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=0)** - [Instructor] Now let's get a feel for what [[Microsoft Azure|Azure]] AI search looks like.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=5)** So again, logged into portal.[azure.com](https://azure.com) with a subscription attached, go to all resources and choose to create a resource.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=13)** So I'm going to simply search for the word search.
+> **[0:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=13)** So I'm going to simply search for the [[Microsoft Word|word]] search.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=17)** And as you know, there are a number of search offerings in the world and certainly from Microsoft.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=17)** And as you know, there are a number of search offerings in the world and certainly from [[Microsoft]].
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=21)** So the one I am interested in over here is the Azure AI Search.
 >
@@ -2166,7 +2139,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=398)** Anyway, let's go back to my search overview page and click on search explorer.
 >
-> **[6:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=407)** Now for my demo purposes, I'll go ahead and use the search explorer, but remember, this search is available on a rest API or through SDKs if you wish.
+> **[6:47](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=407)** Now for my demo purposes, I'll go ahead and use the search explorer, but remember, this search is available on a [[Representational State Transfer (REST)|rest]] API or through SDKs if you wish.
 >
 > **[6:57](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-and-use-a-search-index?u=76281980&t=417)** Okay, so I guess let's execute some searches.
 >
@@ -2188,7 +2161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (26), data (19), ai (7), [[Microsoft Azure|Azure]] (6), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft Word|Word]] (3), [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (8), go to (6)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), think of it as (1)
@@ -2202,12 +2175,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI content safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980)
+#### [Understanding Azure AI content safety](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=0)** - [Instructor] Next, let's talk about another fundamental building block of Azure AI services, which is Content Safety.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=0)** - [Instructor] Next, let's talk about another fundamental building block of [[Microsoft Azure|Azure]] AI services, which is Content Safety.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=7)** Content Safety allows you to detect and flag harmful or undesirable content.
 >
@@ -2217,7 +2189,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=22)** First, you can use it to create Prompt Shields.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=25)** Generative AI and large language models are becoming commonplace, as is their exploitation.
+> **[0:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=25)** [[Generative AI]] and [[Large Language Models (LLM)|large language models]] are becoming commonplace, as is their exploitation.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=32)** Bad actors are coming up with newer, innovative ideas to coax large language models to generate harmful content by submitting carefully crafted inputs, Prompt Shields is designed to solve that problem.
 >
@@ -2233,7 +2205,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=91)** Protected material protection is available for both text and code.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=95)** For code, it'll simply tell you if the code was lifted from any of the existing GitHub repos.
+> **[1:35](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=95)** For code, it'll simply tell you if the code was lifted from any of the existing [[GitHub]] repos.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980&t=101)** Next, you have Analyze Text, which you can use to analyze input text, and Azure AI will tell you whether it falls into any one of the four categories, either hate, harm, self-harm, sexual, or violence.
 >
@@ -2257,7 +2229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), next (3), [[Microsoft Azure|Azure]] (3), [[Large Language Models (LLM)|Large language models]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Large Language Models (LLM)|Large language models]] (3), [[Generative AI]] (1), [[GitHub]] (1)
 > **Env Vars:** api (2), llm (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **CLI Commands:** make (1)
@@ -2266,12 +2238,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Text moderation
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980)
+#### [Demo: Text moderation](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=0)** - [Instructor] Now let's look at a simple code example that allows me to use Azure AI Services to do text moderation.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=0)** - [Instructor] Now let's look at a simple code example that allows me to use [[Microsoft Azure|Azure]] AI Services to do text moderation.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=8)** So again, I'm logged into portal.[azure.com](https://azure.com) and under all resources, click on create and choose to create a resource called content safety right there.
 >
@@ -2301,11 +2272,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=85)** Go back to the Azure portal and also pick the end point right here and go ahead and place the end point here as well.
 >
-> **[1:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=96)** Okay, now let's dive into code starting with package.json.
+> **[1:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=96)** Okay, now let's dive into code starting with package.[[JSON]].
 >
-> **[1:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=102)** I've taken a dependency on line number 13, which is an NPM package called Azure Rest AI Content safety.
+> **[1:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=102)** I've taken a dependency on line number 13, which is an [[npm]] package called Azure [[Representational State Transfer (REST)|Rest]] AI Content safety.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=110)** There are equivalent packages for .NET and Python as well, and you can always call the rest API directly if you want.
+> **[1:50](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=110)** There are equivalent packages for .NET and [[Python (Programming Language)|Python]] as well, and you can always call the rest API directly if you want.
 >
 > **[1:59](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=119)** The dotenv package is used to read this environment file and make it as available as configuration information.
 >
@@ -2353,7 +2324,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=252)** Now for obvious reasons, I'm not going to show you the exact text I'm submitting, although these are, I can tell you, they are text variables that are very similar to what you see on line 33, except these variables contain, well, offensive texts that I don't want to show you on this screen.
 >
-> **[4:29](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=269)** We'll just see the results and just take my word for it that they are self-harm related, they are violent, they are sexual and hate and so on and so forth.
+> **[4:29](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=269)** We'll just see the results and just take my [[Microsoft Word|word]] for it that they are self-harm related, they are violent, they are sexual and hate and so on and so forth.
 >
 > **[4:37](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-text-moderation?u=76281980&t=277)** So let's go ahead and run this and see what Azure AI returns me as the output of this.
 >
@@ -2391,7 +2362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), ai (9), [[Representational State Transfer (REST)|Rest]] (2), api (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Representational State Transfer (REST)|Rest]] (2), [[JSON]] (1), [[npm]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** api (2), npm (1), net (1)
 > **CLI Commands:** npm (1), python (1), make (1)
@@ -2405,12 +2376,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI translator services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980)
+#### [Understanding Azure AI translator services](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=0)** - [Instructor] Next, let's talk about the Translator services in Azure AI services.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=0)** - [Instructor] Next, let's talk about the Translator services in [[Microsoft Azure|Azure]] AI services.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=5)** The Translator services allows you to translate documents or text using AI, and you can pair it with Speech and do spoken translations.
 >
@@ -2434,7 +2404,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=50)** You have the ability to do document translation.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=54)** This is either synchronous or asynchronous, and you can support multiple file types using a convenient REST API.
+> **[0:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=54)** This is either synchronous or asynchronous, and you can support multiple file types using a convenient [[Representational State Transfer (REST)|REST]] API.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980&t=63)** You can also do custom translation.
 >
@@ -2454,7 +2424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), ai (2), api (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), rest (1)
 > **Tools:** azure portal (1)
 > **UI Navigation:** go to (1)
@@ -2462,12 +2432,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Language translation for text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980)
+#### [Demo: Language translation for text](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=0)** - [Instructor] Now let's look at a simple code example that allows me to use Azure AI Service's Translation Services to perform translation between some spoken natural languages.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=0)** - [Instructor] Now let's look at a simple code example that allows me to use [[Microsoft Azure|Azure]] AI Service's Translation Services to perform translation between some spoken natural languages.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=12)** So, log into portal.[azure.com](https://azure.com), go to All resources, and click on Create, search for Translator, there you go.
 >
@@ -2503,11 +2472,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=124)** Now let's look at code.
 >
-> **[2:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=126)** Again, this is a Node.js code example, but the concepts are quite similar in other languages and platforms, as well.
+> **[2:06](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=126)** Again, this is a [[Node.js]] code example, but the concepts are quite similar in other languages and platforms, as well.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=133)** So I've taken a dependency on this NPM package.
+> **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=133)** So I've taken a dependency on this [[npm]] package.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=136)** You see over here, there's an equivalent new get package or a Python package, as well.
+> **[2:16](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=136)** You see over here, there's an equivalent new get package or a [[Python (Programming Language)|Python]] package, as well.
 >
 > **[2:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=142)** And dotenv is for reading the configuration information.
 >
@@ -2523,7 +2492,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=184)** Okay, this is in English, so then on line number 15 is where I do a post to /translate on the endpoint.
 >
-> **[3:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=192)** So remember, this is just a thin wrapper around the REST API.
+> **[3:12](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=192)** So remember, this is just a thin wrapper around the [[Representational State Transfer (REST)|REST]] API.
 >
 > **[3:15](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-language-translation-for-text?u=76281980&t=195)** So you could just call the REST API, as well.
 >
@@ -2555,7 +2524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), api (3), [[Representational State Transfer (REST)|Rest]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Representational State Transfer (REST)|Rest]] (2), [[Node.js]] (1), [[npm]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (5), go to (2)
 > **Env Vars:** api (3), rest (2), npm (1)
 > **CLI Commands:** node (1), npm (1), python (1)
@@ -2569,16 +2538,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI Document Intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980)
+#### [Understanding Azure AI Document Intelligence](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=0)** - [Instructor] Yet another very useful capability of Azure AI services is the document intelligence capability.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=0)** - [Instructor] Yet another very useful capability of [[Microsoft Azure|Azure]] AI services is the document intelligence capability.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=7)** Let's dive into this and understand what this allows me to do.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=11)** The document intelligence capability of Azure AI services allows me to extract key value pairs, text, and tables from standard documents using artificial intelligence of course.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=11)** The document intelligence capability of Azure AI services allows me to extract key value pairs, text, and tables from standard documents using [[Artificial Intelligence (AI)|artificial intelligence]] of course.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=23)** So what are some of the things I can do?
 >
@@ -2592,7 +2560,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=46)** You can do form recognition.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=48)** There are a lot of standard forms, aren't there?
+> **[0:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=48)** There are a lot of standard [[Forms]], aren't there?
 >
 > **[0:51](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980&t=51)** Like in America, we fill a W2 or a W9 for tax purposes.
 >
@@ -2620,18 +2588,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Azure|Azure]] (3), ai (3), [[Search]] (3), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Forms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** ocr (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Document intelligence models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980)
+#### [Document intelligence models](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=0)** - [Instructor] The Document Intelligence service in Azure AI Services has a number of out-of-the-box models that you can use.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=0)** - [Instructor] The Document Intelligence service in [[Microsoft Azure|Azure]] AI Services has a number of out-of-the-box models that you can use.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=8)** Let's understand those capabilities a little bit better.
 >
@@ -2651,7 +2618,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=49)** That would be the job of a custom model.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=52)** Here, you would train using your labeled dataset and extract distinct data from forms and documents specific to your use cases.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=52)** Here, you would train using your labeled dataset and extract distinct data from [[Forms]] and documents specific to your use cases.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=63)** So what are some of the out-of-the-box pre-built models that are available in Azure AI Document Intelligence services?
 >
@@ -2663,7 +2630,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=82)** You can analyze checks.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=84)** So extracting, say the amount, name, routing number, account number, all of that can be done.
+> **[1:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=84)** So extracting, say the amount, name, [[Routing]] number, account number, all of that can be done.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/document-intelligence-models?u=76281980&t=89)** Contracts, you can extract agreement and party details.
 >
@@ -2695,7 +2662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[Microsoft Azure|Azure]] (3), ai (3), data (2), api (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Microsoft Azure|Azure]] (3), [[Routing]] (1)
 > **Env Vars:** api (1), pii (1)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), imagine (1)
@@ -2706,14 +2673,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980)
+#### [Understanding Azure AI Foundry](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=0)** - [Instructor] Now let's talk about Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=0)** - [Instructor] Now let's talk about [[Azure AI Foundry]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=4)** Well, I debated whether or not I should include this particular module in this course or not because our focus has been Azure AI services.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=4)** Well, I debated whether or not I should include this particular module in this course or not because our focus has been [[Microsoft Azure|Azure]] AI services.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=13)** All the Azure AI services that we use, well, they were very compelling, but they felt a little bit like this.
 >
@@ -2723,9 +2689,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=28)** What if I wanted to use a model that is not part of Azure AI services, but it is available in the world?
 >
-> **[0:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=36)** Like these large language models like Llama?
+> **[0:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=36)** Like these [[Large Language Models (LLM)|large language models]] like [[LLaMA]]?
 >
-> **[0:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=38)** Can I use them in my Azure AI solutions inside of Azure ecosystem?
+> **[0:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=38)** Can I use them in my Azure [[AI Solutions]] inside of Azure ecosystem?
 >
 > **[0:45](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=45)** Yep, that's exactly what Azure AI Foundry allows you to do and more.
 >
@@ -2757,15 +2723,15 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=105)** And then there is AI models, actually building the models themselves where you ingest terabytes and terabytes, petabytes of data subjected to AI cluster that consumes more power than a town, and you build a model.
 >
-> **[2:01](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=121)** This is something that say, companies like Meta, Google and Microsoft have been doing and making those models available for us so we can use them in Azure AI solutions.
+> **[2:01](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=121)** This is something that say, companies like Meta, [[Google]] and [[Microsoft]] have been doing and making those models available for us so we can use them in Azure AI solutions.
 >
 > **[2:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=130)** And that is where Azure AI Foundry shines.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=133)** We have the ability to build complex, compelling AI solutions, piggyback on the work that others have done, use concepts like fine tuning, distillation, et cetera, enterprise-grade AI solutions.
+> **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=133)** We have the ability to build complex, compelling AI solutions, piggyback on the work that others have done, use concepts like [[Fine Tuning]], distillation, et cetera, enterprise-grade AI solutions.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=147)** So here's a site I'd like you to remember, ai.[azure.com](https://azure.com).
 >
-> **[2:31](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=151)** This will take you to Azure AI Studio, which is a part of Azure AI Foundry.
+> **[2:31](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=151)** This will take you to [[Azure AI Studio]], which is a part of Azure AI Foundry.
 >
 > **[2:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=158)** What is Azure AI Foundry?
 >
@@ -2773,7 +2739,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=165)** And I'm talking full developer style.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=168)** Sleeves rolled up, full lifecycle development, MLOps, DevOps, the whole thing.
+> **[2:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=168)** Sleeves rolled up, full lifecycle development, [[MLOps]], [[DevOps]], the whole thing.
 >
 > **[2:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=174)** So what does a typical AI project look like?
 >
@@ -2797,13 +2763,13 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=217)** So you take say 20% of the data and you train your model based on that.
 >
-> **[3:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=222)** And then the rest of the 80% you can use to validate and see if your model is producing the right results.
+> **[3:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=222)** And then the [[Representational State Transfer (REST)|rest]] of the 80% you can use to validate and see if your model is producing the right results.
 >
 > **[3:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=228)** And once you're happy with the results, you deploy it.
 >
 > **[3:51](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=231)** You deploy it as a simple endpoint using any of these concepts that you're familiar with.
 >
-> **[3:55](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=235)** Like say, deploy it as an API protected by EntraID, deployed to scale using Kubernetes.
+> **[3:55](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=235)** Like say, deploy it as an API protected by EntraID, deployed to scale using [[Kubernetes]].
 >
 > **[4:03](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=243)** This is your inference API.
 >
@@ -2859,7 +2825,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=360)** I can look at that particular solution and use it as is, or I can use it to be inspired and create solutions that suit my business domain.
 >
-> **[6:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=370)** For example, below that, you see natural language to SQL.
+> **[6:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=370)** For example, below that, you see natural language to [[SQL]].
 >
 > **[6:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980&t=374)** But for those of us who struggle with SQL, but we can describe our intent in simple English, would it be nice if I could just describe, hey, get me this kind of data and the computer using AI is smart enough to understand what I need to do.
 >
@@ -2879,7 +2845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (26), [[Microsoft Azure|Azure]] (11), data (11), [[Azure AI Foundry]] (10), api (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Azure AI Foundry]] (10), [[AI Solutions]] (6), [[Large Language Models (LLM)|Large language models]] (3), [[Microsoft]] (3)
 > **Env Vars:** api (5), sql (2), gpt (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3)
@@ -2888,8 +2854,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** drag and drop (1)
 
-#### Open AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980)
+#### [Open AI](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2909,7 +2874,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=43)** So there's a complex history behind OpenAI, but I think what we care about as developers is that this is an organization that has played a very pioneering role in the world of AI, and it's something that we should be aware of and we should understand what it means to us as developers.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=62)** Microsoft has had a key role and partnership with OpenAI, and this is very important to us because not only has Microsoft invested in OpenAI, money, resources, et cetera, but Microsoft has also made available OpenAI capabilities directly through Azure, and that is what makes OpenAI in a Microsoft world really, really powerful.
+> **[1:02](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=62)** [[Microsoft]] has had a key role and partnership with OpenAI, and this is very important to us because not only has Microsoft invested in OpenAI, money, resources, et cetera, but Microsoft has also made available OpenAI capabilities directly through [[Microsoft Azure|Azure]], and that is what makes OpenAI in a Microsoft world really, really powerful.
 >
 > **[1:26](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=86)** So what are some of the things that you can do with Azure OpenAI?
 >
@@ -2927,7 +2892,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=130)** Not only that, AI doesn't exist in a vacuum.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=133)** You're going to deploy it to a Kubernetes cluster.
+> **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=133)** You're going to deploy it to a [[Kubernetes]] cluster.
 >
 > **[2:16](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=136)** You have AKS in Azure.
 >
@@ -2937,7 +2902,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=148)** There are so many Azure capabilities that are available, in fact, all of Azure's capabilities that are available, that now can be paired with OpenAI.
 >
-> **[2:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=158)** You have full lifecycle management, building, deploying, versioning, retiring your AI solutions.
+> **[2:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=158)** You have full lifecycle management, building, deploying, versioning, retiring your [[AI Solutions]].
 >
 > **[2:44](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=164)** The same concepts that you've used in Azure over years and years of Azure's experience can now be used with OpenAI.
 >
@@ -2959,7 +2924,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=200)** So Azure comes with a number of security concepts.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=205)** Azure AD, now known as Entra ID, is available for you, and along with it come with the various concepts like managed identity.
+> **[3:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=205)** [[Microsoft Entra ID|Azure AD]], now known as [[Microsoft Entra ID|Entra ID]], is available for you, and along with it come with the various concepts like managed identity.
 >
 > **[3:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=213)** You can use all of that with OpenAI.
 >
@@ -2971,17 +2936,17 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=231)** And it is also available in Azure Government.
 >
-> **[3:56](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=236)** It goes without saying that you can use Azure OpenAI through Azure AI Foundry, VS Code, or any other dev experience you prefer.
+> **[3:56](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=236)** It goes without saying that you can use Azure OpenAI through [[Azure AI Foundry]], VS Code, or any other dev experience you prefer.
 >
 > **[4:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=245)** Azure does not limit you to just OpenAI.
 >
-> **[4:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=248)** Say, if you prefer to use a model by Meta, such as Llama, you're welcome to use that as well.
+> **[4:08](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=248)** Say, if you prefer to use a model by Meta, such as [[LLaMA]], you're welcome to use that as well.
 >
 > **[4:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/open-ai?u=76281980&t=254)** You can use it and deploy it to Azure or even somewhere else if you prefer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Microsoft]] (5), ai (4), [[Security]] (2), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Microsoft]] (5), [[Kubernetes]] (1), [[AI Solutions]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **Env Vars:** rbac (2), aks (2)
 > **Analogies:** think of it as (1), just like (1), such as (1)
 > **Definitions:** is an  (1), known as (1)
@@ -2990,12 +2955,11 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Warnings:** be aware (1)
 
-#### Choosing the right AI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980)
+#### [Choosing the right AI model](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=0)** - [Instructor] When we build AI solutions, we are standing on the shoulders of giants.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=0)** - [Instructor] When we build [[AI Solutions]], we are standing on the shoulders of giants.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=5)** Companies have spent millions, if not billions, of dollars building these AI models.
 >
@@ -3051,7 +3015,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=133)** We want to ensure things like real-world relevance, contextual understanding, common sense, physical constraints, and yes, human values and norms.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=144)** Then we want to consider AI model fluency, which measures the language proficiency of a generative AI's predictive answer.
+> **[2:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=144)** Then we want to consider AI model fluency, which measures the language proficiency of a [[Generative AI]]'s predictive answer.
 >
 > **[2:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=152)** In other words, it refers to a model's ability to generate human-like responses, predictions, or creations that are coherent, natural, and effortless.
 >
@@ -3071,7 +3035,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=216)** Now these are a lot of criterion to compare.
 >
-> **[3:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=219)** Azure AI studio just makes it so easy for us.
+> **[3:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=219)** [[Azure AI Studio]] just makes it so easy for us.
 >
 > **[3:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/choosing-the-right-ai-model?u=76281980&t=222)** They have already done the homework over here and they've taken all popular models available for me in Azure AI Studio, and they have given me a sortable table around accuracy, coherence, groundedness, fluency, relevance, and similarity, not just a table.
 >
@@ -3079,14 +3043,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (4), next (4), [[Azure AI Studio]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (2), [[Azure AI Studio]] (2), [[Generative AI]] (1)
 > **Definitions:** refers to (2), is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Popular AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980)
+#### [Popular AI models](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3098,7 +3061,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=25)** Meta is the company that is the owner of say, Facebook, Instagram, WhatsApp, et cetera, and they have contributed a lot to the AI space.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=33)** On the natural language processing side, they have built a series of models versions called as Llama.
+> **[0:33](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=33)** On the [[Natural Language Processing (NLP)|natural language processing]] side, they have built a series of models versions called as [[LLaMA]].
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=41)** Llama stands for, Large Language Model Meta AI.
 >
@@ -3110,9 +3073,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=63)** Then there is BART, Bi-directional and Auto Regressive Transformers, which is great for tech summarization.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=69)** It is worth pointing out that a lot of these are built in collaboration with other large companies, like BART has been built in collaboration with Google, for example.
+> **[1:09](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=69)** It is worth pointing out that a lot of these are built in collaboration with other large companies, like BART has been built in collaboration with [[Google]], for example.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=79)** DALL-E is another amazing model under the computer vision capabilities, which is for image generation.
+> **[1:19](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=79)** [[DALL-E]] is another amazing model under the [[Computer Vision]] capabilities, which is for image generation.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=87)** You give it a prompt of an image and a simple sentence, and it'll generate the image for you based on that prompt.
 >
@@ -3120,7 +3083,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=99)** This is a very, very partial list.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=101)** I welcome you to go to places, like Hugging Face, and you can see what other models Meta has contributed.
+> **[1:41](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=101)** I welcome you to go to places, like [[Hugging Face]], and you can see what other models Meta has contributed.
 >
 > **[1:48](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=108)** Google has been pretty active in this space, as well.
 >
@@ -3138,7 +3101,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=162)** So MobileNet is for efficient image classification, and EfficientNet is for scalable image classification.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=169)** Microsoft has been pretty busy in this space, as well.
+> **[2:49](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=169)** [[Microsoft]] has been pretty busy in this space, as well.
 >
 > **[2:52](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=172)** For natural language, they've built things like Microsoft Turing-NLG, which is great for natural language generation.
 >
@@ -3154,7 +3117,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=218)** Then you have the GPT based model.
 >
-> **[3:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=222)** You might have heard of something called as ChatGPT.
+> **[3:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=222)** You might have heard of something called as [[ChatGPT]].
 >
 > **[3:44](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=224)** So, GPT based models are, have gone through various versions.
 >
@@ -3164,13 +3127,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=242)** And each one of these have different capabilities.
 >
-> **[4:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=245)** The latest ones being the GPT-4 based models, and these are the latest, most capable OpenAI models with multimodal versions, which can accept both text and images as input.
+> **[4:05](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=245)** The latest ones being the [[GPT-4]] based models, and these are the latest, most capable OpenAI models with multimodal versions, which can accept both text and images as input.
 >
 > **[4:16](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=256)** Then you have embeddings.
 >
 > **[4:18](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=258)** Embeddings are a set of models that can convert text into numerical vector form to facilitate text similarity.
 >
-> **[4:26](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=266)** If you're interested in digging further into this, there is a concept called a vector embeddings* and vector databases, that makes searching through a lot of data very, very easy.
+> **[4:26](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=266)** If you're interested in digging further into this, there is a concept called a vector embeddings* and [[Vector Databases]], that makes searching through a lot of data very, very easy.
 >
 > **[4:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/popular-ai-models?u=76281980&t=278)** This is for another day, but if you're interested, you should search about these concepts and learn about them.
 >
@@ -3190,7 +3153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[LLaMA]] (3), [[Google]] (3), [[Computer Vision]] (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[LLaMA]] (3), [[Google]] (3), [[Computer Vision]] (3), [[Microsoft]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Env Vars:** gpt (5), bart (2), dall (2), bert (2), opt (1)
 > **Definitions:** stands for (4), is a  (4)
 > **Versions:** 3.5 (2)
@@ -3198,12 +3161,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Build an app using a third-party model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980)
+#### [Demo: Build an app using a third-party model](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=0)** - [Instructor] In this demo, I intend to use Azure OpenAI to build a simple chat bot, a chat bot that is able to read my PDF and answer questions based on that.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=0)** - [Instructor] In this demo, I intend to use [[Microsoft Azure|Azure]] OpenAI to build a simple chat bot, a chat bot that is able to read my PDF and answer questions based on that.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=11)** So you are welcome to use any PDF.
 >
@@ -3221,13 +3183,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=32)** I have a resource group called myrg, which is empty at this point.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=38)** So I went ahead and visited Azure AI Studio.
+> **[0:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=38)** So I went ahead and visited [[Azure AI Studio]].
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=42)** Now, this is a big topic, and I won't have the flexibility to get into every detail of what is possible here, because frankly this deserves another whole course or maybe a bunch of courses.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=54)** But there are a bunch of catalogs you can pick over here.
 >
-> **[0:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=58)** So there are a lot of solutions you can pick, not just from Microsoft, but from Facebook or basically anybody that's publishing these AI models.
+> **[0:58](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=58)** So there are a lot of solutions you can pick, not just from [[Microsoft]], but from Facebook or basically anybody that's publishing these AI models.
 >
 > **[1:07](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=67)** You can compare various model benchmarks so you can pick the right model for yourself.
 >
@@ -3427,13 +3389,13 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=439)** Now, since my PDF was fairly small, it just took a few seconds to do this.
 >
-> **[7:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=444)** Now, this demo that I'm showing you over here, well, actually you can roll up your sleeves and build this in Python yourself.
+> **[7:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=444)** Now, this demo that I'm showing you over here, well, actually you can roll up your sleeves and build this in [[Python (Programming Language)|Python]] yourself.
 >
 > **[7:30](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=450)** In fact, you can click on this View Code button, and this is what it is doing behind the scenes.
 >
 > **[7:35](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=455)** I have articles on the web where I show you how you can do this.
 >
-> **[7:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=458)** You can, for example, use local CPU to do this, and then you need a hardware CPU.
+> **[7:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=458)** You can, for example, use local CPU to do this, and then you need a [[Hardware]] CPU.
 >
 > **[7:43](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/demo-build-an-app-using-a-third-party-model?u=76281980&t=463)** But this just made it so much easier for me.
 >
@@ -3499,7 +3461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Search]] (6), hit (5), data (5), ai (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Azure AI Studio]] (2), [[Microsoft]] (1), [[Python (Programming Language)|Python]] (1), [[Hardware]] (1)
 > **Env Vars:** pdf (11), cpu (2), dns (1), lrs (1), cors (1)
 > **UI Navigation:** click on (11), scroll down (5), go to (1)
 > **CLI Commands:** make (2), find (1), python (1)
@@ -3513,12 +3475,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about Azure AI Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980)
+#### [Learning more about Azure AI Services](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=0)** - [Sahil] And that brings us to the very end of this Azure AI Services course.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=0)** - [Sahil] And that brings us to the very end of this [[Microsoft Azure|Azure]] AI Services course.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=4)** We learned so much here.
 >
@@ -3538,7 +3499,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=84)** We talked about document intelligence where we can extract valuable information out of standard documents, and these are some standard documents that are available right out of the box and you can extend it to your custom documents as well.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=98)** And finally, we rounded up with a good discussion on Azure AI Foundry, where we got to use the various models available and how you can go about building really compelling applications using these models right through your browser.
+> **[1:38](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=98)** And finally, we rounded up with a good discussion on [[Azure AI Foundry]], where we got to use the various models available and how you can go about building really compelling applications using these models right through your browser.
 >
 > **[1:52](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=112)** Now, your learning doesn't have to stop here.
 >
@@ -3546,7 +3507,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=121)** The first link is about AI services, where you can read a lot more about all these AI services that I've covered in this course and a lot of code examples in the various languages that you may be interested in.
 >
-> **[2:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=134)** The second is a link to the Azure AI Studio where you will find a lot of links to documentation, examples, the various models you can use, and a number of prompts that you can use to be inspired by various AI solutions that you can use in your own applications.
+> **[2:14](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=134)** The second is a link to the [[Azure AI Studio]] where you will find a lot of links to documentation, examples, the various models you can use, and a number of prompts that you can use to be inspired by various [[AI Solutions]] that you can use in your own applications.
 >
 > **[2:32](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980&t=152)** I really enjoyed recording this course and there was a lot of ground to cover.
 >
@@ -3558,7 +3519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (3), [[Search]] (2), application (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Azure AI Foundry]] (1), [[Azure AI Studio]] (1), [[AI Solutions]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ocr (1)

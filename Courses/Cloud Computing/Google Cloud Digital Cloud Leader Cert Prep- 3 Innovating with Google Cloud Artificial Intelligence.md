@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=0)** - [Instructor] Artificial intelligence and machine learning represent an important evolution in information technologies that are quickly transforming a wide range of industries.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] and machine learning represent an important evolution in information technologies that are quickly transforming a wide range of industries.
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=9)** As organizations digitally transform, they can find themselves with lots of data, and as time progresses, the amount of data they have only grows.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=39)** This is where artificial intelligence and machine learning come in.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=43)** This course, innovating with Google Cloud artificial intelligence is designed to help you explore important AI and machine learning or ML concepts and understand how they can bring value to your business, learn about the AI and ML solutions that Google Cloud offers and understand how Google Cloud's pre-trained APIs, Auto ML and custom AI and ML products can help transform your business.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=43)** This course, innovating with [[Google Cloud Platform (GCP)|Google Cloud]] artificial intelligence is designed to help you explore important AI and machine learning or ML concepts and understand how they can bring value to your business, learn about the AI and ML solutions that Google Cloud offers and understand how Google Cloud's pre-trained APIs, Auto ML and custom AI and ML [[Microsoft Products|products]] can help transform your business.
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980&t=70)** Throughout the course, you'll be presented with graded knowledge assessments.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), ai (3), business (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -113,36 +112,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=0)** - [Presenter] Google has nine products with over one billion users, Android, Google Chrome, Gmail, Google Drive, Google Maps, Google Search, the Google Play Store, YouTube and Google Photos.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=0)** - [Presenter] [[Google]] has nine [[Microsoft Products|products]] with over one billion users, [[Android]], Google Chrome, Gmail, [[Google Drive]], Google Maps, Google Search, the Google Play Store, YouTube and Google Photos.
 >
-> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=14)** And artificial intelligence and machine learning were integrated into these products to make the user experience of each even more efficient and productive.
+> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=14)** And [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning were integrated into these products to make the [[User Experience (UX)|user experience]] of each even more efficient and productive.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=24)** This includes features like Search in Photos, Recommendations in YouTube, Smart Compose in Gmail, and Traffic Predictions in Google Maps.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=24)** This includes features like Search in Photos, Recommendations in YouTube, Smart [[Jetpack Compose|Compose]] in Gmail, and Traffic Predictions in Google Maps.
 >
-> **[0:35](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=35)** And Google continues to innovate products powered by new technologies, such as Generative AI, which can produce content for you.
+> **[0:35](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=35)** And Google continues to innovate products powered by new technologies, such as [[Generative AI]], which can produce content for you.
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=43)** As you consider how AI and ML could provide a benefit to your business, understanding the basics is important.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=51)** So in this section of the course, you'll explore the difference between artificial intelligence and machine learning, how machine learning differs from data analytics and business intelligence, different types of problems that AI solutions are suited to solve, the importance of using quality data for machine learning, and the importance of responsible and explainable AI.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980&t=51)** So in this section of the course, you'll explore the difference between artificial intelligence and machine learning, how machine learning differs from data analytics and [[Business Intelligence (BI)|business intelligence]], different types of problems that [[AI Solutions]] are suited to solve, the importance of using quality data for machine learning, and the importance of responsible and explainable AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), [[Microsoft Products|Products]] (3), ai (3), [[Search]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Google]] (8), [[Microsoft Products|Products]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Android]] (1), [[Google Drive]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### AI and ML defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980)
+#### [AI and ML defined](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=0)** - People commonly use the terms artificial intelligence, AI, and machine learning, ML, interchangeably.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=0)** - People commonly use the terms [[Artificial Intelligence (AI)|artificial intelligence]], AI, and machine learning, ML, interchangeably.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=7)** The confusion is understandable because artificial intelligence and machine learning are closely related.
 >
@@ -160,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=70)** It relies on various models to analyze large amounts of data, learn from the insights, and then make predictions and informed decisions.
 >
-> **[1:19](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=79)** Machine learning algorithms improve performance over time as they are trained or exposed to more data.
+> **[1:19](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=79)** Machine learning [[Algorithms]] improve performance over time as they are trained or exposed to more data.
 >
 > **[1:26](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=86)** Machine learning models are the output, or what the program learns, from running an algorithm on training data.
 >
@@ -170,13 +167,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=103)** Artificial intelligence is the overarching term that covers a variety of specific approaches and algorithms.
 >
-> **[1:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=110)** Machine learning sits beneath that umbrella, but so do other major sub-fields, such as deep learning, robotics, expert systems, and natural language processing.
+> **[1:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=110)** Machine learning sits beneath that umbrella, but so do other major sub-fields, such as [[Deep Learning]], robotics, expert systems, and [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[2:01](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=121)** Another area of AI you may be hearing a lot about is generative AI.
+> **[2:01](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=121)** Another area of AI you may be hearing a lot about is [[Generative AI]].
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=127)** This is a type of artificial intelligence that can produce new content, including text, images, audio, and synthetic data.
 >
-> **[2:16](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=136)** Google applies generative AI to products like Google Workspace to help users easily automate different types of tasks, like generating summaries of long documents.
+> **[2:16](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=136)** [[Google]] applies generative AI to [[Microsoft Products|products]] like Google Workspace to help users easily automate different types of tasks, like generating summaries of long documents.
 >
 > **[2:26](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-and-ml-defined?u=76281980&t=146)** Google also provides development toolkits such as generative AI APIs to developers to help them create customized products and services.
 >
@@ -184,14 +181,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Generative AI]] (4), ai (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (6), [[Generative AI]] (4), [[Google]] (3), [[Algorithms]] (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (3), refers to (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - people (1)
 
-#### How AI and ML differ from data analytics and business intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980)
+#### [How AI and ML differ from data analytics and business intelligence](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,11 +197,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=14)** They look at what happened in the past.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=17)** Most data analysis and business intelligence is based on historical data used to calculate metrics or identify trends.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=17)** Most data analysis and [[Business Intelligence (BI)|business intelligence]] is based on historical data used to calculate metrics or identify trends.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=26)** But to create value in your business, you need to use that data to make decisions for future business.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=33)** This is where artificial intelligence and machine learning come in.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=33)** This is where [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning come in.
 >
 > **[0:37](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=37)** They're the key to unlocking these capabilities.
 >
@@ -215,9 +211,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=51)** To establish a trend in customer purchasing patterns, she's looking at historical annual reports.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=57)** She can use this data to generate dashboards that present information, such as customer demographic distribution, and sales in recent years.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=57)** She can use this data to generate [[Dashboards]] that present information, such as customer demographic distribution, and sales in recent years.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=67)** But there's nothing new or transformational about this decision-making process.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=67)** But there's nothing new or transformational about this [[Decision-Making]] process.
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/robert-robert-robert?u=76281980&t=71)** Maya is simply using data analytics to illustrate what's happened in the past.
 >
@@ -249,13 +245,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (4), [[Business Intelligence (BI)|Business intelligence]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Dashboards]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Problems that ML is suited to solve
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980)
+#### [Problems that ML is suited to solve](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=18)** The first is replacing or simplifying rule-based systems.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=23)** Let's use Google Search as an example.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=23)** Let's use [[Google]] Search as an example.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=26)** Suppose you want to search for the Giants, a US sports team.
 >
@@ -325,7 +320,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=215)** So far, you heard about ML problems that use structured data to make predictions at scale.
 >
-> **[3:41](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=221)** A third type of business problem that ML can help solve is understanding unstructured data like images, videos, and audio.
+> **[3:41](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=221)** A third type of business problem that ML can help solve is understanding [[Unstructured Data]] like images, videos, and audio.
 >
 > **[3:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/problems-that-ml-is-suited-to-solve?u=76281980&t=230)** This example comes from Ocado, one of the world's largest online only grocery supermarkets.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), business (5), data (3), application (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Unstructured Data]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
@@ -366,8 +361,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - machine (1)
 
-#### Why ML requires high-quality data
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/why-ml-requires-high-quality-data?u=76281980)
+#### [Why ML requires high-quality data](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/why-ml-requires-high-quality-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/why-ml-requires-high-quality-data?u=76281980&t=199)** If the same entity appears with different names or values across different parts of the data, it would lead to inconsistent data.
 >
-> **[3:26](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/why-ml-requires-high-quality-data?u=76281980&t=206)** For example, in a dataset of customer information, the same customer might appear as John Smith in one place and J. Smith in another.
+> **[3:26](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/why-ml-requires-high-quality-data?u=76281980&t=206)** For example, in a dataset of customer information, the same customer might appear as [[John the Ripper|John]] Smith in one place and J. Smith in another.
 >
 > **[3:36](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/why-ml-requires-high-quality-data?u=76281980&t=216)** Remember, data is the only lens through which a model views the world.
 >
@@ -445,14 +439,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Analogies:** for example (4), such as (3), it's like (1)
 > **Definitions:** refers to (3), means that (1), is a  (1), defined as (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### The importance of responsible and explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980)
+#### [The importance of responsible and explainable AI](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,9 +453,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=9)** To realize that potential, it's critical that AI is used responsibly.
 >
-> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=14)** To that end, Google has established principles that guide Google AI applications, best practices to share our work with communities outside of Google, and programs to operationalize our efforts.
+> **[0:14](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=14)** To that end, [[Google]] has established principles that guide Google AI applications, best practices to share our work with communities outside of Google, and programs to operationalize our efforts.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=27)** The principles state that AI should be socially beneficial, avoid creating or reinforcing unfair bias, be built and tested for safety, be accountable to people, incorporate privacy design principles, uphold high standards of scientific excellence, and be made available for uses that accord with these principles.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=27)** The principles state that AI should be socially beneficial, avoid creating or reinforcing unfair bias, be built and tested for safety, be accountable to people, incorporate [[Privacy]] design principles, uphold high standards of scientific excellence, and be made available for uses that accord with these principles.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=51)** In addition to these principles, Google will not design or deploy AI in the following application areas.
 >
@@ -470,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=69)** Technologies that gather or use information for surveillance, violating internationally accepted norms, and technologies whose purpose contravenes widely accepted principles of international law and human rights.
 >
-> **[1:23](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=83)** Although these are Google's own guiding AI principles, we urge other organizations to develop their own set of principles that encourage responsible AI development.
+> **[1:23](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=83)** Although these are Google's own guiding AI principles, we urge other organizations to develop their own set of principles that encourage [[Responsible AI]] development.
 >
 > **[1:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=93)** It's also important for organizations to debug and improve ML model performance and help others understand their model's behavior.
 >
@@ -478,13 +471,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=110)** In addition, having human-interpretable explanations of your ML models will help grow end-user trust and improve transparency.
 >
-> **[1:58](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=118)** Explainable AI is Google Cloud's set of tools and frameworks to help you understand and interpret predictions made by your machine learning models.
+> **[1:58](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=118)** Explainable AI is [[Google Cloud Platform (GCP)|Google Cloud]]'s set of tools and frameworks to help you understand and interpret predictions made by your machine learning models.
 >
-> **[2:06](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=126)** These tools are natively integrated with several Google products and services to ensure transparent AI development.
+> **[2:06](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/the-importance-of-responsible-and-explainable-ai?u=76281980&t=126)** These tools are natively integrated with several Google [[Microsoft Products|products]] and services to ensure transparent AI development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Google]] (6), [[Privacy]] (1), application (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Privacy]] (1), [[Responsible AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -492,44 +485,42 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=0)** - [Instructor] Historically, artificial intelligence and machine learning were not accessible to ordinary people.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=0)** - [Instructor] Historically, [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning were not accessible to ordinary people.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=5)** Most of the people capable of developing AI and ML solutions were specialty engineers who are scarce in number and expensive to hire.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=14)** The reality is that ML is more accessible now than ever before, which allows more people to build, even those without the technical expertise.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=23)** Google Cloud offers four options for building machine learning models.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=23)** [[Google Cloud Platform (GCP)|Google Cloud]] offers four options for building machine learning models.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=28)** The first option is BigQuery ML.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=31)** This is a tool for using SQL queries to create and execute machine learning models in BigQuery.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=31)** This is a tool for using [[SQL]] queries to create and execute machine learning models in BigQuery.
 >
 > **[0:37](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=37)** If you already have your data in BigQuery, and your problems fit the predefined ML models, this could be your choice.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=43)** The second option is to use Pre-trained APIs or application programming interfaces.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=43)** The second option is to use Pre-trained APIs or [[Application Programming Interfaces (API)|application programming interfaces]].
 >
-> **[0:49](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=49)** This option lets you use machine learning models that were built and trained by Google, so you don't have to build your own ML models if you don't have enough training data or sufficient machine learning expertise in house.
+> **[0:49](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=49)** This option lets you use machine learning models that were built and trained by [[Google]], so you don't have to build your own ML models if you don't have enough training data or sufficient machine learning expertise in house.
 >
-> **[1:01](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=61)** The third option is AutoML, which is a no-code solution, letting you build your own machine learning models on Vertex AI through a point and click interface.
+> **[1:01](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=61)** The third option is AutoML, which is a no-code solution, letting you build your own machine learning models on [[Vertex]] AI through a point and click interface.
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=71)** And finally, there's custom training through which you can code your very own machine learning environment, the training and the deployment, which gives you flexibility and provides control over the ML pipeline.
 >
-> **[1:24](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=84)** In this second section of the course, you'll learn more about these four options for building machine learning models, and you'll also learn about some of Google's other AI solutions.
+> **[1:24](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980&t=84)** In this second section of the course, you'll learn more about these four options for building machine learning models, and you'll also learn about some of Google's other [[AI Solutions]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (2), [[Google]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[SQL]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### BigQuery ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980)
+#### [BigQuery ML](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,13 +530,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=18)** Although BigQuery started solely as a data warehouse, over time, it has evolved to provide additional features that support the data to AI lifecycle.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=28)** BigQuery ML democratizes the use of machine learning by empowering data analysts, the primary data warehouse users to build and run models by using existing business intelligence tools and spreadsheets.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=28)** BigQuery ML democratizes the use of machine learning by empowering data analysts, the primary data warehouse users to build and run models by using existing [[Business Intelligence (BI)|business intelligence]] tools and spreadsheets.
 >
-> **[0:40](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=40)** Predictive analytics can guide business decision making across the organization.
+> **[0:40](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=40)** [[Predictive Analytics]] can guide [[Business Decision Making]] across the organization.
 >
-> **[0:46](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=46)** Using Python or Java to program an ML solution isn't necessary.
+> **[0:46](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=46)** Using [[Python (Programming Language)|Python]] or [[Java]] to program an ML solution isn't necessary.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=50)** Models are trained and accessed directly in BigQuery by using SQL, which is a language familiar to data analysts.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=50)** Models are trained and accessed directly in BigQuery by using [[SQL]], which is a language familiar to data analysts.
 >
 > **[0:58](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=58)** BigQuery ML brings machine learning to the data.
 >
@@ -553,24 +544,23 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=66)** It also increases speed of production, because moving and formatting large amounts of data for Python-based ML frameworks is not required for model training and BigQuery.
 >
-> **[1:16](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=76)** BigQuery ML also integrates with Vertex AI, Google Cloud's end-to-end AI and ML platform.
+> **[1:16](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=76)** BigQuery ML also integrates with [[Vertex]] AI, [[Google Cloud Platform (GCP)|Google Cloud]]'s end-to-end AI and ML platform.
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/bigquery-ml?u=76281980&t=84)** When BigQuery ML models are registered to the Vertex AI model registry, they can be deployed to endpoint for online prediction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (4), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Vertex]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Vertex]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Predictive Analytics]] (1), [[Business Decision Making]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pre-trained APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980)
+#### [Pre-trained APIs](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=0)** - [Educator] Google Cloud's pre-trained APIs are a great option if you don't have your own training data.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=0)** - [Educator] [[Google Cloud Platform (GCP)|Google Cloud]]'s pre-trained APIs are a great option if you don't have your own training data.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=5)** These are ideal in situations where an organization doesn't have specialized data scientists, but it does have business analysts and developers.
 >
@@ -578,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=21)** Google Cloud's pre-trained APIs can help developers build smart apps quickly by providing access to ML models for common tasks like analyzing images, videos, and text.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=33)** APIs can be deployed in a virtual private cloud, on-premises, or in Google's public cloud, regardless of the level of ML experience.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=33)** APIs can be deployed in a virtual private cloud, on-premises, or in [[Google]]'s public cloud, regardless of the level of ML experience.
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=42)** Let's imagine a developer building a mobile app that users will submit photos to.
 >
@@ -602,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=114)** The Cloud Translation API converts text from one language to another.
 >
-> **[2:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=120)** The Speech-to-Text API converts audio to text for data processing.
+> **[2:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=120)** The Speech-to-Text API converts audio to text for [[Data Processing]].
 >
 > **[2:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/pre-trained-apis?u=76281980&t=125)** The Text-to-Speech API converts text into high-quality voice audio.
 >
@@ -616,21 +606,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), data (6), [[Google]] (4), business (3), cloud (3)
+> **Frameworks & Libraries:** [[Google]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Data Processing]] (1)
 > **Env Vars:** api (9)
 > **Analogies:** imagine (1)
 > **Speakers:** - [educator] (1)
 
-#### AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980)
+#### [AutoML](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=0)** - [Instructor] Another more custom way to use machine learning to solve problems is to train models by using your own data.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=6)** This is where Vertex AI comes in.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=6)** This is where [[Vertex]] AI comes in.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=9)** Vertex AI brings together Google Cloud services for building ML under one unified user interface.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=9)** Vertex AI brings together [[Google Cloud Platform (GCP)|Google Cloud]] services for building ML under one unified user interface.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=17)** You can use your own training data with Vertex AI to manage and build ML projects.
 >
@@ -644,11 +633,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=61)** AutoML is a great option for businesses that want to produce a customized ML model, but are not willing to spend too much time coding and experimenting with thousands of models.
 >
-> **[1:11](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=71)** Let's go back to our image recognition example which used Vision API, a pre-existing model trained with Google data.
+> **[1:11](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=71)** Let's go back to our image recognition example which used Vision API, a pre-existing model trained with [[Google]] data.
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=78)** Imagine you work for a car manufacturing company.
 >
-> **[1:22](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=82)** Vision API can tell you the difference between generic images found in Google databases, like the difference between a wheel and a door, but it can't help a car manufacturer distinguish between good or defective parts.
+> **[1:22](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=82)** Vision API can tell you the difference between generic images found in Google [[Databases]], like the difference between a wheel and a door, but it can't help a car manufacturer distinguish between good or defective parts.
 >
 > **[1:34](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/automl?u=76281980&t=94)** In this case, a developer could use an AutoML Vision instance and train it with your specialized data.
 >
@@ -674,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Vertex]] (6), ai (6), api (4), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google]] (2), [[Databases]] (1)
 > **Env Vars:** api (4)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -682,16 +671,15 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom models
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980)
+#### [Custom models](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=0)** - [Narrator] Vertex AI is also the essential platform for creating custom end-to-end machine learning models.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=0)** - [Narrator] [[Vertex]] AI is also the essential platform for creating custom end-to-end machine learning models.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=5)** This means not only are models trained with your own data, but the models are custom built as well.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=12)** Vertex AI provides a suite of products to help at each stage of the ML workflow, from gathering data to feature engineering, building models, and finally, deploying and monitoring those models.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=12)** Vertex AI provides a suite of [[Microsoft Products|products]] to help at each stage of the ML workflow, from gathering data to [[Feature Engineering]], building models, and finally, deploying and monitoring those models.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=25)** As this approach is fully custom built end to end, its process takes the longest and requires a specialized team of data scientists and engineers.
 >
@@ -699,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=44)** Vertex AI contains tools that assist programmers with virtual machine imaging, and data labeling, training and predictions.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=51)** It also provides prebuilt algorithms.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=51)** It also provides prebuilt [[Algorithms]].
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/custom-models?u=76281980&t=54)** It's important to remember that although these tools are the building blocks to using your data at every stage, there is no one-size-fits-all approach.
 >
@@ -707,54 +695,52 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Vertex]] (3), ai (3), [[Microsoft Products|Products]] (2), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[Microsoft Products|Products]] (2), [[Feature Engineering]] (1), [[Algorithms]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### TensorFlow
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980)
+#### [TensorFlow](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=0)** - [Instructor] All machine learning models are built on top of Google Cloud's AI foundational infrastructure.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=0)** - [Instructor] All machine learning models are built on top of [[Google Cloud Platform (GCP)|Google Cloud]]'s AI foundational infrastructure.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=5)** A part of this foundation is TensorFlow, which is an end-to-end open source platform for machine learning.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=5)** A part of this foundation is [[TensorFlow]], which is an end-to-end open source platform for machine learning.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=12)** TensorFlow has a flexible ecosystem of tools, libraries, and community resources that enable researchers to innovate in ML and developers to build and deploy ML powered applications.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=25)** First developed for Google's internal use, TensorFlow is now open source so that everyone can benefit.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=25)** First developed for [[Google]]'s internal use, TensorFlow is now open source so that everyone can benefit.
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=32)** TensorFlow takes advantage of the Tensor Processing Unit, or TPU, which is Google's custom-developed application-specific integrated circuit used to accelerate machine learning workloads.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=44)** TPUs act as domain-specific hardware as opposed to general-purpose hardware with CPUs and GPUs.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=44)** TPUs act as domain-specific [[Hardware]] as opposed to general-purpose hardware with CPUs and GPUs.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=51)** With TPUs, the computing speed increases more than 200 times.
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=56)** This means that instead of waiting 26 hours for results with a state-of-the-art GPU, you only need to wait for 7.9 minutes for a full cloud TPU pod to deliver the same results.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=68)** Cloud TPUs have been integrated across Google products and this state-of-the-art hardware and supercomputing technology is available with Google Cloud products and services.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/tensorflow?u=76281980&t=68)** Cloud TPUs have been integrated across Google [[Microsoft Products|products]] and this state-of-the-art hardware and supercomputing technology is available with Google Cloud products and services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Google]] (3), [[Hardware]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), cloud (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Google]] (3), [[Hardware]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** tpu (2), gpu (1)
 > **Definitions:** is an  (1), means that (1)
 > **Versions:** 7.9 (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980)
+#### [AI solutions](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=0)** - [Narrator] Beyond the customizable options, Google Cloud has also created a set of full AI solutions aimed to solve specific business needs.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=0)** - [Narrator] Beyond the customizable options, [[Google Cloud Platform (GCP)|Google Cloud]] has also created a set of full [[AI Solutions]] aimed to solve specific business needs.
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=9)** Contact Center AI provides models for speaking with customers in assisting human agents, increasing operational efficiency, and personalizing customer care to transform your contact center.
 >
-> **[0:21](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=21)** Document AI unlocks insights by extracting and classifying information from unstructured documents, such as invoices, receipts, forms, letters, and reports.
+> **[0:21](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=21)** Document AI unlocks insights by extracting and classifying information from unstructured documents, such as invoices, receipts, [[Forms]], letters, and reports.
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=34)** The extracted data can then be saved in a database or exported to another application for further analysis.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=41)** Discovery AI for Retail uses machine learning to select the optimal ordering of products on a retailer's e-commerce site when shoppers choose a category like winter jackets or kitchenware.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=41)** Discovery AI for Retail uses machine learning to select the optimal ordering of [[Microsoft Products|products]] on a retailer's [[E-Commerce]] site when shoppers choose a category like winter jackets or kitchenware.
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/ai-solutions?u=76281980&t=53)** Over time, the AI learns the ideal product ordering for each page on the site by using historical data, optimizing how and what products are shown for accuracy, relevance, and likelihood of making a sale.
 >
@@ -764,17 +750,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2), [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[AI Solutions]] (2), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[E-Commerce]] (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Considerations when selecting Google Cloud AI/ML solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980)
+#### [Considerations when selecting Google Cloud AI/ML solutions](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=0)** - Google Cloud offers a range of AI and ML solutions and products, but there are several decisions and trade-offs to consider when selecting which to employ.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=0)** - [[Google Cloud Platform (GCP)|Google Cloud]] offers a range of AI and ML solutions and [[Microsoft Products|products]], but there are several decisions and trade-offs to consider when selecting which to employ.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=10)** The first consideration is speed.
 >
@@ -792,11 +777,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=46)** How unique is your model or how unique does it need to be?
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=50)** Google Cloud offers a range of out-of-the-box solutions for organizations that want to quickly use ML models in their day-to-day business operations.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=50)** Google Cloud offers a range of out-of-the-box solutions for organizations that want to quickly use ML models in their day-to-day [[Business Operations]].
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=59)** These include image recognition solutions and chatbots, which are quick to deploy and can be applied in various use cases.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=67)** Alternatively, Vertex AI, which is Google Cloud's unified platform for building, deploying, and managing AI solutions, can give ML engineers and data scientists full control of the ML workflow.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=67)** Alternatively, [[Vertex]] AI, which is Google Cloud's unified platform for building, deploying, and managing [[AI Solutions]], can give ML engineers and data scientists full control of the ML workflow.
 >
 > **[1:19](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=79)** Vertex AI custom training lets you train and serve custom models with code on Vertex Workbench, which results in highly bespoke ML models.
 >
@@ -806,7 +791,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=104)** Organizations should consider their current team and then determine a people strategy, which could include reusing or repurposing existing resources, upskilling and training current staff, or hiring or working with outside consultants or contractors.
 >
-> **[1:59](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=119)** Google Cloud's AI and ML products vary from those that can be employed by data analysts and business intelligence teams, right up to those more suited to ML engineers and data scientists.
+> **[1:59](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=119)** Google Cloud's AI and ML products vary from those that can be employed by data analysts and [[Business Intelligence (BI)|business intelligence]] teams, right up to those more suited to ML engineers and data scientists.
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/considerations-when-selecting-google-cloud-ai-ml-solutions?u=76281980&t=130)** The final consideration is the effort required to build an AI solution.
 >
@@ -818,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), business (4), [[Vertex]] (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Vertex]] (3), [[Microsoft Products|Products]] (2), [[Business Operations]] (2), [[AI Solutions]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - google (1)
@@ -828,26 +813,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the Innovating with Google Cloud Artificial Intelligence course.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the Innovating with [[Google Cloud Platform (GCP)|Google Cloud]] [[Artificial Intelligence (AI)|Artificial Intelligence]] course.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=5)** Let's do a quick recap.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=8)** In the first section of the course titled AI and ML Fundamentals, you explored the difference between artificial intelligence and machine learning, how machine learning differs from data analytics and business intelligence, different types of problems that AI solutions are suited to solve, the importance of using high quality data for machine learning, and the importance of responsible and explainable AI.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=8)** In the first section of the course titled AI and ML Fundamentals, you explored the difference between artificial intelligence and machine learning, how machine learning differs from data analytics and [[Business Intelligence (BI)|business intelligence]], different types of problems that [[AI Solutions]] are suited to solve, the importance of using high quality data for machine learning, and the importance of responsible and explainable AI.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=33)** And in the second section of the course titled Google Cloud's AI and ML Solutions, you learned about BigQuery ML, pre-trained APIs, AutoML and custom models, which are both parts of Vertex AI, TensorFlow, existing AI solutions, and what you should consider when choosing a Google Cloud AI or ML solution.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=33)** And in the second section of the course titled Google Cloud's AI and ML Solutions, you learned about BigQuery ML, pre-trained APIs, AutoML and custom models, which are both parts of [[Vertex]] AI, [[TensorFlow]], existing AI solutions, and what you should consider when choosing a Google Cloud AI or ML solution.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=57)** Now that you've had a comprehensive [[Introduction To Artificial Intelligence]] and machine learning on Google Cloud, you can move on to the next course in the series, Modernize Infrastructure and Applications with Google Cloud, where you'll learn about why modernization and migration to the cloud is an important step in an organization's transformation journey, options for and advantages of running compute workloads in the cloud, using containers and serverless computing in application modernization, the business value of application programming interfaces, APIs, and the business reasons for choosing hybrid or multi-cloud strategies.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=57)** Now that you've had a comprehensive [[Introduction To Artificial Intelligence]] and machine learning on Google Cloud, you can move on to the next course in the series, Modernize Infrastructure and Applications with Google Cloud, where you'll learn about why modernization and migration to the cloud is an important step in an organization's transformation journey, options for and advantages of running compute workloads in the cloud, using containers and [[Serverless Computing]] in application modernization, the business value of [[Application Programming Interfaces (API)|application programming interfaces]], APIs, and the business reasons for choosing hybrid or multi-cloud strategies.
 >
 > **[1:34](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980&t=94)** We'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Google Cloud Platform (GCP)|Google cloud]] (4), cloud (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[AI Solutions]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Google]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 

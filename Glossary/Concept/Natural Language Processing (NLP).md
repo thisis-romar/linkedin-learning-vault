@@ -19,7 +19,7 @@ tags:
   - topic/data-science
   - topic/cloud-computing
   - topic/security
-course_count: 136
+course_count: 137
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Natural Language Processing (NLP)
 
-> **Type:** Concept | **Courses:** 136 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 137 | **Topics:** [[Artificial Intelligence (AI)]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Cybersecurity]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Azure AI for Developers- LLMs and SLMs]] — 9 mentions
 10. [[Introduction To Artificial Intelligence]] — 8 mentions
 
-> [!note]- See all 136 courses
+> [!note]- See all 137 courses
 > 11. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 8 mentions
 > 12. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 7 mentions
 > 13. [[Artificial Intelligence Foundations Thinking Machines]] — 7 mentions
@@ -64,17 +64,17 @@ created: 2026-05-02
 > 29. [[Leveraging Agentic AI in Cloud Computing- Strategy and Tool Optimization]] — 4 mentions
 > 30. [[Artificial Intelligence for Cybersecurity]] — 4 mentions
 > 31. [[AI Orchestration- Validation and User Feedback and Performance Metrics]] — 4 mentions
-> 32. [[Rust for Data Engineering]] — 4 mentions
-> 33. [[Applied AI- Building NLP Apps with Hugging Face Transformers]] — 4 mentions
-> 34. [[OpenAI API- Embeddings]] — 4 mentions
-> 35. [[AI in Business Essential Training]] — 4 mentions
-> 36. [[Deep Learning with Python- Optimizing Deep Learning Models]] — 4 mentions
-> 37. [[Cloud Architecture- Core Concepts]] — 3 mentions
-> 38. [[Leveraging AI for Small and Medium Business Growth]] — 3 mentions
-> 39. [[Using AI to Improve Ops for Your Data Organization]] — 3 mentions
-> 40. [[Generative AI for Digital Marketers]] — 3 mentions
-> 41. [[Intelligent Automation Foundations]] — 3 mentions
-> 42. [[Scalable Data Storage and Processing for AI Workloads]] — 3 mentions
+> 32. [[Scalable Data Storage and Processing for AI Workloads]] — 4 mentions
+> 33. [[Rust for Data Engineering]] — 4 mentions
+> 34. [[Applied AI- Building NLP Apps with Hugging Face Transformers]] — 4 mentions
+> 35. [[OpenAI API- Embeddings]] — 4 mentions
+> 36. [[AI in Business Essential Training]] — 4 mentions
+> 37. [[Deep Learning with Python- Optimizing Deep Learning Models]] — 4 mentions
+> 38. [[Cloud Architecture- Core Concepts]] — 3 mentions
+> 39. [[Leveraging AI for Small and Medium Business Growth]] — 3 mentions
+> 40. [[Using AI to Improve Ops for Your Data Organization]] — 3 mentions
+> 41. [[Generative AI for Digital Marketers]] — 3 mentions
+> 42. [[Intelligent Automation Foundations]] — 3 mentions
 > 43. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 3 mentions
 > 44. [[AI Accountability- Build Responsible and Transparent Systems]] — 3 mentions
 > 45. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 3 mentions
@@ -165,10 +165,11 @@ created: 2026-05-02
 > 130. [[Advanced Python in Excel- Data Analysis and Visualization]] — 1 mentions
 > 131. [[Nail Your C++ Interview]] — 1 mentions
 > 132. [[Data Science Foundations- Python Scientific Stack -CoderPad-]] — 1 mentions
-> 133. [[Python Data Structures and Algorithms]] — 1 mentions
-> 134. [[Big Data in the Age of AI]] — 1 mentions
-> 135. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 1 mentions
-> 136. [[Introduction to IT Architecture]] — 1 mentions
+> 133. [[Building RAG Solutions with Azure AI Foundry (Formerly Azure AI Studio)]] — 1 mentions
+> 134. [[Python Data Structures and Algorithms]] — 1 mentions
+> 135. [[Big Data in the Age of AI]] — 1 mentions
+> 136. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 1 mentions
+> 137. [[Introduction to IT Architecture]] — 1 mentions
 
 ## Learning Paths
 
@@ -178,8 +179,8 @@ created: 2026-05-02
 4. [[Understanding Generative AI for Tech Leaders]] — 31 total mentions
 5. [[Data Science Professional Certificate by KNIME]] — 24 total mentions
 6. [[Advance Your Skills in Natural Language Processing]] — 22 total mentions
-7. [[Foundational AI Skills for Azure Administration]] — 18 total mentions
-8. [[Master Retrieval-Augmented Generation (RAG)]] — 17 total mentions
+7. [[Master Retrieval-Augmented Generation (RAG)]] — 18 total mentions
+8. [[Foundational AI Skills for Azure Administration]] — 18 total mentions
 9. [[Getting Started with AI and Machine Learning]] — 16 total mentions
 10. [[Leverage AI as a Cybersecurity Analyst]] — 15 total mentions
 

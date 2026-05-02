@@ -109,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning virtualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980)
+#### [Learning virtualization](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980&t=10)** I'll start by discussing several advantages and a few disadvantages of virtualization.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980&t=16)** Then, I'll show you how to use Microsoft Hyper-V and VMware Workstation to create and maintain virtual machines.
+> **[0:16](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980&t=16)** Then, I'll show you how to use [[Microsoft]] Hyper-V and VMware Workstation to create and maintain [[Virtual Machines]].
 >
 > **[0:23](https://www.linkedin.com/learning/learning-virtualization-13945890/learning-virtualization?u=76281980&t=23)** We'll see how to choose the right virtualization technologies for your situation and how to prepare your existing IT infrastructure to accommodate virtualization.
 >
@@ -130,11 +129,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (6), [[Microsoft]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Speakers:** - [martin] (1)
 
-#### About this update
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980)
+#### [About this update](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,9 +142,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980&t=7)** Some of the basics of why we use virtualization, how it works, what the advantages are, that stuff doesn't change too much.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980&t=15)** But the actual products from various vendors does tend to change rapidly.
+> **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980&t=15)** But the actual [[Microsoft Products|products]] from various vendors does tend to change rapidly.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980&t=20)** For this update, I'll be using Hyper-V running on Windows 10 and VMware Workstation 16.
+> **[0:20](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980&t=20)** For this update, I'll be using Hyper-V running on [[Windows 10]] and VMware Workstation 16.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/about-this-update?u=76281980&t=28)** Most of the features I'll be covering in these products are similar to features that are in previous versions.
 >
@@ -154,20 +152,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (2), [[Microsoft Products|Products]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Windows 10]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980&t=0)** - [Instructor] In order to get the most out of this course you should have a little background knowledge.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980&t=5)** It would be beneficial, if you have an understanding of basic hardware, things like processor, memory, and disk drives.
+> **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980&t=5)** It would be beneficial, if you have an understanding of basic [[Hardware]], things like processor, memory, and disk drives.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980&t=12)** We're going to talk about some networking concepts in the course and how we can network virtual machines to physical machines so it will be good if you have a little basic networking knowledge.
+> **[0:12](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980&t=12)** We're going to talk about some networking concepts in the course and how we can network [[Virtual Machines]] to physical machines so it will be good if you have a little basic networking knowledge.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-virtualization-13945890/what-you-should-know-before-starting?u=76281980&t=23)** We're going to talk about software licensing.
 >
@@ -190,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of virtualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980)
+#### [Overview of virtualization](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,9 +195,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=4)** Let's get a working definition under our belt.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=7)** A dictionary definition of the word virtual is: "Very close to being something without actually being it."
+> **[0:07](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=7)** A dictionary definition of the [[Microsoft Word|word]] virtual is: "Very close to being something without actually being it."
 >
-> **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=15)** And we will find when we create virtual machines and virtual servers that we create something that is very close to an actual computer without actually being a computer.
+> **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=15)** And we will find when we create [[Virtual Machines]] and virtual servers that we create something that is very close to an actual computer without actually being a computer.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=26)** Another dictionary definition is: "Being such in power or effect though, not actually such."
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=73)** In a car racing video game, there is no physical car.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=78)** We have only a computer simulation of an engine, a transmission, brakes, tires and other parts that combine to form a virtual car.
+> **[1:18](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=78)** We have only a computer [[Simulation]] of an engine, a transmission, brakes, tires and other parts that combine to form a virtual car.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-virtualization-13945890/overview-of-virtualization?u=76281980&t=90)** Likewise, when we have a virtual server, there are no physical computer parts.
 >
@@ -237,18 +233,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), [[Virtualization]] (2), [[Microsoft Word|Word]] (2), [[Virtual Machines]] (2), power (2)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Microsoft Word|Word]] (2), [[Virtual Machines]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding different types of hypervisors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980)
+#### [Understanding different types of hypervisors](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980&t=0)** - [Instructor] The next piece of terminology I'd like to talk about is the word Hypervisor.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980&t=0)** - [Instructor] The next piece of terminology I'd like to talk about is the [[Microsoft Word|word]] Hypervisor.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980&t=5)** A Hypervisor is a piece of computer software, firmware, or hardware that creates and runs virtual machines.
+> **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980&t=5)** A Hypervisor is a piece of computer software, firmware, or [[Hardware]] that creates and runs [[Virtual Machines]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-types-of-hypervisors?u=76281980&t=14)** Any software or hardware that is designed to create and run virtual machines is a Hypervisor.
 >
@@ -282,13 +277,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), [[Virtual Machines]] (3), [[Microsoft Word|Word]] (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Virtual Machines]] (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980)
+#### [Understanding the cloud](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,9 +290,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=6)** The cloud is a little difficult to define because different vendors define it differently.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=11)** But in general, a cloud solution involves some vendor running hypervisor software on hardware that they own.
+> **[0:11](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=11)** But in general, a cloud solution involves some vendor running hypervisor software on [[Hardware]] that they own.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=19)** They will rent to you access to that hypervisor where you can run your own virtual machines or use pre-built virtual machines.
+> **[0:19](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=19)** They will rent to you access to that hypervisor where you can run your own [[Virtual Machines]] or use pre-built virtual machines.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=28)** When you run a virtual machine in the cloud you may not be exactly sure what physical server is running your virtual server.
 >
@@ -322,19 +316,19 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=103)** Contrast that to the private cloud, which is owned by the people that use it, therefore there's only one customer running on a private cloud.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=112)** What's becoming popular today is a hybrid cloud, which is a combination of public and private.
+> **[1:52](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=112)** What's becoming popular today is a [[Hybrid Cloud]], which is a combination of public and private.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=118)** It can be a good idea for some companies to set up their own private cloud and run their virtual machines there.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=126)** But as part of a backup or contingency plan, they could have the option to move those virtual machines to a public cloud in case their private cloud goes offline, for some reason.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=138)** There's also some specific businesses, for example, an e-commerce retailer that might have a certain workload through most of the year that their private cloud could handle.
+> **[2:18](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=138)** There's also some specific businesses, for example, an [[E-Commerce]] retailer that might have a certain workload through most of the year that their private cloud could handle.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=149)** And then during a busy time, such as the Christmas season, they might need extra computing power and they could combine with that with the public cloud and use both the private and public for a short time.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=162)** Different cloud vendors offer a wide variety of services.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=166)** Most of those services fall in one of three categories: First, we have infrastructure as a service and this is the case where the cloud provider provides virtual processor, memory, and disk.
+> **[2:46](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=166)** Most of those services fall in one of three categories: First, we have [[IaaS|infrastructure as a service]] and this is the case where the cloud provider provides virtual processor, memory, and disk.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=180)** And you can do with it as you, please.
 >
@@ -342,7 +336,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=186)** You can run almost any operating system or any piece of software you would like.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=191)** other cloud providers go with the mindset of platform as a service, in which they will sell you a predetermined platform.
+> **[3:11](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=191)** other cloud providers go with the mindset of [[PaaS|platform as a service]], in which they will sell you a predetermined platform.
 >
 > **[3:19](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=199)** Typically this means having an operating system and possibly having some software on there, like a relational database server and a web server.
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=218)** That would be part of what you pay for from your cloud provider.
 >
-> **[3:43](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=223)** The third option is software as a service.
+> **[3:43](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=223)** The third option is [[SaaS|software as a service]].
 >
 > **[3:46](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=226)** And this is where you get a predefined, fully functional piece of software.
 >
@@ -360,11 +354,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=238)** You just use the software as necessary.
 >
-> **[4:02](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=242)** Anyone who has a Gmail account is essentially using a software as a service email provider that runs in the Google cloud.
+> **[4:02](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-the-cloud?u=76281980&t=242)** Anyone who has a Gmail account is essentially using a software as a service email provider that runs in the [[Google Cloud Platform (GCP)|Google cloud]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (21), [[Virtual Machines]] (6), data (5), [[Hardware]] (2), database (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (6), [[Hardware]] (2), [[SaaS|Software as a service]] (2), [[Hybrid Cloud]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** set up (1), install (1)
@@ -378,12 +372,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using virtualization for more efficient utilization of hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980)
+#### [Using virtualization for more efficient utilization of hardware](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about one of the advantages of virtualization, and that's the efficient utilization of hardware.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about one of the advantages of virtualization, and that's the efficient utilization of [[Hardware]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=8)** Simply put, virtualization should allow us to use the resources we need; no more, no less.
 >
@@ -427,7 +420,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=145)** There are also some business cases where you will have a temporary change in the need for resources.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=152)** So for example, if you are an e-commerce site doing a lot of sales online, you probably have a certain workload during most of the year, and then a significant increase in workload around the Christmas buying season in late November and December.
+> **[2:32](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=152)** So for example, if you are an [[E-Commerce]] site doing a lot of sales online, you probably have a certain workload during most of the year, and then a significant increase in workload around the Christmas buying season in late November and December.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=168)** You may need to handle five or 10 times more traffic than you normally do.
 >
@@ -441,7 +434,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=194)** Some older operating systems have trouble with increasing or decreasing the amount of memory or processor.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=202)** In particular, processor was a problem in some of the legacy versions of Windows.
+> **[3:22](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=202)** In particular, processor was a problem in some of the legacy versions of [[Windows]].
 >
 > **[3:27](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=207)** So for example, Windows XP and Windows 2003 would have problems if you went from a single processor to multiple processors.
 >
@@ -453,7 +446,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=230)** This is actually no longer a problem in modern operating systems.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=234)** So everything from Windows Vista on and from Windows Server 2008 on will handle these changes quite well.
+> **[3:54](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=234)** So everything from Windows Vista on and from [[Windows Server]] 2008 on will handle these changes quite well.
 >
 > **[4:02](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-for-more-efficient-utilization-of-hardware?u=76281980&t=242)** We can change the amount of processor or the amount of RAM without a significant impact on the operating system.
 >
@@ -463,15 +456,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Virtualization]] (2), [[Hardware]] (1), business (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (1), [[E-Commerce]] (1), [[Windows Server]] (1)
 > **Env Vars:** ram (5)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using virtualization to increase availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980)
+#### [Using virtualization to increase availability](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=10)** Live migration is the process of moving a running virtual machine to a different host.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=16)** So if we're having some issues with a host and maybe need to take that host offline for a short amount of time, rather than having all of the guest virtual machines be also offline instead we'll just move those virtual machines to a different host.
+> **[0:16](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=16)** So if we're having some issues with a host and maybe need to take that host offline for a short amount of time, rather than having all of the guest [[Virtual Machines]] be also offline instead we'll just move those virtual machines to a different host.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=31)** We're going to do this while the virtual machine is still running.
 >
@@ -493,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=53)** But remember a virtual machine is just data.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=56)** A virtual machine is data in the memory of a computer just like a word processing document is data in the memory of a computer.
+> **[0:56](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=56)** A virtual machine is data in the memory of a computer just like a [[Microsoft Word|word]] processing document is data in the memory of a computer.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-virtualization-13945890/using-virtualization-to-increase-availability?u=76281980&t=64)** So virtual machines can be copied from one place to another.
 >
@@ -527,14 +519,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (5), data (4), [[Virtualization]] (1), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Microsoft Word|Word]] (1)
 > **Warnings:** be aware (2)
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
-#### Disaster recovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/disaster-recovery?u=76281980)
+#### [Disaster recovery](https://www.linkedin.com/learning/learning-virtualization-13945890/disaster-recovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,14 +619,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (2), data (2), functional (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** install (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Just-in-time delivery of resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/just-in-time-delivery-of-resources?u=76281980)
+#### [Just-in-time delivery of resources](https://www.linkedin.com/learning/learning-virtualization-13945890/just-in-time-delivery-of-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,21 +658,20 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-virtualization-13945890/just-in-time-delivery-of-resources?u=76281980&t=84)** If the time comes to remove memory from the machine, most hypervisors are not very aggressive about that.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-virtualization-13945890/just-in-time-delivery-of-resources?u=76281980&t=92)** They will wait until there is an overall shortage of memory on the host machine and then they will go to particular virtual machines and try and reclaim memory.
+> **[1:32](https://www.linkedin.com/learning/learning-virtualization-13945890/just-in-time-delivery-of-resources?u=76281980&t=92)** They will wait until there is an overall shortage of memory on the host machine and then they will go to particular [[Virtual Machines]] and try and reclaim memory.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-virtualization-13945890/just-in-time-delivery-of-resources?u=76281980&t=101)** When a hypervisor reclaims a memory from some guests, we call that ballooning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ram (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving energy
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980)
+#### [Saving energy](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=32)** If you could reduce the amount of power being utilized by the servers, then you could get more servers into the data center.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=39)** The nature of virtualization typically means we buy less hardware and that means less energy is consumed.
+> **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=39)** The nature of virtualization typically means we buy less [[Hardware]] and that means less energy is consumed.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=46)** So for example, if you needed to set up 20 servers, you could go out and buy 20 physical servers.
 >
@@ -711,7 +699,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=61)** And all of those would take up some energy.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=64)** Or, if you went the virtualization route, you could buy one very powerful piece of hardware and run 20 virtual machines on that one server.
+> **[1:04](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=64)** Or, if you went the virtualization route, you could buy one very powerful piece of hardware and run 20 [[Virtual Machines]] on that one server.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=75)** So now we only have one power supply, one group of hard drives, and one motherboard.
 >
@@ -729,13 +717,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=118)** Every time it automatically slows down that processor, it significantly reduces the power consumption of that machine.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=125)** There also are a few hypervisors and some third-party products that will monitor the energy consumption of any virtual machine and allow you to set a cap audit.
+> **[2:05](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=125)** There also are a few hypervisors and some third-party [[Microsoft Products|products]] that will monitor the energy consumption of any virtual machine and allow you to set a cap audit.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-virtualization-13945890/saving-energy?u=76281980&t=135)** So the hypervisor will constantly monitor that cap and make sure the virtual machine doesn't burn more than a certain amount of power in a certain timeframe.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), [[Virtualization]] (4), data (3), [[Hardware]] (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Virtual Machines]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
@@ -746,8 +734,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Increased complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980)
+#### [Increased complexity](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980&t=55)** We also have to think about virtual network devices.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980&t=59)** Most hypervisors support some concept of a virtual switch that allows the different virtual machines to talk to one another and allows the virtual machines to communicate with the outside world.
+> **[0:59](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980&t=59)** Most hypervisors support some concept of a virtual switch that allows the different [[Virtual Machines]] to talk to one another and allows the virtual machines to communicate with the outside world.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-virtualization-13945890/increased-complexity?u=76281980&t=71)** The details of that virtual switch are somewhat hidden from us, and to actually administer that switch and look into it can be difficult.
 >
@@ -817,14 +804,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Virtualization]] (5), [[Troubleshooting]] (5)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7)
 > **Env Vars:** mac (3), san (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expense
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980)
+#### [Expense](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -832,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=6)** Now I want to be clear that in a properly designed virtual environment, in the long run, we should be able to save money, and obviously saving money is a good thing, but do be aware there are some expenses associated with virtualization and if you're not careful, some of these expenses can get out of hand.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=23)** There are many hypervisor products on the market that are free, but most of the best advanced features are not free.
+> **[0:23](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=23)** There are many hypervisor [[Microsoft Products|products]] on the market that are free, but most of the best advanced features are not free.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=30)** Many vendors have several offerings.
 >
@@ -850,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=63)** Those licenses can get expensive.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=65)** Some vendors license their software slightly differently for virtual machines rather than physical machines.
+> **[1:05](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=65)** Some vendors license their software slightly differently for [[Virtual Machines]] rather than physical machines.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-virtualization-13945890/expense?u=76281980&t=72)** So for example, a database server, the license on a physical machine might be done by processor.
 >
@@ -872,20 +858,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (4), [[Microsoft Products|Products]] (1), [[Virtual Machines]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Virtual Machines]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprawl
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980)
+#### [Sprawl](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=0)** - In this section, I'd like to talk about a common problem associated with virtualization, and that is sprawl.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=6)** Sprawl is simply the situation of having too many virtual machines.
+> **[0:06](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=6)** Sprawl is simply the situation of having too many [[Virtual Machines]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=12)** And this comes about because in most hypervisors it is very easy to create a new virtual machine.
 >
@@ -893,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=21)** When we have a legitimate need for a new server, we can typically get it online very quickly by building a virtual machine.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=28)** We don't have to order new hardware, wait for it to come in and assemble it.
+> **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=28)** We don't have to order new [[Hardware]], wait for it to come in and assemble it.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=33)** Just a few clicks of the mouse, and you've got a new virtual machine.
 >
@@ -945,13 +930,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=150)** A lot of times it's just a naming convention.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=152)** So in the name of the VM, you use the word "temporary" and maybe put in a date in which you think it's going to be decommissioned.
+> **[2:32](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=152)** So in the name of the VM, you use the [[Microsoft Word|word]] "temporary" and maybe put in a date in which you think it's going to be decommissioned.
 >
 > **[2:41](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=161)** We'll also need to periodically audit all of our production VMs.
 >
 > **[2:45](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=165)** Over time, the needs of an organization change.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=169)** Right now you might need four web servers, but in the future, if the load goes down, maybe you could get away with only two web servers.
+> **[2:49](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=169)** Right now you might need four [[Web Servers]], but in the future, if the load goes down, maybe you could get away with only two web servers.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-virtualization-13945890/sprawl?u=76281980&t=177)** And therefore, you could decommission two of the web servers, gaining back all of the resources that were being utilized there.
 >
@@ -959,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Virtual Machines]] (2), [[Virtualization]] (1), [[Hardware]] (1), power (1)
+> **Frameworks & Libraries:** [[Web Servers]] (3), [[Virtual Machines]] (2), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -968,8 +953,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Virtualizing desktop computers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980)
+#### [Virtualizing desktop computers](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=11)** They have to troubleshoot unique setups.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=13)** If every user has a different desktop computer, different hardware, different operating system, different software, that can make troubleshooting scenarios much more difficult.
+> **[0:13](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=13)** If every user has a different desktop computer, different [[Hardware]], different operating system, different software, that can make troubleshooting scenarios much more difficult.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=22)** There's a constant race to upgrade applications and that can be very labor intensive.
 >
@@ -1021,7 +1005,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=129)** Everyone's running the exact same operating system and the exact same software.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=133)** It also means that if there is a problem on one of these virtual machines that would be very difficult to fix, you have the option of just deleting that copy of the virtual machine and providing to the user a fresh copy from the original image.
+> **[2:13](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=133)** It also means that if there is a problem on one of these [[Virtual Machines]] that would be very difficult to fix, you have the option of just deleting that copy of the virtual machine and providing to the user a fresh copy from the original image.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=147)** So the call center was able to accomplish their goal of reducing troubleshooting.
 >
@@ -1051,9 +1035,9 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=233)** Some of the top vendors of VDI solutions, Citrix, has been focused on desktop virtualization for quite a long time with their product, XenServer.
 >
-> **[4:03](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=243)** VMware has a product focused on VDI called Horizon, and Microsoft now has gotten into this with what they call Microsoft VDI.
+> **[4:03](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=243)** VMware has a product focused on VDI called Horizon, and [[Microsoft]] now has gotten into this with what they call Microsoft VDI.
 >
-> **[4:11](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=251)** It's not really a product, it's a feature of Windows Server 2012.
+> **[4:11](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=251)** It's not really a product, it's a feature of [[Windows Server]] 2012.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-virtualization-13945890/virtualizing-desktop-computers?u=76281980&t=256)** It's built on top of the Hyper-V functionality.
 >
@@ -1061,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (4), [[Hardware]] (3), [[Troubleshooting]] (3), application (3), product (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Windows Server]] (1)
 > **Env Vars:** vdi (9)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -1070,8 +1054,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a specific program
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980)
+#### [Running a specific program](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1082,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=66)** We also have this problem when running different operating systems.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=71)** So for example, if you're on a Macintosh and there is some Windows program you would really like to run sometimes one of the easiest solutions is to install a virtual Windows machine onto your Macintosh.
+> **[1:11](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=71)** So for example, if you're on a Macintosh and there is some [[Windows]] program you would really like to run sometimes one of the easiest solutions is to install a virtual Windows machine onto your Macintosh.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=84)** I was speaking to a colleague recently who talked about a design shop that had been entirely Windows.
 >
@@ -1113,13 +1096,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=119)** Some of the more common are Parallels Desktop, VMware Fusion and VirtualBox.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=126)** There are also some other products on the market designed to emulate a specific operating system.
+> **[2:06](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=126)** There are also some other [[Microsoft Products|products]] on the market designed to emulate a specific operating system.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=133)** One of them is called DOSBox which as the name implies gives you a virtual DOS machine.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=140)** Two things that come to mind here.
 >
-> **[2:21](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=141)** First of all I hear some authors prefer DOS-based word processors.
+> **[2:21](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=141)** First of all I hear some authors prefer DOS-based [[Microsoft Word|word]] processors.
 >
 > **[2:26](https://www.linkedin.com/learning/learning-virtualization-13945890/running-a-specific-program?u=76281980&t=146)** And also I remember a lot of great DOS games from my childhood.
 >
@@ -1137,15 +1120,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), application (6), [[Virtualization]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dos (4)
 > **Prerequisites:** install (2)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Setting up test and development environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980)
+#### [Setting up test and development environments](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,13 +1155,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=57)** on a physical server, undoing things can be very difficult on a virtual server, if you have a recently created snapshot or checkpoint, it's very easy to roll back to where you were before.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=70)** Another advantage could be the scaling of hardware.
+> **[1:10](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=70)** Another advantage could be the scaling of [[Hardware]].
 >
 > **[1:13](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=73)** When testing a website, we often want to know how many users can it handle, or how much hardware would we have to give it for it to handle a certain load.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=82)** With a virtual machine. it's very easy to change it from one processor to two processors, change from two processors to four, et cetera.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=91)** And you could do load testing on different situations, and start to get a good understanding of every additional processor, means we can handle this many additional users.
+> **[1:31](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=91)** And you could do [[Load Testing]] on different situations, and start to get a good understanding of every additional processor, means we can handle this many additional users.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=103)** That's much easier to do in a virtual environment, rather than a physical environment.
 >
@@ -1217,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=200)** Some of the different public cloud providers you might want to look at: Amazon AWS, which would have monthly rates.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=207)** Microsoft Azure, which also has a monthly rates.
+> **[3:27](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=207)** [[Microsoft Azure]], which also has a monthly rates.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-test-and-development-environments?u=76281980&t=211)** And Amazon recently rolled out a new product called spot instances.
 >
@@ -1227,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[Virtualization]] (3), data (3), cloud (3), [[Load Testing]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Load Testing]] (1), [[Microsoft Azure]] (1)
 > **Definitions:** is a  (3), is an  (1), defined as (1)
 > **CLI Commands:** make (1), aws (1)
 > **Code Identifiers:** ecommerce (2)
@@ -1236,8 +1218,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 
-#### Designing a private cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980)
+#### [Designing a private cloud](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1255,7 +1236,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=35)** Some things to consider when designing and building a private cloud.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=39)** We'll need to think about storage, bandwidth, how much uptime we are shooting for, monitoring and scalability.
+> **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=39)** We'll need to think about storage, bandwidth, how much uptime we are shooting for, monitoring and [[Scalability]].
 >
 > **[0:49](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=49)** Let's take a look at each one of these one at a time.
 >
@@ -1269,7 +1250,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=80)** Every virtual machine takes up some space.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=83)** Different types of virtual machines take up a different amount of space.
+> **[1:23](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=83)** Different types of [[Virtual Machines]] take up a different amount of space.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=87)** But you'll need to come up with an estimate of how much space you'll need.
 >
@@ -1335,7 +1316,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=280)** If you get those estimates pretty accurate, than the exact number of VMs is not super important.
 >
-> **[4:47](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=287)** Some of the vendors with private cloud offerings right now include Microsoft.
+> **[4:47](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=287)** Some of the vendors with private cloud offerings right now include [[Microsoft]].
 >
 > **[4:52](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=292)** Their product, Hyper-V is their hypervisor.
 >
@@ -1361,11 +1342,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=354)** And they have a handful of other tools for managing a private cloud.
 >
-> **[5:58](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=358)** These products are sold in a bundle called the vCloud Suite, and includes all of the tools you would need to manage your own private cloud.
+> **[5:58](https://www.linkedin.com/learning/learning-virtualization-13945890/designing-a-private-cloud?u=76281980&t=358)** These [[Microsoft Products|products]] are sold in a bundle called the vCloud Suite, and includes all of the tools you would need to manage your own private cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Virtual Machines]] (5), product (4), traffic (3), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Scalability]] (2), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** you'll need (6)
 > **Code Identifiers:** vcloud (2), vsphere (1), vmotion (1)
 > **CLI Commands:** make (1), find (1)
@@ -1374,8 +1355,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Utilizing a public cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980)
+#### [Utilizing a public cloud](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,9 +1363,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=5)** One of the main advantages to the public cloud is it is typically inexpensive to start.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=11)** So if you want to create just one or two virtual machines in a public cloud, it's fairly inexpensive to do that, and you only have to pay by the month.
+> **[0:11](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=11)** So if you want to create just one or two [[Virtual Machines]] in a public cloud, it's fairly inexpensive to do that, and you only have to pay by the month.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=21)** Contrast that to purchasing hardware.
+> **[0:21](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=21)** Contrast that to purchasing [[Hardware]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=24)** When we purchase hardware we have a large expense that's upfront.
 >
@@ -1401,7 +1381,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=54)** But that also means the bill grows every month.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=57)** Another advantage to the public cloud, it has practically infinite scalability.
+> **[0:57](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=57)** Another advantage to the public cloud, it has practically infinite [[Scalability]].
 >
 > **[1:02](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=62)** So if you want 100 virtual servers, 1000 virtual servers, 10,000 virtual servers, there is a cloud out there that will sell it to you.
 >
@@ -1415,7 +1395,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=97)** Whereas a data center that's hosting a cloud would have multiple network providers, connected possibly to multiple municipal power supplies, and also have multiple methods of generating power, should the municipal power supply fail.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=116)** So public clouds can typically achieve a much higher availability than we could on our own, at our office.
+> **[1:56](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=116)** So public clouds can typically achieve a much higher availability than we could on our own, at our [[Microsoft Office|office]].
 >
 > **[2:03](https://www.linkedin.com/learning/learning-virtualization-13945890/utilizing-a-public-cloud?u=76281980&t=123)** One big question about the public cloud is, is it secure?
 >
@@ -1445,14 +1425,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), data (6), power (5), [[Security]] (4), [[Hardware]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Microsoft Office|Office]] (3), [[Scalability]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** sla (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [man] (1)
 
-#### Choosing the best solution for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980)
+#### [Choosing the best solution for you](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,7 +1461,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=100)** So you'll get better performance if you're using certain file systems with certain hypervisors.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=107)** If you're just running a small number of virtual machines you'll probably want to use your existing storage, and therefore you would need to find a hypervisor that's compatible with the existing storage you have.
+> **[1:47](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=107)** If you're just running a small number of [[Virtual Machines]] you'll probably want to use your existing storage, and therefore you would need to find a hypervisor that's compatible with the existing storage you have.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=119)** However, if you're doing a big virtualization project where you're going to be turning up dozens or hundreds of virtual machines, you would probably be buying new storage anyway.
 >
@@ -1496,15 +1475,15 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=155)** Often it means no additional cost if you own something else.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=161)** So for example, Microsoft Hyper-V is available on several windows operating systems but you have to have a valid license for that windows operating system.
+> **[2:41](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=161)** So for example, [[Microsoft]] Hyper-V is available on several [[Windows]] operating systems but you have to have a valid license for that windows operating system.
 >
 > **[2:52](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=172)** Hyper-V doesn't cost you anything extra but you will have paid for the operating system upfront.
 >
 > **[2:59](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=179)** Licensing of a host could be based on the number of hosts you have, the number of guests or the number of processors.
 >
-> **[3:07](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=187)** And this third bullet point, the number of processors or processor cores, seems to be where a lot of vendors are going for many hypervisor products they charge based on the number of processors in a machine.
+> **[3:07](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=187)** And this third bullet point, the number of processors or processor cores, seems to be where a lot of vendors are going for many hypervisor [[Microsoft Products|products]] they charge based on the number of processors in a machine.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=201)** So now when you think about what hypervisor you want to buy you also need to think about what hardware it's going to run on, and how many processors are in that hardware.
+> **[3:21](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=201)** So now when you think about what hypervisor you want to buy you also need to think about what [[Hardware]] it's going to run on, and how many processors are in that hardware.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-the-best-solution-for-you?u=76281980&t=211)** Don't forget you also need to license your guest operating systems and the applications that run on those operating systems.
 >
@@ -1516,7 +1495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Virtual Machines]] (2), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[Hardware]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
@@ -1529,8 +1508,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding virtual CPU
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980)
+#### [Understanding virtual CPU](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,25 +1552,24 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980&t=148)** In general, you probably want to avoid oversubscription in the long run.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980&t=152)** It can be a good short term solution if you're low on processors, but eventually you should upgrade your physical hardware by additional processors and try and have a situation where your number of virtual processors and the number of physical processors is approximately the same.
+> **[2:32](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980&t=152)** It can be a good short term solution if you're low on processors, but eventually you should upgrade your physical [[Hardware]] by additional processors and try and have a situation where your number of virtual processors and the number of physical processors is approximately the same.
 >
 > **[2:50](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-cpu?u=76281980&t=170)** That'll give you the best performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** cpu (7)
 > **Code Identifiers:** vcpu (3), pcpu (1), vcpus (1)
 > **Definitions:** is called (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding virtual memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-memory?u=76281980)
+#### [Understanding virtual memory](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-memory?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about memory in virtual machines.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-memory?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about memory in [[Virtual Machines]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-memory?u=76281980&t=4)** Your hypervisor will provide access to memory to all of the guest machines.
 >
@@ -1660,15 +1637,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Virtual Machines]] (3), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3)
 > **Code Identifiers:** vram (2)
 > **Env Vars:** ram (2)
 > **Definitions:** is a  (1), is called (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding virtual storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-storage?u=76281980)
+#### [Understanding virtual storage](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1664,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-storage?u=76281980&t=41)** If two hypervisors use the same file type that implies there's a high degree of compatibility between the two hypervisors.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-storage?u=76281980&t=49)** And it would be fairly easy to share virtual machines between the two.
+> **[0:49](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-storage?u=76281980&t=49)** And it would be fairly easy to share [[Virtual Machines]] between the two.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-storage?u=76281980&t=54)** However, most hypervisors use a different file type than all of their competitors.
 >
@@ -1710,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Virtualization]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4)
 > **Code Identifiers:** supports (1)
 > **Env Vars:** nas (1)
 > **Best Practices:** avoid doing (1)
@@ -1718,8 +1694,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Understanding virtual networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-networking?u=76281980)
+#### [Understanding virtual networking](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1733,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-networking?u=76281980&t=28)** So this could be a guest trying to communicate with the internet, trying to communicate with a physical server or trying to communicate with a virtual server running on a different host.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-networking?u=76281980&t=39)** First we'll look at two virtual machines running on the same host, trying to communicate with one another.
+> **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-networking?u=76281980&t=39)** First we'll look at two [[Virtual Machines]] running on the same host, trying to communicate with one another.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-networking?u=76281980&t=45)** So virtual machine A would like to send some information to virtual machine B running on the same host.
 >
@@ -1791,19 +1766,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[Virtual Machines]] (3), functional (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** mac (2)
 > **Analogies:** just like (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding virtual graphic processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980)
+#### [Understanding virtual graphic processing](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about graphics processing on virtual machines.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about graphics processing on [[Virtual Machines]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=5)** This is an area that may not be as mature as other aspects of virtualization.
 >
@@ -1811,7 +1785,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=14)** Most of the machines we virtualize tend to be servers.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=17)** Things like email servers, web servers, file servers that just don't have need for advanced graphics capabilities.
+> **[0:17](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=17)** Things like email servers, [[Web Servers]], file servers that just don't have need for advanced graphics capabilities.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=26)** Therefore, many vendors of Hypervisors don't provide any resources dedicated to processing graphics.
 >
@@ -1819,7 +1793,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=38)** Therefore, your guest machines could access the physical GPU in the host machine, but typically, a host machine would only have one GPU, and therefore, you could only have one guest machine accessing that GPU.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=53)** One of the emerging trends in virtualization is specialized hardware giving shared virtual GPUs.
+> **[0:53](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=53)** One of the emerging trends in virtualization is specialized [[Hardware]] giving shared virtual GPUs.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-virtual-graphic-processing?u=76281980&t=61)** So a few vendors are developing some specialized chips that will give graphics processing shared amongst several virtual machines.
 >
@@ -1831,7 +1805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Virtualization]] (2), [[Hardware]] (2), power (2), web (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Hardware]] (2), [[Web Servers]] (1)
 > **Env Vars:** gpu (5)
 > **Definitions:** is an  (1), in other words (1)
 > **Code Identifiers:** vgpu (1)
@@ -1843,16 +1817,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980)
+#### [Installing Hyper-V](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about installing Microsoft Hyper-V.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about installing [[Microsoft]] Hyper-V.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=5)** Hyper-V is Microsoft's enterprise tool for creating and managing virtual machines.
+> **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=5)** Hyper-V is Microsoft's enterprise tool for creating and managing [[Virtual Machines]].
 >
-> **[0:10](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=10)** It is available at no additional cost if you own a valid license of a Microsoft product, such as any of the Microsoft Windows Server products or most versions of Windows 10 and Windows 8.
+> **[0:10](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=10)** It is available at no additional cost if you own a valid license of a Microsoft product, such as any of the Microsoft [[Windows Server]] [[Microsoft Products|products]] or most versions of [[Windows 10]] and [[Windows]] 8.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-hyper-v?u=76281980&t=24)** In order to install.
 >
@@ -1898,7 +1871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), management (3), [[Windows]] (2), [[Virtual Machines]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows]] (2), [[Virtual Machines]] (1), [[Windows Server]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** install (7)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -1906,8 +1879,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a virtual machine with Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980)
+#### [Creating a virtual machine with Hyper-V](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1929,9 +1901,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=39)** So I'm going to try to provide a name that's more descriptive.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=43)** I'll be installing windows 10 in this virtual machine, so I'll call mine windows 10 demo.
+> **[0:43](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=43)** I'll be installing [[Windows 10]] in this virtual machine, so I'll call mine windows 10 demo.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=52)** By default it's going to store this virtual machine at C:\ProgramData\Microsoft\Windows\Hyper-V.
+> **[0:52](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=52)** By default it's going to store this virtual machine at C:\ProgramData\[[Microsoft]]\[[Windows]]\Hyper-V.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=59)** If you'd like to put it in a different location you can do so here.
 >
@@ -2031,7 +2003,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=347)** Then it's asking me for security questions.
 >
-> **[5:55](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=355)** For privacy settings, I'll accept the defaults.
+> **[5:55](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=355)** For [[Privacy]] settings, I'll accept the defaults.
 >
 > **[6:00](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-hyper-v?u=76281980&t=360)** I am going to skip active history by clicking no.
 >
@@ -2057,7 +2029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Windows 10]] (6), [[Windows]] (4), hit (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Windows]] (4), [[Microsoft]] (2), [[Privacy]] (1)
 > **Prerequisites:** install (8), setup (3), configure (2)
 > **UI Navigation:** click on (4), select the (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -2065,8 +2037,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1)
 > **Speakers:** - now (1)
 
-#### Setting up networking with Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980)
+#### [Setting up networking with Hyper-V](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2080,7 +2051,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=22)** An external one would allow us to connect to the outside network and the internet.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=28)** An internal one is used to connect between the virtual machines and the host computer.
+> **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=28)** An internal one is used to connect between the [[Virtual Machines]] and the host computer.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=36)** A private virtual switch just allows virtual machines to talk to other virtual machines.
 >
@@ -2132,7 +2103,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=151)** Then we'll need to test to see if we actually are connected to a network.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=154)** I'm going to open up Internet Explorer and it's prompting me to open Microsoft Edge.
+> **[2:34](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=154)** I'm going to open up Internet Explorer and it's prompting me to open [[Microsoft]] Edge.
 >
 > **[2:41](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-hyper-v?u=76281980&t=161)** I'll do that later.
 >
@@ -2156,14 +2127,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Virtual Machines]] (3), [[Microsoft]] (3), hit (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Microsoft]] (3)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
 > **Speakers:** - now (1)
 
-#### Allocating processors and memory to a virtual machine using Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-hyper-v?u=76281980)
+#### [Allocating processors and memory to a virtual machine using Hyper-V](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-hyper-v?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2243,25 +2213,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), power (1)
 > **Env Vars:** ram (5)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using checkpoints in Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980)
+#### [Using checkpoints in Hyper-V](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=0)** - [Instructor] Now let's talk about checkpoints in Microsoft Hyper-V.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=0)** - [Instructor] Now let's talk about checkpoints in [[Microsoft]] Hyper-V.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=5)** Here in Hyper-V manager, I've selected my virtual machine which is currently turned off.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=11)** I'm going to right click on it and go to checkpoint.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=15)** And then you'll notice in the middle panel here, it created a checkpoint called Windows 10 Demo and the date and time.
+> **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=15)** And then you'll notice in the middle panel here, it created a checkpoint called [[Windows 10]] Demo and the date and time.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-virtualization-13945890/using-checkpoints-in-hyper-v-13948437?u=76281980&t=24)** I'm going to right click and rename this because I like my checkpoints to have a more descriptive name.
 >
@@ -2309,13 +2277,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), hit (3), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Microsoft]] (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uninstalling Hyper-V
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980)
+#### [Uninstalling Hyper-V](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2329,9 +2296,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980&t=25)** So it's always a best practice to uninstall one Hypervisor before you install a different one.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980&t=32)** If you've created some virtual machines, you'll want to back those up or get the data off of them somehow because uninstalling Hyper-V will delete your virtual machines.
+> **[0:32](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980&t=32)** If you've created some [[Virtual Machines]], you'll want to back those up or get the data off of them somehow because uninstalling Hyper-V will delete your virtual machines.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980&t=43)** So once you've made whatever backups you would like, we can go to the Windows features, and I'll see the option to turn Windows features on or off, and there, I'll just simply clear the checkbox next to Hyper-V.
+> **[0:43](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980&t=43)** So once you've made whatever backups you would like, we can go to the [[Windows]] features, and I'll see the option to turn Windows features on or off, and there, I'll just simply clear the checkbox next to Hyper-V.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-virtualization-13945890/uninstalling-hyper-v-13947586?u=76281980&t=65)** Hit OK.
 >
@@ -2339,7 +2306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Windows]] (2), data (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Windows]] (2)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Prerequisites:** install (2)
 > **Best Practices:** best practice (1)
@@ -2350,12 +2317,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing VMware Workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980)
+#### [Installing VMware Workstation](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=0)** - [Instructor] Now we're going to look at one of the products from VMware.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=0)** - [Instructor] Now we're going to look at one of the [[Microsoft Products|products]] from VMware.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=3)** VMware makes a number of hypervisor products.
 >
@@ -2363,7 +2329,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=15)** So I'm going to go to a search engine and just type in VMware Workstation.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=23)** And for me, it came up as the second link, Windows VM Workstation Pro, I'll click on that.
+> **[0:23](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=23)** And for me, it came up as the second link, [[Windows]] VM Workstation Pro, I'll click on that.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=31)** That'll take me to the VMware site.
 >
@@ -2371,7 +2337,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=38)** I'll click on that.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=40)** I'll scroll down a little and I see it as a Workstation Pro for Windows and Workstation Pro for Linux.
+> **[0:40](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=40)** I'll scroll down a little and I see it as a Workstation Pro for Windows and Workstation Pro for [[Linux]].
 >
 > **[0:47](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=47)** I am interested in the Windows version, so I'll click download now and we'll see that download has started.
 >
@@ -2381,7 +2347,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=70)** The first screen of the wizard just gives me some basic information about the product so I'll click "Next."
 >
-> **[1:16](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=76)** Then I'm asked to accept the end user license agreement, go ahead and read every word of that and then click "Next."
+> **[1:16](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=76)** Then I'm asked to accept the end user license agreement, go ahead and read every [[Microsoft Word|word]] of that and then click "Next."
 >
 > **[1:25](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=85)** On the custom setup, I'm going to go with the defaults, I do not need to change the keyboard drivers so I'll leave that check box clear and I will leave it checked for add the Workstation console tools into the system path, and click "Next."
 >
@@ -2411,7 +2377,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=215)** If you get that, first make sure you have uninstalled Hyper-V, but you still may get this error even if you have completely uninstalled Hyper-V.
 >
-> **[3:44](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=224)** And that is because in some versions of Windows 10, Microsoft chooses to virtualize part of the operating system.
+> **[3:44](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=224)** And that is because in some versions of [[Windows 10]], [[Microsoft]] chooses to virtualize part of the operating system.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-virtualization-13945890/installing-vmware-workstation?u=76281980&t=232)** And therefore VMware when it's doing its install it thinks Hyper-V is installed even though Hyper-V really isn't installed it's because part of the Windows 10 operating system is virtualized by default.
 >
@@ -2421,7 +2387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), hit (4), [[Windows]] (3), [[Windows 10]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (3), [[Microsoft Products|Products]] (2), [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1), checkbox (1)
 > **Prerequisites:** install (5), setup (1), make sure you have (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2429,8 +2395,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a virtual machine with VMware Workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980)
+#### [Creating a virtual machine with VMware Workstation](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2429,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=62)** I am, however, using an evaluation copy of an operating system, so I won't be using a product key.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=71)** In the section for personalized Windows, it's asking for the name of the primary user and also giving them a password.
+> **[1:11](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=71)** In the section for personalized [[Windows]], it's asking for the name of the primary user and also giving them a password.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=79)** So I'll enter that now.
 >
@@ -2492,7 +2457,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=128)** It recommended 60 gigabytes, and I will stick with that recommendation.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=132)** 60 gigabytes is a good size for Windows 10.
+> **[2:12](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=132)** 60 gigabytes is a good size for [[Windows 10]].
 >
 > **[2:15](https://www.linkedin.com/learning/learning-virtualization-13945890/creating-a-virtual-machine-with-vmware-workstation?u=76281980&t=135)** Then it gives me a summary.
 >
@@ -2514,7 +2479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), product (4), hit (3), [[Windows]] (2), [[Windows 10]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (2)
 > **Env Vars:** iso (2), usb (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** install (2), configure (1)
@@ -2523,8 +2488,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** warning (1)
 
-#### Setting up networking with VMware Workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-vmware-workstation?u=76281980)
+#### [Setting up networking with VMware Workstation](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-vmware-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,7 +2504,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-vmware-workstation?u=76281980&t=32)** You could first select the virtual machine in the left-hand tree view, then right click on it and go to settings.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-vmware-workstation?u=76281980&t=42)** And most of this stuff you can work with while the virtual machines running.
+> **[0:42](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-vmware-workstation?u=76281980&t=42)** And most of this stuff you can work with while the [[Virtual Machines]] running.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-virtualization-13945890/setting-up-networking-with-vmware-workstation?u=76281980&t=46)** So I can go to the network adapter and even while the virtual machine is running I can change these things.
 >
@@ -2580,14 +2544,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (7), power (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7)
 > **UI Navigation:** go to (2), select the (1), click on (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Allocating processors and memory to a virtual machine using VMware Workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation?u=76281980)
+#### [Allocating processors and memory to a virtual machine using VMware Workstation](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2625,7 +2588,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation?u=76281980&t=104)** Now if we go to memory, we'll see it as set to 2048 megabytes.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation?u=76281980&t=109)** In other words two gigabytes, that is what's recommended for Windows 10.
+> **[1:49](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation?u=76281980&t=109)** In other words two gigabytes, that is what's recommended for [[Windows 10]].
 >
 > **[1:56](https://www.linkedin.com/learning/learning-virtualization-13945890/allocating-processors-and-memory-to-a-virtual-machine-using-vmware-workstation?u=76281980&t=116)** I could adjust that here, maybe increase it to 4096, which would be four gigabytes.
 >
@@ -2637,14 +2600,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Virtualization]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1)
 > **UI Navigation:** click on (3), go to (3), dropdown (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplicating a virtual machine using VMware Workstation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/duplicating-a-virtual-machine-using-vmware-workstation?u=76281980)
+#### [Duplicating a virtual machine using VMware Workstation](https://www.linkedin.com/learning/learning-virtualization-13945890/duplicating-a-virtual-machine-using-vmware-workstation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2678,7 +2640,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-virtualization-13945890/duplicating-a-virtual-machine-using-vmware-workstation?u=76281980&t=83)** And now it says done, I'll hit close.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-virtualization-13945890/duplicating-a-virtual-machine-using-vmware-workstation?u=76281980&t=88)** And I'll look at my list of virtual machines I now have windows 10 demo one and clone of windows 10 demo one, which is an exact copy of it.
+> **[1:28](https://www.linkedin.com/learning/learning-virtualization-13945890/duplicating-a-virtual-machine-using-vmware-workstation?u=76281980&t=88)** And I'll look at my list of [[Virtual Machines]] I now have [[Windows 10]] demo one and clone of windows 10 demo one, which is an exact copy of it.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-virtualization-13945890/duplicating-a-virtual-machine-using-vmware-workstation?u=76281980&t=97)** I could go ahead and start either one of these virtual machines and they would run fine, however, if I started both of them we could have some problems.
 >
@@ -2690,7 +2652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (2), [[Virtual Machines]] (2), [[Windows 10]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2), [[Windows 10]] (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - now (1)
@@ -2700,8 +2662,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding different file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980)
+#### [Understanding different file systems](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,13 +2682,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=45)** Most of the VMware hypervisors will work with other file systems, but the default choice and the preferred choice is VMFS.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=54)** Next, we'll talk about NFS, and this is a system that was originally developed by Sun but is now an open standard used fairly commonly in the Unix and Linux world.
+> **[0:54](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=54)** Next, we'll talk about NFS, and this is a system that was originally developed by Sun but is now an open standard used fairly commonly in the Unix and [[Linux]] world.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=65)** It is a distributed file system, meaning it will only be mounted on one server and the network will be used to share information to multiple machines.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=76)** NFS will be the default choice for most hypervisors running on Unix or Linux.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=82)** NTFS is proprietary to Microsoft.
+> **[1:22](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=82)** NTFS is proprietary to [[Microsoft]].
 >
 > **[1:26](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=86)** NTFS drives are mounted on one server and they are shared via the operating system.
 >
@@ -2789,23 +2750,22 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=260)** So you could create one file system, probably a VMFS one, just for the hypervisor, and then create another file system, probably NFS for the Linux guest.
 >
-> **[4:32](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=272)** If you're going to run VMware hypervisor and Windows guest, you're almost certainly going to have to create two file systems, one file system for VMware and a separate file system, an NTFS file system, for your Windows clients.
+> **[4:32](https://www.linkedin.com/learning/learning-virtualization-13945890/understanding-different-file-systems?u=76281980&t=272)** If you're going to run VMware hypervisor and [[Windows]] guest, you're almost certainly going to have to create two file systems, one file system for VMware and a separate file system, an NTFS file system, for your Windows clients.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), next (2), [[Microsoft]] (2), data (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Microsoft]] (2), [[Windows]] (2)
 > **Env Vars:** ntfs (9), vmfs (8), nfs (7), rdm (3)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing between SAN, NAS, or local storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980)
+#### [Choosing between SAN, NAS, or local storage](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=0)** - In this section, I'd like to talk about some different options on storage.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=4)** Most of the storage hardware on the market today falls into one of three categories.
+> **[0:04](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=4)** Most of the storage [[Hardware]] on the market today falls into one of three categories.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=9)** Either direct attached storage, DAS.
 >
@@ -2819,7 +2779,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=51)** It is the cheapest, easiest method of storage and to be honest, I use this myself at home.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=57)** If I have a project that only involves two or three virtual machines I'll just connect an external hard drive, load my guest machines onto that external hard drive, and that is just a quick and easy way to get rolling.
+> **[0:57](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=57)** If I have a project that only involves two or three [[Virtual Machines]] I'll just connect an external hard drive, load my guest machines onto that external hard drive, and that is just a quick and easy way to get rolling.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-virtualization-13945890/choosing-between-san-nas-or-local-storage?u=76281980&t=70)** The biggest problem with local storage it does not scale well.
 >
@@ -2863,7 +2823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (1), [[Virtual Machines]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** nas (8), san (5), das (1), vmfs (1), ntfs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
@@ -2873,12 +2833,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshooting network communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980)
+#### [Troubleshooting network communication](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980&t=0)** - In this section, I'd like to talk about troubleshooting network communications in virtual machines.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980&t=0)** - In this section, I'd like to talk about troubleshooting network communications in [[Virtual Machines]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-network-communication?u=76281980&t=6)** The first step, you want to make sure every virtual machine has a unique name, unique IP address, and unique MAC address.
 >
@@ -2948,7 +2907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Troubleshooting]] (2), [[Virtual Machines]] (2), functional (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (2)
 > **Env Vars:** mac (6)
 > **Prerequisites:** you'll need (2), configure (1), make sure you have (1)
 > **CLI Commands:** make (3)
@@ -2956,8 +2915,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1), be aware (1)
 > **Speakers:** - in (1)
 
-#### Troubleshooting slow performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980)
+#### [Troubleshooting slow performance](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2997,7 +2955,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=124)** Some of the files associated with a virtual machine can be very large files, and scanning the entire file for a virus can be very slow.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=133)** The manufacturers of some antivirus software make a special edition or special extensions for hosts running virtual machines.
+> **[2:13](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=133)** The manufacturers of some antivirus software make a special edition or special extensions for hosts running [[Virtual Machines]].
 >
 > **[2:22](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=142)** You can look into that.
 >
@@ -3005,7 +2963,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=154)** You might see a performance improvement by excluding the file types that are commonly associated with very large virtual machine files.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=162)** We can also see a performance boost from removing unneeded hardware on the guest.
+> **[2:42](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=162)** We can also see a performance boost from removing unneeded [[Hardware]] on the guest.
 >
 > **[2:47](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-slow-performance?u=76281980&t=167)** So, much like a computer can be slowed down by running unneeded software a computer can also be slowed down by running unneeded hardware.
 >
@@ -3027,18 +2985,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (4), [[Troubleshooting]] (3), [[Virtualization]] (1), power (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (4)
 > **Env Vars:** usb (2), com (2), gpu (1)
 > **Definitions:** is a  (3), in other words (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting common errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980)
+#### [Troubleshooting common errors](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about a couple of common issues that come up with virtual machines.
+> **[0:00](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=0)** - [Instructor] In this section, I'd like to talk about a couple of common issues that come up with [[Virtual Machines]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=6)** The first one is access denied.
 >
@@ -3074,7 +3031,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=102)** On a network it's sometimes called an NTP server.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=106)** Also, there are a few publicly available ones such as time.[google.com](https://google.com) so if you sync the time on the guest machine to a known source that should eliminate problems of time drift.
+> **[1:46](https://www.linkedin.com/learning/learning-virtualization-13945890/troubleshooting-common-errors?u=76281980&t=106)** Also, there are a few publicly available ones such as time.[[[Google]].com](https://google.com) so if you sync the time on the guest machine to a known source that should eliminate problems of time drift.
 
 > [!info]- Semantic Content
 >
@@ -3090,8 +3047,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3103,7 +3059,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=19)** VirtualBox is another hypervisor similar to Hyper-V and VMware, and it's free, so that's a great price point.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=28)** We also have another course called "Windows Server 2019: "Configuring Hyper-V" by Ed Liberman.
+> **[0:28](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=28)** We also have another course called "[[Windows Server]] 2019: "Configuring Hyper-V" by Ed Liberman.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=36)** And that course will go much deeper into Hyper-V.
 >
@@ -3115,7 +3071,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=51)** It's called "Understanding Cloud Fundamentals."
 >
-> **[0:54](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=54)** It's a handful of courses about the basics of cloud and cloud computing, it's very interesting.
+> **[0:54](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=54)** It's a handful of courses about the basics of cloud and [[Cloud Computing]], it's very interesting.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-virtualization-13945890/next-steps?u=76281980&t=61)** There's some great stuff in that learning path.
 >
@@ -3123,7 +3079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), next (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [martin] (1)
 

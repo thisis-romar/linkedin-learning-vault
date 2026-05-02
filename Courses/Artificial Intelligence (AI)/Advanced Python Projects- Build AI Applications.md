@@ -94,20 +94,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elevate Your Python portfolio with advanced AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980)
+#### [Elevate Your Python portfolio with advanced AI applications](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=0)** - There's no better way to demonstrate your Python and AI skills to your employer or a hiring manager than to showcase a portfolio of projects that you've created.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=0)** - There's no better way to demonstrate your [[Python (Programming Language)|Python]] and AI skills to your employer or a hiring manager than to showcase a portfolio of projects that you've created.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=10)** Knowing how to build and deploy AI solutions, is one of the most sought-out skills given the rise in popularity of AI.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=10)** Knowing how to build and deploy [[AI Solutions]], is one of the most sought-out skills given the rise in popularity of AI.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=18)** So, at the end of the course, you'll be able to build not one, not two, but three AI solutions using Python.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=25)** You'll gain AI skills such as learning how to use machine learning libraries, NLP techniques, do feature engineering, and data analytics.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=25)** You'll gain AI skills such as learning how to use machine learning libraries, NLP techniques, do [[Feature Engineering]], and data analytics.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=34)** And backend skills such as hosting on AWS, setting up database using MongoDB and integrating with OpenAI API.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=34)** And backend skills such as hosting on AWS, setting up database using [[MongoDB]] and integrating with [[OpenAI API]].
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980&t=42)** Also, frontend skills such as Streamlet and much, much more.
 >
@@ -119,26 +118,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Python (Programming Language)|Python]] (2), nlp (1), [[Feature Engineering]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[AI Solutions]] (2), [[Feature Engineering]] (1), [[MongoDB]] (1), [[OpenAI API]] (1)
 > **CLI Commands:** python (2), aws (1)
 > **Env Vars:** nlp (1), aws (1), api (1)
 > **Analogies:** such as (3)
 > **Speakers:** - there (1)
 
-#### What should you know before taking this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980)
+#### [What should you know before taking this course](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=0)** - [Narrator] Here's what you should know before diving into the course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=3)** I recommend that you have a solid foundation in Python.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=3)** I recommend that you have a solid foundation in [[Python (Programming Language)|Python]].
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=7)** You don't need to be an expert or a professional coder, but if you have a good understanding of data types, control flow, and basic data structures, you're in good shape.
+> **[0:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=7)** You don't need to be an expert or a professional coder, but if you have a good understanding of data types, [[Control Flow]], and basic [[Data Structures]], you're in good shape.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=16)** We'll be working on some advanced concepts, so having a grasp of object-oriented programming will also be beneficial.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=16)** We'll be working on some advanced concepts, so having a grasp of [[Object-Oriented Programming (OOP)|object-oriented programming]] will also be beneficial.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=23)** We'll be using GitHub Codespaces as our IDE for developing our projects.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=23)** We'll be using [[GitHub]] [[Codespaces]] as our IDE for developing our projects.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/what-should-you-know-before-taking-this-course?u=76281980&t=27)** GitHub Codespaces is new to you.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[GitHub]] (2), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Codespaces]] (2), [[Python (Programming Language)|Python]] (1), [[Control Flow]] (1), [[Data Structures]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** ide (1)
@@ -160,16 +158,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980&t=0)** - [Instructor] In this course, we'll be using GitHub Codespaces to demonstrate the Python projects that we'll be building.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980&t=0)** - [Instructor] In this course, we'll be using [[GitHub]] [[Codespaces]] to demonstrate the [[Python (Programming Language)|Python]] projects that we'll be building.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980&t=5)** GitHub Codespaces is an instant cloud developer environment offering the functionality of your favorite IDE without the need for a local machine setup.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980&t=14)** It's a great tool that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980&t=14)** It's a great tool that mirrors [[Software Development]] in the workplace.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/using-github-codespaces?u=76281980&t=18)** To get started, you can access GitHub Codespaces directly from the course repository.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (7), next (2), [[Python (Programming Language)|Python]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (8), [[GitHub]] (7), [[Python (Programming Language)|Python]] (1), [[Software Development]] (1)
 > **Tools:** github (7), visual studio (2)
 > **CLI Commands:** make (2), python (1)
 > **Exercise Files:** download the (1), zip file (1), source code (1)
@@ -232,12 +229,11 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Definitions:** is an  (1)
 
-#### A refresher of object-oriented programming concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/a-refresher-of-object-oriented-programming-concepts?u=76281980)
+#### [A refresher of object-oriented programming concepts](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/a-refresher-of-object-oriented-programming-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/a-refresher-of-object-oriented-programming-concepts?u=76281980&t=0)** - [Instructor] In this lesson, I'm going to provide a quick refresher of the fundamental concepts of object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/a-refresher-of-object-oriented-programming-concepts?u=76281980&t=0)** - [Instructor] In this lesson, I'm going to provide a quick refresher of the fundamental concepts of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/a-refresher-of-object-oriented-programming-concepts?u=76281980&t=6)** If you're quite familiar with these concepts, feel free to move directly to the next lesson.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** start_engine (4)
 > **Definitions:** is a  (2)
@@ -328,12 +324,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Processing user input
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980)
+#### [Processing user input](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=0)** - [Instructor] In just 30 lines of code, we are going to build a simple chatbot using Python and TextBlob library.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=0)** - [Instructor] In just 30 lines of code, we are going to build a simple chatbot using [[Python (Programming Language)|Python]] and TextBlob library.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=7)** This chatbot will be capable of understanding user input and providing appropriate responses based on predefined intents.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=59)** Let's get started.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=61)** Open the code for chapter one in GitHub Codespaces.
+> **[1:01](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=61)** Open the code for chapter one in [[GitHub]] [[Codespaces]].
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980&t=64)** Our first step is to install the TextBlob package.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (6), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** python (1), pip (1), find (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **Ports:** :00 (2)
@@ -408,8 +403,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing sentiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/analyzing-sentiment-24909415?u=76281980)
+#### [Analyzing sentiment](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/analyzing-sentiment-24909415?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/analyzing-sentiment-24909415?u=76281980&t=25)** This helps make sure that whether the user types an uppercase open or a lowercase open, the bot treats them the same way.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/analyzing-sentiment-24909415?u=76281980&t=34)** In the next line type, "if any," "word in message for word in intent_data,"
+> **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/analyzing-sentiment-24909415?u=76281980&t=34)** In the next line type, "if any," "[[Microsoft Word|word]] in message for word in intent_data,"
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/analyzing-sentiment-24909415?u=76281980&t=47)** open bracket, "keywords"... And then end it with a colon.
 >
@@ -445,14 +439,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Code Identifiers:** intent_data (2), get_response (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying automated chatbot responses based on sentiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/displaying-automated-chatbot-responses-based-on-sentiment-24906414?u=76281980)
+#### [Displaying automated chatbot responses based on sentiment](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/displaying-automated-chatbot-responses-based-on-sentiment-24906414?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,13 +491,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), next (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tailoring chatbot response based on sentiment score
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/tailoring-chatbot-response-based-on-sentiment-score-24905423?u=76281980)
+#### [Tailoring chatbot response based on sentiment score](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/tailoring-chatbot-response-based-on-sentiment-score-24905423?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,14 +539,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), next (1)
 > **Code Identifiers:** user_message (2), get_response (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intiating the chatbot and printing sentiment-based responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/intiating-the-chatbot-and-printing-sentiment-based-responses-24904548?u=76281980)
+#### [Intiating the chatbot and printing sentiment-based responses](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/intiating-the-chatbot-and-printing-sentiment-based-responses-24904548?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/intiating-the-chatbot-and-printing-sentiment-based-responses-24904548?u=76281980&t=56)** Let me transfer you to a live agent.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/intiating-the-chatbot-and-printing-sentiment-based-responses-24904548?u=76281980&t=58)** The chat bot responded with this message because it saw that the user's message that we typed in contained the word return in it, and this return is part of the keyword response library that we had previously defined.
+> **[0:58](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/intiating-the-chatbot-and-printing-sentiment-based-responses-24904548?u=76281980&t=58)** The chat bot responded with this message because it saw that the user's message that we typed in contained the [[Microsoft Word|word]] return in it, and this return is part of the keyword response library that we had previously defined.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/intiating-the-chatbot-and-printing-sentiment-based-responses-24904548?u=76281980&t=73)** So now we've demonstrated that it not only analyzed sentiment, it also provided a response based on the sentiment, and it also provided a predefined response based on the keyword that we've already defined.
 >
@@ -593,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
@@ -602,8 +591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data analytics using pandas, matplotlib, and scikit-learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980)
+#### [Data analytics using pandas, matplotlib, and scikit-learn](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=8)** And we're going to also predict the price of a latte based on the demographics of the population in those locations.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=16)** So you can apply the skills that you learn from this lesson to your own organization to identify optimal locations and prices for your products.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=16)** So you can apply the skills that you learn from this lesson to your own organization to identify optimal locations and prices for your [[Microsoft Products|products]].
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=24)** This is just one example of how you can use these skills that you learn in this lesson.
 >
@@ -619,11 +607,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=34)** Let's get started.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=36)** From the begin folder, open up the Python notebook CH 2 business prediction.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=36)** From the begin folder, open up the [[Python (Programming Language)|Python]] notebook CH 2 business prediction.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=42)** So the first step that we're going to do is install necessary Python libraries for data analysis and machine learning.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=49)** Pandas is for data manipulation, scikit-learn is for machine learning tools, and matplotlib is for data visualization.
+> **[0:49](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=49)** [[Pandas (Software)|Pandas]] is for [[Data Manipulation]], scikit-learn is for machine learning tools, and matplotlib is for data visualization.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980&t=57)** Using the pip install command, let's go ahead and install these.
 >
@@ -703,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (7), [[Python (Programming Language)|Python]] (3), business (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), [[Data Manipulation]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** python (3), pip (1)
 > **Prerequisites:** install (3), set up (1)
 > **Env Vars:** csv (2)
@@ -712,8 +700,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data preprocessing and scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980)
+#### [Data preprocessing and scaling](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,7 +826,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=387)** Train test split function from scikit-learn is used to split the feature matrix X and the target variable Y into training and testing sets.
 >
-> **[6:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=397)** The parameter test size 0.2 specifies that 20% of the data should be used for testing, and the rest is for training.
+> **[6:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=397)** The parameter test size 0.2 specifies that 20% of the data should be used for testing, and the [[Representational State Transfer (REST)|rest]] is for training.
 >
 > **[6:47](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=407)** Random state 42 ensures reproducibility by fixing the random seed.
 >
@@ -851,7 +838,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=424)** Feature scaling is a method used to normalize the range of independent variables or features of a data.
 >
-> **[7:10](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=430)** It's important in machine learning because many algorithms like linear regression require features to be on the same scale.
+> **[7:10](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=430)** It's important in machine learning because many [[Algorithms]] like [[Linear Regression]] require features to be on the same scale.
 >
 > **[7:17](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-preprocessing-and-scaling?u=76281980&t=437)** If features are not on the same scale, the algorithm may be more biased toward features with large values.
 >
@@ -865,7 +852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), next (9), feature (4), [[Algorithms]] (2), business (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Linear Regression]] (1)
 > **Code Identifiers:** sorted_df (3), cafe_data (2)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** lsd (2)
@@ -874,8 +861,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Model selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980)
+#### [Model selection](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=45)** We're actually trying to predict a number, so that is why we're going to be using regression models.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=50)** So the three regression models that we're going to be using are linear regression, random forest, and gradient boosting.
+> **[0:50](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=50)** So the three regression models that we're going to be using are [[Linear Regression]], random forest, and gradient boosting.
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=57)** So now let's set that up.
 >
@@ -919,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=141)** Next is the random forest regression.
 >
-> **[2:23](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=143)** So this is a collection of decision trees that work together to make a decision.
+> **[2:23](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=143)** So this is a collection of [[Decision Trees]] that work together to make a decision.
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/model-selection?u=76281980&t=149)** Each tree makes its own prediction, and the final prediction is the average of all the individual tree predictions.
 >
@@ -947,14 +933,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (5), next (3), [[Decision Trees]] (2), feature (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), [[Decision Trees]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hyperparameter tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/hyperparameter-tuning?u=76281980)
+#### [Hyperparameter tuning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/hyperparameter-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,7 +995,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/hyperparameter-tuning?u=76281980&t=175)** So in our code, the loop iterates through each model in the model's dictionary that we set up previously.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/hyperparameter-tuning?u=76281980&t=182)** And these models include, of course, linear regression, random forest, and gradient boosting.
+> **[3:02](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/hyperparameter-tuning?u=76281980&t=182)** And these models include, of course, [[Linear Regression]], random forest, and gradient boosting.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/hyperparameter-tuning?u=76281980&t=187)** For each model that has corresponding hyperparameter grid information in param grid, a grid search CV is performed.
 >
@@ -1024,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), next (2), data (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** neg_mean_squared_error (1), grid_search (1), best_estimator (1)
 > **Versions:** 0.01 (1), 0.1 (1), 0.2 (1)
@@ -1032,8 +1017,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linear regression, random forest, and gradient boosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/linear-regression-random-forest-and-gradient-boosting?u=76281980)
+#### [Linear regression, random forest, and gradient boosting](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/linear-regression-random-forest-and-gradient-boosting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1069,7 +1053,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/linear-regression-random-forest-and-gradient-boosting?u=76281980&t=83)** Now let's evaluate the predicted data.
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/linear-regression-random-forest-and-gradient-boosting?u=76281980&t=86)** Next, we're just printing the model name and metrics next to it, it'll say linear regression metrics.
+> **[1:26](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/linear-regression-random-forest-and-gradient-boosting?u=76281980&t=86)** Next, we're just printing the model name and metrics next to it, it'll say [[Linear Regression]] metrics.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/linear-regression-random-forest-and-gradient-boosting?u=76281980&t=92)** And after that we're going to print the mean absolute error.
 >
@@ -1133,7 +1117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (7), next (5), data (4)
+> **Frameworks & Libraries:** [[Linear Regression]] (7)
 > **Versions:** 0.22 (1), 0.235 (1), 0.218 (1), 0.065 (1), 0.066 (1)
 > **Code Identifiers:** model_name (1), mean_absolute_error (1), mean_squared_error (1)
 > **Env Vars:** mae (2)
@@ -1142,8 +1126,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Predicting price based on model evaluation results
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?u=76281980)
+#### [Predicting price based on model evaluation results](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1197,7 +1180,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?u=76281980&t=156)** So these are the ranges that we can have our price for this particular zip code.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?u=76281980&t=163)** So if we set up a new coffee shop in this zip code, our price can range from this value over this value per the linear regression model, and so on and so forth for the other three models.
+> **[2:43](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?u=76281980&t=163)** So if we set up a new coffee shop in this zip code, our price can range from this value over this value per the [[Linear Regression]] model, and so on and so forth for the other three models.
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/predicting-price-based-on-model-evaluation-results?u=76281980&t=176)** Next, let's scroll down.
 >
@@ -1225,7 +1208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (7), [[Linear Regression]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **Prerequisites:** set up (3)
 > **Code Identifiers:** predictions_df (2)
 > **Versions:** 4.785 (1), 4.77 (1)
@@ -1237,18 +1220,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980)
+#### [Setting up MongoDB](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=0)** - [Narrator] In this project, we're going to create an AI application where you can upload any document or PDF, and it will have the ability to answer any questions related to that document.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=12)** Think of it like ChatGPT that has knowledge about your document.
+> **[0:12](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=12)** Think of it like [[ChatGPT]] that has knowledge about your document.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=16)** So let's begin.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=18)** First, let's install the necessary Python packages.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=18)** First, let's install the necessary [[Python (Programming Language)|Python]] packages.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=21)** For this type pip install -r.
 >
@@ -1260,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=51)** We're going to hide the Explorer.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=53)** First, we need to install several Python modules to set up the environment for working with pydantic, MongoDB, and handling errors, through traceback.
+> **[0:53](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=53)** First, we need to install several Python modules to set up the environment for working with pydantic, [[MongoDB]], and handling errors, through traceback.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=64)** So here we're importing pydantic for defining data models and pymongo for MongoDB.
 >
@@ -1274,9 +1256,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=90)** So here we import the necessary components from FastAPI, including FastAPI, UploadFile, status, and HTTPException.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=99)** Next, we import JSONResponse for returning JSON responses.
+> **[1:39](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=99)** Next, we import JSONResponse for returning [[JSON]] responses.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=103)** After that, we install middleware for CORS handling and modules from custom library called LangChain Community for text processing and document loading.
+> **[1:43](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=103)** After that, we install middleware for CORS handling and modules from custom library called [[LangChain]] Community for text processing and document loading.
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980&t=115)** Now we import specific classes from the LangChain and LangChain OpenAI libraries.
 >
@@ -1320,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (10), next (6), [[LangChain]] (6), [[Python (Programming Language)|Python]] (4), aws (4)
+> **Frameworks & Libraries:** [[MongoDB]] (10), [[LangChain]] (6), [[Python (Programming Language)|Python]] (4), [[ChatGPT]] (1), [[JSON]] (1)
 > **CLI Commands:** python (4), aws (4), pip (1), make (1)
 > **Env Vars:** aws (4), url (2), pdf (1), json (1), cors (1)
 > **Prerequisites:** install (4), set up (4)
@@ -1329,8 +1311,7 @@ created: 2026-05-02
 > **File Paths:** requirements.txt (1)
 > **Analogies:** think of it like (1)
 
-#### Generate chat responses using GPT-3.5 and Langchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980)
+#### [Generate chat responses using GPT-3.5 and Langchain](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,7 +1337,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=57)** It takes a final name to load data, a session ID to track the conversation, a query or question, and optional parameters for model selection and temperature control.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=67)** The open AI embeddings class is used to convert text to numerical representations, and the S3.download function is used to fetch a file from the S3 bucket.
+> **[1:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=67)** The open AI embeddings class is used to convert text to numerical representations, and the S3.download function is used to [[Fetch]] a file from the S3 bucket.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=80)** Now we're going to set up document processing based on its file type, either a.docs or a PDF, and then we have the program used to process data to create a conversational retrieval chain with an open AI model.
 >
@@ -1374,7 +1355,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=133)** Then we create a conversational retrieval chain with the OpenAI model and the vector database.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=140)** Once we do that, we use a callback to determine the number of tokens used during the query.
+> **[2:20](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=140)** Once we do that, we use a callback to determine the number of [[Tokens]] used during the query.
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/generate-chat-responses-using-gpt-3-5-and-langchain?u=76281980&t=147)** After that, we print several metrics related to the tokens.
 >
@@ -1384,18 +1365,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (3), database (3), [[Tokens]] (3), next (2)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Fetch]] (1)
 > **Env Vars:** gpt (3), pdf (2)
 > **Versions:** 3.5 (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load conversation history for a given session ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/load-conversation-history-for-a-given-session-id?u=76281980)
+#### [Load conversation history for a given session ID](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/load-conversation-history-for-a-given-session-id?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/load-conversation-history-for-a-given-session-id?u=76281980&t=0)** - [Instructor] Now we're going to create a Python function called load memory to pass and design it to retrieve conversation history associated with a given session ID from a MongoDB collection.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/load-conversation-history-for-a-given-session-id?u=76281980&t=0)** - [Instructor] Now we're going to create a [[Python (Programming Language)|Python]] function called load memory to pass and design it to retrieve conversation history associated with a given session ID from a [[MongoDB]] collection.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/load-conversation-history-for-a-given-session-id?u=76281980&t=15)** And this will return a list of conversation history as a topple that contains both user message and bot response.
 >
@@ -1415,12 +1395,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (2), data (2), [[Python (Programming Language)|Python]] (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create new sessions and add chat history to existing sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/create-new-sessions-and-add-chat-history-to-existing-sessions?u=76281980)
+#### [Create new sessions and add chat history to existing sessions](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/create-new-sessions-and-add-chat-history-to-existing-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1409,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/create-new-sessions-and-add-chat-history-to-existing-sessions?u=76281980&t=20)** Next, we use the UUID module to create a universal unique identifier, ensuring the uniqueness in each of these sessions.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/create-new-sessions-and-add-chat-history-to-existing-sessions?u=76281980&t=28)** Next, we retrieve the MongoDB document with the specific session ID using conversationcol.find_one.
+> **[0:28](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/create-new-sessions-and-add-chat-history-to-existing-sessions?u=76281980&t=28)** Next, we retrieve the [[MongoDB]] document with the specific session ID using conversationcol.find_one.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/create-new-sessions-and-add-chat-history-to-existing-sessions?u=76281980&t=37)** In this line, the function checks if the document exists.
 >
@@ -1444,13 +1423,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[MongoDB]] (2), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **Code Identifiers:** get_session (1), find_one (1)
 > **Env Vars:** uuid (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setup FastAPI app, CORS, S3 session, and obtain a chat response
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response?u=76281980)
+#### [Setup FastAPI app, CORS, S3 session, and obtain a chat response](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1494,7 +1472,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response?u=76281980&t=102)** So the conversation history is updated with the user input and bot response.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response?u=76281980&t=107)** Next, we're going to return JSON response with response message and session ID.
+> **[1:47](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response?u=76281980&t=107)** Next, we're going to return [[JSON]] response with response message and session ID.
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setup-fastapi-app-cors-s3-session-and-obtain-a-chat-response?u=76281980&t=113)** So over here, a JSON response is returned containing the response message and the session ID.
 >
@@ -1532,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (5), [[JSON]] (5), aws (4), application (2)
+> **Frameworks & Libraries:** [[JSON]] (5)
 > **Env Vars:** json (5), aws (4), http (3), cors (1)
 > **Code Identifiers:** session_id (3), create_chat_message (1), get_session (1)
 > **CLI Commands:** aws (4)
@@ -1541,8 +1519,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upload files to Amazon S3 storage bucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/upload-files-to-amazon-s3-storage-bucket?u=76281980)
+#### [Upload files to Amazon S3 storage bucket](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/upload-files-to-amazon-s3-storage-bucket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1527,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/upload-files-to-amazon-s3-storage-bucket?u=76281980&t=4)** So we're going to have the /uploadFile FastAPI endpoint asynchronously process the file uploads.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/upload-files-to-amazon-s3-storage-bucket?u=76281980&t=11)** We're going to have it temporarily saved the file locally, upload it to Amazon S3, remove it from the local file system, and return a JSON response containing the file name and S3 file path, with the appropriate exception handling at the end.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/upload-files-to-amazon-s3-storage-bucket?u=76281980&t=11)** We're going to have it temporarily saved the file locally, upload it to Amazon S3, remove it from the local file system, and return a [[JSON]] response containing the file name and S3 file path, with the appropriate exception handling at the end.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/upload-files-to-amazon-s3-storage-bucket?u=76281980&t=27)** Let's check out how to do that.
 >
@@ -1598,7 +1575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), next (3), [[JSON]] (3), aws (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **Env Vars:** json (3), http (2), aws (1)
 > **Code Identifiers:** uploadfile (2)
 > **CLI Commands:** aws (1)
@@ -1607,8 +1584,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy and run the chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/deploy-and-run-the-chatbot?u=76281980)
+#### [Deploy and run the chatbot](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/deploy-and-run-the-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1664,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/deploy-and-run-the-chatbot?u=76281980&t=187)** So let's try one more question.
 >
-> **[3:11](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/deploy-and-run-the-chatbot?u=76281980&t=191)** "If I go to the Landon Hotel corporate office at 6:00 PM
+> **[3:11](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/deploy-and-run-the-chatbot?u=76281980&t=191)** "If I go to the Landon Hotel corporate [[Microsoft Office|office]] at 6:00 PM
 >
 > **[3:22](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/deploy-and-run-the-chatbot?u=76281980&t=202)** on a Thursday, will it be open?"
 >
@@ -1708,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), ai (3), next (2), [[Microsoft Office|Office]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **UI Navigation:** go to (4), click on (4), navigate to (1), scroll down (1)
 > **Ports:** :00 (4), port 8000 (1)
 > **Env Vars:** url (2)
@@ -1717,8 +1693,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Complete the backend code for file upload
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980)
+#### [Challenge: Complete the backend code for file upload](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,13 +1713,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=44)** In this challenge, please go ahead and initialize the FastAPI app, set up the AWS A3 session using your own AWS access key ID and secret access key.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=59)** Install MongoDB in code-space and start the database.
+> **[0:59](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=59)** Install [[MongoDB]] in code-space and start the database.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=64)** Update the S3 bucket and S3 bucket path based on what you've defined in your AWS environment.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=73)** Once you've done that, go ahead and create the upload endpoint.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=81)** Next, extract the file name from the uploaded file, and save the file temporarily to a local file system, then get the file size and get the upload timestamp, once that's done, upload the file to AWS S3 bucket, remove the local file after upload and prepare metadata stored in MongoDB.
+> **[1:21](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=81)** Next, extract the file name from the uploaded file, and save the file temporarily to a local file system, then get the file size and get the upload timestamp, once that's done, upload the file to AWS S3 bucket, remove the local file after upload and prepare [[Metadata]] stored in MongoDB.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-complete-the-backend-code-for-file-upload?u=76281980&t=105)** After that, insert the file metadata into MongoDB, and then, return the response.
 >
@@ -1756,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[MongoDB]] (3), next (2), [[Metadata]] (2), database (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[Metadata]] (2)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Prerequisites:** set up (1), install (1), configure (1)
@@ -1764,8 +1739,7 @@ created: 2026-05-02
 > **Speakers:** - [person] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Complete the backend code for file upload
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980)
+#### [Solution: Complete the backend code for file upload](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=9)** Now let's take a look at the solution together.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=12)** We start by importing several libraries which help our app handle file uploads, connect to databases, and interact with cloud storage.
+> **[0:12](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=12)** We start by importing several libraries which help our app handle file uploads, connect to [[Databases]], and interact with [[Cloud Storage]].
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=20)** FastAPI is the framework we're using to create our API.
 >
@@ -1785,15 +1759,15 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=28)** HTTPException allows us to handle exceptions in a way that returns proper HTTP responses.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=34)** JSONResponse helps us send JSON responses to the client.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=34)** JSONResponse helps us send [[JSON]] responses to the client.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=38)** OS is for interacting with operating system, datetime for timestamping events.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=46)** Boto3 is the AWS SDK for Python, which allows us to interact with AWS services.
+> **[0:46](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=46)** Boto3 is the AWS SDK for [[Python (Programming Language)|Python]], which allows us to interact with AWS services.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=51)** AWS Wrangler is a utility that simplifies working with AWS services such as S3.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=56)** And then we're importing MongoClient from PyMongo, which is used to connect to a MongoDB database.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=56)** And then we're importing MongoClient from PyMongo, which is used to connect to a [[MongoDB]] database.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=62)** PyMongo provides tools for working with MongoDB.
 >
@@ -1803,7 +1777,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=82)** And then over here, type in your access key ID from your AWS account and the secret access key that belongs to that key ID.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=92)** Once that's done, let's go ahead and install MongoDB in Codespaces.
+> **[1:32](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=92)** Once that's done, let's go ahead and install MongoDB in [[Codespaces]].
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=97)** Copy this command and type it in here.
 >
@@ -1873,7 +1847,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=367)** After successfully uploading the file to S3, we delete the local copy to save some space and for security reasons.
 >
-> **[6:14](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=374)** We then store some metadata about the file in MongoDB.
+> **[6:14](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=374)** We then store some [[Metadata]] about the file in MongoDB.
 >
 > **[6:18](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-complete-the-backend-code-for-file-upload?u=76281980&t=378)** This dictionary contains details about the file, including its name, size, the time it was uploaded in the path to the file in S3.
 >
@@ -1933,7 +1907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), next (7), [[MongoDB]] (6), [[JSON]] (4), database (3)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[JSON]] (4), [[Metadata]] (2), [[Databases]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** aws (13), json (4), http (3), url (3), api (1)
 > **CLI Commands:** aws (13), python (1)
 > **Code Identifiers:** file_name (4), out_file (2), uploadfile (1), data_file (1), local_file (1)
@@ -1947,8 +1921,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to API communication with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980)
+#### [Introduction to API communication with Python](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1978,15 +1951,15 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=67)** So I specifically asked this question about employee leave policy because I knew that there is no employee leave policy that was explicitly mentioned in the document.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=75)** So I wanted to see how the chat bot would react to a question like this, which wasn't directly in the document, and it did a pretty good job of telling me that there was no specific employee leave policy, but at the same time, provided additional guidance on how to go about obtaining a leave.
+> **[1:15](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=75)** So I wanted to see how the chat bot would [[React.js|react]] to a question like this, which wasn't directly in the document, and it did a pretty good job of telling me that there was no specific employee leave policy, but at the same time, provided additional guidance on how to go about obtaining a leave.
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=94)** There we go. That's a quick demo of our frontend.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=97)** Great, now let's close our windows and go back to our code file.
+> **[1:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=97)** Great, now let's close our [[Windows]] and go back to our code file.
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=101)** So first we're going to say PIP install Streamlit.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=107)** After Streamlit is installed, we're going to import request and JSON modules.
+> **[1:47](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=107)** After Streamlit is installed, we're going to import request and [[JSON]] modules.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980&t=111)** These are commonly used for making HTTP request and handling JSON data.
 >
@@ -2032,7 +2005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[JSON]] (7), next (3), [[Debugging]] (3), application (2)
+> **Frameworks & Libraries:** [[JSON]] (7), [[React.js|React]] (1), [[Windows]] (1)
 > **Env Vars:** api (8), json (7), url (4), http (2), pdf (1)
 > **Code Identifiers:** session_id (3), user_input (1), data_source (1)
 > **CLI Commands:** make (3), pip (1)
@@ -2041,8 +2014,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### File uploads and advanced API interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/file-uploads-and-advanced-api-interactions?u=76281980)
+#### [File uploads and advanced API interactions](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/file-uploads-and-advanced-api-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/file-uploads-and-advanced-api-interactions?u=76281980&t=54)** So the tuple includes the field name data_file, a tuple containing the file name, file object, and the content type.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/file-uploads-and-advanced-api-interactions?u=76281980&t=64)** Next we define headers for the file upload request, specifying that the client accepts JSON.
+> **[1:04](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/file-uploads-and-advanced-api-interactions?u=76281980&t=64)** Next we define headers for the file upload request, specifying that the client accepts [[JSON]].
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/file-uploads-and-advanced-api-interactions?u=76281980&t=70)** Next, we use the request module to make a POST request to upload the file with the specified URL, headers, payload, and files.
 >
@@ -2078,21 +2050,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (4), next (4), api (3), [[JSON]] (2), data (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** api (3), http (3), url (2), json (2), backend_url (1)
 > **Code Identifiers:** upload_file (2), file_path (1), uploadfile (1), data_file (1)
 > **CLI Commands:** make (1)
 > **API Endpoints:** post  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streamlit app basics and file handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980)
+#### [Streamlit app basics and file handling](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=0)** - [Instructor] All right, next, we're going to be importing Streamlit.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=3)** Streamlit is an open source Python library that makes it easy to create and share custom web apps for machine learning and data science.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=3)** Streamlit is an open source [[Python (Programming Language)|Python]] library that makes it easy to create and share custom web apps for machine learning and [[Data Science]].
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=12)** It's designed to help you turn data scripts into shareable web apps in just minutes.
 >
@@ -2114,7 +2085,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=43)** It's a tool that helps you turn your data analysis or machine learning code into a web app.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=48)** You write your code in Python and Streamlit takes care of the rest.
+> **[0:48](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=48)** You write your code in Python and Streamlit takes care of the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/streamlit-app-basics-and-file-handling?u=76281980&t=53)** It automatically generates a web interface for your app and it updates the interface in real time as your code runs.
 >
@@ -2148,7 +2119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (4), [[Python (Programming Language)|Python]] (4), data (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** session_state (2), file_uploader (1)
 > **Analogies:** imagine (1), just like (1), it's like (1)
@@ -2156,8 +2127,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uploading files to API endpoints with Streamlit
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/uploading-files-to-api-endpoints-with-streamlit?u=76281980)
+#### [Uploading files to API endpoints with Streamlit](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/uploading-files-to-api-endpoints-with-streamlit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2189,13 +2159,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **Code Identifiers:** data_file (1), upload_file (1), chat_message (1)
 > **Env Vars:** api (2), url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a chat interface with Streamlit
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/building-a-chat-interface-with-streamlit?u=76281980)
+#### [Building a chat interface with Streamlit](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/building-a-chat-interface-with-streamlit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2247,12 +2215,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), application (2), data (1)
 > **Code Identifiers:** chat_message (1), message_placeholder (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to run the front end of the chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/how-to-run-the-front-end-of-the-chatbot?u=76281980)
+#### [How to run the front end of the chatbot](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/how-to-run-the-front-end-of-the-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2328,15 +2294,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (2), cd (1), business (1), hr (1)
 > **CLI Commands:** make (3), cd (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a front-end UI for file upload
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-create-a-frontend-ui-for-file-upload?u=76281980)
+#### [Challenge: Create a front-end UI for file upload](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/challenge-create-a-frontend-ui-for-file-upload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2376,7 +2340,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), next (1)
 > **Env Vars:** aws (1), url (1)
 > **Prerequisites:** set up (1), configure (1)
 > **File Paths:** ch_4a_challenge.py (1)
@@ -2384,9 +2347,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a front-end UI for file upload
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980)
+#### [Solution: Create a front-end UI for file upload](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,7 +2369,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=32)** Now let's go ahead and import requests.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=38)** And to recap, this Python library is used to send HTTP requests.
+> **[0:38](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=38)** And to recap, this [[Python (Programming Language)|Python]] library is used to send HTTP requests.
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=42)** Here we use it to send files from the Streamlit app to a FastAPI backend.
 >
@@ -2434,7 +2397,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=137)** And this is the message that we're going to be displaying.
 >
-> **[2:22](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=142)** And then in the next line, type in st json response.json
+> **[2:22](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=142)** And then in the next line, type in st [[JSON]] response.json
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/solution-create-a-frontend-ui-for-file-upload?u=76281980&t=157)** and then close parentheses.
 >
@@ -2530,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), next (2), [[JSON]] (2), [[Python (Programming Language)|Python]] (1), aws (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** pdf (4), url (3), http (1), post (1), aws (1)
 > **Code Identifiers:** uploaded_file (2), data_file (1), status_code (1), set_page_config (1), page_title (1)
 > **CLI Commands:** python (1), aws (1)
@@ -2544,12 +2507,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980)
+#### [Your next steps](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=0)** - Congratulations on completing this course and creating your Python project portfolio.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=0)** - Congratulations on completing this course and creating your [[Python (Programming Language)|Python]] project portfolio.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=6)** When time comes for you to show off your Python and AI skills, you'll be glad that you have this portfolio of work that you can exhibit.
 >
@@ -2561,9 +2523,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=45)** From setting up CORS middleware to building a sophisticated chat interface with Streamlit, you've now completed a journey encompassing API communication, file upload, and advanced interactions.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=58)** Together we explored how to create OpenAI-based applications that use MongoDB and AWS.
+> **[0:58](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=58)** Together we explored how to create OpenAI-based applications that use [[MongoDB]] and AWS.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=66)** If you'd like to continue learning about AI tools and keep yourself updated on the latest AI news, check out my newsletter and don't forget to follow me on LinkedIn.
+> **[1:06](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=66)** If you'd like to continue learning about AI tools and keep yourself updated on the latest AI news, check out my newsletter and don't forget to follow me on [[LinkedIn]].
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980&t=76)** As you move forward, remember, learning doesn't end here.
 >
@@ -2573,7 +2535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), ai (3), data (2), aws (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[MongoDB]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (3), aws (2)
 > **Env Vars:** aws (2), cors (1), api (1)
 > **Best Practices:** don't forget (1)

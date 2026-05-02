@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980&t=11)** How to get data from one storyboard scene or view controller to another using delegates?
 >
-> **[0:17](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980&t=17)** In this course I'm going to give you the foundation you need to understand delegates, the theory of how they work, and some hands-on examples in an Xcode project and Playground of building a delegate to send data between two view controllers.
+> **[0:17](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980&t=17)** In this course I'm going to give you the foundation you need to understand delegates, the theory of how they work, and some hands-on examples in an [[Xcode]] project and Playground of building a delegate to send data between two view controllers.
 >
 > **[0:32](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980&t=32)** I'll cover the differences in delegates for coding UI and for storyboards.
 >
@@ -101,17 +100,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **Code Identifiers:** ios (2), watchos (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [steven] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, I'm assuming you've used Xcode and Swift before.
+> **[0:00](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, I'm assuming you've used [[Xcode]] and [[Swift (Programming Language)|Swift]] before.
 >
 > **[0:04](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-you-should-know?u=76281980&t=4)** I'll assume a lot of you are beginners.
 >
@@ -132,8 +130,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/how-to-use-the-exercise-files?u=76281980&t=6)** I'll be doing two projects, alternating between the two.
 >
-> **[0:09](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/how-to-use-the-exercise-files?u=76281980&t=9)** The first is the Swift Playground, which you will write from scratch as we proceed through the course.
+> **[0:09](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/how-to-use-the-exercise-files?u=76281980&t=9)** The first is the [[Swift (Programming Language)|Swift]] Playground, which you will write from scratch as we proceed through the course.
 >
 > **[0:14](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/how-to-use-the-exercise-files?u=76281980&t=14)** The second is an ordering app for the Huli Pizza Company, except there's some delegates and data sources still to add to the beverages and desserts, so the app doesn't work perfectly.
 >
@@ -149,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -160,8 +157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a class?
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980)
+#### [What is a class?](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,11 +165,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=4)** If you already know everything you want to ever know about classes and view controllers, then you can skip this chapter, but you might learn something along the way.
 >
-> **[0:13](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=13)** While we use classes in object-oriented programming, it's good to review what they actually are.
+> **[0:13](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=13)** While we use classes in [[Object-Oriented Programming (OOP)|object-oriented programming]], it's good to review what they actually are.
 >
 > **[0:18](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=18)** A class is a collection of data, which we call properties and actions we can do to those properties, which we call methods.
 >
-> **[0:26](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=26)** In Xcode, open up a new Swift playground.
+> **[0:26](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=26)** In [[Xcode]], open up a new [[Swift (Programming Language)|Swift]] playground.
 >
 > **[0:30](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=30)** And you can pick a blank playground for iOS and hit Next.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=143)** Private means the property or method is only usable and visible within the defining class.
 >
-> **[2:29](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=149)** For example, I can make this color private by putting the word 'private' in front of it.
+> **[2:29](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=149)** For example, I can make this color private by putting the [[Microsoft Word|word]] 'private' in front of it.
 >
 > **[2:36](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980&t=156)** Now, other classes won't be able to see it.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), data (1), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1), hit (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Xcode]] (1), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8)
 > **Code Identifiers:** colorname (4), ios (1), colorindex (1), mycolor (1)
 > **Definitions:** is a  (2), known as (2)
@@ -315,12 +311,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/model?u=76281980)
+#### [Model](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/model?u=76281980&t=0)** - [Instructor] A term heard often when working with Xcode is MVC.
+> **[0:00](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/model?u=76281980&t=0)** - [Instructor] A term heard often when working with [[Xcode]] is MVC.
 >
 > **[0:04](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/model?u=76281980&t=4)** MVC stands for model-view-controller.
 >
@@ -358,14 +353,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Xcode]] (2), application (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (2)
 > **Env Vars:** mvc (3)
 > **Definitions:** stands for (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### View
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/view?u=76281980)
+#### [View](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,15 +427,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** liveview (1), backgroundcolor (1), addsubview (1)
 > **Env Vars:** mvc (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980)
+#### [Controller](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=98)** Now that would be an ideal case.
 >
-> **[1:40](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=100)** But Xcode changes this around a bit.
+> **[1:40](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=100)** But [[Xcode]] changes this around a bit.
 >
 > **[1:43](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=103)** There's a class called view controller, which is the controller with a built-in view property.
 >
@@ -523,7 +515,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=153)** And there it all is.
 >
-> **[2:34](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=154)** I'm going to do one more thing here, and move the button declaration out of view did load, so I can use it in the rest of this class.
+> **[2:34](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=154)** I'm going to do one more thing here, and move the button declaration out of view did load, so I can use it in the [[Representational State Transfer (REST)|rest]] of this class.
 >
 > **[2:43](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/controller?u=76281980&t=163)** So I'm going to hit command X here.
 >
@@ -619,7 +611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Xcode]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2)
@@ -633,8 +625,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Destination view controllers in code
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-code?u=76281980)
+#### [Destination view controllers in code](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +739,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** open the (1), go to (1)
 > **CLI Commands:** find (1)
@@ -757,8 +747,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Destination view controllers in storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980)
+#### [Destination view controllers in storyboards](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,7 +763,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=23)** Notice the lines between the scenes.
 >
-> **[0:26](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=26)** In Xcode, we have what are known are segues.
+> **[0:26](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=26)** In [[Xcode]], we have what are known are segues.
 >
 > **[0:29](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=29)** Segues point from one view controller to another.
 >
@@ -782,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=43)** To get a segue on the storyboard, you usually control drag from a button to another scene.
 >
-> **[0:48](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=48)** If I zoom down here a little there's no segue between the desserts button and the desserts view controller.
+> **[0:48](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=48)** If I [[Zoom]] down here a little there's no segue between the desserts button and the desserts view controller.
 >
 > **[0:57](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-storyboards?u=76281980&t=57)** Control drag from desserts to the controller.
 >
@@ -862,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Xcode]] (1), [[Zoom]] (1), generic (1), hit (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Zoom]] (1)
 > **UI Navigation:** open the (2), go to (2), click on (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1), find (1)
@@ -871,8 +860,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 
-#### Delegates in theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-theory?u=76281980)
+#### [Delegates in theory](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,15 +928,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** nvc (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delegates in iOS code
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-code?u=76281980)
+#### [Delegates in iOS code](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -994,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-code?u=76281980&t=106)** So go down to ViewController and where it says UIViewController here, you put ColorChooserDelegate, like that.
 >
-> **[1:56](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-code?u=76281980&t=116)** Now Xcode will give me an error.
+> **[1:56](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-code?u=76281980&t=116)** Now [[Xcode]] will give me an error.
 >
 > **[1:59](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-code?u=76281980&t=119)** Click on that error to look at it.
 >
@@ -1042,15 +1028,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** selectedcolor (2), backgroundcolor (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Delegates in iOS storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-storyboards?u=76281980)
+#### [Delegates in iOS storyboards](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-ios-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,15 +1117,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** ordereditems (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Contexts in watchOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/contexts-in-watchos?u=76281980)
+#### [Contexts in watchOS](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/contexts-in-watchos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/contexts-in-watchos?u=76281980&t=11)** You'll find the app we've been working with is a watchOS app as well.
 >
-> **[0:16](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/contexts-in-watchos?u=76281980&t=16)** In Xcode, towards the bottom of the navigator, you'll see a few folders we haven't opened yet.
+> **[0:16](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/contexts-in-watchos?u=76281980&t=16)** In [[Xcode]], towards the bottom of the navigator, you'll see a few folders we haven't opened yet.
 >
 > **[0:21](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/contexts-in-watchos?u=76281980&t=21)** Opening them, you'll find the WatchKit app and the WatchKit extension.
 >
@@ -1248,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (1), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **Code Identifiers:** watchos (9), ios (5), segueidentifier (1), contextdictionary (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (2), open the (1)
@@ -1256,8 +1239,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Delegates in watchOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-watchos?u=76281980)
+#### [Delegates in watchOS](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-in-watchos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,7 +1343,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), hit (1)
 > **Code Identifiers:** watchos (3), orderitem (3), ios (2), didfinishselectingdessert (1), settext (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1374,8 +1355,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980)
+#### [Data sources](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1403,7 +1383,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980&t=59)** Now, another developer could change the data tapes on you, such as turn a UI color into a string, or have a mismatch in the sizes of the arrays.
 >
-> **[1:07](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980&t=67)** So how do I hold on to the data integrity?
+> **[1:07](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980&t=67)** So how do I hold on to the [[Data Integrity]]?
 >
 > **[1:10](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980&t=70)** Now, for some customization situations, the best way to do this is to use a data source, which is another type of protocol.
 >
@@ -1605,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), next (1), hit (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** just like (2), such as (1)
 > **UI Navigation:** go to (2)
@@ -1614,8 +1594,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Delegates and data sources in Apple methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-and-data-sources-in-apple-methods?u=76281980)
+#### [Delegates and data sources in Apple methods](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-and-data-sources-in-apple-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1629,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-and-data-sources-in-apple-methods?u=76281980&t=16)** Head over to the app, and go to the storyboard.
 >
-> **[0:19](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-and-data-sources-in-apple-methods?u=76281980&t=19)** If you zoom out the storyboard a little bit, you'll see towards the bottom, there's one that's for beverages, and I'll zoom in on that.
+> **[0:19](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-and-data-sources-in-apple-methods?u=76281980&t=19)** If you [[Zoom]] out the storyboard a little bit, you'll see towards the bottom, there's one that's for beverages, and I'll zoom in on that.
 >
 > **[0:29](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/delegates-and-data-sources-in-apple-methods?u=76281980&t=29)** You'll see this beverage scene uses a picker.
 >
@@ -1713,7 +1692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Zoom]] (2), api (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Code Identifiers:** pickercomponents (3), pickcomponents (1), pickerview (1), viewdidload (1), beveragepicker (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1726,8 +1705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,11 +1731,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980&t=58)** You'll find in my Learning Apple watchOS 4 App Development course, several other examples of delegates for the Apple Watch, including how to use a delegate to read the digital crown.
 >
-> **[1:08](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980&t=68)** For many iOS topics you can follow me on LinkedIn at Steven Lipton, or on Twitter @Steve Lipton.
+> **[1:08](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980&t=68)** For many iOS topics you can follow me on [[LinkedIn]] at Steven Lipton, or on Twitter @Steve Lipton.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** watchos (3), ios (2)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)

@@ -89,20 +89,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlocking your AI potential with Azure OpenAI Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980)
+#### [Unlocking your AI potential with Azure OpenAI Service](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=0)** - [Sammy] Welcome, future innovators.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=2)** Are you ready to embark on an exciting journey into the world of Azure OpenAI services?
+> **[0:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=2)** Are you ready to embark on an exciting journey into the world of [[Microsoft Azure|Azure]] OpenAI services?
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=8)** Great, because this online course is exactly what you've been waiting for.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=13)** Imagine a world where machines can understand, reason and even converse with humans.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=19)** A world where artificial intelligence transcend limits and drives innovation to new heights.
+> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=19)** A world where [[Artificial Intelligence (AI)|artificial intelligence]] transcend limits and drives innovation to new heights.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980&t=25)** Well, that world is within your reach.
 >
@@ -116,25 +115,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [sammy] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=0)** - [Instructor[ Welcome future innovators.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=2)** Are you ready to embark on an exciting journey into the world of Azure OpenAI services?
+> **[0:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=2)** Are you ready to embark on an exciting journey into the world of [[Microsoft Azure|Azure]] OpenAI services?
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=8)** Great, because this online course is exactly what you've been waiting for.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=13)** Imagine a world where machines can understand, reason, and even converse with humans.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=19)** A world where artificial intelligence transcends limits and drives innovation to new heights.
+> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=19)** A world where [[Artificial Intelligence (AI)|artificial intelligence]] transcends limits and drives innovation to new heights.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-you-should-know?u=76281980&t=25)** Well, that world is within your reach, and Azure OpenAI services are here to help you build intelligent tools.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor (1)
@@ -156,46 +154,44 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Azure OpenAI Service?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980)
+#### [What is Azure OpenAI Service?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=0)** - [Instructor] What is Azure OpenAI?
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=0)** - [Instructor] What is [[Microsoft Azure|Azure]] OpenAI?
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=3)** To answer this, we need to understand what OpenAI is.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=7)** OpenAI is an American artificial intelligence research laboratory founded in 2015 consisting of the non-profit OpenAI Incorporated, and its for-profit subsidiary corporation.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=7)** OpenAI is an American [[Artificial Intelligence (AI)|artificial intelligence]] research laboratory founded in 2015 consisting of the non-profit OpenAI Incorporated, and its for-profit subsidiary corporation.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=20)** OpenAI Limited Partnership.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=22)** OpenAI conducts AI research with a declared intention of promoting and developing a friendly AI.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=30)** They developed large language models or LLMs like GPT, DALL-E and Whisper.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=30)** They developed [[Large Language Models (LLM)|large language models]] or LLMs like GPT, [[DALL-E]] and Whisper.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=37)** Since Microsoft made a massive investment in the research center, they can offer these services on their own cloud platform, Azure.
+> **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=37)** Since [[Microsoft]] made a massive investment in the research center, they can offer these services on their own cloud platform, Azure.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=45)** So Azure OpenAI is the models that OpenAI developed, but on the Azure platform and that are available via REST APIs and SDKs.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980&t=45)** So Azure OpenAI is the models that OpenAI developed, but on the Azure platform and that are available via [[Representational State Transfer (REST)|REST]] APIs and SDKs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[DALL-E]] (1), [[Microsoft]] (1)
 > **Env Vars:** gpt (1), dall (1), rest (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure OpenAI vs. OpenAI Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980)
+#### [Azure OpenAI vs. OpenAI Service](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=0)** - [Instructor] So what is the difference between Azure OpenAI Services and the, let's call it, original OpenAI services?
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=0)** - [Instructor] So what is the difference between [[Microsoft Azure|Azure]] OpenAI Services and the, let's call it, original OpenAI services?
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=8)** Therefore, we need to go to the beginning.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=10)** So the OpenAI models are also available via their own API endpoints.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=17)** Now, because of the investments Microsoft made in the OpenAI organization, they are allowed to make those models also available on their own cloud platform, Azure.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=17)** Now, because of the investments [[Microsoft]] made in the OpenAI organization, they are allowed to make those models also available on their own cloud platform, Azure.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=28)** Now Microsoft works most of the time with enterprise organizations, which means they had to bring these models to a next level, and that's what they did by creating Azure OpenAI.
 >
@@ -203,11 +199,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=47)** Now that enterprise layer exists out of three main topics.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=52)** The first one is responsible AI.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=52)** The first one is [[Responsible AI]].
 >
 > **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=55)** One part of that is content filtering.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=57)** So ChatGPT, for example, will not respond to just anything you are asking it.
+> **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=57)** So [[ChatGPT]], for example, will not respond to just anything you are asking it.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=63)** The second one is security.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=85)** It's only within the same network that that is possible.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=88)** Now, part of security is also privacy.
+> **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=88)** Now, part of security is also [[Privacy]].
 >
 > **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-openai-vs-openai-services?u=76281980&t=92)** Microsoft is promising that the data that you are sending to the OpenAI endpoints is not going to be reused to retrain models or that they're also not looking into it.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), api (4), [[Microsoft]] (4), [[Security]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft]] (4), [[Responsible AI]] (1), [[ChatGPT]] (1), [[Privacy]] (1)
 > **Env Vars:** api (4), usa (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
@@ -235,12 +231,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying Azure OpenAI Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980)
+#### [Deploying Azure OpenAI Service](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=0)** - [Instructor] Now that you have a basic understanding of what Azure OpenAI is, it's time to create the Azure OpenAI service so we can actually try out some things.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=0)** - [Instructor] Now that you have a basic understanding of what [[Microsoft Azure|Azure]] OpenAI is, it's time to create the Azure OpenAI service so we can actually try out some things.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=10)** To do that, let's go into the Azure portal and start creating our resource.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=62)** And we gave it the name.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=63)** So I'll call it OAI LinkedIn Course Demo.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=63)** So I'll call it OAI [[LinkedIn]] Course Demo.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/deploying-azure-openai-service?u=76281980&t=68)** And then the pricing tier, which there's only one, we click Standard SO.
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LinkedIn]] (1), next (1), feature (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[LinkedIn]] (1)
 > **Env Vars:** oai (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -304,12 +299,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Foundry: Quick tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980)
+#### [Azure AI Foundry: Quick tour](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=0)** - [Instructor] Now that you have created the Azure OpenAI resource on your Azure subscription, it's time to have a quick tour of the Azure OpenAI Studio or the Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=0)** - [Instructor] Now that you have created the [[Microsoft Azure|Azure]] OpenAI resource on your Azure subscription, it's time to have a quick tour of the Azure OpenAI Studio or the [[Azure AI Foundry]].
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=12)** You can access the Azure AI Foundry for Azure OpenAI via the following link on your screen, oai.[azure.com](https://azure.com).
 >
@@ -323,7 +317,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=46)** We can start building Assistants.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=48)** We can make use of Real-time audio, we can generate Images, we can even Fine tune models, we can do Evaluation.
+> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=48)** We can make use of [[Real-Time]] audio, we can generate Images, we can even Fine tune models, we can do Evaluation.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=56)** We can even Store completions.
 >
@@ -335,13 +329,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=70)** There's Whisper, there's GPT 4.0, 0.3 Mini, and so many more.
 >
-> **[1:16](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=76)** We can also define the Quota, which is saying how much tokens you can consume.
+> **[1:16](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=76)** We can also define the Quota, which is saying how much [[Tokens]] you can consume.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=82)** And of course, also content Safety.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=84)** We can store Data that we can use to answer questions based on your own information, and the same as goes for the Vector stores.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=95)** Now, two very important things here that we might need later on is of course, our endpoint and one of the keys so we can make use of the Python SDK or the C# SDK to be able to connect to these services.
+> **[1:35](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=95)** Now, two very important things here that we might need later on is of course, our endpoint and one of the keys so we can make use of the [[Python (Programming Language)|Python]] SDK or the C# SDK to be able to connect to these services.
 >
 > **[1:50](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-quick-tour?u=76281980&t=110)** So this is just a quick intro.
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Azure AI Foundry]] (3), ai (1), [[Real-Time]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Azure AI Foundry]] (3), [[Real-Time]] (1), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** gpt (2), sdk (2)
 > **CLI Commands:** make (2), python (1)
 > **Versions:** 3.5 (1), 4.0 (1), 0.3 (1)
@@ -358,12 +352,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure AI Foundry: Model catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-model-catalog?u=76281980)
+#### [Azure AI Foundry: Model catalog](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-model-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-model-catalog?u=76281980&t=0)** - [Lecturer] One of the great features of the Azure AI Foundry is the model catalog.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-model-catalog?u=76281980&t=0)** - [Lecturer] One of the great features of the [[Azure AI Foundry]] is the model catalog.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-model-catalog?u=76281980&t=6)** Now, why is that?
 >
@@ -393,16 +386,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Azure AI Foundry: Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980)
+#### [Azure AI Foundry: Playground](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=0)** - [Instructor] Another great feature of the Azure AI Foundry is the playground.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=0)** - [Instructor] Another great feature of the [[Azure AI Foundry]] is the playground.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=4)** In the playground, we can try out all the different kinds of models and just figure out how they work.
 >
@@ -420,7 +412,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=41)** Well, the realtime audio, let's give a quick demo about this as well.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=48)** Hey, ChatGPT, how are you doing today?
+> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=48)** Hey, [[ChatGPT]], how are you doing today?
 >
 > **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/azure-ai-foundry-playground?u=76281980&t=51)** - [ChatGPT] I'm doing great.
 >
@@ -454,19 +446,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[ChatGPT]] (3), feature (2), ai (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[ChatGPT]] (3)
 > **Speakers:** - [instructor] (3), - [chatgpt] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### What kind of models are available?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980)
+#### [What kind of models are available?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=0)** - [Instructor] Azure offers multiple OpenAI models.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] offers multiple OpenAI models.
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=3)** Let's have a quick look which ones there are and what they are for.
 >
@@ -482,15 +473,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=34)** The Codex models could be compared to the GPT models, but with the biggest difference is that it will not return text, but will return parts of code.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=43)** For example, in Python or C#.
+> **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=43)** For example, in [[Python (Programming Language)|Python]] or C#.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=47)** For example, we have GitHub Copilot who will assist software developers to write code more efficiently.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=47)** For example, we have [[GitHub Copilot]] who will assist software developers to write code more efficiently.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=54)** So, in this example on the screen, a software developer might add a command in his code saying, "I need a function that checks if a string is an email address."
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=63)** At that moment, the Codex model will return the function and the language the software developer is writing at that moment.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=71)** And last but not least, is the Dall-E models.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=71)** And last but not least, is the [[DALL-E]] models.
 >
 > **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-kind-of-models-are-available?u=76281980&t=74)** These models will convert text or you could call it a command into a picture.
 >
@@ -502,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Search]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub Copilot]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (1), [[GitHub Copilot]] (1), [[DALL-E]] (1)
 > **Analogies:** for example (2), picture (2)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** gpt (2)
@@ -515,8 +506,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do GPT models work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980)
+#### [How do GPT models work?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,13 +516,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=11)** It's actually very easy to understand.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=14)** The models accept n numbers of tokens n and return one token out.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=14)** The models accept n numbers of [[Tokens]] n and return one token out.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=19)** Well, this would be easy if you understand what a token is, so what are they?
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=24)** In this example, the sentence is split into multiple words, and some words are split also.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=30)** When a word is very common, it might be only one token, but a less common word will be split in multiple tokens that are used more often.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=30)** When a [[Microsoft Word|word]] is very common, it might be only one token, but a less common word will be split in multiple tokens that are used more often.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=38)** Each token will be represented by a number.
 >
@@ -540,13 +530,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=44)** So a token is a word or a part of a word.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=48)** But it's a little bit more complicated than this, because what I'm not showing you is that it actually returns a probability list with all different tokens that could be the output token.
+> **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=48)** But it's a little bit more complicated than this, because what I'm not showing you is that it actually returns a [[Probability]] list with all different tokens that could be the output token.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=59)** The algorithm then will choose which one fits the best based on the parameters that you can define.
 >
 > **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=66)** But you might say now, "This does not make sense.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=69)** When I use Bing Chat or ChatGPT, for example, it returns me whole sentences or paragraphs."
+> **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=69)** When I use Bing Chat or [[ChatGPT]], for example, it returns me whole sentences or paragraphs."
 >
 > **[1:16](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=76)** Exactly, and that is because the model works in an iterative way.
 >
@@ -568,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=114)** So you can imagine the quality was not the best.
 >
-> **[1:57](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=117)** But it laid the foundation for the next steps in language processing with n-grams, neural networks, and transformers that are now used in GPT models, which can take a lot of tokens to predict the next one.
+> **[1:57](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=117)** But it laid the foundation for the next steps in language processing with n-grams, [[Neural Networks]], and transformers that are now used in GPT models, which can take a lot of tokens to predict the next one.
 >
 > **[2:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980&t=131)** Understanding how these models work also makes clear that although chatting with a chatbot built on top of GPT models might feel human-like and even shows emotion, it is pure mathematical.
 >
@@ -576,15 +566,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), [[Microsoft Word|Word]] (4), next (3), [[Probability]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Microsoft Word|Word]] (4), [[Probability]] (1), [[ChatGPT]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What can GPT models do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-can-gpt-models-do?u=76281980)
+#### [What can GPT models do?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-can-gpt-models-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-can-gpt-models-do?u=76281980&t=8)** Now, within the completion functionality, there are three different strategies that you could make use of.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-can-gpt-models-do?u=76281980&t=14)** To explain them well, we're going back to the Azure OpenAI Studio.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-can-gpt-models-do?u=76281980&t=14)** To explain them well, we're going back to the [[Microsoft Azure|Azure]] OpenAI Studio.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-can-gpt-models-do?u=76281980&t=18)** I'm going to go through some demos.
 >
@@ -680,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Analogies:** imagine (2), for example (2)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (2)
@@ -688,12 +677,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Which model should I choose?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980)
+#### [Which model should I choose?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=0)** - [Instructor] You might have heard about ChatGPT, GPT-4, and so on.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=0)** - [Instructor] You might have heard about [[ChatGPT]], [[GPT-4]], and so on.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=4)** Now, there's all these different types of models.
 >
@@ -711,9 +699,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=34)** At that point of time, these models were not so known yet and it was mostly researched by OpenAI.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=41)** GPT-2 is a deep learning model with over 1.5 billion parameters.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=41)** GPT-2 is a [[Deep Learning]] model with over 1.5 billion parameters.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=46)** This means that, for every list of tokens you give to the model, 1.5 billion parameters are calculated to check what the best next token will be.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=46)** This means that, for every list of [[Tokens]] you give to the model, 1.5 billion parameters are calculated to check what the best next token will be.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/which-model-should-i-choose?u=76281980&t=56)** To be clear, these are hyperparameters that are automatically generated.
 >
@@ -775,15 +763,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (5), [[Tokens]] (3), [[ChatGPT]] (2), data (2), power (2)
+> **Frameworks & Libraries:** [[GPT-4]] (5), [[Tokens]] (3), [[ChatGPT]] (2), [[Deep Learning]] (1)
 > **Env Vars:** gpt (18)
 > **Versions:** 1.5 (3), 3.5 (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The important role of prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980)
+#### [The important role of prompt engineering](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,11 +782,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=16)** The following definition generated by a language model provides a concise explanation.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=22)** "Prompt engineering refers to the process of designing and refining prompts or instructions given to a language model.
+> **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=22)** "[[Prompt Engineering]] refers to the process of designing and refining prompts or instructions given to a language model.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=30)** It involves formulating clear and specific instructions to the elicit the desired responses from the model."
 >
-> **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=37)** Now to delve into the matter further, let's visit the Azure OpenAI studio and explore the process of enhancing prompts.
+> **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=37)** Now to delve into the matter further, let's visit the [[Microsoft Azure|Azure]] OpenAI studio and explore the process of enhancing prompts.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=45)** In the OpenAI studio we go into the playground section and choose for completion.
 >
@@ -853,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=181)** We're going to remove the answer we had received.
 >
-> **[3:06](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=186)** And what we're going to do is on the site we see parameters and one of them is the max length of tokens.
+> **[3:06](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=186)** And what we're going to do is on the site we see parameters and one of them is the max length of [[Tokens]].
 >
 > **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=193)** Now 250 tokens is not that much.
 >
@@ -877,7 +864,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=238)** What we would prefer is actually a structured information set.
 >
-> **[4:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=243)** So let's say we want to get this in a specific JSON format.
+> **[4:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=243)** So let's say we want to get this in a specific [[JSON]] format.
 >
 > **[4:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/the-important-role-of-prompt-engineering?u=76281980&t=248)** We're going to say add to the prompt, respond in following.
 >
@@ -919,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[JSON]] (5), [[Prompt Engineering]] (3), [[Tokens]] (3), application (3)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Prompt Engineering]] (3), [[Tokens]] (3), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** json (5), gpt (3), api (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), refers to (1)
@@ -933,8 +920,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are embeddings?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980)
+#### [What are embeddings?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980&t=62)** They will convert the text into a vector of numbers, but it's a bit more than just numbers, it's relationships.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980&t=70)** 'Cause if you think about the relationship between the word cow and the word bull, we will know that they are quite similar and that these words belong to each other.
+> **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980&t=70)** 'Cause if you think about the relationship between the [[Microsoft Word|word]] cow and the word bull, we will know that they are quite similar and that these words belong to each other.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980&t=80)** But if you think about the relationship of the words cow and chicken, although they're both animals, the distance between those numbers that needs to be generated will be farther away from each other than between a bull and a cow.
 >
@@ -986,11 +972,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Model capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980)
+#### [Model capabilities](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,9 +1009,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=96)** Now there's a mathematical solution for this, which is called cosine similarity.
 >
-> **[1:40](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=100)** This is a function that can be used for an example Python that calculates the distance between different embeddings and gives you back a quantitative estimate of the similarity between documents or sentences based on their embeddings.
+> **[1:40](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=100)** This is a function that can be used for an example [[Python (Programming Language)|Python]] that calculates the distance between different embeddings and gives you back a quantitative estimate of the similarity between documents or sentences based on their embeddings.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=115)** Where in the past people were looking into word counts to calculate similarity word count as heavily related to the size of the document.
+> **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=115)** Where in the past people were looking into [[Microsoft Word|word]] counts to calculate similarity word count as heavily related to the size of the document.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=123)** If you make use of embeddings, each document will have the same amount of values.
 >
@@ -1046,35 +1031,34 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=180)** A third one is clustering documents.
 >
-> **[3:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=183)** Again, we're looking here into an example where a vector only exists out of two fields, but with algorithms like K-means we can find clusters of similar documents.
+> **[3:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=183)** Again, we're looking here into an example where a vector only exists out of two fields, but with [[Algorithms]] like K-means we can find clusters of similar documents.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=194)** Each cluster will have a centroid, which is its middle point, and will figure out what document is the closest to it.
 >
 > **[3:21](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=201)** Embeddings are very powerful.
 >
-> **[3:23](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=203)** They are the power behind NLP engines and without embeddings, search providers like Bing and Google would not work as well as they do right now.
+> **[3:23](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/model-capabillities?u=76281980&t=203)** They are the power behind NLP engines and without embeddings, search providers like Bing and [[Google]] would not work as well as they do right now.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), [[Google]] (1)
 > **CLI Commands:** make (4), python (1), find (1)
 > **Definitions:** means that (1), is called (1), is a  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use embeddings for a semantic search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980)
+#### [How to use embeddings for a semantic search](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=0)** - [Instructor] Let's go into an example of how to use embeddings for semantic search.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=0)** - [Instructor] Let's go into an example of how to use embeddings for [[Semantic Search]].
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=5)** Instead of going to the Azure OpenAI studio, we will go straight into some codes because embeddings is very technical.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=5)** Instead of going to the [[Microsoft Azure|Azure]] OpenAI studio, we will go straight into some codes because embeddings is very technical.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=13)** So what you see here is a Jupyter Notebook.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=16)** This is a way of programming Python code in an interactive way.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=16)** This is a way of programming [[Python (Programming Language)|Python]] code in an interactive way.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=21)** So the first thing we'll need to do is import some libraries.
 >
@@ -1120,7 +1104,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=180)** But of course, again, there's a price linked to that.
 >
-> **[3:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=184)** Now, each of these models also have some limitations of the number of tokens that it can handle.
+> **[3:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=184)** Now, each of these models also have some limitations of the number of [[Tokens]] that it can handle.
 >
 > **[3:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-to-use-embeddings-for-semantic-search?u=76281980&t=190)** Now, most of them can handle over 2000 tokens, but how do you know how many tokens you actually have in your document?
 >
@@ -1196,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tokens]] (6), [[Microsoft Azure|Azure]] (5), next (3), [[Semantic Search]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[Microsoft Azure|Azure]] (5), [[Semantic Search]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** api (1), csv (1)
@@ -1210,12 +1194,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are DALL·E models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980)
+#### [What are DALL·E models?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980&t=0)** - [Instructor] DALL-E named after the artist, Salvador Dali, and the Disney character, Wall-E, generates unique and creative images from textual descriptions.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980&t=0)** - [Instructor] [[DALL-E]] named after the artist, Salvador Dali, and the Disney character, Wall-E, generates unique and creative images from textual descriptions.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980&t=10)** DALL-E models convert text commands into images.
 >
@@ -1237,13 +1220,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (5), data (2)
+> **Frameworks & Libraries:** [[DALL-E]] (5)
 > **Env Vars:** dall (5)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How image generation models work
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980)
+#### [How image generation models work](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=26)** And once we have the image embedding, we can send it to an image decoder, which will generate the image we requested.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=34)** Now the text embedding that is used is not the classic text embedding that also is available in the Azure OpenAI service.
+> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=34)** Now the text embedding that is used is not the classic text embedding that also is available in the [[Microsoft Azure|Azure]] OpenAI service.
 >
 > **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=42)** The one that is used is called CLIP, contrastive language image pre-training, which actually does the opposite of generating an image.
 >
@@ -1269,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=60)** It is trained in two parts, an image part, and a text part.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=64)** In a training process, it learns to predict which images match with which text in a big data set.
+> **[1:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=64)** In a training process, it learns to predict which images match with which text in a [[Big Data]] set.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=71)** After this training, CLIP becomes a special kind of classifier called a zero-shot classifier.
 >
@@ -1293,23 +1275,22 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=128)** The problem is that a classic diffusion model trained on a CAT dataset will constantly generate photorealistic images without being able to make any changes.
 >
-> **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=140)** Now GLIDE augments the training process of diffusion model by adding textual embeddings and this results in textual conditional image generation.
+> **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-it-works?u=76281980&t=140)** Now GLIDE augments the training process of diffusion model by adding textual embeddings and this results in textual [[Conditional Image Generation]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Microsoft Azure|Azure]] (1), ai (1), [[Big Data]] (1), [[Conditional Image Generation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Big Data]] (1), [[Conditional Image Generation]] (1)
 > **Env Vars:** clip (4), cat (1), glide (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
 > **CLI Commands:** find (1), cat (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980)
+#### [Examples of use cases](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=0)** - [Instructor] Let's have a look now at a couple of examples of how you can use Dall-E.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=0)** - [Instructor] Let's have a look now at a couple of examples of how you can use [[DALL-E]].
 >
 > **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=4)** Now it's interesting to know also that Dall-E has two different functionalities.
 >
@@ -1319,7 +1300,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=23)** And based on the prompt, that picture will be manipulated with your request.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=28)** Now since the Dall-E 2 model is in a limited private preview on the Azure OpenAI Services, we will not go to the Azure OpenAI studio, but to the Bing Create web application, which is a public available app that has been integrated with Dall-E and is freely available.
+> **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=28)** Now since the Dall-E 2 model is in a limited private preview on the [[Microsoft Azure|Azure]] OpenAI Services, we will not go to the Azure OpenAI studio, but to the Bing Create web application, which is a public available app that has been integrated with Dall-E and is freely available.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/examples-of-use-cases?u=76281980&t=46)** Once you're on the website, you can immediately start prompting to generate pictures.
 >
@@ -1365,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[DALL-E]] (4), [[Microsoft Azure|Azure]] (2), web application (1)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Microsoft Azure|Azure]] (2)
 > **Analogies:** picture (10)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
@@ -1377,8 +1358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are audio models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980)
+#### [What are audio models?](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980&t=60)** And for interactive chat bots that you can talk to.
 >
-> **[1:05](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980&t=65)** Azure provides services that make it easy to use audio AI.
+> **[1:05](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980&t=65)** [[Microsoft Azure|Azure]] provides services that make it easy to use audio AI.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980&t=69)** In Azure OpenAI service, there's a whisper model from OpenAI for speech to text.
 >
@@ -1420,14 +1400,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), ai (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** tts (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Converting speech to text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-speech-to-text?u=76281980)
+#### [Converting speech to text](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-speech-to-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1435,7 +1414,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-speech-to-text?u=76281980&t=7)** So let's have a look how we can implement this in our application.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-speech-to-text?u=76281980&t=11)** Before we go on, we will start going initially to our model catalog where we will filter the interference tasks and we'll look for speech recognition.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-speech-to-text?u=76281980&t=11)** Before we go on, we will start going initially to our model catalog where we will filter the interference tasks and we'll look for [[Speech Recognition]].
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-speech-to-text?u=76281980&t=22)** And you'll notice at the moment there's only one model that does that.
 >
@@ -1479,7 +1458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Speech Recognition]] (1), api (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (2), install (1)
 > **Tools:** visual studio (1), jupyter (1)
@@ -1487,8 +1466,7 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting text to speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980)
+#### [Converting text to speech](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1498,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=13)** So let's dive in and see how we can do this in code.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=17)** But first of all, we need to go back to our Azure AI foundry because we need to deploy our text to speech model.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=17)** But first of all, we need to go back to our [[Azure AI Foundry]] because we need to deploy our text to speech model.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=25)** So in the inference task, we filter on audio generation, and you will notice we have a couple of models.
 >
@@ -1516,7 +1494,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=63)** We actually need only this part, and we need our key.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=68)** So copy those ones on your side, and then we go straightforward into Visual Studio Code where we fill in our API key because we need to create our Azure OpenAI client.
+> **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=68)** So copy those ones on your side, and then we go straightforward into Visual Studio Code where we fill in our API key because we need to create our [[Microsoft Azure|Azure]] OpenAI client.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=80)** We set our endpoint, we define the deployment, which was TTS.
 >
@@ -1532,7 +1510,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=115)** So you can generate an MP3 flag WAV, but also just a stream of data.
 >
-> **[2:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=122)** And then we're just creating here a Python display to be able to visualize or listen to the audio.
+> **[2:02](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=122)** And then we're just creating here a [[Python (Programming Language)|Python]] display to be able to visualize or listen to the audio.
 >
 > **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/converting-text-to-speech?u=76281980&t=130)** So when I execute this...
 >
@@ -1550,7 +1528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (1), api (1), [[Microsoft Azure|Azure]] (1), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (1), [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** tts (4), uri (1), api (1), mp3 (1), wav (1)
 > **Speakers:** - [instructor] (3), - [onyx] (1), - [ai (1)
 > **CLI Commands:** make (1), python (1)
@@ -1559,18 +1537,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
 
-#### Audio chat with a chat model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980)
+#### [Audio chat with a chat model](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=0)** - [Instructor] And last but not least, we have the real-time audio models.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=0)** - [Instructor] And last but not least, we have the [[Real-Time]] audio models.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=4)** These powerful models combine the power of chat models with text-to-speech and speech-to-text.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=10)** They're so blazing fast in transcribing and generating audio that it could feel like you're talking to a human.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=18)** So let's go back to the Azure AI foundry and see how we can make use of them.
+> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=18)** So let's go back to the [[Azure AI Foundry]] and see how we can make use of them.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=23)** In the AI Foundry, we go back to our model catalog, we click on Inference Tasks and choose for the option Audio Generation.
 >
@@ -1582,21 +1559,21 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=51)** We have our endpoint and we have our key.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=53)** Now, instead of going into codes, I want to share with you an repository on GitHub, because this audio real-time is very complex.
+> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=53)** Now, instead of going into codes, I want to share with you an repository on [[GitHub]], because this audio real-time is very complex.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=64)** Now, if you look at the schematic of this repository of how things work, the first thing is, is that as a user, you need to create a connection to the Azure OpenAI service because you are sending constant audio information towards that service.
+> **[1:04](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=64)** Now, if you look at the schematic of this repository of how things work, the first thing is, is that as a user, you need to create a connection to the [[Microsoft Azure|Azure]] OpenAI service because you are sending constant audio information towards that service.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=82)** And then the other way around, it will constantly also send you audio back.
 >
 > **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=87)** So you're making use of web sockets to be able to make this constant communication between the two parties.
 >
-> **[1:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=94)** So creating this in a little Python script is not that easy, therefore, I want to share with you this repository where you can find the link here on the screen as well.
+> **[1:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=94)** So creating this in a little [[Python (Programming Language)|Python]] script is not that easy, therefore, I want to share with you this repository where you can find the link here on the screen as well.
 >
 > **[1:45](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=105)** But what we can do is if we go back to our AI foundry, we go to our real-time audio, we have here our deployments.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=117)** So we have our mini real-time preview, we can choose a voice, let's say Coral, and we can start talking with the correct microphone on.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=130)** And now ChatGPT or how you want to call him, actually answers to the questions like, what's the capital of France?
+> **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=130)** And now [[ChatGPT]] or how you want to call him, actually answers to the questions like, what's the capital of France?
 >
 > **[2:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/audio-chat-with-a-chat-model?u=76281980&t=139)** - [AI Assistant] It sounds like you're asking about the different ways to say friend in various languages.
 >
@@ -1626,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (8), ai (5), power (1), [[Azure AI Foundry]] (1), data (1)
+> **Frameworks & Libraries:** [[Real-Time]] (8), [[Azure AI Foundry]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - [instructor] (4), - [ai (3)
 > **CLI Commands:** make (4), python (1), find (1)
 > **Cross-References:** go back to (4)
@@ -1638,12 +1615,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be careful
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980)
+#### [Be careful](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=0)** - [Instructor] If you look to the legal side of these large language models, there's actually two questions that we need to ask.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=0)** - [Instructor] If you look to the legal side of these [[Large Language Models (LLM)|large language models]], there's actually two questions that we need to ask.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=7)** The first one is, is it okay that companies make use of public data to train these large language models?
 >
@@ -1651,7 +1627,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=19)** So let's go a little bit more in depth.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=22)** Language models like ChatGPT are typically trained on large amounts of publicly available text from sources such as news websites, blogs, books, and other internet sources.
+> **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=22)** Language models like [[ChatGPT]] are typically trained on large amounts of publicly available text from sources such as news websites, blogs, books, and other internet sources.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=34)** However, it is important to note that while large language models can generate text that may resemble sentences from these sources, they do not have direct access to the specific copyrighted works themself.
 >
@@ -1669,7 +1645,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=106)** But what about the ownership of the generated data?
 >
-> **[1:50](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=110)** The ownership of copyrights for generative AI content can be a complex issue and may vary depending on several factors, including jurisdiction and the specific circumstances surrounding the creation and use of the content.
+> **[1:50](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=110)** The ownership of copyrights for [[Generative AI]] content can be a complex issue and may vary depending on several factors, including jurisdiction and the specific circumstances surrounding the creation and use of the content.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980&t=126)** In general, the question of ownership is determined by existing copyright laws and agreements.
 >
@@ -1687,23 +1663,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), data (3), [[ChatGPT]] (3), [[Generative AI]] (3), ai (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[ChatGPT]] (3), [[Generative AI]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### More ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980)
+#### [More ideas](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=0)** - [Instructor] In this course, we discussed the four main OpenAI model types that Microsoft offers on the Azure platform.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=0)** - [Instructor] In this course, we discussed the four main OpenAI model types that [[Microsoft]] offers on the [[Microsoft Azure|Azure]] platform.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=7)** We've discussed already quite some use cases, but let's go over just a couple of more before we end this training.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=14)** Generative AI can be very useful in the music industry.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=14)** [[Generative AI]] can be very useful in the music industry.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=18)** Have you ever tried to ask ChatGPT to write lyrics?
+> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=18)** Have you ever tried to ask [[ChatGPT]] to write lyrics?
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=22)** You can even ask to write lyrics in a particular style.
 >
@@ -1723,7 +1698,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=65)** But what about your marketing automation?
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=67)** We could use the GPT models to generate IDs for social media posts, but with, for example, Dall-E, we can ask it to generate also images linked to our posts.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=67)** We could use the GPT models to generate IDs for social media posts, but with, for example, [[DALL-E]], we can ask it to generate also images linked to our posts.
 >
 > **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=78)** Or maybe we can even use these models to replace pictures we normally buy from marketplaces.
 >
@@ -1731,7 +1706,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=87)** Have you heard about the AI issue of "Cosmopolitan"?
 >
-> **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=90)** It was released a few months ago and made history as the first printed magazine to feature a cover designed by artificial intelligence.
+> **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=90)** It was released a few months ago and made history as the first printed magazine to feature a cover designed by [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:39](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/more-ideas?u=76281980&t=99)** Now, after exploring the various possibilities that exist, it's understandable that you may desire to delve even deeper.
 >
@@ -1743,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Generative AI]] (1), [[ChatGPT]] (1), [[DALL-E]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **URLs:** [aisongcontest.com](https://aisongcontest.com) (1)
 > **Env Vars:** gpt (1)

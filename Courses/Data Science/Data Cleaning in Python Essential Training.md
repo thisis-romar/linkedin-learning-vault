@@ -101,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why is clean data important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980)
+#### [Why is clean data important?](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980&t=8)** It is estimated that data scientists spend between 80 to 90% of their time cleaning data.
 >
-> **[0:15](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980&t=15)** Lucky for you, Pandas and Python are great tools for cleaning data.
+> **[0:15](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980&t=15)** Lucky for you, [[Pandas (Software)|Pandas]] and [[Python (Programming Language)|Python]] are great tools for cleaning data.
 >
 > **[0:21](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980&t=21)** In this course, we'll cover many methods of cleaning data.
 >
@@ -122,20 +121,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [miki] (1)
 
-#### Using Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980)
+#### [Using Codespaces](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=0)** - [Instructor] This is Ravi Del Lobos senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Code Spaces.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=0)** - [Instructor] This is Ravi Del Lobos senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] Code Spaces.
 >
 > **[0:09](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=9)** Code Spaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=19)** This course was created using GitHub code spaces.
 >
@@ -203,7 +201,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=195)** As you work through a course you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=199)** I'm going to make a minor edit on the index html file right here.
+> **[3:19](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=199)** I'm going to make a minor edit on the index [[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -243,7 +241,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=334)** You can also let it go ahead and run, get fetch.
+> **[5:34](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=334)** You can also let it go ahead and run, get [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/what-you-should-know?u=76281980&t=337)** That way it'll automatically sync with your forked repo.
 >
@@ -259,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1), power (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1), [[Fetch]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (3), click on (2), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -273,8 +271,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/types-of-errors?u=76281980)
+#### [Types of errors](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/types-of-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,14 +295,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980)
+#### [Missing values](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=19)** Let's load the data.
 >
-> **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=20)** So we import pandas as pd.
+> **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=20)** So we import [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:25](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=25)** And then we load the data frame and read in the data.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=53)** Pandas is trying to use the right missing value per type.
 >
-> **[0:57](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=57)** Pandas also treat Python's none as a missing value.
+> **[0:57](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=57)** Pandas also treat [[Python (Programming Language)|Python]]'s none as a missing value.
 >
 > **[1:03](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/missing-values?u=76281980&t=63)** If you look at the amount column, you will see that it is a float.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), python (1)
 > **Code Identifiers:** parse_dates (1)
 > **Env Vars:** csv (1)
@@ -384,8 +379,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bad values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980)
+#### [Bad values](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=25)** Let's load it up.
 >
-> **[0:26](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=26)** So we start by importing pandas as pd, and I'm going to hide the bar on the left side.
+> **[0:26](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=26)** So we start by importing [[Pandas (Software)|pandas]] as pd, and I'm going to hide the bar on the left side.
 >
 > **[0:35](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=35)** And now, I'm going to read a CSV and parse the time column as date.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=45)** And we see some memory, some cpus, and some values.
 >
-> **[0:50](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=50)** Let's use groupby to have a look at statistics per metric.
+> **[0:50](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=50)** Let's use groupby to have a look at [[Statistics]] per metric.
 >
 > **[0:53](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/bad-values?u=76281980&t=53)** So let's run the cell, groupby name and describe.
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (7)
 > **Env Vars:** cpu (4), csv (2)
 > **Definitions:** is a  (3)
@@ -469,8 +463,7 @@ created: 2026-05-02
 > **Versions:** 32.14 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/duplicates?u=76281980)
+#### [Duplicates](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/duplicates?u=76281980&t=19)** Let's load it up.
 >
-> **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/duplicates?u=76281980&t=20)** So we import pandas as pd and I'm going to hide the left column.
+> **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/duplicates?u=76281980&t=20)** So we import [[Pandas (Software)|pandas]] as pd and I'm going to hide the left column.
 >
 > **[0:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/duplicates?u=76281980&t=28)** And now we're going to read the csv passing the date column as date.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Pandas (Software)|Pandas]] (2), database (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Versions:** 1.70 (1), 1.20 (1)
 > **Definitions:** is a  (1), we call this (1)
 > **CLI Commands:** make (1)
@@ -519,8 +512,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Human errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/human-errors?u=76281980)
+#### [Human errors](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/human-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,14 +542,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/machine-errors?u=76281980)
+#### [Machine errors](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/machine-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,14 +571,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** bmi (1), ntp (1)
 > **CLI Commands:** make (1)
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/design-errors?u=76281980)
+#### [Design errors](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/design-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/design-errors?u=76281980&t=20)** For example, when we talk about payments, you can say that the payment has both the currency and the amount.
 >
-> **[0:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/design-errors?u=76281980&t=28)** And this will help the UI design with the data validation.
+> **[0:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/design-errors?u=76281980&t=28)** And this will help the UI design with the [[Data Validation]].
 >
 > **[0:31](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/design-errors?u=76281980&t=31)** You can go further and say that the amount must be bigger than zero.
 >
@@ -612,15 +600,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: UI design
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-ui-design?u=76281980)
+#### [Challenge: UI design](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-ui-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,8 +623,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: UI design
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-ui-design?u=76281980)
+#### [Solution: UI design](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-ui-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,16 +652,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980)
+#### [Schemas](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=0)** - [Instructor] A Schema defines constraints and relationships in your data.
 >
-> **[0:05](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=5)** Some formats such as JSON, do not have a formal schema.
+> **[0:05](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=5)** Some formats such as [[JSON]], do not have a formal schema.
 >
-> **[0:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=10)** Others like Protocol Buffers, do have a schema.
+> **[0:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=10)** Others like [[Protocol Buffers]], do have a schema.
 >
 > **[0:15](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=15)** Even if your data does not have a formal schema it is still out there as your assumptions about what is valid data.
 >
@@ -701,19 +686,19 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=70)** If you have control over the data pipeline you can use tools such as JSON Schema, a database schema or even validation specific language like CUE.
 >
-> **[1:22](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=82)** Or in Python, you can use libraries such as pydantic and marshmallow.
+> **[1:22](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=82)** Or in [[Python (Programming Language)|Python]], you can use libraries such as pydantic and marshmallow.
 >
 > **[1:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=88)** In my experience, eventually you will write your own validation code at one point or another, and none of these tools will cover all of your needs.
 >
 > **[1:39](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=99)** Let's load the data and have a look at the types.
 >
-> **[1:42](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=102)** So import pandas as pd and then we are going to read the csv file.
+> **[1:42](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=102)** So import [[Pandas (Software)|pandas]] as pd and then we are going to read the csv file.
 >
 > **[1:51](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=111)** And now we are going to run the df.dtypes which shows us the data type per column.
 >
 > **[2:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=120)** And we see that the name is an object, which means a string in pandas and then the latitude and longitude are floating points.
 >
-> **[2:09](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=129)** Let's have a look at what an SQL schema might look like for this kind of data.
+> **[2:09](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=129)** Let's have a look at what an [[SQL]] schema might look like for this kind of data.
 >
 > **[2:14](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980&t=134)** So the name is a text and latitude and longitudes are floats.
 >
@@ -723,15 +708,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[JSON]] (2), [[Pandas (Software)|Pandas]] (2), [[SQL]] (2), [[Protocol Buffers]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Pandas (Software)|Pandas]] (2), [[SQL]] (2), [[Protocol Buffers]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** json (2), sql (2), null (2), cue (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/validation?u=76281980)
+#### [Validation](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/validation?u=76281980&t=15)** Here's our ship data with the name, the latitude, and the longitude.
 >
-> **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/validation?u=76281980&t=20)** First, let's start by importing pandas and loading the csv.
+> **[0:20](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/validation?u=76281980&t=20)** First, let's start by importing [[Pandas (Software)|pandas]] and loading the csv.
 >
 > **[0:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/validation?u=76281980&t=28)** And we see we have the names, and the latitude, and the longitude.
 >
@@ -773,13 +757,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/finding-missing-data?u=76281980)
+#### [Finding missing data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/finding-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +778,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/finding-missing-data?u=76281980&t=26)** Let's find rows with missing data.
 >
-> **[0:29](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/finding-missing-data?u=76281980&t=29)** So we input pandas as pd and load using read_csv the CSV file.
+> **[0:29](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/finding-missing-data?u=76281980&t=29)** So we input [[Pandas (Software)|pandas]] as pd and load using read_csv the CSV file.
 >
 > **[0:35](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/finding-missing-data?u=76281980&t=35)** And I'm going to hide the bar on the left.
 >
@@ -859,7 +842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (4), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** locations.csv (1)
@@ -868,8 +851,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
 
-#### Domain knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/domain-knowledge?u=76281980)
+#### [Domain knowledge](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/domain-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +867,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/domain-knowledge?u=76281980&t=29)** Let's load the data and add this domain knowledge.
 >
-> **[0:33](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/domain-knowledge?u=76281980&t=33)** So ships.py, we first import pandas as pd, and read the csv.
+> **[0:33](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/domain-knowledge?u=76281980&t=33)** So ships.py, we first import [[Pandas (Software)|pandas]] as pd, and read the csv.
 >
 > **[0:38](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/domain-knowledge?u=76281980&t=38)** So, run the cell.
 >
@@ -905,14 +887,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (2)
 > **File Paths:** ships.py (1)
 > **Code Identifiers:** element_wise (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subgroups
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/subgroups?u=76281980)
+#### [Subgroups](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/subgroups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/subgroups?u=76281980&t=11)** It does start from here.
 >
-> **[0:12](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/subgroups?u=76281980&t=12)** So we import pandas and reading the csv.
+> **[0:12](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/subgroups?u=76281980&t=12)** So we import [[Pandas (Software)|pandas]] and reading the csv.
 >
 > **[0:17](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/subgroups?u=76281980&t=17)** And I'm going to hide the left column.
 >
@@ -952,20 +933,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (3)
 > **Versions:** 107.1 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Copilot to build schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/using-copilot-to-build-schema?u=76281980)
+#### [Using Copilot to build schema](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/using-copilot-to-build-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/using-copilot-to-build-schema?u=76281980&t=0)** - [Instructor] Nowadays, we also have AI to help us.
 >
-> **[0:03](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/using-copilot-to-build-schema?u=76281980&t=3)** So in Visual Studio Code, you can click on the Copilot button and get a new chat.
+> **[0:03](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/using-copilot-to-build-schema?u=76281980&t=3)** So in Visual Studio Code, you can click on the [[Microsoft Copilot|Copilot]] button and get a new chat.
 >
 > **[0:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/using-copilot-to-build-schema?u=76281980&t=10)** And here now, you can ask it something.
 >
@@ -995,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (1), go to (1)
 > **File Paths:** ships.csv (1)
@@ -1003,8 +983,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find bad data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-find-bad-data?u=76281980)
+#### [Challenge: Find bad data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-find-bad-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,19 +1003,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Find bad data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-find-bad-data?u=76281980)
+#### [Solution: Find bad data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-find-bad-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-find-bad-data?u=76281980&t=5)** - Let's have a look at my solution.
 >
-> **[0:07](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-find-bad-data?u=76281980&t=7)** First, we're going to input pandas and read the csv.
+> **[0:07](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-find-bad-data?u=76281980&t=7)** First, we're going to input [[Pandas (Software)|pandas]] and read the csv.
 >
 > **[0:12](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-find-bad-data?u=76281980&t=12)** And now for every constraint I'm going to create a mask.
 >
@@ -1068,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Speakers:** - let (1)
 
 
@@ -1076,8 +1053,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Serialization formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980)
+#### [Serialization formats](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,17 +1061,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=4)** Some serialization formats such as CSV are only text.
 >
-> **[0:11](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=11)** When Pandas reads from a CSV file, it'll guess the types.
+> **[0:11](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=11)** When [[Pandas (Software)|Pandas]] reads from a CSV file, it'll guess the types.
 >
 > **[0:15](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=15)** In some cases, such in time columns, you'll need to explicitly tell Pandas which columns to convert.
 >
-> **[0:24](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=24)** Some civilization format such as JSON have types.
+> **[0:24](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=24)** Some civilization format such as [[JSON]] have types.
 >
 > **[0:30](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=30)** However, JSON has only a single numerical type.
 >
 > **[0:36](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=36)** JSON also don't have a schema embedded in the data, which means you will need an external schema to tell you if the data is valid.
 >
-> **[0:45](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=45)** The best utilization formats have both types and a formal schema, such as SQL.
+> **[0:45](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=45)** The best utilization formats have both types and a formal schema, such as [[SQL]].
 >
 > **[0:53](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980&t=53)** We're going to have a look at the Apache Parquet format, which is a binary format with types and a schema.
 >
@@ -1125,7 +1101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (3), [[JSON]] (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[JSON]] (3), [[SQL]] (1)
 > **Env Vars:** json (3), csv (2), sql (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1133,8 +1109,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [narrator] (1)
 
-#### Digital signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/digital-signature?u=76281980)
+#### [Digital signature](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/digital-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1125,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/digital-signature?u=76281980&t=32)** Pick one that is secure, and depending on your performance goals, not too slow.
 >
-> **[0:37](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/digital-signature?u=76281980&t=37)** Python Standard Library has most of the hashes and digital digests in the hashlib model.
+> **[0:37](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/digital-signature?u=76281980&t=37)** [[Python (Programming Language)|Python]] Standard Library has most of the hashes and digital digests in the hashlib model.
 >
 > **[0:44](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/digital-signature?u=76281980&t=44)** But for others, let's say the CRC32, you will need to use a different library.
 >
@@ -1178,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** crc32 (2), md5 (1), sha1 (1), sha256 (1)
 > **Tools:** command line (2), terminal (2)
 > **Analogies:** such as (2)
@@ -1187,14 +1162,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - files (1)
 
-#### Data pipelines and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980)
+#### [Data pipelines and automation](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=0)** - [Narrator] Data pipeline is a series of steps each consuming input and producing output.
 >
-> **[0:07](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=7)** There are many systems for creating data pipelines such as apache airflow.
+> **[0:07](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=7)** There are many systems for creating [[Data Pipelines]] such as [[Apache Airflow]].
 >
 > **[0:16](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=16)** Writing your own is not that hard but I recommend investing time in an existing one.
 >
@@ -1202,7 +1176,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=32)** Some data pipeline systems also allow you to resume a pipeline from the middle, which can save you a lot of time.
 >
-> **[0:41](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=41)** When designing data pipelines, it's important to add data validation and cleaning into the pipeline.
+> **[0:41](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=41)** When designing data pipelines, it's important to add [[Data Validation]] and cleaning into the pipeline.
 >
 > **[0:48](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=48)** Once you have these in place, you can quickly detect errors and stop the pipeline.
 >
@@ -1228,7 +1202,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=87)** This is the database we're going to use.
 >
-> **[1:29](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=89)** It's small embedded database, pandas and Invoke.
+> **[1:29](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=89)** It's small embedded database, [[Pandas (Software)|pandas]] and Invoke.
 >
 > **[1:33](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=93)** We define a function to load the CSV from the file.
 >
@@ -1246,7 +1220,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=122)** We extract the data from the CSV, transform it, for example timestamps, and then load it into the database.
 >
-> **[2:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=130)** So we load the CSV, we validate, we create a database file we connect to it with sqlite, and we use the data frame to SQL into the right table with a connection.
+> **[2:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=130)** So we load the CSV, we validate, we create a database file we connect to it with sqlite, and we use the data frame to [[SQL]] into the right table with a connection.
 >
 > **[2:23](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-pipelines-and-automation?u=76281980&t=143)** Don't store the index of the database.
 >
@@ -1286,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (6), etl (4), [[Pandas (Software)|Pandas]] (2), [[Apache Airflow]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (2), [[Pandas (Software)|Pandas]] (2), [[Apache Airflow]] (1), [[Data Validation]] (1), [[SQL]] (1)
 > **Env Vars:** csv (8), etl (4), sql (1)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Tools:** terminal (3), command line (1)
@@ -1295,20 +1269,19 @@ created: 2026-05-02
 > **File Paths:** rides.csv (1)
 > **Speakers:** - [narrator] (1)
 
-#### Transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980)
+#### [Transactions](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=0)** - There are many ways why I like relational databases.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=0)** - There are many ways why I like [[Relational Databases]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=4)** They are an old and established technology.
 >
 > **[0:07](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=7)** There's a lot of knowledge and tooling around them.
 >
-> **[0:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=10)** They provide a schema and you can query data with SQL, which a lot of people know.
+> **[0:10](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=10)** They provide a schema and you can query data with [[SQL]], which a lot of people know.
 >
-> **[0:17](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=17)** But one of the most important features when talking about data pipelines is transactions.
+> **[0:17](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=17)** But one of the most important features when talking about [[Data Pipelines]] is transactions.
 >
 > **[0:23](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/transactions?u=76281980&t=23)** A transaction mean either all of your changes go in or none of it.
 >
@@ -1360,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (3), [[SQL]] (2), [[Relational Databases]] (1), etl (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Relational Databases]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** sql (2), etl (1), csv (1), select (1)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** cd (1), sqlite3 (1)
@@ -1369,8 +1342,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - there (1)
 
-#### Data organization and tidy data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-organization-and-tidy-data?u=76281980)
+#### [Data organization and tidy data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-organization-and-tidy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,7 +1350,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-organization-and-tidy-data?u=76281980&t=6)** I worked with companies that had no idea what some columns mean and how the data in them got populated.
 >
-> **[0:14](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-organization-and-tidy-data?u=76281980&t=14)** You need to think about your data structures, relations, and more, and actively maintain your data schema.
+> **[0:14](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-organization-and-tidy-data?u=76281980&t=14)** You need to think about your [[Data Structures]], relations, and more, and actively maintain your data schema.
 >
 > **[0:21](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/data-organization-and-tidy-data?u=76281980&t=21)** One good way to organize data, known as Tidy Data, also, narrow data.
 >
@@ -1396,19 +1368,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Env Vars:** cpu (2)
 > **Definitions:** known as (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Process and data quality metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/process-and-data-quality-metrics?u=76281980)
+#### [Process and data quality metrics](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/process-and-data-quality-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/process-and-data-quality-metrics?u=76281980&t=0)** - Your data will never be 100% okay.
 >
-> **[0:04](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/process-and-data-quality-metrics?u=76281980&t=4)** You need to decide what to do with bad data and set data quality metrics.
+> **[0:04](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/process-and-data-quality-metrics?u=76281980&t=4)** You need to decide what to do with bad data and set [[Data Quality]] metrics.
 >
 > **[0:09](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/process-and-data-quality-metrics?u=76281980&t=9)** You should ask yourself questions, such as what should you do if you have more than a 10% of bad records?
 >
@@ -1444,14 +1415,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **Env Vars:** csv (1)
 > **Speakers:** - your (1)
 
-#### Challenge: ETL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-etl?u=76281980)
+#### [Challenge: ETL](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-etl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1483,15 +1453,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (3), traffic (1), data (1), database (1)
 > **Env Vars:** htp (3), etl (3), csv (1)
 > **CLI Commands:** sqlite3 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: ETL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-etl?u=76281980)
+#### [Solution: ETL](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-etl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,7 +1507,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-etl?u=76281980&t=120)** And then, we're going to Ch04/solution/.
 >
-> **[2:04](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-etl?u=76281980&t=124)** And then, we are going to run python etl.py.
+> **[2:04](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-etl?u=76281980&t=124)** And then, we are going to run [[Python (Programming Language)|python]] etl.py.
 >
 > **[2:09](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-etl?u=76281980&t=129)** We see that we have five bad rows, which are three point nine one percent of the rows, which is still okay.
 >
@@ -1555,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), etl (3), next (1), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** ip_address (3), bad_rows (1), is_valid_row (1), to_sql (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** sqlite3 (2), python (1)
@@ -1569,8 +1537,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Renaming fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/renaming-fields?u=76281980)
+#### [Renaming fields](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/renaming-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1601,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **Env Vars:** tmin (3), tmax (3), date (1)
 > **Code Identifiers:** min_temp (2), max_temp (2)
 > **CLI Commands:** make (2)
@@ -1643,14 +1609,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Fixing types
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/fixing-types?u=76281980)
+#### [Fixing types](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/fixing-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/fixing-types?u=76281980&t=0)** - Such formats, such as CSV, do not have type information.
 >
-> **[0:05](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/fixing-types?u=76281980&t=5)** When pandas loads the data, it will guess what are the data types, but sometimes we need to give it some extra help.
+> **[0:05](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/fixing-types?u=76281980&t=5)** When [[Pandas (Software)|pandas]] loads the data, it will guess what are the data types, but sometimes we need to give it some extra help.
 >
 > **[0:12](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/fixing-types?u=76281980&t=12)** Let's have a look at some data about points and their colors.
 >
@@ -1696,15 +1661,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (3)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Speakers:** - such (1)
 
-#### Joining and splitting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/joining-and-splitting-data?u=76281980)
+#### [Joining and splitting data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/joining-and-splitting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,7 +1688,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/joining-and-splitting-data?u=76281980&t=39)** Let's make it usable.
 >
-> **[0:40](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/joining-and-splitting-data?u=76281980&t=40)** So we start by importing pandas and loading the CSV file.
+> **[0:40](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/joining-and-splitting-data?u=76281980&t=40)** So we start by importing [[Pandas (Software)|pandas]] and loading the CSV file.
 >
 > **[0:46](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/joining-and-splitting-data?u=76281980&t=46)** And we have day, we have time, which is a string, and we have the client.
 >
@@ -1764,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pandas (Software)|Pandas]] (2), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** csv (5)
 > **CLI Commands:** make (2), cat (1)
 > **Code Identifiers:** to_datetime (1)
@@ -1772,8 +1736,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Deleting bad data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/deleting-bad-data?u=76281980)
+#### [Deleting bad data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/deleting-bad-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1807,12 +1770,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Warnings:** note that (1)
 > **Speakers:** - one (1)
 
-#### Filling missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/filling-missing-values?u=76281980)
+#### [Filling missing values](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/filling-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1894,14 +1855,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2)
 > **Definitions:** stands for (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reshaping data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/reshaping-data?u=76281980)
+#### [Reshaping data](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/reshaping-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1915,7 +1874,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/reshaping-data?u=76281980&t=18)** We would like to convert it to a long or narrow format with a single observation per row, what is called also, tidy data.
 >
-> **[0:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/reshaping-data?u=76281980&t=28)** To do that, we are going to use the pandas melt function, which takes the wide format and converting it to a narrow one.
+> **[0:28](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/reshaping-data?u=76281980&t=28)** To do that, we are going to use the [[Pandas (Software)|pandas]] melt function, which takes the wide format and converting it to a narrow one.
 >
 > **[0:37](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/reshaping-data?u=76281980&t=37)** So, here's the metrics.
 >
@@ -1937,17 +1896,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3)
 > **Env Vars:** cpu (2)
 > **Definitions:** known as (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Workshop earnings
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980)
+#### [Challenge: Workshop earnings](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=0)** - [Instructor] Let's say I'm using Excel to track earnings in some workshops.
+> **[0:00](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=0)** - [Instructor] Let's say I'm using [[Microsoft Excel|Excel]] to track earnings in some workshops.
 >
 > **[0:09](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=9)** This is how the Excel looks like.
 >
@@ -1959,7 +1917,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=31)** What I'd like you to do is fix the data frame.
 >
-> **[0:33](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=33)** At the end, each row should have the following columns: a start and an end, which are timestamps in pandas, a name which is a string, a topic which is a string, either Python or Go.
+> **[0:33](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=33)** At the end, each row should have the following columns: a start and an end, which are timestamps in [[Pandas (Software)|pandas]], a name which is a string, a topic which is a string, either [[Python (Programming Language)|Python]] or Go.
 >
 > **[0:47](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/challenge-workshop-earnings?u=76281980&t=47)** And you can get that from the course name.
 >
@@ -1971,15 +1929,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), data (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Workshop earnings
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980)
+#### [Solution: Workshop earnings](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2011,7 +1968,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=68)** Now I'm going to create a timestamp using an F stringing.
 >
-> **[1:12](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=72)** So the month, the day, the year and then I'm using the two day time from Pandas with this generated string and telling it what is the right format.
+> **[1:12](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=72)** So the month, the day, the year and then I'm using the two day time from [[Pandas (Software)|Pandas]] with this generated string and telling it what is the right format.
 >
 > **[1:21](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=81)** You can check the SGF time documentation for all these percent, B percent D percent Y, and other ones.
 >
@@ -2023,7 +1980,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=109)** Next, let's extract the topic.
 >
-> **[1:51](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=111)** So I'm going to look at the name column convert it to lowercase because I have go Python but I have also go in lowercase.
+> **[1:51](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=111)** So I'm going to look at the name column convert it to lowercase because I have go [[Python (Programming Language)|Python]] but I have also go in lowercase.
 >
 > **[1:59](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/solution-workshop-earnings?u=76281980&t=119)** So if go is in the name returning Go.
 >
@@ -2063,7 +2020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (3), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (3)
 > **Env Vars:** csv (1), sgf (1), sdl (1)
 > **Speakers:** - [instructor] (1)
@@ -2073,8 +2030,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2096,7 +2052,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)

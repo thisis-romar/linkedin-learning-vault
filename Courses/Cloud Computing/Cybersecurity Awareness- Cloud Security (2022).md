@@ -75,14 +75,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud security basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980)
+#### [Cloud security basics](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=0)** - Are you a security enthusiast looking to learn more about cloud security?
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=0)** - Are you a security enthusiast looking to learn more about [[Cloud Security]]?
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=6)** Or perhaps you're new to the world of cloud computing altogether.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=6)** Or perhaps you're new to the world of [[Cloud Computing]] altogether.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=10)** Either way, I'm here to teach you the basics of properly securing digital assets in the world of cloud computing.
 >
@@ -90,23 +89,22 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=23)** In this course, you'll learn how to define cloud computing and cloud security.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=28)** I'll also share the most common cybersecurity attacks you should look out for.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=28)** I'll also share the most common [[Cybersecurity]] attacks you should look out for.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=33)** Next, we will deep dive into how cloud security plays a role in three places: at work, at home, and while traveling.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=45)** So join me in my LinkedIn Learning course about cybersecurity awareness and cloud security, and you'll take one step closer to becoming a cloud security guru.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980&t=45)** So join me in my [[LinkedIn]] Learning course about cybersecurity awareness and cloud security, and you'll take one step closer to becoming a cloud security guru.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Security]] (7), [[Cybersecurity]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (6), [[Cloud Computing]] (3), [[Cybersecurity]] (2), [[LinkedIn]] (1)
 > **Speakers:** - are (1)
 
-#### Defining cloud security terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980)
+#### [Defining cloud security terms](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=0)** - Before we can discuss cloud security, it's important that you understand what cloud computing and cloud security are.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=0)** - Before we can discuss [[Cloud Security]], it's important that you understand what [[Cloud Computing]] and cloud security are.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=7)** Let's go over some definitions.
 >
@@ -114,13 +112,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=12)** This is the delivery of different internet services.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=15)** There are a wide variety of different services, including storage and databases that you can access, save, and interact with remotely.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=15)** There are a wide variety of different services, including storage and [[Databases]] that you can access, save, and interact with remotely.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=26)** The way these services are delivered vary and are categorized into three models, software as a service, platform as a service, and infrastructure as a service.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=26)** The way these services are delivered vary and are categorized into three models, [[SaaS|software as a service]], [[PaaS|platform as a service]], and [[IaaS|infrastructure as a service]].
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=37)** Deep diving into all of these models are outside of the scope of this course, but I'm happy to give you an example of a model you're using right this very second.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=47)** This course you are currently watching is being delivered through a software as a service model, built and shared by LinkedIn Learning.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=47)** This course you are currently watching is being delivered through a software as a service model, built and shared by [[LinkedIn]] Learning.
 >
 > **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=55)** So little did you know, you're already taking advantage of the awesome capabilities of cloud computing.
 >
@@ -130,9 +128,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=74)** That's where cloud security comes in.
 >
-> **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=76)** Cloud security can be defined as a set of policies, processes, and technologies, that work together to secure cloud infrastructure and data from any cyber threats.
+> **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=76)** Cloud security can be defined as a set of policies, processes, and technologies, that work together to secure [[Cloud Infrastructure]] and data from any cyber threats.
 >
-> **[1:27](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=87)** Putting these security measures in place isn't easy, but when done right and holistically, it can help an organization achieve continuous protection, support regulatory compliance, and protect user privacy.
+> **[1:27](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=87)** Putting these security measures in place isn't easy, but when done right and holistically, it can help an organization achieve continuous protection, support [[Regulatory Compliance]], and protect user [[Privacy]].
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/defining-cloud-security-terms?u=76281980&t=101)** Many times, cloud security is usually told from an organizational perspective, meaning the focus is how can a security team protect an organization's assets.
 >
@@ -160,18 +158,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Security]] (10), [[SaaS|Software as a service]] (3), data (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (8), [[Cloud Computing]] (4), [[SaaS|Software as a service]] (3), [[Databases]] (1), [[PaaS|Platform as a service]] (1)
 > **Code Identifiers:** iphone (1), icloud (1)
 > **Definitions:** defined as (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - before (1)
 
-#### Understanding the top five attacks in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980)
+#### [Understanding the top five attacks in the cloud](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=0)** - The powerful capabilities of cloud computing comes with its challenges.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=0)** - The powerful capabilities of [[Cloud Computing]] comes with its challenges.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=4)** As technology rises, so does the risk.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=38)** That can include harm to consumers of an organization who've experienced the data breach, regulatory fines and even legal action.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=46)** There are several preventative practices you can incorporate into your cybersecurity strategy, including routine auditing, cybersecurity awareness and education training, implementing encryption and having a comprehensive incident response strategy.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=46)** There are several preventative practices you can incorporate into your [[Cybersecurity]] strategy, including routine auditing, cybersecurity awareness and education training, implementing encryption and having a comprehensive [[Incident Response]] strategy.
 >
 > **[1:05](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=65)** Ransomware attacks are also on the rise and are not forecasted to ease up as threats to an organization in the cloud.
 >
@@ -215,9 +212,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=139)** A third common attack is account hijacking.
 >
-> **[2:23](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=143)** Account hijacking is when a threat actor attempts to gain access to an employee's account by trying to crack their password, or perhaps through an email phishing attempt.
+> **[2:23](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=143)** Account hijacking is when a threat actor attempts to gain access to an employee's account by trying to crack their password, or perhaps through an email [[Phishing]] attempt.
 >
-> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=153)** If this actor is successful, they can take over your account and potentially gain full access to any of the information on your network or cloud infrastructure.
+> **[2:33](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=153)** If this actor is successful, they can take over your account and potentially gain full access to any of the information on your network or [[Cloud Infrastructure]].
 >
 > **[2:42](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=162)** And here's the tricky thing, especially about account hijacking.
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=186)** Also, insecure APIs are fast becoming a popular method for attackers to exploit and gain unauthorized access to data.
 >
-> **[3:14](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=194)** APIs, which stand for application programming interfaces, is a popular way to build and integrate application software.
+> **[3:14](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=194)** APIs, which stand for [[Application Programming Interfaces (API)|application programming interfaces]], is a popular way to build and integrate application software.
 >
 > **[3:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-the-top-five-attacks-in-the-cloud?u=76281980&t=202)** To prevent this from happening to your organization, make sure your IT team has an approval process before an employee can install an application.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), cloud (7), [[Security]] (3), application (3), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Cybersecurity]] (2), [[Incident Response]] (2), [[Phishing]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Prerequisites:** make sure you have (2), install (2)
 > **Definitions:** is a  (2)
@@ -267,16 +264,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Protecting your privacy in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980)
+#### [Protecting your privacy in the cloud](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=0)** - Data privacy is an important topic to take into consideration.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=0)** - [[Data Privacy]] is an important topic to take into consideration.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=4)** As you move your most sensitive data into the cloud, including social security numbers and bank account numbers, you'll want to make sure to keep that data protected.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=13)** Encryption is a crucial service that your cloud services should have.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=13)** Encryption is a crucial service that your [[Cloud Services]] should have.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=17)** Encrypting your files both in the cloud and on your computer helps protect you against thieves looking to access your data.
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=62)** When signing up for a provider, make sure they utilize secure protocols and will encrypt your data at different points of the data life cycle including in storage, transit, and processing.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=75)** Whether you're getting a new phone device or maybe signing up for a cloud storage service like [box.com](https://box.com), it's important that you configure the privacy settings right away.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=75)** Whether you're getting a new phone device or maybe signing up for a [[Cloud Storage]] service like [box.com](https://box.com), it's important that you configure the [[Privacy]] settings right away.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=84)** Make sure you check and turn off any default settings that might be sharing your information with third-party application.
 >
@@ -354,13 +350,13 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=272)** You can see things including how they collect your information, what they do with that information, and how you can go ahead and keep your data safe.
 >
-> **[4:42](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=282)** These are just a few factors to take into consideration when it comes to data privacy and cloud computing.
+> **[4:42](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=282)** These are just a few factors to take into consideration when it comes to data privacy and [[Cloud Computing]].
 >
 > **[4:48](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-privacy-in-the-cloud?u=76281980&t=288)** Use these tips next time you open an account to ensure your own data protection.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (8), [[Privacy]] (5), [[Security]] (3), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Privacy]] (2), [[Cloud Services]] (2), [[Cloud Storage]] (2), [[Cloud Computing]] (1)
 > **CLI Commands:** make (10)
 > **URLs:** [box.com](https://box.com) (4), [twitter.com](https://twitter.com) (2)
 > **Definitions:** is an  (2), is a  (1), is called (1), known as (1)
@@ -374,16 +370,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding security misconfigurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980)
+#### [Avoiding security misconfigurations](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=0)** - There are a number of common mistakes in cloud security that lead to what we call a security misconfiguration.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=0)** - There are a number of common mistakes in [[Cloud Security]] that lead to what we call a security misconfiguration.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=7)** Let's go over what a misconfiguration is.
 >
-> **[0:11](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=11)** As defined by NIST, the National Institute of Standards and Technology, a misconfiguration is an incorrect configuration of an information system or system component that may lead to vulnerabilities.
+> **[0:11](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=11)** As defined by [[NIST]], the National Institute of Standards and Technology, a misconfiguration is an incorrect configuration of an information system or system component that may lead to vulnerabilities.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=25)** Misconfigurations might seem like a straightforward concept to understand, but they happen more often than you think.
 >
@@ -411,11 +406,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=109)** Checking things like your security and sharing permissions are important to make sure there are no invasive applications or integrations.
 >
-> **[1:58](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=118)** Let's take a look at a website you might be using right now to watch this course, and something that you use pretty often, and that is [linkedin.com](https://linkedin.com).
+> **[1:58](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=118)** Let's take a look at a website you might be using right now to watch this course, and something that you use pretty often, and that is [[[LinkedIn]].com](https://linkedin.com).
 >
 > **[2:08](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=128)** If you go to your account settings, you'll be able to see a number of different options for you to choose from.
 >
-> **[2:14](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=134)** From account preferences, sign in and security, visibility, communication, data privacy, and even advertising data.
+> **[2:14](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=134)** From account preferences, sign in and security, visibility, communication, [[Data Privacy]], and even advertising data.
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980&t=143)** One of these sections is called other applications, under which you'll see permitted services.
 >
@@ -459,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), data (9), cloud (8), [[LinkedIn]] (4), [[NIST]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Cloud Security]] (3), [[NIST]] (2), [[Data Privacy]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** nist (2)
 > **Definitions:** is an  (1), is called (1)
@@ -468,8 +463,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
-#### Choosing a cloud provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980)
+#### [Choosing a cloud provider](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=46)** Or, for example, say you're looking for some cloud-based infrastructure services for your host in application.
 >
-> **[0:52](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=52)** You might use Google Cloud, Amazon Web Services, or Microsoft Azure as a good cloud service provider for that need.
+> **[0:52](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=52)** You might use [[Google Cloud Platform (GCP)|Google Cloud]], [[Amazon Web Services (AWS)|Amazon Web Services]], or [[Microsoft Azure]] as a good cloud service provider for that need.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=64)** With so many options out there, what should you keep in mind when evaluating a cloud service provider?
 >
@@ -509,7 +503,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=109)** Or, take another use case, where a company is looking to improve their efficiency and time to market with their application.
 >
-> **[1:56](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=116)** They can utilize a cloud provider who can offer them agility with application development.
+> **[1:56](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=116)** They can utilize a cloud provider who can offer them agility with [[Application Development]].
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/choosing-a-cloud-provider?u=76281980&t=122)** No matter what your reason, use cases are important to have prior to picking a cloud service provider.
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), data (3), [[Security]] (3), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Application Development]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
 > **Warnings:** keep in mind (2)
@@ -556,8 +550,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your smart home (IoT) devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980)
+#### [Securing your smart home (IoT) devices](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,11 +558,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=7)** With the help of modern technology, billions of devices are now able to join the internet, connecting us like never before.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=15)** The internet of things refers to non-traditional devices that can now be connected to the internet.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=15)** The [[IoT|internet of things]] refers to non-traditional devices that can now be connected to the internet.
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=22)** IoT devices are everywhere, in places you may not even know.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=22)** [[IoT]] devices are everywhere, in places you may not even know.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=27)** Common examples of smart devices at home include smart cars that can now download updates over the internet or AI-assistant speakers, such as Amazon Alexa or Google Home.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=27)** Common examples of smart devices at home include smart cars that can now download updates over the internet or AI-assistant speakers, such as Amazon Alexa or [[Google]] Home.
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=41)** IoT devices are not just for convenient home use.
 >
@@ -621,7 +614,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=252)** Our next step is to use two-factor authentication if possible.
 >
-> **[4:16](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=256)** Two-factor or multi-factor authentication is when you have to present two pieces of evidence to authenticate into your account.
+> **[4:16](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=256)** Two-factor or [[Multi-factor Authentication]] is when you have to present two pieces of evidence to authenticate into your account.
 >
 > **[4:24](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980&t=264)** For example, to access your bank account, you may need a username and password and to enter in a numerical code, sent via text message to your phone.
 >
@@ -647,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (13), [[Security]] (4), [[Google]] (2), next (2), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (13), [[Google]] (2), [[IoT|Internet of things]] (1), [[Multi-factor Authentication]] (1)
 > **Analogies:** such as (3), for example (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), set up (1)
@@ -656,8 +649,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - typically (1)
 
-#### Protecting devices on your home network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980)
+#### [Protecting devices on your home network](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +683,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=82)** Let's go over some tips you can implement to protect your home network.
 >
-> **[1:26](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=86)** You'll notice a lot of these tips are similar to other ones in this course such as my advice for protecting your IOT devices.
+> **[1:26](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=86)** You'll notice a lot of these tips are similar to other ones in this course such as my advice for protecting your [[IoT]] devices.
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-devices-on-your-home-network?u=76281980&t=93)** My first tip involves you changing that default password of course, as always default settings and passwords come with many devices and attackers take advantage of the fact that people forget this pretty critical step.
 >
@@ -731,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[IoT]] (1), web (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1), such as (1)
 > **Env Vars:** iot (1)
@@ -744,8 +736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding public Wi-Fi and hotspots
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980)
+#### [Understanding public Wi-Fi and hotspots](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,7 +782,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=132)** While this is not a foolproof way to keep attackers out, it does mean that the connection between your browser and the website is encrypted and therefore safe from eavesdropping.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=142)** Take for example, go on to [google.com](https://google.com).
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=142)** Take for example, go on to [[[Google]].com](https://google.com).
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=145)** If you look at the URL, there is a lock key in the top left corner.
 >
@@ -801,7 +792,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=155)** My second tip is to use a VPN or consider getting one.
 >
-> **[2:39](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=159)** A VPN stands for virtual private network and offers encryption to help keep your connection secure.
+> **[2:39](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=159)** A VPN stands for [[Virtual Private Network (VPN)|virtual private network]] and offers encryption to help keep your connection secure.
 >
 > **[2:45](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=165)** My third tip is to make sure any devices you plan to connect to this network are up to date and protected with some sort of anti-malware solution.
 >
@@ -821,9 +812,9 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=207)** For example, if you use a Mac like me, you may have a built in firewall capability.
 >
-> **[3:32](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=212)** To enable, just go to your system preferences and search for the word firewall.
+> **[3:32](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=212)** To enable, just go to your system preferences and search for the [[Microsoft Word|word]] firewall.
 >
-> **[3:36](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=216)** It's located under the security and privacy category and is easy to toggle on and off.
+> **[3:36](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=216)** It's located under the security and [[Privacy]] category and is easy to toggle on and off.
 >
 > **[3:43](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980&t=223)** Here are all those tips again.
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), vpn (2), [[Google]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Microsoft Word|Word]] (1), [[Privacy]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** vpn (2), https (1), url (1)
 > **Definitions:** is a  (2), in other words (1), stands for (1)
@@ -852,8 +843,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1), warning (1)
 > **URLs:** [google.com](https://google.com) (1)
 
-#### Protecting your mobile devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980)
+#### [Protecting your mobile devices](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=21)** Along with the rise in mobile devices has come the number of attacks on them as well.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=28)** In fact, recent statistics have shown just how prevalent mobile malware has been.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=28)** In fact, recent [[Statistics]] have shown just how prevalent mobile malware has been.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=33)** Did you know that 560,000 new pieces of malware are detected every day?
 >
@@ -875,7 +865,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=49)** And Trojan accounts for 58% of all computer malware.
 >
-> **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=53)** Threats to mobile devices can come in many forms, including application-based from the apps you download, web-based from any malicious websites you may visit, network-based if you connect to unsuspecting wifi networks, or even physical, for example, having your phone stolen or lost.
+> **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=53)** Threats to mobile devices can come in many [[Forms]], including application-based from the apps you download, web-based from any malicious websites you may visit, network-based if you connect to unsuspecting wifi networks, or even physical, for example, having your phone stolen or lost.
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=72)** While these types of threats are becoming more prevalent, many don't know if their phone have been infected or not.
 >
@@ -897,7 +887,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=158)** For example, let's go to our Gmail account.
 >
-> **[2:42](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=162)** I use Google on my phone often.
+> **[2:42](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=162)** I use [[Google]] on my phone often.
 >
 > **[2:45](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/protecting-your-mobile-devices?u=76281980&t=165)** It's easy for me to go ahead and log into my Gmail account and easily see any of the third-party applications that has access to my account.
 >
@@ -915,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (2), [[Google]] (2), [[Statistics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Statistics]] (1), [[Forms]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -927,8 +917,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bringing it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980)
+#### [Bringing it all together](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,21 +925,21 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=3)** Let's recap what we've covered.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=6)** At first, we defined basic cloud terms, such as what cloud security is.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=6)** At first, we defined basic cloud terms, such as what [[Cloud Security]] is.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=13)** We discussed common cloud computing attacks and why it's important to protect your privacy in the cloud.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=13)** We discussed common [[Cloud Computing]] attacks and why it's important to protect your [[Privacy]] in the cloud.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=19)** Then we went over how to protect your information at work including how to avoid misconfigurations.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=28)** We also talked about what to think about when picking a cloud service provider and what questions you should ask.
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=35)** Lastly, we covered protecting yourself on the go including when you're on public Wi-Fi and to protect your mobile devices, and if you're interested in learning more about cloud computing, check out my other courses on LinkedIn.
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=35)** Lastly, we covered protecting yourself on the go including when you're on public Wi-Fi and to protect your mobile devices, and if you're interested in learning more about cloud computing, check out my other courses on [[LinkedIn]].
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980&t=50)** Thanks for joining me in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Security]] (1), [[Privacy]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Security]] (1), [[Privacy]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we discussed (1), we covered (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)

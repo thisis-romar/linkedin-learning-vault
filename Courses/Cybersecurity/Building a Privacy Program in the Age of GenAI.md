@@ -82,14 +82,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What privacy means in the age of GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980)
+#### [What privacy means in the age of GenAI](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=0)** - It feels like every post on LinkedIn these days has three parts: a noun, a verb, and the word gen AI.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=0)** - It feels like every post on [[LinkedIn]] these days has three parts: a noun, a verb, and the [[Microsoft Word|word]] gen AI.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=6)** But what about privacy in this age of gen AI?
+> **[0:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=6)** But what about [[Privacy]] in this age of gen AI?
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=8)** We're living through an age of dramatic change.
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=14)** Previous evolutions that come to mind include the following: intel shift from memory to processors in the 1980s, the internet revolution of the 1990s, the mobile computing, global identity, and social media era as it began in the early-2000s.
 >
-> **[0:26](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=26)** And finally, the cloud computing chapter that began in the early 2010s.
+> **[0:26](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=26)** And finally, the [[Cloud Computing]] chapter that began in the early 2010s.
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980&t=30)** It's deploying human insight to build technology, which will then change human life in ways we are yet to imagine.
 >
@@ -119,12 +118,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Privacy]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1), [[Cloud Computing]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - it (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=5)** But we have seen over the last several years when it comes to transient security, silos don't work anymore, especially when the technology is groundbreaking and affects us in ways we cannot even imagine.
 >
-> **[0:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=14)** I've led programs and build teams in this domain at multiple large companies, and strongly believe that if you work with data, you need to understand privacy from both an engineering perspective and a policy standpoint.
+> **[0:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=14)** I've led programs and build teams in this domain at multiple large companies, and strongly believe that if you work with data, you need to understand [[Privacy]] from both an engineering perspective and a policy standpoint.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=24)** Therefore, an engineer can no longer remain confined in code.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=54)** If you're the CEO or an executive middle management, a venture capitalist, or an investor in a company that depends upon all of this data, this course is for you.
 >
-> **[1:02](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=62)** Even if you do none of these things, but consumer services and products affected by all of this data, this course is for you.
+> **[1:02](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=62)** Even if you do none of these things, but consumer services and [[Microsoft Products|products]] affected by all of this data, this course is for you.
 >
 > **[1:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/who-this-course-is-for?u=76281980&t=68)** My main goal behind this course is to bring people together in the workplace, in colleges and trade schools, at cafeterias and bootcamps, to build a common shared vocabulary so we can collectively and responsibly build and confidently consume everything that gene AI makes possible.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (2), [[Engineering]] (2), teams (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Analogies:** imagine (1)
@@ -169,8 +167,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The real meaning of "big data"
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980)
+#### [The real meaning of "big data"](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,21 +213,20 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980&t=96)** Collectively, we have built an ecosystem that necessitates and facilitates the replication of data.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980&t=102)** This is how what starts as data becomes big data, as this funnel shows going from the ingestion point on the far left to the data warehouses on the far right.
+> **[1:42](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980&t=102)** This is how what starts as data becomes [[Big Data]], as this funnel shows going from the ingestion point on the far left to the data warehouses on the far right.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (1), [[Security]] (1), teams (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980)
+#### [Privacy and security](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=0)** - [Presenter] Security and privacy are different, but very closely connected.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=0)** - [Presenter] Security and [[Privacy]] are different, but very closely connected.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=5)** If someone is able to inappropriately access user data, it is not just a security violation for your business.
 >
@@ -254,13 +250,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=63)** If the thieves were able to intercept PIN data for debit transactions, they could theoretically be able to reproduce stolen debit cards and use those cards to withdraw cash from ATMs anywhere in the US.
 >
-> **[1:13](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=73)** This story exploded in the cybersecurity and privacy circles when blogger brand Krebs reported that hackers had broken into Target's network.
+> **[1:13](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=73)** This story exploded in the [[Cybersecurity]] and privacy circles when blogger brand Krebs reported that hackers had broken into Target's network.
 >
 > **[1:21](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=81)** The hackers used login credentials stolen from a heating, ventilation, and air conditioning company, that is an HVAC company, that Target used at a number of its locations.
 >
 > **[1:30](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=90)** The attackers began their process by stealing the credentials of Target's HVAC vendor, Fazio Mechanical Services.
 >
-> **[1:37](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=97)** According to Krebs On Security, which first broke the story of the breach, the attackers infected Fazio with general purpose malware known as Citadel through an email phishing campaign.
+> **[1:37](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=97)** According to Krebs On Security, which first broke the story of the breach, the attackers infected Fazio with general purpose malware known as Citadel through an email [[Phishing]] campaign.
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=107)** With Citadel firmly in place, the attackers waited until the malware offered Fazio's login credentials.
 >
@@ -296,13 +292,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=220)** So how did this happen?
 >
-> **[3:42](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=222)** Hackers gain entry into the networks of Coronal Pipeline company on April 29th through a virtual private network or a VPN account.
+> **[3:42](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=222)** Hackers gain entry into the networks of Coronal Pipeline company on April 29th through a [[Virtual Private Network (VPN)|virtual private network]] or a VPN account.
 >
 > **[3:49](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=229)** The VPN was set up to allow employees to remotely access the company's computer network.
 >
 > **[3:55](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=235)** The account's password has since been discovered multiple times inside a batch of leak passwords on the dark web.
 >
-> **[4:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=240)** The VPN account didn't use multi-factor authentication or MFA.
+> **[4:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=240)** The VPN account didn't use [[Multi-factor Authentication]] or MFA.
 >
 > **[4:04](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-security?u=76281980&t=244)** This allowed the hackers to breach Colonial's network using just a compromised username and password.
 >
@@ -320,18 +316,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Privacy]] (8), data (7), vpn (3), web (2)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Cybersecurity]] (1), [[Phishing]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** hvac (3), vpn (3), pin (1), mfa (1)
 > **Definitions:** known as (2), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Regulations and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980)
+#### [Regulations and standards](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=0)** - [Instructor] What starts conversations about privacy at many companies is regulatory risk.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=0)** - [Instructor] What starts conversations about [[Privacy]] at many companies is regulatory risk.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=4)** Yes, you know and I know that the North Star should be to build consumer trust and business efficiency, but the first spark of attention for privacy is typically caused by audits and fines.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=84)** He got the full list.
 >
-> **[1:26](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=86)** This raised many privacy concerns, resulting in Congress passing the Video Privacy Protection Act, or the VPPA, in 1988.
+> **[1:26](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=86)** This raised many privacy concerns, resulting in Congress passing the Video [[Privacy Protection]] Act, or the VPPA, in 1988.
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=93)** The passage of this law had implications decades later on for companies like Red Box, Netflix, and Hulu on how they could handle the viewing histories of their users.
 >
@@ -369,23 +364,22 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=119)** Remember, this whole saga began with a video rental store, most of whom have gone out of business but the law continues to shape how streaming services share data and are a key source of entertainment for millions of consumers like you and I.
 >
-> **[2:12](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=132)** It is not common for the technical and legal domains to be in flux at the same time, but today we are at a unique moment.
+> **[2:12](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=132)** It is not common for the technical and legal domains to be in [[Flux]] at the same time, but today we are at a unique moment.
 >
 > **[2:18](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=138)** Laws are changing as we speak, and technologies in the age of gen AI are changing as well.
 >
-> **[2:24](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=144)** Consider the scale of modern computing, internet penetration, data processing, mobile device usage, adoption of gen AI models, and all these other changes.
+> **[2:24](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=144)** Consider the scale of modern computing, internet penetration, [[Data Processing]], mobile device usage, adoption of gen AI models, and all these other changes.
 >
 > **[2:34](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/regulations-and-standards?u=76281980&t=154)** Given all of that, you can now get a true sense of how challenging it is to create the right regulations, implement them, and adapt them to the changing world we all live in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (10), data (3), business (2), ai (2), [[Privacy Protection]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Privacy Protection]] (1), [[Flux]] (1), [[Data Processing]] (1)
 > **Env Vars:** vppa (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and internal stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980)
+#### [Privacy and internal stakeholders](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=14)** Let's look at the top four.
 >
-> **[0:17](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=17)** You will need to align your privacy strategy with the business.
+> **[0:17](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=17)** You will need to align your [[Privacy]] strategy with the business.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=20)** This include product management, engineering, sales, marketing, data, AI, anybody who makes the company money.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=150)** They can provide you the why behind privacy so that you can then work with engineering and other leaders across the company to determine the when and the how.
 >
-> **[2:38](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=158)** A word of caution.
+> **[2:38](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=158)** A [[Microsoft Word|word]] of caution.
 >
 > **[2:39](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-and-internal-stakeholders?u=76281980&t=159)** In many companies, the vocabulary used by attorneys and non-attorneys can vary significantly.
 >
@@ -457,21 +451,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), [[Privacy]] (8), data (6), teams (5), [[Security]] (4)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **Warnings:** caveat (1), caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building data governance into organizational operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980)
+#### [Building data governance into organizational operations](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=0)** - [Instructor] Oftentimes folks use phrases that sound very smart but don't always know what that word truly means.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=0)** - [Instructor] Oftentimes folks use phrases that sound very smart but don't always know what that [[Microsoft Word|word]] truly means.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=6)** One such phrase is data governance.
+> **[0:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=6)** One such phrase is [[Data Governance]].
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=8)** So what does data governance really mean?
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=61)** Second, you need to achieve these goals at scale and consistently, which means a mix of manual and automated enforcement.
 >
-> **[1:10](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=70)** This process is called data classification, and you'll want to do this as early in the collection process as possible.
+> **[1:10](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=70)** This process is called [[Data Classification]], and you'll want to do this as early in the collection process as possible.
 >
 > **[1:17](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=77)** Practically speaking, this diagram is what search enforcement looks like.
 >
@@ -501,13 +494,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=97)** This is especially true in the age of Gen AI where code powers models, which then create more data, which then feed into other models and so on.
 >
-> **[1:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=106)** You will need tools and mechanisms to detect in real time code that violates your privacy commitments, so as to avoid data privacy issues down the line.
+> **[1:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=106)** You will need tools and mechanisms to detect in real time code that violates your [[Privacy]] commitments, so as to avoid [[Data Privacy]] issues down the line.
 >
 > **[1:55](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=115)** Governance is about doing the most code with the least amount of risk.
 >
 > **[1:59](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=119)** It therefore needs to cover code as well as data.
 >
-> **[2:02](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=122)** Data governance serves a key purpose to operationalize data management to reduce risk and increase efficiency.
+> **[2:02](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=122)** Data governance serves a key purpose to operationalize [[Data Management]] to reduce risk and increase efficiency.
 >
 > **[2:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/building-data-governance-into-organizational-operations?u=76281980&t=128)** As we dive deeper into data governance, let's capture its three key components.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), business (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (8), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Data Privacy]] (1)
 > **Definitions:** refers to (1), is called (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
@@ -529,14 +522,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980)
+#### [Code governance](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=0)** - [Instructor] A key component of data governance is code and software, since code creates and processes the data.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=0)** - [Instructor] A key component of [[Data Governance]] is code and software, since code creates and processes the data.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=7)** Privacy and security leaders often focus on data, since data represents a very visible, a very tangible, a very changeable risk vector.
+> **[0:07](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=7)** [[Privacy]] and security leaders often focus on data, since data represents a very visible, a very tangible, a very changeable risk vector.
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=15)** Companies collect user data.
 >
@@ -546,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=30)** However, just focusing on data and ignoring the risks emanating from the code is like trying to lose weight by exercising only without any care for consumption and diet.
 >
-> **[0:40](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=40)** Remember, data does not appear or persist in your systems by magic or automatically, especially with the wide adoption of microservices and large language models or LLMs, it is highly likely that your code is creating, collecting and processing a large portion of your data and at the end of the day, the context of privacy is created not just by data, not just by a customer or an engineer.
+> **[0:40](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=40)** Remember, data does not appear or persist in your systems by magic or automatically, especially with the wide adoption of [[Microservices]] and [[Large Language Models (LLM)|large language models]] or LLMs, it is highly likely that your code is creating, collecting and processing a large portion of your data and at the end of the day, the context of privacy is created not just by data, not just by a customer or an engineer.
 >
 > **[1:04](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980&t=64)** It is created by the combination of data and logic, which is in the code, how your code gets used, how your data gets used, who uses it in what way, for what purpose, for how long.
 >
@@ -586,19 +578,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Privacy]] (8), business (2), [[Security]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Data Governance]] (2), [[Microservices]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980)
+#### [Data classification](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=0)** - [Instructor] A key component of privacy is data.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=0)** - [Instructor] A key component of [[Privacy]] is data.
 >
-> **[0:04](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=4)** Data can do many things, identify the users whose data it is, describe the behavior and preferences of those users, help build products that are attractive for those users.
+> **[0:04](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=4)** Data can do many things, identify the users whose data it is, describe the behavior and preferences of those users, help build [[Microsoft Products|products]] that are attractive for those users.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=15)** However, data can become a liability if you fail to correctly protect it, and that is why data classification is so important.
+> **[0:15](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=15)** However, data can become a liability if you fail to correctly protect it, and that is why [[Data Classification]] is so important.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=24)** Data classification is a process of sorting and ranking data based on privacy risk.
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=72)** Note that this could be a bit subjective.
 >
-> **[1:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=74)** A name like John Smith may not uniquely identify someone, but a name like mine, Nishan Bhajaria, offers a much high level of identifiability.
+> **[1:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=74)** A name like [[John the Ripper|John]] Smith may not uniquely identify someone, but a name like mine, Nishan Bhajaria, offers a much high level of identifiability.
 >
 > **[1:22](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=82)** It is possible to join this data with other data that is publicly available and that could identify a specific individual.
 >
@@ -668,27 +659,26 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=223)** We have now understood how data classification works.
 >
-> **[3:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=226)** It is now time to dig deeper into data governance by looking at data inventory in the next video.
+> **[3:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-classification?u=76281980&t=226)** It is now time to dig deeper into [[Data Governance]] by looking at data inventory in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Data Classification]] (4), [[Privacy]] (3), database (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Classification]] (4), [[Privacy]] (3), [[Microsoft Products|Products]] (1), [[John the Ripper|John]] (1), [[Data Governance]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980)
+#### [Data inventory](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=0)** - [Instructor] As we have seen before, data governance has three key components, data classification, data inventory, and policy enforcement.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=0)** - [Instructor] As we have seen before, [[Data Governance]] has three key components, [[Data Classification]], data inventory, and policy enforcement.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=9)** These three components all work together.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=13)** Data classification that we covered in the previous video will help tailor your data protection strategy based on privacy risk.
+> **[0:13](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=13)** Data classification that we covered in the previous video will help tailor your data protection strategy based on [[Privacy]] risk.
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=19)** Data inventory, on the other hand, refers to the process of tagging the data to match its classification.
 >
@@ -758,7 +748,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=201)** Third, when is the inflection point when you stop discovering data that engineers have tucked away?
 >
-> **[3:28](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=208)** Fourth, what does privacy do to help data quality?
+> **[3:28](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=208)** Fourth, what does privacy do to help [[Data Quality]]?
 >
 > **[3:31](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-inventory?u=76281980&t=211)** Could you make common cause with teams that care about quality, like the gen AI team, for example?
 >
@@ -768,7 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Privacy]] (7), [[Data Classification]] (2), [[Search]] (2), business (2)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Data Classification]] (2), [[Data Governance]] (1), [[Data Quality]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1), previous video (1)
@@ -777,12 +767,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Third-party risk assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980)
+#### [Third-party risk assessment](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=0)** - [Instructor] We have talked about the value of cross-functional partnerships in privacy.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=0)** - [Instructor] We have talked about the value of cross-functional partnerships in [[Privacy]].
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=3)** In this video, we will see how privacy teams can add value by driving a solid third party risk management process.
 >
@@ -826,7 +815,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=138)** Finally, a functional and scalable and responsive privacy program could help the company onboard new third parties more easily and help them scale in an ongoing basis.
 >
-> **[2:27](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=147)** That way, your privacy and cybersecurity program can enable business growth in a more flexible and forward-thinking manner.
+> **[2:27](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=147)** That way, your privacy and [[Cybersecurity]] program can enable business growth in a more flexible and forward-thinking manner.
 >
 > **[2:33](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/third-party-risk-assessment?u=76281980&t=153)** I recommend putting all your third parties through this rigor to protect the benefits they provide without growing the risks.
 >
@@ -834,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (12), management (5), functional (2), business (2), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Cybersecurity]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -844,8 +833,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data deletion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980)
+#### [Data deletion](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +853,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=49)** I recommend two best practices when it comes to deletion.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=53)** First, regardless of the definition, deletion needs to cover systems ranging from real time databases, archival databases as well as any backup systems where a company could store their data.
+> **[0:53](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=53)** First, regardless of the definition, deletion needs to cover systems ranging from real time [[Databases]], archival databases as well as any backup systems where a company could store their data.
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=65)** Second, it is critical that the engineering implementation of data deletion matches the company's publicly disclosed policy on deletion and retention.
 >
@@ -877,13 +865,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=93)** Companies need to delete data so that they can comply with regulatory requirements like the ones spelled out in laws like the GDPR and others like it.
 >
-> **[1:42](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=102)** So it's important that the privacy team work with the legal team to define the company's deletion policy.
+> **[1:42](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=102)** So it's important that the [[Privacy]] team work with the legal team to define the company's deletion policy.
 >
 > **[1:47](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=107)** Now, I'm not just talking about the long small print policy that only makes sense to the attorneys who wrote it.
 >
 > **[1:53](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=113)** You need a deletion and retention policy that engineers can understand and privacy engineers can implement and enforce.
 >
-> **[2:01](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=121)** When it comes to deletion, the privacy team needs to partner with the rest of the company to make some decisions.
+> **[2:01](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=121)** When it comes to deletion, the privacy team needs to partner with the [[Representational State Transfer (REST)|rest]] of the company to make some decisions.
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=126)** The first question I would ask is, will the company use one central tool to delete data or require each decentralized team to delete their own data?
 >
@@ -903,21 +891,20 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=188)** Additionally, it may be hard for the company to delete some data since you may not know exactly who collected it and for what purpose.
 >
-> **[3:15](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=195)** And this kind of makes my point around too much collection being bad for business In closing, as you can see, something as simple sounding as deletion can actually be very complex, which is why it is critical to think of deletion as an extension of your overall data governance initiative.
+> **[3:15](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980&t=195)** And this kind of makes my point around too much collection being bad for business In closing, as you can see, something as simple sounding as deletion can actually be very complex, which is why it is critical to think of deletion as an extension of your overall [[Data Governance]] initiative.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Privacy]] (3), teams (3), business (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980)
+#### [Data sharing](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=0)** - [Instructor] For many companies, if not all, data sharing is key for business growth, but can also lead to privacy risks.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=0)** - [Instructor] For many companies, if not all, [[Data Sharing]] is key for business growth, but can also lead to [[Privacy]] risks.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=6)** A key challenge for your program would be to build privacy controls, so that's to share data as efficiently and safely as possible.
 >
@@ -947,7 +934,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=77)** Let's look at some ideas on how to share data in a privacy-conscious fashion.
 >
-> **[1:21](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=81)** Applying these ideas will be a lot easier if you can classify and inventory your data as early in the process as possible, which makes clear why data governance is so important.
+> **[1:21](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=81)** Applying these ideas will be a lot easier if you can classify and inventory your data as early in the process as possible, which makes clear why [[Data Governance]] is so important.
 >
 > **[1:32](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=92)** When it comes to data sharing, I have a key guiding principle.
 >
@@ -979,7 +966,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=158)** And for those use cases, you may need to create a table that links their external IDs, like passport number, for example, to the internal identifiers.
 >
-> **[2:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=166)** If you do this, you'll want to carefully manage access to this table so as to prevent privacy issues.
+> **[2:46](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=166)** If you do this, you'll want to carefully manage access to this table so as to prevent [[Privacy Issues]].
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-sharing?u=76281980&t=170)** Let's look at an example.
 >
@@ -1007,18 +994,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Privacy]] (7), business (2), [[Privacy Issues]] (2)
+> **Frameworks & Libraries:** [[Data Sharing]] (7), [[Privacy]] (7), [[Privacy Issues]] (2), [[Data Governance]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build vs. buy
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/build-vs-buy?u=76281980)
+#### [Build vs. buy](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/build-vs-buy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/build-vs-buy?u=76281980&t=0)** - [Narrator] For your privacy program to reduce risk, you need tools and automation.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/build-vs-buy?u=76281980&t=0)** - [Narrator] For your [[Privacy]] program to reduce risk, you need tools and automation.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/build-vs-buy?u=76281980&t=4)** Otherwise, you'll end up with feel good force principles, but little change in your risk and trust posture.
 >
@@ -1092,17 +1078,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (11), teams (4), business (2), [[Automation]] (1), career (1)
+> **Frameworks & Libraries:** [[Privacy]] (11)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1)
 > **Speakers:** - [narrator] (1)
 
-#### Decentralized vs. centralized
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980)
+#### [Decentralized vs. centralized](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=0)** - [Instructor] Building privacy tooling in-house or buying third party off the shelf tools is a debate with no easy answers, but another big decision awaits you as you shape your privacy program, and that's team structure, decentralized versus centralized.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=0)** - [Instructor] Building [[Privacy]] tooling in-house or buying third party off the shelf tools is a debate with no easy answers, but another big decision awaits you as you shape your privacy program, and that's team structure, decentralized versus centralized.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=14)** Let me explain.
 >
@@ -1114,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=35)** First, many decentralized engineering teams have their own tech stacks, release pipelines, and roadmaps.
 >
-> **[0:41](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=41)** This speeds up their innovation, but often creates disconnects that could cause downstream privacy issues.
+> **[0:41](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=41)** This speeds up their innovation, but often creates disconnects that could cause downstream [[Privacy Issues]].
 >
 > **[0:48](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=48)** Second, engineers and product managers are often incentivized to focus on their key deliverables and metrics.
 >
@@ -1140,7 +1125,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=128)** Second, they can build variations of tooling to support and enable diverse stakeholders across the board.
 >
-> **[2:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=134)** And third, they can align with other teams like legal compliance, GRC, et cetera, and build tooling that can meet multiple goals for compliance at once.
+> **[2:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=134)** And third, they can align with other teams like [[Legal Compliance]], GRC, et cetera, and build tooling that can meet multiple goals for compliance at once.
 >
 > **[2:23](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/decentralized-vs-centralized?u=76281980&t=143)** This team can grow and shrink in line with business needs.
 >
@@ -1170,18 +1155,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (18), teams (12), business (4), [[Engineering]] (3), functional (2)
+> **Frameworks & Libraries:** [[Privacy]] (18), [[Privacy Issues]] (1), [[Legal Compliance]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy leadership and the chief privacy officer
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980)
+#### [Privacy leadership and the chief privacy officer](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=0)** - [Instructor] Let's talk about the role of the chief privacy officer, or the CPO.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=0)** - [Instructor] Let's talk about the role of the chief [[Privacy]] officer, or the CPO.
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=3)** This is a new-ish role that is distinct from the role of the chief information security officer, or the CISO.
 >
@@ -1199,9 +1183,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=49)** They have three key responsibilities.
 >
-> **[0:52](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=52)** Fist, convince [[Executive Leadership]] that your customers and their data should be treated with trust and transparency.
+> **[0:52](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=52)** Fist, convince [[[[Executive Leadership]]]] that your customers and their data should be treated with trust and transparency.
 >
-> **[0:58](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=58)** Second, benchmark based on industry trends and regulatory sentiment so that privacy is top-of-mind in product design.
+> **[0:58](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=58)** Second, benchmark based on industry trends and regulatory sentiment so that privacy is top-of-mind in [[Product Design]].
 >
 > **[1:06](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/privacy-leadership-and-the-chief-privacy-officer?u=76281980&t=66)** Third, establish credibility that privacy is the right thing to do, both as a matter of principle, as well as for business long-term.
 >
@@ -1247,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (14), [[Security]] (5), data (3), teams (2), [[Executive Leadership]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (14), [[Executive Leadership]] (2), [[Product Design]] (1)
 > **Env Vars:** cpo (9), ciso (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
@@ -1255,18 +1239,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data Subject Access Requests (DSARs) and rights management
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980)
+#### [Data Subject Access Requests (DSARs) and rights management](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=0)** - [Instructor] When it comes to privacy, security, and customer transparency, the conversation on the regulatory side is often about empowering customers.
+> **[0:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=0)** - [Instructor] When it comes to [[Privacy]], security, and customer transparency, the conversation on the regulatory side is often about empowering customers.
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=8)** For far too long, it has been believed and it has been true that companies that collect customer data have a lot of power.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=14)** And that's because they have the data, the ability to join that data to other data, and comprehend more about the customers than the customers themselves may appreciate at times.
 >
-> **[0:23](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=23)** In theory, the principle was that while using this data, companies could offer capabilities and products to their customers for free or very low cost, and at the same time, make sure that those offerings were personalized for that customer, win-win, right?
+> **[0:23](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=23)** In theory, the principle was that while using this data, companies could offer capabilities and [[Microsoft Products|products]] to their customers for free or very low cost, and at the same time, make sure that those offerings were personalized for that customer, win-win, right?
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=38)** Well, up to a point.
 >
@@ -1298,9 +1281,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=117)** Customer A emails company B and says, "Delete all my data."
 >
-> **[2:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=120)** Company B deletes all their data, or at least thinks that they've done that, but company B lacks data governance.
+> **[2:00](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=120)** Company B deletes all their data, or at least thinks that they've done that, but company B lacks [[Data Governance]].
 >
-> **[2:07](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=127)** This could be because they'd lack data classification or they lack data inventory, but what this does mean is that the odds of them deleting data incorrectly are now very high.
+> **[2:07](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=127)** This could be because they'd lack [[Data Classification]] or they lack data inventory, but what this does mean is that the odds of them deleting data incorrectly are now very high.
 >
 > **[2:18](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/dsar-rights-management?u=76281980&t=138)** As a result, if they were to then get a request for a DSAR by the same customer, you might end up in a situation where you discover data after the fact that you should have deleted in the first place.
 >
@@ -1316,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), power (3), [[Privacy]] (1), [[Security]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Privacy]] (1), [[Microsoft Products|Products]] (1), [[Data Classification]] (1)
 > **Env Vars:** dsar (2), gdpr (1), cpra (1)
 > **Definitions:** known as (1), basically means (1), in other words (1)
 > **CLI Commands:** make (2)
@@ -1327,20 +1310,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=1)** - Thank you so much for taking this course.
 >
-> **[0:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=3)** I hope you found the lessons around data privacy in the age of gen AI useful and educational.
+> **[0:03](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=3)** I hope you found the lessons around [[Data Privacy]] in the age of gen AI useful and educational.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=7)** But data and models don't stop growing and learning, do they?
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=10)** And so it should be with our own knowledge and learning as well.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=13)** I would recommend digging into other LinkedIn Learning courses, especially ones that combine data management and innovation with security and privacy.
+> **[0:13](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=13)** I would recommend digging into other [[LinkedIn]] Learning courses, especially ones that combine [[Data Management]] and innovation with security and [[Privacy]].
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980&t=19)** You will learn not just how to innovate with data, but to do so responsibly and smartly.
 >
@@ -1352,7 +1334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Privacy]] (2), ai (1), [[LinkedIn]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[LinkedIn]] (1), [[Data Management]] (1), [[Privacy]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - thank (1)
 

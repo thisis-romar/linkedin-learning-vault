@@ -69,12 +69,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980)
+#### [The importance of ethics](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=0)** In cybersecurity, the power and knowledge at our fingertips can be intoxicating.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=0)** In [[Cybersecurity]], the power and knowledge at our fingertips can be intoxicating.
 >
 > **[0:06](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=6)** We can hack into everything from social media accounts to airplane control systems.
 >
@@ -82,7 +81,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=15)** We can gain access to secrets that folks thought no one would ever find out.
 >
-> **[0:20](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=20)** And that's why an understanding of ethics is absolutely crucial for everyone working in cybersecurity.
+> **[0:20](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=20)** And that's why an understanding of [[Ethics]] is absolutely crucial for everyone working in cybersecurity.
 >
 > **[0:28](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980&t=28)** I'm Jerod Brennen, and I've been a practicing cybersecurity professional for two decades unchanged.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Ethics]] (2), power (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Ethics]] (2)
 > **CLI Commands:** find (1)
 
 
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Morals, ethics, and laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980)
+#### [Morals, ethics, and laws](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=0)** In order to understand ethics, it helps if you also understand morals and laws.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=0)** In order to understand [[Ethics]], it helps if you also understand morals and laws.
 >
 > **[0:06](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=6)** Those terms morals, ethics, and laws are closely related, although each term has a distinct meaning.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=41)** That choice is the reflection of an individual's morals.
 >
-> **[0:46](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=46)** Ethics are those rules that a group or community agrees to follow. In cybersecurity, using someone else's credentials outside of a penetration test is generally frowned upon.
+> **[0:46](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=46)** Ethics are those rules that a group or community agrees to follow. In [[Cybersecurity]], using someone else's credentials outside of a penetration test is generally frowned upon.
 >
 > **[0:58](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980&t=58)** Even if you think that activity is okay, the broader cybersecurity community does not.
 >
@@ -142,12 +140,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Ethics]] (6), [[Cybersecurity]] (2)
 > **Analogies:** for example (1)
 
-#### The cybersecurity community
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980)
+#### [The cybersecurity community](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=0)** Being a member of the cybersecurity community means that you'll constantly be seeking a balance between the community's ethics and your personal morals.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=0)** Being a member of the [[Cybersecurity]] community means that you'll constantly be seeking a balance between the community's [[Ethics]] and your personal morals.
 >
 > **[0:10](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=10)** But what do I mean by the cybersecurity community?
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=34)** And with an estimated shortage of over 3.5 million cybersecurity professionals worldwide, we have to find ways to work together, and that happens by engaging with your peers and sharing your experiences and perspectives with one another.
 >
-> **[0:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=51)** You can engage in public and private conversations with other cybersecurity professionals here on LinkedIn, and you can find plenty of opportunities to meet with folks face to face on sites like [meetup.com](https://meetup.com).
+> **[0:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=51)** You can engage in public and private conversations with other cybersecurity professionals here on [[LinkedIn]], and you can find plenty of opportunities to meet with folks face to face on sites like [meetup.com](https://meetup.com).
 >
 > **[1:04](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=64)** I live in central Ohio, and within driving distance of my house, there are 15 separate groups for cybersecurity professionals.
 >
@@ -169,9 +166,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=83)** IT auditors gather at ISACA meetings.
 >
-> **[1:26](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=86)** Application security professionals gather at OWASP meetings.
+> **[1:26](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=86)** [[Application Security]] professionals gather at [[OWASP]] meetings.
 >
-> **[1:31](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=91)** (CS)2AI meetings attract control system professionals, and CSA meanings attract folks interested in cloud security.
+> **[1:31](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=91)** (CS)2AI meetings attract control system professionals, and CSA meanings attract folks interested in [[Cloud Security]].
 >
 > **[1:39](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-community?u=76281980&t=99)** We even have a LOPSA chapter, the League of Professional System Administrators. And while they're not exclusively a cybersecurity group, it is definitely a recurring topic of conversation at their meetings.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Security]] (3), [[Ethics]] (2), [[LinkedIn]] (1), application (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Ethics]] (2), [[LinkedIn]] (1), [[Application Security]] (1), [[OWASP]] (1)
 > **Env Vars:** isaca (3), isc (2), def (2), con (2), issa (1)
 > **CLI Commands:** find (4)
 > **Definitions:** means that (1), is a  (1)
@@ -225,12 +222,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling sensitive information
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980)
+#### [Handling sensitive information](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=0)** Cybersecurity professionals often gain access to sensitive data.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=0)** [[Cybersecurity]] professionals often gain access to sensitive data.
 >
 > **[0:05](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=5)** This includes everything from intellectual property to personally identifiable information.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=111)** You may be curious about where the new hire in accounting spends their Friday nights, or you may want to know what your manager does on the weekend.
 >
-> **[1:59](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=119)** But using this app for anything other than its intended purpose would be both unethical and a clear violation of the user's privacy.
+> **[1:59](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=119)** But using this app for anything other than its intended purpose would be both unethical and a clear violation of the user's [[Privacy]].
 >
 > **[2:08](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=128)** There will be times where your job requires that you access and review this data, and you'll learn things about your clients and coworkers that they'd rather keep secret.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=155)** Should you share any of this information with your manager?
 >
-> **[2:38](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=158)** What about human resources?
+> **[2:38](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=158)** What about [[Human Resources (HR)|human resources]]?
 >
 > **[2:41](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980&t=161)** What about the employee's significant other, don't they have a right to know? Whether it's location data or company financial records, or personal health records, or even text messages between one employee and another, the ethical thing to do is to define the intended use for that data, often in a security policy, and then put processes in place to ensure that you and everyone else with that same access are following that policy.
 >
@@ -280,16 +276,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (3), [[Cybersecurity]] (2), management (1), mobile application (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Privacy]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** install (1)
 
-#### Third-party engagements
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980)
+#### [Third-party engagements](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=0)** Your cybersecurity career path may lead you to contract or consulting work. When you become the third party, that relationship comes with its own ethical considerations.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=0)** Your [[Cybersecurity]] career path may lead you to contract or consulting work. When you become the third party, that relationship comes with its own ethical considerations.
 >
 > **[0:12](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=12)** I spent years working in enterprise roles before making the move to consulting.
 >
@@ -309,9 +304,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=81)** You've been hired by a company to test their resilience to social engineering attacks.
 >
-> **[1:27](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=87)** The client wants to push the envelope and have you create a phishing email that everyone is going to fall for.
+> **[1:27](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=87)** The client wants to push the envelope and have you create a [[Phishing]] email that everyone is going to fall for.
 >
-> **[1:35](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=95)** They want that email to contain a fictional news story about a local violent incident with the "click here to read more..." hyperlink pointing to a security awareness training page.
+> **[1:35](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=95)** They want that email to contain a fictional news story about a local violent incident with the "click here to read more..." hyperlink pointing to a [[Security Awareness]] training page.
 >
 > **[1:47](https://www.linkedin.com/learning/ethics-in-cybersecurity/third-party-engagements?u=76281980&t=107)** What do you do?
 >
@@ -325,12 +320,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Cybersecurity]] (2), career (1), next (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Phishing]] (1), [[Security Awareness]] (1)
 > **Env Vars:** nda (1)
 > **Warnings:** caution (1)
 
-#### Hacking back
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980)
+#### [Hacking back](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=99)** His brand of entertainment is a low-risk, low-tech form of hacking back.
 >
-> **[1:46](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=106)** But trained cybersecurity professionals with access to budgets and enterprise tools can do a lot more than just frustrate a phone scammer.
+> **[1:46](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=106)** But trained [[Cybersecurity]] professionals with access to budgets and enterprise tools can do a lot more than just frustrate a phone scammer.
 >
 > **[1:56](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=116)** You could place your own malware on a honeypot and then entice cybercriminals to download that malware so they get a taste of their own medicine.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=138)** So let me pitch this situation to you.
 >
-> **[2:21](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=141)** You land the CISO role at an online e-commerce company, and your lunch break is interrupted with news that your e-commerce site is offline.
+> **[2:21](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=141)** You land the CISO role at an online [[E-Commerce]] company, and your lunch break is interrupted with news that your e-commerce site is offline.
 >
 > **[2:31](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacking-back?u=76281980&t=151)** Looks like a denial of service attack. And your team has pinpointed the attacking IP.
 >
@@ -390,17 +384,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Cybersecurity]] (2), [[E-Commerce]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[E-Commerce]] (2)
 > **Env Vars:** ciso (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Organizational ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/organizational-ethics?u=76281980)
+#### [Organizational ethics](https://www.linkedin.com/learning/ethics-in-cybersecurity/organizational-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/organizational-ethics?u=76281980&t=0)** Every cybersecurity professional from the first-year SOC analyst to the seasoned CISO has a role to play when it comes to influencing the ethics of their organization.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/organizational-ethics?u=76281980&t=0)** Every [[Cybersecurity]] professional from the first-year SOC analyst to the seasoned CISO has a role to play when it comes to influencing the [[Ethics]] of their organization.
 >
 > **[0:12](https://www.linkedin.com/learning/ethics-in-cybersecurity/organizational-ethics?u=76281980&t=12)** I had the good fortune early in my own career to make a move from a risk-averse company to one that was much more willing to take risks.
 >
@@ -458,13 +451,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (12), business (6), [[Ethics]] (5), [[Security]] (2), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), [[Ethics]] (5)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** soc (1), ciso (1)
 > **Prerequisites:** install (1)
 
-#### Reporting an ethical violation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980)
+#### [Reporting an ethical violation](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=71)** Although the article includes over a dozen considerations, I want to draw your attention to a few of the most important.
 >
-> **[1:19](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=79)** First and foremost, a hotline needs to protect the privacy of the whistleblower.
+> **[1:19](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=79)** First and foremost, a hotline needs to protect the [[Privacy]] of the whistleblower.
 >
 > **[1:26](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=86)** If you can't ensure anonymity, then folks will be less likely to report violations for fear of retaliation.
 >
@@ -496,19 +488,19 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=115)** While many whistleblowers will report violations because they feel it's the right thing to do, it doesn't hurt to offer other incentives to encourage whistleblowers who might be hesitant about raising their voice.
 >
-> **[2:10](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=130)** When someone wants to report an ethics violation, they should have some evidence to back up their claims.
+> **[2:10](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=130)** When someone wants to report an [[Ethics]] violation, they should have some evidence to back up their claims.
 >
 > **[2:17](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=137)** Reporting a violation on little more than a hunch can do more harm than good.
 >
 > **[2:23](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=143)** Did you see it with your own eyes?
 >
-> **[2:25](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=145)** Maybe you saw something in a group chat or a Slack channel.
+> **[2:25](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=145)** Maybe you saw something in a group chat or a [[Slack]] channel.
 >
 > **[2:30](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=150)** If you can print out your evidence, that's great.
 >
 > **[2:33](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=153)** But eyewitness testimony is still considered a type of evidence.
 >
-> **[2:37](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=157)** While ethics violations are often reported to an organization's legal department, there's a similar process for reporting violations within the cybersecurity community.
+> **[2:37](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=157)** While ethics violations are often reported to an organization's legal department, there's a similar process for reporting violations within the [[Cybersecurity]] community.
 >
 > **[2:49](https://www.linkedin.com/learning/ethics-in-cybersecurity/reporting-an-ethical-violation?u=76281980&t=169)** What if a cybersecurity professional has violated the code of ethics for one of their certifications?
 >
@@ -532,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (4), [[Cybersecurity]] (4), [[Privacy]] (1), [[Slack]] (1), web (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Cybersecurity]] (4), [[Privacy]] (1), [[Slack]] (1)
 > **Env Vars:** isc (1), isaca (1)
 > **Tools:** slack (1)
 
@@ -541,8 +533,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible disclosure
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980)
+#### [Responsible disclosure](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +553,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=72)** Platforms like Bugcrowd, and HackerOne exist for this exact purpose, to enable responsible disclosure and to pay the security researchers for all their hard work.
 >
-> **[1:25](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=85)** However, you may still be tempted to force the company's hand by choosing to circumvent responsible disclosure and posting your zero day exploit to GitHub.
+> **[1:25](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=85)** However, you may still be tempted to force the company's hand by choosing to circumvent responsible disclosure and posting your zero day exploit to [[GitHub]].
 >
 > **[1:39](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=99)** The downside of this is that folks who depend on that technology will find themselves targeted by cybercriminals, while the company is scrambling to patch the vulnerability.
 >
@@ -574,13 +565,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=137)** The result was a breach of 900 social insurance numbers and a narrowly avoided ten-year prison sentence for a kid who insisted he didn't act with malicious intent.
 >
-> **[2:29](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=149)** That's a tough spot to be in, and there are ways to drive positive changes in cybersecurity without facing jail time.
+> **[2:29](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=149)** That's a tough spot to be in, and there are ways to drive positive changes in [[Cybersecurity]] without facing jail time.
 >
 > **[2:38](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=158)** So here's your scenario.
 >
 > **[2:41](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=161)** You're doing a little online shopping, and just before you go to checkout, you notice a variable in the URL that says profile equals 12345.
 >
-> **[2:52](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=172)** This catches your eye because you just wrapped up one of my application security training courses here on LinkedIn Learning, and you can't help but think what would happen if I change that number?
+> **[2:52](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=172)** This catches your eye because you just wrapped up one of my [[Application Security]] training courses here on [[LinkedIn]] Learning, and you can't help but think what would happen if I change that number?
 >
 > **[3:05](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=185)** You update the URL to read profile equals 12344, hit return and you find yourself looking at someone else's shopping cart.
 >
@@ -598,7 +589,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=243)** According to my moral code, I'm okay with letting a for-profit company pay me for some freelance cybersecurity consulting.
 >
-> **[4:13](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=253)** Now, if they don't have a bug bounty program, I'll follow the communities code of ethics and try to submit the vulnerability to their security team through some other channel.
+> **[4:13](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=253)** Now, if they don't have a bug bounty program, I'll follow the communities code of [[Ethics]] and try to submit the vulnerability to their security team through some other channel.
 >
 > **[4:23](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980&t=263)** The rule I try to follow is to disclose findings in a way that minimizes negative outcomes while maximizing positive outcomes.
 >
@@ -606,18 +597,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Cybersecurity]] (4), hit (2), web (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[GitHub]] (1), [[Application Security]] (1), [[LinkedIn]] (1), [[Ethics]] (1)
 > **Env Vars:** url (2), ssl (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Tools:** github (1)
 
-#### Hacktivism
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980)
+#### [Hacktivism](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=0)** The ethics of cybersecurity aren't restricted to the workplace.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=0)** The [[Ethics]] of [[Cybersecurity]] aren't restricted to the workplace.
 >
 > **[0:05](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=5)** In recent years, we've seen multiple examples of regular citizens engaging in hacking for causes they believe in.
 >
@@ -629,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=27)** The cult of the Dead Cow actively combats online censorship, and they've created multiple hacking tools that protesters still use today.
 >
-> **[0:37](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=37)** The Chaos Computer Club uses their technical and legal knowledge to drive improvements in digital privacy at a legislative level.
+> **[0:37](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=37)** The Chaos Computer Club uses their technical and legal knowledge to drive improvements in digital [[Privacy]] at a legislative level.
 >
 > **[0:46](https://www.linkedin.com/learning/ethics-in-cybersecurity/hacktivism?u=76281980&t=46)** And groups like LulzSec and Anonymous have taken credit for compromising websites belonging to governments, law enforcement agencies, financial institutions, and even churches.
 >
@@ -657,11 +647,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Ethics]] (1), [[Privacy]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Ethics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 
-#### Social engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980)
+#### [Social engineering](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +664,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=39)** As a matter of fact, the 2024 Verizon Data Breach Investigations report found that the human element was a significant factor in 76 percent of data breaches.
 >
-> **[0:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=51)** Phishing is the most well-known type of social engineering attack, but it's far from the only option. Where phishing leverages email to deliver the attack, criminals turn to smishing or SMS phishing and vishing, or voice phishing to evade email security controls.
+> **[0:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=51)** [[Phishing]] is the most well-known type of social engineering attack, but it's far from the only option. Where phishing leverages email to deliver the attack, criminals turn to smishing or SMS phishing and vishing, or voice phishing to evade email security controls.
 >
 > **[1:12](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=72)** Criminals also leverage fake social media profiles for these attacks, a technique known as catfishing.
 >
@@ -687,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=101)** Each time I was hired to conduct a social engineering engagement, I was responsible for both designing and executing those tests.
 >
-> **[1:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=111)** And as a cybersecurity professional, I found that the ethical boundary between acceptable and unacceptable wasn't always as clear as I'd hoped.
+> **[1:51](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=111)** And as a [[Cybersecurity]] professional, I found that the ethical boundary between acceptable and unacceptable wasn't always as clear as I'd hoped.
 >
 > **[2:03](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=123)** The purpose of a social engineering test is not to make people look stupid.
 >
@@ -701,9 +690,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=161)** Their folks are pretty good at identifying scams involving gift cards and malicious URLs.
 >
-> **[2:48](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=168)** So the client wants to push a little harder. During the pre-engagement meeting, your client says that they want you to craft a fake email from Human Resources, letting everyone in the company know that the company is implementing a new policy: We are revoking the option for remote work.
+> **[2:48](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=168)** So the client wants to push a little harder. During the pre-engagement meeting, your client says that they want you to craft a fake email from [[Human Resources (HR)|Human Resources]], letting everyone in the company know that the company is implementing a new policy: We are revoking the option for remote work.
 >
-> **[3:09](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=189)** If you're not willing to return to the office, you will be fired.
+> **[3:09](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=189)** If you're not willing to return to the [[Microsoft Office|office]], you will be fired.
 >
 > **[3:13](https://www.linkedin.com/learning/ethics-in-cybersecurity/social-engineering?u=76281980&t=193)** If anyone has questions about this new policy, they can click on the link included in the email, a link that you and I know lets them know that this was just a phishing test.
 >
@@ -729,20 +718,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (8), [[Phishing]] (7), data (2), [[Cybersecurity]] (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Cybersecurity]] (2), [[Microsoft Office|Office]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** sms (1)
 > **Definitions:** known as (1)
 
-#### Certifications and codes of ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980)
+#### [Certifications and codes of ethics](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=0)** There are a number of organizations that provide education and certifications for aspiring cybersecurity professionals.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=0)** There are a number of organizations that provide education and certifications for aspiring [[Cybersecurity]] professionals.
 >
-> **[0:08](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=8)** In order to maintain your membership in these organizations, you're expected to abide by their code of ethics.
+> **[0:08](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=8)** In order to maintain your membership in these organizations, you're expected to abide by their code of [[Ethics]].
 >
 > **[0:15](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=15)** Let's take a quick look at a few of these codes.
 >
@@ -758,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=72)** If you pursue an ISACA cert, you're committing to approach your responsibilities with objectivity while serving in a lawful manner.
 >
-> **[1:22](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=82)** You're also expected to respect the privacy and the confidentiality of any information you work with, and you're expected to disclose any significant facts to make sure the folks you're working with know the entire story.
+> **[1:22](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=82)** You're also expected to respect the [[Privacy]] and the confidentiality of any information you work with, and you're expected to disclose any significant facts to make sure the folks you're working with know the entire story.
 >
 > **[1:37](https://www.linkedin.com/learning/ethics-in-cybersecurity/certifications-and-codes-of-ethics?u=76281980&t=97)** GIAC was formed to ensure that certified individuals meet a minimum standard of cybersecurity knowledge.
 >
@@ -784,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethics]] (8), [[Cybersecurity]] (4), career (2), leadership (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (8), [[Cybersecurity]] (4), [[Privacy]] (1)
 > **Env Vars:** isc (4), cissp (2), isaca (2), cisa (1), cism (1)
 > **CLI Commands:** make (1)
 
@@ -793,12 +781,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Global impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980)
+#### [Global impact](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=0)** The debate around ethics in cybersecurity has been at the heart of some well-publicized events that have impacted global politics.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=0)** The debate around [[Ethics]] in [[Cybersecurity]] has been at the heart of some well-publicized events that have impacted global politics.
 >
 > **[0:09](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=9)** Let's turn our attention to the global stage for a moment.
 >
@@ -808,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=23)** Some folks hail him as a hero, while other folks believe he should be tried, imprisoned, and executed.
 >
-> **[0:30](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=30)** When Snowden was an NSA analyst, he used his access to expose a data mining program known as PRISM, a program that many privacy advocates believe was both unconstitutional and an overextension of the agency's authority.
+> **[0:30](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=30)** When Snowden was an NSA analyst, he used his access to expose a [[Data Mining]] program known as PRISM, a program that many [[Privacy]] advocates believe was both unconstitutional and an overextension of the agency's authority.
 >
 > **[0:46](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980&t=46)** Before Snowden, there was Chelsea Manning. While Manning served as an intelligence analyst in the US Army, she had access to hundreds of thousands of classified documents that detailed military operations.
 >
@@ -858,12 +845,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Privacy]] (3), power (2), [[Ethics]] (1), data (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Privacy]] (3), [[Ethics]] (1), [[Data Mining]] (1)
 > **Env Vars:** nsa (1), prism (1)
 > **Definitions:** known as (1)
 
-#### The dark web
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-dark-web?u=76281980)
+#### [The dark web](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-dark-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-dark-web?u=76281980&t=170)** Journalists use the dark web to protect the anonymity of whistleblowers and informants, bringing stories to light that would have otherwise remained hidden.
 >
-> **[3:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-dark-web?u=76281980&t=180)** A number of privacy advocates see the dark web as the last bastion of defense in a world where digital privacy is becoming increasingly harder to protect.
+> **[3:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-dark-web?u=76281980&t=180)** A number of [[Privacy]] advocates see the dark web as the last bastion of defense in a world where digital privacy is becoming increasingly harder to protect.
 >
 > **[3:10](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-dark-web?u=76281980&t=190)** For the ethical scenario in this video, I'm not going to use hypotheticals.
 >
@@ -939,20 +925,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (28), [[Search]] (4), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Env Vars:** i2p (2)
 > **Definitions:** known as (2)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 
-#### The cybersecurity workforce
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980)
+#### [The cybersecurity workforce](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=0)** Whether it's as a hiring manager, as a mentor, or as a participating member of the cybersecurity community, you'll have multiple opportunities to influence both the direction and the membership of the cybersecurity workforce.
+> **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=0)** Whether it's as a hiring manager, as a mentor, or as a participating member of the [[Cybersecurity]] community, you'll have multiple opportunities to influence both the direction and the membership of the cybersecurity workforce.
 >
-> **[0:15](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=15)** It's important to recognize the impact that ethics has on developing, training, and hiring cybersecurity professionals.
+> **[0:15](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=15)** It's important to recognize the impact that [[Ethics]] has on developing, training, and hiring cybersecurity professionals.
 >
 > **[0:24](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=24)** Cybersecurity professionals come from all walks of life.
 >
@@ -960,13 +945,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=31)** Most of my learning has been through on-the-job experience, and I'm grateful that I had hiring managers who were willing to give me a shot, folks who knew that cybersecurity is more than just ones and zeros.
 >
-> **[0:45](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=45)** Many organizations have adopted a diversity, equity and inclusion, or DEI program, often driven by the Human Resources Department.
+> **[0:45](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=45)** Many organizations have adopted a diversity, equity and inclusion, or DEI program, often driven by the [[Human Resources (HR)|Human Resources]] Department.
 >
 > **[0:55](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=55)** In short, DEI programs are an intentional approach to welcome folks from different communities and then give those folks access to what they need in order to be successful.
 >
 > **[1:06](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=66)** These programs recognize that we all have different backgrounds and different experiences, and that organizations can make a concentrated effort to enable folks to contribute in a meaningful way.
 >
-> **[1:19](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=79)** If you haven't explored DEI in much detail, LinkedIn Learning has dozens of courses on this topic.
+> **[1:19](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=79)** If you haven't explored DEI in much detail, [[LinkedIn]] Learning has dozens of courses on this topic.
 >
 > **[1:26](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-cybersecurity-workforce?u=76281980&t=86)** In recent years, leaders within the cybersecurity community have made a concentrated effort to practice diversity, equity, and inclusion in order to attract more folks to the profession, folks who may not have felt that career path was one that was open to them.
 >
@@ -1042,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (12), career (4), [[LinkedIn]] (3), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (12), [[LinkedIn]] (3), [[Ethics]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** dei (4), stem (2), def (1), con (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
@@ -1053,14 +1038,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting ethics into practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980)
+#### [Putting ethics into practice](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980&t=0)** Thomas Jefferson said that knowledge is power, and the notion that great power is accompanied by great responsibility has been touted by Winston Churchill, both Teddy and Franklin D. Roosevelt, and even Stan Lee.
 >
-> **[0:14](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980&t=14)** Now that you're armed with a knowledge of ethics and cybersecurity, I hope that you'll wield this power responsibly when faced with ethical challenges.
+> **[0:14](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980&t=14)** Now that you're armed with a knowledge of [[Ethics]] and [[Cybersecurity]], I hope that you'll wield this power responsibly when faced with ethical challenges.
 >
 > **[0:24](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980&t=24)** Suppose a good friend contacts you saying that they've been victimized by a cyber stalker.
 >
@@ -1106,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Ethics]] (3), [[Cybersecurity]] (3), business (1), data (1)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[Cybersecurity]] (3)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 

@@ -79,44 +79,42 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why TensorFlow?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980)
+#### [Why TensorFlow?](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=0)** - [Jonathan] TensorFlow is one of the most popular deep learning frameworks out there, and what makes it particularly appealing is its ecosystem.
+> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=0)** - [Jonathan] [[TensorFlow]] is one of the most popular [[Deep Learning]] frameworks out there, and what makes it particularly appealing is its ecosystem.
 >
-> **[0:07](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=7)** You can develop and train models using Python amongst several other languages, and then easily deploy them in the cloud or on-prem in the browser or on mobile devices no matter what language you use.
+> **[0:07](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=7)** You can develop and train models using [[Python (Programming Language)|Python]] amongst several other languages, and then easily deploy them in the cloud or on-prem in the browser or on mobile devices no matter what language you use.
 >
-> **[0:18](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=18)** Transformers have taken the natural language processing world by storm.
+> **[0:18](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=18)** Transformers have taken the [[Natural Language Processing (NLP)|natural language processing]] world by storm.
 >
 > **[0:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=23)** Hi, I'm Jonathan Fernandes and I work with machine learning and AI models every day.
 >
 > **[0:28](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=28)** Join me as we learn about transformers in natural language processing.
 >
-> **[0:32](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=32)** In the process, we look at components of a transformer with a special focus on BERT, one of the encoder models developed by Google.
+> **[0:32](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=32)** In the process, we look at components of a transformer with a special focus on BERT, one of the encoder models developed by [[Google]].
 >
 > **[0:39](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980&t=39)** We'll also cover topics like self-attention and see examples of bias in BERT and GPT-2.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[TensorFlow]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[TensorFlow]] (1), [[Deep Learning]] (1), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **Env Vars:** bert (2), gpt (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [jonathan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=0)** - [Narrator] This course follows on from two other TensorFlow courses, TensorFlow: Neural Networks and Working with Tabular Data and TensorFlow: Working with Images, which are both available in the LinkedIn Library.
+> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=0)** - [Narrator] This course follows on from two other [[TensorFlow]] courses, TensorFlow: [[Neural Networks]] and Working with Tabular Data and TensorFlow: Working with Images, which are both available in the [[LinkedIn]] Library.
 >
 > **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=11)** So if you haven't worked your way through these courses, you probably want to do that first.
 >
-> **[0:15](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=15)** If you know the basics of Python and you have some understanding of machine learning and have worked with TensorFlow before, you should be just fine.
+> **[0:15](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=15)** If you know the basics of [[Python (Programming Language)|Python]] and you have some understanding of machine learning and have worked with TensorFlow before, you should be just fine.
 >
-> **[0:21](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=21)** I'll also be using Google Colab.
+> **[0:21](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=21)** I'll also be using [[Google]] Colab.
 >
 > **[0:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-you-should-know?u=76281980&t=23)** Now, if you haven't used this before, you'll need a Gmail account which you can sign up for in a couple of minutes.
 >
@@ -124,24 +122,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Neural Networks]] (1), data (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Neural Networks]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Google]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** colab (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is TensorFlow?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980)
+#### [What is TensorFlow?](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=0)** - [Instructor] Let's break down what's possible with TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=0)** - [Instructor] Let's break down what's possible with [[TensorFlow]].
 >
 > **[0:03](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=3)** Now, we all know that data is key to making your machine learning models work well, and TensorFlow has some brilliant tools to help you out with that.
 >
 > **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=11)** You've got access to standard data sets to kickstart your training and validation, which is super handy.
 >
-> **[0:16](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=16)** And then TensorFlow also has these data pipelines that can handle massive amounts of data.
+> **[0:16](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=16)** And then TensorFlow also has these [[Data Pipelines]] that can handle massive amounts of data.
 >
 > **[0:20](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=20)** Now, if you need to pre-process your data, they've got layers for that too, so you can transform your inputs however you want.
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=72)** The best part is, you don't even have to train your models from scratch.
 >
-> **[1:14](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=74)** TensorFlow Hub and the Model Garden offers pre-trained models from Google and the community.
+> **[1:14](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=74)** TensorFlow Hub and the Model Garden offers pre-trained models from [[Google]] and the community.
 >
 > **[1:20](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=80)** So these high level components are like building blocks, and you can use them to fine tune models for your specific needs or customize them to tackle entirely new tasks.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=99)** Servers, edge devices, browsers, mobile apps, you name it, TensorFlow can handle it.
 >
-> **[1:43](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=103)** Now if you need to really scale up for production, there's TensorFlow serving, which can tap into some seriously powerful hardware like Google's own TPUs or Tensor Processing Units.
+> **[1:43](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=103)** Now if you need to really scale up for production, there's TensorFlow serving, which can tap into some seriously powerful [[Hardware]] like Google's own TPUs or Tensor Processing Units.
 >
 > **[1:53](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=113)** Now, if you need to analyze data locally, maybe to reduce latency or keep things secure, TensorFlow Lite lets you run models on mobile devices, edge computing rigs, and even tiny microcontrollers.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=135)** As time goes by, your data and the requirements start to shift, and suddenly your once brilliant models aren't performing as well as they used to.
 >
-> **[2:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=143)** Now, this is common knowledge if you've been working in ML for a while, and this is what MLOps is all about.
+> **[2:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=143)** Now, this is common knowledge if you've been working in ML for a while, and this is what [[MLOps]] is all about.
 >
 > **[2:29](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-tensorflow-24067815?u=76281980&t=149)** TFX is a set of tools from TensorFlow that helps you automate the entire MLOps process.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (14), data (7), [[Google]] (2), [[MLOps]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (14), [[Google]] (2), [[MLOps]] (2), [[Data Pipelines]] (1), [[Hardware]] (1)
 > **Analogies:** it's like (2), imagine (1)
 > **File Paths:** tensorflow.js (1)
 > **Env Vars:** tfx (1)
@@ -203,12 +200,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is NLP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980)
+#### [What is NLP?](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=0)** - Natural Language Processing or NLP is an area of research and computer science focusing on processing natural languages, such as English and German and so on.
+> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=0)** - [[Natural Language Processing (NLP)|Natural Language Processing]] or NLP is an area of research and computer science focusing on processing natural languages, such as English and German and so on.
 >
 > **[0:09](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=9)** Now, what do we mean by processing?
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=105)** We might provide two sentences and want to know if they're logically related.
 >
-> **[1:48](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=108)** In named entity recognition, we might want to classify each word in a sentence as either a person, location or organization.
+> **[1:48](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=108)** In named entity recognition, we might want to classify each [[Microsoft Word|word]] in a sentence as either a person, location or organization.
 >
 > **[1:56](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980&t=116)** Financial institutions are often interested in this application for new customers.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1), application (1), business (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nlp (4)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -272,14 +268,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - natural (1)
 
-#### Transformers, their use, and history
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980)
+#### [Transformers, their use, and history](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=0)** - [Instructor] Let's take a look at where transformers are used in production.
 >
-> **[0:04](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=4)** The Google search engine now uses transformers, in particular, BERT.
+> **[0:04](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=4)** The [[Google]] search engine now uses transformers, in particular, BERT.
 >
 > **[0:07](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=7)** In the past, if you did a search on Google for, can you get medicine for someone pharmacy, it wouldn't have picked up on the fact that for someone was a really important part of the query because you're looking for another person to pick up the medicine.
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=50)** This is an application of question answering that we saw earlier, using BERT.
 >
-> **[0:55](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=55)** In June, 2018, GPT or generative pre-training model, which was developed by open AI was the first pre-train transformer model and was used for fine tuning on various NRP tasks and obtained state of the art results.
+> **[0:55](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=55)** In June, 2018, GPT or generative pre-training model, which was developed by open AI was the first pre-train transformer model and was used for [[Fine Tuning]] on various NRP tasks and obtained state of the art results.
 >
 > **[1:09](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=69)** Later that year in October, 2018, researchers at Google came up with BERT or bi-directional encoder representations from transformers.
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=101)** Both of these models are larger pre-trained models using the same architecture as the original transformer.
 >
-> **[1:47](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=107)** In the same month, the team at Hugging Face bucked the trend.
+> **[1:47](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=107)** In the same month, the team at [[Hugging Face]] bucked the trend.
 >
 > **[1:50](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-their-use-and-history-15390067?u=76281980&t=110)** Everyone was moving to bigger models.
 >
@@ -317,19 +312,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Search]] (4), ai (4), bi (2), [[Hugging Face]] (2)
+> **Frameworks & Libraries:** [[Google]] (7), [[Hugging Face]] (2), [[Fine Tuning]] (1)
 > **Env Vars:** bert (7), gpt (3), nrp (1), bart (1), glue (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformers for NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980)
+#### [Transformers for NLP](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=0)** - [Narrator] Transformers form the underlying architecture for many of the popular NLP models you might've heard about such as BERT and GPT.
 >
-> **[0:07](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=7)** They were proposed by a team of researchers from Google in 2017 in the paper, "Attention Is All You Need."
+> **[0:07](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=7)** They were proposed by a team of researchers from [[Google]] in 2017 in the paper, "Attention Is All You Need."
 >
 > **[0:13](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=13)** Now, before getting into the details of the transformer architecture, let's take a look at how well they perform on some of the NLP tasks we mentioned earlier.
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=60)** And this sentence is correctly classified with a positive sentiment.
 >
-> **[1:05](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=65)** Now let's take a look at classifying each word in a sentence.
+> **[1:05](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=65)** Now let's take a look at classifying each [[Microsoft Word|word]] in a sentence.
 >
 > **[1:08](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=68)** The sentence is Singapore Airlines was the first airline to fly the A380, Chew Choon Seng was Singapore Airlines' CEO at the time, Singapore Airlines flies to New York daily.
 >
@@ -377,21 +371,20 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=165)** And if I change the context to, Singapore Airlines is the national blank of Singapore, the model changes this correctly to predicting airline as the top response.
 >
-> **[2:56](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=176)** The other sentences that are provided are less likely in order of decreasing probability.
+> **[2:56](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=176)** The other sentences that are provided are less likely in order of decreasing [[Probability]].
 >
 > **[3:01](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformers-for-nlp-15386258?u=76281980&t=181)** And you can see finally that the model has no problems with translating from English to German.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[Microsoft Word|Word]] (2), [[Google]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Google]] (1), [[Probability]] (1)
 > **Env Vars:** nlp (2), a380 (2), bert (1), gpt (1), covid (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: NLP model size
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/challenge-nlp-model-size?u=76281980)
+#### [Challenge: NLP model size](https://www.linkedin.com/learning/tensorflow-working-with-nlp/challenge-nlp-model-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,14 +406,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (1)
 > **Env Vars:** ram (2), nlp (1), bert (1), gpt (1)
 > **Code Identifiers:** get_model_size (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (cheerful music) (1)
 
-#### Solution: NLP model size
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/solution-nlp-model-size?u=76281980)
+#### [Solution: NLP model size](https://www.linkedin.com/learning/tensorflow-working-with-nlp/solution-nlp-model-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,8 +452,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bias in BERT and GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bias-in-bert-and-gpt?u=76281980)
+#### [Bias in BERT and GPT](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bias-in-bert-and-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +530,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (1), next (1)
 > **Env Vars:** bert (4), gpt (4), nlp (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
@@ -549,8 +538,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### How was BERT trained?
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980)
+#### [How was BERT trained?](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,9 +564,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980&t=65)** So BERT is conceptually simple and empirically powerful.
 >
-> **[1:08](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980&t=68)** It obtains new state-of-the-art results on 11 natural language processing tasks, and so on.
+> **[1:08](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980&t=68)** It obtains new state-of-the-art results on 11 [[Natural Language Processing (NLP)|natural language processing]] tasks, and so on.
 >
-> **[1:14](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980&t=74)** The MLM, or Masked Language Modeling task, requires BERT to predict the masked out word.
+> **[1:14](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980&t=74)** The MLM, or Masked Language Modeling task, requires BERT to predict the masked out [[Microsoft Word|word]].
 >
 > **[1:21](https://www.linkedin.com/learning/tensorflow-working-with-nlp/how-was-bert-trained?u=76281980&t=81)** So BERT is conceptually something and empirically powerful.
 >
@@ -596,14 +584,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bert (10), gpt (2), mlm (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980)
+#### [Transfer learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,9 +612,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=23)** The number of parameters was 109 million.
 >
-> **[0:27](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=27)** It took Google 12 days to train BERT, and I've put an asterisk by the 8 times V100s because BERT wasn't trained on GPUs, but rather, Google's equivalent, TPUs or tensor processing units.
+> **[0:27](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=27)** It took [[Google]] 12 days to train BERT, and I've put an asterisk by the 8 times V100s because BERT wasn't trained on GPUs, but rather, Google's equivalent, TPUs or tensor processing units.
 >
-> **[0:39](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=39)** So the size of the dataset used for training was 16 gigabytes, and the training tokens were 250 billion.
+> **[0:39](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=39)** So the size of the dataset used for training was 16 gigabytes, and the training [[Tokens]] were 250 billion.
 >
 > **[0:46](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=46)** And the data sources that was used to train BERT were Wikipedia and the BookCorpus.
 >
@@ -645,7 +632,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=91)** The number of parameters for their largest model was 165 billion.
 >
-> **[1:35](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=95)** The training time was probably around 34 days, and the infrastructure used was 10,000 V100 GPUs, and this was primarily an Azure infrastructure.
+> **[1:35](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=95)** The training time was probably around 34 days, and the infrastructure used was 10,000 V100 GPUs, and this was primarily an [[Microsoft Azure|Azure]] infrastructure.
 >
 > **[1:46](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=106)** The size of the dataset used for training was 4,500 gigabytes, 300 billion tokens were used.
 >
@@ -659,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=132)** Well, firstly, it takes much less time to train a fine-tuned model.
 >
-> **[2:16](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=136)** For BERT, the authors suggested between two and four epochs of training for fine tuning.
+> **[2:16](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=136)** For BERT, the authors suggested between two and four epochs of training for [[Fine Tuning]].
 >
 > **[2:21](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=141)** This is in contrast to the thousands of hours of GPU time required for pre-training.
 >
@@ -669,11 +656,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=156)** And remarkably, we're able to achieve state-of-the-art results.
 >
-> **[2:39](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=159)** We saw this phenomenon when using transfer learning with computer vision several years ago when working with the ImageNet dataset, and this technique of transfer learning has worked in NLP too.
+> **[2:39](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transfer-learning?u=76281980&t=159)** We saw this phenomenon when using transfer learning with [[Computer Vision]] several years ago when working with the ImageNet dataset, and this technique of transfer learning has worked in NLP too.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tokens]] (3), [[Google]] (2), [[Microsoft Azure|Azure]] (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Google]] (2), [[Microsoft Azure|Azure]] (1), [[Fine Tuning]] (1), [[Computer Vision]] (1)
 > **Env Vars:** bert (7), v100 (2), gpt (1), gpu (1), nlp (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -684,8 +671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transformer: Architecture overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980)
+#### [Transformer: Architecture overview](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +689,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=27)** So the encoder-decoder models are good for generative tasks that require an input such as translation or summarization.
 >
-> **[0:35](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=35)** Examples of such models are Facebook's Bi-directional and Auto Regressive Transformers, or BART, and Google's T5 model.
+> **[0:35](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=35)** Examples of such models are Facebook's Bi-directional and Auto Regressive Transformers, or BART, and [[Google]]'s T5 model.
 >
 > **[0:42](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980&t=42)** Encoder-only models are good for tasks that require understanding of the inputs such as sentence classification and named entity recognition.
 >
@@ -725,13 +711,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), bi (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** bert (5), gpt (4), bart (1)
 > **Analogies:** such as (5)
 > **Speakers:** - [instructor] (1)
 
-#### BERT model and tokenization
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980)
+#### [BERT model and tokenization](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +726,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=12)** On the other hand, rarely used words need to be decomposed into meaningful subwords.
 >
-> **[0:17](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=17)** BERT uncased, so this is where BERT is not case-sensitive, has a vocabulary size of around 30,000 tokens.
+> **[0:17](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=17)** BERT uncased, so this is where BERT is not case-sensitive, has a vocabulary size of around 30,000 [[Tokens]].
 >
 > **[0:24](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=24)** GPT-2 and GPT-3 have around 50,000 tokens.
 >
@@ -751,7 +736,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=38)** When you enter a sentence like I like nlp into BERT, it is converted into subword tokens.
 >
-> **[0:43](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=43)** Since the word nlp is not in BERT's vocabulary, it is split into nl and ##p.
+> **[0:43](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=43)** Since the [[Microsoft Word|word]] nlp is not in BERT's vocabulary, it is split into nl and ##p.
 >
 > **[0:50](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=50)** And since models cannot work with the words, but need to work with numbers, each of these subwords have an associated input word ID.
 >
@@ -787,7 +772,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=138)** Now, you're probably wondering, if we already have the SEP token to distinguish between the two sentences, why do we need segment embeddings or vice versa?
 >
-> **[2:25](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=145)** Deep learning is an area of active research and experimentation.
+> **[2:25](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=145)** [[Deep Learning]] is an area of active research and experimentation.
 >
 > **[2:28](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bert-model-and-tokenization?u=76281980&t=148)** The authors of BERT may have found some performance gains, which they haven't documented.
 >
@@ -819,28 +804,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (5), nlp (3), data (1), parallel (1)
+> **Frameworks & Libraries:** [[Tokens]] (7), [[Microsoft Word|Word]] (5), [[Deep Learning]] (1)
 > **Env Vars:** bert (12), sep (6), gpt (5), cls (3), bpe (1)
 > **Definitions:** is an  (2)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tokenizers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980)
+#### [Tokenizers](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=0)** - [Tutor] Let's head over to the Colab notebook to confirm our understanding of tokenization and code.
 >
-> **[0:05](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=5)** So, in the first couple of cells, we're installing TensorFlow texts and the TensorFlow Models Official.
+> **[0:05](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=5)** So, in the first couple of cells, we're installing [[TensorFlow]] texts and the TensorFlow Models Official.
 >
-> **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=11)** We then go ahead and import these Python packages.
+> **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=11)** We then go ahead and import these [[Python (Programming Language)|Python]] packages.
 >
 > **[0:14](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=14)** And then we're loading a BERT model from TensorFlow hub.
 >
 > **[0:18](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=18)** We're using a BERT model with the uncased widths.
 >
-> **[0:21](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=21)** And so you can see that we have a vocabulary size of about 30,000 tokens.
+> **[0:21](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=21)** And so you can see that we have a vocabulary size of about 30,000 [[Tokens]].
 >
 > **[0:30](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=30)** So you can see that the BERT model is a standard BERT model with uncased widths, and it has 12 layers.
 >
@@ -866,7 +850,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=77)** So the reason that we have a shape of two, 128 is because the two corresponds to the two sentences and the 128 to the sequence length.
 >
-> **[1:29](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=89)** The input word IDs are the corresponding conversion of the sub words in two input IDs with the CLS and the SEP tokens added.
+> **[1:29](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=89)** The input [[Microsoft Word|word]] IDs are the corresponding conversion of the sub words in two input IDs with the CLS and the SEP tokens added.
 >
 > **[1:38](https://www.linkedin.com/learning/tensorflow-working-with-nlp/tokenizers?u=76281980&t=98)** So you can see that the CLS token is 101 here and the SEP token is 102.
 >
@@ -882,15 +866,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Tokens]] (3), nlp (3), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Tokens]] (3), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bert (6), nlp (3), cls (2), sep (2)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Tools:** colab (1)
 > **Speakers:** - [tutor] (1)
 
-#### Self-attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980)
+#### [Self-attention](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=10)** It does this using a mechanism called self-attention that incorporates the embeddings for all the other words in the sentence.
 >
-> **[0:17](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=17)** So when processing the word it, self-attention will take a weighted average of the embeddings of the other context words.
+> **[0:17](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=17)** So when processing the [[Microsoft Word|word]] it, self-attention will take a weighted average of the embeddings of the other context words.
 >
 > **[0:24](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=24)** The darker the shade, the more weight that word is given, and every word is given some weight.
 >
@@ -918,7 +901,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=78)** This is done by taking the dot product of the query vector and the key vector.
 >
-> **[1:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=83)** And if you've forgotten your linear algebra, the T means that we are performing a transpose operation on the vector K.
+> **[1:23](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=83)** And if you've forgotten your [[Linear Algebra]], the T means that we are performing a transpose operation on the vector K.
 >
 > **[1:29](https://www.linkedin.com/learning/tensorflow-working-with-nlp/self-attention?u=76281980&t=89)** We then divide this by the square root of n to scale the dot product attention.
 >
@@ -936,16 +919,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), product (2), [[Linear Algebra]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Linear Algebra]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-head attention and feedforward network
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/multi-head-attention-and-feedforward-network?u=76281980)
+#### [Multi-head attention and feedforward network](https://www.linkedin.com/learning/tensorflow-working-with-nlp/multi-head-attention-and-feedforward-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/multi-head-attention-and-feedforward-network?u=76281980&t=0)** - [Instructor] Earlier, we looked at how self-attention can help us provide context for a word, but what if we could get multiple instances of the self-attention mechanism so that each can perform a different task?
+> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/multi-head-attention-and-feedforward-network?u=76281980&t=0)** - [Instructor] Earlier, we looked at how self-attention can help us provide context for a [[Microsoft Word|word]], but what if we could get multiple instances of the self-attention mechanism so that each can perform a different task?
 >
 > **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/multi-head-attention-and-feedforward-network?u=76281980&t=11)** One could make a link between nouns and adjectives, another could connect up pronouns to their subjects.
 >
@@ -967,12 +949,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning BERT
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980)
+#### [Fine-tuning BERT](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=0)** - [Instructor] As part of the pre-training step, when Google trained BERT with the next sentence prediction task which is a text classification task, a linear layer was added at the end of the BERT model.
+> **[0:00](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=0)** - [Instructor] As part of the pre-training step, when [[Google]] trained BERT with the next sentence prediction task which is a text classification task, a linear layer was added at the end of the BERT model.
 >
 > **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=11)** The only thing that was fed into the linear layer was from the CLS embedding.
 >
@@ -990,7 +971,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=61)** Although we don't use them for the classification task, they capture increasingly enhanced embeddings, and we shouldn't discard them earlier in the model.
 >
-> **[1:09](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=69)** If we were to do fine tuning for named entity recognition or question answering, we would use these other final hidden states.
+> **[1:09](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=69)** If we were to do [[Fine Tuning]] for named entity recognition or question answering, we would use these other final hidden states.
 >
 > **[1:17](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=77)** Let's now head over to the CoLab notebook to look at an example of fine tuning for sentiment analysis.
 >
@@ -1010,11 +991,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=132)** So what we want to do is to try and create this validation set and so we'll split the training data in order to do this.
 >
-> **[2:19](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=139)** One of the benefits of using TensorFlow is that we have some built-in APIs that support input pipelines.
+> **[2:19](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=139)** One of the benefits of using [[TensorFlow]] is that we have some built-in APIs that support input pipelines.
 >
 > **[2:25](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=145)** As part of the training process, we will just need to read data from the directories, but we don't want to make our model wait for this data.
 >
-> **[2:33](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=153)** The tf.AutoTune allows you to fetch the data dynamically.
+> **[2:33](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=153)** The tf.AutoTune allows you to [[Fetch]] the data dynamically.
 >
 > **[2:40](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=160)** Our objective is to create a data set object, which contains both the text and the associated label.
 >
@@ -1034,7 +1015,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=222)** If you want to try the full version of BERT, comment out this line with the small BERT model and uncomment out the first-line.
 >
-> **[3:51](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=231)** Just a word of warning.
+> **[3:51](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=231)** Just a [[Microsoft Word|word]] of warning.
 >
 > **[3:52](https://www.linkedin.com/learning/tensorflow-working-with-nlp/fine-tuning-bert?u=76281980&t=232)** Your training time will be significantly longer.
 >
@@ -1116,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (5), data (5), [[TensorFlow]] (5), nlp (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (5), [[TensorFlow]] (5), [[Microsoft Word|Word]] (2), [[Google]] (1), [[Fetch]] (1)
 > **Env Vars:** bert (15), cls (4), nlp (3), gpu (2), cpu (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **CLI Commands:** make (2), node (1)
@@ -1130,8 +1111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=5)** We've seen how BERT is used in production, but also the problems of bias and prejudice with BERT and GPT-2.
 >
-> **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=11)** We looked at transfer learning, which is this almost magical technique that did wonders for computer vision, and it's doing the same for NLP.
+> **[0:11](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=11)** We looked at transfer learning, which is this almost magical technique that did wonders for [[Computer Vision]], and it's doing the same for NLP.
 >
 > **[0:18](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=18)** And finally, we looked at the BERT architecture, working from tokenization all the way to self-attention.
 >
@@ -1147,17 +1127,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=30)** Alternatively, you could try out some of the other BERT variants such as BERT-Large, or DistilBERT.
 >
-> **[0:36](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=36)** You now know enough to try out some other models in the TensorFlow hub.
+> **[0:36](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=36)** You now know enough to try out some other models in the [[TensorFlow]] hub.
 >
 > **[0:40](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=40)** I hope you found this course helpful.
 >
-> **[0:41](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=41)** Thanks for watching, and I'd love to hear back from you and to connect via LinkedIn.
+> **[0:41](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=41)** Thanks for watching, and I'd love to hear back from you and to connect via [[LinkedIn]].
 >
 > **[0:46](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980&t=46)** (speaking in foreign language)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[Computer Vision]] (1), [[TensorFlow]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[TensorFlow]] (1), [[LinkedIn]] (1)
 > **Env Vars:** bert (7), nlp (2), gpt (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [jonathan] (1)

@@ -65,51 +65,48 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up ESLint to match your style
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980)
+#### [Setting up ESLint to match your style](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=0)** - Specifying your own custom styles in ESLint can feel like a complex undertaking.
+> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=0)** - Specifying your own custom styles in [[ESLint]] can feel like a complex undertaking.
 >
 > **[0:05](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=5)** The code isn't super complicated, but some of the options require you to understand both the available choices and the specific syntax to apply them.
 >
 > **[0:14](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=14)** I created this course to provide an overview of what's possible when customizing ESLint rules and how to do it.
 >
-> **[0:21](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=21)** We'll explore the different values that ESLint rules can take from simple strings to nested data structures, and we'll look at common configuration errors and how to troubleshoot them.
+> **[0:21](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=21)** We'll explore the different values that ESLint rules can take from simple strings to nested [[Data Structures]], and we'll look at common configuration errors and how to troubleshoot them.
 >
 > **[0:31](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980&t=31)** When we're done, you'll be able to build ESLint rules to work for your code style.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), data (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[Data Structures]] (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - specifying (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have intermediate to advanced level experience coding in front-end JavaScript, including modern ES6 syntax.
+> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have intermediate to advanced level experience coding in front-end [[JavaScript]], including modern ES6 syntax.
 >
-> **[0:09](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980&t=9)** It also assumes you know how to integrate ESLint into an npm project and incorporate a popular ESLint style guide.
+> **[0:09](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980&t=9)** It also assumes you know how to integrate [[ESLint]] into an [[npm]] project and incorporate a popular ESLint style guide.
 >
 > **[0:17](https://www.linkedin.com/learning/eslint-customizing-styles/what-you-should-know?u=76281980&t=17)** If you need to review basic ESLint configuration, search in our library for a course on configuring ESLint.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), front-end (1), [[JavaScript]] (1), [[npm]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (1), [[npm]] (1)
 > **CLI Commands:** npm (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980)
+#### [Using the exercise files for this course](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Narrator] All of the files for this course are freely available as a GitHub repo at this URL.
+> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Narrator] All of the files for this course are freely available as a [[GitHub]] repo at this URL.
 >
 > **[0:06](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=6)** The repository is built so that there are branches for each of the videos in this course.
 >
@@ -121,13 +118,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=37)** But if you see an E at the end of the branch, that's how the code looked at the end of the video.
 >
-> **[0:41](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=41)** In this course, I go through customizing ESLint rules.
+> **[0:41](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=41)** In this course, I go through customizing [[ESLint]] rules.
 >
 > **[0:46](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=46)** If you want to, you can download any of these branches by first going to the branch and then hitting clone or download and downloading the ZIP file for the video that you want to follow along with.
 >
 > **[0:57](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=57)** You can also just download the entire repo and start from the beginning with me.
 >
-> **[1:01](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=61)** You may need to install MPM as well as Git before you do this.
+> **[1:01](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=61)** You may need to install MPM as well as [[Git]] before you do this.
 >
 > **[1:07](https://www.linkedin.com/learning/eslint-customizing-styles/using-the-exercise-files-for-this-course?u=76281980&t=67)** If you need more experience working with Git and GitHub, make sure you're familiar working with those before taking this course.
 >
@@ -137,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2), [[ESLint]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (2), [[ESLint]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Env Vars:** url (1), zip (1), mpm (1)
 > **Tools:** github (3)
@@ -146,18 +143,17 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ravi De Lobos] This is Rav De Lobos, senior staff instructor at LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ravi De Lobos] This is Rav De Lobos, senior staff instructor at [[LinkedIn]] Learning.
 >
-> **[0:03](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=3)** And I'm going to show you how to work with LinkedIn Learning courses using GitHub Code Spaces.
+> **[0:03](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=3)** And I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] Code Spaces.
 >
 > **[0:09](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=9)** Code Spaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:15](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world hands-on practice, that mirrors software development in the workplace.
+> **[0:15](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world hands-on practice, that mirrors [[Software Development]] in the workplace.
 >
 > **[0:20](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=20)** This course has been adapted for use with GitHub Code Spaces.
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=193)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:17](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index html file right here.
+> **[3:17](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index [[HTML]] file right here.
 >
 > **[3:25](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=205)** I'm going to go ahead and save that.
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=330)** I'll hit okay.
 >
-> **[5:32](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run get fetch.
+> **[5:32](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run get [[Fetch]].
 >
 > **[5:35](https://www.linkedin.com/learning/eslint-customizing-styles/using-github-codespaces-with-this-course?u=76281980&t=335)** That way it'll automatically sync with your forked repo.
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[GitHub]] (4), [[LinkedIn]] (2), cloud (2), web (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1), [[Fetch]] (1)
 > **UI Navigation:** switch to (4), click on (3), go to (2)
 > **Tools:** github (4), visual studio (2)
 > **CLI Commands:** make (4), find (1)
@@ -327,12 +323,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Turning on checking for a rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980)
+#### [Turning on checking for a rule](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=0)** - [Instructor] To specify a custom style for an ESlint rule, you add a key value pair in the rule section of your .eslintrc file.
+> **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=0)** - [Instructor] To specify a custom style for an [[ESLint]] rule, you add a key value pair in the rule section of your .eslintrc file.
 >
 > **[0:08](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=8)** By default, an empty rules key is included in the .eslintrc file when you set it up with npx, using the Eslint--init option.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=144)** So right there in the editor, I have that information.
 >
-> **[2:28](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=148)** Now if you don't have an extension installed in your editor, you can go to the command line and you can use npm run lint which is a script that I've configured for this project.
+> **[2:28](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=148)** Now if you don't have an extension installed in your editor, you can go to the command line and you can use [[npm]] run lint which is a script that I've configured for this project.
 >
 > **[2:42](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980&t=162)** And this gives me a readout of all the errors in this project.
 >
@@ -434,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (11), [[npm]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (11), [[npm]] (1)
 > **Best Practices:** recommended (5)
 > **Documentation:** the documentation (3), the docs (1)
 > **File Paths:** index.js (3)
@@ -443,14 +438,13 @@ created: 2026-05-02
 > **CLI Commands:** npx (1), npm (1)
 > **URLs:** [eslint.org](https://eslint.org) (2)
 
-#### Configuring options for a rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980)
+#### [Configuring options for a rule](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=0)** - [Instructor] I want to add a style rule to my project to help me enforce spacing around curly braces in code for objects.
 >
-> **[0:07](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=7)** ESLint supports an object curly spacing rule for this detail and in the rules list it doesn't have a check mark so I have to enable it myself if I want to use it.
+> **[0:07](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=7)** [[ESLint]] supports an object curly spacing rule for this detail and in the rules list it doesn't have a check mark so I have to enable it myself if I want to use it.
 >
 > **[0:18](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=18)** So I can add in my .eslintrc file object-curly-spacing
 >
@@ -534,9 +528,9 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=300)** And then for that second argument I'm going to put in an object and the first key is before, the value is true, the second key is after, and that value is also true.
 >
-> **[5:20](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=320)** Now I'm using a JavaScript config file and this is just JavaScript object code.
+> **[5:20](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=320)** Now I'm using a [[JavaScript]] config file and this is just JavaScript object code.
 >
-> **[5:24](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=324)** I could easily write it as JSON in a JSON config file instead.
+> **[5:24](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=324)** I could easily write it as [[JSON]] in a JSON config file instead.
 >
 > **[5:29](https://www.linkedin.com/learning/eslint-customizing-styles/configuring-options-for-a-rule?u=76281980&t=329)** So saving that and returning back to index.js and now the editor is flagging some issues saying there should be no space before the comma but I said in my config that I do want a space before the comma.
 >
@@ -550,7 +544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (7), [[JavaScript]] (4), [[JSON]] (2), data (1)
+> **Frameworks & Libraries:** [[ESLint]] (7), [[JavaScript]] (4), [[JSON]] (2)
 > **CLI Commands:** make (5)
 > **File Paths:** index.js (3)
 > **Env Vars:** json (2)
@@ -559,8 +553,7 @@ created: 2026-05-02
 > **Code Identifiers:** firstname (1)
 > **URLs:** [eslint.org](https://eslint.org) (1)
 
-#### Troubleshooting ESLint styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/troubleshooting-eslint-styles?u=76281980)
+#### [Troubleshooting ESLint styles](https://www.linkedin.com/learning/eslint-customizing-styles/troubleshooting-eslint-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +567,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/eslint-customizing-styles/troubleshooting-eslint-styles?u=76281980&t=30)** I defined text and never use it in my code.
 >
-> **[0:33](https://www.linkedin.com/learning/eslint-customizing-styles/troubleshooting-eslint-styles?u=76281980&t=33)** Now, I didn't include that in .eslintrc because I know that the no unused vars rule is set as true by default in the ESLint recommended configuration.
+> **[0:33](https://www.linkedin.com/learning/eslint-customizing-styles/troubleshooting-eslint-styles?u=76281980&t=33)** Now, I didn't include that in .eslintrc because I know that the no unused vars rule is set as true by default in the [[ESLint]] recommended configuration.
 >
 > **[0:43](https://www.linkedin.com/learning/eslint-customizing-styles/troubleshooting-eslint-styles?u=76281980&t=43)** So, what's up?
 >
@@ -682,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (5), [[Troubleshooting]] (3), next (1), feature (1)
+> **Frameworks & Libraries:** [[ESLint]] (5)
 > **Best Practices:** recommended (7)
 > **File Paths:** index.js (3)
 > **Documentation:** the documentation (2), the docs (1)
@@ -691,14 +684,13 @@ created: 2026-05-02
 > **Exercise Files:** sample code (2)
 > **Definitions:** is an  (2)
 
-#### Challenge: Customize ESLint styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980)
+#### [Challenge: Customize ESLint styles](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=0)** (electronic techno music)
 >
-> **[0:05](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=5)** - [Instructor] Ready to try your hand at troubleshooting an ESLint configuration?
+> **[0:05](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=5)** - [Instructor] Ready to try your hand at troubleshooting an [[ESLint]] configuration?
 >
 > **[0:09](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=9)** It's time for a challenge.
 >
@@ -708,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=22)** And the index.js file in the source folder contains a set of test statements.
 >
-> **[0:27](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=27)** Each test statement has a comment right above it that describes how ESLint should react to it.
+> **[0:27](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=27)** Each test statement has a comment right above it that describes how ESLint should [[React.js|react]] to it.
 >
 > **[0:34](https://www.linkedin.com/learning/eslint-customizing-styles/challenge-customize-eslint-styles?u=76281980&t=34)** Some statements are written to result in errors, while others aren't.
 >
@@ -724,7 +716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (3), [[Troubleshooting]] (1), [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[React.js|React]] (1)
 > **File Paths:** index.js (2)
 > **URLs:** [eslint.org](https://eslint.org) (1)
 > **Cross-References:** in the next (1)
@@ -733,8 +725,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic techno music) (1)
 
-#### Solution: Customize ESLint styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/solution-customize-eslint-styles?u=76281980)
+#### [Solution: Customize ESLint styles](https://www.linkedin.com/learning/eslint-customizing-styles/solution-customize-eslint-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +743,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/eslint-customizing-styles/solution-customize-eslint-styles?u=76281980&t=33)** And indeed, back in eslintrc I don't have any extends value at all.
 >
-> **[0:41](https://www.linkedin.com/learning/eslint-customizing-styles/solution-customize-eslint-styles?u=76281980&t=41)** So, I'm just going to go with eslint recommended, and so we want the extends key and eslint:, lint:recommended as the value.
+> **[0:41](https://www.linkedin.com/learning/eslint-customizing-styles/solution-customize-eslint-styles?u=76281980&t=41)** So, I'm just going to go with [[ESLint]] recommended, and so we want the extends key and eslint:, lint:recommended as the value.
 >
 > **[0:56](https://www.linkedin.com/learning/eslint-customizing-styles/solution-customize-eslint-styles?u=76281980&t=56)** Save that, and go back here.
 >
@@ -886,7 +877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (4)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** minitems (4)
 > **Documentation:** the documentation (2), the docs (1)
@@ -900,18 +891,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=0)** - [Narrator] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=3)** You now have experience customizing ESLint for your projects.
+> **[0:03](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=3)** You now have experience customizing [[ESLint]] for your projects.
 >
 > **[0:07](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=7)** To dig deeper into incorporating ESLint into a tool chain, check out a course on integrating ESLint.
 >
-> **[0:13](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=13)** If you want to learn more about the reasons behind common coding styles, check out a course on JavaScript best practices.
+> **[0:13](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=13)** If you want to learn more about the reasons behind common coding styles, check out a course on [[JavaScript]] best practices.
 >
 > **[0:20](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980&t=20)** Feel free to follow me online.
 >

@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with server administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980)
+#### [Getting started with server administration](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,15 +122,14 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980&t=35)** My name is Ed Liberman and I've been teaching people about servers and related IT systems since the 1990s.
 >
-> **[0:41](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980&t=41)** So please join me in my LinkedIn Learning course on Networking Foundations, Servers.
+> **[0:41](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980&t=41)** So please join me in my [[LinkedIn]] Learning course on Networking Foundations, Servers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,13 +141,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=17)** Now, I do want to tell you that most of this course is concept based but there are a few demonstrations where I actually go into a server and show you how to do something.
 >
-> **[0:25](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=25)** I'd like to point out that while there are many different types of servers out there, all of those demonstrations will be done on Microsoft windows server 2019.
+> **[0:25](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=25)** I'd like to point out that while there are many different types of servers out there, all of those demonstrations will be done on [[Microsoft]] [[Windows Server]] 2019.
 >
 > **[0:34](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=34)** And again, they're going to be done at a high conceptual level.
 >
 > **[0:38](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=38)** I do want you to know that there are a number of courses in our library that you can also go to if you want to get more detail.
 >
-> **[0:45](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=45)** Now, I'd also like to point out that because I'm doing everything in the world of Microsoft server, that one of the other major vendors out there is Linux.
+> **[0:45](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=45)** Now, I'd also like to point out that because I'm doing everything in the world of Microsoft server, that one of the other major vendors out there is [[Linux]].
 >
 > **[0:56](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=56)** And we also have Linux courses that can show you how to do everything, I'm going to talk about in this course in the world of Linux.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=65)** So just give you a starting point of where you can go to learn the Linux side of things.
 >
-> **[1:11](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=71)** The first would be learning Ubuntu Server, which covers standing up a bare metal server and some basics and networking.
+> **[1:11](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=71)** The first would be learning [[Ubuntu]] Server, which covers standing up a bare metal server and some basics and networking.
 >
 > **[1:19](https://www.linkedin.com/learning/server-administration-essential-training/what-you-should-know?u=76281980&t=79)** Again, a couple of things I will show you here in this course in the world of Microsoft.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), [[Microsoft]] (3), [[Windows Server]] (1), [[Ubuntu]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Microsoft]] (3), [[Windows Server]] (1), [[Ubuntu]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -178,8 +176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Server form factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-form-factors?u=76281980)
+#### [Server form factors](https://www.linkedin.com/learning/server-administration-essential-training/server-form-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +250,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), management (1)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** stands for (2), refers to (1)
 > **Warnings:** keep in mind (3)
@@ -261,8 +257,7 @@ created: 2026-05-02
 > **Env Vars:** kvm (1)
 > **Speakers:** - [narrator] (1)
 
-#### Server components
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-components?u=76281980)
+#### [Server components](https://www.linkedin.com/learning/server-administration-essential-training/server-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/server-administration-essential-training/server-components?u=76281980&t=46)** Everything flows through the motherboard.
 >
-> **[0:49](https://www.linkedin.com/learning/server-administration-essential-training/server-components?u=76281980&t=49)** And in fact, almost all the rest of the components we're going to talk about well, can be found on this motherboard or connected to it.
+> **[0:49](https://www.linkedin.com/learning/server-administration-essential-training/server-components?u=76281980&t=49)** And in fact, almost all the [[Representational State Transfer (REST)|rest]] of the components we're going to talk about well, can be found on this motherboard or connected to it.
 >
 > **[0:55](https://www.linkedin.com/learning/server-administration-essential-training/server-components?u=76281980&t=55)** So the next component here we'll talk about is the CPU or what's commonly known as the processor.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), power (1), express (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ecc (3), pci (3), ddr (2), cpu (1), arm (1)
 > **Definitions:** is a  (5), known as (4), stands for (2), means that (1)
 > **CLI Commands:** make (3), find (3)
@@ -389,8 +384,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Power and cooling components
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/power-and-cooling-components?u=76281980)
+#### [Power and cooling components](https://www.linkedin.com/learning/server-administration-essential-training/power-and-cooling-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +476,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), stands for (1)
 > **Cross-References:** later in (1)
@@ -494,8 +487,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Server installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980)
+#### [Server installation](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,9 +495,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=5)** When you are looking to buy a server, you may find vendors who are saying, "Oh, buy this server computer."
 >
-> **[0:11](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=11)** Well, that just means that it's computer hardware that is designed for a server operating system to be installed on it and to operate as a server and in fact, you could get that operating system installed as part of the purchase of the computer itself but if you didn't and you want to install your own, you should know how to do it.
+> **[0:11](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=11)** Well, that just means that it's computer [[Hardware]] that is designed for a server operating system to be installed on it and to operate as a server and in fact, you could get that operating system installed as part of the purchase of the computer itself but if you didn't and you want to install your own, you should know how to do it.
 >
-> **[0:33](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=33)** Now, as I mentioned at the beginning of the course, there are many different server operating system choices that are out there and I'm going to demonstrate how to install Windows Server 2019.
+> **[0:33](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=33)** Now, as I mentioned at the beginning of the course, there are many different server operating system choices that are out there and I'm going to demonstrate how to install [[Windows Server]] 2019.
 >
 > **[0:45](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=45)** So here on the screen, we are looking at my Hyper-V Manager, we'll talk about virtualization later, but I have a virtual machine that's created, it's just called Windows Server and I'm going to go into it and you'll see that this machine is often known as a bare metal machine.
 >
@@ -521,13 +513,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=83)** I mean, it says press any key and I pressed the key on the keyboard and that's how I boot into the actual DVD on this virtual machine.
 >
-> **[1:33](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=93)** All right, now I apologize, the resolution is going to get a little weird here 'cause it's a virtual machine but you can see here it takes me into the windows setup window.
+> **[1:33](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=93)** All right, now I apologize, the resolution is going to get a little weird here 'cause it's a virtual machine but you can see here it takes me into the [[Windows]] setup window.
 >
 > **[1:41](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=101)** So here's Windows Server 2019.
 >
 > **[1:42](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=102)** I need to pick what language, time and currency format and keyboard or input method and so, because I'm in the US and speak English I'm going to take all the defaults and click next and then it jumps right into a button that says install now.
 >
-> **[1:59](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=119)** So I'll click that button and I will mention while we're waiting here for just a moment that what you're going to find is that while I happen to be going step-by-step through this to show you how to install Windows Server 2019 Microsoft and pretty much every vendor out there has made this.
+> **[1:59](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=119)** So I'll click that button and I will mention while we're waiting here for just a moment that what you're going to find is that while I happen to be going step-by-step through this to show you how to install Windows Server 2019 [[Microsoft]] and pretty much every vendor out there has made this.
 >
 > **[2:14](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980&t=134)** so super simple to be able to go ahead and do.
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (6), next (4), [[Virtualization]] (3), data (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Hardware]] (1), [[Windows]] (1), [[Microsoft]] (1)
 > **Prerequisites:** install (6), setup (1), set up (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
@@ -600,8 +592,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Post-installation configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980)
+#### [Post-installation configuration](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,9 +602,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=15)** Now, some vendors will possibly have you do it as part of the initial installation and some have you do it as part of a somewhat of a post-installation task so to speak.
 >
-> **[0:27](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=27)** So again, I'm demonstrating here on Windows Server 2019.
+> **[0:27](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=27)** So again, I'm demonstrating here on [[Windows Server]] 2019.
 >
-> **[0:32](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=32)** If you want to see it in the world of Linux, again please go back to the beginning of this course where I referenced a number of courses where you can see how this is done in the world of Linux.
+> **[0:32](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=32)** If you want to see it in the world of [[Linux]], again please go back to the beginning of this course where I referenced a number of courses where you can see how this is done in the world of Linux.
 >
 > **[0:42](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=42)** But here on Windows Server 2019, it is done as part of a post-installation task.
 >
@@ -627,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=80)** Well, I don't want that, I want to actually name this server and it's part of a workgroup whereas if maybe this server was going to be part of a domain, I can make it part of a domain.
 >
-> **[1:30](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=90)** There's some things here about Windows Defender Firewall and then over on the right, Windows Defender Antivirus.
+> **[1:30](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=90)** There's some things here about [[Windows]] [[Microsoft Defender|Defender]] Firewall and then over on the right, Windows Defender Antivirus.
 >
 > **[1:36](https://www.linkedin.com/learning/server-administration-essential-training/post-installation-configuration?u=76281980&t=96)** We have some remote management and desktop capabilities.
 >
@@ -723,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (4), [[Linux]] (2), [[Microsoft Defender|Defender]] (2), management (1)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (4), [[Linux]] (2), [[Microsoft Defender|Defender]] (2)
 > **UI Navigation:** click on (6), go to (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** nic (1), dhcp (1)
@@ -732,8 +723,7 @@ created: 2026-05-02
 > **Versions:** version 4 (1)
 > **Analogies:** for instance (1)
 
-#### Server roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980)
+#### [Server roles](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=55)** And by the way, it is possible for a single server to be multiple roles, that is something that can be done.
 >
-> **[1:04](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=64)** All right, so again, let me just show you some basics here, in the world of Windows Server 2019.
+> **[1:04](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=64)** All right, so again, let me just show you some basics here, in the world of [[Windows Server]] 2019.
 >
 > **[1:11](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=71)** Here in the server manager, we already did step one which was configure this local server which was the basic, initial configuration.
 >
@@ -781,7 +771,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=141)** We want to do it on Demo Server, the one we're on, right now.
 >
-> **[2:24](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=144)** And the reason for this is 'cause in the world of Microsoft Windows Server 2019, I could, from this machine, I could manage other servers from this machine.
+> **[2:24](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=144)** And the reason for this is 'cause in the world of [[Microsoft]] Windows Server 2019, I could, from this machine, I could manage other servers from this machine.
 >
 > **[2:34](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=154)** I only have the one server, though.
 >
@@ -791,7 +781,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=161)** And you'll notice there's a fairly lengthy list here, of roles.
 >
-> **[2:46](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=166)** For instance, there's a number of these Active Directory roles.
+> **[2:46](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=166)** For instance, there's a number of these [[Active Directory]] roles.
 >
 > **[2:50](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=170)** If I wanted to be a domain controller, then the role that I would want is Active Directory Domains Services.
 >
@@ -823,7 +813,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=264)** And by the way, in today's world, no matter what operating system vendor you're working with, they all do this.
 >
-> **[4:32](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=272)** So I will click Continue and then I'll have to go ahead and cancel out because without going through the rest of the proper set up of this server, I'm not going to be able to go the rest of the way.
+> **[4:32](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=272)** So I will click Continue and then I'll have to go ahead and cancel out because without going through the [[Representational State Transfer (REST)|rest]] of the proper set up of this server, I'm not going to be able to go the rest of the way.
 >
 > **[4:41](https://www.linkedin.com/learning/server-administration-essential-training/server-roles?u=76281980&t=281)** But I will tell you, there were only a couple more clicks, just a couple more like, next, next, finish, and it would have installed everything for me.
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), web (4), dns (3), [[Microsoft]] (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (2), [[Active Directory]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Prerequisites:** configure (6), set up (4), before you begin (1), install (1), setup (1)
 > **Env Vars:** dns (3), dhcp (1), iis (1)
 > **UI Navigation:** click on (4)
@@ -839,14 +829,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server connectivity options
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-connectivity-options?u=76281980)
+#### [Server connectivity options](https://www.linkedin.com/learning/server-administration-essential-training/server-connectivity-options?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/server-connectivity-options?u=76281980&t=0)** - [Instructor] So let's talk a little bit about being able to actually administrate our servers.
 >
-> **[0:06](https://www.linkedin.com/learning/server-administration-essential-training/server-connectivity-options?u=76281980&t=6)** Well, first thing I want you to keep in mind is when it comes to actual local hardware administration like you physically want to go to the server administrative.
+> **[0:06](https://www.linkedin.com/learning/server-administration-essential-training/server-connectivity-options?u=76281980&t=6)** Well, first thing I want you to keep in mind is when it comes to actual local [[Hardware]] administration like you physically want to go to the server administrative.
 >
 > **[0:15](https://www.linkedin.com/learning/server-administration-essential-training/server-connectivity-options?u=76281980&t=15)** Well, it's not quite as basic as it may sound.
 >
@@ -912,7 +901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (3), [[Hardware]] (2), management (2), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Definitions:** known as (1), stands for (1), is a  (1), refers to (1)
 > **Env Vars:** kvm (2), ssh (1)
 > **CLI Commands:** find (1), ssh (1)
@@ -926,8 +915,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General server management
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980)
+#### [General server management](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=30)** So again, I've said this before, and you are welcome to go, you know, start researching and looking if there's something specific you want to see in detail, there's plenty of courses we have in our library which will go into the detail on some of these tools, but I would like to just take a few minutes to go through kind of a high level overview of the general types of tools that are available.
 >
-> **[0:54](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=54)** So for instance, here in Windows Server 2019, we have our Server Manager, right?
+> **[0:54](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=54)** So for instance, here in [[Windows Server]] 2019, we have our Server Manager, right?
 >
 > **[1:00](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=60)** It's the tool that opens by default.
 >
@@ -965,7 +953,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=133)** So that's just kind of an idea of a general server management tool, and all servers have some kind of, you know, that central hub where you can do management for that server.
 >
-> **[2:25](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=145)** Now, one other generic tool that I'd like to show you is the Task Manager, and if you've worked with any Windows machine, going all the way back to I believe Windows 95, you might've seen this Task Manager.
+> **[2:25](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=145)** Now, one other generic tool that I'd like to show you is the Task Manager, and if you've worked with any [[Windows]] machine, going all the way back to I believe Windows 95, you might've seen this Task Manager.
 >
 > **[2:37](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980&t=157)** So if I right click down on the task bar at the bottom and then select task manager on that menu, you'll see here I get a very, very basic tool here.
 >
@@ -995,7 +983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Windows Server]] (3), [[Windows]] (3), next (1), generic (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Windows]] (3)
 > **UI Navigation:** click on (2)
 > **Analogies:** for instance (2)
 > **Prerequisites:** configure (2)
@@ -1003,14 +991,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performance management
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980)
+#### [Performance management](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=0)** - [Instructor] One very specific aspect of Server Management has to do with keeping track of how well that server is performing.
 >
-> **[0:09](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=9)** So again, there are many different performance monitoring tools out there but let me just kind of show you some of the performance management capabilities that you have in windows server.
+> **[0:09](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=9)** So again, there are many different performance monitoring tools out there but let me just kind of show you some of the performance management capabilities that you have in [[Windows Server]].
 >
 > **[0:22](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=22)** If I go back to my task manager, which we were just looking at in the last video, so I'll right click on the task bar, go back to task manager.
 >
@@ -1066,7 +1053,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=167)** We were just already in the task manager so I figured we'd go from there first.
 >
-> **[2:52](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=172)** Now there is one more tool that Microsoft builds in and it's a great tool.
+> **[2:52](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=172)** Now there is one more tool that [[Microsoft]] builds in and it's a great tool.
 >
 > **[2:55](https://www.linkedin.com/learning/server-administration-essential-training/performance-management?u=76281980&t=175)** It's probably the best one when it comes to performance monitoring.
 >
@@ -1106,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), data (4), [[Windows Server]] (1), generic (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (4)
 > **Cross-References:** go back to (2), in the last (1)
@@ -1114,8 +1101,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Event logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980)
+#### [Event logging](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,7 +1111,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=16)** These are the tools that are truly going to tell you what is and has been going on with your server.
 >
-> **[0:24](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=24)** So, in the world of Microsoft, here on our Windows server 2019 computer.
+> **[0:24](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=24)** So, in the world of [[Microsoft]], here on our [[Windows Server]] 2019 computer.
 >
 > **[0:29](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=29)** The tool that we have available is called Event Viewer.
 >
@@ -1133,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=36)** I'm going to go up to the tools menu, and you'll see here I have an option for a Event Viewer.
 >
-> **[0:41](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=41)** So I'm going to click on that, and then I'm going to expand my Windows logs and I'm going to click on the system log.
+> **[0:41](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=41)** So I'm going to click on that, and then I'm going to expand my [[Windows]] logs and I'm going to click on the system log.
 >
 > **[0:49](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=49)** Now there's a lot of things we could be looking at here.
 >
@@ -1169,7 +1155,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=130)** Now you'll notice here, it says here both the warning and the error both because of the time service.
 >
-> **[2:16](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=136)** And this is not uncommon by the way on my virtual machines that I set up when I'm creating these courses because this is just a demo machine which I have not taken the time to go through and configure properly.
+> **[2:16](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=136)** And this is not uncommon by the way on my [[Virtual Machines]] that I set up when I'm creating these courses because this is just a demo machine which I have not taken the time to go through and configure properly.
 >
 > **[2:30](https://www.linkedin.com/learning/server-administration-essential-training/event-logging?u=76281980&t=150)** And so the time services out of whack, and so it gave me a warning saying, "Alright this is a problem."
 >
@@ -1210,8 +1196,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Asset management
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/asset-management?u=76281980)
+#### [Asset management](https://www.linkedin.com/learning/server-administration-essential-training/asset-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,14 +1278,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), next (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/documentation?u=76281980)
+#### [Documentation](https://www.linkedin.com/learning/server-administration-essential-training/documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1382,7 +1365,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), data (3), [[Troubleshooting]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2)
 > **Documentation:** the documentation (1)
@@ -1394,8 +1376,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic IP configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980)
+#### [Basic IP configuration](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1400,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=62)** Otherwise the server doesn't really serve much purpose.
 >
-> **[1:05](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=65)** So let me just demonstrate here on Windows Server 2019 how we would do this.
+> **[1:05](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=65)** So let me just demonstrate here on [[Windows Server]] 2019 how we would do this.
 >
 > **[1:11](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=71)** Here in the server manager, we know that if we click on configure this local server, we have the ability to configure our ethernet connection here.
 >
@@ -1459,7 +1440,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=181)** So to do that, you click on use the following IP address and then I could type in something that would work on my network.
 >
-> **[3:09](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=189)** Now I'm on the 192.168.1 network, which is a private network here in my office, okay.
+> **[3:09](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=189)** Now I'm on the 192.168.1 network, which is a private network here in my [[Microsoft Office|office]], okay.
 >
 > **[3:16](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980&t=196)** So I could go ahead and I'll just pick 240, just pick something that's on that network that I know isn't being used.
 >
@@ -1481,7 +1462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), [[Windows Server]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** tcp (5), dhcp (3), dns (3)
 > **Prerequisites:** configure (5), set up (4), install (1)
 > **Versions:** 192.168.1 (3), 255.255.255 (1), 192.168 (1)
@@ -1490,8 +1471,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
 
-#### Common ports and protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/common-ports-and-protocols?u=76281980)
+#### [Common ports and protocols](https://www.linkedin.com/learning/server-administration-essential-training/common-ports-and-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1543,7 +1523,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), management (2), [[Security]] (1), dns (1)
 > **Env Vars:** pop (3), imap (3), ftp (2), http (1), https (1)
 > **Ports:** port 80 (1), port 443 (1), port 110 (1), port 995 (1), port 143 (1)
 > **CLI Commands:** make (2), find (1)
@@ -1552,12 +1531,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Network cabling
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/network-cabling?u=76281980)
+#### [Network cabling](https://www.linkedin.com/learning/server-administration-essential-training/network-cabling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/network-cabling?u=76281980&t=0)** - [Teacher] In today's world of networking we more often than not hear everyone talking about wireless networking.
+> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/network-cabling?u=76281980&t=0)** - [Teacher] In today's world of networking we more often than not hear everyone talking about [[Wireless Networking]].
 >
 > **[0:08](https://www.linkedin.com/learning/server-administration-essential-training/network-cabling?u=76281980&t=8)** Well, very often our servers, even in today's world are still physically connected to our networks by using network cabling.
 >
@@ -1649,19 +1627,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** tia (1), eia (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [teacher] (1)
 
-#### Wireless networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/wireless-networking?u=76281980)
+#### [Wireless networking](https://www.linkedin.com/learning/server-administration-essential-training/wireless-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/wireless-networking?u=76281980&t=0)** - [Instructor] While many servers, even in today's world, are still physically connected to our networks using actual network cabling, you may find yourself in a situation where it makes more sense to use wireless networking to connect your servers to your infrastructure.
+> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/wireless-networking?u=76281980&t=0)** - [Instructor] While many servers, even in today's world, are still physically connected to our networks using actual network cabling, you may find yourself in a situation where it makes more sense to use [[Wireless Networking]] to connect your servers to your infrastructure.
 >
 > **[0:17](https://www.linkedin.com/learning/server-administration-essential-training/wireless-networking?u=76281980&t=17)** Now, there are a number of benefits that come with using wireless networking just in general for your networks, but I'd like to talk to you here about the benefits as it is specific to your servers.
 >
@@ -1707,8 +1684,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/storage-technologies?u=76281980)
+#### [Storage technologies](https://www.linkedin.com/learning/server-administration-essential-training/storage-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1754,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), lan (1), management (1)
 > **Env Vars:** raid (2), ssd (1), tcp (1), nas (1), san (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -1786,9 +1761,9 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** setup (1)
+> **Speakers:** - [instructor] (1)
 
-#### Understanding RAID
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/understanding-raid?u=76281980)
+#### [Understanding RAID](https://www.linkedin.com/learning/server-administration-essential-training/understanding-raid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1837,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/server-administration-essential-training/understanding-raid?u=76281980&t=196)** One drive fails, the other one still has all the data.
 >
-> **[3:19](https://www.linkedin.com/learning/server-administration-essential-training/understanding-raid?u=76281980&t=199)** And then we have what is probably one of the most popular forms of RAID, which is what's known as RAID 5, and it's also called disc striping with parity.
+> **[3:19](https://www.linkedin.com/learning/server-administration-essential-training/understanding-raid?u=76281980&t=199)** And then we have what is probably one of the most popular [[Forms]] of RAID, which is what's known as RAID 5, and it's also called disc striping with parity.
 >
 > **[3:28](https://www.linkedin.com/learning/server-administration-essential-training/understanding-raid?u=76281980&t=208)** Now, this form of RAID requires a minimum of three disks, so this is three or more disks, and the idea is, what we're going to do is you're going to stripe the data across all the different disks.
 >
@@ -1904,19 +1879,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Forms]] (4), next (1)
+> **Frameworks & Libraries:** [[Forms]] (4)
 > **Env Vars:** raid (27)
 > **Definitions:** known as (3), means that (2), is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Capacity planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/capacity-planning?u=76281980)
+#### [Capacity planning](https://www.linkedin.com/learning/server-administration-essential-training/capacity-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/capacity-planning?u=76281980&t=0)** - [Instructor] When it comes to figuring out storage for our servers, you know, the obvious is to think about the different storage technologies we'll use or what kind of fault tolerance we're going to provide.
 >
-> **[0:10](https://www.linkedin.com/learning/server-administration-essential-training/capacity-planning?u=76281980&t=10)** But one of the most important things to consider is capacity planning 'cause one of the biggest problems we run into is if you don't have capacity planning, well, you suddenly run out of space when you weren't expecting to.
+> **[0:10](https://www.linkedin.com/learning/server-administration-essential-training/capacity-planning?u=76281980&t=10)** But one of the most important things to consider is [[Capacity Planning]] 'cause one of the biggest problems we run into is if you don't have capacity planning, well, you suddenly run out of space when you weren't expecting to.
 >
 > **[0:22](https://www.linkedin.com/learning/server-administration-essential-training/capacity-planning?u=76281980&t=22)** So let's talk a little bit about what we need to consider when it comes to capacity planning.
 >
@@ -1978,7 +1952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Capacity Planning]] (4)
+> **Frameworks & Libraries:** [[Capacity Planning]] (4)
 > **Warnings:** be careful (2), keep in mind (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
@@ -1990,8 +1964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rights and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980)
+#### [Rights and permissions](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,13 +1978,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=27)** But some vendors choose to call that a right and some choose to call that a permission.
 >
-> **[0:32](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=32)** Now in the world of Microsoft, giving the user the ability to access a document, for instance, that's permission.
+> **[0:32](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=32)** Now in the world of [[Microsoft]], giving the user the ability to access a document, for instance, that's permission.
 >
 > **[0:40](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=40)** Again, other vendors might call that a user right to access or an access right.
 >
 > **[0:46](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=46)** So let's just kind of look at this real quick.
 >
-> **[0:47](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=47)** Here on my Windows Server 2019 computer.
+> **[0:47](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=47)** Here on my [[Windows Server]] 2019 computer.
 >
 > **[0:50](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=50)** I'm going to go down to the task bar and click on this little folder, which opens up my File Explorer.
 >
@@ -2045,15 +2018,15 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=166)** But because I just have this one individual machine, we're going to look at it on the one machine.
 >
-> **[2:50](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=170)** The way I do that is by clicking on Start and then I'll start typing the word group.
+> **[2:50](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=170)** The way I do that is by clicking on Start and then I'll start typing the [[Microsoft Word|word]] group.
 >
 > **[2:55](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=175)** You'll see here I have the ability to edit group policy.
 >
-> **[2:59](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=179)** And again, this normally would be done through active directory and the group policy manager.
+> **[2:59](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=179)** And again, this normally would be done through [[Active Directory]] and the group policy manager.
 >
 > **[3:03](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=183)** But in this case it's just going to be the local group policy editor.
 >
-> **[3:07](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=187)** Under the computer configuration, I'm going to expand Windows settings and then expand security settings and then expand local policies.
+> **[3:07](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=187)** Under the computer configuration, I'm going to expand [[Windows]] settings and then expand security settings and then expand local policies.
 >
 > **[3:17](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980&t=197)** You'll see here that I have user right assignments and here we have a whole list of certain activities and then the users who can actually do that.
 >
@@ -2087,13 +2060,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft]] (3), [[Security]] (3), [[Windows Server]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows Server]] (1), [[Microsoft Word|Word]] (1), [[Active Directory]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (3), click on (2), right-click (1)
 > **Analogies:** kind of like (2), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/encryption?u=76281980)
+#### [Encryption](https://www.linkedin.com/learning/server-administration-essential-training/encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2101,7 +2073,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/server-administration-essential-training/encryption?u=76281980&t=7)** Now each vendor has their own versions of how we can encrypt data and there's even third-party encryption.
 >
-> **[0:15](https://www.linkedin.com/learning/server-administration-essential-training/encryption?u=76281980&t=15)** Now in the world of Microsoft Windows Server 2019, there's a couple options available when it comes to encrypting our data.
+> **[0:15](https://www.linkedin.com/learning/server-administration-essential-training/encryption?u=76281980&t=15)** Now in the world of [[Microsoft]] [[Windows Server]] 2019, there's a couple options available when it comes to encrypting our data.
 >
 > **[0:23](https://www.linkedin.com/learning/server-administration-essential-training/encryption?u=76281980&t=23)** The first is actually just done through our basic file system.
 >
@@ -2173,15 +2145,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (5), [[Microsoft]] (2), feature (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows Server]] (1)
 > **UI Navigation:** click on (4), go to (1), checkbox (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** before you begin (1), set up (1)
 > **Env Vars:** efs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server hardening
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-hardening?u=76281980)
+#### [Server hardening](https://www.linkedin.com/learning/server-administration-essential-training/server-hardening?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2229,7 +2200,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/server-administration-essential-training/server-hardening?u=76281980&t=160)** So you want to make sure that that is absolutely taken care of on all your servers.
 >
-> **[2:45](https://www.linkedin.com/learning/server-administration-essential-training/server-hardening?u=76281980&t=165)** So now let's take a look at this from a hardware perspective.
+> **[2:45](https://www.linkedin.com/learning/server-administration-essential-training/server-hardening?u=76281980&t=165)** So now let's take a look at this from a [[Hardware]] perspective.
 >
 > **[2:49](https://www.linkedin.com/learning/server-administration-essential-training/server-hardening?u=76281980&t=169)** First of all, you want to disable any unneeded hardware and physical ports or devices.
 >
@@ -2259,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Hardware]] (3), application (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **CLI Commands:** make (5)
 > **Env Vars:** bios (2)
 > **Prerequisites:** install (2)
@@ -2267,8 +2238,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Physical security
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980)
+#### [Physical security](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2320,13 +2290,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=133)** You have to have security to get in and out of the room in either direction.
 >
-> **[2:16](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=136)** Now, the next thing I want to talk to you about is something called multi-factor authentication.
+> **[2:16](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=136)** Now, the next thing I want to talk to you about is something called [[Multi-factor Authentication]].
 >
 > **[2:20](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=140)** Now we usually talk about multi-factor authentication when we're referring to actual rights and permissions, your actual access control to stuff on a server.
 >
 > **[2:30](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=150)** Well I'm talking about multi-factor authentication with regard to physical security, 'cause yes we do have it and it is basically the same concept.
 >
-> **[2:39](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=159)** The concept is you have three forms of security, right?
+> **[2:39](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=159)** The concept is you have three [[Forms]] of security, right?
 >
 > **[2:43](https://www.linkedin.com/learning/server-administration-essential-training/physical-security?u=76281980&t=163)** There's what you know, what you have, and who you are.
 >
@@ -2380,7 +2350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Multi-factor Authentication]] (5), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (5), [[Forms]] (1)
 > **Env Vars:** dna (3), rfid (2)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** picture (2), kind of like (1)
@@ -2393,8 +2363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/power-protection?u=76281980)
+#### [Power protection](https://www.linkedin.com/learning/server-administration-essential-training/power-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2462,7 +2431,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (28), feature (3), business (2), generic (1), management (1)
 > **Env Vars:** ups (12)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (3), stands for (1)
@@ -2470,8 +2438,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Environment and safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/environment-and-safety?u=76281980)
+#### [Environment and safety](https://www.linkedin.com/learning/server-administration-essential-training/environment-and-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2483,7 +2450,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/server-administration-essential-training/environment-and-safety?u=76281980&t=14)** If your server room gets to be too hot, then your servers may be at risk of overheating and having problems that way, but believe it or not, if it were to get too cold in the server room and this is one that people are like, well wait a minute, I've been in server rooms and they're pretty cold.
 >
-> **[0:31](https://www.linkedin.com/learning/server-administration-essential-training/environment-and-safety?u=76281980&t=31)** No, no, no, I'm talking about if you get down near freezing and things like that, then you could end up having condensation actually start to build up on your electronics and that's not a good thing either.
+> **[0:31](https://www.linkedin.com/learning/server-administration-essential-training/environment-and-safety?u=76281980&t=31)** No, no, no, I'm talking about if you get down near freezing and things like that, then you could end up having condensation actually start to build up on your [[Electronics]] and that's not a good thing either.
 >
 > **[0:43](https://www.linkedin.com/learning/server-administration-essential-training/environment-and-safety?u=76281980&t=43)** So you want to make sure that you are very focused on having good temperature control in your server rooms.
 >
@@ -2517,7 +2484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Electronics]] (2), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** esd (3), hvac (2)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -2526,12 +2493,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 
-#### Secure disposal
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980)
+#### [Secure disposal](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=0)** - [Instructor] Now, this next thing I want to talk to you about, as much as it does relate to environmentals and safety, and things like that, it also has to do a little bit with data security and that has to do with secure storage disposal, right?
+> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=0)** - [Instructor] Now, this next thing I want to talk to you about, as much as it does relate to environmentals and safety, and things like that, it also has to do a little bit with [[Data Security]] and that has to do with secure storage disposal, right?
 >
 > **[0:16](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=16)** So what do we do when we are actually disposing of equipment that we no longer need?
 >
@@ -2585,7 +2551,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=175)** And the reason why is because, believe it or not, you might be thinking to yourself, "Okay, I've smashed this hard drive and it's in a thousand different pieces."
 >
-> **[3:02](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=182)** If somebody has those thousand pieces, they can, if they're really skilled, they can find ways to get it all reconstructed, almost like a jigsaw puzzle, and figure out how to get back in and get to your data.
+> **[3:02](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=182)** If somebody has those thousand pieces, they can, if they're really skilled, they can find ways to get it all reconstructed, almost like a [[Jigsaw]] puzzle, and figure out how to get back in and get to your data.
 >
 > **[3:14](https://www.linkedin.com/learning/server-administration-essential-training/secure-disposal?u=76281980&t=194)** The other thing you want to keep in mind is when you are disposing of any form of computer equipment, you don't just throw it in the garbage, okay?
 >
@@ -2601,7 +2567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), [[Security]] (1), business (1), [[Jigsaw]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Jigsaw]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** known as (1)
@@ -2613,8 +2579,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of virtualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980)
+#### [Benefits of virtualization](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2624,7 +2589,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980&t=15)** Now, there are two main reason for this cost reduction.
 >
-> **[0:19](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980&t=19)** The first is the obvious one, which is since we have the ability to have multiple virtual servers on one physical server, it means we have to purchase less hardware.
+> **[0:19](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980&t=19)** The first is the obvious one, which is since we have the ability to have multiple virtual servers on one physical server, it means we have to purchase less [[Hardware]].
 >
 > **[0:32](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980&t=32)** So we save money immediately.
 >
@@ -2676,19 +2641,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (3), [[Hardware]] (3), feature (1), [[Troubleshooting]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (3)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing virtual servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980)
+#### [Implementing virtual servers](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=0)** - There are a number of virtualization technologies out there that can help you to quickly and easily implement virtual servers.
 >
-> **[0:10](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=10)** Couple of examples that come to mind quickly would be Microsoft's Hyper-V or VMware would be another huge vendor in the world of virtualization.
+> **[0:10](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=10)** Couple of examples that come to mind quickly would be [[Microsoft]]'s Hyper-V or VMware would be another huge vendor in the world of virtualization.
 >
 > **[0:19](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=19)** We have entire courses on how to use some of these virtualization technologies.
 >
@@ -2696,9 +2660,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=36)** So what we're looking at right here is the Hyper-V manager that we have on a Microsoft server.
 >
-> **[0:45](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=45)** And you'll see here that I, over in the kind of the middle top here, you'll see there's a number of virtual machines.
+> **[0:45](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=45)** And you'll see here that I, over in the kind of the middle top here, you'll see there's a number of [[Virtual Machines]].
 >
-> **[0:50](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=50)** And in fact, we saw this screen briefly in one other video in the course, which is when I actually installed the Windows server 2019 operating system.
+> **[0:50](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=50)** And in fact, we saw this screen briefly in one other video in the course, which is when I actually installed the [[Windows Server]] 2019 operating system.
 >
 > **[1:01](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=61)** And I did so on this virtual machine down at the bottom of the list called Windows server.
 >
@@ -2708,7 +2672,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=74)** So on the left here, you'll see here I have a machine here called recording PC.
 >
-> **[1:19](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=79)** That's actually the name of my physical computer that I'm running in my office.
+> **[1:19](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=79)** That's actually the name of my physical computer that I'm running in my [[Microsoft Office|office]].
 >
 > **[1:25](https://www.linkedin.com/learning/server-administration-essential-training/implementing-virtual-servers?u=76281980&t=85)** So if I right click on that computer, I have the ability to go ahead and select new virtual machine.
 >
@@ -2800,19 +2764,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Windows Server]] (4), [[Virtualization]] (3), [[Microsoft]] (3), [[Virtual Machines]] (3)
+> **Frameworks & Libraries:** [[Windows Server]] (4), [[Microsoft]] (3), [[Virtual Machines]] (3), [[Microsoft Office|Office]] (1)
 > **Env Vars:** dvd (7)
 > **UI Navigation:** click on (3), go to (2), checkbox (1), select the (1)
 > **Prerequisites:** install (3), before you begin (1), set up (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - there (1)
 
-#### Overview of cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980)
+#### [Overview of cloud computing](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=0)** - [Instructor] Cloud computing is a term that is pretty much becoming commonplace in today's world of IT networking.
+> **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] is a term that is pretty much becoming commonplace in today's world of IT networking.
 >
 > **[0:07](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=7)** More and more businesses are choosing to go to cloud computing for their server services.
 >
@@ -2824,7 +2787,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=38)** Well, the first would be cost.
 >
-> **[0:39](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=39)** Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site data centers, the racks of servers, round the clock, electricity for power and cooling and in some cases, even the need for IT experts for managing the infrastructure.
+> **[0:39](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=39)** Cloud computing eliminates the capital expense of buying [[Hardware]] and software and setting up and running on-site data centers, the racks of servers, round the clock, electricity for power and cooling and in some cases, even the need for IT experts for managing the infrastructure.
 >
 > **[0:56](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=56)** Those expenditures can add up real fast.
 >
@@ -2834,7 +2797,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=65)** So even vast amounts of computing resources can be provisioned in just a matter of minutes.
 >
-> **[1:11](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=71)** And sometimes, it can even be just a matter of a few mouse clicks and you can quickly provision new resources, which really gives a business a lot of flexibility and takes the pressures off of capacity planning.
+> **[1:11](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=71)** And sometimes, it can even be just a matter of a few mouse clicks and you can quickly provision new resources, which really gives a business a lot of flexibility and takes the pressures off of [[Capacity Planning]].
 >
 > **[1:22](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=82)** How about performance?
 >
@@ -2858,15 +2821,15 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=152)** The first would be the public cloud.
 >
-> **[2:35](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=155)** Public clouds are owned and operated by a third party cloud service provider which deliver their computing resources like servers and storage over the internet and one example of this would be Microsoft Azure, right?
+> **[2:35](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=155)** Public clouds are owned and operated by a third party cloud service provider which deliver their computing resources like servers and storage over the internet and one example of this would be [[Microsoft Azure]], right?
 >
-> **[2:48](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=168)** I'll just keep it in the world of Microsoft 'cause all my demonstrations have been on Microsoft.
+> **[2:48](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=168)** I'll just keep it in the world of [[Microsoft]] 'cause all my demonstrations have been on Microsoft.
 >
 > **[2:52](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=172)** So, with the public cloud, all hardware, software and other supporting infrastructure is owned and managed by the cloud provider.
 >
 > **[3:01](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=181)** You access these services and manage your account by using a web browser.
 >
-> **[3:05](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=185)** But we also have private clouds.
+> **[3:05](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=185)** But we also have [[Private Clouds]].
 >
 > **[3:07](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=187)** A private cloud refers to cloud computing resources used exclusively by a single business or organization.
 >
@@ -2876,13 +2839,13 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=214)** So we have public and private, so you can guess what the third type would be.
 >
-> **[3:38](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=218)** And that would be the hybrid cloud, which is where we combine public and private clouds, brought together by technology that allows data and applications to be shared between them.
+> **[3:38](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=218)** And that would be the [[Hybrid Cloud]], which is where we combine public and private clouds, brought together by technology that allows data and applications to be shared between them.
 >
 > **[3:50](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=230)** So by allowing data and applications to move between private and public clouds, a hybrid cloud gives your business greater flexibility, more deployment options and helps optimize your existing infrastructure, security and compliance.
 >
 > **[4:04](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=244)** And I will tell you that the hybrid cloud is probably the most common that we see in today's world.
 >
-> **[4:11](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=251)** I will also add that there is the idea of overall hybrid cloud computing in the sense that you're not necessarily having a hybrid of private and public, but you have a hybrid of a truly private or local infrastructure that's not really a cloud along with a cloud infrastructure.
+> **[4:11](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=251)** I will also add that there is the idea of overall hybrid cloud computing in the sense that you're not necessarily having a hybrid of private and public, but you have a hybrid of a truly private or local infrastructure that's not really a cloud along with a [[Cloud Infrastructure]].
 >
 > **[4:29](https://www.linkedin.com/learning/server-administration-essential-training/overview-of-cloud-computing?u=76281980&t=269)** So, that's the other idea of hybrid cloud computing, all right?
 >
@@ -2890,7 +2853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (25), data (9), [[Hybrid Cloud]] (5), business (4), [[Hardware]] (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (13), [[Hybrid Cloud]] (5), [[Hardware]] (3), [[Microsoft]] (2), [[Private Clouds]] (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2900,8 +2863,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning for a disaster
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/planning-for-a-disaster?u=76281980)
+#### [Planning for a disaster](https://www.linkedin.com/learning/server-administration-essential-training/planning-for-a-disaster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3013,7 +2975,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (2)
 > **Definitions:** known as (3), is a  (2), is called (1)
 > **Cross-References:** we talked about (2), coming up (1)
 > **UI Navigation:** go to (1)
@@ -3021,8 +2982,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backup strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/backup-strategies?u=76281980)
+#### [Backup strategies](https://www.linkedin.com/learning/server-administration-essential-training/backup-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3148,15 +3108,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (1), business (1)
 > **Definitions:** is a  (2), known as (1), in other words (1), means that (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** just like (1), imagine (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/troubleshooting-methodology?u=76281980)
+#### [Troubleshooting methodology](https://www.linkedin.com/learning/server-administration-essential-training/troubleshooting-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3182,7 +3140,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/server-administration-essential-training/troubleshooting-methodology?u=76281980&t=65)** What did you do, it's your fault?
 >
-> **[1:07](https://www.linkedin.com/learning/server-administration-essential-training/troubleshooting-methodology?u=76281980&t=67)** So you want to be careful about how you word your questions to the users, you know say things maybe more like, so what is it that you were doing or what were you trying to accomplish?
+> **[1:07](https://www.linkedin.com/learning/server-administration-essential-training/troubleshooting-methodology?u=76281980&t=67)** So you want to be careful about how you [[Microsoft Word|word]] your questions to the users, you know say things maybe more like, so what is it that you were doing or what were you trying to accomplish?
 >
 > **[1:17](https://www.linkedin.com/learning/server-administration-essential-training/troubleshooting-methodology?u=76281980&t=77)** Or what do you normally do?
 >
@@ -3280,7 +3238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (5), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8)
 > **Warnings:** be careful (2), troubleshoot (1)
 > **Env Vars:** kiss (2)
@@ -3293,20 +3251,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed finding out about server administration as much as I've enjoyed explaining it to you.
 >
-> **[0:05](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980&t=5)** Now, if you're interested in learning more about server administration, as I've mentioned throughout the course, there are many other courses specific to both Windows and Linux servers which can help you advance your skills in server administration.
+> **[0:05](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980&t=5)** Now, if you're interested in learning more about server administration, as I've mentioned throughout the course, there are many other courses specific to both [[Windows]] and [[Linux]] servers which can help you advance your skills in server administration.
 >
 > **[0:22](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980&t=22)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Speakers:** - [ed] (1)
 
 

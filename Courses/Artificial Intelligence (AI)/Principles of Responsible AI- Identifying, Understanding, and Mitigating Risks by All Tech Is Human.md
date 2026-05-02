@@ -53,8 +53,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying, understanding, and mitigating risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/principles-of-responsible-ai-identifying-understanding-and-mitigating-risks-by-all-tech-is-human/identifying-understanding-and-mitigating-risks?u=76281980)
+#### [Identifying, understanding, and mitigating risks](https://www.linkedin.com/learning/principles-of-responsible-ai-identifying-understanding-and-mitigating-risks-by-all-tech-is-human/identifying-understanding-and-mitigating-risks?u=76281980)
 
 
 ## Instructor

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-ai-aptitude-as-a-senior-manag
 course_count: 6
 linkedin_topics:
   - Artificial Intelligence (AI)
-louvain_cluster: 4
+louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence

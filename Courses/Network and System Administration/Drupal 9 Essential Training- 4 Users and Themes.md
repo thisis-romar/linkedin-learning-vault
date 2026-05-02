@@ -62,18 +62,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to the Drupal 9 Essential Training.
+> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to the [[Drupal]] 9 Essential Training.
 >
 > **[0:05](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=5)** My name's Rod Martin and I'm your instructor for this series.
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=8)** In this course, we're going to cover two important topics, users and themes.
 >
-> **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=14)** Now in Drupal, user management is really important and it's very robust.
+> **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=14)** Now in Drupal, [[User Management]] is really important and it's very robust.
 >
 > **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980&t=20)** The roles, permissions, and users system in Drupal governs what people can see and what people can do.
 >
@@ -100,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction and the user workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980)
+#### [Introduction and the user workflow](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980&t=38)** All right, head over to People and click on Roles.
 >
-> **[0:43](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980&t=43)** When you install Drupal, there are three roles installed by default, anonymous user is somebody who just visits your website and has no login or permissions at all.
+> **[0:43](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980&t=43)** When you install [[Drupal]], there are three roles installed by default, anonymous user is somebody who just visits your website and has no login or permissions at all.
 >
 > **[0:54](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980&t=54)** And authenticated user is someone who has a login and their permissions can be updated perhaps to add nodes in a certain content type if that's something that you want you users to be able to do.
 >
@@ -141,14 +139,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (2), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **Prerequisites:** install (2), set up (2), setup (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [presenter] (1)
 
-#### Adding a user role and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980)
+#### [Adding a user role and permissions](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=79)** All right, a content editor should be able to do a number of things.
 >
-> **[1:24](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=84)** And again, this is something that you'll work out in your site plan before you even touch Drupal.
+> **[1:24](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=84)** And again, this is something that you'll work out in your site plan before you even touch [[Drupal]].
 >
 > **[1:30](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=90)** What does a content editor need to do?
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=119)** You'll see this on any permission where administration of a particular module is involved.
 >
-> **[2:08](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=128)** Let's skip right past the field UI, the file UI... And as we look at filters, you'll see that, by default, they have access to the basic HTML text format.
+> **[2:08](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=128)** Let's skip right past the field UI, the file UI... And as we look at filters, you'll see that, by default, they have access to the basic [[HTML]] text format.
 >
 > **[2:19](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-role-and-permissions?u=76281980&t=139)** This is because authenticated users already do, and Drupal assumes that your content editor is at least an authenticated user or above.
 >
@@ -332,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Drupal]] (2), [[HTML]] (2), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), [[HTML]] (2)
 > **UI Navigation:** click on (4), scroll down (3), drag and drop (1)
 > **CLI Commands:** node (3), make (1)
 > **Env Vars:** html (2)
@@ -341,8 +338,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - if (1)
 
-#### Adding a user account and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-account-and-testing?u=76281980)
+#### [Adding a user account and testing](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/adding-a-user-account-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,17 +388,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), node (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), node (1)
 > **Speakers:** - [instructor] (1)
 
-#### User registration and fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980)
+#### [User registration and fields](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=3)** - [Instructor] One of the great things about Drupal 9 is the fact that users are an entity, which means you can create very robust community-based systems and you can add as many fields to a user profile as you need.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=3)** - [Instructor] One of the great things about [[Drupal]] 9 is the fact that users are an entity, which means you can create very robust community-based systems and you can add as many fields to a user profile as you need.
 >
 > **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=19)** All right.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=197)** So a new account email, waiting approval email, admin email when someone's waiting approval, account activation, account blocked, cancellation confirmation, account canceled and a really important one, password recovery.
 >
-> **[3:32](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=212)** Now, if you look at these you kind of see that there are tokens being used and you should never delete the tokens.
+> **[3:32](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=212)** Now, if you look at these you kind of see that there are [[Tokens]] being used and you should never delete the tokens.
 >
 > **[3:38](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=218)** Of course you can move them around but for instance, in this one that one time log in URL token is really important and if that email got sent out without it, well of course it would be useless.
 >
@@ -490,13 +484,13 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=301)** If you're going to use something like the group module to allow people to have groups on your site where they can see their own content add their own content and things like that then the Drupal 9 user administration really comes in handy where you can add as many fields as you want to profiles.
 >
-> **[5:18](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=318)** I'd encourage you to Google for all of the other modules you might want to consider using for the user profile system.
+> **[5:18](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=318)** I'd encourage you to [[Google]] for all of the other modules you might want to consider using for the user profile system.
 >
 > **[5:25](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/user-registration-and-fields?u=76281980&t=325)** It really is great in Drupal 9.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (5), [[Tokens]] (3), next (1), hit (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Tokens]] (3), [[Google]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** picture (2), just like (1), for instance (1)
 > **CLI Commands:** make (2)
@@ -505,8 +499,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating content workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/creating-content-workflows?u=76281980)
+#### [Creating content workflows](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/creating-content-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +641,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8)
 > **CLI Commands:** node (8), find (2), make (1)
 > **UI Navigation:** scroll down (3), go to (2), click on (2)
 > **Prerequisites:** set up (2), install (1)
@@ -660,12 +652,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Themes explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980)
+#### [Themes explained](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=3)** - [Narrator] Well, your Drupal site won't look very good, until you get a theme.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=3)** - [Narrator] Well, your [[Drupal]] site won't look very good, until you get a theme.
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=8)** A theme is what takes Drupal's core output, and makes it look the way you want.
 >
@@ -677,11 +668,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=31)** In literally milliseconds, Drupal goes and grabs the content and begins to assemble the page.
 >
-> **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=38)** This is done through a series of PHP calls to the database, through core and contributed modules.
+> **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=38)** This is done through a series of [[PHP]] calls to the database, through core and contributed modules.
 >
-> **[0:45](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=45)** Once Drupal assembles all of the content and layout from the database and configuration, it then generates a series of HTML.twig files or template files.
+> **[0:45](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=45)** Once Drupal assembles all of the content and layout from the database and configuration, it then generates a series of [[HTML]].twig files or template files.
 >
-> **[0:57](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=57)** It then passes that rendered output to your theme, that's comprised of a configuration file in a YAML format, HTML.twig override files, CSS JavaScript, and any images associated with your layout, and then generates the page that the user ends up seeing.
+> **[0:57](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=57)** It then passes that rendered output to your theme, that's comprised of a configuration file in a YAML format, HTML.twig override files, CSS [[JavaScript]], and any images associated with your layout, and then generates the page that the user ends up seeing.
 >
 > **[1:19](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980&t=79)** So while technically you don't need a theme in Drupal, well, without it, it would look pretty bad.
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (17), database (3), [[HTML]] (2), [[PHP]] (1), css (1)
+> **Frameworks & Libraries:** [[Drupal]] (17), [[HTML]] (2), [[PHP]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (2), php (1), yaml (1), css (1), zurb (1)
 > **CLI Commands:** php (1), find (1)
 > **URLs:** [drupal.org](https://drupal.org) (2)
@@ -728,12 +719,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** similar to (1)
 
-#### Installing and configuring Breeze
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980)
+#### [Installing and configuring Breeze](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=3)** - [Instructor] All right, with that introduction to theming in Drupal, head over to [drupal.org/project/breeze](https://drupal.org/project/breeze).
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=3)** - [Instructor] All right, with that introduction to theming in [[Drupal]], head over to [drupal.org/project/breeze](https://drupal.org/project/breeze).
 >
 > **[0:11](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=11)** Now, this is a theme that was actually created specifically for the Drupal Explained books by Daniel Pickering who's done a lot of work for OSTraining.
 >
@@ -781,11 +771,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=155)** This one's somewhere in between.
 >
-> **[2:37](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=157)** Click on Settings and we have General, Components, JavaScript, CDN and Advanced for Bootstrap settings.
+> **[2:37](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=157)** Click on Settings and we have General, Components, [[JavaScript]], CDN and Advanced for Bootstrap settings.
 >
 > **[2:45](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=165)** So you can update the button settings, container settings, you can use a Fluid class.
 >
-> **[2:55](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=175)** Update settings for forms.
+> **[2:55](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=175)** Update settings for [[Forms]].
 >
 > **[2:58](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/installing-and-configuring-breeze?u=76281980&t=178)** Use responsive images and default image shape, rounded circle or thumbnail.
 >
@@ -895,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (12), [[JavaScript]] (2), next (2), [[Search]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[JavaScript]] (2), [[Forms]] (1)
 > **Prerequisites:** install (7), you'll need (2)
 > **CLI Commands:** composer (5), node (1)
 > **UI Navigation:** click on (4), scroll down (1)

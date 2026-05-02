@@ -116,12 +116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the essentials of Java 17
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980)
+#### [Learn the essentials of Java 17](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980&t=0)** - [Angie] Java is one of the world's most popular programming languages.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980&t=0)** - [Angie] [[Java]] is one of the world's most popular programming languages.
 >
 > **[0:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980&t=4)** It runs on billions of devices all over the world, making the ability to program in Java a highly sought after skill for enterprise developers.
 >
@@ -135,19 +134,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980&t=47)** I'm Angie Jones, a certified Java developer in Java Champion.
 >
-> **[0:53](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980&t=53)** Join me in this LinkedIn Learning course as we dive into core Java programming.
+> **[0:53](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980&t=53)** Join me in this [[LinkedIn]] Learning course as we dive into core Java programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Programming]] (2), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[LinkedIn]] (1)
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/coderpad-tour?u=76281980)
 
-#### Programming and algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980)
+#### [Programming and algorithms](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,9 +168,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980&t=49)** Programs were originally written in machine language, a series of zeros and ones, because this is the only language computers understand.
 >
-> **[0:59](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980&t=59)** People later created more human-friendly programming languages to write in, such as Java.
+> **[0:59](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980&t=59)** People later created more human-friendly programming languages to write in, such as [[Java]].
 >
-> **[1:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980&t=65)** These languages are translated behind the scenes into machine language, and then interpreted by the computer's hardware.
+> **[1:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980&t=65)** These languages are translated behind the scenes into machine language, and then interpreted by the computer's [[Hardware]].
 >
 > **[1:16](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/programming-and-algorithms?u=76281980&t=76)** In addition to Java, there are many other programming languages as well.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Java]] (3), data (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Hardware]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -211,8 +208,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install IntelliJ Community Edition
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980)
+#### [Install IntelliJ Community Edition](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980&t=17)** Ensure that the one they've selected is the correct one.
 >
-> **[0:22](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980&t=22)** For me, it's Mac OS, but we also have Windows and Linux here as well.
+> **[0:22](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980&t=22)** For me, it's Mac OS, but we also have [[Windows]] and [[Linux]] here as well.
 >
 > **[0:28](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980&t=28)** Click the download button under the Community Edition.
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [jetbrains.com](https://jetbrains.com) (1)
 > **Env Vars:** ide (1)
@@ -247,12 +243,11 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Prerequisites:** install (1)
 
-#### Install the Java Development Kit (JDK)
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-the-java-development-kit-jdk?u=76281980)
+#### [Install the Java Development Kit (JDK)](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-the-java-development-kit-jdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-the-java-development-kit-jdk?u=76281980&t=0)** - [Angie] Before writing Java code, we need to install the Java development kit, often referred to as the JDK.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-the-java-development-kit-jdk?u=76281980&t=0)** - [Angie] Before writing [[Java]] code, we need to install the Java development kit, often referred to as the JDK.
 >
 > **[0:08](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-the-java-development-kit-jdk?u=76281980&t=8)** Fortunately, IntelliJ allows us to do this right from within the IDE.
 >
@@ -289,12 +284,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980)
+#### [Packages](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980&t=0)** - [Instructor] In Java, a package is a folder or container that holds Java files.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980&t=0)** - [Instructor] In [[Java]], a package is a folder or container that holds Java files.
 >
 > **[0:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980&t=5)** Let's first create a project so that we can create a package within our project.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), next (2), hit (1)
+> **Frameworks & Libraries:** [[Java]] (9)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** gross_calculator (2)
@@ -360,12 +354,11 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980)
+#### [Classes](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=0)** - [Instructor] Packages contain Java files, also known as classes.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=0)** - [Instructor] Packages contain [[Java]] files, also known as classes.
 >
 > **[0:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=4)** Let's create a new class.
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=40)** That's because Java does not allow spaces in the name of a class.
 >
-> **[0:45](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=45)** Also notice that although the class name contains three different words and they're all together, each word begins with an uppercase letter.
+> **[0:45](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=45)** Also notice that although the class name contains three different words and they're all together, each [[Microsoft Word|word]] begins with an uppercase letter.
 >
 > **[0:56](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/classes?u=76281980&t=56)** Capitalizing the first letter in each word helps with readability and it's also a convention within Java.
 >
@@ -419,19 +412,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (16), [[Microsoft Word|Word]] (3), next (1)
+> **Frameworks & Libraries:** [[Java]] (16), [[Microsoft Word|Word]] (3)
 > **UI Navigation:** right-click (1), double-click (1)
 > **Definitions:** known as (1), is a  (1)
 > **File Paths:** grosspaycalculator.java (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Main method
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/main-method?u=76281980)
+#### [Main method](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/main-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/main-method?u=76281980&t=0)** - [Angie] Any code added between these two braces will belong to the Java class.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/main-method?u=76281980&t=0)** - [Angie] Any code added between these two braces will belong to the [[Java]] class.
 >
 > **[0:07](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/main-method?u=76281980&t=7)** The curly braces encompass a block of code.
 >
@@ -485,13 +477,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (7)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (2)
 > **Speakers:** - [angie] (1)
 
-#### Reserved words
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980)
+#### [Reserved words](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,22 +496,21 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=24)** Reserved words are words that a programming language has decided means something specific within the language, and therefore, cannot be used to name things within our program.
 >
-> **[0:37](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=37)** So we couldn't name something class or public or package because these words are reserved and can only be used for what Java has designated them for.
+> **[0:37](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=37)** So we couldn't name something class or public or package because these words are reserved and can only be used for what [[Java]] has designated them for.
 >
 > **[0:51](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=51)** There are dozens of reserved words.
 >
 > **[0:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=54)** As we build more things together, I want you to pay attention to the colors.
 >
-> **[0:59](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=59)** Anytime you type something and it turns orange or whatever color the reserved words are in your editor, make a note to yourself that this is another reserved word.
+> **[0:59](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/reserved-words?u=76281980&t=59)** Anytime you type something and it turns orange or whatever color the reserved words are in your editor, make a note to yourself that this is another reserved [[Microsoft Word|word]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Method names
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-method-names?u=76281980)
+#### [Code Solution: Method names](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-method-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,8 +533,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980)
+#### [Creating variables](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,11 +573,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=107)** It says it cannot resolve the symbol hours.
 >
-> **[1:51](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=111)** This means Java has no idea what hours is because we have not declared it.
+> **[1:51](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=111)** This means [[Java]] has no idea what hours is because we have not declared it.
 >
 > **[1:59](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=119)** Programming languages are either dynamically typed or statically typed.
 >
-> **[2:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=124)** Dynamically typed programming languages such as JavaScript determine the data type of a variable at run time.
+> **[2:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=124)** Dynamically typed programming languages such as [[JavaScript]] determine the data type of a variable at run time.
 >
 > **[2:12](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=132)** Meaning while the program is running.
 >
@@ -608,7 +597,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=183)** 40 is a whole number, also known as an integer.
 >
-> **[3:08](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=188)** In Java, the reserved word int is used as the primitive data type for integer values.
+> **[3:08](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=188)** In Java, the reserved [[Microsoft Word|word]] int is used as the primitive data type for integer values.
 >
 > **[3:17](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980&t=197)** So again, we declare this variable with a data type of int.
 >
@@ -670,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Java]] (3), [[Programming]] (3), next (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Versions:** 25.50 (2)
 > **Code Identifiers:** grosspay (1)
@@ -678,12 +667,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Primitive data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/primitive-data-types?u=76281980)
+#### [Primitive data types](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/primitive-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/primitive-data-types?u=76281980&t=0)** - [Angie] Primitive data types are the most basic data types and are provided by Java.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/primitive-data-types?u=76281980&t=0)** - [Angie] Primitive data types are the most basic data types and are provided by [[Java]].
 >
 > **[0:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/primitive-data-types?u=76281980&t=5)** Here are the eight primitive data types in Java, as well as their default values, size, type, and an example.
 >
@@ -711,21 +699,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Versions:** 9.2 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [angie] (1)
 
-#### Local variable type inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980)
+#### [Local variable type inference](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980&t=0)** - [Angie] While Java is a statically typed language, it offers type inference for local variables, which means we can declare a variable as VAR and Java will infer the data type based on what is assigned to the variable.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980&t=0)** - [Angie] While [[Java]] is a statically typed language, it offers type inference for local variables, which means we can declare a variable as VAR and Java will infer the data type based on what is assigned to the variable.
 >
 > **[0:17](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980&t=17)** Let's take a look at an example.
 >
-> **[0:19](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980&t=19)** As opposed to using boolean as the data type for the variable isWaterWet, we can use the word VAR.
+> **[0:19](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980&t=19)** As opposed to using boolean as the data type for the variable isWaterWet, we can use the [[Microsoft Word|word]] VAR.
 >
 > **[0:29](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/local-variable-type-inference?u=76281980&t=29)** When using VAR, you must initialize the variable at the time of declaration.
 >
@@ -739,14 +726,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** var (4)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** iswaterwet (1)
 > **Speakers:** - [angie] (1)
 
-#### Naming variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980)
+#### [Naming variables](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,11 +754,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=67)** That's my friendly advice.
 >
-> **[1:10](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=70)** There are a few conventions for naming variables in Java.
+> **[1:10](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=70)** There are a few conventions for naming variables in [[Java]].
 >
 > **[1:14](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=74)** For example, variables should start with a lowercase letter.
 >
-> **[1:19](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=79)** And they should use camel case when containing more than one word.
+> **[1:19](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=79)** And they should use camel case when containing more than one [[Microsoft Word|word]].
 >
 > **[1:25](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/naming-variables?u=76281980&t=85)** There are also some hard rules when naming variables.
 >
@@ -796,15 +782,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (3)
 > **Analogies:** for example (3), such as (1), just like (1)
 > **Code Identifiers:** payrate (1)
 > **Definitions:** means that (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980)
+#### [Modifying variables](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +821,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=83)** Yay, this is our first exposure with classes from other packages.
 >
-> **[1:28](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=88)** Java comes bundled with several classes and if we ever need to use a class that exists in another language, we must first add a line to import that class.
+> **[1:28](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=88)** [[Java]] comes bundled with several classes and if we ever need to use a class that exists in another language, we must first add a line to import that class.
 >
 > **[1:40](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=100)** Notice when I click import class, we now have a import statement here.
 >
@@ -846,7 +831,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=124)** When we type scanner dot, notice, IntelliJ presents us with available options.
 >
-> **[2:11](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=131)** Many of these start with the word next, followed by some data type.
+> **[2:11](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=131)** Many of these start with the [[Microsoft Word|word]] next, followed by some data type.
 >
 > **[2:16](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=136)** You'll always choose the one that matches the data type that you're expecting as input.
 >
@@ -876,7 +861,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=205)** We can do so by saying scanner.close.
 >
-> **[3:29](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=209)** The rest of the program remains the same.
+> **[3:29](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=209)** The [[Representational State Transfer (REST)|rest]] of the program remains the same.
 >
 > **[3:32](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/modifying-variables?u=76281980&t=212)** Let's run it.
 >
@@ -892,19 +877,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), prompt (3), [[Java]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** payrate (4), nextint (1), nextdouble (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Tools:** intellij (2)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arithmetic operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arithmetic-operators?u=76281980)
+#### [Arithmetic operators](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arithmetic-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arithmetic-operators?u=76281980&t=0)** - [Angie] Java provides five operators for basic math calculations.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arithmetic-operators?u=76281980&t=0)** - [Angie] [[Java]] provides five operators for basic math calculations.
 >
 > **[0:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arithmetic-operators?u=76281980&t=5)** These operators work with any numeric values, which includes the data types byte, short, int, long, float, and double.
 >
@@ -926,13 +910,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [angie] (1)
 
-#### Code Solution: Fill in the blanks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-fill-in-the-blanks?u=76281980)
+#### [Code Solution: Fill in the blanks](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-fill-in-the-blanks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,7 +937,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -963,8 +945,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980)
+#### [If statements](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +981,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980&t=93)** Now here on line 26 is where we want to introduce an If statement that will determine if we should add the bonus to this employee's payment based on the number of sales they made.
 >
-> **[1:47](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980&t=107)** To program an If statement, you write the word if, which is a reserved word in Java, then you follow if with an open parentheses and a closed parentheses.
+> **[1:47](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980&t=107)** To program an If statement, you write the [[Microsoft Word|word]] if, which is a reserved word in [[Java]], then you follow if with an open parentheses and a closed parentheses.
 >
 > **[2:01](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980&t=121)** Inside of the set of parentheses is the condition to evaluate.
 >
@@ -1046,14 +1027,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Programming]] (1), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Java]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [educator] (1)
 
-#### If-else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-statements?u=76281980)
+#### [If-else statements](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1059,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-statements?u=76281980&t=70)** Then we have an if statement that says if the sales are greater than or equal to the quota then we give them a message letting them know that they've met their quota.
 >
-> **[1:21](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-statements?u=76281980&t=81)** To add an alternative path, we use the reserve word else followed by a set of curly braces.
+> **[1:21](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-statements?u=76281980&t=81)** To add an alternative path, we use the reserve [[Microsoft Word|word]] else followed by a set of curly braces.
 >
 > **[1:30](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-statements?u=76281980&t=90)** Notice the else clause doesn't have parentheses for the condition because it's not needed.
 >
@@ -1113,8 +1093,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### If-else-if statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-if-statements?u=76281980)
+#### [If-else-if statements](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-else-if-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,12 +1183,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980)
+#### [Switch statements](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1222,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=126)** Notice, we don't use curly braces for cases, instead, we use the colon to begin, and then you can add however many statements you need to in the case.
 >
-> **[2:18](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=138)** And when you're done with that case, you terminate it with the reserve word break.
+> **[2:18](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=138)** And when you're done with that case, you terminate it with the reserve [[Microsoft Word|word]] break.
 >
 > **[2:27](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=147)** Here are the four other cases which cover all of the valid values for grade.
 >
@@ -1267,7 +1244,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=205)** Once the statements in case A have been executed, the entire switch statement will terminate.
 >
-> **[3:32](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=212)** It will not even evaluate the rest of the cases.
+> **[3:32](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=212)** It will not even evaluate the [[Representational State Transfer (REST)|rest]] of the cases.
 >
 > **[3:36](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-statements?u=76281980&t=216)** Control will be returned to the main path of the program.
 >
@@ -1303,8 +1280,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-expressions?u=76281980)
+#### [Switch expressions](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1300,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-expressions?u=76281980&t=54)** This means the same thing, which is, if grade is A for example, a sign, excellent job to the message, variable.
 >
-> **[1:06](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-expressions?u=76281980&t=66)** Let me do that for the rest of the cases as well.
+> **[1:06](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-expressions?u=76281980&t=66)** Let me do that for the [[Representational State Transfer (REST)|rest]] of the cases as well.
 >
 > **[1:11](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/switch-expressions?u=76281980&t=71)** Another nice thing about switch expressions is that they do not need a break statement as there is no fall through like with switch statements.
 >
@@ -1357,14 +1333,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relational operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/relational-operators?u=76281980)
+#### [Relational operators](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/relational-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/relational-operators?u=76281980&t=0)** - [Angie] Relational operators are symbols used within conditions.
 >
-> **[0:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/relational-operators?u=76281980&t=5)** Let's look at examples of Java's six relational operators within boolean expressions.
+> **[0:05](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/relational-operators?u=76281980&t=5)** Let's look at examples of [[Java]]'s six relational operators within boolean expressions.
 >
 > **[0:13](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/relational-operators?u=76281980&t=13)** The greater than operator evaluates if the number on the left of the symbol is greater than the number on the right.
 >
@@ -1408,11 +1383,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), data (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Speakers:** - [angie] (1)
 
-#### Logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/logical-operators?u=76281980)
+#### [Logical operators](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/logical-operators?u=76281980&t=13)** For example, if we had a scenario where a person must make at least 30,000 US dollars and have been working at their current job for at least two years in order to qualify for a loan, we'd need our if statement to evaluate both of these conditions to determine if the user qualifies.
 >
-> **[0:34](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/logical-operators?u=76281980&t=34)** There are three logical operators in Java.
+> **[0:34](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/logical-operators?u=76281980&t=34)** There are three logical operators in [[Java]].
 >
 > **[0:37](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/logical-operators?u=76281980&t=37)** The first logical operator is AND.
 >
@@ -1488,14 +1462,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Short circuit logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/short-circuit-logic?u=76281980)
+#### [Short circuit logic](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/short-circuit-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,7 +1494,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/short-circuit-logic?u=76281980&t=88)** Because the first condition is already true, there's no need to evaluate the second operand of this condition since this is using an or operator, we only need one condition to be true for the entire condition to result to true.
 >
-> **[1:43](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/short-circuit-logic?u=76281980&t=103)** So, this does indeed results are true and the program moves on to evaluate the rest of the first operation with the second condition.
+> **[1:43](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/short-circuit-logic?u=76281980&t=103)** So, this does indeed results are true and the program moves on to evaluate the [[Representational State Transfer (REST)|rest]] of the first operation with the second condition.
 >
 > **[1:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/short-circuit-logic?u=76281980&t=114)** The next evaluation takes the result of the first operation which was true and uses the and operator.
 >
@@ -1535,13 +1508,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** known as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Change for a dollar game
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-change-for-a-dollar-game?u=76281980)
+#### [Code Solution: Change for a dollar game](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-change-for-a-dollar-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1539,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -1577,8 +1548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### While loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980)
+#### [While loop](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,7 +1590,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980&t=104)** So after we get the input, let's go ahead and say validate input here.
 >
-> **[1:50](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980&t=110)** To create a while loop, we write the word while and then inside of a set of parentheses, we add a condition.
+> **[1:50](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980&t=110)** To create a while loop, we write the [[Microsoft Word|word]] while and then inside of a set of parentheses, we add a condition.
 >
 > **[2:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980&t=120)** If this condition is true, it will go inside of the loop, which is denoted by a set of curly braces.
 >
@@ -1672,15 +1642,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** hoursworked (6), maxhours (3), payrate (1)
 > **Best Practices:** it's best to (2)
 > **CLI Commands:** make (1)
 > **Warnings:** important note (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do while loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/do-while-loop?u=76281980)
+#### [Do while loop](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/do-while-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1665,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/do-while-loop?u=76281980&t=34)** The program should repeat these actions until the user indicates they are done.
 >
-> **[0:40](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/do-while-loop?u=76281980&t=40)** To create a do while loop, we'll write the word do, followed by a set of curly braces.
+> **[0:40](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/do-while-loop?u=76281980&t=40)** To create a do while loop, we'll write the [[Microsoft Word|word]] do, followed by a set of curly braces.
 >
 > **[0:46](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/do-while-loop?u=76281980&t=46)** Notice, there's no condition here because the do while loop doesn't check the condition until after the loop has been run one time.
 >
@@ -1766,7 +1735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** runagain (4), nextint (1)
 > **Analogies:** similar to (1), just like (1)
 > **Definitions:** means that (1)
@@ -1774,8 +1743,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### For loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/for-loop?u=76281980)
+#### [For loop](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/for-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1789,7 +1757,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/for-loop?u=76281980&t=33)** Now we can create a for loop that will accumulate the price of each item.
 >
-> **[0:39](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/for-loop?u=76281980&t=39)** We start the for loop by writing the word for and a set of parentheses.
+> **[0:39](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/for-loop?u=76281980&t=39)** We start the for loop by writing the [[Microsoft Word|word]] for and a set of parentheses.
 >
 > **[0:45](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/for-loop?u=76281980&t=45)** Within the parentheses of a for loop exists three statements.
 >
@@ -1881,14 +1849,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nested loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/nested-loops?u=76281980)
+#### [Nested loops](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/nested-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1988,8 +1955,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Break statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/break-statement?u=76281980)
+#### [Break statement](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/break-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,7 +1987,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/break-statement?u=76281980&t=116)** Now, once we find the letter A, there's no reason to continue the loop.
 >
-> **[2:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/break-statement?u=76281980&t=120)** So to be efficient, we'll terminate the loop using the reserved word break.
+> **[2:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/break-statement?u=76281980&t=120)** So to be efficient, we'll terminate the loop using the reserved [[Microsoft Word|word]] break.
 >
 > **[2:07](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/break-statement?u=76281980&t=127)** When the program encounters the break keyword, it will discontinue looping regardless of what iteration it is on or whether the loop's condition has been meant.
 >
@@ -2029,13 +1995,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** currentletter (1), charat (1), letterfound (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [angie] (1)
 
-#### Code Solution: Roll the die game
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-roll-the-die-game?u=76281980)
+#### [Code Solution: Roll the die game](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-roll-the-die-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,7 +2032,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2076,12 +2040,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980)
+#### [Creating methods](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=0)** - [Instructor] In Java, methods are subtasks within a class that are used to break a complex problem into small manageable pieces.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=0)** - [Instructor] In [[Java]], methods are subtasks within a class that are used to break a complex problem into small manageable pieces.
 >
 > **[0:08](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=8)** Methods perform a specific task and can help eliminate redundancy and code.
 >
@@ -2101,7 +2064,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=48)** The very first line of the method is called the header.
 >
-> **[0:52](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=52)** The first word in a method header is the access modifier.
+> **[0:52](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=52)** The first [[Microsoft Word|word]] in a method header is the access modifier.
 >
 > **[0:57](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980&t=57)** Access modifiers indicate who is allowed access to use this method.
 >
@@ -2181,14 +2144,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Java]] (3), next (3), [[Microsoft Word|Word]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** required to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Calling methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/calling-methods?u=76281980)
+#### [Calling methods](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/calling-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2210,7 +2172,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/calling-methods?u=76281980&t=54)** While the greetUser method is defined, it has not been called.
 >
-> **[1:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/calling-methods?u=76281980&t=60)** When you run a Java application, the program starts off in the main method.
+> **[1:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/calling-methods?u=76281980&t=60)** When you run a [[Java]] application, the program starts off in the main method.
 >
 > **[1:06](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/calling-methods?u=76281980&t=66)** It's the only method that does not have to be explicitly called.
 >
@@ -2226,14 +2188,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** greetuser (7)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variable scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-scope?u=76281980)
+#### [Variable scope](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2293,7 +2254,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-scope?u=76281980&t=224)** When we update the value of myVariable on line 12, it knows we are referring to the global variable and the same is true on line 13 when we print the value of this variable.
 >
-> **[3:57](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-scope?u=76281980&t=237)** If you are within a local scope, and explicitly want to reference the global variable as opposed to the local one that will be used by default, you can do so by using the reserved word this.
+> **[3:57](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-scope?u=76281980&t=237)** If you are within a local scope, and explicitly want to reference the global variable as opposed to the local one that will be used by default, you can do so by using the reserved [[Microsoft Word|word]] this.
 >
 > **[4:11](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-scope?u=76281980&t=251)** On line six, when we use the variable name by itself, the compiler will use the local variable by this name.
 >
@@ -2315,8 +2276,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passing data to methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/passing-data-to-methods?u=76281980)
+#### [Passing data to methods](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/passing-data-to-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2396,12 +2356,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** isuserqualified (6), double_salary (1), requiredsalary (1), requiredcreditscore (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning data from methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/returning-data-from-methods?u=76281980)
+#### [Returning data from methods](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/returning-data-from-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2465,13 +2423,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** notifyuser (6), isuserqualified (4), isqualified (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overloading methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/overloading-methods?u=76281980)
+#### [Overloading methods](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/overloading-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2508,8 +2464,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-calculator?u=76281980)
+#### [Code Solution: Calculator](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2541,8 +2496,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining classes for objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/defining-classes-for-objects?u=76281980)
+#### [Defining classes for objects](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/defining-classes-for-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2634,14 +2588,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Definitions:** known as (1), means that (1), is a  (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/constructors?u=76281980)
+#### [Constructors](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2661,7 +2613,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/constructors?u=76281980&t=42)** The default constructor is typically used to assign default values to fields.
 >
-> **[0:49](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/constructors?u=76281980&t=49)** In Java, a default constructor is always defined implicitly.
+> **[0:49](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/constructors?u=76281980&t=49)** In [[Java]], a default constructor is always defined implicitly.
 >
 > **[0:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/constructors?u=76281980&t=54)** So even if you don't declare it explicitly, as we have done here, it still exists by default under the covers.
 >
@@ -2715,8 +2667,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Instantiating objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/instantiating-objects?u=76281980)
+#### [Instantiating objects](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/instantiating-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2742,7 +2693,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/instantiating-objects?u=76281980&t=50)** Since we're using this object to model a room, let's call it room1 and we'll add an equal sign.
 >
-> **[0:58](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/instantiating-objects?u=76281980&t=58)** Now we create an instance by using the reserved word new, followed by the constructor of the class we're creating the object based upon.
+> **[0:58](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/instantiating-objects?u=76281980&t=58)** Now we create an instance by using the reserved [[Microsoft Word|word]] new, followed by the constructor of the class we're creating the object based upon.
 >
 > **[1:10](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/instantiating-objects?u=76281980&t=70)** But if we look over in the Rectangle class, there are two constructors here.
 >
@@ -2792,14 +2743,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** calculatearea (2), setwidth (1), setlength (1), areaofroom1 (1), areaofroom2 (1)
 > **Analogies:** such as (2)
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Objects as method parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/objects-as-method-parameters?u=76281980)
+#### [Objects as method parameters](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/objects-as-method-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2841,13 +2791,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Code Identifiers:** calculatetotalarea (2), calculatearea (2), double_area (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Objects as method return types
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/objects-as-method-return-types?u=76281980)
+#### [Objects as method return types](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/objects-as-method-return-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2891,12 +2839,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** getroom (4), return_new (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wrapper classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/wrapper-classes?u=76281980)
+#### [Wrapper classes](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/wrapper-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2928,29 +2874,28 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/wrapper-classes?u=76281980&t=102)** This method, and most of the others I've discussed are available in the other wrapper classes as well.
 >
-> **[1:49](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/wrapper-classes?u=76281980&t=109)** I encourage you to check out the Java docs to see what else is available.
+> **[1:49](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/wrapper-classes?u=76281980&t=109)** I encourage you to check out the [[Java]] docs to see what else is available.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** doublevalue (1), flowvalue (1)
 > **Env Vars:** min_value (1), max_value (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Records
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980)
+#### [Records](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=0)** - [Instructor] A Record is a special type of Java class.
+> **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=0)** - [Instructor] A Record is a special type of [[Java]] class.
 >
 > **[0:03](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=3)** That is great for simple objects that will only need fields and methods to access those fields.
 >
 > **[0:10](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=10)** Here is a record that serves as a model for an account.
 >
-> **[0:15](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=15)** Notice that instead of the word class, we use the word record.
+> **[0:15](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=15)** Notice that instead of the [[Microsoft Word|word]] class, we use the word record.
 >
 > **[0:20](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/records?u=76281980&t=20)** Also, the fields are defined in the class declaration within a set of parentheses followed by a set of curly braces.
 >
@@ -2992,8 +2937,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Create a car object
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-need-name?u=76281980)
+#### [Code Solution: Create a car object](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-need-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3035,8 +2979,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arrays?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3120,12 +3063,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), [[Programming]] (1)
 > **Analogies:** for example (3), picture (1), it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Variable arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-arguments?u=76281980)
+#### [Variable arguments](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/variable-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3185,15 +3126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Analogies:** for example (2), just like (1)
 > **Code Identifiers:** calculatesum (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Generate a bingo card
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-need-name-23120866?u=76281980)
+#### [Code Solution: Generate a bingo card](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-need-name-23120866?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3234,8 +3173,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980)
+#### [Strings](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3255,11 +3193,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=48)** Here in the main method, we're making a call to count words which has not been implemented yet.
 >
-> **[0:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=54)** And we're sending the string, I love Java.
+> **[0:54](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=54)** And we're sending the string, I love [[Java]].
 >
 > **[0:58](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=58)** In order to split a string you have to determine a token that you like to split the string on.
 >
-> **[1:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=64)** In our case, we have a whitespace between each word.
+> **[1:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=64)** In our case, we have a whitespace between each [[Microsoft Word|word]].
 >
 > **[1:08](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980&t=68)** So if we want to count the number of words we can split the string using the whitespace as a divider.
 >
@@ -3359,15 +3297,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (3), is a  (3), in other words (1)
 > **Analogies:** just like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Warnings:** important note (1)
 > **Speakers:** - [tutor] (1)
 
-#### Text blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/text-blocks?u=76281980)
+#### [Text blocks](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/text-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3387,7 +3324,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/text-blocks?u=76281980&t=40)** The preferred way is to have both the opening and closing quotes aligned on their own respective lines with the text block in between.
 >
-> **[0:51](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/text-blocks?u=76281980&t=51)** While still strings, text blocks provides a more readable approach to dealing with long complex strings such as JSON or our SQL queries.
+> **[0:51](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/text-blocks?u=76281980&t=51)** While still strings, text blocks provides a more readable approach to dealing with long complex strings such as [[JSON]] or our [[SQL]] queries.
 
 > [!info]- Semantic Content
 >
@@ -3396,8 +3333,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code Solution: Password validator
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-password-validator?u=76281980)
+#### [Code Solution: Password validator](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/code-solution-password-validator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3431,7 +3367,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** isvalid (1)
 > **Speakers:** - [instructor] (1)
@@ -3442,14 +3377,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=0)** - [Angie] Congratulations, you've made it to the end of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=4)** If this was your first time working with Java, I encourage you to create a new program of your own.
+> **[0:04](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=4)** If this was your first time working with [[Java]], I encourage you to create a new program of your own.
 >
 > **[0:10](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=10)** This will help you retain what you've learned by using the knowledge you've just gained while it's still fresh.
 >
@@ -3457,7 +3391,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=24)** If you're ready to keep learning, check out my other Java 17 Essentials course, which builds upon the knowledge you've gained in this course.
 >
-> **[0:33](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=33)** There are also many other course offerings here on LinkedIn Learning.
+> **[0:33](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=33)** There are also many other course offerings here on [[LinkedIn]] Learning.
 >
 > **[0:37](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980&t=37)** Just search for Java in the top bar.
 >
@@ -3467,7 +3401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[LinkedIn]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[LinkedIn]] (2)
 > **Versions:** java 17 (1)
 > **Speakers:** - [angie] (1)
 

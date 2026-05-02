@@ -92,18 +92,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GCP and Machine Learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980)
+#### [GCP and Machine Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=0)** What is your most challenging machine learning project?
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=3)** Google Cloud's Vertex AI services were designed to provide flexible and scalable solution building blocks for your ML challenges. From integrating large language models to custom model development, tuning, and deployment, we'll be hands-on with Vertex AI notebooks and APIs.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=3)** [[Google Cloud Platform (GCP)|Google Cloud]]'s [[Vertex]] AI services were designed to provide flexible and scalable solution building blocks for your ML challenges. From integrating [[Large Language Models (LLM)|large language models]] to custom model development, tuning, and deployment, we'll be hands-on with Vertex AI notebooks and APIs.
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=22)** I can't wait to show you how new tools such as Google AI Studio will get you up and running quickly.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=22)** I can't wait to show you how new tools such as [[Google]] AI Studio will get you up and running quickly.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=28)** You'll also use the Vertex AI APIs to master end-to-end MLOps.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=28)** You'll also use the Vertex AI APIs to master end-to-end [[MLOps]].
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980&t=34)** My name is Lynn Langit.
 >
@@ -115,11 +114,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Vertex]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1), [[MLOps]] (1)
 > **Analogies:** such as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,11 +125,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=4)** If you have familiarity with machine learning, whether on-prem or in the cloud, that would be great.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=9)** Also, we'll be using Python libraries for machine learning.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=9)** Also, we'll be using [[Python (Programming Language)|Python]] libraries for machine learning.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=13)** We'll be using Jupyter Notebooks, and we'll be working on Google Cloud Platform.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=13)** We'll be using Jupyter Notebooks, and we'll be working on [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=19)** So if you have familiarity with core services such as buckets, virtual machines, IAM or identity and access management and permissions, that would also be helpful.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=19)** So if you have familiarity with core services such as buckets, [[Virtual Machines]], IAM or identity and access management and permissions, that would also be helpful.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/what-you-should-know?u=76281980&t=30)** If you're new to GCP, I have a course in the library called GCP essentials that you might want to pause this video and take a look at.
 >
@@ -141,24 +139,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (2), cloud (1), [[Python (Programming Language)|Python]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** gcp (2), iam (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
 > **Analogies:** such as (1)
 
-#### About using cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980)
+#### [About using cloud services](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=0)** There are two different ways that you can process the information in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=4)** One, you can just watch me because I'm going to be doing quite a lot of demos, working with the actual services on the Google Cloud Platform.
+> **[0:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=4)** One, you can just watch me because I'm going to be doing quite a lot of demos, working with the actual services on the [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=13)** The other way is, if you wish to follow along, then I recommend the following.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=18)** If you can, you should create a dedicated Google Cloud project for learning.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=18)** If you can, you should create a dedicated [[Google Cloud Platform (GCP)|Google Cloud]] project for learning.
 >
 > **[0:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=23)** And that way when you're done, you can actually delete it.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=53)** And then a best practice is to turn off your Google Cloud services when you're done learning.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=59)** So turn off your virtual machines, turn off your notebooks, or pause them, and then you can restart them because they are billed when they are turned on.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=59)** So turn off your [[Virtual Machines]], turn off your notebooks, or pause them, and then you can restart them because they are billed when they are turned on.
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/about-using-cloud-services?u=76281980&t=67)** So use these practices so that you don't get that surprise bill when you are learning.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Virtual Machines]] (1), gcp (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** gcp (1)
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
@@ -191,12 +188,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Vertex AI Model Garden
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980)
+#### [Use Vertex AI Model Garden](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=0)** To start, I've created a demonstration Google Cloud project and I've enabled the Vertex AI APIs.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=0)** To start, I've created a demonstration [[Google Cloud Platform (GCP)|Google Cloud]] project and I've enabled the [[Vertex]] AI APIs.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=7)** So we are in the dashboard, and I want to start the section with a new area called the Model Garden.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=49)** So, you know, these are model summaries, so you can start by looking at them.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=53)** Many folks have probably heard of the model Llama 2, which is a model that was created at Facebook or Meta, and you can see that there's information about the model.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=53)** Many folks have probably heard of the model [[LLaMA]] 2, which is a model that was created at Facebook or Meta, and you can see that there's information about the model.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=66)** And you can see then use cases for the model and documentation and license.
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=77)** Now the deployment for these models depends on who created them.
 >
-> **[1:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=82)** This model was not created by Google.
+> **[1:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=82)** This model was not created by [[Google]].
 >
 > **[1:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=85)** And so you would need to either open a notebook in an environment called Colaboratory Enterprise or Colab Enterprise, or you would need to deploy this to an endpoint.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=126)** Now, these models are all of the newest type.
 >
-> **[2:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=129)** They are generative AI.
+> **[2:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=129)** They are [[Generative AI]].
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=130)** So they generate some sort of output based on your input.
 >
@@ -264,19 +260,19 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=159)** But the latest and greatest of course is LLMs with generative AI.
 >
-> **[2:42](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=162)** As of this recording, Google's new release that is still in preview is Gemini Pro.
+> **[2:42](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=162)** As of this recording, Google's new release that is still in preview is [[Gemini]] Pro.
 >
 > **[2:49](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=169)** And so we have really great integration here.
 >
 > **[2:52](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=172)** If we click "VIEW DETAILS," we can open a notebook, we can view code, or we can go into a new tool called Language Studio.
 >
-> **[3:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=182)** What this does is this allows us to start to work with these new large language models.
+> **[3:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=182)** What this does is this allows us to start to work with these new [[Large Language Models (LLM)|large language models]].
 >
 > **[3:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=188)** And, of course, we have all kinds of new use cases we can cover here.
 >
 > **[3:11](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=191)** Here's a list of what Google is recommending.
 >
-> **[3:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=194)** So summarizing, question answering, classification, sentiment analysis, or entity extraction, or content creation.
+> **[3:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=194)** So summarizing, question answering, classification, sentiment analysis, or entity extraction, or [[Content Creation]].
 >
 > **[3:21](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=201)** So if we open in Language Studio, we can then put in a prompt.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=214)** Once we have our prompt, we can save it.
 >
-> **[3:36](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=216)** And that's sort of the first step in the new world of application development.
+> **[3:36](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=216)** And that's sort of the first step in the new world of [[Application Development]].
 >
 > **[3:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980&t=221)** Now, because this is new to really all of us, it's important to follow Google's guidance if we're using these generative models, particularly Google models.
 >
@@ -326,19 +322,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), prompt (6), [[Generative AI]] (5), ai (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Google]] (8), [[Generative AI]] (5), [[Gemini]] (3), [[Vertex]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is a  (7)
 > **Env Vars:** view (1), details (1)
 > **Cross-References:** later in (1)
 > **Tools:** colab (1)
 > **Analogies:** for example (1)
 
-#### Design and test language model prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980)
+#### [Design and test language model prompts](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=0)** Now, working in the Vertex AI Model Garden, you can select your model by searching on it or filtering or clicking on the model card, or if you're interested in generative AI, you can click and you'll be taken over to a new section, which is the Vertex AI Studio.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=0)** Now, working in the [[Vertex]] AI Model Garden, you can select your model by searching on it or filtering or clicking on the model card, or if you're interested in [[Generative AI]], you can click and you'll be taken over to a new section, which is the Vertex AI Studio.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=17)** And then you'll have the ability to work with the new types of generative models.
 >
@@ -356,9 +351,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=54)** Notice that you have a "getting started", you have a "my prompts", and you have a "tune and distill."
 >
-> **[0:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=58)** And the idea here is the first step in using models in your custom applications is around prompt engineering or prompt tuning.
+> **[0:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=58)** And the idea here is the first step in using models in your custom applications is around [[Prompt Engineering]] or prompt tuning.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=68)** So if we click "TEXT PROMPT," we then can work with Gemini.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=68)** So if we click "TEXT PROMPT," we then can work with [[Gemini]].
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=72)** And we have two ways to deal with this.
 >
@@ -410,9 +405,9 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=202)** Now after this saves, if you go back to the Model Garden, in addition to that, if I go into the Gemini Pro model card here and I click "VIEW DETAILS," you can see we were in the Language Studio, but you can also open in a Colab Enterprise notebook.
 >
-> **[3:37](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=217)** And this is different than Colab which is separate than Google Cloud.
+> **[3:37](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=217)** And this is different than Colab which is separate than [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[3:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=221)** Colab is hosted by Google as a SaaS offering.
+> **[3:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=221)** Colab is hosted by [[Google]] as a [[SaaS]] offering.
 >
 > **[3:44](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-language-model-prompts?u=76281980&t=224)** It has a free and a pro version.
 >
@@ -448,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[Gemini]] (5), ai (3), application (3), [[Vertex]] (2)
+> **Frameworks & Libraries:** [[Gemini]] (5), [[Vertex]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Generative AI]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** lgm (2), text (1), prompt (1), view (1), details (1)
 > **Tools:** colab (6)
 > **Cross-References:** in the next (1), go back to (1)
@@ -457,12 +452,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1), set up (1)
 > **CLI Commands:** pip (1)
 
-#### Design and test multimodal model prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980)
+#### [Design and test multimodal model prompts](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=0)** There's been justifiable, tremendous excitement around Gemini Pro Vision, which is Google's multimodal large language model. In the Vertex AI Studio, you're encouraged to try it out, and so we're going to do that.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=0)** There's been justifiable, tremendous excitement around [[Gemini]] Pro Vision, which is [[Google]]'s multimodal large language model. In the [[Vertex]] AI Studio, you're encouraged to try it out, and so we're going to do that.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=17)** So what we can do is we can use a prompt along with media, and we can use images or we can use video.
 >
@@ -500,7 +494,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=105)** And what that is is you can have multiple inputs.
 >
-> **[1:49](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=109)** Inputs are also called tokens, and all the large language models have limits on how many tokens.
+> **[1:49](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=109)** Inputs are also called [[Tokens]], and all the [[Large Language Models (LLM)|large language models]] have limits on how many tokens.
 >
 > **[1:56](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-multimodal-model-prompts?u=76281980&t=116)** Now during the preview period, all of this is free, but eventually, this will be a consumer service and you will pay by the tokens.
 >
@@ -518,12 +512,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Gemini]] (4), [[Google]] (3), [[Tokens]] (3), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (3), [[Tokens]] (3), [[Vertex]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Test image model generative output
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980)
+#### [Test image model generative output](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,11 +524,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=7)** Click "Vision."
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=8)** And if you're looking for a model that you can work with as a foundational model, you'll notice that Google has one available.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=8)** And if you're looking for a model that you can work with as a foundational model, you'll notice that [[Google]] has one available.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=15)** It's called Imagen.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=17)** So it's important to understand that not all the capability is around Gemini.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=17)** So it's important to understand that not all the capability is around [[Gemini]].
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=22)** You're certainly hearing a lot of it in the tech press, but there are other generative models.
 >
@@ -543,7 +536,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=33)** The use cases here are to generate images, mask-free editing, in-painting and out-painting, and styles.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=41)** And so if we open Vision Studio, you can see that we're in Vertex AI Studio. Now, unlike multimodal and language examples here, it's not immediately obvious that you're using Imagen.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=41)** And so if we open Vision Studio, you can see that we're in [[Vertex]] AI Studio. Now, unlike multimodal and language examples here, it's not immediately obvious that you're using Imagen.
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=55)** So that's why I took this path to come into here. And then to work with it, you upload an image and then you get a visual description.
 >
@@ -595,19 +588,18 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=177)** Following the prompt guides is extremely important.
 >
-> **[3:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=182)** So you have all this guidance here under generative AI, and you have this entire section on Imagen and image models.
+> **[3:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=182)** So you have all this guidance here under [[Generative AI]], and you have this entire section on Imagen and image models.
 >
 > **[3:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/test-image-model-generative-output?u=76281980&t=190)** As these capabilities become available, be sure to consult the documentation so that you can use them in the way that they're designed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Google]] (1), [[Gemini]] (1), [[Vertex]] (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Gemini]] (1), [[Vertex]] (1), [[Generative AI]] (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
 
-#### Design and test speech generative output
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980)
+#### [Design and test speech generative output](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=3)** So what's left is speech.
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=5)** So this can convert speech into text or synthesized speech using Google's universal speech model.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=5)** So this can convert speech into text or synthesized speech using [[Google]]'s universal speech model.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=12)** So if we click "OPEN," we can do text to speech.
 >
@@ -643,19 +635,19 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=82)** Files are transcribed with Chirp, and it has some other limitations.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=87)** So another thing I want to show you about all of this interface, this Vertex AI Studio is we have this ability to get code, whether it's working with multimodal prompts, language prompts, vision prompts, or speech prompts.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=87)** So another thing I want to show you about all of this interface, this [[Vertex]] AI Studio is we have this ability to get code, whether it's working with multimodal prompts, language prompts, vision prompts, or speech prompts.
 >
-> **[1:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=100)** And if I click "GET CODE," that's going to, in this case, give me the ability to get this audio file, and then I can either work with it in Python or I can use a curl command.
+> **[1:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=100)** And if I click "GET CODE," that's going to, in this case, give me the ability to get this audio file, and then I can either work with it in [[Python (Programming Language)|Python]] or I can use a curl command.
 >
 > **[1:52](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=112)** Now, in some of the other implementations, if I go back to the language, if you remember back from the beginning to my prompts to the LGM prompt, you can then see that if I get code, I can open a notebook.
 >
 > **[2:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=129)** So this is very similar to the Model Garden, where I can open a notebook in Colab Enterprise so that I can continue to work on the code.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=137)** And I have Python, I have Node, Java, and then I could just curl it too if I wanted to, but typically you would open up a notebook in Colab Enterprise.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/design-and-test-speech-generative-output?u=76281980&t=137)** And I have Python, I have Node, [[Java]], and then I could just curl it too if I wanted to, but typically you would open up a notebook in Colab Enterprise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (2), product (1), [[Vertex]] (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (2), [[Vertex]] (1), [[Java]] (1)
 > **CLI Commands:** python (2), curl (2), node (1)
 > **Env Vars:** open (1), code (1), lgm (1)
 > **Tools:** colab (2)
@@ -663,20 +655,19 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: Select and test GenAI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980)
+#### [Challenge: Select and test GenAI models](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=5)** We've been going through some of the latest and greatest large language models, so it's time for a challenge.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=5)** We've been going through some of the latest and greatest [[Large Language Models (LLM)|large language models]], so it's time for a challenge.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=12)** In this challenge, I'm going to take an existing example and ask you to build out a simple solution using the most modern tools.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=22)** And actually, the documentation is not updated, which shows you how new some of these tools are.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=27)** So you want to select the most modern model to solve this particular problem, you want write a test prompt using the tools available in Vertex AI, and then you want to, as quickly as possible, set up a notebook environment in GCP.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=27)** So you want to select the most modern model to solve this particular problem, you want write a test prompt using the tools available in [[Vertex]] AI, and then you want to, as quickly as possible, set up a notebook environment in GCP.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=47)** Now, what you want to do is in the generative AI prompt samples, you want to work with this one around writing, and you want to work with the example from email.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=47)** Now, what you want to do is in the [[Generative AI]] prompt samples, you want to work with this one around writing, and you want to work with the example from email.
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-select-and-test-genai-models?u=76281980&t=61)** So do not follow the instructions up here.
 >
@@ -694,14 +685,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Vertex]] (2), ai (2), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gcp (1), api (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 
-#### Solution: Select and test GenAI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980)
+#### [Solution: Select and test GenAI models](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,11 +701,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=9)** You're going to copy the prompt because you're going to need that.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=12)** Then you're going to go over to a Vertex AI to the Model Garden.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=12)** Then you're going to go over to a [[Vertex]] AI to the Model Garden.
 >
 > **[0:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=16)** And you're going to specify generation, and then you're going to specify language.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=23)** And you're going to see that you have Gemini Pro as one of the most modern.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=23)** And you're going to see that you have [[Gemini]] Pro as one of the most modern.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=28)** And I would probably also say integrated into Vertex AI.
 >
@@ -737,7 +727,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=67)** Now, how do you take this and put it in a notebook in Vertex AI so that you can then code against this as your prompt?
 >
-> **[1:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=77)** Well, the easiest -- there are many ways to do it, but the easiest possible way is to click "GET CODE" and then you can see that it'll put it in Python and you'll be pip installing the Google Cloud AI Platform.
+> **[1:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=77)** Well, the easiest -- there are many ways to do it, but the easiest possible way is to click "GET CODE" and then you can see that it'll put it in [[Python (Programming Language)|Python]] and you'll be pip installing the [[Google Cloud Platform (GCP)|Google Cloud]] AI Platform.
 >
 > **[1:31](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=91)** And then if you click "OPEN NOTEBOOK," you'll remember that opens in this newer service called Colab Enterprise.
 >
@@ -747,7 +737,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=123)** And you can see on the chat send message, you can see there's the prompt and you have various model settings.
 >
-> **[2:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=130)** And you can see that that's the max output tokens, the temperature in the top P.
+> **[2:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=130)** And you can see that that's the max output [[Tokens]], the temperature in the top P.
 >
 > **[2:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-select-and-test-genai-models?u=76281980&t=134)** And it's using Vertex AI preview generative models -- generative model there.
 >
@@ -759,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), ai (6), [[Vertex]] (5), [[Gemini]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Gemini]] (1), [[Python (Programming Language)|Python]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Tokens]] (1)
 > **CLI Commands:** pip (2), python (1)
 > **Env Vars:** code (1), open (1), notebook (1)
 > **Tools:** colab (3)
@@ -771,24 +761,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand available services
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980)
+#### [Understand available services](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=0)** In creating this course, I like to reflect my real world work as a cloud architect and machine learning developer.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=6)** And to that end, the Vertex AI suite of services has expanded so much that it really won't fit in a single course.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=6)** And to that end, the [[Vertex]] AI suite of services has expanded so much that it really won't fit in a single course.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=12)** So in scoping, what I decided to do is we started with, you know, the new generative AI, Vertex AI studio, which is shown here.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=12)** So in scoping, what I decided to do is we started with, you know, the new [[Generative AI]], Vertex AI studio, which is shown here.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=20)** And then really sort of the next area to go is in into notebooks, which we'll be going into.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=25)** But because we're not covering all the services and your particular use case might warrant them, I decided to do something kind of fun to reflect kind of the use of LLMs rather than show a bunch of PowerPoints.
 >
-> **[0:36](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=36)** I decided to ask Google's consumer implementation of their multimodal model, which is Bard, some of the questions about scoping the particular course.
+> **[0:36](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=36)** I decided to ask [[Google]]'s consumer implementation of their multimodal model, which is Bard, some of the questions about scoping the particular course.
 >
-> **[0:46](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=46)** Now, what I've done is I've put these along with other resources in my GitHub repo, and these are called prompts.
+> **[0:46](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=46)** Now, what I've done is I've put these along with other resources in my [[GitHub]] repo, and these are called prompts.
 >
 > **[0:52](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=52)** Basically, it's the new way to search with an LLM.
 >
@@ -826,7 +815,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=145)** So if those services are better fit for you, they can be part of your learning.
 >
-> **[2:31](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=151)** And those services in particular are designed for low code or in different types of code using a SQL query language. Specifically, and I'll show you the prompt here, I say, "Generate a table which compares the capabilities of GCP BigQuery Machine Learning, which you write SQL queries, to those available in Vertex AI AutoML." And AutoML is a set of capabilities that are super powerful when you have labeled data but you don't have machine learning expertise, it's basically a no code solution.
+> **[2:31](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=151)** And those services in particular are designed for low code or in different types of code using a [[SQL]] query language. Specifically, and I'll show you the prompt here, I say, "Generate a table which compares the capabilities of GCP BigQuery Machine Learning, which you write SQL queries, to those available in Vertex AI AutoML." And AutoML is a set of capabilities that are super powerful when you have labeled data but you don't have machine learning expertise, it's basically a no code solution.
 >
 > **[3:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980&t=186)** You bring labeled data.
 >
@@ -854,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (8), ai (8), next (4), data (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Vertex]] (8), [[Google]] (3), [[SQL]] (2), [[Generative AI]] (1), [[GitHub]] (1)
 > **Env Vars:** gcp (3), sql (2), llm (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -862,18 +851,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 
-#### Use TensorFlow example: MNIST
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980)
+#### [Use TensorFlow example: MNIST](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=0)** When building custom machine learning models, many of my bioinformatics clients are using libraries that are built on top of TensorFlow.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=0)** When building custom machine learning models, many of my bioinformatics clients are using libraries that are built on top of [[TensorFlow]].
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=8)** So what is TensorFlow?
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=9)** I'm using Bard again, just again to be modern.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=12)** Obviously, I could use Google and I'll use the G button in a minute, but TensorFlow is an open-source library that is created for building and deploying machine learning models.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=12)** Obviously, I could use [[Google]] and I'll use the G button in a minute, but TensorFlow is an open-source library that is created for building and deploying machine learning models.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=22)** It's like a toolbox for developers that want to create applications that can learn from data.
 >
@@ -881,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=28)** So a team of researchers at Google AI, and it's used by many companies including Google, Airbnb, Uber, and Netflix.
 >
-> **[0:34](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=34)** And it can be used for a wide variety of tasks; image recognition, natural language, speech, predictive modeling.
+> **[0:34](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=34)** And it can be used for a wide variety of tasks; image recognition, natural language, speech, [[Predictive Modeling]].
 >
 > **[0:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=41)** So in my case, I'm working with a group of ovarian cancer researchers at an organization, and we're testing out using a library that's built on top of TensorFlow which is called Deepcell, and it's image cellular segmentation of cancer tissue.
 >
@@ -891,9 +879,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=61)** But the reason I'm using TensorFlow is not just for this example.
 >
-> **[1:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=65)** The reason I'm using it is because when working with scaled machine learning that is custom on Google Cloud, if you can build on top of TensorFlow, then a lot of the lower level engineering and integrations have already been done by the Google teams, and it's really a great practice.
+> **[1:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=65)** The reason I'm using it is because when working with scaled machine learning that is custom on [[Google Cloud Platform (GCP)|Google Cloud]], if you can build on top of TensorFlow, then a lot of the lower level engineering and integrations have already been done by the Google teams, and it's really a great practice.
 >
-> **[1:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=83)** There are other really solid libraries out there such as PyTorch, but I always look for TensorFlow in GCP ML solutions if possible.
+> **[1:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=83)** There are other really solid libraries out there such as [[PyTorch]], but I always look for TensorFlow in GCP ML solutions if possible.
 >
 > **[1:33](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=93)** So if you're new to TensorFlow, there is an entire website which I'll show you in just a second.
 >
@@ -907,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=113)** Basically, it's 70,000 grayscale images of handwritten digits and then it tells the image size and it's used in benchmarking for image classification.
 >
-> **[2:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=124)** And then it shows you some Python code using TensorFlow to load the MNIST dataset, to build the model, to compile the model, train the model, and evaluate, and then it gives you sources.
+> **[2:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=124)** And then it shows you some [[Python (Programming Language)|Python]] code using TensorFlow to load the MNIST dataset, to build the model, to compile the model, train the model, and evaluate, and then it gives you sources.
 >
 > **[2:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=137)** This is the hello world.
 >
@@ -923,7 +911,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=158)** Again, you always have to check anything that's generated because it may be hallucinating, but I did check and it's pretty accurate.
 >
-> **[2:46](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=166)** So generate a table which lists key integrations between the open-source machine learning library TensorFlow and Vertex AI.
+> **[2:46](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=166)** So generate a table which lists key integrations between the open-source machine learning library TensorFlow and [[Vertex]] AI.
 >
 > **[2:52](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-tensorflow-example-mnist?u=76281980&t=172)** And this is part of that engineering work that has been done.
 >
@@ -951,25 +939,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (12), [[Google]] (5), ai (3), open-source (2), data (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (12), [[Google]] (5), [[Vertex]] (2), [[Predictive Modeling]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** mnist (4), gcp (2)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **Analogies:** it's like (1), such as (1), kind of like (1)
 > **CLI Commands:** python (1)
 > **URLs:** [tensorflow.org](https://tensorflow.org) (1)
 
-#### Use managed and user-managed notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980)
+#### [Use managed and user-managed notebooks](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=0)** The quickest way to get started to run one of these examples is to scroll down and click "Run code now."
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=6)** Now, this would open it up in a Colab SaaS Google hosted notebook.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=6)** Now, this would open it up in a Colab [[SaaS]] [[Google]] hosted notebook.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=12)** But because we're not focusing on that, we're focusing on Vertex AI, I've already done that step.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=12)** But because we're not focusing on that, we're focusing on [[Vertex]] AI, I've already done that step.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=17)** Once you open it there, you can then save the Python notebook and download it to your local machine.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=17)** Once you open it there, you can then save the [[Python (Programming Language)|Python]] notebook and download it to your local machine.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=25)** So you want to go ahead and do that step for either beginner or expert if you're familiar with MNIST and you want to use the more expert level, MNIST example. Once you've done that, then to run within Vertex AI, we have a number of choices.
 >
@@ -1007,7 +994,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=129)** So let's start with the one that's been around the longest, which is user-managed notebooks.
 >
-> **[2:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=133)** Basically, these are what were called DLVMs or Deep Learning Virtual Machines.
+> **[2:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=133)** Basically, these are what were called DLVMs or [[Deep Learning]] [[Virtual Machines]].
 >
 > **[2:19](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=139)** And they have JupyterLab 3 pre-installed and they're configured with GPU-enabled machine learning frameworks.
 >
@@ -1041,15 +1028,15 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=238)** So user-managed is you have control at the VM level.
 >
-> **[4:01](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=241)** Managed is more of a PaaS solution.
+> **[4:01](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=241)** Managed is more of a [[PaaS]] solution.
 >
 > **[4:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=244)** If you click "Create New," you can see that you don't have as much control in terms of the environment.
 >
 > **[4:11](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=251)** It's just Python.
 >
-> **[4:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=252)** Whereas if you remember in the user-managed, it's do you want TensorFlow?
+> **[4:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=252)** Whereas if you remember in the user-managed, it's do you want [[TensorFlow]]?
 >
-> **[4:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=256)** Do you want PyTorch?
+> **[4:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=256)** Do you want [[PyTorch]]?
 >
 > **[4:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-managed-and-user-managed-notebooks?u=76281980&t=257)** Do you want this or that?
 >
@@ -1089,7 +1076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Python (Programming Language)|Python]] (3), [[Vertex]] (2), ai (2), [[PaaS]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Python (Programming Language)|Python]] (3), [[Vertex]] (2), [[PaaS]] (2), [[SaaS]] (1)
 > **Tools:** colab (5), jupyter (1)
 > **Env Vars:** mnist (3), gpu (1), ssh (1)
 > **CLI Commands:** python (3), ssh (1)
@@ -1097,8 +1084,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Definitions:** is a  (1)
 
-#### Update notebook instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980)
+#### [Update notebook instance](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=10)** So if I open up the Jupyter instance, I can connect this way or SSH and then I could, you know, do anything with terminal.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=17)** However, I am using this Python 3 runtime.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=17)** However, I am using this [[Python (Programming Language)|Python]] 3 runtime.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=20)** And in terms of the kernel, I can restart the kernel, but I really just have basically this runtime.
 >
@@ -1118,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=41)** And I kind of can see there's a little time clock up here that's showing that it's running, but I'm not really having granular visibility or control into the resources.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=51)** And the reason this is so important is many machine learning frameworks, TensorFlow included, use not only CPUs and RAM, but they use GPUs, which are designed for optimizing some of the computational processes, basically the linear algebra.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=51)** And the reason this is so important is many machine learning frameworks, [[TensorFlow]] included, use not only CPUs and RAM, but they use GPUs, which are designed for optimizing some of the computational processes, basically the [[Linear Algebra]].
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=68)** And as you scale these workloads, you can have 1 to 2 to 4, to 8 to 16 or even more GPUs, and they can be expensive.
 >
@@ -1164,7 +1150,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=200)** And now it's done.
 >
-> **[3:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=203)** So now, if I wanted to test this, I have the ability to modify the hardware. So I can not only modify the amount of CPUs and RAM, I can also attach GPUs.
+> **[3:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=203)** So now, if I wanted to test this, I have the ability to modify the [[Hardware]]. So I can not only modify the amount of CPUs and RAM, I can also attach GPUs.
 >
 > **[3:37](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=217)** And it'll install the driver for me.
 >
@@ -1194,7 +1180,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=308)** And, again, this is from my real world work trying to help my researchers understand at what point to bring in the GPUs.
 >
-> **[5:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=317)** This ability to dynamically use GPUs within a notebook environment without having to set up something as complex as a Kubernetes environment, which is something that you may scale to if you're building a product, is proving to be a very useful feature set.
+> **[5:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=317)** This ability to dynamically use GPUs within a notebook environment without having to set up something as complex as a [[Kubernetes]] environment, which is something that you may scale to if you're building a product, is proving to be a very useful feature set.
 >
 > **[5:32](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/update-notebook-instance?u=76281980&t=332)** And that's why I wanted to include it.
 >
@@ -1224,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (3), feature (2), [[Python (Programming Language)|Python]] (1), [[Hardware]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Python (Programming Language)|Python]] (1), [[Hardware]] (1), [[Kubernetes]] (1)
 > **Env Vars:** gpu (12), ram (2), cpu (2), ssh (1)
 > **CLI Commands:** make (3), ssh (1), python (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -1233,8 +1219,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1), terminal (1)
 > **Versions:** python 3 (1)
 
-#### Use notebook instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980)
+#### [Use notebook instances](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1242,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=14)** And you might say, well, I want both those features.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=17)** And Google built a new type of notebook solution called an instance that basically does that.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=17)** And [[Google]] built a new type of notebook solution called an instance that basically does that.
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=24)** It combines both of the features.
 >
@@ -1272,23 +1257,22 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=108)** And that's what this basically says.
 >
-> **[1:51](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=111)** And then in the Vertex AI workbench, you have instances, manage notebooks, and user-managed notebooks.
+> **[1:51](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=111)** And then in the [[Vertex]] AI workbench, you have instances, manage notebooks, and user-managed notebooks.
 >
 > **[1:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-notebook-instances?u=76281980&t=118)** Most probably most people are going to use instances since it's a superset of managed notebooks and user-managed notebooks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Google]] (1), data (1), [[Security]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Vertex]] (1)
 > **Env Vars:** gpu (1), ssh (1)
 > **Tools:** colab (2)
 > **CLI Commands:** ssh (1)
 
-#### Challenge: Setup notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980)
+#### [Challenge: Setup notebook](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=5)** In this challenge, you're going to use Vertex AI notebook solutions to set up and test a notebook.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=5)** In this challenge, you're going to use [[Vertex]] AI notebook solutions to set up and test a notebook.
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=13)** You're going to select the notebook service that enables flexibility so you can test different size notebook environments with different CPU count and different RAM sizes and different GPUs.
 >
@@ -1298,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=35)** And what I want you to do for this is use the following.
 >
-> **[0:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=40)** So in the TensorFlow overview, use the expert notebook.
+> **[0:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=40)** So in the [[TensorFlow]] overview, use the expert notebook.
 >
 > **[0:45](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-setup-notebook?u=76281980&t=45)** Do you remember the steps to take this notebook from the website into Vertex AI?
 >
@@ -1306,13 +1290,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (2), ai (2), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[TensorFlow]] (1)
 > **Env Vars:** cpu (1), ram (1)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** select the (1)
 
-#### Solution: Setup notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980)
+#### [Solution: Setup notebook](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,11 +1307,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=27)** And if you remember from previous movies, instances combine the flexibility of SSH level access that user-managed notebooks have, and the flexibility to size up and down by adding or removing sizing or GPUs like managed notebooks.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=47)** And once again, once you open this up -- and this is the advanced TensorFlow. If you did not remember the steps of how to get it from the website, you open it in Colab public, then download it, and then upload it with this button right here.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=47)** And once again, once you open this up -- and this is the advanced [[TensorFlow]]. If you did not remember the steps of how to get it from the website, you open it in Colab public, then download it, and then upload it with this button right here.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=64)** And notice I've set this runtime to TensorFlow because this is a capability that's in the managed notebooks, not in the user-managed.
 >
-> **[1:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=73)** This, again, allows you to take advantage of optimizations that Google has done.
+> **[1:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=73)** This, again, allows you to take advantage of optimizations that [[Google]] has done.
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-setup-notebook?u=76281980&t=78)** So you can see the usage here.
 >
@@ -1364,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Google]] (1), web (1), business (1), next (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Google]] (1)
 > **Env Vars:** gpu (3), ssh (1)
 > **UI Navigation:** open the (1), scroll down (1)
 > **CLI Commands:** ssh (1)
@@ -1376,8 +1359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Vector Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980)
+#### [Understand Vector Search](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,15 +1387,15 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=59)** I actually really like this explanation.
 >
-> **[1:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=62)** Now to contrast this, let's take a look at what Google's documentation has to say about vector search.
+> **[1:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=62)** Now to contrast this, let's take a look at what [[Google]]'s documentation has to say about vector search.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=68)** So here's the official documentation in Vertex AI on Vertex AI vector search.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=68)** So here's the official documentation in [[Vertex]] AI on Vertex AI vector search.
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=74)** And they have some explanation, but actually like the barred introduction.
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=78)** Now, I do like the picture here because it's representing how data can be approximated based on the vectors.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=87)** And, of course, this has become very, very relevant in the world of generative AI development in models which are called retrieval-augmented generation or RAG models.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=87)** And, of course, this has become very, very relevant in the world of [[Generative AI]] development in models which are called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG models.
 >
 > **[1:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=100)** They use embeddings with vector search.
 >
@@ -1423,7 +1405,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=114)** Now, this is a set of services that is incorporated into Vertex AI.
 >
-> **[1:59](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=119)** And this is different than open-source databases such as Chrome DB or Pinecone, which are designed to stream and also store embedded data information. In Vertex AI, vector search is shown here.
+> **[1:59](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=119)** And this is different than open-source [[Databases]] such as Chrome DB or [[Pinecone]], which are designed to stream and also store embedded data information. In Vertex AI, vector search is shown here.
 >
 > **[2:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980&t=142)** Now, the example that we're going to take a look at in the next video is through a Jupyter Notebook and it was built by Google.
 >
@@ -1435,7 +1417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), data (5), [[Vertex]] (4), ai (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Google]] (3), [[Generative AI]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1443,14 +1425,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
 
-#### Use Vector Search
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980)
+#### [Use Vector Search](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=0)** - [Instructor] Google's documentation includes several example notebooks that show you how their vector search index feature works.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=0)** - [Instructor] [[Google]]'s documentation includes several example notebooks that show you how their vector search index feature works.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=7)** The sample that I like the most of these is the third one down here, use vector search and Vertex AI text embeddings for stack overflow questions.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=7)** The sample that I like the most of these is the third one down here, use vector search and [[Vertex]] AI text embeddings for stack overflow questions.
 >
 > **[0:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=16)** I've run it several times for my own learning and for customers, and I'm going to run it for you as well.
 >
@@ -1474,7 +1455,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=83)** So, and the overview just says what I just said.
 >
-> **[1:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=85)** Basically, you're going to learn how to encode text embeddings, create the ANN index and query against the index, and it's going to use Google Cloud machine learning services, the new services, the vector search, and the embeddings for text.
+> **[1:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=85)** Basically, you're going to learn how to encode text embeddings, create the ANN index and query against the index, and it's going to use [[Google Cloud Platform (GCP)|Google Cloud]] machine learning services, the new services, the vector search, and the embeddings for text.
 >
 > **[1:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=100)** So the steps here are you're going to convert a big query data set to embeddings.
 >
@@ -1486,7 +1467,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=124)** So I did that and then there's instructions for Colab and then I set the project id, the region and then authentication instructions.
 >
-> **[2:15](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=135)** And then you have to create a cloud storage bucket, which I did here and then you prepare the data.
+> **[2:15](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=135)** And then you have to create a [[Cloud Storage]] bucket, which I did here and then you prepare the data.
 >
 > **[2:20](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=140)** So you use the stack overflow dataset of question and answers hosted on BigQuery.
 >
@@ -1544,7 +1525,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=290)** You create the online query so you can query against the deployed index to find the nearest neighbor.
 >
-> **[4:55](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=295)** And so, we're looking for installed GPU for TensorFlow.
+> **[4:55](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=295)** And so, we're looking for installed GPU for [[TensorFlow]].
 >
 > **[4:59](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vector-search?u=76281980&t=299)** And remember we're looking at stack overflow information.
 >
@@ -1568,7 +1549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), ai (5), data (5), [[Vertex]] (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Cloud Storage]] (1), [[TensorFlow]] (1)
 > **Env Vars:** ann (3), api (2), gcp (1), pip (1), toc (1)
 > **Tools:** colab (6)
 > **Definitions:** is a  (4), is an  (1)
@@ -1577,12 +1558,11 @@ created: 2026-05-02
 > **CLI Commands:** pip (1), find (1), make (1)
 > **Exercise Files:** download the (1)
 
-#### Understand Feature Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980)
+#### [Understand Feature Store](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=0)** Another capability in Vertex AI is the feature store.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=0)** Another capability in [[Vertex]] AI is the feature store.
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=3)** Here's the documentation that explains it.
 >
@@ -1600,7 +1580,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=48)** And contrast, using a Feature Store with a database or just a bucket to store feature data, because these are questions that my customers actually ask me.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=57)** And, again, it's a pretty good response which augments the Google documentation.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=57)** And, again, it's a pretty good response which augments the [[Google]] documentation.
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=63)** So you can see the explanation top use cases.
 >
@@ -1610,11 +1590,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=72)** And it provides efficient feature management and serving.
 >
-> **[1:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=76)** It acts as a metadata layer on top of BigQuery, enabling online serving without data duplication.
+> **[1:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=76)** It acts as a [[Metadata]] layer on top of BigQuery, enabling online serving without data duplication.
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=81)** That's very helpful to me, that summary. And the key benefits.
 >
-> **[1:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=85)** Centralized feature management: Streamlines discovery, access, and governance for features. Online and offline serving, so real-time and historical; and integration with Vertex AI. And then top cases in bioinformatics.
+> **[1:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=85)** Centralized feature management: Streamlines discovery, access, and governance for features. Online and offline serving, so [[Real-Time]] and historical; and integration with Vertex AI. And then top cases in bioinformatics.
 >
 > **[1:39](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=99)** Not sure if this is hallucinating or not.
 >
@@ -1628,7 +1608,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=134)** So, again, you can see this is sort of a theme throughout this course.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=137)** Understanding these features as it relates to my scenarios by using these new generative AI tools, which can aggregate the information available to me in a faster way than just doing traditional web search.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=137)** Understanding these features as it relates to my scenarios by using these new [[Generative AI Tools]], which can aggregate the information available to me in a faster way than just doing traditional web search.
 >
 > **[2:32](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-feature-store?u=76281980&t=152)** And, of course, obviously I can always do the Google search at the end, which I highly recommend that you do because you want to validate everything that is generated here.
 >
@@ -1642,21 +1622,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), [[Vertex]] (4), ai (4), data (4), database (2)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Google]] (2), [[Metadata]] (2), [[Real-Time]] (1), [[Generative AI Tools]] (1)
 > **Env Vars:** poc (1), gcp (1), api (1)
 > **Documentation:** the documentation (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Create a Feature Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-create-a-feature-store?u=76281980)
+#### [Challenge: Create a Feature Store](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-create-a-feature-store?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-create-a-feature-store?u=76281980&t=5)** So for this next challenge, you can really work alongside me.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-create-a-feature-store?u=76281980&t=8)** You're really using my process in keeping up to date on all the capabilities in Vertex AI. For a client, I'm recently needing to test Feature Store, so I would need to set up Feature Store and load it and then I would have to write a test prompt and I want to test it via a notebook environment in GCP.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-create-a-feature-store?u=76281980&t=8)** You're really using my process in keeping up to date on all the capabilities in [[Vertex]] AI. For a client, I'm recently needing to test Feature Store, so I would need to set up Feature Store and load it and then I would have to write a test prompt and I want to test it via a notebook environment in GCP.
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-create-a-feature-store?u=76281980&t=27)** So I'll get you started with the first part of it and then I will let you complete the challenge and come back in the next movie and show you how I solved it.
 >
@@ -1680,23 +1659,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (3), [[Vertex]] (2), ai (2), gcp (2)
+> **Frameworks & Libraries:** [[Vertex]] (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** gcp (2)
 > **Cross-References:** in the next (1)
 > **Tools:** colab (1)
 > **Prerequisites:** set up (1)
 
-#### Solution: Create a Feature Store
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980)
+#### [Solution: Create a Feature Store](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=5)** All right. Here's my solution to testing out the Feature Store.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=10)** I created an instance-type notebook with a GPU just to see if the GPU would be used and then I pulled in this Feature Store example from Google.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=10)** I created an instance-type notebook with a GPU just to see if the GPU would be used and then I pulled in this Feature Store example from [[Google]].
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=22)** I set up the authentication, the libraries, so I imported the libraries then I initialized Vertex AI SDK, it's public data, again, BigQuery, Penguins dataset and then preparing the data, noting how the data needed to be prepared, entity colon, feature ID colon feature value, and it's using a pandas DataFrame here, which is one of three different types of schemas you can use, probably the most common.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=22)** I set up the authentication, the libraries, so I imported the libraries then I initialized [[Vertex]] AI SDK, it's public data, again, BigQuery, Penguins dataset and then preparing the data, noting how the data needed to be prepared, entity colon, feature ID colon feature value, and it's using a [[Pandas (Software)|pandas]] DataFrame here, which is one of three different types of schemas you can use, probably the most common.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=51)** So then there's a code to do that and then you're going to remove nulls.
 >
@@ -1710,7 +1688,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=80)** So in this case, we're creating this Penguins entity type and then we're creating features.
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=88)** So features is basically just JSON list.
+> **[1:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=88)** So features is basically just [[JSON]] list.
 >
 > **[1:31](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=91)** So we've got Species Island whatever that -- Coleman, whatever that means, flipper body math, so on and so forth.
 >
@@ -1730,7 +1708,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=134)** And then if you're doing streaming, ingestion or batch serving, you can turn that on.
 >
-> **[2:18](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=138)** So that's the metadata layer over the BigQuery data that was talked about in the previous movie.
+> **[2:18](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=138)** So that's the [[Metadata]] layer over the BigQuery data that was talked about in the previous movie.
 >
 > **[2:24](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-create-a-feature-store?u=76281980&t=144)** So this is an example of a quick evaluation of a feature in Vertex AI named "feature", kind of a meta thing.
 >
@@ -1738,7 +1716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (14), data (4), [[Vertex]] (3), ai (3), web (2)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[Google]] (1), [[Pandas (Software)|Pandas]] (1), [[JSON]] (1), [[Metadata]] (1)
 > **Env Vars:** gpu (2), sdk (1), json (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1)
@@ -1748,16 +1726,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the model registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980)
+#### [Use the model registry](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=0)** Next, we're going to take a look at the Vertex AI Model Registry.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=0)** Next, we're going to take a look at the [[Vertex]] AI Model Registry.
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=4)** And you can see on the web UI, it's under the "Deploy and Use" section.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=8)** This is also called machine learning or MLOps.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=8)** This is also called machine learning or [[MLOps]].
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=11)** So to understand what the model registry is and why you might want to do it, as usual, we're going to start with the documentation.
 >
@@ -1775,7 +1752,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=53)** Or if you are using AutoML and you might remember from a previous movie, we discussed that, we didn't really dive in.
 >
-> **[0:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=58)** That's when you are creating models based on labeled data and letting Google create the model.
+> **[0:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=58)** That's when you are creating models based on labeled data and letting [[Google]] create the model.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=64)** That's a different sort of use case and those can be for text, tabular, image, or video.
 >
@@ -1801,7 +1778,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=120)** The way I found this is I just searched the list of notebooks for registry and then I kind of look through them to see what was going to be the best match.
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=128)** Now, when I ran this on my infrastructure, I had to remove the default TensorFlow version because it was outdated from the Colab example.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=128)** Now, when I ran this on my infrastructure, I had to remove the default [[TensorFlow]] version because it was outdated from the Colab example.
 >
 > **[2:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=137)** And I just took off the 2.5, and I set it to pull the latest and then the notebook worked when I tried to run it with the specified version that was outdated.
 >
@@ -1817,13 +1794,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=186)** But to load this in, the name of the notebook is Get Started with Model Registry.
 >
-> **[3:11](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=191)** It's a Python notebook.
+> **[3:11](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=191)** It's a [[Python (Programming Language)|Python]] notebook.
 >
 > **[3:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980&t=193)** And in the next movie, we'll go over the code in this notebook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (4), ai (4), next (3), web (3), [[MLOps]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[MLOps]] (2), [[Google]] (1), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** in the next (2), we discussed (1), go back to (1)
 > **Tools:** colab (3)
 > **CLI Commands:** docker (1), python (1)
@@ -1832,8 +1809,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Exercise Files:** download the (1)
 
-#### Register a model in the registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980)
+#### [Register a model in the registry](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1817,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=6)** Here's the general steps and then we'll look at them specifically.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=9)** We want to get a pre-trained model from TensorFlow hub.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=9)** We want to get a pre-trained model from [[TensorFlow]] hub.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=12)** So this is a TensorFlow model. Obviously, for doing custom training, we're probably going to use our own pre-trained model.
 >
@@ -1849,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=27)** So we're going to download it, we're going to save the artifacts, and then we're going to look at the code for versioning.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=33)** So we're going to upload Version 1 of the TensorFlow model to a Vertex AI model resource, upload Version 2 then we're going to get all versions of the parent, get all versions of a non-parent model, list the model resource and then change the default model version.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=33)** So we're going to upload Version 1 of the TensorFlow model to a [[Vertex]] AI model resource, upload Version 2 then we're going to get all versions of the parent, get all versions of a non-parent model, list the model resource and then change the default model version.
 >
 > **[0:48](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=48)** Now, once you have a model, in order to have predictions against it, another capability in Vertex AI is to then take that model from the Model Registry and to set up what's called an Endpoint.
 >
@@ -1887,7 +1863,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=122)** So notice we have some flags, here is default version, version alias, version description.
 >
-> **[2:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=129)** We can set those flags or variables so that we can associate our metadata then we just simply call the AIP model upload and pass in those values.
+> **[2:09](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=129)** We can set those flags or variables so that we can associate our [[Metadata]] then we just simply call the AIP model upload and pass in those values.
 >
 > **[2:19](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=139)** And then we're going to upload Version 2, so same thing here.
 >
@@ -1919,25 +1895,24 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=219)** You can also see where the container image is located and where the model artifacts are located.
 >
-> **[3:46](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=226)** So a registry for models as a basis for MLOps.
+> **[3:46](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=226)** So a registry for models as a basis for [[MLOps]].
 >
 > **[3:50](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/register-a-model-in-the-registry?u=76281980&t=230)** This is kind of the starting point, that's why I made this the first movie in this set.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Vertex]] (2), ai (2), [[Metadata]] (2), web (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Vertex]] (2), [[Metadata]] (2), [[MLOps]] (1)
 > **Versions:** version 1 (2), version 2 (2)
 > **Env Vars:** gcp (1), aip (1), api (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** docker (1)
 
-#### Review batch and online endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980)
+#### [Review batch and online endpoints](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=0)** Now, once you've deployed a model to the registry, you can use the capabilities in the Google API for model management and MLOps, operationalizing activities that you do with the model.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=0)** Now, once you've deployed a model to the registry, you can use the capabilities in the [[Google]] API for model management and [[MLOps]], operationalizing activities that you do with the model.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=15)** So a typical one would be using it in prediction.
 >
@@ -1963,7 +1938,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=58)** So the idea is basically, it's a wrapped set of containers or VMs.
 >
-> **[1:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=63)** So you don't have to, for example, build those containers, set up cloud-run instances, set up Kubernetes.
+> **[1:03](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=63)** So you don't have to, for example, build those containers, set up cloud-run instances, set up [[Kubernetes]].
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=68)** It's, you know, specific for machine learning.
 >
@@ -1987,11 +1962,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=133)** Notice you have this cool explainability options.
 >
-> **[2:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=136)** So there is a set of newer features in Vertex AI around model explainability which is beyond the scope of this course.
+> **[2:16](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=136)** So there is a set of newer features in [[Vertex]] AI around model explainability which is beyond the scope of this course.
 >
 > **[2:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=145)** But it's something that I'm really starting to explore.
 >
-> **[2:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=148)** So I'll continue to share content on my GitHub beyond this course for that.
+> **[2:28](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=148)** So I'll continue to share content on my [[GitHub]] beyond this course for that.
 >
 > **[2:32](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/review-batch-and-online-endpoints?u=76281980&t=152)** And then we have advanced options around the security.
 >
@@ -2049,19 +2024,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), api (5), [[Google]] (3), [[MLOps]] (2), management (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[MLOps]] (2), [[Kubernetes]] (1), [[Vertex]] (1), [[GitHub]] (1)
 > **Env Vars:** api (5), aip (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
 
-#### Understand model pipeline templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980)
+#### [Understand model pipeline templates](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=0)** In this course, I'm really just touching on the highlights of what is available for MLOps in Vertex AI.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=0)** In this course, I'm really just touching on the highlights of what is available for [[MLOps]] in [[Vertex]] AI.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=8)** A particularly strong new feature set or relatively new, is something called an AI Pipeline, and this is a way to pull together, in a workflow, many of these capabilities, some of which we've looked at in previous movies such as Feature Store, the Model Registry, Endpoints, so on and so forth.
 >
@@ -2071,7 +2045,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=35)** So I encourage you, if you're moving into the operational phases of your ML development to continue your learning journey.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=44)** However, to accelerate what Google has done is they have extensive documentation on their Pipeline.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=44)** However, to accelerate what [[Google]] has done is they have extensive documentation on their Pipeline.
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=51)** So first, let's go over a definition.
 >
@@ -2079,7 +2053,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=60)** This is why you would use this, basically.
 >
-> **[1:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=62)** By using ML Pipelines to orchestrate your workflows, you can run ML Pipelines to find using Kubeflow Pipelines, so that's an abstraction over Kubernetes or the TensorFlow Extended framework.
+> **[1:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=62)** By using ML Pipelines to orchestrate your workflows, you can run ML Pipelines to find using Kubeflow Pipelines, so that's an abstraction over [[Kubernetes]] or the [[TensorFlow]] Extended framework.
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=75)** And the documentation, I think, is particularly strong along with the samples.
 >
@@ -2101,7 +2075,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=128)** Now, just so that we can kind of have an understanding of what something like this looks like before we go in and we run our example, let's pick one that I have worked with with customers, and this is LLM Text Generation Evaluation.
 >
-> **[2:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=143)** So you can see the Pipeline supports evaluating large language models, a hot topic, publisher, or managed models performing the following generative tasks; summarization, question answering, and text generation.
+> **[2:23](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=143)** So you can see the Pipeline supports evaluating [[Large Language Models (LLM)|large language models]], a hot topic, publisher, or managed models performing the following generative tasks; summarization, question answering, and text generation.
 >
 > **[2:37](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-model-pipeline-templates?u=76281980&t=157)** So you can just create a run from here, but you're probably not ready to do that at this phase in your learning.
 >
@@ -2149,7 +2123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), web (4), [[Vertex]] (3), [[Google]] (3), [[MLOps]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[Google]] (3), [[MLOps]] (2), [[Kubernetes]] (2), [[TensorFlow]] (2)
 > **Env Vars:** llm (2), dag (1)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (3)
@@ -2158,8 +2132,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), kind of like (1)
 > **Documentation:** the documentation (1)
 
-#### Challenge: Run and evaluate a model pipeline job
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980)
+#### [Challenge: Run and evaluate a model pipeline job](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2175,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=24)** And then look at the results, evaluate the run, and plan updates for your particular environment.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=31)** Now, to get you started, you could pick a Pipeline template from the Vertex AI web UI template gallery.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=31)** Now, to get you started, you could pick a Pipeline template from the [[Vertex]] AI web UI template gallery.
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=40)** But I'm just going to share with you the ones that I'm working with with my actual customers and kind of the use case I've been talking about throughout this course, which is a custom model training.
 >
@@ -2185,7 +2158,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=65)** And I found in just looking through these that there was one that was perfect for my needs.
 >
-> **[1:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=70)** So you can see this one custom training workflow with pre-built Google Cloud Pipeline components and custom components.
+> **[1:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=70)** So you can see this one custom training workflow with pre-built [[Google Cloud Platform (GCP)|Google Cloud]] Pipeline components and custom components.
 >
 > **[1:17](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/challenge-run-and-evaluate-a-model-pipeline-job?u=76281980&t=77)** And you're going to use these to learn how to train a custom model.
 >
@@ -2205,15 +2178,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gcp (1), [[Vertex]] (1), ai (1), web (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Exercise Files:** template (4)
 > **Env Vars:** gcp (1), url (1)
 > **Tools:** jupyter (1), colab (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 
-#### Solution: Run and evaluate a model pipeline job
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980)
+#### [Solution: Run and evaluate a model pipeline job](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2221,9 +2193,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=10)** Admittedly, running in a notebook is more advanced because you do not get a visualization of the DAG while it's running.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=19)** You can see after you do all the setup, including associating the storage, which is Google Cloud storage buckets, then you are going to -- and I'll just scroll down here.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=19)** You can see after you do all the setup, including associating the storage, which is [[Google Cloud Platform (GCP)|Google Cloud]] storage buckets, then you are going to -- and I'll just scroll down here.
 >
-> **[0:30](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=30)** So you need Vertex AI Pipelines, GCP components, Vertex AI training model, resources, and Endpoints.
+> **[0:30](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=30)** So you need [[Vertex]] AI Pipelines, GCP components, Vertex AI training model, resources, and Endpoints.
 >
 > **[0:38](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=38)** And this is using a public data set from BigQuery.
 >
@@ -2233,7 +2205,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=50)** Do you remember from the description? This is Kubeflow.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=53)** So this is a library which sits on top of Google Kubernetes engine so that you can have a cluster of containers for efficiency.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=53)** So this is a library which sits on top of [[Google]] [[Kubernetes]] engine so that you can have a cluster of containers for efficiency.
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=62)** So then you have to just do more setup, set up your project ID, your region.
 >
@@ -2279,7 +2251,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=173)** And then, you know, again going into each step.
 >
-> **[2:56](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=176)** So this is really the pinnacle in my opinion, as I previously said, of MLOps, where you have these automated Pipelines.
+> **[2:56](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=176)** So this is really the pinnacle in my opinion, as I previously said, of [[MLOps]], where you have these automated Pipelines.
 >
 > **[3:05](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/solution-run-and-evaluate-a-model-pipeline-job?u=76281980&t=185)** And because obviously there's a great level of complexity rather than starting from nothing, I highly recommend that you search through the template gallery and search through the resources, like I showed you to find starters that you can then evaluate.
 >
@@ -2303,7 +2275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), web (3), ai (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Vertex]] (2), [[Kubernetes]] (1), [[MLOps]] (1)
 > **Env Vars:** dag (3), gcp (2), uuid (1), sdk (1)
 > **Prerequisites:** setup (2), install (1), set up (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -2317,12 +2289,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=0)** In addition to the Google documentation that I've been referencing throughout this course, I always have an associated GitHub Repo or section of a Repo with every LinkedIn course.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=0)** In addition to the [[Google]] documentation that I've been referencing throughout this course, I always have an associated [[GitHub]] Repo or section of a Repo with every [[LinkedIn]] course.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=10)** So I have a GCP essentials course.
 >
@@ -2332,7 +2303,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=22)** But this is my machine learning section.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=25)** Also, I'm making newer courses on some of the technologies like Gemini.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=25)** Also, I'm making newer courses on some of the technologies like [[Gemini]].
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980&t=29)** So I've got a new section on Gemini here.
 >
@@ -2360,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[GitHub]] (2), gcp (2), [[Gemini]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[GitHub]] (2), [[Gemini]] (2), [[LinkedIn]] (1)
 > **Env Vars:** gcp (2), gde (1)
 > **Tools:** github (2)
 > **Definitions:** is a  (2)

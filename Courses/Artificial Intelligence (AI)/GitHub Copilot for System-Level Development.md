@@ -82,14 +82,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980&t=0)** - Welcome to this course in GitHub Copilot Advanced System Level Development.
+> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980&t=0)** - Welcome to this course in [[GitHub Copilot]] Advanced System Level Development.
 >
-> **[0:06](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980&t=6)** We're going to cover a few different things from advanced prompting to certain techniques that you can apply to test-driven development.
+> **[0:06](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980&t=6)** We're going to cover a few different things from advanced prompting to certain techniques that you can apply to [[Test-Driven Development]].
 >
 > **[0:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980&t=14)** Then we will go into, well, debugging and doing more advanced techniques while you are developing.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Automation]] (2), [[Test-Driven Development]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Test-Driven Development]] (1)
 > **Tools:** github (2)
 > **Analogies:** for example (1)
 > **Speakers:** - welcome (1)
@@ -113,12 +112,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI-assisted TDD
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980)
+#### [Introduction to AI-assisted TDD](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=0)** - [Instructor] Test-driven development, also known as TDD or referred to as TDD, is the way we can run some test, write tests before a specific feature is available.
+> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=0)** - [Instructor] [[Test-Driven Development]], also known as TDD or referred to as TDD, is the way we can run some test, write tests before a specific feature is available.
 >
 > **[0:15](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=15)** In this case, we have here some existing tests.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=70)** Like I wanted to make sure that if a 1 is passing in as a string, then that would work.
 >
-> **[1:17](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=77)** So the way you would do that with TDD is write a test that says, well, I'm going to say def test_one_is_true(): Now as soon as I do that, you can see that I'm getting suggestions from Copilot.
+> **[1:17](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=77)** So the way you would do that with TDD is write a test that says, well, I'm going to say def test_one_is_true(): Now as soon as I do that, you can see that I'm getting suggestions from [[Microsoft Copilot|Copilot]].
 >
 > **[1:33](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980&t=93)** That is fine. I'm going to accept this.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Microsoft Copilot|Copilot]] (3), feature (2), ai (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Microsoft Copilot|Copilot]] (3)
 > **Env Vars:** tdd (4)
 > **Analogies:** for example (2), kind of like (2)
 > **CLI Commands:** make (3)
@@ -181,20 +179,19 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** known as (1)
 
-#### Generating complex test suites
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980)
+#### [Generating complex test suites](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=0)** - [Presenter] Test suites can get very complex.
 >
-> **[0:03](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=3)** And one of the things that I want to show you is how to accomplish these with assistive AI tooling like GitHub Copilot.
+> **[0:03](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=3)** And one of the things that I want to show you is how to accomplish these with assistive AI tooling like [[GitHub Copilot]].
 >
 > **[0:11](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=11)** In this case, this tool called the jformat is a tool that basically takes an input, which is usually a file.
 >
 > **[0:21](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=21)** You can see here some of the options.
 >
-> **[0:24](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=24)** It will take a file, and it will reformat JSON input to try to get you nice readable JSON.
+> **[0:24](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=24)** It will take a file, and it will reformat [[JSON]] input to try to get you nice readable JSON.
 >
 > **[0:33](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=33)** Sometimes JSON is not very readable, and it does this using a formatter.
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=60)** So, what we're going to do, is I'm going to collapse the explorer here.
 >
-> **[1:04](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=64)** What I'm going to do is to actually leverage Copilot, so that it can help me out try to, well, produce a very, a more robust way, in a complex test suite, that will help me test the command line interaction, which is really not tested at all.
+> **[1:04](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=64)** What I'm going to do is to actually leverage [[Microsoft Copilot|Copilot]], so that it can help me out try to, well, produce a very, a more robust way, in a complex test suite, that will help me test the command line interaction, which is really not tested at all.
 >
 > **[1:23](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=83)** So, what I'm going to do is I'm going to toggle these and notice, I'm going to just use the default model.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=121)** And you can see there's a plan right now.
 >
-> **[2:03](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=123)** It's actually building a to-do review existing CLI tests, a test for file, inline, combined options, and run all the tests to validate the changes.
+> **[2:03](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=123)** It's actually building a to-do review existing [[CLI]] tests, a test for file, inline, combined options, and run all the tests to validate the changes.
 >
 > **[2:11](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=131)** So, this is already somewhat complex, and it would take someone like me, like someone that build this project.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=234)** So, now, I'm going to run pytest and see if tests are working.
 >
-> **[3:58](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=238)** Pytest is a way to, the test framework, and the test CLI for Python that I prefer.
+> **[3:58](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=238)** Pytest is a way to, the test framework, and the test CLI for [[Python (Programming Language)|Python]] that I prefer.
 >
 > **[4:04](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-complex-test-suites?u=76281980&t=244)** And it is how I run the test.
 >
@@ -338,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (7), [[JSON]] (6), [[GitHub Copilot]] (3), ai (2), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[CLI]] (7), [[JSON]] (6), [[GitHub Copilot]] (3), [[Microsoft Copilot|Copilot]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cli (7), json (5), example (2)
 > **CLI Commands:** make (7), python (1)
 > **Tools:** github (3), command line (2), terminal (1)
@@ -347,14 +344,13 @@ created: 2026-05-02
 > **File Paths:** reformat.py (1), example.json (1)
 > **Code Identifiers:** test_cli (1)
 
-#### Mocking dependencies with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980)
+#### [Mocking dependencies with Copilot](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=0)** - [Instructor] Marking dependencies is a crucial way of dealing with tests, specifically, when certain things can get out of control.
 >
-> **[0:09](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=9)** In this case, for example, the run_cli is calling on Python 3.
+> **[0:09](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=9)** In this case, for example, the run_cli is calling on [[Python (Programming Language)|Python]] 3.
 >
 > **[0:15](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=15)** This is doing a system call.
 >
@@ -368,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=40)** I want to avoid that.
 >
-> **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=42)** And so, I've written this prompt, which is this test cli.py file is calling Python 3 directly.
+> **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=42)** And so, I've written this prompt, which is this test [[CLI]].py file is calling Python 3 directly.
 >
 > **[0:49](https://www.linkedin.com/learning/github-copilot-for-system-level-development/mocking-dependencies-with-copilot?u=76281980&t=49)** I want to avoid relying on Python 3 executable being available in the system.
 >
@@ -438,7 +434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[CLI]] (3), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[CLI]] (3)
 > **CLI Commands:** python (6), make (2)
 > **Versions:** python 3 (4)
 > **Analogies:** for example (2), kind of like (1)
@@ -447,8 +443,7 @@ created: 2026-05-02
 > **File Paths:** cli.py (1)
 > **Code Identifiers:** run_cli (1)
 
-#### Challenge: TDD for a new feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-tdd-for-a-new-feature?u=76281980)
+#### [Challenge: TDD for a new feature](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-tdd-for-a-new-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-tdd-for-a-new-feature?u=76281980&t=90)** This looks actually correct and I think that this is going to fail, which is what we're looking for.
 >
-> **[1:37](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-tdd-for-a-new-feature?u=76281980&t=97)** Remember, test-driven development is about making this fail.
+> **[1:37](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-tdd-for-a-new-feature?u=76281980&t=97)** Remember, [[Test-Driven Development]] is about making this fail.
 >
 > **[1:41](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-tdd-for-a-new-feature?u=76281980&t=101)** So, perfect. It is failing.
 >
@@ -492,21 +487,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** str_to_bool (1), test_zero_is_false (1)
 > **Env Vars:** tdd (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: TDD for a new feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980)
+#### [Solution: TDD for a new feature](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=0)** - [Narrator] Now that we have for a failing test, it is time to go and we'll make it pass.
 >
-> **[0:05](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=5)** In this case, we could, 100%, write a prompt and let GitHub Copilot, the AI tooling, help us out.
+> **[0:05](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=5)** In this case, we could, 100%, write a prompt and let [[GitHub Copilot]], the AI tooling, help us out.
 >
 > **[0:13](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=13)** But this is pretty straightforward.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=39)** Now, there's one more thing that I want to do, and that is I want to use this parameterize function, this helper from pytest, this a framework thing.
 >
-> **[0:51](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=51)** You don't need to be an specialist in Python or pytest or what we're trying to do here, but I'm going to go briefly what is the actual thing that we're doing.
+> **[0:51](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=51)** You don't need to be an specialist in [[Python (Programming Language)|Python]] or pytest or what we're trying to do here, but I'm going to go briefly what is the actual thing that we're doing.
 >
 > **[1:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-tdd-for-a-new-feature?u=76281980&t=60)** You can see here that the values are y, yes, and zero.
 >
@@ -622,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (2), prompt (1), ai (1), [[Python (Programming Language)|Python]] (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Tools:** terminal (3), github (2)
 > **Code Identifiers:** str_to_bool (2), test_main (1)
@@ -631,14 +625,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Evaluating test coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980)
+#### [Evaluating test coverage](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=0)** - [Instructor] When you're working with tests and when you're making progress, implementing your features, adding your features, doing the refactoring, one of the important aspects is to understand coverage.
 >
-> **[0:11](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=11)** In this case, I'm going to use pytest, which is the Python test runner that I've chosen to use.
+> **[0:11](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=11)** In this case, I'm going to use pytest, which is the [[Python (Programming Language)|Python]] test runner that I've chosen to use.
 >
 > **[0:17](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=17)** This is a test runner and a test library as well.
 >
@@ -674,7 +667,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=112)** I could do something fancy by including this into the prompt, but pasting is 100% fine.
 >
-> **[1:59](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=119)** Now, Copilot is going to go ahead and read all these files and try to produce something meaningful and useful, so let's wait until it completes.
+> **[1:59](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=119)** Now, [[Microsoft Copilot|Copilot]] is going to go ahead and read all these files and try to produce something meaningful and useful, so let's wait until it completes.
 >
 > **[2:09](https://www.linkedin.com/learning/github-copilot-for-system-level-development/evaluating-test-coverage?u=76281980&t=129)** All right, it completed it. It added these test_main_extra.
 >
@@ -726,7 +719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Python (Programming Language)|Python]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **File Paths:** main.py (2), reformat.py (1)
 > **Analogies:** for example (2), kind of like (1)
@@ -740,12 +733,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic use of workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980)
+#### [Strategic use of workspace](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=0)** - [Instructor] Large code basis are a challenge and can be extremely challenging, not only for regular engineering, but well for machine learning models, AI models, natural language processing models that require to have an an input context in other words, to produce meaningful results.
+> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=0)** - [Instructor] Large code basis are a challenge and can be extremely challenging, not only for regular engineering, but well for machine learning models, AI models, [[Natural Language Processing (NLP)|natural language processing]] models that require to have an an input context in other words, to produce meaningful results.
 >
 > **[0:21](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=21)** Well, it's kind of tricky because models will have a limited amount of, limited amount of context that you can use.
 >
@@ -755,13 +747,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=42)** You cannot just go ahead and say, hey, you know, where's, you know, if I go ahead and say, "Where is logging enabled?"
 >
-> **[0:52](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=52)** It's a very generic way of asking for something you don't know anything, you're relying on, on Github copilot to try and figure that one out but it's 10,000 files.
+> **[0:52](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=52)** It's a very generic way of asking for something you don't know anything, you're relying on, on [[GitHub Copilot]] to try and figure that one out but it's 10,000 files.
 >
 > **[1:05](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=65)** I mean, how feasible it is that it's exactly, it's exactly what you need and exactly what the problem is.
 >
 > **[1:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=74)** And in this case, this code base is not only, it's not a single language.
 >
-> **[1:19](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=79)** It has Shell, it has Python, it has even JavaScript, TypeScript, but it's mostly C++.
+> **[1:19](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=79)** It has Shell, it has [[Python (Programming Language)|Python]], it has even [[JavaScript]], TypeScript, but it's mostly C++.
 >
 > **[1:25](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980&t=85)** So what are we looking for, right?
 >
@@ -829,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Engineering]] (1), ai (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[GitHub Copilot]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (3), kind of like (1)
 > **Definitions:** in other words (1), basically means (1), is a  (1)
@@ -837,8 +829,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing cross-file dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980)
+#### [Analyzing cross-file dependencies](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +853,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=46)** So that is fine.
 >
-> **[0:48](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=48)** In this case, we're looking at Python 3.12.
+> **[0:48](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=48)** In this case, we're looking at [[Python (Programming Language)|Python]] 3.12.
 >
 > **[0:52](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=52)** This is not important what Python version is.
 >
@@ -870,7 +861,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=61)** In this case, the language is not relevant because what we're trying to do here is to try to analyze cross file dependencies.
 >
-> **[1:10](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=70)** So let's use the power of Copilot, and I'm going to be using agent mode, but I'm going to be also using @workspace to go really deep into the context of this project called ceph-volume.
+> **[1:10](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=70)** So let's use the power of [[Microsoft Copilot|Copilot]], and I'm going to be using agent mode, but I'm going to be also using @workspace to go really deep into the context of this project called ceph-volume.
 >
 > **[1:25](https://www.linkedin.com/learning/github-copilot-for-system-level-development/analyzing-cross-file-dependencies?u=76281980&t=85)** I'm using @workspace.
 >
@@ -916,15 +907,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Copilot|Copilot]] (2), ai (2), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** python (5), make (1)
 > **Versions:** python 3 (2), python 2 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: System-wide code cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-system-wide-code-cleanup?u=76281980)
+#### [Challenge: System-wide code cleanup](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-system-wide-code-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +932,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-system-wide-code-cleanup?u=76281980&t=39)** So using raw config parser is appropriate for what I'm trying to do.
 >
-> **[0:44](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-system-wide-code-cleanup?u=76281980&t=44)** Okay, so go ahead and help me update the code to Python 3 standards and use raw config parser.
+> **[0:44](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-system-wide-code-cleanup?u=76281980&t=44)** Okay, so go ahead and help me update the code to [[Python (Programming Language)|Python]] 3 standards and use raw config parser.
 >
 > **[0:50](https://www.linkedin.com/learning/github-copilot-for-system-level-development/challenge-system-wide-code-cleanup?u=76281980&t=50)** So there's a couple things here.
 >
@@ -1002,7 +992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (3), python (2)
 > **Versions:** python 3 (2)
 > **UI Navigation:** go to (1)
@@ -1010,8 +1000,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: System-wide code cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980)
+#### [Solution: System-wide code cleanup](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1020,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=51)** And we have this ceph_volume decorator, and it's raising a runtime error.
 >
-> **[0:55](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=55)** So sometimes, again, Copilot will need a little bit of a push.
+> **[0:55](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=55)** So sometimes, again, [[Microsoft Copilot|Copilot]] will need a little bit of a push.
 >
 > **[1:01](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=61)** "Go ahead and fix the test_decorators tests."
 >
@@ -1041,7 +1030,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=86)** That sounds fine.
 >
-> **[1:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=87)** It looks like pylance to make sure that there's compliance with Python.
+> **[1:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=87)** It looks like pylance to make sure that there's compliance with [[Python (Programming Language)|Python]].
 >
 > **[1:32](https://www.linkedin.com/learning/github-copilot-for-system-level-development/solution-system-wide-code-cleanup?u=76281980&t=92)** That's fine, it's not necessarily super interesting, but let's take a look.
 >
@@ -1153,15 +1142,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Copilot|Copilot]] (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (7), python (3), find (1)
 > **Code Identifiers:** ceph_volume (2), test_decorators (2), test_main_shows_full_help (1)
 > **Env Vars:** mcp (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enforcing styles and constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980)
+#### [Enforcing styles and constraints](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1187,7 +1175,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=81)** The errors are pretty clear and there are certain parameters that are happening.
 >
-> **[1:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=87)** So, in this case, we could actually enforce certain styles, but because I don't quite remember every single thing that might be good here, let's ask Copilot to help us out.
+> **[1:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=87)** So, in this case, we could actually enforce certain styles, but because I don't quite remember every single thing that might be good here, let's ask [[Microsoft Copilot|Copilot]] to help us out.
 >
 > **[1:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=102)** Help me out, in this case, by providing me an analysis on some of the stylistic things that are happening in this code base.
 >
@@ -1201,11 +1189,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=149)** That looks pretty good.
 >
-> **[2:30](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=150)** Logging is handled by python's logging module.
+> **[2:30](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=150)** Logging is handled by [[Python (Programming Language)|python]]'s logging module.
 >
 > **[2:33](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=153)** That's also okay.
 >
-> **[2:37](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=157)** Most command modules, like main.Simple and inventory encapsulate logic clauses with a main method supporting CLI commands and argument parsing.
+> **[2:37](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=157)** Most command modules, like main.Simple and inventory encapsulate logic clauses with a main method supporting [[CLI]] commands and argument parsing.
 >
 > **[2:47](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=167)** So, what do we do with this, right?
 >
@@ -1221,7 +1209,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=207)** And I am going to go, and within this project, I am going to create a new file.
 >
-> **[3:36](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=216)** And this file is going to be .github, and this is going to be called copilot instructions.md.
+> **[3:36](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=216)** And this file is going to be .[[GitHub]], and this is going to be called copilot instructions.md.
 >
 > **[3:47](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=227)** So, within that GitHub, Copilot instructions is going to exist.
 >
@@ -1293,7 +1281,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=409)** So, I'm going to do a comment and create a method that parses the message, sure.
 >
-> **[6:57](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=417)** And returns the first word. Sure, why not?
+> **[6:57](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=417)** And returns the first [[Microsoft Word|word]]. Sure, why not?
 >
 > **[6:59](https://www.linkedin.com/learning/github-copilot-for-system-level-development/enforcing-styles-and-constraints?u=76281980&t=419)** Well, in this case, it didn't work correctly because let me see copilot instructions.
 >
@@ -1311,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[CLI]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[CLI]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (3), make (2), systemctl (1)
 > **File Paths:** instructions.md (2), lvm.py (1), main.py (1)
 > **Analogies:** for example (4)
@@ -1320,16 +1308,15 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Env Vars:** cli (1)
 
-#### Generating guidelines for specific tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980)
+#### [Generating guidelines for specific tasks](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=0)** - [Instructor] Generating guidelines for specific tasks is crucial when you want to define more than specific constraints.
 >
-> **[0:09](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=9)** In this case, I want to do test-driven development and I want to implement TDD.
+> **[0:09](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=9)** In this case, I want to do [[Test-Driven Development]] and I want to implement TDD.
 >
-> **[0:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=14)** And in these Copilot instructions, I'm going to say, "Be very strict with following TDD, including these steps right here."
+> **[0:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=14)** And in these [[Microsoft Copilot|Copilot]] instructions, I'm going to say, "Be very strict with following TDD, including these steps right here."
 >
 > **[0:28](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=28)** All right, so create a unit test first, then run the test, and make sure it fails.
 >
@@ -1339,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=40)** So, I think this is crucial.
 >
-> **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=42)** It allows the GitHub Copilot to try to follow the process.
+> **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=42)** It allows the [[GitHub Copilot]] to try to follow the process.
 >
 > **[0:47](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=47)** And now we're going to see how that is going to work.
 >
@@ -1407,13 +1394,13 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=206)** And now, well, that's essentially TDD.
 >
-> **[3:29](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=209)** Again, these guidelines could be anything from web development to any sort of development, any sort of factions that you want Copilot to follow.
+> **[3:29](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=209)** Again, these guidelines could be anything from [[Web Development]] to any sort of development, any sort of factions that you want Copilot to follow.
 >
 > **[3:38](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-guidelines-for-specific-tasks?u=76281980&t=218)** Not only specific guidelines on code generation, but also on processing workflows.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Test-Driven Development]] (1), [[GitHub Copilot]] (1), prompt (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Test-Driven Development]] (1), [[GitHub Copilot]] (1), [[Web Development]] (1)
 > **Code Identifiers:** arg_validator (1), arg_validators (1), dev_path_validator (1)
 > **Env Vars:** tdd (3)
 > **CLI Commands:** make (2)
@@ -1426,16 +1413,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating IaC configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980)
+#### [Generating IaC configurations](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=0)** - [Instructor] Infrastructure as code is very important when you are developing, especially things that are going to end up in a production environment.
+> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=0)** - [Instructor] [[Infrastructure as code (IaC)|Infrastructure as code]] is very important when you are developing, especially things that are going to end up in a production environment.
 >
 > **[0:09](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=9)** What we have here is a Ross project that is also an API.
 >
-> **[0:15](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=15)** So if I open up the read me and I close the file explorer here for a second, it is a simple microservice that will accept JSON string as input and return JSON string with a personal identifiable file for information redacted based on regular expressions stored as JSON.
+> **[0:15](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=15)** So if I open up the read me and I close the file explorer here for a second, it is a simple microservice that will accept [[JSON]] string as input and return JSON string with a personal identifiable file for information redacted based on regular expressions stored as JSON.
 >
 > **[0:32](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=32)** A very simple microservice, it's HTTP.
 >
@@ -1443,7 +1429,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=37)** Well, I've created a prompt where I'm asking to generate a deployment procedure for this application.
 >
-> **[0:44](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=44)** I want to use Ansible.
+> **[0:44](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=44)** I want to use [[Ansible]].
 >
 > **[0:45](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=45)** Ansible is one of the many different frameworks that you can use to create infrastructure as code, which is essentially configuring and deploying, doing the whole process of deployment with code.
 >
@@ -1475,7 +1461,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=119)** So that's pretty good.
 >
-> **[2:01](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=121)** So git, build essential, and cargo, those should be present.
+> **[2:01](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=121)** So [[Git]], build essential, and cargo, those should be present.
 >
 > **[2:04](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=124)** Ensure application user exists.
 >
@@ -1483,7 +1469,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=133)** In this case, we'll create a systemd service file.
 >
-> **[2:16](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=136)** So it assumes that it's Linux, that's fine.
+> **[2:16](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=136)** So it assumes that it's [[Linux]], that's fine.
 >
 > **[2:18](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=138)** I would probably end up using Linux as well myself, and it would ensure that the systemd is reloaded so that these service can get started.
 >
@@ -1499,7 +1485,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=194)** In this case, this is Ross, so you end up building a binary.
 >
-> **[3:18](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=198)** You are not supposed to run the code directly, but in some more programming languages, like say for example, Python, that doesn't exist.
+> **[3:18](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=198)** You are not supposed to run the code directly, but in some more programming languages, like say for example, [[Python (Programming Language)|Python]], that doesn't exist.
 >
 > **[3:28](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980&t=208)** That process of doing a build doesn't exist.
 >
@@ -1507,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[JSON]] (3), application (3), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Ansible]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[JSON]] (3), [[Linux]] (2), [[Git]] (1)
 > **CLI Commands:** ansible (4), git (1), cargo (1), python (1)
 > **Env Vars:** json (3), api (1), http (1)
 > **UI Navigation:** toggle (2), click on (1)
@@ -1515,14 +1501,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating Dockerfiles with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980)
+#### [Creating Dockerfiles with AI](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=0)** - [Instructor] Reading Dockerfiles is also an important thing that you can consider, especially because containers are, well, they're everywhere, and they're very easy to manage and sometimes easier to deploy as well.
 >
-> **[0:16](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=16)** So in this case, we're with the same Rust project where we're going to build a binary.
+> **[0:16](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=16)** So in this case, we're with the same [[Rust (Programming Language)|Rust]] project where we're going to build a binary.
 >
 > **[0:21](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=21)** We don't have a Dockerfile yet, but I'm going to ask to get that going.
 >
@@ -1532,7 +1517,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=31)** A distroless container, if you've never used it before, is a container that has the least amount of dependencies inside the container.
 >
-> **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=42)** And because this is a binary, this is something that is very appropriate for Rust because there, there's no need for a runtime, as opposed to programming languages like, say for example, Python or Ruby, where they need the runtime and the runtime has its own system dependency.
+> **[0:42](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=42)** And because this is a binary, this is something that is very appropriate for Rust because there, there's no need for a runtime, as opposed to programming languages like, say for example, [[Python (Programming Language)|Python]] or Ruby, where they need the runtime and the runtime has its own system dependency.
 >
 > **[0:58](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=58)** So it will make the resulting container very small.
 >
@@ -1558,7 +1543,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=97)** The builder stage looks accurate.
 >
-> **[1:40](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=100)** And then the runtime stage is using [gcr.io](https://gcr.io), which is the Google Container Registry.
+> **[1:40](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=100)** And then the runtime stage is using [gcr.io](https://gcr.io), which is the [[Google]] Container Registry.
 >
 > **[1:48](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=108)** Those are... That's the registry that has the distroless containers.
 >
@@ -1584,7 +1569,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=160)** And of course, my local cargo is a different version.
 >
-> **[2:43](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=163)** So one of the things that you might want to consider when you are dealing with these situations is that you can use AI, in this case it can help Copilot to help you out, figure out what are some of the differences.
+> **[2:43](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=163)** So one of the things that you might want to consider when you are dealing with these situations is that you can use AI, in this case it can help [[Microsoft Copilot|Copilot]] to help you out, figure out what are some of the differences.
 >
 > **[2:56](https://www.linkedin.com/learning/github-copilot-for-system-level-development/creating-dockerfiles-with-ai?u=76281980&t=176)** So this is a pretty crucial situation that we have here when my current system has a much better version, or much newer version of Rust.
 >
@@ -1600,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), application (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Python (Programming Language)|Python]] (1), [[Google]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** cargo (3), make (2), python (1), ruby (1), docker (1)
 > **Definitions:** is a  (5)
 > **Versions:** 1.90 (3), 1.75 (1)
@@ -1609,34 +1594,33 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terraform configuration generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980)
+#### [Terraform configuration generation](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=0)** - [Instructor] Finally, one of the things that I want to explore is to try to get this containerized app or actually this app that can be containerized because we now have a very good, very solid Docker file here.
 >
-> **[0:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=14)** I want to explore how would I do that with Terraform.
+> **[0:14](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=14)** I want to explore how would I do that with [[Terraform]].
 >
 > **[0:17](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=17)** So what I've started with here in my prompt is, I want to explore Terraform to deploy this application in a containerized way.
 >
-> **[0:24](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=24)** Provide me a setup that will create and push the container to the Azure Container Registry.
+> **[0:24](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=24)** Provide me a setup that will create and push the container to the [[Microsoft Azure|Azure]] Container Registry.
 >
 > **[0:28](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=28)** Now know that I'm seeing Azure Container Registry.
 >
 > **[0:31](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=31)** It could be any other cloud.
 >
-> **[0:32](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=32)** It could be very well be Amazon Web Services or perhaps the Google Cloud platform, but additionally create a separate workflow to deploy to the Azure Container Apps service.
+> **[0:32](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=32)** It could be very well be [[Amazon Web Services (AWS)|Amazon Web Services]] or perhaps the [[Google Cloud Platform (GCP)|Google Cloud platform]], but additionally create a separate workflow to deploy to the Azure Container Apps service.
 >
 > **[0:43](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=43)** So one is to actually build the container and the other one is to deploy it.
 >
-> **[0:50](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=50)** Depending on where you're at with infrastructure as code, perhaps building the container is not a very good idea.
+> **[0:50](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=50)** Depending on where you're at with [[Infrastructure as code (IaC)|infrastructure as code]], perhaps building the container is not a very good idea.
 >
 > **[0:57](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=57)** With Terraform, I want to explore.
 >
-> **[0:59](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=59)** I want to push a GitHub copilot to do something that perhaps might not make that much sense.
+> **[0:59](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=59)** I want to push a [[GitHub Copilot]] to do something that perhaps might not make that much sense.
 >
-> **[1:06](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=66)** Now if this is, if this product is in GitHub, my recommendation would be to, for example, do a little bit of work with GitHub actions and try to build a container and push the resulting container into a registry.
+> **[1:06](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=66)** Now if this is, if this product is in [[GitHub]], my recommendation would be to, for example, do a little bit of work with GitHub actions and try to build a container and push the resulting container into a registry.
 >
 > **[1:21](https://www.linkedin.com/learning/github-copilot-for-system-level-development/teraform-configuratio-generation?u=76281980&t=81)** And then perhaps with something like Terraform to try to get those deployed to an a production environment, like in this case it could be Azure container apps, or if you're in a different cloud provider, well use any of the other destinations as well.
 >
@@ -1688,27 +1672,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Terraform]] (8), cloud (4), [[GitHub]] (3), [[GitHub Copilot]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Terraform]] (8), [[GitHub]] (3), [[GitHub Copilot]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** terraform (8), make (2), docker (1), rm (1)
 > **Tools:** github (5)
 > **Prerequisites:** set up (2), setup (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980)
+#### [Course wrap-up](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=0)** - Okay, so that's a wrap in this GitHub course on advanced system level development.
+> **[0:00](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=0)** - Okay, so that's a wrap in this [[GitHub]] course on advanced system level development.
 >
-> **[0:06](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=6)** We saw how you can use GitHub Copilot and leverage it to do test-driven development.
+> **[0:06](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=6)** We saw how you can use [[GitHub Copilot]] and leverage it to do [[Test-Driven Development]].
 >
 > **[0:13](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=13)** We then took it to the next level to do some debugging and refactoring on large code bases.
 >
 > **[0:21](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=21)** It is sometimes a little bit challenging to deal with large code bases when you're using AI tooling.
 >
-> **[0:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=27)** In this specific case, we were using AI copilot to help us out, and now hopefully these patterns will help you get there.
+> **[0:27](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=27)** In this specific case, we were using AI [[Microsoft Copilot|copilot]] to help us out, and now hopefully these patterns will help you get there.
 >
 > **[0:34](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-wrapup?u=76281980&t=34)** And finally, we saw a little bit of automation.
 >
@@ -1722,7 +1705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), ai (3), [[Automation]] (2), [[GitHub]] (1), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[GitHub Copilot]] (1), [[Test-Driven Development]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Tools:** github (2)
 > **Speakers:** - okay (1)
 

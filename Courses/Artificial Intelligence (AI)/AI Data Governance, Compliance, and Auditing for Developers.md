@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your developer guide to AI data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980)
+#### [Your developer guide to AI data governance](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980&t=0)** - Is AI data governance an engineering problem?
+> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980&t=0)** - Is AI [[Data Governance]] an engineering problem?
 >
 > **[0:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980&t=3)** It's definitely a hot topic amongst legal and management, but what does it mean to the everyday developer?
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), [[Engineering]] (2), business (2), management (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - is (1)
 
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to national and international foundation for AI data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980)
+#### [Introduction to national and international foundation for AI data governance](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=0)** - [Instructor] Broadly, data governance is defined as a principled approach to managing data during its lifecycle, from acquisition to use to disposal.
+> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=0)** - [Instructor] Broadly, [[Data Governance]] is defined as a principled approach to managing data during its lifecycle, from acquisition to use to disposal.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=10)** More specifically, data governance is a process or set of processes intended to manage the quality, availability, usability, integrity, and security of data and enterprise systems.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=25)** So where's the AI component?
 >
-> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=29)** AI governance has its own definition.
+> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=29)** [[AI Governance]] has its own definition.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980&t=31)** In short, we use AI governance to try to ensure that AI systems are built, deployed, used, and managed to maximize benefits and prevent harm.
 >
@@ -162,13 +160,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), data (20), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (12), [[AI Governance]] (9)
 > **Definitions:** is a  (3)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### International laws for AI data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980)
+#### [International laws for AI data governance](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,11 +173,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=3)** It's a method for ensuring companies comply with the law, along with societal norms and ethical and organization values.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=10)** This video discusses the key international laws that form the foundation of AI data governance.
+> **[0:10](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=10)** This video discusses the key international laws that form the foundation of AI [[Data Governance]].
 >
 > **[0:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=17)** The reason we started this discussion with a focus on international laws is because they acted first, specifically the European Union.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=24)** The General Data Protection Regulation was the first law to regulate information privacy.
+> **[0:24](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=24)** The General Data Protection Regulation was the first law to regulate information [[Privacy]].
 >
 > **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=29)** The digital age began in earnest in the 1990s with Berners-Lee's invention of the Worldwide Web.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=47)** The rapid expansion of our digital society posed a threat to that right.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=52)** In 2016, the European Union passed the world's most comprehensive data privacy law, the GDPR.
+> **[0:52](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=52)** In 2016, the European Union passed the world's most comprehensive [[Data Privacy]] law, the GDPR.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=59)** It became binding law in 2018.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=137)** Finally, the success of the GDPR showed other nations how to successfully protect their core values in the age of globalization.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=145)** Many countries use the GDPR as a template when making their own privacy protection laws.
+> **[2:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=145)** Many countries use the GDPR as a template when making their own [[Privacy Protection]] laws.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=152)** According to the United Nations Conference on Trade and Development, the vast majority of countries have or are developing data protection and privacy laws.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=175)** But AI posed different data-protection challenges; challenges that the data-protection laws weren't fully suited to address.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=184)** Building on the success of the GDPR process, Europe once again took the lead in proposing new legislation to address key concerns with our technological evolution, the European Artificial Intelligence Act.
+> **[3:04](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=184)** Building on the success of the GDPR process, Europe once again took the lead in proposing new legislation to address key concerns with our technological evolution, the European [[Artificial Intelligence (AI)|Artificial Intelligence]] Act.
 >
 > **[3:16](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/international-laws-for-ai-data-governance?u=76281980&t=196)** Europe first proposed the Artificial Intelligence Act in 2021 as a regulatory framework for AI.
 >
@@ -282,7 +279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), data (16), [[Privacy]] (8), business (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Governance]] (2), [[Data Privacy]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Privacy Protection]] (1)
 > **Env Vars:** gdpr (10)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Analogies:** just like (1), similar to (1)
@@ -290,12 +287,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### National AI data governance regulation in the US
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980)
+#### [National AI data governance regulation in the US](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=0)** - [Instructor] The international community has been very active in passing the data privacy laws that form the basis of AI data governance.
+> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=0)** - [Instructor] The international community has been very active in passing the [[Data Privacy]] laws that form the basis of AI [[Data Governance]].
 >
 > **[0:07](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=7)** But the majority of large AI companies are headquartered in the US.
 >
@@ -303,11 +299,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=24)** We'll start with a discussion of key US AI data governance legislation.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=29)** As we learned in the last video, the road to AI governance starts with data governance.
+> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=29)** As we learned in the last video, the road to [[AI Governance]] starts with data governance.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=34)** However, the US does not have a national data privacy law.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=38)** It sounds odd given America's technological leadership in all things digital economy and digital society, but the concept of privacy under US law is very different than the European concept.
+> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=38)** It sounds odd given America's technological leadership in all things digital economy and digital society, but the concept of [[Privacy]] under US law is very different than the European concept.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=50)** That difference explains why Europe was an early adopter of comprehensive data privacy laws while the US still doesn't have one.
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=76)** The EU right is defined as respect for Europeans' private and family life, home, and, most importantly for this discussion, their correspondence.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=85)** It's the right to privacy of correspondence that forms the foundation for European data privacy laws.
+> **[1:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=85)** It's the right to privacy of correspondence that [[Forms]] the foundation for European data privacy laws.
 >
 > **[1:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=91)** US laws didn't have that direct context, so the American right to privacy had to evolve from a general right to be left alone to a more specific right to privacy in communications.
 >
@@ -359,7 +355,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=226)** It is meant to cover large companies with over $25 million in revenue per year who buy, sell, or share the personal information of 100,000 California residents or households, or make more than 50% of their annual revenue from selling residents' personal information.
 >
-> **[4:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=243)** The regulations are enforced by the California Privacy Protection Agency, and they carry fines of $2,500 per unintentional incident and $7,500 per intentional incident.
+> **[4:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=243)** The regulations are enforced by the California [[Privacy Protection]] Agency, and they carry fines of $2,500 per unintentional incident and $7,500 per intentional incident.
 >
 > **[4:14](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=254)** The numbers aren't eye-popping at the incident level, but they can definitely add up.
 >
@@ -395,7 +391,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=353)** Let's look at some of the more impactful state laws that passed.
 >
-> **[5:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=357)** Generative AI was a hot topic in government in 2024, and some of the most notable AI governance legislation was specifically tailored to that technology.
+> **[5:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=357)** [[Generative AI]] was a hot topic in government in 2024, and some of the most notable AI governance legislation was specifically tailored to that technology.
 >
 > **[6:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=366)** California's laws require developers to disclose generative AI training data, along with disclosing when it's being used and providing tools to detect its usage.
 >
@@ -403,7 +399,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=381)** Colorado passed the most comprehensive AI law.
 >
-> **[6:24](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=384)** It's a high-risk framework like the EU Artificial Intelligence Act.
+> **[6:24](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=384)** It's a high-risk framework like the EU [[Artificial Intelligence (AI)|Artificial Intelligence]] Act.
 >
 > **[6:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=388)** However, unlike the EU AI Act, the focus of the Colorado law is consumer protection, not preventing harmful outcomes.
 >
@@ -415,7 +411,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=414)** To refresh, the US does not have broad national laws for AI data governance, but that doesn't mean no laws exist.
 >
-> **[7:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=422)** In the absence of national laws, states have created a patchwork of laws to address the applications that are of greatest concern to their constituents, which is beneficial for their constituents, but makes it difficult for companies who are trying to build and sell products in a variety of states.
+> **[7:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=422)** In the absence of national laws, states have created a patchwork of laws to address the applications that are of greatest concern to their constituents, which is beneficial for their constituents, but makes it difficult for companies who are trying to build and sell [[Microsoft Products|products]] in a variety of states.
 >
 > **[7:18](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/national-us-ai-data-governance-regulation?u=76281980&t=438)** But the patchwork doesn't stop here.
 >
@@ -423,7 +419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (23), data (21), ai (12), next (3), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Data Privacy]] (12), [[Privacy]] (11), [[Data Governance]] (6), [[AI Governance]] (6), [[Generative AI]] (3)
 > **Cross-References:** in the last (1), in the next (1), as we saw (1), previous video (1), next video (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -432,8 +428,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Industry AI data governance regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980)
+#### [Industry AI data governance regulations](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,9 +440,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=11)** They manage what Americans eat and wear, how they move around and how they communicate, how Americans make and spend money, and how likely we are to get well and stay well.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=22)** As with all areas of society, industry is increasingly adopting AI tools, but in the absence of national laws or even specific state laws, federal regulators have taken it upon themselves to incorporate AI data governance into their regulatory frameworks.
+> **[0:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=22)** As with all areas of society, industry is increasingly adopting AI tools, but in the absence of national laws or even specific state laws, federal regulators have taken it upon themselves to incorporate AI [[Data Governance]] into their regulatory frameworks.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=38)** This video will look at how some regulatory bodies are adopting AI governance into industry regulations.
+> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=38)** This video will look at how some regulatory bodies are adopting [[AI Governance]] into industry regulations.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=45)** People who have studied American government will recall being taught about the three branches of government: legislative, executive, and judicial branches.
 >
@@ -475,9 +470,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=131)** The HHS oversees a large portfolio of agencies, including the National Institutes of Health and the Administration for Children and Families.
 >
-> **[2:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=139)** Its most notable AI data governance activities have occurred within the Centers for Disease Control and Prevention, which is the HHS agency that is directly charged with emergency public health, and the Food and Drug Administration, which is the agency charged with ensuring the safety of our food and the devices intended to keep Americans healthy.
+> **[2:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=139)** Its most notable AI data governance activities have occurred within the Centers for Disease Control and Prevention, which is the HHS agency that is directly charged with emergency [[Public Health]], and the Food and Drug Administration, which is the agency charged with ensuring the safety of our food and the devices intended to keep Americans healthy.
 >
-> **[2:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=160)** The Health Insurance Portability and Accountability Act, or HIPAA, was signed into law in 1996.
+> **[2:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=160)** The Health Insurance Portability and [[Accountability]] Act, or HIPAA, was signed into law in 1996.
 >
 > **[2:46](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=166)** HIPAA established national standards for safeguarding protected health information.
 >
@@ -493,7 +488,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=201)** As part of its mandate to ensure the safety and effectiveness of medical devices, the FDA has started to publish AI governance guidance.
 >
-> **[3:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=208)** Specifically, it has published draft guidance to assist manufacturers of AI-enabled devices and those using AI to support drug and biological product development.
+> **[3:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=208)** Specifically, it has published draft guidance to assist manufacturers of AI-enabled devices and those using AI to support drug and biological [[Product Development]].
 >
 > **[3:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=220)** 2021 saw a massive scandal in the real estate industry.
 >
@@ -513,7 +508,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=267)** So the agency charged with enforcing the FHA, the US Department of Housing and Urban Development, or HUD, had no authority to take action against Zillow, but they are actively working to implement AI governance in the areas that they do have responsibility for.
 >
-> **[4:42](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=282)** HUD recently issued FHA guidance on the use of artificial intelligence in the tenant screening process and in targeted advertising of housing opportunities on online platforms.
+> **[4:42](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=282)** HUD recently issued FHA guidance on the use of [[Artificial Intelligence (AI)|artificial intelligence]] in the tenant screening process and in targeted advertising of housing opportunities on online platforms.
 >
 > **[4:54](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=294)** Finally, we should spend some time discussing the agency that has been the most aggressive in enforcing AI governance, the Federal Trade Commission.
 >
@@ -527,7 +522,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=338)** This included overselling AI by making claims that the technology couldn't live up to and selling AI-generated reviews intended to defraud customers, along with Ponzi schemes and similar frauds.
 >
-> **[5:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=351)** The FTC has also placed a significant focus on enforcing data privacy requirements.
+> **[5:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=351)** The FTC has also placed a significant focus on enforcing [[Data Privacy]] requirements.
 >
 > **[5:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=357)** In 2023, it banned health apps from sharing patient data with advertising platforms, sued an ed tech company for using student data for advertising purposes, and sued a data broker for selling mobile geolocation data.
 >
@@ -545,7 +540,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=411)** The FTC started using this method, and due to its success, other regulatory bodies who have a legal right to disgorgement as a remedy have pledged to use this expanded definition of profits to force algorithmic disgorgement as well.
 >
-> **[7:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=426)** Being forced to delete algorithms may be the harshest of all penalties for an AI-dependent company.
+> **[7:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=426)** Being forced to delete [[Algorithms]] may be the harshest of all penalties for an AI-dependent company.
 >
 > **[7:12](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/industry-ai-data-governance-regulations?u=76281980&t=432)** Given the cost, time and effort that would be lost, it's probable that most companies would have difficulty overcoming this blow to their operations.
 >
@@ -557,14 +552,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (17), business (3), [[Public Health]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[AI Governance]] (4), [[Public Health]] (1), [[Accountability]] (1), [[Product Development]] (1)
 > **Env Vars:** ftc (6), hipaa (5), hhs (3), fha (2), hud (2)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI data governance standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980)
+#### [AI data governance standards](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=12)** But there are organizations that create rules that aren't tied to any laws, rules that groups are encouraged to follow because it benefits them, not because they fear punishment.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=23)** This video will discuss standards bodies and their role in AI data governance.
+> **[0:23](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=23)** This video will discuss standards bodies and their role in AI [[Data Governance]].
 >
 > **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=29)** Governments create laws.
 >
@@ -590,7 +584,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=51)** To better understand this dynamic, it may be helpful to recall a basic algorithm exercise.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=58)** When I was first learning about algorithms, my classmates and I were asked to create a step-by-step process for making a sandwich.
+> **[0:58](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=58)** When I was first learning about [[Algorithms]], my classmates and I were asked to create a step-by-step process for making a sandwich.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=65)** The results were varied, comical, and rarely resulted in an actual edible sandwich.
 >
@@ -608,9 +602,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=100)** The key difference between standard bodies and other groups we've discussed in this chapter is that standard bodies are made up of experts.
 >
-> **[1:48](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=108)** Both national and international governments recruit experts to develop technical standards for a wide range of products and services.
+> **[1:48](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=108)** Both national and international governments recruit experts to develop technical standards for a wide range of [[Microsoft Products|products]] and services.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=116)** A few key governmental standards bodies you should be aware of are NIST for the US government, BSI for the United Kingdom, and the IEC for the European Union.
+> **[1:56](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=116)** A few key governmental standards bodies you should be aware of are [[NIST]] for the US government, BSI for the United Kingdom, and the IEC for the European Union.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=127)** However, many experts don't work for governments.
 >
@@ -626,7 +620,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=160)** First, some key data governance standards you should be aware of.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=164)** The ISO published two key data quality standards that will help ensure that you are complying with all data quality related laws.
+> **[2:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=164)** The ISO published two key [[Data Quality]] standards that will help ensure that you are complying with all data quality related laws.
 >
 > **[2:52](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=172)** ISO 8000 is the international standard for data quality.
 >
@@ -640,7 +634,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=208)** The IEEE has several data governance standards.
 >
-> **[3:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=211)** Specifically IEEE 7002 provides guidance for privacy-preserving systems and software engineering processes when personal data is being utilized in the systems, products, or services.
+> **[3:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=211)** Specifically IEEE 7002 provides guidance for [[Privacy]]-preserving systems and software engineering processes when personal data is being utilized in the systems, products, or services.
 >
 > **[3:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=224)** IEEE 7005 provides guidelines for employer access, collection and storage, utilization, sharing, and destruction of employee data.
 >
@@ -650,7 +644,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=249)** There is a perception that with the explosion of AI over the last few years, that tech is moving much faster than the laws.
 >
-> **[4:16](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=256)** But as we saw in previous videos, there are some established AI governance laws and regulations.
+> **[4:16](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=256)** But as we saw in previous videos, there are some established [[AI Governance]] laws and regulations.
 >
 > **[4:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=262)** Standards bodies have been keeping up as well.
 >
@@ -664,13 +658,13 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=305)** That's when frameworks are more helpful.
 >
-> **[5:08](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=308)** NIST developed the AI risk management framework targeted at US-based companies with a focus on incorporating trustworthiness into the design, development, use, and evaluation of AI products, services, and systems.
+> **[5:08](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=308)** NIST developed the AI [[Risk Management Framework (RMF)|risk management framework]] targeted at US-based companies with a focus on incorporating trustworthiness into the design, development, use, and evaluation of AI products, services, and systems.
 >
 > **[5:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=322)** In the absence of a specific legal or regulatory foundation.
 >
 > **[5:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=325)** The goal of the RMF is to enable companies to better manage AI risk, specifically risk to individuals, organizations, and society.
 >
-> **[5:34](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=334)** ISACA's control objectives for information and related technologies is an IT governance framework.
+> **[5:34](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=334)** ISACA's control objectives for information and related technologies is an [[IT Governance]] framework.
 >
 > **[5:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-standards?u=76281980&t=340)** While it wasn't created specifically for AI governance, the framework structure makes it adaptable to new uses and companies are adopting it to address their AI governance needs.
 >
@@ -686,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (13), [[Microsoft Products|Products]] (6), product (2), [[NIST]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[AI Governance]] (5), [[Data Governance]] (4), [[Data Quality]] (4), [[NIST]] (2)
 > **Env Vars:** iso (6), ieee (5), iec (3), cobit (3), nist (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** be aware (3)
@@ -699,8 +693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the role of data transparency
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980)
+#### [Introduction to the role of data transparency](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,27 +719,27 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=51)** The goal of data transparency is to shed light on how data is collected, processed, and used by an organization.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=59)** Data transparency is a foundational area of data governance because you need to be able to see the full picture in order to properly manage it.
+> **[0:59](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=59)** Data transparency is a foundational area of [[Data Governance]] because you need to be able to see the full picture in order to properly manage it.
 >
 > **[1:07](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=67)** But outside of good management principles, why would a company invest in data transparency?
 >
-> **[1:13](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=73)** As we discussed in chapter one, there are national and international laws, regulations, and standards that govern data collection, handling, and transmission.
+> **[1:13](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=73)** As we discussed in chapter one, there are national and international laws, regulations, and standards that govern [[Data Collection]], handling, and transmission.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=83)** Some of these laws are enforced by significant penalties, so practically it's in every company and every employee's best interest to abide by the regulations that impact their company's business.
 >
 > **[1:35](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=95)** But compliance isn't just a practical consideration, it's often a legal obligation.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=100)** The various data privacy laws require businesses and organizations to implement specific compliance measures.
+> **[1:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=100)** The various [[Data Privacy]] laws require businesses and organizations to implement specific compliance measures.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=106)** Some laws require companies to appoint Data Protection Officers or DPOs to oversee data practices.
 >
-> **[1:53](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=113)** Some require companies to conduct privacy impact assessments, but all governance laws require companies to keep detailed records of data processing activities.
+> **[1:53](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=113)** Some require companies to conduct [[Privacy]] impact assessments, but all governance laws require companies to keep detailed records of [[Data Processing]] activities.
 >
 > **[2:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=122)** Data transparency helps companies understand their internal processes and data flows so they can meet their compliance responsibilities.
 >
 > **[2:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=131)** There are three distinct areas that each need to be understood in order to have a complete picture of a company's data.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=137)** Those areas are data observability, data lineage, and data traceability.
+> **[2:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=137)** Those areas are data observability, [[Data Lineage]], and data traceability.
 >
 > **[2:23](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980&t=143)** These three areas work in concert with each other, showing us the plan, the reality, and the performance of a company's data.
 >
@@ -756,14 +749,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Privacy]] (2), game (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Data Collection]] (1), [[Data Privacy]] (1), [[Privacy]] (1), [[Data Processing]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to data observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980)
+#### [Introduction to data observability](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,11 +767,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=25)** Observability means seeing and understanding at a foundational level.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=29)** It is the technical effort that is usually the first step of a company's data governance transition.
+> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=29)** It is the technical effort that is usually the first step of a company's [[Data Governance]] transition.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=35)** But people don't implement observability specifically for data governance.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=38)** It's key to good business operations.
+> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=38)** It's key to good [[Business Operations]].
 >
 > **[0:41](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=41)** If you understand how data flows through your internal systems, the timing of your ingestions, uploads and downloads, the volume of data that typically flows through your pipelines, and the quality you can expect from the data, then you're in a position to monitor for anomalies.
 >
@@ -789,7 +781,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=67)** So how do you see data as it flows through an organization?
 >
-> **[1:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=71)** You monitor it, either by monitoring the metadata itself or by employing statistical monitoring tools.
+> **[1:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=71)** You monitor it, either by monitoring the [[Metadata]] itself or by employing statistical monitoring tools.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=79)** Both methods are intended to do the same thing, enable you to gather insights and understand the data so you can monitor for changes over time.
 >
@@ -837,7 +829,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=197)** Anomaly detection can help you see customer or product trends very early on, allowing the business to capitalize on new opportunities.
 >
-> **[3:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=205)** We'll discuss data lineage in the next video as it's a key data transparency method.
+> **[3:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=205)** We'll discuss [[Data Lineage]] in the next video as it's a key data transparency method.
 >
 > **[3:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-observability?u=76281980&t=209)** But at its most basic, it's the ability to track where individual pieces of data come from and how they flow through the system.
 >
@@ -863,7 +855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), business (8), next (3), [[Metadata]] (2), database (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Metadata]] (2), [[Data Lineage]] (2), [[Business Operations]] (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -871,12 +863,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to data lineage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980)
+#### [Introduction to data lineage](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=0)** - [Instructor] We briefly discussed data lineage last video as a method that helps you troubleshoot issues in your data pipeline.
+> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=0)** - [Instructor] We briefly discussed [[Data Lineage]] last video as a method that helps you troubleshoot issues in your data pipeline.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=7)** But data lineage is much more than a troubleshooting tool.
 >
@@ -894,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=44)** There are two preparatory steps you need to undergo before you're ready to implement a data lineage system.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=50)** The first step is data mapping.
+> **[0:50](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=50)** The first step is [[Data Mapping]].
 >
 > **[0:52](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=52)** Data mapping is an effort to match fields from one database to another.
 >
@@ -930,11 +921,11 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=147)** The business impact of this kind of functionality is massive.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=151)** By combining and transforming data from various sources, examining data structures, and applying visualization techniques, you're able to understand and extract valuable information that was previously inaccessible.
+> **[2:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=151)** By combining and transforming data from various sources, examining [[Data Structures]], and applying visualization techniques, you're able to understand and extract valuable information that was previously inaccessible.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=164)** But why is this considered an AI data governance technique?
+> **[2:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=164)** But why is this considered an AI [[Data Governance]] technique?
 >
-> **[2:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=167)** A Facebook engineer once described user data as a drop of ink in a lake of water, which presented a fundamental issue when attempting to comply with privacy regulations.
+> **[2:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=167)** A Facebook engineer once described user data as a drop of ink in a lake of water, which presented a fundamental issue when attempting to comply with [[Privacy]] regulations.
 >
 > **[2:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-lineage?u=76281980&t=177)** Once that drop of ink enters the lake, how do you retrieve it?
 >
@@ -954,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), ai (4), [[Troubleshooting]] (1), database (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (8), [[Data Mapping]] (6), [[Data Governance]] (3), [[Data Structures]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)
@@ -962,8 +953,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to data traceability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980)
+#### [Introduction to data traceability](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=8)** Data traceability is the process of tracking the flow of data from the moment it enters your systems to its final destination.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=15)** But wait, that sounds an awful lot like data lineage.
+> **[0:15](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=15)** But wait, that sounds an awful lot like [[Data Lineage]].
 >
 > **[0:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=19)** What's the difference between the two?
 >
@@ -981,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=28)** Essentially, data traceability provides an audit trail for the data, allowing us to verify the data's accuracy, quality, and reliability.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=38)** Essentially, data traceability is supply chain management for digital companies.
+> **[0:38](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=38)** Essentially, data traceability is [[Supply Chain Management]] for digital companies.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=43)** Just like in traditional supply chain management, digitally focused companies can use data traceability to prove reliability, de-risk operations, and surface business opportunities.
 >
@@ -995,7 +985,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=71)** Let's discuss some key techniques from each of these methods.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=75)** Active traceability methods build on data lineage, specifically lineage based on metadata.
+> **[1:15](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=75)** Active traceability methods build on data lineage, specifically lineage based on [[Metadata]].
 >
 > **[1:21](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-data-traceability?u=76281980&t=81)** Metadata is descriptive data.
 >
@@ -1031,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), business (4), [[Metadata]] (3), [[Engineering]] (3), ai (3)
+> **Frameworks & Libraries:** [[Data Lineage]] (4), [[Metadata]] (3), [[Supply Chain Management]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -1043,8 +1033,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI data compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980)
+#### [Introduction to AI data compliance](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1061,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=62)** It is an effort to determine if people are following the rules.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=66)** Compliance officers can't check everything, so their work tends to be concentrated on three key concerns, data privacy, non-discrimination, and system security.
+> **[1:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=66)** Compliance officers can't check everything, so their work tends to be concentrated on three key concerns, [[Data Privacy]], non-discrimination, and system security.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=76)** The way engineers and developers tend to experience compliance is often as extra work, largely additional documentation and extra layers of approvals.
 >
@@ -1088,7 +1077,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=113)** Noncompliance can cost your company its hard-earned reputation.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=117)** Users may never trust you with their data again, making the creation of database products pretty difficult.
+> **[1:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=117)** Users may never trust you with their data again, making the creation of database [[Microsoft Products|products]] pretty difficult.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=124)** Other companies may not be as willing to work with you or give you favorable contracts, so the cost of doing business may increase.
 >
@@ -1102,26 +1091,25 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=161)** The next few videos will discuss various methods for compliance in three areas.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=166)** First, we look at the administrative requirements and AI data governance laws.
+> **[2:46](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=166)** First, we look at the administrative requirements and AI [[Data Governance]] laws.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980&t=170)** Then we'll discuss techniques that can be deployed at the data and model levels.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (5), [[Privacy]] (1), [[Security]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Microsoft Products|Products]] (1), [[Data Governance]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** cso (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why comply?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980)
+#### [Why comply?](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=0)** - [Instructor] As we discussed in the last video, AI compliance is the process of obeying relevant laws.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=5)** Some areas of compliance, like privacy and non-discrimination, require complex processes to understand and demonstrate, but administrative requirements aren't complex.
+> **[0:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=5)** Some areas of compliance, like [[Privacy]] and non-discrimination, require complex processes to understand and demonstrate, but administrative requirements aren't complex.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=16)** They're clearly defined in the laws, which makes them the easiest to comply with, and the most frustrating to be penalized for.
 >
@@ -1131,11 +1119,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=39)** The key staffing requirement in AI compliance is for the company to have a data protection officer.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=45)** The DPO role was first established by the GDPR, the European Data Privacy Act.
+> **[0:45](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=45)** The DPO role was first established by the GDPR, the European [[Data Privacy]] Act.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=51)** Since data privacy is a key AI compliance area, DPOs have essentially been drafted onto the AI compliance team.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=58)** I say they've been drafted because the role DPOs play in AI governance is ambiguously defined.
+> **[0:58](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=58)** I say they've been drafted because the role DPOs play in [[AI Governance]] is ambiguously defined.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=65)** They aren't directly concerned with AI compliance.
 >
@@ -1143,17 +1131,17 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=77)** You may end up working directly with the DPO on some AI projects, particularly if you're in a management role, or you may interact with them through a working group or a steering committee.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=88)** They may have a direct say over your products and strategy, or may function as a CC on all required reporting, but they will place some role in AI compliance, so you should be prepared to assist them as you can.
+> **[1:28](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=88)** They may have a direct say over your [[Microsoft Products|products]] and strategy, or may function as a CC on all required reporting, but they will place some role in AI compliance, so you should be prepared to assist them as you can.
 >
 > **[1:41](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=101)** The text of AI laws lists a variety of recordkeeping requirements.
 >
 > **[1:45](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=105)** The majority of the requirements are related to data.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=109)** Specifically, they require significant logging capabilities, proof of informed consent for data collection and use, and granular information on the collection, use, and destruction of personal data.
+> **[1:49](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=109)** Specifically, they require significant logging capabilities, proof of informed consent for [[Data Collection]] and use, and granular information on the collection, use, and destruction of personal data.
 >
 > **[2:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=122)** The data transparency methods we discussed in earlier videos will be critical to proving compliance with these requirements.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=129)** As part of the recordkeeping effort, compliance will require companies to implement new processes, specifically privacy impact assessments and recording data processing activities.
+> **[2:09](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=129)** As part of the recordkeeping effort, compliance will require companies to implement new processes, specifically privacy impact assessments and recording [[Data Processing]] activities.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=140)** If you work in data or engineering, these will likely be new and unfamiliar processes.
 >
@@ -1179,7 +1167,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=222)** That analysis got him convicted.
 >
-> **[3:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=224)** It is critical for engineering, business, and legal to work together and ensure a clear, documented understanding of what kinds of incidents need to be reported under the relevant AI data governance laws.
+> **[3:44](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=224)** It is critical for engineering, business, and legal to work together and ensure a clear, documented understanding of what kinds of incidents need to be reported under the relevant AI [[Data Governance]] laws.
 >
 > **[3:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/why-comply?u=76281980&t=237)** We'll go into more detail on audits in the next chapter, but for this video, it is important to understand that there are two assessment methods, self-assessments and third-party assessments.
 >
@@ -1201,19 +1189,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (16), [[Privacy]] (5), [[Engineering]] (4), management (3)
+> **Frameworks & Libraries:** [[Data Privacy]] (3), [[Privacy]] (2), [[AI Governance]] (1), [[Microsoft Products|Products]] (1), [[Data Collection]] (1)
 > **Env Vars:** dpo (2), gdpr (1), cso (1)
 > **Cross-References:** we discussed (2), in the last (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### General legislative requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980)
+#### [General legislative requirements](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=0)** - [Instructor] Our discussions to this point have made it clear that data is at the heart of AI governance.
+> **[0:00](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=0)** - [Instructor] Our discussions to this point have made it clear that data is at the heart of [[AI Governance]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=5)** So, any effort at AI compliance will require the use of data-focused techniques.
 >
@@ -1223,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=25)** Let's take a look at the key areas of focus for AI compliance, and then discuss how certain data techniques help address those key areas.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=34)** As mentioned earlier, AI compliance is a broad concept that covers a lot of ground, but in this video we'll focus on three key concerns for AI compliance officers, which are: data privacy, nondiscrimination, and system security.
+> **[0:34](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=34)** As mentioned earlier, AI compliance is a broad concept that covers a lot of ground, but in this video we'll focus on three key concerns for AI compliance officers, which are: [[Data Privacy]], nondiscrimination, and system security.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=50)** Let's go through each and discuss the techniques that address them.
 >
@@ -1231,9 +1218,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=59)** Their goal is to ensure that any data used in an AI system is collected, stored, and used ethically.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=66)** Data collection and classification are the key methods for ensuring compliance.
+> **[1:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=66)** [[Data Collection]] and classification are the key methods for ensuring compliance.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=71)** These tasks can be achieved through data lineage methods, specifically, data mapping and cataloging.
+> **[1:11](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=71)** These tasks can be achieved through [[Data Lineage]] methods, specifically, [[Data Mapping]] and cataloging.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=78)** The key reason why nondiscrimination is such a concern for AI compliance officers, is AI's ability to make decisions at scale.
 >
@@ -1255,7 +1242,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=135)** The final of the key AI compliance areas is security.
 >
-> **[2:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=139)** We'll talk more about AI system security in the next video, but the key security issue for this video is data security.
+> **[2:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=139)** We'll talk more about AI system security in the next video, but the key security issue for this video is [[Data Security]].
 >
 > **[2:27](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=147)** AI systems utilize significantly larger data volumes than traditional workloads, and the data is pulled from more diverse sources.
 >
@@ -1263,7 +1250,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=163)** Data controls that are built on a solid foundation of data mapping and monitoring can significantly decrease these risk.
 >
-> **[2:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=171)** For a more granular explanation of those techniques, you should check out Jazmia Henry's "[[Learning XAI- Explainable Artificial Intelligence]]" course that is included in the "Building AI Products; Implementing Responsible AI" professional certificate.
+> **[2:51](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=171)** For a more granular explanation of those techniques, you should check out Jazmia Henry's "[[Learning XAI- Explainable [[Artificial Intelligence (AI)|Artificial Intelligence]]]]" course that is included in the "Building AI [[Microsoft Products|Products]]; Implementing [[Responsible AI]]" professional certificate.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/general-legislative-requirements?u=76281980&t=186)** But in this video, you've just gained a solid understanding of the key data techniques that can be used to ensure AI compliance.
 >
@@ -1271,15 +1258,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), ai (20), [[Security]] (5), [[Privacy]] (2), next (2)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Data Mapping]] (2), [[AI Governance]] (1), [[Data Collection]] (1), [[Data Lineage]] (1)
 > **Cross-References:** previous chapter (1), in the next (1), next video (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** xai (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980)
+#### [Compliance techniques](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,7 +1297,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=65)** So let's refresh on the key areas of AI compliance before diving into model-level techniques that can address them.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=72)** AI compliance is chiefly concerned with data privacy, non-discrimination, and system security, but at the model level, risk assessment becomes an additional concern.
+> **[1:12](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=72)** AI compliance is chiefly concerned with [[Data Privacy]], non-discrimination, and system security, but at the model level, risk assessment becomes an additional concern.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=82)** We'll discuss that concern towards the end of the video.
 >
@@ -1325,7 +1311,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=114)** Just as mapping and cataloging data is helpful in ensuring that you aren't using sensitive data inappropriately, model catalogs serve the same purpose at the algorithmic level.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=124)** Individual algorithms are often reused, mixed, and mingled in different ways, so it's critical to ensure that models that rely on sensitive data aren't inadvertently used for unapproved or inappropriate purposes.
+> **[2:04](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=124)** Individual [[Algorithms]] are often reused, mixed, and mingled in different ways, so it's critical to ensure that models that rely on sensitive data aren't inadvertently used for unapproved or inappropriate purposes.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=139)** Model catalogs can help with that.
 >
@@ -1337,11 +1323,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=162)** Mapping and monitoring AI flows allows you to implement anomaly detection.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=167)** AI controls are key for ensuring compliance with AI security requirements.
+> **[2:47](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=167)** AI controls are key for ensuring compliance with [[AI Security]] requirements.
 >
 > **[2:52](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=172)** Specifically to ensure model reliability, you should implement model controls, which are best practices for model training, validation, and evaluation.
 >
-> **[3:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=183)** And to protect AI systems from cyber threats and unauthorized access, you should implement infrastructure controls, which are a robust package of IT and cybersecurity measures.
+> **[3:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=183)** And to protect AI systems from cyber threats and unauthorized access, you should implement infrastructure controls, which are a robust package of IT and [[Cybersecurity]] measures.
 >
 > **[3:14](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=194)** Model documentation is a model-specific technique.
 >
@@ -1375,7 +1361,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=297)** Then you rank those impacts in terms of harm.
 >
-> **[5:01](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=301)** Then you must assess the probability of those risks occurring.
+> **[5:01](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=301)** Then you must assess the [[Probability]] of those risks occurring.
 >
 > **[5:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=305)** This assessment is often illustrated as a risk matrix with the likelihood of the risk on the X axis and the severity on the Y axis.
 >
@@ -1395,13 +1381,13 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=370)** I recognize that there is a whole body of knowledge on model-level bias mitigation techniques that are not discussed in this course.
 >
-> **[6:18](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=378)** For more information about those techniques, you should check out Laurence Moroney's [[Responsible AI and Application Development]] course that is also included in the Building AI Products: Implementing Responsible AI Professional Certificate.
+> **[6:18](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=378)** For more information about those techniques, you should check out Laurence Moroney's [[[[Responsible AI]] and [[Application Development]]]] course that is also included in the Building AI [[Microsoft Products|Products]]: Implementing Responsible AI Professional Certificate.
 >
 > **[6:32](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/compliance-techniques?u=76281980&t=392)** Now that you better understand administrative, data, and model techniques to meet AI compliance requirements, the next chapter will provide an overview on the process for demonstrating compliance: the AI audit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), data (18), [[Probability]] (3), [[Security]] (2), [[Responsible AI]] (2)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Responsible AI]] (2), [[Data Privacy]] (1), [[Algorithms]] (1), [[AI Security]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** just like (1), similar to (1), for example (1)
 > **Cross-References:** previous video (1), next chapter (1)
@@ -1413,8 +1399,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI data governance auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980)
+#### [Introduction to AI data governance auditing](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1426,7 +1411,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=14)** Well, that happens at the audit phase.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=17)** When you look up definitions of the word audit, many are related to finance.
+> **[0:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=17)** When you look up definitions of the [[Microsoft Word|word]] audit, many are related to finance.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=21)** Essentially, an audit is a formal examination of accounts.
 >
@@ -1490,7 +1475,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=202)** Some of whose names should look familiar from earlier videos.
 >
-> **[3:26](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=206)** The Information Systems Audit and Control Association, or ISACA. is an international professional organization focused on IT governance.
+> **[3:26](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=206)** The Information Systems Audit and Control Association, or ISACA. is an international professional organization focused on [[IT Governance]].
 >
 > **[3:34](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=214)** Their control objectives for information and related technologies, or COBIT framework, is an IT management and governance framework.
 >
@@ -1500,13 +1485,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=236)** They produced an AI auditing checklist that is focused on the impacts of AI systems on society.
 >
-> **[4:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=242)** In the US, the Federal Government Accountability Office, or GAO, developed an AI accountability framework, which focuses on governance, data, performance, and monitoring.
+> **[4:02](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=242)** In the US, the Federal Government [[Accountability]] [[Microsoft Office|Office]], or GAO, developed an AI accountability framework, which focuses on governance, data, performance, and monitoring.
 >
 > **[4:13](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=253)** The GAO use this framework to audit the Department of Homeland Security's use of AI.
 >
-> **[4:20](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=260)** Finally, the US National Institute of Standards and Technology, or NIST, developed an AI risk-management framework as a guideline, standard, and process for assessing and managing risk to information systems.
+> **[4:20](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=260)** Finally, the US National Institute of Standards and Technology, or [[NIST]], developed an AI risk-management framework as a guideline, standard, and process for assessing and managing risk to information systems.
 >
-> **[4:32](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=272)** While NIST does not perform audits, its risk management framework forms the basis for many audit systems.
+> **[4:32](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=272)** While NIST does not perform audits, its [[Risk Management Framework (RMF)|risk management framework]] [[Forms]] the basis for many audit systems.
 >
 > **[4:39](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980&t=279)** While audits vary greatly based on focus and type, they tend to all cover the following areas.
 >
@@ -1530,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), data (5), management (3), [[Engineering]] (2), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[NIST]] (2), [[Microsoft Word|Word]] (1), [[IT Governance]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** cobit (2), gao (2), nist (2), isaca (1), edpb (1)
 > **Cross-References:** we discussed (2), in the last (1), in the next (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1538,8 +1523,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI data governance auditing approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980)
+#### [AI data governance auditing approaches](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1593,9 +1577,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=142)** We discussed one in the last video.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=145)** ISACA's COBIT framework was developed for IT governance, but is being repurposed for AI auditing.
+> **[2:25](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=145)** ISACA's COBIT framework was developed for [[IT Governance]], but is being repurposed for AI auditing.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=151)** AI Ethics approaches attempt to assess whether an organization or an AI system aligns with established AI ethics standards.
+> **[2:31](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=151)** AI [[Ethics]] approaches attempt to assess whether an organization or an AI system aligns with established AI ethics standards.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=159)** This approach can be either narrow or broad as it can be focused on the algorithm or on organizational governance.
 >
@@ -1613,13 +1597,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=207)** Now that you've completed this chapter, you have a stronger understanding of the uncertainties of the AI audit space, the initial types of audit approaches, and how those approaches have evolved over the short period of this industry's existence.
 >
-> **[3:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=220)** Auditing is essentially the final exam of a company's data governance work.
+> **[3:40](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=220)** Auditing is essentially the final exam of a company's [[Data Governance]] work.
 >
 > **[3:45](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/ai-data-governance-auditing-approaches?u=76281980&t=225)** Now that we've completed it, we'll spend the next video reviewing lessons learned through the AI data governance journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Ethics]] (4), data (3), management (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (4), [[Data Governance]] (2), [[IT Governance]] (1)
 > **Cross-References:** we discussed (2), in the last (2), next video (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **Env Vars:** isaca (1), cobit (1)
@@ -1632,8 +1616,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your AI data governance journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980)
+#### [Continuing your AI data governance journey](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,19 +1624,19 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=3)** Thank you for spending this time with me.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=5)** Now, what I provided you is an introduction to AI data governance, just enough to make you dangerous.
+> **[0:05](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=5)** Now, what I provided you is an introduction to AI [[Data Governance]], just enough to make you dangerous.
 >
 > **[0:10](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=10)** Specifically, you now have the language to discuss AI data governance with business and play an active role in your company's decision making.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=17)** If you want more in depth hands-on instruction on the methods and techniques we covered, I encourage you to take the remaining courses in the building AI products, implementing responsible AI professional certificate learning path.
+> **[0:17](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=17)** If you want more in depth hands-on instruction on the methods and techniques we covered, I encourage you to take the remaining courses in the building AI [[Microsoft Products|products]], implementing [[Responsible AI]] professional certificate learning path.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=29)** And if you're interested in additional AI ethics topics, specifically the environmental impact of AI systems, feel free to follow me on LinkedIn or Substack or check out my company.
+> **[0:29](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=29)** And if you're interested in additional AI [[Ethics]] topics, specifically the environmental impact of AI systems, feel free to follow me on [[LinkedIn]] or Substack or check out my company.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980&t=39)** Once again, thank you for your time and attention and best of luck on your responsible AI journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (2), [[Responsible AI]] (2), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Responsible AI]] (2), [[Microsoft Products|Products]] (1), [[Ethics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is an  (1)

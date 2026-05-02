@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn server-side rendering with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980)
+#### [Learn server-side rendering with React](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,11 +92,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=14)** I'm here to clarify and demystify the subject for you.
 >
-> **[0:18](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=18)** Hi, I'm Emmie Henry and I've been working with React since its release and often use SSR in my own applications, and it will be my pleasure to support you in this journey.
+> **[0:18](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=18)** Hi, I'm Emmie Henry and I've been working with [[React.js|React]] since its release and often use SSR in my own applications, and it will be my pleasure to support you in this journey.
 >
 > **[0:30](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=30)** First, we'll explore the basics of SSR.
 >
-> **[0:32](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=32)** Then we'll focus our intention on using a template project and build our first application with SSR, React, and leveraging Next.js.
+> **[0:32](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=32)** Then we'll focus our intention on using a template project and build our first application with SSR, React, and leveraging [[Next.js]].
 >
 > **[0:41](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980&t=41)** Next, we'll add Redux to our application.
 >
@@ -109,24 +108,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), [[Next.js]] (1), next (1), express (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Next.js]] (1)
 > **Env Vars:** ssr (5)
 > **File Paths:** next.js (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [emmanuel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is focused on building a server-side application with React, so some experience with React is a must.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is focused on building a server-side application with [[React.js|React]], so some experience with React is a must.
 >
 > **[0:08](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=8)** If you aren't familiar with creating React components using props, importing modules, I'd recommend that you take a basic React course from our library.
 >
-> **[0:17](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=17)** Also experience with JavaScript is a must for this course, as this is the basis of a React programmer and Next.js.
+> **[0:17](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=17)** Also experience with [[JavaScript]] is a must for this course, as this is the basis of a React programmer and [[Next.js]].
 >
-> **[0:25](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=25)** Additionally, being familiar with terminal commands and NPM isn't a must, but it will definitely help you when we use these tools.
+> **[0:25](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=25)** Additionally, being familiar with terminal commands and [[npm]] isn't a must, but it will definitely help you when we use these tools.
 >
 > **[0:34](https://www.linkedin.com/learning/react-server-side-rendering-8539269/what-you-should-know?u=76281980&t=34)** In this course, I'll be using a Mac, but you can follow along on a PC as well.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), application (1), [[JavaScript]] (1), [[Next.js]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (1), [[Next.js]] (1), [[npm]] (1)
 > **Tools:** terminal (2), vs code (1)
 > **Definitions:** is a  (2)
 > **File Paths:** next.js (1)
@@ -153,8 +151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SSR: What, how, and why
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980)
+#### [SSR: What, how, and why](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,9 +161,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=11)** Simply put, these are all different terms meaning the exact same thing, which is, that your application is rendered on the server instead of the client.
 >
-> **[0:21](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=21)** So to better understand what happens when running your application on the server, let me first explain what happens in your regular React client-side application.
+> **[0:21](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=21)** So to better understand what happens when running your application on the server, let me first explain what happens in your regular [[React.js|React]] client-side application.
 >
-> **[0:31](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=31)** Your backend provides APIs or data to your front-end-side client, then React with the data on hand renders the HTML of your application in the browser.
+> **[0:31](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=31)** Your backend provides APIs or data to your front-end-side client, then React with the data on hand renders the [[HTML]] of your application in the browser.
 >
 > **[0:42](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=42)** Whereas in server-side rendering, the server renders the HTML and then sends it to the client, eliminating the need of the client to do these tasks.
 >
@@ -178,13 +175,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=76)** Consider this fact, the browser in which your application renders is impacted by the machine it runs on.
 >
-> **[1:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=84)** Therefore, if people are looking at your application on older hardware, such as an old phone, laptop or desktop, they will see a difference in performance to those running newer hardware.
+> **[1:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=84)** Therefore, if people are looking at your application on older [[Hardware]], such as an old phone, laptop or desktop, they will see a difference in performance to those running newer hardware.
 >
 > **[1:36](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=96)** However, by rendering the application in the server, you control the performance of the render.
 >
-> **[1:43](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=103)** Additionally, if you're concerned if your site or applications gets found in the top results of Google, Bing, and other search engine searches, that might be the second benefit of rendering an application on the server.
+> **[1:43](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=103)** Additionally, if you're concerned if your site or applications gets found in the top results of [[Google]], Bing, and other search engine searches, that might be the second benefit of rendering an application on the server.
 >
-> **[1:56](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=116)** JavaScript doesn't play well with search engines.
+> **[1:56](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=116)** [[JavaScript]] doesn't play well with search engines.
 >
 > **[1:58](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980&t=118)** And unfortunately, when Google for instance sends its robots to index your page, all it sees is JavaScript and not HTML.
 >
@@ -196,18 +193,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), [[HTML]] (4), [[React.js|React]] (2), data (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[React.js|React]] (2), [[Hardware]] (2), [[Google]] (2), [[JavaScript]] (2)
 > **Env Vars:** html (4), ssr (3)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chrome and Firefox tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980)
+#### [Chrome and Firefox tools](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=0)** - [Instructor] For any type of web development, our first tool of choice is the Dev Tools that come with your own browser.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=0)** - [Instructor] For any type of [[Web Development]], our first tool of choice is the Dev Tools that come with your own browser.
 >
 > **[0:07](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=7)** Whether you use Chrome, Safari, Firefox, or Edge, you have the tools needed to inspect your code, do performance checks, and more.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=19)** I highly recommend that you use either Chrome or Firefox as they offer a solid performance and work with the extensions we'll use.
 >
-> **[0:28](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=28)** So as a developer, you've probably used Chrome's developer tools, but if not, you can access them by hitting Option + Command + I on Mac or Control + Shift + I on Windows.
+> **[0:28](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=28)** So as a developer, you've probably used Chrome's developer tools, but if not, you can access them by hitting Option + Command + I on Mac or Control + Shift + I on [[Windows]].
 >
 > **[0:42](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=42)** And once you see them, you can put them below here or you can put them on the side, whichever you decide to do.
 >
@@ -223,9 +219,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=51)** You can have the network tools also telling you a little bit about performance, and you have a whole bunch of other tools that you can use.
 >
-> **[1:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=60)** Also, what you could do is use what we call React Dev Tools and this is something we're going to use in this course.
+> **[1:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=60)** Also, what you could do is use what we call [[React.js|React]] Dev Tools and this is something we're going to use in this course.
 >
-> **[1:06](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=66)** So the best way to find that tool is to search it on Google, React Dev Tool, and once you found it, you can actually install it with Chrome right here, or you can scroll down and go to the GitHub page where you have all the options for each browsers.
+> **[1:06](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=66)** So the best way to find that tool is to search it on [[Google]], React Dev Tool, and once you found it, you can actually install it with Chrome right here, or you can scroll down and go to the [[GitHub]] page where you have all the options for each browsers.
 >
 > **[1:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/chrome-and-firefox-tools?u=76281980&t=84)** In this case, I'm going to go for the Chrome version.
 >
@@ -235,23 +231,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Web Development]] (1), [[Windows]] (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Web Development]] (1), [[Windows]] (1), [[Google]] (1), [[GitHub]] (1)
 > **Tools:** firefox (2), safari (1), github (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install the required libraries and tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980)
+#### [Install the required libraries and tools](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=0)** - [Narrator] So that's installed all the required tools and libraries we'll need in this course.
 >
-> **[0:05](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=5)** And the first one we need is Node.js.
+> **[0:05](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=5)** And the first one we need is [[Node.js]].
 >
-> **[0:07](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=7)** So the best way to find Node is by doing a Google search with Node in the search terms, and then go to the first link, which is [nodejs.org](https://nodejs.org).
+> **[0:07](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=7)** So the best way to find Node is by doing a [[Google]] search with Node in the search terms, and then go to the first link, which is [nodejs.org](https://nodejs.org).
 >
 > **[0:17](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=17)** So let's go ahead and click on that link.
 >
@@ -283,13 +278,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=98)** And it's going to basically give us 14.15.4 which is the version or the current version, LTS that I just installed.
 >
-> **[1:46](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=106)** Now, the next thing that we need is React.
+> **[1:46](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=106)** Now, the next thing that we need is [[React.js|React]].
 >
 > **[1:50](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=110)** So the best way to install React, if you want it locally what you need to do is to go to the React site and follow the prompts here.
 >
 > **[1:59](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=119)** So again, it's fairly easy to install React.
 >
-> **[2:03](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=123)** All you have to do is to do an npm install- G for global, so basically in your system, and then cra.
+> **[2:03](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=123)** All you have to do is to do an [[npm]] install- G for global, so basically in your system, and then cra.
 >
 > **[2:13](https://www.linkedin.com/learning/react-server-side-rendering-8539269/install-the-required-libraries-and-tools?u=76281980&t=133)** And that will install, React inside of your system, but there is an alternative.
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), application (6), node (4), [[npm]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[npm]] (3), [[Node.js]] (1), [[Google]] (1)
 > **CLI Commands:** node (5), npm (3), npx (2), find (1)
 > **Prerequisites:** install (7)
 > **Tools:** terminal (4), visual studio (1), vs code (1)
@@ -318,8 +313,7 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
-#### Challenge: Why would you use SSR?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-would-you-use-ssr?u=76281980)
+#### [Challenge: Why would you use SSR?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-would-you-use-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,14 +329,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ssr (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Why would you use SSR?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-would-you-use-ssr?u=76281980)
+#### [Solution: Why would you use SSR?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-would-you-use-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,11 +352,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-would-you-use-ssr?u=76281980&t=34)** And as a direct result of that point, SSR allows you to scale your application without always worrying about its performance.
 >
-> **[0:43](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-would-you-use-ssr?u=76281980&t=43)** If your application needs more power, all you have to do is rent or purchase the hardware to support it.
+> **[0:43](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-would-you-use-ssr?u=76281980&t=43)** If your application needs more power, all you have to do is rent or purchase the [[Hardware]] to support it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), seo (1), power (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** ssr (4), seo (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -374,12 +366,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Next.js with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980)
+#### [Introducing Next.js with React](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=0)** - [Instructor] If you've never heard of Next.js, it's a great library that allows you to quickly set up server side rendered applications with just a few lines of code.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=0)** - [Instructor] If you've never heard of [[Next.js]], it's a great library that allows you to quickly set up server side rendered applications with just a few lines of code.
 >
 > **[0:09](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=9)** And we'll demonstrate this in a few seconds.
 >
@@ -435,7 +426,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=206)** And now we're inside because there's nothing in there.
 >
-> **[3:29](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=209)** And what we're going to do is first initialize with an NPM package .JSON file.
+> **[3:29](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=209)** And what we're going to do is first initialize with an [[npm]] package .[[JSON]] file.
 >
 > **[3:35](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=215)** So let's go ahead and do npm init and then Enter.
 >
@@ -449,7 +440,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=236)** If you have a get repository for your project, you can add it in here, keywords and then author, I'm going to put my name and then Enter and this is what you're going to create and now we're good.
 >
-> **[4:12](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=252)** So the next thing we want to do is install react, react on and next.js.
+> **[4:12](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=252)** So the next thing we want to do is install [[React.js|react]], react on and next.js.
 >
 > **[4:19](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980&t=259)** So we're going to do exactly that.
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (10), application (10), next (9), [[npm]] (9), [[React.js|React]] (8)
+> **Frameworks & Libraries:** [[Next.js]] (10), [[npm]] (9), [[React.js|React]] (8), [[JSON]] (5)
 > **CLI Commands:** npm (9), make (5), mkdir (1), node (1)
 > **Env Vars:** json (5), ssr (3), css (2), npm (2), redox (1)
 > **File Paths:** next.js (10), index.js (3)
@@ -540,8 +531,7 @@ created: 2026-05-02
 > **Prerequisites:** install (4), set up (1)
 > **Cross-References:** go back to (2)
 
-#### Add initial components from template
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980)
+#### [Add initial components from template](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,9 +541,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=10)** So if you look into the Exercise Files, you'll see a resources folder.
 >
-> **[0:15](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=15)** We'll use some of those files to build our application, leveraging server-side rendering and show how different it is from building a straight React application.
+> **[0:15](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=15)** We'll use some of those files to build our application, leveraging server-side rendering and show how different it is from building a straight [[React.js|React]] application.
 >
-> **[0:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=24)** In the process, we'll leverage built-in support for CSS with Next.js.
+> **[0:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=24)** In the process, we'll leverage built-in support for CSS with [[Next.js]].
 >
 > **[0:29](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=29)** So let's build this.
 >
@@ -611,7 +601,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=198)** And then what we're going to do is transform this into a full function, so I'm just going to remove that here to make it easier for us and then remove that as well.
 >
-> **[3:33](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=213)** And then typical component, we're returning it, and then we're going to start adding some HTML in here.
+> **[3:33](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=213)** And then typical component, we're returning it, and then we're going to start adding some [[HTML]] in here.
 >
 > **[3:42](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=222)** So let's go ahead and start by doing our first div, and we're going to add a className to this.
 >
@@ -665,7 +655,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=414)** So I'm going to bring up my terminal by doing Control + grave, or you can simply go ahead and open up your Terminal here, but I'm going to do the Control + grave shortcut.
 >
-> **[7:04](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=424)** I'm going to stop the server and then do build again, so npm run build.
+> **[7:04](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=424)** I'm going to stop the server and then do build again, so [[npm]] run build.
 >
 > **[7:12](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-initial-components-from-template?u=76281980&t=432)** And if you have any errors, if you have anything that doesn't jive in here, you're going to see some error messages, take a look at them, and then basically read or actually click on the link, and it's going to bring you to a page where it's going to give you more information about what that error or bug is, and then you can actually resolve it, all right?
 >
@@ -679,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (14), [[Next.js]] (5), application (4), [[React.js|React]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Next.js]] (5), [[React.js|React]] (3), [[HTML]] (2), [[npm]] (1)
 > **Env Vars:** css (10), html (2)
 > **File Paths:** next.js (5), index.module.css (2), card.js (1), module.css (1), card.module.css (1)
 > **Code Identifiers:** classname (4)
@@ -688,14 +678,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2), template (1)
 > **UI Navigation:** right-click (1), click on (1)
 
-#### Add data for props
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980)
+#### [Add data for props](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=0)** - [Instructor] So far we've used stateless components, or functions, but like most applications, we need to populate our application with data, and as with any regular React application, we get the state populated with data, and then pass these as props to our components.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=0)** - [Instructor] So far we've used stateless components, or functions, but like most applications, we need to populate our application with data, and as with any regular [[React.js|React]] application, we get the state populated with data, and then pass these as props to our components.
 >
-> **[0:17](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=17)** Next.js is a bit different in its approach, but conceptually the same as React, let me demonstrate.
+> **[0:17](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=17)** [[Next.js]] is a bit different in its approach, but conceptually the same as React, let me demonstrate.
 >
 > **[0:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=24)** So the first thing we're going to do is create a folder inside of our pages here, and we're going to call it API, and then what we're going to do is grab a file from the resources inside of the exercise files and drop it inside of the API.
 >
@@ -707,7 +696,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=74)** So the first thing we're going to do is import that data, so let's go ahead and do that.
 >
-> **[1:20](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=80)** So we're going to import data from API/data.json, like so, and then we need to import React because we're going to transform our stateless component into a class component.
+> **[1:20](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=80)** So we're going to import data from API/data.[[JSON]], like so, and then we need to import React because we're going to transform our stateless component into a class component.
 >
 > **[1:37](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=97)** So we need to import React from react, like so, and then let's go ahead and convert this right away, and we're going to do export default class Index extends React.Component, and then we're going to make sure that we have a render method use in here, and insert the component inside of that render, like so,
 >
@@ -729,15 +718,15 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=253)** So this is typical React code that we're basically doing here, so if you've never seen this before, this is plain React.
 >
-> **[4:22](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=262)** Okay, so now that we have this, we should be safe to actually save this first and then rebuild our server, so let's bring up our terminal, and then stop the server, npm run build, and then do npm start, and then go back to our browser, refresh, and now we have the same page, but now we have 11 components based on basically the data that we passed to it.
+> **[4:22](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=262)** Okay, so now that we have this, we should be safe to actually save this first and then rebuild our server, so let's bring up our terminal, and then stop the server, [[npm]] run build, and then do npm start, and then go back to our browser, refresh, and now we have the same page, but now we have 11 components based on basically the data that we passed to it.
 >
-> **[4:59](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=299)** So you could also fetch data from an external API and there are multiple examples of this in the docs or on the Github repo here, so if you go to this address here and then go to the examples or go to the Github repo for Next.js, if you do a Google search, you'll find it fairly quickly, and then go into the examples and scroll down, everywhere you see API, API routes cors, and so on so forth, these are all great examples of how to fetch external APIs from Next.js or the application that we're working on.
+> **[4:59](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=299)** So you could also [[Fetch]] data from an external API and there are multiple examples of this in the docs or on the [[GitHub]] repo here, so if you go to this address here and then go to the examples or go to the Github repo for Next.js, if you do a [[Google]] search, you'll find it fairly quickly, and then go into the examples and scroll down, everywhere you see API, API routes cors, and so on so forth, these are all great examples of how to fetch external APIs from Next.js or the application that we're working on.
 >
 > **[5:37](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-data-for-props?u=76281980&t=337)** So as you can see, it's not really hard to add data to our state, and then get our data going into our application, and remember, this is all happening in SSR.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), api (9), [[React.js|React]] (8), application (5), [[Next.js]] (3)
+> **Frameworks & Libraries:** [[React.js|React]] (8), [[Next.js]] (3), [[JSON]] (2), [[npm]] (2), [[Fetch]] (2)
 > **Env Vars:** api (9), ssr (1)
 > **File Paths:** next.js (3), index.js (1), api/data.json (1), data.json (1)
 > **CLI Commands:** make (2), npm (2), find (1)
@@ -746,14 +735,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2), github repo (2)
 > **Definitions:** is a  (2)
 
-#### Add Redux store and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980)
+#### [Add Redux store and setup](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=0)** - [Instructor] When doing state management, Redux is often the first place to go when working with React.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=0)** - [Instructor] When doing state management, Redux is often the first place to go when working with [[React.js|React]].
 >
-> **[0:06](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=6)** How would you go about doing Redux with SSR and Next.js.
+> **[0:06](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=6)** How would you go about doing Redux with SSR and [[Next.js]].
 >
 > **[0:10](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=10)** We'll explore this in the next few videos.
 >
@@ -801,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=132)** But now the link is not going to be good because we were in the pages directories so who want to correct that here.
 >
-> **[2:18](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=138)** So what I'm going to do is simply do this and then go into pages/API/ and then get from data.json.
+> **[2:18](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=138)** So what I'm going to do is simply do this and then go into pages/API/ and then get from data.[[JSON]].
 >
 > **[2:30](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-store-and-setup?u=76281980&t=150)** And then I'm going to import a few things from the dependencies that I just installed.
 >
@@ -873,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), application (3), management (2), [[React.js|React]] (2), [[Next.js]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Next.js]] (2), [[JSON]] (1)
 > **Code Identifiers:** initstore (4), createstore (2), startstate (1), getinitialprops (1)
 > **CLI Commands:** make (6)
 > **File Paths:** next.js (2), store.js (1), data.json (1)
@@ -882,8 +870,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** ssr (1), api (1)
 
-#### Add Redux actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-actions?u=76281980)
+#### [Add Redux actions](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,7 +954,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4)
 > **UI Navigation:** click on (2)
 > **Definitions:** is called (1), we call this (1)
 > **Analogies:** for example (2)
@@ -975,8 +961,7 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add Redux reducers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980)
+#### [Add Redux reducers](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1075,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=256)** So, in this case it would be an object with basically.
 >
-> **[4:20](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=260)** If we look into the API, data JSON.
+> **[4:20](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=260)** If we look into the API, data [[JSON]].
 >
 > **[4:23](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=263)** It would be an object that would look something like this.
 >
@@ -1126,7 +1111,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=330)** The first approach is the one that we've used in the past.
 >
-> **[5:33](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=333)** So what you could do is do NPM run build and then do NPM run start.
+> **[5:33](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=333)** So what you could do is do [[npm]] run build and then do NPM run start.
 >
 > **[5:40](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=340)** But there's a faster way.
 >
@@ -1162,7 +1147,7 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=395)** So we have our cards, everything is good here and we're good to go.
 >
-> **[6:40](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=400)** So as you can see, it's fairly simple to implement Redox with Next JS and React.
+> **[6:40](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=400)** So as you can see, it's fairly simple to implement Redox with Next JS and [[React.js|React]].
 >
 > **[6:46](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-redux-reducers?u=76281980&t=406)** So this is a fairly simple implementation.
 >
@@ -1172,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), data (4), [[npm]] (3), next (2), api (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), npm (3)
 > **Env Vars:** npm (3), api (1), json (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1181,8 +1166,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (2)
 
-#### Challenge: Why use Redux for SSR?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-redux-for-ssr?u=76281980)
+#### [Challenge: Why use Redux for SSR?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-redux-for-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,8 +1184,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Why use Redux for SSR?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980)
+#### [Solution: Why use Redux for SSR?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,13 +1196,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=25)** Redux is one of them.
 >
-> **[0:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=27)** Also and especially if you use React I would lean towards leveraging Redux as it has been battle tested through many popular sites, such as Facebook.
+> **[0:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=27)** Also and especially if you use [[React.js|React]] I would lean towards leveraging Redux as it has been battle tested through many popular sites, such as Facebook.
 >
 > **[0:37](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-redux-for-ssr?u=76281980&t=37)** So the combination of React, SSR with next JS and Redux is great for managing your performance and your state of large applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), application (1), management (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Env Vars:** ssr (3)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
@@ -1230,8 +1213,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create initial Express or Next.js server
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980)
+#### [Create initial Express or Next.js server](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,9 +1245,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980&t=66)** And we're going to install Express.
 >
-> **[1:08](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980&t=68)** So NPM I or install Express.
+> **[1:08](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980&t=68)** So [[npm]] I or install Express.
 >
-> **[1:14](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980&t=74)** Then in the MPM start script inside of our package .JSON file.
+> **[1:14](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980&t=74)** Then in the MPM start script inside of our package .[[JSON]] file.
 >
 > **[1:19](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980&t=79)** Instead of doing Next start.
 >
@@ -1383,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (14), next (11), [[npm]] (4), node (2), web (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[JSON]] (1)
 > **CLI Commands:** npm (4), make (3), node (2)
 > **Env Vars:** npm (4), ssr (2), mpm (1), json (1), http (1)
 > **Tools:** terminal (3)
@@ -1392,8 +1374,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Speakers:** - in (1)
 
-#### Add the Express routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-the-express-routes?u=76281980)
+#### [Add the Express routes](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-the-express-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,13 +1438,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-the-express-routes?u=76281980&t=164)** So if I call in page two, this page could not be found.
 >
-> **[2:50](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-the-express-routes?u=76281980&t=170)** So right now we have the express server running with Next.js, And we have our routes.
+> **[2:50](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-the-express-routes?u=76281980&t=170)** So right now we have the express server running with [[Next.js]], And we have our routes.
 >
 > **[2:55](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-the-express-routes?u=76281980&t=175)** So let's move on so we can finish this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), express (3), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** next.js (1)
 > **Env Vars:** mpm (1)
@@ -1472,8 +1453,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add links and pages with Express or Next.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980)
+#### [Add links and pages with Express or Next.js](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1489,7 +1469,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=23)** So the first one I'm going to do is the Ohyeah.
 >
-> **[0:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=27)** So let's go inside of the folder Ohyeah, and then create a new file, which I'm going to call, ohyeah.js, and then I'm going to simply create a function that will return one HTML tag to create one page, that's it.
+> **[0:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=27)** So let's go inside of the folder Ohyeah, and then create a new file, which I'm going to call, ohyeah.js, and then I'm going to simply create a function that will return one [[HTML]] tag to create one page, that's it.
 >
 > **[0:46](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=46)** So let's go ahead and do ohyeah, which is the function that will return, an h1, I'm page 3 trapped inside of OH YEAH,
 >
@@ -1545,13 +1525,13 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=261)** We created basically the routes for it and now we just created a link.
 >
-> **[4:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=267)** So as you can see, using Express with next,js, allows us to fully customize the routes and get all the benefits of Express with next.js, a win win win and win.
+> **[4:27](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=267)** So as you can see, using Express with next,js, allows us to fully customize the routes and get all the benefits of Express with [[Next.js]], a win win win and win.
 >
 > **[4:39](https://www.linkedin.com/learning/react-server-side-rendering-8539269/add-links-and-pages-with-express-or-next-js?u=76281980&t=279)** Let's move on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), express (2), [[HTML]] (1), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Next.js]] (1)
 > **UI Navigation:** go to (7), click on (1)
 > **File Paths:** server.js (2), ohyeah.js (1), page2.js (1), next.js (1)
 > **Env Vars:** html (1), yeah (1)
@@ -1560,8 +1540,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Why use Node or Express for SSR?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-node-or-express-for-ssr?u=76281980)
+#### [Challenge: Why use Node or Express for SSR?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-node-or-express-for-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-node-or-express-for-ssr?u=76281980&t=5)** - [Instructor] So before we continue, let's challenge you with a quick question.
 >
-> **[0:10](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-node-or-express-for-ssr?u=76281980&t=10)** In this chapter, we've worked with Express and Next.js.
+> **[0:10](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-node-or-express-for-ssr?u=76281980&t=10)** In this chapter, we've worked with Express and [[Next.js]].
 >
 > **[0:14](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-why-use-node-or-express-for-ssr?u=76281980&t=14)** So looking at what we've done in this chapter, why would you use Express with Next.js?
 >
@@ -1577,27 +1556,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[Next.js]] (2)
+> **Frameworks & Libraries:** [[Next.js]] (2)
 > **File Paths:** next.js (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Why use Node or Express for SSR?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980)
+#### [Solution: Why use Node or Express for SSR?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980&t=0)** - [Narrator] Think about this scenario, you've been using Express for all your server needs and its benefits such as routes, HTTP helpers, such as caching, et cetera.
 >
-> **[0:16](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980&t=16)** And you want to use React and would like to have SSR capabilities on top, well, this is a prime reason why, you would use these together.
+> **[0:16](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980&t=16)** And you want to use [[React.js|React]] and would like to have SSR capabilities on top, well, this is a prime reason why, you would use these together.
 >
-> **[0:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980&t=24)** So, in short, if you're well versed in React and want to add these extra functions from Express and SSR features, as we demonstrated in this chapter with Next.js, it is possible and definitely a great addition to your tool set.
+> **[0:24](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980&t=24)** So, in short, if you're well versed in React and want to add these extra functions from Express and SSR features, as we demonstrated in this chapter with [[Next.js]], it is possible and definitely a great addition to your tool set.
 >
 > **[0:38](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-why-use-node-or-express-for-ssr?u=76281980&t=38)** And you can also add Redux, if you'd like to, a winning combination.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[React.js|React]] (2), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Next.js]] (1)
 > **Env Vars:** ssr (2), http (1)
 > **Analogies:** such as (2)
 > **File Paths:** next.js (1)
@@ -1610,12 +1588,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code splitting in Next.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980)
+#### [Code splitting in Next.js](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=0)** - [Instructor] So you may be wondering, what is this code splitting thing that you heard about, and what are the benefits, and how does a library like Next.js support that?
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=0)** - [Instructor] So you may be wondering, what is this code splitting thing that you heard about, and what are the benefits, and how does a library like [[Next.js]] support that?
 >
 > **[0:09](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=9)** So code splitting, in a nutshell, is the ability to split your code in smaller bundles so the application can load faster when rendered.
 >
@@ -1631,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=46)** So for example, if you have a page component that imports a CSS file, a dependency, then it will bundle all these three together into its own bundle.
 >
-> **[0:56](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=56)** There are also advanced features, like Dynamic imports and Dynamic React components, which basically allows you to delay or load specific features on demand and maintain full control of your application load times.
+> **[0:56](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=56)** There are also advanced features, like Dynamic imports and Dynamic [[React.js|React]] components, which basically allows you to delay or load specific features on demand and maintain full control of your application load times.
 >
 > **[1:09](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980&t=69)** But this is a bit beyond the scope of this course.
 >
@@ -1643,23 +1620,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (5), application (3), css (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (5), [[React.js|React]] (1)
 > **File Paths:** next.js (5)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other tools available for code splitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980)
+#### [Other tools available for code splitting](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980&t=0)** - [Instructor] Code splitting is built in as part of Next.js, and if you're curious about the advanced features related to code splitting, such as Dynamic imports, feel free to explore this page.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980&t=0)** - [Instructor] Code splitting is built in as part of [[Next.js]], and if you're curious about the advanced features related to code splitting, such as Dynamic imports, feel free to explore this page.
 >
 > **[0:11](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980&t=11)** For example, Dynamic imports is a great way to lazy load your application, which basically means it loads the components as the user scrolls through the page.
 >
-> **[0:21](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980&t=21)** You have other tools that can improve performance, like AMP Support and Static HTML Support.
+> **[0:21](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980&t=21)** You have other tools that can improve performance, like AMP Support and Static [[HTML]] Support.
 >
 > **[0:28](https://www.linkedin.com/learning/react-server-side-rendering-8539269/other-tools-available-for-code-splitting?u=76281980&t=28)** I would strongly suggest you browse through these subjects to see what fits your needs.
 >
@@ -1677,15 +1653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (5), application (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (5), [[HTML]] (1)
 > **File Paths:** next.js (5)
 > **Env Vars:** ssr (2), amp (1), html (1)
 > **Definitions:** is a  (1), basically means (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: What is the purpose of code splitting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-what-is-the-purpose-of-code-splitting?u=76281980)
+#### [Challenge: What is the purpose of code splitting?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/challenge-what-is-the-purpose-of-code-splitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,12 +1677,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: What is the purpose of code splitting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-what-is-the-purpose-of-code-splitting?u=76281980)
+#### [Solution: What is the purpose of code splitting?](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-what-is-the-purpose-of-code-splitting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-what-is-the-purpose-of-code-splitting?u=76281980&t=0)** - You typically start using tools like Next.js and code splitting when your application scales to a point where you're trying to find ways to improve loading and performance.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-what-is-the-purpose-of-code-splitting?u=76281980&t=0)** - You typically start using tools like [[Next.js]] and code splitting when your application scales to a point where you're trying to find ways to improve loading and performance.
 >
 > **[0:15](https://www.linkedin.com/learning/react-server-side-rendering-8539269/solution-what-is-the-purpose-of-code-splitting?u=76281980&t=15)** And that is exactly the purpose of code splitting.
 >
@@ -1717,7 +1691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Next.js]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (1)
 > **File Paths:** next.js (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
@@ -1728,14 +1702,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### React Router with SSR
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980)
+#### [React Router with SSR](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=0)** - [Instructor] Let's talk about how to integrate React Router into your SSR project.
+> **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=0)** - [Instructor] Let's talk about how to integrate [[React.js|React]] Router into your SSR project.
 >
-> **[0:05](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=5)** React Router is the standard for routing in React apps.
+> **[0:05](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=5)** React Router is the standard for [[Routing]] in React apps.
 >
 > **[0:09](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=9)** It enables us to define different pages within our SPA without the need for full page refreshes.
 >
@@ -1743,7 +1716,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=22)** So how do you transition into React Router?
 >
-> **[0:25](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=25)** The first thing you need to do in your SPA project or the SSR project that we've been working on is npm install react-router, done, like so, and you install this into your packages.
+> **[0:25](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=25)** The first thing you need to do in your SPA project or the SSR project that we've been working on is [[npm]] install react-router, done, like so, and you install this into your packages.
 >
 > **[0:41](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=41)** And then what you need to do is define the Routes.
 >
@@ -1775,11 +1748,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=152)** And that's how you upgrade to an SSR project with React Router, simple changes, big improvements.
 >
-> **[2:39](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=159)** Your app now has a solid foundation for growth and scalability with a routing system that's ready for complexity.
+> **[2:39](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980&t=159)** Your app now has a solid foundation for growth and [[Scalability]] with a routing system that's ready for complexity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), dom (3), [[Routing]] (2), web (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[Routing]] (2), [[npm]] (1), [[Scalability]] (1)
 > **Env Vars:** ssr (5), spa (2)
 > **Prerequisites:** install (2)
 > **File Paths:** routes.js (1)
@@ -1787,14 +1760,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-server-side-rendering-8539269/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-server-side-rendering-8539269/next-steps?u=76281980&t=0)** - [Instructor] In this course, we briefly touched the possibilities of SSR, but gave you enough to understand its core and explore further on larger projects.
 >
-> **[0:10](https://www.linkedin.com/learning/react-server-side-rendering-8539269/next-steps?u=76281980&t=10)** You can explore a number of Next.js scenarios with example code on their GitHub repo.
+> **[0:10](https://www.linkedin.com/learning/react-server-side-rendering-8539269/next-steps?u=76281980&t=10)** You can explore a number of [[Next.js]] scenarios with example code on their [[GitHub]] repo.
 >
 > **[0:15](https://www.linkedin.com/learning/react-server-side-rendering-8539269/next-steps?u=76281980&t=15)** So I would strongly suggest you take a look at the list.
 >

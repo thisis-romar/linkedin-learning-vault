@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-devops
 course_count: 5
 linkedin_topics:
   - DevOps
-louvain_cluster: 7
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
@@ -17,35 +17,27 @@ courses_visited: 2
 videos_visited: 0
 progress_status: in-progress
 course_activity:
-  - course: "[[Devops Foundations]]"
-    last_opened:
+  - course: '[[Devops Foundations]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[DevOps Foundations- Continuous Delivery-Continuous Integration]]"
-    last_opened:
+  - course: '[[DevOps Foundations- Continuous Delivery-Continuous Integration]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[DevOps Foundations- Infrastructure as Code]]"
-    last_opened:
+  - course: '[[DevOps Foundations- Infrastructure as Code]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[DevOps Foundations- Monitoring and Observability]]"
-    last_opened:
+  - course: '[[DevOps Foundations- Monitoring and Observability]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: "[[DevOps Foundations- Your First Project]]"
-    last_opened:
+  - course: '[[DevOps Foundations- Your First Project]]'
+    last_opened: null
     open_count: 0
     videos: []
-  - course: devops-foundations-23454205
-    last_opened: 2026-05-02T20:34:13.259Z
-    open_count: 3
-    videos: []
-  - course: devops-foundations-infrastructure-as-code-18965758
-    last_opened: 2026-05-02T20:35:52.277Z
-    open_count: 2
-    videos: []
-created: 2026-05-02
+created: '2026-05-02'
 ---
 
 > <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Paths/DevOps/Learning%20Paths/Getting%20Started%20with%20DevOps.md)

@@ -36,43 +36,43 @@ created: 2026-05-02
 5. [[ETL in Python and SQL]] — 5 mentions
 6. [[Python For Data Science And Machine Learning Essential Training Part]] — 4 mentions
 7. [[Building Serverless Apps with AI Services on AWS]] — 4 mentions
-8. [[Databricks Certified Data Engineer Associate Cert Prep]] — 4 mentions
-9. [[Microsoft Azure Synapse for Developers]] — 3 mentions
-10. [[End-to-End Data Engineering Project]] — 3 mentions
+8. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 4 mentions
+9. [[Databricks Certified Data Engineer Associate Cert Prep]] — 4 mentions
+10. [[Microsoft Azure Synapse for Developers]] — 3 mentions
 
 > [!note]- See all 53 courses
-> 11. [[Data Management Essential Training]] — 3 mentions
-> 12. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 3 mentions
-> 13. [[Data Integration And Api Development For Ai Applications]] — 3 mentions
-> 14. [[Knowledge Graph Data Engineering for Generative AI Use Cases]] — 3 mentions
-> 15. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 3 mentions
+> 11. [[End-to-End Data Engineering Project]] — 3 mentions
+> 12. [[Data Management Essential Training]] — 3 mentions
+> 13. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 3 mentions
+> 14. [[Data Integration And Api Development For Ai Applications]] — 3 mentions
+> 15. [[Knowledge Graph Data Engineering for Generative AI Use Cases]] — 3 mentions
 > 16. [[Performing a Sustainability Audit with Microsoft Sustainability Manager]] — 2 mentions
 > 17. [[Learning Apache Airflow]] — 2 mentions
 > 18. [[Data Quality- Core Concepts]] — 2 mentions
-> 19. [[Introduction to Modern Data Engineering with Snowflake]] — 2 mentions
-> 20. [[Power BI- Working Together with ChatGPT]] — 2 mentions
-> 21. [[Functional Programming with PHP]] — 2 mentions
-> 22. [[Advanced SQL Project- Design and Manage a Database]] — 2 mentions
-> 23. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] — 1 mentions
-> 24. [[Learning Data Analytics- 1 Foundations]] — 1 mentions
-> 25. [[Ethical Hacking- Sniffers]] — 1 mentions
-> 26. [[Excel and ChatGPT- Data Analysis Power Tips]] — 1 mentions
-> 27. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
-> 28. [[Data Engineering Foundations]] — 1 mentions
-> 29. [[Hands-On Introduction- Data Engineering]] — 1 mentions
-> 30. [[Hands-On Introduction- Scala]] — 1 mentions
-> 31. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 1 mentions
-> 32. [[Data Engineering Pipeline Management with Apache Airflow]] — 1 mentions
-> 33. [[Data Pipeline Automation with GitHub Actions Using R and Python]] — 1 mentions
-> 34. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
-> 35. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
-> 36. [[Wireshark Essential Training]] — 1 mentions
-> 37. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
-> 38. [[Python for Data Analysis- Solve Real-World Challenges]] — 1 mentions
-> 39. [[Data Science Foundations- Data Assessment for Predictive Modeling]] — 1 mentions
-> 40. [[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]] — 1 mentions
-> 41. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
-> 42. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 19. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 2 mentions
+> 20. [[Introduction to Modern Data Engineering with Snowflake]] — 2 mentions
+> 21. [[Power BI- Working Together with ChatGPT]] — 2 mentions
+> 22. [[Functional Programming with PHP]] — 2 mentions
+> 23. [[Advanced SQL Project- Design and Manage a Database]] — 2 mentions
+> 24. [[Ai Agents For Everyday Professionals Simple Automations To Speed Up Your Work No Code Required]] — 1 mentions
+> 25. [[Learning Data Analytics- 1 Foundations]] — 1 mentions
+> 26. [[Ethical Hacking- Sniffers]] — 1 mentions
+> 27. [[Excel and ChatGPT- Data Analysis Power Tips]] — 1 mentions
+> 28. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
+> 29. [[Data Engineering Foundations]] — 1 mentions
+> 30. [[Hands-On Introduction- Data Engineering]] — 1 mentions
+> 31. [[Hands-On Introduction- Scala]] — 1 mentions
+> 32. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 1 mentions
+> 33. [[Data Engineering Pipeline Management with Apache Airflow]] — 1 mentions
+> 34. [[Data Pipeline Automation with GitHub Actions Using R and Python]] — 1 mentions
+> 35. [[Understanding Artificial Intelligence Concepts And Terminology With Iso Iec 22989]] — 1 mentions
+> 36. [[Build Ai Agents And Automate Workflows With N8n]] — 1 mentions
+> 37. [[Wireshark Essential Training]] — 1 mentions
+> 38. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
+> 39. [[Python for Data Analysis- Solve Real-World Challenges]] — 1 mentions
+> 40. [[Data Science Foundations- Data Assessment for Predictive Modeling]] — 1 mentions
+> 41. [[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]] — 1 mentions
+> 42. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
 > 43. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 1 mentions
 > 44. [[Automating SQL Server with dbatools]] — 1 mentions
 > 45. [[AI Workshop- Build a Neural Network with PyTorch Lightning]] — 1 mentions
@@ -95,8 +95,8 @@ created: 2026-05-02
 6. [[Master Data Engineering]] — 7 total mentions
 7. [[Introduction to Fundamental Skills for Data Work- Data Storage]] — 6 total mentions
 8. [[Develop Your Scala Skills for Data Engineering]] — 6 total mentions
-9. [[Develop Your Rust Skills for Data Engineering]] — 5 total mentions
-10. [[Data Engineering Professional Certificate by Snowflake]] — 5 total mentions
+9. [[Prepare for the Google Cloud Digital Leader Certification]] — 5 total mentions
+10. [[Develop Your Rust Skills for Data Engineering]] — 5 total mentions
 
 ---
 

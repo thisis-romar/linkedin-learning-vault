@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate data with ease in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980)
+#### [Calculate data with ease in Excel](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980&t=0)** - Hello, my Excel using friends.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980&t=0)** - Hello, my [[Microsoft Excel|Excel]] using friends.
 >
 > **[0:02](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980&t=2)** How many times have you tried to learn Excel formulas only to drown in a sea of parentheses and overly complicated examples?
 >
@@ -116,12 +115,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a formula in a cell with =
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980)
+#### [Build a formula in a cell with =](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980&t=0)** - [Narrator] A function is a built-in Excel calculation that you initiate by calling with a formula.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980&t=0)** - [Narrator] A function is a built-in [[Microsoft Excel|Excel]] calculation that you initiate by calling with a formula.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980&t=7)** Type an equal sign into the cell.
 >
@@ -147,13 +145,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a named range
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980)
+#### [Create a named range](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=9)** You can name a single cell by selecting it and giving it a name in the name bar.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=20)** Now you don't need to remember the rate, just the reference word.
+> **[0:20](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=20)** Now you don't need to remember the rate, just the reference [[Microsoft Word|word]].
 >
 > **[0:29](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-a-named-range?u=76281980&t=29)** You can also name a range of cells.
 >
@@ -184,8 +181,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Reference cells and worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/reference-cells-and-worksheets?u=76281980)
+#### [Reference cells and worksheets](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/reference-cells-and-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,8 +224,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Join text with an ampersand
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980)
+#### [Join text with an ampersand](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,11 +242,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=38)** Hit the enter key and the formula is complete.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=42)** Excel even autofill the contents of this for me.
+> **[0:42](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=42)** [[Microsoft Excel|Excel]] even autofill the contents of this for me.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=46)** If it didn't do that for you, you can select the cells, and from the home ribbon tab, select fill and then down.
 >
-> **[0:55](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=55)** A common question is when to use the ampersand, and when to use the full word AND, use an ampersand when you're joining text strings together.
+> **[0:55](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=55)** A common question is when to use the ampersand, and when to use the full [[Microsoft Word|word]] AND, use an ampersand when you're joining text strings together.
 >
 > **[1:06](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-text-with-an-ampersand?u=76281980&t=66)** Use AND as an operator to perform logic tests.
 >
@@ -259,16 +254,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Follow along with Excel when creating functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980)
+#### [Follow along with Excel when creating functions](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980&t=0)** - [Instructor] Excel makes it easy to get assistance while working with functions.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] makes it easy to get assistance while working with functions.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/follow-along-with-excel-when-creating-functions?u=76281980&t=8)** When you type the function, the help file will pop up a window telling you what it does.
 >
@@ -290,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** required to (1)
@@ -301,8 +295,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate a total with SUM
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980)
+#### [Calculate a total with SUM](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,19 +305,18 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980&t=17)** I'll close the parentheses, hit Enter, and get my sum.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980&t=23)** It's important to note that you can always select a range of cells, and down at the bottom of the screen on the right hand side, Excel will return the sum for you.
+> **[0:23](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980&t=23)** It's important to note that you can always select a range of cells, and down at the bottom of the screen on the right hand side, [[Microsoft Excel|Excel]] will return the sum for you.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980&t=34)** You can also select a range of cells and click AutoSum from the Home ribbon tab.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sum (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sum values that meet specific criteria with SUMIF
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/sum-values-that-meet-specific-criteria-with-sumif?u=76281980)
+#### [Sum values that meet specific criteria with SUMIF](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/sum-values-that-meet-specific-criteria-with-sumif?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,14 +344,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1)
 > **Env Vars:** sumif (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find the mean value with AVERAGE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/find-the-mean-value-with-average?u=76281980)
+#### [Find the mean value with AVERAGE](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/find-the-mean-value-with-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,14 +371,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** avrage (1), averagea (1)
 > **UI Navigation:** open the (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test for valid data with IF
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/test-for-valid-data-with-if?u=76281980)
+#### [Test for valid data with IF](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/test-for-valid-data-with-if?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,17 +418,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Create complex tests with AND and OR
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980)
+#### [Create complex tests with AND and OR](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980&t=0)** - [Instructor] You can combine the functions AND and OR with IF to open limitless possibilities in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980&t=0)** - [Instructor] You can combine the functions AND and OR with IF to open limitless possibilities in [[Microsoft Excel|Excel]].
 >
 > **[0:07](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/create-complex-tests-with-and-and-or?u=76281980&t=7)** Let's find out which students passed both of these exams.
 >
@@ -477,8 +463,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Find record values with MAX, MIN, SMALL, and LARGE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/find-record-values-with-max-min-small-and-large?u=76281980)
+#### [Find record values with MAX, MIN, SMALL, and LARGE](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/find-record-values-with-max-min-small-and-large?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,8 +488,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Perform date calculations with TODAY()
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980)
+#### [Perform date calculations with TODAY()](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,7 +496,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=4)** I'll put in an equal sign, write today and use my open and close parentheses.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=11)** The date is based on the date of the computer that Excel is running on.
+> **[0:11](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=11)** The date is based on the date of the computer that [[Microsoft Excel|Excel]] is running on.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/perform-date-calculations-with-today?u=76281980&t=16)** This date will change and update every time this Excel file is opened.
 >
@@ -534,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** today (1)
 > **Speakers:** - [instructor] (1)
@@ -544,8 +528,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Count cells that contain numbers with COUNT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980)
+#### [Count cells that contain numbers with COUNT](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980&t=9)** Let's look at this column.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980&t=11)** Let's find out how many of these products sold at least something in 2021.
+> **[0:11](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980&t=11)** Let's find out how many of these [[Microsoft Products|products]] sold at least something in 2021.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980&t=18)** (mouse clicks) I'll select my range, and close the parentheses.
 >
@@ -573,14 +556,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** count (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Count nonblank cells with COUNTA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-nonblank-cells-with-counta?u=76281980)
+#### [Count nonblank cells with COUNTA](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-nonblank-cells-with-counta?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,8 +591,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return a number of occurrences with COUNTIF
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/return-a-number-of-occurrences-with-countif?u=76281980)
+#### [Return a number of occurrences with COUNTIF](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/return-a-number-of-occurrences-with-countif?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,13 +631,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **Env Vars:** countifs (3), countif (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Checking in on your course progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/checking-in-on-your-course-progress?u=76281980)
+#### [Checking in on your course progress](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/checking-in-on-your-course-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,8 +670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Format numbers and dates with TEXT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980)
+#### [Format numbers and dates with TEXT](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=20)** You can view all the formatting options here.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=25)** A common problem when importing addresses in the United States is that Excel will often remove the first leading zero.
+> **[0:25](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=25)** A common problem when importing addresses in the United States is that [[Microsoft Excel|Excel]] will often remove the first leading zero.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980&t=32)** We'll use text to put it back.
 >
@@ -736,8 +714,7 @@ created: 2026-05-02
 > **Env Vars:** text (2)
 > **Speakers:** - [instructor] (1)
 
-#### Extract characters with LEFT AND RIGHT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/extract-characters-with-left-and-right?u=76281980)
+#### [Extract characters with LEFT AND RIGHT](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/extract-characters-with-left-and-right?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,8 +752,7 @@ created: 2026-05-02
 > **Non-Speech:** (keys clicking) (2)
 > **Speakers:** - [narrator] (1)
 
-#### Extract substrings with MID
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/extract-substrings-with-mid?u=76281980)
+#### [Extract substrings with MID](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/extract-substrings-with-mid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,8 +780,7 @@ created: 2026-05-02
 >
 > **Speakers:** - is (1)
 
-#### Count characters with LEN
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-characters-with-len?u=76281980)
+#### [Count characters with LEN](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-characters-with-len?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,8 +810,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify where a character occurs with FIND
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/identify-where-a-character-occurs-with-find?u=76281980)
+#### [Identify where a character occurs with FIND](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/identify-where-a-character-occurs-with-find?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,7 +844,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3)
 > **CLI Commands:** find (5)
 > **Env Vars:** find (4), len (1)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -878,14 +851,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join strings with delimiters with TEXTJOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980)
+#### [Join strings with delimiters with TEXTJOIN](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=0)** - [Instructor] TEXTJOIN combines a range of data with a delimiter that you specify.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=5)** It's only available with Excel 2019 or higher, or with a Microsoft 365 subscription.
+> **[0:05](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=5)** It's only available with [[Microsoft Excel|Excel]] 2019 or higher, or with a [[Microsoft 365]] subscription.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/join-strings-with-delimiters-with-textjoin?u=76281980&t=12)** It's similar to using the ampersand or CONCAT function to combine text.
 >
@@ -915,13 +887,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** textjoin (3), left (2), concat (1), true (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change text with SUBSTITUTE and REPLACE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/change-text-with-substitute-and-replace?u=76281980)
+#### [Change text with SUBSTITUTE and REPLACE](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/change-text-with-substitute-and-replace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,14 +936,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Retrieve a specific value with XLOOKUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980)
+#### [Retrieve a specific value with XLOOKUP](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=0)** - [Instructor] XLOOKUP enables you to retrieve values based on a lookup value from the same row.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=6)** The function is currently only available for Excel 2021, 2024, and Microsoft 365 users.
+> **[0:06](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=6)** The function is currently only available for [[Microsoft Excel|Excel]] 2021, 2024, and [[Microsoft 365]] users.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980&t=14)** Let's look up the state from Column E and retrieve the status from Column F.
 >
@@ -1008,12 +978,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Search]] (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (1)
 > **Env Vars:** xlookup (4), vlookup (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use INDEX and MATCH to retrieve a value
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-index-and-match-to-retrieve-a-value?u=76281980)
+#### [Use INDEX and MATCH to retrieve a value](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-index-and-match-to-retrieve-a-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,8 +1019,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use GROUPBY to aggregate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980)
+#### [Use GROUPBY to aggregate data](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1027,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=4)** The function can group and display your data like a pivot table.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=8)** However, GROUPBY is only available for Microsoft 365 users.
+> **[0:08](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=8)** However, GROUPBY is only available for [[Microsoft 365]] users.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-groupby-to-aggregate-data?u=76281980&t=16)** GROUPBY has three required elements.
 >
@@ -1077,13 +1045,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft 365]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **Env Vars:** groupby (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use PIVOTBY to aggregate data with more columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980)
+#### [Use PIVOTBY to aggregate data with more columns](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=3)** You can aggregate data and display it like a pivot table.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=6)** It's also only available for Microsoft 365 users.
+> **[0:06](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=6)** It's also only available for [[Microsoft 365]] users.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/use-pivotby-to-aggregate-data-with-more-columns?u=76281980&t=11)** PIVOTBY has one extra required field.
 >
@@ -1117,7 +1084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft 365]] (1), product (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1)
 > **Env Vars:** pivotby (4), groupby (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1128,8 +1095,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remove leading spaces with TRIM
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/remove-leading-spaces-with-trim?u=76281980)
+#### [Remove leading spaces with TRIM](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/remove-leading-spaces-with-trim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,8 +1135,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include IFERROR to trap errors in formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/include-iferror-to-trap-errors-in-formulas?u=76281980)
+#### [Include IFERROR to trap errors in formulas](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/include-iferror-to-trap-errors-in-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1165,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** iferror (3), index (1), match (1)
 > **SQL:** index (1)
 > **Definitions:** is a  (1)

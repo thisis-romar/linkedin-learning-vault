@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980&t=0)** - [Ami] You're an uprising or seasoned data practitioner.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980&t=17)** You write SQL for work or for fun.
+> **[0:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980&t=17)** You write [[SQL]] for work or for fun.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980&t=20)** You taught yourself SQL or perhaps taken a few courses.
 >
@@ -135,14 +134,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (12), data (1), career (1), power (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (12)
 > **Env Vars:** sql (12)
 > **CLI Commands:** find (1)
 > **Speakers:** - [ami] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Course agenda
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-agenda?u=76281980)
+#### [Course agenda](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-agenda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-agenda?u=76281980&t=32)** We'll focus on the common anomalies that often deceive even the most experienced developers.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-agenda?u=76281980&t=39)** In chapter four we will learn exactly what happens to the data set when it's grouped and the logical limitations that grouping brings with it for the rest of the query.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-agenda?u=76281980&t=39)** In chapter four we will learn exactly what happens to the data set when it's grouped and the logical limitations that grouping brings with it for the [[Representational State Transfer (REST)|rest]] of the query.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-agenda?u=76281980&t=49)** In chapter five we'll leave the relational world behind to deal with ordering and paging.
 >
@@ -168,17 +166,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980)
+#### [Tooling](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=0)** - [Instructor] The concepts you will learn are universal and apply to all relational database management systems.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=0)** - [Instructor] The concepts you will learn are universal and apply to all relational [[Database Management]] systems.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=7)** I will be using SQL Server for most of the demos, occasionally switching to show you how other databases behave or misbehave.
+> **[0:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=7)** I will be using [[Microsoft SQL Server|SQL Server]] for most of the demos, occasionally switching to show you how other [[Databases]] behave or misbehave.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=16)** For an ID, I will use SQL Server Management Studio and for the other databases, I'll use DBeaver Community Edition, which supports all mainstream databases.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=52)** An online query service requires no installation as everything is done inside your browser.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=59)** There are a few such online services, SQL Fiddle, DB Fiddle, Rextester, and others, but my favorite one by far is db&lt;&gt;fiddle UK.
+> **[0:59](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=59)** There are a few such online services, [[SQL]] Fiddle, DB Fiddle, Rextester, and others, but my favorite one by far is db&lt;&gt;fiddle UK.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/tooling?u=76281980&t=70)** It has proven to be highly reliable and free of commercial interest, qualities that most other services have not, let's say, excelled at.
 >
@@ -198,18 +195,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (5), database (3), management (2), [[Microsoft SQL Server|Sql server]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Microsoft SQL Server|Sql server]] (2), [[Database Management]] (1), [[SQL]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing the demo database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980)
+#### [Introducing the demo database](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=1)** - [Instructor] I considered using existing sample databases, such as MySQL's Employees, SQL Server AdventureWorks, Worldwide Importers, or one of the many others that are out there.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=1)** - [Instructor] I considered using existing sample [[Databases]], such as [[MySQL]]'s Employees, [[Microsoft SQL Server|SQL Server]] AdventureWorks, Worldwide Importers, or one of the many others that are out there.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=12)** It was very tempting to use a familiar off-the-shelf database, but I chose to create a new one from scratch for this series.
 >
@@ -235,15 +231,15 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=91)** What's worse is that this practice got so deeply rooted and most database designer these days don't even consider the natural business keys and immediately opt for whatever table name underscore ID as the primary key.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=107)** And this has devastating results for data consistency, query convolution, workload performance, modularity, scalability, concurrency, and I can go on forever.
+> **[1:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=107)** And this has devastating results for data consistency, query convolution, workload performance, modularity, [[Scalability]], concurrency, and I can go on forever.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=119)** I plan to release a course dedicated to this topic.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=123)** For now, I ask that you just take it for what it is, and see for yourself how simple, elegant, and efficient SQL becomes when writing queries against tables that use natural keys.
+> **[2:03](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=123)** For now, I ask that you just take it for what it is, and see for yourself how simple, elegant, and efficient [[SQL]] becomes when writing queries against tables that use natural keys.
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=135)** To be able to fit this database in DB Fiddle, I used only a subset of the tables from the full animal shelter database project and with only a few hundred rows of data.
 >
-> **[2:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=146)** If you visit the GitHub project page for this database, you will see that I've included many more reference data tables.
+> **[2:26](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=146)** If you visit the [[GitHub]] project page for this database, you will see that I've included many more reference data tables.
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/introducing-the-demo-database?u=76281980&t=154)** These are a must-have for any external authority data.
 >
@@ -267,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (6), [[Databases]] (2), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Scalability]] (1), [[SQL]] (1)
 > **CLI Commands:** find (3), mysql (1), make (1)
 > **Env Vars:** sql (2), dba (1)
 > **Tools:** github (1)
@@ -275,8 +271,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the code files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980)
+#### [Using the code files](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,19 +283,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=30)** Chapters two and five include a challenge video and my detailed suggested solution walkthrough.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=36)** All the code files can be downloaded from the Courses homepage and use SQL Server syntax unless otherwise noted.
+> **[0:36](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=36)** All the code files can be downloaded from the Courses homepage and use [[Microsoft SQL Server|SQL Server]] syntax unless otherwise noted.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=45)** These files will be hosted on GitHub as well and by now you know where you'll find the links.
+> **[0:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=45)** These files will be hosted on [[GitHub]] as well and by now you know where you'll find the links.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=51)** So, that's about it for the introduction.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=54)** It's time to dive into the rabbit hole of SQL query logical processing from which there's no going back.
+> **[0:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=54)** It's time to dive into the rabbit hole of [[SQL]] query logical processing from which there's no going back.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=61)** But before we dive in, let's quickly see where we're heading by following query processing order.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=69)** Every query begins with a FROM clause, which constructs the query's dataset.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=75)** This is the only data that will be available for the rest of the query.
+> **[1:15](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=75)** This is the only data that will be available for the [[Representational State Transfer (REST)|rest]] of the query.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=80)** After the FROM clause produces a single dataset, it is passed on to the WHERE clause as a virtual table and the WHERE clause uses binary and ternary logical predicates to filter out individual rows.
 >
@@ -308,13 +303,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=105)** The grouped and filtered set is then passed on to the SELECT clause, which evaluates every expression for each row.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=113)** Then, it is passed on to the ORDER BY clause to apply presentation ordering and finally, the OFFSET FETCH clause, also known as LIMIT OFFSET, determines which and how many rows will be returned.
+> **[1:53](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=113)** Then, it is passed on to the ORDER BY clause to apply presentation ordering and finally, the OFFSET [[Fetch]] clause, also known as LIMIT OFFSET, determines which and how many rows will be returned.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/using-the-code-files?u=76281980&t=128)** So without further ado, let's head onto the first step, constructing the source dataset.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[GitHub]] (1), [[SQL]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[GitHub]] (1), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Env Vars:** sql (2), where (2), offset (2), group (1), having (1)
 > **SQL:** where (2), group by (1), having (1), select (1), order by (1)
 > **CLI Commands:** make (1), find (1)
@@ -328,18 +323,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Single data source queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980)
+#### [Single data source queries](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=1)** - [Instructor] Our journey begins with the first step of every SQL query, establishing the source data set, the only data that will be used by all subsequent processing phases.
+> **[0:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=1)** - [Instructor] Our journey begins with the first step of every [[SQL]] query, establishing the source data set, the only data that will be used by all subsequent processing phases.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=11)** So welcome to the FROM Clause.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=14)** The FROM Clause results in the single data set in the form of a virtual table constructed from one or more sources, and then handed over to the following processing phase.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=25)** Some databases, including SQL Server, PostgreSQL, MySQL and others, also support a SELECT without a FROM clause.
+> **[0:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=25)** Some [[Databases]], including [[Microsoft SQL Server|SQL Server]], [[PostgreSQL]], [[MySQL]] and others, also support a SELECT without a FROM clause.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980&t=35)** You can think of a FROM-less SELECT as if it was using a hypothetical FROM clause that consists of a Dummy table containing one row, one column with some arbitrary value.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[SQL]] (7), next (3), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), [[MySQL]] (1)
 > **Env Vars:** select (9), sql (8), fun (2), sap (1), hana (1)
 > **SQL:** select (9), join (1)
 > **CLI Commands:** make (2), mysql (1)
@@ -437,8 +431,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dual source query processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980)
+#### [Dual source query processing](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=127)** A full outer join simply reserves both sets.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=131)** Most databases support join syntax shortcuts by omitting the inner and outer keywords.
+> **[2:11](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=131)** Most [[Databases]] support join syntax shortcuts by omitting the inner and outer keywords.
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=137)** I prefer to use the full syntax in my code for improved readability but there's really no harm in omitting them.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=249)** Select star from staff cross join staff roles will return a Cartesian product with every possible combination of each staff member and role.
 >
-> **[4:19](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=259)** We rarely use explicit Cartesian products, although logically, they are the first processing step for all types of joints.
+> **[4:19](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=259)** We rarely use explicit Cartesian [[Microsoft Products|products]], although logically, they are the first processing step for all types of joints.
 >
 > **[4:29](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dual-source-query-processing?u=76281980&t=269)** Quiz time, what do you think will happen if we replace the cross join with an inner join but use the qualification predicate one equals one.
 >
@@ -610,14 +603,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), next (5), [[Databases]] (2), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Joining multiple source data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980)
+#### [Joining multiple source data sets](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,15 +623,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=30)** When dealing exclusively with inner joins, the order in which the source data sets are joined does not affect the result.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=37)** Some databases will process multiple inner joins in the same order they are spelled out in the query.
+> **[0:37](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=37)** Some [[Databases]] will process multiple inner joins in the same order they are spelled out in the query.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=44)** Other databases that have smarter cost based query optimizers such as Oracle and SQL Server, will estimate and execute these joins in the most efficient order that they see fit, regardless of the order in which they are spelled out in the query.
+> **[0:44](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=44)** Other databases that have smarter cost based query optimizers such as Oracle and [[Microsoft SQL Server|SQL Server]], will estimate and execute these joins in the most efficient order that they see fit, regardless of the order in which they are spelled out in the query.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=61)** For outer joins, the processing order is critical as it will affect the result and for those we do have an option to explicitly control join order.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=73)** This is best explained with an example.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=77)** We need to write a SQL query for animal adoptions and include information about their adopters.
+> **[1:17](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=77)** We need to write a [[SQL]] query for animal adoptions and include information about their adopters.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/joining-multiple-source-data-sets?u=76281980&t=82)** Looking at the schema, we can see that we need to join animals, adoptions, and persons.
 >
@@ -707,15 +699,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Hybrid multi-table join
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/challenge-hybrid-multi-table-join?u=76281980)
+#### [Challenge: Hybrid multi-table join](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/challenge-hybrid-multi-table-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,8 +724,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Hybrid multi-table join
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-hybrid-multi-table-join?u=76281980)
+#### [Solution: Hybrid multi-table join](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-hybrid-multi-table-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +758,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), data (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -776,8 +765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering source rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/filtering-source-rows?u=76281980)
+#### [Filtering source rows](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/filtering-source-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,13 +835,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Missing information and ternary logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980)
+#### [Missing information and ternary logic](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,9 +849,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=18)** And only five years later, Codd introduced NULL as an indicator for missing data.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=24)** In 1979, he further defined the semantics of NULL in his paper paper, "Transactions on Databases".
+> **[0:24](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=24)** In 1979, he further defined the semantics of NULL in his paper paper, "Transactions on [[Databases]]".
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=31)** NULL is one of the most controversial aspects of the relational model and of SQL.
+> **[0:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=31)** NULL is one of the most controversial aspects of the relational model and of [[SQL]].
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=38)** It introduced numerous anomalies and complexities and has been criticized by scholars and data practitioners throughout history.
 >
@@ -1009,7 +995,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=478)** Unfortunately, in most databases that I've seen, it was obvious that the designers had little or no concern for NULL constraints and missing data logic in general.
 >
-> **[8:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=488)** In most cases, it had devastating results for data consistency, performance, scalability and the mental wellbeing of those who had to deal with it.
+> **[8:08](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=488)** In most cases, it had devastating results for data consistency, performance, [[Scalability]] and the mental wellbeing of those who had to deal with it.
 >
 > **[8:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/missing-information-and-ternary-logic?u=76281980&t=498)** An overabundance of NULLs is typically a clear indication of fundamental design flaws in the data model.
 >
@@ -1019,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[SQL]] (7), next (3), [[Databases]] (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Databases]] (2), [[Scalability]] (1)
 > **Env Vars:** null (16), sql (7)
 > **Definitions:** is an  (5), is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1)
@@ -1027,12 +1013,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with ternary logic in SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980)
+#### [Dealing with ternary logic in SQL](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=0)** - Most SQL developers struggle at first with ternary logic.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=0)** - Most [[SQL]] developers struggle at first with ternary logic.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=5)** To list all non-breed animals, we might be tempted to use a comparison predicate breed equals null.
 >
@@ -1066,7 +1051,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=118)** While it does give us the desired result, it is too verbose and maybe confusing to less experienced developers.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=126)** If you're using SQL Server, Oracle, MySQL, and most other databases, we're out of luck.
+> **[2:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=126)** If you're using [[Microsoft SQL Server|SQL Server]], Oracle, [[MySQL]], and most other [[Databases]], we're out of luck.
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-ternary-logic-in-sql?u=76281980&t=133)** We have no choice but to add the additional predicate like this one or some other creative ideas, such as adding an ISNULL conditional function.
 >
@@ -1098,7 +1083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (2), feature (2), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (5), null (3), isnull (1), ansi (1)
 > **Definitions:** is a  (2), is called (2)
 > **CLI Commands:** mysql (1), make (1)
@@ -1110,8 +1095,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grouping
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980)
+#### [Grouping](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1159,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=186)** We can't ask for the details on one hand and the higher level aggregate at the same time.
 >
-> **[3:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=193)** I'll dare say that anyone who ever wrote a SQL group by has encountered these types of errors, and many accept it at face value without understanding the fundamental reason for it.
+> **[3:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=193)** I'll dare say that anyone who ever wrote a [[SQL]] group by has encountered these types of errors, and many accept it at face value without understanding the fundamental reason for it.
 >
 > **[3:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=205)** And we are here to get to the bottom of it.
 >
@@ -1235,7 +1219,7 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=407)** It takes in a set of elements and aggregates them to return just one.
 >
-> **[6:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=414)** Max name is a valid expression and by default, the max function over a set of strings will pick the one with the highest dictionary sort order by most databases.
+> **[6:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=414)** Max name is a valid expression and by default, the max function over a set of strings will pick the one with the highest dictionary sort order by most [[Databases]].
 >
 > **[7:05](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980&t=425)** Here, these are Felix, Winston and Milly.
 >
@@ -1279,15 +1263,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (3), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1)
 > **CLI Commands:** make (5), cat (2)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with NULLs and elimination duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980)
+#### [Dealing with NULLs and elimination duplicates](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,7 +1298,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=64)** Therefore nulls are irrelevant to it.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=67)** There are other expressions such as JSON array aggregate functions which need to maintain the null representation and each database has its own.
+> **[1:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=67)** There are other expressions such as [[JSON]] array aggregate functions which need to maintain the null representation and each database has its own.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=76)** So again, check the documentation for your database of choice.
 >
@@ -1335,7 +1318,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=124)** People who refused to disclose their age will be grouped together as expected.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=130)** In chapter two I mentioned that SQL allows for duplicate rows in a set which makes it a multi-set or a bag.
+> **[2:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=130)** In chapter two I mentioned that [[SQL]] allows for duplicate rows in a set which makes it a multi-set or a bag.
 >
 > **[2:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/dealing-with-nulls-and-elimination-duplicates?u=76281980&t=138)** Returning duplicate rows isn't very useful as we can't tell them apart.
 >
@@ -1401,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[JSON]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -1410,8 +1393,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/group-filters?u=76281980)
+#### [Group filters](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/group-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,7 +1457,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **SQL:** having (11), group by (7), where (6)
 > **Env Vars:** having (11), group (7), where (6)
 > **Analogies:** such as (2), similar to (1)
@@ -1484,8 +1465,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Filtering and grouped query
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/challenge-filtering-and-grouped-query?u=76281980)
+#### [Challenge: Filtering and grouped query](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/challenge-filtering-and-grouped-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,8 +1489,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Grouped query with Distinct
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-grouped-query-with-distinct?u=76281980)
+#### [Solution: Grouped query with Distinct](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-grouped-query-with-distinct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1567,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-grouped-query-with-distinct?u=76281980&t=282)** This is not what I need, so let's handle the null.
 >
-> **[4:46](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-grouped-query-with-distinct?u=76281980&t=286)** If I was using PostgreSQL, I would use is distinct from, but since I'm using SQL Server, I have no choice but to add another predicate to be able to keep the non-vaccinated animals.
+> **[4:46](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-grouped-query-with-distinct?u=76281980&t=286)** If I was using [[PostgreSQL]], I would use is distinct from, but since I'm using [[Microsoft SQL Server|SQL Server]], I have no choice but to add another predicate to be able to keep the non-vaccinated animals.
 >
 > **[4:59](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/solution-grouped-query-with-distinct?u=76281980&t=299)** Lastly, I need to exclude animals that were last vaccinated on or after October 1st, 2019.
 >
@@ -1616,7 +1595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[PostgreSQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** sql (1)
@@ -1630,8 +1609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Presentation ordering in multitier architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980)
+#### [Presentation ordering in multitier architecture](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1667,7 +1645,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980&t=114)** And, this is my own personal opinion and experience, but they have taught me that in many cases this is done only due to short term convenience.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980&t=127)** Developers need to write the SQL queries anyway.
+> **[2:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980&t=127)** Developers need to write the [[SQL]] queries anyway.
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980&t=130)** So, why bother with additional code for sorting in the presentation tier when SQL provides such an easy and convenient way of ordering.
 >
@@ -1687,14 +1665,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), [[SQL]] (4), application (3), business (2)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ordering result sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980)
+#### [Ordering result sets](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,19 +1681,19 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=9)** In the relational model, neither the attributes nor the tuples have any order.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=14)** Their SQL counterparts, rows and columns, were not so lucky.
+> **[0:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=14)** Their [[SQL]] counterparts, rows and columns, were not so lucky.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=20)** SQL supports ordering of both rows and of referencing expressions by their ordinal position.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=28)** First, let's get expression order out of the way.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=32)** Most databases support referencing select list expressions using their ordinal position as they are listed from left to right.
+> **[0:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=32)** Most [[Databases]] support referencing select list expressions using their ordinal position as they are listed from left to right.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=41)** Theoretically the select clause is evaluated after the having clause, and no previous clauses should be aware of these positions.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=50)** And SQL server does follow this logical order, and allows referencing expressions by position only after they are evaluated, meaning it is only allowed in the order by clause, the only clause that follows the select.
+> **[0:50](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=50)** And [[Microsoft SQL Server|SQL server]] does follow this logical order, and allows referencing expressions by position only after they are evaluated, meaning it is only allowed in the order by clause, the only clause that follows the select.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=66)** Other databases include the MySQL and PostgreSQL allow us to reference expressions by position even in clauses that logically precede the select such as the group by clause.
+> **[1:06](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=66)** Other databases include the [[MySQL]] and [[PostgreSQL]] allow us to reference expressions by position even in clauses that logically precede the select such as the group by clause.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/ordering-result-sets?u=76281980&t=79)** But I really hope that none of you think that order by two comma five comma one has any advantage over specifying the attribute names, species, breed, and name.
 >
@@ -1841,8 +1818,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
 
-#### Paging result sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980)
+#### [Paging result sets](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1856,11 +1832,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=29)** Overloading the calling application or the middle tier with huge and potentially unused datasets may not always be the best course of action.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=40)** So for paging purposes, I will take off my purist hat for a minute and consent that it does make sense to perform this task much closer to the data, and SQL is as close as it gets.
+> **[0:40](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=40)** So for paging purposes, I will take off my purist hat for a minute and consent that it does make sense to perform this task much closer to the data, and [[SQL]] is as close as it gets.
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=55)** Paging doesn't make sense without an order by, and in most databases, they are inseparable.
+> **[0:55](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=55)** Paging doesn't make sense without an order by, and in most [[Databases]], they are inseparable.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=63)** SQL Server and Sybase support a proprietary non-ANSI compliant operator called Top, which is not strongly tied to an order by.
+> **[1:03](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=63)** [[Microsoft SQL Server|SQL Server]] and Sybase support a proprietary non-ANSI compliant operator called Top, which is not strongly tied to an order by.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=73)** So we can issue a query, such as select top three star from animals, even without an order by.
 >
@@ -1872,7 +1848,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=107)** SQL server is the only mainstream database that supports the verbose ANSI SQL standard syntax for paging.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=116)** Offset X rows, fetch next Y rows only.
+> **[1:56](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=116)** Offset X rows, [[Fetch]] next Y rows only.
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/paging-result-sets?u=76281980&t=121)** Most other databases support a similar, though non-ANSI compliant, syntax of limit X, offset Y.
 >
@@ -1898,7 +1874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[SQL]] (5), database (3), data (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Fetch]] (2)
 > **Env Vars:** sql (7), ansi (3)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
@@ -1911,8 +1887,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course review and takeaway
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980)
+#### [Course review and takeaway](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,7 +1899,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=20)** We saw how to use single and multiple source datasets and how the different types of joins are processed.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=25)** We learned how SQL handles missing data and the intricacies of ternary logic.
+> **[0:25](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=25)** We learned how [[SQL]] handles missing data and the intricacies of ternary logic.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=31)** We saw why the processing order of join qualification predicates versus the WHERE row filter is so critical.
 >
@@ -1946,13 +1921,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=92)** Sub-query processing, lateral derived tables, cursors, ordered set functions, window functions, common table expressions, recursive common table expressions, the all-at-once principal, and even futuristic features such as row pattern recognition, polymorphic table functions, and much, much more.
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=114)** LinkedIn is an amazing learning platform, and there are so many additional courses you can take here.
+> **[1:54](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=114)** [[LinkedIn]] is an amazing learning platform, and there are so many additional courses you can take here.
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=121)** I recommend that you choose carefully, and look for the ones that focus on the foundational knowledge, theory, and understanding of the subject matter, rather than the ones that promise instant results.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=134)** Now, don't get me wrong, there's nothing bad with learning how to get your hands dirty quickly as a starting point.
 >
-> **[2:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=142)** But I see way too many SQL developers that simply stay stuck at that level for the rest of their SQL careers.
+> **[2:22](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=142)** But I see way too many SQL developers that simply stay stuck at that level for the [[Representational State Transfer (REST)|rest]] of their SQL careers.
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980&t=150)** Don't be tempted by the quick solutions, not for SQL and not for life in general.
 >
@@ -1980,7 +1955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), database (2), data (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (9), where (1), group (1), select (1)
 > **SQL:** where (1), group by (1), select (1)
 > **CLI Commands:** find (1), make (1)
@@ -1989,8 +1964,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 
-#### Feedback and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980)
+#### [Feedback and additional resources](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1986,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=27)** So, I invite you to rank this course honestly, and even better, I will highly appreciate it if you take a few minutes and provide more detailed feedback than just a score.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=39)** You can use the Q&A tab on the courses page to ask questions, provide feedback, or you can look me up here on LinkedIn and connect.
+> **[0:39](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=39)** You can use the Q&A tab on the courses page to ask questions, provide feedback, or you can look me up here on [[LinkedIn]] and connect.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=47)** But when you do, please add a personal message to your connection request.
 >
@@ -2024,7 +1998,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=67)** Studies show that in one hour, you will forget about 50% of what you now remember, 70% will be lost tomorrow, and 90% within a week.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=78)** To make sure your efforts are not in vain, you must do four things, practice, practice, practice, and keep learning more SQL.
+> **[1:18](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=78)** To make sure your efforts are not in vain, you must do four things, practice, practice, practice, and keep learning more [[SQL]].
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/feedback-and-additional-resources?u=76281980&t=87)** And on that positive note, it is time to say farewell.
 >
@@ -2034,7 +2008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[LinkedIn]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)

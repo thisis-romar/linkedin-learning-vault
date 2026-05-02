@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Cloud Computing
   - Software Development
-louvain_cluster: 11
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/artificial-intelligence

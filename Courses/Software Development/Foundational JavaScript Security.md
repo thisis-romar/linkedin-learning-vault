@@ -93,14 +93,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundational JavaScript security
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980)
+#### [Foundational JavaScript security](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=0)** - [Manny] Have you ever wondered how vulnerable your website or application is?
 >
-> **[0:04](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=4)** Are you a JavaScript developer with little to no experience in hacking or security measures?
+> **[0:04](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=4)** Are you a [[JavaScript]] developer with little to no experience in hacking or security measures?
 >
 > **[0:10](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=10)** If you've answered yes to either of these questions, you've come to the right place.
 >
@@ -108,17 +107,16 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=21)** This will give you the basic skills to assess common security threats.
 >
-> **[0:25](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=25)** You'll also learn how to anticipate threats and improve your security awareness in order to reduce how vulnerable your JavaScript code might be.
+> **[0:25](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=25)** You'll also learn how to anticipate threats and improve your [[Security Awareness]] in order to reduce how vulnerable your JavaScript code might be.
 >
 > **[0:34](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980&t=34)** Hi, I'm Manny Henri and security is always top of mind when I build new applications, so if you're ready to increase the security of your JavaScript code, rev up your engines and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[JavaScript]] (3), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Security Awareness]] (1)
 > **Speakers:** - [manny] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/foundational-javascript-security/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/foundational-javascript-security/what-you-should-know?u=76281980&t=3)** It can be taken as a first step into getting more security skills.
 >
-> **[0:07](https://www.linkedin.com/learning/foundational-javascript-security/what-you-should-know?u=76281980&t=7)** However, I strongly recommend to have a solid foundation in JavaScript programming, as you will get lost if you don't understand the code I use to demonstrate the security issues.
+> **[0:07](https://www.linkedin.com/learning/foundational-javascript-security/what-you-should-know?u=76281980&t=7)** However, I strongly recommend to have a solid foundation in [[JavaScript]] programming, as you will get lost if you don't understand the code I use to demonstrate the security issues.
 >
 > **[0:17](https://www.linkedin.com/learning/foundational-javascript-security/what-you-should-know?u=76281980&t=17)** In most cases, if you understand JavaScript and are able to build code without constantly go back to references, you'll be fine to take this course.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[JavaScript]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -143,8 +141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is ethical hacking?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980)
+#### [What is ethical hacking?](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980&t=12)** In several cases, that would be correct, and these type of hackers are referred to as black hat hacking.
 >
-> **[0:20](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980&t=20)** These hackers will use all kinds of techniques to access privileged data or destroy the same data, all for their own benefit, in other words, unethical hacking, but what is ethical hacking?
+> **[0:20](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980&t=20)** These hackers will use all kinds of techniques to access privileged data or destroy the same data, all for their own benefit, in other words, unethical hacking, but what is [[Ethical Hacking]]?
 >
 > **[0:33](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980&t=33)** It's the complete opposite of what we just looked at.
 >
@@ -172,12 +169,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (4), data (3)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (4)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of cyber kill chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/overview-of-cyber-kill-chain?u=76281980)
+#### [Overview of cyber kill chain](https://www.linkedin.com/learning/foundational-javascript-security/overview-of-cyber-kill-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/foundational-javascript-security/overview-of-cyber-kill-chain?u=76281980&t=89)** Then the tool install would eventually take over and command a resource in question.
 >
-> **[1:35](https://www.linkedin.com/learning/foundational-javascript-security/overview-of-cyber-kill-chain?u=76281980&t=95)** A good example is how a hacker was able to control the temperature levels and the server environment and overheated the entire room, which eventually overheated and shut down the server hardware.
+> **[1:35](https://www.linkedin.com/learning/foundational-javascript-security/overview-of-cyber-kill-chain?u=76281980&t=95)** A good example is how a hacker was able to control the temperature levels and the server environment and overheated the entire room, which eventually overheated and shut down the server [[Hardware]].
 >
 > **[1:46](https://www.linkedin.com/learning/foundational-javascript-security/overview-of-cyber-kill-chain?u=76281980&t=106)** And finally, once the resources control by the hacker, he takes over and pulls whatever data he was after and holds ransom over the resources in one manner or another for his own benefit.
 >
@@ -215,15 +211,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plan an attack strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/plan-an-attack-strategy?u=76281980)
+#### [Plan an attack strategy](https://www.linkedin.com/learning/foundational-javascript-security/plan-an-attack-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,19 +242,18 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/foundational-javascript-security/plan-an-attack-strategy?u=76281980&t=54)** And typically, at this point, a tool would probably make some minor changes into the code without hurting the application at large, so the hacker could demonstrate success of the exploit and how dangerous it could be.
 >
-> **[1:06](https://www.linkedin.com/learning/foundational-javascript-security/plan-an-attack-strategy?u=76281980&t=66)** The next step, which is step five, would be to report to the client what recommendations, or code, or system changes need to be done in order to improve the application security.
+> **[1:06](https://www.linkedin.com/learning/foundational-javascript-security/plan-an-attack-strategy?u=76281980&t=66)** The next step, which is step five, would be to report to the client what recommendations, or code, or system changes need to be done in order to improve the [[Application Security]].
 >
 > **[1:17](https://www.linkedin.com/learning/foundational-javascript-security/plan-an-attack-strategy?u=76281980&t=77)** So as you determine how you could evaluate your application's vulnerabilities or your client's, have a plan of attack in place and communicate it to all stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), database (2), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Base project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/base-project-setup?u=76281980)
+#### [Base project setup](https://www.linkedin.com/learning/foundational-javascript-security/base-project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/foundational-javascript-security/base-project-setup?u=76281980&t=57)** So basically, this is a project that came from another course of mine, where we actually built a news aggregator and what you can do, if you want to take a look at it, we can actually bring up the terminal.
 >
-> **[1:08](https://www.linkedin.com/learning/foundational-javascript-security/base-project-setup?u=76281980&t=68)** So let's go and click on terminal, new terminal, and then do it npm i to install or install, like so, and then let's go ahead and do an npm start, and you'll see what I've built.
+> **[1:08](https://www.linkedin.com/learning/foundational-javascript-security/base-project-setup?u=76281980&t=68)** So let's go and click on terminal, new terminal, and then do it [[npm]] i to install or install, like so, and then let's go ahead and do an npm start, and you'll see what I've built.
 >
 > **[1:24](https://www.linkedin.com/learning/foundational-javascript-security/base-project-setup?u=76281980&t=84)** So this is basically a base application that I've built and you can use this for the purposes of this course, but you don't need to if you want to use your own application.
 >
@@ -295,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[npm]] (2)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **Tools:** terminal (3), visual studio (2)
 > **Prerequisites:** install (4)
 > **CLI Commands:** npm (2), find (1)
@@ -304,8 +298,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: What is ethical hacking?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-ethical-hacking?u=76281980)
+#### [Challenge: What is ethical hacking?](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-ethical-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-ethical-hacking?u=76281980&t=7)** - [Instructor] So before we continue, let's challenge you with a quick question.
 >
-> **[0:10](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-ethical-hacking?u=76281980&t=10)** In this chapter, we discuss ethical hacking and white hat hacking.
+> **[0:10](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-ethical-hacking?u=76281980&t=10)** In this chapter, we discuss [[Ethical Hacking]] and white hat hacking.
 >
 > **[0:15](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-ethical-hacking?u=76281980&t=15)** So here's the question.
 >
@@ -327,14 +320,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: What is ethical hacking?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-ethical-hacking?u=76281980)
+#### [Solution: What is ethical hacking?](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-ethical-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-ethical-hacking?u=76281980&t=0)** (lively music) (lively music ends)
 >
-> **[0:07](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-ethical-hacking?u=76281980&t=7)** - [Instructor] The answer for the question was in the video where we go over ethical hacking.
+> **[0:07](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-ethical-hacking?u=76281980&t=7)** - [Instructor] The answer for the question was in the video where we go over [[Ethical Hacking]].
 >
 > **[0:11](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-ethical-hacking?u=76281980&t=11)** Without going over everything we did in that video, this is the main point we were looking for.
 >
@@ -352,8 +344,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reconnaissance introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980)
+#### [Reconnaissance introduction](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +352,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=9)** In this stage, you valuate your code.
 >
-> **[0:12](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=12)** So the best way to do this is to do an NPM install or NPM audit, which we'll explore a little bit later on.
+> **[0:12](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=12)** So the best way to do this is to do an [[npm]] install or NPM audit, which we'll explore a little bit later on.
 >
 > **[0:19](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=19)** So let's first start with NPM install.
 >
@@ -369,7 +360,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=28)** When there are messages related to dependencies being deprecated, act on them immediately, especially at the first level.
 >
-> **[0:35](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=35)** So if we take a look at the package.json file here we have some dependencies that we install into our project.
+> **[0:35](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=35)** So if we take a look at the package.[[JSON]] file here we have some dependencies that we install into our project.
 >
 > **[0:42](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=42)** So some of these messages will be related to dependencies within any of those packages.
 >
@@ -405,7 +396,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=133)** So if you do a fix, it's going to fix the dependencies and there might be some issues with your own packages here and your application may break.
 >
-> **[2:21](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=141)** So I would do that lightly or make copies or use GitHub or any versioning tool that you can use to actually go back in time if you make a mistake by updating one of these dependencies.
+> **[2:21](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=141)** So I would do that lightly or make copies or use [[GitHub]] or any versioning tool that you can use to actually go back in time if you make a mistake by updating one of these dependencies.
 >
 > **[2:35](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=155)** So let's go ahead and do an NPM audit first, like so.
 >
@@ -433,7 +424,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=248)** And you may want to update your syntax to the latest if anything breaks your own application.
 >
-> **[4:14](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=254)** So if you take a look at the current messages, most likely if we update the react dependencies we may avoid these messages.
+> **[4:14](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=254)** So if you take a look at the current messages, most likely if we update the [[React.js|react]] dependencies we may avoid these messages.
 >
 > **[4:21](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980&t=261)** The advantage that you have over a hacker is the ability to see your code and therefore improve it.
 >
@@ -451,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (5), application (5), [[Security]] (2), [[JSON]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[JSON]] (1), [[GitHub]] (1), [[React.js|React]] (1)
 > **CLI Commands:** npm (5), make (3)
 > **Env Vars:** npm (5), ajv (1)
 > **UI Navigation:** scroll up (2), click on (1)
@@ -460,8 +451,7 @@ created: 2026-05-02
 > **Tools:** github (1), terminal (1)
 > **Warnings:** warning (2)
 
-#### Introduction and setup for Snyk
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980)
+#### [Introduction and setup for Snyk](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,11 +459,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=5)** It does it automatically as you make updates to your repository.
 >
-> **[0:09](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=9)** It provides a lot more details on vulnerable dependencies, then you get with NPM audit and the specific exploit that could occur.
+> **[0:09](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=9)** It provides a lot more details on vulnerable dependencies, then you get with [[npm]] audit and the specific exploit that could occur.
 >
 > **[0:17](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=17)** So let me demonstrate how it works.
 >
-> **[0:19](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=19)** So if you don't have an account, what you can do is click on, Sign Up For Free and it's going to basically give you the steps to connect to your GitHub account.
+> **[0:19](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=19)** So if you don't have an account, what you can do is click on, Sign Up For Free and it's going to basically give you the steps to connect to your [[GitHub]] account.
 >
 > **[0:27](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=27)** In this case, I'm already connected, so I'm going to log in and then I'm going to be on the Dashboard.
 >
@@ -483,11 +473,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=43)** So the way to do that is to click on Add project, like so, and then select one of the options here.
 >
-> **[0:50](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=50)** You can actually do it by CLI and you can monitor it by GitHub.
+> **[0:50](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=50)** You can actually do it by [[CLI]] and you can monitor it by GitHub.
 >
 > **[0:55](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=55)** So I'm going to go to GitHub which is basically what I'm using and then within your council like the repos that you'd like to include.
 >
-> **[1:02](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=62)** So let's say for example, I wanted to include hello world and then include react example.
+> **[1:02](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=62)** So let's say for example, I wanted to include hello world and then include [[React.js|react]] example.
 >
 > **[1:08](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=68)** I could literally connect these by simply checking them here and then add select repositories, like so, but I'm not going to continue because I already added one.
 >
@@ -495,7 +485,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=88)** So the way to go to the issue report is to click here and then select the file that they have issues with.
 >
-> **[1:35](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=95)** So in this case, there's this one here, package.json which is typically the one that's been basically shown in a JavaScript project because this is where the dependencies are listed.
+> **[1:35](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=95)** So in this case, there's this one here, package.[[JSON]] which is typically the one that's been basically shown in a [[JavaScript]] project because this is where the dependencies are listed.
 >
 > **[1:45](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=105)** You're going to see that there's six severe issues 10 medium, and two low.
 >
@@ -519,7 +509,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=176)** And if you want to have even more detail you can click here and see it a bit more.
 >
-> **[3:02](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=182)** If you don't understand any of this, then what you could do is do a Google search around all these issues.
+> **[3:02](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=182)** If you don't understand any of this, then what you could do is do a [[Google]] search around all these issues.
 >
 > **[3:08](https://www.linkedin.com/learning/foundational-javascript-security/introduction-and-setup-for-snyk?u=76281980&t=188)** So prototype pollution, what is it?
 >
@@ -543,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[GitHub]] (3), [[React.js|React]] (3), [[npm]] (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (3), [[npm]] (2), [[CLI]] (1), [[JSON]] (1)
 > **UI Navigation:** go to (5), click on (4), select the (1)
 > **CLI Commands:** make (2), npm (2)
 > **Env Vars:** npm (2), cli (1), agv (1)
@@ -552,16 +542,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Introduction to GitHub Dependabot
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980)
+#### [Introduction to GitHub Dependabot](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980&t=0)** - [Manny] GitHub has recently added a nice tool to evaluate your dependencies for free and provide some alerts when there are some issues with a specific package in the application.
+> **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980&t=0)** - [Manny] [[GitHub]] has recently added a nice tool to evaluate your dependencies for free and provide some alerts when there are some issues with a specific package in the application.
 >
 > **[0:10](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980&t=10)** So let's take a look at it.
 >
-> **[0:11](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980&t=11)** So what I'm going to do is select any of my repos and go, for example, to react example and the way you actually enable Dependabots is by going to security and once you get to security; in this area you have a few things.
+> **[0:11](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980&t=11)** So what I'm going to do is select any of my repos and go, for example, to [[React.js|react]] example and the way you actually enable Dependabots is by going to security and once you get to security; in this area you have a few things.
 >
 > **[0:28](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-github-dependabot?u=76281980&t=28)** So first you have security policies, which you can set.
 >
@@ -607,15 +596,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[React.js|React]] (5), [[Security]] (5), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[GitHub]] (1)
 > **UI Navigation:** click on (3), go to (3)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
 > **Speakers:** - [manny] (1)
 
-#### Introduction to AppSensor
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-appsensor?u=76281980)
+#### [Introduction to AppSensor](https://www.linkedin.com/learning/foundational-javascript-security/introduction-to-appsensor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,15 +623,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reconnaissance applied to project
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-applied-to-project?u=76281980)
+#### [Reconnaissance applied to project](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-applied-to-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,12 +645,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: What is the purpose of reconnaissance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-the-purpose-of-reconnaissance?u=76281980)
+#### [Challenge: What is the purpose of reconnaissance?](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-the-purpose-of-reconnaissance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,12 +660,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Non-Speech:** (upbeat music) (1), (upbeat music ends) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: What is the purpose of reconnaissance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-purpose-of-reconnaissance?u=76281980)
+#### [Solution: What is the purpose of reconnaissance?](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-purpose-of-reconnaissance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +677,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Non-Speech:** (lively music) (1), (lively music ends) (1)
 > **Speakers:** - [instructor] (1)
 
@@ -704,22 +685,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Injection threat
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980)
+#### [Injection threat](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=0)** - [Instructor] Over this chapter, we're going to go through the list of a few of the top security threats as listed by the OWASP organization.
+> **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=0)** - [Instructor] Over this chapter, we're going to go through the list of a few of the top security threats as listed by the [[OWASP]] organization.
 >
 > **[0:08](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=8)** If you'd like more details about the most current security issues, solutions, and code snippets, visit [owasp.org](https://owasp.org) for more information.
 >
-> **[0:17](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=17)** There are many injection attacks, such as SQL injection and JavaScript injections, and are one of the most common security issue in this category, and is referred to us cross site scripting attacks, or XSS.
+> **[0:17](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=17)** There are many injection attacks, such as [[SQL]] injection and [[JavaScript]] injections, and are one of the most common security issue in this category, and is referred to us cross site scripting attacks, or XSS.
 >
 > **[0:33](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=33)** This attack is basically when malicious code is executed inside of a user input.
 >
 > **[0:40](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=40)** The danger in this threat is automated code that goes through your public pages and sends code that executes once the form is submitted.
 >
-> **[0:49](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=49)** Many frameworks such as React and Angular have means to escape the bad code.
+> **[0:49](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=49)** Many frameworks such as [[React.js|React]] and [[Angular]] have means to escape the bad code.
 >
 > **[0:54](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=54)** And it submits the input as a string, but not all frameworks are made equal.
 >
@@ -733,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=68)** And you can do this as well.
 >
-> **[1:10](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=70)** So let's say for example, we did something like embed it inside of u tags the word test.
+> **[1:10](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=70)** So let's say for example, we did something like embed it inside of u tags the [[Microsoft Word|word]] test.
 >
 > **[1:20](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980&t=80)** As you can see, our test is actually bolded, like the way we entered the search.
 >
@@ -761,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Search]] (3), [[OWASP]] (2), [[SQL]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[SQL]] (1), [[JavaScript]] (1), [[React.js|React]] (1), [[Angular]] (1)
 > **Env Vars:** owasp (1), sql (1), xss (1)
 > **Definitions:** is an  (2), in other words (1)
 > **Analogies:** such as (2), for example (1)
@@ -770,8 +750,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Broken authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication?u=76281980)
+#### [Broken authentication](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,13 +784,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (1)
 > **Env Vars:** http (1), https (1)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sensitive data
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/sensitive-data?u=76281980)
+#### [Sensitive data](https://www.linkedin.com/learning/foundational-javascript-security/sensitive-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,19 +812,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (2)
 > **Env Vars:** jss (2), https (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### XML external entities
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities?u=76281980)
+#### [XML external entities](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities?u=76281980&t=0)** - [Instructor] XML External Entities have been promoted to a top 10 issues on OWASP and for good reason.
+> **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities?u=76281980&t=0)** - [Instructor] XML External Entities have been promoted to a top 10 issues on [[OWASP]] and for good reason.
 >
 > **[0:07](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities?u=76281980&t=7)** This attack occurs when an XML document is malformed and could be exploited for denial of services attacks.
 >
@@ -863,14 +838,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Env Vars:** xml (7), owasp (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security misconfiguration
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/security-misconfiguration?u=76281980)
+#### [Security misconfiguration](https://www.linkedin.com/learning/foundational-javascript-security/security-misconfiguration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,17 +882,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), data (3), [[Security]] (1), [[Debugging]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insecure deserialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980)
+#### [Insecure deserialization](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=0)** - [Instructor] Before we talk about insecure deserialization, let's talk about what deserialization is, If you're not familiar with the term.
 >
-> **[0:08](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=8)** In short, deserialization is the transformation of data coming from a file or the network, typically from a JSON or XML format into an object that your application can read.
+> **[0:08](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=8)** In short, deserialization is the transformation of data coming from a file or the network, typically from a [[JSON]] or XML format into an object that your application can read.
 >
 > **[0:21](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=21)** So when you hear about serialization, well it's the opposite, where the object is serialized into a readable JSON format when transferred through the network.
 >
@@ -936,17 +908,16 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=63)** As long as they don't use the JS method, eval(), you should be fine in most cases.
 >
-> **[1:09](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=69)** If you're looking for suggestions, do a search for serialize in npm and look for the most updated and active packages.
+> **[1:09](https://www.linkedin.com/learning/foundational-javascript-security/insecure-deserialization?u=76281980&t=69)** If you're looking for suggestions, do a search for serialize in [[npm]] and look for the most updated and active packages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (2), application (2), [[Search]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[npm]] (1)
 > **Env Vars:** json (2), xml (1)
 > **CLI Commands:** npm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Components with known vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/components-with-known-vulnerabilities?u=76281980)
+#### [Components with known vulnerabilities](https://www.linkedin.com/learning/foundational-javascript-security/components-with-known-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,19 +925,18 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/foundational-javascript-security/components-with-known-vulnerabilities?u=76281980&t=10)** This extra help is great but can sometimes lead you into an insecure path with your application.
 >
-> **[0:16](https://www.linkedin.com/learning/foundational-javascript-security/components-with-known-vulnerabilities?u=76281980&t=16)** A great example is using a navigation or routing library with your react application where you'd be leveraging their components to build out your routing or navigation areas with their components, and the best way to identify these issues is when you test with Snyk or Retire.js where you get a good idea of which packages are insecure.
+> **[0:16](https://www.linkedin.com/learning/foundational-javascript-security/components-with-known-vulnerabilities?u=76281980&t=16)** A great example is using a navigation or [[Routing]] library with your [[React.js|react]] application where you'd be leveraging their components to build out your routing or navigation areas with their components, and the best way to identify these issues is when you test with Snyk or Retire.js where you get a good idea of which packages are insecure.
 >
 > **[0:38](https://www.linkedin.com/learning/foundational-javascript-security/components-with-known-vulnerabilities?u=76281980&t=38)** Unless you only build your own components, you need to be vigilant of the packages you use and must at all times validate you are using secure components in your application, and when you find some, figure out if it's not just a simple update of the package and the syntax used, and if not, then plan to replace these packages or write your own.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Routing]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[React.js|React]] (1)
 > **File Paths:** retire.js (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insufficient logging and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/insufficient-logging-and-monitoring?u=76281980)
+#### [Insufficient logging and monitoring](https://www.linkedin.com/learning/foundational-javascript-security/insufficient-logging-and-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/foundational-javascript-security/insufficient-logging-and-monitoring?u=76281980&t=53)** Most host providers have a decent amount of tools you can use for this purpose.
 >
-> **[0:58](https://www.linkedin.com/learning/foundational-javascript-security/insufficient-logging-and-monitoring?u=76281980&t=58)** And please do use them, set alerts so you get notifications for unusual behaviors, then make sure you set some type of user base monitoring and you can either use prebuilt resources, such as Google analytics, elastic search, or build your own within your application, but do get something in place.
+> **[0:58](https://www.linkedin.com/learning/foundational-javascript-security/insufficient-logging-and-monitoring?u=76281980&t=58)** And please do use them, set alerts so you get notifications for unusual behaviors, then make sure you set some type of user base monitoring and you can either use prebuilt resources, such as [[Google]] analytics, elastic search, or build your own within your application, but do get something in place.
 >
 > **[1:19](https://www.linkedin.com/learning/foundational-javascript-security/insufficient-logging-and-monitoring?u=76281980&t=79)** It is often better to have more information, set many alerts than to get caught dealing with lost resources because a hacker exploited them one way or another.
 >
@@ -990,14 +960,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (1), [[Google]] (1), [[Analytics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dos (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: What is the best resource for top threats?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-the-best-resource-for-top-threats?u=76281980)
+#### [Challenge: What is the best resource for top threats?](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-the-best-resource-for-top-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,13 +978,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Non-Speech:** (upbeat music begins) (1), (upbeat music ends) (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: What is the best resource for top threats?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980)
+#### [Solution: What is the best resource for top threats?](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,13 +992,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=12)** Without going everything we did in that video, this is the main point we were looking for.
 >
-> **[0:18](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=18)** Whenever you need the latest and greatest information about security threats, your best resource is [OWASP.org](https://OWASP.org).
+> **[0:18](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=18)** Whenever you need the latest and greatest information about security threats, your best resource is [[[OWASP]].org](https://OWASP.org).
 >
 > **[0:27](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-the-best-resource-for-top-threats?u=76281980&t=27)** That's [O-W-A-S-P.org](https://O-W-A-S-P.org) where they have a list of the top 10 threats, list more information on the issue, and even have code snippets on how to resolve it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **URLs:** [owasp.org](https://owasp.org) (1), [o-w-a-s-p.org](https://o-w-a-s-p.org) (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
@@ -1042,8 +1009,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Injection threat resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980)
+#### [Injection threat resources](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,13 +1019,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=19)** Even better, it's always better to be well aware of how these issues appear in our applications, and how you can prevent them.
 >
-> **[0:27](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=27)** And the best place to get started on all this is on the OWASP website.
+> **[0:27](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=27)** And the best place to get started on all this is on the [[OWASP]] website.
 >
 > **[0:32](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=32)** So throughout this chapter, we'll take a look at the most important ones, and show you where to go to get started.
 >
 > **[0:39](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=39)** So let's head up to [owasp.org](https://owasp.org), and what we're going to do is scroll down until you see Project Spotlight: OWASP Top 10.
 >
-> **[0:48](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=48)** And this is the page you want to go to at all times to see, well, what are the top 10 security risk?
+> **[0:48](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=48)** And this is the page you want to go to at all times to see, well, what are the top 10 [[Security Risk]]?
 >
 > **[0:54](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980&t=54)** And you would see that we have injection, broken authentication, and so on, so forth.
 >
@@ -1085,21 +1051,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), data (3), [[Security]] (2), application (2)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Security Risk]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** cat (1)
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Broken authentication resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication-resources?u=76281980)
+#### [Broken authentication resources](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication-resources?u=76281980&t=0)** - [Instructor] Now let's take a look at broken authentication.
 >
-> **[0:03](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication-resources?u=76281980&t=3)** Again, you can actually access this from the top website, and then go into the specific broken authentication, or take a look at the OWASP Top 10, and then click on this one here.
+> **[0:03](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication-resources?u=76281980&t=3)** Again, you can actually access this from the top website, and then go into the specific broken authentication, or take a look at the [[OWASP]] Top 10, and then click on this one here.
 >
 > **[0:18](https://www.linkedin.com/learning/foundational-javascript-security/broken-authentication-resources?u=76281980&t=18)** So if you remember, this type of attack is when a hacker is able to access your application through your authentication mechanism, either from weak password policies, or weak authentication system.
 >
@@ -1115,15 +1080,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** owasp (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sensitive data exposure resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/sensitive-data-exposure-resources?u=76281980)
+#### [Sensitive data exposure resources](https://www.linkedin.com/learning/foundational-javascript-security/sensitive-data-exposure-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,14 +1107,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (3), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** hsts (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### XML external entities resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities-resources?u=76281980)
+#### [XML external entities resources](https://www.linkedin.com/learning/foundational-javascript-security/xml-external-entities-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,13 +1134,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (1), web (1)
 > **Env Vars:** xml (4), sast (2), xxe (1), asap (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Security misconfiguration resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/security-misconfiguration-resources?u=76281980)
+#### [Security misconfiguration resources](https://www.linkedin.com/learning/foundational-javascript-security/security-misconfiguration-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1170,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), application (2), api (2), data (2)
 > **Env Vars:** api (2)
 > **UI Navigation:** open the (1), go to (1)
 > **Tools:** visual studio (1)
@@ -1219,8 +1178,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - security (1)
 
-#### Secure deserialization resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/secure-deserialization-resources?u=76281980)
+#### [Secure deserialization resources](https://www.linkedin.com/learning/foundational-javascript-security/secure-deserialization-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1240,13 +1198,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: What is secured deserialization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-secured-deserialization?u=76281980)
+#### [Challenge: What is secured deserialization?](https://www.linkedin.com/learning/foundational-javascript-security/challenge-what-is-secured-deserialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,8 +1222,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: What is secured deserialization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-secured-deserialization?u=76281980)
+#### [Solution: What is secured deserialization?](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-secured-deserialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1275,7 +1230,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-secured-deserialization?u=76281980&t=14)** Without going over everything we did in that video, these are the main points we were looking for.
 >
-> **[0:20](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-secured-deserialization?u=76281980&t=20)** Deserialization is the transformation of data coming from a file or the network, typically from a JSON or XML format, into an object that your application can read.
+> **[0:20](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-secured-deserialization?u=76281980&t=20)** Deserialization is the transformation of data coming from a file or the network, typically from a [[JSON]] or XML format, into an object that your application can read.
 >
 > **[0:31](https://www.linkedin.com/learning/foundational-javascript-security/solution-what-is-secured-deserialization?u=76281980&t=31)** So insecure deserialization is when hackers exploit untrusted data to render the applications resources useless, like a denial of service attack, or even execute code inside your application.
 >
@@ -1283,7 +1238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1), xml (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1293,8 +1248,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,7 +1262,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980&t=28)** Simply do a search under security, hacking, or even language essentials, watching these courses along with constant vigilance of your code will go a long way to reducing the vulnerability of your code.
 >
-> **[0:41](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980&t=41)** I would also subscribe to the language and security-based feeds in the case of this course, for example, JavaScript.
+> **[0:41](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980&t=41)** I would also subscribe to the language and security-based feeds in the case of this course, for example, [[JavaScript]].
 >
 > **[0:48](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980&t=48)** This will allow you to be well-informed of the latest updates around your language, and what dangers lurk in your code.
 >
@@ -1326,7 +1280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Search]] (1), [[JavaScript]] (1), teams (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)

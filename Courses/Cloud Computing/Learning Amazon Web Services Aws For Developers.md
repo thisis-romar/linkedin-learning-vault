@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started in AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980)
+#### [Getting started in AWS](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,11 +99,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=13)** There's so many features like Lambdas, DynamoDB, Elastic Beanstalk, Elastic Cash, cognito and step functions.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=21)** If that's not scary enough, what about S3, SQS, SNS, IAM, VPC, and EC2.
+> **[0:21](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=21)** If that's not scary enough, what about S3, SQS, SNS, IAM, VPC, and [[Amazon EC2|EC2]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=28)** Not to mention all the clouds, like Cloud Front, Cloud Formation and CloudWatch.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=33)** Let's remove the mystery of all these and get comfortable with Amazon Web Services.
+> **[0:33](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=33)** Let's remove the mystery of all these and get comfortable with [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:38](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980&t=38)** In this course, we're going to do a survey of many of the key features and services in AWS.
 >
@@ -120,13 +119,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), cloud (2), [[Amazon EC2|Ec2]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** aws (5), sqs (1), sns (1), iam (1), vpc (1)
 > **CLI Commands:** aws (5)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/what-you-should-know?u=76281980&t=7)** So to get the most out of this course, I'd recommend that you're some type of developer, just someone who's familiar with the concepts of developing, using editors, potentially compiling code or deploying it.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/what-you-should-know?u=76281980&t=19)** Also, I'd recommend that you're familiar with server development concepts, things like APIs, using SDKs, different concepts of running code on a server and possibly online database and other storage systems, and that you're the type of person who's currently seeking to understand cloud development, specifically with AWS.
+> **[0:19](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/what-you-should-know?u=76281980&t=19)** Also, I'd recommend that you're familiar with server development concepts, things like APIs, using SDKs, different concepts of running code on a server and possibly online database and other storage systems, and that you're the type of person who's currently seeking to understand [[Cloud Development]], specifically with AWS.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/what-you-should-know?u=76281980&t=39)** That's what we're going to be focusing on during this course.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), database (1), [[Cloud Development]] (1)
+> **Frameworks & Libraries:** [[Cloud Development]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)
@@ -154,8 +152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS account and pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-account-and-pricing?u=76281980)
+#### [AWS account and pricing](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-account-and-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +200,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), feature (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (3)
 > **URLs:** [amazon.com](https://amazon.com) (2)
@@ -211,8 +207,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### AWS console and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980)
+#### [AWS console and services](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -244,13 +239,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=53)** All the services alphabetically, and then the kind of conceptual grouping of them.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=60)** So we could look at something like Analytics or Blockchain or Compute.
+> **[1:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=60)** So we could look at something like Analytics or [[Blockchain]] or Compute.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=65)** Now I use Lambda a lot. That's under Compute.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=67)** It's a great way to be able to build serverless functionality and languages like Python and Node js.
+> **[1:07](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=67)** It's a great way to be able to build serverless functionality and languages like [[Python (Programming Language)|Python]] and Node js.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=74)** You also have things like databases where you have DynamoDB, which is a NoSQL Database.
+> **[1:14](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=74)** You also have things like [[Databases]] where you have DynamoDB, which is a [[NoSQL]] Database.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=79)** You also have RDS, which is a relational database service.
 >
@@ -262,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=94)** So things like Amplify that ties a lot of services together for development using web or mobile platforms.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=102)** And AppSync for creating a GraphQL API.
+> **[1:42](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=102)** And AppSync for creating a [[GraphQL]] API.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-console-and-services?u=76281980&t=106)** I love using that service.
 >
@@ -310,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), database (3), web (2), [[Analytics]] (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (1), [[Python (Programming Language)|Python]] (1), [[Databases]] (1), [[NoSQL]] (1), [[GraphQL]] (1)
 > **Env Vars:** aws (6), rds (1), api (1), iam (1), url (1)
 > **CLI Commands:** aws (7), python (1), node (1)
 > **Definitions:** is a  (4)
@@ -318,8 +313,7 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - so (1)
 
-#### Certified Developer-Associate
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/certified-developer-associate?u=76281980)
+#### [Certified Developer-Associate](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/certified-developer-associate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +347,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Programming]] (1), application (1), management (1), [[Debugging]] (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -366,8 +359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identity and Access Management (IAM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980)
+#### [Identity and Access Management (IAM)](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980&t=53)** If we look at the policy summary here, we'll see that for every service they have full access on all resources.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980&t=60)** We can look at the JSON.
+> **[1:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980&t=60)** We can look at the [[JSON]].
 >
 > **[1:01](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980&t=61)** We see it uses wildcards to allow everything on everything.
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), next (2), aws (2), management (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** iam (4), aws (2), iiam (1), json (1), sns (1)
 > **CLI Commands:** aws (2), find (1)
 > **Cross-References:** in the next (2)
@@ -440,8 +432,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 
-#### Users and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/users-and-groups?u=76281980)
+#### [Users and groups](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/users-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** api (2), sdk (1)
 > **Tools:** command line (2)
@@ -551,8 +541,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Roles and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/roles-and-policies?u=76281980)
+#### [Roles and policies](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/roles-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,7 +583,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/roles-and-policies?u=76281980&t=77)** It already has a description.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/roles-and-policies?u=76281980&t=78)** I can see the JSON.
+> **[1:18](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/roles-and-policies?u=76281980&t=78)** I can see the [[JSON]].
 >
 > **[1:20](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/roles-and-policies?u=76281980&t=80)** I see the permissions.
 >
@@ -648,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1), api (1), aws (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** arn (2), api (1), aws (1), json (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **UI Navigation:** go to (2)
@@ -657,8 +646,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cognito
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cognito?u=76281980)
+#### [Cognito](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cognito?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,14 +680,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), next (1)
 > **Env Vars:** aws (7), mfa (1)
 > **CLI Commands:** aws (7)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Identity pools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-pools?u=76281980)
+#### [Identity pools](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-pools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,15 +771,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), hit (2), [[Analytics]] (2), [[Security]] (1), next (1)
 > **Env Vars:** api (5), iam (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identity provider (IdP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980)
+#### [Identity provider (IdP)](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +799,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=32)** But you can use some other services like Amazon, where you put in the app ID or Apple, Facebook.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=39)** All of these services have different routes, but typically you would go there, create the Facebook app or the Google app, and you would get the client ID and follow the steps for creating that.
+> **[0:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=39)** All of these services have different routes, but typically you would go there, create the Facebook app or the [[Google]] app, and you would get the client ID and follow the steps for creating that.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-provider-idp?u=76281980&t=52)** Open ID and SAML typically are for existing server logins and you would have to facilitate that authentication through the steps in IAM.
 >
@@ -827,12 +811,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** saml (1), iam (1)
 > **Speakers:** - [instructor] (1)
 
-#### User pools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/user-pools?u=76281980)
+#### [User pools](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/user-pools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +889,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), web (1), [[Analytics]] (1), hit (1), api (1)
 > **Env Vars:** arn (2), mfa (1), api (1)
 > **UI Navigation:** click on (2), select the (1), go to (1)
 > **Cross-References:** go back to (3)
@@ -919,8 +901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SDK and tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980)
+#### [SDK and tools](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=58)** But these command line interfaces are really helpful and pretty easy to use.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=62)** The AWS CLI, you'll see a lot of commands when you're working and going through tutorials of how to do things with AWS through the command line and the Amplify CLI's really helpful when you're developing locally for a web app or a mobile app.
+> **[1:02](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=62)** The AWS [[CLI]], you'll see a lot of commands when you're working and going through tutorials of how to do things with AWS through the command line and the Amplify CLI's really helpful when you're developing locally for a web app or a mobile app.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=78)** It can add features and services to your app locally and sync it automatically with AWS and your project online.
 >
@@ -980,7 +961,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=140)** So you have the SDKs up here.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=142)** You have the web and mobile SDKs right here, internet of things, the IDE.
+> **[2:22](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=142)** You have the web and mobile SDKs right here, [[IoT|internet of things]], the IDE.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980&t=147)** So you can code in your own IDE, even the online IDE.
 >
@@ -1000,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), web (4), [[CLI]] (4), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[CLI]] (4), [[IoT|Internet of things]] (1)
 > **Env Vars:** aws (8), cli (4), ide (4)
 > **CLI Commands:** aws (9)
 > **Tools:** command line (4)
@@ -1009,8 +990,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple Storage Service (S3)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-storage-service-s3?u=76281980)
+#### [Simple Storage Service (S3)](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-storage-service-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1084,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), web (2)
 > **UI Navigation:** click on (5), go to (1), scroll down (1)
 > **Env Vars:** aws (3), url (2), arn (1)
 > **Analogies:** for example (3), kind of like (2)
@@ -1113,8 +1092,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### DynamoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980)
+#### [DynamoDB](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,7 +1150,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=111)** I'm going to explore the table items, which, of course, we don't have any yet but I can create one with the Create item button, and I just put in the values like bear, 1234.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=120)** I can even add additional attributes or view the JSON here.
+> **[2:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=120)** I can even add additional attributes or view the [[JSON]] here.
 >
 > **[2:03](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=123)** I'm going to create this item.
 >
@@ -1226,7 +1204,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=239)** I love the AppSync service.
 >
-> **[4:02](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=242)** That uses a GraphQL API into a DynamoDB table.
+> **[4:02](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=242)** That uses a [[GraphQL]] API into a DynamoDB table.
 >
 > **[4:06](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/dynamodb?u=76281980&t=246)** And also, API Gateway can send requests to a Lambda, which can also access DynamoDB.
 >
@@ -1244,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), api (3), database (2), aws (2), management (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[GraphQL]] (1)
 > **CLI Commands:** make (6), aws (2)
 > **Env Vars:** api (3), aws (2), json (1)
 > **Code Identifiers:** userid (3), createdat (1)
@@ -1252,8 +1230,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980)
+#### [Lambda](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1264,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=59)** Or you can use one of these repositories, which in many cases use additional AWS Services inside of the code.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=66)** We're going to use a blueprint, and I'm going to do a filter on the word poller.
+> **[1:06](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=66)** We're going to use a blueprint, and I'm going to do a filter on the [[Microsoft Word|word]] poller.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=71)** We're going to use SQS later, so this Lambda will set us up and get us ready for that.
 >
@@ -1373,13 +1350,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=244)** Lambda's incredibly helpful.
 >
-> **[4:06](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=246)** I use them all the time in apps where I create an API to run functionality, fetch, delete, update data in a Dynamo database, return back the JSON.
+> **[4:06](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=246)** I use them all the time in apps where I create an API to run functionality, [[Fetch]], delete, update data in a Dynamo database, return back the [[JSON]].
 >
 > **[4:18](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda?u=76281980&t=258)** And I'm able to create a very useful and effective server-side functional presence without being a pure web developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), aws (2), data (2), [[Microsoft Word|Word]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Fetch]] (1), [[JSON]] (1)
 > **Env Vars:** sqs (4), api (3), aws (2), iam (2), uri (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **Exercise Files:** template (4), boilerplate (1), zip file (1)
@@ -1393,8 +1370,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple Queue Service (SQS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980)
+#### [Simple Queue Service (SQS)](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1410,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980&t=22)** Messages can be passed back and forth for functionality or any kind of notifications.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980&t=27)** And it automatically uses SSE and KMS for security and encryption.
+> **[0:27](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980&t=27)** And it automatically uses [[Server-Sent Events|SSE]] and KMS for security and encryption.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980&t=32)** That happens behind the scenes so you don't really have to do anything for that, it's automatic.
 >
@@ -1502,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Server-Sent Events|Sse]] (1), [[Security]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Server-Sent Events|Sse]] (1)
 > **Env Vars:** sqs (10), aws (3), sse (1), kms (1)
 > **CLI Commands:** aws (3), make (3)
 > **Cross-References:** go back to (3), we mentioned (1)
@@ -1511,8 +1487,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Analogies:** for example (1)
 
-#### Simple Notification Service (SNS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-notification-service-sns?u=76281980)
+#### [Simple Notification Service (SNS)](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-notification-service-sns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,7 +1543,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), data (1)
 > **Env Vars:** sqs (8), sns (5), aws (2)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** aws (2), make (1)
@@ -1576,8 +1550,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - another (1)
 
-#### Events and Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/events-and-lambda?u=76281980)
+#### [Events and Lambda](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/events-and-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,15 +1614,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Env Vars:** sqs (5), sns (3)
 > **UI Navigation:** go to (5), click on (2)
 > **Code Identifiers:** userid (1), createdat (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/step-functions?u=76281980)
+#### [Step Functions](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/step-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1732,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), next (2), [[Automation]] (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (2)
 > **CLI Commands:** aws (3), make (1)
 > **Env Vars:** aws (2), url (1)
@@ -1769,14 +1739,14 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 5. Deployment, Scalability, and Monitoring
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elastic Beanstalk
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980)
+#### [Elastic Beanstalk](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,9 +1758,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=11)** It supports a variety of languages and servers.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=15)** It'll create elastic compute cloud instances for you, or EC2 instances.
+> **[0:15](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=15)** It'll create elastic compute cloud instances for you, or [[Amazon EC2|EC2]] instances.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=21)** They can run on Amazon Linux or MS Windows servers configured for your web apps.
+> **[0:21](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=21)** They can run on Amazon [[Linux]] or MS [[Windows]] servers configured for your web apps.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=27)** It also uses a security configuration so that port 80 is set up for ingress only.
 >
@@ -1822,7 +1792,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=98)** And it is a local file, so I can go to choose file.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=102)** In the example files provided you can go to chapter five in 0501 and select the Java Tomcat zip file and click open.
+> **[1:42](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=102)** In the example files provided you can go to chapter five in 0501 and select the [[Java]] Tomcat zip file and click open.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=111)** Once that's uploaded, we can click create application.
 >
@@ -1874,11 +1844,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=267)** But anyway, that's just a quick look at Elastic Beanstalk.
 >
-> **[4:29](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=269)** A way that can help you spin up virtual servers and environments, run your uploaded code, control the versions without having to deal with as much server side set up and hardware maintenance.
+> **[4:29](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980&t=269)** A way that can help you spin up virtual servers and environments, run your uploaded code, control the versions without having to deal with as much server side set up and [[Hardware]] maintenance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Amazon EC2|Ec2]] (4), [[Search]] (4), aws (3), web (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Linux]] (1), [[Windows]] (1), [[Java]] (1), [[Hardware]] (1)
 > **Env Vars:** vpc (8), ec2 (3), aws (2), url (1)
 > **UI Navigation:** click on (5), go to (3), select the (2), scroll down (1)
 > **CLI Commands:** aws (3), find (1)
@@ -1887,8 +1857,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 
-#### CloudFormation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980)
+#### [CloudFormation](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,7 +1881,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=55)** I'm going to click on the template tab up here.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=57)** I'm going to close this area over on the left for some space and notice that it uses JSON, and there's a lot of it.
+> **[0:57](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=57)** I'm going to close this area over on the left for some space and notice that it uses [[JSON]], and there's a lot of it.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=64)** But it ultimately also can be viewed in the Designer.
 >
@@ -1934,15 +1903,15 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=113)** So again, it uses CloudFormation to create all the things necessary.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=117)** For our app and Elastic Beanstalk, all we did was write the Java code, the code that I provided in the exercise files or whatever code you want to use, we didn't have to worry about all of the administration and setup and configuration, it took care of all those pieces.
+> **[1:57](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=117)** For our app and Elastic Beanstalk, all we did was write the [[Java]] code, the code that I provided in the exercise files or whatever code you want to use, we didn't have to worry about all of the administration and setup and configuration, it took care of all those pieces.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=132)** And I really love being able to just focus on the code and not have to worry about all the formation.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=137)** So I try to favor using tools like Amplify and Amplify CLI, the command line interface, because it also uses CloudFormation and allows me to focus on the code and what I'm trying to develop.
+> **[2:17](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudformation?u=76281980&t=137)** So I try to favor using tools like Amplify and Amplify [[CLI]], the command line interface, because it also uses CloudFormation and allows me to focus on the code and what I'm trying to develop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[JSON]] (2), [[Search]] (1), [[Java]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Java]] (1), [[CLI]] (1)
 > **Env Vars:** json (2), awseb (1), yaml (1), cli (1)
 > **Exercise Files:** template (4), exercise files (1)
 > **UI Navigation:** click on (3)
@@ -1951,8 +1920,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Prerequisites:** setup (1)
 
-#### ElastiCache
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elasticache?u=76281980)
+#### [ElastiCache](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elasticache?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2006,15 +1974,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), node (2), next (2), [[Search]] (1), cloud (1)
 > **CLI Commands:** node (2)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** set up (2)
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda using cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda-using-cache?u=76281980)
+#### [Lambda using cache](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda-using-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2026,7 +1992,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda-using-cache?u=76281980&t=16)** And I'm going to name it lambdacache.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda-using-cache?u=76281980&t=20)** We're going to use Python, so I'll select the latest version of Python.
+> **[0:20](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda-using-cache?u=76281980&t=20)** We're going to use [[Python (Programming Language)|Python]], so I'll select the latest version of Python.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/lambda-using-cache?u=76281980&t=24)** And we could change the existing role from IAM if we already knew we had one.
 >
@@ -2138,7 +2104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Search]] (2), [[Python (Programming Language)|Python]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **UI Navigation:** click on (4), select the (4), scroll down (2), navigate to (1), dropdown (1)
 > **Env Vars:** vpc (5), iam (2), url (2), uuid (2)
 > **Prerequisites:** setup (3), configure (2), set up (1)
@@ -2147,12 +2113,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **File Paths:** app.py (1)
 
-#### CloudFront
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980)
+#### [CloudFront](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=0)** - [Instructor] Another type of data storage that helps with caching and performance is to use a content delivery network.
+> **[0:00](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=0)** - [Instructor] Another type of [[Data Storage]] that helps with caching and performance is to use a content delivery network.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=7)** In AWS, that's called CloudFront.
 >
@@ -2198,7 +2163,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=116)** So feel free to go get a cup of coffee here, and then we'll pick back up where we left off.
 >
-> **[2:01](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=121)** Once it finishes deploying, we can copy this distribution domain name, open another tab, put /index.html on the end, and there's our file, our wonderful HTML file.
+> **[2:01](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=121)** Once it finishes deploying, we can copy this distribution domain name, open another tab, put /index.[[HTML]] on the end, and there's our file, our wonderful HTML file.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudfront?u=76281980&t=133)** So you can see how CloudFront can be really useful for distributing files all over the world for fast access, especially media files and other files that may not change very often.
 >
@@ -2206,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), data (1), aws (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Data Storage]] (1)
 > **Env Vars:** oai (2), aws (1), html (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** index.html (1)
@@ -2215,8 +2180,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudwatch?u=76281980)
+#### [CloudWatch](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2260,7 +2224,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudwatch?u=76281980&t=95)** So we should see whatever the alarm is in the log file eventually.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudwatch?u=76281980&t=99)** We're going to leave the defaults for the rest, click Next.
+> **[1:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudwatch?u=76281980&t=99)** We're going to leave the defaults for the [[Representational State Transfer (REST)|rest]], click Next.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cloudwatch?u=76281980&t=102)** Give it a name, putalarm.
 >
@@ -2326,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), aws (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (6), click on (1)
 > **Env Vars:** sns (2), sqs (1), aws (1)
 > **CLI Commands:** aws (1)
@@ -2340,8 +2304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980)
+#### [Cleanup](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2363,7 +2326,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980&t=46)** We also talked about how Elastic Beanstalk uses Cloud Formation and creates a stack with a variety of resources underneath that.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980&t=54)** Other services like the Amplify CLI can create stacks and nested stack.
+> **[0:54](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980&t=54)** Other services like the Amplify [[CLI]] can create stacks and nested stack.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980&t=59)** It's always best to delete those from the highest point possible.
 >
@@ -2381,14 +2344,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), aws (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **UI Navigation:** go to (3)
 > **Env Vars:** aws (1), cli (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,15 +2368,15 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980&t=39)** Check out the other AWS courses.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980&t=41)** And if you're working on a mobile app, check out the course on Amplify CLI.
+> **[0:41](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980&t=41)** And if you're working on a mobile app, check out the course on Amplify [[CLI]].
 >
-> **[0:46](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980&t=46)** Also, feel free to let me know what you're working on and keep in touch at [brainwashinc.com](https://brainwashinc.com), @brainofbear on Twitter and on LinkedIn.
+> **[0:46](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980&t=46)** Also, feel free to let me know what you're working on and keep in touch at [brainwashinc.com](https://brainwashinc.com), @brainofbear on Twitter and on [[LinkedIn]].
 >
 > **[0:54](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/next-steps?u=76281980&t=54)** Thanks!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (1), [[CLI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[LinkedIn]] (1)
 > **Env Vars:** aws (4), sns (1), iam (1), cli (1)
 > **CLI Commands:** aws (4), make (1)
 > **URLs:** [brainwashinc.com](https://brainwashinc.com) (1)

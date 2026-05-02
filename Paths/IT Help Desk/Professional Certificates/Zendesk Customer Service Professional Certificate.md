@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/zendesk-customer-service-profession
 course_count: 6
 linkedin_topics:
   - IT Help Desk
-louvain_cluster: 17
+louvain_cluster: 15
 tags:
   - professional-certificate
   - topic/it-help-desk

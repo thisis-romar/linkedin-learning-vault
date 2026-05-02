@@ -59,8 +59,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of business is XaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/the-future-of-business-is-xaas?u=76281980)
+#### [The future of business is XaaS](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/the-future-of-business-is-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (1)
 > **Env Vars:** covid (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [announcer] (1)
@@ -105,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A brief history of business computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980)
+#### [A brief history of business computing](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,13 +143,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=154)** The benefits and subsequent demand for internet services and the Web meant that innovation moved quickly.
 >
-> **[2:42](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=162)** Through the early 2000s, new languages for Web development emerged, internet browsers matured and upgrades to local and public networks enabled the delivery of faster access and more capability.
+> **[2:42](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=162)** Through the early 2000s, new languages for [[Web Development]] emerged, internet browsers matured and upgrades to local and public networks enabled the delivery of faster access and more capability.
 >
 > **[2:58](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=178)** By the late 2000s into the 2010s, full-feature rich business applications were being delivered over the internet.
 >
 > **[3:06](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=186)** For these applications, organizations no longer needed to acquire infrastructure; they weren't required to take care of sulfur maintenance.
 >
-> **[3:15](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=195)** Gradually, more computing capabilities were being delivered over the internet such as data storage and security.
+> **[3:15](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=195)** Gradually, more computing capabilities were being delivered over the internet such as [[Data Storage]] and security.
 >
 > **[3:24](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=204)** Abstracting the computing complexity from the customer's organization meant that they no longer had to be too consumed with the technology and could focus on their core competencies.
 >
@@ -160,22 +157,21 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=226)** These as-a-service solutions now roll up to an encompassing category of computing called everything as a service or X as a service.
 >
-> **[3:56](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=236)** The advantages of X as a service now extend beyond the original benefits and are powering the digital transformation of business and the future of work.
+> **[3:56](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980&t=236)** The advantages of X as a service now extend beyond the original benefits and are powering the [[Digital Transformation]] of business and the future of work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), web (2), [[Engineering]] (1), power (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1), [[Data Storage]] (1), [[Digital Transformation]] (1)
 > **Cross-References:** later in (1)
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
 > **Speakers:** - understanding (1)
 
-#### A brief history of XaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980)
+#### [A brief history of XaaS](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=1)** - In the 1990s, the internet was a major catalyst for innovation in network speed and recently healthy telecommunications competition, forced costs downwards.
+> **[0:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=1)** - In the 1990s, the internet was a major catalyst for innovation in network speed and recently healthy [[Telecommunications]] competition, forced costs downwards.
 >
 > **[0:14](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=14)** This combination of internet standard technology, broadband networks, and low costs enabled more technology to be delivered remotely.
 >
@@ -193,7 +189,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=86)** That said, because of its clear business benefits, the ASP model became popular for several years.
 >
-> **[1:35](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=95)** The ASP option for organizations hasn't completely disappeared, but it's largely being displaced by its successor, software as a service or SaaS.
+> **[1:35](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=95)** The ASP option for organizations hasn't completely disappeared, but it's largely being displaced by its successor, [[SaaS|software as a service]] or [[SaaS]].
 >
 > **[1:47](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=107)** Why did this happen?
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=180)** The ability to extend access to a multitude of rich computing solutions for both providers and customers from any device, at any time from anywhere at relatively low cost is a central breakthrough of the as a service solution space.
 >
-> **[3:21](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=201)** The SaaS model of as a service, delivered over the internet quickly expanded to include infrastructures as a service, IaaS, that includes services such as storage and data backups and platform as a service, PaaS, which includes databases and programming environments.
+> **[3:21](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=201)** The SaaS model of as a service, delivered over the internet quickly expanded to include infrastructures as a service, [[IaaS]], that includes services such as storage and data backups and [[PaaS|platform as a service]], [[PaaS]], which includes [[Databases]] and programming environments.
 >
 > **[3:42](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-xaas?u=76281980&t=222)** Many more as a services are coming online.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SaaS]] (8), application (5), business (4), data (2), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (8), [[Telecommunications]] (1), [[SaaS|Software as a service]] (1), [[IaaS]] (1), [[PaaS|Platform as a service]] (1)
 > **Env Vars:** asp (6)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -231,14 +227,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the different types of XaaS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980)
+#### [What are the different types of XaaS?](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=1)** - As of early 2020, there are many different types of as-a-services.
 >
-> **[0:06](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=6)** However, the space is still dominated by three main areas, software-as-a-service or SaaS, platform-as-a-service or PaaS, and infrastructure-as-a-service or IaaS.
+> **[0:06](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=6)** However, the space is still dominated by three main areas, software-as-a-service or [[SaaS]], platform-as-a-service or [[PaaS]], and infrastructure-as-a-service or [[IaaS]].
 >
 > **[0:21](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=21)** I'll first summarize these and end-introduce you to a few other emerging cloud-based services.
 >
@@ -250,11 +245,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=53)** All maintenance and support provided by the vendor.
 >
-> **[0:57](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=57)** Usually no special software or hardware is required on the customer side.
+> **[0:57](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=57)** Usually no special software or [[Hardware]] is required on the customer side.
 >
 > **[1:04](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=64)** Almost every category of software is been delivered and used in this fashion.
 >
-> **[1:10](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=70)** Popular productivity suites, such as Microsoft 365, Google gaps are provided by SaaS.
+> **[1:10](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=70)** Popular productivity suites, such as [[Microsoft 365]], [[Google]] gaps are provided by SaaS.
 >
 > **[1:20](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=80)** As our major financial applications, customer relationship management, talent and learning systems and computer aided design or CAD.
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=143)** In particular, PaaS vendors provide comprehensive development and deployment tools for web-based applications.
 >
-> **[2:32](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=152)** This includes development languages, databases, reporting tools, and data and application storage.
+> **[2:32](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=152)** This includes development languages, [[Databases]], reporting tools, and data and application storage.
 >
 > **[2:43](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=163)** Infrastructure-as-a-service or IaaS, is considered instant technology infrastructure.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=210)** This fact is not really that important.
 >
-> **[3:33](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=213)** What should be noted, is the ally of services that can be easily provisioned now from cloud services over the internet.
+> **[3:33](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=213)** What should be noted, is the ally of services that can be easily provisioned now from [[Cloud Services]] over the internet.
 >
 > **[3:43](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=223)** Outside of the three main as-a-services, there's a long list of emerging solutions.
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=278)** Security-as-a-service or SECaaS, is when a cloud provider hosts and manages the security needs of any organization.
 >
-> **[4:49](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=289)** These cyber security services include antivirus, encryption, identity management and intrusion detection.
+> **[4:49](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=289)** These cyber security services include antivirus, encryption, identity management and [[Intrusion Detection]].
 >
 > **[5:00](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980&t=300)** Other as a service solutions now include, knowledge-as-a-service, monitoring-as-a-service, artificial-intelligence-as-a-service, and video (chuckles) as-a-service.
 >
@@ -314,14 +309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PaaS]] (6), [[SaaS]] (5), [[IaaS]] (4), web (4), cloud (3)
+> **Frameworks & Libraries:** [[PaaS]] (6), [[SaaS]] (5), [[IaaS]] (4), [[Hardware]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** cad (1), hpc (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
 
-#### Benefits of XaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980)
+#### [Benefits of XaaS](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=49)** As a result, the complexity of a solution is largely eliminated.
 >
-> **[0:55](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=55)** And the costs of deploying expensive new hardware and software are unnecessary.
+> **[0:55](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=55)** And the costs of deploying expensive new [[Hardware]] and software are unnecessary.
 >
 > **[1:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=61)** Instead of using cash for these capital expenses or capex, the money can be used in other areas of the business.
 >
@@ -351,7 +345,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=114)** X as a service can outsource complexity.
 >
-> **[1:57](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=117)** For example, emerging areas of X as a service include cybersecurity, healthcare management, and communication platforms.
+> **[1:57](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=117)** For example, emerging areas of X as a service include [[Cybersecurity]], healthcare management, and communication platforms.
 >
 > **[2:07](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=127)** Rather than your organization planning, design, deploying and maintaining these types of solutions, you can simply acquire them as fully functional services.
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=158)** For example, if your business sees sudden increases in online sales due to a successful marketing campaign, you can promptly ramp up the performance of relevant systems by acquiring additional on demand processing capability.
 >
-> **[2:58](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=178)** An advantage of X as a service is support for rapid software development.
+> **[2:58](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=178)** An advantage of X as a service is support for rapid [[Software Development]].
 >
 > **[3:06](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/benefits-of-xaas?u=76281980&t=186)** If your organization wants to build its own solution, X as a service provides development platforms where engineers can access the programming language and the hardware and software stack of their choice.
 >
@@ -387,13 +381,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Hardware]] (2), [[Cybersecurity]] (2), management (2), functional (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Cybersecurity]] (2), [[Software Development]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - let (1)
 
-#### Digital transformation and XaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980)
+#### [Digital transformation and XaaS](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,9 +394,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=11)** The first industrial revolution began in Europe in the 1700s and it was defined by the use of steam as a way to propel machines and transport, the growth of cities and the invention of new material such as steel.
 >
-> **[0:26](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=26)** In the 1800s, a second revolution ushered in the era of electricity, mass production, and telecommunications.
+> **[0:26](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=26)** In the 1800s, a second revolution ushered in the era of electricity, mass production, and [[Telecommunications]].
 >
-> **[0:38](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=38)** By the mid 20th century, a third revolution arrived that brought electronics and information technology to the world.
+> **[0:38](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=38)** By the mid 20th century, a third revolution arrived that brought [[Electronics]] and information technology to the world.
 >
 > **[0:47](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=47)** In each revolution, the world before was different from the world after.
 >
@@ -415,13 +408,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=69)** Rather than impacting certain regions, the fourth industrial revolution has greater scope and impact on the world.
 >
-> **[1:19](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=79)** It will be driven by new technologies such as artificial intelligence, cloud computing, and self-driving cars, personalized medicine, and new materials, smart cities, and digitalization.
+> **[1:19](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=79)** It will be driven by new technologies such as [[Artificial Intelligence (AI)|artificial intelligence]], [[Cloud Computing]], and self-driving cars, personalized medicine, and new materials, smart cities, and digitalization.
 >
 > **[1:37](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=97)** In particular, digitalization, the use of digital technologies to operate more efficiently, power new business models, and produce new opportunities for delivering value will be a central theme of the fourth industrial revolution.
 >
 > **[1:55](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=115)** It's already transforming organizations and the marketplace.
 >
-> **[2:00](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=120)** This so-called digital transformation is creating new businesses and destroying others.
+> **[2:00](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=120)** This so-called [[Digital Transformation]] is creating new businesses and destroying others.
 >
 > **[2:08](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=128)** It is challenging every type of organization, forcing a rethink of what and how value is delivered.
 >
@@ -429,11 +422,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=148)** In the first wave from 1985 to 1999 the technology was fairly basic.
 >
-> **[2:36](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=156)** Big players such as Cisco and IBM built the backend hardware and the first Websites were simple.
+> **[2:36](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=156)** Big players such as Cisco and IBM built the backend [[Hardware]] and the first Websites were simple.
 >
 > **[2:46](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=166)** In the second wave from 2000 through 2015, the internet and World Wide Web matured rapidly.
 >
-> **[2:56](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=176)** Entire businesses went online, including the emergence of eCommerce and Web-enabled productivity suites from Google and Salesforce.
+> **[2:56](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=176)** Entire businesses went online, including the emergence of eCommerce and Web-enabled productivity suites from [[Google]] and Salesforce.
 >
 > **[3:08](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=188)** Social media, search, and smartphone apps all flourished.
 >
@@ -449,13 +442,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=237)** Well, none other than everything as a service.
 >
-> **[4:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=241)** Digital transformation is riding on software as a service, infrastructure as a service, platform as a service, and many other as-a-service functions.
+> **[4:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=241)** Digital transformation is riding on [[SaaS|software as a service]], [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]], and many other as-a-service functions.
 >
 > **[4:14](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/digital-transformation-and-xaas?u=76281980&t=254)** To complete in the 21st century, to build smarter cities, and to meet the enormous challenges of our times will require individuals to embrace digital transformation and the attendant as a services that will be essential to powering this new era.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (4), cloud (3), business (2), [[Hardware]] (2), web (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Cloud Computing]] (3), [[Hardware]] (2), [[Telecommunications]] (1), [[Electronics]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** ceo (1), ibm (1)
 > **Code Identifiers:** ecommerce (1)
@@ -466,8 +459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic architecture of XaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980)
+#### [Basic architecture of XaaS](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +479,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=69)** This standardization has remarkable utility.
 >
-> **[1:13](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=73)** It means that, as long as you have an Internet connection, a browser, and some minimum device hardware, you can access X as a service capabilities.
+> **[1:13](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=73)** It means that, as long as you have an Internet connection, a browser, and some minimum device [[Hardware]], you can access X as a service capabilities.
 >
 > **[1:24](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=84)** Using Internet standards means the software doesn't care, for example, if you have a PC or an Apple computer.
 >
@@ -531,33 +523,32 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=230)** Due to additional standards, and a commitment to support complimentary systems, integration is finding solid support in the X as a service provider community.
 >
-> **[4:03](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=243)** By simplifying the architecture and deployment of technology services, X as a service enables organizations to focus on innovation, embrace digital transformation, and move more quickly.
+> **[4:03](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=243)** By simplifying the architecture and deployment of technology services, X as a service enables organizations to focus on innovation, embrace [[Digital Transformation]], and move more quickly.
 >
 > **[4:20](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980&t=260)** These are all necessary facets of success in a hyper-competitive 21st century marketplace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Hardware]] (1), application (1), data (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Digital Transformation]] (1)
 > **Definitions:** means that (4), is a  (1), is an  (1), in other words (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
 > **Tools:** safari (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skills required for delivering XaaS
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980)
+#### [Skills required for delivering XaaS](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=1)** - The journey of IT over the years has been surprising in so many ways.
 >
-> **[0:06](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=6)** Back in 1990, it would have been difficult to imagine today's world of smartphones, blockchain technology, artificial intelligence, and cloud computing.
+> **[0:06](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=6)** Back in 1990, it would have been difficult to imagine today's world of smartphones, [[Blockchain]] technology, [[Artificial Intelligence (AI)|artificial intelligence]], and [[Cloud Computing]].
 >
 > **[0:18](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=18)** Many technologists who have spent a few decades in IT have had a difficult time adjusting to the new realities of contemporary technology.
 >
 > **[0:29](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=29)** I can respect that.
 >
-> **[0:31](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=31)** Many of us were used to the complexity and candidly, the fun of procuring complex and expensive hardware and software, mounting it in a data center, configuring it, and then maintaining and supporting it.
+> **[0:31](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=31)** Many of us were used to the complexity and candidly, the fun of procuring complex and expensive [[Hardware]] and software, mounting it in a data center, configuring it, and then maintaining and supporting it.
 >
 > **[0:47](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=47)** This work requires valued and deep technical skills, but over the past 15 years, many aspects of enterprise technology have been reduced to a series of services that conceal complexity and simply provide a solution on demand via an internet browser.
 >
@@ -569,7 +560,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=85)** Enterprises have a huge volume of traditional systems that still need attention.
 >
-> **[1:32](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=92)** Areas such as software engineering, business analysis, project management, data science, vendor management, and security will not only remain relevant, but will even grow in demand.
+> **[1:32](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=92)** Areas such as software engineering, business analysis, project management, [[Data Science]], vendor management, and security will not only remain relevant, but will even grow in demand.
 >
 > **[1:48](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=108)** It's prudent to recognize the broader trends and begin considering the skill needs for a future where X as a service and related technologies will dominate.
 >
@@ -597,30 +588,29 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=234)** X as a service requires a mix of old and new skills.
 >
-> **[3:59](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=239)** Technologists still needs to understand the fundamentals of systems, network architecture, data and database management, service management, system administration, and various levels of software coding.
+> **[3:59](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=239)** Technologists still needs to understand the fundamentals of systems, network architecture, data and [[Database Management]], service management, [[System Administration]], and various levels of software coding.
 >
-> **[4:17](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=257)** New hard skills will include talents in cloud system integration, cybersecurity in the cloud, and an area called low coding.
+> **[4:17](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=257)** New hard skills will include talents in cloud system integration, [[Cybersecurity]] in the cloud, and an area called low coding.
 >
-> **[4:27](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=267)** Low coding is a software development approach that focuses on higher level languages, including function creation through graphical interfaces rather than lines of code.
+> **[4:27](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=267)** Low coding is a [[Software Development]] approach that focuses on higher level languages, including function creation through graphical interfaces rather than lines of code.
 >
 > **[4:40](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/skills-required-for-delivering-xaas?u=76281980&t=280)** The road to embracing the value of everything as a service requires acknowledgement and action regarding the right talent to achieve business goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (5), cloud (3), business (2), leadership (2)
+> **Frameworks & Libraries:** [[Blockchain]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1), [[Hardware]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1), such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - the (1)
 
-#### Challenges of XaaS: On-premises versus cloud-based technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980)
+#### [Challenges of XaaS: On-premises versus cloud-based technology](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=1)** - Early in the business use of information technology, all computing services were local.
 >
-> **[0:08](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=8)** Businesses would procure hardware and software and because the first central systems such as mainframes were rather large and created a lot of heat, they were set up in a dedicated and temperature-cooled room.
+> **[0:08](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=8)** Businesses would procure [[Hardware]] and software and because the first central systems such as mainframes were rather large and created a lot of heat, they were set up in a dedicated and temperature-cooled room.
 >
 > **[0:23](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=23)** More equipment was added to these rooms over time and they became known as data centers.
 >
@@ -628,9 +618,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=35)** So what might be some of the disadvantages of X as a service when compared with owning your own on-premises data center?
 >
-> **[0:43](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=43)** Depending on the type of X as a service, for example with software as a service, the customer may lose a lot of control.
+> **[0:43](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=43)** Depending on the type of X as a service, for example with [[SaaS|software as a service]], the customer may lose a lot of control.
 >
-> **[0:52](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=52)** With SaaS, the quality of a shared infrastructure also means being okay with unmodifiable services that are for use by all customers.
+> **[0:52](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=52)** With [[SaaS]], the quality of a shared infrastructure also means being okay with unmodifiable services that are for use by all customers.
 >
 > **[1:04](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=64)** While I've been complimentary of the integration of X as a service solutions, this can still be an area of concern.
 >
@@ -650,7 +640,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=132)** In addition, any issues with the public internet, including an outage can stop all work in its tracks.
 >
-> **[2:20](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=140)** Finally, a continuing debate is what platform provides better cybersecurity?
+> **[2:20](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=140)** Finally, a continuing debate is what platform provides better [[Cybersecurity]]?
 >
 > **[2:27](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/challenges-of-xaas-on-premises-versus-cloud-based-technology?u=76281980&t=147)** Some argue that on-premises enables your own team to control all access and defend from all attacks and that by outsourcing to X as a service providers, that guarantee is lost.
 >
@@ -660,7 +650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SaaS]] (2), [[Cybersecurity]] (2), business (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Cybersecurity]] (2), [[Hardware]] (1), [[SaaS|Software as a service]] (1)
 > **Definitions:** is a  (2), known as (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
@@ -668,8 +658,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - early (1)
 
-#### Case study: XaaS in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980)
+#### [Case study: XaaS in practice](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=28)** NewCo doesn't manufacture anything themselves, they provide specifications to a manufacturer, which distributes t-shirts directly to the buyer.
 >
-> **[0:38](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=38)** They also don't require an office.
+> **[0:38](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=38)** They also don't require an [[Microsoft Office|office]].
 >
 > **[0:40](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=40)** It's a small team and it's distributed across the United States.
 >
@@ -687,11 +676,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=53)** As a team, their first step in order to begin to work together is to find an efficient way to communicate.
 >
-> **[1:00](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=60)** From email to voice support, they'll use a small handful of software as a service or SaaS solutions.
+> **[1:00](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=60)** From email to voice support, they'll use a small handful of [[SaaS|software as a service]] or [[SaaS]] solutions.
 >
-> **[1:07](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=67)** Lots of vendor options exist that include big players such as Google and Microsoft.
+> **[1:07](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=67)** Lots of vendor options exist that include big players such as [[Google]] and [[Microsoft]].
 >
-> **[1:13](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=73)** They will likely use desktop video conferencing such as Zoom, and a collaboration platform such as Slack.
+> **[1:13](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=73)** They will likely use desktop video conferencing such as [[Zoom]], and a collaboration platform such as [[Slack]].
 >
 > **[1:20](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=80)** Their communication tools are enabled and active immediately.
 >
@@ -709,7 +698,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=136)** In time though, they'll likely need to upgrade to paid versions.
 >
-> **[2:21](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=141)** NewCo has the choice to build their own e-commerce platform, or use a SaaS based solution.
+> **[2:21](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=141)** NewCo has the choice to build their own [[E-Commerce]] platform, or use a SaaS based solution.
 >
 > **[2:28](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=148)** Each offers different advantages.
 >
@@ -719,7 +708,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=163)** NewCo has decided to build their own capability because they have the skills and want to build a unique solution.
 >
-> **[2:52](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=172)** To do this, they procure both infrastructure and platform as a service, IaaS and PaaS respectively.
+> **[2:52](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=172)** To do this, they procure both infrastructure and [[PaaS|platform as a service]], [[IaaS]] and [[PaaS]] respectively.
 >
 > **[3:01](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=181)** IaaS provides them with storage, web hosting, and processing requirements.
 >
@@ -731,9 +720,9 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=220)** While one part of this team focuses on building the sales platform, another group ramps up their operational needs.
 >
-> **[3:48](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=228)** Operations will need a problem management system and a knowledge base.
+> **[3:48](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=228)** Operations will need a [[Problem Management]] system and a knowledge base.
 >
-> **[3:53](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=233)** SaaS solutions such as ServiceNow and Jira are available.
+> **[3:53](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=233)** SaaS solutions such as ServiceNow and [[Jira]] are available.
 >
 > **[3:59](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/case-study-xaas-in-practice?u=76281980&t=239)** From reporting tools to project management and beyond, the operations team will acquire SaaS tools to meet all their needs.
 >
@@ -751,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SaaS]] (8), [[IaaS]] (3), [[PaaS]] (3), business (3), [[E-Commerce]] (2)
+> **Frameworks & Libraries:** [[SaaS]] (8), [[IaaS]] (3), [[PaaS]] (3), [[E-Commerce]] (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (6)
 > **Tools:** slack (1), jira (1)
 > **CLI Commands:** find (1)
@@ -763,8 +752,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you can do next
-> [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980)
+#### [What you can do next](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,9 +760,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980&t=7)** This was an introductory course, and I would suggest identifying an area that really interests you, and go deeper.
 >
-> **[0:16](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980&t=16)** LinkedIn Learning has lots of great courses on SaaS, I as a service, and PaaS solutions and development.
+> **[0:16](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980&t=16)** [[LinkedIn]] Learning has lots of great courses on [[SaaS]], I as a service, and [[PaaS]] solutions and development.
 >
-> **[0:26](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980&t=26)** For your organization, I recommend integrating the discussion on X as a service with your digital transformation strategy.
+> **[0:26](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980&t=26)** For your organization, I recommend integrating the discussion on X as a service with your [[Digital Transformation]] strategy.
 >
 > **[0:35](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980&t=35)** Ensure you have a process for evaluating and governing X as a service decisions.
 >
@@ -784,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1), [[SaaS]] (1), [[PaaS]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[SaaS]] (1), [[PaaS]] (1), [[Digital Transformation]] (1)
 > **Speakers:** - now (1)
 
 

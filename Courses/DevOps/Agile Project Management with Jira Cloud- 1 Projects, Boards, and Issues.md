@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980&t=0)** - [Instructor] Welcome to course one of the Agile Project Management with Jira Cloud Edition Series, presented by Atlassian University.
+> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980&t=0)** - [Instructor] Welcome to course one of the [[Agile Development|Agile]] Project Management with [[Jira]] Cloud Edition Series, presented by [[Atlassian]] University.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/course-overview?u=76281980&t=8)** At Atlassian University, our mission is to help Atlassian users like you develop new skills, improve your team's work, and advance your professional career.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), [[Agile Development|Agile]] (6), [[Atlassian]] (5), cloud (4), next (3)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Agile Development|Agile]] (6), [[Atlassian]] (5)
 > **Tools:** jira (8)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Prerequisites:** configure (2)
@@ -126,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile and Jira overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980)
+#### [Agile and Jira overview](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=0)** - [Instructor] In this video we will discuss both an agile and a Jira overview.
+> **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=0)** - [Instructor] In this video we will discuss both an [[Agile Development|agile]] and a [[Jira]] overview.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=4)** We will describe agile; We will describe Jira; Identify how Jira relates to an agile mindset; Create a Jira project; Create a Jira issue; Use a project board; And identify Jira user types.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=147)** A team that tries to be agile without the correct mindset will not be very effective.
 >
-> **[2:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=153)** The Agile Coach site, [atlassian.com/agile](https://atlassian.com/agile), contains great resources related to many aspects of agile.
+> **[2:33](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=153)** The Agile Coach site, [[[Atlassian]].com/agile](https://atlassian.com/agile), contains great resources related to many aspects of agile.
 >
 > **[2:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=161)** You are encouraged to take a look.
 >
@@ -205,7 +203,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=196)** Teams use Jira to facilitate the planning, prioritizing, organizing and completing of its work.
 >
-> **[3:23](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=203)** Jira is used because it visualizes work using project boards, reports and dashboards.
+> **[3:23](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=203)** Jira is used because it visualizes work using project boards, reports and [[Dashboards]].
 >
 > **[3:29](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=209)** We will see in this course that visualizing work is a key principle of both lean and agile, and Jira facilitates team communication.
 >
@@ -243,7 +241,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=293)** So you don't have to think of a Jira project as a traditional project just having a fixed start and end date.
 >
-> **[4:59](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=299)** A project has an associated type, for example, kanban and scrum, and we'll create projects of these types in this course.
+> **[4:59](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=299)** A project has an associated type, for example, kanban and [[Scrum]], and we'll create projects of these types in this course.
 >
 > **[5:08](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/agile-and-jira-overview?u=76281980&t=308)** Each issue has an issue key.
 >
@@ -289,7 +287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (42), [[Agile Development|Agile]] (28), teams (8), management (7), data (2)
+> **Frameworks & Libraries:** [[Jira]] (42), [[Agile Development|Agile]] (28), [[Atlassian]] (1), [[Dashboards]] (1), [[Scrum]] (1)
 > **Tools:** jira (42)
 > **Definitions:** is a  (10), means that (3), is an  (3), known as (1)
 > **Env Vars:** proj (2)
@@ -298,14 +296,13 @@ created: 2026-05-02
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed?u=76281980&t=0)** - [Instructor] In this demo, we'll create a classic Kanban project, assign a project administrator, and a project lead, and create issues in our new project.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed?u=76281980&t=10)** We are locked into JIRA as a JIRA administrator.
+> **[0:10](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed?u=76281980&t=10)** We are locked into [[Jira]] as a JIRA administrator.
 >
 > **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed?u=76281980&t=13)** By default, JIRA administrators can create classic projects.
 >
@@ -384,8 +381,7 @@ created: 2026-05-02
 > **Code Identifiers:** projecta (1)
 > **Definitions:** is a  (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251204?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251204?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +391,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251204?u=76281980&t=9)** We can see her icon in the upper right.
 >
-> **[0:11](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251204?u=76281980&t=11)** There are currently no projects in our instance of Jira, so we'll start by clicking the Create project button.
+> **[0:11](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251204?u=76281980&t=11)** There are currently no projects in our instance of [[Jira]], so we'll start by clicking the Create project button.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251204?u=76281980&t=19)** We'll change the template to a Kanban template.
 >
@@ -425,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **UI Navigation:** select the (1), checkbox (1)
 > **Exercise Files:** template (2)
 > **Tools:** jira (1)
@@ -437,8 +433,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using project boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980)
+#### [Using project boards](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=6)** We will describe the importance of visualizing work.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=10)** Describe common workflows, differentiate Jira boards and workflows.
+> **[0:10](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=10)** Describe common workflows, differentiate [[Jira]] boards and workflows.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=17)** Describe the purpose of an issue status field.
 >
@@ -468,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=58)** Another way to visualize work is using a project board.
 >
-> **[1:03](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=63)** A principle of agile projects is to visualize the work.
+> **[1:03](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=63)** A principle of [[Agile Development|agile]] projects is to visualize the work.
 >
 > **[1:07](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=67)** A board is an agile tool used to visualize and manage work.
 >
@@ -476,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=78)** And on the right, you see more of a digital project board, as you would see in Jira.
 >
-> **[1:24](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=84)** Another way to visualize work is with reports and dashboards.
+> **[1:24](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=84)** Another way to visualize work is with reports and [[Dashboards]].
 >
 > **[1:29](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-project-boards?u=76281980&t=89)** And Jira will automatically update reports and dashboards, as your team accomplishes work.
 >
@@ -580,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), next (3), [[Agile Development|Agile]] (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Agile Development|Agile]] (2), [[Dashboards]] (2)
 > **Tools:** jira (10)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Prerequisites:** configure (2), setup (1)
@@ -588,8 +583,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247736?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247736?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,7 +629,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247736?u=76281980&t=118)** If we wanted to, we could drag and drop to rearrange the columns.
 >
-> **[2:03](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247736?u=76281980&t=123)** We can also see that Jira has, automatically, created a review status, so issues in the Review column will also have a status of Review.
+> **[2:03](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247736?u=76281980&t=123)** We can also see that [[Jira]] has, automatically, created a review status, so issues in the Review column will also have a status of Review.
 >
 > **[2:12](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247736?u=76281980&t=132)** Clicking back to board, we can now see our Review column on the board.
 >
@@ -689,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jira]] (2)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Prerequisites:** configure (7)
 > **UI Navigation:** in the sidebar (2), navigate to (1), drag and drop (1), go to (1)
 > **Code Identifiers:** projecta (3)
@@ -698,8 +692,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +810,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **UI Navigation:** open the (2), select the (2), in the sidebar (2), drag and drop (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (3)
@@ -830,8 +822,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enriching issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980)
+#### [Enriching issues](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=15)** We'll use labels to organize issues.
 >
-> **[0:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=19)** And we'll introduce integration with version control and build systems.
+> **[0:19](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=19)** And we'll introduce integration with [[Version Control]] and build systems.
 >
 > **[0:25](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=25)** We'll start with Enriching Issues.
 >
@@ -897,7 +888,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=170)** You can also report on type separately.
 >
-> **[2:55](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=175)** Here's the hierarchy of issue types in Jira.
+> **[2:55](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=175)** Here's the hierarchy of issue types in [[Jira]].
 >
 > **[2:58](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/enriching-issues?u=76281980&t=178)** An Epic is unique in that it can contain other issue types, such as Story, Tasks and Bugs.
 >
@@ -983,21 +974,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (7), [[Jira]] (7), [[Search]] (3), next (2), database (1)
+> **Frameworks & Libraries:** [[Version Control]] (7), [[Jira]] (7)
 > **Tools:** jira (7)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** such as (3), for example (2), for instance (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=1)** - In this demo, we'll add information to an issue, use team-related issue features, create issues of different types, create subtasks and add labels to issues.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=13)** We're logged in as Alana Grant interviewing the Kanban board for project A, let's create an issue.
+> **[0:13](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=13)** We're logged in as Alana Grant [[Interviewing]] the Kanban board for project A, let's create an issue.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=20)** We'll select task as the issue type, and the summary will be add item four.
 >
@@ -1023,9 +1013,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=87)** Clicking on it takes us back to add item four.
 >
-> **[1:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=91)** We can also select, link confluence page, to link this issue to a particular confluence page.
+> **[1:31](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=91)** We can also select, link [[Confluence]] page, to link this issue to a particular confluence page.
 >
-> **[1:38](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=98)** Confluence is another product by Atlassian that enables teams to document and communicate information related to their projects.
+> **[1:38](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=98)** Confluence is another product by [[Atlassian]] that enables teams to document and communicate information related to their projects.
 >
 > **[1:47](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=107)** We can see there's a dropdown showing additional fields, which we can display by clicking the link.
 >
@@ -1043,7 +1033,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=158)** Then click save.
 >
-> **[2:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=161)** Ryan will be notified by email, and we'll also see an indicator in JIRA that he's been @ mentioned.
+> **[2:41](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=161)** Ryan will be notified by email, and we'll also see an indicator in [[Jira]] that he's been @ mentioned.
 >
 > **[2:48](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12246857?u=76281980&t=168)** Clicking history shows a running history of what's happened with this issue.
 >
@@ -1141,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Search]] (3), [[Confluence]] (3), [[Jira]] (2), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Confluence]] (3), [[Jira]] (2), [[Interviewing]] (1), [[Atlassian]] (1)
 > **UI Navigation:** dropdown (2), open the (2), click on (1), in the toolbar (1), navigate to (1)
 > **Tools:** confluence (3), jira (2)
 > **Analogies:** for instance (2), just like (1), for example (1)
@@ -1149,8 +1139,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,9 +1177,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=80)** Now if we look at the add item 1 issue, we can see that add item 1 blocks the add item 4 issue.
 >
-> **[1:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=88)** We can click link issue and select link Confluence page, to link this issue to a particular page in Confluence.
+> **[1:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=88)** We can click link issue and select link [[Confluence]] page, to link this issue to a particular page in Confluence.
 >
-> **[1:36](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=96)** Confluence is another product by Atlassian that enables teams to document and communicate information related to their projects.
+> **[1:36](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=96)** Confluence is another product by [[Atlassian]] that enables teams to document and communicate information related to their projects.
 >
 > **[1:44](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=104)** Comments can be added to an issue at the bottom.
 >
@@ -1198,7 +1187,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=111)** We can type an @ sign or click the icon in the toolbar, and select Ryan Lee. Then click save.
 >
-> **[2:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=120)** Ryan will be notified by email, and will also see an indicator in Jira that he has been @ mentioned.
+> **[2:00](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=120)** Ryan will be notified by email, and will also see an indicator in [[Jira]] that he has been @ mentioned.
 >
 > **[2:06](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12251203?u=76281980&t=126)** Clicking history shows a running history of what's happened with this issue.
 >
@@ -1358,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Confluence]] (3), next (3), [[Jira]] (2), [[Search]] (2), product (1)
+> **Frameworks & Libraries:** [[Confluence]] (3), [[Jira]] (2), [[Atlassian]] (1)
 > **UI Navigation:** open the (4), dropdown (3), in the toolbar (1), navigate to (1), in the sidebar (1)
 > **Tools:** confluence (3), jira (2)
 > **Analogies:** for example (2), just like (2)
@@ -1371,8 +1360,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the kanban method
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980)
+#### [Using the kanban method](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1390,13 +1378,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=28)** We'll start with a Kanban method overview.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=32)** As we discussed, agile is a way of thinking and working.
+> **[0:32](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=32)** As we discussed, [[Agile Development|agile]] is a way of thinking and working.
 >
 > **[0:36](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=36)** It is not a specific methodology.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=39)** An agile method or framework is an approach to implementing agile.
 >
-> **[0:45](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=45)** Common agile methods include Kanban and scrum.
+> **[0:45](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=45)** Common agile methods include Kanban and [[Scrum]].
 >
 > **[0:50](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=50)** Each embody the core principles of agile, and they are often combined as the team progresses.
 >
@@ -1460,7 +1448,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=226)** Because when there are bottlenecks in the process, the team works together to resolve those bottlenecks.
 >
-> **[3:54](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=234)** Here's an example of a minimum work in progress limit in Jira.
+> **[3:54](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=234)** Here's an example of a minimum work in progress limit in [[Jira]].
 >
 > **[3:58](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/using-the-kanban-method?u=76281980&t=238)** You can see the minimum 2 indicator, in the selected for development column.
 >
@@ -1618,7 +1606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), [[Jira]] (5), next (4), [[Scrum]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), [[Jira]] (5), [[Scrum]] (2)
 > **Definitions:** is a  (7), is an  (2), known as (1), means that (1), is called (1)
 > **Analogies:** for example (3), such as (2), for instance (1)
 > **Tools:** jira (5)
@@ -1626,8 +1614,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab: Cloud company-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247737?u=76281980)
+#### [Lab: Cloud company-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-company-managed-12247737?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1713,15 +1700,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** in the sidebar (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (2)
 > **Speakers:** - in (1)
 
-#### Lab: Cloud team-managed
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980)
+#### [Lab: Cloud team-managed](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1746,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=92)** This is a good way for the team to see if the issues are flowing smoothly from beginning to end and are actually being finished.
 >
-> **[1:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=100)** You can zoom in on any area by selecting it.
+> **[1:40](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=100)** You can [[Zoom]] in on any area by selecting it.
 >
 > **[1:43](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=103)** Double click to zoom out again.
 >
@@ -1777,7 +1762,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=137)** When we click it, we are brought to a separate backlog in the bottom half of the screen.
 >
-> **[2:22](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=142)** Jira also asks if we want to move the issues from the first column into the backlog.
+> **[2:22](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=142)** [[Jira]] also asks if we want to move the issues from the first column into the backlog.
 >
 > **[2:28](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-1-projects-boards-and-issues/lab-cloud-team-managed-12245905?u=76281980&t=148)** We'll click Yes, and the issue is moved to the backlog.
 >
@@ -1803,7 +1788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (2), [[Zoom]] (2), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Jira]] (1)
 > **UI Navigation:** in the sidebar (3), open the (2), select the (1)
 > **Cross-References:** go back to (5)
 > **Definitions:** means that (1), is a  (1), is an  (1)

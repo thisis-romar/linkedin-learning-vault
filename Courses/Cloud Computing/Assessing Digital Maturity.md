@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to assess digital maturity
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980)
+#### [How to assess digital maturity](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +118,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980&t=126)** Answering these questions can help you mature to become a digital leader.
 >
-> **[2:10](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980&t=130)** The best companies don't rest on the successes of the past and present.
+> **[2:10](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980&t=130)** The best companies don't [[Representational State Transfer (REST)|rest]] on the successes of the past and present.
 >
 > **[2:13](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980&t=133)** They look forward and chart bold new paths, reinventing themselves along the way.
 >
@@ -129,18 +128,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [jet.com](https://jet.com) (1)
 > **Versions:** 3.7 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - it (1)
 
-#### Digital transformation and digital maturity
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980)
+#### [Digital transformation and digital maturity](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=0)** - The phrase, digital transformation, is thrown around a lot these days.
+> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=0)** - The phrase, [[Digital Transformation]], is thrown around a lot these days.
 >
 > **[0:05](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=5)** But what does it really mean?
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=71)** Most businesses today have digitized in some meaningful way.
 >
-> **[1:15](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=75)** For example, in the early days of the internet, automakers put some information about their products online.
+> **[1:15](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=75)** For example, in the early days of the internet, automakers put some information about their [[Microsoft Products|products]] online.
 >
 > **[1:21](https://www.linkedin.com/learning/assessing-digital-maturity/digital-transformation-and-digital-maturity?u=76281980&t=81)** This represented digitization.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (8), business (4), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (8), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - the (1)
@@ -204,8 +202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Speed is the new currency of business
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980)
+#### [Speed is the new currency of business](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=52)** Think of the acronym STAC, as the path forward.
 >
-> **[0:55](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=55)** This stands for Simplification, Transparency, Accountability, and Collaboration.
+> **[0:55](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=55)** This stands for Simplification, Transparency, [[Accountability]], and Collaboration.
 >
 > **[1:02](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=62)** Simplification is the first step toward speed.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=137)** That which gets measured gets done.
 >
-> **[2:20](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=140)** It's important to employ metrics broadly to gauge the health of the business and assign people for each of the metrics that are evaluated, so that each of them ultimately is responsible for driving the performance metrics in the right direction.
+> **[2:20](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=140)** It's important to employ metrics broadly to gauge the health of the business and assign people for each of the metrics that are evaluated, so that each of them ultimately is responsible for driving the [[Performance Metrics]] in the right direction.
 >
 > **[2:34](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980&t=154)** Lastly, it's essential to collaborate more broadly.
 >
@@ -267,14 +264,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Accountability]] (2), next (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Performance Metrics]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** stac (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - the (1)
 
-#### The new sources of competitive advantage in the digital world
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980)
+#### [The new sources of competitive advantage in the digital world](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=42)** These remain of interest but there's nuance that needs to be taken into consideration, bearing in mind the changes that the digital economy have wrought.
 >
-> **[0:51](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=51)** It's important to bear in mind that customers have more complete and up-to-date access to information about your product and your competitor's products.
+> **[0:51](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=51)** It's important to bear in mind that customers have more complete and up-to-date access to information about your product and your competitor's [[Microsoft Products|products]].
 >
 > **[1:00](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=60)** Customers, especially younger ones, seek an emotional connection with the products that they use.
 >
@@ -298,11 +294,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=72)** Finally, it's important to out innovate the competition.
 >
-> **[1:16](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=76)** As my firm works with companies going through digital transformation, we talk about six sources of competitive advantage in the digital age: stickiness, barriers to entry, inimitability, trust and love, scalability, sustainability, and speed.
+> **[1:16](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=76)** As my firm works with companies going through [[Digital Transformation]], we talk about six sources of competitive advantage in the digital age: stickiness, barriers to entry, inimitability, trust and love, [[Scalability]], [[Sustainability]], and speed.
 >
-> **[1:33](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=93)** Let me explain each with an example from one of the fastest growing enterprise software companies in history.
+> **[1:33](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=93)** Let me explain each with an example from one of the fastest growing [[Enterprise Software]] companies in history.
 >
-> **[1:39](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=99)** The workplace communications platform Slack.
+> **[1:39](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=99)** The workplace communications platform [[Slack]].
 >
 > **[1:41](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=101)** First stickiness.
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=127)** The workplace messaging space is subject to network effect where a product gains additional value as more people use it.
 >
-> **[2:15](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=135)** While Slack was able to grow rapidly thanks to the strong word-of-mouth it generated, the market now appears closed to all but the largest players with existing user bases, like Microsoft for example, and they have not been immune from the gains Slack has made.
+> **[2:15](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=135)** While Slack was able to grow rapidly thanks to the strong [[Microsoft Word|word]]-of-mouth it generated, the market now appears closed to all but the largest players with existing user bases, like [[Microsoft]] for example, and they have not been immune from the gains Slack has made.
 >
 > **[2:30](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=150)** Inimitability.
 >
@@ -344,15 +340,15 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=201)** One, platform play.
 >
-> **[3:23](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=203)** In a bid to become the operating system of the office, Slack is investing in a vibrant ecosystem of tools and apps that integrate with its platform.
+> **[3:23](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=203)** In a bid to become the operating system of the [[Microsoft Office|office]], Slack is investing in a vibrant ecosystem of tools and apps that integrate with its platform.
 >
 > **[3:31](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=211)** Two, enterprise.
 >
-> **[3:33](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=213)** Slack Enterprise Grid is their product for larger organizations, which allows it to compete with Microsoft Teams and other competitors.
+> **[3:33](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=213)** Slack Enterprise Grid is their product for larger organizations, which allows it to compete with [[Microsoft Teams]] and other competitors.
 >
 > **[3:41](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=221)** Three, intelligence layer.
 >
-> **[3:43](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=223)** Slack is leveraging machine learning and artificial intelligence to help make the information shared on Slack more useful.
+> **[3:43](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=223)** Slack is leveraging machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] to help make the information shared on Slack more useful.
 >
 > **[3:50](https://www.linkedin.com/learning/assessing-digital-maturity/the-new-sources-of-competitive-advantage-in-the-digital-world?u=76281980&t=230)** The last competitive advantage is speed.
 >
@@ -368,15 +364,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (16), product (9), [[Microsoft Products|Products]] (3), business (2), leadership (2)
+> **Frameworks & Libraries:** [[Slack]] (16), [[Microsoft Products|Products]] (3), [[Scalability]] (2), [[Sustainability]] (2), [[Microsoft]] (2)
 > **Tools:** slack (16)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - how (1)
 
-#### Innovation labs
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980)
+#### [Innovation labs](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=25)** Oftentimes, these teams will be housed in offices separate from the headquarters of the business.
 >
-> **[0:31](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=31)** Automatic Data Processing, or ADP, a human capital management company that processes one in every six paychecks written in the United States, developed a separate entity that they refer to as Lifion.
+> **[0:31](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=31)** Automatic [[Data Processing]], or ADP, a human capital management company that processes one in every six paychecks written in the United States, developed a separate entity that they refer to as Lifion.
 >
 > **[0:43](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=43)** While they don't hide the fact that it's part of ADP, Lifion has a separate address in the Chelsea neighborhood of Manhattan, 15 miles east of the company's headquarters in Roseland, New Jersey.
 >
@@ -394,7 +389,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=60)** It even has a website that employees can direct recruits to in order to see what a day in the life of someone at Lifion entails.
 >
-> **[1:07](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=67)** On that website, there are pictures of the interesting office space, there are descriptions of the processes that are used, and there's a list of technologies that Lifion employs.
+> **[1:07](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=67)** On that website, there are pictures of the interesting [[Microsoft Office|office]] space, there are descriptions of the processes that are used, and there's a list of technologies that Lifion employs.
 >
 > **[1:16](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=76)** In its early stages, most of these descriptions were quite different from what you'd find at the headquarters of ADP.
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=128)** First, if you haven't already done so, create a team that's dedicated to more innovative, digital-centric ideas.
 >
-> **[2:14](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=134)** Second, give them a mandate to try new things, and even to pursue ideas that might eventually cannibalize your existing products.
+> **[2:14](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=134)** Second, give them a mandate to try new things, and even to pursue ideas that might eventually cannibalize your existing [[Microsoft Products|products]].
 >
 > **[2:22](https://www.linkedin.com/learning/assessing-digital-maturity/innovation-labs?u=76281980&t=142)** It's better to have a new product of your own making succeed an existing product, than to have a competitor be the one to do so.
 >
@@ -436,18 +431,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), next (3), product (2), teams (1), data (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** adp (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### One speed business
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980)
+#### [One speed business](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=0)** - On the path to digital transformation, there'll be a period of operating in the old way while adopting a new approach.
+> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=0)** - On the path to [[Digital Transformation]], there'll be a period of operating in the old way while adopting a new approach.
 >
 > **[0:07](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=7)** Now there are some who believe that operating at two speeds is the new reality.
 >
@@ -465,11 +459,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=46)** Together with the company's founder and CEO, Rich Fairbank, Rob drove a radical transformation of the business.
 >
-> **[0:52](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=52)** First, he hired for learning agility of his team members.
+> **[0:52](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=52)** First, he hired for [[Learning Agility]] of his team members.
 >
 > **[0:56](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=56)** He made sure that the people who were joining the team were not satisfied with their skills today, but that they would pursue skills for the future.
 >
-> **[1:05](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=65)** Second, he ensured that all development was done using agile methods.
+> **[1:05](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=65)** Second, he ensured that all development was done using [[Agile Development|agile]] methods.
 >
 > **[1:10](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=70)** The old sequential way of doing things would be replaced with an iterative method that engaged the intended audience of the project or product in development.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=91)** Third, he developed a series of innovation labs to pursue new technologies.
 >
-> **[1:36](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=96)** This would allow the company to think about the bank of the future, how to leverage machine learning and artificial intelligence and the like.
+> **[1:36](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=96)** This would allow the company to think about the bank of the future, how to leverage machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] and the like.
 >
 > **[1:43](https://www.linkedin.com/learning/assessing-digital-maturity/one-speed-business?u=76281980&t=103)** New trends could be tested, validated, incorporated into prototypes, and then pursued at scale.
 >
@@ -495,19 +489,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (3), [[Learning Agility]] (1), [[Agile Development|Agile]] (1), product (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Learning Agility]] (1), [[Agile Development|Agile]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
 
-#### The importance of developing ecosystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/the-importance-of-developing-ecosystems?u=76281980)
+#### [The importance of developing ecosystems](https://www.linkedin.com/learning/assessing-digital-maturity/the-importance-of-developing-ecosystems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/assessing-digital-maturity/the-importance-of-developing-ecosystems?u=76281980&t=1)** - As you think about the companies that your company competes with, there are some easy examples that come to mind, no doubt.
 >
-> **[0:07](https://www.linkedin.com/learning/assessing-digital-maturity/the-importance-of-developing-ecosystems?u=76281980&t=7)** These are companies whose products or services overlap with yours.
+> **[0:07](https://www.linkedin.com/learning/assessing-digital-maturity/the-importance-of-developing-ecosystems?u=76281980&t=7)** These are companies whose [[Microsoft Products|products]] or services overlap with yours.
 >
 > **[0:11](https://www.linkedin.com/learning/assessing-digital-maturity/the-importance-of-developing-ecosystems?u=76281980&t=11)** Prominent examples would include Coca-Cola versus Pepsi, or Ford versus General Motors, or Delta Air Lines versus United Airlines.
 >
@@ -553,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), open-source (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** means that (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - as (1)
@@ -563,12 +556,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Five stages of digital maturity
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980)
+#### [Five stages of digital maturity](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=0)** - Chances are you've embarked on your journey toward digital transformation in some meaningful way, but how far have you gone?
+> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=0)** - Chances are you've embarked on your journey toward [[Digital Transformation]] in some meaningful way, but how far have you gone?
 >
 > **[0:07](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=7)** How much farther do you have to go?
 >
@@ -604,21 +596,21 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=104)** Digital advertising, optimization, and digital subscription development.
 >
-> **[1:49](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=109)** For example, a product called Zeus boosted low times by 75% and viewability by 20% without relying on Google or Facebook Instant Articles.
+> **[1:49](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=109)** For example, a product called Zeus boosted low times by 75% and viewability by 20% without relying on [[Google]] or Facebook Instant Articles.
 >
 > **[1:59](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=119)** Another in house tool, Clavis, is a content recommendation system while Fuse enables the Post to deliver ads natively.
 >
-> **[2:08](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=128)** This aggressive product development resulted in monthly web visitors sky rocketing from 30.5 million in late 2013 when Bezos made his purchase, to 74 million by early 2016.
+> **[2:08](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=128)** This aggressive [[Product Development]] resulted in monthly web visitors sky rocketing from 30.5 million in late 2013 when Bezos made his purchase, to 74 million by early 2016.
 >
-> **[2:21](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=141)** The Post became digitally mature with the launch and aggressive expansion of it's software as a service-based Arc Publishing, a suite of interconnected publishing, advertising, and digital subscription tools that they license to other publications.
+> **[2:21](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=141)** The Post became digitally mature with the launch and aggressive expansion of it's [[SaaS|software as a service]]-based Arc Publishing, a suite of interconnected publishing, advertising, and digital subscription tools that they license to other publications.
 >
 > **[2:35](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=155)** Arc has quickly grown into a strategic business with it's own PNL and CIO, Shailesh Prakash sees it growing into a $100 million per year business.
 >
-> **[2:45](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=165)** With Arc, the Post is mirroring Amazon's approach with Amazon Web Services.
+> **[2:45](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=165)** With Arc, the Post is mirroring Amazon's approach with [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[2:50](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=170)** Build a technology stack for internal use, develop for a first and best customer, and then license it to the world.
 >
-> **[2:56](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=176)** This SAS model represents unique revenue generated from digital products and services, enabling them to diversify beyond advertising and subscription revenue.
+> **[2:56](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=176)** This SAS model represents unique revenue generated from digital [[Microsoft Products|products]] and services, enabling them to diversify beyond advertising and subscription revenue.
 >
 > **[3:07](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980&t=187)** Though it may take some creative thinking to translate this media company example back into your environment, do so.
 >
@@ -628,15 +620,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (3), [[Digital Transformation]] (1), [[Google]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Google]] (1), [[Product Development]] (1), [[SaaS|Software as a service]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** pnl (1), cio (1), sas (1)
 > **Versions:** 30.5 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - chances (1)
 
-#### Provide strategic clarity, focus, and alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/provide-strategic-clarity-focus-and-alignment?u=76281980)
+#### [Provide strategic clarity, focus, and alignment](https://www.linkedin.com/learning/assessing-digital-maturity/provide-strategic-clarity-focus-and-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/assessing-digital-maturity/provide-strategic-clarity-focus-and-alignment?u=76281980&t=8)** Many companies have shortened their strategic planning horizon because they feel too much will change beyond that.
 >
-> **[0:14](https://www.linkedin.com/learning/assessing-digital-maturity/provide-strategic-clarity-focus-and-alignment?u=76281980&t=14)** Other companies have adopted a Zoom Out, Zoom In approach, where they first align on a shared 10 to 20 year vision of the future, and then, focus on the near-term activities that can advance that vision in the next six to 12 months.
+> **[0:14](https://www.linkedin.com/learning/assessing-digital-maturity/provide-strategic-clarity-focus-and-alignment?u=76281980&t=14)** Other companies have adopted a [[Zoom]] Out, Zoom In approach, where they first align on a shared 10 to 20 year vision of the future, and then, focus on the near-term activities that can advance that vision in the next six to 12 months.
 >
 > **[0:30](https://www.linkedin.com/learning/assessing-digital-maturity/provide-strategic-clarity-focus-and-alignment?u=76281980&t=30)** Strategic plans are as important as ever.
 >
@@ -704,14 +695,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), next (1), power (1), product (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Env Vars:** ceo (1), ipo (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 
-#### Serve the customer where they wish, how they wish
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980)
+#### [Serve the customer where they wish, how they wish](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=12)** They can find out what customers think about the product.
 >
-> **[0:15](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=15)** They can have that product delivered to them that same day to their home or office if they wish.
+> **[0:15](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=15)** They can have that product delivered to them that same day to their home or [[Microsoft Office|office]] if they wish.
 >
 > **[0:20](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=20)** You might say that all this power in the palm of their hands through their digital devices has gone to their heads.
 >
@@ -731,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=34)** It's been one of the best performing stocks in the United States this decade.
 >
-> **[0:38](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=38)** That fact alone probably has you thinking I'm referring to Amazon, Apple, Google, or maybe Facebook.
+> **[0:38](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=38)** That fact alone probably has you thinking I'm referring to Amazon, Apple, [[Google]], or maybe Facebook.
 >
 > **[0:46](https://www.linkedin.com/learning/assessing-digital-maturity/serve-the-customer-where-they-wish-how-they-wish?u=76281980&t=46)** No, this company has outperformed each of them since 2010.
 >
@@ -797,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), power (3), [[Google]] (2), [[Microsoft Office|Office]] (1), hit (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** ceo (1)
 > **Speakers:** - customers (1)
@@ -807,8 +797,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capability teams defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980)
+#### [Capability teams defined](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,19 +813,19 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=33)** Once you know that, identify the gaps in your current capabilities and form teams that are dedicated to enhancing those capabilities with the mindset of a product manager.
 >
-> **[0:42](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=42)** Capabilities, like products, need to be managed through a life cycle, with improvement opportunities prioritized and examined holistically.
+> **[0:42](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=42)** Capabilities, like [[Microsoft Products|products]], need to be managed through a life cycle, with improvement opportunities prioritized and examined holistically.
 >
 > **[0:51](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=51)** One person should be the overall steward of the business capability in order to examine not just what technology needs to be built, but how the process and metrics should evolve around the technology to achieve business outcomes.
 >
 > **[1:04](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=64)** Once a capability owner is clear, a capability team should be created, which typically is made up of a cross-functional group of roles.
 >
-> **[1:12](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=72)** Examples include project management, business analysis, user experience, engineering, quality assurance, and architecture.
+> **[1:12](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=72)** Examples include project management, business analysis, [[User Experience (UX)|user experience]], engineering, [[Quality Assurance]], and architecture.
 >
 > **[1:20](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=80)** These should be dedicated to building technology capabilities that will merge with process to enhance the overall organizational capability.
 >
 > **[1:28](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=88)** Let me provide a case example.
 >
-> **[1:30](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=90)** The $20 billion Dutch multinational banking and financial services corporation, ING Group, restructured the company's employees into squads that were self-guided.
+> **[1:30](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=90)** The $20 billion Dutch multinational [[Banking]] and financial services corporation, ING Group, restructured the company's employees into squads that were self-guided.
 >
 > **[1:40](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980&t=100)** These were teams of up to nine people who were responsible end-to-end for their area of focus.
 >
@@ -860,13 +849,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), teams (2), product (2), [[Microsoft Products|Products]] (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[Quality Assurance]] (1), [[Banking]] (1)
 > **Env Vars:** ing (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - all (1)
 
-#### Evolution of capability teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/evolution-of-capability-teams?u=76281980)
+#### [Evolution of capability teams](https://www.linkedin.com/learning/assessing-digital-maturity/evolution-of-capability-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/assessing-digital-maturity/evolution-of-capability-teams?u=76281980&t=124)** This is due to the pressure to deliver something fast for customers.
 >
-> **[2:08](https://www.linkedin.com/learning/assessing-digital-maturity/evolution-of-capability-teams?u=76281980&t=128)** These functions will form as agile scrum teams for the first time bringing together business people and IT people in a dedicated team to deliver value.
+> **[2:08](https://www.linkedin.com/learning/assessing-digital-maturity/evolution-of-capability-teams?u=76281980&t=128)** These functions will form as [[Agile Development|agile]] [[Scrum]] teams for the first time bringing together business people and IT people in a dedicated team to deliver value.
 >
 > **[2:18](https://www.linkedin.com/learning/assessing-digital-maturity/evolution-of-capability-teams?u=76281980&t=138)** They realize that investing in something like a website isn't a one-time event.
 >
@@ -932,7 +920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), business (3), functional (2), next (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Scrum]] (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -944,12 +932,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980&t=0)** - I hope you feel better equipped to face the opportunities and the pitfalls associated with digital transformation.
+> **[0:00](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980&t=0)** - I hope you feel better equipped to face the opportunities and the pitfalls associated with [[Digital Transformation]].
 >
 > **[0:07](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980&t=7)** Now that you have the tools to gauge how mature your organization is, I suggest you do so.
 >
@@ -981,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Digital Transformation]] (2), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **CLI Commands:** find (1)
 > **URLs:** [cio.com](https://cio.com) (1)
 > **Env Vars:** cio (1)

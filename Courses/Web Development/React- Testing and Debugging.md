@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing and debugging your React apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980)
+#### [Testing and debugging your React apps](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=0)** - Have you ever felt lost or frustrated while working on a React project, unable to figure out what's wrong with your application code?
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=0)** - Have you ever felt lost or frustrated while working on a [[React.js|React]] project, unable to figure out what's wrong with your application code?
 >
 > **[0:08](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=8)** Mostly likely, you've got a bug.
 >
@@ -107,27 +106,26 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=48)** Next, we'll go over the Chrome and React devtools and how we can find the source of our bugs and resolve them.
 >
-> **[0:55](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=55)** Finally, we'll improve code syntax, bug prevention, and performance by using type checking, ESLint and our devtools.
+> **[0:55](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=55)** Finally, we'll improve code syntax, bug prevention, and performance by using type checking, [[ESLint]] and our devtools.
 >
 > **[1:04](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980&t=64)** So if you're ready to exterminate these annoying bugs, open your favorite text editor and let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), application (2), [[Debugging]] (1), next (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[ESLint]] (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** getting started (1), set up (1)
 > **Speakers:** - have (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980&t=0)** - [Instructor] As this course is focused on the exploration of tools for debugging and testing React applications, some experience with React is a must.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980&t=0)** - [Instructor] As this course is focused on the exploration of tools for debugging and testing [[React.js|React]] applications, some experience with React is a must.
 >
 > **[0:08](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980&t=8)** If you aren't familiar with creating React components, using props, and importing modules, I'd suggest that you take a basic React course to learn the fundamentals.
 >
-> **[0:17](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980&t=17)** Also, experience with JavaScript is a must for this course, as this is the basis of a React programmer.
+> **[0:17](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980&t=17)** Also, experience with [[JavaScript]] is a must for this course, as this is the basis of a React programmer.
 >
 > **[0:24](https://www.linkedin.com/learning/react-testing-and-debugging/course-prerequesites?u=76281980&t=24)** Next, being familiar with Terminal commands and MPM isn't a must, but definitely will help you when we use these tools.
 >
@@ -135,14 +133,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[Debugging]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** mpm (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/instructions-for-coderpad-25725715?u=76281980)
+#### [Introduction to CoderPad](https://www.linkedin.com/learning/react-testing-and-debugging/instructions-for-coderpad-25725715?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,12 +174,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your test project
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980)
+#### [Your test project](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=0)** - [Instructor] If you took my course, [[From React to React Native]], the project we'll use in this course to test and debug will look familiar, as it's the same app.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=0)** - [Instructor] If you took my course, [[From [[React.js|React]] to [[React Native]]]], the project we'll use in this course to test and debug will look familiar, as it's the same app.
 >
 > **[0:09](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=9)** If you don't have access to the exercise files and didn't take the other course, no worries.
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=49)** And basically copy everything that we have in the Resources folder.
 >
-> **[0:54](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=54)** So copy that, so Ctrl + C on Windows, Command + C on Mac, and then paste it into this folder.
+> **[0:54](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=54)** So copy that, so Ctrl + C on [[Windows]], Command + C on Mac, and then paste it into this folder.
 >
 > **[1:04](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=64)** Once you have this, all you have to do is open this in your favorite editor.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=91)** And then make sure that you are in the root folder of that project.
 >
-> **[1:34](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=94)** We're going to do npm install, or I, shortcut for install.
+> **[1:34](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=94)** We're going to do [[npm]] install, or I, shortcut for install.
 >
 > **[1:40](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=100)** Okay, so when you have all the dependencies installed, let's explore a little bit what this project is.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=113)** So you have the regular index, which is a React application, and then you have the index.tss.
 >
-> **[1:59](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=119)** So in the data folder you're going to have a json file, which will have all the data that we're going to need to run this application, and we're going to have a static file as opposed to persist with a server or database.
+> **[1:59](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=119)** So in the data folder you're going to have a [[JSON]] file, which will have all the data that we're going to need to run this application, and we're going to have a static file as opposed to persist with a server or database.
 >
 > **[2:12](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=132)** And then you have the components, and inside of the components you have listings, a grid, and a single.
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=155)** So if we do npm start, this is the application that we are going to test and debug.
 >
-> **[2:47](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=167)** So for your information, if you didn't take the course that I just referenced, this is a React application built from the ground up with Create React app CLI command.
+> **[2:47](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=167)** So for your information, if you didn't take the course that I just referenced, this is a React application built from the ground up with Create React app [[CLI]] command.
 >
 > **[2:56](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980&t=176)** The data is a static json file created in the data folder as I explore earlier.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[React.js|React]] (5), data (4), [[npm]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (2), [[JSON]] (2), [[React Native]] (1), [[Windows]] (1)
 > **Tools:** visual studio (3), terminal (3)
 > **Prerequisites:** install (2), you'll need (1), set up (1)
 > **CLI Commands:** npm (2), make (1)
@@ -255,16 +251,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **File Paths:** app.js (1)
 
-#### An overview of your toolset
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980)
+#### [An overview of your toolset](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980&t=0)** - [Instructor] Testing and debugging React applications involves multiple tools.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980&t=0)** - [Instructor] Testing and debugging [[React.js|React]] applications involves multiple tools.
 >
 > **[0:05](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980&t=5)** So I'll briefly introduce you to these as we install them over the course of the next few videos.
 >
-> **[0:10](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980&t=10)** For any type of web development, our first tool of choice is the dev tools that comes with our own browser.
+> **[0:10](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980&t=10)** For any type of [[Web Development]], our first tool of choice is the dev tools that comes with our own browser.
 >
 > **[0:17](https://www.linkedin.com/learning/react-testing-and-debugging/an-overview-of-your-toolset?u=76281980&t=17)** Whether you use Chrome, Safari, Firefox, or Edge, you have the tools needed to inspect your code, do performance checks, and more.
 >
@@ -294,19 +289,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[React.js|React]] (2), next (2), [[Debugging]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Web Development]] (1)
 > **Tools:** firefox (2), safari (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### React Developer Tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980)
+#### [React Developer Tools](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=0)** - [Instructor] One of the first tools I go to when developing React components is the React Developer Tool.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=0)** - [Instructor] One of the first tools I go to when developing [[React.js|React]] components is the React Developer Tool.
 >
 > **[0:05](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=5)** It's an extension available for Chrome, Firefox, and also as a standalone download.
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=43)** Same thing, React Developer Tools. And then add it.
 >
-> **[0:46](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=46)** And finally, if you don't use any of those browsers, you can install the react-devtools standalone and go to NPM and install this one here.
+> **[0:46](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=46)** And finally, if you don't use any of those browsers, you can install the react-devtools standalone and go to [[npm]] and install this one here.
 >
 > **[0:57](https://www.linkedin.com/learning/react-testing-and-debugging/react-developer-tools?u=76281980&t=57)** Once you have it install, you're going to have the Components and the Profiler.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), application (2), web (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** find (2), npm (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -360,12 +354,11 @@ created: 2026-05-02
 > **Env Vars:** npm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jest introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980)
+#### [Jest introduction](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=0)** - [Instructor] The beauty of starting a React project with Create React App is that you get some very useful tools like Jest.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=0)** - [Instructor] The beauty of starting a [[React.js|React]] project with Create React App is that you get some very useful tools like Jest.
 >
 > **[0:07](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=7)** So, in other words, there's no installation needed as Jest comes pre-installed and ready to go.
 >
@@ -379,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=44)** So if you want to test this, you can stop the application by doing control C or command C on a Mac.
 >
-> **[0:51](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=51)** Here, let me just let me put more screen estate here, and then all you have to do is npm run test, and this is going to run the test command from your package.json file.
+> **[0:51](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=51)** Here, let me just let me put more screen estate here, and then all you have to do is [[npm]] run test, and this is going to run the test command from your package.[[JSON]] file.
 >
 > **[1:04](https://www.linkedin.com/learning/react-testing-and-debugging/jest-introduction?u=76281980&t=64)** So if you look at the package.json file, we have a test script in here.
 >
@@ -401,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[React.js|React]] (4), [[JSON]] (2), [[npm]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JSON]] (2), [[npm]] (1)
 > **File Paths:** package.json (2), app.test.js (1)
 > **CLI Commands:** find (1), npm (1)
 > **Cross-References:** next video (1)
@@ -409,8 +402,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type checking with Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980)
+#### [Type checking with Flow](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -418,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=5)** So, if you're not familiar with type checking, it allows us to define what type of values or variables, objects, and functions should accept.
 >
-> **[0:13](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=13)** This prevents a lot of unexpected behaviors in our code where we'll be able to see why some of our code doesn't react to way it should, so, let's go ahead and install flow.
+> **[0:13](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=13)** This prevents a lot of unexpected behaviors in our code where we'll be able to see why some of our code doesn't [[React.js|react]] to way it should, so, let's go ahead and install flow.
 >
 > **[0:23](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=23)** So, I'm going to go back into VS code.
 >
@@ -430,13 +422,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=36)** And then the first thing we're going to do is install flow bin.
 >
-> **[0:39](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=39)** So, let's do npm i, or short for install, flow-bin, and then save this as a dev dependency.
+> **[0:39](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=39)** So, let's do [[npm]] i, or short for install, flow-bin, and then save this as a dev dependency.
 >
 > **[0:49](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=49)** So, let's do --save-dev like so.
 >
 > **[0:53](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=53)** Once this is done, let's minimize our terminal for a second because we're going to go back to it.
 >
-> **[0:59](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=59)** And then let's open the package.json file right here in the root directory.
+> **[0:59](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=59)** And then let's open the package.[[JSON]] file right here in the root directory.
 >
 > **[1:04](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow-2?u=76281980&t=64)** And you should see now, in the dev dependencies flow bin, like, so.
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (5), [[React.js|React]] (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[React.js|React]] (1), [[JSON]] (1)
 > **Tools:** terminal (6), vs code (2)
 > **CLI Commands:** npm (5), find (1), make (1)
 > **Prerequisites:** install (3)
@@ -497,8 +489,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), open the (1)
 > **Definitions:** short for (1), is a  (1)
 
-#### Linting with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980)
+#### [Linting with ESLint](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +501,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=15)** So let's go ahead and set up our linter with some rules.
 >
-> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=18)** I use Airbnb standards along with some rules for React.
+> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=18)** I use Airbnb standards along with some rules for [[React.js|React]].
 >
 > **[0:22](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=22)** They're very strict and conform to high standards as you'll see in a minute.
 >
@@ -520,7 +511,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=38)** So you click on Extensions.
 >
-> **[0:40](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=40)** And then search for ESLint like so.
+> **[0:40](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=40)** And then search for [[ESLint]] like so.
 >
 > **[0:43](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=43)** And then select the first one here.
 >
@@ -552,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=88)** Feel free to install it locally but I'm going to install it on my system.
 >
-> **[1:32](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=92)** So let's do npm i or install.
+> **[1:32](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=92)** So let's do [[npm]] i or install.
 >
 > **[1:36](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=96)** G for global.
 >
@@ -574,9 +565,9 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=137)** If you want to find problems, you can do this one but I'm going to enforce a code style as well, so let's select the third option.
 >
-> **[2:24](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=144)** Now, the first thing you need to select for this one is JavaScript modules and if you're using common JS as opposed to JavaScript modules, you can select that option.
+> **[2:24](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=144)** Now, the first thing you need to select for this one is [[JavaScript]] modules and if you're using common JS as opposed to JavaScript modules, you can select that option.
 >
-> **[2:32](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=152)** We're using React but if you're using Vue.js or something else, you can select the different options.
+> **[2:32](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=152)** We're using React but if you're using [[Vue.js]] or something else, you can select the different options.
 >
 > **[2:38](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=158)** We're not using TypeScript in this project but if you were, you can select yes, but on this case, we're selecting no.
 >
@@ -586,9 +577,9 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=171)** So use a popular style guide and what we want to use is the Airbnb.
 >
-> **[2:58](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=178)** So if you want to follow something else, you can follow the Google's way of linting but in this case, I'm going to follow Airbnb.
+> **[2:58](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=178)** So if you want to follow something else, you can follow the [[Google]]'s way of linting but in this case, I'm going to follow Airbnb.
 >
-> **[3:06](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=186)** And then we want to set up the file as a JSON file.
+> **[3:06](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=186)** And then we want to set up the file as a [[JSON]] file.
 >
 > **[3:09](https://www.linkedin.com/learning/react-testing-and-debugging/linting-with-eslint?u=76281980&t=189)** So basically, this is the configuration file where we'll all the configurations afterwards.
 >
@@ -626,7 +617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (10), [[React.js|React]] (3), [[JavaScript]] (2), [[JSON]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (10), [[React.js|React]] (3), [[JavaScript]] (2), [[JSON]] (2), [[npm]] (1)
 > **Prerequisites:** install (7), set up (2)
 > **UI Navigation:** select the (5), click on (2)
 > **Tools:** vs code (3), terminal (3)
@@ -640,8 +631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test strings with matchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980)
+#### [Test strings with matchers](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,7 +647,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=32)** and if you want to know, what we're actually using is this.
 >
-> **[0:36](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=36)** So let's go into courses.json, we're actually using position zero in our array, so basically this guy here, and the title is Building an App with ReactJS and MeteorJS.
+> **[0:36](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=36)** So let's go into courses.[[JSON]], we're actually using position zero in our array, so basically this guy here, and the title is Building an App with ReactJS and MeteorJS.
 >
 > **[0:50](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=50)** So if you want to check on the application as well you can actually go here.
 >
@@ -687,7 +677,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=138)** So let's do another one.
 >
-> **[2:20](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=140)** So let's copy that and paste it again and then we're going to test for React.
+> **[2:20](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=140)** So let's copy that and paste it again and then we're going to test for [[React.js|React]].
 >
 > **[2:26](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=146)** So let's do this title, the title contains React.
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=165)** And again, if you want to know what are the matchers that exist, you can go to the JS documentation and see all the matchers that are available to you.
 >
-> **[2:53](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=173)** And then let's enter something that's not in there, so let's do Angular so it returns false and then we'll do React so our tests pass.
+> **[2:53](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=173)** And then let's enter something that's not in there, so let's do [[Angular]] so it returns false and then we'll do React so our tests pass.
 >
 > **[3:01](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980&t=181)** So we have Angular for now so this is not what we're looking for but I just want it to return false so you can see it.
 >
@@ -711,7 +701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (4), application (3), data (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Angular]] (4), [[JSON]] (2)
 > **Code Identifiers:** datatest (2), tobe (1), tomatch (1), tocontain (1)
 > **File Paths:** grid.test.js (1), courses.json (1), course.json (1)
 > **Definitions:** is a  (2)
@@ -720,8 +710,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test numbers with matchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980)
+#### [Test numbers with matchers](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=11)** So, the first thing you're going to do is make sure that your application is running.
 >
-> **[0:15](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=15)** So, we're going to do npm start, and what we're going to do now is make sure that we know or understand how many elements that we have in our course here, so we can test the amount of data that we have in our application.
+> **[0:15](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=15)** So, we're going to do [[npm]] start, and what we're going to do now is make sure that we know or understand how many elements that we have in our course here, so we can test the amount of data that we have in our application.
 >
 > **[0:28](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=28)** So, what we're going to do is bring up the developer tools, like so.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=60)** So, let's do a test where we're going to test to the amount of elements that we have in our application.
 >
-> **[1:05](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=65)** So, I'm going to minimize this, and then let's stop the application by doing Command + C on a Mac or Control + C on Windows, and then let's go inside of our listings folder inside of our components, and then we have our Grid code here.
+> **[1:05](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=65)** So, I'm going to minimize this, and then let's stop the application by doing Command + C on a Mac or Control + C on [[Windows]], and then let's go inside of our listings folder inside of our components, and then we have our Grid code here.
 >
 > **[1:21](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=81)** So, what we're going to do is add a test for the grid.
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=109)** So, we need to import that in order to test.
 >
-> **[1:52](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=112)** So, we're going to do this from ../.., and now we're back into our root folder, and we're going to go into data/, and then bring up the courses.json, like so.
+> **[1:52](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=112)** So, we're going to do this from ../.., and now we're back into our root folder, and we're going to go into data/, and then bring up the courses.[[JSON]], like so.
 >
 > **[2:08](https://www.linkedin.com/learning/react-testing-and-debugging/test-numbers-with-matchers-2?u=76281980&t=128)** And then, we're going to create a variable that will load the number of data inside of that file.
 >
@@ -831,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (6), [[npm]] (3), [[JSON]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[JSON]] (2), [[Windows]] (1)
 > **CLI Commands:** make (4), npm (3)
 > **Code Identifiers:** numitems (2), tobe (1), numitem (1), tobegreaterthanorequal (1)
 > **File Paths:** courses.json (2), grid.test.js (1), app.tests.js (1)
@@ -839,8 +828,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Test numbers with matchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/solution-test-numbers-with-matchers-25724704?u=76281980)
+#### [Solution: Test numbers with matchers](https://www.linkedin.com/learning/react-testing-and-debugging/solution-test-numbers-with-matchers-25724704?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,8 +920,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Test arrays and objects with matchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980)
+#### [Test arrays and objects with matchers](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +942,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=41)** And we're going to pass inside of that array two titles, so two strings.
 >
-> **[0:45](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=45)** So, one is going to be React Native, and the other one is going to be React, like so.
+> **[0:45](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=45)** So, one is going to be [[React Native]], and the other one is going to be [[React.js|React]], like so.
 >
 > **[0:51](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=51)** And then, we're going to start testing.
 >
@@ -993,7 +980,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=205)** So, we're going to do an Objects section here because most often you're going to work with arrays or objects when you have data.
 >
-> **[3:32](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=212)** And before we start talking about what tests we're going to do, just be mindful that we're using an object from this course list on json.
+> **[3:32](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=212)** And before we start talking about what tests we're going to do, just be mindful that we're using an object from this course list on [[JSON]].
 >
 > **[3:41](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=221)** So, this is an object, so we'll be able to work with this.
 >
@@ -1045,7 +1032,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=379)** And then, let's make sure that we remove that code because it's going to break our application, save this, and then bring up a terminal, and let's make sure we're in the root.
 >
-> **[6:31](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=391)** We are, and now we can do npm run test.
+> **[6:31](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=391)** We are, and now we can do [[npm]] run test.
 >
 > **[6:37](https://www.linkedin.com/learning/react-testing-and-debugging/test-arrays-and-objects-with-matchers?u=76281980&t=397)** But, as you can see, our test has failed, and why is that?
 >
@@ -1069,7 +1056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[React.js|React]] (4), [[React Native]] (3), [[JSON]] (3), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (3), [[JSON]] (3), [[npm]] (1)
 > **CLI Commands:** make (4), npm (1)
 > **Code Identifiers:** arraycontaining (3), toequal (1), tohaveproperty (1)
 > **File Paths:** courses.json (2), grid.test.js (1)
@@ -1078,8 +1065,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Solution: Test object with matchers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/solution-test-object-with-matchers-25726643?u=76281980)
+#### [Solution: Test object with matchers](https://www.linkedin.com/learning/react-testing-and-debugging/solution-test-object-with-matchers-25726643?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,8 +1123,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Code coverage reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980)
+#### [Code coverage reports](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,11 +1135,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=9)** So before we do anything, I just want to remove that test here so we can have a report that has some failure or things that we haven't covered yet, so I'm going to comment all this code and save it like so.
 >
-> **[0:22](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=22)** And then I'm going to go into the package.json file and then create a brand new script.
+> **[0:22](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=22)** And then I'm going to go into the package.[[JSON]] file and then create a brand new script.
 >
 > **[0:27](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=27)** So let's go ahead and after test, let's go and create a brand new script, and I'm going to call this one coverage.
 >
-> **[0:36](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=36)** And it's going to be npm run test dash dash, and then dash dash coverage.
+> **[0:36](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=36)** And it's going to be [[npm]] run test dash dash, and then dash dash coverage.
 >
 > **[0:46](https://www.linkedin.com/learning/react-testing-and-debugging/code-coverage-reports?u=76281980&t=46)** So this will run the test as well as the coverage, and then let's save this.
 >
@@ -1192,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[npm]] (2), [[JSON]] (1), hit (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[JSON]] (1)
 > **CLI Commands:** npm (2), make (1)
 > **Tools:** terminal (3)
 > **File Paths:** package.json (1), app.js (1)
@@ -1201,8 +1186,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Snapshot testing with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980)
+#### [Snapshot testing with Jest](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=12)** This way we can decide whether to update the snapshot or look into why the snapshot changed.
 >
-> **[0:17](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=17)** Jest accomplishes this because it renders our component into a JSON file.
+> **[0:17](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=17)** Jest accomplishes this because it renders our component into a [[JSON]] file.
 >
 > **[0:23](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=23)** And then takes a snapshot of this file.
 >
@@ -1224,7 +1208,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=40)** So let's bring up a terminal inside of VS Code, so I'm going to click on Terminal, New Terminal.
 >
-> **[0:46](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=46)** And then I'm going to do npm i, which is short for install react-test-renderer like so.
+> **[0:46](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=46)** And then I'm going to do [[npm]] i, which is short for install [[React.js|react]]-test-renderer like so.
 >
 > **[0:58](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=58)** Once this is installed, you can go ahead and close the terminal and then let's bring up App.test.js, which is in the components folder.
 >
@@ -1316,13 +1300,13 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=304)** So snapshots allow you to do spot checks on your UI.
 >
-> **[5:07](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=307)** Almost in a similar fashion to how you do versioning with Git.
+> **[5:07](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=307)** Almost in a similar fashion to how you do versioning with [[Git]].
 >
 > **[5:11](https://www.linkedin.com/learning/react-testing-and-debugging/snapshot-testing-with-jest?u=76281980&t=311)** Let's move on
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2), [[React.js|React]] (2), data (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[npm]] (2), [[React.js|React]] (2), [[Git]] (1)
 > **CLI Commands:** make (5), npm (2), git (1)
 > **Tools:** terminal (7), vs code (1)
 > **Env Vars:** json (4)
@@ -1331,8 +1315,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **UI Navigation:** click on (1)
 
-#### Organize your tests with describe()
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/organize-your-tests-with-describe?u=76281980)
+#### [Organize your tests with describe()](https://www.linkedin.com/learning/react-testing-and-debugging/organize-your-tests-with-describe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1410,7 +1393,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/react-testing-and-debugging/organize-your-tests-with-describe?u=76281980&t=185)** New terminal.
 >
-> **[3:06](https://www.linkedin.com/learning/react-testing-and-debugging/organize-your-tests-with-describe?u=76281980&t=186)** Then I'm going to do npm run test.
+> **[3:06](https://www.linkedin.com/learning/react-testing-and-debugging/organize-your-tests-with-describe?u=76281980&t=186)** Then I'm going to do [[npm]] run test.
 >
 > **[3:14](https://www.linkedin.com/learning/react-testing-and-debugging/organize-your-tests-with-describe?u=76281980&t=194)** So now all my tests has passed and if you want to see how the titles are actually organized let's go ahead and make sure that one of the tests fails.
 >
@@ -1448,7 +1431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[npm]] (1), api (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **CLI Commands:** make (3), npm (1)
 > **Tools:** terminal (2)
 > **UI Navigation:** open the (1), go to (1)
@@ -1462,20 +1445,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debug with Chrome introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980)
+#### [Debug with Chrome introduction](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=0)** - [Instructor] Whenever there's a bug or your application isn't performing the way you expect, your first reaction should be to use the Chrome DevTools or the ones from your favorite browser.
 >
-> **[0:08](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=8)** Earlier, we installed a React Dev Tools and they're also really handy when we need to debug our application.
+> **[0:08](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=8)** Earlier, we installed a [[React.js|React]] Dev Tools and they're also really handy when we need to debug our application.
 >
 > **[0:14](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=14)** I'll explore this one next.
 >
 > **[0:16](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=16)** I took a liberty of inserting a few bugs in our application if you are using the exercise files look into chapter three and then the start of 03 01, and if you aren't using them, I'll point out the bugs so you can reproduce them in your code.
 >
-> **[0:31](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=31)** So if your application isn't running, please do npm start, and also open up a second terminal and run the test with npm run test.
+> **[0:31](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=31)** So if your application isn't running, please do [[npm]] start, and also open up a second terminal and run the test with npm run test.
 >
 > **[0:39](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980&t=39)** So if we take a look at my terminal, I have the test right now running, and then I also have the application running here.
 >
@@ -1523,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[React.js|React]] (2), [[npm]] (2), next (1), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[npm]] (2)
 > **Cross-References:** go back to (6)
 > **CLI Commands:** npm (2), make (2)
 > **Tools:** terminal (2), chrome devtools (1), vs code (1)
@@ -1532,8 +1514,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 
-#### Debug with React DevTools
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980)
+#### [Debug with React DevTools](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1543,7 +1524,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=12)** If we go back into our browser and make sure your application is running, go into the components here.
 >
-> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=18)** And this is again from the react dev tools.
+> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=18)** And this is again from the [[React.js|react]] dev tools.
 >
 > **[0:20](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=20)** And the first thing you're going to see is that we have each of our components that we've built into our application listed here.
 >
@@ -1553,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=38)** And then into the grid, we are passing the single and we're returning it in this function here.
 >
-> **[0:45](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=45)** So we have each single for each items in our data, which is basically what we have in the courses.json here.
+> **[0:45](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=45)** So we have each single for each items in our data, which is basically what we have in the courses.[[JSON]] here.
 >
 > **[0:52](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-react-devtools?u=76281980&t=52)** So if we take a look at all these and go back into our component, we're going to see all these components and all these single components based on the amount of elements that we have in our database.
 >
@@ -1631,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), data (2), [[React.js|React]] (1), [[JSON]] (1), database (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[JSON]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** for example (3)
 > **File Paths:** app.js (1), courses.json (1)
@@ -1640,8 +1621,7 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Cross-References:** go back to (1)
 
-#### Test your network and performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980)
+#### [Test your network and performance](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1661,7 +1641,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=32)** And then More Tools and then Developer Tools.
 >
-> **[0:34](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=34)** Or Control + Shift + I for Windows and Command + Shift + I for Mac.
+> **[0:34](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=34)** Or Control + Shift + I for [[Windows]] and Command + Shift + I for Mac.
 >
 > **[0:40](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=40)** So let's go ahead and reload the application like so.
 >
@@ -1671,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=56)** So the actual file for jQuery, materialize.css.
 >
-> **[1:00](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=60)** The Bundle.js which is basically the bundle build by React.
+> **[1:00](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=60)** The Bundle.js which is basically the bundle build by [[React.js|React]].
 >
 > **[1:04](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=64)** All the images, and so on, so forth.
 >
@@ -1685,7 +1665,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=91)** And then you can actually get even more granular.
 >
-> **[1:34](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=94)** So you can go into the JavaScript files and figure out what is the file that takes the longest.
+> **[1:34](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=94)** So you can go into the [[JavaScript]] files and figure out what is the file that takes the longest.
 >
 > **[1:40](https://www.linkedin.com/learning/react-testing-and-debugging/test-your-network-and-performance?u=76281980&t=100)** As you can see its the react_DevTools_backend that actually takes the longest.
 >
@@ -1749,7 +1729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), css (2), data (1), [[Windows]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[React.js|React]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **File Paths:** materialize.css (1), bundle.js (1)
@@ -1758,8 +1738,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 
-#### Run an audit in Chrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980)
+#### [Run an audit in Chrome](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,15 +1754,15 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=47)** Progressive web app is the ability to have an app offline so if your application actually does that then you're going to have a report on that but in this case it's not so I'm not going to get a report there.
 >
-> **[0:57](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=57)** So basically you're going to see areas that you need to improve, areas that you actually excel and if there's any issues or red areas, you're going to know about it as well.
+> **[0:57](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=57)** So basically you're going to see areas that you need to improve, areas that you actually [[Microsoft Excel|excel]] and if there's any issues or red areas, you're going to know about it as well.
 >
-> **[1:07](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=67)** So let's quickly take a look at these performance metrics first and as you can see, if there's anything that needs to be improved, you're going to get detailed information about it so surf image in non gen formats, properly sized images, so these are things that could help improve this application.
+> **[1:07](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=67)** So let's quickly take a look at these [[Performance Metrics]] first and as you can see, if there's anything that needs to be improved, you're going to get detailed information about it so surf image in non gen formats, properly sized images, so these are things that could help improve this application.
 >
 > **[1:24](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=84)** And then if you scroll down you're going to get the accessibility one which means basically that this is accessible for all types of devices.
 >
 > **[1:32](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=92)** And then you're going to go down, best practices, so right now we're not using HTTPS which is normal because we're doing this locally but if this was online then you would see a report on that as well and then if you click to any of these you're going to get more information about how to resolve this and what is the issue.
 >
-> **[1:52](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=112)** So this is a really great report to get a lot of information about your application or website and at the SEO, so if you're not familiar with SEO it's basically Search Engine Optimization, that means that you have specific key words in your application that will allow people to find you on Google on any of these search engines out there.
+> **[1:52](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=112)** So this is a really great report to get a lot of information about your application or website and at the SEO, so if you're not familiar with SEO it's basically [[Search Engine Optimization (SEO)|Search Engine Optimization]], that means that you have specific key words in your application that will allow people to find you on [[Google]] on any of these search engines out there.
 >
 > **[2:11](https://www.linkedin.com/learning/react-testing-and-debugging/run-an-audit-in-chrome?u=76281980&t=131)** And finally the progressive web app so this is basically anything that has to do with an application that is offline so if you were to do this then you would see more information about this.
 >
@@ -1791,7 +1770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), seo (3), web (3), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Performance Metrics]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Google]] (1)
 > **Env Vars:** seo (3), https (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
@@ -1799,8 +1778,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debug resources to find answers
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980)
+#### [Debug resources to find answers](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1826,13 +1804,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=57)** So let's say for example, I didn't have that link here.
 >
-> **[0:59](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=59)** I would probably just copy that and the first resource I would go to is Google.
+> **[0:59](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=59)** I would probably just copy that and the first resource I would go to is [[Google]].
 >
 > **[1:06](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=66)** So Google is the first place that everyone goes to and I'm not different.
 >
 > **[1:11](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=71)** So this is what I would do.
 >
-> **[1:13](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=73)** So I would literally paste the error that I get from react.
+> **[1:13](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=73)** So I would literally paste the error that I get from [[React.js|react]].
 >
 > **[1:18](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=78)** And then I would go for the first link here, and then read through it.
 >
@@ -1852,11 +1830,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=128)** If you're desperate and you can't wait for something, the other resource that I would go to is Reactiflux, which is a Discord server.
 >
-> **[2:16](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=136)** So if you join Reactiflux, you're going to be on the server where there's people around React Native, Redux, React, Jest, Relay and GraphQL which are all technologies from Facebook.
+> **[2:16](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=136)** So if you join Reactiflux, you're going to be on the server where there's people around [[React Native]], Redux, React, Jest, Relay and [[GraphQL]] which are all technologies from Facebook.
 >
 > **[2:28](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=148)** And then you would be able to ask your question and most likely there's a developer that will answer it.
 >
-> **[2:34](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=154)** Then if you found a bug or if you found something that is not found anywhere, the next thing that would go to is the [reactjs.org](https://reactjs.org) and then click on GitHub and then report that bug.
+> **[2:34](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=154)** Then if you found a bug or if you found something that is not found anywhere, the next thing that would go to is the [reactjs.org](https://reactjs.org) and then click on [[GitHub]] and then report that bug.
 >
 > **[2:47](https://www.linkedin.com/learning/react-testing-and-debugging/debug-resources-to-find-answers?u=76281980&t=167)** So what I would do is go into the issues here on the actual Facebook react, GitHub repo and then create a new issue.
 >
@@ -1870,7 +1848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), application (3), [[React.js|React]] (3), next (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[React.js|React]] (3), [[GitHub]] (2), [[React Native]] (1), [[GraphQL]] (1)
 > **UI Navigation:** go to (5), open the (1), click on (1)
 > **Tools:** terminal (2), github (2), discord (1)
 > **Analogies:** for example (4)
@@ -1884,12 +1862,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code improvement with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980)
+#### [Code improvement with ESLint](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=0)** - [Instructor] If you ever wondered about JavaScript, React or industry standards, linters are a good place to start to improve your compliance.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=0)** - [Instructor] If you ever wondered about [[JavaScript]], [[React.js|React]] or industry standards, linters are a good place to start to improve your compliance.
 >
 > **[0:08](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=8)** In the previous video, we set up ES lint to allow us to improve our application code with industry standards.
 >
@@ -1909,7 +1886,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=67)** Or you could do it actually in the application, so I'm going to fix it here, so fix this semi-problem, and I got this issue resolved.
 >
-> **[1:16](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=76)** If I am in the file, and I see these errors, I'm going to basically click where I'm at, and then do control dot on Windows or command dot on Mac like so, and it's going to show us the same recommendations that we would see inside of our problems here.
+> **[1:16](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=76)** If I am in the file, and I see these errors, I'm going to basically click where I'm at, and then do control dot on [[Windows]] or command dot on Mac like so, and it's going to show us the same recommendations that we would see inside of our problems here.
 >
 > **[1:34](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=94)** So let's say, for example, disable react/destructuring-assignment for this line, and so on, so forth.
 >
@@ -1923,7 +1900,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=118)** And then you would be brought exactly where you have more documentation about this particular rule.
 >
-> **[2:04](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=124)** So this is on a GitHub repo where they document all the rules specific to that plug-in, so if it was about Arabian Bee's rules, we would get directly to that documentation, so let's say, for example, you wanted to understand what this is exactly.
+> **[2:04](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=124)** So this is on a [[GitHub]] repo where they document all the rules specific to that plug-in, so if it was about Arabian Bee's rules, we would get directly to that documentation, so let's say, for example, you wanted to understand what this is exactly.
 >
 > **[2:19](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980&t=139)** You would see all the information here.
 >
@@ -1959,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), [[JavaScript]] (1), [[Windows]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (1), [[Windows]] (1), [[GitHub]] (1)
 > **Tools:** terminal (3), vs code (1), github (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Analogies:** for example (3)
@@ -1968,14 +1945,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Documentation:** the documentation (1)
 
-#### Solution: Practice ESLint best practices in a component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/solution-practice-eslint-best-practices-in-a-component?u=76281980)
+#### [Solution: Practice ESLint best practices in a component](https://www.linkedin.com/learning/react-testing-and-debugging/solution-practice-eslint-best-practices-in-a-component?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/solution-practice-eslint-best-practices-in-a-component?u=76281980&t=0)** - [Instructor] So for this coding challenge, I wanted to try something different.
 >
-> **[0:09](https://www.linkedin.com/learning/react-testing-and-debugging/solution-practice-eslint-best-practices-in-a-component?u=76281980&t=9)** How do you test for ESLint best practices, even though we don't have access to ESLint in our coding environments?
+> **[0:09](https://www.linkedin.com/learning/react-testing-and-debugging/solution-practice-eslint-best-practices-in-a-component?u=76281980&t=9)** How do you test for [[ESLint]] best practices, even though we don't have access to ESLint in our coding environments?
 >
 > **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/solution-practice-eslint-best-practices-in-a-component?u=76281980&t=18)** So what I've done here is, and we can actually hide this afterwards, I've added a bunch of tests that should actually check for several things in your code that will basically allow us to fix ESLint best practices, so the code is junky right now.
 >
@@ -2065,8 +2041,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Type checking with Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980)
+#### [Type checking with Flow](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2076,7 +2051,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=10)** If the types don't match, type checking throws an error warning that you are trying to pass a number to a variable that is expecting a string for example.
 >
-> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=18)** React has prop types that you can use within its libraries but I personally prefer to use a tool like Flow which has much more to offer and is also maintained by the Facebook team.
+> **[0:18](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=18)** [[React.js|React]] has prop types that you can use within its libraries but I personally prefer to use a tool like Flow which has much more to offer and is also maintained by the Facebook team.
 >
 > **[0:29](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=29)** What's really good about Flow is that you could use it without setting up your types because Flow offers a lot for you out of the box.
 >
@@ -2098,9 +2073,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=62)** And then we're going to save this.
 >
-> **[1:05](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=65)** And then if we go into our terminal, so I'm going to open up a new terminal, and then do npm run flow.
+> **[1:05](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=65)** And then if we go into our terminal, so I'm going to open up a new terminal, and then do [[npm]] run flow.
 >
-> **[1:14](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=74)** Remember, we did a script in our package.json file here that actually runs flow when we do the script npm run flow.
+> **[1:14](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=74)** Remember, we did a script in our package.[[JSON]] file here that actually runs flow when we do the script npm run flow.
 >
 > **[1:23](https://www.linkedin.com/learning/react-testing-and-debugging/type-checking-with-flow?u=76281980&t=83)** We're going to run flow.
 >
@@ -2180,7 +2155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[npm]] (3), data (2), [[React.js|React]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[React.js|React]] (2), [[JSON]] (1)
 > **Tools:** terminal (4)
 > **File Paths:** single.js (2), package.json (1)
 > **CLI Commands:** npm (3)
@@ -2194,12 +2169,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### React StrictMode behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980)
+#### [React StrictMode behaviors](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980&t=0)** - [Instructor] Let's explore React StrictMode, a development aid that helps you write better React code by enforcing best practices.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980&t=0)** - [Instructor] Let's explore [[React.js|React]] StrictMode, a development aid that helps you write better React code by enforcing best practices.
 >
 > **[0:08](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980&t=8)** React StrictMode is like a lighthouse illuminating the rocky shores of your code base.
 >
@@ -2227,18 +2201,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (8), feature (1), api (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (8)
 > **Analogies:** think of it as (1), it's like (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-testing-and-debugging/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/next-steps?u=76281980&t=0)** - This course was an introduction to testing and debugging React applications.
+> **[0:00](https://www.linkedin.com/learning/react-testing-and-debugging/next-steps?u=76281980&t=0)** - This course was an introduction to testing and debugging [[React.js|React]] applications.
 >
 > **[0:05](https://www.linkedin.com/learning/react-testing-and-debugging/next-steps?u=76281980&t=5)** With the tools we've explored here you should have a good basic understanding of this complex subject.
 >
@@ -2260,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)

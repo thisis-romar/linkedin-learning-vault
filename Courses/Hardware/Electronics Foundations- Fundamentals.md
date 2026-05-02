@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The fundamentals of electronics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980)
+#### [The fundamentals of electronics](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980&t=0)** - Working with electronics is a ton of fun, but it can also be a bit confusing.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980&t=0)** - Working with [[Electronics]] is a ton of fun, but it can also be a bit confusing.
 >
 > **[0:05](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980&t=5)** What is voltage, current, resistance, power?
 >
@@ -113,12 +112,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Electronics]] (3), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - working (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-you-should-know-14049947?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-you-should-know-14049947?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-you-should-know-14049947?u=76281980&t=4)** This course is for everyone, and I'll be teaching electrical concepts from the ground up.
 >
-> **[0:09](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-you-should-know-14049947?u=76281980&t=9)** Even if you have some background knowledge of electronics, you might still find this course helpful by giving you another way to think about and understand electricity.
+> **[0:09](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-you-should-know-14049947?u=76281980&t=9)** Even if you have some background knowledge of [[Electronics]], you might still find this course helpful by giving you another way to think about and understand electricity.
 >
 > **[0:17](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-you-should-know-14049947?u=76281980&t=17)** I found that it's easy to get overwhelmed with the math and theory when learning about electronics, which steals focus from understanding the core concepts.
 >
@@ -140,18 +138,17 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - if (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=0)** - [Instructor] If you want to follow along with this course to build and measure your own circuits, you're going to need some hardware.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=0)** - [Instructor] If you want to follow along with this course to build and measure your own circuits, you're going to need some [[Hardware]].
 >
 > **[0:06](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=6)** So, I have included a list of the various components and tools that I use throughout this course in the exercise files.
 >
 > **[0:13](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=13)** In the main exercise file directory for this course, I've included a PDF file named partslist.pdf that contains the list of electrical components I use to build circuits throughout this course.
 >
-> **[0:26](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=26)** Almost all of these items are common parts that you can purchase from a number of online retailers or your local electronics store.
+> **[0:26](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=26)** Almost all of these items are common parts that you can purchase from a number of online retailers or your local [[Electronics]] store.
 >
 > **[0:34](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=34)** But, for your convenience, I've also included a link for an online store page for each item.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=54)** I'll discuss the differences between those two options in a later video on multimeters.
 >
-> **[0:58](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=58)** The rest of the exercise files are organized into numbered directories for each chapter of the course, and within each chapter, there are numbered directories for each video.
+> **[0:58](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=58)** The [[Representational State Transfer (REST)|rest]] of the exercise files are organized into numbered directories for each chapter of the course, and within each chapter, there are numbered directories for each video.
 >
 > **[1:09](https://www.linkedin.com/learning/electronics-foundations-fundamentals/using-the-exercise-files-14052748?u=76281980&t=69)** I've included things like circuit diagrams and other reference documents to help you follow along throughout the course.
 >
@@ -178,12 +175,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safety message
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/safety-message-14054395?u=76281980)
+#### [Safety message](https://www.linkedin.com/learning/electronics-foundations-fundamentals/safety-message-14054395?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/safety-message-14054395?u=76281980&t=0)** - Working with electronics is a ton of fun, but it can also be dangerous.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/safety-message-14054395?u=76281980&t=0)** - Working with [[Electronics]] is a ton of fun, but it can also be dangerous.
 >
 > **[0:06](https://www.linkedin.com/learning/electronics-foundations-fundamentals/safety-message-14054395?u=76281980&t=6)** Electric shock can cause serious injuries or even death, and at the very least, being shocked is not a pleasant feeling.
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -218,8 +214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Electrical charge
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electrical-charge-14050884?u=76281980)
+#### [Electrical charge](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electrical-charge-14050884?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,8 +285,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Conductors and insulators
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/conductors-and-insulators-14053429?u=76281980)
+#### [Conductors and insulators](https://www.linkedin.com/learning/electronics-foundations-fundamentals/conductors-and-insulators-14053429?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,8 +345,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - electricity (1), - for (1)
 
-#### Voltage
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/voltage-14051818?u=76281980)
+#### [Voltage](https://www.linkedin.com/learning/electronics-foundations-fundamentals/voltage-14051818?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,15 +447,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4)
 > **Tools:** terminal (8)
 > **Analogies:** for example (2)
 > **Env Vars:** mp3 (1)
 > **Definitions:** is called (1)
 > **Speakers:** - when (1)
 
-#### Current
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/current-14051817?u=76281980)
+#### [Current](https://www.linkedin.com/learning/electronics-foundations-fundamentals/current-14051817?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,14 +507,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Tools:** terminal (6)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** mp3 (1)
 > **Speakers:** - when (1)
 
-#### Circuit basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/circuit-basics-14049950?u=76281980)
+#### [Circuit basics](https://www.linkedin.com/learning/electronics-foundations-fundamentals/circuit-basics-14049950?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +576,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), next (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** make (2)
 > **Tools:** terminal (2)
@@ -595,8 +583,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resistance and Ohm's Law
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/resistance-and-ohm-s-law-14049951?u=76281980)
+#### [Resistance and Ohm's Law](https://www.linkedin.com/learning/electronics-foundations-fundamentals/resistance-and-ohm-s-law-14049951?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,12 +661,11 @@ created: 2026-05-02
 > **Versions:** 0.45 (1)
 > **Speakers:** - as (1)
 
-#### SI prefixes
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/si-prefixes-14056165?u=76281980)
+#### [SI prefixes](https://www.linkedin.com/learning/electronics-foundations-fundamentals/si-prefixes-14056165?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/si-prefixes-14056165?u=76281980&t=0)** - [Instructor] When working with electronics, it's common to encounter really large values like 10 million ohms and really small values like 0.003 amps.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/si-prefixes-14056165?u=76281980&t=0)** - [Instructor] When working with [[Electronics]], it's common to encounter really large values like 10 million ohms and really small values like 0.003 amps.
 >
 > **[0:11](https://www.linkedin.com/learning/electronics-foundations-fundamentals/si-prefixes-14056165?u=76281980&t=11)** And it can be cumbersome to write out those numbers.
 >
@@ -717,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Electronics]] (2)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **Versions:** 0.003 (1), 0.042 (1), 0.15 (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -725,8 +711,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Limit current to an LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-limit-current-to-an-led?u=76281980)
+#### [Challenge: Limit current to an LED](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-limit-current-to-an-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,7 +721,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-limit-current-to-an-led?u=76281980&t=12)** For this challenge, I want you to use ohms law to determine an appropriate resistance value for the resistor in this circuit to limit the amount of current that goes through a light emitting diode or LED.
 >
-> **[0:26](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-limit-current-to-an-led?u=76281980&t=26)** This is a very common task when working with hobbyist electronics.
+> **[0:26](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-limit-current-to-an-led?u=76281980&t=26)** This is a very common task when working with hobbyist [[Electronics]].
 >
 > **[0:31](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-limit-current-to-an-led?u=76281980&t=31)** In LED is a special type of electrical component that emits light when current flows through it, working with LEDs can be a bit tricky, because they're an electrical component that does not follow ohms law like resistors do.
 >
@@ -780,8 +765,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Limit current to an LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-limit-current-to-an-led?u=76281980)
+#### [Solution: Limit current to an LED](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-limit-current-to-an-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,18 +832,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a multimeter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980)
+#### [What is a multimeter?](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=0)** - When working with electronics, a multimeter is the go-to tool for testing and troubleshooting circuits.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=0)** - When working with [[Electronics]], a multimeter is the go-to tool for testing and troubleshooting circuits.
 >
 > **[0:07](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=7)** It's your first line of defense for tracking down problems.
 >
 > **[0:10](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=10)** A multimeter is a single device that can measure a variety of electrical quantities and most modern multimeters have a numeric display like this one so they're called digital multimeters or DMM.
 >
-> **[0:22](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=22)** You can buy a DMM at most hardware or electronic stores or from an online retailer like SparkFun or [amazon.com](https://amazon.com).
+> **[0:22](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=22)** You can buy a DMM at most [[Hardware]] or electronic stores or from an online retailer like SparkFun or [amazon.com](https://amazon.com).
 >
 > **[0:29](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980&t=29)** And there's a wide range of multimeters available from different manufacturers that vary in capabilities.
 >
@@ -917,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (1), [[Troubleshooting]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Hardware]] (1)
 > **Env Vars:** dmm (14), mn36 (1)
 > **URLs:** [amazon.com](https://amazon.com) (1), [sparkfun.com](https://sparkfun.com) (1)
 > **Definitions:** is a  (2)
@@ -926,8 +909,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - when (1)
 
-#### Measure DC voltage
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-dc-voltage-14050886?u=76281980)
+#### [Measure DC voltage](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-dc-voltage-14050886?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1005,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (1)
 > **Env Vars:** dmm (13), led (5), vac (1), vdc (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** select the (2)
@@ -1031,9 +1012,9 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
+> **Prerequisites:** you'll need (1)
 
-#### Measure direct current
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-direct-current-14055168?u=76281980)
+#### [Measure direct current](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-direct-current-14055168?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1077,7 +1058,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-direct-current-14055168?u=76281980&t=124)** If I swap the probes around so that the black probe is connected to the source of current at the resistor and the red probe is connected to the LED, that'll show that there's negative 15 milliamps passing from the red probe to the black probe.
 >
-> **[2:21](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-direct-current-14055168?u=76281980&t=141)** Since I have to insert the DMM in series with the components to measure current, I want the DMM to act like a wire so it doesn't impact the operations of the rest of the circuit.
+> **[2:21](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-direct-current-14055168?u=76281980&t=141)** Since I have to insert the DMM in series with the components to measure current, I want the DMM to act like a wire so it doesn't impact the operations of the [[Representational State Transfer (REST)|rest]] of the circuit.
 >
 > **[2:30](https://www.linkedin.com/learning/electronics-foundations-fundamentals/measure-direct-current-14055168?u=76281980&t=150)** And the DMM is designed so that when it's set in current mode, it'll have as little resistance as possible, basically acting like a short circuit, and that can be create a dangerous situation if I'm not paying attention.
 >
@@ -1103,7 +1084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dmm (19), led (5)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
@@ -1117,8 +1098,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Electric power
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980)
+#### [Electric power](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=14)** Energy is the ability of an object to perform work, which is a physics term that means moving something from one place to another.
 >
-> **[0:22](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=22)** And energy comes in many different forms, including mechanical energy, chemical energy, thermal energy, and my personal favorite electrical energy.
+> **[0:22](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=22)** And energy comes in many different [[Forms]], including mechanical energy, chemical energy, thermal energy, and my personal favorite electrical energy.
 >
 > **[0:32](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=32)** To use these different types of energy to do things we need to get it from somewhere.
 >
@@ -1136,13 +1116,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=39)** As the brilliant scientist Albert Einstein is credited with saying, "Energy cannot be created or destroyed, but it can change from one form to another."
 >
-> **[0:49](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=49)** For example, the chemicals inside of a battery react to convert stored chemical energy into electrical energy.
+> **[0:49](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=49)** For example, the chemicals inside of a battery [[React.js|react]] to convert stored chemical energy into electrical energy.
 >
 > **[0:57](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=57)** And a light bulb connected to that battery can transform that electrical energy into two other forms of energy.
 >
 > **[1:04](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=64)** It transforms into thermal energy in the form of heat and electromagnetic energy in the form of light.
 >
-> **[1:10](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=70)** One of the main goals when working with electronics is to use these transformations to do something useful.
+> **[1:10](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=70)** One of the main goals when working with [[Electronics]] is to use these transformations to do something useful.
 >
 > **[1:16](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=76)** We can generalize the components that perform these transformations as either being a producer or a consumer of electrical energy.
 >
@@ -1204,18 +1184,17 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=317)** To give you a practical frame of reference for working with power, here are a few examples of the power consumed by devices you may encounter in your everyday life.
 >
-> **[5:27](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=327)** Ranging from a quarter of a watt, consumed by a microcontroller device, like an Arduino UNO, all the way up to household appliances, like a microwave oven that can consume over a thousand watts.
+> **[5:27](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980&t=327)** Ranging from a quarter of a watt, consumed by a microcontroller device, like an [[Arduino]] UNO, all the way up to household appliances, like a microwave oven that can consume over a thousand watts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (20), [[Forms]] (3), [[Electronics]] (2), [[React.js|React]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Electronics]] (2), [[React.js|React]] (1), [[Arduino]] (1)
 > **Definitions:** is a  (3), known as (2), means that (1)
 > **Env Vars:** led (3), uno (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ideal vs. real-world power sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980)
+#### [Ideal vs. real-world power sources](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1202,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=12)** For example, if I'm designing a circuit to be powered by a nine-volt battery, I'll treat that battery as if it always has exactly nine-volts between the two terminals.
 >
-> **[0:22](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=22)** While this abstraction makes analysis and circuit design easier, it's important to keep in mind the real world physical limitations of that battery.
+> **[0:22](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=22)** While this abstraction makes analysis and [[Circuit Design]] easier, it's important to keep in mind the real world physical limitations of that battery.
 >
 > **[0:30](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=30)** If I was using the battery to power in LED that only consumed a few milliwatts, then that simplification would work just fine.
 >
@@ -1259,7 +1238,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=137)** In short, the load will not get the power that it needs to.
 >
-> **[2:21](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=141)** When I'm prototyping circuits, I often use an AC-to-DC wall adapter, like this one, to provide power.
+> **[2:21](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=141)** When I'm [[Prototyping]] circuits, I often use an AC-to-DC wall adapter, like this one, to provide power.
 >
 > **[2:28](https://www.linkedin.com/learning/electronics-foundations-fundamentals/ideal-vs-real-world-power-sources?u=76281980&t=148)** This particular USB adapter clearly states its output capability on the side.
 >
@@ -1271,14 +1250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), [[Circuit Design]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Circuit Design]] (1), [[Prototyping]] (1)
 > **Env Vars:** led (1), usb (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
 
-#### Battery capacity
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/battery-capacity-14049949?u=76281980)
+#### [Battery capacity](https://www.linkedin.com/learning/electronics-foundations-fundamentals/battery-capacity-14049949?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,13 +1332,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - unfortunately (1)
 
-#### Batteries in series and parallel
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/batteries-in-series-and-parallel-14049948?u=76281980)
+#### [Batteries in series and parallel](https://www.linkedin.com/learning/electronics-foundations-fundamentals/batteries-in-series-and-parallel-14049948?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1426,14 +1402,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (16), power (3)
 > **Tools:** terminal (4)
 > **Versions:** 1.5 (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Grounded vs. floating power sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/grounded-vs-floating-power-sources?u=76281980)
+#### [Grounded vs. floating power sources](https://www.linkedin.com/learning/electronics-foundations-fundamentals/grounded-vs-floating-power-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,7 +1461,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7)
 > **Tools:** terminal (6)
 > **Env Vars:** com (2), gnd (1)
 > **CLI Commands:** find (1)
@@ -1496,8 +1469,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Power a light bulb
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-power-a-light-bulb?u=76281980)
+#### [Challenge: Power a light bulb](https://www.linkedin.com/learning/electronics-foundations-fundamentals/challenge-power-a-light-bulb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,15 +1497,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), power (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** aaa (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Power a light bulb
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-power-a-light-bulb?u=76281980)
+#### [Solution: Power a light bulb](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-power-a-light-bulb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1579,13 +1549,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-power-a-light-bulb?u=76281980&t=158)** And if I had used AAA batteries, that would have required 60 batteries, which is getting ridiculous.
 >
-> **[2:43](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-power-a-light-bulb?u=76281980&t=163)** As you can see, there are often multiple ways to solve a problem when working with electronics.
+> **[2:43](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-power-a-light-bulb?u=76281980&t=163)** As you can see, there are often multiple ways to solve a problem when working with [[Electronics]].
 >
 > **[2:49](https://www.linkedin.com/learning/electronics-foundations-fundamentals/solution-power-a-light-bulb?u=76281980&t=169)** And it's generally a good idea to go with the simplest solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), next (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Env Vars:** aaa (2)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
@@ -1596,8 +1566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your electronics journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980)
+#### [Continue your electronics journey](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,7 +1574,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980&t=2)** I hope that you've enjoyed it and that it's given you a solid foundation to understand electricity.
 >
-> **[0:07](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980&t=7)** As you continue to learn about electronics, I encourage you to keep the fundamental concepts from this course in mind.
+> **[0:07](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980&t=7)** As you continue to learn about [[Electronics]], I encourage you to keep the fundamental concepts from this course in mind.
 >
 > **[0:13](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980&t=13)** As the circuits you build grow in size and complexity, remember that at the end of the day, you're really just moving around a bunch of electrons, using voltages to push them and circuit components to lead them where they need to be.
 >

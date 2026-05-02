@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an agile culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980)
+#### [Create an agile culture](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980&t=0)** - Everyone is doing Agile!
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980&t=0)** - Everyone is doing [[Agile Development|Agile]]!
 >
 > **[0:02](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980&t=2)** Agile will transform your team.
 >
@@ -126,7 +125,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980&t=97)** I've delivered keynote presentations at Agile conferences around the world, helping people, especially engineers, get really tactical and confident about implementing the squishy, people stuff.
 >
-> **[1:51](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980&t=111)** So, if you're ready to really elevate the effectiveness of your Agile practices, join me in my LinkedIn course on creating an Agile culture.
+> **[1:51](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980&t=111)** So, if you're ready to really elevate the effectiveness of your Agile practices, join me in my [[LinkedIn]] course on creating an Agile culture.
 
 > [!info]- Semantic Content
 >
@@ -135,20 +134,19 @@ created: 2026-05-02
 > **Env Vars:** ceo (1)
 > **Speakers:** - everyone (1)
 
-#### Agile in the AI era
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980)
+#### [Agile in the AI era](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=0)** - [Presenter] When Agile was born at the turn of the 21st century, access to the internet and using email was just starting to become a workplace norm.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=0)** - [Presenter] When [[Agile Development|Agile]] was born at the turn of the 21st century, access to the internet and using email was just starting to become a workplace norm.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=9)** At the time, offices mostly functioned through paper pushing and phone calls.
 >
 > **[0:14](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=14)** Fast forward to today, and the world looks very different.
 >
-> **[0:18](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=18)** The rise of remote working means teams often don't work in the same office.
+> **[0:18](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=18)** The rise of remote working means teams often don't work in the same [[Microsoft Office|office]].
 >
-> **[0:23](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=23)** AI tools like ChatGPT, Claude, Gemini, Copilot and more allow us to generate output faster than ever.
+> **[0:23](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=23)** AI tools like [[ChatGPT]], Claude, [[Gemini]], [[Microsoft Copilot|Copilot]] and more allow us to generate output faster than ever.
 >
 > **[0:32](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=32)** Tasks that once took hours of thoughtful back and forth, drafting a test plan, generating user stories, refactoring code, these can be done in seconds with a well-engineered prompt.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=160)** That means recognizing Agile was never a mere collection of ceremonies.
 >
-> **[2:46](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=166)** It's a cultural DNA that emphasizes collaboration, communication, empathy, and learning, reinforcing shared understanding even when AI tools provide tempting shortcuts, making space for disagreement and exploration even when suggestions seem good enough, designing decision-making practices that account for human judgment, ethical nuance, and context, especially where AI can't.
+> **[2:46](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=166)** It's a cultural DNA that emphasizes collaboration, communication, empathy, and learning, reinforcing shared understanding even when AI tools provide tempting shortcuts, making space for disagreement and exploration even when suggestions seem good enough, designing [[Decision-Making]] practices that account for human judgment, ethical nuance, and context, especially where AI can't.
 >
 > **[3:18](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=198)** Most of all, it means treating AI not as a teammate but as a variable in the system, one that requires continuous reflection, integration, and calibration.
 >
@@ -192,7 +190,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=227)** In the age of AI, Agile can't just be about delivering faster.
 >
-> **[3:53](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=233)** It must be about learning faster together not just iterating on products but on meaning; not just managing tasks, but deepening trust; not just building software but shaping systems of collaboration that are resilient, reflective, and ready to adapt no matter how the tools evolve because ultimately, agility was never about certainty and ceremony.
+> **[3:53](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=233)** It must be about learning faster together not just iterating on [[Microsoft Products|products]] but on meaning; not just managing tasks, but deepening trust; not just building software but shaping systems of collaboration that are resilient, reflective, and ready to adapt no matter how the tools evolve because ultimately, agility was never about certainty and ceremony.
 >
 > **[4:23](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/agile-in-the-ai-era?u=76281980&t=263)** It's always been about our capacity and capability to change.
 >
@@ -200,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), ai (10), teams (2), [[Microsoft Office|Office]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), [[Microsoft Office|Office]] (1), [[ChatGPT]] (1), [[Gemini]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - [presenter] (1)
 
@@ -209,12 +207,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why culture matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980)
+#### [Why culture matters](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=0)** - What does it mean to be agile?
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=0)** - What does it mean to be [[Agile Development|agile]]?
 >
 > **[0:03](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=3)** Well, as you can probably guess from the name, it's really just about being nimble and responsive.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=48)** An individual who wants to be agile within a culture that isn't set up to be agile is going to have a really difficult time.
 >
-> **[0:57](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=57)** So to help us understand what we mean by culture, let's take a look at a metaphor that was developed by Edgar Schein in his book, Organizational Culture and Leadership.
+> **[0:57](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=57)** So to help us understand what we mean by culture, let's take a look at a metaphor that was developed by Edgar Schein in his book, [[Organizational Culture]] and Leadership.
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980&t=70)** So, imagine a farmer, and this farmer specializes in growing lily flowers in a pond.
 >
@@ -268,19 +265,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), teams (2), [[Organizational Culture]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Organizational Culture]] (1)
 > **Env Vars:** dna (3)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### The importance of psychological safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980)
+#### [The importance of psychological safety](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=0)** - In 2015, Google announced the findings of a two-year long research initiative that they called Project Aristotle.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=0)** - In 2015, [[Google]] announced the findings of a two-year long research initiative that they called Project Aristotle.
 >
 > **[0:09](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=9)** The goal, it was to figure out what exactly made Google teams effective.
 >
@@ -360,19 +356,18 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=224)** When someone crosses a boundary or doesn't meet an expectation, or fails to perform, it's important to fairly and consistently hold them accountable.
 >
-> **[3:56](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=236)** Psychological safety is one of the most important factors of an agile culture.
+> **[3:56](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=236)** Psychological safety is one of the most important factors of an [[Agile Development|agile]] culture.
 >
 > **[4:03](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/the-importance-of-psychological-safety?u=76281980&t=243)** When individuals feel safe to speak up and experiment, the entire team thrives, and is better positioned to be more nimble and responsive to the inevitable changes that will come its way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), teams (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Build trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980)
+#### [Build trust](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +459,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=215)** It is a skill that can be developed over time and a practice that can become easier the more you stick with it.
 >
-> **[3:42](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=222)** And sixth, trust is accountability.
+> **[3:42](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=222)** And sixth, trust is [[Accountability]].
 >
 > **[3:46](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=226)** Trust can be violated, it can be misused, and it can be broken.
 >
@@ -474,22 +469,21 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=247)** These are the fundamental properties of trust.
 >
-> **[4:11](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=251)** When we invest in implementation, that's when we'll reap the benefits of better collaboration, innovation, and resiliency, which makes true agility possible.
+> **[4:11](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/build-trust-30016005?u=76281980&t=251)** When we invest in implementation, that's when we'll reap the benefits of better collaboration, innovation, and [[Resiliency]], which makes true agility possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), teams (1), power (1), [[Security]] (1), [[Resiliency]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Resiliency]] (1)
 > **Definitions:** is a  (9), is an  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Mission, vision, and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980)
+#### [Mission, vision, and values](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=0)** - Crystal clear statements that outline goals and expected behavior are an important framework for an agile culture.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=0)** - Crystal clear statements that outline goals and expected behavior are an important framework for an [[Agile Development|agile]] culture.
 >
 > **[0:08](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=8)** When a mission statement, vision statement, and a set of five to seven core values are used throughout your daily work, you can empower your team, provide greater ownership over decision making, and then give your team more of that autonomy that they're craving.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=43)** It describes what happens after you've accomplished your mission.
 >
-> **[0:49](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=49)** So to illustrate this, let's take a look at LinkedIn's mission and vision statement.
+> **[0:49](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=49)** So to illustrate this, let's take a look at [[LinkedIn]]'s mission and vision statement.
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=55)** LinkedIn's mission statement is, to connect the world's professionals to make them more productive and successful.
 >
@@ -535,7 +529,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=183)** Qualifiers.
 >
-> **[3:05](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=185)** These are words that are added to another word to intentionally diminish their impact.
+> **[3:05](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=185)** These are words that are added to another [[Microsoft Word|word]] to intentionally diminish their impact.
 >
 > **[3:11](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/mission-vision-and-values?u=76281980&t=191)** And so some examples would be help to, might, possibly, or could.
 >
@@ -563,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Agile Development|Agile]] (2), next (2), [[Microsoft Word|Word]] (2), generic (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Agile Development|Agile]] (2), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** kind of like (2), just like (1)
 > **Speakers:** - crystal (1)
@@ -573,8 +567,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shame versus empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980)
+#### [Shame versus empathy](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,7 +575,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=3)** What idiot wrote this?
 >
-> **[0:05](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=5)** - Try running git blame.
+> **[0:05](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=5)** - Try running [[Git]] blame.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=7)** It's a command that shows you an entire history of who wrote what.
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=33)** These two forces can absolutely destroy the hard-earned trust, communication, and psychological safety on a team.
 >
-> **[0:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=43)** If you're looking to implement an effective agile culture, then getting good at rooting out all that shame and blame becomes a really important part of the work.
+> **[0:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=43)** If you're looking to implement an effective [[Agile Development|agile]] culture, then getting good at rooting out all that shame and blame becomes a really important part of the work.
 >
 > **[0:53](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980&t=53)** So let's just go over what shame and blame are.
 >
@@ -718,14 +711,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), [[Agile Development|Agile]] (2), power (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[Agile Development|Agile]] (2)
 > **Speakers:** - this (2), - try (2), - okay (2), - good (1), - who (1)
 > **CLI Commands:** git (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 
-#### Heroes versus teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980)
+#### [Heroes versus teams](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,13 +787,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=197)** Lastly, heroes disempower and they don't scale.
 >
-> **[3:21](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=201)** There's little to no incentive for heroes to spend time leveling up the skills on the rest of the team.
+> **[3:21](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=201)** There's little to no incentive for heroes to spend time leveling up the skills on the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[3:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=208)** And more often than not, heroism leads to jealousy, infighting, and just a toxic culture where you lose out in the long run.
 >
 > **[3:37](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=217)** Okay, so we've gone over all the reasons why a hero culture doesn't work and is an anti-pattern, but what should you do instead?
 >
-> **[3:46](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=226)** Well, if we look at the agile manifesto, we're going to find that there are several principles that point to the benefit of cross-functional, self-organizing teams that work at a sustainable pace.
+> **[3:46](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=226)** Well, if we look at the [[Agile Development|agile]] manifesto, we're going to find that there are several principles that point to the benefit of cross-functional, self-organizing teams that work at a sustainable pace.
 >
 > **[3:58](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/heroes-versus-teams?u=76281980&t=238)** So here are some examples: business people and developers must work together daily throughout the project.
 >
@@ -817,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (2), leadership (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - one (1), - we (1), - i (1), - weren (1), - yeah (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
@@ -825,8 +817,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Prerequisites:** required to (1)
 
-#### Stress versus calm
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980)
+#### [Stress versus calm](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +855,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=73)** He told me that, "Research shows that context switching "can take up to 40% of someone's productive time."
 >
-> **[1:20](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=80)** And he pushed me that, "If we really want to go fast "and be responsive, if we want to be agile, "we have to get out of this reactive fire-fighting mode "and we need to calm the chaos."
+> **[1:20](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=80)** And he pushed me that, "If we really want to go fast "and be responsive, if we want to be [[Agile Development|agile]], "we have to get out of this reactive fire-fighting mode "and we need to calm the chaos."
 >
 > **[1:32](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=92)** That phrase, calm the chaos, well, that one stuck.
 >
@@ -930,11 +921,11 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=294)** As you build your agile culture, look for areas of stress and find ways to calm the chaos.
 >
-> **[5:01](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=301)** Doing so is going to help keep your team happier, more productive, and more engaged, all while preventing burnout and poor decision-making.
+> **[5:01](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/stress-versus-calm?u=76281980&t=301)** Doing so is going to help keep your team happier, more productive, and more engaged, all while preventing burnout and poor [[Decision-Making]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), business (4), career (3), management (2), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Decision-Making]] (1)
 > **Speakers:** - okay (1), - hey (1), - about (1), - wouldn (1), - oh (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -942,8 +933,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Analogies:** such as (1)
 
-#### Failure versus experimentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980)
+#### [Failure versus experimentation](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=19)** What we need to do is come up with more requirements and make sure it's absolutely perfect.
 >
-> **[0:24](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=24)** - But we have an automated test suite and continuous delivery set up for a reason.
+> **[0:24](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=24)** - But we have an automated test suite and [[Continuous Delivery (CD)|continuous delivery]] set up for a reason.
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=28)** We can always roll back if we find an issue.
 >
@@ -979,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=32)** I'll pull together a committee.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=38)** - There are a few flashbulb moments in my journey to embracing agile, and one of the biggest ones is about how I learned to reframe failure.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=38)** - There are a few flashbulb moments in my journey to embracing [[Agile Development|agile]], and one of the biggest ones is about how I learned to reframe failure.
 >
 > **[0:49](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=49)** My business partner and I were working on a problem and thinking through all the different ways to approach it.
 >
@@ -1029,20 +1019,19 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=192)** If you're good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.
 >
-> **[3:22](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=202)** Research at McKenzie has indicated that this operating model with a bias towards the speed of decision-making and accepting failure as an inevitable byproduct is what today's highest performing companies are embracing.
+> **[3:22](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=202)** Research at McKenzie has indicated that this operating model with a bias towards the speed of [[Decision-Making]] and accepting failure as an inevitable byproduct is what today's highest performing companies are embracing.
 >
 > **[3:36](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/failure-versus-experimentation?u=76281980&t=216)** When you steer your organization towards embracing experimentation, learning from the results and implementing changes quickly, you're one step closer to creating an agile culture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), business (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Decision-Making]] (1)
 > **Speakers:** - ugh (1), - it (1), - yeah (1), - i (1), - done (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
-#### Efficiency versus responsiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/efficiency-versus-responsiveness?u=76281980)
+#### [Efficiency versus responsiveness](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/efficiency-versus-responsiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1070,7 +1059,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/efficiency-versus-responsiveness?u=76281980&t=37)** - When I went to business school, I learned how to create a really efficient organization.
 >
-> **[0:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/efficiency-versus-responsiveness?u=76281980&t=43)** And then I was introduced to Agile and all of the things that worked for me in the past were suddenly my downfall, big strategic plans, Gantt charts, comprehensive documentation.
+> **[0:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/efficiency-versus-responsiveness?u=76281980&t=43)** And then I was introduced to [[Agile Development|Agile]] and all of the things that worked for me in the past were suddenly my downfall, big strategic plans, Gantt charts, comprehensive documentation.
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/efficiency-versus-responsiveness?u=76281980&t=55)** All of this was seen as a bottleneck for delivering working software quickly.
 >
@@ -1106,17 +1095,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), business (2), management (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4)
 > **Speakers:** - right (2), - i (2), - doesn (1), - excuse (1), - what (1)
 > **CLI Commands:** find (1)
 > **URLs:** [responsive.org](https://responsive.org) (1)
 
-#### Silos versus collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980)
+#### [Silos versus collaboration](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=0)** - Silos, great for farms, not so great for Agile teams.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=0)** - Silos, great for farms, not so great for [[Agile Development|Agile]] teams.
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=6)** Most organizations know that silos don't work.
 >
@@ -1148,7 +1136,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=133)** So, while individuals can focus on being more collaborative in their day-to-day work, there are also many systemic issues that have to be addressed in order to make collaboration part of the culture.
 >
-> **[2:26](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=146)** And these include restructuring performance metrics and compensation, paying attention to how information flows throughout an organization, and in general, a communication pattern that resembles a network, rather than a traditional hierarchy, or a hub-and-spoke model.
+> **[2:26](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=146)** And these include restructuring [[Performance Metrics]] and compensation, paying attention to how information flows throughout an organization, and in general, a communication pattern that resembles a network, rather than a traditional hierarchy, or a hub-and-spoke model.
 >
 > **[2:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/silos-versus-collaboration?u=76281980&t=163)** Those are going to have greater levels of collaboration.
 >
@@ -1158,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Performance Metrics]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - silos (1)
@@ -1168,8 +1156,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collection of individuals versus teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980)
+#### [Collection of individuals versus teams](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980&t=11)** I had never really considered that you could have a group of people with a common skillset who are all working kind of towards the same goals, and have them not be a team.
 >
-> **[0:23](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980&t=23)** Understanding this nuance between a group and a team has been really critical to building an agile culture at my organization.
+> **[0:23](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980&t=23)** Understanding this nuance between a group and a team has been really critical to building an [[Agile Development|agile]] culture at my organization.
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980&t=34)** Okay, so what's the difference?
 >
@@ -1239,12 +1226,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), [[Agile Development|Agile]] (5), business (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **Definitions:** is a  (3)
 > **Speakers:** - do (1)
 
-#### Play to strengths
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/play-to-strengths?u=76281980)
+#### [Play to strengths](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/play-to-strengths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,18 +1302,17 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/play-to-strengths?u=76281980&t=247)** There are many different tools on the market and it's a good idea for you to do your research and figure out what's going to work best for your team.
 >
-> **[4:15](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/play-to-strengths?u=76281980&t=255)** When you spend some time, getting to know the individuals on your team and aligning their strengths to the work, you're on your way to creating a healthy, agile culture.
+> **[4:15](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/play-to-strengths?u=76281980&t=255)** When you spend some time, getting to know the individuals on your team and aligning their strengths to the work, you're on your way to creating a healthy, [[Agile Development|agile]] culture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (15), teams (1), management (1), leadership (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Env Vars:** via (4)
 > **Definitions:** stands for (2), means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - what (1)
 
-#### Diversity, inclusion, and belonging
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980)
+#### [Diversity, inclusion, and belonging](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=10)** In her book, Brotopia: Breaking Up the Boys Club of Silicon Valley, Emily Chang describes how this approach of homogeneity has its roots that go back decades.
 >
-> **[0:22](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=22)** In the 1960s, many organizations used the Canon-Parry Aptitude Test to determine who would be a good fit for software development roles.
+> **[0:22](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=22)** In the 1960s, many organizations used the Canon-Parry Aptitude Test to determine who would be a good fit for [[Software Development]] roles.
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=33)** The defining characteristic, which was developed from a survey of mostly male programmers, determined that the best developers don't like people, and so the stereotype of the lone genius developer was born, and it still largely persists even to the present day.
 >
@@ -1369,7 +1354,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=163)** Now this term was largely credited with Pat Wadors, and it's the ability to bring your whole self to work, and to operate from a place of authenticity.
 >
-> **[2:55](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=175)** Successful, agile teams incorporate all three aspects.
+> **[2:55](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=175)** Successful, [[Agile Development|agile]] teams incorporate all three aspects.
 >
 > **[3:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=180)** Diversity, inclusion, and belonging to their team building efforts.
 >
@@ -1377,23 +1362,22 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=193)** They work hard to ensure everyone's voice is heard and included, and they focus on creating a culture built around psychological safety so that people can show up to work as their full and authentic selves.
 >
-> **[3:29](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=209)** Now, this is a really important topic and it's totally worth taking a deeper dive on it, so lucky for you, both Vera Myers and Pat Wadors have developed courses right here on LinkedIn Learning.
+> **[3:29](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=209)** Now, this is a really important topic and it's totally worth taking a deeper dive on it, so lucky for you, both Vera Myers and Pat Wadors have developed courses right here on [[LinkedIn]] Learning.
 >
 > **[3:42](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/diversity-inclusion-and-belonging?u=76281980&t=222)** I really recommend that you check them out and start incorporating diversity, inclusion, and belonging on your agile team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (11), [[Agile Development|Agile]] (2), strengths (1), [[Software Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Support success
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980)
+#### [Support success](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=0)** - When we think about what makes a successful agile team, we need to consider a few different things.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=0)** - When we think about what makes a successful [[Agile Development|agile]] team, we need to consider a few different things.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=7)** We need to think about interpersonal relationships, and we also need to think about the organizational systems in which those relationships exist.
 >
@@ -1413,11 +1397,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=69)** This is how he explained it.
 >
-> **[1:11](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=71)** "Organizations which design systems are constrained "to produce designs which are copies "of the communication structures of those organizations."
+> **[1:11](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=71)** "Organizations which [[Design Systems]] are constrained "to produce designs which are copies "of the communication structures of those organizations."
 >
 > **[1:23](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=83)** So what all of that means is that if you want your work product to be flexible, modular, and easy to work with, you first have to pay attention to how your team communicates.
 >
-> **[1:36](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=96)** So in general, communication structures that are focused on hierarchy create rigid work products that are brittle and difficult to change, and that's not what we want within a software system.
+> **[1:36](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=96)** So in general, communication structures that are focused on hierarchy create rigid work [[Microsoft Products|products]] that are brittle and difficult to change, and that's not what we want within a software system.
 >
 > **[1:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=108)** So instead, communication structures that resemble networks lead to software systems or other work products that are more resilient, modular, and easier to change.
 >
@@ -1433,7 +1417,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=165)** "My team includes the people I work with, "and also the software itself.
 >
-> **[2:50](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=170)** "And the servers it runs on, "and the database that it uses, "and all of the tools that we use "to interact with that running software: "the code, version control, automated tests, "deployment scripts, logging.
+> **[2:50](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=170)** "And the servers it runs on, "and the database that it uses, "and all of the tools that we use "to interact with that running software: "the code, [[Version Control]], automated tests, "deployment scripts, logging.
 >
 > **[3:03](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/support-success?u=76281980&t=183)** "The software is part of the symmathesy.
 >
@@ -1445,13 +1429,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), teams (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), [[Design Systems]] (1), [[Version Control]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Enable flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/enable-flow?u=76281980)
+#### [Enable flow](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/enable-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,7 +1458,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/enable-flow?u=76281980&t=88)** So individuals need to feel like they have a sense of control over their work, and Pink subdivides this into four critical areas: tasks, time, technique, and team.
 >
-> **[1:41](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/enable-flow?u=76281980&t=101)** Now the foundations of Agile are really built around the idea of autonomy.
+> **[1:41](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/enable-flow?u=76281980&t=101)** Now the foundations of [[Agile Development|Agile]] are really built around the idea of autonomy.
 >
 > **[1:47](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/enable-flow?u=76281980&t=107)** We've got self-organizing teams and trust baked into its principles.
 >
@@ -1505,19 +1488,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), teams (2), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - have (1)
 
-#### Regular reflection
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980)
+#### [Regular reflection](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=0)** - Setting aside time for teams to regularly reflect is an important part of agile culture.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=0)** - Setting aside time for teams to regularly reflect is an important part of [[Agile Development|agile]] culture.
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=7)** So the popular term that you'll hear to describe this activity is a retrospective, and that's a term that was popularized by Norman Kerth in his book, "Project Retrospectives: A Handbook for Team Reviews."
 >
@@ -1525,7 +1507,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=28)** And personally, this is one of my favorite parts about working on an agile team, because it's really powerful to think about how we might be able to continuously improve and get better, but I also love it because it's a great way to connect on a personal level with all of the different people on my team.
 >
-> **[0:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=48)** Now that word, connection, is really important, and we can't get to connection without psychological safety.
+> **[0:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=48)** Now that [[Microsoft Word|word]], connection, is really important, and we can't get to connection without psychological safety.
 >
 > **[0:57](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=57)** Psychological safety is critical for reflection, because we need to be able to talk about all of those things that may not have been so great.
 >
@@ -1549,7 +1531,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=154)** Well, each team is going to develop their own cadence.
 >
-> **[2:39](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=159)** So at my company, we reflect as individuals daily, and that means we type up our thoughts into a wiki page, and then we share it asynchronously with the rest of the team.
+> **[2:39](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=159)** So at my company, we reflect as individuals daily, and that means we type up our thoughts into a wiki page, and then we share it asynchronously with the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[2:50](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/regular-reflection?u=76281980&t=170)** And that works really well for us.
 >
@@ -1559,7 +1541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Agile Development|Agile]] (5), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - setting (1)
@@ -1569,8 +1551,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Candor and conflict
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980)
+#### [Candor and conflict](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1592,7 +1573,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980&t=33)** But there are underlying problems that wreak havoc if left uncovered.
 >
-> **[0:39](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980&t=39)** Part of building an agile culture is creating an environment where people can be candid, disagree and debate.
+> **[0:39](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980&t=39)** Part of building an [[Agile Development|agile]] culture is creating an environment where people can be candid, disagree and debate.
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980&t=48)** So here are three resources to help you think about healthy conflict and how you can incorporate it on your team.
 >
@@ -1648,15 +1629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), strengths (1), data (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7)
 > **Definitions:** is an  (3), refers to (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - by (1)
 
-#### Avoiding groupthink
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/avoiding-groupthink-30025004?u=76281980)
+#### [Avoiding groupthink](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/avoiding-groupthink-30025004?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1650,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/avoiding-groupthink-30025004?u=76281980&t=28)** A presidential select commission was assembled to investigate the cause of the tragedy, which was traced to the failure of a relatively small part, a faulty O-ring.
 >
-> **[0:39](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/avoiding-groupthink-30025004?u=76281980&t=39)** As part of the investigation, a social psychologist named Irving Janis, who specialized in group decision-making, testified before Congress.
+> **[0:39](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/avoiding-groupthink-30025004?u=76281980&t=39)** As part of the investigation, a social psychologist named Irving Janis, who specialized in group [[Decision-Making]], testified before Congress.
 >
 > **[0:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/avoiding-groupthink-30025004?u=76281980&t=48)** While most people were eager to point the blame at a single irresponsible individual, Janis insisted that no one involved acted out of malice, ignorance, or even incompetency.
 >
@@ -1774,7 +1754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Decision-Making]] (1), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
@@ -1782,8 +1762,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Growth mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980)
+#### [Growth mindset](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1811,7 +1790,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=51)** "Today, I want to tell you about the power of yet."
 >
-> **[0:56](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=56)** Yet, that small three-letter word, is so powerful, because it can drastically improve outcomes for the better.
+> **[0:56](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=56)** Yet, that small three-letter [[Microsoft Word|word]], is so powerful, because it can drastically improve outcomes for the better.
 >
 > **[1:06](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=66)** Dweck's research shows that a growth mindset, which she defines as, "the belief that your basic qualities "are things you that you cultivate through your efforts," is strongly correlated to positive outcomes in school, sports, business, relationships, and many other contexts.
 >
@@ -1863,22 +1842,21 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=227)** If this is all done right, with lots of psychological safety, then this practice can help people from different departments or roles develop more empathy for each other, and that ultimately leads to a more productive working relationship.
 >
-> **[4:02](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=242)** Yet, embrace the small but mighty word, and help nurture an agile culture on your team.
+> **[4:02](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/growth-mindset?u=76281980&t=242)** Yet, embrace the small but mighty word, and help nurture an [[Agile Development|agile]] culture on your team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (2), power (1), next (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
 
-#### Embrace negotiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980)
+#### [Embrace negotiation](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=0)** - Like many people, I used to cringe at the word negotiation, and that's because that word conjured up all these images of sleazy people who were trying to take advantage of other people.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=0)** - Like many people, I used to cringe at the [[Microsoft Word|word]] negotiation, and that's because that word conjured up all these images of sleazy people who were trying to take advantage of other people.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=13)** But over time, I have learned that this is a skill that we need to embrace, and over and over again, I notice just how important it is, especially on an Agile team.
+> **[0:13](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=13)** But over time, I have learned that this is a skill that we need to embrace, and over and over again, I notice just how important it is, especially on an [[Agile Development|Agile]] team.
 >
 > **[0:24](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=24)** Now, this is true regardless of your role because negotiation is a constant process on an Agile team.
 >
@@ -1940,7 +1918,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=206)** Develop situational awareness.
 >
-> **[3:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=208)** Learn to observe changes, and then think about how you might react.
+> **[3:28](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=208)** Learn to observe changes, and then think about how you might [[React.js|react]].
 >
 > **[3:33](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/embrace-negotiation?u=76281980&t=213)** Embrace improvisation as a successful part of negotiation.
 >
@@ -1954,13 +1932,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Microsoft Word|Word]] (2), teams (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Microsoft Word|Word]] (2), [[React.js|React]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - like (1)
 
-#### Clear and compassionate communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/clear-and-compassionate-communication?u=76281980)
+#### [Clear and compassionate communication](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/clear-and-compassionate-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,11 +2007,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/clear-and-compassionate-communication?u=76281980&t=225)** And be patient, and kind, when you're asked to explain.
 >
-> **[3:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/clear-and-compassionate-communication?u=76281980&t=228)** When everyone on your team is communicating effectively, working together becomes easier, your team becomes more responsive and nimble, and your culture becomes Agile.
+> **[3:48](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/clear-and-compassionate-communication?u=76281980&t=228)** When everyone on your team is communicating effectively, working together becomes easier, your team becomes more responsive and nimble, and your culture becomes [[Agile Development|Agile]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), power (1), [[Programming]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Analogies:** such as (3), just like (1), picture (1), for example (1)
 > **Definitions:** is a  (2), means that (2), refers to (1)
 > **CLI Commands:** make (3), find (1)
@@ -2046,8 +2023,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2063,7 +2039,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=26)** So here are some resources for you to dig into a little bit more detail.
 >
-> **[0:32](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=32)** First, check out the LinkedIn Learning library.
+> **[0:32](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=32)** First, check out the [[LinkedIn]] Learning library.
 >
 > **[0:35](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=35)** There are many courses that expand on the topics mentioned here.
 >
@@ -2083,7 +2059,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=97)** It has been my pleasure to put together this course for you.
 >
-> **[1:41](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=101)** If you wanted to get in touch with me, you can head over to my website at [corgibytes.com](https://corgibytes.com) where we talk about our experience of creating an agile culture.
+> **[1:41](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=101)** If you wanted to get in touch with me, you can head over to my website at [corgibytes.com](https://corgibytes.com) where we talk about our experience of creating an [[Agile Development|agile]] culture.
 >
 > **[1:51](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980&t=111)** And of course, you can always follow me on LinkedIn.
 >
@@ -2091,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Agile Development|Agile]] (2), career (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Agile Development|Agile]] (2)
 > **CLI Commands:** find (2)
 > **URLs:** [corgibytes.com](https://corgibytes.com) (1)
 > **Exercise Files:** exercise files (1)

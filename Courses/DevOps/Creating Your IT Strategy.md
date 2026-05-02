@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why IT strategy matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980)
+#### [Why IT strategy matters](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -79,7 +78,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=4)** This may seem provocative to you, but why shouldn't that be true?
 >
-> **[0:07](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=7)** If you think about it, many of the most important business trends today, such as social media, mobile business, the Internet of Things, data analytics, all have IT at their core.
+> **[0:07](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=7)** If you think about it, many of the most important business trends today, such as social media, mobile business, the [[IoT|Internet of Things]], data analytics, all have IT at their core.
 >
 > **[0:17](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=17)** And the IT department is arguably the one function that breathes life into all other parts of the business.
 >
@@ -99,13 +98,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=58)** By the end of the course, you'll have the methods needed to become the strategist that your company needs.
 >
-> **[1:03](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=63)** Creating a great IT strategy is more than just words on the page.
+> **[1:03](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=63)** Creating a great [[IT Strategy]] is more than just words on the page.
 >
 > **[1:07](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980&t=67)** It's about transforming your department to become the major driver of growth, innovation, and competitive advantage for your company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Internet of Things (IoT)|Internet of things]] (1), data (1), [[Analytics]] (1), [[IT Strategy]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[IT Strategy]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - information (1)
 
@@ -114,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The changing nature of the IT role
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980)
+#### [The changing nature of the IT role](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=56)** A great example of this is the app economy.
 >
-> **[0:58](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=58)** You probably were first exposed to apps through personal use on your iPhone or Android device.
+> **[0:58](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=58)** You probably were first exposed to apps through personal use on your iPhone or [[Android]] device.
 >
 > **[1:04](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=64)** Now your company probably has developed apps of various kinds for your colleagues and for your customers.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=95)** This will enhance the possibility that a single investment will be made to meet the needs of the entire company, as opposed to one-off competing technologies implemented for each division.
 >
-> **[1:45](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=105)** A third major driver of change is cybersecurity which has become a major board-level concern.
+> **[1:45](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=105)** A third major driver of change is [[Cybersecurity]] which has become a major board-level concern.
 >
 > **[1:51](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=111)** The board has awakened to an information technology for reasons of risk mitigation.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=194)** Weave yourself into the strategic narratives of each of the other business units and functional areas to breathe life into those plans, and encourage your colleagues in IT to do the same.
 >
-> **[3:24](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=204)** Define your own IT strategy as well, highlighting the areas of focus for IT for the foreseeable future in a way that will provide clarity for the IT team and for the rest of the enterprise.
+> **[3:24](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=204)** Define your own [[IT Strategy]] as well, highlighting the areas of focus for IT for the foreseeable future in a way that will provide clarity for the IT team and for the [[Representational State Transfer (REST)|rest]] of the enterprise.
 >
 > **[3:35](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980&t=215)** Dedicate time to research and development.
 >
@@ -195,15 +193,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (2), [[Cybersecurity]] (2), [[Automation]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Android]] (1), [[IT Strategy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cfo (1), cio (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Making IT strategic
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980)
+#### [Making IT strategic](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=37)** The reasons for this hearken back to a time when IT was clearly a support organization within enterprises.
 >
-> **[0:42](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=42)** They more or less took orders from the rest of the organization rather than driving any significant part of the strategic priorities of the enterprise.
+> **[0:42](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=42)** They more or less took orders from the [[Representational State Transfer (REST)|rest]] of the organization rather than driving any significant part of the strategic priorities of the enterprise.
 >
 > **[0:49](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=49)** The best-run IT organizations were those that could take orders quickly, fulfill them efficiently, and then move on to the next order.
 >
@@ -237,9 +234,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=108)** One of the very few divisions of the enterprise, if not the only one, that must help each of those divisions drive those strategic imperatives is the information technology division.
 >
-> **[1:58](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=118)** This is true because information technology is at the heart of how companies interact with customers, sell to customers, enhance customer experience, and deliver products and services, therefore you as an IT leader are almost uniquely disadvantaged by organizations with poorly articulated plans.
+> **[1:58](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=118)** This is true because information technology is at the heart of how companies interact with customers, sell to customers, enhance customer experience, and deliver [[Microsoft Products|products]] and services, therefore you as an IT leader are almost uniquely disadvantaged by organizations with poorly articulated plans.
 >
-> **[2:15](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=135)** Think of your marketing department and your human resources department.
+> **[2:15](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=135)** Think of your marketing department and your [[Human Resources (HR)|human resources]] department.
 >
 > **[2:18](https://www.linkedin.com/learning/creating-your-it-strategy/making-it-strategic-2?u=76281980&t=138)** The marketing department should develop a strategy that is externally focused.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (3), functional (2), teams (2), leadership (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ogtm (1)
@@ -309,8 +306,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - bob (1)
 
-#### Challenges to streamlining IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980)
+#### [Challenges to streamlining IT](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +362,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=131)** What does that mean for you in practical terms?
 >
-> **[2:15](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=135)** I'd say set standards for the biggest systems and hardware that you use like email, PCs, tablets, phones, ERP, procurement solutions, business intelligence and the like.
+> **[2:15](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=135)** I'd say set standards for the biggest systems and [[Hardware]] that you use like email, PCs, tablets, phones, ERP, procurement solutions, [[Business Intelligence (BI)|business intelligence]] and the like.
 >
 > **[2:27](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=147)** This may be a particular challenge if your company is multiple operating companies or business units associated with it, each with a bias towards using and doing their own thing.
 >
@@ -386,7 +382,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=207)** Isolate critical assets into separate enclaves.
 >
-> **[3:31](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=211)** These are the words of Doctor Ron Ross of the National Institute of Standards and Technology, or NIST, who sets the standards for security protocols for the government, and his ideas are used by many private sector companies as well.
+> **[3:31](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=211)** These are the words of Doctor Ron Ross of the National Institute of Standards and Technology, or [[NIST]], who sets the standards for security protocols for the government, and his ideas are used by many private sector companies as well.
 >
 > **[3:44](https://www.linkedin.com/learning/creating-your-it-strategy/challenges-to-streamlining-it-2?u=76281980&t=224)** This separation helps ensure that a data breach in one part of your technology does not lead to a broader breach.
 >
@@ -398,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (4), cloud (3), [[Hardware]] (2), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[NIST]] (1)
 > **Env Vars:** erp (2), cio (1), nist (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -411,14 +407,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an agile IT department
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980)
+#### [Creating an agile IT department](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=0)** - The silos of the modern enterprise need to become more permeable.
 >
-> **[0:04](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=4)** Typically, major business functions such as marketing, sales, human resources, operations, product and service divisions, finance, IT, and others are their own separate buckets.
+> **[0:04](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=4)** Typically, major business functions such as marketing, sales, [[Human Resources (HR)|human resources]], operations, product and service divisions, finance, IT, and others are their own separate buckets.
 >
 > **[0:14](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=14)** The traditional hierarchy is in major need of an update.
 >
@@ -444,9 +439,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=87)** Sales teams need to have better digital details of the customers they're selling to.
 >
-> **[1:32](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=92)** Likewise, your colleagues in product or service divisions need to think about digital channels through which those very products and services will be sold.
+> **[1:32](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=92)** Likewise, your colleagues in product or service divisions need to think about digital channels through which those very [[Microsoft Products|products]] and services will be sold.
 >
-> **[1:40](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=100)** Your IT department cannot realize this vision without becoming more agile as a department.
+> **[1:40](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=100)** Your IT department cannot realize this vision without becoming more [[Agile Development|agile]] as a department.
 >
 > **[1:45](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=105)** Now by agile, I mean flexible, quick to action, quick to cancel initiatives that are not working, iterative in approach, more collaborative.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=133)** Simplifying and standardizing the infrastructure means that more of the IT team's time can be spent on activities that are truly strategic.
 >
-> **[2:21](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=141)** Second, define a clear IT strategy.
+> **[2:21](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=141)** Second, define a clear [[IT Strategy]].
 >
 > **[2:24](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=144)** Defining the objectives of the department in ways that are clear, concise, and accessible by the entire team, from senior leaders to the junior individual contributors is essential.
 >
@@ -466,7 +461,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=160)** If one's project is clearly connected to a larger plan, then the plan itself will help clarify whether to take the right or the left fork.
 >
-> **[2:49](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=169)** Next, make sure to hire solid technologists with strong business acumen.
+> **[2:49](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=169)** Next, make sure to hire solid technologists with strong [[Business Acumen]].
 >
 > **[2:53](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=173)** You already have hiring criteria for hiring people with solid technical skills and management skills.
 >
@@ -496,7 +491,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=260)** And the value is not realized.
 >
-> **[4:23](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=263)** Lastly, develop a culture that emphasizes collaboration, transparency, and accountability.
+> **[4:23](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=263)** Lastly, develop a culture that emphasizes collaboration, transparency, and [[Accountability]].
 >
 > **[4:28](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980&t=268)** Making your IT department an agile IT department requires that your team collaborate together, with colleagues outside of IT, with vendor partners, and with customers to a much greater degree.
 >
@@ -506,15 +501,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Agile Development|Agile]] (5), product (3), [[Human Resources (HR)|Human resources]] (1), hr (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Human Resources (HR)|Human resources]] (1), [[Microsoft Products|Products]] (1), [[IT Strategy]] (1), [[Business Acumen]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - the (1)
 
-#### Measuring IT performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/measuring-it-performance-2?u=76281980)
+#### [Measuring IT performance](https://www.linkedin.com/learning/creating-your-it-strategy/measuring-it-performance-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +550,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/creating-your-it-strategy/measuring-it-performance-2?u=76281980&t=144)** That brings me to my next recommendation.
 >
-> **[2:27](https://www.linkedin.com/learning/creating-your-it-strategy/measuring-it-performance-2?u=76281980&t=147)** Work with your colleagues in finance to develop an IT finance curriculum, metrics involve calculations and possibly algorithms.
+> **[2:27](https://www.linkedin.com/learning/creating-your-it-strategy/measuring-it-performance-2?u=76281980&t=147)** Work with your colleagues in finance to develop an IT finance curriculum, metrics involve calculations and possibly [[Algorithms]].
 >
 > **[2:35](https://www.linkedin.com/learning/creating-your-it-strategy/measuring-it-performance-2?u=76281980&t=155)** If your team isn't savvy in developing these, work with your colleagues in finance to develop a curriculum, this need not be a huge undertaking by your colleagues in finance as they may have something that they use with new members of their team that can be tailored to the needs of IT.
 >
@@ -594,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (2), next (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** ceo (3), cio (1)
 > **Analogies:** for instance (3)
 > **Definitions:** is a  (2)
@@ -602,8 +596,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - when (1)
 
-#### Creating the role of business information officer
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-the-role-of-business-information-officer-2?u=76281980)
+#### [Creating the role of business information officer](https://www.linkedin.com/learning/creating-your-it-strategy/creating-the-role-of-business-information-officer-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,7 +660,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7)
 > **Env Vars:** bio (7), pnc (1), sap (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** find (1)
@@ -679,8 +671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an IT mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-it-mission-2?u=76281980)
+#### [Creating an IT mission](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-it-mission-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,16 +751,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - for (1)
 
-#### Co-creating other departments' strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980)
+#### [Co-creating other departments' strategy](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980&t=0)** - Many IT departments begin the process of developing an IT strategy with less than optimal strategic inputs from other divisions of the company.
+> **[0:00](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980&t=0)** - Many IT departments begin the process of developing an [[IT Strategy]] with less than optimal strategic inputs from other divisions of the company.
 >
 > **[0:08](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980&t=8)** The reason is that many companies create strategy at the enterprise level but do not translate that strategy into the different divisions of the company.
 >
-> **[0:16](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980&t=16)** You as an IT leader would be right not to wait for the rest of the organization to develop their plans as IT needs to be able to demonstrate to the company's leaders and the board where and how it prioritizes activities.
+> **[0:16](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980&t=16)** You as an IT leader would be right not to wait for the [[Representational State Transfer (REST)|rest]] of the organization to develop their plans as IT needs to be able to demonstrate to the company's leaders and the board where and how it prioritizes activities.
 >
 > **[0:28](https://www.linkedin.com/learning/creating-your-it-strategy/co-creating-other-departments-strategy-2?u=76281980&t=28)** In creating even the first plan, it's important to get some input from the rest of the organization.
 >
@@ -845,14 +835,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), next (3), data (2), [[Analytics]] (2), [[IT Strategy]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[IT Strategy]] (1)
 > **Env Vars:** swot (3)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - many (1)
 
-#### Ways for IT leaders to collaborate outside of IT
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980)
+#### [Ways for IT leaders to collaborate outside of IT](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,27 +865,27 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=43)** This is probably the biggest opportunity that businesses across industries are pursuing as it can lead to insights that will impact the top and bottom lines.
 >
-> **[0:52](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=52)** IT should have a leadership role in this, but all too often IT leaders are responsible for the pipes that represent the hardware and software solutions that enable data analytics, but they do not tap those pipes for insights.
+> **[0:52](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=52)** IT should have a leadership role in this, but all too often IT leaders are responsible for the pipes that represent the [[Hardware]] and software solutions that enable data analytics, but they do not tap those pipes for insights.
 >
 > **[1:04](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=64)** Colleagues in marketing, sales, product and service divisions and others may do that.
 >
 > **[1:09](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=69)** IT needs to build the capability to do this to a greater degree.
 >
-> **[1:14](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=74)** The Internet of Things is also white hot.
+> **[1:14](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=74)** The [[IoT|Internet of Things]] is also white hot.
 >
 > **[1:16](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=76)** There are predictions that by 2030 40% of communications over the internet will be machine to machine.
 >
 > **[1:22](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=82)** This frees people from the manual labor of years past.
 >
-> **[1:26](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=86)** Now machines connect to other machines with algorithms dictating the type of data that might be collected and humans only interact with the data generated when it has achieved statistical significance.
+> **[1:26](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=86)** Now machines connect to other machines with [[Algorithms]] dictating the type of data that might be collected and humans only interact with the data generated when it has achieved statistical significance.
 >
 > **[1:38](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=98)** As such, this makes for faster and better decisions.
 >
 > **[1:42](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=102)** Again, it may be other parts of the organization that take the lead on the Internet of Things, but IT needs to build the skills to play a leadership role.
 >
-> **[1:51](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=111)** Social media continues to be an essential medium to recruit new talent, market one's products, develop spheres of influence and to listen to what customers are saying about the company.
+> **[1:51](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=111)** Social media continues to be an essential medium to recruit new talent, market one's [[Microsoft Products|products]], develop spheres of influence and to listen to what customers are saying about the company.
 >
-> **[2:01](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=121)** Your team should have deep perspectives on how best to use which medium and help architect the strategy for the enterprise, again involving a wide array of other leaders like those who head marketing, communications, legal, sales, human resources and so on.
+> **[2:01](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=121)** Your team should have deep perspectives on how best to use which medium and help architect the strategy for the enterprise, again involving a wide array of other leaders like those who head marketing, communications, legal, sales, [[Human Resources (HR)|human resources]] and so on.
 >
 > **[2:16](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=136)** Another big trend is mobile computing.
 >
@@ -908,7 +897,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=167)** Again, IT should have plenty to say about this.
 >
-> **[2:50](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=170)** At first blush, cloud computing may seem like a topic of scant interest to your colleagues outside of IT.
+> **[2:50](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=170)** At first blush, [[Cloud Computing]] may seem like a topic of scant interest to your colleagues outside of IT.
 >
 > **[2:55](https://www.linkedin.com/learning/creating-your-it-strategy/ways-for-it-leaders-to-collaborate-outside-of-it?u=76281980&t=175)** On the contrary, enterprises increasingly understand that the power to simplify the infrastructure of the organization variablizes the cost structure, may decrease costs overall and creates a stronger foundation upon which to build.
 >
@@ -934,14 +923,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (4), leadership (4), [[Analytics]] (2), [[Internet of Things (IoT)|Internet of things]] (2)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[Algorithms]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - if (1)
 
-#### Tips to retain top IT talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980)
+#### [Tips to retain top IT talent](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,9 +945,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=43)** You do this by surveying direct reports in addition to superiors.
 >
-> **[0:47](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=47)** Busy savvy and business acumen has so much value now as derived at the intersection between IT and varies business disciplines such as marketing or operations.
+> **[0:47](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=47)** Busy savvy and [[Business Acumen]] has so much value now as derived at the intersection between IT and varies business disciplines such as marketing or operations.
 >
-> **[0:57](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=57)** Learning agility as the pace of change in IT has never been faster and the ability to learn new processes and technologies is essential.
+> **[0:57](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=57)** [[Learning Agility]] as the pace of change in IT has never been faster and the ability to learn new processes and technologies is essential.
 >
 > **[1:06](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=66)** The ability to attract talent as companies now look to hire executives and IT as well as other functions who are talent magnets bringing with them others with whom they have worked who want to continue to work with a boss or peer who they love, and finally, the ability to groom talent and develops a session plan for all key posts.
 >
@@ -967,7 +955,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=89)** How often do you fill senior level openings on your team with people outside of the company?
 >
-> **[1:34](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=94)** In many ways, this is a declaration of failure of talent management.
+> **[1:34](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=94)** In many ways, this is a declaration of failure of [[Talent Management]].
 >
 > **[1:38](https://www.linkedin.com/learning/creating-your-it-strategy/tips-to-retain-top-it-talent?u=76281980&t=98)** As provocative as that sounds, the fact that a person has not been identified and groomed to succeed a leader who leaves the company indicates a bit of talent management shortsightedness.
 >
@@ -1025,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Talent Management]] (2), leadership (2), [[Learning Agility]] (1)
+> **Frameworks & Libraries:** [[Talent Management]] (2), [[Business Acumen]] (1), [[Learning Agility]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** cio (2)
 > **Analogies:** such as (1)

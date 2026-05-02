@@ -86,18 +86,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning npm
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980)
+#### [Learning npm](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=0)** - If you've ever worked with Node or any JavaScript framework, you've worked with Node Package Manager, or MPM, at one time or another, and if you'd like to better understand what you can do with NPM, you've come to the right place.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=0)** - If you've ever worked with Node or any [[JavaScript]] framework, you've worked with Node Package Manager, or MPM, at one time or another, and if you'd like to better understand what you can do with [[npm]], you've come to the right place.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=14)** Mastering the commands and functions that come with MPM will be the focus of this course.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=19)** Hi, I'm Emmy Henri, and it's my pleasure to show you what you can do with MPM and bring your skillset to the next level.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=27)** We'll begin by making sure you can fall along with Codespace on GitHub, then we'll explore all the basic tools you can use with NPM, such as adding, updating or removing a package.
+> **[0:27](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=27)** We'll begin by making sure you can fall along with Codespace on [[GitHub]], then we'll explore all the basic tools you can use with NPM, such as adding, updating or removing a package.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980&t=38)** Finally, we'll dive deep into advanced features, such as NPM cache, audits, scripting and more.
 >
@@ -105,21 +104,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), node (2), [[JavaScript]] (1), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[JavaScript]] (1), [[GitHub]] (1)
 > **Env Vars:** npm (4), mpm (3)
 > **CLI Commands:** npm (4), node (2)
 > **Analogies:** such as (2)
 > **Tools:** github (1)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an introductory course on npm, so no prior knowledge of the tool and its commands is necessary.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an introductory course on [[npm]], so no prior knowledge of the tool and its commands is necessary.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980&t=7)** However, some experience with Node.js or JavaScript based projects will help you understand the context of these commands versus being completely in the dark when we come to discuss them.
+> **[0:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980&t=7)** However, some experience with [[Node.js]] or [[JavaScript]] based projects will help you understand the context of these commands versus being completely in the dark when we come to discuss them.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-npm-a-package-manager/what-you-should-know?u=76281980&t=18)** But if you don't have that type of experience, not to worry, you'll be able to complete this course without it.
 
@@ -131,16 +129,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ramon de Lobos, Senior Staff Instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ramon de Lobos, Senior Staff Instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=8)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world, hands-on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world, hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=194)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=198)** I'm going to make a minor edit on the index HTML file right here.
+> **[3:18](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=198)** I'm going to make a minor edit on the index [[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here, and the branch name now has an asterisk on it.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run get fetch.
+> **[5:34](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run get [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/learning-npm-a-package-manager/using-github-codespaces-with-this-course?u=76281980&t=337)** That way it'll automatically sync with your forked repo.
 >
@@ -264,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), open the (1), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -278,18 +275,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining a package and npm
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980)
+#### [Defining a package and npm](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=0)** - [Instructor] If you've ever built applications with JavaScript, React, Angular, Node.js, or Express, you've used the package manager to install dependencies.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=0)** - [Instructor] If you've ever built applications with [[JavaScript]], [[React.js|React]], [[Angular]], [[Node.js]], or Express, you've used the package manager to install dependencies.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=9)** This package manager is called npm.
+> **[0:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=9)** This package manager is called [[npm]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=12)** It comes pre-install with Node.js and we'll go over how to install it shortly.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=17)** Dependencies or packages, they're used in all your projects and come in with a package.json file, such as this one.
+> **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=17)** Dependencies or packages, they're used in all your projects and come in with a package.[[JSON]] file, such as this one.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980&t=26)** This file is the map of your project.
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Node.js]] (2), [[npm]] (2), [[Search]] (2), css (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Node.js]] (2), [[npm]] (2), [[JavaScript]] (1), [[Angular]] (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** node (2), npm (2), find (1)
 > **File Paths:** node.js (2), package.json (1)
@@ -328,14 +324,13 @@ created: 2026-05-02
 > **URLs:** [npmjs.com](https://npmjs.com) (1)
 > **Env Vars:** css (1)
 
-#### Installing Node and npm
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980)
+#### [Installing Node and npm](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=0)** - [Instructor] In this course, we're going to use CodeSpace to make it easier to follow and use the branches as the course endings.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=8)** However, when you work on your projects, you need to install NPM or Node.js Let's go over the proper steps to install NPM.
+> **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=8)** However, when you work on your projects, you need to install [[npm]] or [[Node.js]] Let's go over the proper steps to install NPM.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=17)** So all you have to do is first go to [nodejs.org](https://nodejs.org) and then here, it should actually recommend for your own system what you need to download.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=42)** Usually what I do is go with this, because it's the safest way.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=46)** Now, what you need to do if you don't see your operating system here and you can't download the right version, what you could do is go to Other Downloads and then go to the Current or the LTS version and find the Windows installer, macOS, or source code for Linux.
+> **[0:46](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=46)** Now, what you need to do if you don't see your operating system here and you can't download the right version, what you could do is go to Other Downloads and then go to the Current or the LTS version and find the [[Windows]] installer, macOS, or source code for [[Linux]].
 >
 > **[1:06](https://www.linkedin.com/learning/learning-npm-a-package-manager/installing-node-and-npm?u=76281980&t=66)** And then you can go here if you want to have specific versions here so the 64 bit, ARMv7, and so on, so forth.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), [[Windows]] (1), [[Linux]] (1), node (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** npm (3), node (2), find (2), make (1)
 > **Env Vars:** npm (3), lts (2)
 > **UI Navigation:** go to (3)
@@ -371,12 +366,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initializing a package.json file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980)
+#### [Initializing a package.json file](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=0)** - [Instructor] As mentioned before, the package .json file is the map for building your project and setting your dependencies.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=0)** - [Instructor] As mentioned before, the package .[[JSON]] file is the map for building your project and setting your dependencies.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=8)** But first, let's take a look at what you need to follow along.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=56)** So let's go ahead and do that.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=61)** And I'm going to do npm init.
+> **[1:01](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=61)** And I'm going to do [[npm]] init.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=64)** So when you do that it's going to create the package .json file.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=81)** Index. That's the entry point of the project.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=85)** Test command. And what's the git repository?
+> **[1:25](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=85)** Test command. And what's the [[Git]] repository?
 >
 > **[1:28](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980&t=88)** It's basically setting up the one that we have.
 >
@@ -453,8 +447,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding node packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980)
+#### [Adding node packages](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,15 +465,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=26)** So what I'm going to do is go Ctrl + grab it to bring the terminal.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=30)** And then what I'm going to do is go ahead and do npm install and you can do i as a shortcut, and let's install express.
+> **[0:30](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=30)** And then what I'm going to do is go ahead and do [[npm]] install and you can do i as a shortcut, and let's install express.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=50)** And as you can see now we're going to have dependencies that are going to show up on our package.json file.
+> **[0:50](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=50)** And as you can see now we're going to have dependencies that are going to show up on our package.[[JSON]] file.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=56)** So express to show up here.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=59)** If you want to install dev dependencies, you do the exact same thing by doing npm install, and the only thing that you add is -save-dev and then you install the dependencies that you need.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=74)** In this case, let's go ahead and install babel-cli.
+> **[1:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=74)** In this case, let's go ahead and install babel-[[CLI]].
 >
 > **[1:18](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=78)** Oh, made a little typo.
 >
@@ -490,13 +483,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=91)** So babel and then cli.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=93)** So the keyword word -save-dev is a special keyword is basically a keyword that tells NPM to install these as dev tools, which means they won't be included on your production build, but used throughout development.
+> **[1:33](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=93)** So the keyword [[Microsoft Word|word]] -save-dev is a special keyword is basically a keyword that tells NPM to install these as dev tools, which means they won't be included on your production build, but used throughout development.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=107)** So when you compile a production build, these dependencies won't be included like our Babel packages which help us compile ES6 or related code to JavaScript that the web understands.
+> **[1:47](https://www.linkedin.com/learning/learning-npm-a-package-manager/adding-node-packages?u=76281980&t=107)** So when you compile a production build, these dependencies won't be included like our Babel packages which help us compile ES6 or related code to [[JavaScript]] that the web understands.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (3), express (2), [[CLI]] (2), [[JSON]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[CLI]] (2), [[JSON]] (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Prerequisites:** install (7)
 > **CLI Commands:** npm (3)
 > **Env Vars:** npm (1), es6 (1)
@@ -505,14 +498,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing global directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980)
+#### [Managing global directory](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=0)** - [Instructor] Sometimes, it makes sense to install globally.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=2)** For example, I have a CLI tool for creating new react applications installed globally on my system.
+> **[0:02](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=2)** For example, I have a [[CLI]] tool for creating new [[React.js|react]] applications installed globally on my system.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=8)** So let's go over how to manage your global packages.
 >
@@ -536,7 +528,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=70)** So let me show you.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=71)** I'm going to go back to my terminal and I'm going to do npm install create-react-app, and then you would do -g, like this, and it would install this directly, globally on your system.
+> **[1:11](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=71)** I'm going to go back to my terminal and I'm going to do [[npm]] install create-react-app, and then you would do -g, like this, and it would install this directly, globally on your system.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-npm-a-package-manager/managing-global-directory?u=76281980&t=87)** If you have any permission errors when you do this, like a EACCES or anything like that, you can go here on this link and go through the instructions how to resolve it.
 >
@@ -550,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), application (3), [[CLI]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[CLI]] (1), [[npm]] (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** npx (2), npm (1), sudo (1)
 > **Env Vars:** eacces (2), cli (1)
@@ -559,8 +551,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** stack overflow (1)
 
-#### Updating a dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980)
+#### [Updating a dependency](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=18)** So let's go ahead and first install a specific version.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=22)** So I'm going to npm install eslint and we're going to install this version 5.2.0.
+> **[0:22](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=22)** So I'm going to [[npm]] install [[ESLint]] and we're going to install this version 5.2.0.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=36)** So now that we have this install, you can see that we have this version here.
 >
@@ -608,7 +599,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=141)** So let's go and do 8.32.0 and it's going to install the latest version in our system.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=148)** And as you can see now, in the package.json file, we have 8.32.
+> **[2:28](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=148)** And as you can see now, in the package.[[JSON]] file, we have 8.32.
 >
 > **[2:32](https://www.linkedin.com/learning/learning-npm-a-package-manager/updating-a-dependency?u=76281980&t=152)** This would've been the version that would've been installed initially if you just did npm install eslens.
 >
@@ -623,8 +614,7 @@ created: 2026-05-02
 > **File Paths:** package.json (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing a dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980)
+#### [Removing a dependency](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,9 +622,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980&t=3)** So it's very simple.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980&t=5)** To remove a package after you install it is "npm uninstall."
+> **[0:05](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980&t=5)** To remove a package after you install it is "[[npm]] uninstall."
 >
-> **[0:10](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980&t=10)** And let's say we wanted to remove "eslint."
+> **[0:10](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980&t=10)** And let's say we wanted to remove "[[ESLint]]."
 >
 > **[0:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/removing-a-dependency?u=76281980&t=14)** That would be it.
 >
@@ -657,8 +647,7 @@ created: 2026-05-02
 > **CLI Commands:** npm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Semantic versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/semantic-versioning?u=76281980)
+#### [Semantic versioning](https://www.linkedin.com/learning/learning-npm-a-package-manager/semantic-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +665,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-npm-a-package-manager/semantic-versioning?u=76281980&t=31)** Now, what is the caret, the character that looks like a hat?
 >
-> **[0:34](https://www.linkedin.com/learning/learning-npm-a-package-manager/semantic-versioning?u=76281980&t=34)** This is the default when installing new packages, and it means that when you or another developer installs the dependencies, and let's say the package JSON file says version 4.16.3 for Express, it means that MPM will install any recent version available, such as 4.xx.
+> **[0:34](https://www.linkedin.com/learning/learning-npm-a-package-manager/semantic-versioning?u=76281980&t=34)** This is the default when installing new packages, and it means that when you or another developer installs the dependencies, and let's say the package [[JSON]] file says version 4.16.3 for Express, it means that MPM will install any recent version available, such as 4.xx.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-npm-a-package-manager/semantic-versioning?u=76281980&t=53)** So if the most current version of Express is 4.25.4, it will install that version but never any version 5.
 >
@@ -696,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[JSON]] (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Versions:** 4.16 (2), version 4 (1), 16.3 (1), 4.25.4 (1), version 5 (1)
 > **Definitions:** means that (3), is a  (2), in other words (2)
 > **Prerequisites:** install (6)
@@ -705,12 +694,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to package-lock.json
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-package-lock-json?u=76281980)
+#### [Introduction to package-lock.json](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-package-lock-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-package-lock-json?u=76281980&t=0)** - [Instructor] Whenever you run npm install on a new project, this weird file called package-lock.json appears in your root directory.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-package-lock-json?u=76281980&t=0)** - [Instructor] Whenever you run [[npm]] install on a new project, this weird file called package-lock.[[JSON]] appears in your root directory.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-package-lock-json?u=76281980&t=8)** What is this file and its purpose?
 >
@@ -746,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (9), [[npm]] (5), application (1), express (1)
+> **Frameworks & Libraries:** [[JSON]] (9), [[npm]] (5)
 > **File Paths:** package-lock.json (7), package.json (2)
 > **CLI Commands:** npm (5), make (1)
 > **Prerequisites:** install (6)
@@ -760,8 +748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Publishing an unscoped package
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980)
+#### [Publishing an unscoped package](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +802,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=131)** Okay.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=131)** So what I'm going to do now is basically test the package cuz we already did our npm in it.
+> **[2:11](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=131)** So what I'm going to do now is basically test the package cuz we already did our [[npm]] in it.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=137)** So if you look in the instructions of npmjs you're going to see that the first thing you need to do is initialize your package.
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=225)** So what you do instead, you do where exactly on your computer, is this package.
 >
-> **[3:51](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=231)** So if I had this package locally, it might be somewhere on emmanuelhenry, and then it could be in github, my github directory, and then in my-package folder, something like so.
+> **[3:51](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=231)** So if I had this package locally, it might be somewhere on emmanuelhenry, and then it could be in [[GitHub]], my github directory, and then in my-package folder, something like so.
 >
 > **[4:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980&t=249)** Package... So if it was there by doing npm install and the full path of your package it's going to install that package and test it.
 >
@@ -869,7 +856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (6), [[GitHub]] (2), web (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[GitHub]] (2)
 > **CLI Commands:** npm (6), make (2), find (1)
 > **Tools:** github (2), visual studio (1)
 > **Prerequisites:** install (3)
@@ -878,8 +865,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Warnings:** note that (1)
 
-#### Publishing a scoped package
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980)
+#### [Publishing a scoped package](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=33)** So let's go ahead and explore how this works.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=36)** So the first thing I'm going to do is remove the package.json file here because you actually set the scope when you initialize your package.json file.
+> **[0:36](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=36)** So the first thing I'm going to do is remove the package.[[JSON]] file here because you actually set the scope when you initialize your package.json file.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=46)** So let's go ahead and do that.
 >
@@ -909,7 +895,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=64)** So let's go ahead and do that.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=66)** So the first thing you do is, again, like we've done in a previous video, you're going to do npm init.
+> **[1:06](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=66)** So the first thing you do is, again, like we've done in a previous video, you're going to do [[npm]] init.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=73)** But now as opposed to just do it that way without any other commands, you're going to do -scope and then you're going to set what is the name of the organization or your username.
 >
@@ -927,7 +913,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=146)** So we have express here.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=149)** Then let's do npm i babel-cli -save--dev, like so.
+> **[2:29](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=149)** Then let's do npm i babel-[[CLI]] -save--dev, like so.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=160)** And then we'll have the dev dependencies showing up here.
 >
@@ -979,7 +965,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=315)** So once you do this command, you will be publishing to npm.js as a scope package and the access is going to be public.
 >
-> **[5:24](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=324)** So pretty much like Angular.
+> **[5:24](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=324)** So pretty much like [[Angular]].
 >
 > **[5:25](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-scoped-package?u=76281980&t=325)** For example, if you install any Angular packages, you see the @angular and then the name of the package after forward slash.
 >
@@ -987,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (12), [[JSON]] (5), [[Angular]] (3), express (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[npm]] (12), [[JSON]] (5), [[Angular]] (3), [[CLI]] (1)
 > **CLI Commands:** npm (12), make (2)
 > **File Paths:** npm.js (6), package.json (4), package-lock.json (1)
 > **Prerequisites:** install (4), set up (2)
@@ -996,8 +982,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Publishing a private package
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980)
+#### [Publishing a private package](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,7 +990,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=6)** So if you followed along from the third chapter doing the on scope first, doing the scope, this part is going to be very quick, very easy for you.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=16)** So if you are jumping into this video, please watch the other ones so you get all the previous knowledge about how to initialize your package.json file, how to set it as scope as you initialized it.
+> **[0:16](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=16)** So if you are jumping into this video, please watch the other ones so you get all the previous knowledge about how to initialize your package.[[JSON]] file, how to set it as scope as you initialized it.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=30)** So right now it should be scope.
 >
@@ -1023,7 +1008,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=62)** You don't need to do any extra steps to make it scope and private.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=67)** All you need to do at this point is to do the publish, npm publish command here.
+> **[1:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=67)** All you need to do at this point is to do the publish, [[npm]] publish command here.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-a-private-package?u=76281980&t=74)** And if you're logged in into your npm.js account, it's going to publish as scope and as private because that's the default.
 >
@@ -1052,12 +1037,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with your npm cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980)
+#### [Working with your npm cache](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980&t=0)** - [Instructor] Npm keeps a cache of your installed modules so that it doesn't have to get them every time, but that sometimes can lead to unexpected results.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980&t=0)** - [Instructor] [[npm]] keeps a cache of your installed modules so that it doesn't have to get them every time, but that sometimes can lead to unexpected results.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980&t=9)** And worse, turn app that doesn't work properly.
 >
@@ -1107,18 +1091,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (8), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[npm]] (8)
 > **CLI Commands:** npm (8), make (3), find (1)
 > **Documentation:** official docs (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running an npm audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/running-an-npm-audit?u=76281980)
+#### [Running an npm audit](https://www.linkedin.com/learning/learning-npm-a-package-manager/running-an-npm-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/running-an-npm-audit?u=76281980&t=0)** - [Instructor] An npm audit is basically a command that will check the dependencies of your project and make sure they're safe to use.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/running-an-npm-audit?u=76281980&t=0)** - [Instructor] An [[npm]] audit is basically a command that will check the dependencies of your project and make sure they're safe to use.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/running-an-npm-audit?u=76281980&t=7)** Whenever you install the new package, the command npm audit runs automatically and tells you if there are any issues with a package.
 >
@@ -1200,7 +1183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (7), [[Security]] (2), application (2)
+> **Frameworks & Libraries:** [[npm]] (7)
 > **CLI Commands:** npm (7), make (5)
 > **Prerequisites:** install (4), make sure you have (2)
 > **Definitions:** is an  (2), means that (1)
@@ -1209,8 +1192,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scripting in package.json
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980)
+#### [Scripting in package.json](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1202,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=6)** So you should pull from the 0403 branch on the repo, and you're going to have these extra files that I set up for you.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=15)** So this is not a course about building an API, I have a full course on that if you want to learn how to build an API server with Node and Express, basically use some of the files from that course actually, and one of 'em is the index where you can see I'm starting an express server, and I just basically put the bare bones of it, and then in the package.json file you're going to see that there's extra things that I've installed here.
+> **[0:15](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=15)** So this is not a course about building an API, I have a full course on that if you want to learn how to build an API server with Node and Express, basically use some of the files from that course actually, and one of 'em is the index where you can see I'm starting an express server, and I just basically put the bare bones of it, and then in the package.[[JSON]] file you're going to see that there's extra things that I've installed here.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=41)** So I've installed actually Express and [Socket.IO](https://Socket.IO) is already there, but devDependencies weren't there.
 >
@@ -1240,7 +1222,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=83)** So I'm going to do that, so I'm going to bring up my terminal through Control grabbing, you can grab it here as well.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=91)** And let's just clear that up and do npm i.
+> **[1:31](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=91)** And let's just clear that up and do [[npm]] i.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=96)** So scripting a package.json file gives us a way to do simple commands to repeat or execute complex commands.
 >
@@ -1288,7 +1270,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=246)** And this is going to make the whole thing work.
 >
-> **[4:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=249)** So once we have that in Codespaces it's going to save it automatically, if you're working locally on your system you have to save it yourself.
+> **[4:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=249)** So once we have that in [[Codespaces]] it's going to save it automatically, if you're working locally on your system you have to save it yourself.
 >
 > **[4:18](https://www.linkedin.com/learning/learning-npm-a-package-manager/scripting-in-package-json?u=76281980&t=258)** And now what we're going to do is install nodemon.
 >
@@ -1314,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), [[npm]] (9), express (7), [[Scripting]] (5), api (2)
+> **Frameworks & Libraries:** [[npm]] (9), [[JSON]] (2), [[Codespaces]] (1)
 > **CLI Commands:** node (10), npm (9), make (5)
 > **Prerequisites:** install (3), set up (2)
 > **File Paths:** package.json (2)
@@ -1323,14 +1305,13 @@ created: 2026-05-02
 > **Env Vars:** api (2)
 > **Tools:** terminal (2)
 
-#### Introduction to npx
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980)
+#### [Introduction to npx](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=0)** - Have you ever experienced installing CLI tools from MPM packages that you used only once in order to create new projects?
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=0)** - Have you ever experienced installing [[CLI]] tools from MPM packages that you used only once in order to create new projects?
 >
-> **[0:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=7)** Good examples are Yo Man or the Create React app tool or the Angular CLI tool.
+> **[0:07](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=7)** Good examples are Yo Man or the Create [[React.js|React]] app tool or the [[Angular CLI]] tool.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=13)** What can result from installing these tools is package pollution in your global directories.
 >
@@ -1368,7 +1349,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=103)** Perfect.
 >
-> **[1:44](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=104)** So in this particular directory, I'm going to go ahead and create a new Angular project.
+> **[1:44](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=104)** So in this particular directory, I'm going to go ahead and create a new [[Angular]] project.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=109)** So instead of installing Angular CLI on my own system, I'm going to use NPX and run the actual command from Angular CLI right away.
 >
@@ -1424,7 +1405,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=235)** You can also do scripts inside of your project.
 >
-> **[3:59](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=239)** So if we go back to our project here and do a script, you can do a script inside of your package .json here that is going to leverage NPX.
+> **[3:59](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=239)** So if we go back to our project here and do a script, you can do a script inside of your package .[[JSON]] here that is going to leverage NPX.
 >
 > **[4:12](https://www.linkedin.com/learning/learning-npm-a-package-manager/introduction-to-npx?u=76281980&t=252)** So let's copy that for example.
 >
@@ -1456,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular CLI]] (7), [[Angular]] (7), cd (2), application (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Angular CLI]] (7), [[Angular]] (7), [[CLI]] (1), [[React.js|React]] (1), [[JSON]] (1)
 > **Env Vars:** npx (12), cli (8), mpm (5)
 > **CLI Commands:** npx (12), make (4), cd (2)
 > **Analogies:** for example (3)
@@ -1465,18 +1446,17 @@ created: 2026-05-02
 > **Versions:** version 5 (1)
 > **Tools:** vs code (1)
 
-#### Alternatives to npm
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980)
+#### [Alternatives to npm](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=0)** - [Instructor] NPM is constantly growing into a better tool every year with new commands and additions to its already solid list of commands.
+> **[0:00](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=0)** - [Instructor] [[npm]] is constantly growing into a better tool every year with new commands and additions to its already solid list of commands.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=8)** But there are alternatives you could use.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=10)** Beware that more often than not, if something works well in these alternatives, most likely NPM will implement it too.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=17)** For example, the package-lock.json file was introduced not too long ago after Yarn did it.
+> **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=17)** For example, the package-lock.[[JSON]] file was introduced not too long ago after Yarn did it.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-npm-a-package-manager/alternatives-to-npm?u=76281980&t=23)** I used yarn for a bit and then switched back to NPM.
 >
@@ -1502,7 +1482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (1)
 > **CLI Commands:** yarn (9), npm (8), find (1)
 > **Env Vars:** npm (8)
 > **Definitions:** is a  (2)
@@ -1516,8 +1496,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Furthering your npm journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980)
+#### [Furthering your npm journey](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,9 +1504,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=4)** There are multiple areas you could explore after completing this MPM course.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=9)** For example, you can move on to learning more about node.js and building projects such as an API application with Express.
+> **[0:09](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=9)** For example, you can move on to learning more about [[Node.js]] and building projects such as an API application with Express.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=17)** You can also look into other frameworks such as React and Angular.
+> **[0:17](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=17)** You can also look into other frameworks such as [[React.js|React]] and [[Angular]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=21)** All of these types of projects use MPM extensively.
 >
@@ -1535,13 +1514,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=31)** They are several courses on these subjects in our library.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=34)** MPM and Node are so present everywhere in JavaScript programming that wherever you throw your dart you'll most likely land on subject touching MPM.
+> **[0:34](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=34)** MPM and Node are so present everywhere in [[JavaScript]] programming that wherever you throw your dart you'll most likely land on subject touching MPM.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980&t=44)** Thank you for taking my course, and I'll see you in a bit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Node.js]] (1), api (1), application (1), express (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[React.js|React]] (1), [[Angular]] (1), [[JavaScript]] (1)
 > **Env Vars:** mpm (6), api (1)
 > **CLI Commands:** node (3)
 > **Analogies:** such as (2), for example (1)

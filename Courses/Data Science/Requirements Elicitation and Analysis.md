@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start defining and discovering
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980)
+#### [Start defining and discovering](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=11)** Great requirements include progressive elaboration.
 >
-> **[0:15](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=15)** They change, and our customers' needs change as we analyze and develop products.
+> **[0:15](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=15)** They change, and our customers' needs change as we analyze and develop [[Microsoft Products|products]].
 >
 > **[0:21](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=21)** Facilitating the process to determine precisely what to build that customers and users will love and benefit from is no small task.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=41)** Hi, I'm Angela Wick, and welcome to this course, which focuses on requirements elicitation and analysis and provides an overview of the mindset and techniques that are used to elicit and analyze high quality innovative solutions.
 >
-> **[0:58](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=58)** In today's business and technology environment, where change, ambiguity, and complexity are the norm, product and software requirements analysis work is critical to success.
+> **[0:58](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=58)** In today's business and technology environment, where change, ambiguity, and complexity are the norm, product and software [[Requirements Analysis]] work is critical to success.
 >
 > **[1:12](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980&t=72)** Are you ready to start defining and discovering better requirements?
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1), product (1), [[Requirements Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Requirements Analysis]] (1)
 > **Speakers:** - are (1)
 
 
@@ -124,14 +123,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are elicitation and analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980)
+#### [What are elicitation and analysis?](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=1)** - You know what it's like to try on a piece of clothing and it just doesn't fit, and it looks so good on the hanger meeting all of your requirements.
 >
-> **[0:09](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=9)** This happens to users of software and products all the time.
+> **[0:09](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=9)** This happens to users of software and [[Microsoft Products|products]] all the time.
 >
 > **[0:13](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=13)** How do we truly know the solution we're working on is right for the stakeholders, customers, and the organization?
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=144)** Analysis involves a combination of thinking, inspiring dialogue, and analysis with others.
 >
-> **[2:32](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=152)** It involves modeling, diagramming, and documenting to bring out the various angles to ensure impact, gaps, scenarios, and connections are well understood by the team.
+> **[2:32](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=152)** It involves modeling, [[Diagramming]], and documenting to bring out the various angles to ensure impact, gaps, scenarios, and connections are well understood by the team.
 >
 > **[2:45](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980&t=165)** Elicitation and analysis are easy to neglect in a day filled with meetings, emails, and interruptions.
 >
@@ -177,13 +175,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (2), [[Microsoft Products|Products]] (1), next (1), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Diagramming]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - you (1)
 
-#### Role of elicitation and analysis in requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980)
+#### [Role of elicitation and analysis in requirements](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,9 +244,9 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980&t=200)** We do this until the team feels we have a shared understanding at the right level of detail to move forward.
 >
-> **[3:26](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980&t=206)** And this is the same for defects, user stories, and backlog items on agile teams or an entire product, if all the requirements are being done at one time.
+> **[3:26](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980&t=206)** And this is the same for defects, user stories, and backlog items on [[Agile Development|agile]] teams or an entire product, if all the requirements are being done at one time.
 >
-> **[3:37](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980&t=217)** Without elicitation and analysis, our solutions and products are fraught with rework, defects, and the potential to frustrate our users and customers.
+> **[3:37](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980&t=217)** Without elicitation and analysis, our solutions and [[Microsoft Products|products]] are fraught with rework, defects, and the potential to frustrate our users and customers.
 >
 > **[3:48](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/role-of-elicitation-and-analysis-in-requirements?u=76281980&t=228)** This frustration can lead to major costs to the organization.
 >
@@ -257,12 +254,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (2), next (2), product (2), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Why is it important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/why-is-it-important-8354541?u=76281980)
+#### [Why is it important?](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/why-is-it-important-8354541?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,13 +300,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), teams (1), data (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - currently (1)
 
-#### The relationship of elicitation to analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/the-relationship-of-elicitation-to-analysis-8355545?u=76281980)
+#### [The relationship of elicitation to analysis](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/the-relationship-of-elicitation-to-analysis-8355545?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/the-relationship-of-elicitation-to-analysis-8355545?u=76281980&t=105)** I find that elicitation and analysis often happens at the same time in the same meeting, or in the same interaction points, meaning that some of the techniques we use to elicit are also used to analyze.
 >
-> **[1:58](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/the-relationship-of-elicitation-to-analysis-8355545?u=76281980&t=118)** For example, when interviewing a stakeholder, I ask questions to elicit.
+> **[1:58](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/the-relationship-of-elicitation-to-analysis-8355545?u=76281980&t=118)** For example, when [[Interviewing]] a stakeholder, I ask questions to elicit.
 >
 > **[2:04](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/the-relationship-of-elicitation-to-analysis-8355545?u=76281980&t=124)** And while listening, I connect some pieces that cause me to ask more questions.
 >
@@ -378,14 +372,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - think (1)
 
-#### Levels of detail in elicitation and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/levels-of-detail-in-elicitation-and-analysis-8361131?u=76281980)
+#### [Levels of detail in elicitation and analysis](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/levels-of-detail-in-elicitation-and-analysis-8361131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +410,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/levels-of-detail-in-elicitation-and-analysis-8361131?u=76281980&t=84)** It's understanding all the goals a user has when using the product.
 >
-> **[1:29](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/levels-of-detail-in-elicitation-and-analysis-8361131?u=76281980&t=89)** For example, a mobile shopping experience would include things like browse products, put items in a cart, research details of an item, checking out, check shipping status, and view past purchases.
+> **[1:29](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/levels-of-detail-in-elicitation-and-analysis-8361131?u=76281980&t=89)** For example, a mobile shopping experience would include things like browse [[Microsoft Products|products]], put items in a cart, research details of an item, checking out, check shipping status, and view past purchases.
 >
 > **[1:46](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/levels-of-detail-in-elicitation-and-analysis-8361131?u=76281980&t=106)** A third layer would peel back each goal to uncover more details.
 >
@@ -437,13 +430,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (1), data (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - elicitation (1)
 
-#### Key mindsets to be successful
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/key-mindsets-to-be-successful-8354536?u=76281980)
+#### [Key mindsets to be successful](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/key-mindsets-to-be-successful-8354536?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/key-mindsets-to-be-successful-8354536?u=76281980&t=97)** And my last tip, understand and embrace your role.
 >
-> **[1:42](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/key-mindsets-to-be-successful-8354536?u=76281980&t=102)** You facilitate decision-making through the requirements process.
+> **[1:42](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/key-mindsets-to-be-successful-8354536?u=76281980&t=102)** You facilitate [[Decision-Making]] through the requirements process.
 >
 > **[1:46](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/key-mindsets-to-be-successful-8354536?u=76281980&t=106)** Every requirement is a decision about how the business and technology will work together.
 >
@@ -499,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1), [[Decision-Making]] (1), teams (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1)
@@ -510,8 +502,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elicitation overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/elicitation-overview-8360495?u=76281980)
+#### [Elicitation overview](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/elicitation-overview-8360495?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -567,14 +558,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (1), data (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - every (1)
 
-#### Interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980)
+#### [Interviews](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,9 +575,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=16)** Interviews are an extremely common elicitation technique and no doubt you're already using them, but are they as effective as they could be?
 >
-> **[0:24](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=24)** I'd like to look at interviews as either a relationship building tool or a deeper dive into the details of someone's domain or scope of work.
+> **[0:24](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=24)** I'd like to look at interviews as either a [[Relationship Building]] tool or a deeper dive into the details of someone's domain or scope of work.
 >
-> **[0:34](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=34)** You can find value in interviewing almost anyone associated with the project like sponsors, subject matter experts, business managers, customers, and users.
+> **[0:34](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=34)** You can find value in [[Interviewing]] almost anyone associated with the project like sponsors, subject matter experts, business managers, customers, and users.
 >
 > **[0:45](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=45)** But your interviews should be strategic, helping you build or smooth relationships with key stakeholders or eliciting details in areas of complexity.
 >
@@ -624,7 +613,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=159)** Taking extensive notes can really wreck the flow.
 >
-> **[2:42](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=162)** So at most, I create a framework of reminder bullets instead of trying to capture every single word they say.
+> **[2:42](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=162)** So at most, I create a framework of reminder bullets instead of trying to capture every single [[Microsoft Word|word]] they say.
 >
 > **[2:50](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/interviews-8357554?u=76281980&t=170)** Next is the interview follow-up.
 >
@@ -644,13 +633,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (5), [[Relationship Building]] (3), business (1), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (5), [[Relationship Building]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - if (1)
 
-#### Brainstorming
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/brainstorming-8361137?u=76281980)
+#### [Brainstorming](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/brainstorming-8361137?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,12 +700,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - i (1)
 
-#### Observation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/observation-8357553?u=76281980)
+#### [Observation](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/observation-8357553?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,15 +767,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), career (1), parallel (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - observation (1)
 
-#### Experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980)
+#### [Experiments](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,7 +787,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=21)** It's the best technique to pull out when your team needs clarity and needs to learn something to move forward.
 >
-> **[0:29](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=29)** Experimenting is about learning the unknown, testing ideas, assumptions, and key theories that drive requirements for products and systems.
+> **[0:29](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=29)** Experimenting is about learning the unknown, testing ideas, assumptions, and key theories that drive requirements for [[Microsoft Products|products]] and systems.
 >
 > **[0:39](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=39)** We identify what we want to learn more about and design an experiment to bring the team the needed information.
 >
@@ -839,7 +823,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=148)** Design your experiment to minimize the impact outside of your precise learning area.
 >
-> **[2:34](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=154)** Experiments are powerful and can get teams real-time information that shines a spotlight on the true needs and requirements of users.
+> **[2:34](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=154)** Experiments are powerful and can get teams [[Real-Time]] information that shines a spotlight on the true needs and requirements of users.
 >
 > **[2:43](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/experiments-8354539?u=76281980&t=163)** Experiment with experiments.
 >
@@ -847,13 +831,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), business (1), [[Microsoft Products|Products]] (1), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### Workshops
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/workshops-8361132?u=76281980)
+#### [Workshops](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/workshops-8361132?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +880,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/workshops-8361132?u=76281980&t=124)** The best workshops include engaging activities, games, small group work sessions and some large group discussion.
 >
-> **[2:13](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/workshops-8361132?u=76281980&t=133)** Consider interactive and visual activities like brainstorming with sticky notes, group modeling and diagramming and/or collaborative games.
+> **[2:13](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/workshops-8361132?u=76281980&t=133)** Consider interactive and visual activities like brainstorming with sticky notes, group modeling and [[Diagramming]] and/or collaborative games.
 >
 > **[2:23](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/workshops-8361132?u=76281980&t=143)** And don't forget about timing.
 >
@@ -935,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), career (1), [[Diagramming]] (1), teams (1), power (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **Best Practices:** don't forget (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -947,12 +930,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analysis overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980)
+#### [Analysis overview](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=1)** - The products we analyze have many parts.
+> **[0:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=1)** - The [[Microsoft Products|products]] we analyze have many parts.
 >
 > **[0:03](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=3)** If we look at a product and all of the things it can do, it would likely resemble a tree.
 >
@@ -968,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=60)** There are many ways to analyze.
 >
-> **[1:03](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=63)** It involves a combination of thinking, dialogue, modeling, diagramming, and organizing information in various views to help us think about and look at the product, process, or system from various perspectives.
+> **[1:03](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=63)** It involves a combination of thinking, dialogue, modeling, [[Diagramming]], and organizing information in various views to help us think about and look at the product, process, or system from various perspectives.
 >
 > **[1:19](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980&t=79)** Our stakeholders see the solution differently than engineers and developers do.
 >
@@ -1004,14 +986,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (1), data (1), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Diagramming]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Process models
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/process-models-8361135?u=76281980)
+#### [Process models](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/process-models-8361135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1004,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/process-models-8361135?u=76281980&t=16)** It takes a lot of good conversations to deliver valuable solutions.
 >
-> **[0:21](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/process-models-8361135?u=76281980&t=21)** That's probably why process modeling is the most commonly used technique for requirements analysis.
+> **[0:21](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/process-models-8361135?u=76281980&t=21)** That's probably why process modeling is the most commonly used technique for [[Requirements Analysis]].
 >
 > **[0:27](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/process-models-8361135?u=76281980&t=27)** It's a multi-purpose tool.
 >
@@ -1097,15 +1078,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Requirements Analysis]] (2), product (1), business (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Requirements Analysis]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** kind of like (1), picture (1)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - process (1)
 
-#### Context diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/context-diagrams-8360500?u=76281980)
+#### [Context diagrams](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/context-diagrams-8360500?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,15 +1175,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (2), teams (2), next (2), business (1)
 > **Analogies:** picture (5), for example (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - i (1)
 
-#### User stories and story mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980)
+#### [User stories and story mapping](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,7 +1191,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=18)** User stories are placeholders for future conversations and the story map shows the map of how the user stories relate to one another.
 >
-> **[0:28](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=28)** User stories and story maps are a great technique many Agile teams use, and they can also be used for non-Agile projects, as well, as a powerful requirements technique.
+> **[0:28](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=28)** User stories and story maps are a great technique many [[Agile Development|Agile]] teams use, and they can also be used for non-Agile projects, as well, as a powerful requirements technique.
 >
 > **[0:39](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=39)** First, let's look at user stories.
 >
@@ -1269,7 +1247,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=235)** A story map tells the whole story versus a small part of it.
 >
-> **[3:59](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=239)** It's a technique that keeps the team focused on the user experience and results in better dialog and conversation.
+> **[3:59](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=239)** It's a technique that keeps the team focused on the [[User Experience (UX)|user experience]] and results in better dialog and conversation.
 >
 > **[4:08](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/user-stories-and-story-mapping-8357549?u=76281980&t=248)** To create a user story map, we take all the user stories and place them in sequence of how a customer uses the product from left to right.
 >
@@ -1287,15 +1265,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Agile Development|Agile]] (2), [[User Experience (UX)|User experience]] (1), product (1), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - when (1)
 
-#### Decision tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/decision-tables-8357550?u=76281980)
+#### [Decision tables](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/decision-tables-8357550?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/decision-tables-8357550?u=76281980&t=5)** Getting the decision logic correct in our requirements is no easy task.
 >
-> **[0:10](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/decision-tables-8357550?u=76281980&t=10)** Decision tables are a great way to organize and display decision logic, and I use them frequently for requirements analysis.
+> **[0:10](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/decision-tables-8357550?u=76281980&t=10)** Decision tables are a great way to organize and display decision logic, and I use them frequently for [[Requirements Analysis]].
 >
 > **[0:18](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/decision-tables-8357550?u=76281980&t=18)** Let's take a look at our online coffee store case study and use a payment example, and start thinking about which parts of the online payment process has decision logic.
 >
@@ -1389,15 +1366,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Requirements Analysis]] (1), power (1)
+> **Frameworks & Libraries:** [[Requirements Analysis]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - we (1)
 
-#### Data flow diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/data-flow-diagrams-8360499?u=76281980)
+#### [Data flow diagrams](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/data-flow-diagrams-8360499?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1465,7 +1441,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/data-flow-diagrams-8360499?u=76281980&t=198)** Well, probably not.
 >
-> **[3:20](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/data-flow-diagrams-8360499?u=76281980&t=200)** A critical step in any diagramming process is collaborating with others and walking the diagram together.
+> **[3:20](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/data-flow-diagrams-8360499?u=76281980&t=200)** A critical step in any [[Diagramming]] process is collaborating with others and walking the diagram together.
 >
 > **[3:28](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/data-flow-diagrams-8360499?u=76281980&t=208)** Facilitate the walkthrough by asking them questions like, where do we store the decisions needed to calculate shipping?
 >
@@ -1477,15 +1453,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), database (5), [[Diagramming]] (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - have (1)
 
-#### State and sequence diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980)
+#### [State and sequence diagrams](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1503,7 +1478,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=35)** A state diagram shows all these states and what causes the state to change.
 >
-> **[0:40](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=40)** Without understanding the states and how they change, your user experience will be compromised.
+> **[0:40](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=40)** Without understanding the states and how they change, your [[User Experience (UX)|user experience]] will be compromised.
 >
 > **[0:46](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=46)** Let's look at an example.
 >
@@ -1533,7 +1508,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=138)** Be sure to model what's needed for your intended audience.
 >
-> **[2:23](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=143)** Sequence and state diagrams are a great part of a requirements analysis toolkit, and great for details that tend to get lost in translation with other models.
+> **[2:23](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=143)** Sequence and state diagrams are a great part of a [[Requirements Analysis]] toolkit, and great for details that tend to get lost in translation with other models.
 >
 > **[2:33](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/state-and-sequence-diagrams-8355546?u=76281980&t=153)** We've stated the business level with these examples.
 >
@@ -1541,7 +1516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[User Experience (UX)|User experience]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Requirements Analysis]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - what (1)
@@ -1551,12 +1526,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blending your elicitation and analysis together
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980)
+#### [Blending your elicitation and analysis together](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=1)** - Choosing the right requirements technique is sort of like putting together a jigsaw puzzle.
+> **[0:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=1)** - Choosing the right requirements technique is sort of like putting together a [[Jigsaw]] puzzle.
 >
 > **[0:05](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=5)** You know, roughly what pieces to look for and start with, you use clues like color and shape as a guide.
 >
@@ -1610,7 +1584,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=143)** It's quite common to plan meetings and collaborations that do both elicitation and analysis in the same event.
 >
-> **[2:30](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=150)** For example, you might be brainstorming features with a group or interviewing some stakeholders then create a draft process model to see how all the information is fitting together.
+> **[2:30](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=150)** For example, you might be brainstorming features with a group or [[Interviewing]] some stakeholders then create a draft process model to see how all the information is fitting together.
 >
 > **[2:42](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=162)** You might schedule a collaborative meeting to discover what parts of the process and the solution are likely to change.
 >
@@ -1618,7 +1592,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=175)** This can be a conversation that flows back and forth between analysis and elicitation.
 >
-> **[3:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=181)** And these are very powerful dialogues that can bring new insight innovation and Swift progress.
+> **[3:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=181)** And these are very powerful dialogues that can bring new insight innovation and [[Swift (Programming Language)|Swift]] progress.
 >
 > **[3:08](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980&t=188)** I've provided an exercise file that will help you blend elicitation and analysis techniques and align them to the appropriate situations.
 >
@@ -1636,14 +1610,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jigsaw]] (1), teams (1), [[Interviewing]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Jigsaw]] (1), [[Interviewing]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** find (3)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - choosing (1)
 
-#### New processes, products, and systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980)
+#### [New processes, products, and systems](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1679,7 +1652,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=101)** You and the team will also need to pay close attention to other requirements aspects not covered in this course.
 >
-> **[1:48](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=108)** Here's some things to keep in mind: nonfunctional requirements, assumptions, constraints, data relationships, business rules, human-centered design, and user experience.
+> **[1:48](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=108)** Here's some things to keep in mind: nonfunctional requirements, assumptions, constraints, data relationships, business rules, human-centered design, and [[User Experience (UX)|user experience]].
 >
 > **[2:01](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=121)** The two biggest risks to this type of project are lack of stakeholder involvement and lack of vision.
 >
@@ -1687,7 +1660,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=132)** You also need stakeholders who are available to spend time with the team to protect the vision as the requirements are evolving.
 >
-> **[2:21](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=141)** Projects that build new processes and products are exciting and fun.
+> **[2:21](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=141)** Projects that build new processes and [[Microsoft Products|products]] are exciting and fun.
 >
 > **[2:25](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/new-processes-products-and-systems-8360496?u=76281980&t=145)** It's really rewarding to see something built from the ground up.
 >
@@ -1695,15 +1668,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (1), data (1), business (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
 
-#### Adding to a process, product, or system
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/adding-to-a-process-product-or-system-8359577?u=76281980)
+#### [Adding to a process, product, or system](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/adding-to-a-process-product-or-system-8359577?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,13 +1725,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - most (1)
 
-#### Buying and implementing software
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/buying-and-implementing-software-8354538?u=76281980)
+#### [Buying and implementing software](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/buying-and-implementing-software-8354538?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1823,7 +1793,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (2), teams (1), cloud (1), functional (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** configure (2)
 > **Cross-References:** later in (1)

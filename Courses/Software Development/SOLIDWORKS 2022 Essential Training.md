@@ -199,14 +199,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn 3D CAD modeling using SOLIDWORKS 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980)
+#### [Learn 3D CAD modeling using SOLIDWORKS 2022](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980&t=0)** - [Gabriel] Hi, I'm Gabriel Corbett, and welcome to SOLIDWORKS 2022 Essential Training.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980&t=0)** - [Gabriel] Hi, I'm Gabriel Corbett, and welcome to [[SOLIDWORKS]] 2022 Essential Training.
 >
-> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980&t=7)** In my LinkedIn Learning course, you'll get up to speed on creating complex parts, assemblies and drawings.
+> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980&t=7)** In my [[LinkedIn]] Learning course, you'll get up to speed on creating complex parts, assemblies and drawings.
 >
 > **[0:13](https://www.linkedin.com/learning/solidworks-2022-essential-training/learn-3d-cad-modeling-using-solidworks-2022?u=76281980&t=13)** We'll cover all the key tools and techniques so you can focus on your design and not the software.
 >
@@ -232,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[LinkedIn]] (2)
 > **Env Vars:** solidworks (2), cad (1)
 > **Speakers:** - [gabriel] (1)
 
@@ -241,12 +240,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Launching SOLIDWORKS for the first time
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980)
+#### [Launching SOLIDWORKS for the first time](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=0)** - [Instructor] SolidWorks is the world leader in 3D solid modeling software.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] is the world leader in 3D solid modeling software.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=4)** SolidWorks is both a history and feature-based parametric modeling program.
 >
@@ -372,7 +370,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=290)** Now up here at the top of the screen is a lot of your view controls.
 >
-> **[4:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=294)** So you have this like zoom to fit, you have zoom to area, previous view.
+> **[4:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=294)** So you have this like [[Zoom]] to fit, you have zoom to area, previous view.
 >
 > **[4:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=297)** And it's a little hard to show these right now because we don't really have thing to zoom into but they're available right here at the top of the screen same thing with section view.
 >
@@ -400,7 +398,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=370)** You can just drag and drop those into the design library and you have those available to you anytime you're working in a design.
 >
-> **[6:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=375)** Something like a piece of a hardware like a screw or a nut you're using all the time, throw it in the design library, you're building assembly, you need to screw things together, grab that screw pull into the assembly and made it all together and you should be good to go.
+> **[6:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=375)** Something like a piece of a [[Hardware]] like a screw or a nut you're using all the time, throw it in the design library, you're building assembly, you need to screw things together, grab that screw pull into the assembly and made it all together and you should be good to go.
 >
 > **[6:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/launching-solidworks-for-the-first-time?u=76281980&t=387)** So those are your kind of three main environments as far as the ribbon, the feature manager and the library tools over here on the right.
 >
@@ -428,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (12), feature (5), [[Zoom]] (3), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (12), [[Zoom]] (3), [[Hardware]] (1)
 > **UI Navigation:** click on (8), drag and drop (1)
 > **Definitions:** is a  (3), is called (1)
 > **Exercise Files:** template (3)
@@ -437,8 +435,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Env Vars:** ips (1)
 
-#### Navigating in the 3D workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980)
+#### [Navigating in the 3D workspace](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,7 +449,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=24)** Now if you hold down the middle mouse button or the scroll wheel so you can actually push down on that scroll wheel that'll allow you to rotate the model right and left and up and down.
 >
-> **[0:35](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=35)** Now if you actually scroll that will zoom in and zoom out.
+> **[0:35](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=35)** Now if you actually scroll that will [[Zoom]] in and zoom out.
 >
 > **[0:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=39)** And then if you hold down Shift on your keyboard what that'll is also zoom in and zoom out or you can hold down Control and then push down that middle mouse button and that'll pan your model back and forth or up and down.
 >
@@ -500,7 +497,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=167)** Next one is going to be the Display Style.
 >
-> **[2:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=170)** So at the top, you've got Shaded with Edges which is most of the time the way I design inside of SolidWorks but you can also turn those edges off so you just have a shaded mode which looks like this go a little further and say I want hidden lines removed and a little further you're going to have hidden lines visible so you can see through there a little bit.
+> **[2:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=170)** So at the top, you've got Shaded with Edges which is most of the time the way I design inside of [[SOLIDWORKS]] but you can also turn those edges off so you just have a shaded mode which looks like this go a little further and say I want hidden lines removed and a little further you're going to have hidden lines visible so you can see through there a little bit.
 >
 > **[3:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/navigating-in-the-3d-workspace?u=76281980&t=190)** Next one is going to be a Wire Frame mode which you can see everything inside there as full lines and this is really helpful if you're tryna inspect a part and see what's on inside even see through it you can see a lot of detail here but it's a little hard to see what's really going on so I prefer to maybe switch over this to get an x-ray view and then switch back over here to the Shaded with Edges, for most of my modeling.
 >
@@ -572,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (11), next (9), feature (6), [[SOLIDWORKS]] (4), hit (2)
+> **Frameworks & Libraries:** [[Zoom]] (11), [[SOLIDWORKS]] (4)
 > **UI Navigation:** click on (7), switch to (2), dropdown (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is called (1), is a  (1)
@@ -581,12 +578,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you need to have (1)
 
-#### SOLIDWORKS templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/solidworks-templates?u=76281980)
+#### [SOLIDWORKS templates](https://www.linkedin.com/learning/solidworks-2022-essential-training/solidworks-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/solidworks-templates?u=76281980&t=0)** - Anytime you start a new document inside of SolidWorks, it's using a template.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/solidworks-templates?u=76281980&t=0)** - Anytime you start a new document inside of [[SOLIDWORKS]], it's using a template.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/solidworks-templates?u=76281980&t=4)** So up here under the defaults, we have a Part template, we have an Assembly template as well as a Drawing template.
 >
@@ -695,12 +691,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** getting started (1)
 
-#### Saving, renaming, and managing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980)
+#### [Saving, renaming, and managing files](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=0)** - (Narrator) In this movie, let's talk about the different file types inside of SolidWorks and how to save and modify those parts.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=0)** - (Narrator) In this movie, let's talk about the different file types inside of [[SOLIDWORKS]] and how to save and modify those parts.
 >
 > **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=7)** Now, the basic structure for any type of SolidWorks assembly is you've got one kind of top level assembly.
 >
@@ -750,7 +745,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=105)** So I'm going to click on that and go ahead and rename it dash four.
 >
-> **[1:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=109)** So pretty simple and straightforward to do that in Windows Explorer, right?
+> **[1:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=109)** So pretty simple and straightforward to do that in [[Windows]] Explorer, right?
 >
 > **[1:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=113)** It's no problem right?
 >
@@ -778,7 +773,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=153)** Make sure you think it through, name the files correctly the first time and then don't change 'em and don't change the locations if you can help it.
 >
-> **[2:40](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=160)** I'd also recommend using a program like Treehouse which ships with SolidWorks, or even just Excel.
+> **[2:40](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=160)** I'd also recommend using a program like Treehouse which ships with SolidWorks, or even just [[Microsoft Excel|Excel]].
 >
 > **[2:47](https://www.linkedin.com/learning/solidworks-2022-essential-training/saving-renaming-and-managing-files?u=76281980&t=167)** Excel's great for kind of just laying out all the names and descriptions of the parts you're going to be creating, so you can visualize what they're going to be called, coming up with a logical file naming system and then typing out all those files ahead of time.
 >
@@ -822,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (17), [[Windows]] (5), [[Microsoft Excel|Excel]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (17), [[Windows]] (5), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (4), find (2)
 > **Versions:** 1.4 (6)
 > **UI Navigation:** click on (3), open the (2)
@@ -831,8 +826,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Measuring
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/measuring?u=76281980)
+#### [Measuring](https://www.linkedin.com/learning/solidworks-2022-essential-training/measuring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/measuring?u=76281980&t=53)** So you can use a lot of different functions and modifications inside of the Measure command.
 >
-> **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/measuring?u=76281980&t=58)** And you can do this all while you're creating parts inside of SolidWorks.
+> **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/measuring?u=76281980&t=58)** And you can do this all while you're creating parts inside of [[SOLIDWORKS]].
 >
 > **[1:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/measuring?u=76281980&t=61)** So for instance, if you're over here and maybe you're going to work on this feature here, maybe you start on a face, you start a sketch, you come over here.
 >
@@ -892,17 +886,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[SOLIDWORKS]] (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interface improvements for SOLIDWORKS 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/interface-improvements-for-solidworks-2022?u=76281980)
+#### [Interface improvements for SOLIDWORKS 2022](https://www.linkedin.com/learning/solidworks-2022-essential-training/interface-improvements-for-solidworks-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/interface-improvements-for-solidworks-2022?u=76281980&t=0)** - [Instructor] Each year SolidWorks improves the software and SolidWorks 2022 it's no exception.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/interface-improvements-for-solidworks-2022?u=76281980&t=0)** - [Instructor] Each year [[SOLIDWORKS]] improves the software and SolidWorks 2022 it's no exception.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/interface-improvements-for-solidworks-2022?u=76281980&t=5)** A couple of the features that I really think are pretty handy are this one right here, is if we click on the S command on your keyboard, you get this little popup window, that is your Shortcut Bar.
 >
@@ -948,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (6), feature (2), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (6)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -959,12 +952,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your first 3D part
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-your-first-3d-part?u=76281980)
+#### [Creating your first 3D part](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-your-first-3d-part?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-your-first-3d-part?u=76281980&t=1)** - Thank you for joining me for this SolidWorks quick start.
+> **[0:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-your-first-3d-part?u=76281980&t=1)** - Thank you for joining me for this [[SOLIDWORKS]] quick start.
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-your-first-3d-part?u=76281980&t=3)** In this chapter, I'm going to be showing you how to create assemblies, parts and drawings in a very quick four movies.
 >
@@ -1208,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), [[SOLIDWORKS]] (5), hit (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (5)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (3)
@@ -1216,8 +1208,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - thank (1)
 
-#### Building your first assembly
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980)
+#### [Building your first assembly](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,7 +1216,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=3)** Now I'm not going to cover every single detail to create an assembly, but I'm going to cover the basics.
 >
-> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=7)** What it's going to take to grab some parts and build an assembly inside of SolidWorks.
+> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=7)** What it's going to take to grab some parts and build an assembly inside of [[SOLIDWORKS]].
 >
 > **[0:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=11)** To get started, let's go ahead and open a part.
 >
@@ -1291,7 +1282,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=131)** If you hold down the middle mouse button, it rotates everything.
 >
-> **[2:14](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=134)** And if you zoom in, zoom out, you can use that scroll wheel to do so.
+> **[2:14](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=134)** And if you [[Zoom]] in, zoom out, you can use that scroll wheel to do so.
 >
 > **[2:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-your-first-assembly?u=76281980&t=137)** So a bunch of different options for how to navigate inside of the 3D space.
 >
@@ -1369,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[Zoom]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[Zoom]] (2)
 > **UI Navigation:** click on (9)
 > **CLI Commands:** make (4)
 > **Versions:** 2.2 (2)
@@ -1377,8 +1368,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making your first CAD drawing
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980)
+#### [Making your first CAD drawing](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,7 +1438,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=97)** So over here under annotation; smart dimension.
 >
-> **[1:40](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=100)** I'm going to zoom in just using the scroll on my mouse, and go ahead and just add a couple dimensions.
+> **[1:40](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=100)** I'm going to [[Zoom]] in just using the scroll on my mouse, and go ahead and just add a couple dimensions.
 >
 > **[1:46](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=106)** This is two inches there.
 >
@@ -1548,7 +1538,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=287)** You might have to adjust the drawing a little bit, but overall there it is.
 >
-> **[4:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=291)** That's your first drawing inside of SolidWorks.
+> **[4:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=291)** That's your first drawing inside of [[SOLIDWORKS]].
 >
 > **[4:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-your-first-cad-drawing?u=76281980&t=294)** And again, it's associative to the part itself.
 >
@@ -1562,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), feature (1), [[Zoom]] (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (5), dropdown (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** make (2)
@@ -1570,12 +1560,11 @@ created: 2026-05-02
 > **Env Vars:** ansi (1)
 > **Speakers:** - this (1)
 
-#### Basic steps for 3D modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/basic-steps-for-3d-modeling?u=76281980)
+#### [Basic steps for 3D modeling](https://www.linkedin.com/learning/solidworks-2022-essential-training/basic-steps-for-3d-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/basic-steps-for-3d-modeling?u=76281980&t=0)** - [Instructor] In this movie, we're going to be covering the basic steps for creating a model inside of SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/basic-steps-for-3d-modeling?u=76281980&t=0)** - [Instructor] In this movie, we're going to be covering the basic steps for creating a model inside of [[SOLIDWORKS]].
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/basic-steps-for-3d-modeling?u=76281980&t=5)** To get started, I'm going to cover the six steps of modeling.
 >
@@ -1751,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (5), feature (3), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (5)
 > **CLI Commands:** make (3), snap (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1763,12 +1752,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating sketches
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980)
+#### [Creating sketches](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=0)** - [Instructor] In this movie, we're going to be diving in depth into creating sketches and some of the idiosyncrasies of how we can create them in SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=0)** - [Instructor] In this movie, we're going to be diving in depth into creating sketches and some of the idiosyncrasies of how we can create them in [[SOLIDWORKS]].
 >
 > **[0:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=8)** So we've already looked at this a few times now, as far as creating a sketch, we need a face or a plane.
 >
@@ -1828,7 +1816,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=126)** Now, if you want to change the feature itself you come over here to editing the feature click to the first one here, edit feature and define how long this is or define how you're creating that feature.
 >
-> **[2:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=137)** And we'll be jumping in and learning about these things and a little more, but you can do blind or you can say up to vertex or up to surface or mid plane and knows it switches the way that feature is created.
+> **[2:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=137)** And we'll be jumping in and learning about these things and a little more, but you can do blind or you can say up to [[Vertex]] or up to surface or mid plane and knows it switches the way that feature is created.
 >
 > **[2:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=148)** But if you want to change the shape you need to change and edit the sketch.
 >
@@ -1940,19 +1928,18 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=339)** And then the extrude or the cut will define the length of how far that comes out.
 >
-> **[5:45](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=345)** That's the basics for sketching in SolidWorks.
+> **[5:45](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-sketches?u=76281980&t=345)** That's the basics for [[Sketching]] in SolidWorks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), [[SOLIDWORKS]] (7), [[Vertex]] (1), next (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (7), [[Vertex]] (1), [[Sketching]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), click on (1), select the (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980)
+#### [Understanding relationships](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,22 +2047,21 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=219)** And I definitely recommend adding relationships versus adding a whole bunch of extra dimensions in your drawing to keep them looking clean and nice.
 >
-> **[3:46](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=226)** And we're going to be covering this a lot more as we go through the course, but that is the basics for using relationships in sketches inside of SolidWorks.
+> **[3:46](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-relationships?u=76281980&t=226)** And we're going to be covering this a lot more as we go through the course, but that is the basics for using relationships in sketches inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (6), snap (1)
 > **UI Navigation:** click on (6), select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Using the Extrude feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980)
+#### [Using the Extrude feature](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=0)** - [Instructor] The extrude feature is one of the main workhorses in the arsenal of SolidWorks tools.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=0)** - [Instructor] The extrude feature is one of the main workhorses in the arsenal of [[SOLIDWORKS]] tools.
 >
 > **[0:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=6)** Let me show you how to make it work.
 >
@@ -2119,7 +2105,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=74)** I'm just doing a blind extrude, but inside this box here, this dropdown, I've got a whole bunch of other options.
 >
-> **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=80)** So I have up to vertex up to surface, off from surface, up to body or mid-plane.
+> **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=80)** So I have up to [[Vertex]] up to surface, off from surface, up to body or mid-plane.
 >
 > **[1:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extrude-feature?u=76281980&t=84)** Well, the problem is, is I don't have any other vertexes surfaces or bodies to extrude up to.
 >
@@ -2281,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), [[Vertex]] (3), [[SOLIDWORKS]] (2), hit (1)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[SOLIDWORKS]] (2)
 > **CLI Commands:** snap (3), make (2)
 > **UI Navigation:** click on (4), dropdown (1)
 > **Definitions:** is a  (3)
@@ -2289,8 +2275,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Extruded Cut feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980)
+#### [Using the Extruded Cut feature](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2368,7 +2353,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=150)** All right, let's go back one more time.
 >
-> **[2:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=152)** This time I'm going to say up to a vertex.
+> **[2:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=152)** This time I'm going to say up to a [[Vertex]].
 >
 > **[2:35](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=155)** So maybe I click on like a point like this.
 >
@@ -2450,11 +2435,11 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=297)** 'Cause they're just so common.
 >
-> **[4:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=298)** So make sure you're learning both of these and practice with all the different options you see there it will definitely make your learning environment and working in SolidWorks so much easier.
+> **[4:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-extruded-cut-feature?u=76281980&t=298)** So make sure you're learning both of these and practice with all the different options you see there it will definitely make your learning environment and working in [[SOLIDWORKS]] so much easier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (11), next (3), [[Vertex]] (3), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -2463,12 +2448,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - this (1)
 
-#### Creating revolved features
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980)
+#### [Creating revolved features](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=0)** - The next stop on our journey to learning SolidWorks is the revolve feature.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=0)** - The next stop on our journey to learning [[SOLIDWORKS]] is the revolve feature.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=5)** Now the revolve feature is similar to an extrude or an extruded cut in that it needs a sketch, but this time instead of just extruding it straight out, we're going to take that and revolve it around an axis.
 >
@@ -2514,7 +2498,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=99)** We can choose, if I want to go blind.
 >
-> **[1:41](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=101)** If I want to up to vertex up to surface offset from surface or midplane because we don't have any other geometry in this part, like a vertex or a surface we can't use those yet, but I can use mid-plane.
+> **[1:41](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=101)** If I want to up to [[Vertex]] up to surface offset from surface or midplane because we don't have any other geometry in this part, like a vertex or a surface we can't use those yet, but I can use mid-plane.
 >
 > **[1:52](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-revolved-features?u=76281980&t=112)** And instead of 360, I can type in a value, maybe like 30 degrees.
 >
@@ -2614,15 +2598,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), [[SOLIDWORKS]] (3), next (2), [[Vertex]] (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Vertex]] (2)
 > **UI Navigation:** click on (3), go to (1), dropdown (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - the (1)
 
-#### Making revolved cuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-revolved-cuts?u=76281980)
+#### [Making revolved cuts](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-revolved-cuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2756,7 +2739,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** snap (1), make (1)
 > **Cross-References:** go back to (2)
@@ -2765,8 +2747,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Applying materials, colors, and finishes
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/applying-materials-colors-and-finishes?u=76281980)
+#### [Applying materials, colors, and finishes](https://www.linkedin.com/learning/solidworks-2022-essential-training/applying-materials-colors-and-finishes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2904,7 +2885,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (1)
 > **UI Navigation:** click on (5), switch to (1)
 > **Versions:** 24.35 (1), 2.86 (1)
 > **CLI Commands:** make (1)
@@ -2912,8 +2892,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding mass properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/finding-mass-properties?u=76281980)
+#### [Finding mass properties](https://www.linkedin.com/learning/solidworks-2022-essential-training/finding-mass-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2929,7 +2908,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/solidworks-2022-essential-training/finding-mass-properties?u=76281980&t=25)** Because we didn't define what material this is.
 >
-> **[0:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/finding-mass-properties?u=76281980&t=28)** In fact, SolidWorks doesn't even know what material this is.
+> **[0:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/finding-mass-properties?u=76281980&t=28)** In fact, [[SOLIDWORKS]] doesn't even know what material this is.
 >
 > **[0:31](https://www.linkedin.com/learning/solidworks-2022-essential-training/finding-mass-properties?u=76281980&t=31)** It says, material not specified.
 >
@@ -3041,15 +3020,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), product (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **UI Navigation:** click on (3), right-click (2)
 > **CLI Commands:** make (4)
 > **Versions:** 9.99 (1), 71.92 (1), 0.26 (1)
 > **Env Vars:** fea (1)
 > **Speakers:** - [instructor] (1)
 
-#### System options, units, and templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980)
+#### [System options, units, and templates](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,7 +3047,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=40)** So first things first, let's take can look at system options.
 >
-> **[0:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=43)** Right over here, we can see a bunch of things here as far as how you want SolidWorks to actually operate.
+> **[0:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=43)** Right over here, we can see a bunch of things here as far as how you want [[SOLIDWORKS]] to actually operate.
 >
 > **[0:48](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=48)** Like, do you want to input your dimensional value?
 >
@@ -3111,7 +3089,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=109)** So if I click in this box right here, you can choose which one of the templates you have linked to use as your default template.
 >
-> **[1:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=115)** Now, I have a default LinkedIn part template.
+> **[1:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=115)** Now, I have a default [[LinkedIn]] part template.
 >
 > **[1:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=118)** That's what I'm using.
 >
@@ -3165,7 +3143,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=220)** So if you are in the United States, you more than likely are using inches.
 >
-> **[3:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=223)** But if you're pretty much anywhere else in the rest of the world, you're probably using millimeters, and you can switch your template from inches to millimeters right here, or any of these other systems you'd like to use.
+> **[3:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=223)** But if you're pretty much anywhere else in the [[Representational State Transfer (REST)|rest]] of the world, you're probably using millimeters, and you can switch your template from inches to millimeters right here, or any of these other systems you'd like to use.
 >
 > **[3:52](https://www.linkedin.com/learning/solidworks-2022-essential-training/system-options-units-and-templates?u=76281980&t=232)** You can also define how many decimal points you want to see.
 >
@@ -3187,7 +3165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (9), next (1), prompt (1), [[LinkedIn]] (1), feature (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (9), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (9), exercise files (2)
 > **UI Navigation:** click on (3), switch to (1), scroll down (1)
 > **CLI Commands:** find (1)
@@ -3195,12 +3173,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-dimensions?u=76281980)
+#### [Working with dimensions](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-dimensions?u=76281980&t=0)** - [Instructor] In this video we're going to cover the Smart Dimension tool inside of SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-dimensions?u=76281980&t=0)** - [Instructor] In this video we're going to cover the Smart Dimension tool inside of [[SOLIDWORKS]].
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-dimensions?u=76281980&t=4)** Now smart dimensioning as it sounds, is a tool that automatically figures things out for you, it's smart.
 >
@@ -3336,12 +3313,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980)
+#### [Selecting colors](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=0)** - [Instructor] A great enhancement to SolidWorks 2021 is the ability to select colors from other applications.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=0)** - [Instructor] A great enhancement to [[SOLIDWORKS]] 2021 is the ability to select colors from other applications.
 >
 > **[0:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=6)** Now, over here on the screen you can see I've got a part here, that's a clear plastic piece.
 >
@@ -3389,9 +3365,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=93)** And then also, if you go back over here to the Basic window, notice I can save that as a swatch.
 >
-> **[1:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=98)** So add that swatch and notice that shows up right here, so that I can use that throughout the rest of my design.
+> **[1:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=98)** So add that swatch and notice that shows up right here, so that I can use that throughout the [[Representational State Transfer (REST)|rest]] of my design.
 >
-> **[1:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=103)** So it's really nice when you're working on like maybe packaging or just trying to match products from an older version of our product to a new version.
+> **[1:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=103)** So it's really nice when you're working on like maybe packaging or just trying to match [[Microsoft Products|products]] from an older version of our product to a new version.
 >
 > **[1:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-colors?u=76281980&t=109)** You just want to make sure you get the exact same color.
 >
@@ -3405,17 +3381,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SOLIDWORKS]] (2), product (2), [[Representational State Transfer (REST)|Rest]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SOLIDWORKS]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating reference coordinate systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-reference-coordinate-systems?u=76281980)
+#### [Creating reference coordinate systems](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-reference-coordinate-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-reference-coordinate-systems?u=76281980&t=0)** - Coordinate systems have been part of SolidWorks from the very beginning.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-reference-coordinate-systems?u=76281980&t=0)** - Coordinate systems have been part of [[SOLIDWORKS]] from the very beginning.
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-reference-coordinate-systems?u=76281980&t=3)** And each part, when you start up, it has a coordinate or default coordinate system, right at the origin.
 >
@@ -3495,7 +3470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), feature (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3)
 > **UI Navigation:** click on (3), checkbox (1)
 > **Speakers:** - coordinate (1)
 
@@ -3504,12 +3479,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Line and Centerline tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980)
+#### [Line and Centerline tools](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=1)** - In this chapter, we're going to be learning the sketch tools inside of SolidWorks.
+> **[0:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=1)** - In this chapter, we're going to be learning the sketch tools inside of [[SOLIDWORKS]].
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/line-and-centerline-tools?u=76281980&t=3)** We're going to be focusing on the Line tool, the Center Line tool, the Rectangle tool, Polygon tool, splines, creating text, plus so much more.
 >
@@ -3639,18 +3613,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[SOLIDWORKS]] (4), next (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
-#### Using the Rectangle tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-rectangle-tool?u=76281980)
+#### [Using the Rectangle tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-rectangle-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-rectangle-tool?u=76281980&t=0)** - [Instructor] As we continue our journey through our Sketch tools inside of SOLIDWORKS.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-rectangle-tool?u=76281980&t=0)** - [Instructor] As we continue our journey through our Sketch tools inside of [[SOLIDWORKS]].
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-rectangle-tool?u=76281980&t=4)** The next thing on our list is the Rectangle tool.
 >
@@ -3774,7 +3747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), next (3), parallel (1), power (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3)
 > **CLI Commands:** snap (4), make (1), find (1)
 > **Env Vars:** solidworks (3)
 > **UI Navigation:** click on (2), dropdown (1)
@@ -3782,8 +3755,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Circles and arcs
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/circles-and-arcs?u=76281980)
+#### [Circles and arcs](https://www.linkedin.com/learning/solidworks-2022-essential-training/circles-and-arcs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3891,11 +3863,11 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/circles-and-arcs?u=76281980&t=212)** And I can also grab that center point and I can move it around using that center point as well.
 >
-> **[3:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/circles-and-arcs?u=76281980&t=216)** So a couple different options of how you can deal with and move around arcs, as well as circles inside of SolidWorks.
+> **[3:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/circles-and-arcs?u=76281980&t=216)** So a couple different options of how you can deal with and move around arcs, as well as circles inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **Definitions:** is a  (1)
@@ -3903,12 +3875,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drawing slots
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-slots?u=76281980)
+#### [Drawing slots](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-slots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-slots?u=76281980&t=0)** - There are multiple ways for creating slots inside of SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-slots?u=76281980&t=0)** - There are multiple ways for creating slots inside of [[SOLIDWORKS]].
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-slots?u=76281980&t=3)** To get into and learn about them, let's go ahead and create a sketch, which I've already done.
 >
@@ -4002,14 +3973,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3)
 > **UI Navigation:** click on (5), switch to (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.0 (1)
 > **Speakers:** - there (1)
 
-#### Working with ellipses and conics
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-ellipses-and-conics?u=76281980)
+#### [Working with ellipses and conics](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-ellipses-and-conics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4097,14 +4067,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** snap (1), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - ellipses (1)
 
-#### Sketching polygons
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980)
+#### [Sketching polygons](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4112,7 +4080,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=2)** Now poly means many and -gons means angled.
 >
-> **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=5)** So that's many angled shapes and we have the ability to create those inside of SolidWorks.
+> **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=5)** So that's many angled shapes and we have the ability to create those inside of [[SOLIDWORKS]].
 >
 > **[0:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=10)** Right up here under the sketch tab in the ribbon bar let's go ahead and choose polygon right here.
 >
@@ -4210,7 +4178,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=186)** So those two lines there and say let's make those guys construction, right?
 >
-> **[3:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=190)** Notice the rest of them are regular lines.
+> **[3:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=190)** Notice the [[Representational State Transfer (REST)|rest]] of them are regular lines.
 >
 > **[3:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketching-polygons?u=76281980&t=192)** Just those two are construction.
 >
@@ -4224,18 +4192,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SOLIDWORKS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7), snap (1)
 > **UI Navigation:** click on (3)
 > **Warnings:** heads up (1), caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating text
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980)
+#### [Creating text](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=0)** - [Instructor] SolidWorks has a very powerful text creation tool, which is wonderful for creating things like signs or engraving on a part, and a whole bunch of different things we can do with that tool.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] has a very powerful text creation tool, which is wonderful for creating things like signs or engraving on a part, and a whole bunch of different things we can do with that tool.
 >
 > **[0:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=10)** So to get started, let's go ahead and choose this block right here.
 >
@@ -4317,7 +4284,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=185)** If something overlaps, it will cause an issue.
 >
-> **[3:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=187)** So make sure the font you're choosing doesn't overlap any of the other letters when you're creating it, because more than likely we're going to be cutting this word into our part or extruding it out of our part.
+> **[3:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=187)** So make sure the font you're choosing doesn't overlap any of the other letters when you're creating it, because more than likely we're going to be cutting this [[Microsoft Word|word]] into our part or extruding it out of our part.
 >
 > **[3:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-text?u=76281980&t=198)** So let's try that, so I'm going to go over here and do features, I'm going to do an extruded cut.
 >
@@ -4380,12 +4347,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using equations and linked variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-and-linked-variables?u=76281980)
+#### [Using equations and linked variables](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-and-linked-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-and-linked-variables?u=76281980&t=0)** - [Educator] SolidWorks has some powerful tools for working with equations and linked variables.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-and-linked-variables?u=76281980&t=0)** - [Educator] [[SOLIDWORKS]] has some powerful tools for working with equations and linked variables.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-and-linked-variables?u=76281980&t=5)** And we can easily access that toolbar if I turn it on.
 >
@@ -4585,7 +4551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[SOLIDWORKS]] (3), feature (2), power (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3)
 > **UI Navigation:** click on (10), right-click (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -4593,8 +4559,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [educator] (1)
 
-#### Using the Spline tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980)
+#### [Using the Spline tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4686,7 +4651,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=163)** It doesn't flow very nice.
 >
-> **[2:44](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=164)** So the style spline is really good for you know, product design.
+> **[2:44](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=164)** So the style spline is really good for you know, [[Product Design]].
 >
 > **[2:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=169)** When you want a nice flowing curve from one thing into the next.
 >
@@ -4704,7 +4669,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=195)** Because it is a free flowing curve, it makes it really hard to deal with in the real world.
 >
-> **[3:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=200)** But if you are working with consumer products and you want something smooth and flowing, that looks really nice, definitely use the splines cause they are very powerful but just keep in mind that limitation that it's going to be hard to define that in a drawing format or if you want to create some type of a CAD file that's defining exactly the size, location, rotation and so on.
+> **[3:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=200)** But if you are working with consumer [[Microsoft Products|products]] and you want something smooth and flowing, that looks really nice, definitely use the splines cause they are very powerful but just keep in mind that limitation that it's going to be hard to define that in a drawing format or if you want to create some type of a CAD file that's defining exactly the size, location, rotation and so on.
 >
 > **[3:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-spline-tool?u=76281980&t=218)** It's very hard to do that with splines.
 >
@@ -4728,7 +4693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), power (2), product (1), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
 > **CLI Commands:** snap (1), make (1)
 > **Analogies:** similar to (1), kind of like (1)
@@ -4737,8 +4702,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - splines (1)
 
-#### Equation driven curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/equation-driven-curve?u=76281980)
+#### [Equation driven curve](https://www.linkedin.com/learning/solidworks-2022-essential-training/equation-driven-curve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4780,7 +4744,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/equation-driven-curve?u=76281980&t=109)** So you can use this a whole bunch.
 >
-> **[1:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/equation-driven-curve?u=76281980&t=111)** So if you want to use an x and y, all based on t, or a y-value based on x, you got a lot of control over this equation driven curve inside of SOLIDWORKS.
+> **[1:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/equation-driven-curve?u=76281980&t=111)** So if you want to use an x and y, all based on t, or a y-value based on x, you got a lot of control over this equation driven curve inside of [[SOLIDWORKS]].
 >
 > **[2:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/equation-driven-curve?u=76281980&t=123)** And, you know, I actually have used this, very recently, on creating a reflector for a light.
 >
@@ -4798,8 +4762,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - equation (1)
 
-#### Sketch Ink
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketch-ink?u=76281980)
+#### [Sketch Ink](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketch-ink?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4825,7 +4788,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketch-ink?u=76281980&t=56)** You can use your finger to draw things which is pretty cool.
 >
-> **[0:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketch-ink?u=76281980&t=59)** You can have SolidWorks automatically recognize shapes for you.
+> **[0:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketch-ink?u=76281980&t=59)** You can have [[SOLIDWORKS]] automatically recognize shapes for you.
 >
 > **[1:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/sketch-ink?u=76281980&t=61)** So if you draw something that looks like a rectangle, SolidWorks will recognize it and say, hey are you trying to run a rectangle?
 >
@@ -4889,19 +4852,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (9), power (2), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (9)
 > **Analogies:** for instance (1), kind of like (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copying and patterning sketch text
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-and-patterning-sketch-text?u=76281980)
+#### [Copying and patterning sketch text](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-and-patterning-sketch-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-and-patterning-sketch-text?u=76281980&t=0)** - It's a pretty common task to add engraving or text to your parts.
 >
-> **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-and-patterning-sketch-text?u=76281980&t=4)** Now, we've had this text tool for quite a while in SolidWorks, but they've improved it by allowing us to pattern and copy that text.
+> **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-and-patterning-sketch-text?u=76281980&t=4)** Now, we've had this text tool for quite a while in [[SOLIDWORKS]], but they've improved it by allowing us to pattern and copy that text.
 >
 > **[0:13](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-and-patterning-sketch-text?u=76281980&t=13)** Let me show you how it works.
 >
@@ -4981,7 +4943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), feature (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** hello (1)
@@ -4993,12 +4955,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trimming and extending a sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980)
+#### [Trimming and extending a sketch](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=0)** - [Instructor] SolidWorks has some great tools for trimming and extending sketches.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] has some great tools for trimming and extending sketches.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/trimming-and-extending-a-sketch?u=76281980&t=4)** If I'm in a sketch and you can see you've got a bunch of different lines over here on the screen and a couple or actually just one circle right up here.
 >
@@ -5124,15 +5085,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[SOLIDWORKS]] (1), next (1), hit (1), feature (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating offset geometry
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-offset-geometry?u=76281980)
+#### [Creating offset geometry](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-offset-geometry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5258,7 +5218,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (4)
 > **CLI Commands:** make (9), snap (1)
 > **UI Navigation:** click on (4), select the (2), switch to (1)
 > **Versions:** 0.75 (2), 0.25 (1), 0.5 (1)
@@ -5266,8 +5225,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Moving, copying, rotating, and scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/moving-copying-rotating-and-scaling?u=76281980)
+#### [Moving, copying, rotating, and scaling](https://www.linkedin.com/learning/solidworks-2022-essential-training/moving-copying-rotating-and-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5401,17 +5359,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Speakers:** - in (1)
 
-#### Erasing, undoing, and redoing actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/erasing-undoing-and-redoing-actions?u=76281980)
+#### [Erasing, undoing, and redoing actions](https://www.linkedin.com/learning/solidworks-2022-essential-training/erasing-undoing-and-redoing-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/erasing-undoing-and-redoing-actions?u=76281980&t=0)** - [Instructor] Deleting items in SolidWorks might seem simple, but there's actually a few tricks to it.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/erasing-undoing-and-redoing-actions?u=76281980&t=0)** - [Instructor] Deleting items in [[SOLIDWORKS]] might seem simple, but there's actually a few tricks to it.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/erasing-undoing-and-redoing-actions?u=76281980&t=4)** So let me show you how they all work.
 >
@@ -5485,16 +5441,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[SOLIDWORKS]] (3), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3)
 > **UI Navigation:** click on (3), right-click (1), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Mirror tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-tools?u=76281980)
+#### [Using the Mirror tools](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-tools?u=76281980&t=0)** - There are several different mirror commands inside of SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-tools?u=76281980&t=0)** - There are several different mirror commands inside of [[SOLIDWORKS]].
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-tools?u=76281980&t=3)** In this movie, we're going to be covering the sketch mirror tool.
 >
@@ -5564,18 +5519,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), feature (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - there (1)
 
-#### Creating repeating patterns in a sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-repeating-patterns-in-a-sketch?u=76281980)
+#### [Creating repeating patterns in a sketch](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-repeating-patterns-in-a-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-repeating-patterns-in-a-sketch?u=76281980&t=0)** - [Instructor] There are several different patterns that we can do in SolidWorks sketches.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-repeating-patterns-in-a-sketch?u=76281980&t=0)** - [Instructor] There are several different patterns that we can do in [[SOLIDWORKS]] sketches.
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-repeating-patterns-in-a-sketch?u=76281980&t=3)** The first one is a Linear Sketch Pattern, which is available under the Sketch toolbar.
 >
@@ -5699,15 +5653,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SOLIDWORKS]] (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (7), scroll down (1), go to (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using construction lines
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-construction-lines?u=76281980)
+#### [Using construction lines](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-construction-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5867,8 +5820,7 @@ created: 2026-05-02
 > **Versions:** 3.0 (1), 1.5 (1)
 > **Speakers:** - let (1)
 
-#### Using the Convert Entities tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-convert-entities-tool?u=76281980)
+#### [Using the Convert Entities tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-convert-entities-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5924,18 +5876,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **UI Navigation:** click on (5)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding fillets and chamfers to sketches
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-and-chamfers-to-sketches?u=76281980)
+#### [Adding fillets and chamfers to sketches](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-and-chamfers-to-sketches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-and-chamfers-to-sketches?u=76281980&t=0)** - [Instructor] SolidWorks provides us some handy tools for adding fillets as well as chamfers to our sketches.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-and-chamfers-to-sketches?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] provides us some handy tools for adding fillets as well as chamfers to our sketches.
 >
 > **[0:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-and-chamfers-to-sketches?u=76281980&t=6)** Now, my basic design philosophy is to make my sketches as simple as possible, so I can add fillets and chamfers only on the part level, not in the sketch level if at all possible.
 >
@@ -6025,7 +5975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[SOLIDWORKS]] (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (1)
@@ -6035,8 +5985,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with planes
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980)
+#### [Working with planes](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6044,7 +5993,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980&t=7)** Now, what happens if we are trying to create a hole or something like that at an angle, and there's not a face or a plane that's available for us to draw on.
 >
-> **[0:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980&t=17)** That's when we have to go back into SolidWorks and create our own plane.
+> **[0:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980&t=17)** That's when we have to go back into [[SOLIDWORKS]] and create our own plane.
 >
 > **[0:21](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-planes?u=76281980&t=21)** So if I head over here to Features, I then come up here to Reference Geometry, and directly below that is this thing called Plane.
 >
@@ -6152,15 +6101,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making an axis
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-axis?u=76281980)
+#### [Making an axis](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-axis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6206,7 +6154,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-axis?u=76281980&t=65)** So I can choose a point like, say like this point here.
 >
-> **[1:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-axis?u=76281980&t=69)** Let's zoom in there a little bit.
+> **[1:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-axis?u=76281980&t=69)** Let's [[Zoom]] in there a little bit.
 >
 > **[1:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-axis?u=76281980&t=71)** How about from that point there over here to that point down there, right?
 >
@@ -6244,18 +6192,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - anytime (1)
 
-#### Creating a coordinate system
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-a-coordinate-system?u=76281980)
+#### [Creating a coordinate system](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-a-coordinate-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-a-coordinate-system?u=76281980&t=0)** - [Instructor] Each SolidWorks part has a origin, as well as a default coordinate system.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-a-coordinate-system?u=76281980&t=0)** - [Instructor] Each [[SOLIDWORKS]] part has a origin, as well as a default coordinate system.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-a-coordinate-system?u=76281980&t=5)** Notice down here is a triad, and we have an X, a Y, and a Z direction, and over here is our origin.
 >
@@ -6323,21 +6270,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** cnc (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concept sketches
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980)
+#### [Concept sketches](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=0)** - If you have a pen or touch device like a Centiq Tablet or maybe a laptop with a touch screen, you have the ability to use this sketch ink toolbar.
 >
-> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=7)** Then you can then take a sketch and use it as construction geometry or as a reference sketch for other things you might be doing in your SOLIDWORKS design.
+> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=7)** Then you can then take a sketch and use it as construction geometry or as a reference sketch for other things you might be doing in your [[SOLIDWORKS]] design.
 >
 > **[0:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=15)** So right here I've got the start of a sketch that I kind of came up with and I can come over here and grab my draw tool, come down here and you know, maybe continue on this design.
 >
@@ -6429,11 +6375,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=163)** And they're just stored in your design right from the beginning.
 >
-> **[2:46](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=166)** So bunch of things you can do there and definitely take a look at the sketching toolbar to play with those tools.
+> **[2:46](https://www.linkedin.com/learning/solidworks-2022-essential-training/concept-sketches?u=76281980&t=166)** So bunch of things you can do there and definitely take a look at the [[Sketching]] toolbar to play with those tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), hit (1), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[Sketching]] (1)
 > **Env Vars:** solidworks (2)
 > **Analogies:** just like (1), picture (1)
 > **Cross-References:** go back to (1)
@@ -6441,14 +6387,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Markup view
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980)
+#### [Markup view](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=0)** - [Instructor] If you have a pen or touch device, you have access to use what we call markup.
 >
-> **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=5)** And markup inside of SolidWorks is a little bit hidden, and I'm not sure why they decided to kind of hide this behind the scenes, but it's a pretty cool thing you can do.
+> **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=5)** And markup inside of [[SOLIDWORKS]] is a little bit hidden, and I'm not sure why they decided to kind of hide this behind the scenes, but it's a pretty cool thing you can do.
 >
 > **[0:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=12)** And it's especially handy if you have a pen device.
 >
@@ -6514,7 +6459,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=113)** So I'm going to switch back over here to my mouse, and I'm going to exit out of the Markup view.
 >
-> **[1:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=118)** So as soon as I zoom out and turn, guess what happens?
+> **[1:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=118)** So as soon as I [[Zoom]] out and turn, guess what happens?
 >
 > **[2:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/markup-view?u=76281980&t=122)** That mark kind of hides. It goes away, right?
 >
@@ -6550,7 +6495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), feature (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Zoom]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (4)
 > **Analogies:** similar to (2), for instance (1)
@@ -6563,8 +6508,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding fillets to a part
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-to-a-part?u=76281980)
+#### [Adding fillets to a part](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-fillets-to-a-part?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6738,15 +6682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (1)
 > **Versions:** 0.9 (2), 2.5 (1), 2.0 (1), 0.25 (1), 0.375 (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Chamfering edges
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/chamfering-edges?u=76281980)
+#### [Chamfering edges](https://www.linkedin.com/learning/solidworks-2022-essential-training/chamfering-edges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6766,7 +6708,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/chamfering-edges?u=76281980&t=28)** I have a distance distance method so I can define how I'd like that to be.
 >
-> **[0:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/chamfering-edges?u=76281980&t=32)** I can just break the corner or or do a vertex cut, which is pretty cool.
+> **[0:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/chamfering-edges?u=76281980&t=32)** I can just break the corner or or do a [[Vertex]] cut, which is pretty cool.
 >
 > **[0:37](https://www.linkedin.com/learning/solidworks-2022-essential-training/chamfering-edges?u=76281980&t=37)** And then I got a couple other fancy ones called like this offset face and so on.
 >
@@ -6908,7 +6850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (2), hit (1)
+> **Frameworks & Libraries:** [[Vertex]] (2)
 > **Versions:** 0.5 (3), 0.1 (2)
 > **CLI Commands:** make (4)
 > **Analogies:** similar to (2)
@@ -6917,8 +6859,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### Applying draft
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/applying-draft?u=76281980)
+#### [Applying draft](https://www.linkedin.com/learning/solidworks-2022-essential-training/applying-draft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7040,7 +6981,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
 > **Versions:** 0.5 (1)
@@ -7048,8 +6988,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - if (1)
 
-#### Using the Shell command
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-shell-command?u=76281980)
+#### [Using the Shell command](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-shell-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7091,7 +7030,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-shell-command?u=76281980&t=77)** Then come over here and click on that and notice over here this part is thicker and these other parts are thinner.
 >
-> **[1:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-shell-command?u=76281980&t=82)** So of course SolidWorks can do it but sometimes things you can do in the software are not things you actually want to do in the real world.
+> **[1:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-shell-command?u=76281980&t=82)** So of course [[SOLIDWORKS]] can do it but sometimes things you can do in the software are not things you actually want to do in the real world.
 >
 > **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-shell-command?u=76281980&t=87)** So keep that in mind.
 >
@@ -7143,12 +7082,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - the (1)
 
-#### Using the Mirror command
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-command?u=76281980)
+#### [Using the Mirror command](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-command?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-command?u=76281980&t=0)** - [Instructor] Using the SolidWorks Mirror command can save you a considerable amount of time, especially when your part has some symmetry.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-command?u=76281980&t=0)** - [Instructor] Using the [[SOLIDWORKS]] Mirror command can save you a considerable amount of time, especially when your part has some symmetry.
 >
 > **[0:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-mirror-command?u=76281980&t=8)** Let's take a look at this example right here.
 >
@@ -7322,7 +7260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), [[SOLIDWORKS]] (1), power (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3)
 > **Versions:** 0.5 (1)
@@ -7330,8 +7268,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating linear patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-linear-patterns?u=76281980)
+#### [Creating linear patterns](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-linear-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7365,7 +7302,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-linear-patterns?u=76281980&t=50)** So I'm going to click on this little box right here and just make this pattern a little bit further.
 >
-> **[0:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-linear-patterns?u=76281980&t=55)** Let's zoom in so we can see what's going on here so I can see there's my pattern.
+> **[0:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-linear-patterns?u=76281980&t=55)** Let's [[Zoom]] in so we can see what's going on here so I can see there's my pattern.
 >
 > **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-linear-patterns?u=76281980&t=58)** And I'm making two of them. But if I want to make more it's easy to do just click on this little up arrow here and you can make patterns across the part.
 >
@@ -7445,15 +7382,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (5)
 > **Definitions:** is called (1), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - hey (1)
 
-#### Creating circular patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns?u=76281980)
+#### [Creating circular patterns](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7535,11 +7471,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns?u=76281980&t=174)** So definitely take a look at this tool.
 >
-> **[2:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns?u=76281980&t=175)** It's a great tool inside of SolidWorks.
+> **[2:55](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns?u=76281980&t=175)** It's a great tool inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), next (2), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (1), dropdown (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -7550,8 +7486,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loft tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/loft-tool?u=76281980)
+#### [Loft tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/loft-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7849,15 +7784,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), next (4)
 > **CLI Commands:** make (7), snap (5)
 > **UI Navigation:** click on (7)
 > **Definitions:** is a  (2)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lofted shapes with guide curves
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/lofted-shapes-with-guide-curves?u=76281980)
+#### [Lofted shapes with guide curves](https://www.linkedin.com/learning/solidworks-2022-essential-training/lofted-shapes-with-guide-curves?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7933,13 +7866,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** kind of like (1), just like (1)
 > **Speakers:** - creating (1)
 
-#### Making lofted cuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-lofted-cuts?u=76281980)
+#### [Making lofted cuts](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-lofted-cuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8000,8 +7931,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating swept shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980)
+#### [Creating swept shapes](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8043,7 +7973,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=75)** So I'm going to use the twirl down here and I'm going to grab that sketch too.
 >
-> **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=80)** And let's go ahead and zoom in there.
+> **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=80)** And let's go ahead and [[Zoom]] in there.
 >
 > **[1:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=82)** You can see what's going on.
 >
@@ -8151,19 +8081,18 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=228)** And they're sitting there right on top of each other.
 >
-> **[3:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=229)** So that's how you use the sweep tool inside of SolidWorks.
+> **[3:49](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-swept-shapes?u=76281980&t=229)** So that's how you use the sweep tool inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), feature (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.25 (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making swept cuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-swept-cuts?u=76281980)
+#### [Making swept cuts](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-swept-cuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8273,15 +8202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (2)
 > **Env Vars:** cnc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Wrap command
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-wrap-command?u=76281980)
+#### [Using the Wrap command](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-wrap-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8353,7 +8280,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-wrap-command?u=76281980&t=141)** It'd be shallower and it wouldn't actually follow the surface but using this wrap command, it does extrude into the shape the exact same amount for every one of those letters.
 >
-> **[2:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-wrap-command?u=76281980&t=152)** So it's a really powerful tool inside of Solidworks.
+> **[2:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-wrap-command?u=76281980&t=152)** So it's a really powerful tool inside of [[SOLIDWORKS]].
 >
 > **[2:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-wrap-command?u=76281980&t=154)** So definitely check it out.
 
@@ -8366,8 +8293,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 
-#### Boundary Boss/Base
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/boundary-boss-base?u=76281980)
+#### [Boundary Boss/Base](https://www.linkedin.com/learning/solidworks-2022-essential-training/boundary-boss-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8451,7 +8377,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/solidworks-2022-essential-training/boundary-boss-base?u=76281980&t=210)** This is a command that has a lot of potential, a lot of power.
 >
-> **[3:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/boundary-boss-base?u=76281980&t=214)** This is one of the most basic things you can do with it, but it's cool, be able to mesh that together.
+> **[3:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/boundary-boss-base?u=76281980&t=214)** This is one of the most basic things you can do with it, but it's cool, be able to [[Mesh]] that together.
 >
 > **[3:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/boundary-boss-base?u=76281980&t=219)** It's kind of like a Sweep mixed with a Loft command.
 >
@@ -8467,7 +8393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), hit (1), power (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (1)
 > **CLI Commands:** make (3), snap (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (2)
@@ -8475,8 +8401,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intersect tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/intersect-tool?u=76281980)
+#### [Intersect tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/intersect-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8560,7 +8485,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/intersect-tool?u=76281980&t=140)** However, looks identical to what we had before, right?
 >
-> **[2:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/intersect-tool?u=76281980&t=142)** But over here notice, that we've got, there's a surface, there's our intersect body, but there's one weird thing that SolidWorks automatically turns on.
+> **[2:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/intersect-tool?u=76281980&t=142)** But over here notice, that we've got, there's a surface, there's our intersect body, but there's one weird thing that [[SOLIDWORKS]] automatically turns on.
 >
 > **[2:30](https://www.linkedin.com/learning/solidworks-2022-essential-training/intersect-tool?u=76281980&t=150)** So let me show you.
 >
@@ -8626,14 +8551,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Working with configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-configurations?u=76281980)
+#### [Working with configurations](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8745,18 +8669,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **UI Navigation:** click on (7), go to (3), right-click (2), dropdown (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Surface tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980)
+#### [Surface tools](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=0)** - SOLIDWORKS has a great set of tools for working with surfaces.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=0)** - [[SOLIDWORKS]] has a great set of tools for working with surfaces.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=4)** Now, I'm not going to be covering everything in the surfacing package but I just want to give you a little teaser of some of the tools that are available.
 >
@@ -8828,7 +8750,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=123)** Now, of course, if you go back to that feature, right over here, instead of that line, of course you could go on there, hit Delete and revolve it around this line, right?
 >
-> **[2:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=132)** You can choose if you want to go Blind, or Up To Vertex, Up To Surface, Offset From Surface, or Mid-Plane, bunch of options there.
+> **[2:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=132)** You can choose if you want to go Blind, or Up To [[Vertex]], Up To Surface, Offset From Surface, or Mid-Plane, bunch of options there.
 >
 > **[2:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/surface-tools?u=76281980&t=140)** And we can also choose how many degrees we'd like to go around.
 >
@@ -8844,7 +8766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), next (1), feature (1), hit (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Vertex]] (1)
 > **UI Navigation:** click on (3), right-click (1)
 > **Env Vars:** solidworks (3)
 > **CLI Commands:** make (2)
@@ -8852,8 +8774,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - solidworks (1)
 
-#### Using surfaces to build solid models
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980)
+#### [Using surfaces to build solid models](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8923,7 +8844,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=131)** Let's go back and show that surface.
 >
-> **[2:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=132)** And now you can see, if we kind of zoom in here, we can see there's a little gap between the surface itself and what we're going to do.
+> **[2:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=132)** And now you can see, if we kind of [[Zoom]] in here, we can see there's a little gap between the surface itself and what we're going to do.
 >
 > **[2:19](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=139)** Go ahead and click on OK.
 >
@@ -8933,19 +8854,18 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=147)** And now we can see very clearly that here is our surface on the top, and then we've got a quarter inch gap, and then here is our part.
 >
-> **[2:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=154)** So a couple different ways you can use surfaces themselves to create solid features inside of SolidWorks.
+> **[2:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-surfaces-to-build-solid-models?u=76281980&t=154)** So a couple different ways you can use surfaces themselves to create solid features inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Zoom]] (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Versions:** 0.25 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Direct Editing: Move/Copy Bodies
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-copy-bodies?u=76281980)
+#### [Direct Editing: Move/Copy Bodies](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-copy-bodies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9071,19 +8991,18 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-copy-bodies?u=76281980&t=275)** So, click on combine, click on add choose this one here, choose that one there, click on OK and just that quickly I was able to bring in a part that's completely not even associated with these parts here, bring it in, arrange it to however I want it and then combine it together.
 >
-> **[4:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-copy-bodies?u=76281980&t=291)** So, it's very powerful tool that you can use, which is in the direct editing tool bar inside of SolidWorks.
+> **[4:51](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-copy-bodies?u=76281980&t=291)** So, it's very powerful tool that you can use, which is in the direct editing tool bar inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), parallel (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (10)
 > **Definitions:** is a  (2)
 > **Versions:** 8.1 (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 
-#### Direct Editing: Move Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-face?u=76281980)
+#### [Direct Editing: Move Face](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-face?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9173,19 +9092,18 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-face?u=76281980&t=174)** I could use that move face command, open up all those holes, make the file, save it out as an STL file for 3d printing and then suppress it when I'm going back to my original part so that does not show up in the final drawings.
 >
-> **[3:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-face?u=76281980&t=186)** So a couple different ways you can use this tool, but again it's a very powerful tool inside of the SolidWorks direct editing toolbar.
+> **[3:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-move-face?u=76281980&t=186)** So a couple different ways you can use this tool, but again it's a very powerful tool inside of the [[SOLIDWORKS]] direct editing toolbar.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (2)
 > **Env Vars:** stl (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Direct Editing: Combine
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-combine?u=76281980)
+#### [Direct Editing: Combine](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-combine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9275,7 +9193,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-combine?u=76281980&t=136)** So anything that was enclosed in one is also enclosed in the other, is what's in common and that's what we kept.
 >
-> **[2:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-combine?u=76281980&t=142)** So three different ways we can use the same exact tool to do a lot of work behind the scenes in SolidWorks.
+> **[2:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-combine?u=76281980&t=142)** So three different ways we can use the same exact tool to do a lot of work behind the scenes in [[SOLIDWORKS]].
 >
 > **[2:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-combine?u=76281980&t=148)** I definitely use the combine add command probably the most because a lot of times I do bring multiple parts in and combine them together.
 >
@@ -9283,14 +9201,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** click on (4)
 > **Code Identifiers:** them (1)
 > **Speakers:** - the (1)
 
-#### Direct Editing: Split
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-split?u=76281980)
+#### [Direct Editing: Split](https://www.linkedin.com/learning/solidworks-2022-essential-training/direct-editing-split?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9399,8 +9316,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project Curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980)
+#### [Project Curve](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9430,11 +9346,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=53)** I'm in chapter eight and it's going to be 8.16.
 >
-> **[0:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=57)** Inside of there, notice there's nothing shown and that's because it's looking for a SolidWorks block.
+> **[0:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=57)** Inside of there, notice there's nothing shown and that's because it's looking for a [[SOLIDWORKS]] block.
 >
 > **[1:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=63)** You have to change this little drop down here.
 >
-> **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=65)** So instead of a SolidWorks block, we're looking for an AutoCAD file, either a .dwg or .dxf file, and this one happens to be the .dxf file and there it is, click on that, click on Open.
+> **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=65)** So instead of a SolidWorks block, we're looking for an [[AutoCAD]] file, either a .dwg or .dxf file, and this one happens to be the .dxf file and there it is, click on that, click on Open.
 >
 > **[1:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/project-curve?u=76281980&t=76)** And what that's going to do is going to bring that block and attach it to my cursor.
 >
@@ -9478,19 +9394,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[AutoCAD]] (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), [[AutoCAD]] (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (1)
 > **Versions:** 8.16 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slice tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/slice-tool?u=76281980)
+#### [Slice tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/slice-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/slice-tool?u=76281980&t=0)** - [Instructor] SolidWorks is getting better and better at dealing with mesh files.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/slice-tool?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] is getting better and better at dealing with [[Mesh]] files.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/slice-tool?u=76281980&t=4)** So you can see here, I'm on my desktop under exercise files chapter eight, and I'm in the 8.17 folder.
 >
@@ -9620,7 +9535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), feature (4), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), [[Mesh]] (1)
 > **UI Navigation:** click on (6), select the (1), go to (1)
 > **CLI Commands:** make (3), snap (1)
 > **Env Vars:** stl (2)
@@ -9629,12 +9544,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Sheet Metal tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-sheet-metal-tools?u=76281980)
+#### [Introduction to Sheet Metal tools](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-sheet-metal-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-sheet-metal-tools?u=76281980&t=0)** - SolidWorks has a full suite of sheet metal tools and they're very powerful.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-sheet-metal-tools?u=76281980&t=0)** - [[SOLIDWORKS]] has a full suite of sheet metal tools and they're very powerful.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-sheet-metal-tools?u=76281980&t=4)** And in this release of SolidWorks they've made some great improvements to them.
 >
@@ -9741,8 +9655,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - solidworks (1)
 
-#### Introduction to weldments
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-weldments?u=76281980)
+#### [Introduction to weldments](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-weldments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9750,7 +9663,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-weldments?u=76281980&t=9)** It doesn't matter if it's aluminum or steel, or whatever shape you want, you can even even be using wood or any other material out there.
 >
-> **[0:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-weldments?u=76281980&t=15)** As long as it's an off-the-shelf material that you can create or buy, or maybe it's even an extrusion you're creating custom, you can use what's called the Weldment package inside of SolidWorks to quickly create these type of frames.
+> **[0:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-weldments?u=76281980&t=15)** As long as it's an off-the-shelf material that you can create or buy, or maybe it's even an extrusion you're creating custom, you can use what's called the Weldment package inside of [[SOLIDWORKS]] to quickly create these type of frames.
 >
 > **[0:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/introduction-to-weldments?u=76281980&t=27)** And it's a multi-body part inside SolidWorks.
 >
@@ -9852,14 +9765,13 @@ created: 2026-05-02
 > **Env Vars:** iso (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review of available tool sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980)
+#### [Review of available tool sets](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=0)** - [Instructor] SolidWorks is a very powerful tool that's used in a variety of industries.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] is a very powerful tool that's used in a variety of industries.
 >
-> **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=4)** Now, whether you're designing consumer products, or building big weldments, maybe you're doing advanced surfacing, maybe you're an architect and you're using it for designing buildings or structural framing, there's a whole lot of things that SolidWorks can do, and we have all these tool sets that can plug into Solidworks to make it give it some more functionality that it might not have from the base package.
+> **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=4)** Now, whether you're designing consumer [[Microsoft Products|products]], or building big weldments, maybe you're doing advanced surfacing, maybe you're an architect and you're using it for designing buildings or structural framing, there's a whole lot of things that SolidWorks can do, and we have all these tool sets that can plug into Solidworks to make it give it some more functionality that it might not have from the base package.
 >
 > **[0:25](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=25)** So you have a base package here, which is your basic sketch toolbar, your features toolbar, to create your basic things like extrudes, revolves, and sweeps.
 >
@@ -9871,7 +9783,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=54)** We've got the full surfaces toolbar, we've got the sheet metal toolbar, structural systems, weldments, mold tools, if you're designing, you know, plastic injection molding, you have all those tools available to us.
 >
-> **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=65)** Mesh modeling, this is something that's been added in the past couple years, allows you to bring in STL files for 3D printing and work with those, which is really handy.
+> **[1:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=65)** [[Mesh]] modeling, this is something that's been added in the past couple years, allows you to bring in STL files for 3D printing and work with those, which is really handy.
 >
 > **[1:13](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=73)** Data migration, working with different file types, bringing those in, direct editing is great if you're bringing in, you know, dumb solids, which are like, things like STEP files or IGES files that they don't have any feature tree, they're just bringing in an imported file and do some direct editing on it.
 >
@@ -9939,7 +9851,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=343)** SolidWorks has a couple of different rendering packages available, and this will allow you to kind of prepare your model to get into those rendering tools.
 >
-> **[5:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=350)** And then these are a bunch of the SolidWorks add-ins, which are going to extend SolidWorks even further, like circuit works, or photoview 360, scan to 3D, you know, motion, routing, simulation.
+> **[5:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=350)** And then these are a bunch of the SolidWorks add-ins, which are going to extend SolidWorks even further, like circuit works, or photoview 360, scan to 3D, you know, motion, [[Routing]], [[Simulation]].
 >
 > **[6:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/review-of-available-tool-sets?u=76281980&t=361)** These are all add-ins that make SolidWorks even more powerful.
 >
@@ -9957,7 +9869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (13), [[Mesh]] (3), data (2), feature (2), [[Simulation]] (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (13), [[Mesh]] (3), [[Simulation]] (2), [[Microsoft Products|Products]] (1), [[Routing]] (1)
 > **Env Vars:** mbd (3), stl (2), step (1), iges (1), cam (1)
 > **Definitions:** is a  (7), is an  (2)
 > **CLI Commands:** make (6)
@@ -9965,12 +9877,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-markup?u=76281980)
+#### [Using Markup](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-markup?u=76281980&t=0)** - [Instructor] The use of markups in SolidWorks has been greatly improved with SolidWorks 2021.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-markup?u=76281980&t=0)** - [Instructor] The use of markups in [[SOLIDWORKS]] has been greatly improved with SolidWorks 2021.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-markup?u=76281980&t=4)** And if you've ever used eDrawings or even a PDF and marked-up a PDF with hand drawings, you can easily see those tools are pretty much similar to what you're going to see here in SolidWorks.
 >
@@ -10062,7 +9973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (6), next (1), feature (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (6)
 > **UI Navigation:** click on (7), right-click (2), scroll down (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** pdf (4)
@@ -10075,12 +9986,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with the Hole Wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980)
+#### [Getting started with the Hole Wizard](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=0)** - The whole wizard is a feature inside of SolidWorks that allows us to add industry standard size holes to our parts.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=0)** - The whole wizard is a feature inside of [[SOLIDWORKS]] that allows us to add industry standard size holes to our parts.
 >
 > **[0:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/getting-started-with-the-hole-wizard?u=76281980&t=8)** We can add tap holes, we can have countersunk holes, counterbore holes and so many more.
 >
@@ -10218,7 +10128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), feature (3), [[SOLIDWORKS]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3)
 > **UI Navigation:** click on (5), go to (1)
 > **CLI Commands:** snap (4), make (1)
 > **Definitions:** is a  (5)
@@ -10226,8 +10136,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - the (1)
 
-#### Understanding hole types and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-hole-types-and-standards?u=76281980)
+#### [Understanding hole types and standards](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-hole-types-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10305,19 +10214,18 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-hole-types-and-standards?u=76281980&t=187)** When everything looks good, of course hit the green check mark.
 >
-> **[3:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-hole-types-and-standards?u=76281980&t=190)** And there you have the countersunk holes created by the hole wizard inside of SolidWorks.
+> **[3:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/understanding-hole-types-and-standards?u=76281980&t=190)** And there you have the countersunk holes created by the hole wizard inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (2), database (1), hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (3), snap (3)
 > **UI Navigation:** go to (1), click on (1), switch to (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Positioning holes in 3D
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/positioning-holes-in-3d?u=76281980)
+#### [Positioning holes in 3D](https://www.linkedin.com/learning/solidworks-2022-essential-training/positioning-holes-in-3d?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10391,7 +10299,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/solidworks-2022-essential-training/positioning-holes-in-3d?u=76281980&t=137)** Now, because I'm on this face, I can snap to those points that I just created right here in the corners.
 >
-> **[2:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/positioning-holes-in-3d?u=76281980&t=144)** And it can easily figure out where those holes are going to be, actually SolidWorks is going to figure out where those holes are going to be, very easily by selecting those points.
+> **[2:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/positioning-holes-in-3d?u=76281980&t=144)** And it can easily figure out where those holes are going to be, actually [[SOLIDWORKS]] is going to figure out where those holes are going to be, very easily by selecting those points.
 >
 > **[2:33](https://www.linkedin.com/learning/solidworks-2022-essential-training/positioning-holes-in-3d?u=76281980&t=153)** And then the ones you don't like, you can hit and hit Delete.
 >
@@ -10415,19 +10323,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), hit (2), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (3), snap (2)
 > **UI Navigation:** click on (3)
 > **Env Vars:** ctrl (1)
 > **Versions:** 2.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hole Wizard slots
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/hole-wizard-slots?u=76281980)
+#### [Hole Wizard slots](https://www.linkedin.com/learning/solidworks-2022-essential-training/hole-wizard-slots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/hole-wizard-slots?u=76281980&t=0)** - [Instructor] Slots have been part of the SolidWorks hole wizard for a while, but recently they've made a few great improvements.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/hole-wizard-slots?u=76281980&t=0)** - [Instructor] Slots have been part of the [[SOLIDWORKS]] hole wizard for a while, but recently they've made a few great improvements.
 >
 > **[0:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/hole-wizard-slots?u=76281980&t=6)** Let's take a look.
 >
@@ -10463,13 +10370,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), feature (2), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### External Threaded Stud Wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/external-threaded-stud-wizard?u=76281980)
+#### [External Threaded Stud Wizard](https://www.linkedin.com/learning/solidworks-2022-essential-training/external-threaded-stud-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10575,11 +10481,11 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/external-threaded-stud-wizard?u=76281980&t=189)** If you already have a cylinder coal shape you can choose the edge or you can just choose a face and then define it and place it like you would a regular hole wizard hole.
 >
-> **[3:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/external-threaded-stud-wizard?u=76281980&t=198)** So, anyways, very nice new addition to SolidWorks.
+> **[3:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/external-threaded-stud-wizard?u=76281980&t=198)** So, anyways, very nice new addition to [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ansi (1)
@@ -10592,18 +10498,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using sketch blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980)
+#### [Using sketch blocks](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=0)** - [Instructor] Blocks are independent non solving sketches that can be used in a variety of ways inside of SOLIDWORKS.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=0)** - [Instructor] Blocks are independent non solving sketches that can be used in a variety of ways inside of [[SOLIDWORKS]].
 >
 > **[0:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=6)** The most common would be the copy a sketch and then use that sketch somewhere else in your design.
 >
 > **[0:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=12)** By creating a block, all the entities in the block become frozen, and can be manipulated as a whole.
 >
-> **[0:19](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=19)** We can save blocks for later use, as well as open blocks that were created in the SOLIDWORKS format, as well as formats like the AutoCAD DWG and DXF formats.
+> **[0:19](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=19)** We can save blocks for later use, as well as open blocks that were created in the SOLIDWORKS format, as well as formats like the [[AutoCAD]] DWG and DXF formats.
 >
 > **[0:31](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-sketch-blocks?u=76281980&t=31)** To insert a block into your design, we first need to turn on the blocks toolbar.
 >
@@ -10801,7 +10706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[AutoCAD]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[AutoCAD]] (2)
 > **Env Vars:** solidworks (3), dwg (3), dxf (3), vga (1)
 > **UI Navigation:** click on (8)
 > **CLI Commands:** make (4)
@@ -10810,8 +10715,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 
-#### Creating blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980)
+#### [Creating blocks](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10839,7 +10743,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=57)** I'm going to put it right in the center of that first circle, and then go ahead and click on OK.
 >
-> **[1:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=61)** All right, now notice everything turns gray, which means it's not being calculated inside of SolidWorks to figure out what and where the sketch entities are.
+> **[1:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=61)** All right, now notice everything turns gray, which means it's not being calculated inside of [[SOLIDWORKS]] to figure out what and where the sketch entities are.
 >
 > **[1:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-blocks?u=76281980&t=69)** It's just one big block that can be used as a whole.
 >
@@ -10911,7 +10815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (8), right-click (1)
 > **CLI Commands:** make (3)
 > **Versions:** 10.2 (2), 1.5 (1)
@@ -10919,8 +10823,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing with blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/designing-with-blocks?u=76281980)
+#### [Designing with blocks](https://www.linkedin.com/learning/solidworks-2022-essential-training/designing-with-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10988,7 +10891,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (3)
@@ -10999,8 +10901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting an assembly
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980)
+#### [Starting an assembly](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11012,7 +10913,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980&t=18)** Let's go ahead and get started, building assemblies.
 >
-> **[0:21](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980&t=21)** Once you've designed several parts inside of SolidWorks, the next logical step is going to be to combine those parts together into an assembly.
+> **[0:21](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980&t=21)** Once you've designed several parts inside of [[SOLIDWORKS]], the next logical step is going to be to combine those parts together into an assembly.
 >
 > **[0:29](https://www.linkedin.com/learning/solidworks-2022-essential-training/starting-an-assembly?u=76281980&t=29)** So to get started, we need to open several more parts and then we're going to go ahead and build an assembly from them.
 >
@@ -11088,15 +10989,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[SOLIDWORKS]] (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **UI Navigation:** click on (7), drag and drop (3), go to (1)
 > **Versions:** 11.1.1 (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Copying, moving, and rotating parts
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980)
+#### [Copying, moving, and rotating parts](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11104,11 +11004,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=2)** It's time to start rotating those parts around and getting them ready to mate.
 >
-> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=7)** So, let me show you the basic navigational tools inside of a SolidWorks assembly.
+> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=7)** So, let me show you the basic navigational tools inside of a [[SOLIDWORKS]] assembly.
 >
 > **[0:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=12)** Okay, so, if you hold down the middle mouse button the entire world will rotate around very similar to the part environment.
 >
-> **[0:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=20)** If you in and scroll out, it will zoom in, zoom out just like you'd expect the same as it the part environment.
+> **[0:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=20)** If you in and scroll out, it will [[Zoom]] in, zoom out just like you'd expect the same as it the part environment.
 >
 > **[0:26](https://www.linkedin.com/learning/solidworks-2022-essential-training/copying-moving-and-rotating-parts?u=76281980&t=26)** If you hold on shift, we can zoom in, zoom out.
 >
@@ -11182,19 +11082,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), next (2), [[SOLIDWORKS]] (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mating parts together in an assembly
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-together-in-an-assembly?u=76281980)
+#### [Mating parts together in an assembly](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-together-in-an-assembly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-together-in-an-assembly?u=76281980&t=0)** - [Instructor] Let's talk about mates inside of SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-together-in-an-assembly?u=76281980&t=0)** - [Instructor] Let's talk about mates inside of [[SOLIDWORKS]].
 >
 > **[0:03](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-together-in-an-assembly?u=76281980&t=3)** Now that I've got my assembly started, I've got individual parts inside of my assembly, I can grab and I can move these components around on my screen by left-clicking on 'em and dragging 'em around.
 >
@@ -11388,15 +11287,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (7), parallel (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (7)
 > **UI Navigation:** click on (8)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** just like (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with subassemblies
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-subassemblies?u=76281980)
+#### [Working with subassemblies](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-subassemblies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11474,7 +11372,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-subassemblies?u=76281980&t=170)** This is how you can work with subassemblies.
 >
-> **[2:52](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-subassemblies?u=76281980&t=172)** It's great and powerful tool inside of SolidWorks.
+> **[2:52](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-subassemblies?u=76281980&t=172)** It's great and powerful tool inside of [[SOLIDWORKS]].
 >
 > **[2:54](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-subassemblies?u=76281980&t=174)** Make sure you're doing it anytime you're repeating an assembly more than one time.
 
@@ -11487,8 +11385,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making linear patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-linear-patterns?u=76281980)
+#### [Making linear patterns](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-linear-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11620,14 +11517,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), feature (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating circular patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns-14579654?u=76281980)
+#### [Creating circular patterns](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns-14579654?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11693,23 +11588,22 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns-14579654?u=76281980&t=158)** And if you want to bring one of those back, just click on this box, hit delete, and then that will come back.
 >
-> **[2:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns-14579654?u=76281980&t=163)** So, anyways, that is how you use the circle pattern tool inside of SolidWorks.
+> **[2:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-circular-patterns-14579654?u=76281980&t=163)** So, anyways, that is how you use the circle pattern tool inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (7), drag and drop (1), dropdown (1), switch to (1)
 > **CLI Commands:** make (1)
 > **Versions:** 22.5 (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Toolbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980)
+#### [Using the Toolbox](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=0)** - [Instructor] SolidWorks toolbox is a pre-loaded library inside of SolidWorks that has literally thousands of different styles and types of hardware.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=0)** - [Instructor] [[SOLIDWORKS]] toolbox is a pre-loaded library inside of SolidWorks that has literally thousands of different styles and types of [[Hardware]].
 >
 > **[0:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-toolbox?u=76281980&t=9)** To use the toolbox, we need to create an assembly.
 >
@@ -11827,15 +11721,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), hit (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Hardware]] (1)
 > **UI Navigation:** click on (7), dropdown (2), go to (1), open the (1)
 > **CLI Commands:** make (5), find (1), snap (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** ace (1)
 > **Speakers:** - [instructor] (1)
 
-#### Downloading internet parts
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980)
+#### [Downloading internet parts](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11853,13 +11746,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=37)** Another great website is GrabCAD.
 >
-> **[0:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=39)** So if you head over to GrabCAD click on their little library and users have uploaded these CAD files in a variety of formats, most of them happen to be SolidWorks files but there are other design packages out there being used to create some of these files.
+> **[0:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=39)** So if you head over to GrabCAD click on their little library and users have uploaded these CAD files in a variety of formats, most of them happen to be [[SOLIDWORKS]] files but there are other design packages out there being used to create some of these files.
 >
 > **[0:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=53)** You can click on it, see exactly which version of the software it was created in and what type of files are available.
 >
 > **[0:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=59)** And you can download these things and use them in your own designs or for reference another great source is McMaster-Carr.
 >
-> **[1:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=66)** This is a great source for hardware.
+> **[1:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=66)** This is a great source for [[Hardware]].
 >
 > **[1:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=68)** Nuts and bolts and fasteners, and pretty much anything else.
 >
@@ -11915,7 +11808,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=212)** But below that, we also have access to that 3D content central in here as well as well as a bunch of SolidWorks content.
 >
-> **[3:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=218)** So if you click on any one of these things we've got blocks and routing and weldments, and under here we've got the supplier content as well as library or the user library content.
+> **[3:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=218)** So if you click on any one of these things we've got blocks and [[Routing]] and weldments, and under here we've got the supplier content as well as library or the user library content.
 >
 > **[3:47](https://www.linkedin.com/learning/solidworks-2022-essential-training/downloading-internet-parts?u=76281980&t=227)** So definitely take a look at all these available resources for great content.
 >
@@ -11927,7 +11820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (7), [[Hardware]] (2), web (1), [[Search]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (7), [[Hardware]] (2), [[Routing]] (1)
 > **UI Navigation:** click on (7), scroll down (2), dropdown (1)
 > **Env Vars:** cad (5), pdf (2)
 > **CLI Commands:** make (2), find (1)
@@ -11935,8 +11828,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Speakers:** - one (1)
 
-#### Using the Q key for quick references
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-q-key-for-quick-references?u=76281980)
+#### [Using the Q key for quick references](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-q-key-for-quick-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12012,7 +11904,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), feature (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -12024,8 +11915,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating component Mates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-component-mates?u=76281980)
+#### [Creating component Mates](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-component-mates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12191,18 +12081,17 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-component-mates?u=76281980&t=283)** Bunch of cool things you can do there.
 >
-> **[4:44](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-component-mates?u=76281980&t=284)** So, hopefully this gives you a broad overview of the major mate tools we're going to be using to assemble our components together, in the assembly environment of SolidWorks.
+> **[4:44](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-component-mates?u=76281980&t=284)** So, hopefully this gives you a broad overview of the major mate tools we're going to be using to assemble our components together, in the assembly environment of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (5), feature (2), hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (12)
 > **Definitions:** means that (1), defined as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - at (1)
 
-#### Mating parts with Advanced Mates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-advanced-mates?u=76281980)
+#### [Mating parts with Advanced Mates](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-advanced-mates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12354,14 +12243,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), parallel (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (4), dropdown (1), go to (1)
 > **Analogies:** for instance (1), similar to (1)
 > **Speakers:** - in (1)
 
-#### Mating parts with Path Mate
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-path-mate?u=76281980)
+#### [Mating parts with Path Mate](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-path-mate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12415,7 +12302,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-path-mate?u=76281980&t=83)** So just that point is attached to the path.
 >
-> **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-path-mate?u=76281980&t=87)** The rest of the parts can still kind of flop around.
+> **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-path-mate?u=76281980&t=87)** The [[Representational State Transfer (REST)|rest]] of the parts can still kind of flop around.
 >
 > **[1:30](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-with-path-mate?u=76281980&t=90)** So we probably want to grab another mate just use the coincident mate, choose the bottom of the part and the top of the plate click.
 >
@@ -12437,8 +12324,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mechanical Mates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/mechanical-mates?u=76281980)
+#### [Mechanical Mates](https://www.linkedin.com/learning/solidworks-2022-essential-training/mechanical-mates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12486,7 +12372,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/solidworks-2022-essential-training/mechanical-mates?u=76281980&t=83)** Now my mate selections here, I want to choose the major diameters of each one of these.
 >
-> **[1:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/mechanical-mates?u=76281980&t=88)** So I need to zoom in, and click the major diameter here, and zoom in down here and grab the major diameter there.
+> **[1:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/mechanical-mates?u=76281980&t=88)** So I need to [[Zoom]] in, and click the major diameter here, and zoom in down here and grab the major diameter there.
 >
 > **[1:36](https://www.linkedin.com/learning/solidworks-2022-essential-training/mechanical-mates?u=76281980&t=96)** So notice it automatically selects the size of those gears. So I have six to three which is exactly the ratio I'm looking for.
 >
@@ -12548,16 +12434,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Zoom]] (2), functional (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **UI Navigation:** click on (11)
 > **Speakers:** - mechanical (1)
 
-#### Mating parts by aligning planes
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-by-aligning-planes?u=76281980)
+#### [Mating parts by aligning planes](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-by-aligning-planes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-by-aligning-planes?u=76281980&t=0)** - When you're mating components together inside of SolidWorks, there is a hierarchy, and the more powerful of an object you choose to mate together, the more powerful your mate will be between the objects.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-by-aligning-planes?u=76281980&t=0)** - When you're mating components together inside of [[SOLIDWORKS]], there is a hierarchy, and the more powerful of an object you choose to mate together, the more powerful your mate will be between the objects.
 >
 > **[0:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/mating-parts-by-aligning-planes?u=76281980&t=12)** Now, in this part here, notice there are no flat faces on the sides.
 >
@@ -12661,14 +12546,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), next (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (4)
 > **Speakers:** - when (1)
 
-#### Magnetic Mates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/magnetic-mates?u=76281980)
+#### [Magnetic Mates](https://www.linkedin.com/learning/solidworks-2022-essential-training/magnetic-mates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12770,18 +12654,17 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/solidworks-2022-essential-training/magnetic-mates?u=76281980&t=177)** And then anytime you're using it with other components that have magnetic mates those things are going to snap together.
 >
-> **[3:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/magnetic-mates?u=76281980&t=182)** And it's a really quick way to attach your components without using traditional mates inside of SolidWorks.
+> **[3:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/magnetic-mates?u=76281980&t=182)** And it's a really quick way to attach your components without using traditional mates inside of [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** snap (4)
 > **Env Vars:** pvc (1)
 > **Speakers:** - magnetic (1)
 
-#### Asset Publisher for Magnetic Mates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/asset-publisher-for-magnetic-mates?u=76281980)
+#### [Asset Publisher for Magnetic Mates](https://www.linkedin.com/learning/solidworks-2022-essential-training/asset-publisher-for-magnetic-mates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12863,7 +12746,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (8), go to (1)
 > **CLI Commands:** make (4), snap (3)
 > **Versions:** 12.7.1 (1)
@@ -12875,8 +12757,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linking sketches to other parts
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980)
+#### [Linking sketches to other parts](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12910,7 +12791,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980&t=81)** So click on the part itself and that is the part I will want to modify, right?
 >
-> **[1:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980&t=84)** So if I come up here instead of opening the part, I can actually come right over here and say edit part and notice what happens to our screen, notice over here that this icon, or actually that the word here becomes blue, showing that, that's what we're actually editing right now.
+> **[1:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980&t=84)** So if I come up here instead of opening the part, I can actually come right over here and say edit part and notice what happens to our screen, notice over here that this icon, or actually that the [[Microsoft Word|word]] here becomes blue, showing that, that's what we're actually editing right now.
 >
 > **[1:41](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-sketches-to-other-parts?u=76281980&t=101)** And over here, the icon changes, so if we want to get out of this mode, we can go back to the assembly mode, but we want to stay in this mode, right?
 >
@@ -12960,15 +12841,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
-#### Using layout sketches
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-layout-sketches?u=76281980)
+#### [Using layout sketches](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-layout-sketches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13064,7 +12944,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), parallel (1), power (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (5)
 > **Versions:** 0.25 (1)
@@ -13073,8 +12952,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - layout (1)
 
-#### Using the Hole Wizard in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-hole-wizard-in-context?u=76281980)
+#### [Using the Hole Wizard in context](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-hole-wizard-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13104,7 +12982,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-hole-wizard-in-context?u=76281980&t=48)** Now, when I'm in positions, I can actually kind of hover.
 >
-> **[0:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-hole-wizard-in-context?u=76281980&t=50)** If I zoom in here, I can hover over the edge and notice the center point will actually pop up and just click and place that hole.
+> **[0:50](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-hole-wizard-in-context?u=76281980&t=50)** If I [[Zoom]] in here, I can hover over the edge and notice the center point will actually pop up and just click and place that hole.
 >
 > **[0:58](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-hole-wizard-in-context?u=76281980&t=58)** Same thing down here.
 >
@@ -13166,7 +13044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (2), snap (2)
 > **UI Navigation:** click on (3)
 > **Cross-References:** go back to (1)
@@ -13178,14 +13056,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using design tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980)
+#### [Using design tables](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980&t=1)** - By using design tables inside of SOLIDWORKS, we have all the power of Microsoft Excel linked to our SOLIDWORKS files.
+> **[0:01](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980&t=1)** - By using design tables inside of [[SOLIDWORKS]], we have all the power of [[Microsoft Excel]] linked to our SOLIDWORKS files.
 >
-> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980&t=7)** We can individually tie dimensions to cells inside of an Excel spreadsheet, and then drive that part from those cells.
+> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980&t=7)** We can individually tie dimensions to cells inside of an [[Microsoft Excel|Excel]] spreadsheet, and then drive that part from those cells.
 >
 > **[0:14](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-design-tables?u=76281980&t=14)** It's a pretty powerful thing and it's great for creating families of parts.
 >
@@ -13351,7 +13228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (12), [[Microsoft Excel|Excel]] (5), [[Microsoft Excel]] (2), feature (2), power (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (12), [[Microsoft Excel|Excel]] (5), [[Microsoft Excel]] (2)
 > **Env Vars:** solidworks (12), sketch1 (4), base (3), sketch (3), block (2)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (2), find (1)
@@ -13359,8 +13236,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - by (1)
 
-#### Working with complex calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980)
+#### [Working with complex calculations](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13378,7 +13254,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=32)** Let's bring those in, why not?
 >
-> **[0:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=34)** So Excel opens up and you can see here on the screen, I've got some of them shown.
+> **[0:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=34)** So [[Microsoft Excel|Excel]] opens up and you can see here on the screen, I've got some of them shown.
 >
 > **[0:38](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=38)** I'm going to go ahead and just stretch this across the screen and let's go ahead and look at this a little bit better.
 >
@@ -13410,7 +13286,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=86)** Same thing with description.
 >
-> **[1:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=88)** I can define the description here, as well as if I click on one of these, I get to drop down over here and I can choose one of those SolidWorks materials here they are right here.
+> **[1:28](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=88)** I can define the description here, as well as if I click on one of these, I get to drop down over here and I can choose one of those [[SOLIDWORKS]] materials here they are right here.
 >
 > **[1:37](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=97)** So I can easily switch between materials inside of the design table.
 >
@@ -13506,7 +13382,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=323)** And really your imagination is the limit of how much you can control and how many different configurations you have.
 >
-> **[5:29](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=329)** In fact, a nice example of this is a company that I know makes hardware or fasteners like bolts, and they make all kinds of different sizes of bolts and all kinds of different lengths of those bolts.
+> **[5:29](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=329)** In fact, a nice example of this is a company that I know makes [[Hardware]] or fasteners like bolts, and they make all kinds of different sizes of bolts and all kinds of different lengths of those bolts.
 >
 > **[5:39](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-complex-calculations?u=76281980&t=339)** But a bolt is basically the same shape.
 >
@@ -13518,7 +13394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), hit (3), [[Microsoft Excel|Excel]] (1), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Microsoft Excel|Excel]] (1), [[Hardware]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (2)
 > **Versions:** 0.9 (1)
@@ -13527,8 +13403,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting component configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-component-configurations?u=76281980)
+#### [Selecting component configurations](https://www.linkedin.com/learning/solidworks-2022-essential-training/selecting-component-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -13620,17 +13495,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **UI Navigation:** click on (3), switch to (3)
 > **CLI Commands:** make (2), snap (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building assemblies with design tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-assemblies-with-design-tables?u=76281980)
+#### [Building assemblies with design tables](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-assemblies-with-design-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-assemblies-with-design-tables?u=76281980&t=0)** - [Instructor] We can use configurations inside of SolidWorks to build fairly complex assemblies.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-assemblies-with-design-tables?u=76281980&t=0)** - [Instructor] We can use configurations inside of [[SOLIDWORKS]] to build fairly complex assemblies.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/building-assemblies-with-design-tables?u=76281980&t=5)** Right over here, I only actually have three individual components, but I've built a section of wall here using them in different lengths with different features turned on or turned off.
 >
@@ -13750,17 +13623,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[SOLIDWORKS]] (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **UI Navigation:** click on (7), go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding to design tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-to-design-tables?u=76281980)
+#### [Adding to design tables](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-to-design-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-to-design-tables?u=76281980&t=0)** - Once we already have a design table inside of a part inside of SolidWorks, it's a little bit hard to modify that table, and I want to show you actually how to do that.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-to-design-tables?u=76281980&t=0)** - Once we already have a design table inside of a part inside of [[SOLIDWORKS]], it's a little bit hard to modify that table, and I want to show you actually how to do that.
 >
 > **[0:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-to-design-tables?u=76281980&t=8)** It's actually not that hard, but it is something that's maybe not as intuitive.
 >
@@ -13868,7 +13740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), hit (3), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Speakers:** - once (1)
@@ -13878,12 +13750,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with drawing templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980)
+#### [Working with drawing templates](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=0)** - [Man] Anytime you start a part, an assembly, or a drawing inside of SolidWorks, it uses a template.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=0)** - [Man] Anytime you start a part, an assembly, or a drawing inside of [[SOLIDWORKS]], it uses a template.
 >
 > **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=7)** Let me show you how it works.
 >
@@ -13895,7 +13766,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=30)** I've got the 10 60 aluminum.
 >
-> **[0:31](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=31)** I've got a LinkedIn part template.
+> **[0:31](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=31)** I've got a [[LinkedIn]] part template.
 >
 > **[0:33](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=33)** I've got this LinkedIn assembly template as well as a LinkedIn drawing.
 >
@@ -13991,7 +13862,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=245)** So here it is.
 >
-> **[4:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=247)** All right, so once you've got it looking fairly good, let's zoom in here a little bit more.
+> **[4:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=247)** All right, so once you've got it looking fairly good, let's [[Zoom]] in here a little bit more.
 >
 > **[4:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/working-with-drawing-templates?u=76281980&t=251)** Let's center it up, bring it down just a little bit more and that's pretty good.
 >
@@ -14143,7 +14014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), [[LinkedIn]] (4), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), [[LinkedIn]] (4), [[Zoom]] (1)
 > **Exercise Files:** template (28), exercise files (4)
 > **UI Navigation:** click on (13), select the (1), go to (1)
 > **CLI Commands:** find (7), make (4), snap (1)
@@ -14152,8 +14023,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
 
-#### Drawing options and sheet properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980)
+#### [Drawing options and sheet properties](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14179,7 +14049,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=80)** And over here, I'm going to go down to chapter 15, 15_02, and notice there's nothing shown here.
 >
-> **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=87)** That's because I'm looking for a SOLIDWORKS block, but I also have the option to look for a DWG file or a DXF file.
+> **[1:27](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=87)** That's because I'm looking for a [[SOLIDWORKS]] block, but I also have the option to look for a DWG file or a DXF file.
 >
 > **[1:34](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=94)** And I actually do have one called LOGO.dxf.
 >
@@ -14273,7 +14143,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=305)** So to do that, let's go up here first and go up and say save sheet format.
 >
-> **[5:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=310)** And in the folder 15-2, I've got this LinkedIn template.
+> **[5:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=310)** And in the folder 15-2, I've got this [[LinkedIn]] template.
 >
 > **[5:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/drawing-options-and-sheet-properties?u=76281980&t=315)** I'm going to actually switch over here and overwrite this other one, so 15_2 template, and I'm going to go ahead and overwrite it.
 >
@@ -14322,12 +14192,11 @@ created: 2026-05-02
 > **Analogies:** picture (2)
 > **Prerequisites:** set up (1)
 
-#### Choosing the correct projection angle
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/choosing-the-correct-projection-angle?u=76281980)
+#### [Choosing the correct projection angle](https://www.linkedin.com/learning/solidworks-2022-essential-training/choosing-the-correct-projection-angle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/choosing-the-correct-projection-angle?u=76281980&t=0)** - [Instructor] When working with SolidWorks drawings, we need to make sure we're choosing the correct projection style.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/choosing-the-correct-projection-angle?u=76281980&t=0)** - [Instructor] When working with [[SOLIDWORKS]] drawings, we need to make sure we're choosing the correct projection style.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/choosing-the-correct-projection-angle?u=76281980&t=5)** Now, what we're looking here at the screen is what's called a third angle projection.
 >
@@ -14411,15 +14280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), oop (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), open the (1), right-click (1)
 > **Warnings:** common mistake (1), keep in mind (1), be aware (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding model views to a drawing
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980)
+#### [Adding model views to a drawing](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14429,9 +14297,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980&t=6)** So, one of the easiest ways to do that is to come up here under file and say make drawing from part.
 >
-> **[0:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980&t=12)** That should open up your new SolidWorks' document dialogue box, and I can choose which template I'd like to use.
+> **[0:12](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980&t=12)** That should open up your new [[SOLIDWORKS]]' document dialogue box, and I can choose which template I'd like to use.
 >
-> **[0:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980&t=18)** I'm going to go ahead and use the LinkedIn template drawing, to which I've already added.
+> **[0:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980&t=18)** I'm going to go ahead and use the [[LinkedIn]] template drawing, to which I've already added.
 >
 > **[0:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-model-views-to-a-drawing?u=76281980&t=22)** But it doesn't really matter which template you're using.
 >
@@ -14531,7 +14399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[SOLIDWORKS]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (6), switch to (2)
 > **CLI Commands:** make (4)
 > **Exercise Files:** template (4)
@@ -14543,8 +14411,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating general dimension notations
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980)
+#### [Creating general dimension notations](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14554,7 +14421,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980&t=8)** Let's go ahead and dive in.
 >
-> **[0:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980&t=10)** General dimensions can be added to your part or your drawing view inside of SolidWorks, pretty straightforward and easily, by clicking on the annotation toolbar and coming over here to smart dimension.
+> **[0:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980&t=10)** General dimensions can be added to your part or your drawing view inside of [[SOLIDWORKS]], pretty straightforward and easily, by clicking on the annotation toolbar and coming over here to smart dimension.
 >
 > **[0:19](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-general-dimension-notations?u=76281980&t=19)** Now directly below smart dimension here are a whole bunch of other ways we can add dimensions.
 >
@@ -14698,7 +14565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[SOLIDWORKS]] (2), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2), we call this (1)
 > **Versions:** 1.25 (1), 0.3 (1)
@@ -14707,8 +14574,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - in (1)
 
-#### Creating ordinate dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-ordinate-dimensions?u=76281980)
+#### [Creating ordinate dimensions](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-ordinate-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -14786,7 +14652,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-ordinate-dimensions?u=76281980&t=116)** And right over here, I've got a bunch of holes or bolt hole circle.
 >
-> **[1:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-ordinate-dimensions?u=76281980&t=119)** And down here under the twirl down, I have what's called a Angular Running Dimension which is basically an ordinate dimension that goes around in a circle.
+> **[1:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-ordinate-dimensions?u=76281980&t=119)** And down here under the twirl down, I have what's called a [[Angular]] Running Dimension which is basically an ordinate dimension that goes around in a circle.
 >
 > **[2:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/creating-ordinate-dimensions?u=76281980&t=128)** So click on that.
 >
@@ -14833,12 +14699,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dimensioning holes and curved features
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/dimensioning-holes-and-curved-features?u=76281980)
+#### [Dimensioning holes and curved features](https://www.linkedin.com/learning/solidworks-2022-essential-training/dimensioning-holes-and-curved-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/dimensioning-holes-and-curved-features?u=76281980&t=0)** - [Instructor] When dimensioning holes on a SOLIDWORKS drawing, we've got a couple of great tools we can work with.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/dimensioning-holes-and-curved-features?u=76281980&t=0)** - [Instructor] When dimensioning holes on a [[SOLIDWORKS]] drawing, we've got a couple of great tools we can work with.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/dimensioning-holes-and-curved-features?u=76281980&t=4)** The first one is the Hole Callout and it's right up here, click on that and then come down to any hole you'd like to define and click on the outside of it and notice right here we get the size of the drill, we've got the distance that we're going to be counter boring it and we've got all this other information here that goes in here.
 >
@@ -14930,7 +14795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), data (2)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
@@ -14938,12 +14803,11 @@ created: 2026-05-02
 > **Env Vars:** solidworks (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Autodimension tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-autodimension-tool?u=76281980)
+#### [Using the Autodimension tool](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-autodimension-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-autodimension-tool?u=76281980&t=0)** - One of the best ways to do work inside of SolidWorks, is to have SolidWorks do most of that work for you.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-autodimension-tool?u=76281980&t=0)** - One of the best ways to do work inside of [[SOLIDWORKS]], is to have SolidWorks do most of that work for you.
 >
 > **[0:05](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-autodimension-tool?u=76281980&t=5)** So, in this case, we're looking at dimensioning this component right here and we've already looked at a few different ways to dimension it using ordinate dimensions and regular baseline dimensions.
 >
@@ -15049,7 +14913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (4), hit (3), feature (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (4)
 > **UI Navigation:** click on (9), go to (2), switch to (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
@@ -15060,8 +14924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-annotations?u=76281980)
+#### [Adding annotations](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -15321,11 +15184,11 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-annotations?u=76281980&t=540)** I know we covered most of them very quickly but there's a lot to add there and we can dive in a little deeper as we can go through the course and start adding more drawings as we go into more assemblies.
 >
-> **[9:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-annotations?u=76281980&t=550)** So we'll be using these tools as we go, but hopefully that gives you good broader understanding of the annotation tools available in SolidWorks.
+> **[9:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-annotations?u=76281980&t=550)** So we'll be using these tools as we go, but hopefully that gives you good broader understanding of the annotation tools available in [[SOLIDWORKS]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), feature (3), hit (2), cloud (1), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (7), snap (1)
 > **UI Navigation:** click on (7)
 > **Env Vars:** astm (1), bom (1), sae (1)
@@ -15334,12 +15197,11 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding special views to your drawings
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980)
+#### [Adding special views to your drawings](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=0)** - [Instructor] In SolidWorks, we have a whole bunch of different views that we can add to our drawings.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=0)** - [Instructor] In [[SOLIDWORKS]], we have a whole bunch of different views that we can add to our drawings.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=4)** Let's head up here to drawings.
 >
@@ -15423,7 +15285,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=199)** Right over here, I can start and draw out a circle.
 >
-> **[3:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=202)** It's going to then zoom in on that section there, and I can then detail it over here.
+> **[3:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=202)** It's going to then [[Zoom]] in on that section there, and I can then detail it over here.
 >
 > **[3:26](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-special-views-to-your-drawings?u=76281980&t=206)** And it's showing me where that is coming from right over here with that circle.
 >
@@ -15501,18 +15363,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[SOLIDWORKS]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (11)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adding custom properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980)
+#### [Adding custom properties](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=0)** - [Instructor] Custom properties are metadata that stay with the part you created.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=0)** - [Instructor] Custom properties are [[Metadata]] that stay with the part you created.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=4)** And when you're creating a drawing of one of those parts, a lot of that metadata will be brought in to the drawing and show up down here like in the title block or the who it's drawn by and the date and so on.
 >
@@ -15542,7 +15403,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=128)** All right. Now if you have a new part or you want to modify or copy those Custom properties it's pretty straightforward and easy to do.
 >
-> **[2:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=135)** I'm going to go ahead and start a brand new part I'm going to use this LinkedIn part, click okay and if I open up this part here I actually have some pre-formatted Custom properties.
+> **[2:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=135)** I'm going to go ahead and start a brand new part I'm going to use this [[LinkedIn]] part, click okay and if I open up this part here I actually have some pre-formatted Custom properties.
 >
 > **[2:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-custom-properties?u=76281980&t=144)** So inside there you can see I've got Description, Part Number, all this stuff and I'm using and linking to things like the short date or the long date and also adding some notes and things here and I have a special way I want to call out the file Part Number.
 >
@@ -15580,19 +15441,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (4), hit (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[LinkedIn]] (1)
 > **Env Vars:** block (5), see (1), notes (1)
 > **UI Navigation:** click on (6), dropdown (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking drawing notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-drawing-notes?u=76281980)
+#### [Linking drawing notes](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-drawing-notes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-drawing-notes?u=76281980&t=0)** - [Instructor] On SOLIDWORKS drawings, we can create links back to custom properties of the individual part that shown on the screen.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-drawing-notes?u=76281980&t=0)** - [Instructor] On [[SOLIDWORKS]] drawings, we can create links back to custom properties of the individual part that shown on the screen.
 >
 > **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/linking-drawing-notes?u=76281980&t=7)** To do that, we want to first edit the sheet format.
 >
@@ -15700,7 +15560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SOLIDWORKS]] (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **Env Vars:** name (4), solidworks (1), prpsheet (1), prp (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -15709,12 +15569,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Design Library
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980)
+#### [Using the Design Library](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=0)** - The SOLIDWORKS design library is a huge time saver.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=0)** - The [[SOLIDWORKS]] design library is a huge time saver.
 >
 > **[0:04](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=4)** And really useful for creating drawings as well as working in assemblies, as well as parts and using for sketches.
 >
@@ -15782,7 +15641,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=138)** And anytime you want to use those in an assembly you can just literally drag and drop 'em into your assembly, and they're there.
 >
-> **[2:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=144)** Same thing down here, with parts you can store individual parts in there. How about like hardware?
+> **[2:24](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=144)** Same thing down here, with parts you can store individual parts in there. How about like [[Hardware]]?
 >
 > **[2:29](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-the-design-library?u=76281980&t=149)** Here's some different hardware in there.
 >
@@ -15810,21 +15669,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Hardware]] (2), data (2), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (3), [[Hardware]] (2)
 > **Env Vars:** solidworks (3)
 > **UI Navigation:** click on (1), drag and drop (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Using equations for custom properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-for-custom-properties?u=76281980)
+#### [Using equations for custom properties](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-for-custom-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-for-custom-properties?u=76281980&t=0)** - [Instructor] We've already talked about using custom properties.
 >
-> **[0:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-for-custom-properties?u=76281980&t=2)** Now in SolidWorks 2021, we have the option of using equations in custom properties.
+> **[0:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-for-custom-properties?u=76281980&t=2)** Now in [[SOLIDWORKS]] 2021, we have the option of using equations in custom properties.
 >
 > **[0:08](https://www.linkedin.com/learning/solidworks-2022-essential-training/using-equations-for-custom-properties?u=76281980&t=8)** Let me show you how it works.
 >
@@ -15918,7 +15776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), feature (1), hit (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **UI Navigation:** click on (3), go to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -15928,8 +15786,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding assemblies to drawings
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980)
+#### [Adding assemblies to drawings](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -15939,7 +15796,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=13)** Let's go ahead and jump on in.
 >
-> **[0:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=16)** Once we have an assembly inside of SolidWorks, the next logical step is to create a drawing of that assembly and detail out which parts are what, create a bill of materials, and label and define all of the features and the components that happen to be in that assembly.
+> **[0:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=16)** Once we have an assembly inside of [[SOLIDWORKS]], the next logical step is to create a drawing of that assembly and detail out which parts are what, create a bill of materials, and label and define all of the features and the components that happen to be in that assembly.
 >
 > **[0:32](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=32)** So to get started, I want to show you which assembly I have open up right here.
 >
@@ -15961,7 +15818,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=74)** Choose a template.
 >
-> **[1:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=75)** Now, I'm going to choose the LinkedIn template that I have in the example files for you or the exercise files.
+> **[1:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=75)** Now, I'm going to choose the [[LinkedIn]] template that I have in the example files for you or the exercise files.
 >
 > **[1:20](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-assemblies-to-drawings?u=76281980&t=80)** But if you haven't set up the example templates, don't worry about it.
 >
@@ -16039,7 +15896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[SOLIDWORKS]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (7)
 > **Exercise Files:** template (3), exercise files (2)
 > **CLI Commands:** make (3)
@@ -16048,8 +15905,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Including a bill of materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980)
+#### [Including a bill of materials](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -16071,7 +15927,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=59)** All right, that's looking a little better, and now we've got space for this table.
 >
-> **[1:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=62)** Now, once I have the table, if I zoom in here, you can see that nothing's really organized very well, and I generally like to have things in alphabetical or numeric order.
+> **[1:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=62)** Now, once I have the table, if I [[Zoom]] in here, you can see that nothing's really organized very well, and I generally like to have things in alphabetical or numeric order.
 >
 > **[1:11](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=71)** So we can do a little bit of a sort here, so if you go to the top, right-click on that column, and I can come down here to Sort and I can sort it by part number ascending or descending, you can do a multi sort, so you can sort by another column if you wanted to, and that's pretty much all you need to do.
 >
@@ -16091,7 +15947,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=129)** There it is, so a couple small modifications here, So all the parts are sorted now, and then notice the descriptions are missing for most of these items.
 >
-> **[2:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=136)** So this first item here does have a description, the rest of 'em do not, also sometimes you might want to include a revision.
+> **[2:16](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=136)** So this first item here does have a description, the [[Representational State Transfer (REST)|rest]] of 'em do not, also sometimes you might want to include a revision.
 >
 > **[2:22](https://www.linkedin.com/learning/solidworks-2022-essential-training/including-a-bill-of-materials?u=76281980&t=142)** So if you want to add a column, I can right-click here, I can say Insert and I can add a column to the right or left, I'm going to put one to the right, and then you can link that to a custom property or unit of measure, an equation, you got all these different things here if you want to add that column.
 >
@@ -16119,15 +15975,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (5), right-click (3), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** custom (1), property (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding balloons on an assembly drawing
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-balloons-on-an-assembly-drawing?u=76281980)
+#### [Adding balloons on an assembly drawing](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-balloons-on-an-assembly-drawing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -16225,7 +16080,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-balloons-on-an-assembly-drawing?u=76281980&t=173)** Let's get rid of these guys and these guys over here.
 >
-> **[2:56](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-balloons-on-an-assembly-drawing?u=76281980&t=176)** Now, SolidWorks also has the ability to do auto ballooning.
+> **[2:56](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-balloons-on-an-assembly-drawing?u=76281980&t=176)** Now, [[SOLIDWORKS]] also has the ability to do auto ballooning.
 >
 > **[2:59](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-balloons-on-an-assembly-drawing?u=76281980&t=179)** So I got this entire Exploder view here, click on that and click over here to auto balloon and just that quickly, it automatically balloons every single thing in that drawing.
 >
@@ -16289,13 +16144,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[SOLIDWORKS]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (10), snap (4), find (1)
 > **UI Navigation:** click on (8), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making an exploded view
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-exploded-view?u=76281980)
+#### [Making an exploded view](https://www.linkedin.com/learning/solidworks-2022-essential-training/making-an-exploded-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -16409,13 +16263,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), hit (1)
 > **UI Navigation:** click on (12)
 > **CLI Commands:** make (4)
 > **Speakers:** - [trainer] (1)
 
-#### Adding in custom properties and revision
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980)
+#### [Adding in custom properties and revision](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -16467,7 +16319,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=108)** Those are the main things for creating nice quality drawings.
 >
-> **[1:52](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=112)** Now also when you're done with these tasks, you also might want to come in, and save out your drawing as a PDF file, because PDF files are a lot easier to send than SolidWorks drawings, and you can easily do that under File --> Save As, and one of the options is a PDF file, as well as all these other great things, but here's PDF.
+> **[1:52](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=112)** Now also when you're done with these tasks, you also might want to come in, and save out your drawing as a PDF file, because PDF files are a lot easier to send than [[SOLIDWORKS]] drawings, and you can easily do that under File --> Save As, and one of the options is a PDF file, as well as all these other great things, but here's PDF.
 >
 > **[2:10](https://www.linkedin.com/learning/solidworks-2022-essential-training/adding-in-custom-properties-and-revision?u=76281980&t=130)** Save that and save that out to whatever file system.
 >
@@ -16483,19 +16335,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), hit (1), [[SOLIDWORKS]] (1), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (4)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - the (1)
 
-#### Detailing mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/detailing-mode?u=76281980)
+#### [Detailing mode](https://www.linkedin.com/learning/solidworks-2022-essential-training/detailing-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/detailing-mode?u=76281980&t=0)** - [Instructor] Whenever you open a drawing in SolidWorks.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/detailing-mode?u=76281980&t=0)** - [Instructor] Whenever you open a drawing in [[SOLIDWORKS]].
 >
 > **[0:02](https://www.linkedin.com/learning/solidworks-2022-essential-training/detailing-mode?u=76281980&t=2)** There's several different modes you can work in.
 >
@@ -16635,7 +16486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (2), next (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (2)
 > **CLI Commands:** find (4), make (1)
 > **Warnings:** heads up (2), keep in mind (1)
 > **UI Navigation:** open the (1), go to (1)
@@ -16649,14 +16500,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=0)** - Thanks for joining me for SOLIDWORKS 2022 essential training. Before you go I want to point out a few additional resources.
+> **[0:00](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=0)** - Thanks for joining me for [[SOLIDWORKS]] 2022 essential training. Before you go I want to point out a few additional resources.
 >
-> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=7)** Definitely head over to the LinkedIn Learning website and if you type in my name here at the top of the screen, you can find me right down here.
+> **[0:07](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=7)** Definitely head over to the [[LinkedIn]] Learning website and if you type in my name here at the top of the screen, you can find me right down here.
 >
 > **[0:15](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=15)** Click on that and you can see, here are all my different courses that happen to be in the library.
 >
@@ -16668,7 +16518,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=41)** So definitely check out as much as you can.
 >
-> **[0:44](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=44)** Next thing is heading over to [SOLIDWORKS.com](https://SOLIDWORKS.com) and you can see here, they've got a whole bunch of different products beyond just the regular SOLIDWORKS.
+> **[0:44](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=44)** Next thing is heading over to [SOLIDWORKS.com](https://SOLIDWORKS.com) and you can see here, they've got a whole bunch of different [[Microsoft Products|products]] beyond just the regular SOLIDWORKS.
 >
 > **[0:53](https://www.linkedin.com/learning/solidworks-2022-essential-training/next-steps?u=76281980&t=53)** But under design engineering, we got the regular SOLIDWORKS which we're just learning about.
 >
@@ -16696,7 +16546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SOLIDWORKS]] (8), next (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[SOLIDWORKS]] (8), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** solidworks (8)
 > **CLI Commands:** find (1)
 > **URLs:** [solidworks.com](https://solidworks.com) (1)

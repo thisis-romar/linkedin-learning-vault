@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use GenAI to make better decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-genai-to-make-better-decisions?u=76281980)
+#### [Use GenAI to make better decisions](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-genai-to-make-better-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), strengths (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - yes (1)
@@ -100,16 +98,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the DREAMS framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980)
+#### [Understand the DREAMS framework](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980&t=0)** - Making decisions is the primary way we humans move into the future.
 >
-> **[0:05](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980&t=5)** That's why I named my decision-making process the DREAMS framework.
+> **[0:05](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980&t=5)** That's why I named my [[Decision-Making]] process the DREAMS framework.
 >
-> **[0:10](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980&t=10)** The word DREAMS is an acronym for the steps of the process.
+> **[0:10](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980&t=10)** The [[Microsoft Word|word]] DREAMS is an acronym for the steps of the process.
 >
 > **[0:14](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980&t=14)** The D is for defining your problem, and this is where you'll get clear on what you want to solve.
 >
@@ -159,15 +156,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), ai (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** dreams (4)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - making (1)
 
-#### Define your problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/define-your-problem?u=76281980)
+#### [Define your problem](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/define-your-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,15 +201,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Search]] (1), next (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### Refine your decision
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/refine-your-decision?u=76281980)
+#### [Refine your decision](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/refine-your-decision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +311,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (3), strengths (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** dreams (2)
@@ -325,8 +318,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### Understand your decision motivation using GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-your-decision-motivation-using-gen-ai?u=76281980)
+#### [Understand your decision motivation using GenAI](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-your-decision-motivation-using-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,15 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (1)
 > **Env Vars:** dreams (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
 
-#### Explore options with AI for decision direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/explore-options-with-ai-for-decision-direction?u=76281980)
+#### [Explore options with AI for decision direction](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/explore-options-with-ai-for-decision-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,15 +444,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), next (4), data (1), [[Search]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (2), next video (1)
 > **Analogies:** it's like (2)
 > **Env Vars:** dreams (1)
 > **Speakers:** - at (1)
 
-#### Analyze AI answers to narrow options
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/analyze-ai-answers-to-narrow-options?u=76281980)
+#### [Analyze AI answers to narrow options](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/analyze-ai-answers-to-narrow-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +518,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (3)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -541,8 +528,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge decision biases using GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980)
+#### [Challenge decision biases using GenAI](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +550,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980&t=51)** First, we may be overly optimistic and rely on an optimism bias, where we think things will work out better than they actually do.
 >
-> **[1:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980&t=60)** This bias may lead us to miss out on some important details as our sunny outlook may cause us to overlook or underestimate negative outcomes or consequences.
+> **[1:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980&t=60)** This bias may lead us to miss out on some important details as our sunny [[Microsoft Outlook|outlook]] may cause us to overlook or underestimate negative outcomes or consequences.
 >
 > **[1:11](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980&t=71)** Next, we may find information that confirms a favorite hypothesis and rely on confirmation bias.
 >
@@ -634,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), next (2), data (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** dreams (2)
 > **Analogies:** such as (1), for example (1)
@@ -643,8 +629,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** keep in mind (1)
 
-#### Analyze AI answers to pick a decision direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/analyze-ai-answers-to-pick-a-decision-direction?u=76281980)
+#### [Analyze AI answers to pick a decision direction](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/analyze-ai-answers-to-pick-a-decision-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,7 +683,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** dreams (1)
@@ -706,8 +690,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - congratulations (1)
 
-#### Use a premortem to make stronger decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-a-pre-mortem-to-make-stronger-decisions?u=76281980)
+#### [Use a premortem to make stronger decisions](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-a-pre-mortem-to-make-stronger-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-a-pre-mortem-to-make-stronger-decisions?u=76281980&t=95)** For tackling unrealistic expectations, AI proposed being flexible and having a positive attitude toward minor setbacks.
 >
-> **[1:44](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-a-pre-mortem-to-make-stronger-decisions?u=76281980&t=104)** After reviewing the pre-mortem, you can decide which of the items concern you and remove the rest.
+> **[1:44](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-a-pre-mortem-to-make-stronger-decisions?u=76281980&t=104)** After reviewing the pre-mortem, you can decide which of the items concern you and remove the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:51](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-a-pre-mortem-to-make-stronger-decisions?u=76281980&t=111)** Next, you'll identify gaps by looking at anything AI missed.
 >
@@ -765,7 +748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (3), generic (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Cross-References:** next video (1)
@@ -774,8 +757,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Use GenAI to include stakeholder perspectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-include-stakeholder-perspectives?u=76281980)
+#### [Use GenAI to include stakeholder perspectives](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-include-stakeholder-perspectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +831,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), for example (1)
 > **Cross-References:** next video (1)
@@ -861,8 +842,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Futurecast with GenAI to make better decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/futurecast-with-gen-ai-to-make-better-decisions?u=76281980)
+#### [Futurecast with GenAI to make better decisions](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/futurecast-with-gen-ai-to-make-better-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,13 +900,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), database (1), next (1), data (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - if (1)
 
-#### Use GenAI to help your past improve your future
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-help-your-past-improve-your-future?u=76281980)
+#### [Use GenAI to help your past improve your future](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-gen-ai-to-help-your-past-improve-your-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +962,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (4)
 > **Env Vars:** dreams (5)
 > **Exercise Files:** exercise file (2)
 > **Cross-References:** earlier in (1)
@@ -992,8 +969,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Use AI effectively to optimize decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980)
+#### [Use AI effectively to optimize decisions](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1019,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=133)** This practice will prepare you to use GenAI to examine a data set.
 >
-> **[2:18](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=138)** The third decision making strategy is storytelling.
+> **[2:18](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=138)** The third decision making strategy is [[Storytelling]].
 >
 > **[2:22](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-ai-effectively-to-optimize-decisions?u=76281980&t=142)** Stories help us make sense of facts and data, and it organizes information into a narrative that shows us how the pieces fit together.
 >
@@ -1069,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (11), next (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** such as (1), for example (1)
@@ -1080,12 +1056,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Achieve continuously great outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980)
+#### [Achieve continuously great outcomes](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=0)** - Congratulations, you've completed your journey through the Dreams Framework, where we've unlocked the power of gen AI to enhance your decision-making.
+> **[0:00](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=0)** - Congratulations, you've completed your journey through the Dreams Framework, where we've unlocked the power of gen AI to enhance your [[Decision-Making]].
 >
 > **[0:09](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=9)** Thank you for your dedication and enthusiasm throughout the course.
 >
@@ -1109,7 +1084,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=78)** I'd love to hear about how it goes and the decisions that you make.
 >
-> **[1:22](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=82)** I encourage you to connect with me and my decision sciences company, Decisive on LinkedIn to stay updated and continue learning.
+> **[1:22](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=82)** I encourage you to connect with me and my decision sciences company, Decisive on [[LinkedIn]] to stay updated and continue learning.
 >
 > **[1:31](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980&t=91)** Finally, if you're looking for more guidance or inspiration, please visit my website [areamethod.com](https://areamethod.com) and subscribe to my "Problem Solved" podcast.
 >
@@ -1119,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Decision-Making]] (3), power (1), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [areamethod.com](https://areamethod.com) (1)
 > **Speakers:** - congratulations (1)

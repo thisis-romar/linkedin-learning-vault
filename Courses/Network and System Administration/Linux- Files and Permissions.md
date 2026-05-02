@@ -99,20 +99,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage files and permissions in Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980)
+#### [Manage files and permissions in Linux](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=0)** - [Grant] Linux service manage some of the largest file archives in the world.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=0)** - [Grant] [[Linux]] service manage some of the largest file archives in the world.
 >
-> **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=4)** Permissions and access controller and necessity and managing file and cloud storage servers.
+> **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=4)** Permissions and access controller and necessity and managing file and [[Cloud Storage]] servers.
 >
 > **[0:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=9)** What is a file in Linux?
 >
 > **[0:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=12)** Everything is a file.
 >
-> **[0:13](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=13)** The text output from commands, magic files full of data but having no size, hardware devices, and of course, traditional files like photos and documents.
+> **[0:13](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=13)** The text output from commands, magic files full of data but having no size, [[Hardware]] devices, and of course, traditional files like photos and documents.
 >
 > **[0:22](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980&t=22)** In this course, you will learn about Linux is fascinating and unique philosophy concerning files and how to manage them.
 >
@@ -140,17 +139,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), cloud (1), data (1), [[Hardware]] (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Cloud Storage]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [grant] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=0)** - [Instructor] In this course you'll learn how to use Enterprise Linux version eight.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=0)** - [Instructor] In this course you'll learn how to use Enterprise [[Linux]] version eight.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=4)** If you have access to Red Hat Enterprise Linux version eight, that would be fine, but it's not necessary to complete this course.
 >
@@ -164,13 +162,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=40)** If you have not taken that course yet, I recommend doing so before continuing with this one.
 >
-> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=44)** In that course, we installed VirtualBox on both Windows and Linux hosts, created and optimized a virtual machine, installed Enterprise Linux version eight, and then installed VirtualBox Guest Additions and customized the Linux desktop to make our workflow faster and more efficient.
+> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=44)** In that course, we installed VirtualBox on both [[Windows]] and Linux hosts, created and optimized a virtual machine, installed Enterprise Linux version eight, and then installed VirtualBox Guest Additions and customized the Linux desktop to make our workflow faster and more efficient.
 >
 > **[1:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=60)** If you created your VM in the Linux Overview and Installation course, then you can be sure that you have the necessary resources.
 >
 > **[1:06](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=66)** If you did not, then you can double check 'em now.
 >
-> **[1:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=69)** For the purpose of running virtual machines, you'll need an Intel or AMD 64-bit CPU with virtualization support.
+> **[1:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=69)** For the purpose of running [[Virtual Machines]], you'll need an Intel or AMD 64-bit CPU with virtualization support.
 >
 > **[1:16](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-you-should-know-14945159?u=76281980&t=76)** Intel CPUs with virtualization support will be advertised as having VT-x and AMD calls it AMD-V.
 >
@@ -192,19 +190,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (17), [[Virtualization]] (3), [[Windows]] (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Linux]] (17), [[Windows]] (2), [[Virtual Machines]] (2)
 > **Env Vars:** amd (3), cpu (1), bios (1), iso (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get help with commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/get-help-with-commands?u=76281980)
+#### [Get help with commands](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/get-help-with-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/get-help-with-commands?u=76281980&t=0)** - [Instructor] Knowing how to get information about commands in Linux is paramount to understanding such a powerful operating system.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/get-help-with-commands?u=76281980&t=0)** - [Instructor] Knowing how to get information about commands in [[Linux]] is paramount to understanding such a powerful operating system.
 >
 > **[0:07](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/get-help-with-commands?u=76281980&t=7)** You can use the methods in this video to gather information about any command I use in this course or any other course.
 >
@@ -336,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Linux]] (4), [[Search]] (4), cd (3), database (2)
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **CLI Commands:** grep (8), cd (3), find (2), sudo (1)
 > **Documentation:** man page (13)
 > **Env Vars:** posix (4)
@@ -345,8 +342,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-the-exercise-files?u=76281980&t=41)** We'll need to go to this directory using the command line.
 >
-> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-the-exercise-files?u=76281980&t=44)** To do so, close your windows and then open a terminal.
+> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-the-exercise-files?u=76281980&t=44)** To do so, close your [[Windows]] and then open a terminal.
 >
 > **[0:50](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-the-exercise-files?u=76281980&t=50)** Now, type cd ~/ExerciseFiles and hit Enter.
 >
@@ -384,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Windows]] (1), cd (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Exercise Files:** exercise files (6), download the (1)
 > **UI Navigation:** click on (3), double-click (1), go to (1)
 > **Env Vars:** zip (3), pwd (1)
@@ -393,8 +389,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reconfigure or migrate CentOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980)
+#### [Reconfigure or migrate CentOS](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=13)** If you have a CentOS installation and it cannot install software from its repositories, execute these steps.
 >
-> **[0:19](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=19)** If you're using Rocky Linux or Alma Linux OS, you can skip this video.
+> **[0:19](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=19)** If you're using Rocky [[Linux]] or Alma Linux OS, you can skip this video.
 >
 > **[0:23](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=23)** First make sure your networking is turned on by clicking on your top right hand menu and clicking wired off.
 >
@@ -438,7 +433,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=205)** To migrate CentOS 8 to Alma Linux OS, point your web browser to [almalinux.org](https://almalinux.org) and then click on the migrate button.
 >
-> **[3:36](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=216)** This will take you to their GitHub page, about halfway down the page there is an almalinx-deploy.sh link, click on it and then click on raw and then right click and select save page as, choose your downloads directory and click on save.
+> **[3:36](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=216)** This will take you to their [[GitHub]] page, about halfway down the page there is an almalinx-deploy.sh link, click on it and then click on raw and then right click and select save page as, choose your downloads directory and click on save.
 >
 > **[3:59](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/reconfigure-or-migrate-centos?u=76281980&t=239)** Once that's downloaded, go to your terminal and change the downloads directory, type in cd space tilde slash Downloads with a capital D and hit enter.
 >
@@ -466,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (10), cd (4), web (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Linux]] (10), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (12), go to (1)
 > **URLs:** [centos.org](https://centos.org) (5), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -480,8 +475,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a file?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980)
+#### [What is a file?](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=19)** This allows users to structure their data in a way that makes it easier to find their files.
 >
-> **[0:23](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=23)** This concept is pretty standard across all modern operating systems, Linux, however, inherited the Unix philosophy that everything is a file, including physical devices, the computer screen, and so on.
+> **[0:23](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=23)** This concept is pretty standard across all modern operating systems, [[Linux]], however, inherited the Unix philosophy that everything is a file, including physical devices, the computer screen, and so on.
 >
 > **[0:35](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=35)** This might seem like a crazy idea so let's get into it.
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=42)** This type of file can be binary or text, it's saved onto a storage device, and can be read and written to given the user has the appropriate permissions.
 >
-> **[0:50](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=50)** It also has metadata describing the file to let the operating system know what type of file it is, who has access to it, how big the file is, when it was created, and so on.
+> **[0:50](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=50)** It also has [[Metadata]] describing the file to let the operating system know what type of file it is, who has access to it, how big the file is, when it was created, and so on.
 >
 > **[1:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=60)** Metadata is data that describes other data.
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=129)** When a read data from the file, we'll be reading the data off the disk.
 >
-> **[2:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=132)** For example, this allows us to read the ones and zeros from the drive for doing computer forensics.
+> **[2:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=132)** For example, this allows us to read the ones and zeros from the drive for doing [[Computer Forensics]].
 >
 > **[2:18](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980&t=138)** As I mentioned, in Linux the printer device is a file.
 >
@@ -609,7 +603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Linux]] (7), application (5), [[Metadata]] (2), [[Computer Forensics]] (1)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Metadata]] (2), [[Computer Forensics]] (1)
 > **Definitions:** is a  (9), is an  (1)
 > **Analogies:** such as (2), for instance (2), just like (1), for example (1), imagine (1)
 > **Env Vars:** cpu (2), usb (1)
@@ -617,12 +611,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - every (1)
 
-#### Getting information about files
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980)
+#### [Getting information about files](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=0)** - [Instructor] Data that describes other data is called metadata.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=0)** - [Instructor] Data that describes other data is called [[Metadata]].
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=4)** This data is associated with a file.
 >
@@ -702,7 +695,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=179)** You may have noticed that nowhere in the metadata was there a flag to signify that a file is a hidden file.
 >
-> **[3:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=184)** In Linux a file name is only hidden if the first character of its name is a dot.
+> **[3:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=184)** In [[Linux]] a file name is only hidden if the first character of its name is a dot.
 >
 > **[3:08](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-information-about-files?u=76281980&t=188)** In a terminal, let's view hidden files by typing in LS space dash L for a long list plus an A for all and hit enter.
 >
@@ -760,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Metadata]] (7), hit (4), next (3), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[Linux]] (3)
 > **Env Vars:** etc (6), passwd (2), fifo (1), ascii (1), jpeg (1)
 > **CLI Commands:** ls (7), make (2)
 > **Definitions:** is a  (2), is called (1)
@@ -769,12 +762,11 @@ created: 2026-05-02
 > **File Paths:** photo.txt (1)
 > **Warnings:** note that (1)
 
-#### About extended attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-extended-attributes?u=76281980)
+#### [About extended attributes](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-extended-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-extended-attributes?u=76281980&t=0)** - [Instructor] Files in Linux have standard attributes such as the user owner, group owner, permissions, and so on.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-extended-attributes?u=76281980&t=0)** - [Instructor] Files in [[Linux]] have standard attributes such as the user owner, group owner, permissions, and so on.
 >
 > **[0:06](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-extended-attributes?u=76281980&t=6)** We can get these attributes using the LS file and stack commands.
 >
@@ -854,15 +846,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Linux]] (9), data (2)
+> **Frameworks & Libraries:** [[Linux]] (9)
 > **Env Vars:** acl (5)
 > **Analogies:** such as (2), for instance (2), just like (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** ls (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting extended attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-extended-attributes?u=76281980)
+#### [Getting extended attributes](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-extended-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-extended-attributes?u=76281980&t=33)** We're not really using the touch command for its intended purpose, but it works for creating new empty files.
 >
-> **[0:38](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-extended-attributes?u=76281980&t=38)** Also take note that I will cover standard Linux permissions and access control list in other videos.
+> **[0:38](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-extended-attributes?u=76281980&t=38)** Also take note that I will cover standard [[Linux]] permissions and access control list in other videos.
 >
 > **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/getting-extended-attributes?u=76281980&t=44)** I just want to focus on getting information about files on this one.
 >
@@ -960,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Security]] (4), [[Linux]] (2), database (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** ls (9), sudo (2)
 > **File Paths:** aclfile.txt (9)
 > **Env Vars:** acl (3)
@@ -969,8 +960,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - just (1)
 
-#### About file globs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980)
+#### [About file globs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,7 +968,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=7)** File globbing uses patterns containing wildcards to match files based on their names.
 >
-> **[0:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=12)** For instance, if you wanted to list all file names starting with the word file followed by any extension, you could use L-S space file asterisk.
+> **[0:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=12)** For instance, if you wanted to list all file names starting with the [[Microsoft Word|word]] file followed by any extension, you could use L-S space file asterisk.
 >
 > **[0:21](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=21)** This glob can be used with any command, as the globbing is handled by the shell itself.
 >
@@ -1064,7 +1054,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=214)** In the past, you could combine the lowercase and uppercase ranges into one range, but I caution you not to do this.
 >
-> **[3:40](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=220)** Depending on the language and locale settings of your Linux installation, this may not get you what you want.
+> **[3:40](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=220)** Depending on the language and locale settings of your [[Linux]] installation, this may not get you what you want.
 >
 > **[3:46](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/about-file-globs?u=76281980&t=226)** In many cases, lower and uppercase letters are not in the order you expect them to be in in the character map.
 >
@@ -1107,12 +1097,11 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **Exercise Files:** exercise files (1)
 
-#### Using character classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980)
+#### [Using character classes](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=0)** - Linux also provides a mechanism for matching certain character classes.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=0)** - [[Linux]] also provides a mechanism for matching certain character classes.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=4)** A character class is a grouping of light characters.
 >
@@ -1176,7 +1165,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=156)** Note that the exclamation point inside the outer square brackets negates everything in them.
 >
-> **[2:41](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=161)** For example, this line will match a filename starting with the word file followed by one character which cannot be a number or white space such as filea.txt and fileb.txt, because we're matching anything that's not a number or space.
+> **[2:41](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=161)** For example, this line will match a filename starting with the [[Microsoft Word|word]] file followed by one character which cannot be a number or white space such as filea.txt and fileb.txt, because we're matching anything that's not a number or space.
 >
 > **[2:57](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-character-classes?u=76281980&t=177)** If you want to read the manual page that describes globbing, you'll need to specify the glob man page in the seventh section.
 >
@@ -1184,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for instance (2), such as (2), for example (2), just like (1)
 > **File Paths:** filea.txt (1), fileb.txt (1)
 > **Tools:** bash (1), terminal (1)
@@ -1193,8 +1182,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
 
-#### Using globs to match files
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-globs-to-match-files?u=76281980)
+#### [Using globs to match files](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-globs-to-match-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1200,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-globs-to-match-files?u=76281980&t=34)** We can see that we have a lot of files with various naming conventions.
 >
-> **[0:39](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-globs-to-match-files?u=76281980&t=39)** We have files that start with the word photo, followed by a four-digit sequence number.
+> **[0:39](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-globs-to-match-files?u=76281980&t=39)** We have files that start with the [[Microsoft Word|word]] photo, followed by a four-digit sequence number.
 >
 > **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/using-globs-to-match-files?u=76281980&t=44)** Then the date that includes the month, day and year and then followed by an extension of either .png, or .jpg.
 >
@@ -1334,7 +1322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Microsoft Word|Word]] (3), cd (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **CLI Commands:** ls (8), cd (1), make (1)
 > **Tools:** command line (3)
 > **Env Vars:** jpeg (1), gui (1)
@@ -1343,8 +1331,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 
-#### Matching with brace expansion
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-with-brace-expansion?u=76281980)
+#### [Matching with brace expansion](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-with-brace-expansion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,7 +1375,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-with-brace-expansion?u=76281980&t=110)** To show a shortcoming of standard globs, let's revisit the example from earlier.
 >
-> **[1:55](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-with-brace-expansion?u=76281980&t=115)** To show all files that start with a word photo and then a sequence number between 1000 and 1029 and then any number of characters and then ending with .JPG, we'd use this glob, which works perfectly fine.
+> **[1:55](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-with-brace-expansion?u=76281980&t=115)** To show all files that start with a [[Microsoft Word|word]] photo and then a sequence number between 1000 and 1029 and then any number of characters and then ending with .JPG, we'd use this glob, which works perfectly fine.
 >
 > **[2:08](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-with-brace-expansion?u=76281980&t=128)** Now, pause this video and modify the line to match files from 1000 to 1025.
 >
@@ -1468,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), next (3), [[Microsoft Word|Word]] (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** jpg (6), png (4), mpg (1), jng (1), ppg (1)
 > **CLI Commands:** ls (5), make (3), mkdir (2), cd (1)
 > **Analogies:** for instance (3)
@@ -1477,8 +1464,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 
-#### The Magic of extended globs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980)
+#### [The Magic of extended globs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1496,7 +1482,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=25)** For more powerful file globing Bash includes Extended Globs.
 >
-> **[0:31](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=31)** Extended Globs have been part of the Bash shell for more than 20 years and yet many experienced Linux's admins are unaware of their power and are quite surprised when they see them used.
+> **[0:31](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=31)** Extended Globs have been part of the Bash shell for more than 20 years and yet many experienced [[Linux]]'s admins are unaware of their power and are quite surprised when they see them used.
 >
 > **[0:40](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=40)** As such, I have named this video, the Magic of Extended Globs.
 >
@@ -1558,7 +1544,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=209)** With regular expressions, we place the asterisk after the group, Let's walk through some examples of the power of Extended Globs.
 >
-> **[3:37](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=217)** In this example, we are matching files that start with the word photo followed by zero or more of any characters and ending in either .jpg or .png.
+> **[3:37](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=217)** In this example, we are matching files that start with the [[Microsoft Word|word]] photo followed by zero or more of any characters and ending in either .jpg or .png.
 >
 > **[3:46](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/the-magic-of-extended-globs?u=76281980&t=226)** We're specifying the at symbol which matches exactly one occurrence of the pattern.
 >
@@ -1608,7 +1594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), [[Linux]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Microsoft Word|Word]] (2)
 > **Analogies:** similar to (5), for instance (1), such as (1)
 > **Tools:** bash (3), command line (2)
 > **CLI Commands:** grep (1), tar (1)
@@ -1617,8 +1603,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Matching files with extended globs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-files-with-extended-globs?u=76281980)
+#### [Matching files with extended globs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-files-with-extended-globs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1613,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-files-with-extended-globs?u=76281980&t=13)** You can see your paths by typing in pwd.
 >
-> **[0:17](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-files-with-extended-globs?u=76281980&t=17)** Extended globs may have to be turned on in your version of Linux.
+> **[0:17](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-files-with-extended-globs?u=76281980&t=17)** Extended globs may have to be turned on in your version of [[Linux]].
 >
 > **[0:20](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/matching-files-with-extended-globs?u=76281980&t=20)** To check if they're turned on, type into a terminal, shopt and hit enter.
 >
@@ -1672,15 +1657,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** make (1), ls (1)
 > **Env Vars:** jpg (1)
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced extended globs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/advanced-extended-globs?u=76281980)
+#### [Advanced extended globs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/advanced-extended-globs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1688,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/advanced-extended-globs?u=76281980&t=61)** Let's analyze this extended glob.
 >
-> **[1:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/advanced-extended-globs?u=76281980&t=64)** Our first pattern matches the word photo or the word video and specifies that exactly one has to be present.
+> **[1:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/advanced-extended-globs?u=76281980&t=64)** Our first pattern matches the [[Microsoft Word|word]] photo or the word video and specifies that exactly one has to be present.
 >
 > **[1:11](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/advanced-extended-globs?u=76281980&t=71)** The second pattern matches .jpg or .png, and once again, specifies exactly one has to be present.
 >
@@ -1758,7 +1742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** ls (3)
 > **Env Vars:** jpeg (2)
 > **Tools:** terminal (1)
@@ -1769,12 +1753,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding filesystem paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980)
+#### [Understanding filesystem paths](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=0)** - [Instructor] Files in a computer are organized in a hierarchical directory tree, in Linux the base of this tree is called the root and is represented by the forward slash, I often refer to this directory as slash or the top level directory to avoid confusion with the user named root.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=0)** - [Instructor] Files in a computer are organized in a hierarchical directory tree, in [[Linux]] the base of this tree is called the root and is represented by the forward slash, I often refer to this directory as slash or the top level directory to avoid confusion with the user named root.
 >
 > **[0:15](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=15)** Under slash or the other directories in the operating system including bin, boot dev, etc and home among others.
 >
@@ -1816,7 +1799,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=131)** It lets me bounce between two directories as needed.
 >
-> **[2:14](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=134)** For instance I can be in the web server configuration directory, editing server config files, and then quickly jump to my web service HTML file location.
+> **[2:14](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=134)** For instance I can be in the web [[Server Configuration]] directory, editing server config files, and then quickly jump to my web service [[HTML]] file location.
 >
 > **[2:22](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980&t=142)** When I want to go back to the config directory, I just type in cd + space + hyphen.
 >
@@ -1856,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (10), hit (6), [[Linux]] (4), web (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Linux]] (4), [[HTML]] (2), [[Server Configuration]] (1)
 > **CLI Commands:** cd (10), ls (2), find (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** html (2)
@@ -1865,8 +1848,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-files-and-dirs?u=76281980)
+#### [Creating files and dirs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1904,7 +1886,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-files-and-dirs?u=76281980&t=132)** Now verify with "LS", type in "ls -d dir?"
 >
-> **[2:18](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-files-and-dirs?u=76281980&t=138)** I use the "-D" option to get LS to show directory metadata instead of showing the directory contents.
+> **[2:18](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-files-and-dirs?u=76281980&t=138)** I use the "-D" option to get LS to show directory [[Metadata]] instead of showing the directory contents.
 >
 > **[2:24](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-files-and-dirs?u=76281980&t=144)** Notice that I used a question mark glob for the last digit. I could have also used a character set such as "left square bracket zero dash nine, right square bracket".
 >
@@ -1948,7 +1930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), cd (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **CLI Commands:** mkdir (7), ls (7), cat (2), cd (1)
 > **Env Vars:** vim (4), pwd (2), dir (2), txt (1)
 > **Tools:** vim (5), command line (2), terminal (1)
@@ -1957,8 +1939,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - it (1)
 
-#### Copying files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980)
+#### [Copying files and dirs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2046,7 +2027,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=197)** Use your up-arrow key to get your previous line back and hit Enter.
 >
-> **[3:22](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=202)** If you want Linux to warn you, you can add the dash i option, bring your line back again, and between cp and file, type in dash i space and hit Enter.
+> **[3:22](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=202)** If you want [[Linux]] to warn you, you can add the dash i option, bring your line back again, and between cp and file, type in dash i space and hit Enter.
 >
 > **[3:32](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=212)** Now, it will warn you if it's going to overwrite a file.
 >
@@ -2068,7 +2049,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=252)** And once again, verify with tree.
 >
-> **[4:16](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=256)** I'm not going to cover every option of the cp command but a couple of options that I use are dash a for archive, which preserves all metadata, dash u to only copy files if the newer than the destination, and dash capital R copies recursive.
+> **[4:16](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=256)** I'm not going to cover every option of the cp command but a couple of options that I use are dash a for archive, which preserves all [[Metadata]], dash u to only copy files if the newer than the destination, and dash capital R copies recursive.
 >
 > **[4:30](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/copying-files-and-dirs?u=76281980&t=270)** This is necessary for directories.
 >
@@ -2076,7 +2057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), management (1), cd (1), [[Linux]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Metadata]] (1)
 > **CLI Commands:** cp (11), make (4), mkdir (4), cd (1), ls (1)
 > **File Paths:** file.txt (7), file-copy.txt (3), document.txt (1), doc-copy.txt (1)
 > **Tools:** command line (2), terminal (1)
@@ -2085,8 +2066,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Warnings:** warning (1)
 
-#### Moving and renaming files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980)
+#### [Moving and renaming files and dirs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,7 +2100,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=62)** So far, this has been nearly identical to the copy command but there are some important differences that we need to talk about.
 >
-> **[1:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=69)** When Linux copies a file to a new location, it copies the file data blocks to the new location on the disk.
+> **[1:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=69)** When [[Linux]] copies a file to a new location, it copies the file data blocks to the new location on the disk.
 >
 > **[1:16](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=76)** When moving a file from one file system to another, for instance, from the OS drive to a USB drive, Linux copies the data blocks to the new location, just like before.
 >
@@ -2130,7 +2110,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=95)** If we want to move a file from /home/user1 to /home/user2, the operation would happen instantaneously.
 >
-> **[1:43](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=103)** Since both of these locations are on the same hard drive, Linux just updates the file location in the file system metadata.
+> **[1:43](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=103)** Since both of these locations are on the same hard drive, Linux just updates the file location in the file system [[Metadata]].
 >
 > **[1:51](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/moving-and-renaming-files-and-dirs?u=76281980&t=111)** The file takes up exactly the same data blocks and has the same index number.
 >
@@ -2178,7 +2158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (5), data (5), [[Metadata]] (1), cd (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Metadata]] (1)
 > **CLI Commands:** mv (8), mkdir (3), make (1), cd (1), cp (1)
 > **File Paths:** file.txt (4), document.txt (2), doc-jan.txt (1), newfile.txt (1)
 > **Analogies:** for instance (2), just like (2), such as (1)
@@ -2187,14 +2167,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/deleting-files-and-dirs?u=76281980)
+#### [Deleting files and dirs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/deleting-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/deleting-files-and-dirs?u=76281980&t=0)** - We have a couple of commands dedicated to removing files and directories, namely rm and rmdir.
 >
-> **[0:07](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/deleting-files-and-dirs?u=76281980&t=7)** You may want to note that on the command line, Linux does not have a recycle bin.
+> **[0:07](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/deleting-files-and-dirs?u=76281980&t=7)** You may want to note that on the command line, [[Linux]] does not have a recycle bin.
 >
 > **[0:11](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/deleting-files-and-dirs?u=76281980&t=11)** If you delete a file, it is for all practical purposes, deleted.
 >
@@ -2296,7 +2275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), [[Linux]] (2), cd (2), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** rm (11), mkdir (2), cd (2)
 > **File Paths:** filea.txt (2), fileb.txt (2), dir1/file1.txt (1), file1.txt (1)
 > **Warnings:** note that (1), be careful (1)
@@ -2305,8 +2284,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### Creating links to files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-links-to-files-and-dirs?u=76281980)
+#### [Creating links to files and dirs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/creating-links-to-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2458,7 +2436,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), data (4), cd (1), node (1)
 > **File Paths:** file.txt (11), filelink.txt (7), filesymlink.txt (2)
 > **CLI Commands:** ls (7), rm (3), mkdir (2), cd (1), node (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2466,12 +2443,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making file manipulation safe
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/making-file-manipulation-safe?u=76281980)
+#### [Making file manipulation safe](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/making-file-manipulation-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/making-file-manipulation-safe?u=76281980&t=0)** - [Tutor] In many Linux systems, the default behaviors do not warn the user when carrying out destructive operations.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/making-file-manipulation-safe?u=76281980&t=0)** - [Tutor] In many [[Linux]] systems, the default behaviors do not warn the user when carrying out destructive operations.
 >
 > **[0:06](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/making-file-manipulation-safe?u=76281980&t=6)** On the command line, we can pass the dash I option to cp, mv and rm to turn on interactivity which asks for confirmation before doing anything destructive.
 >
@@ -2531,25 +2507,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (1), management (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** cp (5), rm (5), mv (3), make (2)
 > **Tools:** vim (2), command line (1)
 > **File Paths:** test.txt (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [tutor] (1)
 
-#### Challenge: Linux files
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980)
+#### [Challenge: Linux files](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=5)** - [Instructor] You've now come to the end of the Linux files chapter.
+> **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=5)** - [Instructor] You've now come to the end of the [[Linux]] files chapter.
 >
 > **[0:08](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=8)** This challenge will test your knowledge and understanding of what you've learned.
 >
-> **[0:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=12)** This challenge will focus on creating files and directories and listing them using various forms of pattern creation and pattern matching.
+> **[0:12](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=12)** This challenge will focus on creating files and directories and listing them using various [[Forms]] of pattern creation and pattern matching.
 >
 > **[0:19](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-linux-files?u=76281980&t=19)** Let's give this challenge a real-world scenario.
 >
@@ -2611,18 +2586,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Linux]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Forms]] (1)
 > **CLI Commands:** ls (4), cp (2), mv (2), rm (2), mkdir (2)
 > **Env Vars:** jpeg (2), mpeg (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Linux files
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-linux-files?u=76281980)
+#### [Solution: Linux files](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-linux-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-linux-files?u=76281980&t=0)** - [Instructor] And now for the Linux file solution.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-linux-files?u=76281980&t=0)** - [Instructor] And now for the [[Linux]] file solution.
 >
 > **[0:07](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-linux-files?u=76281980&t=7)** First, let's recap what is needed for this challenge.
 >
@@ -2727,12 +2701,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standard Linux permissions overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980)
+#### [Standard Linux permissions overview](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980&t=0)** - [Instructor] The standard Linux permission system came from Unix and was created 40 years ago.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980&t=0)** - [Instructor] The standard [[Linux]] permission system came from Unix and was created 40 years ago.
 >
 > **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980&t=5)** It is a tried and true system and works for most situations.
 >
@@ -2795,12 +2768,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### File and directory modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980)
+#### [File and directory modes](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=0)** - [Instructor] Standard Linux permissions support three different modes.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=0)** - [Instructor] Standard [[Linux]] permissions support three different modes.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=4)** Read, write, and execute.
 >
@@ -2818,7 +2790,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=39)** These same three modes act differently on a directory.
 >
-> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=44)** If a user has read access to a directory it means they can list the contents of the directory which includes the metadata about the files and directories in it.
+> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=44)** If a user has read access to a directory it means they can list the contents of the directory which includes the [[Metadata]] about the files and directories in it.
 >
 > **[0:51](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-and-directory-modes?u=76281980&t=51)** If a user doesn't have read access and they type LS inside the directory they will see a lot of question marks where the metadata should be.
 >
@@ -2834,14 +2806,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1)
 > **CLI Commands:** ls (2)
 > **Definitions:** means that (2)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### File ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-ownership?u=76281980)
+#### [File ownership](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2875,7 +2846,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-ownership?u=76281980&t=67)** You can get a list of existing users by viewing /etc/passwd file and existing groups by viewing the /etc/group file.
 >
-> **[1:14](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-ownership?u=76281980&t=74)** For more information about creating users and groups, see my course in the course library titled, "Linux: User and Group Management" where we cover this topic in depth.
+> **[1:14](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-ownership?u=76281980&t=74)** For more information about creating users and groups, see my course in the course library titled, "[[Linux]]: User and Group Management" where we cover this topic in depth.
 >
 > **[1:22](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/file-ownership?u=76281980&t=82)** We haven't used any options with chown yet.
 >
@@ -2931,7 +2902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), cd (2), data (1), [[Linux]] (1), management (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** chown (9), sudo (5), ls (2), mkdir (2), cd (2)
 > **File Paths:** file.txt (5)
 > **Warnings:** keep in mind (1), note that (1)
@@ -2940,12 +2911,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Permissions using numeric notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980)
+#### [Permissions using numeric notation](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in Linux, numeric and symbolic.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in [[Linux]], numeric and symbolic.
 >
 > **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=5)** Let's talk about numeric mode now.
 >
@@ -2983,7 +2953,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=57)** The last group of three is for everyone that is not the user owner or that doesn't belong to the group.
 >
-> **[1:02](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=62)** These are the permissions for the rest of the entire known universe.
+> **[1:02](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=62)** These are the permissions for the [[Representational State Transfer (REST)|rest]] of the entire known universe.
 >
 > **[1:06](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-numeric-notation?u=76281980&t=66)** Other in this case has no permissions.
 >
@@ -3035,7 +3005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), cd (2), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (7), ls (3), cd (2), mkdir (1)
 > **File Paths:** file.txt (3)
 > **Tools:** terminal (2)
@@ -3044,12 +3014,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Permissions using symbolic notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980)
+#### [Permissions using symbolic notation](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=0)** - [Narrator] There are two different methods of setting permissions in Linux: numeric and symbolic.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=0)** - [Narrator] There are two different methods of setting permissions in [[Linux]]: numeric and symbolic.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=4)** For this video, let's talk about symbolic mode.
 >
@@ -3087,7 +3056,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=52)** The last group of three is for everyone that is not the user owner, or that doesn't belong to the group.
 >
-> **[0:58](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=58)** These are the permissions for the rest of the known universe.
+> **[0:58](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=58)** These are the permissions for the [[Representational State Transfer (REST)|rest]] of the known universe.
 >
 > **[1:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/permissions-using-symbolic-notation?u=76281980&t=60)** Other, in our case, has no permissions.
 >
@@ -3181,7 +3150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), cd (2), [[Linux]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** chmod (11), ls (4), cd (2), mkdir (1)
 > **Analogies:** for instance (2), such as (1)
 > **Tools:** terminal (2)
@@ -3189,8 +3158,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Initial permissions using umask
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/initial-permissions-using-umask?u=76281980)
+#### [Initial permissions using umask](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/initial-permissions-using-umask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3212,7 +3180,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/initial-permissions-using-umask?u=76281980&t=35)** To calculate initial permissions we'll have to subtract the umask from maximum allowed initial permissions, based on whether the item is a file or a directory.
 >
-> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/initial-permissions-using-umask?u=76281980&t=44)** For directories our maximum initial permission are 777, since having execute on a directory does not create a security risk.
+> **[0:44](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/initial-permissions-using-umask?u=76281980&t=44)** For directories our maximum initial permission are 777, since having execute on a directory does not create a [[Security Risk]].
 >
 > **[0:51](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/initial-permissions-using-umask?u=76281980&t=51)** Let's use a umask of 022.
 >
@@ -3282,7 +3250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Security]] (2)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **CLI Commands:** ls (2), sudo (2), mkdir (1)
 > **Tools:** terminal (3), bash (1)
 > **File Paths:** umaskfile.txt (1), umask.sh (1), etc/profile.d/umask.sh (1)
@@ -3291,14 +3259,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 
-#### Special file bits: SUID and SGID
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-file-bits-suid-and-sgid?u=76281980)
+#### [Special file bits: SUID and SGID](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-file-bits-suid-and-sgid?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-file-bits-suid-and-sgid?u=76281980&t=0)** - [Instructor] There are additional special bits for privilege escalation on executable files.
 >
-> **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-file-bits-suid-and-sgid?u=76281980&t=5)** The first is called set user ID or SUID, is which instructs Linux to run the executable file as the user owner of the file.
+> **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-file-bits-suid-and-sgid?u=76281980&t=5)** The first is called set user ID or SUID, is which instructs [[Linux]] to run the executable file as the user owner of the file.
 >
 > **[0:13](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-file-bits-suid-and-sgid?u=76281980&t=13)** We also have set group ID or SGID which instructs Linux to run the executable file as the group owner of the file.
 >
@@ -3386,7 +3353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), hit (3), next (1), power (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **Env Vars:** suid (13), sgid (11), usr (5), bsd (1), rws (1)
 > **CLI Commands:** sudo (5), chmod (4), find (4), ls (1)
 > **Analogies:** just like (2), such as (2), similar to (1)
@@ -3395,8 +3362,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special directory bits: SGID and Sticky
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-directory-bits-sgid-and-sticky?u=76281980)
+#### [Special directory bits: SGID and Sticky](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-directory-bits-sgid-and-sticky?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3408,7 +3374,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-directory-bits-sgid-and-sticky?u=76281980&t=11)** Set group ID, or SGID, provides group inheritance for files and directories created inside the directory.
 >
-> **[0:18](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-directory-bits-sgid-and-sticky?u=76281980&t=18)** Unlike with executables, the sticky bit works on directories in Linux.
+> **[0:18](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-directory-bits-sgid-and-sticky?u=76281980&t=18)** Unlike with executables, the sticky bit works on directories in [[Linux]].
 >
 > **[0:22](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/special-directory-bits-sgid-and-sticky?u=76281980&t=22)** When the sticky bit is set for a directory, only the owners of the files can delete them.
 >
@@ -3548,7 +3514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (20), cd (7), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** sudo (9), ls (8), cd (7), mkdir (3), chmod (3)
 > **Env Vars:** sgid (7), suid (1)
 > **File Paths:** file.txt (5)
@@ -3557,12 +3523,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980)
+#### [Challenge: Permissions](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=0)** - You've now come to the end of the Linux Permissions Chapter.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=0)** - You've now come to the end of the [[Linux]] Permissions Chapter.
 >
 > **[0:08](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=8)** In this chapter, you learned about standard Linux permissions.
 >
@@ -3572,7 +3537,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=21)** Let's create a scenario with a fictitious company.
 >
-> **[0:24](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=24)** This company is an engineering company that makes products and sells them to consumers.
+> **[0:24](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=24)** This company is an engineering company that makes [[Microsoft Products|products]] and sells them to consumers.
 >
 > **[0:28](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-permissions?u=76281980&t=28)** The engineers create technical drawings and documents, and the marketing department needs access to those items to create marketing material.
 >
@@ -3624,7 +3589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Engineering]] (4), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** sudo (4), cat (2)
 > **Env Vars:** suid (2), sgid (2), rwx (1)
 > **Definitions:** is an  (1)
@@ -3632,12 +3597,11 @@ created: 2026-05-02
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-permissions?u=76281980)
+#### [Solution: Permissions](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-permissions?u=76281980&t=0)** - For the standard Linux permissions challenge, we need to create a directory at /home/engineering.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-permissions?u=76281980&t=0)** - For the standard [[Linux]] permissions challenge, we need to create a directory at /home/engineering.
 >
 > **[0:10](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-permissions?u=76281980&t=10)** Engineers need to be able to enter, read and write files in the engineering directory.
 >
@@ -3745,7 +3709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (23), hit (15), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** sudo (12), make (4), chmod (4), mkdir (1), chown (1)
 > **Env Vars:** gpasswd (2), sgid (2), passwd (1), rwx (1)
 > **Prerequisites:** set up (1)
@@ -3757,12 +3721,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ACL overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980)
+#### [ACL overview](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=0)** - [Narrator] There are limitations to the standard Linux permission system.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=0)** - [Narrator] There are limitations to the standard [[Linux]] permission system.
 >
 > **[0:03](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=3)** Briefly, these are the issues.
 >
@@ -3830,7 +3793,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=178)** If an administrator wanted to temporarily limit access they could just take permissions away from the mask.
 >
-> **[3:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=184)** Doing so squashes the rest of the permissions and when the mask is restored then the permissions go back to normal.
+> **[3:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=184)** Doing so squashes the [[Representational State Transfer (REST)|rest]] of the permissions and when the mask is restored then the permissions go back to normal.
 >
 > **[3:10](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980&t=190)** ACLs are not built into Linux but they are turned on by default in enterprise Linux eight.
 >
@@ -3842,19 +3805,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** acl (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Read ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/read-acls?u=76281980)
+#### [Read ACLs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/read-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/read-acls?u=76281980&t=0)** - [Instructor] Because ACLs are layered onto standard Linux permissions, we can't use standard tools such as LS to list them.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/read-acls?u=76281980&t=0)** - [Instructor] Because ACLs are layered onto standard [[Linux]] permissions, we can't use standard tools such as LS to list them.
 >
 > **[0:06](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/read-acls?u=76281980&t=6)** With ACLs comes a suite of new tools.
 >
@@ -3936,7 +3898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (4), cd (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **CLI Commands:** ls (3), mkdir (2), cat (2), cd (1), find (1)
 > **Env Vars:** acl (7), pwd (1)
 > **File Paths:** perms.txt (1), home-perms.txt (1)
@@ -3945,8 +3907,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
-#### Setting ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980)
+#### [Setting ACLs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3954,7 +3915,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=4)** If you're using a different system, you may want to ensure ACL support is installed and active.
 >
-> **[0:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=9)** To do so you'd mount the file system with the ACL option, and older versions of enterprise Linux, ACLs were turned on automatically for the root partition but not for additional drives.
+> **[0:09](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=9)** To do so you'd mount the file system with the ACL option, and older versions of enterprise [[Linux]], ACLs were turned on automatically for the root partition but not for additional drives.
 >
 > **[0:19](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=19)** ACLs are installed and turned on fully by default in Enterprise Linux 8, however, they may not be in other distributions.
 >
@@ -4020,7 +3981,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=204)** Here we are granting rwx to Bob.
 >
-> **[3:27](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=207)** To set a group ACL, we use setfacl again, but specify the word group instead of user, and specify the group name instead of the username.
+> **[3:27](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=207)** To set a group ACL, we use setfacl again, but specify the [[Microsoft Word|word]] group instead of user, and specify the group name instead of the username.
 >
 > **[3:36](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/setting-acls?u=76281980&t=216)** Note, the group has to exist or it will give you a strange error message where the error starts near character 7.
 >
@@ -4056,7 +4017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (4), cd (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** acl (13)
 > **CLI Commands:** sudo (4), cat (4), cd (1), chmod (1)
 > **File Paths:** datafile.txt (7), home/file.txt (1), datafiles.txt (1)
@@ -4065,12 +4026,11 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Tools:** terminal (1)
 
-#### Manage Default ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-default-acls?u=76281980)
+#### [Manage Default ACLs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-default-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-default-acls?u=76281980&t=0)** - [Instructor] Standard Linux permissions only have one type of inheritance in the form of the SGID bit on directories.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-default-acls?u=76281980&t=0)** - [Instructor] Standard [[Linux]] permissions only have one type of inheritance in the form of the SGID bit on directories.
 >
 > **[0:06](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-default-acls?u=76281980&t=6)** In that case, the files and directories created inside inherit the group owner of the parent directory which there can only be one of.
 >
@@ -4158,7 +4118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), hit (11), cd (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** acl (11), sgid (2)
 > **CLI Commands:** cd (2), cat (2), mkdir (1), make (1), sudo (1)
 > **File Paths:** aclfile.txt (2), data/file.txt (1)
@@ -4167,8 +4127,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Delete ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/delete-acls?u=76281980)
+#### [Delete ACLs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/delete-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4264,19 +4223,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (17), cd (1)
 > **Env Vars:** acl (21)
 > **CLI Commands:** cd (1), mkdir (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Analogies:** such as (1), for instance (1)
 > **Tools:** terminal (1)
 
-#### ACL tricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-tricks?u=76281980)
+#### [ACL tricks](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-tricks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-tricks?u=76281980&t=0)** - [Instructor] It's very apparent that ACLs are an important addition to Linux permissions.
+> **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-tricks?u=76281980&t=0)** - [Instructor] It's very apparent that ACLs are an important addition to [[Linux]] permissions.
 >
 > **[0:04](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-tricks?u=76281980&t=4)** However, there are some other neat tricks that we can do with them.
 >
@@ -4404,21 +4361,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (19), cd (4), data (3), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **File Paths:** file1.txt (5), acls.txt (5), dir1/file1.txt (3), file2.txt (3), file3.txt (3)
 > **Env Vars:** acl (16)
 > **CLI Commands:** cd (4), tar (3), cp (2), mkdir (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980)
+#### [Challenge: ACLs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=5)** - [Instructor] You've now come to the end of the Linux access control list chapter.
+> **[0:05](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=5)** - [Instructor] You've now come to the end of the [[Linux]] access control list chapter.
 >
 > **[0:08](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=8)** This challenge will test your knowledge and understanding of what you've learned.
 >
@@ -4430,7 +4386,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=24)** I've changed the names of it to keep from conflicting with the previous challenge.
 >
-> **[0:28](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=28)** We have a fictitious engineering company that makes products and sells them to consumers.
+> **[0:28](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=28)** We have a fictitious engineering company that makes [[Microsoft Products|products]] and sells them to consumers.
 >
 > **[0:33](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/challenge-acls?u=76281980&t=33)** The developers create technical drawings and documents and the sales department needs access to those items to create marketing material.
 >
@@ -4484,15 +4440,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** sudo (4)
 > **Env Vars:** acl (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-acls?u=76281980)
+#### [Solution: ACLs](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4566,7 +4521,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-acls?u=76281980&t=160)** Let's set the permissions.
 >
-> **[2:42](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-acls?u=76281980&t=162)** Here's where this challenge starts to differ from the standard Linux permissions challenge.
+> **[2:42](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-acls?u=76281980&t=162)** Here's where this challenge starts to differ from the standard [[Linux]] permissions challenge.
 >
 > **[2:46](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/solution-acls?u=76281980&t=166)** Type in sudo space setfacl space -m for modify space group:developers:rwx space /home/development and hit enter.
 >
@@ -4634,7 +4589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), [[Linux]] (5), power (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **CLI Commands:** sudo (11), make (3), mkdir (1), chown (1), chmod (1)
 > **Env Vars:** acl (5)
 > **Definitions:** means that (1)
@@ -4646,14 +4601,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980&t=0)** - [Grant] Thank you for joining me in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980&t=2)** In this course, we covered how to gather information about Linux files, including file types, ownership, and permissions, as well as how to manage files themselves.
+> **[0:02](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980&t=2)** In this course, we covered how to gather information about [[Linux]] files, including file types, ownership, and permissions, as well as how to manage files themselves.
 >
 > **[0:10](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980&t=10)** We learned about globbing for files, pattern creation using brace expansion, and the magic of extended globs, which brings the power of regular expressions to file matching.
 >
@@ -4673,7 +4627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), power (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** acl (1)
 > **Cross-References:** we covered (1)

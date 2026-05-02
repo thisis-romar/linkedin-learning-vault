@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Algorithmic auditing and continuous monitoring uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980)
+#### [Algorithmic auditing and continuous monitoring uses](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,7 +83,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980&t=17)** I've designed this course for every team, from the technical teams to the C-suite.
 >
-> **[0:23](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980&t=23)** I'll cover data testing, code review, bias detection, algorithmic transparency, and compliance.
+> **[0:23](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980&t=23)** I'll cover data testing, [[Code Review]], bias detection, algorithmic transparency, and compliance.
 >
 > **[0:29](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980&t=29)** Then you'll put these concepts into practice through a case study.
 >
@@ -92,12 +91,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), teams (1), [[Code Review]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - algorithmic (1)
 
-#### Responsible AI principles and practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980)
+#### [Responsible AI principles and practices](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,13 +109,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=26)** While algorithmic or AI-enabled systems like the one deployed by the Michigan Unemployment Insurance Agency pose serious risks, putting in place appropriate safeguards can ensure the significant benefits they hold are realized.
 >
-> **[0:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=42)** Use of artificial intelligence, AI, is revolutionizing industries and transforming the way we live and work.
+> **[0:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=42)** Use of [[Artificial Intelligence (AI)|artificial intelligence]], AI, is revolutionizing industries and transforming the way we live and work.
 >
 > **[0:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=49)** With this rapid expansion comes the need to implement safeguards that support responsible design, development, and deployment.
 >
-> **[0:57](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=57)** As the benefits and risks of AI-enabled technologies become better understood, companies, nonprofits, academic institutions, governments, and intergovernmental organizations have developed responsible AI principles and practices.
+> **[0:57](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=57)** As the benefits and risks of AI-enabled technologies become better understood, companies, nonprofits, academic institutions, governments, and intergovernmental organizations have developed [[Responsible AI]] principles and practices.
 >
-> **[1:13](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=73)** While responsible AI principles often vary in style and scope across these different organizations, consensus has emerged around eight core principles: accountability, privacy and security, reliability and safety, transparency and explainability, fairness and non-discrimination, professional responsibility, human control, and the promotion of human values like civil and human rights.
+> **[1:13](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=73)** While responsible AI principles often vary in style and scope across these different organizations, consensus has emerged around eight core principles: [[Accountability]], [[Privacy]] and security, reliability and safety, transparency and explainability, fairness and non-discrimination, professional responsibility, human control, and the promotion of human values like civil and human rights.
 >
 > **[1:38](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=98)** Let's explore how these eight core responsible AI principles can be implemented in practice.
 >
@@ -127,11 +125,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=129)** To support security, developers may decide to run an AI model locally on a user's device, so that no personal data is transferred.
 >
-> **[2:18](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=138)** To ensure reliability and safety, a developer or third party may implement algorithmic auditing, assessing the performance of an algorithm, including whether appropriate governance and oversight mechanisms are in place, data quality, accuracy, robustness, and model performance.
+> **[2:18](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=138)** To ensure reliability and safety, a developer or third party may implement algorithmic auditing, assessing the performance of an algorithm, including whether appropriate governance and oversight mechanisms are in place, [[Data Quality]], accuracy, robustness, and model performance.
 >
 > **[2:36](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=156)** Performance reliability is closely related to safety.
 >
-> **[2:40](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=160)** If an AI system is implemented in a high-risk area, for example, determining appropriate healthcare interventions, algorithmic auditing and continuous monitoring are critical.
+> **[2:40](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=160)** If an AI system is implemented in a high-risk area, for example, determining appropriate healthcare interventions, algorithmic auditing and [[Continuous Monitoring]] are critical.
 >
 > **[2:50](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-principles-and-practices?u=76281980&t=170)** We'll do a deeper dive into algorithmic auditing and continuous monitoring in the next video.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (6), [[Responsible AI]] (5), [[Continuous Monitoring]] (4), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), [[Continuous Monitoring]] (4), [[Privacy]] (3), [[Accountability]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Cross-References:** in the next (1), next video (1)
 > **CLI Commands:** make (1)
@@ -173,8 +171,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is algorithmic auditing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980)
+#### [What is algorithmic auditing?](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=106)** The audit revealed that the model had a fatal flaw.
 >
-> **[1:50](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=110)** Comparing the model's results with data on actual re-offense, it was twice as likely to inaccurately label Black defendants with a high probability to re-offend than white defendants, and white defendants were more often labeled as unlikely to re-offend.
+> **[1:50](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=110)** Comparing the model's results with data on actual re-offense, it was twice as likely to inaccurately label Black defendants with a high [[Probability]] to re-offend than white defendants, and white defendants were more often labeled as unlikely to re-offend.
 >
 > **[2:08](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=128)** In any audit, human judgment is still needed.
 >
@@ -216,9 +213,9 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=162)** The first, defining the purpose and scoping the audit, including what components will be tested, how often, and what constitutes failure.
 >
-> **[2:51](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=171)** Second, evaluating data inputs, model, and output to ensure alignment with responsible AI principles such as non-discrimination and privacy.
+> **[2:51](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=171)** Second, evaluating data inputs, model, and output to ensure alignment with [[Responsible AI]] principles such as non-discrimination and [[Privacy]].
 >
-> **[3:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=180)** Third, documenting all processes and component one and two to allow for continuous monitoring.
+> **[3:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=180)** Third, documenting all processes and component one and two to allow for [[Continuous Monitoring]].
 >
 > **[3:07](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=187)** Let's explore an example.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=281)** You now move to the second step, to evaluate the data inputs, model and outputs.
 >
-> **[4:48](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=288)** You take a representative sample of the data and compile descriptive statistics, including percent of those who had successful and unsuccessful freelance matches broken down by gender, race, and age.
+> **[4:48](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=288)** You take a representative sample of the data and compile descriptive [[Statistics]], including percent of those who had successful and unsuccessful freelance matches broken down by gender, race, and age.
 >
 > **[5:02](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=302)** You then perform inferential statistics to identify whether protected characteristics like race, gender and age are significant predictors of whether a freelancer is successfully or unsuccessfully matched with an employer.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=342)** You carefully test your model and configure it to minimize biases through repeated tests.
 >
-> **[5:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=349)** Third, to promote transparency and accountability, you document all processes in steps one and two to enable a record for the next technical audit.
+> **[5:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=349)** Third, to promote transparency and [[Accountability]], you document all processes in steps one and two to enable a record for the next technical audit.
 >
 > **[5:59](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980&t=359)** Governance, empirical and technical audits each serve important purposes.
 >
@@ -262,14 +259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (5), [[Continuous Monitoring]] (2), [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (2), [[Statistics]] (2), [[Probability]] (1), [[Responsible AI]] (1), [[Privacy]] (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - algorithmic (1)
 
-#### What is continuous monitoring?
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980)
+#### [What is continuous monitoring?](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=14)** You led a technical audit where you performed a technical assessment of the data and model for any biases.
 >
-> **[0:22](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=22)** As part of that process, it became clear that the AI enabled tool should undergo continuous monitoring to better ensure it does not develop or perpetuate biases.
+> **[0:22](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=22)** As part of that process, it became clear that the AI enabled tool should undergo [[Continuous Monitoring]] to better ensure it does not develop or perpetuate biases.
 >
 > **[0:33](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=33)** But first, what is continuous monitoring?
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=92)** Here are some examples, data drift, where you evaluate whether a statistically significant change has occurred in the data in a way that affects model performance.
 >
-> **[1:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=102)** Data errors, where you evaluate whether the data exhibit characteristics that affect model performance such as duplicates or incomplete data and improper data processing.
+> **[1:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=102)** Data errors, where you evaluate whether the data exhibit characteristics that affect model performance such as duplicates or incomplete data and improper [[Data Processing]].
 >
 > **[1:52](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-continuous-monitoring?u=76281980&t=112)** Model drift, where you evaluate whether there is a significant shift in the model performance or its accuracy.
 >
@@ -339,28 +335,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Monitoring]] (13), data (12), ai (11), teams (3), next (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (13), [[Data Processing]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Voluntary and required algorithmic auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980)
+#### [Voluntary and required algorithmic auditing](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=0)** - In the last two videos, you were introduced to algorithmic auditing and continuous monitoring.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=0)** - In the last two videos, you were introduced to algorithmic auditing and [[Continuous Monitoring]].
 >
 > **[0:06](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=6)** Both of these are processes put in place to better ensure AI are designed and deployed responsibly.
 >
 > **[0:13](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=13)** While many AI developers have started to implement algorithmic audits and continuous monitoring voluntarily, legislation is being proposed and passed into law that requires developers to conduct algorithmic audits and continuous monitoring especially in high risk application areas.
 >
-> **[0:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=32)** In the United States, the National Institute of Standards and Technology, NIST, introduced its voluntary AI risk management framework in 2023.
+> **[0:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=32)** In the United States, the National Institute of Standards and Technology, [[NIST]], introduced its voluntary AI [[Risk Management Framework (RMF)|risk management framework]] in 2023.
 >
-> **[0:41](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=41)** The NIST AI RMF provides guidance to AI developers on how to incorporate trustworthiness considerations into the design, development, use and evaluation of AI products, services, and systems.
+> **[0:41](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=41)** The NIST AI RMF provides guidance to AI developers on how to incorporate trustworthiness considerations into the design, development, use and evaluation of AI [[Microsoft Products|products]], services, and systems.
 >
-> **[0:54](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=54)** NIST defines trustworthiness as evaluating whether an AI system is valid and reliable, safe, secure and resilient, accountable and transparent, explainable and interpretable, privacy enhanced, fair with harmful bias managed.
+> **[0:54](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=54)** NIST defines trustworthiness as evaluating whether an AI system is valid and reliable, safe, secure and resilient, accountable and transparent, explainable and interpretable, [[Privacy]] enhanced, fair with harmful bias managed.
 >
 > **[1:10](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=70)** To implement elements of trustworthiness, the NIST AI RMF focuses its actions through four functions.
 >
@@ -388,9 +383,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=180)** The NIST AI RMF is accompanied by the NIST AI RMF Playbook, which provides guidance on how to implement the NIST AI RMF across these four domains.
 >
-> **[3:11](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=191)** The European Union's Artificial Intelligence Act or EU AI Act is the most comprehensive piece of legislation regulating AI to date.
+> **[3:11](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=191)** The European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act or EU AI Act is the most comprehensive piece of legislation regulating AI to date.
 >
-> **[3:20](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=200)** The EU AI Act takes a risk-based approach to AI governance, AI applications that pose greater than minimal risk to health, safety and individual rights, must have risk mitigation strategies put in place.
+> **[3:20](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=200)** The EU AI Act takes a risk-based approach to [[AI Governance]], AI applications that pose greater than minimal risk to health, safety and individual rights, must have risk mitigation strategies put in place.
 >
 > **[3:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=212)** Let's dive into an example of what a conformity assessment will look like.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=225)** Their conformity assessment process has three stages.
 >
-> **[3:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=229)** First, an internal review protocol, which provides guidance on how to assess quality assurance and risk management of the AI system.
+> **[3:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=229)** First, an internal review protocol, which provides guidance on how to assess [[Quality Assurance]] and risk management of the AI system.
 >
 > **[3:58](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/voluntary-and-required-algorithmic-auditing?u=76281980&t=238)** Second, the summary data sheet to be submitted to the EU database, which includes vital information on the AI system, including purpose and third, an optional external scorecard which should be made available to customers and other stakeholders of the AI system.
 >
@@ -412,19 +407,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), [[NIST]] (9), [[Continuous Monitoring]] (6), rmf (6), application (2)
+> **Frameworks & Libraries:** [[NIST]] (9), [[Continuous Monitoring]] (6), [[Risk Management Framework (RMF)|Risk management framework]] (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **Env Vars:** nist (9), rmf (6)
 > **Analogies:** for example (4), such as (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Algorithmic auditing and the job market
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980)
+#### [Algorithmic auditing and the job market](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=0)** - As greater awareness of the potential risks of AI enabled systems become better understood, lawmakers and regulators are increasingly putting in place requirements for AI developers and users to implement algorithmic auditing and continuous monitoring.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=0)** - As greater awareness of the potential risks of AI enabled systems become better understood, lawmakers and regulators are increasingly putting in place requirements for AI developers and users to implement algorithmic auditing and [[Continuous Monitoring]].
 >
 > **[0:18](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=18)** As we explored in the last video, the EU AI Act places requirements on developers and employers of high risk AI systems.
 >
@@ -438,15 +432,15 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=64)** It is important to emphasize that it's not only the technical development teams who will need these skills, but also C-suite, project managers, policy and legal teams, and more.
 >
-> **[1:17](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=77)** Individuals with a background in computer science, data analysis, machine learning, law, ethics, and the social sciences are likely to find ample opportunities in this growing field.
+> **[1:17](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=77)** Individuals with a background in computer science, data analysis, machine learning, law, [[Ethics]], and the social sciences are likely to find ample opportunities in this growing field.
 >
-> **[1:29](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=89)** Skills taught in this course will be particularly valuable, specifically data testing, code review, bias detection, algorithmic transparency and compliance.
+> **[1:29](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=89)** Skills taught in this course will be particularly valuable, specifically data testing, [[Code Review]], bias detection, algorithmic transparency and compliance.
 >
 > **[1:39](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-the-job-market?u=76281980&t=99)** By completing this course, you are positioning yourself to be a leader in this growing field.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Continuous Monitoring]] (2), teams (2), data (2), management (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (2), [[Ethics]] (1), [[Code Review]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** in other words (1)
@@ -458,12 +452,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing an effective governance structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980)
+#### [Establishing an effective governance structure](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=0)** - A multinational cloud services company needed to increase its software development team quickly.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=0)** - A multinational [[Cloud Services]] company needed to increase its [[Software Development]] team quickly.
 >
 > **[0:06](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=6)** They'd just been awarded a prestigious contract and only had a few months to develop and scale the tool for their new client.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=46)** The training data had been pulled from the company's existing employee data creating an unintended bias.
 >
-> **[0:53](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=53)** This incident was a wake up call for the team and made them realize the importance of a well-defined algorithmic auditing and continuous monitoring process as part of their responsible AI governance strategy.
+> **[0:53](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=53)** This incident was a wake up call for the team and made them realize the importance of a well-defined algorithmic auditing and [[Continuous Monitoring]] process as part of their [[Responsible AI]] governance strategy.
 >
 > **[1:06](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=66)** How might you build in processes to assess unintended consequences in your audit?
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=78)** Remember that the objective of the machine learning hiring tool was for unbiased recruitment.
 >
-> **[1:24](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=84)** It's critical to understand the purpose of your algorithms and to rigorously evaluate the data and test the model to ensure appropriate performance.
+> **[1:24](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=84)** It's critical to understand the purpose of your [[Algorithms]] and to rigorously evaluate the data and test the model to ensure appropriate performance.
 >
 > **[1:33](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=93)** Set clear measurable goals for what your algorithm should achieve and how the auditing process will effectively evaluate and test performance.
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=253)** You should also prioritize sharing audit documentation with relevant stakeholders.
 >
-> **[4:18](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=258)** Doing so promotes accountability and helps build trust.
+> **[4:18](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=258)** Doing so promotes [[Accountability]] and helps build trust.
 >
 > **[4:22](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980&t=262)** Eight, prepare for external audits.
 >
@@ -577,7 +570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (3), [[Continuous Monitoring]] (2), cloud (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Continuous Monitoring]] (2), [[Cloud Services]] (1), [[Software Development]] (1), [[Responsible AI]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), required to (1)
@@ -585,8 +578,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - a (1)
 
-#### Data collection and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980)
+#### [Data collection and analysis](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,11 +600,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=64)** This seemingly amusing incident drives home a critical point.
 >
-> **[1:08](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=68)** The quality and integrity of data are critical in developing and auditing algorithms.
+> **[1:08](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=68)** The quality and integrity of data are critical in developing and auditing [[Algorithms]].
 >
-> **[1:13](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=73)** It also highlighted the importance of data privacy as personal bias should not influence the broader data set.
+> **[1:13](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=73)** It also highlighted the importance of [[Data Privacy]] as personal bias should not influence the broader data set.
 >
-> **[1:20](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=80)** When you collect and analyze data for algorithmic auditing, focus on data quality and privacy and keep the following areas in mind.
+> **[1:20](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=80)** When you collect and analyze data for algorithmic auditing, focus on [[Data Quality]] and [[Privacy]] and keep the following areas in mind.
 >
 > **[1:28](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=88)** I recommend taking notes to help you answer the course assessment questions.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=114)** Understanding the data and its interrelationships will help you know what to look for during the audit.
 >
-> **[2:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=120)** Second, data collection.
+> **[2:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=120)** Second, [[Data Collection]].
 >
 > **[2:02](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=122)** In order to accurately assess your data, you need to collect a representative sample.
 >
@@ -644,9 +636,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=142)** Data quality issues can create misleading results during the audit.
 >
-> **[2:26](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=146)** Tools and techniques such as data profiling, data cleaning, and validation checks can help.
+> **[2:26](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=146)** Tools and techniques such as data profiling, [[Data Cleaning]], and validation checks can help.
 >
-> **[2:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=152)** Let's explore five common data validation checks further.
+> **[2:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=152)** Let's explore five common [[Data Validation]] checks further.
 >
 > **[2:37](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/data-collection-and-analysis?u=76281980&t=157)** Data type check.
 >
@@ -724,15 +716,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (52), [[Privacy]] (4), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Privacy]] (2), [[Privacy]] (2), [[Data Collection]] (2), [[Algorithms]] (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - during (1)
 
-#### Identifying and managing bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980)
+#### [Identifying and managing bias](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=49)** Here are five strategies for identifying and managing biases.
 >
-> **[0:53](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=53)** The National Institute of Standards and Technology, NIST, released a report to guide AI developers, deployers, and users on how to identify and manage bias.
+> **[0:53](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=53)** The National Institute of Standards and Technology, [[NIST]], released a report to guide AI developers, deployers, and users on how to identify and manage bias.
 >
 > **[1:05](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=65)** In their report, they provide a summary of three dominant categories of AI bias.
 >
@@ -772,13 +763,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=109)** These biases are not necessarily present because of prejudice or discriminatory intent, but that the data may be under representative of all demographics or there are inappropriate assumptions in the model.
 >
-> **[2:01](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=121)** Auditing and continuous monitoring are valuable methods for identifying and managing statistical and computational biases.
+> **[2:01](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=121)** Auditing and [[Continuous Monitoring]] are valuable methods for identifying and managing statistical and computational biases.
 >
 > **[2:10](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=130)** Second, bias detection.
 >
 > **[2:12](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=132)** Detecting bias can be challenging.
 >
-> **[2:14](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=134)** You might need to evaluate your data, investigate your algorithm's decision-making process and conduct extensive testing.
+> **[2:14](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=134)** You might need to evaluate your data, investigate your algorithm's [[Decision-Making]] process and conduct extensive testing.
 >
 > **[2:22](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=142)** Tools and techniques such as disparate impact analysis, bias and fairness metrics, and counterfactual testing can be useful.
 >
@@ -788,7 +779,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=158)** This could involve pre-processing the data to address identified biases, adjusting the algorithm itself, or including human oversight to ensure fairness.
 >
-> **[2:48](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=168)** Fourth, diversity and inclusion.
+> **[2:48](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=168)** Fourth, [[Diversity and Inclusion]].
 >
 > **[2:51](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/identifying-and-managing-bias?u=76281980&t=171)** Including diverse perspectives in your team can help spot and address bias.
 >
@@ -808,23 +799,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Continuous Monitoring]] (3), management (3), ai (2), application (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (3), [[NIST]] (1), [[Decision-Making]] (1), [[Diversity and Inclusion]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Setting up a continuous monitoring process
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980)
+#### [Setting up a continuous monitoring process](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980&t=0)** - In this chapter, you've learned how to establish an effective governance structure, data collection and analysis for algorithmic auditing and strategies to identify and manage algorithmic bias.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980&t=0)** - In this chapter, you've learned how to establish an effective governance structure, [[Data Collection]] and analysis for algorithmic auditing and strategies to identify and manage algorithmic bias.
 >
 > **[0:12](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980&t=12)** Each of these is important to ensure robust algorithmic auditing.
 >
-> **[0:16](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980&t=16)** This process should be reflected in a continuous monitoring procedure that helps ensure risk identification and management is sustained throughout the lifecycle of the AI tool.
+> **[0:16](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980&t=16)** This process should be reflected in a [[Continuous Monitoring]] procedure that helps ensure risk identification and management is sustained throughout the lifecycle of the AI tool.
 >
 > **[0:29](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/setting-up-a-continuous-monitoring-process?u=76281980&t=29)** A strong continuous monitoring process should include the following six strategies.
 >
@@ -894,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Monitoring]] (7), data (5), ai (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (7), [[Data Collection]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
@@ -904,8 +894,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Case study: RedTech 30
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980)
+#### [Case study: RedTech 30](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,7 +914,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=72)** To train the HomeLoanAI model, Red30 Tech used historical data of past loan applicants in a large city on the West Coast of the United States including demographic information, zip code, financial history, credit scores, education, employment details, and loan repayment records.
 >
-> **[1:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=92)** They have complied with all data privacy laws and regulations including anonymizing and de-identifying personal information.
+> **[1:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=92)** They have complied with all [[Data Privacy]] laws and regulations including anonymizing and de-identifying personal information.
 >
 > **[1:40](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=100)** Let's review their model type.
 >
@@ -941,13 +930,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=135)** Data scientists, tasked with pre-processing the data, developing and validating the AI model, and iteratively improving its performance.
 >
-> **[2:25](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=145)** Data engineers, responsible for managing data ingestion, cleaning, and structuring.
+> **[2:25](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=145)** Data engineers, responsible for managing [[Data Ingestion]], cleaning, and structuring.
 >
 > **[2:31](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=151)** Compliance officers, ensure all activities comply with financial regulations and data privacy laws.
 >
 > **[2:39](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=159)** Project managers, coordinate between different team members, manage resources, and keep the project on schedule.
 >
-> **[2:47](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=167)** In the next videos, we'll evaluate Red30 Tech's governance structure, data sampling, code review, testing, debugging, and continuous monitoring process.
+> **[2:47](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=167)** In the next videos, we'll evaluate Red30 Tech's governance structure, data sampling, [[Code Review]], testing, debugging, and [[Continuous Monitoring]] process.
 >
 > **[2:58](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980&t=178)** Pause the video and take a moment to reflect.
 >
@@ -955,12 +944,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (3), [[Privacy]] (2), teams (1), next (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Data Ingestion]] (1), [[Code Review]] (1), [[Continuous Monitoring]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - we (1)
 
-#### RedTech 30: Governance structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-governance-structure?u=76281980)
+#### [RedTech 30: Governance structure](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-governance-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-governance-structure?u=76281980&t=24)** Five, scheduling regular reviews and revisions.
 >
-> **[0:28](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-governance-structure?u=76281980&t=28)** Six, implementing a continuous monitoring system.
+> **[0:28](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-governance-structure?u=76281980&t=28)** Six, implementing a [[Continuous Monitoring]] system.
 >
 > **[0:32](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-governance-structure?u=76281980&t=32)** Seven, prioritizing transparency and reporting.
 >
@@ -1090,13 +1078,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (10), [[Continuous Monitoring]] (5), next (3), prompt (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (5)
 > **Cross-References:** in the next (2), next video (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - in (1)
 
-#### RedTech 30: Data sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-sampling?u=76281980)
+#### [RedTech 30: Data sampling](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,20 +1111,19 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-sampling?u=76281980&t=105)** It's imperative that Red 30 Tech conduct assessments to ensure protected characteristics such as age, race and gender are not inadvertently leading to approval or denial of loans.
 >
-> **[2:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-sampling?u=76281980&t=120)** Next, I'll go over strategies for data and code review, including how you can test for biases in the data and model.
+> **[2:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-sampling?u=76281980&t=120)** Next, I'll go over strategies for data and [[Code Review]], including how you can test for biases in the data and model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (2), next (1), [[Code Review]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - development (1)
 
-#### RedTech 30: Data and code review
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980)
+#### [RedTech 30: Data and code review](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=0)** - In order to better ensure Red30 Tech's home loan AI system is working appropriately, your team should conduct a data review and code review.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=0)** - In order to better ensure Red30 Tech's home loan AI system is working appropriately, your team should conduct a data review and [[Code Review]].
 >
 > **[0:10](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=10)** In this video, I'll cover the elements of a data review and code review and then you'll evaluate Red30 Tech's home loan AI tool.
 >
@@ -1147,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=29)** It's imperative to understand and document the origin of the data, how it was collected, and any transformations or cleaning the data has gone through.
 >
-> **[0:39](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=39)** Second, data quality.
+> **[0:39](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=39)** Second, [[Data Quality]].
 >
 > **[0:42](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=42)** When assessing data quality, it's important to check the data for the three Cs: completeness, consistency, and correctness.
 >
@@ -1179,13 +1165,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=95)** Because the data was collected only on residents of a large city, it wasn't relevant to the nationwide application of home loan AI.
 >
-> **[1:44](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=104)** Fifth, data security.
+> **[1:44](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=104)** Fifth, [[Data Security]].
 >
 > **[1:46](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=106)** It is important to ensure your data is secure.
 >
 > **[1:49](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=109)** Data must be stored and processed in a way that prevents unauthorized access or data breaches.
 >
-> **[1:54](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=114)** Sixth, data privacy.
+> **[1:54](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=114)** Sixth, [[Data Privacy]].
 >
 > **[1:56](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-data-and-code-review?u=76281980&t=116)** Most high-risk AI systems use sensitive data, so it's important that data protection laws and regulations are followed.
 >
@@ -1245,19 +1231,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (45), ai (10), [[Code Review]] (4), application (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Data Quality]] (2), [[Data Security]] (1), [[Data Privacy]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** in the last (1), next video (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - in (1)
 
-#### RedTech 30: Testing and debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980)
+#### [RedTech 30: Testing and debugging](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980&t=0)** - You've just learned about data and code review and have been tasked with testing and debugging Red 30 Tech's Home Loan AI.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980&t=0)** - You've just learned about data and [[Code Review]] and have been tasked with testing and debugging Red 30 Tech's Home Loan AI.
 >
 > **[0:08](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980&t=8)** In this lesson, you'll learn about two types of model testing, and we'll explore several debugging procedures you can implement.
 >
@@ -1301,21 +1286,20 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980&t=145)** You can apply methodologies like feature importance analysis that helps you identify whether a model is overly dependent on certain features or inappropriately excluding certain features.
 >
-> **[2:37](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980&t=157)** In the next video, I'll explain a continuous monitoring plan for Red 30 Tech's Home Loan AI, but before that, write down how you would implement model testing and debugging into the development and deployment process within your organization.
+> **[2:37](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-testing-and-debugging?u=76281980&t=157)** In the next video, I'll explain a [[Continuous Monitoring]] plan for Red 30 Tech's Home Loan AI, but before that, write down how you would implement model testing and debugging into the development and deployment process within your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (3), [[Debugging]] (3), [[Code Review]] (1), feature (1)
+> **Frameworks & Libraries:** [[Code Review]] (1), [[Continuous Monitoring]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### RedTech 30: Continuous monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-continuous-monitoring?u=76281980)
+#### [RedTech 30: Continuous monitoring](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-continuous-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-continuous-monitoring?u=76281980&t=0)** - Earlier in this course, you learned that a strong continuous monitoring process should include the following six strategies: set monitoring objectives, determine metrics, establish monitoring infrastructure, conduct regular audits, implement a feedback loop, and be transparent.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-continuous-monitoring?u=76281980&t=0)** - Earlier in this course, you learned that a strong [[Continuous Monitoring]] process should include the following six strategies: set monitoring objectives, determine metrics, establish monitoring infrastructure, conduct regular audits, implement a feedback loop, and be transparent.
 >
 > **[0:19](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/redtech-30-continuous-monitoring?u=76281980&t=19)** Let's explore how this continuous monitoring process can be implemented by Red 30 Tech in its oversight of home loan AI.
 >
@@ -1353,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Continuous Monitoring]] (3), ai (3)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (3)
 > **Cross-References:** earlier in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - earlier (1)
@@ -1363,12 +1347,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible AI resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980)
+#### [Responsible AI resources](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=0)** - In this course, you learned responsible AI principles and how they form the foundation of effective algorithmic auditing and continuous monitoring.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=0)** - In this course, you learned [[Responsible AI]] principles and how they form the foundation of effective algorithmic auditing and [[Continuous Monitoring]].
 >
 > **[0:08](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=8)** Before you go, I have some recommendations so you can apply what you've learned.
 >
@@ -1376,11 +1359,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=26)** Remember that it's not just important for the data scientists and engineers to be involved, but also C-suite executives, product managers, policy and legal teams.
 >
-> **[0:36](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=36)** The National Institute of Standards and Technology, NIST, has developed the NIST AI Risk Management Framework.
+> **[0:36](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=36)** The National Institute of Standards and Technology, [[NIST]], has developed the NIST AI [[Risk Management Framework (RMF)|Risk Management Framework]].
 >
 > **[0:43](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=43)** It's a helpful guide for AI risk identification and mitigation.
 >
-> **[0:47](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=47)** You can find courses on NIST on LinkedIn, and many companies, including Microsoft, Amazon and Google offer continuous monitoring guidance and packages.
+> **[0:47](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=47)** You can find courses on NIST on [[LinkedIn]], and many companies, including [[Microsoft]], Amazon and [[Google]] offer continuous monitoring guidance and packages.
 >
 > **[0:56](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980&t=56)** By learning skills in effective algorithmic auditing and continuous monitoring, you're positioning yourself to be a key asset to any organization developing or using AI-enabled tools.
 >
@@ -1388,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Monitoring]] (4), ai (4), [[NIST]] (3), [[LinkedIn]] (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (4), [[NIST]] (3), [[LinkedIn]] (2), [[Responsible AI]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Env Vars:** nist (3)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)

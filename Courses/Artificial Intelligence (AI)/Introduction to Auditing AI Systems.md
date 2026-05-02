@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the new world of AI audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980)
+#### [Welcome to the new world of AI audits](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,13 +104,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980&t=15)** In this course, I'll cover what an AI audit is, the role of benchmark data, and steps you can take to mitigate algorithmic harm.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980&t=24)** You can take what you learn in this course and have meaningful conversations about how AI audits can help operationalize responsible AI in your organization.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980&t=24)** You can take what you learn in this course and have meaningful conversations about how AI audits can help operationalize [[Responsible AI]] in your organization.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980&t=34)** So I'm calling all of you data professionals out there to join me on this learning journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1)
 > **Speakers:** - are (1)
 
 
@@ -119,20 +118,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an AI audit?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980)
+#### [What is an AI audit?](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=0)** - [Narrator] Over the past two decades you may have heard about several incidents of harmful AI due to little governance and oversight.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=7)** For example, facial recognition technology has been used to falsely arrest citizens, a result of skewed historical data, poorly designed algorithms, and a lack of mitigation strategies to avoid these consequences.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=7)** For example, facial recognition technology has been used to falsely arrest citizens, a result of skewed historical data, poorly designed [[Algorithms]], and a lack of mitigation strategies to avoid these consequences.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=21)** These incidents have led to a reduced public trust in AI and its potential benefits.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=27)** However, the situation is changing as new regulations are being implemented globally to address issues with how human data is collected and the decisions of AI systems.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=38)** Since the adoption of the GDPR, there's been a growing emphasis on responsible AI development.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=38)** Since the adoption of the GDPR, there's been a growing emphasis on [[Responsible AI]] development.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=44)** Companies must now collect data and build machine learning in ways that are compliant and, ideally, ethical.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=92)** It's critical that AI auditors and AI developers both outline the goals of an AI audit and what they hope the audit achieves.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=100)** AI audits borrow from practices in financial auditing, which provide governance, accountability, and oversight.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=100)** AI audits borrow from practices in financial auditing, which provide governance, [[Accountability]], and oversight.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=107)** Audits look at the data, model, or reevaluate a previously audited system.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=146)** There are various challenges with each that we'll discuss later in this course.
 >
-> **[2:31](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=151)** To conduct an AI audit, practitioners rely on industry standards, such as the NIST AI Risk Management Framework, or other regulatory guidance.
+> **[2:31](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=151)** To conduct an AI audit, practitioners rely on industry standards, such as the [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]], or other regulatory guidance.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=160)** There's a growing movement in algorithmic auditing that's more community-based, similar to the well-established practice of bug bounties, where external hackers are rewarded for finding vulnerabilities and bugs in software.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=232)** Lastly, AI systems can exhibit stereotyping harms.
 >
-> **[3:56](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=236)** This happens when supervised learning systems use historical data to stereotype people based on past examples and assume similar patterns when faced with data subjects who have similar attributes, such as race and gender.
+> **[3:56](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=236)** This happens when [[Supervised Learning]] systems use historical data to stereotype people based on past examples and assume similar patterns when faced with data subjects who have similar attributes, such as race and gender.
 >
 > **[4:09](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980&t=249)** Most external audits happen after a model is already built, so they can cause harm even before they're assessed.
 >
@@ -188,23 +186,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (29), data (7), [[Algorithms]] (1), [[Responsible AI]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Responsible AI]] (1), [[Accountability]] (1), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Analogies:** such as (3), for example (2), similar to (1)
 > **Env Vars:** gdpr (1), nist (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### How are audits used?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980)
+#### [How are audits used?](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=0)** - [Instructor] The results of an AI audit are used for various purposes including improving the performance of AI systems, ensuring compliance with regulations, and building trust with internal and external stakeholders.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=0)** - [Instructor] The results of an AI audit are used for various purposes including improving the performance of AI systems, ensuring compliance with regulations, and [[Building Trust]] with internal and external stakeholders.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=12)** While the recent push for AI audits aims to help companies stay compliant with regulations, audits can also be performed to better understand how bias impacts an AI system.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=24)** As responsible AI matures, we'll attempt to more concretely define harm mitigation techniques.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=24)** As [[Responsible AI]] matures, we'll attempt to more concretely define harm mitigation techniques.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=30)** AI risk assessments or impact assessments while important, often differ from AI audits.
 >
@@ -222,11 +219,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=87)** Often the results of AI audits are either passing or failing to meet compliance with a regulation.
 >
-> **[1:33](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=93)** Auditing companies also include recommendations for changes to make, including the collection or use of new training data, retraining AI models, or changing the algorithms used by the system.
+> **[1:33](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=93)** Auditing companies also include recommendations for changes to make, including the collection or use of new training data, retraining AI models, or changing the [[Algorithms]] used by the system.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=107)** Another outcome of an AI audit is to ensure companies comply with regulation, especially in industries such as healthcare, HR, finance, and criminal justice.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=117)** In these industries, AI systems are subject to additional privacy and anti-discrimination laws.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=117)** In these industries, AI systems are subject to additional [[Privacy]] and anti-discrimination laws.
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=124)** AI audits can also be used to build trust with stakeholders including customers, investors, and regulators.
 >
@@ -248,9 +245,9 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=188)** The first is to be a well-documented account of the specifics of an AI system.
 >
-> **[3:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=193)** Audits often reveal to technical teams where they can make improvements in data quality or modeling choices to make their systems work better for their data subjects.
+> **[3:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=193)** Audits often reveal to technical teams where they can make improvements in [[Data Quality]] or modeling choices to make their systems work better for their data subjects.
 >
-> **[3:23](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=203)** As we learn more about auditing AI systems throughout this course, keep in mind the AI audits are merely a process to check for legal compliance.
+> **[3:23](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=203)** As we learn more about auditing AI systems throughout this course, keep in mind the AI audits are merely a process to check for [[Legal Compliance]].
 >
 > **[3:31](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/how-are-audits-used?u=76281980&t=211)** Audits don't automatically make bias tools fair or ensure that ethical decisions are being made.
 >
@@ -264,27 +261,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), data (5), [[Responsible AI]] (3), teams (3), [[Building Trust]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Building Trust]] (2), [[Algorithms]] (1), [[Privacy]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The state of AI legislation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980)
+#### [The state of AI legislation](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=0)** - [Instructor] AI legislation is becoming increasingly common across the world.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=4)** Federal and local governments have introduced measures to regulate how AI is used to ensure that they comply with privacy and transparency expectations.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=4)** Federal and local governments have introduced measures to regulate how AI is used to ensure that they comply with [[Privacy]] and transparency expectations.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=13)** In 2018, the European Union's General Data Protection Regulation, or GDPR, which addressed the use of personal data and AI decisions, went into effect.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=25)** It gives individuals the right to know how their data's being used and the right to have their data erased, among others.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=32)** It also requires companies to ensure that their AI systems do not discriminate against certain groups of people and that they're transparent in their decision-making processes.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=32)** It also requires companies to ensure that their AI systems do not discriminate against certain groups of people and that they're transparent in their [[Decision-Making]] processes.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=43)** Right before recording this course, the EU passed AI regulation to further guide the use of algorithmic tools.
 >
@@ -296,11 +292,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=70)** China has taken a different approach to regulating AI.
 >
-> **[1:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=73)** In 2019, China introduced its new generation artificial intelligence development plan, which aims to create a comprehensive AI industry and to develop a globally-leading AI innovation center.
+> **[1:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=73)** In 2019, China introduced its new generation [[Artificial Intelligence (AI)|artificial intelligence]] development plan, which aims to create a comprehensive AI industry and to develop a globally-leading AI innovation center.
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=86)** However, as AI technology advances rapidly, so too does China's regulatory framework.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=92)** In 2022, China introduced new regulations on AI, which require companies to disclose the algorithms they use to ensure that their systems are transparent and accountable.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=92)** In 2022, China introduced new regulations on AI, which require companies to disclose the [[Algorithms]] they use to ensure that their systems are transparent and accountable.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=103)** African countries are also beginning to regulate AI.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=114)** The act requires companies to obtain consent from individuals before using their personal data.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=121)** Singapore introduced the Personal Data Protection Act in 2012, which regulates the use of personal data used to train AI, then in 2021, Singapore introduced the Model AI Governance Framework, which provides guidance for companies on how to develop and deploy AI systems that impact Singaporeans safely.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=121)** Singapore introduced the [[Personal Data Protection]] Act in 2012, which regulates the use of personal data used to train AI, then in 2021, Singapore introduced the Model [[AI Governance]] Framework, which provides guidance for companies on how to develop and deploy AI systems that impact Singaporeans safely.
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=141)** In 2019, the California Consumer Privacy Act, which requires companies to disclose what data they're collecting and gives consumers the right to opt out of having their data sold was passed.
 >
@@ -320,30 +316,29 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=177)** The challenge for governments and companies alike will be to strike a balance between promoting innovation and ensuring the AI systems are developed and deployed responsibly.
 >
-> **[3:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=186)** Let's talk more about legal compliance in the next video.
+> **[3:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/the-state-of-ai-legislation?u=76281980&t=186)** Let's talk more about [[Legal Compliance]] in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (11), [[Privacy]] (2), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Decision-Making]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Personal Data Protection]] (1)
 > **Env Vars:** gdpr (2), ccpa (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ethics of scoring and classifying humans
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980)
+#### [Ethics of scoring and classifying humans](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=0)** - [Instructor] The ethics of scoring and classifying humans has been a contentious issue in machine learning for some time.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=0)** - [Instructor] The [[Ethics]] of scoring and classifying humans has been a contentious issue in machine learning for some time.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=7)** Machine learning is often described as applied statistics, which unfortunately has roots in some biased practices.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=7)** Machine learning is often described as applied [[Statistics]], which unfortunately has roots in some biased practices.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=14)** The fathers of statistics, Francis Galton, Carl Pearson, and Ronald Fisher, were proud eugenicists who developed popular statistic methods to discriminate and improve the human gene pool through selective breeding and sterilization.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=31)** As a product of statistics, AI often perpetuates unwanted patterns of data and raises concerns about the unfair treatment of marginalized groups.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=40)** While modern approaches to scoring and classifying humans don't explicitly advocate for eugenic practices, they can perpetuate similar forms of bias, including digital phenology.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=40)** While modern approaches to scoring and classifying humans don't explicitly advocate for eugenic practices, they can perpetuate similar [[Forms]] of bias, including digital phenology.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=51)** An algorithm trained on data that reflects existing social inequalities will likely associate demographic characteristics with negative outcomes.
 >
@@ -353,9 +348,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=76)** The algorithm was audited by ProPublica, and they found that Black defendants were far more likely than white defendants to be incorrectly classified at higher risk of recidivism, while white defendants were more likely than Black defendants to be incorrectly flagged as low risk.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=94)** To address these ethical concerns, researchers and practitioners in the field of machine learning proposed various approaches to promote fairness, transparency, and accountability.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=94)** To address these ethical concerns, researchers and practitioners in the field of machine learning proposed various approaches to promote fairness, transparency, and [[Accountability]].
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=104)** These include the use of fairness metrics to evaluate the performance of algorithms across different demographic groups.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=104)** These include the use of fairness metrics to evaluate the performance of [[Algorithms]] across different demographic groups.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ethics-of-scoring-and-classifying-humans?u=76281980&t=110)** Additionally, there are ongoing discussions about which definitions of fairness to use and if data subjects should be considered individually or in groups.
 >
@@ -393,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Statistics]] (5), data (4), [[Ethics]] (2), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Ethics]] (2), [[Accountability]] (2), [[Algorithms]] (2), [[Forms]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -405,12 +400,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI audit limitations and opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980)
+#### [AI audit limitations and opportunities](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=0)** - [Narrator] While AI audits provide a way to improve the outcomes of AI systems, there are various limitations that make it clear AI audits are not a silver bullet for responsible AI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=0)** - [Narrator] While AI audits provide a way to improve the outcomes of AI systems, there are various limitations that make it clear AI audits are not a silver bullet for [[Responsible AI]].
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=12)** There are parts of AI that can be biased but get ignored by a typical audit.
 >
@@ -420,9 +414,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=30)** So, AI systems that are trained on historical criminal records can have parity between groups, but raise serious ethical questions.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=40)** In another example, generative AI tools have caused various worker strikes including the Writer's Guild of America and SAG-AFTRA, some of Hollywood's largest unions.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=40)** In another example, [[Generative AI Tools]] have caused various worker strikes including the Writer's Guild of America and SAG-AFTRA, some of Hollywood's largest unions.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=50)** The adoption of generative AI raises many questions about worker rights, universal basic income, and copyright, but an AI audit can often neglect societal contexts.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=50)** The adoption of [[Generative AI]] raises many questions about worker rights, universal basic income, and copyright, but an AI audit can often neglect societal contexts.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=61)** Another limitation is the lack of oversight for auditors.
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=85)** Additionally, demographic data is a critical component for comparing outcomes across protected classes.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=92)** Unfortunately, prior data privacy laws require companies to avoid collecting or eventually destroy demographic information, so auditors are in the vulnerable position to collect this data.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=92)** Unfortunately, prior [[Data Privacy]] laws require companies to avoid collecting or eventually destroy demographic information, so auditors are in the vulnerable position to collect this data.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980&t=104)** This is a great example why regulation on AI and data privacy should be developed side by side.
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (6), [[Responsible AI]] (2), [[Privacy]] (2), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Data Privacy]] (2), [[Generative AI Tools]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
 > **Env Vars:** sag (1), aftra (1)
@@ -472,14 +466,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Development workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980)
+#### [Development workflows](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=0)** - [Instructor] The way we develop AI is heavily influenced by how leaders in Silicon Valley develop software.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=7)** There's a race to get products to market investor-driven FOMO, or the fear of missing out, and a push for extremely high returns on investments.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=7)** There's a race to get [[Microsoft Products|products]] to market investor-driven FOMO, or the fear of missing out, and a push for extremely high returns on investments.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=16)** Ultimately, AI inherited poor engineering practices from traditional software.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=34)** Many assume building AI takes the same form and time is traditional software but dealing with training data and model hyperparameters add complexity.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=45)** The current AI development lifecycle promotes poor data privacy practices and hinders auditability.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=45)** The current AI development lifecycle promotes poor [[Data Privacy]] practices and hinders auditability.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=52)** Changing development workflows requires teams to adjust incentive structures away from just profits.
 >
@@ -505,9 +498,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=99)** In the case of users dealing with sensitive mental health issues, AI companions can reinforce negative thinking patterns and encourage users to commit crimes or self-harm.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=110)** Because AI harms can be life-threatening, technical teams must adjust how we develop AI, including the design patterns and deployment ecosystems.
+> **[1:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=110)** Because AI harms can be life-threatening, technical teams must adjust how we develop AI, including the [[Design Patterns]] and deployment ecosystems.
 >
-> **[2:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=120)** AI development follows a sequential workflow, where teams go through a series of stages such as data collection, model building, testing, and deployment.
+> **[2:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=120)** AI development follows a sequential workflow, where teams go through a series of stages such as [[Data Collection]], model building, testing, and deployment.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=131)** A more responsible approach would include multi-stakeholder feedback, like from sociologists, behavioral scientists and domain experts, but also plan for continuous evaluation and user preferability testing.
 >
@@ -517,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=164)** Remember, bias can enter and reenter AI systems at any stage of development.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=170)** So at a minimum, better documentation can help mature any responsible AI practice.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=170)** So at a minimum, better documentation can help mature any [[Responsible AI]] practice.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=176)** Engineering teams should create data sheets for each training data set used to understand the origins, influences, and potential issues with the training data.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=196)** Teams should work closely with users and data subjects as they develop AI.
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=201)** User preferability tests require teams to gather users for a design session where proposed algorithms can be demoed for feedback.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=201)** User preferability tests require teams to gather users for a design session where proposed [[Algorithms]] can be demoed for feedback.
 >
 > **[3:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/development-workflows?u=76281980&t=209)** This feedback can be used to communicate how an AI is implemented in their products.
 >
@@ -537,13 +530,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), teams (10), data (8), [[Microsoft Products|Products]] (3), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Data Privacy]] (1), [[Design Patterns]] (1), [[Data Collection]] (1), [[Responsible AI]] (1)
 > **Env Vars:** fomo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980)
+#### [AI performance](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,9 +543,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980&t=5)** What factors can impact model performance and common metrics used to measure performance.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980&t=12)** There are four main types of machine learning, supervised unsupervised, semi-supervised, and reinforcement learning.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980&t=12)** There are four main types of machine learning, supervised unsupervised, semi-supervised, and [[Reinforcement Learning]].
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980&t=21)** In supervised learning a computer is trained on a labeled dataset meaning that the desired outcomes are already known.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980&t=21)** In [[Supervised Learning]] a computer is trained on a labeled dataset meaning that the desired outcomes are already known.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-performance?u=76281980&t=29)** A supervised model then makes predictions about what class a new example is in.
 >
@@ -617,12 +609,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Reinforcement Learning]] (3), [[Supervised Learning]] (3), ai (2), game (2)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (3), [[Supervised Learning]] (3)
 > **Analogies:** imagine (2)
 > **Speakers:** - [instructor] (1)
 
-#### Statistical parity
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/statistical-parity?u=76281980)
+#### [Statistical parity](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/statistical-parity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,11 +657,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/statistical-parity?u=76281980&t=131)** While there are many industry accepted fairness metrics, it's essential to consider the context in which an AI system is being used and ensure that the metrics selected are appropriate for that context.
 >
-> **[2:23](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/statistical-parity?u=76281980&t=143)** Our algorithms should avoid perpetuating historical injustices and calculating the fairness of predictions and disparity in outcomes can help us mitigate these issues.
+> **[2:23](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/statistical-parity?u=76281980&t=143)** Our [[Algorithms]] should avoid perpetuating historical injustices and calculating the fairness of predictions and disparity in outcomes can help us mitigate these issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** find (1)
@@ -681,8 +672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data for auditing AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980)
+#### [Data for auditing AI](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +706,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980&t=96)** Without access to existing data, we'd struggle to find public data with a demographic information like what we're looking for.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980&t=103)** So we'd embark on a data collection journey.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980&t=103)** So we'd embark on a [[Data Collection]] journey.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980&t=106)** Auditors can often rely on demographic data from data brokers, as they're more likely to have this PII, or personally identifiable information.
 >
@@ -746,14 +736,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), ai (4), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sources of bias in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980)
+#### [Sources of bias in data](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,21 +762,21 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=57)** If we build a machine learning model based on the engineering student data, it's not clear the types of decisions a model will make based on this imbalance.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=67)** Unfortunately, many algorithms can interpret this data to mean that men are better suited to being software engineers, and are thus preferred over women.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=67)** Unfortunately, many [[Algorithms]] can interpret this data to mean that men are better suited to being software engineers, and are thus preferred over women.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=77)** So who should decide what we do?
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=79)** We have to prioritize the people dealing with the worst negative impacts of these tools first.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=85)** In some other cases, generative AI tools leverage thousands of examples of text and images that are under existing copyright.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=85)** In some other cases, [[Generative AI Tools]] leverage thousands of examples of text and images that are under existing copyright.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=94)** This has caused the FTC to investigate some generative AI makers.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=94)** This has caused the FTC to investigate some [[Generative AI]] makers.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=99)** This means some data used to train AI hasn't been leveraged with user consent in mind, and companies profit from the sale of these models without compensating the data creators.
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=111)** Other technical factors that can create biased outcomes include large proportions of missing data, flawed data annotation, conditional demographic disparity, and inconsistencies in preprocessing, such as normalization and outlier removal.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=111)** Other technical factors that can create biased outcomes include large proportions of missing data, flawed [[Data Annotation]], conditional demographic disparity, and inconsistencies in preprocessing, such as normalization and outlier removal.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=128)** There are also major questions about hardware calibration when it comes to data collected by sensors.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=128)** There are also major questions about [[Hardware]] calibration when it comes to data collected by sensors.
 >
 > **[2:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/sources-of-bias-in-data?u=76281980&t=134)** These systems can often fail for marginalized groups, and when they do so broadly, they represent one type of systemic bias, measurement bias.
 >
@@ -803,14 +792,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (5), [[Engineering]] (2), teams (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Generative AI Tools]] (1), [[Generative AI]] (1), [[Data Annotation]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** ftc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of bias and data sampling methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-bias-and-data-sampling-methods?u=76281980)
+#### [Types of bias and data sampling methods](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-bias-and-data-sampling-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +832,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-bias-and-data-sampling-methods?u=76281980&t=108)** Now that we have a better understanding about how data is selected, let's go over the potential biases poor sampling methods can cause.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-bias-and-data-sampling-methods?u=76281980&t=117)** Machine learning algorithms can exhibit different types of bias, which can affect how fairly they make decisions.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-bias-and-data-sampling-methods?u=76281980&t=117)** Machine learning [[Algorithms]] can exhibit different types of bias, which can affect how fairly they make decisions.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-bias-and-data-sampling-methods?u=76281980&t=123)** Some of the most common types of bias that can impact machine learning are sampling, selection, confirmation, and labeling bias.
 >
@@ -882,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), teams (2), ai (1), [[Algorithms]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Warnings:** caveat (1)
@@ -893,8 +881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why explainability matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980)
+#### [Why explainability matters](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +889,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=7)** As AI models become even slightly more complex, the ability to explain them grows exponentially more difficult.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=14)** AI systems can use deep learning, or neural networks with multiple hidden layers, which can be effective, but make understanding decisions harder.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=14)** AI systems can use [[Deep Learning]], or [[Neural Networks]] with multiple hidden layers, which can be effective, but make understanding decisions harder.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=24)** When users understand how AI models make decisions, and feel comfortable with them, they're more likely to be satisfied with services and feel empowered to speak up about issues they encounter.
 >
@@ -916,7 +903,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=73)** Explainable AI has various benefits for companies, including the ability to speed up time to results, increased ability to mitigate risk, and lower model governance costs.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=85)** NIST identifies four main components of explainable AI.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=85)** [[NIST]] identifies four main components of explainable AI.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=89)** The first is explanation, or simply that AI systems provide a reason for making decisions.
 >
@@ -954,31 +941,30 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=212)** And explainability helps them decide whether or not they'd like to opt out.
 >
-> **[3:37](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=217)** Now, let's discover another responsible AI principle, transparency.
+> **[3:37](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980&t=217)** Now, let's discover another [[Responsible AI]] principle, transparency.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), teams (2), [[Deep Learning]] (1), [[Neural Networks]] (1), business (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Neural Networks]] (1), [[NIST]] (1), [[Responsible AI]] (1)
 > **Env Vars:** shap (2), lime (2), gdpr (1), nist (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Levels of transparency
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980)
+#### [Levels of transparency](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=0)** - [Presenter] Transparency in AI is critical to building trust and maintaining compliance with existing and proposed regulations.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=0)** - [Presenter] Transparency in AI is critical to [[Building Trust]] and maintaining compliance with existing and proposed regulations.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=8)** Companies that use AI tools have an obligation to communicate with their users and the public at large about AI in their products.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=8)** Companies that use AI tools have an obligation to communicate with their users and the public at large about AI in their [[Microsoft Products|products]].
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=16)** Organizations should inform consumers where they use AI, how complex their AI is, and what types of things are being predicted about them.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=25)** Additionally, companies should disclose how users can opt out or receive recourse for harms they may encounter.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=32)** In addition to federal laws, state level regulations have been proposed that would require companies to include AI specific transparency in their privacy policies.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=32)** In addition to federal laws, state level regulations have been proposed that would require companies to include AI specific transparency in their [[Privacy]] policies.
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=42)** Of course, the challenge here is balancing how much companies should disclose so their customers are informed, but not so much that they lose valuable intellectual property.
 >
@@ -994,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=80)** Next is functional transparency.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=83)** At this level, we'd expect broad statements about how models work, what features they enable, and how it impacts the user experience.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=83)** At this level, we'd expect broad statements about how models work, what features they enable, and how it impacts the [[User Experience (UX)|user experience]].
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=91)** This helps users understand the functionality of the models they're subject to.
 >
@@ -1004,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=107)** At this level, information about the specific AI models used, like their type and some key features, are shared.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=114)** Organizations should share how they collected training data and the models used, such as decision trees or neural networks.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=114)** Organizations should share how they collected training data and the models used, such as [[Decision Trees]] or [[Neural Networks]].
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=122)** We'd also expect details about the types of decisions models make and if they're verified by humans or not.
 >
@@ -1012,7 +998,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=132)** At this level, companies provide near complete transparency about the AI models and how it's used in their products.
 >
-> **[2:20](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=140)** This includes information on training data, algorithms, and specifics on how they're updated over time.
+> **[2:20](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=140)** This includes information on training data, [[Algorithms]], and specifics on how they're updated over time.
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=148)** This level of transparency also communicates if there were any limitations they identified.
 >
@@ -1026,7 +1012,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=192)** A user who interacts with an AI-driven product as a consumer may only require basic or functional transparency, while a customer who has access to an AI model's underlying data and potentially algorithms may require full transparency.
 >
-> **[3:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=209)** Transparency in AI is critical to building trust and accountability.
+> **[3:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=209)** Transparency in AI is critical to building trust and [[Accountability]].
 >
 > **[3:33](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/levels-of-transparency?u=76281980&t=213)** The level of transparency a company provides depends on various factors, but companies still have an obligation to communicate with their users when they're using AI in their tools.
 >
@@ -1034,17 +1020,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Microsoft Products|Products]] (5), product (3), data (3), [[Building Trust]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Building Trust]] (2), [[Privacy]] (2), [[Algorithms]] (2), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Responsible AI principles: Compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980)
+#### [Responsible AI principles: Compliance](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=0)** - [Narrator] Now let's talk about responsible AI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=0)** - [Narrator] Now let's talk about [[Responsible AI]].
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=3)** AI audits are meant to address a single aspect of the RAI lifecycle: compliance.
 >
@@ -1070,7 +1055,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=84)** We must always consider power and intention, in addition to compliant AI.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=90)** Many bias problems arise as AI products are built without mitigating issues before deployment.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=90)** Many bias problems arise as AI [[Microsoft Products|products]] are built without mitigating issues before deployment.
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=96)** Creating mitigations to deal with bad actors or unintended uses isn't a common one among technical teams.
 >
@@ -1114,19 +1099,18 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=253)** You might find that many approaches to responsible AI are surprisingly human and require us to work with subject matter experts in linguistics, behavioral science, and interaction design.
 >
-> **[4:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=264)** Now, let's discuss the ethics of scoring and classifying humans.
+> **[4:24](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/responsible-ai-principles-compliance?u=76281980&t=264)** Now, let's discuss the [[Ethics]] of scoring and classifying humans.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Responsible AI]] (4), teams (2), data (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Microsoft Products|Products]] (1), [[Ethics]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** rai (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Preparing for AI regulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980)
+#### [Preparing for AI regulation](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,13 +1130,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=63)** Internal policies, procedures, and guardrails also need to be created to ease a third-party auditing process.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=70)** This framework should be influenced by industry standards such as, NIST AI Risk Management Framework.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=70)** This framework should be influenced by industry standards such as, [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]].
 >
-> **[1:17](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=77)** Documentation is a crucial part of data governance, so it's encouraged that organizations improve documentation standards, and track aspects of the AI development lifecycle, such as potential consequences.
+> **[1:17](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=77)** Documentation is a crucial part of [[Data Governance]], so it's encouraged that organizations improve documentation standards, and track aspects of the AI development lifecycle, such as potential consequences.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=89)** Key decisions and model details.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=92)** Teams can also use tools for tracking data lineage and quality, such as Collibra or work with data governance consultants to develop governance policies.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=92)** Teams can also use tools for tracking [[Data Lineage]] and quality, such as Collibra or work with data governance consultants to develop governance policies.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=104)** Companies should establish a process for regularly monitoring the performance of AI models.
 >
@@ -1166,13 +1150,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=140)** This is also the right time for organizations to develop robust data governance methodologies.
 >
-> **[2:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=145)** Organizations can do this by reviewing existing practices, and focusing on data quality and data privacy.
+> **[2:25](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=145)** Organizations can do this by reviewing existing practices, and focusing on [[Data Quality]] and [[Data Privacy]].
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=152)** Companies should prepare to disclose their training data, and model files with external auditors.
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=157)** One of the best ways to get on top of AI audits is to collect self-reported demographic data from users directly.
 >
-> **[2:45](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=165)** A great method of doing so would be via surveys teams can incentivize with free products or compensation.
+> **[2:45](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=165)** A great method of doing so would be via surveys teams can incentivize with free [[Microsoft Products|products]] or compensation.
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/preparing-for-ai-regulation?u=76281980&t=172)** For auditors, be prepared to work with ambiguity.
 >
@@ -1188,7 +1172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (10), teams (2), next (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Data Lineage]] (1), [[Data Quality]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
 > **Env Vars:** ftc (1), nist (1)
@@ -1199,8 +1183,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of model audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980)
+#### [Types of model audits](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1203,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980&t=45)** Data audits analyze how data is collected, manipulated, and stored, in addition to its underlying features, such as protected classes and their proxies.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980&t=55)** Often, these audits benefit from the use of data governance tools.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980&t=55)** Often, these audits benefit from the use of [[Data Governance]] tools.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980&t=59)** Data audits can help identify bias in training data and how the assumptions made about that data can skew model predictions.
 >
@@ -1244,13 +1227,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), teams (2)
+> **Frameworks & Libraries:** [[Data Governance]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Stages of a model audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980)
+#### [Stages of a model audit](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,7 +1246,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=28)** The second stage is mapping.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=30)** In this stage, auditors would map the data flow and system architecture.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=30)** In this stage, auditors would map the data flow and [[System Architecture]].
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=34)** This stage requires the audit team to identify data sources, collection methods used and models used.
 >
@@ -1292,7 +1274,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=112)** The next stage of an AI audit involves providing recommendations to stakeholders based on the findings of the audit.
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=119)** The recommendations may include changes to system design, deployment processes, or changes to the training data or algorithms themselves.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=119)** The recommendations may include changes to system design, deployment processes, or changes to the training data or [[Algorithms]] themselves.
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/stages-of-a-model-audit?u=76281980&t=127)** Sometimes auditing teams will find that they have specific suggestions for addressing any biases identified within a system.
 >
@@ -1312,14 +1294,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (7), next (2), teams (2), [[System Architecture]] (1)
+> **Frameworks & Libraries:** [[System Architecture]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** make sure to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model audit: Home loans
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/model-audit-home-loans?u=76281980)
+#### [Model audit: Home loans](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/model-audit-home-loans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1350,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.57 (1)
 > **Definitions:** is a  (1)
@@ -1377,14 +1357,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Auditing training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980)
+#### [Auditing training data](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=0)** - [Instructor] One of the primary sources of bias in AI systems is skewed or incomplete data.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=6)** To mitigate this, it's important to identify sources of bias and design algorithms to be robust to the issues they cause.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=6)** To mitigate this, it's important to identify sources of bias and design [[Algorithms]] to be robust to the issues they cause.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=14)** When a data audit is conducted we're not looking to find disparities between outcomes.
 >
@@ -1402,7 +1381,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=56)** If there's redundancies or if there's confidential information we should be aware of.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=62)** Data sheets can help us expose issues in pre-processing, data cleaning, and labeling.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=62)** Data sheets can help us expose issues in pre-processing, [[Data Cleaning]], and labeling.
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=67)** By documenting what methods are used it can be easier to find bugs caused by these issues.
 >
@@ -1410,7 +1389,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=79)** This means we should identify if a particular data set is already being used to train a mill and link all papers and systems back to their source data.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=88)** Distribution is a major component of data privacy that can go undocumented in many systems.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=88)** Distribution is a major component of [[Data Privacy]] that can go undocumented in many systems.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/auditing-training-data?u=76281980&t=95)** It should be precisely clear who owns and distributes a dataset, distribution methods, and clear communication on what tasks a dataset should and shouldn't be used for.
 >
@@ -1440,18 +1419,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), power (2), ai (1), [[Algorithms]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Cleaning]] (1), [[Data Privacy]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit outcomes: Explainability statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980)
+#### [Audit outcomes: Explainability statements](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=0)** - [Instructor] Earlier, I mentioned that one of the products of an AI audit is an explainability statement.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=0)** - [Instructor] Earlier, I mentioned that one of the [[Microsoft Products|products]] of an AI audit is an explainability statement.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=5)** In this video, we'll walk through a real explainability statement I had the opportunity to help create.
 >
@@ -1471,7 +1449,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=64)** It's explained that candidate portals leverage recommendation techniques to match their skills and experiences to roles.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=72)** This explainability statement also covers crucial responsible AI principles such as a commitment to providing a social benefit, avoiding bias creation, empowering users using AI transparently, and continuous improvement.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=72)** This explainability statement also covers crucial [[Responsible AI]] principles such as a commitment to providing a social benefit, avoiding bias creation, empowering users using AI transparently, and continuous improvement.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=89)** Beamery also details the bias mitigation process and key aspects of explainability.
 >
@@ -1483,11 +1461,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=126)** For further reference, a link to their information security practices is also available.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=132)** As you can see, this statement covers many of the topics we've outlined so far in this course about disclosing where algorithms are used and why.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/audit-outcomes-explainability-statements?u=76281980&t=132)** As you can see, this statement covers many of the topics we've outlined so far in this course about disclosing where [[Algorithms]] are used and why.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Products|Products]] (2), next (1), product (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Responsible AI]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** aedt (1), pii (1)
 > **CLI Commands:** make (1)
@@ -1495,8 +1473,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980)
+#### [Continuous audits](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,7 +1485,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=22)** Often, continuous audits can be an extension of prior audits to better cover the scope of models in an AI system.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=29)** This is pretty common as new AI enabled features are added to products and need to undergo auditing.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=29)** This is pretty common as new AI enabled features are added to [[Microsoft Products|products]] and need to undergo auditing.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=35)** In some cases, further audits attempt to expand the depth of prior audits.
 >
@@ -1518,7 +1495,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=59)** For products with a slower moving development lifecycle, it's possible to wait up to a year between audits, but that's not typically the right pace for startups.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=69)** We should consider AI audits as part of any responsible AI practice and not just a singular event.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=69)** We should consider AI audits as part of any [[Responsible AI]] practice and not just a singular event.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/continuous-audits?u=76281980&t=76)** New regulations also require audits, especially in high-risk deployments, to undergo continuous auditing to remain compliant.
 >
@@ -1536,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (3), [[Microsoft Products|Products]] (2), teams (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1546,22 +1523,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=0)** - [Instructor] Generative AI introduces new, complex challenges for its responsible design, development, and operation.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] introduces new, complex challenges for its responsible design, development, and operation.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=8)** On a basic level, generative AI tools are designed to generate data that's similar to the training data it was exposed to.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=8)** On a basic level, [[Generative AI Tools]] are designed to generate data that's similar to the training data it was exposed to.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=16)** Rather than predicting certain features, like if a transaction is fraudulent or not, generative tools seek to create new content, such as images, text, and audio.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=27)** Since ChatGPT has gone public, there's been a lot of attention on generative AI tools.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=27)** Since [[ChatGPT]] has gone public, there's been a lot of attention on generative AI tools.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=33)** So let's cover some of the unique risks they face and some of the challenges they pose to auditors.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=39)** Right now, the most popular generative AI tools are large language models, or models with lots of parameters that can exhibit zero-shot learning.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=39)** Right now, the most popular generative AI tools are [[Large Language Models (LLM)|large language models]], or models with lots of parameters that can exhibit zero-shot learning.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=49)** When I say they need lots of parameters, I mean current LLMs typically have between 10 and 100 billion parameters.
 >
@@ -1617,9 +1593,9 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=254)** Unfortunately, these tools don't understand their outputs.
 >
-> **[4:17](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=257)** They focus on predicting the most statistically likely next word.
+> **[4:17](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=257)** They focus on predicting the most statistically likely next [[Microsoft Word|word]].
 >
-> **[4:22](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=262)** So generative AI tools have led to an influx of nonsensical e-books and other products flooding consumer marketplaces.
+> **[4:22](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=262)** So generative AI tools have led to an influx of nonsensical e-books and other [[Microsoft Products|products]] flooding consumer marketplaces.
 >
 > **[4:29](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980&t=269)** While not a direct impact of organizations using generative AI, their adoption will cause companies in various industries to become data literate and adopt to novel consumer behavior.
 >
@@ -1639,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Generative AI]] (11), [[Generative AI Tools]] (7), ai (3), [[Large Language Models (LLM)|Large language models]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (11), [[Generative AI Tools]] (7), [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** llm (2), ptsd (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1647,14 +1623,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=0)** - Now that you've discovered when, why, and how we audit AI systems, don't stop now.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=6)** AI audits are one tool to operationalize responsible AI, and shouldn't be the only harm mitigation technique you leverage.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=6)** AI audits are one tool to operationalize [[Responsible AI]], and shouldn't be the only harm mitigation technique you leverage.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=14)** For a refresher on other methods, check out my Foundations of RAI course.
 >
@@ -1662,11 +1637,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=27)** Again, I'm Ayodele Odubela.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=30)** Feel free to connect with me on LinkedIn, and thank you so much for joining me in this course.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/next-steps?u=76281980&t=30)** Feel free to connect with me on [[LinkedIn]], and thank you so much for joining me in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Responsible AI]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rai (1)
 > **Speakers:** - now (1)
 

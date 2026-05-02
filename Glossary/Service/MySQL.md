@@ -17,7 +17,7 @@ tags:
   - topic/database-management
   - topic/web-development
   - topic/cloud-computing
-course_count: 144
+course_count: 145
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # MySQL
 
-> **Type:** Service | **Courses:** 144 | **Topics:** [[Software Development]], [[Data Science]], [[Database Management]], [[Web Development]], [[Cloud Computing]]
+> **Type:** Service | **Courses:** 145 | **Topics:** [[Software Development]], [[Data Science]], [[Database Management]], [[Web Development]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[PHP- Object-Oriented Programming with Databases]] — 31 mentions
 10. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 30 mentions
 
-> [!note]- See all 144 courses
+> [!note]- See all 145 courses
 > 11. [[Ethical Hacking- SQL Injection]] — 28 mentions
 > 12. [[Choosing A Database Postgresql Mysql Mongo And Cloud]] — 27 mentions
 > 13. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 26 mentions
@@ -81,100 +81,101 @@ created: 2026-05-02
 > 48. [[Building PHP Applications with Generative AI]] — 3 mentions
 > 49. [[Data Management Essential Training]] — 3 mentions
 > 50. [[SQL Server Intelligence- Cracking the Code of Enterprise Data]] — 3 mentions
-> 51. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 3 mentions
-> 52. [[Generative AI for Data Engineering- ChatGPT Power Tips]] — 3 mentions
-> 53. [[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]] — 3 mentions
-> 54. [[Intermediate Sql For Data Scientists]] — 3 mentions
-> 55. [[Advanced Terraform]] — 3 mentions
-> 56. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] — 3 mentions
-> 57. [[Advanced SQL for Query Tuning and Performance Optimization]] — 3 mentions
-> 58. [[SQL Practice- Intermediate Queries]] — 3 mentions
-> 59. [[Learning MapGuide Open Source]] — 3 mentions
-> 60. [[Troubleshoot and Repair Your WordPress Website]] — 3 mentions
-> 61. [[Penetration Testing Essential Training]] — 2 mentions
-> 62. [[Ethical Hacking- The Complete Malware Analysis Process]] — 2 mentions
-> 63. [[Cloud Architecture- Design Decisions]] — 2 mentions
-> 64. [[Building a Cloud Architecture Diagram]] — 2 mentions
-> 65. [[AWS Quick Tips for Developers]] — 2 mentions
-> 66. [[ChatGPT and SQL]] — 2 mentions
-> 67. [[Nail Your SQL Interview]] — 2 mentions
-> 68. [[Introduction to Data Warehouses]] — 2 mentions
-> 69. [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]] — 2 mentions
-> 70. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 2 mentions
-> 71. [[AWS Essential Training for Architects]] — 2 mentions
-> 72. [[SQL for Finance Professionals]] — 2 mentions
-> 73. [[Apache Spark Essential Training- Big Data Engineering]] — 2 mentions
-> 74. [[Database Foundations Intro To Databases]] — 2 mentions
-> 75. [[Vue.js- Creating and Hosting a Full-Stack Site]] — 2 mentions
-> 76. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 2 mentions
-> 77. [[Complete Guide to Tableau for Data Scientists]] — 2 mentions
-> 78. [[Kubernetes- Cloud Native Ecosystem]] — 2 mentions
-> 79. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 2 mentions
-> 80. [[Learning Php]] — 2 mentions
-> 81. [[Learning SnowflakeDB]] — 2 mentions
-> 82. [[Advanced Django Project- Build High-Traffic Websites with Django]] — 2 mentions
-> 83. [[Advanced SQL- Logical Query Processing, Part 2]] — 2 mentions
-> 84. [[WordPress- Speeding Up Your Site]] — 2 mentions
-> 85. [[PHP- User Authentication]] — 2 mentions
-> 86. [[Building GraphQL Applications in Laravel]] — 2 mentions
-> 87. [[Fundamentals of Data Transformation for Data Engineering]] — 2 mentions
-> 88. [[Cloud Storage Concepts- Services, Cost Control, and Security]] — 1 mentions
-> 89. [[Dynamic Application Security Testing]] — 1 mentions
-> 90. [[Static Application Security Testing]] — 1 mentions
-> 91. [[Ethical Hacking- Denial of Service]] — 1 mentions
-> 92. [[AI Productivity Hacks to Reimagine Your Workday and Career]] — 1 mentions
-> 93. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
-> 94. [[Migrating to Azure]] — 1 mentions
-> 95. [[Dependency Mapping for Cloud Migration]] — 1 mentions
-> 96. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
-> 97. [[Hands-On Introduction- Data Engineering]] — 1 mentions
-> 98. [[End-to-End Data Engineering Project]] — 1 mentions
-> 99. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
-> 100. [[FinOps Essentials for Cloud Deployments]] — 1 mentions
-> 101. [[Secure Data Management for AI Implementation]] — 1 mentions
-> 102. [[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]] — 1 mentions
-> 103. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
-> 104. [[Data Engineering Pipeline Management with Apache Airflow]] — 1 mentions
-> 105. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
-> 106. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
-> 107. [[Tableau Essential Training]] — 1 mentions
-> 108. [[Rust for Data Engineering]] — 1 mentions
-> 109. [[Data Ingestion with Python]] — 1 mentions
-> 110. [[AWS- Networking]] — 1 mentions
-> 111. [[Python Data Analysis for Healthcare]] — 1 mentions
-> 112. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 1 mentions
-> 113. [[Database Design Fundamentals]] — 1 mentions
-> 114. [[DevSecOps- Automated Security Testing]] — 1 mentions
-> 115. [[AWS for Developers- CLI Tips]] — 1 mentions
-> 116. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
-> 117. [[Database Foundations- Application Development]] — 1 mentions
-> 118. [[From Excel to SQL]] — 1 mentions
-> 119. [[Nail Your DevOps Interview]] — 1 mentions
-> 120. [[SQL Server- Reporting Services]] — 1 mentions
-> 121. [[Data Wrangling in R]] — 1 mentions
-> 122. [[Advanced Node.js- Scaling Applications]] — 1 mentions
-> 123. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 1 mentions
-> 124. [[Preparing To Get A Job In Data Analytics]] — 1 mentions
-> 125. [[PHP- Object-Oriented Programming]] — 1 mentions
-> 126. [[Redis Essential Training]] — 1 mentions
-> 127. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
-> 128. [[Tableau and R for Analytics Projects]] — 1 mentions
-> 129. [[Tableau 2024.1- Essential Training]] — 1 mentions
-> 130. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
-> 131. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 1 mentions
-> 132. [[Databricks Certified Data Engineer Associate Cert Prep]] — 1 mentions
-> 133. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 1 mentions
-> 134. [[Complete Guide to AWS Software Deployment]] — 1 mentions
-> 135. [[SQL Practice- Basic Queries]] — 1 mentions
-> 136. [[Practice It- SQL Joins]] — 1 mentions
-> 137. [[Advanced PHP- Debugging Techniques]] — 1 mentions
-> 138. [[Advanced Laravel]] — 1 mentions
-> 139. [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — 1 mentions
-> 140. [[SQL Server Fundamentals- Master Basic Query Techniques]] — 1 mentions
-> 141. [[Practical GitHub Code Search]] — 1 mentions
-> 142. [[QGIS and Python for AEC]] — 1 mentions
-> 143. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
-> 144. [[Aws Essential Training For Administrators]] — 1 mentions
+> 51. [[Azure Understanding The Big Picture]] — 3 mentions
+> 52. [[Google Cloud Digital Leader Cert Prep- 2 Exploring Data Transformation with Google Cloud]] — 3 mentions
+> 53. [[Generative AI for Data Engineering- ChatGPT Power Tips]] — 3 mentions
+> 54. [[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]] — 3 mentions
+> 55. [[Intermediate Sql For Data Scientists]] — 3 mentions
+> 56. [[Advanced Terraform]] — 3 mentions
+> 57. [[Red Hat Certified System Administrator Ex200 Cert Prep 1 Deploy Configure And Manage]] — 3 mentions
+> 58. [[Advanced SQL for Query Tuning and Performance Optimization]] — 3 mentions
+> 59. [[SQL Practice- Intermediate Queries]] — 3 mentions
+> 60. [[Learning MapGuide Open Source]] — 3 mentions
+> 61. [[Troubleshoot and Repair Your WordPress Website]] — 3 mentions
+> 62. [[Penetration Testing Essential Training]] — 2 mentions
+> 63. [[Ethical Hacking- The Complete Malware Analysis Process]] — 2 mentions
+> 64. [[Cloud Architecture- Design Decisions]] — 2 mentions
+> 65. [[Building a Cloud Architecture Diagram]] — 2 mentions
+> 66. [[AWS Quick Tips for Developers]] — 2 mentions
+> 67. [[ChatGPT and SQL]] — 2 mentions
+> 68. [[Nail Your SQL Interview]] — 2 mentions
+> 69. [[Introduction to Data Warehouses]] — 2 mentions
+> 70. [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]] — 2 mentions
+> 71. [[Privacy, Governance, and Compliance- Data Classification and Inventory]] — 2 mentions
+> 72. [[AWS Essential Training for Architects]] — 2 mentions
+> 73. [[SQL for Finance Professionals]] — 2 mentions
+> 74. [[Apache Spark Essential Training- Big Data Engineering]] — 2 mentions
+> 75. [[Database Foundations Intro To Databases]] — 2 mentions
+> 76. [[Vue.js- Creating and Hosting a Full-Stack Site]] — 2 mentions
+> 77. [[Complete Guide to SQL for Data Engineering- from Beginner to Advanced]] — 2 mentions
+> 78. [[Complete Guide to Tableau for Data Scientists]] — 2 mentions
+> 79. [[Kubernetes- Cloud Native Ecosystem]] — 2 mentions
+> 80. [[Red Hat Certified System Administrator (EX200) Cert Prep- 2 File Access, Storage, and Security]] — 2 mentions
+> 81. [[Learning Php]] — 2 mentions
+> 82. [[Learning SnowflakeDB]] — 2 mentions
+> 83. [[Advanced Django Project- Build High-Traffic Websites with Django]] — 2 mentions
+> 84. [[Advanced SQL- Logical Query Processing, Part 2]] — 2 mentions
+> 85. [[WordPress- Speeding Up Your Site]] — 2 mentions
+> 86. [[PHP- User Authentication]] — 2 mentions
+> 87. [[Building GraphQL Applications in Laravel]] — 2 mentions
+> 88. [[Fundamentals of Data Transformation for Data Engineering]] — 2 mentions
+> 89. [[Cloud Storage Concepts- Services, Cost Control, and Security]] — 1 mentions
+> 90. [[Dynamic Application Security Testing]] — 1 mentions
+> 91. [[Static Application Security Testing]] — 1 mentions
+> 92. [[Ethical Hacking- Denial of Service]] — 1 mentions
+> 93. [[AI Productivity Hacks to Reimagine Your Workday and Career]] — 1 mentions
+> 94. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
+> 95. [[Migrating to Azure]] — 1 mentions
+> 96. [[Dependency Mapping for Cloud Migration]] — 1 mentions
+> 97. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
+> 98. [[Hands-On Introduction- Data Engineering]] — 1 mentions
+> 99. [[End-to-End Data Engineering Project]] — 1 mentions
+> 100. [[AI Orchestration- Planning and Orchestrating for Observability]] — 1 mentions
+> 101. [[FinOps Essentials for Cloud Deployments]] — 1 mentions
+> 102. [[Secure Data Management for AI Implementation]] — 1 mentions
+> 103. [[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]] — 1 mentions
+> 104. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
+> 105. [[Data Engineering Pipeline Management with Apache Airflow]] — 1 mentions
+> 106. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
+> 107. [[Scalable Data Storage and Processing for AI Workloads]] — 1 mentions
+> 108. [[Tableau Essential Training]] — 1 mentions
+> 109. [[Rust for Data Engineering]] — 1 mentions
+> 110. [[Data Ingestion with Python]] — 1 mentions
+> 111. [[AWS- Networking]] — 1 mentions
+> 112. [[Python Data Analysis for Healthcare]] — 1 mentions
+> 113. [[LLM Foundations- Vector Databases for Caching and Retrieval Augmented Generation (RAG)]] — 1 mentions
+> 114. [[Database Design Fundamentals]] — 1 mentions
+> 115. [[DevSecOps- Automated Security Testing]] — 1 mentions
+> 116. [[AWS for Developers- CLI Tips]] — 1 mentions
+> 117. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
+> 118. [[Database Foundations- Application Development]] — 1 mentions
+> 119. [[From Excel to SQL]] — 1 mentions
+> 120. [[Nail Your DevOps Interview]] — 1 mentions
+> 121. [[SQL Server- Reporting Services]] — 1 mentions
+> 122. [[Data Wrangling in R]] — 1 mentions
+> 123. [[Advanced Node.js- Scaling Applications]] — 1 mentions
+> 124. [[Exploring Ktor with Kotlin Multiplatform and Compose]] — 1 mentions
+> 125. [[Preparing To Get A Job In Data Analytics]] — 1 mentions
+> 126. [[PHP- Object-Oriented Programming]] — 1 mentions
+> 127. [[Redis Essential Training]] — 1 mentions
+> 128. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
+> 129. [[Tableau and R for Analytics Projects]] — 1 mentions
+> 130. [[Tableau 2024.1- Essential Training]] — 1 mentions
+> 131. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
+> 132. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 1 mentions
+> 133. [[Databricks Certified Data Engineer Associate Cert Prep]] — 1 mentions
+> 134. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 1 mentions
+> 135. [[Complete Guide to AWS Software Deployment]] — 1 mentions
+> 136. [[SQL Practice- Basic Queries]] — 1 mentions
+> 137. [[Practice It- SQL Joins]] — 1 mentions
+> 138. [[Advanced PHP- Debugging Techniques]] — 1 mentions
+> 139. [[Advanced Laravel]] — 1 mentions
+> 140. [[Creating a Book Search Engine from Scratch Using Java and GitHub Copilot]] — 1 mentions
+> 141. [[SQL Server Fundamentals- Master Basic Query Techniques]] — 1 mentions
+> 142. [[Practical GitHub Code Search]] — 1 mentions
+> 143. [[QGIS and Python for AEC]] — 1 mentions
+> 144. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 145. [[Aws Essential Training For Administrators]] — 1 mentions
 
 ## Learning Paths
 

@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Restricting user access in PHP applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980)
+#### [Restricting user access in PHP applications](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980&t=0)** - [Kevin] This course will teach you how to write user authentication code in PHP so that you can restrict access to webpages and other website features to users who are logged in.
+> **[0:00](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980&t=0)** - [Kevin] This course will teach you how to write user authentication code in [[PHP]] so that you can restrict access to webpages and other website features to users who are logged in.
 >
 > **[0:10](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980&t=10)** You can follow right along with me or sit back and watch.
 >
@@ -107,21 +106,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), web (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **Speakers:** - [kevin] (1)
 
-#### How to use the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980)
+#### [How to use the exercise files on GitHub](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available in a GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available in a [[GitHub]] repository.
 >
 > **[0:05](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=5)** You can find it at this URL.
 >
-> **[0:07](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=7)** It's a project hosted by the LinkedIn Learning account called php-user-authentication-2892138.
+> **[0:07](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=7)** It's a project hosted by the [[LinkedIn]] Learning account called [[PHP]]-user-authentication-2892138.
 >
 > **[0:15](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=15)** The repository on GitHub has branches that correspond to each of the videos in the course.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=46)** You can also download the code to work along with me.
 >
-> **[0:49](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=49)** If you're a Git user, you can clone the repository by clicking on the code button and then click on the clipboard icon to copy the URL.
+> **[0:49](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=49)** If you're a [[Git]] user, you can clone the repository by clicking on the code button and then click on the clipboard icon to copy the URL.
 >
 > **[0:57](https://www.linkedin.com/learning/php-user-authentication/how-to-use-the-exercise-files-on-github?u=76281980&t=57)** Then you can type git clone and paste in the URL that you copied to your clipboard.
 >
@@ -165,8 +163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identification and access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980)
+#### [Identification and access control](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,13 +179,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=22)** This is true online, but it's also true in the real world.
 >
-> **[0:25](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=25)** In fact, a simple key to a house, a car, or a filing cabinet is one of the simplest forms of authentication.
+> **[0:25](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=25)** In fact, a simple key to a house, a car, or a filing cabinet is one of the simplest [[Forms]] of authentication.
 >
 > **[0:31](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=31)** Anyone who possesses the key is considered an authorized user who should be granted access.
 >
 > **[0:36](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=36)** User authentication is essential in any modern web application because protected areas are common.
 >
-> **[0:42](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=42)** It might be a content management system where admins are able to update content that the public sees.
+> **[0:42](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=42)** It might be a [[Content Management]] system where admins are able to update content that the public sees.
 >
 > **[0:48](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980&t=48)** Or a website might have an area for VIP's, for registered members, or for paying customers.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Security]] (2), [[Forms]] (1), web application (1), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Content Management]] (1)
 > **Analogies:** imagine (1), just like (1), it's like (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -259,8 +256,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hashing and storing passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980)
+#### [Hashing and storing passwords](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=96)** We would be missing too much important data, the vowels and the original positions of the letters.
 >
-> **[1:41](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=101)** Hashing algorithms follow a different process, but they also discard important information along the way.
+> **[1:41](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=101)** Hashing [[Algorithms]] follow a different process, but they also discard important information along the way.
 >
 > **[1:47](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=107)** So how do we compare the password during a log-in attempt with a hashed version?
 >
@@ -326,11 +322,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=159)** We will choose good hash algorithms so that we ensure that such false positives, also known as collisions, are rare.
 >
-> **[2:46](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=166)** As we'll see in the next chapter, PHP has built in functions that make this whole process easy.
+> **[2:46](https://www.linkedin.com/learning/php-user-authentication/hashing-and-storing-passwords?u=76281980&t=166)** As we'll see in the next chapter, [[PHP]] has built in functions that make this whole process easy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Algorithms]] (2), data (1), next (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[PHP]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** php (1)
 > **Cross-References:** in the next (1)
@@ -343,8 +339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating the database table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980)
+#### [Creating the database table](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=16)** So this is a project for the Globe Bank, Inc, that we're going to be working on.
 >
-> **[0:20](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=20)** And you'll also need to grant privileges to my SQL user on that database.
+> **[0:20](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=20)** And you'll also need to grant privileges to my [[SQL]] user on that database.
 >
 > **[0:25](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=25)** Once you have that, you'll be ready to create the table that we need on the database.
 >
@@ -392,11 +387,11 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=89)** It'll ask for my password.
 >
-> **[1:32](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=92)** And then when I'm here, I'll say show databases.
+> **[1:32](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=92)** And then when I'm here, I'll say show [[Databases]].
 >
 > **[1:35](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=95)** You'll see that I don't really have any.
 >
-> **[1:37](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=97)** And so I'm going to create database globe underscore bank, and then let's grant all privileges on globe underscore bank dot and the asterisk, and then two, and then inside single quotes, the user that we want to use, I'm going to use PHP user at local host, and then let's flush the privileges.
+> **[1:37](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=97)** And so I'm going to create database globe underscore bank, and then let's grant all privileges on globe underscore bank dot and the asterisk, and then two, and then inside single quotes, the user that we want to use, I'm going to use [[PHP]] user at local host, and then let's flush the privileges.
 >
 > **[2:05](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980&t=125)** P R I V I L G E S.
 >
@@ -432,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (7), [[PHP]] (4), [[Databases]] (1), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[PHP]] (4), [[Databases]] (1)
 > **Env Vars:** sql (7), php (4)
 > **CLI Commands:** php (4)
 > **Tools:** command line (3)
@@ -441,12 +436,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** you'll need (1), set up (1)
 
-#### Introducing the sample project
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980)
+#### [Introducing the sample project](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=0)** - [Instructor] In this movie, we'll introduce the sample PHP project that we'll be working with.
+> **[0:00](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=0)** - [Instructor] In this movie, we'll introduce the sample [[PHP]] project that we'll be working with.
 >
 > **[0:05](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=5)** You can certainly use code from one of your own projects, but if you don't have it, this'll get you jump-started and on the right path.
 >
@@ -456,9 +450,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=32)** The starter project in the exercise files has all of these pages.
 >
-> **[0:36](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=36)** It also includes some query functions we'll need to work with the database, some data validation functions, and some other helper functions.
+> **[0:36](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=36)** It also includes some query functions we'll need to work with the database, some [[Data Validation]] functions, and some other helper functions.
 >
-> **[0:44](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=44)** These are all based on topics that I cover in my courses, PHP with MySQL Essential Training.
+> **[0:44](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=44)** These are all based on topics that I cover in my courses, PHP with [[MySQL]] Essential Training.
 >
 > **[0:50](https://www.linkedin.com/learning/php-user-authentication/introducing-the-sample-project?u=76281980&t=50)** Let's take a look.
 >
@@ -572,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), [[PHP]] (5), [[MySQL]] (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[MySQL]] (2), [[Data Validation]] (1)
 > **CLI Commands:** php (5), mysql (2), make (2)
 > **Env Vars:** php (5), url (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -581,8 +575,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 
-#### Adding new users
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980)
+#### [Adding new users](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,9 +587,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980&t=10)** The password will be submitted on the web form in plain text.
 >
-> **[0:14](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980&t=14)** We need to hash it and then use the hashed value in the SQL insert statement.
+> **[0:14](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980&t=14)** We need to hash it and then use the hashed value in the [[SQL]] insert statement.
 >
-> **[0:19](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980&t=19)** To do that, we'll use a php function called password hash.
+> **[0:19](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980&t=19)** To do that, we'll use a [[PHP]] function called password hash.
 >
 > **[0:24](https://www.linkedin.com/learning/php-user-authentication/adding-new-users?u=76281980&t=24)** If you give it a password, it returns a hash.
 >
@@ -778,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), database (6), [[SQL]] (4), data (2), web (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[SQL]] (4)
 > **CLI Commands:** php (7), make (3), find (1)
 > **Env Vars:** sql (4)
 > **UI Navigation:** go to (3), click on (1)
@@ -787,8 +780,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [nowhere.com](https://nowhere.com) (1)
 
-#### Logging in users
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/logging-in-users?u=76281980)
+#### [Logging in users](https://www.linkedin.com/learning/php-user-authentication/logging-in-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +804,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/php-user-authentication/logging-in-users?u=76281980&t=53)** Otherwise it just says, sorry, it's not working.
 >
-> **[0:57](https://www.linkedin.com/learning/php-user-authentication/logging-in-users?u=76281980&t=57)** PHP has a function that can help us with this.
+> **[0:57](https://www.linkedin.com/learning/php-user-authentication/logging-in-users?u=76281980&t=57)** [[PHP]] has a function that can help us with this.
 >
 > **[0:59](https://www.linkedin.com/learning/php-user-authentication/logging-in-users?u=76281980&t=59)** It's the companion to password hash, it's password verify, and it takes two arguments.
 >
@@ -1012,7 +1004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[PHP]] (7), application (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (7)
 > **CLI Commands:** php (7), find (6), make (4)
 > **Env Vars:** url (3), php (1)
 > **UI Navigation:** go to (3)
@@ -1021,8 +1013,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Exercise Files:** exercise files (1)
 
-#### Logging out users
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/logging-out-users?u=76281980)
+#### [Logging out users](https://www.linkedin.com/learning/php-user-authentication/logging-out-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/php-user-authentication/logging-out-users?u=76281980&t=7)** Like our ticket analogy, we just need to wash off the hand stamp that we created, and we do that by removing the user ID that we stored in the session.
 >
-> **[0:16](https://www.linkedin.com/learning/php-user-authentication/logging-out-users?u=76281980&t=16)** I've added another placeholder file to our project called logout.php.
+> **[0:16](https://www.linkedin.com/learning/php-user-authentication/logging-out-users?u=76281980&t=16)** I've added another placeholder file to our project called logout.[[PHP]].
 >
 > **[0:21](https://www.linkedin.com/learning/php-user-authentication/logging-out-users?u=76281980&t=21)** You can see it's inside the staff directory alongside login.
 >
@@ -1102,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **UI Navigation:** go to (3), click on (1)
 > **Code Identifiers:** log_out_admin (2), log_in_admin (1)
 > **File Paths:** logout.php (1), index.php (1)
@@ -1111,8 +1102,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Prerequisites:** setup (1)
 
-#### Controlling access to pages and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980)
+#### [Controlling access to pages and functions](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1172,9 +1162,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980&t=142)** Then we know that they need to be redirected.
 >
-> **[2:26](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980&t=146)** So it's going to be a redirect to url_for and we'll make it staff/login.php.
+> **[2:26](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980&t=146)** So it's going to be a redirect to url_for and we'll make it staff/login.[[PHP]].
 >
-> **[2:40](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980&t=160)** Otherwise do nothing, let the rest of the page proceed.
+> **[2:40](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980&t=160)** Otherwise do nothing, let the [[Representational State Transfer (REST)|rest]] of the page proceed.
 >
 > **[2:49](https://www.linkedin.com/learning/php-user-authentication/controlling-access-to-pages-and-functions?u=76281980&t=169)** Okay, so that's it.
 >
@@ -1306,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (14), application (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[PHP]] (14), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (14), make (4), find (1)
 > **Code Identifiers:** is_logged_in (5), require_login (5), url_for (1), is_logged (1)
 > **Env Vars:** php (9)
@@ -1315,8 +1305,7 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Definitions:** in other words (1), is a  (1)
 
-#### Challenge: Editing users
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980)
+#### [Challenge: Editing users](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,9 +1363,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=108)** You just take it off the form field.
 >
-> **[1:50](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=110)** You make it so that it has a separate validation and you don't include it in the SQL.
+> **[1:50](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=110)** You make it so that it has a separate validation and you don't include it in the [[SQL]].
 >
-> **[1:54](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=114)** Or you can have separate forms for editing the user's details.
+> **[1:54](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=114)** Or you can have separate [[Forms]] for editing the user's details.
 >
 > **[1:59](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=119)** And then another form for editing the user's password.
 >
@@ -1384,7 +1373,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=128)** So if you leave those two form fields blank, it doesn't object.
 >
-> **[2:12](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=132)** It updates the rest of the user and ignores the password fields completely.
+> **[2:12](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=132)** It updates the [[Representational State Transfer (REST)|rest]] of the user and ignores the password fields completely.
 >
 > **[2:16](https://www.linkedin.com/learning/php-user-authentication/challenge-editing-users?u=76281980&t=136)** But if you did type in something in the password fields, then it would hash and update it correctly.
 >
@@ -1412,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[SQL]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **URLs:** [nowhere.com](https://nowhere.com) (1), [somewhere.com](https://somewhere.com) (1)
 > **Env Vars:** sql (2)
@@ -1421,8 +1410,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 
-#### Solution: Editing users
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/solution-editing-users?u=76281980)
+#### [Solution: Editing users](https://www.linkedin.com/learning/php-user-authentication/solution-editing-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1438,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/php-user-authentication/solution-editing-users?u=76281980&t=63)** That's all it's doing is checking to see whether or not if we were given a value.
 >
-> **[1:07](https://www.linkedin.com/learning/php-user-authentication/solution-editing-users?u=76281980&t=67)** Down here, you can see inside the SQL, when it's assembling the SQL, it checks to see if the password was sent.
+> **[1:07](https://www.linkedin.com/learning/php-user-authentication/solution-editing-users?u=76281980&t=67)** Down here, you can see inside the [[SQL]], when it's assembling the SQL, it checks to see if the password was sent.
 >
 > **[1:15](https://www.linkedin.com/learning/php-user-authentication/solution-editing-users?u=76281980&t=75)** And if it was, then it calls the exact same hash password line we had up here inside insert admin, and then adds that line to the SQL.
 >
@@ -1544,8 +1532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Password requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980)
+#### [Password requirements](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1550,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=31)** After all, there's not a technical reason if we're going to be hashing the password.
 >
-> **[0:35](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=35)** Almost all hashing algorithms return output that is the same length, regardless of how long the input was.
+> **[0:35](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=35)** Almost all hashing [[Algorithms]] return output that is the same length, regardless of how long the input was.
 >
 > **[0:43](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=43)** bcrypt output is always 60 characters long.
 >
@@ -1685,7 +1672,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=305)** We also need to communicate this to the user.
 >
-> **[5:08](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=308)** So let's go to the forms where this occurs on the new.php page, and let's go down here to the form.
+> **[5:08](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=308)** So let's go to the [[Forms]] where this occurs on the new.[[PHP]] page, and let's go down here to the form.
 >
 > **[5:18](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980&t=318)** And right before the password, let's add in a P tag and inside that P tag, let's put Passwords should be at least 12 characters and include at least one uppercase letter, lowercase letter, number, and symbol.
 >
@@ -1713,7 +1700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (1), power (1), [[Forms]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Forms]] (1), [[PHP]] (1)
 > **CLI Commands:** make (4), find (2), php (1)
 > **Code Identifiers:** validate_admin (1), confirm_password (1), has_length (1), preg_match (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
@@ -1722,8 +1709,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Preventing weak passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980)
+#### [Preventing weak passwords](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1733,7 +1719,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=9)** The first is that we could prohibit certain words.
 >
-> **[0:13](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=13)** For example, you might say that a user can't use the word password in their password or login or letmein.
+> **[0:13](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=13)** For example, you might say that a user can't use the [[Microsoft Word|word]] password in their password or login or letmein.
 >
 > **[0:20](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=20)** Those might be just on their own, or you might scan the string to make sure that it's not password1234.
 >
@@ -1781,7 +1767,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=163)** that's run by security researcher Troy Hunt.
 >
-> **[2:45](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=165)** Whenever a website is breached and those databases then show up on the dark web for people to use, Troy goes and gets a copy and uploads it to his database.
+> **[2:45](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=165)** Whenever a website is breached and those [[Databases]] then show up on the dark web for people to use, Troy goes and gets a copy and uploads it to his database.
 >
 > **[2:55](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=175)** He has over 500 million passwords in his database, and he's given access to it to everyone by using an API.
 >
@@ -1799,7 +1785,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=220)** You just have to send a little bit of it.
 >
-> **[3:42](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=222)** He sends back what he has and you can, in privacy, go through them to see if there are any matches.
+> **[3:42](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=222)** He sends back what he has and you can, in [[Privacy]], go through them to see if there are any matches.
 >
 > **[3:48](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=228)** If you do find a match, it means that that password is in that set of 500 million passwords.
 >
@@ -1825,13 +1811,13 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=288)** And last, I want to give you a good resource if you want to read more about this topic.
 >
-> **[4:52](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=292)** The National Institute of Standards and Technology, also known as NIST, has put out a report called "The Digital Identity Guidelines" that walks through all of these issues and talks about things like password complexity and password rotation.
+> **[4:52](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=292)** The National Institute of Standards and Technology, also known as [[NIST]], has put out a report called "The Digital Identity Guidelines" that walks through all of these issues and talks about things like password complexity and password rotation.
 >
 > **[5:05](https://www.linkedin.com/learning/php-user-authentication/preventing-weak-passwords?u=76281980&t=305)** It's a great source if you want to read more on this topic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Security]] (2), api (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Databases]] (1), [[Privacy]] (1), [[NIST]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** api (2), url (1), sha (1), nist (1)
 > **UI Navigation:** go to (2)
@@ -1840,8 +1826,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
 
-#### Resetting forgotten passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980)
+#### [Resetting forgotten passwords](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1911,11 +1896,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=171)** We can also store the information like the time that the token was generated so that we could limit the time for its use.
 >
-> **[2:57](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=177)** So if it's only good for let's say an hour or only good for one day, and after that, the tokens no good.
+> **[2:57](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=177)** So if it's only good for let's say an hour or only good for one day, and after that, the [[Tokens]] no good.
 >
 > **[3:05](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=185)** Then we would send the user an email and that email would include a URL that has the token in it.
 >
-> **[3:12](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=192)** So it might be reset_password.php, question mark token equals, and then it would have a token string after it.
+> **[3:12](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=192)** So it might be reset_password.[[PHP]], question mark token equals, and then it would have a token string after it.
 >
 > **[3:21](https://www.linkedin.com/learning/php-user-authentication/resetting-forgotten-passwords?u=76281980&t=201)** And clicking on that link would take us to the website to a special page that was all set up for resetting our password to something different.
 >
@@ -1949,7 +1934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Security]] (2), [[PHP]] (2), [[Tokens]] (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Tokens]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** php (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1963,8 +1948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preventing IDOR
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980)
+#### [Preventing IDOR](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1986,7 +1970,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=41)** Hopefully not, that would be an insecure direct object reference.
 >
-> **[0:46](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=46)** It doesn't just apply to e-commerce.
+> **[0:46](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=46)** It doesn't just apply to [[E-Commerce]].
 >
 > **[0:48](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=48)** It can also apply to assets that are on the server or posted in the cloud and it will apply to our access control pages.
 >
@@ -2018,7 +2002,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=123)** Let me show you what I mean.
 >
-> **[2:05](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=125)** So in our sample project in index.php, you can see we've got this require_login at the top that will make sure that someone is logged in.
+> **[2:05](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=125)** So in our sample project in index.[[PHP]], you can see we've got this require_login at the top that will make sure that someone is logged in.
 >
 > **[2:12](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980&t=132)** And we've added the same thing to the admins, to index, and to new, and to show.
 >
@@ -2172,7 +2156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), [[Search]] (2), [[E-Commerce]] (1), cloud (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[E-Commerce]] (1)
 > **Code Identifiers:** require_login (5), exempt_from_auth (4), script_name (3), auth_functions (2), page_exempt_from_auth (2)
 > **CLI Commands:** php (11), make (4)
 > **File Paths:** index.php (5), initialize.php (1), staffinitialize.php (1), login.php (1), auth_functions.php (1)
@@ -2181,8 +2165,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), short for (1)
 > **Best Practices:** remember to (1), don't forget (1)
 
-#### Using HTTPS
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/using-https?u=76281980)
+#### [Using HTTPS](https://www.linkedin.com/learning/php-user-authentication/using-https?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2230,7 +2213,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (1), web (1)
 > **Env Vars:** https (5), ssl (3), http (1), tls (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2238,12 +2220,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting access tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980)
+#### [Protecting access tokens](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=0)** - [Instructor] In this movie, let's talk about how to protect access tokens.
+> **[0:00](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=0)** - [Instructor] In this movie, let's talk about how to protect access [[Tokens]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=4)** When I talk about access tokens, I'm talking about that hand stamp that we use to indicate that a user is logged in.
 >
@@ -2265,7 +2246,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=63)** Like we just talked about in the last movie.
 >
-> **[1:05](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=65)** Another thing we can do is to secure the cookies, used to store the session identifier by setting some configurations in our php.ini file.
+> **[1:05](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=65)** Another thing we can do is to secure the cookies, used to store the session identifier by setting some configurations in our [[PHP]].ini file.
 >
 > **[1:14](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=74)** We can set the session cookie lifetime to zero.
 >
@@ -2277,7 +2258,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=86)** If the connection is using HTTPS, session.cookie HTTP only sounds like it might apply to that HTTP versus HTTPS, but it doesn't.
 >
-> **[1:38](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=98)** What that's saying is that Javascript should not have access to these cookies.
+> **[1:38](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=98)** What that's saying is that [[JavaScript]] should not have access to these cookies.
 >
 > **[1:43](https://www.linkedin.com/learning/php-user-authentication/protecting-access-tokens?u=76281980&t=103)** One way that they can get stolen is by letting JavaScript, get a hold of them.
 >
@@ -2307,7 +2288,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), [[PHP]] (3), [[JavaScript]] (2), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[PHP]] (3), [[JavaScript]] (2)
 > **CLI Commands:** php (3), find (2), make (1)
 > **Env Vars:** https (3), http (2), php (1)
 > **Definitions:** means that (3), is a  (1)
@@ -2316,8 +2297,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keeping track of logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/keeping-track-of-logins?u=76281980)
+#### [Keeping track of logins](https://www.linkedin.com/learning/php-user-authentication/keeping-track-of-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2373,14 +2353,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Expiring logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/challenge-expiring-logins?u=76281980)
+#### [Challenge: Expiring logins](https://www.linkedin.com/learning/php-user-authentication/challenge-expiring-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2398,7 +2376,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/php-user-authentication/challenge-expiring-logins?u=76281980&t=38)** I'll give you a hint.
 >
-> **[0:39](https://www.linkedin.com/learning/php-user-authentication/challenge-expiring-logins?u=76281980&t=39)** You'll be working in the file of function.php.
+> **[0:39](https://www.linkedin.com/learning/php-user-authentication/challenge-expiring-logins?u=76281980&t=39)** You'll be working in the file of function.[[PHP]].
 >
 > **[0:43](https://www.linkedin.com/learning/php-user-authentication/challenge-expiring-logins?u=76281980&t=43)** That's enough for you to complete the challenge assignment, but I want to give you one more thing to think about.
 >
@@ -2418,7 +2396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Cross-References:** we talked about (1), in the last (1), in the next (1)
 > **Analogies:** imagine (1), for example (1)
 > **File Paths:** function.php (1)
@@ -2427,8 +2405,7 @@ created: 2026-05-02
 > **Speakers:** - it (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Expiring logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/solution-expiring-logins?u=76281980)
+#### [Solution: Expiring logins](https://www.linkedin.com/learning/php-user-authentication/solution-expiring-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2438,7 +2415,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/php-user-authentication/solution-expiring-logins?u=76281980&t=11)** The first thing I knew I needed to do was record the time that the user was logging in, so log_in_admin is a great place to do that.
 >
-> **[0:18](https://www.linkedin.com/learning/php-user-authentication/solution-expiring-logins?u=76281980&t=18)** While I'm setting the admin_id and the username, I'm also going to go ahead and just store the last_login in the session, as well, and I can just use PHP's time to do that.
+> **[0:18](https://www.linkedin.com/learning/php-user-authentication/solution-expiring-logins?u=76281980&t=18)** While I'm setting the admin_id and the username, I'm also going to go ahead and just store the last_login in the session, as well, and I can just use [[PHP]]'s time to do that.
 >
 > **[0:28](https://www.linkedin.com/learning/php-user-authentication/solution-expiring-logins?u=76281980&t=28)** I also wanted to adopt a second strategy, which was to set a value for when the login ought to expire.
 >
@@ -2510,7 +2487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Code Identifiers:** last_login (5), is_logged_in (3), last_login_is_recent (2), max_elapsed (2), login_expires (2)
 > **CLI Commands:** php (2), find (2)
 > **Env Vars:** php (2)
@@ -2523,12 +2500,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=0)** - [Kevin] I would like to thank you for taking PHP user authentication with me.
+> **[0:00](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=0)** - [Kevin] I would like to thank you for taking [[PHP]] user authentication with me.
 >
 > **[0:04](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=4)** I hope that you've learned new skills and you're able to add user authentication and access controls to your own projects.
 >
@@ -2536,7 +2512,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=13)** I have some other courses in the library that can help.
 >
-> **[0:16](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=16)** Web security user authentication and access control, programming foundations web security, and PHP creating secure websites.
+> **[0:16](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=16)** Web security user authentication and access control, [[Programming Foundations]] web security, and PHP creating secure websites.
 >
 > **[0:25](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980&t=25)** The first two are general discussions, suitable for any programming language.
 >
@@ -2548,7 +2524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Security]] (3), web (2), [[Programming Foundations]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Programming Foundations]] (1)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Speakers:** - [kevin] (1)

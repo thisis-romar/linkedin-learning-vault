@@ -83,11 +83,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using C# delegates, events, and lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-c-sharp-delegates-events-and-lambdas-23315218?u=76281980)
+#### [Using C# delegates, events, and lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-c-sharp-delegates-events-and-lambdas-23315218?u=76281980)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=4)** First, you should already know the basics of the C# language, such as how to write functions, declare variables, write statements, and so on.
 >
-> **[0:12](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=12)** We're also going to be using some common C# data structures, like arrays and lists during the course, so you should have some familiarity with those as well.
+> **[0:12](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=12)** We're also going to be using some common C# [[Data Structures]], like arrays and lists during the course, so you should have some familiarity with those as well.
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=20)** Learning C# is a great course for learning all about the basics of the C# language.
 >
@@ -103,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=29)** You could also check out C# Collections if you need to brush up on your knowledge of C# data structures.
 >
-> **[0:35](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=35)** I'm also going to assume that you already know about common object-oriented programming concepts, such as classes, methods, member variables, and so on.
+> **[0:35](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=35)** I'm also going to assume that you already know about common [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts, such as classes, methods, member variables, and so on.
 >
 > **[0:43](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/what-you-should-know?u=76281980&t=43)** If you need to get up to speed with object-oriented programming, check out Fundamentals of Programming: Object-Oriented Design.
 >
@@ -119,19 +117,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming Concepts]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Programming Concepts]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Tools:** visual studio (3), atom (1), sublime (1)
 > **Analogies:** such as (3)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/exercise-files-on-github?u=76281980)
+#### [Exercise files on GitHub](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/exercise-files-on-github?u=76281980&t=0)** - [Instructor] I've included exercise files to accompany each of the examples in this course and you can download them from the GitHub repository that is associated with this course located at the link that you see here.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/exercise-files-on-github?u=76281980&t=0)** - [Instructor] I've included exercise files to accompany each of the examples in this course and you can download them from the [[GitHub]] repository that is associated with this course located at the link that you see here.
 >
 > **[0:12](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/exercise-files-on-github?u=76281980&t=12)** I've copied the exercise files folder to my desktop to make it easy to work with, but you can place the folder anywhere on your computer that you like.
 >
@@ -159,14 +156,13 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the developer environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980)
+#### [Setting up the developer environment](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=0)** - [Instructor] In this course, we're going to be building C# applications using Visual Studio Community Edition.
 >
-> **[0:06](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=6)** This IDE is available as a free download from Microsoft for both Mac and Windows.
+> **[0:06](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=6)** This IDE is available as a free download from [[Microsoft]] for both Mac and [[Windows]].
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=11)** If you already have the professional or the enterprise version of Visual Studio, that's also fine.
 >
@@ -186,7 +182,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=66)** Get the right version for your operating system.
 >
-> **[1:08](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=68)** You can see that there's versions for Windows, Linux, and Mac, and then run the installation instructions.
+> **[1:08](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=68)** You can see that there's versions for Windows, [[Linux]], and Mac, and then run the installation instructions.
 >
 > **[1:13](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/setting-up-the-developer-environment?u=76281980&t=73)** Now, make sure you install the SDK, not the runtime version.
 >
@@ -216,8 +212,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of C# delegates, events, and lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980)
+#### [Overview of C# delegates, events, and lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +248,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980&t=81)** Next up are events.
 >
-> **[1:23](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980&t=83)** Events are based on delegates, and they provide a way for your application to both broadcast and receive messages to, and from the rest of your application or even to other applications or the operating system.
+> **[1:23](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980&t=83)** Events are based on delegates, and they provide a way for your application to both broadcast and receive messages to, and from the [[Representational State Transfer (REST)|rest]] of your application or even to other applications or the operating system.
 >
 > **[1:35](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980&t=95)** So for example, your application might have some code that broadcasts a message whenever something interesting happens, the result of a variable changes or the user has interacted with a UI element.
 >
@@ -275,14 +270,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 1.0 (1), 2.0 (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common delegate, event, and lambda scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/common-delegate-event-and-lambda-scenarios?u=76281980)
+#### [Common delegate, event, and lambda scenarios](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/common-delegate-event-and-lambda-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/common-delegate-event-and-lambda-scenarios?u=76281980&t=20)** They give you a way to separate functional areas of your program from each other.
 >
-> **[0:25](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/common-delegate-event-and-lambda-scenarios?u=76281980&t=25)** So imagine that we have a company that needs to ship products around the world, and it's necessary to calculate various taxes and fees for each shipping destination.
+> **[0:25](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/common-delegate-event-and-lambda-scenarios?u=76281980&t=25)** So imagine that we have a company that needs to ship [[Microsoft Products|products]] around the world, and it's necessary to calculate various taxes and fees for each shipping destination.
 >
 > **[0:35](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/common-delegate-event-and-lambda-scenarios?u=76281980&t=35)** Well, you could just write a function called calculate shipping, which takes an argument that specifies the destination and then returns the adjusted price.
 >
@@ -332,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** net (1)
 > **Cross-References:** later in (1)
 > **Analogies:** imagine (1)
@@ -343,8 +337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating C# delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980)
+#### [Creating C# delegates](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +361,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980&t=60)** And then I can just call the function f like I would any other function.
 >
-> **[1:04](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980&t=64)** Now, if you've ever worked with callback functions in JavaScript or function pointers in a language like C or C++, then this will probably look familiar to you but there's no substitute for seeing it in action.
+> **[1:04](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980&t=64)** Now, if you've ever worked with callback functions in [[JavaScript]] or function pointers in a language like C or C++, then this will probably look familiar to you but there's no substitute for seeing it in action.
 >
 > **[1:16](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980&t=76)** So let's jump over to some real code and see how all of this works.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JavaScript]] (1), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** instancemethod1 (2), instancemethod (1)
 > **Tools:** visual studio (1), command line (1), terminal (1)
@@ -519,8 +512,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using anonymous delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-anonymous-delegates?u=76281980)
+#### [Using anonymous delegates](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-anonymous-delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,8 +571,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using composable delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-composable-delegates?u=76281980)
+#### [Using composable delegates](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-composable-delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +713,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), feature (1)
 > **Env Vars:** f1f2 (5)
 > **Definitions:** in other words (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -730,8 +720,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [teacher] (1)
 
-#### Challenge: Programming delegate
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-delegate?u=76281980)
+#### [Challenge: Programming delegate](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-delegate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,7 +792,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-delegate?u=76281980&t=134)** I'll do 100 again.
 >
-> **[2:16](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-delegate?u=76281980&t=136)** And you can see that the shipping fees are $29 because once again, we impose the extra high-risk fee, and then to exit, I type the word exit.
+> **[2:16](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-delegate?u=76281980&t=136)** And you can see that the shipping fees are $29 because once again, we impose the extra high-risk fee, and then to exit, I type the [[Microsoft Word|word]] exit.
 >
 > **[2:25](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-delegate?u=76281980&t=145)** All right.
 >
@@ -821,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1), next video (1)
 > **Versions:** 27.40 (1)
@@ -830,8 +819,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Programming delegate
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980)
+#### [Solution: Programming delegate](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=51)** And the shipping destination will represent that destination.
 >
-> **[0:56](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=56)** Now the rest of the code is a loop that will handle the user input until the string exit is typed in by the user.
+> **[0:56](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=56)** Now the [[Representational State Transfer (REST)|rest]] of the code is a loop that will handle the user input until the string exit is typed in by the user.
 >
 > **[1:03](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=63)** So the first lines, retrieve the destination zone from the user and then the code checks for the exit string.
 >
@@ -919,7 +907,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=256)** Then I just write out the result to the console.
 >
-> **[4:19](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=259)** The rest of the code just prints out an error message if the user enters an unrecognized zone and terminates if the user enters the word exit.
+> **[4:19](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=259)** The rest of the code just prints out an error message if the user enters an unrecognized zone and terminates if the user enters the [[Microsoft Word|word]] exit.
 >
 > **[4:28](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-delegate?u=76281980&t=268)** So by organizing the code this way, I've completely isolated the main program from changes in the shipping zones, and I've made the program easily extensible.
 >
@@ -961,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Microsoft Word|Word]] (1), power (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -975,8 +963,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating C# event handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980)
+#### [Creating C# event handlers](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,13 +977,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=32)** Events can be switched on and off as you need them, which further enhances your application's responsiveness.
 >
-> **[0:39](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=39)** So if you've done any web development, you're probably familiar with events in their user interface form.
+> **[0:39](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=39)** So if you've done any [[Web Development]], you're probably familiar with events in their user interface form.
 >
 > **[0:45](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=45)** So for example, when a user clicks on a button, so C-sharp also has UI related events, but your app can define its own events for its own purposes.
 >
 > **[0:54](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=54)** Defining an event starts off just like defining a delegate, in that you use the delegate syntax to declare the event handler signature.
 >
-> **[1:03](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=63)** So then in the class for your object, you use the keyword event instead of the word delegate to declare an event.
+> **[1:03](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=63)** So then in the class for your object, you use the keyword event instead of the [[Microsoft Word|word]] delegate to declare an event.
 >
 > **[1:11](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980&t=71)** So in this particular case, I have an event named my event of type myEvent, of MyEventHandler, which takes an integer argument.
 >
@@ -1102,7 +1089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Word|Word]] (2), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Web Development]] (1)
 > **Code Identifiers:** myeventhandler (3), valuechanged (2), myevent (1), theval (1)
 > **Cross-References:** earlier in (1), go back to (1)
 > **Analogies:** for example (1), just like (1)
@@ -1111,8 +1098,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Event chaining
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/event-chaining?u=76281980)
+#### [Event chaining](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/event-chaining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,7 +1224,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), generic (1)
 > **Code Identifiers:** valuechanged (6), propchanged (4), objchanged (4), changelistener1 (2), changelistener2 (2)
 > **Env Vars:** net (4)
 > **CLI Commands:** make (2)
@@ -1246,9 +1231,9 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
+> **Speakers:** - [instructor] (1)
 
-#### Challenge: Programming events
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-events?u=76281980)
+#### [Challenge: Programming events](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,14 +1295,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Programming events
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-events?u=76281980)
+#### [Solution: Programming events](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1342,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-events?u=76281980&t=129)** And then my code enters a loop where it gets the amount to change the balance from the user.
 >
-> **[2:15](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-events?u=76281980&t=135)** Now until the user types the word exit, we parse the input to get a decimal number.
+> **[2:15](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-events?u=76281980&t=135)** Now until the user types the [[Microsoft Word|word]] exit, we parse the input to get a decimal number.
 >
 > **[2:21](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-events?u=76281980&t=141)** And then from there, everything else is automatically handled by the events.
 >
@@ -1369,7 +1352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** thebalance (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
@@ -1381,8 +1364,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding C# lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980)
+#### [Understanding C# lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,15 +1510,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using lambdas as delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-lambdas-as-delegates?u=76281980)
+#### [Using lambdas as delegates](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-lambdas-as-delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,7 +1556,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-lambdas-as-delegates?u=76281980&t=107)** So this lambda is a statement lambda, and you can see that because there's curly braces that contain my expression here.
 >
-> **[1:53](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-lambdas-as-delegates?u=76281980&t=113)** And the rest of the code is the same as the previous events example, where we read the input from the user until they type in the string exit.
+> **[1:53](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-lambdas-as-delegates?u=76281980&t=113)** And the [[Representational State Transfer (REST)|rest]] of the code is the same as the previous events example, where we read the input from the user until they type in the string exit.
 >
 > **[2:02](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-lambdas-as-delegates?u=76281980&t=122)** So let's go ahead and run our updated code.
 >
@@ -1610,8 +1590,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Programming lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-lambdas?u=76281980)
+#### [Challenge: Programming lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/challenge-programming-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,13 +1622,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (chiming music) (1)
 
-#### Solution: Programming lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-lambdas?u=76281980)
+#### [Solution: Programming lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/solution-programming-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,8 +1672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go next
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/where-to-go-next?u=76281980)
+#### [Where to go next](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/where-to-go-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1730,7 +1706,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (2)
 > **Env Vars:** net (6)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

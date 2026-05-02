@@ -99,18 +99,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear algebra the building block of ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980)
+#### [Linear algebra the building block of ML](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=0)** - Have you ever wondered what happens under the hood of machine learning algorithms from images, speech recognition, trading algorithms to medical system diagnosis, all the way to the self-driving cars?
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=0)** - Have you ever wondered what happens under the hood of machine learning [[Algorithms]] from images, [[Speech Recognition]], trading algorithms to medical system diagnosis, all the way to the self-driving cars?
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=11)** Machine learning is not only the future, it's all around us.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=15)** You can quickly learn the tools of machine learning without understanding the underlying math.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=20)** At the beginning, you'll probably be successful, but without knowing the basics of linear algebra, you won't be able to understand the object being optimized, choose the proper hyperparameters, and develop a better model.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=20)** At the beginning, you'll probably be successful, but without knowing the basics of [[Linear Algebra]], you won't be able to understand the object being optimized, choose the proper hyperparameters, and develop a better model.
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980&t=32)** Linear algebra is the building block of machine learning.
 >
@@ -122,11 +121,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Algebra]] (3), [[Algorithms]] (2), [[Speech Recognition]] (1), ai (1), power (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (3), [[Algorithms]] (2), [[Speech Recognition]] (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,9 +132,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980&t=6)** In order to truly be successful in this course, it will be helpful to have a solid understanding of algebra and geometry.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980&t=15)** Basic Python programming knowledge will definitely help, though it's not strictly necessary.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980&t=15)** Basic [[Python (Programming Language)|Python]] programming knowledge will definitely help, though it's not strictly necessary.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980&t=22)** This course is focused on linear algebra capabilities and its applications in Python code.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980&t=22)** This course is focused on [[Linear Algebra]] capabilities and its applications in Python code.
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/what-you-should-know?u=76281980&t=29)** Our focus will be on the latest versions of Python 3.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linear Algebra]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linear Algebra]] (2)
 > **CLI Commands:** python (3), make (2)
 > **Tools:** jupyter (3), anaconda (1)
 > **Versions:** python 3 (1)
@@ -166,12 +164,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining linear algebra
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980)
+#### [Defining linear algebra](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=0)** - [Instructor] When you hear the term linear algebra, the first thing that comes to your mind is probably algebra and you have flashbacks of high school math.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=0)** - [Instructor] When you hear the term [[Linear Algebra]], the first thing that comes to your mind is probably algebra and you have flashbacks of high school math.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=10)** Hopefully, that sparks joy.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=19)** Despite having a similar name, linear algebra is not an advanced or applied version of algebra.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=27)** Mathematicians sometimes become furious when people mix these two areas of mathematics, just as software developers are not keen on people mixing Java with JavaScript.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=27)** Mathematicians sometimes become furious when people mix these two areas of mathematics, just as software developers are not keen on people mixing [[Java]] with [[JavaScript]].
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980&t=39)** Algebra is a branch of mathematics in which arithmetical operations and formal manipulations are applied to abstract symbols rather than specific numbers.
 >
@@ -213,22 +210,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Algebra]] (8), data (3), [[Java]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (8), [[Java]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Applications of linear algebra in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980)
+#### [Applications of linear algebra in ML](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=0)** - [Instructor] Linear algebra is one of the main building blocks of machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=0)** - [Instructor] [[Linear Algebra]] is one of the main building blocks of machine learning.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=5)** At its base, it is a study of vectors, matrices, and linear functions.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=10)** So you have to be familiar with vectors, matrices, and their characteristics, as you're going to deal with them in ML.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=17)** What about machine learning algorithms?
+> **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=17)** What about machine learning [[Algorithms]]?
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=21)** Without knowing linear algebra, you cannot understand them and therefore cannot change and improve them.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=50)** Images and photographs.
 >
-> **[0:53](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=53)** If you're working on a computer vision application, then you're dealing with images or photographs.
+> **[0:53](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=53)** If you're working on a [[Computer Vision]] application, then you're dealing with images or photographs.
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=59)** In this case, you cannot send an image to a model and expect it to understand it.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=83)** Each operation that is performed on the image from cropping, scaling, et cetera, is described using the notation and operations of linear algebra.
 >
-> **[1:34](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=94)** Data preparation.
+> **[1:34](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=94)** [[Data Preparation]].
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=96)** Data preparation, such as dimensionality reduction and one hot encoding requires linear algebra.
 >
@@ -272,7 +268,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=138)** It is common to encode categorical variables to make them easier to work with.
 >
-> **[2:24](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=144)** Linear regression.
+> **[2:24](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=144)** [[Linear Regression]].
 >
 > **[2:26](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=146)** It is usually used in machine learning for predicting numerical values in simple regression problems.
 >
@@ -302,19 +298,19 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=237)** Latent semantic analysis.
 >
-> **[4:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=240)** LSA is a form of data preparation used in natural language processing, a subfield of machine learning for working with text data.
+> **[4:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=240)** LSA is a form of data preparation used in [[Natural Language Processing (NLP)|natural language processing]], a subfield of machine learning for working with text data.
 >
-> **[4:10](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=250)** In this case, documents are usually represented as a large matrices of word occurrences.
+> **[4:10](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=250)** In this case, documents are usually represented as a large matrices of [[Microsoft Word|word]] occurrences.
 >
 > **[4:17](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=257)** Then we can apply matrix factorization methods to them in order to be able to easily compare, query, and use them as the basis for the ML model.
 >
 > **[4:28](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=268)** Recommender systems.
 >
-> **[4:30](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=270)** Recommender systems are predictive modeling problems that involve the recommendation of products.
+> **[4:30](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=270)** Recommender systems are [[Predictive Modeling]] problems that involve the recommendation of [[Microsoft Products|products]].
 >
 > **[4:38](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=278)** They are used each time you buy something on Amazon or a similar shop and you get recommendations of products based on your previous purchases.
 >
-> **[4:48](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=288)** Deep learning.
+> **[4:48](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=288)** [[Deep Learning]].
 >
 > **[4:50](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/applications-of-linear-algebra-in-ml?u=76281980&t=290)** Deep learning is a specific subfield of machine learning.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Linear Algebra]] (6), [[Linear Regression]] (3), [[Deep Learning]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Linear Algebra]] (6), [[Data Preparation]] (3), [[Linear Regression]] (3), [[Deep Learning]] (3), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (6)
 > **Env Vars:** rgb (1), pca (1), lsa (1)
 > **Analogies:** such as (2), for example (1)
@@ -334,12 +330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980)
+#### [Introduction to vectors](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=0)** - [Instructor] When we began our journey into the unknown land of linear algebra, we mentioned a few terms, vectors and matrices, without even explaining what they are and why they're important.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=0)** - [Instructor] When we began our journey into the unknown land of [[Linear Algebra]], we mentioned a few terms, vectors and matrices, without even explaining what they are and why they're important.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=13)** Let's start from the basics.
 >
@@ -389,7 +384,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=141)** But when performing arithmetic operations it's extremely important, since the wrong orientation leads to unexpected results or even errors.
 >
-> **[2:32](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=152)** The dimensionality in linear algebra, the number of elements in the vector, is called the length or the shape of the vector in Python.
+> **[2:32](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=152)** The dimensionality in linear algebra, the number of elements in the vector, is called the length or the shape of the vector in [[Python (Programming Language)|Python]].
 >
 > **[2:40](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980&t=160)** We have a convention in linear algebra that assumes vectors are column oriented.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Algebra]] (4), [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Linear Algebra]] (4), [[Python (Programming Language)|Python]] (3)
 > **Definitions:** is a  (4), is an  (2), is called (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **CLI Commands:** python (3)
@@ -437,12 +432,11 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vector arithmetic
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/vector-arithmetic-25657740?u=76281980)
+#### [Vector arithmetic](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/vector-arithmetic-25657740?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/vector-arithmetic-25657740?u=76281980&t=0)** - [Instructor] Arithmetic operations in linear algebra are simple and intuitive, so let's jump right into it.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/vector-arithmetic-25657740?u=76281980&t=0)** - [Instructor] Arithmetic operations in [[Linear Algebra]] are simple and intuitive, so let's jump right into it.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/vector-arithmetic-25657740?u=76281980&t=7)** We'll start with addition.
 >
@@ -516,14 +510,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Linear Algebra]] (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1)
 > **Code Identifiers:** list_as_array (2)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coordinate system
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/coordinate-system?u=76281980)
+#### [Coordinate system](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/coordinate-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,8 +583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dot product of vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980)
+#### [Dot product of vectors](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=18)** In the core of this calculation is a dot product of two vectors.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=22)** It is widely used in machine learning, as it is used in many operations and algorithms.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=22)** It is widely used in machine learning, as it is used in many operations and [[Algorithms]].
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=29)** There are three different ways it can be represented with symbols.
 >
@@ -617,7 +609,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=65)** If you have two vectors, a, whose elements are integers from 1 to 5, and vector b, whose elements are integers from 6 to 10, then their dot product is calculated by multiplying first element of vector a with the first element the vector b, and then the second elements up to the fifth elements.
 >
-> **[1:26](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=86)** And finally, we have to sum over all the individual products.
+> **[1:26](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=86)** And finally, we have to sum over all the individual [[Microsoft Products|products]].
 >
 > **[1:31](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980&t=91)** Let's head into our Jupyter notebook where we have already imported NumPy as np.
 >
@@ -645,15 +637,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Algorithms]] (1), ai (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** first_result (1), second_result (1)
 > **Definitions:** is a  (2)
 > **Tools:** jupyter (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Scalar and vector projection
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/scalar-and-vector-projection-25655798?u=76281980)
+#### [Scalar and vector projection](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/scalar-and-vector-projection-25655798?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,14 +698,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [narrator] (1)
 
-#### Changing basis of vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/changing-basis-of-vectors?u=76281980)
+#### [Changing basis of vectors](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/changing-basis-of-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,13 +787,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - numerous (1)
 
-#### Basis, linear independence, and span
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/basis-linear-independence-and-span?u=76281980)
+#### [Basis, linear independence, and span](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/basis-linear-independence-and-span?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,8 +857,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Matrices introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980)
+#### [Matrices introduction](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,20 +909,19 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980&t=135)** The second row would begin with a, two, one until a, two, n, and up until the last row that would begin with element a m, one and end with element a m, n.
 >
-> **[2:28](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980&t=148)** In Python, just as in any other programming languages, arrays start from zero rather than one.
+> **[2:28](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980&t=148)** In [[Python (Programming Language)|Python]], just as in any other programming languages, arrays start from zero rather than one.
 >
 > **[2:35](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980&t=155)** So our matrix would begin with element a, zero, zero and end with element a, m minus one, n minus one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Types of matrices
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/types-of-matrices?u=76281980)
+#### [Types of matrices](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/types-of-matrices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,12 +983,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (6), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of matrix transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/types-of-matrix-transformation-25659096?u=76281980)
+#### [Types of matrix transformation](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/types-of-matrix-transformation-25659096?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,19 +1036,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Composition or combination of matrix transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/composition-or-combination-of-matrix-transformations?u=76281980)
+#### [Composition or combination of matrix transformations](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/composition-or-combination-of-matrix-transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/composition-or-combination-of-matrix-transformations?u=76281980&t=0)** - We have experienced basic linear transformations like rescaling, rotation, and inversion.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/composition-or-combination-of-matrix-transformations?u=76281980&t=7)** The great thing in linear algebra is that we can combine together any number of different linear transformations to get a new linear transformation.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/composition-or-combination-of-matrix-transformations?u=76281980&t=7)** The great thing in [[Linear Algebra]] is that we can combine together any number of different linear transformations to get a new linear transformation.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/composition-or-combination-of-matrix-transformations?u=76281980&t=17)** We call it Composition of Linear Transformation.
 >
@@ -1109,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Linear Algebra]] (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
@@ -1119,8 +1100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solving linear equations using Gaussian elimination
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/solving-linear-equations-using-gaussian-elimination?u=76281980)
+#### [Solving linear equations using Gaussian elimination](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/solving-linear-equations-using-gaussian-elimination?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,13 +1182,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Definitions:** is called (2), is a  (1), known as (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gaussian elimination and finding the inverse matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gaussian-elimination-and-finding-the-inverse-matrix?u=76281980)
+#### [Gaussian elimination and finding the inverse matrix](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gaussian-elimination-and-finding-the-inverse-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,7 +1194,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gaussian-elimination-and-finding-the-inverse-matrix?u=76281980&t=4)** Two of the most applied techniques are elimination method and substitution method.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gaussian-elimination-and-finding-the-inverse-matrix?u=76281980&t=10)** However, in linear algebra, we have a different technique using matrix inversion.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gaussian-elimination-and-finding-the-inverse-matrix?u=76281980&t=10)** However, in [[Linear Algebra]], we have a different technique using matrix inversion.
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gaussian-elimination-and-finding-the-inverse-matrix?u=76281980&t=16)** It is a convenient method for solving a system of linear equations.
 >
@@ -1266,13 +1244,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Linear Algebra]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inverse and determinant
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/inverse-and-determinant?u=76281980)
+#### [Inverse and determinant](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/inverse-and-determinant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,7 +1303,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** deta (3), detb (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1338,8 +1314,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Matrices changing basis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-changing-basis?u=76281980)
+#### [Matrices changing basis](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-changing-basis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,14 +1354,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming to the new basis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/transforming-to-the-new-basis?u=76281980)
+#### [Transforming to the new basis](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/transforming-to-the-new-basis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1440,8 +1413,7 @@ created: 2026-05-02
 > **CLI Commands:** rm (2)
 > **Speakers:** - [instructor] (1)
 
-#### Orthogonal matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/orthogonal-matrix?u=76281980)
+#### [Orthogonal matrix](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/orthogonal-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,14 +1459,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gram–Schmidt process
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gram-schmidt-process?u=76281980)
+#### [Gram–Schmidt process](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/gram-schmidt-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,7 +1532,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), next (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
@@ -1573,8 +1542,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to eigenvalues and eigenvectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-eigenvalues-and-eigenvectors?u=76281980)
+#### [Introduction to eigenvalues and eigenvectors](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-eigenvalues-and-eigenvectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,18 +1592,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2), is called (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating eigenvalues and eigenvectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/calculating-eigenvalues-and-eigenvectors?u=76281980)
+#### [Calculating eigenvalues and eigenvectors](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/calculating-eigenvalues-and-eigenvectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/calculating-eigenvalues-and-eigenvectors?u=76281980&t=0)** - [Instructor] In the complex world of linear algebra, sometimes we discover simple, straight-away techniques that help us solve equations.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/calculating-eigenvalues-and-eigenvectors?u=76281980&t=0)** - [Instructor] In the complex world of [[Linear Algebra]], sometimes we discover simple, straight-away techniques that help us solve equations.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/calculating-eigenvalues-and-eigenvectors?u=76281980&t=9)** One of those equations is A multiplied by v equals lambda multiplied by v.
 >
@@ -1685,14 +1651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Algebra]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** psa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing to the eigenbasis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/changing-to-the-eigenbasis?u=76281980)
+#### [Changing to the eigenbasis](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/changing-to-the-eigenbasis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1756,18 +1721,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11)
 > **Definitions:** is a  (4), is an  (2), basically means (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google PageRank algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980)
+#### [Google PageRank algorithm](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=0)** - [Instructor] PageRank is the core of the Google search engine algorithm.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=0)** - [Instructor] PageRank is the core of the [[Google]] search engine algorithm.
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=4)** It is synonymous for link popularity, link value, link equity, and authority.
 >
@@ -1779,7 +1742,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=29)** The most important part of the PageRank algorithm is to discover the best way to calculate the importance of each page that is returned by the query results.
 >
-> **[0:40](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=40)** We have to calculate the probability.
+> **[0:40](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=40)** We have to calculate the [[Probability]].
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=42)** This is a number from zero to one that can quantify the importance of a particular page.
 >
@@ -1833,11 +1796,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=219)** That can be done easily using eigenvalues and eigenvectors.
 >
-> **[3:44](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=224)** Now you have a brief understanding of one of the most useful algorithms called the PageRank algorithm and the importance of eigenvalues and eigenvectors in its implementation.
+> **[3:44](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/google-pagerank-algorithm?u=76281980&t=224)** Now you have a brief understanding of one of the most useful [[Algorithms]] called the PageRank algorithm and the importance of eigenvalues and eigenvectors in its implementation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), [[Google]] (3), [[Search]] (2), web (2), node (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Google]] (3), [[Algorithms]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** node (1), find (1)
 > **Cross-References:** earlier in (1)
@@ -1849,12 +1812,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=0)** - [Terezija] I hope you enjoyed the course and now have a solid foundation of linear algebra so you can continue your machine learning journey.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=0)** - [Terezija] I hope you enjoyed the course and now have a solid foundation of [[Linear Algebra]] so you can continue your machine learning journey.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=9)** A good next step would be to look in our library for more machine learning courses.
 >
@@ -1866,13 +1828,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=29)** If you enjoyed this course, I'd love to know.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=32)** If you have any questions, please feel free to get in touch over LinkedIn and on Twitter.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=32)** If you have any questions, please feel free to get in touch over [[LinkedIn]] and on Twitter.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980&t=37)** Until next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Linear Algebra]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [terezija] (1)
 
 

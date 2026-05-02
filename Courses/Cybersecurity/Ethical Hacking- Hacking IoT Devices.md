@@ -96,16 +96,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hacking IoT and OT systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980)
+#### [Hacking IoT and OT systems](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980&t=0)** - [Lisa] The Internet of Things represents a world where billions of devices, such as automobiles, watches, and building automation are all sensing and reacting, talking to us and to each other.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980&t=0)** - [Lisa] The [[IoT|Internet of Things]] represents a world where billions of devices, such as automobiles, watches, and building automation are all sensing and reacting, talking to us and to each other.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980&t=15)** However, along with the benefits comes the challenge of defending against cyber threats that are capable of causing physical damage to industrial equipment and can lead to devastating results.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980&t=30)** In this course, you'll learn the many issues that plague the IoT and operational technology devices, along with ways malicious actors can launch attacks.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980&t=30)** In this course, you'll learn the many issues that plague the [[IoT]] and operational technology devices, along with ways malicious actors can launch attacks.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980&t=41)** Hello, my name is Lisa Bock, and I'm a security ambassador.
 >
@@ -113,16 +112,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Automation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)
 
-#### Getting the most from this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/getting-the-most-from-this-course?u=76281980)
+#### [Getting the most from this course](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/getting-the-most-from-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/getting-the-most-from-this-course?u=76281980&t=0)** - [Narrator] This course is a basic to intermediate course intended for anyone with an interest in learning more about ethical hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/getting-the-most-from-this-course?u=76281980&t=0)** - [Narrator] This course is a basic to intermediate course intended for anyone with an interest in learning more about [[Ethical Hacking]].
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/getting-the-most-from-this-course?u=76281980&t=10)** This course is part of the Ethical Hacking Series.
 >
@@ -147,12 +145,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-ethically?u=76281980&t=0)** - [Narrator] The goal of the Ethical Hacking Series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-ethically?u=76281980&t=0)** - [Narrator] The goal of the [[Ethical Hacking]] Series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-ethically?u=76281980&t=10)** I'll focus on the concepts of ethical hacking in order to explain why it's essential in any organization's overall security framework.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [narrator] (1)
 
 
@@ -172,14 +169,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining the IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980)
+#### [Defining the IoT](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=0)** - [Instructor] The Internet of Things represents billions of devices, collecting and exchanging data.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] represents billions of devices, collecting and exchanging data.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=7)** In this segment, we'll discover the components that make up the IoT.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=7)** In this segment, we'll discover the components that make up the [[IoT]].
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=13)** The Internet of Things has several elements that include devices, processes, data, infrastructure, and people.
 >
@@ -199,11 +195,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=91)** IoT devices gather data from humans to machine, from machine to machine, or machine to humans through sensors.
 >
-> **[1:42](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=102)** The data is then transmitted to a central gateway and then to the cloud, which can provide more advanced data processing.
+> **[1:42](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=102)** The data is then transmitted to a central gateway and then to the cloud, which can provide more advanced [[Data Processing]].
 >
 > **[1:52](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=112)** The IoT infrastructure is the underlying technology and systems that enables the operation of IoT devices and applications.
 >
-> **[2:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=123)** The infrastructure includes hardware components such as sensors, gateways, and servers, along with software components such as operating systems, platforms, and cloud services.
+> **[2:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=123)** The infrastructure includes [[Hardware]] components such as sensors, gateways, and servers, along with software components such as operating systems, platforms, and [[Cloud Services]].
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980&t=137)** People are what drives the Internet of Things and includes consumers, businesses, and governments, which use the devices in their homes, cars, cities, and buildings.
 >
@@ -223,23 +219,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[IoT]] (7), [[Internet of Things (IoT)|Internet of things]] (5), cloud (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[IoT|Internet of things]] (5), [[Data Processing]] (1), [[Hardware]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (4), similar to (1), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ooda (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gathering data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980)
+#### [Gathering data](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980&t=0)** - [Instructor] IoT devices collect and communicate information.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980&t=0)** - [Instructor] [[IoT]] devices collect and communicate information.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980&t=5)** In this segment, we'll discover the basic construct of an IoT device, and learn how controllers make decisions based on the information they gather.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980&t=15)** Much of the innovation on the Internet of Things relies on the millions of low-powered sensors that monitor processes, gather data, and communicate to other devices, and data repositories.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980&t=15)** Much of the innovation on the [[IoT|Internet of Things]] relies on the millions of low-powered sensors that monitor processes, gather data, and communicate to other devices, and data repositories.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-data?u=76281980&t=31)** If we look at a sensor node as shown in this graphic, we commonly see the following.
 >
@@ -285,18 +280,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), data (4), node (2), power (2), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (1)
 > **CLI Commands:** make (5), node (2)
 > **Analogies:** for example (2)
 > **Env Vars:** iot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exchanging information
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980)
+#### [Exchanging information](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=0)** - [Instructor] The IoT has many protocols that are used to exchange data.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=0)** - [Instructor] The [[IoT]] has many protocols that are used to exchange data.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=6)** In this segment, we'll explore protocols such as Bluetooth, ZigBee, and 6LoWPAN that are instrumental in moving data in the IoT.
 >
@@ -332,7 +326,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=198)** ZigBee is owned and controlled by a consortium and is built on the IEEE 802.15.4 standard.
 >
-> **[3:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=209)** Developers use ZigBee in personal or home area networks or in a wireless mesh for long range networks.
+> **[3:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=209)** Developers use ZigBee in personal or home area networks or in a wireless [[Mesh]] for long range networks.
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/exchanging-information?u=76281980&t=219)** Bluetooth is a commonly used protocol to exchange data between devices that are in close range, such as a Bluetooth enabled headset and a phone.
 >
@@ -344,15 +338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (9), data (6), [[Automation]] (1), power (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[IoT]] (9), [[Mesh]] (1)
 > **Env Vars:** tcp (2), mtu (1), ieee (1), nfc (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 802.15.4 (3)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Enemybot
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/challenge-enemybot?u=76281980)
+#### [Challenge: Enemybot](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/challenge-enemybot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -382,8 +375,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Enemybot
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980)
+#### [Solution: Enemybot](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=13)** So first, what is Enemybot and how does it infect devices?
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=18)** Enemybot is a Mirai-based botnet malware that infects devices through vulnerabilities in modems, routers, and IoT devices.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=18)** Enemybot is a Mirai-based botnet malware that infects devices through vulnerabilities in modems, routers, and [[IoT]] devices.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=30)** What makes mapping and taking down Enemybot's command and control server challenging?
 >
@@ -427,15 +419,15 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=159)** So how can users prevent Enemybot or other botnets from infecting their devices?
 >
-> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=166)** Well, you should keep your software and firmware updated, change your default credentials, use strong passwords, enable network security features, and disable any unnecessary services.
+> **[2:46](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=166)** Well, you should keep your software and firmware updated, change your default credentials, use strong passwords, enable [[Network Security]] features, and disable any unnecessary services.
 >
-> **[3:02](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=182)** So the bottom line is before purchasing or installing IoT devices, research the manufacturer's security practices and ensure that they have a good track record of providing updates and patches for their products.
+> **[3:02](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=182)** So the bottom line is before purchasing or installing IoT devices, research the manufacturer's security practices and ensure that they have a good track record of providing updates and patches for their [[Microsoft Products|products]].
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-enemybot?u=76281980&t=198)** I hope you enjoyed this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (3), dns (2), game (1), [[Network Security]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Network Security]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** dns (2), http (2), ark (2), ovh (2), udp (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -447,12 +439,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outlining IoT threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980)
+#### [Outlining IoT threats](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=0)** - [Instructor] Malicious actors are constantly launching attacks and attempting to exploit IoT vulnerabilities.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=0)** - [Instructor] Malicious actors are constantly launching attacks and attempting to exploit [[IoT]] vulnerabilities.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=8)** In this segment, we'll discuss IoT threats and security issues that can allow malicious actors to gain access to a device.
 >
@@ -486,17 +477,17 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=151)** Many IoT devices have low power and minimal memory and don't have sufficient resources for traditional security methods.
 >
-> **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=160)** We must also be aware of the issues that can impact privacy.
+> **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=160)** We must also be aware of the issues that can impact [[Privacy]].
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=165)** IoT devices often collect and transmit sensitive data.
 >
-> **[2:51](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=171)** Inadequate encryption, insecure data storage, or data leaks can compromise the privacy of users and organizations.
+> **[2:51](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=171)** Inadequate encryption, insecure [[Data Storage]], or data leaks can compromise the privacy of users and organizations.
 >
 > **[3:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=180)** IoT devices with cameras or microphones can be exploited to invade individuals' privacy by unauthorized monitoring or recording.
 >
-> **[3:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=191)** The reality is that when the concept of the Internet of Things was first developed, enterprise security methods were not taken into consideration.
+> **[3:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=191)** The reality is that when the concept of the [[IoT|Internet of Things]] was first developed, enterprise security methods were not taken into consideration.
 >
-> **[3:22](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=202)** The cost of making a smart device is a relatively small expense, and manufacturers are rushing IoT products to the market.
+> **[3:22](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=202)** The cost of making a smart device is a relatively small expense, and manufacturers are rushing IoT [[Microsoft Products|products]] to the market.
 >
 > **[3:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980&t=211)** If we don't start addressing security issues and test IoT devices for vulnerabilities, there is a huge potential for a cyber attack.
 >
@@ -508,25 +499,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (15), [[Security]] (7), data (4), [[Privacy]] (3), power (1)
+> **Frameworks & Libraries:** [[IoT]] (15), [[Privacy]] (3), [[Data Storage]] (1), [[IoT|Internet of things]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying OWASP IoT Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980)
+#### [Identifying OWASP IoT Top 10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=0)** - [Instructor] The Open Web Application Security Project, or OWASP provides continuous research on common vulnerabilities.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=0)** - [Instructor] The Open [[Web Application Security]] Project, or [[OWASP]] provides continuous research on common vulnerabilities.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=9)** In this segment, we'll learn how OWASP can help us understand the common IOT vulnerabilities across multiple attacks surfaces.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=9)** In this segment, we'll learn how OWASP can help us understand the common [[IoT]] vulnerabilities across multiple attacks surfaces.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=21)** First, let's start by outlining the concept of an attack surface.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=27)** An attack surface represents any known or unknown weakness across an entry point such as software, hardware, network, and users.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=27)** An attack surface represents any known or unknown weakness across an entry point such as software, [[Hardware]], network, and users.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=40)** With the internet of everything, the attack surface will continue to grow, and all attack surfaces must be monitored.
 >
@@ -538,7 +528,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=75)** Now that we understand what's at stake, let's visit the OWASP website where we can explore the many ways that the organization provides updates and continuous research on common vulnerabilities.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=89)** In addition, OWASP provides a range of resources to help us learn about security and privacy best practices.
+> **[1:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=89)** In addition, OWASP provides a range of resources to help us learn about security and [[Privacy]] best practices.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=99)** One of the resources is the IOT Top 10 list, which is a list of the most common IOT vulnerabilities.
 >
@@ -566,7 +556,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=192)** Best practices include, make sure IOT devices and systems are updated with the latest security patches and firmware updates.
 >
-> **[3:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=203)** Implement strong authentication and authorization methods including two-factor authentication when possible, use encryption to protect data in transit and at rest.
+> **[3:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=203)** Implement strong authentication and authorization methods including two-factor authentication when possible, use encryption to protect data in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[3:37](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/identifying-owasp-iot-top-10?u=76281980&t=217)** Properly configure the device and disable any unnecessary services and protocols, and employ physical security measures such as locking cabinets and secure mounting.
 >
@@ -578,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[Security]] (5), [[OWASP]] (5), data (2), web application (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[OWASP]] (5), [[Web Application Security]] (1), [[Hardware]] (1), [[Privacy]] (1)
 > **Env Vars:** iot (10), owasp (5)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -586,12 +576,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing IoT attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980)
+#### [Reviewing IoT attacks](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=0)** - [Instructor] Testing indicates that approximately 25% of IOT devices have vulnerabilities, which can lead to an attack.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=0)** - [Instructor] Testing indicates that approximately 25% of [[IoT]] devices have vulnerabilities, which can lead to an attack.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=9)** In this segment, we'll explore IOT security attacks, which can lead to more extensive incidents such as DDoS attacks, botnets, and supply chain breaches.
 >
@@ -625,7 +614,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=121)** IOT threats are real as they can lead to botnet recruitment.
 >
-> **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=127)** Now, IOT devices are often targeted for inclusion in botnets, which can be used for various cyber criminal activities, such as spamming, cryptocurrency mining, or further attacks.
+> **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=127)** Now, IOT devices are often targeted for inclusion in botnets, which can be used for various cyber criminal activities, such as spamming, [[Cryptocurrency]] mining, or further attacks.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/reviewing-iot-attacks?u=76281980&t=141)** IOT botnets can then be harnessed for large scale distributed denial of service attacks.
 >
@@ -649,13 +638,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (14), [[Security]] (2), application (1), [[Cryptocurrency]] (1), data (1)
+> **Frameworks & Libraries:** [[IoT]] (14), [[Cryptocurrency]] (1)
 > **Env Vars:** iot (14)
 > **Analogies:** such as (4), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: INDUSTROYER.V2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/challenge-industroyer-v2?u=76281980)
+#### [Challenge: INDUSTROYER.V2](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/challenge-industroyer-v2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,8 +683,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: INDUSTROYER.V2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980)
+#### [Solution: INDUSTROYER.V2](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +747,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=237)** Secure your supply chains and provide business continuity planning.
 >
-> **[4:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=243)** That includes managing incident response capabilities and ensuring operational redundancy.
+> **[4:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=243)** That includes managing [[Incident Response]] capabilities and ensuring operational redundancy.
 >
 > **[4:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/solution-industroyer-v2?u=76281980&t=251)** And finally, restrict network access with zero trust policies.
 >
@@ -774,7 +761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), next (3), [[Security]] (2), business (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1)
 > **Env Vars:** industroyer (9), scada (2), crashoverride (1)
 > **UI Navigation:** go to (4), scroll down (2), click on (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -788,12 +775,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing IoT hacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980)
+#### [Describing IoT hacking](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=0)** - [Instructor] IoT Device hacking involves exploiting vulnerabilities to alter the integrity of an IoT device.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=0)** - [Instructor] [[IoT]] Device hacking involves exploiting vulnerabilities to alter the integrity of an IoT device.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=9)** In this segment, we'll learn the steps the ethical hacker can use to gain access to control and or manipulate an IoT device.
 >
@@ -801,7 +787,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=24)** IoT devices are plagued with multiple vulnerabilities.
 >
-> **[0:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=28)** An ethical hacking exercise is an effective step that we can take to see what vulnerabilities malicious actors can exploit.
+> **[0:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=28)** An [[Ethical Hacking]] exercise is an effective step that we can take to see what vulnerabilities malicious actors can exploit.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=38)** The general scenario for IoT hacking will generally follow a process and will move through several phases that is similar to any ethical hacking exercise.
 >
@@ -811,9 +797,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=59)** Now this is where we'll identify the target and then gather as much as we can about the target, including make and model, software version, and any known vulnerabilities.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=72)** In addition, it's common to search for public information about the device, such as technical documentation, user manuals, or firmware images available online.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=72)** In addition, it's common to search for public information about the device, such as [[Technical Documentation]], user manuals, or firmware images available online.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=85)** Phase two involves scanning using automated scanning tools or manual testing, the team will search for open ports, services, and vulnerabilities on the target device.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=85)** Phase two involves scanning using automated scanning tools or [[Manual Testing]], the team will search for open ports, services, and vulnerabilities on the target device.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980&t=98)** Common vulnerabilities include weak or default passwords, outdated firmware, unpatched software, and insecure network configurations.
 >
@@ -845,7 +831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (6), [[Ethical Hacking]] (2), [[Search]] (2), [[Technical Documentation]] (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Ethical Hacking]] (2), [[Technical Documentation]] (1), [[Manual Testing]] (1)
 > **Best Practices:** the key is (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -854,12 +840,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gathering Intel on IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980)
+#### [Gathering Intel on IoT devices](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=1)** - [Instructor] To launch an attack on an IoT device, the team must first learn about the devices on the network.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=1)** - [Instructor] To launch an attack on an [[IoT]] device, the team must first learn about the devices on the network.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=8)** In this segment, we'll discover information gathering techniques and tools such as MultiPing and FCC ID search to assess and learn about local and remote IoT devices on the network.
 >
@@ -867,7 +852,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=34)** A few goals at this stage is to see what devices are on the network, and then once identified, take steps to learn more about the devices.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=45)** The team can begin by conducting a ping sweep using tools such as MultiPing, Nmap, and PRTG Network Monitor.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=45)** The team can begin by conducting a ping sweep using tools such as MultiPing, [[Nmap]], and PRTG Network Monitor.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=56)** A ping sweep will send probes to multiple hosts simultaneously to identify live hosts and then report on what devices are awake and listening.
 >
@@ -881,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=99)** In large scale IoT deployments such as industrial or smart city applications, continuous pinging of numerous devices can contribute to network congestion.
 >
-> **[1:52](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=112)** This can then result in delays in data transmission and potentially hinder the real-time capabilities of IoT systems.
+> **[1:52](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=112)** This can then result in delays in data transmission and potentially hinder the [[Real-Time]] capabilities of IoT systems.
 >
 > **[2:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gathering-intel-on-iot-devices?u=76281980&t=123)** Now once the team identifies the listening devices, the team will need to gather information on the various IoT devices to see if they can compromise the integrity of the device.
 >
@@ -937,7 +922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Search]] (5), [[Security]] (2), power (1), data (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Nmap]] (1), [[Real-Time]] (1)
 > **Env Vars:** fcc (8), prtg (1)
 > **Analogies:** such as (4), for example (1)
 > **URLs:** [fcc.gov](https://fcc.gov) (1), [fccid.io](https://fccid.io) (1)
@@ -945,18 +930,17 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating IoT vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980)
+#### [Evaluating IoT vulnerabilities](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=0)** - [Instructor] A vulnerability is a flaw in a system that a malicious actor can exploit in order to gain unauthorized access to an asset.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=11)** In this segment, we'll outline tools and techniques used to uncover IoT vulnerabilities and reduce the risk of an attack.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=11)** In this segment, we'll outline tools and techniques used to uncover [[IoT]] vulnerabilities and reduce the risk of an attack.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=21)** Today, businesses and consumers are recognizing the value of integrating IoT products and systems into their infrastructure and homes, but are they secure?
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=21)** Today, businesses and consumers are recognizing the value of integrating IoT [[Microsoft Products|products]] and systems into their infrastructure and homes, but are they secure?
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=34)** When dealing with the IoT, the potential for cyberattacks along with compromising privacy is increasing due to gaping vulnerabilities found within many different types of devices.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=34)** When dealing with the IoT, the potential for cyberattacks along with compromising [[Privacy]] is increasing due to gaping vulnerabilities found within many different types of devices.
 >
 > **[0:50](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=50)** Researchers have scanned the internet and found hundreds of thousands of vulnerable IoT devices, which can pose serious security risks.
 >
@@ -966,13 +950,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=77)** Hard-coded configurations can occur as well, such as the device having backdoor access or configured to phone home as soon as the device is activated.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=89)** Many times we see outdated firmware and hardware.
+> **[1:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=89)** Many times we see outdated firmware and [[Hardware]].
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=94)** Many IoT devices do not ever receive updates to the system.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=99)** And even if an update is available, the device may not have an option to automatically update.
 >
-> **[1:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=107)** And there's poorly designed code which can lead to an attack, and that can include buffer overflows, SQL injection, SYN flood, and privilege escalation.
+> **[1:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=107)** And there's poorly designed code which can lead to an attack, and that can include buffer overflows, [[SQL]] injection, SYN flood, and privilege escalation.
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=120)** For these reasons, it's essential to test IoT devices for vulnerabilities.
 >
@@ -980,7 +964,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=136)** Commonly, the team will use apps that can help you identify known vulnerabilities in the devices, the communication methods used, along with the interfaces on the device.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=149)** Tools include Nessus, OpenVAS, Nmap, IoT protocol analyzers, or specialized or proprietary tools.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=149)** Tools include Nessus, OpenVAS, [[Nmap]], IoT protocol analyzers, or specialized or proprietary tools.
 >
 > **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=160)** I'd like to show you a few examples.
 >
@@ -1004,7 +988,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=250)** And here I'll go to this page and it talks about Fing.
 >
-> **[4:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=253)** Fing is a popular network scanning app that can help identify devices on your network and then provide information about communication protocols and interfaces, and it can be used with both Android and iOS.
+> **[4:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=253)** Fing is a popular network scanning app that can help identify devices on your network and then provide information about communication protocols and interfaces, and it can be used with both [[Android]] and iOS.
 >
 > **[4:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=269)** And I'm going to just scroll down here because it talks about the router vulnerability check.
 >
@@ -1028,7 +1012,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=363)** And here we see that port 80 is closed, and you can check any of the other common ports if you like.
 >
-> **[6:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=370)** The one thing to keep in mind is that sometimes vulnerabilities are not detected by automated scanners, so the team may have to conduct manual testing to interact with the devices through their interfaces.
+> **[6:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=370)** The one thing to keep in mind is that sometimes vulnerabilities are not detected by automated scanners, so the team may have to conduct [[Manual Testing]] to interact with the devices through their interfaces.
 >
 > **[6:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/evaluating-iot-vulnerabilities?u=76281980&t=387)** Now let's test your knowledge.
 >
@@ -1038,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), [[Security]] (3), [[Android]] (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Nmap]] (5), [[Android]] (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **UI Navigation:** scroll down (4), go to (3)
 > **Env Vars:** sql (1), syn (1), api (1), cve (1), nse (1)
 > **Definitions:** is a  (3), is an  (2)
@@ -1047,12 +1031,11 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **URLs:** [nmap.org](https://nmap.org) (1)
 
-#### Attacking IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980)
+#### [Attacking IoT devices](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=0)** - [Narrator] Once the team identifies the vulnerabilities of an IoT device, the next logical step is to attempt an attack.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=0)** - [Narrator] Once the team identifies the vulnerabilities of an [[IoT]] device, the next logical step is to attempt an attack.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=10)** In this segment, we'll discuss attacks on IoT devices, such as side-channel, BlueBorne, and replay attacks.
 >
@@ -1060,7 +1043,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=26)** That include insecure design and implementation and a rapidly evolving threat landscape.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=35)** So let's talk about some examples of attacks that can cripple or take control of a device using one or more software and hardware tools and frameworks.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=35)** So let's talk about some examples of attacks that can cripple or take control of a device using one or more software and [[Hardware]] tools and frameworks.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/attacking-iot-devices?u=76281980&t=47)** One type of attack is a side-channel attack, which targets physical vulnerabilities.
 >
@@ -1118,18 +1101,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (4), next (1), [[Hardware]] (1), power (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Hardware]] (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Gaining access to an IoT device
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980)
+#### [Gaining access to an IoT device](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=0)** - [Tutor] To alter the behavior of an IoT device, the team will need a method to get in and interact with the device.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=0)** - [Tutor] To alter the behavior of an [[IoT]] device, the team will need a method to get in and interact with the device.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=9)** In this segment, we'll outline ways to gain and maintain access to an IoT device.
 >
@@ -1141,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=48)** So let's talk about a few ways that you can gain access to a device.
 >
-> **[0:53](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=53)** NAND Glitching is a hardware attack technique used to manipulate NAND flash memory chips by applying voltage glitches or timing attacks to disrupt the normal functioning.
+> **[0:53](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=53)** NAND Glitching is a [[Hardware]] attack technique used to manipulate NAND flash memory chips by applying voltage glitches or timing attacks to disrupt the normal functioning.
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/gaining-access-to-an-iot-device?u=76281980&t=66)** This can potentially cause the device to enter an unstable state where it can be read or written to in unintentional ways.
 >
@@ -1179,7 +1161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (2), [[Hardware]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Hardware]] (2)
 > **Env Vars:** nand (2), sdr (2), rtl (1)
 > **Definitions:** is a  (5)
 > **Ports:** port 23 (1), port 2323 (1)
@@ -1192,8 +1174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing OT
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980)
+#### [Describing OT](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,15 +1192,15 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=54)** The first subset is industrial control systems, which are used to control industrial and critical infrastructure assets.
 >
-> **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=64)** Another subset is SCADA, or supervisory control and data acquisition.
+> **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=64)** Another subset is SCADA, or supervisory control and [[Data Acquisition]].
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=70)** These systems are centralized systems that monitor and control processes and machinery that are used in industrial settings.
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=80)** Within the realm of operational technology systems, there are other industrial control systems and devices that include sensors, human-machine interfaces, programmable logic controls, and distributed control systems.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=99)** A related concept is the industrial internet of things, or Industry 4.0.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=99)** A related concept is the industrial [[IoT|internet of things]], or Industry 4.0.
 >
-> **[1:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=107)** The industrial internet of things is a compliment to an industrial control system as it merges the control functionality of the control systems with the data collecting ability of an IoT device.
+> **[1:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=107)** The industrial internet of things is a compliment to an industrial control system as it merges the control functionality of the control systems with the data collecting ability of an [[IoT]] device.
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=122)** Now, why is this beneficial?
 >
@@ -1235,7 +1216,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=176)** As more and more industrial control systems are becoming more connected, there is a greater opportunity for exploitation.
 >
-> **[3:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=186)** So now more than ever, it's essential to test the security of operational technology systems by conducting an ethical hacking exercise and mitigate weaknesses before any damage is done to our economy, public health, safety and security.
+> **[3:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=186)** So now more than ever, it's essential to test the security of operational technology systems by conducting an [[Ethical Hacking]] exercise and mitigate weaknesses before any damage is done to our economy, [[Public Health]], safety and security.
 >
 > **[3:24](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980&t=204)** Now, let's test your knowledge, discuss fundamental concepts, components, and principles of operational technology systems.
 >
@@ -1243,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), data (2), [[IoT]] (2), [[Security]] (2), power (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[IoT]] (2), [[Data Acquisition]] (1), [[Ethical Hacking]] (1), [[Public Health]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** scada (1), iot (1)
@@ -1251,8 +1232,7 @@ created: 2026-05-02
 > **Versions:** 4.0 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Listing ICS components
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980)
+#### [Listing ICS components](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,13 +1240,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=8)** In this segment, we'll discuss some of the components.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=12)** An ethical hacking exercise on an industrial control system is different than testing in an IT environment.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=12)** An [[Ethical Hacking]] exercise on an industrial control system is different than testing in an IT environment.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=21)** So that you understand the complexity of what you might need to test, I'll briefly describe some of the elements that you might find during testing.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=31)** First, let's talk about SCADA systems.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=34)** SCADA or supervisory control and data acquisition is a centralized system that monitors and controls processes and machinery used in industrial settings.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=34)** SCADA or supervisory control and [[Data Acquisition]] is a centralized system that monitors and controls processes and machinery used in industrial settings.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=47)** SCADA has multiple applications and runs behind the scenes in a variety of locations such as production systems, refineries, and supermarkets.
 >
@@ -1274,7 +1254,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=75)** In this graphic, we see how a network of controllers and computers work together to manage and automate tasks such as regulating temperature, pressure, flow, and other critical parameters.
 >
-> **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=90)** A programmable logic controller automates and controls machinery and processes in manufacturing and industrial applications.
+> **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=90)** A [[Programmable Logic Controller (PLC)|programmable logic controller]] automates and controls machinery and processes in manufacturing and industrial applications.
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/listing-ics-components?u=76281980&t=100)** It does this by executing logic-based tasks and monitoring inputs from sensors and switches, and then making decisions based on the input.
 >
@@ -1322,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (2), [[Automation]] (1), [[Ethical Hacking]] (1), [[Data Acquisition]] (1), power (1)
+> **Frameworks & Libraries:** [[Programmable Logic Controller (PLC)|Programmable logic controller]] (2), [[Ethical Hacking]] (1), [[Data Acquisition]] (1)
 > **Env Vars:** scada (4), plc (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
@@ -1330,8 +1310,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### OT technologies and protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980)
+#### [OT technologies and protocols](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1330,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=77)** Modbus includes three main protocol types, Modbus RTU for serial communication, Modbus ASCII for transmitting messages using ASCII characters, and Modbus TCP for ethernet-based communication.
 >
-> **[1:37](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=97)** PROFIBUS, or Process Field Bus, is another communication protocol that is often used for real-time control and monitoring applications in various industries, including manufacturing, chemical processing, and water treatment.
+> **[1:37](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=97)** PROFIBUS, or Process Field Bus, is another communication protocol that is often used for [[Real-Time]] control and monitoring applications in various industries, including manufacturing, chemical processing, and water treatment.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=115)** HART, or Highway Addressable Remote Transducer, is a hybrid communication protocol used in process industries for communication with field instruments, such as pressure transmitters, flow meters, and temperature sensors.
 >
@@ -1361,7 +1340,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=152)** OPC provides interoperability among different devices and software applications in the process control and automation field.
 >
-> **[2:43](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=163)** By using a client server configuration, devices and systems using OPC can easily exchange data.
+> **[2:43](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=163)** By using a client [[Server Configuration]], devices and systems using OPC can easily exchange data.
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/ot-technologies-and-protocols?u=76281980&t=172)** Now let's test your knowledge.
 >
@@ -1371,15 +1350,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Automation]] (2), [[Real-Time]] (2), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Server Configuration]] (1)
 > **Env Vars:** opc (4), profibus (3), hart (3), ole (2), ascii (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognizing the challenges of OT
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980)
+#### [Recognizing the challenges of OT](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,7 +1371,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=28)** Those include denial of service attacks, viruses and malware, social engineering, and physical attacks.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=40)** IoT and OT devices are notorious for their poor security and several major exploits have been seen in the wild.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=40)** [[IoT]] and OT devices are notorious for their poor security and several major exploits have been seen in the wild.
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/recognizing-the-challenges-of-ot?u=76281980&t=49)** Let's review some of the vulnerable components that can occur in operational technology systems that can be exploited by a malicious actor to gain access to the infrastructure.
 >
@@ -1451,17 +1429,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Security]] (2), [[Engineering]] (1), [[IoT]] (1), application (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using MITRE ATT&CK for ICS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/using-mitre-att-ck-for-ics?u=76281980)
+#### [Using MITRE ATT&CK for ICS](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/using-mitre-att-ck-for-ics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/using-mitre-att-ck-for-ics?u=76281980&t=0)** - [Instructor] Ethical hacking in an industrial control system environment can be overwhelming.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/using-mitre-att-ck-for-ics?u=76281980&t=0)** - [Instructor] [[Ethical Hacking]] in an industrial control system environment can be overwhelming.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/using-mitre-att-ck-for-ics?u=76281980&t=7)** In this segment, we'll outline how to use MITRE ATT&CK for Industrial Control Systems during an ethical hacking exercise.
 >
@@ -1527,7 +1504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (4)
 > **Env Vars:** mitre (7), att (7)
 > **UI Navigation:** scroll down (2), select the (1), click on (1)
 > **CLI Commands:** find (2)
@@ -1540,8 +1517,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pentesting OT systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980)
+#### [Pentesting OT systems](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=9)** In this segment, we'll review the importance of testing and outline the unique characteristics of operational technology environments the team will need to understand prior to testing.
 >
-> **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=23)** The general scenario for testing an operational technology network will generally follow a process that is similar to any ethical hacking exercise, such as planning, gathering information, and assessing vulnerabilities.
+> **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=23)** The general scenario for testing an operational technology network will generally follow a process that is similar to any [[Ethical Hacking]] exercise, such as planning, gathering information, and assessing vulnerabilities.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=41)** However, there are several key differences due to the unique characteristics and requirements of operational technology environments.
 >
@@ -1559,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=81)** Pentesting operational technology systems requires a unique skillset and a deep understanding of industrial processes and protocols.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=92)** I'm here at this article, lessons learned from the field and OT networks penetration testing, and he shares some of his thoughts, and I'm going to scroll down here and I've highlighted this section.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=92)** I'm here at this article, lessons learned from the field and OT networks [[Penetration Testing]], and he shares some of his thoughts, and I'm going to scroll down here and I've highlighted this section.
 >
 > **[1:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=107)** Unlike with IT networks, defining the scope of testing and rules of engagement is usually much more complicated.
 >
@@ -1581,7 +1557,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=193)** Consider the cascading effects of an attack on processes and equipment.
 >
-> **[3:19](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=199)** Operational technology systems often operate 24/7, so the team must work within the restrictive time windows and may need to coordinate testing with operational staff to minimize disruptions.
+> **[3:19](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=199)** Operational technology systems often operate 24/7, so the team must work within the restrictive time [[Windows]] and may need to coordinate testing with operational staff to minimize disruptions.
 >
 > **[3:36](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980&t=216)** OT and IT environments are often converging and vulnerabilities in one can affect the other.
 >
@@ -1603,15 +1579,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (1), power (1), [[Penetration Testing]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Penetration Testing]] (1), [[Windows]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** scada (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Providing insights into OT attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980)
+#### [Providing insights into OT attacks](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1606,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=66)** As shown here in this simplified graphic of an industrial control system, we see the human machine interface, which is a dashboard using customized software that allows the operators to manage the system.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=81)** The software runs on top of an operating system, such as Windows or Linux, which can be vulnerable to an attack.
+> **[1:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=81)** The software runs on top of an operating system, such as [[Windows]] or [[Linux]], which can be vulnerable to an attack.
 >
 > **[1:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=90)** Malicious actors use any combination of attacks to gain access to the HMI which can lead to unauthorized changes in industrial processes or equipment, potentially causing damage or safety hazards.
 >
@@ -1645,7 +1620,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=147)** The malware can allow an attacker to gain access or control the HMI to steal sensitive information, interfere with operations or serve as a foothold for further attacks.
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=161)** In the past few years, there has been a significant rise in IOT and OT malware.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=161)** In the past few years, there has been a significant rise in [[IoT]] and OT malware.
 >
 > **[2:47](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/providing-insights-into-ot-attacks?u=76281980&t=167)** Currently, there is malware protection available to prevent attacks, yet there are still challenges.
 >
@@ -1667,14 +1642,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Windows]] (1), [[Linux]] (1), [[IoT]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[IoT]] (1)
 > **Env Vars:** hmi (4), iot (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seeking OT systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980)
+#### [Seeking OT systems](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,11 +1666,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=64)** The team might also use vendor provided tools along with publicly available tools to identify operational technology assets.
 >
-> **[1:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=73)** For example, you can use passive network mapping tools such as Wireshark, NetworkMiner, or GRASSMARLIN.
+> **[1:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=73)** For example, you can use passive network mapping tools such as [[Wireshark]], NetworkMiner, or GRASSMARLIN.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=82)** I'm here at this page NetworkMiner, where we can see the results of a scan.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=88)** This list provides details on IoT objects identified on the network.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=88)** This list provides details on [[IoT]] objects identified on the network.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=95)** In addition to using the tools, you'll also want to physically walk around and verify the operational technology infrastructure map to see just where the devices are located.
 >
@@ -1732,7 +1706,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=223)** I created an account and logged in.
 >
-> **[3:46](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=226)** Now, for example, if we enter the filter Server SQ-Webcam, and I've entered that here and pressed Enter, and there we can see the results such as where the cameras are located and what information is listed for the web servers that are in use.
+> **[3:46](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=226)** Now, for example, if we enter the filter Server SQ-Webcam, and I've entered that here and pressed Enter, and there we can see the results such as where the cameras are located and what information is listed for the [[Web Servers]] that are in use.
 >
 > **[4:05](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/seeking-ot-systems?u=76281980&t=245)** In addition, many users are lax when it comes to security and use the device with without changing the default settings.
 >
@@ -1750,7 +1724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[IoT]] (4), [[Wireshark]] (1), data (1), web (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Wireshark]] (1), [[Web Servers]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** scada (4), grassmarlin (1)
 > **CLI Commands:** find (2), make (1)
@@ -1759,8 +1733,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Searching for OT vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/searching-for-ot-vulnerabilities?u=76281980)
+#### [Searching for OT vulnerabilities](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/searching-for-ot-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1784,7 +1757,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/searching-for-ot-vulnerabilities?u=76281980&t=89)** Here we can see an example of the type of input that might be used during a fuzz test.
 >
-> **[1:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/searching-for-ot-vulnerabilities?u=76281980&t=95)** Input can include random strings along with SQL injection and cross site scripting attacks.
+> **[1:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/searching-for-ot-vulnerabilities?u=76281980&t=95)** Input can include random strings along with [[SQL]] injection and cross site scripting attacks.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/searching-for-ot-vulnerabilities?u=76281980&t=103)** Another tool that is designed for operational technology environments is Nessus Industrial Security, which is tailored to these systems and can identify vulnerabilities in common industrial control system protocols.
 >
@@ -1810,12 +1783,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), application (1), [[SQL]] (1), [[Scripting]] (1), product (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Targeting OT systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980)
+#### [Targeting OT systems](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1797,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=17)** Industrial control systems are typically used in sectors such as manufacturing, energy, transportation, and utilities.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=27)** Auditing these systems is crucial for ensuring their reliability, safety, and protection against cybersecurity threats.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=27)** Auditing these systems is crucial for ensuring their reliability, safety, and protection against [[Cybersecurity]] threats.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=36)** During this process, the team will examine and evaluate the security, performance, and compliance of the technology and processes used in industrial and critical infrastructure settings.
 >
@@ -1835,7 +1807,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=73)** So let's talk about some examples of techniques that can be used.
 >
-> **[1:19](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=79)** Malicious actors might attempt to hack the hardware in an industrial control system, as the widespread reliance on the technology in sectors such as energy and manufacturing makes them lucrative targets.
+> **[1:19](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=79)** Malicious actors might attempt to hack the [[Hardware]] in an industrial control system, as the widespread reliance on the technology in sectors such as energy and manufacturing makes them lucrative targets.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=93)** Some of the targets can include programmable logic controllers, remote terminal units, human machine interfaces, and field devices and sensors.
 >
@@ -1845,9 +1817,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=127)** Like many other protocols, both DNP3 and Modbus can potentially be exploited by malicious actors to gain unauthorized access to industrial control systems if they are not properly secured.
 >
-> **[2:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=143)** For instance, a malicious actor can use Metasploit or any other hacking tool to gain access to read and overwrite data on a Modbus server.
+> **[2:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=143)** For instance, a malicious actor can use [[Metasploit]] or any other hacking tool to gain access to read and overwrite data on a Modbus server.
 >
-> **[2:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=155)** A programmable logic controller automates and controls machinery and processes and manufacturing and industrial applications.
+> **[2:35](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=155)** A [[Programmable Logic Controller (PLC)|programmable logic controller]] automates and controls machinery and processes and manufacturing and industrial applications.
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/targeting-ot-systems?u=76281980&t=165)** If exploited the attack can impact the functionality and alter controls or configurations.
 >
@@ -1867,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (2), [[Cybersecurity]] (1), [[Hardware]] (1), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Hardware]] (1), [[Metasploit]] (1), [[Programmable Logic Controller (PLC)|Programmable logic controller]] (1)
 > **Env Vars:** dnp3 (2), scada (2), plc (1)
 > **Analogies:** such as (2), for instance (1), for example (1)
 > **Tools:** terminal (1)
@@ -1878,14 +1850,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Countering IoT attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980)
+#### [Countering IoT attacks](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=0)** - [Narrator] IoT devices have multiple attack surfaces that can make them a vulnerable target.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=0)** - [Narrator] [[IoT]] devices have multiple attack surfaces that can make them a vulnerable target.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=7)** In this segment, we'll outline the top IoT vulnerabilities as identified by OWASP and discuss corresponding mitigation strategies to prevent an attack today.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=7)** In this segment, we'll outline the top IoT vulnerabilities as identified by [[OWASP]] and discuss corresponding mitigation strategies to prevent an attack today.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=20)** There are many areas in the rapidly growing IoT that can have one or more vulnerabilities, which can lead to an attack on the infrastructure or supply chain.
 >
@@ -1905,7 +1876,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=84)** The application programming interface, along with protocols and custom interfaces.
 >
-> **[1:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=91)** The business logic along with data storage, and the interface or application used to monitor or control the device.
+> **[1:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=91)** The business logic along with [[Data Storage]], and the interface or application used to monitor or control the device.
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=100)** For anyone who might be implementing IoT devices within their environment, it's essential to have a comprehensive plan that helps prevent security incidents.
 >
@@ -1929,7 +1900,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=174)** Designed for security, embed firewall features to add an additional layer of defense, provide encryption capabilities, and include tamper detection capabilities.
 >
-> **[3:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=189)** In addition, while many consumers rush to implement the products in their homes and offices, it's important to do some research before purchasing to see if there are any gaping vulnerabilities.
+> **[3:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=189)** In addition, while many consumers rush to implement the [[Microsoft Products|products]] in their homes and offices, it's important to do some research before purchasing to see if there are any gaping vulnerabilities.
 >
 > **[3:24](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980&t=204)** In addition, you should learn ways that you can improve the security of your device.
 >
@@ -1941,7 +1912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), [[OWASP]] (3), [[Security]] (3), application (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[IoT]] (12), [[OWASP]] (3), [[Data Storage]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** for example (1), such as (1)
@@ -1949,12 +1920,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980)
+#### [Managing IoT devices](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=0)** - [Instructor] Managing and securing IoT and OT devices is essential in an overall security plan.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=0)** - [Instructor] Managing and securing [[IoT]] and OT devices is essential in an overall security plan.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=8)** In this segment, we'll review the sections of the Purdue model and describe ways to manage devices and implement robust security measures.
 >
@@ -1990,7 +1960,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=157)** Level two is where supervisory control resides.
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=161)** Here you'll find SCADA systems, real-time controls, and human machine interfaces.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=161)** Here you'll find SCADA systems, [[Real-Time]] controls, and human machine interfaces.
 >
 > **[2:48](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=168)** Level one is process control.
 >
@@ -2014,9 +1984,9 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=247)** Implement real-time monitoring of IoT devices to detect anomalies or suspicious activities.
 >
-> **[4:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=255)** Implement redundancy and failover methods to ensure continuous IoT device functionality in the event of hardware or network failures.
+> **[4:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=255)** Implement redundancy and failover methods to ensure continuous IoT device functionality in the event of [[Hardware]] or network failures.
 >
-> **[4:26](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=266)** And develop a well-defined incident response plan specific to IoT security breaches.
+> **[4:26](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=266)** And develop a well-defined [[Incident Response]] plan specific to IoT security breaches.
 >
 > **[4:33](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/managing-iot-devices?u=76281980&t=273)** Now, let's test your knowledge.
 >
@@ -2026,22 +1996,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[Security]] (6), management (2), [[Real-Time]] (2), business (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Real-Time]] (2), [[Hardware]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
 > **Env Vars:** scada (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing a secure device
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980)
+#### [Developing a secure device](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=0)** - [Narrator] Manufacturers continue to develop devices to join the Internet of things.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=0)** - [Narrator] Manufacturers continue to develop devices to join the [[IoT|Internet of things]].
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=6)** In this segment, we'll learn why it's essential for companies to design devices with security in mind.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=14)** As we see in this graphic, commercial and consumer IoT implementations have started to be able to prevent malicious activity.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=14)** As we see in this graphic, commercial and consumer [[IoT]] implementations have started to be able to prevent malicious activity.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=23)** In the commercial space, there are some options to detect and respond.
 >
@@ -2053,9 +2022,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=66)** Because depending on where the device is used, a breach can expose sensitive data.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=72)** So when developing products for the IoT, it's always good practice to design with the CIA triad in mind.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=72)** So when developing [[Microsoft Products|products]] for the IoT, it's always good practice to design with the CIA triad in mind.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=81)** CIA stands for confidentiality, integrity, and availability and is a fundamental concept in cybersecurity.
+> **[1:21](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=81)** CIA stands for confidentiality, integrity, and availability and is a fundamental concept in [[Cybersecurity]].
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=91)** So when in use, the device should provide confidentiality in that the data should not be accessible to anyone without appropriate permissions.
 >
@@ -2065,7 +2034,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=116)** The Federal Trade Commission is concerned that IoT devices are putting consumers at risk.
 >
-> **[2:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=123)** This document contains information that includes best practice guidelines, such as use recognized security practices, authenticate and control access, and implement secure data management.
+> **[2:03](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=123)** This document contains information that includes best practice guidelines, such as use recognized security practices, authenticate and control access, and implement secure [[Data Management]].
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/developing-a-secure-device?u=76281980&t=138)** Following these guidelines will help protect IoT devices from malicious actors.
 >
@@ -2079,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (4), data (3), [[Internet of Things (IoT)|Internet of things]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[IoT|Internet of things]] (2), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1), [[Data Management]] (1)
 > **Env Vars:** cia (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Best Practices:** good practice (1), best practice (1)
@@ -2087,16 +2056,15 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Implementing Zero Trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980)
+#### [Implementing Zero Trust](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=0)** - [Instructor] Zero trust is an approach to cybersecurity that assumes no absolute trust for users, devices, or applications, regardless of location or level of access.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=0)** - [Instructor] Zero trust is an approach to [[Cybersecurity]] that assumes no absolute trust for users, devices, or applications, regardless of location or level of access.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=15)** In this segment, we'll learn how a zero-trust security framework helps reduce the risk of a malicious actor gaining access and moving through the network.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=27)** For most of the early growth in the IoT, we didn't incorporate any traditional security methods such as firewalls and intrusion detection systems.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=27)** For most of the early growth in the [[IoT]], we didn't incorporate any traditional security methods such as firewalls and [[Intrusion Detection]] systems.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=38)** The belief was these tiny devices were not an attractive target to hackers, or they couldn't possibly be susceptible to an attack.
 >
@@ -2108,7 +2076,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=85)** So let's next take a look at this graphic.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=88)** I'm here at [nist.gov](https://nist.gov) and I'll scroll down.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=88)** I'm here at [[[NIST]].gov](https://nist.gov) and I'll scroll down.
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=96)** On the right, we see a traditional approach to secure the organization.
 >
@@ -2124,7 +2092,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=150)** When using a zero-trust approach, any place where an access control decision is required should be considered a perimeter.
 >
-> **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=160)** The zero-rust concept is comprised of three pillars that include workforce, workloads, and workplace.
+> **[2:40](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=160)** The zero-[[Rust (Programming Language)|rust]] concept is comprised of three pillars that include workforce, workloads, and workplace.
 >
 > **[2:49](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=169)** Let's talk about each one.
 >
@@ -2138,7 +2106,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=229)** And zero trust for the workplace focuses on secure access for all devices that connect to enterprise networks.
 >
-> **[3:59](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=239)** Devices include the Internet of Things, endpoints, physical and virtual servers and printers.
+> **[3:59](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=239)** Devices include the [[IoT|Internet of Things]], endpoints, physical and virtual servers and printers.
 >
 > **[4:08](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/implementing-zero-trust?u=76281980&t=248)** Zero trust focuses on protecting resources.
 >
@@ -2152,7 +2120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[IoT]] (3), data (2), application (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Cybersecurity]] (1), [[Intrusion Detection]] (1), [[NIST]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **UI Navigation:** scroll down (2), open the (1)
 > **URLs:** [barracuda.com](https://barracuda.com) (1), [nist.gov](https://nist.gov) (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2161,18 +2129,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing a secure framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980)
+#### [Designing a secure framework](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=0)** - [Instructor] The number of IoT devices in our homes, offices and infrastructure continues to grow.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=0)** - [Instructor] The number of [[IoT]] devices in our homes, offices and infrastructure continues to grow.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=7)** In this segment, we'll discover the many resources, frameworks, and websites we can use to learn best practice methods to provide a more secure infrastructure.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=19)** IoT and OT security are evolving fields, so staying updated with the latest developments is crucial.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=27)** Today's networks and the internet of things pose unique challenges.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=27)** Today's networks and the [[IoT|internet of things]] pose unique challenges.
 >
 > **[0:32](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=32)** The job of the security specialist is to stay ahead of common threats, by attending training, participating in security organizations, and checking security websites on a daily basis.
 >
@@ -2200,7 +2167,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=131)** And as you can see, it's a very comprehensive document.
 >
-> **[2:16](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=136)** The Center for Internet Security offers a set of controls that provide guidance on securing IoT and OT environments and are widely recognized in the cybersecurity community.
+> **[2:16](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=136)** The Center for Internet Security offers a set of controls that provide guidance on securing IoT and OT environments and are widely recognized in the [[Cybersecurity]] community.
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/designing-a-secure-framework?u=76281980&t=149)** And here's where you can download the controls.
 >
@@ -2222,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[IoT]] (5), [[Cybersecurity]] (3), [[Internet of Things (IoT)|Internet of things]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Cybersecurity]] (3), [[IoT|Internet of things]] (2)
 > **Best Practices:** best practice (4)
 > **Env Vars:** cisa (1), isa (1), nerc (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -2236,12 +2203,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching Ethical Hacking: IoT and OT Hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=0)** - [Instructor] Thank you for watching [[Ethical Hacking]]: [[IoT]] and OT Hacking.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=6)** In this course, I began by reviewing the concept and basic architecture of the IoT.
 >
@@ -2255,7 +2221,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=57)** New content is added all the time.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=61)** If you're interested in learning more about packet analysis, check out my learning path, Improve your Wireshark Skills.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=61)** If you're interested in learning more about packet analysis, check out my learning path, Improve your [[Wireshark]] Skills.
 >
 > **[1:09](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980&t=69)** If you're ready to continue your journey as an ethical hacker, be sure to watch the other courses in the series.
 >
@@ -2267,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[Ethical Hacking]] (2), [[Security]] (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Ethical Hacking]] (2), [[Wireshark]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 

@@ -93,14 +93,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn software architecture with React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980)
+#### [Learn software architecture with React](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980&t=0)** - [Shaun] Maybe you've mastered the technical details of React and are wondering where to go next.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980&t=0)** - [Shaun] Maybe you've mastered the technical details of [[React.js|React]] and are wondering where to go next.
 >
-> **[0:04](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980&t=4)** Or maybe you're just looking to start thinking about your applications at a higher level, whatever the case, learning the basics of software architecture may well be the next step in your software development career.
+> **[0:04](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980&t=4)** Or maybe you're just looking to start thinking about your applications at a higher level, whatever the case, learning the basics of [[Software Architecture]] may well be the next step in your [[Software Development]] career.
 >
 > **[0:15](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980&t=15)** A knowledge of software architecture enables you to not only make your applications work, it also allows you to keep your applications maintainable and performing for the foreseeable future, as well as make sure they fulfill all the necessary requirements and constraints.
 >
@@ -112,24 +111,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Architecture]] (4), [[React.js|React]] (3), next (2), [[Software Development]] (1), career (1)
+> **Frameworks & Libraries:** [[Software Architecture]] (4), [[React.js|React]] (3), [[Software Development]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [shaun] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, there are a few things that it would be helpful for you to know.
 >
-> **[0:05](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=5)** The first skill that you should have is a basic knowledge of web development with React.
+> **[0:05](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=5)** The first skill that you should have is a basic knowledge of [[Web Development]] with [[React.js|React]].
 >
 > **[0:09](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=9)** Now, please don't take this to mean that you have to be a React expert.
 >
-> **[0:12](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=12)** You don't, but at the very least, it would be great for you to have experience with creating and managing React components, routing in React, and React hooks.
+> **[0:12](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=12)** You don't, but at the very least, it would be great for you to have experience with creating and managing React components, [[Routing]] in React, and [[React Hooks]].
 >
-> **[0:21](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=21)** If you don't have these skills yet, I highly recommend that you take my course on full-stack development with React where we see how each of these things works in the context of a full-stack React application.
+> **[0:21](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=21)** If you don't have these skills yet, I highly recommend that you take my course on [[Full-Stack Development]] with React where we see how each of these things works in the context of a full-stack React application.
 >
 > **[0:32](https://www.linkedin.com/learning/react-software-architecture/what-you-should-know?u=76281980&t=32)** And really, it would be helpful for you to have a basic knowledge of how full-stack development works in general.
 >
@@ -148,14 +146,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is software architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980)
+#### [What is software architecture?](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=0)** - [Instructor] Okay, we're going to get started here by talking about what software architecture is in the first place.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=0)** - [Instructor] Okay, we're going to get started here by talking about what [[Software Architecture]] is in the first place.
 >
-> **[0:07](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=7)** So in order to define what software architecture is, let's think about architecture as the word is normally used, which is applied to buildings.
+> **[0:07](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=7)** So in order to define what software architecture is, let's think about architecture as the [[Microsoft Word|word]] is normally used, which is applied to buildings.
 >
 > **[0:15](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=15)** When we talk about the architecture of a building, we're generally referring to the overall structure and large scale design of that building, whereas interior design would be more of the details inside the building.
 >
@@ -195,13 +192,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=149)** So what this means is that we have to design our software in a way that it can be easily changed over time.
 >
-> **[2:35](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=155)** So you might be wondering where React fits into this, right?
+> **[2:35](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=155)** So you might be wondering where [[React.js|React]] fits into this, right?
 >
 > **[2:39](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=159)** I haven't even mentioned React yet.
 >
 > **[2:41](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=161)** And that's because in theory, software architecture is meant to be independent of any of the given technologies that are used.
 >
-> **[2:50](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=170)** This allows us to design our programs without saying, okay, we're going to use MongoDB, or okay, we're going to use React.
+> **[2:50](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=170)** This allows us to design our programs without saying, okay, we're going to use [[MongoDB]], or okay, we're going to use React.
 >
 > **[2:57](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980&t=177)** It keeps it more flexible in case you want to change your technologies down the road.
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Architecture]] (9), [[React.js|React]] (6), next (2), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Software Architecture]] (9), [[React.js|React]] (6), [[Microsoft Word|Word]] (1), [[MongoDB]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
@@ -248,8 +245,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Server-side rendering basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980)
+#### [Server-side rendering basics](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,9 +259,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=24)** So, first of all, let's talk about what server-side rendering is.
 >
-> **[0:28](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=28)** In the normal flow of a React application, here's what happens.
+> **[0:28](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=28)** In the normal flow of a [[React.js|React]] application, here's what happens.
 >
-> **[0:32](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=32)** The client's browser makes a request to the server and loads the index.html file, which doesn't really contain anything.
+> **[0:32](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=32)** The client's browser makes a request to the server and loads the index.[[HTML]] file, which doesn't really contain anything.
 >
 > **[0:40](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=40)** It's basically blank at that point.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=162)** The user's browser is the one that's doing all of the work of rendering.
 >
-> **[2:46](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=166)** However, especially in cases where users have a slow internet connection or where your users are geographically very far away from you, for example, if your servers are in New York and your users are in Australia, having these multiple round trips just to load the index.html, the JS bundle, and the data can really lead to a very poor user experience.
+> **[2:46](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=166)** However, especially in cases where users have a slow internet connection or where your users are geographically very far away from you, for example, if your servers are in New York and your users are in Australia, having these multiple round trips just to load the index.html, the JS bundle, and the data can really lead to a very poor [[User Experience (UX)|user experience]].
 >
 > **[3:08](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980&t=188)** However, with server-side rendering, since there's only one round trip, this can lead to a drastically improved user experience and it can also be better for SEO.
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (11), [[React.js|React]] (5), data (4), application (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[HTML]] (11), [[React.js|React]] (5), [[User Experience (UX)|User experience]] (2)
 > **File Paths:** index.html (6)
 > **Env Vars:** html (5), seo (1)
 > **CLI Commands:** make (1)
@@ -327,12 +323,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a simple React app
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/setting-up-a-simple-react-app?u=76281980)
+#### [Setting up a simple React app](https://www.linkedin.com/learning/react-software-architecture/setting-up-a-simple-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/setting-up-a-simple-react-app?u=76281980&t=0)** - [Instructor] Okay. So now that we've learned a lot of the background behind server-side rendering and how it works, what we're going to do is see what it looks like in the context of a full stack React application.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/setting-up-a-simple-react-app?u=76281980&t=0)** - [Instructor] Okay. So now that we've learned a lot of the background behind server-side rendering and how it works, what we're going to do is see what it looks like in the context of a full stack [[React.js|React]] application.
 >
 > **[0:10](https://www.linkedin.com/learning/react-software-architecture/setting-up-a-simple-react-app?u=76281980&t=10)** So to get started here, you're going to want to copy the starting state of the exercise files, which contain basically just a stripped down version of the create React app starting app.
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (13), application (4), dom (4), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (13)
 > **File Paths:** home.js (1), about.js (1), articles.js (1), app.js (1)
 > **Prerequisites:** install (3), set up (1)
 > **Env Vars:** jsx (3)
@@ -444,8 +439,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic React SSR
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980)
+#### [Basic React SSR](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,13 +449,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=18)** So, let's create a new file in the outermost directory of our project here, and we're going to call it server.js.
 >
-> **[0:26](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=26)** Now, this is going to be a basic express server, and we'll want to write it in the same JavaScript syntax that we write our front-end in, right?
+> **[0:26](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=26)** Now, this is going to be a basic express server, and we'll want to write it in the same [[JavaScript]] syntax that we write our front-end in, right?
 >
 > **[0:33](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=33)** Since it's going to be essentially, running our front-end code.
 >
 > **[0:36](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=36)** So, in order to do both of those things, we need to install a few packages.
 >
-> **[0:41](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=41)** The first thing we're going to do is say, npm install --save-dev, and we're going to install some packages from babel that will basically take the modern code that we write, such as in react, as well as on the server itself.
+> **[0:41](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=41)** The first thing we're going to do is say, [[npm]] install --save-dev, and we're going to install some packages from babel that will basically take the modern code that we write, such as in [[React.js|react]], as well as on the server itself.
 >
 > **[0:59](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=59)** And, basically, convert that into something that no js will be able to run.
 >
@@ -489,7 +483,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=139)** We're going to say const app = express.
 >
-> **[2:24](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=144)** And then we're going to say app.get, and the path that we're going to specify is going to be slash with an asterisk, basically, that means that this route will respond to any get requests on any path, which is exactly what we want, since basically, what we want to do, is no matter what path the user requests, we want to send them back this html file, which is going to be our rendered reactApp.
+> **[2:24](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=144)** And then we're going to say app.get, and the path that we're going to specify is going to be slash with an asterisk, basically, that means that this route will respond to any get requests on any path, which is exactly what we want, since basically, what we want to do, is no matter what path the user requests, we want to send them back this [[HTML]] file, which is going to be our rendered reactApp.
 >
 > **[2:49](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=169)** So, the callback here, is just going to be a standard express call back, And inside of here, what we're going to do, is say, const reactApp = renderToString, and this renderToString is a function that we can pass JSX to, and it will basically, take that, and render it into actual html.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=288)** This will basically tell babel, which again, we're going to be using to run our server and transpile code, it's going to tell it what presets it will need to use, in order to make sense of our code.
 >
-> **[5:00](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=300)** So let's create a file in here called babelrc, this is just going to be a simple json object that we put in here, with the key presets and a value, which is going to be an array that contains two things.
+> **[5:00](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=300)** So let's create a file in here called babelrc, this is just going to be a simple [[JSON]] object that we put in here, with the key presets and a value, which is going to be an array that contains two things.
 >
 > **[5:14](https://www.linkedin.com/learning/react-software-architecture/basic-react-ssr?u=76281980&t=314)** The first is going to be babel/preset-env, that's just the standard preset for converting newer JavaScript syntax into older JavaScript syntax.
 >
@@ -535,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), express (5), [[React.js|React]] (5), [[JavaScript]] (4), application (2)
+> **Frameworks & Libraries:** [[HTML]] (7), [[React.js|React]] (5), [[JavaScript]] (4), [[npm]] (2), [[JSON]] (1)
 > **Code Identifiers:** reactapp (5), rendertostring (3)
 > **Prerequisites:** install (8)
 > **CLI Commands:** npm (2), node (2), make (2), npx (1)
@@ -544,20 +538,19 @@ created: 2026-05-02
 > **Analogies:** just like (2), such as (1)
 > **File Paths:** server.js (2)
 
-#### Building and rendering an SSR React app
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980)
+#### [Building and rendering an SSR React app](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=0)** - [Instructor] All right, so we've seen a very basic example of server-side rendering.
 >
-> **[0:04](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=4)** However, at this point, our server is still just rendering a basic HTML element in JSX instead of our actual React app.
+> **[0:04](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=4)** However, at this point, our server is still just rendering a basic [[HTML]] element in JSX instead of our actual [[React.js|React]] app.
 >
 > **[0:13](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=13)** Obviously, now that we've created this app and our page components, we're going to want to have our server render those.
 >
 > **[0:19](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=19)** So in order to get that working, there are a few steps that we have to take.
 >
-> **[0:23](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=23)** The first thing we have to do is build our React app and we can do that by running the command npm run build.
+> **[0:23](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=23)** The first thing we have to do is build our React app and we can do that by running the command [[npm]] run build.
 >
 > **[0:32](https://www.linkedin.com/learning/react-software-architecture/building-and-rendering-an-ssr-react-app?u=76281980&t=32)** And what that will do is generate a build directory that will contain all of our minified transpiled React code.
 >
@@ -603,7 +596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[HTML]] (3), express (2), node (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[HTML]] (3), [[npm]] (1)
 > **CLI Commands:** npx (3), make (2), node (2), npm (1)
 > **File Paths:** server.js (3), index.html (2)
 > **Env Vars:** html (1), jsx (1)
@@ -611,8 +604,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routing with server-side rendering
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980)
+#### [Routing with server-side rendering](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,11 +614,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=9)** You may have wondered why we didn't do that at first.
 >
-> **[0:11](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=11)** And that's because in order for it to work, we have to set up routing on our server for the frontend.
+> **[0:11](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=11)** And that's because in order for it to work, we have to set up [[Routing]] on our server for the frontend.
 >
 > **[0:18](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=18)** Now this is going to look a little strange.
 >
-> **[0:20](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=20)** What we're going to do is we're going to have to import something called static router from react-router-dom.
+> **[0:20](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=20)** What we're going to do is we're going to have to import something called static router from [[React.js|react]]-router-dom.
 >
 > **[0:29](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=29)** StaticRouter is basically the server side equivalent of BrowserRouter that we saw on the frontend.
 >
@@ -650,7 +642,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=126)** So you might be wondering why we have to add this BrowserRouter thing to index.js after all, if our server is just taking care of rendering, React for us, why do we need this index.js file at all?
 >
-> **[2:20](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=140)** Right, isn't it just kind of redundant since we're just getting a pre rendered HTML document?
+> **[2:20](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=140)** Right, isn't it just kind of redundant since we're just getting a pre rendered [[HTML]] document?
 >
 > **[2:26](https://www.linkedin.com/learning/react-software-architecture/routing-with-server-side-rendering?u=76281980&t=146)** Well, the responsibilities of this index.js file are going to shift a little bit.
 >
@@ -734,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), [[React.js|React]] (6), data (5), dom (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (13), [[React.js|React]] (6), [[Routing]] (1)
 > **File Paths:** index.html (6), index.js (5), server.js (1), path.resolve./build/index.html (1)
 > **Code Identifiers:** reactapp (7), rendertostring (1)
 > **Env Vars:** html (6), npx (1)
@@ -743,12 +735,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 
-#### Styling with server-side rendering
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980)
+#### [Styling with server-side rendering](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=0)** - [Instructor] All right, so now that we have our app set up for basic server side rendering, our server is basically taking care of rendering all of our React components.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=0)** - [Instructor] All right, so now that we have our app set up for basic server side rendering, our server is basically taking care of rendering all of our [[React.js|React]] components.
 >
 > **[0:09](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=9)** The next thing that we're going to take a look at is how to add styling.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=61)** We'll say each one, we'll say color green and save it.
 >
-> **[1:08](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=68)** IF we build our front end application now, if we say npm run build, what we're going to see is that this style that we added is going to be incorporated into the CSS that our app actually uses.
+> **[1:08](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=68)** IF we build our front end application now, if we say [[npm]] run build, what we're going to see is that this style that we added is going to be incorporated into the CSS that our app actually uses.
 >
 > **[1:24](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=84)** So if we open up static CSS, we should be able to find this inside of here somewhere.
 >
@@ -820,7 +811,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=263)** Well, the problem has to do with how styled components and styles in general work, basically when we're running it on the client side, styled components work by adding a special class name to each of our components and then generating the corresponding CSS for it.
 >
-> **[4:39](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=279)** However, when we're rendering our app server side, you have to actually do is scrape all of the generated styles out of our app and insert them into the index.HTML file that we send to the client.
+> **[4:39](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=279)** However, when we're rendering our app server side, you have to actually do is scrape all of the generated styles out of our app and insert them into the index.[[HTML]] file that we send to the client.
 >
 > **[4:53](https://www.linkedin.com/learning/react-software-architecture/styling-with-server-side-rendering?u=76281980&t=293)** Again, that might sound a little complicated, but it's actually fairly straight forward, here's what that's going to look like.
 >
@@ -866,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), css (7), application (6), [[React.js|React]] (4), [[npm]] (4)
+> **Frameworks & Libraries:** [[HTML]] (8), [[React.js|React]] (4), [[npm]] (4)
 > **Env Vars:** html (8), css (7), jsx (1)
 > **File Paths:** index.html (4), index.css (1), app.js (1)
 > **CLI Commands:** npm (4), find (1), make (1)
@@ -875,8 +866,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server-side rendering caveats
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-caveats?u=76281980)
+#### [Server-side rendering caveats](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-caveats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +892,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-caveats?u=76281980&t=72)** And what we're going to see is that if we try and load our application again, we'll get an error saying that window is not defined.
 >
-> **[1:20](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-caveats?u=76281980&t=80)** Now the reason we get this error is because even though we're used to thinking about our React apps executing in the browser, because we're rendering them on the server, when this code executes, there actually is no window.
+> **[1:20](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-caveats?u=76281980&t=80)** Now the reason we get this error is because even though we're used to thinking about our [[React.js|React]] apps executing in the browser, because we're rendering them on the server, when this code executes, there actually is no window.
 >
 > **[1:34](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-caveats?u=76281980&t=94)** Now this is something we'll take a look at in a lot more detail, again, later on when we look at data loading, but it's very important to be aware of.
 >
@@ -914,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), front-end (2), application (2), [[React.js|React]] (2), functional (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Warnings:** keep in mind (3), be aware (1), caveat (1)
 > **Speakers:** - [instructor] (1)
 
@@ -923,12 +913,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is state management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980)
+#### [What is state management?](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=0)** - [Instructor] All right, so the next thing that we're going to talk about with regards to software architecture is something called state management.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=0)** - [Instructor] All right, so the next thing that we're going to talk about with regards to [[Software Architecture]] is something called state management.
 >
 > **[0:06](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=6)** Now, state management is a very important part of virtually any web application, and it can have pretty profound implications on how we actually organize our code.
 >
@@ -942,7 +931,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=50)** Maybe some of you have heard of all of these.
 >
-> **[0:53](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=53)** The main state management technologies that we're going to be looking at in this course are the useState Hook and Context, which are what I refer to as sort of the vanilla React state management tools, right?
+> **[0:53](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=53)** The main state management technologies that we're going to be looking at in this course are the useState Hook and Context, which are what I refer to as sort of the [[Vanilla]] [[React.js|React]] state management tools, right?
 >
 > **[1:04](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=64)** You don't need to import any other libraries besides React for these.
 >
@@ -956,7 +945,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=98)** Well, the main criteria that I look at when choosing a state management tool are the size and complexity of the application that I'm working on.
 >
-> **[1:46](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=106)** Is it going to be just a simple blog application, or is it going to be a full scale e-commerce site?
+> **[1:46](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=106)** Is it going to be just a simple blog application, or is it going to be a full scale [[E-Commerce]] site?
 >
 > **[1:52](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980&t=112)** And related to this, I also look at how many components are going to need to share the data that our application contains.
 >
@@ -988,21 +977,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (14), application (8), data (5), [[React.js|React]] (5), [[Vanilla]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Vanilla]] (2), [[Software Architecture]] (1), [[E-Commerce]] (1)
 > **Code Identifiers:** usestate (2)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Small state with the useState Hook
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980)
+#### [Small state with the useState Hook](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=1)** So the first state management tool that we're going to take a look at is the vanilla react useState hook.
+> **[0:01](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=1)** So the first state management tool that we're going to take a look at is the [[Vanilla]] [[React.js|react]] useState hook.
 >
-> **[0:06](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=6)** Now, most of you are probably already familiar with this useState hook, but I'm just going to implement something here so that we have a good point of reference for the rest of the technologies that we're going to take a look at.
+> **[0:06](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=6)** Now, most of you are probably already familiar with this useState hook, but I'm just going to implement something here so that we have a good point of reference for the [[Representational State Transfer (REST)|rest]] of the technologies that we're going to take a look at.
 >
 > **[0:18](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=18)** So the example that we're going to be implementing here is just a basic counter button that keeps track of how many times it's been clicked.
 >
@@ -1060,7 +1048,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=182)** And of course we need to wrap both of these in a fragment as well.
 >
-> **[3:07](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=187)** Okay. So if we take a look at our application, and you're going to need to run that by saying, npm run start if you haven't already, we see that if we click on the button, now it keeps track of how many times we've clicked it.
+> **[3:07](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=187)** Okay. So if we take a look at our application, and you're going to need to run that by saying, [[npm]] run start if you haven't already, we see that if we click on the button, now it keeps track of how many times we've clicked it.
 >
 > **[3:22](https://www.linkedin.com/learning/react-software-architecture/small-state-with-the-usestate-hook?u=76281980&t=202)** Pretty straight forward, right?
 >
@@ -1104,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), management (4), [[Vanilla]] (3), [[Representational State Transfer (REST)|Rest]] (2), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Vanilla]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[npm]] (1)
 > **Code Identifiers:** usestate (5), incrementby (5), numberofclicks (4), setnumberofclicks (2), onclick (2)
 > **CLI Commands:** make (1), npm (1)
 > **File Paths:** counterbutton.js (1)
@@ -1112,8 +1100,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Small state with context
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980)
+#### [Small state with context](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,9 +1136,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980&t=113)** We're going to say import.
 >
-> **[1:56](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980&t=116)** And we're going to import something called createContext from react.
+> **[1:56](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980&t=116)** And we're going to import something called createContext from [[React.js|react]].
 >
-> **[2:02](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980&t=122)** So context is another vanilla react tool.
+> **[2:02](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980&t=122)** So context is another [[Vanilla]] react tool.
 >
 > **[2:06](https://www.linkedin.com/learning/react-software-architecture/small-state-with-context?u=76281980&t=126)** And we're just going to say export const CounterContext equals createContext.
 >
@@ -1219,7 +1206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), next (2), data (2), dom (2), management (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Vanilla]] (1)
 > **Code Identifiers:** usestate (6), numberofclicks (5), createcontext (2), setnumberofclicks (2)
 > **Definitions:** in other words (1), known as (1), is a  (1)
 > **File Paths:** countercontext.js (1), counterprovider.js (1)
@@ -1227,8 +1214,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing context inside components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/accessing-context-inside-components?u=76281980)
+#### [Accessing context inside components](https://www.linkedin.com/learning/react-software-architecture/accessing-context-inside-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/react-software-architecture/accessing-context-inside-components?u=76281980&t=15)** So here's what that's going to look like.
 >
-> **[0:16](https://www.linkedin.com/learning/react-software-architecture/accessing-context-inside-components?u=76281980&t=16)** We're going to start off by saying import useContext from react, and we're going to import our CounterContext.
+> **[0:16](https://www.linkedin.com/learning/react-software-architecture/accessing-context-inside-components?u=76281980&t=16)** We're going to start off by saying import useContext from [[React.js|react]], and we're going to import our CounterContext.
 >
 > **[0:27](https://www.linkedin.com/learning/react-software-architecture/accessing-context-inside-components?u=76281980&t=27)** We'll say import CounterContext from CounterContext.
 >
@@ -1316,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** incrementby (14), setincrementby (6), usestate (5), usecontext (3), numberofclicks (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2)
@@ -1324,8 +1310,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Medium state with Recoil
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980)
+#### [Medium state with Recoil](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,9 +1326,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980&t=32)** And what we're going to do is rewrite our Counter button so that it uses Recoil instead of Context, which is the last one that we looked at.
 >
-> **[0:40](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980&t=40)** So the first step in integrating Recoil, since Recoil is not included by default with the React library, the first thing we have to do is install it.
+> **[0:40](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980&t=40)** So the first step in integrating Recoil, since Recoil is not included by default with the [[React.js|React]] library, the first thing we have to do is install it.
 >
-> **[0:48](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980&t=48)** So we're going to say npm install recoil, in our project.
+> **[0:48](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980&t=48)** So we're going to say [[npm]] install recoil, in our project.
 >
 > **[0:54](https://www.linkedin.com/learning/react-software-architecture/medium-state-with-recoil?u=76281980&t=54)** And once we've installed it, we're going to go into our app component, and part of the way that Recoil works is very similar to how we worked with Providers earlier.
 >
@@ -1445,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (3), management (2), [[React.js|React]] (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[npm]] (1)
 > **Code Identifiers:** incrementbystate (8), counterstate (7), userecoilstate (3), usecontext (2), usestate (2)
 > **Tools:** atom (4)
 > **Definitions:** is called (2), is a  (2)
@@ -1454,8 +1439,7 @@ created: 2026-05-02
 > **File Paths:** incrementbystate.js (1)
 > **CLI Commands:** npm (1)
 
-#### Sharing Recoil state
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/sharing-recoil-state?u=76281980)
+#### [Sharing Recoil state](https://www.linkedin.com/learning/react-software-architecture/sharing-recoil-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1559,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), feature (1), next (1)
 > **Code Identifiers:** clicksdata (5), incrementby (4), userecoilstate (3), numberofclicks (3), counterstate (3)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **CLI Commands:** make (1)
@@ -1584,8 +1567,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Recoil selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/using-recoil-selectors?u=76281980)
+#### [Using Recoil selectors](https://www.linkedin.com/learning/react-software-architecture/using-recoil-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1681,7 +1663,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), management (1)
 > **Code Identifiers:** numberofclicksselector (6), clicksdata (5), counterstate (4), setclicksdata (3), totalclicks (2)
 > **Tools:** atom (3)
 > **UI Navigation:** click on (2)
@@ -1690,12 +1671,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Big state with Redux
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980)
+#### [Big state with Redux](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=0)** - [Presenter] Okay, the next state management tool that we're going to take a look at here is redux, which is probably one of the most popular state management tools, with the obvious exception of useState and context, which are included in the react library.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=0)** - [Presenter] Okay, the next state management tool that we're going to take a look at here is redux, which is probably one of the most popular state management tools, with the obvious exception of useState and context, which are included in the [[React.js|react]] library.
 >
 > **[0:13](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=13)** Now, first of all, in order to prevent things from getting too complicated with all the changes we made with recoil, what I've done is, I've reverted the code back to the point that we were at, when we first added the CounterButton with the useState hook.
 >
@@ -1727,7 +1707,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=126)** Okay, so let's go back to our actions.
 >
-> **[2:08](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=128)** Actions in redux are basically just json objects that contain the type of the action, as well as the payload.
+> **[2:08](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=128)** Actions in redux are basically just [[JSON]] objects that contain the type of the action, as well as the payload.
 >
 > **[2:17](https://www.linkedin.com/learning/react-software-architecture/big-state-with-redux?u=76281980&t=137)** So, here's what they'll generally look like.
 >
@@ -1799,7 +1779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), data (4), management (3), [[React.js|React]] (3), next (2)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JSON]] (2)
 > **Code Identifiers:** usestate (2), numberofclicks (2), counterbuttonclicked (1), snake_case (1), numberofclicksreducer (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** counter_button_clicked (2)
@@ -1808,8 +1788,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Using Redux with components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/using-redux-with-components?u=76281980)
+#### [Using Redux with components](https://www.linkedin.com/learning/react-software-architecture/using-redux-with-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1859,7 +1838,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/react-software-architecture/using-redux-with-components?u=76281980&t=142)** So here's what that's going to look like.
 >
-> **[2:23](https://www.linkedin.com/learning/react-software-architecture/using-redux-with-components?u=76281980&t=143)** We're going to say import Provider from react-redux.
+> **[2:23](https://www.linkedin.com/learning/react-software-architecture/using-redux-with-components?u=76281980&t=143)** We're going to say import Provider from [[React.js|react]]-redux.
 >
 > **[2:33](https://www.linkedin.com/learning/react-software-architecture/using-redux-with-components?u=76281980&t=153)** And then down here, we're going to wrap basically our entire application, which isn't very big right now granted, in this provider.
 >
@@ -1973,7 +1952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), next (3), data (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** counterbuttonclicked (7), rootreducer (4), numberofclicks (4), useselector (4), incrementby (4)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
@@ -1982,8 +1961,7 @@ created: 2026-05-02
 > **Env Vars:** esx (1)
 > **UI Navigation:** click on (1)
 
-#### Big state with MobX
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980)
+#### [Big state with MobX](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1977,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=29)** So let's start off here by installing the Mobx library.
 >
-> **[0:33](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=33)** And to do that, we're going to say npm install Mobx, and hit Enter.
+> **[0:33](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=33)** And to do that, we're going to say [[npm]] install Mobx, and hit Enter.
 >
 > **[0:39](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=39)** And now that we have it installed, let's see how to add it.
 >
@@ -2051,7 +2029,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=185)** And we're going to say increment, which is an action.
 >
-> **[3:10](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=190)** So what we're doing inside this make observable function here is we're basically telling Mobx that first of all, our number of clicks state should be observable, which means that it will automatically re-render react components.
+> **[3:10](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=190)** So what we're doing inside this make observable function here is we're basically telling Mobx that first of all, our number of clicks state should be observable, which means that it will automatically re-render [[React.js|react]] components.
 >
 > **[3:24](https://www.linkedin.com/learning/react-software-architecture/big-state-with-mobx?u=76281980&t=204)** Now, this wouldn't happen if you were to just create a basic class and try and use that as a state.
 >
@@ -2121,7 +2099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), application (5), next (3), management (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (2)
 > **CLI Commands:** make (10), npm (2)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **Prerequisites:** install (3), set up (1)
@@ -2135,8 +2113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When should we load data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980)
+#### [When should we load data?](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2148,7 +2125,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=21)** After we added styled components and all that.
 >
-> **[0:24](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=24)** If you don't have this, feel free to open up the starting state of the exercise files, and make sure you run npm install to install the dependencies.
+> **[0:24](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=24)** If you don't have this, feel free to open up the starting state of the exercise files, and make sure you run [[npm]] install to install the dependencies.
 >
 > **[0:32](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=32)** So, with server-side rendering when we talk about data loading, things can get pretty interesting, and to show you what I mean, let's add some articles to our server that our articles page here can load.
 >
@@ -2174,7 +2151,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=143)** And then we're going to send those loadedArticles back to the client.
 >
-> **[2:27](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=147)** We're going to say, res.json loadedArticles, okay?
+> **[2:27](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=147)** We're going to say, res.[[JSON]] loadedArticles, okay?
 >
 > **[2:33](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=153)** So our front-end now will be able to load the articles from this api route.
 >
@@ -2182,9 +2159,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=164)** We're going to import the use effect and use state hooks, so we'll say, useState, useEffect, and we're going to say const articles, setArticles = useState, and the initial state for our articles, we'll just make that undefined.
 >
-> **[3:04](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=184)** And then what we're going to do is, we're going to load our data inside a useEffect hook, chances are, you've done this before in react, so I'm not going to explain it too much.
+> **[3:04](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=184)** And then what we're going to do is, we're going to load our data inside a useEffect hook, chances are, you've done this before in [[React.js|react]], so I'm not going to explain it too much.
 >
-> **[3:13](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=193)** We're just going to say, fetch/api/articles, and since this is a promise, we can say .then, if you want to use a sync away instead, and you know how to convert that, go ahead and do it.
+> **[3:13](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=193)** We're just going to say, [[Fetch]]/api/articles, and since this is a promise, we can say .then, if you want to use a sync away instead, and you know how to convert that, go ahead and do it.
 >
 > **[3:28](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=208)** We have a response here now, we're going to return that and convert it to a json.
 >
@@ -2214,7 +2191,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=306)** And what we're going to see is that, if we go to the articles page, our articles are all there.
 >
-> **[5:10](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=310)** However, if we inspect the HTML that we got back from the server, what we're going to see is that, it does not actually include the articles, okay?
+> **[5:10](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=310)** However, if we inspect the [[HTML]] that we got back from the server, what we're going to see is that, it does not actually include the articles, okay?
 >
 > **[5:23](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980&t=323)** So, if we search for the title of one of our articles, for example, such as Article 1, in here, we're going to see that that doesn't exist.
 >
@@ -2228,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), front-end (6), api (4), database (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[JSON]] (3), [[npm]] (2), [[React.js|React]] (2), [[Fetch]] (1), [[HTML]] (1)
 > **Code Identifiers:** useeffect (4), loadedarticles (3), usestate (2), setarticles (1)
 > **CLI Commands:** make (6), npm (2)
 > **File Paths:** server.js (1), res.json (1), response.json (1)
@@ -2237,8 +2214,7 @@ created: 2026-05-02
 > **Env Vars:** api (1), html (1)
 > **Exercise Files:** exercise files (1), source code (1)
 
-#### Data loading with SSR
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980)
+#### [Data loading with SSR](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2228,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=25)** And if this were in a database, our server would be able to communicate directly with the database instead of having to make its own API request.
 >
-> **[0:33](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=33)** So here's what this is going to look like, inside where we say fs.read file, and insert the rendered app into the HTML, what we're going to do is load the data for the articles.
+> **[0:33](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=33)** So here's what this is going to look like, inside where we say fs.read file, and insert the rendered app into the [[HTML]], what we're going to do is load the data for the articles.
 >
 > **[0:45](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=45)** Again, just to make this a little more realistic, I'm going to say const loaded articles equals articles.
 >
@@ -2260,11 +2236,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=56)** And the next thing we need is some way to pass these loaded articles to our rendered application.
 >
-> **[1:05](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=65)** Now, there are multiple ways to do this, but the way that I'm going to show you here, just kind of a very basic way, is by adding the loaded articles themselves as data to the HTML document, so that when it gets to the front end, our React app can actually take those directly from the HTML instead of having to make its own request.
+> **[1:05](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=65)** Now, there are multiple ways to do this, but the way that I'm going to show you here, just kind of a very basic way, is by adding the loaded articles themselves as data to the HTML document, so that when it gets to the front end, our [[React.js|React]] app can actually take those directly from the HTML instead of having to make its own request.
 >
 > **[1:25](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=85)** So here's what that would look like, inside our data.replace here, right before we have our app, we're going to want to insert a script tag.
 >
-> **[1:36](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=96)** And inside that script tag, we're going to say window.preloaded articles equals, and then we're going to stringify our loaded articles as a JSON object, we're going to say JSON.stringify, loaded articles.
+> **[1:36](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=96)** And inside that script tag, we're going to say window.preloaded articles equals, and then we're going to stringify our loaded articles as a [[JSON]] object, we're going to say JSON.stringify, loaded articles.
 >
 > **[2:00](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=120)** We don't need those, there we go.
 >
@@ -2310,7 +2286,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=298)** So let's again, build our front end.
 >
-> **[5:04](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=304)** We're going to say npm run build, and you could create an automated script for this that would automatically watch and rebuild your app for you if you wanted.
+> **[5:04](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=304)** We're going to say [[npm]] run build, and you could create an automated script for this that would automatically watch and rebuild your app for you if you wanted.
 >
 > **[5:13](https://www.linkedin.com/learning/react-software-architecture/data-loading-with-ssr?u=76281980&t=313)** But we're just going to keep building it manually for now.
 >
@@ -2334,19 +2310,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[HTML]] (7), [[React.js|React]] (5), database (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[HTML]] (7), [[React.js|React]] (5), [[JSON]] (3), [[npm]] (1)
 > **Env Vars:** html (7), json (3), api (1)
 > **CLI Commands:** make (8), npm (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rendering server-side API data
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980)
+#### [Rendering server-side API data](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=0)** - [Narrator] So let's take a look at how to have our server actually take care of rendering the data that we've loaded here instead of just placing it in the HTML and having our react app render it after it gets to the client.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=0)** - [Narrator] So let's take a look at how to have our server actually take care of rendering the data that we've loaded here instead of just placing it in the [[HTML]] and having our [[React.js|react]] app render it after it gets to the client.
 >
 > **[0:15](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=15)** The solution that we're going to be using here involves using context, which we learned about previously.
 >
@@ -2428,13 +2403,13 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=359)** We don't need to collect the styles again so we can remove that, and everything else is going to be the same there, we're still passing the context object to our provider.
 >
-> **[6:12](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=372)** And the next thing we have to do is instead of setting this preloaded articles thing on here, which we don't need anymore, we're going to say window.preloadeddata equals JSON.stringify and we're going to send that context object along with it instead.
+> **[6:12](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=372)** And the next thing we have to do is instead of setting this preloaded articles thing on here, which we don't need anymore, we're going to say window.preloadeddata equals [[JSON]].stringify and we're going to send that context object along with it instead.
 >
 > **[6:34](https://www.linkedin.com/learning/react-software-architecture/rendering-server-side-api-data?u=76281980&t=394)** We're going to say context object inside JSON.stringify.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[React.js|React]] (5), [[HTML]] (2), next (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[HTML]] (2), [[JSON]] (2)
 > **Code Identifiers:** isserverside (2), createcontext (1), contextobj (1), contextobject (1)
 > **Env Vars:** html (2), json (2)
 > **File Paths:** server.js (1)
@@ -2442,12 +2417,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enhancing SSR with context
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980)
+#### [Enhancing SSR with context](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=0)** - [Instructor] All right, the next thing that we're going to do now that we've got our context stuff set up on the server side is create a custom React hook for basically dealing with getting this data out of the context.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=0)** - [Instructor] All right, the next thing that we're going to do now that we've got our context stuff set up on the server side is create a custom [[React.js|React]] hook for basically dealing with getting this data out of the context.
 >
 > **[0:13](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=13)** This will simplify things for our components since our components will no longer have to care whether they're on the server or on the client side.
 >
@@ -2485,7 +2459,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=147)** Now, if we are on the server side, what we want to do is add our load function.
 >
-> **[2:33](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=153)** This load function is basically going to contain logic for loading our data using fetch.
+> **[2:33](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=153)** This load function is basically going to contain logic for loading our data using [[Fetch]].
 >
 > **[2:39](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=159)** We're going to basically push this onto the requests array that we defined inside our context.
 >
@@ -2543,7 +2517,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=368)** Basically, this is just an implementation of fetch on the backend.
 >
-> **[6:12](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=372)** So we're going to say npm install isomorphic, may sure you spell that right, isomorphic-fetch.
+> **[6:12](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=372)** So we're going to say [[npm]] install isomorphic, may sure you spell that right, isomorphic-fetch.
 >
 > **[6:22](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=382)** And then we can use that on our server side by simply importing it up at the top.
 >
@@ -2591,9 +2565,9 @@ created: 2026-05-02
 >
 > **[8:45](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=525)** We can navigate around.
 >
-> **[8:47](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=527)** And if we inspect the HTML that we're actually getting from the server now, if we take a look at our network tab and refresh it so that we see our initial page load here, and take a look at Articles, we're going to see, if we search for Article 1 that yes, we have it as part of the JSON stringify portion when we set it on window.preloadedData but we also have it displayed in the DOM, which means that the first HTML that our browser's going to see contains these items.
+> **[8:47](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=527)** And if we inspect the [[HTML]] that we're actually getting from the server now, if we take a look at our network tab and refresh it so that we see our initial page load here, and take a look at Articles, we're going to see, if we search for Article 1 that yes, we have it as part of the [[JSON]] stringify portion when we set it on window.preloadedData but we also have it displayed in the DOM, which means that the first HTML that our browser's going to see contains these items.
 >
-> **[9:17](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=557)** So that's good for SEO and again, it's also much better for user experience.
+> **[9:17](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=557)** So that's good for SEO and again, it's also much better for [[User Experience (UX)|user experience]].
 >
 > **[9:23](https://www.linkedin.com/learning/react-software-architecture/enhancing-ssr-with-context?u=76281980&t=563)** Now again, the code that we wrote here was fairly complicated, so please feel free to look through it once or twice, trace it through with your finger.
 >
@@ -2601,7 +2575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Fetch]] (13), next (4), [[React.js|React]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (13), [[React.js|React]] (2), [[npm]] (2), [[HTML]] (2), [[JSON]] (1)
 > **Code Identifiers:** usedatassr (7), resourcename (5), usestate (2), setdata (2), preloadeddata (2)
 > **Env Vars:** url (2), html (2), json (1), dom (1), seo (1)
 > **CLI Commands:** make (2), npm (2)
@@ -2615,14 +2589,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code splitting basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980)
+#### [Code splitting basics](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=0)** - [Instructor] Okay, so the next topic that we're going to move on to here is code splitting.
 >
-> **[0:05](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=5)** Now, code splitting is another extremely important part of React applications when you want to maximize performance.
+> **[0:05](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=5)** Now, code splitting is another extremely important part of [[React.js|React]] applications when you want to maximize performance.
 >
 > **[0:11](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=11)** Essentially what code splitting means is that instead of delivering all of our React code to the client at once, we deliver it in pieces as needed.
 >
@@ -2692,7 +2665,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=192)** Okay, so if we run our application now and take a look at this, we can see that when we go to the About page, first of all, let's open up our Inspector window and go to the Network Tab just to see if anything new is happening.
 >
-> **[3:30](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=210)** So first of all, we see that our main JavaScript bundles, all the code for our React application is loaded at the very beginning and then when we go to the About page, even though we're displaying new components that we didn't need on the Home page, we see that there's no additional activity down here in the Network tab.
+> **[3:30](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=210)** So first of all, we see that our main [[JavaScript]] bundles, all the code for our React application is loaded at the very beginning and then when we go to the About page, even though we're displaying new components that we didn't need on the Home page, we see that there's no additional activity down here in the Network tab.
 >
 > **[3:51](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980&t=231)** So let's change our About page around to use code splitting.
 >
@@ -2770,7 +2743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[React.js|React]] (5), [[JavaScript]] (3), next (1), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[JavaScript]] (3)
 > **UI Navigation:** go to (5)
 > **Definitions:** is a  (3), is called (1), in other words (1)
 > **File Paths:** one.js (1), two.js (1), three.js (1)
@@ -2779,8 +2752,7 @@ created: 2026-05-02
 > **Exercise Files:** starter code (1), exercise files (1)
 > **Cross-References:** go back to (1)
 
-#### Route-based code splitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/route-based-code-splitting?u=76281980)
+#### [Route-based code splitting](https://www.linkedin.com/learning/react-software-architecture/route-based-code-splitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2842,7 +2814,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/react-software-architecture/route-based-code-splitting?u=76281980&t=209)** So let's open up our network tab and we'll go to the homepage and hit refresh.
 >
-> **[3:38](https://www.linkedin.com/learning/react-software-architecture/route-based-code-splitting?u=76281980&t=218)** So what we're going to see here is that we have this main dot chunk dot JS file, which contains sort of the main react code of our application.
+> **[3:38](https://www.linkedin.com/learning/react-software-architecture/route-based-code-splitting?u=76281980&t=218)** So what we're going to see here is that we have this main dot chunk dot JS file, which contains sort of the main [[React.js|react]] code of our application.
 >
 > **[3:46](https://www.linkedin.com/learning/react-software-architecture/route-based-code-splitting?u=76281980&t=226)** But we're also going to see this six dot chunk dot JS, which is presumably the homepage component up here that's being loaded as a separate chunk and what we're going to see now, again, if we clear our network and hit one of these.
 >
@@ -2856,15 +2828,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), hit (2), next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - okay (1)
 
-#### When to use code splitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980)
+#### [When to use code splitting](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2882,7 +2853,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=53)** And instead of just displaying our one, two and three components directly, let's have a button that shows and hides those components.
 >
-> **[1:02](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=62)** So first of all, what we're going to do is import the useState hook up here from React, and then inside our about page, we're going to create a state variable, which we'll call showComponents and we'll have one that says setShowComponents.
+> **[1:02](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=62)** So first of all, what we're going to do is import the useState hook up here from [[React.js|React]], and then inside our about page, we're going to create a state variable, which we'll call showComponents and we'll have one that says setShowComponents.
 >
 > **[1:22](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=82)** And this state is basically going to be a Boolean.
 >
@@ -2914,7 +2885,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=162)** If we click on this, we're going to see that only then are the chunks for our one, two and three components actually loaded.
 >
-> **[2:50](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=170)** So that's again, one possible situation where you would want to do code splitting besides with routing is basically again, whenever there's a significant portion of code that users aren't going to be seeing.
+> **[2:50](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=170)** So that's again, one possible situation where you would want to do code splitting besides with [[Routing]] is basically again, whenever there's a significant portion of code that users aren't going to be seeing.
 >
 > **[3:01](https://www.linkedin.com/learning/react-software-architecture/when-to-use-code-splitting?u=76281980&t=181)** Now, obviously we've been working with very small components here, but this could apply to components that are much larger and more unwieldy than the ones we've been working with.
 
@@ -2928,8 +2899,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error boundaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980)
+#### [Error boundaries](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2947,11 +2917,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=64)** So, if we could load one and two, but three, for some reason failed the load, these things happen with network requests, then our application would basically crash.
 >
-> **[1:14](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=74)** So, this is where something called ErrorBoundaries comes in, in react.
+> **[1:14](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=74)** So, this is where something called ErrorBoundaries comes in, in [[React.js|react]].
 >
 > **[1:18](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=78)** ErrorBoundaries are basically components that block off sections of the user interface that we expect may cause some kind of error.
 >
-> **[1:29](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=89)** So, in the case of a lazy loading here, what we're going to want to do, is wrap these components in an ErrorBoundary, so that if one of them fails to load, we can still see, and continue to use the rest of our application.
+> **[1:29](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=89)** So, in the case of a lazy loading here, what we're going to want to do, is wrap these components in an ErrorBoundary, so that if one of them fails to load, we can still see, and continue to use the [[Representational State Transfer (REST)|rest]] of our application.
 >
 > **[1:42](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=102)** So what do ErroeBoundaries look like?
 >
@@ -3045,7 +3015,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=424)** Now, in production, you would not see this error show up.
 >
-> **[7:08](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=428)** So, what you can do if you really want to see what the application would look like with this error occurring, is we could create a production bill by running npm run build, and then in order to serve this in production, what we can do is say, npm install -g serve, that'll install the serve package globally, which we can use to serve our files in more of a production environment.
+> **[7:08](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=428)** So, what you can do if you really want to see what the application would look like with this error occurring, is we could create a production bill by running [[npm]] run build, and then in order to serve this in production, what we can do is say, npm install -g serve, that'll install the serve package globally, which we can use to serve our files in more of a production environment.
 >
 > **[7:37](https://www.linkedin.com/learning/react-software-architecture/error-boundaries?u=76281980&t=457)** And then, we'll just say, serve -s build, right?
 >
@@ -3081,7 +3051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[React.js|React]] (3), [[npm]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[npm]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** componentdidcatch (2), errorinfo (2), js (1), getderivedstatefromerror (1)
 > **CLI Commands:** npm (3), make (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -3095,8 +3065,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Function vs. feature-based organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/function-vs-feature-based-organization?u=76281980)
+#### [Function vs. feature-based organization](https://www.linkedin.com/learning/react-software-architecture/function-vs-feature-based-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3156,15 +3125,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), application (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monoliths, multi-repos, and monorepos
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980)
+#### [Monoliths, multi-repos, and monorepos](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3188,7 +3155,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=52)** In a multi-repo, the projects source code is kept separate into multiple code bases and all of these code bases can be worked on and deployed independent of one another.
 >
-> **[1:05](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=65)** You may have heard this talked about in the context of microservices before.
+> **[1:05](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=65)** You may have heard this talked about in the context of [[Microservices]] before.
 >
 > **[1:09](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=69)** Now monorepos are sort of a mix of monoliths and multi-repos.
 >
@@ -3236,7 +3203,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=185)** So you can have version one of the homepage.
 >
-> **[3:08](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=188)** You can have version three of the products page.
+> **[3:08](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=188)** You can have version three of the [[Microsoft Products|products]] page.
 >
 > **[3:12](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=192)** You can have version two of the checkout flow, et cetera.
 >
@@ -3252,13 +3219,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=224)** Monorepos as I mentioned before, include many of the benefits from both of the extremes, monoliths and multi-repos.
 >
-> **[3:53](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=233)** Now, a key thing to know about monorepos too is that they're used by many large tech companies, including Google, Facebook, Microsoft, Twitter, and many others.
+> **[3:53](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=233)** Now, a key thing to know about monorepos too is that they're used by many large tech companies, including [[Google]], Facebook, [[Microsoft]], Twitter, and many others.
 >
 > **[4:03](https://www.linkedin.com/learning/react-software-architecture/monoliths-multi-repos-and-monorepos?u=76281980&t=243)** So it's pretty clear that monorepos have some pretty nice benefits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (2), career (1), [[Microservices]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (2)
 > **Definitions:** in other words (2)
@@ -3270,12 +3237,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=0)** - [Narrator] Well, we've covered quite a few topics in this course, we learned server-side rendering in React as well as some techniques for loading data in a server-side rendered application.
+> **[0:00](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=0)** - [Narrator] Well, we've covered quite a few topics in this course, we learned server-side rendering in [[React.js|React]] as well as some techniques for loading data in a server-side rendered application.
 >
 > **[0:09](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=9)** We learned several of the state management solutions available for React applications, as well as how to add code splitting to our apps.
 >
@@ -3291,7 +3257,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=42)** Well, thanks for watching.
 >
-> **[0:43](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=43)** And if you want to get in touch with me, please don't hesitate to connect with me on LinkedIn.
+> **[0:43](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=43)** And if you want to get in touch with me, please don't hesitate to connect with me on [[LinkedIn]].
 >
 > **[0:47](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980&t=47)** I'm on LinkedIn quite often, and would love to hear any questions or comments from you, or if you just want to say hi, that's okay too.
 >
@@ -3301,7 +3267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[LinkedIn]] (2), data (1), application (1), management (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[LinkedIn]] (2)
 > **Speakers:** - [narrator] (1)
 
 

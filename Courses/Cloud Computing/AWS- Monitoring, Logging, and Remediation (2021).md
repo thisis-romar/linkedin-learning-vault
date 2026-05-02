@@ -82,34 +82,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring, logging, and remediation in AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980)
+#### [Monitoring, logging, and remediation in AWS](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=0)** - [Instructor] Organizations are, increasingly, moving their workloads to the AWS Cloud to take advantage of its speed, elasticity and flexible pricing options.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=9)** To build a fault-tolerant and highly available ecosystem, it is important to continuously monitor your applications and workloads and react to changes.
+> **[0:09](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=9)** To build a fault-tolerant and highly available ecosystem, it is important to continuously monitor your applications and workloads and [[React.js|react]] to changes.
 >
 > **[0:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=17)** This course will walk you through the different tools and services you can deploy to monitor and log your systems and execute remediation actions.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=25)** Hi, I'm Shyam Raj, I'm a technical instructor and industry specialist in Cloud computing, networking and security.
+> **[0:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=25)** Hi, I'm Shyam Raj, I'm a technical instructor and industry specialist in [[Cloud Computing]], networking and security.
 >
-> **[0:32](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=32)** I invite you to join my LinkedIn learning course on monitoring, logging and remediating in AWS.
+> **[0:32](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980&t=32)** I invite you to join my [[LinkedIn]] learning course on monitoring, logging and remediating in AWS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), cloud (2), [[React.js|React]] (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Cloud Computing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/what-you-should-know?u=76281980&t=0)** - [Instructor] Amazon Web Services offers a variety of tools for compute, storage, databases, governance and more.
+> **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/what-you-should-know?u=76281980&t=0)** - [Instructor] [[Amazon Web Services (AWS)|Amazon Web Services]] offers a variety of tools for compute, storage, [[Databases]], governance and more.
 >
 > **[0:08](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/what-you-should-know?u=76281980&t=8)** To appreciate the concepts discussed in this course, I recommend that you have a basic understanding of virtualization technology and essential services offered by AWS, such as compute and storage.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (1)
@@ -132,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review monitoring concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/review-monitoring-concepts?u=76281980)
+#### [Review monitoring concepts](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/review-monitoring-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +170,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), data (4), [[Automation]] (1), [[Security]] (1)
 > **CLI Commands:** aws (9)
 > **Env Vars:** aws (9)
 > **Definitions:** known as (1), is a  (1)
@@ -182,8 +178,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to CloudWatch
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980)
+#### [Introduction to CloudWatch](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=21)** By default, CloudWatch automatically displays metrics about every AWS service you use.
 >
-> **[0:27](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=27)** CloudWatch also allows you to create customized dashboards with metrics collected from your applications.
+> **[0:27](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=27)** CloudWatch also allows you to create customized [[Dashboards]] with metrics collected from your applications.
 >
 > **[0:32](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=32)** These can belong to multiple AWS accounts and regions giving you a unified view of your landscape.
 >
@@ -201,17 +196,17 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=42)** When an alarm is triggered, CloudWatch can send notifications or automatically make changes to the resources you're monitoring.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=49)** A common use case is to monitor the CPU utilization of your EC2 instances.
+> **[0:49](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=49)** A common use case is to monitor the CPU utilization of your [[Amazon EC2|EC2]] instances.
 >
 > **[0:54](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=54)** You can use this data to determine whether you need to launch additional instances to handle the increased load, or whether you need to terminate existing instances when the load is significantly less.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=66)** You can use CloudWatch via the AWS management console, CloudWatch API, command line interface or CLI, and the AWS SDKs.
+> **[1:06](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=66)** You can use CloudWatch via the AWS management console, CloudWatch API, command line interface or [[CLI]], and the AWS SDKs.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=77)** Technically, Amazon CloudWatch is a repository of metrics.
 >
-> **[1:20](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=80)** Different AWS services such as Amazon EC2 put their metrics into the repository.
+> **[1:20](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=80)** Different AWS services such as [[Amazon EC2]] put their metrics into the repository.
 >
-> **[1:26](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=86)** The user then uses these metrics to retrieve statistics.
+> **[1:26](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=86)** The user then uses these metrics to retrieve [[Statistics]].
 >
 > **[1:30](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-cloudwatch?u=76281980&t=90)** It is also possible to put your own custom metrics into the repository and retrieve statistics on them.
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), data (7), [[Amazon EC2]] (4), [[Amazon EC2|Ec2]] (3), management (2)
+> **Frameworks & Libraries:** [[Amazon EC2]] (4), [[Amazon EC2|Ec2]] (3), [[Statistics]] (2), [[Dashboards]] (1), [[CLI]] (1)
 > **Env Vars:** aws (13), ec2 (7), iam (3), cpu (2), api (1)
 > **CLI Commands:** aws (13), make (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
@@ -282,8 +277,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Warnings:** note that (1)
 
-#### Create a CloudWatch alarm
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980)
+#### [Create a CloudWatch alarm](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,7 +343,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=176)** The threshold type can be static or anomaly detection.
 >
-> **[3:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=180)** When the anomaly detection option is selected, CloudWatch uses statistical and machine learning algorithms to analyze metrics, determine normal base lines and detect anomalies.
+> **[3:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=180)** When the anomaly detection option is selected, CloudWatch uses statistical and machine learning [[Algorithms]] to analyze metrics, determine normal base lines and detect anomalies.
 >
 > **[3:10](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=190)** For the billing alarm, you will set the threshold type to static.
 >
@@ -405,13 +399,13 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=336)** So we've demonstrated how to create a billing alarm to track your AWS usage costs and prevent overuse it in your AWS account.
 >
-> **[5:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=344)** As you can imagine, CloudWatch Alarms have many other use cases like monitoring your EC2 instances, S3 buckets, database instances and more.
+> **[5:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=344)** As you can imagine, CloudWatch Alarms have many other use cases like monitoring your [[Amazon EC2|EC2]] instances, S3 buckets, database instances and more.
 >
 > **[5:54](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/create-a-cloudwatch-alarm?u=76281980&t=354)** Simply put, you can create alarms on any metric collected by CloudWatch.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), data (10), next (3), management (2), product (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (14), sns (4), iam (1), arn (1), ec2 (1)
 > **CLI Commands:** aws (14), find (1), make (1)
 > **Prerequisites:** configure (6)
@@ -420,8 +414,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), imagine (1)
 > **Warnings:** note that (2)
 
-#### CloudWatch Logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980)
+#### [CloudWatch Logs](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=10)** You can use CloudWatch Logs to centralize logs from your systems in one place, and then search, sort, filter, or query them for patterns.
 >
-> **[0:19](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=19)** You can also them by specific fields and visualize them in dashboards.
+> **[0:19](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=19)** You can also them by specific fields and visualize them in [[Dashboards]].
 >
 > **[0:24](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=24)** By default, logs are retained indefinitely and never expire.
 >
@@ -499,7 +492,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=172)** You can do this by attaching an IAM role.
 >
-> **[2:55](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=175)** In this case, even though you're configuring VPC flow logs, the logs will represent activity of EC2 instances, hosted in this VPC.
+> **[2:55](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=175)** In this case, even though you're configuring VPC flow logs, the logs will represent activity of [[Amazon EC2|EC2]] instances, hosted in this VPC.
 >
 > **[3:04](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs?u=76281980&t=184)** So, you will need an IAM role, that provides permissions to the EC2 service, to publish the CloudWatch Logs.
 >
@@ -645,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), aws (7), traffic (5), next (5), [[Search]] (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Dashboards]] (1)
 > **Env Vars:** vpc (9), aws (7), iam (4), ssh (3), ec2 (2)
 > **CLI Commands:** aws (7), find (3), ssh (3), make (1)
 > **UI Navigation:** select the (5), scroll down (3), go to (1), navigate to (1), click on (1)
@@ -654,8 +647,7 @@ created: 2026-05-02
 > **Warnings:** note that (3)
 > **Prerequisites:** configure (3)
 
-#### CloudWatch Logs Insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs-insights?u=76281980)
+#### [CloudWatch Logs Insights](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-logs-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +789,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1), [[Search]] (1), next (1), traffic (1)
 > **Env Vars:** vpc (4), tcp (4)
 > **Warnings:** note that (7)
 > **Code Identifiers:** sourceaddress (1), destinationaddress (1), sourceport (1), destinationport (1)
@@ -805,17 +796,17 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [instructor] (1)
 
-#### CloudWatch agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980)
+#### [CloudWatch agent](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=0)** - [Narrator] In the earlier videos you've seen that you can use Amazon CloudWatch to collect metrics from your EC2 instances, while Amazon CloudWatch collects standard metrics from you instances, it cannot collect internal system level and application level metrics such as disk and memory metrics.
+> **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=0)** - [Narrator] In the earlier videos you've seen that you can use Amazon CloudWatch to collect metrics from your [[Amazon EC2|EC2]] instances, while Amazon CloudWatch collects standard metrics from you instances, it cannot collect internal system level and application level metrics such as disk and memory metrics.
 >
 > **[0:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=18)** This is because CloudWatch only has visibility at the instance level, but this can be addressed with the Amazon CloudWatch Agent.
 >
-> **[0:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=25)** You can use it to collect internal system level metrics from Amazon EC2 instances.
+> **[0:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=25)** You can use it to collect internal system level metrics from [[Amazon EC2]] instances.
 >
 > **[0:31](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=31)** This is in addition to the metrics enabled by default on EC2 instances, you can also collect system level metrics from on premises servers.
 >
@@ -827,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=53)** A good use case is to log errors from your applications so you can quickly spot problems.
 >
-> **[0:58](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=58)** The CloudWatch agent is available for popular operating systems, such as Amazon Linux, Ubuntu, CentOS, Red Hat Enterprise Linux, 64 bit versions of Windows operating systems, and more.
+> **[0:58](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=58)** The CloudWatch agent is available for popular operating systems, such as Amazon [[Linux]], [[Ubuntu]], CentOS, Red Hat Enterprise Linux, 64 bit versions of [[Windows]] operating systems, and more.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=72)** You will find the full list of supported operating systems in the CloudWatch documentation.
 >
@@ -839,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=93)** Now let's walk through the steps needed to install the agent.
 >
-> **[1:37](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=97)** You will learn how to configure the agent to collect member utilization details from an EC2 instance running Windows server 2019.
+> **[1:37](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=97)** You will learn how to configure the agent to collect member utilization details from an EC2 instance running [[Windows Server]] 2019.
 >
 > **[1:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=104)** Before installing the agent, you will need to create an IAM role and attach it to the instance.
 >
@@ -891,7 +882,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=271)** You can create this file easily by invoking a wizard.
 >
-> **[4:34](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=274)** First open up PowerShell and use the CD command to navigate, to cdrive, program files, Amazon, Amazon CloudWatch agent folder, use the DIR command to view the available files.
+> **[4:34](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=274)** First open up [[Powershell]] and use the CD command to navigate, to cdrive, program files, Amazon, Amazon CloudWatch agent folder, use the DIR command to view the available files.
 >
 > **[4:49](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=289)** The file we are interested in is the first one, Amazon CloudWatch agent config wizard.
 >
@@ -899,7 +890,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=300)** The wizard will ask you a few questions to create the config file.
 >
-> **[5:04](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=304)** The first question is, on which office are you planning to use the agent?
+> **[5:04](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=304)** The first question is, on which [[Microsoft Office|office]] are you planning to use the agent?
 >
 > **[5:08](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=308)** Select two for Windows.
 >
@@ -959,7 +950,7 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=399)** Do you want to store the config in the SSM parameters store?
 >
-> **[6:43](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=403)** Select two for no, press enter to exit, use the DIR command again, the configuration has been stored in a file called config.json.
+> **[6:43](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=403)** Select two for no, press enter to exit, use the DIR command again, the configuration has been stored in a file called config.[[JSON]].
 >
 > **[6:53](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudwatch-agent?u=76281980&t=413)** Now you'll run the agent by executing a PowerShell script, begin with .\ followed by the script name and follow it up with a few arguments.
 >
@@ -1003,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), aws (8), next (8), [[Windows]] (4), application (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (12), [[Windows]] (4), [[Amazon EC2]] (2), [[Linux]] (2), [[Windows Server]] (2)
 > **Env Vars:** ec2 (14), aws (8), iam (5), cpu (3), ssm (2)
 > **CLI Commands:** aws (8), find (3), cd (1)
 > **UI Navigation:** select the (4), dropdown (2), navigate to (2), scroll down (1)
@@ -1012,12 +1003,11 @@ created: 2026-05-02
 > **Tools:** powershell (2)
 > **Exercise Files:** download the (1), template (1)
 
-#### Dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980)
+#### [Dashboards](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=0)** - [Instructor] While CloudWatch alarms provide a way to get notified when critical metrics reach a threshold, dashboards provide a unified view for selected metrics.
+> **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=0)** - [Instructor] While CloudWatch alarms provide a way to get notified when critical metrics reach a threshold, [[Dashboards]] provide a unified view for selected metrics.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=9)** As you can imagine, this is useful for systems and operations administrators who desire to monitor critical metrics from a single view.
 >
@@ -1025,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=23)** Dashboards are global, and there's no limit on how many you can create.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=28)** You can create dashboards from the AWS Management Console, AWS CLI and the API.
+> **[0:28](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=28)** You can create dashboards from the AWS Management Console, AWS [[CLI]] and the API.
 >
 > **[0:34](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=34)** Now let's go to the CloudWatch console and learn how to create a dashboard.
 >
@@ -1051,7 +1041,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=86)** Here, you will see the different namespaces based on usage in your account.
 >
-> **[1:30](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=90)** Select the EC2 namespace, and then click Per-Instance Metrics.
+> **[1:30](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=90)** Select the [[Amazon EC2|EC2]] namespace, and then click Per-Instance Metrics.
 >
 > **[1:35](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/dashboards?u=76281980&t=95)** Bear in mind, that you will see the EC2 namespace only if you're using EC2 services in your account.
 >
@@ -1123,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (7), [[Amazon EC2|Ec2]] (3), traffic (3), aws (2), data (2)
+> **Frameworks & Libraries:** [[Dashboards]] (7), [[Amazon EC2|Ec2]] (3), [[CLI]] (1)
 > **UI Navigation:** select the (5), switch to (2), dropdown (2), go to (1)
 > **Env Vars:** ec2 (3), aws (2), cpu (2), cli (1), api (1)
 > **CLI Commands:** aws (2), make (1)
@@ -1132,8 +1122,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **Speakers:** - [instructor] (1)
 
-#### CloudTrail Logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980)
+#### [CloudTrail Logs](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1172,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=135)** Now, you're looking at events that have matched your filters.
 >
-> **[2:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=138)** Note that you also have the option to download events in CSV or JSON format.
+> **[2:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=138)** Note that you also have the option to download events in CSV or [[JSON]] format.
 >
 > **[2:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=143)** To store events beyond 90 days, you can create a trail.
 >
@@ -1197,7 +1186,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=163)** So, the trail you're creating now will log events from all regions.
 >
-> **[2:47](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=167)** Use the CLI if you'd like to create a trail that only logs events from a single region.
+> **[2:47](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=167)** Use the [[CLI]] if you'd like to create a trail that only logs events from a single region.
 >
 > **[2:53](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=173)** However, note that AWS does not recommend doing so.
 >
@@ -1243,7 +1232,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=278)** Management events capture management operations, also known as control plane operations.
 >
-> **[4:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=284)** Examples include operations that configure security and routing and user login.
+> **[4:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=284)** Examples include operations that configure security and [[Routing]] and user login.
 >
 > **[4:49](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/cloudtrail-logs?u=76281980&t=289)** Data events capture operations performed on or within a resource, for example, Amazon S3 object-level API activity, AWS Lambda function execution activity and more.
 >
@@ -1267,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), management (9), data (3), next (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[JSON]] (1), [[CLI]] (1), [[Routing]] (1)
 > **Env Vars:** aws (13), api (2), csv (1), json (1), cli (1)
 > **CLI Commands:** aws (13), find (1)
 > **Warnings:** note that (4), troubleshoot (1)
@@ -1281,8 +1270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure Amazon SNS notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980)
+#### [Configure Amazon SNS notifications](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1330,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980&t=197)** So to begin with you only need to provide a topic name.
 >
-> **[3:21](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980&t=201)** The encryption setting allows you to enable server-side encryption at rest for your topic for now, leave it to disabled.
+> **[3:21](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980&t=201)** The encryption setting allows you to enable server-side encryption at [[Representational State Transfer (REST)|rest]] for your topic for now, leave it to disabled.
 >
 > **[3:29](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980&t=209)** The access policy section allows you to define who can publish and subscribe to the topic.
 >
@@ -1376,7 +1364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), aws (5), data (1), management (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sns (11), aws (5), sqs (3), http (2), https (2)
 > **CLI Commands:** aws (5), find (1)
 > **Definitions:** is a  (3), known as (2), is an  (1)
@@ -1385,8 +1373,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), set up (1)
 > **Analogies:** such as (2)
 
-#### Using Service Quotas
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-service-quotas?u=76281980)
+#### [Using Service Quotas](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-service-quotas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1459,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (19), management (2), [[Search]] (2), concurrent (1), next (1)
 > **Env Vars:** aws (19), vpc (2), sns (2), cis (1)
 > **CLI Commands:** aws (19), find (1)
 > **Definitions:** known as (3), is an  (1), is a  (1)
@@ -1480,9 +1466,9 @@ created: 2026-05-02
 > **Prerequisites:** configure (3), you'll need (1)
 > **Tools:** aws console (2), command line (1)
 > **Analogies:** for example (2)
+> **Speakers:** - [instructor] (1)
 
-#### Using AWS Health events
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-aws-health-events?u=76281980)
+#### [Using AWS Health events](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-aws-health-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1514,7 +1500,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-aws-health-events?u=76281980&t=106)** So you can also configure this from the Amazon Event Bridge Console.
 >
-> **[1:50](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-aws-health-events?u=76281980&t=110)** Let's configure a notification to alert when there is an operational issue or network connectivity issue with EC2.
+> **[1:50](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-aws-health-events?u=76281980&t=110)** Let's configure a notification to alert when there is an operational issue or network connectivity issue with [[Amazon EC2|EC2]].
 >
 > **[1:57](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/using-aws-health-events?u=76281980&t=117)** You're currently on step one under the event source section, make sure event pattern is selected, from the service named dropdown, select health.
 >
@@ -1540,7 +1526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Amazon EC2|Ec2]] (6), management (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6)
 > **Env Vars:** aws (9), ec2 (6), sns (1)
 > **UI Navigation:** dropdown (5), select the (5), open the (1), scroll down (1)
 > **CLI Commands:** aws (9), make (1)
@@ -1554,8 +1540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AWS Config
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980)
+#### [Introduction to AWS Config](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1579,7 +1564,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=87)** This represents a point in time view of the various attributes of a supported AWS resource.
 >
-> **[1:33](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=93)** It includes metadata, attributes, relationships, current configuration and related events.
+> **[1:33](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=93)** It includes [[Metadata]], attributes, relationships, current configuration and related events.
 >
 > **[1:41](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=101)** AWS Config creates a configuration item whenever it detects a change to a resource type it is recording.
 >
@@ -1631,7 +1616,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=231)** It uses the describe API or list API call to keep track of all changes to your resources.
 >
-> **[3:57](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=237)** Imagine a couple of EC2 instances sharing a security group.
+> **[3:57](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=237)** Imagine a couple of [[Amazon EC2|EC2]] instances sharing a security group.
 >
 > **[4:01](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=241)** The security group has two inbound rules.
 >
@@ -1641,7 +1626,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=266)** AWS Config can also post changes to an SNS topic.
 >
-> **[4:30](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=270)** AWS Config supports key AWS resource types, such as Amazon EC2, Amazon S3, Amazon VPC, AWS IAM, or identity and access management, AWS Lambda, AWS cloud formation, Amazon CloudWatch, AWS cloud trail, and more, for a full list of supported AWS resources, please refer to the AWS Config documentation.
+> **[4:30](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=270)** AWS Config supports key AWS resource types, such as [[Amazon EC2]], Amazon S3, Amazon VPC, AWS IAM, or identity and access management, AWS Lambda, AWS cloud formation, Amazon CloudWatch, AWS cloud trail, and more, for a full list of supported AWS resources, please refer to the AWS Config documentation.
 >
 > **[4:58](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980&t=298)** So you've understood how you can audit and maintain the configuration state of your AWS resources using AWS Config.
 >
@@ -1651,7 +1636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (33), [[Security]] (8), api (4), cloud (3), next (3)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Amazon EC2|Ec2]] (1), [[Amazon EC2]] (1)
 > **Env Vars:** aws (33), api (4), sns (2), ec2 (2), ec1 (1)
 > **CLI Commands:** aws (33)
 > **Definitions:** is a  (4), known as (1)
@@ -1659,8 +1644,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up AWS Config
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980)
+#### [Setting up AWS Config](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1660,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=25)** To change this, set it to record specific resource types.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=29)** For this example, we'll configure it to record EC2 instances and EC2 SecurityGroups From the Resource type dropdown, search for EC2, and select EC2 Instance and EC2 SecurityGroup.
+> **[0:29](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=29)** For this example, we'll configure it to record [[Amazon EC2|EC2]] instances and EC2 SecurityGroups From the Resource type dropdown, search for EC2, and select EC2 Instance and EC2 SecurityGroup.
 >
 > **[0:42](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=42)** AWS Config needs permissions to call other AWS services.
 >
@@ -1724,7 +1708,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=134)** To see more details, click the resource identifier.
 >
-> **[2:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=138)** Doing so shows the resource metadata.
+> **[2:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=138)** Doing so shows the resource [[Metadata]].
 >
 > **[2:21](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/setting-up-aws-config?u=76281980&t=141)** Scroll down to see the configuration item.
 >
@@ -1750,7 +1734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Amazon EC2|Ec2]] (6), next (3), management (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Metadata]] (1)
 > **Env Vars:** aws (11), ec2 (6), sns (1), vpc (1), ebs (1)
 > **CLI Commands:** aws (11), find (1)
 > **Prerequisites:** configure (4), set up (2), you'll need (1)
@@ -1759,8 +1743,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [tutor] (1)
 
-#### AWS Config managed rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/aws-config-managed-rules?u=76281980)
+#### [AWS Config managed rules](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/aws-config-managed-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,7 +1769,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/aws-config-managed-rules?u=76281980&t=38)** With this understanding, let's go to the AWS Management Console and learn how to configure a Config rule.
 >
-> **[0:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/aws-config-managed-rules?u=76281980&t=44)** We'll configure a rule to evaluate EC2 instances and identify those that are not of type t3.micro, and mark them as noncompliant.
+> **[0:44](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/aws-config-managed-rules?u=76281980&t=44)** We'll configure a rule to evaluate [[Amazon EC2|EC2]] instances and identify those that are not of type t3.micro, and mark them as noncompliant.
 >
 > **[0:54](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/aws-config-managed-rules?u=76281980&t=54)** From the AWS Config dashboard, on the left navigation pane, click Rules.
 >
@@ -1906,7 +1889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (23), [[Amazon EC2|Ec2]] (7), next (2), [[Automation]] (2), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7)
 > **Env Vars:** aws (23), ec2 (7), ebs (1)
 > **CLI Commands:** aws (23), make (2)
 > **UI Navigation:** select the (4), dropdown (2), go to (1), scroll down (1)
@@ -1920,8 +1903,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Amazon EventBridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980)
+#### [Introduction to Amazon EventBridge](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,7 +1919,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=29)** It routes data to targets such as AWS Lambda or Amazon Kinesis or an event bus in another account.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=37)** Since this is an event of an architecture, it enables developers to build decoupled applications resulting in greater scalability and flexibility.
+> **[0:37](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=37)** Since this is an event of an architecture, it enables developers to build decoupled applications resulting in greater [[Scalability]] and flexibility.
 >
 > **[0:46](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=46)** It also allows operations teams to respond quickly to changes and take corrective action.
 >
@@ -1955,9 +1937,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=82)** Events indicate changes in an environment.
 >
-> **[1:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=85)** This can be an AWS environment, a SaaS partner application, or your own custom application.
+> **[1:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=85)** This can be an AWS environment, a [[SaaS]] partner application, or your own custom application.
 >
-> **[1:32](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=92)** Examples of events include change in the state of an EC2 instance, or change in the state of a cloud watch alarm or bucket level operations performed in Amazon S3 such as create bucket, delete bucket, and more.
+> **[1:32](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=92)** Examples of events include change in the state of an [[Amazon EC2|EC2]] instance, or change in the state of a cloud watch alarm or bucket level operations performed in Amazon S3 such as create bucket, delete bucket, and more.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=106)** Next we have rules.
 >
@@ -1985,7 +1967,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=155)** Let's say you have an application server hosted on an EC2 instance that always needs to be in the running state.
 >
-> **[2:41](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=161)** You have an EventBridge event bus that receives events from the Amazon EC2 service.
+> **[2:41](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=161)** You have an EventBridge event bus that receives events from the [[Amazon EC2]] service.
 >
 > **[2:46](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=166)** You've configured a rule that looks for events describing a change in state for EC2 instances.
 >
@@ -1997,11 +1979,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=187)** As you can see, EventBridge allows you to connect applications using events, and it does this without writing code.
 >
-> **[3:13](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=193)** And since the architecture is loosely coupled, it improves application resiliency.
+> **[3:13](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980&t=193)** And since the architecture is loosely coupled, it improves application [[Resiliency]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (3), aws (3), [[Amazon EC2|Ec2]] (3), next (3)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Scalability]] (1), [[SaaS]] (1), [[Amazon EC2]] (1), [[Resiliency]] (1)
 > **Env Vars:** ec2 (4), aws (3), sns (3), sas (1), api (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** aws (3)
@@ -2010,14 +1992,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Amazon EventBridge
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-eventbridge?u=76281980)
+#### [Configure Amazon EventBridge](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-eventbridge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-eventbridge?u=76281980&t=0)** - Let's now configure an Amazon EventBridge rule that will notify when a critical server is shut down.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-eventbridge?u=76281980&t=6)** You have a critical application server hosted on an EC2 instance, that always needs to be running.
+> **[0:06](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-eventbridge?u=76281980&t=6)** You have a critical application server hosted on an [[Amazon EC2|EC2]] instance, that always needs to be running.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-eventbridge?u=76281980&t=12)** You will configure EventBridge to send a notification using SNS, if the server is shut down.
 >
@@ -2101,7 +2082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), application (2), aws (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** ec2 (3), sns (3), aws (2)
 > **UI Navigation:** dropdown (5), navigate to (1), select the (1), scroll down (1)
 > **Warnings:** note that (5)
@@ -2110,8 +2091,7 @@ created: 2026-05-02
 > **Definitions:** in other words (2), known as (1)
 > **Speakers:** - let (1)
 
-#### Lambda in response to CloudWatch alarms
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980)
+#### [Lambda in response to CloudWatch alarms](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2119,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=53)** Select the option to author from scratch and provide a function name.
 >
-> **[0:59](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=59)** Use the Runtime dropdown and set it to Python 3.8.
+> **[0:59](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=59)** Use the Runtime dropdown and set it to [[Python (Programming Language)|Python]] 3.8.
 >
 > **[1:04](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=64)** Next, you will need to assign an execution role.
 >
@@ -2151,7 +2131,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=79)** And select an IAM role that provides the required permissions.
 >
-> **[1:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=83)** The IAM role should provide permissions to the lambda function to reboot EC2 instances.
+> **[1:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=83)** The IAM role should provide permissions to the lambda function to reboot [[Amazon EC2|EC2]] instances.
 >
 > **[1:29](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/lambda-in-response-to-cloudwatch-alarms?u=76281980&t=89)** You will find more information about how to create the IAM role in the AWS documentation.
 >
@@ -2219,7 +2199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Amazon EC2|Ec2]] (4), application (1), management (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** select the (5), navigate to (4), dropdown (3), scroll down (2), double-click (1)
 > **Env Vars:** aws (4), ec2 (4), iam (3), sns (2)
 > **CLI Commands:** aws (4), find (2), python (1)
@@ -2228,8 +2208,7 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Cross-References:** in the last (1)
 
-#### Understand AWS Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980)
+#### [Understand AWS Systems Manager](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2247,15 +2226,15 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=37)** You can group AWS resources together using different attributes, such as application, region, project, and more.
 >
-> **[0:45](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=45)** You can automatically collect inventory information about your Amazon EC2 instances and on-premises managed instances.
+> **[0:45](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=45)** You can automatically collect inventory information about your [[Amazon EC2]] instances and on-premises managed instances.
 >
-> **[0:52](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=52)** Inventory information includes metadata, such as applications, network configuration, and more.
+> **[0:52](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=52)** Inventory information includes [[Metadata]], such as applications, network configuration, and more.
 >
 > **[0:58](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=58)** Systems Manager groups these capabilities into five categories, operations management, application management, change management, node management, and shared resources.
 >
 > **[1:10](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=70)** We'll see this in a moment when we get to the AWS Console.
 >
-> **[1:14](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=74)** Systems Manager provides an agent known as the Systems Manager agent that you can install on EC2 instances, on-premises servers and virtual machines.
+> **[1:14](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=74)** Systems Manager provides an agent known as the Systems Manager agent that you can install on [[Amazon EC2|EC2]] instances, on-premises servers and [[Virtual Machines]].
 >
 > **[1:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=83)** Systems Manager was earlier known as Simple Systems Manager or SSM.
 >
@@ -2263,7 +2242,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=93)** It is with this agent that systems manager updates, manages and configures your resources.
 >
-> **[1:39](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=99)** You can install the SSM agent on Linux, Mac OS, and Windows operating systems.
+> **[1:39](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=99)** You can install the SSM agent on [[Linux]], Mac OS, and [[Windows]] operating systems.
 >
 > **[1:45](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/understand-aws-systems-manager?u=76281980&t=105)** For specific operating system versions, please refer to the AWS documentation.
 >
@@ -2367,7 +2346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (15), aws (11), [[Virtual Machines]] (7), node (4), application (3)
+> **Frameworks & Libraries:** [[Virtual Machines]] (7), [[Amazon EC2|Ec2]] (2), [[Amazon EC2]] (1), [[Metadata]] (1), [[Linux]] (1)
 > **Env Vars:** aws (11), ssm (6), ec2 (3), iam (1)
 > **CLI Commands:** aws (11), node (4), find (3), make (2)
 > **Prerequisites:** install (6), configure (6), set up (1)
@@ -2376,8 +2355,7 @@ created: 2026-05-02
 > **Analogies:** such as (3)
 > **Warnings:** note that (2)
 
-#### Remediate using AWS Systems Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980)
+#### [Remediate using AWS Systems Manager](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2389,9 +2367,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=12)** To know more about an instance, simply click the instance ID.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=17)** This shows an overview of the instance with options to view file system, windows registry, event logs, performance counters, and users and groups.
+> **[0:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=17)** This shows an overview of the instance with options to view file system, [[Windows]] registry, event logs, performance counters, and users and groups.
 >
-> **[0:28](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=28)** For Linux machines, you will not see the options for registry and event logs.
+> **[0:28](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=28)** For [[Linux]] machines, you will not see the options for registry and event logs.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=33)** You can connect to your instance right from here, click Instance actions, and then click Start session.
 >
@@ -2445,7 +2423,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=185)** To do so, on the left navigation pane under the shared resources section, click Documents, then click Create document and select the type as command or session.
 >
-> **[3:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=197)** You can specify the document content in JSON or YAML format.
+> **[3:17](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=197)** You can specify the document content in [[JSON]] or YAML format.
 >
 > **[3:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=203)** The distributor feature allows you to install software on your manage instances.
 >
@@ -2465,7 +2443,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=255)** Click Run.
 >
-> **[4:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=258)** In addition to managing your instances, systems manager also allows you to maintain the state of your EC2 and hybrid infrastructure.
+> **[4:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=258)** In addition to managing your instances, systems manager also allows you to maintain the state of your [[Amazon EC2|EC2]] and hybrid infrastructure.
 >
 > **[4:25](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/remediate-using-aws-systems-manager?u=76281980&t=265)** This is done using state manager.
 >
@@ -2509,7 +2487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Windows]] (3), management (3), [[Search]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (1), [[JSON]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (4), ssm (1), json (1), yaml (1), ec2 (1)
 > **UI Navigation:** select the (7), scroll down (5), navigate to (1)
 > **CLI Commands:** aws (4), find (2), node (1), ssh (1)
@@ -2523,8 +2501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980)
+#### [Next steps with AWS](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2534,7 +2511,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980&t=11)** I hope you appreciated the different strategies you can deploy to build continuously monitored self-healing systems on AWS.
 >
-> **[0:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980&t=18)** Cloud computing is a continuously evolving technology and AWS keeps updating its tool set.
+> **[0:18](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980&t=18)** [[Cloud Computing]] is a continuously evolving technology and AWS keeps updating its tool set.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980&t=23)** I highly recommend checking the AWS documentation regularly for the latest updates and service offerings.
 >
@@ -2542,7 +2519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **CLI Commands:** aws (7)
 > **Env Vars:** aws (7)
 > **Definitions:** is a  (1)

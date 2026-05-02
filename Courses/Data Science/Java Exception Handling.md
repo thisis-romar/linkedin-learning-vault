@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why bother with exception handling?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980)
+#### [Why bother with exception handling?](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,15 +93,14 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980&t=32)** Exception handling is crucial in ensuring your app provides the best experience for your users and easy debugging for other developers.
 >
-> **[0:42](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980&t=42)** Come join me in my LinkedIn learning course to learn and understand the basics of exception handling.
+> **[0:42](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980&t=42)** Come join me in my [[LinkedIn]] learning course to learn and understand the basics of exception handling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are throwables?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980)
+#### [What are throwables?](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,9 +108,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=7)** No previous knowledge around these terms are needed.
 >
-> **[0:11](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=11)** We will be using a Spring Boot app with a REST API to illustrate examples of throwables, errors, and exceptions throughout this course.
+> **[0:11](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=11)** We will be using a [[Spring Boot]] app with a [[Representational State Transfer (REST)|REST]] API to illustrate examples of throwables, errors, and exceptions throughout this course.
 >
-> **[0:20](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=20)** Please refer to other courses on LinkedIn Learning on REST APIs and Spring Boot if you do not already have experience with these concepts.
+> **[0:20](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=20)** Please refer to other courses on [[LinkedIn]] Learning on REST APIs and Spring Boot if you do not already have experience with these concepts.
 >
 > **[0:29](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=29)** This includes understanding how to make a REST API with Spring, as well as how to make HTTP requests.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=82)** Lastly, both errors and exceptions are subclasses of the throwable class.
 >
-> **[1:28](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=88)** The throwable class is a superclass of all errors and exceptions in Java.
+> **[1:28](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=88)** The throwable class is a superclass of all errors and exceptions in [[Java]].
 >
 > **[1:33](https://www.linkedin.com/learning/java-exception-handling/what-are-throwables?u=76281980&t=93)** These objects can be thrown using the throw statement and they can be caught using the catch clause.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Representational State Transfer (REST)|Rest]] (3), [[Spring Boot]] (2), api (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Spring Boot]] (2), [[Java]] (2), [[LinkedIn]] (1)
 > **Env Vars:** rest (3), api (2), http (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
@@ -180,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are errors?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980)
+#### [What are errors?](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980&t=38)** It is thrown when it is best to terminate the program rather than attempt to handle the exception.
 >
-> **[0:43](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980&t=43)** Another common error is the virtual machine error to indicate an issue with the Java virtual machine or JVM.
+> **[0:43](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980&t=43)** Another common error is the virtual machine error to indicate an issue with the [[Java]] virtual machine or JVM.
 >
 > **[0:50](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980&t=50)** Running out of resources it needs to continue working.
 >
@@ -234,8 +231,7 @@ created: 2026-05-02
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error: Uncaught StackOverflowError
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980)
+#### [Error: Uncaught StackOverflowError](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=16)** Errors are throwables that should not be handled by an app and indicate an unrecoverable issue with your application.
 >
-> **[0:23](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=23)** StackOverflowError is an example of a VirtualMachineError indicating that the Java Virtual Machine or JVM has run out of some kind of resource.
+> **[0:23](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=23)** StackOverflowError is an example of a VirtualMachineError indicating that the [[Java]] Virtual Machine or JVM has run out of some kind of resource.
 >
 > **[0:32](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=32)** In this case, the stack for the app has overflowed.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=50)** One plus one equals two, one plus two equals three, two plus three equals five, and so on.
 >
-> **[0:58](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=58)** Now that we know what Fibonacci sequence is, let's review an existing Spring Boot app that provides an endpoint for a REST API that takes a number N and returns the n-th number of the Fibonacci sequence.
+> **[0:58](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=58)** Now that we know what Fibonacci sequence is, let's review an existing [[Spring Boot]] app that provides an endpoint for a [[Representational State Transfer (REST)|REST]] API that takes a number N and returns the n-th number of the Fibonacci sequence.
 >
 > **[1:12](https://www.linkedin.com/learning/java-exception-handling/error-uncaught-stackoverflowerror?u=76281980&t=72)** If we pass in six as N to our endpoint in our app, it will return eight, because eight is the sixth number in the Fibonacci sequence.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Boot]] (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Spring Boot]] (1)
 > **Env Vars:** ide (3), jvm (2), rest (2), api (1), http (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Tools:** postman (2), command line (1)
@@ -337,8 +333,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are exceptions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980)
+#### [What are exceptions?](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=13)** There are two types to the exception object, checked exceptions and unchecked exceptions, also known as runtime exceptions.
 >
-> **[0:25](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=25)** Checked exceptions are throwables in Java that are checked at compile time.
+> **[0:25](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=25)** Checked exceptions are throwables in [[Java]] that are checked at compile time.
 >
 > **[0:30](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=30)** This means any checked exceptions must be declared in the method hitter or be caught and handled.
 >
@@ -380,18 +375,17 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=149)** Or, they might need to create their own specific exceptions that users or other dependencies will need to know how to handle.
 >
-> **[2:36](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=156)** Throughout the rest of the chapter and the next, we will learn about specific strategies for throwing, catching, and handling a variety of these exceptions now that we know what they are.
+> **[2:36](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980&t=156)** Throughout the [[Representational State Transfer (REST)|rest]] of the chapter and the next, we will learn about specific strategies for throwing, catching, and handling a variety of these exceptions now that we know what they are.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), api (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** npe (2), ide (1), api (1)
 > **Definitions:** known as (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exception: IOException
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/exception-ioexception?u=76281980)
+#### [Exception: IOException](https://www.linkedin.com/learning/java-exception-handling/exception-ioexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/java-exception-handling/exception-ioexception?u=76281980&t=22)** This generate Fibonacci sequence method online 34, takes in a request forum of in.
 >
-> **[0:29](https://www.linkedin.com/learning/java-exception-handling/exception-ioexception?u=76281980&t=29)** We've been past that in value to the GIT sequence method to find online 45.
+> **[0:29](https://www.linkedin.com/learning/java-exception-handling/exception-ioexception?u=76281980&t=29)** We've been past that in value to the [[Git]] sequence method to find online 45.
 >
 > **[0:36](https://www.linkedin.com/learning/java-exception-handling/exception-ioexception?u=76281980&t=36)** This method will generate an array list of integers representing the sequence.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (1)
 > **Env Vars:** ide (5), git (1), rit (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** git (1), find (1)
@@ -491,8 +485,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exception: FileNotFoundException
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/exception-filenotfoundexception?u=76281980)
+#### [Exception: FileNotFoundException](https://www.linkedin.com/learning/java-exception-handling/exception-filenotfoundexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/java-exception-handling/exception-filenotfoundexception?u=76281980&t=100)** What happens though if I request a file name that does not exist?
 >
-> **[1:45](https://www.linkedin.com/learning/java-exception-handling/exception-filenotfoundexception?u=76281980&t=105)** Let's give that a shot with a file called fib.txt, the response is not a user-friendly JSON object, and it's returning an HTTP status of 500 internal server error.
+> **[1:45](https://www.linkedin.com/learning/java-exception-handling/exception-filenotfoundexception?u=76281980&t=105)** Let's give that a shot with a file called fib.txt, the response is not a user-friendly [[JSON]] object, and it's returning an HTTP status of 500 internal server error.
 >
 > **[1:59](https://www.linkedin.com/learning/java-exception-handling/exception-filenotfoundexception?u=76281980&t=119)** Spring rests sees this IO exception or the file that found exception and uses the 500 as the generic response, any time it has an internal issue.
 >
@@ -610,7 +603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[JSON]] (1), generic (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** ide (2), gui (1), url (1), txt (1), json (1)
 > **Definitions:** is a  (5)
 > **File Paths:** fib.txt (3), fibonacci.txt (1)
@@ -619,14 +612,13 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **UI Navigation:** open the (1)
 
-#### Challenge: Catch and handle two exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/challenge-catch-and-handle-two-exceptions?u=76281980)
+#### [Challenge: Catch and handle two exceptions](https://www.linkedin.com/learning/java-exception-handling/challenge-catch-and-handle-two-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-exception-handling/challenge-catch-and-handle-two-exceptions?u=76281980&t=0)** - [Instructor] So far in this course, we have learned about throwables, exceptions, and how to throw and catch these exceptions.
 >
-> **[0:12](https://www.linkedin.com/learning/java-exception-handling/challenge-catch-and-handle-two-exceptions?u=76281980&t=12)** In this challenge, we will update the rest of our code to handle catching two other exceptions.
+> **[0:12](https://www.linkedin.com/learning/java-exception-handling/challenge-catch-and-handle-two-exceptions?u=76281980&t=12)** In this challenge, we will update the [[Representational State Transfer (REST)|rest]] of our code to handle catching two other exceptions.
 >
 > **[0:19](https://www.linkedin.com/learning/java-exception-handling/challenge-catch-and-handle-two-exceptions?u=76281980&t=19)** In our controller, we have two endpoints that currently throw exceptions.
 >
@@ -666,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), application (2), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **Env Vars:** http (3), rest (2), api (1), gui (1), ide (1)
 > **Tools:** postman (3)
 > **CLI Commands:** find (1)
@@ -674,8 +666,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Catch and handle two exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/solution-catch-and-handle-two-exceptions?u=76281980)
+#### [Solution: Catch and handle two exceptions](https://www.linkedin.com/learning/java-exception-handling/solution-catch-and-handle-two-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +738,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **Code Identifiers:** fibnum (3)
 > **Env Vars:** ide (2)
 > **CLI Commands:** find (1)
@@ -761,8 +751,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are runtime exceptions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980)
+#### [What are runtime exceptions?](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,7 +763,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980&t=16)** Runtime exceptions are unchecked exceptions.
 >
-> **[0:19](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980&t=19)** This means our JVM or the Java Virtual Machine does not check for these exceptions at compile time when code is compiled.
+> **[0:19](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980&t=19)** This means our JVM or the [[Java]] Virtual Machine does not check for these exceptions at compile time when code is compiled.
 >
 > **[0:27](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980&t=27)** Apps will likely not be able to automatically recover from an unchecked exception as they are not always anticipated when writing the code.
 >
@@ -818,8 +807,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Runtime exception: Return NumberFormatException to user
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980)
+#### [Runtime exception: Return NumberFormatException to user](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +837,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=78)** Let's see what happens when I pass in a letter instead of a number to either of these endpoints.
 >
-> **[1:25](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=85)** I already have my Java application running as you can see in the bottom of my console with the started Fibonacci app message.
+> **[1:25](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=85)** I already have my [[Java]] application running as you can see in the bottom of my console with the started Fibonacci app message.
 >
 > **[1:32](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=92)** In my Postman GUI, I will try to send a request to my application.
 >
@@ -857,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=108)** It's not the most helpful message, but I at least understand that as a user, I am passing something in that is not the best expected request.
 >
-> **[1:58](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=118)** This is happening, because our Spring REST controller is expecting an integer, but we are passing in a string.
+> **[1:58](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=118)** This is happening, because our Spring [[Representational State Transfer (REST)|REST]] controller is expecting an integer, but we are passing in a string.
 >
 > **[2:06](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-return-numberformatexception-to-user?u=76281980&t=126)** You will notice in our console, we actually don't have any exceptions, but a bad request HTTP response is being passed before we even attempt to try to get the Fibonacci number on line 26.
 >
@@ -957,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), api (1), next (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (2), ide (2), api (1), gui (1), rest (1)
 > **Definitions:** is a  (4), is an  (2)
 > **CLI Commands:** find (3)
@@ -966,8 +954,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Handle an ArithmeticException
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/challenge-handle-an-arithmeticexception?u=76281980)
+#### [Challenge: Handle an ArithmeticException](https://www.linkedin.com/learning/java-exception-handling/challenge-handle-an-arithmeticexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1034,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** url (1), http (1)
 > **Tools:** postman (2)
@@ -1056,8 +1042,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Handle an ArithmeticException
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/solution-handle-an-arithmeticexception?u=76281980)
+#### [Solution: Handle an ArithmeticException](https://www.linkedin.com/learning/java-exception-handling/solution-handle-an-arithmeticexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1082,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/java-exception-handling/solution-handle-an-arithmeticexception?u=76281980&t=159)** It is a great muscle to build, to learn to anticipate what validations would need to be done to avoid exceptions before they occur.
 >
-> **[2:48](https://www.linkedin.com/learning/java-exception-handling/solution-handle-an-arithmeticexception?u=76281980&t=168)** We know that if we were building a banking system dividing $10.00 between zero accounts is not acceptable or possible, so why wait until an exception is thrown to handle it?
+> **[2:48](https://www.linkedin.com/learning/java-exception-handling/solution-handle-an-arithmeticexception?u=76281980&t=168)** We know that if we were building a [[Banking]] system dividing $10.00 between zero accounts is not acceptable or possible, so why wait until an exception is thrown to handle it?
 >
 > **[3:01](https://www.linkedin.com/learning/java-exception-handling/solution-handle-an-arithmeticexception?u=76281980&t=181)** In my opinion, it is best to prevent such exceptions, when possible, by anticipating what validation may be necessary.
 >
@@ -1105,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Env Vars:** ide (1)
 > **Versions:** 10.00 (1)
@@ -1114,8 +1099,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Runtime exception: Handling of NullPointerException
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-handling-of-nullpointerexception?u=76281980)
+#### [Runtime exception: Handling of NullPointerException](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-handling-of-nullpointerexception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1207,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), generic (2)
 > **Env Vars:** npe (4), ide (4), http (2), jvm (1), gui (1)
 > **Warnings:** warning (3), note that (1)
 > **Definitions:** means that (2)
@@ -1231,8 +1214,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Runtime exception: Unknown runtime exception
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980)
+#### [Runtime exception: Unknown runtime exception](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1268,17 +1250,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=134)** Inside our catch statement on line 32, we can do a number of things.
 >
-> **[2:18](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=138)** We should be sure to log detailed information like metadata around parameters provided or the very specific error message and (indistinct) for easier debugging leader.
+> **[2:18](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=138)** We should be sure to log detailed information like [[Metadata]] around parameters provided or the very specific error message and (indistinct) for easier debugging leader.
 >
 > **[2:29](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=149)** Remember, we don't always want to return this information to the user for security purposes.
 >
 > **[2:35](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=155)** This is also a good place to set up any metrics that you might need to keep track of the number of exceptions that could occur, for your dashboard and alerting in your application, or to even alert the person who was on call.
 >
-> **[2:48](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=168)** I don't have any logger or metrics set up as the snap the focus of this course, but I highly recommend learning more about logging and metrics for your Spring Boot application.
+> **[2:48](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=168)** I don't have any logger or metrics set up as the snap the focus of this course, but I highly recommend learning more about logging and metrics for your [[Spring Boot]] application.
 >
 > **[3:02](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=182)** Beyond logging and metrics, we can also use this catch clause to appropriately respond to the user.
 >
-> **[3:07](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=187)** Recall that the Spring Rest controller will return a 500 internal error, if any unhandled exception were to occur.
+> **[3:07](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=187)** Recall that the Spring [[Representational State Transfer (REST)|Rest]] controller will return a 500 internal error, if any unhandled exception were to occur.
 >
 > **[3:15](https://www.linkedin.com/learning/java-exception-handling/runtime-exception-unknown-runtime-exception?u=76281980&t=195)** In this case, I still want to return the response entity with the internal server error.
 >
@@ -1292,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), application (2), [[Metadata]] (1), [[Debugging]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Spring Boot]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), snap (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** npe (1)
@@ -1301,8 +1283,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Handle potential runtime exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/challenge-handle-potential-runtime-exceptions?u=76281980)
+#### [Challenge: Handle potential runtime exceptions](https://www.linkedin.com/learning/java-exception-handling/challenge-handle-potential-runtime-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,13 +1309,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Handle potential runtime exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/solution-handle-potential-runtime-exceptions?u=76281980)
+#### [Solution: Handle potential runtime exceptions](https://www.linkedin.com/learning/java-exception-handling/solution-handle-potential-runtime-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,7 +1383,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (4), next (1), application (1)
 > **Code Identifiers:** findnumber (1), createsequence (1), getsequence (1), findratio (1)
 > **Env Vars:** npe (1), ide (1), bad_request (1)
 > **CLI Commands:** find (1), make (1)
@@ -1416,8 +1394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with exception handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980)
+#### [Next steps with exception handling](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,15 +1404,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980&t=13)** I would also recommend learning about metrics through Spring's Actuator for your app, which you can hear more about in our Spring Essential Training course.
 >
-> **[0:22](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980&t=22)** Beyond these topics, which are more related to exception handling we have already discussed, I hope this course encourages you to continue your learning journey with Spring and Java.
+> **[0:22](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980&t=22)** Beyond these topics, which are more related to exception handling we have already discussed, I hope this course encourages you to continue your learning journey with Spring and [[Java]].
 >
-> **[0:34](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980&t=34)** I hope you consider learning more advanced topics like our course on Spring Data, or even my course on Spring Cloud with Google Cloud platform.
+> **[0:34](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980&t=34)** I hope you consider learning more advanced topics like our course on [[Spring Data]], or even my course on Spring Cloud with [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:43](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980&t=43)** Thanks for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Java]] (1), [[Spring Data]] (1), cloud (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Spring Data]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Env Vars:** mvc (1)
 > **Speakers:** - [instructor] (1)
 

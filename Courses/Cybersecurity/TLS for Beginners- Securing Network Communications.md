@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn to secure your network communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980)
+#### [Learn to secure your network communications](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980&t=0)** - [Dan] This course exposes you to PKI and TLS configurations that can mitigate network security threats.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980&t=0)** - [Dan] This course exposes you to PKI and TLS configurations that can mitigate [[Network Security]] threats.
 >
 > **[0:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980&t=7)** You can follow along with demonstrations that configure a PKI to enable secure TLS communications for various platforms.
 >
@@ -100,8 +99,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -109,11 +107,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=9)** Well, for starters, we should have a bit of knowledge related to the TCP/IP protocol suite because we will be referring to things like IP addresses and DNS names.
 >
-> **[0:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=20)** We should have a general sense of how to navigate through the Microsoft Windows server operating system environment.
+> **[0:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=20)** We should have a general sense of how to navigate through the [[Microsoft]] [[Windows Server]] operating system environment.
 >
 > **[0:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=26)** We'll be working both in the GUI, but we'll also be working at the command line.
 >
-> **[0:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=31)** Nothing too extravagant, but we should know how to move around the Windows server environment, as well as the Linux operating system environment.
+> **[0:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=31)** Nothing too extravagant, but we should know how to move around the Windows server environment, as well as the [[Linux]] operating system environment.
 >
 > **[0:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=38)** Now in Linux, we're going to be doing everything exclusively from the command line.
 >
@@ -123,29 +121,29 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=56)** The same goes for web browsers and web server configurations.
 >
-> **[1:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=61)** Whether you're familiar with using the Safari, the Firefox, Google Chrome, Microsoft Edge web browser, really doesn't matter, we just have to have a general sense of the purpose of a web browser and that some of its settings can be configured such as configuring trusted route certification authorities.
+> **[1:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=61)** Whether you're familiar with using the Safari, the Firefox, [[Google]] Chrome, Microsoft Edge web browser, really doesn't matter, we just have to have a general sense of the purpose of a web browser and that some of its settings can be configured such as configuring trusted route certification authorities.
 >
 > **[1:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=80)** On the web server side, we're going to be working with the Microsoft Internet Information Services or IIS Web Server, specifically focusing on the security aspect of it, as well as the Apache web server on the Linux platform.
 >
-> **[1:34](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=94)** We should have a basic understanding of what the purpose of Amazon Web Services or AWS is, as well as Microsoft Azure.
+> **[1:34](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=94)** We should have a basic understanding of what the purpose of [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS is, as well as [[Microsoft Azure]].
 >
-> **[1:43](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=103)** These are cloud computing environments where we can deploy things like virtual machines, virtual networks, but the focus really here is working with PKI certificates in the cloud hosted environment.
+> **[1:43](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=103)** These are [[Cloud Computing]] environments where we can deploy things like [[Virtual Machines]], virtual networks, but the focus really here is working with PKI certificates in the cloud hosted environment.
 >
-> **[1:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=118)** Our course lab environment will consist of a number of items including a Microsoft Windows Server 2022 Active Directory domain controller.
+> **[1:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=118)** Our course lab environment will consist of a number of items including a Microsoft Windows Server 2022 [[Active Directory]] domain controller.
 >
 > **[2:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=127)** The domain is called domain1.local and it's already configured.
 >
-> **[2:12](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=132)** We will be installing an IIS Web server stack on that Windows host, and we will also be installing and configuring the certificate authority role to support a private internal PKI environment.
+> **[2:12](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=132)** We will be installing an IIS Web server stack on that [[Windows]] host, and we will also be installing and configuring the certificate authority role to support a private internal PKI environment.
 >
-> **[2:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=146)** We'll also be using an Ubuntu Linux host so that we can work with OpenSSL to set up a certificate authority and also to install and manage an Apache web server.
+> **[2:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=146)** We'll also be using an [[Ubuntu]] Linux host so that we can work with OpenSSL to set up a certificate authority and also to install and manage an Apache web server.
 >
 > **[2:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=158)** We'll also be using a network printer in this course where we manage network printer certificates that are used to secure the remote management connection between a web browser and the network printer.
 >
-> **[2:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=172)** There are plenty of network printer and wifi router and IOT device simulators available out there on the internet if you don't have a network printer to actually follow along with.
+> **[2:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=172)** There are plenty of network printer and wifi router and [[IoT]] device simulators available out there on the internet if you don't have a network printer to actually follow along with.
 >
 > **[3:03](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=183)** In Amazon Web services or AWS, we'll be using it primarily for certificate manager where we can establish a private certification authority or CA.
 >
-> **[3:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=194)** In the Microsoft Azure Cloud, we'll be using it primarily for a key vault with a certificate in it that's used to secure an Azure hosted web application.
+> **[3:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=194)** In the Microsoft Azure Cloud, we'll be using it primarily for a key vault with a certificate in it that's used to secure an [[Microsoft Azure|Azure]] hosted web application.
 >
 > **[3:24](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/what-you-should-know?u=76281980&t=204)** We'll also use it to configure a point to site or otherwise called a client to site VPN.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[Linux]] (6), [[Microsoft]] (4), [[Windows Server]] (3), cloud (3)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Microsoft]] (4), [[Windows Server]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Microsoft Azure]] (2)
 > **Env Vars:** gui (2), iis (2), aws (2), pki (2), tls (1)
 > **Tools:** command line (3), safari (1), firefox (1)
 > **CLI Commands:** apache (2), aws (2)
@@ -167,12 +165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980)
+#### [Cryptography](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=0)** - [Instructor] In order to fully understand Transport Layer Security, TLS, we first have to have an understanding of how cryptography fits into that picture.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=0)** - [Instructor] In order to fully understand Transport Layer Security, TLS, we first have to have an understanding of how [[Cryptography]] fits into that picture.
 >
 > **[0:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=10)** When we talk about cryptography, we're talking about using keys when it comes to encryption, and those keys can be stored in public key infrastructure or a PKI certificate.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=48)** It could also be part of a token device that a user might use to authenticate to a VPN.
 >
-> **[0:53](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=53)** And cryptographic keys might also be stored in a hardware security module, an HSM.
+> **[0:53](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=53)** And cryptographic keys might also be stored in a [[Hardware]] security module, an HSM.
 >
 > **[0:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=58)** HSMs are dedicated security appliances that are designed to focus on cryptographic operations, including secure key storage.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=115)** Cryptography can be used for file hashing to determine if files can be trusted and haven't been tampered with.
 >
-> **[2:02](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=122)** And cryptography is also used with cryptocurrency blockchain transactions to assure that those transactions are valid and haven't been tampered with.
+> **[2:02](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=122)** And cryptography is also used with [[Cryptocurrency]] [[Blockchain]] transactions to assure that those transactions are valid and haven't been tampered with.
 >
 > **[2:12](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=132)** In cryptography, we have this notion of symmetric encryption, which uses a single or secret key.
 >
@@ -214,9 +211,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=143)** All parties that need to encrypt and decrypt data would have to have that same key, and so we need a secure way to get that key to those parties, and it also must be stored in a secured manner.
 >
-> **[2:37](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=157)** Symmetric encryption algorithms include AES, that's the US government standard, the Advanced Encryption Standard.
+> **[2:37](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=157)** Symmetric encryption [[Algorithms]] include AES, that's the US government standard, the Advanced Encryption Standard.
 >
-> **[2:45](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=165)** But there are other algorithms like RC4, triple DES or 3DES, which is set to be deprecated by the end of 2023 officially, although some products will still be in use beyond that, and the Blowfish algorithm.
+> **[2:45](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=165)** But there are other algorithms like RC4, triple DES or 3DES, which is set to be deprecated by the end of 2023 officially, although some [[Microsoft Products|products]] will still be in use beyond that, and the Blowfish algorithm.
 >
 > **[2:59](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980&t=179)** Each of these have their own respective maximum key size.
 >
@@ -246,15 +243,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (6), [[Security]] (5), [[Algorithms]] (5), data (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Cryptography]] (6), [[Algorithms]] (5), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[Cryptocurrency]] (1)
 > **Env Vars:** tls (3), pki (3), rsa (2), ecc (2), cac (1)
 > **Tools:** notion (2)
 > **Analogies:** picture (1), such as (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hashing and digital signatures
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980)
+#### [Hashing and digital signatures](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -272,15 +268,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=40)** Now, what is this used for?
 >
-> **[0:41](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=41)** This can be used to verify the integrity of the network message or a file, or machine boot up settings, or it could be secure password storage on a Linux host.
+> **[0:41](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=41)** This can be used to verify the integrity of the network message or a file, or machine boot up settings, or it could be secure password storage on a [[Linux]] host.
 >
-> **[0:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=52)** It's used with blockchain transaction integrity.
+> **[0:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=52)** It's used with [[Blockchain]] transaction integrity.
 >
 > **[0:56](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=56)** Now, how does that work?
 >
 > **[0:57](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=57)** Why does it get used to verify integrity?
 >
-> **[1:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=60)** In our little screenshot example, we are on a machine running a PowerShell cmdlet called Get-FileHash.
+> **[1:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=60)** In our little screenshot example, we are on a machine running a [[Powershell]] cmdlet called Get-FileHash.
 >
 > **[1:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=68)** We are then specifying in the current directory a JPEG image, the file is called doggie.jpg.
 >
@@ -290,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=96)** If anything at all changes in that file, the next time we generate the hash from that file, the hash will be different, and so we will know that the file has changed.
 >
-> **[1:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=108)** There are numerous hashing algorithms out there.
+> **[1:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=108)** There are numerous hashing [[Algorithms]] out there.
 >
 > **[1:51](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/hashing-and-digital-signatures?u=76281980&t=111)** SHA stands for secure hashing algorithm and SHA-2, which is often referred also to as SHA-256, that represents the number of bits and also SHA-512, again, 512 bits.
 >
@@ -364,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (5), [[Security]] (3), web (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Linux]] (1), [[Blockchain]] (1), [[Powershell]] (1)
 > **Env Vars:** sha (5), ripemd (2), jpeg (1), sha256 (1), tls (1)
 > **Definitions:** is called (2), is a  (2), stands for (1), means that (1)
 > **CLI Commands:** make (1)
@@ -372,8 +368,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Public key infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/public-key-infrastructure?u=76281980)
+#### [Public key infrastructure](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/public-key-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,7 +420,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/public-key-infrastructure?u=76281980&t=173)** Then we have certificate templates, which, of course, as the name implies, serve as blueprints that are used when issuing certificates.
 >
-> **[3:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/public-key-infrastructure?u=76281980&t=180)** So you might have a certificate template that you use when issuing certificates for users to be used for mail encryption, which would be different than a certificate template used for web servers for PKI certificates to enable HTTPS bindings.
+> **[3:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/public-key-infrastructure?u=76281980&t=180)** So you might have a certificate template that you use when issuing certificates for users to be used for mail encryption, which would be different than a certificate template used for [[Web Servers]] for PKI certificates to enable HTTPS bindings.
 >
 > **[3:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/public-key-infrastructure?u=76281980&t=196)** And, of course, the last PKI component is the digital or security certificate itself.
 >
@@ -465,15 +460,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), web (2), vpn (2), teams (1), dns (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **Env Vars:** pki (11), vpn (2), crl (2), tls (1), ocsp (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Exercise Files:** template (3)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Certificate authorities
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980)
+#### [Certificate authorities](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,7 +531,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=183)** Otherwise, PKI is meaningless.
 >
-> **[3:06](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=186)** So that's why we have the notion of a CA trusted root certificate, which also contains a public key that gets installed on user devices, whether it's a Linux Windows server, a Windows laptop, whether it's a an Apple iPhone, it doesn't matter.
+> **[3:06](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=186)** So that's why we have the notion of a CA trusted root certificate, which also contains a public key that gets installed on user devices, whether it's a [[Linux]] [[Windows Server]], a [[Windows]] laptop, whether it's a an Apple iPhone, it doesn't matter.
 >
 > **[3:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=203)** Those devices need to have trusted root certificates for trusted CAs installed.
 >
@@ -545,7 +539,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=217)** So when you look at most modern operating systems, regardless of the type of device it's on, there is a standard list of publicly trusted certificate authorities.
 >
-> **[3:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=228)** So when you connect, for example, to do online banking using your device, that certificate is trusted for that website because it was issued by a trusted certificate authority that your device trusts.
+> **[3:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=228)** So when you connect, for example, to do online [[Banking]] using your device, that certificate is trusted for that website because it was issued by a trusted certificate authority that your device trusts.
 >
 > **[4:02](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-authorities?u=76281980&t=242)** Now, this also means that the trust is established through digital signatures.
 >
@@ -575,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Security]] (1), teams (1), [[Linux]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), [[Windows Server]] (1), [[Banking]] (1)
 > **Env Vars:** pki (6), crl (1), https (1)
 > **Analogies:** for example (3), just like (1), for instance (1)
 > **Definitions:** means that (2), is a  (1), in other words (1)
@@ -584,8 +578,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Exercise Files:** template (1)
 
-#### Certificates
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificates?u=76281980)
+#### [Certificates](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -639,7 +632,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificates?u=76281980&t=178)** Whether it's one year, two year, five years, that comes from the certificate template used to issue the certificate.
 >
-> **[3:06](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificates?u=76281980&t=186)** As we've mentioned, also the certificate usage details are included in the certificate, such as if it's designed to be used on a Windows machine with encrypting file system or it's designed to be used for securing communications for a web server.
+> **[3:06](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificates?u=76281980&t=186)** As we've mentioned, also the certificate usage details are included in the certificate, such as if it's designed to be used on a [[Windows]] machine with encrypting file system or it's designed to be used for securing communications for a web server.
 >
 > **[3:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificates?u=76281980&t=200)** Of course, the subject name is embedded within the certificate, whether that is a URL or an FQDN, a fully qualified domain name for a website.
 >
@@ -701,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), dns (3), [[Security]] (1), traffic (1), vpn (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** pki (7), ocsp (6), tls (4), dns (3), crl (3)
 > **URLs:** [digicert.com](https://digicert.com) (4), [fakecorp.com](https://fakecorp.com) (3), [cert.com](https://cert.com) (1)
 > **Analogies:** for example (5), such as (3)
@@ -710,8 +703,7 @@ created: 2026-05-02
 > **Exercise Files:** template (3), download the (1)
 > **Tools:** notion (1)
 
-#### Certificate lifecycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980)
+#### [Certificate lifecycle management](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +737,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=109)** So the CSR is generated next, which includes a unique public key commonly in a format called PKCS #10 format, although there are other formats.
 >
-> **[2:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=120)** PKCS just stands for Public Key Cryptography Standards.
+> **[2:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=120)** PKCS just stands for Public Key [[Cryptography]] Standards.
 >
 > **[2:05](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=125)** So the CSR then is sent to the certificate authority for verification and signing so that you get issued the certificate.
 >
@@ -773,13 +765,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=230)** What's important to know is that it might require an administrator administrative approval before the certificate is actually issued, or the process could be completely automated.
 >
-> **[4:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=241)** So for new devices such as computers joining a Microsoft Active Directory domain, or smartphone connecting to a mobile device management or MDM system, if those devices are already trusted, then the entire process of requesting and issuing a certificate can be completely automated.
+> **[4:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=241)** So for new devices such as computers joining a [[Microsoft]] [[Active Directory]] domain, or smartphone connecting to a mobile device management or MDM system, if those devices are already trusted, then the entire process of requesting and issuing a certificate can be completely automated.
 >
 > **[4:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=260)** So the certificate then would be stored in the device trusted certificate store, or it could be stored on other media such as a smart card.
 >
 > **[4:29](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=269)** Here we have a screenshot example of the simple certificate enrollment protocol, otherwise called SCEP, S-C-E-P.
 >
-> **[4:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=278)** In this case, this screenshot is from Microsoft Intune, which is a mobile device management or MDM solution, where on the left we can select the platform, what's shown here is Android Enterprise.
+> **[4:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=278)** In this case, this screenshot is from Microsoft Intune, which is a mobile device management or MDM solution, where on the left we can select the platform, what's shown here is [[Android]] Enterprise.
 >
 > **[4:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=292)** On the right, we can specify the certificate type.
 >
@@ -813,7 +805,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=414)** So public certificate authorities will notify subscribers via email normally that their certificate is going to expire, so they have a chance to renew it, because once it expires, it has to be completely done again from the beginning, from the certificate signing request.
 >
-> **[7:11](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=431)** Here we have a screenshot in Windows of an individual certificate.
+> **[7:11](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=431)** Here we have a screenshot in [[Windows]] of an individual certificate.
 >
 > **[7:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/certificate-lifecycle-management?u=76281980&t=436)** Notice that we have the validity period.
 >
@@ -831,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (3), [[Microsoft]] (2), management (2), vpn (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Cryptography]] (1), [[Active Directory]] (1), [[Android]] (1), [[Windows]] (1)
 > **Env Vars:** csr (6), pki (3), pkcs (2), fqdn (2), mdm (2)
 > **Analogies:** for example (5), such as (5), for instance (1)
 > **CLI Commands:** make (2), find (1)
@@ -840,14 +832,13 @@ created: 2026-05-02
 > **URLs:** [fakesite.com](https://fakesite.com) (1)
 > **UI Navigation:** select the (1)
 
-#### Transport layer security
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980)
+#### [Transport layer security](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=0)** - [Instructor] Transport Layer security or TLS.
 >
-> **[0:03](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=3)** This is a network security protocol suite, and we usually use it when securing connections through VPNs, perhaps through connections that we want to enable for a web server securely using HTTPS.
+> **[0:03](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=3)** This is a [[Network Security]] protocol suite, and we usually use it when securing connections through VPNs, perhaps through connections that we want to enable for a web server securely using HTTPS.
 >
 > **[0:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=18)** But there are many other uses of TLS beyond just those examples.
 >
@@ -885,7 +876,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=116)** So this provides authentication of messages over the network so that we can be assured that if it looks like a message came from a specific web server hosting a web app, it really did, it's not been forged.
 >
-> **[2:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=129)** TLS also provides integrity, which means that we can rest assured that the transmission was not tampered with since it's been sent.
+> **[2:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=129)** TLS also provides integrity, which means that we can [[Representational State Transfer (REST)|rest]] assured that the transmission was not tampered with since it's been sent.
 >
 > **[2:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=137)** It also means we have non-repudiation where the digital signer of a network message cannot refute having sent it because the digital signatures created with the private key and only the owner of the key has access to it.
 >
@@ -919,7 +910,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=256)** Session keys might also time out after a period of inactivity.
 >
-> **[4:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=260)** If you've ever done online banking and you've been signed in and perhaps stepped away for five or 10 minutes, you might notice when you come back you have to re-authenticate to the banking web app.
+> **[4:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=260)** If you've ever done online [[Banking]] and you've been signed in and perhaps stepped away for five or 10 minutes, you might notice when you come back you have to re-authenticate to the banking web app.
 >
 > **[4:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=271)** That, of course, would generate a new unique session key to be used for encryption and decryption.
 >
@@ -929,7 +920,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=292)** It would allow them to connect over the internet using an encrypted secured VPN tunnel to a remote private network elsewhere.
 >
-> **[5:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=301)** So that might be an office network where there are office computers and resources that the remote client computer needs access to.
+> **[5:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=301)** So that might be an [[Microsoft Office|office]] network where there are office computers and resources that the remote client computer needs access to.
 >
 > **[5:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=309)** Well, what's interesting is we could have this set up as a TLS VPN formerly called an SSL VPN.
 >
@@ -957,7 +948,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=374)** Depending on the type of server environment you're using, you can also check to see which SSL or TLS versions are supported.
 >
-> **[6:21](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=381)** Here on Linux, I've issued the open SSL ciphers dash V command.
+> **[6:21](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=381)** Here on [[Linux]], I've issued the open SSL ciphers dash V command.
 >
 > **[6:27](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/transport-layer-security?u=76281980&t=387)** Dash V is for verbose output.
 >
@@ -969,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), [[Security]] (6), vpn (4), [[Network Security]] (2), [[Banking]] (2)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Banking]] (2), [[Microsoft Office|Office]] (2), [[Linux]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** tls (17), ssl (11), pki (4), vpn (4), https (3)
 > **Versions:** version 1 (3), 1.3 (2), 1.0 (1), version 3 (1), 1.1 (1)
 > **Definitions:** is a  (2), means that (1)
@@ -978,8 +969,7 @@ created: 2026-05-02
 > **Ports:** port 443 (1)
 > **Prerequisites:** set up (1)
 
-#### Analyze a tls packet capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980)
+#### [Analyze a tls packet capture](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=11)** So we're going to analyze a TLS packet capture.
 >
-> **[0:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=14)** To do that, we're going to use the free Wireshark tool.
+> **[0:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=14)** To do that, we're going to use the free [[Wireshark]] tool.
 >
 > **[0:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=17)** Wireshark is a free network analyzer tool.
 >
@@ -1027,7 +1017,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=146)** Now, this is for TLS version 1.3, and in this case, it happens to be for the www.[hbo.com](https://hbo.com) site.
 >
-> **[2:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=156)** Could be any site, could be online banking, could be a private CA-issued certificate for an internal web app.
+> **[2:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=156)** Could be any site, could be online [[Banking]], could be a private CA-issued certificate for an internal web app.
 >
 > **[2:42](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=162)** It doesn't make a difference, the TLS handshake doesn't change.
 >
@@ -1037,7 +1027,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=192)** It's a TCP transmission, so transmission control protocol, where the destination port number is 443.
 >
-> **[3:19](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=199)** Of course, an HTTPS connection, which uses the TLS network security protocol suite in conjunction with the certificate installed on the server to encrypt the connection.
+> **[3:19](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=199)** Of course, an HTTPS connection, which uses the TLS [[Network Security]] protocol suite in conjunction with the certificate installed on the server to encrypt the connection.
 >
 > **[3:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=211)** Next, we then have the transport layer security, or of course, the TLS header.
 >
@@ -1045,7 +1035,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=226)** So TLS using the advanced encryption standard algorithm, AES-128, we've mentioned that already, or AES-256, and all these other variations of what it supports.
 >
-> **[3:59](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=239)** Now, at the end of the day, most servers are configured to only support certain specific encryption algorithms or cipher suites.
+> **[3:59](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=239)** Now, at the end of the day, most servers are configured to only support certain specific encryption [[Algorithms]] or cipher suites.
 >
 > **[4:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/analyze-a-tls-packet-capture?u=76281980&t=247)** So, the server might not be configured to use SSL or TLS version 1.2.
 >
@@ -1073,7 +1063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Wireshark]] (6), web (5), [[Security]] (3), data (2)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[Banking]] (1), [[Network Security]] (1), [[Algorithms]] (1)
 > **Env Vars:** tls (16), aes (3), tcp (1), https (1), ssl (1)
 > **Versions:** version 1 (4), 192.168.2 (1), version 4 (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -1087,12 +1077,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure a Microsoft AD CS certificate authority
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980)
+#### [Configure a Microsoft AD CS certificate authority](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=0)** - [Instructor] Let's take a few minutes to see how we go about installing the Microsoft Windows Server Certification Authority Server role.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=0)** - [Instructor] Let's take a few minutes to see how we go about installing the [[Microsoft]] [[Windows Server]] Certification Authority Server role.
 >
 > **[0:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=9)** What we want to do here is we want to be able to establish our own private CA within our organization where we control the entire PKI hierarchy.
 >
@@ -1102,7 +1091,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=50)** We're going to be taking a look at how to do that specifically a little bit later.
 >
-> **[0:54](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=54)** For now, let's get a Windows private CA up and running.
+> **[0:54](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=54)** For now, let's get a [[Windows]] private CA up and running.
 >
 > **[0:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=58)** So in my Windows Server environment, I'm going to go into the Start menu and fire up Server Manager.
 >
@@ -1110,7 +1099,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=68)** You don't have to do that.
 >
-> **[1:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=69)** You can do this from the command line, such as using PowerShell commandlets, but before we actually do that, in the Start menu on this server, if I go to Windows Administrative Tools, I can elect to start the Active Directory Users and Computers tool.
+> **[1:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=69)** You can do this from the command line, such as using [[Powershell]] commandlets, but before we actually do that, in the Start menu on this server, if I go to Windows Administrative Tools, I can elect to start the [[Active Directory]] Users and Computers tool.
 >
 > **[1:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980&t=86)** This server is an Active Directory Domain controller, so the Active Directory Domain has already been established.
 >
@@ -1250,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (16), next (12), [[Windows]] (4), [[Windows Server]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (16), [[Windows]] (4), [[Windows Server]] (3), [[Microsoft]] (2), [[Powershell]] (1)
 > **Prerequisites:** configure (6), set up (6), install (2)
 > **Env Vars:** pki (3), gui (1), adcs (1), rsa (1), sha256 (1)
 > **CLI Commands:** make (2)
@@ -1259,8 +1248,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1)
 > **Cross-References:** we mentioned (1)
 
-#### Configure Microsoft AD CS certificate templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980)
+#### [Configure Microsoft AD CS certificate templates](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,9 +1258,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=13)** It's a blueprint.
 >
-> **[0:15](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=15)** So let's go ahead and take a look at how we can do that specifically with Microsoft Active Directory Certificate Services.
+> **[0:15](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=15)** So let's go ahead and take a look at how we can do that specifically with [[Microsoft]] [[Active Directory]] Certificate Services.
 >
-> **[0:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=23)** So here on my Windows server, I'm going to start by opening up the Start menu, and I'm going to go down under Windows Administrative Tools.
+> **[0:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=23)** So here on my [[Windows Server]], I'm going to start by opening up the Start menu, and I'm going to go down under [[Windows]] Administrative Tools.
 >
 > **[0:30](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=30)** I have already established a private CA within my organization here on my Windows machine.
 >
@@ -1350,7 +1338,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=261)** So we could do that type of thing as well.
 >
-> **[4:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=263)** If I go under Cryptography, we can specify the maximum key size.
+> **[4:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=263)** If I go under [[Cryptography]], we can specify the maximum key size.
 >
 > **[4:28](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-microsoft-ad-cs-certificate-templates?u=76281980&t=268)** If we want to change those options, if I go to Security over here, this is related to the Microsoft Active Directory domain environment, which users or computers are allowed to request certificates.
 >
@@ -1384,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (15), [[Active Directory]] (4), [[Microsoft]] (3), [[Windows]] (3), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Microsoft]] (3), [[Windows]] (3), [[Windows Server]] (1), [[Cryptography]] (1)
 > **Exercise Files:** template (17)
 > **UI Navigation:** right-click (3), double-click (1), go to (1)
 > **Analogies:** for example (3), for instance (1), such as (1)
@@ -1393,14 +1381,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** make (1)
 
-#### Configure a Linux OpenSSL certificate authority
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980)
+#### [Configure a Linux OpenSSL certificate authority](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=0)** - [Instructor] We've talked about how a certificate authority, especially a root certificate authority, or CA, constitutes the top of the PKI hierarchy.
 >
-> **[0:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=10)** Now, what if we want to establish our own PKI hierarchy on the Linux platform?
+> **[0:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=10)** Now, what if we want to establish our own PKI hierarchy on the [[Linux]] platform?
 >
 > **[0:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=16)** What are the options?
 >
@@ -1418,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=45)** So I'm going to run sudo as a prefix because I'm going to be running privileged commands.
 >
-> **[0:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=50)** And one way to check this out is simply to try to install it, sudo apt install openssl, all one word together.
+> **[0:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=50)** And one way to check this out is simply to try to install it, sudo apt install openssl, all one [[Microsoft Word|word]] together.
 >
 > **[0:59](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=59)** It's telling me that it's already installed and that it's already the newest version.
 >
@@ -1514,7 +1501,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=319)** So now that we've got that done, the next thing that we might be interested in doing is figuring out how to install this trusted root certificate on a Linux host.
 >
-> **[5:29](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=329)** We've already seen how we can install a trusted root certificate in Windows.
+> **[5:29](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=329)** We've already seen how we can install a trusted root certificate in [[Windows]].
 >
 > **[5:34](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-openssl-certificate-authority?u=76281980&t=334)** But let's do it here in Linux, because if you're going to establish a private CA and then issue certificates from it, we have to bear in mind that by default, devices will not trust those signed certificates.
 >
@@ -1562,7 +1549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (12), next (3), [[Microsoft Word|Word]] (2), business (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (12), [[Microsoft Word|Word]] (2), [[Windows]] (1)
 > **CLI Commands:** sudo (10), cat (4), apt (2), ls (2), cp (1)
 > **Env Vars:** pki (5), rsa (1), aes (1), gui (1)
 > **Prerequisites:** install (6), configure (1)
@@ -1571,14 +1558,13 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 
-#### Configure an AWS Certificate Manager CA
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980)
+#### [Configure an AWS Certificate Manager CA](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=0)** - [Instructor] In this demonstration, I'm going to be installing a private CA, so a private certificate authority, but I'm not going to do that on-premises.
 >
-> **[0:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=8)** I'm going to be doing it in the Amazon Web services, or AWS Cloud.
+> **[0:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=8)** I'm going to be doing it in the [[Amazon Web Services (AWS)|Amazon Web services]], or AWS Cloud.
 >
 > **[0:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=13)** Remember, you might want to install your own private CA if you would like full entire control and configuration flexibility for the entire PKI hierarchy.
 >
@@ -1588,7 +1574,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=38)** Let's get started here and let's establish a private CA.
 >
-> **[0:41](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=41)** So here in the AWS Management console, I'm going to search for the word certificate up at the top.
+> **[0:41](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=41)** So here in the AWS Management console, I'm going to search for the [[Microsoft Word|word]] certificate up at the top.
 >
 > **[0:47](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=47)** The service I'm interested in here is called Certificate Manager.
 >
@@ -1658,7 +1644,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=237)** We have the creation and the expiration for the CA.
 >
-> **[4:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=241)** We have the key as well as the signing algorithms shown here.
+> **[4:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=241)** We have the key as well as the signing [[Algorithms]] shown here.
 >
 > **[4:05](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-an-aws-certificate-manager-ca?u=76281980&t=245)** Down below, the subject details.
 >
@@ -1672,7 +1658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), cloud (3), [[Amazon Web Services (AWS)|Amazon web services]] (2), management (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Env Vars:** aws (4), rsa (2), pki (1), crl (1), ocsp (1)
 > **UI Navigation:** click on (3), go to (2), dropdown (1)
 > **CLI Commands:** aws (4)
@@ -1686,22 +1672,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Acquire a certificate using Microsoft AD CS
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980)
+#### [Acquire a certificate using Microsoft AD CS](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to be focusing on the acquisition of a certificate using the Windows Cert Manager tool.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=0)** - [Instructor] In this demonstration, we're going to be focusing on the acquisition of a certificate using the [[Windows]] Cert Manager tool.
 >
 > **[0:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=9)** Acquiring certificates can be done in many different ways, depending on whether you're going to a private CA or a public CA.
 >
 > **[0:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=17)** However, here in Windows, let's take a look at our environment.
 >
-> **[0:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=20)** On my Windows server, if I go to the Start menu, under Windows Administrative Tools, I can select Active Directory Users and Computers.
+> **[0:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=20)** On my [[Windows Server]], if I go to the Start menu, under Windows Administrative Tools, I can select [[Active Directory]] Users and Computers.
 >
 > **[0:29](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=29)** The server I'm using is a domain controller.
 >
-> **[0:32](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=32)** Now, it doesn't have to be, but if it's a computer joined to a Microsoft Active Directory domain, it makes it very easy to request certificates through that connection to the domain.
+> **[0:32](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=32)** Now, it doesn't have to be, but if it's a computer joined to a [[Microsoft]] Active Directory domain, it makes it very easy to request certificates through that connection to the domain.
 >
 > **[0:45](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980&t=45)** So I'm going to close down Active Directory Users and Computers.
 >
@@ -1867,7 +1852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Active Directory]] (7), next (5), [[Windows]] (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Active Directory]] (7), [[Windows]] (4), [[Microsoft]] (2), [[Windows Server]] (1)
 > **Exercise Files:** template (17)
 > **UI Navigation:** go to (5), right-click (2), click on (1), double-click (1)
 > **Env Vars:** dns (3), mmc (1)
@@ -1876,12 +1861,11 @@ created: 2026-05-02
 > **Tools:** command prompt (2)
 > **Prerequisites:** configure (1), set up (1)
 
-#### Acquire a web server certificate using OpenSSL
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980)
+#### [Acquire a web server certificate using OpenSSL](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=0)** - [Instructor] Okay, in this demonstration what I will be doing is acquiring a web server certificate using OpenSSL on Linux.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=0)** - [Instructor] Okay, in this demonstration what I will be doing is acquiring a web server certificate using OpenSSL on [[Linux]].
 >
 > **[0:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=9)** The first thing we should do is establish what we already have.
 >
@@ -2189,7 +2173,7 @@ created: 2026-05-02
 >
 > **[13:55](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=835)** Now let's go to the browser and test the connection over HTTPS.
 >
-> **[14:02](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=842)** Okay, so from another computer, it happens to be a Windows computer, I've used the Microsoft Edge web browser to navigate to [https://www.demotest.world](https://www.demotest.world).
+> **[14:02](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=842)** Okay, so from another computer, it happens to be a [[Windows]] computer, I've used the [[Microsoft]] Edge web browser to navigate to [https://www.demotest.world](https://www.demotest.world).
 >
 > **[14:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-server-certificate-using-openssl?u=76281980&t=853)** Now it says it's not secure.
 >
@@ -2211,7 +2195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (22), [[Linux]] (4), dns (2), [[Windows]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Windows]] (2), [[Microsoft]] (1)
 > **Env Vars:** tls (7), csr (5), https (4), pki (3), ssl (3)
 > **CLI Commands:** sudo (10), make (6), ls (4), apache (2), cat (1)
 > **Speakers:** - out (2), - [instructor] (1), - aes256 (1), - new (1), - req (1)
@@ -2220,8 +2204,7 @@ created: 2026-05-02
 > **Definitions:** is a  (4), means that (1), in other words (1)
 > **Tools:** command line (3)
 
-#### Acquire a public CA certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-public-ca-certificate?u=76281980)
+#### [Acquire a public CA certificate](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-public-ca-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2295,7 +2278,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), web application (2), dns (2)
 > **Env Vars:** ssl (6), dns (2), http (2), pki (1), tls (1)
 > **CLI Commands:** make (2), nginx (1), apache (1)
 > **Prerequisites:** install (4)
@@ -2304,8 +2286,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install private CA certificates
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980)
+#### [Install private CA certificates](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2321,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=47)** That's not necessary for this, but from a demonstration purpose, perspective, we're going to go take a look at it here so we know what all the moving parts are.
 >
-> **[0:56](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=56)** On my server, I'm going to go to the Start menu and from Windows Administrative Tools, I'm going to go into Certification Authority.
+> **[0:56](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=56)** On my server, I'm going to go to the Start menu and from [[Windows]] Administrative Tools, I'm going to go into Certification Authority.
 >
 > **[1:04](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=64)** On the left, here's my private CA.
 >
@@ -2369,7 +2350,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=172)** It can be called anything you want it to be called, and you're going to need to make sure that this file is somehow installed on all client devices.
 >
-> **[3:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=181)** Whether you put this on a shared folder on the network and they go and install it manually, we'll see how to do that in a moment, or whether you have an automated solution such as through Windows Group Policy in an active directory domain to get that installed.
+> **[3:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=181)** Whether you put this on a shared folder on the network and they go and install it manually, we'll see how to do that in a moment, or whether you have an automated solution such as through Windows Group Policy in an [[Active Directory]] domain to get that installed.
 >
 > **[3:15](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=195)** Whatever the case is, this file needs to be installed on client devices, so they trust certificates issued from the private CA.
 >
@@ -2403,13 +2384,13 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=276)** Let's go into the web browser.
 >
-> **[4:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=278)** In this case, Microsoft Edge. Doesn't have to be Edge.
+> **[4:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=278)** In this case, [[Microsoft]] Edge. Doesn't have to be Edge.
 >
 > **[4:41](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=281)** Because from within here, this is one way that we can take a look at the Trusted Certification Authorities that this machine will trust.
 >
 > **[4:49](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=289)** So I'll click the three dots context button up at the top here, and I'm going to go down and take a look at the Settings here in Microsoft Edge.
 >
-> **[4:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=298)** In the left-hand navigator here, I'll choose Privacy, search, and services, because over on the right, if I scroll down, I will eventually come across, under the Security section, Manage certificates.
+> **[4:58](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=298)** In the left-hand navigator here, I'll choose [[Privacy]], search, and services, because over on the right, if I scroll down, I will eventually come across, under the Security section, Manage certificates.
 >
 > **[5:12](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/install-private-ca-certificates?u=76281980&t=312)** Okay, I'll click on that.
 >
@@ -2435,7 +2416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Windows]] (3), web (2), [[Microsoft]] (2), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (2), [[Active Directory]] (1), [[Privacy]] (1)
 > **UI Navigation:** go to (3), right-click (1), scroll down (1), click on (1)
 > **Prerequisites:** install (4), set up (1), configure (1)
 > **CLI Commands:** make (4)
@@ -2444,18 +2425,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate certificates using Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980)
+#### [Generate certificates using Microsoft Azure](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=0)** - [Instructor] There are a number of different ways that we can acquire a PKI certificate.
 >
-> **[0:05](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=5)** In this particular demo, we're going to take a look at how to generate certificates using Microsoft Azure.
+> **[0:05](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=5)** In this particular demo, we're going to take a look at how to generate certificates using [[Microsoft Azure]].
 >
 > **[0:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=13)** Now in the Microsoft Azure Cloud, we can use the GUI portal administrative tool.
 >
-> **[0:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=18)** I've already signed in to portal.[azure.com](https://azure.com).
+> **[0:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=18)** I've already signed in to portal.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:22](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=22)** The first thing we need to consider is if we want to generate certificates here in the Azure Cloud, we can do that quite easily, but we're going to need a key vault first.
 >
@@ -2471,13 +2451,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=77)** First I need to create a key vault, within which I will then create the certificate.
 >
-> **[1:22](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=82)** So I'm going to choose key vault and I will select the key vault service offering from Microsoft, and I'll click create.
+> **[1:22](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=82)** So I'm going to choose key vault and I will select the key vault service offering from [[Microsoft]], and I'll click create.
 >
 > **[1:30](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=90)** When you create a resource, when you create an item in your Azure subscription in the cloud, you specify a resource group to create it in.
 >
 > **[1:39](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=99)** A resource group is nothing more than as it implies by its name, it's a way to group cloud resources that are related together.
 >
-> **[1:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=108)** So for instance, if this key vault will be used for a project we're creating called Project A, and it's going to involve virtual machines and websites and all that, we could create a resource group called Project A and then create all of our cloud stuff for Project A in that resource group.
+> **[1:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=108)** So for instance, if this key vault will be used for a project we're creating called Project A, and it's going to involve [[Virtual Machines]] and websites and all that, we could create a resource group called Project A and then create all of our cloud stuff for Project A in that resource group.
 >
 > **[2:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=127)** You don't have to do it that way, but that's what I'm going to do, create new.
 >
@@ -2537,7 +2517,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=267)** I have to give myself permissions to manage this vault, or at least to work with certificates.
 >
-> **[4:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=273)** So I'm going to filter the list of roles by the word vault.
+> **[4:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=273)** So I'm going to filter the list of roles by the [[Microsoft Word|word]] vault.
 >
 > **[4:38](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/generate-certificates-using-microsoft-azure?u=76281980&t=278)** I want to make sure I have full access to everything in the vault, not just certificates.
 >
@@ -2633,7 +2613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), cloud (6), dns (5), web (3), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft Azure]] (2), [[Microsoft]] (1), [[Virtual Machines]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (5), pki (2), https (2), iam (2), gui (1)
 > **UI Navigation:** go to (3), dropdown (2), select the (1), scroll up (1), click on (1)
 > **Analogies:** such as (2), for example (2), for instance (1)
@@ -2647,12 +2627,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure a Windows website certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980)
+#### [Configure a Windows website certificate](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=0)** - [Instructor] Let's take a look at how we would configure an HTTPS binding for a Microsoft IIS web server.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=0)** - [Instructor] Let's take a look at how we would configure an HTTPS binding for a [[Microsoft]] IIS web server.
 >
 > **[0:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=8)** HTTPS, of course, allows us to have a secured connection between any other device connecting to the web server, so that means encryption, it means authentication of those network messages.
 >
@@ -2660,7 +2639,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=32)** Let's take a look at how this works.
 >
-> **[0:34](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=34)** The first thing we have to do here on our Windows server is make sure we've got a web server stack installed.
+> **[0:34](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=34)** The first thing we have to do here on our [[Windows Server]] is make sure we've got a web server stack installed.
 >
 > **[0:40](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=40)** From the Start menu on my Windows server, I'm going to go into Server Manager.
 >
@@ -2696,7 +2675,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=127)** I'll just close out a Server Manager.
 >
-> **[2:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=129)** I also could do the same thing by going to the Start menu and under Windows Administrative Tools in the I's, I'll find the exact same thing.
+> **[2:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=129)** I also could do the same thing by going to the Start menu and under [[Windows]] Administrative Tools in the I's, I'll find the exact same thing.
 >
 > **[2:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=137)** Internet Information Services IIS Manager, so I'm going to go ahead and launch that.
 >
@@ -2750,7 +2729,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=325)** But another possibility is malicious actors registering a DNS domain and adding records as if they were another organization, or what happens often using nomenclature that is very similar, but not quite spelt exactly correctly.
 >
-> **[5:44](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=344)** Imagine, for example, attackers registering a DNS domain name back in the day for [google.com](https://google.com), but only with one o because some people typed that in incorrectly, and then registering a certificate for it.
+> **[5:44](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=344)** Imagine, for example, attackers registering a DNS domain name back in the day for [[[Google]].com](https://google.com), but only with one o because some people typed that in incorrectly, and then registering a certificate for it.
 >
 > **[5:57](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980&t=357)** So, that's another way that hackers might go about trying to compromise this.
 >
@@ -2796,7 +2775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (13), [[Microsoft]] (5), next (4), dns (4), [[Windows Server]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Windows Server]] (3), [[Windows]] (2), [[Google]] (1)
 > **Env Vars:** https (9), iis (7), dns (4), http (3), ssl (3)
 > **UI Navigation:** click on (2), select the (1), scroll down (1), go to (1), dropdown (1)
 > **Prerequisites:** install (3), configure (2), set up (1)
@@ -2805,18 +2784,17 @@ created: 2026-05-02
 > **Ports:** port 80 (2)
 > **Definitions:** is a  (1), is called (1)
 
-#### Configure a Linux website certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980)
+#### [Configure a Linux website certificate](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=0)** - [Instructor] In this demo, we're going to be configuring a Linux web server certificate.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=0)** - [Instructor] In this demo, we're going to be configuring a [[Linux]] web server certificate.
 >
 > **[0:05](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=5)** We've already acquired the certificate.
 >
 > **[0:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=8)** We already have a certificate to use for HTTPS.
 >
-> **[0:11](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=11)** What we need to do is tell the web server that we want to use that certificate to make sure that we have that HTTPS connection, which of course uses TLS as the network security protocol suite to secure the connection.
+> **[0:11](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=11)** What we need to do is tell the web server that we want to use that certificate to make sure that we have that HTTPS connection, which of course uses TLS as the [[Network Security]] protocol suite to secure the connection.
 >
 > **[0:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=26)** So to get started here in Linux, I'm going to install the Apache Web server.
 >
@@ -2844,7 +2822,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=89)** Nano is a built-in text editor in some Linux distributions.
 >
-> **[1:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=93)** In this case for Ubuntu, it's there.
+> **[1:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=93)** In this case for [[Ubuntu]], it's there.
 >
 > **[1:35](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=95)** What I want to do is reference a file in slash etc slash apache2 slash mods dash available, and the file I want to open up is called funnily enough, ssl.conf as opposed to tls.conf.
 >
@@ -2922,7 +2900,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=364)** Okay, so why don't we go to a client web browser machine, and why don't we try to make an HTTPS connection to this host?
 >
-> **[6:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=377)** Okay, so from a Windows computer in a web browser, I've connected to [https://www.demotest.world](https://www.demotest.world), and I did get the default Apache2 webpage.
+> **[6:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=377)** Okay, so from a [[Windows]] computer in a web browser, I've connected to [https://www.demotest.world](https://www.demotest.world), and I did get the default Apache2 webpage.
 >
 > **[6:29](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=389)** However, of course, it's stating in my browser that this is not a secured site.
 >
@@ -2944,9 +2922,9 @@ created: 2026-05-02
 >
 > **[7:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=438)** So how do we do that?
 >
-> **[7:19](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=439)** Well, here in our Microsoft Edge browser, we know we can go into our settings by clicking the three dot button, go down to select settings on the left.
+> **[7:19](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=439)** Well, here in our [[Microsoft]] Edge browser, we know we can go into our settings by clicking the three dot button, go down to select settings on the left.
 >
-> **[7:30](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=450)** I then want to go into privacy search and services on the right.
+> **[7:30](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=450)** I then want to go into [[Privacy]] search and services on the right.
 >
 > **[7:34](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-linux-web-site-certificate?u=76281980&t=454)** I'm just going to scroll down until I see the managed certificate section, which I'll click on.
 >
@@ -3000,7 +2978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (24), next (4), [[Linux]] (3), [[Security]] (2), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Network Security]] (1), [[Ubuntu]] (1), [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** ssl (7), https (5), tls (5), url (3), http (2)
 > **CLI Commands:** make (5), sudo (5), apache (4), apt (1), ls (1)
 > **UI Navigation:** click on (4), go to (3), scroll down (1)
@@ -3009,8 +2987,7 @@ created: 2026-05-02
 > **Ports:** port 80 (1), port 443 (1)
 > **URLs:** [https://www.demotest.world](https://www.demotest.world) (1)
 
-#### Configure web brower client certificate authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980)
+#### [Configure web brower client certificate authentication](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3024,9 +3001,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=25)** The messages are authenticated, but we could take it a step further with client certificates.
 >
-> **[0:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=31)** But before we get too far ahead of ourself, let's explore here a little bit about our configuration for our web server, here on my Windows server.
+> **[0:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=31)** But before we get too far ahead of ourself, let's explore here a little bit about our configuration for our web server, here on my [[Windows Server]].
 >
-> **[0:40](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=40)** I'm going to go to the start menu because in the start menu, I want to go to Windows Administrative Tools, and I'd like to go into the IIS manager tool that lets me manage the Microsoft Web server installed on this host, in the left hand navigator I'll drill down under the server name and I'll drill down under websites.
+> **[0:40](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=40)** I'm going to go to the start menu because in the start menu, I want to go to [[Windows]] Administrative Tools, and I'd like to go into the IIS manager tool that lets me manage the [[Microsoft]] Web server installed on this host, in the left hand navigator I'll drill down under the server name and I'll drill down under websites.
 >
 > **[1:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=61)** So we've got a standard default website here for our web server.
 >
@@ -3160,7 +3137,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=420)** In reality, you would be configuring client certificates on other devices that are trying to securely connect to this website, whether it's tablet, a smartphone, a laptop, whatever it is, and it could be any operating system.
 >
-> **[7:15](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=435)** Doesn't matter if it's an iPhone, Android phone, the Mac OS, Linux OS, whatever.
+> **[7:15](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=435)** Doesn't matter if it's an iPhone, [[Android]] phone, the Mac OS, [[Linux]] OS, whatever.
 >
 > **[7:21](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=441)** So what I'm going to do here in the case of Windows is go to File, Add/Remove Snap In, Certificates.
 >
@@ -3182,7 +3159,7 @@ created: 2026-05-02
 >
 > **[8:18](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=498)** No wonder we can't authenticate to the website that requires client certificates.
 >
-> **[8:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=503)** Now this Windows computer is joined to an active directory domain, so it makes it very easy to request client certificates for authentication.
+> **[8:23](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=503)** Now this Windows computer is joined to an [[Active Directory]] domain, so it makes it very easy to request client certificates for authentication.
 >
 > **[8:32](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-web-brower-client-certificate-authentication?u=76281980&t=512)** For example, what I can do here is right click Certificates on the left.
 >
@@ -3226,7 +3203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (19), [[Microsoft]] (7), [[Windows]] (4), [[Linux]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Windows]] (4), [[Linux]] (2), [[Active Directory]] (2), [[Windows Server]] (1)
 > **Env Vars:** ssl (12), http (9), https (5), pki (3), iis (3)
 > **UI Navigation:** go to (5), click on (2), select the (1)
 > **URLs:** [https://www.mysite.local](https://www.mysite.local) (2), [http://www.mysite.local](http://www.mysite.local) (1)
@@ -3235,28 +3212,27 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 
-#### Configure VPN certificate authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980)
+#### [Configure VPN certificate authentication](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=0)** - [Instructor] We know that PKI certificates are commonly used with web servers to encrypt communications with connections to and from that web server.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=0)** - [Instructor] We know that PKI certificates are commonly used with [[Web Servers]] to encrypt communications with connections to and from that web server.
 >
 > **[0:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=10)** But certificates can also be used for things not directly related to TLS, like file system encryption, and even authenticating to a VPN.
 >
 > **[0:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=20)** In the case of a VPN the certificate is also going to be important if you're using an SSL or a TLS type of VPN that uses standard port 443 for VPN connections.
 >
-> **[0:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=33)** So, we're going to configure a VPN, a cloud-based VPN, in the Microsoft Azure Cloud that uses client certificate authentication.
+> **[0:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=33)** So, we're going to configure a VPN, a cloud-based VPN, in the [[Microsoft Azure]] Cloud that uses client certificate authentication.
 >
 > **[0:43](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=43)** Here in the Microsoft Azure portal I'm going to begin by opening up my left-hand navigator and clicking All resources.
 >
-> **[0:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=50)** This will show me all of the items, all of the resources deployed in my Azure subscription.
+> **[0:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=50)** This will show me all of the items, all of the resources deployed in my [[Microsoft Azure|Azure]] subscription.
 >
 > **[0:56](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=56)** I've already deployed something called a virtual network gateway.
 >
 > **[1:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=61)** Think of that as being the representation of a VPN device in the Azure Cloud.
 >
-> **[1:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=67)** So, it's kind of like having a VPN hardware device that you plug into an empty switch port on a local area network, so that's kind of what we've got here defined already.
+> **[1:07](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=67)** So, it's kind of like having a VPN [[Hardware]] device that you plug into an empty switch port on a [[Local Area Network (LAN)|local area network]], so that's kind of what we've got here defined already.
 >
 > **[1:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=77)** It's called eastvpn1.
 >
@@ -3278,13 +3254,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=146)** I'm interested in an SSL, or really a TLS type of VPN, so I'm going to go with the standard OpenVPN SSL selection here.
 >
-> **[2:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=156)** For the authentication type I'm going to choose Azure certificate, that also will require an Azure user account within the Microsoft Azure Entra ID Tenant.
+> **[2:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=156)** For the authentication type I'm going to choose Azure certificate, that also will require an Azure user account within the Microsoft Azure [[Microsoft Entra ID|Entra ID]] Tenant.
 >
 > **[2:48](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=168)** Let's just explore that for a moment.
 >
-> **[2:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=170)** If I were to duplicate my web browser page here, just so we can keep our place in the first one, in the left-hand navigator I can go to my Microsoft Entra ID Tenant.
+> **[2:50](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=170)** If I were to duplicate my web browser page here, just so we can keep our place in the first one, in the left-hand navigator I can go to my [[Microsoft Entra ID]] Tenant.
 >
-> **[3:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=180)** Think of that as being a directory service that's loosely similar to an Active Directory domain on premises where you can go and view your user accounts.
+> **[3:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=180)** Think of that as being a directory service that's loosely similar to an [[Active Directory]] domain on premises where you can go and view your user accounts.
 >
 > **[3:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=190)** So, we would have to have a user account here in addition to a certificate to authenticate to the VPN.
 >
@@ -3304,9 +3280,9 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=237)** It doesn't have to be public.
 >
-> **[4:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=240)** On my local computer I've started the PowerShell ISE.
+> **[4:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=240)** On my local computer I've started the [[Powershell]] ISE.
 >
-> **[4:04](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=244)** I'm running Windows.
+> **[4:04](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=244)** I'm running [[Windows]].
 >
 > **[4:05](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=245)** ISE stands for Integrated Scripting Environment.
 >
@@ -3334,7 +3310,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=317)** So, there are no error messages, so it looks good.
 >
-> **[5:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=320)** Let's open up MMC, the Microsoft Management Console, on this machine to verify that we have MyRootCert and MyClientCert.
+> **[5:20](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=320)** Let's open up MMC, the [[Microsoft]] Management Console, on this machine to verify that we have MyRootCert and MyClientCert.
 >
 > **[5:31](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-vpn-certificate-authentication?u=76281980&t=331)** Here in MMC I will go to File, Add/Remove Snap-in, Certificates, Add, and I want to look at the local user account certificates, that would be for the user I'm currently signed in as right now.
 >
@@ -3398,7 +3374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (22), [[Microsoft Azure|Azure]] (6), cloud (5), web (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Windows]] (4), [[Microsoft Azure]] (3), [[Powershell]] (3), [[Web Servers]] (1)
 > **Env Vars:** vpn (22), pki (3), tls (3), ssl (3), ise (2)
 > **Tools:** powershell (3), azure portal (2)
 > **CLI Commands:** make (2), snap (1), find (1)
@@ -3407,14 +3383,13 @@ created: 2026-05-02
 > **Versions:** 192.168.3 (3)
 > **Analogies:** kind of like (1), similar to (1), for example (1)
 
-#### Configure a network printer certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980)
+#### [Configure a network printer certificate](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=0)** - [Presenter] These days, we have a lot of different devices on the network that might exist with a built-in web server stack, even built into the firmware when it comes to IoT devices or as in our example, a network based printer.
+> **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=0)** - [Presenter] These days, we have a lot of different devices on the network that might exist with a built-in web server stack, even built into the firmware when it comes to [[IoT]] devices or as in our example, a network based printer.
 >
-> **[0:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=16)** Here in my web browser, I'm connecting to the DNS name of a printer on my local area network.
+> **[0:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=16)** Here in my web browser, I'm connecting to the DNS name of a printer on my [[Local Area Network (LAN)|local area network]].
 >
 > **[0:22](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-network-printer-certificate?u=76281980&t=22)** You can connect to the IP address, it doesn't matter.
 >
@@ -3606,7 +3581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (5), [[IoT]] (2), [[Local Area Network (LAN)|Local area network]] (2), dns (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Local Area Network (LAN)|Local area network]] (2)
 > **Env Vars:** https (4), tls (2), dns (1), hp4da3fe (1), pki (1)
 > **Prerequisites:** install (5), configure (2)
 > **UI Navigation:** click on (4), in the menu (1), scroll down (1)
@@ -3615,20 +3590,19 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [presenter] (1)
 
-#### Acquire a web app certificate using Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980)
+#### [Acquire a web app certificate using Microsoft Azure](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=0)** - [Instructor] Securing network communications to a web app means using TLS, Transport Layer Security because we know that we get the benefits of encryption.
 >
-> **[0:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=9)** We also know that we have message authentication for all network transmissions, so we have all those benefits, but in order to use TLS with a web app, you need to have a certificate, so what we're going to be doing here in the Microsoft Azure Cloud is enabling an HTTPS connection to a Microsoft Azure hosted web application.
+> **[0:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=9)** We also know that we have message authentication for all network transmissions, so we have all those benefits, but in order to use TLS with a web app, you need to have a certificate, so what we're going to be doing here in the [[Microsoft Azure]] Cloud is enabling an HTTPS connection to a Microsoft Azure hosted web application.
 >
 > **[0:32](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=32)** The first thing we should do is kind of take an inventory of what's currently in place before we dive into it and try to solve the problem, so think for just a moment.
 >
 > **[0:43](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=43)** If I'm using the Microsoft Azure Cloud, and I want to use a certificate to secure a web app, what do I need to have in place?
 >
-> **[0:53](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=53)** Well, this is not a Microsoft Azure course, but the reality is cloud computing is a big deal these days.
+> **[0:53](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=53)** Well, this is not a Microsoft Azure course, but the reality is [[Cloud Computing]] is a big deal these days.
 >
 > **[0:59](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=59)** You need a key vault.
 >
@@ -3656,7 +3630,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=121)** Okay, so demotest.world. Got it.
 >
-> **[2:04](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=124)** Now, what I want to do in Azure is take a look at my App Services.
+> **[2:04](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=124)** Now, what I want to do in [[Microsoft Azure|Azure]] is take a look at my App Services.
 >
 > **[2:09](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=129)** In other words, hosted web apps.
 >
@@ -3690,7 +3664,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=256)** The point is I'm here where I can add records to my domain, so I'm going to add a new record.
 >
-> **[4:21](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=261)** The first thing that Microsoft asked me to do was to add an A record, so I'm going to go ahead and add an A record with the details that were specified in the Microsoft Azure portal.
+> **[4:21](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=261)** The first thing that [[Microsoft]] asked me to do was to add an A record, so I'm going to go ahead and add an A record with the details that were specified in the Microsoft Azure portal.
 >
 > **[4:33](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-web-app-certificate-using-microsoft-azure?u=76281980&t=273)** I'll click Save once I've entered the values, but I want to add my second DNS TXT record, so if we take a look here, let's just close some of these little messages, if we take a look further down, indeed, we have now got our A record added according to Microsoft's instructions.
 >
@@ -3726,7 +3700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (11), web (10), [[Microsoft Azure]] (7), [[Microsoft Azure|Azure]] (5), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (7), [[Microsoft Azure|Azure]] (5), [[Microsoft]] (3), [[Cloud Computing]] (1)
 > **Env Vars:** dns (11), tls (4), txt (4), https (3), pki (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1), navigate to (1)
 > **Definitions:** is a  (3), in other words (1), means that (1)
@@ -3740,8 +3714,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3751,7 +3724,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=11)** There are a number of recommendations I would offer.
 >
-> **[0:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=13)** One of those would be to think about other tools like Microsoft Active Directory Group Policy if your environment uses Microsoft Active Directory.
+> **[0:13](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=13)** One of those would be to think about other tools like [[Microsoft]] [[Active Directory]] Group Policy if your environment uses Microsoft Active Directory.
 >
 > **[0:24](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=24)** Group Policy contains thousands of settings where you can centrally configure those settings to be applied to some or all devices joined to the domain.
 >
@@ -3765,13 +3738,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=68)** So that's something else to think about.
 >
-> **[1:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=70)** By all means, consider working with other PKI products.
+> **[1:10](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=70)** By all means, consider working with other PKI [[Microsoft Products|products]].
 >
-> **[1:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=74)** There are plenty out there, whether you're working with private or public CA's, whether it's a mobile device management or MDM tool, with certificate options, whether it's a configuration management tool or suite to be used in the enterprise, it will normally have options available for either generating, managing, or deploying certificates.
+> **[1:14](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=74)** There are plenty out there, whether you're working with private or public CA's, whether it's a mobile device management or MDM tool, with certificate options, whether it's a [[Configuration Management]] tool or suite to be used in the enterprise, it will normally have options available for either generating, managing, or deploying certificates.
 >
 > **[1:36](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=96)** We should also think about when it comes to certificate deployment options for automating the deployment of certificates to mobile devices, or maybe to allow the auto-enrollment of computers joined to an active directory domain.
 >
-> **[1:51](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=111)** And finally, because our focus here was on transport layer security or TLS, this is a network security protocol suite.
+> **[1:51](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=111)** And finally, because our focus here was on transport layer security or TLS, this is a [[Network Security]] protocol suite.
 >
 > **[2:00](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980&t=120)** It changes over time.
 >
@@ -3785,7 +3758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), management (2), [[Security]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (2), [[Microsoft Products|Products]] (1), [[Configuration Management]] (1), [[Network Security]] (1)
 > **Env Vars:** tls (7), pki (1), mdm (1)
 > **Prerequisites:** configure (1), install (1)
 > **Versions:** version 1 (1)

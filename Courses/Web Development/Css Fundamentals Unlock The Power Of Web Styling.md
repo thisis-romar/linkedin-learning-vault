@@ -83,14 +83,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time to learn some CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980)
+#### [Time to learn some CSS](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980&t=0)** - CSS, or Cascading Style Sheets, is a core building block of the web.
+> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980&t=0)** - CSS, or [[Cascading Style Sheets (CSS)|Cascading Style Sheets]], is a core building block of the web.
 >
-> **[0:05](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980&t=5)** It takes plain old HTML and turns it into something visually appealing.
+> **[0:05](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980&t=5)** It takes plain old [[HTML]] and turns it into something visually appealing.
 >
 > **[0:09](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980&t=9)** Basically, it's the secret sauce that makes the internet a prettier place.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), web (2), [[HTML]] (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (4), html (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - css (1)
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is CSS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980)
+#### [What is CSS?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,11 +123,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=10)** I frequently hear folks say that they're not even sure where to begin, and I remember thinking the same thing when I started out.
 >
-> **[0:18](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=18)** I'd like to introduce you to CSS, and show you how it fits into the bigger picture of web development.
+> **[0:18](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=18)** I'd like to introduce you to CSS, and show you how it fits into the bigger picture of [[Web Development]].
 >
-> **[0:25](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=25)** CSS stands for cascading style sheets.
+> **[0:25](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=25)** CSS stands for [[Cascading Style Sheets (CSS)|cascading style sheets]].
 >
-> **[0:27](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=27)** It's a style language used to control the appearance of market languages like HTML.
+> **[0:27](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=27)** It's a style language used to control the appearance of market languages like [[HTML]].
 >
 > **[0:33](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=33)** So you can think of HTML as controlling the structure of the web while CSS controls the presentation of it.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=67)** You don't have to change the underlying structure.
 >
-> **[1:10](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=70)** Now, when it comes to syntax, CSS is not a markup language like HTML or a scripting language like JavaScript.
+> **[1:10](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=70)** Now, when it comes to syntax, CSS is not a markup language like HTML or a scripting language like [[JavaScript]].
 >
 > **[1:18](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980&t=78)** It's a style sheet language.
 >
@@ -205,24 +203,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (16), [[HTML]] (6), web (5), [[Web Development]] (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Web Development]] (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (16), html (6)
 > **Definitions:** means that (2), stands for (1), in other words (1), is a  (1)
 > **Analogies:** picture (2), for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### What are default browser styles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980)
+#### [What are default browser styles?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=0)** - [Instructor] Have you ever opened an HTML file that didn't have a style sheet?
+> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=0)** - [Instructor] Have you ever opened an [[HTML]] file that didn't have a style sheet?
 >
 > **[0:04](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=4)** If so, it might have looked something like this.
 >
 > **[0:07](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=7)** Now, some people would refer to this as unstyled content, and while it certainly does look that way it's not entirely accurate.
 >
-> **[0:15](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=15)** Before users were allowed to control HTML pages through cascading style sheets, browsers had to have some way of displaying HTML content visually.
+> **[0:15](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=15)** Before users were allowed to control HTML pages through [[Cascading Style Sheets (CSS)|cascading style sheets]], browsers had to have some way of displaying HTML content visually.
 >
 > **[0:25](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=25)** These were called default browser styles or user agent styles.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=111)** Modern browsers, even allow users to specify a dark mode.
 >
-> **[1:55](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=115)** If you're a designer that spent hours perfecting the layout, typography and color palette for a design that might make you cringe.
+> **[1:55](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=115)** If you're a designer that spent hours perfecting the layout, [[Typography]] and color palette for a design that might make you cringe.
 >
 > **[2:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-default-browser-styles?u=76281980&t=122)** But the important thing to remember is this, the goal of any website should be to make the content accessible to the individual user.
 >
@@ -270,15 +267,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Typography]] (1)
 > **Env Vars:** css (5), html (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is basic CSS lexicon?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980)
+#### [What is basic CSS lexicon?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=16)** The selector points to the element that you want to style.
 >
-> **[0:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=19)** And in this case, it's the HTML paragraph element represented by P.
+> **[0:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=19)** And in this case, it's the [[HTML]] paragraph element represented by P.
 >
 > **[0:25](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=25)** And the declaration block, which is enclosed in these curly braces and can contain one or more declarations.
 >
@@ -352,11 +348,11 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=194)** My recommendation is to focus on these most basic elements of CSS syntax first.
 >
-> **[3:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=199)** You'll be surprised at how quickly you pick up the rest.
+> **[3:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-basic-css-lexicon?u=76281980&t=199)** You'll be surprised at how quickly you pick up the [[Representational State Transfer (REST)|rest]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[Programming]] (2), [[HTML]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (7), html (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
@@ -364,12 +360,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are basic selector types?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980)
+#### [What are basic selector types?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=0)** - CSS selectors are what we use to find or target particular bits of HTML.
+> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=0)** - CSS selectors are what we use to find or target particular bits of [[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=7)** The foremost common selectors are type selectors, you may also hear these referred to as element selectors, the class selector, the ID selector and the descendant selector.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=59)** These match elements based on the contents of their class attribute.
 >
-> **[1:03](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=63)** So in this example, I've got a CSS class called error, and in my HTML, I've got a paragraph tag with the class attribute containing the word error.
+> **[1:03](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=63)** So in this example, I've got a CSS class called error, and in my HTML, I've got a paragraph tag with the class attribute containing the [[Microsoft Word|word]] error.
 >
 > **[1:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-basic-selector-types?u=76281980&t=73)** And the output of this code combo will give us the word oops in red.
 >
@@ -441,15 +436,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (3), [[Microsoft Word|Word]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** css (3), html (3)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - css (1)
 
-#### What are CSS combinators?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-css-combinators?u=76281980)
+#### [What are CSS combinators?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-are-css-combinators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,18 +491,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** css (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does CSS work with HTML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980)
+#### [How does CSS work with HTML?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980&t=0)** - [Instructor] I'd like to take a few minutes to talk about how CSS works with HTML structure.
+> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980&t=0)** - [Instructor] I'd like to take a few minutes to talk about how CSS works with [[HTML]] structure.
 >
 > **[0:05](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980&t=5)** Now remember, that to style elements in your documents, you'll need to write selectors that target those elements.
 >
@@ -590,11 +582,11 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980&t=268)** That's a lot easier to style.
 >
-> **[4:31](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980&t=271)** If you're still getting your feet wet with HTML and want to dig deeper into learning semantic markup, there's a great course in the library I'd recommend.
+> **[4:31](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-does-css-work-with-html?u=76281980&t=271)** If you're still getting your feet wet with HTML and want to dig deeper into learning [[Semantic Markup]], there's a great course in the library I'd recommend.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (12), css (5), next (1), [[Semantic Markup]] (1)
+> **Frameworks & Libraries:** [[HTML]] (12), [[Semantic Markup]] (1)
 > **Env Vars:** html (12), css (5), html5 (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for instance (2), for example (1)
@@ -602,8 +594,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### What options are available to write your styles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-options-are-available-to-write-your-styles?u=76281980)
+#### [What options are available to write your styles?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-options-are-available-to-write-your-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,7 +606,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-options-are-available-to-write-your-styles?u=76281980&t=15)** First, you can write CSS in a separate file, which is called an external style sheet.
 >
-> **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-options-are-available-to-write-your-styles?u=76281980&t=21)** Second, you can place styles in the head of an existing HTML document, this is referred to as embedded styles.
+> **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-options-are-available-to-write-your-styles?u=76281980&t=21)** Second, you can place styles in the head of an existing [[HTML]] document, this is referred to as embedded styles.
 >
 > **[0:29](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-options-are-available-to-write-your-styles?u=76281980&t=29)** And finally, you can apply styles directly to an HTML element, which is referred to as inline styles.
 >
@@ -661,15 +652,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (5)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** html (5), css (4)
 > **File Paths:** style.css (1), styles.css (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1), means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### How do browsers render styles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-do-browsers-render-styles?u=76281980)
+#### [How do browsers render styles?](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-do-browsers-render-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +681,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-do-browsers-render-styles?u=76281980&t=67)** Next, I want to talk more about the concept of the Cascade.
 >
-> **[1:11](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-do-browsers-render-styles?u=76281980&t=71)** Cascading style sheets get their name from the source order of the styles as they're applied within the browser.
+> **[1:11](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-do-browsers-render-styles?u=76281980&t=71)** [[Cascading Style Sheets (CSS)|Cascading style sheets]] get their name from the source order of the styles as they're applied within the browser.
 >
 > **[1:17](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/how-do-browsers-render-styles?u=76281980&t=77)** And this usually means that user agent styles are applied first, followed by external style sheets, then embedded styles, finally followed by inline styles.
 >
@@ -739,7 +729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (2), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
+> **Frameworks & Libraries:** [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (4)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (2)
@@ -751,8 +741,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why CSS reset and normalize matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980)
+#### [Why CSS reset and normalize matter](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980&t=34)** Let me show you an example.
 >
-> **[0:37](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980&t=37)** Using CodePen, I've dumped some test HTML in with all sorts of elements.
+> **[0:37](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980&t=37)** Using [[CodePen]], I've dumped some test [[HTML]] in with all sorts of elements.
 >
 > **[0:44](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980&t=44)** I've not actually applied any styles to this, but it does look like styled content.
 >
@@ -820,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[CodePen]] (3), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (2)
 > **Env Vars:** css (6), html (2)
 > **Cross-References:** go back to (3)
 > **Tools:** firefox (2)
@@ -828,12 +817,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980)
+#### [Working with fonts](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=0)** - [Instructor] If you're a designer, you know that typography is incredibly important to a design and the message you're trying to communicate.
+> **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=0)** - [Instructor] If you're a designer, you know that [[Typography]] is incredibly important to a design and the message you're trying to communicate.
 >
 > **[0:06](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=6)** So it's no surprise that when learning CSS, a lot of folks start with fonts.
 >
@@ -903,7 +891,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=193)** These are called web fonts.
 >
-> **[3:16](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=196)** Some of them are free such as Google fonts and others require payment or licensing like Adobe fonts.
+> **[3:16](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=196)** Some of them are free such as [[Google]] fonts and others require payment or licensing like Adobe fonts.
 >
 > **[3:23](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=203)** Web fonts are basically external style sheets that you can include in your project and there's a few ways you can go about that.
 >
@@ -919,7 +907,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=238)** That brings me to the last couple of options for including web fonts.
 >
-> **[4:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=242)** You can link to an external style sheet or you can bring in a style sheet via JavaScript.
+> **[4:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=242)** You can link to an external style sheet or you can bring in a style sheet via [[JavaScript]].
 >
 > **[4:08](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-fonts?u=76281980&t=248)** The latter method is what you'll commonly see if you're working with web fonts via Google fonts, Adobe fonts, or a similar service.
 >
@@ -933,7 +921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), css (7), [[Typography]] (3), next (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Typography]] (3), [[Google]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (7), w3c (1)
 > **Documentation:** specification (2), w3c (1)
 > **Analogies:** just like (1), such as (1)
@@ -941,18 +929,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the box model
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980)
+#### [Understanding the box model](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=0)** - [Instructor] The CSS Box Model is the foundation of layout on the web.
 >
-> **[0:04](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=4)** The box model is the term used to describe the rules surrounding the physical properties of all HTML elements.
+> **[0:04](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=4)** The box model is the term used to describe the rules surrounding the physical properties of all [[HTML]] elements.
 >
 > **[0:11](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=11)** Basically, you can think about it this way.
 >
-> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=13)** Every single element on your webpage is considered to be in a rectangular box, images, text, forms, everything.
+> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=13)** Every single element on your webpage is considered to be in a rectangular box, images, text, [[Forms]], everything.
 >
 > **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-box-model?u=76281980&t=21)** And the properties of each box its width, height, border, margin, and padding.
 >
@@ -1030,15 +1017,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (2), web (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (1)
 > **Env Vars:** css (2), html (2), dom (1)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting margins and padding
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/setting-margins-and-padding?u=76281980)
+#### [Setting margins and padding](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/setting-margins-and-padding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,15 +1092,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (2), [[Search]] (1)
 > **Env Vars:** css (3)
 > **Warnings:** keep in mind (1), note that (1), be aware (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with color
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-color?u=76281980)
+#### [Working with color](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/working-with-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,15 +1202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (2)
 > **Env Vars:** rgb (13), hsl (7), css (5), rgba (1), hsla (1)
 > **Definitions:** is a  (3), stands for (2), refers to (1)
 > **Analogies:** similar to (1), such as (1)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Applying borders and backgrounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980)
+#### [Applying borders and backgrounds](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1282,7 +1264,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=148)** Let me show you an example.
 >
-> **[2:30](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=150)** So here I've got just a super basic HTML form and I've applied an outline that will display whenever a form field comes into focus.
+> **[2:30](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=150)** So here I've got just a super basic [[HTML]] form and I've applied an outline that will display whenever a form field comes into focus.
 >
 > **[2:41](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=161)** And by focus, I mean that either, a user has clicked their cursor on a field or has navigated to a field via keyboard.
 >
@@ -1312,7 +1294,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=226)** The background property lets us add visual sophistication and style to even basic content.
 >
-> **[3:52](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=232)** The word background is actually shorthand CSS, letting you define all background style properties at once such as color, image, size, et cetera.
+> **[3:52](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=232)** The [[Microsoft Word|word]] background is actually shorthand CSS, letting you define all background style properties at once such as color, image, size, et cetera.
 >
 > **[4:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/applying-borders-and-backgrounds?u=76281980&t=242)** Now the default style for most elements is to have a transparent background, meaning you can see right through 'em.
 >
@@ -1330,13 +1312,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (2), html (1)
 > **Analogies:** similar to (1), imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the units of measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-units-of-measurement?u=76281980)
+#### [Understanding the units of measurement](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-units-of-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1355,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-units-of-measurement?u=76281980&t=91)** The cool thing about ems is that you can change the starting point of the parent element and the overall size of em units will get bigger or smaller as you've designated, but the relationship between those elements will stay exactly the same.
 >
-> **[1:45](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-units-of-measurement?u=76281980&t=105)** Next up, we have rems, or root ems, which are very similar to ems in that they are also a relative value, but instead of being relative to the value of their parent element, they're relative to the font size of the root element, which is the HTML element.
+> **[1:45](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-units-of-measurement?u=76281980&t=105)** Next up, we have rems, or root ems, which are very similar to ems in that they are also a relative value, but instead of being relative to the value of their parent element, they're relative to the font size of the root element, which is the [[HTML]] element.
 >
 > **[2:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-the-units-of-measurement?u=76281980&t=122)** And if the HTML element doesn't have a specified font size, the browser default value of 16 pixels is used.
 >
@@ -1398,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (5), html (2)
 > **Analogies:** just like (1)
 > **Warnings:** be aware (1)
@@ -1409,8 +1390,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding cascading order
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980)
+#### [Understanding cascading order](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1500,13 +1480,13 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980&t=249)** We'd get incrementally smaller and smaller.
 >
-> **[4:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980&t=253)** So in a nutshell, that's how origins and importance, specificity, source order, and inheritance work together to control how CSS is applied to HTML.
+> **[4:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980&t=253)** So in a nutshell, that's how origins and importance, specificity, source order, and inheritance work together to control how CSS is applied to [[HTML]].
 >
 > **[4:23](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980&t=263)** And that my friend is the cascade.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), next (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (9), html (1)
 > **Analogies:** for example (3), for instance (1)
 > **CLI Commands:** find (1), make (1)
@@ -1514,8 +1494,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating specificity
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/calculating-specificity?u=76281980)
+#### [Calculating specificity](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/calculating-specificity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1535,7 +1514,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/calculating-specificity?u=76281980&t=28)** Now, if we have a Class that's going to be 010 or you could read it as 10.
 >
-> **[0:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/calculating-specificity?u=76281980&t=34)** And just a regular ole HTML element is going to get you one point.
+> **[0:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/calculating-specificity?u=76281980&t=34)** And just a regular ole [[HTML]] element is going to get you one point.
 >
 > **[0:40](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/calculating-specificity?u=76281980&t=40)** Let's play ~with some combinations here and see how this works.
 >
@@ -1559,14 +1538,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering the rule !important
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/considering-the-rule-important?u=76281980)
+#### [Considering the rule !important](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/considering-the-rule-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1590,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), power (1), [[Debugging]] (1), next (1)
 > **Env Vars:** css (5)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
@@ -1625,14 +1602,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring a page with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980)
+#### [Structuring a page with CSS](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=0)** - [Narrator] In this movie, I want to introduce you to some layout concepts so that you'll be familiar with them as you begin to experiment with and learn the various nuances around controlling page layouts with CSS.
 >
-> **[0:12](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=12)** So a browser reads an HTML document from the top down.
+> **[0:12](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=12)** So a browser reads an [[HTML]] document from the top down.
 >
 > **[0:17](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=17)** Now if there's no CSS intervention, that HTML will appear on the page as a bunch of stacked elements.
 >
@@ -1648,7 +1624,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=48)** This was terrible in so many ways as that's not really what HTML table markup was meant for and it left us with a mess of unsemantic HTML, inaccessible layouts, and code that was very difficult to maintain.
 >
-> **[1:03](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=63)** Then came along cascading style sheets with its box model to modify normal flow with floats and positioning.
+> **[1:03](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=63)** Then came along [[Cascading Style Sheets (CSS)|cascading style sheets]] with its box model to modify normal flow with floats and positioning.
 >
 > **[1:10](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=70)** While this wasn't really a layout system, it did give us the ability to manipulate where elements appeared on a page relative to their neighboring elements.
 >
@@ -1670,7 +1646,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=143)** The CSS grid radically changes how we design page layouts for the web.
 >
-> **[2:29](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=149)** Now other than tables, you'll still find the rest of these methods used in some degree to another to create page layouts.
+> **[2:29](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=149)** Now other than tables, you'll still find the [[Representational State Transfer (REST)|rest]] of these methods used in some degree to another to create page layouts.
 >
 > **[2:36](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980&t=156)** You'll even find them working together in harmony.
 >
@@ -1680,15 +1656,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[HTML]] (9), web (3), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (12), html (9)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding how flexbox works
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980)
+#### [Understanding how flexbox works](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1708,7 +1683,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=54)** Let me say that one again.
 >
-> **[0:56](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=56)** You can manipulate the order of flex children with Flexbox without touching the HTML structure.
+> **[0:56](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=56)** You can manipulate the order of flex children with Flexbox without touching the [[HTML]] structure.
 >
 > **[1:03](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=63)** Very cool.
 >
@@ -1732,19 +1707,18 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=121)** Fully tackling Flexbox is out of the scope for this course but just in case I've got your curiosity peaked, I'll share with you one of my very favorite resources for Flexbox and that's this guide on "CSS Tricks".
 >
-> **[2:16](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=136)** There's even a poster depicting Flexbox layouts that I bought from here and hung in my office.
+> **[2:16](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=136)** There's even a poster depicting Flexbox layouts that I bought from here and hung in my [[Microsoft Office|office]].
 >
 > **[2:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-flexbox-works?u=76281980&t=141)** My friends call it my nerd poster and I'm pretty sure it's a compliment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (2), [[HTML]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** css (2), html (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - flexbox (1)
 
-#### Understanding how the CSS Grid works
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-the-css-grid-works?u=76281980)
+#### [Understanding how the CSS Grid works](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-the-css-grid-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1752,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-the-css-grid-works?u=76281980&t=8)** Unlike Flexbox, CSS Grid is a two-dimensional layout system.
 >
-> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-the-css-grid-works?u=76281980&t=13)** This allows developers to place HTML elements in a Grid based layout using both rows and columns simultaneously.
+> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-the-css-grid-works?u=76281980&t=13)** This allows developers to place [[HTML]] elements in a Grid based layout using both rows and columns simultaneously.
 >
 > **[0:22](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-how-the-css-grid-works?u=76281980&t=22)** With Grid, we can apply a Grid to a container and then put content wherever we want within that Grid.
 >
@@ -1796,15 +1770,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (6), html (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding CSS frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980)
+#### [Understanding CSS frameworks](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1814,7 +1787,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=13)** Well, imagine that concept on a broader scale and you've got yourself a CSS library or framework.
 >
-> **[0:20](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=20)** A CSS framework is a collection of CSS files with predefined rules for commonly used things like typography, UI components, layouts, and yes, even browser resets.
+> **[0:20](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=20)** A CSS framework is a collection of CSS files with predefined rules for commonly used things like [[Typography]], UI components, layouts, and yes, even browser resets.
 >
 > **[0:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=34)** There are benefits to using a framework, such as cross-browser compatibility, consistent styling, responsive layouts, speeding up your development time, and even learning CSS just by studying other people's code.
 >
@@ -1822,7 +1795,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=55)** Some of the more popular ones today include foundation sites, bootstrap, and tailwind.
 >
-> **[1:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=62)** Now as flex box and grid have matured, I see CSS frameworks playing a lesser role in web development than maybe they did a few years ago.
+> **[1:02](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=62)** Now as flex box and grid have matured, I see CSS frameworks playing a lesser role in [[Web Development]] than maybe they did a few years ago.
 >
 > **[1:10](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-css-frameworks?u=76281980&t=70)** That said, CSS frameworks are certainly still alive and well.
 >
@@ -1830,23 +1803,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[Typography]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Typography]] (1), [[Web Development]] (1)
 > **Env Vars:** css (9)
 > **Cross-References:** earlier in (1), we talked about (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating responsive layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980)
+#### [Creating responsive layouts](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=0)** - [Narrator] The way people visit and interact with the web has changed significantly as technology has evolved.
 >
-> **[0:07](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=7)** In the past, web development was focused mainly on desktop computers and large monitors, but now we have smartphones, smart TVs, wearable technologies, and all other sorts of ways to consume the web.
+> **[0:07](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=7)** In the past, [[Web Development]] was focused mainly on desktop computers and large monitors, but now we have smartphones, smart TVs, wearable technologies, and all other sorts of ways to consume the web.
 >
-> **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=21)** Responsive web design is a term used to describe an approach to web design or a set of best practices that are used to create a layout that can respond to a device.
+> **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=21)** [[Responsive Web Design]] is a term used to describe an approach to [[Web Design]] or a set of best practices that are used to create a layout that can respond to a device.
 >
 > **[0:31](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=31)** CSS gives us multiple ways to achieve this.
 >
@@ -1868,7 +1840,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=101)** So Grid responds natively to whatever the container size is.
 >
-> **[1:47](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=107)** Using media queries, we can also make typography responsive.
+> **[1:47](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=107)** Using media queries, we can also make [[Typography]] responsive.
 >
 > **[1:51](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=111)** For example, let's say we have a base font size of 20 pixels.
 >
@@ -1878,7 +1850,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=126)** While an in-depth look at creating responsive layouts is outside the scope of this course, I wanted you to know that one, it's a thing, and two, that it's a very important thing.
 >
-> **[2:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=139)** Creating responsive sites has become so important to web design that in 2015, Google started actively penalizing sites that weren't mobile-friendly.
+> **[2:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=139)** Creating responsive sites has become so important to web design that in 2015, [[Google]] started actively penalizing sites that weren't mobile-friendly.
 >
 > **[2:29](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/creating-responsive-layouts?u=76281980&t=149)** As you're learning CSS, be sure to keep in mind that while you're making beautiful websites, you also want them to be accessible to as many people as possible.
 >
@@ -1888,7 +1860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), web (4), [[Responsive Web Design]] (2), [[Web Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (2), [[Web Design]] (2), [[Web Development]] (1), [[Typography]] (1), [[Google]] (1)
 > **Env Vars:** css (5)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
@@ -1901,8 +1873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980)
+#### [Organizing your code](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,13 +1953,13 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980&t=214)** It just depends on how much CSS you write or how large the project is you're working on.
 >
-> **[3:39](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980&t=219)** By splitting up your CSS files into smaller chunks that can make it easier to maintain, because you can jump really quickly into say the typography style sheet and make adjustments rather than having to look through a really long style sheet to maybe find those typography settings.
+> **[3:39](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980&t=219)** By splitting up your CSS files into smaller chunks that can make it easier to maintain, because you can jump really quickly into say the [[Typography]] style sheet and make adjustments rather than having to look through a really long style sheet to maybe find those typography settings.
 >
 > **[3:56](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980&t=236)** The bottom line here is that by keeping your CSS organized, you'll ensure that your code is easier to read and maintain over time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (13), next (3), [[Typography]] (2)
+> **Frameworks & Libraries:** [[Typography]] (2)
 > **Env Vars:** css (13)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** the key is (2), general rule (1)
@@ -1996,8 +1967,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using browser inspection tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980)
+#### [Using browser inspection tools](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2007,13 +1977,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=11)** Let me show you what I mean.
 >
-> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=13)** So here I am on the [wordpress.org](https://wordpress.org) site, and the website really doesn't matter, I just want to illustrate the tool.
+> **[0:13](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=13)** So here I am on the [[[WordPress]].org](https://wordpress.org) site, and the website really doesn't matter, I just want to illustrate the tool.
 >
 > **[0:19](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=19)** So I'm using Firefox, and if I right click anywhere on the page, I get this popup menu and I want to click Inspect.
 >
 > **[0:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=28)** Now, one part of this tool is actually seeing the CSS and HTL markup behind the page.
 >
-> **[0:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=34)** So on this left panel, I have the HTML markup, and on this right side, I have the corresponding styles.
+> **[0:34](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=34)** So on this left panel, I have the [[HTML]] markup, and on this right side, I have the corresponding styles.
 >
 > **[0:45](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=45)** So for instance, if I wanted to see this main container with a class of site header, I could go over here to the right in my CSS and see the styles for that.
 >
@@ -2047,7 +2017,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=140)** Here's how to access the developer menu in Safari.
 >
-> **[2:23](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=143)** And lastly, the DevTools that are part of Microsoft Edge.
+> **[2:23](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=143)** And lastly, the DevTools that are part of [[Microsoft]] Edge.
 >
 > **[2:29](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-browser-inspection-tools?u=76281980&t=149)** Now, if that went too fast, just pause, and rewind this video to see the URL for the browser that you'd like to use.
 >
@@ -2055,7 +2025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[HTML]] (2), [[WordPress]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[WordPress]] (1), [[Microsoft]] (1)
 > **Env Vars:** css (7), html (2), htl (1), url (1)
 > **CLI Commands:** find (3), make (2)
 > **Tools:** firefox (3), safari (1)
@@ -2064,8 +2034,7 @@ created: 2026-05-02
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Prerequisites:** install (1)
 
-#### Using the "Can I use..." for a CSS property
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-the-can-i-use-for-a-css-property?u=76281980)
+#### [Using the "Can I use..." for a CSS property](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-the-can-i-use-for-a-css-property?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2087,7 +2056,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-the-can-i-use-for-a-css-property?u=76281980&t=59)** I'd like to introduce you to your new best friend when it comes to understanding adoption of CSS features across browsers.
 >
-> **[1:06](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-the-can-i-use-for-a-css-property?u=76281980&t=66)** [Caniuse.com](https://Caniuse.com) provides up-to-date browser support tables showing which frontend web technologies, like JavaScript, HTML5, and CSS, are available for use.
+> **[1:06](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-the-can-i-use-for-a-css-property?u=76281980&t=66)** [Caniuse.com](https://Caniuse.com) provides up-to-date browser support tables showing which frontend web technologies, like [[JavaScript]], HTML5, and CSS, are available for use.
 >
 > **[1:18](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/using-the-can-i-use-for-a-css-property?u=76281980&t=78)** What does that mean?
 >
@@ -2117,7 +2086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), feature (2), web (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** css (5), html5 (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (2)
 > **Tools:** firefox (1), safari (1)
@@ -2126,8 +2095,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Analogies:** for instance (1)
 
-#### Validating your CSS with tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/validating-your-css-with-tools?u=76281980)
+#### [Validating your CSS with tools](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/validating-your-css-with-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,7 +2133,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), web (1)
 > **Env Vars:** css (11)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [w3c.org](https://w3c.org) (1)
@@ -2177,8 +2144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980)
+#### [Learning more about CSS](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2192,7 +2158,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=21)** This course takes the topics I've introduced to you here and expands on them in much greater detail.
 >
-> **[0:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=28)** Next, there's [[HTML & CSS- Creating Forms]].
+> **[0:28](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=28)** Next, there's [[[[HTML]] & CSS- Creating [[Forms]]]].
 >
 > **[0:32](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980&t=32)** As a web professional, it's almost guaranteed that you'll work with forms at some point.
 >
@@ -2214,7 +2180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (3), [[Forms]] (3), next (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Forms]] (3)
 > **Env Vars:** css (5), html (3)
 > **Speakers:** - [carrie] (1)
 

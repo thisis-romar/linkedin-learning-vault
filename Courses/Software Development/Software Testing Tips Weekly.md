@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Top tips for talking with developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980)
+#### [Top tips for talking with developers](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of software testing.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of [[Software Testing]].
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=6)** The types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
@@ -137,7 +136,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=151)** This is a really bad reason.
 >
-> **[2:33](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=153)** I eventually learned to say, I don't know what Angular is or I've never used Base64 in coding before.
+> **[2:33](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=153)** I eventually learned to say, I don't know what [[Angular]] is or I've never used Base64 in coding before.
 >
 > **[2:43](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980&t=163)** Collaborate.
 >
@@ -185,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Software Testing]] (2), business (2), [[Angular]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Angular]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), imagine (1)
@@ -193,8 +192,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - hi (1)
 
-#### Building team communication skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980)
+#### [Building team communication skills](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,11 +200,11 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=1)** I'm Mike Smith.
 >
-> **[0:02](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=2)** And in this series, we look at the hidden tips of software testing.
+> **[0:02](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=2)** And in this series, we look at the hidden tips of [[Software Testing]].
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=6)** The types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
-> **[0:13](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=13)** Working as a software tester within a new team, Agile or not, can be a bit of a daunting prospect.
+> **[0:13](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=13)** Working as a software tester within a new team, [[Agile Development|Agile]] or not, can be a bit of a daunting prospect.
 >
 > **[0:21](https://www.linkedin.com/learning/software-testing-tips-weekly/building-team-communication-skills?u=76281980&t=21)** It doesn't matter if this is a new team that's just been formed for a specific purpose, or it's an established team that you've joined as a new hire.
 >
@@ -314,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Software Testing]] (2), [[Agile Development|Agile]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
@@ -322,18 +320,17 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Testing: Becoming an evangelist
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980)
+#### [Testing: Becoming an evangelist](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
 >
 > **[0:13](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=13)** Becoming a software testing evangelist can be a great asset to any tester's career and also their position with a team or project.
 >
 > **[0:22](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=22)** Testing evangelists become the embodiment of quality.
 >
-> **[0:26](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=26)** Developers refer to them as experts and they often find themselves training and mentoring in equal measure to working on software projects.
+> **[0:26](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=26)** Developers refer to them as experts and they often find themselves training and mentoring in equal measure to working on [[Software Projects]].
 >
 > **[0:36](https://www.linkedin.com/learning/software-testing-tips-weekly/testing-becoming-an-evangelist?u=76281980&t=36)** But becoming an evangelist, that's something that takes times and patience.
 >
@@ -391,14 +388,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (8), career (2), next (2), management (2), [[Software Projects]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (8), [[Software Projects]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Asking questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/asking-questions?u=76281980)
+#### [Asking questions](https://www.linkedin.com/learning/software-testing-tips-weekly/asking-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/software-testing-tips-weekly/asking-questions?u=76281980&t=18)** Even before you approach the subject of technical content, which you may or may not fully understand, you want to have the confidence to ask these questions and gain the information you seek.
 >
-> **[0:32](https://www.linkedin.com/learning/software-testing-tips-weekly/asking-questions?u=76281980&t=32)** When I first started out in software testing, I was worried about asking what I thought would be stupid questions, questions that I thought I should already have the answers to.
+> **[0:32](https://www.linkedin.com/learning/software-testing-tips-weekly/asking-questions?u=76281980&t=32)** When I first started out in [[Software Testing]], I was worried about asking what I thought would be stupid questions, questions that I thought I should already have the answers to.
 >
 > **[0:44](https://www.linkedin.com/learning/software-testing-tips-weekly/asking-questions?u=76281980&t=44)** My own self-doubt stopped me from asking some fundamental questions about the project or the software.
 >
@@ -478,17 +474,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Software Testing]] (1), business (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quality responsibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980)
+#### [Quality responsibility](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=0)** - It's easy to assume that any software development team, testers included, are building a quality product.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=0)** - It's easy to assume that any [[Software Development]] team, testers included, are building a quality product.
 >
 > **[0:09](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=9)** Here, you've got a team of engineers, all trained to a certain standard.
 >
@@ -496,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=21)** And this is true from large enterprises all the way down to small startups.
 >
-> **[0:28](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=28)** And when products work fine, then everyone is happy.
+> **[0:28](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=28)** And when [[Microsoft Products|products]] work fine, then everyone is happy.
 >
 > **[0:31](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=31)** The team even sometimes get applauded for their efforts.
 >
@@ -504,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=49)** No company wants to admit that they would blame a person or a team for the overall quality of the product, but it's a mindset that's difficult for some organizations and managers to avoid.
 >
-> **[1:04](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=64)** This is where the job title QA, or quality assurance, can be dangerous.
+> **[1:04](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=64)** This is where the job title QA, or [[Quality Assurance]], can be dangerous.
 >
 > **[1:11](https://www.linkedin.com/learning/software-testing-tips-weekly/quality-responsibility?u=76281980&t=71)** That title can imply that you, as the solo or team of software testers, are responsible for the quality of the product that an entire team of people are creating.
 >
@@ -532,18 +527,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Quality Assurance]] (2), [[Software Development]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (2), [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (2)
 > **Speakers:** - it (1)
 
-#### Sprint planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980)
+#### [Sprint planning](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=0)** - [Instructor] The agile ceremonies that many software development teams follow such as sprint planning can be a confusing place for software testers.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=0)** - [Instructor] The [[Agile Development|agile]] ceremonies that many [[Software Development]] teams follow such as sprint planning can be a confusing place for software testers.
 >
 > **[0:10](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=10)** It's hard to know how to get the most out of these meetings.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=29)** It was only after a number of occasions where a seemingly simple development task would be scored into story points but have a huge testing impact that I started to actively include myself in the meetings and conversations to try and make others aware of the impact to testing.
 >
-> **[0:48](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=48)** I realized that I could very easily become overloaded with work through no fault of the rest of the team.
+> **[0:48](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=48)** I realized that I could very easily become overloaded with work through no fault of the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[0:55](https://www.linkedin.com/learning/software-testing-tips-weekly/sprint-planning?u=76281980&t=55)** I couldn't really expect the developers on this project to fully realize the testing impact of a work IM without me talking to them about it.
 >
@@ -591,14 +585,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1), [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Be positive
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/be-positive?u=76281980)
+#### [Be positive](https://www.linkedin.com/learning/software-testing-tips-weekly/be-positive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/software-testing-tips-weekly/be-positive?u=76281980&t=42)** Maybe I could ask for a tool to be created by the devs so that I didn't have to sit here and create 50 users in the system?
 >
-> **[0:51](https://www.linkedin.com/learning/software-testing-tips-weekly/be-positive?u=76281980&t=51)** Also, from a management perspective, I found that if I came into the office in a bad mood with a grumpy face, it was way more difficult to motivate my team.
+> **[0:51](https://www.linkedin.com/learning/software-testing-tips-weekly/be-positive?u=76281980&t=51)** Also, from a management perspective, I found that if I came into the [[Microsoft Office|office]] in a bad mood with a grumpy face, it was way more difficult to motivate my team.
 >
 > **[1:01](https://www.linkedin.com/learning/software-testing-tips-weekly/be-positive?u=76281980&t=61)** If I couldn't be bothered, why should they?
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), game (1), management (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [narrator] (1)
 
@@ -649,12 +642,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Screen recording for better bug reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980)
+#### [Screen recording for better bug reports](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
 > **[0:12](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980&t=12)** In the world of software testing, the art of bug reporting involves meticulous note taking and a flare for descriptive text.
 >
@@ -698,22 +690,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (3), application (3), management (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### DevTools for web performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980)
+#### [DevTools for web performance](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
 > **[0:14](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980&t=14)** There was a time when you have to have very bespoke software in order to perform any level of performance testing on a website.
 >
-> **[0:22](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980&t=22)** Now, however, you could simply use Google Chrome Developer Toolkit to perform some light performance testing to your heart's content.
+> **[0:22](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980&t=22)** Now, however, you could simply use [[Google]] Chrome Developer Toolkit to perform some light performance testing to your heart's content.
 >
 > **[0:30](https://www.linkedin.com/learning/software-testing-tips-weekly/devtools-for-web-performance?u=76281980&t=30)** It can be incredibly useful, especially if you don't have the resources available to do specific performance testing on a website, or you just want to know how long something is taking to load and more specifically, why.
 >
@@ -755,19 +746,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), [[Google]] (2), next (2), hit (2)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Google]] (2)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Do you know where your log files are?
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980)
+#### [Do you know where your log files are?](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
 >
 > **[0:14](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=14)** Being a technical tester can sometimes mean being able to code just as well as a developer.
 >
@@ -789,7 +779,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=71)** Other more complicated systems however might not have this luxury.
 >
-> **[1:15](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=75)** If your system is comprised of microservices or maybe distributed across multiple servers in the cloud then you need to find out where these logs are before getting familiar with them.
+> **[1:15](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=75)** If your system is comprised of [[Microservices]] or maybe distributed across multiple servers in the cloud then you need to find out where these logs are before getting familiar with them.
 >
 > **[1:27](https://www.linkedin.com/learning/software-testing-tips-weekly/do-you-know-where-your-log-files-are?u=76281980&t=87)** Speaking to your development team can shed some light on this, however.
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), application (2), next (2), [[Microservices]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Microservices]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
@@ -830,18 +820,17 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Auditing your web app with Google Lighthouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980)
+#### [Auditing your web app with Google Lighthouse](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
 >
 > **[0:14](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=14)** Performing an audit on our website can be a time-consuming and technical task to find out if the website adheres to best practices or if it's suitable for accessibility.
 >
 > **[0:25](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=25)** This can all take quite a long time.
 >
-> **[0:31](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=31)** Fortunately, Google Lighthouse can offer you some insight in regards to your website or application's performance in these areas without having to get standalone software and specialist technicians to look at it.
+> **[0:31](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=31)** Fortunately, [[Google]] Lighthouse can offer you some insight in regards to your website or application's performance in these areas without having to get standalone software and specialist technicians to look at it.
 >
 > **[0:44](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=44)** That's not to say that using something like Google Lighthouse is a replacement for standalone performance and accessibility testing but it is a great tool to offer more information in these areas.
 >
@@ -853,7 +842,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=80)** You can choose whether or not to run an audit against a desktop or mobile environment.
 >
-> **[1:26](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=86)** You can choose to audit against performance, progressive web standards, best practices, accessibility and even SEO.
+> **[1:26](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=86)** You can choose to audit against performance, progressive [[Web Standards]], best practices, accessibility and even SEO.
 >
 > **[1:34](https://www.linkedin.com/learning/software-testing-tips-weekly/auditing-your-web-app-with-google-lighthouse?u=76281980&t=94)** Lighthouse also lets you throttle the connection speed of your requests so that you can simulate a bad network connection or for example, spotty mobile data coverage.
 >
@@ -879,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), application (3), [[Software Testing]] (2), web (1), seo (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Software Testing]] (2), [[Web Standards]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** seo (1)
@@ -887,32 +876,31 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Being technical without code
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980)
+#### [Being technical without code](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=0)** - [Instructor] The term technical has become synonymous with being able to write code within software testing.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=0)** - [Instructor] The term technical has become synonymous with being able to write code within [[Software Testing]].
 >
 > **[0:07](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=7)** It's true that many technical testers can code.
 >
 > **[0:11](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=11)** It's also important to point out that there are a vast number of skills that you can learn without coding that can help you to become more technical.
 >
-> **[0:20](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=20)** Being able to pull source code from something like GitHub and then maybe being able to create a test environment from that source code.
+> **[0:20](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=20)** Being able to pull source code from something like [[GitHub]] and then maybe being able to create a test environment from that source code.
 >
 > **[0:29](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=29)** Understanding the log files of a system, like knowing where they are and how to read them.
 >
-> **[0:35](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=35)** Knowledge of databases ranging from being able to interrogate tables, writing custom queries, and backup and restoring said database.
+> **[0:35](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=35)** Knowledge of [[Databases]] ranging from being able to interrogate tables, writing custom queries, and backup and restoring said database.
 >
-> **[0:46](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=46)** Setting up virtual machines either locally or on something like Amazon Web Services and also being able to SSH onto those machines in order to use them.
+> **[0:46](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=46)** Setting up [[Virtual Machines]] either locally or on something like [[Amazon Web Services (AWS)|Amazon Web Services]] and also being able to SSH onto those machines in order to use them.
 >
 > **[0:59](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=59)** Understanding how HTTP cookies work and why they're so important to authentication in websites.
 >
-> **[1:06](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=66)** Being able to proxy web traffic using a tool such as Fiddler on Windows or Charles on Mac.
+> **[1:06](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=66)** Being able to proxy web traffic using a tool such as Fiddler on [[Windows]] or Charles on Mac.
 >
 > **[1:13](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=73)** Understanding containerization and also being able to use something like Docker to run containers.
 >
-> **[1:20](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=80)** Using and understanding Google Chrome's dev toolkit in order to see and inspect different aspects of a website.
+> **[1:20](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=80)** Using and understanding [[Google]] Chrome's dev toolkit in order to see and inspect different aspects of a website.
 >
 > **[1:28](https://www.linkedin.com/learning/software-testing-tips-weekly/being-technical-without-code?u=76281980&t=88)** Being able to recognize pipeline diagrams and eventually being able to draw your own.
 >
@@ -922,7 +910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (1), [[GitHub]] (1), [[Databases]] (1), database (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[GitHub]] (1), [[Databases]] (1), [[Virtual Machines]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** ssh (1), docker (1), make (1)
 > **Env Vars:** ssh (1), http (1)
 > **Exercise Files:** source code (2)
@@ -930,8 +918,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting exploratory testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/documenting-exploratory-testing?u=76281980)
+#### [Documenting exploratory testing](https://www.linkedin.com/learning/software-testing-tips-weekly/documenting-exploratory-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +974,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/software-testing-tips-weekly/documenting-exploratory-testing?u=76281980&t=161)** I like to use a nice distraction free editor.
 >
-> **[2:44](https://www.linkedin.com/learning/software-testing-tips-weekly/documenting-exploratory-testing?u=76281980&t=164)** So I use word grinder for the MAC os terminal.
+> **[2:44](https://www.linkedin.com/learning/software-testing-tips-weekly/documenting-exploratory-testing?u=76281980&t=164)** So I use [[Microsoft Word|word]] grinder for the MAC os terminal.
 >
 > **[2:48](https://www.linkedin.com/learning/software-testing-tips-weekly/documenting-exploratory-testing?u=76281980&t=168)** Now, installation is a little more complicated and the aesthetic might not be for everyone, but being able to switch from a busy visual whiteboard to a Zen text editor, means I can focus much better.
 >
@@ -1001,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Definitions:** is a  (3)
 > **Env Vars:** mac (1)
@@ -1015,12 +1002,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Better bug reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980)
+#### [Better bug reports](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980&t=0)** - Hi there, I'm Mike Smith, and in this series we look at hidden tips of software testing.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980&t=0)** - Hi there, I'm Mike Smith, and in this series we look at hidden tips of [[Software Testing]].
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980&t=6)** The types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
@@ -1064,18 +1050,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (3), teams (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Using personas for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/using-personas-for-testing?u=76281980)
+#### [Using personas for testing](https://www.linkedin.com/learning/software-testing-tips-weekly/using-personas-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/using-personas-for-testing?u=76281980&t=0)** - Hi, there, I'm Mike Smith, and in this series we look at the hidden tips of software testing.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/using-personas-for-testing?u=76281980&t=0)** - Hi, there, I'm Mike Smith, and in this series we look at the hidden tips of [[Software Testing]].
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-tips-weekly/using-personas-for-testing?u=76281980&t=6)** The types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
@@ -1117,21 +1102,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), feature (2), power (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Pair testing and mob testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/pair-testing-and-mob-testing?u=76281980)
+#### [Pair testing and mob testing](https://www.linkedin.com/learning/software-testing-tips-weekly/pair-testing-and-mob-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/pair-testing-and-mob-testing?u=76281980&t=0)** - Hi there.
 >
-> **[0:01](https://www.linkedin.com/learning/software-testing-tips-weekly/pair-testing-and-mob-testing?u=76281980&t=1)** I'm Mike Smith and in this series, we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
+> **[0:01](https://www.linkedin.com/learning/software-testing-tips-weekly/pair-testing-and-mob-testing?u=76281980&t=1)** I'm Mike Smith and in this series, we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
 >
 > **[0:14](https://www.linkedin.com/learning/software-testing-tips-weekly/pair-testing-and-mob-testing?u=76281980&t=14)** You may have heard of pair programming and mob programming in the past.
 >
@@ -1181,19 +1165,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (3), [[Programming]] (2), next (2)
+> **Frameworks & Libraries:** [[Software Testing]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Working with test data
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980)
+#### [Working with test data](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series, we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
 >
 > **[0:14](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=14)** Whenever you're testing a system, there is a good chance that you'll want some realistic datasets.
 >
@@ -1221,7 +1204,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=113)** This tool is especially useful when exploratory testing.
 >
-> **[1:57](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=117)** However, my personal favorite has to go to Bug Magnet which has all of these features and also includes some killer features such as SQL injection examples and even broken HTML.
+> **[1:57](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=117)** However, my personal favorite has to go to Bug Magnet which has all of these features and also includes some killer features such as [[SQL]] injection examples and even broken [[HTML]].
 >
 > **[2:10](https://www.linkedin.com/learning/software-testing-tips-weekly/working-with-test-data?u=76281980&t=130)** It even allows you to use characters from different character sets in different languages.
 >
@@ -1243,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Software Testing]] (2), [[SQL]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[SQL]] (1), [[HTML]] (1)
 > **Env Vars:** csv (1), sql (1), html (1)
 > **URLs:** [generatedata.com](https://generatedata.com) (1), [mockaroo.com](https://mockaroo.com) (1)
 > **Definitions:** is a  (2)
@@ -1252,12 +1235,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** make sure to (1)
 
-#### Continuous testing: Why you should care about it
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980)
+#### [Continuous testing: Why you should care about it](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of software testing.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=0)** - Hi there, I'm Mike Smith and in this series we look at the hidden tips of [[Software Testing]].
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=6)** The types of tips that you don't learn in textbooks or certifications, but can greatly help your own experience.
 >
@@ -1285,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=102)** Getting on board with continuous testing can be a little bit of a learning curve.
 >
-> **[1:48](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=108)** It means have in-depth technical conversations with your development team and also your DevOps team if you have one.
+> **[1:48](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=108)** It means have in-depth technical conversations with your development team and also your [[DevOps]] team if you have one.
 >
 > **[1:56](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=116)** Understanding how the development pipeline works will also allow you to understand how testing fits into it.
 >
@@ -1295,7 +1277,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=139)** Understanding that from a testing perspective can help you see the bigger picture with development.
 >
-> **[2:25](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=145)** A good way to get hands-on with this would be to download something like Jenkins, a continuous integration software that allows you to create your own pipelines and really get to know what goes into them.
+> **[2:25](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=145)** A good way to get hands-on with this would be to download something like [[Jenkins]], a [[Continuous Integration (CI)|continuous integration]] software that allows you to create your own pipelines and really get to know what goes into them.
 >
 > **[2:37](https://www.linkedin.com/learning/software-testing-tips-weekly/continuous-testing-why-you-should-care-about-it?u=76281980&t=157)** It's always a good idea to ask your developers to better explain how these pipelines work.
 >
@@ -1309,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), [[Automation]] (2), api (1), teams (1), ux (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[DevOps]] (1), [[Jenkins]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Definitions:** means that (4), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
@@ -1317,14 +1299,13 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Accessibility testing considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980)
+#### [Accessibility testing considerations](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=0)** - Hi there, I'm Mike Smith.
 >
-> **[0:02](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=2)** And in this series, we look at the hidden tips of software testing, the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
+> **[0:02](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=2)** And in this series, we look at the hidden tips of [[Software Testing]], the types of tips that you don't learn in textbooks or certifications but can greatly help your own experience.
 >
 > **[0:13](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=13)** Accessibility testing focuses mainly on the software being accessible to people with differing levels of ability and need.
 >
@@ -1342,7 +1323,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=70)** You can test things like the accessibility of an application or a system.
 >
-> **[1:15](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=75)** You can use tooling like WAVE to scan the website and highlight potential accessibility issues or Lighthouse through Google Chrome DevTools to generate a report on the likelihood that your software might not be accessibility friendly.
+> **[1:15](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=75)** You can use tooling like WAVE to scan the website and highlight potential accessibility issues or Lighthouse through [[Google]] Chrome DevTools to generate a report on the likelihood that your software might not be accessibility friendly.
 >
 > **[1:32](https://www.linkedin.com/learning/software-testing-tips-weekly/accessibility-testing-considerations?u=76281980&t=92)** In the end, you need to consider different people of different ability levels using your software.
 >
@@ -1358,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), mobile application (1), application (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wave (1)
 > **Tools:** chrome devtools (1)
@@ -1366,8 +1347,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - hi (1)
 
-#### Test reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980)
+#### [Test reporting](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,9 +1363,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980&t=44)** Honestly, though, I found that using the built-in queries within our application life cycle management tool helped me understand my testing in metrics better.
 >
-> **[0:55](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980&t=55)** For me using Azure DevOps previously called Team Foundation Server.
+> **[0:55](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980&t=55)** For me using [[Microsoft Azure|Azure]] [[DevOps]] previously called Team Foundation Server.
 >
-> **[0:59](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980&t=59)** I found that setting up queries for some of the aspects of testing within sprints was really helpful, as it allowed me to keep an eye on my own metrics, but also allowed visibility for the rest of the team and beyond.
+> **[0:59](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980&t=59)** I found that setting up queries for some of the aspects of testing within sprints was really helpful, as it allowed me to keep an eye on my own metrics, but also allowed visibility for the [[Representational State Transfer (REST)|rest]] of the team and beyond.
 >
 > **[1:13](https://www.linkedin.com/learning/software-testing-tips-weekly/test-reporting?u=76281980&t=73)** Metrics like the number of bugs raised in that sprint, the number of work items and tasks currently starting with myself, and also the number of items that are currently in the status of in-testing.
 >
@@ -1405,20 +1385,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), application (2), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Mobile device testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980)
+#### [Mobile device testing](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=0)** - [Narrator] With the many organizations including mobile testing into that test strategy, the overall testing surface of applications, has grown exponentially over the last few years.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=0)** - [Narrator] With the many organizations including [[Mobile Testing]] into that test strategy, the overall testing surface of applications, has grown exponentially over the last few years.
 >
-> **[0:13](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=13)** No longer do you need to test your applications on differing versions of windows or Linux operating systems, but their myriad of mobile devices and their underlying operating systems too.
+> **[0:13](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=13)** No longer do you need to test your applications on differing versions of [[Windows]] or [[Linux]] operating systems, but their myriad of mobile devices and their underlying operating systems too.
 >
-> **[0:26](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=26)** Testing against different versions of Android or iOS, can be a daunting challenge, as can testing mobile devices in the first place.
+> **[0:26](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=26)** Testing against different versions of [[Android]] or iOS, can be a daunting challenge, as can testing mobile devices in the first place.
 >
 > **[0:35](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=35)** Fortunately, there are a few ways to help you out on this journey that I've found during my time testing mobile devices.
 >
@@ -1436,17 +1415,17 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=82)** It also allows you to emulate functions such as the fingerprint scanner and device rotation.
 >
-> **[1:28](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=88)** For iOS, there is the iOS simulator with an Xcode, a platform commonly used to build iOS applications.
+> **[1:28](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=88)** For iOS, there is the iOS simulator with an [[Xcode]], a platform commonly used to build iOS applications.
 >
 > **[1:35](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=95)** This allows you to test installations against an iOS environment, if a real physical iOS device is not available.
 >
-> **[1:44](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=104)** For screen size and responsiveness, there is also the Google Dev Toolkit.
+> **[1:44](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=104)** For screen size and responsiveness, there is also the [[Google]] Dev Toolkit.
 >
 > **[1:48](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=108)** Going into Google Chrome's options menu, and then going into more tools and then developer tools, I can see a small button that looks like a handheld device, just on the top toolbar.
 >
 > **[1:59](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=119)** Clicking this allows me to swap between a web and a mobile interface, and then I can resize it to custom sizes, or I can choose one of the pre-built sizes on the dropdown.
 >
-> **[2:12](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=132)** If you have test automation planned on your mobile projects, you could also use something like AWS Device Farm to run those tests against real world devices.
+> **[2:12](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=132)** If you have [[Test Automation]] planned on your mobile projects, you could also use something like AWS Device Farm to run those tests against real world devices.
 >
 > **[2:22](https://www.linkedin.com/learning/software-testing-tips-weekly/mobile-device-testing?u=76281980&t=142)** You simply upload the file of your application and your test script solution, and then read the report afterwards.
 >
@@ -1465,12 +1444,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** you should always (1)
 
-#### Contract testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980)
+#### [Contract testing](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=0)** - [Instructor] When performing API testing it's expected to test the outcome of a request.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=0)** - [Instructor] When performing [[API Testing]] it's expected to test the outcome of a request.
 >
 > **[0:06](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=6)** For example, if I'm sending a post request to an end point, then I'm going to be creating something new on the application.
 >
@@ -1482,7 +1460,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=32)** Contact testing looks deeper at this.
 >
-> **[0:34](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=34)** It's a methodology for ensuring that two separate systems like microservices are compatible with each other.
+> **[0:34](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=34)** It's a methodology for ensuring that two separate systems like [[Microservices]] are compatible with each other.
 >
 > **[0:41](https://www.linkedin.com/learning/software-testing-tips-weekly/contract-testing?u=76281980&t=41)** It captures the interactions that are exchanged between each service, storing them as a contract which can then be used to verify the both parties are adhering to it.
 >
@@ -1508,19 +1486,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), api (2), application (1), [[Microservices]] (1), data (1)
+> **Frameworks & Libraries:** [[API Testing]] (1), [[Microservices]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agile testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980)
+#### [Agile testing](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980&t=0)** - [Instructor] Because [[Agile Software Development]] can be so granular and iterative, it can sometimes be hard for software testers to find their place within the agile mindset.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980&t=0)** - [Instructor] Because [[[[Agile Software Development]]]] can be so granular and iterative, it can sometimes be hard for software testers to find their place within the [[Agile Development|agile]] mindset.
 >
 > **[0:12](https://www.linkedin.com/learning/software-testing-tips-weekly/agile-testing?u=76281980&t=12)** Coming from a waterfall development life cycle, where all the code was delivered all at once, I found it a challenge to move my mindset to that of an agile tester.
 >
@@ -1572,21 +1549,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), data (2), [[Agile Software Development]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Agile Software Development]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980)
+#### [Security testing](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=0)** - [Instructor] Application security can be a complicated area of learning and an even harder subject to start working with as a software tester.
+> **[0:00](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=0)** - [Instructor] [[Application Security]] can be a complicated area of learning and an even harder subject to start working with as a software tester.
 >
 > **[0:10](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=10)** Many organizations have their own specific security team who will handle this type of work.
 >
-> **[0:17](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=17)** Other times, however, you either may need to perform some level of security testing against the application or simply be interested in doing so.
+> **[0:17](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=17)** Other times, however, you either may need to perform some level of [[Security Testing]] against the application or simply be interested in doing so.
 >
 > **[0:26](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=26)** And that's where these tips come into play.
 >
@@ -1596,13 +1572,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=52)** There are tons of free open source security tools online.
 >
-> **[0:56](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=56)** One of the most popular is Kali Linux, a dedicated operating system to security testing professionals.
+> **[0:56](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=56)** One of the most popular is [[Kali Linux]], a dedicated operating system to security testing professionals.
 >
 > **[1:03](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=63)** Having good knowledge of this is great but by no means vital.
 >
 > **[1:08](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=68)** There are also other tools online that can help give you a better view of your application's health.
 >
-> **[1:14](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=74)** One of my personal favorites is OWASP ZAP or the Zed Attack Proxy, which has a built-in scanner for various vulnerabilities and lots of other tooling included.
+> **[1:14](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=74)** One of my personal favorites is [[OWASP]] ZAP or the Zed Attack Proxy, which has a built-in scanner for various vulnerabilities and lots of other tooling included.
 >
 > **[1:26](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=86)** Security testing is only a small part of some of the hacking montages you see in the movies.
 >
@@ -1618,7 +1594,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=138)** However, they are a great way of touching on the subject and learning more about it.
 >
-> **[2:25](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=145)** Taking these first steps into the world of cybersecurity can be daunting but learning as much as you can will give you a great foundation to start from.
+> **[2:25](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=145)** Taking these first steps into the world of [[Cybersecurity]] can be daunting but learning as much as you can will give you a great foundation to start from.
 >
 > **[2:37](https://www.linkedin.com/learning/software-testing-tips-weekly/security-testing?u=76281980&t=157)** If you want to take this subject further, then that's something that you can find out more about by looking at official accreditation such as the certified ethical hacker.
 >
@@ -1628,7 +1604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), application (6), [[Kali Linux]] (1), [[OWASP]] (1), career (1)
+> **Frameworks & Libraries:** [[Security Testing]] (4), [[Application Security]] (2), [[Kali Linux]] (1), [[OWASP]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** owasp (1), zap (1)
 > **Analogies:** for example (1), such as (1)

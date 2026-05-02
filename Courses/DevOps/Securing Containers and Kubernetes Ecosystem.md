@@ -103,34 +103,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protect your containers and Kubernetes ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980)
+#### [Protect your containers and Kubernetes ecosystem](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980&t=0)** - [Sam] So how can an organization like yours ensure that the security of their containers and Kubernetes ecosystem is robust?
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980&t=0)** - [Sam] So how can an organization like yours ensure that the security of their containers and [[Kubernetes]] ecosystem is robust?
 >
 > **[0:08](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980&t=8)** If you are seeking to build your expertise in developing and managing containerized environments that are secure by design, then this course is for you.
 >
 > **[0:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980&t=19)** My aim is for you to depart with a comprehensive understanding of essential security controls and best practices, empowering you to safeguard both your containers and the overarching Kubernetes ecosystem.
 >
-> **[0:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980&t=33)** I'm Sam Sehgal, and I'll be your guide throughout this journey exclusively on my LinkedIn Learning course as we explore the intersection of security, containers, and Kubernetes.
+> **[0:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980&t=33)** I'm Sam Sehgal, and I'll be your guide throughout this journey exclusively on my [[LinkedIn]] Learning course as we explore the intersection of security, containers, and Kubernetes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Kubernetes]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[LinkedIn]] (1)
 > **Speakers:** - [sam] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980&t=0)** - [Instructor] This course includes an introduction to the foundations of containers and Kubernetes technologies.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980&t=0)** - [Instructor] This course includes an introduction to the foundations of containers and [[Kubernetes]] technologies.
 >
 > **[0:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980&t=6)** But to get the best out of this course, you should have some information technology knowledge.
 >
-> **[0:12](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980&t=12)** Awareness of Linux or Unix-like systems will help you get the most out of container isolation concepts.
+> **[0:12](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980&t=12)** Awareness of [[Linux]] or Unix-like systems will help you get the most out of container isolation concepts.
 >
 > **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-you-need-to-know?u=76281980&t=20)** Some familiarity with the concepts of containerizations or container platforms, such as Docker, will be an excellent foundation for learning container security controls.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Security]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Linux]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -148,8 +146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are containers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980)
+#### [What are containers?](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980&t=57)** Look, if you're running only one operating system, all running containers utilize the same OS and that makes containers lightweight compared to a virtual machine.
 >
-> **[1:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980&t=69)** So when a given hardware setup, you can squeeze a larger number of business applications, since all the dependencies required for an application are packaged along with your code.
+> **[1:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980&t=69)** So when a given [[Hardware]] setup, you can squeeze a larger number of business applications, since all the dependencies required for an application are packaged along with your code.
 >
 > **[1:21](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980&t=81)** You don't run into the issue of it works in my laptop, but not in production.
 >
@@ -193,19 +190,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Virtualization]] (4), [[Security]] (3), [[Hardware]] (1), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980)
+#### [Virtualization](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=0)** - [Instructor] At its core, there are three ways applications and their operating environment can be configured on a given hardware.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=0)** - [Instructor] At its core, there are three ways applications and their operating environment can be configured on a given [[Hardware]].
 >
 > **[0:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=9)** On bare metal, using hardware virtualization, or using OS virtualization.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=39)** Of course, the applications running on separate hardware were isolated from each other, which was great from a security perspective, but the applications running on the same hardware had limited security boundaries around them.
 >
-> **[0:55](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=55)** Then came hardware virtualization, which enabled organizations to run multiple virtual machines on the same hardware instance.
+> **[0:55](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=55)** Then came hardware virtualization, which enabled organizations to run multiple [[Virtual Machines]] on the same hardware instance.
 >
 > **[1:04](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=64)** This form of virtualization not only allowed flexible scale up or scale down of the VMs, but also provided stronger isolation among applications running on the same hardware.
 >
@@ -233,11 +229,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=106)** Don't get me wrong.
 >
-> **[1:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=108)** VM based deployments do provide isolation and scalability.
+> **[1:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=108)** VM based deployments do provide isolation and [[Scalability]].
 >
 > **[1:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=112)** In fact, they work really well for a variety of use cases.
 >
-> **[1:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=117)** But, modern loosely coupled microservices that are built, deployed and restarted many times during the day have different requirements.
+> **[1:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=117)** But, modern loosely coupled [[Microservices]] that are built, deployed and restarted many times during the day have different requirements.
 >
 > **[2:08](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=128)** Enter OS virtualization that made containers possible.
 >
@@ -257,16 +253,15 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=189)** It is the container runtime and the capabilities of the operating system that makes the OS virtualization possible.
 >
-> **[3:17](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=197)** Let's take a look at the native isolation and security features of the Linux operating system.
+> **[3:17](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/virtualization?u=76281980&t=197)** Let's take a look at the native isolation and security features of the [[Linux]] operating system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (14), [[Virtualization]] (11), application (3), [[Security]] (3), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (14), [[Virtual Machines]] (2), [[Scalability]] (1), [[Microservices]] (1), [[Linux]] (1)
 > **Analogies:** similar to (1), analogous to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Isolation and OS security features
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980)
+#### [Isolation and OS security features](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=21)** Surprisingly, these capabilities have existed way before modern containers came into existence.
 >
-> **[0:29](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=29)** Container platforms, such as Docker utilize these features of the Linux operating system to make containers easy to use, run, and secure.
+> **[0:29](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=29)** Container platforms, such as Docker utilize these features of the [[Linux]] operating system to make containers easy to use, run, and secure.
 >
 > **[0:40](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=40)** By default, each Linux process runs in a default namespace meaning, system resources such as process IDs, user IDs, network interfaces, and file systems are shared with other processes.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=311)** Seccomp is a capability in Linux that allows the processes running in user space to transition into a secure state and, restrict the use of system calls to extremely limited set, thereby, limiting the Linux Kernel attack surface.
 >
-> **[5:29](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=329)** So to recap, namespace, not to be confused with Kubernetes namespace is a Linux kernel feature that provides isolation of processes.
+> **[5:29](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=329)** So to recap, namespace, not to be confused with [[Kubernetes]] namespace is a Linux kernel feature that provides isolation of processes.
 >
 > **[5:40](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/isolation-and-os-security-features?u=76281980&t=340)** Cgroups provide resource limits.
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), [[Security]] (6), feature (6), management (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Kubernetes]] (1)
 > **Env Vars:** pid (2), ipc (1), net (1), cpu (1), lsm (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **CLI Commands:** docker (3), make (1)
@@ -374,8 +369,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Container runtime
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-runtime?u=76281980)
+#### [Container runtime](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-runtime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-runtime?u=76281980&t=111)** While we are talking about containers, it is important to know about the Open Container Initiative or in short the OCI.
 >
-> **[1:59](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-runtime?u=76281980&t=119)** OCI is a project under Linux foundation that standardizes to specifications related to containers and container images.
+> **[1:59](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-runtime?u=76281980&t=119)** OCI is a project under [[Linux]] foundation that standardizes to specifications related to containers and container images.
 >
 > **[2:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-runtime?u=76281980&t=130)** OCI image specification defines a standard way of creating a container image.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Orchestration]] (1), api (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** oci (6), api (1), cri (1), rkt (1), aci (1)
 > **Definitions:** known as (3), is a  (1), is an  (1)
 > **Documentation:** specification (3), spec (1)
@@ -434,14 +428,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### What is Kubernetes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980)
+#### [What is Kubernetes?](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=0)** - [Teacher] We now know that containers enable us to easily deploy small application components.
 >
-> **[0:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=7)** In other words, loosely coupled microservices, but it is not uncommon for an enterprise to have an extremely large number of containers running.
+> **[0:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=7)** In other words, loosely coupled [[Microservices]], but it is not uncommon for an enterprise to have an extremely large number of containers running.
 >
 > **[0:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=16)** Once you have such a large number of containers running simultaneously, how do you manage them?
 >
@@ -449,17 +442,17 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=30)** You need an automated system that can schedule, configure, restart, and monitor such containers.
 >
-> **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=38)** Kubernetes is such an open source-container orchestration system that relieves the operations team.
+> **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=38)** [[Kubernetes]] is such an open source-container orchestration system that relieves the operations team.
 >
 > **[0:44](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=44)** And with the help of an orchestrator, operations team only need to focus on managing kubernetes itself, while the Kubernetes manages thousands of containers on their behalf.
 >
-> **[0:56](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=56)** In fact, the combination of container technology, powered with the orchestration of Kubernetes, enables your DevOps team to focus on what they are best at.
+> **[0:56](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=56)** In fact, the combination of container technology, powered with the orchestration of Kubernetes, enables your [[DevOps]] team to focus on what they are best at.
 >
 > **[1:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=67)** Developing teams can focus on writing code and building applications.
 >
 > **[1:12](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=72)** They no longer have to worry about the infrastructure setup, service discovery, or how to expose their services.
 >
-> **[1:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=79)** Likewise, operations team can focus on the underlying infrastructure such as on-premise data center or cloud infrastructure, they no longer have to be distracted by the software application issues such as release management, tracking and interdependencies and deployment.
+> **[1:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=79)** Likewise, operations team can focus on the underlying infrastructure such as on-premise data center or [[Cloud Infrastructure]], they no longer have to be distracted by the software application issues such as release management, tracking and interdependencies and deployment.
 >
 > **[1:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=98)** Loosely speaking, Kubernetes acts as an operating system for your data center.
 >
@@ -471,9 +464,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=126)** This collection of containers in kubernetes jargon is known as a pod.
 >
-> **[2:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=131)** All containers in a pod are co-located on a single hardware node, meaning you will not find containers that belong to the pod deployed on different nodes.
+> **[2:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=131)** All containers in a pod are co-located on a single [[Hardware]] node, meaning you will not find containers that belong to the pod deployed on different nodes.
 >
-> **[2:24](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=144)** By default, containers in a pod share the same OS context, such as Linux namespaces, network and volumes and so on, but it's possible to add additional isolation among containers even within a pod.
+> **[2:24](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=144)** By default, containers in a pod share the same OS context, such as [[Linux]] namespaces, network and volumes and so on, but it's possible to add additional isolation among containers even within a pod.
 >
 > **[2:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-is-kubernetes?u=76281980&t=161)** Kubernetes cluster consists of two primary building blocks, a master node and multiple worker nodes.
 >
@@ -503,7 +496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (17), node (6), [[Orchestration]] (3), application (2), data (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (17), [[Microservices]] (1), [[DevOps]] (1), [[Cloud Infrastructure]] (1), [[Hardware]] (1)
 > **CLI Commands:** node (6), find (1), make (1), kubectl (1)
 > **Definitions:** in other words (1), known as (1), is a  (1), is an  (1)
 > **Analogies:** such as (3), for example (1)
@@ -512,8 +505,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **UI Navigation:** switch to (1)
 
-#### Kubernetes master node
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980)
+#### [Kubernetes master node](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=33)** So what is a controller?
 >
-> **[0:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=36)** A controller is a Kubernetes component that watches the state of the cluster and attempts to modify the actual state of the cluster so it matches the desired state.
+> **[0:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=36)** A controller is a [[Kubernetes]] component that watches the state of the cluster and attempts to modify the actual state of the cluster so it matches the desired state.
 >
 > **[0:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=48)** Some examples of the controllers are replica set, daemon set, stateful set, service controller, and so on.
 >
@@ -539,9 +531,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=66)** The scheduler determines which node a pod will be assigned to.
 >
-> **[1:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=71)** It uses a variety of algorithms to determine the best fit node to run a pod.
+> **[1:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=71)** It uses a variety of [[Algorithms]] to determine the best fit node to run a pod.
 >
-> **[1:18](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=78)** The algorithm takes into account many factors, such as the available hardware resources on the nodes, the special needs of the pod, affinity of a pod to a certain node type, and so on.
+> **[1:18](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=78)** The algorithm takes into account many factors, such as the available [[Hardware]] resources on the nodes, the special needs of the pod, affinity of a pod to a certain node type, and so on.
 >
 > **[1:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-master-node?u=76281980&t=91)** Scheduler posts the updated pod definition to the API server, which is being watched by kubelets on the worker nodes.
 >
@@ -553,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), api (5), data (1), [[Kubernetes]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Algorithms]] (1), [[Hardware]] (1)
 > **CLI Commands:** node (9)
 > **Env Vars:** api (5)
 > **Definitions:** is a  (3)
@@ -561,8 +553,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kubernetes worker node
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980)
+#### [Kubernetes worker node](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -586,9 +577,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980&t=54)** It uses the operating systems packet filtering system, if available, or it just forwards the traffic itself.
 >
-> **[1:03](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980&t=63)** In addition to the components we just discussed, there are a few add on components required for Kubernetes and your applications to run smoothly.
+> **[1:03](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980&t=63)** In addition to the components we just discussed, there are a few add on components required for [[Kubernetes]] and your applications to run smoothly.
 >
-> **[1:13](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980&t=73)** For example, DNS server, dashboards, logging mechanisms, and so on.
+> **[1:13](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980&t=73)** For example, DNS server, [[Dashboards]], logging mechanisms, and so on.
 >
 > **[1:21](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-worker-node?u=76281980&t=81)** Before we wind up this video on Kubernetes, let's revisit the topic of container runtime but this time we will look at it from the point of view of Kubernetes.
 >
@@ -602,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), api (2), node (2), traffic (1), dns (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Dashboards]] (1)
 > **Env Vars:** cri (6), api (2), crio (2), dns (1), oci (1)
 > **CLI Commands:** node (2), docker (1)
 > **Analogies:** such as (2), for example (1)
@@ -615,12 +606,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overall technology architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980)
+#### [Overall technology architecture](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=0)** - To implement security controls, for protecting your container, and Kubernetes' ecosystem.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=0)** - To implement security controls, for protecting your container, and [[Kubernetes]]' ecosystem.
 >
 > **[0:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=6)** You first need to identify, the attack surface.
 >
@@ -652,7 +642,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=96)** It also makes those third party, software components available to your developers, with built in governance, and a security policy around it.
 >
-> **[1:45](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=105)** The Build Infrastructure, along with its continuous integration pipeline, provides both the engine and the workflow, to compile the Source Code and build container images.
+> **[1:45](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=105)** The Build Infrastructure, along with its [[Continuous Integration (CI)|continuous integration]] pipeline, provides both the engine and the workflow, to compile the Source Code and build container images.
 >
 > **[1:59](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980&t=119)** The images that have been scanned, for security and can be trusted.
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Kubernetes]] (3), application (2), product (1), cloud (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Analogies:** such as (2), picture (1), imagine (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** is a  (2)
@@ -672,8 +662,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - to (1)
 
-#### Container deployment and orchestration lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980)
+#### [Container deployment and orchestration lifecycle](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,17 +678,17 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=47)** This ensures that the vulnerable software components are not accidentally or intentionally downloaded and made part of their application.
 >
-> **[0:56](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=56)** An automated continuous integration system, compiles the code and resolves dependencies, and stores any intermediate or final binary artifacts to a central repository.
+> **[0:56](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=56)** An automated [[Continuous Integration (CI)|continuous integration]] system, compiles the code and resolves dependencies, and stores any intermediate or final binary artifacts to a central repository.
 >
 > **[1:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=70)** Developers or an automated CI system, generates a container image and stores the image in a container image repository.
 >
-> **[1:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=79)** Many organizations choose to use Kubernetes package managers to define and install applications in Kubernetes.
+> **[1:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=79)** Many organizations choose to use [[Kubernetes]] package managers to define and install applications in Kubernetes.
 >
-> **[1:28](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=88)** These packages are known as Helm charts and are managed by a tool conveniently known as Helm.
+> **[1:28](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=88)** These packages are known as [[Helm]] charts and are managed by a tool conveniently known as Helm.
 >
 > **[1:35](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=95)** The same build pipeline also creates and stores these charts in a special repository.
 >
-> **[1:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=101)** The stages of the software development lifecycle we looked at so far are performed as part of continuous integration or ensured a CI pipeline.
+> **[1:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=101)** The stages of the [[Software Development]] lifecycle we looked at so far are performed as part of continuous integration or ensured a CI pipeline.
 >
 > **[1:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-deployment-and-orchestration-lifecycle?u=76281980&t=112)** The output of the CI pipeline is a container image and a Helm chart that is ready to be deployed to staging or production environment.
 >
@@ -717,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (4), ci (3), [[Kubernetes]] (3), application (2), [[Continuous Integration (CI)|Continuous integration]] (2)
+> **Frameworks & Libraries:** [[Helm]] (4), [[Kubernetes]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Software Development]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** cd (1)
 > **Env Vars:** ide (1)
@@ -725,14 +714,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attack surface and vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980)
+#### [Attack surface and vectors](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=0)** - [Teacher] Keeping this well synchronized ecosystem secure is going to be challenging, but before we can secure it, we need to understand what can actually go wrong.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=11)** To do so, we will look at the attack surface of the containers and Kubernetes.
+> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=11)** To do so, we will look at the attack surface of the containers and [[Kubernetes]].
 >
 > **[0:17](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=17)** The attack surface simply means the areas of a system that are one wonderful and can be exploited.
 >
@@ -786,13 +774,13 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=202)** A poorly designed application with security weaknesses can be explored by the attacker.
 >
-> **[3:28](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=208)** And lastly, your Kubernetes cluster runs on an on-premise or cloud infrastructure Misconfiguration or poor security policies can result in unauthorized access to the underlying infrastructure.
+> **[3:28](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=208)** And lastly, your Kubernetes cluster runs on an on-premise or [[Cloud Infrastructure]] Misconfiguration or poor security policies can result in unauthorized access to the underlying infrastructure.
 >
 > **[3:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/attack-surface-and-vectors?u=76281980&t=221)** With access to infrastructure, an adversary can compromise your entire cluster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), api (5), [[Kubernetes]] (4), [[Security]] (3), database (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** node (6), make (1)
 > **Env Vars:** api (5)
 > **Definitions:** known as (1), in other words (1)
@@ -801,8 +789,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [teacher] (1)
 
-#### Five factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980)
+#### [Five factors](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,9 +803,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=24)** Let's take a quick look at them.
 >
-> **[0:25](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=25)** The rest of the course will be a deep dive into each of these security factors.
+> **[0:25](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=25)** The [[Representational State Transfer (REST)|rest]] of the course will be a deep dive into each of these security factors.
 >
-> **[0:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=31)** The first factor is all about secure design principles and coding practices that your developers and architects should adopt.
+> **[0:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=31)** The first factor is all about secure design principles and [[Coding Practices]] that your developers and architects should adopt.
 >
 > **[0:40](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=40)** The next factor focuses on the security of container images and image registries.
 >
@@ -830,7 +817,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=69)** This factor also includes controls to secure hosts that provide the operating environment for containers.
 >
-> **[1:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=76)** Your applications in Kubernetes depend on Kubernetes' provided features for access management, networking, secrets management, and so on.
+> **[1:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=76)** Your applications in [[Kubernetes]] depend on Kubernetes' provided features for access management, networking, secrets management, and so on.
 >
 > **[1:26](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/five-factors?u=76281980&t=86)** This factor covers how to apply these security capabilities of Kubernetes to protect your applications in the cluster.
 >
@@ -840,7 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Kubernetes]] (5), next (2), management (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Coding Practices]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [sam] (1)
@@ -850,8 +837,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure design before code
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980)
+#### [Secure design before code](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +845,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=10)** It is also expected that these containers remain compliant with the organization's security policies at all times.
 >
-> **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=20)** So it is natural to believe that scanning and monitoring your containers and kubernetes environment for security and policy violations is going to be imperative.
+> **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=20)** So it is natural to believe that scanning and monitoring your containers and [[Kubernetes]] environment for security and policy violations is going to be imperative.
 >
 > **[0:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=31)** But is that enough?
 >
@@ -877,7 +863,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=74)** By the same argument, if you have multiple container images being generated out of the same codebase, it is more effective to secure that source code itself.
 >
-> **[1:26](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=86)** In other words, there is a case for finding security vulnerabilities as early as possible in the software development life cycle.
+> **[1:26](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=86)** In other words, there is a case for finding security vulnerabilities as early as possible in the [[Software Development]] life cycle.
 >
 > **[1:34](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=94)** We saw in the previous chapters that developers build images from homegrown code, third party components, libraries, and OS components.
 >
@@ -889,7 +875,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=126)** We will go to some of the key security controls you should put in place.
 >
-> **[2:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=131)** But for a comprehensive treatment of the subject, I encourage you to review the publications by SAFECode organization, National Institute of Standards and Technology or NIS, and other courses on LinkedIn.
+> **[2:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=131)** But for a comprehensive treatment of the subject, I encourage you to review the publications by SAFECode organization, National Institute of Standards and Technology or NIS, and other courses on [[LinkedIn]].
 >
 > **[2:27](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=147)** Start with security requirements.
 >
@@ -905,7 +891,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=202)** In fact, in the next chapters, you will watch the very same principles I'm advocating applied to secure containers, hosts, and the kubernetes clusters.
 >
-> **[3:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=213)** Threat modeling typically done at the design stage, enables your engineering team to look at your architecture from an adversary's point of view.
+> **[3:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=213)** [[Threat Modeling]] typically done at the design stage, enables your engineering team to look at your architecture from an adversary's point of view.
 >
 > **[3:43](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980&t=223)** The goal of threat modeling is to enumerate external threats and discover weaknesses in your design.
 >
@@ -913,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), application (4), [[Threat Modeling]] (3), [[Kubernetes]] (2), [[Software Development]] (2)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Kubernetes]] (2), [[Software Development]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sdl (1), nis (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -922,12 +908,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [teacher] (1)
 
-#### Secure code
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980)
+#### [Secure code](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=0)** - [Instructor] Secure architecture and threat modeling will get your engineering team to a solid foundation.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=0)** - [Instructor] Secure architecture and [[Threat Modeling]] will get your engineering team to a solid foundation.
 >
 > **[0:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=7)** But there is no guarantee that the code developers will write will be free of bugs.
 >
@@ -935,13 +920,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=16)** Securing code requires a multi-pronged approach.
 >
-> **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=20)** The approach includes peer code reviews, automated scanning of the code and the software components at various stages in your software development life cycle.
+> **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=20)** The approach includes peer code reviews, automated scanning of the code and the software components at various stages in your [[Software Development]] life cycle.
 >
 > **[0:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=31)** Poor and unsafe programming habits leads to security bugs in the code.
 >
 > **[0:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=36)** These innocent-looking security bugs, if not fixed early, will morph into security vulnerabilities in your containers running in the production.
 >
-> **[0:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=46)** This process of identifying security issues in the source code by scanning and analyzing is popularly known as static analysis security testing, or SAST in short.
+> **[0:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=46)** This process of identifying security issues in the source code by scanning and analyzing is popularly known as static analysis [[Security Testing]], or SAST in short.
 >
 > **[1:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=60)** Educate your developers to write secure code in the first place.
 >
@@ -957,7 +942,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=111)** This will give you the option to scan the code with every pull or merge request.
 >
-> **[1:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=117)** If you're running a continuous integration pipeline, there is another opportunity to run the scan in the pipeline immediately after the code commit.
+> **[1:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=117)** If you're running a [[Continuous Integration (CI)|continuous integration]] pipeline, there is another opportunity to run the scan in the pipeline immediately after the code commit.
 >
 > **[2:08](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=128)** Brand new code written by developers can be analyzed by SAST tools.
 >
@@ -985,11 +970,11 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=216)** Before you deploy your application into your production environment, utilize specialized tools that test the application for commonly found security weaknesses.
 >
-> **[3:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=226)** This type of application testing is known as [[Dynamic Application Security Testing]], or DAST in short.
+> **[3:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-code?u=76281980&t=226)** This type of application testing is known as [[Dynamic [[Application Security]] Testing]], or DAST in short.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), application (5), next (2), [[Threat Modeling]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Software Development]] (1), [[Security Testing]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Application Security]] (1)
 > **Env Vars:** sast (3), ide (1), dast (1)
 > **Exercise Files:** source code (2)
 > **CLI Commands:** cd (1)
@@ -1000,14 +985,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure container images, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980)
+#### [Secure container images, part 1](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=0)** - [Instructor] So by now, you should be able to recognize the importance of secure design and code in setting a solid foundation for a secure container ecosystem.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=11)** But at some point in the software development lifecycle, you or the developers in your organization are going to build a container image.
+> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=11)** But at some point in the [[Software Development]] lifecycle, you or the developers in your organization are going to build a container image.
 >
 > **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=20)** And a container image comes with its own set of security issues related to its integrity and configuration.
 >
@@ -1019,7 +1003,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=52)** And second, no defects should be introduced in the image that will later appear as vulnerabilities while running the containers.
 >
-> **[1:01](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=61)** So let's take a look at the security controls you should implement to protect these images while in rest or in motion.
+> **[1:01](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=61)** So let's take a look at the security controls you should implement to protect these images while in [[Representational State Transfer (REST)|rest]] or in motion.
 >
 > **[1:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=70)** We will start with the security controls required at the time of image creation.
 >
@@ -1027,7 +1011,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=88)** Each incremental layer represents the delta of changes from the previous layer.
 >
-> **[1:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=93)** The layer also contains the metadata including a layer or a commit ID.
+> **[1:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=93)** The layer also contains the [[Metadata]] including a layer or a commit ID.
 >
 > **[1:39](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=99)** Although you can create a container image in many ways, the most common and practical way is to use a Dockerfile.
 >
@@ -1053,7 +1037,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=196)** The attack surface of your container is directly proportional to the number of software components present in its image.
 >
-> **[3:25](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=205)** Larger the number of components, the greater the probability that one of them has a security flaw that is exploitable by an attacker.
+> **[3:25](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=205)** Larger the number of components, the greater the [[Probability]] that one of them has a security flaw that is exploitable by an attacker.
 >
 > **[3:34](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=214)** There are a few ways you can reduce the attack surface.
 >
@@ -1061,7 +1045,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=223)** But you should also start with a minimal base image in the FROM directive.
 >
-> **[3:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=228)** There is no need to begin with say a traditional Ubuntu Linux image with all kinds of utilities and modules still in it.
+> **[3:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=228)** There is no need to begin with say a traditional [[Ubuntu]] [[Linux]] image with all kinds of utilities and modules still in it.
 >
 > **[3:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980&t=237)** Instead, use a minimal image such as Alpine, BusyBox, or something similar.
 >
@@ -1091,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Representational State Transfer (REST)|Rest]] (2), [[Software Development]] (1), [[Metadata]] (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Software Development]] (1), [[Metadata]] (1), [[Probability]] (1), [[Ubuntu]] (1)
 > **Analogies:** such as (3), for example (3), just like (1)
 > **CLI Commands:** make (2), docker (1), ssh (1), cat (1), ls (1)
 > **Definitions:** is a  (3)
@@ -1100,8 +1084,7 @@ created: 2026-05-02
 > **Env Vars:** ssh (1)
 > **Tools:** bash (1)
 
-#### Secure container images, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980)
+#### [Secure container images, part 2](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1102,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=53)** Setting a setuid bit on a file in a Unix-like operating system has some interesting consequences.
 >
-> **[1:02](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=62)** Typically, when a Linux process is started from a file, the process runs with the permissions of the executer.
+> **[1:02](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=62)** Typically, when a [[Linux]] process is started from a file, the process runs with the permissions of the executer.
 >
 > **[1:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=70)** But when the process is started from a file with the setuid bit on, the process runs with the permissions of the owner of the file.
 >
@@ -1137,7 +1120,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=125)** Now, even if you intentionally minimize the attack surface, chances are that unsolicited objects will creep into your image.
 >
-> **[2:15](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=135)** These unwanted objects can take many forms, but all of them make your containers vulnerable.
+> **[2:15](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=135)** These unwanted objects can take many [[Forms]], but all of them make your containers vulnerable.
 >
 > **[2:22](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=142)** For example, a malware that is a malicious executable that gets added into your image intentionally or accidentally.
 >
@@ -1169,7 +1152,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=246)** So when and how often should you scan your container images?
 >
-> **[4:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=250)** First, scan an image in your Continuous Integration or CI pipeline immediately after building the image.
+> **[4:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=250)** First, scan an image in your [[Continuous Integration (CI)|Continuous Integration]] or CI pipeline immediately after building the image.
 >
 > **[4:18](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-2?u=76281980&t=258)** Second, integrate scanning directly with the image registry, so that the images are being scanned continuously in the background and are flagged based on their vulnerability status.
 >
@@ -1183,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), business (1), [[Linux]] (1), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Forms]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1192,12 +1175,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Image registries
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registries?u=76281980)
+#### [Image registries](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registries?u=76281980&t=0)** - [Instructor] Let's switch focus from images to image registries and building trust in them.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registries?u=76281980&t=0)** - [Instructor] Let's switch focus from images to image registries and [[Building Trust]] in them.
 >
 > **[0:06](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registries?u=76281980&t=6)** You know, that you should only use a trusted base image to create your container images.
 >
@@ -1257,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Building Trust]] (1), next (1), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Env Vars:** tuf (1), cncf (1), tls (1)
 > **Cross-References:** in the next (1)
@@ -1265,8 +1247,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image registry access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980)
+#### [Image registry access control](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1265,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=48)** So apply the principle of least privilege and give only permissions needed to do the job.
 >
-> **[0:54](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=54)** Similarly, when the Kubernetes orchestrator needs to pull images from an image registry, it doesn't need the right access, read-only access will just be sufficient.
+> **[0:54](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=54)** Similarly, when the [[Kubernetes]] orchestrator needs to pull images from an image registry, it doesn't need the right access, read-only access will just be sufficient.
 >
 > **[1:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=65)** Let's take a scenario.
 >
@@ -1292,13 +1273,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=74)** In other words, there is no separation of duties when executing this task.
 >
-> **[1:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=79)** This is a very contentious topic in DevSecOps.
+> **[1:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=79)** This is a very contentious topic in [[DevSecOps]].
 >
 > **[1:23](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=83)** On one hand, this arrangement appears frictionless and is treated as a recipe for continuous deployment.
 >
 > **[1:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=90)** On the other hand, there is that risk of pushing some insecure code without "another pair of eyes looking at the code."
 >
-> **[1:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=101)** So how do you balance between the need for hands-free continuous delivery, and need for protection from fraud or error in this case.
+> **[1:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=101)** So how do you balance between the need for hands-free [[Continuous Delivery (CD)|continuous delivery]], and need for protection from fraud or error in this case.
 >
 > **[1:49](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/image-registry-access-control?u=76281980&t=109)** Retain the separation of duties, but minimize the handoffs among multiple persons.
 >
@@ -1372,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), ci (1), cd (1), [[Kubernetes]] (1), [[DevSecOps]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[DevSecOps]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (5), in other words (1), known as (1)
 > **CLI Commands:** cd (1), make (1)
 > **Prerequisites:** required to (1), set up (1)
@@ -1384,8 +1365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Container working environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980)
+#### [Container working environment](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,13 +1373,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=13)** It only comes to life and starts running when its image is instantiated as a container.
 >
-> **[0:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=19)** That container, which is nothing but a Linux process, needs an environment and resources to run.
+> **[0:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=19)** That container, which is nothing but a [[Linux]] process, needs an environment and resources to run.
 >
 > **[0:26](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=26)** If you recall, it needs a container runtime, it needs a host OS, and the capabilities offered by the OS.
 >
 > **[0:35](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=35)** This environment needs to be secured.
 >
-> **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=38)** You can instantiate a container using a Docker command or in Kubernetes by submitting a part definition to an API server.
+> **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=38)** You can instantiate a container using a Docker command or in [[Kubernetes]] by submitting a part definition to an API server.
 >
 > **[0:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980&t=48)** While doing so, you may override and effectively undo the security configurations you may have put in place at the time of creating images.
 >
@@ -1435,7 +1415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), application (2), [[Linux]] (2), [[Kubernetes]] (1), api (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** docker (4)
 > **Env Vars:** api (1), oci (1)
 > **Documentation:** specification (1), spec (1)
@@ -1443,8 +1423,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container network security
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980)
+#### [Container network security](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,7 +1431,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=7)** And this communication is enabled by container networking.
 >
-> **[0:12](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=12)** Now, Docker and Kubernetes take different approaches.
+> **[0:12](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=12)** Now, Docker and [[Kubernetes]] take different approaches.
 >
 > **[0:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=16)** In Kubernetes, each pod is assigned an IP address and is expected to communicate with other pods seamlessly regardless of where the pod is running, on the same node or on separate nodes.
 >
@@ -1464,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=55)** Through these network policies, you can control what traffic can flow between pods.
 >
-> **[1:02](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=62)** We will address the network security controls for Kubernetes in the next chapter.
+> **[1:02](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=62)** We will address the [[Network Security]] controls for Kubernetes in the next chapter.
 >
 > **[1:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=67)** But that still leaves us to deal with the security of networks specific to standalone Docker containers.
 >
@@ -1498,7 +1477,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=162)** Underlay network drivers help containers that are on different hosts communicate with each other using the underlying physical interface.
 >
-> **[2:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=172)** Two examples of such drivers are: media access control virtual local area network, or in short macvlan, internet protocol VLAN, or in short ipvlan.
+> **[2:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=172)** Two examples of such drivers are: media access control virtual [[Local Area Network (LAN)|local area network]], or in short macvlan, internet protocol VLAN, or in short ipvlan.
 >
 > **[3:07](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-network-security?u=76281980&t=187)** These drivers let you treat a container just like a physical host with its own MAC address.
 >
@@ -1520,7 +1499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Security]] (3), business (1), application (1), node (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Network Security]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **CLI Commands:** docker (5), node (1), make (1)
 > **Env Vars:** cni (1), vlan (1), mac (1), lan (1)
 > **Definitions:** is a  (3)
@@ -1529,8 +1508,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container port and interface security
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-port-and-interface-security?u=76281980)
+#### [Container port and interface security](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-port-and-interface-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1524,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-port-and-interface-security?u=76281980&t=30)** For example, this command will forward traffic on port 8088 of the host to port 8080 of the container.
 >
-> **[0:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-port-and-interface-security?u=76281980&t=41)** In contrast to Kubernetes, Docker does not come with network security policies.
+> **[0:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-port-and-interface-security?u=76281980&t=41)** In contrast to [[Kubernetes]], Docker does not come with [[Network Security]] policies.
 >
 > **[0:47](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-port-and-interface-security?u=76281980&t=47)** So you will need to put best practices and security controls in place to ensure that the communication among containers takes place only between the authorized parties.
 >
@@ -1612,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Security]] (2), [[Kubernetes]] (1), [[Network Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Network Security]] (1)
 > **CLI Commands:** docker (9)
 > **Ports:** port 8080 (2), port 8088 (1), port 49153 (1)
 > **Env Vars:** tcp (2), udp (1)
@@ -1621,16 +1599,15 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Host OS protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980)
+#### [Host OS protection](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=0)** - [Instructor] Unlike hardware virtualization, in OS virtualization, multiple containers share the same OS.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=0)** - [Instructor] Unlike [[Hardware]] virtualization, in OS virtualization, multiple containers share the same OS.
 >
 > **[0:08](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=8)** That leads to an expectation of mutual trust between the container and the host OS running that container.
 >
-> **[0:17](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=17)** So far we have been discussing container and application security.
+> **[0:17](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=17)** So far we have been discussing container and [[Application Security]].
 >
 > **[0:22](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=22)** But the host is equally accountable in the security of this ecosystem.
 >
@@ -1640,7 +1617,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=38)** Start with minimizing the host's attack surface.
 >
-> **[0:42](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=42)** A typical Linux operating system has way more services running than you need to support container applications.
+> **[0:42](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=42)** A typical [[Linux]] operating system has way more services running than you need to support container applications.
 >
 > **[0:50](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=50)** Here you have two options to choose from.
 >
@@ -1650,13 +1627,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=75)** Your second option is to keep using traditional operating system as mandated by your organization, but apply special hardening techniques to reduce the attack surface.
 >
-> **[1:27](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=87)** You have fewer resources to rely on, the CIS Benchmarks and the NIST guide to server security.
+> **[1:27](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=87)** You have fewer resources to rely on, the CIS Benchmarks and the [[NIST]] guide to server security.
 >
 > **[1:36](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=96)** Look at the workloads you're planning to run on your hosts, are you mixing both containerized and non-containerized workloads on the same VM?
 >
 > **[1:45](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=105)** Move non-containerized workloads such as general services and applications to separate hosts.
 >
-> **[1:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=112)** Look, if you don't do that, it's likely your general workloads are not going to be managed by an automated orchestrator such as Kubernetes.
+> **[1:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=112)** Look, if you don't do that, it's likely your general workloads are not going to be managed by an automated orchestrator such as [[Kubernetes]].
 >
 > **[2:03](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/host-os-protection?u=76281980&t=123)** That means your admin and operations team will need to manually access the host to start, stop and manage your services.
 >
@@ -1712,7 +1689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Kubernetes]] (4), data (3), [[Virtualization]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Hardware]] (1), [[Application Security]] (1), [[Linux]] (1), [[NIST]] (1)
 > **Analogies:** for example (2), such as (2), just like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cis (1), nist (1)
@@ -1725,14 +1702,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing applications in Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980)
+#### [Securing applications in Kubernetes](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980&t=0)** - [Instructor] The security of images, containers and hosts is a critical part of your strategy to protect your containers ecosystem.
 >
-> **[0:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980&t=10)** But when you introduce an orchestrator such as Kubernetes, you increase the attack surface exponentially.
+> **[0:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980&t=10)** But when you introduce an orchestrator such as [[Kubernetes]], you increase the attack surface exponentially.
 >
 > **[0:18](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980&t=18)** You saw in the earlier chapters Kubernetes brings with it several moving parts that keep your workloads running without much human intervention.
 >
@@ -1786,21 +1762,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Security]] (6), management (1), teams (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (10)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pod Security Standard
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980)
+#### [Pod Security Standard](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=0)** - [Instructor] Kubernetes Pod Security Standards are a collection of well-defined policies and recommendations to ensure the security of containerized workloads within Kubernetes clusters.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=0)** - [Instructor] [[Kubernetes]] Pod Security Standards are a collection of well-defined policies and recommendations to ensure the security of containerized workloads within Kubernetes clusters.
 >
 > **[0:13](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=13)** But the question here is why Pod Security Standards in the first place when we have so many other security features offered by Kubernetes?
 >
-> **[0:22](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=22)** Look, organizations have requirements to meet and deliver against the industry standards, regulatory compliance requirements, or maintain internal security hygiene, and they want a clean and structured way to meet such requirements.
+> **[0:22](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=22)** Look, organizations have requirements to meet and deliver against the industry standards, [[Regulatory Compliance]] requirements, or maintain internal security hygiene, and they want a clean and structured way to meet such requirements.
 >
 > **[0:40](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=40)** Previously, this was accomplished through another Kubernetes feature known as PodSecurityPolicy.
 >
@@ -1822,7 +1797,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=112)** For example, requiring multifactor authentication.
 >
-> **[1:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=117)** The baseline policy profile is designed to be generic enough to cover a wide variety of non-critical workloads created by application development and operations teams.
+> **[1:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=117)** The baseline policy profile is designed to be generic enough to cover a wide variety of non-critical workloads created by [[Application Development]] and operations teams.
 >
 > **[2:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/pod-security-standard?u=76281980&t=130)** This profile enables such users to secure typical application workloads against common security threats.
 >
@@ -1848,18 +1823,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[Kubernetes]] (5), feature (3), [[Regulatory Compliance]] (1), generic (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Regulatory Compliance]] (1), [[Application Development]] (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access management
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/access-management?u=76281980)
+#### [Access management](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/access-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/access-management?u=76281980&t=0)** - [Instructor] Before a client such as kubectl or another Kubernetes component can perform any operation in Kubernetes, it must meet three criteria.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/access-management?u=76281980&t=0)** - [Instructor] Before a client such as kubectl or another [[Kubernetes]] component can perform any operation in Kubernetes, it must meet three criteria.
 >
 > **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/access-management?u=76281980&t=11)** The client must prove it is who it claims to be, the client must be permitted to perform the action it is requesting, and third, the requested operation, especially if it modifies a Kubernetes object, must be compliant with the security policy.
 >
@@ -1871,18 +1845,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Security]] (1), api (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3)
 > **CLI Commands:** kubectl (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authenticating users
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980)
+#### [Authenticating users](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=0)** - [Instructor] Kubernetes supports two types of subjects, regular human users and machine accounts, also known as service accounts.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=0)** - [Instructor] [[Kubernetes]] supports two types of subjects, regular human users and machine accounts, also known as service accounts.
 >
 > **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=11)** Service accounts are managed within Kubernetes while the user accounts are expected to be managed outside of Kubernetes.
 >
@@ -1898,7 +1871,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=45)** Here's the list of options as of the writing of this course.
 >
-> **[0:49](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=49)** Static password or token file, X.509 client certificates, Open ID Connect tokens, using service accounts, and many others.
+> **[0:49](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=49)** Static password or token file, X.509 client certificates, Open ID Connect [[Tokens]], using service accounts, and many others.
 >
 > **[1:03](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=63)** Well, the name gives it away.
 >
@@ -1942,7 +1915,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=222)** A user logs in with an identity provider.
 >
-> **[3:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=226)** An identity provider could be Azure Active Directory on your cloud, you can also run your own using Keyclaok or CoreOS Dex.
+> **[3:46](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=226)** An identity provider could be [[Microsoft Entra ID|Azure Active Directory]] on your cloud, you can also run your own using Keyclaok or CoreOS Dex.
 >
 > **[3:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-users?u=76281980&t=237)** Identity provider returns the user and identity token.
 >
@@ -1962,7 +1935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (11), api (8), [[Tokens]] (3), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (11), [[Tokens]] (3), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** api (8), csv (1), http (1), jwt (1)
 > **Definitions:** known as (1), in other words (1), is a  (1)
 > **CLI Commands:** kubectl (1)
@@ -1971,14 +1944,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 
-#### Authenticating service accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980)
+#### [Authenticating service accounts](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=0)** - [Lecturer] So far, we talked about authenticating regular users but what about authenticating applications or more specifically pods?
 >
-> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=11)** Kubernetes offers a construct known as ServiceAccont.
+> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=11)** [[Kubernetes]] offers a construct known as ServiceAccont.
 >
 > **[0:15](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=15)** Unlike user accounts kubernetes does indeed store ServiceAccount details as a ServiceAccount resource.
 >
@@ -2008,7 +1980,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=95)** In case of a ServiceAccount, a default secret token is mounted on every pods file system at a predetermined location.
 >
-> **[1:44](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=104)** But as you will see there're other ways to inject secret tokens into the parts.
+> **[1:44](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=104)** But as you will see there're other ways to inject secret [[Tokens]] into the parts.
 >
 > **[1:50](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authenticating-service-accounts?u=76281980&t=110)** Here's an example of using a custom ServiceAccount inside a pod.
 >
@@ -2020,7 +1992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), api (2), next (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Tokens]] (1)
 > **Env Vars:** api (2)
 > **Cross-References:** we talked about (1), we covered (1)
 > **CLI Commands:** kubectl (1)
@@ -2029,8 +2001,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authorization?u=76281980)
+#### [Authorization](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,7 +2013,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authorization?u=76281980&t=21)** In more granular validation beyond the verbs is done by the admission controller, which we will see later.
 >
-> **[0:29](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authorization?u=76281980&t=29)** Kubernetes authorization supports multiple strategies, but the role-based access control or RBAC is the most common and recommended strategy.
+> **[0:29](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authorization?u=76281980&t=29)** [[Kubernetes]] authorization supports multiple strategies, but the role-based access control or RBAC is the most common and recommended strategy.
 >
 > **[0:41](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/authorization?u=76281980&t=41)** Generally speaking, role-based access control strategy grants or denies access to specific operations to subjects based on their assigned roles.
 >
@@ -2090,7 +2061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Kubernetes]] (4), node (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4)
 > **Env Vars:** rbac (5), api (4), abac (2)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Analogies:** for example (2), such as (2)
@@ -2099,14 +2070,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 
-#### Admission control
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/admission-control-21044228?u=76281980)
+#### [Admission control](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/admission-control-21044228?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/admission-control-21044228?u=76281980&t=0)** - [Tutor] The admission controller plugin intercepts the request and validates it against policies before the changes to a resource are persisted.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/admission-control-21044228?u=76281980&t=11)** As of the writing of this course, about 30 plus different admission controllers are included in Kubernetes.
+> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/admission-control-21044228?u=76281980&t=11)** As of the writing of this course, about 30 plus different admission controllers are included in [[Kubernetes]].
 >
 > **[0:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/admission-control-21044228?u=76281980&t=19)** Plugins are enabled while starting kube-apiserver.
 >
@@ -2164,7 +2134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Security]] (2), api (2), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3)
 > **Env Vars:** api (2)
 > **Warnings:** keep in mind (2)
 > **Documentation:** spec (1)
@@ -2172,8 +2142,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### Security context
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-context?u=76281980)
+#### [Security context](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2183,7 +2152,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-context?u=76281980&t=25)** If you recall, from the earlier chapters about securing standalone containers, we emphasized a few best practices such as not to run a container as root, securing network access, and so on.
 >
-> **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-context?u=76281980&t=38)** The fact that you now have Kubernetes orchestrating these pods, you still need a mechanism to implement the very same security controls.
+> **[0:38](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-context?u=76281980&t=38)** The fact that you now have [[Kubernetes]] orchestrating these pods, you still need a mechanism to implement the very same security controls.
 >
 > **[0:48](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-context?u=76281980&t=48)** Kubernetes offers these mechanisms via security context and security policies.
 >
@@ -2223,14 +2192,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[Kubernetes]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Documentation:** spec (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [teacher] (1)
 
-#### Security Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-policy-21045201?u=76281980)
+#### [Security Policy](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-policy-21045201?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2240,24 +2208,23 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-policy-21045201?u=76281980&t=21)** Now, instead of using PodSecurityPolicy, you can enforce the same effect with either a PodSecurity admission controller or a third-party admission plugin.
 >
-> **[0:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-policy-21045201?u=76281980&t=33)** For users of this legacy approach of PodSecurityPolicy, Kubernetes provides a migration path, details of which are available on Kubernetes website, and the link is provided here on the screen.
+> **[0:33](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-policy-21045201?u=76281980&t=33)** For users of this legacy approach of PodSecurityPolicy, [[Kubernetes]] provides a migration path, details of which are available on Kubernetes website, and the link is provided here on the screen.
 >
 > **[0:47](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/security-policy-21045201?u=76281980&t=47)** The PodSecurity admission control mechanism follows the requirements defined in PodSecurity standard that we reviewed earlier.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Kubernetes]] (2), power (1), feature (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kubernetes network security
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-network-security?u=76281980)
+#### [Kubernetes network security](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-network-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-network-security?u=76281980&t=0)** - [Instructor] From access control, security context and policies.
 >
-> **[0:04](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-network-security?u=76281980&t=4)** Now let's switch gears to Kubernetes network security.
+> **[0:04](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-network-security?u=76281980&t=4)** Now let's switch gears to [[Kubernetes]] [[Network Security]].
 >
 > **[0:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/kubernetes-network-security?u=76281980&t=9)** Kubernetes doesn't follow the Docker container networking model.
 >
@@ -2313,7 +2280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Kubernetes]] (7), [[Security]] (4), [[Network Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (7), [[Network Security]] (1)
 > **Definitions:** refers to (2), is an  (1)
 > **Env Vars:** nat (1), api (1)
 > **CLI Commands:** docker (1)
@@ -2322,14 +2289,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secrets management
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980)
+#### [Secrets management](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980&t=0)** - [Instructor] There are several use cases for Secrets in the Kubernetes environment.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980&t=0)** - [Instructor] There are several use cases for Secrets in the [[Kubernetes]] environment.
 >
-> **[0:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980&t=5)** The most obvious one is when you want your Pods to use Secrets such as access tokens, passwords, or API keys.
+> **[0:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980&t=5)** The most obvious one is when you want your Pods to use Secrets such as access [[Tokens]], passwords, or API keys.
 >
 > **[0:14](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secrets-management?u=76281980&t=14)** The other use cases are really two components of your Kubernetes cluster.
 >
@@ -2411,7 +2377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), api (3), application (3), data (2), management (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Tokens]] (1)
 > **Code Identifiers:** myvaultkey (4), mykeys (2), mysecrets (1)
 > **Env Vars:** api (3)
 > **Analogies:** such as (2), for example (1)
@@ -2425,16 +2391,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cluster security goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980)
+#### [Cluster security goals](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980&t=0)** - [Instructor] We now know the security features and capabilities offered by Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980&t=0)** - [Instructor] We now know the security features and capabilities offered by [[Kubernetes]].
 >
 > **[0:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980&t=5)** These feature allow developers and admins to establish security controls that protect your running pods.
 >
-> **[0:14](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980&t=14)** These features also play a significant role in protecting the rest of the Kubernetes infrastructure.
+> **[0:14](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980&t=14)** These features also play a significant role in protecting the [[Representational State Transfer (REST)|rest]] of the Kubernetes infrastructure.
 >
 > **[0:21](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980&t=21)** These core components are not typically accessed by your application.
 >
@@ -2448,18 +2413,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Security]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing API server traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-api-server-traffic?u=76281980)
+#### [Securing API server traffic](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-api-server-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-api-server-traffic?u=76281980&t=0)** - [Sam] Authentication and role-based access control enable users and service accounts to communicate with the API Server.
 >
-> **[0:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-api-server-traffic?u=76281980&t=9)** But remember, Kubernetes native components also frequently communicate with the API Server.
+> **[0:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-api-server-traffic?u=76281980&t=9)** But remember, [[Kubernetes]] native components also frequently communicate with the API Server.
 >
 > **[0:16](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-api-server-traffic?u=76281980&t=16)** Kubelets, kube-scheduler, kube-proxy, and kube-controller-manager must connect to API Server via a secure port.
 >
@@ -2485,7 +2449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Kubernetes]] (2), traffic (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Env Vars:** api (8), https (2), tls (2)
 > **CLI Commands:** make (2)
 > **Documentation:** specification (2)
@@ -2493,8 +2457,7 @@ created: 2026-05-02
 > **Ports:** port 8080 (1)
 > **Speakers:** - [sam] (1)
 
-#### Securing cluster components
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980)
+#### [Securing cluster components](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2502,9 +2465,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980&t=3)** Limit access to it, of course, with the exception of the API server, and only serve clients over TLS.
 >
-> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980&t=11)** Secrets are stored in the etcd store, so you must ensure that the secret data at rest is encrypted.
+> **[0:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980&t=11)** Secrets are stored in the etcd store, so you must ensure that the secret data at [[Representational State Transfer (REST)|rest]] is encrypted.
 >
-> **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980&t=20)** Starting with Kubernetes version 1.13 and etcd version 3.0 onwards, Kubernetes supports encryption of secrets.
+> **[0:20](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980&t=20)** Starting with [[Kubernetes]] version 1.13 and etcd version 3.0 onwards, Kubernetes supports encryption of secrets.
 >
 > **[0:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-cluster-components-21045202?u=76281980&t=30)** By default, kubelet allows anonymous requests.
 >
@@ -2546,7 +2509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (2), application (2), api (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** tls (2), api (1), cpu (1), scd (1)
 > **Versions:** version 1 (1), version 3 (1)
 > **Speakers:** - [instructor] (1)
@@ -2556,12 +2519,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Infrastructure security
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980)
+#### [Infrastructure security](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=0)** - [Instructor] So far, we assumed that the Kubernetes cluster was already installed on hardware infrastructure.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=0)** - [Instructor] So far, we assumed that the [[Kubernetes]] cluster was already installed on [[Hardware]] infrastructure.
 >
 > **[0:08](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=8)** The underlying infrastructure, whether it is your on premise data center or the public cloud is the backbone of your Kubernetes cluster.
 >
@@ -2585,7 +2547,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=69)** These solutions make it easy to deploy and manage Kubernetes clusters.
 >
-> **[1:15](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=75)** Some examples are, Azure Kubernetes Service, Amazon's Elastic Container Service and Google Kubernetes Engine.
+> **[1:15](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=75)** Some examples are, [[Microsoft Azure|Azure]] Kubernetes Service, Amazon's Elastic Container Service and [[Google]] Kubernetes Engine.
 >
 > **[1:24](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=84)** On the other hand, you have a deployment of Kubernetes in your own data center.
 >
@@ -2603,7 +2565,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=125)** But the difference is that you leverage the capabilities offered by the cloud provider.
 >
-> **[2:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=131)** Some examples of these capabilities are access and resource management and cloud security policies and so on.
+> **[2:11](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=131)** Some examples of these capabilities are access and resource management and [[Cloud Security]] policies and so on.
 >
 > **[2:19](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=139)** Moreover, the cloud provider is already responsible for protecting the underlying hardware as per the shared security responsibility model.
 >
@@ -2633,23 +2595,22 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=224)** Do your due diligence and adopt as appropriate for your enterprise.
 >
-> **[3:50](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=230)** Learn more about leveraging artificial intelligence and machine learning for security in this course on LinkedIn Learning.
+> **[3:50](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980&t=230)** Learn more about leveraging [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning for security in this course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (16), [[Security]] (11), cloud (5), [[Hardware]] (2), data (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (16), [[Hardware]] (2), [[Microsoft Azure|Azure]] (1), [[Google]] (1), [[Cloud Security]] (1)
 > **Env Vars:** api (2), cia (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980)
+#### [Logging and monitoring](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=0)** - [Narrator] When your applications are running and the cluster is humming, you need a way to know what's going on with your Kubernetes' components and applications.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=0)** - [Narrator] When your applications are running and the cluster is humming, you need a way to know what's going on with your [[Kubernetes]]' components and applications.
 >
 > **[0:10](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=10)** Logs are your eyes in your cluster.
 >
@@ -2657,7 +2618,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=17)** They're also important in detecting security anomalies and any ongoing attacks.
 >
-> **[0:23](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=23)** However, unlike traditional applications, pods and microservices come and go.
+> **[0:23](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=23)** However, unlike traditional applications, pods and [[Microservices]] come and go.
 >
 > **[0:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=30)** They could be stopped and restarted anytime.
 >
@@ -2697,7 +2658,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=146)** Node aggregator then pushes to a centralized logging backend.
 >
-> **[2:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=151)** Again, a popular choice is a combination of Elasticsearch and Kibana.
+> **[2:31](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=151)** Again, a popular choice is a combination of [[Elasticsearch]] and Kibana.
 >
 > **[2:37](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=157)** Though logging is essential, it is of no use if you don't monitor and look for abnormalities and patterns in data.
 >
@@ -2709,13 +2670,13 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=188)** And lastly, you can push your logs and events to your centralized SIEM, that is the security information and event management system.
 >
-> **[3:18](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=198)** This will allow your security teams to view events from Kubernetes alongside other events from the rest of your infrastructure.
+> **[3:18](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=198)** This will allow your security teams to view events from Kubernetes alongside other events from the [[Representational State Transfer (REST)|rest]] of your infrastructure.
 >
 > **[3:28](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/logging-and-monitoring?u=76281980&t=208)** A single pane of view will help them make a more judicious decision about any security issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (7), node (7), [[Security]] (4), management (2), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (7), [[Microservices]] (1), [[Elasticsearch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (7), kubectl (1), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** siem (1)
@@ -2726,12 +2687,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=0)** - [Sam] The world of containers and Kubernetes is evolving rapidly.
+> **[0:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=0)** - [Sam] The world of containers and [[Kubernetes]] is evolving rapidly.
 >
 > **[0:05](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=5)** In this course, we only scratched the surface of security controls you can use to protect your containers and Kubernetes ecosystem.
 >
@@ -2739,7 +2699,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=24)** By now, you should also know the breadth of security controls that you have at your disposal.
 >
-> **[0:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=30)** When you are ready to go deeper into a specific area, you should consult the documentation offered by Linux, Docker, and Kubernetes.
+> **[0:30](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=30)** When you are ready to go deeper into a specific area, you should consult the documentation offered by [[Linux]], Docker, and Kubernetes.
 >
 > **[0:39](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=39)** If you're not already using containers with Kubernetes, this course should give you a framework to think about security from day one.
 >
@@ -2747,7 +2707,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=51)** Make security a priority for your cloud native applications.
 >
-> **[0:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=57)** Feel free to reach out and connect with me on LinkedIn.
+> **[0:57](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=57)** Feel free to reach out and connect with me on [[LinkedIn]].
 >
 > **[1:00](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980&t=60)** I look forward to hearing how your journey in the security of containers and Kubernetes is progressing.
 >
@@ -2755,7 +2715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Security]] (6), [[Linux]] (1), cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Linux]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [sam] (1)

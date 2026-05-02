@@ -92,18 +92,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced SQL project intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980)
+#### [Advanced SQL project intro](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=0)** - Did you know that businesses report significant improvements in decision-making and advanced data analytics?
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=0)** - Did you know that businesses report significant improvements in [[Decision-Making]] and advanced data analytics?
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=8)** Learning these skills can increase your efficiency, making you an invaluable asset.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=15)** Hi, I'm Walter Shields.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=17)** As a best-selling author of the number-one book on SQL and a LinkedIn Learning instructor have helped thousands of learners transition to data analytics and data science.
+> **[0:17](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=17)** As a best-selling author of the number-one book on [[SQL]] and a [[LinkedIn]] Learning instructor have helped thousands of learners transition to data analytics and [[Data Science]].
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-sql-project-intro?u=76281980&t=29)** Over 250,000 learners have completed my SQL Essentials Training Course, and many have asked for the next step.
 >
@@ -115,12 +114,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (4), [[Analytics]] (2), [[Decision-Making]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Decision-Making]] (1), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Env Vars:** sql (4), etl (1)
 > **Speakers:** - did (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,15 +148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), functional (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
 > **Warnings:** heads up (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the course exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/using-the-course-exercise-file?u=76281980)
+#### [Using the course exercise files](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/using-the-course-exercise-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +184,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), database (1), etl (1)
 > **UI Navigation:** go to (3), click on (1), right-click (1), double-click (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **CLI Commands:** unzip (2)
@@ -200,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conceptualizing the music database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980)
+#### [Conceptualizing the music database](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +209,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=33)** Think of it as a digital filing cabinet where information is stored and organized for easy access in management.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=42)** Now, the purpose of this database for iMedia is to help them manage and access extensive musical data efficiently, improving operations and their user experience.
+> **[0:42](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=42)** Now, the purpose of this database for iMedia is to help them manage and access extensive musical data efficiently, improving operations and their [[User Experience (UX)|user experience]].
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=56)** Let's now look at an overview of the music database and its benefits.
 >
@@ -223,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=71)** This structure helps iMedia manage their music catalog, streamline operations, and enhance user interactions.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=80)** Some of the benefits include efficient data management, enhanced search and retrieval capabilities, and as we mentioned, a better overall user experience.
+> **[1:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=80)** Some of the benefits include efficient [[Data Management]], enhanced search and retrieval capabilities, and as we mentioned, a better overall user experience.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=92)** Up next, let's now install the software that we're going to be using throughout this course.
 >
@@ -249,7 +243,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=177)** And with that action, you have successfully installed SQLite Command Line Tool.
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=184)** Now if you are on a Windows machine, you want the option right under the Mac option, which is the pre-compiled binaries for Windows, and you want the very last file, SQLite tools Windows 64.
+> **[3:04](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=184)** Now if you are on a [[Windows]] machine, you want the option right under the Mac option, which is the pre-compiled binaries for Windows, and you want the very last file, SQLite tools Windows 64.
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/conceptualizing-the-music-database?u=76281980&t=200)** You want to do the same action.
 >
@@ -307,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[Windows]] (7), data (5), management (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Windows]] (7), [[User Experience (UX)|User experience]] (2), [[Data Management]] (1)
 > **UI Navigation:** click on (6), navigate to (2), select the (2), scroll down (2), double-click (2)
 > **Code Identifiers:** imedia (7), macos (1)
 > **Prerequisites:** install (5), set up (1)
@@ -316,8 +310,7 @@ created: 2026-05-02
 > **Tools:** command line (3)
 > **Analogies:** think of it as (1), just like (1)
 
-#### Identifying requirements and purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980)
+#### [Identifying requirements and purpose](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,7 +336,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=74)** Now, specifically for iMedia, they're interested in storing information about artists, albums, tracks, genres, and user interactions such as reviews and ratings.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=88)** Now, within your exercise files, there is a completed requirements gathering template.
+> **[1:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=88)** Now, within your exercise files, there is a completed [[Requirements Gathering]] template.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=96)** If you open this file, you'll see some of the fields that we're seeing in front of us here.
 >
@@ -357,7 +350,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=149)** Some of the objectives include improving the music catalog management, enhancing search capabilities, and supporting user interactions.
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=161)** It's important to have a clear purpose, which makes sure the database design aligns with business goals.
+> **[2:41](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=161)** It's important to have a clear purpose, which makes sure the [[Database Design]] aligns with business goals.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/identifying-requirements-purpose?u=76281980&t=170)** Now, equally as important is stating the key functionalities of your database.
 >
@@ -381,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[Search]] (4), data (2), management (2), business (2)
+> **Frameworks & Libraries:** [[Requirements Gathering]] (1), [[Database Design]] (1)
 > **Code Identifiers:** imedia (6)
 > **Exercise Files:** exercise files (2), template (1)
 > **CLI Commands:** make (2)
@@ -390,8 +383,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Brainstorming entities and relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980)
+#### [Brainstorming entities and relationships](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,7 +421,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=117)** We'll now move on to our exercise file and take a look at the entity relationship diagram.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=126)** Now, if you navigate to your exercise files and open the completed ERD sketching template, you will open a document that looks pretty much like this.
+> **[2:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=126)** Now, if you navigate to your exercise files and open the completed ERD [[Sketching]] template, you will open a document that looks pretty much like this.
 >
 > **[2:18](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=138)** And here you'll see some of the same information that we just reviewed, that is, the entities and the relationships of our iMedia music database.
 >
@@ -447,13 +439,13 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=222)** So I encourage you to take a look at the incomplete ERD sketching template and take a try at recreating this ERD diagram.
 >
-> **[3:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=233)** It can only help in your data modeling journey.
+> **[3:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=233)** It can only help in your [[Data Modeling]] journey.
 >
 > **[3:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/brainstorming-entities-and-relationships?u=76281980&t=236)** See you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Sketching]] (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Sketching]] (3), [[Data Modeling]] (1)
 > **Env Vars:** erd (5)
 > **Definitions:** is a  (4), is called (1)
 > **Exercise Files:** template (2), exercise file (1), exercise files (1)
@@ -462,8 +454,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an initial conceptual model
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980)
+#### [Creating an initial conceptual model](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=14)** Now, let's create an initial conceptual model for the database that includes some deliberate non normalized aspects.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=23)** Now, don't worry if the word normalized or normalization doesn't ring a bell.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=23)** Now, don't worry if the [[Microsoft Word|word]] normalized or normalization doesn't ring a bell.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=29)** We're going to fully examine what this means in the next video.
 >
@@ -483,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=53)** Under tables, indices, views and triggers, they're all zero, meaning no objects exist quite yet.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=62)** To now start building out these objects or entities, we'll now move to our Execute SQL tab.
+> **[1:02](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=62)** To now start building out these objects or entities, we'll now move to our Execute [[SQL]] tab.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/creating-an-initial-conceptual-model?u=76281980&t=70)** So here, I've created the SQL statement needed to create our very first table, which is the artist table.
 >
@@ -535,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[SQL]] (4), next (3), data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4), create (1), table (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Code Identifiers:** imedia (1)
@@ -548,8 +539,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to database normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980)
+#### [Introduction to database normalization](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -567,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=45)** Up next, in Module 2, you'll step into normalization, refining your schema for optimal performance.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=53)** Knowing the how behind database design is crucial for creating efficient and scalable databases.
+> **[0:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=53)** Knowing the how behind [[Database Design]] is crucial for creating efficient and scalable [[Databases]].
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=62)** Keep pushing forward. You're doing fantastic.
 >
@@ -579,7 +569,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=86)** So what is normalization?
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=89)** Well, it's a process of organizing a database to reduce redundancy and improve data integrity.
+> **[1:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=89)** Well, it's a process of organizing a database to reduce redundancy and improve [[Data Integrity]].
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=97)** By structuring the data efficiently, we avoid anomalies and ensure the database is scalable and maintainable.
 >
@@ -613,7 +603,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=199)** Open that document, and you will see the issues that I have laid out here on the screen on the left.
 >
-> **[3:26](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=206)** To the right of the screen, I have the initial SQL code that we used to create the current database structure for iMedia.
+> **[3:26](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=206)** To the right of the screen, I have the initial [[SQL]] code that we used to create the current database structure for iMedia.
 >
 > **[3:34](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-database-normalization?u=76281980&t=214)** So in the document, you can see that we've identified three normalization issues, so let's take a look.
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (10), next (3), [[SQL]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[SQL]] (2), [[Database Design]] (1), [[Databases]] (1)
 > **Code Identifiers:** imedia (4)
 > **Env Vars:** sql (2)
 > **UI Navigation:** navigate to (1), scroll down (1)
@@ -654,14 +644,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Normalization forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/normalization-forms?u=76281980)
+#### [Normalization forms](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/normalization-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/normalization-forms?u=76281980&t=0)** - [Lecturer] In our last session, we identified the non normalized aspects of our music database.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/normalization-forms?u=76281980&t=6)** Now let's dive into the specific normal forms and see how they apply to your music database.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/normalization-forms?u=76281980&t=6)** Now let's dive into the specific normal [[Forms]] and see how they apply to your music database.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/normalization-forms?u=76281980&t=14)** So, let's first take a look at the various types of normalization forms, starting with 1NF, which is referred to as the first normal form.
 >
@@ -735,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (4), [[Forms]] (3), game (3), next (1)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** imedia (1)
@@ -744,8 +733,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 
-#### Applying normalization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/applying-normalization?u=76281980)
+#### [Applying normalization](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/applying-normalization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/applying-normalization?u=76281980&t=75)** Alright, so let's now run this statement here.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/applying-normalization?u=76281980&t=80)** Down in our messages window, we see that our SQL statement has been executed successfully.
+> **[1:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/applying-normalization?u=76281980&t=80)** Down in our messages window, we see that our [[SQL]] statement has been executed successfully.
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/applying-normalization?u=76281980&t=88)** Our next step is to drop the original artist table and that statement DROP TABLE artist is going to do this for us.
 >
@@ -803,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** genreid (6)
 > **Env Vars:** sql (1), drop (1), table (1)
 > **Cross-References:** in the last (2)
@@ -811,14 +799,13 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refine normalized schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980)
+#### [Refine normalized schema](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=0)** - [Instructor] In our last session, we applied the normalization steps to our music database schema.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=7)** Now let's focus on making sure our database is both efficient and maintains data integrity.
+> **[0:07](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=7)** Now let's focus on making sure our database is both efficient and maintains [[Data Integrity]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=15)** So ensuring data integrity and efficiency involves implementing constraints and indexes to maintain accurate and consistent data.
 >
@@ -828,7 +815,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=36)** Well, let's return to our DB Browser and start making some changes that are specific to applying data integrity and efficiency.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=48)** So let's zero in on some of the aspects of our SQL statement here that we may have overlooked a bit.
+> **[0:48](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=48)** So let's zero in on some of the aspects of our [[SQL]] statement here that we may have overlooked a bit.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=56)** So once again, to refine our database, we're applying some of the same principles.
 >
@@ -880,7 +867,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=255)** Okay, we are doing well.
 >
-> **[4:17](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=257)** So let's now continue with the rest of the statement drop as well as rename that table.
+> **[4:17](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=257)** So let's now continue with the [[Representational State Transfer (REST)|rest]] of the statement drop as well as rename that table.
 >
 > **[4:27](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/refine-normalized-schema?u=76281980&t=267)** Okay, I'm going to go down to the last table here, which is the tracks table.
 >
@@ -918,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (6), [[SQL]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (3), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** imedia (1), idx_artist_name (1)
 > **Env Vars:** sql (1)
@@ -930,8 +917,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of ETL processes and tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980)
+#### [Overview of ETL processes and tools](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +925,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=4)** You've tackled database normalization like a pro, transforming your schema to be efficient and scalable.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=12)** Understanding and applying the different normal forms, is no small feat and you've nailed it.
+> **[0:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=12)** Understanding and applying the different normal [[Forms]], is no small feat and you've nailed it.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=20)** I struggled with normalization when I first started.
 >
@@ -951,7 +937,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=38)** And if you feel really stuck, just reach out in the course Q&A.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=43)** In module three, you'll dive into extract, transform and load, also known as ETL, a critical part of data management.
+> **[0:43](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=43)** In module three, you'll dive into extract, transform and load, also known as ETL, a critical part of [[Data Management]].
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=53)** You'll learn how to gather, clean and load data, preparing it for analysis.
 >
@@ -961,33 +947,33 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=68)** Welcome to module number three.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=72)** In the last module, we focused on normalizing our music database to ensure data integrity and efficiency.
+> **[1:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=72)** In the last module, we focused on normalizing our music database to ensure [[Data Integrity]] and efficiency.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=80)** Now we'll explore the fundamentals of ETL and this stands for extract, transform and Load.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=90)** ETL is a critical process in data warehousing and business intelligence, helping us prepare and manage data for analysis.
+> **[1:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=90)** ETL is a critical process in [[Data Warehousing]] and [[Business Intelligence (BI)|business intelligence]], helping us prepare and manage data for analysis.
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=99)** So let's now take a look at the definition and purpose of ETL.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=104)** And as I said before, ETL stands for extract, transform and load.
 >
-> **[1:51](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=111)** And it's a process used to collect data from various sources like CSV or Excel files, convert it into a suitable format and load it into a target database.
+> **[1:51](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=111)** And it's a process used to collect data from various sources like CSV or [[Microsoft Excel|Excel]] files, convert it into a suitable format and load it into a target database.
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=123)** Now with regard to ETL's purpose, it's essential for integrating and managing data, especially in data warehousing where data from different sources, need to be combined and standardized.
 >
 > **[2:18](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=138)** So why is this important?
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=140)** Well, ETL is crucial for data integration and this is combining data from multiple sources.
+> **[2:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=140)** Well, ETL is crucial for [[Data Integration]] and this is combining data from multiple sources.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=149)** ETL is also essential for data cleaning and this is ensuring data quality by handling missing values, duplicates, or other data anomalies.
+> **[2:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=149)** ETL is also essential for [[Data Cleaning]] and this is ensuring [[Data Quality]] by handling missing values, duplicates, or other data anomalies.
 >
-> **[2:40](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=160)** Thirdly, data transformation and this converts data into a format that we can actually use.
+> **[2:40](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=160)** Thirdly, [[Data Transformation]] and this converts data into a format that we can actually use.
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=167)** And last but not the least is the data loading.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=170)** And this involves populating the target database for analysis.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=176)** So for example, in the context of our music database, ETL processes help integrate data from different sources like artist profiles, album details and track metadata.
+> **[2:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=176)** So for example, in the context of our music database, ETL processes help integrate data from different sources like artist profiles, album details and track [[Metadata]].
 >
 > **[3:09](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=189)** Up next, we'll take a look at the ETL plan for iMedia.
 >
@@ -1041,7 +1027,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=353)** So starting with the extract phase, which is gathering data from various sources.
 >
-> **[6:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=360)** It involves collecting data from sources such as CSV files as we saw in our plan or APIs or other databases.
+> **[6:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=360)** It involves collecting data from sources such as CSV files as we saw in our plan or APIs or other [[Databases]].
 >
 > **[6:10](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=370)** An example could be extracting artist data from the CSV and album data from an API.
 >
@@ -1101,7 +1087,7 @@ created: 2026-05-02
 >
 > **[9:18](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=558)** Informatica, a comprehensive data integration tool with advanced features.
 >
-> **[9:24](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=564)** And Microsoft SSIS and that stands for [[SQL Server Integration Services]].
+> **[9:24](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=564)** And [[Microsoft]] SSIS and that stands for [[[[Microsoft SQL Server|SQL Server]] Integration Services]].
 >
 > **[9:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=570)** And this is an ETL tool integrated with SQL server for data integration tasks.
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 >
 > **[9:43](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=583)** It has support for various sources and extensive community support.
 >
-> **[9:48](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=588)** Informatica has high performance, scalability and robust data transformation capabilities.
+> **[9:48](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=588)** Informatica has high performance, [[Scalability]] and robust data transformation capabilities.
 >
 > **[9:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/overview-of-etl-processes-and-tools?u=76281980&t=596)** And Microsoft SSIS, which I've used quite a lot, it integrates seamlessly with SQL server.
 >
@@ -1127,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), etl (24), database (15), next (4), [[Microsoft SQL Server|Sql server]] (3)
+> **Frameworks & Libraries:** [[Data Integration]] (3), [[Microsoft SQL Server|Sql server]] (3), [[Data Integrity]] (2), [[Data Warehousing]] (2), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** etl (24), csv (5), sql (3), ssis (2), api (1)
 > **Definitions:** stands for (3), is a  (2), known as (1), is an  (1)
 > **Analogies:** for example (2), just like (1), such as (1), imagine (1), for instance (1)
@@ -1136,14 +1122,13 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2), scroll down (1)
 > **Exercise Files:** exercise files (3)
 
-#### ETL in the music database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980)
+#### [ETL in the music database](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=0)** - [Instructor] In our last session, we compared various ETL tools and looked at some of their strengths and weaknesses.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=8)** Now let's apply ETL processes to our music database using SQL scripts.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=8)** Now let's apply ETL processes to our music database using [[SQL]] scripts.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=15)** We'll see how these processes help us prepare and manage our data effectively.
 >
@@ -1203,7 +1188,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=264)** Now to do so, we're going to go back to DB browser for SQLite.
 >
-> **[4:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=270)** You can fire up DB browser for SQLite whether you're on a Mac or a Windows.
+> **[4:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=270)** You can fire up DB browser for SQLite whether you're on a Mac or a [[Windows]].
 >
 > **[4:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/etl-in-the-music-database?u=76281980&t=276)** And when you do so, you want to navigate to that iMedia Music database that you created and were working with earlier.
 >
@@ -1357,7 +1342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (7), etl (4), [[SQL]] (3), prompt (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Windows]] (1)
 > **Env Vars:** csv (6), etl (4), sql (3), pragma (2)
 > **Tools:** command line (6)
 > **CLI Commands:** make (3), sqlite3 (1)
@@ -1371,8 +1356,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980)
+#### [Understanding data pipelines](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,7 +1368,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=13)** Now let's dive into designing a data pipeline for our music data.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=19)** Data pipelines help us automate and streamline the ETL processes, making data management more efficient.
+> **[0:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=19)** [[Data Pipelines]] help us automate and streamline the ETL processes, making [[Data Management]] more efficient.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=27)** So officially, a data pipeline is a series of processes that automate the movement and transformation of data from one place to another.
 >
@@ -1404,7 +1388,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=96)** Data pipelines ensure data is consistently processed and moved from source to destination, reducing manual effort and errors.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=106)** Some of the benefits include automation, efficiency, consistency, and scalability.
+> **[1:46](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=106)** Some of the benefits include automation, efficiency, consistency, and [[Scalability]].
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/understanding-data-pipelines?u=76281980&t=114)** For our next step, we're going to take a look at the iMedia Data Pipeline Design plan and game plan our pipeline for our specific music database.
 >
@@ -1438,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (5), etl (3), [[Automation]] (3), game (2)
+> **Frameworks & Libraries:** [[Data Pipelines]] (2), [[Data Management]] (1), [[Scalability]] (1)
 > **Env Vars:** etl (3), csv (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** imedia (3)
@@ -1447,8 +1431,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Building the data pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/building-the-data-pipeline?u=76281980)
+#### [Building the data pipeline](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/building-the-data-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,7 +1519,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), etl (2), database (2), next (1), cd (1)
 > **CLI Commands:** make (5), cd (1), chmod (1)
 > **Code Identifiers:** etl_script (4), imedia (3)
 > **File Paths:** etl_script.sh (4)
@@ -1544,17 +1526,17 @@ created: 2026-05-02
 > **Tools:** terminal (1), command line (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** etl (1)
+> **UI Navigation:** navigate to (1)
 
-#### Validation techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980)
+#### [Validation techniques](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=0)** - [Instructor] Congratulations on completing the ETL process of your music database.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=6)** Now you're ready to dive into writing SQL queries to explore and analyze your data.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=6)** Now you're ready to dive into writing [[SQL]] queries to explore and analyze your data.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=13)** Now let's first take a look at validation techniques, which is crucial to ensure data integrity by validating data before querying.
+> **[0:13](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=13)** Now let's first take a look at validation techniques, which is crucial to ensure [[Data Integrity]] by validating data before querying.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=26)** Now, this step helps prevent errors and ensures the accuracy of our analysis.
 >
@@ -1594,7 +1576,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=196)** Do not let the complexity of it intimidate you.
 >
-> **[3:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=199)** This is the exact type of statement or query that you'd want to get some assistance from a platform like ChatGPT, simply asking it to give you an update statement in SQLite format for updating dates of a specific field.
+> **[3:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=199)** This is the exact type of statement or query that you'd want to get some assistance from a platform like [[ChatGPT]], simply asking it to give you an update statement in SQLite format for updating dates of a specific field.
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/validation-techniques?u=76281980&t=216)** Alright, now let's run this particular statement.
 >
@@ -1684,7 +1666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (3), [[SQL]] (2), next (2), etl (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Integrity]] (1), [[ChatGPT]] (1)
 > **Env Vars:** sql (2), etl (1), pragma (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1)
@@ -1693,16 +1675,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced error handling and logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980)
+#### [Advanced error handling and logging](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980&t=0)** - [Instructor] Now that we have applied some validation checks on our data, let's move on to some advanced error handling and logging to maintain a robust database.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980&t=12)** So implementing error handling within SQL queries helps manage and troubleshoot data issues effectively.
+> **[0:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980&t=12)** So implementing error handling within [[SQL]] queries helps manage and troubleshoot data issues effectively.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980&t=22)** Examples of this is, for instance, creating what's called a trigger to prevent invalid data entries or custom error messages for data validation failures.
+> **[0:22](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980&t=22)** Examples of this is, for instance, creating what's called a trigger to prevent invalid data entries or custom error messages for [[Data Validation]] failures.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/advanced-error-handling-and-logging?u=76281980&t=37)** Another important component is logging changes.
 >
@@ -1732,7 +1713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Validation]] (1)
 > **Code Identifiers:** imedia (1)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
@@ -1745,8 +1726,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to SQL queries (basic, aggregate, joins)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980)
+#### [Introduction to SQL queries (basic, aggregate, joins)](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1746,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980&t=52)** Now we can assume the hat of a data analyst and start working with data that has already been right sized, validated, and set up in our database.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980&t=65)** So we're going to treat part of this session as a recap of some simple to complex SQL statements and then get into some specific analysis with regard to the data that we have imported.
+> **[1:05](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980&t=65)** So we're going to treat part of this session as a recap of some simple to complex [[SQL]] statements and then get into some specific analysis with regard to the data that we have imported.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/introduction-to-sql-queries-basic-aggrigate-joins?u=76281980&t=79)** All right, so let's start with this first statement here.
 >
@@ -1900,7 +1880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[SQL]] (4), database (2), etl (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4), select (3), count (2), etl (1), where (1)
 > **SQL:** select (3), where (1), having (1), left join (1)
 > **Definitions:** in other words (2)
@@ -1909,12 +1889,11 @@ created: 2026-05-02
 > **Code Identifiers:** imedia (1)
 > **Cross-References:** coming up (1)
 
-#### Exploring and analyzing music data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980)
+#### [Exploring and analyzing music data](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=0)** - [Instructor] All right, now that we have taken a quick recap of some various SQL statements, let's get into some more specifics with regard to a SQL statement that will be constructed in response to a request from iMediaManagement.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=0)** - [Instructor] All right, now that we have taken a quick recap of some various [[SQL]] statements, let's get into some more specifics with regard to a SQL statement that will be constructed in response to a request from iMediaManagement.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=17)** Now, let's go on to some of the other queries here under data analysis, and we can see the first query here is going to ask that we find the top artist by number of albums.
 >
@@ -1928,7 +1907,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=61)** All right, let's now run this entire statement and observe our result.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=68)** We do see from our results, John Smith has the highest albums, with a count of two.
+> **[1:08](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=68)** We do see from our results, [[John the Ripper|John]] Smith has the highest albums, with a count of two.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/exploring-and-analyzing-music-data?u=76281980&t=75)** Everyone else seems to have a count of one.
 >
@@ -1962,7 +1941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (4), management (4), business (4)
+> **Frameworks & Libraries:** [[SQL]] (4), [[John the Ripper|John]] (1)
 > **Code Identifiers:** imediamusic (3), imediamanagement (1), imedia (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (2), find (1)
@@ -1975,8 +1954,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Techniques for optimizing SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980)
+#### [Techniques for optimizing SQL queries](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,9 +1968,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=27)** Well, query optimization improves the speed and efficiency of database operations.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=34)** As datasets grow, inefficient queries can lead to slow response times, increasing load on the database server, and a poor user experience.
+> **[0:34](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=34)** As datasets grow, inefficient queries can lead to slow response times, increasing load on the database server, and a poor [[User Experience (UX)|user experience]].
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=45)** Optimization helps maintain performance and scalability.
+> **[0:45](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=45)** Optimization helps maintain performance and [[Scalability]].
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=50)** So for example, imagine running a query to find all tracks with more than 1,000 plays.
 >
@@ -2000,7 +1978,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=65)** So with regard to our music database, frequent queries on large datasets can significantly impact performance, making optimization essential.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=79)** So the key principles for query optimization include: reducing the amount of data processed, using appropriate indexes, and writing efficient SQL statements.
+> **[1:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=79)** So the key principles for query optimization include: reducing the amount of data processed, using appropriate indexes, and writing efficient [[SQL]] statements.
 >
 > **[1:34](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=94)** Efficient queries minimize the resources needed to retrieve the desired results.
 >
@@ -2030,7 +2008,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=198)** But let's take a look at what our results say here, mainly where it says "SCAN Tracks."
 >
-> **[3:25](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=205)** Now, the output that shows SCAN Tracks means that SQLite is scanning the entire Tracks table, which can be inefficient for large databases.
+> **[3:25](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=205)** Now, the output that shows SCAN Tracks means that SQLite is scanning the entire Tracks table, which can be inefficient for large [[Databases]].
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=218)** So to optimize this, you can create an index on this column to avoid a full table scan and thereby optimize this query.
 >
@@ -2040,7 +2018,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=234)** Now that we have identified our slow-performing query, let's now dive into indexing, which is a powerful technique to enhance query performance.
 >
-> **[4:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=246)** Indexes are data structures that improve the speed of data retrieval operations on a database table.
+> **[4:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=246)** Indexes are [[Data Structures]] that improve the speed of data retrieval operations on a database table.
 >
 > **[4:14](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/techniques-for-optimizing-sql-queries?u=76281980&t=254)** They work like a book's index, allowing quick access to data without scanning the entire table.
 >
@@ -2094,7 +2072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (6), [[SQL]] (3), next (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[User Experience (UX)|User experience]] (1), [[Scalability]] (1), [[Databases]] (1), [[Data Structures]] (1)
 > **Env Vars:** sql (3), explain (2), query (2), plan (2), scan (2)
 > **Code Identifiers:** idx_duration (4), imedia (1)
 > **Analogies:** for example (2), for instance (2), imagine (1)
@@ -2103,8 +2081,7 @@ created: 2026-05-02
 > **SQL:** where (1), index (1)
 > **Definitions:** is a  (1)
 
-#### Handling and querying large datasets efficiently
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980)
+#### [Handling and querying large datasets efficiently](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2112,9 +2089,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=2)** Now that you have learned and applied some query optimization techniques, let's now shift our focus to the challenges of handling and querying large datasets.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=13)** Managing large volumes of data efficiently is crucial for maintaining performance and ensuring scalability.
+> **[0:13](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=13)** Managing large volumes of data efficiently is crucial for maintaining performance and ensuring [[Scalability]].
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=21)** Now, large datasets can lead to performance degradation, increased storage requirements, and more complex data management.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=21)** Now, large datasets can lead to performance degradation, increased storage requirements, and more complex [[Data Management]].
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=31)** Challenges include slow query performance, difficulty maintaining indexes, and making sure your data is consistent.
 >
@@ -2246,9 +2223,9 @@ created: 2026-05-02
 >
 > **[10:34](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=634)** Now, let's select this, and what do we see here?
 >
-> **[10:37](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=637)** We see the combined results of both our 1986 and 1987 tables in a singular view, and this demonstrates some of the advanced capabilities that views allow us to employ in our databases.
+> **[10:37](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=637)** We see the combined results of both our 1986 and 1987 tables in a singular view, and this demonstrates some of the advanced capabilities that views allow us to employ in our [[Databases]].
 >
-> **[10:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=656)** Okay, let's keep pushing here, and we can actually observe our results here in our SQL statement as well.
+> **[10:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=656)** Okay, let's keep pushing here, and we can actually observe our results here in our [[SQL]] statement as well.
 >
 > **[11:05](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=665)** We can now say SELECT*FROM our newly created All_Artists view and observe the result as well.
 >
@@ -2278,7 +2255,7 @@ created: 2026-05-02
 >
 > **[12:43](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=763)** So this here again, shows a powerful way that you could start employing to optimize your database.
 >
-> **[12:51](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=771)** Okay, now that we've created and used views to simplify complex queries, let's now focus on batch processing and parallel execution techniques to handle large datasets efficiently.
+> **[12:51](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=771)** Okay, now that we've created and used views to simplify complex queries, let's now focus on [[Batch Processing]] and parallel execution techniques to handle large datasets efficiently.
 >
 > **[13:07](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=787)** So starting with batch processing.
 >
@@ -2298,7 +2275,7 @@ created: 2026-05-02
 >
 > **[14:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=852)** So for example, running multiple queries concurrently to process data faster.
 >
-> **[14:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=859)** Parallel execution is particularly useful for large scale data processing tasks that can be divided into independent units of work.
+> **[14:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=859)** Parallel execution is particularly useful for large scale [[Data Processing]] tasks that can be divided into independent units of work.
 >
 > **[14:30](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/handling-and-querying-large-datasets-efficiently?u=76281980&t=870)** Okay, so now as we've done before, let's now segue to our actual iMedia music database and apply some batch processing and parallel execution.
 >
@@ -2352,7 +2329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), database (23), parallel (8), [[Batch Processing]] (7), next (4)
+> **Frameworks & Libraries:** [[Batch Processing]] (7), [[Data Management]] (3), [[SQL]] (3), [[Scalability]] (1), [[Databases]] (1)
 > **Env Vars:** update (6), select (5), create (4), sql (3), table (2)
 > **SQL:** update (6), select (5), create table (2), where (2), inner join (1)
 > **Code Identifiers:** imedia (8)
@@ -2366,8 +2343,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project?u=76281980)
+#### [Final project](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,7 +2393,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), business (2), next (1)
 > **Exercise Files:** exercise files (1), template (1)
 > **Analogies:** imagine (1), for example (1)
 > **Code Identifiers:** imedia (1)
@@ -2425,9 +2400,9 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
 
-#### Final project solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project-solution?u=76281980)
+#### [Final project solution](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2547,7 +2522,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project-solution?u=76281980&t=429)** So this is just again another check.
 >
-> **[7:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project-solution?u=76281980&t=432)** As we saw, we can go to the database structure, we can do a browse data, but this is a SQL coded way of us achieving that same result, verifying that our columns and table structures have changed in the way that we intended.
+> **[7:12](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project-solution?u=76281980&t=432)** As we saw, we can go to the database structure, we can do a browse data, but this is a [[SQL]] coded way of us achieving that same result, verifying that our columns and table structures have changed in the way that we intended.
 >
 > **[7:29](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/final-project-solution?u=76281980&t=449)** Okay, now in our final query here, we're going to validate the query performance.
 >
@@ -2571,7 +2546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (5), business (4), database (2), management (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
@@ -2585,8 +2560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reflect on the knowledge and skills acquired
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/reflect-on-the-knowledge-and-skills-acquired?u=76281980)
+#### [Reflect on the knowledge and skills acquired](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/reflect-on-the-knowledge-and-skills-acquired?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2602,30 +2576,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), etl (1), data (1), next (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - and (1)
 
-#### Career opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980)
+#### [Career opportunities](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=0)** - [Instructor] The skills you've acquired open a range of exciting career opportunities.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=6)** With advanced SQL and database management, you can pursue roles like data analyst, data administrator, and data engineer.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=6)** With advanced [[SQL]] and [[Database Management]], you can pursue roles like data analyst, data administrator, and data engineer.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=16)** Here are some practical steps you can take.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=19)** Firstly, showcase your skills.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=23)** Update your LinkedIn profile with your new certificate and projects.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=23)** Update your [[LinkedIn]] profile with your new certificate and projects.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=27)** Connect with industry professionals like myself and join relevant groups.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=34)** Build a portfolio.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=36)** Use platforms like GitHub to share your projects.
+> **[0:36](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=36)** Use platforms like [[GitHub]] to share your projects.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/career-opportunities?u=76281980&t=40)** This not only showcases your skills, but also demonstrates your ability to apply them in real-world scenarios.
 >
@@ -2651,14 +2623,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), career (1), [[SQL]] (1), database (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Database Management]] (1), [[LinkedIn]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (1)
 > **Tools:** github (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Further learning resources and pathways
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980)
+#### [Further learning resources and pathways](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,7 +2641,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=20)** This introspection will help you rightsize your next learning steps with your career goals in mind.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=28)** Here are some of my courses available on the LinkedIn Learning platform that can further enhance your skills, "[[SQL Essential Training]]," "Complete Guide to AI and Data Science for SQL Developers: From Beginner to Advanced," "[[SQL Server Intelligence- Cracking the Code of Enterprise Data]]," and "[[Data Analysis- Investigate with SQL]]."
+> **[0:28](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=28)** Here are some of my courses available on the [[LinkedIn]] Learning platform that can further enhance your skills, "[[[[SQL]] Essential Training]]," "Complete Guide to AI and [[Data Science]] for SQL Developers: From Beginner to Advanced," "[[[[Microsoft SQL Server|SQL Server]] Intelligence- Cracking the Code of Enterprise Data]]," and "[[Data Analysis- Investigate with SQL]]."
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-sql-project-design-and-manage-a-database/further-learning-resources-and-pathways?u=76281980&t=56)** Taking these and similar courses will not only broaden your understanding, but also strengthen your skills in database modeling and data analysis.
 >
@@ -2684,7 +2655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), career (3), [[SQL]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[LinkedIn]] (1), [[Data Science]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4)
 > **Speakers:** - [instructor] (1)
 

@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be prepared for the data jobs of the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980)
+#### [Be prepared for the data jobs of the future](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,11 +94,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980&t=27)** In fact, some of the forecasts I've created have been ranked number one in the world for their accuracy by Bloomberg News.
 >
-> **[0:34](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980&t=34)** Join me in the LinkedIn Learning Course Data, Economic Modeling, and Forecasting with Stata, where we'll use the Stata software to do data analysis, build models, and forecast to help you get up that learning curve to be prepared for the data jobs of the future.
+> **[0:34](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980&t=34)** Join me in the [[LinkedIn]] Learning Course Data, [[Economic Modeling]], and [[Forecasting]] with [[Stata]], where we'll use the Stata software to do data analysis, build models, and forecast to help you get up that learning curve to be prepared for the data jobs of the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Stata]] (2), [[LinkedIn]] (1), [[Economic Modeling]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Stata]] (2), [[LinkedIn]] (1), [[Economic Modeling]] (1), [[Forecasting]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - people (1)
 
@@ -108,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Purpose of modeling in Stata
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980)
+#### [Purpose of modeling in Stata](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980&t=54)** In fact, forecasts can be made around almost any kind of financial business or economic data series you can imagine.
 >
-> **[1:02](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980&t=62)** There are many different statistical software packages you can use like Excel, eViews, SAS, R, MatLab, and STATA.
+> **[1:02](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980&t=62)** There are many different statistical software packages you can use like [[Microsoft Excel|Excel]], eViews, SAS, R, MatLab, and [[Stata]].
 >
 > **[1:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980&t=72)** Because I work with large data sets but not massive data sets, I prefer to work with STATA, and that's the program we'll be using in this course.
 >
@@ -137,19 +135,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Stata]] (2), business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Stata]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** stata (2), sas (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** eviews (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - people (1)
 
-#### The value of good data and good big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/the-value-of-good-data-and-good-big-data?u=76281980)
+#### [The value of good data and good big data](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/the-value-of-good-data-and-good-big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/the-value-of-good-data-and-good-big-data?u=76281980&t=0)** - Big data's a term people throw around a lot.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/the-value-of-good-data-and-good-big-data?u=76281980&t=0)** - [[Big Data]]'s a term people throw around a lot.
 >
 > **[0:03](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/the-value-of-good-data-and-good-big-data?u=76281980&t=3)** At its core, big data is very important for analysis and it's a way people talk about having a lot of data.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Big Data]] (4)
+> **Frameworks & Libraries:** [[Big Data]] (4)
 > **Speakers:** - big (1)
 
 
@@ -179,12 +176,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Statistics and econometrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980)
+#### [Statistics and econometrics](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980&t=0)** - Analyzing data for business implications usually falls into the fields of statistics or econometrics.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980&t=0)** - Analyzing data for business implications usually falls into the fields of [[Statistics]] or econometrics.
 >
 > **[0:07](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980&t=7)** Statistics involves looking at data and identifying key dynamics as well as potential relationships in the data.
 >
@@ -202,21 +198,20 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980&t=64)** But whether you're talking about statistics or econometrics, it's about measuring data and identifying meaningful relationships.
 >
-> **[1:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980&t=72)** These basics form the fundamental building blocks of predictive analytics; machine learning, artificial intelligence, and more, but in order to get to something complicated like artificial intelligence, it's important to understand some of the most important basics of statistics and econometrics.
+> **[1:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980&t=72)** These basics form the fundamental building blocks of [[Predictive Analytics]]; machine learning, [[Artificial Intelligence (AI)|artificial intelligence]], and more, but in order to get to something complicated like artificial intelligence, it's important to understand some of the most important basics of statistics and econometrics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistics]] (5), business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - analyzing (1)
 
-#### Univariate and multivariate linear regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980)
+#### [Univariate and multivariate linear regression models](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=0)** - One of the most common ways people analyze data and build forecast models is using a linear regression model.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=0)** - One of the most common ways people analyze data and build forecast models is using a [[Linear Regression]] model.
 >
 > **[0:07](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=7)** It's a way that you predict a data series by making the inputs fit into an equation that results in a straight line, hence the term, linear regression.
 >
@@ -242,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=70)** These have just one input and one output.
 >
-> **[1:14](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=74)** This would be like forecasting your income only as a function of your education.
+> **[1:14](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=74)** This would be like [[Forecasting]] your income only as a function of your education.
 >
 > **[1:19](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-and-multivariate-linear-regression-models?u=76281980&t=79)** But multivariate models have multiple sets of inputs that influence one set of outputs.
 >
@@ -252,13 +247,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (3), data (2), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Forecasting]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Correlation is not causation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation-is-not-causation?u=76281980)
+#### [Correlation is not causation](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation-is-not-causation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,13 +280,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Overly tight model fit
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overly-tight-model-fit?u=76281980)
+#### [Overly tight model fit](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overly-tight-model-fit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,13 +312,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Models are always wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/models-are-always-wrong?u=76281980)
+#### [Models are always wrong](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/models-are-always-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/models-are-always-wrong?u=76281980&t=45)** Third, add more good data.
 >
-> **[0:48](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/models-are-always-wrong?u=76281980&t=48)** If a model isn't performing well, you probably need more data and not just more data, but more good data when you're doing your analysis or forecasting.
+> **[0:48](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/models-are-always-wrong?u=76281980&t=48)** If a model isn't performing well, you probably need more data and not just more data, but more good data when you're doing your analysis or [[Forecasting]].
 >
 > **[0:56](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/models-are-always-wrong?u=76281980&t=56)** A good example of this would be looking if you can add more historical data.
 >
@@ -364,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - one (1)
 
@@ -373,12 +363,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview and enter data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980)
+#### [Overview and enter data](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=0)** - [Jason] Now, before we get started with using STATA, we need to acclimate you to it.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=0)** - [Jason] Now, before we get started with using [[Stata]], we need to acclimate you to it.
 >
 > **[0:04](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=4)** The most important thing to know is right in front of you.
 >
@@ -400,7 +389,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=40)** The reason I prefer it is it's really ideal for looking at economic data or business data, trying to analyze relationships and make forecasts.
 >
-> **[0:49](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=49)** It's much stronger than eViews or Excel, but it's nowhere near as expensive as some of the other much more advanced, more complicated programs that are also used for the biggest datasets.
+> **[0:49](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=49)** It's much stronger than eViews or [[Microsoft Excel|Excel]], but it's nowhere near as expensive as some of the other much more advanced, more complicated programs that are also used for the biggest datasets.
 >
 > **[1:02](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980&t=62)** Unless you're working with millions of lines of data, STATA is probably going to be sufficient for what you need at a price point that is much more reasonable than some of the other software packages.
 >
@@ -424,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Stata]] (3), [[Microsoft Excel|Excel]] (2), prompt (1), business (1)
+> **Frameworks & Libraries:** [[Stata]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** stata (3)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** eviews (1)
@@ -432,12 +421,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [jason] (1)
 
-#### Data preparation and selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/data-preparation-and-selection?u=76281980)
+#### [Data preparation and selection](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/data-preparation-and-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/data-preparation-and-selection?u=76281980&t=0)** - [Jason] Okay, so this is the actual data we're going to be pulling into Stata.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/data-preparation-and-selection?u=76281980&t=0)** - [Jason] Okay, so this is the actual data we're going to be pulling into [[Stata]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/data-preparation-and-selection?u=76281980&t=4)** In the top row you see descriptions of variables, and in the second row, you see these abbreviations.
 >
@@ -493,19 +481,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Stata]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Stata]] (2)
 > **Env Vars:** pmi (3), lme (1), ism (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jason] (1)
 
-#### Inputting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/inputting-data?u=76281980)
+#### [Inputting data](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/inputting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/inputting-data?u=76281980&t=0)** - [Jason] Now that we're back in the Stata Data Editor, we're going to go to the upper most left cell and we're going to hit control + V where we can paste in that Excel data.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/inputting-data?u=76281980&t=0)** - [Jason] Now that we're back in the [[Stata]] Data Editor, we're going to go to the upper most left cell and we're going to hit control + V where we can paste in that [[Microsoft Excel|Excel]] data.
 >
 > **[0:10](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/inputting-data?u=76281980&t=10)** Now it's going to ask us what's in the first row.
 >
@@ -545,12 +532,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Stata]] (1), hit (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Stata]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [jason] (1)
 
-#### Mean and summary statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/mean-and-summary-statistics?u=76281980)
+#### [Mean and summary statistics](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/mean-and-summary-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/mean-and-summary-statistics?u=76281980&t=12)** The command for this is very simple.
 >
-> **[0:14](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/mean-and-summary-statistics?u=76281980&t=14)** You just write the word mean, you put a space and then you put your variable.
+> **[0:14](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/mean-and-summary-statistics?u=76281980&t=14)** You just write the [[Microsoft Word|word]] mean, you put a space and then you put your variable.
 >
 > **[0:19](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/mean-and-summary-statistics?u=76281980&t=19)** This is just one example of the mean.
 >
@@ -638,15 +624,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Versions:** 154.5 (1), 152.7 (1), 156.3 (1)
 > **Env Vars:** lme (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standard deviation and SE
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/standard-deviation-and-se?u=76281980)
+#### [Standard deviation and SE](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/standard-deviation-and-se?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +719,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pmi (2), sem (1)
 > **Versions:** 11.37 (1)
@@ -742,16 +726,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [jason] (1)
 
-#### Correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980)
+#### [Correlation](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980&t=0)** - [Narrator] One of the goals of using the mean and summarize commands is to get familiar with your data.
 >
-> **[0:07](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980&t=7)** Another way to get familiar with your data before you begin regression analysis and forecasting, is to look for correlations.
+> **[0:07](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980&t=7)** Another way to get familiar with your data before you begin regression analysis and [[Forecasting]], is to look for correlations.
 >
-> **[0:16](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980&t=16)** The command for this in Stata is C-O-R-R-E-L, correl.
+> **[0:16](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980&t=16)** The command for this in [[Stata]] is C-O-R-R-E-L, correl.
 >
 > **[0:21](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/correlation?u=76281980&t=21)** And let's take a look at some of the data we have.
 >
@@ -803,7 +786,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Forecasting]] (1), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Stata]] (1)
 > **Env Vars:** pmi (5), ism (2), emi (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** find (2)
@@ -812,12 +795,11 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [narrator] (1)
 
-#### Key output validity measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980)
+#### [Key output validity measures](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=0)** - [Jason] Now because we saw a statistical relationship and strong correlation between that three-month ahead aluminum price and the Chinese manufacturing PMI, let's do a linear regression model, the command for which is R-E-G.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=0)** - [Jason] Now because we saw a statistical relationship and strong correlation between that three-month ahead aluminum price and the Chinese manufacturing PMI, let's do a [[Linear Regression]] model, the command for which is R-E-G.
 >
 > **[0:14](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=14)** That's just regression, that's it.
 >
@@ -841,11 +823,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=55)** This here, you want these to be at zero.
 >
-> **[0:58](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=58)** For the probability about the F statistic, you want that to be zero.
+> **[0:58](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=58)** For the [[Probability]] about the F statistic, you want that to be zero.
 >
 > **[1:03](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=63)** That's actually more important when you have multiple variables.
 >
-> **[1:06](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=66)** When it's just one independent variable, you really want to be watching what are called these T's statistics.
+> **[1:06](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=66)** When it's just one independent variable, you really want to be watching what are called these T's [[Statistics]].
 >
 > **[1:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=72)** And most importantly, this probability around the T statistic.
 >
@@ -859,22 +841,21 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=106)** Now that we have this regression analysis and the output, the best thing to do is to try to apply it.
 >
-> **[1:53](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=113)** Let's see what it can actually mean in terms of implying aluminum prices and forecasting.
+> **[1:53](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/key-output-validity-measures?u=76281980&t=113)** Let's see what it can actually mean in terms of implying aluminum prices and [[Forecasting]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), [[Linear Regression]] (1), [[Statistics]] (1), data (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Linear Regression]] (1), [[Statistics]] (1), [[Forecasting]] (1)
 > **Env Vars:** pmi (3)
 > **Speakers:** - [jason] (1)
 
-#### Univariate model
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980)
+#### [Univariate model](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=0)** - [Instructor] Now that you've done your univariate regression and you have an output I've brought this over here so we can actually begin to create forecasts out of it.
 >
-> **[0:09](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=9)** We've discussed the statistics that make these numbers valid, like the T statistics and the probability of the F statistic and the R-squared, adjusted R squared.
+> **[0:09](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=9)** We've discussed the [[Statistics]] that make these numbers valid, like the T statistics and the [[Probability]] of the F statistic and the R-squared, adjusted R squared.
 >
 > **[0:18](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=18)** We've talked about those but now's the time to talk about the coefficients in our outputs and there are two.
 >
@@ -900,7 +881,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=93)** We also see that beta one is the coefficient at 93.07.
 >
-> **[1:40](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=100)** The equation for forecasting then would be, Y is equal to that beta naught value plus the beta one times X.
+> **[1:40](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=100)** The equation for [[Forecasting]] then would be, Y is equal to that beta naught value plus the beta one times X.
 >
 > **[1:49](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/univariate-model?u=76281980&t=109)** So if we wanted to apply this let's assume the hypothetical where X is 55 where the Chinese Manufacturing PMI is 55.
 >
@@ -916,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), product (2), [[Probability]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (1), [[Forecasting]] (1)
 > **Env Vars:** pmi (4), lme (1)
 > **Versions:** 93.07 (1), 2338.45 (1)
 > **CLI Commands:** make (1)
@@ -924,8 +905,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multivariate model
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980)
+#### [Multivariate model](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=40)** In this output, we see a few different things before we had just one intercept and one coefficient for the one independent variable but now we have the intercept and three coefficients for the three independent variables.
 >
-> **[0:56](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=56)** One thing you'll notice, is that even though the R squared and adjusted R squared are a bit higher than in the model just with the Chinese PMI and the F statistic probability is zero which is a good sign, we see an issue with the US ISM manufacturing index.
+> **[0:56](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=56)** One thing you'll notice, is that even though the R squared and adjusted R squared are a bit higher than in the model just with the Chinese PMI and the F statistic [[Probability]] is zero which is a good sign, we see an issue with the US ISM manufacturing index.
 >
 > **[1:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=72)** And there are two problems here; one, this probability of the T statistic number is not zero.
 >
@@ -961,7 +941,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=144)** Let's take that aluminum closing price three months in advance and consider just the Eurozone PMI and the Chinese PMI and we'll leave the ISM out of it.
 >
-> **[2:34](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=154)** What we find is that now all the T statistics look right, the coefficients make sense.
+> **[2:34](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=154)** What we find is that now all the T [[Statistics]] look right, the coefficients make sense.
 >
 > **[2:41](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/multivariate-model?u=76281980&t=161)** When the Eurozone PMI goes up, there's a positive impact.
 >
@@ -987,8 +967,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Appling univariate model to forecast
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/appling-univariate-model-to-forecast?u=76281980)
+#### [Appling univariate model to forecast](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/appling-univariate-model-to-forecast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +983,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/appling-univariate-model-to-forecast?u=76281980&t=46)** Beta two is the coefficient for the Eurozone PMI at 16.25.
 >
-> **[0:52](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/appling-univariate-model-to-forecast?u=76281980&t=52)** The equation for forecasting thus would be Y equals minus 3025.54 plus that beta one times X one plus 16.25 beta two times X two.
+> **[0:52](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/appling-univariate-model-to-forecast?u=76281980&t=52)** The equation for [[Forecasting]] thus would be Y equals minus 3025.54 plus that beta one times X one plus 16.25 beta two times X two.
 >
 > **[1:05](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/appling-univariate-model-to-forecast?u=76281980&t=65)** Let's now consider another hypothetical example where the Chinese Manufacturing PMI is still at 55 but maybe that Eurozone PMI is at 51.
 >
@@ -1038,12 +1017,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving and files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/saving-and-files?u=76281980)
+#### [Saving and files](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/saving-and-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/saving-and-files?u=76281980&t=0)** - [Jason] Now the last thing you need to make sure you do when you're in Stata is to save your work.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/saving-and-files?u=76281980&t=0)** - [Jason] Now the last thing you need to make sure you do when you're in [[Stata]] is to save your work.
 >
 > **[0:05](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/saving-and-files?u=76281980&t=5)** First, there's your data.
 >
@@ -1067,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Stata]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dta (2), pdf (1)
 > **Cross-References:** go back to (1)
@@ -1078,8 +1056,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980)
+#### [Advanced topics](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1096,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=101)** Everything here looks pretty fat.
 >
-> **[1:44](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=104)** This can cause problems in your forecasting.
+> **[1:44](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=104)** This can cause problems in your [[Forecasting]].
 >
 > **[1:47](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=107)** There's also autocorrelation.
 >
@@ -1173,13 +1150,13 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=252)** Because of the challenges these advanced topics present in modeling and forecasting, economists have developed other models.
 >
-> **[4:19](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=259)** Log-linear models which use both logs and linear data, logits which use log functions as well, probits which are probability models, tobits which restrict some of the data you're using, and ARIMA and ARCH models which are designed to solve some of those autocorrelation serial correlation problems through autoregression.
+> **[4:19](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=259)** Log-linear models which use both logs and linear data, logits which use log functions as well, probits which are [[Probability]] models, tobits which restrict some of the data you're using, and ARIMA and ARCH models which are designed to solve some of those autocorrelation serial correlation problems through autoregression.
 >
 > **[4:39](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980&t=279)** In short, there are a lot of things going on when you're modeling and there are many advanced topics and many models you can use to address some of those bigger challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), [[Forecasting]] (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Probability]] (1)
 > **Env Vars:** kmi (1), arima (1), arch (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for example (2), similar to (1)
@@ -1192,14 +1169,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980&t=0)** - Thank you for taking my LinkedIn Learning course, Data, Economic Modeling, and Forecasting with Stata.
+> **[0:00](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980&t=0)** - Thank you for taking my [[LinkedIn]] Learning course, Data, [[Economic Modeling]], and [[Forecasting]] with [[Stata]].
 >
-> **[0:07](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980&t=7)** Now that you've taken this course, I hope that you're able to identify the most important priorities and pitfalls when you're working with data and you should be able to identify and describe some of the most advanced topics related to econometrics and statistics.
+> **[0:07](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980&t=7)** Now that you've taken this course, I hope that you're able to identify the most important priorities and pitfalls when you're working with data and you should be able to identify and describe some of the most advanced topics related to econometrics and [[Statistics]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980&t=23)** Plus, having seen hands-on modeling, I hope that you're now able to analyze data in Stata and incorporate results into financial models and forecasts.
 >
@@ -1213,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Stata]] (3), [[LinkedIn]] (1), [[Economic Modeling]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Stata]] (3), [[LinkedIn]] (1), [[Economic Modeling]] (1), [[Forecasting]] (1), [[Statistics]] (1)
 > **Speakers:** - thank (1)
 
 

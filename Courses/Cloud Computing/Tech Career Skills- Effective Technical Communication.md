@@ -99,12 +99,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upgrade your technical communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980)
+#### [Upgrade your technical communication](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=0)** - [Instructor] Software development is challenging, because as a technical team, we have to figure out what to do, do it, and then make sure we've done it right.
+> **[0:00](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=0)** - [Instructor] [[Software Development]] is challenging, because as a technical team, we have to figure out what to do, do it, and then make sure we've done it right.
 >
 > **[0:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=10)** And each step requires effective communication.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=27)** We'll look at various tools and techniques that can help propel your career by making you a more effective technical communicator.
 >
-> **[0:36](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=36)** Learn more forms of communication are the most effective to automate, and which require a personal touch in your team's daily activities.
+> **[0:36](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=36)** Learn more [[Forms]] of communication are the most effective to automate, and which require a personal touch in your team's daily activities.
 >
 > **[0:44](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=44)** Also, learn how you can best structure meetings to achieve your team's goals.
 >
@@ -122,26 +121,25 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=57)** My name is Annyce Davis, and I've worked on software teams of various structures, sizes and cultures, and through it all, having effective communication has helped me to make the most of my interactions.
 >
-> **[1:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=70)** So, join me on my LinkedIn learning course, all about becoming an effective technical communicator.
+> **[1:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980&t=70)** So, join me on my [[LinkedIn]] learning course, all about becoming an effective technical communicator.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Software Development]] (1), career (1), [[Forms]] (1), teams (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Forms]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=1)** - This course is designed primarily for members of a software development team that are interested in improving their communication skills, and not only programmers.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=1)** - This course is designed primarily for members of a [[Software Development]] team that are interested in improving their communication skills, and not only programmers.
 >
 > **[0:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=10)** This course is for anyone involved with the day-to-day activities of a software team, be it product managers, tech leads, testers, and even business stakeholders.
 >
 > **[0:22](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=22)** We're going to cover tested techniques and strategies for improving the way you communicate within your team.
 >
-> **[0:29](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=29)** We will walk through real-world examples as well as different scenarios with a fictional Agile team that is building reporting software.
+> **[0:29](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=29)** We will walk through real-world examples as well as different scenarios with a fictional [[Agile Development|Agile]] team that is building reporting software.
 >
 > **[0:38](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-you-should-know?u=76281980&t=38)** With that in mind, having a basic understanding of how Agile teams are structured is useful, but not a hard requirement.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1), product (1), business (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)
 
@@ -162,18 +160,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why standards are needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980)
+#### [Why standards are needed](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=1)** - In all areas of life, standards exist whether we want them or not.
 >
-> **[0:06](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=6)** There are safety standards to protect us on the road, food standards to protect what we eat, and banking standards to protect our money.
+> **[0:06](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=6)** There are safety standards to protect us on the road, food standards to protect what we eat, and [[Banking]] standards to protect our money.
 >
 > **[0:14](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=14)** In software teams, we have standards that shape not only what we develop, but how we go about doing so.
 >
-> **[0:21](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=21)** These standards serve as a baseline for decision-making, help reduce uncertainty, and ultimately save time, as expectations are clearly understood by all.
+> **[0:21](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=21)** These standards serve as a baseline for [[Decision-Making]], help reduce uncertainty, and ultimately save time, as expectations are clearly understood by all.
 >
 > **[0:33](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=33)** I once worked on a mobile application that downloaded video content for offline playback.
 >
@@ -197,13 +194,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=86)** And I'm sure you could think of many more scenarios.
 >
-> **[1:29](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=89)** But it's this type of thinking that is needed to make sure you consistently deliver products that will delight users.
+> **[1:29](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=89)** But it's this type of thinking that is needed to make sure you consistently deliver [[Microsoft Products|products]] that will delight users.
 >
 > **[1:37](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=97)** An added bonus is you get to keep your sanity, because you and your team have the knowledge about what you want good to look like.
 >
 > **[1:47](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=107)** But beyond technical standards, each team should have process standards.
 >
-> **[1:53](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=113)** If you're using Agile, how are the meetings structured?
+> **[1:53](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=113)** If you're using [[Agile Development|Agile]], how are the meetings structured?
 >
 > **[1:56](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980&t=116)** Who's in attendance?
 >
@@ -225,15 +222,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), teams (1), [[Decision-Making]] (1), mobile application (1), data (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Decision-Making]] (1), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Coding standards: Automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980)
+#### [Coding standards: Automation](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=41)** We want to let machines do as much of the dirty work as possible.
 >
-> **[0:46](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=46)** I love this diagram from Alex Hill where she shows the different places a comment could fall during a code review.
+> **[0:46](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=46)** I love this diagram from Alex Hill where she shows the different places a comment could fall during a [[Code Review]].
 >
 > **[0:53](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=53)** The items in the Low record-High conflict area is where automation is going to help us out.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=156)** It sets clear expectations for the author and it saves the reviewer from thinking about housekeeping task instead of big picture items.
 >
-> **[2:46](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=166)** Here's the template we use for our Android apps at work.
+> **[2:46](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=166)** Here's the template we use for our [[Android]] apps at work.
 >
 > **[2:50](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-automation?u=76281980&t=170)** Feel free to grab it and make changes that fit the needs of your team.
 >
@@ -307,19 +303,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), [[Code Review]] (2), next (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Android]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), just like (1), picture (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - code (1)
 
-#### Coding standards: Performing reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980)
+#### [Coding standards: Performing reviews](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=1)** - During a code review, we have the author and the reviewer.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=1)** - During a [[Code Review]], we have the author and the reviewer.
 >
 > **[0:05](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=5)** It can sometimes feel like a really dangerous game of ping pong as biting comments are sent back and forth about the code, but it doesn't have to be that way.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=127)** Or did you not check?
 >
-> **[2:16](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=136)** Our PM sent out the criteria in the Slack chat yesterday.
+> **[2:16](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=136)** Our PM sent out the criteria in the [[Slack]] chat yesterday.
 >
 > **[2:23](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/coding-standards-performing-reviews?u=76281980&t=143)** I guess you didn't see it.
 >
@@ -485,15 +480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), [[Slack]] (2), game (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Slack]] (2)
 > **Speakers:** - okay (3), - during (1), - what (1), - that (1), - much (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** slack (2)
 > **Best Practices:** best practice (1)
 > **Warnings:** keep in mind (1)
 
-#### System processes: Managing projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-managing-projects?u=76281980)
+#### [System processes: Managing projects](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-managing-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,14 +537,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), business (1), next (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - now (1)
 
-#### System processes: Testing software
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980)
+#### [System processes: Testing software](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=24)** But how can we strike a healthy balance between these two roles, and ensure that everyone on the team is communicating in the most effective way?
 >
-> **[0:33](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=33)** Well, let's take a look at two tools which help to promote effective communication during the testing phase of software development.
+> **[0:33](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=33)** Well, let's take a look at two tools which help to promote effective communication during the testing phase of [[Software Development]].
 >
 > **[0:42](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/system-processes-testing-software?u=76281980&t=42)** The first is creating an issue template for reporting bugs.
 >
@@ -632,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), data (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Software Development]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Ports:** :00 (1), :01 (1)
 > **Exercise Files:** template (2)
@@ -641,8 +633,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - your (1)
 
-#### People processes: Onboarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/people-processes-onboarding?u=76281980)
+#### [People processes: Onboarding](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/people-processes-onboarding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,7 +697,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), hr (1), teams (1)
 > **CLI Commands:** find (3), make (2)
 > **Prerequisites:** set up (3)
 > **Documentation:** the docs (1)
@@ -714,8 +704,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - onboarding (1)
 
-#### People processes: Mentoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/people-processes-mentoring?u=76281980)
+#### [People processes: Mentoring](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/people-processes-mentoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +776,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), leadership (1), management (1), hit (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - many (1)
 
@@ -796,8 +784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What makes a meeting effective
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980)
+#### [What makes a meeting effective](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,7 +808,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=55)** No doubt.
 >
-> **[0:57](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=57)** Yet, in the age of Agile, we rely on meetings to help us achieve our goals for each sprint.
+> **[0:57](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=57)** Yet, in the age of [[Agile Development|Agile]], we rely on meetings to help us achieve our goals for each sprint.
 >
 > **[1:03](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980&t=63)** So what can we do to make meetings work for us and not against us?
 >
@@ -879,22 +866,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), next (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** power (3)
 > **Definitions:** is an  (1), stands for (1), is a  (1)
 > **Speakers:** - collaboration (1)
 
-#### Agile team meetings: Iteration planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980)
+#### [Agile team meetings: Iteration planning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=1)** - Let's take a look at how we can apply the power principle to our iteration planning meetings, or IPMs.
 >
-> **[0:08](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=8)** Now this course is not focused on how to apply Agile in your company.
+> **[0:08](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=8)** Now this course is not focused on how to apply [[Agile Development|Agile]] in your company.
 >
-> **[0:12](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=12)** For more on that, I would recommend the [[Agile Software Development]] course available in our library.
+> **[0:12](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=12)** For more on that, I would recommend the [[[[Agile Software Development]]]] course available in our library.
 >
 > **[0:18](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-iteration-planning?u=76281980&t=18)** But just as a quick overview, with an Agile approach, you're going to have a product backlog.
 >
@@ -1016,15 +1002,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), [[Agile Development|Agile]] (3), product (3), next (2), [[Agile Software Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Agile Software Development]] (1)
 > **Speakers:** - okay (7), - let (2), - i (2), - wait (1), - now (1)
 > **Definitions:** known as (1), is an  (1), stands for (1), is a  (1)
 > **Env Vars:** ipm (3)
 > **CLI Commands:** make (1)
 > **Prerequisites:** getting started (1)
 
-#### Agile team meetings: Demo day
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980)
+#### [Agile team meetings: Demo day](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,7 +1029,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=37)** They help share knowledge in a more interactive way, and can often reveal hidden bugs.
 >
-> **[0:43](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=43)** They are a crucial piece of the Agile lifecycle.
+> **[0:43](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=43)** They are a crucial piece of the [[Agile Development|Agile]] lifecycle.
 >
 > **[0:47](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=47)** So, how can you make the most of this meeting?
 >
@@ -1062,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=88)** Developers can gain insight into what's being done, and avoid duplicating work.
 >
-> **[1:34](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=94)** In a previous company, I personally benefited from attending the IOS demo meetings, even though I worked on the Android team.
+> **[1:34](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=94)** In a previous company, I personally benefited from attending the IOS demo meetings, even though I worked on the [[Android]] team.
 >
 > **[1:42](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-demo-day?u=76281980&t=102)** We needed to tackle some of the same challenges and I was able to help keep both platforms in sync by doing so.
 >
@@ -1088,18 +1073,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Agile Development|Agile]] (2), teams (2), database (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Android]] (1)
 > **CLI Commands:** make (2), rails (1), find (1)
 > **Env Vars:** ipm (1), ios (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Agile team meetings: Retrospectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980)
+#### [Agile team meetings: Retrospectives](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=1)** - Many Agile teams aren't sure what to talk about during retrospectives if they have them at all.
+> **[0:01](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=1)** - Many [[Agile Development|Agile]] teams aren't sure what to talk about during retrospectives if they have them at all.
 >
 > **[0:07](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=7)** It may just be an around the room discussion of what went well and what didn't during the sprint.
 >
@@ -1123,7 +1107,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=93)** Like the sprint burndown, team velocity, and control charts.
 >
-> **[1:41](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=101)** Before the retrospective, the scrum master or project manager can pull this data and open the floor for team discussion.
+> **[1:41](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=101)** Before the retrospective, the [[Scrum]] master or project manager can pull this data and open the floor for team discussion.
 >
 > **[1:50](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/agile-team-meetings-retrospectives?u=76281980&t=110)** Having metrics is just one part of a successful retrospective, you also need to leave space for each team member to share their personal feedback about how the sprint went.
 >
@@ -1149,14 +1133,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), data (3), teams (1), management (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Scrum]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
-#### Making one-on-ones work
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/making-one-on-ones-work?u=76281980)
+#### [Making one-on-ones work](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/making-one-on-ones-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1215,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
@@ -1244,8 +1226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicating across cultures
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-cultures?u=76281980)
+#### [Communicating across cultures](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-cultures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,14 +1284,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (1), express (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (1), means that (1)
 > **Env Vars:** gif (1)
 > **Speakers:** - does (1)
 
-#### Communicating across time zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980)
+#### [Communicating across time zones](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,11 +1327,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=123)** Also, having a shared document allows everyone to feel involved in the meeting and makes it easier for them to follow along.
 >
-> **[2:11](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=131)** I typically use Google Docs or Confluence for this and find them both very effective for remote meetings.
+> **[2:11](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=131)** I typically use [[Google]] Docs or [[Confluence]] for this and find them both very effective for remote meetings.
 >
 > **[2:19](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=139)** And now let's talk about your asynchronous interactions.
 >
-> **[2:23](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=143)** Slack has become the de facto standard for having workplace conversations, whether co-located or distributed.
+> **[2:23](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=143)** [[Slack]] has become the de facto standard for having workplace conversations, whether co-located or distributed.
 >
 > **[2:30](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-time-zones?u=76281980&t=150)** Yet it's not ideal for following up on action items, improving your team's documentation, or following the flow of changes to features.
 >
@@ -1383,8 +1362,7 @@ created: 2026-05-02
 > **Tools:** slack (2), confluence (1)
 > **Speakers:** - when (1)
 
-#### When something goes wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/when-something-goes-wrong?u=76281980)
+#### [When something goes wrong](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/when-something-goes-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1514,7 +1492,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), data (3), next (3), application (1), database (1)
 > **Speakers:** - well (4), - okay (3), - the (2), - great (2), - despite (1)
 > **Ports:** :00 (2), :30 (1)
 > **CLI Commands:** find (1), make (1)
@@ -1525,8 +1502,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1510,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980&t=4)** We all come from various backgrounds and we think and process information differently.
 >
-> **[0:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980&t=10)** When it comes to the software industry, there can be additional challenges, as we need to work closely as a team to build high-quality products.
+> **[0:10](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980&t=10)** When it comes to the software industry, there can be additional challenges, as we need to work closely as a team to build high-quality [[Microsoft Products|products]].
 >
 > **[0:20](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980&t=20)** Yet it's totally worth it to spend the extra time putting in place processes and systems that will help us to reduce miscommunication.
 >
@@ -1558,7 +1534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - communicating (1)
 

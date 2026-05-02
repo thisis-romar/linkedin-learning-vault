@@ -81,26 +81,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of data in financial analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980)
+#### [The power of data in financial analysis](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=0)** - What did Enron, FTX, and Madoff Investment Securities have in common, other than all being famous financial fraud cases, of course?
 >
-> **[0:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=8)** The answer is that all three firms looked very questionable to anyone doing a careful financial analysis.
+> **[0:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=8)** The answer is that all three firms looked very questionable to anyone doing a careful [[Financial Analysis]].
 >
 > **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=15)** Using data in financial analytics is often underappreciated, and this is certainly true with people just getting started in the field.
 >
-> **[0:23](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=23)** I'm Dr. Michael McDonald, whatever your job or role, understanding how to apply data in financial planning and analysis can help make you more efficient and effective.
+> **[0:23](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=23)** I'm Dr. Michael McDonald, whatever your job or role, understanding how to apply data in [[Financial Planning]] and analysis can help make you more efficient and effective.
 >
 > **[0:32](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=32)** In this course, you'll learn how to apply a variety of database techniques to all types of financial analytics work.
 >
-> **[0:39](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=39)** Join me here on LinkedIn Learning and discover how to use data to make your financial analytics more powerful and meaningful.
+> **[0:39](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980&t=39)** Join me here on [[LinkedIn]] Learning and discover how to use data to make your financial analytics more powerful and meaningful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Analytics]] (3), [[Financial Analysis]] (1), [[Financial Planning]] (1), database (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Financial Planning]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ftx (1)
 > **Prerequisites:** getting started (1)
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data and business
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980)
+#### [Data and business](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=0)** - [Instructor] All firms have to do some level of financial forecasting, and there's two ways to do financial forecasting, at least on a basic level.
+> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=0)** - [Instructor] All firms have to do some level of [[Financial Forecasting]], and there's two ways to do financial forecasting, at least on a basic level.
 >
 > **[0:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=8)** Option number one is to use some level of past experience or intuition, guessing, gut feeling, whatever you want to call it.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=31)** Other people will say, "I rely on data because it gives me something other than my gut, something objective to go off of."
 >
-> **[0:39](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=39)** In fact, data is the foundation for what we call business intelligence, and it's crucial then to financial analysis.
+> **[0:39](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=39)** In fact, data is the foundation for what we call [[Business Intelligence (BI)|business intelligence]], and it's crucial then to [[Financial Analysis]].
 >
 > **[0:48](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=48)** Now, the most common method of financial forecasting is what's referred to as the percent of sales method.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=90)** The plowback ratio is the percentage of net income that's reinvested by the firm as retained earnings.
 >
-> **[1:37](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=97)** That can flow into our compounded annual growth rate, which in turn flows into our cost of goods sold, our sales general administrative expenses, ultimately taxes, and depreciation, amortization, and a variety of other items on the financial statements.
+> **[1:37](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=97)** That can flow into our compounded annual growth rate, which in turn flows into our cost of goods sold, our sales general administrative expenses, ultimately taxes, and depreciation, amortization, and a variety of other items on the [[Financial Statements]].
 >
 > **[1:55](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=115)** So that plowback ratio is a critical driving component in determining the growth rate of future sales.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=153)** In contrast, something like our capital expenses, that might vary with sales, but it's probably going to be more driven by the needs of the firm.
 >
-> **[2:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=163)** In general, when we're doing this type of forecasting work, the key question is, well, how do we get that CAGR, the compounded annual growth rate?
+> **[2:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=163)** In general, when we're doing this type of [[Forecasting]] work, the key question is, well, how do we get that CAGR, the compounded annual growth rate?
 >
 > **[2:52](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980&t=172)** We know that it comes, at least part of it comes from the plowback ratio, but what's going to drive that more generally?
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Financial Forecasting]] (4), [[Business Intelligence (BI)|Business intelligence]] (1), [[Financial Analysis]] (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Forecasting]] (4), [[Business Intelligence (BI)|Business intelligence]] (1), [[Financial Analysis]] (1), [[Financial Statements]] (1), [[Forecasting]] (1)
 > **Env Vars:** cagr (3), cogs (1)
 > **Definitions:** is a  (2), essentially is (1), means that (1)
 > **Analogies:** for example (2), picture (1), for instance (1)
@@ -214,12 +212,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### Conventional financial analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980)
+#### [Conventional financial analysis](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=0)** - [Instructor] In general, there's two types of forecasts that are done in a financial planning and analysis or FP&A type role.
+> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=0)** - [Instructor] In general, there's two types of forecasts that are done in a [[Financial Planning]] and analysis or FP&A type role.
 >
 > **[0:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=7)** The first type is a longer-term, big-picture type forecast, oftentimes over a multi-year timeframe.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=31)** But let's take a look at one of these longer-term forecasts and how we might generate the numbers behind it.
 >
-> **[0:37](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=37)** I'm in the 01_02_Begin Excel file.
+> **[0:37](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=37)** I'm in the 01_02_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=42)** Now, what you'll see here is we've got a simplified income statement and balance sheet for a hypothetical firm.
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=187)** This time, we're inferring that operating expenses are 10% of total sales.
 >
-> **[3:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=194)** So assuming that value holds, we can apply that right through the rest of our sample period.
+> **[3:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=194)** So assuming that value holds, we can apply that right through the [[Representational State Transfer (REST)|rest]] of our sample period.
 >
 > **[3:21](https://www.linkedin.com/learning/using-data-in-financial-analysis/conventional-financial-analysis?u=76281980&t=201)** And the same thing is true with depreciation and then our tax rate.
 >
@@ -357,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), business (3), data (2), [[Representational State Transfer (REST)|Rest]] (2), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Financial Planning]] (1)
 > **Definitions:** is a  (3), in other words (2)
 > **Env Vars:** cogs (2), cagr (1)
 > **CLI Commands:** make (2)
@@ -365,8 +362,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basics of financial regression analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/basics-of-financial-regression-analysis?u=76281980)
+#### [Basics of financial regression analysis](https://www.linkedin.com/learning/using-data-in-financial-analysis/basics-of-financial-regression-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,15 +450,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (6), power (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2), is called (1), refers to (1), is an  (1)
 > **Analogies:** for example (2), picture (2)
 > **Versions:** 1.57 (3)
 > **Speakers:** - [instructor] (1)
 
-#### Predict values with regression analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/predict-values-with-regression-analysis?u=76281980)
+#### [Predict values with regression analysis](https://www.linkedin.com/learning/using-data-in-financial-analysis/predict-values-with-regression-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,21 +514,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.57 (2), 5.436 (1), 30.3 (1), 0.3030 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Doing a forecast in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980)
+#### [Doing a forecast in Excel](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=0)** - [Narrator] We've talked a lot about using regressions to make predictions, but, of course, predictions are nothing new in business.
 >
-> **[0:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=7)** So I want to spend a few minutes talking about conventional financial forecasts and how those are done, just so you have a sense for how that compares to newer methods that use regressions in big data.
+> **[0:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=7)** So I want to spend a few minutes talking about conventional financial forecasts and how those are done, just so you have a sense for how that compares to newer methods that use regressions in [[Big Data]].
 >
 > **[0:19](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=19)** In particular, the percent of sales method is probably the most common method in business for making forecasts.
 >
@@ -546,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=46)** For a long-term forecast, it's going to be built around what we call a CAGR, or compounded annual growth rate.
 >
-> **[0:53](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=53)** This is the traditional method that you'll see at most companies out there, but regression analysis is starting to introduce new ideas into forecasting.
+> **[0:53](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=53)** This is the traditional method that you'll see at most companies out there, but regression analysis is starting to introduce new ideas into [[Forecasting]].
 >
 > **[1:05](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=65)** Now, within income statements, there's often a need for forecasts.
 >
@@ -558,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=99)** This actually plays a critical role for most companies.
 >
-> **[1:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=102)** Firms like Google, for example, that don't pay a dividend, don't do that because they believe that their plowback ratio benefit shareholders.
+> **[1:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=102)** Firms like [[Google]], for example, that don't pay a dividend, don't do that because they believe that their plowback ratio benefit shareholders.
 >
 > **[1:52](https://www.linkedin.com/learning/using-data-in-financial-analysis/doing-a-forecast-in-excel?u=76281980&t=112)** By having a very high plowback ratio and putting all of their earnings back into the company, Google says that they can continue to grow sales in the future.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Forecasting]] (2), [[Google]] (2), [[Big Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Google]] (2), [[Big Data]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** cagr (2)
@@ -605,14 +597,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial analysis with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980)
+#### [Financial analysis with data](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980&t=0)** - [Instructor] Now before we get into really how you actually start building Excel models, let's take a look at what a sophisticated financial forecasting example might look like in Excel when you finished.
+> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980&t=0)** - [Instructor] Now before we get into really how you actually start building [[Microsoft Excel|Excel]] models, let's take a look at what a sophisticated [[Financial Forecasting]] example might look like in Excel when you finished.
 >
-> **[0:12](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980&t=12)** So what you see on the screen in front of you is a model I put together that is based on a set of different products with unit volumes and sales across four different product categories.
+> **[0:12](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980&t=12)** So what you see on the screen in front of you is a model I put together that is based on a set of different [[Microsoft Products|products]] with unit volumes and sales across four different product categories.
 >
 > **[0:26](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980&t=26)** And what we've got here is the product data for sales ranging over roughly a 20-year timeframe, right?
 >
@@ -672,25 +663,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (5), [[Microsoft Excel|Excel]] (2), [[Financial Forecasting]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Forecasting]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cpi (1), cagr (1)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tying data to financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980)
+#### [Tying data to financial statements](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=0)** - [Instructor] In addition to long-term forecasts, in an FP&A, or financial planning and analysis type role, you'd often be asked to go through and build out a budget model showing what, as an example, daily, weekly, or monthly cash flows and sales might look like.
+> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=0)** - [Instructor] In addition to long-term forecasts, in an FP&A, or [[Financial Planning]] and analysis type role, you'd often be asked to go through and build out a budget model showing what, as an example, daily, weekly, or monthly cash flows and sales might look like.
 >
 > **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=15)** Monthly is probably the most common that you'd run into.
 >
 > **[0:19](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=19)** So let's take a look at an example.
 >
-> **[0:21](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=21)** I'm in the 02_02_Begin Excel file.
+> **[0:21](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=21)** I'm in the 02_02_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:25](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=25)** Now what you see here is a hypothetical set of projections for a hypothetical startup that I've put together, and we've got data running from July, 2023 through the end of the year and then into 2024.
 >
@@ -748,9 +738,9 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=211)** Now we've got our various expenses that we might put together.
 >
-> **[3:33](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=213)** And again, remember this is supposed to be for a hypothetical startup, so we've got our company set up costs, product development costs, and you'll see those are ongoing over time.
+> **[3:33](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=213)** And again, remember this is supposed to be for a hypothetical startup, so we've got our company set up costs, [[Product Development]] costs, and you'll see those are ongoing over time.
 >
-> **[3:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=222)** Our server costs presumably through some sort of a cloud server like Azure or something similar.
+> **[3:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=222)** Our server costs presumably through some sort of a cloud server like [[Microsoft Azure|Azure]] or something similar.
 >
 > **[3:48](https://www.linkedin.com/learning/using-data-in-financial-analysis/tying-data-to-financial-statements?u=76281980&t=228)** We've got our marketing spend probably through social media ads, things like that, supplies.
 >
@@ -804,15 +794,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), business (2), [[Financial Planning]] (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Financial Planning]] (1), [[Product Development]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** cagr (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Financial ratios with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980)
+#### [Financial ratios with data](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=7)** Let's take a look at how we might start to do this in practice.
 >
-> **[0:10](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=10)** I'm in the 0203 begin Excel file.
+> **[0:10](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=10)** I'm in the 0203 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=14)** Now, what you'll see here is I've pulled a snippet from our long-term forecast that we looked at previously, and we had the income statement with sales and a CAGR, and we have net income and down below we have various balance sheet items, right?
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=248)** Big firms tend to have better ROI, for example, better return on investment.
 >
-> **[4:13](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=253)** Why? Well, because they're focused on FP and A, financial planning and analysis, they tend to have smaller days payable outstanding.
+> **[4:13](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=253)** Why? Well, because they're focused on FP and A, [[Financial Planning]] and analysis, they tend to have smaller days payable outstanding.
 >
 > **[4:22](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-ratios-with-data?u=76281980&t=262)** They tend to have quicker AR turns and inventory turns.
 >
@@ -900,23 +889,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), business (1), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Planning]] (1)
 > **Env Vars:** roi (4), cagr (1), ccc (1)
 > **Analogies:** for example (3), similar to (1), for instance (1), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Benchmarking the competition
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980)
+#### [Benchmarking the competition](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=0)** - [Lecturer] When it comes to gathering data for financial analysis projects, there's a variety of different options that are available.
+> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=0)** - [Lecturer] When it comes to gathering data for [[Financial Analysis]] projects, there's a variety of different options that are available.
 >
 > **[0:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=7)** Let's take a look at what some of this data looks like and how we might be able to go through and get data for any financial analysis project that we're doing.
 >
-> **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=15)** I'm in the 02_04_Begin Excel file.
+> **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=15)** I'm in the 02_04_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:20](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=20)** Now what I've done is go through and gather data on different financial ratios for a variety of companies, and I did this on a quarter by quarter basis for all of the firms in the S&P 500.
 >
@@ -964,7 +952,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=230)** If you come over under the Insert tab and click get Excel add-ins right here, you'll be able to pull up and search for a variety of different Excel add-ins, and there are hundreds of these that are available doing all sorts of things.
 >
-> **[4:05](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=245)** Everything from stock prices as an example to additional forecasting options in Excel, additional formulas that might be specific to your particular needs.
+> **[4:05](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=245)** Everything from stock prices as an example to additional [[Forecasting]] options in Excel, additional formulas that might be specific to your particular needs.
 >
 > **[4:17](https://www.linkedin.com/learning/using-data-in-financial-analysis/benchmarking-the-competition?u=76281980&t=257)** As we see, there are a variety of different add-ins for just about any type of Excel work you might want to do.
 >
@@ -1016,7 +1004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Excel|Excel]] (10), [[Financial Analysis]] (2), [[Search]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Financial Analysis]] (2), [[Forecasting]] (1)
 > **Env Vars:** fred (10), sic (6), naics (1), edgar (1)
 > **Versions:** 60.90 (1), 21.4 (1), 0.214 (1), 4.6 (1)
 > **Analogies:** for example (2), picture (1)
@@ -1025,8 +1013,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Trend analysis in ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980)
+#### [Trend analysis in ratios](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,13 +1025,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=15)** Let's take a look at how we might think about these types of comparisons.
 >
-> **[0:20](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=20)** I'm in the 0205 begin Excel file.
+> **[0:20](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=20)** I'm in the 0205 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:24](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=24)** Now what we have here is a time series of different financial ratios from accounts receivable turns to return on investment, the reinvestment ratio, et cetera.
 >
 > **[0:37](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=37)** And we've done this for the period from 1990 through 2017.
 >
-> **[0:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=43)** And you'll see that I've pulled kind of summary statistics based on simple means at the bottom here as well.
+> **[0:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=43)** And you'll see that I've pulled kind of summary [[Statistics]] based on simple means at the bottom here as well.
 >
 > **[0:51](https://www.linkedin.com/learning/using-data-in-financial-analysis/trend-analysis-in-ratios?u=76281980&t=51)** Now, what I'd probably want to do is go through and understand how these trends have evolved over time.
 >
@@ -1128,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), in other words (1), is an  (1)
@@ -1140,8 +1127,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decide on a finance question
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980)
+#### [Decide on a finance question](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=11)** The reality is that some finance questions can't be answered with available data.
 >
-> **[0:17](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=17)** Not that they couldn't be answered with any data, but the reality is we may or may not have the data that we need, and this is a big problem that comes up in financial analysis all the time.
+> **[0:17](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=17)** Not that they couldn't be answered with any data, but the reality is we may or may not have the data that we need, and this is a big problem that comes up in [[Financial Analysis]] all the time.
 >
 > **[0:27](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=27)** If we don't have the right data, we're not going to be able to effectively answer the question.
 >
@@ -1177,17 +1163,16 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=92)** Is that even feasible or possible?
 >
-> **[1:34](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=94)** These are all questions we have to consider as you're doing any type of financial planning and analysis project.
+> **[1:34](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980&t=94)** These are all questions we have to consider as you're doing any type of [[Financial Planning]] and analysis project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Financial Analysis]] (1), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Financial Planning]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gather financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980)
+#### [Gather financial data](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,11 +1208,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=99)** Now, there's many, many different sources of data.
 >
-> **[1:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=102)** From the government, some of my favorites are the Bureau of Labor Statistics, the Federal Reserve, and the U.S. Census Bureau.
+> **[1:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=102)** From the government, some of my favorites are the Bureau of Labor [[Statistics]], the Federal Reserve, and the U.S. Census Bureau.
 >
 > **[1:48](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=108)** They're great for macroeconomic kind of big picture data, helping us to understand the demand environment we're operating in.
 >
-> **[1:56](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=116)** Google Trends is great for survey data, and then there's a variety of other micro data sources that we can gather data on, either related to our firm or to competing firms.
+> **[1:56](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=116)** [[Google]] Trends is great for survey data, and then there's a variety of other micro data sources that we can gather data on, either related to our firm or to competing firms.
 >
 > **[2:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=128)** For example, we can get data from Facebook or from Twitter now called X, from a variety of different sources, from threads, potentially, from many different social media platforms.
 >
@@ -1237,7 +1222,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=149)** The reality though, is if you need specific data, in some cases buying it may be the only option.
 >
-> **[2:35](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=155)** Now, there is financial data available online, but to really make full use of it, you might require a Python script.
+> **[2:35](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=155)** Now, there is [[Financial Data]] available online, but to really make full use of it, you might require a [[Python (Programming Language)|Python]] script.
 >
 > **[2:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=163)** Python itself is free, but it's a coding language, so you'd have to do a little bit of coding to do this.
 >
@@ -1247,7 +1232,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=177)** In those kinds of situations if you don't have any experience with it, buying this type of data is frequently the most realistic option.
 >
-> **[3:06](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=186)** When it comes to gathering data for free, though, what I recommend is start by looking at the data sets that you have available in-house, tap customer databases, and other in-house data sources to put together a holistic and valuable data set.
+> **[3:06](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=186)** When it comes to gathering data for free, though, what I recommend is start by looking at the data sets that you have available in-house, tap customer [[Databases]], and other in-house data sources to put together a holistic and valuable data set.
 >
 > **[3:22](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=202)** You're the only person that would have access to that proprietary info.
 >
@@ -1277,7 +1262,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=280)** So you've got to be aware of some of those issues.
 >
-> **[4:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=282)** But big picture, what you need to ask yourself anytime you're getting survey data is, if I'm trying to figure out how to sell to another group of customers, are the customers that I'm surveying representative of the rest of the world?
+> **[4:42](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=282)** But big picture, what you need to ask yourself anytime you're getting survey data is, if I'm trying to figure out how to sell to another group of customers, are the customers that I'm surveying representative of the [[Representational State Transfer (REST)|rest]] of the world?
 >
 > **[5:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/gather-financial-data?u=76281980&t=300)** Are my customers similar to the rest of the world?
 >
@@ -1287,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (43), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Statistics]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Statistics]] (1), [[Google]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (2), python (2), find (1)
 > **Analogies:** picture (2), for example (2), similar to (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1295,8 +1280,7 @@ created: 2026-05-02
 > **Env Vars:** fred (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980)
+#### [Clean financial data](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1378,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=274)** In other words, maybe we have data in here that is anomalous, it was put in incorrectly, or there was an error in the database.
 >
-> **[4:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=283)** To pick up on that sort of thing, it's good to review the univariate statistics.
+> **[4:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=283)** To pick up on that sort of thing, it's good to review the univariate [[Statistics]].
 >
 > **[4:47](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=287)** That is, look at means, medians, modes, your standard deviation, things of that nature.
 >
@@ -1404,7 +1388,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=299)** Look at the 95th and 99th percentile and the 5th percentile and 1st percentile.
 >
-> **[5:05](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=305)** Are those results so dramatically different than the rest of the sample, that they could be skewing your averages up or down?
+> **[5:05](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=305)** Are those results so dramatically different than the [[Representational State Transfer (REST)|rest]] of the sample, that they could be skewing your averages up or down?
 >
 > **[5:13](https://www.linkedin.com/learning/using-data-in-financial-analysis/clean-financial-data?u=76281980&t=313)** Maybe. If so, you want to decide how to deal with that.
 >
@@ -1424,7 +1408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), product (3), database (3), feature (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sic (4), naics (4), gdp (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (3)
@@ -1432,20 +1416,19 @@ created: 2026-05-02
 > **Warnings:** be aware (2)
 > **Speakers:** - [instructor] (1)
 
-#### Regression analysis in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980)
+#### [Regression analysis in finance](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=0)** - [Instructor] Now, we've talked several times about regression analysis already.
 >
-> **[0:03](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=3)** Regression analysis is a powerful tool for financial forecasting as I've said.
+> **[0:03](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=3)** Regression analysis is a powerful tool for [[Financial Forecasting]] as I've said.
 >
 > **[0:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=8)** Basically, in a nutshell, a regression is an attempt to explain the variation in one variable, what we refer to as the dependent variable, or the Y variable, using the variation in one or more independent variables, what we call the X variables.
 >
 > **[0:28](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=28)** If those X variables or independent variables sufficiently explain the changes in the Y variable, then we can use the model for predictive purposes.
 >
-> **[0:40](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=40)** And the nice thing is you can do all of this through Excel.
+> **[0:40](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=40)** And the nice thing is you can do all of this through [[Microsoft Excel|Excel]].
 >
 > **[0:46](https://www.linkedin.com/learning/using-data-in-financial-analysis/regression-analysis-in-finance?u=76281980&t=46)** Now, in order to do regression in Excel, you have to make sure you have the Analysis ToolPak.
 >
@@ -1519,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (5), [[Financial Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Financial Forecasting]] (1)
 > **Versions:** 0.63 (2), 0.71 (2), 0.03 (2)
 > **UI Navigation:** click on (2), scroll down (2), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -1528,8 +1511,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Regressions for forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980)
+#### [Regressions for forecasting](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,13 +1521,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=15)** For example, how would the profit for our firm be impacted if marketing spend is doubled?
 >
-> **[0:22](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=22)** That is a type of question we can answer with a regression, but you can also use regressions in a variety of financial planning and analysis tasks.
+> **[0:22](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=22)** That is a type of question we can answer with a regression, but you can also use regressions in a variety of [[Financial Planning]] and analysis tasks.
 >
 > **[0:32](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=32)** For example, in audit work, the big four accounting firms use regressions to help in doing an audit to determine expected sales.
 >
 > **[0:43](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=43)** If their regression output indicates that sales should be, say, 1 billion, and instead, sales are 1.7 billion, well, if that's a large deviation from historicals, that might indicate an audit risk and something that requires more careful checking.
 >
-> **[1:03](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=63)** So we can use regressions for very practical purposes, both for forecasting and for doing financial controllership work.
+> **[1:03](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=63)** So we can use regressions for very practical purposes, both for [[Forecasting]] and for doing financial controllership work.
 >
 > **[1:13](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=73)** Now, when it comes to regressions, this isn't just a set it and forget it type of exercise, right?
 >
@@ -1557,13 +1539,13 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=114)** Now, doing this type of forecasting doesn't have to be hard.
 >
-> **[1:59](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=119)** Sure, you can use advanced analytical tools, like SAS and Stata and R and Python, and I use those frequently.
+> **[1:59](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=119)** Sure, you can use advanced analytical tools, like SAS and [[Stata]] and R and [[Python (Programming Language)|Python]], and I use those frequently.
 >
 > **[2:07](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=127)** There's nothing wrong with them.
 >
 > **[2:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=128)** They're great when it comes to more complex datasets, but you don't need to start there.
 >
-> **[2:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=134)** Start with Excel.
+> **[2:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=134)** Start with [[Microsoft Excel|Excel]].
 >
 > **[2:16](https://www.linkedin.com/learning/using-data-in-financial-analysis/regressions-for-forecasting?u=76281980&t=136)** Start by doing a simple regression analysis, like we did in the last video.
 >
@@ -1633,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (4), [[Microsoft Excel|Excel]] (3), data (2), [[Financial Planning]] (1), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (4), [[Microsoft Excel|Excel]] (3), [[Financial Planning]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1)
 > **Versions:** 1.8 (2), 1.7 (1), 1.4 (1), 2.4 (1), 2.2 (1)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** for example (2), just like (1)
@@ -1647,16 +1629,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What do the results mean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980)
+#### [What do the results mean?](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=0)** - [Instructor] When you're doing financial analysis, of course it's important to be able to run a regression, but it's equally important to understand what that regression is telling us and how to interpret the results.
+> **[0:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=0)** - [Instructor] When you're doing [[Financial Analysis]], of course it's important to be able to run a regression, but it's equally important to understand what that regression is telling us and how to interpret the results.
 >
 > **[0:10](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=10)** So let's take a look at an example.
 >
-> **[0:12](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=12)** I'm in the 04_01_Begin Excel file.
+> **[0:12](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=12)** I'm in the 04_01_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=15)** Now what we have here is a fairly large data set, at least for Excel.
 >
@@ -1710,7 +1691,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=186)** That's outside the scope of what Excel can do.
 >
-> **[3:10](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=190)** But if you want to use more advanced tools, I recommend SAS or Stata, and I have a couple of good courses here on LinkedIn Learning that can help you get started with that.
+> **[3:10](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=190)** But if you want to use more advanced tools, I recommend SAS or [[Stata]], and I have a couple of good courses here on [[LinkedIn]] Learning that can help you get started with that.
 >
 > **[3:20](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=200)** In any event, so we're going to take all of our other columns from column B through column M, and we're going to use those as our Xs.
 >
@@ -1724,7 +1705,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=253)** And there we are.
 >
-> **[4:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=254)** Now let's zoom in here and we can see what the results look like.
+> **[4:14](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=254)** Now let's [[Zoom]] in here and we can see what the results look like.
 >
 > **[4:22](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980&t=262)** So we have our regression output, and I'll widen out this column, and I'm going to make this first set of numbers all, let's say, two decimals, maybe three, something like that.
 >
@@ -1788,7 +1769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), [[Financial Analysis]] (2), hit (1), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Financial Analysis]] (2), [[Stata]] (1), [[LinkedIn]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (8)
 > **Versions:** 45.2 (1), 0.3 (1), 0.82 (1), 2.91 (1)
 > **Analogies:** for example (2), kind of like (1)
@@ -1797,8 +1778,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Confidence intervals around the result
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980)
+#### [Confidence intervals around the result](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,7 +1786,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=9)** So how can we do this?
 >
-> **[0:11](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=11)** Let me show you how this works in Excel.
+> **[0:11](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=11)** Let me show you how this works in [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=13)** I'm in the 04_02_Begin Excel file.
 >
@@ -1916,7 +1896,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=319)** We often talk about regressions being kind of an academic tool, but in reality, nothing could be further from the truth.
 >
-> **[5:26](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=326)** We can use regression analysis like this for practical forecasting where otherwise, we'd be relying on basically some combination of guesswork and simple CAGR analysis.
+> **[5:26](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=326)** We can use regression analysis like this for practical [[Forecasting]] where otherwise, we'd be relying on basically some combination of guesswork and simple CAGR analysis.
 >
 > **[5:38](https://www.linkedin.com/learning/using-data-in-financial-analysis/confidence-intervals-around-the-result?u=76281980&t=338)** So this is a great example of where we can go through and use Excel combined with the power of regression analysis for a quick and effective sales forecast.
 >
@@ -1926,7 +1906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[Microsoft Excel|Excel]] (3), [[Forecasting]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** xyz (1), cagr (1)
@@ -1934,8 +1914,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stress testing the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980)
+#### [Stress testing the results](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,7 +1922,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=17)** Let's take a look at an example.
 >
-> **[0:18](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=18)** I'm in the 04_03_Begin Excel file.
+> **[0:18](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=18)** I'm in the 04_03_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:23](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=23)** Now, what we've done here is go through and run our regression based on a set of data for various firms across many years and over many quarters.
 >
@@ -2001,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=236)** That is, we are 95% confident that the coefficient, the true value of that coefficient, the true impact of assets on sales is somewhere between 0.295 and 0.299.
 >
-> **[4:12](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=252)** Now, that doesn't sound like a very big range, but it all comes out of this financial data that we based our initial regression on, right?
+> **[4:12](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=252)** Now, that doesn't sound like a very big range, but it all comes out of this [[Financial Data]] that we based our initial regression on, right?
 >
 > **[4:22](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=262)** The more variation there was in this data as it relates to sales versus assets, the wider that range would be.
 >
@@ -2013,7 +1992,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=298)** And you can tell a lot of different stories about why there might be such a large degree of variation in there, right?
 >
-> **[5:03](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=303)** Some firms are doing R&D and they've got consistent products kind of being produced from that R&D, right?
+> **[5:03](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=303)** Some firms are doing R&D and they've got consistent [[Microsoft Products|products]] kind of being produced from that R&D, right?
 >
 > **[5:11](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results?u=76281980&t=311)** Other firms, they might be early stage companies, they might spend a lot on R&D, but it might not necessarily generate sales for years to come.
 >
@@ -2067,7 +2046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.297 (3), 0.295 (3), 0.299 (3), 1042.94 (2), 751.53 (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
@@ -2079,8 +2058,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stress testing the results
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980)
+#### [Stress testing the results](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,7 +2066,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=2)** We've talked about conventional financial analytics and the power it offers, as well as the limitations it has.
 >
-> **[0:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=8)** We then talked about the value in using data to enhance financial analysis and how you can use techniques like regression analysis as part of financial analysis work.
+> **[0:08](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=8)** We then talked about the value in using data to enhance [[Financial Analysis]] and how you can use techniques like regression analysis as part of financial analysis work.
 >
 > **[0:18](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=18)** Of course, using data in financial work is a process, as we've learned.
 >
@@ -2100,13 +2078,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=50)** Take the opportunity to talk to colleagues about your work and get their feedback.
 >
-> **[0:54](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=54)** And of course, keep an eye out for more great courses right here on LinkedIn Learning.
+> **[0:54](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=54)** And of course, keep an eye out for more great courses right here on [[LinkedIn]] Learning.
 >
 > **[1:00](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980&t=60)** I'm Professor Michael McDonald and I'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Financial Analysis]] (2), [[Analytics]] (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (2), [[LinkedIn]] (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)

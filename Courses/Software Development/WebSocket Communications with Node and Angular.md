@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are WebSockets?
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980)
+#### [What are WebSockets?](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=0)** - [Patrick Siewe] WebSockets is the stuff of magic.
+> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=0)** - [Patrick Siewe] [[WebSocket|WebSockets]] is the stuff of magic.
 >
 > **[0:02](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=2)** Remember, the first time you came across a website that updates in real time.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=26)** As everything around us gets ever more connected and interactive, these skills are bound to become more valuable, more marketable.
 >
-> **[0:34](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=34)** This course will take you through setting up a WebSocket server from scratch in NodeJS.
+> **[0:34](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=34)** This course will take you through setting up a [[WebSocket]] server from scratch in NodeJS.
 >
 > **[0:38](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980&t=38)** We'll learn how to test a server, when there is Node UI to speak of.
 >
@@ -119,20 +118,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket|Websockets]] (2), [[WebSocket]] (2), game (1), node (1), application (1)
+> **Frameworks & Libraries:** [[WebSocket|Websockets]] (2), [[WebSocket]] (2)
 > **CLI Commands:** node (1)
 > **Speakers:** - [patrick (1)
 
-#### Preview the chat app we will build together
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980)
+#### [Preview the chat app we will build together](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=0)** - [Instructor] We'll spend the course learning all things WebSockets by building an end-to-end solution for live chatting.
+> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=0)** - [Instructor] We'll spend the course learning all things [[WebSocket|WebSockets]] by building an end-to-end solution for live chatting.
 >
 > **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=6)** Let me show you what the final product will look like from the browser's perspective then touch just a bit on the making of this sausage.
 >
-> **[0:14](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=14)** Here, we have our final application open in two browser windows.
+> **[0:14](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=14)** Here, we have our final application open in two browser [[Windows]].
 >
 > **[0:18](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=18)** The front end is built using the angler framework with UI components from the angle and material library.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=97)** So a quick look through the readme will give you a very good sense of what to expect from this course.
 >
-> **[1:44](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=104)** This application is organized in a Monorepo meaning a single git repository hosting several applications.
+> **[1:44](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=104)** This application is organized in a Monorepo meaning a single [[Git]] repository hosting several applications.
 >
 > **[1:51](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/preview-the-chat-app-we-will-build-together?u=76281980&t=111)** These are in the packages directory, where you can see that we actually have several packages.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket|Websockets]] (3), application (3), product (2), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[WebSocket|Websockets]] (3), [[Windows]] (1), [[Git]] (1)
 > **Documentation:** the readme (3)
 > **CLI Commands:** make (1), git (1)
 > **Definitions:** is a  (2)
@@ -186,8 +184,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,15 +200,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=26)** Number two, TypeScript.
 >
-> **[0:29](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=29)** You should be comfortable working with TypeScript and at least vaguely familiar with object-oriented programming.
+> **[0:29](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=29)** You should be comfortable working with TypeScript and at least vaguely familiar with [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:35](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=35)** In the course's Read Me file, you'll find a link to a good TypeScript introductory course, should you need one.
 >
-> **[0:41](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=41)** Number three, Node.js.
+> **[0:41](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=41)** Number three, [[Node.js]].
 >
-> **[0:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=45)** We use a Node.js server to run the WebSocket backend, so some familiarity with Node is a plus, but not necessary.
+> **[0:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=45)** We use a Node.js server to run the [[WebSocket]] backend, so some familiarity with Node is a plus, but not necessary.
 >
-> **[0:53](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=53)** Number four, Angular.
+> **[0:53](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=53)** Number four, [[Angular]].
 >
 > **[0:56](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=56)** I use the Angular library to build the frontend, so knowledge of Angular is helpful.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=65)** Taking 15 minutes to read through the Angular Essential section of the What is Angular page before starting Chapter Three would come in handy.
 >
-> **[1:15](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=75)** Number five, Git.
+> **[1:15](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=75)** Number five, [[Git]].
 >
 > **[1:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-you-should-know?u=76281980&t=77)** Basic knowledge of Git is necessary to clone the report to your machine and to load the state of our build at different points in the course, since every lesson has a checkpoint in the Git history with a corresponding Git tag.
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), [[Git]] (4), [[Programming]] (2), [[Node.js]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Angular]] (5), [[Git]] (4), [[Node.js]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[WebSocket]] (1)
 > **CLI Commands:** git (4), node (3), find (1)
 > **File Paths:** node.js (2)
 > **Definitions:** is a  (1)
@@ -240,8 +237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to clone the code at any stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980)
+#### [How to clone the code at any stage](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=6)** Starting from the same state we'll make it easier for you to code along.
 >
-> **[0:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=10)** To make this simple for you we'll use git tags.
+> **[0:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=10)** To make this simple for you we'll use [[Git]] tags.
 >
 > **[0:15](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=15)** A git tag is a reference to a particular commit within the git history.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=174)** Let's get back to the final state of the application by checking out the main branch.
 >
-> **[3:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=183)** The next thing that is important for you to do before you start development is to run NPM install.
+> **[3:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=183)** The next thing that is important for you to do before you start development is to run [[npm]] install.
 >
 > **[3:09](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980&t=189)** Once you complete this install you'll be ready to start working.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (9), application (3), prompt (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (9), [[npm]] (1)
 > **CLI Commands:** git (9), make (4), find (1), npm (1)
 > **UI Navigation:** open the (2), select the (1), dropdown (1), go to (1)
 > **Env Vars:** url (2), ide (1), npm (1)
@@ -324,8 +320,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** clone the repo (1)
 
-#### Create shared datatypes library
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980)
+#### [Create shared datatypes library](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,13 +356,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=72)** Nx has created all the files that we need to have our library running.
 >
-> **[1:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=77)** Tsconfigbase.json has been updated.
+> **[1:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=77)** Tsconfigbase.[[JSON]] has been updated.
 >
 > **[1:21](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=81)** Let's go take a quick look at that first.
 >
 > **[1:24](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=84)** Whenever a library is added, Nx will a path to the library's entry point in the path's object.
 >
-> **[1:32](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=92)** Our library's package name is websocket/types.
+> **[1:32](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=92)** Our library's package name is [[WebSocket]]/types.
 >
 > **[1:35](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-shared-datatypes-library?u=76281980&t=95)** So any application that is imported an object from our library can just import it from websocket/types.
 >
@@ -417,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (2), data (1), [[JSON]] (1), application (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[JSON]] (1)
 > **CLI Commands:** make (6)
 > **File Paths:** tsconfigbase.json (1), index.ts (1)
 > **Env Vars:** readme (1)
@@ -426,8 +421,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for instance (1)
 
-#### Create the Node.js service
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980)
+#### [Create the Node.js service](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=11)** We need a backend service.
 >
-> **[0:13](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=13)** It'll expose a WebSocket end point, manage client connections, and relay chat messages between users.
+> **[0:13](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=13)** It'll expose a [[WebSocket]] end point, manage client connections, and relay chat messages between users.
 >
 > **[0:18](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=18)** Let's create a bare bones no GS application for this task.
 >
@@ -451,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=58)** Let's go take a look at what was created.
 >
-> **[1:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=64)** Every package you create with annex has a project.JSON file.
+> **[1:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=64)** Every package you create with annex has a project.[[JSON]] file.
 >
 > **[1:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-node-js-service?u=76281980&t=70)** This file lists all the things that annex knows how to do with your package.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[WebSocket]] (2), application (2), node (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[WebSocket]] (2)
 > **Env Vars:** json (4)
 > **File Paths:** main.ts (2), project.json (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -504,8 +498,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the client Angular application
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980)
+#### [Create the client Angular application](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=4)** It's time to build a UI.
 >
-> **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=6)** For our purposes, we'll use Angular, a highly scalable and well supported front end framework.
+> **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=6)** For our purposes, we'll use [[Angular]], a highly scalable and well supported front end framework.
 >
 > **[0:11](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=11)** So let's create a bare-bones Angular application.
 >
@@ -537,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=60)** We only care about webapp.
 >
-> **[1:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=63)** Within webapp a project.json file was created as is always the case when you add a new package using one of these Nx generators.
+> **[1:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=63)** Within webapp a project.[[JSON]] file was created as is always the case when you add a new package using one of these Nx generators.
 >
 > **[1:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=70)** And within the target object, we can see the different scripts that Nx has prepared for us.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=178)** Border 2 pixel.
 >
-> **[3:01](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=181)** Okay, and the final piece of the component is the HTML.
+> **[3:01](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=181)** Okay, and the final piece of the component is the [[HTML]].
 >
 > **[3:07](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/create-the-client-angular-application?u=76281980&t=187)** And this is where you define the template for your component.
 >
@@ -613,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (10), application (7), [[JSON]] (3), css (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Angular]] (10), [[JSON]] (3), [[HTML]] (2)
 > **File Paths:** package.json (2), project.json (1), app.component.ts (1), component.scss (1), component.css (1)
 > **Env Vars:** html (2), readme (1), css (1), sas (1)
 > **CLI Commands:** make (3)
@@ -622,8 +615,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Documentation:** the readme (1)
 
-#### Review the project structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980)
+#### [Review the project structure](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +629,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=25)** So let's open up the file browser.
 >
-> **[0:29](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=29)** At the top level is a package.json, which declares the name of our project, the scripts we can run, which typically will start or lint different aspects of our project, and the dependencies for this project.
+> **[0:29](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=29)** At the top level is a package.[[JSON]], which declares the name of our project, the scripts we can run, which typically will start or lint different aspects of our project, and the dependencies for this project.
 >
 > **[0:48](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=48)** We won't really be touching this anymore.
 >
@@ -677,7 +669,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=156)** This is the UI or the angler application.
 >
-> **[2:39](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=159)** Main is the entry point, but all of our work within angular will be inside the app folder, where we have an app components, an app module, and eventually we'll add an app service.
+> **[2:39](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=159)** Main is the entry point, but all of our work within [[Angular]] will be inside the app folder, where we have an app components, an app module, and eventually we'll add an app service.
 >
 > **[2:54](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/review-the-project-structure?u=76281980&t=174)** These are the components that make up our project structure and with a good understanding of this structure we're ready to build more productively.
 >
@@ -685,15 +677,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), application (2), data (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Angular]] (1)
 > **File Paths:** package.json (2), workspace.json (2), index.ts (2), project.json (1), main.ts (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - all (1)
 
-#### Add the WebSocket server to Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980)
+#### [Add the WebSocket server to Node.js](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,7 +692,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=3)** Let's create the web socket server.
 >
-> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=5)** We'll use the WS NPM Library.
+> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=5)** We'll use the WS [[npm]] Library.
 >
 > **[0:08](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=8)** Easily one of the most popular and most performant web socket libraries for Node.
 >
@@ -709,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=17)** The first tool is the WS Library.
 >
-> **[0:20](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=20)** Let's take a look at its GitHub page.
+> **[0:20](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=20)** Let's take a look at its [[GitHub]] page.
 >
 > **[0:23](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-websocket-server-to-node-js?u=76281980&t=23)** Here on GitHub on the library's read me file, there's a table of contents with usage examples.
 >
@@ -799,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), application (2), [[GitHub]] (2), feature (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[npm]] (1)
 > **CLI Commands:** npm (1), node (1), make (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
@@ -813,8 +804,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Receive your first WebSocket connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980)
+#### [Receive your first WebSocket connection](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=16)** And the last two tools are web extensions that can be used for this purpose.
 >
-> **[0:22](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=22)** For Chrome and brave there is Advanced Websocket Client for Firefox the Websocket Weasel.
+> **[0:22](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=22)** For Chrome and brave there is Advanced [[WebSocket]] Client for Firefox the Websocket Weasel.
 >
 > **[0:28](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=28)** Because I'm on Brave.
 >
@@ -872,7 +862,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=127)** Now the message comes in as raw data before we can use it.
 >
-> **[2:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=130)** Let's parse it into a JSON object.
+> **[2:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=130)** Let's parse it into a [[JSON]] object.
 >
 > **[2:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980&t=137)** We'll turn into a string and then parse it to JSON.
 >
@@ -938,7 +928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (6), data (5), web (4), [[JSON]] (3), application (1)
+> **Frameworks & Libraries:** [[WebSocket]] (6), [[JSON]] (3)
 > **Env Vars:** json (3), url (1)
 > **Ports:** port 8080 (2)
 > **Cross-References:** go back to (1)
@@ -947,8 +937,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Definitions:** is a  (1)
 
-#### Manage multiple connected users
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980)
+#### [Manage multiple connected users](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=78)** Now, we cannot just send a raw object, we have to stringify it first.
 >
-> **[1:21](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=81)** So I'm going to use JSON.stringify on the message and then send the result.
+> **[1:21](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=81)** So I'm going to use [[JSON]].stringify on the message and then send the result.
 >
 > **[1:31](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=91)** And, of course, because this is a chat, often we'll want message to be broadcasted to all users.
 >
@@ -984,7 +973,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=104)** And in this case, what we want to do is iterate through all the connected sockets and test whether each socket is still live.
 >
-> **[1:55](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=115)** For that, we look at its readyState and compare it to a constant of WebSocket.OPEN.
+> **[1:55](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=115)** For that, we look at its readyState and compare it to a constant of [[WebSocket]].OPEN.
 >
 > **[2:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/manage-multiple-connected-users?u=76281980&t=126)** If it's open, that means the socket is still currently connected, and we can send it a message.
 >
@@ -1062,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (2), next (1), [[JSON]] (1), parallel (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[JSON]] (1)
 > **Code Identifiers:** onsocketconnected (2), onsocketclosed (2), sendtoall (1), readystate (1), usermanager (1)
 > **Env Vars:** json (1), open (1), ide (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -1071,14 +1060,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standardize WebSocket message shape
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980)
+#### [Standardize WebSocket message shape](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980&t=0)** - [Instructor] The WebSocket protocol is quite flexible about what sorts of payloads can be sent.
+> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980&t=0)** - [Instructor] The [[WebSocket]] protocol is quite flexible about what sorts of payloads can be sent.
 >
-> **[0:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980&t=4)** Strings, ArrayBuffers, even files can be sent over WebSockets.
+> **[0:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980&t=4)** Strings, ArrayBuffers, even files can be sent over [[WebSocket|WebSockets]].
 >
 > **[0:09](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/standardize-websocket-message-shape?u=76281980&t=9)** To reduce errors, it's important to establish a standard type for the messages your application expects to receive.
 >
@@ -1178,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (2), application (2), data (2), [[WebSocket|Websockets]] (1), product (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[WebSocket|Websockets]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), navigate to (1)
 > **File Paths:** index.ts (2)
@@ -1187,14 +1175,13 @@ created: 2026-05-02
 > **Code Identifiers:** sendtoall (1)
 > **Ports:** port 8080 (1)
 
-#### Broadcast new chat message to all
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980)
+#### [Broadcast new chat message to all](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=0)** - [Instructor] Our server is now set up to receive messages, but how will other users know when there has been an update?
 >
-> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=5)** Remember that the beauty of WebSockets is that both sides of the connection can transmit and listen.
+> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=5)** Remember that the beauty of [[WebSocket|WebSockets]] is that both sides of the connection can transmit and listen.
 >
 > **[0:11](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=11)** So just as our server is listening for new messages, all connected clients are also listening.
 >
@@ -1228,7 +1215,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=98)** So let me duplicate this tab, and then set them side by side.
 >
-> **[1:43](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=103)** We'll then connect to the WebSocket in both cases.
+> **[1:43](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=103)** We'll then connect to the [[WebSocket]] in both cases.
 >
 > **[1:49](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/broadcast-new-chat-message-to-all?u=76281980&t=109)** So for the first time, we have two connected sockets.
 >
@@ -1250,15 +1237,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (2), [[WebSocket|Websockets]] (1), generic (1), data (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[WebSocket|Websockets]] (1)
 > **Code Identifiers:** onsocketmessage (2), usermanager (2), sendtoall (2)
 > **UI Navigation:** navigate to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Notify all when a new user connects
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-notify-all-when-a-new-user-connects?u=76281980)
+#### [Challenge: Notify all when a new user connects](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-notify-all-when-a-new-user-connects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,13 +1272,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2)
 > **Code Identifiers:** onsocketconnected (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Notify all when a user connects
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-notify-all-when-a-user-connects?u=76281980)
+#### [Solution: Notify all when a user connects](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-notify-all-when-a-user-connects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1420,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Search]] (2), database (1)
 > **Env Vars:** url (9), ide (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (3)
@@ -1444,14 +1427,14 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), open the (1)
 > **Analogies:** for instance (1), such as (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (energetic music) (1)
 
 
 ### 3. Build the UI with Angular
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick look at Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980)
+#### [A quick look at Angular](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,9 +1442,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=4)** Now it's time to build up the UI.
 >
-> **[0:07](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=7)** For our use case we'll use the Angular Framework.
+> **[0:07](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=7)** For our use case we'll use the [[Angular]] Framework.
 >
-> **[0:09](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=9)** A JavaScript framework that makes front end easy to build.
+> **[0:09](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=9)** A [[JavaScript]] framework that makes front end easy to build.
 >
 > **[0:14](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=14)** From the README file, if you scroll down to the tools used to build this application section, Angular framework is one of these.
 >
@@ -1475,9 +1458,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=39)** There's the component class, where the logic drives the component.
 >
-> **[0:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=45)** There's a component template, which can be an HTML file or an HTML template within the component file itself.
+> **[0:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=45)** There's a component template, which can be an [[HTML]] file or an HTML template within the component file itself.
 >
-> **[0:52](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=52)** And there's a component style, a SaaS or CSS file where you style the template.
+> **[0:52](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=52)** And there's a component style, a [[SaaS]] or CSS file where you style the template.
 >
 > **[0:59](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980&t=59)** We'll take a look at these in a minute.
 >
@@ -1527,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (3), application (2), [[JavaScript]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (3), [[JavaScript]] (1), [[SaaS]] (1)
 > **Exercise Files:** template (7)
 > **Env Vars:** html (3), readme (1), css (1), scss (1)
 > **UI Navigation:** scroll down (1), navigate to (1)
@@ -1536,8 +1519,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the chat component
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980)
+#### [Set up the chat component](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1531,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=10)** I'm going to open up all three files for the app component.
 >
-> **[0:14](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=14)** The ts file, the html file, and the styling file, because we need to edit all three.
+> **[0:14](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=14)** The ts file, the [[HTML]] file, and the styling file, because we need to edit all three.
 >
 > **[0:20](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=20)** Let's start with the ts file.
 >
@@ -1557,9 +1539,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=26)** The messages are of type ChatRelayMessage, they come from the server.
 >
-> **[0:31](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=31)** The current user is just a user, and that comes from our websocket/types library.
+> **[0:31](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=31)** The current user is just a user, and that comes from our [[WebSocket]]/types library.
 >
-> **[0:40](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=40)** Angular exposes an execution hook called OnInIt that we can implements to make sure that angular will run code that we want when it loads up this components.
+> **[0:40](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=40)** [[Angular]] exposes an execution hook called OnInIt that we can implements to make sure that angular will run code that we want when it loads up this components.
 >
 > **[0:51](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=51)** OnInIt comes from angular/core.
 >
@@ -1629,7 +1611,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=262)** The vertical bar is called a pipe, and this tells angular how to display it.
 >
-> **[4:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=266)** We're telling angular, "Take the currentUser, and pass it through the json pipe, because it's an object."
+> **[4:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=266)** We're telling angular, "Take the currentUser, and pass it through the [[JSON]] pipe, because it's an object."
 >
 > **[4:34](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/set-up-the-chat-component?u=76281980&t=274)** Next thing I'd like to do is display the messages.
 >
@@ -1677,7 +1659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), data (4), css (3), application (3), [[WebSocket]] (2)
+> **Frameworks & Libraries:** [[Angular]] (8), [[WebSocket]] (2), [[JSON]] (2), [[HTML]] (1)
 > **Exercise Files:** template (6)
 > **Code Identifiers:** currentuser (4), ngfor (1)
 > **Env Vars:** css (3)
@@ -1686,8 +1668,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Ports:** port 4200 (1)
 
-#### Prototype the chat UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980)
+#### [Prototype the chat UI](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,7 +1682,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=29)** So in this case, let's start the application, and while that runs, let's take a look at the tool we're going to use to build the UI component.
 >
-> **[0:40](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=40)** If you scroll down in the readme file all the way to tools used to build this application, one of the tools is the Angular Material UI Library.
+> **[0:40](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=40)** If you scroll down in the readme file all the way to tools used to build this application, one of the tools is the [[Angular]] Material UI Library.
 >
 > **[0:47](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=47)** Let's head over to its website.
 >
@@ -1751,7 +1732,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=183)** In the browser I'm going to load up our application, which would be running by now, and we have our messages here, but there's still a lot of junk we need to take care of, so let's set this side by side and make edits to the template.
 >
-> **[3:19](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=199)** Now that we have the mat-card, we no longer need this message through JSON.
+> **[3:19](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=199)** Now that we have the mat-card, we no longer need this message through [[JSON]].
 >
 > **[3:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/prototype-the-chat-ui?u=76281980&t=206)** The cards are also too wide, they don't really pop against the background, so let's go to the app component CSS, and within the chat area which is where the cards are displayed, add some styling.
 >
@@ -1797,7 +1778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Angular]] (5), css (2), api (1), next (1)
+> **Frameworks & Libraries:** [[Angular]] (5), [[JSON]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** css (2), ide (1), api (1), json (1)
 > **Exercise Files:** template (5)
@@ -1806,8 +1787,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Definitions:** is a  (1)
 
-#### Add the connection UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980)
+#### [Add the connection UI](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,7 +1799,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=16)** First, let's start the web app.
 >
-> **[0:20](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=20)** And while this pulls up, let's go grab the button UI that we need from the angular material library.
+> **[0:20](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=20)** And while this pulls up, let's go grab the button UI that we need from the [[Angular]] material library.
 >
 > **[0:27](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=27)** My browser let's find out the material library's page and the component I'm interested in is the button.
 >
@@ -1903,7 +1883,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=243)** So the username here actually gives us a handle on the inputs element itself.
 >
-> **[4:07](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=247)** So this would be username input which is an HTML input element and let's just console log it connecting as user name input dot value.
+> **[4:07](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=247)** So this would be username input which is an [[HTML]] input element and let's just console log it connecting as user name input dot value.
 >
 > **[4:24](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=264)** Once we save this, we can test whether it works.
 >
@@ -1931,7 +1911,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=311)** And this would be is current user undefined.
 >
-> **[5:18](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=318)** If the current user is undefined then we want to show the forms.
+> **[5:18](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=318)** If the current user is undefined then we want to show the [[Forms]].
 >
 > **[5:23](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/add-the-connection-ui?u=76281980&t=323)** So all of these we've just coded would go inside a container.
 >
@@ -1957,7 +1937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), [[HTML]] (2), web (1), api (1), css (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[HTML]] (2), [[Forms]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** html (2), api (1), css (1)
 > **Exercise Files:** template (3)
@@ -1971,8 +1951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simulate authentication on new connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980)
+#### [Simulate authentication on new connections](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1980,7 +1959,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=5)** In this chapter, we'll add the connective tissue between the two and draw up our application.
 >
-> **[0:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=10)** When the user logs in by connecting to the WebSocket, the server should return a user object containing the id of the user.
+> **[0:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=10)** When the user logs in by connecting to the [[WebSocket]], the server should return a user object containing the id of the user.
 >
 > **[0:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=17)** This simulates authentication in a production application.
 >
@@ -2018,7 +1997,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=128)** So all we have to do is to say socket.send the loginMessage.
 >
-> **[2:19](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=139)** Now, we cannot send the message itself without first JSON stratifying it.
+> **[2:19](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=139)** Now, we cannot send the message itself without first [[JSON]] stratifying it.
 >
 > **[2:25](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980&t=145)** An object can't be sent as is.
 >
@@ -2060,7 +2039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[JSON]] (2), [[WebSocket]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[WebSocket]] (1)
 > **Code Identifiers:** usermanager (3), loginmessage (3)
 > **UI Navigation:** open the (2), navigate to (1), go to (1)
 > **Env Vars:** json (2), ide (1)
@@ -2069,14 +2048,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect the web app to the socket
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980)
+#### [Connect the web app to the socket](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=0)** - [Instructor] In Angular, the class responsible for interfacing with backend services is called a provider.
+> **[0:00](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=0)** - [Instructor] In [[Angular]], the class responsible for interfacing with backend services is called a provider.
 >
-> **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=6)** In our application, this is the class that will connect to the websocket and return the user object to the component.
+> **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=6)** In our application, this is the class that will connect to the [[WebSocket]] and return the user object to the component.
 >
 > **[0:13](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=13)** Let's build it.
 >
@@ -2232,7 +2210,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=398)** Let's go to the template quickly.
 >
-> **[6:41](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=401)** In the app template, if you recall, this was called app.component.html.
+> **[6:41](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=401)** In the app template, if you recall, this was called app.component.[[HTML]].
 >
 > **[6:47](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/connect-the-web-app-to-the-socket?u=76281980&t=407)** There we go.
 >
@@ -2250,7 +2228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (9), application (8), [[Angular]] (2), next (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[WebSocket]] (9), [[Angular]] (2), [[HTML]] (1)
 > **Code Identifiers:** websocket (5), currentuser (4), onmessagefromserver (1), username (1)
 > **UI Navigation:** go to (3), scroll down (1), navigate to (1), switch to (1)
 > **Exercise Files:** template (4)
@@ -2259,8 +2237,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is called (1)
 > **File Paths:** app.component.html (1)
 
-#### Start chatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980)
+#### [Start chatting](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,7 +2245,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=3)** We need to update every part of the stack to make this work.
 >
-> **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=6)** But once we're done we'll be able to see multiple users having a live chat over WebSocket.
+> **[0:06](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=6)** But once we're done we'll be able to see multiple users having a live chat over [[WebSocket]].
 >
 > **[0:11](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=11)** Let's start with the backend service and work our way all the way to the UI template to affect this change.
 >
@@ -2392,7 +2369,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=269)** Instead, what we need to do is subscribe to the new chat message stream and when a new message arrives, just add it to the array.
 >
-> **[4:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=285)** What we're really doing here is creating a new array because Angular will only notice that something has changed if you create the new array.
+> **[4:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=285)** What we're really doing here is creating a new array because [[Angular]] will only notice that something has changed if you create the new array.
 >
 > **[4:53](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=293)** So that's the first thing.
 >
@@ -2424,7 +2401,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=364)** First thing I want to do is make sure to lint both the web app and the server because we made so many changes.
 >
-> **[6:13](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=373)** And the server, npm run server:lint.
+> **[6:13](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=373)** And the server, [[npm]] run server:lint.
 >
 > **[6:18](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/start-chatting?u=76281980&t=378)** Let's look at the result of the web app linting.
 >
@@ -2484,7 +2461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (5), [[WebSocket]] (2), [[Angular]] (2), data (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[Angular]] (2), [[npm]] (1)
 > **CLI Commands:** make (2), find (1), npm (1)
 > **Code Identifiers:** chatinput (3), appservice (1)
 > **UI Navigation:** go to (4)
@@ -2493,14 +2470,13 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **Best Practices:** remember to (1), make sure to (1)
 
-#### Challenge: Show notification when user enters or leaves
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-notification-when-user-enters-or-leaves?u=76281980)
+#### [Challenge: Show notification when user enters or leaves](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-notification-when-user-enters-or-leaves?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-notification-when-user-enters-or-leaves?u=76281980&t=1)** (upbeat intro music)
 >
-> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-notification-when-user-enters-or-leaves?u=76281980&t=5)** - [Narrator] Our chat works, but there are a couple of missing features that result in a poor user experience.
+> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-notification-when-user-enters-or-leaves?u=76281980&t=5)** - [Narrator] Our chat works, but there are a couple of missing features that result in a poor [[User Experience (UX)|user experience]].
 >
 > **[0:10](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-notification-when-user-enters-or-leaves?u=76281980&t=10)** Suppose that Mike logged in here, and there's a friend of mine, Ella, logged on the other side.
 >
@@ -2526,13 +2502,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat intro music) (1)
 
-#### Solution: Show notification when user enters or leaves
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980)
+#### [Solution: Show notification when user enters or leaves](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2624,7 +2599,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=204)** So it's pretty intrusive.
 >
-> **[3:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=206)** A better option would be to leverage the Angular material components that we've been working with.
+> **[3:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=206)** A better option would be to leverage the [[Angular]] material components that we've been working with.
 >
 > **[3:30](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=210)** In the readme file, if you scroll down to the tools used to build this application section, you'll see the Angular library.
 >
@@ -2712,7 +2687,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=405)** Let's go to the app component and quickly make this change.
 >
-> **[6:47](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=407)** Within the app template, we have the user shown with a JSON pipe.
+> **[6:47](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=407)** Within the app template, we have the user shown with a [[JSON]] pipe.
 >
 > **[6:56](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-notification-when-user-enters-or-leaves?u=76281980&t=416)** All we need to do is to just display the user's name.
 >
@@ -2724,7 +2699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), web (3), application (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[JSON]] (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Code Identifiers:** usermanager (2), ws_handler (1)
 > **Env Vars:** instructor (1), api (1), json (1)
@@ -2733,8 +2708,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the readme (1)
 
-#### Challenge: Show list of connected users
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-list-of-connected-users?u=76281980)
+#### [Challenge: Show list of connected users](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/challenge-show-list-of-connected-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2780,15 +2754,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), web (2), next (1), application (1)
 > **Env Vars:** cml (1)
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - our (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Show list of connected users
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980)
+#### [Solution: Show list of connected users](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2922,11 +2894,11 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=353)** What we want to do is add a class, if the card belongs to the current user.
 >
-> **[5:57](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=357)** So let's say class.current-user will be set if message.author.id is the same as currentUser.id, and we add a question mark here, just in case current user is null or undefined we don't want to try to fetch id against it.
+> **[5:57](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=357)** So let's say class.current-user will be set if message.author.id is the same as currentUser.id, and we add a question mark here, just in case current user is null or undefined we don't want to try to [[Fetch]] id against it.
 >
 > **[6:17](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=377)** So current user will be added as a class to mat-card when appropriate.
 >
-> **[6:22](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=382)** Then we need to go to the SaaS file to add styling for the current user class.
+> **[6:22](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=382)** Then we need to go to the [[SaaS]] file to add styling for the current user class.
 >
 > **[6:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/solution-show-list-of-connected-users?u=76281980&t=386)** So this is in, say mat-card there we go.
 >
@@ -2950,7 +2922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (1), application (1), [[Fetch]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[SaaS]] (1)
 > **Code Identifiers:** userlist (2), updateuserlist (1), senduserlist (1), userlistmessage (1), currentuser (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), navigate to (1)
@@ -2964,8 +2936,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2973,7 +2944,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=2)** I hope you had as much fun building as I did.
 >
-> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=5)** We've come a long way from zero to having a full, stack-chat application powered by WebSocket.
+> **[0:05](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=5)** We've come a long way from zero to having a full, stack-chat application powered by [[WebSocket]].
 >
 > **[0:11](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=11)** If what seemed like magic at the start, is now just cool but makes sense to you, I've done my job.
 >
@@ -2981,7 +2952,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=22)** Here are some of the ideas I had that I just could not fit into this course.
 >
-> **[0:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=26)** Error handling, unit testing, input validation, proper authentication so users don't impersonate one another, private messages, message history, such that a user who logs in can see all previous messages, or a user who loses his internet connection can see messages he missed when he comes back.
+> **[0:26](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=26)** Error handling, [[Unit Testing]], input validation, proper authentication so users don't impersonate one another, private messages, message history, such that a user who logs in can see all previous messages, or a user who loses his internet connection can see messages he missed when he comes back.
 >
 > **[0:49](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980&t=49)** If interest in this course is high, I would love to take on some of these topics in a future WebSocket course.
 >
@@ -2991,7 +2962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (2), application (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[WebSocket]] (2), [[Unit Testing]] (1)
 > **Speakers:** - [instructor] (1)
 
 

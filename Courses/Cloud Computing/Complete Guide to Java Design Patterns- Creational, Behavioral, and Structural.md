@@ -202,12 +202,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your code with design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980)
+#### [Improve your code with design patterns](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=0)** Using design patterns can make you a faster and more effective developer.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=0)** Using [[Design Patterns]] can make you a faster and more effective developer.
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=4)** If you want to write simple, maintainable, and effective code, this course will show you some shortcuts to doing just that.
 >
@@ -217,9 +216,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=20)** I'll also discuss when to use them to improve your code.
 >
-> **[0:23](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=23)** I'll teach you each pattern by using some real Java code examples to demonstrate how they can be used.
+> **[0:23](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=23)** I'll teach you each pattern by using some real [[Java]] code examples to demonstrate how they can be used.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=28)** I'll also be giving you a short hands-on exercise to practice for each pattern, which you'll be able to do in GitHub Codespaces or in your own IDE.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=28)** I'll also be giving you a short hands-on exercise to practice for each pattern, which you'll be able to do in [[GitHub]] [[Codespaces]] or in your own IDE.
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-your-code-with-design-patterns?u=76281980&t=36)** Then for each one, I'll walk through the solution so you can check your answers and your working.
 >
@@ -234,18 +233,17 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980&t=0)** Before you get started with this course, there are a few things you should know.
 >
-> **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980&t=3)** You should already be familiar with writing code in Java.
+> **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980&t=3)** You should already be familiar with writing code in [[Java]].
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980&t=6)** I won't be explaining any basic syntax, so if you're new to Java, I'd suggest watching the course: Learning Java.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980&t=13)** If you're comfortable with the basics of writing Java code, is time to open Codespaces or your favorite IDE.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-you-should-know?u=76281980&t=13)** If you're comfortable with the basics of writing Java code, is time to open [[Codespaces]] or your favorite IDE.
 
 > [!info]- Semantic Content
 >
@@ -257,8 +255,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a design pattern?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980)
+#### [What is a design pattern?](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=22)** This means that when you're stuck on trying to work out the best way to do something, the good news is that you can reuse other people's knowledge and experience.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=29)** Knowing some well-established design patterns can save you from having to reinvent the wheel.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=29)** Knowing some well-established [[Design Patterns]] can save you from having to reinvent the wheel.
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=34)** Imagine someone who wants to cook lasagna.
 >
@@ -308,11 +305,11 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=108)** You'll learn how to use them, and just as important, recognize when to use them.
 >
-> **[1:52](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=112)** Knowing this will make you a much more efficient and confident Java developer.
+> **[1:52](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-is-a-design-pattern?u=76281980&t=112)** Knowing this will make you a much more efficient and confident [[Java]] developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (6), application (2), web (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (6), [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** template (1)
@@ -323,8 +320,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are creational design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980)
+#### [What are creational design patterns?](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980&t=4)** But as applications grow, this becomes less practical.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980&t=7)** Creational design patterns are a set of patterns that help you to manage this complexity.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980&t=7)** Creational [[Design Patterns]] are a set of patterns that help you to manage this complexity.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-creational-design-patterns?u=76281980&t=12)** This is the first of the three types of design pattern that I'm going to be looking at in this course.
 >
@@ -368,7 +364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), application (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3)
 > **Analogies:** for example (1)
 
 
@@ -376,8 +372,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoiding complex constructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980)
+#### [Avoiding complex constructors](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980&t=52)** This means that once I've set these fields when I create the person objects, I can't come back and change them later.
 >
-> **[0:58](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980&t=58)** So how might the constructor of a person object look in Java code?
+> **[0:58](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980&t=58)** So how might the constructor of a person object look in [[Java]] code?
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-complex-constructors?u=76281980&t=62)** It might look something like this with a long list of things that I need to pass into the constructor, and for the optional ones that I don't want, I'd have to pass in null.
 >
@@ -443,12 +438,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), product (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Analogies:** for example (4)
 > **Definitions:** is called (2), means that (1)
 
-#### Recognize where to use the Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980)
+#### [Recognize where to use the Builder pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,11 +488,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=90)** So as you can see, it's a bit difficult to see which fields are which in this constructor.
 >
-> **[1:35](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=95)** So in GitHub Codespaces, I'm hopefully given this hint that says that this is the middle name.
+> **[1:35](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=95)** So in [[GitHub]] [[Codespaces]], I'm hopefully given this hint that says that this is the middle name.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=100)** But if your IDE doesn't have this feature, you might not know what this is supposed to be.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=104)** So it's quite hard to tell from just the word "null" that this is supposed to be a middle name, and it would be quite easy to pass in something like a last name here instead.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=104)** So it's quite hard to tell from just the [[Microsoft Word|word]] "null" that this is supposed to be a middle name, and it would be quite easy to pass in something like a last name here instead.
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-builder-pattern?u=76281980&t=113)** But let's just run this and see what happens.
 >
@@ -518,15 +512,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[GitHub]] (1), [[Codespaces]] (1), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Codespaces]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** addpersontoleadtracker (1)
 > **Env Vars:** ide (1)
 > **Tools:** github (1)
 
-#### Implement a complete Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-a-complete-builder-pattern?u=76281980)
+#### [Implement a complete Builder pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-a-complete-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,15 +671,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** middlename (8), emailaddress (5), firstname (3), lastname (3), dateofbirth (3)
 > **Cross-References:** go back to (3)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (2)
 > **URLs:** [example.com](https://example.com) (1)
 
-#### Improving the Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improving-the-builder-pattern?u=76281980)
+#### [Improving the Builder pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improving-the-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,15 +727,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **Code Identifiers:** personbuilder (3), firstname (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Challenge: The Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-builder-pattern?u=76281980)
+#### [Challenge: The Builder pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,13 +767,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Code Identifiers:** storeitem (2), shortdescription (1), longdescription (1), stockavailable (1), packagingtype (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
-#### Solution: The Builder pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-builder-pattern?u=76281980)
+#### [Solution: The Builder pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-builder-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,12 +812,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to use the Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980)
+#### [When to use the Singleton pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=0)** The singleton pattern is probably one of the most well-known design patterns.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=0)** The singleton pattern is probably one of the most well-known [[Design Patterns]].
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=4)** It's also sometimes known as an anti-pattern because there are some issues which can be caused by using it.
 >
@@ -840,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=17)** But firstly, what is the singleton pattern?
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=20)** Normally, when you create a class in Java, you expect to instantiate many different objects of that class.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=20)** Normally, when you create a class in [[Java]], you expect to instantiate many different objects of that class.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=25)** For example, if you have a class called car, you'd probably have several places in your code where you create new car objects, but with a singleton pattern you prevent this from happening.
 >
@@ -856,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=54)** Otherwise, you could have a situation where multiple objects are trying to write to the same table using different instances of your DatabaseAccessor class.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=62)** So some examples of where it might make sense to use the singleton pattern are controlling the connection to a database or access to configuration files or other hardware resources, such as a printer.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=62)** So some examples of where it might make sense to use the singleton pattern are controlling the connection to a database or access to configuration files or other [[Hardware]] resources, such as a printer.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=73)** And one of the most well-known use cases is for loggers.
 >
@@ -870,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=94)** Often there are better alternatives, and refactoring your code might be a nicer solution.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=99)** One of the reasons that people don't like the singleton pattern is that an object-oriented programming, a class should only do one thing.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=99)** One of the reasons that people don't like the singleton pattern is that an [[Object-Oriented Programming (OOP)|object-oriented programming]], a class should only do one thing.
 >
 > **[1:46](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=106)** But with a singleton class, it does two things.
 >
@@ -878,19 +864,18 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=117)** Singletons also make your codes difficult to test, because the objects that use the singleton are tightly coupled to the singleton objects.
 >
-> **[2:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=124)** So sometimes you can use other solutions, for example, dependency injection instead of using the singleton pattern.
+> **[2:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=124)** So sometimes you can use other solutions, for example, [[Dependency Injection]] instead of using the singleton pattern.
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/when-to-use-the-singleton-pattern?u=76281980&t=131)** However, if you do have a use case where you want to have only one single instance of a class, the singleton pattern will allow you to do this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), application (2), [[Design Patterns]] (1), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Java]] (1), [[Hardware]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Dependency Injection]] (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (3)
 > **Definitions:** known as (1)
 
-#### Implementing the Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-the-singleton-pattern?u=76281980)
+#### [Implementing the Singleton pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +911,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-the-singleton-pattern?u=76281980&t=77)** And next, I'm going to create a private constructor.
 >
-> **[1:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-the-singleton-pattern?u=76281980&t=81)** So normally in Java if you don't have any constructor, it just creates a public one for you.
+> **[1:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-the-singleton-pattern?u=76281980&t=81)** So normally in [[Java]] if you don't have any constructor, it just creates a public one for you.
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-the-singleton-pattern?u=76281980&t=85)** So I explicitly need to create a private one.
 >
@@ -992,15 +977,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** instance (6)
 > **Code Identifiers:** getinstance (3), printdocuments (1), printimage (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** means that (2)
 
-#### Thread safety with the Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980)
+#### [Thread safety with the Singleton pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1030,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=63)** Then, instead of my instance being a field, is going to be an enum value.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=68)** So I'm just going to get rid of the private static PrintSpooler and just leave the word "INSTANCE."
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=68)** So I'm just going to get rid of the private static PrintSpooler and just leave the [[Microsoft Word|word]] "INSTANCE."
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=73)** So that's a value of the enum.
 >
@@ -1042,7 +1026,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=95)** So it basically does what I had before, but with less code.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=98)** And the nice thing is that enums in Java are guaranteed to always be thread-safe.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=98)** And the nice thing is that enums in [[Java]] are guaranteed to always be thread-safe.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/thread-safety-with-the-singleton-pattern?u=76281980&t=102)** So this is a nice way of making sure it definitely works as I intended without having to implement that thread-safe guarantee myself.
 >
@@ -1054,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), [[Microsoft Word|Word]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1)
 > **Env Vars:** instance (3)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
@@ -1062,8 +1046,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** pitfall (1)
 
-#### Challenge: The Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-singleton-pattern?u=76281980)
+#### [Challenge: The Singleton pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,7 +1064,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-singleton-pattern?u=76281980&t=33)** So, for example, if I look inside the Dog class, there's a field called Logger where it creates a new Logger object.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-singleton-pattern?u=76281980&t=39)** And then there's a woof method which logs the word "Woof."
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-singleton-pattern?u=76281980&t=39)** And then there's a woof method which logs the [[Microsoft Word|word]] "Woof."
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-singleton-pattern?u=76281980&t=43)** And then the Cat class is exactly the same, but the method is called meow, and it logs the word "Meow" instead of Woof.
 >
@@ -1101,14 +1084,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** cat (4), make (1)
 > **Cross-References:** previous video (1), next video (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Solution: The Singleton pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-singleton-pattern?u=76281980)
+#### [Solution: The Singleton pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-singleton-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-singleton-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to change this Logger class into an enum.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-singleton-pattern?u=76281980&t=13)** So I'm just going to change the word "class" to enum.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-singleton-pattern?u=76281980&t=13)** So I'm just going to change the [[Microsoft Word|word]] "class" to enum.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-singleton-pattern?u=76281980&t=17)** And then I need a value, which is going to be the instance of my logger.
 >
@@ -1164,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** getinstance (4)
 > **Env Vars:** instance (4)
 > **CLI Commands:** cat (2)
@@ -1174,8 +1156,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Prototype pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980)
+#### [Understand the Prototype pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,7 +1194,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980&t=92)** Think of Dolly, the sheep that was cloned.
 >
-> **[1:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980&t=94)** The prototype pattern essentially does this for Java objects, so that similar objects don't have to be configured multiple times.
+> **[1:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980&t=94)** The prototype pattern essentially does this for [[Java]] objects, so that similar objects don't have to be configured multiple times.
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-prototype-pattern?u=76281980&t=101)** One thing to note is that there is an interface called Cloneable in Java.
 >
@@ -1235,8 +1216,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 
-#### Implement the Prototype pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-prototype-pattern?u=76281980)
+#### [Implement the Prototype pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-prototype-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1322,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-prototype-pattern?u=76281980&t=261)** And I can see I still get my list of five Hawaiian pizzas and five pepperoni pizzas.
 >
-> **[4:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-prototype-pattern?u=76281980&t=267)** So these clones Pizza objects are actually still their own separate Java objects, but they have the same field sets as the original one.
+> **[4:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-prototype-pattern?u=76281980&t=267)** So these clones Pizza objects are actually still their own separate [[Java]] objects, but they have the same field sets as the original one.
 >
 > **[4:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-prototype-pattern?u=76281980&t=274)** So this is a simple implementation of the prototype pattern.
 
@@ -1354,8 +1334,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Handling mutability
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/handling-mutability?u=76281980)
+#### [Handling mutability](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/handling-mutability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1410,8 +1389,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** means that (1)
 
-#### Challenge: The Prototype pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-prototype-pattern?u=76281980)
+#### [Challenge: The Prototype pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-prototype-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1459,14 +1437,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** heightinpixels (2), buildingtype (2), housebuildingtype (2), skyscraperbuildingtype (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: The Prototype pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-prototype-pattern?u=76281980)
+#### [Solution: The Prototype pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-prototype-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,8 +1512,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Factory Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980)
+#### [Understand the Factory Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1573,7 +1548,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980&t=75)** So bus ticket machines could create bus tickets and train ticket machines could create train tickets.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980&t=80)** Both approaches work well, and you can use either depending on your use case and your preference. In the language of the factory method pattern, the TicketMachine classes are the factories and the tickets are the products that they're creating.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980&t=80)** Both approaches work well, and you can use either depending on your use case and your preference. In the language of the factory method pattern, the TicketMachine classes are the factories and the tickets are the [[Microsoft Products|products]] that they're creating.
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-factory-method-pattern?u=76281980&t=92)** So to summarize, you use the factoring method pattern when you have a class that's responsible for creating objects of another type of class, but that class doesn't know in advance which concrete types of the class it should create.
 >
@@ -1581,13 +1556,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** createticket (2)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** is a  (1)
 
-#### Implement the Factory Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980)
+#### [Implement the Factory Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,13 +1601,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=68)** The price is $3."
 >
-> **[1:10](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=70)** So what if I want to be able to buy train tickets from this ticket office?
+> **[1:10](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=70)** So what if I want to be able to buy train tickets from this ticket [[Microsoft Office|office]]?
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=74)** So let's see how that would work.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=76)** So the first thing I'm going to do is I'm going to create a new class, and it's also going to implement the ticket interface.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=83)** So I'm going to create a new file called TrainTicket.Java.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=83)** So I'm going to create a new file called TrainTicket.[[Java]].
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=90)** So after TrainTicket, I'm going to add implement Ticket.
 >
@@ -1683,7 +1657,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=183)** And then I'm going to call it "buyATrainTicket" instead of buyABusTicket.
 >
-> **[3:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=188)** And when I'm calling createTicket, instead of passing in Bus, I'm going to pass in the word "Train."
+> **[3:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=188)** And when I'm calling createTicket, instead of passing in Bus, I'm going to pass in the [[Microsoft Word|word]] "Train."
 >
 > **[3:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-factory-method-pattern?u=76281980&t=194)** And let's call that inside the main method as well, just to check it works.
 >
@@ -1711,15 +1685,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), [[Microsoft Office|Office]] (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** getprice (5), createticket (5), buyabusticket (4), tickettype (2), buyatrainticket (2)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** trainticket.java (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Improve the Factory Method pattern with functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-factory-method-with-functional-programming?u=76281980)
+#### [Improve the Factory Method pattern with functional programming](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-factory-method-with-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1757,7 +1730,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-factory-method-with-functional-programming?u=76281980&t=85)** So next, I need to put some values inside the Map.
 >
-> **[1:28](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-factory-method-with-functional-programming?u=76281980&t=88)** So I'm going to create a static block, so put the word static and then a pair of curly braces, and then for the first one, I'm going to say, "ticketMap.put."
+> **[1:28](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-factory-method-with-functional-programming?u=76281980&t=88)** So I'm going to create a static block, so put the [[Microsoft Word|word]] static and then a pair of curly braces, and then for the first one, I'm going to say, "ticketMap.put."
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-factory-method-with-functional-programming?u=76281980&t=99)** And for bus tickets, the key is going to be the string "Bus," and then the value is my Supplier.
 >
@@ -1837,14 +1810,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), application (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** ticketmap (5), tickettype (5), createticket (2), ticketmachine (1)
 > **Definitions:** is a  (4)
 > **Best Practices:** the key is (4)
 > **CLI Commands:** make (1)
 
-#### Challenge: The Factory Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-factory-method-pattern?u=76281980)
+#### [Challenge: The Factory Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-factory-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1890,7 +1862,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-factory-method-pattern?u=76281980&t=97)** But once you've implemented the factory method pattern, it should print out the message saying which snack has been bought and the price.
 >
-> **[1:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-factory-method-pattern?u=76281980&t=104)** You can choose to either implement the pattern with or without functional programming.
+> **[1:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-factory-method-pattern?u=76281980&t=104)** You can choose to either implement the pattern with or without [[Functional Programming]].
 >
 > **[1:48](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-factory-method-pattern?u=76281980&t=108)** Either way is totally fine, so choose whichever you're most comfortable with.
 >
@@ -1898,14 +1870,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **Code Identifiers:** getprice (3), getsnack (3), snacktype (2), buysnack (2)
 > **Env Vars:** vending_machine (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 
-#### Solution: The Factory Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-factory-method-pattern?u=76281980)
+#### [Solution: The Factory Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-factory-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1981,7 +1952,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** snackmap (4), snacktype (2), getsnack (1), getsnacktype (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
@@ -1993,8 +1963,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand abstract factories
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-abstract-factories?u=76281980)
+#### [Understand abstract factories](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-abstract-factories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2062,13 +2031,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (1)
 > **Analogies:** for example (4), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 
-#### Recognize where to use abstract factories
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-abstract-factories?u=76281980)
+#### [Recognize where to use abstract factories](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-abstract-factories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2090,7 +2057,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-abstract-factories?u=76281980&t=41)** And then there are two different implementations of this interface.
 >
-> **[0:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-abstract-factories?u=76281980&t=44)** So one of them is the MountainBikeHandlebars, and this returns the word "FLAT."
+> **[0:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-abstract-factories?u=76281980&t=44)** So one of them is the MountainBikeHandlebars, and this returns the [[Microsoft Word|word]] "FLAT."
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-abstract-factories?u=76281980&t=50)** So mountain bikes have flat handlebars.
 >
@@ -2162,7 +2129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), application (4)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Code Identifiers:** buildbike (3), fronttire (1), backtire (1), gettype (1), getwidth (1)
 > **Env Vars:** spd (2), road (2), mountain (2), flat (1), drop (1)
 > **Analogies:** for example (6), similar to (1)
@@ -2170,8 +2137,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** remember to (1)
 
-#### Create factories for families of objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-factories-for-families-of-objects?u=76281980)
+#### [Create factories for families of objects](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-factories-for-families-of-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2187,7 +2153,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-factories-for-families-of-objects?u=76281980&t=20)** So the first thing I'm going to do to implement this pattern is I'm going to define an interface for creating bike factories.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-factories-for-families-of-objects?u=76281980&t=26)** So first of all, I'm going to create a new class, and I'm going to call it BikeFactory.Java.
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-factories-for-families-of-objects?u=76281980&t=26)** So first of all, I'm going to create a new class, and I'm going to call it BikeFactory.[[Java]].
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-factories-for-families-of-objects?u=76281980&t=34)** And this is going to be an interface.
 >
@@ -2313,7 +2279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** roadbikefactory (4), createhandlebars (3), createtire (3), createpedals (2), fronttire (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** right-click (1), go to (1)
@@ -2322,8 +2288,7 @@ created: 2026-05-02
 > **Env Vars:** mountain (1)
 > **Cross-References:** in the next (1)
 
-#### Implement the complete Abstract Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-complete-abstract-factory-pattern?u=76281980)
+#### [Implement the complete Abstract Factory pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-complete-abstract-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2359,7 +2324,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-complete-abstract-factory-pattern?u=76281980&t=93)** And then in here, I'm going to say "bikeTypes.put."
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-complete-abstract-factory-pattern?u=76281980&t=98)** And I'm going to put for the key for the first one the word "ROAD."
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-complete-abstract-factory-pattern?u=76281980&t=98)** And I'm going to put for the key for the first one the [[Microsoft Word|word]] "ROAD."
 >
 > **[1:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-complete-abstract-factory-pattern?u=76281980&t=104)** And then a supplier is basically a piece of code that's going to return an object for me.
 >
@@ -2451,7 +2416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** biketypes (5), biketype (5), createfactory (4), bikefactory (4), roadbikefactory (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** road (1), mountain (1)
@@ -2460,8 +2425,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 
-#### Challenge: The Abstract Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-abstract-factory-pattern?u=76281980)
+#### [Challenge: The Abstract Factory pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-abstract-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2503,12 +2467,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1)
 > **Cross-References:** previous video (1), next video (1)
 > **Code Identifiers:** createuserinterface (1)
 
-#### Solution: The Abstract Factory pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-abstract-factory-pattern?u=76281980)
+#### [Solution: The Abstract Factory pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-abstract-factory-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2585,12 +2547,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are structural design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980)
+#### [What are structural design patterns?](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980&t=0)** Structural design patterns are all to do with how classes and objects are put together to form larger structures.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980&t=0)** Structural [[Design Patterns]] are all to do with how classes and objects are put together to form larger structures.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-structural-design-patterns?u=76281980&t=5)** As these structures get bigger over time, they can often get more complex.
 >
@@ -2626,8 +2587,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980)
+#### [Understand the Adapter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2653,7 +2613,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980&t=63)** There are two different types of adaptive pattern; the class version and the object version.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980&t=68)** The object version is more common in Java because the class version relies on multiple inheritance.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980&t=68)** The object version is more common in [[Java]] because the class version relies on multiple inheritance.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-adapter-pattern?u=76281980&t=73)** This isn't technically possible in Java, because you can't have classes that extend more than one other class, but a version of this can be achieved by using interfaces.
 >
@@ -2680,8 +2640,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 
-#### Implement the object Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980)
+#### [Implement the object Adapter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2725,7 +2684,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=78)** So there's one more class that I haven't talked about yet, and that's the WordDocumentUploader class.
 >
-> **[1:24](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=84)** So this class does something very similar to the PDF version, but it uploads word documents instead of PDFs.
+> **[1:24](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=84)** So this class does something very similar to the PDF version, but it uploads [[Microsoft Word|word]] documents instead of PDFs.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=90)** And the problem is that I can't use it with the OnlineApplication class because it doesn't implement document uploader, and that class expects a document uploader in its constructor.
 >
@@ -2735,7 +2694,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=105)** So I'm going to solve this by creating an adapter.
 >
-> **[1:49](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=109)** So I'm going to create a new Java class, and I'm going to call it "WordDocumentAdapter."
+> **[1:49](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=109)** So I'm going to create a new [[Java]] class, and I'm going to call it "WordDocumentAdapter."
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-object-adapter-pattern?u=76281980&t=118)** And this new class is going to implement the DocumentUploader interface.
 >
@@ -2789,7 +2748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Java]] (1)
 > **Code Identifiers:** worddocumentuploader (5), uploaddocument (3), documentuploader (2), uploadworddocument (2), onlineapplication2 (2)
 > **Env Vars:** pdf (8)
 > **CLI Commands:** make (1)
@@ -2797,12 +2756,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** similar to (1)
 
-#### Implement the class Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-class-adapter-pattern?u=76281980)
+#### [Implement the class Adapter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-class-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-class-adapter-pattern?u=76281980&t=0)** My app for uploading online job applications now uses the adapter pattern so that it can upload Word documents as well as PDF documents.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-class-adapter-pattern?u=76281980&t=0)** My app for uploading online job applications now uses the adapter pattern so that it can upload [[Microsoft Word|Word]] documents as well as PDF documents.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-class-adapter-pattern?u=76281980&t=8)** But there's one small drawback.
 >
@@ -2866,7 +2824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Code Identifiers:** uploadworddocument (4), worddocumentuploader (3)
 > **Env Vars:** pdf (3)
 > **Analogies:** for example (2)
@@ -2875,8 +2833,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: The Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-adapter-pattern?u=76281980)
+#### [Challenge: The Adapter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2892,7 +2849,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-adapter-pattern?u=76281980&t=33)** And there's one class that implements this interface, and that's the EnglishLocalizedMessage class.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-adapter-pattern?u=76281980&t=38)** So this overrides sayHello and it has System.out.println and then it just prints out the word "Hello."
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-adapter-pattern?u=76281980&t=38)** So this overrides sayHello and it has System.out.println and then it just prints out the [[Microsoft Word|word]] "Hello."
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-adapter-pattern?u=76281980&t=44)** Then there's a class called App.
 >
@@ -2931,8 +2888,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** localizedmessage (4), sayhello (3), frenchlocalizedmessage (3), englishlocalizedmessage (2), englishgreeting (1)
 
-#### Solution: The Adapter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-adapter-pattern?u=76281980)
+#### [Solution: The Adapter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-adapter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2992,8 +2948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Bridge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-bridge-pattern?u=76281980)
+#### [Understand the Bridge pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-bridge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3034,8 +2989,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Implement the Bridge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-bridge-pattern?u=76281980)
+#### [Implement the Bridge pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-bridge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3045,7 +2999,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-bridge-pattern?u=76281980&t=10)** And then there are two classes that implements this interface which are Hoodie and Shirt.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-bridge-pattern?u=76281980&t=14)** So if I look in the Hoodie class, this overrides the getType method and prints out the word "Hoodie."
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-bridge-pattern?u=76281980&t=14)** So if I look in the Hoodie class, this overrides the getType method and prints out the [[Microsoft Word|word]] "Hoodie."
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-bridge-pattern?u=76281980&t=19)** And in the Shirt class, it overrides the getType method and prints out the word "Shirt."
 >
@@ -3151,8 +3105,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
 
-#### Challenge: The Bridge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-bridge-pattern?u=76281980)
+#### [Challenge: The Bridge pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-bridge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3162,7 +3115,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-bridge-pattern?u=76281980&t=13)** And then there are two implementations of this which are circle and square.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-bridge-pattern?u=76281980&t=17)** So in the Circle class, it prints out the word "circle."
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-bridge-pattern?u=76281980&t=17)** So in the Circle class, it prints out the [[Microsoft Word|word]] "circle."
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-bridge-pattern?u=76281980&t=20)** And in the Square class, it prints out the word "Square."
 >
@@ -3188,14 +3141,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Code Identifiers:** gettype (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Solution: The Bridge pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-bridge-pattern?u=76281980)
+#### [Solution: The Bridge pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-bridge-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3263,7 +3215,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Code Identifiers:** getcolor (7), gettype (2)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -3274,8 +3225,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Composite pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern-23224165?u=76281980)
+#### [Understand the Composite pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern-23224165?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3315,8 +3265,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Implement the Composite pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator?u=76281980)
+#### [Implement the Composite pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3414,15 +3363,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** iscompleted (12), todoitems (2), addtodoitem (1), foreach (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: the Composite pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern?u=76281980)
+#### [Challenge: the Composite pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3468,7 +3415,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** addnote (2), getnotes (1), doreme (1)
 > **Env Vars:** cdecece (1)
 > **Cross-References:** in the next (1)
@@ -3476,8 +3422,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Solution: the Composite pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern-23218143?u=76281980)
+#### [Solution: the Composite pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern-23218143?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3485,7 +3430,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern-23218143?u=76281980&t=8)** So the first thing I'm going to do is I'm going to create an interface to define the play method.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern-23218143?u=76281980&t=13)** So I'm going to create a new Java class and I'm going to call it "MmusicalItem."
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern-23218143?u=76281980&t=13)** So I'm going to create a new [[Java]] class and I'm going to call it "MmusicalItem."
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern-23218143?u=76281980&t=18)** So you might have called this something different, which is totally fine.
 >
@@ -3541,8 +3486,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern?u=76281980)
+#### [Understand the Decorator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3592,11 +3536,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (3)
 
-#### Change behavior dynamically with a decorator
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980)
+#### [Change behavior dynamically with a decorator](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3614,11 +3556,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=30)** So I'm going to create a Decorator class to handle that.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=33)** I'm going to create a new Java class and I'm going to call it UserDecorator.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=33)** I'm going to create a new [[Java]] class and I'm going to call it UserDecorator.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=39)** And this is going to be an abstract class.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=41)** So I'm going to add the word "abstract" before class.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=41)** So I'm going to add the [[Microsoft Word|word]] "abstract" before class.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/change-behavior-dynamically-with-a-decorator-23218147?u=76281980&t=44)** And then I'm going to add at the end, implements User.
 >
@@ -3700,14 +3642,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), application (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** printprivileges (9), adminuser (2), printsprivileges (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 
-#### Add multiple decorations to an object
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/add-multiple-decorations-to-an-object?u=76281980)
+#### [Add multiple decorations to an object](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/add-multiple-decorations-to-an-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3754,8 +3695,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: The Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern-23221135?u=76281980)
+#### [Challenge: The Decorator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern-23221135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3765,7 +3705,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern-23221135?u=76281980&t=15)** And then there's a class called BasicRoom which implements the Room interface.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern-23221135?u=76281980&t=19)** And inside the printFurniture method, it just prints out the word "Carpet."
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern-23221135?u=76281980&t=19)** And inside the printFurniture method, it just prints out the [[Microsoft Word|word]] "Carpet."
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-decorator-pattern-23221135?u=76281980&t=23)** So a basic room just has a carpet in it.
 >
@@ -3795,18 +3735,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** printfurniture (3)
 > **Cross-References:** in the next (1)
 
-#### Solution: The Decorator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980)
+#### [Solution: The Decorator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=5)** So this is how I'd go about solving the decorator pattern challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to create a new Java class, and I'm going to call it RoomDecorator.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to create a new [[Java]] class, and I'm going to call it RoomDecorator.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=16)** And this is going to be an abstract class.
 >
@@ -3854,7 +3793,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=111)** And first, I'm going to call super.printFurniture, then I'm going to add my own custom message.
 >
-> **[1:58](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=118)** So at the bottom here, I'm going to say "System.out.println" and I'm going to put the word "Couch."
+> **[1:58](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=118)** So at the bottom here, I'm going to say "System.out.println" and I'm going to put the [[Microsoft Word|word]] "Couch."
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-decorator-pattern?u=76281980&t=124)** So that's my first decorator done.
 >
@@ -3900,7 +3839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** printfurniture (11), roomwithcouch (4), roomwithcouchandtable (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -3910,12 +3849,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Facade pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980)
+#### [Understand the Facade pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980&t=0)** The word facade can mean a deceptive outward appearance, and in this case, it means that you have a simple interface that hides the complexity of the code behind it.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980&t=0)** The [[Microsoft Word|word]] facade can mean a deceptive outward appearance, and in this case, it means that you have a simple interface that hides the complexity of the code behind it.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-facade-pattern?u=76281980&t=8)** For example, think about when you write an email and click on "Send."
 >
@@ -3953,14 +3891,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
 
-#### Implement the Facade pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-facade-pattern?u=76281980)
+#### [Implement the Facade pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-facade-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-facade-pattern?u=76281980&t=0)** I have an application here that's used for encrypting strings.
 >
-> **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-facade-pattern?u=76281980&t=3)** Encryption is quite a complicated process in Java with quite a few steps in it, and I'm using lots of different classes from the JDK here to do this.
+> **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-facade-pattern?u=76281980&t=3)** Encryption is quite a complicated process in [[Java]] with quite a few steps in it, and I'm using lots of different classes from the JDK here to do this.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-facade-pattern?u=76281980&t=10)** So, for example, I'm using key generator, secret key, secure random, IV parameter spec, and so on.
 >
@@ -4010,7 +3947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Cross-References:** go back to (3)
 > **Code Identifiers:** encryptionfacade (2)
 > **Env Vars:** jdk (2)
@@ -4018,8 +3955,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 
-#### Challenge: The Facade pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-facade-pattern?u=76281980)
+#### [Challenge: The Facade pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-facade-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4031,7 +3967,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-facade-pattern?u=76281980&t=19)** So if I run this main method inside the App class, I can see that it prints out several messages about how this works.
 >
-> **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-facade-pattern?u=76281980&t=26)** So it says, "Connecting to server, authenticating clients, routing to recipients, authenticating recipients, sending message, and message received."
+> **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-facade-pattern?u=76281980&t=26)** So it says, "Connecting to server, authenticating clients, [[Routing]] to recipients, authenticating recipients, sending message, and message received."
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-facade-pattern?u=76281980&t=34)** In this exercise, you should implement the facade pattern so that this App class doesn't need to know how the internals of sending a message works.
 >
@@ -4041,11 +3977,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: The Facade pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980)
+#### [Solution: The Facade pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4053,7 +3988,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to create a class for my facade.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=12)** So I'm going to create a new Java class and I'm going to call it "SendMessageFacade."
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=12)** So I'm going to create a new [[Java]] class and I'm going to call it "SendMessageFacade."
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=19)** And inside this class, I'm going to create a new method called sendMessage.
 >
@@ -4071,7 +4006,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=60)** So if I run this again, I can see I still get the same output as before.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=64)** So connecting to server, authenticating clients, routing to recipients, authenticating recipients, sending message, and message received.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=64)** So connecting to server, authenticating clients, [[Routing]] to recipients, authenticating recipients, sending message, and message received.
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-facade-pattern?u=76281980&t=72)** So that's how you can use the facade pattern to hide complexity behind another class.
 
@@ -4086,8 +4021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Flyweight pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980)
+#### [Understand the Flyweight pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4095,7 +4029,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=3)** It does this by reusing objects that have already been created rather than using new ones.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=8)** One example of where this pattern might be used is in a word processor app.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=8)** One example of where this pattern might be used is in a [[Microsoft Word|word]] processor app.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=12)** When someone types a sentence, each letter could be a new object.
 >
@@ -4105,7 +4039,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=27)** This way, less memory is used for storing all the different letters as typed.
 >
-> **[0:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=30)** The way this is usually implemented in Java is that you have a factory class with a map, for example a HashMap.
+> **[0:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=30)** The way this is usually implemented in [[Java]] is that you have a factory class with a map, for example a HashMap.
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-flyweight-pattern?u=76281980&t=37)** Then when someone types the letter a, it checks if there's an object with the key "a" inside the map.
 >
@@ -4129,12 +4063,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Java]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
 
-#### Implement the Flyweight pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-fyweight-pattern?u=76281980)
+#### [Implement the Flyweight pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-fyweight-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4264,7 +4197,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-fyweight-pattern?u=76281980&t=312)** Then I can do the same for the burgers.
 >
-> **[5:15](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-fyweight-pattern?u=76281980&t=315)** But I'm going to pass in the word "burger" instead of pizza.
+> **[5:15](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-fyweight-pattern?u=76281980&t=315)** But I'm going to pass in the [[Microsoft Word|word]] "burger" instead of pizza.
 >
 > **[5:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-fyweight-pattern?u=76281980&t=319)** So I'm going to copy and paste this for burger2 and for burger3 as well.
 >
@@ -4276,15 +4209,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** ordercache (5), createorder (3), computeifabsent (3), containskey (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 
-#### Challenge: The Flyweight pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-flyweight-pattern?u=76281980)
+#### [Challenge: The Flyweight pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-flyweight-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4314,18 +4246,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Solution: The Flyweight pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980)
+#### [Solution: The Flyweight pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=5)** Now, I'm going to walk through my implementation of the flyweight pattern for this exercise.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to create a new Java class, and I'm going to call it FlowerFactory.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to create a new [[Java]] class, and I'm going to call it FlowerFactory.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=18)** Then inside this class, I'm going to create a map.
 >
@@ -4353,7 +4283,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=81)** That's the value. And if not, then it creates a new flower, saves it in the map with the name as the key, and returns it.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=87)** So if you did this without functional programming, but the functionality is the same, then that's another perfect solution.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=87)** So if you did this without [[Functional Programming]], but the functionality is the same, then that's another perfect solution.
 >
 > **[1:34](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=94)** So just to check it worked, I'm going to go back to the Garden class, and instead of creating a new flower, I'm going to say "FlowerFactory.createFlower" and pass in the name "Sunflower."
 >
@@ -4369,7 +4299,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=134)** Then I'm going to copy that and paste it for rose2 and also for rose3.
 >
-> **[2:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=141)** So if I run the app again now, and I just need to remove the word "new" in front of FlowerFactory.createFlower for rose3.
+> **[2:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=141)** So if I run the app again now, and I just need to remove the [[Microsoft Word|word]] "new" in front of FlowerFactory.createFlower for rose3.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-flyweight-pattern?u=76281980&t=151)** So let's try running that again, and in the output now, I can see only creates the sunflower objects once and also the rose objects once.
 >
@@ -4379,7 +4309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1), [[Functional Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Functional Programming]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** createflower (4), flowercache (2), computeifabsent (1), computerifabsent (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -4390,8 +4320,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Proxy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-proxy-pattern?u=76281980)
+#### [Understand the Proxy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-proxy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4429,13 +4358,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1)
 > **Prerequisites:** setup (5)
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is a  (1)
 
-#### Recognize where to use the Proxy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognize-where-to-use-the-proxy-pattern?u=76281980)
+#### [Recognize where to use the Proxy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognize-where-to-use-the-proxy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4533,7 +4460,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (1), application (1)
 > **Code Identifiers:** showrecommendations (4), loadhomepage (4), loaddiscoverpage (4), getdata (2), getname (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (1)
@@ -4542,8 +4468,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 
-#### Use a proxy to create objects on demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-create-objects-on-demand?u=76281980)
+#### [Use a proxy to create objects on demand](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-create-objects-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4551,7 +4476,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-create-objects-on-demand?u=76281980&t=5)** So the first thing I'm going to do is I'm going to make a proxy class that will make sure the expensive setup is only done the first time the object is used.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-create-objects-on-demand?u=76281980&t=13)** So I'm going to create a new Java class and I'm going to call it RecommendationsProxy.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-create-objects-on-demand?u=76281980&t=13)** So I'm going to create a new [[Java]] class and I'm going to call it RecommendationsProxy.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-create-objects-on-demand?u=76281980&t=20)** And this class is going to implement the recommendations interface.
 >
@@ -4627,14 +4552,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Java]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** showrecommendations (6), recommendationsproxy (3), loadhomepage (2), loaddiscoverpage (2), songrecommendations (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** setup (1), initialization (1)
 > **Cross-References:** go back to (1)
 
-#### Use a proxy to control access
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-control-access?u=76281980)
+#### [Use a proxy to control access](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-a-proxy-to-control-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4686,15 +4610,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Code Identifiers:** ispremium (9), showrecommendations (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** initialization (1)
 
-#### Challenge: The Proxy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-proxy-pattern?u=76281980)
+#### [Challenge: The Proxy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-proxy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4734,12 +4656,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** playmedia (4), loadvideo (2), gotomovielibrary (2), gotofavoritemovies (2)
 > **Cross-References:** in the next (1)
 
-#### Solution: The Proxy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-proxy-pattern?u=76281980)
+#### [Solution: The Proxy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-proxy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4747,7 +4667,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-proxy-pattern?u=76281980&t=9)** So the first thing I'm going to do is I'm going to create a class for my proxy.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-proxy-pattern?u=76281980&t=13)** So I'm going to add a new Java class and I'm going to call it MediaPlayerProxy.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-proxy-pattern?u=76281980&t=13)** So I'm going to add a new [[Java]] class and I'm going to call it MediaPlayerProxy.
 >
 > **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-proxy-pattern?u=76281980&t=19)** And this class is going to implement the media player interface.
 >
@@ -4792,12 +4712,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are behavioral design patterns?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980)
+#### [What are behavioral design patterns?](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980&t=0)** Behavioral design patterns are about how objects assign responsibilities between each other.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980&t=0)** Behavioral [[Design Patterns]] are about how objects assign responsibilities between each other.
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/what-are-behavioral-design-patterns?u=76281980&t=5)** They're concerned with how objects are connected, how they communicate with each other, and how responsibilities are assigned between them.
 >
@@ -4822,8 +4741,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Chain of Responsibility pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-chain-of-responsibility-pattern?u=76281980)
+#### [Understand the Chain of Responsibility pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-chain-of-responsibility-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4861,13 +4779,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Recognize where to use the Chain of Responsibility pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-chain-of-responsibility-pattern?u=76281980)
+#### [Recognize where to use the Chain of Responsibility pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/recognise-where-to-use-the-chain-of-responsibility-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4941,13 +4857,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** log.txt (3)
 > **Code Identifiers:** loggertype (3)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Implement a successor chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-a-successor-chain?u=76281980)
+#### [Implement a successor chain](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-a-successor-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5063,7 +4977,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **Code Identifiers:** nextlogger (14), getloggertype (2), buildchain (2), filelogger (1), consolelogger (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -5071,8 +4984,7 @@ created: 2026-05-02
 > **File Paths:** log.txt (1)
 > **Env Vars:** consple (1)
 
-#### Challenge: The Chain of Responsibility pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-chain-of-responsibility-pattern?u=76281980)
+#### [Challenge: The Chain of Responsibility pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-chain-of-responsibility-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5114,14 +5026,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** atm (9), usd (1), eur (1)
 > **Cross-References:** previous video (1), next video (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 
-#### Solution: The Chain of Responsibility pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-chain-of-responsibility-pattern?u=76281980)
+#### [Solution: The Chain of Responsibility pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-chain-of-responsibility-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5203,7 +5113,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** nextatm (12), euroatm (4), getcurrency (2), buildchain (2)
 > **Env Vars:** atm (12), usd (4), eur (2)
 > **CLI Commands:** make (2)
@@ -5216,8 +5125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-command-pattern?u=76281980)
+#### [Understand the Command pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5266,8 +5174,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), for example (1)
 
-#### Implement the Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-command-pattern?u=76281980)
+#### [Implement the Command pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5295,7 +5202,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-command-pattern?u=76281980&t=62)** So instead of calling them methods directly, I'm going to create classes for these actions.
 >
-> **[1:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-command-pattern?u=76281980&t=67)** So the first thing I'm going to do is I'm going to create a new Java class, and I'm going to call it ItemOperation.
+> **[1:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-command-pattern?u=76281980&t=67)** So the first thing I'm going to do is I'm going to create a new [[Java]] class, and I'm going to call it ItemOperation.
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-command-pattern?u=76281980&t=76)** And this class is going to be an interface with a single void method called execute.
 >
@@ -5389,13 +5296,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** addtobasket (5), removefrombasket (4), dooperation (3), itemoperationexecutor (2), itemoperation (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 
-#### Use the Command pattern to delay operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-the-command-pattern-to-delay-operations?u=76281980)
+#### [Use the Command pattern to delay operations](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/use-the-command-pattern-to-delay-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5458,8 +5364,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: The Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-command-pattern?u=76281980)
+#### [Challenge: The Command pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5491,13 +5396,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** ison (4), turnonlight (1), turnofflight (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 
-#### Solution: The Command pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-command-pattern?u=76281980)
+#### [Solution: The Command pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-command-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5505,7 +5408,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-command-pattern?u=76281980&t=8)** The first thing I'm going to do is create an interface for executing commands.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-command-pattern?u=76281980&t=12)** So I'm going to create a new Java class and I'm going to call it LightCommand.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-command-pattern?u=76281980&t=12)** So I'm going to create a new [[Java]] class and I'm going to call it LightCommand.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-command-pattern?u=76281980&t=20)** So I'm going to change class to interface.
 >
@@ -5603,8 +5506,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980)
+#### [Understand the Interpreter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5614,15 +5516,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=9)** The interpreter pattern is a way of translating one language into another.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=13)** So if you think of Google Translate, for example, it takes the input language and interpret it into a new language.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=13)** So if you think of [[Google]] Translate, for example, it takes the input language and interpret it into a new language.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=18)** There are many different and varied scenarios where the interpreter pattern might be used.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=23)** It could be used to write custom regular expressions or even write your own compiler.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=27)** Or you could use it to translate human languages or parse SQL or even create a simple calculator.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=27)** Or you could use it to translate human languages or parse [[SQL]] or even create a simple calculator.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=33)** The idea of the interpreter pattern in Java is that if the same problem keeps coming up, then you can express that problem as a sentence and interpret it.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=33)** The idea of the interpreter pattern in [[Java]] is that if the same problem keeps coming up, then you can express that problem as a sentence and interpret it.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=41)** The interpreter defines a grammar for the language and then uses an abstract syntax tree to interpret it.
 >
@@ -5648,7 +5550,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=92)** So, for example, if you were translating a language, the context could be "Hello world."
 >
-> **[1:37](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=97)** The non-terminal operations translate each word into the correct word in the new language.
+> **[1:37](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=97)** The non-terminal operations translate each [[Microsoft Word|word]] into the correct word in the new language.
 >
 > **[1:42](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-interpreter-pattern?u=76281980&t=102)** And when it gets to some punctuation, like a period or exclamation mark, it returns that and stops.
 >
@@ -5660,15 +5562,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Google]] (1), [[SQL]] (1), [[Java]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Google]] (1), [[SQL]] (1), [[Java]] (1)
 > **Tools:** terminal (6)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Analogies:** for example (2), imagine (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** coming up (1)
 
-#### Creating an interpreter for a language
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980)
+#### [Creating an interpreter for a language](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5678,7 +5579,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=10)** So one example is the organized input feature, where your IDE will rearrange your import statements in alphabetical order, and it will remove any unused ones.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=19)** In this example, I'm going to implement a new feature similar to those used by your IDE to alter variable names so that they meet Java naming conventions.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=19)** In this example, I'm going to implement a new feature similar to those used by your IDE to alter variable names so that they meet [[Java]] naming conventions.
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=28)** And I'm going to use the interpreter pattern.
 >
@@ -5736,7 +5637,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=167)** So I'm going to say context equals context.substring and pass in zero for the first character and one for the second character, then I'm going to say .toLowerCase.
 >
-> **[3:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=183)** Then I need to add to the rest of the string.
+> **[3:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=183)** Then I need to add to the [[Representational State Transfer (REST)|rest]] of the string.
 >
 > **[3:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/creating-an-interpreter-for-a-language?u=76281980&t=185)** So I'm going to say + context.substring and pass in one.
 >
@@ -5790,7 +5691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (3), feature (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Java]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** nowhitespace (2), firstlettershouldnotbelowercase (2), replaceall (1), tolowercase (1), startswith (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ide (3)
@@ -5798,12 +5699,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
 
-#### Interpreting a variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/interpreting-a-variable?u=76281980)
+#### [Interpreting a variable](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/interpreting-a-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/interpreting-a-variable?u=76281980&t=0)** Now I've got an interpreter that will apply some rules to variable names to make sure they follow Java naming conventions.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/interpreting-a-variable?u=76281980&t=0)** Now I've got an interpreter that will apply some rules to variable names to make sure they follow [[Java]] naming conventions.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/interpreting-a-variable?u=76281980&t=6)** So I just need a client to try it out now.
 >
@@ -5841,8 +5741,7 @@ created: 2026-05-02
 > **Code Identifiers:** firstlettershouldnotbeunderscore (2)
 > **CLI Commands:** make (1)
 
-#### Challenge: The Interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-interpreter-pattern?u=76281980)
+#### [Challenge: The Interpreter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5870,12 +5769,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: The Interpreter pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980)
+#### [Solution: The Interpreter pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5885,7 +5782,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=12)** So I'll start with the rules that the first letter should be a capital.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=16)** So I'm going to create a new Java class, and I'm going to call it FirstLetterShouldBeACapital.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=16)** So I'm going to create a new [[Java]] class, and I'm going to call it FirstLetterShouldBeACapital.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=25)** And this class is going to implement the Expression interface.
 >
@@ -5901,7 +5798,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=51)** So I'm going to say var firstLetter equals context.substring and then pass in zero and one.
 >
-> **[1:02](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=62)** Then I'm going to say return firstLetter.toUpperCase, then I'm going to append the rest of the string.
+> **[1:02](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=62)** Then I'm going to say return firstLetter.toUpperCase, then I'm going to append the [[Representational State Transfer (REST)|rest]] of the string.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-interpreter-pattern?u=76281980&t=71)** So I'm going to say + context.substring and pass in one.
 >
@@ -5971,12 +5868,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980)
+#### [Understand the Iterator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980&t=0)** You've probably used the iterator pattern in Java quite a lot.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980&t=0)** You've probably used the iterator pattern in [[Java]] quite a lot.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-iterator-pattern?u=76281980&t=3)** In fact, maybe even more than you realize.
 >
@@ -6014,8 +5910,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Create an Iterable
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterable?u=76281980)
+#### [Create an Iterable](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6037,7 +5932,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterable?u=76281980&t=36)** So the first step is to create an iterable, which is a collection that can be iterated over.
 >
-> **[0:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterable?u=76281980&t=41)** So I'm going to create a new Java class and I'm going to call it inventory.
+> **[0:41](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterable?u=76281980&t=41)** So I'm going to create a new [[Java]] class and I'm going to call it inventory.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterable?u=76281980&t=47)** Normally, in iterator pattern, you would create your own interface for iterables and iterators.
 >
@@ -6079,14 +5974,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), next (2), feature (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getname (1), getquantity (1), getitems (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** jdk (2)
 
-#### Create an Iterator
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterator?u=76281980)
+#### [Create an Iterator](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6094,7 +5988,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterator?u=76281980&t=4)** I've already created an iterable, and now I'm going to create a class to do the iteration.
 >
-> **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterator?u=76281980&t=9)** So I'm going to create a new Java class and I'm going to call it StockIterator.
+> **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterator?u=76281980&t=9)** So I'm going to create a new [[Java]] class and I'm going to call it StockIterator.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-an-iterator?u=76281980&t=15)** And this class is going to implement an interface from the JDK.
 >
@@ -6224,15 +6118,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** hasnext (6), stockiterator (2), getitems (1), getquantity (1), getname (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** jdk (1)
 
-#### Challenge: The Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-iterator-pattern?u=76281980)
+#### [Challenge: The Iterator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6248,11 +6141,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (1)
 
-#### Solution: The Iterator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-iterator-pattern?u=76281980)
+#### [Solution: The Iterator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-iterator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6294,7 +6185,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-iterator-pattern?u=76281980&t=85)** And I'm just going to make sure that the correct iterator has been imported.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-iterator-pattern?u=76281980&t=90)** So if I've accidentally imported the wrong one, so I'm just going to re-import this and make sure it's from Java.util.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-iterator-pattern?u=76281980&t=90)** So if I've accidentally imported the wrong one, so I'm just going to re-import this and make sure it's from [[Java]].util.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-iterator-pattern?u=76281980&t=97)** So the next thing I'm going to do is create the iterator.
 >
@@ -6382,7 +6273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Java]] (3)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Code Identifiers:** hasnext (6), countrycollection (3), countrylist (3), countryiterator (3), getcountries (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
@@ -6392,8 +6283,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-mediator-pattern?u=76281980)
+#### [Understand the Mediator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6437,15 +6327,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Avoid tight coupling between objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoid-tight-coupling-between-objects?u=76281980)
+#### [Avoid tight coupling between objects](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoid-tight-coupling-between-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6519,13 +6407,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** inprogresstickets (1), donetickets (1), addtickettoinprogresstickets (1), addtickettodonetickets (1), pickuptickets (1)
 > **Definitions:** is an  (2), means that (2), is a  (1)
 > **CLI Commands:** make (1)
 
-#### Create a Mediator object
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-a-mediator-object?u=76281980)
+#### [Create a Mediator object](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/create-a-mediator-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6650,8 +6536,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Definitions:** means that (1)
 
-#### Challenge: The Mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-mediator-pattern?u=76281980)
+#### [Challenge: The Mediator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6699,20 +6584,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), next (1)
 > **Code Identifiers:** changetogreen (2), pedestriancrossinglight (2), pedestriancrossinglights (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 
-#### Solution: The Mediator pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-mediator-pattern?u=76281980)
+#### [Solution: The Mediator pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-mediator-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-mediator-pattern?u=76281980&t=5)** This is my solution to the mediator patent exercise.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-mediator-pattern?u=76281980&t=8)** So the first thing I'm going to do is I'm going to create a new Java class called Mediator.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-mediator-pattern?u=76281980&t=8)** So the first thing I'm going to do is I'm going to create a new [[Java]] class called Mediator.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-mediator-pattern?u=76281980&t=14)** And this class is going to have fields for both of the types of lights.
 >
@@ -6790,7 +6673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** pedestriancrossinglight (10), trafficlight (8), changetored (4), changetogreen (4), changetrafficlighttoamber (3)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1)
@@ -6800,8 +6683,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Memento pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980)
+#### [Understand the Memento pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6829,7 +6711,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980&t=44)** Classes often contain several fields that should be kept in a consistent state.
 >
-> **[0:48](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980&t=48)** So, for example, in Java, you often have private fields with public getter methods, and this is so that other objects can't interfere with the states of those private fields.
+> **[0:48](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980&t=48)** So, for example, in [[Java]], you often have private fields with public getter methods, and this is so that other objects can't interfere with the states of those private fields.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-memento-pattern?u=76281980&t=57)** If they're encapsulated, it prevents anyone else using the objects from messing with the states.
 >
@@ -6855,14 +6737,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** for example (3), imagine (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** click on (1)
 
-#### Restoring an object's state
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/restoring-an-object-s-state?u=76281980)
+#### [Restoring an object's state](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/restoring-an-object-s-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6978,13 +6859,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** textdocument (4), getstate (2), setstate (2)
 > **Cross-References:** go back to (5)
 > **Definitions:** is an  (1)
 
-#### Challenge: The Memento pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-memento-pattern?u=76281980)
+#### [Challenge: The Memento pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-memento-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7008,11 +6887,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Solution: The Memento pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-memento-pattern?u=76281980)
+#### [Solution: The Memento pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-memento-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7077,8 +6954,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980)
+#### [Understand the Observer pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7098,7 +6974,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980&t=38)** In this example, the post is the observable and you are the observer.
 >
-> **[0:42](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980&t=42)** The observer pattern is quite a common pattern in Java applications.
+> **[0:42](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980&t=42)** The observer pattern is quite a common pattern in [[Java]] applications.
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-observer-pattern?u=76281980&t=46)** You would use it when you have one or more objects that need to be notified of changes made by another object and updated accordingly.
 >
@@ -7116,13 +6992,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), data (1), application (1), product (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Analogies:** for example (2)
 > **Versions:** java 9 (1)
 > **Best Practices:** recommended (1)
 
-#### Implementing an Observer
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-an-observer?u=76281980)
+#### [Implementing an Observer](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-an-observer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7199,8 +7074,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** jdk (1)
 
-#### Implementing an Observable
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-an-observable?u=76281980)
+#### [Implementing an Observable](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implementing-an-observable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7276,13 +7150,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** addpropertychangelistener (4), setstatus (1), firepropertychange (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: The Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-observer-pattern?u=76281980)
+#### [Challenge: The Observer pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7326,13 +7198,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** weatherupdates (2), weatherevent (1), setweatherevent (1), printupdates (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 
-#### Solution: The Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-observer-pattern?u=76281980)
+#### [Solution: The Observer pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7405,8 +7275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980)
+#### [Understand the State pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7420,7 +7289,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980&t=16)** For example, it could be already playing or paused or rewinding, and so on.
 >
-> **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980&t=20)** If you write a media player in Java, you might end up with loads of if statements about the state of the player.
+> **[0:20](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980&t=20)** If you write a media player in [[Java]], you might end up with loads of if statements about the state of the player.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-state-pattern?u=76281980&t=26)** For example, you check if it was playing and then have the code to handle that scenario, and then you check if it was paused and then have some code to handle that scenario, and so on.
 >
@@ -7454,8 +7323,7 @@ created: 2026-05-02
 > **Analogies:** for example (3), imagine (1)
 > **Definitions:** is a  (1)
 
-#### Avoiding multiple if-else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-multiple-if-else-statements?u=76281980)
+#### [Avoiding multiple if-else statements](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/avoiding-multiple-if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7500,8 +7368,7 @@ created: 2026-05-02
 > **Code Identifiers:** isopen (2)
 > **Definitions:** is a  (1)
 
-#### Allowing an object to change its behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/allowing-an-object-to-change-its-behavior?u=76281980)
+#### [Allowing an object to change its behavior](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/allowing-an-object-to-change-its-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7644,8 +7511,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Challenge: The State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-state-pattern?u=76281980)
+#### [Challenge: The State pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7677,12 +7543,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Code Identifiers:** isplaying (3)
 > **Cross-References:** in the next (1)
 
-#### Solution: The State pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-state-pattern?u=76281980)
+#### [Solution: The State pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-state-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7770,14 +7634,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980)
+#### [Understand the Strategy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=0)** In the strategy pattern, the word strategy usually refers to an algorithm.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=0)** In the strategy pattern, the [[Microsoft Word|word]] strategy usually refers to an algorithm.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=4)** When you use this pattern, you define a family of algorithms and make them interchangeable. As a real-life example, say you have a video game and the person you're controlling has different powers they can use.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=4)** When you use this pattern, you define a family of [[Algorithms]] and make them interchangeable. As a real-life example, say you have a video game and the person you're controlling has different powers they can use.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=14)** For example, they can fly, they can climb things, they can swim, and so on.
 >
@@ -7785,7 +7648,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=24)** They'll need to decide dynamically which one to use.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=27)** This is a bit like how the strategy pattern works. In Java, there are many different scenarios where you might need the strategy pattern.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=27)** This is a bit like how the strategy pattern works. In [[Java]], there are many different scenarios where you might need the strategy pattern.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=35)** For example, if you want to encrypt files but have different ways of encrypting them depending on the situation, or if you have different types of validation that you could use, or different sorting algorithms that you want to use or want to save to different file types, and so on.
 >
@@ -7803,20 +7666,19 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=72)** Since this pattern was first described by the Gang of Four, new features in Java have been implemented which make this pattern even simpler to implement.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=79)** With the use of functional programming features that were introduced in Java 8, such as lambdas and static methods in functional interfaces, we can actually remove the need for the concrete implementations of the interface altogether.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=79)** With the use of [[Functional Programming]] features that were introduced in Java 8, such as lambdas and static methods in functional interfaces, we can actually remove the need for the concrete implementations of the interface altogether.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-strategy-pattern?u=76281980&t=91)** I'll be demonstrating how this works in my examples.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[Algorithms]] (2), game (2), [[Microsoft Word|Word]] (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Algorithms]] (2), [[Microsoft Word|Word]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Versions:** java 8 (1)
 
-#### Implement the Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980)
+#### [Implement the Strategy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7854,7 +7716,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=85)** Now I'll do the same for single sign-on.
 >
-> **[1:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=87)** So I'm going to create another class and I'm going to call this one SingleSignOnAuthenticator.java.
+> **[1:27](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=87)** So I'm going to create another class and I'm going to call this one SingleSignOnAuthenticator.[[Java]].
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=93)** And again this is going to implement the authenticator interface.
 >
@@ -7866,7 +7728,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=109)** And this time I'm going to say System.out.println and pass in logging in with single sign-on.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=117)** Now I need a login page where the users login, which will use one of these algorithms.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=117)** Now I need a login page where the users login, which will use one of these [[Algorithms]].
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-strategy-pattern?u=76281980&t=123)** So I'm going to create another new class and I'm going to call it login page.
 >
@@ -7906,14 +7768,13 @@ created: 2026-05-02
 > **Code Identifiers:** loginuser (3), loginpage (3)
 > **File Paths:** singlesignonauthenticator.java (1)
 
-#### Improve the Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-strategy-pattern?u=76281980)
+#### [Improve the Strategy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-strategy-pattern?u=76281980&t=0)** I've now implemented an app that lets users log in using two different strategies, with username and password or with single sign-on.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-strategy-pattern?u=76281980&t=7)** I can actually remove a lot of the code I have by making use of functional programming features in Java.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-strategy-pattern?u=76281980&t=7)** I can actually remove a lot of the code I have by making use of [[Functional Programming]] features in [[Java]].
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/improve-the-strategy-pattern?u=76281980&t=12)** If I look at the authenticator interface, I can see that this only defines a single method, and that means that I could actually make use of lambdas instead of creating concrete implementations.
 >
@@ -7990,8 +7851,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Challenge: The Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-strategy-pattern?u=76281980)
+#### [Challenge: The Strategy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8021,21 +7881,19 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-strategy-pattern?u=76281980&t=60)** When you've implemented the strategy pattern, you should run the app again and check you have the same output as before.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-strategy-pattern?u=76281980&t=66)** In my solution, I'll be using functional programming, but you can also do this without and still come up with a perfect solution.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-strategy-pattern?u=76281980&t=66)** In my solution, I'll be using [[Functional Programming]], but you can also do this without and still come up with a perfect solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Programming]] (1)
 > **Code Identifiers:** paywithcard (2), paybybanktransfer (1), paywithbanktransfer (1)
 
-#### Solution: The Strategy pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980)
+#### [Solution: The Strategy pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980&t=5)** This is my solution to the strategy pattern exercise.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980&t=8)** First of all, I'm going to create a new Java class and I'm going to call it PaymentMethod, but any reasonable name is fine.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980&t=8)** First of all, I'm going to create a new [[Java]] class and I'm going to call it PaymentMethod, but any reasonable name is fine.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-strategy-pattern?u=76281980&t=16)** And I'm going to change class to interface.
 >
@@ -8081,7 +7939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), generic (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** checkoutpage (3), banktransfer (2), paymentmethod (2), payforitems (2), paywithcard (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -8091,14 +7949,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Template Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980)
+#### [Understand the Template Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=0)** The template method pattern is all about defining the common steps in an algorithm in a superclass, and redefining some of those steps in a subclass.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=7)** This is actually one of the most commonly used design patterns.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=7)** This is actually one of the most commonly used [[Design Patterns]].
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=11)** Imagine there's a recipe for making pizza.
 >
@@ -8106,7 +7963,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=16)** For example, how to make the base and how long to leave the pizza in the oven will be the same for all of them, but the instructions for adding the toppings will be different for each type of pizza order.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=24)** In terms of how this would look in Java code, you would have an abstract class which has methods for creating the base and cooking in the oven.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=24)** In terms of how this would look in [[Java]] code, you would have an abstract class which has methods for creating the base and cooking in the oven.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-template-method-pattern?u=76281980&t=31)** The method for adding the topping would be an abstract method without an implementation.
 >
@@ -8135,8 +7992,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 
-#### Implement the Template Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-template-method-pattern?u=76281980)
+#### [Implement the Template Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-template-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8146,7 +8002,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-template-method-pattern?u=76281980&t=9)** So in the WelcomeEmail class, there's a method called sendGreeting, which is the beginning of the email.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-template-method-pattern?u=76281980&t=14)** So that prints out the word hello.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-template-method-pattern?u=76281980&t=14)** So that prints out the [[Microsoft Word|word]] hello.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-template-method-pattern?u=76281980&t=16)** Then there's the sendMessageBody method which prints out thank you for signing up for our service.
 >
@@ -8233,8 +8089,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1)
 
-#### Challenge: The Template Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-template-method-pattern?u=76281980)
+#### [Challenge: The Template Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-template-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8256,13 +8111,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: The Template Method pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-template-method-pattern?u=76281980)
+#### [Solution: The Template Method pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-template-method-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8315,8 +8168,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Visitor pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980)
+#### [Understand the Visitor pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8334,7 +8186,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980&t=33)** The different fixes might be similar for each different type of vehicle, but also slightly different.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980&t=38)** Let's see what the visitor pattern looks like in a Java program.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980&t=38)** Let's see what the visitor pattern looks like in a [[Java]] program.
 >
 > **[0:42](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/understand-the-visitor-pattern?u=76281980&t=42)** So let's say you have an interface with some concrete implementations of it.
 >
@@ -8380,14 +8232,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Analogies:** imagine (2), such as (1), for example (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Implement the Visitor pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-visitor-pattern?u=76281980)
+#### [Implement the Visitor pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/implement-the-visitor-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8528,8 +8379,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2)
 
-#### Challenge: The Visitor pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-visitor-pattern?u=76281980)
+#### [Challenge: The Visitor pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/challenge-the-visitor-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8577,12 +8427,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** getprice (3), setprice (1), addelement (1), getelements (1)
 > **Cross-References:** next video (1)
 
-#### Solution: The Visitor pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-visitor-pattern?u=76281980)
+#### [Solution: The Visitor pattern](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-visitor-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8590,7 +8438,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-visitor-pattern?u=76281980&t=8)** The first thing I'm going to do is I'm going to create an interface for the visitor.
 >
-> **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-visitor-pattern?u=76281980&t=12)** So I'm going to create a new Java class and I'm going to call it Visitor.
+> **[0:12](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-visitor-pattern?u=76281980&t=12)** So I'm going to create a new [[Java]] class and I'm going to call it Visitor.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/solution-the-visitor-pattern?u=76281980&t=18)** And this is going to be an interface.
 >
@@ -8662,22 +8510,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=0)** Well done on completing this design patterns course.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=0)** Well done on completing this [[Design Patterns]] course.
 >
 > **[0:03](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=3)** Thank you for joining me and I hope you enjoyed it and found it useful.
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=6)** We've covered the most well-known design patterns in Java.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=6)** We've covered the most well-known design patterns in [[Java]].
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=9)** Actually, writing code yourself is the best way to learn it, so completing the exercises in this course should have helped you solidify what you've learned.
 >
 > **[0:16](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=16)** Hopefully, you now feel more confident about putting your design pattern knowledge into practice.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=21)** If you want to keep learning more about Java, check out the many other Java courses in the LinkedIn Learning library.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=21)** If you want to keep learning more about Java, check out the many other Java courses in the [[LinkedIn]] Learning library.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural/next-steps?u=76281980&t=26)** There are several other intermediate courses or there are many courses on more advanced topics.
 >

@@ -69,12 +69,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980)
+#### [Introduction to blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=1)** - Hi there and welcome to the Ethereum Blockchain Apps course.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=1)** - Hi there and welcome to the [[Ethereum]] [[Blockchain]] Apps course.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=4)** I'm Michael Solomon and when I'm not on camera, I'm a professor, an author, and an industry consultant, and I'm starting to work more and more in database environments that include blockchain applications.
 >
@@ -96,13 +95,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=54)** You'll also need to create your own Ethereum wallet, and we'll step you through exactly how to do that.
 >
-> **[0:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=59)** You do that so that you can manage your own cryptocurrency and other crypto assets.
+> **[0:59](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=59)** You do that so that you can manage your own [[Cryptocurrency]] and other crypto assets.
 >
 > **[1:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=64)** From there, you're all ready to really dig into Ethereum.
 >
-> **[1:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=68)** We're going to basically teach you about smart contracts and dApps and we're going to be using Solidity, which is the most popular language that we use in Ethereum to develop these smart contracts.
+> **[1:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=68)** We're going to basically teach you about [[Smart Contracts]] and dApps and we're going to be using [[Solidity]], which is the most popular language that we use in Ethereum to develop these smart contracts.
 >
-> **[1:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=79)** We'll take you through the software development life cycle so you'll know how you do things and what process.
+> **[1:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=79)** We'll take you through the [[Software Development]] life cycle so you'll know how you do things and what process.
 >
 > **[1:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980&t=85)** We're going to talk about how to design smart contracts, then how to write your own code and in smart contracts.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (8), [[Blockchain]] (6), [[Smart Contracts]] (4), database (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (8), [[Blockchain]] (6), [[Smart Contracts]] (4), [[Cryptocurrency]] (1), [[Solidity]] (1)
 > **Code Identifiers:** dapps (1), dapp (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - hi (1)
@@ -128,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The beginning of blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980)
+#### [The beginning of blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=0)** - The best place to start when learning about blockchain is the very beginning.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=0)** - The best place to start when learning about [[Blockchain]] is the very beginning.
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=5)** So we're going to start at a very foundational level.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=159)** You think again, online purchases, we normally are going to pay for those purchases using some sort of card, whether it's a debit card or a credit card.
 >
-> **[2:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=168)** Regardless, that card represents money that we may have and we can render that card for products or services because we trust the vendor and the vendor trusts that card.
+> **[2:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=168)** Regardless, that card represents money that we may have and we can render that card for [[Microsoft Products|products]] or services because we trust the vendor and the vendor trusts that card.
 >
 > **[3:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=182)** They don't trust us, they trust the card.
 >
@@ -211,7 +209,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=230)** Now, blockchain's been around for a little while, since 2008.
 >
-> **[3:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=233)** In fact, in 2008, Satoshi Nakamoto introduced a very interesting paper that introduced the first blockchain and implementation of a blockchain using cryptocurrency, and it's basically Bitcoin.
+> **[3:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=233)** In fact, in 2008, Satoshi Nakamoto introduced a very interesting paper that introduced the first blockchain and implementation of a blockchain using [[Cryptocurrency]], and it's basically Bitcoin.
 >
 > **[4:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980&t=246)** Now, Nakamoto's not the real name.
 >
@@ -227,7 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), [[Cryptocurrency]] (4), next (2), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Cryptocurrency]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [amazon.com](https://amazon.com) (3)
 > **Definitions:** basically means (1), in other words (1)
@@ -235,12 +233,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Currency and cryptocurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980)
+#### [Currency and cryptocurrency](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=0)** - We know that blockchain can help us enact currency exchange, but what does that actually mean?
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=0)** - We know that [[Blockchain]] can help us enact currency exchange, but what does that actually mean?
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=7)** A traditional currency exchange means we have some type of currency and we exchange that for something else.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=57)** So blockchain technology was originally introduced to support a new type of currency.
 >
-> **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=63)** Now, digital currency has been around for a while, a lot longer than blockchain, but the new type of digital currency, called cryptocurrency, is new, and that's what Bitcoin actually implemented.
+> **[1:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=63)** Now, digital currency has been around for a while, a lot longer than blockchain, but the new type of digital currency, called [[Cryptocurrency]], is new, and that's what Bitcoin actually implemented.
 >
 > **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=77)** So the idea behind it is, there's no third party that's actually needed.
 >
@@ -302,7 +299,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=176)** We'll dig down a little bit further.
 >
-> **[2:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=178)** One of the differences between fiat currency and cryptocurrency is that the cryptocurrency is called crypto because it uses cryptography to ensure the integrity of all the data out there.
+> **[2:58](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=178)** One of the differences between fiat currency and cryptocurrency is that the cryptocurrency is called crypto because it uses [[Cryptography]] to ensure the integrity of all the data out there.
 >
 > **[3:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/currency-and-cryptocurrency?u=76281980&t=191)** Because remember, we don't trust other people that are handling our data.
 >
@@ -332,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (14), [[Cryptocurrency]] (6), [[Cryptography]] (5), data (2), product (1)
+> **Frameworks & Libraries:** [[Blockchain]] (14), [[Cryptocurrency]] (6), [[Cryptography]] (5)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (3)
 > **Analogies:** kind of like (2), picture (1)
@@ -341,12 +338,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
 
-#### Why use the blockchain?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980)
+#### [Why use the blockchain?](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=0)** - In the last episode, you learned that blockchain was initially created to exchange currency, but it can do a lot more than that.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=0)** - In the last episode, you learned that [[Blockchain]] was initially created to exchange currency, but it can do a lot more than that.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=8)** Let's start our path toward learning more about blockchain by mapping a real-life example to what blockchain may be able to do for us.
 >
@@ -436,7 +432,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=243)** So if we had, let's say a spreadsheet of all the work that we've done, it's hard to share that spreadsheet with a lot of places, and chances are, it's going to be stored in probably one place or a couple places.
 >
-> **[4:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=254)** And if something bad happens, let's say ransomware encrypts it so that he can't get a hold of it, or if there's a hardware failure, or for whatever reason, the data goes away, it's hard to get back.
+> **[4:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=254)** And if something bad happens, let's say ransomware encrypts it so that he can't get a hold of it, or if there's a [[Hardware]] failure, or for whatever reason, the data goes away, it's hard to get back.
 >
 > **[4:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=266)** With blockchain, there's lots of copies, and so we get this resilience.
 >
@@ -458,11 +454,11 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=318)** It's important to know the how so we can implement our solutions when we have the why questions.
 >
-> **[5:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=325)** Once you have a firm grasp on how general blockchain works, then we're ready to start digging into a specific, very cool implementation of blockchain called Ethereum, from which we're going to talk about predominantly in chapter two.
+> **[5:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/why-use-the-blockchain?u=76281980&t=325)** Once you have a firm grasp on how general blockchain works, then we're ready to start digging into a specific, very cool implementation of blockchain called [[Ethereum]], from which we're going to talk about predominantly in chapter two.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (16), data (5), product (1), [[Hardware]] (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (16), [[Hardware]] (1), [[Ethereum]] (1)
 > **Definitions:** means that (2), in other words (1), basically means (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -470,18 +466,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Blockchain data and blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980)
+#### [Blockchain data and blocks](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=1)** - Blockchain technology is all about adding data in such a way that we can trust data, but it's really all about data.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=1)** - [[Blockchain]] technology is all about adding data in such a way that we can trust data, but it's really all about data.
 >
 > **[0:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=9)** Yes, we use transactions, but let's dig down and talk about data a little bit more.
 >
 > **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=14)** In traditional applications, we store data in a data store.
 >
-> **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=18)** It could be a flat file, it could be lots of other things, we typically think of of things as spreadsheets or databases.
+> **[0:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=18)** It could be a flat file, it could be lots of other things, we typically think of of things as spreadsheets or [[Databases]].
 >
 > **[0:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=26)** In any of those data repositories, support four main operations, and they're called the CRUD operations.
 >
@@ -489,7 +484,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=47)** So those four operations are called the CRUD operations.
 >
-> **[0:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=51)** Now, think of an Excel spreadsheet.
+> **[0:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=51)** Now, think of an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=54)** You create a brand new Excel spreadsheet, and you've got nothing there.
 >
@@ -535,7 +530,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=172)** Ledgers have been around for a long time.
 >
-> **[2:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=174)** In fact, if you know anything about relational databases, a relational database is really kind of like a spreadsheet, like a big ledger, in the way that it's logically stores data.
+> **[2:54](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=174)** In fact, if you know anything about [[Relational Databases]], a relational database is really kind of like a spreadsheet, like a big ledger, in the way that it's logically stores data.
 >
 > **[3:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=185)** But if you look back even before computers, we've known about ledgers for a long time.
 >
@@ -543,7 +538,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=196)** Well, Bob Cratchit is often seen leaning over his ledger of accounts.
 >
-> **[3:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=201)** Now, not sure what the Dickens the rest of the story is about, but I do remember that ledger.
+> **[3:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=201)** Now, not sure what the Dickens the [[Representational State Transfer (REST)|rest]] of the story is about, but I do remember that ledger.
 >
 > **[3:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-data-and-blocks?u=76281980&t=206)** So that's the idea of a way of recording, accounting information or really information of any type you create these ledgers.
 >
@@ -603,7 +598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Blockchain]] (20), [[Microsoft Excel|Excel]] (2), next (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (20), [[Microsoft Excel|Excel]] (2), [[Databases]] (1), [[Relational Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** kind of like (2), think of it as (1), for example (1), imagine (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2), in the next (1)
@@ -611,12 +606,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - blockchain (1)
 
-#### Blockchain immutability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-immutability?u=76281980)
+#### [Blockchain immutability](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-immutability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-immutability?u=76281980&t=1)** - Now you understand how data is handled on the blockchain, let's talk a little bit more about the immutability property.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-immutability?u=76281980&t=1)** - Now you understand how data is handled on the [[Blockchain]], let's talk a little bit more about the immutability property.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-immutability?u=76281980&t=7)** So, here's where the magic happens.
 >
@@ -682,17 +676,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (14), data (5), node (2)
+> **Frameworks & Libraries:** [[Blockchain]] (14)
 > **CLI Commands:** node (2)
 > **Definitions:** means that (1)
 > **Speakers:** - now (1)
 
-#### Blockchain consensus
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-consensus?u=76281980)
+#### [Blockchain consensus](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-consensus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-consensus?u=76281980&t=0)** - Remember that in a blockchain environment, there's a lot of spinning plates, several things we need to keep in mind.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-consensus?u=76281980&t=0)** - Remember that in a [[Blockchain]] environment, there's a lot of spinning plates, several things we need to keep in mind.
 >
 > **[0:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-consensus?u=76281980&t=6)** Number one, we can only add data and of course read it.
 >
@@ -738,18 +731,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), node (2), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** means that (1), in other words (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - remember (1)
 
-#### Building the blockchain story
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/building-the-blockchain-story?u=76281980)
+#### [Building the blockchain story](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/building-the-blockchain-story?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/building-the-blockchain-story?u=76281980&t=1)** - So now you have a handle on a few things, blockchain related.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/building-the-blockchain-story?u=76281980&t=1)** - So now you have a handle on a few things, [[Blockchain]] related.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/building-the-blockchain-story?u=76281980&t=4)** Number one, data on the blockchain can only be added, and added and added and added and added.
 >
@@ -803,14 +795,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), next (2), business (1), database (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (2)
 > **Analogies:** kind of like (1), picture (1)
 > **Speakers:** - so (1)
 
-#### Hashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980)
+#### [Hashes](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +839,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=74)** Let's take a very, very simple hashing algorithm.
 >
-> **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=77)** Again, this is not what blockchain uses.
+> **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=77)** Again, this is not what [[Blockchain]] uses.
 >
 > **[1:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=80)** This is what no one would really use, but it demonstrates what's going on under the covers.
 >
@@ -856,7 +847,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=89)** We have this character value.
 >
-> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=90)** Let's just use the word "hello".
+> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=90)** Let's just use the [[Microsoft Word|word]] "hello".
 >
 > **[1:33](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=93)** Well, how do we represent "hello" in some way that we can do some math on it?
 >
@@ -898,7 +889,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=177)** It's not all that difficult for such a simple hashing algorithm, but again, you can see it's a little more difficult than just simply adding the numbers up.
 >
-> **[3:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=184)** However, with simple algorithms, you run into collisions.
+> **[3:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=184)** However, with simple [[Algorithms]], you run into collisions.
 >
 > **[3:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/hashes?u=76281980&t=189)** For example, what if we changed our string a little bit?
 >
@@ -972,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (4), data (2), next (1), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Microsoft Word|Word]] (1), [[Algorithms]] (1)
 > **Env Vars:** ascii (4), sha (3)
 > **CLI Commands:** brew (2), make (2), find (2)
 > **Definitions:** means that (3), is a  (2), stands for (1)
@@ -981,14 +972,13 @@ created: 2026-05-02
 > **URLs:** [anders.com](https://anders.com) (1)
 > **Speakers:** - so (1)
 
-#### What is a chain of blocks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980)
+#### [What is a chain of blocks?](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=0)** - In the last episode, you learned about hashes and hashing functions.
 >
-> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=5)** But you may wonder, what does a hash have to do with a blockchain?
+> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=5)** But you may wonder, what does a hash have to do with a [[Blockchain]]?
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=8)** Well, actually, hashes make blockchains possible.
 >
@@ -1040,7 +1030,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=117)** Of course, for the Genesis block, there is no previous block's hash.
 >
-> **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=121)** And then we have the body, which is the list of all the transactions, all the transfers of cryptocurrency value from one address to another.
+> **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=121)** And then we have the body, which is the list of all the transactions, all the transfers of [[Cryptocurrency]] value from one address to another.
 >
 > **[2:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/what-is-a-chain-of-blocks?u=76281980&t=131)** Once you start adding blocks, each block would then contain the hash of the previous block, which is effectively the link that makes that chain.
 >
@@ -1080,14 +1070,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (6), data (5), next (2), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (6), [[Cryptocurrency]] (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
 
-#### Finding the nonce
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980)
+#### [Finding the nonce](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=36)** What we need to do is introduce something new.
 >
-> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=40)** So in blockchain, what we do is we add a new number and we add that to the data.
+> **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=40)** So in [[Blockchain]], what we do is we add a new number and we add that to the data.
 >
 > **[0:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=47)** So that with this new number plus the block data, we create a new hash value.
 >
@@ -1145,7 +1134,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=142)** Now, I'm going to start typing hello.
 >
-> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=144)** As soon as I type the word, the letter H, notice something has happened.
+> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=144)** As soon as I type the [[Microsoft Word|word]], the letter H, notice something has happened.
 >
 > **[2:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/finding-the-nonce?u=76281980&t=150)** Since we calculate a new hash value every time we change our input data, we now take the nonce value plus the H and calculate a new hash value.
 >
@@ -1205,7 +1194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Blockchain]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** in other words (1), is called (1), is a  (1), is an  (1)
 > **URLs:** [andrews.com](https://andrews.com) (1)
@@ -1214,8 +1203,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - you (1)
 
-#### Blockchain mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-mining?u=76281980)
+#### [Blockchain mining](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1255,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-mining?u=76281980&t=151)** Well, the answer is that when these miners compete to find the right nonce, which creates the right hash, that satisfies the complexity requirements, the first one that finds it gets a little bit of a reward and those rewards can start adding up.
 >
-> **[2:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-mining?u=76281980&t=167)** They're rewarded in cryptocurrency.
+> **[2:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-mining?u=76281980&t=167)** They're rewarded in [[Cryptocurrency]].
 >
 > **[2:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/blockchain-mining?u=76281980&t=170)** So when the cryptocurrency has a high value, the miners are willing to invest lots of money to compete to earn that money back.
 >
@@ -1286,12 +1274,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Arriving at consensus
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/arriving-at-consensus?u=76281980)
+#### [Arriving at consensus](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/arriving-at-consensus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/arriving-at-consensus?u=76281980&t=0)** - Blockchain is all about integrity and trust.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/arriving-at-consensus?u=76281980&t=0)** - [[Blockchain]] is all about integrity and trust.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/arriving-at-consensus?u=76281980&t=4)** So you don't have integrity if any node can just add a block at any time.
 >
@@ -1411,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (9), node (9), power (1), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (9)
 > **CLI Commands:** node (9), make (1)
 > **Definitions:** is a  (3), in other words (1), is called (1)
 > **Analogies:** just like (1), kind of like (1)
@@ -1420,8 +1407,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - blockchain (1)
 
-#### Public vs. private blockchains
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/public-vs-private-blockchains?u=76281980)
+#### [Public vs. private blockchains](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/public-vs-private-blockchains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,7 +1417,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/public-vs-private-blockchains?u=76281980&t=10)** There are public blockchains and private blockchains, and sometimes the public blockchains are called permissionless blockchains, where the private blockchains are called permissioned.
 >
-> **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/public-vs-private-blockchains?u=76281980&t=21)** Basically the difference between the two is in a public or permissionless blockchain, anybody can download the blockchain and participate as a node.
+> **[0:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/public-vs-private-blockchains?u=76281980&t=21)** Basically the difference between the two is in a public or permissionless [[Blockchain]], anybody can download the blockchain and participate as a node.
 >
 > **[0:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/public-vs-private-blockchains?u=76281980&t=30)** There's no governing authority that says you can't.
 >
@@ -1483,7 +1469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (14), data (8), node (6)
+> **Frameworks & Libraries:** [[Blockchain]] (14)
 > **CLI Commands:** node (6)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1)
@@ -1491,12 +1477,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - throughout (1)
 
-#### Distributed processing and blockchain solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980)
+#### [Distributed processing and blockchain solutions](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980&t=0)** - To better understand how important blockchain technology is, let's take a quick look at how we got here.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980&t=0)** - To better understand how important [[Blockchain]] technology is, let's take a quick look at how we got here.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980&t=7)** What kind of problems blockchain technology can solve for us?
 >
@@ -1614,11 +1599,11 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980&t=307)** So far, we've talked about blockchain in generic terms.
 >
-> **[5:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980&t=311)** in the next chapter, we're going to drill down and look at a theorem, a specific blockchain implementation and what we're going to focus on for the rest of this course.
+> **[5:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/distributed-processing-and-blockchain-solutions?u=76281980&t=311)** in the next chapter, we're going to drill down and look at a theorem, a specific blockchain implementation and what we're going to focus on for the [[Representational State Transfer (REST)|rest]] of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (11), data (9), next (4), database (2), web (2)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** we call this (1), in other words (1)
 > **Cross-References:** in the next (1)

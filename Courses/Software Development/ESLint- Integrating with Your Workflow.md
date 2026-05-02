@@ -66,12 +66,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Customizing automatic error checking
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980)
+#### [Customizing automatic error checking](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980&t=0)** - ESLint is a really helpful tool for writing consistent code, but setting it up requires a lot of decision making.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980&t=0)** - [[ESLint]] is a really helpful tool for writing consistent code, but setting it up requires a lot of decision making.
 >
 > **[0:07](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980&t=7)** You want it to give you just the right amount of feedback on the style choices that matter to you to say nothing of incorporating it into your existing workflows.
 >
@@ -90,14 +89,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - eslint (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980&t=0)** - [Narrator] This course assumes you have intermediate to advanced level experience coding in front-end JavaScript, including modern ES6 syntax.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980&t=0)** - [Narrator] This course assumes you have intermediate to advanced level experience coding in front-end [[JavaScript]], including modern ES6 syntax.
 >
-> **[0:08](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980&t=8)** It also assumes you know how to work with npm projects and webpack at the command line.
+> **[0:08](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980&t=8)** It also assumes you know how to work with [[npm]] projects and webpack at the command line.
 >
 > **[0:13](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/what-you-should-know?u=76281980&t=13)** If you need to brush up on working with packages and modules, search in our library for a course on npm.
 >
@@ -105,18 +103,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), front-end (1), [[JavaScript]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[JavaScript]] (1)
 > **CLI Commands:** npm (2)
 > **Env Vars:** es6 (1)
 > **Tools:** command line (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the exercise files for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980)
+#### [Using the exercise files for this course](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Instructor] All of the files for this course are freely available as a GitHub repo at this URL.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Instructor] All of the files for this course are freely available as a [[GitHub]] repo at this URL.
 >
 > **[0:06](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=6)** The repository is built so that there are branches for each of the videos in the course.
 >
@@ -128,11 +125,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=33)** If you see an E at the end of the branch, that's how the code looked at the end of the video.
 >
-> **[0:38](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=38)** In this course, I go through installing and configuring ESLint.
+> **[0:38](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=38)** In this course, I go through installing and configuring [[ESLint]].
 >
 > **[0:42](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=42)** If you want to, you can download any of these branches by first going to the branch and then hitting the clone or download button and downloading the ZIP file for the video that you want to follow along with.
 >
-> **[0:54](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=54)** You may need to install MPM as well as Git before you do this.
+> **[0:54](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=54)** You may need to install MPM as well as [[Git]] before you do this.
 >
 > **[0:59](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-the-exercise-files-for-this-course?u=76281980&t=59)** If you need more experience working with Git and GitHub, make sure you're familiar with Git and GitHub before taking this course.
 >
@@ -142,7 +139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (3), [[ESLint]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (3), [[ESLint]] (1)
 > **CLI Commands:** git (3), make (1)
 > **Tools:** github (4)
 > **Env Vars:** url (1), zip (1), mpm (1)
@@ -151,16 +148,15 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi De Lobos senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Code Spaces.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi De Lobos senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] Code Spaces.
 >
 > **[0:09](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=9)** Code Spaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:15](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world hands-on practice that mirrors software development in the workplace.
+> **[0:15](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:20](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=20)** This course has been adopted for use with GitHub code Spaces.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=193)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:17](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index at html file right here.
+> **[3:17](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index at [[HTML]] file right here.
 >
 > **[3:25](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=205)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=330)** I'll hit okay.
 >
-> **[5:32](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run, get fetch.
+> **[5:32](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run, get [[Fetch]].
 >
 > **[5:35](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-github-codespaces-with-this-course?u=76281980&t=335)** That way it'll automatically sync with your forked repo.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), hit (4), [[LinkedIn]] (2), cloud (2), web (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1), [[Fetch]] (1)
 > **UI Navigation:** click on (3), switch to (3), go to (2)
 > **Tools:** github (4), visual studio (2)
 > **CLI Commands:** make (4), find (1)
@@ -302,16 +298,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up a project with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980)
+#### [Setting up a project with ESLint](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=0)** - [Instructor] It's pretty straightforward to add ESLint to a project using a package manager.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=0)** - [Instructor] It's pretty straightforward to add [[ESLint]] to a project using a package manager.
 >
 > **[0:05](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=5)** In the folder for this video, I can add ESLint as a dependency.
 >
-> **[0:09](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=9)** With npm install eslint and then I'm going to do a save dev.
+> **[0:09](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=9)** With [[npm]] install eslint and then I'm going to do a save dev.
 >
 > **[0:15](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=15)** Save it as a dependency.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=67)** And next up is frameworks.
 >
-> **[1:10](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=70)** ESLint can provide framework-specific integration for both react and view.
+> **[1:10](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=70)** ESLint can provide framework-specific integration for both [[React.js|react]] and view.
 >
 > **[1:14](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=74)** My project doesn't use either of those so I'm going to choose none of these and press enter.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=87)** Next is a question about typescript use.
 >
-> **[1:30](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=90)** If you're using it, you can specify that here so ESLint can parse your code as TypeScript rather than as you know, a JavaScript.
+> **[1:30](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=90)** If you're using it, you can specify that here so ESLint can parse your code as TypeScript rather than as you know, a [[JavaScript]].
 >
 > **[1:37](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=97)** I'm not using TypeScript in this project and the default here is N, 'cause we have that capital N so I can just hit enter.
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=167)** And right over here, I've got that .eslintrc.js file that was just created.
 >
-> **[2:55](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=175)** And over in my editor, I've got my package that JSON file open.
+> **[2:55](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=175)** And over in my editor, I've got my package that [[JSON]] file open.
 >
 > **[3:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980&t=180)** And first off, I can see that eslint has been added as a dev dependency.
 >
@@ -467,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (28), next (7), [[npm]] (3), [[JavaScript]] (2), front-end (2)
+> **Frameworks & Libraries:** [[ESLint]] (28), [[npm]] (3), [[JavaScript]] (2), [[JSON]] (2), [[React.js|React]] (1)
 > **CLI Commands:** npm (3), npx (2), find (1), node (1), ls (1)
 > **File Paths:** eslintrc.js (2), index.js (2), package.json (1)
 > **Definitions:** is a  (3), means that (1)
@@ -476,12 +471,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1), go back to (1)
 > **Best Practices:** recommended (2)
 
-#### Enforcing code style with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980)
+#### [Enforcing code style with ESLint](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=0)** - [Instructor] In addition to checking syntax and finding problems, ESLint can enforce a code style that I specify.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=0)** - [Instructor] In addition to checking syntax and finding problems, [[ESLint]] can enforce a code style that I specify.
 >
 > **[0:07](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=7)** I can specify my own rules within the rules key, but it's pretty common to use a widely used style guide instead as a starting point.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=70)** I'm going to choose that third option, and press Enter.
 >
-> **[1:14](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=74)** Now I'm going to use JavaScript modules, so I'll press Enter here for the default.
+> **[1:14](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=74)** Now I'm going to use [[JavaScript]] modules, so I'll press Enter here for the default.
 >
 > **[1:18](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=78)** I'm not using a framework, so down to None of these, and select that.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=144)** So I'm going to keep the default selected, and press Enter.
 >
-> **[2:28](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=148)** ESLint offers quick setup for three commonly used style guides, Airbnb, standard, and Google.
+> **[2:28](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=148)** ESLint offers quick setup for three commonly used style guides, Airbnb, standard, and [[Google]].
 >
 > **[2:36](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=156)** If you're working on a big project, you should check which style guide is in use before selecting one.
 >
@@ -547,7 +541,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=207)** Before I changed my configuration, ESLint was linting only against the recommended syntax and code problems.
 >
-> **[3:35](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=215)** Back in the terminal, I'm going to clear, and I'm going to use the lint command I have setup in npm, so npm run lint.
+> **[3:35](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=215)** Back in the terminal, I'm going to clear, and I'm going to use the lint command I have setup in [[npm]], so npm run lint.
 >
 > **[3:45](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/enforcing-code-style-with-eslint?u=76281980&t=225)** And now, I'm getting some interesting errors.
 >
@@ -585,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (14), front-end (2), [[JavaScript]] (2), [[npm]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (14), [[JavaScript]] (2), [[npm]] (2), [[Google]] (1)
 > **CLI Commands:** make (2), npm (2), npx (1), find (1)
 > **Prerequisites:** setup (5), install (1)
 > **Definitions:** is a  (3)
@@ -594,14 +588,13 @@ created: 2026-05-02
 > **File Paths:** eslintrc.js (1), index.js (1)
 > **Tools:** terminal (2)
 
-#### Integrating ESLint with webpack
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980)
+#### [Integrating ESLint with webpack](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=0)** - [Instructor] Among the many tools available for building modern JavaScript apps, Webpack is one of the most widely used for front end code.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=0)** - [Instructor] Among the many tools available for building modern [[JavaScript]] apps, Webpack is one of the most widely used for front end code.
 >
-> **[0:08](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=8)** You can run ESLint from NPM using command inpackage.json.
+> **[0:08](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=8)** You can run [[ESLint]] from [[npm]] using command inpackage.[[JSON]].
 >
 > **[0:12](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=12)** But if you're using Webpack, you can also incorporate ESLint directly into the Webpack build process.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=96)** In the rules section down here, I already have a babel-loader configuration.
 >
-> **[1:42](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=102)** Now if I go to the GitHub repo for eslint-loader, there's documentation for how to use it.
+> **[1:42](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=102)** Now if I go to the [[GitHub]] repo for eslint-loader, there's documentation for how to use it.
 >
 > **[1:49](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/integrating-eslint-with-webpack?u=76281980&t=109)** And that includes some code snippets that show usage.
 >
@@ -700,12 +693,11 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1), exercise files (1)
 > **Speakers:** - [instructor] (1), - loader (1)
 
-#### Using ESLint in an editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980)
+#### [Using ESLint in an editor](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=0)** - [Instructor] Automating ESLint within a build process makes it really easy to enforce styles before deploying code.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=0)** - [Instructor] Automating [[ESLint]] within a build process makes it really easy to enforce styles before deploying code.
 >
 > **[0:06](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=6)** But you can also use ESLint earlier in your development process to flag issues before you even commit them.
 >
@@ -727,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=57)** So I'll hit install And now it's enabled.
 >
-> **[1:02](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=62)** So from now on, whenever I open a JavaScript file that's associated with a .eslint RC file, the ESLint extension will link the file and flag any issues right in the editor window.
+> **[1:02](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=62)** So from now on, whenever I open a [[JavaScript]] file that's associated with a .eslint RC file, the ESLint extension will link the file and flag any issues right in the editor window.
 >
 > **[1:14](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=74)** So let's test that out.
 >
@@ -743,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=105)** For VS Code, in particular, you need to go into the Preferences.
 >
-> **[1:49](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=109)** So I usually open up the control panel and I can do Preferences, Open Settings, JSON, take me to the JSON file.
+> **[1:49](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=109)** So I usually open up the control panel and I can do Preferences, Open Settings, [[JSON]], take me to the JSON file.
 >
 > **[2:03](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=123)** And if you go to the wiki page for this video, there is a Visual Studio Code configuration snippet that you can just add to that JSON configuration.
 >
@@ -849,13 +841,13 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=425)** And my file list is back to its default color.
 >
-> **[7:09](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=429)** It's tracking now just the changes that I've made in Git, and it's got no tally of issues.
+> **[7:09](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=429)** It's tracking now just the changes that I've made in [[Git]], and it's got no tally of issues.
 >
 > **[7:15](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/using-eslint-in-an-editor?u=76281980&t=435)** And so I've indicated here that even though this particular file varies a bit from my specified styles, I'm okay with it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (18), [[JSON]] (4), [[Search]] (1), hit (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (18), [[JSON]] (4), [[JavaScript]] (1), [[Git]] (1)
 > **Tools:** visual studio (3), sublime (1), atom (1), vs code (1)
 > **Env Vars:** json (4), atom (1)
 > **Definitions:** is a  (4)
@@ -864,12 +856,11 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **File Paths:** index.js (1)
 
-#### Challenge: Add ESLint to a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/challenge-add-eslint-to-a-project?u=76281980)
+#### [Challenge: Add ESLint to a project](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/challenge-add-eslint-to-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/challenge-add-eslint-to-a-project?u=76281980&t=0)** - [Instructor] Ready to try your hand at adding ESLint to a project?
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/challenge-add-eslint-to-a-project?u=76281980&t=0)** - [Instructor] Ready to try your hand at adding [[ESLint]] to a project?
 >
 > **[0:10](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/challenge-add-eslint-to-a-project?u=76281980&t=10)** It's time for a challenge.
 >
@@ -897,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (4)
 > **Prerequisites:** you'll need (1), configure (1), setup (1)
 > **File Paths:** index.js (1)
 > **Cross-References:** in the next (1)
@@ -906,14 +897,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add ESLint to a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980)
+#### [Solution: Add ESLint to a project](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=0)** - [Instructor] The first thing that I want to do in building out this project, I need to run npm i to actually get all of the dependencies installed, so I've done that already and got my node modules in place for this project.
+> **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=0)** - [Instructor] The first thing that I want to do in building out this project, I need to run [[npm]] i to actually get all of the dependencies installed, so I've done that already and got my node modules in place for this project.
 >
-> **[0:19](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=19)** Next up, I actually have to install eslint as a dependency in this project.
+> **[0:19](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=19)** Next up, I actually have to install [[ESLint]] as a dependency in this project.
 >
 > **[0:24](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=24)** So that's npm install eslint and I'm going to do a save-dev to save it to this particular project.
 >
@@ -931,7 +921,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=70)** Now, the idea here is we're going to try out what it's like to use the standard style guide so that's the second one in the list.
 >
-> **[1:19](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=79)** And I'm going to use a JavaScript file for my configuration.
+> **[1:19](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=79)** And I'm going to use a [[JavaScript]] file for my configuration.
 >
 > **[1:23](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=83)** And then I do want to install those dependencies.
 >
@@ -989,7 +979,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=225)** And so I'm installing this dependency that works with webpack to integrate ESLint into that build process.
 >
-> **[3:55](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=235)** The next thing I'm going to do is go back to the wiki for this repo up on GitHub.
+> **[3:55](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=235)** The next thing I'm going to do is go back to the wiki for this repo up on [[GitHub]].
 >
 > **[4:02](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=242)** And on the 01_03 video for Integrating ESLint with webpack, we've got this code snippet.
 >
@@ -1001,7 +991,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=270)** And so I'm going to save that.
 >
-> **[4:34](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=274)** And now when I run that build command which is defined over here in package.json, I will also be linting my index.js file as well as webpacking it.
+> **[4:34](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=274)** And now when I run that build command which is defined over here in package.[[JSON]], I will also be linting my index.js file as well as webpacking it.
 >
 > **[4:49](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/solution-add-eslint-to-a-project?u=76281980&t=289)** So let's go over to the console and I'm going to clear that.
 >
@@ -1083,7 +1073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (22), [[npm]] (5), next (3), node (1), front-end (1)
+> **Frameworks & Libraries:** [[ESLint]] (22), [[npm]] (5), [[JavaScript]] (1), [[GitHub]] (1), [[JSON]] (1)
 > **CLI Commands:** make (6), npm (5), node (1), npx (1), find (1)
 > **File Paths:** index.js (3), eslintrc.js (1), webpack.config.js (1), webpack.config (1), package.json (1)
 > **Prerequisites:** install (5), set up (1)
@@ -1097,18 +1087,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=0)** - [Instructor] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=3)** You now have experience integrating ESLint into projects.
+> **[0:03](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=3)** You now have experience integrating [[ESLint]] into projects.
 >
 > **[0:07](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=7)** To dig deeper into working with ESLint, check out a course on customizing ESLint rules.
 >
-> **[0:13](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=13)** If you want to learn more about the reasons behind common coding styles, check out a course on JavaScript best practices and if you want to deepen your knowledge about working with tool chains, check out a course in the webpack.
+> **[0:13](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=13)** If you want to learn more about the reasons behind common coding styles, check out a course on [[JavaScript]] best practices and if you want to deepen your knowledge about working with tool chains, check out a course in the webpack.
 >
 > **[0:25](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980&t=25)** Feel free to follow me online.
 >

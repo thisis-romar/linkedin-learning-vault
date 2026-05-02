@@ -61,12 +61,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object oriented programming in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980)
+#### [Object oriented programming in JavaScript](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980&t=0)** - [Instructor] This coding challenge will test your knowledge of object-oriented programming concepts with JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980&t=0)** - [Instructor] This coding challenge will test your knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts with [[JavaScript]].
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980&t=6)** You'll learn how to create JavaScript objects with function syntax and class syntax.
 >
@@ -79,12 +78,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] Before jumping into this coding challenge, it's important to have some experience with JavaScript variables and functions.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] Before jumping into this coding challenge, it's important to have some experience with [[JavaScript]] variables and functions.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=7)** Additionally, it will be helpful if you're comfortable working with JavaScript arrays and objects.
 >
@@ -92,21 +90,20 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=16)** You also may want to learn about JavaScript objects before taking these challenges.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=20)** While we'll learn some high level concepts, this course isn't meant to teach you all about object-oriented programming.
+> **[0:20](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=20)** While we'll learn some high level concepts, this course isn't meant to teach you all about [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=27)** To learn more about JavaScript object-oriented programming check out this course on LinkedIn Learning.
+> **[0:27](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/what-you-should-know?u=76281980&t=27)** To learn more about JavaScript object-oriented programming check out this course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[JavaScript]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980)
+#### [Introduction to CoderPad](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980&t=0)** - [Instructor] On the top left, you'll see a list of parameters and functions that your JavaScript objects will take.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980&t=0)** - [Instructor] On the top left, you'll see a list of parameters and functions that your [[JavaScript]] objects will take.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/introduction-to-coderpad?u=76281980&t=8)** Parameters are values that will be passed into your code and they have to be of a particular data type.
 >
@@ -142,7 +139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** showexpectedresult (1), showhints (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -152,14 +149,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Create a roster with functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980)
+#### [Solution: Create a roster with functions](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=0)** - [Instructor] First, let's create our student object.
 >
-> **[0:02](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=2)** We'll use JavaScript functions for this.
+> **[0:02](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=2)** We'll use [[JavaScript]] functions for this.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980&t=4)** Student takes two parameters, name and grades, which is an array of integers from 0 to 100.
 >
@@ -199,20 +195,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** checkispassing (2), calculategpa (2), getgrades (1), getroster (1), foreach (1)
 > **Env Vars:** gpa (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a function with Object.create()
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980)
+#### [Solution: Create a function with Object.create()](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=0)** - [Instructor] Let's first create the book object.
 >
-> **[0:02](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=2)** We'll use JavaScript functions to do this.
+> **[0:02](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=2)** We'll use [[JavaScript]] functions to do this.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-book-function-with-object-create?u=76281980&t=4)** The book function takes four parameters.
 >
@@ -263,12 +258,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a country with classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980)
+#### [Solution: Create a country with classes](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980&t=0)** - [Instructor] To create the Country class, we'll use JavaScript class notation.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980&t=0)** - [Instructor] To create the Country class, we'll use [[JavaScript]] class notation.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-country-with-classes?u=76281980&t=4)** The Country class constructor takes four parameters: name, continent, currency, and population.
 >
@@ -291,8 +285,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a class with get and set
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-food-ordering-class-with-getters-and-setters?u=76281980)
+#### [Solution: Create a class with get and set](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-food-ordering-class-with-getters-and-setters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,12 +318,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: User/admin class with private properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980)
+#### [Solution: User/admin class with private properties](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980&t=0)** - [Instructor] We'll create the user object using JavaScript class syntax.
+> **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980&t=0)** - [Instructor] We'll create the user object using [[JavaScript]] class syntax.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-user-admin-class-with-private-properties?u=76281980&t=4)** The user class constructor takes two parameters, username and password.
 >
@@ -398,24 +390,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Instructor] Congratulations!
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=1)** You finished JavaScript Coding Labs for object-oriented programming.
+> **[0:01](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=1)** You finished [[JavaScript]] Coding Labs for [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=5)** You are now ready to continue on with your JavaScript journey.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=9)** If you haven't learned any JavaScript frameworks or libraries, now is a great time to start.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=14)** I recommend learning one, like Vue,js or React.
+> **[0:14](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=14)** I recommend learning one, like [[Vue.js|Vue]],js or [[React.js|React]].
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=18)** I hope you enjoyed this short coding lab.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=20)** For more fun challenges, check out the full library of coding challenges on LinkedIn Learning.
+> **[0:20](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980&t=20)** For more fun challenges, check out the full library of coding challenges on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >

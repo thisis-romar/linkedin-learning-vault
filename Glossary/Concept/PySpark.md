@@ -37,8 +37,8 @@ created: 2026-05-02
 6. [[Big Data Analytics with Hadoop and Apache Spark]] — 6 mentions
 7. [[Azure Spark Databricks Essential Training]] — 5 mentions
 8. [[Apache Spark Essential Training- Big Data Engineering]] — 4 mentions
-9. [[AWS- Storage and Data Management]] — 3 mentions
-10. [[Complete Guide to Data Lakes and Lakehouses]] — 3 mentions
+9. [[Complete Guide to Data Lakes and Lakehouses]] — 4 mentions
+10. [[AWS- Storage and Data Management]] — 3 mentions
 
 > [!note]- See all 16 courses
 > 11. [[Azure Data Lake for Developers]] — 2 mentions

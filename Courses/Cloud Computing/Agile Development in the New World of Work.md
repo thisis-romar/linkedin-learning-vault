@@ -60,8 +60,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile to the rescue
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980)
+#### [Agile to the rescue](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -69,7 +68,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=7)** If 2020 has taught us anything, it's that we need to be better able to handle change going forward.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=13)** We need to be nimble, we need to be agile.
+> **[0:13](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=13)** We need to be nimble, we need to be [[Agile Development|agile]].
 >
 > **[0:17](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=17)** But what exactly is the agile framework and how can it help us manage change?
 >
@@ -87,11 +86,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=61)** Agile is a journey, not a destination.
 >
-> **[1:05](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=65)** So join me on the agile journey as we learn the basic building blocks of agile that will provide value whether you are part of a software development team or simply want to be prepared for the coming new normal, as we navigate what comes next.
+> **[1:05](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980&t=65)** So join me on the agile journey as we learn the basic building blocks of agile that will provide value whether you are part of a [[Software Development]] team or simply want to be prepared for the coming new normal, as we navigate what comes next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), teams (2), [[Software Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (9), [[Software Development]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
@@ -100,14 +99,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Core agile framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980)
+#### [Core agile framework](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=1)** - Some of us resist change, but often change is good.
 >
-> **[0:05](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=5)** It can be hard to adjust to change, and that's why the Agile framework is being used more and more by companies.
+> **[0:05](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=5)** It can be hard to adjust to change, and that's why the [[Agile Development|Agile]] framework is being used more and more by companies.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=11)** Traditionally, in non-Agile approaches, we work on as many items as possible and very close to the delivery date, we hope for the best.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=65)** The Agile mindset can be best captured by the Agile Manifesto.
 >
-> **[1:10](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=70)** The Agile Manifesto came about when a collection of developers got together and discussed their dissatisfaction with the state of software development.
+> **[1:10](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=70)** The Agile Manifesto came about when a collection of developers got together and discussed their dissatisfaction with the state of [[Software Development]].
 >
 > **[1:20](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=80)** They felt they could be more collaborative and responsive to change.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=120)** With that understanding in place, we can then talk about core frameworks we employ when we implement Agile for Teams.
 >
-> **[2:08](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=128)** First, let's talk about Scrum.
+> **[2:08](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=128)** First, let's talk about [[Scrum]].
 >
 > **[2:10](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980&t=130)** It's when team members collaborate in a cadence of events known as scrum ceremonies.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Scrum]] (5), next (3), teams (2), mobile application (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Scrum]] (5), [[Software Development]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -168,14 +166,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a team backlog
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980)
+#### [Build a team backlog](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980&t=0)** - So you have a date, you have a team and you have a high-level goal.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980&t=6)** How does Agile help us know where to start?
+> **[0:06](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980&t=6)** How does [[Agile Development|Agile]] help us know where to start?
 >
 > **[0:10](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980&t=10)** In Agile, all delivery begins with a backlog.
 >
@@ -221,14 +218,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), mobile application (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - so (1)
 
-#### Planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980)
+#### [Planning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,11 +232,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=8)** Before each sprint, we do what is known as sprint planning.
 >
-> **[0:12](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=12)** Sprint planning is what it sounds like, planning a sprint, and in Scrum, we take a specific approach to best ensure expectations are managed and met.
+> **[0:12](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=12)** Sprint planning is what it sounds like, planning a sprint, and in [[Scrum]], we take a specific approach to best ensure expectations are managed and met.
 >
 > **[0:21](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=21)** The sprint planning occurs at the beginning of the sprint.
 >
-> **[0:25](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=25)** The difference between Agile and Scrum is that Agile is a project management philosophy that utilizes a core set of values or principles.
+> **[0:25](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=25)** The difference between [[Agile Development|Agile]] and Scrum is that Agile is a project management philosophy that utilizes a core set of values or principles.
 >
 > **[0:34](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/planning?u=76281980&t=34)** Scrum is a specific agile methodology that is used to facilitate a project.
 >
@@ -272,20 +268,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (3), next (2), management (1)
+> **Frameworks & Libraries:** [[Scrum]] (3), [[Agile Development|Agile]] (3)
 > **Definitions:** known as (2), is a  (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - okay (1)
 
-#### Daily stand up
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/daily-stand-up?u=76281980)
+#### [Daily stand up](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/daily-stand-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/daily-stand-up?u=76281980&t=1)** - Now that you have a backlog of work to deliver and we've planned what backlog items we could deliver together in a sprint, what is the best way to stay in sync with your team daily and identify any blockers or changes in scope?
 >
-> **[0:14](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/daily-stand-up?u=76281980&t=14)** This is where an agile ceremony or meeting known as the daily standup comes in.
+> **[0:14](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/daily-stand-up?u=76281980&t=14)** This is where an [[Agile Development|agile]] ceremony or meeting known as the daily standup comes in.
 >
 > **[0:20](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/daily-stand-up?u=76281980&t=20)** The daily standup gets his name from the fact that teams would stand up during the meeting to collaborate and facilitate discussion.
 >
@@ -317,12 +312,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), teams (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Review
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/review?u=76281980)
+#### [Review](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/review?u=76281980&t=11)** How do you evaluate how well you did?
 >
-> **[0:14](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/review?u=76281980&t=14)** You use a meeting or agile ceremony called a sprint review, which occurs on the last day of the sprint.
+> **[0:14](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/review?u=76281980&t=14)** You use a meeting or [[Agile Development|agile]] ceremony called a sprint review, which occurs on the last day of the sprint.
 >
 > **[0:21](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/review?u=76281980&t=21)** The sprint review is the time for each team member to review and share what they were able to complete either by themselves or in collaboration with other team members.
 >
@@ -356,17 +350,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Agile Development|Agile]] (2), mobile application (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Retrospective
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/retrospective?u=76281980)
+#### [Retrospective](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/retrospective?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/retrospective?u=76281980&t=1)** - The Agile Sprint Retrospective, arguably the most important of Scrum ceremonies is where the team reviews the undelivered, planned backlog items and discuss improvements to better deliver on the plan going forward.
+> **[0:01](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/retrospective?u=76281980&t=1)** - The [[Agile Development|Agile]] Sprint Retrospective, arguably the most important of [[Scrum]] ceremonies is where the team reviews the undelivered, planned backlog items and discuss improvements to better deliver on the plan going forward.
 >
 > **[0:15](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/retrospective?u=76281980&t=15)** The first step is to review the previous improvement items that were agreed to, discuss if they were implemented and if they made an impact.
 >
@@ -408,13 +401,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), next (3), [[Scrum]] (2), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Scrum]] (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### Shortest job first
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980)
+#### [Shortest job first](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=62)** We've all had to adapt to some major changes.
 >
-> **[1:04](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=64)** The way we limit this disruption is by making sure we are ready to react to that change.
+> **[1:04](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=64)** The way we limit this disruption is by making sure we are ready to [[React.js|react]] to that change.
 >
 > **[1:11](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=71)** Working on things in small enough batches provide us with completed work that can be enjoyed by our stakeholder when the change occurs and focus needs to shift.
 >
@@ -468,18 +460,17 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=166)** So whenever you are in doubt of what to start between a collection of items, the general rule is to tackle the shortest job first.
 >
-> **[2:55](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=175)** This agile practice will empower you to stop starting and start finishing.
+> **[2:55](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/shortest-job-first-27886101?u=76281980&t=175)** This [[Agile Development|agile]] practice will empower you to stop starting and start finishing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (1), [[React.js|React]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** general rule (1)
 > **Speakers:** - you (1)
 
-#### Weighted shortest job first
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/weighted-shortest-job-first-27893110?u=76281980)
+#### [Weighted shortest job first](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/weighted-shortest-job-first-27893110?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,7 +478,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/weighted-shortest-job-first-27893110?u=76281980&t=7)** It's a prioritization tool that teams use to prioritize and sequence which work items should be delivered from a large backlog to provide maximum benefit.
 >
-> **[0:17](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/weighted-shortest-job-first-27893110?u=76281980&t=17)** We first calculate the cost of waiting on each deliverable in our backlog, or in Agile, It is known as calculating the cost of delay.
+> **[0:17](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/weighted-shortest-job-first-27893110?u=76281980&t=17)** We first calculate the cost of waiting on each deliverable in our backlog, or in [[Agile Development|Agile]], It is known as calculating the cost of delay.
 >
 > **[0:26](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/weighted-shortest-job-first-27893110?u=76281980&t=26)** We then apply the level of effort to deliver the work to ensure we are working on the items that would create higher value if they were delivered sooner.
 >
@@ -535,17 +526,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), teams (1), [[Agile Development|Agile]] (1), mobile application (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Env Vars:** wsjf (5)
 > **Definitions:** known as (2), is a  (1)
 > **Speakers:** - let (1)
 
-#### Objective and key results
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980)
+#### [Objective and key results](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=0)** - One of my favorite agile tools is objectives and key results.
+> **[0:00](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=0)** - One of my favorite [[Agile Development|agile]] tools is objectives and key results.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=5)** Objectives act as a rallying cry for the team.
 >
@@ -563,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=43)** We created a set of two primary objectives for the app we were developing that the team would rally around.
 >
-> **[0:50](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=50)** User experience and security.
+> **[0:50](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=50)** [[User Experience (UX)|User experience]] and security.
 >
 > **[0:53](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/objective-and-key-results?u=76281980&t=53)** We wanted to make sure that we always took into account the users having a wonderful experience.
 >
@@ -593,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Security]] (2), [[Agile Development|Agile]] (1), teams (1), application (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
@@ -603,12 +593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile team work
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980)
+#### [Agile team work](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=0)** - Thank you for allowing me to be a part of your Agile journey.
+> **[0:00](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=0)** - Thank you for allowing me to be a part of your [[Agile Development|Agile]] journey.
 >
 > **[0:04](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=4)** For me, Agile is more about mindset than about framework.
 >
@@ -624,7 +613,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=51)** Once the methodologies become a habit, you'll shift from doing Agile to being Agile.
 >
-> **[0:57](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=57)** If you want to know more about the basics of Scrum and be part of an Agile community at the same time, then Scrum is a great resource.
+> **[0:57](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=57)** If you want to know more about the basics of [[Scrum]] and be part of an Agile community at the same time, then Scrum is a great resource.
 >
 > **[1:06](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=66)** And if you want to leverage AI while practicing Scrum, I've added an Agile AI prompts guide for you to use at the end of this course.
 >
@@ -634,11 +623,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=99)** As your Agile coach for this course, I want to leave you with this advice: get everything into a list, stop starting, start finishing, fail fast and learn faster.
 >
-> **[1:52](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=112)** Feel free to connect with me on LinkedIn, and I look forward to hearing from you.
+> **[1:52](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980&t=112)** Feel free to connect with me on [[LinkedIn]], and I look forward to hearing from you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), [[Scrum]] (3), ai (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (12), [[Scrum]] (3), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - thank (1)
 

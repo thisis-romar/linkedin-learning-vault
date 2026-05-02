@@ -97,20 +97,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve performance with Six Sigma
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980)
+#### [Improve performance with Six Sigma](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=1)** - We all get stuck.
 >
-> **[0:02](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=2)** We try to make improvements to our products, our processes, our services, but we fail because we are clueless as to the key factors that drive performance.
+> **[0:02](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=2)** We try to make improvements to our [[Microsoft Products|products]], our processes, our services, but we fail because we are clueless as to the key factors that drive performance.
 >
 > **[0:12](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=12)** So, how do we get unstuck?
 >
 > **[0:15](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=15)** What tools and techniques can we use to improve our performance?
 >
-> **[0:19](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=19)** The answer is Six Sigma.
+> **[0:19](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=19)** The answer is [[Six Sigma]].
 >
 > **[0:22](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980&t=22)** Hi, I'm Dr. Richard Chua.
 >
@@ -130,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (6), [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (6), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - we (1)
@@ -140,16 +139,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Six Sigma?
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980)
+#### [What is Six Sigma?](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980&t=0)** - What exactly is Six Sigma?
+> **[0:00](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980&t=0)** - What exactly is [[Six Sigma]]?
 >
 > **[0:03](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980&t=3)** Six Sigma is a project-based approach for improving effectiveness and efficiency.
 >
-> **[0:09](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980&t=9)** It is a disciplined, customer-focused, data-driven approach for improving the performance of processes, products, or services.
+> **[0:09](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980&t=9)** It is a disciplined, customer-focused, data-driven approach for improving the performance of processes, [[Microsoft Products|products]], or services.
 >
 > **[0:17](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980&t=17)** Now, the term Six Sigma can be used to refer to a philosophy, a performance metric, or a methodology.
 >
@@ -201,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (14), data (2), [[Microsoft Products|Products]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (14), [[Microsoft Products|Products]] (2)
 > **Ports:** :00 (5), :30 (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Versions:** 3.4 (2)
@@ -209,12 +207,11 @@ created: 2026-05-02
 > **Env Vars:** dmaic (1)
 > **Speakers:** - what (1)
 
-#### An overview of DMAIC
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/an-overview-of-dmaic-2?u=76281980)
+#### [An overview of DMAIC](https://www.linkedin.com/learning/six-sigma-foundations/an-overview-of-dmaic-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/an-overview-of-dmaic-2?u=76281980&t=1)** - Every Six Sigma project has five phases.
+> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/an-overview-of-dmaic-2?u=76281980&t=1)** - Every [[Six Sigma]] project has five phases.
 >
 > **[0:04](https://www.linkedin.com/learning/six-sigma-foundations/an-overview-of-dmaic-2?u=76281980&t=4)** Those phases are define, measure, analyze, improve, and control, or D-M-A-I-C, or DMAIC for short.
 >
@@ -288,17 +285,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (3), data (3), [[Engineering]] (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (3)
 > **Definitions:** known as (1), in other words (1)
 > **Env Vars:** dmaic (1)
 > **Speakers:** - every (1)
 
-#### Key roles of executives and champions
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/key-roles-of-executives-and-champions-2?u=76281980)
+#### [Key roles of executives and champions](https://www.linkedin.com/learning/six-sigma-foundations/key-roles-of-executives-and-champions-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/six-sigma-foundations/key-roles-of-executives-and-champions-2?u=76281980&t=0)** - Within Six Sigma there are terms like Six Sigma executives and champions.
+> **[0:00](https://www.linkedin.com/learning/six-sigma-foundations/key-roles-of-executives-and-champions-2?u=76281980&t=0)** - Within [[Six Sigma]] there are terms like Six Sigma executives and champions.
 >
 > **[0:06](https://www.linkedin.com/learning/six-sigma-foundations/key-roles-of-executives-and-champions-2?u=76281980&t=6)** In this movie we'll cover who they are and their roles.
 >
@@ -350,19 +346,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (6), management (3)
+> **Frameworks & Libraries:** [[Six Sigma]] (6)
 > **Env Vars:** ceo (1), coo (1), cfo (1), cio (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - within (1)
 
-#### Levels of expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980)
+#### [Levels of expertise](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=1)** - Six Sigma is a discipline methodology for improvement.
+> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=1)** - [[Six Sigma]] is a discipline methodology for improvement.
 >
 > **[0:05](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=5)** It is this discipline that was thought to be analogous to the strict discipline found in martial arts.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=76)** Simple process and quality tools used in Six Sigma are taught.
 >
-> **[1:20](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=80)** For example, the concept of variation, voice-of-the-customer analysis, process mapping, and brainstorming for root cause analysis.
+> **[1:20](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=80)** For example, the concept of variation, voice-of-the-[[Customer Analysis]], process mapping, and brainstorming for root cause analysis.
 >
 > **[1:31](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=91)** Yellow belts are trained to lead and facilitate improvement sessions using these tools.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=113)** Green belt training takes a participant through each phase of DMAIC, the steps involved and the corresponding tools used.
 >
-> **[2:00](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=120)** In addition to process and quality tools, data analysis using statistics are taught.
+> **[2:00](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=120)** In addition to process and quality tools, data analysis using [[Statistics]] are taught.
 >
 > **[2:07](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=127)** Green belt participants come into the training with a DMAIC project already assigned to them.
 >
@@ -424,17 +419,17 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=174)** Black belts lead and carry out complex projects assigned to them by senior management.
 >
-> **[3:00](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=180)** These projects are broader in scope and more complex than a green belt project and they require advanced statistical analysis.
+> **[3:00](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=180)** These projects are broader in scope and more complex than a green belt project and they require advanced [[Statistical Analysis]].
 >
 > **[3:09](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=189)** In addition to what's covered in the green belt training, black belts are trained in the advanced quality and statistical tools used in Six Sigma.
 >
 > **[3:18](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=198)** These include for example process capability, inferential statistics, and design of experiments.
 >
-> **[3:26](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=206)** Master black belts are experienced black belts who have received additional training including advanced statistical analysis, process simulation, project management, and change management.
+> **[3:26](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=206)** Master black belts are experienced black belts who have received additional training including advanced statistical analysis, process [[Simulation]], project management, and change management.
 >
 > **[3:40](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=220)** Training curriculum and duration vary depending on the training provider.
 >
-> **[3:45](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=225)** Master black belts serve as Six Sigma trainers and coaches to the rest of the organization.
+> **[3:45](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=225)** Master black belts serve as Six Sigma trainers and coaches to the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[3:51](https://www.linkedin.com/learning/six-sigma-foundations/levels-of-expertise-2?u=76281980&t=231)** Until they are developed, this role is outsourced to outside training and consulting firms.
 >
@@ -442,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (13), management (3), [[Statistics]] (2), [[Statistical Analysis]] (2), [[Customer Analysis]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (13), [[Statistics]] (2), [[Statistical Analysis]] (2), [[Customer Analysis]] (1), [[Simulation]] (1)
 > **Env Vars:** dmaic (5)
 > **Analogies:** for example (2), analogous to (1), similar to (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -453,8 +448,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Critical to quality metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980)
+#### [Critical to quality metrics](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +504,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980&t=171)** In our example, you want to monitor order to delivery time and temperature of pizza.
 >
-> **[2:58](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980&t=178)** If you're doing a Six Sigma project, you will definitely benefit from learning about CTQs.
+> **[2:58](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980&t=178)** If you're doing a [[Six Sigma]] project, you will definitely benefit from learning about CTQs.
 >
 > **[3:03](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980&t=183)** The underlying premise of Six Sigma projects is Y is a function of x.
 >
@@ -524,14 +518,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Six Sigma]] (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (2)
 > **Env Vars:** voc (3), ctq (2)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - when (1)
 
-#### Variation and the normal curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980)
+#### [Variation and the normal curve](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=53)** The variation is random.
 >
-> **[0:56](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=56)** As you can see, this natural, random variation forms a bell shaped curve.
+> **[0:56](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=56)** As you can see, this natural, random variation [[Forms]] a bell shaped curve.
 >
 > **[1:02](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=62)** This bell shaped curve is called the normal curve.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=166)** Why is this important?
 >
-> **[2:48](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=168)** Because as you learn more about Six Sigma, you will find that the normal curve is widely used to depict random variation in processes.
+> **[2:48](https://www.linkedin.com/learning/six-sigma-foundations/variation-and-the-normal-curve-2?u=76281980&t=168)** Because as you learn more about [[Six Sigma]], you will find that the normal curve is widely used to depict random variation in processes.
 
 > [!info]- Semantic Content
 >
@@ -621,8 +614,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - remember (1)
 
-#### Defects per million opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/defects-per-million-opportunities-2?u=76281980)
+#### [Defects per million opportunities](https://www.linkedin.com/learning/six-sigma-foundations/defects-per-million-opportunities-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -682,7 +674,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/six-sigma-foundations/defects-per-million-opportunities-2?u=76281980&t=215)** The PC division is performing at a much higher level of quality than the marker division.
 >
-> **[3:42](https://www.linkedin.com/learning/six-sigma-foundations/defects-per-million-opportunities-2?u=76281980&t=222)** We can only arrive at this conclusion by using DPMO, and that's why we use DPMO in Six Sigma.
+> **[3:42](https://www.linkedin.com/learning/six-sigma-foundations/defects-per-million-opportunities-2?u=76281980&t=222)** We can only arrive at this conclusion by using DPMO, and that's why we use DPMO in [[Six Sigma]].
 
 > [!info]- Semantic Content
 >
@@ -693,14 +685,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Sigma levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980)
+#### [Sigma levels](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=1)** - What is Sigma Level?
 >
-> **[0:02](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=2)** What do people mean when they say, "This process is performing at Three Sigma, or that's a Six Sigma process."
+> **[0:02](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=2)** What do people mean when they say, "This process is performing at Three Sigma, or that's a [[Six Sigma]] process."
 >
 > **[0:09](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=9)** In this movie I will discuss Six Sigma Level how it is used and what it means to be at Two Sigma, Three Sigma, or Six Sigma.
 >
@@ -714,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=39)** Here's a table showing the different levels of Sigma.
 >
-> **[0:42](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=42)** Most products, services and processes operate between Three and Four Sigma Level.
+> **[0:42](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=42)** Most [[Microsoft Products|products]], services and processes operate between Three and Four Sigma Level.
 >
 > **[0:48](https://www.linkedin.com/learning/six-sigma-foundations/sigma-levels?u=76281980&t=48)** As you can see, the Sigma Level scale is not linear improving from Two Sigma to Three Sigma is a 5 times order of magnitude in a reduction of defects.
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Products|Products]] (2)
 > **Documentation:** specification (4)
 > **Env Vars:** dpmo (3)
 > **Definitions:** is a  (2), means that (1)
@@ -767,12 +758,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify potential projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980)
+#### [Identify potential projects](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=1)** - At this point in the course, you may be asking yourself how do I identify potential projects for Six Sigma?
+> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=1)** - At this point in the course, you may be asking yourself how do I identify potential projects for [[Six Sigma]]?
 >
 > **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=7)** What screening criteria should be used?
 >
@@ -798,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=52)** Do these performance gaps have to be closed?
 >
-> **[0:55](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=55)** Review performance reports on products, services, and processes.
+> **[0:55](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=55)** Review performance reports on [[Microsoft Products|products]], services, and processes.
 >
 > **[0:59](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980&t=59)** Identify the areas with performance shortfalls.
 >
@@ -868,13 +858,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (8), management (3), data (2), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (8), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - at (1)
 
-#### Select the Six Sigma team
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980)
+#### [Select the Six Sigma team](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=17)** Who would you select to be players for each team?
 >
-> **[0:21](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=21)** These are the types of questions you need to ask when it comes to selecting the champion, the project leader and team members for Six Sigma projects.
+> **[0:21](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=21)** These are the types of questions you need to ask when it comes to selecting the champion, the project leader and team members for [[Six Sigma]] projects.
 >
 > **[0:29](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=29)** Let's start with the champion.
 >
@@ -910,7 +899,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=78)** It is a senior management team in charge.
 >
-> **[1:21](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=81)** If the project is within a factory or office location, you want a management team of that local facility.
+> **[1:21](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=81)** If the project is within a factory or [[Microsoft Office|office]] location, you want a management team of that local facility.
 >
 > **[1:27](https://www.linkedin.com/learning/six-sigma-foundations/select-the-six-sigma-team-2?u=76281980&t=87)** If the project is across multiple locations within a division or business unit, then the senior management team in charge of that division or business unit.
 >
@@ -968,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Six Sigma]] (2), business (2), functional (2), teams (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** select the (4)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
@@ -980,12 +969,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Steps in the Define phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980)
+#### [Steps in the Define phase](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980&t=1)** - The first phase of a Six Sigma project is the define phase.
+> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980&t=1)** - The first phase of a [[Six Sigma]] project is the define phase.
 >
 > **[0:05](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980&t=5)** Let's start with a couple of questions that may be on your mind.
 >
@@ -1045,13 +1033,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (1), management (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1)
 > **Env Vars:** sipoc (4)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Speakers:** - the (1)
 
-#### Problem and goal statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980)
+#### [Problem and goal statements](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1046,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=7)** The importance of problem definition cannot be emphasized enough.
 >
-> **[0:12](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=12)** In this movie, I'll explain how to develop effective problem and goal statements for a Six Sigma project.
+> **[0:12](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=12)** In this movie, I'll explain how to develop effective problem and goal statements for a [[Six Sigma]] project.
 >
 > **[0:19](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=19)** The problem statement describes the opportunity or problem to be addressed by the Six Sigma project.
 >
@@ -1077,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=63)** Here's an example of a problem statement.
 >
-> **[1:06](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=66)** "Over the past 12 months, First Call Resolution "at our IT Help Desk is only 60%.
+> **[1:06](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=66)** "Over the past 12 months, First Call Resolution "at our [[IT Help Desk]] is only 60%.
 >
 > **[1:12](https://www.linkedin.com/learning/six-sigma-foundations/problem-and-goal-statements-2?u=76281980&t=72)** "This is below the 75% required "in our service level agreement or SLA.
 >
@@ -1133,14 +1120,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (2), business (2), product (1), [[IT Help Desk]] (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (2), [[IT Help Desk]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** sla (1), smart (1)
 > **Analogies:** for example (1)
 > **Speakers:** - to (1)
 
-#### Complete the project charter
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/complete-the-project-charter-2?u=76281980)
+#### [Complete the project charter](https://www.linkedin.com/learning/six-sigma-foundations/complete-the-project-charter-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/complete-the-project-charter-2?u=76281980&t=7)** A meeting agenda would have solved that.
 >
-> **[0:09](https://www.linkedin.com/learning/six-sigma-foundations/complete-the-project-charter-2?u=76281980&t=9)** Similarly, a Six Sigma project needs a project charter.
+> **[0:09](https://www.linkedin.com/learning/six-sigma-foundations/complete-the-project-charter-2?u=76281980&t=9)** Similarly, a [[Six Sigma]] project needs a project charter.
 >
 > **[0:13](https://www.linkedin.com/learning/six-sigma-foundations/complete-the-project-charter-2?u=76281980&t=13)** In this movie, I'll explain how to complete the project charter for a Six Sigma project.
 >
@@ -1204,13 +1190,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Six Sigma]] (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (2)
 > **Env Vars:** smart (1), dmaic (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - how (1)
 
-#### How to use SIPOC diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980)
+#### [How to use SIPOC diagrams](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1205,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=14)** SIPOC is an acronym for Supplier, Input, Process, Output, Customer.
 >
-> **[0:21](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=21)** The purpose of the SIPOC diagram is to help the Six Sigma project team document and communicate the overall scope of the processes related to the project on one page.
+> **[0:21](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=21)** The purpose of the SIPOC diagram is to help the [[Six Sigma]] project team document and communicate the overall scope of the processes related to the project on one page.
 >
 > **[0:32](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=32)** Useful features are the SIPOC are the high level bird's eye view of the process, its inputs and outputs and the lists of the suppliers and customers.
 >
@@ -1252,7 +1237,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=130)** The Process column has been completed.
 >
-> **[2:12](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=132)** Next in the Output column, lists the outputs produced by the process, and output can be completed forms, issued checks, product or a pizza.
+> **[2:12](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=132)** Next in the Output column, lists the outputs produced by the process, and output can be completed [[Forms]], issued checks, product or a pizza.
 >
 > **[2:23](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-sipoc-diagrams-2?u=76281980&t=143)** Finally, in the Customer column, lists the people, departments or companies who receive what the process produces.
 >
@@ -1270,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (2), next (2), data (1), [[Forms]] (1), product (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (2), [[Forms]] (1)
 > **Env Vars:** sipoc (7)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** for example (1)
@@ -1281,12 +1266,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Steps in the Measure phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980)
+#### [Steps in the Measure phase](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=0)** - The Measure Phase, is the second phase of our Six Sigma project.
+> **[0:00](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=0)** - The Measure Phase, is the second phase of our [[Six Sigma]] project.
 >
 > **[0:04](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=4)** It is the M, in DMAIC.
 >
@@ -1328,7 +1312,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=82)** What are the steps involved in the Measure Phase?
 >
-> **[1:25](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=85)** Before you spend time and resources collecting data and measuring, you need to develop a data collection plan.
+> **[1:25](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=85)** Before you spend time and resources collecting data and measuring, you need to develop a [[Data Collection]] plan.
 >
 > **[1:32](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980&t=92)** That's step one.
 >
@@ -1384,14 +1368,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Six Sigma]] (2), teams (1)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Six Sigma]] (2)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** dmaic (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### How to map the current process
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/how-to-map-the-current-process-2?u=76281980)
+#### [How to map the current process](https://www.linkedin.com/learning/six-sigma-foundations/how-to-map-the-current-process-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1402,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/six-sigma-foundations/how-to-map-the-current-process-2?u=76281980&t=57)** Here's an example of a process map for the wake-up-and-get-to-work-process.
 >
-> **[1:02](https://www.linkedin.com/learning/six-sigma-foundations/how-to-map-the-current-process-2?u=76281980&t=62)** Process maps are very useful in a six sigma project.
+> **[1:02](https://www.linkedin.com/learning/six-sigma-foundations/how-to-map-the-current-process-2?u=76281980&t=62)** Process maps are very useful in a [[Six Sigma]] project.
 >
 > **[1:06](https://www.linkedin.com/learning/six-sigma-foundations/how-to-map-the-current-process-2?u=76281980&t=66)** During the measure phase, we map the current process using a process map.
 >
@@ -1473,14 +1456,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Six Sigma]] (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** think of it as (1), picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - if (1)
 
-#### Plan for data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980)
+#### [Plan for data collection](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,9 +1472,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980&t=18)** These are very good questions to ask as you plan to collect data in order to measure where things stand today and to measure progress.
 >
-> **[0:26](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980&t=26)** Similarly, that's what you need to do in a Six Sigma project.
+> **[0:26](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980&t=26)** Similarly, that's what you need to do in a [[Six Sigma]] project.
 >
-> **[0:31](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980&t=31)** In this movie I will discuss how to plan for data collection during the measure phase of a Six Sigma project.
+> **[0:31](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980&t=31)** In this movie I will discuss how to plan for [[Data Collection]] during the measure phase of a Six Sigma project.
 >
 > **[0:38](https://www.linkedin.com/learning/six-sigma-foundations/plan-for-data-collection-2?u=76281980&t=38)** Why plan for data collection?
 >
@@ -1532,19 +1514,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Six Sigma]] (2), teams (1)
+> **Frameworks & Libraries:** [[Data Collection]] (4), [[Six Sigma]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Types of data and graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/types-of-data-and-graphs?u=76281980)
+#### [Types of data and graphs](https://www.linkedin.com/learning/six-sigma-foundations/types-of-data-and-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/types-of-data-and-graphs?u=76281980&t=1)** - Throughout this chapter, we have been using the example of a pizza chain with customer complaints about their crust.
 >
-> **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/types-of-data-and-graphs?u=76281980&t=7)** Let's return to our example to help us understand the types of data and graphs used in Six Sigma projects.
+> **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/types-of-data-and-graphs?u=76281980&t=7)** Let's return to our example to help us understand the types of data and graphs used in [[Six Sigma]] projects.
 >
 > **[0:13](https://www.linkedin.com/learning/six-sigma-foundations/types-of-data-and-graphs?u=76281980&t=13)** With the pizza crust problem, you would want to know if the thickness of pizza crust is consistent and how many complaints on pizza crust were received by each of the 10 restaurants.
 >
@@ -1614,20 +1595,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Six Sigma]] (3)
+> **Frameworks & Libraries:** [[Six Sigma]] (3)
 > **Analogies:** such as (5), for example (4)
 > **Definitions:** is a  (2), in other words (1)
 > **Versions:** 2.2 (1), 175.6 (1)
 > **Speakers:** - throughout (1)
 
-#### Measurement system analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980)
+#### [Measurement system analysis](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=1)** - In the morning, when I step on a bathroom scale, I am X pounds.
 >
-> **[0:06](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=6)** When I visit the doctor's office that same day, the nurse weighs me, and I end up at more than X pounds.
+> **[0:06](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=6)** When I visit the doctor's [[Microsoft Office|office]] that same day, the nurse weighs me, and I end up at more than X pounds.
 >
 > **[0:12](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=12)** Which weight is correct?
 >
@@ -1635,7 +1615,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=17)** In this movie, I will discuss the importance of ensuring that data is valid before using it.
 >
-> **[0:23](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=23)** In Six Sigma projects, this is done using a technique called measurement system analysis, or MSA for short.
+> **[0:23](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=23)** In [[Six Sigma]] projects, this is done using a technique called measurement system analysis, or MSA for short.
 >
 > **[0:30](https://www.linkedin.com/learning/six-sigma-foundations/measurement-system-analysis-2?u=76281980&t=30)** MSA is done early during the measure phase so that any data to be collected or used is valid.
 >
@@ -1681,15 +1661,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (2), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Six Sigma]] (1)
 > **Env Vars:** msa (6)
 > **Definitions:** means that (2), in other words (1)
 > **Analogies:** such as (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - in (1)
 
-#### Process capability and sigma level
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/process-capability-and-sigma-level-2?u=76281980)
+#### [Process capability and sigma level](https://www.linkedin.com/learning/six-sigma-foundations/process-capability-and-sigma-level-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1759,7 +1738,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), express (1)
 > **Definitions:** is a  (2), refers to (1), is an  (1)
 > **Documentation:** specification (3)
 > **CLI Commands:** make (1)
@@ -1772,8 +1750,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Steps in the Analyze phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980)
+#### [Steps in the Analyze phase](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,15 +1764,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=22)** So let's discuss the Analyze Phase and the steps involved.
 >
-> **[0:26](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=26)** The Analyze Phase is the third phase of a Six Sigma Project.
+> **[0:26](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=26)** The Analyze Phase is the third phase of a [[Six Sigma]] Project.
 >
 > **[0:30](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=30)** It is the A in DMAIC.
 >
-> **[0:34](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=34)** The purpose of this phase is to answer the w word, why, why is there a problem?
+> **[0:34](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=34)** The purpose of this phase is to answer the w [[Microsoft Word|word]], why, why is there a problem?
 >
 > **[0:40](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=40)** We have to determine which X's are the key factors that impact the problem Y, in the equation Y equals f of x.
 >
-> **[0:49](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=49)** There are five steps in the Analyze Phase, Generate a list of potential X's that impact Y, Organize the potential X's, Shortlist and select the likely X's, Develop a data collection plan for the analysis, and Prove the key X's in Y equals f of x.
+> **[0:49](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=49)** There are five steps in the Analyze Phase, Generate a list of potential X's that impact Y, Organize the potential X's, Shortlist and select the likely X's, Develop a [[Data Collection]] plan for the analysis, and Prove the key X's in Y equals f of x.
 >
 > **[1:10](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=70)** Let's take a look at the first step, Generating a list of potential X's that impact Y.
 >
@@ -1831,7 +1808,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=168)** Therefore you should plan to collect sufficient data on oven temperature and how well done the crust is.
 >
-> **[2:54](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=174)** The final step is to prove the key X's, Inferential statistics and Hypothesis testing are used.
+> **[2:54](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=174)** The final step is to prove the key X's, Inferential [[Statistics]] and Hypothesis testing are used.
 >
 > **[3:01](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980&t=181)** Conduct the necessary tests, such as the regression prevention, to validate the key X factors.
 >
@@ -1849,15 +1826,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Six Sigma]] (2), [[Microsoft Word|Word]] (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Six Sigma]] (2), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** such as (2)
 > **Env Vars:** dmaic (1)
 > **Speakers:** - have (1)
 
-#### How to use the cause-effect diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980)
+#### [How to use the cause-effect diagram](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1875,7 +1851,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=31)** Wouldn't it be nice to have a tool to organize all the possible causes?
 >
-> **[0:37](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=37)** Well, in this movie, we'll discuss the tool used to facilitate brainstorming and organize potential causes, or Xs in a Six Sigma project.
+> **[0:37](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=37)** Well, in this movie, we'll discuss the tool used to facilitate brainstorming and organize potential causes, or Xs in a [[Six Sigma]] project.
 >
 > **[0:46](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=46)** This tool is called the Cause-Effect Diagram.
 >
@@ -1905,7 +1881,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=112)** This CE diagram takes a form of a tree diagram.
 >
-> **[1:56](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=116)** I used Excel to create this.
+> **[1:56](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=116)** I used [[Microsoft Excel|Excel]] to create this.
 >
 > **[1:58](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-the-cause-effect-diagram-2?u=76281980&t=118)** This is easy to revise, update, and maintain, when you're getting inputs from project team members, any additional subject meta X splits, and process personal in the brainstorming session.
 >
@@ -1935,13 +1911,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), traffic (1), [[Six Sigma]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/introduction-to-hypothesis-testing-2?u=76281980)
+#### [Introduction to hypothesis testing](https://www.linkedin.com/learning/six-sigma-foundations/introduction-to-hypothesis-testing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1958,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/six-sigma-foundations/introduction-to-hypothesis-testing-2?u=76281980&t=92)** Then the theory that the Butler did it is disproven.
 >
-> **[1:36](https://www.linkedin.com/learning/six-sigma-foundations/introduction-to-hypothesis-testing-2?u=76281980&t=96)** In terms of a Six Sigma Project, the theories of potential X's are all listed on the cause effect diagram during the analyze phase.
+> **[1:36](https://www.linkedin.com/learning/six-sigma-foundations/introduction-to-hypothesis-testing-2?u=76281980&t=96)** In terms of a [[Six Sigma]] Project, the theories of potential X's are all listed on the cause effect diagram during the analyze phase.
 >
 > **[1:45](https://www.linkedin.com/learning/six-sigma-foundations/introduction-to-hypothesis-testing-2?u=76281980&t=105)** Using the knowledge and experience of the project team and subject matter experts, the likely theories or X's are selected to be tested with data.
 >
@@ -2009,14 +1984,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - if (1)
 
-#### Data collection in the Analyze phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980)
+#### [Data collection in the Analyze phase](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2026,9 +2000,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980&t=10)** He considers how he will collect it, who he will talk to and where he should go.
 >
-> **[0:15](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980&t=15)** He has a plan for data collection.
+> **[0:15](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980&t=15)** He has a plan for [[Data Collection]].
 >
-> **[0:18](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980&t=18)** So, let's imagine ourselves as Sherlock Holmes and let's discuss how to plan for data collection to test hypotheses during the analyze phase of a Six Sigma project.
+> **[0:18](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980&t=18)** So, let's imagine ourselves as Sherlock Holmes and let's discuss how to plan for data collection to test hypotheses during the analyze phase of a [[Six Sigma]] project.
 >
 > **[0:29](https://www.linkedin.com/learning/six-sigma-foundations/data-collection-in-the-analyze-phase-2?u=76281980&t=29)** Planning for data collection in the analyze phase starts with the following questions.
 >
@@ -2074,13 +2048,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Six Sigma]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Collection]] (6), [[Six Sigma]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - if (1)
 
-#### How to analyze graphs and charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-graphs-and-charts-2?u=76281980)
+#### [How to analyze graphs and charts](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-graphs-and-charts-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2088,7 +2061,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-graphs-and-charts-2?u=76281980&t=4)** The pizza chain is losing revenue.
 >
-> **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-graphs-and-charts-2?u=76281980&t=7)** A Six Sigma project team is now in the analyze phase.
+> **[0:07](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-graphs-and-charts-2?u=76281980&t=7)** A [[Six Sigma]] project team is now in the analyze phase.
 >
 > **[0:11](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-graphs-and-charts-2?u=76281980&t=11)** Potential x's were generated, and a few x's were selected to be tested and validated.
 >
@@ -2140,12 +2113,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - customers (1)
 
-#### How to analyze process maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-process-maps-2?u=76281980)
+#### [How to analyze process maps](https://www.linkedin.com/learning/six-sigma-foundations/how-to-analyze-process-maps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2219,7 +2191,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** snap (1)
 > **Env Vars:** nva (1)
@@ -2231,12 +2202,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Steps in the Improve phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980)
+#### [Steps in the Improve phase](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=1)** - We've reached the fourth phase in a Six Sigma project, the improve phase.
+> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=1)** - We've reached the fourth phase in a [[Six Sigma]] project, the improve phase.
 >
 > **[0:05](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=5)** What is the purpose the improve phase?
 >
@@ -2254,7 +2224,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=55)** However, before implementing the solutions, you must apply these tools and techniques: process maps of the improved process, FMEA or failure modes and effects analysis used for identifying and mitigating any potential risk of failure in the new process, mistake proofing to error proof any possibility of errors occurring, and pilot testing prior to full implementation.
 >
-> **[1:25](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=85)** Various tools such as design of experiments, DOE, and process simulation may be used to determine optimal settings.
+> **[1:25](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=85)** Various tools such as design of experiments, DOE, and process [[Simulation]] may be used to determine optimal settings.
 >
 > **[1:34](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980&t=94)** For example, in our pizza crust problem, DOE can be used to determine the optimal settings for oven temperature, baking time, and tossing technique, as well as methods and procedures to reduce any variation from those settings.
 >
@@ -2280,15 +2250,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (1), [[Simulation]] (1), management (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[Simulation]] (1)
 > **Env Vars:** doe (2), fmea (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** such as (1), for example (1)
 > **Versions:** 11.2 (1)
 > **Speakers:** - we (1)
 
-#### Generate, evaluate, and select solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/generate-evaluate-and-select-solutions-2?u=76281980)
+#### [Generate, evaluate, and select solutions](https://www.linkedin.com/learning/six-sigma-foundations/generate-evaluate-and-select-solutions-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2363,8 +2332,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - what (1)
 
-#### Reduce the risk of failure through FMEA
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/reduce-the-risk-of-failure-through-fmea-2?u=76281980)
+#### [Reduce the risk of failure through FMEA](https://www.linkedin.com/learning/six-sigma-foundations/reduce-the-risk-of-failure-through-fmea-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2386,7 +2354,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/six-sigma-foundations/reduce-the-risk-of-failure-through-fmea-2?u=76281980&t=32)** Since then it has been used in many industries and it is even a requirement in the automotive industry.
 >
-> **[0:40](https://www.linkedin.com/learning/six-sigma-foundations/reduce-the-risk-of-failure-through-fmea-2?u=76281980&t=40)** It is also widely used in Six Sigma projects.
+> **[0:40](https://www.linkedin.com/learning/six-sigma-foundations/reduce-the-risk-of-failure-through-fmea-2?u=76281980&t=40)** It is also widely used in [[Six Sigma]] projects.
 >
 > **[0:44](https://www.linkedin.com/learning/six-sigma-foundations/reduce-the-risk-of-failure-through-fmea-2?u=76281980&t=44)** There are two types of FMEA, the Design FMEA, and the Process FMEA.
 >
@@ -2438,14 +2406,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (3), product (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (3)
 > **Env Vars:** fmea (11), rpn (2), dmaic (1)
 > **Definitions:** is called (4)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - think (1)
 
-#### Mistake proofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980)
+#### [Mistake proofing](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2455,9 +2422,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=8)** That's mistake proofing.
 >
-> **[0:10](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=10)** Would it be useful to have mistake proofing in your processes, products, and services?
+> **[0:10](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=10)** Would it be useful to have mistake proofing in your processes, [[Microsoft Products|products]], and services?
 >
-> **[0:16](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=16)** Let's discuss the basic principles of mistake proofing and how they can be applied during the Improve phase of a Six Sigma project.
+> **[0:16](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=16)** Let's discuss the basic principles of mistake proofing and how they can be applied during the Improve phase of a [[Six Sigma]] project.
 >
 > **[0:24](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=24)** Mistake proofing or error proofing, as it is sometimes called, is best when it prevents errors from occurring, and if that's not possible, the next best thing is to facilitate the work so that errors are minimized.
 >
@@ -2505,7 +2472,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=163)** If mistake proofing by prevention or facilitation is not possible, then utilize mistake proofing by detection, where detection of errors is immediate, either by being obvious or automated.
 >
-> **[2:57](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=177)** And example of this is automatic spell check in documents using word processing programs, where wiggly lines are drawn immediately after a word is spelled in correctly.
+> **[2:57](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=177)** And example of this is automatic spell check in documents using [[Microsoft Word|word]] processing programs, where wiggly lines are drawn immediately after a word is spelled in correctly.
 >
 > **[3:06](https://www.linkedin.com/learning/six-sigma-foundations/mistake-proofing-2?u=76281980&t=186)** So, integrate mistake proofing into your Improve process.
 >
@@ -2517,13 +2484,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Six Sigma]] (1)
 > **Env Vars:** atm (2), pin (1)
 > **Analogies:** picture (2)
 > **Speakers:** - when (1)
 
-#### Pilot test and implement
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980)
+#### [Pilot test and implement](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2503,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=21)** A pilot is the trial run, a dry run, or a small-scale test to make sure the the improvements will work as planned.
 >
-> **[0:28](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=28)** It is an opportunity for the Six Sigma project team to understand how the improvement solutions will work on a very limited, or small-scale basis, before a full-scale implementation.
+> **[0:28](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=28)** It is an opportunity for the [[Six Sigma]] project team to understand how the improvement solutions will work on a very limited, or small-scale basis, before a full-scale implementation.
 >
 > **[0:40](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=40)** Pilots enable any kinks or problems to be uncovered and fixed.
 >
@@ -2547,7 +2513,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=56)** For example, when improvements are made to a machine or a process, it is best to pilot it first in one production line, or in one location, before implementing it across all 100 locations company-wide.
 >
-> **[1:10](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=70)** It may come as a surprise to many folks, but a pilot is actually a data collection exercise.
+> **[1:10](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=70)** It may come as a surprise to many folks, but a pilot is actually a [[Data Collection]] exercise.
 >
 > **[1:16](https://www.linkedin.com/learning/six-sigma-foundations/pilot-test-and-implement-2?u=76281980&t=76)** Why?
 >
@@ -2589,7 +2555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Six Sigma]] (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1), [[Data Collection]] (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -2600,8 +2566,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Steps in the Control phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980)
+#### [Steps in the Control phase](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2615,7 +2580,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980&t=15)** You don't want that to happen to your project.
 >
-> **[0:18](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980&t=18)** Now that you're Six Sigma project team has improved the why, how do you ensure that a new performance level is sustainable.
+> **[0:18](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980&t=18)** Now that you're [[Six Sigma]] project team has improved the why, how do you ensure that a new performance level is sustainable.
 >
 > **[0:25](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980&t=25)** That's why you need the control phase.
 >
@@ -2667,13 +2632,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (1), next (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### How to use SPC charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980)
+#### [How to use SPC charts](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,7 +2655,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=20)** The purpose of the Control Chart or SPC Chart is to indicate to you when to leave the process alone and when to intervene and troubleshoot, why?
 >
-> **[0:29](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=29)** So that you don't react to random variation.
+> **[0:29](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=29)** So that you don't [[React.js|react]] to random variation.
 >
 > **[0:32](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=32)** Regardless of how well designed a process is, there will always be some variation, and even under the best operating conditions.
 >
@@ -2715,7 +2679,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=88)** That is what a Control Chart or SPC Chart does.
 >
-> **[1:32](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=92)** Using statistics to indicate when it is random variation and when it is not.
+> **[1:32](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=92)** Using [[Statistics]] to indicate when it is random variation and when it is not.
 >
 > **[1:38](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=98)** The SPC Chart tells you when to leave the process alone because it's just random variation, and when to intervene and take action because something out of the ordinary happened.
 >
@@ -2743,13 +2707,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=177)** There are SPC Charts for continuous measurements, such as, dimensions and time, and there are SPC Charts for counts of defects and proportions.
 >
-> **[3:07](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=187)** So, whether your process is producing products or processing a transaction, such as an invoice, SPC Charts are applicable to provide signals to the process owners on when to take action and when to leave the process alone.
+> **[3:07](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=187)** So, whether your process is producing [[Microsoft Products|products]] or processing a transaction, such as an invoice, SPC Charts are applicable to provide signals to the process owners on when to take action and when to leave the process alone.
 >
 > **[3:22](https://www.linkedin.com/learning/six-sigma-foundations/how-to-use-spc-charts-2?u=76281980&t=202)** Implement SPC Charts during your control phase, don't react to random variation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[Statistics]] (1), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** spc (12)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** go to (1)
@@ -2757,12 +2721,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - after (1)
 
-#### The control plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980)
+#### [The control plan](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=1)** - How often is the temperature in your office not quite right?
+> **[0:01](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=1)** - How often is the temperature in your [[Microsoft Office|office]] not quite right?
 >
 > **[0:04](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=4)** Maybe it's too hot or too cold, who decides?
 >
@@ -2780,7 +2743,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=35)** It provides process owners and operators with the means to control a process so that it performs well day in and day out.
 >
-> **[0:44](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=44)** That is why the control plan is so important during the control phase of a Six Sigma project.
+> **[0:44](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=44)** That is why the control plan is so important during the control phase of a [[Six Sigma]] project.
 >
 > **[0:50](https://www.linkedin.com/learning/six-sigma-foundations/the-control-plan-2?u=76281980&t=50)** The control plan specifies one, what needs to be controlled.
 >
@@ -2834,8 +2797,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Engage in Six Sigma projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980)
+#### [Engage in Six Sigma projects](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2843,7 +2805,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980&t=2)** You have made it to the end of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980&t=5)** Six Sigma is a powerful project methodology for improvement.
+> **[0:05](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980&t=5)** [[Six Sigma]] is a powerful project methodology for improvement.
 >
 > **[0:09](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980&t=9)** It is customer-focused and data-driven.
 >
@@ -2861,7 +2823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (4), data (2)
+> **Frameworks & Libraries:** [[Six Sigma]] (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)
 

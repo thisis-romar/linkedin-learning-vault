@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980)
+#### [Getting started with Arduino](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980&t=0)** - Have you ever wanted to create an interactive art project, a simple robot or just create a custom smart device inside your home?
 >
-> **[0:09](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980&t=9)** Maybe you're interested in electronics and programming, then Arduino programming might be just what you're looking for, even if you have zero background in electronics.
+> **[0:09](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980&t=9)** Maybe you're interested in [[Electronics]] and programming, then [[Arduino]] programming might be just what you're looking for, even if you have zero background in electronics.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980&t=21)** In this course, I'm going to introduce you to the Arduino board to get familiar with the hardware, introduce you to the software part, and teach the codes needed to create your first Arduino program.
+> **[0:21](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980&t=21)** In this course, I'm going to introduce you to the Arduino board to get familiar with the [[Hardware]], introduce you to the software part, and teach the codes needed to create your first Arduino program.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980&t=35)** At the end, you will be able to use Arduino for simple interactive projects, and you'll be ready to jump into more advanced topics.
 >
@@ -102,15 +101,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), [[Electronics]] (2), [[Programming]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), [[Electronics]] (2), [[Hardware]] (1)
 > **Speakers:** - have (1)
 
-#### Arduino hardware for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/arduino-hardware-for-this-course?u=76281980)
+#### [Arduino hardware for this course](https://www.linkedin.com/learning/learning-arduino-foundations-2/arduino-hardware-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/arduino-hardware-for-this-course?u=76281980&t=1)** - [Narrator] All right, so the component that we need for the course are Arduino Uno, a 10k ohm resistor, a 330 ohm and we need three of them, three LEDs, push button, and jumper wires.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/arduino-hardware-for-this-course?u=76281980&t=1)** - [Narrator] All right, so the component that we need for the course are [[Arduino]] Uno, a 10k ohm resistor, a 330 ohm and we need three of them, three LEDs, push button, and jumper wires.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-foundations-2/arduino-hardware-for-this-course?u=76281980&t=22)** The last thing that we need is a breadboard to make the connection of the circuit.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -147,12 +145,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an Arduino?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980)
+#### [What is an Arduino?](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980&t=1)** - [Instructor] An Arduino consists of both a physical programmable circuit board, which is called a microcontroller, and a software that we use to write the code that will be uploaded to the board.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980&t=1)** - [Instructor] An [[Arduino]] consists of both a physical programmable circuit board, which is called a microcontroller, and a software that we use to write the code that will be uploaded to the board.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980&t=12)** The Arduino software is called the IDE, or Integrated Development Environment, and it runs on your computer.
 >
@@ -178,17 +175,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (15), power (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (15)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Env Vars:** ide (2), led (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Arduino layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-arduino-layout-14280377?u=76281980)
+#### [The Arduino layout](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-arduino-layout-14280377?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-arduino-layout-14280377?u=76281980&t=1)** - [Narrator] Let's take a look at the layout of our Arduino board.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-arduino-layout-14280377?u=76281980&t=1)** - [Narrator] Let's take a look at the layout of our [[Arduino]] board.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-arduino-layout-14280377?u=76281980&t=4)** The Arduino Uno is one of the most commonly used units for prototypes that require a simple microcontroller.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (14), power (5), [[Debugging]] (3), data (1)
+> **Frameworks & Libraries:** [[Arduino]] (14)
 > **Env Vars:** usb (3), led (2), crl (1), ide (1), avr (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -254,12 +250,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Digital interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/digital-interfaces-14281263?u=76281980)
+#### [Digital interfaces](https://www.linkedin.com/learning/learning-arduino-foundations-2/digital-interfaces-14281263?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/digital-interfaces-14281263?u=76281980&t=1)** - [Narrator] Let's take a look at the Arduino digital pins.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/digital-interfaces-14281263?u=76281980&t=1)** - [Narrator] Let's take a look at the [[Arduino]] digital pins.
 >
 > **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/digital-interfaces-14281263?u=76281980&t=1)** Digital values or signals simply mean zero or one, so it's either on or off.
 >
@@ -303,12 +298,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Analog interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/analog-interfaces-14280379?u=76281980)
+#### [Analog interfaces](https://www.linkedin.com/learning/learning-arduino-foundations-2/analog-interfaces-14280379?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/analog-interfaces-14280379?u=76281980&t=1)** - [Instructor] Often times when using Arduino board for our project, you might want to interface with an analog device, such as motors and temperature or light sensors.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/analog-interfaces-14280379?u=76281980&t=1)** - [Instructor] Often times when using [[Arduino]] board for our project, you might want to interface with an analog device, such as motors and temperature or light sensors.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-arduino-foundations-2/analog-interfaces-14280379?u=76281980&t=15)** Analog signals are simply signals that have a continuous range of values.
 >
@@ -352,14 +346,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The power pins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-power-pins-14276601?u=76281980)
+#### [The power pins](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-power-pins-14276601?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-power-pins-14276601?u=76281980&t=1)** - [Instructor] These are the power pins.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-power-pins-14276601?u=76281980&t=2)** They're usually located in the left side of the Arduino board.
+> **[0:02](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-power-pins-14276601?u=76281980&t=2)** They're usually located in the left side of the [[Arduino]] board.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-power-pins-14276601?u=76281980&t=6)** The first one is a Voltage In.
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Arduino]] (2)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** usb (1)
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
@@ -396,12 +389,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Download the Arduino software
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980)
+#### [Download the Arduino software](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980&t=1)** - [Instructor] The Arduino integrated development environment, IDE, is the software that's used to write, compile, and upload your Arduino programs.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980&t=1)** - [Instructor] The [[Arduino]] integrated development environment, IDE, is the software that's used to write, compile, and upload your Arduino programs.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980&t=11)** You can download the software from their main Arduino website by going to Software, and then select Downloads.
 >
@@ -423,16 +415,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### A tour of the Arduino IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980)
+#### [A tour of the Arduino IDE](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980&t=1)** So now let's take a tour of the Arduino IDE software.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980&t=1)** So now let's take a tour of the [[Arduino]] IDE software.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980&t=6)** The Arduino IDE uses what we call a graphical text editor for writing code with all the word processing features like copy, cut and paste.
+> **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980&t=6)** The Arduino IDE uses what we call a graphical text editor for writing code with all the [[Microsoft Word|word]] processing features like copy, cut and paste.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-arduino-foundations-2/a-tour-of-the-arduino-ide-14276602?u=76281980&t=16)** You notice that once you open the software, it comes in with a default starting code.
 >
@@ -513,8 +504,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The setup() and loop() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-setup-and-loop-functions-14281265?u=76281980)
+#### [The setup() and loop() functions](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-setup-and-loop-functions-14281265?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +514,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-setup-and-loop-functions-14281265?u=76281980&t=7)** The code contains two functions.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-setup-and-loop-functions-14281265?u=76281980&t=10)** They are part of every Arduino sketch: setup function and a loop function.
+> **[0:10](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-setup-and-loop-functions-14281265?u=76281980&t=10)** They are part of every [[Arduino]] sketch: setup function and a loop function.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-arduino-foundations-2/the-setup-and-loop-functions-14281265?u=76281980&t=16)** The Arduino program calls the setup function as the first thing when the Arduino unit powers up.
 >
@@ -554,12 +544,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### pinMode()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/pinmode?u=76281980)
+#### [pinMode()](https://www.linkedin.com/learning/learning-arduino-foundations-2/pinmode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/pinmode?u=76281980&t=1)** - [Instructor] Now let's try to understand some of the main commands used with an Arduino IDE.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/pinmode?u=76281980&t=1)** - [Instructor] Now let's try to understand some of the main commands used with an [[Arduino]] IDE.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/pinmode?u=76281980&t=6)** You can use each digital interface on the Arduino as either input or an output, but not both at the same time.
 >
@@ -618,8 +607,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### digitalWrite()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/digitalwrite?u=76281980)
+#### [digitalWrite()](https://www.linkedin.com/learning/learning-arduino-foundations-2/digitalwrite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -657,8 +645,7 @@ created: 2026-05-02
 > **Env Vars:** led (2), high (1), low (1)
 > **Speakers:** - all (1)
 
-#### Creating your first sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/creating-your-first-sketch-14280378?u=76281980)
+#### [Creating your first sketch](https://www.linkedin.com/learning/learning-arduino-foundations-2/creating-your-first-sketch-14280378?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +699,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** led (1)
@@ -720,8 +706,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serial Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/serial-monitor-14278397?u=76281980)
+#### [Serial Monitor](https://www.linkedin.com/learning/learning-arduino-foundations-2/serial-monitor-14278397?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,20 +738,19 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-arduino-foundations-2/serial-monitor-14278397?u=76281980&t=95)** And the other function that we're are going to use is print.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-arduino-foundations-2/serial-monitor-14278397?u=76281980&t=99)** This command now takes different forms depending on what you want to show on the display box.
+> **[1:39](https://www.linkedin.com/learning/learning-arduino-foundations-2/serial-monitor-14278397?u=76281980&t=99)** This command now takes different [[Forms]] depending on what you want to show on the display box.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-arduino-foundations-2/serial-monitor-14278397?u=76281980&t=106)** So, if you want to show numbers or tax, there are different formats for using the Serial print.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), [[Troubleshooting]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - all (1)
 
-#### Testing blink LED and Serial Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/testing-blink-led-and-serial-monitor?u=76281980)
+#### [Testing blink LED and Serial Monitor](https://www.linkedin.com/learning/learning-arduino-foundations-2/testing-blink-led-and-serial-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-arduino-foundations-2/testing-blink-led-and-serial-monitor?u=76281980&t=112)** When we use a quotation mark, the sentence appears as it is, versus when we put a variable, it displays the value of the variable itself.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-arduino-foundations-2/testing-blink-led-and-serial-monitor?u=76281980&t=122)** So go ahead and I'll verify the code and I'll upload it to the Arduino board.
+> **[2:02](https://www.linkedin.com/learning/learning-arduino-foundations-2/testing-blink-led-and-serial-monitor?u=76281980&t=122)** So go ahead and I'll verify the code and I'll upload it to the [[Arduino]] board.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-arduino-foundations-2/testing-blink-led-and-serial-monitor?u=76281980&t=129)** I'll click on the serial monitor icon.
 >
@@ -820,7 +804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (4), next (3)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Prerequisites:** setup (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -831,8 +815,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Light-emitting diodes (LEDs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980)
+#### [Light-emitting diodes (LEDs)](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,7 +851,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980&t=98)** We are going to use this to control how much current flows through the LED, and therefore, how brightly it shines.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980&t=107)** So here's how the LED is connected to the Arduino.
+> **[1:47](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980&t=107)** So here's how the LED is connected to the [[Arduino]].
 >
 > **[1:51](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980&t=111)** One side of the resistor is connected to the anode, the longer side of the LED.
 >
@@ -882,14 +865,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), application (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (9)
 > **Definitions:** is a  (3), means that (1), is called (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep dive: Calculating a current limiting resistor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/deep-dive-calculating-a-current-limiting-resistor?u=76281980)
+#### [Deep dive: Calculating a current limiting resistor](https://www.linkedin.com/learning/learning-arduino-foundations-2/deep-dive-calculating-a-current-limiting-resistor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +881,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-arduino-foundations-2/deep-dive-calculating-a-current-limiting-resistor?u=76281980&t=25)** Now, the minimum acceptable value of the resistor is determined using this equation where the resistor equals the voltage difference between the source and the voltage draw of the LED over the forward current of the LED.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-arduino-foundations-2/deep-dive-calculating-a-current-limiting-resistor?u=76281980&t=41)** Since the voltage source is the Arduino pin, now the equation looks like this.
+> **[0:41](https://www.linkedin.com/learning/learning-arduino-foundations-2/deep-dive-calculating-a-current-limiting-resistor?u=76281980&t=41)** Since the voltage source is the [[Arduino]] pin, now the equation looks like this.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-arduino-foundations-2/deep-dive-calculating-a-current-limiting-resistor?u=76281980&t=46)** The voltage includes the difference between the Arduino voltage from the pin and the specific LED voltage draw.
 >
@@ -947,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Arduino]] (4)
+> **Frameworks & Libraries:** [[Arduino]] (4)
 > **Env Vars:** led (13), high (1)
 > **Versions:** 1.8 (4), 2.2 (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -955,8 +937,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wire an LED to Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-an-led-to-arduino?u=76281980)
+#### [Wire an LED to Arduino](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-an-led-to-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,8 +992,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
 
-#### Code to blink an LED
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-to-blink-an-led?u=76281980)
+#### [Code to blink an LED](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-to-blink-an-led?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,7 +1012,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-to-blink-an-led?u=76281980&t=43)** So I'll go ahead.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-to-blink-an-led?u=76281980&t=44)** I'll verify it and upload it to the Arduino.
+> **[0:44](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-to-blink-an-led?u=76281980&t=44)** I'll verify it and upload it to the [[Arduino]].
 >
 > **[0:47](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-to-blink-an-led?u=76281980&t=47)** So now you can see the led is on for a second and all for half a second.
 >
@@ -1070,12 +1050,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - all (1)
 
-#### Example: Wiring a digital traffic signal
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-wiring-a-digital-traffic-signal?u=76281980)
+#### [Example: Wiring a digital traffic signal](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-wiring-a-digital-traffic-signal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-wiring-a-digital-traffic-signal?u=76281980&t=1)** - All right, so now let's use everything we've learned so far in order to wrap up this chapter and use this example where we use Arduino board to control three separate digital interfaces using three LEDs.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-wiring-a-digital-traffic-signal?u=76281980&t=1)** - All right, so now let's use everything we've learned so far in order to wrap up this chapter and use this example where we use [[Arduino]] board to control three separate digital interfaces using three LEDs.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-wiring-a-digital-traffic-signal?u=76281980&t=15)** So I'm going to use the three LEDs to create a simple digital traffic signal and monitoring using serial monitor.
 >
@@ -1111,13 +1090,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Arduino]] (2)
 > **Env Vars:** led (7)
 > **CLI Commands:** make (1)
 > **Speakers:** - all (1)
 
-#### Example: Coding a digital traffic signal
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-coding-a-digital-traffic-signal?u=76281980)
+#### [Example: Coding a digital traffic signal](https://www.linkedin.com/learning/learning-arduino-foundations-2/example-coding-a-digital-traffic-signal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,14 +1205,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pushbutton
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980)
+#### [Pushbutton](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980&t=1)** - [Zahraa] Pushbuttons and switches come in different sizes and shapes.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980&t=6)** Used in many applications with Arduino to provide an input signal.
+> **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980&t=6)** Used in many applications with [[Arduino]] to provide an input signal.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980&t=11)** A pushbutton is a component that connects to point in a circuit when you press it.
 >
@@ -1274,12 +1251,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [zahraa] (1)
 
-#### Active low, active high
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/active-low-active-high-14280376?u=76281980)
+#### [Active low, active high](https://www.linkedin.com/learning/learning-arduino-foundations-2/active-low-active-high-14280376?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/active-low-active-high-14280376?u=76281980&t=1)** - [Instructor] Now in order to add a switch or a push button to Arduino, we use two methods.
+> **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/active-low-active-high-14280376?u=76281980&t=1)** - [Instructor] Now in order to add a switch or a push button to [[Arduino]], we use two methods.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/active-low-active-high-14280376?u=76281980&t=6)** A pullup circuit or a pulldown circuit.
 >
@@ -1346,14 +1322,13 @@ created: 2026-05-02
 > **Env Vars:** vcc (2)
 > **Speakers:** - [instructor] (1)
 
-#### Wire a pushbutton to Arduino
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-a-pushbutton-to-arduino?u=76281980)
+#### [Wire a pushbutton to Arduino](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-a-pushbutton-to-arduino?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-a-pushbutton-to-arduino?u=76281980&t=1)** - All right, so the first thing that we know is that the first side of the push button, that goes to the VCC.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-a-pushbutton-to-arduino?u=76281980&t=7)** So we are going to use the five volts from the Arduino, and I'm going to use the common power here, and I'll connect it to the push button.
+> **[0:07](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-a-pushbutton-to-arduino?u=76281980&t=7)** So we are going to use the five volts from the [[Arduino]], and I'm going to use the common power here, and I'll connect it to the push button.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-arduino-foundations-2/wire-a-pushbutton-to-arduino?u=76281980&t=22)** All right. So this is the very first side.
 >
@@ -1371,12 +1346,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** vcc (1)
 > **Speakers:** - all (1)
 
-#### Code for the pushbutton
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-for-the-pushbutton?u=76281980)
+#### [Code for the pushbutton](https://www.linkedin.com/learning/learning-arduino-foundations-2/code-for-the-pushbutton?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,8 +1422,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Activate an LED with a pushbutton
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/activate-an-led-with-a-pushbutton-14281268?u=76281980)
+#### [Activate an LED with a pushbutton](https://www.linkedin.com/learning/learning-arduino-foundations-2/activate-an-led-with-a-pushbutton-14281268?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1469,7 +1442,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-arduino-foundations-2/activate-an-led-with-a-pushbutton-14281268?u=76281980&t=34)** The other side of the push button goes to a resistor I'm using 330 ohm.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-arduino-foundations-2/activate-an-led-with-a-pushbutton-14281268?u=76281980&t=44)** And then finally, I'm going to connect that to Arduino and I will choose pin number three.
+> **[0:44](https://www.linkedin.com/learning/learning-arduino-foundations-2/activate-an-led-with-a-pushbutton-14281268?u=76281980&t=44)** And then finally, I'm going to connect that to [[Arduino]] and I will choose pin number three.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-arduino-foundations-2/activate-an-led-with-a-pushbutton-14281268?u=76281980&t=55)** Alright, so now the first thing that we need to do is we need to identify the L-E-D pin.
 >
@@ -1513,14 +1486,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the built-in LED with INPUT_PULLUP
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/using-the-built-in-led-with-input-pullup-14278400?u=76281980)
+#### [Using the built-in LED with INPUT_PULLUP](https://www.linkedin.com/learning/learning-arduino-foundations-2/using-the-built-in-led-with-input-pullup-14278400?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-arduino-foundations-2/using-the-built-in-led-with-input-pullup-14278400?u=76281980&t=1)** - [Instructor] In this example, we are going to use pin 13 for the led and use an input and turn out pull up resistor for the push button.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-arduino-foundations-2/using-the-built-in-led-with-input-pullup-14278400?u=76281980&t=10)** Digital pin 13 on arduino board is kind of special as it has a resistor and led connected to it all the time.
+> **[0:10](https://www.linkedin.com/learning/learning-arduino-foundations-2/using-the-built-in-led-with-input-pullup-14278400?u=76281980&t=10)** Digital pin 13 on [[Arduino]] board is kind of special as it has a resistor and led connected to it all the time.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-arduino-foundations-2/using-the-built-in-led-with-input-pullup-14278400?u=76281980&t=18)** As given previously, there are three values you can use for the interface mode settings.
 >
@@ -1574,16 +1546,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=0)** - Thanks for taking the time to join me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=3)** Now that you've learned the basics, you can check out the library for my other two Arduino courses, "[[Learning Arduino- Interfacing with Hardware]]", where I use Arduino board with more complex devices like seven-segment LED, keypad, and LCD, and "[[Learning Arduino- Interfacing with Analog Devices]]", where I go through different projects using analog inputs and outputs components like LDR, temperature sensors, and separate motors.
+> **[0:03](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=3)** Now that you've learned the basics, you can check out the library for my other two [[Arduino]] courses, "[[Learning Arduino- Interfacing with [[Hardware]]]]", where I use Arduino board with more complex devices like seven-segment LED, keypad, and LCD, and "[[Learning Arduino- Interfacing with Analog Devices]]", where I go through different projects using analog inputs and outputs components like LDR, temperature sensors, and separate motors.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=39)** The LinkedIn Learning library has other Arduino courses like "Pulse Width Modulation" course and "[[Arduino- Prototyping]]" course.
+> **[0:39](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=39)** The [[LinkedIn]] Learning library has other Arduino courses like "Pulse Width Modulation" course and "[[Arduino- [[Prototyping]]]]" course.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980&t=49)** If you like to learn more about the concept or check out other projects, as always, I recommend that you check Arduino website for resources and tutorials.
 >
@@ -1597,8 +1568,7 @@ created: 2026-05-02
 > **Env Vars:** led (1), lcd (1), ldr (1)
 > **Speakers:** - thanks (1)
 
-#### Troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-14277372?u=76281980)
+#### [Troubleshooting](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-14277372?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1630,7 +1600,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** com (2), usb (1)
@@ -1638,12 +1607,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting: Arduino wiring
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-arduino-wiring?u=76281980)
+#### [Troubleshooting: Arduino wiring](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-arduino-wiring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-arduino-wiring?u=76281980&t=0)** - [Instructor] Another issue when working with Arduino is something called a floating pin.
+> **[0:00](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-arduino-wiring?u=76281980&t=0)** - [Instructor] Another issue when working with [[Arduino]] is something called a floating pin.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-arduino-foundations-2/troubleshooting-arduino-wiring?u=76281980&t=6)** A floating pin simply means a digital input pin acts as if it is an unconnected pin, so it's not connected to either voltage or a ground.
 >
@@ -1679,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (1)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Env Vars:** led (3), vcc (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
